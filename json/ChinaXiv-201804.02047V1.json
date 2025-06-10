@@ -1,0 +1,831 @@
+[
+    {
+        "type": "text",
+        "text": "精英蜂群算法及考虑利益相关者的众包定价模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "浦东平1，樊重俊1，袁光辉 2a,2b，杨云鹏1(1.上海理工大学 管理学院，上海 200093;2.上海财经大学a.信息管理与工程学院;b.实验中心，上海 200433)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：任务分配是众包流程的关键所在，也是众包价值的重要体现。从众包活动参与者即主体企业、众包平台、平台会员的视角出发，研究服务众包定价问题。在考虑会员信誉度和任务聚集度的基础上，针对含有地理因素的众包任务设计打包分配定价方案。以服务成本、任务价值、会员收益等为导向，对不同任务进行组合配置，从而设计多目标规划任务配置及定价模型，并针对该模型构建了精英蜂群算法。在精英蜂群算法中，充分利用蜜源信息并着重考虑成长性较好的蜜蜂，进而避免了局部最优问题，提高了搜索效率。通过对众包服务企业运营数据分析，获取到众包服务会员特征及任务完成相关基础信息，以此进行仿真实验。仿真结果表明通过众包任务打包定价机制，任务完成率、企业总成本、三方总收益等方面均有显著优化。综合模型及数据实验可知，众包任务在定价与发布过程中根据自身特征差异，在无差异服务中只需要考虑会员信誉度，对于具有服务差异性的任务则需要考虑打包发布。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：服务众包；定价策略；任务发布；多目标规划；精英蜂群算法 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2017.11.0748 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Elitism bee colony algorithm and crowdsourcing pricing model based on stakeholders'preferences ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pu Dongping1, Fan Chongjun1, Yuan Guanghui2a, 2b, Yang Yunpengl (1.Businesshol,Universityofanghaiforience&echnologyanghai,ina;2..hoolofotio Management&Engineering,b.Laboratory,Shanghai UniversityofFinance&Economics,Shanghai 2o90,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Taskasignmentisthekeytoconnect crowdsourcing process，anditis alsoan important embodimentof mission value.This paper studied the pricing problem of crowdsourcing model from the perspective of participants，which include enterprises,crowdsourcing platformsand members.Onthe basis ofconsidering membership credibilityand task agregation degree,an alocation pricing scheme was designed for crowdsourcing tasks with geographical factor.Guided byservice cost, task value,member income,amultiobjective programmingmodel wasconstructedbycombiningdifferentasks,andthe Elitism Bee colony Algorithm was designed for the model.In this algorithm,through theuse of nectar source informationand considering the improvementofbees,the search eficiencyis significantly improved.Then analyzing e-commerce enterprise operationdata,this papergotcrowdsourcing membershipcharacteristics,task completionrateandotherbasic information,and cariedutthesimulationexperiment.Simulationresultsshowthattheaskpackaging pricingstrategyhassignificantadvantages intask completionrate,enterprisetotalcost,andthethreeparts totalrevenue.Throughthemodelanddataexperiments,itcan beseenthatcrowdsourcinghasitsowncharacteristics inpricingandpublishing.Fornondiferentiatedservices,itonlyneeds to consider the reputation of members,for diferentiated services,the task assignment.needs to be packaged. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: crowdsourcing; pricing strategy;task asignment; multi-objectiveprogramming; elitismbee colony algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以及电子商务的发展，“众包\"已经成为电子商务服务的重要模式之一。众包作为一种分布式的问题解决机制，其采用互联网召集参与者通过协作的方式完成某项任务[1]。在众包活动者中包含企业、众包平台、会员三类参与者。其中，企业负责发布",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在信息时代，资源碎片化的多视角整合，使得众多社会活动可以由不同的人群参与完成。随着网上信息交易模式的成熟任务，会员负责完成任务，众包平台则起到了衔接企业与会员的作用。在众包平台上，一方面会员青睐于难度低、标价高的任务，另一方面企业期望以低成本得到高质量的成果，而众包任务的价格是这种双向选择得以维系的根本。MasonW等[2]通过对众包任务设定不同价格后发现定价过高并不会提高成果质量只会增加成本，而定价过低则难以吸引会员从而影响任务完成率。同时，现有的定价机制多由企业和众包平台单独或协作制定，鲜有考虑会员的收益，这样的定价模式虽然从短期来看可以使企业和平台的利益最大化。但是长此以往就会造成会员体验度下降、用户大量流失等负面影响。因此综合考虑三方主体的定价模型设计对于众包的科学管理和高效运行而言至关重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前对于众包的研究主要集中在运作模式、作用机理、会员特征等方面，而对众包定价研究则相对较少，其中综合考虑三方主体需求的定价机制研究更是一个全新的领域。这是由于定价模型设计的基础是量化分析成本和利润，但是在众包活动中，要确定不同服务水平和运营模式下的成本和利润，精确测算交易价值和相应收益对于企业、平台、会员这三个众包参与者来说通常是难以获取的。事实上，众包交易三方是站在各自的利益角度对众包价值作出假设，为了消除这种不完备信息的影响，首先需要明确三方主体在独立空间中，各自在定价过程中的成本及利益关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在企业定价机制研究方面，付磊等[3]借助博弈论分析了市场竞争对企业产品价格的影响，得出在市场价格竞争激烈的情况下，应采取零售商主导的价格与服务融合型策略。并根据客户对价格和服务的需求，将客户分为经济型、实惠型、时效性三类。彭彬等[4]从人才补贴、完全竞争市场、税收减免这三个角度设计了外包企业的定价策略，研究发现外包均衡价格受竞争者决策和企业需求函数等条件的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在平台定价机制研究方面，陆晓菁等[5基于电子口碑社区平台的双边市场特征，引入商户质量因素，对用户具有自网络外部性的社区平台的价格策略进行讨论。其中，最优价格与消费者自网络外部性及高质量商户比例成正比。吴春旭等人[6发现了平台资源量和广告量之比对平台运营有重要影响，从而设计了双寡头博弈模型，解决了正负网络效应共存的社交平台定价问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于会员及其之间的行为是一种动态交互过程，所以相关的利益价值研究相对较少，现有研究主要集中在会员信誉度的研究中。如Zhang等人[7利用博弈理论，通过建立效用矩阵和马尔科夫过程，证明了基于信誉的价格机制能够有效激励参与者合作。郝琳娜等人[8在惩罚机制的基础上，运用长期效益大于短期效益的激励，加入道德风险因素，分别搭建了诚信保障机制和信誉评价机制模型，从而防止了成员间欺诈现象的出现保障了良好的交易环节。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上研究可以发现，每个主体的收益都不同程度上受到其他主体相关因素的影响。因此，众包任务的开展与协商不能基于零和博弈原则，而应采用共赢原则。如果企业和平台对任务的交易价值和成本估测不合理，此时会员很可能会降低完成质量。反之，如果会员高估了自身价值，低估了任务难度，则有可能无法完成任务，使企业和平台造成损失。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时在众包定价模型中，需要借助智能算法对相关者需求、业务配置及发包方案进行优化分析，所以本文对涉及多个利益相关者需求的算法模型进行了研究。He等人[9]从承包商和客户的角度，根据项目融资成本在双方之间的分布情况，设计了嵌套环模型的模拟退火算法，从而有效解决了项目支付进度安排的问题。Kong 等人[10]建立了一个定量分析基础设施项目违约风险和贷款损失的量化模型，该模型通过监测项目公司信贷质量的变化来帮助贷款人评估他们对违约风险的认知情况。有利于协助贷款人和投资者双方作出正确的投资决策、价格合同和资本分配。以上算法模型虽然能够高效准确的分析双方的利益关系，但在三方利益相关者的分析上效果较差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过研究发现，改进的蜂群算法能够有效满足众包定价问题多目标优化和约束优化的需求，邱剑锋等[1提出了一种基于交叉突变的人工蜂群算法，该算法根据适应度值的好坏把整个蜂群进行划分，将交叉突变算子应用到每个种群的个体中，以此均衡了蜂群的全局探测和局部开采能力。周清雷等[12]通过优化领域搜索策略，设计了基于Pareto占优的多目标人工蜂群算法，通过仿真分析得出该算法在最优边界的趋近程度和个体多样性等方面效果显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，合理的众包定价机制是维系企业、平台、会员这三方主体合作关系的有力保障。本文全面考虑各主体在流程中的属性和需求，以会员信誉度为切入点，针对含有地理因素的众包问题设计打包定价模型。并根据该问题综合收益、任务完成率等优化目标设计了改进的蜂群算法，即精英蜂群算法进行仿真分析，以期为众包良性发展提供新思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 利益相关者众包服务定价模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常而言，众包平台中的会员会倾向于选择性价比较高的任务。即在可以同时预定多个任务的情况下，会员会选择相似度高、时间较短的任务，以期减少跨任务带来的时间和精力成本。从而造成了某些任务预订人数超出了规定范围，而某些任务预订人数较少或无人预订。这种众包人力资源自然流动的不平衡现象一方面降低了平台整体任务的完成率，另一方面容易引起会员间的恶性竞争。为了解决以上问题，本节将针对含有地理因素的众包活动，构建基于会员信誉度和任务打包的定价模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设平台提前已将任务集合 $A$ 打包成包含 $n _ { 2 }$ 个任务包的集合 $A _ { 1 }$ 。 $\\dot { \\boldsymbol u _ { d } ^ { * } }$ 表示第 $d$ 个任务包的中心横坐标； $\\nu _ { d } ^ { \" }$ 表示第 $d$ 个任务包中心纵坐标； $o _ { d j }$ 表示将第 $d$ 个任务包分配给第i位会员。打包背景下的任务分配，考虑到划分半径越大，任务包所包含的任务就会越多。为了适应各种特点的会员预订，需要控制每个包中的任务数量，假设其数量不得低于 $\\delta _ { \\scriptscriptstyle 1 }$ ，不得高于 $\\delta _ { ? }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 企业视角分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在众包活动中，企业作为整个流程的起始端，其需要确定任务内容、选择众包平台、发布接收任务、评估成果质量等。在发布任务时，企业往往希望通过最小的投入获取到最大的任务完成率，即以追求任务实现率的最大化和保证任务成本的最小化为价值目标。而如何衡量和分析成本及效率则是实现企业目标的关键所在。任务成本主要包括合同成本、监控成本和协调成本等，任务实现率主要包括完成质量、完成时间、服务水平等。准确测算成本和效率能够帮助企业科学制定众包任务奖惩机制有效实现需求目标，与平台及会员建立长期良好的合作关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "企业任务实现率最大化的定义函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 1 } = \\operatorname* { m a x } \\sum _ { i = 1 } ^ { n } p ( Y ( \\mathbf { o } _ { d j } ) = 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "企业任务成本最小化的定义函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 2 } = \\operatorname* { m i n } \\sum _ { i = 1 } ^ { n } w ( \\mathbf { 0 } _ { d j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $p ( Y ( 0 _ { d j } ) = 1 )$ 及 $w ( 0 _ { d j } )$ 分别如式(13)和(14)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 会员视角分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1会员信誉度视角分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在众包平台中，会员主要通过自由分配预订额度的方式竞争获取任务。由于会员的总预订额度大于每次发布的任务总量，所以会出现某一任务的被预定量可能会大于其可分配量的现象。当所有任务分配完成后，可能会导致仍有部分会员资源闲置。在一个电子商务平台中，将任务分配给高信誉度(高级别)的会员有助于提高任务完成率，而会员信誉度等级越高其雇佣价格也越高。所以本节综合考虑了会员信誉度等级等因素，采用Logistic回归方法[15]进行建模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于累积Logistic 概率函数Logistic 回归分析描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = { \\frac { 1 } { 1 + e ^ { - 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P$ 表示任务完成的概率，自变量的定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz = \\beta _ { 0 } + \\beta _ { 1 } r _ { 1 } + \\beta _ { 2 } r _ { 2 } + \\beta _ { 3 } r _ { 3 } + \\cdots + \\beta _ { k } r _ { k } + \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对数变换，上述模型可变为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL \\mathrm { n } \\frac { P ( Y = 1 ) } { P ( Y = 0 ) } = \\beta _ { 0 } + \\beta _ { 1 } r _ { 1 } + \\beta _ { 2 } r _ { 2 } + \\beta _ { 3 } r _ { 3 } + \\cdots + \\beta _ { k } r _ { k } + \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$L o g i t ( P ) = \\beta _ { 0 } + \\beta _ { 1 } R _ { 1 } + \\beta _ { 2 } R _ { 2 } + \\beta _ { 3 } R _ { 3 } + \\cdots + \\beta _ { k } R _ { k } + \\varepsilon$ (0)其中： $P ( Y = 1 ) , P ( Y = 0 )$ 分别为已完成任务的概率、未完成任务的概率， $p$ 为优势比， $R _ { k }$ 为解释变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在电子商务平台中，一个任务的定价过低，往往会造成任务无法完成，因此任务价格 $w _ { i }$ 可以作为任务完成率的自变量考虑。此外，任务与任务中心的距离 $\\boldsymbol { d } _ { t i }$ ，任务与会员中心的距离 $d _ { m i }$ ，一定范围内的会员数 $n _ { i }$ ，及该范围内的平均信誉值 $\\boldsymbol { \\nu } _ { i }$ 会对区域内的任务分配及价格均衡产生一定影响。综上，对基于会员信誉度的任务完成率模型如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( Y ( \\mathbf { z } _ { i t } ) = 1 ) = \\beta _ { 0 } + \\beta _ { 1 } w ( \\mathbf { z } _ { i t } ) + \\beta _ { 2 } e _ { 1 } + \\beta _ { 3 } e _ { 2 } + \\mu _ { 2 } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw ( z _ { i t } ) = \\alpha _ { 0 } e _ { 1 } + \\hat { \\sigma } _ { 1 } 7 e _ { 2 } + \\hat { \\sigma } _ { 3 } + \\mu _ { 1 } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $Z _ { \\dot { u } }$ 表示第 $t$ 类会员执行第 $i$ 项任务。 $u _ { 1 } ( \\mathfrak { t } ) = \\mathbf { k } _ { 1 } g _ { t } , u _ { 2 } ( \\mathfrak { t } ) = \\mathbf { k } _ { 2 } g _ { t }$ $k _ { \\scriptscriptstyle 1 }$ ， $k _ { 2 }$ 分别是影响因子且都是正向促进作用， ${ { g } _ { t } }$ 表示第 $\\scriptstyle t$ 类会员信誉度等级。 $\\boldsymbol { e } _ { 1 i }$ 表示第 $i$ 项任务与所属任务类中心的距离，且$e _ { 1 } = ( e _ { 1 1 } , e _ { 1 2 } , \\cdots , e _ { 1 n } ) ^ { \\prime }$ 。 $\\boldsymbol { e } _ { 2 i }$ 表示第 $i$ 项任务与主体会员中心的最短距离，且 $e _ { 2 } = ( e _ { 2 1 } , e _ { 2 2 } , \\cdots , e _ { 2 n } ) ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本约束指明确相关变量的边界，例如任务类中心的个数为 $n _ { \\mathrm { { \\scriptscriptstyle 1 } } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本约束为： $e _ { 1 } ( \\mathsf { z } _ { i t } ) = \\sqrt { ( x _ { i } - u _ { i } ) ^ { 2 } + ( y _ { i } - \\nu _ { i } ) ^ { 2 } }$ ；$e _ { 2 } ( z _ { i t } ) = \\sqrt { ( x _ { i } - u _ { t } ^ { ' } ) ^ { 2 } + ( y _ { i } - \\nu _ { t } ^ { ' } ) ^ { 2 } } ~ ; ~ c o u n t ( u _ { i } ) = n _ { 1 } ~ ; ~ c o u n t ( \\nu _ { i } ) = n _ { 1 } ~$ $Y _ { i } \\in \\{ 0 , 1 \\} \\ ; n , m > 0 \\ ; i \\in \\{ 1 , 2 , \\cdots , n \\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2会员收益视角分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "会员作为众包活动中完成任务的主体，其涉及的活动流程主要包括任务选择、协调咨询、提交成果。其中，会员参与众包任务的动机可以分为外部动机和内在动机两大类，其中外部动机是指有形的回报或奖励，如金钱,内在动机包含兴趣、提升能力、享受、社会交往等。Brabham[13]调查了Istockphoto 社区中的600多名参与者发现，有利可图是会员参与众包任务的最主要动机。而内在动机的影响因素由于涉及个体类型、知识、经验等方面从而无法通过量化的方式测量。所以本文主要考虑影响会员的最主要动机即以最低的成本达到任务完成标准。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "会员收益最大化的定义函数如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 3 } { = } \\operatorname* { m a x } _ { d \\in A _ { 1 } } \\sum _ { j = 1 } ^ { m } ( w ( 0 _ { d j } ) - \\dot { c _ { 1 } } ( 0 _ { d j } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $c _ { 1 } ^ { ' } ( \\mathbf { O } _ { d j } )$ 表示第 $j$ 个会员执行第 $d$ 个任务包的成本。会员执行任务包的成本与各任务包的距离，以及任务包中的数量有关。因此， $c _ { 1 } ^ { ' } ( \\mathbf { o } _ { d j } )$ 表达式可抽象为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 1 } ( 0 _ { d j } ) = \\psi _ { 3 } \\sqrt { ( \\mathrm { u } _ { d } ^ { * } - \\mathrm { x } _ { j } ^ { * } ) ^ { 2 } + ( \\mathrm { v } _ { d } ^ { * } - \\mathrm { y } _ { j } ^ { * } ) ^ { 2 } } + \\psi _ { 4 } q _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\dot { \\mu _ { d } }$ 表示第 $d$ 个任务包的中心横坐标； $\\boldsymbol { V } _ { d } ^ { ' }$ 表示第 $d$ 个任务包中心纵坐标。同时会员 $j$ 必须具备一定的资质才可以成功预订任务包 $d$ ，则要求会员 $j$ 的预订额度至少大于任务包中任务量的$Z _ { { _ m } }$ 倍，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np r _ { j } \\ge Z _ { m } q _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ p r } _ { j }$ 是会员 $j$ 的预定额度， $\\psi _ { 3 }$ ， $\\psi _ { 4 }$ 是影响因子。基本约束有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 3 } , \\psi _ { 4 } > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3平台视角分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1平台收益分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在众包活动中，平台在多家企业委托的众包活动与会员之间进行撮合，进而使得多个企业的活动可以更好的完成，因此其需要同时考虑到两者之间的利益及自身收益。通过对撮合及任务分配机制的完善与设计能够保证平台高效、稳定的运行，从而提高企业满意度，增强会员粘性，不断吸引新的会员和企业资源。其中，定价是撮合机制的重要组成部分也是平台收益的主要来源，众包平台的主要目标就是收益最大化，因此需要合理的定价设计来实现该目标。通常而言，当平台促成某一任务交易时，可以按抽取一定比例的任务标价作为服务费用。同时平台维护、管理网站需要付出一定的成本 $c _ { 2 }$ ，且该成本与任务数、会员数有关，所以记为： $c _ { 2 } ( m , n )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "平台收益最大化的定义函数如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { 4 } = \\operatorname* { m a x } \\sum _ { i } ^ { n } \\psi _ { 5 } p ( \\mathbf { 0 } _ { d j } = 1 ) w _ { d } - \\dot { c _ { 2 } } ( m , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\psi _ { 5 }$ 表示服务费收取的比例。因为平台每天的任务数和会员数都固定不变，所以平台每天的运营成本 $c _ { 2 } ( m , n )$ 是一个定值。1.3.2服务打包的协同效应",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "众包平台可以在收到企业发布任务信息的时候，根据任务的特点，把类型相似、位置相近的任务打包在一起，统一分配给符合相应资质的会员。由于任务打包能形成任务协同效应，使会员能够在更小的总成本下完成更多的任务量，实现整体收益的提高。因此任务打包能正向影响平台价格制定。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( \\Upsilon ( o _ { d j } ) = 1 ) = \\beta _ { 0 } + \\beta _ { 1 } w ( \\mathbf { o } _ { d j } ) + \\beta _ { 2 } e _ { 1 } + \\beta _ { 3 } e _ { 2 } + \\psi _ { 2 } ( d )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw ( o _ { \\mathrm { d } j } ) = \\hat { \\mathcal { O } } _ { 0 } e _ { 1 } + \\hat { \\mathcal { O } } _ { 1 } e _ { 2 } + \\hat { \\mathcal { O } } _ { 3 } + \\psi _ { 1 } ( d )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 1 } ( d ) = \\alpha _ { 1 } q _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 2 } ( d ) = \\alpha _ { 2 } q _ { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $a _ { \\scriptscriptstyle 1 }$ ， $\\alpha _ { 2 }$ 分别为打包任务量对标价和任务完成率的影响系数。 $q _ { d }$ 表示第 $d$ 个任务包包含的任务数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4多主体协同建模 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述可以看出，此任务定价模型是一个多目标规划模型。本文采用模糊隶属度函数将不同含义和量纲的多目标转换成单目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { l } = \\left\\{ \\begin{array} { c c } { 1 , } & { s _ { l } \\leq s _ { l } ^ { 0 } } \\\\ { \\frac { s _ { l } ^ { 1 } - s _ { l } } { s _ { l } ^ { 1 } - s _ { l } ^ { 0 } } , } & { s _ { l } ^ { 0 } < s _ { l } < s _ { l } ^ { 1 } } \\\\ { 0 , } & { s _ { l } \\geq s _ { l } ^ { 1 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $l = { 1 , 2 , 3 , 4 }$ ； ${ \\mathfrak { s } } _ { l } ^ { 0 }$ 和 $s _ { l } ^ { 1 }$ 分别表示目标 $s _ { l }$ 最差值和最理想值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然后，将多目标函数转换为单目标函数：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } H = \\sum _ { l = 1 } ^ { 4 } \\pi _ { l } \\lambda _ { l }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pi _ { \\iota }$ 表示第 $l$ 个目标模糊隶属度的计算权重。其基本约束为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P ( \\Upsilon ( o _ { d j } ) = 1 ) = \\beta _ { 0 } + \\beta _ { 1 } w ( \\mathbf { o } _ { d j } ) + \\beta _ { 2 } e _ { 1 d } + \\beta _ { 3 } e _ { 2 d } + \\psi _ { 2 } ( d ) ~ ; } \\\\ & { w ( o _ { 4 j } ) = \\widehat { \\mathcal { O } } _ { 0 } e _ { 1 d } + \\widehat { \\mathcal { O } } _ { 1 } e _ { 2 d } + \\widehat { \\mathcal { O } } _ { 3 } + \\psi _ { 1 } ( d ) ~ ; } \\\\ & { \\psi _ { 1 } ( d ) = \\alpha _ { 1 } q _ { d } ~ ; \\psi _ { 2 } ( d ) = \\alpha _ { 2 } q _ { d } ~ ; \\operatorname* { P r } _ { j } \\geq Z _ { m } q _ { d } ~ ; ~ \\delta _ { 1 } < q _ { d } < \\delta _ { 2 } ~ ; } \\\\ & { e _ { 1 } ( o _ { d j } ) = \\sqrt { ( { \\dot { u _ { d } } } - { x _ { i } } ) ^ { 2 } + ( { \\dot { \\nu _ { d } } } - { y _ { i } } ) ^ { 2 } } ~ ; c o u n t ( { \\dot { \\nu _ { d } } } ) = n _ { 2 } ~ ; } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { e _ { 2 } ( \\mathbf { o } _ { d j } ) = \\sqrt { ( u _ { d } ^ { ' } - x _ { j } ^ { ' } ) ^ { 2 } + ( \\nu _ { d } ^ { ' } - y _ { j } ^ { ' } ) ^ { 2 } } ; c o u n t ( u _ { d } ^ { ' } ) = n _ { 2 } ; } \\\\ & { } \\\\ & { Y ( \\mathbf { o } _ { d j } ) \\in \\{ 0 , 1 \\} ; n , m > 0 ; d \\in \\{ 1 , 2 , \\cdots , n _ { 2 } \\} ; } \\\\ & { } \\\\ & { c _ { 1 } ( \\mathbf { o } _ { d j } ) = \\psi _ { 3 } \\sqrt { ( \\mathbf { u } _ { d } ^ { ' } - \\mathbf { x } _ { j } ^ { ' } ) ^ { 2 } + ( \\mathbf { v } _ { d } ^ { ' } - \\mathbf { y } _ { j } ^ { ' } ) ^ { 2 } } + \\psi _ { 4 } q _ { d } ; o _ { d j } \\in A _ { 1 } ; j \\in B ; } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 1 } , \\psi _ { 2 } , \\psi _ { 3 } , \\psi _ { 4 } , \\psi _ { 5 } > 0 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模型为一个非线性优化模型，由于众包任务所处区域的增加，会导致算法计算规模呈指数级别上升。显然模型不能找出解析解，需要借助仿生学算法进行计算。蜂群算法虽然在求解规模问题时具有较强的优势，但是其局部最优和收敛速度较慢等问题难以解决。为了提升计算效率并避免局部最优解，本文拟使用精英蜂群算法对这一问题进行求解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 精英蜂群算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1人工蜂群算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人工蜂群算法(artificial bee colony,ABC)是由Karaboga 于2005年提出的一种基于群智能的全局优化算法，其模拟蜜蜂采蜜的过程将人工蜂群分为引领蜂、跟随蜂和探索蜂三种类别。三种蜂蜜根据各自的分工寻找到最大的蜜源，首先引领蜂根据已有的信息找到蜜源并通过跳摇摆舞的方式传递给跟随蜂。然后跟随蜂依据引领蜂提供的信息按概率选择蜜源，并生成候选蜜源与原先的蜜源进行比较选择。最后在某个蜜蜂经过\"limit”次循环蜜源没有更新后，由探索蜂寻找新的有价值的蜜源。人工蜂群算法就是通过这种重复迭代的过程来找到最佳蜜源，即问题的最优解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用人工蜂群算法求解优化问题的过程中，蜜源代表着优化问题的一个解，蜜源的花蜜量对应于解的适应度，蜜蜂寻找蜜源的过程也就是优化问题搜寻最优解的过程。假设解的搜索空间是 $D$ 维的，引领蜂与跟随蜂的个数都是SN，且两种蜜蜂的个数对应于蜜源的数量，即优化问题解的数量也为 $\\mathit { s N }$ 。在标准的人工蜂群算法中，引领蜂和跟随蜂根据以下公式在蜜源的领域内生成一个候选蜜源：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { _ { i j } } = x _ { _ { i j } } + r _ { _ { i j } } \\left( x _ { _ { i j } } - x _ { _ { h j } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu _ { i j }$ 表示的是新的候选蜜源， $h , j$ 是随机数， $h \\neq j$ 。 $r _ { i j }$ 是[-1,1]上均匀分布的随机数，它界定了候选蜜源的生成范围。标准的人工蜂群算法中将新生成的解 $x _ { i d } ^ { \\dot { \\phantom { } } }$ 与原来的解 $x _ { i d }$ 作比较，并采用贪婪策略保留较好的解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每个跟随蜂都会依据一定的概率选择蜜源，蜜源的花蜜量越大，其被选择的概率越大。蜜源的花蜜量可通过适应值来表示，蜜源被选择的概率为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ p _ { i } = \\frac { f i t _ { i } } { \\sum _ { j = 1 } ^ { S N } f i t _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\it { f i t } _ { i }$ 是第 $i$ 个蜜源 $X _ { i }$ 的适应值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人工蜂群算法中，对于某个被选择的蜜源，当所有的引领蜂和跟随蜂经过\"limit\"次循环没有更新时，则丢弃该蜜源，蜜蜂变探索蜂，根据以下公式搜索新的蜜源。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } = x _ { \\mathrm { \\tiny ~ m i n } } ^ { j } + r a n d \\big ( 0 , 1 \\big ) \\Big ( x _ { \\mathrm { \\tiny ~ m a x } } ^ { j } - x _ { \\mathrm { \\tiny ~ m i n } } ^ { j } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中：rand(0,1)是区间[0,1]上的随机数； $\\boldsymbol { x } _ { \\mathrm { m i n } } ^ { j }$ 和 $x _ { \\operatorname* { m a x } } ^ { j }$ 是第 $j$ 维",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的最小值和最大值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2精英蜂群算法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "人工蜂群算法主要用于解决连续优化问题，近年来也开始逐渐用于解决离散优化问题。本文设计了新的离散人工蜂群算法用以解决多目标优化问题，算法采用自然数编码，综合利用适应度值好坏、迭代优化度和历史迭代优化度等来评价蜜源的优劣程度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在标准的蜂群算法中，会直接删除没有搜索价值的蜜源，利用探索蜂随机在其领域内搜索，将搜索到的蜜源与其他蜜源进行对比，选出排名靠前的蜜源作为优秀蜜源。这种删除方式会让很多搜索工作徒劳，降低算法的计算效率，因此需要改进算法，尽量利用较少的计算量给出较高的计算效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本文提出蜜源迭代优化度的概念来表示蜜源的进步程度，对于求最小值的优化问题，定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { - } b e t t e r _ { i , t } = \\frac { f i t _ { i , { \\mathrm { t - 1 } } } - f i t _ { i , { \\mathrm { t } } } } { f i t _ { i , { \\mathrm { t - 1 } } } } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $D _ { - } b e t t e r _ { i , t }$ 表示蜜源迭代优化度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蜂群算法现有的改进方法都是以当前的适应度值来评价，即将适应度值好坏作为评价蜜源优劣的主要标准，对于那些适应度值排名暂时不靠前的蜜源直接删除，从而没有充分利用蜜源信息，可能会失去寻找到更加优秀蜜源的机会。为了避免错失找寻到优秀蜜源的机会，在蜂群算法中，应该给予那些进步程度大的蜜源更多发展的机会，给它们一定的搜索次数。同时，为了避免计算量的过量增加，本文着重考虑进步程度较大的蜜源。对于蜜源进步程度的评价，不能只考虑少数几次的迭代进步程度，而应根据分析蜜源历史的近期平均进步程度作为蜜源进步程度的评价才较为科学合理，其定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { - } b _ { - } h i s t o r y _ { i , t } = \\frac { \\displaystyle \\sum _ { t = N _ { d } - N _ { b } + 1 } ^ { N _ { d } } D _ { - } b e t t e r _ { i , t } } { N _ { b } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $i$ 表示蜜源的编号， $t$ 表示蜂群迭代次数， $N _ { b }$ 表示蜜源进步程度所考量的时间长度， $D _ { - } b _ { - } h i s t o r y _ { i , t }$ 为蜜源历史迭代优化度。具体实施过程中，要对每个蜜源的历史进步程度进行存储。注意到每个蜜源现在有多个属性，包括历史进步程度、位置、速度和适应度值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后，针对迭代优化度较大的蜜源的独立搜索，该算法改进的思想是对进步程度靠前的蜜源进行独立的搜索。为了保证计算效率，必须提出一种简单有效的搜索方式，既能够保证对于进步蜜源的充分搜索，又不至于增加过多的计算量。在此，本文综合运用离散交叉算子和单/多步2-opt局部搜索算法产生候选蜜源。在蜂群算法迭代过程中，记录每个蜜源的适应度值、速度与蜜源迭代优化度，对于蜜源迭代优化度排名靠前的蜜源运用离散交叉算子和单/多步2-opt局部搜索算法进行搜索。将得到的候选蜜源与原来的蜜源适应度值进行对比，如果比原来的蜜源优秀，则进行替换。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，本文构建的精英蜂群算法将蜂群种群主要分成五个部分进行处理：a)优秀蜜源引领蜂，这一类引领蜂是引领、跟随蜂到适应度值排名靠前的蜜源附近进行搜索。它们主要采取单/多步2-opt法进行局部搜索，并且搜索的次数是根据轮盘赌原则确定的，即引领蜂的数量是与适应度值的优秀程度成正比;b)进步程度靠前的蜜源引领蜂，这一类引领蜂是引领跟随蜂到进步程度较大的蜜源附近进行搜索，它们主要采用单/多步2-opt法进行搜索，保持其独立性，并且搜索的次数同样采用轮盘赌原则来确定，即搜索蜜源的跟随蜂数量与蜜源进步程度成正比;c)优秀蜜源跟随蜂，这一类跟随蜂是采用单/多步2-opt法来搜索适应度值排名靠前的蜜源;d)进步程度靠前的蜜源跟随蜂，这一类跟随蜂通过单/多步2-opt法来搜索适应度值进步程度较大的蜜源;e)探索蜂，探索蜂主要负责在广袤的领域进行随机搜索，它们采取传统的蜂群算法所赋予的方式进行搜索。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 模型仿真与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文首先选用某众包平台一个已结项的任务数据(包含了每个任务的位置、定价和完成情况)和会员信息数据(包含会员的位置、信誉值、参考其信誉值给出的任务开始预订时间和预订限额)这两类数据。表1为基于信誉度的会员分类表，从表中可以看出，会员信誉等级越高，其预定限额也越大，就越有可能分配到任务。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后，将已结项的任务位置和会员位置可视化呈现，如图1所示，红色的圆圈代表没有完成的任务，蓝色的雪花点代表已完成的任务，绿色三角形代表会员。从图1中可以发现无论是任务位置还是会员位置都有一定的聚合趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8369abd7102199319c4442f46c1686c46744b41f5b18c3d00cec5507370e07b7.jpg",
+        "table_caption": [
+            "表1基于信誉度的会员分类表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>会员 类别</td><td>信誉指标</td><td>会员类的 中心位置</td><td>预定限 额均值</td><td>预订限额 的标准差</td><td>预订优先 级</td></tr><tr><td>钻石</td><td>r≥1000</td><td>(7.4211e+6, 6.8324e+5)</td><td>65.1296</td><td>48.3560</td><td>6</td></tr><tr><td>会员 黄金</td><td>100≤r<1000</td><td>(7.2570e+6,</td><td>15.5169</td><td>10.9592</td><td>5</td></tr><tr><td>会员</td><td></td><td>7.0618e+5) (7.2601e+6,</td><td></td><td></td><td></td></tr><tr><td>白金 会员</td><td>20≤r<100</td><td>7.0726e+5)</td><td>6.4182</td><td>4.1461</td><td>4</td></tr><tr><td>白银</td><td>10≤r<20</td><td>(7.5929e+6, 7.1548e+5)</td><td>4.9391</td><td>3.4082</td><td>3</td></tr><tr><td>会员 普通</td><td rowspan=\"2\">1≤r<10</td><td>(7.2888e+6,</td><td></td><td></td><td></td></tr><tr><td>会员</td><td>7.1272e+5)</td><td>1.7095</td><td>1.3048</td><td>2</td></tr><tr><td>低级</td><td rowspan=\"2\">0<r<1</td><td>(7.2576e+6,</td><td></td><td></td><td></td></tr><tr><td>会员</td><td>7.1065e+5)</td><td>1.0783</td><td>0.3773</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时该平台的会员几乎覆盖了所有任务点，但是在会员密集区域仍有大量任务未被完成。造成这种现象的主要原因是任务价格低于会员平均预期价格，使其被分配给出价低的会员，即信誉度低的会员，导致任务完成率较低。因此可以发现平台在现有的任务定价及撮合机制下完成质量较差，下文中将使用本文所提出的模型对该问题进行优化分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，将位置图划分为26个矩形模块，并计算各模块的任务完成率、区域中心点、平均任务价格、以及任务价格的波动，如表2所示。从中可以看出，若模块内会员信誉度越高，其任务价格和完成率也越高。说明优质的会员能高效地完成任务，同时对任务标价的期望也高于一般水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/df73bd765f8beb6761ac1fba04753f11de0e232be3a0a6c7daeb596b3ae30a80.jpg",
+        "img_caption": [
+            "图1已结项任务位置及会员位置分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/52fb953a090ce7cd49285e9cd91e6a98bbf78afb1f194f3a773c19c9dc332192.jpg",
+        "table_caption": [
+            "表2矩形域内任务的完成率及定价规律表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td></td><td>任务数完成率</td><td>总定价</td><td>平均定价 标准差</td><td></td><td>会员数</td><td>平均信誉值会员平均等级</td><td></td></tr><tr><td>1</td><td>1</td><td>0.0000</td><td>85</td><td>85.0</td><td>0.00</td><td>1</td><td>19.9231</td><td>白银会员</td></tr><tr><td>2</td><td>7</td><td>0.7143</td><td>462</td><td>66.0</td><td>0.00</td><td>8</td><td>26.8198</td><td>白金会员</td></tr><tr><td>3</td><td>68</td><td>0.5441</td><td>4609.5</td><td>67.8</td><td>4.03</td><td>143</td><td>485.8614</td><td>黄金会员</td></tr><tr><td>4</td><td>67</td><td>0.4328</td><td>4581</td><td>68.4</td><td>3.11</td><td>230</td><td>80.1237</td><td>白金会员</td></tr><tr><td>5</td><td>15</td><td>0.6667</td><td>1040.5</td><td>69.4</td><td>5.60</td><td>65</td><td>30.0901</td><td>白金会员</td></tr><tr><td>6</td><td>12</td><td>1.0000</td><td>884.5</td><td>73.7</td><td>6.08</td><td>50</td><td>36.1754</td><td>白金会员</td></tr><tr><td>7</td><td>1</td><td>1.0000</td><td>75</td><td>75.0</td><td>0.00</td><td>0</td><td></td><td></td></tr><tr><td>8</td><td>45</td><td>0.3111</td><td>3035.5</td><td>67.5</td><td>2.70</td><td>213</td><td>97.2470</td><td>白金会员</td></tr><tr><td>9</td><td>66</td><td>0.6212</td><td>4589.5</td><td>69.5</td><td>4.41</td><td>170</td><td>236.0757</td><td>黄金会员</td></tr><tr><td>10</td><td>56</td><td>0.9821</td><td>3972</td><td>70.9</td><td>4.03</td><td>85</td><td>216.2520</td><td>黄金会员</td></tr><tr><td>11</td><td>28</td><td>1.0000</td><td>1961.5</td><td>70.1</td><td>3.87</td><td>64</td><td>1284.3236</td><td>钻石会员</td></tr><tr><td>12</td><td>13</td><td>1.0000</td><td>930</td><td>71.5</td><td>2.40</td><td>8</td><td>31.6168</td><td>白金会员</td></tr><tr><td>13</td><td>1</td><td>1.0000</td><td>70</td><td>70.0</td><td>0.00</td><td>3</td><td>12.7387</td><td>白银会员</td></tr><tr><td>14</td><td>1</td><td>1.0000</td><td>75</td><td>75.0</td><td>0.00</td><td>0</td><td></td><td></td></tr><tr><td>15</td><td>1</td><td>1.0000</td><td>70</td><td>70.0</td><td>0.00</td><td>0</td><td></td><td></td></tr><tr><td>16</td><td>17</td><td>0.8824</td><td>1168</td><td>68.7</td><td>4.94</td><td>34</td><td>437.0837</td><td>黄金会员</td></tr><tr><td>17</td><td>120</td><td>0.5333</td><td>8038</td><td>67.0</td><td>3.37</td><td>347</td><td>215.4895</td><td>黄金会员</td></tr><tr><td>18</td><td>106</td><td>0.6321</td><td>7223</td><td>68.1</td><td>3.98</td><td>176</td><td>550.4966</td><td>黄金会员</td></tr><tr><td>19</td><td>61</td><td>0.7705</td><td>4187</td><td>68.6</td><td>3.66</td><td>92</td><td>42.3292</td><td>白金会员</td></tr><tr><td>20</td><td>7</td><td>0.7143</td><td>514.5</td><td>73.5</td><td>3.48</td><td>11</td><td>70.6410</td><td>白金会员</td></tr><tr><td>21</td><td>1</td><td>1.0000</td><td>70</td><td>70.0</td><td>0.00</td><td>2</td><td>110.9851</td><td>黄金会员</td></tr><tr><td>22</td><td>35</td><td>0.2286</td><td>2325.5</td><td>66.4</td><td>1.98</td><td>41</td><td>126.0395</td><td>黄金会员</td></tr><tr><td>23</td><td>44</td><td>0.8182</td><td>3228</td><td>73.4</td><td>7.49</td><td>46</td><td>42.6111</td><td>白金会员</td></tr><tr><td>24</td><td>23</td><td>0.7391</td><td>1716.5</td><td>74.6</td><td>4.57</td><td>34</td><td>22.1564</td><td>白金会员</td></tr><tr><td>25</td><td>27</td><td>0.5185</td><td>1924</td><td>71.3</td><td>1.61</td><td>30</td><td>29.5245</td><td>白金会员</td></tr><tr><td>26</td><td>12</td><td>0.0000</td><td>872</td><td>72.7</td><td>2.50</td><td>9</td><td>40.3521</td><td>白金会员</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 模型仿真计算",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在对已结项的任务和会员数据采用模糊 $\\mathrm { ^ c }$ -均值聚类法进行聚类的基础上，各项指标系数如下所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$P ( \\mathbf { Y } ( O _ { d j } ) = 1 ) = - 0 . 0 9 5 4 + 0 . 5 5 7 1 w ( \\mathbf { o } _ { d j } ) - 3 . 9 5 1 5 e _ { 1 d } + 2 . 5 4 0 8 e _ { 2 d } + \\psi _ { 2 } ( d )$ （204号$\\boldsymbol { w } ( o _ { d j } ) = 0 . 9 0 4 6 e _ { 1 d } - 0 . 0 8 3 7 \\boldsymbol { e } _ { 2 d } + 0 . 0 2 9 4 + \\psi _ { 1 } ( d )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过 SPSS分析，这些指标系数与任务标价在置信水平为0.05下有显著的相关性。参数估计值及对应的标准差、 $p$ 值如表3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9698481f1e38a43e90e16947e52842c18ccf3b530d3f3f3c722c224690a76859.jpg",
+        "table_caption": [
+            "表3参数估计值及对应的标准差、 $p$ 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>估计值</td><td>标准差</td><td>p值</td></tr><tr><td>β</td><td>-0.0954</td><td>0.4395</td><td>0.008282</td></tr><tr><td>β</td><td>0.5571</td><td>0.0965</td><td>7.82×10-9</td></tr><tr><td>β</td><td>-3.9515</td><td>1.3151</td><td>0.00026</td></tr><tr><td>β</td><td>2.5408</td><td>1.5141</td><td>0.00934</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对相关变量进行初始化 $n = 8 3 6$ ， $\\begin{array} { r } { m = 1 8 7 8 } \\end{array}$ ，通过 SPSS 拟合求得 $\\scriptstyle \\psi _ { 1 } = 0 . 1 7 1 2$ 、 $\\psi _ { 2 } = 0 . 2 7 6 9$ 、 $\\psi _ { 3 } = 0 . 1 8 6 9$ 、 $\\psi _ { 4 } = 0 . 2 7 6 0$ ， $\\psi _ { 5 } = 0 . 2 7 8 5$ 。基于任务点的位置，将836项任务打包，生成360个任务包用来分配。由于会员的预订限额受会员的信誉度影响，总体上呈现显著正相关，所以采用打包模式定价策略间接地将任务分配给了信誉度高的会员，包含6类会员，按照信誉度高低依次分为6-1等级，则 $g _ { t } = t$ 。通过精英蜂群算法求解该模型。精英蜂群算法中，蜂群主要是由引领蜂、跟随蜂和探索蜂组成，蜂群寻找蜜源的过程也就是找最优解的过程。在本文中，众包任务打包分配问题可转换为寻找一条长度为 $k + m$ 的最佳蜜源问题，每一个蜜源被编码成一个解$\\left\\{ 0 , x _ { 1 1 } , x _ { 1 2 } . . . x _ { 1 n } , 0 , x _ { 2 1 } , x _ { 2 2 } . . . x _ { 2 \\nu } . . . . . 0 , x _ { m 1 } , x _ { m 2 } . . . x _ { m w } \\right\\}$ ，其表示第 $\\mathbf { \\nabla } _ { m }$ 个会员经过任务分布点 $x _ { m 1 } , x _ { m 2 } . . . x _ { m w }$ 返回到起始点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，蜂群算法随机生成 $M$ 个解，并计算其适应度，选择出排名靠前的优秀蜜源。然后，引领蜂带领跟随蜂到优秀蜜源附近进行局部领域搜索，比较新蜜源与当前蜜源的适应度值，从而选取较好的蜜源。接着，计算各个蜜源的迭代优化度和历史迭代优化度，派遣探索蜂到排名靠前的蜜源领域内进行搜索。最后，若某个蜜源在连续的\"limit次搜索中都没有提高，则删除这个蜜源，并根据搜索空间补充新的蜜源。重复迭代，直到找到最佳蜜源或满足最大迭代次数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文精英蜂群算法的求解步骤为：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "${ \\bf \\Pi } _ { { \\pmb a } } )$ 变量初始化设定：蜂群的规模colonySiz $e { = } 5 0$ ，放弃条件limit $\\scriptstyle 1 = 5$ ，最大迭代次数 $m a x \\_ c y c l e { = } 1 0 0 0$ 。包括任务分布点数量$N = 2 5$ 和对应需求 $q _ { i } \\in \\mathcal { Q } , i = \\left\\{ 1 , 2 , . . . , N \\right\\}$ ，会员起始点以及各任务分布点之间的距离矩阵。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\vert b \\rangle$ 初始化种群，随机产生 $M$ 个探索蜂蜜源 $X _ { i }$ ，计算其适应度值 $f i t _ { i }$ ，选出排名靠前的若干优秀蜜源并记录下最优蜜源gbestSolution，且所有蜜源初始化进步程度为0，速度为0，搜索总次数为0。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c引领蜂带领跟随蜂到优秀蜜源附近利用单/多步2-opt 法进行局部领域搜索，且按照轮盘赌原则分配探索蜂数目，即其对应的搜索次数与其适应度值的优秀程度成正比。搜索完成之后，对新蜜源与当前蜜源的适应度值进行贪婪选择，选取较好的蜜源，并替换原来的优秀蜜源，并且新的蜜源搜索次数赋值为0。接着更新搜索次数 $s e a r c h _ { i , t } = s e a r c h _ { i , t - 1 } + N _ { i , t }$ ，其中 $s e a r c h _ { { \\scriptscriptstyle i , t } }$ 表示编号为 $i$ 的优秀蜜源在第 $t$ 代对应的历史搜索总次数， $N _ { i , t }$ 表示编号为 $i$ 的优秀蜜源在第 $t$ 代对应的搜索次数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\Delta } \\xrightarrow { } \\mathbf { \\Delta }$ 计算各个蜜源的迭代优化度和历史迭代优化度，并由大到小进行排名，选择一部分靠前的蜜源进行单/多步2-opt 法。并对于长期迭代优化度为负数的蜜源进行删除。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$e )$ 派遣探索蜂、到领域内进行搜索，计算适应度值，并进行存储。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathbf { \\Omega } } _ { f } { \\mathbf { \\Omega } }$ 若 $s e a r c h _ { i , t } > l i m i t$ ，则删除第 $i$ 个优秀蜜源。检查种群数目是否减少，若是减少，则在下一代选取优秀蜜源过程中，选取比例相应增加，补充新蜜源。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "${ \\bf \\delta g } )$ 迭代总次数iteration $\\ c =$ iteration $+ 1$ ，判断iteration $>$ max_cycle是否成立，或者判断是否满足精度要求。若成立则算法迭代结束，输出历史最优蜜源，否则返回b)继续循环。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 仿真结果分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "迭代次数为200次，并且算法运行10次，求出各函数平均适应度值、方差适应度值、最优适应度值和最差适应度值。进而计算出任务总完成率、企业总成本(元)、会员收益(元)、平台收益(元)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0657378e6d89b316a9524a9c59853658f40e8b7dee719f86763945e47001efd.jpg",
+        "table_caption": [
+            "表4定价模型效果对比表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>任务总完成率</td><td>企业总成本(元)</td><td>会员收益(元)</td><td>平台收益(元)</td></tr><tr><td>位置导向定价模型</td><td>62.44%</td><td>57707.5</td><td>46166</td><td>1656.125</td></tr><tr><td>打包模式定价模型</td><td>71.33%</td><td>54366.8</td><td>47811.8</td><td>7555.0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "任务打包模型的求解结果与众包平台初始定价模型的相关指标对比，如表4所示。通过该表可以看出，打包模式的综合效益显著提升。其中，在定价模型中融合会员信誉度因素使任务完成率增加 $9 \\%$ 左右，实现了任务与会员的高度匹配，从而有效克服了部分会员“失信\"问题。同时由于任务打包模式考虑了任务之间的聚集效应，使企业总成本、会员和平台的收益率同时优化，实现了众包三方共赢的局面。初始任务完成情况和基于信誉度和任务打包策略下的任务完成情况分别如图2和3所示。其中蓝雪花点表示已完成任务，红圆圈点表示未完成任务，新增完成任务由黑色正方框表示。从两图对比可以看出，打包模式下的新增完成任务点主要将已完成点附近的未完成任务点替代了，从而表明任务按照相似属性聚合能够增加其对会员的吸引力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文基于众包活动的三个参与者，在包含地理因素的众包任务情形中，引入会员信誉度和任务聚集度等指标，构建了多目标规划定价模型，并采用精英蜂群算法对某众包平台数据进行实证研究。将仿真结果与初始数据从任务完成率、企业成本、会员及平台收益等方面进行比较，结果表明该定价策略具有显著优越性，实现了任务聚合效应和会员激励作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e549ef1e0e5652e41376feccce195a44d5615f75213d9d73e4ae2dd381552299.jpg",
+        "img_caption": [
+            "图2初始任务完成情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f0e7e8725fe7a4c9bc41bfbd94f9d4e0235bd7041fb06f37ff8077eceb12b46.jpg",
+        "img_caption": [
+            "图3打包模式定价策略下任务分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合众包行业数据进行仿真实验，对模型所得效益价值进行分析得出以下结论。首先企业在制定众包计划时，应该充分考虑单个任务之间的相似程度，可将相似度较高的任务进行捆绑设计，从而提高任务总体完成率。其次平台在发布众包任务时，可以将会员按照信誉度等级进行合理的分类，以期减少平台服务运营成本。最后会员在完成众包要求时，不应盲目追求价格高的任务而应选择与自身条件最为匹配的任务，从而逐步提高信誉度，实现长期收益最大化。在本文的基础上，可以进一步考虑时间的约束，分析用户预定配额、预定任务时间与用户信誉值的关系，进而优化任务定价模型的参数，提升任务完成率和用户体验度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文所建立的模型是针对电子商务平台，从众包任务发布与完成视角出发进行研究给出的定价模型。通过分析各个参与者的需求，给出了定价机制，对一般任务众包的定价具有指导意义，是一个具有引导价值的模型。但是文章中对部分企业通过不计成本的提高社会知晓度的众包需求，职业众包任务完成、作弊抢单等没有进行规避，这些方向可以作为以后的研究方向。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Estelles-Arolas E.Towards an integrated crowdsourcing definition [J] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Journal of Information Science,2012,38(2):189-200.   \n[2]Mason W,Watts D J.Financial incentives and the\"performa-nce of crowds\" [J].ACM SIGKDD Explorations Newsletter,2010,11(2): 100-108.   \n[3]付磊，廖成林.考虑消费者类型的零售商物流外包竞争策略[J].计算 机集成制造系统,2017,23(1):134-143.   \n[4]彭彬，赵征．基于两阶段动态博弈的服务外包定价分析[J].运筹与管 理,2012,21(3): 154-158.   \n[5]陆晓菁，陈宏民．电子口碑虚拟社区平台定价策略[J].上海交通大学 学报,2014,48(2):300-305.   \n[6] 吴春旭，黄一络，许传永．正负网络效应共存的社交平台定价问题[J]. 上海交通大学学报,2015,49(4):519-523.   \n[7]Zhang Yu,Van Der Schaar M.Reputation-based incentive protocols in crowdsourcing applications [C]//Proc of IEEE INFOCOM.2012:2140- 2148.   \n[8]郝琳娜，侯文华，张李浩，等．基于众包虚拟社区的诚信保障和信誉评 价机制研究[J]．系统工程理论与实践,2014,34(11):2837-2848.   \n[9]He Zhengwen，Wang Nengmin,Li Pengxiang.Simulated annealing for financing cost distribution based project payment scheduling from a joint perspective[J].Annals of Operations Research,2014,213(1): 203-220.   \n[10] Kong D,TiongRL,Cheah C Y,et al.Assessment of Credit Risk in Project Finance [J].Journal ofConstruction Engineering& Management,2008,134 (11): 876-884.   \n[11]邱剑锋，谢娟，汪继文．基于交叉突变算子的人工蜂群算法及其应用 [J].计算机应用研究,2014,31(5):1336-1341.   \n[12]周清雷，陈明昭，张兵．多目标人工蜂群算法在服务组合优化中的应用 [J].计算机应用研究,2012,29(10):3625-3628.   \n[13]Marsden P V.Network data and measurement [J].Annual Review of Sociology,1990,16 (16): 435-463.   \n[14] Jeff H. The rise of crowdsourcing [J]. O6 Jenkins H Convergence Culture Where Old& NewMedia Collide,2006,14(14):1-5.   \n[15]刘巧莉，温浩宇,HongQin.P2P 网络信贷中投资行为影响因素研究— 一基于拍拍贷平台交易的证据[J].管理评论,2017,29(6):13-22 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

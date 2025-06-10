@@ -1,0 +1,121 @@
+# 应用CRISPR/Cas9技术构建YOD1基因敲除 小鼠
+
+戴红苗，付业胜，张令强
+
+（军事科学院军事医学研究院生命组学研究所，蛋白质组学国家重点实验室，北京100850）
+
+摘要目的：应用CRISPR/Cas9 技术构建去泛素化酶YOD1基因敲除小鼠。方法：针对 YOD1基因设计单链向导RNA（sgRNA）识别序列，构建sgRNA质粒，与Cas9质粒体外转录、纯化后注射入受精卵，通过PCR和测序验证得到FO代阳性小鼠。配繁两代后，取同窝对照的野生型（WT）和敲除（KO）小鼠的主要组织器官研磨，使用免疫印迹（WB）技术检测各组织YOD1蛋白的表达，确证YOD1敲除小鼠模型是否成功建立。统计YOD1杂合子（HET）自交存活后代各基因型比例，分析是否有胚胎致死表型。解剖小鼠分析主要组织器官的表型，进一步利用H.E.染色分析KO小鼠是否存在自发的病理改变。通过血糖耐受实验（GTT）分析KO小鼠的血糖调控能力。结果：基因组测序和WB检测结果显示KO小鼠中YOD1被明显敲除，YOD1敲除小鼠模型成功建立。YOD1杂合子自交后代各基因型比例符合孟德尔定律，提示KO小鼠非胚胎致死。YOD1敲除小鼠肝脏显著小于WT小鼠。GTT结果表明敲除YOD1不影响小鼠的血糖稳态。结论：应用CRISPR/Cas9技术成功构建YOD1基因敲除小鼠。KO小鼠正常出生，无任何胚胎发育缺陷。与WT小鼠相比，KO小鼠肝脏显著减小，但无显著的自发病理变化，KO小鼠血糖控制亦无显著差异。
+
+关键词 CRISPR/Cas9；YOD1；基因敲除小鼠
+
+# Construction of YOD1 knockout mice on CRISPR/Cas9 technology
+
+DAI Hong-miao， FU Ye-sheng， ZHANG Ling-qiang (State KeyLaboratoryofProteomics,BeijingProteome ResearchCenter,NationalCenterofProteinSciences (Beijing), Bei jing Institute of Lifeomics，Beijing，100850,China) \* ZHANG Ling-qiang，Email: zhanglq@nic.bmi.ac.cn
+
+Abstract Objective: Construct YOD1 gene knockout mice based on CRlSPR/Cas9 technology. Methods: Design and synthesize single-guide RNA (sgRNA) according to the YOD1 sequence in Genbank. Cas9 and sgRNA are transcribed to RNA in vitro， these RNA are then microinjected into zygotes of mice. The genotype is analyzed by PCR and sequencing. After YOD1 heterozygotes self-crossing and analysis of genotype of live offspring at weaning，wild type(WT） and knockout genotype (KO） littermates of YOD1 gene are verified. It is recorded that quantity and ratio of each genotype of live offspring of YOD1 heterozygotes self-crossing. And it is evaluated whether the ratio is in agreement with Mendel’ s law of segregation. Protein lysates are made from main organs of the WT and KO littermates. And western blotting is used to assay the expression of YOD1 protein of these tissues. Meanwhile, size and weight of main organs and tissues of KO and WT mice are compared. Then analyze pathological phenotype of liver by H.E. staining. The glucose tolerance test (GTT） are carried out on the male mice of 6 months old. Results: According to PCR analysis and sequencing results, it is chose that mouse with deletion mutation and frameshift mutation in exon 2 of YOD1 gene to breed. After YOD1 heterozygotes self-crossing, WT and KO littermates are generated. According to statistics results, it is in agreement with Mendel’ s law of segregation that the ratio of live offspring. Therefore， it is suggested that YOD1 KO mice birth normally without embryonic lethality. Western blotting results show that the expression of YOD1 in main organs is knocked-out significantly. Liver of YOD1 KO mouse is smaller in size than of WT littermate. There is no significant pathological phenotype in liver of YOD1 KO mice. Y0D1 KO mice have general glycemic control in a GTT as compared to the control mice. Conclusions: YOD1 gene knockout mice are constructed successfully on CRISPR/Cas9 technology. And YOD1 KO mice birth and live normally without embryonic lethality. Compared to the control mice, livers of YOD1 KO mice are smaller in size and YOD1 KO mice have general glycemic control.
+
+Key Words CRISPR/Cas9；YOD1；Knockout mice
+
+在真核细胞中，泛素-蛋白酶体通路通过选择性清除细胞内错误折叠的以及特定环境下需要降解的蛋白质，参与调控DNA 损伤修复、细胞周期进程、细胞凋亡、抗原呈递、炎症反应等几乎所有细胞内的生物学过程，对维持细胞正常的生理功能发挥至关重要的作用"。蛋白质泛素化降解异常与恶性肿瘤、神经退行性疾病、炎症反应等密切相关。
+
+去泛素化酶（Deubiquitylase，DUB）拮抗泛素化修饰，几乎调控所有泛素依赖性过程。迄今为止，已发现的去泛素化酶主要分为六大类：UBP/USP家族(Ubiquitin-specific processing proteases）、UCH家族（Ubiquitin carboxyterminal hydrolases）、 JAMM家族（Jad1/Pad/MPN domain-containing metalloenzymes)、OTU 家族（OTU domain ubiquitin aldehyde binding protein）、MJD家族（Machado-Joseph disease related enzymes）和 MCPIP 家族（Monocytechemotactic protein-induced protein）[2]。在人体细胞中已发现超过100 种DUB，其中的许多种对人类疾病如神经退行性疾病、炎症、传染病和癌症有影响。YOD1/OTUD2作为OTUDUB亚家族中的一员，被广泛地研究。YOD1的最早报道是其酵母中的同源异构体OTU1被CDC48/p97招募，去泛素化转录因子Spt23 p90,将其激活/降解，参与调控酵母细胞的不饱和脂肪酸库稳态[3-5]。随后的研究报道，人源细胞系中，YOD1通过依赖p97复合体的方式，参与ERAD（ER-asSociatedproteindegradation）通路，剪切错误定位的未折叠蛋白质的泛素链，然后p97复合体与底物蛋白分离，从而使错误定位的底物蛋白通过蛋白酶体通路降解[6]。YOD1 的酶活突变体 YOD1-C160S 调控抗原交叉呈递，影响对病原菌传染的控制[7]。YOD1 还与p97调控损伤溶酶体的自噬清除，参与调控溶酶体稳态的生命过程[8]；YOD1 拮抗依赖 TRAF6/p62 的IL1-NFκ B信号通路[9]；YOD1通过稳定泛素连接酶ITCH增强 Hippo 通路中YAP/TAZ 的活性[1°；YOD1依赖其去泛素化酶活性降解异常蛋白，减轻亨廷顿综合征和帕金森综合征患者的神经细胞毒性，延缓神经退行性疾病的发展[11]。
+
+为了研究YOD1在动物整体水平的生理功能，是否在肿瘤、免疫、神经退行性疾病等方面有显著的表型，本项目应用CRISPR/Cas9技术构建YOD1基因全身性敲除小鼠。
+
+# 1材料与方法
+
+1.1材料
+
+4-6 周龄 SPF 级C57BL/6小鼠，6-8 周龄ICR小鼠，均饲养于屏障级设施;pUC57质粒空载体，T4 DNALigase 购自NEB 公司；sgRNA，引物（上海生工生物公司合成）；PCR Taq-Mix，DNA markers 购自Genstar 公司；YOD1 抗体购自Abclonal公司，Hsp90 抗体购自Novus公司；蛋白marker、ECL发光液试剂盒购自Thermo 公司；X光胶片购自柯达公司；葡萄糖注射液购自华润双鹤药业公司，1mL一次性注射器购自山东新华安得医疗用品有限公司，活力血糖仪和血糖试纸购自罗氏公司。
+
+# 1.2 方法
+
+1.2.1 sgRNA 设计和F0 代小鼠获得由于YOD1基因具有两个外显子区，第一个外显子区距离其5’-端上游的Pfkfb2 基因仅1.5kb，因此我们选择靶向第二个外显子区，基因打靶策略见图1。在网站（http://crispr.mit.edu/）上设计 sgRNA,序列见表1。sgRNA序列由公司合成，连接到pUC57质粒空载体上，测序验证后与Cas9质粒提取、纯化，体外转录后注射入超排的受精卵，得到FO代小鼠，PCR鉴定基因型，测序验证是否产生移码突变。
+
+表1sgRNA中靶序列
+
+![](images/8ab7035a2a56a8e3b6067d3b12f32cebd0e18201e71d3fc1f2602bc153298c6d.jpg)  
+图1YOD1KO策略  
+Fig.1 YOD1 knockout strategy
+
+1.2.2F2代 YOD1基因敲除小鼠PCR 鉴定FO代HET小鼠与WT小鼠杂交得到的F1代HET小鼠自交，从而得到F2代小鼠。使用碱裂解法提取的F2代小鼠尾尖基因组DNA 作为模板，基因型鉴定引物见表2，YOD1-sg-tF1和YOD1-sg-tR1分别位于敲除的片段前后。PCR，琼脂糖凝胶电泳观察条带大小，并切胶测序鉴定基因型。
+
+表2引物合成序列  
+Table.2 Primer sequences   
+
+<html><body><table><tr><td>名称</td><td>序列（5’-3’）</td></tr><tr><td>YOD1-sg-tF1</td><td>CCAACAGCAGTTACTTGTTCCCA</td></tr><tr><td>YOD1-sg-tR1</td><td>CTTCCCCAAAACGATCAATTCTG</td></tr></table></body></html>
+
+1.2.3YOD1敲除小鼠子代存活数量统计统计YOD1杂合子小鼠自交的子代WT、HET和 KO 三种基因型的存活个体数量，并计算各基因型小鼠数量占总体的比例，是否符合孟德尔分离定律。
+
+1.2.4Westernblot检测基因敲除小鼠YOD1蛋白表达 选取同窝对照的2月龄雄性WT和 KO 小鼠，解剖，低温下使用研钵研磨来提取0.025g脑、心、肺、肝等组织的总蛋白，加入 $2 0 0 ~ \mu \mathrm { L }$ 裂解液，超声破碎5min，低温高速离心10min后取上清，加入 $5 \times$ Loadingbuffer，沸水浴15min，聚丙烯酰胺凝胶电泳，转膜，裁取30-45KDa条带检测YOD1，裁取90KDa条带检测Hsp90作为内参， $5 \%$ 脱脂牛奶室温封闭1h，一抗 $\mathrm { 4 ^ { \circ } C }$ 孵育 $2 4 \mathrm { h }$ ， $1 \times \mathrm { T B S T }$ 摇床洗膜 $\mathrm { 1 0 m i n \times 3 }$ 次，加 HRP 标记的二抗室温孵育1h， $1 \times \mathrm { T B S T }$ 洗膜 $\mathrm { 1 0 m i n \times 3 }$ 次，ECL法显影。
+
+1.2.5YOD1敲除小鼠肝脏H.E.染色取同窝对照的2月龄雄性WT和KO小鼠的肝脏， PBS清洗后固定于 $4 \%$ 多聚甲醛 $4 8 \mathrm { h }$ ，脱水后包埋于石蜡，切片。白片脱蜡：二甲 苯10min $\times 2$ 。水化：依次 $1 0 0 \%$ 乙醇 5min， $1 0 0 \%$ 乙醇 5min， $9 5 \%$ 乙醇 3min, $9 0 \%$ 乙醇3min， $8 0 \%$ 乙醇3min， $7 0 \%$ 乙醇3min，清水3min，苏木精染色3min， 清水冲洗，盐酸-乙醇分化 $1 5 \mathrm { s }$ ，清水冲洗，伊红染色 $2 \mathrm { m i n }$ ，清水冲洗， $9 5 \%$ 乙 醇3min， $1 0 0 \%$ 乙醇5min，封片前二甲苯10min $\times 2$ ，封片，晾干后镜检、拍照。 1.2.6 YOD1敲除小鼠葡萄糖耐受实验将小鼠空腹过夜，称体重，测量空腹血糖，按 照 $\mathrm { 2 g }$ 葡萄糖/ $' \mathrm { K g }$ 体重腹腔注射葡萄糖注射液[12]。分别测量注射葡萄糖后15min、
+
+30min、60min、120min时的血糖，记录下来并比较WT和KO小鼠的血糖控制。  
+1.2.7 使用GraphPad Prism 5处理数据。
+
+# 2结果
+
+2.1 sgRNA的设计和获得FO代小鼠sgRNA连接到pUC57质粒后与Cas9一起体外逆转录，显微注射入收集到的超排的受精卵，移植到假孕的小鼠子宫，得到19只F0代小鼠，选择8#F0代小鼠继续配繁。8#小鼠测序结果：GTTTTTAAGTTGAAATGC---TCTGCCTGTGCTTACCAGAACCG，删除 308bp，其中 exon2 删除91bp，发生移码突变（本部分由南京生物医药研究院完成）。
+
+2.2 YOD1基因敲除F2代小鼠的鉴定 根据图2（a）配繁策略，得到F2小鼠。可见图2（b）中，PCR 结果中的KO小鼠和WT小鼠均扩增出单个条带，KO小鼠条带比WT 小鼠扩增出的条带小308bp，HET小鼠可扩增出不同大小的两个条带。测序结果见图2（c)，显示Y0D1基因纯合敲除小鼠缺失308bp，发生移码突变。由此可见，基因组水平结果表明已经成功获得Y0D1基因敲除小鼠。
+
+![](images/13570eec98408eb0dd0b979d75bdafc6f961d658ba8442bca55dfffc0f76ed3d.jpg)  
+图2YOD1敲除小鼠基因型  
+Fig.2 Genotype of YOD1 knockout mice
+
+(a）Mice breed strategy（b）Analysis of littermates genotype by PCR（c） Sequencing analysis of WT and KO mice
+
+2.3 Y0D1杂合子自交子代存活个体比例符合孟德尔分离定律 统计杂合子自交子代WT、
+
+HET 和K0三种基因型存活个体数量，见表3,其占总体比例分别为 $2 0 . 3 3 \% . 5 3 . 6 6 \%$ 和 $2 6 . 0 2 \%$ ，约为1：2：1，符合孟德尔分离定律，说明Y0D1KO小鼠正常出生并存活，不存在胚胎致死表型。
+
+表3HET $\times$ HET子代各基因型存活数量  
+Table 3 Live offspring at weaning from HETX HET   
+
+<html><body><table><tr><td>Genotype</td><td>Quantity</td><td>Ratio</td></tr><tr><td>WT</td><td>25</td><td>20.33%</td></tr><tr><td>HET</td><td>66</td><td>53.66%</td></tr><tr><td>KO</td><td>32</td><td>26.02%</td></tr></table></body></html>
+
+2.4 K0小鼠组织中的YOD1蛋白显著敲除 如图3所示，Westernblot结果显示KO 小鼠的嗅球、大脑、小脑、心、胸腺、肺、肝、脾、肾、小肠、结肠和睾丸组织样品中YOD1蛋白显著敲除，从蛋白质表达水平证明YOD1基因敲除小鼠构建成功。
+
+![](images/357893aa9294e49c9b2d333c47a32f6d63aefd1779ee2ffc0f37bb9f0293af30.jpg)  
+图3KO小鼠的YOD1蛋白显著敲除  
+Fig.3 The expression of YODl in tissues of KO mice is knocked-out significantly
+
+2.5YOD1敲除小鼠肝脏显著减小如图4（a）、（b）所示，2月龄YOD1敲除小鼠脑、胸腺、心、肺、脾、肾和睾丸的大小与WT小鼠的无明显差异，KO小鼠的肝脏显著小于同窝WT小鼠的肝脏（ $\mathrm { . n } \geqslant 4 \mathrm { . }$ 。图4（c）H.E.染色结果显示YOD1敲除小鼠肝脏组织与WT小鼠肝脏组织无显著差异，敲除YOD1后2月龄小鼠无显著的自发性肝脏病理变化。
+
+![](images/24c7a9e5b53a63b2dba47cc9a606241f74d4c4c779813f65b6714cbb9a48936d.jpg)  
+图4YOD1敲除小鼠肝脏较小
+
+Fig4.Liver of YOD1 KO mouse is smaller in size (a)、（b）Liversof YOD1 KO mice are smaller in size（c）H.E.staining for liverof YODl KO mouse andWTlittermate
+
+2.6YOD1敲除小鼠血糖控制与野生型小鼠无显著差异 如图5所示，YOD1敲除小鼠经空腹过夜后，空腹血糖水平与WT小鼠无显著差异。腹腔注射葡萄糖后，在15min、30min、60min、120min时的血糖与WT小鼠无显著差异，说明敲除YOD1不影响小鼠的血糖控制和血糖稳态。
+
+![](images/338538993c1a859fa97505741f63d7e07aee001b91a0c84fc7433ed092b3e178.jpg)  
+图5葡萄糖耐受实验（ $\scriptstyle \mathrm { n = 3 }$ ）
+
+Fig5.Glucose tolerance test ( $\mathrm { \cdot n { = } 3 }$ ）
+
+# 3讨论
+
+CRISPR/Cas9 核酸内切酶系统发现于细菌和古细菌中，具有免疫功能。在大肠杆菌（E.coli）中，成熟的crRNAs（CRISPR-derived RNAs）能引导基因组特定位点进行双链断裂，随后的研究实现了CRISPR/Cas9技术在哺乳动物基因组的定点高效编辑[13-7]。crRNA（CRISPR-derived RNA）通过碱基配对与 tracrRNA（trans-activating RNA)结合形成 tracrRNA/crRNA复合物,此复合物引导Cas9蛋白在与crRNA配对的序列靶点剪切双链DNA。通过人工设计这两种RNA，可以改造形成具有引导作用的 sgRNA（single-guide RNA)，引导Cas9对 DNA的定点切割。该技术迅速被运用到基因敲除动物模型的构建之中。相比ES细胞打靶技术，CRISPR/Cas9 技术构建小鼠基因突变模型具有周期短、阳性率高等优点。本研究中，我们应用CRISPR/Cas9技术构建YOD1基因全身性敲除小鼠模型。
+
+本研究中以YOD1基因设计 sgRNA识别序列后构建 sgRNA质粒，与Cas9质粒体外转录、纯化后注射入受精卵，通过PCR和测序验证得到8#FO代阳性小鼠。随后通过配繁得到YOD1敲除小鼠。WB 检测心、肺、肝、脾等主要组织中YOD1蛋白表达结果证实KO小鼠中的YOD1被明显敲除，确证YOD1敲除小鼠模型成功建立。本项目在成功构建了YOD1敲除小鼠的基础上，还对YOD1敲除小鼠的表型进行了初步的分析和探索。基因敲除小鼠常见的表型为胚胎致死，为此，本项目统计了YOD1杂合子自交后代各基因型的比例，发现其基本符合孟德尔定律，提示YOD1敲除小鼠胚胎期正常发育。另外，YOD1敲除小鼠正常存活也提示其胚胎发育期正常发育。YOD1-C160S转基因小鼠，以及YOD1肝脏特异性诱导表达的转基因小鼠的研究，佐证了YOD1在体内参与调控免疫反应和Hippo 通路，其中肝脏特异性诱导YOD1过表达后，该转基因小鼠出现肝脏显著增大的表型。而本研究构建的YOD1敲除小鼠肝脏显著变小，H.E.染色结果提示敲除YOD1的成年小鼠无显著的自发肝脏病理变化。肝脏作为主要的代谢器官，肝脏大小异常，其葡萄糖代谢是否存在着异常，使用葡萄糖耐受实验作为其检测标准。YOD1敲除小鼠经空腹过夜，腹腔注射葡萄糖后，在不同时间点的血糖水平与WT小鼠无显著差异，这提示Y0D1不影响体内血糖稳态调控。
+
+已有报道YOD1参与ERAD通路、免疫、自噬以及神经退行性疾病的发展，但还未研究清楚YOD1参与上述生理活动的作用机制及其直接作用底物。本项目率先构建了YOD1基因敲除小鼠模型，为直接、深入地研究YOD1的体内生理功能，找到YOD1的作用底物及调控机制提供最佳的动物实验材料，也有利于揭示YOD1更多的生理功能。
+
+# 【参考文献】
+
+[1] Fraile JM，Quesada V，Rodriguez D，et al. DUB and cancer review-new functions and therapeutic options.Oncogene,2012,31(16):2373-2388. [2] Mevissen TE, Hospenthal MK, Geurink PP, et al. OTU deubiquitinases reveal mechanisms of linkage specificity and enable ubiquitin chain restriction analysis.Cell,2013,154 (16):169-184. [3] Rape M， Hoppe T，Gorr I，et al. Membrane-Tethered SPT23 Transcription Factor by CDC48UFD1_NPL4,a Ubiquitin-Selective Chaperone. Cell, 2001, 107(11):667-677. [4] Richly H,Rape M, Braun S,et al. A Series of Ubiquitin Binding Factors Connects CDC48_p97 to Substrate Multiubiquitylation and Proteasomal Targeting, Cell, 2005,120(12):73-84.
+
+[5] Rumpf S， Jentsch S. Functional division of substrate processing cofactors of the ubiquitin-selective Cdc48 chaperone.Molecular cell,2006,21(9):261-269.   
+[6] Ernst R,Mueler B,Ploegh HL,et al. The otubain YOD1 is a deubiquitinating enzyme that associates with p97 to facilitate protein dislocation from the ER，Molecular cell，2009, 36(11):28-38.   
+[7] Sehrawat S， Koenig PA, Kirak O,et al. A catalytically inactive mutant of the deubiquitylase YOD-1 enhances antigen cross-presentation. Blood, 2013,121(12):1145-1156.   
+[8] Papadopoulos C, Kirchner P, Bug M, et al. VCP/p97 cooperates with YOD1, UBXD1 and PLAA to drive clearance of ruptured lysosomes by autophagy. Embo j, 2016,290(14):28175-28188. [9] Schimmack G, Schorpp K, Kutzner K, et al. YOD1/TRAF6 association balances p62-dependent IL-1 signaling to NF-kB.eLIFE,2017,6: e22416.   
+[10] Kim Y, Kim W, Song Y, et al. Deubiquitinase YOD1 potentiates YAP/TAZ activities through enhancing ITCH stability.Proceedings of the National Academy of Sciences of the United States of America,2017,114(7):4691-4696.   
+[11] Tanji K，Mori F，Miki Y，et al. YOD1 attenuates neurogenic proteotoxicity through its deubiquitinating activity. Neurobiology of disease,2018,112(10):14-23.   
+[12] Li L, Xie X, Qin J,et al.The Nuclear Orphan Receptor COUP-TFll Plays an Essential Role in Adipogenesis， GlucoseHomeostasis， andEnergyMetabolism.CellMetabolism, 2010,468(5):67-71.   
+[13] Garneau JE, Dupuis ME, Villion M,et al.The CRISPR/Cas bacterial immune system cleaves bacteriophage and plasmid DNA. Nature, 2010,468(5):67-71.   
+[14] Platt RJ， Chen S, Zhou Y, et al. CRISPR-Cas9 knockin mice for genome editing and cancer modeling. Cell, 2014,159(16):440-455.   
+[15] Ran FA, Hsu PD,Wright J,et al. Genome engineering using the CRISPR-Cas9 system. Nature protocols, 2013,8(28):2281-2308.   
+[16] Zhang F，Wen Y，Guo X. CRISPR/Cas9 for genome editing: progress， implications and challenges, Human molecular genetics,2014,23(7):R40-46.   
+[17] Hsu PD,Lander ES， Zhang F. Development and applications of CRISPR-Cas9 for genome engineering. Cell, 157(17):1262-1278.

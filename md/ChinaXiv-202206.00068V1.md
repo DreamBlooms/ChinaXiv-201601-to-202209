@@ -1,0 +1,423 @@
+# 基于局部图结构的链接预测模型
+
+赵思云，黄增峰(复旦大学 大数据学院，上海 200433)
+
+摘要：链接预测是基于已知的部分图数据来预测节点之间未被观测到的边或者未来可能产生的边的任务。链接预测领域目前最表现最佳的方法是，对所有目标节点对提取周围的低阶邻居小图，使用小图做图分类预测链接的方法。然而，这种方法的稳定性和性能受限于图的局部结构特异性。提出的方法在上述算法的基础上进行了改进。该算法根据目标节点周围节点的结构特征计算周围节点优先值，根据优先值筛选出高优先值的节点集合，并同时选出一定数量的随机节点，共同组成封闭子图，提取子图特征进行链接预测。实验表明，该算法有效提高了在不同结构的图数据上选出的小图的精准性和稳定性，显著提升了链接预测的效果。
+
+关键词：链接预测；子图提取；PageRank；节点编号 中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2022.03.0117
+
+Link prediction method based on local topological structure
+
+Zhao Siyun, Huang Zengfeng (School ofData Science,Fudan University,Shanghai 20o433,China)
+
+Abstract:Link prediction isataskof predictingunobserved edges between nodes or edges that maybeconnected in the future based on partial graph data.Thecurrent state-of-art methodof ink prediction is to extract the surrounding low-hop subgraphs foralltarget node pairsand perform graph clasificationalgorithmon the subgraphs to predict the focal link. However,its stabilityand performance are limited bythe diversityof local topological structures.This paper proposeda methodto improve the above algorithm.The algorithmcalculated the priority value ofthe surounding nodes according to their topological feature,selected the most important nodes among the surrounding nodes and a certain number ofrandom nodes to forma closing subgraph together,then extracted feature from the closing subgraph to predictthe link.Experiments showthatthealgorithm ensures the accuracyand stabilityof intelligentlyextracting subgraphs on graph data of different structures,and significantly improves the accuracy of link prediction.
+
+Key words:link prediction; subgraph extraction; PageRank; node labeling
+
+# 0 引言
+
+在高度信息化的现代社会，数据有很多不同的表现形式其中图数据在生物[1]、医疗[2]、社交网络[3]、知识补全[4]等领域都具有非常好的应用，而链接预测则是图数据分析中比较重要的任务之一。图数据由节点和边构成，每个节点表示不同的实体，而边则表示实体之间的各种关联。在实际情况中，图数据往往都是不完整和动态变化的，本文在某个时刻观测到的图数据可能具有片面性和时效性，所以如何依据已知的部分图数据对真实的节点关联情况进行预测就变得尤为重要。
+
+传统的链接预测算法主要是启发式的算法，从节点的相似性出发，认为具有相似背景或者处于相似环境中的节点具有更大的倾向会建立关联关系，而在已知图中距离较远、所处拓扑环境差异较大的节点对则在直观上来看毫无联系，也就被认为建立连边的可能性更小。这一类的方法在特定的领域仍然具有很好的表现，例如，张玲玲等人[5将启发式的算法与节点本身的特性结合，在对研发者的潜在合作者进行链接预测时取得了不错的效果。基于图嵌入学习的方法[6\~]也被用于进行链接预测任务。无监督的图嵌入算法会通过学习图中的拓扑结构，将在图上距离比较近或者关联比较紧密、邻居结构比较相似的节点赋予相近的特征向量，然后用两个节点的特征向量作为输入训练一个简单的0-1分类器就能比较好的对链接进行预测。在图卷积神经网络[9\~II出现之后，通过图卷积的方法，先结合邻居节点特征对每个节点的初始特征向量进行卷积变换，再用得到的新特征向量进行分类预测，将链接预测任务的效果提升了很大一个台阶。由于图卷积神经网络的卷积层数往往比较低，对于每一个节点而言，算法辐射的跳数范围比较有限，所以说明图数据的局部拓扑结构对链接预测任务具有比较高的有效性。近年来，Singh等人[12]提出了基于边集两次预测的链接预测模型，认为原始的训练集中的边与真实数据存在较大差异的现象是影响链接预测准确性的主要原因。他们使用一种方法对训练集中的边进行一次预测补全后，再选用另一相同或不同的算法，基于补全后的边集来做链接预测。Li等人[13]提出了基于距离增强的链接预测方法，在全图中选出一些较为重要的节点，并计算其他节点到这些节点的距离参数，将这些参数加入神经网络中进行预测。
+
+Zhang 等人[14]提出了SEAL模型，该工作证明了所有启发式的算法均可用中心节点的 $k$ 跳子图做近似，并提出了抽取目标节点对周围的邻居 $k$ 跳小图，对小图做图分类进行链接预测的方法，也使得链接预测任务在稳健性和准确性上取得了很大的突破。
+
+上述方法各自从不同的角度对链接预测算法进行了改善和提升，但是仍然存在一些局限性。图数据的稠密程度、全图结构特征、局部连边结构在不同背景的数据集上差异非常大。所以本文希望，在目前表现最佳的“提取子图 $^ +$ 图分类的链接预测框架下，图分类端输入的子图能更加规范，这就要求它至少具有相近的节点个数。另一方面，目标节点对的周围重要程度高的节点不一定位于它们的低跳邻居里，所以本文希望更加智能的找到链接预测任务中重要程度更高的节点。
+
+本文基于 SEAL[14]提出的链接预测框架进行了改进，提出了一种更有针对性的固定节点个数的子图提取方法，在不同稠密程度和拓扑结构的局部区域上，可以兼顾随机性和特异性的选择重要的周围节点进入封闭子图，同时相对应的调整了适合的节点编号与图分类方法，显著的提升了模型的性能。总的来说，本文的贡献主要包括以下三点：
+
+a)基于“提取子图 $^ +$ 图分类”的链接预测框架，结合个性化PageRank(personalizedPageRank，PPR)等启发式方法，提出了一种端到端的链接预测模型，应对不同稠密程度和不同背景的图数据，发现周围节点对于中心节点的重要性差异，智能的对大图进行预处理和子图提取，并最终通过图分类算法得到链接预测结果。
+
+b)提出了一种针对目标节点对的封闭子图提取方法，综合目标节点对周围节点的全局重要性和局部重要性，使每个提取出的封闭子图具有更高的表达力和相同的规模，提高了在链接预测场景下图分类任务的输入规范性。
+
+c)在多个不同背景的数据集上进行大量实验，并与多个具有代表性的基线模型进行实验对比，得到了非常优秀的效果。基于子图提取和图分类的链接预测框架如图1所示。
+
+![](images/09a94850bc15a8bde11be47a815d25d4f3d85f2edeaae68c76a3db5c53673858.jpg)  
+图1基于子图提取和图分类的链接预测框架  
+Fig.1A link prediction framework base on subgraph extraction and graph classification
+
+# 1 相关工作
+
+# 1.1启发式方法
+
+启发式的方法是最早被用来做链接预测的传统方法之一，这是基于一些可以计算的图数据上的静态特征描述节点之间的相似性，并通过这些相似性对节点间是否存在边相连进行预测的方法的统称。总的来说，这类方法认为节点相似性越高的节点对存在边的概率越高，反之越低。启发式方法可以粗略的分为一阶方法、二阶方法和高阶方法。顾名思义，一阶的启发式方法在计算过程中只需要用到两个节点之间的一阶邻居，如共同邻居个数法、Jaccard系数法、择优连接法[15]等；二阶的启发式方法最多用到两个目标节点的二度邻居，如AA(AdamicAdar)[3]和RA(resource allocation)[16]；高阶的启发式方法可以用到两个目标节点的三度及以上的所有邻居，最常见的有PageRank[17]、SimRank[18]、Katz 系数法[19]等。启发式方法的局限性也非常明显，即基于静态图计算的指标特征在不同的数据上都有比较大的差异，而且单个的指标往往无法比较全面的衡量拓扑结构的多维特征，所以表达力度也比较有限。本文提出的模型可以基于不同数据的特点智能的训练链接预测模型，同时也综合了多个维度的启发式方法，比较全面的描述了节点之间的相关关系。
+
+# 1.2基于图嵌入方法的链接预测
+
+图数据是一种非常高维的非欧数据结构，所以想要直接利用图网络结构中的所有信息会非常困难，而且计算代价很大。图嵌入方法[6,7,20,21]在这个时候就应运而生，它的本质是希望通过低维的向量来表达每个节点中蕴涵的图结构信息。因此，好的图嵌入方法可以在学到了图中每个节点的图嵌入向量特征之后，能够通过这些节点特征向量尽可能准确的反推出完整的图网络结构。变分图自编码器模型[7将节点特征矩阵的每一行看做是一个高维高斯分布的随机变量，构建模型学习高斯分布的均值和方差，通过高斯分布采样得到每个节点的特征矩阵 $\smash { Z _ { \mathrm { n } \times d } }$ ，其中 $n$ 表示节点数量， $d$ 表示特征维数，之后使用 $Z \cdot Z ^ { r }$ 作为解码器还原出原始的邻接矩阵。Node2vecl是基于随机游走的无监督图嵌入方法，它用图上的连边权重来构建从每个节点出发走到其他邻居节点的概率矩阵，然后以此在图上采样出大量随机游走序列，同时使用负采样的方式，随机抽取一些在图上相距非常远的节点对，通过优化节点特征向量的内积使得距离越近的节点特征向量越相似，而距离越远的节点特征向量越无关。因此，图嵌入方法所得到的节点特征向量往往天然与图上的连边情况息息相关，使用图嵌入方法之后，再将目标节点对的两个节点特征输入简单的分类器模型，就往往能得到很好的效果。这一类的图嵌入方法聚焦学习图网络结构，但是无法将节点的原生特征与图的拓扑结构综合到一起进行学习，所以还是损失了一定的信息和学习效率。本文提出的模型通过能够综合节点的原生特征和局部拓扑结构，很好的解决了这一问题。
+
+# 1.3图卷积神经网络
+
+图卷积神经网络也是图数据上的一类可扩展性和表达力度都很高的模型。这一类方法的基本思想是在图结构中通过邻居关系来传递并聚合信息。一般来说，图卷积神经网络类方法会先聚合每个节点的周围所有邻居特征，再将聚合后的信息与目标节点当前的信息进行加权合并，然后使用这些信息同时更新图上所有节点的特征向量。在图卷积神经网络类的算法研究中，不同的加权方法、采样方法、聚合方法等被纳入考虑进行了研究。Kipf等人[1I]提出的GCN模型，通过使用均值聚合来近似计算的方式，把图的卷积操作推广到了图上的谱域上。为了解决图的动态更新问题以及不同节点邻居数量分布不均匀的问题，Hamilton等人[9]提出了GraphSAGE模型，该方法采用有放回抽样的方式在每次聚合操作时对每个节点抽取相同数量的邻居节点，将所有所抽取的邻居节点特征与中心节点特征合并，并逐点更新下一层的节点特征。GAT 模型[10]在图卷积神经网络中引入了注意力机制，它考虑到聚合过程中每个邻居节点不同的相对重要性，通过学习多个注意力参数来控制聚合过程中邻居节点的相对权重，使得图卷积变得更加智能。GIN 模型[22]提出了一种新型的聚合合并方式，使得图卷积神经网络模型可以在区别同构图的问题上做到接近Weisfeiler-Lehman 测试[23]的效果，同时也在图卷积神经网络的传统任务中达到了非常良好的性能。然而基于全图的图卷积神经网络方法由于训练时读入的视野范围非常大，而无法聚焦目标节点对周围的小图的局部拓扑结构，因此忽略了很多局部特征。本文的模型通过提取目标节点对周围的邻居小图进行训练的方式，使得模型能够更多的关注到目标节点对周围的局部网络结构的细微特征，从而更准确的对链接是否存在进行预测。
+
+# 1.4 SEAL
+
+SEAL 模型[14]是近年来最有突破性的链接预测模型之一，是目前为止在链接预测任务上表现最佳的模型，也是本文的主要对比模型之一。SEAL开创性的提出了基于“封闭小图提取 $^ +$ 图分类"的链接预测框架，证明了所有的高阶或低阶的启发式特征均能够用目标节点对的低阶邻居子图做近似，从而说明了对于链接预测任务而言，每一个目标节点对周围的子图包含了进行链接预测所需要的所有高阶和低阶的特征，为“封闭小图提取 $^ +$ 图分类"的框架提出了理论支持。同时，SEAL提出了节点编号对于该框架的重要性，它认为邻居节点(包括直接邻居和高阶邻居)对于目标节点的重要性是各不相同的，需要在小图进行区别，因而提出了“双半径编号法"来表示在封闭小图中不同地位的节点，相同地位(编号)的节点共享同一个特征向量，这样在对封闭小图进行图分类时就可以共享相同的参数。
+
+虽然在目标节点对周围提取封闭子图进行训练的方法在大部分数据集上都表现极佳，但是粗暴地直接取 $k$ 跳子图的方式并不能很好的发挥出封闭子图表达力度的极限，反而可能会因为选取了无关或者比较边缘的节点，导致学习封闭子图的结构效率变低或者效果受到噪声干扰。另一方面，直接选取的 $k$ 跳子图规模大小会随着不同目标节点对所处位置的局部连边稠密程度而改变。这也使得后续的图分类任务变得更加不规范，在全图稠密程度差异较大的情况下，选出的封闭子图中的节点数量的方差就会很大，在同一个图分类模型下的分类准确率就会进一步降低。本文提出的模型就很好的解决了这几个问题。一方面，本文提出的模型可以在不同背景、不同拓扑结构以及全图分布差异性较大的图数据上，更加智能的选出对于位于中心的目标节点对而言，重要程度排名较高的前 $n$ 个节点。这可以使得小图的规模更加精准统一：而不是随着稠密程度和局部拓扑结构的不同而自由改变规模的大小；另一方面，本文提出的模型在提取封闭子图的过程中，使用了多个启发式的方法，在综合考量了全图信息和局部信息的同时，还保留了一定的可以调节的随机性。这使得本文的链接预测模型在收集封闭子图的时候，有能力随机地看到分布在目标节点对的周围，但是原本重要性不高的环境节点，从而保留了模型对于反常拓扑结构的一定的适应性。
+
+# 2 提出模型
+
+本文提出了一种基于优先值的邻居图提取链接预测算法(Priority-based Neighbor Subgraph Extraction method for Linkprediction，PNSEL)，后文简称PNSEL。与SEAL[14不同，PNSEL能更有针对性地提取子图，并且根据提取子图提取时的节点重要性进行编号，从而在目标节点对周围提取出有足够表达力的封闭子图，然后对封闭子图使用图分类算法，预测中心节点对之间是否存在边相连，如图2所示。PNSEL主要包括三个步骤：1)对全图的边进行筛选保留重要性高的边；2)对训练集中的每个节点对提取一个封闭子图并对其中的节点进行节点编号；3)在每一个小图上使用图分类算法进行0-1预测。
+
+计算启发式 预计算 提取封闭子图 图卷积抽取 预测链接静态参数 核点 + 随机 子图特征边筛选器 提取 提取 子图 分类器预测链接
+
+# 2.1问题定义
+
+链接预测任务的目标是，根据已知的图结构数据，预测图中可能存在或者即将出现的其他边。具体的数学定义如下：输入的图数据为 $G = ( \nu , \mathcal { E } )$ ，其中， $\nu$ 表示所有的节点集合，$\varepsilon$ 表示输入的已知边的集合，其中 $\boldsymbol { \varepsilon } _ { i , j } \in \mathcal { E }$ 当且仅当 $\nu _ { i } , \nu _ { j } \in \mathcal { V }$ 且$\nu _ { i }$ 与 $\boldsymbol { \nu } _ { j }$ 在输入图数据中之间存在一条边相连。测试集 $\mathcal { E } _ { t e s t }$ 是由节点对 $( \nu _ { i } , \nu _ { j } )$ 组成的集合，满足 $\nu _ { i } , \nu _ { j } \in \mathcal { V }$ 且 $\mathscr { E } _ { i , j } \notin \mathcal { E }$ 。链接预测任务要解决的问题就是，通过在 $G$ 上的建模和学习，对测试集 $\mathcal { E } _ { t e s t }$ 里的节点对之间是否存在连边进行预测。
+
+# 2.2边筛选器
+
+边筛选器是对图中的边进行筛选的模块。在非常稠密的图中，总边数的数量级非常大，会导致封闭子图提取步骤的计算量非常大，同时也会使封闭子图占用很大的存储空间。本文可以通过设置边筛选器模块解决这个问题，边筛选器模块可以过滤掉训练集中的一些重要程度不高的边，保留比较核心的边，在保持核心拓扑结构不变的情况下减小计算量，提高算法的效率。具体做法如下：
+
+对于任意的 $\boldsymbol { \varepsilon } _ { i , j } \not \in \mathcal { E }$ ，本文计算它的两个端点 $\nu _ { i } , \nu _ { j }$ 之间的Jaccard系数作为这个边的优先级，即
+
+$$
+S ( \nu _ { i } , \nu _ { j } ) { = } \frac { \left| \Gamma ( \nu _ { i } ) \cap \Gamma ( \nu _ { j } ) \right| } { \left| \Gamma ( \nu _ { i } ) \cup \Gamma ( \nu _ { j } ) \right| } ,
+$$
+
+其中， $\Gamma ( \nu )$ 表示节点 $\nu$ 的一阶邻居节点集合。Jaccard系数越高，说明两节点之间的关联紧密程度越大，这个边存在的重要性就越高。本文对所有边的Jaccard系数进行排序，并保留$\left[ \boldsymbol { k } \times \right|$ 印条边作为训练集中输入的邻接矩阵，其中 $k \in ( 0 , 1 ]$ 表示保留边的百分比，[x]表不超过 $x$ 的最大整数，新的边集合记为$\varepsilon ^ { \prime }$ 。当 $k$ 取1时，本文保留所有的原始边，不进行边筛选。
+
+# 2.3 封闭子图提取
+
+在本节中，本文提出了一种新的封闭子图提取方法，主要步骤如图3所示。这种方法不仅能够选中在目标节点对周围的影响力和重要性高的节点，而且能够保留一定的随机性。随着跳数的扩散，被选入封闭子图的可能性将被随机地分配到目标节点对附近的其他节点上。对于一个给定的目标节点对 $( \nu _ { i } , \nu _ { j } )$ ，本文先从节点层面出发，在目标节点对周围选择恰当的节点集合 $\mathcal { V } _ { i , j }$ ，从而得到封闭子图的边集合$\mathcal { E } _ { i , j } = \{ \varepsilon _ { x , y } \mid \nu _ { x } , \nu _ { y } \in \mathcal { V } _ { i , j }$ 且 $\varepsilon _ { x , y } \in \mathcal { E } ^ { \prime } \}$ ，即端点均为 $\mathcal { V } _ { i , j }$ 中的节点且出现在过滤完的全图边的集合 $\varepsilon ^ { \prime }$ 中的所有边构成的集合，最终提取的封闭子图就是 $G _ { i , j } = ( \mathcal { V } _ { i , j } , \mathcal { E } _ { i , j } )$ 0
+
+![](images/33b62df7b2c4e18d67e3a6928ce2d2ba21c8cabb6128d8d6b0995d15a6b2ffb9.jpg)  
+图2模型框架图  
+Fig.2General architecture of the proposed model   
+图3封闭子图提取步骤  
+Fig.3Extraction steps of closing subgraph
+
+在节点集合的提取过程中，为了使提取的子图兼具影响力和随机性，本文将提取的节点集合分成两个部分：核心节点集合 $\mathcal { V } _ { i , j } ^ { \mathrm { p n o r } }$ 和随机节点集合 $\mathcal { V } _ { i , j } ^ { \mathrm { r a n d } }$ 。他们之间满足这样的关系，$\mathscr { V } _ { i , j } = \mathscr { V } _ { i , j } ^ { \mathrm { p r i o r } } \cup \mathscr { V } _ { i , j } ^ { \mathrm { r a n d } } , \mathscr { V } _ { i , j } ^ { \mathrm { p r i o r } } \cap \mathscr { V } _ { i , j } ^ { \mathrm { r a n d } } = \mathscr { O }$ 。本文使用超参数 $\alpha$ 来决定封闭子图节点集合的随机性和影响力排序的重要性大小占比，即本文使用核心节点提取方法提取 $[ \alpha \times | \mathcal { V } _ { i , j }$ 数量的点，使用随机节点提取方法提取 $[ ( 1 - \alpha ) \times | \mathcal { V } _ { i , j } | ]$ 数量的点，其中：
+
+$$
+\alpha = \frac { \left| \mathcal { V } _ { i , j } ^ { \mathrm { p r i o r } } \right| } { \left| \mathcal { V } _ { i , j } \right| } = \frac { \left| \mathcal { V } _ { i , j } ^ { \mathrm { p r i o r } } \right| } { \left| \mathcal { V } _ { i , j } ^ { \mathrm { r a n d } } \right| + \left| \mathcal { V } _ { i , j } ^ { \mathrm { p r i o r } } \right| } \in [ 0 , 1 ]
+$$
+
+# 2.3.1核 $\therefore$ 节点提取
+
+核心节点提取部分旨在提取出相对于目标节点对和全图都具有高影响力的重要节点。在实际操作中，本文使用全局PageRank和个性化的PageRank[17来表示节点的全局影响力和相对于目标节点对的局部影响力。本文用 $p r _ { i } , \nu _ { i } \in \mathcal { V }$ 表示全局PageRank，用 $p p r _ { x } ^ { y }$ 表示以节点 $\nu _ { y }$ 为出发点计算出来的节点 $\nu _ { x }$ 的个性化的 PageRank，其中 $\nu _ { x } , \nu _ { y } \in \mathcal { V }$ 。那么对于一个固定的目标节点对 $( \nu _ { i } , \nu _ { j } )$ ，他们的周围节点 $\nu _ { x }$ 的全局影响力就用 $p r _ { x }$ 表示； $\nu _ { x }$ 的局部相对影响力用分别以两个目标节点为核心节点计算出来的个性化的PageRank 的最大值来计算，也就是说节点 $\nu _ { x }$ 相对于目标节点对 $( \nu _ { i } , \nu _ { j } )$ 的局部相对影响力大小为 $\mathrm { m a x } ( \mathrm { p p r } _ { x } ^ { i } , p p r _ { x } ^ { j } )$ 。同时，本文用超参数 $\beta$ 来控制局部影响力在核心节点排序评分中的重要性大小，也就是说本文最后的周围节点优先值计算方法如下：
+
+$$
+p _ { x } ^ { i , j } = \beta \times \operatorname* { m a x } \left( p p r _ { x } ^ { i } , p p r _ { x } ^ { j } \right) + ( 1 - \beta ) \times p r _ { x } , \nu _ { x } \in \mathcal { V }
+$$
+
+然后本文可以通过排序所有节点的优先值得到优先值最高的 $n _ { 1 } { = } [ { \alpha } { \times } { \mathrm { f i x } } \_ { \mathrm { n o d e } \_ { \mathrm { n u m } } } ]$ 个节点，来得到目标节点对的核心节点集合。
+
+# 2.3.2随机节点提取
+
+随机节点提取部分旨在随机提取出目标节点对周围的邻居节点(包括直接相邻和间接相邻)。在随机节点提取部分，所提方法采用了类似最小哈希算法(MinHash)[24]的思想，最小哈希算法是利用低维编码的方式快速近似计算两个集合的Jaccard相似性的算法。在这个模块中，所提算法将每个筛选出来的节点集合视为一个编码，分别编码目标节点对$( \nu _ { i } , \nu _ { j } )$ 的 $p$ 跳邻居： $\mathcal { N } _ { i } ^ { p } , \mathcal { N } _ { j } ^ { p }$ ，其中 $p { = } 1 , 2 , 3 . . . \mathrm { n u m \_ h o p s }$ ，这样所筛选出来的节点就能很好的代表两个中心节点的邻居特征具体来说，随机节点提取模块提取节点的总数量为
+
+$$
+n _ { 2 } = [ ( 1 { - } \alpha ) { \times } \mathrm { f i x \_ n o d e \_ n u m } ] ,
+$$
+
+本文先生成 $n _ { 2 }$ 次相互独立的全图节点随机排列的哈希函数
+
+$$
+p e r m ^ { k } : \mathcal { V } \xrightarrow { } \mathbb { N } \quad , k = 1 , 2 \cdots n _ { 2 }
+$$
+
+A函数的输出是0到(节点总数-1)上的正整数，输入是图中的某一个节点。同时本文构建一个固定序号哈希函数$h { : \mathbb { N } \to \mathcal { V } }$ ，即每个序号唯一的对应图上的某一个节点。为了均匀的分配提取的随机节点，本文的算法会在每一跳的邻居上采样
+
+$$
+\mathrm { n o d e \_ p e r \_ h o p } = [ \frac { n _ { 2 } } { \mathrm { n u m \_ h o p s } } ]
+$$
+
+个节点，其中 $[ \mathrm { n o d e } _ { - } \mathrm { p e r } _ { - } \mathrm { h o p } / 2 ]$ 个节点用来编码 $\nu _ { i }$ ，即对于每一个 $p { = } 1 , 2 , 3 . . . \mathrm { n u m \_ h o p s }$ ，本文使用
+
+$$
+h _ { \operatorname* { m i n } } \left( \mathcal { N } ^ { p } \left( \nu _ { i } \right) \right) = h ( \operatorname* { m i n } _ { u \in \mathcal { N } ^ { p } \left( \nu _ { i } \right) } p e r m ^ { k } \left( u \right) )
+$$
+
+计算[nc $\mathbf { \vec { d e } } _ { - } \mathbf { p e r } _ { - } \mathbf { h o p } / 2 ]$ 次，得到选取的节点集合，其中$\mathcal { N } ^ { p } ( \nu _ { i } )$ 表示节点 $\nu _ { i }$ 的第 $p$ 跳邻居。同样，本文用剩下的[node_per $_ - \mathrm { h o p } / 2 ]$ 个节点来编码 $\vert \nu _ { j }$ ，即采样函数为
+
+$$
+h _ { m i n } ( \mathcal { N } ^ { p } ( \nu _ { j } ) ) = h ( m i n _ { u \in \mathcal { N } ^ { p } ( \nu _ { j } ) } p e r m ( u ) )
+$$
+
+最后，将这些选中的节点加入随机节点提取集合 $\mathcal { V } _ { i , j } ^ { \mathrm { r a n d } }$ 。2.3.3节点编号
+
+节点编号部分的任务是，在已经提取好的封闭子图里，给每一个节点按照重要性赋予一个节点编号。为了在有节点特征和无节点特征的图链接预测任务中都进行子图分类训练，并且统一地在不同的封闭子图中学到局部特征结构来预测核心节点之间是否存在边相连，本文需要使用相同的规则给子图中的节点进行编号。在所有的子图进入图卷积神经网络中进行图分类训练之前，本文给相同编号的节点赋予相同的节点特征。节点编号在连接预测中具有非常重要的意义。Zhang等人[25]最近提出了一种节点编号理论，该理论提出，链接预测任务本质上是基于点集来提取信息特征进行训练和预测的任务。如果本文仅仅关注节点本身的拓扑结构特征，那么就会陷入对称性的陷阱当中。
+
+该理论还定义了一种编号技巧(LabelingTrick)，并证明了在使用图卷积神经网络来训练节点特征的情况下，结合编号技巧来提取点集特征的方法是一种最具表达力的点集结构特征提取方法。
+
+编号技巧的定义如下：给定 $^ { ( S , A ) }$ 作为节点集合和节点-连边特征矩阵，如果一个编号向量 $\pmb { L } ^ { ( S ) } \in \mathbb { R } ^ { n \times n \times d }$ 满足以下条件就可以称为一个编号技巧：对于任意的 $S , A , S ^ { \prime } , A ^ { \prime } , \pi \in \Pi _ { n }$ ，均有
+
+a）目标节点标识性。
+
+$$
+\pmb { L } ^ { ( s ) } = \pi \big ( \pmb { L } ^ { ( s ^ { \prime } ) } \big ) \Rightarrow S = \pi ( S ^ { \prime } )
+$$
+
+b)排列变换相等性。
+
+$$
+S = \pi ( S ^ { \prime } ) , A = \pi ( A ^ { \prime } ) { \Rightarrow } { \cal L } ^ { ( s ) } = \pi { \big ( } { \cal L } ^ { ( s ^ { \prime } ) } { \big ) }
+$$
+
+其中， $\pi$ 是一个排列变换， $\Pi _ { n }$ 是 $n$ 个元素的所有可能的排列组合。
+
+在跳数更小节点区别性更高的情况下，本文提出了一种新的编号方法，即用核心节点提取模块中计算的目标节点周围节点优先值排序来作为编号：最重要的节点即两个目标节点对，编号为1，剩下的其他节点按照优先值降序依次编号为3至 $n = \mathrm { f i x \_ n o d e \_ n u m }$ ，而其他未被选中的所有节点均编号为0。下面本文来证明这种编号方法是一种编号技巧：
+
+a)如果存在 ${ \pmb { L } } ^ { ( S ) } = \pi \big ( { \pmb { L } } ^ { ( S ^ { \prime } ) } \big )$ ，即 $\boldsymbol { s } ^ { \prime }$ 经过变换过的节点编号与$s$ 完全相同，由于本文除了目标两节点对的编号为1，其他节点的编号均为一点一个编号，所以肯定可以找一种映射方式 $\pi$ 使得 $s$ 中的每个节点一一对应到 $\boldsymbol { s } ^ { \prime }$ 中编号相同节点。
+
+b)如果 $S = \pi ( S ^ { \prime } ) , A = \pi ( A ^ { \prime } )$ ，即图(S,A)与图 $( \boldsymbol { S } ^ { \prime } , \boldsymbol { A } ^ { \prime } )$ 是同构图，那么以节点 $\nu _ { i ^ { \prime } } \in S ^ { \prime }$ 为出发点计算的个性化PageRank与以节点 $\nu _ { i } = \pi ( \nu _ { i } )$ 为出发点计算的个性化PageRank向量必然完全相等，因而由个性化PageRank 排序得到的节点编号必然也相等。
+
+所以，本文证明了所提的编号方法能够与图卷积神经网络结合，构造出一种最具表达力的点集结构特征提取方法。
+
+# 2.4 图分类
+
+最后，本文使用图卷积神经网络来对每个构建好的封闭子图进行0-1图分类预测。预测为0表示目标节点对之间不存在边，预测为1表示目标节点对之间存在边。
+
+本文先通过图卷积神经网络提取子图特征
+
+$$
+g _ { i , j } = \mathrm { G N N } \big ( \mathcal { G } _ { i , j } \big ) = \mathrm { G N N } \big ( \big ( \mathcal { V } _ { i , j } , \mathcal { E } _ { i , j } \big ) \big ) ,
+$$
+
+其中，GNN()表示某一种图卷积神经网络函数。
+
+这里本文主要使用的是GraphSAGE[11]模型。具体来说，模型先初始化节点特征为图数据的节点原生特征
+
+$$
+z ^ { _ { ( 0 ) } } = X ,
+$$
+
+然后通过聚合邻居节点的特征，来逐层更新节点特征
+
+$$
+\begin{array} { r l } & { \boldsymbol { \Xi } _ { \mathcal { N } ( \nu ) } ^ { t } = \mathrm { A G G R E G A T E } _ { t } \left( \left\{ \boldsymbol { z } _ { u } ^ { t - 1 } , \forall u \in \mathcal { N } ( \nu ) \right\} \right. } \\ & { \left. \boldsymbol { z } _ { \nu } ^ { t } = \sigma \big ( W ^ { \prime } \cdot \mathrm { C O N C A T } \big ( \boldsymbol { z } _ { \nu } ^ { t - 1 } , \boldsymbol { z } _ { \mathcal { N } ( \nu ) } ^ { t } \big ) \big ) \right. } \end{array}
+$$
+
+其中， $t \in \{ 1 , 2 , \cdots , h - 1 \}$ ，本文将两个目标节点 $\nu _ { i } , \nu _ { j }$ 的节点特征做哈达玛积(Hadamard product)得到子图的图特征向量
+
+$$
+g _ { i , j } = z _ { i } \odot z _ { j }
+$$
+
+$$
+g _ { i , j } [ x ] = z _ { i } [ x ] \times z _ { j } [ x ]
+$$
+
+然后本文将子图特征通过多层感知机，得到链接预测值
+
+$$
+\begin{array} { r l } & { g _ { i , j } ^ { ( 0 ) } = g _ { i , j } } \\ & { g _ { i , j } ^ { ( k ) } = \mathrm { R e L U } \big ( W _ { k } g _ { i , j } ^ { ( k - 1 ) } + b _ { k } \big ) , k \in \{ 1 , 2 , \cdots , K - 1 \} } \\ & { y _ { i , j } = \sigma \big ( W _ { K } g _ { i , j } ^ { ( K - 1 ) } + b _ { K } \big ) } \end{array}
+$$
+
+其中， $\sigma ( \cdot )$ 是 sigmoid 函数， $y _ { i , j }$ 即为本文对 $\nu _ { i } , \nu _ { j }$ 的连边情况的预测。
+
+# 3 实验及分析
+
+本文在有节点特征的数据集和不含节点特征的数据集上分别进行了实验，并与几个基线模型进行了对比实验。下面从数据集、基线模型、评估指标、与基线模型的对比和模型分析讨论等方面对实验和模型进行描述。
+
+# 3.1含节点特征数据集
+
+Chameleon，Squirrel 数据集来自维基百科数据集[26],在这两个数据集中每个节点代表一个网页，而每一条边代表两个不同网页之间的超链接，节点特征则表示网页中存在的特定的代表性的名词含量。
+
+Actor 数据集[27取自一个"电影-导演-演员-作家"网络，数据集中的每一个节点表示一个演员，如果两个演员在同一个维基百科网页上同时出现过，那么他们会存在一条连边，节点特征反映了该演员的维基百科介绍页面上的一些关键词情况。
+
+Cornell，Texas，Wisconsin数据集[27]是卡耐基梅隆大学收集整理的不同大学计算机系的校园网页数据集。每个数据集来自一个大学，数据集内的每个节点表示一个网站，网页分为学生、项目、课程、员工和教师这五个类别，节点之间的连边表示网页之间的超链接，节点特征也是网页上出现的关键词信息。
+
+PubMed，Cora，CiteSeer数据集是非常经典的不同领域的论文引用网络数据集[28,29]。在这三个数据集中，每个节点表示一篇论文，节点之间的连边表示论文之间的互相引用关系，节点特征表示论文的代表词描述信息。
+
+这9个含节点特征数据集来自不同的背景，也具有不同的大小规模和平均节点度数，能够很好的综合反映PNSEL在不同结构的数据集上的性能，具体的数据规模描述如表1所示。
+
+Tab.1Statistics of datasets with node features   
+
+<html><body><table><tr><td>Dataset</td><td>Nodes</td><td>Edges</td><td>Avg. Degree</td><td>Features</td></tr><tr><td>Chameleon</td><td>2277</td><td>36101</td><td>15.85</td><td>2325</td></tr><tr><td>Squirrel</td><td>5201</td><td>217073</td><td>41.74</td><td>2089</td></tr><tr><td>Actor</td><td>7600</td><td>33544</td><td>4.41</td><td>931</td></tr><tr><td>Cornell</td><td>183</td><td>295</td><td>1.61</td><td>1703</td></tr><tr><td>Texas</td><td>183</td><td>309</td><td>1.69</td><td>1703</td></tr><tr><td>Wisconsin</td><td>251</td><td>499</td><td>1.99</td><td>1703</td></tr><tr><td>PubMed</td><td>19717</td><td>44338</td><td>2.25</td><td>500</td></tr><tr><td>Cora</td><td>2708</td><td>5429</td><td>2.00</td><td>1433</td></tr><tr><td>CiteSeer</td><td>3312</td><td>4732</td><td>1.43</td><td>3703</td></tr></table></body></html>
+
+# 3.2无节点特征数据集
+
+本文使用了8个无节点特征数据集，分别是美国航线数据集USAir，网络科学研究人员的合作关系网络NS[30]，美国政治博客网络PB[31]，蛋白质相互作用网络Yeast[32]，秀丽隐杆线虫的生物神经网络C.elegans[33]，美国西部电网分布结构Power[33]，路由器构建的互联网络图Router[34]，大肠杆菌中代谢物的成对反映网络E.coli[35]。他们具有不同的背景、数据规模、平均度数和聚类系数，具体数值分布如表2所示。
+
+表1有节点特征数据集的统计信息  
+表2无节点特征数据集的统计信息  
+Tab.2 Statistics of datasets without node features   
+
+<html><body><table><tr><td>Dataset</td><td>Nodes</td><td>Edges</td><td>Avg. Degree</td></tr><tr><td>USAir</td><td>332</td><td>2126</td><td>6.40</td></tr><tr><td>NS</td><td>1589</td><td>2742</td><td>1.73</td></tr><tr><td>PB</td><td>1222</td><td>16714</td><td>13.68</td></tr><tr><td>Yeast</td><td>2375</td><td>11693</td><td>4.92</td></tr><tr><td>C.ele</td><td>297</td><td>2148</td><td>7.23</td></tr><tr><td>Power</td><td>4941</td><td>6594</td><td>1.33</td></tr><tr><td>Router</td><td>5022</td><td>6258</td><td>1.25</td></tr><tr><td>E.coli</td><td>1805</td><td>15660</td><td>8.68</td></tr></table></body></html>
+
+所有数据集均随机选取原图中 $80 \%$ 的边作为训练集里的可见边， $10 \%$ 的边作为测试集里面的正样本，并随机选取等数量的不存在边相连的节点对作为测试集里面的负样本，剩下的 $10 \%$ 的边作为验证集里的正样本，也同时独立抽取等数量的训练集里不存在边相连的节点对作为验证集里的负样本。
+
+# 3.3基线模型
+
+由于所提方法是建立在“提取子图 $^ +$ 图分类"框架下的预测算法，目前采用这个框架的算法只有SEAL模型，所以SEAL是主要的对比对象。近些年来也涌现了一下不同思路的链接预测方法，考虑到算法的角度不同，这里不做对比。本文选择的一些有代表性的模型有：
+
+a)SEAL[14]。该模型使用目标节点对周围的 $k$ 跳邻居小图，通过图分类进行链接预测，是建立在“提取子图 $^ +$ 图分类"框架下的目前表现最佳的算法。
+
+b)Node2vec[6]。该模型是一种非常有效的无监督的图嵌入方法，通过随机游走序列学习每个节点的图嵌入表达。训练完成后将目标两节点特征的哈达玛积通过线性层和激活层后进行链接预测。
+
+c)MLP。多层感知机模型，可以使用在含有节点特征的图数据中。模型读入节点的原始特征，将两节点的原始特征的哈达玛积通过深度神经网络后进行0-1预测。
+
+d)GraphSAGE[9]。该模型是一种结合邻居采样和动态更新节点特征的图卷积神经网络模型。模型先在全图进行卷积操作更新所有节点的特征，再取出目标节点对的特征向量进行建模预测链接是否存在。
+
+# 3.4评估指标
+
+链接预测任务是一种二分类任务，测试集由未知连边情况的节点对组成，其中 $50 \%$ 的节点对在原数据集上存在边相连，但是在训练数据中连边被删去不可见；另外 $50 \%$ 的节点对是随机采样取出的在原图中本来就没有连边的节点对，所以正负样本比例为1：1。
+
+本文采用 AUC、F1-score、precision 和 recall 作为评价指标，综合的评价预测的准确性。具体计算方法为
+
+$$
+\sum _ { \substack { A U C = \frac { i \in \mathrm { P o s i t i v e C l a s s } } { M \times N } } } \mathrm { r a n k } _ { i } - \frac { M \times \left( M + 1 \right) } { 2 }
+$$
+
+其中，ranki表示序号为 $i$ 的样本的预测概率在所有样本从小到大排序后的排序序号， $M$ 、 $N$ 表示是正样本和负样本的个数，PositiveClass表示正样本的序号集合。
+
+$$
+\mathrm { p r e c i s i o n } = \frac { \mathrm { T P } } { \mathrm { T P } + \mathrm { F P } } , \mathrm { r e c a l l } = \frac { \mathrm { T P } } { \mathrm { T P } + \mathrm { F N } }
+$$
+
+其中，precision即精准率，表示分类器判定的正例中的正样本比例，recall即召回率，表示正样本中被分类器判定为正例的比例。TP表示预测为正例的正样本数量，FP表示预测为正例的负样本数量，FN表示预测为负例的正样本数量。
+
+$$
+\mathrm { F 1 - s c o r e } = 2 \times \frac { \mathrm { p r e c i s i o n \times r e c a l l } } { \mathrm { p r e c i s i o n + r e c a l l } }
+$$
+
+# 3.5参数设置
+
+本文在9个含节点特征数据集和8个不含节点特征的数据集上对上述的基线模型进行了实验。对于Node2vec 模型，本文采用的随机游走步长为10，窗口长度为5，训练的节点特征维数为128维，然后本文使用相同的训练集验证集测试集划分，用Node2vec得到的节点特征为输入训练MLP分类模型来做链接预测。本文在有节点特征的数据集上使用MLP方法作为一个基线模型，使用节点原生特征作为MLP模型的输入特征向量，MLP的层数设置为3层，隐藏层的向量维数为256维。对于GraphSAGE模型，在有节点特征的数据集上，本文采用了两种训练方式。一种是初始化节点特征向量为节点原生特征，固定输入的节点特征向量，这种模型记为GraphSAGEi；第二种是随机初始化节点的特征向量，然后将特征向量当成参数进行训练，这种模型记为GraphSAGE2。在不含节点特征的数据集上，本文只采用了随机初始化节点特征向量参数，并训练特征向量参数的方式，模型记作GraphSAGE。GraphSAGE的卷积层数设置为2层，隐藏层的向量维数同样设置为256维。对于SEAL模型，在原文章中已有实验的数据集，本文采用与SEAL论文中相同的实验设置。在原文章中没有的数据集，本文使用与原文章中相似数据集类似的参数实验，并对主要的超参实验了主要可能的取值，选择最佳结果作为实验最终结果。对于本文提出的算法PNSEL，本文同样使用了256维的隐藏层维数，在计算周围节点优先值时，局部影响力占比超参数 $\beta$ 本文在[0,0.3,0.5,0.7，1]这几个数值中进行了实验。在分配核心节点提取比例时，核心节点占比超参数 $\alpha$ 本文在[0,0.3,0.5,0.8,1]。本文模型使用的编号方式为双半径编号法和优先值排序编号法，使用的图分类模型为 DGCNN[36]和 GraphSAGE,选择最佳结果作为实验的最终结果。PNSEL 与 SEAL 均将batchsize数量设置为32。上述模型均使用各数据集上最佳的学习率，训练的epoch数均为100，并进行独立实验10次，计算正确率的均值和方差。
+
+# 3.6与基线模型的对比
+
+本文分别在有节点特征和无节点特征两个情况下分析本文模型的性能。表3\~8是在有节点特征的9个数据集上的AUC、F1-score、precision 和 recall 的实验结果(precision 和recall的结果为10次独立实验的均值)。
+
+表3与基线模型在有特征数据集(a)上的比较(AUC)
+
+Tab.3Comparasion with baselines on datasets(a) with node feature(AUC)   
+
+<html><body><table><tr><td>method</td><td>Actor</td><td>Chameleon</td><td>Citeseer</td><td>Cora</td></tr><tr><td>PNSEL</td><td>84.86 ± 0.24</td><td>99.78 ± 0.01</td><td>90.07 ± 0.08</td><td>91.59 ± 0.24</td></tr><tr><td>SEAL</td><td>75.28 ± 0.56</td><td>99.60 ±0.06</td><td>90.53 ± 0.84</td><td>90.67 ± 0.02</td></tr><tr><td>Node2vec</td><td>78.52 ± 0.69</td><td>98.28 ± 0.02</td><td>78.34 ± 0.35</td><td>86.08 ± 0.55</td></tr><tr><td>MLP</td><td>53.03 ±0.23</td><td>97.14 ± 0.05</td><td>91.51 ± 0.12</td><td>82.58 ± 0.76</td></tr><tr><td>GraphSAGE1</td><td>82.00 ±0.16</td><td>99.66 ± 0.02</td><td>92.69 ± 0.37</td><td>93.88 ± 0.47</td></tr><tr><td>GraphSAGE2</td><td>80.72 ± 0.61</td><td>99.27 ± 0.02</td><td>72.61 ± 2.26</td><td>77.97 ± 1.37</td></tr></table></body></html>
+
+表4与基线模型在有特征数据集(a)上的比较 (F1-score)
+
+Tab.4Comparasion with baselines on datasets(a) with node feature(Fl-score)   
+
+<html><body><table><tr><td>method</td><td>Actor</td><td>Chameleon</td><td>Citeseer</td><td>Cora</td></tr><tr><td>PNSEL</td><td>76.24± 0.62</td><td>98.34 ± 0.06</td><td>82.80 ± 0.44</td><td>82.81 ± 0.91</td></tr><tr><td>SEAL</td><td>68.25 ± 0.65</td><td>97.86 ± 0.28</td><td>80.15 ± 0.05</td><td>82.19 ± 0.77</td></tr><tr><td>Node2vec</td><td>66.37 ± 1.04</td><td>94.37 ± 0.13</td><td>69.80 ± 2.07</td><td>73.62 ± 6.24</td></tr><tr><td>MLP</td><td>53.02 ±0.76</td><td>92.06 ± 0.17</td><td>83.97 ± 0.83</td><td>73.23 ± 2.70</td></tr><tr><td>GraphSAGE1</td><td>38.11 ± 2.02</td><td>97.17 ± 0.08</td><td>53.27 ± 2.36</td><td>65.31 ± 0.94</td></tr><tr><td>GraphSAGE2</td><td>52.98 ± 2.12</td><td>96.46 ± 0.05</td><td>40.33 ± 1.62</td><td>43.86± 2.00</td></tr></table></body></html>
+
+表5与基线模型在有特征数据集(a)上的比较 (Precision,Recall)
+
+Tab.5Comparasion with baselines on datasets(a) with node feature   
+
+<html><body><table><tr><td rowspan="2">method</td><td colspan="2">Actor</td><td colspan="2">Chameleon</td><td colspan="2">Citeseer</td><td colspan="2">Cora</td></tr><tr><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td></tr><tr><td>PNSEL</td><td>79.38</td><td>73.45</td><td>98.30</td><td>98.38</td><td>81.68</td><td>83.96</td><td>87.33</td><td>78.80</td></tr><tr><td>SEAL</td><td>69.84</td><td>66.91</td><td>97.51</td><td>97.80</td><td>90.90</td><td>71.72</td><td>91.55</td><td>74.57</td></tr><tr><td>Node2vec</td><td>52.31</td><td>91.06</td><td>97.27</td><td>91.64</td><td>68.87</td><td>76.44</td><td>68.71</td><td>86.07</td></tr><tr><td>MLP</td><td>52.46</td><td>53.62</td><td>89.40</td><td>94.91</td><td>81.62</td><td>86.90</td><td>80.99</td><td>67.51</td></tr><tr><td>GraphSAGE1</td><td>95.88</td><td>23.79</td><td>98.58</td><td>95.80</td><td>99.40</td><td>36.41</td><td>98.85</td><td>48.77</td></tr><tr><td>GraphSAGE2</td><td>92.31</td><td>37.18</td><td>97.94</td><td>95.02</td><td>92.77</td><td>25.79</td><td>94.92</td><td>28.53</td></tr></table></body></html>
+
+表6与基线模型在有特征数据集(b)上的比较(AUC)
+
+Tab.6Comparasion with baselines on datasets(b) with node feature(AUC)   
+
+<html><body><table><tr><td>method</td><td>Cornell</td><td>PubMed</td><td>Squirrel</td><td>Texas</td><td>Wisconsin</td></tr><tr><td>PNSEL</td><td>88.51 ± 2.10</td><td>97.70 ± 0.02</td><td></td><td>99.76±0.01 84.45 ± 2.57</td><td>81.63 ± 6.18</td></tr><tr><td>SEAL</td><td>82.24 ± 2.69</td><td>97.37 ± 0.37</td><td></td><td>99.64±0.32 81.25 ± 3.85</td><td>71.01 ± 1.97</td></tr><tr><td>Node2vec</td><td>63.81 ± 6.81</td><td>80.14±0.65</td><td></td><td>98.87±0.01 62.42 ±10.09</td><td>60.76 ± 5.57</td></tr><tr><td>MLP</td><td></td><td>74.12 ± 0.90 91.97± 0.20</td><td>95.77± 0.05</td><td>76.17± 7.50</td><td>82.23 ± 5.95</td></tr><tr><td>GraphSAGE1</td><td>76.59 ± 3.41</td><td>92.99 ± 0.15</td><td>99.29 ± 0.03</td><td>79.95 ± 1.26</td><td>79.62 ± 1.05</td></tr><tr><td>GraphSAGE2</td><td>76.18 ± 7.21</td><td>93.09±0.06</td><td>99.46 ± 0.01</td><td>78.84± 3.83</td><td>76.56 ± 4.63</td></tr></table></body></html>
+
+如表中所示，对于有节点特征的数据，PNSEL在社交网络、论文引用、生物关联等网络关系数据中与其他基线模型相比，都表现出了最佳的平均AUC和F1-score，同时，precision 和 recall的表现也非常均衡，precision 和 recall综合来看的平均情况最佳，这说明本文的模型具有很好的性能和优秀的适应性。
+
+Node2vec模型在部分数据上也有比较优良的表现，说明无监督的图嵌入方法也能在一定程度上提取出链接预测需要用到的拓扑信息，但是在其他的大部分数据上则无法保持很好的效果。MLP 模型在 chameleon、Wisconsin、CiteSeer上表现也不错，其中Wisconsin的预测AUC比其他基线模型都高，说明对于某些含节点特征的图网络结构而言，节点的原生特征对于链接预测起到了首要的作用。GraphSAGE模型在使用和不使用原生特征的情况下，总的来说模型表现差异不大，在大部分数据集上均能有不错的效果，其中在CiteSeer和Cora上的AUC完全超过其他基线模型但是F1-score却比较低，说明图神经网络模型对于链接预测来说的表达力很强，但是存在正负例的预测准确性不均衡的问题。SEAL模型综合了以上模型的优点，是所有数据集上平均表现第二好的模型，说明“子图提取 $^ +$ 图分类"的框架在链接预测问题上具有非常好的效果，但是仍有一定的提升空间。而PNSEL在大部分的数据集上均表现出了显著高于SEAL的AUC和F1-score，说明本文的改进是非常有效且合理的。
+
+表7与基线模型在有特征数据集(b)上的比较(F1-score)
+
+Tab.7Comparasion with baselines on datasets(b) with node feature(Fl-score)   
+
+<html><body><table><tr><td>method</td><td>Cornell</td><td>PubMed</td><td>Squirrel</td><td>Texas</td><td>Wisconsin</td></tr><tr><td>PNSEL</td><td></td><td></td><td></td><td>78.77±3.06 92.66±0.04 97.87±0.10 69.62± 4.07</td><td>71.80 ± 5.40</td></tr><tr><td>SEAL</td><td></td><td>72.80±5.31 91.30±0.78 97.21 ±0.52 49.70±8.40 42.51 ±36.93</td><td></td><td></td><td></td></tr><tr><td>Node2vec</td><td></td><td></td><td></td><td>55.56± 24.85 68.55 ±0.95 95.42±0.09 12.73± 28.46 66.67± 0.00</td><td></td></tr><tr><td>MLP</td><td></td><td></td><td></td><td>67.42± 4.59 84.93±0.36 88.29 ±0.07 69.00±4.47 71.75± 10.35</td><td></td></tr><tr><td>GraphSAGE1</td><td></td><td></td><td></td><td>29.75±29.63 76.12± 1.44 95.99±0.29 27.15± 13.71 41.25± 5.48</td><td></td></tr><tr><td>GraphSAGE2</td><td></td><td></td><td></td><td>17.74± 5.74 62.52 ±0.89 96.71 ± 0.08 45.43 ± 26.35 39.63 ± 9.58</td><td></td></tr></table></body></html>
+
+表8与基线模型在有特征数据集(b)上的比较(Precision,Recall)
+
+Tab.8Comparasion with baselines on datasets(b) with node feature   
+
+<html><body><table><tr><td rowspan="2">method</td><td colspan="2">Cornell</td><td colspan="2">PubMed</td><td colspan="2">Squirrel</td><td colspan="2">Texas</td><td colspan="2">Wisconsin</td></tr><tr><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td><td>Pre</td><td>Rec</td></tr><tr><td>PNSEL</td><td>83.85</td><td>74.71</td><td>90.64</td><td>94.77</td><td>98.35</td><td>97.4</td><td></td><td>92.38 56.25</td><td>77.23</td><td>70.00</td></tr><tr><td>SEAL</td><td>86.75</td><td>62.75</td><td>93.21</td><td>89.47</td><td>98.02</td><td>96.41</td><td></td><td>100.033.33</td><td>44.85</td><td>40.58</td></tr><tr><td>Node2vec</td><td>60.00</td><td>81.18</td><td>98.80</td><td>52.50</td><td>97.89</td><td></td><td>93.0610.00 17.50 50.00 100.0</td><td></td><td></td><td></td></tr><tr><td>MLP</td><td>84.40</td><td>56.47</td><td>82.58</td><td>87.48</td><td>90.31</td><td>86.35</td><td>53.71</td><td>97.50</td><td>92.10</td><td>60.00</td></tr><tr><td>GraphSAGE1</td><td>60.00</td><td>21.57</td><td>97.99</td><td>62.26</td><td>98.57</td><td>93.55</td><td>93.33</td><td>16.67</td><td></td><td>100.0 26.09</td></tr><tr><td>GraphSAGE2</td><td>100.0</td><td>9.80</td><td>97.49</td><td></td><td>46.0298.62</td><td></td><td>94.86 96.97 33.33</td><td></td><td></td><td>85.00 26.09</td></tr></table></body></html>
+
+表9\~11是在不含节点特征的8个数据集上的AUC、F1-score、precision 和recall 的实验结果(precision 和 recall的结果为10次独立实验的均值)。对于不含节点特征的数据集，Node2vec可以比较好的学到数据中的结构信息，与GraphSAGE的表现不相上下，但与表现最佳的模型仍有一定的显著差距。这说明在不存在节点特征的情况下，这两种模型在不同背景不同特质的图数据中不能稳定预测链接是否存在。SEAL明显的表现由于另外两个模型，同时PNSEL也相比SEAL有显著的性能提升，说明所提模型不仅在对节点特征利用上有更好的性能，而且在不存在节点特征的情况下，PNSEL也能更有效地利用子图信息作出预测。
+
+表9与基线模型在无特征数据集上的比较(AUC)
+
+Tab.9Compare with baselines on datasets without node feature(AUC)   
+
+<html><body><table><tr><td>Dataset</td><td>PNSEL</td><td>SEAL</td><td>Node2vec</td><td>GraphSAGE</td></tr><tr><td>C.ele</td><td>90.33 ± 0.21</td><td>82.44 ± 0.82</td><td>74.12 ± 0.37</td><td>86.75 ± 0.72</td></tr><tr><td>E.coli</td><td>97.74 ± 0.03</td><td>95.33 ± 0.12</td><td>94.50 ± 0.06</td><td>94.40 ± 0.07</td></tr><tr><td>NS</td><td>98.17 ± 0.04</td><td>91.18 ± 1.37</td><td>94.04 ± 0.08</td><td>81.11 ± 2.07</td></tr><tr><td>PB</td><td>94.94 ± 0.02</td><td>92.71 ± 0.05</td><td>89.53 ± 0.32</td><td>94.37 ± 0.04</td></tr><tr><td>Power</td><td>92.28 ± 0.10</td><td>72.21 ± 1.38</td><td>80.16 ± 0.52</td><td>64.97 ± 3.24</td></tr><tr><td>Router</td><td>94.64 ± 0.34</td><td>81.86 ±0.60</td><td>76.08 ± 2.35</td><td>77.68 ± 2.33</td></tr><tr><td>USAir</td><td>96.55 ± 0.11</td><td>94.05 ± 0.65</td><td>84.57 ± 0.64</td><td>94.62 ± 0.73</td></tr><tr><td>Yeast</td><td>97.87 ± 0.05</td><td>91.71 ± 0.13</td><td>94.07 ± 0.24</td><td>93.85 ±0.38</td></tr></table></body></html>
+
+本节通过控制改变单一维度的参数进行实验来说明本文
+
+# 3.7 模型分析和讨论
+
+提出的算法中的关键部分对模型的效果及作用。
+
+Tab.10Comparasion with baselines on datasets without node feature(Fl-score)   
+
+<html><body><table><tr><td>Dataset</td><td>PNSEL</td><td>SEAL</td><td>Node2vec</td><td>GraphSAGE</td></tr><tr><td>C.ele</td><td>82.95 ± 0.91</td><td>73.96 ± 1.16</td><td>61.56 ± 2.45</td><td>71.32 ± 5.34</td></tr><tr><td>E.coli</td><td>92.95 ± 0.23</td><td>89.37 ± 0.15</td><td>87.49 ± 1.23</td><td>88.22 ± 0.14</td></tr><tr><td>NS</td><td>94.03 ± 0.12</td><td>83.21 ± 2.05</td><td>91.06 ± 0.81</td><td>70.98 ± 0.30</td></tr><tr><td>PB</td><td>88.65 ± 0.30</td><td>84.85 ± 0.54</td><td>75.22 ± 7.90</td><td>87.78 ± 0.41</td></tr><tr><td>Power</td><td>84.14 ± 0.48</td><td>54.59 ± 0.70</td><td>69.00 ± 2.44</td><td>15.27 ± 2.24</td></tr><tr><td>Router</td><td>86.04 ± 0.49</td><td>73.80 ± 1.18</td><td>66.34± 0.33</td><td>37.17 ± 0.76</td></tr><tr><td>USAir</td><td>90.18 ± 0.66</td><td>88.24 ± 0.76</td><td>68.93 ± 3.30</td><td>84.38 ± 1.76</td></tr><tr><td>Yeast</td><td>93.48 ± 0.26</td><td>86.19 ± 0.28</td><td>82.00 ± 9.37</td><td>85.44 ± 0.07</td></tr></table></body></html>
+
+表11与基线模型在无特征数据集上的比较(Precision,Recall)
+
+表10与基线模型在无特征数据集上的比较(F1-score)  
+Tab.11 Comparasion with baselines on datasets without node feature   
+
+<html><body><table><tr><td colspan="2">Dataset</td><td>PNSEL</td><td>SEAL</td><td>Node2vec</td><td>GraphSAGE</td></tr><tr><td rowspan="2">C.ele</td><td>Pre</td><td>79.47</td><td>78.50</td><td>76.46</td><td>86.06</td></tr><tr><td>Rec</td><td>86.76</td><td>69.94</td><td>51.59</td><td>61.21</td></tr><tr><td rowspan="2">E.coli</td><td>Pre</td><td>95.80</td><td>92.58</td><td>95.86</td><td>96.66</td></tr><tr><td>Rec</td><td>90.27</td><td>86.43</td><td>80.52</td><td>81.15</td></tr><tr><td rowspan="2">NS</td><td>Pre</td><td>97.27</td><td>88.31</td><td>95.34</td><td>94.93</td></tr><tr><td>Rec</td><td>91.00</td><td>78.95</td><td>87.23</td><td>56.69</td></tr><tr><td rowspan="2">PB</td><td>Pre</td><td>87.67</td><td>89.51</td><td>67.04</td><td>87.27</td></tr><tr><td>Rec</td><td>89.67</td><td>80.65</td><td>91.38</td><td>88.31</td></tr><tr><td rowspan="2">Power</td><td>Pre</td><td>80.82</td><td>81.68</td><td>91.51</td><td>86.41</td></tr><tr><td>Rec</td><td>87.76</td><td>41.02</td><td>55.99</td><td>8.40</td></tr><tr><td rowspan="2">Router</td><td>Pre</td><td>86.02</td><td>84.06</td><td>50.13</td><td>97.07</td></tr><tr><td>Rec</td><td>86.13</td><td>65.81</td><td>98.05</td><td>22.99</td></tr><tr><td rowspan="2">USAir</td><td>Pre</td><td>90.12</td><td>89.78</td><td>53.49</td><td>96.02</td></tr><tr><td>Rec</td><td>90.25</td><td>86.79</td><td>97.74</td><td>75.31</td></tr><tr><td rowspan="2">Yeast</td><td>Pre</td><td>95.00</td><td>92.97</td><td>75.15</td><td>97.76</td></tr><tr><td>Rec</td><td>92.02</td><td>80.33</td><td>93.17</td><td>75.88</td></tr></table></body></html>
+
+3.7.1收敛性分析
+
+AUC是模型训练时的主要指示性指标，本文通过绘制训练次数与正确率(AUC)变化曲线来观察模型的收敛情况，如图4所示。
+
+![](images/d17f4ffbd9670208ae2d6f1cb73eee1fb7267361c517be7ffe55199970a34a2b.jpg)  
+图4正确率收敛曲线  
+Fig.4Convergence ofAUC
+
+本文选择了5个有特征数据集和6个无特征数据集的训练情况进行绘图，分别用虚线和实线表示。由于正确率的量级不同，本文将曲线分开绘制在两张图上。从图上可以看出，在所有的数据集上，虽然正确率的收敛速度和曲线形状有所不同，但是最终正确率都收敛到了某一特定值，说明PNSEL具有良好的收敛性。
+
+# 3.7.2核心节点占比参数影响
+
+核心节点比重参数 $\alpha$ 表示的是在封闭子图提取时，按节点优先值提取的节点数量占节点总数的比例。本文选取了三个含节点特征数据集和两个不含节点特征的数据集进行实验，在各自最佳参数的其他参数保持不变的情况下，改变 $\alpha$ 进行实验，独立进行3次实验取平均结果，如图5所示。
+
+![](images/215f65fedfd3178ab0a35ecd707b2df6fe259c0128408f04b13ef8ef1be1ac03.jpg)  
+图5不同的核心节点占比参数的影响
+
+可以看出，核心节点比重参数对链接预测任务的准确性在不同的数据集上均具有明显的影响。其中，在含节点特征的数据集上，不同的数据往往有着不同的最佳 $\alpha$ 选择，过大或者过小均不能达到最佳的预测准确性。这说明这些图结构更适合核心节点抽取与随机节点抽取结合的方式。
+
+而在不含节点特征的数据集上，本文注意到他们的最佳水平往往出现在 $\alpha$ 为1时，且随着 $\alpha$ 变大预测准确性大致呈上升趋势，说明在这类不含节点特征的数据集上，完全使用核心节点抽取是最佳的提取封闭子图的方法。
+
+# 3.7.3局部影响力占比参数影响
+
+局部影响力占比参数 $\beta$ 表示的是本文在计算周围节点优先值时，局部影响力特征所占的比重。 $\beta$ 越大，节点的局部影响力在优先值里的比重就越大，节点的全图影响力在优先值里的比重就越小。本文选取了同样三个含节点特征数据集和两个不含节点特征的数据集进行实验，在各自最佳参数的其他参数保持不变的情况下，改变 $\beta$ 进行实验，独立进行3次实验取平均结果，结果如图6所示。
+
+![](images/b464ede6aac4521f28b565fb95c3adc5e79f9023d7bbcdd714bc475d1b3211a4.jpg)  
+Fig.5Influence of alpha   
+图6不同的局部影响力占比参数的影响  
+Fig.6Influence of beta
+
+本文可以看到，除了actor 数据对于 $\beta$ 不敏感之外，其他数据集的准确性均受 $\beta$ 的取值影响比较明显。其中，在Wisconsin、Texas 和Celegans上，模型的正确率均随着 $\beta$ 的增加而增加。这说明对于这些数据而言，考虑节点优先值时仅考虑局部影响力是最佳选择，全局影响力对于局部的节点预测准确性意义不大。而在Power数据集上，本文观测到，当 $\beta$ 取0或者1时，模型具有最佳表现，说明仅选取全图最重要的节点或者仅选取局部重要的节点都能为链接预测提供足够的有效信息，而两者结合反而会使得筛选变得低效。
+
+# 4 结束语
+
+本文对链接预测领域目前表现最佳的模型提出了一种改进的方案，基于“子图提取 $^ +$ 图分类"的链接预测结构，提出了一种基于优先值的邻居子图提取连接预测算法(PNSEL)。所提算法可以在固定小图规模的情况下，结合局部图结构和全图结构信息，选出对于目标节点对最为重要的周围节点，并保留了一定的随机性以应对差异化的图结构。通过大量在不同背景的真实数据集上的实验，本文将PNSEL与具有代表性的几个基线模型进行对比，证明了PNSEL相比改进前能显著带来正确率的提高，同时也通过拆解实验证明了主要参数的影响性。
+
+# 参考文献：
+
+[1]Qi Yanjun,Bar- Joseph Z,Klein - Seetharaman J.Evaluation of different biological data and computational classification methods for use in protein interaction prediction [J]. Proteins: Structure,Function, and Bioinformatics,2006,63 (3): 490-500.   
+[2]Stanfield Z, Coskun M, Koyutuirk M.Drug response prediction as a link prediction problem[J]. Scientific reports,2017,7(1): 1-13.   
+[3]Adamic L A,Adar E.Friends and neighbors on the web [J].Social networks,2003,25 (3): 211-230.   
+[4]王星，王硕，陈吉，侯磊.联合图注意力和卷积神经网络的链接预测 方法[J].山西大学学报（自然科学版),2021,44(03):462-470.DOI: 10.13451/j.sxu. ns. 2020153.   
+[5]张玲玲，陈卫静.合作网络中关键研发者潜在重要合作者链接预测 [J]．情报探索,2022(03):19-25.   
+[6]Grover A,Leskovec J. node2vec: Scalable feature learning for networks [C]// Proc of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining. 2016: 855-864.   
+[7]Kipf TN,Weling M. Variational graph auto-encoders [EB/OL]. (2016- 11-21) .https://arxiv. org/abs/1611.07308.   
+[8]郝宵荣，王莉，廉涛．基于节点表示和子图结构的动态网络链接预 测[J]．模式识别与人工智能，2021,34(02):117-126.DOI:10. 16451/j.cnki. issn1003-6059.202102003.   
+[9]Hamilton W, Ying Zhitao,Leskovec J. Inductive representation learning on large graphs [C]//Advances in neural information processing systems. 2017: 1025-1035.   
+[10] Velickovic P,Cucurull G,Casanova A,et al.Graph attention networks [EB/OL].(2017-10-30).https://arxiv.org/abs/1710.10903.   
+[11] Kipf T N,Welling M.Semi-supervised classification with graph convolutionalnetworks[EB/OL].(2016-09-09）．https://arxiv. org/abs/1609.02907.   
+[12] Singh A,Huang Qian,Huang S L,et al. Edge proposal sets for link prediction [EB/OL].(2021-06-30).https://rxiv.org/abs/2106.15810.   
+[13] Li Boning,Xia Yingce,Xie Shufang,et al. Distance-Enhanced Graph Neural Network for Link Prediction [EB/OL]. (2021）.https://icmlcompbio.github.io/2021/papers/WCBICML2021_paper_52.pdf   
+[14] Zhang Muhan,Chen Yixin.Link prediction based on graph neural networks [Cl//Advances in neural information processing systems.2018: 5165-5175.   
+[15] Barabasi A L,Albert R.Emergence of scaling in random networks [J]. science,1999,286 (5439): 509-512.   
+[16] Zhou Tao,Lyu Linyuan, Zhang Y C.Predicting missing links via local information [J]. The European Physical Journal B,2009,71(4): 623-630.   
+[17] Page L,Brin S,Motwani R,et al.The PageRank citation ranking: Bringing order tothe web,1999-66 [R].[S.1.]: Stanford InfoLab,1999.   
+[18] Kovacs IA,Luck K,Spirohn K,et al. Network-based prediction of protein interactions [J]. Nature communications,2019,10 (1):1-8.   
+[19l Katz I.A new status index derived from sociometric analvsis [I] Psychometrika,1953,18(1): 39-43.   
+[20] Perozzi B,Al-Rfou R, Skiena S.Deepwalk: Online learning of social representations [C]// Proc of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.2014:701-710.   
+[21] Tang Jian,Qu Meng, Wang Mingzhe,etal.Line: Large-scale information network embedding [C]// Proc of the 24th International Conference onWorld Wide Web.2015:1067-1077.   
+[22] Xu Keyulu, Hu Weihua,Leskovec J,et al. How powerful are graph neural networks?[EB/OL].(2018-10-01).https://arxiv.org/abs/1810.00826.   
+[23] Leman AA, Weisfeiler B.Areduction of a graph to a canonical form and an algebra arising during this reduction [J].Nauchno-Technicheskaya Informatsiya,1968,2(9):12-16.   
+[24] Broder A Z.On the resemblance and containment of documents [C]// Proc of Compression and Complexity of Sequences 1997.IEEE,1997: 21-29.   
+[25] Zhang Muhan,Li Pan, Xia Yinglong,et al. Labeling Trick: A Theory of Using Graph Neural Networks for Multi-Node Representation Learning [C]//Advances in Neural Information Processing Systems,2021.   
+[26] Rozemberczki B,Allen C,Sarkar R.Multi-scale attributed node embedding [J]. Journal of Complex Networks,2021,9 (2): cnab014.   
+[27] Pei Hongbin,Wei Bingzhe,Chang K C C,et al. Geom-gcn: Geometric graph convolutional networks [EB/OL]. (2020-02-13）.htps://arxiv. org/abs/2002.05287.   
+[28] Sen P,Namata G,Bilgic M,et al. Collective classification in network data [J].AI magazine,2008,29 (3): 93-93.   
+[29] Yang Zhilin,Cohen W, Salakhudinov R.Revisiting semi-supervised learning with graph embeddings [C]// International conference on machine learning. PMLR,2016: 40-48.   
+[30] Newman MEJ.Finding community structure in networks using the eigenvectors of matrices [J].Physical review E,2006,74 (3): 036104.   
+[31] Ackland R. Mapping the US political blogosphere: Are conservative bloggers more prominent? [C]// BlogTalk Downunder 2005 Conference, Sydney, 2005.   
+[32] Von Mering C, Krause R,Snel B,et al.Comparative assessment of largescale data sets of protein-protein interactions [J]. Nature,2002,417 (6887): 399-403.   
+[33] Watts D J, Strogatz S H. Collective dynamics of small-world'networks [J]. nature,1998,393 (6684): 440-442.   
+[34] Spring N,Mahajan R,Wetherall D.Measuring ISP topologies with Rocketfuel [J]. ACM SIGCOMM Computer Communication Review, 2002,32 (4): 133-145.   
+[35] Zhang Muhan, Cui Zhicheng, Oyetunde T, et al. Recovering metabolic networks using a novel hyperlink prediction method [J].[EB/OL].(2016- 10-21). ttps://arxiv.org/abs/1610.06941.   
+[36] Zhang Muhan,Cui Zhicheng,Neumann M,et al.An end-to-end deep learning architecture for graph classification [C]/ Proc of the 32nd AAAI conference on artificial intelligence.2018: 4438-4445.

@@ -1,0 +1,811 @@
+[
+    {
+        "type": "text",
+        "text": "损失规避“不对称程数”解释机制的再检验 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "隋晓阳1,2黄元娜1,2 许明星1.3匡仪1,2 沈丝楚 $^ { 4 , 1 ^ { * } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院心理研究所行为科学重点实验室，北京100101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2中国科学院大学心理学系，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3福建工程学院交通运输学院，福州350118",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4福建师范大学心理学系，福州 350108",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "shensc@fjnu.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要“不对称程数”（uneven routel）解释机制是刘欢等人于2019 年首次提出的用以解释和预测如何和为什么会发生损失规避（loss aversion）。这种解释机制认为当损失的程数（同一拥有权的转换次数）大于获得的程数时，损失规避就会发生。本文操纵了刘欢等(2019)提出的不对称程数，并在不同的实验条件下对不对称程数解释机制进行检验。本研究的4个实验结果，以及对4个实验进行小元分析的结果支持不对称程数的解释机制。该结果在被试间实验设计和被试内实验设计，在不同金额，不同测量指标中均得到了验证，表明该结果是稳定的。在本文中，与赢钱输钱情境相比，损失规避在交税退税情境下消失。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 损失规避；不对称程数；再检验 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1损失规避 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "想象你有机会玩一个等可能获得或损失同样金额的游戏，如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现在有一个抛掷硬币的游戏：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果出现正面的话，你赢得50元；  \n如果出现反面的话，你输掉50元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人们通常会拒绝这个游戏(Gal,2006)，这表明人们认为同等金额的损失带来的效用大于同等金额的获得带来的效用(Ariely,Huber,&Wertenbroch,2005;Camerer, 2005; Fox & Poldrack, 2014; Harinck, Van Dijk, Van Beest,& Mersmann,2007)。损失规避是预期理论（prospect theory,PT）价值函数 $\\nu$ 中的一部分(Kahneman&Tversky,1979)，在价值函数中，损失部分的斜率大于获得部分的斜率。以往研究表明同等金额的损失带来的心理效用是同等金额的获得带来的效用的 1.5-2.5 倍(Glockner & Pachur,2012; Rick,2010; Sokol-Hessner, Hsu,Curley, Delgado, Camerer, & Phelps,20o9; Tversky & Kahneman, 1992)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在经济学和金融学的文献中，损失规避被视为一种普遍的行为偏见(Boyce,Wood,& Ferguson,2016;Gaechter,Johnson,&Herrmann,2007)，并且在经济分析中获得了广泛的关注(Schmidt& Zank,2005)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "把损失规避应用到现实生活中已经取得了显著的成效。例如，Thaler提出的“明日多储蓄”（SaveMore Tomorrow，SMarT）应用损失规避，有效地提高了人们的养老储蓄率(Liu etal.,2019; Thaler&Benartzi,2004)。鉴于损失规避对社会科学各个领域的巨大影响，许多研究试图探索损失规避的潜在机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2损失规避的可能解释机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "先前的研究提出了不同的解释机制来解释损失规避。这些解释机制可以分为两种类型：（1）引起损失规避的直接因素；（2）引起损失规避的间接因素²。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1引起损失规避的直接因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引起损失规避的直接因素是损失触发的过程或情绪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在数学期望模型 $( \\sum w ( p ) \\nu ( x )$ ）的基础上，获得和损失的效用由结果的主观价值和主观概率组成；因此基于主观价值的不对称(Kahneman&Tversky,1979)或基于主观概率的不对称(Bilgin,2012)都可能导致损失规避。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从基于主观价值不对称的角度来看，损失的价值函数比获得的价值函数更陡峭(Liberman,Idson,&Higgins,2005)。因此，获得和损失的主观价值是不相等的。也就是说，同等金额的损失带来的心理感受大于同等获得带来的心理感受(Kahneman& Tversky,1979;Tversky&Kahneman,1992)，导致上述游戏的预期价值（EV） $( + x , 5 0 \\%$ $- x ,$ $50 \\%$ ）小于0。这种情境恰恰是损失规避的经典解释(Kahneman & Tversky, 1979)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从基于主观概率不对称的角度来看，选项的期望价值取决于获得和损失的主观概率。Bilgin(2012)提出损失规避不是基于获得和损失的价值不对称，而是基于获得概率和损失概率的不对称。以上述游戏为例，损失的主观概率大于获得的主观概率，因此导致玩上述游戏获益的期望值小于0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "损失规避是预期理论（Prospect Theory）的基本要素之一，表示同等的损失带来的负效用大雨同等的获得带来的正效用。正如预期理论所假设的那样，更大的绝对的主观结果，更高的主观概率，或是决策过程中对消极结果更多的关注，都会导致损失规避。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2引起损失规避的间接因素：一种新的不对称程数解释机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引起损失规避的间接因素是由与损失相关的过程或情绪所引起的。过度概括（overgeneralization）是引起损失规避的间接因素，这反映了过去的相关经验可以触发损失规避(Skinner,1985;Ert&Erev,2013)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "刘欢等(2009)提出了损失规避的一种新的解释机制：不对称程数(unevenroute)。“程数”指的是同一拥有权的转换次数。不对称程数解释机制假定，当损失的程数大于获得的程数时，损失规避就会发生，并且更多的程数带来的心理感受也更强。不对称程数解释机制为我们理解和解释损失规避提供了一种新的视角。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "重新审视上述提到的游戏，我们发现这是一个公平的游戏 $( + \\yen 50,50 \\%$ $\\# 5 0 , 5 0 \\%$ )，它包含了两种不确定的状态：获得50元和损失50元。然而这两种状态在程数过程上是不对称的。在获得50元的状态中，完成此事件是“单程”的过程（图1左)，即，50元从别人的口袋（账户）到游戏者的口袋（账户)，并且游戏者不需要付出时间、精力和努力来完成这个过程。然而，在损失50 元的状态中，完成此事件是“双程”的过程（图1右)，即，首先游戏者需要花费时间、精力和努力来获得50元（第一程：0元从别人的口袋（账户）到游戏者的口袋（账户）)，然后游戏者才能输掉这50元（第二程：50元从游戏者的口袋（账户）到别人的口袋（账户))。为了完成这个过程，游戏者需要谨慎考虑自己是否有能力并且愿意履行承诺。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1180661f0cc695e8c3d1949041349cbe507992d6d95bbaebd0dcfa2fc1b8899e.jpg",
+        "img_caption": [
+            "图1赢钱输钱情境（单程获得与双程损失）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "刘欢等(2009)推测，获得和损失过程的不对称是造成损失规避的原因。如果获得和损失过程的典型非对称性（即“单程获得”与“双程损失”）发生变化，那么所谓的损失规避就会消失。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我们通过一个例子来帮助读者更好地理解不对称程数的基本假设（图2)。Thaler 和Benartzi(2004)成功地在“明日多储蓄”（SMarT）项目中使损失规避消失（即，以将来增加的薪水而不是工资来积累退休储蓄）的没有表达出来的原因，是他们将“双程损失”操纵改变为“单程损失”（刘欢，梁竹苑，李纾,2009；图2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/900e0b0cf746b1f81a42e1e191f0db3da722e3a2e55d7867348bd3a670059aa4.jpg",
+        "img_caption": [
+            "图2左：经典/标准的养老储蓄方法（双程损失：先赚工资然后交养老金)；右：SMarT的养老储蓄方法（单程损失：未来涨薪的部分直接进入养老储蓄账户）（对刘欢等(2019)图 2的再绘制)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了检验这个猜想，刘欢等(2009)设计了几种不同的操纵类别，例如，“单程获得与单程损失”，“双程获得与单程损失”，以及“单程获得与双程损失”/\"三程获得与双程损失”。特别的是，在他们的实验3中，经典的用来检验损失规避的赢钱输钱情境（单程获得与双程损失)，被修改为交税退税情境（三程获得与双程损失)。两种情境如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "赢钱输钱（单程获得与双程损失）情境：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现在有一个抛掷硬币的游戏：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如果出现正面的话，你赢得×元；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果出现反面的话，你输掉50元。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "请问当×大于（ ）时，你才愿意参加这个游戏。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "交税退税（三程获得与双程损失）情境：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现在有一个抛掷硬币的游戏：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如果出现正面的话，国家向你退税×元；  \n如果出现反面的话，你向国家交税50元。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "请问当×大于（ ）时，你才愿意参加这个游戏。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在交税退税情境中，“国家向你退税x元”替换了“你赢得x元”，“你向国家交税50元”替换了“你输掉50元”。这两个情境本质上是相同的，两者都涉及在赌博中有相等的机会赢取x元或输掉50元。然而两种情境下获益和损失的过程是不一样的。在两种情境损失50元过程中，完成此事件都是“双程”的过程（图3)。然而，在获得50元的过程中，在赢钱输钱情境中，完成此事件是“单程”的过程，但是在交税退税情境中，完成此事件是“三程”的过程（图3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff4dc358beeda310dc79c2df10c6b36c7943870045d7f6d1bac7279bdf48912c.jpg",
+        "img_caption": [
+            "图3交税退税情境（三程获得与双程损失）"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有趣的是，在赢钱输钱情境中，被试填答的愿意支付的 $x$ 的最小值约为100元，而在交税退税情境中，被试填答的愿意支付的 $x$ 的最小值约为50元(刘欢，梁竹苑，李纾,2009)。该结果表明损失规避在赢钱输钱情境中存在，但是在交税退税情境中消失。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.3不对称程数解释机制的再检验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "刘欢等(2009)假设损失规避是由于损失的程数大于获得的程数。他们构建了寿命、自由、以及赢钱输钱/交税退税的情境来操纵“单程获得与单程损失”、“双程获得与单程损失”、以及“单程获得与双程损失”/“三程获得与双程损失”。结果表明当不对称的“单程获得与双程损失”被改变时，损失规避消失了。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "尽管不对称程数解释机制有别于已存在的引起损失规避的直接或间接的原因，但是这种解释机制还没有引起足够的关注，尽管有些研究者对该机制进行了引用(例如,Wang,Ong,& Tan (2015))。可能是由于以下原因：（1）原始文献是在中文期刊上发表的，所以仅限于中文使用者可读；（2）单个研究中过多的操纵类别（例如，寿命情境：“单程获得与单程损失\"；自由情境：“双程获得与单程损失\"；以及赢钱输钱/交税退税情境：“单程获得与双程损失”/\"三程获得与双程损失“)；（3）寿命和自由情境的描述不自然，不同被试的理解可能存在争议(李小平,2015)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，仍需关注的是，不对称程数解释机制解释损失规避是否稳健。为了解决这个问题，本研究重新审查了刘欢等(2009)的主要发现，着眼于一种操纵类别，即三程获得与双程损失，它使用“通用货币”（即金钱价值）作为各种可能结果的代表。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.4本研究概述",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文选择了刘欢等(2009)的实验3作为本文的实验材料，包括赢钱输钱（单程获得与双程损失）和交税退税（三程获得与双程损失）情境。原因主要是因为在两种情况下要操纵的“收益”和“损失”结果都是金钱的（与寿命，自由或健康等其他结果无关)。我们认为，如果金钱结果被一致地用作通用货币或代理来代表预期理论的价值函数 $\\nu ( x _ { i } )$ 中的各种可能的结果 $x _ { i }$ ，那么该结果就可以被广泛的应用(Kahneman & Tversky,1979; Tversky & Kahneman,1992)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究使用赢钱输钱（单程获得与双程损失）和交税退税（三程获得与双程损失）情境，设计并进行了4个相关实验。四个实验的实验条件从宽松都严格，依次递增。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验1使用被试间实验设计，是对原始实验的完全重复，包括相同的被试招募文本，知情同意书，实验介绍和选择题目。如果使用被试内实验设计，被试更容易看出两种情境是一样的，因此实验2我们采用了被试内实验设计，被试在两种情境下均需要进行选择。鉴于损失规避的程度会随着金额的大小增加（即损失规避的大小效应)，因此我们把实验1和实验2的金额50元在实验3中增加到了500元。为了用更多样化的指标来测量损失规避，实验4使用量表评价的方法而不是实验1-3填空的方法，被试需要填写自己对该游戏的参与意愿（willingness to participate,WTP）。最后，我们汇总4个实验的结果进行了元分析，以总结不对称程数解释损失规避的证据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2实验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1实验1：对刘欢等(2009)实验3的精确重复 (被试间实验设计）",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验1是对刘欢等(2009)实验3的直接重复，采用被试间实验设计，在两个情境中，和获得 $x$ 元匹配的金额是损失50元。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "自变量是不同的实验条件，因变量是损失规避系数（λ；损失与获益敏感性的比值)。刘欢等(2019)将损失规避系数定义为 $x$ 与50的比值，本文沿用了原作者这样的算法。本文假设损失规避系数在赢钱输钱（单程获得与双程损失）和交税退税（三程获得与双程损失）两种情境中是不同的。本文使用Mann-WhitneyU检验的方法来检验两种情境下损失规避系数是否存在差异。我们假设如果赢钱输钱（单程获得与双程损失）情境中的损失规避系数显著大于交税退税（三程获得与双程损失）情境，那么本实验就可以确认刘欢等(2009)报告的结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，由于损失规避系数非正态分布，我们使用了R语言中的lme4 和lmerTest 包进行了混合模型逻辑回归分析(Bates,Mächler,Bolker,&Walker,2015;Kuznetsova,Brockhoff,&Christensen,2017)。把被试作为随机效应，可以把我们的实验结果进行推广(Baayen,Davidson,& Bates,2008; Judd,Westfall,& Kenny,2012)。被试填答的用于匹配损失50元的获得金额 $x$ 被编码为二分变量， $x$ 小于等于50表示没有损失规避， $x$ 大于50表示存在损失规避。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1.1被试 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们计划招募 300 名被试—一约为原实验样本量的2.5倍(Simonsohn,2015)。我们实际招募了来自南昌大学的334名被试，其中8名被试因为没有回答数字被剔除，14名被试由于λ大于100 被剔除（与刘欢等(2009)一致)。因此，实验1的有效样本量为312（ $N _ { \\mathrm { m a l e } } = 1 9 7$ ， $M _ { \\mathrm { { a g e } } } = 1 8 . 5 7 \\pm 1 . 4 2$ years）。其中，160名被试被随机分配到赢钱输钱情境，152名被试被随机分配到交税退税情境。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.1.2实验程序",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所有被试在实验开始前签署知情同意书。被试被随机分配到两种条件中：赢钱输钱或交税退税。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.1.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对因变量进行Kolmogorov-Smirnov Z(K-S)正态性检验，结果表明两种情境下损失规避系数均是非正态的（赢钱输钱, $Z = 0 . 3 5 2 , p < 0 . 0 0 1$ ；交税退税, $Z =$ $0 . 3 7 0 , p < 0 . 0 0 1 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "独立样本Mann-WhitneyU检验的结果表明两种条件下损失规避系数存在显著差异 $( U = 1 0 , 0 9 9 . 5 0 , Z = 2 . 6 8 7 , p = 0 . 0 0 7 )$ 。具体来说，输钱赢钱情境下损失规避系数的中数是2.00，表明存在损失规避；而交税退税情境下损失规避系数的中数是1.00，表明没有损失规避（表1）。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/015891af2b3289c8dae45bf24fd35e414897534f894b5e74bc11c6eaa32d6394.jpg",
+        "table_caption": [
+            "表1实验1中赢钱输钱情境和交税退税情境下损失规避系数的 Mann-WhitneyU检验"
+        ],
+        "table_footnote": [
+            "注： $^ { * * } p < 0 . 0 1$ ，双侧检验。 $M =$ 均值， $S D =$ 标准差， $M d n =$ 中数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Scenario</td><td colspan=\"2\">Routes</td><td colspan=\"3\">Coefficient of loss aversion ()</td><td rowspan=\"2\">Mann- Whitney U</td><td rowspan=\"2\">Z</td></tr><tr><td>Gain</td><td>Loss</td><td>M(SD)</td><td>Mdn</td><td>Mean rank</td></tr><tr><td>Money</td><td>One</td><td>Two</td><td>3.52 (6.28)</td><td>2.00</td><td>169.38</td><td>10,099.50</td><td>2.687**</td></tr><tr><td>Tax</td><td>Three</td><td>Two</td><td>2.38 (3.18)</td><td>1.00</td><td>142.94</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "因为损失规避系数的非正态分布，使用混合模型逻辑回归对因变量是否发生损失规避进行检验，固定效应为情境（ $1 =$ 赢钱输钱情境； $0 =$ 交税退税情境)，随机效应为被试。因变量为是否发生损失规避，在R语言中，发生损失规避被编码为1，不发生损失规避被编码为0。结果发现模型收敛失败。因此，我们进行了逻辑回归，预测变量为情境。结果揭示了情境的效应显著（ $b = 0 . 6 4 ,$ $S E = 0 . 2 3 , z = 2 . 7 9 , p = . 0 0 5 , \\mathrm { O R } = 1 . 9 0 )$ ，这表明在赢钱输钱情境中发生损失规避的可能性是交税退税情境的1.90 倍。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "与刘欢等(2009)的实验结果一致，实验1的结果表明在赢钱输钱情境中发现了损失规避，而在交税退税情境中没有发现损失规避。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2实验2：被试内实验设计对不对称程数解释机制再检验",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "实验2与实验1类似，除了实验2使用的是被试内实验设计而非被试间实验设计。因为在被试内实验设计中，被试可以更容易辨别出两个情境（赢钱输钱和交税退税情境）的获得和损失在本质上是一样的。即，“你赢得 $x$ 元”在金钱上和“国家向你退税 $x$ 元”是一样的；“你输掉50元”在金钱上和“你向国家交税50元”是一样的。此外，被试内实验设计保持恒定的个体特异性因素，可以比被试间实验设计更好地剥离出实验的效应。因此，一些研究使用被试内实验设计而不是被试间实验设计来检验著名的框架效应的稳定性(Frisch,1993;Levin, Johnson, & Davis,1987; Stanovich & West, 1998)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "我们推测两个情境中的损失规避系数在被试内实验设计中可能更接近。因此实验2采用被试内实验设计这个更严格的实验条件来检验不对称程数解释机制。如果可以在本实验中重复出实验1中观察到的损失规避系数的差异，则本实验结果可以强烈支持不对称程数解释机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2.1被试 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过G\\*Power 软件(Fauletal.,2007)计算样本量，统计效力设为 $80 \\%$ ，效应量设为心理学常用的0.36，统计方法设为Wilcoxon符号秩检验，最后计算所需样本量为66。我们招募了来自南开大学的117名被试参与了实验。其中，35 名被试因为不完整的回答被剔除。最后的有效样本量为 $8 2 ( N _ { \\mathrm { m a l e } } = 3 4 , M _ { \\mathrm { a g e } } =$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "21.09 ± 2.34 years)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.2.2实验程序",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "每个被试来实验室两次，时间间隔超过1天。被试随机顺序完成赢钱输钱和交税退税情境下的题目。所有被试签署知情同意书。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.2.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "因为损失规避系数的非正态分布（ $\\mathrm { K - } \\mathsf { S }$ test, $Z = 0 . 3 4 1$ ， $p < . 0 0 0 1 )$ ，我们使用了Wilcoxon符号秩检验。Wilcoxon符号秩检验结果表明，输钱赢钱情境下损失规避系数显著大于交税退税情境下损失规避系数！ $\\zeta = 4 . 4 7 0 , p < 0 . 0 0 1 )$ 。具体来说，输钱赢钱情境下损失规避系数的中数是1.55，表明存在损失规避；而交税退税情境下损失规避系数的中数是1.00，表明没有损失规避（表2)。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/55dcf6f2af56d364842196dae6746e8a8b98106e60b4cffe7e3e31e5144d1005.jpg",
+        "table_caption": [
+            "表2实验2中赢钱输钱情境和交税退税情境下损失规避系数的Wilcoxon符号秩检验 "
+        ],
+        "table_footnote": [
+            "注： $^ { * * * } p < 0 . 0 0 1$ ，双侧检验。 $M =$ 均值， $\\boldsymbol { S } \\boldsymbol { D } =$ 标准差， $M d n =$ 中数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Scenario</td><td colspan=\"2\">Routes</td><td colspan=\"4\">Coefficient of loss aversion (λ)</td><td rowspan=\"2\">Z</td></tr><tr><td>Gain</td><td>Loss</td><td>M (SD)</td><td>Mdn</td><td>Positive ranks</td><td>Mean rank</td></tr><tr><td>Money</td><td>One</td><td>Two</td><td>2.51 (3.06)</td><td>1.55</td><td>45</td><td>34.78</td><td>4.470***</td></tr><tr><td>Tax</td><td>Three</td><td>Two</td><td>1.24 (0.55)</td><td>1.00</td><td>16</td><td>20.38</td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我们用混合模型逻辑回归对是否发生损失规避（ $1 =$ 损失规避; $0 =$ 无损失规避）进行检验，固定效应为情境（ $1 =$ 赢钱输钱情境； $0 =$ 交税退税情境),随机效应为被试。结果揭示了情境的效应显著（ $\\langle b = 0 . 7 3 , S E = 0 . 3 5 , z = 2 . 0 9 , p =$ 0.037, $\\mathrm { O R } = 2 . 0 7$ )，这表明在赢钱输钱情境中发生损失规避的可能性是交税退税情境的2.07倍。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "与刘欢等(2009)实验结果以及本文的实验1结果一致，实验2的结果表明在赢钱输钱情境中发现了损失规避，损失规避系数的中数为1.55；而在交税退税情境中没有发现损失规避，损失规避系数额的中数为1.00。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3实验3：操纵金额大小对不对称程数解释机制再检验 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在上述实验中，无论是在实验1（被试间实验设计）和实验2（被试内实验设计）中，交税退税情境下的损失规避系数均约为1，表明交税退税情境下未发生损失规避。以往研究发现损失规避的大小效应。如果要求被试说出金额，他们将愿意冒着在假设的游戏中输掉的风险(Harinck etal.,2007)，这表明损失规避的程度将随着金额增大而增大。因此，一个可能的假设可以解释为什么交税退税情境下没有发生损失规避，可能是因为金钱的金额较小。为了排除这个假设，我们在更大的金额条件下进行了实验，实验3中实验金额由实验1和实验2 的 50元变成了500元。此外，为了保证被试能更好地理解交税退税情境，我们招募的是有交税经验的工作人群而不是没有交税经验的本科生。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.1被试 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "目标样本量与实验2相同，为66人。我们招募了有交税经验的被试80人（10名被试因为不完整的回答被剔除)。最后的有效样本量为70人 $( N _ { \\mathrm { m a l e } } = 3 7$ $M _ { \\mathrm { \\ a g e } } = 3 0 . 6 3 \\pm 6 . 0 0 \\mathrm { y e a r s } ) \\mathrm { _ { \\circ } }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.2实验程序",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "被试随机顺序完成赢钱输钱和交税退税情境下的题目，时间间隔为超过1天。所有被试签署知情同意书。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "因为损失规避系数的非正态分布（K-S test, $Z = 0 . 4 1 8 , p < 0 . 0 0 1 )$ ，我们使用了Wilcoxon 符号秩检验。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Wilcoxon符号秩检验结果表明，输钱赢钱情境下损失规避系数显著大于交税退税情境下损失规避系数（ $\\cdot Z = 3 . 1 9 0 , p = 0 . 0 0 1 )$ 。具体来说，输钱赢钱情境下损失规避系数的中数是2.00，表明存在损失规避；而交税退税情境下损失规避系数的中数是1.40，表明损失规避程度显著下降（表3）。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ccde56673d87344d2fa6cb90de2284de8945461251e904e7aa61ea7db4a3014.jpg",
+        "table_caption": [
+            "表3实验3中赢钱输钱情境和交税退税情境下损失规避系数的Wilcoxon符号秩检验 "
+        ],
+        "table_footnote": [
+            "注： $^ { * * } p < 0 . 0 1$ ，双侧检验。 $M =$ 均值， $S D =$ 标准差， $M d n =$ 中数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Scenario</td><td colspan=\"2\">Routes</td><td colspan=\"4\">Coefficient of loss aversion (λ)</td><td rowspan=\"2\">Z</td></tr><tr><td>Gain</td><td>Loss</td><td>M (SD)</td><td>Mdn</td><td>Positive ranks</td><td>Mean rank</td></tr><tr><td>Money</td><td>One</td><td>Two</td><td>6.52 (16.95)</td><td>2.00</td><td>25</td><td>17.38</td><td>3.190**</td></tr><tr><td>Tax</td><td>Three</td><td>Two</td><td>2.64 (3.36)</td><td>1.40</td><td>7</td><td>13.36</td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "与损失500元匹配的获得金额 $x$ 被编码为二分变量， $x$ 小于等于500表示没有损失规避， $\\mathbf { x }$ 大于500表示存在损失规避。我们用混合模型逻辑回归对是否发生损失规避（ $1 =$ 损失规避; $0 =$ 无损失规避）进行检验，固定效应为情境（ $1 =$ 赢钱输钱情境； $0 =$ 交税退税情境)，随机效应为被试。结果揭示了情境的效应显著‘ $\\langle b = 1 . 4 4 , S E = 0 . 6 2 , z = 2 . 3 5 , p = 0 . 0 1 9 , \\mathrm { O R } = 4 . 2 4 )$ ，这表明在赢钱输钱情境中发生损失规避的可能性是交税退税情境的4.24倍。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.4实验4:多样化指标（WTP）对不对称程数解释机制再检 验 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验1到实验3获得损失规避系数是通过让被试填空的方法，实验4采取的是量表的方法，让被试填写参与游戏的意愿（willingness to participate,WTP)。被试的参与意愿越低，表明被试的损失规避程度越高。被试的参与意愿是在一个0-100的量表上进行评价，0表示非常不可能，100表示非常可能。被试的回答被限制在0-100之间，可以避免极端值。此外，为了确保被试可以理解交税退税情境，我们招募的是有交税经验的工作样本而不是没有交税经验的本科生。为了使交税退税的情境更真实和有意义，我们做了一个预调查来调查被试每年交税的金额。基于预调查的结果，我们把两个实验材料的的金额提高到了5000元。与实验2和实验3一致，实验4也是被试内实验设计。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.4.1被试 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "目标样本量与实验2与实验3的样本量相同，我们从问卷星（http://www.wjx.cn）招募了有交税经验的被试77人（ $\\cdot N _ { \\mathrm { \\scriptsize ~ m a l e } } = 3 3$ ， $M _ { \\mathrm { \\mathrm { { a g e } } } } = 2 9 . 7 7$ ± 5.41 years)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.4.2实验材料和实验程序",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "实验4的实验材料从上述实验改编而来，被试被呈现以下两个假设的情境：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "赢钱输钱（单程获得与双程损失）情境：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "现在有一个抛掷硬币的游戏：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "如果出现正面的话，你赢得5000元；  \n如果出现反面的话，你输掉5000元。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "请标出你参与该游戏的意愿：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "非常不愿意(0)",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "非常愿意(100)",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "交税退税（三程获得与双程损失）情境：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "现在有一个抛掷硬币的游戏：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "如果出现正面的话，国家向你退税5000元；  \n如果出现反面的话，你向国家交税5000元。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "请标出你参与该游戏的意愿：",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "非常愿意(100)",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "被试通过问卷星(http://www.wjx.cn)的样本服务进行招募并作答。被试先在赢钱输钱情境下进行作答，然后再在交税退税情境下进行作答。所有被试签署电子版知情同意书。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2.4.3结果与讨论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "K-S 检验结果表明参与意愿在两种情境下的差异不符合正态分布（ $Z =$ 0.137, $p = 0 . 0 0 1 \\mathrm { \\Omega }$ )，因此我们使用了Wilcoxon符号秩检验对两种情境下被试的参与意愿进行检验。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Wilcoxon符号秩检验结果表明，交税退税情境下被试的参与意愿显著高于输钱赢钱情境下被试的参与意愿（ $\\stackrel { \\prime } { Z } = 3 . 3 2 7 , p = 0 . 0 0 1 \\AA )$ 。具体来说，交税退税情境下被试参与意愿的均值约为50，正好处于量表的中间位置，表明被试处于一种可以参与，也可以不参与的状态。（表4)。",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ccf5cc7917776a3851eb93d34e6ce474c258311b99dba5220cdcddf37f1d20c.jpg",
+        "table_caption": [
+            "表4实验4中赢钱输钱情境和交税退税情境下被试参与意愿的Wilcoxon符号秩检验 "
+        ],
+        "table_footnote": [
+            "注： $^ { * * } p < 0 . 0 1$ ，双侧检验。 $M =$ 均值， $S D =$ 标准差， $M d n =$ 中数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Scenario</td><td colspan=\"2\">Routes</td><td colspan=\"4\">Willingness to participate (WTP)</td><td rowspan=\"2\">Z</td></tr><tr><td>Gain</td><td>Loss</td><td>M (SD)</td><td>Mdn</td><td>Positive ranks</td><td>Mean rank</td></tr><tr><td>Money</td><td>One</td><td>Two</td><td>39.92 (26.77)</td><td>40.00</td><td>24</td><td>31.06</td><td>3.327**</td></tr><tr><td>Tax</td><td>Three</td><td>Two</td><td>50.55 (29.75)</td><td>59.00</td><td>49</td><td>39.91</td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参与意愿值被转换为二分变量，值小于50表示存在损失规避，值大于50表示不存在损失规避；值等于50的数据被删除不进行分析。我们用混合模型逻辑回归对是否发生损失规避（ $1 =$ 损失规避; $0 =$ 无损失规避）进行检验，固定效应为情境（ $1 =$ 赢钱输钱情境； $0 =$ 交税退税情境)，随机效应为被试。结果揭示了情境的效应显著（ $b = 1 . 2 9 , S E = 0 . 5 0 , z = 2 . 5 6 , p = 0 . 0 1 1 , \\mathrm { O R } = 3 . 6 2 )$ ，这表明在赢钱输钱情境中发生损失规避的可能性是交税退税情境的3.62倍。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "与刘欢等（2009）实验结果和本文的实验1-3结果一致，实验4的结果表明在赢钱输钱情境中发现了损失规避，而在交税退税情境中没有发现损失规避。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3小元分析",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "鉴于以上实验使用的是不同的样本（没交税经验的大学生和有交税经验的工作样本）、不同的指标（损失规避系数和参与意愿）和不同的实验设计（被试间实验设计和被试内实验设计)，我们把4个实验的结果综合起来进行了小元分析，来为损失规避的不对称程数解释机制提供更强的证据。我们在小元分析中把被试内实验设计和被试间实验设计的效应量结合起来，为了使结合起来的效应量更精确，效应量必须在同一标准下进行衡量(Glass,McGaw,& Smith,1981)。我们使用下面的公式，将被试内实验设计的样本量转换成了被试间实验设计的样本量",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { B } = d _ { W } \\sqrt { 2 ( 1 - r ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "其中， $r$ 是交税退税和赢钱输钱情境下两个因变量的相关系数， $d$ 是效应量， $B$ 表示被试间实验设计，W表示被试内实验设计(Morris&DeShon,2002)，转换后的样本量见表5。",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/617901d405b72eccb6b1e3185372512b257e8bf4be313cf6a97ea764ba8998c8.jpg",
+        "table_caption": [
+            "表5四个实验原始效应量与转换后的效应量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Original d</td><td>Transformed d</td></tr><tr><td>Experiment 1</td><td>0.23</td><td>0.23</td></tr><tr><td>Experiment 2</td><td>0.42</td><td>0.54</td></tr><tr><td>Experiment 3</td><td>0.24</td><td>0.27</td></tr><tr><td>Experiment 4</td><td>0.37</td><td>0.37</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "我们使用一个Excel模版来计算元分析的效应量(Goh,Hall,&Rosenthal,2016)。总体上，元分析的效应是显著的（平均效应量 $d = 0 . 3 3 , Z = 4 . 5 5 5 , p <$ 0.001，双侧检验)，这表明，与交税退税情境相比，输钱赢钱情境下更容易出现损失规避效应。因此，元分析的结果为不对称程数解释机制提供了更强的证据支持。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "元分析和4个实验的结果，一致地支持了刘欢等(2009)提出的损失规避的不对称程数的解释机制，表明了其研究结果的稳健。本文的实验条件从宽松到严格。在不同的实验设计（被试间实验设计和被试内实验设计）、不同的样本(本科生和工作人群)，不同的量级（小金额和大金额)，以及不同的测量指标（损失规避系数和参与意愿）中，实验结果都是稳定的。结果一致表明了对金钱获得和损失程数的操纵可以改变人们的损失规避行为。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "通过4个实验的结果，我们确认了不对称程数解释机制的可靠性。具体来说，实验1是对刘欢等(2009)实验的直接重复，结果支持了不对称程数解释机制；实验2与实验1相似，除了实验1采用的是被试间实验设计，而实验2采用的是被试内实验设计，实验结果也与实验1的结果一致；实验3采用了一个更严格的条件，引入了大小效应，把金钱的数额从50元提高到了500元，实验结果也与前2个实验一致。最后，我们在实验4中采用更多样的指标来研究损失规避，前3个实验的结果再次得到了验证。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "损失规避被认为是影响个体决策的普遍行为。我们的研究结果与通常的决策者的假设相悖，即在不同情况下，典型的决策者的行为是同等的损失大于同等的收益。许多研究试图探索损失规避的潜在机制。这些现有的解释可以归纳为两种类型：引起损失规避的（1）直接因素和（2）间接因素。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "引起损失规避的直接因素是由损失触发的过程或情绪。这类解释机制中具有代表性的是预期理论。根据预期理论，获益和损失的效用由结果的主观价值和主观概率组成。考虑到预期理论提出的价值函数中的参数因人而异，因此转换后的价值不是客观的总体金钱价值，而是主观的心理价值。因此，预期理论中的损失规避在某种程度上指的是其情感属性，而参数λ既反映了认知过程，又反应了情感过程。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "引起损失规避的间接因素是由与损失相关的过程或情绪所引起的。可以用术语“过度概括（overgeneralization）”来表示，反映了个体过去珍贵的经验触发了损失规避(Skinner,1985;Ert&Erev,2013)。比如，“柠檬规避”（lemonavoidance）假设提出，人们由于讨厌棘手的提议（柠檬）而倾向于拒绝有吸引力的混合赌博游戏(Ert& Erev,2008)。另一个例子表明，损失厌恶可能反映了有效谈判策略的普遍化，这在未来可能会通过抱怨损失和使收益最小化而更加受益(Yechiam,Telpaz,&Hochman,2014)。赢钱输钱情境中较高的损失规避系数的中值就可以被柠檬规避（拒绝棘手的提议）和抱怨偏差解释。在交税退税情境中，有交税经验的人（实验4招募的被试）的损失规避现象消失了可以是过度概括的一种反映。未来的研究可以区别过度概括和不对称程数对此的解释。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "我们倾向于将不对称程数归为另外一种引起损失规避的间接因素。“程数”被定义为同一拥有权的转换次数。在传统的情境中，获得通常都是单程的，从没有都拥有；而损失通常是双程的，多出来“从有到无”过程。因此，损失规避为什么在这些情境中会发生就是因为损失的程数大于获得的程数，而更多的程数会带来更多的心理感受。简言之，不对称程数表示获得和损失的程数是不对称的，就会导致损失规避。尽管本研究的实验设计是在不对称程数解释机制的指导下设计的，但该机制的分类（一种认知的解释还是过度概括）仍然是一个开放性的问题。我们希望本重复实验可以吸引更多的研究者，然后更多学者研究究竟哪种观点可以更好地解释本文的重复数据。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "为什么损失规避如此稳定，并且引起了相当多的研究关注？我们推测在风险和不确定决策的模型中，“金钱价值”长期以来一直被用来代表各种可能结果$x _ { i }$ （将基本效用函数定义为值 $\\nu ( x _ { i } )$ 。对 $x _ { i }$ 的这种处理可以追溯到数学期望的概念（ $\\textstyle { \\mathrm { : } } E V = \\sum _ { i = 1 } ^ { n } p _ { i } x _ { i } )$ ，数学期望首次出现于Blaise Pascal 和 Christian Huygens的著作中，他们把数学期望应用在Pascal对上帝是否存在的赌注上(Jiang,Yang,Chen,&Li,2018;Lopes,1995)。鉴于现实世界中大多数事件的结果都可以用金钱来表示或衡量，因此金钱似乎可以充当可能结果的理想替代。但是，这种通用货币的一个本质特征是：在损失前，人们必须首先花费时间，精力和努力来获取一定数量的钱；然后，他们才能损失那笔钱。换句话说，损失金钱是双程的。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "金钱的这个属性，为预期理论中的损失规避现象和价值函数 $\\nu$ 的形状提供了基础(Kahneman& Tversky,1979;Tversky&Kahneman,1992)，即价值函数中，损失比获得更陡峭。如果某些类型的结果（例如，生命、自由和健康等)不像金钱那样具有获得和损失的不对称性（即，单程损失和双程获得)，则所谓的损失规避将不会发生(Liu et al.,2009;Wilson,Arvai,& Arkes,2008)。在这种情况下，获得这些结果是与生俱来的。因此，获得不是损失的先决条件，这意味着获得和损失的过程是对称的（即，单程损失和单程获得)。因此我们有理由认为，如果PT中使用的各种可能结果 $x _ { i }$ 的不是金钱代理的，而是个人结果（例如生活，自由和健康)，那么价值函数 $\\mathbf { \\sigma } _ { \\nu }$ 的形状将不会是不对称的S形曲线（价值函数曲线中损失比获得更陡峭)，而是对称的曲线。在注意到“金钱”（获得和损失的不对称性）的内在属性后，我们或许为揭开损失规避的神秘面纱开辟了另一条途径。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，存在一些间接证据来支持我们的假设，即金钱结果获得和损失的不对称程数导致了损失规避。例如，一些有关消费者行为的研究表明，货币形式的途径（即金钱一现金一金钱与金钱一代币一金钱）和金钱收入的时间（即实验前还是实验后）在人们分钱的意愿中起着重要的作用(Li,2002)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本文为解释损失规避提供了一种新的方法。不对称程数解释机制为研究损失规避提供了新的解释。希望本文的研究结果可以给未来损失规避的研究提供帮助，给未来不对称程数的研究提供指导。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "致谢：本研究部分受国家自然科学基金项目（71761167001）、中国科学院扶贫计划（KFJ-FP-201906）和中国科学院大学生创新实践训练计划（111000C160）的资助。本文作者感谢不对称程数解释机制原作者刘欢、梁竹苑和李纾在重复过程中的帮助，感谢李明晖在数据收集过程中的帮助。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Ariely,D., Huber, J.,& Wertenbroch, K. (2oo5). When do losses loom larger than gains? Journal ofMarketing Research, 42(2), 134-138.   \nBaayen, R.H., Davidson, D.J.,& Bates,D.M.(2008). Mixed-effects modeling with crossed random effects for subjects and items. Journal of Memory and Language, 59(4), 390-412.   \nBates,D., Mächler, M., Bolker, B.M.,& Walker, S.C. (2015). Fiting linear mixed-effects models using lme4. Journal of Statistical Software, 67(1), 1-48.   \nBilgin,B. (2012). Losses loom more likely than gains: Propensity to imagine losses increases their subjective probability. Organizational Behavior and Human Decision Processes, 118(2), 203-215.   \nBoyce, C. J., Wood,A. M.,& Ferguson, E. (2016). Individual differences in loss aversion: Conscientiousness predicts how life satisfaction responds to losses versus gains in income. Personality and Social Psychology Bulletin, 42(4), 471-484.   \nCamerer, C.F. (2005). Three cheers — psychological, theoretical, empirical - for loss aversion. Journal of Marketing Research, 42,129-133.   \nErt, E., & Erev,I. (2oo8). The rejection of attractive gambles,loss aversion,and the lemon avoidance heuristic.Journal of Economic Psychology, 29(5), 715-723.   \nErt, E.,& Erev, I. (2013). On the descriptive value of loss aversion in decisions under risk: Six clarifications. Judgment and Decision Making, 8(3), 214-235.   \nFaul,F.,Erdfelder,E.,Lang,A.G.,& Buchner,A. (2007). $\\mathbf { G } ^ { * }$ Power 3: A flexible statistical power analysis program for the social, behavioral,and biomedical sciences. Behavior Research Methods,39(2),175-191.   \nFox, C.R.,& Poldrack,R.A.(2014).Prospect theory and the brain.In P.Glimcher & E.Fehr (Eds.),Neuroeconomics: Decision making and the brain (2nd, pp. 533-568).London, UK: Elsevier.   \nFrisch, D.(1993). Reasons for framing effects. Organizational Behavior and Human Decision Processes, 54(3), 399-429.   \nHarinck,F., Van Dijk, E., Van Beest, I., & Mersmann, P. (2o07). When gains loom larger than losses: Reversed loss aversion for smallamounts of money. Psychological Science, 18,1099- 1105.   \nJiang, C.-M., Yang, S.-W., Chen, J.-F. & Li, S. (2018). Believing in God or not: The explanations from analytic and heuristic decision models. Journal of Dialectics of Nature, 40(10), 23-31.   \nJudd, C. M., Westfall, J.,& Kenny, D.A. (2012). Treating stimuli as a random factor in social psychology: A new and comprehensive solution to a pervasive but largely ignored problem. Journal of Personality and Social Psychology, 103(1),54-69.   \nGaechter, S., Johnson, E.J.,& Herrmann,A. (2oo7). Individual-level loss aversion in riskless and risky choices. Social Science Electronic Publishing,1(2),37-39.   \nGal, D. (2oo6). A psychological law of inertia and the illusion of loss version. Judgment and Decision Making, 1(1),23-32.   \nGlass, G. V., McGaw, B.,& Smith, M.L. (1981). Meta-analysis in social research. Beverly Hills, CA: Sage.   \nGlockner,A., & Pachur, T. (2012). Cognitive models of risky choice: parameter stability and predictive accuracy of prospect theory. Cognition, 123(1), 21-32.   \nGoh, J. X., Hall, J.A., & Rosenthal, R. (2016). Mini meta-analysis of your own studies: Some arguments on why and a primer on how. Social and Personality Psychology Compass, 10(10), 535-549.   \nKahneman, D.,& Tversky,A.(1979).Prospect theory: An analysis of decision making under risk. Econometrica, 47(2), 140-170.   \nKuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2017). lmerTest package: Tests in linear mixed effects models. Journal of Statistical Software, 82(13), 1-26.   \nLevin,I. P., Johnson, R.D., & Davis, M.L. (1987). How information frame influences risky decisions: Between-subjects and within-subject comparisons. Journal of Economic Psychology, 8(1), 43-54.   \nLi, S. (20o2). Do money-earning time and money-exchanging route matter? Psychology and Marketing, 19(9), 777-782.   \nLi, X. (2015). Is loss aversion due to the routes of loss more than gain? Journal of Psychological Science, 38(2),394-399. [李小平.(2015)．损失规避源于损失程数多于获得?——损失规避的得失程数变化视角 的再检验．心理科学,38(2),394-399.]   \nLiberman, N., Idson,L. C.,& Higgins, E. T. (2005). Predicting the intensity of losses vs. nongains and non-losses vs. gains in judging fairness and value: A test of the loss aversion explanation. Journal of Experimental Social Psychology, 41(5), 527-534.   \nLiu,H.,Liang, Z.-Y., Li, S. (2oo9). Is loss aversion a robust effect? An uneven route of seeing that losses loom larger than the same amount of gains. Acta Psychologica Sinica, 41(12), 1123- 1132. [刘欢，梁竹苑,& 李纾.(2009).得失程数的变化：损失规避现象的新视点．心理学报, 41(12),1123-1132. DOI: 10.3724/SP.J.1041.2009.01123]   \nLiu, H., Sui, X.-Y., Huang, Y.-N.,Lin, R.-P., Xu, M.-X. (2019). The nudging role of behavioral economics in retirement savings decisions: Current situation and future prospects. Advances in Psychological Science, 27(3), 418-428.   \nLopes,L.L. (1995). Algebra and process in the modeling of risky choice. Psychology of Learning and Motivation, 32,177-220.   \nMorris, S. B.,& DeShon, R. P. (2002). Combining effect size estimates in meta-analysis with repeated measures and independent-groups designs. Psychological Methods, 7(1),105-125.   \nRick, S. (2010). Losses, gains, and brains: Neuroeconomics can help to answer open questions about loss aversion. Journal of Consumer Psychology, 21(4), 453-463.   \nSchmidt, U., & Zank, H. (20o5). What is loss aversion? Journal of Risk and Uncertainty,30(2), 157-167.   \nSimonsohn, U. (2015). Small telescopes: Detectability and the evaluation of replication results. Psychological Science, 26(5), 559-569.   \nSkinner,B.F. (1985). Cognitive science and behaviourism. British Journal of Psychology,76(3), 291-301.   \nSokol-Hessner,P.,Lackovic, S.F., Tobe,R. H., Camerer, C.F., Leventhal, B.L.,& Phelps,E. A. (2015). Determinants of propranolol's selective effect on loss aversion. Psychological Science, 26(7), 1123-1130.   \nStanovich, K.E.,& West, R.F. (1998). Individual differences in framing and conjunction effects. Thinking & Reasoning, 4(4), 289-317.   \nThaler, R.H.,& Benartzi, S.(2004). Save More TomorrowTM: Using behavioral economics to increase employee saving. Journal of Political Economy, 112(S1), S154-S187.   \nTversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. Journal of Risk and Uncertainty, 5(4), 297-323.   \nWang,X. T., Ong,L. S., & Tan, J. H. (2015). Sense and sensibility of ownership: Effects of ownership experience on valuation of goods. Journal of Behavioral and Experimental Economics,58,171-177.   \nWilson,R. S.,Arvai, J.L.,& Arkes, H.R. (20o8). My loss is your los... sometimes: loss aversion and the effect of motivational biases.Risk Analysis: An International Journal, 28(4), 929- 938.   \nYechiam, E., Telpaz,A.,& Hochman, G. (2014). The complaint bias in subjective evaluations of incentives.Decision, 1(2), 147-160. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    }
+]

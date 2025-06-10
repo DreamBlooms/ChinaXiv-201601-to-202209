@@ -1,0 +1,595 @@
+[
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "口吃者加工汉语歧义短语的神经过程",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李卫君 刘梦‧张政华 邓娜丽 邢钰珊",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(辽宁师范大学脑与认知神经科学研究中心，大连116029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要韵律边界是口语韵律特征的有机组成部分，在语言理解中发挥着重要作用。口吃作为一种言语节律性障碍，主要表现为音节经常性的重复、拖长或停顿等。本研究采用 ERP，考察口吃者完成词汇判断和结构判断两种任务时，加工歧义短语(动宾/偏正歧义结构)内部韵律边界的认知过程。结果发现口吃者和言语流畅者在加工汉语歧义短语过程中，所诱发的反映韵律切分的脑电成分CPS(closure positive shift)不存在显著差异。在 $0 { \\sim } 3 0 0 ~ \\mathrm { m s }$ ，不论中线还是两侧，口吃者和言语流畅者加工两类短语时，动宾短语韵律边界诱发正效应的头皮分布范围小于偏正短语。在 $3 0 0 { \\sim } 6 0 0 ~ \\mathrm { m s }$ ，中线上，口吃和言语流畅者在完成两种任务时，两类短语的韵律边界均稳定诱发了正效应；在两侧，结构判断任务中两类短语的韵律边界都诱发了正效应，但词汇判断任务中只有偏正短语稳定诱发该效应。综上，口吃者和言语流畅者一样对口语韵律边界敏感，并且他们加工歧义短语内部韵律边界时，诱发的脑电效应受到实验任务和短语结构类型的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词口吃；韵律边界；歧义短语;CPS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语言的组织具有一定的句法和语法结构，这些信息为说话者提供了基本的断词、断句准则。相应地，语言的韵律信息也具有一定的层次结构，这不仅仅是应表词达意的要求，也是受到人们发音的生理约束的必然结果(Shattuck-Hufnagel&Turk,1996)。在书面语中，读者可以借助标点符号和段落标记来切分句子或者段落，因此理解起来会比较容易。在口语交流中，听者无法借助这样的线索，只能依赖韵律信息(如韵律边界)组织切分连续的语流。实际上，讲话者会使用韵律特征，将有些音节按语法、语义和语用的要求更紧密地结合在一起，而听",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "话者则会利用这些信息来理解话语(李卫君，杨玉芳，2007)。韵律特征的使用促进了说话者和听话者之间的有效交流。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "□吃作为一种常见的言语流畅性障碍，主要表现为个体在言语表达时会出现经常性的、不随意的语音重复、延长，以及打断言语节奏的阻塞、犹豫和停顿(World Health Organization,2010)。口吃或发展性口吃(developmental stuttering)通常发生在学前期(2\\~5 岁)，约有 $5 \\%$ 的儿童会表现出口吃症状，但很多会自行恢复，只有大约 $1 \\%$ 的人群直到成年仍不能恢复。相较于获得性口吃(acquired stutering，由药物、精神创伤或脑损伤等因素导致的口吃)，发展性口吃的形成被认为受到了基因、遗传和环境等多方面因素的影响，因而得到了心理学、遗传学和认知神经科学的共同关注(Smith&Weber,2017; Yairi& Ambrose,2013)。在研究内容方面，由于言语表达障碍是口吃的主要症状，因此研究者更多考察的是口吃者在言语产生过程中是否存在缺陷以及大脑运动区皮层的异常(Etchell,Civier,Ballard,& Sowman,2017)。实际上，人类的言语知觉和言语产生过程密不可分，大量的研究发现口吃者存在听觉皮层组织的异常(Chang,Kenney,Loucks,& Ludlow,2009; Giraud et al.,2008)。此外，口吃者在一些条件下,如齐声朗读(Fox et al.,1996)、改变听觉反馈(altered altered fedback,AAF)(Lincoln,Packman,& Onslow,2006)等流畅性诱导程序中，暂时性出现口吃症状的缓解。由此推动了研究者对负责语言加工的听觉和神经系统的研究，并表明口吃者的语言加工确实与言语流畅者存在差异。本文拟考察口吃者加工韵律边界信息的认知过程及其影响因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1韵律边界加工",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "句子中的韵律单元通过边界进行切分，其声学相关物包括插入停顿/无声段、边界前音节延长、边界周围音高移动等(Yang,Shen,Li,&Yang,2O14; Steinhauer,Alter,&Friederici,1999)。韵律边界在语言获得、产生和理解过程中都起着非常重要的作用。它是婴儿学习语言最早使用的用来切分口语句子、并分离出音素的重要线索(Ramus,Hauser,Miller,Morris,& Mehler,2000)。成人和婴儿都会即时使用韵律边界约束词汇通达(Christophe,Peperkamp,Pallier,Block,& Mehler,2004; Salverda,Dahan,& McQueen,2003)。更为重要的是，由于句法边界和韵律边界都有组织切分语言的功能，二者存在着紧密的联系。早期关于韵律边界的研究大多关注韵律边界消除话语中存在歧义的问题(Kjelgaard& Speer,1999; Schepman & Rodway,2000)。比如，对于汉语特有的歧义短语 $\\mathrm { \\Delta V + N P 1 + A u x }$ （的） $+ \\mathrm { N P } 2$ (如\"理解医院的呼声\")，它可以根据韵律边界出现在动词(\"理解\")之后解歧为动宾短语(理解/医院的呼声)，也可以根据边界出现在助词(\"的\")之后，理解为偏正短语(理解医院的/呼声)。不过，也有研究发现，读者更倾向于将",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这类短语理解为偏正结构(Wei,Dong,Bland,& Yuan,2016；张亚旭，张厚粲，舒华,2000)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来，第一个韵律加工的特定性脑电成分CPS(closure positive shift)的发现，进一步推动了研究者对韵律边界的考察。CPS 的发现者认为此脑电成分主要反映了语调短语的终止(Steinhauer et al.,1999)。随后对口语句子和语篇不同层级韵律边界的研究表明，除了语调短语边界，韵律短语边界也可以诱发CPS，并且其潜伏期和波幅随着时间呈现出动态变化的模式(Li& Yang,2009,2010)。尽管 CPS 的诱发只依赖纯粹的韵律信息(Pannekamp,Toepel,Alter,Hahne,&Friederici,2005)，但是韵律边界和句法边界会发生即时的相互作用(Kerkhofs,Vonk,Schriefers,& Chwilla,2007;Bogels,Schriefers,Vonk,Chwilla,& Kerkhofs,2010)，两者不一致要比一致时诱发波幅更大的CPS。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一些研究还发现书面语中的逗号(Steinhauer& Friederici,2001;Liu,Wang,&Jin,2010),七言绝句内部韵律边界(Li& Yang,2010；李卫君，杨玉芳,2010)和音乐内部边界(Knosche etal.,2005;Nan,Knosche,&Friederici,2006; Zhang,Jiang,Zhou,& Yang,2016)也能够诱发此脑电效应，因为他们都内隐或外显地引发了与口语韵律边界类似的韵律切分。此外，研究者们还发现，在不同实验任务中(语义理解，节奏判断，被动听等)都会稳定诱发CPS (Li& Yang，2009;Peter,Mcarthur,& Crain,20l4; Pannekamp et al.,2005)。这可能表明，该成分的诱发与被试完成的实验任务无关。最近，使用连词连接三个名字(如：Mona orLena andLola)的研究发现，在较晚的边界(如：Lena之后)诱发了CPS，而较早的边界(如：Mona之后)则没有诱发该效应。研究者认为韵律边界的加工依赖于边界前面的韵律背景(Holzgrefe etal.,2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2口吃者言语信息加工",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从上个世纪30年代开始，研究者就对口吃者大脑是否异于常人进行了探究。随着fMRI、MEG、ERPs 等技术的成熟，越来越多的研究表明口吃者的大脑相较于正常人存在结构和功能上的异常(Chang，Horwitz,Ostuni,Reynolds，& Ludlow,2011；Cykowski,Fox，Ingham,Ingham,&Robin,2010)。早期研究者更多关注口吃者和言语流畅者的脑干功能，并比较了听觉反射的强度和处理低信噪比声音的能力。然而，这些研究的结果并不一致：一些研究者发现了口吃和正常被试存在差异(e.g.,Hall& Jerger,1978)，另一些研究者则没有(e.g.,Hanley& Dorman,1982)。Hannley 和 Dorman (1982)认为这可能是因为不同口吃者其障碍存在异质性，并且这些研究进行比较的被试较少(每组少于10个)。此外，排除左右利手的影响，双耳分听技术对口吃者听觉系统加工的研究表明，口吃者的大脑对言语声音表征具有右侧化或者双侧化的特点，而非口吃者的大脑对言语的声音表征具有左侧化的特点(Dorman&Porter,1975;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Foundas,Corey,Hurley,&Heilman,2004)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一些研究者使用 ERP技术考察口吃者的语义、句法和语音加工的认知神经过程。Weber-Fox (2001)考察了口吃者的语义加工是否异于正常成人。研究者把句子逐词呈现给被试，要求他们判断每个词是封闭还是开放类词语，并在每个句子呈现完毕后，对句子是否语义异常做出判断，同时记录被试的 ERP反应。结果发现口吃者和言语流畅者相比，在200\\~400 ms 时间窗内对不同词类和语义违反加工都诱发了波幅降低的脑电效应。Cuadrado和Weber-Fox(2003)通过给成人口吃者和正常被试逐词呈现具有简单和复杂结构的控制句以及动词一致性冲突句，考察了口吃者的句法加工。研究表明，在没有时间压力(即不要求做快速语法判断)的条件下，口吃者判断的正确率和正常成人没有差异；而在有时间压力的条件下口吃者判断的正确率明显低于言语流畅者，尤其对于那些出现在较长和句法复杂句中的动词一致性违反更为明显。此外，正常被试在动词一致性违反的加工中表现出了一个典型的P600 效应，而口吃者诱发的 P600 在波幅和头皮分布上都有所降低。Weber-Fox 和 Hampton则通过给被试呈现有句法和语义限制的口语句子，发现非口吃者在语义和动词一致性违反加工上表现出典型的 N400 和P600 效应，而口吃者在两种条件下都诱发了N400-P600 这样的双相模式的脑电效应(Weber-Fox& Hampton,2008)。Weber-Fox 等人考察了口吃者的音系加工能力(Weber-Fox,Spencer,Spruill,& Smith,2004)。实验要求口吃者和言语流畅者对视觉呈现的词对进行节奏判断。结果发现尽管口吃者的反应时更长，但两组被试诱发了相似的脑电效应，在正确率上也没有显著差别。Corbera,Corral,Escera 和 Idiazabal (2005)利用 MMN这一脑电成分考察了口吃者的听觉语音加工是否存在缺陷。他们发现口吃者的听觉皮层关于简单声音特征的神经表征(如频率，时长)是正常的，而对言语声音的神经表征是异常的(Corbera,Corral,Escera,&Idiazabal,2005)。这也得到来自其他实验的证实，即口吃者的听知觉缺陷主要表现为言语声音特异性的知觉加工缺陷，而对一般声音，例如纯音音调的听知觉加工则是正常的(Howell,Davis,& Williams,2006)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3本研究目标和预期",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，口吃者主要表现为节奏流畅性障碍，一些口吃症状(如音节延长和不合适的停顿)与口语中韵律边界的声学线索类似。然而，目前还没有研究考察口吃者在加工韵律边界过程中是否异于言语流畅者。本研究拟使用汉语特有的歧义短语( $\\mathrm { \\Delta V + N P l + }$ 的 $+ \\mathrm { N P 2 }$ ，利用词汇判断(内隐韵律信息加工)和结构判断(外显韵律信息加工)两种任务，考察口吃者和言语流畅者加工韵律边界的认知过程及其神经机制。以往研究主要在句子和语篇层面上考察韵律边界的加工，使用短语考察边界加工的研究者发现，边界加工受到其所处位置的影响(Holzgrefe etal.,2013)。对于可以理解为动宾和偏正结构的汉语歧义短语，其边界是否能稳定诱发CPS 有待考察。由于读者更容易将此类短语理解为偏正结构(Weietal.,2016；张亚旭等人,2000)，是否听者在加工此类短语时仅在偏正结构下诱发该效应？此外，口吃者语言加工的研究发现，□吃者在语义和句法加工中诱发的效应弱于言语流畅者(Weber-Fox，2001；Cuadrado &Weber-Fox,2003)，那么他们在加工韵律边界过程中可能也差于言语流畅者。不过，也有研究发现口吃者对简单声音特征的神经表征(如频率，时长)是正常的(Corbera et al.，2005)，并且音系加工能力和言语流畅者不存在差别(Weber-Fox etal.,2004)。边界加工主要依赖时长、频率这些声学线索，所以口吃者与正常人在加工边界过程中可能不存在差异。最后，一些研究尽管发现韵律边界在不同实验任务中(语义理解，节奏判断，被动听等)都会稳定诱发CPS (Liet al.,2009;Peter et al.,2014;Pannekamp et al.,2005)，然而并没有研究直接考察实验任务是否会影响CPS 的波幅，头皮分布等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究通过设置词汇判断和结构判断两种任务，考察口吃和言语流畅者歧义短语内部韵律边界的认知过程。如果口吃者和言语流畅者一样，能够同等程度诱发反映边界加工的特定性脑电成分CPS，说明其言语产生上的障碍不会表现在言语感知过程中，这某种程度表明人类言语产生和理解过程涉及的认知和神经基础存在差别。如果口吃者在感知韵律边界时无法像言语流畅者一样诱发相同的脑电效应，则说明其口吃障碍延伸到了言语感知过程中：口吃者不仅言语产生时存在节奏流畅性障碍，其节奏感知(如韵律边界加工)也存在问题。由此表明节奏信息的产生和感知共享了相似的认知和神经基础，从而有望通过给口吃者呈现节律性较好的话语或者音乐，对其言语表达产生一定的矫治作用。此外，通过设置不同的实验任务，可以探究口吃者在加工韵律信息过程中，是否和言语流畅者一样同等程度地受到实验任务的影响，从而进一步揭示口吃者言语加工特点。总之，研究旨在通过对口吃者韵律信息感知的研究，推进我们更好地认识口吃的认知和神经基础，从而为帮助口吃者缓解口吃症状提供理论指导。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从高校招募12名口吃者作为实验组，均自我报告从6岁前出现口吃症状，并接受过口吃矫治。口吃严重程度通过口吃程度评定量表(Overall Assessment of the speakers Experience ofStutering,OASES)测定(Yaruss &Quesal,2006)。另外招募12名言语流利者作为对照组，在",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "年龄、性别、教育程度上均与口吃组匹配(见表1)。两组被试均为右利手，无精神疾病史，视力或矫正视力及听力正常，母语为汉语。研究得到辽宁师范大学伦理委员会批准。实验前被试签署了知情同意书，在实验后获得一定报酬。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/06167ae4e1b2aa78e2df896e50ce5de6ca9afc98c5799326f3f7102ff0e3b3cb.jpg",
+        "table_caption": [
+            "表1被试基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">被试</td><td colspan=\"4\">□吃被试</td><td colspan=\"3\">正常被试</td></tr><tr><td>年龄(岁)</td><td>性别</td><td>教育程度</td><td>严重程度</td><td>年龄(岁)</td><td>性别</td><td>教育程度</td></tr><tr><td>1</td><td>24</td><td>男</td><td>研究生</td><td>轻度到中度</td><td>23</td><td>男</td><td>研究生</td></tr><tr><td>2</td><td>20</td><td>女</td><td>大学</td><td>中度</td><td>20</td><td>女</td><td>大学</td></tr><tr><td>3</td><td>22</td><td>男</td><td>大学</td><td>轻度到中度</td><td>22</td><td>男</td><td>大学</td></tr><tr><td>4</td><td>25</td><td>女</td><td>研究生</td><td>中度到严重</td><td>25</td><td>女</td><td>研究生</td></tr><tr><td>5</td><td>23</td><td>男</td><td>大学</td><td>中度</td><td>23</td><td>男</td><td>大学</td></tr><tr><td>6</td><td>24</td><td>男</td><td>大学</td><td>中度到严重</td><td>24</td><td>男</td><td>大学</td></tr><tr><td>7</td><td>22</td><td>男</td><td>大学</td><td>轻度到中度</td><td>23</td><td>男</td><td>大学</td></tr><tr><td>8</td><td>23</td><td>男</td><td>研究生</td><td>轻度到中度</td><td>23</td><td>男</td><td>研究生</td></tr><tr><td>9</td><td>20</td><td>男</td><td>大学</td><td>中度</td><td>22</td><td>男</td><td>大学</td></tr><tr><td>10</td><td>24</td><td>男</td><td>大学</td><td>轻度到中度</td><td>24</td><td>男</td><td>大学</td></tr><tr><td>11</td><td>24</td><td>男</td><td>大学</td><td>轻度到中度</td><td>24</td><td>男</td><td>大学</td></tr><tr><td>12</td><td>24</td><td>男</td><td>大学</td><td>中度</td><td>24</td><td>男</td><td>大学</td></tr><tr><td>M</td><td>22.92</td><td></td><td></td><td></td><td>23.08</td><td></td><td></td></tr><tr><td>SD</td><td>1.62</td><td></td><td></td><td></td><td>1.31</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2刺激材料",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验采用168个可以同等理解为动宾和偏正结构的歧义短语作为实验材料，已在以往研究中使用(Li,Yang,&Lu,2010)。另外编制无歧义的动宾短语和偏正短语各84个作为填充材料。正式实验前，由一名女性专业发音人分别将每个歧义短语按照偏正结构和动宾结构各读一遍，填充材料正常朗读，采样率为 $2 2 \\mathrm { k H z }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用PRAAT软件(http://www.fon.hum.uva.nl/praat/)将所有歧义短语切分为 $\\mathrm { \\Delta V / N P 1 + }$ 的/NP2三段，并对其进行声学参数(时长和基频)分析。如图1a所示(以\"理解医院的呼声\"为例),时长分析表明，动宾结构中动词(如\"理解\")的时长( $M = 6 0 4$ $S D = 7 0$ )显著长于偏正结构中同一动词时长( $\\overset { \\cdot } { M } = 4 1 1$ $S D = 4 6$ ）， $t ( 1 6 7 ) = 3 6 . 5 1$ $p < 0 . 0 0 1$ ；名词NP2(如\"呼声\")的时长在偏正结构 $( M = 6 9 6 , S D = 6 8 )$ 条件下显著长于动宾结构该名词时长( $M = 5 4 6$ $S D = 6 6$ ）， $t ( 1 6 7 ) = 2 7 . 7 3$ $p < 0 . 0 0 1$ 。此外，动宾结构短语在动词后出现停顿(#1)( $M = 6 0$ $S D = 4 0 ^ { \\cdot }$ ，而偏正短语在NP2前出现停顿(#2) $( M = 1 5 9$ $S D = 5 9$ )。如图1b所示，音高分析按照歧义短语切分的三段，分别计算每段的基频开始值、末尾值、最大值、最小值。统计分析结果表明，动宾结构中动词的基频最大值( $\\mathrm { ~ \\cal ~ M ~ } = 3 4 3$ $S D = 3 3$ 显著高于偏正结构 $\\mathbf { \\mathit { M } } = 3 2 2$ $S D = 4 1$ ）， $t ( 1 6 7 ) = 6 . 1 2$ $p < 0 . 0 0 1$ 偏正结构中NP2基频最大值 $( M = 3 1 9 , S D = 4 7 ;$ 显著高于动宾结构( $M = 2 9 7$ $S D = 3 9$ ）， $t ( 1 6 7 ) =$ 6.75, $p < 0 . 0 0 1$ 。以上的声学分析表明，动宾结构短语在动词处音节延长、重读，动词后有明显的无声段；而偏正短语在NP2处音节延长、重读,NP2前有明显的无声段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "###插入图1### ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "批注[A1]：所有图均为AI，另附",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图1偏正结构(灰)和动宾结构(黑)短语口语信号的韵律差异。(a)短语片段和停顿(#)时长以及二者差异：动宾结构表现为动词\"理解\"的时长延长和之后的无声段插入，偏正结构则表现为第二个名词\"呼声\"时间延长以及之前的一个无声段插入。(b）基频：动宾结构的主要重音在动词\"理解\"上，而偏正结构的主要重音在名词\"呼声”上。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为确保被试能够根据声学特性准确识别发音人录制的歧义短语，在正式实验前招募 20名被试(言语流利的大学生)进行预实验(预实验与正式实验被试不重复)。预实验分为两个版本，版本类型在被试间平衡。版本一包括序号为1\\~84的动宾结构歧义短语和序号85\\~168 的偏正结构歧义短语，以及84个非歧义短语(序号为1\\~42的42个动宾短语和序号为43\\~84的42 个偏正短语)。版本二包括序号为85\\~168 的动宾结构歧义短语和序号为1\\~84的偏正结构歧义短语，以及另外84个非歧义短语(序号为1\\~42 的42个偏正短语和序号为43\\~84 的 42个动宾短语)。要求被试在播放每一个短语后判断听到的短语是动宾还是偏正结构。统计分析发现，判断正确率为 $9 4 . 8 \\%$ 0 $S D = 2 . 6 6$ )，表明发音人录制的材料符合当前研究需要，被试能够准确识别短语的结构类型。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 实验设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正式实验中成对听觉呈现短语。实验材料前后呈现的两个短语结构一致；为平衡被试反应，填充材料前后呈现的短语结构不一致。所有实验和填充材料伪随机呈现，并要求被试在两个实验系列中分别完成词汇判断和结构判断任务(详见实验程序)。为平衡声学特性引起的差异，将实验材料分为四个版本，保证每个歧义短语在不同被试间分别作为动宾短语或偏正短语出现在前、后两个位置。仅对出现在前一个位置的歧义短语进行统计分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用2被试类型(口吃者、言语流畅者) $\\scriptstyle 1 \\times 2$ 任务类型(词汇判断、结构判断) $\\scriptstyle 1 \\times 2$ 结构类型(动宾短语、偏正短语 $\\scriptstyle 1 \\times 2$ 边界(有、无)四因素混合实验设计。被试类型为组间变量，任务类型、结构类型和边界为组内变量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4实验程序",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验共有6个区组(block)，每种任务3个区组，每个区组包括56个试次。每个区组中，同一条件的实验材料连续呈现不超过三次。每个区组大约用时6分钟，区组的间歇被试根据自身情况休息。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验在光线柔和，安静舒适的房间内进行。被试坐于液晶显示屏(规格为 $2 3 \\ \\prime \\prime$ ，刷新率为 $6 0 ~ \\mathrm { H z } ,$ 前，双耳距离音响 $9 0 ~ \\mathrm { c m }$ ，声音响度为 $7 5 \\ \\mathrm { d B }$ 。被试经过练习熟练掌握实验要求后，开始正式实验。正式实验阶段每个被试依次完成词汇判断任务和结构判断任务。每个试次中，首先同时呈现注视点 $( ^ { \\ast } + ^ { \\ast } )$ 和提示音 $3 0 0 \\mathrm { m s }$ ，随后“ $^ +$ \"继续呈现在屏幕中央以减少被试眼动；同时，相继播放两个短语，两个短语的时间间隔为 $4 0 0 ~ \\mathrm { { m s } }$ 。词汇判断任务中，声音刺激播放完毕后屏幕中央呈现一个词汇，要求被试既快又准地判断该词汇在先后播放的两个短语中是否出现过，出现按\"F\"键，没有出现按\"J\"键；结构判断任务中，要求被试在短语呈现完毕后既快又准地判断听到的两个短语结构是否一致，一致按\"F\"键，不一致按\"J\"键。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 数据采集与分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用ANT设备(ANT Neuro)，按照国际10-20 系统扩展的64 导电极帽记录EEG。信号记录的采样率为 $5 0 0 ~ \\mathrm { H z }$ ，并以 $\\mathrm { C P z }$ 为在线参考。电极M1和M2分别置于左侧和右侧乳突。电极与头皮之间的阻抗小于 $5 \\mathrm { k } \\Omega$ ，在线记录的滤波带通为 $0 . 0 1 { \\sim } 1 0 0 ~ \\mathrm { H z }$ 。离线分析时从各导联的脑电数据中减去双侧乳突的平均数作再参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "采用BrainVision Analyzer2.0软件进行数据处理，对脑电信号进行滤波(高通为 $0 . 0 1 \\mathrm { H z }$ 低通为 $3 0 \\mathrm { { H z } }$ )。脑电分析锁定的起始点为每个试次中第一个歧义短语的动词(如\"理解\")和助词(\"的\")末尾，截取两个关键位置之前 $1 0 0 ~ \\mathrm { { m s } }$ 和之后 $8 0 0 ~ \\mathrm { { m s } }$ 的数据存为EEG数据，并进行基线矫正。边界诱发的脑电效应通过动宾短语边界和相应偏正短语无边界，以及偏正短语边界与动宾短语无边界条件相比较获得。排除眼动伪迹及电位超过 $\\mathrm { \\Delta \\Psi ^ { \\pm 8 0 } \\ \\mu V }$ 的其它伪迹后，每种条件下的有效试次均在30 次以上。基于诱发脑电效应的分布情况及以往相关研究(Li&Yang.，2009；Holzgrefe etal.，2013；Kerkhofsetal.，2007)，我们分别对中线和左右两半球$0 { \\sim } 3 0 0 ~ \\mathrm { m s }$ 和 $3 0 0 { \\sim } 6 0 0 ~ \\mathrm { m s }$ 两个时间窗口诱发脑电效应的平均波幅进行重复测量方差分析。中线上，采用被试类型(口吃者、言语流畅者) $\\times$ 任务类型(词汇判断、结构判断) $\\times$ 结构类型(动宾、偏正) $\\times$ 边界(有、无) $\\times$ 脑区(额区、中央区、顶区)，进行重复测量方差分析。脑区的三个兴趣区包括额区 $( \\mathrm { F z } , \\mathrm { F C z } )$ ，中央区 $( \\mathbf { C } \\mathbf { Z } , \\mathbf { C } \\mathbf { P } \\mathbf { Z } )$ 和顶区 $( \\mathrm { P z } , \\mathrm { P O z } )$ 。左右半球上，将半球(左、右)作为一个额外变量进行重复测量方差分析。根据半球和区域这两个因素，共划分6个兴趣区，包括左前(F1,F3,F5,FC1,FC3,FC5)，右前(F2,F4,F6,FC2,FC4,FC6)，左中(C1,C3,C5,CP1,CP3,CP5)，右中(C2,C4,C6,CP2,CP4,CP6)，左后(P1,P3,P5,PO3,PO5,PO7)和右后",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(P2,P4,P6,PO4,PO6,PO8)。用Greenhouse-Geisser对不符合球形检验的方差分析自由度进行校正。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 行为结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "行为数据结果表明，被试完成词汇和结构判断准确率分别为 $9 3 . 8 \\%$ （言语流畅者： $9 4 . 2 \\%$ □吃者： $9 3 . 4 \\%$ 和 $7 3 . 9 \\% ^ { 1 }$ （言语流畅者： $7 3 . 1 \\%$ ，口吃者： $7 4 . 6 \\%$ ，说明他们都认真听短语并完成实验任务。本研究设置两种任务目的在于引导被试关注(结构判断任务)或不关注(词汇判断任务)韵律边界信息，并且仅分析成对短语中的第一个短语。此外，我们很难通过行为反应来判断被试是否真正\"正确加工\"了成对呈现短语中第一个短语的韵律边界。因此反应时和正确率不做进一步分析和讨论。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 ERP结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在词汇判断(图2)和结构判断(图3)两种任务中，不论口吃还是言语流畅者，在加工边界时相对于无边界都会诱发一个正波。该正波为全脑分布，在前中部波幅较大。根据以往的相关研究结果(Steinhauer etal.,1999,2001)，可以确定该正波为CPS。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "###插入图2### ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图2口吃和言语流畅者(各12名)完成词汇判断任务时，(a)动宾短语边界处诱发脑电总平均波形，ERP分析起始点为动词(如\"理解\")结束位置;(b)偏正短语边界处诱发脑电总平均波形图，ERP分析起始点为助词(\"的\")结束位置。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "###插入图3### ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图3口吃和言语流畅者(各12名)完成结构判断任务时，(a)动宾短语边界处诱发脑电总平均波形,ERP分析起始点为动词(如\"理解\")结束位置;(b)偏正短语边界处诱发脑电总平均波形图,ERP分析起始点为助词(\"的\")结束位置。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 0 } { \\sim } 3 0 0 \\mathrm { m s }$ 时间窗：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "统计分析发现，中线上，边界的主效应显著, $F ( 1 , 2 2 ) = 2 4 . 2 8$ $p < 0 . 0 0 1$ $\\begin{array} { r } { \\mathfrak { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 5 2 5 , } \\end{array}$ 有边界 $\\cdot M = 0 . 3 4$ $S E = 0 . 1 5$ 相对于无边界 $( M = - 0 . 3 1$ $S E = 0 . 1 7 _ { \\cdot }$ 诱发了波幅更大的正成分。边界与结构的交互作用显著， $F ( 1 , 2 2 ) = 5 . 8 4 , p < 0 . 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 2 1$ 。简单效应分析表明，动宾结构有边界相比无边界没有诱发明显正效应， $F ( 1 , 2 2 ) = 2 . 6 3$ $p = 0 . 1 1 9$ ；而偏正结构有边界相对无边界诱发了正效应， $F ( 1 , 2 2 ) = 1 6 . 4 4 , p < 0 . 0 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 4 3 \\circ$ 任务、结构、边界和脑区交互作用显著, $F ( 2 , 4 4 ) = 5 . 8 4 , p < 0 . 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 1 5$ 。简单效应分析表明，在词汇判断任务中，动宾结构在后部有边界相对于无边界诱发了正效应， $F ( 1 , 2 2 ) = 4 . 4 2$ $p < 0 . 0 5$ ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 1 7$ ；偏正结构在前",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "部、中部和后部均诱发了正效应， $F ( 1 , 2 2 ) = 1 9 . 3 4 \\$ $p < 0 . 0 0 1$ $\\boldsymbol { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 4 7$ $F ( 1 , 2 2 ) = 1 7 . 4 5 , p <$ 0.001 $, \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 4 4 ; F ( 1 , 2 2 ) = 7 . 7 4 , p < 0 . 0 5 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 2 6 \\circ$ 在结构判断任务中，动宾结构在前部有边界相对于无边界诱发了正效应, $F ( 1 , 2 2 ) = 8 . 9 2 \\$ $p < 0 . 0 1$ $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 2 8$ ；偏正结构在前部 $[ F ( 1 .$ $2 2 ) = 8 . 3 3$ $p < 0 . 0 5$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 2 8 \\}$ 、中部 $[ F ( 1 , 2 2 ) = 4 . 8 9$ $p < 0 . 0 5$ $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 8 \\mathrm { ] }$ 和后部 $[ F \\left( 1 , 2 2 \\right) =$ 8.12, $p < 0 . 0 1$ $\\boldsymbol { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 2 7 _ { \\cdot }$ 均诱发了正效应。此外，被试与边界 $[ F ( 1 , 2 2 ) = 0 . 0 0 2$ $p = 0 . 9 6 8 ]$ 、被试与任务 $[ F ( 1 , 2 2 ) = 2 . 3 7$ $p = 0 . 1 3 8 ]$ 、被试与结构 $[ F ( 1 , 2 2 ) = 1 . 0 6 , p = 0 . 3 1 5$ 等交互作用皆不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在两侧，边界的主效应显著， $F ( 1 , 2 2 ) = 4 5 . 5 1 \\$ $p < 0 . 0 0 1$ $\\boldsymbol { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 6 7$ 。有边界 $M = 0 . 1 6$ $S E$ $= 0 . 0 8 \\rangle$ 相对于无边界 $( M = - 0 . 4 6 , S E = 0 . 0 7 )$ 诱发了波幅更大的正成分。边界与结构的交互作用边缘显著, $F ( 1 , 2 2 ) = 4 . 1 8$ $p = 0 . 0 5 3$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 1 6 ,$ 。简单效应分析表明，动宾结构和偏正结构有边界相对于无边界均诱发了正效应， $F ( 1 , 2 2 ) = 1 0 . 3 5$ $p < 0 . 0 0 5$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 3 2$ $F ( 1 , 2 2 ) = 2 9 . 6 9$ $p < 0 . 0 0 1$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 5 7$ 。被试、任务、结构、边界、半球和脑区交互作用显著, $F ( 2 , 4 4 ) = 7 . 5 3 , p$ $< 0 . 0 0 5$ ， ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 2 6$ 。简单效应分析表明，口吃者在词汇判断任务中，动宾结构仅在右半球的中部有边界相对于无边界诱发了正效应, $F ( 1 , 2 2 ) = 4 . 6 2 \\$ $p < 0 . 0 5$ $\\mathfrak { N } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 7$ ；偏正结构在左半球的前部和中部 $[ F ( 1 , 2 2 ) = 5 . 2 1$ $p < 0 . 0 5$ ${ \\mathfrak { \\eta } } _ { \\mathtt { p } } { } ^ { 2 } = 0 . 1 9$ $F ( 1 , 2 2 ) = 8 . 4 7$ $p < 0 . 0 1$ $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 2 8 ]$ 、右半球的前部和中部 $[ F ( 1 , 2 2 ) = 1 5 . 3 2 , p < 0 . 0 0 5 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 4 1 ; F ( 1 , 2 2 ) = 1 9 . 4 7 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { p } } ^ { 2 } = 1 . 3 2 ,$ 0.47]诱发了正效应。在结构判断任务中，偏正结构在右半球的前部和中部诱发了正效应， $F ( 1 .$ 号$2 2 ) = 6 . 9 8$ $p < 0 . 0 5$ $\\mathfrak { j } , \\mathfrak { \\eta } _ { \\mathtt { p } } { } ^ { 2 } = 0 . 2 4 ; F ( 1 , 2 2 ) = 9 . 1 1 , p < 0 . 0 1 , \\cdot$ ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 2 9$ 。言语流畅者在词汇判断任务中，偏正结构在左半球的前部 $[ F ( 1 , 2 2 ) = 7 . 9 1 \\$ $p < 0 . 0 5$ ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 2 7 ]$ 、右半球的前部和中部$[ F ( 1 , 2 2 ) = 1 4 . 7 9 , p < 0 . 0 0 5 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 4 0 , F ( 1 , 2 2 ) = 2 0 . 1 2 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 0 3 , T _ { \\mathrm { e m } } ^ { 3 } = 0 . 0 0 0 , T _ { \\mathrm { e m } } ^ { 4 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 5 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 5 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 8 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 3 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 6 , T _ { \\mathrm { e m } } ^ { 7 } = 0 . 0 0 0 6 .$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 4 8 \\boldsymbol ]$ 诱发了正效应。在结构判断任务中，动宾结构在左半球的前部和中部 $[ F ( 1 , 2 2 ) = 8 . 4 1$ $p < 0 . 0 1$ $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 2 8$ $F ( 1$ $2 2 ) = 6 . 9 3$ $p < 0 . 0 5$ $\\boldsymbol { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 2 4 \\mathrm { J }$ 、右半球的前部和中部 $[ F ( 1 , 2 2 ) = 9 . 5 6 \\$ $p < 0 . 0 1$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 3 0$ $F ( 1$ $2 2 ) = 1 4 . 8 4 \\$ $p < 0 . 0 0 5$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 4 0 ]$ 诱发了正效应；偏正结构在左半球的中部 $[ F ( 1 , 2 2 ) = 6 . 1 8 , p$ $< 0 . 0 5$ $\\mathfrak { \\eta } _ { \\mathrm { p } } ^ { 2 } = 0 . 2 2 \\}$ 以及右半球的前部、中部和后部 $[ F ( 1 , 2 2 ) = 5 . 1 9$ $p < 0 . 0 5$ $\\boldsymbol \\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . 2 0$ ；F(1,22)$= 6 . 3 5$ $p < 0 . 0 5$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 2 2$ $F ( 1 , 2 2 ) = 4 . 4 2$ $p < 0 . 0 5$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 1 7 ]$ 诱发了正效应。此外，被试与边界 $[ F ( 1 , 2 2 ) = 0 . 1 7$ $p = 0 . 6 8 1 ]$ 、被试与任务 $[ F ( 1 , 2 2 ) = 0 . 1 3 , p = 0 . 7 2 6 ]$ 、被试与结构 $[ F ( 1 , 2 2 ) =$ 2.28, $p = 0 . 1 4 6 ]$ 等交互作用皆不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "300\\~600ms时间窗：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "统计分析发现，在中线，边界主效应显著, $F ( 1 , 2 2 ) = 3 6 . 6 1 , p < 0 . 0 0 1$ $\\mathfrak { \\eta _ { \\mathtt { p } } } ^ { 2 } = 0 . 6 1$ 。有边界$M = 0 . 7 1$ $S E = 0 . 1 6 )$ 相对于无边界（ $M = - 0 . 6 9$ $S E = 0 . 1 4 ,$ 诱发了波幅更大的正成分。边界与脑",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "区交互作用显著, $F ( 2 , 4 4 ) = 1 0 . 0 7 , p < 0 . 0 0 5 .$ （20 $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 3 1$ 。进一步简单效应分析发现，有边界相对于无边界在前部 $[ F ( 1 , 2 2 ) = 3 4 . 1 1 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 6 1 ]$ 小中部 $[ F ( 1 , 2 2 ) = 4 3 . 2 2$ $p < 0 . 0 0 1$ $\\boldsymbol \\eta _ { \\mathrm { p } } ^ { 2 }$ $= 0 . 6 6 ]$ 和后部 $[ F ( 1 , 2 2 ) = 1 4 . 5 2 \\$ $p < 0 . 0 0 5$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 4 0 \\mathrm { \\bar { \\Omega } }$ 均诱发了波幅更大的正成分。被试与边界$[ F ( 1 , 2 2 ) = 1 . 7 2 5$ $p = 0 . 2 0 3 ]$ 、被试与任务 $[ F ( 1 , 2 2 ) = 1 . 7 3 7 , p = 0 . 2 0 1 ]$ 、被试与结构 $[ F ( 1 , 2 2 ) =$ 0.097, $\\begin{array} { r } { p = 0 . 7 5 8 ] } \\end{array}$ 等交互作用皆不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "双侧分析发现，边界主效应显著， $F ( 1 , 2 2 ) = 3 6 . 5 9 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { p } } ^ { \\ 2 } = 0 . \\dot { ? }$ 。有边界 $( M = 0 . 6 6$ $S E = 0 . 1 6 ^ { \\circ } ,$ 相对于无边界（ $M = - 0 . 5 3$ $S E = 0 . 1 1$ )诱发了波幅更大的正成分。边界与脑区交互作用显著, $F ( 2 , 4 4 ) = 2 4 . 1 6 , p < 0 . 0 0 1$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 5 2$ 。进一步简单效应分析发现，有边界相对于无边界在前部 $[ F ( 1 , 2 2 ) = 4 3 . 3 0 , p < 0 . 0 0 1$ ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 6 6 ]$ 、中部 $[ F ( 1 , 2 2 ) = 5 5 . 9 1$ $p < 0 . 0 0 1$ ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 7 2 ]$ 和后部 $[ F ( 1 , 2 2 ) = 4 . 7 4 \\$ $p < 0 . 0 5$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 8 \\mathrm { l }$ 均诱发了波幅更大的正成分。任务、边界和结构交互作用显著, $F ( 2 , 4 4 ) = 3 . 9 5$ $p < 0 . 0 5$ $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 5$ 。简单效应分析表明，在词汇判断任务中，动宾结构没有诱发正效应, $F ( 1 , 2 2 ) = 2 . 4 7$ $p = 0 . 1 3$ ，而偏正结构则诱发了正效应, $F ( 1 , 2 2 ) =$ 23.41, $p < 0 . 0 0 1$ ， $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 5 2$ ；在结构判断任务中，动宾结构和偏正结构都诱发了正效应, $F ( 1 ,$ （204号$2 2 ) = 1 7 . 0 2 , p < 0 . 0 0 1 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 4 4 ; F ( 1 , 2 2 ) = 1 1 . 6 5 , p < 0 . 0 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 3 5 ( \\mathrm { 4 } \\mathrm { U } )$ 图4所示)。被试与边界 $[ F ( 1 , 2 2 ) = 0 . 2 7$ $p = 0 . 6 0 7 ]$ 、被试与任务 $[ F ( 1 , 2 2 ) = 0 . 3 8$ $p = 0 . 5 4 5 ]$ 、被试与结构 $[ F ( 1 , 2 2 ) =$ 0.19, $p = 0 . 6 7 ]$ 等交互作用皆不显著。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "###插入图4### ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图4口吃和言语流畅者完成词汇判断任务(左)时，加工偏正结构短语的韵律边界时诱发明显正波；完成结构判断任务(右)时，二者在加工两种结构的韵律短语边界时均诱发明显正波。 $* * * _ { p } < 0 . 0 0 1$ $^ { * * } p < 0 . 0 0 5$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究通过给被试呈现成对的歧义短语，利用词汇判断和结构判断两种任务，考察口吃者和言语流畅者韵律边界加工的脑电效应及其影响因素。结果发现，口吃者和言语流畅者在加工汉语歧义短语过程中，所诱发的反映韵律切分的脑电成分CPS 不存在显著差异。在$0 { \\sim } 3 0 0 \\ \\mathrm { \\ m s }$ 时间窗内，在中线和两侧，口吃和言语流畅者加工动宾短语韵律边界诱发正效应的头皮分布范围小于偏正短语。在 $3 0 0 { \\sim } 6 0 0 ~ \\mathrm { m s }$ 这一时间窗口，中线上，口吃和言语流畅者在感知两类歧义短语内部边界时，在词汇判断和结构判断任务中均能诱发CPS。在两侧，尽管结构判断任务中两种结构短语均稳定诱发了CPS，但在词汇判断任务中只有偏正短语稳定诱发该效应。以上结果表明，口吃者和言语流畅者一样对口语韵律边界敏感，并且二者加工边界受到实验任务和短语结构的调节。以下将结合以往文献对当前结果进行讨论。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1口吃者韵律信息加工",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "一些研究者认为，听觉加工缺陷是造成口吃障碍的因素(Hall& Jerger，1978)。不过",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hampton 和Weber-Fox (2008)发现大部分口吃被试对非言语声音的反应都在正常范围，而只有小部分表现出异常。较早使用 ERP 对口吃者语言加工的研究表明，在不要求被试有外显的口语产生任务时，其语言加工相比言语流畅者表现出微妙的变化(Weber-Fox，2001;Cuadrado&Weber-Fox,2003;Weber-Fox etal.,2004)。比如，尽管口吃者和非口吃者对于潜伏期较早的、主要反映感觉、知觉过程的皮层电位(N100,N180,P200)不存在差别，口吃者诱发的内源性、较长潜伏期的 ERP 效应(如N400,P600,P300)在波幅上小于言语流畅者诱发的效应(Cuadrado& Weber-Fox,2003;Weber-Fox,2001;Weber-Fox et al.,2004)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究中，口吃和言语流畅者在加工歧义短语内部的韵律边界时，均会稳定诱发相似的反映边界加工的脑电效应CPS。这表明，口吃者和言语流畅者在加工边界信息过程中表现出类似的神经过程。本研究结果与 Bosshardt,Ballmer 和de Ni(2002)的行为结果一致。在他们的研究中，口吃者和言语流畅者对韵律信息(押韵)的判断不存在反应时和正确率的差别。与Weber-Fox等人的ERP研究结果也类似，即口吃和言语流畅者加工押韵信息时，诱发脑电效应波幅和潜伏期不存在差别(Weber-Fox et al.,2004)。尽管口吃者在言语产生过程中会出现音节延长，不合适的停顿插入等与边界相似的声学特点，但是在边界感知过程中与正常人无差别。结合以往研究，这一方面可能说明口吃者的韵律信息加工与正常人相似，另一方面当前结果可能与实验材料呈现方式和任务有关。在本研究中，实验整个过程对被试没有任何发音要求，只要他们认真听材料并在听完后做出按键反应即可。以往一些研究将视觉材料呈现给被试，尽管也没有直接的发音要求，但是阅读会包含对汉字/字母词汇通达过程的音系编码，也可能包括默读、复述或者内部言语这样的过程(Baddeley,1992)。因而，口吃者在加工句法，语义和音韵信息方面会与正常人存在一定程度的差别(Weber-Fox,2001;Cuadrado& Weber-Fox,2003;Weber-Fox etal.,2008;Corbera et al.,2005)。此外，口吃者语言不流畅与词汇提取、认知监控等因素有关，他们在认知负荷增加或者存在句法/语义违反的情况下，其语言加工能力更容易与正常被试表现出差别(Cuadrado&Weber-Fox,2003)。边界加工更多涉及对音高、时长等声学参数的加工，本研究的任务设置也不涉及以上认知负荷增加的情况。因此，至少在不需要外显发音任务的情况下，口吃和言语流畅者音系编码系统相似。在本研究中，口吃者言语产生上的障碍不会表现在言语感知过程中，说明人类言语产生和理解过程涉及的认知和神经基础存在差别。未来，通过给口吃和言语流畅者视觉呈现逗号的方式，探讨他们内隐韵律边界加工的认知过程，有可能发现二者的差别。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2歧义短语内部边界的加工及其影响因素",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究使用汉语动宾/偏正歧义短语作为实验材料，在其内部边界探测到了反映韵律切分的特定性脑电成分CPS。以往研究发现，汉语句子和绝句内部的韵律边界会稳定诱发该成分(Li&Yang,2009,2010;李卫君，杨玉芳,2010)。本研究将诱发CPS 的条件进一步扩展到了歧义短语内部。这进一步表明，只要听者将连续的语流切分成相对独立的单元，就会诱发CPS 这一成分，与切分的韵律单元大小无关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以往也有研究者在短的、非句子的短语内部序列(如，Mona orLena and Lola)观察到了CPS，只是其诱发依赖于边界出现的位置(Holzgrefe etal.,2013)。具体表现为，较晚的边界(如,Lena 之后)诱发了CPS，而较早的边界(如，Mona 之后)则没有诱发。研究者认为韵律边界的加工在某种程度上依赖于边界前面的背景信息。本研究中，口吃和言语流畅者在加工两类歧义短语韵律边界时则诱发了该效应。这可能是因为，本研究使用的歧义短语可以明确区分为两种显著不同的句法结构(动宾/偏正)。此外，Holzgrefe 等人(2013)的研究中使用的材料会重复呈现，并且没有设置实验任务(只要求被试认真听实验材料，并避免眨眼和其他身体动作)。这可能导致听者没有充分加工实验材料的句法/韵律结构，从而一定程度上削弱被试对实验材料的关注和切分。本研究中，每个被试听到的所有实验材料不重复，为了完成实验任务(词汇判断或者结构判断)，他们需要认真听成对呈现的歧义短语，从而某种程度上促使被试对韵律边界进行了较为精细的加工。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究发现，口吃者和言语流畅者在词汇判断和结构判断任务中都诱发了CPS。以往研究发现，不管是要求听者理解实验刺激的意义(Steinhauer et al.,1999;Li& Yang.,2009)、探测一个词汇(Pannekamp et al.,2005)、被动听(Peter et al.,2014)、或者完成节奏匹配任务(Li&Yang,2010)，均能稳定诱发该效应。本研究与以往的研究结果一致，不论要求被试关注韵律信息(结构判断任务)，还是不关注韵律信息(词汇判断任务)，在相应韵律边界都可以诱发CPS。这表明口吃者和言语流畅者对韵律边界信息非常敏感，并以一种高度自动化地方式对其进行加工。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "不过，结合统计结果及其诱发的脑电效应(如图2\\~4 所示)来看，尽管口吃和言语流畅者在两个时间窗口的两种任务中，偏正和动宾结构两种短语均可以诱发CPS，但是又表现出一些具体的特点。具体而言，在 $0 { \\sim } 3 0 0 ~ \\mathrm { m s }$ 时间窗内，不论是中线还是两侧，口吃者和言语流畅者加工两种类型短语时，动宾短语韵律边界诱发正效应的头皮分布范围小于偏正短语(口吃者完成结构判断任务以及言语流畅者完成词汇判断任务时，动宾短语内部韵律边界没有诱发正效应，详见统计结果部分)。在 $3 0 0 { \\sim } 6 0 0 ~ \\mathrm { m s }$ 这一时间窗口，中线上，口吃和言语流畅者在感知两类歧义短语内部边界时，在词汇判断和结构判断任务中均能诱发CPS。在两侧，尽管结构判断任务中两种短语均稳定诱发了CPS，但在词汇判断任务中只有偏正短语稳定诱发该效应。以上结果表明，人们在各种情况下都会对听觉输入的言语信息进行韵律切分，而且这一过程在标记韵律边界的重要线索(无声段)出现之前已经开始(在 $0 { \\sim } 3 0 0 ~ \\mathrm { m s }$ 有边界相对于无边界条件已出现正效应)。这可能与歧义短语内部韵律边界主要通过边界前音节延长实现有关(如图1所示)。另一方面，总体而言当实验任务引导被试的注意力关注韵律信息时，会引起口吃和言语流畅者更强的韵律切分感，从而诱发更强的正效应(主要表现在300\\~600 ms这一时间窗口)。此外，研究结果似乎表明人们对偏正结构短语内部边界更加敏感。以往研究发现人们会倾向于将动宾/偏正歧义短语理解为偏正短语(Wei etal.,2016；张亚旭等,2000)。我们使用的歧义短语可以同等理解为动宾和偏正两种结构(见Lietal.,2010)。然而在较早时间窗口中，动宾短语诱发正效应的分布范围小于偏正短语，并且在口吃者完成结构判断任务以及言语流畅者完成词汇判断任务时，动宾短语内部韵律边界没有诱发正效应；在较晚时间窗口，动宾短语在两侧并没有稳定诱发正效应，而偏正短语始终能稳定诱发CPS。综上，本研究表明实验任务和句法结构虽然对诱发CPS不会起决定性作用，但是都会对其产生影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后，本研究中韵律边界诱发的CPS尽管为全头分布，但是总体而言在前中部波幅更大，这与以往研究结果一致(Holzgrefe et al.,2013;Pannekamp et al.,2005;Li& Yang,2010)。这些研究的一个共同特点是，研究者们都使用了具有最小语义内容的材料。具体而言,Li和 Yang(2010)使用了不熟悉的绝句作为实验材料，Pannekam 等人(2005)使用了所谓的无意义句(jabberwocky sentences，即去除了句法和语义内容的句子)。Holzgrefe 和她的同事(2013)则使用了由连词连接起来的六个名字。与这些研究结果一致，本研究的歧义短语可能也在某种程度上是以一种无语义内容的方式加工的。也就是说，听者并不会深入分析歧义短语的语义内容，而更多是根据要求完成具体的实验任务。CPS 的头皮分布受到实验材料的影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究采用 ERP 技术，使用汉语歧义短语作为实验材料，考察口吃者和言语流畅者完成词汇判断和结构判断两种任务过程中，加工韵律边界的认知过程和影响因素。结果发现，在完成两种任务过程中，口吃和言语流畅者加工偏正和动宾短语内部韵律边界可以诱发CPS，且不存在显著差异。在较早时间窗口( $\\mathrm { 0 { \\sim } 3 0 0 ~ m s } ,$ ，边界加工受到短语结构类型的影响，动宾短语内部韵律边界诱发正效应分布范围小于偏正短语。在较晚时间窗口 $( 3 0 0 { \\sim } 6 0 0 \\ \\mathrm { m s } ) ,$ ，中线上，口吃和言语流畅者在完成两种任务过程中，感知到两类歧义短语内部边界时均能诱发CPS。在两侧，尽管结构判断任务中两类短语均稳定诱发了CPS，但在词汇判断任务中只有偏正短语稳定诱发该效应。综上，本研究表明口吃者和言语流畅者对韵律边界加工有相似",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "的敏感性，并且他们加工歧义短语内部韵律边界时，所诱发脑电效应受到实验任务和短语结构类型的影响。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Baddeley,A.(1992).Working memory.Science,255(5044),556-559.   \nBogels,S.,SchriefersHVonk,W,Chwill,D.J.,&Kerkhofs,R.(Ol).heinterplaybetwenprosodyandsytaxinstence processing: the case of subject-and object-control verbs.Journal of Cognitive Neuroscience,22(5),1036-1053.   \nBoshardt,H-Galler,W,&deNil,L.o).fctsfaegorydedecisiosonenteceroductioJoualofe Language,and Hearing Research,45,844857.   \nChang,S.,Kenney,M.KLoucksT..J,&Ludlow,C.L.(o).Braiactivationabnormalitiesduringspeechando-spchin stuttering speakers.Neurolmage,46 (1),201-212.   \nChang,S.E,rwitz,Ostun,Jeyolds,,&uow,C..().videnceofleftiferiorfrotalpremotorsrucual functional connectivity deficits in adults who stutter. Cerebral Cortex,21(11),2507-2518.   \nChristophe,A,pe,lle,Cock,E).ogiclseoudssrainlal Adult data. Journal of Memoryand Language,51(4),523-547.   \nCorbera,S.,al,.eaCbal,()olscoepeeaoiesisttetal stuttering. Neurology,65(8),1246-1252.   \nCuadrado,E.,&WbeFoC..3).tycalcticrossgidiualsuterviefontad potentials and behavioral measures.Journal of Speech Language & Hearing Research,46,960-76.   \nCykowskiM.D,FoxP.,ga,R.Jga,J.C,obinD.().Atudyoftheproucblitndeiolgi anisotropydifferences indevelopmentalsutering:Apotentialoleforimpairedmyelination.Neuroimage,52(4),495-1504.   \nDorman,M.F,&orterJ,RJ.(97).Hemspericlatralzationforspechpercetionisuterrs1.Cortex(2)-85.   \nEtchell，A.C.,Civier,O.,Ballard,K.J.,&SowmanP.F(2O17).Asystematicliteraturereviewofneuroimagingresearchon developmentalstuttering between1995and2016.Journal ofFluencyDisorders,55,6-45.   \nFoundas,A.LreyD.,rley.,&anK..(o).Vrbaloticlsteningieveloentaluerigo with atypical auditory processing.Cognitive&Behavioral Neurology,17(4),224-232.   \nFox,P.T.IgJaJ.CrscT.os,rtnCrabkPas,T,aseJ.L). study of the neural systems of stuttering. Nature,382,158-162.   \nGiraud,AL,euman,KBchod-Levi,.ConGdenberg,.ulerH.Lferan,H,&reibish,C.(o8)if dysfluencycorelateswithbasalgangiaactivityinpersistentdevelopmentalstuttering.BrainandLanguage.04(2)190-99. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Hall,JW.,&rger,J.(978).Ctraitoryctioitutesoualofech&Heringeseach,()3. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Hannley,M.,&Dorman,M.F.(1982).Somebservatiosonuditoryfuctionandstutering.JouralofFuencyDisoders,(1), 93-108.   \nHolzgrefe,H,Wellmann,C,etrone,Cuckenbrodt,Hle,B.,&Wartenburger,().raresponsetprosodicdar cues depends on boundary position. Frontiers in Psychology,4(14),1-14.   \nHowel,P.,isl,.()df Fluency Disorders,31(4),57-70.   \nKerkhofs,R.,Vonk,W.Schriefers,H.,&Chwill,D.J.(oo7).Discourse,syntax,andprosody:thebrainrevealsanimmediate interaction.Journal ofCognitiveNeuroscience,19(9),1421-1434.   \nKjelgaard,M.,Sr,S..99).ooiccilterfeceisolofaraicosueit Journal ofMemory&Language,40(2),153-194.   \nKnosche,T.RhusC,eiseJlterK,sB.iteW&Fedeici..).Peeptioe in music. Human Brain Mapping,24(4),259-273.   \nLi,W.,&YangY.(Oo7).Prosodicresolutionofsyntacticambiguity:Fromthepointofviewof speakerandlistener.Advancesin Psychological Science,15(2),282-287.   \n[李卫君,杨玉芳.(2007).从讲话者和听话者两个角度看韵律的句法解歧．心理科学进展,15(2),282-287.]   \nLi,W.,&Yang,Y.(2).PerceptionofprosodichierarchicalboundariesinMandarinChinesesentences.Neuroscience,58(4), 1416-1425.   \nLiW.,&YangY).eogiiveprocessgofproodicoundarydtselatdraiefctiuatrActasyhogiciica 42(11), 1021-1032.   \n[李卫君，杨玉芳.(2010).绝句韵律边界的认知加工及其脑电效应.心理学报,42(11),1021-1032.]   \nLi,W.,&Yang,Y.(olo).PerceptionofChinesepoemand itselectrophysiological efects.Neuroscience,68(3),57-768.   \nLi,X.Q.YangY.F,&Lu,Y.().Howndeprosdicboudarsifencestacticparingudedirentdisousetets: anERP study.BiologicalPsychology,83(3),250-259.   \nLincoln,M.,ackman,A,&OslowM.(o).lereduditryfbackadhetreamentofstutering:review.JournalfFuency Disorders,31(2),71-89.   \nLiu,B.,Wang,Z,&Jin,Z.(2Olo).TheefectsofpunctuationsinChinesesentencecomprehension:anERPstudy.Journalf Neurolinguistics,23(1),66-80.   \nNan,Y.,Knosche,T.R,&iederiA.D.(o).Theperceptionofmusicalphasestructure:ro-ulturalERPstudy.Brain Research,1094(1),179-191. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Pannekamp,.lUe,deci)odreese potential study.JournalofCognitiveNeuroscience,17(3),407-421.   \nPeter,V.,Mcarthur,G.&Crain,S.(2Ol4).Usingevent-relatedpotentialstomeasurephraseboudaryperceptioninEnglish.Bmc Neuroscience,15(1),1-11.   \nRamus,F.,Hauser.D,iler,C,os,D,&eler,J.(o).Lnguagedisciminationbyumannebosndbyoop tamarinmonkeys.Science,288,349-351   \nSalverda,A.P.Dahan,D,&McQuee,JM.(o).Theoleofprosodicboudarsinteresolutionoflexicaembedinginse comprehension. Cognition,90(1),51-89.   \nSchepman,A.,&odayP.(o).rosodydparsingioodinationtructures.eQuarterlyJualofExperimentalolog 53(2), 377–396.   \nShatuck-Hufnagel,S.&Turk,A.E.(1996).Aprosodytutorialforinvestigatorsofauditorysentenceprocessing.Journalof PsycholinguisticResearch,25(2),193-246.   \nSmith,A.,&Weber,C.(O17).Howtutengdvelos:theulifctoialdamicpathaystory.JoualofSpechndLgage Hearing Research,60(9),2483-2505.   \nSteinhauer,KeK,deici.(9)otalsatteefodciurasphi Nature Neuroscience,2(2),191-196.   \nSteinhauer,K,&FidericiA.D.o).roodicoudariesomulesdaiesposethosurepositieifti universalmarker forprosodicphrasing inlistenersandreaders.JournalofPsycholinguistic Research,30(3),267-295.   \nWeber-FoxC.(2Ool).Neural systems forsentenceprocessnginstutering.JournalofSpeechLanguage&HearingReseach44(4), 814–825.   \nWeber-Fox,C&amto,A.(o).SuteingandatualspeechroceingofsmanticdsacticstraintsbsJoual of Speech Language & Hearing Research,51(5),1058-1071.   \nWeber-Fox,Ce..Crill,JE,i.)oocossiulsur:ecica and behavioral evidence.Journal of Speech Language& Hearing Research,47(6),1244-1258.   \nWei,H.,ogYd,,aF).calgdrtsteacieteei Frontiers inPsychology,7(45),1-9.   \nWorldHealthOrganization.(2Olo).Internationalstatisticalclasificationofdiseasesandrelatedhalthproblems.Retrievedfrom $\\prec$ http://apps.who.int/clasifications/icd10/browse/2010/en#/F98.5>.   \nYairi,E.,&Ambrose,N.(3).Epidemiologofseing:stceturydvancs.JoualofFencysoders,8()687   \nYang,X.,hen,XLiW,ang,Y.O4).Holstensweighacousticuettonaioalasoundaries.PloOne9(),9. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Yarus,J.S.,Qusal.W.().Overallessmntofeeaker'spenceofueng(E):dmeingile outcomes in stuttering treatment.Journal of Fluency Disorders,31(2),90-115.   \nZhang,J.,Jiang,C,Zhou,L,&YangY.(2O16).Perceptionofherarchicalboundariesinmusicanditsmodulationbyexpertise. Neuropsychologia,91,490-498.   \nZhang,Y.,Zhang,H,&hu,H().AstudyontheprocesingofambiguousphasesinCinese.ActaPsychologicanca,(), 13-19. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Neural processing of ambiguous Chinese phrases of stutters ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "LIWeijun;LIUMeng;ZHANG Zhenghua;DENGNali;XING Yushan ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(Research Center of Brain and Cognitive Neuroscience,Liaoning Normal University,Dalian 116O29,China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Prosodic boundary is an integrative part of spoken language that segments ongoing uterance into prosodic units.These boundaries are correlated with the perception of a pause,a lengthening of the pre-boundary syllable and tonal movement at the end of the phrase.Stuttering is characterized by involuntary disruptions in the flow and rhythm of speech,which was reflected by repetitions of words,sounds or syllables,prolongations and silent blocks.Behavioral response and neural processing results in the past few years indicated that adults who stutters exhibit processing differences compared with fluent speakers during syntactic,semantic and phonological (rhyme) processing. However, existing studies did not examine whether stutters encounter dificulty during perception of prosodic boundary. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The present study aims to explore how stutters and fluent speakers process prosodic boundary of ambiguous Chinese phrases (Verb NP1 Aux NP2) in lexical and structural judgment task using ERPs.We used 168 typical ambiguous Chinese phrases as experimental materials. These phrases were temporarily ambiguous between modifier-noun construction (MNC）and narrative-object structure (NOS).Eighty-four phrases without ambiguity were used as fillers. Twenty-four (2O males) undergraduates/graduates participated in the experiment. They were told ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "to listen carefully to pairs of phrase in two sessions with the same materials.In session one, they completed a lexical judgment task (to determine whether a visually presented word appeared in the pairs of phrase they heard),while in session two they were asked to complete a structural judgment task (to judge whether the pairs of phrase they heard belong to one kind of structure or not).Electrophysiological data were recorded by a set of 64 electrodes from eegmagine (ANT Neuro)according to the extended 10-20 positioning system.EEG data were time-locked to the offset of verb and Aux (de) of the first phrase using a lOO-msec pre-stimulus baseline and an averaging time window of 8OO msec.We selected two time windows (O-3oO ms and $3 0 0 { \\ - } 6 0 0 ~ \\mathrm { m s } ^ { \\cdot }$ 0 for statistical analysis in the midline and lateral areas. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "During $0 { - } 3 0 0 ~ \\mathrm { m s }$ ，we found that prosodic boundary (v.s.non-boundary） elicited positivity in the midline, $F \\left( 1 , 2 2 \\right) = 2 4 . 2 8 \\$ $p < 0 . 0 0 1$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 5 2$ ,and lateral areas, $F \\left( 1 , 2 2 \\right) = 4 5 . 5 1 , _ { I }$ $p <$ 0.001, $\\boldsymbol { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 6 7$ .Besides,the interaction between Structure and Boundary was significant in the midline, $F \\left( 1 , 2 2 \\right) = 5 . 8 4$ $p < 0 . 0 5$ $\\boldsymbol { \\eta _ { \\mathrm { p } } { ^ 2 } = 0 . 2 1 }$ ,and lateral areas, $F \\left( 1 , 2 2 \\right) = 4 . 1 8$ $p = 0 . 0 5 3$ $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } =$ 0.16.Simple efect analysis indicated that prosodic boundary elicited positive efect for MNC in the midline,while in the lateral areas prosodic boundary elicited positivity for both of NOS and MNC, $F \\left( 1 , 2 2 \\right) = 1 0 . 3 5 \\$ $p < 0 . 0 0 5$ $\\mathfrak { \\eta } _ { \\mathtt { p } } { } ^ { 2 } = 0 . 3 2$ $F \\left( 1 , 2 2 \\right) = 2 9 . 6 9 \\$ $p < 0 . 0 0 1$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 5 7$ During $3 0 0 { - } 6 0 0 \\ \\mathrm { m s }$ ，we found that prosodic boundary (v.s.non-boundary） elicited positivity in the midline, $F \\left( 1 , 2 2 \\right) = 3 6 . 6 1 \\$ $p < 0 . 0 0 1$ ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 6 1$ ,and lateral areas, $F \\left( 1 , 2 2 \\right) = 3 6 . 5 9$ $p < 0 . 0 0 1$ ${ \\mathfrak { n } } _ { \\mathfrak { p } } ^ { 2 }$ $= 0 . 7 1$ .Besides,the interaction between Region and Boundary was significant in the midline, $F$ (2, $4 4 ) = 1 0 . 0 7$ $p < 0 . 0 0 5$ ， $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 3 1$ ,and lateral areas, $F \\left( 2 , 4 4 \\right) = 2 4 . 1 6$ $p \\textless 0 . 0 0 1$ ， $\\boldsymbol \\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 5 2$ # Simple effect analysis indicated that although the positivity elicited by prosodic boundary was broadly distributed in the whole scalp area,it was prominent in frontal-central area.More importantly,the interaction between Task,Boundary and Structure was significant in the lateral area, $F \\ ( 2 , \\ 4 4 ) = 3 . 9 5$ ， $p \\ < \\ 0 . 0 5$ ， ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 5$ .Simple efect analysis indicated that in lexical judgment task, prosodic boundary of MNP elicited positive shift, $F \\left( 1 , 2 2 \\right) = 2 3 . 4 1$ $p < 0 . 0 0 1$ $\\boldsymbol \\eta _ { \\mathrm { p } } ^ { 2 }$ $= 0 . 5 2$ ,but NOS didn't, $F \\left( 1 , 2 2 \\right) = 2 . 4 7$ $p = 0 . 1 3 1$ .However,prosodic boundaries of both MNP and NOS elicited positive effect in structure judgment task, $F \\left( 1 , 2 2 \\right) = 1 7 . 0 2 , p < 0 . 0 0 1 ,$ $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 4 4$ $F \\left( 1 , 2 2 \\right) = 1 1 . 6 5 , p < 0 . 0 0 5 , { \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 3 5 .$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Overall, we found that stuters and fluent speakers exhibit similar neural process during prosodic boundary processing.This finding was reflected by the fact that the stable CPS was elicited by ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "prosodic boundaries of both MNP and NOS.The positive effect elicited by MNC in an earlier time window was distributed more broadly in scalp than that elicited by NOS in both kinds of task.In a later time window,prosodic boundaries of both MNC and NOS elicited the stable CPS regardless of the kind of experimental task in the midline.In the lateral areas,the CPS was detected in the prosodic boundary of MNC in both kinds of task,whereas the CPS was stably observed at the boundary of NOS in structure judgment task.In conclusion,we contend that stuters and fluent speakers are both sensitive to prosodic boundary and their processing was influenced by the structure of ambiguous phrases and experimental task. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key wordsstutter;prosodic boundary;ambiguous phrase; CPS ",
+        "page_idx": 19
+    }
+]

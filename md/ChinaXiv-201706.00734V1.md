@@ -1,0 +1,114 @@
+# Effects of Vortex Generator on Cylindrical Protrusion Aerodynamics
+
+Vignesh Ram P. S.1, Toshiaki Setoguchi², Heuy Dong Kim
+
+1. School of Mechanical Engineering,Andong National University, Andong, Korea   
+2.Department of Mechanical Engineering, Saga University, Japan
+
+$\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016
+
+Experimental and numerical studies were carried out to evaluate the effect of vortex generator on a smal cylindrical protrusion at Mach number 2.0.The experiments were performed using the supersonic blow down wind tunnel on different heights of cylindrical protrusion with vortex generator placed ahead of them.The upstream and downstream flow around the cylindrical protrusion is influenced by vortex generator as is observed using both visualization and pressure measurement techniques.Numerical studies using three dimensional steady implicit formulations with standard k-@ turbulence model was performed.Results obtained through the present computation are compared with the experimental results at Mach 2.0. Good agreements between computation and experimental results have been achieved.The results indicate that the aerodynamic drag acting on cylindrical protrusion can be reduced by adopting vortex generator.
+
+# Keywords: Cylindrical protrusion, Vortex generator,Shock wave boundary layer interaction,Drag control
+
+# Introduction
+
+High speed flow around anyprotrudedobstaclesleads to a Shock Boundary Layer Interaction (SWBLI).Even though the design version is streamlined, the production versions of any aerospace vehicle always consist of sev eral kinds of protrusions all over their external surface The presence of these protrusions can alter the surface pressure distribution and generate adverse pressure gradient due to shock boundary layer interaction.Due to the presence of this adverse pressure gradient ahead of protrusion, the incoming boundary layer may separate leading to a complex phenomenon in the vicinity of protrusion.The bow shock contributes towards the drag of the whole body and the Shock Wave Boundary Layer Interaction can lead to larger structural loading on adjacent surfaces.Although many researchers contributed towards different geometries of protrusion, the height effect was not always considered as one of the main geometric pa rameters.In case where the height of protrusion is very small or is of the same order of local boundary layer thic kness, the effect of height of the protrusion in the vicinity of flow field cannot be neglected.Westkaemper[1] pro posed an empirical relation to obtain the separation distance ahead of a cylindrical protrusion for different diameter and heights at different Mach numbers. Sedney [2, 3] performed extensive flow visualization studies and reported the results of different size of cylindrical protrusions.
+
+The extent of upstream separation distance is mainly caused by the height of protrusion,the incoming boundary layer thickness (δ) and the freestream Mach number [4,5].The effect of short protuberances on interactive flow field at hypersonic speed was studied by Su-xun Li et.al[6]. Interaction of three dimensional protuberances with a supersonic turbulent boundary layer was studied by extensive numerical simulation with Hybrid RANS/ LES model by A.Frendi[7]. To control this shock wave boundary layer interaction flow field which also occurs in supersonic inlets and normal shock interaction with
+
+# Nomenclature
+
+<html><body><table><tr><td>Ap</td><td>vortex generator incidence angle</td><td>C</td><td>vortex generator chord length (mm)</td></tr><tr><td>Cp</td><td>coefficient of pressure</td><td>y+</td><td>non-dimensional distance</td></tr><tr><td>CD</td><td>coefficient of drag</td><td></td><td></td></tr><tr><td>D</td><td>diameter of cylindrical protrusion (mm)</td><td>Greek letters</td><td></td></tr><tr><td>H</td><td>height of cylindrical protrusion (mm)</td><td>△y</td><td>first cell distance</td></tr><tr><td>Hvg</td><td>height of vortex generator (mm)</td><td>@</td><td>specific dissipation rate (m²/s)</td></tr><tr><td>M8</td><td>FreestreamMach number</td><td>8</td><td>boundary layer thickness (mm)</td></tr><tr><td>X</td><td>stream-wise direction measured from cylinder center</td><td>Subscripts</td><td></td></tr><tr><td>Y</td><td>normal direction measured from cylinder center</td><td>vg</td><td>vortex generator</td></tr><tr><td></td><td></td><td>C</td><td>cylinder</td></tr><tr><td>Z</td><td> span-wise direction measured from cylinder center</td><td>8</td><td>freestream</td></tr></table></body></html>
+
+the boundary layer, several active and passive methods have been employed like bleeding of boundary layer, adopting vortex generator(VG） etc.VG is one of the physically robust passive methods which creates streamwise counter rotating vortices to energize the boundary layerand mainly helps in delaying the separation.
+
+But there is also a possibility of reducing the aerodynamic drag by altering the flow field around the protru sion. The smaller VGs are characterized by heights less than or equal to the flow boundary layer thickness and have been referred to as“low -profile”or“micro”VGs, particularly,micro-vanes and micro-ramps. Control of SWBLI using an array of micro-vanes and micro-ramps was reported by Anderson et al. [8]. He also demonstrates the Response surface Methodology (RSM) to determine the optimal designs of micro-array actuation for controlling the SWBLI.Experimental surface separation pattern is obtained by Babinsky[9],in which a series of distinct accumulated oil lines mark the location of separation lines.Using his experimental results of flow separation,a vortex model was derived.The vortex system around VG consists of 4 pairs of vortices,i.e.,the horse shoe vortex due to the leading edge separation of VG, the primary vortex by VG, two secondary vorticesunder the primary vortex - one lies on the bottom of the plate and the other lies at the side of VG. Lu et al.[1O] reported experimental and numerical investigation on several types of micro-VG at supersonic speeds.
+
+Detailed study of flow interactions with micro-ramps on a supersonic boundary layer at $\mathrm { M } { = } 3 . 0$ was investigated using monotone integrated Large Eddy Simulation (MILES) and Reynolds Averaged Navier-Stokes (RANS) by Loth and Lee [11].Ramp induced interaction studies were carried out using micro-vortex generators by Pierce et al.[12] who studied the flow features of micro-VG with 1-inch diameter circular cylinder by conducting fluorescence surface flow visualization.Galbraith [13] investigated on the control of shock wave boundary layer interaction using multi row micro-ramp actuators and it was able to improve the boundary layer health downstream of the separation.
+
+In the present study,an attempt has been made to utilize the advantage of vortex generator to avoid flow separation due to shock wave boundary layer interaction ahead of the protrusion with a possibility of reducing the pressure drag due to protrusion. The effect of protrusion height on the flow features around a cylindrical protrusion is computationally investigated.
+
+# Experimental Techniques
+
+The experiments are performed using a Supersonic blow-down Wind Tunnel available at BirlaInstitute of Technology,Mesra, India. The test section was of the size of $5 0 \times 1 0 0 \mathrm { m m }$ giving a freestream Mach number of 2.0. Flow into the tunnel was established using a pressure regulated solenoid valve of $2 0 \ \mathrm { c m }$ diameter. Settling chamber pressure of $3 . 0 8 { \times } 1 0 ^ { 5 } ~ \mathrm { ~ N } / \mathrm { m } ^ { 2 }$ was maintained which corresponds to freestream Reynolds number of $3 . 6 \times 1 0 ^ { 7 }$ per meter. The pressure in the settling chamber was measured using a pressure transducer (Make Sensym. Model ASCX15oDN). Tests have been made on a cylindrical protrusion with vortex generator placed ahead of the protrusions.The cylindrical protrusion had a diameter (D) of $2 4 ~ \mathrm { m m }$ and height $\mathrm { ( H _ { c } ) }$ of 3,6 and $9 \mathrm { m m }$ . The ramp type vortex generator model has a height $\mathrm { ( H _ { v g } ) }$ of $3 \mathrm { m m }$ chord length of $1 2 ~ \mathrm { m m }$ ，and ramp angle of12 deg. The vortex generatorwasplacedata distanceof2.5times the diameter (D） ahead of the protrusion.To capture the overall flow field, standard schlieren flow visualization technique was adopted. Oil flow visualization tests were conducted to obtain the surface flow patterns.Streak of flow on the surface plate was obtained by making use of a suitable mixture of Titanium dioxide,Oleic acid and lubricating oil. The oil flow patterns and schlieren flow photographs were captured using a digital camera (Model:
+
+Sony DSLR A10oK). Static pressures were measured at 15 locations ahead of the protrusion by providing pres sure ports of $0 . 8 \mathrm { m m }$ diameter on the surface plate,which were suitably connected to a 32 channel Electronic Pressure Scanner (Make: SCANCO,Model: ZOC $2 2 \mathrm { B } / 3 2 \mathrm { P x }$ ） Data was acquired using NI DAQ,LabVIEW software and a PC based Data Acquisition System. The details of the experimental set up are given in Ref[14]. The summary of the experimental test cases are tabulated in Table 1.
+
+# Numerical Techniques
+
+Three dimensional structured grid was created using ICEM CFD.The dimensions of the grid were based on the diameter of the cylinder (D). The length,width and height of the domain are 35D,12.5D and 12.5D respectively. The schematic of CFD domain along with boundary condition is shown in Fig.1.The close up view of grid over the model is shown in Fig.2. The origin was fixed at the center of the cylinder. Although the vortex generator geometry was simple,the computational grid, which fills the immediate surrounding volume,can be challenging to build, especially for one using a conventional structured hexahedral grid generator. The triangular shapes and sharp corners can lead to highly skewed cells adjacent to the device.In addition, the oblique induced shock can be difficult to resolve because it is usuallynot aligned with either family of grid lines.Many investigators use hybrid grids and/or over-set grids to overcome these difficulties [13].
+
+Table1Summary of experimental test cases   
+
+<html><body><table><tr><td></td><td>Hc, mm</td><td>H/D H/8</td></tr><tr><td>Case 1</td><td>3 0.125</td><td>1</td></tr><tr><td>Case 2</td><td>6</td><td>0.250 2</td></tr><tr><td>Case 3</td><td>9</td><td>0.375 3</td></tr><tr><td>Case 4</td><td>Vortex generator : Hvg=3 mm, c = 12 mm,Ap= 12°</td><td></td></tr></table></body></html>
+
+![](images/cb131c3b47b90714b7207f967513f87f83f74e5e4b19dd617da688353347151a.jpg)  
+Fig.1 Schematic of CFD domain with boundary condition
+
+![](images/9f6b0c39e0ec02b943e3fee2c14ec0ce2a5cc069a075f50ae2e67c8e49bf3756.jpg)  
+Fig.2Close-up view of grid around cylinder and cylinder with VG
+
+In this study, Icem-CFD was used to produce multi block structured grid. The first cell size of the grid adjacent to the bottom wall was $\Delta \mathrm { y } = 0 . 0 0 1$ having wall $\mathbf { y } + { } =$ 0.26.The overall cell count in the flow domain for cy linder was $1 0 0 \times 7 5 \times 6 5$ and for cylinder with vortex generator was $1 0 0 \times 7 5 \times 8 5$ approximately. The base of the computational domain was taken as no-slip wall boundary condition.Pressure inlet and pressure outlet boundary conditions were adopted for inflow and outflow boundaries. The top and side stream was taken as pressure far-field boundary condition.Walls of the cylinder and VG are considered as no-slip wall boundary condition.
+
+Compressible three dimensional numerical simulations were made to obtain the flow field around cylindrical protrusions and with vortex generator at various Mach number using commercial CFD solver Ansys FLUENT.A density based coupled implicit formulation was used to solve the general equations of continuity, momentum and energy along with equation of state of gas.For the present computation k-@ turbulence models was used. The standard k-@ turbulence model uses two transport equations to solve turbulence parameters along with the general equation.Fluent uses finite volume method ideally suited for both compressible and incompressible flows.The 3D multi block structured mesh was created around the cylindrical protrusion with VG. The Advection Upstream Splitting Method (AUSM) was used for solving conservation equations. This flux splitting method has an advantage over ROE flux splitting in terms of capturing of shock and discontinuities. The governing equations were solved using the second-order upwind scheme for convection terms including flow, turbulent kinetic energy and specific dissipation rate. It was able to capture most of the flow features around the protrusion. Ideal gas was used as the working fluid and its viscosity was calculated using Sutherland's viscosity law. The courant number and Relaxation factor was initialized with O.5 and O.4 respectively for better convergence and stability at initial stage.Later they were increased gradually to a value of 2 and O.8 for smooth convergence.For solution, convergence level of residuals was brought below 1O-6 and simultaneously mass flow rate and drag coefficient value were also monitored.
+
+# Results and Discussion
+
+The oil flow and schlieren flow visualization techniques were used to study the flow features around the cylindrical protrusion at Mach number 2.0. Oil flow visualization was done by using a suitable mixture of TiO2 with oleic acid and SAE-4O.Very fine drop of this carefully prepared oil flow mixture was sprayed all over the surface plate around the protrusion and tests conducted for different height of protrusion with VG were forcibly drifted away along the free stream flow direction resulting in a pattern of streak lines of the flow. The occurrence of shock waves ahead of the cylindrical protrusion was clear and distinctly observed. The comparison of experimental surface flow pattern and the numerical surface flow pattern obtained at a height of $0 . 0 1 \mathrm { m m }$ is shown in Fig.3.The region in the vicinity of the shock shows an oil flow pattern, which suggests an existence of a flow separation zone ahead of the protrusion for all three cases.
+
+![](images/7858751bffc7670220f3b516b9d018160fc5e3c460cdb7486fd6498997ab9d54.jpg)  
+Fig.3Comparison of surface flow pattern for case 1
+
+The reattachment takes place almost 1D distance downstream of protrusion.In cases with VG, the reattachment is observed further downstream at around 1.5D. On either sides of the model, a lateral separation of the flow is also witnessed.
+
+Schlieren flow visualization images for the cylindrical protrusion of case 3 with and without VG is shown in Fig.4.Schlieren images of cylindrical protrusion with single vortex generator clearly indicate that the adoption of vortex generator will improve the separated flow field ahead of the protrusion.The streamline pattern on the symmetryplanewithpresenceofVGaheadofcylindrical protrusion of case 2 is shown in Fig.5.The counter rotating vortices from the VG energize the boundary layer. The reattachment point moves further downstream. The comparison of pressure distribution ahead of the protrusion is shown in Fig.6.A good agreement between computed and measured pressures was obtained for all the cylinders of different heights.The increase in height of protrusion causes the upstream separation distance to increase.For the small height protrusion,even though the upstream separation zone is smaller when compared to the larger height protrusion, the flow passing over the protrusionaffects the downstream flow field.
+
+![](images/b26005f2759b8ffdff3fa9e947ff60efd77729d908d10e30e74d8187db32bdbe.jpg)  
+Fig.4Schlieren flow visualization(a) case 3 and (b) case 3 with VG
+
+![](images/221e3df949e5713ab6c872eb2decd80eac6d28a17f55d54cc1bcf2839561ddf4.jpg)  
+Fig.5Streamline pattern around symmetry plane (a) case 2 and (b) case 2 with VG
+
+![](images/e77ef37b0ae820dbb8e0c5dfe56771145664d25a073f622c71488ea1d1a0b7d8.jpg)  
+Fig.6Measured and computed $\mathrm { C _ { P } }$ for cylindrical protrusion with different heights
+
+The difference in peak pressure observed from Fig.6 also indicates the decrease in pressure with respect to the protrusion height. The comparison of case 3 protrusion with and without VG is shown in Fig.7. Case 3 protrusion with VG shows a good reduction in peak pressure by about $3 6 \%$ ,which can be advantageous.
+
+Figure 8 represents the pressure distribution on cylindrical protrusions of various heights along the centerline （204 $( Z / \mathrm { D } = 0 )$ ）with and without a vortex generator. The VG also helps in reduction of pressure acting on the cylindrical protrusion. From Fig.8，it is observed that the pressure distribution on cylindrical protrusion with VG follows similar trend.
+
+![](images/89384c5e1c7d9e6e0251124bfcdb5075325f498918751f141658909c2dd1f1de.jpg)  
+Fig.7Computed $\mathrm { C _ { P } }$ for case 3 protrusion with VG
+
+![](images/9122616bbe7a7a079036e81fa2b4afd9122dccafc6f6c157abd74527ba72c3c5.jpg)  
+Fig.8Stagnation line pressure distribution for different height cylinder with VG
+
+The drag acting on the cylinder is estimated numericallyusing Fluent.It is observed that the aerodynamic drag acting on the cylinder is reduced by adopting VG aheadof the cylinder.The comparison of drag coefficient of different height cylinders with VG is shown in Fig.9.It is seen that around $30 \%$ reduction of drag is achieved through adopting VG ahead of protrusion of case 3 and a reductionofaround $1 5 \%$ and $8 \%$ is observed for case 2 and case 1 respectively. This is because of the counter rotating vortices which energize the boundary layer separation and also increase the pressure distribution on the rear surface of the cylindrical protrusion. This in turn leads to an overall increase in downward force.
+
+![](images/e8590107749454180d22f6d8c9e96c8288641a7976d3a5d81b39905f73364964.jpg)  
+Fig.9Computed drag coefficient for different height protrusion with VG
+
+# Conclusions
+
+The present study was carried out to obtain a clear view on the flow field around a small cylindrical protrusion which is of the order of the local boundary layer thickness.The effect of the height of protrusion on the flow field were investigated experimentally and numerically for a supersonic flow at $\mathrm { M } _ { \infty } { = } 2 . 0$ . The presence of a complex flow field around the protrusion due to shock wave boundary layer interaction was observed from flow visualization techniques.A flow separation is observed ahead of the cylindrical protrusion due to the protrusion bow shock and surface boundary layer. This flow separation produces a separation shock which coincides with the protrusion bow shock and creates a lambda shock structure. The primary separation line that moves upstream with increasing height of protrusion is also seen from the plots. The reduction in peak pressure ahead of the cylindrical protrusion is observed with the presence of VG. The VG helps in improving the separation region ahead of protrusion by energizing the boundary layer downstream. The reduction in pressure drag on cylindrical protrusion was achieved by adoption of vortex generator ahead of cylindrical protrusion,which improves the overall aerodynamic performance.
+
+# Acknowledgements
+
+This work was supported by Advanced Research Center Program (NRF-2013R1A5A1073861） through the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIP) contracted through Advanced Space Propulsion Research Center at Seoul National University. (Project Number: 0659- 20140012).
+
+# References
+
+[1]J.C.Westkaemper,“Turbulent Boundary Layer Separation ahead of Cylinders,”AIAA Journal,vol.6,No.7, July 1968,pp.1352-1355.   
+[2]R.Sedney,“Visualization of Boundary Layer Flow Patterns around Protuberances Using an Optical-Surface Indicator Technique,”PhysicsofFluids,vol.15,No.12, December 1972,pp.2439-2441.   
+[3] R.Sedney,“A Survey of the Effects of Small Protuberanceson Boundary-LayerFlows,”AIAAJournal,vol.11, No. 6,June 1973, pp. 782-792.   
+[4]J.H.Mashburn,“Turbulent Boundary Layer Separation Ahead ofCylindrical Protuberances in Supersonic Flow," ARL-TR-69-17,August1969.   
+[5] R.Sedney,C.W.Kitchens,“Separation ahead of Protuberances in Supersonic Turbulent Boundary Layers," AIAAJournal,vol.15,No.4,April 1977,pp. 546-552.   
+[6] S.Li,Y. Shi,and Y.Chen,“The Effects of the Short Protuberance on Interactive Flowfield at Hypersonic Speed," AIAAPaper 95-1829-CP,13th AIAA Applied Aerodynamics conference,Baltimore,MD,June 1995,pp.548- 555.   
+[7]P.V. Hahn and A. Frendi.“Interaction of Three-Dimensional Protuberances with a Supersonic Turbulent Boundary Layer,”AIAA Journal,vol. 51, No.7 (2013),pp. 1657-1666.   
+[8]B.H.Anderson, J.Tinapple,L.Surber,“Optimal Control of Shock Wave Turbulent Boundary Layer Interactions Using Micro-Array Actuation,”AIAA Paper 2006-3197, 3rd Flow Control Conference, San Francisco,USA, June 2006.   
+[9]H.Babinsky,“Understanding Micro-Ramp control for Shock Boundary Layer Interaction,”US Air Force Research Lab.,Ohio,USA,Rept.AFRL-SR-AR-TR-O8-0074, January 2008.   
+[10]F.K. Lu,A.J. Pierce, Y. Shih, C. Liu, and Q. Li,“Experimental and Numerical Study of Flow Topology Past Micro Vortex Generators,”AIAA 2010-4463，40th Fluid Dynamics Conference and Exhibit, Chicago, USA, July 2010.   
+[11]E.Loth, and S. Lee,“Understanding Micro-Ramp Control for Shock Boundary Layer Interactions,”US Air ForceResearchlab.,Ohio,USA,Rept.AFRL-SR-AR-TR08-0145,July 2008.   
+[12]A.J. Pierce,Q. Li, Y. Shih, FK. Lu, and Q. Liu,“Interaction ofMicro-vortex Generator Flow with Ramp-Induced Shock/Boundary-Layer Interactions,”AIAA 20ll-32,49th AIAA Aerospace Sciences Meeting including the New Horizons Forum and Aerospace Exposition,Orlando, Florida.   
+[13]D.S. Galbraith,M.C. Galbraith, M.G. Turner, P.D. Orkwis, and A.Apyan,“Preliminary Numerical Investigation of a Mach 3 Inlet Configuration with and without Aspiration and Micro-Ramps,”AIAA 2010-1095,48th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition,Orlando,Florida，Jan 2010.   
+[14]Vignesh Ram,P.S.,“Flow Field Investigation around Cylindrical Protrusion with Vortex Generator,”Master's Thesis,BITMesra,India,2011.

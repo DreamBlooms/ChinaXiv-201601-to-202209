@@ -1,0 +1,606 @@
+[
+    {
+        "type": "text",
+        "text": "多通道多模式融合LBP特征的纹理相似度计算\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘涛1，周先春²，严锡君3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.江苏开放大学 信息与机电工程学院，南京 210017;2.南京信息工程大学 电子与信息工程学院，南京 210044;3.河海大学 计算机与信息学院，南京 210098)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：纹理相似度计算是大数据分析和数据挖掘的基本手段之一。为现有纹理特征对彩色图像鉴别能力不强的问题，提出了一种改进LBP 特征的纹理相似度计算方法。该方法提出了极值模式、求和模式和编码模式三种特征融合模式，对彩色图像的H、S和V三个通道上获取的LBP特征进行融合，得到彩色图像的纹理描述特征。融合操作在邻域像素点LBP 计算、中心像素点LBP计算、直方图特征提取三个阶段进行，提高特征鉴别能力。在VisTex 纹理数据库上进行纹理相似度计算实验，结果表明该方法的错误接受率、错误拒绝率和等错误率明显低于文献[7，8，9]所述方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：纹理相似度；局部二元模式；多通道；相似度测度；特征融合中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.07.0693",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Texture similarity calculation with lbp features fused by multi-channel and multi-mode ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Tao1, Zhou Xianchun², Yan Xijun³ (1.SchoolofInformation&MechanicalandElectricalEngineeringJiangsuOpenUniversity,Nanjing20o17China;2.cool ofElectronic&InformationEngineering,NnjingUniversityofInformationScience&dTechnologyNanjingool7Cina;3. College of Computer & Information, Hohai University,Nanjing 210098 China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Texture similaritycalculation isoneof the basic methodsofbig-data analysis and data mining.For solving the problem that theexisting texture features are not strong forcolorimage discrimination,atexture similaritycalulationmethod with improvedlocalbinarypaternfeatures is proposed.This method proposes three modes forfeature fusion,including extreme mode,adition modeand encoding mode.The LBP features acquiredon the three channelsofH,Sand Vofcolor mage are fusedbythese modes toobtainthe texturedescriptionofcolorimage.Thefusionoperationiscarriedout in three stagesincluding LBP calculationof neighborhood pixels,LBPcalculationof central pixels,and histogram feature extraction,toimprove the ability offeature discrimination.Theresultsoftexture similarity experimentson VisTextexture database showthat,the false acceptancerate,flaserejectionrate and equal erorrateof this method are obviouslylower than thoseofmethods described in references [7, 8, 9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: texture similarity; local binary pattern; multi-channel; similarity metric; feature fusion ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "纹理特征是图像表示与描述常用的视觉特征，用于描述具有周期性变化或缓慢变化的物体表面组织结构分布。图像的纹理特征是经过量化的视觉特征，纹理特征之间的相似度可以作为相应图像之间相似度的直接表现形式。因此，纹理相似度计算是大数据分析和数据挖掘的基本手段之一，通过计算纹理相似度，可以实现不同纹理图像的分类、检索、匹配和关联等功能[1,2]。纹理特征是纹理相似度计算的依据。常用的纹理特征有灰度共现矩阵、Gabor、局部二元模式(localbinarypattern,LBP)等。这些特征主要用于描述灰度图像纹理，对于彩色图像而言特征不够充分，区分不同纹理的能力不强[3-6]。针对彩色图像的纹理相似度计算，目前也涌现出了许多优秀的方法，文献[7]提出了一种基于统计模型的彩色图像纹理特征提取方法，首先使用金字塔对偶树方向滤波器组对图像进行滤波处理，然后采用矩估计方法计算Gamma分布参数，作为彩色图像的纹理特征，并使用KL距离度量计算纹理相似度。文献[8]提出了一种对光照变化鲁棒的彩色纹理描述子，称之为强度颜色对比度描述子，通过融合LBP特征和颜色对比度特征构建该描述子，并采用夹角余弦测度计算纹理相似度。文献[9]提出了一种基于四元数旋转不变性的纹理特征，依据物体颜色随光源光谱功率分布、物体照明和观察角度变化的规律，计算颜色四元数的傅立叶光谱范数，作为彩色图像的纹理特征，该特征的最大特点是对颜色空间鲁棒。上述三种方法都可以描述彩色图像的纹理特征，但特征的区分能力还有待提高。为此，本文提出一种多通道多模式融合LBP特征的纹理相似度计算方法，所述彩色图像纹理特征在纹理相似度计算方面性能优越。主要创新点在于：提出了三种针对多颜色通道LBP特征的融合模式，分别是极值模式、求和模式和编码模式，依据这三种融合模式实现彩色图像H、S 和V三个颜色通道的LBP特征计算与融合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 纹理相似度计算概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纹理相似度计算是依据不同纹理之间的特征相似度来描述纹理之间的相似度的，主要包括两个关键环节，一是特征选择，二是相似度测度。下面简要概括特征选择和相似度测度的常用方法[10,11]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1特征选择 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，纹理特征主要分为四类：统计型纹理特征、模型型纹理特征、结构型纹理特征和信号处理型纹理特征。统计型纹理特征主要用于描述像素点及其邻域内的灰度属性，常用的是灰度共生矩阵特征，该特征估计图像二阶组合条件的概率密度，描述不同方向和距离的像素对之间的灰度共现概率。该特征的鉴别能力较好，运算效率偏低。模型型纹理特征对纹理分布进行建模，通过估计模型参数来描述不同纹理。常用的有随机场模型和分形模型两种。由于模型参数的估计需要大量样本，在实际应用中很难满足这一条件。结构型纹理特征以图像中的纹理基元为研究对象，将图像看出不同纹理基元的组合，采用纹理基元的类型、方向和数量等特征来描述纹理。信号处理型纹理特征依据时域、频域以及多尺度分析得到，通常是对纹理图像或者其某个图像子块进行某种变换（如LBP、DCT、Gabor等)，然后在变化域提取特征值。通常情况下，变化域中的特征鉴别能力更强，是目前纹理描述常用的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到本文的主要创新是对LBP进行多通道多模式融合，因此这里简要介绍LBP特征选择方法，其他特征选择方法这里不再赘述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于图像中的一个像素点 $( x , y )$ ，传统方法是在灰度图像上计算LBP值，具体是在一个以像素点 $( x , y )$ 为中心、半径为R的圆形邻域内，比较邻域内的N个像素点与中心像素点灰度值的大小，然后将比较结果（二元结果，即0或1）按一定顺序串联在一起，得到像素点 $( x , y )$ 的LBP值。公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { L B P } ( x , y ) { = } \\sum _ { n { = 1 } } ^ { N } \\mathit { L B P } _ { n } ( x , y ) 2 ^ { n { - } 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P _ { n } ( x , y ) = { \\left\\{ \\begin{array} { l l } { 1 } & { , f _ { n } ( x , y ) \\geq f ( x , y ) } \\\\ { 0 } & { { \\mathrm { , \\# } } { \\mathrm { / \\# } } } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $f ( x , y )$ 表示图像中心像素点 $( x , y )$ 的灰度值， $f _ { n } ( x , y )$ 表示邻域中第 $\\mathfrak { n }$ 个像素点的灰度值， $\\mathrm { ~  ~ N ~ }$ 为邻域中像素点的总数。半径R越大，邻域中像素点数目越多，如图1所示。在本文中，取半径R为2。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e27f09f23358271a7d16f85732661613f1f88d1cadbd162117e51cc8d86182cc.jpg",
+        "img_caption": [
+            "图1半径不同时邻域像素点分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "得到图像中每一个像素的LBP值之后，可以将原灰度图像变换为一个LBP图像，然后统计LBP图像整体或者局部的直方图特征，生成描述图像纹理的LBP特征向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2相似性测度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纹理图像之间的相似度可以由图像所对应的特征向量之间的相似度来表示。令 $X = ( x _ { 1 } , x _ { 2 } , \\Lambda , x _ { n } )$ 和 $Y = ( y _ { 1 } , y _ { 2 } , \\Lambda , y _ { n } )$ 表示两个 $\\mathfrak { n }$ 维的特征向量，下面介绍这两个特征向量之间常用的相似性测度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）欧氏距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "欧氏距离是最常用的距离测度，特征向量 $X$ 和 $Y$ 之间的欧氏距离可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\left( \\boldsymbol { X } , \\boldsymbol { Y } \\right) = \\sqrt { \\sum _ { k = 1 } ^ { n } \\left( x _ { k } - y _ { k } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）曼哈顿距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "曼哈顿距离即城市街区距离，计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\left( X , Y \\right) = \\sum _ { k = 1 } ^ { n } \\left| x _ { k } - y _ { k } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）切比雪夫距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "切比雪夫距离仿照国际象棋中国王的移动方式，公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( X , Y ) = \\operatorname* { m a x } _ { k } { ( | x _ { k } - y _ { k } | ) } = \\operatorname* { l i m } _ { p  \\infty } { ( \\sum _ { k = 1 } ^ { n } { | x _ { k } - y _ { k } | ^ { p } } ) ^ { \\frac { 1 } { p } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d）闵可夫斯基距离。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "闵可夫斯基距离实质上是对上述三种距离的综合，表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\left( \\boldsymbol { X } , \\boldsymbol { Y } \\right) = \\sqrt [ p ] { \\sum _ { k = 1 } ^ { n } \\left| x _ { k } - y _ { k } \\right| ^ { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle \\mathbf { p } = 1$ 时，闵可夫斯基距离即曼哈顿距离；当 $\\scriptstyle { \\mathsf { p } } = 2$ 时，闵可夫斯基距离即欧氏距离；当 $\\mathfrak { p } {  } \\infty$ 时，闵可夫斯基距离即切比雪夫距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e）夹角余弦。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "夹角余弦是衡量两个特征向量方向差异的相似性测度，两个向量的夹角余弦的值越大，说明两个特征向量的夹角越小，也即两个特征向量的方向越相似，进而说明连个特征向量越相似。夹角余弦的计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos { \\left( \\theta _ { _ { X Y } } \\right) } = { \\frac { \\displaystyle \\sum _ { k = 1 } ^ { n } { x _ { k } y _ { k } } } { \\sqrt { \\displaystyle \\sum _ { k = 1 } ^ { n } { x _ { k } } ^ { 2 } } \\sqrt { \\displaystyle \\sum _ { k = 1 } ^ { n } { y _ { k } } ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 多通道多模式融合局部二元模式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LBP是一种常用的纹理特征，具有亮度不变性、旋转不变性以及对光照不敏感等优点，在人脸识别、人脸表情识别等许多领域作为纹理相似度计算的重要特征得到广泛应用。然而，LBP特征通常是基于灰度图像提取的，对于彩色图像的纹理相似度计算而言，必然损失了许多鉴别能力强的特征。为了适应彩色图像描述的需要，也有学者提出在图像的各个颜色通道（如R、G、B三个颜色通道）上独立计算LBP特征，然后将其在LBP图像层或者直方图特征层进行级联拼接，得到更充分的LBP特征。然而这种特征融合方式没有考虑到彩色图像上各个像素点在各个颜色通道的联系，融合后特征不仅冗余大，而且特征的鉴别能力得不到实质性提高，进而影响彩色图像纹理相似度计算的可靠性。为了解决这一难题，本文提出一种多通道多模式融合的LBP特征，可以在邻域像素点LBP计算、中心像素点LBP计算、直方图特征提取三个阶段进行特征融合，提取更加完备的局部二元模式特征，从而提高不同纹理之间的区分能力，进而提高相似度计算的可靠性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于彩色图像，本文在HSV颜色空间上计算LBP特征。因为在 HSV颜色空间上亮度、色度和饱和度三个通道的独立性强，这样提取的特征之间的相关性弱，特征融合时相互影响小。于是，本文在H、S和 $\\mathrm { ~ v ~ }$ 三个颜色通道上，分别采用式（1)（2）计算LBP。为了便于区分，这里用 $L B P ^ { t } ( x , y )$ 表示第 $\\mathrm { ~  ~ { ~ t ~ } ~ }$ 个颜色通道上像素点 $( x , y )$ 的LBP值，其中， $t = H , S , V$ ，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P ^ { t } ( x , y ) { = } \\sum _ { n = 1 } ^ { N } L B P _ { n } ^ { t } ( x , y ) 2 ^ { n - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P _ { n } ^ { t } \\left( x , y \\right) = \\left\\{ { 1 \\atop 0 } , f _ { n } ^ { t } ( x , y ) \\geq f ^ { t } ( x , y ) \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $f ^ { t } ( x , y )$ 表示图像第 $\\mathrm { ~  ~ t ~ }$ 个颜色通道上中心像素点 $( x , y )$ 的灰度值， $f _ { n } ^ { t } ( x , y )$ 表示图像第 $\\mathrm { ~  ~ { ~ t ~ } ~ }$ 个颜色通道邻域中第 $\\mathfrak { n }$ 个像素点的灰度值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面探讨多个通道的LBP值的融合问题。本文设计了三种多通道融合方式，分别为极值模式、求和模式和编码模式，针对三个颜色通道上邻域中的每一个像素点的LBP值（即$L B P _ { n } ^ { t } ( x , y )$ ， $t = H , S , V$ ）进行融合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）极值模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对三个通道的LBP值取极大值，作为融合后的LBP值。极值模式的映射函数可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm M _ { n } ( x , y ) { = } \\operatorname* { m a x } _ { t = H , S , V } { \\Big ( } L B P _ { n } ^ { t } ( x , y ) { \\Big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）求和模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对三个通道的LBP值进行累加求和，将求和结果作为融合后的LBP值。求和模式的映射函数可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na M _ { _ n } ( x , y ) { = } \\sum _ { t = H , S , V } L B P _ { _ n } ^ { t } ( x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）编码模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将三个通道的LBP值（二元值，即0或1）按照H、S、V通道的顺序进行二进制编码，将编码结果作为融合后的LBP值。求和模式的映射函数可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne M _ { _ { n } } ( x , y ) { = } L B P _ { _ { n } } ^ { _ { H } } ( x , y ) { \\times } 4 + L B P _ { _ { n } } ^ { _ { S } } ( x , y ) { \\times } 2 + L B P _ { _ { n } } ^ { _ { V } } ( x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1给出了一个三种融合模式对H、S和 $\\mathrm { ~ v ~ }$ 三个通道的LBP 值的融合示例。可见，极值模式融合结果范围为[0,1]，是一个二元值。求和模式融合结果范围为[0,3]。编码模式融合结果范围为[0,7]。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b88d9c43cae74d5e73a675d6c00db810cb39dbc733b7a17ac48d3d89a7347c9.jpg",
+        "table_caption": [
+            "表1三种融合模式融合示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td colspan=\"6\">取值</td></tr><tr><td>LBP\" (x,y)</td><td>0 0</td><td>0 0</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>LBP(x,y)</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0 1</td><td>1</td></tr><tr><td>LBP (x,y)</td><td>0 1</td><td>0</td><td>1</td><td>0</td><td>1 0</td><td>1</td></tr><tr><td>mM,(x,y)</td><td>0 1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1 1</td></tr><tr><td>aMn(x,y)</td><td>0 1</td><td>1</td><td>2</td><td>1</td><td>2 2</td><td>3</td></tr><tr><td>eM(x,y)</td><td>0 1</td><td>2</td><td>3</td><td>4</td><td>5 6</td><td>7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $m L B P _ { n } ^ { t _ { 1 } } ( x , y )$ 、 $a L B P _ { n } ^ { t _ { 2 } } ( x , y )$ 和 $e L B P _ { n } ^ { t _ { 3 } } ( x , y )$ 分别为极值模式映射函数、求和模式映射函数和编码模式映射函数的输出。由表1可知， $t _ { 1 } \\in [ 0 , 1 ]$ 、 $t _ { 2 } \\in [ 0 , 3 ]$ 、 $t _ { 3 } \\in [ 0 , 7 ]$ 。也就是说，针对每一个像素点的三个通道的LBP值，可以生成2个极值模式输出值、4个求和模式输出值和8个编码模式输出值。结合式(9)有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm L B P _ { n } ^ { t _ { 1 } } \\left( x , y \\right) = \\left\\{ \\begin{array} { r l } { { 1 } } & { { , m M _ { _ n } ( x , y ) = t _ { 1 } - 1 } } \\\\ { { 0 } } & { { , \\mathbb { H } \\nmid \\mathrm { { f } } \\nmid } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na L B P _ { n } ^ { t _ { 2 } } \\left( x , y \\right) = \\left\\{ \\begin{array} { l l } { { 1 } } & { { , a M _ { _ n } ( x , y ) = t _ { 2 } - 1 } } \\\\ { { 0 } } & { { , \\sharp \\sharp / \\sharp } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne L B P _ { n } ^ { t _ { 3 } } \\left( x , y \\right) = \\left\\{ \\begin{array} { l l } { { 1 } } & { { , e M _ { n } ( x , y ) = t _ { 3 } - 1 } } \\\\ { { 0 } } & { { , \\sharp \\nmid \\nmid \\nparallel } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与输入的 $L B P _ { n } ^ { t } ( x , y )$ 一样，极值模式映射函数、求和模式映射函数和编码模式映射函数的输出 $m L B P _ { n } ^ { t _ { 1 } } ( x , y )$ 、 $a L B P _ { n } ^ { t _ { 2 } } ( x , y )$ 和 $e L B P _ { n } ^ { t _ { 3 } } ( x , y )$ 的值也都是二元值，即0或1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后，结合式（8)，可以计算图像的中心像素点 $\\scriptstyle ( x , y )$ 的融合LBP值，表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { m L B P ^ { t _ { 1 } } ( x , y ) = \\displaystyle \\sum _ { n = 1 } ^ { N } m L B P _ { n } ^ { t _ { 1 } } \\left( x , y \\right) 2 ^ { n - 1 } } } \\\\ { { { } } } \\\\ { { d L B P ^ { t _ { 2 } } ( x , y ) = \\displaystyle \\sum _ { n = 1 } ^ { N } a L B P _ { n } ^ { t _ { 2 } } \\left( x , y \\right) 2 ^ { n - 1 } } } \\\\ { { { } } } \\\\ { { { } \\displaystyle e L B P ^ { t _ { 3 } } ( x , y ) = \\displaystyle \\sum _ { n = 1 } ^ { N } e L B P _ { n } ^ { t _ { 3 } } \\left( x , y \\right) 2 ^ { n - 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样，每一个中心像素点 $( x , y )$ 可以得到14个融合LBP值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相应地，一幅彩色图像可以变换为14 幅融合LBP图像。下面依据这些图像求取彩色图像的多通道融合特征向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，对于极值模式生成的2幅融合LBP图像，计算每一幅图像的直方图，作为该图像的特征向量。直方图的计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm H ^ { t _ { 1 } } ( \\varepsilon ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { \\Big ( W - 2 R \\Big ) \\Big ( H - 2 R \\Big ) } \\sum _ { y = R + 1 } ^ { H - R } \\sum _ { x = R + 1 } ^ { W - R } \\varphi \\Big ( m L B P ^ { t _ { 1 } } ( x , y ) , \\varepsilon \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $t _ { \\scriptscriptstyle 1 } \\in [ 0 , 1 ]$ ， $\\mathrm { ~ w ~ }$ 和 $\\mathrm { ~ H ~ }$ 分别为图像的宽度和高度， $\\mathrm { ~ \\sf ~ R ~ }$ 为邻域半径。 $\\varepsilon$ 为图像中像素点的值， $\\varphi ( x , y )$ 可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi { \\left( x , y \\right) } = { \\left\\{ \\begin{array} { l l } { 1 } & { , x = y } \\\\ { 0 } & { , x \\neq y } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "类似地，求和模式生成的4幅融合LBP图像和编码模式生成的8幅融合LBP图像的直方图可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { a H ^ { t _ { 2 } } \\left( \\varepsilon \\right) = } } \\\\ { { { } } } \\\\ { { { \\displaystyle \\frac { 1 } { \\left( W - 2 R \\right) \\left( H - 2 R \\right) } \\sum _ { y = R + 1 } ^ { H - R } \\sum _ { x = R + 1 } ^ { W - R } \\varphi \\Big ( a L B P ^ { t _ { 2 } } \\left( x , y \\right) , \\varepsilon \\Big ) } } } \\\\ { { { } } } \\\\ { { { e H ^ { t _ { 3 } } \\left( \\varepsilon \\right) = } } } \\\\ { { { \\displaystyle \\frac { 1 } { \\left( W - 2 R \\right) \\left( H - 2 R \\right) } \\sum _ { y = R + 1 } ^ { H - R } \\sum _ { x = R + 1 } ^ { W - R } \\varphi \\Big ( e L B P ^ { t _ { 3 } } \\left( x , y \\right) , \\varepsilon \\Big ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $t _ { 2 } \\in [ 0 , 3 ] \\ , t _ { 3 } \\in [ 0 , 7 ]$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将三个模式下的直方图特征分别归一化，得到三个模式下的三个特征向量，表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm H { = } \\frac { 1 } { 2 } \\big ( m H ^ { 1 } + m H ^ { 2 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na H { = } \\frac { 1 } { 4 } \\big ( a H ^ { 1 } + a H ^ { 2 } + a H ^ { 3 } + a H ^ { 4 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne H { = } \\frac { 1 } { 8 } \\sum _ { k = 1 } ^ { 8 } e H ^ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最后，将三个模式下生成的直方图特征向量串联在一起，得到最终的特征向量，表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH { = } [ m H , a H , e H ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文所述的多通道多模式融合LBP特征是在邻域像素点的LBP计算阶段就开始融合，在经过中心像素点融合、三个融合模式各自直方图特征融合和最终的直方图特征融合，得到彩色图像纹理描述特征。与传统的一些各个颜色通道独立计算LBP值并在LBP图像层或者直方图特征层进行级联拼接的方法相比，本文方法所述特征的冗余小、鉴别能力强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文的创新点是提出一种彩色图像的多通道多模式融合LBP特征提取方法，用于彩色图像纹理相似度的计算。下面进行仿真实验，通过与现有的特征选择方法进行对比分析，对本文所述方法的性能进行评价。为此，首先选择算法评测所用的纹理数据集。考虑到本文方法主要是针对彩色图像的，因此选择彩色图像纹理数据集进行测试。与文献[7]一样，本文也选择国际上公开的VisTex自然纹理图像数据库。该数据库包含640幅自然纹理图像，纹理类别数为40，每一个类别有16幅图像，尺寸为 $1 2 8 \\times 1 2 8$ ，图像位深度为24bits。部分纹理图像示例如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2497a3494f2ec35c83817b2ab686da82a36ad13b31df34d1f956feadde016e1.jpg",
+        "img_caption": [
+            "图2部分纹理图像示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接着制定纹理相似度计算的评价标准，通常采用错误接受率（false acceptance rate,FAR）、错误拒绝率（false rejection rate,FRR）以及等错误率（equalerrorrate，EER）三个评价指标。错误接受率是指不同类纹理被认为是相同类纹理的图像数量与测试纹理图像总数的比值。错误拒绝率是指同类纹理被认为是不同类纹理的图像数量与测试纹理图像总数的比值。等错误率是FAR与FRR相等时的FAR值。这些指标与相似度阈值有关，相似度阈值设置的越大，FAR越小，FRR越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "下面进行对比实验，在相同测试数据库下，选择文献[7\\~9]所述的特征选择方法与本文方法进行对比实验，按照上述评价指标进行综合评价。在对比过程中，选择了三种相似性测度，分别是欧氏距离、曼哈顿距离和夹角余弦测度，对比不同特征选择方法在这三个测度下的纹理相似度计算性能。下面针对这三种相似性测度分别进行实验。图3为四种特征选择方法在欧氏距离测度条件下的纹理相似度计算指标对比结果。图4为四种特征选择方法在曼哈顿距离测度条件下的纹理相似度计算指标对比结果。图5为四种特征选择方法在夹角余弦测度条件下的纹理相似度计算指标对比结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cc9eabdea19dfd96ee1b624d89fb6b519975a063d75761184f7f0325e1f922d.jpg",
+        "img_caption": [
+            "图3欧氏距离测度条件下特征选择方法性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2aeb7616c3092f54bdc0ca3cba11f7344a06a8057566899bc34708763ae5fa57.jpg",
+        "img_caption": [
+            "图4曼哈顿距离测度条件下特征选择方法性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae7379b1b479e70a94879d1674896b0eb8aeba1f27b5bd71c26d3e7f53f24ddd.jpg",
+        "img_caption": [
+            "图5夹角余弦测度条件下特征选择方法性能对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过分析上述三幅图像可以得出三个结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)从FAR和FRR两个指标来对比，不论采用哪一种相似性测度方法，本文所述的多通道多模式融合LBP特征在纹理相似度计算方面表现的性能都要优于其他三种方法，表现在：当FRR值相同时，本文所述方法得到的FAR值在三种相似性测度条件下都低于其他三种特征选择方法；同样地，当FAR值相同时，本文所述方法得到的FRR值在三种相似性测度条件下都低于其他三种特征选择方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)从EER指标来对比，同样地，不论采用哪一种相似性测度方法，本文所述特征在纹理相似度计算方面表现的性能都要优于其他三种方法，表现在：在三种相似性测度条件下，本文所述特征选择方法得到的EER值都是最小的，文献[9]所述方法次之，文献[7]所述方法得到的EER值最大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)从三幅图像的EER指标变化来对比，对于四种特征选择方法，采用夹角余弦测度得到的EER值最小，而采用曼哈顿距离得到的EER值最大，采用夹角余弦测度和欧氏距离测度得到的EER值相差不大。文献[9]所述特征选择方法受相似性测度变化的影响最大，本文方法受相似性测度变化的影响最小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合上述分析，证实了结合本文所述的多通道多模式融合LBP特征和夹角余弦测度的纹理相似度计算方法性能最优。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文面向彩色图像的纹理相似度计算中特征鉴别能力不强的问题，在传统LBP特征的基础上，提出了一种多通道多模式融合的LBP特征。与传统方法在各个颜色通道独立计算LBP值并在LBP图像层或者直方图特征层进行级联拼接的融合方式相比，本文提出了极值模式、求和模式和编码模式三种LBP特征融合模式，并在邻域像素点LBP计算、中心像素点LBP计算、直方图特征提取三个阶段进行融合操作，得到彩色图像纹理描述特征冗余小、鉴别能力强，对于提升纹理相似度计算性能具有重要意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Pappas TN,NeuhoffDL,Ridder HD,et al. Image analysis: focus on texture similarity[J].Proceedings of the IEEE,2013,101(9):2044-2057.   \n[2] Zhai Y,Neuhoff D L,Pappas T N.Local radius index:a new texture similarity feature [C]//Proc of IEEE International Conference on Acoustics, Speech and Signal Processing.IEEE,2013:1434-1438.   \n[3]Zujovic J,Pappas TN,NeuhoffDL.Structural texture similarity metrics for image analysis and retrieval[J].IEEE Trans on Image Processing,2013,22 (7): 2545-58.   \n[4]Naser K,Ricordel V, Callet PL.Experimenting texture similarity metric STSIM for intra prediction mode selection and block partitioning in HEVC [C]// Proc of International Conference on Digital Signal Processing.2014: 882-887.   \n[5]Porebski A,Vandenbroucke N,Hamad D.LBP histogram selection for supervised color texture classification [C]//Proc of IEEE International Conference on Image Processing.2014: 3239-3243.   \n[6]冀中，聂林红．基于抗噪声局部二值模式的纹理图像分类[J].计算机 研究与发展,2016,53(5):1128-1135.   \n[7]杨君，尚赵伟．基于PDTDFB 变换的彩色纹理图像检索[J].计算机工 程,2012,38(20):204-208.   \n[8]Cusano C,Napoletano P,Schettini R.Iluminant Invariant Descriptors for Color Texture Classification [C]// Proc of International Conference on Computational Color Imaging.[S.1.]:Springer-Verlag,2013:239-249.   \n[9]Joshua A.Tucker.Rotation invariant features for color texture classification and retrieval under varying illumination [J].Pattern Analysis & Applications Paa,2013,16(1):69-81.   \n[10] Chandrakala D,Sumathi S.Application of Artificial Bee Colony Optimization Algorithm for Image Classification Using Color and Texture ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Feature Similarity Fusion [J].ISRN Artificial Intelligence,2012,2012(3): 1137-1142. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[11]Dash JK,Mukhopadhyay S.Similarity learning for texture image retrieval using multiple classifier system[J].Multimedia Tools & Applications,2016: 8 (7): 1-25. ",
+        "page_idx": 5
+    }
+]

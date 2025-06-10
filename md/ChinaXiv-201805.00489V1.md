@@ -1,0 +1,317 @@
+# 右转车流及对向行人影响下的行人过街延误模型
+
+陶薇同，崔荣一，金璟璇
+
+(延边大学 计算机科学与技术学科 智能信息处理研究室，吉林 延吉 133002)
+
+摘要：信号交叉口行人过街延误是评价信号交叉口交通运行效益和服务水平的重要度量。通过分析车头时距随交通流量而变化的统计特性，提出了基于车头时距分布自适应变化的行人过街冲突延误计算模型。首先，根据低交通流量情况下车头时距服从负指数分布时的行人过街冲突延误，分别推导出中等交通流量及高交通流量情况下的行人过街冲突延误计算模型；其次，结合无干扰条件下的相位延误和双向行人流阻滞延误得到干扰条件下的行人过街总延误计算模型；最后，通过Vissim仿真实验对模型进行了准确性验证，其偏差小于 $3 \%$ 。此外，将提出的行人过街延误模型与以机动车到达间距服从负指数分布为假设前提的行人过街延误模型进行误差比较，结果表明所提出的延误模型误差更小。
+
+关键词：信号控制；行人过街延误；交通流量；车头时距；负指数分布中图分类号：U491.54 doi: 10.3969/j.issn.1001-3695.2018.01.0135
+
+# Delay model of pedestrian crossing under influence of right-turning traffic flow and bidirectional pedestrian
+
+Tao Weitong, Cui Rongyi, Jin Jingxuan† (IntelligentInformationProcessingLab,Dept.ofComputerSience&echnology,Yanbian University,YanjiJilin0, China)
+
+Abstract:Pedestriancrosingdelayinsignalintersectionisanimportantmeasure toevaluate traficeficiencyandservicelevel. Byanalyzing the statisticalfeatures ofthe headway which change thetrafficflow,this paper proposedaformula forcalculating the delayofpedestriancrossing basedontheheadwaydistributionadaptivechanging.Firstof all,according tote pedestrian crosing delay under thelow trafic flow circumstance in which theheadwayobey negative exponential distribution,the paper derived theformulas forcalculating thepedestriancrossingdelayunder the midletraficflowcircumstanceand thehightraffic flowcircumstance.Secondly,this paperobtained the total delaycalculation model of pedestriancrossing bycombining with both signal phasedelayandbidirectionalpedestrian frictiondelay.Finaly,theaccuracyofthe model was verified throughthe Vissim simulation experiment,and the deviation was less than $3 \%$ . In addition, this paper also compared the deviation between thepedestriancrosing delay model proposed in this paper andthe modelon the premise that the headway obeys negative exponentialdistribution,the results show that the deviation of the delay model proposed in this paper is smaller.
+
+Keywords: signal control; delayofpedestrian crossing;traffic flow; headway; negative exponential distribution
+
+# 0 引言
+
+在交叉口信号配时优化中，目前国内的交叉口大多是以车为主的信号控制，只考虑车辆行驶的延误及通行能力等，而不考虑行人。但随着经济的发展，道路越来越宽，车流量和人流量迅速增加，在车流量较大、人流量很高的城市主干路或商业中心，为保证行人过街安全，对交叉口进行配时时，应综合考虑行人延误、车辆延误等因素。因此，研究行人延误具有较强
+
+的实际意义。
+
+根据行人过街实际情况不同，信号控制交叉口行人延误主要包括行人过街冲突延误、双向行人流阻滞延误和信号控制相位延误三种情况。由于国内目前大多数交叉口都设有直行和左转的专用相位，而右转车辆基本不设置专用相位，故本文只考虑右转机动车与行人的冲突延误。美国的通行能力手册和日本的交通信号控制手册都建立了行人流量较小的交叉口行人延误计算模型[1,2]；杨睿等人[3]通过研究二次过街设施的设置方法和条件，构建了行人二次过街的延误模型；郑长江等人[4在研究无信号控制交叉口行人延误的模型中引入了闯红灯率，建立了信号控制行人延误的解析模型；高利平[5]结合北京市道路运行情况，分别从基于行人过街方式、行人与机动车冲突、人行横道铺设位置这三个角度构建了三种不同延误模型，并运用仿真软件模拟得到行人和机动车的延误数据，为行人过街优化措施的效果评价提供了新的定量分析思路和方法；钱大琳等人[针对道路等级相差较大的两相位信号交叉口，建立了基于行人专用相位的行人过街延误计算模型和交叉口信号配时优化模型。裴玉龙等人[7以机动车和行人的到达间距均服从负指数分布为假设前提，得到信号控制人行横道过街、无控制人行横道过街、自由过街三种方式下的行人延误计算方法。赵靖等人8根据行人流到达离散的特性，对连续流交叉口不同行人流向的延误进行了建模。但以上方法只考虑了机动车对行人过街的影响，并没有考虑其他影响行人过街的因素。
+
+在双向行人流阻滞延误方面，孙迪[9针对过街双向行人之间互相干扰的特点，建立了对向行人干扰情况下的过街延误模型；Guo等人[1在研究双向行人特性过程中，不仅分析了对向行人之间的阻滞特性，而且考虑了同向行人之间的干扰特性;卢凯等人[I针对行人斜穿信号交叉口的过街需求，引入时距图分析方法，提出行人斜穿信号交叉口的绿波带设计理念，并利用行人到达和离开人行横道的时刻线，推导出行人连续横穿信号交叉口的过街延误模型。针对目前国内交通交叉口状态，本文综合考虑右转机动车对行人造成的冲突延误及双向行人流的阻滞延误对行人过街的影响，以得到更为优化的行人过街延误计算方法。
+
+此外，由于目前大多数行人延误计算方法是以机动车到达间距服从负指数分布为假设前提，但车头时距不是固定不变的，会随着交通流量的变化而发生改变。车头时距分布除了负指数分布还包括移位负指数分布、爱尔朗分布等。负指数分布适用于车辆随机到达的情况，移位负指数分布适用于限制超车的单列交通流和低流量的多列交通流，爱尔朗分布通过调整阶数可以反映从畅行到拥挤的各种交通流。针对交通较拥挤时部分车辆结成车队行驶的现象，Cowan[12]在移位负指数分布的基础之上提出了M3分布。段力等人[13]通过对道路车头时距分布的现状研究指出：交通流量小于 $2 5 0 \mathrm { v e h / h }$ 时，车头时距服从负指数分布；交通流量在 $2 5 0 \mathrm { ^ { \sim } 7 5 0 v e h / h }$ 时，车头时距服从移位负指数分布；交通流量大于750veh/h时，车头时距服从M3分布。故本文深入研究了右转机动车的运行特征和车头时距的分布情况根据车头时距服从负指数分布下的行人过街冲突延误模型推导出车头时距服从移位负指数分布和M3分布时的行人过街冲突延误模型，结合信号控制相位延误和双向行人流阻滞延误，以得到更切合实际、更具有可操作性的信号交叉口行人过街的平均延误计算方法，并通过仿真实验验证该方法的有效性。
+
+# 1 无干扰条件下的信号相位延误
+
+交叉口信号控制下的行人延误主要是由于行人在非绿灯时间内到达等候区等待信号灯而产生的相位延误，属于无干扰条件下的行人过街延误。由于行人的行为具有不稳定性，本文假设行人遵守交通规则，不存在违章过街行为。行人过街的延误与信号周期时间和行人过街绿灯时间有关，当信号周期时间增加，行人过街绿灯时间减少时，行人的延误将明显增加[14]。
+
+图1为信号交叉口行人过街聚散示意图，横轴代表时间，纵轴代表行人流量，从 $\mathrm { \Delta T _ { 0 } }$ 时刻开始观察一个周期的行人过街情况。 $\mathrm { \Delta T _ { 0 } }$ 时刻，行人过街绿灯启亮，等候区的行人开始消散。由于人行横道的实际容纳能力有限，行人并不能立即全部消散，需要有消散时间，消散时间内到达的行人仍需排队等候通过交叉口；到达 $\mathrm { T } _ { 1 }$ 时刻，聚集的行人全部消散，随后到达的行人直接通过交叉口，无需排队等候；直到 $\mathrm { T _ { 2 } }$ 时刻，行人过街绿灯信号结束，行人开始排队等待下一绿灯相位启亮；到 $\mathrm { \Delta T _ { 3 } }$ 时刻，绿灯重新启亮，运行方式回到 $\mathrm { \Delta T _ { 0 } }$ 时刻， $\mathrm { { T _ { 3 } } \mathrm { { - T _ { 0 } } } }$ 这段时间就是一个周期。
+
+![](images/29b07cd8f1319fe5022e4e425a6cbd55284bfef82640453e2e867c3f2ca8c441.jpg)  
+图1行人过街聚散示意图
+
+一个周期内无干扰条件下的行人过街延误模型为
+
+$$
+D _ { 1 } \mathrm { = } \frac { \cfrac { 1 } { 2 } \bigg [ ( C - g ) \ : + \frac { a \delta ( C - g ) } { m } \bigg ] ( C - g ) } { C }
+$$
+
+其中： $a$ 为行人到达率（ped/s）； $\delta$ 为前后两排行人过街时距(s); $m$ 为每排能通过的行人数； $c$ 为周期时间（s）； $g$ 为绿灯时间（s）。
+
+# 2 干扰条件下的行人过街延误
+
+本文从右转机动车对行人造成的冲突延误和双向行人流的阻滞延误两部分得到干扰条件下的行人过街延误。
+
+# 2.1右转机动车对行人造成的冲突延误
+
+由前面的分析可知，根据交通流量，可将车头时距分布分为三种情况：负指数分布、移位负指数分布和M3分布，本文根据车头时距服从负指数分布得到的行人过街冲突延误模型推导出车头时距服从移位负指数分布和M3分布时的行人过街冲突延误模型。但由于几种常见的车头时距分布函数的适用范围是有重叠部分的，所以需要根据交通流特征来进行合理的选择。
+
+当行人在绿灯期间需要过街时，首先需要判断右转机动车辆之间是否有可穿越间隙，若有则穿越右转车流通过人行横道，若没有，则等待下一个可穿越间隙。
+
+可穿越间隙[15]根据行人穿越一条车道的时间和行人判断时间来决定，定义为 $\boldsymbol { \tau }$ ，一般取值为 $5 . 6 4 \mathrm { ~ s ~ }$ 0
+
+2.1.1车头时距服从负指数分布时的冲突延误
+
+设机动车到达车头时距服从负指数分布，平均到达率为 $\varphi$ （veh/s），则行人到达要穿越的车流时直接穿越的概率为
+
+$$
+P \left( h > \tau \right) = e ^ { - \varphi \tau }
+$$
+
+行人等待的间隙数为
+
+$$
+{ \overline { { x } } } = \sum _ { k = 1 } ^ { \infty } k \times P { \bigl ( } x = k { \bigr ) } = { \frac { 1 - e ^ { - \varphi \tau } } { e ^ { - \varphi \tau } } }
+$$
+
+随机变量车头时距 $h$ 的概率密度函数为
+
+$$
+f \left( h \right) = \left\{ \begin{array} { l l } { \varphi e ^ { - \varphi h } , h \geq 0 } \\ { 0 \qquad , h < 0 } \end{array} \right.
+$$
+
+若行人在一个间隙内不能过街，则间隙小于可穿越间隙，平均等待时间为
+
+$$
+\overline { { h } } _ { x } = \frac { \displaystyle \int _ { 0 } ^ { \tau } h f \left( h \right) d h } { \displaystyle \int _ { 0 } ^ { \tau } f \left( h \right) d h } = \frac { \displaystyle \frac { 1 } { \varphi } - \left( \tau + \frac { 1 } { \varphi } \right) e ^ { - \varphi \tau } } { 1 - e ^ { - \varphi \tau } }
+$$
+
+则行人穿越一条车道的平均延误为
+
+$$
+D _ { 2 1 } = { \overline { { x } } } \times { \overline { { h } } } _ { x } = { \frac { { \frac { 1 } { \varphi } } - \left( \tau + { \frac { 1 } { \varphi } } \right) e ^ { - \varphi \tau } } { e ^ { - \varphi \tau } } } = { \frac { { \frac { 1 } { \varphi } } - \left( 5 . 6 4 + { \frac { 1 } { \varphi } } \right) e ^ { - 5 . 6 4 \varphi } } { e ^ { - { 5 . 6 4 \varphi } } } }
+$$
+
+2.1.2车头时距服从移位负指数分布时的冲突延误
+
+负指数分布的密度峰值在 $\scriptstyle t = 0$ 处，而实测的车头时距不可能为0，为了克服这个冲突，把负指数密度曲线的起点向右移动，对最小车头时距进行合理取值，一般取 $1 { \sim } 1 . 5 \mathrm { s }$ 。移位负指数分布与实际的分布曲线有所差别，如图2所示。当交通流量处于 $2 5 0 { \sim } 7 5 0 \ \mathrm { v e h / h }$ 时，虽然在拟合较小车头时距的时候与实际情况有偏差，但部分车头时距占比较小，因此对拟合效果影响较小。
+
+![](images/8ff50fda7ca213ab38fca0c8f24215229211947e6e2261e9b1f318d1593cf540.jpg)  
+图2移位负指数分布拟合效果对比
+
+当机动车车头时距符合移位负指数分布时，行人直接穿越概率为
+
+$$
+P { \big ( } h > \tau { \big ) } = e ^ { - \lambda ( h - \tau ) }
+$$
+
+随机变量车头时距 $h$ 的概率密度函数为
+
+$$
+f \left( h \right) = \left\{ \begin{array} { l r } { \varphi e ^ { - \varphi ( h - h _ { \operatorname* { m i n } } ) } , h \geq h _ { \operatorname* { m i n } } } \\ { 0 } & { , h < h _ { \operatorname* { m i n } } } \end{array} \right.
+$$
+
+平均等待时间为
+
+$$
+\overline { { h } } _ { x } = \frac { \displaystyle { \int _ { h _ { \operatorname* { m i n } } } ^ { \tau } } h f \left( h \right) d h } { \displaystyle { \int _ { h _ { \operatorname* { m i n } } } ^ { \tau } } f \left( h \right) d h } = \frac { \displaystyle { \frac { 1 } { \varphi } } - \left( \tau - h _ { \operatorname* { m i n } } + \frac { 1 } { \varphi } \right) e ^ { - \varphi \left( \tau - h _ { \operatorname* { m i n } } \right) } } { 1 - e ^ { - \varphi \left( \tau - h _ { \operatorname* { m i n } } \right) } }
+$$
+
+则行人穿越一条车道的平均延误为
+
+$$
+D _ { 2 2 } = \overline { { x } } \times \overline { { h } } _ { x } = \frac { \displaystyle \frac { 1 } { \varphi } - \left( \tau - h _ { \operatorname* { m i n } } + \frac { 1 } { \varphi } \right) e ^ { - \varphi ( \tau - h _ { \operatorname* { m i n } } ) } } { e ^ { - \varphi ( \tau - h _ { \operatorname* { m i n } } ) } } = \frac { \displaystyle \frac { 1 } { \varphi } - \left( 4 . 6 4 + \frac { 1 } { \varphi } \right) e ^ { - 4 . 6 4 \varphi } } { e ^ { - 4 . 6 4 \varphi } }
+$$
+
+其中： $h _ { \operatorname* { m i n } }$ 为最小车头时距。
+
+2.1.3车头时距服从M3分布时的冲突延误
+
+M3分布的函数表达式为
+
+$$
+F \left( t \right) = \left\{ \begin{array} { l l } { 1 - \eta e ^ { - \theta ( t - h _ { \operatorname* { m i n } } ) } \quad } & { t > h _ { \operatorname* { m i n } } } \\ { 1 - \eta \quad } & { t = h _ { \operatorname* { m i n } } } \\ { 0 \quad } & { t < h _ { \operatorname* { m i n } } } \end{array} \right.
+$$
+
+其中： $\theta$ 为衰减常量，满足式(12):
+
+$$
+\theta { = } \frac { \beta \eta } { 1 { - } \beta h _ { \operatorname* { m i n } } }
+$$
+
+其中： $\eta$ 是自由流比例，满足式(13)； $\beta$ 是流率，满足式(14)。
+
+$$
+\eta { = } { - } 0 . 0 0 0 1 7 9 q _ { c } { + } 1 . 0 4 6
+$$
+
+$$
+\beta { = } \frac { 1 } { M }
+$$
+
+式(14)中， $M$ 为车头时距的均值， $q _ { c }$ 为机动车交通流量。根据视频采集到的数据，对车头时距进行拟合可得到图3。
+
+交通流量大于750veh/h时，对拟合车头时距进行分析研究发现，当车头时距小于定值 $h _ { m i n }$ 时，实际分布和M3分布相差较大，假设属于非自由流的车辆处于跟驰状态，利用 $\chi ^ { 2 }$ 检验，将小于 $h _ { m i n }$ 的车头时距合并，即小于 $h _ { m i n }$ 的车头时距被修正为hmino
+
+![](images/d14c6e1b95ad4beeb2f8341f2d9453eb062d894f6596ef05e903b081a2647d6d.jpg)  
+图3M3分布拟合效果对比
+
+实际上，当交通流量较小时，可以认为自由流比例 $\eta {  } 1$ 。若 $\scriptstyle \eta = 1$ ，M3 分布函数式变为式(15),与移位负指数分布函数式相同，所以对 $\eta$ 进行限制。
+
+$$
+F \left( t \right) = \left\{ \begin{array} { l c } { 1 - e ^ { - \theta ( t - h _ { \operatorname* { m i n } } ) } } & { \quad t \geq h _ { \operatorname* { m i n } } } \\ { 0 } & { \quad t < h _ { \operatorname* { m i n } } } \end{array} \right.
+$$
+
+由式(13)可以看出，当交通流量为 $7 5 0 \mathrm { v e h / h }$ 时， $\eta$ 值近似为0.9，所以阈值设为0.9，交通流量越大， $\eta$ 越小，交通流量
+
+小于 $7 5 0 \ \mathrm { v e h / h }$ 则阈值大于0.9，此时就车头时距分布就不采用M3分布了。
+
+机动车到达车头时距服从M3分布时，行人到达要穿越的车流时直接穿越的概率为
+
+$$
+P \left( h > \tau \right) = \eta e ^ { - \theta \left( \tau - h _ { \operatorname* { m i n } } \right) }
+$$
+
+行人等待的车辆间隔数分布列为
+
+$$
+P \big ( x = k \big ) = \big ( 1 - \eta e ^ { - \theta ( \tau - h _ { \mathrm { m i n } } ) } \big ) ^ { k } \eta e ^ { - \theta ( \tau - h _ { \mathrm { m i n } } ) }
+$$
+
+行人等待的间隙数为
+
+$$
+\overline { { x } } = \sum _ { k = 1 } ^ { \infty } k \times P \bigl ( x = k \bigr ) = \frac { 1 - \eta e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } } { \eta e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } }
+$$
+
+随机变量车头时距 $\mathrm { { h } }$ 的概率密度函数为
+
+$$
+f \left( h \right) = \left\{ \begin{array} { c } { \eta \theta e ^ { - \theta \left( h - h _ { \operatorname* { m i n } } \right) } , h \geq h _ { \operatorname* { m i n } } } \\ { 0 \qquad , h < h _ { \operatorname* { m i n } } } \end{array} \right.
+$$
+
+若行人在一个间隙内不能过街，则间隙小于可穿越间隙，平均等待时间为
+
+$$
+\overline { { h } } _ { x } = \frac { \displaystyle { \int _ { h _ { \operatorname* { m i n } } } ^ { \tau } } h f \left( h \right) d h } { \displaystyle { \int _ { h _ { \operatorname* { m i n } } } ^ { \tau } } f \left( h \right) d h } = \frac { ( \frac { 1 } { \theta } + h _ { \operatorname* { m i n } } ) - \left( \tau + \theta \right) e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } } { 1 - e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } }
+$$
+
+则行人穿越一条车道的平均延误为
+
+$$
+D _ { 2 3 } = \overline { { x } } \times \overline { { h } } _ { x } = \frac { [ ( \frac { 1 } { \theta } + h _ { \operatorname* { m i n } } ) - \left( \tau + \frac { 1 } { \theta } \right) e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } ] ( 1 - \eta e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } ) } { \eta ( 1 - e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } ) \ e ^ { - \theta ( \tau - h _ { \operatorname* { m i n } } ) } }
+$$
+
+# 2.2干扰条件下的双向行人流阻滞延误
+
+本文采用杨秋杰等人在关于双向行人流的组织特性研究的论文中提出的双向行人流阻滞延误计算方法[16]：该方法根据视频中获取的数据分析在行人过街过程中，双向行人数量、行人方向比率和实际容纳能力的关系，推导出干扰条件下的双向行人流阻滞延误模型。
+
+定义观测方向行人数为 $p _ { I } ,$ 对向行人数为 $p _ { 2 }$ ，则行人方向比率为
+
+$$
+r = \frac { p _ { 1 } } { p _ { 1 } + p _ { 2 } }
+$$
+
+双向行人相遇时，对人行横道目标方向的实际容纳能力和方向比率进行数据拟合得到实际容纳能力的公式如下：
+
+$$
+C a p ( r , w ) = ( 7 . 7 + 3 6 . 4 1 ^ { * } r + 5 6 . 8 2 ^ { * } r ^ { 2 } ) ^ { * } ( \frac { 6 } { w } ) ^ { - 0 . 3 8 3 }
+$$
+
+其中， $w$ 为人行横道宽度。
+
+进一步提取双向阻滞延误的数据进行拟合，发现阻滞延误与行人方向比率呈负相关，且随着行人方向比率增加，阻滞延误减小的速率增加；与 $P _ { I } / C a p$ 呈正相关性，且随着 $P _ { I } / C a p$ 的减少，阻滞延误减小的速率趋于稳定，得到阻滞延误的模型为
+
+$$
+D _ { 3 } = 0 . 2 9 5 \times ( 1 5 . 1 8 1 - e ^ { 2 . 7 2 r } ) \times ( \frac { p _ { 1 } } { C a p } ) ^ { 0 . 9 6 }
+$$
+
+# 2.3干扰条件下的行人过街延误
+
+综上所述，可得干扰条件下的信号控制交叉口行人过街总
+
+延误模型为
+
+$$
+D { = } D _ { 1 } + D _ { 2 } + D _ { 3 }
+$$
+
+其中：
+
+$$
+D _ { 2 } = \left\{ \begin{array} { l l } { D _ { 2 1 } } & { q _ { c } < 2 5 0 \nu e h / h } \\ { D _ { 2 2 } } & { 2 5 0 \mathrm { v e h } / \mathrm { h } \le q _ { c } < 7 5 0 \nu e h / h } \\ { D _ { 2 3 } } & { q _ { c } \ge 7 5 0 \nu e h / h } \end{array} \right.
+$$
+
+# 3 实验结果与分析
+
+对延吉市太平街与爱丹路交叉口进行数据采集，主要参数有：南北向车辆直行绿灯时间 $3 0 \mathrm { ~ s ~ }$ ，左转绿灯时间 $1 4 \mathrm { ~ s ~ }$ ，东西向直行绿灯时间 $4 0 \mathrm { ~ s ~ }$ ，左转绿灯时间 $2 2 \mathrm { ~ s ~ }$ ，交叉口设置信号相位如图4所示，信号交叉口平面图及高峰时段交通流量如图5所示。
+
+![](images/18a896d345ae958f86b9eb508ea90ac6b5e8e55488cc9430b3cd1e0b22a8d248.jpg)  
+图4交叉口相位图
+
+![](images/930fa347b338bd7b8149c1f35ab104a4b9e7e48f60d72ea0676b27af96dce305.jpg)  
+图5交叉口平面示意图
+
+Vissim微观仿真软件可以模拟实际交叉口运行状况，仿真结果和实际情况较为接近，所以本文使用Vissim软件对交叉□进行仿真。仿真运行结果如图6所示。
+
+![](images/a797cdbd5dfb2b1c6243de173ec9e6ce2afdbec2be14c9cd619d2e2e9a685054.jpg)  
+图6Vissim交叉口仿真图
+
+选取一周时间的高峰时段和平峰时段，将本文提出的行人过街延误模型计算出的延误值与Vissim仿真实验得到的延误值及HCM模型得到的延误值相比较，比较结果如图7、8及表1所示。
+
+![](images/410a51f06098e62f5721006c3b8987a73eba943c9eebc0d19849a0e391380843.jpg)  
+图7高峰时段延误值对比图
+
+![](images/5796dc679fca40a447d373f991b791182d53e69b1326090458b01cef9e0f7d5f.jpg)  
+图8平峰时段延误值对比图
+
+表1分时段模型延误误差对比表  
+
+<html><body><table><tr><td>延误模型</td><td>本文模型</td><td>HCM模型</td></tr><tr><td>高峰时段</td><td>2.57%</td><td>7.60%</td></tr><tr><td>平峰时段</td><td>1.87%</td><td>11.69%</td></tr></table></body></html>
+
+从图7、8和表1可以看出，本文行人过街延误模型的计算结果与仿真结果更为近似，其延误误差小于 $3 \%$ ，与HCM模型相比，准确性有显著提高。
+
+为了验证本文根据交通流量选取不同的车头时距分布建立行人冲突延误计算模型的方法是否比单一采用负指数分布的行人过街冲突延误计算模型的方法更为有效，分时段选取机动车流量和行人流量，时段分别取6：00-7：00，7：30-8：30，9：30-10:30，12：30-13：30，17:00-18:00及18:00-19：00，此时的右转机动车流量及行人流量（取整）如表2所示。
+
+表2分时段流量表  
+
+<html><body><table><tr><td>时段</td><td>6:00- 7:00</td><td>7:30- 8:30</td><td>9:30- 10:30</td><td>12:30- 13:00</td><td>17:00- 18:00</td><td>18:00- 19:00</td></tr><tr><td>车 流量</td><td>300</td><td>485</td><td>150</td><td>240</td><td>560</td><td>400</td></tr><tr><td>行人 流量</td><td>415</td><td>512</td><td>352</td><td>244</td><td>550</td><td>260</td></tr></table></body></html>
+
+分别计算每个时段的行人过街冲突延误，与以车头时距服从负指数分布为前提得到的行人过街延误及Vissim仿真实验所得延误值做对比，对比结果如图9及表3所示。
+
+![](images/94aa4704cd6de14097af03b25e0f6b0ab87255f3c96551369cdd9288bb8c9d23.jpg)  
+图9基于右转车流量的行人延误对比图
+
+表3分流量模型延误误差对比表  
+
+<html><body><table><tr><td>延误模型</td><td>本文模型</td><td>负指数分布模 型</td></tr><tr><td>误差</td><td>1.21%</td><td>3.16%</td></tr></table></body></html>
+
+由图9可以看出，本文所提出的行人过街冲突延误计算模型与传统的即车头时距单一服从负指数分布前提下的行人过街冲突延误相比，在右转机动车流量 $2 5 0 \mathrm { v e h / h }$ 以内两种计算值都与仿真值相近；当大于250veh/h时，随着车流量的增加，单一服从负指数分布的延误模型与仿真值之间的差距越来越大，相比之下，本文的延误模型更为贴近仿真延误值。
+
+因为在实际驾驶过程中，处于跟驰状态的驾驶员会出于安全考虑保持一定的车头时距，随着车流量的增加，驾驶员心理会发生变化，车头时距也会随之变化，所以当交通流量不同时，车头时距的分布也是不一样的。因此，单一的车头时距分布不贴合实际情况。而引言中提到的文献[13]中，作者通过拟合检验的方法对实际路口车辆的车头时距分布情况进行分析，明确提出了在不同的交通流量区间内车头时距服从的概率分布。本文就是以文献[13]的结论为理论依据推导出不同交通流量区间对应的不同车头时距分布下的行人过街冲突延误模型。而仿真实验结果也证明了按照车流量采用不同车头时距分布的行人过街冲突延误的计算方法比单一采用服从负指数分布的行人过街冲突延误计算方法更为合理。
+
+# 4 结束语
+
+步行交通在交通出行方式中占有重要地位，研究平面交叉□行人过街延误有利于改善行人过街设施的服务水平，综合考虑行人与车辆的冲突也有利于改善交叉口的运行状况。通过对数据的分析，首先根据车头时距服从负指数分布下的行人过街冲突延误模型分别推导出车头时距分布服从移位负指数和 M3分布下的行人过街冲突延误计算模型，然后结合已有的相位延误和双向行人流阻滞延误，最终得到干扰条件下的行人过街总延误模型。本文提出的行人过街延误模型计算结果与行人过街实际延误十分接近，具有较好的实用性。
+
+# 参考文献：
+
+[1]Washington D.Highway capacity manual[J]. Special Report,20oo,1(1-2):
+
+5-7.
+
+[2]Japan Society of Traffic Engineers.Manual of traffic signal control [M]. Tokyo: Japan Society of Traffic Engineers,2006.   
+[3] 杨睿．基于信号交叉口行人二次过街设置方法的行人延误研究 [D]. 成都：西南交通大学,2014.(Yang Rui.The study ofpedestrian delay based on setting method ofpedestrian twice crossing at signalized intersection [D]. ChengDu: Southwest Jiaotong University,2014.)   
+[4] 郑长江，张志伟，赵星，等．考虑机动车干扰下的人行横道处行人延误 研究[J]．贵州大学学报，2017,34(4):104-108.(Zhang Changjiang, Zhang Zhiwei, Zhao Xing,et al.The vehicle interference delay study under considering the crosswalk pedestrian [J]. Journal of Guizhou University: Natural Science,2017,34(4): 104-108.)   
+[5]高利平．城市道路环境下人行横道处行人与机动车冲突分析与延误建 模[D].北京：北京交通大学,2010.(Gao Liping.Delay modeling on pedestrian-vehicle conflict at crosswalks in urban street [D]. Beijing: Beijing Jiaotong University,2010.)   
+[6] 钱大琳，陈小红．基于行人专用相位的交叉口信号控制优化模型[J]. 中国公路学报,2013,26(5):140-147.(Qian Dalin,Chen Xiaohong.Signal control optimization modelat intersection by modifying pedestrian phase [J]. China Journal of Highway and Transport, 2013,26 (5): 140-147. )   
+[7]冯树民，裴玉龙．行人过街延误研究[J].哈尔滨工业大学学报,2007, 39 (4): 613-616.(Feng Shumin,Pei Yulong.Research on delay of pedestrian crossing [J]. Journal of Harbin Institute of Technology,20o7,39 (4): 613- 616.)   
+[8]赵靖，陈志芳，马晓旦．连续流交叉口行人延误计算模型[J/OL].计算 机应用研究，2018,35（9)．(2017-10-17）[2018-03-28].http://www. arocmag.com/article/02-2018-09-031.html.(Zhao Jing,Chen Zhifang,Ma Xiaodan.Pedestrian delay models for continuous flow intersections [J/OL]. Application Research of Computers,2018,35(9).(2017-10-17) [2018-03- 28]. http://www.arocmag.com/article/02-2018-09-031. html.)
+
+[9]孙迪．行人过街交通行为分析建模[D].长春：吉林大学,2012.(Sun Di.
+
+Analysis and modeling of pedestrian crossing behavior [D]. Changchun: Jilin University,2012.)   
+[10] Guo Renyong,Wong SC,Xia Yinhua,et al.Empirical evidence for the lookahead behavior of pedestrians in bi-directional flows [J/OL].Chinese Physics Letters.2012,29(6): Article ID068901.(2012-03-20)[2018-03-28]. http://doi.0rg/10.1088/0256-307X/29/6/068901.   
+[11]卢凯，胡建伟，李福樑，等．行人斜穿信号交叉口绿波设计及延误模型 [J].吉林大学学报：工学版,2016,46(6):1818-1826.(Lu Kai,Hu Jianwei, LiFuliang,et al. Green wave design and delay model of pedestrian diagonal crossing at signal intersection[J].Journalof Jinlin University:Engineering and Technology Edition,2016,46 (6): 1818-1826.)   
+[12] Cowan R J. Useful headway models [J]. Transportation Research Record, 1975,9 (6): 371-375.   
+[13]段力，过秀成，姚崇富．车头时距分布函数的验证、分析与选择[J].公 路交通科技,2014,31(5):147-152.(Duan Li,Guo Xiucheng,Yao Chongfu. Verification,analysis and selection of distribution function ofheadways [J]. Journal of Highway and Transportation Research and Development, 2014, 31 (5): 147-152.)   
+[14]冯树民，裴玉龙．考虑行人过街的两相位交叉口配时优化[J].交通运 输系统工程与信息，2009,9(3):146-151.(Feng Shumin,Pei Yulong. Timing optimization for two-phase intersections considering pedestrian crossing [J]. Journal ofTransportation Systems Engineering and Information Technology,2009,9 (3): 146-151.)   
+[15] Botma H. Method to determine level of service for bicycle paths and pedestrian-bicycle paths [J].Transportation Research Record,1995,15 (2): 38-44.   
+[16]杨秋杰．信号控制下行人过街时间建模及应用[D].长春：吉林大学, 2016.(Yang Qiujie.Modeling and application of pedestrian crossing time under signal control[D]. Changchun: Jilin University, 2016.)

@@ -1,0 +1,230 @@
+1镰刀菌毒素对断奶仔猪脾脏抗氧化能力和白细胞介素-1β、白细胞介素-6分布和表达的影响程群姜淑贞陈宁波黄丽波张桂国杨维仁\*（山东农业大学动物科技学院，泰安271018）
+
+4摘要：本试验旨在研究自然霉变饲粮中镰刀菌毒素对断奶仔猪脾脏抗氧化能力和白细胞介  
+5 素-1β（IL-1β）、白细胞介素-6（IL-6）分布和表达的影响。选择35 日龄平均体重为（8.45  
+6 $\pm 0 . 9 4$ ） $\mathrm { k g }$ 的健康三元杂交（杜 $\times$ 长 $\times$ 大）断奶仔猪母猪40头，随机分为2组，每组20头。  
+7 对照组饲喂基础饲粮，镰刀菌毒素组饲喂含镰刀菌毒素[玉米赤霉烯酮(ZEN) $0 . 9 0 \mathrm { \ m g / k g }$   
+8 呕吐毒素（DON） $1 . 4 3 \mathrm { \ m g / k g }$ ，烟曲霉毒素（FUM) $5 . 8 5 \mathrm { \ m g / k g ] }$ 的试验饲粮。预试期7d,  
+9 正试期35d。结果表明：1）与对照组相比，镰刀菌毒素显著降低了断奶仔猪血清和脾脏谷  
+10 胱甘肽过氧化物酶（ $\mathrm { G S H - P x }$ ）和总超氧化物歧化酶（T-SOD）活性（ $P { < } 0 . 0 5 )$ ，显著升高了  
+11 丙二醛（MDA）含量（ $P { < } 0 . 0 5$ )。2）镰刀菌毒素使断奶仔猪脾脏白髓区明显变小，红髓区  
+12 扩张且出现近圆形小空洞，动脉周围淋巴鞘中淋巴细胞数量较少。3）镰刀菌毒素导致断奶  
+13 仔猪脾脏 IL-1β 和 IL-6 阳性细胞主要集中于白髓边缘，且靠近血窦的地方阳性点更多。4)  
+14 与对照组相比，镰刀菌毒素显著升高了断奶仔猪脾脏 $I L \mathrm { - } 1 \beta$ 和 IL-6 mRNA 相对表达量（ $P <$   
+15 0.05)。由此可见，饲粮中镰刀菌毒素显著影响断奶仔猪血清和脾脏抗氧化能力，并通过改  
+16 变脾脏IL-1β和IL-6 的分布和表达，降低脾脏的免疫功能。
+
+17 关键词：断奶仔猪；镰刀菌毒素；白细胞介素-1β；白细胞介素-6；脾脏中图分类号:S828 文献标识码: 文章编号：
+
+镰刀菌属是污染粮食和饲料的主要霉菌菌属之一[1]，其中对动物健康及生产危害最大的镰刀菌毒素包括玉米赤霉烯酮（zearalenone，ZEN）、呕吐毒素（deoxynivalenol，DON）和烟曲霉毒素（fumonisin，FUM）[2]。镰刀菌毒素广泛分布于自然界中，能污染人类食品和畜禽饲粮，引起人和动物的急性或非急性中毒，甚至死亡[3]。研究发现，饲喂多种镰刀菌毒素[2或 $3 \ \mathrm { m g / k g }$ DON， $1 . 3 \mathrm { \ m g / k g }$ 雪腐镰刀菌烯醇（nivalenol，NIV）， $1 . 5 \mathrm { \ m g / k g }$ ZEN]污染的饲粮，仔猪的肝脏、小肠和淋巴器官出现一定程度的病理学损伤，淋巴结和脾脏出现细胞
+
+收稿日期：2017-03-05  
+基金项目：山东省现代农业产业技术体系生猪创新团队专项资金（SDAIT-08-05）  
+作者简介：程群（1991—)，女，山东莱阳人，硕士研究生，从事动物营养与饲料科学研  
+究。E-mail: 18854886553@163.com  
+\*通信作者：杨维仁，教授，博士生导师，E-mail:wryang@sdau.edu.cn
+
+凋亡[4]。研究表明，不产生细胞毒性剂量的单一镰刀菌毒素[DON、NIV、ZEN 和伏马毒素 B${ \bf \Gamma } _ { 1 } ( \mathrm { F B } _ { 1 } )$ ]混合染毒后，导致猪空肠上皮细胞活性显著降低，其中4种毒素联合的毒性最强[5;且多种镰刀菌毒素的联合作用可破坏细胞因子间的平衡，诱导多种细胞因子[白细胞介素-1α（IL-1α）、白细胞介素 $- 1 \beta$ （IL-1β）、白细胞介素-6（IL-6）、白细胞介素-8（IL-8）、肿瘤坏死因子 $- \mathbf { a }$ (TNF- $\begin{array}{c} \mathbf { \sigma } \cdot \mathbf { a } _ { } ^ { } \end{array}$ ）和单核细胞趋化因子-1（MCP-1）]的产生，从而加重组织甚至整个机体的炎性反应[]。目前有关镰刀菌毒素的研究主要集中在猪（肝脏、肠道)和小鼠上，且多为对单一毒素的研究。而结合生产实践，研究实际生产条件下镰刀菌毒素对断奶仔猪脾脏影响的报道甚少。本试验旨在研究镰刀菌毒素对断奶仔猪脾脏和血清抗氧化能力的影响，并从组织学和分子生物学水平系统探讨其对断奶仔猪脾脏 $\mathrm { I L } \mathrm { - } 1 \beta$ 、IL-6分布和表达的影响，为减轻镰刀菌毒素对断奶仔猪脾脏的免疫损伤和指导断奶仔猪健康生产提供参考依据。
+
+1材料与方法
+
+1.1试验材料
+
+本课题组从山东省多个饲料厂和养殖场抽检饲料原料样品，检测其霉菌毒素含量，调查霉菌毒素污染状况。从中选择毒素水平低于检测限的原料配制基础饲粮，选择自然霉变玉米和自然霉变玉米蛋白粉配制镰刀菌毒素饲粮。
+
+# 1.2试验动物与饲养管理
+
+选择35日龄平均体重为（ $8 . 4 5 { \scriptstyle \pm 0 . 9 4 }$ ）kg的健康三元杂交（杜 $\times$ 长 $\times$ 大）断奶仔猪母猪40头，随机分成2组，每组20头，各组间初始体重差异不显著（ ${ \cal P } { > } 0 . 0 5$ ）。试验仔猪单栏饲养，自由采食和饮水。对照组饲喂基础饲粮，镰刀菌毒素组用 $50 \%$ 自然霉变玉米和 $50 \%$ 自然霉变玉米蛋白粉替代基础饲粮中的玉米和玉米蛋白粉，镰刀菌毒素组饲粮中含 $0 . 9 0 ~ \mathrm { m g / k g }$ ZEN、$1 . 4 3 ~ \mathrm { m g / k g }$ DON、 $5 . 8 5 \mathrm { m g / k g }$ FUM。预试期7d，正试期35d。所有试验饲粮在试验开始前一次性配齐，于干燥阴凉处保存。基础饲粮参考NRC（2012）[7]标准配制，饲粮组成及营养水平见表1。
+
+# 表1饲粮组成及营养水平 (风干基础)
+
+%
+
+Table 1Composition and nutrient levels of diets (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>镰刀菌毒素组Fusarium</td></tr><tr><td></td><td></td><td>toxins group</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>61.70</td><td>30.85</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">发霉玉米 Contaminated corn</td><td>30.85</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>5.00</td><td>2.50</td></tr><tr><td>发霉玉米蛋白粉 Contaminated corn gluten meal</td><td></td><td>2.50</td></tr><tr><td>豆粕 Soybean meal</td><td>24.00</td><td>24.00</td></tr><tr><td>乳清粉 Whey powder</td><td>3.00</td><td>3.00</td></tr><tr><td>豆油 Soybean oil</td><td>2.50</td><td>2.50</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.30</td><td>1.30</td></tr><tr><td>石粉Limestone</td><td>1.10</td><td>1.10</td></tr><tr><td>食盐NaCl</td><td>0.40</td><td>0.40</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>14.25</td><td>14.25</td></tr><tr><td>粗蛋白质CP</td><td>19.26</td><td>19.11</td></tr><tr><td>钙Ca</td><td>0.82</td><td>0.82</td></tr><tr><td>有效磷P</td><td>0.33</td><td>0.33</td></tr><tr><td>食盐 NaCl</td><td>0.42</td><td>0.42</td></tr><tr><td>赖氨酸 Lys</td><td>1.11</td><td>1.11</td></tr><tr><td>蛋氨酸Met</td><td>0.41</td><td>0.41</td></tr><tr><td>苏氨酸Thr</td><td>0.78</td><td>0.78</td></tr><tr><td>毒素含量 Toxin contents/(μg/kg)3)</td><td></td><td></td></tr><tr><td>玉米赤霉烯酮 ZEN</td><td></td><td>899.40</td></tr><tr><td>呕吐毒素 DON</td><td>170.20</td><td>1 429.40</td></tr><tr><td>黄曲霉毒素 AFL</td><td></td><td></td></tr><tr><td>烟曲霉毒素 FUM</td><td>340.00</td><td>5 846.50</td></tr><tr><td>T-2 毒素 T-2 toxin</td><td>一</td><td></td></tr></table></body></html>
+
+50 1)预混料为每千克饲粮提供 Premix provided the following per $\mathbf { k g }$ of diets:VA 3 300 IU, 51 $\mathrm { V D } _ { 3 } 3 3 0$ IU，VE 24 IU, $\mathrm { V K } _ { 3 } 0 . 7 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 . 2 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 2 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 6$
+
+mg，泛酸 pantothenic acid $1 5 . 0 0 \mathrm { m g }$ ，尼克酸niacin $2 2 . 5 \mathrm { m g }$ ，生物素biotin $0 . 0 7 5 \mathrm { m g }$ ，叶酸  
+folic acid $0 . 4 5 \mathrm { m g }$ ， $\mathrm { M n } 6 . 0 0 \mathrm { m g }$ ，Fe $1 5 0 ~ \mathrm { m g }$ ， $Z n 1 5 0 ~ \mathrm { m g }$ ， $\mathrm { { C u } 9 . 0 0 \mathrm { { m g } } }$ ， I0.21 mg，Se $0 . 4 5 \mathrm { m g }$ 。2粗蛋白质为实测值，其他为计算值。CP was a measured value,while the others were  
+calculated values.3)实测值 Measured values。
+
+1.3样本采集
+
+在试验第35天晨饲前每组随机选择10头仔猪进行前腔静脉采血。用真空促凝采血管采血约 $1 0 ~ \mathrm { m L }$ ， $3 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 制备血清，分装于 $1 . 5 ~ \mathrm { m L }$ 离心管中，用于血清抗氧化指标的测定。采血后仔猪电击致死，剖开腹腔，在脾脏中段剪取 $1 0 \ \mathrm { c m }$ 左右的样品，用生理盐水洗净血液并将样品均匀裁切成两段，一段置于Bouin's液中固定，用于免疫组化切片的制作；另一段放入5mL无菌冻存管中，立即放入液氮中速冻，然后转入-80℃低温冰箱用于mRNA表达量的测定；其余脾脏组织-20℃冻存，用于脾脏抗氧化指标的测定。
+
+1.4指标测定与方法
+
+1.4.1饲粮毒素含量
+
+在试验开始前和结束后分别取饲粮样品，用以分析饲粮毒素含量和粗蛋白质水平[8]。ZEN、黄曲霉毒素（AFL）、T-2毒素和FUM含量的测定采用酶联免疫吸附法（ELISA）和荧光测定法，DON含量的测定采用高效液相色谱（HPLC）法。ZEN、DON、AFL、FUM和T-2毒素含量的最低检测限分别为 $0 . 1 ~ \mathrm { { m g / k g } }$ 、 $0 . 1 ~ \mathrm { { m g / k g } }$ 、 $1 . 0 ~ \mu \mathrm { g / k g }$ 、 $0 . 2 5 ~ \mathrm { m g / k g }$ 和 $\scriptstyle 1 . 0 \ \mu \mathrm { g / k g }$ 。饲粮毒素含量见表1，AFL和T-2毒素未检出或含量低于检测限水平。
+
+1.4.2血清抗氧化指标
+
+血清总超氧化物歧化酶（T-SOD）活性采用黄嘌呤氧化酶法（羟胺法）测定，血清谷胱甘肽过氧化物酶（GSH $\mathbf { \cdot P x }$ ）活性采用化学比色法测定，血清丙二醛（MDA）含量采用比色法测定。T-SOD活性测试试剂盒（A001-1）、GSH-Px活性测试试剂盒（A005）和MDA含量测试试剂盒（A003）均购自南京建成生物工程研究所，具体测定方法均按试剂盒说明书进行。
+
+# 1.4.3脾脏抗氧化指标
+
+取出脾脏组织，在冰面上解冻后，按重量体积比加入9倍体积的生理盐水，冰水浴条件下机械匀浆（ $1 0 0 0 0 { \sim } 1 5 0 0 0 \mathrm { r } / \mathrm { m i n } ) ,$ ），冷冻离心机离心（ $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ ） $1 5 ~ \mathrm { m i n }$ ，吸取上清液分装备用。GSH $\mathbf { \cdot P x }$ 、T-SOD活性和MDA含量的测定方法同1.4.2。
+
+81 1.4.4苏木精-伊红（HE）染色
+
+取Bouin's液中固定好的脾脏组织进行流水冲洗，经乙醇逐级脱水，二甲苯透明，石蜡包埋制成石蜡组织块，用切片机（LEICARM2135，德国）进行切片，片厚 ${ 5 \mu \mathrm { m } }$ 。将制备好的石蜡切片经二甲苯脱蜡，梯度酒精至蒸馏水。苏木素染色 $1 0 \mathrm { m i n }$ ；盐酸酒精分化5s，自来水中蓝化 $1 5 \mathrm { m i n }$ ；伊红染色 $1 0 \mathrm { ~ s ~ }$ ，经 $9 5 \%$ 乙醇、 $100 \%$ 乙醇脱水，二甲苯透明，中性树胶封片，明视野显微镜下观察。
+
+# 1.4.5免疫组化[链霉亲和素-生物素复合物（SABC）法]
+
+取Bouin's液中固定好的脾脏组织，修块后用乙醇逐级脱水，二甲苯透明，采用BMJ23型包埋机包埋。具体步骤为：1）切片机（LEICARM2135，德国）进行切片（ ${ } _ { , 5 \mu \mathrm { m } } )$ ，常规脱蜡至水。2）柠檬酸缓冲液（ $0 . 0 1 \mathrm { m o l / L }$ ， $\mathrm { p H } 6 . 0$ ）进行抗原热修复，磷酸盐缓冲液（PBS)（ $0 . 0 1 \mathrm { \ m o l / L }$ ， $\mathrm { p H } ~ 7 . 2$ ）洗3次， $5 ~ \mathrm { m i n } /$ 次（下同)。3） $3 \%$ 过氧化氢 $\mathrm { ( H } _ { 2 } \mathrm { O } _ { 2 }$ ）室温避光孵育30min，用以阻断内源性过氧化物酶，PBS洗3次。4）10%胎牛血清37℃封闭孵育1h。5)分别加一抗兔抗IL-6（1:150）多克隆抗体（bs-4587R，北京博奥森生物技术有限公司）和兔抗IL- $1 \beta$ （1:150）多克隆抗体（bs-0812R，北京博奥森生物技术有限公司)，4℃孵育过夜，PBS洗3次。6）加生物素化羊抗兔免疫球蛋白G（IgG）（1:200）二抗（SPN-9001，北京中杉金桥生物技术有限公司)，37℃恒温箱中孵育 $^ { \textrm { 1 h } }$ ，PBS 洗3次。7）加辣根过氧化物酶-链霉素亲和素(1:200),37℃孵育 $4 5 \mathrm { m i n }$ ,PBS 洗3次。8)二氨基联苯胺(DAB)[ZLI-9018,北京中杉金桥生物技术有限公司，浓缩液：缓冲液（V/V) $\scriptstyle = 1 : 2 0 ]$ 显色，显微镜下观察显色程度，控制显色时间。9）苏木素复染、脱水、透明、封片，在明视野显微镜下观察免疫阳性细胞分布规律（阳性产物呈棕黄色）。
+
+# 1.4.6脾脏IL-6和 $I L \mathrm { - } 1 \beta$ mRNA相对表达量
+
+根据GeneBank已报道的猪的 $I L \mathrm { - } 1 \beta$ 、IL-6和甘油醛-3-磷酸脱氢酶（GAPDH）基因（内参基因）序列，用Primer6.0设计相应特异性引物，引物由上海生物工程公司合成（表2)。
+
+表2IL-1β、IL-6和GAPDH基因的引物序列
+
+Table2 Primer sequences of IL-1β,IL-6 and GAPDH genes   
+
+<html><body><table><tr><td></td><td>引物序列</td><td>产物大小</td><td></td></tr><tr><td>基因</td><td>Primer sequence (5'—3')</td><td>Production</td><td>登录号 Accession No.</td></tr><tr><td>白细胞介素</td><td>F:CCTCTCCAGCCAGTCTTCAT</td><td></td><td></td></tr><tr><td>-1β IL-1β</td><td>R:GCCATCAGCCTCAAATAACAG</td><td>126</td><td>NM_214055.1</td></tr></table></body></html>
+
+<html><body><table><tr><td>白细胞介素</td><td>F:TGGCTACTGCCTTCCCTACC</td><td></td><td></td></tr><tr><td>-6IL-6</td><td>R:CACACATCTCCTTTCTCATTGC</td><td>153</td><td>NM_214399.1</td></tr><tr><td>甘油醛-3-磷</td><td></td><td></td><td></td></tr><tr><td></td><td>F:ATGGTGAAGGTCGGAGTGAA</td><td></td><td></td></tr><tr><td>酸脱氢酶</td><td></td><td>154</td><td>NM_001206359.1</td></tr><tr><td></td><td>R:CGTGGGTGGAATCATACTGG</td><td></td><td></td></tr><tr><td>GAPDH</td><td></td><td></td><td></td></tr></table></body></html>
+
+取-80℃保存的脾脏样品 $5 0 \sim 1 0 0 ~ \mathrm { m g }$ ，按照Trizol试剂盒说明书（Invitrogen 公司，美国）提取总RNA，利用紫外分光光度计检测 RNA 的质量和浓度，结果显示光密度（OD)比值均在 $1 . 8 \sim 2 . 0$ 之间。检测后的总RNA立即进行反转录。反转录按照 PrimeScript@RT MasterMix Perfect Real Time 试剂盒说明书进行操作（TaKaRaCoad:DDR036A，Lot：BK1302，反应体积为 $2 0 ~ \mu \mathrm { L }$ )。按照TaKaRa公司的荧光定量PCR试剂盒说明书加入相应的反应试剂（TaKaRa 公司，大连），反应体系为 $2 0 ~ \mu \mathrm { L }$ ，组成为 $1 0 ~ \mu \mathrm { L }$ SYBR Primerx Ex Taq, $0 . 4 ~ \mu \mathrm { L }$ 上游引物（ $1 0 \ \mathrm { \textmu m o l / L }$ ， $0 . 4 ~ \mu \mathrm { L }$ 下游引物（ $1 0 \ \mathrm { \textmu m o l / L }$ ， $0 . 4 ~ \mu \mathrm { L }$ ROX Reference Dye， $2 \mu \mathrm { L }$ cDNA和 $6 . 8 ~ \mu \mathrm { L } ~ \mathrm { d H } _ { 2 } \mathrm { O }$ 。其扩增条件均为95℃预变性 $3 0 \mathrm { ~ s ~ }$ ，95℃变性 $5 \mathrm { ~ s ~ }$ ， $6 0 \mathrm { ~ \textdegree ~ }$ 退火延伸 $3 4 ~ \mathrm { s }$ 95℃15 s，60℃ $6 0 ~ \mathrm { s }$ ，40个循环，60℃检测荧光信号。每个样品做3个重复。
+
+1.5数据统计与分析
+
+荧光定量PCR 检测结果用 $2 ^ { - } \Delta \triangle ^ { \mathrm { C t [ 9 ] } }$ 进行数据处理，分析基因 IL-1β、IL-6 mRNA 在脾脏中的相对表达量。试验数据采用 SAS 9.2软件进行单因素方差分析（one-way ANOVA），用Duncan氏法进行多重比较，试验结果采用“平均值 $\cdot \pm$ 标准差(mean±SD)"表示，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准。
+
+2结果与分析
+
+2.1镰刀菌毒素对断奶仔猪生产性能和脾脏相对重量的影响
+
+自然霉变饲粮中镰刀菌毒素对断奶仔猪生产性能影响的结果显示，与对照组相比，镰刀菌毒素显著降低了断奶仔猪的平均日增重（ADG）（P<0.05）[10]。
+
+自然霉变饲粮中镰刀菌毒素对断奶仔猪脾脏相对重量影响的结果显示，与对照组相比，镰刀菌毒素对断奶仔猪脾脏相对重量无显著影响（ $P { > } 0 . 0 5$ ）。可见，脾脏组织无肉眼可见的病理变化。
+
+2.2镰刀菌毒素对断奶仔猪血清和脾脏抗氧化指标的影响
+
+自然霉变饲粮中镰刀菌毒素对断奶仔猪血清和脾脏抗氧化指标的影响见表3。由表可知，9 镰刀菌毒素显著降低了断奶仔猪血清和脾脏GSH- $\mathbf { \cdot P x }$ 和T-SOD 活性（ $P { < } 0 . 0 5$ ），显著升高
+
+130 了MDA含量（ $P { < } 0 . 0 5$ ）。证明镰刀菌毒素组断奶仔猪的脾脏有一定程度的氧化损伤。
+
+表3镰刀菌毒素对断奶仔猪血清和脾脏抗氧化指标的影响  
+12 Table 3Effects of Fusarium toxins on antioxidant indexes in serum and spleen of weaned piglets   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>镰刀菌毒素组</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>Fusarium toxins group</td><td>P-value</td></tr><tr><td>血清 Serum</td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>839.91±15.51a</td><td>612.25±11.18b</td><td><0.001</td></tr><tr><td>总超氧化物歧化酶 T-SOD/(U/mL)</td><td>130.51±1.95a</td><td>111.49 ±2.82b</td><td><0.001</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>8.79±0.39b</td><td>10.08±0.25a</td><td><0.001</td></tr><tr><td>脾脏 Spleen</td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mg prot)</td><td>100.44±9.23a</td><td>68.62±6.77b</td><td>0.041</td></tr><tr><td>总超氧化物歧化酶 T-SOD/(U/mg prot)</td><td>163.36±13.59a</td><td>135.01±11.17b</td><td>0.032</td></tr><tr><td>丙二醛 MDA/(nmol/mg prot)</td><td>1.17±0.19b</td><td>2.01±0.14a</td><td>0.014</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，相同或无字母表示差异不显著$( P { > } 0 . 0 5 )$ 。
+
+In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$
+
+2.3镰刀菌毒素对断奶仔猪脾脏组织病理学变化的影响
+
+自然霉变饲粮中镰刀菌毒素对断奶仔猪脾脏组织病理学变化的影响见图1。由图可知，对照组断奶仔猪脾脏未见明显病变，白髓区细胞排列均一，胞核呈均匀淡蓝色或蓝色（A处黄箭头）。而镰刀菌毒素组断奶仔猪脾脏的组织学形态发生了明显变化，白髓区明显变小，红髓区扩张且出现近圆形小空洞（B处红箭头），动脉周围淋巴鞘中淋巴细胞数量较少。脾脏组织切片从形态学证明了镰刀菌毒素对断奶仔猪的脾脏造成了组织病理损伤。
+
+![](images/864fc3fcd59174fa50c9e691d891ba0835b2c207202d1464ab7fd527f96504a7.jpg)
+
+A和B均表示白髓区，黄箭头表示正常白髓区，红箭头表示病变的白髓区。
+
+图1镰刀菌毒素对断奶仔猪脾脏组织病理学变化的影响
+
+Fig.1Effects of Fusarium toxins on splenic histopathological changes of weaned piglets 2.4镰刀菌毒素对断奶仔猪脾脏IL-1β和IL-6分布的影响
+
+自然霉变饲粮中镰刀菌毒素对断奶仔猪脾脏IL- $1 \beta$ 和IL-6分布的影响见图2。由图可知，对照组断奶仔猪脾脏IL-1β 和 IL-6 的阳性细胞主要分散存在于白髓区，且染色较浅数量较少（红箭头)；镰刀菌毒素组断奶仔猪脾脏IL-1β 和 IL-6 的阳性细胞主要集中于白髓边缘，且靠近血窦的地方阳性点更多(黄圈)。图中清晰可见的阳性点进一步证明了镰刀菌毒素对断奶仔猪的脾脏造成了明显损伤。
+
+批注[U1]:图中：“Control”改为“对照组 Control group",“Fusariumtoxins”改为“镰刀菌毒素组Fusariumtoxins$\mathrm { \ g r o u p ^ { \prime } }$ ，“ $1 0 0 0 0 0 0$ 改为“ $1 0 0 \times 1 0 0 0$ ，“ ${ \mathrm { 2 0 } } \ { \mu \mathrm { m } } ^ { \prime }$ 改为“（10$\cdot$ ”。
+
+![](images/33405888bc787bb60f2ced6d387ac7a917ee86dfc3bd3cf912cbdce2f10f84b5.jpg)
+
+红色箭头表示IL-1β和IL-6的免疫阳性细胞，黄色圆圈表示阳性细胞集中区。
+
+Red arrows indicated immune positive cells of IL- $1 \beta$ and IL-6,and yellow circle indicated the concentrated area of positive cells.
+
+图2镰刀菌毒素对断奶仔猪脾脏IL-1β和IL-6分布的影响
+
+Fig.2Effects ofFusarium toxins on the distributions of IL- $\cdot 1 \beta$ and IL-6 in spleen of weaned piglets $( 1 0 \times 4 0 )$ 0
+
+2.5镰刀菌毒素对断奶仔猪脾脏 $I L \mathrm { - } 1 \beta$ 和 $I L { - } 6$ mRNA相对表达量的影响
+
+自然霉变饲粮中镰刀菌毒素对断奶仔猪脾脏 $I L \mathrm { - } 1 \beta$ 和 $I L { - } 6$ mRNA相对表达量的影响见图3。由图可知，与对照组相比，镰刀菌毒素显著升高了断奶仔猪脾脏 $I L \mathrm { - } 1 \beta$ 和IL-6 mRNA相对表达量（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ 。通过对脾脏 $I L \mathrm { - } 1 \beta$ 和 $I L { \bf - } 6 ~ \mathrm { m R N A }$ 相对表达量的统计，可以更加肯定镰刀菌毒素对断奶仔猪造成了脾脏损伤。
+
+批注[U2]:图中：“Control”改为“对照组Control group"，“Fusarium toxins”改为“镰刀菌毒素组 Fusarium toxinsgroup”，“IL-1β"改为“白细胞介素-1β IL-1β"，“IL-6"改为“白细胞介素-6IL-6”。
+
+![](images/517930ab14ba5511b493f15cea9512831367681028db6c7e4102f2d3663d0acb.jpg)  
+Fig.3Effects of Fusarium toxins on the relative expression of IL- $1 \beta$ and IL-6 mRNA in spleen of weaned piglets
+
+数据柱标注不同小写字母表示差异显著（ $P { < } 0 . 0 5 \rangle$ 。
+
+Value columns with different small letter superscripts mean significant difference $_ { ( P < 0 . 0 5 ) }$
+
+图3镰刀菌毒素对断奶仔猪脾脏 $I L { - } 1 \beta$ 和 IL-6mRNA相对表达量的影响批注[U3]：修改为：脾脏 $I L { - } 1 \beta$ 和IL-6mRNA相对表达量Relative expression of IL $1 \beta$ and IL-6 mRNA in spleen，对照组Control group，镰刀菌毒素组 Fusarium toxins group。“IL-1β"改为“白细胞介素- $1 1 0 1 1 1 0 1 1 0 1$ ，“IL-6"改为“白细胞介素-6 IL-6"。
+
+3讨论
+
+本试验采用已知镰刀菌毒素含量的自然霉变玉米和自然霉变玉米蛋白粉配制镰刀菌毒素污染饲粮。由于镰刀菌毒素污染的普遍性，本试验在保证试验结果真实性的基础上对饲料原料进行了严格的筛选，然而遗憾的是对照组饲粮中仍然检测到少量的镰刀菌毒素，但各毒素含量均远低于我国饲料卫生标准[11-12]（ZEN 含量 ${ < } 0 . 5 ~ \mathrm { { m g / k g } }$ ，GB13078.2—2006；DON 含量<l mg/kg，GB13078.3—2007；我国对于饲料中FUM 含量还没有制定相应的限量标准）和欧盟关于仔猪饲粮中 ZEN、DON 和 FUM含量分别 $< 0 . 1$ 、0.9和 $5 ~ \mathrm { m g / k g }$ 的最高限量规定[13]，且镰刀菌毒素组镰刀菌毒素含量远超过上述标准，因此可以认为对照组镰刀菌毒素含量不影响试验组结果的判断。
+
+3.1镰刀菌毒素对断奶仔猪血清和脾脏抗氧化能力的影响
+
+研究发现，氧化损伤是镰刀菌毒素危害动物健康的毒性机理之一[14-16],GSH $\mathbf { \cdot P x }$ 、T-SOD和 MDA 是反映机体抗氧化能力的重要指标[17-19]。据报道,ZEN 和 DON 会阻断鞘磷脂代谢，使细胞产生大量 MDA，引起脂质过氧化[2]。细胞联合毒性试验结果也表明，镰刀菌毒素（DON 和 ZEN）能通过损害细胞的抗氧化系统[20-21和加速自由基的产生来加速细胞的过氧化反应[22],造成某些脏器的氧化损伤。研究发现，肉鸡采食自然霉变饲粮( $1 0 2 . 0 8 ~ \mu \mathrm { g / k g }$ AFL,$2 8 1 . 9 2 \mu \mathrm { g / k g }$ ZEN， $5 ~ 8 7 4 . 3 8 ~ { \mu \mathrm { g / k g } }$ FUM, $2 \ 0 3 8 . 9 6 \ \mu \mathrm { g / k g }$ DON）后，血清T-SOD 活性显著降低，MDA 含量显著升高[23]。本试验结果表明，镰刀菌毒素组断奶仔猪血清和脾脏 T-SOD和GSH $\mathbf { \nabla \cdot P X }$ 活性均显著低于对照组，MDA含量显著高于对照组，进一步证实了镰刀菌毒素可能引起脾脏氧化应激，导致脾脏损伤。
+
+3.2镰刀菌毒素对断奶仔猪脾脏组织病理损伤的影响
+
+脾脏是由红髓和白髓组成的最大外周免疫器官，在维持机体免疫应答中有重要作用。红髓参与破坏损伤和衰老的红细胞、滤过和吞噬抗原物质；白髓包括动脉周围淋巴细胞鞘、滤泡和边缘区，是体液免疫的主要场所。研究发现，小鼠饲粮中每千克体重添加 $4 0 \mathrm { m g / k g }$ ZEA（相当于 $1 \mathrm { m g } Z \mathrm { E A } / \mathrm { d } ;$ ，结果发现脾脏组织病理学发生了改变，脾脏淋巴细胞数量显著减少，脾细胞、红髓肿胀和白髓萎缩，诱导了免疫系统受损[24]。也有研究表明，给断奶雌鼠饲喂添加 $1 0 \mathrm { m g / k g }$ ZEA(相当于 $1 . 5 \mathrm { m g / k g / d ) }$ 饲粮8周后，没有观察到脾脏组织的病理学变化[25]。本试验研究发现，镰刀菌毒素组断奶仔猪脾脏组织白髓区明显变小，红髓区扩张，且出现许多空泡样变性，动脉周围淋巴鞘中淋巴细胞数量也较少，表明脾脏受到了损伤，与Dong 等[26]试验结果相似。脾脏的损伤可能是3 种镰刀菌毒素联合作用的结果，其作用的具体机制有待进一步研究。
+
+# 3.3镰刀菌毒素对断奶仔猪脾脏 $\mathrm { I L } \mathrm { - } 1 \beta$ 、IL-6分布和mRNA相对表达量的影响
+
+IL- $1 \beta$ 和 IL-6 含量的高低可作为反映机体损伤程度的重要生理指标[27]。IL-1β 是一种多肽调节因子，能在机体发生炎症反应时做出急性反应，局部组织内持续大量合成IL-1β，会加速局部炎症反应[28-29]，使机体释放大量细胞因子，可引发全身性炎症反应[30]。IL-6 是一种多效性炎性因子，具有抗炎症细胞因子及促炎症细胞因子的双重作用，在炎症反应中起到很重要的调节作用[31-32]。在研究多种霉菌毒素单独和联合的免疫毒性试验中发现，霉菌毒素能够提高小鼠、仔猪以及肉鸡脾脏 $I L \mathrm { - } 1 \beta$ 和 IL-6 mRNA 表达量[335]。已有研究表明，动物采食镰刀菌毒素能通过诱导免疫细胞调亡或改变免疫相关基因的表达引起免疫机能下降[36]。本试验结果表明，镰刀菌毒素组炎性因子IL-1β 和IL-6 在断奶仔猪脾脏组织中主要分布于白髓边缘，尤其是椭圆体中，这可能是由于镰刀菌毒素引起了脾脏的炎症反应。同时，荧光定量PCR结果显示，镰刀菌毒素组仔猪脾脏炎性因子 $I L \mathrm { - } 1 \beta$ 和 $I L { \bf - } 6 ~ \mathrm { m R N A }$ 相对表达量均显著高于对照组，从基因表达水平说明脾脏发生了损伤。关于脾脏炎性因子在免疫中的作用机制，有待进一步深入研究和探索。
+
+218 4结论
+
+在本试验条件下，镰刀菌毒素污染饲粮（ $0 . 9 0 ~ \mathrm { m g / k g }$ ZEN, $1 . 4 3 ~ \mathrm { m g / k g }$ DON, $5 . 8 5 ~ \mathrm { m g / k g }$ FUM）影响了断奶仔猪脾脏的抗氧化功能以及炎性因子IL-1β 和IL-6 的分布，增加了脾脏IL-6和 $I L \mathrm { - } 1 \beta$ mRNA相对表达量，并造成了一定程度的病理学损伤，影响了脾脏功能的发挥。参考文献：
+
+[1] PLACINTA C M,D'MELLO JP F,MACDONALD A M C.A reVieW of worldwide contamination of cereal grains and animal feed with Fusarium mycotoxins[J].Animal Feed Science and Technology,1999,78(1/2):21-37.   
+[2]牛群升,杨维仁,黄丽波,等.镰刀菌毒素对断奶小母猪阴户、生殖器官指数、子宫雌激素受 体分布和表达的影响[J].动物营养学报,2016,28(5):1525-1533.   
+[3] HUSSEIN H S,BRASEL JM.Toxicity,metabolism,and impact of mycotoxins on humans and animals[J].Toxicology,2001,167(2):101-134.   
+[4] GEREZ J R,PINTON P,CALLU P,et al.Deoxynivalenol alone or in combination with nivalenol and zearalenone induce systemic histological changes in pigs[J].Experimental and Toxicologic Pathology,2015,67(2):89-98.   
+[5]WAN L Y M,TURNER P C,EL-NEZAMI H.Individual and combined cytotoxic effects of Fusarium toxins (deoxynivalenol,nivalenol,zearalenone and fumonisins $\mathbf { B } _ { 1 }$ ）on swine jejunal epithelial cells[J].Food and Chemical Toxicology,2013,57:276-283.   
+[6] WANLY M,WOO CSJ,TURNERPC,et al.Individual and combined effects of Fusarium toxins on the mRNA expression of pro-inflammatory cytokines in swine jejunal epithelial cells[J].Toxicology Letters,2013,220(3):238-246.   
+[7]National Research Council.Nutrient requirementsof swine[M].11th ed.Washington D.C.:National Academy Press,2012.   
+[8] 张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.   
+[9] LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expresson data using real-time quantitative PCR and the $2 ^ { - \Delta \Delta \mathrm { C T } }$ method[J].Methods,2001,25(4):402-408.   
+[10] 陈祥兴,杨维仁,张崇玉,等.镰刀菌毒素对断奶仔猪生长性能、小肠二糖酶活性和抗氧化 能力的影响[J].动物营养学报,2015,27(6):1875-1882.   
+[11]中华人民共和国国家质量监督检验检疫总局.GB13078.2—2006饲料卫生标准 饲料中赭 曲霉毒素A和玉米赤霉烯酮的允许量[S].北京:中国标准出版社,2006.   
+[12]中华人民共和国国家质量监督检验检疫总局.GB13078.3—2007配合饲料中脱氧雪腐镰 刀菌烯醇的允许量[S].北京:中国标准出版社,2007.   
+[13]European Commission.Commission recommendation of 17 August 2oo6 on the presence of deoxynivalenol,zearalenone,ochratoxin A,T-2 and HT-2 and fumonisins in products intended for animal feeding[S].Oficial Journal of European Union,20o6,229:7-9.   
+[14] SALAH-ABBES JB,ABBES S,OUANES Z,et al.Tunisian radish extract (Raphanus sativus) enhances the antioxidant status and protects against oxidative stress induced by zearalenone in Balb/c mice[J].Journal of Applied Toxicology,2008,28(1):6-14.   
+[15] JIANG S Z,YANG Z B,YANG W R,et al.Effects of purified zearalenone on growth performance,organsize,serummetabolites,andoxidativestressinpostweaning gilts[J].Journal of Animal Science,2011,89(10):3008-3015.   
+[16] 蒋竹英,李丽立,唐利华,等.DON污染饲粮添加竹炭和竹醋液对断奶仔猪抗氧化性能及小 肠黏膜形态的影响[J].西北农林科技大学学报:自然科学版,2013,41(12):37-42.   
+[17] 闫俊书,单安山,王环宇.五味子提取物对AA肉仔鸡抗氧化功能的影响[J].中国畜牧杂 志,2008,44(17):33-37.   
+[18] CHEUNG C C C,ZHENG G J,LI A M Y,et al.Relationships between tissue concentrations of polycyclic aromatic hydrocarbons and antioxidative responses of marine mussels,Perna viridis[J].Aquatic Toxicology,2001,52(3/4):189-203.   
+[19]DROGE W.Free radicals in the physiological control of cell function[J].Physiological Reviews,2002,82(1):47-95.   
+[20] KOUADIO J H,MOBIO T A,BAUDRIMONT I,et al.Comparative study of cytotoxicity and oxidative stress induced by deoxynivalenol,zearalenone or fumonisin $\mathbf { B } _ { 1 }$ in human intestinal celline Caco-2[J].Toxicology,2005,213(1/2):56-65.   
+[21]苏军.镰刀菌毒素对猪的抗营养效应及其机制研究[D].博士论学位文.雅安:四川农业大 学,2008.   
+[22] MCLEANM.ThephytotoxicityofFusariummetabolites:an update since 1989[J].Mycopathologia,1996,133(3):163-179.   
+[23] JIANG S Z,LI Z,WANG G Y,et al.Efects of Fusarium mycotoxins with yeast cell wall absorbentonhematology,serumbiochemistry,andoxidativestressinbroiler chickens[J].The Journal of Applied Poultry Research,2014,23(2):165-173.   
+[24] ABBES S,SALAH-ABBES JB,OUANES Z,et al.Preventive role of phyllosilicate clay on the immunological and biochemical toxicity of zearalenone in Balb/c mice[J].International Immunopharmacology,2006,6(8):1251-1258.   
+[25] FORSELL JH,WITT MF,TAI JH,et al.Effects of 8-week exposure of the B6C3F1 mouse to dietarydeoxynivalenol(vomitoxin）andzearalenone[J].FoodandChemical Toxicology,1986,24(3):213-219.   
+[26] DONG M,HE X J,TULAYAKUL P,et al.The toxic effects and fate of intravenously administered zearalenone in goats[J].Toxicon,2010,55(2/3):523-530.   
+[27] 王凯.IL-6在炎症性肠病大鼠脑、结肠组织中表达及信号转导机制研究[D].长春:吉林大 学,2010.   
+[28] SABA A A,GODZIACHVILI V,MAVANI A K,et al.Serum levels of interleukin 1 and tumor necrosis factor alpha correlate with peritoneal adhesion grades in humans after major abdominal surgery[J].The American Surgeon,1998,64(8):734-737.   
+[29] 余传霖.细菌内毒素的研究现状[J].国外医学：微生物学分册,1997(5):29-31.   
+[30]俞晓峰.细菌内毒素作用机理的研究进展[J].国外医学：微生物学分 册,1993(5):217-219,216.   
+[31] PAPANICOLAOU D A,WILDER R L,MANOLAGAS S C,et al.The pathophysiologic roles of interleukin-6 in human disease[J].Annals of Internal Medicine,1998,128(2):127-137.   
+[32] VLAHAKOS D,ARKADOPOULOS N,KOSTOPANAGIOTOU G,et al.Deferoxamine attenuateslipidperoxidation,blocksinterleukin-6production,amelioratessepsis inflammatory response syndrome,and confers renoprotection after acute hepatic ischemia in pigs[J].Artificial Organs,2012,36(4):400-408.   
+[33] 雷明彦.饲料中常见霉菌毒素对小鼠的联合毒性作用及机制的研究[D].博士学位论文.武 汉：华中农业大学,2013.   
+[34] GRENIER B,LOUREIRO-BRACARENSE A P,LUCIOLI J,et al.Individual and combined effects of subclinical doses of deoxynivalenol and fumonisins in piglets[J].Molecular Nutrition & Food Research,2011,55(5):761-771.   
+[35] LI Z,YANG Z B,YANG W R,et al.Effects of feed-borne Fusarium mycotoxins with or without yeast cell wall adsorbent on organ weight,serum biochemistry,and immunological parameters of broiler chickens[J].Poultry Science,2012,91(10):2487-2495.   
+[36] GIRISH C,SMITH T.Impact of feed-borne mycotoxins on avian cell-mediated and humoral immune responses[J].World Mycotoxin Journal,2008,1(2):105-121. Effects of Fusarium Toxins on Antioxidant Capacity and Distribution and Expression of Interleukin- $\cdot 1 \beta$ and Interleukin-6 in Spleen of Weaned Piglets   
+CHENG Qun JIANG Shuzhen CHEN Ningbo HUANG Libo ZHANG Guiguo YANG Weiren\* (College ofAnimal Science and Technology,ShandongAgricultural University,Taian271018, China)   
+Abstract: The aims of the present study were to investigate the effects of Fusarium toxins in   
+naturally contaminated diet on antioxidant capacity and distribution and expression of   
+interleukin- $1 \beta$ (IL-1β)and interleukin-6 (IL-6) in spleen of weaned piglets.Forty healthy female   
+weaned piglets (DurocxLandrace $\mathord { \left. \begin{array} { r l } \end{array} \right. \kern - delimiterspace } \mathord { \left. \begin{array} { r l } \end{array} \right. \kern - delimiterspace } \mathord { \left. \begin{array} { r l } \end{array} \right. \kern - delimiterspace } \mathord { \left. \begin{array} { r l } \end{array} \right. \kern - delimiterspace }$ Yorkshire) aged at 35 days withan average body weight of   
+1 $8 . 4 5 { \scriptstyle \pm 0 . 9 4 } _ { , }$ kg were randomly allocated into 2 groups with 20 piglets per group.Piglets in control   
+group were fed a basal diet,and the others in Fusarium toxins group were fed Fusarium toxins   
+${ 0 . 9 0 } ~ \mathrm { m g / k g }$ zearalenone (ZEN); $1 . 4 3 \mathrm { \ m g / k g }$ deoxynivalenol (DON); $5 . 8 5 \mathrm { \ m g / k g }$ fumonisin   
+(FUM)] contaminated experimental diet.The experiment lasted for 35 days after 7 days adaptation.   
+The results showed as follows: 1) compared with the control group,Fusarium toxins significantly
+
+decreased the activities of glutathione peroxidase(GSH-Px） and total superoxide dismutase (T-SOD) in serum and spleen of weaned piglets $( P { < } 0 . 0 5 )$ ，whereas significantly increased the content of malondialdehyde(MDA） in serum and spleen $( P { < } 0 . 0 5 )$ ．2）Fusarium toxins significantly reduced the white pulp zone in spleen of weaned piglets,enlarged the red pulp zone and appeared round small cavity,while only a few lymphocytes were seen in the peripheral lymphatic sheath.3) The positive cells of IL- $1 \beta$ and IL-6 in spleen of weaned piglets were mainly distributed in the edge of the white pulp,and concentrated area of positive cells were found near the blood sinus in spleen after exposure to Fusarium toxins.4) Compared with the control group, Fusarium toxins significantly increased the relative expression of $I L \mathrm { - } 1 \beta$ and IL-6 mRNA in spleen of weaned piglets $( P { < } 0 . 0 5 )$ .It is suggested that dietary Fusarium toxins have a significant effects on antioxidant capacity in serum and spleen,and decrease the immune function in spleen by changing distribution and expression of IL- $1 \beta$ and IL-6 in spleen of weaned piglets. Keywords:weaned piglets;Fusarium toxins; interleukin- $\cdot 1 \beta$ ；interleukin-6; spleen

@@ -1,0 +1,454 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201604140680 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白晓航,张金屯，曹科,王云泉,Sehrish Sadia,曹格.河北小五台山国家级自然保护区森林群落与环境的关系.生态学报,2017,37（11)：3683-3696BaiXH,ZangJaoKWngishdCalaiostefrtoitsdevoetinetanNational Nature Reserve，Hebei.Acta Ecologica Sinica,2017,37(11）:3683-3696.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "河北小五台山国家级自然保护区森林群落与环境的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白晓航,张金屯\\*，曹 科,王云泉,Sehrish Sadia,曹格北京师范大学生命科学学院，北京100875",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;植物与环境之间的关系是一个复杂的演变过程,运用数量生态学方法探讨森林群落的物种组成、种群的生态特征、不同植物群落与环境之间的关系,有助于保护该区森林群落的稳定性和生物多样性。根据148个森林群落样方数据,选用双向指示种分析（TWINSPAN)和典范对应分析（CCA）方法,对河北小五台山国家级自然保护区森林群落进行分类和排序研究。结果表明：（1)TWINSPAN将该区的森林群落分为20个类型;（2)CCA排序结果较好地反映出群落分布格局与环境梯度的关系,各个森林群落类型在前两轴分异明显,在11个环境因子中,海拔、坡位、凋落层厚度、土壤导电率、土壤温度、土壤湿度、土壤厚度和干扰程度这8个环境因子对森林群落的分布起较大的作用,影响森林群落的分布格局,形成不同的植被类型。（3)乔木层优势种的CCA二维排序图所揭示的环境梯度与群落类型的分布有很大的相似性;t值双序图阐明了海拔、凋落层厚度、土壤温度、干扰程度等环境因子对森林群落乔木层优势种有着重要影响。采用TWINSPAN 分类与CCA排序的方法,较好地解释了森林群落与环境因子的关系，为小五台山地区森林生态系统的科学管理和保护提供了理论依据,研究结果也为同类地区森林生态系统研究及保护提供参考和借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：小五台山国家级自然保护区;森林群落;TWINSPAN;CCA;环境梯度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relationship between forest communities and the environment in the Xiaowutai Mountain National Nature Reserve， Hebei ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BAI Xiaohang，ZHANG Jintun\\*, CAO Ke，WANG Yunquan，Sehrish Sadia，CAO Ge College of Life Sciences，Beijing Normal University，Beijing 10o875，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The relationshipof plantsand the environment isacomplex evolution process.We discusspecies compositionof forestcommunities，ecologicalcharacteristicsof thepopulation，andtherelationshipbetweendiferentplantcommunities and theenvironmentwithquantitativeecology method toprotectthestabilityofforestcommunitiesand biodiversityin the area.The forest communities inthe Xiaowutai Mountain National Nature Reservein Hebei province were investigated witha two-way indicator species analysis（TWINSPAN）and canonical correspondence analysis （CCA).All quadrats （ $\\mathrm { \\Delta } _ { \\mathrm { n } } = 1 4 8$ ） were clasified into 2O groups representing 2O plantcommunities.Theresultsof theCCAordination clearlyreflected the paternofcommunitydistribution,anditwasobvious inthe gradientsofthe firstandsecondaxis，which mainlyrepresented altitude，slopeposition，literlayer thickness，soil electricalconductivity，soil temperature，soilmoisture，soilthickness， anddisturbance.Allenvironmentalfactors influencedtheforestcommunitydistributionpaternandtheformationofdifferent vegetation types.The CCAordinationof dominant speciesintree layerrevealedahigh degreeof similarity between environmental gradientsand thedistributionsofcommunitytypes.Atwo-dimensional t-valuediagramclarified thataltitude, literlayerthickness，soil temperature，and disturbance playedanimportant role indominantspecies inthe treelayerof forest communities.In thisstudy，weused TWINSPANclasificationandCCA ordination toexplain therelationships between forestcommunitiesandenvironmental factors.Thepurpose wasto provideatheoreticalbasisforscientific management of the Xiaowutai Mountainareaand toanalyze theresults thatcan beusedasareference forresearchand protection of forest ecosystems in similar areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words： Xiaowutai Mountain National Nature Reserve;forest community；TWINSPAN；CCA；environmental gradient ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林群落结构反映了植物群落对环境的适应、动态和机能,群落类型不同,结构也不同。分类能够在一定程度上揭示植物群落类型的形成、发展及其与周围环境的关系,是确定植被间断性的重要方法。等级分类技术中的双向指示种分析法(Two-way indicator species analysis,TWINSPAN)分析时可同时完成样方和物种的分类,方法精细,适合不同尺度的群落分类,在植被数量分类方法中占有重要影响[-2]。排序是研究植被连续变化的方法,是指用数学的方法将样方或植物种排列在一定的空间,使得排序轴反映一定的生态梯度,从而解释植物物种、植物群落的分布与环境之间的关系[3-4]。典范对应分析（Canonical corespondence analysis,CCA）在研究过程中选用植物物种数据和环境因子数据,每一步的计算结果都与环境因子进行回归,揭示环境因子对物种组成的影响,从而更好地反映群落与环境的关系,对植被类型和环境因子间的关系做出合理解释[5-6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "保护区有着相对原始的自然环境和较为完整的生态系统,研究自然保护区内森林群落类型及其与自然环境的生态关系,对保证自然保护区内植物多样性和珍稀野生资源的可持续发展有着重要的指导意义[7]。河北小五台山国家自然保护区具有华北地区保存较为完好的暖温带森林生态系统，属暖温带落叶阔叶林植被带,区内生物多样性丰富,区系成分复杂,具有重要的保护价值。近年来,有诸多学者从多方面对该地区植物进行研究,如对小五台山森林生态系统主要因子间量化关系研究、海拔梯度上青杨的种群结构和空间分布的研究、天然白桦林草本多样性影响因素的研究等[8-10],但运用数量生态学的方法对森林植物群落数量分类及其与环境之间关系的研究鲜有报道。本文以河北小五台山国家级自然保护区森林群落为研究对象,运用双向指示种分析(TWINSPAN)和典范对应分析(CCA)方法对其进行分类和排序,分析该区植物群落类型,揭示分布于不同群落类型的植物物种与环境之间的关系,从而为保护和管理该地区森林植物资源提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究地区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河北小五台山地处太行山、燕山、恒山交汇处,位于燕山一太行山山系区,为太行山主峰,山体峻峭,拥有134 座海拔 200 米以上的山峰。自然保护区位于河北省西北部,张家口市蔚县和涿鹿县境内,地理坐标为$1 1 4 ^ { \\circ } 4 7 ^ { \\prime } 8 ^ { \\prime \\prime } \\mathrm { - } 1 1 5 ^ { \\circ } 2 8 ^ { \\prime } 5 6 ^ { \\prime \\prime } ( \\mathrm { ~ E ~ } )$ $3 9 ^ { \\circ } 5 0 ^ { \\prime } 4 1 ^ { \\prime \\prime } \\mathrm { - } 4 0 ^ { \\circ } 6 ^ { \\prime } 3 0 ^ { \\prime \\prime } ( \\mathrm { ~ N } )$ ，东西长约 $6 0 \\mathrm { k m }$ ,南北宽约 $2 8 \\mathrm { k m }$ ,总面积 $2 1 8 3 3 \\mathrm { h m } ^ { 2 }$ 。该区属暖温带大陆季风型山地气候,具有四季分明、雨热同期、冬长夏短、夏季昼夜温差大、随海拔变化差异显著等特点。年均温 $6 . 4 \\mathrm { ^ { \\circ } C } , 1$ 月平均气温 $- 1 2 . 3 \\mathrm { ^ { q } C } , 7$ 月平均气温 $2 2 . 1 \\mathrm { { ^ { \\circ } C } }$ ,年降水量 $4 0 0 { - } 7 0 0 \\mathrm { m m }$ ,无霜期110—140d,气候垂直分带性比较明显,集中表现出北方山区气候特点[11]。植被类型丰富,垂直带普明显,有次生灌草带、阔叶林带、针阔混交林带、亚高山灌丛带、亚高山草甸带等,基点高度 $1 2 0 0 \\mathrm { m }$ 左右, $1 2 0 0 \\mathrm { m }$ 以下多为农田、裸地等。土壤主要有褐土、棕壤、亚高山灌丛草甸土等类型[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样方设置与调查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015 年7—9月在河北小五台山国家级自然保护区内进行全面踏查,从海拔 $1 3 0 0 \\mathrm { m }$ 到 $2 6 0 0 \\mathrm { { m } }$ 分别从东、西、南三台沿海拔梯度取样(小五台山地区基点高度为 $1 2 0 0 \\mathrm { m }$ $2 6 0 0 \\mathrm { m }$ 以上全部为亚高山草甸,调查林地包括灌木林和乔木林），海拔每升高 $1 0 0 \\mathrm { m }$ 三台分别设一条样带,在每条样带上随机设置4个面积 $1 0 \\mathrm { m } \\times 1 0 \\mathrm { m }$ 的样方[12]。三台共计37条样带,东台14条、西台11条、南台12条,共计获得148个森林样方。在 $1 0 \\mathrm { m } \\times 1 0 \\mathrm { m }$ 的样方内调查并记录乔木的株数、高度、胸径、盖度、冠幅等数据,记录样方内全部灌木和草本的盖度和高度等数据。用手持GPS 和地质罗盘测量各个样地的经纬度、海拔、坡度、坡向和坡位,用土钎和钢卷尺测定土壤深度和枯枝落叶层厚度,用土壤原位pH 计( $\\mathrm { { I Q 1 5 0 ~ p H } }$ meter）测定土壤pH,用土壤温湿度仪（Moisture Meter typeHH2)测定土壤温度、湿度、导电率,同时记录各个群落的生态学特征及样地的生境条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 重要值数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "148 个样方中共记录到392种植物,数据分析采用重要值作为综合指标来反映种的特征,计算公式如下：乔木重要值 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } = \\mathbf { \\Pi }$ （相对多度 $^ +$ 相对优势度 $^ +$ 相对高度)／3灌木、草本重要值 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （相对盖度 $^ +$ 相对高度)／2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 环境数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环境数据中海拔高度、坡度、凋落层厚度、土壤深度、土壤湿度、土壤温度、土壤导电率、土壤pH以实际观测记录值表示,坡位、坡向、干扰程度采用数字等级表示。坡位分为五个等级：谷底为1级,下坡位为2级,中坡位为3级,上坡位为4级,山顶为5级。坡向以数字等级表示,以北为 $0 ^ { \\circ }$ ,将坡向按照 $4 5 ^ { \\circ }$ 的夹角,顺时针方向旋转分为8个坡向等级,以数字表示各等级;1表示北坡 $( 0 ^ { \\circ } - 2 2 . 5 ^ { \\circ }$ $3 3 7 . 5 ^ { \\circ } - 3 6 0 ^ { \\circ } ) ^ { \\prime } , 2$ 表示东北坡( $2 2 . 5 ^ { \\circ } -$ $6 7 . 5 ^ { \\circ }$ ）,3表示西北坡 $( 2 9 2 . 5 ^ { \\circ } - 3 3 7 . 5 ^ { \\circ } )$ ）,4表示东坡 $( 6 7 . 5 ^ { \\circ } - 1 1 2 . 5 ^ { \\circ } )$ ,5表示西坡 $( 2 4 7 . 5 ^ { \\circ } - 2 9 2 . 5 ^ { \\circ } { } ^ { \\cdot } { } $ ），6表示东南坡 $( 1 1 2 . 5 ^ { \\circ } - 1 5 7 . 5 ^ { \\circ } )$ ,7表示西南坡 $( 2 0 2 . 5 ^ { \\circ } - 2 4 7 . 5 ^ { \\circ } )$ ）,8表示南坡 $( 1 5 7 . 5 ^ { \\circ } - 2 0 2 . 5 ^ { \\circ } )$ ),数字越大,表示坡向越向阳[13]。干扰情况分为4个等级：无干扰为1级,轻微干扰为2级,中度干扰为3级,强度干扰为4级。共计11 种环境因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数量分类与排序 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用TWINSPAN分类方法,用WinTWINS for Window Version 2.3软件分析[14-15]。植被物种数据是397个种(植物种类392种,有5种乔木幼苗在灌木层中起作用,算做假种)在148个样方中的重要值构成,以 $3 9 7 \\times$ 148 维重要值矩阵进行数量分类。对群落预先进行DCA排序,结果表明第一轴梯度长度 $6 . 3 7 1 { > } 3 \\mathrm { S D }$ (Standarddeviation，SD）,基于单峰模型的排序方法比较合适,因此,选择CCA 排序方法[16]。用CANOCO Version 4.5软件对 $3 9 7 \\times 1 4 8$ 维重要值矩阵和 $1 1 \\times 1 4 8$ 维环境因子矩阵进行CCA排序,并制作样方-环境因子二维排序图、乔木优势种-环境因子二维排序图、乔木优势种-环境t值双序图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 TWINSPAN分类",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对森林群落的148个样方进行TWINSPAN 数量分类,TWINSPAN树状分类如图1所示。结合调查区域的实际生态意义,采用第七级的划分结果,将保护区的森林群落划分为20个群落类型。依据中国植被的分类原则和系统,结合各层优势种和TWINSPAN划分的指示种命名群落类型。样方分类结果见图1,TWINSPAN所分类的20 个群落类型,其群落结构、物种组成差异明显,主要环境特征见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b80b472d11c05661146f0c55d67afdea4777a9f43dca18d3d79d810fe3270f8.jpg",
+        "table_caption": [
+            "表1小五台山国家级自然保护区森林群落的主要特征描述",
+            "Table 1Description of the main characteristics offorest communities in the Xiaowutai Monutain National Nature Reserve ",
+            "http://www.ecologica.cn "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>海拔高度/m Altitude</td><td>坡向 Aspect</td><td>坡度/(°) Slope</td><td>调落层 厚度/cm Litter layer thickness</td><td>土壤层 厚度/cm Soil thickness</td><td>土壤类型 Soil type</td><td>土壤pH Soil pH</td></tr><tr><td>I</td><td>南台1913—2000 西台 2000—2100</td><td>西台西坡、南台西南坡</td><td>35-50</td><td>2-9</td><td>15—48</td><td>棕壤</td><td>6.34-6.99</td></tr><tr><td>Ⅱ</td><td>南台1818—2100</td><td>南台东北坡、东坡</td><td>31—42</td><td>10—20</td><td>48—70</td><td>棕壤</td><td>5.83—6.75</td></tr><tr><td>Ⅲ</td><td>南台1907—2218</td><td>南台东北坡、西坡、西 南坡</td><td>30—40</td><td>8-11</td><td>41—52</td><td>棕壤</td><td>6.38-6.6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "续表",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fb7c1eb878e93ac711bc1a4a5b61fad990ae43eb7f9dee7e6452ec7b6b946b5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>海拔高度/m Altitude</td><td>坡向 Aspect</td><td>坡度/(°) Slope</td><td>凋落层 厚度/cm Litter layer</td><td>土壤层 厚度/cm Soil</td><td>土壤类型 Soil type</td><td>土壤pH Soil pH</td></tr><tr><td>V</td><td>南台1709—1817</td><td>东北坡</td><td>35-43</td><td>thickness 4-17</td><td>thickness 16-62</td><td>棕壤</td><td>5.98-6.37</td></tr><tr><td>V</td><td>西台 2107—2199</td><td>西台西南坡、南坡</td><td>45-58</td><td>2-5</td><td>16-20</td><td>棕壤</td><td>6.37—6.74</td></tr><tr><td>VI</td><td>西台1889—2020</td><td>西台西北坡</td><td>40-52</td><td>2-3.6</td><td>16-22</td><td>棕壤</td><td>6.94—8.22</td></tr><tr><td>VII</td><td>东台1705—2137</td><td>东台西北坡、东北、东坡</td><td>12-55</td><td>5-10</td><td>25-49</td><td>棕壤</td><td>6.07-7.62</td></tr><tr><td>VII</td><td>东台1300—1700</td><td>东台东北坡、北坡</td><td>2-40</td><td>1.2—3.6</td><td>3-40</td><td>棕壤</td><td>5.76--7.39</td></tr><tr><td>IX</td><td>西台1409—1598</td><td>西台北坡、西北坡</td><td>27-37</td><td>3.5-6</td><td>24-36</td><td>棕壤</td><td>6.56-6.89</td></tr><tr><td>X</td><td>西台1592—1838</td><td>西北坡、西坡、西南坡</td><td>29-50</td><td>2-6</td><td>25-38</td><td>棕壤</td><td>6.22-7.92</td></tr><tr><td>XI</td><td>东台1300—1500</td><td>东台西北坡</td><td>10-25</td><td>0.8-2</td><td>6-9</td><td>山地褐土</td><td>6.92-7.71</td></tr><tr><td>XII</td><td>西台 1300—1600</td><td>西台西北坡、西坡</td><td>30—45</td><td>0.7-6.6</td><td>12-19</td><td>棕壤</td><td>6.92—7.78</td></tr><tr><td>XII</td><td>南台1290—1388</td><td>南台南坡</td><td>20-35</td><td>1</td><td>13-18</td><td>山地褐土</td><td>7.31—8.16</td></tr><tr><td>XIV</td><td>南台1400—1700</td><td>南台西坡、西南坡、南坡</td><td>18-42</td><td>2-7</td><td>10-23</td><td>山地褐土</td><td>5.83-8.4</td></tr><tr><td>XV</td><td>西台 2186—2329</td><td>西台西坡、北坡</td><td>50-55</td><td>2-5</td><td>10-15</td><td>棕壤</td><td>6.33-6.89</td></tr><tr><td>XVI</td><td>东台 2300—2437</td><td>东台东北坡</td><td>32-40</td><td>4-8</td><td>23-40</td><td>棕壤</td><td>6.42—6.64</td></tr><tr><td>XVII</td><td>东台 2397—2589</td><td>东台西北坡</td><td>35—50</td><td>3-5</td><td>18--35</td><td>棕壤</td><td>5.98-6.78</td></tr><tr><td>XVIII</td><td>东台 2194—2398</td><td>东台北坡</td><td>30-35</td><td>3-5</td><td>30-48</td><td>棕壤</td><td>6.08-6.97</td></tr><tr><td>XIX</td><td>东台 2590—2688</td><td>东台西坡</td><td>30-45</td><td>3-5</td><td>20-30</td><td>亚高山灌丛草甸土</td><td>6.12-6.32</td></tr><tr><td>XX</td><td>南台 2307—2492</td><td>南台西南坡、南坡</td><td>33—45</td><td>2.7-8</td><td>24.7—50</td><td>亚高山灌丛草甸土</td><td>6.19-6.8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/55f594177268faf9d154b363437299ed540b6e587bb54c718031b6235935f1e5.jpg",
+        "img_caption": [
+            "图1小五台山国家级自然保护区森林群落TWINSPAN分类树状图（图中数字表示样方编号）",
+            "g.1DendrogramoftheTWINSPANclasificationofforestcommunitiesinthe Xiaowutai MonutainNationalNatureReserve numbers in the figure indicate quadrats serial numbers) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20个森林群落类型的群落特征及其主要物种组成成分：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I白桦-六道木 $^ +$ 榛-糙苏 $^ +$ 瓣蕊唐松草群落(Comm.Betula platyphylla-Abelia biflora $^ +$ Corylus heterophylla -Phlomis umbrosa $^ +$ Thalictrumpetaloideum）。该群落主要分布于海拔1900- ${ \\cdot 2 0 0 0 } \\mathrm { m }$ 的南台和 $2 0 0 0 { - } 2 1 0 0 \\mathrm { m }$ 的西台，主要分布在西台的西坡、南台的西南坡,坡度 $3 5 { - } 5 0 ^ { \\circ }$ ,处于中、上坡位,棕壤,枯枝落叶层略厚。群落总盖度为60- $8 5 \\%$ ,乔木层盖度为48— $6 5 \\%$ ,灌木层盖度为 $2 2 \\%$ 一 $3 5 \\%$ ,草本层盖度为 $12 \\% - 2 1 \\%$ 。乔木层以白桦（Betula platyphylla)为主要优势种,伴生有少量棘皮桦（Betula dahurica）北京花楸（Sorbus discolor）和硕桦（Betula costata）等;灌木层优势种为六道木（Abelia biflora）、榛（Corylus heterophylla）,伴生有金花忍冬（Lonicerachrysantha）、圆叶鼠李（Rhamnus globosa）、刺五加（Acanthopanax senticosus）等；草本层中糙苏（Phlomisumbrosa）瓣蕊唐松草（Thalictrum petaloideum）为优势种,伴生有歪头菜（Vicia unijuga）、山尖子（Paraseneciohastata）、短毛独活（Heracleum moellndorfi）、藜芦（Veratrum nigrum）、细叶沙参（Adenophora paniculata）绵团铁线莲（Clematis hexapetala）、黄精（Polygonatum sibiricum）、草问荆（Equisetum pratense）兴安老鹳草（Geraniummaximowiczii）等。 ，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ⅱ红桦-六道木 $^ +$ 东陵绣球-兴安升麻 $^ +$ 披针蔓草群落(Comm. Betula albosinensis -Abelia biflora $^ +$ Hydrangeabretschneideri-Cimicifuga dahurica $^ +$ Carex lancifolia）。该群落主要分布于海拔 $1 8 1 8 { \\ - } 2 1 0 0 \\mathrm { m }$ 的南台,多处东北坡、东坡,坡度 31— ${ \\cdot } 4 2 ^ { \\circ }$ ,中、上坡位,棕壤,枯枝落叶层较厚。群落总盖度为 $7 5 \\text{‰}$ ,乔木层盖度为52—$7 5 \\%$ ,灌木层盖度为13- $2 3 \\%$ ,草本层盖度为 $3 0 { \\ - } \\_ { 4 9 \\% }$ 。乔木层以红桦（Betula albosinensis）为主要优势种,伴生有硕桦苗、水榆花楸（Sorbus alnifolia）。灌木层优势种为东陵绣球（Hydrangea bretschneideri）、六道木,伴生有少量中国黄花柳（Salix sinica）、金花忍冬、河北柳（Salix taishanensis var.hebeinica）、柳叶鼠李（Rhamnuserythroxylon）、瘤糖茶藨子（Ribes himalense var.verruculosum)等;草本层优势种兴安升麻（Cimicifuga dahurica）、披针臺草(Carex lancifolia）,伴生有少量的东亚唐松草(Thalictrum minus var.hypoleucum）歪头菜、山尖子、串铃草（Phlomismongolica）、野青茅（Deyeuxia arundinacea）、短花梗黄耆（Astragalus hancockii）、蹄叶橐吾(Ligularia fischeri）、牛扁(Aconitum barbatum yar. puberulum）等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "II红桦-土庄绣线菊-东亚唐松草 $^ +$ 青绿臺草群落（Comm.Betula albosinensis-Spiraea pubescens-Thalictrumminus .var. hypoleucum $^ +$ Carex breviculmis）。该群落主要分布于海拔1907— $2 2 1 8 \\mathrm { m }$ 的南台,东北坡、西坡,坡度35— ${ \\cdot 4 0 ^ { \\circ } }$ ,上坡位,棕壤,枯枝落叶层略厚。群落总盖度为 $8 0 { \\ - } \\{ 9 5 \\%$ ,乔木层盖度为 $70 \\mathrm { - } 8 9 \\%$ ,灌木层盖度为5- $12 \\%$ ,草本层盖度为 $2 8 - 3 2 \\% _ { \\circ }$ 乔木层以红桦为主要优势种,伴生有华北落叶松（Larix principis-rupprechtii);灌木层优势种为土庄绣线菊（Larix principis-rupprechtii）,伴生有瘤糖茶藨子、东陵绣球、柳叶鼠李等;草本层优势种为东亚唐松草、青绿臺草(Carex breviculmis）,样方内还有兴安升麻、山尖子、狭叶荨麻（Urticaangustifolia）、蛇莓（Duchesnea indica）、宽叶臺草（Carex siderosticta）、黑柴胡（Bupleurum smithii）、柳叶蒿（Artemisiaintegrifolia）阴地堇菜（Violayezoensis）小红菊、歪头菜。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV 红桦-六道木+四川忍冬-黄精 $^ +$ 披针臺草群落（Comm．Betula albosinensis-Abelia biflora $^ +$ Loniceraszechuanica -Polygonatum sibiricum $^ +$ Carex lancifolia）。该群落主要分布于海拔 $1 7 0 0 { - } 1 8 0 0 \\mathrm { m }$ 的南台,东北坡,坡度 $3 5 - 3 9 ^ { \\circ }$ ,下坡位,棕壤,枯枝落叶层不均匀,部分地段较厚。群落总盖度为 $8 3 \\% - 9 0 \\%$ ,乔木层盖度为$6 8 \\% - 8 5 \\%$ ,灌木层盖度为 $1 3 \\% - 6 5 \\%$ ,草本层盖度为 $2 6 \\% - 3 5 \\%$ 。乔木层以红桦为主要优势种,伴生有白桦、辽东栎（Quercus wutaishanica)等;灌木层优势种为四川忍冬（Lonicera szechuanica）、六道木,伴生有少量的刺五加（Acanthopanax senticosus）、毛榛（Corylus mandshurica）、土庄绣线菊、冻绿（Rhamnus utilis）等;草本层中黄精和披针臺草分布较多,还有少量青绿藁草、兴安升麻、白莲蒿（Artemisia sacrorum）、三脉紫菀（Asterageratoides）、山柳菊（Hieracium umbellatum）草（Valeriana ofcinalis）、苍术（Atractylodes Lancea）、猪殃殃（Galium aparine var.tenerum）、北乌头（Aconitum kusnezofi）、蛇床（Cnidium monnieri）、大齿山芹（Ostericumgrosseserratum）玉竹（Polygonatum odoratum）白背铁线蕨（Adiantum davidii)等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VI白桦 $^ +$ 红桦-红丁香-青绿薹草群落(Comm.Betula platyphylla $^ +$ Betula albosinensis-Syringa villosa-Carexbreviculmis）。该群落主要分布于海拔 $2 1 0 0 \\mathrm { m }$ 左右的西台，西坡、西南坡、南坡,坡度45- ${ \\cdot } 5 8 ^ { \\circ }$ ,上坡位,棕壤,枯枝落叶层较薄。群落总盖度为 $9 2 \\%$ ,乔木层盖度为 $4 0 \\% - 5 5 \\%$ ,灌木层盖度为 $1 5 \\% - 2 5 \\%$ ,草本层盖度为$45 \\%$ 。乔木层以白桦、红桦为主要优势种,伴生有少量的小青杨;灌木层优势种为红丁香（Syringa villosa）,伴生有六道木、中国黄花柳、金花忍冬、土庄绣线菊;草本层中青绿蔓草分布较多,还有少量地榆(Sanguisorbaficinalis）、毛建草（Dracocephalum rupestre）莓叶委陵菜（Potentilla fragarioides）、黄芩（Scutellaria baicalensis）、蛇床、兴安老鹳草、北乌头等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VII白桦-毛榛 $^ +$ 照山白-短毛独活 $^ +$ 珠芽蓼群落（Comm. Betula platyphylla-Corylus mandshurica +Rhododendron micranthum-Heracleum moellendorfii +Polygonum viviparum）。该群落主要分布于海拔 $1 8 8 9 -$ $2 0 2 0 \\mathrm { m }$ 的西台,西北坡,坡度 $4 0 { - } 5 2 ^ { \\circ }$ ,上坡位,枯枝落叶层较薄。群落总盖度为 $8 5 \\% - 9 3 \\%$ ,乔木层盖度为$6 0 \\% - 7 0 \\%$ ,灌木层盖度为 $2 5 \\%$ 一 $5 0 \\%$ ,草本层盖度为 $1 4 \\% - 2 0 \\%$ 。乔木层以白桦为主要优势种，伴生有少量小青杨(Populus pseudo-simonii）、北京花楸;灌木层优势种为毛榛、照山白,伴生有美蔷薇 $( R o s a ) b e l l a \\rangle$ 、兴安胡枝子（Lespedeza davurica）等;草本层中短毛独活（Heracleum moellendorfi）、珠芽蓼（Polygonum viviparum）分布较多,还有少量糙苏（Phlomis umbrosa）、短尾铁线莲（Clematis brevicaudata）、蚊子草（Filipendula palmata）、瓣蕊唐松草、小玉竹（Polygonatum humile）多歧沙参（Adenophora wawreana）、舞鹤草（Maianthemum bifolium）、落新妇（Astilbechinensis）、紫菀（Aster tataricus）、牛扁、蓝花棘豆（Oxytropis coerulea）、辽藁本（Ligusticumjeholense）草问荆等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VII红桦 $^ +$ 白桦-土庄绣线菊 $^ +$ 小叶鼠李-莓叶委陵菜 $^ +$ 宽叶臺草群落(Comm.Betula albosinensis $^ +$ Betulaplatyphylla-Spiraea pubescens $^ +$ Rhamnus parvifolia-Potentilla fragarioides+ Carex siderosticta）。该群落主要分布于海拔1705- $2 1 3 7 \\mathrm { m }$ 的东台,西北坡、东北坡、东坡,坡度 $1 2 \\div 5 5 ^ { \\circ } ,$ 中、上坡位,棕壤,枯枝落叶层5— $1 0 \\mathrm { { c m } }$ 。群落总盖度为 $8 0 \\% - 9 7 \\%$ ,乔木层盖度为 $3 5 \\% - 7 0 \\%$ ,灌木层盖度为 $45 \\% - 6 0 \\%$ ,草本层盖度为 $5 0 \\% - 6 3 \\%$ 。乔木层以红桦、白桦为主要优势种,伴生有华北落叶松,小叶杨（Populus simonii）、青扦（Picea wilsoni)等;灌木层优势种为土庄绣线菊、小叶鼠李（Rhamnus paruifolia）,伴生有美蔷薇、蒙古荚蒾（Viburnum mongolicum）、西北枸子（Cotoneaster zabelii）、细叶小檗（Berberispoiretii）、东北茶藨子（Ribesmandshuricum）、无梗五加（Acanthopanax sesiliflous）;草本层中莓叶委陵菜、宽叶蔓草分布较多,伴生有水金凤（Impatiens noli-tangere）、鹅观草（Roegneria kamoji）、金莲花(Trolius chinensis）、南牡蒿（Artemisia eriopoda）、地榆、草珠黄耆（Astragaluscapilipes）、老鹳草、野青茅、牛扁、两色乌头（Aconitumalboviolaceum）、多歧沙参、宽叶荨麻、北重楼（Parisverticillata）、黄精、荫生鼠尾草（Salviaumbratica）、蛇莓、黄花列当（Orobanche pycnostachya）、舞鹤草、白花碎米荠（Cardamine leucantha）华北楼斗菜（Aquilegia yabeana）、粗根老鹳草（Geranium dahuricum）、大叶野豌豆（Vicia pseudorobus）细叶鸦葱（Scorzonera pusilla)等,草本种类非常丰富。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "VIII白桦 $+$ 油松-鼠李 $^ +$ 山刺玫-串铃草 $+$ 白莲蒿群落(Comm.Betula platyphylla $^ +$ Pinus tabuliformis-Rhamnusdavurica $^ +$ Rosa davurica-Phlomis mongolica $^ +$ Artemisia sacrorum）。该群落主要分布于海拔1300— $1 7 0 0 \\mathrm { m }$ 的东台，东北坡、北坡,坡度 $1 5 { - } 1 8 ^ { \\circ }$ ,谷底、下坡位,棕壤,枯枝落叶层极薄,干扰较强。群落总盖度为83— $9 5 \\%$ ，乔木层盖度为 40- $5 5 \\%$ ,灌木层盖度为 $2 5 \\mathrm { - } 6 5 \\%$ ,草本层盖度为38- $6 5 \\%$ 。乔木层以白桦和油松（Pinustabuliformis）为主要优势种,伴生有山杨（Populus davidiana）、榆树（Ulmus pumila）、大叶白蜡（Fraxinusrhynchophylla)等;灌木层优势种为鼠李（Rhamnus davurica）和山刺玫（Rosa davurica）,伴生有牛叠肚（Rubuscrataegifolius）、胡枝子（Lespedeza bicolor）虎榛子（Ostryopsis davidiana）、杭子梢（Campylotropis macrocarpa）、河北柳、美蔷薇、小叶鼠李、黑弹树（Celtis bungeana）、蓝靛果忍冬、灰枸子（Cotoneaster acutifolius)等,灌木层植物种类较为丰富;草本层中串铃草和白莲蒿(Artemisia sacrorum)分布较多,还有少量歧茎蒿（Artemisia igniaria）、细叶猪殃殃、龙芽草（Agrimonia pilosa）、朝天委陵菜（Potentill supina）、香薷（Elsholtzia ciliata）、白芷（Angelicadahurica）、华北复盆子（Rubus idaeus var.borealisinensis）、鹅观草、地榆、野青茅、景天三七（Sedum aizoon）、密花香薷（Elsholtzia densa）、小红菊、北千里光（Senecio dubitabilis）、狭叶黄精（Polygonatum stenophyllum）、细叶沙参、飞廉（Carduus nutans）、拳参(Polygonum bistorta）、藜芦、歪头菜、五福花（Adoxa moschatellina）、牛扁、短尾铁线莲（Clematis brevicaudata）茜草（Rubia cordifolia）穿龙薯(Dioscorea nipponica）辽藁本等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IX 油松-美蔷薇-老鹳草 $^ +$ 宽叶臺草群落（Comm.Pinus tabuliformis-Rosa bella-Geranium wilfordii $^ +$ Carexsiderosticta）。该群落主要分布于海拔 $1 4 0 9 { - } 1 5 9 8 \\mathrm { m }$ 的西台，北坡、西北坡,坡度 27— $. 3 7 ^ { \\circ }$ ,下坡位,棕壤,枯枝落叶层较薄，轻微干扰，有金钱豹出没。群落总盖度为 $9 2 \\% - 9 5 \\%$ ,乔木层盖度为 $2 0 \\% - 5 0 \\%$ ,灌木层盖度为$4 0 \\% - 7 5 \\%$ ,草本层盖度为 $45 \\% - 7 0 \\%$ 。乔木层以油松为主要优势种，伴生有少量华北落叶松;灌木层优势种为美蔷薇,伴生有毛樱桃（Cerasus tomentosa）、毛榛、红瑞木（Swida alba）、小叶鼠李、灰枸子、三裂绣线菊等;草本层中老鹳草和宽叶蔓草分布较多,还有少量鸦葱（Scorzonera austriaca）、芹叶铁线莲（Clematis aethusifolia）、多歧沙参、两型豆（Amphicarpaea edgworthii）、歧茎蒿、蛇莓、牛扁、宽叶荨麻(Urtica laetevirens）、龙芽草等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "X山杨 $^ +$ 白桦-中国黄花柳-五福花 $^ +$ 青绿薹草群落（Comm.Populus davidiana $^ +$ Betula platyphylla-Salixsinica-Adoxa moschatellina $^ +$ Carex breviculmis）。该群落主要分布于海拔1592— $1 8 3 8 \\mathrm { m }$ 的西台,西北坡、西坡、西南坡,坡度 $2 9 { - } 5 0 ^ { \\circ }$ ,中、上坡位,棕壤,枯枝落叶层较薄,轻微干扰。群落总盖度为 $6 5 \\% \\div 7 2 \\%$ ,乔木层盖度为 $2 5 \\% - 4 0 \\%$ ,灌木层盖度为 $1 0 \\% { \\mathrm { - } } 3 0 \\%$ ,草本层盖度为40— $5 5 \\%$ 。乔木层以山杨和白桦为主要优势种,伴生有少量油松、辽东栎、甘肃山楂等;灌木层优势种为中国黄花柳,伴生有小叶鼠李 三裂绣线菊等;草本层中五福花（Adoxa moschatellina）、青绿墓草分布较多,还有少量小红菊、藿香（Agastache rugosa）、玉竹、地榆、阴地堇菜、莓叶委陵菜、牛膝菊（Galinsoga parviflora）、并头黄芩（Scutellaria scordifolia）、飞廉、蒲公英（Taraxacummongolicum）、糖芥（Erysimum bungei）、中华小苦荬（Ixeridium chinense）、鼠掌老鹤草（Geranium sibiricum）、瓣蕊唐松草、两型豆等。 ？",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "XI 榆树-小叶鼠李 $^ +$ 榆叶梅-歧茎蒿群落（Comm. Ulmus pumila-Rhamnus parvifolia $^ +$ Amygdalus triloba-Artemisia igniaria）。该群落主要分布于海拔1300— $1 5 0 0 \\mathrm { ~ m ~ }$ 的东台,西北坡,坡度 $1 0 { - } 2 5 ^ { \\circ }$ ,下坡位,山地褐土,枯枝落叶层极薄,轻微干扰。群落总盖度为 $5 0 \\% 4 9 0 \\%$ ,乔木层盖度为 $30 \\%$ ,灌木层盖度为 $3 6 \\% - 9 0 \\%$ ,草本层盖度为 $2 9 \\% - 8 4 \\%$ 。乔木层以榆树为主要优势种,伴生有少量小叶杨、皂柳（Salix wallichiana）、油松等;灌木层优势种为小叶鼠李和榆叶梅,伴生有短梗胡枝子、小花溲疏（Deutzia parvjflora）、刺果茶藨子、沙棘（Hippophae rhamnoides）、蒙古绣线菊、虎榛子、美蔷薇、太平花（Philadelphus pekinensis）、西北枸子等,灌木层植物种类丰富;草本层中歧茎蒿分布较多,还有少量轴藜（Axyrisamaranthoides）、香青兰（Dracocephalummoldavica）狗尾草（Setaria viridis）、景天三七、短尾铁线莲、楼斗菜（Aquilegiaviridiflora）、小红菊、石竹（Dianthus chinensis）、糖芥、龙芽草 野青茅、细叶婆婆纳（Veronica linarifolia）、大叶野豌豆、巴天酸模（Rumexpatientia）等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "XII 油松 $^ +$ 杏-毛樱桃-白莲蒿 $^ +$ 宽叶墓草群落（Comm.Pinus tabuliformis $^ +$ Armeniaca vulgaris-Cerasustomentosa-Artemisia sacrorum $^ +$ Carexsiderosticta）。该群落主要分布于海拔1300— $1 6 0 0 \\mathrm { m }$ 的西台,西坡、西北坡,坡度 $3 0 { \\div } 4 5 ^ { \\circ }$ ，下坡位,棕壤,枯枝落叶层极薄,轻微干扰。群落总盖度为88一 $9 5 \\%$ ,乔木层盖度为 $3 0 \\%$ 一$4 0 \\%$ ,灌木层盖度为 $3 5 \\%$ 一 $7 5 \\%$ ,草本层盖度为 $1 8 \\% - 3 9 \\%$ 。乔木层以油松和杏为主要优势种,伴生有少量山杨、榆树、小叶杨;灌木层优势种为毛樱桃,伴生有甘草、毛榛、达乌里胡枝子、小叶鼠李、沙棘、北京丁香;草本层中分白莲蒿和宽叶臺草布较多,伴生有草木犀（Melilotus ofcinalis）、黄耆（Astragalus membranaceus）、野艾蒿（Artemisia lavandulaefolia）、大油芒（Spodiopogon sibiricus）、大叶野豌豆、早熟禾（Poa annua）、鹅观草、狼针草（Stipa baicalensis）、糙叶败酱（Patriniarupestrissubsp.scabra）、刺儿菜（Cirsium setosum）、紫菀、灰绿藜（Chenopodium glaucum）、猪殃殃、野韭、小红菊、芹叶铁线莲、蒲公英、朝天委陵菜、藿香等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "XIII 杠柳-猪殃殃群落（Comm.Periploca sepium-Galium aparine var.tenerum）。该群落主要分布于海拔1290— $1 3 8 8 \\mathrm { m }$ 左右的南台,南坡,坡度 $2 0 { - } 3 5 ^ { \\circ }$ ,谷底,山地褐土,近乎无枯枝落叶层,人为干扰较强。群落总盖度为 $9 0 \\% - 9 2 \\%$ ,灌木层盖度为 $8 8 \\%$ ,草本层盖度为 $10 \\%$ 。无乔木层，灌木层优势种为杠柳（Periplocasepium）,伴生有水枸子（Cotoneaster multiflorus）、巧玲花（Syringa pubescens）等;草本层中猪殃殃分布较多,还有白莲蒿、狗尾草、小红菊、车前(Plantago asiatica）、地榆、菊叶委陵菜(Potentilla tanacetifolia)等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XIV色木槭 $^ +$ 辽东栎-虎榛子 $^ +$ 巧玲花-龙芽草群落（Comm.Acermomo $^ +$ Quercus wutaishanica-Ostryopsisdavidiana $^ +$ Syringa pubescens—Agrimonia pilosa）。该群落主要分布于海拔1400- $1 7 0 0 \\mathrm { m }$ 的南台,南坡、西南坡,坡度 $3 5 - 4 3 ^ { \\circ }$ ,下、中坡位,山地褐土,凋落层厚度较薄,人为干扰较大。群落总盖度为 $9 2 \\% - 9 4 \\%$ ,乔木层盖度为 $5 9 \\% - 7 0 \\%$ ,灌木层盖度为 $6 5 \\% - 8 0 \\%$ ,草本层盖度为 $12 \\% - 4 0 \\%$ 。乔木层以色木槭和辽东栎为主要优势种,伴生有少量榆树、野山楂、辽杨等;灌木层优势种为虎榛子和巧玲花,伴生有胡枝子、草珠黄耆、蒙古绣线菊、水枸子、毛榛等;草本层中龙芽草分布较多,还有少量异穗草、穿龙薯、串铃草、歧茎蒿、翠菊、狗尾草、地榆、茜草、艾蒿、华北乌头等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XV红桦 $^ +$ 华北落叶松-银露梅-细秆臺草 $^ +$ 青绿臺草群落（Comm.Betula albosinensis $^ +$ Larix principisrupprechtii-Potentilla glabra-Carexcapillaris $+$ Carexbreviculmis）。该群落主要分布于海拔 $2 1 8 6 { - } 2 3 2 9 \\mathrm { m }$ 的西台，北坡、西坡,坡度 $5 0 { \\ - } { - } 5 5 ^ { \\circ }$ ,上坡位,棕壤,枯枝落叶层厚度 2— ${ \\cdot } 5 \\mathrm { c m }$ 。群落总盖度为 $9 0 \\% \\mathrm { - } 9 2 \\%$ ,乔木层盖度为$4 0 \\% - 7 0 \\%$ ,灌木层盖度为 $12 \\% - 1 5 \\%$ ,草本层盖度为 $5 0 \\% - 7 0 \\%$ 。乔木层以红桦、华北落叶松为主要优势种,伴生有少量青扦、皂柳等;灌木层以银露梅为主要优势种,伴生有少量土庄绣线菊;草本层以细秆草和青绿臺草为主要优势种,伴生有野青茅、西伯利亚早熟禾（Poa sibirica）、密花岩风、火绒草（Leontopodiumleontopodioides）、铃铃香青（Anaphalis hancockii）、两色乌头、叉歧繁缕（Stellria dichotoma）、华北蓝盆花（Scabiosa tschiliensis）、中国马先蒿（Pedicularis chinensis）、蒲公英、茗葱（Allum victorialis）、毛蕊老鹳草、红直獐牙菜（Suertia erythrosticta）返顾马先蒿（Pedicularis resupinata）、花锚（Halenia sibirica）、羽节蕨（Gymnocarpiumjesoense）、珠芽蓼、黑柴胡、皱叶酸模（Rumex crispus）等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XVI红桦 $^ +$ 华北落叶松-密齿柳 $^ +$ 青扦幼苗-密花岩风群落（Comm.Betula albosinensis $^ +$ Larix principisrupprechtii-Salix characta $^ +$ Piceawilsonii-Libanotiscondensata）。该群落主要分布于海拔 $2 3 0 0 { - } 2 4 3 7 \\mathrm { m }$ 的东台,东北坡,坡度 $3 2 { \\mathrm { - } } 4 0 ^ { \\circ }$ ,上坡位、山顶,棕壤,凋落层略厚,无干扰。群落总盖度为 $5 0 \\mathrm { - } 7 0 \\%$ ,乔木层盖度为55—$6 5 \\%$ ,灌木层盖度为 $2 5 \\%$ ,草本层盖度为 $4 3 - 7 0 \\% _ { \\textmd { o } }$ 乔木层以红桦、华北落叶松为主要优势种;灌木层优势种为密齿柳和青扦幼苗,伴生有东北茶藨子、黑果枸子（Cotoneaster melanocarpus）等;草本层中密花岩风分布较多,还有少量华北马先蒿、秦苏、蓝刺头、红梗蒲公英（Taraxacumerythropodium）、狭苞橐吾（Ligulariaintermedia）、细叶鸦葱、寡毛变种(Solidago virgaurea var.dahurica）、鹅观草、臭草（Melica scabrosa）、花锚、狭叶黄精、火绒草、铃铃香青、蛇床、野韭(Allium ramosum）、地榆、叉歧繁缕、华北蓝盆花、中国马先蒿、石竹、三脉紫菀、老鹳草等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XVII华北落叶松—密齿柳 $^ +$ 银露梅—野青茅群落（Comm.Larix principis-rupprechtii—Salix characta $^ +$ （204号Potentillaglabra—Deyeuxia arundinacea）。该群落主要分布于海拔 $2 3 9 7 - 2 5 8 9 \\mathrm { m }$ 的东台,西北坡,坡度35—$5 0 ^ { \\circ }$ ,山顶,棕壤,凋落层 $\\stackrel { \\triangledown } { 3 - { 5 \\mathrm { c m } } }$ 。群落总盖度为 $7 0 \\mathrm { - } 9 5 \\%$ ,乔木层盖度为 $12 \\%$ ,灌木层盖度为20- $2 5 \\%$ ,草本层盖度为 $70 \\% - 9 5 \\% _ { \\circ }$ 乔木层以华北落叶松为主要优势种,乔木层物种数量稀少;灌木层优势种为密齿柳和银露梅,伴生有东北茶藨子、全缘枸子（Cotoneaster integerrimus)等;草本层中野青茅分布较多,还有少量鹅观草、臭草、花锚、轮叶黄精、细叶鸦葱、密花岩风、紫苞风毛菊、火绒草、铃铃香青、叉歧繁缕、华北蓝盆花、中国马先蒿、大头风毛菊（Saussrea baicalensis）、小窃衣（Torilis japonica）、瞿麦（Dianthus superbus）、雪白委陵菜（Potentilla nivea）阿尔泰狗娃花（Heteropappus altaicus）、北方还阳参(Crepis crocea）等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XVIII华北落叶松-迎红杜鹃 $^ +$ 密齿柳-紫苞风毛菊群落（Comm.Larixprincipis-rupprechtii-Rhododendronmucronulatum+Salix characta-Saussurea iodostegia）。该群落主要分布于海拔 2194- $2 3 9 8 \\mathrm { m }$ 的东台,北坡,坡度$3 5 ^ { \\circ }$ ,上坡位,棕壤。群落总盖度为82一 $8 8 \\%$ ,乔木层盖度为 $10 \\%$ ,灌木层盖度为 $6 \\%$ ,草本层盖度为 $8 3 \\%$ 。乔木层以华北落叶松为主要优势种,伴生有少量臭冷杉;灌木层优势种为密齿柳和迎红杜鹃,伴生有硕桦苗；草本层中紫苞风毛菊分布较多,还有巴天酸模（Rumex patientia）、绢茸火绒草（Leontopodium smithianum）、铃铃香青、花锚、点地梅（Androsaceumbellata）、石竹、长花马先蒿、黑柴胡、鹅观草、早熟禾、胭脂花（Primulamaximowiczii）、虎尾草（Lysimachia barystachys）、橐吾、野罂粟、委陵菜（Potentilla chinensis）、飞蓬、密花岩风、问荆（Equisetumarvense）、中国马先蒿、草珠黄耆等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "XIX 金露梅-雪白委陵菜 $+$ 紫羊茅 $\\cdot +$ 异穗臺草群落(Comm.Potentilla fruticosa-Potentilla nivea $^ +$ Festucarubra $^ +$ Carexheterostachya）。该群落主要分布于海拔2590— $2 6 8 8 \\mathrm { m }$ 的东台,西坡,坡度 $3 0 - 4 5 ^ { \\circ }$ ,山顶,亚高山灌丛草甸土,凋落层厚度 $3 \\mathrm { - } 5 \\mathrm { c m }$ 。群落总盖度为 $9 3 \\% - 9 6 \\%$ ,灌木层盖度为 $1 5 \\%$ ,草本层盖度为 $9 5 \\%$ 。灌木层优势种为金露梅;草本层中雪白委陵菜、紫羊茅、异穗臺草(Carex heterostachya)分布较多,还有少量野青茅、细秆臺草(Carex capillaris）、叉歧繁缕、密花岩风、火绒草、铃铃香青、北乌头、蒲公英、金莲花、紫苞风毛菊、毛蕊老鹳草、蓝花棘豆、小丛红景天等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "XX金露梅 $+$ 银露梅-嵩草群落(Comm.Potentilla fruticosa $^ +$ Potentilla glabra-Kobresia myosuroides）。该群落主要分布于海拔 $2 3 0 7 { - } 2 4 9 2 \\mathrm { m }$ 的南台,西南坡、南坡,坡度 $3 3 - 4 5 ^ { \\circ }$ ,山顶,亚高山灌丛草甸土,凋落层厚度2.7 $\\cdot 8 \\mathrm { c m }$ 。群落总盖度为 $9 2 \\% - 9 5 \\%$ ,灌木层盖度为 $1 0 \\% - 5 5 \\%$ ,草本层盖度为 $7 0 \\% - 9 5 \\%$ 。灌木层优势种为金露梅和银露梅,伴生有鬼箭锦鸡儿(Caragana jubata);草本层中嵩草分布较多,还有细秆藁草、尖嘴草（Carex leiorhyncha）、紫苞风毛菊、秦苏、铃铃香青、卷耳（Cerastium aruense）、雪白委陵菜、蓝花棘豆、肋柱花（Lomatogonium carinthiacum）、华北蓝盆花、胭脂花、翠雀（Delphinium grandiflorum）、卵穗荸荠（Heleocharissoloniensis）、西伯利亚三毛草、紫斑风铃草（Campanula puncatata）皱叶酸模、黑柴胡等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2 CCA排序 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "典范对应分析(Canonical correspondence analysis,CCA)采用包含物种数据和环境数据的两个数据矩阵，采用样方-物种重要值矩阵和样方-环境因子矩阵对小五台山国家级自然保护区森林群落进行CCA排序,结果表明,物种CCA排序轴第一轴和第二轴与环境因子极显著相关,特征值为0.657和0.403,物种-环境相关性为$9 7 . 3 0 \\%$ 和 $9 0 . 1 0 \\%$ ,蒙特卡罗拟合检验表明第一轴和前四轴所代表的环境变量均与物种变量之间呈显著相关关系(第一轴 $F { = } 5 . 0 8 4$ $P { = } 0 . 0 0 1$ ;前四轴： $F = 2 . 1 4 5 , P = 0 . 0 0 1 \\rangle$ ),前四轴物种-环境关系方差累计贡献率达到$6 0 . 2 \\%$ ,采用前两轴绘制样方-环境因子的二维空间排序图（图2）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/57d13ec02017079699f2dba8459bc01ca9657bf9adbce37dddb57384b3c04829.jpg",
+        "table_caption": [
+            "表2小五台山国家级自然保护区森林群落环境因子与CCA环境轴的相关性",
+            "Table2Intra-setcorreltionsbetweenenviometalvarablesandCCAodinationaxesforforestcommunitiesinteXiaowutaioutai National Nature Reserve 入 "
+        ],
+        "table_footnote": [
+            "\\*P<0.05，\\*\\* P<0.01，\\*\\*\\* P<0.001 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">环境因子 Environmental factors</td><td colspan=\"4\">CCA 排序轴 CCA Axes</td></tr><tr><td>第一轴Axis 1</td><td>第二轴Axis 2</td><td>第三轴Axis 3</td><td>第四轴Axis 4</td></tr><tr><td>海拔 Altitude</td><td>0.9519 ***</td><td>-0.0414</td><td>0.0118</td><td>-0.0255</td></tr><tr><td>坡向 Aspect</td><td>-0.1655 *</td><td>-0.2344 **</td><td>-0.0532</td><td>-0.5545 ***</td></tr><tr><td>坡度 Slope</td><td>0.2619 **</td><td>0.2180 **</td><td>0.1827 *</td><td>-0.2123 **</td></tr><tr><td>坡位 Slope position</td><td>0.7623 ***</td><td>-0.1906 *</td><td>0.0555</td><td>-0.1894 *</td></tr><tr><td>调落层厚度 Litter layer thickness</td><td>0.4412 ***</td><td>0.6555 ***</td><td>-0.0476</td><td>-0.2168 **</td></tr><tr><td>土壤厚度 Soil thickness</td><td>0.4783 ***</td><td>0.5124 ***</td><td>0.0229</td><td>-0.3441***</td></tr><tr><td>土壤湿度 Soil moisture</td><td>0.6486***</td><td>-0.1856 *</td><td>0.1771 *</td><td>0.0986</td></tr><tr><td>土壤温度 Soil temperature</td><td>-0.4695 ***</td><td>-0.4889 ***</td><td>0.4311***</td><td>-0.1071</td></tr><tr><td>土壤导电率 Soil electrical conductivity</td><td>-0.6680 ***</td><td>-0.0347</td><td>-0.4529 ***</td><td>-0.2096 **</td></tr><tr><td>土壤 pH Soil pH</td><td>-0.3017***</td><td>-0.0093</td><td>-0.2004 *</td><td>0.4965 ***</td></tr><tr><td>干扰情况 Disturbance</td><td>-0.5448 ***</td><td>-0.2641**</td><td>0.2664***</td><td>0.0623</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综合样方的CCA二维排序图(图2)和环境因子与排序轴的相关性大小(表2)可以看出,CCA排序第一轴主要反映了以下多个环境因子的综合变化趋势:与海拔、坡位、土壤湿度、土壤厚度、凋落层厚度极显著正相关,相关系数分别为0.9519、0.7623、0.6486、0.4783、0.4412;与土壤导电率、干扰情况、土壤温度、土壤pH极显著负相关,相关系数分别为-0.6680、-0.5448、-0.4695、-0.3017,与坡向显著负相关,相关系数为-0.1655,即沿 CCA 排序轴第一轴从左到右海拔逐渐升高,土壤类型由山地褐土向山地棕壤、亚高山草甸土转变,坡位趋向于由谷底向下坡位、中坡位、上坡位、山顶转变,土壤湿度由低向高,山顶雨量丰富,较为湿润,土壤层厚度和枯枝落叶层厚度呈逐渐增加趋势,土壤导电率逐渐下降,人为或动物干扰逐渐减弱,土壤温度逐渐降低,土壤由碱性逐渐变为酸性,这11个因子中,海拔与第一轴的相关性最大。CCA排序第二轴与凋落层厚度、土壤厚度极显著正相关,相关系数分别为0.655、0.5124,与坡度显著正相关,相关系数为0.2180;与土壤温度极显著负相关,相关系数为-0.4889,与干扰情况、坡向显著负相关,相关系数分别为-0.2641、-0.2344,与坡位、土壤湿度负相关,相关系数为-0.1906、-0.1856,即沿CCA第二轴,从下到上,土壤厚度、凋落层厚度越来越大,坡度由平缓变为陡峭,土壤温度逐渐降低,坡向由阳坡转为阴坡,这8个环境因子中,凋落层厚度与第二轴相关性最大。综合前两轴,海拔梯度、坡位、凋落层厚度、土壤导电率、土壤温度、土壤湿度、土壤厚度和干扰情况等对森林群落的分布起较大的作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e97fcc30ea233c89ee3701c22df3669f3ba3195be0581b082bf8bc0503936bb0.jpg",
+        "img_caption": [
+            "图2小五台山国家级自然保护区森林群落148个样方的CCA二维排序图",
+            "Fig.2Two-dimensionalCCAordinatiodiagraof148quadratsforestcommunityintheXiaowutaiMonutainNationalNatureReserve Alti：海拔，Aspe：坡向,Slop：坡度,SIPo：坡位,LiTh：调落层厚度,SoTh：土壤厚度,SoMo：土壤湿度,SoTe：土壤温度,SoEl：土壤导电率， SopH：土壤pH,Dist:干扰情况 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TWINPSAN分类所得的20个群落类型在排序图上呈现有规律的分布,每种植物都有自己的分布中心和分布区域,如图2所示,沿第一轴从左到右,适于低海拔、下坡位、土层厚度、凋落层厚度较薄、较为干燥的的群落 XII、群落 XII位于排序图左最左方;适于高海拔、上坡位、土壤温度较低、较为湿润的群落 XIX位于排序轴的最右方,土壤呈酸性。沿第二轴从下到上,位于排序图最下方的群落XX到位于排序图最上方的群落IV,土壤凋落层厚度、土层厚度趋于逐渐增加，土壤温度呈下降趋势，由阳坡转为阴坡，各个群落在排序图中的分布较好地解释了物种与生境之间的关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "利用前两轴绘制乔木层优势种的CCA二维排序图（图3)和t值双序图(图4）。群落中乔木层优势种的分布格局所揭示的环境梯度与群落类型的分布梯度有很大的相似性，各个群落沿海拔梯度依次分布（图3），华北落叶松、红桦生长于高海拔、冷凉的生境;白桦、山杨生境条件相似,要求温度、光照逐渐增高;辽东栎、色木槭、油松喜温暖光照充足的气候；杏生长在温暖向阳的山坡。综合图2和图3可以看出，以杠柳为优势种的群落 XIII、以色木槭、辽东栎为优势种的群落XIV分布在阳坡、低海拔地区；以油松、香为优势种的群落XII、以榆树为优势种的群落XI、以油松为优势种的群落X分布在低海拔阴坡和半阴坡;群落 $\\mathrm { V I I I , X , V I , I , V I I , I V , I I , }$ （号III、V位于中心位置，由白桦、油松、山杨为优势种的群落向白桦纯林过渡,后转向红桦、白桦混交林,转向红桦、华北落叶松混交林,油松、山杨、白桦主要分布在中海拔地区,红桦、华北落叶松主要分布在高海拔地区;群落XV和群落 XVI为乔木层以红桦、华北落叶松为优势种,群落XVII和群落XVII为乔木层以华北落叶松为优势种,随着海拔的升高,由红桦林向华北落叶松林过渡。群落XIX 和群落 XX为亚高山灌丛,样方内无乔木,灌木层多为密齿柳、金露梅、银露梅等。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/43389f8a700c61416e49fd00787e23007c661fd1a6eef500ee7545bfe3a02255.jpg",
+        "img_caption": [
+            "图3小五台山国家级自然保护区乔木层优势种的CCA二维排 序图 Fig.3Two-dimensional CCA ordination diagram of dominant species of tree layer in the Xiaowutai Monutain National Nature Reserve "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "利用植物种与特定环境因子之间回归系数t检验结果来分析单个环境因子是否显著影响各个优势种的分布,CCA 排序得到的前两轴绘制t值双序图,从而解释各个环境因子对群落优势种的影响。由样方的CCA二维排序图分析得出海拔梯度、坡位、凋落层厚度、王壤导电率、土壤温度、土壤湿度、土壤厚度和干扰情况等环境因子对植物种的影响较大,因此,本文绘制乔木层优势种与相关环境因子的t值双序图。图4（A)是海拔与优势种回归系数的t值双序图,可以看出华北落叶松、红桦分布与海拔呈显著正相关,油松、辽东栎、山杏分布与海拔显著负相关,表明随着海拔的升高华北落叶松、红桦优势度增大,它们趋向于生长在高海拔地区,油松、辽东栎、山杏优势度逐渐减小,它们趋向于生长在低海拔地区,色木槭、山杨、白桦与海拔的相关性不大。从图4（B)中可以看出,乔木层各个优势种与坡位的相关性不大,坡位不能直接解释各个乔木树种的分布。从凋落层厚度与乔木层优势种t值双序图上可以看出（图4（C)）,红桦与凋落层厚度极显著正相关,其它优势种的箭头均不能位于响应的圆圈内,表明其它树种与凋落层厚度相关性较弱。从图4(D)可看出,各个树种与土壤导电率相关性较弱。从图4(E)可以看出,红桦与土壤温度呈显著负相关,其它树种与土壤温度相关性不大。从图4(F)可看出,各个树种与土壤湿度相关性较弱,并无明确指示。从图4(G)可看出,各个树种与土壤厚度相关性不大。干扰程度影响华北落叶松和白桦的分布,其它树种与干扰程度无关（图4（H))。综上所述,海拔、凋落层厚度、土壤温度、干扰程度对乔木层优势种的影响较大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文以小五台山国家级自然保护区内森林群落为研究对象,选用双向指示种分析(TWINSPAN)和典范对应分析(CCA)等数量生态学方法对该区山地植物进行分类与排序研究。采用样带和样方相结合的方法沿海拔梯度取样,在研究区内调查的148个样方中,有维管植物75科,222属,392种,其中蕨类植物6科,8属，10种;种子植物69科,214属,382种。在种子植物中,有裸子植物2科,5属,6种;被子植物67科,209属，",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f7beba9e9aa723033e346c947ec576a2104ae5c00f535040e127a306119b528.jpg",
+        "img_caption": [
+            "图4小五台山国家级自然保护区乔木层优势种的t值双序图"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Two-dimensionalt-valuediagramofdominantspeciesof treelayerintheXiaowutai MonutainNationalNatureReserve  \n圆圈代表重点分析的环境因子,箭头代表物种与环境因子的相关性,箭头落在圆圈内,表示该物种与环境因子显著相关,落在实线圈内,代  \n表显著正相关,落在虚线圈内,代表显著负相关[17]http://www.ecologica.cn",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "376种。本文所划分的20个群落类型,群落特征明显,涉及有油松林、白桦林、红桦林、华北落叶松林、榆树林、辽东栎林、杠柳灌丛、金露梅灌丛、金露梅和银露梅灌丛等群落类型。其中,将油松林分为IX、XII两类,多分布在西台,群落特征明显,长势良好,在低海拔处略有人为干扰;将白桦林分为 $ { \\mathrm { I } _ { \\mathrm { \\Delta V , V I , V I I I , X } } }$ 等类群,I、VI为白桦纯林,V为白桦、红桦混交林,VII为白桦、油松混交林、X为山杨、白桦混交林;将红桦林分为III、IV、VII、XV、XVI等类群,II、II、IV 为红桦纯林,VII 为红桦、白桦混交林,XV、XVI为红桦华北落叶松混交林;华北落叶松林有群落XVII、XVIII两类,乔木层以华北落叶松为主,灌木层组成不同;群落XI为榆树林,生长在东台,多处西北坡,坡度较为平缓;群落 XIV 以辽东栎和色木槭为共建种,多生长在的南台西坡、西南坡、南坡等地;群落 XIII为杠柳灌丛,多生长在南台低海拔处,土壤碱性;群落 XIX、XX为亚高山灌丛,以银露梅、金露梅为主要优势种。前人研究中调查到本文的部分群落类型,但并不全面,且没有明确分类[18-19]。本文划分出的这些群落类型基本上代表了小五台自然保护区森林类型的全貌，各个群落类型在物种组成以及群落外貌特征等方面均差异明显，群落分类结果客观。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "各个群落类型在CCA二维排序图上呈现有规律的分布,每种植物都有自己的分布中心和分布区域,二维排序图表明海拔梯度、坡位、土壤厚度、凋落层厚度、土壤温度、土壤湿度、土壤厚度、干扰程度等对森林群落的分布起较大的作用,影响森林群落的分布格局,形成不同的植被类型,体现了地带性植被的垂直分布格局。热量、水分、养分、光照等环境因子决定植物种的分布格局,其内部关系极为复杂多变,CCA第一排序轴主要与海拔高度有关,海拔所反映的是水分和温度条件的综合梯度[20],这也与其他地区相关的研究结论比较一致[21]。CCA第二排序轴主要与凋落层厚度有关,凋落层越厚,土壤养分越为丰富[22]。虽然CCA 排序能够较好地展示出群落类型、物种分布与环境之间的关系,但它并不能有效解决环境因子间的共线性等问题[23],在今后的研究中,需进一步挖掘更多的环境信息,从而给出更深入全面的环境解释。乔木层优势种的CCA二维排序图所揭示的环境梯度与群落类型的分布梯度有很大的相似性，在乔木层优势种CCA二维排序图中（图3),华北落叶松、红桦趋向于生长于高海拔、冷凉的生境,辽东栎、色木槭、油松喜温暖光照充足的气候,山杏多生长在温暖向阳的山坡,白桦和山杨生境条件相似,与前人研究结果一致[24-27]。t值双序图阐明了CCA 排序得出的较为重要的8个环境因子对森林群落乔木层优势种的影响,随着海拔的升高华北落叶松、红桦优势度增大,而油松、辽东栎、杏优势度随海拔的升高而减小;凋落层较厚、土壤温度较低的地区,红桦的优势度较高;华北落叶松和白桦的分布与干扰程度有一定的相关性。因此,海拔、凋落层厚度、土壤温度、干扰程度等环境因子对森林群落乔木层优势种的影响较大。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述,小五台山森林群落TWINSPAN 分类揭示了该区群落的间断性,CCA排序揭示了群落的连续性和生境异质性,研究结果较好地展现了该区森林群落与环境因子的关系,有助于深人理解保护区森林群落的空间分布格局及各物种的生态适应特性,为今后保护区管理和保护提供相应的理论依据。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1]DaiXagBffKJIdcatealisagprdictiteiiasiftiSoutanJuaofotay2006,72(4) :589-596.  \n[2]Borcard D,GiletF,Legendre P.Numerical Ecology with R.New York： Springer-Verlag，2011:58-77.  \n[3］张金屯.数量生态学(第二版).北京：科学出版社，2011;123-127.  \n[4]VirtaR,olaK,oJJsJegeatgeltrelcontroledbygeomorphologicaldisturbance，productivityanddiversty.GlobalEcologyandBiogeogaphyOo,19（6）：-821.  \n[5]Legendre P,Legendre L.Numerical Ecology.3rd ed. Amsterdam：Elsevier，2012：99-103.  \n[6]Vitozfror,Est,Dufeurilasaeroducibiltyfsesstsisualcovetfrequency methods for recording high-mountain vegetation.Journal of Vegetation Science,2O1o,21（6）:1035-1047.  \n[7］刘方正,崔国发.国内外保护区管理有效性评价方法比较.世界林业研究，2013，26(6)：33-38.  \n［8］鲁少波.河北小五台山森林生态系统主要因子间量化关系研究[D].北京;北京林业大学，2009.  \n[9］王志峰，罗辅燕，唐婷，李霄峰，杨鹏，李俊钰.河北小五台山海拔梯度上青杨的种群结构和空间分布.西华师范大学学报：自然科学版，",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2011,32(1) :1-6.[10］刘斌，陈波，杨新兵，鲁绍伟，李少宁.河北小五台山天然白桦林草本多样性影响因素研究.生态科学，2015，34（2）：87-93.［11］赵建成，郭书彬，李盼威.小五台山植物志.北京;科学出版社，2011：2-4.[12]方精云，王襄平,沈泽昊，唐志尧，贺金生，于丹，江源，王志恒,郑成洋，朱江玲,郭兆迪.植物群落清查的主要内容、方法和技术规范.生物多样性，2009,17(6)：533-548.[13]ZhangJ,XuB,iVegeaiotdspeesilogeevatioalddistubaceintseaoutie,Beijing，China.Mountain Research and Development，2013，33(2）:170-178.[14]HillMO,milauerPSAforndowVesi.3.uthohia;Huntigo&CeskeBudejovice,CentreforondHdl&University of South Bohemia,2005:45-59.［15］李林峰.芦芽山自然保护区青杆林的数量生态学研究[D].北京;北京师范大学，2014.[16]TerBrakCJF,mlauerP.CAOCReferenceMaualandanoDrawforWidowsUser'sGude：SoftwareforCanonicalCommunityOrti(version 4.5).New York:Microcomputer Power Press,2002:66-81.[17] SmilauerP,LepsJutivarateAalysisofcologicalDataUsingCAO.Camridge,UK:CambdgeUniversityress-92.[18］尤海舟,毕君,蔡蕾,王超.小五台山不同林分类型林地水文效应及涵养水源生态功能价值估算.中国农学通报，2013，29（13）:60-65.[19] 李白.小五台山主要乔木群落类型调查研究.宁夏农林科技，2012，53(10)：87-88.2Selefotiie，ecological processes，and considerations for management.Hydrobiologia，719(1）:291-315.[21］任学敏.太白山主要植物群落数量分类及其物种组成和丰富度的环境解释[D].杨凌：西北农林科技大学，2012.[22]MoriAaawa,agalidcattatetetiallsprteliezone.Ecological Indicators，2013，32：245-252.[23]DavidoeCereeseesiuusfereftioushacoesifossil cladoceran assemblages：amultivariate regression tree approach.Freshwater Biology，2010,55(3):546-564.［24］李豪.山西历山保护区青檀天然群落数量生态学研究[D].临汾;山西师范大学，2013.[25］苏日古嘎，张金屯，张斌，程佳佳，田世广，张钦弟，刘素军.松山自然保护区森林群落的数量分类和排序．生态学报，2010，30（10)：2621-2629.[26]ZhangJ，haoDArbutesofforestdiversityintheunmengoutainnatioalforestparkineijing，ChinaApledEoandEnvironmental Research,2015,13(3）:769-782.[27］张先平，王孟本，余波，肖扬．庞泉沟国家自然保护区森林群落的数量分类和排序.生态学报，2006，26(3)：754-761.",
+        "page_idx": 13
+    }
+]

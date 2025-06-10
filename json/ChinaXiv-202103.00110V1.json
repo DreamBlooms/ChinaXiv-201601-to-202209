@@ -1,0 +1,713 @@
+[
+    {
+        "type": "text",
+        "text": "辽宁省葫芦岛市南票区单双字调的语音学分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于欣池",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（北京大学 中国语言文学系 北京 100871)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文通过对采集的辽宁省葫芦岛市南票区的单双字调进行语音学分析，总结了有关这一东北官话哈抚片长锦小片方言的连读变调规律。本文通过分析该方言区阴平、阳平、上声、去声的作前后字的规律，根据基频变化，使用五度标调法指出了一些双音节中的连读变调情况。除阳平作前字、阴平的情况外，双音节词中的单字调值均与单音节时有一定区别。单字调的基频值男女差异不大，在双字调中的一些情况女性调值比男性高。该地区的双音节调位组合存在调位合并现象，实际的双音节调位组合可以看作14种，阳平加阴平、阳平加上声、上声加上声的调位组合基本一致，上声作后字时有时尾部也有微弱上升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：声调 南票方言 声学分析 单音节 双音节 变调",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．葫芦岛市南票区的地理位置",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据葫芦岛市政府辖《葫芦岛地方志》网，葫芦岛市位于辽宁省西部，市辖连山区、龙港区、南票区、兴城市（县级）、绥中县和建昌县，总面积1.04万平方千米，海岸线长 258千米。截至 2005 年底，全市总人口273.71万人，其中城市人口94.31万人。同据上述网站，“1989 年6月12日，国务院批准锦西市升格为地级市，归辽宁省管辖。实行市管县的领导体制，将原锦州市管辖的锦西市（县级）、兴城市（县级）、绥中县、南票区、葫芦岛区和朝阳市管辖的建昌县划归锦西市领导。根据新的区划撤销原锦西市（县级)，改称连山区。1994年9月 20日，锦西市更名为葫芦岛市,原葫芦岛区更名为龙港区”。南票区位于葫芦岛市西北部，同锦州、朝阳两市接壤。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具体位置地图如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3513d376842e0766a807770c09d728c10d3f8e6820c5a2136b10acf05dcb156.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（来源：Google Map）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．葫芦岛市南票区的方言分区",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "李荣等《中国语言地图集》（1987B1）中“辽宁省锦西”被划入东北官话哈阜片长锦小片中。这里的“锦西”应当对应今天的葫芦岛市。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以看到，李荣等（1987）试图将东北官话与所谓“北京话”区别开。从听感上来看，显然这两种方言是有差别的。但李荣等发现，如果从声调上区分，“古四声的演变情况和北京话大致相同”（李荣等 1987 B1)，似乎难以根据这一点区分。因此，又增加一条区别，即“阴平调值比北京低”，即认为“东北官话”阴平调值大多读为33或44，而北京话（同据本书，北京属北京官话京师片）阴平调值为55（李荣等 1987 B2)。这一刻画在语音学上是否准确？所谓“东北官话”在双音节变调上是否具有与所谓“北京话”不同的其他特点？为探究这一问题，笔者对东北官话双音节变调的语音学特征产生兴趣。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3．先行研究概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有的有关葫芦岛市方言的语音研究，单独研究葫芦岛市及市辖区的应当只有辽宁师范大学的两篇硕士论文，即王迪《葫芦岛市区方音研究》（2015）和王龙《绥中方言语音研究》（2015)。前者研究的是葫芦岛市龙港区、连山区、南票区与兴城市，后者研究的是葫芦岛辖绥中县的方音。正如王迪《葫芦岛市区方音研究》（2015）中所说，“学界对葫芦岛市区方音的研究还处于空白状态”，两篇硕士论文后也未见新的相关研究成果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "两篇文章中也提到了此前涉及葫芦岛方音研究的《辽宁语音说略》（宋学1963）、《东北官话的分区（稿)》（贺巍 1986）、《东北官话的分区（稿)》（张志敏 2005）、《东北方言知系声母的演变》（张世方 2009）、《辽宁方言语音研究》（杨春宇 2010）、《锦州方言语音研究》（温娇娇 2012）、《辽西方音的共时考察和历时分析》（陈晓娇 2014）等涉及葫芦岛方音的著作、文章。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这两篇硕士论文侧重从广韵音系分析语音演变，虽然涉及声韵调，但仅仅是从听音记音的方面记录，没有作实验语音学的分析。且之前也未见研究葫芦岛地区方言连续变调的相关著作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此本文取葫芦岛市南票区方言为样本，旨在从实验语音学的声学分析角度，研究其单音节字调即双音节连续变调特征。填补之前东北官话区缺乏实验语音学研究的空白，从而为东北官话区分特征的进一步研究等提供基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "二、葫芦岛市南票区方言的声韵母特点及声调特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．发音人信息（以采集时间 2017年11月为准）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "男性发音人（两位)：M1，63岁，1958、1959 年左右（4岁左右）自锦州义县（据《中国语言地图集》，也属于长锦小片）迁移至葫芦岛市南票区，除 2009-2014 年在山西工作外基本一直在南票区生活工作；M2，65岁，10岁时从阜新市（据《中国语言地图集》，也属于长锦小片）迁移至葫芦岛市南票区，此后基本一直在南票区生活工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "女性发音人（两位)：F1，61岁，从小一直在南票区工作生活；F2，63岁，8岁左右从河南（不属于东北官话区）迁移至南票区，此后基本一直在南票区生活工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．葫芦岛市南票区方言的声母",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "就葫芦岛市南票区的声韵母特点，王迪（2015）已经做过比较详细的标音。笔者对王迪（2015）论文中对所谓“南票话”的声母标音总结如下：p(奔)，t(道)，k(镐), $\\boldsymbol { \\mathrm { \\tt ~ p ^ { \\prime } ~ } }$ （喷），t’（套)，k'（考），ts/ts（真)，te（家)，ts'/ts'（坤）,tc²(掐)，f(分)，v（文， $\\varnothing$ 的自由变体)， $\\mathbf { s } / \\mathbf { \\xi }$ （神）， $z$ (人)，c（瞎)，x(好)，m（麻)，n(拿)，$\\mathfrak { n }$ （您)，1（刺)，の（文，鱼等)。此外还有半元音w，y。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本上可以遵从王迪（2015）的总结。笔者还有一些说明。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1) 本表中含有自由变体[v]和半元音[w]、[y]，三者均不与零声母构成最小对立;  \n(2) 在王迪（2015）论文中，ts/ts'/s 与 ts/ts/s 在南票话中似乎被看作是有对立的，而在连山话、龙港话、兴城话中则没有，记音统记为ts/ts'/s。在笔者的调查中，M1、M2、F1 在读词\"坐车”、“凑巧\"时，与读\"厂长”、“主席\"时一样，均读作ts/ts/s这组，而非对立；F2有对立，但因为F2从河南迁移，读音上的代表性可能不如另三名发音人。因此本文对这组对立的区分持怀疑态度，但这似乎并不影响对基频的提取、调值的计算，因此对本文来说问题不大;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3） n/n 虽然读音有时有细微差异，但应当不构成最小对立。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3．葫芦岛市南票区方言的韵母",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对王迪（2015）论文中“南票话”的韵母表进行总结，得到如下分布：1(字)，i（币)，『（音)，u（吴)，γ（云)，l（智)，é(爸)，ie（鸭)，ué（万)，γé（月），ə（德)，ə（恩)，uə（稳)，γ（额)，ε（诶)，iε（片)，γε（虐)，ae（百），uae（崴)，e（北），ue（委)，ə（奥)，ib（药)，er（二），əu（头)，iəu（优)，en（邦)，ien（阳)，uen（王），əη（彭），in（应)，uən（翁），un（冻)，yη（兄）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "笔者主要是统合了王迪（2015）韵母表与各分母韵母比较表。这份记音也基本正确。需要注意这份表格按照音值区分，比较详细，但有一些没有音位对立：如［ə]和 $[ \\mathfrak { v } ]$ 应当没有音位上的差别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4．葫芦岛市南票区方言的声调特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该方言只有阴平、阳平、上声、去声四个声调。已有材料对葫芦岛方言声调标定如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2238a2d0edabd5709abcfff450f1f1b95e6a4ed880f2f7a47dd79ff8733dfa62.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>王迪（2015)</td><td>王龙（2015）</td><td>杨春宇（2010）</td></tr><tr><td>阴平</td><td>44</td><td>44</td><td>44</td></tr><tr><td>阳平</td><td>24</td><td>24</td><td>24</td></tr><tr><td>上声</td><td>213</td><td>213</td><td>213</td></tr><tr><td>去声</td><td>52</td><td>52</td><td>52</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但具体是否如此还要根据接下来基频值的处理和计算确定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1．使用软件：Praat",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究采用Praat 软件进行音频基频提取。Praat 软件是一款由阿姆斯特丹大学的 PaulBoersma和DavidWeenink开发的免费软件，官方网址为http://www.fon.hum.uva.nl/praat/。笔者在其上获取了Windows 64-bit 版本，使用的版",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本号为VER6.0.31。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2．基频提取的算法：自相关（Autocorrelation）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基频提取的算法为自相关算法。自相关算法是信号处理中较为有效的算法。使用自相关可以找出重复模式，提取出被噪声掩盖的周期信号，识别隐含在谐波频率中的基频。这种算法相对来说抗噪性比较强，较适合本研究使用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3．平均样本数据：归一化处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "据孔江平《实验语音学基础教程》（2015p.62）因为每个单音节单字及双音节中的单字时长不同，故提取出的基频个数不同。因此需要对基频进行归一化处理，以进行数据平均。这里对时间进行归一化处理。先将基频函数插值，然后根据需要按时间等长抽取出基频数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于句子结束的次谐波除以二进行处理；对creaky voice 提不出基频的部分用基频最低值补回来。适当时候采用等差数列补充中间提不出来的基频。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "归一化脚本为本实验室编写。实现的基本原理即是归一化处理的原理，等分后逐段提取基频，以弥补时间不等的问题。归一化提取20个基频值的脚本如下，提取n个基频值时只需将脚本中的19 改为（n-1)。代码附于附录。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提取基频时，用Praat 导入待提取的音频文件，调用本脚本进行提取即可。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4．录音及处理方式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本论文的录音于 2017 年11月在辽宁省葫芦岛市南票区一名发音人的家中进行。本文选取了前述四位发音人，两男两女。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "笔者使用爱国者（aigo）R6611型录音笔进行录音，格式为wav，比特率384kbps，双声道，指向性话筒。录制时为防止喷麦不将录音麦克对着发音人嘴部。录制完成的音频转入Adobe Audition CC2015 进行切分，保存为1536kbps 的 wav 格式音频文件。接下来导入Praat 提取基频。舒声调提取 20 个点，入声调提取15个点。由于东北官话没有入声调，故均提取 20 个点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提取基频后，剔除个别难以提出或误差显然过大的数据后进行平均，使用MicrosoftExcel 2016 作折线图。对每种声调及声调组合分别平均，对每名发音人分别平均，接下来对男女发音人分别平均，最后对男女发音人的数据进行平均。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "声调刻画采用通用的半音法处理。据孔江平《实验语音学基础教程》（2015p.64-65）半音=12log2（f1/f2)，f1为声调频率上限，f2 为声调频率下限。根据十二平均律归入五度值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5．录音内容 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "录音词表分为单音节词与双音节词部分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) 单音节词表",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "阴平 (天歌波奔拼)；阳平 (刨爬排提来成羊皮)；上声 (苦跑土)；去声（病大地 tun(方言词，脱，如“tun裤子\")）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) 双音节词表",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/72c45088dea78a778c765ac048956c1e1ad714f3ba850b49b39c176c813d2872.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "录音过程中，指示发音人放松，按照平素阅读的方式阅读，每个词读两遍。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>阴平a</td><td>阳平b</td><td>上声c</td><td>去声d</td></tr><tr><td>阴平A</td><td>波涛 天天 贪官 歌厅</td><td>标题 拼盘 共同 今年 高楼</td><td>宾馆 空桶 东北 奔跑 高考</td><td>播报 大炮 开课 天地 坡道</td></tr><tr><td>阳平B</td><td>搬家 刨坑 爬坡 排班 提纲 来宾 成功</td><td>开门 旁白 羊毛 头疼 白白 人民 银行</td><td>工厂 拨打 皮卡 苹果 狗宝（方言 词，拌桔梗) 评比</td><td>仓库 淘汰 逃课 停电 陪伴 棉裤 牛肉</td></tr><tr><td>上声C</td><td>保镖 补贴 苦瓜 把关 跑偏 普通</td><td>品牌 感情 打隔 港台 厂房 好人</td><td>人影 版本 宝塔 铁桶 口感 港口 厂长</td><td>宝贝 点炮 笔袋 补课 铁道 主席</td></tr><tr><td>去声D</td><td>报班 必须 病根 坐车</td><td>不同 大棚 裤头 柜台 课堂 杏仁</td><td>凑巧 泰国（F1将 “国\"读为阳 平，该数据不 算入本类) 痛苦 课本 幸福 重点</td><td>必备 被套 部队 退步 看病 炸弹</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "四、实验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1．基频范围 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于单字调，男性平均的基频取点最小在 $9 7 . 8 6 7 5 \\mathrm { H z }$ ，最大在184.5417Hz；女性平均基",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "频取点最小在132.7695Hz，最大在 269.3882Hz。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在双音节词中，男性平均的基频取点最小在107.7256Hz，最大在 216.9484Hz；女性平均基频取点最小在91.39212Hz，最大在 254.6755Hz。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此在本次实验中，男性的基频范围为 97.8675-216.9484Hz；女性的基频范围为97.39212-269.3882Hz。女性基频范围比男性广，虽然低频接近，但高频比男性更高一些，之后的分析会揭示其分布的区别。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2．单字调基频特征 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用半音法处理数据。公式如前文所述。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于男性，半音 $= 1 2 * 1 \\mathrm { o g 2 }$ （216.9484/97.8675）=13.7814。每一度是13.7814/5。对所有数据 $\\mathrm { ~ x ~ }$ 进行处理：x’ $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (12\\*log2(x/97.8675)）/(13.7814/5)，结果即是该基频在五度标调法中的位置。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作折线图如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "男性单字调调值",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/14f25459a47c85302ca9e5f6ad7562bed118bdab53a8caca6b4467785d2a8872.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，可以试对男性的单字调调值进行刻画。阴平33（32)，阳平13，上声 212，去声552。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相似的，对于女性，半音 $= 1 2 * 1 \\mathrm { o g 2 ( 2 6 9 . 3 8 8 2 / 9 7 . 3 9 2 1 2 ) = 1 7 . 6 1 3 7 } .$ 。每一度是17.6137/5。对所有数据 $\\mathrm { ~ x ~ }$ 进行处理： $\\mathrm { ~ x ~ } ^ { \\prime } = \\left( 1 2 * 1 \\mathrm { o g } 2 \\left( \\mathrm { x } / 9 7 . 3 9 2 1 2 \\right) \\right) / \\left( 1 7 . 6 1 3 7 / 5 \\right)$ ，结果即是该基频在五度标调法中的位置。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作折线图如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "女性单字调调值",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fc63dda41bfd56ef146f3297d8676684245a288352d565f08f8f7e53523fc1e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因此，可以试对女性的单字调调值进行刻画。阴平44（43)，阳平34，上声323，去声552。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将男女基频数据平均，得到下表（单位：赫兹）：",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/40afc5d5d26a4f2084f18a390d5aa60cdd341cfc6dda4019dafb6c0fdcb43b3a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阴平</td><td>阳平</td><td>上声</td><td>去声</td></tr><tr><td>169.9665</td><td>135.685</td><td>145.4408</td><td>226.965</td></tr><tr><td>167.8696</td><td>134.2426</td><td>138.4371</td><td>222.5767</td></tr><tr><td>167.3032</td><td>133.3833</td><td>129.8864</td><td>221.139</td></tr><tr><td>166.7779</td><td>132.8328</td><td>122.595</td><td>221. 6392</td></tr><tr><td>166.0615</td><td>132.8653</td><td>118.0624</td><td>221. 1447</td></tr><tr><td>165.3628</td><td>133.5689</td><td>115.9337</td><td>219.6014</td></tr><tr><td>164.431</td><td>135.1281</td><td>115.7067</td><td>216.3626</td></tr><tr><td>163.8851</td><td>137.1824</td><td>116.2635</td><td>210.6466</td></tr><tr><td>163.8046</td><td>140.5381</td><td>118.3827</td><td>203.1979</td></tr><tr><td>163.8008</td><td>144.4528</td><td>120.2149</td><td>192.4078</td></tr><tr><td>163.325</td><td>148.3083</td><td>122.5287</td><td>184.3325</td></tr><tr><td>163.1016</td><td>152.5107</td><td>124.9652</td><td>173.6605</td></tr><tr><td>162.4836</td><td>156.941</td><td>129.5326</td><td>165.5258</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5765eadfe83025534092181a5242ee5fa10179cd576cb7d4aedd3ac4e4108d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>161.6136</td><td>161. 7127</td><td>132.0949</td><td>157.2358</td></tr><tr><td>161.0161</td><td>166.012</td><td>136.7243</td><td>151.9291</td></tr><tr><td>159.8766</td><td>169.8779</td><td>139.2705</td><td>147.4334</td></tr><tr><td>158.5098</td><td>173. 7242</td><td>142.0578</td><td>142.7796</td></tr><tr><td>156.7157</td><td>176.7569</td><td>144.2699</td><td>136.8053</td></tr><tr><td>154.9283</td><td>178.4018</td><td>145.2737</td><td>132.6007</td></tr><tr><td>152.8368</td><td>179.4608</td><td>144.457</td><td>130.0215</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "进行相似的半音处理。结合双音节变调阶段数据，最高为235.8119Hz，最低为100.8849Hz。半 $\\frac { 3 ^ { 2 } } { 5 } = 1 2 * 1 \\mathrm { o g } 2 \\ ( 2 3 5 . 8 1 1 9 / 1 0 0 . 8 8 4 9 ) = 1 4 . 6 9 9 1$ 。每一度是14.6991/5。对所有数据x进行处理： $\\mathrm { ~ x ~ } ^ { \\prime } = \\left( 1 2 * 1 \\mathrm { o g } 2 \\left( \\mathrm { x } / 1 0 0 . 8 8 4 9 \\right) \\right) / \\left( 1 4 . 6 9 9 1 / 5 \\right)$ ，结果即是该基频在五度标调法中的位置。处理后数值如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/7975eae2edda7f519fe8f55f762f82243cf32519102e4d15d7bc096c637892d5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阴平</td><td>阳平</td><td>上声</td><td>去声</td></tr><tr><td>3.071782</td><td>1. 745212</td><td>2.1541</td><td>4. 77482</td></tr><tr><td>2.998677</td><td>1. 682277</td><td>1.863462</td><td>4.659846</td></tr><tr><td>2.978775</td><td>1. 644459</td><td>1. 488012</td><td>4.621683</td></tr><tr><td>2.960253</td><td>1.620105</td><td>1. 147783</td><td>4.63499</td></tr><tr><td>2.934905</td><td>1. 621545</td><td>0.925932</td><td>4.621835</td></tr><tr><td>2.910073</td><td>1. 652646</td><td>0.818782</td><td>4. 580594</td></tr><tr><td>2.876798</td><td>1. 720991</td><td>0.807241</td><td>4.493095</td></tr><tr><td>2.857212</td><td>1. 809846</td><td>0.83551</td><td>4.335425</td></tr><tr><td>2.854319</td><td>1. 952165</td><td>0.941888</td><td>4.123415</td></tr><tr><td>2. 854184</td><td>2.113956</td><td>1. 032331</td><td>3.802098</td></tr><tr><td>2.837054</td><td>2.269073</td><td>1. 144597</td><td>3.549605</td></tr><tr><td>2.828993</td><td>2.433618</td><td>1. 26055</td><td>3.198398</td></tr><tr><td>2.806638</td><td>2.602249</td><td>1. 471946</td><td>2. 915877</td></tr><tr><td>2. 775019</td><td>2. 778631</td><td>1. 5873</td><td>2.6133</td></tr><tr><td>2.753207</td><td>2.933148</td><td>1. 790149</td><td>2.41112</td></tr><tr><td>2. 711383</td><td>3.06871</td><td>1. 898808</td><td>2.23423</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6f98b75665a8679a674fec74ed0a73844e5d4560f9637af8d87102cd65cf836.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>2.660823</td><td>3.200558</td><td>2.015504</td><td>2.045348</td></tr><tr><td>2.593789</td><td>3.302473</td><td>2.106497</td><td>1. 793634</td></tr><tr><td>2.52624</td><td>3.357023</td><td>2. 147327</td><td>1.609804</td></tr><tr><td>2.446199</td><td>3.391876</td><td>2.114129</td><td>1. 494133</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作折线图如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "平均单字调调值",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/595d53dc267168cebc848a00d85d60b2a57a4f668261c92430f62921722ab887.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对比男女调值，列表如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/6df1bc89257fab6e845c0842b37f99dd7a11b67e2f6ec80d8bac716a8876b167.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>阴平</td><td>阳平</td><td>上声</td><td>去声</td></tr><tr><td>男性</td><td>33 (32)</td><td>13</td><td>212</td><td>552</td></tr><tr><td>女性</td><td>44 (43)</td><td>34</td><td>323</td><td>552</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "女性比男性稍微高一些。但如果仅算单字调提的基频值，男女的调值差不多。女性在双音节调中在一些情况产生的基频值比较低，使得相对而言女性的调值被拉高。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "男女平均调值可定为：阴平33（32)，阳平23，上声212，去声552。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.双音节变调基频特征 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对得到的基频数据进行男女分别平均，并进行男女平均。进行相似的半音处理。因为男女分别平均的结果并无显著区别，因此这里只列出男女平均后的结果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "得到男女平均后双音节变调的折线图：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1) 阴平+X ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4efcc4bfb9f047b025fd8759838c2e65ca35d848a2ec759e9faa1471e67c2d1.jpg",
+        "img_caption": [
+            "(2) 阳平 $+ \\tt X$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/23e63cc332e4abaa7310dc088367c0bb7244b0e307129cabc37d1908a0f5c198.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3) 上声 $+ \\tt X$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "平均上声 $+ x$ ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4a273631ec5ee29ae915b50dd8c09366a98b5b4b73b1580a34406ccbeae0f0a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4) 去声 $+ \\tt X$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "平均去声 $+ x$ ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa1e6ca2e01b1868681e440e806f41b1120b78f860e0d72d7061fba27dcabcbe.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "因此可以总结双音节变调：",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccf0e8491410e6084201bab421d314491635db3d85b3dd6ad330034be70c3488.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>+阴平33/32</td><td>+阳平23</td><td>+上声212</td><td>+去声 552</td></tr><tr><td>阴平33/32+</td><td>33+32</td><td>33+323</td><td>33+31</td><td>33+453</td></tr><tr><td>阳平23+</td><td>23+32</td><td>23+323</td><td>23+32</td><td>23+553</td></tr><tr><td>上声212+</td><td>211+33</td><td>211+13</td><td>23+31</td><td>211+553</td></tr><tr><td>去声 552+</td><td>43+33</td><td>53+13</td><td>53+21</td><td>43+453</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "阴平作前字时只有一种变体33；作后字时可看作只有一种变体， $3 3 / 3 2$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "阳平作前字时只有一种变体 23；作后字时有两种变体：当前字为阴平或阳平时为323,前字为上声或去声时为13。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "上声作前字时有两种变体：当前字也为上声时，变为23，其余情况为211；上声作后字时可看做有两种变体，当前字为去声时，为21，其余情况为31/32。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "去声作前字时只有一种变体43/53；作后字时有两种变体：当前字为阴平或去声时为 453,当前字为阳平或上声时为553。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "五、数据分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "接下来，笔者用“高”（4、5）、“中”（2、3、4）、“低”（1、2）来描写声调的相对调型。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/611d4569950dc7376a98dad94037e922cfd88eb82b6c9600dc7c2547b72cea95.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>+阴平（中中/中 低）</td><td>+阳平(低中）</td><td>+上声（中低中）</td><td>+去声（高高低）</td></tr><tr><td>阴平（中中/中 低）+</td><td>中中+中低</td><td>中中+中低中</td><td>中中+中低</td><td>中中+中高低</td></tr><tr><td>阳平（低中）+</td><td>低中+中低</td><td>低中+中低中</td><td>低中+中低</td><td>低中+高高低</td></tr><tr><td>上声（中低中）</td><td>中低低+中中</td><td>中低低+低中</td><td>中高+高低</td><td>中低低+高高中</td></tr><tr><td>去声（高高低）</td><td>高中+中中</td><td>高中+低中</td><td>高中+中低</td><td>高中+中高低</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1．声调特点 (1) 阴平 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "阴平作为前字时有时维持平调，有时如单字调发音一样，难以维持，呈现略微的降调趋势。作为后字时，阴平有时也维持平调，有时也呈现略微的下降趋势。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) 阳平",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "阳平作为前字时基本维持原调。作为后字时，当前字为阴平或阳平时，由于前字收尾较高，后字呈现降升的屈折调，当前字为上声或去声时，由于前字收尾较低，后字初始基频要比单字调相对低一些。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(3) 上声",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "上声作为前字几乎都升不到单字调的位置，在后字为阴平、阳平、去声时，前字均为降调。作为后字时，均呈降调，当前字为去声时，由于前字收尾较低，后字初始基频也相对略低一些。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "当前后字均为上声时，出现上声连读变调现象。前字升调，后字降调，尾部可能有微弱的回升。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(4) 去声 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "去声作为前字时，虽然也是先有一段平调的降调，但普遍没有下降到单字调的调值。作为后字时也没有下降到单字调那么低，当前字为阴平或去声时，后字初始先略有升高，呈现先升后降的屈折调。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2．双音节调位组合情况 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "存在双音节调位合并现象，实际的双音节调位组合可以看作14种。在16 种单字调组合中，阳平 $^ +$ 阴平、阳平 $^ +$ 上声、上声 $+$ 上声均可看作 $2 3 \\substack { + 3 2 / 3 1 }$ 。当然，上声作为后字时有时尾部也有微弱上升，这也是不容忽略的。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "附录：提取基频Praat代码 # BEGIN OF SCRIPT# ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "# Getting the interval from the user:   \n#form Formant listing by a customized interval value.. #comment Supply the interval for listing:   \n#positive Interval(sec） 0.00625   \n#endform   \n# Initializing loop variables:   \nbegin_from=Get begin of selection   \nend_by $\\mathbf { \\bar { \\rho } } =$ Get end of selection   \ntime=begin_from   \nt $\\ : = \\ :$ time-begin_from   \nduration $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ end_by-begin_from   \n#duration $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ Get selection length   \ninterval $\\ c =$ duration/19.00000001   \n# Printing the table header:   \necho pitch listing   \nprintline   \n# Listing by the specific interval:   \nwhile time $\\langle =$ end_by ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Move cursor to...'time’ pitch $\\scriptstyle { \\frac { } { . } } = { \\boldsymbol { \\mathsf { I } } }$ Getpitch t $=$ time-begin_from printline'pitch:2' time $\\ L =$ time+interval endwhile durationf $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ duration\\*1000 printline 'durationf:2' # Recover the selection as ever: Select...'begin_from''end_by # END OF SCRIPT # ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "宋学．1963．辽宁语音说略．中国语文，no．2：104-114.贺巍．1986．东北官话的分区（稿）．方言，no．3：172-181.张志敏．2005．东北官话的分区（稿）．方言，no．2：141-148张世方．2009．东北方言知系声母的演变．汉语学报，no．1：15-22.杨春宇．2010．辽宁方言语音研究．辽宁师范大学学报（社会科学版），no．5：93－99.温娇娇．2012．锦州方言语音研究．辽宁师范大学博士学位论文.陈晓娇．2014．辽西方言的共时考察和历时分析．渤海大学硕士学位论文.孔江平．2015．实验语音学基础教程．北京：北京大学出版社.王迪．2015．葫芦岛市区方音研究．辽宁师范大学硕士学位论文.王龙．2015．绥中方言语音研究．辽宁师范大学硕士学位论文.葫芦岛市地方志工作办公室．“总述”葫芦岛地方志网.http://www.hld.gov.cn/hldgk/difangzhi/hldgk/201703/t20170327_614486.html(accessed January 6， 2018).",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Paul Boersma， David Weenink. “Praat: doing phonetics by computer” praat.org. http://www.fon.hum.uva.nl/praat/ (accessed January 6, 2018) ",
+        "page_idx": 14
+    }
+]

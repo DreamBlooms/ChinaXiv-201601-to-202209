@@ -1,0 +1,820 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进弦截法的FastICA算法研究\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张启坤」，刘宏哲‘，袁家政²，龚灵杰1(1．北京联合大学 北京市信息服务工程重点实验室，北京 100101;2．北京开放大学，北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：盲源分离问题是信号处理领域中的研究热点之一。众多盲源分离算法中固定点算法（FastICA）因其收敛速度快而备受关注，但是FastICA算法的收敛性易受初始解混矩阵的初值选择影响。针对FastICA算法的不足进行了改进，引入梯度下降法降低初值选择敏感性，并且提出改进弦截法，加快收敛速度。实验结果显示，基于改进弦截法的FastICA算法与其他FastICA算法相比，不但提高了算法的分离性能，而且减少了迭代次数，增强了收敛稳定性。所以，改进的FastICA算法克服了初值选择敏感的影响，获得更快速、更鲁棒的语音分离性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：盲源分离；固定点算法；梯度下降法；改进弦截法；语音分离 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2017.08.0865 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on FastICA algorithm based on improved secant method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Qikun1,Liu Hongzhel, Yuan Jiazheng²,Gong Lingjiel (1.Beijing KeyLaboratoryofIformationSeviceEngineering,BeijingUnion UnversityBeijingoo,China;2.Beiing Open University, Beijing l00081, China ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Blind source separation problem(BSS)isoneof thehotresearch inthefieldofsignal processng.In manydiferent algorithms for sloving BS,fixed point algorithm (FastICA)is famous forfastconvergencerate.However,itsconvergence performance iseasytoafectedbyinitialvalueselectionoftheinitialdemixingmatrix.Aimingattheshortcomingsof it,this paper introducedthe gradient descent method toreduce initial valuesensitivity,and put forwardthe improvedsecantmethodto accelerate theconvergene speed.Theexperimentalresultsshowthatthe improvedalgorithmcompared withtheotherFastICA algorithm,notonlyimprovestheseparationperformance,butalsoreduces thenumberofiterationsandenhances theconvergence stability.Therefore,theimprovedalgorithmovercomesthesensitive influenceofinitialvalueselection,andachievesfastend more robust speech separation performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BSS; FastICA; gradient descent; improved secant method; speech separation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盲源分离(BBS)一直是信号处理领域中研究的关键问题，BBS主要任务是从多个信号混合形成的观测信号中分离出各个不同的源信号,独立成分分析（ICA）可以有效的解决这一问题[]。ICA 是基于数据统计的信号处理方法，它能够提取出隐藏在随机信号中具有非高斯分布和独立特性的信号成分。ICA在众多领域中都取得了良好的应用效果，如信号分离、数字图像处理、数据分析等方面[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在 20 世纪80 年代早期，Jutten Christian 等人在一个神经生理学交流会议上首次提出了ICA技术原型，成功分离出了两个混合信号[3]。后来许多改进的ICA算法相继被提出，如InfomaxICA[4]，JADE[5]，SOBI[6]，FastICA[7\\~9]等。其中1997年Hyvarinen等人提出的固定点算法（Fast pointedICA，FastICA），相比其他ICA改进算法来说，收敛速度更快，鲁棒性更好[7]。FastICA算法是基于牛顿迭代法来实现混合信号中隐藏的独立成分非高斯性最大化的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FastICA算法被提出以后有很多学者对其进行研究与改进。有部分学者针对FastICA算法的收敛速度和计算量进行优化。2013年Tahir等人[10]提出采用八阶收敛的牛顿法来对FastICA算法进行优化，很大程度上提高算法的收敛速度；2017年He等人[I提出EFICA 算法，用两种新的有理数多项式取代原来的非线性的逼近函数，提高了分离性能，加快了收敛速度，但是由于核心迭代公式仍是牛顿迭代法，所以算法的初值敏感性并没有改善。另外，还有部分学者针对FastICA算法的收敛性对初始解混矩阵的初值选择比较敏感这一问题进行改进。2013年James等人[12]提出一种梯度迭代的ICA算法，使初值矩阵更快的收敛，在高斯噪声下取得更好的稳定性；2014年季策等人[13]引入超松弛因子对初值矩阵进行处理，保证收敛速度的前提下，避免了因初值选择不当导致的收敛不均衡现象；2015年郭伟等人[14]引入牛顿下山法，改善了初值敏感性问题，取得了更稳定的语音分离效果;2016年Ge等人[15]提出 SparseFastICA算法，将源信号的稀疏性作为FastICA算法的约束，在磁共振成像(fMRI)中取得了更好的鲁棒性，但是由于SparseFastICA算法先使用FastICA计算分离矩阵，再通过计算的源信号的稀疏性对分解矩阵进行约束，导致分离效率不足。经过20多年的发展，许多改进的FastICA算法被提出，但是并没有哪一个算法既能提高收敛速度又能够克服初值敏感性问题。所以本文尝试找到一种既能够更好的降低初值敏感性的影响又能够加快收敛速度的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 FastICA算法概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FastICA通过迭代不断对解混矩阵进行调整直至达到局部最优，它是一种快速寻找最优解混矩阵的迭代算法[7]。FastICA算法主要包括两部分，数据预处理和独立成分提取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据预处理通常包括中心化处理和白化处理。中心化处理是从观测向量 $x$ 中减去信号的平均值，使得观测向量成为零均值向量，也称为中心化数据，中心化主要是为了对混合信号进行简化，同时降低噪声的影响。白化处理主要是对观测信号的零均值向量的协方差矩阵进行特征值分解，得到中心化数据的白化向量。白化是为了去除中心化数据的相关性，同时进行降维处理，减少计算量，一般用主成分分析（PCA）进行白化处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2独立成分提取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的是基于负熵极大化的FastICA算法，算法是以负熵作为独立成分的非高斯性的近似度量，完成对观测信号的估计。负熵函数如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ( y ) \\approx \\rho [ \\mathrm { E } \\{ G ( y ) - \\mathrm { E } \\{ G ( \\nu ) \\} \\} ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $J ( . )$ 表示随机变量的负熵， $y$ 是具有零均值和单位方差的随机变量， $\\rho$ 表示一个常系数，E{.}表示对数据求均值， $\\nu$ 是具有零均值和单位方差的标准化的高斯随机变量。为了得到更为鲁棒的估计，通常函数 $G ( . )$ 选取随自变量增长函数值增长不是太快的函数，被证明非常有用的函数有[1]:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 1 } ( y ) = \\frac { 1 } { a _ { 1 } } \\mathrm { l o g } \\cosh ( a _ { 1 } y )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 2 } ( y ) = - \\frac { 1 } { a _ { 2 } } \\exp ( - \\frac { a _ { 2 } y ^ { 2 } } { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { 3 } ( y ) = \\frac { 1 } { 4 } y ^ { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常 $ { \\boldsymbol { a } } _ { 1 } \\in [ 1 , 2 ]$ ， $a _ { 2 } \\approx 1$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FastICA算法可以简单理解为找到一个方向，即一个单位向量 $w$ ，使得隐藏在混合信号中的独立成分的投影 ${ \\boldsymbol { w } } ^ { \\mathrm { T } } { \\boldsymbol { z } }$ 的非高斯性达到最大值的迭代算法。 ${ \\boldsymbol { w } } ^ { \\mathrm { T } } { \\boldsymbol { z } }$ 的近似负熵的极大值通常在$\\operatorname { E } \\{ \\mathbf { G } ( \\pmb { w } ^ { \\mathrm { T } } z ) \\}$ 的极值点处取得。根据拉格朗日条件， $\\operatorname { E } \\{ \\mathbf { G } ( \\pmb { w } ^ { \\mathrm { T } } z ) \\}$ 在$\\operatorname { E } \\{ ( \\pmb { w } ^ { \\mathrm { T } } z ) ^ { 2 } \\} = \\left\\| \\pmb { w } \\right\\| ^ { 2 } = 1$ 条件下的极值，是在拉格朗日函数的梯度为零的点处取得。所以求负熵 $J _ { \\mathrm { G } } ( \\pmb { \\nu } )$ 最大值问题可以转换为求$\\mathbb { E } \\{ \\mathbf { G } ( { \\pmb w } ^ { \\mathrm { T } } z ) \\}$ 的极大值问题， $J _ { \\mathrm { G } } ( \\pmb { \\nu } )$ 近似表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { \\mathrm { G } } ( \\pmb { w } ) = \\mathrm { E } \\{ G ( \\pmb { w } ^ { \\mathrm { T } } z ) \\} + \\beta ( \\left\\| \\pmb { w } \\right\\| ^ { 2 } - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\beta$ 是拉格朗日乘子。对上式两边求偏导，令偏导等于零求极值点，可得目标函数 $F ( w )$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( \\pmb { w } ) = \\mathrm { E } \\{ z \\ \\mathrm { g } ( \\pmb { w } ^ { \\mathrm { T } } z ) \\} + \\beta \\pmb { w }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $g ( . ) = { \\cal G } ( . ) ^ { ' }$ 。用牛顿法求解方程式（6），寻找目标函数的极值点，牛顿迭代法如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n + 1 } = x _ { n } - { \\frac { f ( x _ { n } ) } { f ^ { ' } ( x _ { n } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以就得到了核心的迭代算法：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { w } _ { n + 1 } = \\pmb { w } _ { n } - \\frac { \\mathrm { E } \\{ z g ( \\pmb { w } _ { n } ^ { \\mathrm { T } } \\pmb { z } ) \\} + \\beta \\pmb { w } _ { n } } { \\mathrm { E } \\{ g ^ { ' } ( \\pmb { w } _ { n } ^ { \\mathrm { T } } \\pmb { z } ) \\} + \\beta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $g ^ { ' } ( . )$ 是 $g ( . )$ 的导数， $\\scriptstyle { \\{ \\beta = \\mathrm { E } \\{ w _ { n } ^ { \\mathrm { T } } z \\mathrm { g } ( w _ { n } ^ { \\mathrm { T } } z ) \\} } $ ，对 $\\boldsymbol w _ { n + 1 }$ 进行归一化处理，提高迭代值的稳定性。简化后就得到基于负熵的FastICA算法的基本迭代公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\pmb { w } _ { n + 1 } = \\mathrm { E } \\{ z g ( \\pmb { w } _ { n } ^ { \\mathrm { T } } z ) \\} - \\mathrm { E } \\{ g ^ { ' } ( \\pmb { w } _ { n } ^ { \\mathrm { T } } z ) \\} \\pmb { w } _ { n } } \\\\ { \\pmb { w } _ { n + 1 } = \\pmb { w } _ { n + 1 } \\Big / \\Big \\| \\pmb { w } _ { n + 1 } \\Big \\| } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "得到最佳解混矩阵 ${ \\pmb w }$ ，经过 $\\pmb { Y } = \\pmb { w x }$ ，使得分离矩阵$\\pmb { Y } = [ y _ { 1 } , . . . , y _ { n } ] ^ { \\mathrm { T } }$ 中对任何 $i \\neq j$ ，分离信号 $y _ { i }$ 和 $y _ { j }$ 不相关，而且分离信号 $y _ { i }$ 能够尽可能地逼近源信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由FastICA原理可知，算法依赖于初始解混矩阵的选择和迭代公式的计算，所以存在以下两个问题[7,20]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）初值敏感性问题，FastICA算法随机选取初始解混矩阵${ \\pmb w } _ { 0 }$ 时，只有 ${ \\pmb w } _ { 0 }$ 靠近收敛极值 $w$ 时才能保证更好的收敛，所以初值选取会影响FastICA的收敛稳定性；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）迭代过程计算量大的问题，每步迭代都要计算 $g ( \\pmb { w } _ { n } ^ { \\mathrm { T } } z )$ 和$g ^ { ' } ( { \\pmb w } _ { n } ^ { \\mathrm { T } } z )$ ，不论是基于目标函数的求导运算，还是雅可比矩阵$\\mathbb { E } \\{ g ^ { ' } ( { \\pmb w } ^ { \\mathrm { T } } z ) \\} + \\beta$ 运算，都使得整个迭代过程的计算量非常大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进弦截法原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了减少迭代过程中的计算量，加快迭代速度，提出一种基于改进弦截法的迭代方法，避免牛顿迭代法的求导运算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 弦截法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "弦截法又叫差商法，它是在牛顿迭代法的基础上进行的改进，用函数 $f ( x )$ 曲线上两点 $( x _ { n } , f ( x _ { n } ) )$ 和 $( x _ { n - 1 } , f ( x _ { n - 1 } ) )$ 构成的弦的斜率近似的代替 $f ( x )$ 在点 $( x _ { n } , f ( x _ { n } ) )$ 处的切线斜率[16]，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ { ' } ( x _ { n } ) \\approx { \\frac { f ( x _ { n } ) - f ( x _ { n - 1 } ) } { x _ { n } - x _ { n - 1 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由牛顿迭代法式（1-7）和式（2-1）可推导出迭代公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n + 1 } = x _ { n } - { \\frac { f ( x _ { n } ) ( x _ { n } - x _ { n - 1 } ) } { f ( x _ { n } ) - f ( x _ { n - 1 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这就是弦截法的迭代公式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进弦截法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在文献[17]中对比了几种不同迭代方法，其中弦截法的收敛阶数为1.618，虽然略低于牛顿迭代法的二阶收敛阶数，迭代速度稍显不足，但是避免了牛顿迭代法每次迭代都要求导的耗时计算。为了克服弦截法收敛阶数不足、迭代速度略慢的缺点，本文提出改进弦截法。这样既能加快迭代速度，又能减少每次迭代过程中的计算量。改进弦截法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { \\overline { { x } } } _ { n + 1 } = x _ { n } - { \\frac { \\left( x _ { n } - x _ { n - 1 } \\right) f ( x _ { n } ) } { f ( x _ { n } ) - f ( x _ { n - 1 } ) } } } \\\\ { x _ { n + 1 } = x _ { n } - { \\frac { \\left( { \\overline { { x } } } _ { n + 1 } - x _ { n } \\right) f ( x _ { n } ) } { f ( { \\overline { { x } } } _ { n + 1 } ) - f ( x _ { n } ) } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 改进弦截法的收敛阶数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考一阶弦截法的收敛阶数的证明[17\\~19]，证明改进弦截法的收敛阶数为2.414，证明过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "弦截法是牛顿迭代法的变形，根据牛顿法的定义，已知方程 $f ( x ) = 0$ 有实根，设迭代序列 $\\left\\{ x _ { n } \\right\\}$ 收敛于方程的根 $x ^ { * }$ ， $x _ { n }$ 为每次迭代的值，令 $e _ { n } = x _ { n } - x ^ { * }$ 表示第 $n$ 次迭代的误差，存在实常数（204号 $p \\geq 1$ 及 $k \\neq 0$ 使得 $\\operatorname* { l i m } _ { n \\to \\infty } { \\frac { e _ { n + 1 } } { e _ { n } ^ { p } } } = k$ ，则称迭代序列 $\\left\\{ x _ { n } \\right\\}$ 是 $p$ 阶收敛。累积误差为 $e _ { n + 1 } = k e _ { n } ^ { \\textit { p } }$ ，其中 $p$ 为收敛阶数。由式（12）的第一个分式得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { x } } _ { n + 1 } = { \\frac { f ( x _ { n } ) x _ { n - 1 } - f ( x _ { n - 1 } ) x _ { n } } { f ( x _ { n } ) - f ( x _ { n - 1 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合迭代误差 $e _ { n } = x _ { n } - x ^ { * }$ 和 $e _ { n - 1 } = x _ { n - 1 } - x ^ { * }$ 可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\overline { { e } } } _ { n + 1 } = { \\frac { f ( x _ { n } ) e _ { n - 1 } - f ( x _ { n - 1 } ) e _ { n } } { f ( x _ { n } ) - f ( x _ { n - 1 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据拉格朗日中值定理可知，在 $x _ { n }$ 与 $x ^ { * }$ 之间存在 $\\textstyle x = \\xi _ { n }$ 使得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ { ' } ( \\xi _ { n } ) = { \\frac { f ( x _ { n } ) - f ( x ^ { * } ) } { x _ { n } - x ^ { * } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以有如下变形公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x _ { n } ) = e _ { n } f ^ { ^ { \\prime } } ( \\xi _ { n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近似地有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x _ { n - 1 } ) = e _ { n - 1 } f ^ { ^ { \\prime } } ( \\xi _ { n - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "把式（16）（17）代入式（15）可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { e } } _ { n + 1 } = \\frac { e _ { n } f ^ { ' } ( \\xi _ { n } ) e _ { n - 1 } - e _ { n - 1 } f ^ { ' } ( \\xi _ { n - 1 } ) e _ { n } } { f ( x _ { n } ) - f ( x _ { n - 1 } ) } = e _ { n } e _ { n - 1 } \\frac { f ^ { ' } ( \\xi _ { n } ) - f ^ { ' } ( \\xi _ { n - 1 } ) } { f ( x _ { n } ) - f ( x _ { n - 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "简化公式可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { e } } } _ { n + 1 } = \\overline { { { k } } } e _ { n } e _ { n - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { k } }$ 为不等于零的实数，由定义知 $e _ { n + 1 } = k e _ { n } ^ { \\textit { p } }$ ，根据这两个公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { e } } } _ { n + 1 } = k { e _ { n } } ^ { p } = \\overline { { k } } e _ { n } e _ { n - 1 } = \\overline { { k } } e _ { n } ( \\frac { e _ { n } } { k } ) ^ { \\frac { 1 } { p } } = \\overline { { k } } k ^ { \\frac { 1 } { p } } e _ { n } ^ { 1 + \\frac { 1 } { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以有如下等式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = 1 + { \\frac { 1 } { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为 $p \\geq 1$ ，所以 $\\scriptstyle p = ( 1 + { \\sqrt { 5 } } ) / 2 \\approx 1 . 6 1 8$ ，这就是弦截法的收敛阶数。由式（12）的第二个分式可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { n + 1 } = { \\frac { f ( { \\overline { { x } } } _ { n + 1 } ) e _ { n } - f ( x _ { n } ) { \\overline { { e } } } _ { n + 1 } } { f ( { \\overline { { x } } } _ { n + 1 } ) - f ( x _ { n } ) } } = { \\overline { { e } } } _ { n + 1 } e _ { n } { \\frac { f ^ { ' } ( { \\overline { { \\zeta } } } _ { n + 1 } ) - f ^ { ' } ( \\zeta _ { n } ) } { f ( { \\overline { { x } } } _ { n + 1 } ) - f ( x _ { n } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以可以近似地表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { n + 1 } = k ^ { * } { \\overline { { e } } } _ { n + 1 } e _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { k } ^ { * }$ 为非零实数，根据式（20）可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { n + 1 } = k ^ { * } ( \\overline { { k } } e _ { n } e _ { n - 1 } ) e _ { n } = k ^ { * } \\overline { { k } } e _ { n } { } ^ { 2 } e _ { n - 1 } = k ^ { * } \\overline { { k } } e _ { n } { } ^ { 2 } ( \\frac { e _ { n } } { k } ) ^ { \\frac { 1 } { p } } = C e _ { n } { } ^ { 2 + \\frac { 1 } { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $c$ 为非零实数，由定义知 $\\boldsymbol { e } _ { n + 1 } = \\boldsymbol { k } \\boldsymbol { e } _ { n } ^ { \\textit { p } }$ ，根据这两个公式得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = 2 + { \\frac { 1 } { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以 $p = 1 + \\sqrt { 2 } \\approx 2 . 4 1 4$ ，改进弦截法至少具有2.414阶收敛，收敛阶数明显大于牛顿法的二阶收敛阶数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 基于改进弦截法的FastICA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1优化初始解混矩阵 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了使初始解混矩阵尽快收敛，减小初值敏感性的影响，参考梯度法[12.21]，引入梯度下降法来对初值矩阵进行优化。梯度下降法又称最速下降法，通常求 $f ( x )$ 的极小值点 $x ^ { * }$ ，一般从$x _ { 0 }$ 出发，找到一个方向 $p ( x )$ ，令 $x _ { n + 1 } = x _ { n } + \\lambda p ( x )$ ，其中 $\\lambda$ 为迭代步长，也就是修正参数，得到梯度下降法的目标函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x _ { n + 1 } ) = \\operatorname* { m i n } { f ( x _ { n } + \\lambda p ( x _ { n } ) ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合FastICA算法式（6）可知：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( \\pmb { w } ) = \\mathrm { E } \\{ z \\ \\mathbf { g } ( \\pmb { w } ^ { \\mathrm { T } } z ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每次迭代的修正参数可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\lambda = - \\left[ \\begin{array} { c c c } { \\frac { \\partial \\mathbb { E } \\{ z \\textrm { g } ( w ^ { \\top } z ) \\} } { \\partial w _ { 1 } } } & { 0 } & { \\hdots } \\\\ { 0 } & { \\ddots } & { 0 } \\\\ { 0 } & { \\ddots } & { 0 } \\\\ { \\vdots } & { 0 } & { \\frac { \\partial \\mathbb { E } \\{ z \\textrm { g } ( w ^ { \\top } z ) \\} } { \\partial w _ { n } } } \\end{array} \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以可得 $w$ 的迭代公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n { \\boldsymbol { w } } _ { n + 1 } =  { \\boldsymbol { w } } _ { n } + \\lambda p (  { \\boldsymbol { w } } _ { n } ) =  { \\boldsymbol { w } } _ { n } + \\lambda  { \\mathrm { E } } \\{ z  { \\mathrm { g } } (  { \\boldsymbol { w } } _ { n } ^ { \\mathrm { ~ T ~ } } z ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以优化初值矩阵的算法步骤为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）随机选择初始解混矩阵 ${ \\pmb w }$ ;  \nb）计算 $\\operatorname { E } \\{ z \\mathbf { g } ( \\pmb { w } _ { n } ^ { \\mathrm { ~ T ~ } } z )$ 在 ${ \\pmb w } _ { i }$ 出的负梯度值，计算 $\\lambda$ ：c）更新 $\\begin{array} { r l } { \\pmb { w } : } & { { } \\pmb { w } _ { n + 1 } = \\pmb { w } _ { n } + \\lambda \\mathbb { E } \\{ z \\operatorname { g } ( \\pmb { w } _ { n } ^ { \\mathrm { ~ \\tiny ~ T ~ } } z ) \\} } \\end{array}$   \nd）如果 ${ \\pmb w }$ 收敛，即 $\\left| w _ { n + 1 } - w _ { n } \\right| < \\mathfrak { E }$ ，独立成分属于",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据正态分布 $_ { 3 - \\sigma }$ 原则取 $\\mathfrak { E } = 0 . 0 0 1 3 5$ ，则 $\\boldsymbol w _ { n + 1 }$ 即为局部最优的初始值，停止迭代。否则，返回步骤c）继续迭代。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过梯度下降法降低初值选择的敏感性，对随机初始矩阵进行修正，能很好的改善FastICA的初值敏感性问题。另外，梯度下降法的初期迭代速度很快，能加快FastICA算法的收敛速度，增强了算法收敛的稳定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2基于弦截法的FastICA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了减少FastICA 算法计算量，文献[22]提出一种基于牛",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "顿修正法的FastICA算法，很大程度上减少了迭代过程中的计算量，这给笔者带来了启发。结合目标函数式（6）和弦截法式（11），可以得到的关于解混矩阵 $w$ 的迭代形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { w } _ { n + 1 } = \\pmb { w } _ { n } - \\frac { F ( \\pmb { w } _ { n } ) ( \\pmb { w } _ { n } - \\pmb { w } _ { n - 1 } ) } { F ( \\pmb { w } _ { n } ) - F ( \\pmb { w } _ { n - 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以得到基于弦截法的FastICA 算法(SFastICA)的迭代公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { w } _ { n + 1 } = \\mathrm { E } \\{ z g ( w _ { n } ^ { \\mathrm { T } } z ) \\} \\boldsymbol { w } _ { n - 1 } - \\mathrm { E } \\{ z g ( w _ { n - 1 } ^ { \\mathrm { T } } z ) \\} \\boldsymbol { w } _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于弦截法的FastICA算法有两个初始迭代矩阵，和标准FastICA算法一样易受初值选择影响。但是引入梯度下降法对初值矩阵进行优化，将弥补SFastICA算法收敛速度不足的缺点。所以，SFastICA算法既能减少初值敏感性又能在一定程度上提高收敛速度和稳定性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3基于改进弦截法的FastICA ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "收敛阶数越高迭代收敛速度越快，为进一步提高弦截法的收敛速度，本文提出基于改进弦截法的FastICA算法（ISFastICA）。改进弦截法在2.3节中已被证明收敛阶数为2.414，具有比牛顿迭代法更高的收敛阶数，收敛速度明显高于牛顿迭代法。结合目标函数式（6）和改进弦截法式（12），可得到迭代公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\overline { { w } } _ { n + 1 } = w _ { n } - \\frac { \\big ( w _ { n } - w _ { n - 1 } \\big ) F ( w _ { n } ) } { F ( w _ { n } ) - F ( w _ { n - 1 } ) } } \\\\ { \\displaystyle w _ { n + 1 } = w _ { n } - \\frac { \\big ( \\overline { { w } } _ { n + 1 } - w _ { n } \\big ) F ( w _ { n } ) } { F ( \\overline { { w } } _ { n + 1 } ) - F ( w _ { n } ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以可以推导出基于改进弦截法的FastICA算法的迭代公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\overline { { \\pmb { w } } } _ { n + 1 } = \\mathrm { E } \\{ z g ( \\pmb { w } _ { n } ^ { \\mathrm { T } } z ) \\} \\pmb { w } _ { n - 1 } - \\mathrm { E } \\{ z g ( \\pmb { w } _ { n - 1 } ^ { \\mathrm { T } } z ) \\} \\pmb { w } _ { n } } \\\\ { \\pmb { w } _ { n + 1 } = \\mathrm { E } \\{ z g ( ( \\overline { { \\pmb { w } } } _ { n + 1 } ) ^ { \\mathrm { T } } z ) \\} \\pmb { w } _ { n } - \\mathrm { E } \\{ z g ( \\pmb { w } _ { n } ^ { \\mathrm { T } } z ) \\} \\overline { { \\pmb { w } } } _ { n + 1 } } \\\\ { \\pmb { w } _ { n + 1 } = \\pmb { w } _ { n + 1 } \\Big / \\big \\| \\pmb { w } _ { n + 1 } \\big \\| } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所以基于改进弦截法的FastICA算法步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）对观测信号进行中心化处理： ${ \\boldsymbol { x } } \\gets { \\boldsymbol { x } } - { \\frac { 1 } { n } } \\sum _ { i = 1 } ^ { i = n } { \\boldsymbol { x } } _ { i }$ ；b）对中心化数据进行白化，得到白化向量：${ \\boldsymbol { z } } = V \\mathbf { x } = E D ^ { - 1 / 2 } E ^ { \\mathrm { { T } } } { \\boldsymbol { x } }$ ：c）随机选择两个具有单位范数的初始化向量 ${ \\pmb w } _ { 0 }$ 和 $\\pmb { w } _ { 1 }$ ：$\\left\\| \\pmb { w } _ { 0 } \\right\\| ^ { 2 } = \\left\\| \\pmb { w } _ { 1 } \\right\\| ^ { 2 } = 1$ ，优化初值矩阵；d）更新 $w$ ：将优化的解混矩阵代入式（33）中得到 $\\pmb { w } _ { n + 1 }$ ；e）如果 $w$ 收敛，即 $\\left| w _ { n + 1 } - w _ { n } \\right| < \\mathfrak { E }$ ，根据正态分布 $_ { 4 - \\sigma }$ 原则取$\\pmb { \\varepsilon } = 0 . 0 0 0 0 3 1 5$ ，则算法收敛，停止迭代。否则返回步骤d);f)将收敛后的最优解混矩阵 $w$ 与观测信号 $x$ 相乘，得到源信号的估计信号 $Y$ ·",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ISFastICA算法从收敛特性上明显比SFastICA算法和标准FastICA算法具有更大的优势。它不但能降低初值敏感性影响，而且收敛阶数更高，收敛速度更快。所以ISFastICA算法的分离特性和稳定性更好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了评估基于改进弦截法的FastICA算法（ISFastICA）的分离效果，分别对FastICA、EFICA[11]、SparseFastICA[15]（S-FICA）、SFastICA和ISFastICA五种算法进行实验比较。本文使用Two-talkerdata[23,24]数据集中三个不同人的语音（s2_bbbs5p.wav、s5_bbiy7s.wav、s6_bbwz7n.wav）进行实验。首先读取三个干净的语音信号，然后乘上一个随机生成的混合系数矩阵，得到混合信号，之后分别用五种算法对混合信号进行分离，分离得到三个估计信号，最后分别统计五种算法的分离信号的信噪比、迭代次数、分离时间，并分析算法的收敛特性和对初值选择的敏感程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1分离性能对比实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分离实验用信噪比作为衡量分离效果的好坏标准，信噪比可以简单描述为估计信号中的有效成分和噪声成分的比值，一般是信噪比大的说明分离效果更好[25]。信噪比定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS N R = 1 0 ^ { * } \\log _ { 1 0 } \\left( \\frac { \\displaystyle \\sum _ { i = 0 } ^ { n } s _ { i } ^ { \\ : 2 } } { \\displaystyle \\sum _ { i = 0 } ^ { n } ( s _ { i } - \\hat { s } _ { i } ) ^ { \\ : 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 表示干净的源信号， $\\hat { s }$ 表示分离的估计信号。本节进行100次分离实验，对五种算法的分离实验的信噪比、迭代次数、分离时间进行统计，求均值，如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/29f4dc4a04400058c6f464a1111eeb88685ebb28e58f9dbcdf98092eb8b2aaf2.jpg",
+        "table_caption": [
+            "表1实验参数对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>信噪比/dB</td><td>迭代次数</td><td>分离时间/s</td></tr><tr><td>FastICA</td><td>40.5719</td><td>18</td><td>0.9721</td></tr><tr><td>EFICA</td><td>42.4302</td><td>16.4</td><td>0.8724</td></tr><tr><td>S-FICA</td><td>41.8616</td><td>14.6</td><td>0.9876</td></tr><tr><td>SFastICA</td><td>41.6004</td><td>16</td><td>0.8803</td></tr><tr><td>ISFastICA</td><td>42.1221</td><td>11</td><td>0.7318</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，对比分离信号的信噪比，ISFastICA算法的分离效果优于S-FICA算法优于SFastICA算法优于FastICA算法，略输于EFICA算法。ISFastICA算法的信噪比比FastICA算法提高了 $3 . 8 2 \\%$ ，SFastICA算法的信噪比比FastICA算法提高了$2 . 5 4 \\%$ 。对比迭代次数，ISFastICA算法少于S-FICA算法少于SFastICA 算法少于少于EFICA 算法少于FastICA 算法。ISFastICA 算法迭代次数比FastICA算法降低了 $3 8 . 8 9 \\%$ ，SFastICA算法迭代次数比FastICA算法降低了 $1 1 . 1 1 \\%$ 。对比分离时间,ISFastICA 算法快于EFICA 算法快于 SFastICA 算法快于FastICA算法快于S-FICA算法。ISFastICA算法分离时间比FastICA算法提高了 $2 4 . 7 2 \\%$ ,SFastICA算法分离时间比FastICA算法提高了 $9 . 4 4 \\%$ 。所以ISFastICA算法不论是分离效果还是分离效率都有很大的提升。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2算法收敛性对比实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "读入三个人的源信号，图1是的干净语音信号的采样波形图，横轴为采样点，纵轴为波形幅值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对三源信号进行线性混合，乘以一个随机生成混合系数矩阵，得到三个混合信号的波形图，如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用五种算法分别对混合信号进行分离估计，得到不同算法的分离结果，如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3fad9c71027dfd5f8c1f55fa420e9f25374e360934ee1ec5da09e11f0f9bbec.jpg",
+        "img_caption": [
+            "图1三个不同人的纯净语音信号"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0536d3dab185663a592923b752b927737265b70248d80a08871a40023b43927a.jpg",
+        "img_caption": [
+            "图2三个不同人的混合语音信号"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/838411e665753dfae69a73c85beebbbc042dfdc2e77986ddee2099505d013073.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "统计五种算法分离时的解混矩阵迭代差值和迭代次数之间的关系，评价算法的收敛特性，迭代差值下降的越快，则算法收敛速度越快。收敛特性的三维立体柱状统计图如图4所示，从外向内分别代表FastICA、EFICA、S-FICA、SFastICA和ISFastICA算法，用由浅到深色调的方形柱体表示，纵轴用柱体的高度表示每次的迭代差值，横轴表示迭代的次数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图4可以看出，FastICA、EFICA、S-FICA、ISFastICA、SFastICA、FastICA迭代次数分别为18、13、14、16、11。明显可以看出，迭代收敛速度由快到慢分别是ISFastICA、EFICA、S-FICA、SFastICA、FastICA算法。所以，ISFastICA收敛性能最好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3初值敏感性对比实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了对比初始解混矩阵的初值选择对算法收敛性的影响，对三个人的混合信号进行10次分离实验，每次随机产生不同的初值矩阵，然后统计分析不同算法的迭代次数变化，如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e1a38afa3bad0a436c881e731a505ede9d718600cf35f002a84b4aeea1461d4.jpg",
+        "img_caption": [
+            "图3五种算法分离结果",
+            "图4算法收敛性对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc1c7701889007226bc867f173b89c2ef293a72530322e462d58c37f1c824157.jpg",
+        "table_caption": [
+            "表2迭代次数统计表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">No.</td><td colspan=\"5\">迭代次数</td></tr><tr><td>FastICA</td><td>EFICA</td><td>S-FICA</td><td>SFastICA</td><td>ISFastICA</td></tr><tr><td>1</td><td>18</td><td>16</td><td>17</td><td>16</td><td>11</td></tr><tr><td>2</td><td>24</td><td>14</td><td>14</td><td>13</td><td>7</td></tr><tr><td>3</td><td>23</td><td>10</td><td>15</td><td>15</td><td>10</td></tr><tr><td>4</td><td>21</td><td>13</td><td>14</td><td>13</td><td>8</td></tr><tr><td>5</td><td>16</td><td>12</td><td>13</td><td>17</td><td>11</td></tr><tr><td>6</td><td>20</td><td>11</td><td>11</td><td>15</td><td>7</td></tr><tr><td>7</td><td>18</td><td>14</td><td>12</td><td>11</td><td>9</td></tr><tr><td>8</td><td>25</td><td>16</td><td>13</td><td>14</td><td>7</td></tr><tr><td>9</td><td>22</td><td>9</td><td>15</td><td>13</td><td>10</td></tr><tr><td>10</td><td>16</td><td>11</td><td>14</td><td>17</td><td>7</td></tr><tr><td>均值</td><td>20.3</td><td>12.6</td><td>13.8</td><td>14.4</td><td>8.7</td></tr><tr><td>方差</td><td>10.46</td><td>5.24</td><td>2.56</td><td>3.82</td><td>2.90</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由迭代次数统计表2可知，ISFastICA迭代次数均值小于EFICA小于S-FICA小于SFastICA小于FastICA， ISFastICA迭代次数方差小于SFastICA小于EFICA小于FastICA，稍大于 S-FICA。所以，ISFastICA算法迭代次数最少，对于不同初值解混矩阵的收敛稳定性比较好，受不同初值的敏感性影响比较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更直观地看出每次实验时，随机生成的初值矩阵对迭代收敛性能的影响，把每次实验的迭代次数绘制成直方图，如图4-5所示，每一组从左到右分别表示ISFastICA、EFICA、S-FICA、SFastICA、FastICA算法，颜色从浅到深，纵轴用直方图的高度表示迭代次数，横轴表示实验序号。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5看出，每一组ISFastICA的迭代次数直方图最低，并且各组之间的直方图高低差别不大，反映出对于不同的初值解混矩阵ISFastICA算法的收敛性能最稳定，也就是说ISFastICA算法相比较其他四种算法对初值敏感性影响最小，而且迭代收敛速度最快。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/390692cfae629f12c606637a339357602902122ef1433c4187d76fa57cd138bb.jpg",
+        "img_caption": [
+            "图5算法迭代次数对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4 实验结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对实验结果进行统计分析，对比五种算法的实验结果，可以看出可以得到如下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)由表1可知，基于改进弦截法的FastICA算法(ISFastICA)分离性能优于EFICA优于S-FICA优于SFastICA优于FastICA算法。b）对比算法收敛特性，如图4所示，可以看出：ISFastICA算法收敛速度最快。c）初值敏感性对比实验可知，ISFastICA算法对比其他四种算法，不仅收敛速度更快而且收敛稳定性更好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ISFastICA算法对比标准FastICA算法，不但降低了初值选择敏感性，而且收敛速度更快，收敛稳定性更好。ISFastICA算法对比SFastICA算法，提高了算法的分离性能，加快了收敛速度。ISFastICA算法对比EFICA算法虽然信噪比（SNR）略有不足，但是收敛速度更快、鲁棒性更好。ISFastICA算法对比S-FICA算法虽然收敛稳定性略有不足，但是收敛速度和SNR都有了明显的提高。对比FastICA、SFastICA和ISFastICA三种算法可以看出，梯度下降法的引入有效地降低了初值选择敏感性的影响，使算法的迭代次数方差更小，收敛更稳定。所以改进弦截法的提出在提高分离性能的前提下，既能够降低初值敏感性，又能够加快收敛速度，增强收敛稳定性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文引入梯度下降法克服FastICA对初值选择敏感的缺陷：提出改进弦截法，提高算法的收敛速度，增强算法收敛稳定性。通过理论证明和实验验证，ISFastICA算法收敛速度快于FastICA算法快于SFastICA算法。ISFastICA算法收敛稳定性优于SFastICA算法优于FastICA算法。另外，通过与当前最新的FastICA 的改进算法 EFICA 和 SparseFastICA(S-FICA)相比,ISFastICA算法的收敛稳定性和分离性能分别也有一定程度的提高。所以，基于改进弦截法的FastICA算法不但提高收敛速度，而且增强收敛稳定性。但是由于改进的算法无先验知识计算，所以并不能够区分和提取混合语音中某一个特定人的语音，下一步将进行深度聚类的语音分离研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Pimpale MMR,Therese S, Shinde V.A survey on: sound source separation methods [J].International Journal,2016,3(11): 580-584.   \n[2]Qian Guobing,Li Liping,Liao Hongshu.Performance analysis of the ncFastICA algorithm[J]. Circuits,Systems,and Signal Processing,2015,34 (2): 441-457.   \n[3]Jutten C,Taleb A. Source separation: from dusk till dawn [C]//Proc of the 2nd International Workshop on Independent Component Analysis and Blind Source Separation.200o:15-26.   \n[4]Khaliq AA, QureshiIM,Malik SA,etal.Amodified infomax ica algorithm for fMRI data source separation [J].Research Journal of Applied Sciences Engineering& Technology,2013,20(5): 4862-4868.   \n[5]Zhang Kangrong,Tian Guanyu, Lan Tian. Blind source separation based on JADE algorithm and application [C]//Proc of International Conference on Mechatronics,Robotics and Automation.2015:252-255.   \n[6]Yuan Mei, Yu Liang,Dong Shaopeng,et al. Study on SOBI separation method for composite materials simulated damage AE signals [C]// Proc of International Conference on Instrumentation & Measurement.2016:1150- 1155.   \n[7]Hyvarinen A. Independent component analysis:basic theory and recent advances [J]. Technical Report of IEICEEA,2013,113 (242): 1622-1627.   \n[8]Yuan Wei, Zhang Liyi. Blind image separation based on an optimized fast fixed point algorithm [C]// Advanced Materials Research.2013: 3578-3583.   \n[9]Li Deng'ao, Zhao Junmin,Liu Hongyan,et al. The application of FastICA combined with related function in blind signal separation [J].Mathematical Problems in Engineering, 2014 (4): 1-9.   \n[10] Ahmad T,Alias N, Ghanbari M,et al. Improved Fast ICA algorithm using eighth-order Newton's method [J].Research Journal of Applied Sciences Engineering& Technology,2013,6(10): 1794-1798.   \n[11] He Xuansen,He Fan,He Anling. Super-Gaussian BSS using Fast-ICA with Chebyshev-Pade approximant [J]. Circuits, Systems and signal Processing, 2017: 1-37.   \n[12] Voss J,Rademacher L,Belkin M.Fast algorithms for Gaussian noise invariant independent component analysis $[ \\mathrm { C } ] / \\AA$ Advances in Neural Information Processing Systems.2013:2544-2552.   \n[13]季策，陈雷，王艳茹，等．基于超松弛因子的高阶复值FastICA算法[J]. 系统仿真学报,2014,26(12):2834-2838.   \n[14]郭伟，于凤芹．基于负熵最大化改进的语音音乐信号分离[J].计算机 工程与应用,2015,51(4):209-212.   \n[15] Ge Ruiyang,Wang Yubao,Zhang Jipeng,et al. Improved FastICA algorithm in fMRI data analysis using the sparsity property ofthe sources.[J]. Journal of Neuroscience Methods,2016,263:103-114.   \n[16] Ferrara M, Sharifi S, Salimi M. Computing multiple zeros by using a parameter in Newton-Secant method [J]. SeMA Journal,2015,75:1-9.   \n[17] Ehiwario J C,Aghamie S O.Comparative study of bisection,NewtonRaphson and secant methods of root-finding problems [J].IOSR Journal of Engineering,2014,4: 01-07.   \n[18] Zhang Yude.The order of convergence of iterative sequences and an application to the two-step secant method.[J]. Human Reproduction Update, 2013,19 (4): 520-545.   \n[19] Long N MA N,Salimi M, Sharifi S,et al.Developing a new family of Newton-Secant method with memory based on a weight function [J].SeMA Journal,2016:1-10.   \n[20] Zarzoso V,Comon P. Comparative Speed Analysis of FastICA [M]// Independent Component Analysis and Signal Separation. Berlin: Springer, 2007:293-300.   \n[21] Yadav R K,Mehra R, Dubey N.Blind audio source separation using weight initialized independent component analysis [C]//Procof the1st International Conference on Next Generation Computing Technologies. 2015: 563-566.   \n[22] Li Zhiming, Yang Genke. Blind separation of mixed audio signals based on improved FastICA[C]//Proc of International Congress on Image and Signal Processing. 2014: 1638-1642.   \n[23] Cooke M, Barker J,Cunningham S,et al.An audio-visual corpus for speech perception and automatic speech recognition [J]. Journal of the Acoustical Society of America,2006,120 (5): 2421-2424.   \n[24] Barker J,Cooke M.Modelling speaker intelligibility in noise [J]. Speech Communication,2007,49 (5): 402-417.   \n[25] Hu Ke,Wang Deliang.An iterative model-based approach to cochannel speech separation [J].EURASIP Journal on Audio,Speech,and Music Processing,2013,2013 (1): 1-11. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

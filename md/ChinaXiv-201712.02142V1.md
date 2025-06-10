@@ -1,0 +1,325 @@
+# Upper bounds for Z1-eigenvalues of generalized Hilbert tensors \*
+
+Juan Meng†， Yisheng Song‡
+
+# Abstract
+
+In this paper,we introduce the concept of $\mathrm { Z _ { 1 } }$ -eigenvalue to infinite dimensional generalized Hilbert tensors (hypermatrix) $\mathcal { H } _ { \lambda } ^ { \infty } = ( \mathcal { H } _ { i _ { 1 } i _ { 2 } \cdots i _ { m } } )$ ，
+
+$$
+\mathcal { H } _ { i _ { 1 } i _ { 2 } \cdots i _ { m } } = \frac { 1 } { i _ { 1 } + i _ { 2 } + \cdots i _ { m } + \lambda } , \ \lambda \in \mathbb { R } \setminus \mathbb { Z } ^ { - } ; \ i _ { 1 } , i _ { 2 } , \cdots , i _ { m } = 0 , 1 , 2 , \cdots , n , \cdots ,
+$$
+
+and proved that its $Z _ { 1 }$ -spectral radius is not larger than $\pi$ for $\lambda > \frac { 1 } { 2 }$ ,and is at most $\frac { \pi } { \sin \lambda \pi }$ for $\textstyle { \frac { 1 } { 2 } } \geq \lambda > 0$ .Besides,the upper bound of $Z _ { 1 }$ spectral radius of an ${ m }$ th-order $\textit { n }$ -dimensional generalized Hilbert tensor $\mathcal { H } _ { \lambda } ^ { n }$ is obtained also,and such a bound only depends on $\textit { n }$ and $\lambda$ ：
+
+Key words: Infinite-dimensional generalized Hilbert tensor, $Z _ { 1 }$ -eigenvalue, Spectral radius,Hilbert inqualities.   
+AMS subject classifications (2010): 47H15,47H12, 34B10, 47A52, 47J10, 47H09, 15A48, 47H07
+
+# 1 Introduction
+
+A generalized Hilbert matrix has the form [13]:
+
+$$
+H _ { \lambda } ^ { \infty } = \left( { \frac { 1 } { i + j + \lambda } } \right) _ { i , j \in \mathbb { Z } ^ { + } }
+$$
+
+where $\mathbb { Z } ^ { + }$ ( $\mathbb { Z } ^ { - }$ )is the set of all non-negative (non-positive) integers and $\lambda \in \mathbb { R } \backslash \mathbb { Z } ^ { - }$ . Denote such a Hilbert matrix with $i , j \in I _ { n } = \{ 0 , 1 , 2 , \cdots , n \}$ by $H _ { \lambda } ^ { n }$ . When $\lambda = 1$ ，such a matrix is called Hilbert matrix,which was introduced by Hilbert [12]. Choi [6] and Ingham [14] proved that Hilbert matrix $H _ { 1 } ^ { \infty }$ is a bounded linear operator (but not compact operator)
+
+from Hilbert space $l ^ { 2 }$ into itself. Magnus [18] and Kato [15] studied the spectral properties of $H _ { 1 } ^ { \infty }$ . Frazer [7] and Taussky [29] discussed some nice properties of $n$ -dimensional Hilbert matrix $\textstyle H _ { 1 } ^ { n }$ . Rosenblum [23] showed that for a real $\lambda < 1$ ， $H _ { \lambda } ^ { \infty }$ defines a bounded operator on $l ^ { p }$ for $2 < p < \infty$ and that $\pi \sec \pi u$ is an eigenvalue of $H _ { \lambda } ^ { \infty }$ for $\begin{array} { r } { | \mathfrak { R } u | < \frac { 1 } { 2 } - \frac { 1 } { p } } \end{array}$ . For each non-integer complex number $\lambda$ , Aleman, Montes-Rodriguez, Sarafoleanu [1] showed that $H _ { \lambda } ^ { \infty }$ defines a bounded linear operator on the Hardy spaces $H ^ { p }$ ( $1 < p < \infty$ ）
+
+As a natural extension of a generalized Hilbert matrix, the generalized Hilbert tensor (hypermatrix) was introduced by Mei and Song [24]. For each $\lambda \in \mathbb { R } \backslash \mathbb { Z } ^ { - }$ , the entries of an $m$ th-order infinite dimensional generalized Hilbert tensor $\mathcal { H } _ { \lambda } ^ { \infty } = ( \mathcal { H } _ { i _ { 1 } i _ { 2 } \cdots i _ { m } } )$ are defined by
+
+$$
+{ \mathcal { H } } _ { i _ { 1 } i _ { 2 } \cdots i _ { m } } = { \frac { 1 } { i _ { 1 } + i _ { 2 } + \cdots i _ { m } + \lambda } } , ~ i _ { 1 } , i _ { 2 } , \cdots , i _ { m } = 0 , 1 , 2 , \cdots , n , \cdots .
+$$
+
+They showed $\mathcal { H } _ { \lambda } ^ { \infty }$ defines a bounded and positively $( m - 1 )$ -homogeneous operator from $l ^ { 1 }$ into $l ^ { p }$ ( $1 < p < \infty$ ). Song and Qi [25] studied the operator properties of Hilbert tensors $\mathcal { H } _ { 1 } ^ { \infty }$ and the spectral properties of $\mathcal { H } _ { 1 } ^ { n }$ . Such a tensor, $\mathcal { H } _ { \lambda } ^ { \infty }$ may be refered to as a Hankel tensor with $v = ( 1 , \textstyle { \frac { 1 } { 2 } } , \textstyle { \frac { 1 } { 3 } } , \cdots , \textstyle { \frac { 1 } { n } } , \cdot \cdot \cdot )$ Theconceptof Hankel tensorwas introduced byQi[22].For more further research of Hankel tensors,see Qi [22], Chen and Qi [5], Xu [31]. Denote such an $m$ th-order $n$ -dimensional generalized Hilbert tensor by $\mathcal { H } _ { \lambda } ^ { n }$
+
+For a real vector $x = ( x _ { 1 } , x _ { 2 } , \cdot \cdot \cdot , x _ { n } , x _ { n + 1 } , \cdot \cdot \cdot ) \in l ^ { 1 }$ ， $\mathcal { H } _ { \lambda } ^ { \infty } x ^ { m - 1 }$ is an infinite dimensional vector with its $i$ th component defined by
+
+$$
+( \mathcal H _ { \lambda } ^ { \infty } x ^ { m - 1 } ) _ { i } = \sum _ { i _ { 2 } , \cdots , i _ { m } = 0 } ^ { \infty } \frac { x _ { i _ { 2 } } \cdots x _ { i _ { m } } } { i + i _ { 2 } + \cdots + i _ { m } + \lambda } , \lambda \in \mathbb R \setminus \mathbb Z ^ { - } ; \ i = 0 , 1 , 2 , \cdots .
+$$
+
+Accordingly, $\mathcal { H } _ { \lambda } ^ { \infty } x ^ { m }$ is given by
+
+$$
+\mathcal { H } _ { \lambda } ^ { \infty } x ^ { m } = \sum _ { i _ { 1 } , i _ { 2 } , \cdots , i _ { m } = 0 } ^ { \infty } \frac { x _ { i _ { 1 } } x _ { i _ { 2 } } \cdot \cdot \cdot x _ { i _ { m } } } { i _ { 1 } + i _ { 2 } + \cdot \cdot \cdot + i _ { m } + \lambda } , \lambda \in \mathbb { R } \setminus \mathbb { Z } ^ { - } .
+$$
+
+Mei and Song [24] proved that $\mathcal { H } _ { \lambda } ^ { \infty } x ^ { m } < \infty$ and $\mathcal { H } _ { \lambda } ^ { \infty } x ^ { m - 1 } \in l ^ { p }$ ( $1 < p < \infty$ ） for all real vector x ∈ l1.
+
+In this paper, we will introduce the concept of $Z _ { 1 }$ -eigenvalue $\mu$ for an $m$ th-order infinite dimensional generalized Hilbert tensor $\mathcal { H } _ { \lambda } ^ { \infty }$ and will study some upper bounds of $Z _ { 1 }$ -spectral radius for infinite dimensional generalized Hilbert tensor $\mathcal { H } _ { \lambda } ^ { \infty }$ and $n$ -dimensional generalized Hilbert tensor $\mathcal { H } _ { \lambda } ^ { n }$
+
+In Section 2, we wil give some Lemmas and basic conclusions,and introduce the concept of $Z _ { 1 }$ -eigenvalue. In Section 3,with the help of the Hilbert type inequalities,the upper bound of $Z _ { 1 }$ -spectral radius of $\mathcal { H } _ { \lambda } ^ { \infty }$ with $\lambda > 0$ is at most $\pi$ when $\lambda > \frac { 1 } { 2 }$ , and is not larger than $\frac { \pi } { \sin \lambda \pi }$ when $0 < \lambda \leq { \frac { 1 } { 2 } }$ . Furthermore, for each $Z _ { 1 }$ -eigenvalue $\mu$ of $\mathcal { H } _ { \lambda } ^ { n }$ ， $| \mu |$ is smaller than or equal to $C ( n , \lambda )$ ，where $C ( n , \lambda )$ only depends on the structured coefficient $\lambda$ of generalized Hilbert tensor and the dimensionality $n$ of European space.
+
+# 2 Preliminaries and Basic Results
+
+For $0 < p < \infty$ ， $l ^ { p }$ is a space consisting of all real number sequences $x = ( x _ { i } ) _ { i = 1 } ^ { + \infty }$ satisfying $\sum _ { i = 1 } ^ { + \infty } | x _ { i } | ^ { p } < \infty$ . If $p \geq 1$ ,then a norm on $l ^ { p }$ is defined by
+
+$$
+\| x \| _ { l ^ { p } } = \left( \sum _ { i = 1 } ^ { + \infty } | x _ { i } | ^ { p } \right) ^ { \frac { 1 } { p } } .
+$$
+
+It is well known that $l ^ { 2 }$ is a Hilbert space with the inner product
+
+$$
+\langle x , y \rangle = \sum _ { i = 0 } ^ { + \infty } x _ { i } y _ { i } .
+$$
+
+Clearly, $\| x \| _ { l ^ { 2 } } = \sqrt { \langle x , x \rangle }$ 业
+
+For $p \geq 1$ ,a norm $\mathbb { R } ^ { n }$ can be defined by
+
+$$
+\| x \| _ { p } = \left( \sum _ { i = 1 } ^ { n } | x _ { i } | ^ { p } \right) ^ { \frac { 1 } { p } } .
+$$
+
+It is well known that
+
+$$
+\| x \| _ { 2 } \leq \| x \| _ { 1 } \leq { \sqrt { n } } \| x \| _ { 2 } .
+$$
+
+The following Hilbert type inequalities were proved by Frazer [7] on $\mathbb { R } ^ { n }$ and Ingham [14] on $l ^ { 2 }$ , respectively.
+
+Lemma 2.1. (Frazer [7]) Let $x = ( x _ { 1 } , x _ { 2 } , \cdot \cdot \cdot , x _ { n } ) ^ { \top } \in \mathbb { R } ^ { n }$ . Then
+
+$$
+\sum _ { i = 0 } ^ { n } \sum _ { j = 0 } ^ { n } { \frac { | x _ { i } | | x _ { j } | } { i + j + 1 } } \leq ( n \sin { \frac { \pi } { n } } ) \sum _ { k = 0 } ^ { n } x _ { k } ^ { 2 } = \| x \| _ { 2 } ^ { 2 } n \sin { \frac { \pi } { n } } ,
+$$
+
+Lemma 2.2. (Ingham [14]) Let $x = ( x _ { 1 } , x _ { 2 } , \cdot \cdot \cdot , x _ { n } , \cdot \cdot \cdot ) ^ { \top } \in l ^ { 2 }$ and $a > 0$ . Then
+
+$$
+\sum _ { i = 0 } ^ { \infty } \sum _ { j = 0 } ^ { \infty } \frac { | x _ { i } | | x _ { j } | } { i + j + a } \leq M ( a ) \sum _ { k = 0 } ^ { \infty } x _ { k } ^ { 2 } = M ( a ) \| x \| _ { l ^ { 2 } } ^ { 2 } ,
+$$
+
+where
+
+$$
+M ( a ) = \left\{ { \begin{array} { l l } { \frac { \pi } { \sin a \pi } , } & { 0 < a \leq \frac { 1 } { 2 } ; } \\ { \pi , } & { a > \frac { 1 } { 2 } . } \end{array} } \right.
+$$
+
+An $m$ -order $n$ -dimensional tensor (hypermatrix) $\boldsymbol { \mathcal { A } } = \left( a _ { i _ { 1 } } . . . i _ { m } \right)$ is a multi-array of real entries $a _ { i _ { 1 } \dots i _ { m } } \in \mathbb { R }$ ，where $i _ { j } \in I _ { n } = \{ 1 , 2 , \cdots , n \}$ for $j \in [ m ] = \{ 1 , 2 , \cdots , m \}$ .We use （204 $T _ { m , n }$ denote the set of all real $m$ th-order $n$ -dimensional tensors.Then $A \in T _ { m , n }$ is called a symmetric tensor if the entries $a _ { i _ { 1 } \cdots i _ { m } }$ are invariant under any permutation of their indices. （204号 $\mathcal { A } \in T _ { m , n }$ is called nonnegative (positive) if $a _ { i _ { 1 } i _ { 2 } \cdots i _ { m } } \geq 0 ( a _ { i _ { 1 } i _ { 2 } \cdots i _ { m } } > 0 )$ for all $i _ { 1 } , i _ { 2 } , \cdots , i _ { m }$
+
+Definition 2.1. （Chang and Zhang [2]） Let $A \in T _ { m , n }$ . A number $\mu \in \mathbb { R }$ is called $Z _ { 1 }$ eigenvalue of $\mathcal { A }$ if there is a real vector $x$ such that
+
+$$
+\left\{ { \begin{array} { l l } { A x ^ { m - 1 } = \mu x } \\ { \| x \| _ { 1 } = 1 } \end{array} } \right.
+$$
+
+and call such a vector $x$ an $Z _ { 1 }$ -eigenvector associated with $\mu$
+
+For the concepts of eigenvalues of higher order tensors, Qi [19, 20] first used and introduced them for symmetric tensors,and Lim [17] independently introduced this notion but restricted $x$ to be a real vector and $\lambda$ to be a real number. Subsequently, the spectral properties of nonnegative matrices had been generalized to $n$ -dimensional nonnegative tensors under various conditions by Chang et al. [3, 4], He and Huang [9],He [1O], He et al. [11], Li et al. [16], Qi [21], Song and Qi [26, 27],Wang et al. [30], Yang and Yang [32, 33] and references therein. The notion of $Z _ { 1 }$ -eigenvalue was introduced by Chang and Zhang [2] for higher Markov chains. Now we introduce it to infnite dimensional generalized Hilbert tensors.
+
+Let
+
+$$
+T _ { \infty } x = \left\{ \begin{array} { l l } { \displaystyle \| x \| _ { l ^ { 1 } } ^ { 2 - m } \mathcal { H } _ { \lambda } ^ { \infty } x ^ { m - 1 } , } & { x \neq \theta } \\ { \theta , } & { x = \theta , } \end{array} \right.
+$$
+
+where $\theta = ( 0 , 0 , \cdots , 0 , \cdots )$ . Mei and Song [24] frst used the concept of the operator $T _ { \infty }$ induced by a generalized Hilbert tensor $\mathcal { H } _ { \lambda } ^ { \infty }$ and showed $T _ { \infty }$ is a bounded and positively homogeneous operator from $l ^ { 1 }$ into $l ^ { p }$ ( $1 < p < \infty$ ).Then $T _ { \infty }$ is refered to as a bounded and positively homogeneous operator from $l ^ { 2 }$ into $l ^ { 2 }$ . So,the concept of $Z _ { 1 }$ -eigenvalue may be introduced to the infinite dimensional Hilbert tensor $\mathcal { H } _ { \lambda } ^ { \infty }$ ：
+
+Definition 2.2. Let $\mathcal { H } _ { \lambda } ^ { \infty }$ be an $m$ th-order infinite dimensional generalized Hilbert tensor. A real number $\mu$ is called a $Z _ { 1 }$ -eigenvalue of $\mathcal { H } _ { \lambda } ^ { \infty }$ if there exists a nonzero vector $x \in { l } ^ { 2 }$ satisfying
+
+$$
+T _ { \infty } x = \| x \| _ { l ^ { 1 } } ^ { 2 - m } \mathcal { H } _ { \lambda } ^ { \infty } x ^ { m - 1 } = \mu x .
+$$
+
+Such a vector $x$ is called an $Z _ { 1 }$ -eigenvector associated with $\mu$ =
+
+# 3 Main Results
+
+Theorem 3.1. Let $\mathcal { H } _ { \lambda } ^ { n }$ be an mth-order $n$ -dimensional generalized Hilbert tensor. Then
+
+where $[ \lambda ]$ is the largest integer not exceeding $\lambda$ and
+
+$$
+C ( n , \lambda ) = \left\{ \begin{array} { l l } { n \sin \frac { \pi } { n } , } & { \lambda \ge 1 ; } \\ { \frac { n } { \lambda } , } & { 1 > \lambda > 0 ; } \\ { \frac { n } { \operatorname* { m i n } \{ \lambda - [ \lambda ] , 1 + [ \lambda ] - \lambda \} } , } & { - m n < \lambda < 0 ; } \\ { \frac { n } { - m n - a } , } & { \lambda < - m n . } \end{array} \right.
+$$
+
+Proof. For $\lambda \geq 1$ , it follows from Lemma 2.1 that for all nonzero vector $x \in \mathbb { R } ^ { n }$ ，
+
+$$
+\begin{array} { r l } { | | R _ { \Phi ^ { 2 , 0 } } ^ { \infty }  = } & { | \underbrace { \sum _ { i , j , k ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } } \frac { \partial _ { \lambda , k ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } } } { \partial _ { \lambda , k ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } } } | } _ { \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } } } \\ &  \leq \ \underset { \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } } { \overset { \mathrm { i f } } { \underset { \sum _ { i , j \geq 1 } ^ { \infty } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } } { \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } , \lambda ^ { \prime } } } } \\ &  = \ \underset { \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } } \\ &  - ( \underset  \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } + \underset { \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } }  \overset { \mathrm { i f } } { \sum _ { i , j \geq 1 } ^ { \infty \lambda ^ { \prime } } } \ \underset { \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } \lambda ^ { \prime } }  \overset { \mathrm { i f } } { \sum _ { i , j \geq 1 } ^ { \infty \lambda ^ { \prime } } } \ \underset  \lambda ^ { \prime } \lambda ^ { \prime } \ \end{array}
+$$
+
+That is,
+
+$$
+\vert \mathcal { H } _ { \lambda } ^ { n } x ^ { m } \vert \leq \vert \vert x \vert \vert _ { 2 } ^ { 2 } \vert \vert x \vert \vert _ { 1 } ^ { m - 2 } n \sin \frac { \pi } { n } .
+$$
+
+Since $\mu$ isa $Z _ { 1 }$ -eigenvalue of $\mathcal { H } _ { \lambda } ^ { \prime \prime }$ , then there exists a nonzero vector $x$ such that
+
+$$
+\mathcal { H } _ { \lambda } ^ { n } x ^ { m - 1 } = \mu x \ \mathrm { a n d } \ \| x \| _ { 1 } = 1 .
+$$
+
+Thus, we have,
+
+$$
+| \mu x ^ { \top } x | = | x ^ { \top } ( \mathcal { H } _ { \lambda } ^ { n } x ^ { m - 1 } ) | = | \mathcal { H } _ { \lambda } ^ { n } x ^ { m } | \leq \| x \| _ { 2 } ^ { 2 } \| x \| _ { 1 } ^ { m - 2 } n \sin \frac { \pi } { n } ,
+$$
+
+and then,
+
+$$
+| \mu | \| x \| _ { 2 } ^ { 2 } \leq \| x \| _ { 2 } ^ { 2 } \| x \| _ { 1 } ^ { m - 2 } n \sin \frac { \pi } { n } .
+$$
+
+As a result,
+
+$$
+| \mu | \leq n \sin { \frac { \pi } { n } } .
+$$
+
+For all $\lambda \in \mathbb { R } \setminus \mathbb { Z } ^ { - }$ with $\lambda < 1$ ,it is obvious that for $1 > \lambda > 0$ 5
+
+$$
+\operatorname* { m i n } _ { i _ { 1 } , \cdots , i _ { m } \in I _ { n } } \left| i _ { 1 } + i _ { 2 } + \cdots + i _ { m } + \lambda \right| = \lambda .
+$$
+
+For $- m n < \lambda < 0$ ， there exist some positive integers $i _ { 1 } ^ { \prime } , i _ { 2 } ^ { \prime } , \cdots , i _ { m } ^ { \prime }$ and $i _ { 1 } ^ { \prime \prime } , i _ { 2 } ^ { \prime \prime } , \cdots , i _ { m } ^ { \prime \prime }$ such that
+
+$$
+i _ { 1 } ^ { \prime } + i _ { 2 } ^ { \prime } + \cdot \cdot \cdot + i _ { m } ^ { \prime } = - [ \lambda ] \mathrm { ~ a n d ~ } i _ { 1 } ^ { \prime \prime } + i _ { 2 } ^ { \prime \prime } + \cdot \cdot \cdot + i _ { m } ^ { \prime \prime } = - [ \lambda ] - 1 ,
+$$
+
+and hence,
+
+$$
+\operatorname* { m i n } _ { i _ { 1 } , \cdots , i _ { m } \in I _ { n } } \left| i _ { 1 } + i _ { 2 } + \cdots \cdot + i _ { m } + \lambda \right| = \operatorname* { m i n } \{ \lambda - [ \lambda ] , \lambda - ( - [ \lambda ] - 1 ) \} .
+$$
+
+For $\lambda < - m n$ ， we also have,
+
+$$
+\operatorname* { m i n } _ { i _ { 1 } , \cdots , i _ { m } \in I _ { n } } \left| i _ { 1 } + i _ { 2 } + \cdots + i _ { m } + \lambda \right| = \left| m n + \lambda \right| = - m n - \lambda .
+$$
+
+Therefore,we have for $\lambda \in \mathbb { R } \setminus \mathbb { Z } ^ { - }$ with $\lambda < 1$ 5
+
+$$
+\frac { 1 } { | i _ { 1 } + i _ { 2 } + \cdot \cdot \cdot + i _ { m } + \lambda | } \le N ( \lambda ) = \left\{ \begin{array} { l l } { \frac { 1 } { \lambda } , } & { 1 > \lambda > 0 ; } \\ { \frac { 1 } { \operatorname* { m i n } \{ \lambda - [ \lambda ] , 1 + [ \lambda ] - \lambda \} } , } & { - m n < \lambda < 0 ; } \\ { \frac { 1 } { - m n - a } , } & { \lambda < - m n . } \end{array} \right.
+$$
+
+Then,for all nonzero vector $x \in \mathbb { R } ^ { n }$ ， we have
+
+$$
+\begin{array} { r l r } {  {  \mathcal { H } _ { \lambda } ^ { n } x ^ { m }  =  \sum _ { i _ { 1 } , i _ { 2 } , \cdots , i _ { m } = 0 } ^ { n } \frac { x _ { i _ { 1 } } x _ { i _ { 2 } } \cdots x _ { i _ { m } } } { i _ { 1 } + i _ { 2 } + \cdots + i _ { m } + \lambda }  } } \\ & { } & { \leq \sum _ { i _ { 1 } , \cdots , i _ { m } = 0 } ^ { n } \frac {  x _ { i _ { 1 } } x _ { i _ { 2 } } \cdots x _ { i _ { m } }  } {  i _ { 1 } + i _ { 2 } + \cdots + i _ { m } + \lambda  } } \\ & { } & { \leq N ( \lambda ) \displaystyle \sum _ { i _ { 1 } , i _ { 2 } , \cdots , i _ { m } = 0 } ^ { n }  x _ { i _ { 1 } }   x _ { i _ { 2 } }  \cdots  x _ { i _ { m } }  } \\ & { } & { = N ( \lambda ) ( \displaystyle \sum _ { i = 0 } ^ { n }  x _ { i }  ) ^ { m } = N ( \lambda ) \| x \| _ { 1 } ^ { m } . } \end{array}
+$$
+
+For each $Z _ { 1 }$ -eigenvalue $\mu$ of $\mathcal { H } _ { \lambda } ^ { n }$ with its eigenvector $x$ ， from (3.2) and $\| x \| _ { 1 } \leq { \sqrt { n } } \| x \| _ { 2 }$ ，it follows taht
+
+$$
+| \mu | ( \frac { 1 } { n } \| x \| _ { 1 } ^ { 2 } ) \leq | \mu | \| x \| _ { 2 } ^ { 2 } = | { \mathcal { H } } _ { \lambda } ^ { n } x ^ { m } | \leq N ( \lambda ) \| x \| _ { 1 } ^ { m } ,
+$$
+
+and hence,
+
+$$
+| \mu | \leq n N ( \lambda ) .
+$$
+
+This completes the proof.
+
+When $\lambda = 1$ , the following conclusion of Hilbert tensor is easily obtained. Also see Song and Qi [25] for the conclusions about H-eigenvalue and Z-eigenvalue of such a tensor.
+
+Corollary 3.2. Let $\mathcal { H }$ be an mth-order $n$ -dimensional Hilbert tensor. Then for all $Z _ { 1 }$ 1 eigenvalue $\mu$ of $\mathcal { H }$ ，
+
+$$
+| \mu | \leq n \sin { \frac { \pi } { n } } .
+$$
+
+Theorem 3.3. Let $\mathcal { H } _ { \lambda } ^ { \infty }$ be an mth-order infinite dimensional generalized Hilbert tensor.Assume $\lambda > 0$ ， then for $Z _ { 1 }$ -eigenvalue $\mu$ of $\mathcal { H } _ { \lambda } ^ { \infty }$ ，
+
+$$
+| \mu | \leq M ( \lambda ) = \left\{ { \begin{array} { l l } { { \frac { \pi } { \sin \lambda \pi } } , } & { 0 < \lambda \leq { \frac { 1 } { 2 } } ; } \\ { \pi , } & { \lambda > { \frac { 1 } { 2 } } . } \end{array} } \right.
+$$
+
+Proof. For $x \in l ^ { 2 }$ , it follows from Lemma 2.2 that
+
+$$
+\begin{array} { r l } { \| \tilde { \xi } _ { 2 } \cdot \mathcal { R } _ { \mathcal { X } } ^ { \star \star } \mathbf { x } ^ { \star \star } \| = \| \widehat { \mathbf { A } } _ { \mathcal { X } } ^ { \star } \mathbf { x } ^ { \star \star } \| = \left| \displaystyle { \sum _ { k \in \mathcal { X } } \displaystyle \sum _ { i = k + 1 } ^ { \infty } \sum _ { k \in \mathcal { X } } \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } } \| } \right| } \\ { \leq } & { \displaystyle { \sum _ { k \in \mathcal { X } } \displaystyle \sum _ { i = k - 1 } ^ { \infty } \sum _ { k \in \mathcal { X } - \mathcal { X } + 1 } \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } } \\ { = } & { \displaystyle { \sum _ { k \in \mathcal { X } - \mathcal { X } - \mathcal { X } + 1 } \frac { \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } { \sum _ { k \in \mathcal { X } } \displaystyle \sum _ { i = k + 1 } ^ { \infty } \sum _ { k \in \mathcal { X } + 1 } \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } } } \\ { = } & { \displaystyle { \sum _ { k \in \mathcal { X } - \mathcal { X } \leq k \leq k \leq n } \frac { \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } { \sum _ { k \in \mathcal { X } } \displaystyle \sum _ { i = k + 1 } ^ { \infty } \sum _ { k \in \mathcal { X } } \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } } } \\ { = } &  \displaystyle { \sum _ { k \in \mathcal { X } - \mathcal { X } \leq k \leq n } \frac { \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } { \sum _ { k \in \mathcal { X } } \displaystyle \sum _ { i = k + 1 } ^ { \infty } \sum _ { k \in \mathcal { X } - \mathcal { X } + 1 } \sum _ { k \in \mathcal { X } - \mathcal { X } + 1 } \sum _ { k \in \mathcal { X } + 1 } \sum _ { k \in \mathcal { X } } \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| } } \\ { = } &  \displaystyle  \sum _ { k \in \mathcal { X } \leq k \leq n } \frac { \| x _ { i } ( \star \mathbf { x } _ { i } ) - x _ { k \in \mathcal { X } + 1 } \| }  \sum _ { k \in \mathcal { X } - \mathcal { X } \leq k \leq n } \| x  \end{array}
+$$
+
+and so,
+
+$$
+| \langle x , T _ { \infty } x \rangle | = | \langle x , \| x \| _ { 1 } ^ { 2 - m } \mathcal H _ { \lambda } ^ { \infty } x ^ { m - 1 } \rangle | = \| x \| _ { l ^ { 1 } } ^ { 2 - m } | \mathcal H _ { \lambda } ^ { \infty } x ^ { m } | \leq M ( \lambda ) \| x \| _ { l ^ { 2 } } ^ { 2 } .
+$$
+
+r each $Z _ { 1 }$ -eigenvalue $\mu$ of $\mathcal { H } _ { \lambda } ^ { \infty }$ ，there exists a nonzero vector $x \in l ^ { 2 }$ such that
+
+$$
+T _ { \infty } x = \| x \| _ { l ^ { 1 } } ^ { 2 - m } \mathcal { H } _ { \lambda } ^ { \infty } x ^ { m - 1 } = \mu x ,
+$$
+
+and so,
+
+$$
+\begin{array} { r } { \mu \| x \| _ { l ^ { 2 } } ^ { 2 } = \mu \langle x , x \rangle = \langle x , \| x \| _ { l ^ { 1 } } ^ { 2 - m } \mathcal H _ { \lambda } ^ { \infty } x ^ { m - 1 } \rangle = \| x \| _ { l ^ { 1 } } ^ { 2 - m } \mathcal H _ { \lambda } ^ { \infty } x ^ { m } . } \end{array}
+$$
+
+Therefore, we have
+
+$$
+\begin{array} { r } { | \mu | \| x \| _ { l ^ { 2 } } ^ { 2 } = \| x \| _ { l ^ { 1 } } ^ { 2 - m } | \mathcal { H } _ { \lambda } ^ { \infty } x ^ { m } | \leq M ( \lambda ) \| x \| _ { l ^ { 2 } } ^ { 2 } , } \end{array}
+$$
+
+and then,
+
+$$
+| \mu | \leq M ( \lambda ) .
+$$
+
+This completes the proof.
+
+When $\lambda = 1$ ，the following conclusion of infinite dimensional Hilbert tensor is easily obtained.
+
+Corollary 3.4. Let $\mathcal { H } _ { \infty }$ be an mth-order infinite dimensional Hilbert tensor. Then for all （204号 $Z _ { 1 }$ -eigenvalue $\mu$ of $\mathcal { H } _ { \infty }$ ，
+
+$$
+| \mu | \leq \pi .
+$$
+
+Remark 3.1. (i) In Theorem 3.1, the upper bound of $Z _ { 1 }$ -eigenvalue of $\mathcal { H } _ { \lambda } ^ { n }$ are showed. However the upper bound may not be the best. Then which number is its best upper bounds?
+
+(ii) In Theorem 3.3, the upper bound of $Z _ { 1 }$ -eigenvalue of $\mathcal { H } _ { \lambda } ^ { \infty }$ are showed for $\lambda > 0$ ，then for $\lambda < 0$ with $\lambda \in \mathbb { R } \setminus \mathbb { Z } ^ { - }$ ， it is unknown whether have similar conclusions or not. And it is not clear whether the upper bound may be attained or cannot be attained.
+
+# References
+
+[1] A. Aleman， A. Montes-Rodriguez,A. Sarafoleanu， The eigenfunctions of the Hilbert matrix, Constr Approx. 36(2012), 353-374.   
+[2] K.C. Chang, K. Pearson, and T. Zhang, On the uniqueness and non-uniqueness of the positive Z-eigenvector for transition probability tensors， J. Math. Anal. Appl., 408(2013), 525-540.   
+[3] K.C. Chang, K. Pearson, and T. Zhang, Some variational principles for $Z$ -eigenvalues of nonnegative tensors, Linear Algebra Appl. 438(2013) 4166-4182.   
+[4] K.C. Chang, K. Pearson， and T. Zhang， Perron-Frobenius theorem for nonnegative tensors, Commun. Math. Sci. 6(2008) 507-520.   
+[5] H. Chen, L. Qi, Positive definiteness and semi-definiteness of even order symmetric Cauchy tensors J. Ind. Manag. Optim. 11(4)(2015),1263-1274.   
+[6] Man-Duen Choi， Tricks for Treats with the Hilbert Matrix， Amer. Math. Monthly 90(1983),301-312.   
+[7] H. Frazer, Note on Hilbert's Inequality, J. London Math. Soc. (1946) s1-21 (1): 7-9. [8] S.Fucik, J. Necas, J. Soucek and V. Soucek， Spectral Analysis of Nonlinear Operators, Lecture Notes in Mathematics 346, Springer-Verlag，Berlin，Heidelberg，New York, 1973.   
+[9] J. He, T. Huang, Upper bound for the largest $Z$ -eigenvalue of positive tensors, Appl. Math. Lett. 38(2014),110-114.   
+[10] J.He, Bounds for the largest eigenvalue of nonnegative tensors, J. Comput. Anal. Appl. 20(7)(2016)1290-1301.   
+[11] J. He,Y. M. Liu, H. Ke, J. K. Tian, X. Li, Bounds for the $Z$ -spectral radius of nonnegative tensors, SpringerPlus, 5(1) (2016),1727.   
+[12] D. Hilbert, Ein Beitrag zur Theorie des Legendre'schen Polynoms, Acta Mathematica (Springer Netherlands) 18(1894) 155-159.   
+[13] C.K.Hill, On the singly-infinite Hilbert matrix, J. London Math. Soc. 35(196O),17-29.   
+[14] A. E. Ingham, A Note on Hilbert's Inequality, J. London Math. Soc. (1936) s1-11 (3): 237-240.   
+[15] T. Kato, On the Hilbert Matrix, Proc. American Math. Soc. 8(1)(1957) 73-81.   
+[16] W. Li, D. Liu, S.W. Vong. $Z$ -eigenpair bounds for an irreducible nonnegative tensor, Linear Algebra Appl. 483 (2015) 182-199.   
+[17] L.H. Lim, Singular values and eigenvalues of tensors: A variational approach, in: Proc. 1st IEEE International workshop on computational advances of multi-tensor adaptive processing, Dec. 13-15, 2005, pp. 129-132.   
+[18] W. Magnus On the Spectrum of Hilbert's Matrix, American J. Math. 72(4)(1950) 699- 704.   
+[19] L. Qi, Eigenvalues of a real supersymmetric tensor, J. Symbolic Comput. 40(2005) 1302-1324.   
+[20] L. Qi, Rank and eigenvalues of a supersymmetric tensor, the multivariate homogeneous polynomial and the algebraic hypersurface it defines, J. Symbolic Comput. 41(2006) 1309-1327.   
+[21] L. Qi， Symmetric nonnegative tensors and copositive tensors, Linear Algebra Appl, 439(2013) 228-238.   
+[22] L. Qi, Hankel Tensors: Associated Hankel Matrices and Vandermonde Decomposition, Commun.Math. Sci. 13(1)(2015) 113-125.   
+[23] M. Rosenblum, On the Hilbert matrix I, Proc.Am. Math. Soc. 9(1958),137-140.   
+[24] W. Mei, Y. Song， Infinite and finite dimensional generalized Hilbert tensors, Linear Algebra Appl. 532(2017) 8-24.   
+[25] Y. Song, L. Qi, Infinite and finite dimensional Hilbert tensors, Linear Algebra Appl. 451 (2014) 1-14.   
+[26] Y. Song and L. Qi, Positive eigenvalue-eigenvector of nonlinear positive mappings, Front. Math. China, 9(1)(2014) 181-199.   
+[27] Y. Song and L. Qi, Spectral properties of positively homogeneous operators induced by higher order tensors, SIAM. J. Matrix Anal. Appl., 34(4)(2013) 1581-1595.   
+[28] Y. Song,L. Qi, Necessary and sufficient conditions for copositive tensors, Linear Multilinear Algebra 63(1)(2015),120-131.   
+[29] O. Taussky， A remark concerning the characteristic roots of the finite segments of the Hilbert matrix, Quarterly J. Math. Oxford ser., vol. 20(1949) 80-83.   
+[30] Y. Wang, K. Zhang, H. Sun, Criteria for strong H-tensors, Front. Math. China 11.3 (2016) 577-592.   
+[31] C. Xu, Hankel tensors， Vandermonde tensors and their positivities, Linear Algebra Appl. 491 (2016) 56-72.   
+[32] Q. Yang and Y. Yang, Further Results for Perron-Frobenius Theorem for Nonnegative Tensors II, SIAM. J. Matrix Anal. Appl. 32(4)(2011) 1236-1250.   
+[33] Y. Yang and Q. Yang, Further Results for Perron-Frobenius Theorem for Nonnegative Tensors, SIAM. J. Matrix Anal. Appl., 31(5)(2010) 2517-2530.

@@ -1,0 +1,872 @@
+[
+    {
+        "type": "text",
+        "text": "群智感知中基于社交属性及有效用户计算的任务分发机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨玉仁¹，张书奎‘²，龙浩¹，张力』",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．苏州大学 计算机科学与技术学院，江苏 苏州 215006;2.江苏省无线传感网高技术研究重点实验室，南京 21003)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着无线传感器网络的高速发展和多种移动智能设备的普及，移动群智感知(mobilecrowd sensing，MCS)成为移动计算的核心。利用群智感知可完成大规模、复杂环境及社会感知任务，其中任务分发是这种应用中的一个重要环节。针对任务分发过程中存在感知环境复杂、用户数量达不到要求、收集数据质量低等问题，提出一种基于社交属性及有效用户计算的任务分发机制(efective user calculation，EUC)，该机制具有根据任务来筛选用户的特点，从用户角度看，EUC考虑了用户的社会性，由用户的社交网络传递相关信息来增加平台的有效用户数；从平台的角度看，EUC可根据任务的接收和提交情况，动态调整有效用户的积分，从而保障整个系统的有效用户数。理论分析和实验结果表明，所提出的机制可提高系统的任务分发效率，并改善了收集数据的质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：群智感知；任务分发；有效用户；社交属性 中图分类号：TP393.07 doi:10.3969/j.issn.1001-3695.2018.01.0002 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Task distribution mechanism based on social attribute and effective user calculation in crowd sensing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Yuren1, Zhang Shukui1,²,Long Hao1, Zhang Li1 (1.SchoolofComputerScience&Technology,oochowUniversitySuzhouJiangsu21506,China;2.JiangsuHighTechology Research Key Laboratory for Wireless Sensor Networks,Nanjing210o03,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mobile Crowd Sensing (MCS)is the core of mobile computing with therapid development of wireless sensor networksand the popularity of mobile inteligent devices.The useof crowd sensing can be completed large-scale,complex environmentandsocialawarenesstasks,whichthetask distributionisanimportantpartofthisappication.Inordertosolvethe problem that theperceived environment is complex,the number ofusers can not meet therequirements andthe qualityof the collected data islow.we proposeataskdistribution mechanism (EUC)basedonsocial atributeand efectiveusercalculation. According tothetask toflter thecharacteristicsoftheuser,fromtheuserpointofview,EUCconsider theuser'ssocial,the user's socialnetworkthrough therelevantinformationto increase thenumberofefectiveusers;fromtheplatform pointofview, EUC according to thetask ofreceivingand Submit thesituation,dynamicalladjust the efectiveuser'spoints,thus esuring the effctive numberofusersof the entire system.Theoretical analysisand experimental results show that the mechanism proposed inthis paper can improve the task distribution eficiencyofthesystemand improvethe qualityofthecollected data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:crowd sensing; task distribution; effective users;social attributes ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着移动通信和感知技术的迅速发展，涌现出大量创新性的应用和服务，特别是智能手机的普及，将本文迅速带入物联网时代（Internetofthings，IoT)，使得对现实世界更全面、更大规模地感知各种物理对象和环境状况成为可能[1,2]。移动感知和移动互联网技术的进步触发了人们对日常携带设备(如智能手机、可穿戴设备等)或者车载传感器(如GPS)的研究来监测那些不能被单一节点独立检测到的大规模现象。大量诸如此类的移动终端组成了一个无处不在的、具有强大感知能力的移动无线传感器网络，它们内在的流动性使一种新的快速增长的感知模式成为可能，可随时随地地感知人及周边环境信息，这些设备可以通过移动互联网实现有意识或者无意识的合作，用以进行任务分发、数据收集、数据处理等操作,使得人们可以及时地获取自身及其所处环境的状况，如城市环境监测[3]、智能电网[4]、交通状况[5]、医疗保健[6]等，它们大大扩展了人类感知世界的维度，改变了人们感知世界的方式，开启了移动互联的新领域-移动群智感知和计算大门。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于群智计算中的节点是用户个人拥有，会跟随人们的日常生活经常移动，具有动态的、缺乏稳定的网络拓扑结构的特点。目前，许多研究关注节点的移动，试图根据某种特征建立相应的移动模型，从而可以采用一些规则预测节点所在的位置。可是，用户的移动是社会性的，预测节点的移动轨迹是一件非常困难和复杂的事情，在这种环境下很难将传感任务分发到指定的节点。同时，这种网络以数据为中心，并不关心数据是来自哪些节点，但是在目前的研究中，用户须提供相应的个人信息才能获得感知任务，例如：位置、时间、活动轨迹等一些列敏感信息，这些信息综合起来可以准确标志某个用户，这使得用户的相关隐私被暴露[7]，因此，为了大规模使用群智感知应用，用户的隐私保护是至关重要的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "群智感知的任务分发，具有代表性的是Bubble-sensing 模式[8]，该模式将任务信息登记在相关服务器上，移动到该区域的用户广播任务信息，接收任务后进行数据采集，为了保持存在任务传播者，该机制设置了一些静态性质的用户，持续传播任务信息。但该模式主要存在以下几个问题：(1)过分依赖用户间的相遇机会进行任务分发，由于用户的社会特征及其移动轨迹的不确定，用户不能及时获取任务信息，降低了任务分发速度；(2)用户间转发任务具有盲目性，导致任务的拒绝率比较高，而且也需要尊重用户的意愿，是否要接受任务推送；(3)分发任务时没有进行用户的区分，造成恶意用户提交低质量数据，导致污染最终的分析结果；(4)没有完善的奖励机制来促进用户的参与。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述问题，本文提出了一种基于有效用户计算的任务分发机制。重点在于提高任务分发过程的效率，主要贡献如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)加入了用户社交元素，使得用户接收到任务后通过社交网络通知满足条件的朋友加入系统，扩展了任务分发的方式，减少了系统开销，提高了系统的参与人数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)使用差分隐私机制使用户相关信息的泛化，确保用户隐私安全。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)提出一种反映有效用户状态的积分机制，根据用户的完成任务情况，自动更新用户的有效积分，作为执行下次任务时，筛选用户的依据，同时也可以屏蔽一些恶意用户的污染行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)提出一种有效的激励机制，促进用户的参与。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在当前的群智感知系统研究中，存在许多针对用户隐私保护、数据可信度、数据安全、奖励机制和数据传输效率等方向的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "典型的有文献[8]所提出的 Bubble-sensing 群智感知框架，该架构中把任务分发给一部分用户后，依赖于用户的移动性，转发给与他相遇的用户，这些用户可能在感知区域也可能不在，由于参与用户的社会性，其移动轨迹不确定，使得部分用户不能及时获取任务信息，无法在规定时间内完成任务，降低了任务的转发速度，甚至造成用户上传非感知地区的伪数据，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/40caa932c767e87c3701909d65731e5c3ed49890e4921ba0afea4aae979e7b91.jpg",
+        "img_caption": [
+            "图1Bubble-sensing 模式任务转发策略"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这种模式下的任务转发机制，主要有两种，一是用户经过感知区域，由感知区域的服务器进行任务推送。另一种是依赖用户的移动性，使得部分用户携带任务信息，从而进行任务转发，其转发过程主要包含四个阶段：任务分发、数据接收、数据处理和数据应用，这四个阶段依次进行，其中任务分发阶段的主要功能是感知应用平台将任务信息发送给指定区域内的能够获取感知数据的用户，再由这些用户将任务分发给随机遇到的用户。其框架如图2所示。可以看出，在该机制中，任务分发依赖于用户的移动性，而系统将任务信息分发给一部分用户，要靠这些用户的移动来传播任务，显然，这样做会造成任务时间过长而且数据质量得不到保障，使得有些人用非感知区域的伪数据来代替监测区域的数据上传到服务器，从而污染整个数据库。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/58b1cf856bcd288961dcfb439a9c5e863e124e0cc0462b36f997a69aea1106e8.jpg",
+        "img_caption": [
+            "图2Bubble-sensing 模式的任务分发架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[9设计了一种旨在保护移动传感系统中的数据请求者和数据提供者的隐私保护平台，该平台使用云上的移动代理，根据用户的位置隐私偏好，映射移动用户到外部世界。这种结构使得用户可以从感兴趣的地理区域寻找数据。数据请求者在整个过程中都匿名，而且这些数据提供者证明他们是平台的合法用户，不论数据请求者还是数据提供者都有着良好的隐私保护，但是没有考虑到数据转换的效率，所提出的隐私保护方案，需要消耗大量资源来换取隐私安全，所以该方案在实施过程中",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "需要大量资源来支撑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在文献[10]中，作者针对MCS系统提出了三个度量标准：作用、隐私和效率，并在三者之间寻求权衡，提出了一个灵活的优化框架，使得MCS平台可以和用户共同寻找上述三者之间的平衡点。由于上述问题的优化是NP难问题，该文献作者提出了几个优化算法来解决。合理的解决任务分配以及用户的隐私保护问题，而且做到了任务的高效推荐，这是该文献的亮点，但是并未考虑在数据传输过程中，数据的可信度问题，重点放在了如何权衡上述三者之间的方案讨论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[11讨论了感知数据量很大情况下的场景，考虑到请求者对获得的数据进行聚集和分析成为了一个困难问题的时候，尤其是当请求者是一个普通的智能手机用户或者是有着有限的存储和计算资源设备时。作者为MCS系统引入了第三方架构，在工作者和请求者之间实现云，以缓解资源有限请求者的存储与计算负担，同时也考虑了身份隐私和数据隐私的保护。通过该方案，请求者可以验证云端计算结果的正确性。通过利用云计算来解决庞大数据的分析与检索，但是该文没有讨论目前存在不可信云的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[12]也是借助云对数据进行分析和集合操作，当请求者进行集合操作时，用户的数据隐私和身份隐私得到很好保护。此外，请求者可以验证集合操作结果的正确性。作者还扩展提出的方案以支持数据预处理，在数据分析之前可以排除无效数据，增加了数据可信度。通过使用批量验证和数据更新方法，所提出的方案降低了计算成本。同时也解决了不可信云的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[13]提出了一种关于建立在信息融合基础上的隐私保护方案，利用假名机制去克服参与者密度低的漏洞。为了进一步处理匿名攻击，基于Paillier密码系统和非交互式零知识验证下，促进和改善解决方案框架，也涵盖了用户责任问题，实现了一个全面的 MCS 基础设施，在复杂场景中也可充分保护到用户的位置隐私，文献[14]中也有着类似的做法。文献[15]中提出了一种隐私保护架构，可以在真实的移动设备全面实施，具有较高的效率，实用性和可扩展性，促进了可信赖的MCS 应用的安全部署。文献[16]中，对参与环境感知的用户提供激励，通过适度的付款，以增加参与用户的数量，通过应用需求和供应变化的关系，决定感知数据的价值。分析感知频率、传感点远近和用户的偏好等影响他们的感知动机的因素。研究表明在传输距离少即有适当报酬的情况下，人们会积极地参与感知任务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述文献都是针对MCS中较为普遍的问题进行了一系列的探讨，并提出了相应的解决框架。本文主要关心的是群智感知系统中任务分发的问题，目前存在两种任务分发模式，直接转发与间接转发，直接转发是采取一对多的方式由平台向监测区域内的用户分发信息。文献[17,18]就是这种模式提出了相应的任务分发机制，但各自缺点也很明显，要么没有考虑到用户的情景信息，要么对MCS服务器的性能要求极高。间接转发模式是采取一对少的方式，服务器将任务信息先分发给少数的代理用户，然后再由代理用户来转发扩散。文献[19基于这个模式提出了一些任务分发机制，但是在任务分发准确性上以及分发开销之间没有取得很好地平衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出的任务分发模式，介于直接模式与间接模式之间，即半间接分发模式，即任务只能由系统发布给注册用户，由注册用户通过社交网络转发给其他的用户，这样可以保证用户在接受到任务后，执行任务的可靠性更高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 EUC框架结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所提出的任务转发方法，充分考虑了用户的社交属性来提高转发速度，如图3所示。用户在完成指定任务并提交后可以利用自身的社交属性，通过社交平台转发任务相关的信息，加快了传播速度，有较好的及时性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将上述任务分发与数据收集分为以下几个阶段：用户注册、泛化注册信息、发布任务、注册任务、筛选用户、指定区域数据收集和数据粗糙过滤。上述几个部分每完成一次，更新有效用户的积分，并对效用户动态排名，其框架结构如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a3db172363ee25f2379259658fbbd095774e044f99e36543eaf14798604393b.jpg",
+        "img_caption": [
+            "图4EUC框架的任务分发模式"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）用户注册。由于Bubble-sensing机制不能很好解决用户的隐私保护问题，考虑在感知任务执行前，用户需要自身将信息注册到系统所认同的第三方代理，需要提交唯一标志信息，例如手机号，身份证等。第三方代理运用差分隐私机制[20.21]，使得用户是否向系统服务器提交信息的事实不会改变该用户在服务器的关联关系，这样，恶意用户无法从多次任务执行中来追踪或者推断出其他用户的身份信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)泛化注册信息。将用户的信息根据各种指标进行泛化分类，生成一个毫无关联性的用户列表，分类完成后用户列表转交给服务器。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）发布任务。大部分群智感知应用都是任务请求者拥有自已的服务进行任务分发，但本文中提出的是服务器与任务请求者分开，这样可以降低任务请求者的执行任务成本，确切说，MCS服务器也相当于一个第三方代理，任务请求者把任务内容发送给MCS服务器即可，每个任务都包含用户列表。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d）注册任务。用户信息泛化注册到MCS平台，当用户登陆到平台后，首先获取地理位置，平台根据其地理位置以及有效积分来选择是否推送任务。如果系统给用户推送任务消息，用户会被注册到任务的用户列表中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e）筛选用户。这个阶段，MCS服务器根据历史表现计算用户的有效积分，并据此筛选任务分发给合适的用户，这里用户的积分根据其执行任务的表现动态更新。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)数据收集。为了防止一些恶意用户利用非感知区域的数据来代替感知任务所需的信息，需要对用户的地理位置进行监测，用户一旦离开监测区域，要求立刻停正数据采集，而且监测区域外的用户无法获取感知任务信息，杜绝用户以假乱真的行为。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g）数据过滤。用户收集的数据上传到MCS平台的一个中间数据处理服务器，即粗糙数据过滤器，过滤掉明显的错误信息，并对提交这些数据的用户进行标记，再把用户与数据提交给MCS平台处理，从一定程度上保证了数据质量，也减轻MCS服务器的压力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 问题描述与相关定义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1问题描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "群智感知网络的任务分发机制解决的主要问题是感知平台如何将任务信息分发给指定监测区域内能收集感知数据的移动用户，即有足够的用户去上传可靠的数据，使得任务高质量的完成，在研究中本文发现主要存在以下问题需要解决：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）用户在移动过程中，用户的移动具有随机性，仅依赖用户的移动性进行任务信息分发，很大程度上限制了任务的传播能力，更重要的是，这种转发方式不但影响分发速度而且未考虑用户执行任务的效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b）需要对用户执行任务的效果进行动态评估，否则，平台中可能会存在部分恶意用户，这些用户的感知数据影响了分析结果的可信度，还造成了一些不必要的开销。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为解决上述问题，提出一种半间接的任务分发模式，这种模式基于本文提出的一种有效用户计算机制EUC(effective usercalculation)，参与任务分发的用户依靠自己的社交网络，将任务信息有目的性地发送给自己熟悉并且符合条件的用户，减少了分发时间，关键是提高了任务分发的质量，根据当前用户完成的情况对有效用户进行动态评估，使得在下次任务中筛选到合适的用户。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2相关定义 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "下面定义所提算法中出现的一些概念。设某监测地区有任务T至少需要 $N _ { 1 }$ 个用户来完成，完成该任务后可获得酬劳为",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$P _ { t }$ ，给出的一些定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义1有效积分Q，用户获取任务的评价依据。初始情况下，新注册用户的有效积分都为 $\\mathrm { \\sf { Q } } _ { 1 }$ ，后期根据用户完成任务情况动态更新，排名越靠前，被分发到任务的的可能性就越高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义2提交接受率 SAR（submit and accept rate），当用户向系统上传数据并被接受，由SAR来描述该过程。设当前某任务需要 $N _ { 1 }$ 个用户接收感知任务，最后只有 $N _ { 2 }$ 个用户的数据可以被MCS服务器接受，则",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S A R } = \\ N _ { 2 } / N _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义3动态酬劳R（reward)，在执行任务过程中，消耗了用户的部分资源，不是所有人都愿意无条件付出，适当的奖励机制，可促进用户参与活动。基于上述的提交接收率，用户获得的酬劳定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { R _ { \\lambda } } = P _ { \\mathit { t } } { \\times } S A R\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义4时间窗，为了保证平台获取数据的及时性，为每个任务都设定一个时间窗口进行限制，即[ $S _ { i } , E _ { i } ]$ ， $S _ { i }$ 表示任务的开始时间， $E _ { i }$ 表示任务结束时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义5任务列表TL（TaskList)：任务分发根据地理位置进行，每个有效用户在某地理位置都有一个这样的列表，其主要属性有用户标志、时间点、位置信息、任务性质等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义6冷采集，用户在某个位置首次执行任务，TL表为空，此过程为冷采集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义7热采集，用户在该位置历史上执行过感知任务，TL 表不为空，该过程为热采集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从上述定义可以看出，SAR可能会超过1，即任务要求 $N _ { 1 }$ 个用户，却有超过 $N _ { 1 }$ 个用户去执行，因此，设定SAR最大为1，超过1按照1来计算。可以看出如果大于1，说明执行任务的用户已经超过了预期设定人数，在数据最后的处理上，数据的可靠性会有所提高而且有更多的选择，可以做到优取差弃。这样SAR值也可以看做数据质量纯度的近似反映。用户所获得的酬劳与用户完成任务直接关联，运用这一机制，可来促进用户使用社交平台来通知更多的人参与活动，但是为了保证任务发起者适当的成本，奖励设有任务的数量上限，因此SAR最大为1，可以保证用户收入为 $P _ { t }$ ，从而控制运营成本。针对一些实时性很强的任务，通过时间窗口对任务完成的实时性进行控制，例如，某时段某路口交通的实时情况，对时间要求就很高，需要设定时间窗口。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 社交属性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文核心思想就是将用户的社交属性纳入到群智感知中，可充分利用每个用户的朋友关系，实现任务信息的快速传达，从而使感知任务被按时完成。下面对用户的社交属性进行分析，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在图5中，用户 $A _ { I }$ 接收到任务信息，通过社交网络把任务信息转发出去，符合任务条件的用户 $A _ { 2 }$ 、 $A _ { 3 }$ 、 $A _ { 5 }$ 、 $A _ { \\delta }$ 收到该信息，然后接收到任务的新这些用户利用社交网络再一层一层的传递下去，形成一个依赖朋友关系的传播网络。当用户接收到任务并完成后，系统会分发给用户一个任务邀请码，邀请码的使用次数有限，这个限制可以根据具体任务来自确定。不可以让用户无限制的转发任务信息的原因，是为了防止一些恶意用户集聚一起，污染上传数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe57bd09c61cef33ff43c369c7dcca4a0584c5352c02eb8e4a6d13b23fe34ed3.jpg",
+        "img_caption": [
+            "图5社交属性"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对用户社交属性这种传播关系的描述，本文称之为\"社交关联度”。在图5中， $A _ { I }$ 的出度为4， $A _ { I }$ 的社交关联度量为4。$A _ { 5 }$ 没有出度，只有来自 $A _ { \\delta }$ 与 $A _ { I }$ 的入度，由于每个用户执行任务都有一个邀请码，如果 $A _ { 5 }$ 使用了 $A _ { I }$ 的邀请码，则 $A _ { 6 }$ 的这条边无效。从图中可知 $A _ { \\delta }$ 的出度为2，入度为1， $A _ { \\delta }$ 的社交关联度量为1。表1显示图5中用户的社交关联度的值。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff3b6e6b58c2f4bb933bf3c6222ac55ffd20849acba94ca7d02410e915d751ba.jpg",
+        "table_caption": [
+            "表1用户的社交关联度表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户</td><td>出度</td><td>入度</td><td>关联度</td></tr><tr><td>A1</td><td>4</td><td>0</td><td>4</td></tr><tr><td>A2</td><td>0</td><td>1</td><td>0</td></tr><tr><td>A3</td><td>1</td><td>1</td><td>1</td></tr><tr><td>A4</td><td>0</td><td>1</td><td>0</td></tr><tr><td>A5</td><td>0</td><td>2</td><td>0</td></tr><tr><td>A6</td><td>2</td><td>1</td><td>1</td></tr><tr><td>A7</td><td>0</td><td>1</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "邀请码的使用次数有限制，具体值由相应的任务来决定，可使用生成一个10以内的随机数来实现。用户可根据这个随机数有选择的传播任务信息，但传播次数不可以超过该限制数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 解决方案与算法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本节中，本文详细解释所提出的算法，首选考虑基于有效用户筛选的贪婪算法。初始情况下，设MCS系统接收到任务发起者的任务 $T$ ，需要 $N _ { 1 }$ 个用户来执行感知任务，新注册用户 $U$ 的积分为 $Q _ { I }$ ，任务列表为TL，存在少量用户。所设计筛选用户的贪婪算法，可使哪些用户添加到用户列表 $L$ 中，算法如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Algorithm1.GreedyAlgorithm for selectUser Input: T, $\\mathbf { Q } _ { 1 }$ ,TL, $\\mathbf { N } _ { 1 }$ ，U   \nOutput:L//用户列表   \n// initialization   \n1:MCS平台接收到任务首先作如下操作; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 \\colon L { < } \\mathrm { - } \\theta ;$ （204号",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3:if $\\scriptstyle \\mathrm { T L } = = \\varnothing$ then ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4:说明该位置未执行过任务，所有的用户均可加入到用户列表 $L$ ·，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5: else ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6: 说明该地理位置使用过，再做如下判断;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7: ifTL.Count $> N _ { I }$ then//TL.Count表示上次执行用户数字",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8:把TL表中前 $N _ { I }$ 个用户直接加入到L表中，剩下的TL.Count - $N _ { I }$ 个用户不加入到 $L$ 表中;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9: else10: 把TL表积分高于 $Q _ { I }$ 的用户全部加入到 $L$ 表中，去掉信用低用户;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11: endif   \n12: end if   \n13: while ${ \\cal Q } = = { \\cal Q } _ { I }$ do   \n14: $L < \\_ U ,$ //在时间窗内监听新注册进来的用户U   \n15: end while   \n16: TL $= L$ （204号 //重新覆盖TL表，作为下次筛选依据   \n17: return $L$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过上述提出的算法可以看出，MCS平台在接收到任务请求者请求发起一个任务的时候，MCS平台首先会检查该地区的任务列表 $T L$ 是否为空，即该地区是否执行过感知任务，其中$T L$ 表存放的是该地区历史上执行过感知任务的有效用户。若 $T L$ 表不为空，说明存在老用户，部分老用户是可以直接推送任务的。然后再判断TL表中用户数量与任务需求用户数量 $N _ { I }$ 相比较，当 $T L$ 表中用户数量小于任务需求用户数量 $N _ { I }$ 时，把 $T L$ 表中用户全部加入到可以执行任务的用户列表 $L$ 中。否则，根据一个新注册的用户有效积分 $Q _ { I }$ 来作为阈值，进行新老用户筛选。当每次有新用户加入时，会根据新加入用户有效积分进行任务用户筛选，做到及时更新任务列表 $T L$ 与用户列表 $L$ 。而对于那些有效积分不够的用户，对于本次任务则无权参加。考虑到任务发起者的成本问题，执行任务的用户数必须有个上限。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "筛选完用户后，把相应的任务发送给筛选出的用户，然后再根据用户完成任务情况，动态更新用户积分，提出了一个有效用户排序算法（dynamic ranking algorithm for effective user,DREU）算法来解决这个问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当某地区需要执行的任务 $T$ 完成后，返回用户任务列表TL，表中表明 $N _ { 1 }$ 个用户接受任务，执行任务并提交的有 $N _ { 2 }$ 个用户，设Q为有效积分增加片段， $L$ 为临时存放最终排序好的用户积分情况，下面是对TL每个用户 $U$ 进行有效积分更新的算法描述。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Algorithm2.Dynamic RankingAlgorithm forEffective User ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Input $\\because$ T,Q, Q'TL,N1,N2,U   \nOutput :TL   \n//initialization ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 $\\therefore \\mathrm { S A R } = N _ { I } / N _ { 2 }$   \n2:if $\\mathrm { S A R } > 1$ then $\\mathrm { S A R } = 1$   \n3: $\\scriptstyle U = \\mathrm { T L } \\longrightarrow$ first //获取 TL表中第一个用户  \n4: while $U ! =$ null do  \n5: ifU是否执行并提交任务then  \n6: $U . Q = U . Q + Q ^ { \\prime } \\mathrm { ^ * S A R ; } \\quad L { \\mathrm { < } } \\mathrm { - } U ;$   \n7: else  \n8: $\\mathrm { U . Q } = \\mathrm { U . } Q - Q ^ { \\prime } \\ ^ { * } \\ \\mathrm { S A R } ; \\quad L { \\mathrm { < } } \\mathrm { ~ - } U ;$   \n9: end if  \n10: $U = U { \\mathrm { - } } > \\mathrm { N e x t : }$ ：//获取下一个用户  \n11: end while  \n12: sort $( L )$ //基于有效积分对 $L$ 进行排序  \n13: TL $= L$ //排序好的 $L$ 在此覆盖TL表  \n14: return TL;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过上述提出的算法可以看出，用户有效积分动态计算，首先根据用户对任务完成情况下，计算提交接受率SAR，然后开始遍历任务列表TZ中的每一个用户，判断任务列表 $T L$ 中用户 $U$ 是否进行任务提交，如果进行任务提交，则对用户U有效积分进行增加。否则，进行扣减有效积分。有效积分增加或减少都是以提交接受率SAR与Q有效积分乘积为标准。从而使有效积分动态更新。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述算法中，充分利用了提交接受率SAR，用户积分主要根据每次任务的完成情况来实现更新，可以看出参与并执行完成任务的用户越多，SAR越大，证明采集到的数据越多，这对任务发起者来说有更多的选择。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在遍历TL表时，根据每个用户的完成情况动态刷新，接收到任务并完成，有效积分自然增加，而接受了任务没执行，则浪费了服务器的资源，要扣除有效积分。当用户提交数据后，粗糙数据过滤器进行检查，判断用户提交的数据是否存在问题，例如，要检测某个路段的噪声，某用户上传了一个200分贝，甚至更大的数据，这明显是恶意用户，此时服务器，对该用户进行标记，该用户在下一轮任务中不被选择。上述算法也可以看出有效积分的增长与数据纯度百分比有直接关系，每次有效积分的更新要根据当前用户完成任务情况，可防止有效用户积分虚高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 理论分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出的EUC机制，用户利用自身社交网络对任务间接转发，从某种程度上来说，用户的社交属性在一定程度上包含了相遇转发。例如，在某感知区域内收集的信息，以社交活动的形式邀请经过的人参与，这类似于相遇转发。将EUC机制与文献[8的BSD模式进行对比，通过理论分析说明本文方法的可行性，首先引入以下几个定义：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这其中引用了文献[22]中相关证明的方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)拒绝转发率 $P _ { r }$ ：用户之间相遇时，相遇的用户转发任务信息，但是接收到信息的用户，由于某些原因拒绝转发，称为",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "拒绝转发率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "b)任务执行率 $T _ { r }$ ：接收任务后，随着时间的推移，用户执行任务的意愿会发生变化，可能存在用户收到任务，但是没有足够的时间去执行。设任务时间窗[ti,t2]这个时间段完成时间为$T _ { l }$ ，采集信息时间为 $T _ { 2 }$ ，则任务可以执行时间 $T _ { r } = T _ { l } \\cdot T _ { 2 }$ ，任务执行率 $T _ { r }$ 为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { r } = \\frac { T - t } { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c)相遇率 $\\boldsymbol { P _ { m } }$ ：用户在指定区域与其他人相遇的概率，设某区域的感知任务需要 $N _ { 1 }$ 个用户，某用户在经过感知区域相遇了 $m _ { l }$ 个用户，相遇率 $\\boldsymbol { P _ { m } }$ 为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { m } = { \\frac { m _ { l } } { N _ { 1 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "d)社交通知率 $P _ { n }$ ：通过社交网络通知其他用户参与任务执行的概率，设某感知区域的感知任务需要 $N _ { 1 }$ 个用户去完成，通过社交网络通知 $n _ { I }$ 个用户参与，则社交通知率 $P _ { n }$ 为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { n } = \\frac { n _ { l } } { N _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定理1在进行任务分发时，与BSD 相比，EUC 具有更高的成功率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "证明由上述定义可知，BSD任务分发的成功率，主要取决于用户的移动性，其分发成功率可表示为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { B S D } ( t ) = \\frac { T - t } { T } \\times \\frac { m _ { I } } { N _ { 1 } } \\times P _ { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "而本文所提出的EUC机制中，任务的转发，不仅涉及到相遇转发，还要考虑用户的社交属性，转发成功率可表示为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { E U C } ( t ) = \\frac { T - t } { T } \\times \\frac { m _ { I } } { N _ { 1 } } \\times P _ { r } + \\frac { T - t } { T } \\times \\frac { n _ { I } } { N _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可以看出 $P _ { E U C } ( t ) > P _ { B S D } ( t )$ ，即在执行相同的任务以及在相同时间的条件下，本文提出的EUC机制分发任务具有较高的成功率。证毕。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定理2在相同用户数的情况下执行任务，与BSD 相比，EUC具有更快的速度将任务分发给用户。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "证明：设某用户在时间 $t$ 开始任务转发，根据上述定义从两个方面进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)上述证明可知，BSD任务分发的成功率：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { B S D } ( t ) = T _ { r } \\times P _ { r } \\times P _ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EUC机制任务分发的成功率：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { B S D } ( t ) { = } T _ { r } { \\times } P _ { r } { \\times } P _ { m } { + } T _ { r } { \\times } P _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对上述两式积分，即为在相同时间内，可以获得两种机制某用户转发给其他用户的数量。分别记为 $N _ { B S D }$ 、NEUC。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal N } _ { B S D } = \\int _ { 0 } ^ { T } P _ { B S D } d t = \\int _ { 0 } ^ { T } ( T _ { r } \\times P _ { r } \\times P _ { n } ) d t\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { E U C } = \\int _ { 0 } ^ { T } { P _ { E U C } d t } = \\int _ { 0 } ^ { T } { ( T \\times P _ { r } \\times P _ { m } + T _ { r } \\times P _ { n } ) d t }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "显然， $N _ { E U C } > N _ { B S D }$ ，即EUC机制中用户分发任务的能力",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "比 BSD 要好。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b)由第五节可知，提到了一个社交属性量化的名词社交关联度，即在用户接收到任务并完成后，用户可以通过社交方式把任务信息分发出去，本文设置社交关联度最大为10，所以可知，假设某任务有 $n$ 个人完成，在最理想的情况下，通过社交属性能召集到 $1 0 \\ast \\boldsymbol { n }$ 个人。当然这个情况几乎很难达到，但是最差的情况为召集到 $n$ 个人完成任务。所以克制一个任务完成人数 $N$ 的范围为。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathfrak { n } \\le N \\le 1 0 \\ast \\mathfrak { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可知，BSD方式主要依赖用户的随机移动进行任务转发，而在 EUC 中涉及到相遇转发只为任务转发其中一小部分，即BSD方式召集到人数，可以看做EUC最差的情况下召集到的人数。可知与BSD相比，EUC具有更快的速度将任务分发给用户。证毕。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定理3EUC机制的任务分发，用户上传的数据与BSD 相比，具有更高的可靠性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "证明该定理可以从三个方面进行证明。如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a)与 BSD相比，EUC机制中加入了时间窗和区域监测两种属性。对时间窗来说，提高了任务对时间的要求，在完成任务的时间上，更加严谨，对完成任务的时间范围有强行限制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "而区域监测，要求用户必须在指定区域内完成相关任务，对用户位置进行实时监测，杜绝了恶意用户使用非监测区域内的数据。可见在EUC机制中，用户所上传的数据可以做到在时间上与位置上的准确性。这是EUC机制下采集到的用户数据具有更高可靠性的第一层保障。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b)与BSD相比，EUC机制中针对用户提交的数据添加了粗糙过滤操作，针对用户所提交有明显错误的数据，直接过滤掉，并对该用户进行不可信任标记，这一过程中MCS平台具备自主学习的能力即会做到不断完善过的滤规则。所以一定程度上影响了前面所阐述的提交接受率(SAR)，对总的用户有效积分动态排名起到关键作用。经过粗糙过滤后的用户数据，这是可靠性的第二层保障。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "c)与BSD相比，EUC机制中任务分发根据地理位置进行，每个地理位置都维护一个任务列表(TL)，出现在 TL 表中的用户，表明该用户有着较高的可信度，且每次任务分发优先选取TL表中的用户进行任务转发。在EUC机制中，这是用户所上传的数据具有较高的可信度第三层保障。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由上面三点的证明，在时间与空间上的限制、数据粗糙过滤、优先选择具有历史记录上可靠性较高的用户，这些都是BSD 机制没有考虑到的部分。可见用户上传的数据与BSD 相比具有更高的可信度。证毕。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过上述的分析，可以看出，本文提出的框架在在用户招募速度、转发成功率和数据可靠性均优于BSD。在下面一节，将用实验证明本文提出机制的优点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 实验分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文实验使用ONE平台[23]，将本文所提出EUC机制与文献[8]的 Bubble-sensing 任务分发机制 BSD(Bubble-sensingdistribution)进行比较，在相同条件下比较二者在任务分发过程中，其任务分发速度以及效率等。然后对本文提出冷、热采集情况进行实验，对各项指标进行比较、分析。实验中任务时间分别设置为2、5和 $^ { 8 \\mathrm { h } }$ 任务，用户活动范围为 $2 8 0 0 \\times 2 8 0 0 \\mathrm { m } ^ { 2 }$ 在其中随机选取一任务监测区域，半径为 $1 5 0 \\times 1 5 0 \\mathrm { m } ^ { 2 }$ ，其他实验场景是一样的，情景如图6所示。该图为某一地区， $s$ 为中心的圆为任务收集监测区域，有若干个用户沿着相应的轨迹移动。依赖用户的移动性、社交属性等进行任务转发，下面对两种转发机制通过实验进行性能比较。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f873010f67a78ef7e5584eefadfb848ae5e812459e86c19bb4b33286776b962c.jpg",
+        "img_caption": [
+            "图6实验情景图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验1初始有2人携带任务信息，在活动范围内有 50 用户随机移动，要求招募这50名用户来采集该区域监测数据，2小时内完成。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b77bca47088b9602815095b315d73898edcbf48571e133c216d44dbca98ec34.jpg",
+        "img_caption": [
+            "图72小时任务BSD与EUC 冷采集比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图7可知，2小时任务中，在BSD机制的后期，任务传播依赖用户的移动，其速度趋势变小，而对于EUC机制来讲，任务的传播速度十分迅速，说明用户的社交属性在任务的传播中，确实起到至关重要的作用，短时间内呈现出爆炸式的扩散。通过图8可知，在EUC热采集中，保留着一部分高效的用户，当这些高效用户收到任务后，迅速把这些任务发送给其他人，可见EUC热采集分发任务的速度更快。从2小时任务实验可以看出，EUC机制的两种采集方式，其任务信息的传播速度明",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "显优于BSD。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/545a81a4e48b4106289e08bcdcf1682ff7d583199863a24470422e1ad302345b.jpg",
+        "img_caption": [
+            "图82小时任务中EUC中冷、热采集比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验2初始有5人携带任务信息，活动范围内有100用户随机移动，要求至少招募40个用户来采集该区域监测数据，5小时内完成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图9可知，招募用户数达到40个的时候，EUC机制分发任务耗时明显少于BSD，有大约 $45 \\%$ 的差距。其原因是BSD完全依赖于用户的相遇转发，特别是在任务分发初期，扩散程度十分低，由于EUC机制中涉及到用户的社交属性，以及为了获得更高的奖励，用户通过社交平台，通知符合条件的好友来共同完成，从而起到任务快速传播的效果。尤其是在达到任务要求的用户数后，用户数增长几乎线性趋势。但随着时间的推移，BSD与EUC几乎重合，是由于后期任务分发到达了瓶颈，携带任务的用户越来越多，很多用户已经携带了任务信息，传播相对较为困难。同时，由于时间的限制，也存在部分用户不愿意执行任务。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/88d3a689c704a0ab1952947843cf41e4833d14f89334b001602f07fde928aaff.jpg",
+        "img_caption": [
+            "图9用户招募时间对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "下面对EUC的冷采集与热采集两种方式进行分析。如图10 所示，在达到任务要求的用户数时，热采集比冷采集所用时间减少了大约 $33 \\%$ 。在冷采集过程中，由于该地理位置没有执行过感知任务，其用户列表为空，都是新用户来执行任务。而热采集时，由于该地区有过感知任务的历史记录，通过设定预定值，来选取部分历史用户直接发送任务，加快了任务分发速度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "下面讨论这三种机制招募人数的增长率。如图11所示，起初，每一情况都转发的较快，随着时间的推移，携带任务的用户数越来越多，任务扩散率都是从高到低，而BSD机制主要靠相遇转发来实现任务传播，另外两种机制相遇转发只是其中的一部分，主要靠社交属性来实现任务传播。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6645e09cee1b0f69b7bd55fb3c596b1fd05a295e96708c754cf625256b844b5.jpg",
+        "img_caption": [
+            "图10冷热采集用户招募时间对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/48d07390a598cca82ad227ef96fb186967c4e7c3b7b9be976c69bf83275ebfff.jpg",
+        "img_caption": [
+            "图11三种机制下任务扩散增长率"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可见，在前15分钟，提出的EUC机制下的冷热采集，在任务传播速度上呈现极快的增长，主要是因为EUC机制不单单只依赖相遇转发，还涉及到了接收到任务的用户可以利用自身社交属性，实现把任务快速传播出去。在15分钟后可见，三种机制分发速度都出现了快速下降的趋势，尤其是EUC热采集机制下降最快，其次EUC冷采集，这两种机制下降主要原因是用户人员数量上的限制，而BSD机制下降的速度最为缓慢，其下降主要原因是地理位置因素的影响。综上可以看出，EUC机制下的两种任务转发速度上相比BSD机制均有较大的优势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验3初始有5人携带任务信息，在活动范围内有 200用户随机移动，要求招募所有用户来采集某地段监测数据，8小时内完成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图12可知，针对较长时间的任务，任务的传播趋势基本与上述两种实验情况相同，前期用户的社交属性优势十分明显，后期由于满足条件用户的限制，传播速度明显降低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过三种实验情况证明结果来看，本文提出的EUC冷热采集与 BSD 机制采集方式可以看出，在达到相同人数的情况下，EUC冷热采集方式，可以在短时间内快速达到要求，时间上可以得到保证。在针对实时性要求很强的情况下，相比于BSD机制的分发方法，本文提出的任务分发机制有着较大的优势，因为EUC冷热采集机制在任务开始的较短时间内，招募用户速度十分迅速，从而满足了任务的实时性要求。综上三种实验情况，本文提出的EUC机制在招募用户速度或人数上的有效性十分显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ab0fd2ea15f698f589680dd26575558a4ece9a4f0263e7572754a943a14f5ed.jpg",
+        "img_caption": [
+            "图128小时任务中BSD与EUC 的冷采集比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8 结束语",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于社交属性的有效用户积分动态更新的任务分发机制，首先通过用户的社交属性，能在短时间内为任务数据采集迅速召集大量用户，完成过程中，再利用提出的两个算法，用户选择贪婪算法和有效用户排序算法，根据本文提出的用户选择贪婪算法，选出部分可信度较高用户进行任务数据采集和任务转发，然后再根据用户完成后的情况使用提出的有效用户排序算法来动态更新每个用户的有效积分，再更新到每个任务列表中。从而提高用户完成任务效率、减少任务分发时间以及降低通信开销，进而提高移动群智感知任务中任务分发机制的可用性。针对后续的研究，可以考虑用户的数据验证方面的探索。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Stojmenovic I.Keynote 1: Mobile cloud and green computing[J].Procedia Computer Science,2012,10:18-19.   \n[2]刘云浩．群智感知计算．中国计算机学会通信,2012,8(10):38-41.   \n[3]Branch J, Szymanski B,Giannella C,et al. In-network outlier detection in wireless sensor networks [J]. Knowledge & Information Systems,2013,34 (1): 23-54.   \n[4]Gungor V C,Lu B,Hancke G P.Opportunities and challenges of wireless sensor networks in smart grid[J].IEEE Trans on Industrial Electronics,2010, 57 (10): 3557-3564.   \n[5]Costa P,Coulson G,Gold R,et al. The RUNES middleware for networked embedded systems and its application in a disaster management scenario [C]//Proc of IEEE International Conference on Pervasive Computing and Communications.Washington DC:IEEE Computer Society,20o7: 69-78.   \n[6]Baldus H,Klabunde K,Müisch G.Reliable Set-up of medical body-sensor networks [M]// Wireless Sensor Networks.Berlin: Springer Heidelberg, 2004:353-363.   \n[7]Wang Y,Huang Y,Louis C.Respecting user privacy in mobile crowdsourcing[J]. Science,2013,2(2):1-15.   \n[8]Lu H, Lane N D,Eisenman S B,et al.Fast track article:Bubble-sensing: binding sensing tasks to the physical world [J].Pervasive & Mobile Computing,2010,6(1): 58-71.   \n[9]Krontiris I, Dimitriou T.Aplatform for privacy protection of data requesters and data providers in mobile sensing [J]. Computer Communications, 2015, 65 (C): 43-54.   \n[10] Gong Y,Wei L,Guo Y,et al.Optimal Task recommendation for mobile crowdsourcing with privacy control[J].IEEE Internetof Things Journal, 2016,3 (5): 745-756.   \n[11] Zhuo G,Jia Q,GuoL,etal. Privacy-preserving verifiable data aggregation and analysis for cloud-assisted mobile crowdsourcing [C]// Proc of IEEE International Conference on Computer Communications.2016: 1-9.   \n[12] Zhuo G, Jia Q,Guo L,etal. Privacy-preserving verifiable set operation in big data for cloud-assisted mobile crowdsourcing [J]. IEEE Internet of Things Journal,2017,PP (99):1-1.   \n[13] Chen Jianwei,Ma Huadong,Wei S L,et al. Participant-density-aware privacy-preserving aggregate statistics for mobile crowd-sensing [C]// Proc of IEEE International Conference on Parallel and Distributed Systems. 2015: 140-147   \n[14] Gisdakis S,Gannetsos T,Papadimitratos P.Securityprivacyandinentie provisin for mobile crowd sensing systems [J]. IEEE Internet of Things Journal, 2016: 839-853   \n[15] Thepvilojanapong N, Zhang K, Tsujimori T,et al.Participation-aware incentive for active crowd sensing [C]//Proc of International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing. 2014: 2127-2134.   \n[16] Dwork C,KenthapadiK,Mcsherry F,etal. Our data,ourselves: privacy via distributed noise generation [C]// Proc of International Conference on the Theory and Applications of Cryptographic Techniques.20o6: 486-503.   \n[17] Shin M,Cornelius C,Dan P,et al.AnonySense:a system for anonymous opportunistic sensing[J]. Pervasive & Mobile Computing,201,7(1): 16- 30.   \n[18] Tathagata D,Prashanth M,Venkata N.PRISM: platform for a remote sensing using smartphone [C]//Proc of the 8th International Conference on Mobile Systems,Applications,and Services.2010: 63-76   \n[19] Tuncay G S,Benincasa G,Helmy A.Autonomousand distributed recruitment and data collection framework for opportunistic sensing [J]. ACM Sigmobile Mobile Computing &Communications Review,2012,16 (4): 407-410.   \n[20]刘媛妮，李丽．基于社交性的移动群智感知网络自适应任务分发机 [EB/OL].北京：中国科技论文在线[2016-01-18].htp://ww.paper. edu. cn/releasepaper/content/201601-492.   \n[21] Ari K,Jorg O, Teemu K. Theone simulator for DTN protocol evaluation [C]//Proc of the 2nd International Conference on Simulation Tools and Techniques. 2009. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

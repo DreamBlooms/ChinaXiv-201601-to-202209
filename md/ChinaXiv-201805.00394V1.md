@@ -1,0 +1,260 @@
+# 协同业务过程的随机行为分析方法
+
+赵莹1，潘华²，孙金艳²，莫启³，代飞4?
+
+(1.云南电力调度控制中心，昆明 650011;2.云南云电同方科技有限公司，昆明 650217;3.云南大学 软件学院，昆明650091;4．西南林业大学 大数据与智能工程学院，昆明 650224)
+
+摘要：参与组织随机行为是评价业务协同有效实施的一个关键因素。结合进程代数和马尔可夫链，提出了一种协同业务过程的随机行为分析方法。首先，使用有限状态自动机建模每个参与组织的业务过程，并通过引入异步消息通信，建模参与组织间的协同业务过程；其次，将参与组织业务过程和对应的协同业务过程转换成由通信顺序进程进程（communication sequential process，CSP）定义的进程代数，并根据CSP 的操作语义，构造出协同业务过程对应的状态迁移系统；最后，引入正则化概念，从理论上证明正则化的状态迁移系统与一个齐次马尔可夫链相对应，根据平衡方程求得状态迁移系统中每个状态的稳定概率。通过马尔可夫链的分析技术，实现了对业务协同过程的随机行为分析。案例说明了所提方法的可行性和有效性。
+
+关键词：协同业务过程；异步消息通信；随机行为；CSP；马尔可夫链 中图分类号：TP311 doi:10.3969/j.issn.1001-3695.2017.09.0914
+
+# Approach to analyzing random behaviors of collaborative business processes
+
+Zhao Ying1,Pan Hua², Sun Jinyan², Mo $\mathrm { Q i } ^ { 3 }$ ,Dai Fei4? (1.Yunnan PowerDispatching &ControlCenter,Kunming 65ool1,China;2.Yunnan Yundian Tongfang TechnologyCo,Ltd, Kunming 650217,China;3.School of Software Yunnan University， Kunming 650091,China; 4.Schoolof Big Data& Intelligence Engineering Yunnan University,Kunming 650224, China)
+
+Abstract: Participant'srandombehavioris akeyfactor in evaluating effective implementationofbusinesscollboration.This paper proposes anapproach toanalyzing random behaviors ofcollaborative businessprocesses,based on processalgebra and Markovchain.Firstly,this methodusesafinite stateautomatontomodel each participant's businessprocess,andmodels the corresponding collaborative business processthrough asynchronous message communication between participants; Secondly, this method transforms each participant'sbusiness processand thecorrespondingcollaborative business process into process algebras defined by Communication Sequential Process (CSP)respectively,and constructs the state transitionsystemof the collaborative business processacordingtoteoperationsemanticsofCSP.Finall,thismethod proves thattheregularized statetransition systemcorresponds toa homogeneous Markov chain byintroducing theconceptofregularization,and the stability probabilityofeach state inthestate transition system isobtained acording totheequilibrium equation.Thus,our method can analysis therandom behaviors of colaborative business processs using the Markovchain’analyzing technique. The case study shows that our method's feasibility and effectiveness.
+
+Key Words: collborative business process;asynchronous message communication;random behavior; CSP; Markovchain
+
+# 0 引言
+
+电子商务[2]、供应链[3]以及应急处置系统[4]等。作为一种重要的业务协同使能技术，协同业务过程允许参与组织间共享各种能力（如计算能力、存储能力甚至是管理能力等)，以达到提高计算效率、降低实施成本的目标。然而，由于协同业务过程中涉及多个参与组织的业务过程，且这些过程间存在复杂交互关系。
+
+协同业务过程允许参与组织的业务过程间可进行交互和协作，以实现特定的业务目标[1。近年来，随着信息技术广泛应用，信息网络的广泛普及，已有大量的行业涉及业务协同，如为了避免业务实施过程中因设计错误导致的高昂维护成本，在设计阶段对其进行有效地建模和分析是当前业务过程管理（business process management，BPM）领域研究一个热点。
+
+针对协同业务过程，当前的研究工作主要围绕如何构建支持个性化特征的协同业务过程开展[56]。这些研究工作大多基于合理性，并结合建模方法，提出各自的逻辑结构正确性准则[7.8],用于判断构建的协同业务过程是否正确（如无死锁、不存在未接收消息等)。然而，这些工作仅局限于定性功能方面，均未涉及参与组织随机行为分析。事实上，参与组织随机行为影响协同业务过程能否实现既定的业务目标，是评价业务协同有效实施关键因素。
+
+为此，本文基于马尔可夫链相关理论[9]提出了一种协同业务过程随机行为评价方法。该方法首先将协同业务过程转换为并发组合的CSP[1]进程，并以此构建其对应的状态迁移系统LTS（LabelledTransitionSystem）[l1]；之后根据生成状态迁移系统构建对应的齐次马尔可夫链[9]；以马尔可夫链概率转移矩阵为基础，并结合平衡方程[9求得迁移系统中每个状态的稳态概率，从而实现对参与组织随机行为分析。
+
+本文主要贡献如下：
+
+a）提出了将协同业务过程自动转换为并发组合的CSP进程算法，结合CSP操作语义给出了构建协同业务过程状态迁移系统方法;b)提出状态迁移系统正则化概念，并从理论上证明正则化状态迁移系统等价为齐次马尔可夫链。以此马尔可夫链为基础，结合平衡方法提出参与组织随机行为评价方法；c)通过对某电力公司简化的电设备采购过程建模与随机行为分析阐述本文方法有效性。
+
+# 1 相关研究
+
+针对协同业务过程的分析，已有相关研究工作的报道。
+
+文献[12]采用工作流网WF-net（workflownet）[13]建模参与组织的业务流程，基于库所融合技术提出了IOWF（inter-organizationalworkflow）用于建模协同业务过程，并证明了IOWF也是工作流网。进而采用传统工作流网合理性定义协同业务过程逻辑结构正确性，即要求每个参与组织的业务过程是合理的且协同业务过程的展开也是合理的。之后一些研究工作基于该思想开展。考虑到协同业务过程具有复杂性，文献[7]认为单纯地应用Petri 网或进程代数均不能有效地建模协同业务过程，进而结合Petri网和Pi演算提出了一种协同业务过程建模方法。该方法采用Petri网建模参与组织的业务流程，使用Pi演算建模参与组织流程间的交互协议，提出了将本地业务流程与交互协议融合的映射规则。基于该建模方法提出协同业务过程逻辑结构正确性的定义，即要求每个参与组织本地流程是合理的，且使用Pi演算建模的交互协议能够约简为0进程。为了兼顾跨部门业务过程具有的特性，文献[8]在传统工作流网的基础上通过扩充消息、资源等要素，提出了一种资源消息工作流程网RM_WF_Net（resourceandmessageWF-net）用于建模参与组织本地流程，进而通过库所融合技术将所有参与组织的本地流程进行融合得到协同业务过程。基于建模得到的协同业务过程，提出了协同业务逻辑结构正确性标准，即在不考虑消息和资源的前提下，要求每个参与组织本地流程是合理性，在考虑消息和资源的情况下，协同业务过程中每个参与组织均可正常终止且协作中产生的消息的均被接收。文献[14]首先提出一种面向交互的Petri网模型IOPN（interaction-orientedPetrinets）来建模协同业务过程。IOPN由参与组织的本地流程和组织间的交互关系组成，进而基于弱合理性提出了验证协同业务过程逻辑结构正确性的标准。为了提高逻辑结构正确性验证效率，基于Petri网不变量思想提出了一种将IOPN分解为顺序图的方法，并给出了分解算法。然而，上述工作讨论内容仅局限于定性功能方面，均未涉及定量层面分析。
+
+在考虑协同业务过程定量分析方面，文献[15]首先使用BPMN来描述协同业务过程，之后将其BPMN模型转换成模型检测工具UPPAAL中的时间自动机网络（timed automatanetwork,TAN)，并采用时序逻辑 TCTL（time computation treelogic）描述互操作需求从而实现互操作自动检测。特别地，BPMN 模型中每个参与组织业务过程在TAN中对应一个时间自动机（timedautomata,TA)，这些TA并发组合构成了TAN，即协同业务过程。在后续工作中，为了更加有效地存储和描述互操作需求，文献[16]首先提出了一种领域描述语言用来描述互操作需求，继而将描述需求自动转换为时序逻辑TCTL，并采用TAN建模协同业务过程。通过UPPAAL实现互操作需求的自动验证。尽管文献[16-17]可实现与时序性质相关的定量分析，但均未涉及参与组织随机行为分析。
+
+# 2 基本定义
+
+构建协同业务过程的形式化模型是实现协同业务过程随机行为分析的前提与基础。本节对协同业务过程形式化建模进行讨论。
+
+业务过程作为构建协同业务过程的基本单元，被用来建模一个组织内部的业务流程。该业务流程刻画了组织内部任务间执行关系。由于自动机具有直观的图形化表示，任务执行可由状态迁移关系进行刻画以及可形式分析等优点，因此本文采用有穷自动机来建模业务过程。
+
+定义1业务过程。业务过程是一个五元组 $B P { = } ( S , i , o , R$   
+$O r g )$ ，其中：a） $s$ 是有限状态集合；b） $i$ 和 $\mathbf { \sigma } _ { o }$ 是两个特殊状态，分别表示业务过程开始状态和  
+终止状态;c） $R$ 是状态转换关系集合，对于任意状态转换关系 $r \in R$   
+可形式化定义为3元组 $\scriptstyle r = ( s _ { b } , a , s _ { e } )$ ，其中：(a） $s _ { b }$ 是该转换关系的起始状态；(b) $a$ 是引起该转换关系发生的任务；
+
+(c） $s _ { e }$ 是该转换关系的目标状态。
+
+d）Org表示业务过程所属组织，用于唯一标识一个组织。
+
+当组织的业务活动不再局限于组织内部的业务过程时，组织的业务过程就会超越传统的组织界限。此时，协同业务过程应运而生。基于异步消息通信，不同参与组织业务过程间的任务进行交互和协作就构成了协同业务过程。协同业务过程以业务过程定义为基础构建，在此之前先给出异步通信关系的定义。
+
+定义2异步通信关系。异步通信关系是一个三元组 $\scriptstyle a c = ( t _ { i } ,$ $t _ { j } , m s g )$ ，其中：
+
+a） $t _ { i }$ ， $t _ { j }$ 是存在消息传递关系的两个任务；  
+b)设 $t _ { i } , t _ { j }$ 所在的组织分别为 $O r g _ { i }$ 和 $O r g _ { j }$ ，且 $O r g _ { i } \neq O r g _ { j }$ c）msg是 $t _ { i }$ 及 $t _ { j }$ 间传递消息;  
+d） $t _ { i }$ 是产生消息msg的任务，而 $t _ { j }$ 是接收消息msg任务。
+
+本质上，异步通信关系规定了跨组织环境下发布在不同组织内的任务间存在的消息传递关系，刻画业务协同的交互过程。为了简化分析，本文约定若任务执行前需要接收外部消息，则该任务只接收一条消息；同时，若任务执行后发送消息，则该任务也只发送一条消息。
+
+在给出每个参与组织业务过程情况下，在此之上定义异步通信关系集合可得到协同业务过程，形式定义如下。
+
+定义3协同业务过程。协同业务过程是一个2元组$C B P { = } ( B P S , A C )$ ，其中：
+
+a） $B P S { = } \{ B P _ { 1 } , . . . , B P _ { n } \}$ 是参与协同的 $n$ 个业务过程;
+
+b） $A C$ 是异步消息通信关系集合。
+
+特别地，协同业务过程初始状态记为 $c _ { i } = ( i _ { 0 } , . . . , i _ { n } { > } ,$ $\forall j \in$ $\{ 1 , . . . , n \}$ ， $i _ { j }$ 为业务过程 $B P _ { j }$ 的开始状态；而协同业务过程终止状态记为 $c _ { o } = ( o _ { 0 } , . . . , o _ { n } >$ ， $\forall j \in \{ 1 \ , . . . , n \}$ ， $o _ { j }$ 为业务过程 $B P _ { j }$ 的终止状态。
+
+由协同业务过程中的异步信息通信关系集合 $A C$ 可定义协同业务过程中含有的所有消息、每个任务执行前需要接收的消息集合以及每个任务执行完成后发送消息集合。
+
+定义4协同业务过程消息集合。设 $\scriptstyle C B P = ( B P S , \ A C )$ 为某个协同业务过程，则 $C B P$ 含有的消息集合为 $M S { = } \{ m s g \mid \forall a c { = } ( t _ { i } ,$ （204号$t _ { j } , m s g ) \in A C \}$ 。
+
+定义5任务接收消息集合。设 $\scriptstyle C B P = ( B P S , \ A C )$ 为某个协同业务过程,则任务 $t$ 执行前需要接收的消息集合为 $R M { = } \{ \ m s g$ $\mid \bigtriangledown \ a c = ( t _ { i } , t _ { j } , m s g ) \in A C \land t _ { j } = t \mathclose { } _  \mathclose { \} } ^ { \ } \circ$
+
+定义6任务发送消息集合。设 $\scriptstyle C B P = ( B P S , \ A C )$ 为某个协同业务过程，则任务 $t$ 执行后发送的消息集合为 $S M { = } \{ \ m s g \mid \forall$ $a c = ( t _ { i } , t _ { j } , m s g ) \in A C \land t _ { i } = t \} _ { \circ }$ （204号
+
+# 3 协同业务过程的随机行为分析
+
+对协同业务过程的随机行为进行分析，分为四步进行：a)根据协同业务过程定义，构建其对应的状态迁移系统；b）根据状态迁移系统，构建对应的齐次马尔可夫链；c）求得马尔可夫链概率转移矩阵；d)根据平衡方程求得状态迁移系统中每个状态的稳态概率，以及稳态概率间的关系进而实现对参与组织随机行为的分析。
+
+针对如何构建协同业务过程对应的状态迁移系统，考虑到协同业务过程是一类典型开放系统，其行为由参与组织的业务过程和不同业务过程间的任务交互确定。而传统有限自动机仅能建模闭合系统，即系统的行为是完全可控，通过系统状态显示完整地确定[17]。因此，本文首先将每个参与组织的业务过程行为建模为一个CSP进程，进而协同业务过程行为可由每个参与组织业务过程对应的CSP进程的并发组合表示，基于CSP的操作语义[I]，构建协同业务过程状态迁移系统。下面先对CSP进行简要介绍。
+
+CSP是Hoare为解决并发问题提出的进程代数理论，用于描述并发系统中实体间基于消息通信行为。CSP中，进程表示并发中实际运行实体的单元，事件（动作）和进程是CSP中的两类基本元素，一个进程可用BNF定义如下：
+
+$P : = S t o p \mid S k i p \mid e  P \mid P \setminus X \mid P ; Q \mid P [ ] Q \mid P \Pi ~ Q \mid P | | Q \mid$ $P | | Q \mid P \Delta Q$
+
+上述 BNF 定义中，大写的 $P$ 和 $\varrho$ 表示进程；Stop 和 Skip分别表示进程死锁和进程成功完成； $e \to P$ 表示在执行事件 $e$ 后执行进程 $P$ ： $P \backslash X$ 表示将进程 $P$ 中属于 $X$ 的名字隐藏； $P ; Q$ 表示进程 $P$ 和 $\varrho$ 顺序执行； $P [ ] Q$ 表示进程 $P$ 和 $\varrho$ 外部选择执行； $P \Pi Q$ 表示进程 $P$ 和 $\varrho$ 非确定性选择执行； $P \| Q$ 表示进程$P$ 和 $\varrho$ 并发执行； $P \| \| Q$ 表示进程 $P$ 和 $\varrho$ 交错执行； $P \Delta Q$ 表示进程 $P$ 和 $\varrho$ 中断执行。
+
+有关CSP 的操作语义，行为等价理论等参见文献[10-11]。
+
+根据定义3描述的协同业务过程，下面给出算法1用于将每个参与组织业务过程转换为CSP进程。
+
+Algorithm1 generate CSP process for business process
+
+Input:business process $B P { = } ( S , i , o , R , O r g )$ ·
+
+Output: CSP process Pro for $B P$
+
+put $i$ into queue $\boldsymbol { \mathcal { Q } }$ put $i$ into visited queue $_ { V Q }$ while $Q . { \mathrm { s i z e } } > 0$ then $e l e m = \boldsymbol { Q } . \mathrm { p o l l } ;$ （20 for each $r$ in $R$ do//获取从elem出发的状态迁移 if $e l e m = r . s _ { b }$ then $S . \mathrm { a d d } ( r ) ;$ （20 end if end for if ${ \cal S } . \mathrm { s i z e } = = 0$ then $/ /$ 若elem为终止状态,则跳过 continue;
+
+# end if;
+
+if $S . \mathrm { s i z e = } 1$ then//直接构建CSP进程 $s _ { b } ( \boldsymbol { \mathbf { \rho } } )$ 并将其添加至Pro $r \mathrm { = } ( s _ { b } , a , s _ { e } ) = S .  \mathrm { g e t } ( 0 ) ;$ generate CSP process $s _ { b } ( \ r ) = a \to s _ { e } ( \ r )$ and add $s _ { b } ( \ v r )$ to $P r o$ if $_ { V Q }$ does not contains $s _ { e }$ then
+
+add $s _ { e }$ to $\boldsymbol { \mathcal { Q } }$ add $s _ { e }$ to $_ { V Q }$
+
+# end if
+
+end if
+
+if $S . \mathrm { s i z e } > 1$ then//若有多个分支，则构建选择关系进程 $s _ { b } ( \boldsymbol { \mathbf { \rho } } )$ 并将其 添加至Pro
+
+$$
+\operatorname { g e t } S = \{ r _ { 1 } { = } ( s _ { b } , a _ { 1 } , s _ { e 1 } ) , { \ldots } , r _ { k } { = } ( s _ { b } , a _ { k } , s _ { e k } ) \} ;
+$$
+
+generate $s _ { b } ( \ r ) = a _ { 1 } \to s _ { e 1 } ( \ r )$ []. $. . [ ] a _ { n }  s _ { e n } ( )$ and add $s _ { b } ( \ v u )$ to $P r o$ ：
+
+# end if
+
+# end while end for
+
+return Pro;
+
+算法1基本思想是针对每个业务过程 ${ \mathrm { B P } } \in { \mathrm { B P S } }$ ，采用广度优先搜索策略递归生成其对应的CSP进程表达式，即业务过程BP 进程表达式用开始状态i标识的进程表示。进程表达式中的每个事件对应一个任务。设业务过程BP的最大深度和状态迁移数分别为1和 $\mathbf { k }$ ，则算法1的最坏情况时间复杂度为 $\mathrm { O } ( \mathrm { l } \times \mathrm { k } )$ 。
+
+设 $C B P { = } ( B P S , ~ A C )$ 为某个协同业务过程，在根据算法1生成 $B P S { = } \{ B P _ { 1 } , . . . , B P _ { n } \}$ 中每个参与组织业务过程 $B P _ { i } ( 0 \leq i \leq n )$ （20对应的CSP进程后，将这些生成CSP进程并发组合从而得到协同业务过程 $C B P$ 对应的CSP 进程。
+
+定义7协同业务过程对应的CSP进程。设 $_ { C B P = ( B P S , A C ) }$ 为某个协同业务过程， $B P S { = } \{ B P _ { 1 } , . . . , B P _ { n } \}$ 且任意业务过程 $B P _ { i }$ （ $0 \leq i \leq n \}$ ）对应的CSP进程为 $P r o _ { i }$ ，则 $C B P$ 对应的CSP进程为 $C B P \mathrm { - } P r o \mathrm { = } P r o _ { 1 } \parallel \mathrm { \ldots } \parallel P r o _ { n } \mathrm { ~ } $ 。其中：‘ $^ { \ast } \parallel$ ”为CSP并发操作符。
+
+在确定 $C B P$ 对应的CSP进程后，为生成对应的状态迁移系统，还需要明确参与组织任务间交互。由于CSP中并不显示地支持消息发送动作和消息接收动作，故对于 $A C { = } \{ a c _ { 1 } , . . . , a c _ { n } \}$ 中任意异步消息通信 $a c _ { k } { = } ( t _ { i k } , \ t _ { j k } , \ m s g _ { k } )$ （ $0 \leq k \leq n )$ ，本文将 $t _ { i k }$ 和 $t _ { j k }$ 视为同一个事件，进而根据CSP操作语义可知，在交互过程中 $t _ { i k }$ 和 $t _ { j k }$ 将实现同步，以此来模拟 $t _ { i k }$ 和 $t _ { j k }$ 交互。这可通过对CSP进程中动作重命名来实现。
+
+定义8CSP 进程重命名。设 $P r o$ 为某个CSP 进程，记$P r o [ { \LARGE \{ a _ { 1 } , . . . , a _ { n } \} } _ { \{ b _ { 1 } , . . . , b _ { n } \} } ]$ .,b}]为将进程Pro中任意事件 bi重命名为$a _ { i }$ ，其中： $0 \leq i \leq n$ 。
+
+由 $C B P$ 中 $A C$ 可确定每个参与组织需重命名集合。
+
+定义9参与组织重命名集合。设 $P r o$ 为某个参与组织 $B P$ 对应的CSP进程，记 $f _ { n } ( P r o )$ 为进程 $P r o$ 所有事件集合，则 $P r o$ 需重命名集合为 $R N { = } \{ t _ { i } | \forall a c { = } ( t _ { i } , t _ { j } , m s g ) \in A C \land t _ { i } \in f n ( P r o ) \} \bigcup$ $\{ t _ { j } \ | \ \forall \ a c \mathrm { = } ( t _ { i } , t _ { j } , m s g ) \in A C \wedge t _ { j } \in f n ( P r o ) \} _ { \ \circ }$ （24号
+
+定义10重命名名字。设 $P r o$ 为某个参与组织 $B P$ 对应的CSP进程， $P r o$ 需重命名集合为 $R N$ 。 $\forall \ t \in R N$ ，设 $t$ 对应的异步消息通信为 $a c { = } ( t _ { i } , t _ { j } , m s g )$ ，则 $t$ 对应重命名名字为 $m s g$ 。
+
+在明确参与组织重命名集合RN和 $R N$ 中每个需重命名动作对应的重命名名字后，将 $R N$ 中的每个需重命名动作按照对应的重命名名字依次进行替换，从而得到可描述任务交互关系CSP进程，记为 $C B P  – P r o _ { r f \circ }$ 基于 $C B P \ – P r o _ { r f }$ ，并结合CSP操作语义可生成协同业务过程对应状态迁移系统。
+
+定义11协同业务过程的状态迁移系统。设 $C B P$ 为某个协同业务过程，其可刻画交互关系的CSP 进程为 $C B P  – P r o _ { r f }$ 则CBP状态迁移系统用一个标号迁移系统表示 $\scriptstyle { L T S = ( S , s 0 , A c t . }$ $R _ { ☉ }$ ，其中：
+
+a） $s$ 为状态有限集合；b） $s _ { 0 }$ 为迁移初始状态；c）Act为迁移动作集；d) ${ \mathrm { R } } \subseteq { \mathrm { S } } \times { \mathrm { A c t } } \times { \mathrm { S } }$ 为迁移关系集，表示因执行任务导致状态间迁移。在生成协同业务过程的状态迁移系统后，下面给出构建其对应齐次马尔可夫链的方法。
+
+定义12状态迁移系统正则化。设 $C B P$ 为某个协同业务过程， $C B P$ 状态迁移系统用一个标号迁移系统表示 $L T S { = } ( S , \ s _ { 0 } .$ $\boldsymbol { A } \boldsymbol { c } \boldsymbol { t } , \boldsymbol { R } )$ ，令 $\phi : R \to \mathbb { R } _ { \geq 0 }$ 为迁移关系到正实数映射关系，若 $\phi$ 满足如下三个条件：
+
+a）对于 $\forall \ : r \in R$ ， $0 \leq \phi \left( r \right) \leq 1$ b）对于 $\forall r \notin R$ ， $\phi \left( r \right) = 0$ c）对于 $\forall \ 0 \leq j \leq n , \quad \sum _ { j = 1 } ^ { n } \phi ( e _ { i j } ) = 1 \circ$ （20
+
+则称经函数 $\phi$ 对 $\_ L T S$ 正则化，记正则化后的状态迁移系统为 $L T S _ { r e g }$ 。
+
+定理1设 $C B P$ 为某个协同业务过程，经函数 $\phi$ 对 $\_ L T S$ 正则化得到的正则化状态迁移系统 $L T S _ { r e g }$ 是一个齐次马尔可夫链。
+
+证明要证明 $L T S _ { r e g }$ 是一个齐次马尔可夫链，关键是要明确由 $L T S _ { r e g }$ 可构造概率转移矩阵 $\pmb { M } { = } [ \ m _ { i j } ]$ ，满足定义12中的条件 $\mathbf { a } ) { \sim } \mathbf { c } ) ^ { [ 9 ] }$ 。由定义12可知, $L T S _ { r e g }$ 对应概率转移矩阵 $\pmb { M }$ 存在，从而可推出 $L T S _ { r e g }$ 是齐次马尔可夫链 $M C$ ，且概率转移矩阵 $\pmb { M }$ 为 $M C$ 的概率转移矩阵。
+
+在明确马尔可夫链概率转移矩阵后，根据平衡方程[13]可求得 $L T S _ { r e g }$ 中每个状态的稳态概率。设 $L T S _ { r e g }$ 中状态集合 $S { = } \{ s 1 , \ldots ,$ （204号$\left. s _ { n } \right\}$ ，其概率转移矩阵 $\pmb { M }$ ， $P { = } \{ p _ { 1 } , . . . , p _ { n } \}$ 为 $s$ 对应的稳定概率向量，则 $P$ 可由如下平衡方程式（1）求得。
+
+$$
+\left\{ \begin{array} { l l } { P M = P } \\ { \displaystyle \sum _ { i = 1 } ^ { n } p _ { i } = 1 } \end{array} \right.
+$$
+
+在参数化 $p _ { 1 } , . . . , p _ { n }$ 情况下，根据平衡方程式（1)求得的 $\forall$ $p _ { k }$ （ $0 \leq k \leq n$ ）是关于 $\{ p 1 , . . . , p _ { n } \}$ 中某些概率 $p _ { l }$ ( $0 \leq l \leq n \}$ ）的函数。以此函数为基础，进而可实现对参与组织随机行为分析。
+
+# 4 案例分析
+
+供应链是一类典型的业务协同系统，因此本文通过对某电力公司简化的电设备采购过程建模与随机行为来阐述本文方法有效性。该电设备采购过程包括三个参与组织：电网公司、电设备制造商和电设备配件供应商。其交互流程描述如下：
+
+a）电网公司首先向电设备制造商发送产品product订单请求（reqOrder)，电设备制造商根据product 确定该订购产品由自制件 $A$ 和外购件 $B$ 组成，于是电设备制造商根据当前自身情况决定是否接受该订购请求，存在随机性；
+
+b）若电设备制造商拒绝该订购请求（refOrder)，则交互过程结束；否则，电设备制造商通知电网公司该订购请求被接受（acpOrder)，并向电设备配件供应商发送配件 $B$ 采购请求(reqBOrder)，电设备配件供应商根据当前自身情况确定是否接受配件 $B$ 订购请求，存在随机性;
+
+c)若电设备配件供应商拒绝配件 $B$ 订购请求（refBOrder），则电设备制造商通知电网公司由于配件 $B$ 订购导致product订购失败（orderFailByBRef)；否则，电设备配件供应商接受配件$B$ 订购请求（acpBOrder)。但是，在实际生产过程中，电设备配件供应商能否按时完成配件 $B$ 生产存在随机性;
+
+d）若电设备配件供应商未能按时完成配件 $B$ 生产，则通知电设备制造商配件 $B$ 生产失败（mafBFail)，接着电设备制造商通知电网公司由于配件 $B$ 生产失败导致该product订购失败（orderFailByBMaf)，本次交互结束；否则，电设备配件供应商通知电设备制造商配件 $B$ 订单可以完成（doneB)。此时，虽然电设备配件供应商能够顺利交付配件B，但电设备制造商能否将自制件 $A$ 和外购件 $B$ 组装起来完成product存在随机性；
+
+e）若电设备制造商未能组装生产product，则向电网公司发送组装失败消息（orderFailByAsm)，本次交互结束；否则，通知电网公司顺利完成订单（orderSucc)，本次交互结束。
+
+（a）根据上述对电设备采购过程分析，可建模得到电网公司、电设备制造商和电设备配件供应商各自的业务过程，分别如图1所示。
+
+（b）以电网公司、电设备制造商和电设备配件供应商的业务过程为基础，整个电设备采购过程的协同业务过程定义为$C B P { = } ( B P S , A C )$ ，其中：
+
+$B P S { = } \{ B P _ { p o w } , B P _ { m a f } , B P _ { s u p } \}$ ， $B P _ { p o w }$ $B P _ { m a f }$ $B P _ { s u p }$ 分别为以自动机表示的电网公司、电设备制造商和电设备配件供应商的业务过程，如图1所示；
+
+$A C =$ {(sendReqOrder,recReqOrder,reqOrder),(sendRefOrder, recRefOrder,refOrder), (sendAcpOrder,recAcpOrder,acpOrder), (sendReqBOrder,recReqBOrder,reqBOrder)，(sendRefBOrder, recRefBOrder, refBOrder), (sendOrderFailByBRef, recOrderFailByBRef, orderFailByBRef), (sendAcpBOrder, recAcpBOrder, acpBOrder)，(sendMafBFail, recMafBFail, mafBFail), (sendOrderFailByBMaf, recOrderFailByBMaf, orderFailByBMaf), (sendDoneB, recDoneB, doneB), (sendOrderFailByAsm,recOrderFailByAsm,orderFailByAsm), (sendOrderSucc,recOrderSucc,orderSucc)} 。
+
+![](images/b2cef1a1f99f7f5c68cbd88c1311b927f6634e0f104c9c78c78f7c4b21121cdf.jpg)  
+图1参与组织的业务流程
+
+（c）根据算法1将 $C B P$ 中每个参与组织业务过程转换为CSP进程，并根据定义10对每个发送动作和接收动作进行重命名。电设备配件供应商对应的CSP进程如下。限于篇幅，电网公司、电设备制造商对应的CSP进程 $\mathrm { G } _ { 0 } ( )$ 和 $\mathbf { M } _ { 0 } ( )$ 没有列出。
+
+$$
+\mathrm { S } _ { 0 } ( \ r ) = \mathrm { r e q B O r d e r } \to \mathrm { S } _ { 1 } ( \ r ) ;
+$$
+
+$$
+\mathrm { \bf S } _ { 1 } ( \mathrm { \Delta } ) = \mathrm { a c p B O r d e r }  \mathrm { \bf S } _ { 2 } ( \mathrm { \Delta } ) ;
+$$
+
+$$
+\mathrm { S } _ { 2 } ( \mathrm { ) = m a f B F a i l  S _ { 0 } ( \mathrm { ) } [ \mathrm { ] \ d o n e B  S _ { 0 } ( \mathrm { ) } ; }  }
+$$
+
+将电网公司、电设备制造商和电设备配件供应商业务过程对应的CSP进程并行组合，并根据其操作语义生成的状态迁移系统LTS如图2所示。
+
+![](images/40acffae20af5cebcb3ee0ca62fb57df371c19c6b20c5b510e8a3580bb476f68.jpg)  
+图2协同业务过程对应的状态迁移系统
+
+针对协同业务过程中交互的随机性，设LTS中的acpOrder，acpBOrder，doneB 和 orderSucc 成功的概率分布为 $p _ { 1 }$ ， $p _ { 2 }$ ， $p _ { 3 }$ 和 $p _ { 4 }$ ，由此可构造得到LTS 对应的概率转移矩阵 $\pmb { M }$ 如下：
+
+根据平衡方程式（1）可求得节点 $p { \mathrm { 9 } }$ 的概率为 $p { \mathfrak { s } } =$ PP2P+PP2+3p,+2，即电网公司采购成功的概率。下面基于 $p \ L _ { 9 }$ 的概率着重讨论如何分析电设备制造商和电设备配件供应商对电网公司订单采购影响的大小。
+
+由于概率 $p _ { 1 }$ 和 $p _ { 4 }$ 反映电设备制造商行为特征，而概率 $p _ { 2 }$ 和 $p _ { 3 }$ 反映电设备配件供应商行为特征，故将率 $p _ { 1 }$ 和 $p _ { 4 }$ 归于一组，而将概率 $p _ { 2 }$ 和 $p _ { 3 }$ 归于另一组。首先在固定概率 $p { _ 2 }$ 和 $p _ { 3 }$ 的情况下，即令 $p _ { 2 } = p _ { 3 } = C ( C$ 为常数),令概率 $p _ { 1 }$ 和 $p _ { 4 }$ 为在区间[0.1,1]内取值，从而可得到节点 $p _ { 9 }$ 的一组值；然后，在固定概率 $p _ { 1 }$ 和 $p _ { 4 }$ 的情况下，即令 $p _ { 1 } = p _ { 4 } = C$ ( $C$ 为常数)，令概率 $p _ { 2 }$ 和 $p _ { 3 }$ 为在区间[0.1,1]内取值，从而可得到节点 $p { \mathrm { 9 } }$ 的另外一组值。通过比较这两组值的大小从而可得到电设备制造商和电设备配件供应商对电网公司订单采购成功影响大小。
+
+图3和4为 $C$ 取0.2和0.8时电设备制造商和电设备配件供应商对电网公司订单采购成功影响大小的曲线图。
+
+从图3和4中可以看出：
+
+当电设备制造商和电设备配件供应商业务处理能力较强，为0.8时（由常数 $C$ 取值决定， $C$ 越大表示处理能力较强)，设备配件供应商对电网公司成功采购订单影响大于电设备制造商，此时应提高设备配件供应商处理能力。而在电设备制造商和电设备配件供应商处理能力较弱，为0.2时，则设备制造商对电网公司成功采购订单影响大于设备配件供应商，此时应提高设备制造商处理能力。
+
+![](images/ec001ec8ae6fe68fdde792f4a228b11819e61723d56e0d88fb92c0d97f1a8066.jpg)  
+图3参与组织处理能力与采购成功率影响关系
+
+![](images/bc6fab9ea0044b77ddc168e7b9b110be78acdc793ed3ed2db053fa5378468aca.jpg)  
+图4参与组织处理能力与采购成功率影响关系
+
+通过该实例分析可得出如下结论：在明确了业务协同中参与组织对订单采购影响前提下，可以采取措施提高相应节点业务处理能力，进而达到提高业务协同可靠性和健壮性目标。
+
+# 5 结束语
+
+本文基于随机过程理论，提出了一种协同业务过程随机行为分析方法。该方法先将每个参与组织业务过程转换为CSP进程，进而将其并发组合得到协同业务过程对应的CSP进程，并由此为基础生成对应的状态迁移系统。给出了协同业务过程状态迁移系统映射为齐次马尔可夫链方法，进而可借助平衡方程分析得到每个状态的稳态概率公式，以此公式为基础可分析参与组织对业务协同影响，进而可采用相应措施提高节点业务处理能力，以达到提高业务协同可靠性和健壮性目标。
+
+本文的工作仅仅针对协同业务过程行为特征方面。事实上，业务协同能否可靠地执行还与其他一些因素相关，如需求不确定等，未来工作将首先考虑构建影响业务协同不确定的指标体系，进而将这些指标融合以更加准确、全面地对协同业务过程可靠性评价。
+
+# 参考文献：
+
+[1]代飞，莫启，林雷蕾，等.结合Petri 网和Pi演算的协同业务过程建模 [J]．计算机科学与探索,2015,9(6):692-706   
+[2]Yu Wangyang，Yan Chungang,Ding Zhijun，et al.Modeling and verification of online shopping business processes by considering malicious behavior patterns [J].IEEE Trans on Automation Science and Engineering,2016,13 (2):647-662   
+[3]Shahriari K,Hessami AG, Jadidi A,et al. An approach toward a conceptual collaborative framework based on a case study in a wood supply chain [J]. IEEE Systems Journal,2015,9(4): 1-10   
+[4]曾庆田，鲁法明，刘聪，等．基于Petri网的跨组织应急联动处置系统建 模与分析 [J]．计算机学报,2013,36(11):2290-2302   
+[5]王晶，胡昊，余萍，等.结合公共视图和对象Petri网的跨组织流程建模 [J].计算机科学与探索,2014,8(1):18-27   
+[6]代飞，莫启，林雷蕾，等．一种多视角的跨组织业务过程建模方法[J]. 计算机集成制造系统,2015,21(11):3001-3016   
+[7]Zhang L,Lu Y,Xu F.Unified modelling and analysis of collaboration business process based on Petri nets and Pi calculus [J].IET Software, 2010,4(5):303-317   
+[8] Zeng Qingtian,Lu Faming,Liu Cong,et al.Modeling and verification for cross-department collaborative business processes using extended Petri nets [J].IEEE Trans on Systems,Man,and Cybernetics: Systems,2015,45 (2):349 -362   
+[9]程玮琪，Huang Ximin,NgMK，等．马尔可夫链：模型、算法与应用 [M]．北京：清华大学出版社,2015   
+[10] Hoare.Communicating sequential processes [M]. London: Prentice Hall, 2004   
+[11] Sun Jun.Integrating specification and programs for system modeling and verification $[ \mathrm { C } ] / \hbar$ Proc of Title of Conference Theoretical Aspects of Software Engineering.2009,127-135   
+[12]AalstW.Modelingand analyzing interorganizational workflows[C]//Proc of the lst International Conference on Application of Concurrency to System Design.Washington DC: IEEE Computer Society,1998: 262-272   
+[13]Aalst W. The application of Petri nets to workflow management [J]. Journal of Circuits System& Computers,1998,8(1):21-66   
+[14]葛季栋，胡海洋，周宇，等．一种基于不变量的工作流协同模型分解方 法[J].计算机学报,2012,35(10):2169-2181   
+[15] Daclin N. Enabling model checking for collaborative process analysis: from BPMN to network of timed automata [J].Enterprise Information Systems,2014,9(3): 279-299   
+[16] Daclin N,Daclin S M,Chapurlat V,et al.Writing and verifying interoperability requirements:application to collaborative processes [J]. Computers in Industry,2016,82:1-18   
+[17]许可，王跃宣，吴澄．网格服务链模型的验证分析技术及应用[J]．中 国科学,2007,37(4):467-485

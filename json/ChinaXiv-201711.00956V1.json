@@ -1,0 +1,372 @@
+[
+    {
+        "type": "text",
+        "text": "水稻种植模式对水稻籽粒离子组的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙之敏 袁婧赵峥岳玉波 姚健 曹林奎 \\*\\*(上海交通大学农业与生物学院上海 200240)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要亚细胞、细胞、器官乃至有机体内所有矿质元素的组合称为离子组。离子组是植物化学元素指纹，能够定量、精准地反映环境因子驱动下植物体产生的无机化学响应。为探求不同种植模式对水稻籽粒离子组的影响，采用大田试验，研究比较了长期常规种植、绿色蛙稻和有机蛙稻3种水稻种植模式水稻籽粒中矿质元素含量的差异和元素间的相关关系，并探讨了土壤中可利用态元素向水稻籽粒中的转移效率。21种元素含量通过高通量元素分析电感耦合等离子体质谱仪(ICP-MS)测定，并利用主成分分析和方差分析等统计方法分别对数据进行综合分析和各元素处理间差异分析。结果表明，各元素在水稻籽粒中的浓度顺序为： $\\scriptstyle \\mathrm { K > P > M g > }$ Ca>Mn>Zn>Fe>Cu>Rb>Na>Ba>Mo>B>Ni>Sr>As>Cr>Cd>Se>Co>Cs。主成分分析结果表明，不同水稻种植模式对水稻籽粒离子组有显著影响，第1主成分占总变量的 $3 2 . 7 \\%$ ，区分了有机和绿色种植模式；第2主成分占总变量的 $2 7 . 1 \\%$ ，将常规种植模式和另外两种模式区分开。不同水稻种植模式对水稻籽粒离子组有显著影响。与常规种植相比，绿色蛙稻模式下籽粒第1主族元素K、Na、Cs、Rb含量显著增加 $21 \\%$ 、 $31 \\%$ 、 $59 \\%$ 、 $72 \\%$ ,Mn、Cd的含量显著增加 $23 \\%$ 、 $44 \\%$ ，B和 $\\mathrm { C r }$ 的含量显著降低 $63 \\%$ 和 $51 \\%$ ；有机模式下水稻籽粒中Co、Ni和Cd含量分别增加 $60 \\%$ 、 $2 8 6 \\%$ 和 $48 8 \\%$ ，而Ca、B、Mo、Sr 和 $\\mathrm { C r }$ 的含量显著降低 $3 8 \\%$ 、 $60 \\%$ 、 $20 \\%$ 、 $2 7 \\%$ 和 $96 \\%$ ，而同主族元素间的竞争并未发现。因此，从水稻必需元素吸收角度出发，绿色蛙稻种植模式优于有机和常规种植模式；但绿色和有机蛙稻种植模式对一些非必需元素的吸收也为水稻食品安全带来隐患。因此，科学的养分管理和合理种植结构的调整对保证水稻食品的安全有非常重要的意义和价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词水稻种植模式离子组水稻籽粒主成分分析食品安全中图分类号：S32 文献标识码：A 文章编号:1671-3990(2016)05-0600-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ionome of rice seed response to rice cultivation patterns ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHA Zhimin, YUAN Jing, ZHAO Zheng, YUE Yubo,YAO Jian, CAO Linkui (School of Agriculture and Biology, Shanghai Jiaotong University,Shanghai 2oo240,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe elementalcompositionof a subcellar compartment,cell,tissue ororganismis termed asionome,which involvesof allmineral elementsoflife,regardlessofcemical forms teseoccurInome is the inorganicchemical element fingerprintof plant thatquantitativelyand accuratelyreflects inorganic responseof plants to environment stimuli.Afield experiment was conducted toexplore the differences and corelations of mineral elements in rice seeds cultivated in conventional cultivation ecosystem,green rice-frog ecosystemandorganicrice-frog ecosystemunderlong-term management. The study alsodeterminedthe transportabilityofavailable elements fromsoiltoriceseeds toexplore thecorelationof elements between soil andrice seed.Theconcentrations of21mineral elements intherice samplesandsoil were determined usinghigh-throughput elemental analysis technology suchas inductively coupled plasmaoptical emisionand mass spectrometry (ICP-MS).Statistical method used to profile multi-elemental composition,and principle component analysis (PCA)to discriminate differences among treatments.Then ANOVA analysis was used to compare the differences among treatments for each element.Theresults showed theranked orderoftheconcentrationsof 21 elements inriceseeds was: potassium $\\mathbf { \\Psi } ( \\mathbf { K } ) >$ phosphorus $( { \\bf P } ) >$ magnesium $( { \\mathrm { M g } } ) >$ calcium $\\mathrm { ( C a ) > }$ manganese $\\left( \\mathrm { M n } \\right) >$ zinc $( Z \\boldsymbol { \\mathrm { n } } ) >$ ion $\\mathrm { ( F e ) > }$ copper $\\mathrm { ( C u ) } >$ rubidium $\\left( \\mathrm { R b } \\right) >$ sodium $\\mathrm { ( N a ) } >$ barium $\\mathrm { ( B a ) } >$ molybdenum $\\mathbf { \\Pi } ( \\mathrm { M o } ) >$ boron $\\mathbf { \\beta } ( \\mathbf { B } ) >$ nickel $\\mathrm { ( N i ) } >$ strontium $( \\mathrm { S r } ) >$ arsenic $\\mathrm { ( A s ) > }$ chromium $( \\mathrm { C r } ) >$ cadmium $( \\mathrm { C d } ) >$ selenium $\\mathrm { ( S e ) > }$ cobalt $\\mathrm { ( C o ) > }$ cesium (Cs).PCA analysis showed that ionome of rice seeds was significantly affected by different cultivation patterns. The fist component accounted for $3 2 . 7 \\%$ of the total variation, which separated organic rice-frog ecosystem from organic rice-frog ecosystem.The second component accounted for $2 7 . 1 \\%$ of thetotalvariation，which discriminated conventional cultivation system from theother twoecosystems.Compared with conventionalcultivation,theconcentrationsofK,Na,RbandCs(whichbelongedtothefirstgroupof theperiodic table),Mn and Cd in rice seeds significantly increased by $21 \\%$ ， $31 \\%$ ， $5 9 \\%$ ， $72 \\%$ ， $23 \\%$ and $44 \\%$ ，respectively,in green rice-frog ecosystem.On the contrary,B and $\\mathrm { C r }$ decreased by $63 \\%$ and $51 \\%$ under green rice-frog ecosystem.The concentrations of Co, Ni and Cd in rice seeds increased by $60 \\%$ ， $2 8 6 \\%$ and $4 8 8 \\%$ ,but Ca, B, Mo, Sr and Cr decreased by $3 8 \\%$ ， $60 \\%$ $20 \\%$ $2 7 \\%$ and $96 \\%$ under organic rice-frog ecosystem.However,no competition was observed among element pairs inthis study.Moreover, essential elements such as Zn, Cu and $\\mathrm { ~ \\bf ~ P ~ }$ had higher transportability from soil to rice seeds,while non-essential elements such as Na,Ba and Cs had lower transportabilityfrom soil to plant.Basedon nutrient element accumulationin rice,the study showedthat green rice-frog ecosystem wasbettr than both organic rice-frog ecosystem and the conventionalcultivation system.However,the uptake and accumulationofsome non-essential elements inrice seds under green rice-frog ecosystem andorganicrice-frog ecosystemalsoputricecrops and food securityatrisk.Terefore,itwas important toimprove existing knowledge on scientific management of nutrientsas wellas reasonable adjustment of planting structures to ensure food security. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsRice; Cultivated patern; Ionome; Rice seed; Principle component analysis (PCA); Food security ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水稻(Oryzasativa)是我国种植面积最大、总产量最高的粮食作物，对保障国家粮食安全具有重要作用[1]。稻米中除含有大量的碳水化合物、蛋白质和脂肪外，还富含矿物质如N、P、K、Mg和Ca等[2]。水稻在生长过程中会吸收植物必需的矿质元素以完成其生命周期，同时一些存在于土壤中的非必需元素也会被作物吸收，再经过植物体内运输、分配等最终在籽粒中沉淀，成为与食品安全息息相关的一部分。离子组学通过利用现代高通量的元素分析手段(如ICP-MS)来研究植物必需、非必需元素吸收和积累的机理，也能够反映生物体与外界环境的互作机制，在现代植物营养学、生态学和农产品安全等研究领域中都具有重要的应用价值[3-4]。近年来，绿色农业和有机农业兴起并日益成为我国现代农业发展的新方向。利用共生互利、生态位和食物链等生态学原理形成的种养结合的如“鸭稻共生”、“蟹稻共生”、“鱼稻共生\"和“蛙稻共生\"等农牧水稻生产模式，是我国水稻有机种植业可持续发展的重要组成部分[5-7]。国内外针对不同种植模式对植株内N、P、K等大量元素的影响开展了大量的研究。全国明等[8]研究表明，与传统化学农业相比，鸭稻共作种植模式能够增加稻米中Mn和Zn的含量。另外，有机种植模式能够显著提高土壤有机碳含量，并且可以降低土壤容重，动物粪便和尸体也有利于增加土壤中碱解氮、速效磷和速效钾的含量[6]。土壤环境的改变可以直接或者间接改变土壤溶液中元素的可利用性，进而促进或抑制植物的吸收[9]。种养结合模式的农田应用能够减轻化肥和农药的用量，并且一定程度上降低其对水体和土壤带来的污染，对农产品质量和环境安全有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前国内外离子组学的研究多集中于模式植物和可控的生长环境：Lahner等[3]利用离子组学方法，分析了包括野生型在内的大约13000个拟南芥(Arabidopsisthaliana)植株中的18种元素，并且分离到51个具有显著表型的突变体。Sankaran等[10通过对豆科模式植物百脉根(Medicago truncatula)的重组近交系Jemalong-6xDZA315.16的大量籽粒离子组的研究，结合复合区间定位法(CIM)，对其矿质元素吸收识别了46种QTLs，对研究的每种矿质元素都找到了至少1个位点。White等[1]利用英国洛桑长期定位试验研究了不同施肥方式对被子植物离子组的影响，认为环境和植物种类的交互作用是驱动植物地上部P、K、Ni、Cu和Fe变化的主要因素。目前对于自然农田生产条件下粮食作物离子组变化的研究鲜有报道，对粮食作物非必需元素、有害元素及其相互关系的研究还比较少[12-14]。基于此，本试验研究了有机蛙稻、绿色蛙稻和常规种植模式对水稻籽粒和土壤离子组的影响，并对水稻籽粒中必需元素、非必需元素及有害元素间的相互关系及其与土壤可溶性离子组间关系进行分析，研究结果对保证水稻产品安全和促进水稻田间管理、合理调节农业产业结构有非常重要的理论意义和应用价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于2004年5月开始在上海市青浦现代农业园区内进行 $( \\mathrm { E } 1 2 1 . 0 3 ^ { \\circ } , \\mathrm { N } 3 0 . 9 7 ^ { \\circ } )$ 。该地区属于典型的亚热带潮湿型季风气候，年平均气温 $1 5 . 6 ~ \\ \\mathrm { { ‰ } }$ ，年平均降雨量约1 $1 7 8 . 2 \\ \\mathrm { m m } _ { \\mathrm { c } }$ 、试验地土壤类型为湖沼相沉积物起源的青紫泥水稻土，质地重壤土。至2013年已连续9年实行夏季水稻-冬季紫云英(Astragalussinicus)的轮作模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验设置3种种植模式。1)有机蛙稻(OR)：水稻种植过程中全部施用有机肥和生物农药，并在稻田中放养虎纹蛙(Hoplobatrachu tigerinus)以控制稻田虫害，减少农药的使用，此模式已通过国家认证。虎纹蛙在6月30日放入田中，投放密度为2.5万只 $\\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ 此时蛙重20g左右，能够自行捕食田中昆虫，水稻收割前 $2 0 { \\sim } 2 5 \\mathrm { ~ d ~ }$ 捕获虎纹蛙。试验区前茬种植豆科绿肥紫云英，在9月中下旬套种于稻田，水稻田收割后对紫云英进行越冬管理，并且在次年4月底翻耕泡水腐熟， $6 7 . 5 ~ \\mathrm { \\ k g ( N ) { \\cdot } h m } ^ { - 2 }$ 全部还田作为稻田有机肥来源之一，并以菜籽饼 $9 4 . 5 ~ \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、桐籽饼$3 6 . 0  { \\mathrm { \\ k g ( N ) ^ { . } h m ^ { - 2 } } }$ 和生态有机肥“绿先机\"(南京绿先机生态科技有限公司提供) $5 1 . 8 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 做基肥，绿先机 $3 6 . 5 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 作为分蘖肥， $2 9 . 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 为穗肥。2)绿色蛙稻(GR)：施用有机无机混合肥，采用少部分农药和大部分的生物农药，稻田中放少量虎纹蛙，投放密度为1.5万只 $\\cdot \\mathrm { h m } ^ { - 2 }$ ，此模式也已经通过国家认证。上茬作物 $7 . 5 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 紫云英全部还田并以桐籽饼 $6 . 0 \\ \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和绿先机 $. 7 . 4 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 做基肥， $9 . 7 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 尿素作为分蘖肥， $2 . 8 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 尿素作为穗肥。3)常规种植(CR)：同农民常规种植模式施用化肥和农药；基肥施BB肥 $5 . 0 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，分蘗肥施BB肥 $7 5 . 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，穗肥施尿素 $1 5 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "田间小区面积1 $6 0 0 ~ \\mathrm { ~ m } ^ { 2 }$ ，每种模式4个重复，区组间随机排列。供试水稻品种为“花优 $1 4 ^ { \\dag }$ 。所有处理水稻均于每年5月28日—6月2日移栽，密度为$1 . 1 3 \\times 1 0 ^ { 5 }$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ,11月1—4日收获。所选试验地最初土壤性质相同，但均已分别进行了9a的试验处理(3种种植模式)，本试验水稻播前 $0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土壤基本理化性质见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca465a8beab2adb6b25326feeeee43e17a81296f07d0915581b13b5f1bc93cc6.jpg",
+        "table_caption": [
+            "表1试验前不同水稻种植模式中土壤基本性质",
+            "Table1Chemical properties of experimental soils of different rice cultivation patterns before the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种植模式 Cultivation pattern</td><td>pH</td><td>EC</td><td>有机质 Organic matter (g·kg-1)</td><td>总氮 Total N (g·kg-1)</td><td>有效磷 Available P (mg:kg-1)</td><td>有效钾 Available K (mg·kg-1)</td></tr><tr><td>常规种植 Conventional cultivated rice (CR)</td><td>7.3</td><td>0.14</td><td>18.8</td><td>0.91</td><td>13.4</td><td>101.0</td></tr><tr><td>绿色蛙稻 Green rice-frog (GR)</td><td>7.4</td><td>0.15</td><td>19.9</td><td>1.19</td><td>14.6</td><td>109.2</td></tr><tr><td>有机蛙稻 Organic rice-frog (OR)</td><td>7.5</td><td>0.19</td><td>25.1</td><td>1.35</td><td>16.8</td><td>127.2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 样品采集与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水稻种植前采集 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土壤样品用于土壤理化性质的测定；2013年11月水稻成熟期采取各小区籽粒样品，在 $8 0 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 烘至恒重后，将样品粉碎过筛，用于测定离子组。称取 $5 0 ~ \\mathrm { m g }$ 粉碎后的水稻籽粒样品放入消解管，加入 $60 \\%$ 硝酸(分析纯) $\\varGamma 2 \\mathrm { m L }$ 过夜，然后在DigiPREP消解仪(SCP Science,Quebec,Canada)上消解 $3 \\mathrm { ~ h ~ }$ ，之后加入 $. 0 . 5 ~ \\mathrm { \\ m L }$ 双氧水进一步消解，至溶液变为透明并剩余 $0 . 2 \\mathrm { \\ m L }$ 左右后室温冷却，最后用$2 \\%$ 硝酸定容至 $1 5 ~ \\mathrm { \\ m L }$ ，并用ICP-MS(ELAN,DRC-e;Perkin-Elmer,Waltham,MA,USA)测定K、 $\\mathbf { M g } .$ 、Ca、Mn、Fe、Cu、 $Z \\mathrm { n }$ 、B、Mo、Co、Na、Sr、Ba、Ni、Cd、Cr、Se、Cs、As和Rb含量。同时在各小区中间收取长势均匀的 $1 0 { \\sim } 2 0 ~ \\mathrm { m } ^ { 2 }$ 样方脱粒晒干后计产[15-16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水稻收获后，每小区取5个土样 $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ ，混合均匀后过 $2 ~ \\mathrm { m m }$ 筛并室温风干。取风干后土壤 $2 . 0 \\ \\mathrm { g }$ 使用 $1 ~ \\mathrm { \\ m o l { \\cdot } L ^ { - 1 } }$ 的醋酸铵 $4 0 ~ \\mathrm { \\ m L }$ 浸提，并取上清液$5 \\mathrm { \\ m L }$ 于消解仪上进行消解，过程和植物消解过程一致，最后用 $2 \\%$ 硝酸定容至 $1 0 ~ \\mathrm { m L }$ 并使用ICP-MS测定各元素含量[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Minitab15进行主成分分析和方差分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同种植模式对土壤可溶性矿质元素的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，与常规种植相比，绿色蛙稻种植模式土壤中交换性必需元素K和Mn的含量分别提高了 $5 \\%$ 和 $45 \\%$ ，Ca和 $\\mathrm { c u }$ 的含量分别降低了 $2 6 \\%$ 和$2 5 \\%$ ；同时可交换性非必需元素Sr、Na、Se、Cs和Rb的含量分别显著提高了 $4 \\%$ 、 $40 \\%$ 、 $46 \\%$ 、 $7 7 \\%$ 和$11 \\%$ ，而Ba、 $\\mathrm { C r }$ 、As、Ni和Mo的含量分别显著降低了 $48 \\%$ 、 $54 \\%$ 、 $30 \\%$ 、 $31 \\%$ 和 $2 6 \\%$ 。有机蛙稻种植模式与常规种植相比，土壤可交换性必需元素 $\\mathbf { M g }$ 、Mn和B分别显著增加了 $11 \\%$ 1 $28 \\%$ 和 $34 8 \\%$ ，可交换性Zn显著降低了 $5 5 \\%$ ；可交换性非必需元素Cd、Cr和Se则分别增加了 $1 5 \\%$ 、 $3 5 \\%$ 和 $22 6 \\%$ ，而Ba和Mo分别降低 $3 9 \\%$ 、 $2 9 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/47deaf5df205f2c8e95654a9de31a4466f4eac51656103579972d58f970d0f92.jpg",
+        "table_caption": [
+            "表2不同种植模式下稻田土壤可溶性矿质元素含量 Table 2Available mineral elements contents in paddy soil under different rice cultivation patterns "
+        ],
+        "table_footnote": [
+            "同列不同字母表示在0.05水平上差异显著。Different smalletters in the same column indicate significant difference at $P < 0 . 0 5$ #"
+        ],
+        "table_body": "<html><body><table><tr><td>种植模式 Cultivation pattern</td><td>P (mg·g-1)</td><td>K (mg:g-1)</td><td>Mg (mg:g-1</td><td>Ca (mg:g-1)</td><td>Mn (mg-g-1)</td><td>Fe (mg:g-1)</td><td>Cu (ug:g-1)</td></tr><tr><td>CR</td><td>1.302±0.090a</td><td>0.066±0.001b</td><td>0.208±0.005b</td><td>1.39±0.17a</td><td>0.036±0.001c</td><td>1.08±0.09a</td><td>0.111±0.003a</td></tr><tr><td>GR</td><td>1.225±0.106a</td><td>0.070±0.001a</td><td>0.215±0.005ab</td><td>1.03±0.01b</td><td>0.052±0.001a</td><td>0.97±0.05a</td><td>0.083±0.005b</td></tr><tr><td>OR</td><td>1.519±0.073a</td><td>0.063±0.001b</td><td>0.231±0.004a</td><td>1.13±0.02ab</td><td>0.045±0.001b</td><td>1.12±0.07a</td><td>0.112±0.003a</td></tr><tr><td>种植模式 Cultivation pattern</td><td>Zn (μg·g-1)</td><td>B (ug:g-)</td><td>Mo (ug.g-1)</td><td>Co (ug:g-1)</td><td>Na (ug:g-1)</td><td>Sr (ug:g-1)</td><td>Ba (ug:g-1)</td></tr><tr><td>CR</td><td>0.303±0.06a</td><td>0.025±0.00b</td><td>0.019±0.001a</td><td>0.023±0.002a</td><td>67.44±2.82b</td><td>4.45±0.20a</td><td>40.04±3.65a</td></tr><tr><td>GR</td><td>0.230±0.01ab</td><td>0.023±0.00b</td><td>0.014±0.001b</td><td>0.022±0.002a</td><td>94.76±2.19a</td><td>4.64±0.05a</td><td>20.77±0.89b</td></tr><tr><td>OR</td><td>0.134±0.01b</td><td>0.114±0.00a</td><td>0.014±0.001b</td><td>0.021±0.001a</td><td>72.73±0.92b</td><td>4.07±0.09b</td><td>24.40±1.46b</td></tr><tr><td>种植模式 Cultivation pattern</td><td>Ni （ug.g-1)</td><td>Cd (ug.g-1)</td><td>Cr (ng:g-1)</td><td>Se (ng:g-1)</td><td>Cs (ng·g-1)</td><td>As （μg:g-1)</td><td>Rb （ug:g-1)</td></tr><tr><td>CR</td><td>0.056±0.003a</td><td>0.017±0.001b</td><td>2.21±0.34a</td><td>1.54±0.22c</td><td>6.10±0.39b</td><td>0.013±0.001a</td><td>0.163±0.01b</td></tr><tr><td>GR</td><td>0.038±0.001b</td><td>0.017±0.000b</td><td>1.02±0.26b</td><td>2.25±0.11b</td><td>10.83±0.69a</td><td>0.009±0.001b</td><td>0.353±0.01a</td></tr><tr><td>OR</td><td>0.054±0.009ab</td><td>0.020±0.000a</td><td>2.99±0.22a</td><td>5.05±0.18a</td><td>4.78±0.28c</td><td>0.013±0.001a</td><td>0.135±0.00b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2水稻籽粒中21种矿质元素含量的综合分析由表3可知，综合3种种植模式，各元素在水稻",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "籽粒中的浓度顺序为： $\\mathrm { K { > } P { > } M g { > } C a { > } M n { > } Z n { > } F e { > } }$ Cu>Rb $\\scriptstyle \\mathtt { > N a > B a > M o > B > N i > S r > A s > C r > C d > S e > C o > C }$ s含量从最高的K $( 2 . 6 9 \\mathrm { m g { \\cdot g } ^ { - 1 } } ,$ 至最低 $\\mathrm { ; C s } ( 1 . 9 5 ~ \\mathrm { n g { \\cdot g } ^ { - 1 } ) } .$ 0根据图1发现，元素浓度和变异系数间呈显著的指数相关关系 $( P { < } 0 . 0 1 )$ 。水稻籽粒中元素浓度越高，其变异系数越小，如P、K、 $\\mathbf { \\nabla } \\mathrm { M g }$ 、Mn和Zn等，由于这些元素均为植物生长的必需元素，任何一种元素的缺乏都能直接或者间接抑制植物的生长发育，说明由于植物生理和养分平衡的制约，限制元素在植物体内含量相对稳定，对环境因子变化的响应也不敏感;而非必需元素Cd、Cr、Se和Cs等元素浓度相对较低，变异系数却很高，说明这些非必需元素在植物体内不稳定，容易受环境因素的影响，符合限制元素稳定性学说[17]。根据表3结果，与常规种植模式相比,绿色蛙稻模式水稻籽粒中必需元素K、Mn含量提高了 $21 \\%$ 和 $23 \\%$ ，非必需元素Cd、Na、Cs、Rb和Ni的含量提高了 $44 \\%$ 、 $31 \\%$ 、 $59 \\%$ 、 $72 \\%$ 和 $24 \\%$ ，但B和Cr的含量显著降低 $63 \\%$ 和 $51 \\%$ ，有机蛙稻模式与常规种植模式相比非必需元素Cd、 $\\mathrm { C o }$ 、Cs和Ni的含量显著提高了 $4 8 8 \\%$ 人 $60 \\%$ 人 $2 8 \\%$ 和 $2 8 6 \\%$ ，而 $\\mathrm { \\dot { C } a }$ 、B、Mo、 $\\mathrm { s r } ,$ （20Cr的含量显著降低了 $3 8 \\%$ 、 $60 \\%$ 人 $20 \\%$ 人 $2 7 \\%$ 和 $96 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b25c69f14cd6aaeb15a9bd2cedc9aca753fdf423a735722f89a401eeb5dffe8.jpg",
+        "table_caption": [
+            "表3不同种植模式下水稻籽粒中各元素的含量Table 3Mineral elements contents of rice seeds under different rice cultivation patterns"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种植模式 Cultivation pattern</td><td>P (mg:g-1)</td><td>K (mg:g-1)</td><td>Mg (mg:g-1)</td><td>Ca (mg:g-1）</td><td>Mn_ (mg:g-1)</td><td>Fe (ug:g-1)</td><td>Cu (ug:g-1)</td></tr><tr><td>CR</td><td>2.52±0.08a</td><td>2.58±0.10b</td><td>0.956±0.03a</td><td>0.229±0.03a</td><td>0.032±0.001b</td><td>9.48±0.90a</td><td>3.57±0.20a</td></tr><tr><td>GR</td><td>2.81±0.18a</td><td>3.13±0.18a</td><td>0.996±0.06a</td><td>0.159±0.01ab</td><td>0.040±0.002a</td><td>8.75±0.45a</td><td>3.66±0.26a</td></tr><tr><td>OR</td><td>2.54±0.06a</td><td>2.47±0.08b</td><td>0.916±0.05a</td><td>0.140±0.02b</td><td>0.034±0.001b</td><td>9.40±0.95a</td><td>3.43±0.16a</td></tr><tr><td>平均 Average</td><td>2.63</td><td>2.69</td><td>0.952</td><td>0.169</td><td>0.035</td><td>9.20</td><td>3.54</td></tr><tr><td>种植模式 Cultivation pattern</td><td>Zn (ug:g-1)</td><td>B (ug:g-)</td><td>Mo (ug:g-)</td><td>Co (ug:g-)</td><td>Na (ug:g-)</td><td>Sr (ug:g-)</td><td>Ba (ug:g-)</td></tr><tr><td>CR</td><td>26.53±2.67a</td><td>0.652±0.14a</td><td>0.469±0.02a</td><td>0.011±0.001b</td><td>1.65±0.08b</td><td>0.341±0.02a</td><td>0.770±0.05a</td></tr><tr><td>GR</td><td>24.41±1.56a</td><td>0.241±0.07b</td><td>0.411±0.01ab</td><td>0.009±0.001b</td><td>2.16±0.08a</td><td>0.324±0.01a</td><td>0.651±0.03a</td></tr><tr><td>OR</td><td>27.43±0.42a</td><td>0.260±0.02b</td><td>0.373±0.03b</td><td>0.018±0.002a</td><td>1.47±0.05a</td><td>0.248±0.02b</td><td>0.684±0.10a</td></tr><tr><td>平均 Average</td><td>26.28</td><td>0.398</td><td>0.418</td><td>0.013</td><td>1.73</td><td>0.302</td><td>0.706</td></tr><tr><td>种植模式 Cultivation pattern</td><td>Ni</td><td>Cd (ug.g-1)</td><td>Cr (ug.g-1)</td><td>Se (ug:g-1)</td><td>Cs (ng.g-1)</td><td>As (μg:g-1)</td><td>Rb</td></tr><tr><td>CR</td><td>(ug.g-1) 0.159±0.01b</td><td>0.017±0.00b</td><td>0.202±0.01a</td><td>0.040±0.02a</td><td>1.54±0.18b</td><td>0.106±0.01a</td><td>(ug:g-1)</td></tr><tr><td>GR</td><td>0.197±0.03b</td><td>0.090±0.00a</td><td>0.099±0.02b</td><td>0.050±0.01a</td><td>2.45±0.30a</td><td>0.109±0.02a</td><td>2.36±0.02b 4.05±0.03a</td></tr><tr><td>OR</td><td>0.616±0.05a</td><td>0.100±0.01a</td><td>0.006±0.01c</td><td>0.031±0.01a</td><td>1.95±0.31b</td><td>0.070±0.01a</td><td>2.54±0.03b</td></tr><tr><td>平均Average</td><td>0.336</td><td>0.069</td><td>0.092</td><td>0.039</td><td>1.95</td><td>0.094</td><td>2.88</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6fb537b0e6abab3250b6789979354548b06d4203d803aeef8f51ddb8cd29355.jpg",
+        "img_caption": [
+            "图1水稻籽粒中元素浓度与变异系数间的关系 Fig.1 Correlations between concentrations(C) and coefficient variations of elements in rice seed "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同种植模式下水稻籽粒离子组的主成分分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将3种模式各重复所有离子组数据总结归纳进行主成分分析，发现不同种植模式对水稻籽粒离子组有显著的影响。由图2主成分分析发现，前两个主成分的累积贡献率为 $6 9 . 8 \\%$ ，其中PC1能够解释总体数据 $3 2 . 7 \\%$ 的变异，且分离了绿色和有机种植模式;PC2解释总数据变异的 $2 7 . 1 \\%$ ，且清晰区分了有机、绿色蛙稻模式和常规模式。结合主成分载荷分值图3，有机蛙稻模式中以第I组Co、Ni和Cd含量的变化为主要特征，绿色蛙稻模式中以第Ⅱ组Cs、Mn、Rb、P、K、Cu、Na、 $\\mathbf { \\mathrm { { M g } } }$ 、Se和Fe等的变化为主要特征，常规模式中以第Ⅲ组As、Sr、Ca、Mo、Cr、B和Ba等的变化为主要特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/575bed7ec43c2e8172bd62ce8af9cbc0962c341c4f5d70fd0522eddfcde49aa7.jpg",
+        "img_caption": [
+            "图23种种植模式下水稻籽粒中21元素主成分分析图 Fig.2Principal component analysis for 21 elements in rice seeds under three cultivation patterns 由于GR4中2个元素未测出，因此进行主成分分析时排除 此小区。GR4 is not available for the PCA analysis as 2 elements was not be detected in the plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9b8695ee63a83fc2733f294430b6cbda79ed944cda3f1621ac4efeb284cabe4.jpg",
+        "img_caption": [
+            "图33种种植模式下水稻籽粒中21种元素主成分分析载荷值图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Loading scores of the principle component analysis for 21 elements in rice seeds under three cultivation patterns 图中I、Ⅱ、Ⅲ分别表示水稻籽粒中呈正相关的3组元素。   \nI，I,I indicate three groups of elements which are positively   \ncorrelated in rice seeds. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同种植模式对水稻秸秆和籽粒产量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，绿色和有机蛙稻种植模式下水稻秸秆和籽粒产量分别较常规种植模式降低了 $1 5 . 3 \\%$ /$12 . 9 \\%$ 和 $12 . 4 \\%$ 、 $5 . 8 \\%$ ，而绿色模式和有机模式之间差异不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/54663d9b0be830ba2572ed2e308f9a5794f17b6c00738d9ef22bb9c2bd9b8eda.jpg",
+        "img_caption": [
+            "图4不同种植模式下的水稻秸秆和籽粒产量Fig.4Yields of straw and seed of rice underdifferent ricecultivation patterns"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1种植模式对土壤-水稻系统离子组的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究表明常规种植模式下水稻产量显著高于绿色和有机模式，说明常规种植模式施用化肥的条件下，作物能够快速吸收、利用化肥中的速效养分进行干物质积累，并且除草剂、农药的使用短期内能够迅速降低病虫害对作物的影响；绿色和有机蛙稻种植模式主要使用有机肥和生物农药，养分在土壤中释放速度较慢，对于作物的吸收可能存在一定的滞后性，不能满足作物生长对养分的需求，因此仅从产量角度出发，绿色和有机蛙稻种植模式低于常规模式。在本研究中，绿色蛙稻种植模式显著增加士壤可溶解性K、Mn、Na、Cs和Rb的含量，水稻籽粒中K、Mn、Na、Cs和Rb的含量也同时增加。说明此模式下水稻籽粒中这5种元素的增加是由土壤中可溶性元素的增加引起。绿色蛙稻种植模式以有机肥桐籽饼和绿先机为基肥，尿素作为追肥，这种有机无机结合的施肥方式有利于土壤中第1主族元素的溶解释放。有机种植模式下，土壤中Cd和B的含量最高，而Cs的含量最低，水稻籽粒中Co、Ni和Cd的含量最高。一方面，有机肥中含有重金属Cd，绿色和有机模式中长期有机肥大量投入导致的土壤Cd积累可能是水稻籽粒Cd的来源之一[15]；另一方面，施用有机肥能够增加土壤有机质含量，大分子有机质能够固定土壤中的Fe、Cs等元素，降低其在土壤溶液中的活性和含量，而另外一些小分子有机质易与Cd、Zn等元素螯合提高其活性，易通过根系进入植物体[15,18-20]。常规种植模式下，土壤中可溶性Ca、Ba和Ni的含量最高，而水稻籽粒Ca、B和Mo的含量最高。此外，水稻籽粒中Mg、Cu、Zn、Ba、Se和As的含量并未受到种植模式的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "水稻作为人类的主要粮食作物，籽粒中各元素的含量与人类食品安全息息相关。大量、微量必需元素对人体正常生长发育起着积极作用，一些微量元素如Fe、Zn、Cu等还是酶的组成成分和人体氧化还原反应的激活剂；而一些非必需元素，如Cd、Cs等进入人体后则会与必需元素Ca和K、Na等竞争结合位点，进而引起人体代谢的紊乱，严重时甚至危及生命。绿色种植模式能够增加水稻籽粒中K、Mn、Na、Ni等人体必需元素的含量，降低Cr的含量，从元素角度出发优于常规种植模式；另一方面，绿色和有机种植模式水稻籽粒中Cd的显著增加为水稻食品的安全带来潜在风险，虽然尚未达到国标食品安全的限值，但在生产过程中也应引起高度重视。因此，从水稻籽粒中元素与食品安全角度出发，绿色模式优于有机和常规模式，但今后对籽粒品质的研究中应加入其他指标进行综合评价，以得出更为客观科学的结果；利用科学的肥料管理措施对水稻籽粒中必需和非必需元素进行调控也成为水稻离子组学进一步研究的方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2元素从土壤到植物的转移效率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤中可利用元素 $\\mathrm { ( N H \\mathrm { _ { 4 } \\mathrm { - } A C ) } }$ 向水稻籽粒转移的效率如图5所示。元素在籽粒中含量以K最高Cs最低，而在土壤中，浓度最高为Ca，最低为 $\\mathrm { C r }$ 。K、 $\\mathbf { \\nabla } \\mathrm { M g }$ 1Ca、Mn等在土壤和籽粒中含量均很高，说明这些元素在土壤和植物中的自然丰度很高，并且在土壤-植物和植物体内非常容易转移[21]；另外一些植物必需的元素如Zn、Cu和P，从土壤到水稻籽粒中的移动性也非常强[15]，说明植物会主动富集生长必需营养元素，而元素Na、Ba、Sr、Cs等非必需元素从土壤到植物中的移动性较差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10000 eeee Ca 1000 0 Mg Na O 100 Ba 0 Mn O K 10 Sro Fe 1 0 Bo O Zn 0.1 Rb O Cu Co Cd QMo 0.01 Cs O Co O P O As Se O oCr 0.001 0.001 0.01 0.1 1 10 100 1000 1000C 水稻籽粒元素含量 Element concentration in rice seed $\\mathrm { ( m g \\cdot k g ^ { - 1 } }$ 0 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 元素间的生物相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究表明，多种元素在模式植物拟南芥突变体和酵母中能够形成相互关联的复杂、多元化网络，并且能够被一个或者多个基因共同调控[3.22]。植物需要调控体内正负离子的含量来保持电中性从而维持离子组成和代谢活动的稳态，而维持体内稳态的元素组成也因器官、组织和环境影响而不同。研究不同环境条件下植物某部位中元素的关联性，能够揭示经过元素内稳态基因调控的元素间的相关关系[23]。图3揭示了水稻籽粒中各元素之间的关系，图中射线的长短表示元素的变异，两射线之间的夹角表示两元素的相关关系，其中锐角表示正相关，即元素间存在协同运输的现象，直角表示无相关关系，钝角表示负相关，即元素间存在竞争关系，图中元素间的距离越近，说明两元素间最可能共享相同的调控基因[24-25]。同族元素可以通过相同的离子通道进入植物根系，而转运蛋白不能识别，因此同族元素在进入植物体内时存在竞争，如K、Na、Rb、 $\\mathrm { C s } ^ { [ 2 6 - 2 7 ] }$ 。有研究表明，在大豆(Glycinemax)中，K和Cs在被植物吸收和转移的过程中存在着非常显著的竞争关系，而本研究与前人研究存在一定的矛盾，在第2组中第1主族元素K、Na、Rb和Cs之间为显著的正相关关系，而与 $Z \\mathrm { n }$ 呈负相关关系，可能与样本数量较少和土壤环境中K元素浓度较低有关[15-16]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "主成分分析显示第1组和第3组的元素间存在着显著的负相关关系。其他研究也发现，相同价态的元素竞争相同的转运通道，如 $ { \\mathrm { M g } } ^ { 2 + }$ 、 $\\mathrm { C u } ^ { 2 + }$ / $\\mathrm { F e } ^ { 2 + }$ / $\\mathrm { C d } ^ { 2 + }$ 和 $\\mathrm { B a } ^ { 2 + }$ 在植物体内的运输可以竞争 $\\cdot \\mathrm { C a } ^ { 2 + }$ 的通道，Cd、Ni、Co与Ca之间存在竞争关系[28-30]，与本研究结果相似。而在第3组中Ca和Sr的显著协同运输关系与其他植物内的相关性一致[15,26]。植物体内复杂的基因网络控制着元素的吸收、转运和代谢，在拟南芥基因组中有 $2 \\% { \\sim } 4 \\%$ 与植物营养元素和非必需元素的调控有关，而大部分营养元素的调控基因都不仅仅只调控1个元素，因此植物体内元素内稳态的调控具有很强的关联性[3]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，不同种植模式对水稻籽粒离子组有非常显著的影响。与常规种植相比，绿色蛙稻模式显著增加了K、Na、Cs、Rb、Mn和Cd的含量，显著降低了B和Cr的含量。有机蛙稻模式下水稻籽粒中Co、Ni和Cd含量显著增加，Ca、B、Mo、Sr和Cr含量显著降低，而同主族元素间的竞争在水稻籽粒中并未发现。从水稻籽粒离子组角度出发，绿色种植模式要优于常规和有机种植模式，而绿色和有机种植模式中非必需元素在水稻中的积累也为食品安全带来风险，通过控制不同有机无机肥料配比来调控水稻籽粒营养元素与非必需元素的含量还需要进一步的研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]梁嘉荧，蔡一霞．高温干旱对水稻产量、品质及剑叶生理特 性影响研究综述[J]．中国农学通报,2013,29(27):1-6 Liang JY,CaiYX.Review on the effectsof high temperature and drought on yield,grain quality and the physiological characteristic of flag leaves in rice (Oryza sativa L.)[J]. Chinese Agricultural Science Bulletin,2013,29(27):1-6   \n[2]沈芸，肖鹏，包劲松．水稻营养成分遗传育种研究进展[J]. 核农学报,2008,22(4):455-460 Shen Y,Xiao P, Bao J S.Recent progress in genetics and   \n[3] Lahner B,Gong J M,Mahmoudian M,et al. Genomic scale profiling of nutrient and trace elements in Arabidopsis thaliana[J]. Nature Biotechnology,2003,21(10):1215-1221   \n[4] Wiley N.Ion-brew:Clarifying the influences on plant ionomes[J]. New Phytologist,2012,196(1): 1-3   \n[5] 岳玉波，沙之敏，赵峥，等．不同水稻种植模式对氮磷流失 特征的影响[J]．中国生态农业学报,2014,22(12):1424-1432 Yue Y B, Sha Z M, Zhao Z,et al. Effects of rice cultivation patterns on nitrogen and phosphorus leaching and runoff losses[J]. Chinese Journal of Eco-Agriculture,2014,22(12): 1424-1432   \n[6] 展茗，曹凑贵，汪金平，等．稻鸭共作对甲烷排放的影 响[J]．应用生态学报,2008,19(12):2666-2672 Zhan M,Cao C G, Wang JP,et al. Effects of rice-duck farming on paddy field's methane emission[J].Chinese Journal of Applied Ecology,2008,19(12): 2666-2672   \n[7] Gong JM, Waner D A,Horie T, et al. Microarray-based rapid cloning ofan ion accumulation deletion mutantin Arabidopsisthaliana[J]. Proceedingsof theNational Academy of Sciences of the United States of America,2004, 101(43): 15404-15409   \n[8] 全国明，章家恩，杨军，等．稻鸭共作对稻米品质的影响[J]. 生态学报,2008,28(7):3475-3483 Quan G M, Zhang JE,Yang J,et al. Impacts of integrated rice-duck farming system on rice quality[J].Acta Ecologica Sinica,2008,28(7):3475-3483   \n[9] Amiri M E,Fallahi E.Impact of animal manure on soil chemistry，mineral nutrients,yield,and fruit quality in ‘Golden Delicious’apple[J]. Journal of Plant Nutrition,2011, 32(4): 610-617   \n[10] Sankaran R P, Huguet T,Grusak M A.Identification of QTL affecting seed mineral concentrations and content in the model legume Medicago truncatula[J]. Theoretical and Applied Genetics,2009,119(2): 241-253   \n[11] White PJ,Broadley MR,Thompson JA,et al. Testing the distinctness of shoot ionomes of angiosperm families using theRothamsted Park grass continuous hay experiment[J]. New Phytologist,2012,196(1): 101-109   \n[12] Cheng W D,Zhang G P,Yao H G, et al. Genotypic and environmental variation in cadmium,chromium,arsenic, nickel,and lead concentrations in rice grains[J]. Journal of Zhejiang University ScienceB,2006,7(7): 565-571   \n[13] Chao D Y, Gable K,Chen M, et al. Sphingolipids in the root play an important role in regulating the leaf ionome in Arabidopsis thaliana[J]. The Plant Cell,2011，23(3): 1061-1081   \n[14]Karley A J,White P J.Moving cationic minerals to edible tissues:Potassium,magnesium,calcium[J].Current Opinion in Plant Biology,2009,12(3): 291-298   \n[15] Sha Z M, Oka N,Watanabe T,et al. Ionome of soybean seed affected by previous cropping with mycorrhizal plant and manure application[J]. Journal of Agricultural and Food Chemistry,2012,60(38): 9543-9552   \n[16] Chu Q N,Watanabe T,Sha Z M,et al.Interactions between Cs,Sr,and other nutrients and trace element accumulation in Amaranthus shoot in response to variety effect[J].Journal of Agricultural and Food Chemistry,2015,63(8):2355-2363   \n[17]Han W X,Fang JY,Reich P B,et al. Biogeography and variability of eleven mineral elements in plant leaves across gradients of climate,soil and plant functional type in China[J]. Ecology Letters,2011,14(8): 788-796   \n[18] Staunton S,Roubaud M. Adsorption of $^ { 1 3 7 } \\mathrm { C s }$ on montmorillonite and illite:Effect of charge compensating cation,ionic strength,concentration of Cs,K and fulvic acid[J].Clays and Clay Minerals,1997,45(2): 251-260   \n[19]Kim Y,Kim K,Kang H D,et al. The accumulation of radiocesium in coarse marine sediment: Effects of mineralogy and organic matter[J].Marine Pollution Bulletin,20o7,54(9): 1341-1350   \n[20] Clemens S.Molecular mechanisms of plant metal tolerance and homeostasis[J].Planta,2001,212(4):475-486   \n[21]Watanabe T,Broadley M R,Jansen S,et al. Evolutionary control of leaf element composition in plants[J].New Phytologist,2007,174(3): 516-523   \n[22]Eide DJ,Clark S,Nair T M,et al.Characterization of the yeast ionome:A genome-wide analysis of nutrient mineral and trace element homeostasis in Saccharomyces cerevisiae[J]. Genome Biology,2005,6(9):R77   \n[23]曹继容，钟广炎，王其兵．植物离子组学及其研究方法与 应用进展[J]．植物学报,2014,49(4):504-513 Cao JR, Zhong G Y,WangQ B.Progress in methodology and application of plant ionomics[J]. Chinese Bulletin of Botany, 2014,49(4): 504-513   \n[24] Salt D E,Baxter I,Lahner B.Ionomics and the study of the plant ionome[J].Annual Review of Plant Biology,20o8,59(2): 709-733   \n[25]Chen Z,Watanabe T,Shinano T,et al.Element interconnections in Lotus japonicus:A systematic study of the effects of element additions on different natural variants [J].Soil Science Plant Nutrition,2009,55(1):91-101   \n[26] Chen Z,Watanabe T,Shinano T,et al.Rapid characterization of plant mutants with an altered ion-profile:A case study using Lotus japonicus[J]. New Phytologist,2009,181(4): 795-801   \n[27]Hermans C,Chen JG,Coppens F,et al.Low magnesium status in plants enhances tolerance to cadmium exposure[J]. New Phytologist,2011,192(2): 428-436   \n[28]Liu JG,Liang J S,Li K Q,et al.Correlations between cadmiumandmineralnutrientsinabsorptionand accumulation in various genotypes of rice under cadmium stress[J].Chemosphere,2003,52(9):1467-1473   \n[29]Tejada-Jiménez M,Galvan A,Fernandez E,etal.Homeostasis of the micronutrients Ni,Mo and Cl with specific biochemical functions[J].Current Opinion in Plant Biology,20o9,12(3): 358-363   \n[30]Jiang SL,Wu JG,Feng Y,et al.Correlation analysis of mineral element contents and quality traits in milled rice (Oryza stavia L.)[J].Journal of Agricultural and Food Chemistry,2007,55(23): 9608-9613 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

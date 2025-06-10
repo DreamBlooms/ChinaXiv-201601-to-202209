@@ -1,0 +1,279 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "扩充型动态楔形板楔形因子的校正方法及跳数计算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄思娟,陈立新，曹午飞，孙文钊,陈阿龙,刘伯基，王彬中山大学肿瘤防治中心//华南肿瘤学国家重点实验室//肿瘤医学协同创新中心,广东广州 510060摘要：目的研究瓦里安扩充型动态楔形板楔形因子计算修正方法，比较楔形野中心点处手工和治疗计划系统计算结果相对测量结果的剂量/跳数差异。方法对于瓦里安直线加速器的 $6 \\mathrm { M V , 1 0 \\mathrm { M V } }$ 光子线，使用指形电离室测量水下 $1 0 \\mathrm { c m }$ 处不同动态楔形野的楔形因子及射野中心点的剂量，采用治疗计划系统计算相应射野的剂量/跳数。使用加速器输出分割模型手工计算射野的楔形因子，并采用常数因子修正手工计算结果。对手工计算、治疗计划系统计算和测量结果进行比较，分析三种方法下常规二维治疗计划下动态楔形野的楔形因子和射野中心点跳数的误差。结果 以测量结果为标准,校正后,手工计算的楔形因子误差明显减小。其中，6MV光子线下， $6 0 ^ { \\circ }$ 楔形角下对称野最大相对误差由 $4 . 2 \\%$ 减小到 $1 . 3 \\%$ ，非对称野最大相对误差由 $. 4 . 7 \\%$ 减小到 $1 . 8 \\%$ 。 $1 0 \\mathrm { M V }$ 所有楔形野相对误差由最大 $- 3 . 0 \\%$ 降低到 $1 . 1 \\%$ 。手工计算跳数与测量结果对比，对称野相应射野跳数计算相对误差在 $2 \\%$ 以内，但部分非对称野最大相对误差超过 $5 \\%$ 。比较治疗计划系统计算结果与测量结果，其最大相对误差小于$1 . 5 \\%$ 。结论使用常数因子可以有效减小输出分割模型计算楔形因子的误差。对于常规二维治疗计划楔形野的跳数计算来说，校正后对称野射野中心点的计算结果符合临床治疗要求，但对于射野边缘与等中心最短距离小于 $4 \\mathrm { c m }$ 的非对称野来说，需要使用相应的非对称射野处方剂量计算方法,或者采用测量方法或利用治疗计划系统计算相应的射野跳数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：扩充型动态楔形板；楔形因子;校正；跳数；剂量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correction of enhanced dynamic wedge factor and analysis of monitor unit calculation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HUANG Sijuan, CHEN Lixin, CAO Wufei, SUN Wenzhao,CHEN Along, LIU Boji, WANG Bin   \nStateKeyLaboratoryofncologyinSouthernChinaDepartmentofRadiationOncologyCancerCenterSunYat-senniesity   \nGuangzhou 510060, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTostudythecorrctionof algorithmfor Varian enhanced dynamic wedge(EDW)factorsandcompare the dose/monitorunit (MU)deviation measured at thecentral axisof EDWfield with that obtained by manualcalculation orusing the treatment planning system. Methods EDW factors and dose were measured with Thimble ion chamber at $1 0 \\ \\mathrm { c m }$ depth under the water for 6 MV and $1 0 ~ \\mathrm { M V }$ photon on Varian linear accelerator. The corresponding calculations were done with the radiation treatment planning system.An analytic formula, namely the“MU Fraction model,was used to calculate the EDW factor, Which was corrected with aconstant factor.The MUof conventional2-D planning derived from manual calculating, treatment planning system,and actual measurements were compared.Results With the measured results asthe standard,the corected manual calculation deviation of EDW factors was significantly reduced.For photon 6MV,the maximum deviation reduced from $4 . 2 \\%$ to $1 . 3 \\%$ for $6 0 ^ { \\circ }$ symmetry fields was,and from $- 4 . 7 \\%$ to $- 1 . 8 \\%$ for asymmetric fields. For photon $1 0 ~ \\mathrm { M V } ,$ the maximum deviation for all EDW fields was reduced from $- 3 . 0 \\%$ to $1 . 1 \\%$ . Comparison of the manual calculations with the measured results showed a MU deviation for symmetric fields within $2 \\%$ ,andmore than $5 \\%$ for some asymmetric fields. The deviation between the calculations of the treatment planning and the measured results was less than $1 . 5 \\%$ . Conclusion Constant factorcorrection can efectivelyreducethe deviation of manual calculation.For MUcalculationofEDW field in conventional2-Ddimensional treatment planning,thecorrected resultsofsymmetricfeldsmetclinicalrequirements.While the minimum distance between the field edge and the central axis was less than $4 \\mathrm { c m }$ in asymmetric fields, the corresponding special method, measurement or the treatment planning system should be used to calculate the dose/MU. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: enhanced dynamic wedge; Wedge factors; correction; monitor unit; dose ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与传统物理楔形板不同，扩充型动态楔形板(enhanceddynamicwedge,EDW)通过加速器独立准直器的运动和剂量率的变化来实现特定的剂量分布。EDW大大减少了照射时间和跳数，提高靶区剂量的均匀性，同时降低正常组织例如对侧乳腺的受照剂量[1-2]。但当EDW的楔形角度较大且为非对称照射野时，使用标准计算模型计算得到的楔形因子误差较大[3-5]。研究报道指出，在输出分割模型基础上进行相应的计算校正,可有效减少不同射野下楔形因子的计算误差[68]。但以上研究均针对射野几何中心处计算模型的修正和剂量计算。对常规二维治疗计划来说，临床应用更多的是计算射野中心点处的楔形因子以及给予相应的射野跳数。因此，本文将基于加速器输出分割模型提出一种新的校正方法，并应用于常规二维计划的中心跳数计算。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1EDW楔形因子手工计算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "瓦里安EDW每档能量提供一套楔形角 $6 0 ^ { \\circ } .$ 最大射野下加速器输出剂量对准直器位置的分配表(Goldensegmented treatment tables,Golden STTs)9],包括楔形角 $1 0 ^ { \\circ } , 1 5 ^ { \\circ } , 2 0 ^ { \\circ } , 2 5 ^ { \\circ } , 3 0 ^ { \\circ } , 4 5 ^ { \\circ }$ 和 $6 0 ^ { \\circ }$ ，最大楔形野为 $4 0 \\ : \\mathrm { c m \\times }$ $3 0 \\mathrm { c m }$ ，最大可过中线 $1 0 \\mathrm { c m }$ 。楔形因子定义为 $1 0 \\mathrm { c m }$ 深处楔形野和相同大小开野在射野中心点剂量率之比。计算EDW楔形因子的常用方法是加速器输出分割模型(MU fractionmodel),见公式(1)。其中0为楔形角， $w _ { 6 0 }$ ，${ \\bf { \\sigma } } _ { w _ { 0 } }$ 为构成楔形角 $\\theta$ 所需的 $6 0 ^ { \\circ }$ 楔形野、平野权重[10], $Y _ { F }$ 为固定准直器位置坐标， $Y _ { f = } Y _ { F } – 0 . 5$ 。 $S T T _ { \\theta } ( Y ) \\sqrt {  { S T T } _ { G } ( Y ) }$ 是楔形角 $\\theta ^ { \\circ }$ $6 0 ^ { \\circ }$ 时运动准直器坐标Y对应的STTs值，当 ${ \\mathrm { Y } } =$ 0时，式(1)计算结果即为射线中心点的楔形因子EDWF(EDWfactor,EDWF)",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE D W F _ { \\theta } { = } \\frac { S T T _ { \\theta } ( Y ) } { S T T _ { \\theta } ( Y _ { f } ) } { = } \\frac { w _ { \\theta } \\big [ S T T _ { \\epsilon } ( Y ) \\big ] { + } w _ { 0 } \\big [ S T T _ { \\epsilon } ( 0 ) \\big ] } { w _ { \\theta } \\big [ S T T _ { \\epsilon } ( Y _ { f } ) \\big ] { + } w _ { 0 } \\big [ S T T _ { \\epsilon } ( 0 ) \\big ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle w _ { \\theta } = \\tan \\theta / \\tan 6 0 \\quad w _ { 0 } = 1 - w _ { \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2剂量测量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用 $0 . 1 2 5 ~ \\mathrm { c m } ^ { 3 }$ 指形电离室(PTW31010,Freiburg)和UNIDOSE剂量仪(PTW公司),密度为 $1 . 0 4 5 \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ 的RW3固体水(IBA公司),在VarianTrilogy5345加速器测量水下 $1 0 \\ \\mathrm { c m }$ 深度处中心轴的楔形因子。对称野分别为 $\\mathrm { 5 ~ c m { \\times } 5 ~ c m , 1 0 ~ c m { \\times } 1 0 ~ c m , 1 5 ~ c m { \\times } 1 5 ~ c m , 2 0 ~ c m { \\times } }$ $2 0 \\mathrm { c m }$ 。非对称野则在上述对称野基础上，保持射野大小不变，楔形方向上几何中心以步长为 $1 \\mathrm { c m }$ 分别向Y1,Y2方向偏移而形成。为了保证足够的侧向电子散射，各个射野边缘与等中心点间最短距离不小于 $2 \\mathrm { c m }$ 。测量角度包括楔形角 $1 5 ^ { \\circ } , 3 0 ^ { \\circ } , 4 5 ^ { \\circ } , 6 0 ^ { \\circ }$ ，能量为 $6  { \\mathrm { M V } _ { \\cdot } }  { 1 0 }$ MV，楔形方向为Y1-in、Y2-out。为减少杆效应对测量的影响，电离室长轴平行于X方向准直器。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3剂量跳数计算 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用了两种方式计算射野中心点的跳数：(1)纯手工计算跳数MU(MonitorUnite,MU)。所采用的常规手工跳数计算公式如式(3)[；(2)在治疗计划系统Eclipse(version10.0,Varian公司)上计算射野中心点的剂量跳数。两种计算与实际测量结果的相对误差为：相对误差 $= [ M U _ { m e a } – M U _ { C a l }$ （或 $M U _ { T P S } ) ] / M U _ { M e a 0 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM U = \\frac { D o s e } { T M R \\times W F \\times T F \\times S c \\ : ( F S ) \\times C F \\times I n v S q a C o r r }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析与修正方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算公式(1)计算结果与测量结果相对误差 $\\ c =$ $( E D W F _ { M e a }  – E D W F _ { c a l } ) / E D W F _ { M e a } ,$ ，分析观察相对误差与射线能量、楔形角度、射野大小、射野边缘与等中心点最短距离等之间的关系及变化趋势，结合实际临床允许误差，从而得到不同楔形角度、射野大小、射野边缘与等中心最短距离情况下对应的校正系数。计算校正后的相对误差并将校正后的楔形因子运用于常规二维计划射野中心点跳数计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1EDW楔形因子计算结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以方向Y1-in,能量6MV为例,与测量结果对比，就对称野而言，同一射野大小相对误差随角度增大而增大，同一楔形角度相对误差随射野增大而增大，如图1。射野 $2 0 \\ \\mathrm { c m } { \\times } 2 0 \\ \\mathrm { c m }$ 楔形角 $6 0 ^ { \\circ }$ 最大相对误差为$4 . 2 \\%$ ,楔形角 $4 5 ^ { \\circ } .$ 最大相对误差为 $2 . 5 \\%$ ,楔形角 $3 0 ^ { \\circ }$ 最大相对误差为 $1 . 3 \\%$ 。非对称射野相对误差与楔形角度、射野大小、射野边缘与等中心间最短距离d密切相关(图2)。同一角度、相同射野大小下，射野边缘与等中心间最短距离越小，相对误差越大，射野 $2 0 \\ \\mathrm { c m } { \\times } 2 0 \\ \\mathrm { c m }$ $( \\mathrm { Y } 1 { = } { - } 1 8 , \\mathrm { Y } 2 { = } 2 ) ,$ 、楔形角 $6 0 ^ { \\circ } .$ 最大相对误差高达 $. 4 . 7 \\%$ .楔形角 $4 5 ^ { \\circ } .$ 最大相对误差为- $2 . 9 \\%$ 。楔形角 $3 0 ^ { \\circ } .$ 非对称射野最大相对误差绝对值为- $. 1 . 9 \\%$ 。以上特性同样存在于能量为 $1 0 \\mathrm { M V }$ （楔形方向为Y1-in），楔形角 $6 0 ^ { \\circ }$ 非对称野最大相对误差出现在射野 $2 0 \\thinspace \\mathrm { c m } { \\times } 2 0 \\thinspace \\mathrm { c m }$ （ $\\mathrm { Y } 1 { = } { - } 1 8$ ， $\\mathrm { Y } 2 =$ 2)，为 ${ - 3 \\% }$ 。楔形角 $3 0 ^ { \\circ } .$ 所测楔形野最大相对误差绝对值为 $1 . 1 \\%$ 。能量 $1 0 \\mathrm { M V }$ 相对误差比6MV相对误差要小。2.2分析楔形因子相对误差与楔形角度、射野大小、射野边缘与等中心间最短距离d之间的关系",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如2.1所述，得到如下校正方法：对由公式(1)得出的楔形角 $6 0 ^ { \\circ } , 4 5 ^ { \\circ }$ 楔形因子计算结果做如下校正，如公式(4)，a为校正因子。楔形角 $3 0 ^ { \\circ }$ 及以下角度不作任何校正。以 $2 0 \\mathrm { c m } { \\times } 2 0 \\mathrm { c m } \\mathrm { , } 1 0 \\mathrm { c m } { \\times } 1 0 \\mathrm { c m }$ 为例,结果如表2所示。经数据分析表明，以上校正方法同样适用于楔形方向Y2-outo",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE D W F _ { \\theta } = \\frac { S T T _ { \\theta } \\left( Y + \\alpha \\right) } { S T T _ { \\theta } \\left( Y _ { f } \\right) } = \\frac { w _ { \\theta } \\big [ S T T _ { \\epsilon } \\left( Y + \\alpha \\right) \\big ] + w _ { 0 } \\big [ S T T _ { \\epsilon } \\left( 0 \\right) \\big ] } { w _ { \\theta } \\big [ S T T _ { \\epsilon } \\left( Y _ { f } \\right) \\big ] + w _ { 0 } \\big [ S T T _ { \\epsilon } \\left( 0 \\right) \\big ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8326a2c4dc662573efcc46b46f9d69326a817f736720071509336b79b103d55e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3校正前后手工计算跳数MU与测量结果相对误差以楔形角 $6 0 ^ { \\circ }$ 为例，能量 $6 \\mathrm { M V , 1 0 \\mathrm { M V } }$ 测量结果与Eclipse计划系统计算跳数MU结果最大相对误差分别为 $1 . 4 \\% . 1 . 1 \\%$ 。校正前，与手工计算所得跳数MU最大相对误差分别为 $. 9 . 9 \\%$ 、 $- 8 . 4 \\%$ ，校正后相对误差降为 $6 . 9 \\% . - 5 . 8 \\%$ 。相对误差随楔形角度的增大而增大，且与射野大小、射野边缘与等中心间最短距离有密切关系。此外,能量 $1 0 \\mathrm { M V }$ 楔形因子、跳数MU与测量结果相对误差比能量6MV对应的相对误差要小。给予相同处方剂量 $2 0 0 \\mathrm { c G y }$ ,手工计算和Eclipse计划系统计算所得MU与测量结果对比分析，以楔形角 $6 0 ^ { \\circ } . 4 5 ^ { \\circ }$ ，射野$2 0 \\mathrm { c m } { \\times } 2 0 \\mathrm { c m } \\mathrm { . } 1 0 \\mathrm { c m } { \\times } 1 0 \\mathrm { c m }$ 为例(表3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/631df4126d8b931da8c158b2cb7061484378d153fa9b7344dc0126bc84ffff5f.jpg",
+        "table_caption": [
+            "表1公式(3)计算参数说明Tab.1 Parameter description of equation 3"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Symbol</td><td>Definition</td><td>Symbol</td><td>Definition</td></tr><tr><td>TMR</td><td>Tissue-maximum ratio</td><td>Sp</td><td>Phantom scatter factor</td></tr><tr><td>WF</td><td>Wedge factor</td><td>CF</td><td>Calibration factor</td></tr><tr><td>TF</td><td>Tray factor</td><td>InverSqCorr</td><td>Inverse squares correction factor</td></tr><tr><td>Sc</td><td>Collimator factor</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0c371a0810992654601a4c0264c66f1d060231b8c7677c7afe4d00559fe1a29.jpg",
+        "img_caption": [
+            "图1对称野EDWF相对误差分析Fig.1Deviation analysis of symmetric fields.[Deviation=（20 $( E D W F _ { M e a } – E D W F _ { c a l } ) / E D W F _ { M e a } ]$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3c3968a7824b7cda6babff8ff2b461a8a8c4c300ff5cd995fe321146afa6f40.jpg",
+        "img_caption": [
+            "图2非对称野EDWF相对误差绝对值随角度、射野大小变化 规律 Fig.2Correlation of asymmetric fields EDWF absolute deviation with angle, field sizes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据加速器输出分割模型的定义，将动态楔形野剂量贡献分为两部分：第一部分为准直器从开始位置运动到测量点位置的贡献，第二部分为准直器从测量点到最终位置的贡献。第一部分没有考虑到准直器运动过程中射野面积的减少所导致的散射贡献减少，造成第一部分“高估\"测量点的剂量。第二部分因测量点被准直器完全遮挡，模型定义第二部分对测量点没有贡献，忽略了准直器的穿透射线和侧向的模体散射，造成第二部分“低估\"测量点的剂量。因此,对于非对称野来说,射野几何中心在射野等中心(测量点)左侧时，计算值大于测量值，反之小于测量值。射野越大且不对称程度越高的情况下，EDW楔形因子计算结果与测量结果相对误差越大。据此，在本研究中，当射野几何中心偏离射野等中心大于 $4 \\mathrm { c m }$ 时，按照楔形野运动方向(Y方向)分为大于和小于 $1 5 \\mathrm { c m }$ 两种情况分别给予合适的常数因子校正。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e04a2dbf47ff2309b7b19d9b24b01dc67e5bbff76ca0331d17c17057848f464e.jpg",
+        "table_caption": [
+            "表2校正前后EDW楔形因子计算值与测量结果的相对误差 Tab.2 EDWF deviations between manually calculated (uncorrected/corrected) and measured results $( \\% )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">d (cm)</td><td colspan=\"2\">20 cmx20 cm</td><td colspan=\"2\">10 cmx10 cm</td></tr><tr><td>Uncorrected (%)</td><td>Corrected (%)</td><td>Uncorrected (%)</td><td>Corrected (%)</td></tr><tr><td rowspan=\"8\">60° 6MV</td><td>Symmetric</td><td>4.2</td><td>1.3</td><td>2.4</td><td>0.4</td></tr><tr><td>4</td><td>-3</td><td>-0.2</td><td>1.2</td><td>-0.8</td></tr><tr><td>3</td><td>-3.8</td><td>-1.0</td><td>1.9</td><td>-0.1</td></tr><tr><td>2</td><td>-4.7</td><td>-1.8</td><td>3.1</td><td>1.2</td></tr><tr><td>Symmetric</td><td>2.5</td><td>0.8</td><td>1.8</td><td>0.60</td></tr><tr><td>4</td><td>-1.9</td><td>-0.3</td><td>-0.6</td><td>0.5</td></tr><tr><td>3</td><td>-2.4</td><td>-0.8</td><td>1.0</td><td>-0.2</td></tr><tr><td>2</td><td>-2.9</td><td>-1.2</td><td>1.7</td><td>0.5</td></tr><tr><td rowspan=\"7\">60° 10 MV 45°</td><td>Symmetric</td><td>2.1</td><td>-0.4</td><td>1.3</td><td>-0.4</td></tr><tr><td>4</td><td>-1.2</td><td>1.0</td><td>1.1</td><td>-0.6</td></tr><tr><td>3</td><td>-1.9</td><td>0.5</td><td>1.5</td><td>-0.6</td></tr><tr><td>2</td><td>-3.0</td><td>-0.6</td><td>2.8</td><td>1.1</td></tr><tr><td>Symmetric</td><td>1.3</td><td>-0.4</td><td>0.9</td><td>0.0</td></tr><tr><td>4</td><td>1.1</td><td>-0.6</td><td>0.4</td><td>-0.3</td></tr><tr><td>3</td><td>1.5</td><td>-0.6</td><td>1.3</td><td>0.3</td></tr><tr><td></td><td>2</td><td>2.8</td><td>1.1</td><td>1.7</td><td>0.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/218abfae25986fb0d7c72c521c64b8da3407b720d7c3a0d6bb972a13a5f8f4a6.jpg",
+        "table_caption": [
+            "表3校正前后手工计算跳数MU与测量结果相对误差 Tab.3 Mu Deviations between manually calculated (uncorrected/corrected) and measured results $( \\% )$ "
+        ],
+        "table_footnote": [
+            ")d:the minimum distance between field edge and central axis; 2)TPS: Treatment planning system "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td rowspan=\"2\">d (cm)</td><td colspan=\"3\">20 cmx20cm</td><td colspan=\"3\">10 cmx10 cm</td></tr><tr><td></td><td></td><td>Before adjustment (%） After adjustment (%)</td><td></td><td>TPS (%)</td><td>Before adjustment(%）After adjustment (%)</td><td></td><td>TPS (%)</td></tr><tr><td rowspan=\"10\">6MV</td><td>Symmetric</td><td></td><td>4.3</td><td>1.3</td><td>1.4</td><td>1.5</td><td>-0.6</td><td>0.6</td></tr><tr><td>60°</td><td>4</td><td>-4.1</td><td>-1.2</td><td>0.4</td><td>1.5</td><td>-0.5</td><td>-0.3</td></tr><tr><td></td><td>3</td><td>-6.6</td><td>-3.7</td><td>0.2</td><td>-2.2</td><td>-0.3</td><td>-0.4</td></tr><tr><td></td><td>2</td><td>-9.9</td><td>-6.9</td><td>-0.2</td><td>-4.6</td><td>-2.7</td><td>-0.6</td></tr><tr><td></td><td>Symmetric</td><td>3.3</td><td>1.6</td><td>1.4</td><td>1.5</td><td>0.4</td><td>1.1</td></tr><tr><td>45°</td><td>4</td><td>-2.9</td><td>-1.3</td><td>0.4</td><td>0.8</td><td>-0.4</td><td>-0.1</td></tr><tr><td></td><td>3</td><td>-4.9</td><td>-3.2</td><td>0.3</td><td>-1.5</td><td>-0.4</td><td>-0.3</td></tr><tr><td></td><td>2</td><td>-7.9</td><td>-6.8</td><td>-0.1</td><td>-3.7</td><td>-2.6</td><td>-0.6</td></tr><tr><td></td><td>Symmetric</td><td>1.7</td><td>-0.8</td><td>0.1</td><td>1.6</td><td>-0.1</td><td>0.8</td></tr><tr><td rowspan=\"5\">60° 10 MV</td><td>4</td><td>-3.6</td><td>-1.2</td><td>-0.6</td><td>-3.0</td><td>-1.3</td><td>0.6</td></tr><tr><td>3</td><td>-5.6</td><td>-3.1</td><td>-0.9</td><td>-4.3</td><td>-2.6</td><td>0.4</td></tr><tr><td>2</td><td>-8.4</td><td>-5.8</td><td>-1.1</td><td>-6.5</td><td>-4.9</td><td>0.3</td></tr><tr><td>Symmetric</td><td>1.1</td><td>-0.4</td><td>-0.3</td><td>1.3 1.4</td><td>0.3</td><td>0.4</td></tr><tr><td>4</td><td>-2.9</td><td>-1.5</td><td>-0.2</td><td></td><td>0.5</td><td>0.3</td></tr><tr><td>45°</td><td>3 2</td><td>-4.5 -6.9</td><td>-3.1 -5.4</td><td>-0.4 -0.5</td><td>-0.4 -2.2</td><td>0.5 -1.3</td><td>-0.1 -0.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于射野中心点处EDW楔形因子的研究，有报道表明将对称野的楔形因子应用于计算非对称野的处方剂量时，其计算结果与测量结果误差最高可达 $4 8 \\% ^ { [ 1 2 ] }$ （2Kuperman4在加速器输出分割模型上提出的漂移方法(shiftmethod)计算射野中心点楔形因子，相对误差在 $1 . 0 \\%$ （20 ${ \\sim } 1 . 8 \\%$ ,方法计算量庞大，且理解较困难。Gossman[13]在上述漂移方法基础上提出矩阵校正方法，与瓦里安Eclipse计划系统计算结果对比,最大相对误差小于 $2 \\%$ 。校正矩阵因能量而异。本研究结果表明：经该常数校正因子校正后，楔形野最大相对误差减少到 $2 \\%$ 以内，方法简单有效，且同时适合6MV和 $1 0 \\mathrm { M V }$ 光子线能量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在上述研究中，还提供了动态楔形野下对射野中心点的常规跳数计算和测量的结果。显然，对于对称野来说，经过楔形因子的校正后，手工计算结果相对测量结果的误差在 $1 . 6 \\%$ 内，符合临床应用的要求。对于非对称野，当射野边缘与等中心间最短距离 $\\mathrm { { d } \\geq 4 \\thinspace c m }$ 时，手工计算结果与测量结果相对误差在 $3 \\%$ 以内；但当 $\\mathrm { d } { < } 4 \\mathrm { c m }$ 时，手工计算结果与测量结果最大相对误差超过 $5 \\%$ ○Eclipse系统计算结果与测量结果相对误差小于 $2 \\%$ ○显然，对于这种非对称射野来说，不能简单采用针对射野中心点的常规跳数计算方法，考虑采用较为复杂的非对称射野处方剂量计算方法[414],或采用合适的治疗计划系统计算[15],例如Eclipse治疗计划系统。当然,采用直接测量的方式给予相应的剂量跳数也是方法之一。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Edlund TL.Treatment planning of oblique wedge fields comparing ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "enhanced dynamic wedge and standard 6O degree wedge for parotid type treatments[J].Med Dosim,1997,22(3):197-9.   \n[2]Warlick WB,O'rear JH,Earley L,et al. Dose to the contralateral breast: a comparison of two techniques using the enhanced dynamic wedge versus a standard wedge[J].Med Dosim,1997,22(3): 185-91.   \n[3]Prado KL,Kirsner SM,Kudchadker RJ,et al.Enhanced dynamic wedge factors at off-axis points in asymmetric fields[J]. JAppl Clin Med Phys,2003,4(1): 75-84.   \n[4]Kuperman VY.Analytical representation for varian EDW factors at off-center points[J].Med Phys,2005,32(5):1256-61.   \n[5]Liu C,Li Z,Palta JR.Characterizing output for the Varian enhanced dynamic wedge field[J].Med Phys,1998,25(1): 64-70.   \n[6]Gibbons JP. Calculation of enhanced dynamic wedge factors for symmetric and asymmetric photon fields [J].Med Phys,1998,25 (8): 1411-8.   \n[7]Yu MK.Analytical representation of enhanced dynamic wedge factors for symmetric and asymmetric photon fields[J]. Med Phys, 2002,29(11): 2606-10.   \n[8]Liu C,Kim S,Kahler DL,et al. Generalized monitor unit calculation for the Varian enhanced dynamic wedge field[J].Med Phys, 2003,30(7): 1891-6.   \n[9]Varian Medical System,Inc.C-Series clinac:Enhanced dynamic wedge implementation guide [M]. Palo Alto (CA): Oncology System/Delivery Systems; 2006.   \n[10]Petti PL,Siddon RL.Effective wedge angles with a Universal wedge [J].PhysMed Biol,1985,30(9): 985-91.   \n[11]Khan F.The physics of radiation therapy[M].2nd ed.Philadelphia: Lippincott Williams & Wilkins,1994: 176-225.   \n[12]王 丹,何京学,高 鸿,等.手工计算非对称动态楔形野处方剂量的校 正[J].中华放射医学与防护杂志,2010,30(1):47-9.   \n[13]Gossman MS,Sharma SC.Analytical correction of an extension of the \"MU Fraction Approximation\"for Varian enhanced dynamic wedges[J].JMed Phys,2010,35(2): 65-72.   \n[14] Thomas SJ,Thomas RL.A beam generatin algorithm for linear accelerator with Independent collimators[J].Phys Med Biol,1990, 35(9): 322-5.   \n[15]邢晓汾,崔 桐,郑旭亮,等.两种治疗计划系统三种算法对EDW模型 准确性比较[J].中华放射肿瘤学杂志,2012,21(5):468-70. （起旦） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

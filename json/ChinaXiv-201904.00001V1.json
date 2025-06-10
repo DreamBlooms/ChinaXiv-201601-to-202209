@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "基于自我决定理论的工作动机研究脉络及未来走向",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张春虎(广东工业大学管理学院，广州510520)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 对2018年5月为止基于自我决定理论的工作动机研究英文文献的系统检索得到了97篇实证研究样本。基于自我决定理论的核心假设，运用“环境一基本心理需要一工作动机一结果”的理论模型对工作动机前因和结果的研究脉络进行了仔细地分析和归纳，结果表明员工基本心理需要满足和自主性工作动机作为中介变量可解释自主性支持的工作环境和员工个体特征对工作行为、态度和心理健康的积极影响。将来的主要研究议题：一是对控制性工作环境具体因素对员工基本心理需要阻滞、控制性动机和去动机以及员工工作行为、态度和心理健康影响的研究；二是不同动机类型对员工业绩、行为和态度影响的过程以及情境因素的研究；三是外部奖励（包括薪酬、基于业绩的奖励等）对员工工作动机、基本心理需要、工作业绩和心理健康的影响及边界条件的深入研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词自我决定理论；基本心理需要满足 (阻滞)；工作动机；研究脉络",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849:C93;F272.92",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工作动机一直是组织管理者关注的焦点问题，也是学界研究最多的课题（Pinder,2008）。上世纪70年代，Deci和Ryan 基于外部奖励如何影响内在动机的实验研究，整合人类内化理论、个体因果定向等理论,于1985 年提出了自我决定理论（Self-Determination Theory,简写为SDT）（Deci& Ryan,1985a)，随后该理论在教育心理学、体育运动心理学和健康心理学等领域得到了广泛应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尽管自我决定理论不是针对工作动机提出的，但其最初结论，即外部奖励可能损害内在动机（Deci,Koestner,&Ryan,1999)，挑战了传统的内在和外在工作动机具有叠加效应的观点，也挑战了组织管理实践中以行为主义和经济学理论为基础的主要依赖物质奖励激励员工的管理模式。自我决定理论也突破了以往把工作动机划分为内在、外在动机的两分法，辨识出人类从事活动的不同类型动机，并提出各种动机是不同的心理过程，会有不同的前因或结果，为工作动机的研究提供了新理论框架。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论能否应用于组织管理中的工作动机研究，也受到了不少学者的质疑。为此，Deci,Connell 和 Ryan 于1989 年开始将自我决定理论应用于组织管理的干预研究，之后其他学者也开展了相应研究。2005 年，Gagné 和 Deci 具有里程碑作用的理论综述提出了基于自我决定理论的工作动机研究模型，指出了具体的研究问题，极大地推动了工作动机的相关研究，研究数量大幅增加。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三十多年来，基于自我决定理论的工作动机研究究竟取得了什么样的进展？这些研究对工作动机的研究做出了哪些贡献？还有哪些重要的问题需深入研究？这些都是亟待回答的问题。尽管 Deci,Olafsen 和Ryan（2017）的综述研究对相关重要变量间的关系做了较详细地阐述，但并没有对文献进行系统地检索，也没有研究脉络的仔细梳理和归纳。国内学者刘靖东、钟伯光和姒刚彦（2013）着重分析了自我决定理论在中国人群各个生活领域的应用研究状况，也没有针对工作动机研究进行系统分析。张剑、张建兵、李跃和Deci（2010）的综述研究着重于自我决定理论框架下工作动机理论和应用价值的分析和归纳，涉及的研究文献有限，也没有仔细梳理和总结研究脉络。因此本文主要目的是系统地梳理和分析自我决定理论框架下工作动机的研究脉络，总结研究成果，厘清工作动机未来的研究方向，为基于中国文化背景的工作动机研究和管理实践提供借鉴和指引。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 自我决定理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1自我决定理论的动机类型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论最显著的特色是辨识出人们从事活动的三种动机，即内在动机（intrinsicmotivation）、外在动机（extrinsic motivation）和去动机（amotivation）。内在动机指由于自己的兴趣和活动本身的乐趣而从事活动的动机；外在动机指为获得活动所能带来的另外结果而从事活动的动机；去动机指缺乏从事活动意图的动机（Ryan&Deci,2000a）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论进一步区分出外在动机的不同类型。SDT认为人类具有内生的吸收、同化和整合社会赞许的行为、价值观和规范的倾向。由于个体对这些外部行为、价值观和规范的内化与整合程度差异，导致了人们从事非内在激励的行为时可能呈现出不同类型的外在动机，即外部调节（extermalregulation）、摄入调节（introjected regulation）、认同调节（identified regulation）和整合调节（integratedregulation)。外部调节指依赖于外部条件，为获得行为所能带来的工具性结果而从事活动的动机;摄入调节指个体吸收外部规范或价值，但并没有完全同化这些外部规范或价值，为避免焦虑、愧疚或为提高自尊而从事活动的动机；认同调节指个体认同所从事活动的价值，感觉到活动对自身是重要的而从事活动的动机；整合调节指个体认同活动的价值并整合为自我价值的一部分而从事活动的动机（Ryan& Deci,2000b）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ryan 和 Deci（2000b）依据不同外在动机类型的自主性程度，将外在动机的类型依序排列在一个连续体上，从最少自主的外部调节，部分自主的摄入调节，充分自主的认同调节到完全自主的整合调节，再到内在动机。据此 Ryan 和 Deci提出自主性动机（autonomous motivation）和控制性动机（controlled motivation）两种类型动机。自主性动机是指从事活动时具有充分的意愿感、意志感和选择感的动机，包括内在动机以及整合调节和认同调节两个外在动机类型；控制性动机是指从事活动时具有被外部条件或内部心理强迫或控制感的动机，包括外部调节和摄入调节两类外在动机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2自我决定理论的核心假设 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论认为自主（autonomy）、胜任（competence）和关系（relatedness）三种基本心理需要是个体心理成长、内化和心理健康必备的条件。“自主需要”指个体体验到依据自己的意志和选择从事活动的心理自由感；“胜任需要”指个体体验到对自己所处环境的掌控和能力发展的感觉；“关系需要”指个体体验到与别人联系，爱和关爱他人以及被爱和被关爱的感觉（Ryan& Deci,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论的核心假设是：当组织环境满足员工的自主、胜任和关系三种基本心理需要时，就会体验到工作活动的意愿感、意志感和选择感，增强或维持自主性动机，此时行为就会更为持久，质量更高，最终产生更有效的行为结果，也增进个体的身心健康；相反，当个体的自主、胜任和关系三种基本心理需要受到阻滞时，员工在工作活动就会体验到较强的被控制感，展现出较强的控制性动机或无动机，此时个体更加关注外在的结果，对行为结果和敬业水平产生负面效应（Gagné&Deci, 2005)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于自我决定理论的工作动机操作化及测量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对工作场所的工作动机已经开发出了多种自我报告量表，但各个量表所包含的动机类型并不一致。如Blais,Briere,Lachance,Riddle 和 Vallrand（1993）法语版工作动机多类型量表（The BlaisInventoryof Work Motivation）是31个项目的里克特量表，包括内在动机、认同调节、摄入调节和外部调节四个动机类型；Tremblay,Blanchard,Taylor,Peletier 和 Villeneuve（2009）英语版工作外在和内在动机量表（TheWork Extrinsic and Intrinsic Motivation Scale）是18个项目的里克特量表，包括内在动机、整合调节、认同调节、摄入调节、外部调节和去动机六个动机类型;Gagné 等人（2010)英语和法语两个版本的工作动机量表（The Motivation at Work Scale）是12个项目的里克特量表，包括内在动机、认同调节、摄入调节和外部调节四个类型；Gagne 等人（2015）对原工作动机量表进行了重新修订，基于九个国家七种不同语言文化背景开发出新的多维度工作动机量表（TheMultidimensional Work Motivation Scale)，是19 个项目的里克特量表，包括内在动机、认同调节、摄入调节、外部调节和去动机五个动机类型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前实证研究中对工作动机采用三种操作化策略。第一，把各种动机类型测量结果作为独立变量,来考察与其它相关变量的关系,如 Beek,Hu,Schaufeli,Taris 和 Schreurs(2012)以及 Zhang,Zhang,Song 和Gong（2016）等研究。第二，对工作动机各个类型测量结果进行算术运算，综合成新动机指数或新动机类型。目前较多研究将“内在动机”和“认同调节”两个动机类型综合成“自主性工作动机”，把“外部调节”和“摄入调节”综合为“控制性工作动机”，以比较这两种不同动机类型的影响或前因变量的差异,如 Tremblay 等（2009)以及Gillet,Gagné,Sauvagere 和 Fouquereau(2013）等研究。有些研究依据工作动机类型的连续体模型，给各个动机类型赋予相应权重后计算“工作动机相对自主性指数（RAI)\"，以该指数来预测相关变量的变异，如Deci,Connell和 Ryan（1989）在研究中计算“工作动机相对自主性指数”的公式是： $2 \\times$ 内在动机 $. +$ 认同调节-摄入调节 $- 2 \\times$ 外部调节。第三，基于各个动机类型是同时存在并可能产生互动效果的假设，通过聚类分析（Cluster Analysis）或潜在构型分析（The Latent Profile Analysis）来区分不同动机类型自然组合所形成的群体，然后考察不同人群的行为结果及前因变量差异，如 Broeck,Lens,Witte 和 Coillie（2013）以及Gillet, Becker,Lafreniere,Huart 和 Fouquereau（2017）等研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于自我决定理论的工作动机研究脉络分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1样本选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为全面系统地梳理以往研究成果，检索 2018年5月为止的研究文献。为保证能客观和准确地分析和归纳工作动机的研究脉络，运用以下步骤进行样本筛选：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "步骤1，运用Web of Science、EBSCO 和PsycINFO三大数据库进行高级检索。检索主题词是“Self-determinationtheory”、“self-determined motivation”和“Work motivation”、“employeesmotivation”、“autonomous motivation”、“controled motivation”、“amotivation\"五个词中的一个。检索文献的筛选条件为 2018年5月为止的同行评审英文文献，并排除了\"Students'motivation\"和“社论、书籍、综述、临床实验类型”的文献，结果得到符合条件的701个研究样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤2，阅读经过步骤1筛选后所得到的样本摘要，去除重复文献，运用以下标准进行再次筛选。一是文献必须是以员工或各类组织中的工作者为对象的研究；二是文献必须是基于自我决定理论的实证研究（横断和纵贯以及实验和半实验研究设计)；三是研究样本中至少涉及自我决定理论中的一个动机类型与前因或结果变量间关系研究，必须提供变量之间的相关系数；四是研究必须报告明确的样本数量及变量信度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "步骤3，为避免遗漏，仔细阅读高被引样本（来自于Webof Science 检索结果）的参考文献目录作为文献补充来源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经以上三个步骤最终得到97篇样本文献（见后参考文献带\\*的文献)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论已经形成了“环境一基本心理需要一工作动机一结果”的理论模型。据此为整合已有的实证研究，提出一个综合研究模型（见图1所示，图中的A表示自主性支持环境的四类因素，B 表示工作动机的三种类型)。图1模型把工作环境因素分为自主性支持环境和控制性环境并作为自变量，基本心理需要满足（或阻滞）和三类动机（自主性动机、控制性动机和去动机）作为中介变量来解释工作环境对员工的影响。同时，实证研究表明员工个体特征直接影响基本心理需要满足和工作动机，也作为前因变量。图中的粗实线表示变量间关系有较多的研究文献，细实线表示变量间关系有较少的研究文献。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e472e02ff760fb331e07f48ab57827d6748107d8b8a0a131368bafc3bc799232.jpg",
+        "img_caption": [
+            "图1基于自我决定理论的工作动机研究模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对 97 篇研究样本中前因变量的分类和归纳，自主性支持环境因素主要集中在工作特征、领导风格、自主性支持人际氛围和组织支持感四个方面。控制性环境主要集中在上级的负面行为、工作场所的欺辱、工作的负面特征和员工的组织政治知觉四个方面。个体特征包括个体因果定向和个人工作目标或工作价值定向两个特征。工作动机的结果变量包括员工的工作业绩、工作行为（工作投入、工作坚持、工作敬业度、组织公民行为）、工作态度（工作满意度、组织承诺）以及心理健康指标（工作倦怠、工作压力感和工作焦虑等)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对 97 篇样本文献从研究设计以及所涉及变量的分类和归纳，得出目前研究的主要脉络：“脉络一”是不同工作动机的主效应研究，目的是检验自主性动机、控制性动机和去动机对员工工作行为和态度的预测作用；“脉络二”是基本心理需要满足对员工工作动机以及工作行为、态度和心理健康的影响研究，目的是检验员工三种基本心理需要满足是否是促进员工成长和积极行为的心理条件；“脉络三”是自主性支持工作环境因素通过工作动机影响员工工作行为、态度和心理健康的研究，目的是检验工作动机作为中介变量能否解释自主性支持工作环境对员工工作行为、态度和心理健康的影响；“脉络四”是自主性支持工作环境因素通过基本心理需要满足影响员工工作行为、态度和心理健康的研究，目的是检验基本心理需要满足作为中介变量能否解释自主性支持环境对员工工作行为、态度和心理健康的影响；“脉络五”是控制性工作环境影响员工工作行为和态度的心理过程研究，目的是检验工作动机和基本心理满足（或阻滞）作为中介变量能否解释控制性工作环境对员工工作行为、态度和心理健康的影响；“脉络六”是员工个体特征通过基本心理需要满足（或阻滞）或工作动机影响员工工作行为、态度及心理健康的研究，目的是检验员工个体特征影响员工的心理过程。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3基于自我决定理论的工作动机研究脉络分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1脉络一：工作动机的主效应研究",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）自主性工作动机对员工的影响（联系8一11)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“联系8—11”（16个研究样本）得出一致的结论，即自主性工作动机正向预测员工的积极工作行为和态度以及心理健康。不同职业样本的横断或纵贯研究表明：自主性工作动机正向预测员工的工作满意度（Batistell, Galletta,Portoghese,& Vandenberghe,2O13；Gillet,Fouquereau,Lafreniere,&Huyghebaert,2O16； Ilardi,Leone,Kasser,& Ryan,1993；Nencini, Romaioli,& Meneghini， 2016;Tremblay et al.,2009)、工作努力（Bidee et al.,2013; Gagné et al.,2015）、工作活力（Gagné et al.,2015）、工作敬业度（Beek,Taris,& Schaufeli,2011；Broeck et al.,2011；Lopes& Chambel,2017）、职业承诺(Fernet,Austin,& Vallerand,2012）、情感承诺（Batistelli et al.,2013；Gagné et al.,，2015；Gagné,Chemoli,Forest,&Koestner,2008;Tremblay et al.,2009）、组织公民行为（Battisteli etal.,2013;Roche&Haar,2013；Tremblay et al.,2009）和留职意向（Li,Wu,& Ying,2016)。自主性工作动机负向预测离职意向（Batisteli et al.,2013；Gagné et al.,2015）、工作焦虑感（Gillet et al.,2016）和工作压力感（Tremblay etal.,2009)。但自主性工作动机对工作倦怠的预测作用出现了矛盾的结论，有些研究发现自主性工作动机负向预测员工的工作倦怠（Broeck et al.,2011；Gagné et al.,2015；Fernet et al,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2012)，而有研究发现自主性工作动机与员工的工作倦怠不相关（Lopes＆Chambel,2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“脉络一”（1个研究样本）研究也表明“工作动机相对自主性指数”正向预测员工的工作满意度和组织承诺，负向预测员工的工作压力感和离职意向（Tremblay et al.,2009)。“脉络一”（4个研究样本）工作动机的聚类或潜在构型分析也表明：不论控制性动机的水平是高或低，“高自主性动机群体”的工作满意度、工作敬业度、组织承诺和积极情感高于“低自主性动机群体”（Broeck et al,2013；Gillet et al.,2017；Graves, Cullen,Lester,Ruderman,& Gentry,2015；Howard, Gagné, Morin,&Anja,2016)，其工作压力感、工作倦怠和消极情感水平低于“低自主性动机群体\"（Broeck etal.,2013;Gillet et al., 2017； Howard et al., 2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）控制性工作动机对员工的影响（联系9—11）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“联系9—11”（9个研究样本）并未得出一致的结论。有些研究发现控制性工作动机正向预测员工的工作倦怠和离职意向（Beek et al.,2012；Gagné et al.,2015；Fernet et al.,2012)，负向预测员工的工作满意度(Gillet et al.,2016)、组织公民行为(Roche& Haar,2013)和留职意向(Li et al.,2016),但有些研究发现控制性工作动机与员工的工作倦怠（Lopes&Chambel,2017）、工作努力（Bidee et al,2013）、离职意向（Battistellietal.,2013）不相关。“脉络一”工作动机的聚类分析或潜在构型（3个研究样本）分析发现：当动机构型中自主性动机占主要成分时，控制性动机的高低并没有对该群体员工的工作满意度、工作热情、工作敬业度和组织承诺产生增减效果（Broeck et al.,2013;Gillet et al,2017； Graves et al., 2015)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）去动机对员工的影响（联系10—11)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "“联系10—11”（2个研究样本）得出一致的结论，即去动机负向预测员工的留职意向（Liet al,2016）、工作活力和工作努力，正向预测员工的情感耗竭、离职意向（Gagné et al.,2015)。“脉络一”工作动机聚类分析（1个研究样本）也表明“去动机构型群体”（十分高的去动机，平均值以下的内在动机、认同调节、摄入调节和外部调节）的角色内外绩效、工作满意度、工作敬业度水平是最低的（Howard etal.,2016)，但去动机对员工组织承诺的预测作用出现了相互矛盾的结论，有研究发现去动机负向预测员工的情感承诺（Gagné et al.,2015)，但也有研究发现去动机正向预测教师的情感承诺（Imran,Allil,& Mahmoud,2017）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）自主性工作动机、控制性工作动机对员工工作绩效的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gagne 和Deci（2005）提出“自主性工作动机与控制性工作动机对工作绩效可能会有不同的影响”，但目前对此问题研究较少。教育领域的研究发现对日常不复杂的任务，控制性动机比自主性动机更能促进学生的短期绩效，而对复杂和需要创造性的工作，自主性动机比控制性动机更能促进行为坚持和提高绩效（Grolnick&Ryan,1987)。工作动机的聚类分析表明：相比其他动机构型，五个动机类型（外部调节、摄入调节、认同调节、整合调节和内在动机）都处于高水平的群体，其角色绩效水平最高（Moran,Diefendorf,Kim,&Liu,2012)。这些研究初步表明自主性动机和控制性动机对工作绩效的影响可能存在叠加或互动效应，也可能会受到工作任务特征的影响，但目前没有得出一致的结论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）自主性工作动机的不同类型对员工的差异化影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "内在动机与自主性的外在动机（认同调节和整合调节）对员工是否有差异化的影响还没有一致的结论。Gagné 和Deci（2005）提出“自主性的外在动机（认同调节和整合调节）与内在动机具有不同的心理机制，可能会对员工产生不同的影响”。教育领域的实验室研究和现场研究表明：不管任务绩效如何，内在动机都正向预测学生的心理健康，认同调节正向预测任务绩效，且认同调节对心理健康的预测作用依赖于任务绩效水平（Burton,Lydon,Alessandro,& Koestner,2006)。Koestner和Losier（2002）在教育领域针对学生样本发现：内在动机与认同调节对行为绩效的影响可能受到任务特征的影响，即学生从事不感兴趣且需要自律和持续努力的任务时，认同调节对任务绩效具有更强的预测作用；当学生从事感兴趣的任务时，内在动机对任务绩效具有更强的预测效果。目前仅Zhang 等人（2016）运用横断和纵贯两种方法考察了中国公司员工的内在动机、认同调节、摄入调节和外部调节与员工绩效的关系，发现只有认同调节能正向预测员工的关系绩效和适应性绩效水平，这与Burton 等人结论基本一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2脉络二：基本心理需要满足对员工的工作动机以及工作行为和态度的影响研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）基本心理需要满足（阻滞）与不同动机类型直接关系的研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“联系6—8”（10个研究样本）得出了一致的结论，即员工基本心理需要满足正向预测自主性工作动机。首先，干预研究发现员工的基本心理需要满足是自主性动机的前因变量，增强员工的自主性工作动机（Lynch,Plant,& Ryan,2005)；其次，纵贯研究发现基本心理需要满足对员工工作自主性动机会产生时间滞后效应（Olafsen,Deci,&Halvari,2018)；第三，横断研究发现员工的基本心理需要满足与员工的内在动机（Dysvik,Kuvaas，& Gagné,2013；Longo,Gunz,Curtis,& Farsides,2016；Rasskazova,Ivanova,& Sheldon,2016；Vandercammen,Hofmans,& Theuns,2014）和自主性动机（Broeck,Ferris, Chang,& Rosen,2016；Broeck, Vansteenkiste,Witte, Soenens,&Lens,2010；Gagnéet al.,2015）正相关；第四，工作动机的聚类分析也表明员工的基本心理需要满足与自主性工作动机显著正相关（Moran et al.,2012）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“联系6—9”（4个研究样本）研究结论存在着相互矛盾。有研究发现员工基本心理需要满足与控制性动机负相关（Broeck et al.,2010)，而另外研究发现不相关（Haivas,Hofmans,&Pepermans,2013；Gagné etal.,2015）。Broeck 等人（2016）元分析也发现员工基本心理需要满足对控制性动机的预测作用较弱。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“联系6— ${ \\bf \\cdot } 1 0 ^ { \\bf 7 }$ （2个研究样本）初步结论是员工基本心理满足与去动机负相关（Broeck et al.,2016； Gagné et al., 2015）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“联系7—8”仅有1项研究表明员工的基本心理需要阻滞与内在动机负相关（Longo et al,2016)。“联系7—9”和“联系7—10”基于体育领域的研究表明运动员的基本心理需要阻滞与控制性动机和去动机正相关（Martinent,Guilat-Descas,& Moiret,2015)，但针对工作场所员工的基本心理需要阻滞与控制性工作动机和去动机之间的直接关系还缺乏实证研究证据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）员工基本心理需要满足影响员工工作动机以及工作行为和态度的研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“联系6—8—11”（3个研究样本）得出一致的结论，即自主性工作动机作为中介变量能部分解释员工基本心理需要满足对工作行为、态度和心理健康的积极影响。首先，横断研究表明自主性工作动机作为中介变量解释了员工基本心理需要满足对工作敬业度的积极影响（Haivas etal.,2013);第二，横断研究表明“工作动机相对自主性指数”作为中介变量能部分解释员工基本心理需要满足对工作满意度（Richer,Blanchard,& Vallerand,2002）、积极情感和活力感（Milyavskaya & Koestner,2011）的积极影响以及对工作倦怠和离职意向的消极影响（Richeretal.,2002）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“联系6—9—11”和“联系6—10—11”没有出现控制性工作动机和去动机作为中介变量解释员工基本心理需要满足对工作行为和态度影响的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“联系7—8—11”、“联系7—9—11”和“联系7—10—11”初步研究发现“工作动机相对自主性指数”作为中介变量可解释员工基本心理阻滞对情感耗竭的消极影响（Silvaet al.,2017)，但还没有自主性动机、控制性动机和去动机作为中介变量解释员工基本心理阻滞对工作行为和态度影响的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.3脉络三：自主性支持工作环境对员工工作动机以及工作行为和态度的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论强调社会环境对个体动机的影响，提出了“自主性支持环境”的概念，指“鼓励个体自由选择和自主体验的环境”（Deci&Ryan,1987)。目前主要从四大类因素开展了较多研究：一是工作环境中的人际关系氛围，包括管理者（或上级）的自主性支持和团队成员的自主性支持；二是管理者的领导风格；三是员工组织支持感；四是工作特征因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）管理者（或上级）自主性支持、工作动机及影响效果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "管理者（或上级）的自主性支持指管理者（或上级）在履行管理职能时激励下属的人际行为，包括重视下属的不同意见、给下属提供选择机会和有意义的反馈、鼓励下属主动行动、给下属制定最优挑战性的任务和提供任务合理化理由等支持性行为（Decietal.,1989）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“联系3.1—8—11”（12个研究样本）得出一致的结论，即管理者（或上级）自主性支持对下属工作动机、工作行为、工作态度以及心理健康会产生积极影响。首先，干预研究发现管理者（或上级）的自主性支持对下属的自主性工作动机和工作敬业度会产生积极的影响（Hardré& Reeve,2010)；第二，纵贯和横断研究发现管理者（或上级）自主性支持正向预测下属的内在工作动机(Guntert,2O15；Kuvaas,20O8; Nie,Chua, Yeung,Ryan,& Chan,2015; Pelletier,Fortier, Vallerand,&Briere,2001）、工作动机相对自主性指数（Otis &Pelletier,2005;Williams,Halvari,Niemiec,Olafsen,&Westbye,2014）和自主性工作动机（Gillet, Gagne,et al.,2013; Guntert,2015; Haivas,et al.,2013; Nie etal.，2015; Oostlander, Guntert,& Wehner,2014; Pelltier et al.，2001； Schie,Guntert, Oostlander，&Wehner,2015)。在管理者（或上级）的自主性支持与工作行为和态度之间关系中，内在工作动机作为中介变量又正向预测工作业绩（Kuvaas,2008）、工作满意度（Guntert,2015;Nie etal.,2015）和组织公民行为（Guntert,2015)；工作动机相对自主性指数作为中介变量正向预测员工的留职意向（Otis&Pelletier,2005)；自主性工作动机作为中介变量又正向预测工作满意度（Gillet,Gagne,et al.,2013;Oostlander et al.,2014）、工作行为坚持（Peletier et al.,2001）、工作敬业度和组织公民行为（Schie etal.,2015)。第三，目前研究也发现员工的自主性工作动机能部分解释管理者（或上级）自主性支持对员工心理疾病的减缓作用，包括压力知觉、身体疾病症状、情绪耗竭（Williams et al.,2014）、日常心理困扰（Otis &Pelletier,2005）和离职意向（Gillet,Gagné,et al.,2013；Williams et al.,2014)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“联系3.1—9—11”（4个研究样本）的结论并不一致。有研究发现管理者（或上级）自主性支持负向预测员工的外部调节，且外部调节作为中介变量又负向预测员工满意度，正向预测工作压力感（Nie etal.,2015)，而另有研究发现管理者（或上级）的自主性支持与下属的外部调节（Guntert,2015；Pelletier et al.,2001）和控制性工作动机（Gillet,Gagné,et al.,2013）不相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“联系3.1—10—11”（3个研究样本）初步结论发现管理者（或上级）的自主性支持负向预测员工的去动机，而去动机作为中介变量负向预测员工的行为坚持（Peletier et al.,2001）、正向预测员工的离职意向（Guntert,2015）、工作压力感和身体疾病症候（Nie etal.,2015）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）团队成员的自主性支持、工作动机及影响效果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论框架也运用到团队效能研究，提出了“团队成员自主性支持”的概念，指团队成员能重视对方的不同意见、提供选择机会和有意义的反馈、互相鼓励按自己意愿开展工作等支持性行为（Moreau & Mageau, 2O12; Jungert, Koestner, Houlfort, & Schattke, 2013）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“联系3.2—8—11”（4个样本研究）发现团队成员的自主性支持对成员的自主性工作动机、工作行为、工作态度及心理健康的积极影响。首先，干预研究发现团队成员的自主性支持显著提升了团队成员的基本心理需要满足和自主性工作动机（Jungert,Broeck,Schreurs,&Osterman,2018）。其次，横断和纵贯研究也发现团队成员的自主性支持正向预测团队成员的自主性工作动机（Hon,2012；Jungert et al.,2013;Liu,Zhang,Wang,&Lee,2011)，而团队成员的自主性工作动机作为中介变量又正向预测员工的创造性绩效（Hon，2012)，负向预测其自愿离职（Liu etal.，2011)。“联系3.2—9—11”和“联系3.2—10—11”目前没有发现团队成员的自主性支持对成员的控制性动机或去动机减缓效应的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）领导风格、工作动机及影响效果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gilbert和Kelloway（2014）认为管理者的变革型领导、领导成员交换关系、真诚领导和魅力领导这几种领导风格也具有满足下属三种基本心理需要，增强和维持内在动机以及促进外在动机内化和整合的潜力，进而对员工的工作动机以及工作行为、态度和心理健康产生影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先，“联系 2.1—8—11”（5个研究样本）横断或纵贯研究表明上级的变革型领导风格正向预测下属的内在工作动机（Conchie,2013；Piccolo&Colquitt,2006）和自主性工作动机（Bono &Judge,2003；Eyal & Roth,2011; Fernet, Trepanier,Austin, Gagné,& Forest,2015；Wang & Gagné,2013)，且内在工作动机或自主性工作动机作为中介变量又正向预测下属的工作满意度（Bono＆Judge,2003)、工作绩效和组织公民行为（Fermet et al.,2015;Piccolo& Colquit，2006）以及情感承诺（Bono & Judge,2003;Femet et al.,2015)，负向预测员工的工作倦怠感（Eyal&Roth,2011）和工作压力知觉（Fermetet al.,2015)。“联系2—9—11”中与变革型领导风格相对应，交易型领导风格通过控制性动机的部分中介作用正向预测下属的工作倦怠（Eyal&Roth,2011)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二，“联系 2.2—8—11”（3个研究样本）横断研究表明员工知觉的领导与成员交换关系质量正向预测自主性工作动机，而自主性工作动机作为中介变量又正向预测工作满意度、生活满意感、健康知觉、主观活力感、情感承诺和工作敬业度，负向预测员工的工作倦怠（Chambel,Castanheira,Oliveiracruz,& Lopes,2015；Graves & Luciano,2013；Pauli,Chambel, Capellari,& Risi,2017)。“联系2.2—9—11”只有Chambel 等（2015）发现领导与成员交换关系质量与员工的控制性动机不相关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第三，“联系2—8—11”有少数研究考察了其它领导风格对员工工作动机以及工作行为和态度的影响。横断研究发现公仆型领导风格正向预测下属的自主性工作动机，自主性工作动机作为中介变量又正向预测下属的个人成长、积极关系、环境掌控和自我接纳（Chen,Chen,&Li,2013）。横断研究发现员工的自主性工作动机在管理者的开发型领导风格与员工的组织公民行为之间起着重要的中介作用（Zhang&Chen,2013)。横断研究发现内在动机在员工知觉的上级伦理型领导风格与创新性工作行为之间起着中介作用（Tu&Lu,2013)。“联系2—9—11”初步研究发现公仆型领导风格通过外部调节负向预测员工心理健康（Chen et al.,2013)。“联系2—10—11”没有发现领导风格对员工去动机影响的研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）组织支持感、工作动机及影响效果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "组织支持感（Perceived Organizational Support）是影响员工工作行为、态度和心理健康的重要组织因素，已得到普遍支持（Eisenberger& Stinglhamber,2011)。学界运用自我决定理论框架探讨了员工的组织支持感影响工作行为、态度和心理健康的心理过程。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "“联系4—8—11”（4个研究样本）横断研究表明员工组织支持感正向预测自主性工作动机，而自主性工作动机作为中介变量又正向预测工作敬业度（Chambel et al.,2015）、工作满意度（Gillet,Gagne,et al.,2013）、生活满意度和健康知觉（Pauli etal.,2017)，负向预测员工的工作倦怠（Chambelet al,2015）和离职意向（Gillet,Gagné,etal.,2013)。工作动机相对自主性指数也在组织支持感与员工敬业度之间起着部分中介作用（Gillet,Huart,Colombat,&Fouquereau,2013）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "“联系4—9—11”（2个研究样本）结论并不一致。Gillet,Gagné等人（2013）的横断研究发现员工组织支持感正向预测控制性动机，而控制性动机作为中介变量又负向预测工作满意度，正向预测离职意向。Chambel 等人（2015）横断研究发现尽管员工的控制性动机正向预测工作倦怠，负向预测工作敬业度，但员工的组织支持感与控制性动机不相关。“联系4—10—11”目前没有出现员工的组织支持感与去动机之间关系的研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（5）工作特征对员工工作动机以及工作行为和态度的影响效果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "工作特征模型（JCM）认为从任务重要性、任务同一性、技能多样性、反馈和自主性五个特征进行优化设计会使员工体验到工作的意义感和责任感，知晓工作结果，进而增强了员工的内部工作动机（Hackman&Oldham,1980)。自我决定理论也认为工作的核心特征能满足员工的三种基本心理需要，增强和维持内在动机，促进外在动机的内化和整合（Deci&Ryan,2000b）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "“联系1.1—8—11”（7个研究样本）横断研究表明JCM的五个核心工作特征具有动机性潜力。首先，“工作自主性”特征正向预测员工的内在工作动机，内在工作动机作为中介变量又正向预测员工的情感承诺、角色内绩效，负向预测员工的离职意向（Galleta,Portoghese,& Batistelli,2011;Joo,Jeung,&Yoon,2010；Kuvaas,2008)。第二，工作的三个特征（任务重要性、工作反馈和技能多样性）或五个核心特征正向预测员工工作动机相对自主性指数，而工作动机相对自主性指数作为中介变量又正向预测员工的工作满意度（Millette &Gagné,2008；Richer et al.,2002），负向预测员工的工作倦怠和离职意向（Richer et al.,2002)。第三，五个核心特征正向预测员工的自主性工作动机，自主性工作动机作为中介变量又正向预测工作满意度、组织公民行为（Guntert，2015）和工作敬业度（Schie et al.,2015）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“工作要求与资源模型（JD-R Model)”验证了工作要求（Job Demand）和工作资源（JobResource）对员工的敬业度和工作倦怠的直接效应（Demerouti，Nachreiner，Bakker，& Schaufeli,2001)，而基于自我决定理论的最新研究进一步探讨了工作要求与资源影响员工工作行为和态度的动机过程。“联系1.2—8—11”（3个研究样本）研究表明工作资源通过自主性工作动机正向影响员工工作行为和态度。首先，纵贯研究发现工作资源（工作控制、工作认可和同事关系）正向预测员工的自主性工作动机，而自主性工作动机对职业承诺产生正向滞后效应，对情绪耗竭产生负向滞后效应（Fermet,Austina,& Vallerand，2012)。第二，“联系1.2—6—8—11”横断研究表明工作资源（包括认知、情绪和物理上的）正向预测员工的基本心理需要满足和自主性工作动机，基本心理需要满足和自主性工作动机作为中介变量又正向预测员工的工作努力（Cooman，Stynen，Broeck，Sels，&Witte,2013）、工作敬业度和工作业绩（Trepanier,Forest,Fermet,&Austin,,2015）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“联系1—9—11”（2个研究样本）考察了工作特征对员工的控制性动机以及工作行为和态度的影响。Guntert（2015）初步研究表明JCM的五个核心特征负向预测员工的摄入调节和外部调节，这两个动机类型作为中介变量又负向预测员工的工作满意度和利他主义，正向预测员工的离职意向。Trepanier等人（2015）基于“JD-R”横断研究表明工作资源通过员工的基本心理需要阻滞和控制性动机两个中介变量正向预测员工的工作敬业度和工作绩效，负向预测员工心理沮丧和身体疾病症候，而工作要求（包括认知、情绪和物理上的）通过员工基本心理阻滞和控制性动机负向影响员工的工作敬业度和工作绩效，正向影响员工心理沮丧和身体疾病症候“联系1—10—11\"只有Guntert（2015）初步研究表明去动机在JCM的工作特征与员工离职意向间关系中起着部分中介作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.4脉络四：支持性工作环境对员工基本心理需要满足（或阻滞）以及工作行为和态度的影响（1）支持性人际氛围对员工基本心理需要、工作行为和态度的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“联系3—6—11\"（7个研究样本）研究表明员工基本心理需要满足作为中介变量部分解释了自主性支持环境（管理层支持、上级的支持和工作环境的支持)对员工的工作绩效和行为调整（Arshadi,2010；Baard,Deci，& Ryan，2004)、工作敬业度、一般自尊的正向影响以及对工作焦虑的负向影响（Deci et al.,2001；Gagne,2003)。员工基本心理需要满足作为中介变量部分解释了上级的自主性支持对员工工作满意度、工作业绩、幸福感和自我实现感的正向影响（Gillet，Colombat，Michinov,Pronost,& Fouquereau,20l3；Gilet,Fouquereau ,Forest, Brunault,& Colombat, 2012；Oostlander etal,2014)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "“联系4—6—11”初步研究表明基本心理需要满足作为中介变量部分解释了员工知觉的组织支持对工作满意度、工作幸福感和自我实现的正向影响。“联系 4—7—11”初步研究表明员工的组织支持感负向预测员工的基本心理需要阻滞，而员工基本心理需要阻滞作为中介变量又负向预测员工的工作满意度、工作幸福感和自我实现感（Gillet etal.,2012)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（2）工作特征对员工基本心理需要满足、工作行为和态度的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "“联系1.2—6—11”（4个研究样本）研究表明员工基本心理需要满足作为中介变量部分解释了工作资源对工作敬业度的正向影响以及对员工情绪耗竭的负向影响（Broeck,Vansteenkiste,Witte,&Lens,2008；Trepanier etal.,2015)。基本心理需要满足作为中介变量也解释了个人资源（乐观主义和恢复力）对员工心理健康的积极影响（Boudrias et al.,2011)。员工的基本心理需要满足作为中介变量部分解释了工作要求（工作负荷、情绪要求、身体要求和工作与家庭干扰）对员工情绪耗竭的正向影响以及对工作敬业度的负向影响（Albrecht,2015；Broeck et al.,2008）。“联系1.2—7—11”初步研究表明员工基本心理需要阻滞作为中介变量部分解释了工作要求对员工敬业度、工作绩效的负向影响以及对员工心理沮丧和身心健康抱怨的正向影响，也解释了员工工作资源对员工工作敬业度、工作绩效的正向影响以及对员工心理沮丧和身心健康抱怨的负向影响（Trepanier etal.,2015)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（3）领导风格对员工基本心理需要满足及工作行为、态度的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "“联系2—6—11”（6个研究样本)，首先实验研究发现管理者的变革型领导风格促进了员工的基本心理需要满足，而基本心理需要满足的提升又增强了员工的工作敬业度和工作业绩（Kovjanic,Schuh,&Jonas，2013)。第二，横断研究发现员工的基本心理需要满足作为中介变量部分解释了管理者的变革型领导风格对下属工作满意度、自我效能和对领导承诺的正向影响（Kovjanic，Schuh,Jonas,Quaquebeke,&Dick,2012)。第三，员工与上级交换关系质量正向预测员工基本心理需要满足，而基本心理需要满足作为中介变量正向预测员工的情感承诺、自主性工作动机、工作满意度和活力感（Graves&Luciano，2013)。第四，横断研究发现员工基本心理需要满足作为中介变量部分解释了公仆型领导对员工工作满意度（Mayer,Bardes，& Piccolo,2008）、任务绩效和组织公民行为(Chiniara&Bentein,2016)的正向影响。第五，真诚领导正向预测真诚下属的基本心理需要满足，而真诚下属的基本心理需要满足又正向预测工作角色绩效(Leroy,Anseel,Gardner,& Sels,2015）。“联系2—7—11”没有发现领导风格对员工基本心理阻滞、工作行为和态度影响的研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3.5脉络五：控制性环境影响员工工作行为和态度的心理过程研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "与自主性支持环境相对应的是“控制性环境”和“去动机环境”，但对工作环境中哪些因素会构成“控制性环境”或“去动机环境”的研究还不多。目前学界关注的几类因素是：一是上级的负面行为，包括工作场所心理骚扰（workplace psychological harassment）、上级的辱虐管理行为（abusivesupervision）以及上级（或教练）的控制性行为；二是工作场所的欺辱（workplace bullying）；三是工作负面特征因素，包括工作压力和工作要求（角色模糊、角色冲突和情绪要求)；四是员工的组织政治知觉。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "“联系5—8”、“联系5—9”和“联系5—10”初步研究表明：第一，上级“工作场所心理骚扰”",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（即下属被上级命令做低级的工作、经常不得不超时工作、自己的意见被上级忽略和上级隐瞒影响自己业绩的信息）负向预测下属的自主性工作动机、离职意愿和心理健康，正向预测下属的控制性动机（Trepanier,Fermet,&Austin,2012)；第二，针对中国员工样本的研究表明管理者的辱虐管理与员工的自主性安全动机和摄入调节的安全动机负相关，与员工的外部调节安全动机和去动机正相关（Jiang＆Tetrick,2016)；第三，针对中国台湾员工样本的研究发现员工的组织政治知觉与员工的自主性工作动机和控制性动机负相关，与员工的去动机正相关，员工的焦虑和沮丧在其中关系中只起着部分中介作用（Cho&Yang,2018）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "“联系5—8—11”初步研究表明工作压力（来自于教学人员和学生、教学任务负担和学生的不合作行为)感知的增加会显著地降低了教师自主性工作动机，进而产生更强的情绪耗竭(Fernet,Guay,Senecal,& Austin,2012；Pelletier,Lévesque,&Legault,2002)。“联系 5—9—11”和“联系 5—10—11”初步研究发现“教练的控制性行为”正向预测游泳选手的外部调节和去动机，这两种类型的动机又负向预测1年后和2年后游泳选手的行为坚持（Pelletier etal.,2001）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "“联系 5—6—11”初步研究表明:第一，员工基本心理需要满足作为中介变量部分解释了工作场所欺辱对员工工作倦怠的正向影响以及对员工工作敬业度的负向影响（Trepanier,Fermet，&Austin，2013)。第二，员工的基本心理需要满足在员工的组织政治知觉与员工的情境业绩、创新性工作行为间的负向关系中起着完全中介作用（Rosen,Ferris,Brown,Chen,&Yan,2014)。第三，员工的基本心理需要满足在工作负面特征（角色模糊、角色冲突和情绪要求）与员工的敬业度的负向关系中起着重要的中介作用，同时在工作负面特征与员工的情绪耗竭的正向关系也起着重要中介作用（Albrecht,2015;Broeck etal.,2008)。第四，基本心理需满足在管理者的辱虐管理与员工越轨行为间的正向关系中起着部分中介作用（Lian,Ferris,&Brown，2012）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "“联系5—7—11”初步研究表明基本心理需要阻滞作为中介变量部分解释了上级的控制性行为对员工的工作满意度、幸福感和自我实现感的负向影响（Gillet et al.,2012)，也部分解释工作场所的欺辱对员工的生活满意度和身心健康抱怨的负向影响（时间迟滞效应）（Trepanier,Fermet,&Austin,2016)；初步研究表明运动员的基本心理需要阻滞作为中介变量解释了“教练的控制性行为”对运动员的工作倦怠和消极情感的负向影响（Bartholomew，Ntoumanis，Ryan，Bosch，&Thβgersen-Ntoumani, 2011）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2.6脉络六：个体特征影响员工的心理过程",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论认为员工的工作动机也受到个体特征的影响。目前主要从个体的一般因果定向（General Causality Orientations）和个体追求的目标（Goals）、抱负（Aspirations）或工作价值取向（WorkValueOrientations）两个方面展开研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（1）个体因果定向、工作动机及其影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Deci 和 Ryan（1985b)认为个体在三种类型的因果定向方面存在着差异，即自主定向（autonomyorientation）、控制定向（control orientation）和非人定向（impersonal orientation）。“联系12.1—8—11”（4 个研究样本）横断研究表明员工的自主因果定向正向预测工作动机的相对自主性指数（Gillet,",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Huart,et al.,2013；Lam& Gurland,2008）、自主性工作动机（Gillet,Gagné,et al.,2013）和内在工作动机（Liu et al.,2011)。员工的控制性因果定向负向预测工作动机的相对自主性指数(Lam&Gruland,2008)。在其中关系中，工作动机的相对自主性指数作为中介变量部分解释了员工的自主因果定向对工作满意度、组织承诺（Lam&Gruland，2008）和工作敬业度（Gillet,Huart,etal.,2013）的积极影响，而自主性工作动机作为中介变量解释了员工的自主因果定向对员工的工作满意度（Gillet,Gagne,et al.,2013）的积极影响，对员工离职意愿（Liu et al.,2011；Gillet,Gagné,et al.,2013）的消极影响。“联系12.1—9—11”中没有发现个体因果定向对控制性动机、员工行为和态度影响的研究。“联系12.1—10—11”也没有发现个体因果定向对员工去动机、工作行为和态度影响的研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（2）个体工作目标或价值定向对员工基本心理需要满足、工作行为和态度的影响",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论关注工作场所中员工持有或追求的工作目标、价值取向对心理健康和行为的影响。因子分析研究表明员工持有的工作目标或价值取向可分为两大类：一是外在目标或价值取向，包括财富、认可或名誉以及吸引人的外表三个目标；二是内在目标或价值取向，包括个体发展、有意义的人际关系、贡献社区和身体健康四个目标。相对于内在目标，当员工更看重外在目标或者追求这些目标时会产生更多抑郁、焦虑、低自尊和工作倦怠。当员工更看重内在目标或者追求这些目标时会有较高的自我实现和自尊感（Kasser&Ryan,1996)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "“联系12.2—6—11”（2个研究样本）研究表明员工三种基本心理需要满足在员工的相对工作价值取向与员工的工作行为、工作态度和心理健康之间关系中起着重要的中介作用。相对于内在工作价值取向，员工越看重外在工作价值，基本心理需要满足程度越低，而基本心理需要满足作为中介变量又正向预测员工工作满意度、工作奉献和活力，负向预测其情绪耗竭、离职意向和工作家庭冲突（Vansteenkiste et al.,2007)；相对于外在的工作价值，团队越看重内在工作价值，团队成员的基本心理需要满足就越高，而基本心理需要满足作为中介变量又正向预测团队成员的工作敬业度(Schreurs,Emmerik,Broeck,& Guenter, 2014）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4基于自我决定理论的工作动机研究贡献及未来走向",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1基于自我决定理论的工作动机研究贡献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论为工作动机研究提供了新理论框架，突破了以往内在、外在工作动机二分法，强调人类自身价值内化的积极作用，辨识出外在动机的不同行为调整类型，提出不同动机类型具有不同的前因及后果，并实证检验了不同动机类型的前因及对员工工作行为、态度和心理健康的预测作用，把工作动机的研究引向更深入和更宽广的领域。以上脉络分析表明：内在动机和外在的自主性工作动机所构成的自主性工作动机对员工工作行为、态度和心理健康的具有正向预测作用，而去动机和控制性动机可能会对员工的消极工作行为和态度具有较强的预测作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "基于自我决定理论的工作动机实证研究也支持自主、胜任和关系三种基本心理需要是员工成长、积极行为和心理健康必备的心理条件。经实证检验的三种基本心理需要理论，推动了工作动机基础理论研究。脉络分析的结论也验证了自我决定理论的核心假设应用于组织管理环境中的解释力，即满足员工三种基本心理需要的环境能增强内在动机，促进外在动机的内化和整合，进而对员工的工作行为、态度和心理健康产生积极影响。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "脉络分析和归纳也表明工作特征、领导风格（变革型领导、真诚领导、领导成员交换关系和公仆型领导等)、自主性支持的人际环境和组织支持感这些因素的动机性潜力。基于自我决定理论的工作动机研究揭示了工作环境因素影响员工的内在心理过程，推进了工作特征理论、领导理论和组织支持理论领域的研究。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2基于自我决定理论的工作动机未来研究走向",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "脉络分析发现目前仅有少数研究考察了控制性环境的具体因素对员工基本心理需要阻滞、控制性动机、去动机以及员工态度和行为的影响。也就是说，自我决定理论的基本心理需要阻滞对员工工作动机、工作行为以及态度的影响研究并没有积累足够的实证研究证据，这限制了自我决定理论的解释力。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论认为内在动机与外在的自主性动机（认同调节和整合调节)具有不同的心理机制，但目前只有少数研究初步考察了内在动机和认同调节对员工的不同影响。初步证据表明相比内在动机，认同调节对工作绩效具有更强的预测作用（Burton et al.,2006; Zhang et al.,2016)；其次，内在动机或认同调节对行为绩效的影响也可能受到任务特征（Koestner&Losier,2002）的调节以及情感（Gillet,Valerand,Lafreniere,&Bureau,2013）、目标掌控（Cerasoli&Ford,2014）等中介过程影响，因此将来研究需深入探讨在不同情境条件下（任务特征、时间要求等）内在动机与认同调节对员工工作绩效、工作行为和态度的不同影响效果以及过程。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "最新研究表明基本心理需要阻滞与基本心理需要满足是独立并存的概念，而基本心理需要阻滞可能更好地预测员工的控制性动机或去动机（Longoetal.,2016)。脉络分析发现对员工基本心理需要阻滞与其它变量间关系的研究较少，因此为进一步探讨控制性动机和去动机的心理条件以及对员工消极行为的影响，基本心理需要阻滞的前因、动机过程和结果需深入地研究。具体地说，“联系5—7—11”、“联系5—9—11”和“联系5—10—11”是将来研究的重点方向。首先要更多关注工作环境中哪些因素具有控制性特征（领导风格方面如破坏型领导、具有中国文化特征的家长式领导等，人际关系方面如职场排斥、人际冲突等，组织氛围方面如组织不公平等)；第二，要重点探讨这些控制性环境因素与员工基本心理阻滞、控制性工作动机或去动机以及员工的行为和态度是否具有因果联系；第三，将来研究还应深入探讨工作环境中还有哪些因素（组织公平、公司政策、人力资源管理措施如绩效评价与反馈等）具有动机性潜力，是否会对员工三种基本心理需要满足以及工作动机产生影响。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "自我决定理论起始于Deci和 Ryan 对外部奖励如何影响内在动机的研究，提出了外部奖励影响内在动机的情境条件，但他们的结论引起了广泛地争论。学者们认为Deci 和 Ryan 针对学生样本的实验室研究情境与组织中员工的工作情景有较大差异，其结论并不能普遍地适用到工作场所(Eisenberger&Cameron,1996)。基于行为主义和期望效价理论，工作场所中利用薪酬激励或外部奖励是普遍的手段，但究竟会对员工的自主性动机产生什么样的影响，是需要深入研究的问题。目前仅有几个研究涉及，如Gubler,Larkin 和 Pierce（2016）干预研究表明金钱奖励增强了控制性动机，并产生溢出效应，降低员工从事不被奖励工作任务的自主性动机。Cerasoli,Nicklin 和Ford（2014)元分析表明当外部奖励凸显时，内在动机与工作业绩间有较弱的相关，而外部奖励不凸显时，内在动机与工作业绩间有较强的相关。他们也发现内在动机能显著预测活动结果的质量，而外部奖励能显著地预测活动结果的数量。Kuvaas,Buch,Gagné,Dysvik 和 Forest（2016）纵贯研究表明控制性动机在员工基于业绩的奖励与工作努力的负向关系中起着部分中介作用，而自主性工作动机在员工年度业绩奖励与工作努力的负向关系中起着完全中介作用。Olafsen,Halvari,Forest 和 Deci（2015）研究表明员工薪酬收入多少和分配公平感知与员工的基本心理需要满足和内在动机不相关，而Kuvaas 等（2016）研究发现与业绩无关的基本薪酬与员工的自主性动机正相关，与控制性动机无关。这些初步结论需要更多的实证研究累积来证实，因此外部奖励（包括薪酬、基于业绩的奖励等）对员工不同动机、基本心理需要满足、业绩和心理健康的影响及边界条件需深入地研究。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "目前研究中工作动机的测量大多数采用自我报告的主观评价，且不包括整合调节和去动机两个类型（Zhang et al.,2016;Gagné et al.,2015），会导致研究结果的偏差，将来研究需改进工作动机的测量技术，开发适用于工作动机研究的客观性测量工具，也要开发基本心理需要阻滞测量工具，推进基本心理需要阻滞前因及后果的研究。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3基于自我决定理论的工作动机研究的实践价值",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "基于自我决定理论的工作动机研究表明满足员工三种基本心理需要的组织环境能增强和维持内在动机，并促进外在动机的内化与整合。在组织管理实践中，改善组织环境的政策和实践应努力的方向包括：管理政策和实践应能让员工感到能力的提升，愈加胜任工作和自信，应能使员工体验到自主尝试和自主行动的自由感，而不是感到压力或接受命令式地被强迫去工作，也让员工能体验到尊重和归属感。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "组织可针对管理者或团队成员开展提升自主性支持行为的干预，改善管理或互动行为。具体地，从以下几个方面开展干预措施：上级或团队成员能理解下属或同伴的不同意见，鼓励下属或同伴自主行动，给下属或同伴提供选择机会和积极的反馈，给下属安排最优挑战性的任务，对所要求的行为给出合理化解释。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "基于自我决定理论的工作动机研究也表明工作特征的动机性潜力。组织管理实践可通过工作的优化设计改善员工的工作动机。一是运用工作特征模型（JCM）从任务重要性、任务同一性、技能多样性、工作的反馈性和自主性五个维度进行优化设计增强了员工的自主性工作动机，二是运用工作资源和要求模型（JD-RModel）优化工作，给员工增加工作资源，减少耗费精力的工作要求。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "基于自我决定理论的工作动机研究进一步确认了领导风格激励员工的动机性潜力。管理实践可开展基于改善领导行为的干预，使领导者更多采用变革型领导行为或公仆型领导，改善与下属的关系质量，激发员工的自主性工作动机。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢审稿人以及吴小节博士对本文修改的建议。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "\\*表示脉络分析用到的文献",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "刘靖东，钟伯光，姒刚彦.(2013)．自我决定理论在中国人人群的应用.心理科学进展，21(10)，1803-1813. 张剑，张建兵，李跃，Deci,E.L.(2010)．促进工作动机的有效路径:自我决定理论的观点.心理科学进展， $\\boldsymbol { { \\mathit { I } } } \\boldsymbol { { \\mathcal { B } } } ( 5 )$ ， 752-759.   \n\\*Albrecht,S.L.(20l5).Challenge demands,hindrance demands,and psychological need satisfaction:Their influenceon employee engagement and emotional exhaustion. Journal of Personnel Psychology,14(2),70-79.   \n\\*Arshadi,N.(2Olo).Basic need satisfaction,work motivation,and job performance in an industrial companyin Iran. Procedia- Social and Behavioral Sciences,5,1267-1272.   \n\\*Bard,P.P.,Deci,E.L.,&Ryan,R.M. (2O04).Intrinsic needsatisfaction: Amotivational basisof performanceand well-being in two work settings.Journal of Applied Social Psychology,34(10),2045-2068.   \n\\*Bartholomew,K.J.,Ntoumanis,N.,Ryan,R.M.,Bosch,J.A.,&Thgersen-Ntoumani,C.(2Ol1).Self-determination theoryanddiminishedfunctioning:Theroleofinterpersonalcontrolandpsychologicalneedthwarting.Personality&Social Psychology Bulletin,37(11),1459-1473.   \n\\*Batistelli，A.，Galetta,M.，Portoghese，I.，& Vandenberghe,C.(2013).Mindsetsofcommitmentand motivation: Interrelationships and contribution to work outcomes.Journal of Psychology,147(1),17-48.   \n\\*Beek,I.V.,Hu,Q.,Schaufeli,W.B.,Taris,T.W.,&Schreurs,B.H.J.(2O12).For fun,love,or money:What drives workaholic, engaged, and burnout employees at work? Applied Psychology, 61(1),30-55.   \n\\*Beek,I. V.,Taris,T.W.,&Schaufeli,W.B.(2011).Workaholicand work engagedemployees: Deadringers orworldsapart? Journal of Occupational Health Psychology,16(4),468-482.   \n\\*Bidee,J.,Pepermans,R.,Huybrechts,G,Willms,J,Jgers,.&Hofmans,.(3).utonomous motivationsilate volunteers'work efort:Aself-determinationtheoryapproachtovolunteerism.Voluntas InternationalJournalofVoluntary& Nonprofit Organizations,24(1),32-47.   \nBlais,M.R.,Briere,N.M.,Lachance,L.,Riddle,A.S.,&Vallrand,R.J. (1993).Linventaire des motivationsautravailde Blais [The Blais Inventory of Work Motivation]. Revue Quebécoise de Psychologie,14(3),185-215.   \n\\*Bono,J.E.，& Judge，T.A.(2Oo3).Self-concordance at work:Toward understanding the motivational efectsof transformational leaders. Academy of Management Journal, 46(5), 554-571.   \n\\*Boudrias,J.S.,Desrumaux,P.,Gaudreau,P.,Nelson,K.Brunet,L.,& Savoie,A.(20l1).Modeling the experienceof psychologicalhealthatwork:Theroleof personalresources,social-organizationalrsources,andjobdemands.Interational Journal of Stress Management,18(4),372-395.   \n\\*Broeck，A.V.D.，Vansteenkiste，M.，Wite,H.D.，& Lens，W.(2008).Explaining therelationships between job characteristics,burnout,andengagement:Theoleofbasic psychologicalneedsatisfaction.Work & Stres,22(3),7294. \\*Broeck,A.V.D.,Ferris,D.L.，Chang,C.H.,&Rosen,C.C.(2016).Areviewof self-determination theory's basic psychological needs at work.Journal of Management,42(5),1195-1229.   \n\\*Broeck,A.V.D.,Lens,W.,Wite,H.D.,&Coilie,H.V. (2O13). Unraveling theimportanceofthequantityandthequality of workers'motivation for well-being: Aperson-centered perspective.Journal of Vocational Behavior, 82(1),69-78. \\*Broeck,A.V.D.，Schreurs,B., Wite,H.D.,Vansteenkiste,M.,Germeys,F.,& Schaufeli, W. (2011). Understanding workaholics' motivations: A self-determination perspective.Applied Psychology, 6O(4),600-621.   \n\\*Broeck,A.V.D.,Vansteenkiste,M.,Wite,H.D.,Soenens,B.,&Lens,W.(2O10).Capturing autonomy,competence,and relatednessat work:Constructionand initialvalidationof the work-relatedbasic needsatisfactionscale.Journal of Occupational & Organizational Psychology, 83(4), 981-1002.   \nBurton,K.D.,Lydon,J.E.,Alessandro,D.U.&Koester,R.(O6).Thediferentialeffctsofintrinsicandientiied motivationonwel-eing and performance:Prospective,experimental,andimplicitapproaches toself-determinationheory. Journal of Personality& Social Psychology, 91(4),750-762.   \nCerasoli,C.P.,&Ford,M.T. (2014).Intrinsic motivation,performance,andthe mediatingroleof masterygoal orientation: A test of self-determination theory. Journal of Psychology, 148(3),267-286.   \nCerasoli,C.P.,Nicklin,J.M.,&Ford,M.T.(oi4).Itrinsic motivationandextrinsic incentives jointlypredict perforance: A 40-year meta-analysis.Psychological Bulletin, 140(4), 980-1008.   \n\\*Chambel,M.J.，Castanheira,F.,Oliveiracruz,F.，& Lopes,S.(20l5).Work contextsupportandPortuguese soldiers’ well-being: The mediating role of autonomous motivation. Military Psychology, 27(5),297-310.   \n\\*Chen,C.Y.,Chen, C.H.,&Li, C.1. (2013).Theinfluenceof leaders spiritual values of servant leadershipon employee motivational autonomy and eudaemonic well-being. Journal of Religion & Health, 52(2),418-438.   \n\\*Chiniara,M.,&Bentein,K.(2O16).Linkingservant leadershiptoindividual performance:Differentiatingthemediating role of autonomy,competence and relatedness need satisfaction.Leadership Quarterly,27(1),124-141.   \n\\*Cho,H.T.,& Yang,J.S. (2018). How perceptions of organizational politics influence self-determined motivation: The mediating role of work mood. Asia Pacific Management Review, 23, 60-69.   \n\\*Conchie,S.M.(2O13).Transformational leadership,intrinsic motivation,and trust:A moderated-mediatedmodel of workplace safety.Journal of Occupational Health Psychology,18(2),198-210.   \n\\*Cooman,R.D.,Stynen,D.,Broeck,A.V.D.,Sels,L.,& Witte,H.D.(2013).How jobcharacteristicsrelate toneed satisfactionand autonomousmotivation:Implications for work effort.Journalof Appied Social Psychology，43(6), 1342-1352. 74(4),580-590.   \nDeci,E.L.,Koestner,R.,&Ryan,R. M.(1999). A meta-analyticreviewof experiments examining theefects of extrinsic rewards on intrinsic motivation.Psychological Bulletin, 125(6),692-700.   \nDeci,E.L.,Olafsen,A.H,&Ryan,R.M. (2O17).Self-determinationtheoryin workorganizations: The stateofascience. The Annual Review of Organizational Psychology and Organizational Behavior,4(1),19-43.   \nDeci,E.L.,&Ryan,R.M.(985a). Intrinsic motivationand self-determination inhumanbehavior.New York: Plenum. Deci,E.L.,&Rya,R.M.(1985b).Thegeneral causalityorientations scale:Self-determination inpersonality.Journalof Research in Personality, 19(2),109-134.   \nDeci,E.L.,&Ryan,R.M. (1987).Thesupportof autonomy andthecontrolof behavior.Journalof Personality and Social Psychology, 53(6),1024-1037.   \n\\*Deci,E.L.,Ryan,R.M.,Gagne,.,Leone,D.R.,Usunov,J.,&Korazheva,B.P.(2Ol).Needsatisfaction,motivtion, andwel-being inthe work organizationsofa former eastern bloccountry:Across-cultural studyof self-determination. Personality & Social Psychology Bulletin,27(8),930-942.   \nDemerouti,E.,Nachreiner,F,Bakker,A.B.,& Schaufeli,W.B.(2Ool).The jobdemands-resources modelof burnout. Journal of Applied Psychology, 86(3), 499-512.   \n\\*Dysvik,A.，Kuvas,B.,& Gagné,M.(2O13).An investigation of the unique,synergisticand balanced relationships between basic psychological needs and intrinsic motivation.Journal ofApplied Social Psychology,43(5),1050-1064. Eisenberger,R.&Cameron,J.(1996).Detrimental effectsofreward:Realityor myth?AmericanPsychologist,51(11), 1153-1166.   \nEisenberger,R.，& Stinglhamber,F. (O1).Perceived organizational support:Fosteringenthusiasticand productive employees. Washington,DC: American Psychological Association Books.   \n\\*Eyal,O.,&Roth,G. (2O1).Principals'leadershipand teachersmotivation: Self-determinationtheoryanalysis.Jouralof Educational Administration,49(3),256-275.   \n\\*Fernet,C.,Austin,S.&Vallerand,R.J. (2012).The effects of work motivationon employee exhaustionandcomitment: An extension of the JD-R model. Work & Stress,26(3),213-229.   \n\\*Fernet,C.,Guay,F.,Senécal,C.,&Austin,S.(2Ol2).Predicting intraindividual changes inteacherburmout:Theroleof perceived schoolenvironmentand motivationalfactors.Teaching &Teacher Educationan International JournalofResearch & Studies,28(4),514-525.   \n\\*Fernet,C.,Trepanier,S.G,Austin,S.,agné,.,&Forest,J.(l).Tansformationaleadershipandoptimalfuctiong at work: On the mediating role of employees'perceived jobcharacteristics and motivation.Work & Stress,29(1),1-31. \\*Gagné,M.(2O03).Theroleof autonomysupport andautonomy orientation in prosocial behavior engagement. Motivation & Emotion,27(3),199-223.   \n\\*Gagné,M.,Chemoli,E.,Forest,J.,&Koestner,R.(2O08).Atemporalanalysisoftherelationbetweenorganizational commitment and work motivation.Psychologica Belgica, 48(2-3),219-241.   \nGagné,M.,&Deci,E.L. (2Oo5).The Self-determination theoryand work motivation.Journalof Organizational Behavior; 26(4),331-362.   \n\\*Gagne,M.,Forest,J,Gilbert,M.H,Aube,C.,Morin,E.,&Malori,A.(2O0).Themotivationatworkscale:Validation evidence in two languages. Educational and Psychological Measurement, 7O(4), 628-646.   \n\\*Gagné,M.,Forest,J.,Vansteenkiste,M.,Crevier-Braud,L.,Broeck,A.V.D.,Aspeli,A.K.,..Westbye,C. (201).e multidimensional work motivation scale: Validation evidence in seven languages and nine countries.European Journal of Work & Organizational Psychology, 24(2),178-196.   \n\\*Galetta,M.ortoghse,,atistell,A.(l1).Itrinsicoivationjutonomyadtuoerinteionialan healthcare: The mediating role of afective commitment. Journal of Management Research, 3(2),1-19.   \n\\*Gillet,N.，Becker,C.,Lafreniere,M.A.，Huart,I，&Fouquereau,E.(2Ol7).Organizationalsupport,jobresources, soldiers' motivational profiles,work engagement,and affect. Military Psychology, 29(5),418-433.   \n\\*Gillet,N.,Colombat,P.,Michinov,E.ronost,A.M.,&FouquereauE.(20l3).Proceduraljustice,supervisorautonomy support,work satisfaction,organizational identificationand jobperformance:The mediating roleof needsatisfaction and perceived organizational support. Journal of Advanced Nursing,69(11),2560-2571.   \n\\*Gilet,N.,Forest,J.,Brunault,P.,&Colombat,P.(2012).Theimpactoforganzationalfactorsonpsychologicalnedsand their relations with well-being.Journal of Business & Psychology, 27(4),437-450.   \n\\*Gillet,N.,Fouquereau,E.,Lafreniere,M.A.K.,&Huyghebaert,T.(O16).Examining therolesof work autonomousand controlled motivations onsatisfactionandanxietyasafunctionofroleambiguity.JournalofPsychology,15o(5),644665. \\*Gilet,N.,Gagné,M.,Sauvagere,S.,&Fouquereau,E.(2O13).Theroleofsupervisorautonomysupport,organzational support,and autonomous and controled motivation in predicting employes’satisfaction and turnover intentions.European Journal of Work & Organizational Psychology,22(4),450-460.   \n\\*Gillet,N.,Huart,,Colobat,P.,&Fouquereau,E.(l3).erceivedrganzatioalsuprt,otiationdengaget among police officers.Professional Psychology Research&Practice,44(1),46-55.   \nGilet,N.,Valerand,R.J,afreniere,.A.K,&ureau,J..(3).hemedatingoleofpositiveandnegativeecin the situational motivation-performance relationship.Motivation & Emotion,37(3),465-479.   \nGilbert,S.L.,&Kelloway,E.K.(014).Leadership.In M.Gagné (Eds.),TheOxford handbook of work engagement, motivation,andself-determinationtheory(pp.181-198).New York,the United StatesofAmerica: Oxford UniversityPress. \\*Graves,L.M.,Cullen,K.L.,Lester,H.F.,Ruderman,M.N.&Gentry,W.A.(2O15).Managerial motivationalprofiles: Composition, antecedents,and consequences.Journal of Vocational Behavior, 87(87), 32-42.   \n\\*Graves,L.M.,&Luciano,M.M. (2O13).Self-determination at work: Understanding theroleof leader-member exchange. 27/2)510 investigation. Journal of Personality and Social Psychology, 52(5),890-898.   \nGubler,T.，Larkin,I，& Pierce,L.(2O16).Motivational spillovers from awards:Crowding out ina multitasking environment. Organization Science, 27(2),233-504.   \n\\*Guintert, S.T. (2015).The impact of work design,autonomysupport,andstrategyonemployee outcomes: Adierentiated perspective on self-determination at work. Motivation & Emotion, 39(1),74-87.   \nHackman, R. J.,& Oldham, G R. (1980). Work redesign. San Francisco, CA: Addison Wesley.   \n\\*Haivas,S.,Hofmans,J.,&Pepermans,R.(2O13).Volunteer engagement and intention toquit fromaself-determination theory perspective.Journal of Applied Social Psychology, 43(9),1869-1880.   \n\\*Hardre,P.L.,&Reeve,J. (20i0).Training corporatemanagers toadopt amore autonomy-supportive motivating style toward employees: An intervention study. International Journal ofTraining & Development,13(3),165-184.   \n\\*Hon,A.H.Y.(012).Shaping environments conductive to creativity:Theroleof intrinsic motivation.CornellHospitality Quarterly, 53(1),53-64.   \n\\*Howard,J,Gagné,.,orin,A.J.S.,&Broeck,A.V.D. (16).otivationprofilesat work: Aself-determinatiothor approach. Journal of Vocational Behavior, 95,74-89.   \n\\*Ilardi,B.C.,Leone,D.,Kasser,T.,&Ryan,R.M.(993).Employeeandsupervisorratings ofmotivation: Mainefctsand discrepanciesassciated with jobsatisfaction and adjustment inafactoryseting.Journalof Applied SocialPsychology, 23(21),1789-1905.   \nImran,R.,Alil,K.,& Mahmoud,A.B.(2O17).Teacher's turnover intentions:Examining the impactof motivationand organizational commitment. International Journal of Educational Management,31(6),828-842.   \n\\*Jiang,L.,& Tetrick,L.E.(2016). Mapping the nomological network of employee self-determined safetymotivation: A preliminary measure in China.Accident Analysis & Prevention, 94,1-7.   \n\\*Joo,B.K.,Jeung,C.W.,&Yoon,H.J. (2Ol0).Investigating the influencesofcoreself-evaluations,jobautonomyand intrinsic motivation on in-role job performance. Human Resource Development Quarterly,21(4),353-371.   \n\\*Jungert,T.,Broeck,A.V.D.Schreurs,B.,&Osterman,U. (2O18).Howcollagues cansupport each other's needs and motivation: An intervention on employee work motivation.Applied Psychology:An International Review,67(1),3-29. \\*Jungert,T.Koestner,R.F,Hulfort,N,&Schatke,K. (213).Distinguishingsoureofautonomysupportinelatioto workers'motivation and self-efficacy. Journal of Social Psychology， 153(6),651-666.   \n\\*Kaser,T.,&Ryan,R.M. (1996).Furtherexamining theAmerican dream:Diferentialcorrlatesof intrinsicand extrinsic goals.Personality & Social Psychology Bulletin,22(3),280-287.   \nKoestner,R.,&Losier,G (2O02). Distinguishing three waysof being internaly motivated: A closer look at introjection, identificatio,and intrinsic motivationInE.Deci&R.Ryan(Eds.),Handbookofself-determinationresearch(p.0-121). Rochester, NY: University of Rochester Press.   \n\\*Kovjanic，S.， Schuh，S.C.，&Jonas，K.(2013). Transformational leadershipand performance:Anexperimental investigation of the mediating efects of basic needssatisfaction and work engagement. Journal of Ocupational & Organizational Psychology, 86(4), 543-555.   \n\\*Kovjanic,S.,Schuh,S.C.,Jonas,K.,Quaquebeke,N.V.,&Dick,R.V.(2O12).Howdotransformational leaders foster positive employee outcomes?A self-determination-based analysis of employes’ needsas mediating links.Journal of Organizational Behavior, 33(8),1031-1052.   \n\\*Kuvaas,B. (2O08).Atestof hypotheses derived from self-determination theory among public sector employees.Employee Relations,31(1),39-56.   \nKuvaas,B.,Buch,R., Gagne,M.,Dysvik,A.,& Forest,J. (2O16). Doyou get what you_pay for? Salesincentives and implications for motivationand changes in turnover intention and work efort. Motivation &Emotion,40(5),67-680. \\*Lam，C.F.，& Gurland，S.T.(2O08).Self-determined work motivation predicts job outcomes，but what predicts self-determined work motivation? Journal of Research in Personality,42(4),11O9-1115.   \n\\*Leroy，H.，Ansee,F.，Gardner,W.L.，& Sels，L.(20l5).Authentic leadership,authentic followership，basic need satisfaction,and work role performance: Across-level study. Journal of Management, 41(6),1677-1697.   \n\\*Lian,H.,Ferris,D.L.，& Brown,D.J.(2012).Does taking the good with the bad make things worse? How abusive supervision and leader-member exchange interact to impact need satisfaction and organizational deviance. Organizational Behavior& Human Decision Processes,ll7(1),41-52.   \n\\*Li,C.,Wu,Y.,&Ying,H.K. (2O16).Validationofthevolunter motivationscaleandits relations with work climateand intention among Chinese volunteers.Asian Journal of Social Psychology,19(2),124-133.   \n\\*Liu,D.,Zhang,S., Wang,L.,&Lee,T. W. (2011).The efects of autonomyand empowerment onemployee turover:Test of a multilevel model in teams. Journal of Applied Psychology, 96(6),1305-1316.   \n\\*Lopes,S.,& Chambel,M.J. (2017).Temporary agency workers' motivations and wel-being at work: Atwo-wave study. International Journal of Stress Management, 24(4),321-346.   \n\\*Longo,Y.,Gunz,A.,Curtis,GJ.,&Farsides,T. (2016).Measuring need satisfactionand frustration ineducational and work contexts: The need satisfaction and frustration scale (NSFS). Journal of Happiness Studies,17(1),1-23.   \n\\*Lynch,M.F.,Plant,R.W.,&Ryan,R.M.(2Oo5).Psychological needsandthreattosafety: Implications forstaff and patients in a psychiatric hospital for youth.Professional Psychology Research &Practice,36(4),415-425.   \n\\*Martinent,G,Guilat-Descas,E.,&Moiret,S.(2015).Reliabilityandvalidity evidence fortheFrench psychologicalneed thwartingscale (PNTS)scores: Significance ofadistinction betweenthwarting andsatisfactionofbasic psychological neds. Psychology of Sport & Exercise,20,29-39.   \n\\*Mayer,D.M.,Bardes,M.,& Piccolo,R.F.(2O08).Do servant-leaders help satisfy follower needs? Anorganizational justice perspective. European Journal of Work & Organizational Psychology, 17(2),180-197. \\*Milette,V.,& Gagne,M. (20o8).Designing volunteers’tasks tomaximizemotivation,satisfactionand performance:The impact of job characteristics on volunteer engagement. Motivation & Emotion,32(1),11-22.   \n\\*Milyavkaya,M.,& Koestner,R. (2011).Psychological needs,motivation,and wel-being:Atestof self-deternation theory across multiple domains.Personality & Individual Differences, 50(3),387-391.   \n\\*Moran,C.M.,Diefendorff,J.M.，Kim,T.Y.,&Liu,Z.Q. (2012).A profileapproach toself-determinationheory motivations at work. Journal of Vocational Behavior, 81(3),354-363.   \nMoreau,E.,& Mageu,G (2Ol2).The importance of perceived autonomy support forthe psychological health and work satisfactionofhealth professonals: Notonlysupervisors count,coleagues too！ Motivationand Emotion,36(3),268-286. \\*Nencini,A.,Romaioli,D.，& Meneghini,A.M.(2016). Volunteer motivation and organizationalclimate:Factors that promotesatisfactionandsustained volunteerism inNPOS.Voluntas International Journal of Voluntary& Nonprofit Organizations,27(2), 618-639.   \n\\*Nie,Y.,Chua,B.L.,Yeung,A.S.,Ryan,R.M.,& Chan,W.Y. (2015).The importance of autonomy support and the mediating roleof work motivation for wel-being:Testing self-determination theory in a Chinese work organization. International Journal of Psychology,50(4),245-255.   \n\\*Olafsen,A.H.,Deci,E.L.,& Halvari,H.(O18).Basic psychological needsand work motivation: Alongitudinal testof directionality. Motivation & Emotion,42(2),178-189.   \nOlafsen,A.H.,Halvari,H.,Forest,J.,& Deci,E.L. (2015).Show them the money?Therole of paymanagerial need support,and justice ina self-determination theory model of intrinsic work motivation.Scandinavian Journalof Psychology, 56(4), 447-457.   \n\\*Oostlander,J.,Gntert,S.T.,&Wehner,T.(2O14).Linking autonomy-supportiveleadershiptovolunteersatisfaction:A self-determination theoryperspective.Voluntas International Journal of Voluntary& Nonprofit Organizations，25(6), 1368-1387.   \n\\*Otis,N.,&Peletier,L.G (2Oo5).Amotivational modelof dailyhassles,physical symptoms,and future work intentions among police officers. Journal of Applied Social Psychology,35(10),2193-2214.   \n\\*Pauli,J.,Chambel,.J.,Capelari,.R.,&issi,V.(l).otivation,rgazationalsupportandsatisfactionithlife for private sector teachers in Brazilian higher education.Higher Education Quarterly,72(2),107-120.   \n\\*Peletier,L.G,Fortier,M.S.Vallrand,R.J.,&Briere,N.M.(Ol).Asciationsamongperceivedautonomysupport, forms of self-regulation,and persistence: A prospective study. Motivation & Emotion,25(4),279-306.   \n\\*Pelletier,L.G,Seguin-lévesque,C.,&Legault,L. (O02). Pressure fromabove and pressure frombelow asdeterminantsof teachers'motivation and teaching behaviors.Journal of Educational Psychology,94(1),186-196.   \n\\*Piccolo,R.F.,& Colquit,J.A.(20o6).Transformational leadershipand job behaviors:The mediatingroleof core job characteristics. Academy of Management Journal, 49(2),327-340.   \nPinder, C.C. (2008). Work motivation in organizational behavior (2nd ed.). New York: Psychology Press.   \n\\*Rasskazova,E.，Ivanova,T.，& Sheldon，K.(2016).Comparing the effectsof low-level and high-level worker need-satisfaction: Asynthesis ofthe self-determinationand Maslow needtheories.Motivation &Emotion,40(4),541-55. \\*Richer,S.Flanchard,C.,&Vallrand,R.J. (22).Amotivationalmodelof work turnover.JournalofAppliedSocial Psychology, 32(10),2089-2113.   \n\\*Roche,M.,& Har, J. M. (2013). A metamodel approach towards self-determination theory: A study of New Zealand managers'organizational citizenshipbehaviors.InternationalJounalofHumanResource Management,24(18),3397-3417. \\*Rosen,C.C.Ferrs,D.L,Brown,D.J.,Chen,Y.,&Yan,M.(O14).Perceptionsoforganzational politics:A Need satisfaction paradigm. Organization Science, 25(4),1026-1055.   \nRyan,R.M.,& Deci,E.L.(20oa).Intrinsicand extrinsic motivations:Clasic definitionsand new directions. Contemporary Educational Psychology, 25(1),54-67.   \nRyan,R.M.，& Deci,E.L.(2Oob).Self-determination theoryandthe facilitationof intrinsic motivation，social development, and well-Being. American Psychologist, 55(1), 68-78.   \nRyan,R.M.,&Deci,E.L.(20l7).Self-determination theory:Basicpsychologicaleeds inmotivation,developmentand wellness. New York: Guilford Press.   \n\\*Schie,S.V.,Guntert,S.T.,Oostlander,J.,& Wehner,T.(2O15).Howthe organizational context impacts volunteers:A differentiated perspectiveonself-determined motivation.Voluntas International Journalof Voluntary&Nonprofit Organizations, 26(4),1570-1590.   \n\\*Schreurs,B., VanEmmerik,1. Hroeck,A.V.D.,&Guenter,H. (2O14). Work values and work engagement withinteams: The mediating role of need satisfaction. Group Dynamics: Theory Research & Practice,18(4),267-281.   \n\\*Silva,M.N,Sanchezoliva,D.,Brunet,J.,Willams,GC.,Teixeira,P.J.,&Palmeira,A.L.(2O17).“What goesaround comes around\": Antecedents,mediators,andconsequences ofcontroling vs.need-supportivemotivational strategies usedby exercise professionals. Annals of Behavioral Medicine,51(5),707-717.   \n\\*Tremblay,M.A.,Blanchard,C.M.,Taylor,S.,Peletier,L.G,&Villeneuve,M.(2O9).Work extrinsicandintrisic motivationscale: Itsvalue fororganizational psychology research.CanadianJournalofBehavioralScience,41(4),213-226. \\*Trepanier,S.G,Fernet, C.,& Austin,S. (2Ol2).Workplace psychological harassment in Canadian nurses:Adescriptive study. Journal of Health Psychology,18(3),383-396.   \n\\*Trepanier,S.G,Fernet,C.,&Austin,S.(O13).Workplace bulyingand psychological healthat work: The mediating role of satisfaction of needs for autonomy,competence and relatedness.Work & Stress, 27(2),123-140.   \n\\*Trepanier,S.G,Forest,J.,Feet,C.& Austin,S. (2015).Onthe psychologicaland motivational processes linking job characteristics to employe functioning: Insights from self-determination theory. Work & Stress,29(3),286-305.   \n\\*Trepanier，S.G,，Fermet，C.，& Austin，S.(2016).Longitudinal relationshipsbetween workplace bulying，basic psychological needs,and employee functioning:A simultaneous investigationof psychological need satisfaction and frustration. European Journal of Work & Organizational Psychology,25(5),690-706.   \n\\*Tu,Y.,&Lu,X. (2O13).Howethical leadership influence employees’innovative workbehavior: Aperspectiveof ntrinsic motivation.Journal ofBusiness Ethics,1l6(2),441-455.   \n\\*Vandercammen,L.,Hofmans,J.,& Theuns,P.(2O14).The mediating roleof afect intherelationship between need satisfaction and autonomous motivation. Journal of Occupational & Organizational Psychology,87(1),62-79.   \n\\*Vansteenkiste,M.,Neyrinck,B.,Niemiec,C.P.,Soenens,B.,Witte,H.D.,&Broeck,A.V.D.(2Oo7).Ontherelations among work valueorientations,psychological needsatisfaction and joboutcomes:A self-determination theory approach. Journal of Occupational & Organizational Psychology, 80(2),251-277.   \n\\*Wang，Z.，& Gagné，M.(20l3).A Chinese-Canadiancross-cultural investigation of transformational leadership, autonomous motivation,andcolectivistic value.Journal ofLeadership &Organizational Studies,20(1),134-14. \\*Williams，G C.，Halvari,H.，Niemiec,C.P.,Olafsen，A.H.，& Westbye,C.(2014).Managerial support forbasic psychological needs,somatic symptomburden and work-related correlates: Aself-determination theory perspective.Work& Stress,28(4),404-419.   \n\\*Zhang,Y.,&Chen,C.C.(2O13).Developmental leadershipandorganizational citizenshipbehavior: Mediating fectsof self-determination,supervisoridentification,andorganizationalidentification.LeadershipQuarterly,24(4),534-543. \\*Zhang,J.,Zang,Y.Song,Y.,&Gong,Z.(Ol6).Thedifrenelationsofextrsicintrojected,entifiedregulatioad intrinsic motivation on employees’performance:Empirical studies folowing self-determination theory. Management Decision, 54(10),2393-2412. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Streams and Future Directions of Research on Work Motivation Based on the Self-Determination Theory ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Chunhu (School of Management Guangdong University of Technology, Guangzhou 51052o,China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The studyreportedhere is basedonourthoroughreviewon97articlespublished inEnglishbefore May2018as aresultof our extensive literature searches.Basedonthecore hypotheses ofthe self-determinationtheoryand aplying the theoretical framework of“environment -basic psychological needs-work motivation -outcome,”wesystematically analyzedand summarized the current streams and future directions of research on the causes and outcomes of work motivation. Our research reveals that employes’basic psychological need satisfaction and autonomous motivation as intermediaryvariables canexplain the positive impact of autonomy-supportive working environment,and employees’ individual characteristicsontheir work behavior,atitude,and mental health.Future research focuses that weare proposing include:(1）specific factors ofcontroled working environmentand their impacton employees’basic psychological need satisfactionand thwarting,controlledmotivation,amotivation,workbehavior,atitude,andmentalhalth,()mediatorsnd moderators ofdiferent motivation types and theireffectonemployeeperformance,behaviorandatitude,and (3)impacts of external rewards,including payand performance-based bonuses,onemployees’work motivation,basic psychological ned satisfaction, performance,and mental health as well as the boundary conditions of these effects. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Keyword: self-determination theory;basic psychological needsatisfactionandthwarting; work motivation; research streams ",
+        "page_idx": 20
+    }
+]

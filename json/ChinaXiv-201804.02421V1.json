@@ -1,0 +1,1119 @@
+[
+    {
+        "type": "text",
+        "text": "基于几何规则的异类蚁群优化算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵江，薛文艳，郝崇清(河北科技大学 电气工程学院，石家庄 050018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对复杂环境下自动导引小车路径规划存在收敛速度慢、极易陷入局部最优的缺点，提出一种基于几何规则的异类蚁群优化（GR-HFACO）算法。首先，为加快算法收敛速度，利用几何规则非均匀分配初始信息素，设置双向并行搜索机制；其次，引入具有观点采择能力的蚂蚁高效协同工作，改善路径全局的随机搜索特性；最后，为平衡算法的收敛性及全局性，在更新环节引入信息素负反馈环节以及交叉操作，并证明了GR-HFACO算法具有全局收敛性。仿真结果表明，该算法的收敛速度以及全局搜索性能显著优于目前流行的ACON、TWPSS-ACO、SoSACO-v2、Sci-ACO和HHACO 算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：自动导引小车；路径规划；几何规则；观点采择能力；信息素负反馈 中图分类号：TP18 doi: 10.3969/j.issn.1001-3695.2018.01.0063 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heterogeneous feature ant colony optimization algorithm based on geometric rules ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Jiang, Xue Wenyan, Hao Chongqiang (School of Electrical Engineering Hebei University of Science & Technology,Shijiazhuang O50018, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:For path planning of automated guidedvehicle in thecomplex environment,this paper proposed a heterogeneous featureantcolonyoptimizationalgorithmbasedongeometricrulestosolvetheproblemofloweficiency.Firstly,toaccelerate convergence,this paper presented an inhomogeneous distribution of initial pheromone basedongeometryrules,and then introducedamethodofincorporating perspective-takingabiltytogenerate diferentlyactingantcoloniesinordertoncrease search diversityBesides,for maintaining rapidityand randomnes,this paper adopted an update ruleof pheromone negative fedback andcrossoperator.Finally,tis paperproved theconvergenceofGR-HFACOalgorithm.Simulationresultsshowthat the path planning eficiency ofthe proposed algorithm are outperform those ofpopular ACON、TWPSs-ACO、SoSACO-v2、 Sci-ACO and HHACO algorithms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: automated guidedvehicle; path planning; geometricrules; perspective-taking ability; pheromonenegative feedback ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自动化搬运设备是先进物流系统的核心组成部分，其能加快物流运输、缩短生产周期以及提高效益等，AGV（自动导引小车）被广泛应用到仓储物流系统领域[1,2]。AGV 的运行路径直接影响到其运输效率，路径规划已成为物流运输领域的研究热点，AGV的路径规划是通过控制AGV按照一定的性能指标（路径最短、时间最小、损耗最低等）完成作业[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许多学者对路径规划进行了大量的研究，如人工势场法[4]、A\\*算法[5]、拓扑结构[]以及神经网络[7]等，然而在复杂环境下，这些算法存在计算量大、鲁棒性弱以及缺乏适应性等缺点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为克服上述缺点，启发式算法受到各国学者的广泛关注。启发式算法是通过模拟某些自然生物（蚁群、鸟群、蜜蜂群等)的行为而得出的一种优化算法[8.9]。蚁群算法(ACA)作为一种基于种群的启发式算法，首次被成功地应用到解决组合优化问题中，如旅行商问题(TSP)[10]、错误检测[II]、系统识别[12]、数据最小化[13]、网络数据传输[14]、图像处理[15]等领域。由于ACA具有正反馈、自组织、分布式计算和较强的鲁棒性等优点[16]，所以其在路径规划方面的研究较多，然而ACA同时又具有收敛速度慢、极易陷入局部最优等缺点[17]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在早期蚁群系统中，已经有多种解决上述缺点的方法，取得了良好的结果。文献[18]提出蚁群与遗传算法（ACO-GA）相结合的方法，通过启动交叉与变异算子，增强了算法的随机性能，使其有效跳出局部最优点。文献[19]中对ACA的更新机制作出改进，将起点与终点的连线设置为所处环境的对角区域，通过判断与对角区域的距离来动态更新路径节点的信息素。Ye等人[20提出了信息素正负反馈结合的研究思路，通过引入信息素负反馈矩阵，使后一代不断吸取错误经验；同时适时采取成功方案，该算法成功应用到解决大规模的二元约束问题(CSP)中，其不仅能够加快寻优速度，而且改善了算法全局搜索性能。为充分发挥蚂蚁间的相互协作性，文献[21]中提出一种双并行搜索算法（TWPSS-ACO），通过控制两组方向相反的蚂蚁同时进行路径搜索来提高算法寻优速度。结果表明TWPSS-ACO算法能够在较复杂的环境中快速搜索到最优路径。为尽量减少运行时间，在文献[21]的基础上，Javier等人[22]提出了一种适应大规模复杂地形的快速搜索算法（SoSACO-v2），将来自不同方向蚂蚁的相遇点设置为食物源，其他蚂蚁通过识别不同类型蚂蚁残留的气味，快速规划出到达食物源的不同路径。仿真表明，该算法能够在最少的时间内使路径接近最优。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，上述改进蚁群算法仅局限在个体具有单一搜索能力的情况下来提高算法的性能，尽管这些改进算法优于基本ACA以及传统路径规划方法，但由于在群体中，每一个个体都有其独特的能力，所以无法很好地描述出种群的社会认知以及并行计算能力。观点采择作为社会认知的表现形式，成为近年引起广泛关注和研究的一种学习框架[23]。观点采择是指个体把自己与他人的观点区分并协调起来的能力，不仅能够准确地理解他人，还能够发挥个体间相互作用[24]。Sekara等人[25]最早将人类社会认知特性应用到蚁群中，构建人工蚁群模型来说明观点采择能够影响社会中个体的行为，以及宏观层面的社会现象是通过不同能力的个体之间的互动产生的，最后提出提高性能的关键在于群体的多样性。随后，Aleksander等人[26]根据收集路径信息的能力不同,将蚁群划分为三种类型，相互协同工作，优势互补，体现了具有不同观点采择能力的蚂蚁群体的社会认知行为，该算法成功应用到解决TSP中。仿真结果表明，该算法较单一能力的蚁群算法相比，改善了随机搜索的性能。文献[27]针对全局已知环境下移动机器人的路径规划问题，提出一种启发式通信异类蚁群优化算法（HHACO）。为改善算法性能，引入两类蚁群，一类具有改善解多样性的能力，另一类具有提高算法快速性的作用，通过两类蚂蚁的协同工作来平衡算法的收敛性和全局性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从提高物流仓储的经济效益角度出发，应保证AGV在最少的时间内沿最优路径到达目标点。基于上述观点采择能力的优点，针对复杂环境下AGV的路径规划问题，ACO中引入不同能力的个体来平衡收敛性与全局性的相关文献报道较少，因此针对 ACO 算法收敛速度慢、极易陷入局部最优的缺点，本文在文献[26]的基础上提出一种基于几何规则的异类蚁群优化算法(GR-HFACO)，用于提高 AGV 的运输效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 环境描述及建模",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AGV在仓储系统中执行搬运任务时，利用自身所处位置与目标点位置，通过路径规划算法寻找一条符合规定的路径行驶。AGV实物及其八个行驶方向如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb8c8ca0c80251df19d542dd77881551ef5152e71a052d14fa36d01c94c655c7.jpg",
+        "img_caption": [
+            "图1AGV运动方向"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "栅格地图是表示环境的常用媒介，其中连续空间由类似于位图图像的离散单元集合表示[28]。考虑到栅格表示简单、编程易于实现等优点，本文利用栅格法对AGV的工作空间进行划分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设给定的小车在障碍物是静态的二维环境中工作，AGV外接圆半径为 $\\boldsymbol { r }$ ，其工作环境用 $m ^ { * } n$ 的矩形表示，按AGV的尺寸可以划分为 $( m / r ) ^ { * } \\left( n / r \\right)$ 个大小相等的栅格块，并且每个栅格块都可以用直角坐标与序号栅格一一作出标志，障碍物占据半个或者多于一个栅格，都用黑色阴影表示出来，代表该区域有障碍物，其余自由区域用白色表示，如图2(a)和(b)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a639317baa0c1fa6ffc74ceb97eedc649dda165b71460e4eab8e489a483ca8c8.jpg",
+        "img_caption": [
+            "图2栅格地图与实际地图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小车位于自由栅格的中心位置。为方便路径规划，作出以下约定：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)小车运动过程中设置成质点，对环境中的障碍物作适当膨化处理，使小车方便移动，如图3所示。b)小车只能从一个栅格的中点匀速运动到另一个栅格的中点c)假设某一个小矩形被它相邻的水平和竖直方向的三个障碍物矩形包围，则将该矩形视为障碍物，避免无效路径的选择，如图2(a)所示，27号栅格在水平和竖直方向周围有三个障碍物栅格，则将该栅格默认为障碍物栅格。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c7a5b345aedddc27f103122079630913dc733c2063d30b14d07495629dc3454.jpg",
+        "img_caption": [
+            "图3膨胀后障碍物"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 GR-HFACO 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为提高算法效率，基于几何规则的异类蚁群优化算法（GR-HFACO）主要对路径搜索阶段和路径更新阶段进行改进。在路",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "径搜索阶段，根据文献[26]，将蚁群分为创新型（Inn）、守旧型（Con）、择优型（Pre）三种类型蚂蚁。在更新阶段，为提高算法搜索速率，引入信息素负反馈思想以及两点交叉操作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1路径搜索 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1文献[26]异类蚁群协同工作",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到自然界中的每一类个体都能在不同层面发挥出自己的优势，为充分体现蚁群算法的并行协同机制，基于蚁群的观点采择能力，模拟人类思维方式将蚁群分为创新型（Inn）、守旧型（Con）、择优型（Pre）三种类型个体[26]。通过集合多种类型的信息，提高算法的全局性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同类型的个体遵循不同规则搜索路径。每类个体根据自己预定义的方式利用其他类型个体留下的气味信息。不同蚂蚁残留的信息素不同，因此，在路径 $i j$ 节点上留下的信息素表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { \\mathrm { i j } } = \\tau _ { \\mathrm { i j } } ^ { \\mathrm { I n n } } + \\tau _ { \\mathrm { i j } } ^ { \\mathrm { C o n } } + \\tau _ { \\mathrm { i j } } ^ { \\mathrm { P r e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inn 个体在寻找新的解决方案时具有开拓性，该类蚂蚁不关心其他类蚂蚁及其踪迹，相反，它们主要关注路径距离，以此来确定下一方向。位于节点 $i$ 的蚂蚁 $I n n _ { k }$ 选择下一节点 $j$ 的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { P } _ { \\mathrm { i j } } ^ { \\mathrm { I n n } _ { \\mathrm { k } } } \\left( \\mathbf { t } \\right) { = } 1 / \\left( \\mathrm { d } _ { \\mathrm { i j } } \\right) ^ { \\mathrm { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Con个体仅利用其他蚂蚁行走的轨迹，不考虑距离。所以位于节点 $i$ 的蚂蚁 $C o n _ { k }$ 选择节点 $j$ 的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P _ { i j } ^ { \\mathrm { { C o n _ { k } } } } ( t ) } = \\tau _ { \\mathrm { { i j } } } ^ { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pre 个体善于观察其它蚂蚁的动态，通过权衡现有信息素的重要程度，最终选择下一步的可行节点。位于节点 $i$ 的蚂蚁$P r e _ { k }$ 选择下一节点 $j$ 的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P _ { i j } ^ { ^ { P r e _ { k } } } ( t ) } { = } \\Big ( \\gamma _ { _ 1 } { \\cdot } \\tau _ { _ { \\mathrm { i j } } } ^ { \\mathrm { I n n } } { + } \\gamma _ { _ 2 } { \\cdot } \\tau _ { _ { \\mathrm { i j } } } ^ { \\mathrm { C o n } } { + } \\gamma _ { _ 3 } { \\cdot } \\tau _ { _ { \\mathrm { i j } } } ^ { \\mathrm { P r e } } \\Big ) ^ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varkappa \\cdot \\varkappa \\cdot \\varkappa$ 分别表示 $P r e$ 蚂蚁选择三类信息素的比例系数,三者的权重通过多次仿真验证获得[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2双向异类蚁群协同工作",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[26]引入不同能力的个体，重在改善解的多样性。为进一步提高算法效率，要在保证算法随机性的同时兼顾收敛速率。在传统的蚁群算法中，蚂蚁从起点到终点规划出一条可行路径时，由于没有充分发挥蚁群的相互协作能力，使算法搜索速率降低。为此，本文设置两组数量相等、方向相反的蚂蚁，且每组蚁群分为Inn、Con、Pre三类个体，优势互补，同时相向搜索路径[21]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为在改善解的多样性的同时提高算法搜索速率，对Inn 和Con两类蚂蚁搜索规则作出如下改进：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统Inn蚂蚁搜索时无方向性，仅根据贪婪规则选择节点，增加了算法陷入局部最优的概率。为此，对Inn蚂蚁进行改进，该类蚂蚁称为改进创新型（I-Inn）蚂蚁。该类蚂蚁沿起点与终点的连线行走，利用几何规则避开障碍物，具有目的与方向性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I-Inn蚂蚁搜索规则简单概括如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)连接起点与终点，构成直线L。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)判断是否L为正方形对角线，若是，则 $\\scriptstyle \\mathrm { I - I n n }$ 蚂蚁k沿L 行走；否则，沿靠近L方向行走。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)启动第一代 $\\scriptstyle \\mathrm { I - I n n }$ 蚂蚁k。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)每走一步判断有无障碍物，若有，则在该点建立直角三角形，直到避开障碍物；否则，继续行走。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)判断是否到达目标点，若没有，返回d)；否则，输出最短路径，进行全局信息素更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)判断是否达到最大迭代次数，若未达到，则返回c)；否则，算法结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用建立三角形原理避开障碍物（ $\\mathbf { \\mathcal { A } }$ 与 $B$ 在 $L$ 上，I-Inn 蚂蚁 $k$ 在 $A$ 处， $B$ 表示障碍物区域，如图4所示)流程概括如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)连接线段AB，作为直角三角形的一个直角边。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)以B为直角顶点，过点B向下做垂线，过A作水平射线与B的垂线交于D，利用式(5)求出线段 AB与线段 AD 的余弦值。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos \\angle B A D = d _ { _ { A D } } / d _ { _ { A B } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)延长线段AD，同时过B向下做斜线交AD的延长线于C，此时线段AB与线段BC的夹角为直角，利用式(6)求出线段AC的长度，C即为下一步选择的栅格点。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { _ { A C } } = d _ { _ { A B } } / \\cos \\angle B A D\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)判断 $C$ 是否为可行点，若不是，则继续利用直角三角形思想规划，直到蚂蚁 $k$ 找到可走点为止；否则， $J { - } I n n$ 蚂蚁 $k$ 选择 $C$ 行走。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具有 ${ \\cal I } { - } { \\cal I } n n$ 思维方式的蚂蚁规划路线如图5所示，起点和终点分别为栅格序号1与30，红色虚线表示建立直角三角形避障过程，红色实线为规划结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/afca7e2bdca4d67c1e3a06b3bb28fe398163f6376201233dfaf2f8c9d55da854.jpg",
+        "img_caption": [
+            "图4建立直角三角形原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0943727c82c52f0664040dd589184dddc4a1e69dff6da5c528da64841f256827.jpg",
+        "img_caption": [
+            "图5I-Inn蚂蚁行驶路径"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统Con蚂蚁仅利用信息素选择可行节点，随机搜索性能下降。为此，在GR-HFACO 算法中，对传统Con个体作出改进。改进守旧型（ $\\dot { \\left. I - C o n \\right. \\mathrm { . } }$ ）蚂蚁综合考虑信息素以及路径距离信息，引入阈值 $q _ { 0 }$ 与随机参数 $q$ ， $q$ 表示随机生成的[0，1]间的参数，通过比较两个参数的大小，动态改变I-Con蚂蚁的搜索规则。当 $q < q _ { 0 }$ 时，在算法初期， $q _ { 0 }$ 较大，遵循Con蚂蚁搜索原则，有利于提高算法搜索速率；随着迭代次数增加，为避免算法陷入局部最优阶段， $q _ { 0 }$ 逐渐减小，当 $q { \\geq } q _ { 0 }$ 时，蚂蚁探索路径时，不仅考虑了距离与信息素因素，同时将同类蚂蚁搜索节点次数考虑在内，有利于提高算法的随机搜索性能。 $q _ { 0 }$ 满足的关系式以及位于节点 $i$ 的 $I { - } C o n$ 蚂蚁 $k$ 选择节点 $j$ 的概率如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { q } _ { 0 } = \\left\\{ \\begin{array} { c } { \\mathbf { q } _ { 0 _ { \\mathrm { m i n } } } , \\mathbf { q } _ { 0 } \\leq \\mathbf { q } _ { 0 _ { \\mathrm { m i n } } } } \\\\ { \\mathbf { q } _ { 0 _ { \\mathrm { m a x } } } \\cdot \\mathbf { e } ^ { - \\mathrm { n } } , \\quad \\mathbf { q } _ { 0 _ { \\mathrm { m i n } } } < \\mathbf { q } _ { 0 } < \\mathbf { q } _ { 0 _ { \\mathrm { m a x } } } } \\\\ { \\mathbf { q } _ { 0 _ { \\mathrm { m a x } } } , \\mathbf { q } _ { 0 } \\geq \\mathbf { q } _ { 0 _ { \\mathrm { m a x } } } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { P } ^ { \\mathrm { I - C o n } } ( \\mathrm { t } ) = \\left\\{ \\begin{array} { l l } { \\mathrm { a r g m a x } \\left( \\tau _ { \\mathrm { i j } } ( \\mathrm { t } ) ^ { \\mathrm { a } } \\right) ; \\mathbf { q } < \\mathbf { q } _ { \\mathrm { 0 } } } \\\\ { \\mathrm { j } \\mathrm { c a l l o w } _ { \\mathrm { k } } } \\\\ { \\qquad \\quad \\mathrm { s } ; \\mathbf { q } \\ge \\mathbf { q } _ { \\mathrm { 0 } } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\bf S _ { i j } ^ { I - C o n } ( t ) } = \\left\\{ \\begin{array} { c } { \\tau ( t ) _ { \\mathrm { i j } } ^ { \\mathrm { a } } \\cdot \\eta ( t ) _ { \\mathrm { i j } } ^ { \\mathrm { \\tiny { 8 } } } \\cdot \\mathrm { { D ^ { I - C o n } ( t ) _ { \\mathrm { i j } } ^ { - 1 } } } } \\\\ { \\sum _ { \\mathrm { m \\in a l l o w _ { k } } } \\tau ( { \\mathrm { t } } ) _ { \\mathrm { i j } } ^ { \\mathrm { \\tiny { \\alpha } } } \\cdot \\eta ( t ) _ { \\mathrm { i j } } ^ { \\mathrm { \\tiny { 8 } } } \\cdot \\mathrm { { D ^ { I - C o n } ( t ) _ { \\mathrm { i j } } ^ { - 1 } } } } \\\\ { 0 , \\mathrm { o t h e r w i s e } } \\end{array} \\right. , \\mathrm { i , j \\in a l l o w _ { k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 表示迭代次数； $D ^ { \\mathrm { I - C o n } }$ 表示 $J { - } C o n$ 蚂蚁 $k$ 选择节点 $j$ 的次数，即 $D ^ { \\mathrm { I - C o n } } ( \\mathfrak { t } ) ^ { - 1 }$ 表示节点 $j$ 被 $J { - } C o n$ 蚂蚁 $k$ 选择的次数越多，同类蚂蚁在 $t$ 时刻选择该节点的概率越小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3基于几何规则的初始信息素分配",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在基本ACA中，将各条路径的信息素初始化为一个常数，给蚂蚁的初期寻优带来极大的隐患，导致初期搜索路径过于盲目，寻找范围较大，搜索效率较低。因此，为提高算法初期收敛速度，本文利用几何规则非均匀分配初始信息素，对较优与较差路径的信息素加以区分。在GR-HFACO算法中，针对路径搜索作出分层化处理。算法初期，仅启动具有I-Inn能力的蚂蚁搜索可行路径，判断是否达到最大迭代次数或者满足停止条件（连续次，当代与全局最优路径差值小于 $\\sigma$ ）。如果未满足结束条件，继续进行当前工作；否则，算法启动三种类型蚂蚁同时相向协同工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2路径更新 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在GR-HFACO 算法中，对信息素更新规则进行了五方面的改进：a)将每个路径节点的信息素限制在一定范围内，即设置最大最小信息素值；b)设置信息素挥发因子呈类抛物线变化；c)将信息素负反馈思想引入到更新规则中；d)引入交叉算子；e)仅对全局最优与最差路径进行信息素更新。这些改进详细描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)设置最大最小信息素值。避免由于某条路径节点的信息素过度集中影响算法的随机性。信息素满足",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\tau _ { \\mathrm { i j } } \\big ( \\mathrm { t } + 1 \\big ) = \\{ \\tau _ { \\mathrm { m i n } } , \\tau _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) \\leq \\tau _ { \\mathrm { m i n } }   \\\\ { \\tau _ { \\mathrm { i j } } \\big ( \\mathrm { t } + 1 \\big ) = \\{ \\tau _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) , \\tau _ { \\mathrm { m i n } } < \\tau _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) \\leq \\tau _ { \\mathrm { m a x } }  } \\\\ { \\tau _ { \\mathrm { m a x } } , \\tau _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) > \\tau _ { \\mathrm { m a x } } } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\tau _ { \\mathrm { m i n } }$ 与 $\\tau _ { \\mathrm { m a x } }$ 分别表示信息素最小值与最大值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)设置信息素挥发因子呈类抛物线变化。基本ACA中系统会随机生成一个挥发因子常数 $\\cdot \\rho$ ，使蚂蚁在初期搜索速度慢、效率低，增加了搜索时间。因此，在GR-HFACO 算法中，对 $\\rho$ 的值作了适当调整，其随迭代次数的变化成类抛物线形曲线，迭代起始和结束阶段 $\\rho$ 较小，信息素浓度较高，蚁群搜索路径单一，信息素给予蚂蚁较强的导向性，克服了蚁群在路径搜索过程中范围过大问题，由此加快了其搜索速率；迭代中期较大，信息素量相对较少，其对蚂蚁的导向性较弱，在路径寻优时具有全局性，使蚂蚁跳出局部最优点。 $\\rho$ 的类抛物线图像简单描绘如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d48ab5df4bfad7f75ac21ecf2688c4dd4127f88dfe4b92fbece1ca1923ffee66.jpg",
+        "img_caption": [
+            "图6p的大致走向曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)引入信息素负反馈机制。算法每次迭代完会产生最差与最优路径，大多数现有ACO在改进算法性能时，仅考虑了信息素的正反馈，即仅利用较好的蚂蚁选择出的路径信息，放弃了最差的信息，不能充分利用蚂蚁所留存的历史信息。基于此，文献[20]中引入带有信息素负反馈的蚁群优化算法(ACON)解决一种随机的二元约束问题，该方法充分利用所留历史信息，持续获得错误经验，不断吸取教训，对当代产生的最差方案进行惩罚，同时利用信息正反馈，对最优方案进行奖励。经验证，不仅能够提高算法的收敛速度，同时改善了解的多样性，因此将信息素负反馈思想应用到本研究中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)引入交叉算子。在算法执行过程中，检测来自同一方向的蚂蚁禁忌表中是否存在两组相同的节点。若存在，进行两点交叉操作，比较交叉前后的路径。如果交叉后的路径比之前路径短，则选择交叉后的路径，更新禁忌表，否则继续保持原来路径状态行走。在算法运行过程中进行两点交叉操作，不仅可以提高算法速率，还可以减少曲折路径的产生，如图7(a)（b)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5581733a085ecdb12f5f1bf9e9c9724614539e89b727fe6edce7312c5f9663f9.jpg",
+        "img_caption": [
+            "图7两点交叉操作"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)对最优与最差路径进行信息素更新。考虑到基本的ACA算法需要对每代输出的所有路径进行信息素更新，由于对没有价值的路径进行更新，延长了算法运行时间，降低了算法效率，所以本文仅对全局最优与最差路径进行奖励与惩罚，缩短了更新信息素的时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "改进后的信息素更新规则满足",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\Delta \\tau _ { \\mathrm { i j } } } ( \\mathrm { t } ) = \\sum _ { \\mathrm { k } = 1 } ^ { \\mathrm { m } } { \\Delta \\tau _ { \\mathrm { i j } } } ^ { \\mathrm { k } } ( \\mathrm { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) = \\big ( 1 - \\rho ( \\mathrm { t } ) \\big ) \\tau _ { \\mathrm { i j } } ( \\mathrm { t } ) + \\Delta \\tau _ { \\mathrm { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\overset { \\cdot } { \\tau _ { \\mathrm { i j } } } ( \\mathbf { t } + 1 ) = \\frac { \\lvert \\mathbf { t } \\cdot \\boldsymbol { \\tau _ { \\mathrm { m a x } } } } { \\mathbf { \\xi } \\mathrm { t } + 1 } + \\Delta \\boldsymbol { \\tau _ { \\mathrm { i j } } } } \\\\ { \\boldsymbol { \\tau _ { \\mathrm { i j } } } ( \\mathbf { t } + 1 ) = \\operatorname* { m a x } \\left\\{ \\boldsymbol { \\tau _ { \\mathrm { i j } } } ( \\mathbf { t } + 1 ) , \\boldsymbol { \\tau } _ { \\mathrm { i j } } ^ { \\cdot } \\left( \\mathbf { t } + 1 \\right) \\right\\} } \\\\ { \\Delta \\boldsymbol { \\tau _ { \\mathrm { i j } } } ^ { \\mathrm { k } } \\left( \\mathbf { t } \\right) = \\left\\{ \\begin{array} { l l } { \\frac { \\mathbf { Q } } { \\mathrm { L _ { b s t } } } , \\mathrm { i f i j e L } _ { \\mathrm { b e s t } } } \\\\ { \\qquad 0 , \\mathrm { o t h e r w i s e } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\chi _ { \\mathrm { i j } } = \\left\\{ \\begin{array} { c } { \\displaystyle \\frac { \\mathrm { Q } } { \\mathrm { L } _ { \\mathrm { w o r s t } } } , \\mathrm { i f ~ i j \\in L _ { \\mathrm { w o r s t } } ~ } } \\\\ { \\displaystyle ~ 0 , \\mathrm { o t h e r w i s e } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\chi _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) = \\big ( 1 - \\rho ( \\mathrm { t } ) \\big ) \\chi _ { \\mathrm { i j } } ( \\mathrm { t } ) + \\Delta \\chi _ { \\mathrm { i j } } } \\\\ { \\tau _ { \\mathrm { i j } } ( \\mathrm { t } + 1 ) = \\big ( 1 - \\rho ( \\mathrm { t } ) \\big ) \\cdot \\big ( \\tau _ { \\mathrm { i j } } ( \\mathrm { t } ) + \\chi _ { \\mathrm { i j } } ( \\mathrm { t } ) \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Delta \\tau _ { 1 \\mathrm { j } } ^ { \\mathrm { - k } } ( t )$ 为 $t$ 时刻蚂蚁 $k$ 在路径 $i j$ 上留下的信息； $\\mu$ 为一个常数，使 $t { + } 1$ 时刻信息量接近最大值； $\\rho ( t )$ 为 $t$ 时刻，衡量残留信息挥发大小的变量； $\\boldsymbol { \\tau } ( 0 )$ 为 $\\scriptstyle t = 0$ 时信息素设定值大小； $\\Delta \\chi _ { i j }$ 表示路径 $i j$ 惩罚增量； $\\chi _ { i j } ( t { + } 1 )$ 表示 $t { + } 1$ 时刻路径 $i j$ 的惩罚总量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 GR-HFACO 算法流程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GR-HFACO算法流程如图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0906dcabbc7f4241b95b045822b2f4a11e13d8f4c5b1dbc7de6f3f9d90e5f46.jpg",
+        "img_caption": [
+            "图8GR-HFACO 算法流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 GR-HFACO算法全局收敛性证明",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1符号说明 (表1)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/515fde22c2239f8306465ebb188356e9af718f961b20dd30c34fe91d9ee8dcee.jpg",
+        "table_caption": [
+            "表1相关符号说明"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>说明</td></tr><tr><td>An</td><td>首次找到最优解事件</td></tr><tr><td>N</td><td></td></tr><tr><td>P(AA)</td><td>算法在前N次循环中找到最优解的概率</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/07a82a03c5f4c359fc272535affbabecce99bae51d5f06ad7442a208f3f8418e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>△tij(n)</td><td>第n次循环，留在连接节点i与j路径上信息素的增 量</td></tr><tr><td>P(n,k)</td><td>第n次循环，蚂蚁k找到最优路径的概率</td></tr><tr><td>P(n)</td><td>第n次循环，所有的M只蚂蚁都找不到最优解的概 率</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 证明",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设起点为 $s$ ，目标点为 $E$ ，每次循环有 $M$ 只蚂蚁参加，一共循环 $N$ 次，并且认为 $s$ 从到 $E$ 至少存在一条可走路线， $\\boldsymbol { r }$ 表示循环到第几次，则其对应概率为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m P } _ { \\mathfrak { n } \\to \\infty } ^ { \\mathrm { ~ N ~ } } ( \\Lambda \\mathbf { A } _ { \\mathfrak { n } } ) = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明由假设及式(15)\\~(18)得出 $\\Delta \\pi \\mathrm { i } ( n ) { \\geq } 0$ ，进而通过式 (11)\\~(14)可以得出 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { \\mathrm { i j } } ( { \\mathrm { n } } ) { \\geq } \\mathrm { m a x } \\Bigg ( \\left( 1 - { \\rho ( { \\mathrm { n } } ) } \\right) ^ { { \\mathrm { n } } } { \\tau ( { 0 } ) } , \\frac { { \\mu } { \\tau ( { 0 } ) } } { { \\mathrm { n } } + 1 } \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "假设 $k$ 走到第 $i$ 步后，位于点 $j$ ，且第 $\\boldsymbol { r }$ 轮第 $k$ 只蚂蚁收敛到最短路线的概率为 $P ( n , k ) .$ 。由基本ACA的转移概率公式得出",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\geq \\mathrm { P ( n , k ) } = \\prod _ { \\mathrm { i = 1 } } ^ { \\mathrm { t - 1 } } \\frac { \\tau _ { \\mathrm { i j } } ^ { \\mathrm { a } } \\cdot \\boldsymbol { \\eta } _ { \\mathrm { i j } } ^ { \\mathrm { \\beta } } } { \\displaystyle \\sum _ { \\mathrm { s \\in a l l o w e d _ { \\mathrm { k } } } } \\tau _ { \\mathrm { i s } } ^ { \\mathrm { a } } \\cdot \\boldsymbol { \\eta } _ { \\mathrm { i s } } ^ { \\mathrm { \\beta } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式(21)可以变形为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\geq \\mathrm { P ( n , k ) = \\prod _ { i = 1 } ^ { t - 1 } { \\frac { \\tau _ { i j } ^ { a } } { \\displaystyle { \\sum _ { s \\in a l l o w e d _ { k } } \\tau _ { i s } ^ { a } \\cdot \\left( \\frac { \\eta _ { i s } } { \\eta _ { i j } } \\right) ^ { \\beta } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { \\mathrm { j } } = \\left( \\frac { \\eta _ { \\mathrm { i s } } } { \\eta _ { \\mathrm { i j } } } \\right) ^ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi = \\operatorname* { m a x } \\big \\{ \\varphi _ { \\mathrm { j } } \\big \\} , \\mathrm { j } = 1 , 2 , 3 . . . , \\mathrm { t } - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "则式(24)可变为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\geq \\mathrm { P ( n , k ) } \\geq \\prod _ { \\mathrm { i = 1 } } ^ { \\mathrm { t - 1 } } \\frac { \\tau _ { \\mathrm { i j } } ^ { \\alpha } } { \\displaystyle \\sum _ { \\mathrm { s \\in a l l o w e d } _ { \\mathrm { k } } } \\tau _ { \\mathrm { i s } } ^ { \\alpha } \\cdot \\Psi }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设第 $\\boldsymbol { r }$ 次循环后，信息更新的最小值为 $\\tau _ { \\mathrm { m i n } } ( n )$ ，从而由式(13)得出",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { \\mathrm { m i n } } ( \\boldsymbol { \\mathrm { n } } ) \\geq \\frac { \\boldsymbol { \\mu \\cdot \\tau } _ { \\mathrm { m a x } } } { \\boldsymbol { \\mathrm { n } } + 1 } , \\forall \\boldsymbol { \\mathrm { n } } \\geq 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因概率大小与某一点周围的自由栅格数量 $N _ { c }$ 有关， $N _ { \\mathrm { c m a x } }$ 为节点 $j$ 的最多的自由栅格数量，由式(25)(26)得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\prod _ { \\mathrm { i = 1 } } ^ { \\mathrm { t - 1 } } \\frac { \\tau _ { \\mathrm { i j } } ^ { \\mathrm { a } } } { \\displaystyle \\sum _ { \\mathrm { s \\in a l l o w e d _ { \\mathrm { k } } } } \\tau _ { \\mathrm { i s } } ^ { \\mathrm { a } } \\cdot \\Psi } > \\prod _ { \\mathrm { i = 1 } } ^ { \\mathrm { t - 1 } } \\frac { \\left( \\frac { \\displaystyle \\mu \\cdot \\tau _ { \\mathrm { m a x } } } { \\displaystyle \\mathrm { n + 1 } } \\right) ^ { \\mathrm { a } } } { \\left( \\tau _ { \\mathrm { m a x } } \\right) ^ { \\mathrm { a } } \\operatorname { N } _ { \\mathrm { c m a x } } \\Psi }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随之，令",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\Theta } = \\left( \\frac { \\boldsymbol { \\mu } ^ { a } } { \\mathbf { N } \\cdot \\boldsymbol { \\psi } } \\right) ^ { \\ t - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然后式(28)不等式右面简化得 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\geq \\mathrm { P ( n , k ) } > { \\frac { \\theta _ { \\mathrm { j } } } { \\left( n + 1 \\right) ^ { \\alpha \\left( \\mathrm { t } - 1 \\right) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由式(29)得出",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 > { \\frac { \\theta _ { \\mathrm { j } } } { ( \\mathrm { n } + 1 ) ^ { \\alpha ( \\mathrm { t } - 1 ) } } } > 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "前 $\\boldsymbol { r }$ 次循环都没有找到最短路径的概率为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P } _ { \\mathrm { n } = 1 } ^ { \\mathrm { \\left( ~ N _ { \\mathrm { ~ \\bar { ~ } A _ { \\mathrm { \\scriptsize ~ n } } } } ~ \\right) = \\prod _ { \\mathrm { \\scriptsize ~ n = l } } ^ { \\mathrm { \\scriptsize ~ N } } \\mathrm { P ( \\mathrm { n } ) = \\prod _ { \\mathrm { \\scriptsize ~ n = l } } ^ { \\mathrm { \\scriptsize ~ N } } ( 1 - \\mathrm { P ( \\mathrm { n } , k ) ) ^ { \\mathrm { \\scriptscriptstyle M } } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式(31)满足不等式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathop { \\mathrm { ~ \\displaystyle ~ \\prod _ { n = 1 } ^ { N } ( 1 - P ( n , k ) ) ^ { M } ~ } } _ { \\mathrm { \\displaystyle ~ n = 1 ~ } } ^ { \\mathrm { \\scriptscriptstyle ~ N } } ( 1 - \\frac { \\theta _ { \\mathrm { j } } } { \\bigl ( n + 1 \\bigr ) ^ { { \\mathrm { a } } ( \\mathrm { t } - 1 ) } } ) ^ { \\mathrm { \\scriptscriptstyle ~ M } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对式(31)(32)两边取对数，得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln P \\bigg ( \\underset { n = 1 } { \\overset { N } { \\vee } } \\bar { A } _ { n } \\bigg ) < \\underset { n = 1 } { \\overset { N } { \\prod } } \\ln ( 1 - \\frac { \\theta _ { j } } { \\big ( n + 1 \\big ) ^ { \\alpha ( t - 1 ) } } ) ^ { M }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进而，整理得 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\prod _ { n = 1 } ^ { \\mathrm { N } } ( 1 - \\frac { \\mathsf { \\theta } _ { \\mathrm { j } } } { \\left( \\mathrm { n + 1 } \\right) ^ { \\alpha ( \\lfloor \\cdot \\rfloor - 1 ) } } ) ^ { \\mathrm { M } } = \\mathrm { M } \\displaystyle \\prod _ { n = 1 } ^ { \\mathrm { N } } ( 1 - \\frac { \\mathsf { \\theta } _ { \\mathrm { j } } } { \\left( \\mathrm { n + 1 } \\right) ^ { \\alpha ( \\lfloor \\cdot \\rfloor ) ^ { \\alpha ( \\lfloor \\cdot \\rfloor ) } } } ) } \\\\ { \\displaystyle \\quad \\qquad \\le - \\mathrm { M } \\cdot \\Theta _ { \\mathrm { j } } \\displaystyle \\binom { \\mathrm { X } } { \\mathrm { n - 1 } } \\frac { 1 } { \\left( \\mathrm { n + 1 } \\right) ^ { \\alpha ( \\lfloor \\cdot \\rfloor ) ^ { \\alpha ( \\lfloor \\cdot \\rfloor ) } } } } \\\\ { \\displaystyle \\qquad \\le - \\mathrm { M } \\cdot \\Theta _ { \\mathrm { j } } \\displaystyle \\sum _ { n = 1 } ^ { \\mathrm { N } } \\frac { 1 } { \\left( 1 + 1 \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m l n P } _ { \\mathfrak { n } \\to \\infty } \\binom { \\textnormal { N } } { \\mathfrak { n } = 1 } \\overset { - } { \\mathbf { A } _ { \\mathfrak { n } } } \\biggr ) < \\operatorname* { l i m } _ { \\mathfrak { n } \\to \\infty } \\prod _ { \\mathfrak { n } = 1 } ^ { \\textnormal { N } } ( 1 - \\frac { \\mathfrak { d } _ { \\mathfrak { j } } } { \\big ( \\mathfrak { n } + 1 \\big ) ^ { \\mathfrak { a } ( \\mathfrak { t } - 1 ) } } ) ^ { \\mathfrak { M } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1db8be30ad62ae47d7a18f6dfa7f6d30145f98440a4c84fc2c24a638f5e36b83.jpg",
+        "table_caption": [
+            "表2相关参数信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>m</td><td>100</td><td>Q</td><td>1</td></tr><tr><td>α</td><td>1</td><td>(0)</td><td>0.7</td></tr><tr><td>β</td><td>1</td><td>Tmin</td><td>0.1</td></tr><tr><td>p(0)</td><td>0.2</td><td>Tmax</td><td>0.9</td></tr><tr><td>pmin</td><td>0.2</td><td>2(0)</td><td>0.7</td></tr><tr><td>pmax</td><td>0.8</td><td>Nmax</td><td>50</td></tr><tr><td>0</td><td>0.01</td><td>S</td><td>5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1GR-HFACO 算法三类个体配比与目前流行的 ACO 算法对比分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文引入六种典型的测试函数作为测试对象，分析GR-HFACO 算法中的三类蚁群的比例关系与文献[20]ACON 算法、文献[21］TWPSS-AC0 算法、文献[22]SoSAC0-v2 算法对路径长度的影响。六种测试函数的相关信息如表3所示。三类蚂蚁的比例分为四种情况：a)三类蚂蚁数量相同 $( E q ) \\ ; \\ { \\mathsf { b } } ) I \\ / { - I n n }$ 类蚂蚁数量占到 $50 \\%$ 以上，其他两类蚂蚁数量基本相同（I-Inn）；$c ) I { - } C o n$ 类蚂蚁数量占到 $50 \\%$ 以上，其他两类蚂蚁数量基本相同$( I { - } C o n ) ; \\ \\mathrm { d } ) P r e$ 类蚂蚁占到 $50 \\%$ 以上，其他两类蚂蚁数量基本相同（ ${ ( P r e ) }$ 。每种情况迭代次数为1000次，每次独立重复实验20次。上述四种情况在六种测试函数下的迭代优化曲线如图9\\~14所示。表4给出了20次实验所得最优解的均值，方差以及运行时间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "即 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P } { \\binom { \\mathrm { N } } { \\mathrm { n } = 1 } } \\mathrm { ~ } { \\bar { \\mathbf { A } } } _ { \\mathrm { n } } ^ { - } \\mathbf { \\Lambda } \\Bigg ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最终得",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m P } _ { \\mathfrak { n } \\to \\infty } \\left( \\underset { \\mathfrak { n } = 1 } { \\overset { \\mathrm { N } } { \\wedge } } \\mathbf { A } _ { \\mathfrak { n } } \\right) = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "得证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/02a57cbd0a8c642470ae36d2a42e9e3c326b0aa8bac476e89a4b9229a18c8236.jpg",
+        "table_caption": [
+            "表3测试函数基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">测试函数</td><td rowspan=\"2\">问题维 数</td><td rowspan=\"2\"></td></tr><tr><td>搜索空间</td></tr><tr><td>Sphere</td><td>30</td><td>[-100 100]</td></tr><tr><td>Step</td><td>30</td><td>[-200 200]</td></tr><tr><td>Rosenbroc k</td><td>30</td><td>[-2.5 2.5]</td></tr><tr><td>Ackley</td><td>30</td><td>[-32 32]</td></tr><tr><td>Griewank</td><td>30</td><td>[-600 600]</td></tr><tr><td rowspan=\"2\">Rastrigin</td><td>30</td><td>[-5.25</td></tr><tr><td></td><td>5.25]</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在GR-HFACO算法中，群体中三类个体的比例直接影响到算法的规划效率，利用MATLAB仿真设置不同复杂程度的静态环境。首先，分析三类个体的不同配比与目前流行的ACO 算法对路径长度的影响；其次，为证明GR-HFACO 算法的可行性，从三方面对改进算法的性能进行仿真验证：a）基于几何规则的ACO算法与目前流行的现有ACO算法仿真比较；b）GR-HFACO 算法与具有单一能力的ACO 算法仿真比较；c）GR-HFACO算法与目前流行的多能力ACO算法仿真比较。每组进行独立重复20次，实验相关参数如表2所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过观察图9\\~11可以看出，对于单峰函数，Eq、I-Inn 两种情况与文献［21]TWPSS-ACO算法函数精度相近，但I-Inn类情况收敛速度较Eq 情况与TWPSS-ACO 算法快，由于当I-Inn类蚂蚁较少，即I-Con与 $P r e$ 类蚂蚁较多时， $P r e$ 类蚂蚁利用I-Inn类信息素较少，三类信息素配比达不到最佳状态，不仅收敛速度变慢，寻优精度也降低，而TWPSS-ACO 算法由于初期寻优的盲目性，降低了算法收敛速度。通过观察图12\\~14可以看出，对于多峰函数，算法初期，文献[22]SoSACO-ACO 算法收敛速度最快，但收敛精度最差，Eq情况与I-Inn情况收敛速度相近；算法后期，由于Inn类蚂蚁数量较多，该类蚂蚁趋向于在起点与终点的连线附近搜索最优解，且Pre类蚂蚁可以充分利用该类蚂蚁留下的信息，所以I-Inn情况收敛速度超过 $E q$ ，且精度也有一定提高。而I-Con与 $P r e$ 两种情况由于Inn数量较少，使其他蚂蚁搜索具有盲目性，同时 $P r e$ 类蚂蚁不能充分获得有价值的信息，所以不仅收敛速度较低，收敛精度也较差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过分析表4可以得出，在单峰函数中，I-Inn情况算法较其他三种情况以及目前流行的三种ACO算法来说，运行时间较短，且标准差相对较小，尤其体现在Rosenbrock测试函数中，标准差为0；在多峰函数中，虽然七种算法运行时间相当，但 $I _ { - }$ Inn 情况算法寻优能力最好，均值与标准差最小。不管是单峰函数还是多峰函数，I-Inn情况算法的寻优速度快，同时收敛精度最高。所以在GR-HFACO 算法中，本文选择I-Inn 情况对三类蚁群进行配比，I-Inn类蚂蚁占种群总数量的 $60 \\%$ ，I-Con类与Pre类蚂蚁各占 $20 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f3879b7dadaec136f91041b9086116debba5bf897b2502838d0048003be9f11.jpg",
+        "img_caption": [
+            "图9Sphere 迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/483dd09d1e43e568daf24941771386cc5cc7b43c591fa97ac048cdbdf8b4c248.jpg",
+        "img_caption": [
+            "图10Step 迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7217ce3b7b635662eee94f54b8b079b416f600962999a890a87d08ffd9c2238.jpg",
+        "img_caption": [
+            "图11Rosenbrock 迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e212fd446527d3e4cf4d6cf8bfb6544c20dfe2ae00b75c435f16f16ab3482550.jpg",
+        "img_caption": [
+            "图12Ackley 迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bfdb1c0052b93f6aa03315d4051341d6e4c8f379962727eaaeb6112fdf54788.jpg",
+        "img_caption": [
+            "图13Griewank 迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c458a61eff892abc9d4d7d1be706560988a9101d513d233d13daafb71320a16f.jpg",
+        "img_caption": [
+            "图14Rastrigin迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/94a02e45d8ed0b08f0636116d8c39a89aeeaded1bcad4c98f6b4e1afe2d95595.jpg",
+        "table_caption": [
+            "表4六种测试函数计算结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数</td><td>指标</td><td>Eq</td><td>I-Inn</td><td>I-Con</td><td>Pre</td><td>SoSACO-ACO</td><td>TWPSS-ACO</td><td>ACON</td></tr><tr><td rowspan=\"3\">Sphere</td><td>均值</td><td>0.362*10-²</td><td>0.245*10-2</td><td>3.673*10²</td><td>5.767*101</td><td>5.7826*10²</td><td>0.3342*10-2</td><td>5.3426*101</td></tr><tr><td>标准差</td><td>1.004*10-2</td><td>0.209*10-2</td><td>3.445*10²</td><td>2.324*101</td><td>2.4453*10²</td><td>2.0945*10-2</td><td>0.5439*101</td></tr><tr><td>时间</td><td>1.765*101</td><td>1.001*101</td><td>2.232*101</td><td>2.325*101</td><td>0.6675*101</td><td>3.7865*101</td><td>1.7823*101</td></tr><tr><td rowspan=\"3\">Step</td><td>均值</td><td>8.997*10-1</td><td>8.008*10-1</td><td>5.932*101</td><td>3.629*10²</td><td>0.002*103</td><td>0.006*10°</td><td>3.674*103</td></tr><tr><td>标准差</td><td>2.111*10-1</td><td>1.232*10-1</td><td>3.321*101</td><td>3.673*10²</td><td>3.987*103</td><td>2.199*100</td><td>2.542*103</td></tr><tr><td>时间</td><td>2.452*101</td><td>2.006*101</td><td>2.324*101</td><td>2.195*101</td><td>0.4536*101</td><td>3.888*101</td><td>2.479*101</td></tr><tr><td rowspan=\"3\">Rosenbrock</td><td>均值</td><td>6.007*10-1</td><td>3.032*10-1</td><td>4.382*102</td><td>6.342*105</td><td>7.832*106</td><td>2.783*100</td><td>9.345*105</td></tr><tr><td>标准差</td><td>0.232*10-1</td><td>0</td><td>3.254*102</td><td>0.324*105</td><td>3.007*106</td><td>2.112*10°</td><td>2.004*105</td></tr><tr><td>时间</td><td>2.332*101</td><td>2.001*101</td><td>2.995*101</td><td>2.983*101</td><td>1.782*101</td><td>3.225*101</td><td>2.453*101</td></tr><tr><td rowspan=\"3\">Ackley</td><td>均值</td><td>5.143*10-1</td><td>5.005*10-2</td><td>5.000*10-1</td><td>7.324*100</td><td>2.746*101</td><td>3.245*10-1</td><td>4.072*100</td></tr><tr><td>标准差</td><td>1.243*10-1</td><td>0.788*10-2</td><td>8.732*10-1</td><td>8.792*100</td><td>2.102*10'</td><td>2.001*10-1</td><td>3.882*10°</td></tr><tr><td>时间</td><td>2.332*101</td><td>2.109*101</td><td>2.215*101</td><td>3.478*101</td><td>1.023*101</td><td>4.782*101</td><td>2.513*101</td></tr><tr><td rowspan=\"3\">Griewank</td><td>均值</td><td>3.467*10-3</td><td>9.023*10-4</td><td>5.049*10-2</td><td>3.467*10-1</td><td>7.896*100</td><td>1.934*10-3</td><td>3.723*100</td></tr><tr><td>标准差</td><td>2.321*10-3</td><td>0.339*10-4</td><td>2.793*10-2</td><td>1.727*10-1</td><td>4.723*100</td><td>2.653*10-3</td><td>2.443*100</td></tr><tr><td>时间</td><td>2.679*101</td><td>2.557*101</td><td>2.645*101</td><td>2.521*101</td><td>0.576*101</td><td>6.722*101</td><td>2.893*101</td></tr><tr><td rowspan=\"3\">Rastrigin</td><td>均值</td><td>3.752*10-2</td><td>6.974*10-3</td><td>0.017*10-1</td><td>8.723*10-1</td><td>2.104*101</td><td>3.045*10-2</td><td>9.988*100</td></tr><tr><td>标准差</td><td>1.379*10-2</td><td>0.276*10-3</td><td>7.388*10-1</td><td>0.349*10-1</td><td>3.766*101</td><td>2.001*10-2</td><td>2.321*100</td></tr><tr><td>时间</td><td>2.771*101</td><td>2.468*101</td><td>2.832*101</td><td>2.132*101</td><td>1.923*101</td><td>4.672*101</td><td>2.983*101</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2基于几何规则的ACO（GR-ACO）算法与现有ACO算法 比较 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为突出ACO算法引入几何规则避障以及对更新规则改进的优势，仅考虑具有单一能力的蚂蚁(GR-ACO)，将该算法与文献[20]中引入信息素负反馈的ACON算法、文献[21]TWPSS-ACO算法、文献[22]引入食物源节点的SoSACO-v2算法进行对比仿真。仿真相关参数如表2所示。设置两种比例不同的静态环境，起点与终点分别用绿色与红色填充，路径规划结果如下图所示。通过观察四种算法在两种环境中的路径规划图15、17可以得出，GR-ACO与TWPSS-ACO 算法在 $2 0 ^ { * } 2 0$ 环境中收敛精度基本相同，而在 $3 0 ^ { * } 3 0$ 环境中，GR-ACO 算法寻优轨迹最短，ACON与SoSACO-v2两种算法易陷入局部极小，寻优能力较差。通过分析20次仿真平均最短路径长度与迭代次数的关系可知，不管是在 $2 0 ^ { * } 2 0$ 还是 $3 0 ^ { * } 3 0$ 的环境中，SoSACO-v2 算法均以最快的速度收敛到最终解，GR-ACO 算法次之，ACON、TWPSS-ACO算法较慢。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将对比算法的运行结果作统计分析，如表5所示。表5中，SoSACO-v2算法中来自不同方向的蚂蚁利用食物源节点，识别其他类蚂蚁残留的信息，快速寻找下一路径节点，运行时间最短，但容易陷入局部最优，收敛路径最长；GR-ACO算法由于引入几何规则非均匀分配初始信息素，并且利用信息素负反馈以及两点交叉进行信息素更新，与SoSACO-v2、ACON算法比较，寻优路径最短，且收敛速度仅次于SoSACO-v2 算法；而TWPSS-ACO算法虽然最终收敛路径与GR-ACO算法相近，但运行时间最长。综上所述，GR-ACO算法中引入几何规则避障以及对更新环节的改进可以有效提高算法收敛速度。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b29c0a19c049150fa4ac6f1b2ac50d2ee19553fc211dc625c0ead2e06b2b007.jpg",
+        "img_caption": [
+            "图16四种算法迭代曲线 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b660a1d9014803a7a33485b6d7198b42a227f33827a6680bb82b86a359821544.jpg",
+        "img_caption": [
+            "图17四种算法路径轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/495117aeefd9421dc0d3ed9a2d6e5be740b8d3fdb56403a8ad617c3444f18721.jpg",
+        "img_caption": [
+            "图15四种算法路径轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/44f555c4fdba3780491b4dc6e0952565822b8bdc8ac45debdea686669d1e35f5.jpg",
+        "img_caption": [
+            "图18四种算法迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc678a78ce1ea41ff15980f9988327aec8e3f879c2eccca32074cfbf5aeb7374.jpg",
+        "table_caption": [
+            "表5四种算法运行结果统计表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算法</td><td colspan=\"3\">20*20环境</td><td colspan=\"3\">30*30环境</td></tr><tr><td>最优路径</td><td>迭代次数</td><td>运行时间ms</td><td>最优路径</td><td>迭代次数</td><td>运行时间/ms</td></tr><tr><td>SoSACO-v2</td><td>31</td><td>3</td><td>1152</td><td>39</td><td>6</td><td>1 277</td></tr><tr><td>ACON</td><td>29</td><td>10</td><td>1394</td><td>31</td><td>7</td><td>3078</td></tr><tr><td>TWPSS-ACO</td><td>28</td><td>12</td><td>1947</td><td>29</td><td>21</td><td>7 239</td></tr><tr><td>GR-ACO</td><td>27</td><td>4</td><td>1153</td><td>25</td><td>6</td><td>2106</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3GR-HFACO 算法与GR-ACO、TWPSS-ACO 算法比较 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为验证具有观点采择能力蚂蚁的优越性，将本文改进算法与具有单一能力的GR-ACO算法、文献[21]中TWPSS-ACO算法进行仿真比较，设置障碍物分别占比 $8 \\%$ 、 $5 5 \\%$ 的两种静态环境，起点与终点分别用绿色与红色填充。两种算法的规划结果与迭代曲线如图19\\~22所示，相关运行结果统计在表6中。通过分析路径轨迹图可以得出，GR-HFACO算法在障碍物稀疏与复杂环境中的寻优轨迹明显优于另外两种算法；观察迭代曲线图20、22，GR-HFACO算法的收敛速度最快。所以，引入不同透视能力的蚂蚁不仅可以改善路径多样性，收敛速度也进一步提高。分析表6得出，由于GR-HFACO算法中引入不同社会认知的蚂蚁，改善了路径多样性，较单一能力的GR-ACO 算法，不仅最优轨迹缩短，运行时间也较少，而TWPSS-ACO算法的寻优能力最差，由此可见，群体中引入观点采择能力个体使算法的效率显著提高。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d77611073a452885c9972f635ae3847a99843bd02436be4f73c20a006e1ed2a5.jpg",
+        "img_caption": [
+            "图19三种算法路径轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/56aa621f00756fe54d7456849a6fed9ca1ca7e41d69e2434a41e7bb44df2f285.jpg",
+        "img_caption": [
+            "图20三种算法迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3593dc42d290cfb5129c756774fe3ebb11384b163538ac03b01658ed233aa19.jpg",
+        "img_caption": [
+            "图21三种算法路径轨迹"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f998295ccdf868d2cc6633a5852bb6a16a74d2138635ba191b03b298658cbcb6.jpg",
+        "img_caption": [
+            "图 22三种算法迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/093f6c7f5932e56c279c273ec27d1c40ce11054b8de79d6c2807e2b36c1fcd50.jpg",
+        "table_caption": [
+            "表6三种算法运行结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算法</td><td colspan=\"3\">8%障碍物</td><td colspan=\"3\">55%障碍物</td></tr><tr><td>最优路径</td><td>迭代次数</td><td>运行时间 /ms</td><td>最优路径</td><td>迭代次数</td><td>运行时间 /m</td></tr><tr><td>TWPSS- ACO</td><td>42</td><td>26</td><td>3086</td><td>46</td><td>26</td><td>5 496</td></tr><tr><td>GR-ACO</td><td>36</td><td>11</td><td>1 347</td><td>32</td><td>17</td><td>3268</td></tr><tr><td>GR-HFACO</td><td>30</td><td>7</td><td>1 056</td><td>30</td><td>7</td><td>1 179</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4GR-HFACO 算法与Sci-ACO、HHACO 算法比较 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为呈现GR-HFACO 算法在文献[26]Sci-ACO 算法基础上改进的有效性，将该算法、Sci-ACO 算法与目前流行的HHACO算法在全局已知与算法迭代过程中有静态障碍物干扰的两种环境下进行仿真验证，仿真参数如表2所示，起点与目标点分别用绿色与红色填充。通过观察图23、24全局已知环境下三种算法的路径轨迹与迭代曲线，GR-HFACO与HHFACO 算法寻优精度最好，但GR-HFACO 算法由于在初期几何规则的非均匀分配信息素的设置，较Sci-ACO算法收敛速度快，而Sci-ACO算法寻优能力最差；当三种算法迭代到第5次时，在环境中加入静态障碍物作为干扰，如图25中灰色填充栅格所示。通过观察图25、26得出，在第5次加入静态障碍物后，路径长度发生变化。但由于对观点采择能力的个体进行了有效改进，使GR-HFACO算法能够较快地收敛到原来的最优解。三种算法的统计结果如表7所示。从表7中可以看出，不管是在全局已知还是有静态障碍物干扰的环境下，GR-HFACO算法能够以最快的速度收敛到最优解，运行时间较短。尤其体现在有静态障碍物干扰情况下，HHFACO算法搜索到最优解的成功率较差，而本文改进算法具有较强的鲁棒性，且收敛的最优解优于其他两种算法，所以GR-HFACO算法较好地平衡了快速性与全局性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ada2276e57947c390b2de7ba0f5980e23944977b57e81b2dbd6a40054101aaa.jpg",
+        "img_caption": [
+            "图23三种算法路径轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e3d7ef33c9e3aeacb3c42229481f67ff61b931e327bd05c72d8ad0365015feb.jpg",
+        "img_caption": [
+            "图24三种算法迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/34470b8508d496d6be726540473141f715d54a9797e40856b6eb2e925d808808.jpg",
+        "img_caption": [
+            "图25三种算法路径轨迹图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f19c602938f0122543ed97ccb3c1bf1da1d4817f6158fdad6004dde5a64c559.jpg",
+        "img_caption": [
+            "图26三种算法迭代曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6954d32f49a6fa0e351dad4eb208d9d0f5a731591d1ed1bf0700772b8e9e1aa.jpg",
+        "table_caption": [
+            "表7三种算法运行结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算法</td><td colspan=\"4\">全局已知</td><td colspan=\"4\">静态障碍物干扰</td></tr><tr><td>最优路径</td><td>迭代次数</td><td>运行时间 /ms</td><td>成功率 /%</td><td>最优路径</td><td>迭代次数</td><td>运行时间</td><td>成功率</td></tr><tr><td>Sci-ACO</td><td>40</td><td>25</td><td>3969</td><td>100</td><td>62</td><td>40</td><td>/ms 5073</td><td>/% 90</td></tr><tr><td>HHACO</td><td>30</td><td>15</td><td>2 710</td><td>100</td><td>40</td><td>17</td><td>4237</td><td>20</td></tr><tr><td>GR-HFACO</td><td>30</td><td>7</td><td>2 343</td><td>100</td><td>30</td><td>12</td><td>3427</td><td>100</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种适合AGV路径寻优的基于几何规则异类蚁群优化（GR-HFACO）算法，该算法结合社会认知特点，将蚁群划分为具有观点采择能力的个体，改善了路径多样性；通过几何避障规则以及双并行搜索机制提高了收敛速度；信息素更新规则中引入信息素负反馈以及两点交叉策略，有效平衡了算法快速性与全局性；从数学角度证明了GR-HFACO 算法的全局收敛性；进一步通过仿真表明，该算法在复杂程度不同的栅格环境中运行时间减少，路径明显缩短，路径规划效率显著提高。综上所述，GR-HFACO算法在提高收敛速度的同时能够保证算法的全局性能，从而提高了AGV的运输效率，为实现立体仓储和AGV的智能化提供了新的思路。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Robert K,Todor S,Vinicio T,et al. The next step in robot commissioning: autonomous picking and palletizing [J].IEEE Robotics & Automation Letters,2016,1(1):546-553.   \n[2]Satoshi H,Jun O,Akiko S,et al. Hybrid design methodology and costeffectiveness evaluation of AGV transportation systems [J].IEEE Trans on Automation Science & Engineering,2007,4(3): 360-372.   \n[3]Zhu Lin,Fan Xiumin,He Qichang.Scheduling optimization for multiAGVs in batching area of flexible production system [J]. Computer Integrated Manufacturing Systems,2012,18(6):1168-1175.   \n[4]Ferenc T,Mauricio B.A novel potential field method for path planning of mobile robots by adapting animal motion atributes [J]. Robotics& Autonomous Systems,2016,82 (C): 24-34.   \n[5]GurujiAK,Agarwal H,Parsediya DK.Time-efficient A\\*algorithm for robotpath planning [J].Procedia Technology,2016,23:144-149.   \n[6]肖云涛，欧林林，俞立．基于线性时序逻辑的最优巡回路径规划[J]. 自动化学报,2014,40 (10):2126-2133.(Xiao Yuntao,Ou Linlin,Yu Li. Optimal circuit path planning based on linear time series logic [J].Acta Automatica Sinica,2014,40 (10): 2126-2133.）   \n[7]Khaksar W, Tang Saihong,Sahari K S M,et al. Sampling-based online motion planning for mobile robots:utilization of tabu search and adaptive neuro-fuzzy inference system [J].Neural Computing&Applications,2017 (9-10): 1-15.   \n[8]Fazlollahtabar H,Saidi-MehrabadM,Balakrishnan J.Mathematical optimization for earliness/tardiness minimization in a multiple automated guided vehicle manufacturing system via integrated heuristic algorithms [J] Robotics & Autonomous Systems,2015,72(C):131-138.   \n[9] 肖辉辉，万常选，段艳明．一种改进的新型元启发式花朵授粉算法[J]. 计算机应用研究,2016,33(1):126-131.(Xiao Huihui,Wan Changxuan, Duan Yanming.An improved new meta heuristic flower polination algorithm[J].Application Research Of Computers,2016,33(1):126-131.)   \n[10]Thirachit S,Suphakant P, Chidchanok L.Combining new fastoposite gradient search with ant colony optimization for solving travelling salesman problem[J]. Engineering Applications ofArtificial Intellgence,2014,35 (2): 324-334.   \n[11] Mohammadpour L,Hussain M,Aryanfar A,et al. Evaluating performance of intrusion detection system using support vector machines: review [J]. International Journal ofSecurity&ItsApplications,2015,21(9):225-234.   \n[12]FengJC,LuJT,Cheng Changyu.An interpretable fuzzy system learned through online rule generation and multiobjective ACO with a mobile robot control application [J]. IEEE Transon Cybernetics,2016,46 (12): 2706- 2718.   \n[13] Phatchara S,Kanchana S,Somnuk T. Ant Colony Optimization for solving container stacking problems [J].Advanced Materials Research,2014,931- 932: 1689-1695.   \n[14]范绍聪，刘怡俊．基于量子蚁群算法的片上网络映射研究[J].计算机 应用研究,2017,34(1):156-159.(Fan Shaocong,Liu Yijun.Research on on chip network mapping based on quantum ant colony algorithm [J]. Application Research OfComputers,2017,34(1):156-159.)   \n[15]Puneet R,Maitreyee D.Image edge detection using modified ant colony optimization algorithm based on weighted heuristics [J].Intermational Journal of Computer Applications,2014,68 (15): 5-9.   \n[16] Sagban R,Ku-Mahamud K R,Bakar M SA. Nature-inspired Parameter Controllers for ACO-based Reactive Search [J]. Research Journal of Applied Sciences Engineering & Technology,2015,11(1):109-117.   \n[17]冯超钰，王杰，张梦超．基于ACO_PSO的机器人路径规划和ROBCAD 运动仿真[J].组合机床与自动化加工技术,2017(5):11-113.(Feng Chaoyu, Wang Jie, Zhang Mengchao.Robot path planning and ROBCAD motion simulation based on ACO_PSO [J]. Combined machine tool and automatic machining technology,2017(5):111-113.)   \n[18] Chaari I,Koubaa A,Trigui S,et al. SmartPATH: an efficient hybrid ACOGA algorithm for solving the global path planning problem of mobile robots [J]. International Journal of Advanced Robotic Systems,2014,11(1): 1.   \n[19] Zhang Xin,Wu Zhanwen. Optimization planning based on Improved ant colony algorithm for robot[J].Journal of Networks,2014,9(6).   \n[20] Ye Ke, Zhang Changsheng, Ning Jiaxu, et al. Ant-colony algorithm with a strengthened negative-feedback mechanism for constraint-satisfaction problems [J].Information Sciences,2017,406-407: 29-41.   \n[21] Zhao Juanping,Fu Xiuhui. Improved ant colony optimization algorithm and Its application on path planning of mobile robot [J]. Journal of Computers, 2012, 7 (8): 1-4.   \n[22] Javier C,Jesica R,Dolores C,et al. Extending ACO for fast path search in huge graphs and social networks [J]. Expert Systems with Applications, 2017,86: 292-306.   \n[23] Indrajeet P,Jens M,Kristina HF,et al.Divergent roles of autistic and alexithymic traits in utilitarian moral judgments in adults with autism [J]. Scientific Reports,2016,6: 23637.   \n[24] Steven A, Sara M,TaylorNA,et al. The effects of exogenous testosterone on men's moral decision-making [J].Adaptive Human Behavior & Physiology,2016,3 (1): 1-13.   \n[25] Sekara M, Kowalski M,Byrski A,etal. Multi-pheromone ant colony optimization forsocio-cognitive simulation purposes [J].Procedia Computer Science,2015,51(1): 954-963.   \n[26] Byrski A,Swiderska E,Lasisz Jakub J,et al. Socio-cognitively inspired ant colony optimization [J].Journal of Computational Science,2016,21 (397- 406).   \n[27] Xu Mingle, You Xiaoming,Liu Sheng.A novel Heuristic communication Heterogeneous dual population Ant Colony Optimization algorithm [J]. IEEE Access,2017,PP (99): 1-1.   \n[28]张明清，危美林，孔红山，等．面向军事应用的信息栅格网络拓扑建模 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究[J]．系统仿真学报,2016,28(2):301-306.(Zhang Mingqing,Wei Meilin，Kong Hongshan，et al.Research on topology modeling of information grid network for military applications [J].Journal of System Simulation,2016,28(2):301-306.) ",
+        "page_idx": 10
+    }
+]

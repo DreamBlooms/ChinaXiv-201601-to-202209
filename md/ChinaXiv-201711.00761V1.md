@@ -1,0 +1,216 @@
+饲粮胆碱和裂殖壶菌油联合添加促进二十二碳六烯酸在鸡蛋卵黄中的富集王浩1,2王晓翠2\*张海军² 齐广海²王 晶²许 丽1\*\*武书庚2\*[1.东北农业大学动物科学技术学院，哈尔滨150030；2.中国农业科学院饲料研究所，农业
+
+部饲料生物技术重点开放试验室，生物饲料开发国家工程研究中心，北京 100081)摘要：本试验旨在研究饲粮添加胆碱与裂殖壶菌油（Schizochytrium oil，SO）对鸡蛋卵黄脂质及二十二碳六烯酸（DHA）富集的影响。选取26 周龄京红蛋鸡 288只，分4组（每组6个重复，每重复12只鸡）。采用 $2 { \times } 2$ 因子试验设计，饲粮添加胆碱（500 和 $\mathrm { 1 0 0 0 m g / k g ) }$ 和SO（0和 $0 . 5 \%$ ）为2个主效应，共配制4种等氮等能饲粮。预试期1周，正试期8周。结果表明：1）试验期内，各组生产性能和蛋品质均无显著差异（ $. P { > } 0 . 0 5$ ）。2）各组卵黄中干物质、粗脂肪、胆固醇及甘油三酯含量均无显著差异（ $P { > } 0 . 0 5$ ）。 $1 \ 0 0 0 \ \mathrm { m g / k g }$ 胆碱组卵黄总磷脂含量显著高于 $5 0 0 ~ \mathrm { m g / k g }$ 胆碱组（ $P { < } 0 . 0 5$ ）。胆碱和 SO 对卵黄总磷脂含量有显著交互作用（ $\scriptstyle P = 0 . 0 4 { \mathrm { , } }$ ）， $1 0 0 0 \mathrm { m g / k g }$ 胆碱 $+ 0 . 5 \% \mathrm { S O }$ 组卵黄总磷脂含量最高。3) $0 . 5 \% \mathrm { S O }$ 显著提高卵黄 $\mathtt { n } { - } 3$ 多不饱和脂肪酸（PUFA）和DHA含量（ $. P { < } 0 . 0 5 \$ ），显著降低n-6PUFA含量及n-6PUFA/n-3PUFA值（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。胆碱和 SO 对卵黄中 $\mathtt { n } { - } 3$ PUFA（ $_ { _ { P < 0 . 0 0 1 } }$ ）、 $\mathrm { n } { - } 6$ PUFA$\scriptstyle P = 0 . 0 1$ ）及DHA（ $_ { _ { P < 0 . 0 0 1 } }$ ）含量和n-6PUFA/n-3PUFA值（ $\scriptstyle P = 0 . 0 1$ ）有显著交互作用，$\boldsymbol { 1 } 0 0 0 \mathrm { m g / k g }$ 胆碱 $+ 0 . 5 \% \mathrm { S O }$ 组卵黄中 $\mathbf { n } { - } 3$ PUFA 和DHA含量显著高于其他组（ $P { < } 0 . 0 5$ ），且n-6 PUFA含量及n-6PUFA/n-3PUFA值显著低于其他组（ $. P { < } 0 . 0 5$ ）。综上，本试验条件下，饲粮中 $1 ~ 0 0 0 ~ \mathrm { m g / k g }$ 胆碱和 $0 . 5 \% \mathrm { S O }$ 联合添加可促进卵黄 DHA 富集，且对蛋鸡生产性能和蛋品质无显著影响。
+
+关键词：胆碱；卵黄；DHA；脂肪酸；裂殖壶菌油中图分类号：S816.7
+
+二十二碳六烯酸（docosahexaenoic acid，DHA， ${ \bf C } 2 2 { \bf : 6 } { \bf n - 3 }$ ）是一种n-3系长链多不饱和脂肪酸（polyunsaturated fatty acids，PUFA），可促进婴幼儿大脑及视网膜发育[1l，而人体无法合成DHA只能通过外源补充。因此，通过各种方式增加食品中DHA 具有重要意义。鸡蛋卵黄中脂肪酸极易受到饲粮脂肪酸组成的影响。在饲粮中添加n-3PUFA可增加鸡蛋中的DHA 含量[2-4]。裂殖壶菌（Schizochytrium）是一种富含DHA 的微藻，研究显示蛋鸡饲粮中添加裂殖壶菌粉可显著提高卵黄中DHA 含量，尽管卵黄中DHA 含量会随着饲粮中裂殖壶菌粉添加剂量的升高而提高，但DHA 在鸡蛋中富集率则呈线性下降[5]。这也是目前 DHA鸡蛋成本高的原因之一。由于 DHA 主要存在于卵黄磷脂中[，磷脂与 DHA 结合成磷脂型DHA（DHA-PL）的反应属可逆反应，当DHA含量提高时，需要更多的磷脂来维持两者合适的摩尔比才能产生更多的DHA-PL[7]。而饲粮添加胆碱却可显著提高卵黄中卵磷脂含量[8]。目前，关于饲粮胆碱和裂殖壶菌油联合添加是否会促进DHA 在鸡蛋卵黄中富集，尚未见相关报道。因此，本试验通过向高峰期产蛋鸡饲粮中添加胆碱和裂殖壶菌油，探索两者对鸡蛋卵黄中 DHA的富集是否存在协同作用，旨在为高效、经济地生产DHA 富集蛋提供思路和试验依据。
+
+# 1材料与方法
+
+# 1.1试验设计与试验饲粮
+
+采用 $2 { \times } 2$ 因子试验设计（表1），饲粮添加胆碱（500 和 $1 0 0 0 \mathrm { m g / k g }$ ）和裂殖壶菌油（0和 $0 . 5 \%$ ）为2个主效应，共配制4种饲粮，饲粮中分别添加 $5 0 0 \mathrm { m g / k g }$ 胆碱（1组）、1000$\mathrm { m g / k g }$ 胆碱（2组）、 $5 0 0 ~ \mathrm { m g / k g }$ 胆碱 $_ { + 0 . 5 \% }$ 裂殖壶菌油（3组）和 $1 0 0 0 \mathrm { m g / k g + 0 . 5 \% }$ 裂殖壶菌油（4组）。裂殖壶菌油购自厦门金达威集团股份有限公司，裂殖壶菌油中DHA含量占总脂肪酸的 $6 6 . 3 \%$ （实测值）。胆碱（氯化胆碱， $9 9 . 3 \%$ ）购自杭州海尔希畜牧科技有限公司。试验选取26周龄体况良好，体重相近的健康京红1号产蛋鸡 288只，按初始产蛋率无显著差异原则分成4个组，每组6个重复，每个重复12只鸡。
+
+# 表1试验设计
+
+Table 1 Experimental design   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="3">组别Groups</td></tr><tr><td>Items</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>胆碱 Choline/(mg/kg)</td><td>500</td><td>1000</td><td>500</td><td>1 000</td></tr><tr><td>裂殖壶菌油</td><td></td><td></td><td></td><td></td></tr><tr><td>Schizochytrium oil/%</td><td></td><td></td><td>0.5</td><td>0.5</td></tr></table></body></html>
+
+其中，裂殖壶菌油的实测总能值为 $3 7 . 6 3 \mathrm { M J / k g }$ ，参照NRC（2012）中蛋鸡代谢能计算公式，得出裂殖壶菌油的代谢能为 $2 7 . 2 8 \mathrm { M J / k g }$ 。各试验组饲粮采用等氮（ $1 6 . 6 0 \%$ 粗蛋白质)等能（11.15 MJ/kg代谢能）的模式，饲粮的营养水平参照 NRC（1994）和《鸡饲养标准》（NY/T33—2004），结合京红蛋鸡饲养手册配制。配料时按照试验设计在基础饲粮中分别添加胆碱或裂殖壶菌油，各组饲粮中按每千克饲粮添加 $1 0 0 ~ \mathrm { { m g } }$ 维生素E、 $5 0 ~ \mathrm { m g }$ 茶多酚和$1 0 0 \mathrm { m g }$ 乙氧基喹啉作为抗氧剂，防止裂殖壶菌油氧化。
+
+所有饲粮采取多点取样法，每种饲粮取样 $5 0 0 \ \mathrm { g }$ 于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存待分析，试验饲粮中粗蛋白质含量参照GB/T6432—1994方法测定，钙（Ca）含量参照GB/T13885—2003方法测定，蛋氨酸（Met）、赖氨酸（Lys）和蛋氨酸+半胱氨酸 $( \bf M e t + \bf C y s )$ 含量参照GB/T18246—2000方法测定。试验饲粮组成及营养水平见表2，饲粮脂肪酸组成见表3。
+
+# 表2试验饲粮组成及营养水平(风干基础)
+
+Table 2Composition and nutrient levels of experimental diets (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>61.89</td><td>61.89</td><td>60.72</td><td>60.72</td></tr><tr><td>豆粕 Soybean meal</td><td>26.30</td><td>26.30</td><td>26.52</td><td>26.52</td></tr><tr><td>裂殖壶菌油 Schizochytrium oil</td><td></td><td></td><td>0.50</td><td>0.50</td></tr><tr><td>胆碱 Choline</td><td>0.05</td><td>0.10</td><td>0.05</td><td>0.10</td></tr><tr><td>石粉 Limestone</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>预混料 Premixl)</td><td>1.60</td><td>1.60</td><td>1.60</td><td>1.60</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.11</td><td>0.11</td><td>0.11</td><td>0.11</td></tr><tr><td>沸石粉 Zeolite powder</td><td>0.05</td><td></td><td>0.50</td><td>0.45</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>11.15</td><td>11.15</td><td>11.15</td><td>11.15</td></tr><tr><td>粗蛋白质 CP</td><td>16.60</td><td>16.61</td><td>16.61</td><td>16.61</td></tr><tr><td>钙Ca</td><td>3.37</td><td>3.36</td><td>3.37</td><td>3.37</td></tr><tr><td>有效磷 AP</td><td>0.34</td><td>0.34</td><td>0.34</td><td>0.34</td></tr><tr><td>赖氨酸Lys</td><td>0.86</td><td>0.87</td><td>0.87</td><td>0.88</td></tr><tr><td>蛋氨酸Met</td><td>0.38</td><td>0.39</td><td>0.38</td><td>0.37</td></tr></table></body></html>
+
+<html><body><table><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.67</td><td>0.68</td><td>0.69</td><td>0.68</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets: VA 12 500 IU, VD3 425 IU, VE 115 IU， VK $2 \ : \mathrm { m g }$ ， $\mathrm { V B _ { 1 } 0 . 9 8 ~ m g }$ ， $\mathrm { V B } _ { 2 } 8 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 8 \mathrm { m g }$ ， $D$ -泛酸 $D$ -pantothenic acid $5 0 \mathrm { m g }$ ，烟酸niacin $3 2 . 5 \mathrm { m g }$ ，生物素biotin $2 \ : \mathrm { m g }$ ，叶酸 folic acid $5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 }$ 5 mg，Cu (as copper sulfate) $8 ~ \mathrm { m g }$ ， I (as potassium iodide) $1 \mathrm { m g }$ ，Fe (as ferrous sulfate) $6 0 ~ \mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $6 5 ~ \mathrm { m g }$ Zn (as zinc sulfate) $6 6 ~ \mathrm { m g }$ ，植酸酶 phytase $5 0 0 ~ \mathrm { m g }$ ，酵母培养物 yeast culture $1 0 \mathrm { { g } }$ ，茶多酚 tea polyphenols 50 mg，乙氧基喹琳 ethoxyquin $1 0 0 ~ \mathrm { { m g } }$ 。
+
+2)代谢能和有效磷为计算值，其余为实测值。ME and AP were calculated values,while the others were measured values.
+
+# 表3饲粮脂肪酸组成 (干物质基础)
+
+Table 3Fatty acid composition of experimental diets (DM basis) mg/g   
+
+<html><body><table><tr><td>项目Items</td><td colspan="3">组别Groups</td></tr><tr><td></td><td>1</td><td>2</td><td>3 4</td></tr><tr><td>C6:0</td><td>0.02</td><td>0.01 0.02</td><td>0.02</td></tr><tr><td>C10:0</td><td>0.01 0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>C12:0</td><td>0.01</td><td>0.01 0.01</td><td>0.01</td></tr><tr><td>C14:0</td><td>0.07</td><td>0.05 0.11</td><td>0.10</td></tr><tr><td>C15:0</td><td>0.12</td><td>0.14 0.14</td><td>0.17</td></tr><tr><td>C16:0</td><td>7.48</td><td>7.39 8.61</td><td>8.70</td></tr><tr><td>C16:1</td><td>0.07</td><td>0.06 0.06</td><td>0.06</td></tr><tr><td>C17:0</td><td>0.24</td><td>0.30 0.29</td><td>0.27</td></tr><tr><td>C18:0</td><td>1.21</td><td>1.22 1.18</td><td>1.20</td></tr><tr><td>C18:1 n-9c</td><td>10.36</td><td>10.47 9.81</td><td>9.72</td></tr><tr><td>C18:2 n-6c</td><td>21.05</td><td>20.16 19.97</td><td>19.90</td></tr><tr><td>C18:3 n-3</td><td>1.23</td><td>1.20 1.08</td><td>1.17</td></tr><tr><td>C20:0</td><td>0.20</td><td>0.20 0.17</td><td>0.16</td></tr><tr><td>C20:1</td><td>0.10</td><td>0.10 0.09</td><td>0.08</td></tr><tr><td>C21:0</td><td>0.04</td><td>0.03 0.02</td><td>0.02</td></tr><tr><td>C20:2</td><td>0.02</td><td>0.01 0.01</td><td>0.01</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>C20:3 n-6</td><td>0.02</td><td>0.01</td><td>0.02</td><td>0.01</td></tr><tr><td>C20:4 n-6</td><td>0.02</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>C20:5 n-3</td><td>0.04</td><td>0.05</td><td>0.05</td><td>0.06</td></tr><tr><td>C22:0</td><td>0.16</td><td>0.13</td><td>0.11</td><td>0.14</td></tr><tr><td>C22:1 n-9</td><td>0.04</td><td>0.02</td><td>0.02</td><td>0.03</td></tr><tr><td>C23:0</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.04</td></tr><tr><td>C24:0</td><td>0.15</td><td>0.14</td><td>0.13</td><td>0.12</td></tr><tr><td>C22:6 n-3</td><td>0.29</td><td>0.25</td><td>4.07</td><td>4.06</td></tr><tr><td>C24:1</td><td>0.04</td><td>0.02</td><td>0.01</td><td>0.01</td></tr><tr><td>饱和脂肪酸 SFA</td><td>9.75</td><td>9.67</td><td>10.84</td><td>10.96</td></tr><tr><td>不饱和脂肪酸PUFA</td><td>22.67</td><td>21.69</td><td>25.21</td><td>25.22</td></tr><tr><td>n-3不饱和脂肪酸n-3PUFA</td><td>1.56</td><td>1.50</td><td>5.20</td><td>5.29</td></tr><tr><td>n-6不饱和脂肪酸n-6PUFA</td><td>21.09</td><td>20.18</td><td>20.00</td><td>19.92</td></tr><tr><td>n-6 不饱和脂肪酸/n-3 不饱和脂肪酸</td><td></td><td></td><td></td><td></td></tr><tr><td>n-6 PUFA/n-3 PUFA</td><td>13.52</td><td>13.45</td><td>3.85</td><td>3.76</td></tr></table></body></html>
+
+# 1.2 饲养管理
+
+试验期间由专人对试验产蛋鸡进行管理和饲喂，采用3层阶梯式蛋鸡笼饲养，每笼（长$\times$ 宽 $\times$ 高为 $5 7 \mathrm { c m } { \times } 4 7 \mathrm { c m } { \times } 4 7 \mathrm { c m } ) 3$ 只，试验鸡只自由采食和饮水，光照周期 $1 6 \mathrm { h }$ （白天）：8h（黑夜），光照强度 $2 0 \mathrm { l x }$ ，舍温（ $2 1 { \pm } 2$ ） $\mathrm { { } ^ { \circ } C }$ ，相对湿度 $50 \% { \sim } 6 0 \%$ ，自然通风结合纵向负压通风，每3d带鸡消毒1次并清扫鸡舍，每天通过自动清粪机清理2次，试验期常规免疫。每天喂料3次（07:30、12:30和17:30），捡蛋1次。预试期1周，正试期8周。
+
+# 1.3 测定指标和方法
+
+# 1.3.1 生产性能
+
+观察每组鸡的健康状况。试验期内，每日以重复为单位准确记录总蛋重、产蛋数，软破蛋及异常蛋数（各种畸形、超大、超小）用于计算平均蛋重（扣除破软蛋及异形蛋数），每2周结料1次。计算正试期内的产蛋率、日产蛋量、平均蛋重、平均日采食量及料蛋比。
+
+# 1.3.2 鸡蛋内部品质和卵黄比例
+
+饲养试验的第8周末，选取最接近每重复平均蛋重的3枚样蛋，测定卵黄颜色、浓蛋白高度及哈氏单位等蛋品质指标。卵黄颜色、浓蛋白高度和哈氏单位采用SONOVA蛋品质自动分
+
+析仪测定（Orka food technology Ltd，Ramat Hasharon，以色列）。电子天平称量蛋重，分离卵黄并称卵黄重，计算卵黄比例。
+
+# 1.3.3 卵黄脂质组成
+
+饲养试验8周末，每重复收集3枚接近该重复平均蛋重的样蛋，分离卵黄，电子天平称重并记录卵黄重，混合搅拌均匀后， $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。卵黄样品真空冻干（72h）后称重并记录，卵黄干物质 $( \% ) = 1 0 0 \times$ 冻干后重量（g）/冻干前重量（g）。冻干后卵黄小心粉碎，过40目筛， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。
+
+卵黄粗脂肪含量采用Folch法分析，并计算卵黄干物质中粗脂肪含量；卵黄干物质中胆固醇和甘油三酯含量采用南京建成生物工程研究所的试剂盒测定，测定方法及步骤严格按照说明书进行。
+
+卵黄中总磷脂含量的测定参照Palacios等[10]的方法，并稍作修改。具体如下： $5 0 \mathrm { m L } ( 9 5 \%$ ）的乙醇抽提7g卵黄冻干粉，混匀直到卵黄完全分散， $2 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $\cdot 5 \ \mathrm { m i n }$ ，利用分液漏斗分离后，再用 $3 0 ~ \mathrm { m L }$ 正己烷抽提2次，将抽提后的液体也加入之前的分液漏斗中；再用 $3 0 ~ \mathrm { m L }$ （ $9 5 \%$ ）酒精抽提沉淀2次，将抽提液也加入之前的分液漏斗中，轻轻摇晃后静置1h待分层，移除乙醇相，正己烷相再加入 $5 0 ~ \mathrm { m L }$ ( $90 \%$ ）的乙醇混匀，然后静置分离，将底部的正己烷分离出来，将之前乙醇相中乙醇蒸发后，加 $3 0 ~ \mathrm { m L }$ 正己烷溶解脂质，转移到分液漏斗后，加入 $1 0 0 ~ \mathrm { { m L } }$ （ $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ）丙酮，小心搅动，沉淀出总磷脂， $5 \ \mathrm { { ^ \circ C } }$ 条件下 $1 5 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ 上层液体倒出后，旋转蒸发剩余液体，剩余的固体即总磷脂。
+
+# 1.3.4饲粮及卵黄中脂肪酸组成
+
+脂肪酸测定：称取卵黄冻干粉（ $9 0 { \pm } 1 0 ^ { \circ }$ ）mg[饲粮称取 $( 0 . 3 0 { \pm } 0 . 0 1 ) \ \mathrm { g } ]$ ，转移至 $1 5 ~ \mathrm { m L }$ 螺口试管中，依次加入1mL正己烷， $1 \mathrm { m L }$ 内标液（ $1 \mathrm { m g / m L }$ 十一烷酸甲酯－正己烷溶液）再加入4mL甲醇：乙酰氯（体积比为10:1）混合液。混匀后，在 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴锅中甲酯化 $3 \mathrm { h }$ 。甲酯化后取出，冷却至室温，缓缓加入 $5 \mathrm { m L } 7 \%$ 碳酸钾溶液，涡旋混匀后，于 $4 0 0 0 \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 取上层有机相 $1 . 2 \mathrm { m L }$ 用于分析。使用GC-450气相色谱仪（天美科学仪器有限公司），采用Agilent DB-23色谱柱 $( 6 0 \mathrm { m } { \times } 2 5 0 \mu \mathrm { m } { \times } 0 . 2 5 \mu \mathrm { m } )$ 。氮气作为载气，柱流量：恒流为 $1 . 0 0 \mathrm { m L / m i n }$ 。检测器温度： $2 8 0 \mathrm { ~ \textdegree ~ }$ ；进样口温度， $2 7 0 \mathrm { ~ \textdegree C }$ ；程序升温：100℃维持 $5 ~ \mathrm { m i n }$ 后，以4℃/min升温至240℃（ $3 0 \mathrm { m i n }$ ），进样量 $1 . 0 \mu \mathrm { L }$ 。以正己烷为清洗液，进样前后各清洗3次。
+
+# 1.4 统计分析
+
+试验数据以“平均值"表示。所有数据用Excel进行整理，并用 SPSS23.0统计软件中的一般线性模型（GLM）程序进行 $2 { \times } 2$ 因子分析，并对胆碱水平和裂殖壶菌油水平的主效应
+
+及其交互作用进行多元方差分析。当胆碱水平和裂殖壶菌油具显著交互作用时，采用Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 为显著差异标准。
+
+# 2结果与分析
+
+2.1饲粮添加胆碱和裂殖壶菌油对高峰期产蛋鸡生产性能的影响
+
+由表4 可知，饲粮添加胆碱和裂殖壶菌油对高峰期产蛋鸡生产性能无显著影响（ $. P { > } 0 . 0 5$ ）。其中，3组日产蛋量略有降低，但与其他各组相比差异不显著（ $. P { > } 0 . 0 5$ ）；饲粮添加 $1 0 0 0 \mathrm { m g / k g }$ 胆碱各组的平均蛋重高于 $5 0 0 \mathrm { m g / k g }$ 胆碱各组，但差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+表4饲粮添加胆碱和裂殖壶菌油对高峰期产蛋鸡生产性能的影响同列平均值肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。下表同
+
+Table 4Effects of dietary choline and Schizochytrium oil on performance of laying hens during peak of laying   
+
+<html><body><table><tr><td>项目Items</td><td></td><td>产蛋率</td><td>平均蛋重</td><td>平均日采</td><td>日产蛋量</td><td>料蛋比</td><td>异常蛋率</td></tr><tr><td></td><td></td><td>EP/%</td><td>AEW/g</td><td>食量</td><td>DEM/g</td><td>F/E</td><td>AER/%</td></tr><tr><td>1</td><td></td><td>94.18</td><td>59.65</td><td>ADFI/g</td><td></td><td></td><td></td></tr><tr><td>组别 2</td><td></td><td>94.51</td><td>60.36</td><td>120.53 121.13</td><td>56.23</td><td>2.15</td><td>0.70</td></tr><tr><td>Groups 3</td><td></td><td>93.52</td><td>59.34</td><td>120.21</td><td>56.76</td><td>2.14</td><td>1.00</td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td>55.56</td><td>2.16</td><td>1.12</td></tr><tr><td>SEM</td><td></td><td>93.58</td><td>60.55</td><td>122.67</td><td>56.77</td><td>2.16</td><td>0.97</td></tr><tr><td>胆碱</td><td></td><td>0.47</td><td>0.26</td><td>0.93</td><td>0.40</td><td>0.02</td><td>0.16</td></tr><tr><td>Choline/(mg/kg)</td><td>500</td><td>93.85</td><td>59.49</td><td>120.37</td><td>55.90</td><td>2.15</td><td>0.91</td></tr><tr><td></td><td>1000</td><td>94.05</td><td>60.45</td><td>121.90</td><td>56.76</td><td>2.15</td><td>0.98</td></tr><tr><td>裂殖壶菌油</td><td>0</td><td>94.34</td><td>60.02</td><td>120.83</td><td>56.49</td><td>2.14</td><td>0.85</td></tr><tr><td>Schizochytrium oil/%</td><td>0.5</td><td>93.55</td><td>59.94</td><td>121.44</td><td>56.17</td><td>2.16</td><td>1.05</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胆碱 Choline</td><td></td><td>0.84</td><td>0.08</td><td>0.44</td><td>0.31</td><td>0.96</td><td>0.94</td></tr><tr><td>裂殖壶菌油</td><td></td><td>0.43</td><td>0.91</td><td>0.76</td><td>0.70</td><td>0.65</td><td></td></tr><tr><td>Schizochytrium oil</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.82</td></tr><tr><td>胆碱×裂殖壶菌油</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0.89</td><td>0.64</td><td>0.64</td><td>0.69</td><td></td><td></td></tr><tr><td>CholinexSchizochytrium oil</td><td></td><td></td><td></td><td></td><td></td><td>0.96</td><td>0.88</td></tr></table></body></html>
+
+Means within the same column with different small letter superscripts mean significantly different $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2饲粮添加胆碱和裂殖壶菌油对蛋品质的影响
+
+由表5可知，饲粮添加胆碱和裂殖壶菌油对鸡蛋中浓蛋白高度及哈夫单位均无显著影响（ $. P { > } 0 . 0 5 \$ )。饲粮添加 $0 . 5 \%$ 裂殖壶菌油可一定程度上提高卵黄颜色，但差异不显著 $( P { > } 0 . 0 5 )$ 。饲粮添加胆碱和裂殖壶菌油对鸡蛋的卵黄比例无显著影响（ ${ \cdot } P { > } 0 . 0 5$ ）。综上，在本试验条件下，饲粮添加胆碱和裂殖壶菌油对鸡蛋内部品质无显著影响。
+
+# 表5饲粮添加胆碱和裂殖壶菌油对蛋品质的影响
+
+Table 5Effects of dietary choline and Schizochytrium oil on egg quality   
+
+<html><body><table><tr><td>项目</td><td>浓蛋白高度</td><td>哈夫单位</td><td>卵黄颜色</td><td>卵黄比例</td></tr><tr><td rowspan="4">Items</td><td>Thick</td><td>Haugh unit</td><td>Yolk color</td><td>Yolk percent/</td></tr><tr><td>albumen</td><td></td><td></td><td></td></tr><tr><td>height/mm</td><td></td><td></td><td></td></tr><tr><td>1 6.88</td><td>81.87</td><td>5.61</td><td>23.47</td></tr><tr><td>组别</td><td>2</td><td>6.91</td><td>82.17</td><td>5.67</td><td>23.63</td></tr><tr><td>Groups</td><td>3</td><td>7.22</td><td>83.04</td><td>5.72</td><td>23.82</td></tr><tr><td></td><td>4</td><td>7.06</td><td>83.32</td><td>5.72</td><td>23.80</td></tr><tr><td>SEM</td><td></td><td>0.11</td><td>0.72</td><td>0.09</td><td>0.22</td></tr><tr><td>胆碱</td><td>500</td><td>7.05</td><td>82.45</td><td>5.67</td><td>23.64</td></tr><tr><td>Choline/(mg/kg)</td><td>1000</td><td>6.98</td><td>82.75</td><td>5.69</td><td>23.72</td></tr><tr><td>裂殖壶菌油</td><td>0</td><td>6.89</td><td>82.02</td><td>5.64</td><td>23.55</td></tr><tr><td>Schizochytrium oil/%</td><td>0.5</td><td>7.14</td><td>83.18</td><td>5.72</td><td>23.81</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胆碱 Choline</td><td></td><td>0.78</td><td>0.85</td><td>0.89</td><td>0.88</td></tr><tr><td>裂殖壶菌油 Schizochytrium oil</td><td></td><td>0.30</td><td>0.45</td><td>0.68</td><td>0.57</td></tr><tr><td colspan="2">胆碱x裂殖壶菌油</td><td>0.69</td><td>0.99</td><td>0.89</td><td>0.85</td></tr></table></body></html>
+
+2.3饲粮添加胆碱和裂殖壶菌油对卵黄脂质组成的影响
+
+由表6可知，饲粮添加胆碱和裂殖壶菌油对鸡蛋卵黄中干物质、粗脂肪、胆固醇及甘油三酯含量均无显著影响（ $. P { > } 0 . 0 5$ ）。饲粮添加 $0 . 5 \%$ 裂殖壶菌油具有提高卵黄干物质含量的趋势（ $\scriptstyle P = 0 . 0 8$ ）。饲粮添加 $0 . 5 \%$ 裂殖壶菌油组的卵黄中粗脂肪和甘油三酯含量升高、胆固醇含量降低，但差异均不显著（ $P { > } 0 . 0 5$ ）；相对于饲粮中添加 $5 0 0 \mathrm { m g / k g }$ 胆碱，饲粮中添加$\boldsymbol { 1 } 0 0 0 \mathrm { m g / k g }$ 胆碱可显著提高卵黄中的总磷脂含量 ( $. P { < } 0 . 0 5 \$ ）；2与4组中卵黄总磷脂含量显著高于1组和3组（ $P { < } 0 . 0 5$ ）。综上，产蛋鸡饲粮中添加 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 胆碱可显著提高卵黄中总磷脂含量。
+
+表6饲粮添加胆碱和裂殖壶菌油对卵黄脂质组成的影响 (干物质基础)
+
+Table 6Effects of dietary choline and Schizochytrium oil on lipid composition in yolk (DM   
+
+<html><body><table><tr><td>basis)</td></tr><tr><td>项目</td><td>干物质</td><td>粗脂肪</td><td>胆固醇</td><td>甘油三酯</td><td>总磷脂</td></tr><tr><td>Items</td><td></td><td>Dry</td><td>Crude fat /</td><td>Cholesterol/</td><td>Triglyceride Phospholipid</td></tr><tr><td></td><td>matter/%</td><td>（mg/g）</td><td>（mg/g）</td><td>/ (mg/g)</td><td>/(mg/g)</td></tr><tr><td>1</td><td>48.57</td><td>640.10</td><td>41.32</td><td>418.98</td><td>202.90b</td></tr><tr><td>组别</td><td>2</td><td>48.67 643.10</td><td>41.61</td><td>410.18</td><td>217.14a</td></tr><tr><td>Groups</td><td>3</td><td>48.93</td><td>651.07 40.97</td><td>417.51</td><td>206.56b</td></tr><tr><td></td><td>4</td><td>49.16</td><td>653.10 40.75</td><td>415.51</td><td>219.05a</td></tr><tr><td>SEM</td><td></td><td>0.12</td><td>3.50</td><td>0.49 3.23</td><td>2.68</td></tr><tr><td>胆碱</td><td>500</td><td>48.75</td><td>645.58</td><td>41.15 418.25</td><td>204.73b</td></tr><tr><td>Choline/(mg/kg) 裂殖壶菌油</td><td>1000</td><td>48.92</td><td>648.10 41.18</td><td>412.85</td><td>218.10a</td></tr><tr><td></td><td>0</td><td>48.62</td><td>641.60 41.47</td><td>414.58</td><td>210.24</td></tr><tr><td>Schizochytrium oil/% P值P-value</td><td>0.5</td><td>49.05</td><td>652.08 40.86</td><td>416.51</td><td>212.81</td></tr><tr><td colspan="8">胆碱 Choline</td></tr><tr><td>裂殖壶菌油 Schizochytrium oil</td><td></td><td>0.49 0.08</td><td>0.73 0.16</td><td>0.97 0.56</td><td>0.43 0.78</td><td>0.01 0.57</td></tr><tr><td>胆碱x裂殖壶菌油</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="8">0.79 0.95 CholinexSchizochytrium oil</td></tr><tr><td colspan="8"></td></tr></table></body></html>
+
+)以卵黄中干物质计算 Calculated by dry matter in yolk。
+
+2.4饲粮添加胆碱和裂殖壶菌油对卵黄脂肪酸组成的影响
+
+由表7可知，饲粮添加胆碱和裂殖壶菌油对卵黄中饱和脂肪酸和PUFA含量无显著影响（ $P { > } 0 . 0 5$ ）；饲粮胆碱水平显著影响卵黄中n-3 PUFA、DHA含量和n-6PUFA/n-3 PUFA 值（ $P { < } 0 . 0 5$ ），与添加 $5 0 0 ~ \mathrm { m g / k g }$ 胆碱组相比， $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 胆碱组的n-3PUFA 和DHA含量显著提高 ( $. P { < } 0 . 0 5 \ '$ ），n-6PUFA/n-3PUFA值显著降低（ $. P { < } 0 . 0 5$ ）；饲粮裂殖壶菌油水平显著影响卵黄中 $\mathbf { n } { - } 3$ PUFA、 $\mathtt { n } { - } 6$ PUFA、DHA 含量和 n-6 PUFA/n-3 PUFA值（ $. P { < } 0 . 0 5 \$ ），与未添加裂殖壶菌油组相比， $0 . 5 \%$ 裂殖壶菌油可显著提高卵黄 $\mathtt { n } { - } 3$ PUFA和DHA含量 $( P { < } 0 . 0 5 )$ ，显著降低 $\mathrm { n } { - } 6$ PUFA 含量和n-6PUFA/n-3 PUFA值（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。对于卵黄中 $\mathbf { n } { - } 3$ PUFA、n-6PUFA、DHA 含量和 n-6 PUFA/n-3PUFA 值而言，胆碱和裂殖壶菌油具显著交互作用（ $P { < } 0 . 0 5$ ）。4组卵黄中n-3PUFA和DHA含量均显著高于其他组（ $P { < } 0 . 0 5 \$ ）；与3组相比，4组卵黄中 $\mathtt { n } { - } 3$ PUFA和DHA含量分别提高了 $1 5 . 2 0 \%$ 和 $1 4 . 5 8 \%$ ( $_ { \cdot \cdot P < 0 . 0 5 }$ ）。综上，饲粮中添加 $0 . 5 \%$ 裂殖壶菌油可显著增加卵黄中n-3PUFA 和DHA含量，显著降低n-6PUFA含量和 n-6 PUFA/n-3 PUFA 值；在添加 $0 . 5 \%$ 裂殖壶菌油的同时添加 $1 0 0 0 \mathrm { m g / k g }$ 胆碱可促进卵黄中 DHA 的沉积。
+
+# 表7饲粮添加胆碱和裂殖壶菌油对卵黄脂肪酸组成的影响(干物质基础)
+
+Table 7Effects of dietary choline and Schizochytrium oil on yolk fatty acid composition（DM   
+
+<html><body><table><tr><td colspan="7">basis)</td></tr><tr><td>项目</td><td></td><td>饱和脂</td><td>多不饱和脂 n-3多不饱和</td><td>n-6多不</td><td>n-6 多不饱和</td><td>二十二</td></tr><tr><td>Items</td><td></td><td>肪酸</td><td>肪酸</td><td>脂肪酸n-3 饱和脂</td><td>脂肪那个酸</td><td>碳六烯</td></tr><tr><td rowspan="4"></td><td>SFA</td><td>PUFA/(mg/g)</td><td>PUFA/(mg/g)</td><td>肪酸</td><td>/n-3多不饱</td><td>酸</td></tr><tr><td>/(mg/g)</td><td></td><td></td><td>n-6</td><td>和脂肪酸</td><td>DHA</td></tr><tr><td></td><td></td><td></td><td>PUFA</td><td>n-6 PUFA/n-3</td><td>/(mg/g)</td></tr><tr><td></td><td></td><td></td><td>/(mg/g)</td><td>PUFA</td><td></td></tr><tr><td>组别</td><td>1</td><td>213.34</td><td>120.90</td><td>9.41</td><td>111.49a</td><td>11.86a</td><td>5.65c</td></tr><tr><td></td><td>2</td><td>211.48</td><td>122.12</td><td>9.70c</td><td>112.42a</td><td>11.57a</td><td>6.06c</td></tr><tr><td>Groups</td><td>3</td><td>208.56</td><td>121.78</td><td>22.90b</td><td>98.71b</td><td>4.28b</td><td>19.89b</td></tr><tr><td></td><td>4</td><td>214.87</td><td>123.15</td><td>26.38a</td><td>96.78c</td><td>3.68c</td><td>22.79a</td></tr><tr><td>SEM</td><td></td><td>1.64</td><td>1.07</td><td>1.60</td><td>1.79</td><td>0.81</td><td>1.63</td></tr><tr><td>胆 碱</td><td>500</td><td>210.95</td><td>121.34</td><td>16.15b</td><td>105.10</td><td>8.07a</td><td>12.77b</td></tr><tr><td>Choline/(mg/kg)</td><td>1000</td><td>213.18</td><td>122.64</td><td>18.04a</td><td>104.60</td><td>7.63b</td><td>14.42a</td></tr><tr><td>裂殖壶菌油</td><td>0</td><td>212.41</td><td>121.51</td><td>9.55b</td><td>111.96a</td><td>11.72a</td><td>5.85b</td></tr><tr><td>Schizochytrium</td><td>0.5</td><td>211.71</td><td>122.47</td><td>24.64a</td><td>97.75b</td><td>3.98b</td><td>21.34a</td></tr></table></body></html>
+
+oil/%
+
+<html><body><table><tr><td colspan="7">P值P-value</td></tr><tr><td>胆碱Choline</td><td>0.51</td><td>0.57</td><td><0.001</td><td>0.82</td><td>0.002</td><td><0.001</td></tr><tr><td colspan="7"></td></tr><tr><td>裂殖壶菌油</td><td>0.84</td><td>0.68</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>Schizochytrium oil</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胆碱x裂殖壶菌油</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0.97</td><td><0.001</td><td>0.01</td><td>0.01</td><td></td></tr><tr><td></td><td>0.24</td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td></td><td>CholinexSchizochytrium oil</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮添加胆碱和裂殖壶菌油对高峰期产蛋鸡生产性能和蛋品质的影响
+
+研究表明，蛋鸡饲粮中添加 $1 0 0 0 \mathrm { m g / k g }$ 胆碱对产蛋率、平均日采食量、平均蛋重及料蛋比均无显著影响[11]。此外，饲粮中添加 $2 \%$ 裂殖壶菌粉（DHA 提供量略高于 $0 . 5 \%$ 裂殖壶菌油）对蛋鸡生产性能亦无显著影响[5]，与本试验结果相似。在本试验中，各组间浓蛋白高度、哈夫单位、卵黄颜色及卵黄比例均无显著差异，这些结果与饲粮中分别添加胆碱或裂殖壶菌油的蛋品质结果相似[11-12]，表明在本试验中添加的胆碱和裂殖壶菌油的水平，对高峰期产蛋鸡的蛋品质无显著影响。
+
+# 3.2饲粮添加胆碱和裂殖壶菌油对鸡蛋卵黄中磷脂含量的影响
+
+本试验结果显示，产蛋鸡饲粮添加 $1 0 0 0 \mathrm { m g / k g }$ 胆碱，可使卵黄中磷脂含量显著提高，这一结果与前人试验结果[8相似。一方面，胆碱在机体内会通过胞苷二磷酸胆碱途径合成磷脂酰胆碱（PC），PC 会经血液转运富集在卵黄中，而PC 是卵黄磷脂的重要组成部分（占卵黄磷脂的 $78 \% [ 1 3 ]$ )，所以饲粮中添加胆碱会促进卵黄中PC含量增加进而提高总磷脂含量。另一方面，胆碱还会通过甲基转移的途径参与磷脂酰乙醇胺（PE）的合成[14]，PE同样是卵磷脂的重要组成成分之一（占总磷脂的 $1 8 \%$ ）[13]，,PE 含量增高也能使卵黄磷脂的含量增加。在本试验中，产蛋鸡饲粮添加裂殖壶菌油可略降低卵黄中胆固醇含量，但差异不显著，这与前人的n-3PUFA可降低卵黄胆固醇的结果有所不同，这是由于裂殖壶菌油中的n-3 PUFA主要是DHA，而n-3 PUFA中的 $\mathfrak { a }$ -亚麻酸（ALA）和二十碳五烯酸（EPA）是发挥降低卵黄胆固醇作用的主要脂肪酸[15]，这也很好地解释了本试验中卵黄胆固醇未显著降低的原因。此外，本试验中也同样未发现卵黄磷脂和脂肪酸含量变化与卵黄甘油三酯含量之间的相关性[16]。
+
+3.3饲粮添加胆碱和裂殖壶菌油对鸡蛋卵黄脂肪酸组成的影响
+
+对比饲粮脂肪酸组成（表3）与卵黄脂肪酸组成（表7），可以看到饲粮与卵黄PUFA、n-3 PUFA、DHA 和n-6PUFA几种主要脂肪酸组成呈现出相似的特点，表明鸡蛋卵黄脂肪酸组成与饲粮脂肪酸组成密切相关[12]。添加裂殖壶菌油饲粮中DHA含量是未添加组的15 倍，而卵黄DHA 含量仅是未添加组的 3.6 倍。该结果与前人研究相似，也表示 DHA 在卵黄中的富集率还有可提升空间[5]。
+
+通过比较饲粮和卵黄中脂肪酸组成，我们还注意到饲粮中DHA含量相近的2组，添加$1 0 0 0 \ \mathrm { m g / k g }$ 胆碱仍可显著提高卵黄中DHA含量；与1组和3 组相比，2 组和4组中卵黄DHA含量分别提高了 $7 . 2 6 \%$ 和 $1 4 . 5 8 \%$ ，这是前人研究胆碱对卵黄脂质影响时，并未关注的一点[8.1。也是在本试验中首次得到证实：产蛋鸡饲粮中胆碱和裂殖壶菌油联合添加可促进鸡蛋卵黄中DHA沉积。该结果的出现可能与DHA在饲粮和卵黄中的存在形式相关。饲粮裂殖壶菌油中DHA主要为甘油三酯型 DHA（DHA-TG，产品实测），而卵黄中富集的 DHA则主要以卵磷脂型DHA（DHA-PC）的形式存在于卵磷脂中[17]。通常情况下，卵磷脂中 PC的脂肪酸组成为C16:0（ $3 3 . 1 \%$ ）、C18:0（ $1 1 . 3 \%$ ）、C18:1（ $3 2 . 2 \%$ ）和C18:2 （ $9 . 2 \%$ ）[18-19],这表明 DHA 在蛋鸡体内并非单纯以 DHA-TG 的形式转运，而是经一系列的脂质反应后以DHA-PC 的形式富集到卵黄中的。目前，在体外通过酶促反应可以将n-3PUFA 结合到 PC上[19-21]。推测在蛋鸡体内 DHA-TG 转化为 DHA-PC 的途径可能与之相似。其一，DHA-TG经甘油三酯脂肪酶与激素敏感性脂肪酶水解作用下产生游离 DHA，游离的 DHA 可以同溶血卵磷脂（LPC，由磷脂酶催化使PC 脱去一个脂肪酸形成）发生再酯化形成DHA-PC[19]；其二，DHA-TG 在甘油三酯脂肪酶的水解作用下，裂解为含有DHA 的甘油二酯，并在特异性磷脂酶的催化作用下与PC直接发生酯交换反应,进而形成DHA-PC[22]。而胆碱促进DHA-PC增加的原因可能与第2 种合成方式有关。肝脏作为禽类脂代谢的主要场所[23]，其中不仅会发生胆汁酸和脂肪酶水解 DHA-TG 的反应；胆碱也在肝脏中经磷酸化转化为胞苷二磷酸胆碱，在肝脏中磷酸胆碱二胞苷酰转移酶催化下，胞苷二磷酸胆碱会与甘油二酯结合形成大量的 PC，当这些被结合的甘油二脂中含有 DHA 时形成便是DHA-PC[24]。所以增加饲粮胆碱便相当于间接增加肝脏中用于合成DHA-PC 磷脂底物，进而促使了更多的DHA-PC 合成。
+
+DHA-PC从在肝脏中合成到富集于卵黄中还需要一系列的转运过程，通常肝脏中DHA-PC、甘油三酯、固醇会与载脂蛋白B100（Apo-B100）形成极低密度脂蛋白（very lowdensity lipoprotein，VLDL）在载脂蛋白－极低密度脂蛋白-II（Apo-VLDL-II）保护作用下，经血液循环并定向转运到卵母细胞中。由于卵泡的基底膜和透明带特点，只有直径在25\~40 nmVLDL才能与细胞膜表面的特异性受体结合，完成胞吞进入卵母细胞中沉积[20.25]。
+
+这可能与DHA-PC 通过血脑屏障的沉积在大脑中的方式有相似之处[26]，而很多特异性脂肪酸具有调节机体内脂类代谢和转运过程的生理功能[27]，所以在这个过程中 DHA-PC 也许不仅是参与VLDL合成的外层结构。此外，DHA结合到PC 的途径及转运DHA-PC 的载脂蛋白是否具有特异性结合还有待进一步研究。
+
+4结论本试验条件下：
+
+$\textcircled{1}$ 饲粮添加 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 胆碱可增加鸡蛋的卵黄磷脂含量，添加 $0 . 5 \%$ 裂殖壶菌油可提高卵黄中 DHA 含量;$\textcircled{2}$ $\textcircled { \scriptsize { 1 } } \ 1 \ 0 0 0 \ \mathrm { m g / k g }$ 胆碱和 $0 . 5 \%$ 裂殖壶菌油同时添加促进鸡蛋卵黄中DHA的沉积，且对产蛋鸡的生产性能、蛋品质均无显著影响。
+
+参考文献:
+
+[1]SMUTS C M,BOROD E,PEEPLES J M,et al.High-DHA eggs:feasibility as a means to enhance circulating DHA in mother and infant[J].Lipids,2003,38(4):407-414.
+
+[2]PARK J H,UPADHAYA S D,KIM I H.Effect of dietary marine microalgae (Schizochytrium) powder on egg production,blood lipid profiles,egg quality,and faty acid composition of egg yolk in layers[J].Asian-Australasian Journal of Animal Sciences,2015,28(3):391-397.
+
+[3]KOPPENOL A,DELEZIE E,AERTS J,et al.Effect of the ratio of dietary n-3 fatty acids eicosapentaenoic acid and docosahexaenoic acid on broiler breeder performance,egg quality,andyolkfattyacidcompositionatdifferentbreederages[J].Poultry Science,2014,93(3):564-573.
+
+[4]LEMAHIEU C,BRUNEEL C,TERMOTE-VERHALLE R,et al.Dynamics of omega-3 long chain polyunsaturated fatty acid incorporation in egg yolk by autotrophic microalgal supplementation[J].European Journal of Lipid Science and Technol0gy,2015,117(9):1391-1397.
+
+[5] 陈秀丽,岳宏源,李连彬,等.裂殖壶菌粉对蛋鸡生产性能、蛋品质、血清生化指标和蛋黄二十二碳六烯酸含量的影响[J].动物营养学报,2014,26(3):701-709.
+
+[6] GLADKOWSKI W,KIELBOWICZ G,CHOJNACKA A,et al.Fatty acid composition of egg yolk phospholipid fractions following feed supplementation of Lohmann Brown hens with humic-fat preparations[J].Food Chemistry,2011,126(3):1013-1018.
+
+[7]马彦庆,陈斌斌,郑妍,等.固定化磷脂酶 A1 催化制备 DHA 型磷脂[J].中国粮油学报,2015,30(3):75-79.  
+[8]孙长春,武书庚,张海军,等.饲粮添加大豆磷脂对产蛋鸡生产性能和鸡蛋磷脂含量的影响[J].动物营养学报,2010,22(4):1046-1053.
+
+[9]FOLCH J,LEES M,SLOANE STANLEY G H.A simple method for the isolation and purificationoftotallipidesfromanimaltissues[J].TheJournalofBiological Chemistry,1957,226(1):497-509.
+
+[10] PALACIOS L E,WANG T.Egg-yolk lipid fractionation and lecithin characterization[J].Journal of the American Oil Chemists' Society,20o5,82(8):571-578.
+
+[11] ZHAI Q H,DONG X F,TONG J M,et al.Long-term effects of choline on productive performance and egg quality of brown-egg laying hens[J].Poultry Science,2013,92(7):1824-1829.
+
+[12] LEMAHIEU C,BRUNEEL C,TERMOTE-VERHALLE R,et al.Effect of different microalgal n-3 PUFA supplementation doses on yolk color and n-3 LC-PUFA enrichment in the egg[J].Algal Research,2014,6:119-123.
+
+[13] GUO Z,VIKBJERG A F,XU X B.Enzymatic modification of phospholipids for functional applications and human nutrition[J].Biotechnology Advances,20o5,23(3):203-259.
+
+[14] ZEISEL S H.Dietary choline:biochemistry,physiology,and pharmacology[J].Nutrition,1981,1(1):95-121.
+
+[15]李志琼.α-亚麻酸对产蛋鸡脂质代谢及蛋黄胆固醇沉积的影响及其机理[D].博士学位论文.雅安：四川农业大学，2007.
+
+[16] WEISS JF,JOHNSON R M,NABER E C.Effect of some dietary factors and drugs on cholesterol concentration inthe egg and plasma of the hen[J].The Journal of Nutrition,1967,91(1):119-128.
+
+[17]FIELD C J,CLANDININ M T.Modulation of adipose tissue fat composition by diet:a review[J].Nutrition Research,1984,4(4):743-755.
+
+[18] CHOJNACKA A,GLADKOWSKI W,KIELBOWICZ Get al.Enzymatic enrichment of egg-yolk phosphatidylcholine with $\mathfrak { a }$ -linolenic acid[J].Biotechnology Letters,2009,31(5):705-709.
+
+[19] HARALDSSON G G,THORARENSEN A.Preparation of phospholipids highly enriched with n-3 polyunsaturated fatty acids by lipase[J].Journal of the American Oil Chemists' Society,1999,76(10):1143-1149.
+
+[20] ADLERCREUTZ D,WEHTJE E.An enzymatic method for the synthesis of mixed-acid phosphatidylcholine[J].Journal of the American Oil Chemists’ Society,2004,81(6):553-557.
+
+[21] REDDY J R C,VIJEETA T,KARUNA M S L,et al.Lipase-catalyzed preparation of palmitic andstearic acid-rich phosphatidylcholine[J].Journal of the American Oil Chemists' Society,2005,82(10):727-730.
+
+[22] VIKBJERG A F,PENG L F,MU H L,et al.Continuous production of structured phospholipids in a packed bed reactor with lipase from Thermomyces lanuginosa[J].Journal of the American Oil Chemists' Society,2005,82(4):237-242.
+
+[23]陈伟,林映才,张罕星,等.家禽脂肪酸代谢及其在禽蛋中的沉积和营养调控[J].动物营养学报，2012,24(2):204-211.
+
+[24] VANCE D E,RIDGWAY N D.The methylation of phosphatidylethanolamine[J].Progress in Lipid Research,1988,27(1):61-79.
+
+[25] SCHNEIDER W J.Receptor-mediated mechanismsin ovarian follicle and oocyte development[J].General and Comparative Endocrinology,2009,163(1/2):18-23.
+
+[26] NGUYEN L N,MA D L,SHUI G H,et al.Mfsd2a is a transporter for the essential omega-3 fatty acid docosahexaenoic acid[J].Nature,2014,509(7501):503-506.
+
+[27] AYDIN R,COOK M E.The eect of dietary conjugated linoleic acid on egg yolk fatty acids and hatchability in Japanese quail[J].Poultry Science,20O4,83(12):2016-2022.
+
+Dietary Choline and Schizochytrium Oil Enhance Docosahexaenoic Acid Enrichment in Egg Yolk WANG Hao1.2WANG Xiaocui2\* ZHANG Haijun² QIGuanghai² WANG Jing² XU Li\*\* WU Shugeng2\*\*
+
+(1. Institute of Animal Nutrition,Northeast Agricultural University, Harbin 15oo30, China; 2. National Engineering Research Center of Biological Feed, Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Feed Research Institute, Chinese Academy of Agricultural Science, Beijing 100081, China)
+
+Abstract:The aim of this study was to evaluate the effects of dietary choline and Schizochytrium oil (SO) on lipid and docosahexaenoic acid (DHA） enrichment in egg yolk. Two hundred and eighty-eight 26-week-old Jinghong laying hens were randomly divided into 4 groups consisting of 6 replicates each and 12 birds in each replicate. Using a $2 { \times } 2$ factorial experimental design, four isonitrogenous and isocaloric diets were supplemented with $5 0 0 ~ \mathrm { m g / k g }$ choline, $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ （20 choline, $5 0 0 ~ \mathrm { m g / k g }$ choline $+ 0 . 5 \%$ SO and $1 \ 0 0 0 \ \mathrm { m g / k g }$ choline $+ 0 . 5 \%$ SO,respectively. The feeding trial lasted for 8 weeks after 1 week adaption. The results showed as follows: 1) performance and egg quality in all groups were not significantly different $( P { > } 0 . 0 5 )$ .2)The contents of dry matter, ether extract, cholesterol and triglycerides in yolk of different groups were not significantly different $( P { > } 0 . 0 5 )$ . The total phospholipid content in yolk of $1 0 0 0 \mathrm { m g / k g }$ choline group was significantly increased compared with $5 0 0 \ \mathrm { \ m g / k g }$ choline group $( P { < } 0 . 0 5 )$ .The interaction of choline and SO showed significant on the yolk total phospholipid content $( P { = } 0 . 0 4 )$ The total phospholipid content in yolk of $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ choline $+ 0 . 5 \%$ SO group was the highest among all groups. 3） Dietary $0 . 5 \%$ SO significantly increased contents of n-3 polyunsaturated fatty acids (PUFA) and DHA,and significantly decreased n-6 PUFA content and the ratio of n-6 PUFA to n-3 PUFA $( P { < } 0 . 0 5 )$ ）in yolk. The interactions of choline and SO were significant on contents of n-3 PUFA( ${ \it P } { < } 0 . 0 0 1 { \it \Omega }$ ), n-6PUFA $scriptstyle \overbrace { P = 0 . 0 1 }$ ）andDHA $( P { < } 0 . 0 0 1 )$ as well as the ratio of n-6 PUFA to n-3 PUFA $( P { = } 0 . 0 1$ ） in yolk. The contents of n-3 PUFA and DHA were significantly higher, while n-6 PUFA content and the ratio of n-6 PUFA to n-3 PUFA were significantly lower in yolk of $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ choline $+ 0 . 5 \%$ SO group than those in the other groups $( P { < } 0 . 0 5 )$ . It is concluded that dietary $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ choline and $0 . 5 \%$ SO enhance the DHA enrichment in egg yolk and have no adverse eects on performance and egg quality under the experimental condition.
+
+Key words: choline; egg yolk; DHA; fatty acid; Schizochytrium oil

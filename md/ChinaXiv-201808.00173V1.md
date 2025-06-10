@@ -1,0 +1,70 @@
+# 题目：非洲猪瘟病毒基因组中DNA互补回文模式的分布特征研究
+
+作者：许肖枫①，陈泽①，罗建勋①，刘光远①，任巧云①，罗金⑩，殷宏①\*，高山②\*  
+$\textcircled{1}$ 中国农业科学院兰州兽医研究所家畜疫病病原生物学国家重点实验室，甘肃省动物寄生虫病重点实验室，江苏省动物重要疫病与人兽共患病防控协同创新中心，兰州730046;  
+$\textcircled{2}$ 南开大学生命科学学院，天津 300071;  
+\*联系人,E-mail: gao_shan $@$ mail.nankai.edu.cn; yinhong @ caas.cn
+
+资助项目：中央级公益性科研院所基本科研业务费
+
+摘要 受互补回文小RNA发现的启发，本研究从小RNA水平考虑DNA互补回文模式的生物学功能，并揭示了非洲猪瘟病毒基因组中较长（14 bp以上）DNA互补回文模式的分布特征．本研究中公开的非洲猪瘟病毒基因组中的DNA互补回文模式可以用于设计引物或探针，提高病毒检测的灵敏度和特异度；也可以直接用于设计小干扰RNA（smallinterfering RNA,siRNA）进行RNA干扰实验．这样，不需要病毒感染，更多的基础研究工作者可以使用这种间接方法研究非洲猪瘟病毒感染和致病机制．本研究提供的研究病毒基因组中DNA互补回文模式的思路和方法，可以推广到其他微生物或动植物基因功能或进化研究领域，具有重要的理论意义.
+
+# 关键词：非洲猪瘟病毒 回文小RNA 互补回文小RNA DNA互补回文模式 小干扰RNA (通常5\~8个)
+
+回文序列（palindromic sequence），也叫DNA回文模式（palindromic DNA motif）是一段倒置重复序列，其广泛存在于各种生物体基因组中．生物功能已知的DNA回文模式包括限制性酶切位点、甲基化位点和T细胞受体相关序列等[1]。经典的DNA回文模式要求DNA两条链从5到3方向的序列完全一致，不同于经典定义，本研究重新定义了DNA回文模式和DNA互补回文模式．受限制性酶切位点模式的启发，当前对DNA互补回文模式的研究主要集中于较短（一般不超过 $1 0 ~ \mathrm { b p }$ ）的模式；对于DNA回文模式的研究鲜有报道；而对于动植物基因组中大量存在的大片段DNA回文模式和DNA互补回文模式，其生物学功能依然处于未知状态．2018年，南开大学高山和中国农业科学院兰州兽医研究所陈泽等在国际上首次报道了SARS病毒（severe acute respiratory syndrome coronavirus,SARS-CoV）中存在互补回文小RNA（complemented palindromic smallRNA,cpsRNA）的现象；并通过进化与分子功能分析相结合的方法，初步证明了互补回文小RNA可能在SARS病毒感染或致病方面起作用[l.该研究首次从小RNA水平考虑DNA互补回文模式的生物学功能，并揭示了病毒基因组中较长（14bp以上）DNA互补回文模式的重要特征（见结果）．这些特征的分析为研究病毒感染和致病机制提供了新的思路和方法．非洲猪瘟病毒(African Swine Fever Virus,ASFV[2)于2018年在中国首次发现，由于它能导致一种急性发热、传染性高且致死率高达 $100 \%$ 的猪瘟[3]，其感染和致病机制的研究亟待开展。本研究应用我们前期工作[1中提出的思路和方法，对非洲猪瘟病毒基因组中DNA互补回文模式的特征进行了统计分析.并发现非洲猪瘟病毒基因组中DNA互补回文模式的基因组密度明显高于其他双链DNA病毒，一些DNA互补回文模式与此前发现的SARS病毒基因组中得到功能实验验证的DNA互补回文模式高度相似．这些发现为后续的非洲猪瘟病毒感染和致病机制研究提供了新的思路和方法.
+
+# 1方法与数据
+
+本研究中所用到的8种病毒（HPV-18、HBV、HCV、HIV-1、EBV、SMRV、SARS-CoV和ASFV）参考基因组序列（KU298886.1、JQ688404.1、D1168.1、KM390026.1、M80517.1、M23385.1、DQ497008.1 和 FN557520.1)来自 NCBI GenBank 数据库．人类基因GAPDH序列（ENSG0000111640.14）来自 Ensembl基因组数据库．非洲猪瘟病毒小 RNA 高通量测序数据(SRA:ERPO18944)来自 NCBI SRA 数据库．高通量测序数据质量控制等使用软件Fastq_clean $\mathbf { v } 2 . 0 ^ { [ 4 ] }$ ；测序数据比对到病毒参考基因组使用软件Bowtiev0.12.7；统计与作图使用软件 $\mathrm { ~ R ~ v 2 . 1 5 . 3 ^ { [ 5 ] } }$ 比对结果校对等使用软件 Tablet v1.15.09.01[.DNA 互补回文模式的二级结构的最小自由能（Minimum FreeEnergy,MFE）的计算使用在线服务RNAfold(htp://rma.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi),DNA互补回文模式的茎环结构的链内退火温度 $\mathrm { { T } _ { \mathrm { { m } } } }$ 的计算使用公式为 $4 ( \mathrm { G } + \mathrm { C } ) + 2 ( \mathrm { A } + \mathrm { T } )$ ．统计病毒基因组中DNA回文模式或 DNA互补回文模式数量时，要求茎部长度不小于 $7 ~ \mathrm { b p }$ ，环部长度为0-5 bp.DNA互补回文模式的基因组密度的计算公式为某个基因组中全部DNA互补回文模式的数量乘以1000 后再除以基因组长度。
+
+# 2结果
+
+我们重新定义了DNA回文模式和DNA互补回文模式，主要基于两点:1．前期研究暗示了两者具有不同的生物学意义；2.在动物病毒基因组中，两者分布具有不同的特征．DNA回文模式要求DNA两条链从5'到3'方向的序列互补配对（例如ATCGGCTA）；DNA互补回文模式与经典的DNA回文模式定义相同（例如ATCGCGAT）.2017年，南开大学卜文俊和高山等在国际上首次报道了人类线粒体基因组D-loop区转录的两条长非编码RNA(longnon-coding RNA,IncRNA)的全长序列和首个发现的回文小RNA(palindromic smallRNA,psRNA)，并推测小RNA长度的DNA回文模式可能与转录调控有关[7.2015年，南开大学高山等在使用小RNA高通量测序数据研究病毒特征序列过程中，无意中发现了一系列互补回文小RNA来自SARS病毒，这些序列是DNA互补回文模式TCTTTAACAAGCTTGTTAAAGA（见图1A）产生的；后期对互补回文小RNA SARS-CoV-cpsR-19（见图1A）的RNA干扰实验结果显示该小RNA可以引起显著性的细胞凋亡．由于自身具备的特殊序列模式，回文小RNA与互补回文小RNA被定义为一类新小RNA，但是两者没有生物学意义上的关联．由于DNA互补回文模式可能与病毒感染或致病有关，本研究仅考虑病毒基因组中的DNA互补回文模式，对于DNA回文模式不做更多讨论。
+
+![](images/f07a560d187fc6992003c22ffc024ae189e38e59dcd24dc34ec8a39ed96d11e8.jpg)  
+图1DNA互补回文模式与互补回文小RNA
+
+Figure 1 Complemented palindromic DNA motif and complemented palindromic small RNA
+
+A.SARS病毒(GenBank: DQ497008.1)中发现的互补回文小RNA，长度分别为18,19（命名为SARS-CoV-cpsR-19）和21 nt; B.DNA互补回文模式的重新定义，此序列来自表1第2条;C.SARS病毒(GenBank: DQ497008.1)中DNA互补回文模式（左）与非洲猪瘟病毒(GenBank:FN557520.1)中DNA互补回文模式（右），此序列来自表1第1条和第2条．用DNA互补回文模式计算得到的对应RNA的二级结构叫做该DNA互补回文模式的二级结构，这个二级结构不是这段DNA序列真实存在的二级结构，其计算得到的最小自由能等属性属于该DNA对应RNA的二级结构，因此序列中的T可以用U表示。
+
+当前对DNA互补回文模式的研究主要集中于较短（一般不超过10bp）的模式，而且只考虑严格定义（即模式中所有碱基都参与互补配对）的情况，因此存在很大的局限性。Chew等在国际上首次报道了SARS病毒基因组中DNA互补回文模式的规律[8]，其主要发现包括两点：1．在所有分析的冠状病毒基因组中，长度为4 bp的DNA互补回文模式出现频率显著较低；2.长度为6 bp的DNA互补回文模式仅在SARS病毒（而不是所有冠状病毒）基因组中频率显著较低．因此，该研究的结论是SARS病毒基因组含有较少的6 bp DNA互补回文模式有可能利于该病毒有效规避宿主细胞内的某些防御机制而有利于病毒存活；该研究同时还发现了两个较长（ $1 4 ~ \mathrm { b p }$ 以上）的DNA互补回文模式分别是TCTTTAACAAGCTTGTTAAAGA和TAAAATTAATTTTA。根据两个概率模型的计算结果，这两个DNA互补回文模式的出现不是偶然的．根据经典定义，Chew等仅仅在SARS病毒基因组中找到了两个较长的DNA互补回文模式；受互补回文小RNA发现的启发，我们将DNA互补回文模式的定义放宽要求，并在SARS病毒基因组中多找到了27个较长的DNA互补回文模式 [7]。
+
+参考RNA发卡结构（hairpin）的定义，将DNA回文模式和DNA互补回文模式从序列上分为组成回文或互补回文的茎（stem）和不参与组成的环（loop）两部分（见图1B）。我们同时定义，用DNA互补回文模式计算得到的对应RNA的二级结构（见方法与数据）叫做该DNA互补回文模式的二级结构，这个二级结构不是这段DNA序列真实存在的二级结构，其计算得到的最小自由能等属性属于该DNA对应RNA的二级结构。DNA回文模式和DNA互补回文模式中的茎环结构的定义是基于DNA序列的，与二级结构无关，DNA互补回文模式茎部的全部碱基在计算得到的二级结构中不一定参与碱基互补配对。DNA互补回文模式的二级结构的最小自由能的计算与对应RNA发卡结构的最小自由能的计算相同，都要考虑非经典配对GU（图形显示时可以表示为GU或GT）.DNA互补回文模式的茎环结构的链内退火温度的计算不考虑其对应的二级结构，而是使用公式 $4 ( \mathrm { G } { + } \mathrm { C } ) { + } 2 ( \mathrm { A } { + } \mathrm { T } )$ 计算一侧茎部内全部碱基（见表1）．
+
+放宽要求后，DNA互补回文模式的环部可以允许至多5个碱基存在（此参数仅适用于病毒基因组）。经过对8种哺乳动物病毒基因组的统计分析，我们发现哺乳动物病毒基因组中较长（ $1 4 ~ \mathrm { b p }$ 以上）的DNA互补回文模式具有三个非常典型的特征：1.DNA互补回文模式数量随长度显著递减，超过一定长度（ $( 3 1 ~ \mathrm { b p }$ ）的模式不出现，即截断效应；2.仅有极少量DNA互补回文模式可以从当前数据库中搜索到对应的互补回文小RNA，即DNA互补回文模式产生互补回文小RNA的概率很低（可能由于技术原因漏检).3．部分DNA互补回文模式在进化上高度保守，仅有少量转换发生，而且这些突变都不影响其二级结构的稳定性．为了比较不同病毒基因组中DNA互补回文模式的含量，我们定义了DNA互补回文模式的基因组密度（见方法与数据）。我们发现不同病毒基因组中DNA互补回文模式的基因组密度差异显著，同一种病毒不同亚型或株系之间的差异也很明显。HPV-18（双链DNA病毒）、HBV（双链DNA病毒）、HCV（正链RNA病毒）、HIV-1（正链RNA病毒）、EBV（双链DNA病毒）、SMRV（单链RNA病毒）、SARS-CoV（正链RNA病毒）和ASFV（双链DNA病毒）中DNA互补回文模式的基因组密度分别是 $0 . 6 4 ( 1 0 0 0 ^ { * } 5 / 7 8 5 7 )$ 、0.93(1000\*3/3215）、0.95(1000\*9/9436)、0.21(1000\*2/9709）、0.62(1000\*115/184113）、0.68(1000\*6/8785)、0.98(1000\*29/29727)和1.1( $1 0 0 0 ^ { * } 1 9 9 / 1 8 1 1 8 7 _ { \cdot }$ ).在正链RNA病毒中，HIV-1基因组中DNA互补回文模式的基因组密度明显低于其他几种病毒，而且还明显低于人类基因GAPDH中DNA互补回文模式的基因组密度0.45（ $1 0 0 0 ^ { * } 2 / 4 4 4 8 )$ ；而在双链DNA病毒中，DNA互补回文模式的基因组密度从HPV-18到HBV再到ASFV差异很大。非洲猪瘟病毒（ASFV）基因组中DNA互补回文模式的基因组密度高达1.1，其DNA互补回文模式数量达到199个，其中有16个（见表1）与此前发现的SARS病毒基因组中的DNA互补回文模式高度相似（见图1C）.
+
+表1非洲猪瘟病毒基因组中16个DNA互补回文模式  
+Figure 1 Selected complemented palindromic DNA motifs in the ASFV genome   
+
+<html><body><table><tr><td>Complemented palindromic DNA motif</td><td>Start</td><td>End</td><td>Length</td><td>Loop</td><td>GC %</td><td>Tm</td></tr><tr><td>TCTTTAACAAGCTTGTTAAAGA*</td><td>25962</td><td>25983</td><td>22</td><td>0</td><td>27.27</td><td>20</td></tr><tr><td>ATGTTATAACCATGTTATAACAT</td><td>18864</td><td>18886</td><td>23</td><td>3</td><td>21.74</td><td>24</td></tr><tr><td>TTATGACAAAACATGTCATAA</td><td>26019</td><td>26039</td><td>21</td><td>5</td><td>23.81</td><td>20</td></tr><tr><td>TTGTATACAAAGGTATACAA</td><td>43837</td><td>43856</td><td>20</td><td>4</td><td>25</td><td>20</td></tr><tr><td>TATCACAATTGCGATACAATTGTGATA</td><td>47875</td><td>47901</td><td>27</td><td>5</td><td>29.63</td><td>28</td></tr><tr><td>ACAATTGTGATACAATTGT</td><td>47890</td><td>47908</td><td>19</td><td>3</td><td>26.32</td><td>20</td></tr><tr><td>ACAATTGTGATACAATTGT</td><td>47901</td><td>47919</td><td>19</td><td>3</td><td>26.32</td><td>20</td></tr><tr><td>AAAACTTTTCGAGAAAAGTTTT</td><td>57175</td><td>57196</td><td>22</td><td>2</td><td>22.73</td><td>24</td></tr><tr><td>CATATCTAATAGTAGATATG</td><td>59625</td><td>59644</td><td>20</td><td>4</td><td>25</td><td>20</td></tr><tr><td>TTGCAAACAAATATTTGTTTGCAA</td><td>65604</td><td>65627</td><td>24</td><td>0</td><td>25</td><td>30</td></tr><tr><td>TATTACGGTCTTTTACCGTAATA</td><td>77602</td><td>77624</td><td>23</td><td>5</td><td>30.43</td><td>24</td></tr><tr><td>TAAACGTTTAAACTAAACGTTTA</td><td>81734</td><td>81756</td><td>23</td><td>3</td><td>21.74</td><td>24</td></tr></table></body></html>
+
+<html><body><table><tr><td>GTTTAAACTAAACGTTTAAAC</td><td>81739</td><td>81759</td><td>21</td><td>5</td><td>23.81</td><td>20</td></tr><tr><td>CTCTTTTTTGGAAAAAAAAGAG</td><td>140565</td><td>140586</td><td>22</td><td>4</td><td>27.27</td><td>22</td></tr><tr><td>TTTGAAATCAGCGATTTCAAA</td><td>141328</td><td>141348</td><td>21</td><td>3</td><td>28.57</td><td>22</td></tr><tr><td>TTTTCCAAAATGTTTGGAAAA</td><td>172636</td><td>172656</td><td>21</td><td>3</td><td>23.81</td><td>22</td></tr><tr><td>TGTTGTTACAAACAACA</td><td>178692</td><td>178708</td><td>17</td><td>3</td><td>29.41</td><td>18</td></tr></table></body></html>
+
+\*表示的DNA互补回文模式来自SARS病毒基因组(GenBank: DQ497008.1)，其编码的首个互补回文小RNA SARS-CoV-cpsR-19能引起显著的细胞凋亡[Il.猪瘟病毒基因组(GenBank:FN557520.1)中16个DNA互补回文模式与SARS-CoV-cpsR-19各种属性相似， $\mathrm { { T _ { m } } }$ 表示DNA互补回文模式的茎环结构的链内退火温度,MFE表示DNA互补回文模式的二级结构的最小自由能.
+
+对于病毒基因组中DNA互补回文模式的统计分析，我们重点考察长度、GC含量、链内退火温度和最小自由能四个属性的分布特征.三种病毒（EBV、SARS-CoV和ASFV）基因组中DNA互补回文模式的长度分布总体上满足长度显著递减，超过一定长度（31bp）的模式不出现（见图1A）.SARS-CoV在17bp互补回文模式上出现最大值；EBV在19 bp和23bp互补回文模式上出现两个反常的升高，根据这两个反常我们发现了EBV编码的一个微小RNA（microRNA,miRNA）[9].三种病毒中DNA互补回文模式的GC含量分布代表了三个类型（见图1B），分别是偏高（EBV），中等（SARS-CoV）和偏低（ASFV）。三种病毒中DNA互补回文模式的链内退火温度分布总体上集中在18和20度（见图1BC），ASFV在14和16度有反常，EBV在24和30度有反常.20度正好是小RNA建库的温度，在这个温度建库，接头很可能因为互补回文小RNA的二级结构而没有连接成功，因此导致大量的互补回文小RNA在小RNA高通量测序中被漏检。三种病毒中DNA互补回文模式的最小自由能分布代表了三个类型，分别是偏高（ASFV），中等（SARS-CoV）和偏低（EBV）。这些分布特征反映了病毒的一些内在特性，对于病毒序列分析具有非常重要的意义.
+
+![](images/8507d34f61c8cf59fb849a5ab05a25581a43cb4f90ecb33100ef22da18648237.jpg)  
+图2DNA互补回文模式的分布特征
+
+Figure 2 Distributive characteristics of complemented palindromic DNA motifsA．三种病毒基因组中DNA互补回文模式的长度分布.B.三种病毒基因组中DNA互补回文模式的GC含量分布.C.三种病毒基因组中DNA互补回文模式的链内退火温度分布.
+
+# 3讨论和结论
+
+本研究从小RNA水平考虑DNA互补回文模式的生物学功能，并揭示了非洲猪瘟病毒基因组中较长（14 bp以上）DNA互补回文模式的重要特征．尽管从当前的NCBI SRA数据库中仅有的一组小RNA高通量测序数据(SRA:ERP018944）中没有搜索到来自非洲猪瘟病毒基因组中的DNA互补回文模式区域的互补回文小RNA，但是我们的分析结果依然支持这些模式与非洲猪瘟病毒感染和致病机制相关。本研究的意义包括：提供了一种方法研究病毒基因组中的DNA互补回文模式；可以根据DNA互补回文模式的保守性设计引物或探针，提高病毒检测的灵敏度和特异度；特别是，本研究公开的DNA互补回文模式可以直接用于设计小干扰RNA（smallinterfering RNA,siRNA）进行RNA干扰实验．这样，不需要病毒感染，更多的基础研究工作者可以使用这种间接方法研究非洲猪瘟病毒感染和致病机制.
+
+作为双链DNA病毒的非洲猪瘟病毒和作为正链RNA病毒的SARS病毒都具有典型的DNA互补回文模式的统计性特征，但是非洲猪瘟病毒能否产生互补回文小RNA，这些小RNA的产生机制以及是否具有生物学功能等这些问题还有待继续研究。根据当前研究经验，作为正链RNA病毒的SARS病毒很可能在形成RNA双链过程中被宿主体内防御机制（例如RNA）切割而产生互补回文小RNA，作为双链DNA病毒的非洲猪瘟病毒转录的RNA也可以在内部形成双链部分，但是能否在单链内切割产生互补回文小RNA依然未知．互补回文小RNA产生后，由于其独特的茎环结构，是否能够继续被切割而产生更小（7\~13）片段的小RNA以及是否具有生物学功能也是一个重要的研究方向。我们推测，很可能存在这些更小的小RNA参与反转录的引发或宿主基因的转录调控.
+
+致谢：感谢南开大学生命科学学院卜文俊教授、南开大学数学科学学院阮吉寿教授和南开大学医学院刘畅老师对本研究工作的长期支持，感谢南开大学生命科学学院硕士研究生牛晓冉、姬海硕和金秀峰参与部分工作。
+
+# 参考文献
+
+1 LiuC,ZeChen,HuY，Ji HS，YuDS，Shen WY，Li SY，Ruan JS，BuWJ;Gao，S(2018）Complemented palindromic small RNAs first discovered from SARS Coronavirus. Genes :in press 2Montgomery RE (1921)Ona formof swine fever ocurring in British East Africa (Kenya Colony)．Journal of comparative pathology and therapeutics 34:159-191   
+3 Galindo I，Alonso C (20l7) African swine fever virus:a review. Viruses 9(5):103   
+4Zhang M,SunH,Fei Z,ZhanF,Gong X,GaoSFastq_clean:An optimized pipeline to clean theIllumina sequencing data with quality control.In: Bioinformatics and Biomedicine (BIBM)，2014 IEEE International Conference on, 2014．IEEE，pp 44-48   
+5Gao S,OuJ,Xiao K (2014)Rlanguageand Bioconductor in bioinformatics applications(Chinese Edition)．Tianjin Science and Technology Translation and Publishing Co.，Tianjin   
+6MilneI，Stephen G,Bayer M,Cock PJ,PritchardL,Cardle L，Shaw PD,Marshall D(2012)Using Tablet for visual exploration of second-generation sequencing data. Brief Bioinform:bbs012.   
+7Shan G，TianX，SunY，Wu Z，Cheng Z，DongP，ZhaoQ，HeB,RuanJ，Bu W（2017） Two novellncRNAs discovered in human mitochondrial DNA using PacBio full-length transcriptome data. Mitochondrion 38:41-47.   
+8Chew,DSH;Choi,KP;Heidner,H;Leung,MY(2004)Palindromes in SARS andother coronaviruses.Informs J.Comput. 16:331- 340.   
+9WangF;Sun Y;Ruan JS；ChenR；Chen X;ChenCJ; Kreuze JF;Fei ZJ;Zhu X;Gao S(2016) Using small RNA deep sequencing to detect human viruses.BioMed Res.Int. 2016，2016，2596782.

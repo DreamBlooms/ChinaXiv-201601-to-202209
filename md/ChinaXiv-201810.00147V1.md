@@ -1,0 +1,200 @@
+# 中国北方风蚀区风速变化时空特征分析
+
+韩柳，王静璞，王光镇，王周龙，吴孟泉（鲁东大学资源与环境工程学院,山东烟台264025)
+
+摘要：利用北方风蚀区155个气象站点1971—2015年平均风速数据，采用气候趋势分析、空间插值和小波分析等方法分析北方风蚀区平均风速的时空变化趋势。结果表明：近45a来，北方风蚀区年平均风速为 $2 . 7 0 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,呈明显减小趋势,其递减速率为 $0 . 0 1 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ （ $\alpha = 0 . 0 0 1 { \mathrm { ~ ; } }$ ，1980s风速减小最快,1990s减小最缓慢,2010s风速出现增大趋势;我国北方风蚀区四季的平均风速均呈现下降趋势，下降速度春季 $>$ 夏季 $>$ 秋季 $>$ 冬季( $\alpha = 0 . 0 0 1$ )，不同年代不同季节风速变化存在较大差异,2010s除春季外其他季节风速均呈现增大趋势；空间分布上显示，风速变化幅度空间分布差异明显，北方风蚀区内的新疆西北部和东南部、青海、内蒙古中部和东北部、黑龙江以及吉林为风速降低较快的区域，甘肃东南部、宁夏、陕西和山西北部以及新疆的东北部和西部等地区是风速降低不明显的区域。春季和夏季风速降低较快的区域面积扩大，冬季和秋季风速降低较缓的区域扩大；平均风速存在多时间尺度的周期性结构特征， $2 8 \mathrm { ~ a ~ }$ 时间尺度左右为风速变化的主周期，平均变化周期为 $1 8 \mathrm { ~ a ~ }$ 。
+
+关键词：风速变化；小波分析；北方风蚀区中图分类号：P425 文献标识码：A 文章编号：
+
+在全球气候变化背景下，人类对气象要素的研究越来越多。除了气温、降水、日照、相对湿度等气象要素外，风对生态系统和水文循环起着重要的作用[1]。风速广泛应用于诸多领域,例如气候变化研究、沙尘暴预测、风蚀强度评估、大气污染评价等[2],其中风速是土壤风力侵蚀的重要影响因子,土壤中的颗粒物质在风速超过某一临界值时才有可能搬运至空中，因此在地表土壤性质状况不变的情况下，超过临界值风速的大风日次越多，风对土壤表面的侵蚀就会越严重[3]
+
+近年来，国内外学者针对近地面风速的变化趋势开展了广泛研究，研究结果表明全球中纬度大部分地区风速呈下降趋势。赵宗慈等人认为在全球气候变化的背景下，我国平均风速呈现减小趋势，其原因可能是大气环流的改变[4]。MCVICART $\mathrm { R } ^ { [ 5 ] }$ 等学者从全球范围的角度对欧洲、中国[6]、美国[]和澳大利亚等中纬度地区的研究，发现在过去的 $3 0 \sim$ 50a 间风速以 $( \mathbf { \Omega } - 0 . 0 0 4 \sim \mathbf { \Omega } - 0 . 0 1 7 ) \mathbf { m } \cdot \mathbf { s } ^ { - 1 } \cdot \mathbf { { \Omega } } \mathbf { a } ^ { - 1 }$ 速度下降;王鹏祥等人在近半个世纪来中国西北地面气候变化基本特征研究中发现西北地区绝大部分地区地面风速表现为显著的减少趋势，从1986年开始这种减少趋势更为显著，减少突变发生在1990年[8]；张志斌等人对我国西南地区风速变化研究表明,该地区年均风速显著降低，并且季节、非季风与季风期风速变化趋势与年均风速相似[9];蒋冲等人研究发现，秦岭南北整体以及秦岭以南和以北两个子区年平均风速呈现统一的显著下降趋势[10];张克新等人对河西地区平均风速研究发现，河西地区年均风速以 $0 . 1 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 速度下降,四季平均风速也呈现减少趋势并且减少趋势一致[11]
+
+我国北方风蚀区幅员辽阔，前人对其中的很多区域做过气象要素的研究，但缺乏从整个北方风蚀区这个空间尺度的研究，而不同的空间尺度可能会存在较大差异，因此本研究选用了北方风蚀区155个气象站最新 $4 5 \mathrm { ~ a ~ }$ 风速数据来分析风速变化的时空特征,包括年均风速变化特征、四季风速变化特征、风速变化幅度的空间差异以及风速的周期性研究,从而提高我们对气候变化的认识[12],以期更好地认识该区风蚀因子的变化，为预测今后北方风蚀区风速变化趋势奠定基础，对于防灾减灾、改善北方风蚀区的生态环境具有深远的意义[13],并且在我国大力发展可再生清洁能源的背景下，可为国家发展和规划风能资源提供参考和科学依据。
+
+# 1 研究区概况
+
+我国北方风蚀区地处 $3 3 ^ { \circ } \sim 5 3 ^ { \circ } \mathrm { N } , 7 4 ^ { \circ } \sim 1 2 5 ^ { \circ } \mathrm { E }$ 范围内，包括黑龙江、吉林、辽宁的西部，河北、北京、山西、陕西的北部，青海省西北部以及内蒙古、宁夏、甘肃、新疆的绝大部分地区，幅员辽阔，总面积达$3 4 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ 。地貌类型复杂多样,平原、高原、丘陵、山地、盆地、沙漠等交错分布[14]。区域内气候差异显著，自具有大陆性特点的温带季风气候区深入到西部内陆，过渡成温带大陆性气候。研究区内整体四季分明，降水稀少，且集中在夏季。从1971—2015年的155个国家气象站的年平均风速的总体特征来看，我国北方风蚀区年平均风速为 $2 . 7 0 \mathrm { ~ m ~ }$ ·$\mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速为 $3 . 2 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （1972 年），最小风速$2 . 4 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （2011年），极差 $0 . 8 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ;风速空间分布如图1所示，呈现出由北向南降低，南疆，北疆的青河、富蕴、哈密、吐鲁番，甘肃南部的民和、林洮和靖远，山西、陕西和内蒙古交界地带的河曲为风速低值区，高值区分布在内蒙古中北部。
+
+# 2 数据来源与研究方法
+
+# 2.1 数据来源
+
+为研究北方风蚀区风速变化的时空特征，选取北方风蚀区(图1)较为均匀分布的155个气象台站1971一2015年月平均风速，资料来源于国家气象信息中心（网址：http：//www.nmic．gov.cn/）。以一年中12个月风速的算数平均值作为年平均风速，四季资料以3、4、5月为春季，6、7、8月为夏季，9、10、11月为秋季，12月～翌年1、2月为冬季来统计。
+
+# 2.2 研究方法
+
+2.2.1数据分析和处理方法本文采用一元线性回归分析方法，绘制了我国北方风蚀区年与四季风速变化曲线，并得到了年际与年代际的风速倾斜率；利用ArcGIS10.1将155个气象站风速倾斜率进行空间插值[15-16]绘制出研究区年与四季风速变化趋势图;运用Matlab程序对风速进行多时间尺度的周期性分析。
+
+2.2.2气候倾向率风速 $y$ 的变化趋势利用一元线性回归方程描述,如下（1)：
+
+![](images/a4dfa75d58a9dffba065e382245e16ab5446bb2143c476b0c0b08c2cb7102566.jpg)  
+图1研究区气象站点和风速的空间分布  
+Fig.1Spatial distribution of the meteorological stations and wind speed in study area
+
+$$
+y _ { i } = \mathbf { a } + b t _ { i }
+$$
+
+式中： $\mathbf { \Phi } _ { t } ^ { t }$ 为时间要素序列； $\mathbf { \alpha } _ { a }$ 为回归常数; $b$ 为回归系数。若 $b > 0$ ,则说明随时间 $\mathbf { \chi } _ { t }$ 的增加， $y$ 呈现上升趋势；若 $b < 0$ ,则说明随时间 $\mathbf { \chi } _ { t }$ 的增加， $y$ 呈现下降趋势。 $b$ 值的大小表示风速的变化速率，通常称为倾向率[17]
+
+2.2.3小波分析小波分析是一种多时、频分辨率的分析方法，能够揭示出隐藏在时间序列中的多时间尺度变化周期，反映要素在不同时间尺度中的变化趋势，并能对要素发展趋势进行短期预测。小波函数是小波分析的关键，它是指具有震荡性、能够迅速衰减到零的一类函数，即小波函数 $\psi \left( \tau \right) \in L ^ { 2 } \left( R \right)$ 且满足：
+
+$$
+\int \limits _ { - \infty } ^ { + \infty } \psi ( t ) \mathrm { d } t = 0
+$$
+
+式中： $\psi ( t )$ 为基小波函数，它可通过尺度的伸缩和时间轴上的平移构成一簇函数系：
+
+$$
+\textit { \Psi } _ { a , b } \left( \textit { t } \right) = \left| \textit { a } \right| ^ { - 1 / 2 } \psi \bigg ( \frac { \textit { t } - b } { a } \bigg )
+$$
+
+式中： $a < b \in R , a \ne 0$ 。对于任意函数 $f ( t ) \in L ^ { 2 } ( R )$ ，其连续小波变换（ContinueWavelet Transform，简写为CWT)为：
+
+$$
+W _ { f } ( a , b ) = | a | ^ { - 1 / 2 } { \int } _ { R } f ( t ) \bar { \psi } \Big ( \frac { t - b } { a } \Big ) \mathrm { d } t
+$$
+
+式中： $W _ { f } ( a , b )$ 为小波变换系数； $\boldsymbol { a }$ 为尺度因子; $b$ 平移因子。
+
+小波分析的关键和难点是选择合适的基小波，本文选择更能真实反映时间序列各尺度周期性大小及其时域分布的 Morlet 复小波作为基小波[18-22] ○
+
+# 3 结果与分析
+
+# 3.1平均风速逐年变化趋势
+
+从年均风速变化曲线图（图2a)可以看出我国北方风蚀区年均风速呈现波动式下降的变化状态。1971—2015年北方风蚀区全年的平均风速为2.70$\mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ,最大风速 $3 . 2 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （1972年），最小风速 $2 . 4 1 \ \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ (2011年），极差 $0 . 8 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,年平均风速变化幅度较大。由年均风速一次线性拟合得到的风速变化趋势图可以看出，该地区年平均风速呈明显下降趋势,其递减速率为 $0 . 0 1 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ （204号（ $\alpha = 0 . 0 0 1$ )，震荡效果非常轻微，无明显的高峰值与低峰值。从年平均风速变化曲线中可以看出该地区年平均风速在1971—1988 年高于多年平均风速,而1988年以后低于多年平均风速。
+
+为了更好地说明北方风蚀区年平均风速的时间序列变化特征，通过年代际风速倾斜率进一步分析。由图2b可知， $1 9 7 0 \mathrm { s } \mathbin { \lrcorner } 1 9 8 0 \mathrm { s } \mathbin { \lrcorner } 1 9 9 0 \mathrm { s } \mathbin { \lrcorner } 2 0 0 0 \mathrm { s }$ 年四个年代的平均风速倾斜率均小于0，说明四个时段内风速均是下降的。但不同年代下降速度差异明显，从小到大排序：1980s—1970s—2000s—1990s，1980s倾斜率最小为 $- 0 . 3 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ,并且通过了 $\alpha = 0 . 0 0 1$ 显著水平检验，说明1980s年平均风速下降速度最快,并且在统计学上通过了显著性检验。2010s风速倾向率大于0,说明该时间段内风速是增大的，但未能通过显著性检验。
+
+# 3.2平均风速季节变化趋势
+
+为了对平均风速的四季变化趋势进行分析，将四季平均风速进行了一元线性趋势分析，得到了线性变化趋势图（图3）。从平均风速的四季变化趋势中可以看出：
+
+春季(图3a)平均风速为 $3 . 2 9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速 $4 . 0 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （1971年），最小风速 $2 . 8 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （204（2014年），极差 $1 . 1 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。春季平均风速倾斜率为 $- 0 . 0 2 3 \textrm { m } \cdot \textrm { s } ^ { - 1 } \cdot \textrm { a } ^ { - 1 }$ ,春季风速整体呈现显著下降趋势，风速在下降过程中从1986年开始低于平均值，1987年略有增高超出平均值，1987—2015年风速始终低于平均值。统计春季年代际风速倾向率发现 $1 9 7 0 \mathrm { s } \mathbin { \lrcorner } 1 9 8 0 \mathrm { s } \mathbin { \lrcorner } 1 9 9 0 \mathrm { s } \mathbin { \lrcorner } 2 0 0 0 \mathrm { s } \mathbin { \lrcorner } 2 0 1 0 \mathrm { s }$ 风速倾斜率均为负值，从小到大排序：1980s—1970s—2000s—2010s—1990s，说明五个时段内风速均是下降的。1980s风速下降速度最快,倾斜率为 $- 0 . 4 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （204号· $\left( 1 0 \mathrm { ~ a ~ } \right) ^ { - 1 }$ ，并且通过了显著水平检验。1990s风速下降速度最慢,倾斜率为 $- 0 . 0 9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,未能通过显著性检验。
+
+夏季(图3b)平均风速为 $2 . 7 2 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速 $3 . 3 9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （1972年），最小风速 $2 . 4 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （20（2012年），极差 $0 . 9 5 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。夏季平均风速倾率为 $- 0 . 0 1 7 \textbf { m } \cdot \textbf { s } ^ { - 1 } \cdot \textbf { a } ^ { - 1 }$ ,夏季风速整体呈现显著下降趋势，风速在逐渐降低的过程中从1989年开始到2015年始终低于多年来夏季平均风速。除2010s外，其他四个时间段的风速倾斜率均为负值，从小到大排序：1970s—1980s—1990s—2000s，四个时间段风速均是下降的。1970s倾斜率值最低为 $- 0 . 3 7 \mathrm { ~ m ~ }$ ：$\mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ,并且通过了 $\alpha = 0 . 0 0 1$ 显著水平检验，说明夏季1970s风速下降速度最快，并且具有统计学意义上的显著性。2010s倾斜率为 $0 . 2 3 \mathrm { ~ m ~ }$ ·$\mathbf { s } ^ { - 1 } \cdot \mathbf { a } ^ { - 1 }$ ,风速转而呈增大趋势。
+
+![](images/e834c2e15827000c84439f8b7ac6b3d34046a201b476a3e9c61567092ed7943e.jpg)  
+图21971—2015 年北方风蚀区年平均风速(a)和年代际风速变化趋势(b)  
+Fig.2Annualandinterdecadaltrendsoftheaverage windspeedinthewinderosionregionof northern Chinain1971—2015
+
+秋季(图3c)平均风速为 $2 . 4 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速 $3 . 1 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （1972年），最小风速 $2 . 1 2 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （204（2011年），极差 $1 . 0 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。秋季平均风速倾率为 $- 0 . 0 1 6 \textrm { m } \cdot \textrm { s } ^ { - 1 } \cdot \textrm { a } ^ { - 1 }$ ,秋季风速整体呈现显著下降趋势，风速在逐渐降低的过程中从1988年开始到2015年始终低于多年来秋季平均风速。秋季与夏季相一致，除2010s外其他四个时间段的风速倾斜率均为负值，从小到大排序：1980s—1970s—2000s—1990s。1980s倾斜率最小为 $- \ 0 . 2 7 ~ \mathrm { ~ m ~ } \cdot$ （2$\mathrm { ~ s ~ } ^ { - 1 } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { - 1 }$ ,并且通过了 $\alpha = 0 . 0 0 5$ 显著水平检验，说明春季1980s风速下降速度最快，具有统计学意义上的一般显著性。2010s倾斜率值最大为0.31$\mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot ( 1 0 \mathrm { ~ a ~ } ) ^ { \ - 1 }$ ,说明风速在该时间段呈上升趋势。
+
+冬季(图3d)年平均风速为 $2 . 3 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,最大风速 $2 . 8 7 \ \mathrm { m \cdot s ^ { - 1 } }$ （1979 年），最小风速 $1 . 9 8 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ （2012年），极差 $1 . 0 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。冬季平均风速倾率为 $- 0 . 0 1 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,冬季风速整体呈现显著下降趋势，风速在降低过程中1984年开始低于平均值，之后的四年里略有上涨超出平均值，从1989 年开始到2015年风速始终低于平均值。冬季风速的年代际变化不同于春夏秋三个季度，仅1980s和2010s风速倾斜率为负值， $1 9 7 0 \mathrm { s }  1 9 9 0 \mathrm { s }  2 0 0 0 \mathrm { s }$ 风速倾斜率为正值，除1980s和2010s之外，其他的年代风速是不显著增大的。
+
+年与四季的风速数据表明，我国北方风蚀区风速呈现明显的减小状态。平均风速春季最大，冬季最小,相差 $0 . 9 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。图2、图3和图4相结合发现,北方风蚀区年与四季的风速在统计意义上均呈显著下降趋势。不同年代风速倾向速率具有差异，并且可以发现一个显著特点：五条风速变化曲线中均在1990 年前后存在一个跃变点，从1960 到跃变点年份北方风蚀区年和季节风速均快速降低；从跃变点到2015年，除冬季外其他风速仍然呈下降趋势，但是下降速率大幅减小,而在冬季出现了风速上升。这与何毅等人在年南北疆风速变化特征分析中的结论基本一致[23]
+
+# 3.3风速变化幅度空间差异
+
+根据统计得到，1971—2015年北方风蚀区45a平均风速倾斜率为 $- 0 . 0 1 9 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,155个气象站点多年平均风速倾斜率在 $- 0 . 0 9 \sim 0 . 1 1 \mathrm { ~ m ~ } ^ { \cdot }$ （204$\mathbf { s } ^ { - 1 } \cdot \mathbf { a } ^ { - 1 }$ 之间,其中有 25 个气象站风速倾斜率为非负值，主要分布在南疆、甘肃东南部、宁夏、河北内蒙和辽宁交界三角地带，其他区域风速倾斜率数值大多小于零，即风速呈减小趋势。虽然北方风蚀区绝大部分年均风速倾斜率小于零，但是风速降低的幅度存在着明显的空间差异（图5a)。我国北方风蚀区内的新疆西北部和东南部、青海、内蒙古中部和东北部、黑龙江以及吉林为风速降低较快的区域,风速降低幅度在 $0 . 0 2 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 以上,其中内蒙古中部（包括锡林郭勒西北部、乌兰察布、包头市中部和东北部)、青海西北部、黑龙江省西南等地区风速降低速度在 $0 . 0 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 以上。甘肃省东南部、宁夏、山西和陕西北部以及辽宁西南部风速降低幅度在 $0 . 0 1 \textrm { m } \cdot \textrm { s } ^ { - 1 } \cdot \textrm { a } ^ { - 1 }$ 以下,风速减小较缓,甚至出现增大趋势。此外，新疆的东北部和西部等地区也是风速降低不明显的区域。
+
+与年均风速倾斜率变化相对比，年均春季风速倾斜率空间变化（图5b)最显著的特征是低值区域明显扩大，黑龙江省西南部、内蒙古的锡林郭勒西北部和乌兰察布中部以北部等地区风速降低速度$0 . 0 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 以上。风速降低速度低于0.01$\mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 的区域缩减为新疆西北部和甘肃省东
+
+![](images/9edc466496052806e393f940ead23a77d3fbad23daca6199b18069302fae2026.jpg)  
+Fig.3Treads of seasonal average wind speed in the wind erosion region of northern China
+
+![](images/6a16dc3de085e03dc30404e4c28a252f005499a3f3af7547853a5d997d115429.jpg)  
+图3北方风蚀区区四季平均风速的变化趋势  
+图4北方风蚀区区四季平均风速年代际的变化趋势  
+Fig.4Interdecadal trends of seasonal average wind speed in the wind erosion region of northern China
+
+南部。
+
+年均夏季风速倾斜率空间变化(图5c)与年均风速倾斜率变化相对比发现，风速倾斜率低值区分布较为一致,风速降低速度在 $0 . 0 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 以上的区域除了内蒙古中部和青海西北部，另一个地区是新疆西北地区。
+
+年均秋季风速倾斜率(图5d)小于 $- 0 . 0 2 \textrm { m }$ ：$\mathbf { s } ^ { - 1 } \cdot \mathbf { a } ^ { - 1 }$ 的区域与年均风速倾斜率相一致,秋季风速降低速度在 $0 . 0 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 以上区域面积显著缩小,尤其是青海地区,风速减小不显著的区域在南疆显著扩大。
+
+冬季风速倾斜率空间变化（图5e)的主要特征是风速降低较快的区域缩小和风速降低较缓的区域扩大现象非常显著，只有内蒙古中部和青海西北部两个小块区域风速降低速度在 $0 . 0 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 } |$ 以上，而在新疆，除去北疆的西北角，中部以西均扩大成风速降低幅度在 $0 . 0 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 } .$ 以下的区域。
+
+# 3.4基于小波分析的年平均风速的周期性研究
+
+小波系数实部值的分布特征反映了研究变量在序列上的变化周期范围，图6a为年均风速小波系数的实部等值线图，图中实线表明实部系数为正，风速偏大，虚线表明实部系数为负，风速偏小，加粗实部值为0，表明此处出现突变。从图中可以看出我国北方风蚀区1971—2013年平均风速在不同时间尺度上的周期震荡，主要有 $1 4 \sim 1 8$ a $\phantom { - } 2 4 \sim 3 0$ a两个变化周期，不同时间尺度所对应的风速结构是不同的。其中，在 $2 4 \sim 3 0$ a时间尺度上周期震荡最为显著，期间年均风速经历了小一大两个半循环交替，风速较大的时期为：1981—1987年、1998—2005年；风速较小的时期为1971—1980年、1988—1997年、2006
+
+![](images/7dcf80837cf93799e4e5b398ab242ce601a720b17ad11e1673de5c48f2435c44.jpg)  
+图51971—2013北方风蚀区年与季平均风速变化趋势
+
+Fig.5SpatialvariationtrendofanualandseasonalaveragewindspeedinthewinderosionregionofnortheChinain971—2013
+
+![](images/53c60dcf0d527391f9b4c8a29e1378e17d88924e299368b5e3374653bccd2140.jpg)  
+图6北方风蚀区年均风速Morlet小波变换  
+Fig.6Morlet wavelet transform of average wind speed in the wind erosion region of northern China
+
+—2015年。在14～18a时间尺度上周期振荡的显著性较 $2 4 \sim 3 0$ a 时间尺度上弱,存在较多的风速偏大期和偏小期的循环变化，风速突变点增多。在1994年以前，年均风速存在着非全域性周期震荡，时间尺度为 $1 1 \sim 1 4 \mathrm { ~ a ~ }$ 。
+
+小波系数模值分布图(图6b)反映了研究变量在序列上周期性的强弱，灰度值越小,模值越大，风速变化的周期性越强。图中可以看出 $2 4 \sim 3 0$ a时间尺度上的的灰度值最小，模值最大，但1985—2000年该时间尺度内模值显著降低，说明该时间段在 $2 4 \sim 3 0$ a时间尺度上周期变化不明显，但2000年以后模值增大，说明2000年之后的时间该时间尺度上周期变化显著。其次1971—1983 年和 2000—2015 年间14\~23a时间尺度上模值较大，周期变化较为明显;另外，在1971—1995年期间11～14a时间尺度上灰度值略小，周期变化略微显著
+
+小波方差图（6c）反映风速的波动能量随时间尺度的分布状况，可以确定风速在随时间演化过程中存在的主周期。年均风速的小波方差仅存在1个明显的峰值，为28a时间尺度，说明在28a时间尺度左右风速的周期震荡最为明显，为风速变化的第一主周期,掌控着风速在整个时间段内的变化特征。
+
+根据小波方差检验的结果绘制的主周期小波系数实部趋势线图(6d），从主周期趋势图中可以分析出在28a时间尺度上风速存在的平均周期及大一小变化特征：风速大约经历了两个半小一大转换期，平均变化周期为 $1 8 \mathrm { ~ a ~ }$ 。同时，根据不平均风速小波方差图及风速大一小的周期性变化趋势可以推测，北方风蚀区2016—2017年风速将处于偏小时期，2018—2027年风速将处于偏大的时期。
+
+# 4结论
+
+（1）1971—2015年间中国北方风蚀区年平均风速呈现显著下降趋势，其下降速度为 $0 . 0 1 7 \mathrm { ~ m ~ }$ ·$\mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 } ( \alpha = 0 . 0 0 1 )$ ,高于任国玉等人分析得到的全国平均风速下降速度[24]。该地区四季平均风速也呈下降趋势，下降速度春季 $>$ 夏季 $>$ 秋季 $>$ 冬季（ $\alpha = 0 . \ 0 0 1$ )。1970s和1980s下降速度非常快，1990s 和2000s下降速度降低，2010s除春季外，其他季节均呈增大趋势，不同年代不同季节风速变化存在较大差异。
+
+(2）整个北方风蚀区年均风速倾向率变化范围在 $- 0 . 0 9 \sim \ 0 . 1 1 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ 之间,风速变化存在空间差异，北方风蚀区内的新疆西北部和东南部、青海、内蒙古中部和东北部、黑龙江以及吉林为风速降低较快的区域，甘肃东南部、宁夏、山西和陕西北部、辽宁、新疆的东北部和西部等地区是风速降低不明显的区域。春季和夏季风速降低较快的区域面积扩大，冬季和秋季风速降低较缓的区域扩大。
+
+（3）利用时、频多分辨率Morlet小波分析方法对北方风蚀区平均风速进行分析，发现风速变化存在多时间尺度的周期结构特性,主要存在 $1 4 \sim 1 8 \mathrm { ~ a ~ } ,$ （20$2 4 \sim 3 0$ a两个变化周期;28a时间尺度左右为风速周期变化的主周期,平均变化周期为 $1 8 \mathrm { ~ a ~ }$ 。由主周期小波系数实部趋势线图可以预测，北方风蚀区2016—2017年风速将处于偏小时期，2018—2027年风速将处于偏大的时期。
+
+（4）采用时间序列数据对整个北方风蚀区进行较大区域的风速时空变化分析，提高了我们对风速变化的整体性与前瞻性认识，为预测未来风速变化趋势奠定基础，对于防灾减灾、改善北方风蚀区的生态环境具有深远的意义，为国家发展和规划风能资源提供参考和科学依据。可进一步探究导致风速变化的影响因素以及风速变化给自然、人类、社会等带来的影响。
+
+# 参考文献（References）
+
+[1] KOUSARI MR,AHANI H,HAKIMELAHI H.An investigation of near surface wind speed trends in arid and semiarid regions of Iran [J].Theoretical and Applied Climatology,2013,114（1）:153- 168.
+
+[2]强明瑞,肖舜,张家武,等.柴达木盆地北部风速对尘暴事件降 尘的影响［J].中国沙漠，2007，27（2）：290－295.［QIANG Mingrui,XIAOShun,ZHANGJiawu,etal.Impact ofwind velocity on dustfall during dust storm events in northern Qaidam Basin China[J].Journal ofDesertResearch,2007,27(2）:290-295.]
+
+[3］张国平,张增祥,刘纪远.中国土壤风力侵蚀空间格局及驱动 因子分析［J].地理学报，2001，56（2）：146-158.［ZHANG Guoping,ZHANG Zengxiang,LIU Jiyuan.Spatial distribution of wind erosion and its driving factors in China[J].Journal of Geo graphical Sciences,2001,56(2) :146-158.]
+
+[4]赵宗慈,罗勇,江滢,等.近50 年中国风速减小的可能原因[J].气象科技进展,2016,6（3）：106-109.［ZHAO Zongci,LUOYong,JIANG Ying,et al.Possible reasons of wind speed de-cline in China for the last5O years[J].Advances in MeteorologicalScience and Technology,2016,6(3）:106-109.]
+
+[5] MCVICARTR,VAN NIEL TG,LIL T,etal.Wind speed climatology and trends for Australia,1975—2O06:Capturing the stilling phenomenon and comparison with near - surface reanalysis output [J].Geophysical Research Letters,2008,35（20）:288 -299.
+
+[6] WANG Z,DING Y,HE J,et al.An updating analysis of the climate change in China in recent 5O years[J].Acta Meteorologica Sinica, 2004,62(2) :228-236.
+
+[7]PRYOR S C,BARTHELMIERJ,YOUNGD T,et al.Wind speed trends over the contiguous United States[J]. Journal of Geophysical Research Atmospheres,2009,114（D14）:14105.
+
+[8］王鹏祥,杨金虎,张强,等.近半个世纪来中国西北地面气候变化基本特征［J].地球科学进展，2007，22（6）：649-656.[WANG Pengxiang,YANG Jinhu,ZHANG Qiang,etal.Climatechange characteristic of northwest China in recent half century[J].Advances in Earth Sciences,2007,22(6) :649-656.]
+
+[9］张志斌,杨莹,张小平,等.我国西南地区风速变化及其影响因 素[J].生态学报,2014,34（2）:471-481.［ZHANGZhibin， ZHANG Ying,ZHANG Xiaoping,et al.Wind speed changes and its influencing factors in southwestern China[J].Aata Ecological Sinica,2014,34(2) :471-481.]
+
+[10］蒋冲，王飞,刘焱序，等.秦岭南北风速时空变化及突变特征分 析[J].地理科学,2013,33（2）:244－250.[JIANG Chong, WANG Fei,LIU Yanxu,et al. Spatial-temporal variation and mutation of wind speed in the northern and southern regions of the Qinling Mountains[J].Scientia Geographica Sinica,2013,33(2）:244 - 250.]
+
+[11］张克新，潘少明，曹立国.1961一2010年河西地区平均风速时空变化趋势分析[J].地理科学，2014,34（11)：1404-1408.[ZHANG Kexin,PAN Shaoming,CAO Liguo.Spatial and temporaltrends of average wind speed in Hexi area in 1961—2O1O[J].Scientia Geographica Sinica,2014,34（11）:1404-1408.]
+
+[12]GUO H,XU M,HU Q.Changes in near-surface wind speed in China:1969—20o5[J].International Journal of Climatology,2011,31 (3):349-358.
+
+[13］李耀辉,张存杰,高学杰.西北地区大风日数的时空分布特征 [J].中国沙漠,2004,24（6）:715-723.［LIYaohui,ZHANG Cunjie,GAO Xuejie.Temporal and spatial characteristics of gale weather over northwest China［J].Journal of Desert Research, 2004,24(6):715-723.]
+
+[14］张艺磊.中国北方风蚀区土壤可蚀性因子及其空间分异[D]. 北京：北京师范大学,2012.［ZHANGYilei.Soil erodibility factors and their spatial variation in the wind erosion region of northern China[D].Beijing:Beijing Normal University,2012.]
+
+[15］王军，傅伯杰,邱扬，等.黄土高原小流域土壤养分的空间分布格局—Kriging插值分析[J].地理研究，2003，22（3）：373-379.[WANG Jun,FU Bojie,QIU Yang,et al.Spatial distributionpatterns of soil nutrients in a small catchment of the Loess Plateau:Kriging method[J].Geographical Research,2003,22（3）:373-
+
+379.]
+
+[16］杨强，覃志豪，王涛，等.榆林地区1970—2010 年气候因子变化特征分析[J].干旱区地理，2012，35（5）：695-707.[YANGQiang,TAN Zhihao,WANG Tao,et al.Characteristicsof climatechange in Yulin region during1970—201O[J].Arid Land Geogra-phy,2012,35(5):695-707.]
+
+[17］林纾，陆登荣.近40年来甘肃省降水的变化特征[J].高原气 象,2004,23（6）:898-904.［LIN Yu,LU Dengrong.Climatic change characteristics of precipitation in Gansu Province in recent 40 years[J].Plateau Meteorology,2004,23（6）:898-904.]
+
+[18］王存忠，牛生杰，王兰宁.50年来中国沙尘暴的多时间尺度变化特征[J].大气科学学报，2009，32（4）：507-512.［WANGCunzhong,NIU Shengjie,WANG Lanning.Multi-time scale varia-tion of sand-dust storm in China during 1958—2007[J].Transac-tions of Atmospheric Sciences,2009,32(4）:507-512.]
+
+[19］徐鸣,赵柳生，王斌. $\mathrm { P M } _ { 1 0 }$ 浓度时间序列多时间尺度分析的小波方法[J].环境科学与技术,2008,31(4）:57-59.[XU Ming,ZHAO Liusheng,WANG Bin.Wavelet method of multi-time scaleanalysis for time-series of $\mathrm { P M } _ { 1 0 }$ concentration［J].EnvironmentalScience& Technology,2008,31（4）:57-59.]
+
+[20］李淼，夏军，陈社明,等.北京地区近300年降水变化的小波分析[J].自然资源学报,2011，（6）：1001-1011.［LIMiao，XIAJun,CHEN Sheming,et al.Wavelet analysis on annual precipitati-onaround 3OO years in Beijing area[J].Journal of Natural Re-sources,2011,（6):1001-1011.]
+
+[21］尤卫红,段旭,杞明辉.连续小波变换在云南近百年气温和降 水变化分析中的应用[J].高原气象，1999，18（1）：47-54. [YOUWeihong，DUAN Xu,QI Minghui.Continuous wavelet transforms and their applications to surface air temperature and yearly precipitation variations in Yunnan during last one hundred years[J].1999,18(1):47-54.]
+
+[22］胡永宁，王林和，张国盛，等.毛乌素沙地1969—2009 年主要气候因子时间序列小波分析[J].中国沙漠，2013，33（2）：390-395.［HUYongning,WANGLinhe,ZHANG Guosheng,et al.Wavelet analysis on the temporal series of principal climate facto-ries in Mu Us SandyLand during1969—20O9[J]. Journal of Des-ert Research,2013,33(2):390-395.]
+
+[23］何毅,杨太保，陈杰，等.1960—2013 年南北疆风速变化特征分析[J].干旱区地理，2015，38（2）：249-259.[HEYi，YANGTaibao,CHEN jie,et al.Wind speed change in north and southXinjiang from 1960 to 2013[J].Arid Land Geography,2015,38(2):249 -259.]
+
+[24］任国玉，郭军，徐铭志，等.近50年中国地面气候变化基本特征[J].气象学报，2005，63（6）：942-956.[RENGuoyu，GUOJun,XUMingzhi,et al.Climate changes of China's mainland overthe pasthalf century[J].Acta Meteorologica Sinica,2OO5,63（6）：942 -956.]
+
+# Spatial and temporal characteristics of average wind speed in the wind erosion region of northern China
+
+HAN Liu， WANG Jing-pu， WANG Guang-zhen， WANG Zhou-long， WU Meng-quan(College of ResourceandEnvironmental Engineering,Ludong University,Yantai 264O25,Shandong,China)
+
+Abstract：In order to research the temporal and spatial characteristics of wind speed changes inthe wind erosion region of northern China,annual and seasonal wind speed data fromthe155 meteorologicalstations evenlydistributed in the studyarea wereselected from1971to2O15,andthe methods ofclimate trending rate,spatial interpolation and wavelet analysis method were used.The annual and seasonal wind speed characteristics,spatial variabilityof the range of wind speed variety and the period of wind speed changes were analyzed.The results showed as follows that the annual average wind speed was $2 . 7 0 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ in the wind erosion region of northern China and reduced significantly at a rate of $0 . 0 1 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 } ( \alpha = 0 . 0 0 1 )$ in the last 45 years.Furthermore,the seasonal wind speed trend rate were $- 0 . 0 2 3 \textbf { m } \cdot \textbf { s } ^ { - 1 } \cdot \textbf { a } ^ { - 1 }$ (spring）， $- 0 . 0 1 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - 1 }$ (summer）， $- 0 . 0 1 6 \textrm { m } \cdot \textrm { s } ^ { - 1 } \cdot \textrm { a } ^ { - 1 }$ (autumn）, （204 $- 0 . 0 1 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 } \cdot \mathrm { ~ a ~ } ^ { - } 1$ （winter）（ $\alpha = 0 . 0 0 1$ ），respectively.Wind speed decreased fastest and slowest were in 1980sand 199Os respectively,and wind speed increased only in 201Os.There were significant diferences indiferent decades and seasons.The change range of wind speed had diffrent spatial distribution in the wind erosion region of northern China.The wind speed decreased quickly inthe central east,central west,northwest and east part of northern China.Thesoutheastern partof Gansu,Ningxia,northern parts of Shanxi and Shaanxi,Liaoningand northeastern and western parts of Xinjiang provinces were areas where wind speed were not significantly decreasing.In spring and summer,the area of wind speed reduced quickly has extended,and the area of wind speed reduced slowly has extended in winterand autumn.Morlet wavelet analysis revealed that average wind speed exhibited quasi-periodic variations ofaround 28 year,and the average change period was about 18 years.At present,the wind erosion region of northern China is experiencing a low wind velocity stage.This paper used the latest time series data to analyze thetemporaland spatial analysis of wind speed inthe whole wind erosion region of northern China to improve theoverall and forward understanding of wind speed changes and laythe foundation for predicting the future trend of wind speed，which isoffar-reaching significance for preventing the disasters and improving theecology and environment ofthe wind erosion region of northern China,and provide reference and scientific basis forthe nation to develop and make plans for wind energy resources.
+
+Key words:wind speed change；wavelet analysis；the wind erosion region of northern China

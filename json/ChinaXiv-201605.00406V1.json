@@ -1,0 +1,503 @@
+[
+    {
+        "type": "text",
+        "text": "Transcriptome analysis of near-isogenic lines provides molecular insights into starch biosynthesis in maize kernel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yingni Xiao’, Shawn Thatcher2， Min Wang1,3, Tingting Wang1,Mary Beaty4,Gina Zastrow-Hayes4,Lin Li5, Jiansheng Li， Bailin Li² and Xiaohong Yang1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "'NationalMaizeImprovementCenterofCina,ejingKeyLaboratoryofropGeneticmprovement,CinaAgriculturalUversityeing 100193,Chinatgt8cuat UniversityYangLngauotetooUepatofoodateticsUf Minnesota,St.Paul, Minnesota 551o8,USA.\\*Correspondence: yxiaohong@cau.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Starch is the major component in maize kernels, providing a stable carbohydrate source for humans and livestock as well as raw material for the biofuel industry. Increasing maize kernel starch content will help meet industry demands and has the potential to increase overall yields. We developed a pair of maize near-isogenic lines (NiLs) with different alleles for a starch quantitative trait locus on chromosome 3 (qHS3)，resulting in different kernel starch content. To investigate the candidate genes for $q H S _ { 3 }$ and elucidate their effects on starch metabolism,RNA-Seq was performed for the developing kernels of the NILsat14 and 21 d after pollination (DAP).Analysis of genomic and transcriptomic data identified 76 genes with nonsynonymous single nucleotide polymorphismsand $3 8 4$ differentially expressed genes (DEGs) in the introgressed fragment， including a hexokinase gene, $Z m H X K 3 a$ ，which catalyzes the conversion of glucose to glucose-6-phosphate and may play a key role in starch metabolism.The expression pattern of all DEGs in starch metabolism shows that altered expression of the candidate genes for qHS3 promoted starch synthesis, with positive consequences for kernel starch content.These results expand the current understanding of starch biosynthesis and accumulation in maize kernels and provide potential candidate genes to increase starch content. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Coexpression network;maize; quantitative trait loci; RNA-Seq; starch content   \nCitation: Xiao Y,Thatcher S,Wang M,Wang T,Beatty M,ZastrowHayes G,Li L,LiJ,Li B,Yang X(2o16) Transcriptome analysis of nearisogenic lines provides molecular insights into starch biosynthesis in maize kernel. J Integr Plant Biol XX:XX-XX doi: 10.111/jipb.12455 Edited by:Zhongchi Liu,University of Maryland,USA   \nReceived Aug.4,2015; Accepted Dec.14,2015   \nAvailable online on Dec.17,2o15 at www.wileyonlinelibrary.com/ journal/jipb   \n$\\mathfrak { O }$ 2015 Institute of Botany, Chinese Academy of Sciences ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maize (Zea mays) is the world's largest crop and serves as an important source of human food,animal feed and biofuel. In maize kernels,starch is the most abundant component, comprising approximately $70 \\%$ of dry kernel weight.In addition to the direct consumption of food or feed,maize starch also plays a vital role in industrial applications such as bio-ethanol production and the miller industry (Ellis et al. 1998).Thus,enhancing starch content may not only lead to higher maize kernel yields but could also increase the portion used in industrial applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Starch in maize kernels is composed of two types of glucan polymers:amylopectin and amylose.In many cases,amylo pectin accounts for approximately $7 5 \\%$ of the total starch content in normal maize (Myers et al.2ooo) and is composed ofbranched glucose chains that form insoluble， semicrystalline granules.Amylose is composed of linear chains of glucose that adopt a helical configuration within the granules (Martin and Smith 1995). Although the glucan composition of starch is rather simple,starch metabolism is relatively complex in maize (Figure S1).Starch biosynthesis initiates with the degradation of sucrose by sucrose synthase, then at least four classes of enzymes contribute to amylopectin or amylose biosynthesis: ADP-glucose pyrophosphorylase (AGPase)， starch synthase， starch branching enzyme,and starch debranching enzyme (Jeon et al.2010; Zeeman et al. 2o1o). In addition to debranching enzymes,a series of $\\alpha \\cdot$ and $\\beta$ -amylases also degrade starch in the endosperm during cereal germination. In maize,dozens of key genes play major roles in starch biosynthesis,including Shrunken1 (Sh1),Shrunken2 (Sh2),Brittle1 (Bt1),Brittle2 (Bt2), Waxy1 (Wx1),Dull1 (Du1)，Amylose extender1 (Ae1),Sugary1 (Su1)，Sugary2 (Su2)，SBEla，SBElla and Zpu1 (HennenBierwagen et al.2o13).Although the general process of starch metabolism in maize is well understood,its regulation remains unclear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To fully understand starch biosynthesis and accumulation in maize kernels,substantial effort has been undertaken to identify quantitative trait loci (QTL) for kernel starch content (Goldman et al. 1993; Séne et al.200o;Wassom et al.2008; Zhang et al.2oo8;Yang etal.2o13a). However,so far allQTLs for starch content have been mapped to large regions,preventing theidentification of causative genes.Coexpression analysis has also proven to be a powerful tool to systemically identify genes thatregulate specificmetabolic pathwaysat the transcriptional level (Yonekura-Sakakibara et al. 2oo8; Fu and Xue 2o1o). This analysis assumes that genes with similar expression patterns aremore likely to be functionally associated.In maize,much has been learned about the systemic regulation of the biosynthesis and accumulation of maize kernel components, including starch,at various developmental stages (Lai et al. 2004; Lu et al. 2013; Chen et al.2o14). Nevertheless, the exact molecular processes thatactivate starch metabolism in maize kernels largely remain to be elucidated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maize kernel development is usually characterized by three partially overlapping stages: the lag phase during 0-15 d after pollination (DAP), the kernel-filling period from approximately 15 DAP to 40-5o DAP,and the desiccationmaturation stage after approximately 4o DAP(Prioul et al. 2008).Maize starch begins to accumulate during the kernelfilling period，with the greatest increase in kernel size occurring around 2o DAP (Prioul et al.2oo8). The parallel transcription of genesrelated to starch metabolismis most active during the lag phase but begins to decrease around 20 DAP,midway in the filling stage (Méchin et al. 2007; Prioul et al.2oo8). Previously，a major QTL for starch content, $q H S 3$ ，explaining $2 6 \\%$ of starch content variation, was identified in a $\\mathsf { B 7 3 } \\times \\mathsf { D H L o P r o }$ 1 $\\mathsf { F } _ { 2 : 3 }$ population (unpublished results).This QTL was also detected in three additional linkage populations (Goldman et al. 1993; Wassom et al. 20o8;Yang et al. 2013a)，indicating the importance and stability of qHS3.To facilitate the cloning of $q H S _ { 3 }$ and give insight into the regulatory network for starch-related genes caused by the candidate genes of qHS3,we produced a pair of near-isogenic lines (NiLs) that varied in kernel starch content by approximately $3 \\%$ The developing kernels of the NILs at 14 and 21 DAP were subjected to RNA sequencing （RNA-Seq） to identify differentially expressed genes in the interval of $q H S _ { 3 }$ on chromosome 3 and to elucidate the transcriptional effects of the candidate genes in this QTL on starch metabolism pathways. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Characterization of NILs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A major QTL for starch content on chromosome 3，qHS3, accounting for $2 6 \\%$ of starch content variation in an $\\mathsf { F } _ { 2 : 3 }$ population derived from B73 with $6 8 \\%$ of the kernel starch content and DHLoPro1 with $7 5 \\%$ of the kernel starch content，was mapped between two SNP markers PZA1 and PZA2，which have physical positions of 113 Mb and 175Mb,respectively，according to B73 reference genome sequences in Version $5 \\mathrm { b } . 6 0$ (unpublished results).We then developed a pair of $B C _ { 5 } \\mathsf { F } _ { 2 }$ NILs,NIL_B,which carries the high starch allele of qHS3 from DHLoPro1 in the B73 background, and its matching line，NIL_A，carrying the homologous segment from B73.To define the fragments introgressed from DHLoPro1 in the NILs,the two NILs,together with their parents,DHLoPro1 and B73，were genotyped using MaizeSNP3K array containing 3,o72 single nucleotide polymorphisms (SNPs).A total of 1,323 high-quality SNPs are polymorphic between the two parents,with the number of SNPs distributed on each chromosome ranging from 66 (chromosome 10) to 24o (chromosome 8). NIL_A carries a approximately 26 Mb fragment from DHLoPro1 while NIL_B carries a 175 Mb fragment from DHLoPro1 on chromosome 3，with a 13 MB overlap (Figure 1A). The two NILs differ from 15 Mb to 193 Mb on chromosome $3 .$ ，with $4 . 1 \\%$ (54/1323）of SNPs polymorphic between NIL_A and NIL_B,containing the qHS3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Asexpected,kernel starch content is significantly higher in NIL_B (average 72.1%) than NIL_A(average $6 9 . 3 \\%$ (Figure 1B). No significant difference in kernel starch content between these NILs was observed at 14 DAP，whereas the starch content of NIL_B is significantly higher than that of NIL_A at 21 DAP $( 3 . 2 \\% )$ and at maturity $( 2 . 7 \\% )$ (Figure 1B). This indicates that some of the genes differentially expressed between these NILs during the period from14 to 21 DAP might be the causal gene(s) underlying qHS3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transcriptome profile based on RNA-Seq in NILs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To obtain transcriptome profiles of maize kernels in NIL_A and NIL_B,we performed RNA-Seq on 14 and 21 DAP maize kernels of both NILs.A total of 12 libraries，including three biological replicates for each line at each stage,were prepared for RNA-Seq.A total of 19o million 5o-bp single-end readswere obtained for 12 samples,with reads for each sample ranging from 10 million to 23 million (Table S1).The read length for all samples combined is ${ > } 9$ Gb,representing a approximately 3.7-fold coverage of the maize genome. Approximately $8 1 \\%$ of these short reads could be uniquely mapped to the reference B73 genome (Version 5b.60) (Table S1).Deep sequencing of the maize transcriptome covered 25,201 genes in all NILs,and $9 8 . 0 \\%$ (24,701/25,201) of all genes were detected in both NIL_A and NIL_B at both developmental stages (Figure 2A;Table S2). In addition, the number of genes uniquely expressed in NIL_A or NIL_B at each stage ranges from 7 to 97 (Table S2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the effect of the varying conditions on transcript expression profiles of NIL_A and NIL_B at 14and 21DAP，principal component analysis(PCA) was performed using the raw expression data (RPKM) of all identified genes in the 12 samples.This clustering reveals the relatedness of all datasets in these samples (Figure 2B). The NILs at each developmental stage clustersas nearest neighbors,indicating dramatic expression differences between the two stages. Additionally,NIL_Aand NIL_B are distant at 14 DAP but cluster togetherat 21 DAP,suggesting that the level of differential gene expression between NILs at 14 DAP is higher than that at 21 DAP.All three biological replicates clusteras nearest neighbors from each other in most cases,indicating slight variability among the biological replicates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genomic variations between NILs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Todeeply mine the genomic variations between NILs, polymorphic SNPs were detected using all RNA-Seq data, which identified 659 SNPs between the two NILs，with 658SNPs distributed in the introgressed fragment on chromosome 3 and 1 SNP located on chromosome 6 (Figure 3A;Table S3),consistent with results inferred using the MaizeSNP3K array (Figure 1A). By combining data from the arrayand RNA-Seq, the two NILs were found to mainly differ in the 173-Mb genomic fragment ranging from 16,566,519 to 189,901,888 bp on chromosome3 with 709 SNPs.Of these 709 SNPs,678 are available for predicting effects on gene function,including 261 SNPs in the $5 ^ { \\prime }$ and $3 ^ { \\prime }$ untranslated regions orin introns,295 synonymous and 122 nonsynonymous SNPs in the coding region (Table S3). One nonsynonymous SNP resides in an annotated gene,GRMZM2Go68913 (ZmHXK3a), which is involved in starch metabolism. ZmHXK3a encodes a hexokinase,which converts glucose to glucose-6-phosphate (G6P;Figure S1),a step in starch synthesis (Tsai et al. 1970; Doehlert et al.1988). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/68916291287f87855b329a1bc7497c23dd04425539aa242035643fbf54f08d25.jpg",
+        "img_caption": [
+            "Figure 1. Characteristics of NIL_A and NIL_B (A) GenomiccompositionofNIL_A (left)andNIL_B (right).Blue representsregions homozygous with B73;redrepresents homozygousregionsfromDHLoPro1; greenrepresents heterozygousregions;greyrepresentsmissingdata; yelowlinesindicate thecentromeres.(B)Comparisonofstarchaccumulation inmaize kernelsat diferentdevelopmental stages.Valuesrepresent the mean $\\pm { \\sf S E }$ 0 $[ n = 1 5 ]$ ).P-values were estimated based on the Student's t-test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transcriptomic variations between NILs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Besides the observed genomic variations between NILs,the expression patterns of genes within the mapping interval could be used to prioritize candidate causal genes as they often affect phenotypic variation via transcriptional regulation.We compared gene expression in developing kernels between NIL_Band NIL_Aat14and 21 DAP,and differentially expressed genes (DEGs) were defined as those up- or downregulated by $\\geq 1 . 5$ -fold( $\\lceil P < 0 . 0 5$ ,Fisher's test).Intotal, 2,920 genes，evenly distributed across all chromosomes with 374 genes in the introgressed fragment interval, are differentially expressed between the NILs at 14 DAP; 148 genes are upregulated，and 226 are downregulated (Figure 3A,B; Table S4).Far fewer DEGs were detected at 21 DAP，with 59 being upregulated and 64 downregulated (Figure 3A,B; Table S4). Approximately $7 1 \\% ( 8 7 / 1 2 3 )$ of these DEGs fell within the introgressed fragment interval. Among all the DEGs,8o are common at both 14 and 21 DAP,including 77 DEGs which have expression level differences in the same direction at both developmental stages. Heat map clustering also yielded an overview of the expression of the 2,963 DEGs with six distinct patterns in the two NILs at both stages (Figures3D,S2; Table S4). In cluster I, the expression levels of DEGs between the two NILs at 14 DAP (e.g.，GRMZM2 G32592o)decrease sharply in NIL_B whereas there is little change in NIL_A during development.A similar contrast was observed for clusters Il and I (e.g.，GRMZM2G127798 and GRMZM2G47911o); there are no significant differences for the DEGsbetween the two NILsat14 DAP in NIL_B or NIL_Aat 14DAP during the developing stages.For the remaining three clusters,the expression levels of the DEGs between the two NILs differ significantly at both stages，but the direction and degree of difference vary among clusters. Compared with NIL_A,the genes in NIL_B are enriched in cluster IV but reduced in cluster Vl at both stages,whereas they are upregulated at 14 DAP but downregulated at 21 DAP in cluster V. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee3c4f619575b9ca5eacd41a1971df3aad86297cd39736e40a20fa1f959b843a.jpg",
+        "img_caption": [
+            "Figure 2. Transcriptomic profiles of near-isogenic lines (NILs) ",
+            "(A)Eulerdiagramsofshared presenceorabsenceofgenesinNILsattwodevelopmentalstages.(B)ClustersofNIsatdiferent developmental stages identified by principal component analysis of gene expresion level (RPKM).Each spotrepresentsan individual sample,withthree biologicalreplicates,indicatedbythenameof eachlinefollowedbythe developmental stage. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa3f39dd6c61c8416cf5d6c01e2e54d7fad64696704bec1cefc7cabe64b1b4c.jpg",
+        "img_caption": [
+            "Figure 3. Comparative genomics and transcriptomics of near-isogenic lines (NiLs) ",
+            "(A) Distributionofsinglenucleotidepolymorphisms (SNPs)between NILs,anddiferentiallyexpressed genes (DEGs)between NILsat diferentdevelopmental stages.The three circles from inner toouter showthe distributionof SNPs identified by RNA-Seq,DEGsat21dafterpolination(DAP),andDEGsat14DAP,respectively.Thedarkreddotsaboveofthelineepesent upregulated genes,while thebluedotsunderthelinerepresentdownregulated genes.(B)EulerdiagramsofDEGsbetween NILs at two developing stages.(C) Association between gene function and DEGs at two diferent stages. Only genes encoding transcription factors and enzymes in metabolic pathways are shown. (D)Self-organizing heatmap clustering DEGs by their expresionabundance (representedas normalized RPKM with Z-score).Redrepresents high expresion level,and blue representslowabundance.(E)Self-organizing heatmap clustering 81genes knownorpredicted instarchmetabolicpathways by their expressonabundance (representedas normalized RPKM with Z-scores).Red represents high abundance,and blue represents low abundance. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To determine whether the 2,963 DEGsat 14 and 21 DAP are associated with starch biosynthesis and accumulation,their putative functions were annotated using MapMan software (Thimm et al.2oo4).Gene set enrichment analysis revealed significantly enriched terms (false-discovery rate $\\qquad < 0 . 0 5 { \\mathrm { , } }$ in the categories of DNA,RNA,protein,cell and development, responses to stress,metabolic process and etc.(Table S4). Over half of the DEGs at 14 DAP in assigned categories are enriched in the terms related to the activities of DNA,RNA, protein,cell and development,suggesting a possible role in the development and growth in maize kernel at 14 DAP. Subsequent analysis focused on genes related to transcription factors and metabolic processes (Figure $3 mathsf C ,$ ）because they would more likely be associated with starch biosynthesis and accumulation.There are 218 transcription factorswith differential expression at 14 DAP，including 25 within the introgressed fragment interval,which correlate well with the large number of DEGs at 14 DAP.In contrast, there isa sharp decline in the number of differentially expressed transcription factors at 21 DAP，and only five of them fall within the introgressed fragment interval.Similar patterns were also observed for other metabolic processes,but the magnitude of the changes in the metabolic process DEGs is much smaller than in the transcription factors category. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Validation of the identified DEGs ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To confirm the regulation of the identified DEGs，we compared the expression level of 2o,342 genes in NIL_A with publically available transcriptomic data for B73 kernels (Chen et al. 2014). Nearly $70 \\%$ of the genes share the same expression patterns,demonstrating the reliability of the RNASeq data in our study.We also selected 1o genes involved in starch metabolism and subjected them to quantitative realtime (qRT)-PCR using the two NILs at two stages (Figure 4). A close correspondence was observed between expression levels detected by RNA-Seq and by qRT-PCR $\\left( \\mathsf { r } = 0 . 9 3 \\right)$ (Figure $S 3$ ),thus furthervalidating the RNA-Seq analysis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expression pattern of genes in starch metabolism ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To gain insight into the expression pattern of genes involved in starch metabolism in the two NILs,we identified 128 genes related to this pathway in maize through manual curation of the MapMan,MaizeCyc,and KEGG databases (Kanehisa and Goto 2ooo; Usadel et al.2oo9). A total of 81 genes related to starch metabolism were identified in the expression data in kernels at 14 and 21 DAP,including 42 genes involved in starch biosynthesis and 39 involved in starch degradation (Table S5). These 81 genes were grouped into three clusters (Figure 3E). Type l,with most of the genes related to starch biosynthesis, has higher expression levelsat 14 DAP than at 21 DAP in both NILs. In contrast, type Il,which contains most of the genes related to starch degradation,has lower expression levelsat 14 DAP than at 21 DAP.These results were consistent with higher levels of starch synthesis at early stages,with starch degradation being activated at later stages.Type Il genes, which have similar expression levels at both stages,contain both biosynthesis and degradation genes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Among 81 available genes in starch metabolism，seven DEGs between both NILs were detected at 14 DAP and none at 21 DAP，including ZmHXK3a （GRMZM2Go68913） in the introgressed fragment interval,AGPLLZM (GRMZM2G391936) on chromos0me 1,SSV(GRMZM2G130043) on chromos0me 4, ZmGPE5 （GRMZM2G011662） on chrom0s0me 6，GBSSIl (GRMZM2G008263) on chromos0me 7,ZmHXK3b(GRMZM2 G467069) on chromosome 8,and Du1(GRMZM2G141399) on chromosome 10 (Figure 5). Four DEGs，ZmHXK3a，SSV, ZmHXK3b and Du1,are upregulated in NIL_B while three DEGs，AGPLLZM，ZmGPE5 and GBSSll，are downregulated, which are mostly consistent with the roles of the encoded enzymes in starch metabolism.Upregulation of ZmHXK3a and ZmHXK3b would result in more G6P,thereby providing more substrate for the synthesis of ADP-glucose and thus accelerating starch metabolic processes.As expected，the expression of Du1,encoding starch synthase,is upregulated. A newly identified gene，SSV，also encoding a starch synthase，has the same expression pattern as Du1 likely owing to their similar functions in starch synthesis. In contrast, GBSSll,encoding a granule-bound starch synthase, has the opposite expression pattern of Du1 and SSV.This may be because Du1 and SSV catalyze 1-4-α-glucose to produce amylopectin whereas GBSSll catalyzes 1-4-α-glucose to produce amylose.These results confirmed the effect of qHS3 on starch content in maize kernel. The expression of AGPLLZM，encoding the AGPase large subunit，is downregulated，which might be due to negative feedback. ZmGPE5，encoding a glucose-6-phosphate 1-epimerase，is also downregulated which might have little effect on the starch content because of its role in balancing two intermediate products in the starch biosynthesis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The molecular mechanisms of starch biosynthesis and accumulation in maize kernels are central for improving grain yield and quality.Previous studies have attempted to definea clear framework for starch metabolic pathways in maize and other cereals (Jeon et al. 201o; Walley et al. 2013). Additional knowledge about maize starch metabolism,and particularly itsregulation,could have a substantial impact on maize grain quality.In this study,the genomic and transcriptomic analyses of developing maize kernels at 14 and 21 DAP from a pair of ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d30d3adcae3d1a997bcf1b2ba21005cbbb491a746fa5896c7f2bd3128f83a98.jpg",
+        "img_caption": [
+            "Figure4.Relativeexpressionratiobetweennear-isogeniclines (NIs)of10genes involvedinthestarchmetabolicpathway n kernels at different developmental stages (14 and 21 d after pollination) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Expression levels were normalizedtoACTIN.Foreach plot,the leftcolumnsrepresenttheresults inqPCR,while theright columns represent RPKM in RNA-Seq. Error bars represent SE $( n = 3 )$ L： ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7913f296b7be97daa7af61c76981ff265d4d68a02d3ded42af08f148c3f0847f.jpg",
+        "img_caption": [
+            "Figure 5.Overview of the coexpression network caused by qHS3 in maize kernel ",
+            "Seven diferentially expressd genes (DEGs)are highlighted in the starch biosynthesis pathway Red represents upregulated genes,and blue represents downregulated genes.The cytosol and amyloplast compartments are indicated. $\\propto$ D-G1P, $\\propto - \\infty$ （204 glucose-1-phosphate; $\\propto$ -D-G6P， $\\propto - \\infty$ glucose-6-phosphate; $\\beta$ -D-G6P， $\\beta \\cdot D$ glucose-6-phosphate； ADPG，ADP-glucose； BT1, ADP-glucose transporter; GPT, glucose $1 / 6$ phosphate transporter; GlcT,glucose transporter; UDPG, UDP-glucose; UGPase, UDP-glucose pyrophosphorylase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NILswith different starch content indicatethatanumberof genes might be responsible for the variable starch contents caused by $q H S _ { 3 }$ on chromosome 3.The altered regulation of the candidate genes in qHS3 in NIL_B at 14 DAP lead to higher activities of several key enzymes in the starch metabolic pathway,which likely resulted in increased starch content. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Potential causal genes for qHS3 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Whole-transcriptome sequencing approaches,such as RNASeq,as well as the whole-genome sequencing approaches have been a popular method for identifying the causal genetic factors controlling phenotypic variation since Ng et al. (2010) reported the first successful application of exome sequencing to discover a causative mutation. Because RNA-Seq provides information on both the genomic and transcriptomic variation of a mutant or QTL,it isan efficient strategy for mapping genes and understanding their transcriptional regulation.Recently, Barrero et al.(2o15) identified two adjacent genes,PM19-A1 and A2,as candidates for a major dormancy QTL by transcriptomic analysis of wheat NILs.This underscores the possibility of identifying candidate genes underlying given QTL in plants by RNA-Seq.In this study，76 genes with nonsynonymous SNPs and $3 8 4$ DEGs in the introgressed fragment，with 22 genes having both nonsynonymous mutations and differential expression (Tables S3,S4),might be responsible for qHS3.According to the functional annotation of these genes，only GRMZM2Go68913 (ZmHXK3a), encodes a hexokinase involved in starch metabolism,making it a potential causative gene for elevated starch content in NIL B.A G-to-A transition occurs in the exon 9 of ZmHXK3a, which converts glutamic acid to lysine at amino acid residue 471.In addition,ZmHXK3a is upregulated in NIL_B at both 14 and 21 DAP (Figure S3; Table S4)，which also supports that ZmHXK3a might be one of the important candidate genes for qHS3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZmHXK3a encodes a key enzyme,converting glucose to G6P,and therefore may play important roles in adjusting the rate of starch synthesis,due to G6P's role as an important intermediate product in starch metabolism.Intensive investigations of hexokinases in numerous plant species have revealed their distinct roles in plant metabolism, including controlling starch content (Veramendi et al.1999; Giese et al.2oo5).  In maize，nine ZmHXK gene family members have been identified (Zhang et al. 2014). Two of these genes, ZmHXK3a and $Z m H X K 3 b$ ，are homologous to OsHXK3 in rice (Zhang et al.2o14).They are both upregulated in NIL_B kernels at 14 DAP,suggesting that both of these hexokinase genes could exhibit the same function in controlling starch content.The fact that ZmHXK3b has the same expression pattern as ZmHXK3a but does not have a QTL associated with it indicates that the regulation of ZmHXK3b is likely a secondary effect of a gene within the qHS3 interval.To validate whether $Z m H X K 3 a$ controls qHS3, one direct way is to overexpress or knockdown ZmHXK3a to see whether the starch content in maize kernel will change. In addition,the mechanism of ZmHXK3a regulating starch variation could occur at the post-transcriptional or protein level.Thus，analyzing the enzyme activity of different ZmHXK3a alleles may also validate whether ZmHXK3a controls qHS3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The maximum difference in kernel starch content between NILs occurred at 21 DAP，whereas no significant difference was seen at 14 DAP， suggesting that the transcriptional regulation of starch metabolism likely impacts earlier stages.Thus,the causal genes for qHS3 could include DEGs involved in starch metabolism in the qHS3 interval or genes in that interval regulating DEGs in starch metabolism outside the QTL interval at14 DAP.Therefore,25 transcription factors with differential expression at 14 DAP are the second set of genes that may be responsible for qHS3.To determine whether these genes are the real causal genes for qHS3, fine mapping of qHS3 is necessary to narrow down the QTL interval. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transcriptional effect of the candidate genes for qHS3 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transcriptional regulation is one of the molecular mechanisms by which genes affect phenotypic variation.Altering the regulation of some candidate genes in the qHS3 region could therefore lead to transcriptional responses in related genes.The large fragment introgressed in NIL_B caused a largenumber of genes differentially expressed，which implies a complex regulatory framework involving the candidate genes in qHS3 region. Five more DEGs,AGPLLZM, SSV，GBSSll Du1 and ZmGPE5 were identified besides ZmHXK3a and ZmHXK3b.The expression pattern of all DEGs caused by the candidate genes for qHS3 is consistent with their activities in starch metabolism besides AGPLLZM, which is one large subunit of AGPase. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "One of the rate-limiting reactions in starch metabolism is the pyrophosphorylation of glucose-1-phosphate by AGPase, which forms ADP-glucose, the precursor of starch synthesis. AGPase isa heterotetramer composed of two large subunits and two small subunits,each of which is encoded by distinct genes (Hannah and James 2oo8). In maize for example, Shrunken2 (Sh2),AGPLLZM,and AGPLEMZM encode the large subunits，and Brittle2a (Bt2a)，Brittle2b (Bt2b)，AGPSEMZM, AGPSLZM,and AGPL3 encode the small subunits (Huang et al. 2014).The mutant characterization of sh2,bt2,agpsemzm and agpllzm in maize kernels provides evidence that downregulation of these three genes reduces AGPase activity and thus decreases starch content (Giroux and Hannah 1994; Huang et al. 2o14). However，all seven available genes encoding subunits of AGPase are downregulated in NIL_B at 14 DAP except for AGPSLZM,although AGPLLZM was the onlystatistically significant DEG among thesegenes (Table S5).This makes sense，given that AGPLLZM is the plastidial form of AGPase,and its downregulation has no effect on the total endosperm AGPase activity since around $9 5 \\%$ of the total AGPase in maize endosperm is extraplastidial (Denyer et al. 1996; Huang et al. 2014). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A new gene identified in starch metabolism ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Besides coexpression network in a specific metabolic pathway，RNA-Seq also provides an opportunity to mine new genes controlling a target trait and explain their functions. For example，Yang et al. (2o13b) identified five genes that participate in maize photoperiod pathway by RNA-sequencing the leaf tissue at the three-leaf stage from a pair of NILs for photoperiod sensitivity.The total number of genes encoding starch synthase is unknown in maize, although eight genes，namely Du1，SS1，Su2，SS2b-2，SS2c, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SS3b-1,SS3b-2,and SS4,were cloned usingmutantsin maize or via comparison with the rice genome (Gao et al. 1998; Harn et al.1998;Knight et al. 1998; Yan et al.2009a,b). Here,we detected a new starch synthase gene,SSV,upregulated in NIL_B as well as the known starch synthase gene,Du1.Their similar expression patterns indicate that they may have similar functions in starch biosynthesis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plantmaterials ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $B C _ { 5 } \\mathsf { F } _ { 2 }$ NIL parir maize (Zea mays L.) was grown with three biological replicates in the winter nursery of China Agricultural University in 2o11 in SanYa, Hainan province,China.The bulked leaves of each NILwere collected fromat least six individuals for DNA extraction.All plants were self-pollinated,and four immature earswere harvestedat14and 21 DAP foreach NIL in each replicate.Four kernels from each ear of one NlLwithin a replicate were randomlychosenand stored at $- 8 0 ^ { \\circ } C$ forRNA extraction.The remaining kernels of each ear were dried for measurement of starch content.Mature ears of NILs were also collected foranalysis of starch. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Measurement of starch content ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ineach biological replicate,a total of 15 ears were used to measure starch content in both NILs.Starch content in maize kernels was determined with a fermentable carbohydrate assay (Zhou and Bao 2o12). Fifteen immature or mature kernels from the middle section of each ear were ground to fine powder by Geno 2o1o Grinder(Spex,Metuchen,NJ, USA). Around 12o mg powder was placed into a 2 mL snap cap tube. An $\\alpha$ -amylase solution wasadded to each tube,then the tubes wereplacedina boilingwater bath for15 min.Tubes were then incubated at $5 0 ^ { \\circ } \\mathsf { C }$ for $1 . 5 \\mathsf { h }$ ，followed by addition of Glucoamylase.Finally, $3 \\mathsf { m g }$ yeast was added to ferment glucose into ethanol and carbon dioxide.Starch content was calculated as the weight loss due to fermentation $( \\mathsf { C O } _ { 2 } )$ and heat (ethanol).All ears were analyzed with fermentable carbohydrate assay for twice,and the average was taken as the starch content. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DNA extraction and genotyping ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DNA was extracted from leaf tissue of both NILs using the modified CTAB method (Murray and Thompson 198o）and genotyped with the MaizeSNP3K array containing3,o72 SNPs, a subset of the Ilumina MaizeSNP5o Beadchip (Ganal et al. 2011). SNP genotyping was performed on the Ilumina GoldenGate SNP genotyping platform at the National Maize Improvement Center of China,China Agricultural University. The quality of each SNP was assessed manually,and SNPswith poor quality were excluded from further analysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNA extraction and sequencing ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was isolated from frozen maize kernels with the Qiagen RNeasy kit (Qiagen，Valencia，CA，USA).RNA-Seq libraries with 15o- to 2oo-bp insert size were prepared using the Ilumina TruSeq mRNA-Seq kit and sequenced on the Illumina HiSeq 2ooo system with TruSeq SBS v3 reagents based on the protocol from Illumina (San Diego, CA, USA). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNA-Seq mapping, SNP calling and annotation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After removing reads containing sequencing adapters and poly-A as well as reads of low sequencing quality (missing rate $\\geq 0 . 0 0 1 \\dot { } ,$ ）through perl scripts,TopHat v2.o.9 (Trapnell et al. 2012)was used to map the single-end clean reads against the B73 reference genome sequence (B73 AGPv2; http://www. maizesequence.org). Only reads that mapped uniquely to the genome were retained for furtheranalysis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The uniquely mapped reads were sorted depending on their alignment position on each chromosome and then converted to SAM format using Picard tools and Samtools (Liet al.2oo9). Unpaired SNP callingwas performed using the Genome Analysis Toolkit pipeline (DePristo et al.2o11).SNPs detected as the same in all three biological replicatesand kept consistent in the same NIL at two developmental stages were used for subsequent analysis.SNPs were categorized asintergenic,exonic,or intronic based on their position.The genetic codes in which exonic SNPs were located were extracted to classify them as synonymous or nonsynonymous. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Quantification of gene expression ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The number of the uniquely mapped reads in each gene was counted using HTSeq vo.5.4p3 (Mortazavi et al. 2oo8),and the RPKM of each gene was calculated based on the length of the gene and reads mapped to it (Mortazavi et al. 2008). Only genes with RPKM showing consistent trends $( > 0 \\ \\mathsf { o r } = \\mathsf { o } )$ within three biological replicates simultaneously were included for furtheranalysis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Identification of DEGs ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To identify differentially expressed genes (DEGs),a model based on the negative binomial distribution was performed using DESeq R package (1.1o.1) with default settings (Anders and Huber 2o12).The false-discovery rate was controlled by the approach of Benjamini and Hochberg (1995).Gene expression levels were considered to differ significantly if (i) the adjusted P-value was $< 0 . 0 5$ in a t-test and (ii) the foldchange was $> 1 . 5$ between two samples (Anders and Huber 2012). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Principal component analysis and hierarchical clustering ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Principal component analysis was performed using a custom Rscript to analyze the raw expression values (i.e.,RPKM) for all identified genes in 12 samples.For the DEGs and the key genes in the starch metabolic pathway, hierarchical clustering was performed using Euclidean distance metric in the R script. For a given gene,Z-scores of the average RPKM in three replicates were also calculated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Functional gene classification and GO enrichment ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The software MapMan (http://mapman.gabipd.org) was used to annotate genes.A total of 35 Map Bins were classified in MapMan,including 4o,843 genes in the maize genome to facilitate the classification of DEGs.Gene ontology (GO) enrichment for DEGs was also analyzed with MapMan.The number of genes in each Bin was counted.Fisher's exact test was used to investigate the GO enrichment category. P-values were adjusted for multiple testing based on the false-discovery rate with the BH method (Benjamini and Hochberg 1995).Bins for which the false-discovery rate was $< 0 . 0 5$ were considered to be enriched. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "qRT-PCR ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "First-strand cDNA was synthesized using the ProtoScriptc DNA Synthesis kit (New England Biolabs,UK).Quantitative RT-PCR was carried out in triplicate for each sample using the SYBRGreen I kit(Takara Biotechnology, China) ona 75oo RealTime PCR System (Applied Biosystems,Foster City,CA, USA). Maize ACTiN wasused asa control fornormalization between samples.Relative quantification of genes was calculated using the comparative threshold cycle method (Livak and Schmittgen 2oo1). Supplemental Table S6 lists primers used for qRT-PCR. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Weappreciate George Singletary,Lan Zhou, Junjie Fu,Thomas Moloshok,Charlotte Martin and Brandon Van Allen for their technical support.This study Was supported by the National Natural Science Foundation of China (31421oo5), International Cooperation in Science and Technology Project in China (2014DFG3169o) and DuPont Pioneer. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "X.Y. performed the experiments,data analysis and wrote the manuscript; T.S.， W.M. andL.L. performed the data analysis;W.T. performed the field experiments；B.M.and Z.G.performed the RNA-Seq; L.J.and L.B.co-designed the study; Y.X.designed the study and wrote the manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Anders S,HuberW (2o12) Differential Expression of RNA-Seq Data at the Gene Level-the DESeq Package.EMBL,Heidelberg,Germany   \nBarrero JM,Cavanagh C,Verbyla KL,TibbitsJF,Verbyla AP,Huang BE, Rosewarne GM, Stephen S,Wang P,Whan A,Rigault P,Hayden MJ，Gubler F (2o15）Transcriptomic analysis of wheat nearisogenic lines identifies PM19-A1and A2as candidates fora major dormancy QTL. Genome Biol 16:93   \nBenjamini Y, Hochberg Y(1995) Controlling the false discovery rate: A practical and powerful approach to multiple testing.J Roy Stat Soc B Met 57:289-300   \nChen J,Zeng B,Zhang M,Xie S,Wang G, Hauck A,Lai J(2o14) Dynamic transcriptome landscape of maize embryo and endosperm development.Plant Physiol 166:252-264   \nDenyer K, Dunlap F,Thorbjornsen T, Keeling PL,Smith AM (1996) The major form of ADP-glucose pyrophosphorylase in maize endo sperm is extra-plastidial.Plant Physiol 112:779-785   \nDePristo MA,Banks E,Poplin R,Garimella KV,Maguire JR,Hartl C, Philippakis AA，del Angel G，Rivas MA，Hanna M (2011) A framework for variation discovery and genotyping using next-generation DNA sequencing data.Nat Genet 43: 491-498   \nDoehlert DC,Kuo TM,Felker FC(1988) Enzymes of sucrose and hexose metabolism in developing kernels of two inbreds of maize.Plant Physiol 86: 1013-1019   \nEllis RP,Cochrane MP,Dale MFB,Duffus CM,Lynn A,Morrison IM, Prentice RDM,Swanston JS,Tiller SA (1998) Starch production and industrial use.J Sci Food Agr 77: 289-311   \nFu FF,Xue HW(2o1o) Coexpression analysis identifies Rice Starch Regulator1,a rice AP2/EREBP family transcription factor，asa 927-938   \nGanal MW, Durstewitz G, PolleyA, Bérard A, Buckler ES, Charcosset A, Clarke JD,Graner E-M, Hansen M,JoetsJ(2o11)A large maize(Zea mays L.） SNP genotyping array: Development and germplasm genotyping，and genetic mapping to compare with the B73 reference genome. PLoS ONE 6: e28334   \nGao M，Wanat J，Stinard PS，James MG，Myers AM (1998) Characterization of dull1,a maize gene coding for a novel starch synthase.Plant Cell 10: 399-412   \nGiese JO，Herbers K，Hoffmann M，Klosgen RB，Sonnewald U (2005） Isolation and functional characterization of a novel plastidic hexokinase from Nicotiana tabacum. FEBs Lett 579: 827-831   \nGiroux M，Hannah L (1994） ADP-glucose pyrophosphorylase in shrunken-2 and brittle-2 mutants of maize.Mol Gen Genet 243: 400-408   \nGoldmanI，Rocheford T，Dudley J（1993） Quantitative trait loci influencing protein and starch concentration in the llinois long term selection maize strains.Theor Appl Genet 87: 217-224   \nHannah LC,James M (2oo8) The complexities of starch biosynthesis in cereal endosperms. Curr Opin Biotech 19: 160-165   \nHarn C, Knight M, Ramakrishnan A, Guan H, Keeling PL,Wasserman BP (1998)Isolation and characterization of the zSSlla and zSSlib starch synthase cDNA clones from maize endosperm.Plant Mol Biol 37: 639-649   \nHennen-Bierwagen TA，Myers AM，Becraft P (2013）Genomic specification of starch biosynthesis in maize endosperm. Seed Genomics: 123-137   \nHuang B,Hennen-Bierwagen TA，Myers AM(2o14） Functions of multiple genes encoding ADP-glucose pyrophosphorylase subunits in maize endosperm,embryo,and leaf.Plant Physiol 164: 596-611   \nJeon JS，Ryoo N，Hahn TR，Walia H，Nakamura Y(2o1o） Starch biosynthesis in cereal endosperm.Plant Physiol Biochem 48: 383-392   \nKanehisa M,Goto S (2ooo) KEGG: Kyoto encyclopedia of genes and genomes. Nucleic Acids Res 28: 27-30   \nKnight ME, Harn C, Lilley CE, Guan H, Singletary GW,Mu-Forster C, Wasserman BP,Keeling PL (1998) Molecular cloning of starch synthase I from maize (W64） endosperm and expression in Escherichia coli. Plant J14: 613-622   \nLai J,Dey N,Kim C-S,Bharti AK,Rudd S,Mayer KF,Larkins BA,Becraft P,Messing J(2oo4) Characterization of the maize endosperm transcriptome and its comparison to the rice genome.Genome Res 14: 1932-1937   \nLi H,Handsaker B,Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R (2oo9) The sequence alignment/map format and SAMtools. Bioinformatics 25: 2078-2079   \nLivak KJ,Schmittgen TD (2oo1) Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method. Methods 25: 402-408   \nLu X, Chen D,Shu D,Zhang Z,Wang W, Klukas C, Chen L-l,Fan Y, Chen M,Zhang C(2o13) The differential transcription network between embryo and endosperm in the early developing maize seed.Plant Physiol 162: 440-455   \nMéchin V,Thévenot C,Le Guilloux M,Prioul JL, Damerval C (2007) Developmental analysis of maize endosperm proteome suggests a pivotal role for pyruvate orthophosphate dikinase.Plant Physiol 143:1203-1219 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Martin C,Smith AM (1995) Starch biosynthesis.Plant Cell7:971 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mortazavi A,Williams BA,McCue K, Schaeffer L,Wold B (2008) Mapping and quantifying mammalian transcriptomes by RNASeq. Nat Methods 5: 621-628   \nMurray M,Thompson WF(198o） Rapid isolation of high molecular weight plant DNA. Nucleic Acids Res 8: 4321-4326   \nMyers AM, Morell MK, James MG, BallSG (2ooo) Recent progress toward understanding biosynthesis of the amylopectin crystal. Plant Physiol 122: 989-998   \nNg SB，Buckingham KJ,Lee C,Bigham AW,Tabor HK,Dent KM, Huff CD, Shannon PT, Jabs EW，Nickerson DA (2010） Exome sequencing identifies the cause of a mendelian disorder.Nat Genet 42: 30-35   \nPrioul JL,Méchin V,Lessard P,Thévenot C,Grimmer M,ChateauJoubert S,Coates S, Hartings H, Kloiber-Maitz M,Murigneux A (2008)A joint transcriptomic, proteomic and metabolic analysis of maize endosperm development and starch filling.Plant Biotechnol J6: 855-869   \nSéne M，Causse M，Damerval C，Thévenot C，Prioul JL (2000) Quantitative trait loci affecting amylose,amylopectin and starch content in maize recombinant inbred lines.Plant Physiol Biochem 38: 459-472   \nThimm O, Bläsing O,Gibon Y,Nagel A,Meyer S,Krüger P, Selbig J, Müller LA,Rhee SY, Stitt M (2oo4) Mapman: A user-driven tool to display genomics data sets onto diagrams of metabolic pathways and other biological processes. Plant J37: 914-939   \nTsai C，Salamini F，Nelson O (197o） Enzymes of carbohydrate metabolism in the developing endosperm of maize. Plant Physiol 46: 299-306   \nUsadel B,Poree F, Nagel A, Lohse M, Czedik-Eysenberg A, Stitt M (2009) A guide to using MapMan to visualize and compare Omics data in plants: A case study in the crop species, Maize. Plant Cell Environ 32: 1211-1229   \nVeramendi J, Roessner U, Renz A,Willmitzer L, Trethewey RN (1999) Antisense repression of hexokinase 1 leads to an overaccumulation of starch in leaves of transgenic potato plants but not to significant changes in tuber carbohydrate metabolism.Plant Physiol 121: 123-134   \nWalley JW, Shen Z, Sartor R,Wu KJ,Osborn J,Smith LG, Briggs SP (2013) Reconstruction of protein networks from an atlas of maize seed proteotypes. Proc Natl Acad Sci USA 110: E48o8-E4817   \nWassom JJ,Wong JC, Martinez E, King JJ, DeBaene J, Hotchkiss JR, Mikkilineni V,Bohn MO,Rocheford TR (2oo8) QTL Associated with maize kernel oil, protein,and starch concentrations; kernel mass;and grain yield in llinois high oil $\\times \\mathsf { B 7 3 }$ backcross-derived lines. Crop Sci 48: 243   \nYan HB,Pan XX,Jiang HW,Wu GJ (2oogb) Comparison of the starch synthesis genes between maize and rice: Copies,chromosome location and expression divergence. Theor Appl Genet 119: 815-825   \nYan H,Jiang H,Pan X,Li M,Chen Y,Wu G (2oo9a) The gene encoding Starch synthase Ilc exists in maize and wheat. Plant Sci 176: 51-57   \nYang G,DongY,LiY,Wang Q,Shi Q,Zhou Q(2o13a) Verification of QTL for grain starch content and its genetic correlation with oil content using two connected RIL populations in high-oil maize. PloS ONE 8: e53770   \nYang Q,LiZ,Li WQ, Ku LX,Wang C, Ye JR,Li K,Yang N,LiYP,Zhong T (2013b) CACTA-like transposable element in ZmCCT attenuated photoperiod sensitivity and accelerated the postdomestication spread of maize. Proc Natl Acad Sci USA 10: 16969-16974   \nYonekura-Sakakibara K，Tohge T，Matsuda F，Nakabayashi R, Takayama H,Nida R,Watanabe-Takahashi A, Inoue E, Saito K (2008） Comprehensive flavonol profiling and transcriptome coexpression analysis leading to decoding gene-metabolite correlations in Arabidopsis.Plant Cell 2o:2160-2176   \nZeeman SC,Kossmann J,Smith AM (2o1o) Starch: Its metabolism, evolution,and biotechnological modification in plants.Annu Rev Plant Biol 61: 209-234   \nZhang J,Lu X, Song X,Yan J,Song T,Dai J,Rocheford T,Li J (2008) Mapping quantitative trait loci for oil，starch，and protein concentrations in grain with high-oil maize by SSR markers. Euphytica 162: 335-344   \nZhang Z,Zhang J,Chen Y,LiR,Wang H,DingL,Wei J(2o14) Isolation, structural analysis,and expression characteristics of the maize (Zea mays L.) hexokinase gene family.Mol Biol Rep 41: 6157-6166   \nZhou L,Bao X (2o12） High throughput method for measuring total fermentables in small amount of plant part.U.S.Patent 8,329,426 [P]. 2012-12-11 phosphate； $\\beta$ -D-G6P， $\\beta$ -Dglucose-6-phosphate； ADPG, ADP-glucose; AGPase,ADP-glucose pyrophosphorylase; BT1, ADP-glucose transporter;GBSS,Granule-bound starch synthase;GlcT，glucose transporter;GPE，glucose-6-phosphate 1-epimerase；GPT，glucose $1 / 6$ -phosphate transporter；HXK, hexokinase； PGMase， phosphoglucomutase;SBE，starchbranching enzyme; SS， starch synthase； SuSy， sucrose synthase;UDPG， UDP-glucose;UGPase， UDP-glucose pyrophosphorylase.   \nFigure S2.Expression patterns of differentially expressed genes (DEGs) between NIL_A and NIL_B at two stages Figure S3.Plots of the correlation between expression level estimated by RNA-Seq and RT-PCR   \nThe Xaxis represents relative expression values from RT-PCR. Theyaxis represents the RPKM values from RNA-Seq.Both values are normalized with the logarithm to base 1o.The r-valueisa Pearsoncorrelation coefficient.   \nTable S1. Summary of RNA-Seq yields and alignments for 12 samples   \nTable S2. List of genes expressed in 12 samples   \nTable S3.Predicted effects of SNPs polymorphicbetween NILs identified by RNA-Seq and Array   \nTable S4.List of DEGs between NILs   \nTable S5.List of all genes involved in starch metabolism Table S6.List of PCR primers used in this study ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of thisarticle at thepublisher's web-site. Figure S1.A simplified starch metabolic pathway in maize kernel,modified from pathways defined for other cereals The cytosol and amyloplast compartments are indicated. $\\alpha$ -D-G1P， $\\alpha$ -D glucose-1-phosphate; $ { \\alpha }$ -D-G6P， $\\propto - \\infty$ glucose-6- ",
+        "page_idx": 10
+    }
+]

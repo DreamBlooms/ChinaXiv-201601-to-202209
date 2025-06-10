@@ -1,0 +1,113 @@
+# 有限温度 $\mathrm { S i } _ { \mathrm { x } } \mathrm { G e } _ { 1 - \mathrm { x } }$ 合金介电函数第一性原理模拟
+
+杨家跃」 刘林 华1,2　谭建宇 ²
+
+(1.哈尔滨工业大学 能源科学与工程学院，哈尔滨150001；2.哈尔滨工业大学(威海)汽车工程学院，威海 264209)
+
+摘要：基础辐射物性介电函数在热辐射研究中扮演了重要的角色。本文通过运用第一性原理分子动力学(AIMD)方法研究了$\mathrm { S i _ { x } G e _ { l - x } }$ 合金的介电函数随温度变化的规律。以热平衡构型作为输入结构，AIMD方法可有效计算不同温度下固体材料的电子能带结构，进而得到介电函数。研究表明，在300 K温度下 $\mathrm { S i _ { x } G e _ { l - x } }$ 合金介电函数的理论计算值与对应的实验结果吻合；且随着合金中Si/Ge比例的增加，合金的禁带宽度增大，介电函数虚部主峰位置呈现红移且幅值增强。
+
+关键词：基础辐射物性；介电函数；温度；第一性原理分子动力学中图分类号：TK123 文献标识号：A
+
+# First-principles Study on Finite Temperature Dielectric Function of $\mathbf { S i _ { x } G e _ { 1 - x } }$ Alloy
+
+YANG Jia-Yue' LIULin-Hua' TAN Jian-Yu² (1.School of Energy Science and Engineering,Harbin Institute of Technology,Harbin 15ooo1, China;
+
+2.School of Automobile Engineering,Harbin Institute of Technology at Weihai, Weihai 264209, China
+
+Abstract: The fundamental thermophysical parameter dielectric function plays a significant role in thermalradiative research.In the work, the temperature dependence of dielectric function of $\mathrm { S i _ { x } G e _ { 1 - x } }$ alloys is studied with the first-principles molecular dynamics (AIMD) method. Choosing thermally balanced configurations as input structure for input offirst-principles calculations,the AIMD approach can naturally include temperature effect into computing electronic band structure and dielectric function of solids.The calculated results of room temperature dielectric function of $\mathrm { S i _ { x } G e _ { 1 - x } }$ alloy demonstrate good agreement with experimental data. Moreover, as the ratio of Si/Ge increases,the energy gap of the alloy enlarges,the dominant peak of dielectric function shifts to lower energy and the amplitude damps.
+
+Key words: Thermophysical parameters; Dielectric function; Temperature; First-principles molecular dynamics
+
+# 0前言
+
+热辐射研究可主要归纳为基础物性参数的获得和热辐射方程的求解等两个方面。目前随着计算机技术和相关算法的发展，热辐射方程的求解日益成熟和完善；而限于现有的实验条件，常温尤其是高温下固体材料的基础物性参数如介电函数难以直接测量。以 $\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金材料为例，因其速度快且其生产工艺与硅加工工艺相兼容等优点[1]， $\mathrm { S i _ { x } G e _ { 1 - X } }$ 合金在无线通信、雷达探测和传感通信等领域中扮演了极其重要的角色[2]。通过研究 $\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金物性参数介电函数的温度依赖性，不仅可以加深对其微观电子能带结构和电子跃迁行为的理解，而且能拓展其在高温环境下的应用。
+
+目前， $\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金的介电函数主要通过反射测量法(反射法)和椭圆偏振仪光谱测量法(椭偏法)两种方法测量获得[3]。Schmidt等[4]通过反射法测量得到了300K和90K温度下该合金材料的发射光谱和介电函数，但忽略了对材料的表面氧化层进行修正。Jellison等[5]通过椭圆偏振仪测量了常温下8种$\mathrm { S i _ { x } G e _ { 1 - X } }$ 合金样品的介电函数，并分析了Si/Ge比例成分和基底材料对合金光学性质的影响。但由于实验条件所限，如高温氧化和自身热辐射等因素[，高温光学常数无法由实验直接测量。因此需要借助于理论方法以模拟高温下固体材料的介电函数。
+
+第一性原理分子动力学(AIMD)方法，因其有效结合晶格动力学理论和第一性原理方法，能准确计算有限温度下固体材料的光学性质。Ibrahim等[7首次提出了该方法并成功预测了300-1073K温度内砷化镓和硅等材料在可见光-紫外光谱范围内其介电函数随温度的变化规律。
+
+本文通过运用AIMD方法以计算有限温度下$\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金的电子能带结构、态密度和介电函数。为了与实验结果进行比较，本文选取的主要计算温度为 $3 0 0 \mathrm { K }$ 。此外，为研究Si/Ge比例的不同对该合金电子能带结构和介电函数的影响，本文选取了 $\scriptstyle \mathbf { x } = 1$ ，0.5和0等三种情况。
+
+# 1研究方法
+
+温度影响固体材料电子能带结构和介电常数的机理主要体现在三个方面：电子-声子相互作用，声子-声子相互作用和热膨胀。而通过选取固体材料在不同温度下的热平衡构型作为第一性原理计算的输入结构，AIMD方法能自然地引入上述三种温度效应到介电函数的计算中。
+
+$\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金的晶格为金刚石结构，属于面心立方晶系。本文选取了包含64原子的理想超晶胞作为初始结构，并建立了 $\mathbf { x } { = } 1$ ,0.5和0等三种材料的超晶胞结构，其中 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 } 6 4$ 原子的超晶胞结构，如图1所示。而采用第一性原理方法计算得到的常温下三种材料对应的晶格常数分别为10.92A，11.02A和11.29A，与实验值吻合(误差约为 $1 \%$ [3]。
+
+![](images/d30a4e082313932bf1c4ddf06a65db657277afa5e63a5d53367fa7ca87f574e5.jpg)  
+图 $1 \mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 合金的64原子理想超晶胞结构Fig.1 Ideal 64-atom supercell structure of $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$
+
+为获取固体材料不同温度下的热平衡构型，本文采用Quantum-Espresso软件中的Car-Parrinello分子动力学(CPMD)模块 [8]。在分子动力学计算中，本文选用Verlet算法以控制离子实和电子的运动并引入Nose-Hoover热浴使得粒子体系的温度保持恒定[9]。为满足绝热近似条件，电子的虚拟质量设置为400单位原子质量而时间步长为10a.u.(1 a.u. $\phantom { - } 2 . 4 1 8 9 \times$ $\boldsymbol { 1 0 ^ { - 1 7 } \mathrm { s } } )$ 。在库伦力作用下，离子实偏离其平衡位置进行振荡运动。经过足够长时间(约为10000时间步长)的动力学运动，原子体系达到热平衡状态，其判断标准是温度波动的幅度在 $10 \%$ 以内。而不同温度下热平衡结构的选取标准是平衡构型的瞬时温度最接近于初始设置温度。
+
+通过选取热平衡构型作为初始结构，第一性原理方法可准确计算有限温度下电子能带结构、态密度和介电函数。介电函数计算主要通过第一性原理方法实现，计算所采用的鹰势为投影缀加平面波类型，其中选取的截断能为 $3 0 0 ~ \mathrm { e V }$ 而布里渊区k网格为$8 \mathrm { x } 8 \mathrm { x } 8$ 。由于采用局域密度近似作为交换关联势，该合金材料的能带间隙宽度的计算结果低于实验值，因此本文采用了 $0 . 5 \mathrm { e V }$ 的剪刀差。由于超晶胞中包含的原子数过多，涉及的计算量比较繁重且常温下多体效应对 $\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金的介电函数影响较小，故本文采用单粒子近似[10]以计算介电函数。
+
+根据以上计算得到的不同温度下的电子能带结构和态密度，本文通过第一性原理方法能有效计算有效温度介电函数。基于费米黄金定律[11]，介电函数的虚部为
+
+$$
+\varepsilon _ { 2 } ( \omega ) = \frac { 4 \pi ^ { 2 } e ^ { 2 } } { m ^ { 2 } \omega ^ { 2 } } \sum _ { c , \nu } \left| P _ { c , \nu } \right| ^ { 2 } \delta ( E _ { c } - E _ { \nu } - \hbar \omega )
+$$
+
+该公式采用SI单位制。其中， $c , \ \nu$ 分别代表导带和价带， $P$ 为动量跃迁矩阵元， $\hbar$ 为约化普朗克常数， $m , e$ 分别为电子有效质量和电荷。狄拉克函数 $\cdot \delta$ 保证电子跃迁时能量守恒。实部 $\dot { \varepsilon } _ { I }$ 可通过Kramers-Kronig关系式[12]由虚部 $\displaystyle { \langle \varepsilon _ { 2 } }$ 计算得到。
+
+# 3结果与讨论
+
+# 3 $\mathrm { . 1 \ S i _ { x } G e _ { 1 - x } }$ 能带结构
+
+为研究合金中Si/Ge包含比例的不同对其电子能带结构的影响，本文选取了 $\scriptstyle \mathbf { x } = 0$ ，0.5和1等三种材料。图2为绝对0K温度下上述三种材料的在其对应原胞的布里渊区内的电子能带结构，其中引入 $0 . 5 \mathrm { e V }$ 的剪刀差以修正禁带宽度。当 $\scriptstyle \mathbf { x } = 0$ 时，合金为纯锗材料，其导带底位于第一布里渊区内L点附近而禁带宽度约为 $0 . 6 6 \mathrm { e V }$ ； $\scriptstyle \mathbf { X } = 0 . 5$ 时，合金中硅锗包含比例相同，其表现为间接带隙型半导体材料，其带隙宽度约为$1 . 0 \ \mathrm { e V }$ ； $\scriptstyle \mathbf { x } = 1$ 时，合金为纯硅材料，其导带底位于第一布里渊区内X点附近，其禁带宽度约为 $1 . 1 2 \mathrm { e V }$ 。由此可知，随着硅包含成分的增加， $\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金的禁带宽度增大，且导带底的位置由L点转移到X点附近。
+
+![](images/69e6a93d915e1ddeb83d8640bbc7f26d82a1b43a16c639de04dd6b0fceca5940.jpg)  
+图 $2 0 \mathrm { K }$ 下 $\mathrm { S i _ { x } G e _ { l - x } }$ 合金在2-原子原胞第一布里渊区内电子能带结构：(a) $\scriptstyle \mathbf { x } = 0$ ， (b) $\mathbf { x } { = } 0 . 5$ ，(c) $\mathbf { x } { = } 1$
+
+# 3.2电子跃迁和介电函数
+
+图3和4分别为 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 材料的基态电子能带结构、态密度和介电函数。如图4所示， $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 介电函数光谱曲线存在三个峰值结构，即 $\mathrm { E } _ { 0 }$ ， $\mathrm { E } _ { 1 }$ 和 $\mathrm { E } _ { 2 }$ ，分别位于 $3 . 5 ~ \mathrm { e V }$ ， $4 . 4 ~ \mathrm { e V }$ 和 $5 . 4 ~ \mathrm { e V }$ 等位置。介电函数峰值结构可由不同能级间的电子跃迁进行解释。如图3所示， $\mathrm { E } _ { 0 }$ 主要对应于I点价带顶到导带底之间的跃迁，但由于其对应的态密度分布较少，故峰的幅值较低；而E对应于X点价带到导带之间的直接跃迁，其对应的态密度分布多且电子跃迁强度高，因此峰的幅值大；而E对应于K点价带到导带之间的能级跃迁，虽然其态密度分布多，但电子跃迁强度较弱，因此峰的幅值较低。由此可见，介电函数的光谱结构主要由固体材料内电子跃迁微观机理所决定。
+
+108642  
+V 0  
+e  
+E -2-4-6-8-10-12L Γ X K L DOS
+
+![](images/dc624eac8f19c0fb0aef3f46ea720b8d1d513f882ae3e84cef6bfa392cbeb0fc.jpg)  
+Fig.2 Electronic band structure of $\mathrm { S i _ { x } G e _ { l - x } }$ alloy of the first Brillouin zone of 2-atom primitive cell at $0 \mathrm { K }$ ：(a) $\scriptstyle \mathbf { x } = 0$ (b) $\mathbf { x } { = } 0 . 5$ （c） $\mathbf { x } { = } 1$   
+图 $3 0 \mathrm { K }$ 下 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 电子能带结构和态密度  
+Fig. 3 Electronic band structure and density of states of $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$   
+图 $4 0 \mathrm { K }$ 下 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 介电函数Fig.4Dielectric function of ${ \mathrm { S i } _ { 0 . 5 } } \mathrm { G e } _ { 0 . 5 }$ at $0 \mathrm { K }$
+
+# 3.3有限温度 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 电子能带结构和态密度
+
+以 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 为例，本文通过运用AIMD方法计算了 $0 \mathrm { K }$ ， $3 0 0 \mathrm { K }$ 和 $6 0 0 \mathrm { K }$ 温度下该材料的电子能带结构和态密度。如图5(a)所示，随着温度的升高，电子能带结构的变化主要表现为：(a)禁带宽度减小；(b)价带带宽拓展；(c)能级简并度减小。由于电子的布居遵从费米-狄拉克分布规律，则随着温度升高，电子占据高能级态的概率增加，如图5(d)所示。相比于$0 \mathrm { K }$ ，在 $3 0 0 \mathrm { K }$ 和 $6 0 0 \mathrm { K }$ 温度下该材料的导带底向下移动，而价带顶的位置则基本保持不变；随着电子能带的迁移，禁带宽度的减小。此外，在热平衡构型中，晶格中原子分布的对称性被破坏，引起原子间相互作用势的非对称性，进而导致电子能级简并度的减小。
+
+![](images/065c3f0e6da5a3a593cc7b11735d3733d6f596d3b546b3637ec0814287ae7f6c.jpg)  
+图564-原子 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 材料在(a) $0 \mathrm { K }$ ，(b) $3 0 0 \mathrm { K }$ 和 $6 0 0 \mathrm { K }$ 温度下的电子能带结构以及(d)不同温度下的态密度Fig.5 Electronic band structure (a) at $0 \mathrm { K }$ ，(b)at $3 0 0 \mathrm { K }$ and (c) at $6 0 0 \mathrm { K }$ and (d) finite temperature density of states of 64-atom ${ \mathrm { S i } _ { 0 . 5 } } \mathrm { G e } _ { 0 . 5 }$
+
+# 3.4有限温度介电函数
+
+本文通过运用AIMD 方法计算得到了室温下$\scriptstyle \mathbf { x } = 1$ ，0.5和0等三种情况的介电函数，并与相应的实验数据进行比较[5-6,13]。通过比较发现，室温下三种材料介电函数的理论计算值与实验数据吻合极好，验证了AIMD方法的可行性。如图6所示，随着 $\textbf { x }$ 的增加，即硅在合金中包含比例的增加，合金的介电函数虚部的主峰位置呈现红移且峰值增大；该现象主要源于硅锗电子构型的差别，其中硅的电子构型 $\mathrm { 1 s ^ { 2 } 2 s ^ { 2 } s 2 p ^ { 6 } 3 s ^ { 2 } 3 p ^ { 2 } }$ 而锗的电子构型为$\mathrm { 1 s ^ { 2 } 2 s ^ { 2 } 2 p ^ { 6 } 3 s ^ { 2 } 3 p ^ { 6 } 3 d ^ { 1 0 } 4 s ^ { 2 } 4 p ^ { 2 } }$ ，故硅核内电子数少于锗，则电子-电子相互作用对光子吸收的影响相对较小。
+
+![](images/fbffb03219633301ca7b781488c309aa3ddc8e5324cab4c7a0486d11c141db52.jpg)  
+图 $6 3 0 0 \mathrm { K }$ 下 $\mathrm { S i _ { x } G e _ { l - x } }$ 合金的介电函数：(a)虚部，(b)实部Fig.6 Dielectric function of $\mathrm { S i _ { x } G e _ { l - x } }$ alloy at $3 0 0 \mathrm { K }$ ：(a)theimaginary part, (b) the real part
+
+![](images/0623dd1ad4c79feeea8d98e81ca4241dd372b9d1d38b659fa2212e6a1b9c8f37.jpg)  
+图7不同温度下 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 介电函数Fig.7Dielectric function of ${ \mathrm { S i } _ { 0 . 5 } } \mathrm { G e } _ { 0 . 5 }$ at different temperatures
+
+为研究温度对介电函数的影响，图7给出了$\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 材料在 $0 \mathrm { ~ K ~ }$ ， $3 0 0 ~ \mathrm { K }$ 和 $6 0 0 ~ \mathrm { K }$ 温度下的介电函数的理论计算结果。如图7所示，随着温度的增加，该材料的介电函数表现为： (a)峰幅值减小，(b)带宽拓展，(c)红移。而通过比较 $3 0 0 \mathrm { ~ K ~ }$ 和 $6 0 0 \mathrm { ~ K ~ }$ 温度下的计算结果发现，介电函数呈现红移现象但其变化幅度较小，此现象可通过对比两种温度下电子能带结构和态密度的变化进行解释。图5(d)给出了0K， $3 0 0 \mathrm { K }$ 和 $6 0 0 \mathrm { K }$ 温度下 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 材料的态密度。由方程(1)可知，电子能带结构和态密度是决定介电函数的重要参数；由于 $\mathrm { S i } _ { 0 . 5 } \mathrm { G e } _ { 0 . 5 }$ 合金在 $3 0 0 \mathrm { K }$ 和600K温度下的电子能带结构和态密度变化幅度较小，进而导致该合金的介电函数基本保持不变。介电函数光谱随温度的变化主要源于电子衰减和能带结构中禁带宽度的减小。
+
+# 4结论
+
+本文运用AIMD方法计算了有限温度下 $\mathrm { S i _ { x } G e _ { 1 - x } }$ 合金的电子能带结构、态密度和介电函数。研究发现，随着Si/Ge比例的增加，合金的禁带宽度随之增大，而介电常数虚部呈现红移现象。在晶格振动作用下，温度影响该材料电子能带结构的变化主要体现为禁带宽度减小和电子能级兼并度降低，而介电函数光谱结构则呈现为峰值衰减、带宽拓展和红移。
+
+# 参考文献
+
+[1]Levinshtein ME,Rumyantsev SL and Shur M S.Properties of Advanced Semiconductor Materials: GaN,AlN, InN, BN, SiC, SiGe [M].New Jersey: Wiley, 2001: 1-100   
+[2]Paul D J. Si/SiGe Heterostructures:From Material and Physics to Devices and Circuits [J].Semiconductor Science and Technology,2004,19(10):R75-R108   
+[3]Adachi S.Optical Constants of Crystalline and Amorphous Semiconductors:Numerical Data and Graphical Information[M]. Massachusetts:KluwerAcademic Publisher,1999:113-116   
+[4]Schmidt E and Vedam K.Electroreflectance in Ge/Si Alloys Under Hydrostatic Pressure [J]. Solid State Communications,1971,9(13): 1187-1191   
+[5]Jellison Jr G, Haynes T and Burke H. Optical Functions of Silicon-Germanium Alloys Determined Using Spectroscopic Ellipsometry [J].Optical Materials,1993, 2(2): 105-117   
+[6] Lautenschlager P, Garriga M, Vina L,et al. Temperature Dependence of the Dielectric Function and Interband Critical Points in Silicon [J].Physical Review B,1987, 36(9): 4821-4830   
+[7] Ibrahim Z, Shkrebtii A,Lee M,et al. Temperature Dependence of the Optical Response: Application to Bulk GaAsUsingFirst-PrinciplesMolecularDynamics Simulations [J].Physical Review B,2008,77(12): 125218   
+[8]Giannozzi P, Baroni S, Bonini N, et al. Quantum Espresso: A Modular and Open-Source Software Project for Quantum Simulations of Materials [J]. Journal of Physics: Condensed Matter, 2009,21:395502(1-20)   
+[9]Marx D and Hutter J.Ab Initio Molecular Dynamics: Basic Theory andAdvancedMethods[M]. Cambridge: Cambridge University Press,2009:30-50   
+[10] Hafner J.Ab Initio Simulations of Materials Using Vasp: Density Functional Theory and Beyond [J].Journal of computational chemistry,2008,29(13): 2044-2078   
+[11] Yu PY and Cardona M.Fundamentals of Semiconductors: Physics and Materials Properties [M].Fourth Edition.New York: Springer,2005:262-280   
+[12] Simmons JH and Potter K S.Optical Materials [M]. San Diego: Academic Press,1999:100-150   
+[13]Vina L，Logothetidis S and Cardona M. Temperature Dependence of the Dielectric Function of Germanium [J]. Physical Review B,1984,30(4): 1979-1991

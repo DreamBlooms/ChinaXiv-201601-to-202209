@@ -1,0 +1,604 @@
+[
+    {
+        "type": "text",
+        "text": "基于多重因素的个性化学习推荐系统",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "匡容，杨振国，刘文印(广东工业大学 计算机学院，广州 510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为解决现有学习推荐算法中存在的忽略对学生知识点掌握情况的分析、不能将知识掌握程度概率化等问题，提出一种基于多重因素的学习推荐方法。该方法综合考虑知识点的综合权重、错误率和失分率多个因素构建知识点掌握概率模型，并应用所提出的策略实现一个在线的个性化学习推荐系统。系统评估上对 200名高中生进行了一项调查，本系统推荐top-8知识点的准确率达到 $91 . 2 \\%$ ，F1达到 $78 . 4 \\%$ 。系统调查的结果显示了提出策略的有效性和可靠性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：定性推荐；推荐系统；电子学习 中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2018.07.0471 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multiple factors based personalized learning recommendation system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kuang Rong, Yang Zhenguo, Liu Wenyin+ (School ofComputer Science &Technology Guangdong University of Technology,Guangzhou 510o06,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorder to solve the problems existing inthe learningrecommendationalgorithm thatignore theanalysis of the students'knowledgepointsandcannotprobabilizethe kowledgemastery,thispaperproposedarecommendationmethodbased on multiple factors.The method focusedonthecomprehensive weightof nowledge points,errorrateandlossrate,and builta knowledge point mastery probability model,andapplied the proposed strategy to implement an online personalized earing recommendationsystem.Intermsof the systematic evaluation,through asurveyof2O0 highschool students,theacuracyof the top-8 knowledge points recommended by our system achieves significant performance,Precision: $91 . 2 \\%$ ,and F1: $78 . 4 \\%$ ： The results of the systematic survey reflect the effectiveness and reliability of the proposed strategy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:qualitative recommendation; recommender system; e-learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "考试最早起源于中国，是学校检测知识掌握情况的重要手段。在校中学生每年需要面对大量的考试（课堂测试，周考、月考等）。然而，在实际过程中考试检测的作用未得到充分的利用。在大多数中学，学校没有完善的成绩管理系统[1，大多以纸质成绩单存储，学生的历史成绩难以查询或分析；一个教师要负责上百个学生，难以针对每个学生的测试做具体分析，对学生学习效果的评价缺乏深入地挖掘分析；大部分学生因自身知识和总结归纳能力有限难以展开深入探究，常停留在成绩分数。如何最大程度地发挥测试的作用，为学生明确知识漏洞是本文关注的重点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网技术的不断发展[2]，教育领域涌现出很多前沿技术与应用，如数据挖掘技术[3]、推荐系统技术[4]、慕课[5]、网易公开课[等，这些成果改变了传统教学模式。现有学习推荐工作大多采用认知诊断模型[7,8]引入习题知识点矩阵、协同过滤方法[9,10]计算相似学生答题记录之间的相似度，根据相似学生进行推荐或概率矩阵分解方法[1将学生得分矩阵分解成一组潜在因子，再预测目标学生在习题上的得分进行推荐。然而，认知诊断方法不能将知识掌握程度概率化；协同过滤方法和概率矩阵分解方法均忽略了对学生知识点掌握情况的分析[12]，均导致推荐效果不佳。因此，针对目前中学的教育现状，及以上算法和技术的不足，本文运用基于知识点综合权重、错误率和失分率的多重因素来构建学生知识点掌握概率模型，从而确定为学生推荐的知识点。该概率模型还与传统的认知诊断方法、协同过滤方法和概率矩阵分解方法进行了大量实验对比，并在个性化学习推荐系统得到实现。本文实现的个性化学习推荐系统应用于湖南省湘潭县一中高三年级数学知识点的分析中，，促使学校更好地开展教学工作,提高教学质量[13]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 问题描述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在众多课程中，知识点的掌握程度是衡量学生知识掌握情况的最直接的标准，知识点能反映学生在学习过程中的不足和知识漏洞[14]。因此，知识点对于学生进行针对性学习具有重要意义。在教学过程中试题是非常重要的教育资源。通过测试能知道学生是否掌握了某个知识点，根据学生的测试得分了解学生弱项知识点的情况；并通过进行试题分析明确测试要点。所以，从学生日常测试信息中，提取有效因素构建推荐模型，向学生进行知识点推荐，以期望帮助学生在有限的时间内，弥补最重要的知识漏洞，有效地提高考试表现。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bec3ebc5252113b51cfcfbe860fee84f71fe21f68cf7f5e6eaf05739e0308427.jpg",
+        "table_caption": [
+            "表1知识点推荐涉及符号及描述"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>描述</td></tr><tr><td>S</td><td>学生集合</td></tr><tr><td>Su</td><td>学生u</td></tr><tr><td>T</td><td>试题集合</td></tr><tr><td>Tv</td><td>试题v</td></tr><tr><td>K</td><td>知识点集合</td></tr><tr><td>Kn</td><td>知识点n</td></tr><tr><td>G</td><td>学生成绩矩阵</td></tr><tr><td>gsuTv</td><td>学生Su在试题Tv的得分情况</td></tr><tr><td>Q</td><td>试题知识点关联矩阵</td></tr><tr><td>qr.K</td><td>试题Tv考查考查知识点Kn的情况</td></tr><tr><td>esTv</td><td>学生Su在试题Tv的错误率</td></tr><tr><td></td><td>学生Su在试题Tv的失分率</td></tr><tr><td>Wn</td><td>知识点n的综合权重</td></tr><tr><td>ReCsKn</td><td>系统为Su推荐知识点Kn的指数</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在知识点推荐问题中，有 $U$ 个学生 $S { = } \\{ S _ { 1 }$ ， $S _ { 2 }$ ，…， $S _ { u } \\}$ 参加某课程V道试题 $T { = } \\{ T _ { 1 } , \\ T _ { 2 } , \\ \\cdots , \\ T _ { \\nu } \\}$ 的测试，试题 $T _ { i }$ 的标准分为 $g _ { T i }$ ，其中考查了 $N$ 个知识点 $K { = } \\{ K _ { 1 } , ~ K _ { 2 } , ~ { \\cdots } , ~ K _ { n } \\}$ ， $U$ 个学生的习题得分矩阵 $G { = } [ g _ { \\cal { S } { u } T \\nu } ] _ { U \\times V ; }$ 其中， $g _ { S u T \\nu } { = } a ( 0 { \\leqslant } a { \\leqslant } { = } g _ { T \\nu , } g _ { T \\nu }$ 表示该试题 $T _ { \\nu }$ 的标准分)表示学生 $S _ { u }$ 在试题 $T _ { \\nu }$ 的得分为 $\\mathbf { \\Omega } _ { a }$ 。试题知识点关联矩阵 $Q { = } [ q { \\cal { T } } \\nu { \\cal { K } } n ] { \\cal { V } } { \\times } N .$ ，其中， $q _ { T \\nu K n } { = } 0$ 表示试题 $\\nu$ 没有考查知识点 $n$ ， $q _ { T \\nu K n } { = } 1$ 表示试题 $T _ { \\nu }$ 考查知识点 $K _ { n }$ 。由此，通过学生成绩得分 $g _ { S u T \\nu }$ 及试题知识点关系 $q _ { T \\nu K n }$ 提取学生 $S _ { u }$ 在知识点 $K _ { n }$ 上的失分率(lossrate, $l _ { S u K n _ { * } } .$ ,错误率(errorrate,esukn)以及该知识点的综合权重(comprehensive weight, $w _ { n }$ )，构建知识点推荐模型为学生进行知识点推荐，以期望帮助学生更加准确地了解自己的知识漏洞，及时弥补。文中涉及符号及相关描述如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于多要素的个性化知识点推荐算法基本思路主要由数据输入，多要素获取和输出推荐列表三个部分组成，如图1所示。每个部分的内容如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）数据输入。通过对学生成绩、试题信息进行数据处理，获得测试知识点列表（用于标记试题）；并将获得的学生考试得分数据如表2所示，以及试题知识点关联数据如表3所示，将表中数据分别转换为习题得分矩阵G和知识点试题得分矩阵Q输入。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）多要素获取。依据输入数据获取学生 $S _ { u }$ 在知识点 $K _ { n }$ 的错误率 $( e _ { S u K n } )$ 、失分率 $( l _ { S u K n } )$ 及知识点的综合权重 $\\left( w _ { n } \\right)$ ，对学生知识点掌握情况进行建模，获得知识点掌握概率模型，用推荐指数 $R e c _ { S u K n }$ 表示系统对学生 $S _ { u }$ 在知识点 $K _ { n }$ 上的推荐度，如表4所示。知识点推荐指数越高，越值得被推荐。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/470e3947bc9367e198dec767d213d7dca2113425680df5651e1c6611d0996042.jpg",
+        "table_caption": [
+            "Table 1Notations "
+        ],
+        "table_footnote": [
+            "表3试题知识点关联数据"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">学生成绩</td></tr><tr><td></td><td>T</td><td>T2</td><td>：</td><td>Tj-1</td><td>Tj</td><td>Tj+1</td><td>：</td><td>Tv</td></tr><tr><td></td><td>5</td><td>5</td><td></td><td>5</td><td>20</td><td>12</td><td></td><td>10</td></tr><tr><td>S1</td><td>5</td><td>5</td><td>…</td><td>0</td><td>12</td><td>5</td><td>：</td><td>7</td></tr><tr><td>S2</td><td>0</td><td>5</td><td>：</td><td>5</td><td>10</td><td>9</td><td>：</td><td>6</td></tr><tr><td>…</td><td>：</td><td>：</td><td></td><td>：</td><td>…</td><td>：</td><td>：</td><td>：</td></tr><tr><td>Su</td><td>5</td><td>0</td><td>：</td><td>0</td><td>5</td><td>6</td><td>：</td><td>9</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e08a7165e8137a443f90478cfd03a596614ea8be9a14ee985524d76b6fed8c4.jpg",
+        "table_caption": [
+            "Table2 Instances of test scores ",
+            "Table 3Relation matrix of questions and knowledge points ",
+            "表4知识点推荐指数数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">试题知识点关系</td></tr><tr><td></td><td>K</td><td>K</td><td>：</td><td>Kn</td></tr><tr><td>T1</td><td>1</td><td>0</td><td></td><td>0</td></tr><tr><td>T2</td><td>1</td><td>0</td><td></td><td>0</td></tr><tr><td>：</td><td>：</td><td>…</td><td></td><td>：</td></tr><tr><td>Tn</td><td>0</td><td>1</td><td>：</td><td>0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/107e8df6ff2be2ec4710d8f3ef448cb52832942f87c65e6c5745f21d38a6dc85.jpg",
+        "table_caption": [
+            "表2学生考试得分数据",
+            "Table 4Recommendation result matrix "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">知识点推荐程度</td></tr><tr><td></td><td>K</td><td>K</td><td>：</td><td>Kn</td></tr><tr><td>S1</td><td>0.723</td><td>0.511</td><td>：</td><td>0.234</td></tr><tr><td>S2</td><td>0.152</td><td>0.415</td><td>：</td><td>0.267</td></tr><tr><td>：</td><td></td><td>：</td><td>：</td><td>：</td></tr><tr><td>Su</td><td>0.347</td><td>0.871</td><td>：</td><td>0.454</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)输出推荐列表。根据学生知识点掌握程度，获得学生知识点当前的知识漏洞，并根据知识点薄弱程度（推荐指数$R e c _ { S u K n }$ )进行排序，向每个学生进行top-N个性化知识点推荐。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 知识点掌握概率模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在个性化学习推荐系统中，学生知识点掌握概率模型的构建是重点。学生知识点掌握概率反映了学生对知识点的掌握情况。主要目的是根据学生需要，识别出该科目知",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "识点的考核要点及学生错误多的知识点和丢分多的知识点，并为其推荐一定知识相关的学习内容。其中的主要策略是根据知识点的综合权重、错误率、失分率三个重要影响因素构建学生知识点掌握概率模型，来获得学生对知识点的掌握情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Torre 教授提出的认知诊断模型（DINA模型）[15]是在获取学生知识点掌握程度中使用最多的。DINA模型用期望最大似然(expectation maximization,EM)[16]估算学生对试题参数猜测率(slip)和失误率(guessing)，然后用后验概率获得学生的答题情况和知识点掌握情况[12]。但DINA模型得到的知识点掌握情况只有掌握或未掌握两种，容易造成数据丢失，导致知识点推荐不太准确；此外，DINA 模型求解过程中知识点不能过多，否则时间复杂度很高。本文针对DINA模型存在的缺陷，提出一种基于多因素的知识点掌握概率模型来求解学生知识点的掌握情况。认知诊断模型和学生知识点掌握概率模型的对比如图2所示，从图中的（3）可以看出学生 $\\mathbf { S } _ { 1 }$ 在认知诊断模型中已经掌握知识点 $\\mathrm { K } _ { 1 }$ ，不会向学生 $\\mathrm { S } _ { \\mathrm { l } }$ 推荐知识点 $\\mathbf { K } _ { 1 }$ 。而本文提出的模型求解结果认为学生 $\\mathbf { S } _ { 1 }$ 掌握还比较薄弱，在向学生推荐的知识点中会出现知识点 $\\mathrm { K } _ { 1 }$ 。下面对学生知识点掌握概率模型中的各要素进行详细说明。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3c283e926b89c8f87eae0c42c40add62ee48aa2be908a17b2cd3db270415b66.jpg",
+        "img_caption": [
+            "图1个性化知识点推荐算法的基本思路"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe508c127c4322f92446f86a1053a34d711de32600a9f3203417077605074c57.jpg",
+        "img_caption": [
+            "Fig.1Overview of the framework ",
+            "图2认知诊断模型和学生知识点掌握概率模型",
+            "Fig.2Cognitive diagnosis model versus the proposed model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1综合权重",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "知识点在考试查考过程中有一定的规律，用知识点的综合权重表示。综合权重表示知识点在考试中的重要程度，是知识点在多次考试中考核总分与多次试卷总分的比。某知识点的权重越高，说明该知识点越重要，是考试要点，值得被推荐。为了保证综合权重的合理性，在个性化学习推荐系统中，综合考虑知识点的历史考核权重及测试考核权重两个方面。历史考核权重为知识点在最近五年高考真题中的考核权重。万变不离其宗，真题从一定程度上反映了知识点的分布和考试的着重点。因此，分析知识点的历史权重至关重要。测试权重为知识点在学校测试（月考、期中考、期末考、模拟考等）中考核权重。教育不断发展，考试也日渐合理规范，新一年的考试对比往年，会有细微的调整，调整部分会通过学校测试反映出来。所以，分析知识点的测试权重也非常关键。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ w _ { n } } ^ { \\prime } = \\frac { \\displaystyle \\sum _ { i = 0 } ^ { \\nu } g _ { T _ { i } } q _ { T _ { i } K _ { n } } } { \\displaystyle \\sum _ { i = 0 } ^ { \\nu } \\sum _ { j = 0 } ^ { n } g _ { T _ { i } } q _ { T _ { i } K _ { n } } } , { w _ { n } } ^ { \\prime } \\in [ 0 , 1 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { w _ { n } = a ^ { * } h i s _ { - } w _ { n } } ^ { \\prime } + b ^ { * } t e s t _ { - } w _ { n } ^ { \\prime } } \\\\ { { w _ { n } = 0 ( t e s t _ { - } w _ { n } } ^ { \\prime } = 0 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析习题 $T _ { \\nu }$ 考核知识点 $K _ { n }$ 的情况，获得知识点权重 ${ w _ { n } } ^ { \\prime }$ ，知识点权重 $w _ { n }$ ’计算公式如式(1)所示， $g _ { T i }$ 表示试题 $i$ 的标准分数， $q _ { T i K j }$ 表示试题 $i$ 考查考查知识点 $j$ 的情况，权重的取值范围为[0,1]。根据式(1)，通过分析多年高考真题中知识点考核情况，计算出在高考真题中知识点 $n$ 的历史权重$h i s \\_ w _ { n } \\ ^ { \\prime }$ ，通过分析多次测试中知识点考核情况，计算出相应知识点的测试权重 $t e s t \\_ w _ { n } \\ ^ { \\prime }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合权重 $w _ { n }$ 的计算如式(2)所示。因考试出题大多数参考历史真题，并根据最新的考纲进行部分调整，在日常测试中体现出来。因此，综合权重涉及历史权重与测试权重两部分，并设置影响因子 $a , b$ 的比重进行线性相关，并通过分析5年高考真题和4次测试试卷获得影响因子 $a$ ： $b$ 约为7：3。若多次日常测试的知识考核权重为0，表示该知识点考核情况进行了调整，在接下来的考试中将不再进行考核，则综合权重为0。综合权重的取值范围为[0,1]。综合权重越高，说明该知识点越重要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 错误率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "错误率表示学生在多次考试中某知识点错误次数与该知识点考核次数的比。在个性化学习推荐系统中，某知识点未获得试题标准分即认定其错误。某知识点错误次数越多，说明该知识点是当前学生需要加强的点，也越值得被推荐。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "指数由高到低对知识点进行排序。推荐指数高的，优先推荐。根据学生将对推荐结果进行反馈，本文对推荐模型的推荐数量进行调整，力求推荐知识点更加合理。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle e _ { S _ { u } K _ { n } } = \\frac { \\displaystyle \\sum _ { k = 0 } ^ { \\nu } p _ { k } } { \\displaystyle \\sum _ { i = 0 } ^ { \\nu } q _ { T _ { i } K _ { n } } } , e _ { s _ { u } K _ { n } } \\in [ 0 , 1 ] , } } \\\\ { { \\displaystyle p _ { k } = \\left\\{ 0 , p ( { \\displaystyle g _ { T _ { i } } q _ { T _ { i } K _ { n } } } \\neq { \\displaystyle g _ { s _ { u } T _ { i } } q _ { T _ { i } K _ { n } } } ) \\right. } } \\\\ { { \\displaystyle \\left. 1 , p ( { \\displaystyle g _ { T _ { i } } q _ { T _ { i } K _ { n } } } = { \\displaystyle g _ { s _ { u } T _ { i } } q _ { T _ { i } K _ { n } } } ) \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { e } _ { S u K n }$ 表示学生 $S _ { u }$ 在知识点 $K _ { n }$ 上的错误率，为学生 $S _ { u }$ 在知识点 $K _ { n }$ 错误次数与知识点考核次数的比，错误率 $e s u K n$ 的取值范围为[0,1]。通过从学生测试成绩及试题知识点关联关系获得学生在知识点 $K _ { n }$ 上的错误次数及知识点考核的总次数求得。未获得该试题满分的情况视为该试题错误，即相应考核知识点错误。错误率的计算如式(3)所示。错误率 $e s u K n$ 越高，说明学生 $S _ { u }$ 在知识点 $K _ { n }$ 考查中出错频率越高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 失分率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "失分率表示学生在多次考试中某知识点丢失分数与该知识点考核总分数的比。失分率越高，说明学生该知识点掌握越不牢固，越影响考试的最终得分。所以，学生应该加强该知识点的学习。失分率与错误率有一定的联系，但非线性相关。在个性化学习推荐系统中，错误率越高的知识点失分率越高，但因主观题的得分情况除满分和零分外，可部分得分，两者非线性相关，所以失分率与错误率为两个不同的影响因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nl _ { S _ { u } K _ { n } } = \\frac { \\displaystyle \\sum _ { i = 0 } ^ { \\nu } g _ { T _ { i } } - g _ { s _ { u } T _ { i } } } { \\displaystyle \\sum _ { i = 0 } ^ { \\nu } g _ { T _ { i } } q _ { T _ { i } K _ { n } } } , l _ { S _ { u } K _ { n } } \\in [ 0 , 1 ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "失分率的计算如式(4)所示。 $l _ { S u K n }$ 表示某考核知识点的失分率，其取值范围为[0,1]。通过从学生 $S _ { u }$ 在试题 $T _ { i }$ 的得分转换为学生 $S _ { u }$ 在知识点 $K _ { n }$ 的得分来计算, $g _ { T i }$ 表示试题的标准分，gSuTi表示学生在试题 $T _ { i }$ 的真实得分，其取值范围为 $\\cdot 0 { , } \\mathrm { g } _ { \\mathrm { T i } } ]$ ， $q _ { T i K n }$ 表示知识点 $K _ { n }$ 与试题 $T _ { i }$ 的关联关系（考查或未考查）。失分率$l _ { S u K n }$ 越高，说明学生 $S _ { u }$ 在考查知识点 $T _ { i }$ 过程中丢分越多，从一定程度上反映了学生的知识漏洞。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4知识点掌握概率模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "个性化学习推荐系统的学生知识点掌握概率模型，综合考虑考虑综合权重，错误率和失分率多个因素三个重要因素，并根据这三个因素的构建推荐指数RecsuKn来表示学生知识点掌握概率，如式(5)所示。推荐指数越高，说明该知识点越值得被推荐。在实验过程中，设计三种方案RecsuKn1,RecsuKn2,RecsuKn3,本文运用以下三种方案进行实验，并通过实验评测确认最终推荐方案应用于在线推荐系统中。在确认推荐知识点时，本文对推荐指数进行排序，为学生推荐其弱项知识点。系统根据推荐",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { R e c _ { S _ { u } K _ { n } } = f ( w _ { n } , e _ { S _ { u } K _ { n } } , l _ { S _ { n } K _ { n } } ) , } \\\\ & { R e c _ { S _ { u } K _ { n } } = w _ { n } \\frac { e _ { S _ { u } K _ { n } } + l _ { S _ { u } K _ { n } } } { 2 } , } \\\\ & { R e c _ { S _ { u } K _ { n } } 2 = \\frac { w _ { n } + e _ { S _ { u } K _ { n } } + l _ { S _ { u } K _ { n } } } { 3 } , } \\\\ & { R e c _ { S _ { u } K _ { n } } 3 = w _ { n } e _ { S _ { u } K _ { n } } l _ { S _ { u } K _ { n } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 系统开发、应用及实验测评",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证学生知识点概率模型的有效性，本文在Dataset数据集，实验数据集如表5所示。Dataset数据集是湘潭县一中高三学生连续多次在校真实的数学考试成绩，包含1340名学生，92个试题，28个知识点。其中，1340名学生在115个具有试题得分构成习题得分矩阵G；由92个试题和28个知识点（各知识点相互独立）构成试题知识点矩阵Q，用1和0表示试题考查或未考查相应知识点。将通过数据处理后的数据作为系统输入。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fa331a243723249901fa50f4c190d279a437561e9051eb9e256fd7c610fb769.jpg",
+        "table_caption": [
+            "表5Dataset 实验数据集",
+            "Table5 Dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>数量</td></tr><tr><td>学生数量</td><td>1340</td></tr><tr><td>试题个数</td><td>92</td></tr><tr><td>知识点个数</td><td>28</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验及评测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证算法的有效性，本文分别采用认知诊断模型(DINA)、协同过滤(CF)方法、概率矩阵分解(PMF)方法和本文提出的 RecsuKn 三种方案在湘潭县一中数学测试集上进行实验，并采用随机抽样对湘潭县一中200名学生展开以上方案推荐的Top-8的知识点列表准确度的问卷调查。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DINA方法根据DINA诊断学生知识掌握程度，从推荐试题集合中选取学生掌握比较弱的知识点进行推荐；CF方法通过学生已经有的试题得分，计算出学生之间的Jaccard相似度找到与之答题情况最相似的学生，再根据最相似学生的得分预测学生的得分，再根据预测结果得分的高低进行推荐；PMF方法通过已有试题得分情况分解得到学生和试题的低维潜在因子向量，预测学生得分情况进行个性化推荐[8,12]；RecSuKn 方法从学生答题情况获取知识点综合权重，错误率和失分率多个重要因素构建知识点掌握概率模型，根据学生知识点掌握程度进行个性化推荐。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle P r e c i s i o n { = } \\frac { T P } { T P { + } F P } } , } \\\\ { { \\displaystyle R e c a l l { = } \\frac { T P } { T P { + } F N } } , } \\\\ { { \\displaystyle F 1 { = } \\frac { 2 ^ { * } P r e c i s i o n { * } R e c a l l } { P r e c i s i o n { + } R e c a l l } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文根据学生和教师对个性化学习推荐系统推荐的知识点结果的反馈，用准确率(precision)，召回率(recall)和 $F _ { 1 }$ 指标及运行时间(runningtime)来评价推荐效果，各指标的计算公式如式(6)所示。Precision为系统推荐知识点正确个数与推荐推荐总数的比， $T P$ 表示系统推荐知识点正确个数， $F P$ 表示系统推荐知识点错误数量。准确率越高，说明系统为学生推荐的知识点越符合学生的实际学习情况。Recall为系统推荐知识点正确个数与系统推荐个数和用户反馈未推荐的知识点总数数的比，FN表示用户反馈系统未推荐的知识点的数量。召回率越高说明系统为学生推荐的知识点越全面。 $F _ { 1 }$ 值是精确率和召回率的调和均值。Running time 是算法在数据集上的运行时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同推荐算法下推荐效果如表6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/210674785a8fd3423c736a2c241f2569e9ce02d8d076c79f9d733c87eb852bc3.jpg",
+        "table_caption": [
+            "表6不同推荐算法下推荐效果",
+            "Table 6Compared with different algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>precision</td><td>recall</td><td>F1</td><td>running time</td></tr><tr><td>DINA</td><td>0.498</td><td>0.467</td><td>0.482</td><td>4.47s</td></tr><tr><td>CF</td><td>0.553</td><td>0.541</td><td>0.547</td><td>4.18s</td></tr><tr><td>PMF</td><td>0.617</td><td>0.522</td><td>0.566</td><td>3.24s</td></tr><tr><td>ReCsuKn1</td><td>0.672</td><td>0.596</td><td>0.632</td><td>2.71s</td></tr><tr><td>ReCsuKn2</td><td>0.596</td><td>0.548</td><td>0.571</td><td>2.60s</td></tr><tr><td>RecsuKn3</td><td>0.912</td><td>0.688</td><td>0.784</td><td>2.46s</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表中数据对比可以看出，本文提出的基于多因素的个性化知识点推荐算法ReCsuKn相对传统的DINA 模型、CF方法具有较好的效果。 $\\mathtt { R e c } _ { \\mathtt { S u K n } } 1$ ， ${ \\mathrm { R e c } } _ { \\mathrm { S u K n } } 2$ ， ${ \\mathrm { R e c } } _ { \\mathrm { s u K n } } 3$ 算法的推荐效果相对传统的DINA模型最为明显，准确率分别提高了达到了",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 7 . 4 \\%$ ， $9 . 8 \\%$ ， $41 . 4 \\%$ ： $F 1$ 值分别提高了 $1 5 \\%$ ， $8 . 9 \\%$ ， $3 0 . 2 \\%$ 。在本文提出的三种算法中 ${ \\mathrm { R e c } } _ { \\mathrm { s u K n } } 3$ 的推荐效果最佳，准确率达到了 $91 . 2 \\%$ ， $F 1$ 值为 $78 . 4 \\%$ ，比DINA模型、PMF方法、CF方法准确率分别提高 $4 1 . 4 \\% , 2 9 . 5 \\% , 3 5 . 9 \\% , F 1$ 高 $3 0 . 2 \\% , 2 3 . 7 \\%$ $2 1 . 8 \\%$ 。而且 ${ \\mathrm { R e c } } _ { \\mathrm { s u K n } } 3$ 复杂度较低，运行时间最短，与传统DINA方法相比快2.01s。主要原因在于：DINA模型反馈学生对知识点的掌握情况只有掌握和未掌握两种，对知识点的掌握情况不能进行概率化，容易造成数据丢失，推荐效果欠佳，且数据集知识点个数较多,求解学生知识点掌握情况的过程时间复杂度较高；CF方法根据相似学生的共性进行推荐，忽略了学生答题和知识掌握个性化，导致推荐效果欠佳；PMF方法基于习题进行推荐，忽略了学生对知识点掌握情况的分析，导致其推荐准确率有待提高；而文中所提出的基于多要素的推荐方法，更能反馈学生对知识点的掌握情况，推荐结果更加贴合学生实际学习需要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，选择 ${ \\mathrm { R e c } } _ { \\mathrm { s u K n } } 3$ 的推荐策略应用与个性化学习推荐系统中给学生进行知识点推荐，并在实际应用过程中将推荐指数扩大一千倍，让用户能够清楚地了解每位学生各个知识点的掌握程度的差距，并激发学生发挥主观能动性，加强学习，提高考试表现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在实验评估过程中，因学生未意识到自己的弱项知识点或者对知识体系不熟悉，可能反馈的未推荐知识点不全面，导致召回率不太准确。但从实验评估的整体考虑，学生对所有知识点的反馈均具有此特点，所以召回率的评估从一定程度上能说明以上情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cdb022b65fa6e0f1b1ec0450c0f0048bd985e11d22ee03323294ce4fc8e314c.jpg",
+        "img_caption": [
+            "图3系统功能模块图",
+            "Fig.3Relation matrix of questions and knowledge points "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 系统快照",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "个性化推荐系统是在Linux[17]环境下用DB2作为数据库,采用Python[18]语言进行编写的，系统使用RazorSQL进行数据库查询、SQL 的编辑、数据库管理；同时采用Xshell关联，Xftp传输文件的方法，快速地对服务器进行上传、下载文件。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表7学生“丁昱夫”反馈信息统计表",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd581bdac3f51cfd106b2bcae56262e5895186b30a6492eb766d22fa344294cf.jpg",
+        "table_caption": [
+            "Table7Feedback froma student“Ding Yufu” "
+        ],
+        "table_footnote": [
+            "表8学生“丁昱夫”推荐效果评测表"
+        ],
+        "table_body": "<html><body><table><tr><td>推荐编号</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>正确/错误</td><td>√</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>补充个数</td><td>7</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c5182ded9e4c7b4e323470bf616926e0d721fa6ad2dee41a4c8c446a589e4f0.jpg",
+        "table_caption": [
+            "Table 8Performance example of“Ding Yufu\" "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>推荐个数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>准确率</td><td>1</td><td>0.5</td><td>0.667</td><td>0.75</td><td>0.8</td><td>0.833</td><td>0.857</td><td>0.875</td></tr><tr><td>召回率</td><td>0.143</td><td>0.111</td><td>0.222</td><td>0.333</td><td>0.444</td><td>0.556</td><td>0.667</td><td>0.889</td></tr><tr><td>F1</td><td>0.250</td><td>0.182</td><td>0.333</td><td>0.461</td><td>0.571</td><td>0.667</td><td>0.750</td><td>0.882</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个性化学习推荐系统基于学生日常在校考试的真实数据，为用户提供个性化知识点推荐的浏览和学习服务，增强用户体验，提高网站的粘性。在系统中，根据用户角色（学生、教师、系统管理员）的不同设计不同的功能，系统功能模块图如图3所示。除了为用户推荐知识点外，本文还实现了信息管理，成绩查询，数据导入等功能，个性化学习推荐系统快照如图4\\~7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图7中可以看到，系统为学生“丁昱夫”进行top-8知识点推荐的结果，推荐知识点根据推荐指数排序，使学生能清晰明了地知道自己各个知识点的掌握程度。学生“丁昱夫”对推荐结果的反馈如表7所示，从该学生的反馈本文可知系统推荐的第2个知识点非丁昱夫的弱项知识点，其他知识点均推荐正确。“丁昱夫”在系统推荐1个知识点时，列出了7个未推荐的知识点。随着推荐知识点增多，学生补充知识点逐渐渐少。推荐第8个时，反馈中补充1个知识点。由此分析获得系统为其推荐的准确率和召回率及 $F 1$ 指标如表8所示，因学生反馈系统推荐第2个知识点为选做题，并非不会作答，导致该未选做试题的相应知识点错误率和失分率很高，容易导致此处推荐结果不准确。但系统推荐准确度从第三个知识点开始不断升高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "据大部分学生反馈推荐知识点均为自己的知识漏洞，并根据推荐指数进行知识点的加强复习，能帮助学生有计划地进行巩固学习。随着系统推荐知识点增多时，学生认为系统推荐基本满足需求，且因部分知识点遗忘或记忆不清楚，所以未再补充系统未给自己推荐的知识点弱点。因此，后期完善，本文可考虑“题型”因素改进推荐模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当前用户：admin 化 G修改密码 C退出登录   \n学生成绩 推荐知识点 数据导入 学生成绩   \n推荐知识点 试卷编号 班级 姓名 查询   \n>数据导入 成结编号 试卷编号班级 姓名 得分 主观题 客观题 ST002001 ST002002 STO02003 ST002004 ST002005 ST002006 ST002007 ST002008 ST002009 ST00 G0010001 test1 1524陈 12262 60 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010002 test1 1524陈思 116 61 55 5[B] 5[A) 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010003 test1 1524 124 74 50 5[B] 5IA） 5[D] 5[D] 5[B] 5[D] 5(A) 5[B] 5[B] 5[C] G0010004 test1 1524付雨纯119 69 50 5[B] 5[A) 5[D] 5[D] 5[B] 5[D SA 5[B] 5[B] 5[C] G0010005 test1 1524何添 109 64 45 5[B] SIA] 5[D] 5[D] [D] 5[D] 5IA] 5[B] 5[B] 5[C] G0010006 test1 1524胡怡99 59 40 5[B] 5[A] 5[D] O[B] [D 5[D] 5[A] 5[B] 5[B] [D] G0010007 test1 1524黄磊 125 65 60 5[8] S[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010008 test1 1524紫 114 64 50 5[8] 5IA) 5[D 5[D] 5[B) 5[D) 5A 5[8] 5[B] 5[C] G0010009 test1 1524灿 127 72 55 5[B] 5[A] S[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] O[B] G0010010 testt 1524 144 84 60 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010011 test1 1524国欣明 131 71 60 5[8] 5[A] 5[D] 5[D] 5[B] 5[D) 5(AI 5[B] 5[B] 5[C] G0010012 test1 1524颖 126 71 55 5[B] 5[A] [B] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010013 test1 1524邝紫怡 117 62 55 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010014test1 1524李沛13373 60 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[8] 5[B] 5[C] G0010015test1 1524刘德龙10752 55 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[] 5[C] G0010016 test1 1524刘吉千 104 49 55 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[B] 5[B] 5[C] G0010017 test1 1524刘洁 10550 55 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5[A] 5[8] 5[B] 5[C] G0010018test1 1524刘之祎10146 55 5[B] 5[A] 5[D] 5[D] 5[B] 5[D] 5A] 5[B] 5[B] 5[C] 4 , 4 1 2 3 21 5 第 GO ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e0bfe6f7b69473ac72eec76d6918e49f9b37ed8abe36718b4f470f9e2ab3c66.jpg",
+        "img_caption": [
+            "图4成绩查询",
+            "Fig.4Results enquiry ",
+            "图5知识点推荐",
+            "Fig.5Knowledge point recommendation "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f240466e8ef26df2eedc55149176002db0b3e3d311926e48689fe50abba52424.jpg",
+        "img_caption": [
+            "图6数据导入"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8d8947aa0d7c377138dcfaef79c2b5a2582e911d33272cb8a1a7fd94ae853e5.jpg",
+        "img_caption": [
+            "Fig.6Data import",
+            "图7知识点推荐结果",
+            "Fig.7Predicted results "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "个性化学习推荐系统是针对普通中学生用户群的学习教辅系统，运用知识点综合权重和学生在相应知识点上的错误率、失分率多重因素，构建了多个学生知识点掌握概率模型，并与DINA方法、CF方法、PMF方法进行大量的对比实验，通过湘潭县一中学生实际应用评价，选择表现最佳的模型 ${ \\mathrm { R e c } } _ { \\mathrm { s u K n } } 3$ 应用到系统中，系统默认推荐为TOP-8的知识点，实验评估准确率达到 $91 . 2 \\%$ ，F1达到了 $78 . 4 \\%$ ，比DINA方法、CF方法、PMF方法准确率分别高 $4 1 . 4 \\%$ ， $2 9 . 5 \\%$ ， $3 5 . 9 \\%$ ，显示了提出策略的有效性和可靠性。在一定程度上，系统能帮助中高级中学解决学校教辅系统不完善，教师一对一交流时间不够，学生分析问题能力不足等问题，明确学生知识漏洞，发挥主观能动性，开展有针对性地进行加强学习。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了进一步完善个性化学习推荐系统的设计与开发，将从以下两点进行完善：a)构建课程知识题库，为学习者筛选出合适的知识资源;b)自动匹配试题与知识点，节约知识点与试题绑定的时间成本。在后续研究中，将把个性化推荐系统的完善版本正式应用于普通中学进行教学辅导。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]陈兵．高职院校学生成绩管理系统的设计与实现[D].重庆：重庆大学, 2012.(Chen Bing.Design and implementation of student achievement management system in higher vocational colleges [D]. Chongqing: Chongqing University,2012.)   \n[2]韩冬梅．无线网络在实施现代教育中的应用[J].哈尔滨商业大学学报： 自 然科学版,2010,26(4):507-509.(Han Dongmei.Application of wireless network in implementing modern education [J].Journal of Harbin University of Commerce:Natural Science Edition,2010,26(4): 507-509.)   \n[3]李志军.数据挖掘技术在中职教学管理中的应用研究[D].广州：广东 技术师范学院,2017.(Li Zhijun.Application research of data mining technology in secondary vocational teaching management [D]. Guangzhou: Guangdong Technical Teachers College,2017.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]潘燕．关联规则下的数据挖掘算法分析[J].信息记录材料,2018,19(7)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "212-213.(Pan Yan.Analysis of data mining algorithms under association rules[J].Information RecordingMaterials,2018,19(7):212-213.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]李竟成，孙晓青．慕课对大学的影响研究[J].南京工程学院学报：社 会科学版,2018,18 (02): 75-79.(Li Jingcheng,Sun Xiaoqing.Study on the Influence of MOOC on University [J].Journal of Nanjing Institute of Technology: Social Science Edition,2018,18 (02): 75-79.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]牛玥．我国在线教育平台发展模式及其问题对策探析—一以网易公开 课为例[J].新媒体研究,2018,4(10):74-76.(Niu Yue.Analysis on the development model of online education platform in China and its countermeasures: taking netease open course as an example [J].New Media Research,2018,4(10): 74-76.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7]刘润香．中学生图形推理测验认知特征诊断及其与认知方式的关系研 究[D].南昌：江西师范大学,20o7.(Liu Runxiang.Cognitive feature diagnosis of middle school students'graphic reasoning test and its relationship with cognitive style [D]. Nanchang: Jiangxi Normal University, 2007.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]朱天宇．结合认知诊断方法的学生建模与应用研究[D].合肥：中国科 学技术大学,2018.(Zhu Tianyu.Student modeling and application research based on cognitive diagnosis method [D]. Hefei: University of Science and Technology of China,2018.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]姜盼．基于协同过滤的习题推荐系统设计与实现[D].荆州：长江大学， 2017.(Jiang Pan.Design and implementation of problem recommendation system based on collaborative filtering [D]. Jingzhou: Yangtze University, 2017.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10]吴玺煜，陈启买，刘海，等．基于知识图谱表示学习的协同过滤推荐算 法[J].计算机工程,2018,44(2):226-232,263.(Wu Xiyu,Chen Qimai, Liu Hai,et al. Collaborative filtering recommendation algorithm based on knowledge mapping representation learning [J]. Computer Engineering, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2018,44(02): 226-232,263.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]李全，刘兴红，许新华，等．基于联合概率矩阵分解的个性化试题推荐 方法[J]．计算机应用，2018,38(3):639-643,649.(LiQuan,Liu Xinghong,Xu Xinhua, et al. Recommendation method for personalized test questions based on joint probability matrix decomposition [J]. Journal of Computer Applications,2018,38(03):639-643,649.)   \n[12]蒋昌猛．基于知识点的个性化习题推荐研究[D]．西安：西北大学, 2017.(Jiang Changmeng. Research on individualized exercises based on knowledge points [D].Xi’an: Northwestern University, 2017.)   \n[13]王雅婷．数据挖掘在学生成绩分析中的应用[J].现代信息科技,2017, 1(3):96-97.(Wang Yating.Application of data mining in student performance analysis [J].Modern Information Technology,2017,1(3): 96- 97.)   \n[14]胡庆．基于决策树的试卷知识点掌握程度分析研究[D].南昌：江西财 经大学,2014.(Hu Qing.Research on the degree of mastery of test paper knowledge based on decision tree [D].Nanchang: Jiangxi University of Finance and Economics,2014.)   \n[15] Jimmy DLT.DINA model and parameter estimation: Adidactic [J]. Journal ofEducational& Behavioral Statistics,2009,34(1):115-130.   \n[16] Shepp L A，Vardi Y. Maximum likelihood estimation for emission tomography[J].Annals of the Institute of Statistical Mathematics,2010,mi1 (1): 113-121.   \n[17]柳青.Linux 应用教程[M].北京：清华大学出版社,2008.(Liu Qing. Linux Application Tutorial [M].Beijing: Tsinghua University Press,2008.）   \n[18] Hetland ML.Python 基础教程[M].袁国忠，译.3版．北京：人民邮电 出版社,2018.(Hetland ML.Python basic tutorial [M].Yuan Guozhong, translation.3rd ed.Beijing: People's Posts and Telecommunications Press, 2018.） ",
+        "page_idx": 7
+    }
+]

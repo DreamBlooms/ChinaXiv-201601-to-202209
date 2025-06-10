@@ -1,0 +1,174 @@
+酵母硒和亚硒酸钠对临武鸭血清抗氧化能力及蛋硒存留动态变化的影响王向荣1.2.3黄　璇³李闯³蒋桂韬 2.3张旭2.3戴求仲 $^ { 1 , 2 , 3 * }$ 方热军1\*（1．湖南农业大学动物科学技术学院,湖南畜禽安全生产协同创新中心，长沙 410128；2．中国农业科学院麻类研究所，长沙 410205；3．湖南省畜牧兽医研究所，长沙 410131)
+
+摘要：本试验旨在研究酵母硒和亚硒酸钠对临武鸭血清抗氧化能力、蛋品质及蛋硒存留动态变化的影响。试验选用 29 周龄产蛋率接近的健康临武鸭 240只，随机分为3组，每组5个重复，每个重复16只。对照组饲喂基础饲粮（不补充外源硒，硒含量为 $0 . 1 8 3 ~ \mathrm { \ m g / k g } )$ ：试验组在基础饲粮中分别补充 $0 . 3 ~ \mathrm { m g / k g }$ 亚硒酸钠或酵母硒，饲喂 $4 2 \mathrm { d }$ 后，撤除外源硒，连续饲喂基础饲粮 $1 0 \mathrm { ~ d ~ }$ 。结果表明：1）与对照组相比，饲粮中补充亚硒酸钠或酵母硒对临武鸭生产性能和蛋品质无显著影响（ $( P { > } 0 . 0 5 )$ )，饲粮补充 $0 . 3 \mathrm { m g / k g }$ 亚硒酸钠或酵母硒极显著提高了临武鸭血清中硒含量（ $( P { < } 0 . 0 1 \$ )，显著提高了血清谷胱甘肽过氧化物酶活性（ $_ { ( P < 0 . 0 5 ) }$ ；饲粮补充 $0 . 3 ~ \mathrm { m g / k g }$ 酵母硒显著降低了血清中丙二醛含量（ $P { < } 0 . 0 5$ )。2）与对照组相比，饲粮中补充亚硒酸钠或酵母硒极显著提高了蛋硒含量（ $_ { \scriptstyle P < 0 . 0 1 }$ )；停止补充后的5d内，试验组蛋硒含量仍极显著高于对照组（ $_ { - P < 0 . 0 1 ) }$ ；停止补充后的7、8d，酵母硒组蛋硒含量极显著高于亚硒酸钠组和对照组（ $_ { . } P { < } 0 . 0 1 \$ ；停止补充后的9、 $1 0 \mathrm { d }$ ，试验组蛋硒含量衰减至对照组相同水平（ $P { > } 0 . 0 5 )$ 。由此可见，饲粮中补充亚硒酸钠或酵母硒对临武鸭生产性能和蛋品质无显著影响，但能改善临武鸭血清抗氧化能力，提高血清和蛋中硒含量；与亚硒酸钠相比，饲粮补充酵母硒可延长硒在蛋中的存留时效。
+
+关键词：硒；亚硒酸钠；酵母硒；抗氧化能力；蛋；临武鸭中图分类号：S834 文献标识码： 文章编号：
+
+硒作为人和动物所必需的微量元素之一，是一些重要含硒蛋白和抗氧化酶的必需组成部分，能够清理体内活性氧化物质，对机体具有抗氧化、抗应激、提高免疫力等生物学功能[1-3]。
+
+硒具有双面效应，硒的毒性很接近其营养剂量，不同种类和来源的硒的生物学利用率和功能有显著差异[2-3]。因此，探讨适宜剂量和形态硒的摄入，研究硒在畜禽产品中的转化与富集，对科学和安全地使用硒及指导富硒畜禽产品生产有非常重要的意义。目前畜禽饲粮中采用的硒源主要有2种，即无机硒（硒酸盐或亚硒酸盐）和有机硒（酵母硒或蛋氨酸硒制剂）[4]。普遍认为，有机硒对提高家禽机体抗氧化能力的影响要优于无机硒[5-6]，且对改善种禽的繁殖性能有非常好的作用[4,7]。孙庆艳等[8]研究认为，酵母硒和纳米硒对改善蛋鸡抗氧化能力的效果较好，酵母硒对提高鸡蛋硒含量更有效；卢建等9的研究也表明，相对于亚硒酸钠，酵母硒中的硒向鸡蛋中的转移速度更快，效率更高。硒在家禽饲粮中的适宜添加量为0.1\~0.4mg/kg，蛋鸽饲粮中的硒（纳米硒）适宜添加量为 $0 . 4 \mathrm { m g / k g ^ { [ 1 0 ] } }$ ，鹅饲粮中建议添加0.28\~0.35mg/kg 的硒[6，鹑产蛋后期添加 $0 . 2 \mathrm { m g / k g }$ 的硒（纳米硒）较为适宜[1]，蛋鸡饲粮中硒（酵母硒）的适宜添加量为 $0 . 1 0 { \sim } 0 . 3 0 \ \mathrm { m g / k g ^ { [ 1 2 ] } }$ 。另外，燕磊等[13]在对樱桃谷鸭种鸭上的研究发现，饲粮中添加 $0 . 2 5 0 \mathrm { m g / k g }$ 硒和 $2 0 0 \mathrm { m g / k g }$ 维生素E可获得较佳的生产性能和蛋品质。从上述报道来看，这些研究主要探讨了持续补充外源硒的情况下禽蛋品质和蛋硒含量，而补充硒源一段时间后，再停止补充，蛋硒的沉积与动态变化规律以及不同硒源对蛋硒存留时效的影响尚未见报道，且有关蛋鸭特别是临武鸭饲粮中硒的研究亦不多见。因此，本研究以产蛋高峰期临武鸭为试验动物，在饲粮中补充亚硒酸钠和酵母硒，测定蛋鸭生产性能、蛋品质、血清抗氧化能力，并分析撤除外源硒后的一段时间内，鸭蛋中硒含量的变化，比较酵母硒和亚硒酸钠对蛋鸭生产性能、蛋品质、血清抗氧化能力以及蛋硒存留动态变化的影响，探讨不同硒源在鸭蛋中的沉积和存留规律。
+
+1材料与方法
+
+1.1试验材料酵母硒，硒含量为 $2 0 0 0 \mathrm { m g / k g }$ ；亚硒酸钠，饲料级，硒含量为 $1 \%$ 。
+
+# 1.2 试验设计与试验饲粮
+
+选取240羽健康状况良好、产蛋率相近的产蛋高峰期临武鸭（29 周龄)，随机分成3组，每组5个重复，每个重复16只，进行为期 52d的试验，其中1\~42d按各自分组饲喂不同饲粮，43\~52d各组均饲喂基础饲粮。对照组饲喂基础饲粮（不补充外源硒，实测硒含量为0.183$\mathrm { m g / k g } \mathrm { \dot { \Omega } }$ ，试验组在基础饲粮中分别补充 $0 . 3 \mathrm { \ m g / k g }$ 亚硒酸钠或酵母硒（以硒计)。基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %
+
+<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米 Corn</td><td>47.75</td><td>代谢能ME/(MJ/kg)</td><td>10.89</td></tr><tr><td>豆粕 Soybean meal</td><td>25.26</td><td>粗蛋白质 CP</td><td>18.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>4.00</td><td>钙Ca</td><td>3.52</td></tr><tr><td>次粉 Wheat middling</td><td>11.72</td><td>总磷TP</td><td>0.56</td></tr><tr><td>石粉Limestone</td><td>9.00</td><td>有效磷 AP</td><td>0.27</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.03</td><td>赖氨酸Lys</td><td>0.90</td></tr><tr><td>(78.5%) DL-蛋氨酸 DL-Met (98.5%)</td><td>0.14</td><td>蛋氨酸Met</td><td>0.41</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.80</td><td>蛋氨酸+半胱氨酸</td><td></td></tr><tr><td></td><td></td><td>Met+Cys</td><td>0.75</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>硒 Se/(mg/kg)</td><td>0.183</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet: VA 5 000 IU,VB1 2 mg, $\mathrm { V B } _ { 2 }$ （204号 $1 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 8 0 0 \mathrm { I U }$ ，VE $2 0 \mathrm { { I U } }$ ， $\mathrm { V K } _ { 3 } 0 . 5 ~ \mathrm { m g }$ ，生物素biotin $0 . 2 \mathrm { m g }$ ，叶酸 folic acid $0 . 6 \mathrm { m g }$ ， $D$ -泛酸 $D$ -pantothenic acid $6 0 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $6 0 ~ \mathrm { m g }$ ，胆碱choline $1 5 0 0 ~ \mathrm { m g }$ ，抗氧化剂 antioxidant $1 0 0 \mathrm { m g }$ $\mathtt { C u }$ (as copper sulfate) $8 ~ \mathrm { m g }$ ,Fe (as ferrous sulfate) $8 0 ~ \mathrm { m g }$ ,Mn (as manganese sulfate) $5 0 \mathrm { m g }$ ， Zn (as zinc sulfate) $6 0 ~ \mathrm { m g }$ ， I(as potassium iodide) $0 . 4 0 \mathrm { m g }$ 。
+
+2)硒为实测值，其他营养水平为计算值。Se was a measured value,while the other nutrient levels were calculated values.
+
+# 1.3 饲养管理
+
+试验在湖南省畜牧兽医研究所水禽试验场进行，采用双层金属笼立体笼养，单笼饲养，自由采食和饮水（计量不限量)，按常规方法进行饲养管理。
+
+# 1.4 测定指标与方法
+
+# 1.4.1生产性能
+
+试验期间每天按重复记录产蛋总数、总蛋重、采食量和不合格蛋数（包括软壳蛋、破壳蛋、畸形蛋、沙壳蛋)，以组为单位统计平均蛋重、日产蛋量、产蛋率、合格蛋率、平均日采食量和料蛋比。
+
+1.4.2蛋品质
+
+在试验第 42天时每组抽取接近平均蛋重的鸭蛋15 枚(每重复3枚)，在 $2 4 \mathrm { h }$ 内测定蛋黄比率、蛋白比率、蛋壳厚度（蛋壳厚度测定仪）、蛋形指数（游标卡尺测量）、蛋黄颜色（蛋黄比色卡）及蛋白高度（蛋白高度测定仪)，并计算哈氏单位（HU)，计算公式为：
+
+哈氏单位 $\scriptstyle = 1 0 0 \times \log$ $\left( H { - } 1 . 7 \mathrm { W } ^ { 0 . 3 7 } { + } 7 . 5 7 \right)$ 。
+
+其中： $H$ 为蛋白高度（ $\mathbf { m m } \dot { }$ )，W为蛋重（g）。
+
+# 1.4.3血清抗氧化能力
+
+在试验第42天时每个重复随机选取2只体重相近的试验鸭，空腹12h后，翅下静脉采血5mL，静置 $3 0 \mathrm { m i n }$ 后， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，分离血清。用比色法检测血清中谷胱甘肽过氧化物酶（ $\mathrm { G S H - P x }$ )、超氧化物歧化酶（SOD）活性及谷胱甘肽（GSH)、丙二醛（MDA）含量，试剂盒均购自南京建成生物工程研究所。采用氢化物原子荧光光谱法（参照GB/T13883—2008）测定血清中硒含量。
+
+# 1.4.4蛋硒含量测定
+
+在试验第28、35、42天以及撤除外源硒后的 $ { 1 \sim }  { 1 0 \mathrm { d } }$ ，每组抽取接近平均蛋重的鸭蛋15枚（每重复3枚)，采用氢化物原子荧光光谱法测定蛋硒含量。
+
+# 1.5数据统计与分析
+
+采用SPSS18.0软件进行单因素方差分析（one-way ANOVA)，然后通过Duncan氏法进行多重比较。结果用“平均值 $\pm$ 标准差”（mean±SD）表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果
+
+2.1不同硒源对蛋鸭生产性能和蛋品质的影响
+
+由表2可知，与对照组相比，饲粮中补充 $0 . 3 \mathrm { \ m g / k g }$ 的亚硒酸钠或酵母硒对产蛋高峰期临武鸭的平均日采食量、产蛋率、平均蛋重及料蛋比等生产性能指标均无显著影响0 $( P { > } 0 . 0 5 )$ 。
+
+表2酵母硒和亚硒酸钠对临武鸭生产性能的影响  
+Table 2Effects of sodium selenite and selenium yeast on performance of Linwu ducks   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>亚硒酸钠组</td><td>酵母硒组</td></tr><tr><td>Items</td><td>Control group</td><td>Sodium selenite group</td><td>Selenium yeast group</td></tr><tr><td>平均日采食量 ADFI/g</td><td>157.30±5.16</td><td>157.08±2.10</td><td>153.07±4.54</td></tr><tr><td>产蛋率Laying rate/%</td><td>81.40±3.35</td><td>80.00±2.64</td><td>81.05±4.86</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td></tr><tr><td>平均蛋重 Average egg weight/(g/个)</td><td>72.40±3.23</td><td>72.04±1.73</td><td>71.76±2.27</td></tr><tr><td>日产蛋量 Daily egg yield/g</td><td>58.98±4.66</td><td>57.60±2.62</td><td>57.96±2.46</td></tr><tr><td>合格蛋率 Qualified rate of egg/%</td><td>99.43±0.93</td><td>98.80±0.62</td><td>99.28±1.24</td></tr><tr><td>料蛋比Feed/egg</td><td>2.67±0.08</td><td>2.72±0.05</td><td>2.64±0.05</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { . } { \cal P } { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ $_ { . } { \cal P } { < } 0 . 0 1$ )，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )。下表同。
+
+In the same row, values with different small letter superscripts mean significant diference ( $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no leter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ).The same asbelow.
+
+由表3可知，与对照组相比，饲粮中补充 $0 . 3 \mathrm { m g / k g }$ 的亚硒酸钠或酵母硒对鸭蛋蛋形指数、蛋壳厚度、蛋白高度、蛋黄比例、壳重比例、哈氏单位、蛋黄颜色等蛋品质指标均无显著影响 （ $P { > } 0 . 0 5 )$ 。
+
+Table 3Effects of sodium selenite and selenium yeast on egg quality of Linwu ducks   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>亚硒酸钠组</td><td>酵母硒组</td></tr><tr><td>Items</td><td>Control group 1.30±0.03</td><td>Sodium selenite group</td><td>Selenium yeast group 1.33±0.01</td></tr><tr><td>蛋形指数 Egg shape index 蛋壳厚度 Eggshell thickness/mm</td><td>0.43±0.04</td><td>1.34±0.03 0.44±0.04</td><td>0.40±0.02</td></tr><tr><td>蛋白高度 Albumen height/mm</td><td>8.15±0.89</td><td>7.96±0.77</td><td>7.90±0.28</td></tr><tr><td>蛋黄比例 Yolk ratio/%</td><td>32.06±0.98</td><td>33.18±0.17</td><td></td></tr><tr><td>壳重比例 Percentage of eggshell/%</td><td>11.31±0.83</td><td>11.57±0.47</td><td>33.54±2.07</td></tr><tr><td>哈氏单位 Haugh unit</td><td>87.36±4.19</td><td>84.56±4.14</td><td>11.31±0.48</td></tr><tr><td></td><td></td><td></td><td>84.27±3.43</td></tr><tr><td>蛋黄颜色 Yolk color</td><td>6.67±0.58</td><td>6.33±0.58</td><td>6.67±0.58</td></tr></table></body></html>
+
+# 2.2不同硒源对蛋鸭血清抗氧化能力的影响
+
+由表4可知，饲粮中补充 $0 . 3 ~ \mathrm { m g / k g }$ 亚硒酸钠或酵母硒42d后，产蛋高峰期临武鸭血清中硒含量分别提高至0.15 和 $0 . 1 4 ~ \mathrm { m g / k g }$ ，均极显著高于对照组（ $P { < } 0 . 0 1 \$ ，血清GSH $\mathbf { \cdot P x }$ 活性分别提高到468.29和 $4 6 9 . 1 1 ~ \mathrm { U / m L }$ ，均显著高于对照组（ $_ { _ { P < 0 . 0 5 } ) }$ ；酵母硒组的临武鸭血清中 MDA含量最低，仅为 $4 . 4 6 \mathrm { n m o l / m L }$ ，显著低于对照组和亚硒酸钠组（ $P { < } 0 . 0 5 \rangle$ ）°
+
+表3亚硒酸钠和酵母硒对临武鸭蛋品质的影响  
+表4亚硒酸钠和酵母硒对临武鸭血清抗氧化能力的影响  
+Table 4Effects of sodium selenite and selenium yeast on serum antioxidant capacity of Linwu ducks   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>亚硒酸钠组</td><td>酵母硒组</td></tr><tr><td>Items</td><td>Control group</td><td>Sodium selenite group</td><td>Selenium yeast group</td></tr></table></body></html>
+
+<html><body><table><tr><td>硒 Selenium/(mg/kg)</td><td>0.08±0.01Bb</td><td>0.15±0.01Aa</td><td>0.14±0.01Aa</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>85.41±12.57</td><td>96.73±6.39</td><td>101.54±2.87</td></tr><tr><td>谷胱甘肽 GSH/(μmol/L)</td><td>33.33±10.21</td><td>39.22±7.06</td><td>49.66±7.69</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>382.11±48.86b</td><td>468.29±51.39a</td><td>469.11±9.86a</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>5.41±0.38a</td><td>5.27±0.50a</td><td>4.46±0.11b</td></tr></table></body></html>
+
+# 2.3不同硒源对蛋鸭蛋硒含量的影响
+
+由表 5 可知，与对照组相比，饲粮中补充亚硒酸钠或酵母硒可极显著提高蛋硒含量（ $P { < } 0 . 0 1 \ \cdot$ )；连续补充42d再停止补充后的5d（43\~47d)，亚硒酸钠组和酵母硒组蛋硒含量仍极显著高于对照组（ $_ { . P < 0 . 0 1 ) }$ ；停止补充后的6d（48d)，亚硒酸钠组的蛋硒含量与对照组差异不显著（ $( P { > } 0 . 0 5 )$ ，但酵母硒组的蛋硒含量极显著高于对照组（ $P { < } 0 . 0 1$ )，显著高于亚硒酸钠组 （ $P { < } 0 . 0 5 )$ ；停止补充后的7、8d（49、50d)，酵母硒组的蛋硒含量极显著高于亚硒酸钠组和对照组 （ $_ { . P < 0 . 0 1 } )$ ；停止补充后的9、10d（51、52d)，各组蛋硒含量恢复到相同水平，差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表5酵母硒和亚硒酸钠对临武鸭蛋硒含量的影响  
+Table 5 Effects of sodium selenite and selenium yeast on egg selenite content of Linwu ducks mg/kg   
+
+<html><body><table><tr><td>试验天数</td><td>对照组</td><td>亚硒酸钠组</td><td>酵母硒组</td></tr><tr><td>Days of experiment/d</td><td>Control group</td><td>Sodium selenite group</td><td>Selenium yeast group</td></tr><tr><td>28</td><td>0.263±0.042Bb</td><td>0.490±0.010Aa</td><td>0.477±0.021Aa</td></tr><tr><td>35</td><td>0.287±0.025Bb</td><td>0.457±0.015Aa</td><td>0.483±0.021Aa</td></tr><tr><td>42</td><td>0.307±0.015Bb</td><td>0.493±0.029Aa</td><td>0.497±0.032Aa</td></tr><tr><td>43</td><td>0.290±0.020Bb</td><td>0.467±0.021Aa</td><td>0.467±0.022Aa</td></tr><tr><td>44</td><td>0.277±0.031Bb</td><td>0.520±0.056Aa</td><td>0.487±0.006Aa</td></tr><tr><td>45</td><td>0.310±0.036Bb</td><td>0.470±0.010Aa</td><td>0.440±0.017Aa</td></tr><tr><td>46</td><td>0.263±0.032Bb</td><td>0.383±0.015Aa</td><td>0.417±0.045Aa</td></tr><tr><td>47</td><td>0.297±0.015Bb</td><td>0.390±0.010Aa</td><td>0.373±0.015Aa</td></tr><tr><td>48</td><td>0.267±0.042Bb</td><td>0.300±0.010ABb</td><td>0.353±0.015Aa</td></tr><tr><td>49</td><td>0.263±0.040Bb</td><td>0.290±0.010Bb</td><td>0.357±0.012Aa</td></tr><tr><td>50</td><td>0.257±0.031Bb</td><td>0.263±0.040Bb</td><td>0.333±0.021Aa</td></tr><tr><td>51</td><td>0.300±0.020</td><td>0.283±0.015</td><td>0.307±0.031</td></tr><tr><td>52</td><td>0.257±0.042</td><td>0.260±0.026</td><td>0.297±0.032</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1不同硒源对蛋鸭生产性能和蛋品质的影响
+
+有关饲粮硒源对蛋禽生产性能影响的研究结果存在较大差异。胡华锋等[14研究认为，饲粮中添加富硒苜蓿能显著提高罗曼蛋鸡产蛋率和日产蛋量，添加酵母硒可显著提高产蛋率；Laika等[15]也研究认为，饲粮补充蛋氨酸锌硒复合物可显著提高来航蛋鸡的生产性能。而 Chantiratikul等[16]研究发现，采用富硒羽衣甘蓝作为饲粮中的硒源，对蛋鸡的采食量和生产性能无显著影响。孙庆艳等[8]和 Zdunczyk 等[17]的研究也认为，饲粮补充硒源对蛋鸡生产性能没有显著影响。这可能是家禽的品种、生产阶段、基础饲粮中硒含量以及硒源类型的不同所引起。本研究发现，饲粮补充 $0 . 3 ~ \mathrm { m g / k g }$ 亚硒酸钠或酵母硒对产蛋高峰期临武鸭的生产性能无显著影响。
+
+本研究发现，饲粮补充 $0 . 3 \mathrm { m g / k g }$ 亚硒酸钠或酵母硒对鸭蛋哈氏单位等蛋品质指标无显著影响，这与燕磊等[13]在樱桃谷种鸭上的研究类似。这可能与产蛋高峰期蛋鸭机体免疫和抗氧化功能的调控能力较强有关。Payne 等[18]研究认为，在饲粮中添加酵母硒能够减慢鸡蛋哈氏单位下降速度，延长鸡蛋的货架期。曲湘勇等]在鹌鹑上的研究也表明，饲粮中添加纳米硒和酵母硒能极显著延缓鹑蛋在储藏过程中哈氏单位下降。但本试验未涉及储藏过程中鸭蛋品质的研究，尚不能认为饲粮补充 $0 . 3 ~ \mathrm { m g / k g }$ 亚硒酸钠或酵母硒对储藏过程中鸭蛋品质无影响。
+
+# 3.2不同硒源对蛋鸭血清抗氧化能力的影响
+
+硒在十二指肠被吸收进入血液后，与血液中 $\mathfrak { a }$ -球蛋白和 $\beta$ -球蛋白结合，通过血液转运到各组织中[19]。硒是GSH-Px、硫氧还蛋白还原酶和硒蛋白P等的活性成分，机体通过含硒蛋白或硒酶来调节抗氧化能力[20-21]。近年来，随着有关硒研究的越来越深入，发现有机硒和无机硒在吸收和转运机制上存在较大差异，有机硒的吸收利用率、生物安全性以及对机体抗氧化能力的提升均高于无机硒[4]。孙庆艳等[8研究表明，与亚硒酸钠和蛋氨酸硒相比，饲粮补充酵母硒和纳米硒对提高蛋鸡血浆GSH-Px活性和总抗氧化能力（T-AOC）的效果更好。Zhang 等[22]研究发现，与亚硒酸钠相比，39 周龄岭南黄鸡种鸡饲粮中补充蛋氨酸硒可极显著提高其后代血清和胸肌的GSH-Px 活性，血清中GSH的含量以及胰腺的T-AOC。曲湘勇等[11研究表明，与对照组相比，酵母硒和纳米硒组血清中 GSH-Px、T-SOD 活性和 T-AOC均极显著提高，MDA含量极显著降低，纳米硒的抗氧化效果高于酵母硒。本研究结果与前人研究结果类似，认为饲粮中补充 $0 . 3 ~ \mathrm { m g / k g }$ 硒可显著提高临武鸭血清中硒含量，以及血清中 GSH-Px 活性，饲粮补充酵母硒可显著降低临武鸭血清中MDA含量。
+
+# 3.3不同硒源对鸭蛋中硒含量的影响
+
+研究表明，禽蛋硒含量随着饲粮中硒水平的增加而增加[10]，且有机硒沉积效果优于无机硒[23-24]。Delezie 等[25]研究发现，饲粮中硒的补充水平会反映在鸡蛋中，补充 $0 . 5 \mathrm { \ m g / k g }$ （20硒的鸡蛋中硒含量最高，补充 $0 . 3 \mathrm { \ m g / k g }$ 的次之，补充 $0 . 1 \mathrm { \ m g / k g }$ 的最低；从补充的硒源来看，剂量反映最明显的是蛋氨酸硒，酵母硒次之，亚硒酸钠最低。Jing 等[23]研究发现，有机硒（酵母硒和蛋氨酸硒）可更显著提高鸡蛋中的硒含量，且硒源添加水平较高时，蛋硒含量也较高。卢建等9]和蔡娟等[12研究表明，酵母硒中硒向鸡蛋中的转移速度比亚硒酸钠更快，效率也更高；且蛋硒含量随着酵母硒补充天数的增加而增加。以上报道都是研究持续补充硒源对蛋硒富集规律的影响，然而持续补充硒源一段时间后撤除外源硒是否会影响蛋硒的存留尚未见报道。本研究表明，饲粮中补充硒源可显著提高蛋硒含量，并将蛋硒含量维持在相对稳定的水平，这与前人研究结果类似。本研究还发现，饲粮中持续补充硒源42d再停止补充后的5d内，蛋硒含量均高于对照组；停止外源硒添加，亚硒酸钠组7d后、酵母硒组9\~10d 后蛋硒含量降至对照组水平，酵母硒较亚硒酸钠可延长硒在鸭蛋中的存留时间 2\~3d。由此可见，蛋鸭饲粮中补充硒源42d，可延长撤除外源硒后鸭蛋中硒的存留时间。相对于亚硒酸钠，酵母硒可缓解鸭蛋硒的衰减。这可能是因为饲粮补充硒源可提高鸭血清、肝脏和肌肉中的硒含量[26]，撤除外源硒后，这些组织中存留的硒逐渐向蛋中迁移富集，使鸭蛋中硒的存留时间更长。具体原因或机理还有待进一步研究。
+
+4结论
+
+$\textcircled{1}$ 饲粮补充 $0 . 3 \mathrm { \ m g / k g }$ 酵母硒或亚硒酸钠对产蛋高峰期临武鸭生产性能和蛋品质无显著影响。$\textcircled{2}$ 饲粮中补充硒源能够显著提高临武鸭血清中硒含量和抗氧化能力，以及鸭蛋中硒含量。$\textcircled{3}$ 饲粮中补充硒源，可延长停止补充硒源后鸭蛋中硒的存留时间，相对于亚硒酸钠，酵母硒对蛋硒存留时间的影响更长。
+
+参考文献：
+
+[1] BERMINGHAME N,HESKETHJE,SINCLAIRBR,et al.Selenium-enriched foods are more effective at increasing glutathione peroxidase (GPx) activity compared with selenomethionine:a meta-analysis[J].Nutrients,2014,6(1O):4002-4031.
+
+[2] MO H,LI G,WEI X.Benefit and risk of selenium supplement[J].Agro Food Industry Hi
+
+Tech,2013,24(4):4-6.   
+[3] ROSENFELD I,BEATH O A.Selenium:geobotany,biochemistry,toxicity,and nutrition[M].New York:Academic Press,2013.   
+[4] SURAIP F,FISININ V 1.Selenium in poultry breeder nutrition:an update[J].Animal Feed Science and Technology,2014,191:1-15.   
+[5] YANG Y R,MENG F C,WANG P,et al.Effect of organic and inorganic selenium supplementation on growth performance,meat quality and antioxidant property of broilers[J].African Journal of Biotechnology,2012,11(12):3031-3036.   
+[6]杨海明,王志跃,孙红暖,等.硒对仔鹅生长性能、血清生化指标、抗氧化能力、屠宰性 能和肉品质的影响[J].动物营养学报,2015,27(12):3699-3707.   
+[7]余丹,邹成义,殷勤,等.蛋氨酸硒对大恒肉种鸡繁殖性能的影响[J].动物营养学 报,2014,26(11):3414-3419.   
+[8] 孙庆艳,武书庚,张海军,等.饲粮中添加不同硒源对产蛋鸡生产性能和抗氧化能力的影 响[J].动物营养学报,2016,28(4):1177-1185.   
+[9] 卢建,王克华,曲亮,等.酵母硒和亚硒酸钠对蛋鸡蛋硒含量动态变化的影响[J].动物营养 学报,2014,26(12):3740-3746.   
+[10]杨清丽,陈继发,曲湘勇,等.纳米硒对蛋鸽生产性能、蛋中硒含量及血清抗氧化指标的 影响[J].动物营养学报,2015,27(12):3895-3903.   
+[11]曲湘勇,蔡超,何俊,等.酵母硒和纳米硒对鹌鹑产蛋后期生产性能、蛋品质、蛋中硒含 量及血清抗氧化指标的影响[J].动物营养学报,2014,26(3):732-738.   
+[12]蔡娟,卢建,施寿荣,等.酵母硒和亚硒酸钠对蛋鸡生产性能、蛋品质和蛋硒含量的影响 [J].动物营养学报,2014,26(12):3793-3798.   
+[13]燕磊,吕明斌,安沙,等.饲粮硒和维生素E 添加水平对樱桃谷种鸭产蛋性能和蛋品质的 影响[J].动物营养学报,2014,26(1):219-226.   
+[14]胡华锋,黄炎坤,介晓磊,等.3 种硒源对蛋鸡生产性能、蛋硒含量及转化率的影响[J].动 物营养学报,2013,25(7):1603-1609.   
+[15]LAIKA M,JAHANIAN R.Dietary supplementation of organic selenium could improve performance,antibody response,and yolk oxidative stability in laying hens fed on diets containing oxidized fat[J].Biological Trace Element Research,2015,165(2):195-205.
+
+[16] CHANTIRATIKUL A,BORISUTHL,CHINRASRI O,et al.Evaluation of the toxicity of selenium from hydroponically produced selenium-enriched kale sprout in laying hens[J].Journal of Trace Elements in Medicine and Biology,2O16,35:116-121.
+
+[17] ZDUNCZYK Z,DRAZBO A,JANKOWSKI J,et al.The effect of different dietary levels of vitamin E and selenium on antioxidant status and immunological markers in serum of laying hens[J].Polish Journal of Veterinary Sciences,2013,16(2):333-339.
+
+[18] PAYNE R L,LAVERGNE T K,SOUTHERN L L.Effect of inorganic versus organic selenium on hen production and egg selenium concentration[J].Poultry Science,2005,84(2):232-237.
+
+[19]蒋宗勇,王燕,林映才,等.硒代蛋氨酸对肥育猪血浆和组织硒含量及抗氧化能力的影响[J].中国农业科学,2010,43(10):2147-2155.
+
+[20]潘翠玲.有机硒源在蛋鸡生产中的应用及其机理研究[D].博士学位论文.南京:南京农业大学,2008.
+
+[21]朱宏娟.不同硒源及硒水平对肉仔鸡生产性能和血液抗氧化指标的影响[D].硕士学位论文.长沙：湖南农业大学,2006
+
+[22] ZHANG L,WANG Y X,ZHOU Y,et al.Different sources of maternal selenium affect selenium retention,antioxidant status,and meat quality of 56-day-old offspring of broiler breeders[J].Poultry Science,2014,93(9):2210-2219.
+
+[23] JING C L,DONG X F,WANG Z M,et al.Comparative study of $D L$ -selenomethionine vs sodium selenite and seleno-yeast on antioxidant activity and selenium status in laying hens[J].Poultry Science,2015,94(5):965-975.
+
+[24] JLALI M,BRIENS M,ROUFFINEAU F,et al.Effect of 2-hydroxy-4-methylselenobutanoic acid as a dietary selenium supplement to improve the selenium concentration of table eggs[J].Journal of Animal Science,2013,91(4):1745-1752.
+
+[25] DELEZIE E,ROVERS M,VAN DER AA A,et al.Comparing responses to different selenium sources and dosages in laying hens[J].Poultry Science,2014,93(12):3083-3090.
+
+[26]BALTIC M Z,STARCEVIC M D,BASIC M,et al.Efects of selenium yeast level in diet on carcass and meat quality,tissue selenium distribution and glutathione peroxidase activity in ducks[J].Animal Feed Science and Technology,2015,210:225-233.
+
+Change of Egg Selenium Retention of Linwu ducks
+
+WANG Xiangrong1,2.3 HUANG Xuan³LI Chuang³JIANG Guitao2.3 ZHANG $\mathrm { X u } ^ { 2 , 3 }$ DAI Qiuzhong1,2.3\*FANG Rejun1\* (1. Hunan Collborative Innovation Center of Animal Production Safety, College of Animal   
+Science and Technology,Hunan Agricultural University, Changsha 410128, China; 2. Institute of   
+Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha 410205, China; 3.Hunan Institute of Animal Science and Veterinary Medicine, Changsha 41O131, China)
+
+Abstract: This experiment was conducted to study the effects of sodium selenite and selenium yeast on serum antioxidant capacity, egg quality and dynamic change of egg selenium retention of Linwu ducks. Two hundred and forty 29-week-old healthy Linwu ducks with a similar laying rate were randomly assigned to 3 groups with 5 replicates in each group and 16 ducks per replicate. The ducks in control group were fed a basal diet without adding selenium source (selenium content was $0 . 1 8 3 ~ \mathrm { \ m g / k g }$ ，while the others in experimental groups were fed the basal diet supplemented with $0 . 3 0 \mathrm { \ m g / k g }$ selenium in forms of sodium selenite or selenium yeast, respectively. The experimental diets were fed with $4 2 { \mathrm { ~ d ~ } }$ for each group, then stop to supplement selenium and the basal diet were fed within 1O days. The results showed as follows: 1) compared with the control group, dietary supplemented with sodium selenite or selenium yeast had no significant effect on the performance and egg quality of Linwu ducks $( P { > } 0 . 0 5 )$ , dietary addition of $0 . 3 0 ~ \mathrm { m g / k g }$ sodium selenite or selenium yeast significant increased serum selenium content of Linwu ducks $( P { < } 0 . 0 1 )$ , and significant increased serum glutathione peroxidase activity $( P { < } 0 . 0 5 )$ ， dietary addition of $0 . 3 0 ~ \mathrm { m g / k g }$ selenium yeast significant decreased the serum malonaldehyde content ( $( P { < } 0 . 0 5 )$ . 2) Compared with the control group, dietary supplemented with sodium selenite or selenium yeast significant increased the egg selenium content $( P { < } 0 . 0 1 )$ ，stop supplement selenium source within 5 days, the egg selenium content of experimental groups still significant higher than that in control group $( P { < } 0 . 0 1 )$ , stop supplement selenium source within 7 and 8 days, the egg selenium content of selenium yeast group was significantly higher than that in sodium selenite group and control group $( P { < } 0 . 0 1 )$ , stop supplement selenium source within 9 and 10 days, the egg selenium content of all groups were recovery to the same level $( P { > } 0 . 0 5 )$ . In conclusion, the performance and egg quality of Linwu ducks are not affected by dietary addition of sodium selenite and selenium yeast; but the serum antioxidant activity, selenium contents in serum and egg of Linwu ducks can be improved. Compared with sodium selenite, dietary supplementation of selenium yeast can prolong the selenium retention of egg.
+
+Key words: selenium; sodium selenite; selenium yeast; antioxidant capacity; egg; Linwu ducks

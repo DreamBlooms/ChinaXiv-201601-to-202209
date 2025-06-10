@@ -1,0 +1,435 @@
+[
+    {
+        "type": "text",
+        "text": "基于数字标本探究绿绒蒿属植物花期的变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡宝坤1,2，王英伟³，唐中华1,2\\*（1.东北林业大学 化学化工与资源利用学院，哈尔滨 150040；2.东北林业大学森林植物生态学教育部重点实验室，哈尔滨150040；3.中国科学院植物研究所，北京100093）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来，随着全球气温的明显升高，气候变化引起的全球变暖受到人们的广泛关注。气候变暖会使植物物候发生改变，花期的变化能够直观地反映出植物对周围环境的适应，尤其是高山植物对气候变化更为敏感，探究高山植物的花期更具有代表性。为了了解植物在气候变暖背景下花期的变化特征，并制定出合理的植物保护措施。该文以典型的高山植物绿绒蒿属为例，基于中国数字植物标本馆保存的自1880 年至 2017年的3056 份高山植物绿绒蒿属标本数据，其中，有花标本归属年份共计104年，具有统计意义的有花标本为1539 份，利用相关性分析对分布于中国的绿绒蒿属植物的花期和年份间的关系进行了研究。结果表明：在气候变暖的背景下，随着年份的增加，绿绒蒿属植物的花期整体呈现延后的趋势；种类之间存在差异，其中有全缘叶绿绒蒿(M.integrifolia)、红花绿绒蒿(M.punicea)、总状绿绒蒿(M.racemosa)、川西绿绒蒿(M.henrici)、长叶绿绒蒿(M.delavayi)、椭果绿绒蒿(M.chelidonifolia)在内的6种绿绒蒿，是随着年份的增加，花期呈现延后的变化趋势；有多刺绿绒蒿(M.horridula)、五脉绿绒蒿(M.quintuplinervia)和滇西绿绒蒿(M.impedita)在内的 3 种绿绒蒿，是随着年份的增加，花期呈现提前的变化趋势；其中花期延后天数最多的为红花叶绿绒蒿，在1880—2017年之间，平均花期延后6d，花期提前天数最多的是滇西绿绒蒿，在1880一2017年之间，平均花期提前5d。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：绿绒蒿，花期，气候变化，高山植物，植物标本中图分类号：Q948.12 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Exploring the flowering period change of Meconopsis based on digital specimen ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAI Baokun1,2, WANG Yingwei3, TANG Zhonghual1,2\\* (1.Collegeof Chemistry,Chemical Engineering and Resource Utilization,NortheastForestry University,H ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "150040,China; 2. Key Laboratory of Forest Plant Ecology,Ministry of Education,Harbin 150040,China; 3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "InstituteofBotany,ChineseAcademyof Sciences,Beijing1ooo93,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In recent years,with the significant increase in global temperature， global warming caused by climate change has attracted widespread attention. Climate warming wil change plant phenology, and the changes in flowering period can directly reflect the adaptation of plants to the surrounding environment, especially alpine plants are more sensitive to climate change,and exploring the flowering period of alpine plants is more representative. In order to understand the changing characteristics of the flowering period of plants under the background of climate warming,and to develop reasonable plant protection measures.This article takes the famous alpine plant Meconopsis as an example,based on the data of $3 \\ 0 5 6$ alpine plant specimens of Meconopsis from 1880 to 2017 kept by the Chinese Virtual Herbarium. Among them， the attributive years of flowering specimens were lO4 years,and there were 1 539 specimens of statistical significance. Correlation analysis is used to study the relationship between the flowering period and year of Meconopsis plants distributed in China The results were as follows: Under the background of climate warming，with the increase of years,the flowering time of Meconopsis showed a trend of postponing; There are differences between species, among them, there are six species of Meconopsis, including M. integrifolia, M. punicea,M. racemosa, M. henrici， M. delavayi and M. chelidonifolia, which showed a trend of delayed flowering with the increase of years; With the increase of years, the flowering time of three Meconopsis species M. horidula, M. quintuplinervia and M.impedita showed an earlier trend; Among them, the number of days of delayed flowering was M. punicea, which was delayed by 6 days on average from l880 to 2017, and the most advanced number of flowering days is M. impedita, with an average of 5 days in advance from 1880 to 2017. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:Meconopsis,flowering period, climate change,alpine plants, herbarium ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气候变化是指长时期内气候因子(温度、降水、光照和大气成分)状态的变化，可以通过物候年变化等来进行监测(Rawal et al.,2015;Mohandass et al.,2015; Kwembeya,2021)。21 世纪以来，人类活动引起温室气体排放增多，极端气候频发，导致温度平均每年升高 $0 . 7 4 ^ { \\circ } \\mathrm { C }$ 预计到21世纪末温度将升高1.8\\~4.0C(IPCC,2014)。随着气温的逐年升高，整个生态系统将面临着严峻的考验。植物物候是指植物在生物和非生物因子(温度、降水、光照和土壤养分等)的综合作用下形成的以年为周期的自然现象，它包括植物的萌发、展叶、开花、结果等(竺可桢和宛敏渭,1980;Schwartz,2013)。植物物候的变化可以直观地反映一些气候变化带来的影响，尤其是气候变暖对植物造成的一些危害。植物与环境间关系的改变，会引起生态系统的物质循坏等过程随物候而改变，温度变化对不同种类植物物候的影响存在差异，这会使植物间甚至是动植物间的竞争与依赖关系也发生深刻变化(汪箫悦,2018)。越来越多的研究表明，全球气候变暖对现有的植物物候会产生深远的影响(Penuelas etal.,2009；张婵等，2020)。花期作为植物物候和植物生长繁殖的重要阶段，其变化是植物应对环境变化的核心属性(程婉莹,2020)，花期的变化可以导致植物的开花时间与传粉者活动的时间不匹配，进而影响生物的多样性(Donnella et al.,2011; Renner＆ Zohner,2018)。因此，气候变暖对花期的影响日益成为全球变化生态学和物候学研究的重要内容(Robbirt etal.,2011；陈静茹等，2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有研究表明,气候变暖会使花期提前,如1952—2000 年间地中海地区(Penuelas&Filella,2001)、1851—1994 年间匈牙利地区(Walkovszky,1998)、1936—1998 年间美国威斯康辛地区(Bradley etal.,1999)以及1970—1999 年间华盛顿地区(Shetler etal.,2001)的植物花期均提前了大约1周。有研究发现，在1987—2016年间，西安和宝鸡各物种的开花始期和开花末期均以提前趋势为主(陶泽兴等,2020)。此外，研究表明温度的变化程度与花期的早晚有一定的数量关系(储吴樾等,2020)。例如，Robbie et al.(2014)研究发现1884 年以来，喜马拉雅杜鹃花的花期随年均温的增加而提前，温度平均每升高 $1 ^ { \\circ } \\mathrm { C }$ ，花期提前2.27d。在英国，春季平均温度每升高 $1 ^ { \\circ } \\mathrm { C }$ ，植物始花期提前 2\\~10d(Sparks etal.,1997)；在匈牙利，年平均温度每升高 $1 ^ { \\circ } \\mathrm { C }$ ，刺槐花期提前7d(Walkovszky,1998)；年平均温度上升 $1 ^ { \\circ } \\mathrm { C }$ ，大部分植物始花期提前3\\~6d(张福春,1995)。最新研究表明，物候对气候变化的响应在不同分布区存在较大的种内变异性(Song et al.,2020,2021)，不同植物的物候对气候变化的响应存在差异，（付永硕,2020)，在同一区域植物物候甚至呈现出相反趋势，如青海省甘德县的垂穗披碱草始花期以 $1 6 \\mathrm { d } { \\cdot } 1 0 \\mathrm { y r } ^ { - 1 }$ 的速率推迟，而青海省互助县的冰草始花期以 $2 1 \\mathrm { d } { \\cdot } 1 0 \\mathrm { y r } ^ { - 1 }$ 的速率提前(祁如英等,2006)。甘肃省民勤县荒漠区的研究表明，油蒿花期显著提前，速率为 $2 . 1 9 \\mathrm { d } { \\cdot } 1 0 \\mathrm { y r } ^ { - 1 }$ ，牡丹花期却显著推迟，速率为1.97d·10yr(常兆丰等,2010)。植物花期与温度有着密切的联系，花期的延后和提前可以明显反映出植物的物候对气候变化的响应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有研究发现，高海拔地区分布的草本植物对气候变化极为敏感，可能面临更大的生存威胁(Zheng et al.,2021)，如在瑞士阿尔卑斯山(Walther et al.,2005)、南美(Feeley,2012)和美国加利福尼亚州(Wolf et al.,2016)等地区，随着气候变暖加剧，部分高海拔的植物类群移到了更高的海拔和温度更低的栖息地。在20 世纪70年代，喜马拉雅和横断山区的绿绒蒿属植物，有七分之六的物种分布海拔明显上升，这种平均海拔上移对于某些物种来说，是不可忽视的威胁(He et al.，2019)。绿绒蒿属(Meconopsis)作为高山植物的典型代表，为罂粟科(Papaveraceae)一年或多年生草本，全球共有 49 种，除1种产西欧外，其余 48 种均分布在喜马拉雅山脉和横断山脉(龚宇等，2020)，以中国西藏、云南、四川等地最为丰富。绿绒蒿属植物因全株披有绒毛或刚毛而得名，多数生长于海拔 $3 ~ 0 0 0 { \\sim } 5 ~ 0 0 0 ~ \\mathrm { m }$ ，花朵优美艳丽，被誉为\"高山牡丹”，是世界著名的高山花卉，既具观赏价值也有药用价值(王仕英等，2019)。其中，毛瓣绿绒蒿(M.torquata)已于 2000 年被列入一级濒危藏药材；尼泊尔绿绒蒿(M.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "napaulensis)为公约附录三级保护种；红花绿绒蒿(M.punicea)被列为国家二级保护植物。目前，对该属植物的研究多集中于药理成分(喻舞阳，2020)，作为长期适应复杂环境的高山植物，其物候变化等方面的研究还比较匮乏，尤其是在气候变暖背景下，花期变化特征的研究则更少。数字标本数据库中的每份标本都包含标签信息和图像信息，从中我们可以获得标本彩色照片、标本号、标本的采集日期、采集地点以及鉴定人和鉴定时间等多方面的具体信息。在全球变暖的背景下，利用数字植物标本馆提供的丰富且便于查找的物候信息资源，探究绿绒蒿属植物的花期响应机制，不仅对预测植物的繁殖季节、群落结构变化及迁移演化规律有重大意义，同时又有助于对遭受破坏且脆弱的高山生态系统进行针对性的保护和修复，以保证对高山珍贵植物资源的有效及持续利用(刘梦颖,2018)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文通过中国数字植物标本馆[Chinese Virtual Herbarium(CVH); http://www.cvh.ac.cn/]记录的绿绒蒿属植物的标本数据，对1880年至2017年的3056 份高山植物绿绒蒿属的数字标本进行研究，利用相关性分析绿绒蒿属植物的花期变化趋势，以及每种之间花期变化的差异。探究我国绿绒蒿属植物花期对气候变化的响应特征。本研究将为深入研究植物物候对气候变化的响应提供一定的理论指导和科学依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "绿绒蒿属植物带花的标本采集信息来自于中国数字植物标本馆(CVH;http://www.cvh.ac.cn/)数据库中1880—2017年的数字化标本。数据库中的每份标本都包含标签信息和图像信息，从中我们可以获得标本彩色照片、标本号、标本的采集日期、采集地点以及鉴定人和鉴定时间等多方面的具体信息。如图1所示，为多刺绿绒蒿数字标本的彩色照片。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ebb1564f587b7fc5b1f822daed3eb5d89055be2d8f6218523d373a355b61c4a.jpg",
+        "img_caption": [
+            "图1多刺绿绒蒿数字标本彩色照片"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Color photograph of a digital specimen of Meconopsis spiny ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了不同年份之间便于比较，我们先对物候数据进行处理，物候日期采用 Julian 日(儒略日)的换算方法，即把原始数据转变为距当年1月1日的实际天数，从而得到各种绿绒蒿花期的时间序列(张增信等,2014)，如2016年7月19日，开花日为201d，2017年6月 25日，开花日为176d，以此类推。进一步除去无具体采集日期、未鉴定种名、无花和无采集地点信息的标本数据，余下数据用于后续分析。筛选后的数据中标本年份只有104年，标本采集地点涉及9个省 $( \\bigstar )$ ，分别为四川、青海、云南、西藏、甘肃、陕西、湖北、宁夏和新疆。标本数据涉到的绿绒蒿属植物共包括30个种，含有完整信息的标本共有1539份，每个种类具体数量以及最多的采集地点如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea4223438b2a39d5070e492a5395de6f9c49963f4238a23c857f4dd3d311bdbf.jpg",
+        "table_caption": [
+            "表1统计30种绿绒蒿属植物标本具体信息",
+            "Table 1 Statistics on the specific information of 3O species of Meconopsis plant specimens "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>种类 Species</td><td>数量 Amount</td><td>最多采集地点 Maximum collection site</td></tr><tr><td>全缘叶绿绒蒿Meconopsis integrifolia</td><td>264</td><td>云南 Yunnan</td></tr><tr><td>多刺绿绒蒿M.horridula</td><td>191</td><td>青海Qinghai</td></tr><tr><td>五脉绿绒蒿M.quintuplinervia</td><td>168</td><td>四川 Sichuan</td></tr><tr><td>总状绿绒蒿M.racemosa</td><td>168</td><td>青海Qinghai</td></tr><tr><td>红花绿绒蒿M.punicea</td><td>128</td><td>四川 Sichuan</td></tr><tr><td>绿绒蒿属 Meconopsis Vig.</td><td>95</td><td>西藏 Xizang</td></tr><tr><td>川西绿绒蒿M.henrici</td><td>51</td><td>四川 Sichuan</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/caff24b355e9da81b51e8ce4dcc61fd865b300ead696b13c12164c351482e2f2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>长叶绿绒蒿M.lancifolia</td><td></td><td>49</td><td>四川 Sichuan</td></tr><tr><td>滇西绿绒蒿M.impedita</td><td></td><td>35</td><td>四川 Sichuan</td></tr><tr><td></td><td>椭果绿绒蒿M.chelidonifolia</td><td>28</td><td>四川 Sichuan</td></tr><tr><td>长果绿绒蒿M.delavayi</td><td></td><td>20</td><td>云南 Yunnan</td></tr><tr><td>秀丽绿绒蒿M.venusta</td><td></td><td>20</td><td>云南 Yunnan</td></tr><tr><td>单叶绿绒蒿M.simplicifolia</td><td></td><td>15</td><td>西藏 Xizang</td></tr><tr><td></td><td>藿香叶绿绒蒿M.betonicifolia</td><td>14</td><td>西藏 Xizang</td></tr><tr><td>美丽绿绒蒿M.speciosa</td><td></td><td>14</td><td>云南 Yunnan</td></tr><tr><td>优雅绿绒蒿M.concinna</td><td></td><td>12</td><td>云南 Yunnan</td></tr><tr><td>柱果绿绒蒿M.oliveriana</td><td></td><td>7</td><td>陕西 Shanxi</td></tr><tr><td>锥花绿绒蒿M.paniculata</td><td></td><td>7</td><td>西藏 Xizang</td></tr><tr><td>丽江绿绒蒿M.forrestii</td><td></td><td>6</td><td>云南 Yunnan</td></tr><tr><td>尼泊尔绿绒蒿M.napaulensis</td><td></td><td>5</td><td>四川 Sichuan</td></tr><tr><td></td><td>拟秀丽绿绒蒿M.pseudovenusta</td><td>5</td><td>西藏 Xizang</td></tr><tr><td>大花绿绒蒿M.grandis</td><td></td><td>3</td><td>西藏Xizang</td></tr><tr><td>毛盘绿绒蒿M.discigera</td><td></td><td>3</td><td>西藏 Xizang</td></tr><tr><td>琴叶绿绒蒿M.lyrata</td><td></td><td>3</td><td>云南 Yunnan</td></tr><tr><td>皮刺绿绒蒿M.aculeata</td><td></td><td>2</td><td>西藏 Xizang</td></tr><tr><td>藏南绿绒蒿M.tsangnanensis</td><td></td><td>2</td><td>西藏 Xizang</td></tr><tr><td>吉隆绿绒蒿M.pinnatifolia</td><td></td><td>1</td><td>西藏 Xizang</td></tr><tr><td>久治绿绒蒿M.barbiseta</td><td></td><td>1</td><td>四川 Sichuan</td></tr><tr><td>肋蕊绿绒蒿M.pleurogyna</td><td></td><td>1</td><td>四川 Sichuan</td></tr><tr><td>细梗绿绒蒿 M.gracilipes</td><td></td><td>1</td><td>西藏 Xizang</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我们采用了两种方式对绿绒蒿属植物的花期进行研究。一是利用所有的有花标本进行统计分析，观测整体的绿绒蒿属植物标本的花期变化情况；二是通过对标本数量大于20 的绿绒蒿进行逐一分析花期变化情况，判断每种绿绒蒿花期的具体变化趋势。结合以上分析手段，探究绿绒蒿属植物的花期对气候变暖的响应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3数据统计与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用Office2007软件对数据进行常规处理和图表绘制，结合SPSS软件并运用相关分析和线性回归分析方法分析温度升高对绿绒蒿属植物花期的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.130种绿绒蒿在1880—2017年的花期总体变化趋势",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "原始数据的采集日期换算为距当年1月1日的实际天数后，对1880—2017年包含完整信息的1539份标本中的30种绿绒蒿的花期进行分析，如图2所示，发现研究数据中来自9个省（区）的30 种绿绒蒿的花期与年份呈显著正相关（ $P { < } 0 . 0 1$ ），即随着年份增加，花期呈现上升趋势，表明在过去的104年内（不包含无花标本的年份），受气候变暖的影响，我国绿绒蒿属植物的花期有延后的趋势。1880—2017的中间年份约在1949年，为了方便比较，我们以19世纪50年代为分界，在50年代以前的平均花期为186d，50年代后期的平均花期为191d，因此，在1880—2017年间，绿绒蒿属植物的平均花期约延后5d。另外，大部分绿绒蒿属植物的花期在150\\~250d比较集中，即统计数据中的绿绒蒿属植物的花期多数分布在5-8月。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/332435fc5b37bac0828c76fee7c8047ddec33a003b5b8fea022af6bd977c7e98.jpg",
+        "img_caption": [
+            "图230种绿绒蒿在1880一2017年的花期总体变化趋势图",
+            "Fig.2 Overall change trend of 30 species of Meconopsis from 188O to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，因为 $R ^ { 2 }$ 代表回归方程或回归线的拟合程度，而本文探究花期与时空因素的统计关系，实验值与回归线预测值可能不完全一致， $\\boldsymbol { R } ^ { 2 }$ 不具有说服力，故用 Pearson 相关系来分析绿绒蒿属植物的花期与时间和空间因素的相关性。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0345c80907a6e5f4c980076805b688f03425d47813c0374f42970641b24bab30.jpg",
+        "table_caption": [
+            "表2花期与年份的相关性分析表",
+            "Table2 Correlation analysis table of flowering period with time and space "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在 $P { < } 0 . 0 1$ 水平（双侧）上显著相关；\\*表示在 $P { < } 0 . 0 5$ 水平（双侧）上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>Pearson 相关性 Pearson correlation</td><td>年份 Year</td><td>花期 Flowering period</td></tr><tr><td>年份Year</td><td>1</td><td>0.321**</td></tr><tr><td>花期 Flowering</td><td>0.321**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: \\*\\* indicates significant correlation at $P { < } 0 . 0 1$ level (bilateral); \\*indicates a significant correlation at a $P { < } 0 . 0 5$ level (bilateral). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2每种绿绒蒿在其采集年份内的花期变化趋势 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1花期延后的绿绒蒿 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，有6种绿绒蒿随时间的推移花期呈现延后的趋势，包括全缘叶绿绒蒿、红花绿绒蒿、总状绿绒蒿、川西绿绒蒿，长叶绿绒蒿、椭果绿绒蒿。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3：A所示，全缘叶绿绒蒿的花期与年份呈正相关，即随着年份的增加，全缘叶绿绒蒿的花期呈延后的趋势，以19 世纪50年代为分界，全缘叶绿绒蒿在50年代以前的平均花期为168d，50年代后期的平均花期为172d，因此，在1880—2017年间，全缘叶绿绒蒿的平均花期约延后 $ { 4 \\mathrm { d } }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3：B所示，红花绿绒蒿的花期与年份呈正相关，即随着年份增加，红花绿绒蒿的花期呈延后的趋势，以19世纪50年代为分界，红花绿绒蒿在50年代以前的平均花期为185天，50 年代后期的平均花期为191d，因此，在1880—2017年间，红花绿绒蒿的平均花期约延后6d。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3：C所示，总状绿绒蒿的花期与年份呈正相关，即随着年份增加，总状绿绒蒿的花期呈延后的趋势，以19世纪50年代为分界，总状绿绒蒿在50年代以前的平均花期为199d，50 年代后期的平均花期为202d，因此，在 1880—2017年间，总状绿绒蒿的平均花期约延后3d。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3：D所示，川西绿绒蒿的花期与年份呈正相关，即随着年份增加，川西绿绒蒿的花期呈延后的趋势，以19世纪50年代为分界，川西绿绒蒿在50年代以前的平均花期为195d，50 年代后期的平均花期为197d，因此，在 1880—2017年间，川西绿绒蒿的平均花期约延后2d。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3：E所示，长叶绿绒蒿的花期与年份呈正相关，即随着年份增加，长叶绿绒蒿的花期呈延后的趋势，以19世纪50年代为分界，长叶绿绒蒿在50年代以前的平均花期为174d，50 年代后期的平均花期为178d，因此，在1880—2017年间，长叶绿绒蒿的平均花期约延后4d。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图3：F所示，椭果绿绒蒿的花期与年份呈正相关，即随着年份增加，椭果绿绒蒿的花期呈延后的趋势，以19世纪50年代为分界，椭果绿绒蒿在50 年代以前的平均花期为166d，50 年代后期的平均花期为167d，因此，在1880—2017年间，椭果绿绒蒿的平均花期约延后1d。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/288f0887f9d5af7ffd9a20a35c51183749b50c68b3ef1a2a39b5f42dde546faa.jpg",
+        "img_caption": [
+            "图36种绿绒蒿花期延后趋势图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A．全缘叶绿绒蒿；B.红花绿绒蒿；C.总状绿绒蒿；D.川西绿绒蒿；E.长叶绿绒蒿；F.椭果绿绒蒿。   \nA.M.integrifolia;B.M.racemosa; C.M. punicea ; D.M. henrici; E.M.lancifolia;F.M.chelidonifolia. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 Flowering period delay trend chart of six species of Meconopsis ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.2花期提前的绿绒蒿",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，有3种绿绒蒿的花期随年份的增加而呈现提前的趋势，分别为多刺绿绒蒿、五脉绿绒蒿、滇西绿绒蒿。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如图4：G所示，多刺绿绒蒿的花期与年份呈负相关，即随着年份增加，多刺绿绒蒿的花期呈提前的趋势，以19 世纪50年代为分界，多刺绿绒蒿在50年代以前的平均花期为 206d，50年代后期的平均花期为202d，因此，在1880—2017年间，多刺绿绒蒿的平均花期约提前 $^ { 4 \\mathrm { d } }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如图4：H所示，五脉绿绒蒿的花期与年份呈负相关，即随着年份增加，五脉绿绒蒿的花期呈提前的趋势，以19世纪50年代为分界，五脉绿绒蒿在 50年代以前的平均花期为191d，50年代后期的平均花期为187d，因此，在1880—2017年间，五脉绿绒蒿的平均花期约提前 4d。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如图4：I所示，滇西绿绒蒿的花期与年份呈负相关，即随着年份增加，滇西绿绒蒿的呈花期提前的趋势，以19 世纪50年代为分界，滇西绿绒蒿在 50年代以前的平均花期为203 d，50年代后期的平均花期为198d，因此，在1880—2017年间，滇西绿绒蒿的平均",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "花期约提前5d。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/deece467d288a3a459dfb7c18ff8a9ead5471d9bc4afc898ebdbb02da9c7a7d5.jpg",
+        "img_caption": [
+            "图43种绿绒蒿花期提前趋势图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "G.多刺绿绒蒿；H.五脉绿绒蒿；I.滇西绿绒蒿。 G.M.horridula;H.M. quintuplinervia; I.M. impedita ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Flowering period early trend of three species of Meconopsis ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1绿绒蒿属植物花期对气候变暖的响应",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "我们利用1880—2017年的绿绒蒿属植物标本采集资料，分析了我国9个省份的30 种绿绒蒿属植物花期特征在过去104 年里与气温之间的关系，结果发现： (1)自19 世纪 80 年代起，近一百多年中，面对气候变暖带来的影响，我国绿绒蒿属植物的花期总体呈现延后的趋势，30 种绿绒蒿中有6种符合这种情况，分别为全缘叶绿绒蒿、红花绿绒蒿、总状绿绒蒿、川西绿绒蒿，长叶绿绒蒿、椭果绿绒蒿。这一结果与前人的研究结果一致，温度过高超过了最佳发育温度范围，植物躲避高温时期物候出现推迟现象(张宝成,2015)。(2）在所研究的有花标本资料内，有少部分绿绒蒿花期呈现提前的趋势，即30种绿绒蒿当中有3种出现与上述情况相反的结果，分别为多刺绿绒蒿、五脉绿绒蒿、滇西绿绒蒿。(3）全缘叶绿绒蒿在上世纪50年代之后比早些时候的花期延后4d，红花绿绒蒿的花期延后6d，总状绿绒蒿的花期延后3d，川西绿绒蒿的花期延后2d，长叶绿绒蒿的花期延后4d，椭果绿绒蒿的花期延后1d；有3种绿绒蒿的花期提前，多刺绿绒蒿的花期提前4d，五脉绿绒蒿的花期提前4d，滇西绿绒蒿的花期提前5d。(4）在19 世纪 50年代后，绿绒蒿属植物的花期比 50 年代前总体延后5d，其中花期延后天数最多的为红花绿绒蒿，花期延后天数最少的是椭果绿绒蒿，花期天数提前最多的是滇西绿绒蒿。由以上绿绒蒿属植物两种花期变化情况我们可得出，物种为了适应气候变暖会表现出两种不同的适应方式，这两种方式都是为了更好的适应生存环境，通过自身的调节提高对于已改变生境的适应性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "少数绿绒蒿的花期提前可能与更多非生物因素有关，光照强度不够，持续的干旱，雨水减少，暖冬现象以及海拔降低等都会使花期提前，这印证了在不同尺度水平上的植物物候研究中，物候对气候变暖的响应存在差异(徐波，2018)。研究表明，在生态系统尺度上，植物生长季会随温度升高而延长(Yu et al.,2010;McEwan etal.,2011)，而在物种水平上，诸多物种生命周期会随温度的升高而缩短(Steltzer& Post,2009)。根据 Sparks et al.(1997)的研究显示冬季的气温升高，有些物种的开花期会表现出提前的趋势，这一结果与Rodrigo&Herrero(2002)提出的开花前最高和平均温度的升高能够加速促进花芽发育，从而使开花期提前的结论相一致。研究中萌芽及开花期与冬季气温之间成反比，即冬季气温的升高能够使开花期提前，本研究中的少数绿绒蒿出现花期提前的趋势与 Sparks et al.(1997)的结论较为一致。不同的种类之间出现相反的花期对气候的响应趋势，具有不可忽视的生理意义，我们将继续积累经验并探究气候变暖对绿绒蒿属植物的各种相关影响，做出进一步的详细阐述。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "植物在气候变暖背景下生存环境发生变化，它们可通过扩散到更适宜的生境实现分布区变迁，或通过改变自身繁殖特性来适应环境的变化。通常，温度升高导致多数植物的分布区呈现出向高纬度、高海拔迁移的趋势(Sun etal,2020)。也有研究指出，近几十年许多动植物的分布区已经发生了明显的变化，但存在特殊情况，在局部区域分布的物种，特别是生长在极地、山顶的物种的分布范围则出现了严重的收缩(Tsiftsis& Tsiripidis,2020)。基于历史数据，通过模型预测气候变化对物种分布的影响，He et al.(2019)对喜马拉雅-横断山特有的 10种高山蓝钟花属(Cyananthus)和报春花属(Primula)植物的分布区预测发现，在气候变暖情景下，所有研究物种的分布海拔向上移动，纬度上向北移动，以便占据与其之前栖息地相似的生境。此外，研究者们运用物种分布模型预测未来气候情景下(2070 年)7种绿绒蒿属植物的分布区，发现所有物种在1970年前(1922—1969 年)和1970 年后(1970—2016年)，平均海拔向上移动了 $3 0 2 . 3 \\mathrm { ~ m ~ }$ ，并预测到 2070 年将继续向上移动(包括向北和向西)，物种的分布范围也可能会发生收缩。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "传粉昆虫的物候同样受到温度的调节，温度变化直接影响昆虫的生存、发育、分布范围和丰富度(Bale et al,2002)。熊蜂属(Bombus)作为北半球重要的传粉昆虫之一(Wiliams et al,2017)，是适应高山和低温的典型类群，对气温升高极为敏感。Kerret al.(2015)对北美和欧洲的熊蜂分布区变迁进行预测，发现熊蜂将向高海拔区域迁移。Caradonnaetal.(2018)对美国西南部的壁蜂属昆虫(Osmia ribifloris)试验发现，该传粉昆虫的物候期延迟，导致其活动期与植物花期不同步，面临局部灭绝的危险。气候变化会导致植物和传粉者种群数量减少，生物多样性与传粉活动随之发生变化，进而也会使群落结构发生改变(Rose& Sytsma,2021)。传粉者群落构成发生变化，会使植物与传粉者的相互作用被破坏，从而导致植物的传粉服务不稳定甚至消失(Burkle et al.,2013)。Memmott et al.(2007)研究发现，植物物候变化会减少传粉者的食物资源，食物短缺可导致传粉者活动时间减少一半。在全球气候变暖的背景下，全球范围内传粉昆虫密度和丰富度均会下降，这对于生态和农业系统产生的重要影响，值得人们高度重视(Winfree etal.,2011)。绿绒蒿属植物的花期很少有人研究，而绿绒蒿属植物与传粉昆虫的互作关系更少有科学家研究，所以作为下一步计划，对于绿绒蒿属植物传粉方面的机制我们将详细研究并作出阐述。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过前文的分析比较，虽然我们得出了一些绿绒蒿属植物的花期响应气候变暖的结论，丰富了绿绒蒿属植物物候对气候变化响应的研究内容，为以后研究提供了一定的理论基础，但是还有诸多相关的科学问题，比如降水量对绿绒蒿属植物花期的影响、气候变暖对绿绒蒿属植物分布范围的影响、气候变化对绿绒蒿属植物代谢产物和植物遗传信息的影响等，都有待我们在后续的研究中进一步探索和挖掘。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2对绿绒蒿属植物保护的启示",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "全球大多数地区的生物受到气候变化的影响，而且这些趋势可能在未来几十年内延续(He etal.,2019a,b)。对绿绒蒿属植物与传粉者相互作用的保护，不仅应该关注互作双方的关键特征与环境因素的变化，还需要进一步研究并阐明气候变化背景下绿绒蒿属植物和传粉者的物候匹配机制(王维纬等，2016)。我们有必要开展更多的野外观察和控制实验，以大样本量来检测种群随时间的变化，同时需要建立相关的标准数据库，综合研究和预测植物种群对气候变化的响应(Franks et al.,2014)。作为高山植物栖息地的青藏高原，是对气候变化最敏感的地区之一(Li et al.,2019)，为研究植物与传粉昆虫互作关系受气候变化的影响提供了重要场所。在今后的研究中仍需关注的问题有以下几点：(1)植物与传粉昆虫互作机制的长期观测；(2)植物和传粉昆虫在海拔梯度上的物候数据监测；(3)物种繁殖适应能力的标准制定和评估；(4)基于多尺度对生物多样性进行探究。由此，我们需要加强对先受到传粉昆虫种群数量波动影响重点类群的评估和保护工作。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "自从1970 年以来，全球温度稳步上升，喜马拉雅山脉及横断山脉地区的气温升高速度达到了每10 年 $0 . 6 \\ ^ { \\circ } \\mathrm { C }$ 的惊人水平，远远高于全球的平均水平(IPCC，2014；Shrestha et al.,2012)。由于绿绒蒿属植物是草本植物，主要分布于高山或雪下生境，那么其对气候变暖和向较冷的生境海拔上移的敏感度会更高(He etal.,2019)。我们必须采取措施加强对绿绒蒿属植物资源的保护，可以通过当地政府机关等权威部门，号召社会各界力量参与到绿绒蒿属植物的保护工作中，尤其是绿绒蒿属的濒危物种(毛瓣绿绒蒿、尼泊尔绿绒蒿、红花绿绒蒿等)。也可以利用当今社会的新媒体等多种方式对群众进行宣传教育，让人们充分地认识到保护绿绒蒿属植物资源的重要意义，并能够自觉地维护好分布区的种质资源。我们也可以建立保护站，禁止外来人员进入林区进行非法采集，从源头遏制住对种质资源的破坏行为。除此之外，要从长远的角度考虑这一问题，因为绿绒蒿属植物的生长环境比较特殊，故可对数量稀少的种类或极具药用价值的种类，进行人工引种及优质繁育工作，从而达到维护生态平衡和保护生物多样性的目的。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "致谢　感谢叶建飞博士、杨楠博士、郭云博士、牛艳婷博士、周大凌博士和郝加琛博士在论文写作中给予的帮助。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "奓考义：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BRADLEY NL, LEOPOLD CL, ROSS J, 1999.Phenological changes reflect climate change in Wisconsin[J]. PNAS, 96: 9701-9704.   \nBURKLE LA,MARLIN JC, KNIGHT TM, 2013. Plant-polinator inter-actions over 120 years: Loss of species, cooccurrence and function[J]. Science,339: 1611-1615.   \nCARADONNA PJ, CUNNINGHAM JL, ILER AM,2018. Experimental warming in the field delays phenology and reduces body mass, fat content and survival: Implications for the persistence of a pollinator under climate change[J]. Funct Ecol, 32: 2345-2356.   \nCHANG ZF, HAN FG, ZHONG SN, 2010. Motivation analysis of accumulated temperature changes of 36 plant species in the Minqin desert area[J]. Chin Agric Sci Bull, (26): 295-302. [常兆丰，韩福贵，仲生年，2010．民勤荒漠区36种植物物候期积温变化动因分析[J]．中 国农学通报，(26)：295-302.]   \nCHEN JR,DU YJ, ZHANG YH, et al., 2016. Responses of Heilongjiang woody plants to climate warming in blooming season[J].JBeijing For Univ,38(11): 50-56.[陈静茹，杜彦君，张玉 红，等，2016．黑龙江木本植物盛花期对气候变暖的响应［J]．北京林业大学学报， 38(11): 50-56.]   \nCHENG WY, 2020. Changes in the growth and reproduction phenology of woody plants in eastern China[D]. Shanghai: East China Normal University.[程婉莹,2O20.中国东部地区 木本植物生长物候和繁殖物候的变化研究[D]．上海：华东师范大学.]   \nCHU WY, FAN JJ, ZHANG WX, 2020. Phenological stability of ornamental begonia flowering and its response to temperature changes[J]. J Nanjing For Univ(Nat Sci Ed), 44(5): 49-54. [储吴樾，范俊俊，张往祥，2020．观赏海棠花期物候稳定性及其对温度变化的响应[J]. 南京林业大学学报(自然科学版),44(5):49-54.]   \nDONNELLA A, CAFFARRA A, O'NEILL BF, 2011. A review of climate-driven mismatches between interdependent phenophases in terrestrial and aquatic ecosystems[J]. Int J Biometeorol, 55(6): 805-817.   \nFEELEY KJ，2012. Distributional migrations，expansions，and contractions of tropical plant species as revealed in dated herbarium records[J]. Glob Chang Biol,18: 1335-1341.   \nFU YS,LI XX, ZHOU XC, et al.， 2020. Research progress and prospects of plant phenology models under the background of global change[J]. Sci Chin: Earth Sci, 50(9): 1206-1218.[付 永硕，李昕熹，周轩成，等，2020.全球变化背景下的植物物候模型研究进展与展望[J]. 中国科学:地球科学,50(9): 1206-1218.]   \nFRANKS SJ,WEBER JJ,AITKEN SN,2014. Evolutionary and plastic responses to climate change in terrestrial plant populations[J]. Evol Appl, 7: 123-139.   \nGONG Y, ZHOU HZ, CHEN HL,2020. Research progress of medicinal plants of the genus Meconopsis in the past decade[J].Chin Mat Med,3: 758-763.[龚宇,周蕙祯,陈胡兰,2020, 近十年绿绒蒿属药用植物的研究进展[J]．中药材，3：758-763.]   \nHART R, SALICK J, RANJTTKAR S, XU J, 2014. Herbarium specimens show contrasting phenological responses to Himalayan climate[J]. Proc Natl Acad Sci USA，111(29): 10615-10619.   \nHE X,BURGESS KS,GAO LM, LI DZ, 2019. Distributional responses to climate change for alpine species of Cyananthus and Primula endemic to the Himalaya-Hengduan Mountains[J]. Plant Divers,41: 26-32.   \nHE X,Burgess KS, Yang XF, et al.， 2019. Upward elevation and northwest range shifts for alpine Meconopsis species in the Himalaya-Hengduan Mountains region[J]. Ecol Evol，9: 4055-4064.   \nIPCC,2014. Climate change 2014: Synthesis report. In Core Writing Team, PACHAURI RK , MEYER LA (Eds.),， Contribution of working groups I,I and II to the fifth assessment report of the intergovernmental panel on climate change ( $( 1 5 1 \\mathrm { p p }$ ). Geneva, Switerland: IPCC.   \nKERR JT,PINDAR A，GALPERN P,et al.， 2015. Climate change impacts on bumblebees converge across continents[J]. Science, 349: 177-180.   \nKWEMBEYA EG， 2O21.Tracking biological footprints of climate change using flowering phenology of the geophytes: Pancratium tenuifolium and Scadoxus multiflorus[J]. Int J Biometeorol, 65:577-586.   \nLI LH, ZHANG YL, WU JS, et al., 2019. Increasing sensitivity of alpine grasslands to climate variability along an elevational gradient on the Qinghai-Tibet Plateau[J]. Sci Total Environ, 678: 21-29.   \nLIU MY, 2018. The response of leaf morphology and anatomical structure of the alpine plant Meconopsis tomentosa to altitude[J]. Chin JEcol,37(1):35-42.[刘梦颖，2018．高山植物 全缘叶绿绒蒿叶片形态及解剖结构对海拔的响应[J]．生态学杂志，37(1)：35-42.]   \nLU PL,YU Q, HE QT, 2006. The response of plant phenology to climate change[J]. Acta Ecol Sin,(3):923-929.[陆佩玲，于强，贺庆棠，2006．植物物候对气候变化的响应[J]．生态 学报，(3)：923-929.]   \nMCEWAN RW，BRECHA RJ,GEIGER DR，et al.， 2011. Flowering phenology change and climate warming in southwestern Ohio[J]. Plant Ecol, 212(1): 55-61.   \nMEMMOTT J, CRAZE PG,WASER NM, et al.， 2007. Global warming and the disruption of plant-pollinator interactions[J]. Ecol Lett,10: 710-717.   \nMOHANDASS D, JLZ A, YMX A, et al., 2015. Increasing temperature causes flowering onset time changes of alpine ginger Roscoea in the Central Himalayas[J]. J Asia-Pacific Biodivers, 8(3):191-198.   \nPENUELAS J, FILELLA L, 2001. Phenology: Responses to a warming world[J]. Science, 294: 793-795.   \nPENUELAS J, RUTISHAUSER T, FILELLA I, 2009. Phenology feedbacks on climate change[J]. Science,324: 887-888.   \nQI RY,WANG QL, SHEN HY, 2O06.Phenological changes of Qinghai herb plants and analysis of the impact of meteorological conditions[J]. Meteorol Sci Technol, 34(3): 702-706.[祁如英， 王启兰，申红艳，2006．青海草本植物物候期变化与气象条件影响分析[J]．气象科技， 34(3): 702-706.]   \nRAWAL DS,KASEL S,KEATLEY MR,et al., 2015. Herbarium records identify sensitivity of flowering phenology of eucalypts to climate: Implications for species response to climate change[J]. Austral Ecol, 40(2): 117-125.   \nRENNER SS, ZOHNER CM，2018. Climate change and phenological mismatch in trophic interactions among plants, insects,and vertebrates[J].Ann Rev Ecol Evol Syst, 49: 165-182.   \nROBBIRT KM, DAVY AJ, HUTCHINGS MJ, et al., 2011. Validation of biological collections as a source of phenological data for use in climate change studies: a case study with the orchid Ophrys sphegodes[J]. JEcol, 99: 235-241.   \nRODRIGO J, HERRERO M, 2002. Efects of pre-blossom temperatures on flower development and fruit set in apricot[J]. Sci Horticul, 92(2): 125-135.   \nROSE JP, SYTSMA KJ, 2O21. Complex interactions underlie the correlated evolution of floral traits and their association with pollinators in a clade with diverse pollination systems[J]. Evolution, DOI:10.1111/evo.14220.   \nSCHWARTZ MD， 2013. Phenology: An Integrative Environmental Science[J]. Springer Netherlands,Dordrecht.   \nSHETLER S,ABU-ASAB M, PETERSON P, et al.,2001. Earlier plant flowering in spring as a response to global warming in the Washington DC area[J]. Biodivers Conserv, 1O: 597-612.   \nSHRESTHA UB, GAUTAM S, BAWA KS, 2012. Widespread climate change in the Himalayas and associated changes in local ecosystems[J].PLoS ONE,7: e36741.   \nSOLOMON SD,QIN M, MANNING Z, 2007. IPCC. Climate Change 2007: The Physical Science Basis[M]. Cambridge, UK and New York, USA: Cambridge University Press,.   \nSONG ZQ,FU YS,DU YJ, et al., 2020. Flowering phenology of a widespread perennial herb shows contrasting responses to global warming between humid and non-humid regions[J]. Funct Ecol, 34(9):1870-1881.   \nSONG ZQ,FU YS,DU YJ et al.， 2021. Global warming increases latitudinal divergence in flowering dates of a perennial herb in humid regions across eastern Asia[J].Agric For Meteorol, 296: 108-209.   \nSPARKS TH, CAREY PK, COMBES J, 1997. First leafing dates of trees in Surrey between 1947 and 1996[J]. London Nat, 76: 15-20.   \nSTELTZER H, POST E, 2009. Seasons and Life Cycles[J]. Science,324: 886-887.   \nSUN S, ZHANG Y, HUANG D,et al., 2020. The effect of climate change on the richness distribution patern of oaks (Quercus L.) in China[J]. Sci Total Environ,744:140786.   \nTAO ZX, GE QS, XU YJ, et al.，2020. Comparison of flowering phenology and temperature sensitivity of woody plants in Xi'an and Baoji[J]. Acta Ecol Sin, 40(11): 3666-3676.[陶泽 兴，葛全胜，徐韵佳,等，2020．西安和宝鸡木本植物花期物候变化及温度敏感度对比[J]. 生态学报,40(11):3666-3676.]   \nTSIFTSIS S, TSIRIPIDIS I, 2O20. Temporal and spatial patterns of orchid species distribution in Greece: implications for conservation[J]. Biodivers Conserv, 29(11):3461-3489.   \nWANG JY,1993. High-yield cultivation of Red Fuji apples[J]. Beijing: Jindun Publishing House. [汪景颜，1993．红富士苹果高产栽培[J]．北京：金盾出版社.]   \nWANG SY, CHEN X, FENG JM, et al.,2019. Research on the countermeasures for establishing in-situ protected areas of Meconopsis in Aba Prefecture[J]. S Agric,13(27): 25-26.[王仕英, 陈燥,冯俊铭,等，2019．阿坝州绿绒蒿就地保护地建立对策研究[J]．南方农业,13(27): 25-26.]   \nWANG WW, ZHANG SP, 2016. Phenological mismatch and biological adaptation mechanisms caused by global warming[J].JEcol,35(3):805-814.[王维纬，张淑萍，2016．全球变暖 引起的物候不匹配及生物的适应机制[J]．生态学杂志，35(3)：805-814.]   \nWANG XY, 2O18. Research on simulation and influence mechanism of regional vegetation phenology changes based on multi-source data[D]. Beijing: University of Chinese Academy of Sciences (Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences). [汪箫悦，2018．基于多源数据的区域植被物候变化模拟与影响机制研究[D]．北京：中 国科学院大学(中国科学院遥感与数字地球研究所).]   \nWALTHER GR, SASCHA B, BURGA CA, 2OO5. Trends in the upward shift of alpine plants[J]. J Veg Sci, 16: 541-548.   \nWILLIAMS PH, HUANG JX, AN JD,2017. Bear wasps of the Middle Kingdom: A decade of discovering China's bumblebees[J]. Antenna, 41: 21-24.   \nWINFREE R，BARTOMEUS I, CARIVEAU DP, 2011. Native pollinators in anthropogenic habitats[J]. AnnRev Ecol Evol Syst, 42: 1-22.   \nWOLF A, ZIMMERMAN NB,ANDEREGG WRL, et al., 2016. Altitudinal shifts of the native and introduced flora of California in the context of 2Oth-century warming[J]. Glob Ecol Biogeogr, 25: 418-429.   \nXU B,2O18. The impact of global warming on plant phenology[J]. Popular Sci Technol, 20(9): 22-25.[徐波，2018．全球变暖对植物物候的影响[J]．大众科技，20(9)：22-25.]   \nYU HY, LUEDELING E, XU JC, 2010. Winter and spring warming result in delayed spring phenology on the Tibetan Plateau[J]. Proc Natl Acad Sci, USA,107(51): 22151-22156.   \nYU WY, YANG ZL,LI JY, et al., 2020. Garden application and research progress of Meconopsis plants[J]. Sichuan For Sci Technol,41(1):115-121.[喻舞阳，杨紫玲，李佶芸,等,2020．绿 绒蒿属植物的园林应用及研究进展[J]．四川林业科技,41(1)：115-121.]   \nZHANG BC, BAI YF, 2015. The response progress of flowering phenology to climate change[J]. N Hortic,(22):190-194.[张宝成，2015．花期物候对气候变化的响应进展[J]．北方园 艺，(22): 190-194.]   \nZHANG C, AN Y, JASCHKE Y, et al. 2020. Research progressin plant propagation ecology on the Qinghai-Tibet Plateau and surrounding alpine regions[J]. Acta Plant Ecol, 44(1):1-21. [张 婵，安宇梦,JaschkeY，等,2020．青藏高原及周边高山地区的植物繁殖生态学研究进展 [J]．植物生态学报,44(1):1-21.]   \nZHANG FC,1995. The possible impact of climate change on the phenology of woody plants in China[J].Acta Geogr Sin,50(5):403-408.[张福春，1995．气候变化对中国木本植物物候 的可能影响[J]．地理学报，50(5)：403-408.]   \nZHANG XX, GE QS, ZHENG JY, et al., 2005. Responses of spring phonology to climate changes in Beijing in last 150 years[J].Chin JAgrometeorol,26(3): 263-267.[张学霞，葛全胜，郑景 云，等，2005．近150年北京春季物候对气候变化的响应[J]．中国农业气象，26(3): 263-267.]   \nZHANG ZX, WANG YX, YANG YR, et al., 2014. Study on the predictable flowering period of 8 common ornamental trees in Nanjing[J].Ecol Sci,33(4): 642-648.[张增信，王言鑫，杨艳 蓉，2014．南京地区8种常见观赏树木花期可预报研究[J]．生态科学，33(4)：642-648.]   \nZHENG L, SHI P, SONG M, et al., 2021. Climate sensitivity of high altitude tree growth across the Hindu Kush Himalaya[J]. For Ecol Manag, 486(9):118963.   \nZHU KZ,WAN MW,1980.Phenology [M]. Beijing: China Science Press[竺可桢，宛敏渭, 物兴n I 中国片 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

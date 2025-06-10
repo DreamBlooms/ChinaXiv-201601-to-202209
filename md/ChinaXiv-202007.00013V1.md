@@ -1,0 +1,273 @@
+# 辜酮素与未成年犯的攻击行为：敌意注意偏向的中介作用和皮质醇的调节作用
+
+任志洪」赵子仪」余香莲²赵春晓」张琳」林羽中张微」
+
+（「青少年网络心理与行为教育部重点实验室，华中师范大学心理学院，湖北省人的发展与心理健康重点实验室，武汉430079）（²江汉大学教育学院，武汉430056）（福州大学人文社会科学学院应用心理学系，福州 350108)
+
+摘要为考察睾酮素与未成年犯攻击行为的关系，在整合攻击行为生物激素视角和社会认知视角的基础上，探究敌意注意偏向的中介作用与皮质醇的调节作用。对84名未成年犯的激素水平、敌意注意偏向以及攻击行为进行调查。结果显示：（1）敌意注意偏向（注意不稳定性、注意回避）在睾酮素对攻击行为的影响中起完全中介作用；（2）皮质醇调节睾酮素与敌意注意偏向的关系，仅在高皮质醇水平下，敌意注意偏向的中介效应显著。基于生物激素影响攻击行为的中介机制和调节机制，可尝试从增加对敌意刺激的注意回避和提高皮质醇水平两个方面对未成年犯的攻击暴力行为进行干预。
+
+关键词攻击行为；睾酮素；皮质醇；注意偏向；未成年犯
+
+# 1引言
+
+未成年犯罪作为一种严重的社会问题，因其犯罪主体的特殊性、犯罪类型的复合性、消极影响的广泛性受到全社会的关注。近年来，我国未成年犯罪问题日益严峻，呈现出低龄化、暴力化的特点（杨波，肖玉琴，赖琳，吴明霞，2018）。
+
+未成年犯罪形式多样，其中，攻击暴力是我国未成年犯罪的主要形式（路琦 等，2018)，其产生和发展在很大程度上受到生物素质的影响（Rosell& Siever,2015)。一方面，生物因素对攻击行为的影响多以激素调节的形式实现（Fermandez-Castillo& Cormand,2016)，睾酮素和皮质醇在其中发挥重要作用（Montoya,Terburg,Bos,& Van Honk,2012)。另一方面，生物因素的作用也需借由对环境信息的认知加工来完成，选择性编码和注意偏向或在其中扮演重要角色（Huesmann,2018）。
+
+考虑到激素和社会认知过程对攻击行为的重要影响，已有研究者尝试从生物激素视角（Mehta&Josephs,2010）和社会信息加工视角（Crick& Dodge,1994;Huesmann,2018;Wilkowski&Robinson,2010）理解个体的攻击行为，但鲜有研究考虑到两个视角本身存在的密切联系，及对攻击行为产生的共同影响。在整合视域下，有必要探究未成年犯攻击行为的潜在机制和影响因素，这对建立有效的监测和干预措施，降低未成年犯攻击水平均具有重要价值。
+
+# 1.1生物激素视角：酮素与攻击行为
+
+对包括人类在内的群体动物而言，攻击行为是获得控制力和支配性的重要手段，而生物激素则是影响攻击水平的重要因素(Fermandez-Castillo&Cormand,2016)。其中，产生于 HPG轴（垂体-下丘脑-性腺）的睾酮素与攻击行为联系尤为密切（Montoya et al.,2012)。作为一种促使个体追求更高社交地位的内分泌激素，辜酮素在很多情况下都与体现控制力和支配性的攻击行为联系在一起（Eisenegger,Haushofer,&Fehr,2011)，并可通过调节杏仁核对威胁刺激的反应性等途径对攻击行为产生自动的、无意识的影响（Terburg＆van Honk,2013）。已有针对成年罪犯（Dabbs,Carr,Frady,&Riad,1995）、未成年犯（Brooks&Reddon,1996)的早期研究报告了辜酮素对攻击行为的正向预测作用；但也有研究显示，辜酮素与攻击行为相关不显著（Panagiotidis et al.,2017）。
+
+不一致的研究结果提示我们，生物激素对行为的影响还会受到其他社会心理因素的影响（Huesmann,2018）。人类行为除受到生物激素的影响外，更多是以能动方式对环境做出反应，在这一过程中，对社交线索的信息加工过程扮演了重要角色（Crick&Dodge,1994）。
+
+# 1.2社会信息加工视角：注意偏向与攻击行为
+
+社会信息加工视角认为攻击行为与偏向性的认知加工模式密切相关（Crick& Dodge,1994; Huesmann,2018;Wilkowski&Robinson,2010),尤其是指向敌意刺激的注意偏向（Miller& Johnston,2019）。社会信息加工理论指出，选择性注意具有筛选信息的作用，可以一种自下而上的方式对后续线索解释、行为反应产生影响（Crick&Dodge,1994）。一方面，更容易注意到敌对社交线索的个体倾向于感受到更多威胁，具有更多消极情绪的唤起，进而更容易表现出攻击行为（Crick&Dodge,1994;Wilkowski&Robinson,2010）。另一方面，对敌意刺激的选择性编码也使个体更容易对他人意图做出敌意解释，形成敌意认知信念和信息加工图式，最终导致个体表现出一般性的攻击倾向（Miller&Johnston,2019）。与这一观点相一致，已有针对暴力犯罪者（Domes,Mense,Vohs,&Habermeyer,2013）、攻击性青少年（Laueet al.,2018）的实证研究和相关元分析研究（Manning,2019）均显示，指向敌意刺激的注意偏向与攻击行为具有正向关联。
+
+综合以上两个视角，不难看出人类攻击行为不仅是特定生物激素的产物，也反映了高级认知加工的影响，且两者存在密切关联。随着个体的发展，激素对攻击行为的影响越来越取决于认知控制和信息加工过程（Archer,2006)，将两个视角进行有机结合或可帮助我们从更系统的视角探究个体攻击行为的影响因素、内在机制以及个体差异问题。
+
+# 1.3 生物激素视角和社会信息加工视角的整合：一个有调节的中介模型
+
+基于生物激素和社会信息加工本身的关联及其对攻击行为的影响，我们提出一个有调节的中介模型：在考虑生物激素影响的基础上，尝试将社会信息加工过程视为生物激素影响攻击行为的作用路径，探究辜酮素对未成年犯攻击行为的预测作用，敌意注意偏向在其中的中介作用，以及皮质醇的调节作用，进而回答辜酮素“如何”影响攻击行为以及“何时效应更加显著”的问题。
+
+# 1.3.1辜酮素与攻击行为：注意偏向的中介作用
+
+生物激素视角和社会信息加工视角分别强调了不同因素对攻击行为的直接影响，但两个视角本身也存在联系，表现为生物激素可通过社会信息加工过程对攻击行为产生间接作用。已有研究显示，外源性睾酮素的增加可显著提高个体指向威胁面孔的注意偏向（Terburg,Aarts,&Honk,2012)，在此基础上，指向威胁刺激的注意偏向会进一步导致个体感受到更多敌意，对情境做出消极解释，从而表现出攻击行为（Crick&Dodge,1994)。即注意偏向一方面受到生物激素的影响，另一方面也对后续行为反应产生作用。基于辜酮素对攻击行为的直接影响以及敌意注意偏向可能起到的作用，本研究假设，辜酮素可正向预测未成年犯的攻击行为(H1)，同时可以通过敌意注意偏向的中介作用对个体的攻击行为产生间接影响（H2)。
+
+值得一提的是，作为认知加工过程中的重要步骤，注意具有显著的动态性，表现为注意偏向与注意回避的交替和浮动（Zvielli,Bermstein,& Koster,2015)。但当前基于点探测范式的传统注意偏向量化方式（bias score，Dot-BS）只能反映出刺激呈现后，个体在某个特定时间点所表现出的静态、稳定、平均化的注意偏向特征（Kuckertz＆Amir,2015）。鉴于传统偏向分计算的不足以及注意偏向的动态特点，Zvielli等人（2015）提出了试次水平的注意偏向量化方法（trial-levelbias score，TL-BS)，以此反映注意偏向的动态变化。已有研究发现，与传统Dot-BS 相比，TL-BS 表现出较高的分半信度及预测力（Zvielli et al.,2015)。因此，在计算传统注意偏向分（Dot-BS）的基础上，本研究拟使用试次水平的注意偏向指标（TL-BS）反映注意偏向的动态特征，进而探究其与生物激素、攻击行为之间的关联。
+
+# 1.3.2皮质醇的调节作用
+
+虽然睾酮素和攻击行为、敌意注意偏向间的正向关联得到了实证研究的支持，但已有研究结果并不一致，也有研究报告睾酮素与更低的竞争水平（Mehta&Josephs,2010）及对愤怒面孔的注意回避相关（van Peer,Enter,van Steenbergen,Spinhoven,& Roelofs,2017）。睾酮素与攻击行为、敌意注意偏向间关联的不一致性提示我们，可能存在潜在的调节变量对两者关系产生影响。对此，有研究者开始关注皮质醇与睾酮素的相互作用，进而提出了双激素假说（Mehta & Josephs,2010）。
+
+双激素假指出，作为HPA轴（下丘脑-垂体-肾上腺）的最终产物，皮质醇可通过抑制睾酮素的分泌、阻断睾酮素的作用通路等途径调节辜酮素的影响，表现为低皮质醇水平下，辜酮素与攻击、支配和控制行为呈显著正相关；高皮质醇水平下，两者关联不显著（Mehta&Josephs,2010)。已有针对男性未成年犯（Popma et al.,2007）、男性青少年（Grotzinger et al.,2018）的实证研究以及相关元分析研究（Dekkers etal.,2019）均显示，在对社交地位、攻击行为、冒险与支配行为的预测方面，睾酮素和皮质醇之间交互作用显著。基于此，本研究假设皮质醇可调节睾酮素对未成年犯攻击行为的直接作用 (H3)。
+
+需要注意的是，尽管早期研究主要关注双激素对攻击行为的调节，但越来越多的研究显示，皮质醇与睾酮素之间的相互作用不仅局限在这一领域，而可能涉及一系列与两种激素相关的认知和行为过程（Knight,Sarkar,Prasad,& Mehta,2020)。已有针对决策判断（Prasad,Knight,& Mehta,2019）、情景记忆（Panizzon et al.,2018）和情绪控制（Denson,Ronay, vonHippel,& Schira,2013）等认知过程的研究均为双激素假说提供了新的支持。考虑到睾酮素与敌意注意偏向间关联的不一致性、HPA轴与HPG轴之间相互作用的广泛性，以及辜酮素、皮质醇和敌意注意偏向间的密切联系，我们认为双激素假说可能同样适用于敌意注意偏向。具体来说，皮质醇或可通过影响睾酮素的分泌及作用通路，进而调节辜酮素对敌意注意偏向的影响。因此，本研究假设，皮质醇可调节敌意注意偏向中介作用的前半段，即影响辜酮素对敌意注意偏向的作用（H4)。
+
+# 1.4当前研究
+
+综上，基于双激素假说和社会信息加工理论，本研究拟整合攻击行为的生物激素视角和社会信息加工视角，探究未成年犯攻击暴力行为的影响因素、作用机制和个体差异。这不仅有助于我们理解生物激素对个体攻击行为的影响机制，对于进一步开发针对未成年犯的攻击暴力干预措施也具有一定的启示意义。
+
+具体来说，本研究拟构建一个有调节的中介模型（图1)，在同时考虑生物激素和社会信息加工过程的基础上，考察辜酮素预测未成年犯攻击行为的中介（敌意注意偏向）及调节（皮质醇）机制，以回答辜酮素"如何"影响攻击行为以及“何时效应更加显著"的问题。研究方法方面，考虑到注意偏向的动态特征，本研究在计算基于点探测的传统注意偏向（Dot-BS）的同时也使用试次水平的注意偏向（TL-BS)，以反映未成年犯的动态注意偏向过程，进而
+
+比较两类注意偏向量化方法的优越性。
+
+![](images/a6317f51652b360f22b86478aeea28f95cca90597d8d5fcd5c70068bae79af4d.jpg)  
+图1敌意注意偏向的中介作用及皮质醇的调节作用假设模型图
+
+# 2方法
+
+# 2.1被试
+
+从某未成年管教所招募男性被试84人，平均年龄 $1 7 . 5 5 \pm 0 . 5 2$ 岁。全部被试中，一年刑期者占 $7 . 1 \%$ ，一至三年刑期者占 $73 . 2 \%$ ，三至十年刑期者占 $1 9 . 7 \%$ 。全部被试均无精神病史或注意障碍，可正确识认文字，视力或矫正视力正常，色觉正常，智力正常。
+
+本研究方案已进行预注册（https://osf.io/s4prd/）。研究开始前，先由主试告知被试研究中需要完成的任务及相应的报酬，之后全部被试签署知情同意书，以书面形式同意参与本研究。
+
+# 2.2研究工具
+
+# 2.2.1问卷材料
+
+Buss-Perry攻击量表中文版（AQCV）
+
+Buss-Perry 攻击问卷用于测量个体攻击特性的自陈式问卷，共包括 29 个项目，涉及认知、情绪、行为三个方面的攻击特征。本研究采用李献云等人（2011）修订的中文版 BussPerry 攻击量表（AQCV）测量被试的攻击性，该量表包含30个条目，采用5点记分法，包括5个分量表，分别为身体攻击、言语攻击、愤怒、敌意、针对自我的攻击性。本研究中，AQCV总量表内部一致性信度为0.91。
+
+# 2.2.2生物数据采集
+
+为控制人体唾液皮质醇、辜酮素分泌节律对数据结果产生的影响，生物数据采集统一在下午2点到4点进行。采用唾液采集管收集唾液 $2 \mathrm { m l }$ ，测定被试的皮质醇和睾酮素含量。将收集后的唾液样本冻存于 $- 2 0 ^ { \circ } \mathrm { C }$ 的冰柜中。分析前，将唾液样本溶解后在 $3 0 0 0 \mathrm { r m p }$ 转速下离心10 分钟取上清液。采用双抗体一步夹心法酶联免疫吸附试验（ELISA，Enzyme-Linked
+
+Immunosorbent Assay)，分别测定唾液睾酮素和皮质醇含量。辜酮素和皮质醇的最低检测浓度小于 $1 . 0 \ \mathrm { n m o l / L }$ (灵敏度)，板内、板间变异系数均小于 $1 5 \%$ 。将所有样本进行一式两份测定，正态性检验表明，皮质醇和睾酮素含量均呈正态分布。
+
+# 2.2.3行为实验
+
+# 敌意点探测
+
+使用点探测范式测量被试对敌意面孔表情的注意偏向。采用FaceGen3.4（http://FaceGen.com; Singular Inversions,2009）生成的面孔图像作为点探测任务的实验材料。招募40 名大学生被试对120 张愤怒、厌恶、恐惧表情图片进行敌意攻击程度九点评分，筛选出敌意攻击水平最高的男性、女性面孔图片各10张，并与同一面孔的中性表情图像配对，组成 20组敌意-中性面孔对；另外构建 20组中性面孔对。采用以上共40 组面孔对作为实验材料。
+
+实验程序使用 E-Prime 2.0（Psychology Software Tools,Pittsburgh）进行编制，包括练习阶段（10个Trial）和正式实验（120个Trial）两部分。被试理解指导语后开始实验，首先在屏幕中央呈现注视点（ $5 0 0 \mathrm { m s } \mathrm { \dot { \Omega } }$ )，随后一组面孔对出现在注视点两侧（ ${ 5 0 0 } \mathrm { m s } \mathrm { . }$ )，图片消失后立即在一侧图片的位置出现探测字母"E”，要求被试尽可能快而准确地对探测字母的位置做出按键反应。练习阶段被试的反应正确率大于 $80 \%$ 即可进入正式实验，否则重新练习。
+
+# 敌意攻击Stroop任务
+
+使用改编版情绪 Stroop 范式探究被试对敌意攻击词汇的注意偏向。招募40 名大学生对118 个双字攻击敌意词汇进行九点评分，筛选出敌意攻击水平最高的 40个词汇；从《现代汉语频率词典》中选择常用的40个中性词汇与敌意词汇进行配对，构成正式实验材料。另选择5个相对攻击敌意词汇和5个中性词汇作为练习材料。
+
+实验程序使用E-prime 2.0进行编制，包括练习阶段（10个Trial）和正式实验（160个Trial）两部分。被试理解指导语后按开始实验，首先在屏幕中央呈现注视点（ $5 0 0 \mathrm { m s } \mathrm { . }$ ，之后于相同位置呈现刺激（红色或绿色的刺激词汇)，要求被试忽略词义，快速而准确地对词汇的颜色进行按键反应。练习阶段被试的反应正确率大于 $80 \%$ 即可进入正式实验，否则重新练习。练习中使用的词语不在正式实验中使用。
+
+# 2.3研究程序
+
+被试首先签署知情同意书，之后在实验室完成一份问卷，包括基本人口统计学与犯罪信息、Buss-Perry 攻击量表中文版。问卷填写完成后，采集唾液样本用于生物指标测量。一天后进行行为实验，包括敌意点探测任务、攻击敌意 Stroop任务。主试首先向被试介绍实验过
+
+程及指导语，并示范操作方法，熟悉实验规则后，被试在电脑上完成实验任务，整个过程大约需要30 分钟。
+
+# 2.4数据清洗与预处理
+
+# 2.4.1数据清洗
+
+敌意点探测任务中，1名未成年犯被试数据丢失，5名未成年犯被试的反应正确率低于$80 \%$ ，将正确率过低的被试数据剔除。另外，剔除练习阶段的数据和全部被试的错误反应数据（ $1 . 5 \%$ )，正确反应试次中反应时低于 $2 0 0 \mathrm { { m s } }$ 、高于 $2 0 0 0 \mathrm { { m s } }$ 的数据（ $1 . 8 \%$ ）以及超过各被试平均反应时三个标准差的极端数据（ $1 . 8 \%$ )。敌意攻击 Stroop 任务中，2名未成年犯被试数据丢失。另外，剔除练习阶段的数据和全部被试的错误反应数据（ $9 . 5 \%$ )，正确反应试次中反应时低于 $2 0 0 \mathrm { { m s } }$ 、高于 $2 0 0 0 \mathrm { { m s } }$ 的试次数据（ $0 . 5 \%$ )，以及超过各被试平均反应时三个标准差的极端数据（ $1 . 7 \%$ )。最终得到有效被试76名。
+
+# 2.4.2偏向分计算
+
+攻击敌意 Stroop 任务中，对敌意词汇的加工与对字体颜色的加工相冲突，个体对颜色的反应时越长，说明对其对敌意词汇具有注意和加工偏向；对颜色命名的反应时越短，表明其对敌意词汇表现出注意回避（Domes etal.,2013)。计算被试对敌意词汇的平均反应时与中性词汇的平均反应时之差，作为 Stroop 任务计算得到的偏向分（Stroop-BS）。
+
+点探测任务中，同时使用基于静态平均特征的传统方法和基于注意过程动态变化的TL-BS 法计算偏向分。
+
+一方面，采用传统方法计算被试的注意偏向得分（Dot-BS）反映注意的静态平均特征，即被试对不一致试次（IT，探测字母位置与敌意表情图片位置不同）的平均反应时减去对一致试次（CT，探测字母位置与敌意表情图片位置相同）的平均反应时。注意偏向得分大于零表明被试对敌意刺激存在注意偏向，得分小于零表明被试对敌意刺激存在注意回避（Roy etal., 2008)。
+
+另一方面，采用 TL-BS 法反映个体注意偏向的动态变化和整体过程。计算被试在试次水平上的注意偏向（TL-BS)，即将距离不超过5个 Trial 的一致试次（CT）和不一致试次（IT）进行两两配对，计算每个配对组的反应时之差（IT-CT）（Zviellietal.,2015)。与传统注意偏向指标相比，试次水平的注意偏向能够更好地反映注意偏向随时间变化的动态过程。基于原始TL-BS 得分可进一步计算五个参数，分别是正向平均TL-BS（大于零的TL-BS 平均值)，负向平均 TL-BS（小于零的 TL-BS 平均值)，正向峰值 TL-BS（大于零的 TL-BS 最大值)，负向峰值TL-BS（小于零的TL-BS 最小值)，TL-BS 变异性（TL-BS 绝对值之和除以TL-BS 数量)。其中，正向平均TL-BS 反映被试对敌意刺激的注意偏向平均值，负向平均TL-BS 反映被试对敌意刺激的注意回避平均值，正向峰值 TL-BS 反映被试注意偏向的最大值，负向峰值TL-BS 反映被试注意回避的最大值，TL-BS 变异性反映被试注意过程的不稳定性 (表现为反复的注意偏向和注意回避)。
+
+以 76 名未成年犯为例，传统注意偏向得分（Dot-BS）与试次水平注意偏向得分（TL-BS）如图2所示。全部试次中，符合配对条件（前后距离不超过5个Trial）的IT-CT组数量为18.41（ $S D = 2 . 1 2$ ,Range: $1 2 \sim 2 0 \$ )。由图可知，与传统注意偏向得分相比，试次水平的注意偏向得分更能反映出未成年犯注意过程的不稳定性。
+
+![](images/0499742b21b1dd51fb94f572e7b94d8b6feced71e0818801f7b866441ee2220a.jpg)  
+图276名未成年犯的Dot-BS与TL-BS
+
+# 2.5数据分析
+
+（1）对各变量进行初步分析，包括描述性统计和相关分析；（2）使用偏差校正百分位Bootstrap 法计算置信区间，设置样本抽样次数为5000 次， $9 5 \%$ 置信区间。使用SPSS 20.0的PROCESS2.16.3 插件（Hayes,2012）检验简单中介模型的显著性，在简单中介模型显著的基础上，检验有调节的中介模型的显著性。
+
+# 3结果
+
+# 3.1初步分析
+
+描述性统计和相关分析结果见表1。辜酮素与皮质醇具有显著正相关，与负向TL-BS 参数具有显著负相关，与正向峰值 TL-BS 具有显著正相关，与注意偏向的不稳定性具有显著正相关。就注意偏向与攻击水平而言，负向平均TL-BS 可显著正向预测 AQCV 愤怒分量表得分；负向峰值 TL-BS 可显著正向预测 AQCV 总分及身体攻击、言语攻击、愤怒分量表得分；变异性可显著负向预测AQCV总分、身体攻击、愤怒分量表得分。
+
+表1研究变量的平均数 $( M )$ 、标准差（SD）及相关系数  
+
+<html><body><table><tr><td>变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr><tr><td>1年龄</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2 受教育年限</td><td>0.03</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3睾酮素</td><td>-0.15</td><td>0.14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4皮质醇</td><td>-0.02</td><td>0.04</td><td>0.41**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5 AQCV</td><td>0.11</td><td>-0.07</td><td>0.09</td><td>0.17</td><td>，</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6 AQCV-PA</td><td>0.08</td><td>-0.05</td><td>0.05</td><td>0.05</td><td>0.85**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7 AQCV-VA</td><td>0.14</td><td>-0.09</td><td>0.07</td><td>0.11</td><td>0.80**</td><td>0.63**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8 AQCV-A</td><td>0.07</td><td>-0.01</td><td>0.02</td><td>0.17</td><td>0.87**</td><td>0.68**</td><td>0.65**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9 AQCV-H</td><td>0.04</td><td>0.10</td><td>0.14</td><td>0.22</td><td>0.78**</td><td>0.48**</td><td>0.55**</td><td>0.61**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10 AQCV-SA</td><td>0.18</td><td>-0.33**</td><td>0.10</td><td>0.19</td><td>0.66**</td><td>0.41**</td><td>0.44**</td><td>0.47**</td><td>0.47**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11 Dot-BS</td><td>-0.04</td><td>-0.20</td><td>-0.004</td><td>-0.10</td><td>0.05</td><td>0.08</td><td>0.09</td><td>0.02</td><td>-0.02</td><td>0.04</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12 Stroop-BS</td><td>-0.05</td><td>-0.06</td><td>0.16</td><td>-0.18</td><td>-0.16</td><td>-0.23*</td><td>-0.05</td><td>-0.19</td><td>-0.05</td><td>-0.05</td><td>-0.02</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13 M-pos</td><td>0.02</td><td>0.11</td><td>0.19</td><td>0.01</td><td>-0.06</td><td>-0.04</td><td>-0.18</td><td>-0.02</td><td>0.02</td><td>-0.08</td><td>0.17</td><td>0.17</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14 M-neg</td><td>0.07</td><td>-0.19</td><td>-0.23*</td><td>-0.08</td><td>0.23</td><td>0.16</td><td>0.18</td><td>0.27*</td><td>0.17</td><td>0.12</td><td>0.50**</td><td>-0.26*</td><td>-0.08</td><td></td><td></td><td></td><td></td></tr><tr><td>15 P-pos</td><td>-0.18</td><td>0.09</td><td>0.26*</td><td>0.02</td><td>-0.09</td><td>-0.11</td><td>-0.17</td><td>-0.09</td><td>0.05</td><td>-0.08</td><td>0.17</td><td>0.16</td><td>0.80**</td><td>-0.15</td><td></td><td></td><td></td></tr><tr><td>16 P-neg</td><td>0.12</td><td>-0.27*</td><td>-0.27*</td><td>-0.03</td><td>0.30**</td><td>0.24*</td><td>0.24*</td><td>0.37**</td><td>0.16</td><td>0.17</td><td>0.47**</td><td>-0.23</td><td>-0.05</td><td>0.85**</td><td>-0.20</td><td></td><td></td></tr><tr><td>17 Variability</td><td>-0.29*</td><td>0.20</td><td>0.41**</td><td>0.11</td><td>-0.23*</td><td>-0.28*</td><td>-0.12</td><td>-0.29*</td><td>-0.01</td><td>-0.17</td><td>-0.21</td><td>0.31**</td><td>0.31**</td><td>-0.63**</td><td>0.60**</td><td>-0.74**</td><td></td></tr><tr><td>M(SD)</td><td>17.55</td><td>3.64</td><td>29.29</td><td>901.31</td><td>73.43</td><td>19.71</td><td>12.51</td><td>13.92</td><td>15.99</td><td>11.30</td><td>-19.85</td><td>3.03</td><td>77.50</td><td>-96.95</td><td>159.16</td><td>-202.36</td><td>55.25</td></tr><tr><td></td><td>0.52</td><td>3.95</td><td>7.91</td><td>213.91</td><td>19.16</td><td>7.05</td><td>3.54</td><td>4.70</td><td>5.05</td><td>3.55</td><td>32.20</td><td>22.08</td><td>51.56</td><td>64.12</td><td>114.32</td><td>148.49</td><td>29.57</td></tr></table></body></html>
+
+\*\*\*表示 $\mathrm { \ p } { < } 0 . 0 0 1$ ；\*\*表示 $\mathrm { p } { < } 0 . 0 1$ ；\*表示 $\mathrm { p } { < } 0 . 0 5$ ，下同AQCV:AQCV总分；AQCV-PA：身体攻击分量表得分；AQCV-VA：言语攻击分量表得分；AQCV-A：愤怒分量表得分；AQCV-H：敌意分量表得分；AQCV-SA：指向自我的攻击性分量表；Dot-BS：敌意点探测计算得到的传统偏向分；Strop-BS：Strop任务计算得到的偏向分：Mpos：正向平均TL-BS；Mneg：负向平均TL-BS；pos：正向峰值TL-BS；neg负向峰值TL-B；Variability:TL-BS变异性。
+
+# 3.2辜酮素与攻击行为之间的关系：简单中介模型检验
+
+首先，采用Hayes（2012）编制的PROCESS 宏程序检验注意偏向的简单中介模型。基于相关分析的结果，在控制年龄、受教育年限的情况下，分别以注意不稳定性、负向峰值 TL-BS、负向平均TL-BS为中介变量，以辜酮素为自变量，以AQCV总分、身体攻击分量表得分、言语攻击分量表得分、愤怒分量表得分为因变量构建模型。多重共线性检验表明，各模型容忍度均大于0.67，方差膨胀因子均小于1.50，因此不存在严重的多重共线性问题。
+
+基于相关分析的结果，推测注意不稳定性可能在睾酮素和 AQCV总分、身体攻击分量表得分、愤怒分量表得分中起中介作用。采用 PROCESS 2.16.3 插件中的Model4进行中介效应检验，结果如表2所示。将注意不稳定性放入模型后，睾酮素对注意不稳定性的预测作用显著 $( \beta = 0 . 3 4 , t = 3 . 2 4 , p = 0 . 0 0 2 )$ ，注意不稳定性对AQCV总分、身体攻击分量表得分、愤怒分量表得分的预测作用也显著（AQCV总分： $\beta = - 0 . 2 9$ $t = - 2 . 2 3$ $p = 0 . 0 3$ ；身体攻击分量表得分： $\beta = - 0 . 3 5 , t = - 2 . 6 7 , p = 0 . 0 0 9$ ；愤怒分量表得分 $\beta = - 0 . 3 8$ $t = - 2 . 8 9$ $p = 0 . 0 0 5 \$ ，注意不稳定性中介效应的bootstrap $9 5 \%$ 置信区间的上下限不包含0。即注意不稳定性在睾酮素对 AQCV总分、身体攻击分量表得分、愤怒分量表得分的预测中起完全中介作用。
+
+基于相关分析的结果，推测负向峰值 TL-BS 可能在睾酮素对 AQCV 总分、身体攻击、言语攻击、愤怒分量表得分的预测中起中介作用。以言语攻击为因变量构建模型，将负向峰值 TL-BS 纳入模型后，睾酮素对负向峰值 TL-BS 的预测作用边缘显著 $\scriptstyle \langle \beta = - 0 . 2 2 , t = - 1 . 9 3 , p$ $= 0 . 0 5 8 \rangle$ ，负向峰值 TL-BS 对言语攻击分量表得分的预测作用也显著 $( \beta = 0 . 2 6 , t = 2 . 1 0 , p =$ 0.04)，负向峰值 TL-BS 中介效应的 bootstrap $9 5 \%$ 置信区间的上下限不包含 $0 ~ ( E f f e c t = - 0 . 0 3$ $\begin{array} { r } { E = 0 . 0 1 , 9 5 \% \mathrm { C I } = . 0 . 0 6 5 \mathrm { - } 0 . 0 1 3 ) } \end{array}$ 。即负向峰值TL-BS 在辜酮素对言语攻击的预测作用中起完全中介作用。另外，负向峰值TL-BS 在睾酮素对 AQCV总分、身体攻击、愤怒的预测中，中介效应均不显著。
+
+基于相关分析的结果，推测负向平均 TL-BS 在辜酮素对愤怒分量表得分的预测中起中介作用，结果显示负向平均 TL-BS 中介效应的 bootstrap $9 5 \%$ 置信区间的上下限包含0，中介效应不显著。
+
+# 3.3酮素与攻击行为之间的关系：有调节的中介模型检验
+
+基于简单中介模型的结果，以注意不稳定性为中介变量，皮质醇为调节变量，探究睾酮素对 AQCV总分、身体攻击分量表得分、愤怒分量表得分的预测作用，结果如表3所示。睾酮素 $\times$ 皮质醇交互项仅显著预测注意的不稳定性‘ $\langle \beta = 0 . 3 0 , t = 3 . 0 0 , p = 0 . 0 0 4 \rangle$ 。进一步使用简单斜率检验探究变量间的具体交互模式，结果如图3（a）所示。由图可知，对皮质醇水平较低的被试来说，睾酮素对注意不稳定性的预测作用不显著（simple slope $= 0 . 3 4$ $\scriptstyle t = 0 . 6 4$ $p = 0 . 5 3 )$ ；对皮质醇水平较高的被试来说，睾酮素可显著正向预测注意的不稳定性（simple$s l o p e = 2 . 4 7$ $t = 4 . 4 6 , p < 0 . 0 0 1 >$ 。考虑到自变量对因变量的直接效应不显著，采用PROCESS2.16.3 插件中的Model7进行有调节的中介效应检验。结果显示，仅在高皮质醇水平下，注意不稳定性在辜酮素和 AQCV 总分、身体攻击分量表得分、愤怒分量表得分中的简单中介效应显著（见表3）。
+
+以负向峰值TL-BS 为中介变量，皮质醇为调节变量，探究辜酮素对言语攻击分量表得分的预测作用。结果如表4所示，睾酮素 $\cdot \times$ 皮质醇交互项仅显著预测负向峰值TL-BS（ $\beta =$ 10.27, $t = - 2 . 5 1$ ， $p = 0 . 0 1$ )。进一步使用简单斜率检验探究变量间的具体交互模式，结果如图3（b）所示。由图可知，对皮质醇水平较低的被试来说，睾酮素对负向峰值TL-BS 的预测作用不显著（simple slope $= - 0 . 2 9$ ， $t = - 0 . 1 0 , p = 0 . 9 2 )$ ；对皮质醇水平较高的被试来说，睾酮素可显著负向预测负向峰值 TL-BS（simple slope $= - 9 . 9 5$ $t = - 3 . 2 3$ $p { = } 0 . 0 0 2 \mathrm { : }$ )。有调节的中介效应检验结果显示，仅在高皮质醇水平下，注意不稳定性在睾酮素和言语攻击分量表得分中的简单中介效应显著(见表4)。
+
+表2辜酮素对攻击水平的预测作用：注意不稳定性的简单中介效应检验  
+
+<html><body><table><tr><td rowspan="5"></td><td rowspan="5">预测变量</td><td colspan="4">睾酮素对AQCV的预测作用：</td><td colspan="4">睾酮素对AQCV-PA 的预测作用：</td><td>睾酮素对A</td></tr><tr><td colspan="4">注意偏向不稳定性的中介效应检验</td><td>注意偏向不稳定性的中介效应检验</td><td colspan="3"></td><td>注意偏向不</td></tr><tr><td colspan="4">因变量模型（因变量=AQCV)</td><td colspan="4">因变量模型（因变量=AQCV-PA）</td><td></td></tr><tr><td colspan="4"></td><td colspan="4"></td><td>因变量模型</td></tr><tr><td>B</td><td>阝</td><td>t</td><td>△R²</td><td>B</td><td>β</td><td>t</td><td>△R²</td><td>B 0</td></tr><tr><td>第一层</td><td>年龄</td><td>5.02</td><td>0.14</td><td>1.14</td><td>0.017</td><td>1.29 0.10</td><td>0.79</td><td>0.007</td><td>0.67 -0.03</td></tr><tr><td></td><td>受教育年限</td><td>-0.41</td><td>-0.08 0.14</td><td>-0.70 1.14</td><td>-0.08</td><td colspan="4">-0.05 -0.38</td></tr><tr><td>第二层</td><td>睾酮素</td><td colspan="4">0.33 0.018 中介变量模型（因变量=注意不稳定性）</td><td colspan="4">0.08 0.09 0.76 0.008 0.02 中介变量模型（因变量=注意不稳定性) 中介变量模型</td></tr><tr><td rowspan="2"></td><td rowspan="2">预测变量</td><td colspan="4"></td><td colspan="4"></td></tr><tr><td>B</td><td>阝</td><td>t</td><td>B</td><td></td><td>t</td><td>△R² 0.131**</td><td>B</td></tr><tr><td rowspan="2">第一层</td><td>年龄 受教育年限</td><td>-14.52</td><td>-0.26</td><td>-2.44*</td><td>0.131**</td><td>-14.52</td><td>-0.26</td><td>-2.44*</td><td></td><td>-14.52 0</td></tr><tr><td></td><td>1.14 1.28</td><td>0.15 0.34</td><td>1.45 3.24**</td><td>0.113**</td><td>1.14</td><td>0.15</td><td>1.45</td><td>0.113**</td><td>1.14 0</td></tr><tr><td>第二层</td><td colspan="4">睾酮素</td><td colspan="4">1.28 0.34 3.24**</td><td>1.28 0</td></tr><tr><td></td><td rowspan="2">预测变量</td><td colspan="4">因变量模型（因变量=AQCV）</td><td colspan="4">因变量模型（因变量=AQCV-PA） B</td><td>因变量模型</td></tr><tr><td>年龄</td><td>B</td><td>β</td><td>t 0.50</td><td>△R²</td><td>β</td><td></td><td>t △R²</td><td></td><td>B</td></tr><tr><td rowspan="3">第一层 第二层</td><td>受教育年限</td><td>2.24</td><td>0.06</td><td>-0.33</td><td>0.017</td><td>0.07</td><td>0.01</td><td>0.04</td><td>0.007</td><td>-0.21 0</td></tr><tr><td></td><td>-0.19</td><td>-0.04</td><td></td><td>0.083*</td><td>0.01</td><td>0.01</td><td>0.07</td><td>0.100*</td><td>0.04 0</td></tr><tr><td>睾酮素</td><td>0.58 -0.19</td><td>0.24 -0.29</td><td>1.90 -2.23*</td><td></td><td>0.19</td><td>0.21 -0.35</td><td>1.70 -2.67**</td><td>-0.06</td><td>0.10 0</td></tr><tr><td colspan="2">注意偏向不稳定性 -0.08</td><td colspan="8"></td></tr><tr><td colspan="2"></td><td colspan="8">注意不稳定性的中介效应分解表</td></tr><tr><td colspan="2"></td><td>效应值</td><td>Boot标准误</td><td>Boot 95% CI</td><td></td><td>效应值</td><td>Boot标准误</td><td>Boot 95% CI</td><td>效应值</td><td>Boot</td></tr><tr><td colspan="2">直接效应 中介效应</td><td>0.58 -0.25</td><td>0.34 0.13</td><td>[-0.11，1.26]</td><td>[-0.56，-0.04]</td><td>0.19 -0.11</td><td>0.11</td><td>[-0.04，0.42] [-0.24，-0.03]</td><td>0.10 -0.08</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">睾酮素对AQCV-A的预测作用： 注意偏向不稳定性的中介效应检验</td></tr><tr><td colspan="3">因变量模型（因变量=AQCV-A)</td></tr><tr><td>B β</td><td>t</td><td>△R²</td></tr><tr><td>0.67 0.07 -0.03 -0.02</td><td>0.61 -0.20</td><td>0.005</td></tr><tr><td>0.02 0.03 中介变量模型</td><td>0.24 （因变量=注意不稳定性）</td><td>0.001</td></tr><tr><td colspan="3"></td></tr><tr><td>B β -14.52 -0.26</td><td>t -2.44*</td><td>△R² 0.131**</td></tr><tr><td>1.14 1.28</td><td>0.15 1.45 0.34 3.24**</td><td>0.113**</td></tr><tr><td colspan="3">因变量模型 （因变量=AQCV-A）</td></tr><tr><td>B β -0.21 -0.02</td><td>t -0.19</td><td>△R² 0.005</td></tr><tr><td>0.04 0.03 0.10 0.16</td><td>0.29 1.28</td><td>0.108*</td></tr><tr><td>-0.06 -0.38</td><td>-2.89**</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>效应值</td><td>Boot标准误</td><td>Boot95% CI</td></tr></table></body></html>
+
+<html><body><table><tr><td>效应值</td><td>Boot标准误</td><td>Boot 95% CI</td></tr><tr><td>0.10</td><td>0.08</td><td>[-0.60，0.24]</td></tr><tr><td>-0.08</td><td>0.04</td><td>[-0.16，-0.02]</td></tr></table></body></html>
+
+表3辜酮素对攻击水平的预测作用：有调节的中介效应检验  
+
+<html><body><table><tr><td rowspan="5"></td><td rowspan="5">预测变量</td><td colspan="4">睾酮素对AQCV的预测作用： 有调节的中介模型检验</td><td colspan="4">辜酮素对AQCV-PA的预测作用：</td><td colspan="2">睾酮素对AQCV-A</td></tr><tr><td colspan="4"></td><td colspan="4">有调节的中介模型检验</td><td colspan="2">有调节的中介</td></tr><tr><td colspan="4">中介变量模型（因变量=注意不稳定性）</td><td colspan="4">中介变量模型(因变量=注意不稳定性)</td><td colspan="2">中介变量模型（因变量</td></tr><tr><td>B</td><td>β</td><td>t</td><td>△R</td><td>B</td><td></td><td>t</td><td>△R²</td><td>B</td><td>β</td></tr><tr><td>年龄</td><td>-12.92</td><td>-0.23</td><td>-2.27*</td><td>0.131**</td><td>-12.92</td><td>-0.23</td><td>-2.27*</td><td>0.131**</td><td>-12.92</td><td>-0.23</td></tr><tr><td>第一层</td><td>受教育年限</td><td>0.98</td><td>0.13</td><td>1.30</td><td></td><td>0.98</td><td>0.13</td><td>1.30</td><td></td><td>0.98</td><td>0.13</td></tr><tr><td>第二层</td><td>睾酮素</td><td>1.38</td><td>0.37</td><td>3.35**</td><td>0.116**</td><td>1.38</td><td>0.37</td><td>3.35**</td><td>0.116**</td><td>1.38</td><td>0.37</td></tr><tr><td>M</td><td>皮质醇</td><td>-0.01</td><td>-0.04</td><td>-0.40</td><td></td><td>-0.01</td><td>-0.04</td><td>-0.40</td><td></td><td>-0.01</td><td>-0.04</td></tr><tr><td>3层</td><td>睾酮素×皮质醇</td><td>0.01</td><td>0.30</td><td>3.00**</td><td>0.088**</td><td>0.01</td><td>0.30</td><td>3.00**</td><td>0.088**</td><td>0.01</td><td>0.30</td></tr><tr><td></td><td rowspan="2">预测变量</td><td colspan="4">因变量模型（因变量=AQCV）</td><td colspan="4">因变量模型（因变量=AQCV-PA）</td><td colspan="2">因变量模型（因变</td></tr><tr><td>L00</td><td></td><td>B</td><td>β</td><td>t △R²</td><td>B</td><td></td><td>t</td><td>△R²</td><td>B</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>00</td><td>.025</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>20000</td><td>0</td><td></td><td></td><td></td><td></td><td>-2.77**</td><td></td><td></td><td>100</td></tr><tr><td></td><td>睾酮素</td><td>0.42</td><td>0.17</td><td>1.26</td><td></td><td>0.19</td><td>0.22</td><td>1.57</td><td></td><td>0.06</td><td>0.09</td></tr><tr><td></td><td>皮质醇</td><td>0.01</td><td>0.16</td><td>1.25</td><td></td><td>0.00</td><td>0.03</td><td>0.22</td><td></td><td>0.00</td><td>0.17</td></tr><tr><td></td><td>睾酮素×皮质醇</td><td>0.00</td><td>0.03</td><td>0.22</td><td>0.001</td><td>0.00</td><td>0.11</td><td>0.86</td><td>0.010</td><td>0.00</td><td>0.04</td></tr><tr><td></td><td colspan="4"></td><td colspan="4">在皮质醇的不同水平上注意不稳定性的中介效应</td><td colspan="2"></td><td></td></tr><tr><td></td><td>皮质醇</td><td>效应值</td><td>Boot标准误</td><td>Bo0t 95% CI</td><td></td><td>效应值</td><td>Boot标准误</td><td>Bo0t 95% CI</td><td></td><td>效应值</td><td>Boot标准误</td></tr><tr><td></td><td>687.40 （M-SD)</td><td>-0.07</td><td>0.13</td><td>[-0.37，0.13]</td><td></td><td>-0.03</td><td>0.05</td><td>[-0.16,0.05]</td><td></td><td>-0.02</td><td>0.03</td></tr><tr><td></td><td>901.31 （M)</td><td>-0.27</td><td>0.13</td><td>[-0.61,-0.59]</td><td></td><td>-0.12</td><td>0.05</td><td>[-0.25，-0.03]</td><td></td><td>-0.09</td><td>0.04</td></tr><tr><td></td><td>O1115.22 （M+SD)</td><td>-0.47</td><td>0.22</td><td>[-1.02， -0.12]</td><td></td><td>-0.21</td><td>0.08</td><td>[-0.40，-0.07]</td><td></td><td>-0.15</td><td>0.06</td></tr></table></body></html>
+
+表4辜酮素对言语攻击的预测作用：有调节的中介模型检验  
+
+<html><body><table><tr><td rowspan="2">预测变量</td><td rowspan="2"></td><td colspan="3">中介变量模型（因变量=负向峰值TL-BS)</td></tr><tr><td>B</td><td>β</td><td>△R²</td></tr><tr><td>第一层</td><td>年龄</td><td>17.60</td><td>0.06</td><td>0.088*</td></tr><tr><td></td><td>受教育年限</td><td>-8.46</td><td>-0.22 -2.04*</td><td></td></tr><tr><td>第二层</td><td>睾酮素</td><td>-4.88</td><td>-0.26 -2.13*</td><td>0.053</td></tr><tr><td></td><td>皮质醇</td><td>0.05</td><td>0.07</td><td></td></tr><tr><td>第三层</td><td>睾酮素×皮质醇</td><td>-0.02</td><td>-0.27 -2.51*</td><td>0.074**</td></tr><tr><td></td><td colspan="4">因变量模型</td></tr><tr><td></td><td>预测变量</td><td>B</td><td>β t</td><td>△R²</td></tr><tr><td>第一层</td><td>年龄</td><td>1.10</td><td>0.17 1.40</td><td>0.034</td></tr><tr><td></td><td>受教育年限</td><td>-0.02</td><td>-0.03 -0.22</td><td></td></tr><tr><td>第二层</td><td>负向峰值TL-BS</td><td>0.01</td><td>0.25 1.93</td><td>0.075</td></tr><tr><td></td><td>睾酮素</td><td>0.08</td><td>0.18 1.33</td><td></td></tr><tr><td></td><td>皮质醇</td><td>0.00</td><td>0.02 0.14</td><td></td></tr><tr><td>第三层</td><td>睾酮素×皮质醇</td><td>0.00</td><td>-0.01</td><td>0.000</td></tr><tr><td colspan="5">在皮质醇的不同水平上负向峰值TL-BS 的中介效应</td></tr><tr><td>皮质醇</td><td></td><td>效应值</td><td>Boot标准误</td><td>Boot95% CI</td></tr><tr><td>687.40 (M-SD)</td><td></td><td>-0.001</td><td>0.03</td><td>[-0.06，0.05]</td></tr><tr><td>901.31 (M)</td><td></td><td>-0.03</td><td>0.02</td><td>[-0.08，-0.06]</td></tr><tr><td>1115.22(M+SD)</td><td></td><td>-0.06</td><td>0.03</td><td>[-0.14， -0.01]</td></tr></table></body></html>
+
+![](images/e56c2f3ed0b255a8a6a2abd1ebc35f18fcb241ae1a198ec710a548b3310681b9.jpg)  
+图3睾酮素与皮质醇对注意不稳定性、负向峰值TL-BS的交互作用
+
+# 4讨论
+
+本研究整合了攻击行为的生物激素视角和社会信息加工视角，探究未成年犯辜酮素与攻击行为的关系，敌意注意偏向的中介作用及皮质醇的调节作用。简单中介效应分析显示，注意不稳定性在睾酮素对 AQCV 总分、身体攻击分量表得分、愤怒分量表得分的预测中起完全中介作用，负向峰值TL-BS 在辜酮素对言语攻击分量表得分的预测中起完全中介作用。有调节的中介效应分析显示，仅在高皮质醇水平下，注意不稳定性和负向峰值 TL-BS 的中介效应显著，睾酮素可通过提高注意不稳定性降低个体的攻击水平（AQCV总分、身体攻击分量表得分和愤怒分量表得分)，也可通过提高对敌意刺激的注意回避减少个体的言语攻击水平。
+
+# 4.1酮素与攻击行为
+
+与假设不一致，研究显示睾酮素与攻击行为间关联不显著，考虑到睾酮素作用于攻击行为的本质，以及未成年犯管教所（以下简称未管所）的环境背景，我们认为，攻击行为在未管所环境中意义的特殊性可能是导致当前结果的原因。作为一种促使个体获得并维持较高社交地位的内分泌激素，辜酮素对行为的作用方向取决于其是否有助于社交地位的提高（Eisenegger et al.,2011; Terburg＆ van Honk,2013)，而这又会受到具体的情境背景的影响（Carré&Archer,2018)。例如，在攻击行为有助于提高社交地位的青少年群体中，睾酮素与身体攻击具有正向关联（Tremblay,1998)；但在相互依存、崇尚和谐稳定的社会建构中，辜酮素水平则与诚实（Wibral,Dohmen,Klingmüler,Weber,&Falk,20l2）、互惠（Boksem et al.,2013）等亲社会行为具有正向关联。也就是说，睾酮素与社会行为间的关联取决于特定情境中的受欢迎规则（Dreher etal.,2016)，而这一点或许能帮助我们理解已有研究中睾酮素与攻击行为间关联的不一致性。对于在未成年犯管教所接受教育的未成年犯来说，攻击行为可能不再是获得较高社交地位的有效途径，相反，表现出较低的攻击水平或许是更有利的选择。且本研究所涉及的样本中已服刑1年以上的未成年犯占总数的 $71 . 4 \%$ ，即大部分个体可能已经形成并适应了新的受欢迎规范。在攻击行为无益于提高社交地位的未管所环境下，辜酮素对攻击行为的正向直接作用被削弱，因此本研究未发现辜酮素与攻击行为的显著关联。
+
+# 4.2敌意注意偏向的中介作用
+
+如前所述，未管所环境下，攻击行为可能不再是个体提高社交地位的有效途径，因此辜酮素与攻击行为间的关系被抑制了。在此基础上，中介效应检验进一步显示，睾酮素可通过正向预测未成年犯对敌意刺激的注意回避和注意不稳定性降低其攻击水平。
+
+首先，与假设不一致，我们发现辜酮素正向预测对敌意刺激的注意回避和注意不稳定性，而非注意偏向。考虑到辜酮素对个体社交地位提高所具有的促进作用，以及情境背景对辜酮素与行为间关系的重要影响（Carreé＆Archer,2018;Dreher etal.,2016)，我们认为特殊的未管所情境可能是导致当前结果的潜在原因，在此基础上，辜酮素对注意偏向的影响可能借助杏仁核的激活得以实现。作为处理威胁刺激的关键脑结构，杏仁核可能传递了辜酮素对敌意注意偏向的影响。一方面，杏仁核下行影响敌意注意偏向特征（Buades-Rotger＆ Kramer,2018)；另一方面，杏仁核所具有的雄激素受体使其对愤怒面孔的反应受到辜酮素的影响（Bos,Panksepp,Bluthé,& van Honk,2012)，且睾酮素对杏仁核的影响取决于个体的动机。具体来说，对具有趋近动机的个体而言，辜酮素水平的提高可增强杏仁核激活水平，加强个体对敌意刺激的注意偏向;但对具有回避动机的个体而言，辜酮素对杏仁核则具有抑制作用，使个体表现出更多注意回避（Radke,etal.,2015)。未管所环境中，攻击行为可能不再是提高社交地位的有效手段，因此未成年犯更多的表现出回避动机，该动机促使睾酮素抑制杏仁核的激活水平，进而导致个体对敌意刺激表现出更多注意回避，并最终表现为辜酮素对注意回避的正向预测。选择性注意过程具有动态性，表现为注意偏向与注意回避的交替和浮动（Zvielli etal.,2015)，而这一特征在敌意面孔这类特殊刺激中表现更为明显。因此，伴随个体表现出的注意回避，注意不稳定性水平也随之上升，表现为睾酮素对注意不稳定性的正向预测。
+
+另外，敌意刺激注意回避和注意不稳定性对攻击行为具有负向预测作用，这可能反映了未成年犯的情绪调节过程和长程动态特征。作为一种重要的情绪调节方式，对敌意刺激的注意回避有助于降低交感神经系统的唤醒度（Gross,2001)，降低个体的反应性攻击（Vasquez,et al.,2013）和愤怒水平（Lievaart,Huijding,van der Veen,Hovens,&Franken,2017)。在这一模型中，注意回避对攻击行为的负向预测作用可能反映了个体自上而下的情绪调节和行为控制过程。在此基础上，注意不稳定性对攻击水平的负向预测则代表这一过程中注意朝向的动态变化。研究显示，注意调节过程会伴随注意偏向和注意回避的动态交替（Zviellietal.,2015)，因此，表现出高注意不稳定性的个体可对自身的情绪进行动态调节，进而表现为注意不稳定性对攻击水平的负向预测。
+
+# 4.3皮质醇的调节作用
+
+简单中介模型提示我们，在未管所环境的影响下，辜酮素与未成年犯攻击行为间的关联可能被削弱甚至逆转，而有调节的中介模型检验则进一步显示，皮质醇可调节睾酮素与注意偏向间的关联，仅在高皮质醇水平下，注意回避和注意不稳定性的中介效应显著。在这一过程中，皮质醇可能通过提高未成年犯对敌意刺激的回避动机来实现其调节作用。
+
+作为惩罚敏感性的生物标记物，皮质醇参与一系列与压力相关的代谢和生理反应，促使个体在呈现惩罚刺激时体验到更多消极情绪，表现出更多抑制和回避行为（Smillie,Pickering，&Jackson,2006)。而在未管所环境中，敌意、威胁以及攻击相关刺激多与惩罚联系在一起。面对此类刺激，高皮质醇水平使得个体具有更高的回避动机（Terburg,Morgan,&van Honk,2009)，而这一动机会进一步促使睾酮素抑制杏仁核的激活水平，最终表现出对敌意刺激的注意回避（Radke etal.,2015)。综上所述，对具有高皮质醇水平的未成年犯来说，其回避消极刺激的动机会累加提高社交地位的动机共同促使睾酮素抑制杏仁核的激活水平，表现出注意回避，进而减少攻击行为；而对具有低皮质醇水平的未成年犯来说，他们的回避动机相对较低，仅在提高社交地位动机的影响下削弱了辜酮素与注意偏向和攻击行为间的关联，最终表现为中介模型不显著。
+
+# 4.4本研究的局限和临床意义
+
+本研究存在一定的局限性：（1）因未成年犯的数据获取较为困难，部分被试数据质量存在问题，筛选后本研究仅纳入了76名有效被试，样本量相对较少。（2）当前研究仅关注了辜酮素、皮质醇、敌意注意偏向对未成年犯攻击行为的作用，而忽略了情境背景、个人动机可能扮演的重要角色。（3）本研究所针对的未成年犯在攻击水平、环境背景方面代表一类独特的人群，因此无法在研究中设计相应的对照组（Clarke-McLean,1996)，且当前研究结果仅限于未成年犯管教所环境下未成年犯的攻击行为。
+
+本研究结果也提示我们，在临床实践上，基于生物激素影响攻击行为的中介机制和调节机制，可尝试从增加对敌意刺激的注意回避和提高皮质醇水平两个方面对未成年犯的攻击暴力行为进行干预。首先，考虑到生物激素可通过敌意注意偏向对攻击行为产生间接影响，提高未成年犯对敌意刺激的注意回避或可有效降低攻击水平，而对注意过程的干预也具有“自下而上"和"自上而下"两种取向。一方面，可尝试对未成年犯“自下而上”的注意过程进行干预，即强化个体对非威胁刺激内隐和自动化的选择性注意，调整其对外界刺激的偏向性选择，如注意偏向矫正训练（Atention Bias Modification Treatment，ABMT）（Hakamata et al.,2010）。另一方面，也可尝试对个体“自上而下”的注意过程进行干预，即通过提高个体的认知控制和社会信息加工能力来降低对敌意刺激的注意偏向，如认知行为疗法（Lee&DiGiuseppe,2018）。其次，考虑到皮质醇的调节作用，可尝试通过提高皮质醇水平促使个体表现出更多的敌意注意回避，进而降低攻击水平。已有研究显示，对具有反社会行为的儿童来说，能有效减少其攻击行为的家庭治疗正是通过提高个体的皮质醇水平来起作用的（O'Neal et al., 2010）。
+
+# 5结论
+
+本研究得到以下结论：
+
+（1）未成年犯的敌意注意偏向（注意不稳定性，负向峰值TL-BS）在睾酮素与攻击行为的关系中起完全中介作用。（2）皮质醇在睾酮素对敌意注意偏向的预测中起调节作用：仅在高皮质醇水平下，辜酮素可正向预测个体对敌意刺激的注意回避和注意不稳定性，进而降低攻击水平。
+
+致谢：感谢檀斯锜、石琳琳、陈琳、林慧娴等人在本研究数据收集上的协助。
+
+参考文献   
+Archer, J. (2oo6). Testosterone and human aggression: an evaluation of the challenge hypothesis. Neuroscience & Biobehavioral Reviews,30(3), 319-345.   
+Boksem, M. A., Mehta, P. H., Van den Bergh,B., van Son, V., Trautmann, S.T., Roelofs,K.,.. & Sanfey, A. G. (2013). Testosterone inhibits trust but promotes reciprocity. Psychological Science,24(11),2306-2314.   
+Bos,P.A., Panksepp, J., Bluthé,R. M., & van Honk, J. (2012). Acute effects of steroid hormones and neuropeptides on human social-emotional behavior: a review of single administration studies. Frontiers in Neuroendocrinology,33(1),17-35.   
+Brooks, J. H., & Reddon, J.R.(1996). Serum testosterone in violent and nonviolent young offenders. Journal of Clinical Psychology, 52(4), 475-483.   
+Buades-Rotger, M., & Krämer, U. M. (2018). From words to action: implicit attention to antisocial semantic cues predicts aggression and amygdala reactivity to angry faces in healthy young women. Aggressive Behavior, 44(6), 624-637.   
+Carré,J. M.,& Archer, J. (2018). Testosterone and human behavior: the role of individual and contextual variables. Current Opinion in Psychology, 19,149-153.   
+Crick,N. R., & Dodge, K. A. (1994). A review and reformulation of social information-processing mechanisms in children's social adjustment. Psychological Bulletin,115(1),74-101.   
+Clarke-McLean, J. G. (1996). Social networks among incarcerated juvenile offenders. Social Development, 5(2),203-217.   
+Dabbs J. M., Carr, T. S., Frady,R.L., & Riad, J. K. (1995). Testosterone, crime, and misbehavior among 692 male prison inmates. Personality and Individual Differences,18(5), 627-633.   
+Dekkers, T. J., van Rentergem, J. A. A., Meijer, B., Popma, A., Wagemaker, E., & Huizenga, H. M. (2019). A meta-analytical evaluation of the dual-hormone hypothesis: does cortisol moderate the relationship between testosterone and status,dominance,risk taking, aggression, and psychopathy? Neuroscience & Biobehavioral Reviews, 96,250-271.   
+Denson, T. F., Ronay, R., von Hippel, W.,& Schira, M. M. (2013). Endogenous testosterone and cortisol modulate neural responses during induced anger control. Social Neuroscience, 8(2), 165-177.   
+Domes, G., Mense, J., Vohs, K.,& Habermeyer, E. (2013). Offenders with antisocial personality disorder show attentional bias for violence-related stimuli. Psychiatry Research, 209(1), 78- 84.   
+Dreher,J. C., Dunne, S.， Pazderska,A.， Frodl, T.， Nolan, J. J.，& O'Doherty, J. P. (2016). Testosterone causes both prosocial and antisocial status-enhancing behaviors in human males. Proceedings of the National Academy of Sciences, 113(41), 11633-11638.   
+Eisenegger, C., Haushofer, J.,& Fehr,E. (2011). The role of testosterone in social interaction. Trends in Cognitive Sciences,15(6), 263-271.   
+Fernandez-Castillo, N., & Cormand, B. (2016). Aggressive behavior in humans: genes and pathways identified through association studies. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics,171(5), 676-696.   
+Gross, J. J. (20o1). Emotion regulation in adulthood: timing is everything. Current Directions in Psychological Science, 10(6), 214-219.   
+Grotzinger,A.D., Mann,F.D.,Patterson, M. W., Tacket, J.L.,Tucker-Drob,E.M.,& Harden, K. P. (2018). Hair and salivary testosterone, hair cortisol, and externalizing behaviors in adolescents.Psychological Science,29(5), 688-699.   
+Hakamata, Y., Lissek, S., Bar-Haim, Y., Britton, J. C., Fox, N. A.,Leibenluft, E.,.& Pine, D. S. (2010). Attention bias modification treatment: a meta-analysis toward the establishment of novel treatment for anxiety. Biological Psychiatry, 68(11), 982-990.   
+Hayes,A. F. (2012). PROCESS: a versatile computational tool for observed variable mediation, moderation， and conditional processmodeling [Whitepaper]. Retrievedfrom http://www.afhayes.com/public/process2012.pdf   
+Huesmann,L. R. (2018). An integrative theoretical understanding of aggression: a brief exposition. Current Opinion in Psychology,19,119-124.   
+Knight, E. L., Sarkar, A., Prasad, S., & Mehta, P. H. (202O). Beyond the challenge hypothesis: the emergence of the dual-hormone hypothesis and recommendations for future research. Hormones and Behavior,104657.   
+Kuckertz, J. M.,& Amir, N. (2015). Attention bias modification for anxiety and phobias: current status and future directions. Current Psychiatry Reports, 17(2), 9.   
+Laue, C., Griffey, M., Lin, P. I1., Wallace, K., Van der Schoot, M., Horn, P.,.. & Barzman, D. (2018).Eye gaze patterns aociated with aggressive tendencies in adolescence. Psychiatric Quarterly, 89(3), 747-756.   
+Lee,A. H., & DiGiuseppe, R. (2018). Anger and aggression treatments: a review of meta-analyses. Current Opinion in Psychology,19, 65-74.   
+Li, X. Y.,Fei,L. P., Zhang, Y. L.,Nun, Y. J., Tong, Y. S., Yang, S. J. (2011). Development, reliability and validity of the Chinese version of Buss & Perry Aggression Questionnaire. Chinese Journal of Nervous and Mental Diseases, 37(10), 607-613.   
+[李献云，费立鹏，张亚利，牛雅娟，童永胜，杨少杰.(2011).Buss 和 Perry 攻击问卷中文版的 修订和信效度．中国神经精神疾病杂志,37(10),607-613.]   
+Lievaart, M., Huijding, J., van der Veen, F. M., Hovens, J.E., & Franken, I. H. (2O17). The impact of angry rumination on anger-primed cognitive control. Journal of Behavior Therapy and
+
+Experimental Psychiatry, 54,135-142. Lu, Q., Guo, K. Y., Zhang, M., Zhang, X. B., Hu, F. Q., Yang, J. L. (2018). Chinese juvenile delinquency research report 2O17: based on a comparative study of juvenile offenders and other groups. Juvenile Delinquency, 219(6), 31-45. [路琦，郭开元，张萌，张晓冰，胡发清，杨江澜.(2018).2017 年我国未成年人犯罪研究报告 -基于未成年犯与其他群体的比较研究．青少年犯罪问题,219(6),31-45.] Manning, K. E.(2019). Seeing red? A systematic review of the evidence for atentional biases to threat-relevant stimuli in propensity to reactive aggression. Aggression and Violent Behavior, 101359. Mehta,P. H.，& Josephs,R.A. (2010). Testosterone and cortisol jointly regulate dominance: evidence for a dual-hormone hypothesis. Hormones and Behavior, 58(5), 898-906. Miller, N. V., & Johnston, C.(2019). Social threat attentional bias in childhood: relations to aggression and hostile intent attributions. Aggressive Behavior, 45(3), 245-254. Montoya,E.R.,Terburg,D.,Bos,P.A.,& Van Honk,J. (2012). Testosterone,cortisol,and serotonin as key regulators of social aggresson: a review and theoretical perspective. Motivation and Emotion,36(1), 65-73. O'Neal, C.R., Brotman,L.M., Huang, K.Y., Gouley, K.K., Kamboukos,D., Calzada,E.J., & Pine, D. S.(2010). Understanding relations among early family environment, cortisol response, and child aggression via a prevention experiment. Child Development, 81(1),290-305. Panagiotidis,D., Clemens, B., Habel, U., Schneider,F., Schneider, I., Wagels,L.,& Votinov, M. (2017). Exogenous testosterone in a non-social provocation paradigm potentiates anger but not behavioral aggression. European Neuropsychopharmacology,27(11),1172-1184. Panizzon, M. S., Hauger, R.L., Xian,H., Jacobson,K.,Lyons,M.J.,Franz, C.E.,& Kremen, W. S. (2018). Interactive effects of testosterone and cortisol on hippocampal volume and episodic memory in middle-aged men. Psychoneuroendocrinology, 91,115-122. Popma, A., Vermeiren,R., Geluk, C.A., Rinne,T., van den Brink, W., Knol, D.L.,...& Doreleijers, T. A. (20o7). Cortisol moderates the relationship between testosterone and aggression in delinquent male adolescents. Biological Psychiatry, 61(3), 405-411. Prasad,S., Knight,E.L., & Mehta, P.H. (2019). Basal testosterone's relationship with dictator game decision-making depends on cortisol reactivity to acute stress: a dual-hormone perspective on dominant behavior during resource allocation. Psychoneuroendocrinology, 101,150-159. Radke, S., Volman,I.,Mehta,P., van Son, V.,Enter, D., Sanfey,A.,..& Roelofs,K. (2015). Testosterone biases the amygdala toward social threat approach. Science Advances, 1(5), e1400074. Rosell, D. R., & Siever, L. J. (2015). The neurobiology of aggression and violence. CNS
+
+Spectrums,20(3), 254-279.   
+Roy, A. K., Vasa, R. A., Bruck, M., Mogg, K., Bradley, B. P., Sweeney, M.,.. & CAMS Team. (2008). Attntion bias toward threat in pediatric anxiety disorders. Journal of the American Academy of Child & Adolescent Psychiatry, 47(10), 1189-1196.   
+Smilie,L.D.,Pickering,A.D.,& Jackson, C.J. (20o6).The new reinforcement sensitivity theory: implications for personality measurement. Personality and Social Psychology Review, 10(4), 320-335.   
+Terburg, D.,& van Honk, J. (2013). Approach-avoidance versus dominance-submissiveness: a multilevel neural framework on how testosterone promotes social status. Emotion Review, 5(3),296-302.   
+Terburg,D.,Aarts,H., & van Honk, J. (2012). Testosterone affects gaze aversion from angry faces outside of conscious awareness. Psychological Science, 23(5), 459-463.   
+Terburg,D., Morgan, B., & van Honk, J.(2oo9). The testosterone-cortisol ratio: a hormonal marker for proneness to social aggression. International Journal of Law and Psychiatry, 32(4), 216.   
+Tremblay,R.E. (1998). Testosterone, physical aggression, dominance,and physical development in early adolescence. International Journal of Behavioral Development, 22(4),753-777.   
+van Peer, J. M.,Enter,D., van Steenbergen, H., Spinhoven,P.,& Roelofs, K. (2017). Exogenous testosterone affects early threat processing in socially anxious and healthy women. Biological Psychology,129,82-89.   
+Vasquez, E.A., Pedersen, W. C.,Bushman, B.J., Kelley, N. J., Demeestere, P.,& Miler, N. (2013). Lashing out after stewing over public insults: the effects of public provocation, provocation intensity, and rumination on triggered displaced aggression. Aggressive Behavior,39(1),13-29.   
+Wibral, M., Dohmen, T., Klingmüller, D., Weber, B., & Falk, A. (2012). Testosterone administration reduces lying in men. PloS One, 7(10).   
+Wilkowski, B.M.,& Robinson, M. D. (2010). The anatomy of anger: an integrative cognitive model of trait anger and reactive aggression. Journal of Personality, 78(1), 9-38.   
+Yang,B., Xiao, Y. Q.,Lai,L., & Wu,M. X. (2018). Evidence-based modification of juvenile violent delinquency. Juvenile Delinquency Prevention Research,1,32-42.   
+[杨波，肖玉琴，赖琳，吴明霞.(2018)．未成年暴力犯的询证矫正．预防青少年犯罪研究，1, 32-42.]   
+Zvielli, A., Bernstein,A.,& Koster, E. H. (2015). Temporal dynamics of attentional bias. Clinical Psychological Science, 3(5), 772-788.
+
+# Testosterone and aggressive behavior in juvenile offenders: the mediation effect of hostile attention bias and the moderation effect of cortisol
+
+REN Zhihong1; ZHAO Ziyi1; YU Xianglian²; ZHAO Chunxiaol; ZHANG Lin1; LIN Yuzhong³; ZHANG Wei1 ( Key Laboratory of Adolescent Cyberpsychology and Behavior (CCNU), Ministry of Education; School of Psychology, Central China Normal University; Key Laboratory of Human Development and Mental Healthof   
+HubeiProvince,Wuhan 43o079,China) (DepartmentofEducation,Jianghan University, Wuhan 430056,China) (School ofHumanitiesandSocial Sciences,Fuzhou University,Fuzhou 35oio8,China)
+
+# Abstract
+
+Juvenile crime, as an important factor of public security, has extensively concerned the whole society. Although juvenile offenders exhibit unique behavior patterns and development characteristics, few studies have investigated the potential mechanism of aggressive behaviors in juvenile offenders.Based on the dual-hormone hypothesis and social information processing theory, It is plausible to argue that biological hormones and the social information processing process related to hostile might play an fundamental role in shaping aggressive behaviors of juvenile offenders. Therefore, the present study proposes a moderated mediating model and examined the prediction of testosterone for aggressive behaviors in juvenile ofenders that is mediated by hostile atention bias and moderated cortisol. Drawing on both biological hormone and social cognition perspectives,the present study attmpts to answer the questions of “how” testosterone affects aggressive behavior and “when” the effect willbe present, which provides implications for further developing interventions against aggressive behaviors in juvenile offenders.
+
+This study included 84 juvenile offenders (average age: 17.55, standard deviations: 0.52) as participants. Their aggressive behavior was measured using the Chinese version of the Buss-Perry Attack Scale (AQCV). Enzyme-Linked Immunosorbent Assay (ELISA) was utilized to measure the salivary testosterone and cortisol levels of the participants.Moreover, the participants’ atention biases toward hostile aggressive phrases and hostile facial expressions were evaluated using an adopted Stroop and the dot-probe paradigm, respectively. Both traditional and trail-level attntion bias scores were calculated to reflect the participants' atention bias statically and dynamically.
+
+Results showed that (1） attention bias toward hostile stimuli (Variability， Peak TL
+
+BSNEGATIVE） played a complete mediation role in the relationship between testosterone and aggressive behavior (i.e. variability played a complete mediation role in the prediction of AQCV total score, physical aggression subscale score, and anger subscale score. Peak TL-BSNEGATIVE played a complete mediation role in the prediction of verbal aggression subscale score by testosterone). (2) Cortisol moderated the relationship between testosterone and attention bias toward hostile stimuli. More specifically,at a high cortisol level, testosterone positively predicted individual attention avoidance (Peak TL-BSNEGATIVE) and variability, thereby reducing the aggresson level. However, the mediation effect of attention bias toward hostile stimuli was not significant at a low cortisol level.
+
+Based on the dual-hormone hypothesis and social information processing theory, the present study examined a moderated mediating model in a sample of juvenile offenders using the perspectives of biological hormone and social information processing in aggressive behaviors. The present study revealed a potential development mechanism of aggressive behaviors in juvenile offenders and thus provides an empirical foundation for hormone-based interventions against aggressive behaviors in juvenile offenders.Finally, on the basis of the mediation and moderation effects of biological hormones on aggressive behavior, the present study indicates that increasing atention avoidance and the cortisol level for juvenile offenders might help reduce their aggressive violence.
+
+Key words aggressive behavior; testosterone; cortisol; attention bias; juvenile offender

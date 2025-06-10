@@ -1,0 +1,157 @@
+# Suppress or enhance microwave magnetic losses by spin transfer torque effect
+
+Mangui HAN\*
+
+School of Materials and Energy, University of Electronic Science and Technology of China, Chengdu, China.
+
+# Author contribution statements:
+
+HAN has proposed the research ideas,designed the simulation details,analyzed the data, and prepared the whole manuscript.
+
+\*Correspondence:
+
+Mangui HAN （韩满贵） (magnet@uestc.edu.cn), corresponding author
+
+# Abstract
+
+Using the micromagnetics simulations,it is shown that the spin transfer torques (STT) of electrons are only exerted on the magnetic moments at two ends of single nanowire where they are misaligned with the direction of polarized current density $( J )$ . By increasing the polarization rate (P) of current, microwave magnetic losses at 18 GHz can be obviously suppressed in this very simplified model.It is also found that the natural resonance frequency can no be changed by the STT effect. Negative imaginary parts of permeability are also shown feasible under the STT effect. On the other hand, the results also show that the microwave magnetic losses at 18 GHz can be enhanced by increasing the $\beta$ value in the non-adiabatic term. It can be well understood from the change of effective damping constant $\left( a _ { e } \right)$ due to the different contributing torques of STT effect. The adiabatic torque of STT will decrease $a _ { e }$ value and therefore suppress the microwave magnetic losses.The non-adiabatic torque of STT will increase $a _ { e }$ value and therefore enhance the microwave magnetic losses. These results show an active and innovative way to control the microwave magnetic losses.
+
+Key words: spin transfer torque; permeability;micromagnetics;magnetic losses
+
+# 1. Introduction
+
+Ferromagnetic nanowires array can find many applications, for instance, acoustic sensor [1], perpendicular magnetic recording media [2]，electromagnetic wave absorbents，self-biased microwave devices [3]，etc. Ferromagnetic nanowires are generally deposited into anodic aluminum oxide (AAO) templates to obtain periodically ordered arrays. To counteract the electromagnetic wave pollution,absorbing layers were fabricated by containing randomly oriented magnetic nanowires [4],where larger dielectric losses $( \varepsilon ^ { \prime \prime } { > } 0 )$ and/or magnetic losses $( \mu ^ { \prime \prime } { > } 0 )$ are required for a specific working frequency band.For many applications，periodically ordered ferromagnetic nanowires are required. In our previous work,we have measured both the frequency dependence of permitivity and permeability for the periodically ordered Fe nanowire array [5]. However, lower magnetic loss $( \mu ^ { \prime \prime } \mathrm { \overrightarrow { ~ \mathrel {  } } } \mathbf { 0 } ) $ is better for microwave magnetic devices, such as circulators or isolators.Traditional approaches to suppress or enhance the microwave magnetic losses are to find magnetic materials with specific crystalline structures, proper microstructures [6,7,8],which are passive because once the materials are chosen and are impossible to control the magnetic losses when the devices are working.Except for the naturally synthesized materials, the so-called metamaterials are designed to tune the high frequency permittivity and permeability so as to manipulate the propagation of electromagnetic wave. Negative real parts of permittivity $( \pmb { \varepsilon } ^ { \prime } < 0 )$ and/or negative real parts of permeability $( \mu ^ { \prime } < 0 )$ are often obtained in some man-made structures (for instance，split ring resonator， SRR).Is it possible for us to actively manipulate the high frequency permeability of naturally synthesized ferromagnets (non-metamaterials) by spin transfer torque effect? In this paper, by using a simplified model with only one iron (Fe) nanowire, we wil give it a try and propose a new idea on how to suppress or enhance the high frequency magnetic losses of ferromagnetic materials employing the spin transfer torque (STT) effect.The results will be helpful for finding an active approach to adjust the microwave magnetic losses for some specific applications.
+
+# 2.Simulations details
+
+In this paper, micromagnetics based on a continuum theory is employed to simulate the high frequency permeability of Fe nanowires.It is used to describe magnetization processes on a significant length scale，which is large enough to replace atomic magnetic moments by a continuous function of position,and but smallenough to depict the transitions between magnetic domains.We choose the widely used micromagnetics simulation software named “OOMMF" (object-oriented micromagnetics framework)[9].To study the dynamic response of magnetization to the external excitation, micromagnetics simulations are performed by solving the the LandauLifshitz-Gilbert (LLG) equation.If the spin transfer torque effect is included, the LLG equation should be revised as follows [10,11]:
+
+$$
+\frac { d \overrightarrow { M } } { d t } = - \gamma \overrightarrow { H } _ { e f f } \times \overrightarrow { M } + \frac { \alpha } { M s } ( \overrightarrow { M } \times \frac { d \overrightarrow { M } } { d t } ) - ( \overrightarrow { u } \cdot \overrightarrow { \nabla } ) \overrightarrow { M } + \frac { \beta } { M s } \overrightarrow { M } \times [ ( \overrightarrow { u } \cdot \overrightarrow { \nabla } ) \overrightarrow { M } ]
+$$
+
+，where $H _ { e f f }$ is the effective magnetic field composed of the exchange interaction，magnetic anisotropic field, the applied external magnetic field,and the demagnetization field. $\pmb { \alpha }$ is the Gilbert damping constant of the dynamic precession of magnetization $( M )$ without STT applied and is set as O.O1 for all simulations in this work. γis the Gilbert gyromagnetic ratio $( 2 . 2 1 \times 1 0 ^ { 5 } \ : \mathrm { m / A } . 5 )$ Onthe right side ofEq.1,the third term is to describe the adiabaticity effect of spin transfer torque. The last term,however, is the non-adiabatic contribution of spin transfer torque,which is to describe the impact of joule heating of current on the dynamical behaviors of M. $\beta$ is often called the non-adiabatic parameter. According to the physical model given in Equation (1), vector $\pmb { u }$ is a velocity related to the moving electrons defined as follows:
+
+$$
+\vec { u } = - \frac { g \mu _ { B } P } { 2 e M s } \vec { J }
+$$
+
+,where $" \mu _ { B } "$ is Bohr magneton, $" \pmb { P } ^ { \prime \prime }$ is the polarization rate of current $( P = ( \pm 1 _ { \uparrow } { - } 1 _ { \downarrow } ) / ( \pm 1 _ { \uparrow } { + } 1 _ { \downarrow } ) ) . ^ { \prime \prime } \nonumber$ $" g "$ is the Landé factor. $\prime \ell ^ { \prime \prime }$ is the electron charge. $\prime \prime \prime$ is the density of polarized current and will be varied to study its impacts on the magnetic losses. The physical parameters of pure iron $( F e )$ nanowires for micromagnetics simulation are set as: magnetocrystalline anisotropy constant $( \pmb { K } _ { 1 } )$ .s $4 . 8 { \times } 1 0 ^ { 4 } \mathrm { J } / \mathsf { m } ^ { 3 } .$ exchange stiffness constant $\pmb { A }$ is $2 . 1 { \times } 1 0 ^ { - 1 1 } \mathrm { J } / \mathsf { m } ,$ ，saturation magnetization Ms is $1 . 7 { \times } 1 0 ^ { 6 } \ \mathsf { A } / \mathsf { m }$ . The size of unit cell to discretize nanowire is set as $2 \mathsf { n m } \times 1 . 2 5 \mathsf { n m } \times 1 . 2 5 \mathsf { n m } .$ ，which is smaller than the critical exchange length $3 . 4 \mathsf { n m }$ for Fe)[12].The geometric dimension (Length $\times$ Diameter, i.e., $\pmb { L } \pmb { x } \pmb { D } )$ of an isolated Fe nanowire is set as: $1 0 0 \ \mathsf { n m } \ ( \mathsf { L } ) \times 1 0 \ \mathsf { n m }$ (D).To obtain the frequency dependence of permeability for Fe nanowire,firstly we start from an initial equilibrium state of magnetic moments without extra magnetic field applied,in which the orientation of magnetic moments are totally resulted from minimizing the total free energy.Then,a pulse magnetic field $( \pmb { h } ( t ) = 1 0 0 0 \ \mathrm { e x p } ( - 1 0 ^ { 9 } \mathrm { t } ) .$ ,t in second, $\pmb { h }$ in $\mathsf { A / m }$ ) is applied perpendicularly to the length of nanowire (x-axis)to excite the magnetization away from their equilibrium directions. Finally,the dynamic responses of magnetization as function of time are recorded and then processed into the frequency domain by a fast Fourier transform (FFT). Based on the below definition，the permeability spectra are obtained.
+
+$$
+\begin{array} { l } { \displaystyle \mu ^ { \prime } ( f ) - j \mu ^ { \prime \prime } ( f ) = 1 + \frac { m ( f ) } { h ( f ) } = 1 + \chi ^ { \prime } ( f ) - \mathbf { j } \chi ^ { \prime \prime } ( f ) } \\ { \displaystyle } \\ { \displaystyle \mu ^ { \prime } ( f ) = 1 + \chi ^ { \prime } ( f ) } \\ { \displaystyle } \\ { \displaystyle \mu ^ { \prime \prime } ( f ) = \chi ^ { \prime \prime } ( f ) } \end{array} .
+$$
+
+# 3. Results and discussions
+
+# 3.1 Suppress microwave magnetic losses
+
+In order to understand the origins of microwave magnetic losses peaks,the equilibrium states of magnetization vectors along the nanowire are required and shown in Fig.1. The direction of currentJis along the length of nanowire.The pulse magneticfield is applied along the y-axis, Clearly, M vectors at two ends of nanowires misaligned with those in other parts,indicating they are experienced different effective magnetic field.
+
+![](images/f28555ba6df41882a58d076c780b50bfe09ef9e566a6d268554fd8a06b172957.jpg)  
+Fig.1 Equilibrium magnetization distribution of single Fe nanowire
+
+To illustrate our idea on how to suppress the microwave magnetic losses by STT effect.We have simulated the frequency dependence of permeability $( \mu ^ { \sim } f )$ of single Fe nanowire.For this purpose,
+
+Jis set as $1 3 { \times } 1 0 ^ { 1 1 } \mathsf { A } / \mathsf { m } ^ { 2 }$ $\beta$ is 0.01.P is varied to study the effect of spin polarization rate.With the dimension of single nanowire in our simulations,actually only smallpolarized current (about 1mA) is required for such a large Jvalue.Firstly, the $\mu { \sim } f$ spectrum without STT effect is shown in Fig.2a. Obviously, we have observed two significant magnetic losses peaks at 18 GHz and 31 GHz.Suppose the one at $1 8 \mathsf { G H z }$ is what we want to suppress. The simulated natural resonance peak $( f _ { r } )$ at 31 GHz is often called "bulk mode"[13,14],and is believed due to the natural resonance phenomenon of M oriented perfectly along the length direction of nanowire. Our $f _ { r }$ value of “bulk mode" is calculated as 31.49 GHz according to equations as follows [15].
+
+$$
+K _ { s } = \frac { 1 } { 2 } \mu _ { 0 } \Delta N M _ { s } ^ { 2 }
+$$
+
+$$
+\begin{array} { l } { { \displaystyle { \cal H } _ { k , s } = \frac { 2 K } { \mu _ { 0 } M _ { s } } , K = K _ { 1 } , K } } \\ { ~ } \\ { { \displaystyle \overrightarrow { { \cal H } } _ { e } = ( \overrightarrow { { \cal H } _ { k } } + \overrightarrow { { \cal H } _ { s } } ) } } \\ { { ~ } } \\ { { f _ { r } = \frac { \gamma { \bf H } _ { e } } { 2 \pi } } } \end{array}
+$$
+
+$\pmb { K _ { s } }$ is the shape anisotropy constant. $\pmb { H } _ { k }$ and ${ \pmb H } _ { s }$ is the anisotropic field related to $\pmb { K } _ { 1 }$ and $\pmb { K } _ { s } ,$ respectively. In our case, $\pmb { H } _ { k }$ and ${ \pmb H } _ { s }$ are in the same direction. $\varDelta N \$ is the demagnetization factor difference between the $\mathsf { x }$ -axis direction $( N _ { x } = 0 )$ and the $\mathsf { y }$ -axis direction $( N _ { y } = 0 . 5 )$ . The calculated resonance frequency is very close to the simulated peak frequency of bulk mode (31 GHz, see Fig. 2).The other one at $1 8 G H z$ is often named “edge mode" and has no a formula to calculate it.The "edge mode" resonance peak is believed due to the magnetizations at both ends of nanowire which are misaligned with the magnetizations of “bulk mode", see Fig.1.
+
+![](images/81db321b37fe09fd65de354cd610ffac8b1cf1db22229bc34c2a49a7f49faa64.jpg)
+
+![](images/6dc921ea43f96d1b1c9213042ec5406a1f799369468b6a6fbb2bcbcdda576e50.jpg)  
+Fig.2 microwave permeability and damping behaviors of single Fe nanowire
+
+For natural resonance mechanism without STT applied， the precession cone angle (0)of magnetization is continuously decreased due to the the microwave magnetic losses,see Fig. 2c.As shown in Fig. 2b, the decay of $\mathsf { M } _ { \mathsf { Y } , \mathsf { z } } ( \mathsf { t } )$ components indicates the angle 0 is decreasing. Therefore, positive $\mu ^ { \prime \prime }$ value denotes the magnetic loss and continuously decreasing 0. According to the STT efect,when a spin-polarized currentflows through a zone offerromagnetic material with magnetic moments oriented non-uniformly, the spin angular momentum of electrons can be transferred to the magnetizations $( M )$ and therefore a torque will exert on M [16,17]. In our case, the magnetic moments at both ends of nanowire are NOT uniformly oriented, the impact of STT on the $\mu \sim f$ spectra should be only observed for the magnetic loss peak of these zones,which are expected and shown in Fig.3. Clearly, with increasing the polarization rate of current $( { } ^ { \prime \prime } { \pmb P } ^ { \prime \prime } ) .$ ,the magnetic loss at this frequency is gradually suppressed.When $\pmb { P }$ is 0.3, 0.4 and 0.5, the maximum $\mu ^ { \prime \prime }$ is 15.50, 11.64 and 4.66 respectively. Especially，when P is 0.7,the positive loss peak at $1 8 \ G H z$ almost disappeared.These results clearly indicate that STT effect can be employed to suppress microwave magnetic losses.In addition,it is shown that the STT efect will not impact on the magnetic permeability of the “bulk mode" at 31 GHz, which is related to the zone where the $\pmb { J }$ and M are in the same direction. Besides, when the STT effect is strong enough, the torque transferred from spin will increase the precession cone angle of magnetization,and means the energy transferred from the polarized current will surpass the energy losses due to the normal natural resonance. Consequently， it will result in negative $\mu ^ { \prime \prime }$ values (see Fig.3d)，which is commonly thought impossible for a normal natural resonance.It is completely different from the metamaterials where only negative $\mu ^ { \prime }$ is possible and $\mu ^ { \prime \prime }$ is always positive [18]. It should also be noted that there were some papers reporting negative $\mu ^ { \prime \prime }$ values before, but we think their results were just because of measurement errors and did not have any convincing physical origins. Based on Equation 2, increasing the Jvalue will have the same effect as increasing $\pmb { P }$ value. The impact of Jvalue on the permeability spectra was reported in our previous paper[19], in which the totalfree energy of the magnetic system varied when the polarized electrons transferred the angular momentum to the magnetizations.The additional energy is transported in this way: electric field energy drives the polarized current to flow $\mathrm { - } \mathrm { > }$ polarized current transfers the angular momentum of spins to M --> the precession cone angle of M changes due to the transferred torque (torque $\scriptstyle = \Delta$ (angular momentum)/ $\prime \Delta \mathfrak { t }$ ）.Hence,a polarized current with larger $\pmb { P }$ value will require smaller critical J value $( J _ { c } )$ to totally suppress the unwanted microwave magnetic losses.If the system has a larger Gilbert damping torque for the precession,as depicted in Fig.2c, larger $J _ { c }$ will be required for a larger STT torque.
+
+![](images/7a0de39a80192e2eb52f4d80afdb5ae72a5589db4746a22aa4b926aba75d0587.jpg)  
+Fig.3 Suppress microwave magnetic losses at $1 8 G H z$ with increasing P values
+
+To understand how the STT effect influence the magnetic losses,the precession behaviors of magnetization component (Mz) have been compared for the cases having and having no STT effect, as shown in Fig.4. Before the precession excited by the pulsed magnetic field or STT, $\pmb { M } _ { z }$ component is zero $( \theta = 0 )$ . For the cases with STT effect, the amplitude of $\pmb { M } _ { z }$ is much larger which means the precession starting with a larger 0 due to the additional torque from the STT effect,see Fig.2c.The precession without STT effect decays much faster to the initial equilibrium state $( M _ { z } = 0 )$ due to the dissipation of energy. Here,we propose that,under the STT effect, the normal precession damping behavior is impacted by an effective value ${ \pmb { a } } _ { e } : { \pmb { a } } _ { e } = { \pmb { a } } + { \pmb { a } } _ { s t t , }$ where $\pmb { q } _ { s t t }$ is the damping term due to the STT (adiabaticity and non- adiabaticity) effect. ${ \pmb q } _ { \mathsf { s t t } }$ can be positive or negative depending on the STT torque direction. In our case shown in Fig. 3, ${ \pmb q } _ { \mathsf { s t t } }$ should be treated as negative value because STT torque is opposite to the Gilbert damping torque,see Fig. 2c.With P increasing, the impact of STT effect gets stronger, and ${ \pmb q } _ { \mathsf { s t t } }$ get more negative. ${ \mathsf { q } } _ { \mathsf { e } }$ is therefore getting smaller and negative at some point. Since the microwave magnetic loss due to natural resonance mechanism is positively correlated to ${ \pmb q } _ { e , \pmb { \imath } }$ the magnetic losses is accordingly suppressed as ${ \pmb q } _ { e }$ is decreased,as shown in Fig. 3.When Pis O.7,the STT torque is strong enough to enlarge θ which is inferred from the increasing Mz component after 0.8 ns, see Fig.4b.With 0 increasing, more energy is transferred to M, ${ \pmb q } _ { e }$ is logically inferred to be negative. Hence, the observed negative $\mu ^ { \prime \prime }$ values is understood.
+
+![](images/be578c051899b508c845470872c720b8008ce26743849bc22106dd5865a87c41.jpg)  
+Fig.4 Dynamicbehaviors of $M _ { z } ( \mathrm { t } )$ underdifferentPvalues
+
+# 3.2 Enhance microwave magnetic losses
+
+There are many scenarios requiring the microwave magnetic losses to be large so as to dissipate the electromagnetic wave energy. For instance,to counteract electromagnetic wave pollution， ferromagnetic (or ferrimagnetic) materials are widely used to absorb unwanted electromagnetic energy in some specific frequency band via the natural resonance phenomenon. Again,we suppose to dissipate the electromagnetic wave energy at $1 8 \mathsf { G H z }$ ,as shown in Fig. 2a. Naturally, we intend to enhance the magnetic losses around this frequency. Here, we demonstrate how to accomplish this goal. $\pmb { P }$ is set as O.5, J is set as ${ 8 \times 1 0 ^ { 1 1 } \mathsf { A } } / { \mathsf { m } ^ { 2 } }$ $\beta$ is varied to study its effect on the magnetic losses. According to STT theory, $\beta$ is a parameter related to the so-called “nonadiabatic torque" of STT effect, which was thought stemmed from “momentum transfer" or "spinflip scattering"[11,20,21]. Despite of the debates about itsorigins,some experiments had already shown that this non-adiabatic torque can drive the domain wallmovement[22,23].The magnitude of $^ { \prime \prime } { \beta } ^ { \prime \prime }$ were experimentally found comparable to the Gilbert damping constant $" \alpha ^ { \prime \prime }$ [24,25]. Therefore,it is rational and deserving to study how to enhance the microwave magnetic losses via STT effect. Our results are shown in Fig.5.
+
+![](images/1212e00f98f8ac1ab06fafd17f51403ce598e27e7241fb59f5de379601570ac1.jpg)  
+Fig.5. Enhance microwave magnetic losses at 18 GHz with increasing $\beta$ values ( $\pmb { { \cal P } } = 0 . 5 ,$ $\pmb { J } = 8 { \times } 1 0 ^ { 1 1 }$ $\mathsf { A } / \mathsf { m } ^ { 2 } )$ ：
+
+Obviously, the magnetic losses peaks are significantly enhanced.When $\beta$ is 0.01,0.5 and 0.8, the maximum $\mu ^ { \boldsymbol { \prime \prime } }$ is 15.28,28.26 and 35.95 respectively. Same as before, the non-adiabatic torque has no effect on other resonance peaks.It gives us an approach to manipulate some microwave magnetic losses to meet specific purposes without affecting the working frequency of devices. Similarly,we have compared their precession behaviors with those with different $\beta$ values,as illustrated in Fig.6.At first glance,it is found that larger $\beta$ value gives rise to a faster damping. After 1 ns, Mz(t) of the one with $\beta \mathsf { a s } 0 . 0 1$ still oscillates with large magnitudes.While the one with $\beta$ as 0.5 already has been significantly damped, which means the torque due to the joule heating effect of non-adiabatic term in Eq.1 tends to assist Mz components back to its initial equilibrium states. It can be inferred that increasing $\beta$ will give rise to a positive ${ \pmb q } _ { s t t , }$ and then the larger effective damping constant $\left( \pmb { a } _ { e } \right)$ , and will accordingly enhance the microwave magnetic losses.
+
+![](images/79e0a84ab0435a3f5c93108486471987a944a7374e0658b0cf9a57e6ae5af35b.jpg)  
+Fig.6 Damping behaviors of ${ \sf M } z ( { \sf t } )$ with $\beta \mathsf { a s } 0 . 5$ and 0.01
+
+Finally, it should be noticed that both STT torques cannot influence the natural resonance frequency $( f _ { \mathfrak { r } } )$ ,as shown in Fig.3 and Fig.4. According to Equation $\phantom { 0 } { 8 }$ , it bodes the same result: $f _ { \mathfrak r }$ only depends on the effective magnetic field $( H _ { \mathrm { e } } )$ acting on M. Besides, there is a minor resonance peak 0 $" \pmb { \varsigma } ^ { \prime \prime }$ peak) shown in Fig.3a.Since it is also not affected by the STT effect same as the bulk resonance frequency, therefore it originates from the magnetizations aligned perfectly with current J,but their local effective magnetic field is larger than that of magnetizations related to the bulk mode. Actually, the local $H _ { \mathrm { e } }$ is inhomogeneous along the whole nanowires and strongly decides the number of resonance peaks to be found in the permeability spectra [26].
+
+# 4.Conclusions
+
+In this paper,a very simplified model of an isolated Fe nanowire is used to show the feasibility of suppressing and enhancing the microwave magnetic losses via the STT effect.The results can be understood from the change of effective damping constant $( a _ { e } )$ due to the different contributing sources of STT effect: adiabatic torque and non-adiabatic torque.The former will decrease $a _ { e }$ value and therefore suppress the magnetic losses.The latterwill increase $a _ { e }$ value and therefore enhance the magnetic losses. Abnormal negative $\mu ^ { \prime \prime }$ phenomena is also well explained. The results in this paper show an innovative approach to actively control the microwave magnetic losses.
+
+# Acknowledgement
+
+This Work is supported by National Science Foundation of China (NSFC, Grant No. 61271039).
+
+# References
+
+[1] Patrick D.McGary, Liwen Tan,Jia Zou,and Bethanie J.H. Stadler, Magnetic nanowires for acoustic sensors,J. Appl. Phys.99, 08B310 (2006). https://doi.org/10.1063/1.2167332
+
+[2] D.J.Sellmyer, M. Zheng, R.Skomski, Magnetism of Fe, Co and Ni nanowires in self -assembled arrays，J. Phys.: Condens. Matter. 13 (2001) R433-R460. https://doi.org/10.1088/0953- 8984/13/25/201
+
+[3] G.Hamoir, L. Piraux,I. Huynen, Control of Microwave Circulation Using Unbiased Ferromagnetic Nanowires Arrays IEEE Trans. Magn. 49 (2013) 4261-4264. DOI ： https://doi.0rg/10.1109/TMAG.2013.2246548.
+
+[4] Wei Liu, Qiuwen Shao, Guangbin Ji， Xiaohui Liang，Yan Cheng， Youwei Du,Metal-organicframeworks derived porous carbon-wrapped Ni composites with optimized impedance matching as excellent lightweight electromagnetic wave absorber, Chem. Eng.J.313 (2017) 734- 744. https://doi.0rg/10.1016/j.cej.2016.12.117
+
+[5] M.Han,Ultra high frequency properties of periodically ordered Fe nanowires,J. Magn. Magn. Mater. 527 (2021) 167704.https://doi.org/10.1016/i.jmmm.2020.167704
+
+[6] Z.Peng,J. Hwang and M. Andriese,Microwave Power Absorption Characteristics of Ferrites, IEEE Trans. Magn.,vol.49, no.3,(2013)1163-1166. https://doi.0rg/10.1109/TMAG.2012.2227775.
+
+[7]A.Saib,M.Darques,L. Piraux,D.Vanhoenacker-Janvier and I. Huynen,"An unbiased integrated microstrip circulatorbased on magnetic nanowired substrate," IEEE Trans.Microwave Theory and Techn., vol.53, no.6,(2005)2043-2049.doi: 10.1109/TMTT.2005.848818.
+
+[8] Martha Pardavi-Horvath,Microwave applications of soft ferites,J. Magn. Magn. Mater. Vol.   
+215-216(2000)171-183. https://doi.0rg/10.1016/S0304-8853(00)00106-2.
+
+[9] M.J. Donahue,D.G.Porter, OOMMF User’ s Guide,2002, http://math.nist.gov/oommf [10] A.Thiavile, Y. Nakatani, J. Miltat, Y. Suzuki, Micromagnetic understanding of current-driven domainwall motionin patterned nanowires， Europhys. Lett.69 (2005)990. https://doi.0rg/10.1209/epl/i2004-10452-6.
+
+[11] S.Zhang and Z. Li， Roles of nonequilibrium conduction electrons on the magnetization dynamics of ferromagnets, Phys. Rev. Lett. 93, 127204 (2004). https://doi.org/10.1103/PhysRevLett.93.127204.
+
+[12] Ming Yan，Attila Kakay， Sebastian Gliga，Riccardo Hertel，Beating the Walker Limit with
+
+Massless Domain Walls in Cylindrical Nanowires， Phy. Rev. Lett. 104 (2010) 057201.   
+https://doi.org/10.1103/PhysRevLett.104.057201.
+
+[13] R.D.McMichael, B.B.Maranvile, Edge saturation fields and dynamic edge modes in ideal and nonideal magnetic film edges, Phys. Rev. B, 74(2006) 024424. https://doi.org/10.1103/PhysRevB.74.024424
+
+[14] Chen Wen-Bing, Han Man-Gui,Ou Yu, Zhou Hao, Deng Long-Jiang, Micromagnetic simulation on the dynamic susceptibility spectra of cobalt nanowires arrays: the effect of magnetostatic interaction, Chin. Phys. B.19 (8) (2010) 087502. https://doi.org/10.1088/1674-1056/19/8/087502 [15] B.D. Cullity, C. D. Graham, Introduction to Magnetic Materials, $2 ^ { \mathsf { n d } }$ edition, John Wiley& Sons, Inc., Hoboken,New Jersey, 2009.
+
+[16].J.C.Slonczewski, Current-driven excitation of magnetic multilayers,J. Magn. Magn. Mater. 159,L1 (1996). https://doi.0rg/10.1016/0304-8853(96)00062-5
+
+[17] J.Z.Sun, Spin angular momentum transfer in current perpendicular nanomagnetic junctions, IBM J. Res. & Dev. Vol.50, No.1 (2006)81-100.https://doi.0rg/10.1147/rd.501.0081
+
+[18]D. R.Smith,J.B.Pendry,and M. C. K.Wiltshire， Metamaterials and Negative Refractive lndex, Science,Vol 305,Issue 5685(2004)788-792. https://doi.org/10.1126/science.1096796.
+
+[19] Mangui Han, Wu Zhou, Unusual negative permeability of single magnetic nanowire excited by the spin transfer torque effect， J Magn. Magn. Mater. 457(2018)52-56. https://doi.0rg/10.1016/j.jmmm.2018.02.031
+
+[20] G.Tatara，H. Kohno,and J. Shibata，Microscopic approach to current-driven domain wall dynamics, Phys. Rep. 468,213 (2008). https://doi.org/10.1016/j.physrep.2008.07.003
+
+[21] J.Xiao，A. Zangwill，and M.D. Stiles， Spin-transfer torque for continuously variable magnetization,Phys. Rev. B 73,054428 (2006).https://doi.0rg/10.1103/PhysRevB.73.054428
+
+[22]M.Eltschka,M.Wotzel,J. Rhensius,S. Krzyk,U. Nowak,and M. Klaui,T. Kasama,R.E. DuninBorkowski, L.J. Heyderman, H.J.van Driel and R.A. Duine, Nonadiabatic spin torque investigated using thermally activated magnetic domain wall dynamics, Phys. Rev. Lett. 105, O56601 (2010). https://doi.org/10.1103/PhysRevLett.105.056601.
+
+[23] S.D.Pollard,L. Huang, K.S.Buchanan, D.A.Arena and Y. Zhu, Direct dynamic imaging of nonadiabatic spin torque efects, Nat. Commun.3 (2012)1028.https://doi.org/10.1038/ncomms2025.
+
+[24]C.Burrowes,A.P.Mihai, D.Ravelosona,J.-V. Kim,C.Chappert, L.Vila,A.Marty,Y.Samson,F. Garcia-Sanchez,L.D.Buda-Prejbeanu,I.Tudosa,E.E.Fullerton and J.-P.Attané,Non-adiabatic spintorques innarrow magneticdomainwals， Nat.Phys. Vol. 6， (2010)17-21. https://doi.0rg/10.1038/NPHYS1436
+
+[25] J.Torrejon,G.Malinowski，M. Pelloux，R.Weil，,and A.Thiaville，J.Curiale，D.Lacour，F. Montaigne,and M. Hehn,Unidirectional thermal effects in current-induced domain wall motion, Phys. Rev. Lett. 109 (2012)106601. https://doi.org/10.1103/PhysRevLett.109.106601.
+
+[26] Deqi Deng and Mangui Han，Discussing the high frequency intrinsic permeability of nanostructuresusingfirstorderreversal curves， Nanotechnology， 29(2018)445705. https://doi.org/10.1088/1361-6528/aad9c2

@@ -1,0 +1,256 @@
+# 正念对亲密关系的影响：理论及应用
+
+陈国典 杨通平(四川师范大学心理学院，成都 610068)
+
+摘 要亲密关系中的正念，是指个体有意识地关注可能影响关系的感觉或想法。由于其有助于提高关系满意度并缓解关系冲突，因而逐渐在理论和应用上受到关注。二元互动过程理论有助于在二元框架下理解正念影响亲密关系的过程和结果，研究者通常采用测量法、实验诱导法和正念干预探究正念对亲密关系的影响。鉴于正念干预对亲密关系具有防护和补救功能，因此被应用于相对幸福、面临挑战和陷入危机等不同关系状态。未来的研究可根据关系的阶段特征和可能的反向作用建构理论；根据亲密关系的二元互动和阶段特点，从多维、动态发展的视角界定概念，通过互评法和观察编码法进行测量；采用更严谨的设计明确干预效果；并且关注潜在的消极影响。
+
+关键词 亲密关系；正念；冥想；理论；干预 分类号 B849:C91
+
+# 1引言
+
+广义的亲密关系泛指个体间的重要情感联结，如亲子、朋友、伴侣关系。狭义的亲密关系专指婚姻和恋爱关系，本文针对狭义的亲密关系。圆满的亲密关系有益身心，但不可避免地伴随着冲突，传统上的主要干预方式是训练沟通技巧。近年来，学界逐渐意识到正念对亲密关系的益处，相关应用可追溯到 2004年，研究者发现，系统的正念干预能增强伴侣间的关系满意度，提高接纳和亲密感(Carson,Carson,Gil,& Baucom,2004)。随着研究的深入，越来越多的证据显示，正念不仅能增强关系满意度(Harvey,Crowley,& Woszidlo,2019; Jones,Welton, Oliver,& Thoburn,2011; Kappen,Karremans, Burk,& Buyukcan-Tetik,2018; Khaddouma,Coop Gordon, & Strand, 2017; Khaddouma, Gordon, & Bolden, 2015; Krafft, Haeger, & Levin,2017;Lenger, Gordon,& Nguyen,2017)，也有利于伴侣建设性地应对关系冲突(Brem et al.,2018; Dixon & Overall, 2016; Hertz, Laurent, & Laurent, 2015; Iida & Shapiro, 2017; Karremanset al.,2020; Kimmes, Durtschi,& Fincham,2017; Laurent, Hertz, Nelson, & Laurent,2016; Laurent,Laurent,Hertz,Egan-Wright,& Granger,2013)，而关系满意度和对冲突的应对是衡量亲密关系的主要指标(Patrick,Knee,Canevello,& Lonsbary,2007)。与此同时，亲密关系中的正念研究在理论和方法上也有了新的进展。例如，Karremans,Schellekens 和 Kappen (2017)提出正念影响亲密关系的二元互动过程理论，Kimmes, Jaurequi,May,Srivastava 和 Fincham (2018)编制针对亲密关系的正念量表。鉴于亲密关系中的正念研究具有较强的理论和应用价值，且目前国内对此缺乏关注，因此本文尝试对正念在亲密关系中的理论、研究方法、功能及干预项目进行梳理，以期为后续研究提供参考。
+
+# 2正念影响亲密关系的理论探索
+
+# 2.1正念及其对亲密关系的理论解读
+
+正念源于佛教哲学，以佛教典著《阿毗达磨》(Abhidhamma)及注解为基础(Chiesa&Malinowski,2011)。禅宗把正念比作一面明镜，在镜子里，头脑只是如实反映眼前的事物(Brown,Ryan,&Creswell,2007)。正念的概念有很多，目前尚未达成共识。在心理学领域，被广泛接受的是Kabat-Zinn (2003)对正念的界定，他认为正念是指有意识地以开放、接纳、不评判的方式去关注此时此刻的经验而产生的意识。Kabat-Zinn 最早将正念开发为系统化的临床干预项目，创立正念减压疗法(Mindfulness-Based Stress Reduction Therapy,MBSR)为伴有慢性疼痛的患者缓解压力和情绪困扰(Kabat-Zinn,2003)。随后正念干预被应用到更多临床领域，除防治抑郁症复发、缓解焦虑等情绪问题外(Segal,Williams,&Teasdale,2013；任志洪，张雅文，江光荣,2018)，也应用行为问题的干预，例如治疗与肥胖有关的饮食行为问题(刘玄巾，王滢茹，杨斯钰，周乐山,2019)，矫正成瘾行为(徐富明，李燕，邓颖，史燕伟，刘程浩,2016)，改善儿童的注意缺陷多动障碍(李继波，陈盈盈，肖前国,2019)。随着研究的推进，学界逐渐将正念拓展到非临床领域，如家庭教养、学校管理、组织管理等(陈晓，周晖，王雨吟,2017；段文杰，冯宇,2018；何元庆，连榕，全莉娟,2019；申传刚，杨璟，胡三嫚，何培旭,李小新,2020；诸彦含，陈国良，徐俊英,2020)，与此同时，研究对象也从个体层面拓展到人际层面(Pratscher,Wood,King,&Bettencourt,2019)。而亲密关系作为人际关系的核心，近几年来也逐渐受到学界关注(Karremans et al., 2017)。
+
+正念包含了意识和接纳这两大核心成分：意识是持续地监控并专注于当下的内外体验，而接纳则是非评判、开放、接纳的态度(Bishop,2004;Lindsay& Creswel,2017)。此外，正念的丰富内涵也可以从特质、状态和干预这三个层面进行理解：特质正念是个体间体验正念状态的能力和倾向上的个体差异；状态正念是个体内的随情境和时间变化的意识状态(Brown& Ryan,2003)；正念干预，是帮助人们达到正念状态的训练方法(Davidson&Kaszniak,2015)，通过长期训练可以提升特质正念水平。在理论研究中，学者多将正念视为特质、状态和干预的统称；而在实证研究中，由于三者的研究方法不同，进而有所细分。
+
+在亲密关系领域研究正念是正念研究的具体化，因此一般性的正念理论也同样适用于亲密关系领域。例如，正念意义理论(Mindfulness-to-Meaning Theory,MMT)认为，生活中的事件是不确定的，可以是积极的也可以是消极的，而正念促使个体寻找生活的终极意义，进而积极地应对负性事件(Garland,Farb,Goldin,& Fredrickson,2015)。据此可以推断，当关系出现冲突时，个体自动化的反应可能是防御性的否认、诋毁或回避，但对终极意义的寻找可能推动其形成建设性的认知，洞察冲突背后的潜藏意义。已有研究在一定程度上支持了这一推论，研究显示，相比于低特质正念者，高特质正念者更倾向于以成长的视角看待亲密关系，而这又进一步预测了其较高的关系满意度(Don,2019)，并且面临关系冲突时，高特质正念者也更倾向于采取建设性的应对方式(Barnes,Brown,Krusemark,Campbell,&Rogge,2007)。
+
+一般性的正念理论具有跨情境的普适性，但研究范围通常停留在个体层面，因而缺少对亲密关系的针对性。对此，Carson,Carson,Gil 和 Baucom(2006)最早进行了相应的理论阐释，分析了正念影响亲密关系的四种过程。
+
+# 2.2正念激活亲密关系的四过程
+
+Carson 等人(2006)认为，正念对亲密关系的影响主要体现在下述四种过程的激活：(1)觉察：正念意味着在非评判的状态下关注所有体验，而不论这些体验愉悦与否，这有助于增强个体对人际互动的觉察，即觉察思维、情绪、行为模式的产生过程及其对自身和伴侣带来的影响;(2)接纳：正念强调接纳的态度，而如其所是的接纳可以增加自我慈悲和对伴侣的共情;(3)放松：正念有助于缓解压力感，促使个体更为冷静地应对关系中的困境；(4)自我扩张：正念带来的自我扩张感能增强自我与伴侣间的信任和联结感。Carson 等人(2006)的分析有利于我们理解正念在亲密关系中的作用过程，但其仅从个体自身的视角进行阐释，忽视了亲密关系相互依赖相互影响的特征。
+
+# 2.3二元互动过程理论
+
+Karremans 等人(2017)从二元互动的视角，提出正念如何影响亲密关系的过程和结果的理论模型(见图1)。研究者首先将亲密关系中的正念定义为个体有意识地关注可能直接或间接影响关系的感觉或想法。在总结前人的理论和实证研究的基础上，Karremans 等人提出，正念可以通过四种机制影响人际关系：对内在经验的意识、情绪调节、执行控制以及自我与他人的关联。具体而言，正念强调以非评判的态度专注于所有的体验，包括外在的身体感受和内在的情绪思维，而不是扭曲或忽视它们。当个体如其所是地觉察自身的体验时，便能将感觉仅仅视为感觉，将想法仅仅视为想法，从而避免过度的阐释、评估或反应，而这有助于个体提高自我调节能力和执行控制能力，帮助其更有效地应对非适应性的情绪和想法，抑制自动化的、冲动的反应。与此同时，正念有助于提高共情能力，帮助个体以他人的视角理解他人行为，这增强了个体与他人间的联结感和亲密感。
+
+![](images/0255161f4c30cfaaa9ebd4aeedc4092e2c4d926f488731625abcf2b82e7c57e4.jpg)  
+图1正念影响亲密关系的过程及结果的理论模型(资料来源：Karremans et al.,2017)
+
+同理，上述四种机制也影响了个体对亲密关系的认知、情感和行为。Karremans 等人进一步从增强积极影响和减少消极影响这两大方面加以阐释。首先，当个体利益与伴侣利益相冲突时，其自我保护的冲动是自动化的，这可能对关系造成破坏。而正念提高个体对冲动行为的觉察，关注关系的长期发展并通过自我调节建设性地应对冲突，从而避免关系恶化。在此过程中，正念既减少了自动化的反应，也提高了有益关系的反应倾向，例如牺牲自我利益、克制报复动机、抵抗其他异性的吸引。其次，正念有利于个体觉察潜在的压力源，提升应对压力的能力，进而有助于预防压力外溢(stress spillover)，即减少外界压力对亲密关系造成的威胁。此外，安全的依恋有利于关系的建立和维持，大量实证研究证实了正念对安全依恋的正向预测作用(Hertz et al.,2015; Jones et al.,2011; Pepping,O'Donovan,& Davis,2013)。最后,现实与理想之间往往存在差距，个体可能过度美化伴侣，甚至试图改变对方以使其接近理想标准，并且个体对亲密关系的感知也并非一成不变，时而满意时而不满。而正念中的接纳可以提升个体对不完美的伴侣和关系的非评判态度，进而减少过度美化并预防关系恶化。
+
+Karremans 等人(2017)的理论关注了亲密关系的二元互动特点，该理论假定个体的正念可以通过影响自身的认知、情绪或行为进而影响伴侣的反应，将正念的理论从个体层面拓展到关系层面，为我们在二元框架下更好地理解正念提供了理论支撑。后续研究也在一定程度上支持了这一假设，研究显示，个体的特质正念可以预测其伴侣对关系的积极感知(Adair,Boulton, & Algoe, 2018; Harvey et al., 2019; Iida & Shapiro,2019; Khaddouma & Gordon, 2018;Kimmes, Jaurequi, Roberts, Harris, & Fincham, 2019)。
+
+# 3亲密关系中正念的研究方法
+
+亲密关系中的正念研究方法可概括为三类：测量法、实验诱导法和正念干预(基于内容完整性，正念干预将在第5部分呈现)。
+
+# 3.1测量法
+
+现阶段研究中，正念测量是最常见的研究方法(Kappen,Karremans,&Burk,2019)。既往研究通常采用普适性的特质正念量表，由于这些量表并不针对亲密关系，因此难以体现正念在亲密关系中的独特内涵。鉴于此，Kimmes 等人(2018)沿用了 Karremans 等人(2017)的定义，将亲密关系中的正念界定为有意识地关注可能影响关系的感觉或想法，并以此编制关系正念量表(Relationship Mindfulness Measure,RMM)。RMM 以正念注意与觉知量表(TheMindfulness Attntion and Awareness Scale,MAAS)的特质分量表为基础，旨在测量个体在亲密关系中的专注程度。该量表为单一维度，共5题，题目诸如“和伴侣在一起时，我发现自己说话做事都心不在焉。”“和伴侣讨论或解决问题时，我的行为是无意识的，没有注意自己说了什么或做了什么。”研究者以处于亲密关系的成人为被试，发现RMM具有良好的信效度，且比MAAS 更好地预测了关系质量和成人依恋(Kimmes,Jaurequi,etal.,2018; Kimmes etal.,2019)。目前 RMM尚未被广泛使用，因此还需要未来研究的进一步检验。与此同时，虽然 RMM 强调了个体在亲密关系背景下的注意和觉知，但仍然仅以自身的思维和感受为中心，忽视了亲密关系的二元特征。在现实生活中，交往双方往往会根据彼此的所言所为适当地调整自己的反应，不论这种调整是自觉或是不自觉的，因此仅专注于自身的感受可能不足以体现正念在亲密关系中的内涵。
+
+与之不同的是，Pratscher 等人(2019)认为，互动关系中的正念不仅涵盖个体对自身的觉察，也包括对交往对象的觉察。基于此，研究者提出人际正念(Interpersonal mindfulness)的概念，将其定义为对交往的每时每刻保持接纳的意识，既意识到自己的思维、情绪、感觉和意图，也通过交往对象的情绪、语调和姿势去关注对方的所言所为。根据上述定义，研究者编制了人际正念量表(Interpersonal Mindfulness Scale,IMS)，共 27题，四个维度：(1)当下：即专注于互动的当下，题目如“我很容易专注于同对方互动的当下，而不是分心。”(2)对自我和他人的意识：即互动过程中既关注自己的情绪情感，也关注对方的情绪和非语言线索，题目如“与对方在一起时，我意识到了自己的情绪情感。”“倾听时，我会注意对方的情绪和语调。”(3)非判断性地接纳：不加评判地倾听，如其所是地接纳互动中的体验，题目如“即便不同意对方的观点，我也会认真聆听。"(4)非反应性：有意识地响应，而非不假思索地反应，题目如“说话前，我会先想想这些话可能给对方造成的影响。”虽然IMS 以人际关系为研究背景，但同样适用于亲密关系，有证据表明，IMS 比MAAS 更显著地预测了亲密关系的满意度(Pratscher etal.,2019)。作为新开发的量表，IMS 尚未得到广泛使用，其信效度有待未来研究的进一步检验。
+
+# 3.2实验诱导法
+
+实验诱导法，是在实验条件下通过简短的训练使被试进入正念状态的方法，通常改编自正念干预项目。作为一种新的研究趋势，其在亲密关系领域中的研究尚少(Heppner& Shirk,2018)，且部分研究并未阐明诱导的具体内容(如Laurent etal.,2016)，因此接下来主要通过三项研究进行介绍和分析。首先，Pepping,Davis 和O'Donovan (2015)的研究采用了四种不同的方法进行诱导，分别是观呼吸、身体扫描、正念觉察思维和正念觉察情绪，其目的是确保被诱导的状态正念不受特定方法的影响。其中，实验组每人接受这四种方法中的其中一种，而控制组完成无关任务，实验时长为15分钟。结果发现，实验组的状态正念有所提升，但这并未导致状态依恋水平的显著提高。其次，在 Papies,Pronk,Keesman 和 Barsalou (2015)的研究中，实验组以正念的视角观察有吸引力的陌生异性的照片，将观看过程中的内在思维和感受视为头脑中转瞬即逝的事件，控制组则沉浸式地感受内心体验，实验时长为12分钟。结果表明，实验组对陌生异性吸引力的评分显著低于控制组。最后，在Karremans 等人(2020)的研究中，实验组以正念的方式将注意力集中于被伤害的体验上，采取去中心化的视角，以观察者的身份将大脑想象成一块空白的屏幕，体验感受、思维和情绪在屏幕上的出现和消失。与此同时，控制组在非去中心化的视角下反复、生动地回忆被伤害的经历，实验时长为7分钟。结果表明，在回忆被伤害的经历以后，实验组被试的状态宽恕水平显著高于控制组。
+
+综合现有的理论和实证研究，我们可以得出两点推论：第一，诱导的方法不同可能导致状态正念各成分所占的比重不同。有研究显示，以观呼吸和身体扫描为主的正念诱导仅提升了身体层面的状态正念，而对心理层面的状态正念无影响(Bravo,Pearson,Wilson,&Witkiewitz,2018)。在上述三项研究中，后两项强调对内心体验的觉察，第一项则分别以身体感受和内心体验为觉察对象。由此可以推断，第一项研究结果不显著的可能原因是，状态依恋更近似于一种内心体验，因此对身体感受的正念不足以对其产生影响。通常情况下，内心体验比身体感受更为抽象，正念地觉察内心体验(特别是消极体验)比觉察身体感受所需要投入的接纳成分更多。同理，在实践中，通常是先引导练习者觉察身体感受，待注意力稳定后再觉察内心体验。由此，觉察对象的不同可能导致了状态正念的意识和接纳成分所占比重不同，进而影响实验结果。第二，接纳可能是正念影响亲密关系的必要成分。有研究显示，正念中的意识和接纳成分交互作用：接纳程度低时，意识越强则关系满意度越低(Krafft et al,2017)。这一结果可以用监控与接纳理论(Monitor and Acceptance Theory,MAT)加以解释，该理论认为，监控(也作意识)和接纳是正念的核心成分，意识促进认知功能的提升，加重了正性或负性的体验，而接纳则可以改变自我与所意识到的内容之间的关系，增强调节情绪的能力并减少消极反应(Lindsay& Creswell,2017)。并且已有证据显示，接纳是正念干预增强积极情绪的核心要素(Lindsay et al.,2018)，对伴侣的接纳在特质正念对关系满意度的正向预测中起中介作用(Kappen et al.,2018)。由此可以推断，接纳可能在正念对亲密关系的积极影响中必不可少，而以观呼吸和身体扫描为主的短期诱导实验或许不足以影响与亲密关系有关的内心体验。未来的研究可以在诱导程序中通过解构正念元素的方法(如Lindsay etal.,2018)对上述推论进行检验。
+
+# 4亲密关系中正念的作用
+
+如前所述，亲密关系中仅有少量研究采用实验诱导法操纵状态正念。而大部分研究主要集中于两方面：其一是以测量法考察特质正念对亲密关系结果变量的预测作用，其二是以定期的正念干预考察应用价值。那么，特质正念和正念干预的作用分别表现在哪些方面呢？
+
+# 4.1特质正念的相关研究
+
+首先，个体的特质正念与自身对关系的感知和对冲突的应对有关。在亲密关系的感知方面，有研究表明，特质正念正向预测个体的关系满意度(Jones et al.,2011;Khaddouma &
+
+Gordon,2018; Khaddouma et al.,2015; Lenger et al.,2017; Wachs& Cordova, 2007)、性满意度(Khaddouma et al.,2015; Pepping, Cronin,Lyons,& Caldwell,2018)、关系稳定性(Khaddouma& Gordon,2018)、伴侣依恋(Spousal Attachment)(Jones et al.,2011; Pepping et al.,2013)、对伴侣的接纳(Kappen et al.,2018)和感受到的伴侣响应(Adair et al.,2018)。在应对冲突方面，特质正念可预测个体的身心反应。在生理反应上，研究显示，个体的特质正念可负向预测其与伴侣在讨论冲突时的心血管(Kimmes,May,Seibert, Jaurequi,&Fincham,2018)和皮质醇(Hertzetal.,2015;Laurent etal.,2013)的反应水平。在情绪体验上，相对于低特质正念者，高特质正念者体验到更少主观压力感(Hertz et al.,2015)、害怕被拒绝感(Dixon& Overall,2016)和消极情绪(Hertz et al.,2015; Iida& Shapiro,2017)。在认知和行为倾向上，特质正念正向预测个体对伴侣的宽恕倾向(Karremans et al.,2020)和对伴侣越轨行为的良性归因(Kimmes et al.,2017)。面临冲突时，相对于低特质正念者，高特质正念者更可能采取建设性的应对策略(Barnes etal.,2007; Harvey et al.,2019)，更少表现出破坏行为(Brem et al.,2018; Dixon & Overal,2016)。
+
+另一方面，个体的特质正念还与伴侣对关系的感知以及对冲突的应对有关。在亲密关系的感知上，个体的特质正念正向预测伴侣的关系满意度(Adair et al.,2018;Harvey etal.,2019;Kappen et al.,2018; Khaddouma & Gordon,2018; Lenger et al.,2017)。此外，在日常生活中，相对于低特质正念者，高特质正念者的伴侣更可能感受到被宽恕和被响应(Adair etal.,2018;Karremans et al.,2020)，且情绪也更稳定(Iida＆ Shapiro,2019)。在应对冲突方面，个体的特质正念负向预测伴侣在讨论冲突时的心血管反应(Kimmes,May,etal.,2018)，且伴侣也更少选择破坏性的应对策略(Harvey et al.,2019)。
+
+综上，相对于低特质正念者，高特质正念者与其伴侣对关系的感知更积极，在关系冲突中的身心反应也更有建设意义。
+
+# 4.2正念干预的效果
+
+正念干预的功能主要体现在两方面：其一，是防护功能。一方面，正念干预有利于强化相对和谐的亲密关系，提升双方的关系满意度(Carson et al.,2004; Khaddouma et al.,2017)、改善情绪调节能力(Gilespie,Davey,&Flemke,2015;C.J.May, Ostafin,& Snippe,2020)。另一方面，有利于预防潜在的威胁因素。例如，有证据表明，正念干预可以帮助即将成为父母的伴侣完成角色转换(Gambrel&Piercy,2015a,2015b; Warriner, Crane,Dymond,& Krusche,2018),可以作为辅助手段用于治疗个体的性生理或心理障碍，减少性回避和性厌恶，提高身体感受的觉察能力(Kimmes,Mallory, Cameron,& Kose,2015; Kocsis &Newbury-Helps,2016)。此外,正念干预还有益于癌症、抑郁症患者及其伴侣共同面对疾病的挑战，减少双方的心理困扰(Smith, Jones, Holttm,& Griffiths, 2014; van den Hurk, Schellekens,Molema, Speckens,& vander Drift,2015)。其二，是补救功能。一方面，正念干预可以帮助关系出现危机的伴侣共同改善关系，例如缓解冲突导致的心理困扰，改变不良的互动模式(Finney&Tadros,2018;NasrIsfahani, Bahrami, Etemadi,& Mohamadi,2018; Peterson, Eifert,Feingold,& Davidson, 2009)。另一方面，正念干预被应用于有家庭暴力经历的特殊人群。例如，针对家庭暴力施暴者，正念干预有助于减少再犯率，改善施暴者的情绪失调和人际困难(Passarelli,Cavuoto,& Rathus,2006; Tollefson &Phillips,2015; Zarling,Bannon,& Berta,2019)；而针对遭遇亲密关系暴力且患有创伤后应激障碍的女性，正念干预有益于改善人际问题，提高自我慈悲和情绪调节的能力(Bermudez et al.,2013; Dutton,Bermudez,Matas,Majid,& Myers,2013)。综上所述，正念干预的效果作用主要体现在对亲密关系的防护和补救两个方面。
+
+# 5亲密关系中的正念干预
+
+# 5.1亲密关系中正念干预的基本形式
+
+在具体的干预形式上，针对亲密关系的正念干预可被归纳为三类：传统的正念干预、综合性的正念与亲密关系疗法、针对亲密关系的正念干预。
+
+首先，部分研究者直接采用了传统的正念干预项目(Gillespie et al.,2015;Khaddouma etal.,2017; Smith et al.,2014;van den Hurk et al.,2015)，或者对其进行适量简化，例如去除团体活动、减少干预时长、采用在线形式等(Kappen et al.,2019;C.J.May et al.,2020)。此类干预方案并未针对亲密关系的特征进行相应改编，因此在本质上仍然属于传统的正念干预。
+
+此外，还有研究者将正念干预与传统的亲密关系疗法进行整合(Atkinson,2013;Beckerman& Sarracco, 2011;Finney& Tadros,2018)。例如夫妻情绪聚焦疗法(EmotionallyFocused couple Therapy, EFT)和结构家庭疗法(Structural Family Therapy, SFT)是常见的用于改善伴侣间情感疏离或关系冲突的方法。研究者在采用这些方法对矛盾激化的伴侣进行干预时，发现伴侣间的沟通容易投射彼此的负性情绪，进而引起强烈的情绪反应，这阻碍了干预的顺利进行。为此，研究者将正念融入到传统的亲密关系疗法中，旨在增强伴侣间识别、沟通和表达情绪的能力，帮助其更为客观地觉察关系中的不当互动模式，进而建设性地共同面对关系中的危机(Beckerman & Sarracco,2011; Finney & Tadros,2018)。此类干预通常针对关系陷入困境的伴侣，且伴侣间的矛盾混合了不同的诱发因素(Finney& Tadros,2018)。因此，综合性的干预项目在形式上相对灵活，需要咨询师针对伴侣间的具体情况制定有针对性的干预方案。
+
+针对亲密关系的正念干预是以传统正念干预为基础，根据亲密关系中的有关问题进行了相应改编而展开的干预形式(如 Carson et al.,2004,2006; Gehart,2012;Kocsis& Newbury.Helps,2016; Nasr Isfahani et al.,2018; Passareli et al.,2006; Tollefson & Phillips,2015; Warrineret al.,2018;Zarling et al.,2019)。在这类项目中，部分研究以个体为干预对象，旨在改善可能威胁当前或后续的亲密关系的身心症状，例如性障碍、家庭暴力等(Kocsis &Newbury-Helps,2016;Tollefson& Phillips,2015)；还有研究以伴侣为干预对象，旨在提升双方的关系质量(Carson et al.,2004,2006; Carson, Carson, Gil,& Baucom,2007; Gambrel& Piercy,2015a,2015b;Gehart,2012)。从严格意义上讲，后者对亲密关系的干预更为直接。因此本文以后者为例，针对伴侣间的三种不同状态，详细介绍正念在亲密关系中的应用(见表1)。
+
+表1亲密关系中的正念干预示例  
+
+<html><body><table><tr><td>正念干预项目</td><td>干预对象</td><td>干预目的</td></tr><tr><td>正念强化关系疗法 (Mindfulness-based</td><td>相对幸福、无冲突的伴侣</td><td>强化亲密关系，提高压力应对能</td></tr><tr><td>Relationship Enhancement, MBRE)</td><td></td><td>力。</td></tr><tr><td>准父母正念过渡项目 (Mindful Transition to</td><td>即将迎来第一个小孩的准父母</td><td>预防关系恶化，帮助伴侣共同面对 因小孩的出生而带来的角色转换和</td></tr><tr><td>Parenthood Program,MTPP)</td><td></td><td>潜在的压力。</td></tr><tr><td>接纳与承诺疗法(Acceptance</td><td></td><td></td></tr></table></body></html>
+
+# 5.2亲密关系中的正念干预示例
+
+# 5.2.1正念强化关系疗法(MBRE)
+
+针对相对幸福且尚无危机的伴侣，Carson 等人(2004)开发了正念强化关系疗法(Mindfulness-based Relationship Enhancement,MBRE)，强调伴侣间的互动和个体在亲密关系中的思维、感受和行为，旨在帮助伴侣强化情感联结，提高应对压力的能力。
+
+MBRE以正念减压疗法为原型，共持续8周，每周6天，每天30\~45 分钟，以6\~8 对伴侣为1组，每周开展2.5小时小组活动，第6周参与全天静修。在干预技巧上，除身体扫描、静坐冥想、瑜伽等常规练习外，MBRE 针对亲密关系的特点进行了相应改编，与正念减压疗法的不同之处主要体现在：(1)更强调仁爱冥想(loving-kindness meditations)，特别是针对伴侣的仁爱冥想；(2)伴侣瑜伽，伴侣共同参与以彼此身体为支撑的瑜伽练习；(3)正念触碰，为彼此轻柔按摩背部并讨论身体感受； (4)正念凝视，理解并迎接彼此深层的善意； (5)将正念运用于关系中的困境，练习以非判断、接纳的态度应对可能导致争执或疏离的关系冲突;(6)鼓励伴侣有意识地关注彼此的互动过程，记录对互动过程的理解(该项目的具体实施细节可参见 Carson et al.,2004,2006)。
+
+为验证 MBRE 的有效性，Carson 等人(2004)以44 对无冲突的伴侣为被试，将其随机分配为实验组和控制组。研究结果显示，与等待控制组相比，MBRE 显著强化了实验组的亲密关系，包括关系满意度、自主性、联结性、亲密感及对伴侣的接纳，且干预效果在三个月后仍得以维持。然而，MBRE 对危机中的伴侣的干预效果不明确，未来可增加样本的多样性以检验其适用范围。
+
+# 5.2.2准父母正念过渡项目(MTPP)
+
+针对即将迎来第一个小孩的伴侣，Gambrel 和 Piercy 设计了准父母正念过渡项目(Mindful Transition to Parenthood Program,MTPP)(Gambrel & Piercy, 2015a, 2015b)。该项目结合正念干预和心理教育，重视伴侣间的二元互动和小组支持，以关系正念为核心，强调个体的内在协调与人际协调，旨在发展协调、专注当下、共情和自我调节的能力，帮助伴侣共同面对因小孩的到来而发生的角色转变，增强压力应对能力进而预防关系恶化。
+
+MTPP以3\~5对伴侣为1组，每周开展2小时小组活动，共持续4周。干预期间，需完成的家庭作业包括每天15 分钟正式练习(身体扫描、正念呼吸、开放意识、坐禅和仁爱冥想)和伴侣间的共同练习。每周的小组活动及伴侣共同在家完成的练习分别如下：(1)对自我的正念：小组活动与常规的正念干预项目相似，旨在帮助练习者理解正念及干预技巧，如正念饮食、觉察情绪等；伴侣共同在家练习正念欣赏、五种爱的语言等。(2)对伴侣的正念：小组活动包括接纳与反应、讨论情绪的涌入、正念凝视等；伴侣共同在家练习正念拥抱、制定暂停策略等。(3)对亲密关系的正念：小组活动包括正念与无念交流、探索并理解交流技巧、讨论并实践彼此的需要与梦想等；伴侣共同在家练习反思生命的起源、发现并分享彼此的需要与梦想等。(4)对家庭的正念：小组活动包括仁爱冥想、讨论常见的困难以及如何成为父母、正念教养等；伴侣共同在家练习仁爱冥想、理解婴儿的线索等(具体实施细节可参见Gambrel&Piercy, 2015a, 2015b)。
+
+Gambrel 和Piercy(2015a)采用定量与定性研究的混合设计检验MTPP的有效性。定量研究发现，相对于等待控制组，实验组的男性显著提高了关系满意度、特质正念和情绪调节能力，而女性并无明显改善。随后，Gambrel 和 Piercy (2015b)通过半结构式访谈的分析发现，参与者的感受可被概括为四个主题：(1)自我的积极变化，例如自我接纳、自我觉知、自我慈悲；(2)关系的改善，例如伴侣间的沟通更为深入；(3)对父母身份的准备，例如积极地面对潜在的挑战；(4)男性的参与，例如更多地参与家务。与此同时，上述结论也可能受一些无关变量的影响，例如在干预前，男性获得的社会支持更少；孕期的女性可能对身体变化更敏感。因此未来可探究社会支持、怀孕等因素对干预效果的影响。
+
+# 5.2.3接纳与承诺疗法(ACT)
+
+接纳与承诺疗法(Acceptance and Commitment Therapy,ACT)是常见的正念干预项目之一，其开发的最初目的是增加个体的心理灵活性，促使个体投入有价值、有意义的生活。后来研究者针对陷入危机的伴侣或家庭对ACT疗法进行改编，旨在减少伴侣或家庭中的冲突并提高关系质量(Gehart,2012; Peterson et al.,2009)。ACT特别强调接纳的作用，鼓励伴侣正念地体验和接纳自己的思维和感受，进而避免认知融合(cognitive fusion)，即过度受制于思维和情绪的控制。根据ACT的干预理念，认知解离和接纳可以帮助伴侣以新的视角看待关系中的消极情绪和行为，而澄清价值取向并承诺以符合价值取向的方式行事，则可以减少关系中的成见进而改善关系(Peterson et al.,2009)。
+
+如前所述，矛盾激化的伴侣通常面临多重冲突，因此与之相应的干预方案也需要更有针对性和灵活性。同理，Gehart (2012)在《夫妻和家庭治疗中的正念与接纳》(Mindfulness andAcceptance in CoupleandFamily Therapy)一书中详细介绍了如何将ACT 灵活地应用于伴侣或家庭中，包括个案概念化、设置目标与制定计划、设计并实施干预措施等。例如，在干预过程中，咨询师会根据伴侣练习正念的动机制定现实可行的计划，并且根据实际练习情况进行跟进和微调。与此同时，练习时长也是循序渐进的，例如第一周每天2\~5分钟，第二周每天5分钟，第三周每天5\~10分钟，第四周与伴侣讨论哪种练习更为适合，是否有其他潜在的可能等。在干预技巧上，除常规练习外，也包括一系列针对亲密关系的训练方法，例如正念沟通、正念暂停与反思、倾听隐含之意、仁爱冥想、正念的性与亲密、非暴力沟通等。
+
+在实证研究中，Peterson 等人(2009)以ACT为核心技术，针对两对关系陷入困境的伴侣进行干预。干预过程中，研究者始终强调以接纳的心态面对关系冲突以及由此引发的自动化反应，主题的设置为：(1)第1\~2次：评估个体及亲密关系；(2)第3\~4次：通过正念和接纳使新的关系模式成为可能；(3)第5\~6次：解离导致冲突的思维和反应；(4)第7\~9次：澄清价值取向；(5)第10\~12次：对价值取向做出承诺。结果表明，ACT有助于提高伴侣间的关系满意度，缓解由关系冲突引发的压力和困扰，并且干预效果在6个月后仍得以维持。
+
+# 5.2.4 小结
+
+上述三种干预项目分别对应于相对幸福、即将面临挑战和已经陷入困境的三种关系状态。尽管在干预对象、主题设置、灵活性和标准化程度等方面有所差异，但三者之间也有相似特征。其一，三者都关注亲密关系中的互动过程和互动模式。例如在常规练习的基础上，加入针对亲密关系的正念沟通、正念倾听，进而引导伴侣觉察彼此的互动模式。研究者普遍认为，在亲密关系的干预中，帮助伴侣觉察彼此的互动模式是改善关系的关键(Gehart,2012)，而这一理念在既往的实证研究中也有所体现，研究显示，被伴侣理解、关心和认可的感受在特质正念对关系满意度的正向预测中起中介作用(Adair etal.,2018)。其二，三者都强调关系中的接纳。例如，练习以接纳的态度应对可能的冲突，体验并表达对彼此的慈悲和接纳等。有关接纳的作用，在前文介绍实验诱导法时也有所探讨，如前所述，本文推论接纳在正念对亲密关系的积极影响中必不可少，而这一观点在某种程度上也得到此处的干预项目的印证。
+
+# 6评价与展望
+
+# 6.1发展亲密关系中的正念理论
+
+在正念影响亲密关系的理论研究中，既往的研究虽然强调了关系的二元互动性，但忽视了关系的阶段性。现实生活中的亲密关系是一个动态发展的过程，而非绝对静止。从关系的建立、维持，到(部分)关系的破裂、重构，亲密关系呈现出阶段性的特征。各发展阶段中影响亲密关系的因素可能不同，且相同因素在不同阶段所产生的影响及影响程度也可能有差异，这导致正念在各发展阶段所带来的效果并不等同。以被陌生异性吸引这件事为例，在关系建立阶段，被吸引是重要的推动力量。如前所述，处于状态正念的人更不易被陌生异性吸引(Papies etal.,2015)，这意味着状态正念可能在某种程度上阻碍了关系的建立。但在关系维持阶段，被陌生异性吸引可能会对既定的关系造成伤害，而更少被吸引则可能在某种程度上有利于关系的维持。基于此，未来的理论建构，可以从亲密关系的阶段特征展开讨论。
+
+此外，既然个体的正念能影响伴侣双方在关系中的结果变量，那么亲密关系是否能反过来影响伴侣的正念水平呢？有证据显示，个体间特质正念水平的差异可能源于儿童期的成长经历和依恋风格(Pepping&Duvenage,2016)，这意味着个体的特质正念水平受到生活经历的影响。在大部分人在一生中会有较长时间处于亲密关系中，那么圆满的亲密关系能否提升个体的特质正念水平呢？相反，危机重重的关系是否会降低特质正念呢？基于上述疑问，未来的理论建构可以尝试从正念与亲密关系互为因果的角度进行探究。
+
+# 6.2探究亲密关系中的正念内涵与测量
+
+在不同语境下，正念各成分的具体内涵及其所占权重有所差异(郭璞洋，李波,2017)。因此，有必要针对亲密关系这一特定领域界定正念概念，并开发相应的测量工具。如前所述，目前仅有少数学者对亲密关系中的正念概念(即“关系正念”)进行界定。研究者认为，关系正念是有意识地关注可能直接或间接影响关系的感觉或想法(Karremans et al.,2017; Kimmes,Jaurequi,etal.,2018)。这一概念及其对应的RMM量表是以个体自身的体验为觉察对象，且侧重于意识成分，而忽略了接纳成分，因此可能在某种程度上窄化了亲密关系中的正念内涵。而人际正念的概念及其对应的IMS 量表从四个维度(当下、对自我和他人的意识、非判断性地接纳、非反应性)进行了概念界定和测量，虽然也适用于亲密关系，但亲密关系与人际关系有所不同。在亲密关系中，双方的互动更频繁，感情投入更多，且通常伴有高程度的自我卷入和排他性，亲密关系也更可能激活个体深层次的依恋问题，而这在一般的人际互动中并不常见(Kimmes,Jaurequi,etal.,2018)。综上所述，虽然RMM和IMS 比特质正念量表更适用于亲密关系，但可能并不是最佳的测量工具。基于此，本文尝试对关系正念的内涵及测量工具的开发进行初步探讨。
+
+在内涵上，结合关系正念和人际正念的概念以及现阶段的理论和实证研究，可以发现关系正念的内涵与一般性的正念既相互联系又相互区别。关系正念是正念在亲密关系领域的扩展和深化，因此有其独特内涵。具体体现在三个方面：(1)关系正念意味着将伴侣和关系本身也作为觉察和接纳的对象。这突破了一般性的正念概念将注意力集中于个体自身的这一认知。(2)关系正念具有二元互动的性质。有证据显示，个体的特质正念能够被重要他人所觉察(L.M.May& Reinhardt,2018)，高特质正念者的伴侣更倾向于觉察到自己的被接纳(Kappenet al.,2018)和被响应(Adair et al.,2018)。这意味着亲密关系中的伴侣能在某种程度上觉察彼此的正念，进而影响伴侣对亲密关系的感知。(3)就亲密关系的阶段特点而言，关系正念具有动态发展的特点。在亲密关系的各发展阶段，关系正念的成分和各成分的权重可能有所不同。因此，未来可根据亲密关系的二元互动和阶段特点，以多维的、动态发展的视角对关系正念的概念进行界定。
+
+在测量工具的开发上，以往的研究均采用自评法的形式，这在一定程度上限制了测量结果的客观性。如前所述，个体的特质正念能够被重要他人所觉察(L.M.May&Reinhardt,2018)，这为开发针对关系正念的互评量表奠定了实证基础。此外，未来还可以从研究者的视角，采用观察编码法对关系正念进行测量。例如，对伴侣的交流过程进行录像、观察和编码，以表情、姿态、语调等外显指标测量关系正念。相比自评法和互评法，观察编码法可以更为客观地捕捉关系双方在日常互动中所忽略的信息。与此同时，自评、互评和观察编码法的结合，有助于研究者从多重视角进行测量，进而丰富正念在亲密关系中的实证研究。
+
+# 6.3明确亲密关系中的正念干预效果
+
+# 6.3.1采用更为严谨的对照组设计
+
+尽管有大量研究支持了正念干预对亲密关系的有益影响，但仍然存在有待改进的地方，特别是对照组的设计。既往研究大多仅考察正念干预的效果，而很少加入传统的亲密关系疗法用以进行效果比较，且对照组以未加干预的等待组为主，或者甚至没有对照组(Carson etal.,2004; Khaddouma et al.,2017; C.J.May et al.,2020; Nasr Isfahani et al.,2018)。这导致了两点问题：其一，在不同干预方案之间的效果对比上，研究者难以确定哪一种方案更为有效；其二，在正念干预的效果评估上，有可能削弱研究结论的可靠性。例如，Kappen 等人(2019)以处于亲密关系中的个体为被试，进行为期两周的正念干预，对照组设计为接受心理教育。结果发现，两组被试的关系满意度都有所提升且没有显著差异。这是否意味着正念干预的效果受到安慰剂效应、团体支持等无关因素的干扰呢？基于上述疑问，未来有必要加入更为严谨的对照组设计。
+
+# 6.3.2考察正念干预影响亲密关系的调节因素
+
+探究正念干预影响亲密关系的调节因素，有助于研究者明确正念干预在何时对何种关系更为有效。然而，现阶段的研究对此知之甚少。就个体因素而言，有研究显示，干预前的特质正念水平在正念干预对关系满意度的积极影响中起调节作用，低特质正念者的干预效果显著，而高特质正念者不显著(Kappen et al.,2019)，这是否意味着正念干预对亲密关系的影响可能存在着天花板效应呢？此外，就关系特征而言，承诺是衡量关系质量的指标之一，当关系陷入困境时，或许有所承诺的伴侣会更有动力寻求帮助，且干预时更为配合，然而目前尚无研究对此进行探究。基于此，未来的研究有必要进一步明确影响干预效果的调节变量，以便制定更具针对性的干预方案。
+
+# 6.4关注潜在的消极影响
+
+目前的研究大多关注于正念对亲密关系的积极作用，而很少考虑其潜在的消极影响。那么，正念干预是否存在某些潜在的消极面呢？既往研究报告了其在其他领域的副作用，例如自主神经亢奋、难以控制负面情绪、再次体验创伤经历等(VanDam etal.,2018)。如前所述，接纳可能是正念影响亲密关系的必要成分，且意识和接纳交互作用(Krafft etal.,2017)。由此可以推测，如果在干预过程中，过度强调意识而忽视接纳，是否反而会带来负面作用呢，例如加大练习者陷入消极情绪和想法的可能性？同理，如果一味地强调接纳而忽视意识，是否会伤害练习者呢？例如在家庭暴力中，受害者屈服于暴虐且忽视自身感受，这可能会带来更为严重的身心伤害。上述疑问提示我们，正念的意识和接纳成分需要维持在恰当的水平，否则可能适得其反。那么，何种程度的意识和接纳对练习者来说是恰当的呢？意识和接纳的作用及作用程度分别是什么？对于以上问题，未来的研究可以结合实验诱导法和解构正念成分的方式进行更为深入的探讨。
+
+# 参考文献
+
+陈晓，周晖，王雨吟.(2017)．正念父母心：正念教养理论、机制及干预．心理科学进展,25(06),989-1002.   
+段文杰，冯宇.(2018).学校正念干预的应用与特点．心理科学,41(01),85-90.   
+郭璞洋，李波.(2017).正念是什么——从正念内涵研究发展角度的思考．心理科学,40(03),753-759.   
+何元庆，连榕，全莉娟.(2019).积极社会心态：正念培育的目标、机制与途径．心理科学,42(02),463-469.   
+李继波，陈盈盈，肖前国.(2019)．正念冥想在ADHD 儿童干预中的应用．心理科学,42(02),470-476.   
+刘玄巾，王滢茹，杨斯钰，周乐山.(2019).正念饮食的国外研究进展．解放军护理杂志,36(08),55-58.   
+任志洪，张雅文，江光荣.(2018).正念冥想对焦虑症状的干预：效果及其影响因素元分析．心理学报,50(03), 283-305.   
+申传刚，杨璟，胡三嫚，何培旭，李小新.(2020).辱虐管理的应对及预防：正念的自我调节作用．心理科学 进展，28(02),220-229.   
+徐富明，李燕，邓颖，史燕伟，刘程浩.(2016)．正念禅修与成瘾行为．心理科学进展,24(6),985-994.   
+诸彦含，陈国良，徐俊英.(2020).组织中的正念：基于认知的动态衍生过程及干预．心理科学进展,28(03), 510-522.   
+Adair,K.C.,Boulton,A.J.,& Algoe,S.B.(2018).The efect of mindfulness on relationship satisfaction via perceived responsivenes: Findings from a dyadic study of heterosexual romantic partners. Mindfulness,9(2), 597-609.   
+Atkinson,B.J.(2Ol3).Mindfulness trainingand the cultivation of secure,satisfying couple relationships.Couple and Family Psychology: Research and Practice,2(2), 73-94.   
+Barnes,S.,Brown,K.W.,Krusemark,E.,Campbell, W.K.,&Rogge,R.D. (2007).The role of mindfulness in romantic relationship satisfaction and responses to relationship stress. Journal of Marital and Family Therapy 33(4),482-500.   
+Beckerman,N.L.,& Sarracco,M. (2o11).Enhancing emotionally focused couple therapy through the practice of mindfulness: A case analysis. Journal of Family Psychotherapy, 22(1), 1-15.   
+Bermudez,D.,Benjamin,M.T.,Porter,S.E.,Saunders,P.A.,Myers,N.A.L.,& Duton,M.A. (2013). Aqualitative analysis of beginning mindfulness experiences for women with post-traumatic stress disorder and a history of intimate partner violence. Complementary Therapies in Clinical Practice,19(2),104-108.   
+Bishop,S. R. (2o04). Mindfulness: A proposed operational definition. Clinical Psychology: Science and Practice, 11(3), 230-241.   
+Bravo,A. J., Pearson, M. R., Wilson,A. D.,& Witkiewitz,K. (2018). When traits match states: Examining the associations between self-report trait and state mindfulness following a state mindfulness induction. Mindfulnes, 9(1), 199-211.   
+Brem,M.J.,Wolford-Clevenger, C.,Zapor,H.,Elmquist,J.,Shorey,R.C.,& Stuart,G.L. (2018). Dispositional mindfulness as a moderator ofthe relationship between perceived partner infidelity and women's dating violence perpetration. Journal of Interpersonal Violence, 33(2), 250-267.   
+Brown,K. W.,&Ryan,R.M. (2003).Thebenefitsofbeing present: Mindfulnessand its role in psychological wellbeing. Journal of Personality and Social Psychology, 84(4), 822-848.   
+Brown,K.W.,Ryan,R.M.,& Creswell,J.D.(Oo7).Mindfulness: Theoretical foundationsand evidenceforits salutary effects. Psychological Inquiry, 18(4),211-237.   
+Carson, J.W., Carson, K.M., Gil,K.M.,&Baucom,D.H.(204). Mindfulness-based relationshipenhancement. Behavior Therapy,35(3), 471-494.   
+Carson, J.W.,Carson, K.M.,Gil,K.M.,&Baucom,D.H. (2o6).indfulness-based relationshipenhancement (MBRE) in couples. In R.A. Baer (Ed.), Mindfulness-based treatment approaches mindfulness-based treatment approaches: Clinician's guide to evidence base and applications (pp.309-331). San Diego, CA: Elsevier Academic Press.   
+Carson, J. W., Carson, K.M., Gil,K. M.,&Baucom,D.H. (2oo7).Self-expansion as a mediator of relationship improvements in a mindfulness intervention. Journal of Marital and Family Therapy, 33(4), 517-528.   
+Chiesa,A.,& Malinowski, P. (2011). Mindfulness-based approaches: Are they allthe same? Journal of Clinical
+
+Psychology, 67(4),404-424.
+
+Davidson,R.J.,&Kaszniak,A.W.(2O15).Conceptual and methodological issues inresearch onmindfulness and meditation. The American Psychologist, 70(7),581-592.
+
+Dixon,H.C.,& Overal,N.C.(2o16).Regulating fears ofrejection: Dispositional mindfulnessatenuates the links between daily conflict,rejection fears,and destructive relationship behaviors.Journal of Social and Personal Relationships,35(2),159-179.
+
+Don,B.P.(019).Mindfulnes predicts growth belief and positive outcomes insocial relationships.Selfand Identity 19(3),272-292.
+
+Dutton,M.A.,Bermudez,D.,Matas,A.,Majid,H.,& Myers,N.L.(2013).Mindfulness-based stressreduction for low-income,predominantly African American women with PTSD and a history of intimate partner violence. Cognitive and Behavioral Practice,20(1),23-32.
+
+Finey,N.,&Tadros,E.(2O18).Integrationofstructuralfamily therapyanddialecticalbehaviortherapywithhigh conflict couples.TheFamily Journal,27(1),31-36.
+
+Gambrel,L.E.,&Piercy,F.P.(2O15a).Mindfulness-based relationshipeducation for couples expecting their first child-part 1: A randomized mixed-methods program evaluation.Journal of Marital and Family Therapy, 41(1), 5-24.
+
+Gambrel,L.E.,&Piercy,F.P.(2O15b).Mindfulness-based relationship education for couples expecting their first child—part 2: Phenomenological findings. Journal of Marital and Family Therapy, 41(1),25-41.
+
+Garland,E.L.,Farb,N.A.,Goldin,P.R.，& Fredrickson,B.L.(2015). The mindfulness-to-meaning theory: Extensions,applications,and challenges at the atention-appraisal-emotion interface.Psychological Inquiry, 26(4),377-387.
+
+Gehart,D.R. (2o12). Mindfulness and acceptance in couple and family therapy.New York: Springer.
+
+Gillspie,B.,Davey,M.P.,& Flemke,K.(2015).Intimate partners’perspectiveson the relational effctsof mindfulness-based stress reduction training: A qualitative research study. Contemporary Family Therapy, 37(4), 396-407.
+
+Harvey,J.,Crowley,J.,& Woszidlo,A.(O19).Mindfulness,conflict strategyuse,andrelational satisfaction:A dyadic investigation.Mindfulness, 10(4),749-758.
+
+Heppner, W.L.,& Shirk,S.D. (2018).Mindful moments: A review of brief,low-intensity mindfulness meditation and induced mindful states.Social and Personality Psychology Compass,12(12),el2424.
+
+Hertz,R. M.,Laurent, H.K.,& Laurent, S.M. (2015). Attchment mediates effects of trait mindfulness onstress responses to conflict. Mindfulness, 6(3), 483-489.   
+Iida,M.,& Shapiro,A.(2019). Mindfulness and daily negative mood variation in romantic relationships. Mindfulness,10(5),933-942.   
+Iida,M.,& Shapiro,A.F. (2O17).The role of mindfulness in daily relationship process: Examining dailyconflicts and relationship mood. Mindfulness, 8(6),1559-1568.   
+Jones,K.C.,Welton,S.R.,Oliver,T.C.,&Thoburn,J.W. (2011).Mindfulness,spousalatachment,and marital satisfaction: A mediated model. Family Journal, 19(4),357-361.   
+Kabat-Zinn,J. (2oo3). Mindfulnessbased interventions in context: Past, present,and future.Clinical Psychology: Science and Practice, 10(2),144-156.   
+Kappen,G.,Karremans,J.C.,&Burk, W.J.(2o19).Efects ofashortonline mindfunesinterventiononrelationship satisfaction and partner acceptance: The moderating role of trait mindfulness.Mindfulness,10(10),2186-2199.   
+Kappen, G., Karremans,J. C., Burk, W.J.,& Buyukcan-Tetik,A. (2018). On the association between mindfulness and romantic relationship satisfaction: The role of partner acceptance. Mindfulness, 9(5),1543-1556.   
+Karemans, J. C.,Schelekens, M. P. J.,& Kappen, G. (2017). Bridging the sciences of mindfulness and romantic relationships.Personality and Social Psychology Review, 21(1),29-49.   
+Karremans,J. C., van Schie,H.T.,van Dongen,I.,Kappen,G., Mori, G., van As,S.,. van der Wal,R.C.(2020). Is mindfulness associated with interpersonal forgiveness? Emotion, 20(2),296-310.   
+Khadouma,A.,Coop Gordon,K.,&Strand,E.B.(O17).Mindful mates: Apilot studyof the relational effectsof mindfulness-based stress reduction on participants and their partners. Family Process,56(3), 636-651.   
+Khaddouma,A.,& Gordon,K.C.(018).Mindfulnessand youngadult dating relationship stability:Alongitudinal path analysis.Mindfulness, 9(5),1529-1542.   
+Khaddouma,A., Gordon, K. C.,& Bolden, J. (2015). Zen and the art of sex: Examining associations among mindfulness, sexual satisfaction, and relationship satisfaction in dating relationships. Sexual and Relationship Therapy, 30(2),268-285.   
+Kimmes, J. G., Durtschi, J.A.,& Fincham, F. D.(20l7). Perception in romantic relationships: A latent profile analysis of trait mindfulness in relation to atachment and attributions. Mindfulness, 8(5),1328-1338.   
+Kimmes,J.G.,Jaurequi,M.E.,May,R.W.,Srivastava,S.,&Fincham,F.D.(2o18).Mindfulnessinthecontextof romantic relationships: Initial development and validation of the relationship mindfulness measure. Journal of   
+Kimmes,J.G.,Jaurequi, M.E.,Roberts,K., Harris,V.W.,&Fincham,F.D. (2019).An examination of the association between relationship mindfulness and psychological and relational wel-being in committed couples. Journal of Marital and Family Therapy, 46(1),30-41.   
+Kimmes,J. G.,Mallry,A. B.,Cameron, C.,& Kose,O.(2015). A treatment model for anxiety-related sexual dysfunctions using mindfulness meditation within a sex-positive framework. Sexual and Relationship Therapy, 30(2),286-296.   
+Kimmes,J.G.,May,R.W.,Seibert,G.S.,Jaurequi,M.E.,&Fincham,F.D.(2018).The associationbetweentrait mindfulness and cardiovascular reactivity during marital conflict. Mindfulness, 9(4),1160-1169.   
+Kocsis,A.,& Newbury-Helps,J. (2016). Mindfulness in sex therapy and intimate relationships (MSIR): Clinical protocol and theory development. Mindfulness,7(3), 690-699.   
+Krafft,J.,Haeger,J.,& Levin,M.E. (2O17).The interaction of mindful awareness and aceptance in couples satisfaction. Personality and Individual Differences,113,20-23.   
+Laurent,H.K.,Hertz,R.,Nelson,B.,&Laurent, S.M. (2Ol6). Mindfulness during romanticconflict moderates the impact of negative partner behaviors on cortisol responses. Hormones and Behavior; 79, 45-51.   
+Laurent,H. K.,Laurent,S.M., Hertz,R., Egan-Wright,D.,& Granger, D.A. (2013).Sex-specific effectsof mindfulness on romantic partners’cortisol responses to conflict and relations with psychological adjustment. Psychoneuroendocrinology,38(12),2905-2913.   
+Lenger, K.A., Gordon, C.L.,& Nguyen,S.P. (2017). Intra-individualand cross-partner associations between the five facets of mindfulness and relationship satisfaction. Mindfulness,8(1),171-180.   
+Lindsay,E.K.,Chin,B.,Greco,C.M.,Young,S.,Brown,K.W., Wright,A.G.C.,...Creswel,J.D.(2018).How mindfulness training promotes positive emotions: Dismantling acceptance skills training in two randomized controlled trials. Journal of Personality and Social Psychology,115(6), 944-973.   
+Lindsay,E.K.,& Creswel, J.D. (2017). Mechanisms of mindfulness training: Monitor and acceptance theory (MAT). Clinical Psychology Review, 51,48-59.   
+May,C.J.,Ostafin,B.D.,& Snippe,E.(2O20).Mindfulnessmeditation isassociated with decreases in partner negative afect in daily life. European Journal of Social Psychology, 50(1),35-45.   
+May,L.M.,&Reinhardt,K.M. (2018). Self-other agreement in the assessment of mindfulnessusing the five-facet mindfulnessquestionnaire. Mindfulness, 9(1),105-116.   
+Nasr Isfahani, N.,Bahrami,F. Etemadi, O.,& Mohamadi, R.A. (2018). Effctiveness of counseling basedon mindfulness and acceptance on the marital conflictof intercultural married women in Iran. Contemporary Family Therapy, 40(2),204-209.   
+Papies,E. K.,Pronk,T.M.,Keesman,M.,&Barsalou,L.W. (2015).The benefits of simply observing: Mindful attention modulates the link between motivation and behavior. Journal of Personality and Social Psychology, 108(1), 148-170.   
+Passarell, V., Cavuoto,N.,& Rathus,J. H. (20o6).Dialectical behavioral therapy (DBT): A mindfulness-based treatment for intimate partner violence. In R. Baer (Ed.), Mindfulness-based treatment approaches: Clinician's guide to evidence base and applications (pp. 333-358). Boston: Academic Press.   
+Patrick,H., Knee,C.R.，Canevello,A.，& Lonsbary,C.(2007). The role of need fulfillment in relationship functioning and well-being: A self-determination theory perspective. Journal of Personality and Social Psychology, 92(3), 434-457.   
+Pepping,C.A., Cronin,T.J.,Lyons,A.,& Caldwel,J. G. (2018).The effects of mindfulnessonsexualoutcomes: The role of emotion regulation. Archives of Sexual Behavior, 47(6),1601-1612.   
+Pepping, C.A., Davis,P.J.,& O'Donovan,A. (2015). The association between state atachment securityand state mindfulness. Plos One,10(3), e0116779.   
+Pepping,C.A.,& Duvenage,M. (2016). The origins of individual differences in dispositional mindfulness. Personality and Individual Differences,93,130-136.   
+Pepping,C.A.，O'Donovan,A.，& Davis,P.J. (2013). The differential relationship between mindfulnes and attachment in experienced and inexperienced meditators. Mindfulness, 5(4), 392-399.   
+Peterson, B.D.,Eifert, G. H.,Feingold,T.,& Davidson, S. (2009). Using acceptance and commitment therapy to treat distressed couples: Acase study with two couples. Cognitive and Behavioral Practice,16(4),430-442.   
+Pratscher，S.D.，Wood,P.K.,King,L.A.，& Betencourt,B.A.(2019).Interpersonal mindfulness: Scale development and initial construct validation. Mindfulness,10(6),1044-1061.   
+Segal,Z. V., Williams,J.M. G.,&Teasdale,J.D.(013).Mindfulness-based cognitive therapyfordepresson (2nd ed.). New York: The Guilford Press.   
+Smith,E.L.,Jones,F.W.,Holtum,S.,& Grifiths,K. (2014). The processof engaging in mindfulness-based cognitive therapy as a partnership: A grounded theory study. Mindfulness, 6(3), 455-466.   
+Tollefson, D.R.,& Philips,I. (2015). A mind-body bridging treatment program for domestic violenceoffenders: Program overview and evaluation results.Journal of Family Violence,30(6),783-794.   
+Van Dam,N.T.,van Vugt,M.K.,Vago,D.R.,Schmalzl,L.,Saron, C.D.,Olendzki,A.,...Meyer,D.E. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspectives on Psychological Science,13(1),36-61.   
+van den Hurk,D.G.M.,Schelekens,M.P.J.,Molema,J.,Speckens,A.E.M.,& van der Drift,M.A. (2015). Mindfulness-based stress reduction for lung cancer patients and their partners: Results of a mixed methods pilot study.Palliative Medicine,29(7),652-660.   
+Wachs,K.,& Cordova, J. V. (2O07).Mindful relating: Exploring mindfulnessand emotion repertoires in intimate relationships. Journal of Marital and Family Therapy, 33(4), 464-481.   
+Wariner, S., Crane, C.,Dymond,M.,& Krusche,A. (2018).An evaluation of mindfulness-based childbirth and parenting courses for pregnant women and prospective fathers/partners within the UK NHS (MBCP-4-NHS). Midwifery, 64,1-10.   
+Zarling,A.,Bannon,S.,& Berta, M. (2019). Evaluation of acceptance and commitment therapy for domestic violence offenders.Psychology of Violence,9(3),257-266.
+
+# The influence of mindfulness on intimate relationships: Theory and application
+
+CHEN Guodian; YANG Tongping (SchoolofPsychology,Sichuan Normal University,Chengdu6loo68,China)
+
+Abstract: Mindfulness in an intimate relationship indicates the conscious atention to felings or thoughts paid by individuals that may affect the relationship. It has gradually attracted academic atention in theory and applications research because of its contributions to improve relationship satisfaction and buffer conflicts.The theoretical framework of interaction paterns between partners helps to understand the process and outcomes of intimate relationships at the level of the dyad. Researchers usually use self-report questionnaires, laboratory-based inductions and mindfulness interventions to explore the effects of mindfulness on intimate relationships. Since mindfulness intervention has a protective and remedial function for intimate relationships,it is applied to different relationship states such as relative happiness, facing challenges,and falling into crisis.
+
+Future research consists of four aspects. Firstly，constructing the theory based on the staged characteristics and possible reverse effects; secondly, conceptualizing the theoretical definition from multi-dimensional as wellas dynamic perspective by relying on the interaction pattern and staged characteristics of the intimate relationship following by the measurement through the mutual evaluation or observational coding; thirdly，using robust designs to clarify the efects of interventions and finally paying attention to potential adverse effects.
+
+Key words: intimate relationships; mindfulness; meditation; theory; intervention

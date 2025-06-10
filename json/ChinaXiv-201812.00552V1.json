@@ -1,0 +1,427 @@
+[
+    {
+        "type": "text",
+        "text": "热应激对家禽肠道黏膜结构的影响及可能原因",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雪洁 冯京海\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）摘要：热应激是影响家禽生长和健康的重要因素之一。肠道不仅是家禽消化、吸收营养物质的位点，更是抵御外界病源微生物的第一道防线。热应激影响家禽肠道的结构，干扰肠道微生物平衡，影响肠道的免疫功能，导致肠黏膜完整性受损，增加细菌移位的几率，最终影响家禽的生长和健康。本文归纳总结了有关热应激影响家禽肠道结构方面的研究结果，并初步提出热应激影响家禽肠道结构的可能原因，为进一步阐明热应激对家禽肠道健康的影响提供基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：热应激；家禽；肠道结构；黏膜完整性；肠道微生物中图分类号：S815",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "家禽的肠道包括十二指肠、空肠、回肠、盲肠和直肠，是营养物质消化、吸收的主要位点。家禽的肠道约占体重的 $1 . 5 \\%$ ，但其长度约是体长的6倍。肠道内腔环形皱襞以及肠绒毛使小肠表面积扩大了20\\~30倍，有效地增强了小肠的吸收功能[1。同时肠道也是家禽能量消耗的主要组织，饲料中 $6 . 0 \\% { \\sim } 8 . 0 \\%$ 的能量由家禽肠道消耗[2]。另外，家禽肠道中栖息着大量微生物，其中包括大量由饲料和饮水进入的病源微生物，因此肠道上皮组织也是家禽抵御病源菌的重要屏障[3]。维持肠道正常的结构和功能对于家禽的生长和健康十分关键。热应激影响家禽的健康和产长性能，研究发现热应激导致肉鸡生长性能显著下降[4，以及禽类解偶联蛋白mRNA表达量下降[5]。同时热应激还影响肉仔鸡免疫器官的发育，损伤小肠形态结构[6]，改变盲肠菌群多样性[7]。热应激是影响家禽肠道结构和功能的一个重要因素。热应激影响家禽肠道的形态以及肠黏膜的完整性。热应激影响肠道的结构可能与多种因素有关，例如热应激引起的采食量下降、肠道血流量减少等。本文针对热应激影响家禽肠道结构的研究进行总结，并从采食量、血流量、微生物等方面探讨热应激影响家禽肠道的机制，以期加深对于热应激影响家禽肠道健康的认识。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1热应激对家禽肠道结构的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 肠道形态 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "环境高温影响家禽的肠道绒毛高度。Deng等[8]发现， $3 4 ^ { \\circ } \\mathrm { C }$ 热应激12d可导致蛋鸡回肠和盲肠绒毛高度缩短。Song等[9]观察到 $3 3 ^ { \\circ } \\mathrm { C }$ 每天应激 $1 0 \\mathrm { { h } }$ ，连续应激 $2 0 \\mathrm { d }$ ，肉鸡的空肠绒毛高度缩短。本课题组张少帅等发现，31 $\\mathrm { { } ^ { \\circ } C }$ 应激14d显著降低了空肠和回肠的绒毛高度。其他研究也在肉鸡[10-11]和猪[12-14]上获得相似发现。然而Quinteriro-Filho等[15]发现， $3 1 \\mathrm { ~ \\textdegree ~ }$ 应激 $1 0 \\mathrm { { h } }$ 对肉鸡空肠绒毛高度没有显著影响。Burkholder等[16]发现， $3 0 \\ \\mathrm { ^ { \\circ } C }$ 应激24h对肉鸡回肠和盲肠的绒毛高度无显著影响。这可能是由于环境温度较低或应激持续时间较短所致。Hao等[17]发现， $3 6 ~ \\mathrm { ^ { \\circ } C }$ 应激 $5 \\mathrm { h }$ 对肉鸡空肠绒毛高度没有显著影响，但应激10h后绒毛高度与隐窝深度的比值显著降低。另外，不同肠段对于高温的敏感性可能存在差异。 $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 应激14d显著降低了肉鸡空肠远端绒毛高度，但不影响近端绒毛高度[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "环境高温影响家禽肠道隐窝深度的报道不一。Song等[9]观察到高温导致肉鸡的空肠隐窝深度加深。Quinteriro-Filho等[15]发现，高温对肉鸡空肠隐窝深度没有显著影响。而Burkholder等[16]发现，高温引起肉鸡回肠和盲肠的隐窝深度变浅。Al-Fataftah等[10]同样发现，高温导致肉鸡肠道隐窝深度下降。另外在猪上也同样发现，高温导致肠道隐窝变浅[12-13]。高温对家禽肠道隐窝深度的不同影响可能与热应激的强度和持续时间有关。Pearce等[14]证明，随热应激时间延长，猪肠道隐窝深度先加深，然后逐渐变浅。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠道绒毛的高度受到成熟上皮细胞凋亡脱落、幼稚上皮细胞迁移以及隐窝干细胞增殖的共同影响。环境高温降低家禽肠道绒毛高度可能与促进成熟上皮细胞的凋亡有关。Yu等[13]在电镜下观察到，高温造成猪空肠绒毛顶端损伤，上皮细胞脱落，导致绒毛高度缩短。Yu等[19]的体外试验也发现，提高培养温度可导致肠上皮细胞（IEC-6）的凋亡增加。肠道隐窝深度可能与隐窝内干细胞的增殖活性有关。Yamauchi等[20]发现，肠道隐窝干细胞的增殖可能对高温更加敏感。热应激初期家禽可能通过代偿性的促进隐窝内干细胞的增殖活性，以恢复绒毛顶端上皮细胞的脱落。随着家禽逐渐适应热应激，隐窝深度可能恢复，而热应激进一步持续可能由于营养摄入减少等原因导致干细胞增殖抑制，隐窝变浅。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 黏膜完整性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环境高温影响家禽肠道的绒毛高度和隐窝深度，不仅抑制肠道对营养物质的消化、吸收[21]，还会影响肠道黏膜的完整性，增加病原微生物感染的几率。黄淑成等[22]研究报道，38°℃应激10h后肉鸡血浆中内毒素的含量呈极显著的升高。Pearce等[14]也发现，35℃高温下猪血浆中内毒素的含量显著升高。Hall等[23]和Lim等[24]在小鼠上也有相似发现。内毒素进入体内后刺激免疫系统，导致血液中白细胞介素-1（IL-1）、肿瘤坏死因子（TNF）-α等细胞因子的含量升高[25-26]。Deng等[8]发现， $3 4 ^ { \\circ } \\mathrm { C }$ 下蛋鸡血浆中TNF-α、IL-1的含量显著升高。Bouchama等[27]在人上也有相似发现。内毒素是来源于革兰氏阴性菌细胞壁脂多糖的大分子复合物，其相对分子质量约为 $1 \\times 1 0 ^ { 6 } { \\sim } 2 0 \\times 1 0 ^ { 6 }$ ，正常情况下只有微量的脂多糖通过肠道上皮细胞间的紧密连接或受体介导的胞吞跨细胞膜转运进入动物体内[26]，因此高温导致家禽血液中内毒素和细胞因子含量的升高，间接表明肠道的完整性受损。Song等[9]利用尤斯灌流室（Ussingchamber）直接证实， $3 3 ^ { \\circ } \\mathrm { C }$ 热暴露20d导致肉鸡空肠黏膜通透性显著增加，表现为跨上皮电阻值（TER）下降，大分子物质的渗透性增强。在小鼠和猪上也有相似发现[14,2-9]。Dokladny等[30]体外研究发现，提高培养温度导致Caco-2细胞之间的紧密连接受损。Yu等[13]通过电镜也观察到，热应激导致猪空肠细胞紧密连接形态发生改变。上述研究结果均表明高温降低了肠道黏膜的完整性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温降低肠道黏膜的完整性可能与肥大细胞有关。Deng等[发现，高温增加了蛋鸡肠道上皮组织中肥大细胞的数量。肥大细胞释放的生物活性物质如类胰蛋白酶和组胺等可以增强上皮组织的通透性[31-32]。高温影响黏膜的完整性可能与紧密连接蛋白的表达和分布有关。Ikari等[33]体外研究发现，高温抑制紧密连接蛋白ZO-1蛋白的表达，并且诱导ZO-1蛋白由细胞膜向细胞质转移。Dokladny等[30]也发现，提高培养温度降低了ZO-1蛋白的表达。但Dokladny等[34]发现，高温上调了Occludin蛋白的表达，推测可能与肠道上皮代偿性的保护反应有关。Pearce等[14]发现高温影响猪肠道ZO-1、Occludin、Claudin 3等紧密连接蛋白mRNA的表达，表现为先降低后升高的趋势，进一步证实了这一推测。另外，环境高温提高家禽血液中IL-1、TNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\mathfrak { a } ~ } }$ 等细胞因子的含量[8]，影响肌球蛋白轻链激酶的表达[14]，进一步引起肌球蛋白轻链磷酸化，调控肌动蛋白细胞骨架的收缩，导致紧密连接打开，增加小肠渗透性[35-38],这可能也是高温损伤肠道黏膜完整性的机制之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高温影响肠上皮黏膜的完整性，增加了病原菌感染的几率。Burkholder等[16]观察到，30℃热暴露24 h会增加肉鸡肠道中沙门氏菌的附着。Quinteiro-Filho等[39-40]发现热应激提高沙门氏菌在肉鸡盲肠和嗦囊上的定植，以及移位进入肉鸡的脾脏、肝脏和骨髓中，表明高温降低了肉鸡对沙门氏菌感染的抵抗。另外，由于上皮完整性的受损，内毒素进入家禽的循环系统，进一步激活局部和系统免疫，使能量和营养物质由生长转向产生急性期蛋白和其他免疫调控因子，从而抑制畜禽生长[41-42]，这可能是高温影响家禽健康和生长的关键原因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2热应激影响家禽肠道功能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 采食量下降 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "环境高温对于肠道结构的影响可能与高温降低采食量有关。张彩霞等[43]发现，限饲 $70 \\%$ 显著降低了肉鸡十二指肠绒毛高度。但刘路路等[44]发现，同样限饲 $70 \\%$ 并没有显著影响黄羽肉鸡十二指肠、空肠和回肠的绒毛高度和隐窝深度，这可能因为黄羽肉鸡生长速度较慢，对于短时间限饲不敏感。Yamauchi等[45]发现，饥饿应激会导致蛋鸡十二指肠和空肠绒毛高度降低。Nunez等[46]发现， $60 \\%$ 限饲显著降低了仔猪小肠绒毛高度和隐窝深度。Ferraris等[47]总结了限饲或营养不足对于肠道的影响，认为限饲严重影响肠道黏膜的结构和转运功能，增加肠道对于大分子的渗透性，导致肠道绒毛的萎缩。Garriga等[18]研究了高温对肉鸡肠道结构和功能的影响，同时利用采食量配对的方法研究采食量降低的效应。研究发现，采食配对组同样降低了肉鸡空肠远端的绒毛高度。Pearce等[14]在猪上的研究也发现了相似结果，且采食配对组脂多糖的渗透率有升高趋势。这些研究结果表明，热应激对于肠道结构的影响部分是由于采食量下降引起的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 体温升高",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "环境高温对于肠道结构的影响可能与动物体温升高有关。体外研究发现，提高培养温度显著抑制上皮细胞 IEC-6 的增殖，诱导上皮细胞的凋亡[19]，影响 Caco-2 细胞之间的紧密连接[27]。热应激导致猪[13]和大鼠[19]的直肠温度升高。推测直肠温度升高可能影响肠道上皮细胞的增殖和紧密连接，诱导上皮细胞凋亡，从而影响家禽肠道结构。另外，Bouchama 等[27]观察到中暑病人直肠温度升高，血液中TNF、IL-1和内毒素含量均显著升高，而体温下降后 TNF、IL-1和内毒素的含量也随之下降，这一发现间接表明体温升高可能与肠道结构变化有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 肠道血流量减少 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高温环境下，动物为了增加散热，提高体表的血流量，导致肠道等组织的血流量下降[48-49]。血流量长时间减少可能引起肠道上皮细胞缺氧[23]、ATP耗竭、乳酸积聚、细胞功能紊乱，最终导致上皮细胞坏死和脱落，降低肠道绒毛高度，损害肠道上皮的完整性[38,48]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 肠道微生物",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "环境高温对于肠道的影响可能与肠道微生物有关。彭骞骞等[7]采用16SrDNAPCR-变性梯度凝胶电泳（DGGE）技术，发现31℃持续高温影响肉鸡盲肠菌群的结构和多样性。随热应激持续时间延长，对蛋鸡十二指肠、空肠和回肠优势细菌菌群组成的影响越显著，同时肠道绒毛高度和隐窝深度下降也越明显[50]。热应激减少肉鸡肠道中肠杆菌科的数量，增加链球菌属和葡萄球菌属的数量[51]，增加沙门氏菌等病原菌在肠道中的定植[16.39-40]。肠道中的病原菌可以刺激肠道免疫细胞和上皮细胞分泌炎性细胞因子如TNF、IL-1等，进一步引起肌球蛋白轻链磷酸化，导致小肠上皮紧密连接打开，增加小肠渗透性[35-36]。Song 等[9]研究发现，高温降低了肠道中乳酸杆菌和双歧杆菌的数量，增加大肠杆菌和梭菌的数量，而高温环境下饲喂益生菌，增加了肉鸡肠道中乳酸菌和双歧杆菌数量，同时也提高了肉鸡肠道绒毛高度，促进紧密连接蛋白的表达，表明高温对肉鸡肠道结构和功能的影响可能与肠道微生物组成变化有关。目前有关高温影响肠道微生物组成的研究相对较少，对于高温通过微生物影响肠道结构和功能的机制还不清楚。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3小结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，热应激影响家禽肠道的结构，降低肠黏膜的完整性，抑制肠道免疫功能。热应激对家禽肠道的影响可能和采食量降低、体温升高、肠道血流量减少以及肠道微生物改变有关。热应激影响家禽肠道的结构和功能，进一步影响家禽的生长和健康。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]徐昌芬,陈永珍,王晓冬.组织胚胎学[M].南京:东南大学出版社,2006:91-92.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2] SPRATT R S,MCBRIDE B W,BAYLEY H,et al.Energy metabolism of broiler breeder hens.2.Contribution of tissues to total heat production in fed and fasted hens[J].Poultry Science,1990,69(8):1348-1356. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[3] SANSONETTI P.War and peace at mucosal surfaces[J].Nature Reviews Immunology,2004,4(12):954-964. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4]胡春红,张敏红,冯京海,等.偏热刺激对肉鸡休息行为、生理及生产性能的影响[J].动物营养学报,2015,27(7):2070-2076.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]甄龙,石玉祥,张敏红,等.持续偏热环境对肉鸡生长性能、糖脂代谢及解偶联蛋白 mRNA表达的影响[J].动物营养学报,2015,27(7):2060-2069",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]张少帅,甄龙,冯京海,等.持续偏热处理对肉仔鸡免疫器官指数、小肠形态结构和黏膜免疫指标的影响[J].动物营养学报,2015,27(12):3887-3894.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7]彭骞骞,王雪敏,张敏红,等.持续偏热环境对肉鸡盲肠菌群多样性的影响[J].中国农业科学,2016,49(1):186-194.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[8]DENG W,DONG X F,TONG J M,et al.The probiotic Bacillus licheniformis ameliorates heat stress-induced impairment of egg production,gut morphology,and intestinal mucosal immunity in laying hens[J].Poultry Science,2012,91(3):575-582. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[9] SONG J,XIAO K,KE Y L,et al.Effect of a probiotic mixture on intestinal microflora,morphology,and barrier integrity of broilerssubjected to heat stress[J].Poultry Science,2014,93(3):581-588. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[10] AL-FATAFTAH A R,ABDELQADER A.Effects of dietary Bacillus subtilison heat-stressed broilersperformance,intestinal morphology and microfloracomposition[J].Animal Feed Science and Technology,2014,198:279-285 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[11] MITCHELL M A,CARLISLE A J.The effect of chronic exposure to elevated environmental temperature on intestinal morphology and nutrient absorption in the domestic fowl (Gullus domesticus)[J].Comparative Biochemistry and Physiology Part A:Physiol0gy,1992,101(1):137-142. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[12]LIU F,YIN J,DU M,et al.Heat-stress-induced damage to porcine smal intestinal epithelium associated with downregulation of epithelial growth factor signaling[J].Journal of Animal Science,2009,87(6):1941-1949. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13] YU J,YIN P,LIU F H,et al.Effect of heat stress on the porcine small intestine:a morphological and gene expresson study[J].Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology,2010,156(1):119-128. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14] PEARCE S C,MANI V,WEBER T E,et al.Heat stress and reduced plane of nutrition decreases intestinal integrity and function in pigs[J].Journal of Animal Science,2013,91(11):5183-5193. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15]QUINTERIRO-FILHO W M,RIBEIRO A,FERRAZ-DE-PAULA V,et al.Heat s stress impairs performance parameters,induces intestinal injury,and decreases macrophage activity in broiler chickens[J].Poultry Science,2010,89(9):1905-1914. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16] BURKHOLDER K M,THOMPSON K L,EINSTEIN M E,et al.Influence of stressors on normal intestinal microbiota,intestinal morphology,and susceptibility to Salmonella enteritidis colonization in broilers[J].Poultry Science,2008,87(9):1734-1741. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17]HAO Y,GU X H,WANG X L.Overexpression of heat shock protein 70 and its relationship tointestine under acute heatstressin broilers:1.Intestinal structure and digestive function[J].Poultry Science,2012,91(4):781-789. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]GARRIGA C,HUNTER R R,AMAT C,et al.Heat stress increases apical glucose transport inthe chicken jejunum[J].American Journal of Physiology Regulatory Integrative and Comparative Physiology,2006,290(1):R195-R201. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19] YU J,YIN P,YIN J D,et al.Involvement of ERK1/2 signalling and growth-related molecules'expresson in response to heat stress-induced damage in rat jejunum and IEC-6 cells[J].International Journal of Hyperthermia,2010,26(6):538-555. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[20]YAMAUCHI K E,YAMAMOTO K,ISHIKI Y.Morphological alterations of the intestinal vill and absorptive epithelial cells in each intestinal part in fasted chickens[J].Japanese Poultry Science,1995,32(4):241-251. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21] XU Z R,HU C H,XIA M S,et al.Effects of dietary fructooligosaccharide on digestive enzymeactivities,intestinalmicrofloraandmorphologyofmalebroilers[J].Poultry Science,2003,82(6):1030-1036. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22]黄淑成,张义博,黄永宣,等.热应激对肉鸡血清内毒素含量和肝脏中TLR4mRNA表达的影响[J].中国兽医杂志,2015,51(12):27-29,32.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23] HALL D M,BUETTNER G R,OBERLEY L W,et al.Mechanisms of circulatory and intestinal barrier dysfunction during whole body hyperthermia[J].American Journal of Physiology Heart and Circulatory Physiology,2001,280(2):H509-H521. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]LIM C L,WILSON G,BROWN L,et al.Pre-existing inflammatory state compromises heat tolerance in rats exposed to heat stress[J].American Journal of Physiology Regulatory Integrative and Comparative Physiology,2007,292(1):R186-R194. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]DUBOSE D A,BALCIUS J,MOREHOUSE D.Heat stress and/or endotoxin effects on cytokine expression by human whole blood[J].Shock,2002,17(3):217-221. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26] MANI V,WEBER T E,BAUMGARD L H,et al.Growth and development symposium:endotoxin,inflammation and intestinal function in livestock[J].Journal of Animal Science,2012,90(5):1452-1465. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27]BOUCHAMA A,PARHAR R S,EL-TAZIGI A,et al.Endotoxemia and release of tumor necrosisfactor and interleukin1 alpha in acute heatstroke[J].Journal ofApplied Physiology,1991,70(6):2640-2644. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28]LAMBERT G P,GISOLFI C V,BERG D J,et al.Selected contribution:hyperthermia-induced intestinal permeability and the role of oxidative and nitrosative stress[J].Journal of Applied Physiol0gy,2002,92(4):1750-1761. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29]PEARCE S C,MANI V,BODDICKER R L,et al.Heat stress reduces barrier function and alters intestinal metabolism in growing pigs[J].Journal of Animal Science,2012,90(4S):257-259. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30]DOKLADNY K,MOSELEY P L,MA T Y.Physiologically relevant increase in temperature causes an increase in intestinal epithelial tight junction permeability[J].American Journal of Physiology Gastrointestinal of Liver Physiology,2006,290(2):G204-G212. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[31]SANTOS J,BENJAMIN M,YANG P C,et al.Chronic stress impairs rat growth and jejunal epithelial barrier function:role of mast cel[J].American Journal of Physiology Gastrointestinal and Liver Physiology,2000,278(6):G847-G854. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32] SODERHOLM J D,PERDUE M H.Stress and the gastrointestinal tract I .Stress and intestinal barrier function[J].American Journal of Physiology Gastrointestinal and Liver Physiology,2001,280(1):G7-G13. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33] IKARI A,NAKANO M,SUKETA Y,et al.Reorganization of ZO-1 by sodium-dependent glucose transporter activation after heat stress in LLC-PK1 cells[J].Journal of Cellular Physiol0gy,2005,203(3):471-478. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[34]DOKLADNY K,YE D M,KENNEDY J C,et al.Cellular and molecular mechanisms of heat stress-induced up-regulation of occludin protein expression:regulatory role of heat shock factor-1[J].The American Journal Pathology,2008,172(3):659-670. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[35]TURNER JR,RILL B K,CARLSON S L,et al.Physiological regulation of epithelial tight junctions is associated with myosin light-chain phosphorylation[J].American Journal of Physiology Cell Physiology,1997,273(4):C1378-C1385. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[36]MORIEZ R,SALVADOR-CARTIER C,THEODOROU V,et al.Myosin light chain kinase is involved in lipopolysaccharide-induced disruption of colonic epithelial barrier and bacterial translocation in rats[J].The American Journal of Pathology,2005,167(4):1071-1079. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[37]YANG P C,HE S H,ZHENG P Y.Investigation into the signal transduction pathway via which heat stress impairs intestinal epithelial barrier function[J].Journal of Gastroenterology and Heptaol0gy,2007,22(11):1823-1831. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[38]LAMBERT G P.Stress-induced gastrointestinal barrier dysfunction and its inflammatory effects[J].Journal of Animal Science,2009,87(14S):E101-E108. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[39]QUINTEIRO-FILHO W M,CALEFIA A S,CRUZA D S G,et al.Heat stress decreases expression of the cytokines,avian defensins 4 and 6 and Tol-like receptor 2 in broiler chickens infected with Salmonella enteritidis[J].Veterinary Immunology and   \nImmunopathology,2017,186:19-28. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[40] QUINTEIRO-FILHO W M,GOMES A V S,PINHEIRO M L,et al.Heat stressimpairs performance and induces intestinal inflammation in broiler chickens infected with Salmonella enteritidis[J].Avian Pathology,2012,41(5):421-427. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[41] JOHNSON R W.Inhibition of growth by pro-inflammatory cytokines:an integrated view[J].Journal of Animal Science,1997,75(5):1244-1255. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[42] SPURLOCK M E.Regulation of metabolism and growth during immune challenge:an overview of cytokine function[J].Journal of Animal Science,1997,75(7):1773-1783. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[43]张彩霞,陈文,黄艳群,等.限饲对哈巴德肉鸡肠道结构的影响[J].江西农业大学学报,2010,32(4):677-682.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[44]刘路路,祁东风,闫冰雪,等.能量限制对三黄鸡补偿生长及肠道结构的影响[J].动物营养学报,2016,28(1):92-101.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[45] YAMAUCHI K,KAMISOYAMA H,ISSHIKI Y.Effects of fasting and refeeding on structures of the intestinal villu and epithelial cell in White Leghorn hens[J].British Poultry Science,1996,37(5):909-921. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[46]NUNEZ M C,BUENO J D,AYUDARTE M V,et al.Dietary restriction induces biochemical and morphometric changes in the small intestine of nursing piglets[J].The Journal of Nutrition,1996,126(4):933-944. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[47]FERRARIS R P,CAREY H V.Intestinal transport during fasting and malnutrition[J].Annual Review of Nutrition,2000,20(1):195-219. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[48]ROWELL L B.Human cardiovascular adjustments to exercise and thermal stress[J].Physiology Reviews,1974,54(1):75-159. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[49]余进.猪和大鼠小肠黏膜热应激损伤修复机制的研究[D].硕士学位论文.北京:北京农学院,2010.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[50]李永洙,陈常秀,金泽林,等.热应激环境下育成鸡肠道菌群多样性及黏膜结构的相关性分析[J].中国农业大学学报,2016,21(1):71-80.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[51]SUZUKI K,HARASAWA R,YOSHITAKE Y,et al.Effects of crowding and heat stress on intestinal flora,body weight gain,and feed efciency of growing rats and chicks[J].The Japanese Journal of Veterinary Science,1983,45(3):331-338. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of Heat Stress on Intestinal Mucosal Structure and Function of Poultry and Its Possible ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Reasons ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WANG XuejieFENG Jinghai\\* (State Key Laboratory of Animal Nutrition, Institute of Animal Sciences, Chinese Academy of Agricultural Sciences,Beijing 100193, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Heat stress is an important factor that affects the growth and health of poultry. The intestinal tract is not only the site of digestion and absorption of nutrients by poultry, but also the first line of defense against microorganisms from the outside world. Heat stress affects the intestinal structural of poultry,interferes the intestinal microbial balance,influences the intestinal immune function,damages to the integrity of intestinal mucosa, increases the chance of bacterial translocation, and finally affects the growth and health of poultry. This paper mainly reviewed the results of studies on the efects of heat stress on intestinal structure of poultry,and preliminarily proposed the possble causes of heat stress affected intestinal structure of poultry,to provide scientific basis for understanding the effects of heat stress on intestinal health of poultry. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: heat stress; poultry; intestinal structure; mucosal integrity; intestinal microflora ",
+        "page_idx": 10
+    }
+]

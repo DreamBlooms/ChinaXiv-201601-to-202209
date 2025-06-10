@@ -1,0 +1,269 @@
+[
+    {
+        "type": "text",
+        "text": "新型降糖药物tirzepatide的临床研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10.12114/j.issn.1007-9572.2022.0644 张丽娜，王岩，张抗怀，李友佳 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：2022年中国药学会科技开发中心科普研究重点项目（CMEI2022KPYJ00228）  \n710004，陕西省西安市，西安交通大学第二附属医院药学部  \n\\*通信作者：李友佳，主管药师；E-mail:lyjfanly@163.comResearch progress of tirzepatide, a new hypoglycemic drug  \nZHANG Li-na, WANG Yan, ZHANG Kang-huai, LI You-jia\\*  \nDepartment of Pharmacy，the Second Afiliated Hospital of Xi'an Jiaotong University，Xi'anShaanxi,710004, China.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目前全球有多种糖尿病治疗的药物，但仍有很多患者未能达到推荐的目标血糖水平，研发和应用新型降糖药迫在眉睫。2022年5月，FDA批准GIP 和GLP-1双重受体激动剂tirzepatide上市，辅助饮食和运动每周注射一次从而改善成人2型糖尿病患者的血糖控制。多项临床研究已验证其用于2型糖尿病的有效性和安全性，同时在肥胖、心血管风险相关疾病、非酒精性脂肪肝炎等方面也具有潜在的应用价值。本文通过对 tirzepatide 的作用机制、有效性和安全性进行综述，为其在我国上市后的临床应用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】 tirzepatide；2 型糖尿病；GIP/GLP-1受体激动剂；肥胖症；有效性；安全性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Despite the availability of various drugs for the treatment of diabetes worldwide, many patients stillfail to achieve the recommended target blood sugar levels.Therefore, it is urgent to develop and apply new hypoglycemic drugs.In May 2022,FDA approved tirzepatide, a dual receptor agonist for GIP and GLP-1,administrated once a week to improve blood glucose control in adults with type 2 diabetes by assisting diet and exercise.A number of clinical studies have verified its effectiveness and safety in the treatment of type 2 diabetes, as well as its potential applications in obesity, cardiovascular risk-related diseases, non-alcoholic steatohepatitis and so on. In this paper, the mechanism, efficacy and safety of tirzepatide were reviewed to provide reference for its clinical application after marketed in China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 Tirzepatide; Type 2 diabetes mellitus； Glucose-dependent insulinotropicpolypeptide /Glucagon-like peptide-1 receptor agonist; Obesity; Effectiveness; Safety",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2021年最新糖尿病流行病学数据显示[1]：全球糖尿病患者高达5.37亿，中国约1.41亿，全球卫生支出的 $9 \\%$ 用于糖尿病，总额达9660亿美元。目前全球有多种糖尿病治疗的药物，但仍有很多患者未能达到推荐的目标血糖水平，研发和应用新型降糖药迫在眉睫[2]。2022 年5月13日，美国食品药品监督管理局（FDA）批准葡萄糖依赖性促胰岛素多肽（Glucose-dependent insulinotropic polypeptide，GIP）和胰高糖素样肽-1（Glucagon-like peptide-1，GLP-1）双重受体激动剂 tirzepatide（简称TZP）上市，辅助饮食和运动，每周注射一次，以改善成人2型糖尿病（Type2Diabetes Mellitus，T2DM）患者的血糖控制。国内学者多将 TZP 译为“替西帕肽”，该药在我国针对 T2DM、肥胖症及心力衰竭等5项III期临床研究也正在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "推进中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新型降糖药物的应用为糖尿病治疗带来治疗获益的同时也带来了一定风险[3]。多项临床研究已验证TZP用于T2DM的有效性和安全性，同时在肥胖、心血管风险相关疾病、非酒精性脂肪肝炎（nonalcoholic steatohepatitis,NASH）等方面也具有潜在的应用价值[4]。本文主要对TZP的作用机制、有效性和安全性进行综述，为其在我国上市后的临床应用提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1TZP的药物信息及药代动力学",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1基本信息TZP是一种单分子的多肽制剂，可激活人体GIP 和GLP-1两种天然肠促胰素的受体。分子式为 $\\mathrm { C } _ { 2 2 5 } \\mathrm { H } _ { 3 4 8 } \\mathrm { N } _ { 4 8 } \\mathrm { O } _ { 6 8 }$ ，分子量为4813.45，它是基于天然GIP 序列的39个氨基酸组成的线性合成肽，与人GIP(1-42)共有19 个氨基酸。TZP 包含了生物活性的 N-末端GIP 序列和艾塞那肽样C-末端序列[5]，同时结合类似司美格鲁肽边链的脂肪酸酸可启动白蛋白结合并延长半衰期至116.7h（约5天)，允许每周给药一次[6]。其药物结构[7]可参考图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/13ecea1fb056aa3703f34e4444f76594ac806512b35ad8df9efb4a3769fb69ae.jpg",
+        "img_caption": [
+            "图1tirzepatide 的药物结构示意（不同的颜色表示每个残基的来源）",
+            "Figure 1The structures of tirzepatide. (Different color indicates the derivation of each residue) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2TZP 的药代动力学TZP 在给药后的 $1 { \\sim } 2 \\mathrm { d }$ 可在体内达到最大血药浓度。Coskun 等[6]研究显示，每周给药1次，约4周后TZP可在体内达到稳态血药浓度，且T2DM患者的药代动力学参数与健康志愿者大致相当。第4次给药后， $1 0 \\mathrm { m g / 1 5 m g }$ 剂量组的峰值浓度分别为 $2 1 4 . 6 \\mathrm { n m o l / L }$ 及260nmol/L，达峰时间均为 $2 4 \\mathrm { h }$ 。一项为期8周的多次剂量递增I期临床研究[8]在日本T2DM患者中开展，发现仅 $1 5 \\mathrm { m g }$ 剂量组的峰值浓度高于上述研究，其余参数无显著差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2TZP的作用机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TZP 改善T2DM患者血糖和体重控制的作用机制尚未完全阐明[9]。GIP 受体和GLP-1受体是调节糖脂和氨基酸代谢的B1类G蛋白偶联受体，两者都存在于胰腺 $\\beta$ 细胞中[10]，这两种受体的激活导致环磷酸腺苷和葡萄糖依赖的胰岛素分泌增加[I1]，为 T2DM和肥胖症的治疗靶标[12]。GLP-1可以调整胰岛素分泌，控制血糖，同时延迟胃排空，抑制食欲[13][14];GIP 的确切作用尚不清楚，研究认为GIP可以双向调控胰岛素分泌，直接作用于皮下白色脂肪组织，改善胰岛素敏感性和脂肪缓冲能力，改善血液流动和储存能力；也可以抑制胃酸分泌、延缓胃动力，对保护胰岛、调整胰岛素分泌有一定的作用[15]。一项ⅡI期临床试验证实TZP 可以显著改善血糖和体重控制，且不增加胃肠道不良反应，这表明除了简单的“超级增强”GLP-1受体激动剂之外，还有其他活性所致的获益[16]，也表明GIP 受体激动剂对双重激动剂的效果有显著贡献。基于临床前研究结果[17]，也有人提出GIP 作为止吐剂，从而提高GLP-1受体激动剂的耐受性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thomas 等[18]研究发现与度拉糖肽相比，TZP 在更大程度上改善了胰岛素抵抗和胰岛 $\\beta$ 细胞功能，TZP的作用仅部分归因于体重减轻，表明双受体激动剂赋予了不同的血糖控制机制。TimHeise 等[19]利用钳夹试验探索 TZP 的作用机制，认为TZP 的降糖作用是通过改善 $\\beta$ （20细胞功能的多个方面来实现的，包括改善胰岛素敏感性、胰岛素分泌第一/第二时相和胰岛 $\\beta$ 细胞的葡萄糖敏感性，从而显著降低空腹和餐后血糖。GIP可能会导致体重增加[20]，TZP 在GLP-1受体上表现出偏向环磷酸腺苷（cAMP）信号[21]，因此除了GIP受体信号转导外，GLP-1受体上的通路偏差可能与TZP改善T2DM患者的血糖控制和体重调节的疗效有关[22]。另外，TZP通过不同的信号转导途径调节 $\\beta$ 细胞功能，激活腺苷酸环化酶，增加环磷酸腺苷cAMP 的胞内浓度，从而活化蛋白激酶A和cAMP 直接激活的交换蛋白（Epac）[23]。Epac有两种亚型，1型可能对 $\\beta$ 细胞具有保护作用，2型则可促进葡萄糖诱导的胰岛素分泌，这可能是TZP相较于选择性GLP-1受体激动剂具有更好降糖效果的原因之一。综上，TZP并非GLP-1和GIP两种受体激动剂的简单相加，而是通过两者机制的协同互补，实现了“ $^ { 1 + 1 }$ ${ > } 2 ^ { \\prime \\prime }$ 的效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3临床疗效 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1T2DMSURPASS系列临床试验是比较TZP与目前常用降糖药物或安慰剂有效性和安全性的研究。该系列研究结论一致显示TZP具有显著的降糖及减重疗效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SURPASS-1[24]显示， $\\mathrm { 5 m g / 1 0 m g / 1 5 m g }$ TZP 组降低糖化血红蛋白（HbA1c）分别为$1 . 8 7 \\%$ 、 $1 . 8 9 \\%$ 、 $2 . 0 7 \\%$ ，安慰剂组仅 $0 . 0 4 \\%$ 。SURPASS- $2 ^ { [ 2 5 ] }$ 是 TZP 与司美格鲁肽（1mg)头对头的研究，结果显示 $\\mathrm { 5 m g / 1 0 m g / 1 5 m g }$ TZP 组受试者 HbA1c 平均降低了 $2 . 0 9 \\%$ 、$2 . 3 7 \\%$ 和 $2 . 4 6 \\%$ ，而司美格鲁肽平均降低 $1 . 8 6 \\%$ ；所有剂量的TZP均优于司美格鲁肽( $\\mathrm { 1 m g }$ ），同时 $1 5 \\mathrm { m g \\ T Z P }$ 组实现 $\\mathrm { H b A l c } { \\leqslant } 6 . 5 \\%$ 和 $< 5 . 7 \\%$ 的患者分别为 $92 \\%$ 和 $51 \\%$ 。SURPASS-3[26]比较了在二甲双胍联用或不联用SGLT2i 的基础上，使用TZP 或滴定剂量德谷胰岛素的疗效和安全性。结果显示： $5 \\mathrm { m g } / 1 0 \\mathrm { m g } / 1 5 \\mathrm { m g ~ T }$ ZP 组和德谷胰岛素组降低HbA1c分别为 $1 . 9 3 \\%$ 、 $2 . 2 0 \\%$ 、 $2 . 3 7 \\%$ 和 $1 . 3 4 \\%$ 。与德谷胰岛素组相比，3个TZP 组的受试者达到HbA1c $< 7 . 0 \\%$ 的比例更高（ $82 \\sim 9 3 \\%$ ）。SURPASS-4[27]比较了 TZP 与甘精胰岛素的降糖疗效，显示 $5 \\mathrm { m g } / 1 0 \\mathrm { m g } / 1 5 \\mathrm { m g } \\ \\mathrm { T Z P }$ 组和甘精胰岛素组分别使受试者的 HbA1c 降低了 $2 . 2 4 \\%$ 、 $2 . 4 3 \\%$ 、 $2 . 5 8 \\%$ 和 $1 . 4 4 \\%$ 。SURPASS-5[28]在甘精胰岛素联合或不联合二甲双胍降糖治疗基础上，比较不同剂量 TZP 与安慰剂的疗效。结果显示 $5 \\mathrm { m g / 1 0 \\mathrm { m g / 1 5 \\mathrm { m g } } }$ TZP和安慰剂组分别使受试者的 HbA1c 降低了 $2 . 2 3 \\%$ 、 $2 . 5 9 \\%$ 、 $2 . 5 9 \\%$ 和 $0 . 9 3 \\%$ 。与安慰剂相比，TZP组 $\\mathrm { H b A l c } { < } 7 \\%$ 的比例更高（ $8 5 \\% - 9 0 \\%$ VS $34 \\%$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一项研究[29]对 TZP及 $2 \\mathrm { m g }$ 司美格鲁肽的疗效进行了比较。在40 周时，5mg TZP在降低 HbAlc 与 $2 \\mathrm { m g }$ 司美格鲁肽之间没有显著差异， $1 0 \\mathrm { m g }$ 和 $1 5 \\mathrm { m g }$ 的 TZP 较 $2 \\mathrm { m g }$ 司美格鲁肽能显著降低 HbAlc。另一研究[30]对比发现使用大剂量GLP-1 受体激动剂的患者 HbA1c目标可达 $80 \\%$ ，而使用 TZP 的患者 HbA1c 可达 $9 7 \\%$ ，且 $62 \\%$ 的患者 HbA1c$< 5 . 7 \\%$ 以下。SURPASS-AP-Combo[31]评估了在二甲双胍基础上联用或不联用磺脲类药物的 T2DM 患者使用不同剂量TZP与甘精胰岛素治疗的疗效差异，结果显示$5 \\mathrm { m g / 1 0 \\mathrm { m g / 1 5 \\mathrm { m g } } }$ TZP 和甘精胰岛素组分别使受试者的 HbAlc 降低了 $2 . 4 2 \\%$ 、 $2 . 4 3 \\%$ 、$2 . 4 9 \\%$ 和 $0 . 9 5 \\%$ ， $\\mathrm { H b A l c } < 7 \\%$ 的比例更高（ $7 5 . 6 \\% 8 4 . 9 \\%$ VS $23 . 7 \\%$ ）。综合以上研究可以认为5mg TZP与 $2 \\mathrm { m g }$ 司美格鲁肽降糖疗效无显著差异，其他剂量的 TZP 降糖疗效均高于当前降糖药物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2肥胖症在减重方面：SURPASS-1[24]显示 $5 \\mathrm { m g } / 1 0 \\mathrm { m g } / 1 5 \\mathrm { m g } \\mathrm { T Z P }$ 组和安慰剂组降低受试者体重分别为 $7 . 0 \\mathrm { k g }$ 、 $7 . 8 \\mathrm { k g }$ 、 $9 . 5 \\mathrm { k g }$ 和 $0 . 7 \\mathrm { k g }$ ；SURPASS-2[25]显示 $\\mathrm { 5 m g / 1 0 m g / 1 5 m g }$ TZP 组和司美格鲁肽组降低受试者体重分别为 $7 . 8 \\mathrm { k g }$ 、 $1 0 . 3 \\mathrm { k g }$ 、 $1 2 . 4 \\mathrm { k g }$ 和 $6 . 2 \\mathrm { k g }$ ，且 $1 5 \\mathrm { m g \\ T Z P }$ 组实现体重下降 $\\geq 1 5 \\%$ 的患者高达 $40 \\%$ 。 SURPASS- $\\cdot 3 ^ { [ 2 6 ] }$ 显示 $5 \\mathrm { m g / 1 0 \\mathrm { m g / 1 5 \\mathrm { m g } \\mathrm { \\Omega } } ^ { \\prime } }$ TZP 组降低受试者体重分别为 $7 . 8 \\mathrm { k g }$ 、 $1 0 . 3 \\mathrm { k g }$ 、 $1 2 . 4 \\mathrm { k g }$ ，而德谷胰岛素组则增加了 $2 . 3 \\mathrm { k g }$ 。基于 SURPASS-3 的亚组分析[32]显示，相较于德谷胰岛素，TZP 组肝脏脂肪含量、内脏脂肪组织体积和腹部皮下脂肪组织显著减少。SURPASS-4[27]显示 $\\mathrm { 5 m g / 1 0 m g / 1 5 m g }$ TZP 组降低受试者体重分别为 $7 . 1 \\mathrm { k g } .$ $9 . 5 \\mathrm { k g }$ ， $1 1 . 7 \\mathrm { k g }$ ，而甘精胰岛素组增加了 $1 . 9 \\mathrm { k g }$ 。 SURPASS- $\\cdot 5 ^ { [ 2 8 ] }$ 显示 $5 \\mathrm { m g } / 1 0 \\mathrm { m g } / 1 5 \\mathrm { m g } \\mathrm { T Z P }$ 组和安慰剂组降低受试者体重分别为 $6 . 2 \\mathrm { k g }$ 、 $8 . 2 \\mathrm { k g }$ 、 $1 0 . 9 \\mathrm { k g }$ 和 $1 . 7 \\mathrm { k g }$ 。SURPASS-AP-Combo[31]显示 $5 \\mathrm { m g / 1 0 \\mathrm { m g / 1 5 \\mathrm { m g ~ T Z } } }$ P 组和甘精胰岛素组降低受试者体重分别为 $5 . 0 \\mathrm { k g }$ 、 $7 . 0 \\mathrm { k g }$ 、 $7 . 2 \\mathrm { k g }$ ，而甘精胰岛素组体重增加了 $1 . 5 \\mathrm { k g }$ 。以上受试者均为T2DM患者，TZP 降低T2DM体重呈剂量依赖性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SURMOUNT-1[33]是TZP在肥胖或超重的非 T2DM患者中开展的首个全球 II期临床研究，显示 $\\mathrm { 5 m g / 1 0 m g / 1 5 m g }$ TZP 组和安慰剂组降低受试者体重分别为16kg、 $2 2 \\mathrm { k g }$ 、 $2 4 \\mathrm { k g }$ 和$2 \\mathrm { k g }$ 。此外，TZP 组 $89 \\%$ ( $5 \\mathrm { m g }$ ）和 $96 \\%$ ( $1 0 \\mathrm { m g }$ 和 $1 5 \\mathrm { m g }$ ）受试者达到了至少 $5 \\%$ 的体重减轻，安慰剂组仅 $28 \\%$ ；有 $5 5 \\% ( 1 0 \\mathrm { m g } )$ 和 $6 3 \\% ( 1 5 \\mathrm { m g } )$ 的TZP受试者体重至少降低了 $20 \\%$ 安慰剂组仅 $1 . 3 \\%$ 。与基线相比腰围变化： $5 \\mathrm { m g } / 1 0 \\mathrm { m g } / 1 5 \\mathrm { m g ~ T Z P }$ 组和安慰剂组分别降低了$1 4 . 6 \\mathrm { c m }$ 、 $1 9 . 4 \\mathrm { c m }$ 、 $1 9 . 9 \\mathrm { c m }$ 和 $3 . 4 \\mathrm { c m }$ 。TZP的受试者的脂肪质量百分比也比瘦体质量减少了约3倍（脂肪质量减少了 $3 3 . 9 \\%$ ，而瘦体质量减少了 $10 . 9 \\%$ ）。研究进一步分析得出，相较于司美格鲁肽降低收缩压 $6 . 2 \\mathrm { m m H g } /$ 舒张压 $2 . 8 3 \\mathrm { m m H g }$ ，TZP 可分别降低收缩压/舒张压$7 . 2 \\mathrm { m m H g }$ 和 $4 . 8 \\mathrm { m m H g }$ 。TZP主要降糖、减重临床研究结果总结见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3心血管风险相关疾病SURPASS-CVOT 研究[34]是 TZP 的全球III期心血管结局试验，是全球首个采用获得心血管获益证据的降糖药作为活性对照药物的大型CVOT，旨在评估TZP 相较于度拉糖肽在心血管结局中的非劣效性及优效性。该研究正在全球多个中心展开，也囊括了中国20多家医院，研究预计于2024年完成[35]。一项荟萃分析[36纳入了 SURPASS公布的7项随机对照试验，旨在比较合并的TZP组和对照组之间首次发生的四项主要不良心血管事件（MACE-4：心血管死亡、心肌梗死、卒中和需要住院的不稳定型心绞痛）的发生时间。结果显示TZP与对照组相比MACE-4的HR为0.80（ $9 5 \\% C \\mathrm { I }$ ，0.57-1.11），心血管死亡为0.90（ $9 5 \\% C \\mathrm { I }$ ，0.50-1.61），全因死亡为0.80（ $9 5 \\% C \\mathrm { I }$ ，0.51-1.25）。表明了TZP并未增加T2DM受试者发生主要心血管事件的风险。Patoulias 等[37]对使用TZP的房颤风险进行分析，结果显示TZP不会增加T2DM患者发生房颤的风险。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GLP-1受体激动剂已被证明可以减少脂蛋白和乳糜粒的产生，以及餐后甘油三酯、极低密度脂蛋白胆固醇和游离脂肪酸的产生[38]，但影响的幅度并不大。长期服用GIP 受体激动剂对血脂的影响尚不清楚[23]。尽管机制尚不完全清楚，在人体中输注GIP 和GIP 受体拮抗剂表明GIP 受体激活增加了脂肪组织的血流并促进了脂肪组织的脂肪摄取[39][40]。一项研究证明，TZP 对血浆甘油三酯的影响明显大于GLP-1受体激动剂的影响[16]。另一项研究[41]指出 TZP 能降低 apoC-III 和 apoB 水平以及大的 TRLP 和小的 LDLP 的数量，且呈剂量依赖性，提示致动脉粥样硬化的脂蛋白谱有净改善；但研究作为一项事后分析，各组的生物标记物不完全匹配，存在一定的局限性。基于 SURPASS-2的事后分析[42]发现在26周时，TZP 降低了如YKL-40、ICAM-1、hsCRP等几个与心血管风险相关的生物标记物。基于多项获益，TZP 被认为是具有心脏代谢治疗的重要前景药物[43]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4NASH一项事后分析研究[44]考察了TZP 和度拉糖肽对NASH和纤维化生物标志物的影响，显示大剂量TZP可显著降低NASH相关生物标志物如ALT、AST、CK-18、III型前胶原，升高脂联素。Synergy-NASH[45]是一项随机、双盲、安慰剂对照的2 期研究，旨在比较TZP对NASH患者的疗效和安全性，该研究预计在2023年12月完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa7c1d1496fe354e1c3ee6fc13c72c8d9331234af3106c433402bdbc1d05b3b4.jpg",
+        "table_caption": [
+            "表1tirzepatide主要降糖、减重临床研究结果总结",
+            "Table 1Summary of the main clinical research results of tirzepatide in hypoglycemic and weight loss "
+        ],
+        "table_footnote": [
+            "te CVOT studies have not yet been completed)。 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td rowspan=\"2\">研究简称</td><td rowspan=\"2\">NCT编号</td><td rowspan=\"2\">类型</td><td rowspan=\"2\">患者人群</td><td rowspan=\"2\">入组例数</td><td rowspan=\"2\">研究周期</td><td rowspan=\"2\">对照组</td><td rowspan=\"2\"></td><td colspan=\"5\">降低 HbAlc 能力/%</td><td colspan=\"3\">降低体重能力/kg</td></tr><tr><td>5mg 10mg</td><td></td><td>15mg</td><td>对照组</td><td>5mg</td><td>10mg</td><td>15mg</td><td>对照组</td></tr><tr><td></td><td>SURPASS-1</td><td>NCT03954834</td><td>双盲</td><td>T2DM，饮食/运动</td><td></td><td>478 40周</td><td></td><td>安慰剂</td><td>1.87 1.89</td><td></td><td>2.07</td><td>0.04</td><td>7.0</td><td>7.8</td><td>9.5</td><td>0.7</td></tr><tr><td>2</td><td>SURPASS-2</td><td>NCT03987919</td><td>开放标签</td><td>T2DM，二甲双胍治疗</td><td></td><td>1879</td><td>40周</td><td>司美格鲁肽</td><td>2.09</td><td>2.37</td><td>2.46</td><td>1.86</td><td>7.8</td><td>10.3</td><td>12.4</td><td>6.2</td></tr><tr><td>3</td><td>SURPASS-3</td><td>NCT03882970</td><td>开放标签</td><td>T2DM，二甲双胍±SGLT2i 治疗</td><td></td><td>1444</td><td>52周</td><td>德谷胰岛素</td><td>1.93</td><td>2.20</td><td>2.37</td><td>1.34</td><td>7.5</td><td>10.7</td><td>12.9</td><td>+2.3</td></tr><tr><td></td><td>SURPASS-4</td><td>NCT03730662</td><td>开放标签</td><td>T2DM，1-3种口服降糖药 （二甲双胍、SGLT2i，SUs）</td><td></td><td>1989</td><td>52周</td><td>甘精胰岛素</td><td>2.24</td><td>2.43</td><td>2.58</td><td>1.44</td><td>7.1</td><td>9.5</td><td>11.7</td><td>+1.9</td></tr><tr><td></td><td>SURPASS-5</td><td>NCT04039503</td><td>双盲</td><td>T2DM，甘精胰岛素±二甲双胍</td><td></td><td>475</td><td>40周</td><td>安慰剂</td><td>2.23</td><td>2.59</td><td>2.59</td><td>0.93</td><td>6.2</td><td>8.2</td><td>10.9</td><td>+1.7</td></tr><tr><td></td><td>SURPASS-P.COHo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0000</td><td></td><td>NCT098757</td><td>开放标签</td><td>TDM，用口服降</td><td></td><td>456</td><td>40周</td><td>甘精晚岛素</td><td>2.24</td><td>28</td><td>249</td><td></td><td>5038</td><td>705</td><td>20</td><td>+15</td></tr><tr><td>10</td><td>SURPASS-J-mono</td><td>NCT03861052</td><td>双盲</td><td>T2DM，单用或联用口服降糖药</td><td></td><td>636</td><td>52周</td><td>度拉糖肽（0.75mg）</td><td>2.37 2.55</td><td></td><td>2.82</td><td>1.29</td><td>5.8</td><td>8.5</td><td>10.5</td><td>0.5</td></tr><tr><td>:</td><td>SURMOUNT-1</td><td>NCT04184622</td><td>开放标签</td><td>非 T2DM，肥胖或超重</td><td></td><td>2539</td><td>72周</td><td>安慰剂</td><td></td><td></td><td></td><td></td><td>16</td><td>22</td><td>24</td><td>2</td></tr><tr><td>6</td><td>SURPASS-6</td><td>NCT04539723</td><td>开放标签</td><td>T2DM，甘精胰岛素±二甲双胍</td><td></td><td>1182</td><td>52周</td><td>赖脯胰岛素</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X\"</td><td>SURPASS-CVOT</td><td>NCT04255433</td><td>双盲</td><td>T2DM，确诊动脉粥样硬化性心血管疾病</td><td></td><td>12500</td><td>最大54月</td><td>度拉糖肽（1.5mg）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4安全性与耐受性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 TZP 总体安全性与耐受性TZP 的总体安全性和耐受性与GLP-1 受体激动剂相似[46]。最常见的不良事件是胃肠道相关不良反应，通常为轻度至中度，通常发生在剂量递增期间，如恶心、腹泻和便秘，一般不会导致停药[47]，未发现明显低血糖不良反应。TZP在日本人群[8][48]降糖疗效和安全性、PK/PD 特征与在欧美人群中观察到的一致，并无种族差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SURPASS-系列研究中TZP最常见的不良事件是轻中度和短暂的胃肠道事件，包括恶心、腹泻和呕吐。与德谷胰岛素组相比，接受TZP治疗的受试者的恶心( $12 . 2 4 \\%$ ）、腹泻 $( 1 5 . 1 7 \\%$ ）、食欲下降（ $6 . 1 2 \\%$ ）和呕吐（ $6 . 1 0 \\%$ ）的发生率更高。与司美格鲁肽组 $0 . 4 \\%$ 相比，严重低血糖事件（血糖 ${ < } 3 . 0 \\mathrm { m m o l / L }$ ）在 $5 \\mathrm { m g / 1 0 \\mathrm { m g / 1 5 m g ~ T Z F } }$ 组的发生率分别为 $0 . 6 \\%$ 、 $0 . 2 \\%$ 、 $1 . 7 \\%$ 。$5 \\mathrm { m g / 1 0 \\mathrm { m g / 1 5 \\mathrm { m g ~ T Z I } } }$ ）组因不良事件导致的治疗中断率为 $4 . 3 \\%$ 、 $7 . 1 \\%$ 、 $6 . 2 \\%$ ，安慰剂组为$2 . 6 \\% ^ { [ 3 3 ] }$ 。Frias 等[49]比较TZP三种不同剂量递增方案和安慰剂恶心发生率。12周时，安慰剂组恶心发生率 $7 . 7 \\%$ ，TZP 治疗组发生率分别为 $1 2 \\mathrm { m g }$ （0\\~3周 $4 \\mathrm { m g }$ ；4\\~7周 $\\mathrm { 8 m g }$ ；8\\~11周$1 2 \\mathrm { m g }$ ）组， $2 4 . 1 \\%$ ； $1 5 \\mathrm { m g - 1 }$ （0\\~1周 $2 . 5 \\mathrm { m g }$ ；2\\~3周 $5 \\mathrm { m g }$ ；4\\~7周 $1 0 \\mathrm { m g }$ ；8\\~11周 $1 5 \\mathrm { m g }$ ），$3 9 . 3 \\%$ ；15mg-2（0\\~3周 $2 . 5 \\mathrm { m g }$ ；4\\~7周 $7 . 5 \\mathrm { m g }$ ; $_ { 8 \\sim 1 1 }$ 周 $1 5 \\mathrm { m g }$ ）， $3 5 . 7 \\%$ 。表明较低的起始剂量和较小的剂量增量有利于减少药物副作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2TZP 对肾功能的影响SURPASS-4[27显示TZP表现出肾脏保护作用，有助于延缓已伴有心血管风险T2DM患者的慢性肾脏疾病进展；与接受胰岛素治疗的受试者相比，TZP 组受试者的肾脏并发症更少。其中，新发大量蛋白尿的发生率TZP 组明显更低（ $\\scriptstyle \\mathrm { H R = 0 } . 4 1 \\$ ）；此外，在T2DM合并心血管高风险患者中，TZP 可降低CKD进展的风险标志——肾功能丧失率和尿蛋白排泄量。Urva 等研究[50探讨了不同肾功能损害情况下TZP 的药动学影响，研究将患者按基础肾功能分为轻度组（eGFR $6 0 { \\sim } 8 9 \\mathrm { m L } / \\mathrm { m i n } / 1 . 7 3 \\mathrm { m } ^ { 2 }$ ）、中度组（eGFR$3 0 { \\sim } 5 9 \\mathrm { m L / m i n / 1 } . 7 3 \\mathrm { m } ^ { 2 } .$ ）、重度肾损害组 $\\scriptstyle \\mathrm { ' e G F R } < 3 0 \\mathrm { m L } / \\mathrm { m i n } / 1 . 7 3 \\mathrm { m } ^ { 2 } )$ 、终末期肾病患者组和肾功能正常组（ $\\mathrm { \\langle e G F R { \\gtrsim } 9 0 m L / m i n / 1 . 7 3 m ^ { 2 } } \\$ ）。分析评价各肾功能损害组的血药浓度-时间曲线下面积（AUCs）和最大血药浓度（ $\\mathrm { \\langle C _ { m a x } }$ ）与肾功能正常组的比值。结果显示肾功能损害组和健康受试者之间的TZP暴露情况相似。除中度肾损害组AUC 增加 $2 5 \\% - 2 9 \\%$ 外，各肾损害组与正常肾功能比较AUC和 $\\mathrm { { C } _ { \\mathrm { { m a x } } } }$ 比值的 $90 \\%$ 可信区间均为1，TZP暴露与eGFR之间没有明显的关系。研究认为TZP药动学无肾损害的临床相关效应，对于肾功能受损的患者，可能不需要调整剂量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3TZP 对肝功能的影响Urva等[51]又进一步评估了肝损害的受试者与肝功能正常的健康受试者的 TZP 的药代动力学和耐受性。受试者按肝功能损害的基线Child-Pugh 评分A（轻度损害）、B（中度损害）、C（严重损害）或正常肝功能进行分类，均给予单次皮下注射5mg TZP。结果TZP在对照组和肝损害组的 $\\mathrm { \\ A U C _ { 0 - \\infty } }$ 和 $\\mathrm { { C } _ { \\mathrm { { m a x } } } }$ 是相似的，各组血清白蛋白水平、总胆红素水平或国际标准化比率之间没有临床相关性。在肝损害受试者和健康对照组受试者之间，没有观察到显著的安全性差异。研究认为TZP在肝损害的患者可能不需要调整剂量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为一种新型降糖药 TZP 显示了良好的降糖及减重作用，且初步证实对 T2DM 合并CVD 或CKD 患者具有临床获益，进一步弥补了现有降糖药的不足，满足了更多T2DM患者的需求，在降糖、减重、心血管风险相关事件等领域临床应用前景广阔。期待 TZP 这一优秀的新型降糖药物能够尽快应用于临床，为广大的中国T2DM患者带来更多的降糖治疗选择。从TZP的作用机制上分析，单独应用TZP低血糖发生率很低，这也是TZP治疗组HbAlc达标率较高的原因之一，但在临床应用中也应该注意与胰岛素促泌剂或胰岛素联合治疗时，需要及时调整上述两类药物的剂量，以避免低血糖事件发生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TZP 暂未在我国上市，同时在国外临床应用时间短，今后应加强其安全性、有效性、经济性、药物相互作用、特殊人群用药等研究。当前TZP 仍有许多临床问题未得到解答，如其长期的疗效和安全性仍需进一步探索，包括更长的随访数据和关于心血管效应的信息；GLP-1受体激动剂有额外的临床获益，TZP是否也有这些额外获益也值得研究。这些问题有待来自随机对照临床试验和真实世界研究的证据进行阐释，从而为其临床合理应用提供强有力支持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献：张丽娜，李友佳提出文章的构思与设计；张丽娜、王岩负责文献/资料与数据的收集与整理；张丽娜负责论文撰写与修订；张抗怀，李友佳负责文章的可行性分析、论文的修订；李友佳负责文章的质量控制及审校，并对文章整体负责，监督管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文无利益冲突。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文文献检索策略：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "计算机检索 PubMed、WebofScience、中国知网、万方数据知识服务平台等数据库，并手工检索纳入文献的参考文献，检索时间为建库至2022年6月，中文检索词包括“替西帕肽”，英文检索词包括“tirzepatide”“LY3298176”。文献纳入的标准：tirzepatide 的临床研究、基础研究和文献研究。文献排除的标准：重复发表的文献、无法获取全文和数据的文献、年份陈旧、质量较差的文献等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] INTERNATIONAL DIABETES FEDERATION. Diabetes is spiralling out of control. [EB/OL]. (202 1-12-07） [2022-06-25] https://diabetesatlas.org/.   \n[2] 杨晓蕾，杜婉笛，刘烨，等．新型降糖药卡格列净的临床研究进展[J/OL]．中国医院药学杂志：1-5（2 022-06-23）[2022-06-27]． http://kns.cnki.net/kcms/detail/42.1204.R.20220622.1707.002.html. YANG X L, DU W D, LIU Y, et al. Research progress of the new hypoglycemic drug canagliflozi n[J/OL].Chin J Hosp Pharm:1-5（2022-06-23）[2022-06-27]. htp:/kns.cnki.net/kcms/detail/42.1204. R.20220622.1707.002.html.   \n[3] 李莎，张丽娜，谢姣，等．度拉糖肽致不良反应文献分析[J]．中国医院药学杂志，2022，42(9)：930 -934．DOI: 10.13286/j.1001-5213.2022.09.11. LI S,ZHANG L N, XIE J, et al. Literature analysis of adverse drug reactions induced by dulaglut ide[J].Chin JHosp Pharm,2022,42(9):930-934.   \n[4] 史雨清，杨昱，李宸，等．Tirzepatide：一种新型GLP-1/GIP 双受体激动剂[J]．国际内分泌代谢杂志， 2021，41(6): 645-648．D0I:10.13286/j.1001-5213.2022.09.11. SHI Y Q, YANG Y, LI C,et al. Tirzepatide: a novel GLP-1/GIP dual receptor agonist[J]. Int J En docrinol Metab,2021,41(6):645-648.   \n[5] Bailey C J.GIP analoguesand the treatment of obesity-diabetes[J].Peptides，2020,125:170202.D OI: 10.1016/j.peptides.2019.170202.   \n[6] Coskun T, Sloop K W, Loghin C,et al. LY3298176,a novel dual GIP and GLP-1 receptor agonist for the treatment of type 2 diabetes melitus: from discovery to clinical proof of concept[J]. Mol Metab,2018,18:3-14.DOI:10.1016/j.molmet.2018.09.009.   \n[7] Ryan D H. Next Generation Antiobesity Medications: Setmelanotide, Semaglutide, Tirzepatide and B imagrumab:What do They Mean for Clinical Practice?[J].J Obes Metab Syndr,2021,30(3):196-2 08.DOI: 10.7570/jomes21033.   \n[8] Ohwaki K,Furihata K,Mimura H,et al. Effect of Tirzepatide,a Dual GIP and GLP-1 Receptor A gonist,on Glycemic Control and Body Weight in Japanese Patients with T2DM[J]. Diabetes,2019, 68(S1): 1024.DOI: 10.2337/db19-1024-P.   \n[9] Frias JP. Tirzepatide: a glucose-dependent insulinotropic polypeptide (GIP） and glucagon-like peptid e-1(GLP-1） dual agonist in development for the treatment of type 2 diabetes[J].Expert Review of Endocrinol0gy & Metabolism,2020,15:6,379-394.DOI: 10.1080/17446651.2020.1830759.   \n[10]Pelle M C,Provenzano M, Zafina I,et al. Role of a Dual Glucose-Dependent Insulinotropic Pepti de(GIP)/Glucagon-like Peptide-1 Receptor Agonist(Twincretin)in Glycemic Control:From Pathophysiol ogy to Treatment[J].Life(Basel),2021,12(1):29.DOI:10.3390/life12010029.   \n[11]Mayendraraj A,Rosenkilde M M, Gasbjerg L S. GLP-1 and GIP receptor signaling in beta cells-A review of receptor interactions and co-stimulation[J].Peptides, 2022,151: 170749. DOI: 10.1016/j.p eptides.2022.170749.   \n[12]Yuliantie,E,Darbalaei S,Dai A,et al. Pharmacological characterization of mono-,dual- and tri-pe ptidic agonists at GIP and GLP-1 receptors[J]. Biochem Pharmacol,2020,177 :114001．DOI: 10.10 16/j.bcp.2020.114001.   \n[13]Samms R J, Coghlan M P, Sloop KW. How may GIP enhance the therapeutic efficacy of GLP-1 T rends[J]. Endocrinol Metab,2020,31:410-421．DOI: 10.1016/j.tem.2020.02.006.   \n[14]Zhang Q, Delessa C T, Augustin R, et al. The glucose-dependent insulinotropic polypeptide(GIP)reg ulates body weight and food intake via CNS-GIPR signaling[J]. Cell Metab,2021，33(4): 833-844. DOI: 10.1016/j.cmet.2021.01.015.   \n[15]Christensen M, Vedtofte L，Holst J J，et al. Glucose-dependent insulinotropic polypeptide:a bifunctio nal glucose-dependent regulator of glucagon and insulin secretion in humans[J]. Diabetes,2011，60: 3103-3109.DOI: 10.2337/db11-0979.   \n[16]Frias JP, Nauck M A, Van J,et al. Efficacy and safety of LY3298176,a novel dual GIP and GL P-1 receptor agonist, in patients with type 2 diabetes: a randomised,placebo-controlled and active c omparator-controlled phase 2 trial[J].Lancet, 2018,392:2180-2193．DOI: 10.1016/S0140-6736(18)3 2260-8.   \n[17]Hayes M R,Borner T,De Jonghe.The role of GIP in the regulation of GLP-1 satiety and nausea [J].Diabetes,2021，70(9):1956-1961．DOI: 10.2337/dbi21-0004.   \n[18]Thomas M K, Nikooienejad A,Bray R,et al. Dual GIP and GLP-1 Receptor Agonist Tirzepatide I mproves Beta-cell Function and Insulin Sensitivity in Type 2 Diabetes[J].J Clin Endocrinol Metab, 2021，106(2): 388-396.DOI: 10.1210/clinem/dgaa863.   \n[19]Tim Heise. Tirzepatide mechanism of action: effects on endocrine function and insulin resistance in patients with type 2 diabetes.A Clamp Study. 57th EASD symposium presentation.   \n[20]Nauck M A, Quast D R,Wefers J,et al. The evolving story of incretins (GIP and GLP-1） in met abolic and cardiovascular disease: a pathophysiological update[J]. Diabetes Obes Metab, 2021,23(S 3): 5-29. DOI: 10.1111/dom.14496.   \n[21]Willard F S,Douros JD,Gabe M B,et al. Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor agonist[J]. JCI Insight,2020,5: e140532.DOI: 10.1172/jci.insight.140532.   \n[22]Sun B,Willard F S,Feng D,et al. Structural determinants of dual incretin receptor agonism by tir zepatide[J].Proc Natl Acad Sci U S A.2022,119(13): e2116506119.DOI: 10.1073/pnas.211650611 9.   \n[23]Mathiesen D S,Bagger JI, Bergmann N C,et al. The effects of dual GLP-1/GIP receptor agonis m on glucagon secretion—a review[J]. Int J Mol Sci, 2019,20(17): 4092. DOI: 10.3390/ijms20174 092.   \n[24]Rosenstock J，Wysham C,Frias JP,et al. Eficacy and safety of a novel dual GIP and GLP-1 rec eptor agonist tirzepatide in patients with type 2 diabetes (SURPASS-1): a double-blind,randomised, phase 3 trial[J].Lancet,2021,398(10295): 143-155.DOI: 10.1016/S0140-6736(21)01324-6.   \n[25]Frias JP, Davies M J, Rosenstock J,et al. SURPASS-2 Investigators. Tirzepatide versus Semaglutid e Once Weekly in Patients with Type 2 Diabetes[J]. N Engl J Med,2021,385(6): 503-515.DOI: 10.1056/NEJMoa2107519.   \n[26]Ludvik B,Giorgino F, Jodar E,et al. Once-weekly tirzepatide versus once-daily insulin degludec as add-on to metformin with or without SGLT2 inhibitors in patients with type 2 diabetes (SURPASS -3): a randomised,open-label,parallel-group,phase 3 trial[J].Lancet，2021，398(10300): 583-598.D OI: 10.1016/S0140-6736(21)01443-4.   \n[27]Del Prato S,Kahn S E, Pavo I, et al. SURPASS-4 Investigators. Tirzepatide versus insulin glargine in type 2 diabetes and increased cardiovascular risk (SURPASS-4): a randomised,open-label, parall el-group,multicentre,phase 3 trial[J]. Lancet,2021,398(10313): 1811-1824.DOI: 10.1016/S0140-67 36(21)02188-7.   \n[28]Dahl D,Onishi Y,Norwood P,et al.Efect of Subcutaneous Tirzepatide vs Placebo Added to Titra ted Insulin Glargine on Glycemic Control in Patients With Type 2 Diabetes: The SURPASS-5 Rand omized Clinical Trial[J]. JAMA,2022,327(6):534-545.DOI: 10.1001/jama.2022.0078.   \n[29]Vadher K,Patel H,Mody R,et al. Efficacy of tirzepatide 5,10 and $1 5 \\mathrm { m g }$ versus semaglutide 2 mg in patients with type 2 diabetes: An adjusted indirect treatment comparison[J]. Diabetes Obes Metab,2022,24(9): 1861-1868.DOI: 10.1111/dom.14775.   \n[30]De Block C, Dirinck E， Verhaegen A,et al. Eficacy and safety of high-dose glucagon-like peptide -1，glucagon-like peptide-1/glucose-dependent insulinotropic peptide,and glucagon-like peptide-1/gluc agon receptor agonists in type 2 diabetes[J]. Diabetes Obes Metab,2022,24(5): 788-805.DOI: 10. 1111/dom.14640.   \n[31]ClinicalTrials.gov Identifier: NCT04093752．Accessed July 22,2021.   \n[32]Gastaldelli A, Cusi K,Fernandez Landó L,et al.Efect of tirzepatide versus insulin degludec on li ver fat content and abdominal adipose tissue in people with type 2 diabetes (SURPASS-3 MRI):a substudyof the randomised,open-label,paralel-group， phase 3 SURPASS-3 trial[J]. Lancet Diabetes Endocrinol, 2022, 10(6): 393-406.DOI: 10.1016/S2213-8587(22)00070-5.   \n[33]Jastreboff A M,Aronne L J,Ahmad N N, et al. SURMOUNT-1 Investigators. Tirzepatide Once W eekly for the Treatment of Obesity[J].N Engl JMed,2022，387(3):205-216.DOI: 10.1056/NEJM oa2206038.   \n[34]ClinicalTrials.gov Identifier: NCT03861052.Accessed July 22,2021.   \n[35]Khoo B,Tan T M. Surpassing insulin glargine in type 2 diabetes with tirzepatide[J].Lancet, 2021, 398(10313):1779-1781. DOI: 10.1016/S0140-6736(21)02279-0.   \n[36]Satar N, McGuire D K,Pavo I, et al. Tirzepatide cardiovascular event risk assessment: a pre-speci fied meta-analysis[J]. Nat Med,2022,28(3): 591-598.DOI: 10.1038/s41591-022-01707-4.   \n[37]Patoulias D, Doumas M,Papadopoulos C. Meta-Analysis Assessing the Effect of Tirzepatide on the Risk for Atrial Fibrillation in Patients With Type 2 Diabetes Mellitus[J].Am J Cardiol,2022,173: 157-158. DOI: 10.1016/j.amjcard.2022.03.042.   \n[38]Matikainen N, Soderlund S,Bjornson E,et al. Liraglutide treatment improves postprandial lipid met abolism and cardiometabolic risk factors in humans with adequately controlled type 2 diabetes: a si ngle Centre randomized controlled study[J]. Diabetes Obes Metab,2019,21(1): 84-94. DOI: 10.111 1/dom.13487.   \n[39]Asmar M,Asmar A, Simonsen L,et al.GIP-induced vasodilation in human adipose tissue involves capillary recruitment[J]. Endocr Connect, 2019,8(6): 806-813.DOI: 10.1530/EC-19-0144.   \n[40]Asmar M,Asmar A, Simonsen L,et al. The gluco- and liporegulatory and vasodilatory effects of glucose-dependent insulinotropic poly-peptide (GIP） are abolished by an antagonist of the human GI P receptor[J].Diabetes,2017,66(9): 2363-2371.DOI: 10.2337/db17-0480.   \n[41]Wilson JM, Nikooienejad A,Robins D A,et al. The dual glucose-dependent insulinotropic peptide and glucagon-like peptide-1 receptor agonist, tirzepatide,improves lipoprotein biomarkers associated with insulin resistance and cardiovascular risk in patients with type 2 diabetes[J].Diabetes Obes Metab,2020,22(12): 2451-2459.DOI:10.1111/dom.14174.   \n[42]Wilson JM,Lin Y,Luo M J,et al. The dual glucose-dependent insulinotropic polypeptide and glu cagon-like peptide-1 receptor agonist tirzepatide improves cardiovascular risk biomarkers in patients with type 2 diabetes:A post hoc analysis[J].Diabetes Obes Metab,2022,24(1):148-153.DOI: 10. 1111/dom.14553.   \n[43]Fisman E Z, Tenenbaum A.The dual glucose-dependent insulinotropic polypeptide (GIP） and gluca gon-like peptide-1 (GLP-1） receptor agonist tirzepatide: a novel cardiometabolic therapeutic prospect [J].Cardiovasc Diabetol,2021,20(1): 225．DOI: 10.1186/s12933-021-01412-5.   \n[44]Hartman M L,Sanyal A J，Loomba R,et al. Effects of Novel Dual GIP and GLP-1 Receptor Ago nist Tirzepatide on Biomarkers of Nonalcoholic Steatohepatitis in Patients With Type 2 Diabetes[J]. Diabetes Care,2020,43(6): 1352-1355.DOI: 10.2337/dc19-1892.   \n[45]ClincalTrial.gov.A study of tirzepatide (LY3298176) in participants with nonalcoholic steatohepatitis (NASH) (SYNERGY-NASH)[EB/OL]. (2019-11-18)[2022-09-09]. htps://linicaltrials.gov/ct2/show/NC T04166773.   \n[46]Bhagavathula A S,Vidyasagar K, Tesfaye W. Eficacy and Safety of Tirzepatide in Patients with T ype 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis of Randomized Phase II/II Trials [J].Pharmaceuticals (Basel),2021,14(10):991．DOI:10.3390/ph14100991.   \n[47]Yanovski S Z, Yanovski JA. Progress in Pharmacotherapy for Obesity[J]. JAMA,2021,326(2):12 9-130.DOI: 10.1001/jama.2021.9486.   \n[48]Furihata K,Mimura H, Urva S,et al. A phase 1 multiple-ascending dose study of tirzepatide in Ja panese participants with type 2 diabetes[J]. Diabetes Obes Metab,2022，24(2): 239-246. DOI: 10.11 11/dom.14572.   \n[49]Frias JP, Nauck M A, Van J,et al. Efcacy and tolerabilityof tirzepatide,a dual glucose-depende nt insulinotropic peptide and glucagon-like peptide-l receptor agonist in patients with type 2 diabete s: A12-week,randomized,double-blind,placebo-controlled study to evaluate different dose-escalatio n regimens[J].Diabetes Obes Metab,2020,22(6):938-946.DOI: 10.1111/dom.13979.   \n[50]Urva S, Quinlan T,Landry J,et al. Efects of renal impairment on the pharmacokinetics of the du al GIP and GLP-1 receptor agonist Tirzepatide[J]. Clin Pharmacokinet,2021,60 (8):1049-1059.D OI: 10.1007/s40262-021-01012-2.   \n[51]Urva S,Quinlan T,Landry J,et al. Effects of Hepatic Impairment on the Pharmacokinetics of the Dual GIP and GLP-1 Receptor Agonist Tirzepatide[J]. Clin Pharmacokinet,2022,61(7):1057-1067. DOI:10.1007/s40262-022-01140-3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

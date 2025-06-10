@@ -1,0 +1,284 @@
+[
+    {
+        "type": "text",
+        "text": "Solid-state Synthesis, Crystal and Band Structures, and Optical Properties of a Novel Ternary Sulfide EuzGa2S5 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GONG An-Hua(龚安华);SUN Yue-Ling (孙岳玲) College of Chemical Engineering, Yangzhou Polytechnic Institute, Yangzhou 225127, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTOne new ternary europium gallium sulfide, $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ ，has been synthesized by a facile solid-state route with boron as the reducing reagent. It crystalizes in the orthorhombic space group Pbca, with $a = 1 1 . 9 7 6 ( 1 )$ ， $b = 1 1 . 0 7 4$ (1), $c = 1 7 . 4 4 6 ( 1 )$ A, $V = 1 6 5 0 . 6 ( 3 ) \\mathring { \\mathrm { A } } ^ { 3 }$ ,and $Z = 8$ Its $3 { - } D$ structure is built by the connection between $\\mathrm { E u S } _ { 7 }$ monocapped trigonal prisms and $\\mathrm { G a S } _ { 4 }$ tetrahedra, and the latter connect with each other to form layer-like slabs. Its optical energy gap is determined to be $2 . 1 7 \\ \\mathrm { e V } ,$ which is also verified by the electronic band structure calculation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: rare-earth sulfide;solid-state reaction;crystal structure, band gap; DOI: 10.14102/j.cnki.0254-5861.2011-1697 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rare-earth chalcogenides have received more atention in recent years in view of their rich crystal structures and diverse physical properties[1,21. To date, many rare-earth chalcogenides have been investigated assecond-order nonlinear optical3-5l，photocatalytic[6]，voltage-dependent[7]，and magnetic materials[8,9]. Encouraged by these applications, exploration on novel rare-earth chalcogenides are still meaningful. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among rare-earth metals,divalent Eu and Yb ions have similar ionic radii and coordination geometries with alkali-earth metal ions,which make them different from the other trivalent rare-earth metal ions[1ol. Recently,manyalkali-earth metal chalcogenides have been studied extensively,especially for Ba, Sr-based ones, such as $\\mathrm { B a G a } _ { 4 } \\mathrm { S } _ { 7 } [ 1 1 ]$ ， $\\mathbf { B a G a } _ { 2 } \\mathbf { S n S e } _ { 6 } [ 1 2 ]$ ， $\\mathrm { B a } _ { 2 } \\mathrm { G a } _ { 8 } \\mathrm { M S } _ { 1 6 }$ $\\mathbf { M } = \\mathbf { S } \\mathbf { i }$ ,Ge)[13],and $\\mathrm { B a C d S n S } _ { 4 } [ 1 4 ]$ . Most of these compounds are investigated as second-order nonlinear optical materials in the middle and far-infrared region. It should be interesting if $\\mathrm { E u } ^ { 2 + }$ ions can substitute the $\\mathrm { I I } ^ { 2 + }$ ? $\\mathrm { T I } = \\mathrm { M g }$ , Ca,Sr, Ba) ions in the structures of alkali-earth metal chalcogenides.These Eu-based chalcogenides can be expected to have not only similar physical properties with alkali-earth metal chalcogenides, but also magnetic and photoluminescent properties because of the existence of $f$ electrons.In fact, there are already many such compounds having been reported, such as $\\mathrm { E u Z r S } _ { 3 } ^ { [ 1 5 ] }$ and $\\mathrm { E u G a } _ { 2 } \\mathrm { S } _ { 4 } [ 1 6 ]$ . When checking the ICSD and Pearson's Handbook, there are a large number of compounds with the formulae $\\mathrm { I I } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ $\\mathrm { I I I } = \\mathbf { B }$ , Al, Ga, In; $Q = { \\mathsf { S } }$ ,Se)[17-21] reported. It might be possible to obtain $\\mathrm { E u } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ compounds according to the above considerations. On our ongoing exploration on this supposition，one $\\mathrm { E u } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ compound, $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ ，was obtained.Here,its synthesis,crystal structure, bandstructure, and optical property are presented. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Synthesis and analyses ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All starting materials were used as received without further purification. Single crystals of the title compound were obtained by solid-state reaction with KI as flux[2-26l. The starting materials are $\\mathrm { E u } _ { 2 } \\mathrm { O } _ { 3 }$ $( 9 9 . 9 \\% )$ ， $\\mathrm { G a } _ { 2 } \\mathrm { O } _ { 3 }$ 0 $9 9 . 9 \\%$ ，S $( 9 9 . 9 9 9 \\% )$ ),and additional boron powder $( 9 9 \\% )$ . The sample has a total mass of $5 0 0 ~ \\mathrm { m g }$ and $4 0 0 \\mathrm { m g } \\mathrm { K I } ( 9 9 \\% )$ additional,and the molar ratio of Eu:Ga:S:B is 2:2:5:4. The mixture of starting materials was ground into fine powder in an agate mortar and pressed into one pellt, folowed by being loaded into one quartz tube. The tube was evacuated to be $1 \\times 1 0 ^ { - 4 }$ torr and flame-sealed. The sample was placed into muffle furnace, heated from room temperature to $5 7 3 \\mathrm { ~ K ~ }$ in $5 \\mathrm { h }$ ,kept at $5 7 3 \\mathrm { ~ K ~ }$ for $1 0 \\mathrm { { h } }$ ,then heated to $9 2 3 \\mathrm { ~ K ~ }$ in $^ { 5 \\mathrm { ~ h ~ } }$ kept at $9 2 3 \\mathrm { ~ K ~ }$ for $1 0 \\mathrm { { h } }$ ,then heated to $1 2 2 3 \\mathrm { ~ K ~ }$ in $^ { 5 \\mathrm { h } }$ ,kept at $1 2 2 3 \\mathrm { ~ K ~ }$ for 7 days, finally cooled down to $5 7 3 \\mathrm { ~ K ~ }$ in 5 days,and powered off.The block brown crystals of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ stable in air and water were obtained. Semiquantitative microscope elemental analyses on several single crystals were performed on a field-emission scanning electron microscope (FESEM， Hitachi S-480oII） equipped with an energy dispersive $\\mathrm { \\Delta } X$ -ray spectroscope (EDS, Bruker, Quantax), which confirmed the presence of Eu, Ga,and S with the approximate molar ratio of 1.95:2.03:5.10 (Fig.1),and no other elements were detected. The exact composition was established from the X-ray structure determination. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Structure determination ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theintensity data setswere colected on a Bruker D8 QUEST diffractometerwith graphite-monochromated Mo $. K \\alpha$ radiation $( \\lambda = 0 . 7 1 0 7 3 \\mathrm { ~ \\AA ~ }$ ). The structure of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ was solved by direct methods and refined by full-matrix least-squares techniques on $F ^ { 2 }$ with anisotropic thermal parameters for all atoms. All the calculations were performed using Shelxtl- $2 0 1 4 ^ { [ 2 7 ] }$ through the Olex2[28] interface.The final refinements included anisotropic displacement parameters for all atoms and a secondary extinction correction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ is crystallized in the orthorhombic space group Pbca with $Z = 8$ ， $a = 1 1 . 9 7 6 ( 1 )$ ， $b = 1 1 . 0 7 4$ (1), $c =$ $1 7 . 4 4 6 ( 1 ) \\mathring { \\mathbf { A } } .$ and $V = 1 6 5 0 . 6 ( 3 ) \\mathring { \\mathrm { A } } ^ { 3 }$ . The final $R$ and $w R$ values for all data are 0.0307 and 0.0425, respectively. The bond lengths are listed in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Optical properties ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The infrared (IR) spectrum was recorded by using a TENSOR27 FT-IR spectrophotometer in the range of $4 0 0 { \\sim } 4 0 0 0 \\ \\mathrm { c m } ^ { - 1 }$ . Powdery sample was pressed into one pellet with KBr. The diffuse reflectance spectrum was recorded at room temperature on a computer-controlled Varian Cary 5O0o UV-Vis-NIR spectrometer equipped with an integrating sphere. The measurement wavelength was set in the range of $3 0 0 { \\sim } 1 7 0 0 ~ \\mathrm { n m }$ A $\\mathrm { \\Delta B a S O _ { 4 } }$ （204号 plate was used as a reference,on which the finely ground powdery sample was coated. The absorption spectrum was calculated from reflection spectrum by the Kubelka-Munk function. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4Theory calculation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The calculation model was built directly from the single-crystal structure data of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ . Its electronic band structure based on density functional theory (DFT) was performed using software Material Studiol29l. The generalized gradient approximation (GGA） was chosen as the exchange-correlation functional and a plane wave basis with the projector-augmented wave (PAW) potentials was used. The plane-wave cutoff energy of $4 8 0 ~ \\mathrm { e V }$ and the threshold of $1 0 ^ { - 5 } ~ \\mathrm { e V }$ were set for the self-consistent-field convergence of the total electronic energy. The electronic configurations for Eu,Ga and S were $5 d$ and $4 f , 4 s$ and ${ 4 p }$ ,and $3 s$ and $3 p$ , respectively. The numerical integration of the Brillouin zone was performed using $4 \\times 4 \\times 4$ Monkhorst-Pack $k$ -point meshes and the Fermi level $\\begin{array} { r } { ( E _ { f } = 0 \\mathrm { ~ e V } } \\end{array}$ ） was selected as the reference. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ is crystallized in the orthorhombic space group Pbca (No.61),belonging to the $\\mathbf { M g } _ { 2 } \\mathbf { A l } _ { 2 } \\mathbf { S e } _ { 5 }$ structure type. There are two Eu（ $\\mathrm { E u } ( 1 )$ and $\\mathrm { E u } ( 2 ) )$ ，two Ga ( $\\mathrm { G a } ( 1 )$ and $\\operatorname { G a } ( 2 ) )$ ，and five S atoms in the crystallographically independent unit. Its structure is composed of two structural units，namely，EuS7 monocapped trigonal prism (mtp) and $\\mathrm { G a S } _ { 4 }$ tetrahedron (Fig. 2), in which allthe Eu, Ga and S atoms occupy the $8 c$ sites. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $3 – D$ structure of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ is constructed by the connection between EuS7 mtps and $\\mathrm { G a S } _ { 4 }$ tetrahedra (Fig. 3). In fact, $\\mathrm { G a } ( 1 ) \\mathrm { S } _ { 4 }$ and $\\mathrm { G a } ( 2 ) \\mathrm { S } _ { 4 }$ tetrahedra connect with each other to form layer-like slabs parallel to the $a c$ plane (Fig. 4), and $\\mathrm { E u } ( 1 )$ and ${ \\mathrm { E u } } ( 2 )$ atoms occupy the interlayer monocapped trigonal prismatic cavities. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $2 { - } D$ slab features a cluster built by four $\\mathrm { G a } ( 1 ) \\mathrm { S } _ { 4 }$ and four $\\mathrm { G a } ( 2 ) \\mathrm { S } _ { 4 }$ tetrahedra as the cluster circled in Fig. 4. This polyanionic cluster can be formulated as $[ \\mathrm { G a g } \\mathrm { S } _ { 2 0 } ] ^ { 1 6 - }$ as only one S atom (S(5) for $\\mathrm { G a } ( 1 ) \\mathrm { S } _ { 4 }$ tetrahedron and S(3) for $\\mathrm { G a } ( 2 ) \\mathrm { S } _ { 4 }$ tetrahedron） in each $\\mathrm { G a S } _ { 4 }$ tetrahedron has no connection with the other ones,while each of the other three S atoms is shared by two neighboring $\\mathrm { G a S } _ { 4 }$ tetrahedra. It can be observed that $\\mathrm { G a } ( 1 ) \\mathrm { S } _ { 4 }$ and $\\mathrm { G a } ( 2 ) \\mathrm { S } _ { 4 }$ tetrahedra are connected alternatingly via sharing S corners. Each such cluster has four neighboring $[ \\mathrm { G a g } { \\bf S } _ { 2 0 } ] ^ { 1 6 - }$ clusters. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Eu-S bond distances in $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ are in the range of $2 . 9 2 7 ( 2 ) \\widetilde { \\mathrm { \\Omega } } ^ { } 2 . 2 2 7 ( 2 ) \\mathrm { \\Omega } ^ { } \\mathring { \\mathrm { \\Omega } } ^ { }$ ，which are in good agreement with those of the corresponding compounds in literatures[15,16l. The $\\mathrm { G a } { - } S$ bond lengths in the range of $2 . 2 2 1 ( 2 ) \\sim 2 . 3 3 4 ( 2 )$ ）A are consistent with those found in $\\mathrm { ( K _ { 3 } I ) [ S m B _ { 1 2 } ( G a S _ { 4 } ) _ { 3 } ] ^ { [ 5 ] } }$ ， $\\mathrm { E u G a } _ { 2 } \\mathrm { S } _ { 4 } \\mathrm { [ 1 6 ] }$ ，and BaGazS5[18]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { I I } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ $( \\mathrm { I I } = \\mathrm { M g } { \\it \\Omega }$ , Ca, Sr, Ba; $\\mathrm { I I I } = \\mathbf { B }$ ， Al, Ga, In; $Q = { \\mathsf { S } }$ ，Se） family compounds have been extensively investigated for a long timel17-21l The known members include $\\mathbf { M g } _ { 2 } \\mathbf { A l } _ { 2 } \\mathbf { S e } _ { 5 }$ ， $\\mathrm { S r } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ ， $\\mathrm { B a } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ and BazIn2Q5 ( $\\mathrm { \\Delta } Q = \\mathrm { \\Delta } S$ , Se). Most of the previous reports only studied their crystal structures,and only S.L. Pan recently has reported the electronic structures and optical properties of $\\mathrm { B a } _ { 2 } \\mathrm { I n } _ { 2 } \\mathrm { Q } _ { 5 } [ 2 1 ]$ . It is surprising that there is no investigation on $\\mathrm { E u } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ compounds until now. Since one $\\mathrm { E u } ^ { 2 + }$ ion contains seven $f$ electrons, largely different from the $\\mathrm { I I } ^ { 2 + }$ ions, it is more attractive to investigate the versatile physical properties of Eu-based chalcogenides. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Except for $\\scriptstyle \\Pi _ { 2 } \\operatorname { I I I } _ { 2 } Q _ { 5 }$ compounds, some oxide variants of them have also been reported. Lots of $\\mathrm { I I } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { O } _ { 5 }$ including $\\mathbf { M g } _ { 2 } \\mathbf { B } _ { 2 } \\mathbf { O } _ { 5 }$ $\\mathrm { C a } _ { 2 } \\mathrm { B } _ { 2 } \\mathrm { O } _ { 5 }$ $\\begin{array} { r } { \\mathbf { M g } _ { 2 } \\mathbf { A l } _ { 2 } \\mathbf { O } _ { 5 } } \\end{array}$ $\\mathrm { C a } _ { 2 } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 5 }$ $\\mathrm { B a } _ { 2 } \\mathrm { I n } _ { 2 } \\mathrm { O } _ { 5 }$ ,and $\\mathrm { S r } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { O } _ { 5 } { } ^ { [ 3 0 - 3 3 ] }$ , have been studied. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Moreover, two II atoms in $\\mathrm { I I } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ can be substituted by one divalent and one tetravalent atoms, respectively， such as $\\mathrm { B a _ { 3 } G e S _ { 5 } }$ . If introducing transition metal atom to replace one of the two $\\mathbb { I }$ atoms in $\\mathrm { I I } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ ， several quaternary variants can be obtained,and the known examples include $\\mathbf { B a L n 2 M S } _ { 5 }$ 0 $\\mathrm { { L n } = }$ rare-earth metal; $\\mathbf { M } = \\mathbf { M } \\mathbf { n }$ ,Fe, Co, Zn) and $\\mathrm { B a L a } _ { 2 } \\mathrm { C o } ( \\mathrm { S } _ { 1 - x } \\mathrm { S e } _ { x } ) _ { 5 } [ 3 4 - 3 7 ]$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The IR and diffuse reflection spectra of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ are shown in Figs. 5 and 6. Indeed, the measurement results show that $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ is transparent in the IR range of $4 0 0 { \\sim } 4 0 0 0 ~ \\mathrm { c m } ^ { - 1 }$ $( 2 . 5 \\sim 2 5 \\ \\mu \\mathrm { m } )$ ，and an optical band gap of $2 . 1 7 \\mathrm { e V }$ ,which is consistent with its brown color. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate the electronic structures of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ , its bandstructure computation based on the DFT theory was performed using CASTEP mode in Material Studio softwarel29].The calculated band structure along high symmetry points of the first Brillouin zone is shown in Fig.7,from which it can be seen that the band gap of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ is calculated to be $2 . 2 1 \\ \\mathrm { e V } ,$ which is reasonable in view of the calculation precision. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Both the lowest conduction band (CB) and the highest valence band (VB) of $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ are located at G point, indicating that it has a direct band gap. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,a new ternary Eu-based sulfide $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ was obtained using high-temperature solid-state reaction.Its optical properties indicate that it may be used as IR window materials,and also have some potential applications in the fields of photoelectric materials in view of its direct band gap.It is supposed that more $\\mathrm { E u } ^ { 2 + }$ ion substituted $\\mathrm { I I } _ { 2 } \\mathrm { I I I } _ { 2 } \\mathrm { Q } _ { 5 }$ $\\mathrm { T I } = \\mathbf { M } \\boldsymbol { \\mathrm { g } } $ ,Ca, Sr, Ba; $\\mathrm { I I I } = \\mathbf { B }$ ,Al, Ga, In; $Q = S$ ， Se) compounds can be discovered. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）Mitchel,K.; Ibers,J.A.Rare-earth transition-metal chalcogenides. Chem.Rev.2002,102,1929-1952.   \n(2）Guo,S.P.; Chi,Y.; Guo,GC.Recent achievementsonmiddleand far-infrared second-order nonlinear optical materials. Coord. Chem. Rev.2017,335,44-57.   \n(3）Shi,Y.F;Chen,Y.K.; Chen,M.C.;Wu,L.M.;Lin,H; Zhou,L.J.; Chen,L.Strongestsecond harmonic generatiointhe polar $\\mathbf { R } _ { 3 } \\mathbf { M } \\mathrm { T } \\mathbf { Q } _ { 7 }$ family: atomic distribution induced nonlinear optical cooperation. Chem. Mater: 2015,27,1876-1884.   \n(4)Guo,S.P.; Guo,G C.; Wang,M.S.; Zou,J.P.; Xu,G; Wang, G. J.; Huang,J. S.A series of new infrared NLO semiconductors,ZnY6Si2S14,Alo.33-xLn3 ${ } _ { \\cdot + x } \\mathrm { S i S } _ { 7 }$ 0 $\\mathrm { L n } = \\mathrm { S m }$ ,Dy) and Alo.33Sm3SiS7. Inorg. Chem. 2009,48,7059-7065.   \n(5）Guo,S.P.; Guo,G.C.; Wang,M.S.; Zou,J.P.; Zeng,H.Y.; Cai,L.Z.; Huang,J.S.Afacileapproach to hexanary chalcogenoborate featuring 3-D chiral honeycomb-likeopen-framework constructed from rare-earth consolidating thiogallate-closo-dodecaborate. Chem. Commun. 2009,4366-4368.   \n(6）Guo,S.P.; Guo,G C.Crystal structure and magnetic and photocatalytic properties of anew ternaryrare-earth mixed chalcogenide,Dy4S4Te3.J. Mater: Chem. A 2014,2,20621-20628.   \n(7）Zhang, M. J.; Li, B. X.; Liu, B. W.; Fan, Y. H.; Li, X. G.; Zeng, H. Y.; Guo, G C. Ln3GaS6 $\\mathrm { ( L n = D y , \\Delta Y }$ ): new infrared nonlinear optical materials with high laser induced damage thresholds.Dalton Trans.2013,42,14223-1429.   \n(8)Zhang,X.;Chen,W.;MeiD.J;Zheng,C.;LiaoFH.;LiY.T;Lin,J.H; Huang,FQ.Syntesis,structure,mageticand photo response properties of La3CuGaSe7. J. Alloys Compd. 2014, 610, 671-675.   \n(9）Chi,Y.;Guo,S.P.; Kong,H.J.; Xue,H. GCrystaland electronic structures,optical and magneticpropertiesof novel rare-earth sulfide borates $R E _ { 3 } S _ { 3 } { \\bf B } O _ { 3 }$ 0 $R E = \\mathrm { S m }$ ,Gd). New J. Chem. 2016,40,6720-6727.   \n(10)Shanon,R.D.Revised efectiveionicradiiandsystematic studiesof interatomicdistances inhalidesandchalcogenides. Acta Crystallogr. A1976,32,751-767.   \n(11) Lin, X.L.; Zhang, G.; Ye,N. Cryst. Growth. Des. 2009,9,1186-1189.   \n(12) Li,X. S.; Li, C.; Gong,P.F.; Lin,Z. S.; Yao,J. Y.; Wu, Y. C.J. Mater: Chem. C 2015,3,10998-11004.   \n(13)Liu,B.W.; Zeng,H.Y.;Zhang,M.J.;Fan,Y.H.; GuoGC.; Huang,J.S.;Dong,Z.C.Inorg.Chem.2015,54,976-981.   \n(14) Zhen,N.; Wu,K.; Wang,Y.; Li,Q.; Gao,W.H.; Hou,D.W.; Yang,Z.H.;Jang,HD.; Dong,Y.J.; Pan,S.L.DaltonTrans. 2016,45,10681-10688.   \n(15)Guo,S.P.;Chi,Y.; Zou,J.P.; Xue,H.G Crystalandelectronicstructures,andphotoluminescenceand photocatalytic properties of $\\alpha$ EuZrS3.New J. Chem.2016,40,10219-10226   \n(16)Chi,Y; Guo,S.P.; Xue,H.GBand gaptuningfromindirectEuGaS4todirectEuZnGeS4semiconductor:syntheses,crystal and electronic structures,and optical properties. RSC Adv. 2017,7, 5039-5045.   \n(17) Davolos,M.R.; Garcia,A.; Fouassier, C.; Hagenmuller, P.Luminescence of $\\mathrm { E u } ^ { 2 + }$ in strontium and barium thiogallates. J. Solid. State Chem.1989,83,316-323.   \n(18)Eisenmann, B.； Jakowski, M.； Schafer, H. Ba4Ga4Sio,a new compound with an adamantine like $\\mathrm { ( G a 4 S _ { 1 0 } ) ^ { 8 - } }$ cage. Z. Naturforsch.B 1983,38,1581-1584.   \n(19)Dotzel,V.P.; Schafer,H.; chon,G Zurdarstelung undstrukturchemie terrer selenidedes magnesiums mitindiumund aluminium. Z. Anorg. Allg. Chem. 1976,426,260-268.   \n(20)Eisenmann, B.; Hofmann,A. Schichtanionen in den kristallstrukturen der isotypen verbindungen $\\mathrm { S r } _ { 2 } [ \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 } ]$ ,Ba2[In2S5] und Baz[InzSes]. Z. Anorg. Allg. Chem. 1990,580,151-159.   \n(21) Gao,W. H.; Wu, K.; Lai, K. R.; Yang, Z. H.; Pan, S.L. Ba2In2Q5 ( $\\mathrm { \\Delta } Q = \\mathrm { \\Delta } S$ ，Se): synthesis, crystal structures, electronic structures,and optical properties. Z. Anorg. Allg. Chem. 2015,641,1329-1333.   \n(22)Guo,S.P.;Sun,J.; ChiY.Synthesis,crystal structure and magneticpropertyof ternaryneodymium zirconiumsulfide, Nd2ZrS5. Chin. J. Struct. Chem. 2016,35,713-717.   \n(23) Guo, S. P.； Chi, Y. Syntheses,crystal structures and optical properties of two $\\mathrm { A l } _ { x } R E _ { 3 } ( \\mathrm { S i } _ { 1 - y } \\mathrm { A l } _ { y } ) \\mathrm { S } _ { 7 }$ 0 $R E = { \\mathrm { S m } }$ and Gd) compounds. Chin. J. Struct. Chem. 2016,35,341-347.   \n(24) Sun, Y.L.; Chi, Y.; Guo, S. P. Synthesis and crystal structure of a new quaternary sulfide $\\mathrm { F e S m } _ { 6 } \\mathrm { S i } _ { 2 } \\mathrm { S } _ { 1 4 }$ .Chin. J. Struct. Chem. 2016,35,1369-1375.   \n(25)Guo，S.P.； Zeng,H.Y.； Jiang， X.M.；Guo,G.C. Crystal structure and magneticproperty of quaternarysulfide, Al0.36Sm3Geo.98S7. Chin. J. Struct. Chem. 2009,28,1448-1452.   \n(26)Guo,S.P.; Zeng,H.Y.; Guo,G C.; Zou,J.P.; Xu,G; Huang,J.S.Syntheses,structures and band gaps of KLnSiS4( $\\mathrm { L n } =$ Sm, Yb),Chin.J. Struct. Chem. 2008,27,1543-1548.   \n(27) Sheldrick, G M. A short history of SHELX. Acta Crystallogr A 2008,64,112-122.   \n(28)Dolomanov,O.V.;Bourhis,L.J;Gldea,R.J.;Howard,J.A.K.;Puschman,H.OLEX2:acompletestructuresolution, refinement and analysis program. J. Appl. Cryst. 2009,42, 339-341.   \n(29)Segall,.D.;Linda,P.J.D.Probert,M.J.;Pickard,C.J.; Hasnip,P.J.;Clark,S.J;Payne,M.C.Frst-priniples simulation: ideas,illustrations and the CASTEP code. J. Phys.: Condens. Matter. 20o2,14,2717-2744.   \n(30)Kahlenberg,V.;Goetgens,V.;Mair,P.；Schmidmair,D.High-pressuresythesisandcrystal structuresofthestrontium oxogallates Sr2Ga2O5 and Sr5Ga6O14. J. Solid State Chem. 2015,228,27-35.   \n(31) Enomoto,A.; Kojitani, H.; Akaogi, M.; Miura,H.; Yusa,H. High-pressure transitions in $\\mathrm { M g } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 4 }$ and a new high-pressure phase of Mg2Al2O5. J. Solid State Chem.2009,182,389-395.   \n(32) Lazic，B.； Kruger，H.；Kahlenberg，V.； Konzett，J.； Kaindl，R. Incommensurate structure of $\\mathrm { C a } _ { 2 } \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 5 }$ at high temperatures-structure investigation and Raman spectroscopy. Acta Cryst. B 2008, 64, 417-425.   \n(33)Berastegu,.;ul,S.; Garc-Garca,FJ;iko,S.Geystalstrctures,icrostructuradoicoductiiyf BazIn2O5 and $\\mathrm { B a } ( \\mathrm { I n } _ { x } Z \\mathrm { r } _ { 1 - x } ) \\mathrm { O } _ { 3 - x / 2 }$ . J. Solid State Chem.2002,164,119-130.   \n(34)Yin,W.L.;Wang,W.D.;Bai,L.;Feng,K.;Shi,Y.G;Hao,W.Y.; Yao,J.Y.; Wu,Y.C.Syntheses,structures,phsical properties,and electronic structures of Ba2MLnTe5 $\\mathbf { M } = \\mathbf { G } \\mathbf { a }$ and $\\mathrm { L n } = \\mathrm { S m }$ ,Gd,Dy,Er,Y; $\\mathbf { M } = \\mathbf { I n }$ and $\\mathrm { L n } = \\mathrm { C e }$ ,Nd, Sm, Gd, Dy,Er, Y). Inorg. Chem. 2012,51,11736-11744.   \n(35)Yin, W.L.;Feng,K.; Wang,W.D.; Shi,Y.G;HaoW.Y.; Yao,J.Y; Wu,Y.C.Synteses,structurespticaand magnetic properties of Ba2MLnSe5 ( $\\mathbf { M } = \\mathbf { G } \\mathbf { a }$ , In; Ln ${ \\boldsymbol { \\mathbf { \\mathit { \\Phi } } } } = \\mathbf { \\boldsymbol { \\mathbf { Y } } }$ Nd,Sm,Gd,Dy,Er). Inorg. Chem.2012,51,6860-6867.   \n(36) Feng,K.; Shi, Y. G.; Yin, W.L.; Wang,W.D.; Yao,J. Y.; Wu, Y. C. Ba3LnInS6 $\\mathrm { L n } = \\mathrm { P r }$ ,Sm,Gd,Yb) and BaLnGaS5 $\\mathrm { { L n } = }$ Pr, Nd): syntheses, structures, and magnetic and optical properties. Inorg. Chem. 2012, 51,11144-11149.   \n(37)Wakeshima,M.；Hinatsu，Y.；Ishii，Y.；Shimojo,Y.；Morii,Y.Crystal structuresand magneticpropertiesofcobalt chalcogenides BaLa2Co $( \\mathsf { S } _ { 1 - x } \\mathsf { S } \\mathsf { e } _ { x } ) _ { 5 }$ 0 $0 . 0 { \\leqslant } x { \\leqslant } 0 . 4 ,$ ).J.Mater. Chem.2012,12,631-634. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b39880ffecb0f0c02562b3009f63245f08114f0d0acbb070e54bb4d9f848139.jpg",
+        "table_caption": [
+            "Table1.BondLengths for Eu2Ga2S5 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td></tr><tr><td>Eu(1)-S(1)#7</td><td>2.945(2)</td><td>Eu(2)-S(4)#5</td><td>3.162(2)</td></tr><tr><td>Eu(1)-S(1)#6</td><td>3.178(2)</td><td>Eu(2)-S(5)#5</td><td>3.113(2)</td></tr><tr><td>Eu(1)-S(2)#4</td><td>3.227(2)</td><td>Eu(2)-S(5)#9</td><td>3.157(2)</td></tr><tr><td>Eu(1)-S(3)</td><td>3.146(2)</td><td>Ga(1)-S(1)#2</td><td>2.334(2)</td></tr><tr><td>Eu(1)-S(3)#6</td><td>3.039(2)</td><td>Ga(1)-S(2)</td><td>2.277(2)</td></tr><tr><td>Eu(1)-S(5)</td><td>2.927(2)</td><td>Ga(1)-S(4)</td><td>2.290(2)</td></tr><tr><td>Eu(1)-S(5)#5</td><td>2.930(2)</td><td>Ga(1)-S(5)</td><td>2.245(2)</td></tr><tr><td>Eu(2)-S(1)#8</td><td>3.132(2)</td><td>Ga(2)-S(1)</td><td>2.330(2)</td></tr><tr><td>Eu(2)-S(2)#7</td><td>3.054(2)</td><td>Ga(2)-S(2)</td><td>2.290(2)</td></tr><tr><td>Eu(2)-S(3)</td><td>2.954(2)</td><td>Ga(2)-S(3)</td><td>2.221(2)</td></tr><tr><td>Eu(2)-S(3)#9</td><td>3.052(2)</td><td>Ga(2)-S(4)#4</td><td>2.296(2)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd9e69d3a73e3fee28133b6d2db56131286520b89950a6f4adbd3bef8d0fdd83.jpg",
+        "img_caption": [
+            "Fig.1.EDS analysis of $\\mathbf { E u } _ { 2 } \\mathbf { G a } _ { 2 } \\mathbf { S } _ { 5 }$ "
+        ],
+        "img_footnote": [
+            "Symmetry transformations used to generate the equivalent atoms: #1 1-x, $- 1 / 2 + y$ $1 / 2 – z ;$ #2 3/2-x,-1/2+y,z; #3 x,3/2-y, $1 / 2 + z ;$ #41-x,1-y,1-z;#5 1-x, $1 / 2 + y$ ,1/2-z;#6-1/2+x,y, $1 / 2 – z ;$ #73/2-x,1-y, $- 1 / 2 + z ;$ #8 $x ,$ 3/2-y, $- 1 / 2 + z ;$ #9 $3 / 2 { - } x$ 1/2+y, z; #10 $1 / 2 + x ,$ y,1/2-z; #11 3/2-x, 1-y, 1/2+z "
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8173153eb522156a4e92a5e59b835879999f4b82a39e22e12947257a4565c9c.jpg",
+        "img_caption": [
+            "Fig.2. Coordination geometry of Eu2Ga2S5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8a85890f29b5d99552fa213509f5efacc0065d79a32e3fec61afbef3150fcf3.jpg",
+        "img_caption": [
+            "Fig.3. 3-D crystal structure of EuzGazS5 constructed by the connection between GaS4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "tetrahedra (blue) viewed along the a direction,where the Eu-S bonds are omitted for clarity ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/dea7f6148ee35583906840b1ddcaeca357a9bd7940601654d240e16acf5cd604.jpg",
+        "img_caption": [
+            "Fig.4.Connectionbetween GaS4 tetrahedra in the crystal structureof Eu2GazSs viewed paralelly to the ab plane "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/96bc4412049aa67df7c8ce01bbb3c9a3c4b01fc51d184af6233e711eac4c80ac.jpg",
+        "img_caption": [
+            "Fig.5.IR spectrum of Eu2Ga2S5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/08f611274faf36311f9bcaa22dabd02374413d33043d3ea51bc69c5c8505f3d8.jpg",
+        "img_caption": [
+            "Fig. 6.Diffuse reflection spectrum of Eu2Ga2S5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8c9040e3b64e3edc98ac540fbf39651119cf9c3c0f83a95b3ca1adabf1cd59b.jpg",
+        "img_caption": [
+            "Fig.7.Calculated band structure of Eu2Ga2S5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TheFermilevel ischosenasthe energyreference at $\\mathbf { 0 . 6 V }$ and theband gap iscalculated to be2.21eV ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Solid-state Synthesis, Crystal and Band Structures, and Optical Properties of a Novel Ternary Sulfide Eu2Ga2S5 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "GONG An-Hua(龚安华) SUN Yue-Ling(孙岳玲)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One new ternary europium gallium sulfide, $\\mathrm { E u } _ { 2 } \\mathrm { G a } _ { 2 } \\mathrm { S } _ { 5 }$ ,has been synthesized by a facile solid-state route. It crystallizes in the orthorhombic space group Pbca,and its $3 { - } D$ structure is built by the connection between $\\boldsymbol { \\mathrm { E u } } \\boldsymbol { \\mathrm { S } } _ { 7 }$ monocapped trigonal prisms and $\\mathrm { G a S } _ { 4 }$ tetrahedra，and the latter connect with each other to form layer-like slabs. Its optical energy gap is determined to be $2 . 1 7 \\mathrm { e V } ,$ which is also verified by the electronic band structure calculation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7d29994a2fa7a66518b5373d62b1aa4172fece2c4b748fe2c4fe302152510c1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,253 @@
+# 河西内陆河浅山区流域蒸散发估算及干旱特性研究
+
+程文举1²，席海洋¹，司建华'，李爱林³(1.中国科学院西北生态环境资源研究院，中国科学院内陆河流域生态水文重点实验室，阿拉善荒漠生态—水文试验研究站，甘肃 兰州730000;2.中国科学院大学，北京100049;3.阿拉善右旗草原工作站，内蒙古 阿拉善750306)
+
+摘要：为了揭示河西内陆河浅山区小流域的蒸散发及干旱特征,以敦煌西土沟流域为例,利用常规气象数据，通过Penman-Monteith公式计算西土沟流域8个观测站点的潜在蒸散发,再此基础上利用双作物系数法计算出各个观测站点的作物系数,由此计算出实际蒸散发,并计算了该流域的SPEI(标准化降水蒸散发指数)。结果表明：（1）西土沟流域年潜在蒸散发量和实际蒸散发量分别为 $9 7 8 ~ \mathrm { m m } \setminus 2 5 8 ~ \mathrm { m m }$ ;上游到下游随海拔下降，潜在蒸散发和实际蒸散发随之呈现不同程度的上升趋势;(2)该流域下游干旱持续时间较长,整个生长季都会出现不同程度的干旱,秋季是干旱发生的主要季节；（3）流域上游的降水量大于实际蒸散发量，中下游实际蒸散发量大于降水量；（4）利用NDVI值计算的作物系数 $K _ { \mathrm { e } }$ 值在实际蒸散发的估算中有较好的适用性,在内陆河浅山区小流域的干旱评估中，干旱指数SPEI比SPI(标准化降水指数)和PDSI(帕尔默干旱指数)指数更有优势。本研究计算出了西土沟流域的潜在和实际蒸散发，并评估了该流域的月尺度及季节尺度的干旱特征,为该流域特别是中下游的生产生活用水提供指导,并得到适用于整个河西内陆河浅山区无资料河流的普适性规律。
+
+关键词：河西内陆河；蒸散发；干旱指数；西土沟流域
+
+河西内陆河浅山区面积大、范围广，其浅山区面积约占总山区面积的 $1 1 . 2 \%$ 。河西内陆河浅山区出山地表水资源量为 $0 . 2 1 9 7 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,对整个河西地区有着重要的意义。该地区除了有实测气象、水文数据的较大型的河流外，其他河流无实测的气象、水文等资料，这些河流虽水量不大，但却有独立的供水意义，下游孕育着不同的绿洲，对当地的自然环境及人类生产生活有重要影响。因此，本研究选取典型的浅山区无资料流域一一敦煌西土沟流域，对该流域的降水、蒸散发和干旱特性进行研究，揭示该流域的水量平衡，以期得到适用于整个河西内陆河浅山区无资料河流的普遍性规律。
+
+蒸散发是地表水量和热量平衡的重要参量，也是水循环和能量循环的重要组成部分，影响着区域乃至全球的生态、气候和农业生产。潜在蒸散发是指在一定气象条件下水分供应不受限制时，陆面可能达到的最大蒸散发量。潜在蒸散发作为农田灌溉管理、作物需水量估算、稀缺资料地区水量平衡等研究中的重要参量，其时空分布及变化规律研究，对农业用水管理和区域水资源优化配置具有重要意义[2-3]。实际蒸散发是指在一定的气象条件下，下垫面受水分供应的影响而实际所能达到的蒸散发量[4]。主要包括两个方面，一是发生在土壤表面或水面的蒸发，二是发生在植被表面的蒸腾5，实际蒸散发的计算通常要包括这两个方面以反映当地的实际蒸散发情况。
+
+关于蒸散发的研究较多，主要集中在以下几个方面： $\textcircled{1}$ 潜在蒸散发 $( E T _ { 0 } )$ 时空演变研究，比如利用Penman-Monteith公式[2]、Hargreaves模型[6]、priestley-taylor模型[7]、Blaney-Criddle模型[8]、Rohwer模型[9]等方法计算潜在蒸散发； $\textcircled{2}$ 实际蒸散发的估算，比如利用FAO56推荐的作物系数法 $( K _ { \mathrm { c } } )$ ,实际蒸散发$E T _ { \mathrm { a } } { = } E T _ { \mathrm { 0 } } { \times } K _ { \mathrm { c } } { \mathrm { [ 4 , 1 0 - 1 1 ] } }$ 、利用涡度相关法[12]或蒸渗仪法估算[13]基于经验统计或水量平衡方法的遥感模型[14-16]；$\textcircled{3}$ 作物蒸散发的驱动机制，气候变化和人类活动对蒸散发的影响[17-20]； $\textcircled{4}$ 蒸散发计算方法的区域适用性评价[2I-23]。在我国干旱地区，由于土壤水分的限制和植被生长状况的差别，实际蒸散发显著小于潜在蒸散发，所以在河西内陆河流域，如果以潜在蒸散发量作为流域水量的支出要素，会产生较大的误差，无法指导人类的生产生活取用水，因此，对当地实际蒸散发的估算就显的尤为重要。但是由于实际蒸散发的估算难度较高，所以，以往的研究中关于潜在蒸散发的研究居多，关于实际蒸散发的研究相对较少，在流域尺度的实际蒸散发估算研究更少。因此，本研究希望可以以河西内陆河浅山区小流域为研究对象，通过对该流域上游到下游不同海拔、不同流域位置的潜在和实际蒸散发进行估算，得到适用于整个河西内陆河浅山区无资料河流的普适性蒸散发规律。
+
+蒸散发是水文气象研究中的关键变量，其在不同海拔和不同植被类型区域对气象要素的响应特征不尽相同。Penman-Monteith模型是世界粮农组织(FA0)1998年推荐使用的潜在蒸散发估算方法，该模型是目前公认的无论在湿润还是干旱地区计算潜在蒸散量精度较高的方法之一。所以，本文在总结前人研究结果的基础上，首先使用Penman-Monteith公式计算潜在蒸散发 $E T _ { 0 }$ ,后采用文献[24]和文献[25]的研究中得到的作物系数 $K _ { \mathrm { c } }$ 与NDVI的关系式来计算不同作物类型，不同生长期和非生长期的作物系数 $K _ { \mathrm { c } }$ ，并将土壤水分胁迫因子 $K _ { \mathrm { s } }$ 考虑其中,最终得到不同海拔区域、流域上、中、下游实际蒸散发。此外，将基于降水和潜在蒸散发的干旱特征指数考虑其中，以期对整个无资料的河西内陆河浅山区小流域的蒸散发和干旱特征研究提供参考，进一步为此类型的小流域的水文气象研究提供基础。
+
+# 1研究区概况
+
+西土沟流域发源于阿尔金山北麓，最高海拔$5 5 3 6 \mathrm { m }$ ，由红柳沟、阿克塞沟、黑沟等数条常年性流水沟谷组成(图1)，上游以中高山山地为主要地貌单元,海拔 $4 1 0 0 \mathrm { m }$ 以上发育现代冰川。中游以洪积扇为主要的地貌类型，下游地貌类型相对复杂，包括沙漠、戈壁、盐碱地、荒草地、湿地、耕地等。流域面积约 $1 1 2 5 ~ \mathrm { k m } ^ { 2 }$ ,年均地表水径流量 $0 . 1 1 0 4 \times 1 0 ^ { 8 }$ $\mathbf { m } ^ { 3 }$ 。植被呈地带性分布，在流域上游,从高海拔到低海拔分别为亚冰雪带、高山灌丛、草原荒漠带、山地草原带。流域中游主要流经阿克塞盆地，植被以小灌木为主，自然景观以荒漠戈壁为主，植被覆盖
+
+注：(a)我国西北部分地区及西土沟流域的相对位置;(b)西土沟流域及流域内气象站的分布位置；  
+(c)流域下游架设在怪柳林中的气象站;(d)流域上游架设在青崖子山上的气象站,海拔 $3 3 7 0 \mathrm { m }$ 。
+
+![](images/762adf495d7097d0704ae081e9ae58157d20a2bfce0c04f6e23ceccd3394d11e.jpg)  
+图1西土沟流域地理位置和流域内气象站点分布示意图  
+Fig.1Geographical positionof the Xitugou watershedandthedistributionofmeteorological stations inthe watershed
+
+度在 $20 \% { \sim } 4 0 \%$ 。流域下游植被以荒漠灌丛、荒漠草地、农田为主。本区地处戈壁沙漠区，地势比较平坦，干旱少雨，植被覆盖度低，属典型的大陆性气候。其特点是：夏季炎热、冬季寒冷、昼夜温差大、降雨少、蒸发量大、空气干燥、积温高、日照长、云量低。区内年平均日照时数为 $3 2 4 0 \mathrm { ~ h ~ }$ ,年平均气温$9 . 4 ~ \mathrm { ^ { \circ } C }$ ，最冷（1月）为 $- 9 . 2 \mathrm { { ^ { \circ } C } }$ ,年气温差 $3 4 . 1 ~ \mathrm { { ^ { - } C } }$ ,年平均无霜期145d,绝对无霜期 $1 0 0 \mathrm { d }$ 。多年平均降水量 $4 0 . 1 \ \mathrm { m m }$ ，降水量年内变化较大，主要集中在6—8月，其降水量约占全年降水量的 $7 5 \%$ ，多以暴雨出现。蒸发皿测量的多年平均蒸发量高达2417.19$\mathbf { m } \mathbf { m }$ ,约为降水量的60倍[26]
+
+# 2 数据与方法
+
+# 2.1数据来源
+
+在西土沟流域上、中、下游共架设8套小型自动气象站(型号：WPH1/HOBO-U30-GSM)，在每个气象站下额外架设了8套土壤水分观测探头，水分探头埋深分别是 $1 0 \ \mathrm { c m } \cdot 2 0 \ \mathrm { c m } \cdot 4 0 \ \mathrm { c m } \ . 6 0 \ \mathrm { c m } \cdot 8 0 \ \mathrm { c m } _ { \odot }$ 站点名称分别为敦煌宫(DHG）拜水台(BST）、青崖子沟（QYZG）、青崖子山（QYZ3）、怪柳林(CLL）、阿克塞(AKS）、九莲湖(JLH)、青崖子顶(QYZ4)8个观测站点(图1)，以下使用站点缩写，基本信息如表1所示。气象数据来自于在上述观测点架设的小型气象站的日最高气温、日最低气温、日均温、相对湿度 $\cdot 2 \mathrm { m }$ 处风速、日照时数、气压;土壤水分数据是由每个气象站额外铺设的5层水分探头测量得出。气象和土壤水分数据均以 $3 0 \mathrm { m i n }$ 为观测间隔，将其经过异常值剔除后处理为日值数据，数据时长为2018年5月1日至2019年4月30日的数据。NDVI数据（MOD13A1数据集）来自NASA（https://ladsweb.modaps.eosdis.nasa.gov/）,数据空间分辨率为 $2 5 0 \mathrm { m }$ ，
+
+时间分辨率为8d。
+
+# 2.2研究方法
+
+2.2.1Penman-Monteith公式世界粮农组织(FAO)在1998年给出的修正Penman-monteith方程是目前被广泛使用的蒸散发估算方法之一，其参考下垫面为高度 $0 . 1 2 \mathrm { m }$ 的供水条件不受限制的草地[27]，计算公式为：
+
+$$
+E T _ { \mathrm { 0 } } = \frac { 0 . 4 0 8 \Delta \left( R _ { \mathrm { n } } - G \right) + \gamma \frac { 9 0 0 } { T + 2 7 3 } u _ { \mathrm { 2 } } ( e _ { \mathrm { s } } - e _ { \mathrm { a } } ) } { \Delta + \gamma ( 1 + 0 . 3 4 u _ { \mathrm { 2 } } ) }
+$$
+
+式中： $E T _ { 0 }$ 为潜在蒸散发 $( \operatorname* { m m } \cdot \mathrm { d } ^ { - 1 } ) : G$ 为土壤热通量$( \mathbf { M } \mathbf { J } \cdot \mathbf { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ ; $T$ 为 $2 \mathrm { m }$ 高度处的日均气温( $^ { \circ } \mathrm { C } )$ ; $U _ { 2 }$ 为$2 \mathrm { m }$ 高度处风速 $\left( \mathbf { m } \cdot \mathbf { s } ^ { - 1 } \right)$ $e _ { \mathrm { s } }$ 为饱和水汽压( $\mathrm { \check { k } P a \check { , } }$ ： $e _ { \mathrm { a } }$ 为实际水汽压( $\left( \mathrm { k P a } \right)$ ; $e _ { \mathrm { s } } { - } e _ { \mathrm { a } }$ 为饱和水汽压差 $\left( \mathrm { { k P a } } \right) ; \Delta$ 为水汽压曲线斜率（ $\mathrm { \ k P a ^ { \circ } C ^ { - 1 } }$ ） $\gamma$ 为干湿表常数 $( \mathrm { { k P a } } ^ { \mathrm { { . 9 } } } \mathrm { { C } } ^ { \mathrm { { - 1 } } } )$ ·$R _ { \mathfrak { n } }$ 为净辐射 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ ,是净短波辐射 $( R _ { \mathrm { n s } } )$ 和净长波辐射 $\left( R _ { \mathrm { n l } } \right)$ 的差值(式2)，由于架设的小型气象站没有观测日照时数，所以本研究中采用Hargreaves的辐射公式进行太阳短波辐射 $R _ { \mathrm { s } }$ 的估算(式4)：
+
+$$
+R _ { \mathrm { n } } = R _ { \mathrm { n s } } - R _ { \mathrm { n l } }
+$$
+
+$$
+R _ { \mathrm { n s } } = ( 1 - \alpha ) R _ { \mathrm { s } }
+$$
+
+$$
+R _ { \mathrm { s } } = K _ { \mathrm { R s } } \sqrt { ( T _ { \mathrm { m a x } } - T _ { \mathrm { m i n } } ) } R _ { \mathrm { a } }
+$$
+
+$$
+R _ { \mathrm { n l } } = \sigma \Bigg [ \frac { T _ { \mathrm { m a x } , k } ^ { \vphantom { \dagger } } { } ^ { 4 } + T _ { \mathrm { m i n } , k } ^ { \vphantom { \dagger } } } { 4 } \Bigg ] ( 0 . 3 4 - 0 . 1 4 \sqrt { e _ { \mathrm { a } } } )
+$$
+
+$$
+\left[ 1 . 3 5 \frac { R _ { \mathrm { s } } } { R _ { \mathrm { s o } } } - 0 . 3 5 \right]
+$$
+
+$$
+R _ { \mathrm { s o } } = ( a _ { \mathrm { s } } + b _ { \mathrm { s } } ) R _ { \mathrm { a } }
+$$
+
+式中： $R _ { \mathrm { n l } }$ 为净长波辐射 $\left( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } \right)$ · $R _ { \mathrm { n s } }$ 为净短波辐射 $\left( \mathbf { M J } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 } \right)$ · $R _ { \mathrm { a } }$ 为大气层顶太阳辐射 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ $T _ { \mathrm { m a x } }$ 和 $T _ { \mathrm { m i n } }$ 分别是日最高气温和日最低气温。 $K _ { \mathrm { R s } }$ 为经验调整系数，取值0.16\~0.19，单位是 ${ } ^ { \circ } \mathrm { C } ^ { - 0 . 5 }$ ,在内陆地区， $K _ { \mathrm { R s } } { \approx } 0 . 1 6$ ，沿海地区 $K _ { \mathrm { R s } } { \approx } 0 . 1 9$ 。 $R _ { \mathrm { s } }$ 表示太阳短波辐射 $( \mathbf { M } \mathbf { J } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 } )$ ; $R _ { \mathrm { s o } }$ 表示晴空太阳辐射 $\mathrm { \langle M J \cdot m ^ { - 2 } }$ .
+
+表1观测站点信息  
+Tab.1 Basic information of observation stations   
+
+<html><body><table><tr><td>名称</td><td>纬度(N)</td><td>经度(E)</td><td>海拔/m</td><td>下垫面</td></tr><tr><td>九莲湖(JLH)</td><td>39°55'37.30"</td><td>94°0'20.98"</td><td>1236</td><td>沙漠</td></tr><tr><td>敦煌宫(DHG)</td><td>39°55'45.94"</td><td>94°1'29.62"</td><td>1249</td><td>葡萄地</td></tr><tr><td>拜水台(BST)</td><td>39°54'58.16"</td><td>94°1'55.53"</td><td>1273</td><td>荒漠草地</td></tr><tr><td>柽柳林(CLL)</td><td>39°54'33.40"</td><td>94°2'45.81"</td><td>1274</td><td>人工柽柳林</td></tr><tr><td>阿克塞(AKS)</td><td>39°38'5.75"</td><td>94°1'13.69"</td><td>1686</td><td>洪积扇</td></tr><tr><td>青崖子沟(QYZG)</td><td>39°21'47"</td><td>94°1'11.04"</td><td>3100</td><td>浅山区草地</td></tr><tr><td>青崖子3(QYZ3)</td><td>39°21'16.13"</td><td>94°0'54.18"</td><td>3370</td><td>高山灌丛草地</td></tr><tr><td>青崖子4(QYZ4)</td><td>39°18'15.76"</td><td>93°57'37.92"</td><td>4100</td><td>寒漠带</td></tr></table></body></html>
+
+$\mathbf { d } ^ { - 1 }$ ）； $R \mathcal { / } R _ { \mathrm { s o } }$ 为相对短波辐射(其值 ${ \leqslant } 1 . 0$ )；由于没有实测的太阳辐射资料， $a _ { \mathrm { s } }$ 和 $b _ { \mathrm { s } }$ 值采用FAO56中建议的取值， $a _ { \mathrm { s } } = 0 . 2 5 , b _ { \mathrm { s } } = 0 . 5 0 _ { \odot }$ 。 $R _ { \mathrm { a } }$ 的计算方法如式7所示：
+
+$$
+{ \cal R } _ { \mathrm { a } } = { \frac { 2 4 ( 6 0 ) } { \pi } } { \cal G } _ { \mathrm { s c } } d _ { \mathrm { r } } [ \omega _ { \mathrm { s } } \sin ( \varphi ) \mathrm { s i n } ( \delta ) +
+$$
+
+$$
+\cos { ( \varphi ) } \cos { ( \delta ) } \sin { ( \omega _ { \mathrm { s } } ) } ]
+$$
+
+式中：8为太阳磁偏角； $\varphi$ 为地理纬度； $G _ { \mathrm { s c } }$ 为太阳常数 $\dot { \mathbf { \eta } } = \mathbf { \eta }$ $0 . 0 8 2 0 ~ \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { m i n } ^ { - 1 } ; d _ { \mathrm { \iota } }$ 为日地相对距离的倒数; $\omega _ { \mathrm { s } }$ 为太阳日落时角。详细的计算方法可查阅FAO $5 6 ^ { [ 3 ] }$ ○2.2.2作物系数 $K _ { \mathrm { c } }$ 双作物系数法24]：关于作物系数 $K _ { \mathrm { c } }$ 的双作物系数法，是由 $\mathrm { \Delta W r i g h t ^ { [ 2 8 ] } }$ 在1982年提出，这种方法将作物系数分为植物蒸腾系数 $( K _ { \mathrm { c b } } )$ 和土壤蒸发系数 $\left( K _ { \mathrm { e } } \right)$ O
+
+$$
+K _ { \mathrm { c } } = K _ { \mathrm { s } } K _ { \mathrm { c b } } + K _ { \mathrm { e } }
+$$
+
+$$
+K _ { \mathrm { c b } } = 1 . 0 7 \times \left[ 1 - \left( \frac { \mathrm { ( N D V I ) _ { \mathrm { m a x } } - ( N D V I ) } } { \mathrm { ( N D V I ) _ { \mathrm { m a x } } - ( N D V I ) _ { \mathrm { m i n } } } } \right) ^ { \frac { 0 . 8 4 } { 0 . 5 4 } } \right]
+$$
+
+$$
+K _ { \mathrm { e } } { = } \beta { \times } ( 1 { - } f _ { \mathrm { c } } )
+$$
+
+$$
+f _ { \mathrm { c } } = 1 . 3 5 1 4 \times \mathrm { N D V I } - 0 . 2 8 1 1
+$$
+
+式中： $K _ { \mathrm { c } }$ 为作物系数； $K _ { \mathrm { c b } }$ 为基础作物系数，表征作物蒸腾的影响程度； $K _ { \mathrm { e } }$ 为土壤蒸发系数，表征土壤蒸发的影响程度； $K _ { \mathrm { s } }$ 为水分胁迫系数，表征根区土壤含水率不足时对作物蒸腾的影响， $K _ { \mathrm { s } }$ 的计算是根据土壤含水量和FAO56规定的各类土壤的田间持水量和凋萎系数，通过分段函数计算得出。 $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 和ND$\mathrm { \Delta V I _ { \mathrm { m a x } } }$ 分别代表裸土和植被密集处的植被指数；NDVI为植被指数;f为植被覆盖土壤表面的有效面积比； $_ { \beta }$ 为经验系数，取决于作物生长初期和中期的 $K _ { \mathrm { c } }$ 值[25]。2.2.3 标准化降水蒸散指数 SPEI SPEI是在SPI的基础上，以水循环为理论基础，考虑变化环境下降水和潜在蒸散发的干旱指数。SPEI计算过程是先利用改进的Penman-Monteith方法计算潜在蒸散发量，之后用月降水量与月潜在蒸散发量的差值作为SPEI的输入数据，最后以3参数（尺度参数、形状参数和Origin参数)的log-logistic分布的频率值计算得出 SPEI值[29],SPEI指数的干湿等级划分[30]如表2所示。
+
+$$
+\scriptstyle \operatorname { S P E I } = { \left\{ \begin{array} { l l } { \displaystyle W - { \frac { c _ { 0 } + c _ { 1 } W + c _ { 2 } W ^ { 2 } } { 1 + d _ { 1 } W + d _ { 2 } W ^ { 2 } + d _ { 3 } W ^ { 3 } } } , } \\ { \displaystyle W = { \sqrt { - 2 \ln P } } , P \in 0 . 5 } \\ { \displaystyle - { \Biggl ( } W - { \frac { c _ { 0 } + c _ { 1 } W + c _ { 2 } W ^ { 2 } } { 1 + d _ { 1 } W + d _ { 2 } W ^ { 2 } + d _ { 3 } W ^ { 3 } } } { \Biggr ) } , } \\ { \displaystyle W = { \sqrt { - 2 \ln ( 1 - P ) } } , P > 0 . 5 } \end{array} \right. }
+$$
+
+式中： $c _ { 0 } , c _ { 1 } , c _ { 2 } , d _ { 1 } , d _ { 2 } , d _ { 3 }$ 均为常数, $c _ { 0 } { = } 2 . 5 1 5 5 1 7$ ， $c _ { 1 } { = }$ 0.802853， $c _ { 2 } { = } 0 . 0 1 0 3 2 8$ ， $d _ { 1 } { = } 1 . 4 3 2 7 8 8$ ， $d _ { 2 } { = } 0 . 1 8 9 2 6 9$ $d _ { 3 } { = } 0 . 0 0 1 3 0 8 ; P$ 为累计概率; $W$ 是关于 $P$ 的函数。
+
+# 3结果分析
+
+# 3.1流域潜在蒸散发和实际蒸散发的日变化
+
+由图2可知，潜在蒸散发 $( E T _ { 0 } )$ 从3月中下旬开始迅速增长，6一7月达到最大，日最大潜在蒸散发可达 $1 1 \ \mathrm { m m } \cdot \mathrm { d } ^ { - 1 }$ ，随后逐渐减小，10月以后减速变缓，总体来看，以7月为中心，对称分布。不同观测点潜在蒸散发的日变化幅度有较大差异，流域下游海拔较低的DHG、JLH、CLL等地的潜在蒸散发变幅很大，海拔较高的QYZG、QYZ3、QYZ4日变化幅度较小。除DHG站点外，其余站点的实际蒸散发$\left( E T _ { \mathrm { a } } \right)$ 的日变化幅度总体上小于潜在蒸散发的变化幅度。实际蒸散发中DHG观测点的变化幅度最大，主要原因是该观测点位于西土沟流域下游农田，受灌溉和植被覆盖度的影响较大。
+
+表2SPEI指数干湿等级划分  
+Tab.2 Classification of dry and wet grades of SPEIindex
+
+![](images/9998d031b4972dbabe8f93a8cdb7416ee40ead381ec0840f743ca470b0bd9afe.jpg)  
+图2潜在蒸散发和实际蒸散发的日变化  
+Fig.2Daily variation of potential evapotranspiration and actual evapotranspiration
+
+# 3.2流域年潜在蒸散发和实际蒸散发量变化
+
+由图3可知，西土沟流域潜在蒸散发量最高可达 $1 4 7 8 ~ \mathrm { m m }$ ,最小潜在蒸散发量只有 $4 2 6 ~ \mathrm { m m }$ 为海拔$4 1 0 0 \mathrm { ~ m ~ }$ 处的QYZ4观测点。总体来看，上游潜在蒸散发量小，下游潜在蒸散发量大。实际蒸散发显著小于潜在蒸散发，实际蒸散发最大的观测点是下游的BST和JLH观测点,年实际蒸散发接近 $4 0 0 ~ \mathrm { { m m } }$ ，最小的实际蒸散发量为QYZ4观测点处的110mm。由8个观测点的潜在和实际蒸散发数据做算术平均，得出该流域年平均潜在蒸散发量为978$\mathbf { m } \mathbf { m }$ ,年平均实际蒸散发量为 $2 5 8 ~ \mathrm { m m }$ ○
+
+# 3.3不同海拔梯度的潜在蒸散发和实际蒸散发变化
+
+8个观测点涉及流域上、中、下游，其中流域下游海拔在 $1 2 3 6 { \sim } 1 2 7 4 \ \mathrm { m }$ ,平均海拔 $1 2 5 8 \mathrm { m }$ ,海拔差异小，因此，将下游的4个站点划分为同一海拔梯度。
+
+![](images/74288aa6e0609a47b3d14a177f853731fb3893f909da35ff07498ede5e5ef30d.jpg)  
+图3不同观测站点的年潜在蒸散发和实际蒸散发 Fig.3Annual potential and actual evapotranspiration at different observation sites
+
+中游阿克塞AKS海拔 $1 6 8 6 \mathrm { m }$ ,与下游的平均海拔相差 $4 2 8 \mathrm { ~ m ~ }$ ,与上游青崖子沟QYZG的海拔相差1414$\mathrm { ~ m ~ }$ ,将其与其他站点划分为同一海拔梯度没有依据，因此,将AKS站点单独划分为1个海拔梯度。上游的3个站点海拔分别是 $3 1 0 0 \mathrm { ~ m ~ } . 3 3 7 0 \mathrm { ~ m ~ } . 4 1 0 0 \mathrm { ~ m ~ }$ ，将这3个站点分别划分为1个海拔梯度，因为 $3 1 0 0 \mathrm { ~ m ~ }$ 处的QYZG处在山麓位置，3370海拔处的QYZ3站点处在较高位置的山顶,而 $4 1 0 0 \mathrm { m }$ 海拔处的QYZ4站点位于山顶雪线以上，此外，这3个站点的下垫面植被具有显著差异，因此将他们单独划分进行分析，能够充分体现海拔对蒸散发的影响。总结如下：DHG、BST、CLL、JLH为第1海拔梯度，平均海拔为 $1 2 5 8 \mathrm { ~ m ~ }$ ，AKS为第2海拔梯度，平均海拔为1686$\mathrm { ~ m ~ }$ ,QYZG为第3海拔梯度，平均海拔为 $3 1 0 0 \mathrm { ~ m ~ }$ ，QYZ3为第4海拔梯度，海拔为 $3 3 7 0 \mathrm { m } , \mathrm { Q Y Z 4 }$ 为第5海拔梯度,海拔为 $4 1 0 0 \mathrm { m }$ 。由图4所示,潜在蒸散发量从低海拔到高海拔逐渐减小，从下游海拔 $1 2 5 8 \mathrm { m }$ 处到中游海拔 $1 6 8 6 \mathrm { ~ m ~ }$ 潜在蒸散发下降迅速，海拔$1 6 8 6 \mathrm { m }$ 到 $3 3 7 0 \mathrm { m }$ 潜在蒸散发虽呈逐渐下降趋势，但下降幅度非常小，海拔 $3 3 7 0 \mathrm { m }$ 到 $4 1 0 0 \mathrm { m }$ 潜在蒸散发下降幅度较大。实际蒸散发量随着海拔的升高逐渐降低，在流域下游海拔为 $1 2 5 8 \mathrm { m }$ 处实际蒸散发最高，为 $3 5 6 ~ \mathrm { m m }$ ,在流域上游 $4 1 0 0 \mathrm { ~ m ~ }$ 海拔处实际蒸散发最低,只有 $1 1 0 \mathrm { m m }$ 。
+
+# 3.4月尺度干旱指数变化
+
+计算西土沟流域上、中、下游设置的8个气象站点的潜在蒸散发量，根据标准化降水蒸散指数计算方法，计算各个站点的干旱指数SPEI,分别计算1个月尺度和3个月尺度的SPEI值，3个月尺度的SPEI值作为该年内每个季度的SPEI指数。由图5可知，西土沟流域下游DHG、BST、CLL、JLH站点的SPEI值从3—9月均为负值，4—9月均出现不同程度的干旱，其中DHG6月和7月出现中度干旱，BST4月和9月出现中度干旱,5—7月出现极端干旱，8月出现重度干旱；CLL4月出现轻度干旱，5月和8月出现中度干旱，6月和7月出现重度干旱;JLH3—4月出现轻度干旱，5月和9月出现中度干旱，6—7月出现极端干旱，8月出现重度干旱。流域中游AKS站点4—9月SPEI指数为负，6月出现中度干旱，7月为轻度干旱。流域上游QYZG和QYZ3站点分别在5—6和8月出现干旱，QYZ4站点全年SPEI为正，较为湿润。图5i为各个站点的SPEI年均值，SPEI指数BST<JLH<CLL<DHG<0<AKS<QYZ3 $<$ QYZG<QYZ4。
+
+![](images/b49657ef829ae30645b1447f137b4b85133077222d6179990c12860b49b9e1d4.jpg)  
+图4不同海拔梯度的潜在蒸散发和实际蒸散发变化 Fig.4Potential and actual evapotranspiration change of different elevations
+
+# 3.5季节尺度SPEI指数变化
+
+由图6可知，春季各个站点的干旱指数均为正值且大于0.78,夏季仅流域下游的BST、CLL和JLH干旱指数为负，秋季除QYZ4站点外，其他站点均为负值，且小于-O.3，其中BST和JLH站点达到极端干旱，而CLL达到重度干旱，DHG和AKS达到中度干旱。冬季BST和JLH站点达到中度干旱，CLL站点达到轻度干旱，其他站点属正常或者略湿润。综上所述，秋季是干旱发生的主要季节，其次是夏季。
+
+# 4讨论
+
+# 4.1流域实际蒸散发的估算及流域蒸散耗水
+
+由图7可知，整体上，上游到下游降水量逐渐减小，上游QYZ4、QYZ3、QYZG观测站点的降水量平均为 $2 0 3 ~ \mathrm { m m }$ ，中游AKS站点的降水为 $5 8 . 6 ~ \mathrm { m m }$ ，下游 CLL、BST、JLH、DHG 站点的降水仅有 $1 4 . 6 ~ \mathrm { m m }$ ○实际蒸散发量上游平均为 $1 2 3 . 6 ~ \mathrm { m m }$ ，中游为270$\mathbf { m } \mathbf { m }$ ，下游达 $3 8 3 . 7 ~ \mathrm { m m }$ ，上游到下游实际蒸散发量显著增大。全流域只有上游地区降水量大于实际蒸散发，为该流域的产流区，年降水量比实际蒸散发量多 $2 3 9 . 8 ~ \mathrm { m m }$ ，上游降水以强降水为主，降水强度大，频次少，因此，降水容易形成洪水而流向中下游。中游AKS站点蒸散发量比降水量多 $2 1 1 ~ \mathrm { m m }$ ，该区下垫面为山前洪积扇，土壤入渗率大，降水以及上游形成的洪水在该流域段以及中游末端的库木
+
+![](images/e4128f62df70251d2749531c88d2d3a4c301c306b8c87a2fb70b45c582df2676.jpg)  
+图5月尺度SPEI指数及各站点年均SPEI值  
+Fig.5Monthly SPEI index and SPEI value of each station
+
+1.51.00.50.0  
+I  
+IPS -0.5-1.0-1.5 春季夏季-2.0 秋季冬季-2.5DHG BST CLL JLHAKSQYZGQYZ3QYZ4站点
+
+![](images/08777ac3f53a21b78d5327522c94fc389ab6c73e620d81aaf26775d4a89586a1.jpg)  
+图6季节尺度SPEI指数  
+Fig.6 SPEI index change at seasonal scale   
+图7流域降水与实际蒸散发的变化  
+Fig.7Changes of precipitation and actual evapotranspiration in river basin
+
+塔格沙漠地区下渗，形成地下径流。以 $1 5 3 . 0 5 ~ \mathrm { m m }$ 为节点，在流域上游，当降水量大于 $1 5 3 . 0 5 ~ \mathrm { m m }$ 时，实际蒸散发量低于降水量；在流域中下游，当降水量低于 $1 5 3 . 0 5 ~ \mathrm { m m }$ 时，实际蒸散发量大于降水量。下游蒸散发量比降水量多 $1 4 7 6 . 6 \ \mathrm { m m }$ ,西土沟流域下游位于阳关镇，该区域下垫面复杂，有沙漠、荒漠草地、荒漠灌木、农田等,该区的土壤蒸发主要发生在沙漠边缘、荒漠草地等处，植被蒸腾主要发生在农田，灌木林区，中游入渗的洪水在下游流出地表，形成地表径流，供下游农田灌溉及生产生活，此外，该区的降水、地下水等均是下游蒸散发的水量来源，总体来说，下游是整个西土沟流域主要的水量耗散区。
+
+实际蒸散发的观测比较困难，所以，目前实际蒸散发均为估算值，常见的估算实际蒸散发的方法包括流域水量平衡法、Penman-Monteith公式-双作物和单作物系数法、树干液流法、涡度相关法和蒸渗仪法等，由于缺乏实测资料，实际蒸散发估算很少涉及到西北干旱内陆河流域，特别是对荒漠区的估算。本研究使用在该流域上、中、下游架设的小型自动气象站和土壤水分观测设备实测的2018年5月1日至2019年4月30日的气象和土壤水分资料，希望能通过收集到的数据对该区域进行水循环过程中降水、蒸散发等环节的定量研究,为整个西北内陆河浅山区小流域的蒸散发估算和干旱特征研究提供借鉴。本文主要针对不同下垫面、不同海拔开展流域内部蒸散发的区域变化规律研究和十旱特征的年内不同时间尺度的研究。本研究使用前人关于作物系数 $K _ { \mathrm { c } }$ 的估算经验公式[24-25],考虑到在荒漠区植被蒸腾量很小，主要是土壤蒸发，故在荒漠区实际蒸散发估算中采用双作物系数法，因为双作物系数法可以充分考虑到土壤蒸发对整个蒸散发的影响[4。本研究计算得到西土沟流域年实际蒸散发为 $2 5 8 ~ \mathrm { m m }$ ,对比已有的关于干旱区内陆河的实际蒸散发研究，田静等[31]的研究表明,近20a来西北地区的年均实际蒸散发为 $2 4 8 ~ \mathrm { m m }$ 。王翠[32]对新疆玛纳斯河流域蒸散发进行了研究,表明该流域的年实际蒸散发在 $2 0 0 { \sim } 2 5 0 ~ \mathrm { m m }$ 。李修仓[33的研究中认为，塔里木河流域的年实际蒸散发量为 $2 7 8 ~ \mathrm { m m }$ ，本文的研究结果与他们的研究结论较一致，说明Abid等[24]和Rocha等[25]用NDVI来估算作物系数的方法是可以在干旱内陆河流域应用的。此外,西土沟流域中下游年降水量不足 $5 0 ~ \mathrm { m m }$ ,比较稳定,流域植被指数NDVI非常低,中下游的NDVI在0.01\~0.47,平均NDVI为0.11,所以,植被蒸腾在该流域所占比重显著小于土壤蒸发，土壤蒸发的主要影响因素是降水和灌溉，对于西土沟流域这种少降水、低覆被的地区，土壤蒸发受到限制，导致作物系数 $K _ { \mathrm { c } }$ 很小，在流域整体气象要素变化较小的情况下，潜在蒸散发和实际蒸散发的年际变幅较小。结合已有的干旱内陆河流域蒸散发量研究，本文计算的实际蒸散发量与之较为接近，因此，虽然只有一年的气象和土壤水分数据，但仍然能在很大程度上代表流域乃至河西内陆河浅山区小流域的蒸散发和干旱特征。
+
+# 4.2干旱内陆河流域干旱指数SPEI的变化机制及 其适用性评价
+
+干旱指数由降水和潜在蒸散发控制，潜在蒸散发主要由温度,湿度,风速等要素控制[19.34]。从上游山区到下游荒漠区，降水、温度、风速、气压等要素发生明显变化，由此造成潜在蒸散发的区域差异，从而得出干旱指数的区域差异。在西土沟流域，上游位于阿尔金山东缘，海拔较高，温度、气压、降水是其与中下游的主要差异，低温和低压是造成上游山区潜在蒸散发量相对较小的主要原因。该流域发源于阿尔金山北麓，降水量大于中下游。而下游由于降水量在 $5 0 \mathrm { m m }$ 以下，相对于上游而言，高温和高风速造成潜在蒸散发较大，由此产生的上游和中下游降水与潜在蒸散发的差值存在差异，上游差值较小，中下游差值较大。根据标准化降水蒸散指数方法计算得出的上中下游的SPEI干旱指数存在差异(表3)，上游干旱指数平均为0.38，中游为0.05，下游为-0.53，根据表2的干旱等级划分，上游和中游属于正常年份，上游比中游略湿润，下游属于轻度干旱。从海拔及下垫面情况分析干旱指数的变化规律,海拔越高,潜在蒸散发和实际蒸散发越低[35],从上游到下游干旱指数随海拔的降低逐渐减小，上中游干旱指数为正，下游为负。下游SPEI指数降低主要由潜在蒸散发量控制。SPEI指数越低即指示流域内水量支出越多，水量收人越少。
+
+# 表3西土沟流域上、中、下游年均干旱指数
+
+Tab.3 Annual average SPEI index of upper,middle, lowerreaches of Xitugou watershed   
+
+<html><body><table><tr><td>站点位置</td><td>站点编号</td><td>SPEI指数</td><td>均值</td></tr><tr><td>上游</td><td>QYZ4</td><td>0.86</td><td>0.38</td></tr><tr><td rowspan="4">中游</td><td>QYZ3</td><td>0.07</td><td></td></tr><tr><td>QYZG</td><td>0.21</td><td></td></tr><tr><td>AKS</td><td>0.05</td><td>0.05</td></tr><tr><td>BST</td><td>-0.84</td><td>-0.53</td></tr><tr><td rowspan="2"></td><td>JLH</td><td>-0.69</td><td></td></tr><tr><td>CLL</td><td>-0.39</td><td></td></tr><tr><td></td><td>DHG</td><td>-0.18</td><td></td></tr></table></body></html>
+
+国内外采用的主流的干旱指数主要有标准化降水指数SPI、帕尔默干旱指数PDSI、标准化降水蒸散指数SPEI,其中PDSI指数在计算时需要前期降水量、土壤含水量、径流和潜在蒸散发量等参数，这些参数有些不易获取，比较依赖于研究的区域本身[36],而SPI指数只需要降水数据，没有考虑温度对干旱程度的影响[37],SPEI指数是在标准化降水指数 SPI的基础上加入了温度对干旱的影响，我国西北干旱内陆河流域，降水量偏少，多在 $5 0 ~ \mathrm { m m }$ 以下，如果仅考虑降水因素，会使结果的准确度偏低，因此，使用SPEI指数能更加合理的评估该流域的干旱程度。相关研究38也证明，SPEI具有优于PDSI和SPI的综合优势，而使用Penman-Monteith公式计算参考作物蒸散发,进而计算出的SPEI值(SPEI-PM)要比Harg-reaves和Thornthwaite方法计算的潜在蒸散发计算出的SPEI指数(SPEI-HA、SPEI-TH)更能准确客观的反映实际蒸散发情况[9-40]。
+
+# 5结论
+
+（1）在年内日时间序列上，西土沟流域潜在蒸散发和实际蒸散发以7月为中心，呈对称变化。3—10月是该流域蒸散耗水的主要时期。流域年潜在蒸散发量为 $9 7 8 ~ \mathrm { m m }$ ，实际蒸散发量为 $2 5 8 ~ \mathrm { m m }$ 。从上游到下游，潜在蒸散发和实际蒸散发呈现逐渐增加的区域变化规律。
+
+(2）8个观测点的年均SPEI指数排序：拜水台<九莲湖 $<$ 怪柳林 $\boldsymbol { \cdot }$ 敦煌宫<阿克塞 $<$ 青崖子 $3 <$ 青崖子沟 $<$ 青崖子4,干旱发生区域：西土沟流域上、中、下游均会出现不同程度的干旱，从上游到下游，干旱指数随海拔的降低逐渐减小，上游略湿润，到下游逐渐干旱。干旱发生时间：秋季是该流域干旱发生的主要季节，其次是夏季，下游的干旱程度和干旱持续时间要明显大于中上游。
+
+(3）西土沟流域上游降水量大于实际蒸散发量，是该流域主要的产流区，中游由于下垫面粗糙，入渗率大，地表径流转化为地下径流，下游降水量极少，地下径流出露地表，供人类生产生活以及蒸散耗水。流域整体上蒸散发量要显著大于降水量。
+
+（4）评估了利用NDVI指数计算的作物系数 $K _ { \mathrm { c } }$ 在河西内陆河流域实际蒸散发估算中的适用性，认为其计算出的实际蒸散发有较好的可信度。在SPEI指数计算中，利用Penman-Monteith公式计算的干旱指数SPEI-PM更加准确有效。西土沟流域为河西内陆河浅山区的代表性小流域，其蒸散发规律及干旱特征适用于整个无资料的内陆河浅山区小流域。
+
+# 参考文献(References):
+
+[1]王燕鑫,李瑞平,李夏子.河套灌区不同土地类型生长季蒸散发量估算及其变化特征[J].干旱区研究,2020,37(2):364-373.
+
+[Wang Yanxin,Li Ruiping,Li Xiazi. Estimationand variability of evapotranspiration for different land types during the growing seasonin the HetaoIrrigationDistrict[J].Arid ZoneResearch020, 37(2): 364-373.]   
+[2]Gu L,Hu Z, Yao J,et al. Actual and reference evapotranspiration in a cornfield in the Zhangye Oasis,Northwestern China [J]. Water,2017,9(7): 1-16.   
+[3]Kool D,Agamn N,Lazarovitch N,et al.A review of approaches for evapotranspiration partitioning [J]. Agricultural and Forest Meteorology, 2014,184: 56-70.   
+[4] Allen R G,Periera,Raes L S,et al.Crop evapotranspiration: Guidelines for computing crop water requirements [J].FAO Irigation and Drainage Paper 56,1998.   
+[5]Han S, Zhang B.Advances of evapotranspiration research based on the Penman approach and complementary principle [J]. Journal of Hydraulic Engineering,2018,49(9): 1158-168.   
+[6]Hargreaves G H, Samani Z A. Reference crop evapotranspiration from temperature [J]. Applied Engineering in Agriculture,1985,1 (2): 96-99.   
+[7]Priestley C B,Taylor R J. On the assessment of surface heat-flux and evaporation using large-scale parameters [J]. Monthly Weather Review,1972,100(2): 81-92.   
+[8]Blaney HF. Determining Water Requirements in Irrigated Areas from Climatological and Irrigation Data [M]. United States: Soil Conservation Service,1950.   
+[9]Rohwer C.Evaporation from Free Water Surfaces [M]. US Department of Agriculture, Washington, D.C.in cooperation with Colorado Agricultural Experiment Station,1931.   
+[10] 赵丽雯,吉喜斌.基于FAO-56双作物系数法估算农田作物蒸 腾和土壤蒸发研究——以西北干旱区黑河流域中游绿洲农田 为例[J].中国农业科学,2010,43(19):4016-4026.[Zhao Liwen, Ji Xibin. Quantification of transpiration and evaporation over agriculturalfedusing theFAO-56dual cropcoeficient approach: A case study of the maize field in an oasis in the middlestream of the Heihe River Basin in Northwest China[J]. Scientia Agricultura Sinica,2010,43(19): 4016-4026.]   
+[11] 李念,孙维君,秦翔,等.祁连山老虎沟地区高寒草甸蒸散发估 算[J].干旱区资源与环境,2016,30(6):173-178.[Li Nian, Sun Weijun, Qin Xiang,et al. Estimation of evapotranspiration in an alpine meadow in zone of Laohugou in Qilian Mountains[J]. Journal of Arid Land Resources and Environment,2016,30(6): 173-178.]   
+[12] 孙丽,宋长春.三江平原典型沼泽湿地蒸散发估测[J].应用生态 学报,2008,19(9): 1925-1930.[Sun Li, Song Changchun. Estimation of evapotranspiration from atypical marshin Sanjiang Plain[J]. Chinese Journal of Applied Ecology,2008,19(9): 1925-1930.]   
+[13]刘钰,彭致功.区域蒸散发监测与估算方法研究综述[J].中国水 利水电科学研究院学报,2009,7(2):256-264.[Liu Yu,Peng Zhigong. A review of monitoring and estimating methods for regional evapotranspiration[J]. Journal of China Institute of Water Resources and Hydropower Research, 2009,7(2): 256-264.]   
+[14]Jin X,Guo R, Xia W.Distribution of actual evapotranspiration over Qaidam Basin,an arid area in China [J]. Remote Sensing, 2013, 5(12): 6976-6996.   
+[15] 任庆福,杨志勇,李传哲,等.变化环境下作物蒸散研究进展[J]. 地球科学进展,2013,28(11):1227-1238.[Ren Qingfu, Yang Zhiyong,Li Chuanzhe,etal.Advancesinthestudyof thecrop evaptranspiration in changing environment[J].Advances in Earth Science,2013,28(11): 1227-1238.]   
+[16]Guo X, Cheng G.Advances in the application of remote sensing to evapotranspiration research [J].Advance in Earth Sciences,2004, 19(1): 107-114.   
+[17] 张杨,邱国玉,鄢春华,等.近50年来海拔高度对参考蒸散发变 化趋势的影响研究——以四川省为例[J].生态环境学报, 2018,27(12): 2208-2216.[Zhang Yang, Qiu Guoyu, Yan Chunhua,et al. Studies on the influenceof altitudes on the trend of reference evapotranspiration in recent 5O years:A case study of Sichuan province[J].Ecology and Environmental Sciences,2018,27 (12): 2208-2216.]   
+[18] 邱美娟,刘布春,刘园,等.吉林省参考作物蒸散量的时空变化 特征及影响因素[J].干旱气象,2019,37(1):19-126.[Qiu Meijuan,Liu Buchun,Liu Yuan, etal. Temporal-spatial variation characteristics of reference crop evapotranspiration and its influence factors in Jilin Province[J].Journal of Arid Meteorology,2019,37 (1) : 119-126.]   
+[19] 李元菲,张兰霞,曹永强,等.河北省潜在蒸散量时空变化特征 及气候影响因素分析[J].南水北调与水利科技,2019,17(3): 67-78.[Li Yuanfei, Zhang Lanxia,Cao Yongqiang,et al. Spatiotemporal variation characteristics of potential evapotranspiration and climate influencing factors in Hebei province[J].South-to-North Water Transfers and Water Science & Technology,2O19,17(3): 67-78.]   
+[20] Liu X,Zheng H, Zhang M,etal.Identification of dominant climate factor for pan evaporation trend in the Tibetan Plateau [J]. Journal of Geographical Sciences,2011,21(4): 594-608.   
+[21] 孙小龙,武荣盛,李平,等.内蒙古不同类型草原区Hargreaves 计算参考作物蒸散量的适用性分析[J].草业学报,2016,25(5): 13-20.[Sun Xiaolong,Wu Rongsheng,Li Ping,et al.An evaluation of the Hargreaves method for estimating reference evapotranspiration in diferent grassland types in Inner Mongolia, China[J]. Acta Prataculturae Sinica,2016,25(5): 13-20.]   
+[22] 赵玲玲,王中根,夏军,等.Priestley-Taylor公式的改进及其在互 补蒸散模型中的应用[J].地理科学进展,2011,30(7):805-810. [Zhao Linlin,Wang Zhonggen, Xia Jun,etal. Improved PriestleyTaylor method and its application in complementary relationship evapotranspiration model[J]. Progress in Geography,2011,30(7): 805-810.]   
+[23] 李天生,夏军,匡洋,等.不同潜在蒸散发估算方法在汉江流域 中上游地区的适用性研究[J].南水北调与水利科技,2017,15 (6): 1-10.[Li Tiansheng,Xia Jun,Kuang Yang,etal.The applicability of various potential evapotranspiration estimation methods in the middle and upper reaches of Hanjing River Basin[J]. Southto-North Water Transfers and Water Science & Technology,2017, 15(6): 1-10.]   
+[24] Abid N, Bargaoui Z,Mannaerts C M. Remote-sensing estimation of the water stress coefficient and comparison with drought evidence [J]. International Journal of Remote Sensing,2018,39(14): 4616- 4639.   
+[25] Rocha J,Perdigao A,Melo R,et al. Managing water in agriculture through remote sensing applications [C]//Proceedings of 30th EARSeL Symposium on Remote Sensing for Science,Education, and Natural and Cultural Heritage,Paris,France,2O1O,31: 223-230.   
+[26] 陈学林,牛最荣,黄维东,等.敦煌西土沟沙漠洪水资源开发利 用模式及成效分析[J].水文,2017,37(2):73-77.[Chen Xuelin, Niu Zuirong,Huang Weidong,et al. Mode and effect of flood resources utilization in Xitugou Watershed of Dunhuang[J]. Journal of China Hydrology,2017,37(2): 73-77.]   
+[27] 李晓媛,于德永.蒸散发估算方法及其驱动力研究进展[J].干旱 区研究,2020,37(1):26-36.[Li Xiaoyuan,Yu Deyong.Progress on evapotranspiration estimation methods and driving forces in arid and semiarid regions[J].Arid Zone Research,2020,37(1): 26-36.]   
+[28]Wright JL. New Evapotranspiration crop coefficients [J]. Journal of the Irrigation & Drainage Division-ASCE,1982,108:57-74.   
+[29] 张乐园,王弋,陈亚宁.基于SPEI指数的中亚地区干旱时空分 布特征[J].干旱区研究,2020,37(2):331-340.[Zhang Leyuan, Wang Yi, Chen Yaning. Spatial and temporal distribution characteristics of drought in Central Asia based on SPEI index[J].Arid Zone Research,2020,37(2): 331-340.]   
+[30] 尹文杰,张梦琳,胡立堂.柴达木盆地干旱时空变化特征[J].干 旱区研究,2018,35(2):387-394.[Yin Wenjie, Zhang Menglin, Hu Litang.Spatiotemporal variation of drought in the Qaidam Basin[J]. Arid Zone Research,2018,35(2): 387-394.]   
+[31] 田静,苏红波,陈少辉,等.近20年来中国内陆地表蒸散的时空 变化[J].资源科学,2012,34(7):1277-1286.[Tian Jing,Su Hongbo,Chen Shaohui, et al. Spatial-temporal variations of evapotranspiration in China mainland in recent 2O years[J]. Resources Science,2012,34(7): 1277-1286.]   
+[32] 王翠.节水措施对玛纳斯河流域蒸散发变化相关分析[J].陕西 水利,2019(7): 104-109.[Wang Cui. Correlation analysis of evapotranspiration changes in Manas River Basin based on water-saving measures[J]. Shaanxi Water Resources,2019(7): 104-109.]   
+[33] 李修仓.中国典型流域实际蒸散发的时空变异研究[D].南京: 南京信息工程大学,2013.[Li Xiucang.Spatio-Temporal Varia
+
+tion of Actual Evapotranspiration in the Pearl,Haihe and Tarim River Basins of China[D].Nanjing: Nanjing University of Information Science & Technology,2013.]
+
+[34] 罗那那,巴特尔·巴克,吴燕锋.石河子地区参考作物蒸散量变 化特征及气候因子的定量分析[J].水土保持研究,2016,23(5):   
+251-255.[Luo Nana,Bake Bateer,Wu Yanfeng. Correlation analysis of potential evapotranspiration and key climatic factors in Shihezi city[J].Research of Soil and Water Conservation,2016,23(5):   
+251-255.] [35] 徐俊增,彭世彰,张瑞美,等.参考作物蒸发蒸腾量随纬度与海 拔的变化规律研究[C]/农业工程科技创新与建设现代农业 -2005年中国农业工程学会学术年会论文集第二分册.北 京：中国农业工程学会,2005:134-137.[Xu Junzeng,Peng Shizhang, Zhang Ruimei,et al. Reference evapotranspiration varied with latitude and altitude[C]//Chinese Societyof AgriculturalEngineering.Agricultural Engineering Technology Innovation and Construction of Modern Agriculture: Second Volume of Proceedings of the 2005 Annual. Beijing: Conference of the Chinese Society of Agricultural Engineering,2005: 134-137.] [36] 杨庆,李明星,郑子彦,等.7种气象干旱指数的中国区域适应 性[J].中国科学:地球科学,2017,47(3):337-353.[Yang Qing, Li Mingxing, Zheng Ziyan,et al. Regional adaptability of 7 meteorological drought indexes in China[J]. Scientia Sinica Terrae,2017,   
+47(3): 337-353.] [37] 孙艺杰,刘宪锋,任志远,等.1960—2016年黄土高原多尺度干 旱特征及影响因素[J].地理研究,2019,38(7):1820-1832.[Sun Yijie,Liu Xianfeng,Ren Zhiyuan,et al. Spatiotemporal variations of multi-scale drought and its influencing factors across the Loess Plateau from 1960 to 2016[J]. Geographical Research,2019,38 (7): 1820-1832.] [38]Jiang R,Xie J,He H,et al. Use of four drought indices for evaluating drought characteristics under climate change in Shaanxi, China: 1951-2012 [J]. Natural Hazards,2014,75(3): 2885-2903. [39] 郭旭新,赵英,高志永,等.基于SPEI的陕北黄土丘陵区干旱特 征及影响因素分析[J].西北林学院学报,2019,34(1):69-76. [Guo Xuxin, Zhao Ying,Gao Zhiyong,et al. SPEI based drought characters and factors in Loess Hilly regions of Northern Shaanxi [J]. Journal of NorthwestForestry University,2019,34(1): 69-76.] [40]Li X,Sha J, Wang ZL. Comparison of drought indices in the analysis of spatial and temporal changes of climatic drought events in a basin [J]. Environmental Science Pollution Research,2019,26 (11): 10695-10707.
+
+# Study of evapotranspiration estimation and drought characteristics of watershed in low coteau area of Hexi inland river
+
+CHENG Wen-ju'²， XI Hai-yang'， SI Jian-hua'， LI Ai-lin³
+
+(1.Northwest InstituteofEco-Environmentand Resources,Chinese Academy ofSciences Key laboratoryof   
+EcohydrologyofInlandRiverBasin,ChineseAcademyofSciences,AlxaDesertEco-Hydrological Experimental   
+Research Station,Lanzhou730o,Gansu,China;2.UniversityofChineseAcademyofSciences,Beijing10049, China; 3.Grassland workstation ofAlxa Right Banner,Alxa 750306,Inner Mongolia, China)
+
+Abstract: In order to reveal the evapotranspiration and drought characteristics of typical small watershed in low coteau areaof Hexi inland river inthearid regions of northwest China,the Xitugou watershed in Dunhuang is used as an example to calculate the potential evapotranspiration of eight observation sites by Penman-Monteith formula based on theconventional meteorological data.On this basis,the actual evapotranspiration of each observation station was calculated by using the methodof dual cropcoeffcient,which was based on NDVI,and then the standardized precipitation evapotranspiration index SPEIof the watershed was calculated.The results show that the anual potential evapotranspiration and actual evapotranspiration are978 mm and 258 mm,respectively.From he upper reaches to the lower reaches,with the decreaseof altitude,the evapotranspiration shows a diferent degree of increase;the duration of drought inthe lower reaches of the basin is long,and the whole growth season willhave diferent degrees of drought,autumn is the main season of drought; the precipitation in the upper reaches of the watershed is greater than the actal evapotranspiration,the actual evapotranspiration of middle and lower reaches is greater than precipitation; the $K _ { \mathrm { c } }$ value of the crop coefficient calculated by the NDVI has good applicability in the estimation of actual evapotranspiration,and the drought index SPEI is more advantageous than SPIand PDSI inthe drought assessment in thearid inland river basin of northwest in China.This study calculated the potential and actual evapotranspirationof the Xitugou watershed,evaluated the monthlyand seasonaldrought characteristicsof the watershed,and provided guidance forthe production and living waterconsumption of the watershed,especially in the middle and lower reaches.This research obtained the general disciplines to no data riverin the low coteau area of the whole Hexi inland river.
+
+Keywords:Hexi inland rivers; evapotranspiration; drought index; Xitugou watershed

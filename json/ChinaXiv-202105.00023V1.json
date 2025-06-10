@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "木麻黄原生境种子萌发及幼苗存活的影响因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王玉，郝清玉\\*1（热带岛屿生态学教育部重点实验室，海南省热带动植物生态学重点实验室，海南师范大学生命科学学院，海口571158）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：木麻黄无法天然更新已严重影响了海南岛木麻黄海防林发挥其永续的防护效能。该文以海口木麻黄海防林为原生境试验基地，采用5因素2水平的因子试验设计方法，共计设计36 个处理组合，探究木麻黄种子萌发及幼苗存活的影响因素及障碍因子。结果表明：（1)木麻黄种子发芽率最高的处理组合为林窗-不浇水-沙土-保水-盖土（GJOSBM），发芽率为$3 7 . 3 3 \\%$ ，显著高于其它组合（ $\\textstyle P { < } 0 . 0 5 )$ ；平均株高最高的处理组合为林窗-浇水-红土-不保水-不盖土（GJRBOMO），平均株高为 $6 . 4 3 \\mathrm { \\ c m / 5 3 \\mathrm { \\ d } }$ ，显著高于其它组合（ $\\cdot P { < } 0 . 0 5 \\dot { 2 }$ ）；存活率最高的组合为林窗-浇水-沙土-保水-盖土（GJSBM），存活率为 $7 9 . 0 0 \\% / 7 3 \\ \\mathrm { ~ d ~ }$ ，显著高于其它组合（ $\\textstyle P { < } 0 . 0 5 )$ ；（2）林分光照条件、盖土方式是影响木麻黄种子发芽率及发芽势的影响因素，保水方式对种子发芽速则有显著影响；（3）林分光照条件是影响木麻黄幼苗株高的影响因素；（4）浇水方式是影响木麻黄幼苗存活率的主要影响因素。综上所述，木麻黄自身无法天然更新的障碍机制不在于种子萌发，而在于木麻黄幼苗在海南旱季因缺乏必要的水分而无法存活，从而导致木麻黄自身无法天然更新。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：木麻黄海防林，原生境试验，种子萌发，幼苗存活，海南岛中图分类号：S718.5 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impact factors on seed germination and seedling survival in Casuarina equisetifolia natural habitat ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Yu, HAO Qingyu\\* (Ministry of Education Key Laboratory for Ecology of Tropical Islands, Key Laboratory of Tropical Animal and Plant Ecology of Hainan Province, College of Life Sciences, Hainan Normal University,Haikou 571158, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The sustainable protective efficiency of Casuarina equisetifolia coastal protection forest(CCPF） in Hainan Island has been seriously affected as $C .$ equisetifolia itself can not regenerate naturally. In this paper, Haikou CCPF was taken as the test area of the natural habitat, and a total of 36 treatment combinations were designed by using 5-factor 2-level factor test method to explore the impact factors and barrier factors of $C$ ，equisetifolia seed germination and seedling survival. The results were as follows :(1) the treatment combination with the highest sed germination rate of $C .$ equisetifolia was canopy gap - not watering - sandy soil - water retention - seed covered with soil (GJOSBM),with $3 7 . 3 3 \\%$ of the germination rate ，which was significantly higher than that of other combinations ( $\\begin{array} { r } { P < 0 . 0 5 , } \\end{array}$ ). The treatment combination with the highest average plant height was canopy gap - watering - red soil - no water retention - seed not covered with soil (GJRB0MO),with the plant height of $6 . 4 3 \\mathrm { c m }$ in $5 3 \\mathrm { ~ d ~ }$ ，which was significantly higher than that of other combinations $( P < 0 . 0 5 )$ . The treatment combination with the highest survival rate was canopy gap - watering - sandy soil - water retention - seed covered with soil (GJSBM), with $7 9 . 0 0 \\%$ of the survival rate for $^ { 7 3 \\mathrm { ~ d ~ } }$ ，which was significantly higher than that of other treatment combinations $( P < 0 . 0 5 )$ . (2） stand light conditions and covering soil patterns were the impact factors for seed germination rate and germination potential of $C .$ equisetifolia,whilewater retention patterns had significant effects on seed germination speed. (3） stand light conditions were the impact factors for $C .$ equisetifolia seedling plant height.(4) watering treatment was the main factor affecting the survival rate of $C$ ，equisetifolia seedlings. In summary，the barrier mechanism of $C .$ equisetifolia natural regeneration is not from the seed germination,but from the C. equisetifolia seedlings unable to survive in Hainan dry season due to the lack of necessary water, resulting in the failure of $C .$ . equisetifolia itself natural regeneration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Casuarina equisetifolia coastal protection forest, natural habitat test， seed germination, seedling survival, Hainan Island ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木麻黄（CasuarinaequisetifoliaL.）是海南岛人工防护林的建群树种，在 $1 ~ 8 2 3 ~ \\mathrm { k m }$ 的海岸线中，由木麻黄为主构建的沿海防护林带长约 $1 ~ 4 5 0 \\mathrm { k m }$ ，面积达5.6万 $\\mathrm { h m } ^ { 2 }$ （刘强和张亚辉，2002），木麻黄海防林当之无愧成为海南岛防风固沙及生态安全的天然屏障。木麻黄生长迅速（张勇等，2017），抗风力强，耐土壤贫瘠，不怕沙埋，显现出相当好的地域适应性及抗风沙能力，已成为我国南方滨海防风固沙的优良先锋树种（Chen etal.,2018）。然而，木麻黄作为外来树种也存在一些生态风险及天然更新质量不佳等问题，如：林下积累厚厚的凋落物层，不易分解，易引起森林火灾等（郝清玉等，2020）；木麻黄自身未见有天然更新，局部其他树种天然更新良好的比例较低，仅为 $1 5 . 1 \\%$ （杨彬等，2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天然更新是林木通过自身繁殖能力形成新一代幼林的过程，包括植物开花和结实、种子扩散和萌发、幼苗建成和生长等过程（Harper，1977），其中种子萌发和幼苗建成是植物生活史最为关键和脆弱的系列过程（Nathan＆Muller-Landau，2000）。天然更新是森林近自然经营的重要原则，也是森林可持续经营的有效途径（唐继新等，2020）。木麻黄是外来植物，人工种子育苗和无性繁殖技术都比较成熟，但在海南岛无法实现天然更新，因此迫切需要揭示木麻黄海防林无法实现天然更新的障碍机制，以便更好发挥其永续的防护效能。森林自然更新过程极为复杂，树种成功天然更新（种子繁殖）必须同时满足三个条件：（1）种子数量充足，质量良好；（2）适宜种子萌发的微生境（彭闪江等，2004）；（3）幼苗和幼树成功存活的生态条件（王玉等，2020）。研究表明，木麻黄种子雨雨量充足！ $( 7 1 2 . 6 0 { \\sim } 1 7 6 5$ 粒 $\\cdot _ { \\mathrm { m } ^ { - 2 } \\cdot \\mathbf { a } ^ { - 1 } }$ ），散播时间较长（ $_ { 9 \\mathrm { ~ M ~ } }$ ），新鲜种子质量良好，萌发率为 $5 8 . 4 3 \\%$ ，因此条件（1）种源不是木麻黄天然更新的限制因子（杨彬等，2019；Yangetal.,2020）。为了进一步探究条件（2）微生境条件是否存在限制种子萌发的可能性，在实验室进行了种子萌发限制生态因子的试验，结果表明：pH、盐度、温度对木麻黄种子发芽率均无显著影响，但PEG溶液浓度及浇水频度对木麻黄种子发芽率具有显著影响，表明水分是影响种子萌发的重要因素之一（王玉等，2020）。光照时间、光照强度和光质均对木麻黄种子萌发也有影响（管康林，1984）。此外，研究表明，气候因子、木麻黄林分密度和木麻黄凋落物积累量是影响木麻黄海防林林下植物（幼苗、幼树）天然更新的主要因素（杨彬等，2020）。木麻黄含有多种化感物质，对不同植物种子萌发及幼苗的生长具有抑制和促进双重作用，如：木麻黄水浸液对青皮（Vatica mangachapoi）种子的萌发具有抑制作用（王春晴等，2012），对木麻黄自身种子则无抑制作用（王玉等，2020）；木麻黄水浸液对潺槁（Litsea glutinosa）苗的生长有促进作用（陈旭阳等，2013），但小枝提取物则显著地抑制木麻黄幼苗的生长（邓兰桂等，1996）。这些研究结果表明，木麻黄化感对自身天然更新的抑制作用是有限的，尽管会影响到木麻黄幼苗的生长，但并非是制约木麻黄自身无法天然更新的障碍因子。综上所述，光照和水分是影响木麻黄种子萌发的主要影响因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述关于木麻黄种子萌发的研究是在实验室条件下进行的，在木麻黄原生境条件下，木麻黄种子是否能够顺利萌发？幼苗是否能够存活？还未见报道。本文以木麻黄原生境为试验基地，采用因子试验设计方法，分为容器和林地对照试验组，研究光照、盖土、保水、浇水、基质处理对种子萌发及幼苗生长的影响，分析木麻黄种子萌发和幼苗存活的最佳生态条件，影响因素，从而进一步揭示木麻黄自身无法天然更新的障碍机制，为木麻黄海防林的永续经营及人工林向“近自然林”方向转化提供理论基础和技术支持。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区域位于海南省海口市后尾村附近的木麻黄沿海防护林， $1 1 0 ^ { \\circ } 2 6 ^ { \\prime } 3 0 . 7 1 ^ { \\prime \\prime } { \\mathrm { ~ E } } .$ $2 0 ^ { \\circ } 0 2 ^ { \\prime } 3 6 . 7 3 ^ { \\prime \\prime } \\mathrm { \\Delta N } .$ ，属于热带季风气候。全年日照时间长，辐射能量大，年平均日照时数$2 0 0 0 \\mathrm { ~ h ~ }$ 以上，太阳辐射量可达 $1 1 0 \\ 0 0 0 { \\sim } 1 2 0 \\ 0 0 0$ cal。年平均气温 $2 4 . 3 ~ \\mathrm { { ^ { \\circ } C } }$ ，最高平均气温 $2 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 左右，最低平均气温 $1 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 左右。年平均降水量 $2 0 6 7 \\mathrm { m m }$ ，年平均蒸发量 $1 8 3 4 \\mathrm { m m }$ ，常年风向以东南风和东北风为主，年平均风速 $3 . 4 ~ \\mathrm { \\ m ^ { 6 } s ^ { - 1 } }$ 。试验期间，平均温度为 $2 5 . 3 \\sim$ $1 9 . 0 \\mathrm { { ^ \\circ C } }$ ，极端最高温度为 $3 4 . 5 { \\sim } 3 1 . 2 ^ { \\circ } \\mathrm { C }$ ，平均月降水量为 $2 2 4 . 4 \\sim 3 4 . 9 ~ \\mathrm { m m }$ ，降水天数为$1 2 . 5 \\sim 7 . 3 \\mathrm { ~ d ~ }$ ，平均风速为 $2 . 5 \\sim 2 . 4 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ （海口历史天气预报查询，2019）。试验初期为雨季，降雨量较多，试验后期为旱季，降雨量则较少。土壤为滨海沙土，土壤贫瘠，土壤pH 值为6.1，土壤养分含量：氨态氮为 $1 6 . 5 5 9 \\mathrm { \\ m g ^ { \\bullet } k g ^ { - 1 } }$ ，有效磷为 $1 1 . 6 0 6 ~ \\mathrm { { m g ^ { \\bullet } k g ^ { - 1 } } }$ ，速效钾为 $1 0 . 7 4 2 \\ \\mathrm { m g ^ { \\bullet } k g ^ { - 1 } }$ 。木麻黄林分密度为 $1 ~ 7 5 0 . ~ 0 0 ~ \\mathrm { p l a n t } \\bullet \\mathrm { h m } ^ { - 2 }$ ，平均胸径为 $7 . 2 7 \\ \\mathrm { c m }$ ，平均树高为 $9 . 3 3 ~ \\mathrm { m }$ ，调落物厚度为 $6 . 0 0 ~ \\mathrm { c m }$ ，郁闭度为0.80，光照度为 $1 1 5 2 4 { \\mathrm { L U X } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计及研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了探究木麻黄原生境种子萌发及幼苗存活的最佳生态条件及影响因素，本试验采用因子试验设计方法，选择对木麻黄种子萌发具有潜在影响的光照、浇水、保水、基质和盖土作为处理因素，其中保水、基质和盖土处理是影响种子微生境土壤水分的间接因素。本试验采用容器和林地2个试验组，其中林地（沙地）为对照组，模拟种子的自然萌发及幼苗生长情况，容器组为试验处理组。容器组指种子萌发试验是在木麻黄原生境林地上设置的容器内进行的，而林地对照组试验是指木麻黄种子直接撒播到林地上。试验容器为高 $1 8 ~ \\mathrm { c m }$ ，口径为9 cm的塑料杯。杯内基质的深度约为 $1 2 \\mathrm { c m }$ 。容器组设计为5因素2水平，分别为：（1)光照条件：林窗中和林冠下，其中林窗中的处理组合完全暴露在强光下，林窗直径约 $8 \\mathrm { m }$ ，林冠下的处理组合则处于木麻黄林冠的庇荫条件下；（2）种子盖土处理：盖土和不盖土，其中盖土厚度为 $0 . 3 \\sim 0 . 5 \\mathrm { c m }$ ；（3）保水处理：保水和不保水，其中试验容器底部扎孔为不保水处理，不扎孔则为保水处理。保水性从小到大依次为林地（滨海沙土）、容器不保水和容器保水；（4）浇水处理：浇水和不浇水，其中不浇水处理完全依靠自然降雨，试验过程不进行任何浇水；浇水处理除了自然降雨外，还定期补充水分，试验初期每3d前往木麻黄原生境试验地一次，发现基质干燥则补充水分，补水量以基质浇透为准；（5）基质：沙土和红土，其中沙土与沙地土相同，保水性红土好于沙土。林地对照组不进行任何浇水和保水处理，设计为2因素2水平，分别为光照条件和种子盖土处理，2个水平同上，其中基质为沙地，因此在浇水和保水处理分析中，林地处理组分别属于沙地不浇水和沙地不保水。容器组为 $2 ^ { 5 } { = } 3 2$ 个处理组合，林地组为 $2 ^ { 2 } { = } 4$ 个处理组合，2个试验组共计36个处理组合，试验处理组合详见表1。每处理组合设置3个重复，每重复播散50粒种子。供试种子于2019 年10月初采自海口后尾村附近的木麻黄海防林。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，为了避免雨量过大，将试验容器内的种子冲走，在容器上壁距离杯口2cm 处扎漏水小孔，用于排除容器内过量的雨水。2个试验组上方安置白色塑料网，以防止林内种子雨散播到试验组影响试验结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dfbf2a04fb7d6921f0b16aac2815448c72f9f7a6e85524f3f1a12ca8667d5a90.jpg",
+        "table_caption": [
+            "表1种子萌发试验处理因素及试验组合",
+            "Table 1Treatment factors and test combinations for the seed germination tes1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table1</td><td>Treatmentiactors</td><td colspan=\"9\"></td></tr><tr><td>处理</td><td>处理</td><td rowspan=\"2\">光照</td><td rowspan=\"2\"></td><td rowspan=\"2\">浇水</td><td rowspan=\"2\">基质</td><td rowspan=\"2\">保水 Water</td><td rowspan=\"2\"></td><td rowspan=\"2\">Covering</td><td rowspan=\"2\">盖土</td><td rowspan=\"2\"></td><td rowspan=\"4\"></td></tr><tr><td></td><td></td></tr><tr><td>编号</td><td>代码</td><td rowspan=\"2\">Light</td><td rowspan=\"2\"></td><td rowspan=\"2\">Watering</td><td rowspan=\"2\">Matrix</td><td rowspan=\"2\"></td><td rowspan=\"2\">retention</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">soil</td><td rowspan=\"2\">不保盖土不盖</td></tr><tr><td>Treat-</td><td>Treat-</td></tr><tr><td>ment Vumber</td><td>ment code</td><td></td><td>林窗林冠 浇水 C J</td><td>水J0</td><td>不浇 沙土红土 沙地 保水 S R</td><td>D</td><td>B</td><td>水</td><td></td><td></td><td>土</td><td></td></tr><tr><td></td><td></td><td>G</td><td></td><td>√</td><td>√</td><td></td><td></td><td>√</td><td>B0</td><td>M</td><td>M0</td><td></td></tr><tr><td>1 2</td><td>GJSBM GJSBM0</td><td>√ √</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td>√</td><td>√</td><td></td></tr><tr><td>3</td><td>GJSB0M</td><td>√</td><td></td><td></td><td>√</td><td></td><td></td><td>√</td><td>√</td><td>√</td><td></td><td></td></tr><tr><td>4</td><td>GJSB0M</td><td>√</td><td></td><td>√</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>5</td><td>0 GJRBM</td><td>√</td><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>6</td><td>GJRBM0</td><td>√</td><td></td><td>√</td><td></td><td>√ √</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>7</td><td>GJRB0M</td><td>√</td><td></td><td>√ √</td><td></td><td>√</td><td></td><td></td><td>√</td><td>√</td><td></td><td></td></tr><tr><td>8</td><td>GJRB0M</td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>9</td><td>0 GJ0SBM</td><td>√</td><td></td><td>√</td><td>√</td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td></td></tr><tr><td>10</td><td>GJ0SBM</td><td>√</td><td></td><td>√</td><td>√</td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td>容器组</td></tr><tr><td>11</td><td>0 GJ0SB0</td><td>√</td><td></td><td>√</td><td>√</td><td></td><td></td><td></td><td>√</td><td>√</td><td></td><td>Container group</td></tr><tr><td>12</td><td>GJ0SB0</td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td>M0 GJ0RBM</td><td>√ √</td><td></td><td>√ √</td><td></td><td>√</td><td></td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>14</td><td>GJ0RBM</td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td></td><td>√</td><td></td></tr><tr><td>15</td><td>0 GJ0RB0</td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td></td><td>√</td><td>√</td><td></td><td></td></tr><tr><td>16</td><td>M GJ0RB0</td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>17</td><td>M0 CJSBM</td><td></td><td>√</td><td>√</td><td>√</td><td></td><td></td><td>√</td><td></td><td>√</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td>CJSBM0</td><td></td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd80f537890db93b122b7942d570be78b49c03eefa6c81b7fc0466f2807b5a34.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：G.林窗；C.林冠；J.浇水；J0.不浇水；S.沙土；R.红土；D.沙地；B.保水；B0.不保水；M.盖土；Mo.不盖土。Note: G. Canopy gap；C.Crown canopy；J.Watering； J0. Not watering； S.Sandy soil;R.Red soil; D.Sand; B. Water retention； B0.Not water retention； M. Covering soil;Mo.Not covering soil."
+        ],
+        "table_body": "<html><body><table><tr><td>19</td><td>CJSB0M</td><td>√</td><td>√</td><td>√</td><td></td><td>√ √</td><td></td></tr><tr><td>20</td><td>CJSB0M 0</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>21</td><td>CJRBM</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>22</td><td>CJRBM0</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>23</td><td>CJRB0M</td><td>√</td><td>√</td><td>√</td><td></td><td>√ √</td><td></td></tr><tr><td>24</td><td>CJRB0M 0</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>25</td><td>CJ0SBM CJ0SBM</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>26</td><td>0</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>27</td><td>CJ0SB0 M</td><td>√</td><td>√</td><td>√</td><td></td><td>√ √</td><td></td></tr><tr><td>28</td><td>CJ0SB0 M0</td><td>√</td><td>√</td><td></td><td></td><td>√</td><td>√</td></tr><tr><td>29</td><td>CJ0RBM</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>30</td><td>CJ0RBM 0</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>31</td><td>CJ0RB0 M</td><td>√</td><td>√</td><td>√</td><td></td><td>√ √</td><td></td></tr><tr><td>32</td><td>CJORB0 M0</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>33</td><td>GJ0DB0 √ M</td><td></td><td>√</td><td>√</td><td></td><td>√ √</td><td></td></tr><tr><td>34</td><td>GJ0DB0 √ M0</td><td></td><td>√</td><td>√</td><td>√</td><td></td><td>√ 林地组 Forest</td></tr><tr><td>35</td><td>CJ0DB0 M</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>land group</td></tr><tr><td>36</td><td>CJ0DB0 M0</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td>√</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3数据收集、处理与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "种子萌发及幼苗生长试验开始于2019年10月13日，至2019年12月25日结束，共计73d，一般每3日记录一次种子萌发或幼苗存活数量，但试验末期，间隔期长达20d，以分析较长时间不进行人工浇水干预对幼苗存活率的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发芽率 $\\mathrm { G _ { R } { = } N _ { 1 } / N \\times 1 0 0 }$ （%），其中 $\\mathrm { \\Delta N _ { 1 } }$ 为供试种子发芽粒数，N为供试种子总粒数。发芽速 $G _ { \\mathrm { v } } = \\Sigma$ （ ${ \\mathrm { D } } \\times { \\mathrm { n } }$ ）/ $\\Sigma _ { \\mathrm { n } }$ （d），其中 $\\mathrm { G } _ { \\mathrm { v } }$ 为平均发芽速，即种子发芽所需要的平均时间，D为从种子种植算起的天数，n为相应各日正常发芽粒数。发芽势 $\\mathrm { G _ { \\mathrm { p } } { = } N _ { \\mathrm { m } } / N \\times 1 0 0 }$ ( $\\mathrm { ~ \\ : ~ } _ { 0 } ^ { \\cdot }$ ），其中 $\\mathrm { N _ { m } }$ 为种子发芽达到最高峰时种子发芽粒数。相对发芽率 $\\mathrm { G _ { r } { = } N _ { t } / N _ { \\mathrm { 1 } } \\times 1 0 0 }$ （%），其中 $\\mathrm { N _ { t } }$ 为 $ { \\mathrm { ~  ~ { ~ \\ell ~ } ~ } } _ { \\mathrm { { t } } }$ 时刻种子发芽粒数。幼苗存活率与相对发芽率公式相同， $\\mathrm { N _ { 1 } }$ 含义也相同，但 $\\mathrm { N _ { t } }$ 为t时刻幼苗存活的数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "差异性检验均使用GIM 单变量方差分析(Duncan 多重比较)。上述统计过程均在 Excel2019 和 SPSS 17.0 软件中完成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1木麻黄原生境种子萌发的影响因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图1可知,36个处理组合中，发芽率从低到高变化明显，其中发芽率最高组合(GJOSBM)比最低组合（CJRBMO）高 $5 4 7 1 . 6 4 \\%$ 。根据方差分析结果，36个处理组合可分为3组，即与发芽率最低组合无显著差异组（15个处理组合）、与发芽率最高组合无显著差异组（17个处理组合）和与发芽率最低、最高组合均有显著差异组（4个处理组合）。其中在这15个发芽率较低的处理组合中，林冠占 $8 8 . 0 0 \\%$ ，不浇水占 $7 3 . 3 3 \\%$ ，沙地占 $2 6 . 6 7 \\%$ （林地对照组全部），沙土和红土各占 $4 0 . 0 0 \\%$ 和 $3 3 . 3 3 \\%$ ，不保水占 $6 0 . 0 0 \\%$ ，不盖土占 $7 3 . 3 3 \\%$ 。在17个发芽率较高的处理组合中，林窗占 $8 2 . 3 5 \\%$ ，浇水、沙土、保水处理分别占 $5 2 . 9 4 \\%$ ，盖土占$6 4 . 7 1 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc129ec9fc66901f891bb188755c5f20059cf1b9aba4ed225d7fa6312640f75c.jpg",
+        "img_caption": [
+            "图1不同处理组合种子发芽率",
+            "Fig.1Seed germination rates of different treatment combinations "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图 $2 \\sim$ 图 4中可知，在各种处理中，沙地均显著低于容器的种子发芽率和发芽势，但发芽速沙地则更快。此外，林地种子平均发芽率很低，仅为 $2 . 8 3 \\%$ ，显著低于容器不浇水种子平均发芽率（ $2 0 . 7 9 \\%$ （ $\\cdot \\mathrm { P } { < } 0 . 0 1 \\$ ）。在容器试验组中，光照条件和盖土方式是影响种子发芽率和发芽势的2个因素，保水方式则影响发芽速，其中发芽率和发芽势为林窗中显著高于林冠下；盖土显著高于不盖土；在发芽速方面，仅不同保水方式存在显著差异，其中保水方式显著慢于不保水方式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：不同处理中不同字母表示在0.05水平上呈显著差异。下同。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2c2743d4e72afd9aad926450e75afc0015aa1dc718398bf2f841e7ddf56b640.jpg",
+        "img_caption": [
+            "图2不同处理方式种子平均发芽率"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Diffrent letters in different treatments show significant differences at 0.O5 level.The same below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Average germination rates of seeds with different treatments ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "eeee a a a a b a a a a   \nb b b b   \ndedoue Coea H u upee 10pues eee ee oonp 11   \n光照 浇水处理 基质 保水处理 盖土处理   \nLight Watering treatment Matrix Watereretention Coveringestil ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/80d238361f7d7bac102b0b984978fd1d84b7a3f420e9952203d3a1514fd21ceb.jpg",
+        "img_caption": [
+            "图3不同处理方法种子平均发芽势",
+            "Fig.3Average germination potential of seeds treated with different methods ",
+            "图4不同处理方法种子平均发芽速",
+            "Fig.4Average germination speeds of seeds with different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2木麻黄原生境幼苗生长的影响因素",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从表2可知，试验历经 $5 3 \\mathrm { ~ d ~ }$ 后，36个处理组合中，幼苗扔存活的处理组合仅剩下15个，存活的处理组合数仅为 $4 1 . 6 7 \\%$ 。在存活的15个处理组合中，平均株高最高的处理组合（GJRB0M0）显著高于平均株高最小的处理组合（CJ0RBM），2者相差2.88倍。其中在与平均株高最高的处理组合无显著差异的5个处理组合中，浇水处理占 $1 0 0 \\%$ ，红土基质和林窗条件各占 $80 \\%$ 。在不同的处理组合中，存活株数也存在差异显著，其中在与存活株数最多的组合（GJSBM）无显著差异的5个处理组合中，林窗和浇水处理各占 $1 0 0 \\%$ ，红土基质和不保水处理各占 $6 0 \\%$ ，盖土处理占 $8 0 \\%$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8455a9731e9a457967896002b718283b9114b8f7e76af7ff8a3a3e32f220f720.jpg",
+        "table_caption": [
+            "表2木麻黄幼苗历经53d的生长情况",
+            "Table 2Growth of Casuarina equisetifolia L. seedlings after 53d "
+        ],
+        "table_footnote": [
+            "注：各列中不同处理组合的不同字母表示在0.05水平上呈显著差异。"
+        ],
+        "table_body": "<html><body><table><tr><td>处理组合 Treatment combination</td><td>平均株高 Average plant height</td><td>存活株数 Survival seedling</td><td>重复样本数 Replication sample</td></tr><tr><td>CJ0RBM</td><td>(cm)</td><td>number</td><td>number</td></tr><tr><td>CJRBM</td><td>2.23a</td><td>3.50ab</td><td>2 3</td></tr><tr><td>GJSB0M0</td><td>2.62a</td><td>6.33abcd</td><td>3</td></tr><tr><td>CJSBM</td><td>2.76ab</td><td>6.33abcd</td><td>3</td></tr><tr><td>GJSBM0</td><td>2.78ab 2.95</td><td>6.00abc 2.00</td><td>1</td></tr><tr><td>CJSBM0</td><td>3.33abc</td><td>1.50a</td><td>2</td></tr><tr><td>CJRB0M</td><td>3.59abc</td><td>6.00abc</td><td>3</td></tr><tr><td>CJ0RBM0</td><td>3.82abc</td><td>2.00a</td><td>2</td></tr><tr><td>GJSB0M</td><td>4.03abc</td><td>6.00abc</td><td>2</td></tr><tr><td>GJSBM</td><td>4.06abc</td><td>12.33e</td><td>3</td></tr><tr><td>GJRBM0</td><td>4.38abcd</td><td>6.33abcd</td><td>3</td></tr><tr><td>GJRBM</td><td>4.88bcd</td><td>12.00de</td><td>3</td></tr><tr><td>CJSB0M</td><td>5.06cd</td><td>8.00bcde</td><td></td></tr><tr><td>GJRB0M</td><td>6.23d</td><td></td><td>2</td></tr><tr><td>GJRB0M0</td><td>6.43d</td><td>10.00cde 9.00bcde</td><td>3</td></tr><tr><td>Total</td><td>3.96</td><td></td><td>2</td></tr><tr><td></td><td></td><td>6.97</td><td>37</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Note:Different letters of different treatment combinations in each column show significantlydifferences at the 0.05 level. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "方差分析结果表明，在5个处理因素中，仅光照条件和保水处理2个因素是幼苗株高的影响因素，其中平均株高为林窗中显著高于林冠下，不保水处理显著高于保水处理（图5）。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc3c871d2913a533aa563b074a59e1127b5bdc42fd497df10c49d31bed75e33a.jpg",
+        "img_caption": [
+            "图5不同处理方式的幼苗株高",
+            "Fig.5Seedling heights of different treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3幼苗存活率的影响因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3.1幼苗存活率最佳组合",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "截止到试验末期，36个处理组合中，仅剩8个组合的木麻黄幼苗保持存活，平均存活率为 $3 9 . 7 9 \\%$ ，其中存活率最低的组合为林窗-浇水-沙土-不保水-盖土（GJSB0M），存活率仅为 $9 . 3 3 \\%$ ，存活率最高的组合为林窗-浇水-沙土-保水-盖土（GJSBM），存活率为$7 9 . 0 0 \\%$ ，2者相差8.47倍（图6）。在这8条存活率曲线中，存活率最高的GJSBM曲线变化最为平稳，一直保持较高的幼苗存活率，仅在试验末期出现一次明显递减。存活率最低的GJSB0M曲线则出现3次递减。其它存活曲线则基本上介于存活率最高和最低的2条曲线之间，呈波动变化。8个存活的处理组合中，浇水方式占 $1 0 0 \\%$ ，沙土基质和盖土方式各占 $7 5 \\%$ 林冠下占 $6 2 . 5 \\%$ ，保水和不保水各占 $5 0 \\%$ 。另外，CJRB0M，CJSBM和CJRBM与存活率最高的处理组合GJSBM均无显著差异，这4个处理组合的幼苗存活率显著高于其它4个组合（ $\\mathrm { . P } { < } 0 . \\ : 0 5$ ），浇水和盖土方式均占 $1 0 0 \\%$ ，林冠和保水各占 $7 5 \\%$ ，沙土和红土基质各占 $5 0 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/35b24ad233f97c2ac0efc1b1f04b92f7bb5ba4d3463d97c48b35143a13fee77c.jpg",
+        "img_caption": [
+            "图6不同处理组合的幼苗存活率",
+            "Fig. 6Seedling survival rates of different treatment combinations "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.2浇水处理对幼苗存活率的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在图7-8中，每条曲线的峰值是种子相对发芽率和幼苗存活率的临界点，峰值左侧为种子相对发芽率，呈逐渐增加趋势，峰值右侧为幼苗存活率，呈逐渐递减趋势，且不同处理方式的容器组显著高于沙地幼苗存活率（ $\\scriptstyle P < 0 . 0 5$ ）。从图7幼苗存活率变化曲线可知，截止11月6日，沙地幼苗存活率已经为0，容器组2种浇水方式的幼苗存活率则保持在 $6 0 \\%$ 以上。容器组中，不浇水处理的幼苗存活率分别在11月06日 $- 1 0$ 日期间及11月20日-12月25日期间出现2次快速递减。浇水处理的幼苗存活率则仅在试验末期出现一次快速递减，其原因是试验末期浇水间隔期较长，为20天。方差分析结果表明浇水方式显著高于不浇水方式的幼苗存活率（ $\\mathrm { { } ^ { - } } P { < } 0 . \\mathrm { { } 0 } 5$ ），因此，容器组与否和浇水方式是影响幼苗存活率的2个因素。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/768da05a389a0a66368af30e5daad95c9235229542e1d125822b0ee7b637c886.jpg",
+        "img_caption": [
+            "图7浇水处理对幼苗存活率的影响",
+            "Fig.7Effects of watering treatment on seedling survival rate "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3.3其它处理因素对幼苗存活率的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总体上来说，光照对种子相对发芽率有显著影响（ $\\scriptstyle P < 0 . 0 5$ ），但对最终的幼苗存活率则无显著影响。从2条曲线的变化趋势来看，林窗中幼苗的存活率曲线递减迅速，林冠下变化则较为平缓，但截止到试验末期，林窗和林冠下的幼苗的存活率已逐渐接近，且两者之间无显著差异（ $\\cdot P { > } 0 . 0 5 )$ ）（图8:a）。沙土和红土基质的种子相对发芽率和幼苗存活率均显著高于沙地基质，但沙土和红土2种基质的种子的相对发芽率和幼苗的存活率均无显著差异中 $\\cdot P { > } 0 . 0 5$ ）（图8:b）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "盖土处理对种子相对发芽率有显著影响（ $\\cdot P { < } 0 . 0 5$ ），但对后期幼苗存活率基本没有影响，因为盖土和不盖土方式的2条幼苗存活率曲线基本是平行递减的，二者之间的差异是因为种子相对发芽率存在显著差异造成的（图8:c）。从图8:d可知，容器组2种保水处理的种子相对发芽率和幼苗存活率均显著高于沙地不保水处理（ $\\cdot P { < } 0 . 0 5 \\$ ）。保水处理的2条曲线在峰值点左侧的种子相对发芽率出现交替上升的变化，2条曲线虽然彼此相接近，但在交叉点之前和之后，不同保水方式的种子相对发芽率呈显著差异（ $P { < } 0 . 0 5 )$ ）。从峰值点右侧的存活率曲线上来看，保水方式较不保水方式的幼苗存活率曲线变化更为平缓，但在试验末期，保水与不保水处理的幼苗存活率已无显著差异（ $\\cdot P { > } 0 . 0 5$ ）。虽然保水处理对幼苗存活率的影响效果不明显，但还是要好于不保水处理。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9f82daad628c0a3594a32a1da64f98642225fb763fd86880c2a57d0ddaac4db.jpg",
+        "img_caption": [
+            "图8不同处理方式对幼苗存活率的影响",
+            "Fig.8Effects of different treatment modes on seedling survival rates "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1不同处理的综合作用显著影响木麻黄种子萌发和幼苗存活。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "种子萌发的影响因素很多，但因植物种类及生境不同，其制约因素也不同，其中侧柏种子萌发受制于土壤水分的有效性和适度的光照条件（王斐等，2015）。干旱区种子在飞播后的成活率低，主要受制于温度、土壤水分和种子埋藏深度（ZhengYRetal.,2006）。木麻黄种子萌发的最佳处理组合为林窗-不浇水-沙土-保水-盖土（GJOSBM），而种子萌发的最差处理组合为林冠-浇水-红土-保水-不盖土（CJRBMO），二者的处理方式几乎相反，表明不同处理的组合方式显著影响木麻黄种子萌发率。另外，从17个发芽率较高的处理组合中，可以发现有利于木麻黄种子萌发的因子从大到小依次为林窗、盖土、浇水或保水或沙土。木麻黄幼苗存活的最佳处理组合与种子萌发的最佳处理组合有所不同，其主要区别是浇水方式的不同，表明浇水处理的不同影响种子的萌发和存活。其主要原因是种子萌发期为海南雨季，水分不是种子萌发的制约因子，因此，不需要浇水，而幼苗生长期则为旱季，水分成为了幼苗存活的制约因子，因此需要浇水。另外，基于4个幼苗存活率较高的处理组合，便会发现有利于木麻黄幼苗存活的因子从大到小依次为浇水或盖土、林冠或保水、沙土或红土。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2木麻黄原生境林地基质不利于木麻黄种子萌发及幼苗存活。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "由于容器不浇水与林地对照组仅在保水性方面存在不同，因此林地对照组的发芽率显著低于容器不浇水控制组，说明基质的保水性对种子的发芽率具有显著影响，这与王玉等（2020）和芸伟等（2007）的研究结果是一致的。木麻黄原生境林地为滨海沙土，其保水性较差，因此不利于木麻黄种子的萌发及幼苗存活。然而，保水处理对容器组种子萌发率无显著差异，其主要原因可能是容器组2种保水方式的保水性差异较小的缘故。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3林分光照条件、盖土方式是影响木麻黄种子发芽率及发芽势的影响因素。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "光照是植物种子萌发过程中的重要生态环境影响因子之一（黄振英等，2001）。林窗和林冠不同光照条件下，木麻黄种子发芽率差异显著，并且林窗中更有利于种子萌发，这与木麻黄发芽率随光照时间和光照强度的增加而提高（管康林，1984）的研究结果相一致，表明光照条件是调控木麻黄种子萌发的重要条件之一。盖土与否及盖土深度对种子萌发率也具有较大影响。刘永辉等（2016）研究表明，杜松种子萌发率、萌发势和发芽指数随埋土深度的增加均呈先增加后下降的趋势。本研究表明，盖土方式显著提高木麻黄种子的发芽率及发芽势，其原因是盖土方式为种子萌发提供了相对恒定的湿度环境。容器组保水及浇水处理对种子发芽率没有显著影响，其原因可能是种子萌发期间的10月份是海南的雨季，月降雨天数较多（12.5d），月降雨量较为充足（ $2 2 4 . 4 \\mathrm { m m }$ ）的缘故（海口历史天气预报查询，2019）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4林分光照条件是影响木麻黄幼苗株高的主要因素。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "植物幼苗期对光照的需求复杂敏感，不同的树种对光照的需求有所不同（王雁等，2002）。木麻黄幼苗平均株高在林窗中显著高于林冠下，表明不仅木麻黄种子萌发有需光性，幼苗生长也具有喜光性。这与降香黄檀（Dalbergiaodorifera）幼苗期宜在全光照环境下生长相一致（郑坚等，2016）。当浇水频繁（1time· $3 ^ { - 1 } \\cdot \\mathrm { d } ^ { - 1 } .$ ）时，由于水分充足，因此保水处理基本上对株高无显著影响。平均株高最高的5个组合中，全部为浇水处理，且 $8 0 \\%$ 为红土基质，表明浇水和红土基质对幼苗株高具有一定的影响。另外，在仅剩的2个不浇水的组合中，全部为林冠-红土-保水组合，表明在不浇水的情况下，水分成为了限制因子，只有在水分蒸发较慢的林冠下，保水相对较好的红土基质中，并通过保水方式的综合作用，才能最大限度地保留有限的水分，使幼苗得以存活生长。这符合遮荫能缓解部分干旱对植株的负面影响，支持“促进理论”学说（刘翠菊等，2018）。因此，在雨水不足的情况下，保水方式不仅有利于幼苗的存活，也会影响到株高。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.5各种处理方式中个，浇水方式是影响幼苗存活率的主要影响因素。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在幼苗定居阶段，土壤水分往往是影响植物幼苗存活的主要限制因子，土壤水分的缺乏经常是导致幼苗死亡的首要原因（龙立群和李欣荣，2003）。各种处理方式中，盖土方式对后期幼苗存活率基本没有影响，基质、光照条件和保水处理对其影响均不明显，但浇水方式则有显著影响，且试验末期存活的处理组合全部为浇水方式，表明土壤水分是木麻黄幼苗存活的主要限制因子。在林冠下，红土和沙土不同基质对幼苗存活率无显著影响（ $\\mathrm { . } P { > } 0 . 0 5 \\mathrm { . }$ ），在林窗中，幼苗存活率则为沙土基质显著高于红土基质（ $\\textstyle P { < } 0 . 0 5 { \\mathrm { ) } }$ ），该结果表明基质对幼苗存活率的影响与光照条件有关。此外，幼苗较高存活率的组合中，沙土占 $7 5 \\%$ ，其原因可能是在连续多天不下雨的情况下，幼苗在疏松的沙土中比在板结的红土中更易于吸收环境中的空气水分。浇水方式影响木麻黄幼苗存活率主要是因为后期幼苗生长期间（11月-12月）处于海南的旱季，降雨量及降雨天数锐减，分别为 $8 1 . 3 { \\sim } 3 4 . 9 \\ \\mathrm { m m }$ ， $7 . 9 \\sim 7 . 3$ d（海口历史天气预报查询，2019）。结合气象资料和存活率曲线（图7）的变化过程可以看出，幼苗存活率的快速递减均与期间连续多日不下雨密切相关（海口历史天气预报查询，2019）。这表明木麻黄幼苗抗干旱胁迫能力较弱，安全度过海南旱季间断性的连续 $6 \\sim 1 5 { \\mathrm { d } }$ 的无雨期十分困难。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "综上所述，沙地的保水性显著影响原生境种子的萌发率，光照条件显著影响幼苗的株高，浇水方式则显著影响幼苗的存活率。由此可以推测，木麻黄自身无法天然更新的障碍机制不是种子萌发的问题，而是幼苗在旱季无法存活。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CHANG W,WU JG,LIU YH, 2007. Research advance in seed germination of desert woodyplants[J].ChinJAppl Ecol,(2):436-444.[丧伟，吴建国，刘艳红,2007．荒漠木本植物种子萌发研究进展[J]．应用生态学报(2):436-444.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CHEN D， YE G， GAO W, et al.，2018. Ecological response of Casuarina equisetifolia toenvironmental stress in coastal dunes in China[J].JFor Res,23(3) :173-182．[陈旭阳，杨梅,2013．木麻黄水浸液对潺槁幼苗生长的影响[J]．安徽农学通报,19(9):39-41.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DENG LG，KONG CH,LUO SM，1996. Isolation and identification of extract from Casuarina equisetifolia branchlet and its allelopathy on seedling growth[J]. Chin JAppl Ecol, (2):145-149. [邓兰桂，孔垂华，骆世明．木麻黄小枝提取物的分离鉴定及其对幼苗的化感作用[J]．应用 生态学报,1996(2):145-149.] ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "GUAN KL,1984. A physiological study on the seed light germination of Casuarina equisetifolia[J].J Zhejiang For Coll:89-95.[管康林,1984．木麻黄种子的光萌发生理研究[J]．浙江林学院学报:89-95.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Haikou historical weather forecast query _Haikou weather record in October 2O19_report after weather[online] Available: http://www.tianqihoubao.com/lishi /haikou/month/201910.html(May 7,2020)[海口历史天气预报查询_2019年10月份海口天气记录_天气后报[online]Available: http://www.tanqihoubao.com/lishi/haikou/ month/201910.html(May 7, 2020)] ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HAO QY, YANG B, ZHOU YP,2020.Quantitative characteristics and impact factors of literaccumulation for Casuarina equisetifolia[J].JFor Environ,40(4):356-362.[郝清玉，杨彬，周玉萍，2020.木麻黄凋落物现存量的数量特征及影响因素[J]．森林与环境学报,40(4):356-362.]",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HARPER JL,1977. The population biology of plants[M]. New York: New York Academic Press. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "HUANG ZY, ZHANG XS, YITZCHAK G, et al., 2001. Influence of Light, temperature and salinity on the seed germination of Haloxylon ammodendron[J]. Acta Phytophysiol Sin, 27(3):275-280.[黄振英，张新时,YITZCHAKG，郑光华,2001．光照、温度和盐分对梭梭种 子萌发的影响．植物生理学报,27(3):275-280.] ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LIU CJ, GUO X， WANG KL， et al.， 2018. Ecophysiological responses of Camellia japonica(Naidong) to different light and water conditions[J]. Chin JAppl Ecol, 29(4):1125-1132.[刘翠菊，郭霄，王奎玲,等,2018．耐冬山茶对不同光照和水分的生理生态学响应[J].应用生态学报,29(4):1125-1132.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU Q, ZHANG YH, 2O02. Investigation of root nodules and discussion of the factors which affect nodulation in Casuarina equisetifolia plantations in Haikou[J]. Sci Silv Sin, (5):175-180.[刘强，张亚辉,2002．海口地区木麻黄林根瘤调查及影响结瘤的因子探讨[J]. 林业科学(5):175-180.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU YH, MA ZH, 2016. Influencing factors on seed germination of Juniperus rigida from HelanMountain[J].JNW Argic For Univ (Nat Sci Ed),44(6):62-70.[刘永辉,马振华,2016.贺兰山杜松种子萌发的影响因素研究[J]．西北农林科技大学学报(自然科学版),44(6):62-70.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LONG LQ,LI XR,2003. Effects of soil microbiotic crusts on seedling survival and seedling growth of two annual plants[J].JDZTRes,(6):53-57.[龙利群，李新荣,2003．土壤微生物结 皮对两种一年生植物幼苗存活和生长的影响[J]．中国沙漠(6):53-57.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "NATHAN R，MULLER-LANDAU HC， 2000. Spatial patterns of seed dispersal， their determinants and consequences for recruitment[J]. Trends Ecol Evol, 15(7): 278-285. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PENG SJ, HUANG ZL, PENG SL, et al., 2004. Factors influencing mortality of seed and seedling in plant nature regeneration process[J]. Guihaia,(2):113-121.[彭闪江，黄忠良，彭少麟，欧阳 学军,徐国良.植物天然更新过程中种子和幼苗死亡的影响因素[J.广西植 物,2004(2):113-121.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "RICHARDSON DM, PYSEK P, REJMANEK M, et al., 2000.Naturalization and invasion of alien plant: Concepts and definitions[J].Divers Distrib, 6(2):93-107. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "TANG JX, JIA HY, ZENG J, et al., 2020. Effects of cuting methods on natural regeneration ofMytilaria laosensis plantation[J].JBFor Univ,42(8):12-21.[唐继新,贾宏炎,曾冀,等,2020.采伐方式对米老排人工林天然更新的影响[J]．北京林业大学学报,42(8):12-21.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WANG Y, YANG B， HAO QY, 2020. Limiting ecological factors for seed germination of Casuarina equisetifolia[J].Guihaia,40(3):403-411.[王玉，杨彬，郝清玉,2020.木麻黄种子 萌发的限制生态因子[J]．广西植物,40(3):403-411.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WANG CQ, LIU Q, ZHANG YJ, et al., 2012. Isolation and identification of the aqueous extract from Casuarina equisetifolia and allelopathy effects on the seed germination of Vatica mangachapoi[J].JNWForUniv,(3):80-86.[王春晴，刘强，张渝杰,等,2012．木麻黄水浸液 对青皮种子的化感效应[J]．西北林学院学报,27(3):80-86.] ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WAND Y, SU XH, PENG ZH,2002. Review of studies on plant shade-tolerance[J]. For Res,15(3):349-353.[王雁，苏雪痕，彭镇华,2002．植物耐荫性研究进展[J]．林业科学研究,15(3) :349-353.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "WANGF,WU DJ, ZANG LP, et al., 2015. Seed intensive germination in Platycladus orientalisplantation[J].ShandongFor Sci Technol,45(6):1-8.[王斐，吴德军，臧丽鹏,等,2015.侧柏林地种子集中萌发的解析[J]．山东林业科技,45(6):1-8.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "YANG B, WANG Y, HAO QY, 2019. Spatial and temporal dynamics of seed rain of Casuarina equisetifolia coastal protection forest[J]. J Trop Subtrop Bot, 27(4):367-375.[杨彬，王玉，郝 清玉,2019．木麻黄海防林种子雨的时空动态[J]．热带亚热带植物学报,27(4):367-375.]   \nYANG B,WANG Y, HAO QY,2020. Natural regeneration characteristics and selection of regeneration tree species of Casuarina equisetifolia coastal windbreaks in Hainan Island[J]. Guihaia,40(3):412-421.[杨彬，王玉，郝清玉,2020．海南岛木麻黄海防林天然更新特征及 更新树种筛选[J]．广西植物,40(3):412-421.]   \nYANG B， WANG Y, HAO QY, 2020. Impact factors of undergrowth natural regeneration for Casuarina equisetifolia forests in Hainan Island[J]. Guihaia, 40(3):422-432.[杨彬，王玉，郝清 玉，2020.海南岛木麻黄林林下植物天然更新影响因素的研究[J].广西植物, 40(3):422-432.]   \nYANG B, HAO QY, 2020. Selection of mixed species of Casuarina equisefifolia L. based on natural regeneration properties[J].Plant Sci J,38(2):221-232.[杨彬，郝清玉,2020.基于天然 更新性能筛选海南岛木麻黄海防林混交树种[J]．植物科学学报,38(2):221-232.]   \nYANG B,WANG Y, HAO QY, 2020. Seasonal dynamics and spatial distribution pattern of seed rain in a monocultural Casuarina equisetifolia coastal protection forest[C]. Krabi, Thailand, 2019,Thailan: Kasetsart Agricultural and Agro-Industrial Product Improvement Institute, Kasetsart University: 80-90.   \nZHENG J, WU ZH, CHEN QX, et al., 2016. Influence of shading on growth and physiology of Dalbergia odorifera seedlings[J].Sci Silv Sin,52(12):50-57.[郑坚，吴朝辉，陈秋夏等，2016. 遮荫对降香黄檀幼苗生长和生理的影响[J]．林业科学,52(12):50-57.]   \nZHANG Y, ZHONG CL, CHEN Y, et al., 2017. Studies on growth processes of Casuarina clones in Hainan Island[J].For Res,30(4):588-594.[张勇，仲崇禄，陈羽,等,2017．海南木麻黄无性 系生长过程研究[J]．林业科学研究,30(4):588-594.]   \nZHENG YR, XIE ZX, GAO Y, et al., 2003. Ecological restoration in northern china: germination characteristics of9 key species in relation to air seeding[J]. Belgian Bot, 136(2):129-138. ",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "type": "text",
+        "text": "新疆大风集中程度时空特征分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王玉竹1,2,3，闫浩文1,2.3，王小平1,2.3，亻 何毅1,2.3(1兰州交通大学测绘与地理信息学院,甘肃兰州730070；2地理国情监测技术应用国家地方联合工程研究中心,甘肃兰州 730070；3 甘肃省地理国情监测工程实验室,甘肃兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于2003—2017年新疆64个气象站点大风资料，以累积大风天数、连续大风天数、大风集中期和集中度为指标，探究该区大风天数的集中程度时空特征。研究表明：(1）新疆年内大风天气主要集中在4\\~7月，连续大风天数主要以 $1 \\sim 3 \\mathrm { ~ d ~ }$ 为主。（2）近15a来，大风天气发生频率逐渐减少，频次越高递减幅度越大，但有趋向冬季、极端发展的趋势。（3）空间尺度上，大风天气主要集中在北疆和东疆，而连续3d以上大风天气主要集中在山谷地区。（4）2003—2017年新疆地区年内大风天气分布总体在逐渐集中，集中期在逐渐提前。（5）南疆和北疆西部以及东疆中东部年内大风天气分布较为分散，南疆南部和北部较为集中。(6）南疆东南、北疆北部和东疆东北大风天气年内集中时段相对较早，南疆西北、东疆西部相对较迟。（7）新疆地区大风集中度和集中期具有明显的聚集现象，高高聚集区域位于南疆南部和中部，低低聚集区域位于北疆和东疆的北部。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：连续大风；集中度；集中期；空间自相关；新疆文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在我国气象业务观测中规定，极大风速（瞬时风速）达到8级以上或最大风速（ $1 0 ~ \\mathrm { m i n }$ 风速）达到6级以上的风,称为大风,某一天中有大风出现，称为大风天[1]。大风既是一种破坏力极强的自然灾害[2],同时也是一种可再生的清洁能源[3],因此关于大风的研究一直是国内外学者关注的热点问题。国外对于大风的研究相对较早，从海洋大风变化趋势看，20世纪50年代以后，北太平洋亚热带、赤道和南大西洋热带风速呈减小趋势[4],而北太平洋高纬地区和热带北大西洋地区风速呈递增趋势[5-6];对于陆地大风,20 世纪后半叶,欧洲的西北部大风发生频率呈递减趋势[7],北美地区风速也呈减小趋势[8-9]。我国对于大风的研究起步相对较晚，但研究成果丰富，研究发现，近50a以来中国平均风速呈显著下降趋势[10],并认为在1969—2000年期间年平均风速减小了 $28 \\%$ ,平均风速大于 $5 \\mathrm { ~ m ~ }$ $\\mathbf { \\nabla } \\cdot \\mathbf { s } ^ { - 1 }$ 的日数减小了 $5 8 \\%$ [1],同时指出20 世纪后半叶中国风能密度下降的原因在于人类活动改变了下垫面的条件[12-13] O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "独特的地理位置和特殊的地形（三山夹两盆），是新疆地区风速、风期明显高于周围其他地方的原因。大风不仅给新疆带来了丰富的风电产业，推动了当地经济的发展，同时也产生了风灾以及严重的风沙和风雪次生灾害，给交通、农业等领域带来了严重的隐患。因此，近年来新疆地区已成为我国大风研究的主要区域之一，研究成果也颇多，结果显示，南北疆年平均风速显著降低[14],相应的大风天数也呈递减趋势[15],大风灾害事件多出现在夏季的5月和6月[16]。另外,满苏尔·沙比提等[17]在统计大风天气所造成的死亡人口、经济损失、死亡牲畜等资料的基础上，对南疆地区1949一2008年风灾的灾度及其时空变化特征进行了研究;刘海涛等[18]基于南疆33个气象站的大风资料，利用线性倾向估计、离散功率谱等方法分析了1960—2010年南疆大风天气的变化规律;邬仲勋[19利用铁路沿线及周边12个测站2001—2013年逐日天气实况等资料，对各站各级大风及沙尘天气的时空分布进行了分析，并对发生在东疆和河西西部两次大风过程进行诊断分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "和数值模拟。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，前人的研究成果主要集中在风速和大风天数的时空分布以及大风灾害与风能资源评估方面，关于大风集中程度的研究偏少，尤其是缺少对连续大风事件的研究。而连续大风又是造成风灾及其伴随灾害的主要原因之一，例如，闻名于世的大风伴随灾害“新疆玛依塔斯老风口风吹雪”，每年都会阻断塔城地区的交通数天，成为交通领域的世界性难题[20]。因此,在前人研究的基础上,分析新疆大风集中程度以及连续大风事件，不仅可以深入认识该区域大风天气的变化规律，同时可以为交通、农业、能源等领域趋利避害提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆深居内陆，远离海洋，高山环列，使得湿润的海洋气流难以进入，形成了极端干燥的大陆性气候，温差较大、日照充足、降水稀少、气候干燥和大风频繁成为新疆气候的主要特点。新疆地形总体上可以概括为“三山夹两盆地”，南部为昆仑山系，北部为阿尔泰山;天山横穿新疆中部，将新疆分为南北两半，南部是塔里木盆地，北部是准噶尔盆地。由于独特的地形，使得新疆在区域气候存在明显的差异，因此，习惯上称天山以南为南疆，天山以北为北疆，把哈密、吐鲁番盆地称为东疆。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文气象数据来自中国气象数据网的地面日值数据集，由于台站资料中极大风速和最大风速同时缺测的站点过多，为保证足够多的气象站点均衡分布在研究区内，选取了新疆地区日最大风速数据较完整的64个气象站点作为研究对象，时间跨度从2003年到2017年。各气象站点的分布位置见图1，东疆地区10个站点，北疆地区27个站点，南疆地区27个站点。为方便分析，定义下列指标：（1）累积大风次数，指某一区域某一时段内，所有气象站点大风天数的总合（例如，新疆年内大风累积次数就是64个气象站点一年内监测到大风天数的总合)；(2)大风连续天数，指某一区域某一时段内，出现大风天气的连续天数（例如，一个气象站点相邻三天均监测到大风，大风连续天数记为3d）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1ecd8499ffcbe3d0b9b1a28c17b7d00f763eb9580fedfb25ee1924932b9d6a3.jpg",
+        "img_caption": [
+            "图1新疆境内海拔和气象站站点分布图 Fig.1Distribution of elevation and meteorological stations in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1标准化序列为了更直观的分析大风的时间演变规律，文中利用标准化序列对大风天数的时间序列进行处理，计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = { \\frac { X - \\mu ( X ) } { S ( X ) } } \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： ${ \\mathrm { : } } \\mu ( X )$ 是变量 $X$ 的平均值； $S ( X )$ 是变量 $X$ 的标准差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2集中期和集中度为了更有效地表征区域年内大风天数的分布形态，本文引入集中度和集中期[21-22]。集中度和集中期是利用矢量原理来确定时间分布特征的参数，即将各侯大风天数作为一个向量，侯内大风天数总和视为向量的模，所处的侯为向量的方向，多个候的大风天数矢量合成后的模与总大风天数的比值就是大风集中度（Gale-concen-trationdegree，GCD），集中期合成后的矢量方位角即为大风集中期（Gale-concentrationperiod,GCP），具体计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathit { G C D } _ { i } = \\sqrt { R _ { i x } ^ { 2 } + R _ { i y } ^ { 2 } } \\left/ \\mathit { R } _ { i } \\right. } \\\\ & { \\mathit { G C P } _ { i } = \\arctan { ( R _ { i x } ^ { 2 } / R _ { i y } ^ { 2 } ) } } \\\\ & { \\mathit { R _ { i x } ^ { 2 } } = \\sum _ { j = 1 } ^ { n } r _ { i j } \\sin { \\alpha _ { i } } } \\\\ & { \\mathit { R _ { i y } ^ { 2 } } = \\sum _ { j = 1 } ^ { n } r _ { i j } \\cos { \\alpha _ { i } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $G C D _ { i }$ 和 $G C P _ { i }$ 分别是某一年大风集中度和大风集中期； $R _ { i }$ 为某一年某测站内出现大风天气的总天数； $\\mathbf { \\Xi } _ { i }$ 为年份（ $i = 2 0 0 3 , 2 0 0 4 , \\cdots , 2 0 1 7 )$ ： $r _ { i j }$ 为某年内某个候出现的大风天数； $j$ 为候序 ( $j = 1$ ，2，…,72）； $\\alpha _ { i }$ 为年内某个候对应的方位角（一年内的方位角设为 $3 6 0 ^ { \\circ }$ )，其中第1候所对应的角度为$- 1 8 0 ^ { \\circ }$ ，第2候所对应的角度为 $- 1 7 5 ^ { \\circ }$ ，以后逐候依次累加 $5 ^ { \\circ }$ 所得。集中度（GCD）反映的是大风天气在该时段内各个候的集中程度，取值在0～1，其越接近1表示大风越集中在某一候内;集中期（GCP）是向量合成后重心所指示的角度，反映大风集中在那一侯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3空间自相关分析空间自相关描述了空间上一系列点的属性分布模式。正相关反映了属性值在空间上的相似性，负相关则反映了差异性。衡量全局空间自相关的指标包括Geary系数 $\\boldsymbol { C }$ Moran指数 $I , G$ 统计量等[23-24],本文主要运用Moran 指数 $I$ 进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）空间权重分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间权重用来表达不同空间位置上的相关性，目的在于检验相邻空间单元属性间是否具有相似性，其确定规则主要有长程关联、准长程关联、局域性关联和准局域性关联。本文基于泰森多边形代替站点数据方式选用第一种局域性关联直接4邻域邻接方式确定空间权重矩阵。其表达形式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = \\begin{array} { c c c c } { { } } & { { w _ { 1 1 } } } & { { \\cdots } } & { { w _ { 1 n } } } \\\\ { { } } & { { } } & { { } } & { { } } \\\\ { { W = \\underbrace { \\phantom { \\omega _ { 1 } } } } } & { { \\vdots } } & { { \\ddots } } & { { \\vdots } } \\\\ { { } } & { { } } & { { } } & { { } } \\\\ { { } } & { { w _ { n 1 } } } & { { \\cdots } } & { { w _ { n n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { w } _ { i j } = \\{ \\begin{array} { l l } { 1 } & { \\stackrel { \\scriptscriptstyle \\equiv V } { \\equiv } \\mathbb { E } \\mathbb { E } \\mathbb { i } \\not \\exists \\not \\equiv i \\not \\equiv \\mathbb { A } j \\not \\equiv \\not \\boldsymbol { \\uparrow } \\mathbb { H } \\stackrel { \\scriptscriptstyle  } { \\to } \\mathbb { H } \\not \\equiv \\mathbb { B } \\not \\equiv \\mathbb { B } ^ { \\pm } } \\\\ { 0 } & { \\stackrel { \\scriptscriptstyle \\oplus } { \\to } \\mathbb { H } \\underline { { \\not \\equiv } } } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $w _ { i j }$ 表示表示区域 $i$ 和 $j$ 的相邻关系，当两个泰森多边形相邻时空间权重为1，否则为0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）空间自相关",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moran指数 $I$ 分为全局(式8)和局部(式9)2种。全局空间关联指标主要用于探究某个属性在整个区域的空间分布模式，进而分析属性是否存在聚集特性，但难以探究聚集位置及其相关程度。因此，需要引入空间联系的局部指标（反映局部相邻小区域变量的相关程度)来弥补全局指标在分析中的不足。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = { \\frac { n \\displaystyle \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } w _ { i j } \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\bar { x } } \\right) \\left( x _ { j } - { \\bar { x } } \\right) } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { n } w _ { i j } \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\bar { x } } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { i } = z _ { i } ^ { ' } \\sum _ { j } w _ { i j } z _ { j } ^ { ' }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：全局莫兰指数 $I \\in \\left[ \\begin{array} { l l } { - 1 , 1 } \\end{array} \\right]$ ，当 $I > 0$ 时空间为正相关，表现为聚集特性；当 $I = 0$ 时空间不相关，表现为随机特性；当 $I < 0$ 时空间负相关，表现为离散特性。局部莫兰指数 $I _ { i }$ 是Moran 的局部指数，当 $I _ { i } \\rangle \\rangle$ 0时，表明 $i$ 单元与相邻单元属性值相似（高高聚集或低低聚集）；当 $I _ { i } \\langle \\langle 0$ 时,表明 $i$ 单元与相邻单元属性值不相似（高低聚集或低高聚集）；当 $I _ { i } { \\approx } 0$ 时，表明 $i$ 单元与周围单元属性值无相关性。相关性的显著水平可通过伪 $p$ 值和 $z$ 值确定， $z$ 值越大, $p$ 值越小，相关性越显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 大风天数的时间演化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对新疆地区64个气象站点大风天数数据的统计，计算连续大风天数发生的频率（图2）。连续大风天数的频率随连续天数增大呈递减趋势，当连续大风天数 $\\leqslant 3 { \\mathrm { ~ d ~ } }$ 时，递减速率较大；当连续大风天数 $> 3 \\mathrm { ~ d ~ }$ 时,递减速率较小。频率最高的是1d,达到 $6 6 . 7 \\%$ ;频率次高的是2d,频率达 $2 0 . 7 \\%$ ;其余的频率均在 $10 \\%$ 以下。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c66f2a235df3f20d93c3466f1a8f9a39f2ffe3b6539be43045d6d056f5515a4.jpg",
+        "img_caption": [
+            "图2新疆地区连续大风天数频率",
+            "Fig.2Frequency of continuous gale days in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3为新疆地区累积大风天数时间变化序列，从图中可以看出，累积大风天数随时间增长呈波动递减趋势,递减率为 $1 7 . 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;累积次数最高的在2002年，达到1302次；累积次数最低的在2016年，达到922次。近年来新疆地区的冷空气强度和频率逐渐减小是累积大风日数递减的主要原因[15]虽然累积大风天数逐渐递减，但近15a月累积大风天数百分比的变化趋势基本一致（图4），年内累积大风天数高发期主要在 $4 \\sim 7$ 月,百分比在 $10 \\%$ 以上，其中5\\~6月达到最大值，百分比接近 $20 \\%$ 。主要原因在于此时北副热带高压南移，新疆又位于温带低压带控制区域，受到副极地高压带（蒙古和西伯利亚高压)的剧烈影响，风力强劲，大风日数自然也较多，尤其是春天气温回暖后，低压槽形成，气压差增加，风力更是威猛。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a93180b5b2c5172aec20013f03c90b19cc9209a8ec7439e6c565fb4de0d0ffae.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6f5cc20cec95423839f413120dafd83aa99f7f61437ec53b2a523d10666b149.jpg",
+        "img_caption": [
+            "图3新疆地区累积大风天数时间变化序列 Fig.3Time varying series of accumulated gale days in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从累积大风天数标准序列随时间演变情况不难发现（图5），新疆地区月累积大风天数在2010年前后发生了明显的变化，1\\~9月在2010年以后发生次数明显减少，而 $1 1 \\sim 1 2$ 月发生次数明显增加。通过连续大风天数的时间演变情况可以看出（图6），连续天数 $> 8 \\mathrm { ~ d ~ }$ 的大风发生次数持续在增加；5\\~8d的大风发生次数在2011年开始减少;3\\~4d除了在2008一2010年出现短期增加外，其余时间段均在减少； $1 \\sim 2 \\mathrm { ~ d ~ }$ 的大风发生次数除在2006—2010 年、",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ead1511b68c824045a03bf956925f11ad34bbfcd71d31d9625140d940fba8074.jpg",
+        "img_caption": [
+            "图5新疆地区月累积大风天数标准序列随时间演变情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a48a5ee238f68028eb034bd5c1a2294e7d16996fff1ac021c098401558f5830d.jpg",
+        "img_caption": [
+            "图4新疆地区年内月累积大风天数百分比(15a)Fig.4Percentage of continuous gale daysper month in Xinjiang（15 years）",
+            "Fig.5Evolution of standard series about monthly accumulated gale days with time in Xinjiang ",
+            "图6新疆地区连续大风天数标准序列随时间演变情况 Fig.6Evolution of the standard series of continuous gale dayswith time in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2014一2017年出现递增外，其余时间段均在减少。说明新疆大风天气有趋向冬季、极端发展的趋势，这种现象可能增加北疆地区冬季风吹雪灾害发生的频率，尤其在冬季降水丰富的塔城地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 大风天数的空间分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从新疆地区年内累积大风天数的空间分布看（图7a），北疆和东疆地区的大风天数明显多于南疆地区，大风天数 $> 2 0$ 次以上站点 $70 \\%$ 左右在北疆和东疆，是大风天气的频发区，其中七角井、阿拉山口等地达到100次以上。但连续大风天数 $\\geqslant 3$ d的空间分布特征不同于累积大风天数，连续3d以上大风发生次数相对较多的区域主要集中在天山山脉的垭口地区（图7b），七角井频次最高，年均30次以上;阿拉山口次之，年均18次以上;接着是达坂城、吐尔尕特和淖毛湖，年均在 $5 \\sim 1 0$ 次;其他地区均在每年5次以下。这是由于大风连续天数相对较多的区域，明显位于地形上的山谷地区，气流运动到这些区域后，过流断面突然被压缩，受地形“狭管效应”的作用，风力得到加强，故风速明显大于其他地区，相应的大风发生频率和连续大风天数也较多。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新疆地区年内大风累积天数的倾向率空间分布见图8a，可以看出大风天数减少的站点多于增加的站点，增减幅度较大的区域主要集中在大风天数较多的区域（图 $\\mathrm { 7 a }$ );达坂城和淖毛湖减小幅度最大，减幅 $> 3 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;增幅较大的区域主要位于和布克赛尔、福海等地,增幅为 $1 \\sim 3 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。从连续3d大风的倾向率来看（图8b）， $80 \\%$ 以上的站点呈递减趋势,达坂城递减幅度最大,减幅 $> 1 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;阿拉山口和淖毛湖次之，减幅为 $0 . 5 \\sim 1 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;其余递减区域的幅度均在 $0 . 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 以下。与倾向率的递减幅度相比，递增幅度明显偏小，幅度均在 $0 . 2 3 \\mathrm { ~ d ~ }$ ：$\\mathbf { a } ^ { - 1 }$ 以下，且站点主要集中在天山山脉附近。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3大风天数集中度与集中期",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据2003—2017年新疆地区大风天数GCD和GCP的逐年变化曲线（图9）可以发现：近15a新疆地区大风天数的GCD在0.10（2005年）\\~0.25(2017年)之间，呈逐年波动上升趋势，线性倾向率为 $0 . 0 0 5 \\ 0 5 \\cdot { \\mathrm { ~ a ~ } } ^ { - 1 }$ ,说明新疆地区年内大风天气分布总体上在逐渐集中；相反，新疆地区大风天数的GCP变化呈逐年下降趋势，线性倾向率为0.14101侯 $\\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,GCP 在2010 年最小（32侯）,2003年最大(39侯），表明新疆地区大风的集中期有逐渐提前的趋势，大风集中期最早发生在5月中旬，最晚发生在6月中旬，相差近1个月。从大气环流因子角度分",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "N.09 积大风天数/d 85°E 90°E 95N No09 N00 续大风开85E 90°E E N.09  \n0\\~10 T A 0\\~2  \nN 1\\~20 101\\~200 阿拉山 A 达板城 淖毛湖 N 2 100 21\\~33 阿拉山口 A 达板城 T 淖毛湖 N  \n吐尔尕特 △ 1 4 七角井 { 吐尔尕特 ▲ 1 Y 七角井  \nNoOv A▲ N0 No0V ▲ No0▲ ▲2 A  \nN0 0 200400km 80 20 0 200400km 1875°E 80°E 85°E 90°E 95E 75E 80°E 85°E 90°E 95°E审图号：GS(2019)3 333号75°E 80°E 85°E 90°E 95°E 75°E 80°E 85E 90°E 95°E  \n50°N 50°N 50N 50°N(a) GCDD NA (b) GP 24 NΛ32 Y  \n45°N 0.90 53 0.35 0. 0.45起 45°N 45°N 22 \\$231 4 9 31 5 2 31 3 27 45°N0 0.65 5555 500S 37SEE 33  \n40°N 40°N 40°N 31 40N0° 1E31 u 320.6 0.750.5 160 30 2908 5 2L 0.65106 8 u27  \n35°N 0 200 400 km 35°N 35°N 0 200400km35N75°E 80°E 85°E 90°E 95°E 75°E 80°E 85°E 90°E 95°E审图号：GS(2019)3 333号",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f64b502422f4f01243b9936780de430d5b7dbe8ded7acc6ba79133638045a17d.jpg",
+        "img_caption": [
+            "图7新疆地区累积大风天数/连续大风天数空间分布",
+            "Fig.7Spatial distribution of accumulated gale days(a)/continuous gale days(b） in Xinjiang ",
+            "图8新疆地区累积大风天数/连续大风天数倾向率空间分布",
+            "Fig.8Spatial distribution on tendency rate of accumulated gale days/continuous gale days in Xinjian "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c122f42cca4f5255a0067110be4b2c067409906090e808f80b6df14d5a4be1c7.jpg",
+        "img_caption": [
+            "注：GCD为大风天数集中度；GCP为大风天数集中期 ",
+            "图9新疆地区大风天数的GCD和GCP 时间变化序列",
+            "Fig.9Time varying series of GCD and GCP about gale days in Xinjiang ",
+            "图10新疆地区大风天数的年均GCD和GCP的空间分布",
+            "Fig.10Spatial distribution of annual average GCD and GCP about gale days in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "析，这些现象可能与北半球极涡强度、西太平洋副高强度和欧亚经向环流指数有关[25]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图10为2003—2017年新疆地区大风天数GCD和GCP空间分布，不难看出，新疆地区大风天数年均GCD和GCP空间分布区域差异较大。从整体上看，GCD在南疆西部、北疆西部、东疆中东部相对较小，在南疆南部和北部相对较大，说明南疆西部、北疆西部、东疆中东部年内大风天气较为分散，而南疆南部和北部年内大风天气较为集中（图10a）。从图10b可以发现，GCP低值地区主要位于南疆东南、北疆北部和东疆东北，高值地区主要位于南疆西北、东疆西部，这表明南疆东南、北疆北部和东疆东北大风集中时段相对较早，南疆西北、东疆西部相对较迟。从地貌形态看，大风天气出现较为集中的区域主要位于塔克拉玛干和古尔班通古特沙漠腹地，可能是沙漠腹地的气候受边缘环境影响较小，故年内大风天气分布比较集中；从风向角度来看，由于年内春夏两季主导风向为东南风，且大风主要集中在4～7月，因此总体上东南地区的大风集中时段要早于西北地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在分析新疆地区年均GCD/GCP随纬度变化的过程中，发现天山的存在对研究区GCD/GCP影响较为显著。北疆和南疆地区的GCD和GCP随纬度的变化趋势基本一致，均随纬度增加呈“先增大，后减小”的趋势，但北疆地区的变化幅度明显大于南疆地区（图11）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4大风天数的GCD和GCP空间自相关",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1为2003—2017年新疆地区大风天数的年均GCD/GCP全局Moran's $I$ 指数分析结果，可以看出,GCD/GCP 的全局 Moran's $I$ 指数均大于0,且 $z$ 值接近 $1 0 , p$ 值为0.0000低于0.001的显著性水平。说明新疆地区大风天数的年均GCD/GCP 存在显著的空间正相关性（即新疆地区大风天数年均GCD/GCP具有显著聚集现象），但GCP的相关性强于GCD(Moran's $I$ 指数 $0 . 6 1 5 \\ 1 > 0 . 5 8 5 \\ 3 )$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/017a79e40ed88ff232ef9fbd293be5ca78fee5648929e93cb6d65f11e3c9f1cc.jpg",
+        "table_caption": [
+            "表1新疆地区年均GCD和GCP全局Moran's $\\boldsymbol { { \\cal I } }$ 指数",
+            "Tab.1 Global Moran'sI index of annual average GCD and GCP in Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Moran's I</td><td>E(1)</td><td>Var(I)</td><td>Z(I)</td><td>P</td><td></td><td>Moran's I</td><td>E(1)</td><td>Var(I)</td><td>Z(I)</td><td>P</td></tr><tr><td>GCD</td><td>0.5853</td><td>-0.016 9</td><td>0.0042</td><td>9.325 5</td><td>0.0000</td><td>GCP</td><td>0.6151</td><td>-0.016 4</td><td>0.0049</td><td>9.064 8</td><td>0.0000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/25601806415a457e9c89461a611cdeea1ab254d13652f699d9a0e19e60b58f9e.jpg",
+        "img_caption": [
+            "图11新疆大风天数的年均GCD和GCP的随纬度的变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/38fdbee1feb1dfcc4a3e79813bf2c4fabd0246f26d3f753be9bb878fd82cca48.jpg",
+        "img_caption": [
+            "Fig.11Variation trend of annual average GCD and GCP about gale days with latitude in Xinjian ",
+            "图12新疆地区年均GCD/GCP局部分析图",
+            "Fig.12Local analysis chart of annual average GCD/GCP in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用局部Moran's $I$ 指数分析的年均GCD和GCP具体聚集区域类似（图12）， $_ \\mathrm { G C D / G C P }$ 高高聚集区域位于南疆南部和中部（图中粉色区域表现为高高聚集模式），低低聚集区域位于北疆和东疆的北部(图中蓝色区域表现为低低聚集模式），说明新疆大风天气表现为区域变化渐进过程，聚集特性主要受纬度变化影响。另外，与GCD 和GCP的空间分布对比发现（图10），GCD的分布特征与其聚集模式的分布特征类似，即GCD的高高聚集区域主要分布在GCD的高值区域，GCD的低低聚集区域主要分布在GCD的低值区域。但GCP的分布特征与其聚集模式的分布特征存在差异，高高聚集区域和低低聚集区域均分布在GCP的低值区域",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）新疆地区大风天气主要集中在4\\~7月，百分比在 $10 \\%$ 以上， $5 \\sim 6$ 月发生的频率最高，百分比接近 $20 \\%$ 。连续大风天数的频率随连续天数增大呈递减趋势，主要以1\\~3d为主;频率最高的是1d,达到 $6 6 . 7 \\%$ ;频率次高的是2d,频率达 $2 0 . 7 \\%$ ：其余的频率均在 $10 \\%$ 以下。累积大风天数随时间增长呈波动递减趋势,递减率为 $1 7 . 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,但在2011年以后，有趋向冬季、极端发展的趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）新疆大风天气的频发区主要位于北疆和东疆，尤其在七角井、阿拉山口等地，年内累积大风天数达到100次以上。而连续3d以上大风发生次数相对较多的区域主要集中在天山山脉的垭口地区，其中，七角井频次最高，年均30次以上。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）2003—2017年，新疆大部分地区的大风天数在逐渐减少，增减幅度较大的区域主要集中在大风天数较多的区域。对于累积大风天数，达坂城和淖毛湖减小幅度最大,减幅 $> 3 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ;对于连续3d以上的大风,达坂城递减趋势最显著，每年下降1d以上。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）近15a新疆地区年内大风天气分布总体上在逐渐集中，相应的集中期也在逐渐提前，大风集中期最早发生在5月中旬，最晚发生在6月中旬，相差近1个月。局部上看，南疆西部、北疆西部、东疆东部年内大风天气较为分散，而南疆南部和北部年内大风天气较为集中，南疆东南、北疆北部和东疆东北大风集中时段相对较早，南疆西北、东疆西部相对较迟。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（5）新疆地区大风天气集中期与集中度具有明显的区域聚集现象，高高聚集区域位于南疆南部和中部，低低聚集区域位于北疆和东疆的北部，新疆大风聚集特性主要受纬度变化影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关于新疆大风的研究中，前人往往忽视连续大风的变化，殊不知连续大风是造成风力次生灾害的关键。最典型的当属风沙灾害与风吹雪灾害，已成新疆地区交通、农业等领域的顽疾，这些灾害在短时大风作用下，危害在可控范围之内，但是在持续大风作用下，造成的损失将会成倍增长。本文首次分析了新疆地区连续大风天数的时空演化，对该区次生灾害预防具有一定的参考价值。另在，本文在大风空间自相关的研究中，借助泰森多边形（Voronoidi-agram)进行分区，并用点数据(站点数据)代替面数据（区域数据)，仅仅在多边形边界上存在变化，而内部处于均质状态。实际上受地形和下垫面的影响，大风具有明显的空间异质性，为了得到更加精确的空间相关性分析，需要做更深入研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］全国气象防灾减灾标准化技术委员会.GB/T28591-2012风 力等级［S].北京：中国标准出版社,2012.［National standardization technical committee of meteorological disaster prevention and reduction.GB/T 28591 - 2012 wind scale[S].Beijing:China Standard Press,2012.]   \n[2］王秋香,李红军.新疆近20a风灾研究[J].中国沙漠,2003,23 (5）:545-548.[WANG Qiuxiang,LI Hongjun.Analysis on gale disasters of Xinjiang in recent 2O years[J]. Journal of Desert Research,2003,23(5）:545-548.]   \n[3］江滢,罗勇,赵宗慈,等.中国及世界风资源变化研究进展[J]. 科技导报,2009,27（13）:96-104.［JIANG Ying,LUO Yong, ZHAO Zongci,et al. Review of research on wind resources changes in China and in the world[J].Science & Technology Review, 2009,27(13):96-104.]   \n[4]WARD M N,HOSKINS B.Near surface wind over the global ocean 1949 -1988[J].J Climate,1996,9:1877-1895.   \n[5]GULEV S K,HASSE L. Changes of wind waves in the north Atlantic over the last 3O years[J].IntJClimatol,1999,19：1091- 1117.   \n[6]GULEV S K,ZOLINA O,GRIGOTIEVA S.Last century changes in ocean wind wave height from global visual wave data[J]. Geophys Res Lett,2004,31:L24302,doi:10.1029/2004GL021040.   \n[7]YAN Z,BATE S,CHANDLER R E,et al. Changes in extreme wind speeds in NW Europe simulated by generalized linear models[J]. Theo Appl Climatol,2006,83:121 -137.   \n[8]PRYOR S C,BARTHELMIER J,RILEY E S.Historical evolution of wind climates in the USA[J].JPhys Conf Ser,2007,75: 012065,doi:10.1088/1742-6596/75/1/012065.   \n[9]TULLER S E. Measured wind speed trends on the west coast of Canada[J].Int J Climatol,2004,24:1359 -1374.   \n[10］任国玉,郭军,徐铭志,等.近50a中国地面气候变化基本特征 [J].气象学报,2005,63（6）:942-956.［REN Guoyu,GUO Jun,XU Mingzhi,et al.Climate changes of China's mainland over the past half century[J].Acta Meteorologica Sinica,2005,63（6）: 942 -956.]   \n[11]XU Ming,CHANG Chihpei,FU Congbin,et al. Steady decline of East Asian monsoon winds,1969- 20oo:Evidence from direct ground measurements of wind speed[J]. Journal of Geophysical Research,2006,111:1-8,doi:10.1029/2006JD007337.   \n[12］李艳,王元,储惠芸,等.中国陆域近地层风能资源的气候变异 和下垫面人为改变的影响[J].科学通报，2008,53（21）：2646 -2653.[LI Yan,WANG Yuan,CHUHuiyun,etal.Effect of China land near the ground wind energy resources climate variability and underlying human change[J].Chinese Science Bulletin, 2008,53(21) :2646-2653.]   \n[13］李艳,王元,汤剑平.中国近地层风能资源的时空变化特征 [J].南京大学学报（自然科学版）,2007,43（3）:61-72.［LI Yan,WANG Yuan,TANG Jianping. Temporal and spatial variety characteristics in near-surface wind energy in China[J].Journal of Nanjing University(Natural Sciences）,2007,43(3）:61-72.]   \n[14］何毅,杨太保,陈杰,等.1960—2013 年南北疆风速变化特征分 析[J].干旱区地理,2015,38（2）:249-259.［HEYi,YANG Taibao,CHEN Jie,et al. Remote sensing detection of glacier changes in Dong Tianshan Bogda Region in 196O -2013[J].Arid Land Geography,2015,38（2）:249-259.]   \n[15］高婧.新疆大风时空变化特征及环流背景研究[D].兰州：兰 州大学,2O10.［GAO Jing.Research on the temporal and spatial distribution characteristics of strong wind and circulation feature of windy weather in Xinjiang[D].Lanzhou; Lanzhou University, 2010.]   \n[16］夏祎萌,何清,李军,等.新疆大风灾害灾度和危险度分析[J]. 中国沙漠,2012,32（4）:1025-1028.[XIA Yimeng,HE Qing, LI Jun,et al.Disaster degree and risk degree of wind disasters in Xinjiang[J].Journal of Desert Research,2012,32（4）:1025- 1028.]   \n[17］满苏尔·沙比提,娜斯曼·那斯尔丁,陆吐布拉·依明.南疆 近60a来风灾天气及灾度时空变化特征[J].地理研究,2012, 31（5）:803-810.[MANSUR Sabit,NASIMA Nasirdin,LOTPULLA Imin.The spatio-temporal changes and intensity of gale disas",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ters in southern Xinjiang in recent 6O years[J].Geographical Re",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "search,2012,31(5）:803-810.]   \n[18］刘海涛,刘海红,韩春光，等.南疆大风气候特征分析[J].干旱 区资源与环境,2014,28（3）：148－154.［LIUHaitao,LIU Haihong,HAN Chunguang,et al.Analysis on the climatic characteristics of gales in south Xinjiang[J].Journal of Arid Land Resources and Environment,2014,28(3）:148-154.]   \n[19］邬仲勋.新疆东部至甘肃河西西部铁路沿线大风天气气候特 征及其成因研究［D].兰州：兰州大学,2016.［WU Zhongxun. Studies on the climate characteristics and formative causes of the strong wind along the railway from east Xinjiang to west Gansu [D].Lanzhou:Lanzhou University,2016.]   \n[20］杨旭.玛依塔斯交通走廊风吹雪特点研究[J].铁道工程学报, 2018,243(12）:1-6.[YANG Xu.Research on the characteristics of drifting snow disaster in Xinjiang Mayitas traffic corridor[J]. Journal of Railway Engineering Society,2018,243(12）:1-6.]   \n[21]ZHANG L,QIAN Y.Annual distribution features of precipitation in China and their interannual variations[J].Acta Meteorologica Sinica,2003,17(2):146-163.   \n[22］王飞,朱仲元,郝祥云,等.锡林河流域降雪集中度集中期变化 特征[J].水土保持研究,2019,26(3）:239-247.［WANG Fei, ZHU Zhongyuan,HAO Xiangyun,et al. Variation characteristics of snowfall concentration period in Xinlin river basin[J].Research of Soil and Water Conservation,2019,26(3):239-247.]   \n[23]GOODCHILD M F.Concepts and techniques in modern geography [M]. UK:Geo Books,1986.   \n[24］SAWADA M.Global spatial autocorrelation indices:Moran's $I$ Geary's C and the general cross-product statistic[EB/OL].http://www.lpc.uottawa.ca/publications/moransi/moran.htm. 2007 -06-16.   \n[25］邱博,张录军,谭慧慧.中国大风集中程度及气候趋势研究 [J].气象科学,2013,33（5）:543-548.[QIUBo,ZHANG Lujun,TAN Huihui. Study on the gale concentration degree and cli",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "matic tendency in China[J].Journal of the Meteorological Sciences，2013,33(5):543-548.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal analysis of gale concentration in Xinjiang ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Yu-zhu1,2,3， YAN Hao-wen1,2,3, WANG Xiao-ping1,2,3, HE Yi1,2,3 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1Faculty of Geomatics,Lanzhou Jiaotong University,Lanzhou 73oo7O,Gansu,China ;   \n2National-Local Joint Engineering Research Center of Technologiesand Applications for National Geographic State Monitoring,Lanzhou 730o70,Gansu,China;   \n3Gansu Provincial Engineeing Laboratory for National Geographic State Monitoring,Lanzhou73Oo7,Gansu,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based on gale data collected at64 meteorological stations in Xinjiang between 2003and 2017,the spatio-temporal characteristics of the concentration of gale days were studied byconsidering cumulative galedays,continuous galedays,gale concentration periods,and gale concentration degreeas indicators.The results show that:(1) gale weather mainly occurs from April to July in Xinjiang,and the number of continuous gale days is usually1-3 days.(2）In the past 15 years,the frequency of occurrence of gale weather has decreased gradually;；the higher the frequency,the greaterthe decreasing range,but there is a trend towards extreme development in winter.（3）Gale weather is mainly concentrated in Northernand Eastern Xinjiang,and periods of more than threeconsecutive days of gale weather are mostly noted in the valeys of Northern Xinjiang.（4）Thespatial distributionof gale weather in Xinjiang has gradually concentrated from 2OO3 to 2O17,and theconcentration period has also gradually advanced. (5）Gale weather is more scatered in the western part of Southern Xinjiang,the western partof Northern Xinjiang, and the central and eastern parts of Eastern Xinjiang,whereas the southernand northern parts of Southern Xinjiang are characterized by more concentrated gale weather.（6）Gale weather occurs relatively early in the southeastof Southern Xinjiang,the north of Northern Xinjiang and the northeastof Eastern Xinjiang,whereas gales occur relatively lateinthe northwest of Southern Xinjiang and west of Eastern Xinjiang.（7）The wind concentration degree and concentration period in Xinjiang exhibitsan obvious aggregation phenomenon.The areas with the highestconcentration are located in the south and middle of Southern Xinjiang,whereas areas with lower concentration are located in north and east Xinjiang. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:Continuous gale； Concentration degree；Concentration period； Spatial autocorrelation； Xinjiang",
+        "page_idx": 9
+    }
+]

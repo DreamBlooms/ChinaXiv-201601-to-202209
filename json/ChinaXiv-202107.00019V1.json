@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "A study on historical location and evolution ofLop Nor in China with maps and DEM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Tingting1,², SHAO $\\mathrm { Y u n } ^ { 1 , 2 ^ { * } }$ , GENG Yuyang1,³, GONG Huaze1, YANG Lan4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Laboratory of Target Microwave Properties, Deqing Academy of Satellite Applications, Deqing 313200,China;   \n2 Aerospace Information Research Institute, Chinese Academy of Sciences,Beijing 1094,China;   \n3 University of Chinese Academy of Science, Beijing 100049, China;   \n4 China University ofGeosciences,Beijing1ooo83,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Lop Sea,located at the east end of the Tarim Basin, Northwest China, dried up permanently, which is the terminal lake of the Tarim River.Lop Sea was considered as the lake basin of Lop Nor since Quaternary. However,the possibility that Lop Nor was away from the Lop Sea in historical time is crucial to be discussed to interpret the proxy records in sediment profiles.To obtain a general view of the evolution of Lop Nor and Lop Sea in a historical period,several approaches were adopted in this paper. First, the Qianlong Thirteen-Row Atlas,an ancient imperial atlas of the Qing Dynasty, which was completed around 1760,indicated that the Tarim River formed a relatively large lake at its modern upstream region.Second,a Digital Elevation Model (DEM) with a $1 0 \\mathrm { - m }$ spatial resolution and a relative precision of $0 . 4 2 \\mathrm { m }$ was derived from TanDEM-X/TerraSAR-X satelite image pairs using the interferometry method, which was verified using ICESat-GLAS laser footprints and a local DEM acquired by a drone.Finaly, based on the spatial analysis of historical documents, expedition reports, sediment profiles and archaeological evidence, it can be deduced that the lacustrine deposition was discontinued in the Lop Sea. Six episodes in the evolutionary history of the drainage system in eastern Tarim Basin were summarized. The proved depositional condition variations could be used for future interpretation of proxy records in sediment. The high-accurate DEM provided a reference for the location of further fieldwork in the Lop Sea. The method proposed in this paper may be efcient for the research of inland lakes or rivers in global arid regions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Lop Sea; historical period; lake basin topography; TanDEM-X InSAR; lacustrine deposit; drainage evolution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lop Nor, located at the east end of Tarim Basin is dried up permanently because of climate change. At the juncture of the westerly and the monsoon (Chen et al., 2O08)，Lop Nor is important for studying the impacts of regional paleoclimate changes on human activities. The location of the terminal lake of the Tarim River,assigned as Lop Nor, had been controversial over the last century. The name of Lop Nor initially arose on Qianlong Thirteen-Row Atlas of the Qing Dynasty (Wang and Liu, 2007),which was designated as Qing Lop Nor (Fig. 1) in this paper.From 1876 to 1916,instead of the location illustrated on the map,the terminal lake of the Tarim River was found at Kara-koshun (Fig. 1） by various famous expeditions led by Hedin (1905), Huntington (1907a), ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Przhevalsky (1999)，and Stein (1921). The debate about the location was mainly between Przhevalsky (1999) and Hedin (1905). Przhevalsky (1999) thought Kara-koshun was the Qing Lop Nor due to immature cartography. Hedin (1905) insisted that Qing Lop Nor should be at the eastern end of a wadi Kuruk-daria (Fig. 1). Around 1921, instead of going southward, the Tarim River flowed to the Kuruk-daria at Temenpu (Fig. 2) and reached the northwest part of the Lop Sea (Lop Nor 1931 in Fig.1) (Hedin,1905; Horner and Chen,1935; Chen,1936;) supporting Hedin's .judgement. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7852cb9fd4492046d66560aba672fcde18b3865edf9a4a2d268a7cccc9166875.jpg",
+        "img_caption": [
+            "Fig.1Sketch map of Lop Region. Lakes and courses according to Hedin (1905), Horner and Chen (1935),and Qianlong Thirteen-Row Atlas (Wang and Liu,2007).The names of the ancient city ruins follow Stein (1921).The term 'Lop Sea' follows Hrner and Chen (1935)to distinguish Lop Nor in other periods. Contours are derived from SRTM (Shuttle Radar Topography Mission, http://www2.jpl.nasa.gov/srtm/). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lake Lop Nor might be completely dried up after 1973, based on the interpretation with decades of remote sensing data (Xia et al.,20o7). With more geo-informational data and field materials, the Lop Sea was thought to have been the permanent terminal lake of the Tarim River (Zhou, 1978; Yuan and Yuan,1998; Xia et al.,2007; Dong et al.,2012). Under the continuous lacustrine deposit assumption, sediments in the Lop Sea were sampled and interpreted (Ma et al., 2Oo8; Jia et al., 2011; Zhang et al.,2012; Liu et al., 2016) to infer the regional paleoenvironment. However, no convincing evidences were found to validate this assumption. On the contrary, Chinese literatures implied that the courses and the terminal lake of the Tarim River changed several times during the historical period (Xi,1992).Lacustrine deposition discontinuity is often discovered and defined by dating materials at high sample resolution (Coianiz et al., 2015； Ivory and Russell, 2018） or combined with sedimentary facies analysis (Jiang et al.,2O15).The available dating materials are insuficient at a suitable sample resolution to identify short lacustrine discontinuity. With the development of remote sensing, the formation of the elevation of Lop Nor has been demonstrated to be tied to the composition variation of the salt crusts (Li et al., 2Oo8). Digital Elevation Model (DEM) can provide geomorphological evidence for the reconstruction of lake evolution (Reinhardt et al., 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, a spatial analysis of the published researches was carried out to deduce the evolution of the Lop Sea during the historical time. Qianlong Thirteen-Row Atlas (Wang and Liu, 2007)and other historical documents was used to verify the location of Qing Lop Nor. Besides, a highly precise DEM was produced to describe the topography of the Lop Sea and surrounding regions. Based on the interpretation of DEM combined with expedition reports, sediment profiles, and involved radiocarbon dating ages, possible lacustrine deposition discontinuity of Lop Sea are discussed, and six typical episodes of the drainage system evolution process are summarized. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Lop region studied in this paper $( 3 9 ^ { \\circ } - 4 1 ^ { \\circ } \\mathrm { N }$ $8 9 ^ { \\circ } - 9 2 ^ { \\circ } \\mathrm { E }$ )is the lowest section of the Tarim Basin with an average elevation of $7 9 0 ~ \\mathrm { m }$ . North of the Lop region is Kuruktag Mountains, south is Astintag mountains,and west is Taklimakan Desert (Fig. 2). The western desert of the Lop region is called the Lop Desert,while the eastern salt crust is the Lop Sea.Based on the current hydrological settings,after being fed by rivers from Khotan, Yarkand, Shache,Kashgar, Aksu,and Kuche,the Tarim River flows south from Arghan and runs into Kara-buran (Fig. 2). The runoff volume of the Tarim River varies with seasons (Zhang et al.,20o8) and years (Xu et al.,2005). As a result, the water coverage area of the lower reaches of Tarim River varies greatly (Abdimijit et al.,2016). Another northern tributary,the Kongque-daria River, terminates at Ak-supu (Fig.2).The Cherchen-daria River, which is another supplement of Kara-buran and Kara-koshun,did not feed the terminal after the 198Os due to increasing demand for irrigation. The region is uninhabited now, except for a potash fertilizer mine,lying in the center of the Lop Sea. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The annual average temperature is $1 1 . 6 ^ { \\circ } \\mathrm { C }$ ,with the maximum summer temperature higher than $4 0 . 0 ^ { \\circ } \\mathrm { C }$ ,and the minimum winter temperature below $- 2 0 . 0 ^ { \\circ } \\mathrm { C }$ . The average annual precipitation is less than $3 0 ~ \\mathrm { m m }$ ，while the potential annual evaporation is $3 5 0 0 ~ \\mathrm { { m m } }$ (Mischeke et al., 2020). The prevailing northeastern wind has shaped the Yardangs landform around the Lop Sea. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/807a6bad9b70c2a4f023182866204b409fdbe9132782f5010b0a3b55f4e87a19.jpg",
+        "img_caption": [
+            "Fig.2Drainage system of the Tarim Basin at present. Tinted SRTM DEM (Digital Elevation Model) map represents the topography of the Tarim Basin,see the color bar for detail. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The famous Wu-Chang-Fu Map (Han and Lv, 2Oo6), which guided the explorers a century ago, was adapted from a private imperial map named the Qianlong Imperial Atlas, or the Qianlong Thirteenrow Atlas (Lu, 2008). The emperor of Qing, Qianlong, sent his subjects led by HE Guozong and Minggatu, along with two Portuguese Jesuit missionaries, José de Espinha and Felix da Rocha, to survey the astronomical coordinates of the main setlements of Xinjiang in 1756 and 1760 (Guo and Li,2003,2005). Based on the survey results, the cartography work was completed by a French missionary, Michel Benoist (Wang and Liu, 2Oo7). The prime meridian was the one going through the Forbidden City, Beijing. Just as its name implies,the sheet line system with lines of integral latitude and longitude divided the atlas into thirteen rows according to latitude. The eighth row, western $\\# 3$ of the Qianlong Thirteen-row Atlas contains the geographical elements in this paper. The mother sets of its copper plate,which were engraved by 1775,were found at the Palace Museum in 1925 and were republished in 1931 (Wang and Liu,2007). The republished map was scanned by a Sony α7RM2 camera (Sony Corporation, Japan) with a Sigma $8 5 \\ \\mathrm { m m } \\ \\mathrm { F } 1 . 4$ lens (Sigma Globle Vision, Japan),and geocoded by the ArcGIS tool Georeferencing (Environmental Systems Research Institute， Unite States） using the 'project transform' method, taking the intersections of latitude and longitude as control points. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then, the maps were validated with historical literature.The latitudes and longitudes of 46 main towns of Xinjiang and central Asia were recorded as the control points for cartography (Guo and Li,2003,2Oo5). Here, six of the towns near Lop Nor, Luntai, Kuche,Luke-qin, Turpan, Hara-shar, and Korla (Table1; Fig.2), which were in the interesting subdivision map, were selected to evaluate errors. The current geographical coordinates of these towns were extracted from Google Earth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The public global DEM data sets, such as SRTM and ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer were not good enough to interpret the drainage system. Thus, the Synthetic Aperture Radar (SAR) data and TanDEM-X/TerraSAR-X Coregistered Single look Slant range Complex (CoSSC) were used in this research, which was supported by the German Aerospace CenterTanDEM-X Science Coordination, with the project names of OTHER6906 and ATI_HYDR7333.To cover the region of interest,28 pairs of images acquired in 2015 were selected (Fig. 3). The synthetic aperture radar interferometry (InSAR) DEM Workflow module of SARscape 5.2 (SARmap company, Switzerland) was adopted for data processng, with SRTM V4 as an initial reference DEM (Sun et al., 2Ol6). The output spatial resolution was set to $1 0 \\mathrm { ~ m ~ }$ ： Additional ground control points (GCPs) were extracted in these completed DEMs for other image pairs. The final product was mosaicked by the ENVI (Environment for Visualizing Images) softwareseamless mosaic module without feathering or averaging. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To control the global precision, screened ICESat/GLA14 data from 2003-2009 (Li et al., 2017) is chosen as the GCPs because its height accuracy is usually better than $1 \\mathrm { m }$ (Gonzalez et al.,2010). The coordinates were transformed from Topex/Poseidon to WGS84 (World Geodetic System 1984; Li et al.,2017). The gravity anomaly was amended by the Earth Gravitational Model EGM2008 (Pavlis et al., 2008,2012). Due to the valid footprints of GLAS (Geoscience Laser Altimeter System) spread sparsely in the study region, 8 pairs of CoSSC,where footprints were in enough quantity and extensive distribution, were selected as the starting control images (Fig. 3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc0196a3150a33fe62e108a81ba521f08d33319cd65bfe5b877d55cb75a9617c.jpg",
+        "img_caption": [
+            "Fig.3Distribution of Co-registered Single look Slant range Complex(CoSSC) image pairs and Geoscience Laser Altimeter System (GLAS) footprints,with SRTMas the background elevation reference "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The DEM accuracy was assessed from two points of view, including the absolute root mean square error (RMSE) and relative local error. To estimate the global RMSE,all the valid GLAS footprints were referred as the truth elevation value of the ground. To evaluate the local performance, the ruined fort LK $( 8 9 ^ { \\circ } 4 0 ^ { \\prime } 4 . 7 5 ^ { \\prime \\prime } \\mathrm { E }$ ， $4 0 ^ { \\circ } 0 5 ^ { \\prime } 3 9 . 4 0 ^ { \\prime \\prime } \\mathrm { N }$ ; Fig.1) is selected as a validation site. In 20l6,aerial photogrammetry Structure from Motion (SfM) (Mancini et al.,2013; Lucieer et al.,2014a,b; Wallce et al.,2016) fieldwork was conducted to obtain a 3D model of the ancient fort.Photos were taken by DJI Phantom 3 Pro (Shenzhen DJI Sciences and Technologies Ltd., China) 30 meters above land, with more than $80 \\%$ overlap of an approximately $2 0 0 \\mathrm { m } { \\times } 2 0 0 \\mathrm { m }$ area covering the ruin. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 Validation of the digitalized Qianlong Thirteen-Row Atlas ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In 260 years ago,the vertical accuracy of documented astronomical coordinates (Table 1) was quite high.Errors in longitude are greater than those in latitude,which is a normal regulation for astronomical surveying. The worst bias in longitude occurred in Hara-shar. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The error might also come from cartography and digitizing. The forward RMSE of geocoding is $0 . 0 1 5 5 6 ^ { \\circ }$ ,which is equal to $0 . 9 3 ^ { \\prime }$ , with 9 GCPs spanning the map. Comparing coordinates extracted from the geocoded map and the current map (Table 1), it is found that there are significant errors at Luntai and Kuche, which is impossible in digitizing,because the longitude bias is close to one degree. The only explanation is that Michel Benoist, the author of the map,made some adjustments to integrate the surveying results， but we don't know how these errors occurred. Fortunately, the coordinates of Hara-shar and Korla are consistent with their current geolocations with an acceptable bias. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/15382fea3c2ac991dd7071e49026564fb401eefd3d8c0b0e19e4c77240abcc3f.jpg",
+        "table_caption": [
+            "Table1 Coordinates of main towns near Lop Nor "
+        ],
+        "table_footnote": [
+            "Note:Lat,latide;Lonogitue.Latadoaevaluesecodediocumentsheregidebractedyteogidfe Forbidden City $1 1 6 . 3 9 0 8 8 8 ^ { \\circ } \\mathrm { E }$ ,has been transformed as the Greenwich Prime Meridian.Lat2 and Lon2 are extracted from geocoded geotifile ofQianlong Thirteen-RowAtlas.LatOandLonOare thecurrnt geo-coordinates extractedfrom Google Earth. "
+        ],
+        "table_body": "<html><body><table><tr><td>Town</td><td>Lat1</td><td>Lon1</td><td>Lat2</td><td>Lon2</td><td>Lat0 LonO</td><td>Lat1-Lat0</td><td>Lat1-LatO</td><td>Lat2-Lat0</td><td>Lat2-Lat0</td></tr><tr><td>Luntai</td><td></td><td></td><td></td><td>4144'00\" 84°16'27.00\"4132'31.20\"83°2722.80\"41°46'30.00\"84°15'15.00\"</td><td></td><td>-2'31.80\"</td><td>1'12.00\"</td><td>-14'0.60\"</td><td>-47'52.20\"</td></tr><tr><td>Kuche</td><td></td><td></td><td></td><td>4137'00\" 82°54'27.00\"41°24'9.00\"8200'37.80\"4142'57.60\"82°57'1.20\"</td><td></td><td>-5'57.60\"</td><td>-5'56.40\"</td><td>-18'48.60\"</td><td>-56'23.40\"</td></tr><tr><td>Luke-qin</td><td></td><td></td><td></td><td></td><td>42°48'00\" 90°12'27.00\"42°46'15.60\"90°04'13.80\"42°44'41.40\"89°45'34.80\"</td><td>3'18.60\"</td><td>26'52.80\"</td><td>1'34.20\"</td><td>18'39.60\"</td></tr><tr><td>Turpan</td><td></td><td></td><td></td><td></td><td>4304'00\" 8938'27.00\"42°56'34.20\"8937'32.40\"42°56'59.40\"89°11'19.20\"</td><td>7'0.60\"</td><td>27'8.40\"</td><td>-0'25.20\"</td><td>26'13.20\"</td></tr><tr><td>Hara-shar</td><td></td><td></td><td>4207'00\" 8706'27.00\"42°11'39.00\"8631'43.20\"42°03'46.80\"86°34'10.80\"</td><td></td><td></td><td>3'13.20\"</td><td>32'16.20\"</td><td>7'52.80\"</td><td>-2'27.00\"</td></tr><tr><td>Korla</td><td></td><td></td><td>4146'00\" 86°27'27.00\"4130'28.80\"85°51'45.00\"4144'3.60\"86°10'21.60\"</td><td></td><td></td><td>1'56.40\"</td><td>17'5.40\"</td><td>-13'34.80\"</td><td>-18'36.60\"</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 DEM and accuracy evaluation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The distribution of error was projected on the tinting DEM to show the spatial features (Fig. 4). The histogram (Fig. 4) shows that the errors nearly yield a normal distribution. The global RMSE of the DEM is $0 . 4 2 \\mathrm { m }$ . Errors in the eastern playa are minute,usually less than $1 \\mathrm { m }$ ,while the errors in the desert and Yardangs,are sometimes substantial. The possible reason is that the geolocation of data is not rigorously aligned, so the elevation difference will be dramatic if the local landscape varies sharply, such as it does in the Yardangs region. Overall, the DEM is accurate enough to tint with a 1-m hypsometric interval. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The InSAR DEM (Fig. 5a) was validate with the DEM (Fig. 5b) in a 2-cm spatial cell with a relative vertical accuracy of one decimeter derived from the SfM. Five spots in LK (Fig. 5) were selected for quantitative comparisons,and the validation results are summarized in Table 2. Since they are in diferent elevation systems, it makes sense to compare the relative height rather than the absolute height. The flat ground to the east of the ruined fort (Fig.5) is taken as the local base height. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although the InSAR DEM roughly presented the topography features of the ruined ramparts, the relative height of three points on the tops of the ramparts, which are higher than the assigned base height, are all underestimated, up to $2 . 8 \\mathrm { m }$ at the southwest wall of the ruin LK. There is a horizontal deviation of $2 0 \\mathrm { ~ m ~ }$ between two images at the southeast wall of the ruin LK, resulting from the resolution differences.The elevation of the two depressions inside the ruin is also underrated. The relative vertical error in such complicated terrain could be evaluated as $3 \\mathrm { ~ m ~ }$ ,as shown in Table 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is not difficult to understand these differences. On the one hand, the $1 0 \\mathrm { - m }$ spatial resolution limits the validity. On the other hand, both walls and depressions,are isolated islets with a sharp height variation on their margin,where the interferometric fringes would discontinue easily on an interferogram (Fritz et al.,2Ol2). The errors are due to the limitation of the radar system. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/14cd8bd53d65716b1af6e0fd85a7be5dc7e207a9c5022b1d7877b8e7d066a1ee.jpg",
+        "img_caption": [
+            "Fig.4InSAR DEM and the error distribution.The missing northeastern and western regions are patched with SRTM DEM calibrated by GLAS for better presentation,with red polylines as separation.The size of each error point is directly proportional to the absolute value of its error,and its color represents its quantity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3123ab153552ea1878d9ac27f88fd5ff24d70200924a9c78435641ea4b2fd435.jpg",
+        "img_caption": [
+            "Fig.5Comparison of DEM for the ruin LK from different resources.(a) InSAR DEM; (b)aerial photogrammetry SfM DEM.The color ramp is the same as in Figure 4.The both are projected on WGS84 UTM Zone 45N. NE, northeast; SW, southwest; SE, southeast. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1Interpretation of InSAR DEM ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The figure about the area and boundaries of Lop Sea has not been ever provided. The spatial difference between the west shore of Lop Nor 1931 (Horner and Chen,1935) and the $7 9 0 . 0 \\mathrm { - m }$ contour in InSAR DEM is approximately ${ 5 ^ { \\prime } }$ in longitude, and negligible in latitude. It is reasonable for astronomical surveying results to contain a larger error in longitude than in latitude, although they can satisfy the precision requirement. Thus,the boundaries of Lop Sea with $7 9 0 . 0 \\mathrm { m }$ could be confirmed. To validate the remaining bank at the same elevation of approximately $7 9 0 . 0 \\mathrm { m }$ ，three field sites were checked to the north,east, and south (Shao et al.,2O11).The bank is confirmed on sites, where the inward region of the salt crust is mixed with fine sand,the outer region is clay bluff to the east,and the beach covered with gravel to the north.Meanwhile,the south site is covered by an alluvial fan, suggesting that the ancient southern shoreline may have been further south than nowadays. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cea2c41ed8b4d37d58f87ddb21b54e088d1559be4da134847c7d4abf25532283.jpg",
+        "table_caption": [
+            "Table2Relative elevation differences of the two DEMs "
+        ],
+        "table_footnote": [
+            "Note:InSAR,synthetic aperture radar interferometry; SfM, Structure from Motion. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Site</td><td colspan=\"4\">Elevation (m)</td><td rowspan=\"2\">Error</td></tr><tr><td>InSAR</td><td>SfM</td><td>InSAR relative</td><td>SfM relative</td></tr><tr><td>Reference zero height</td><td>793.600</td><td>791.739</td><td>0.000</td><td>0.000</td><td></td></tr><tr><td>Northeast wall</td><td>800.000</td><td>799.177</td><td>6.400</td><td>7.438</td><td>-1.038</td></tr><tr><td>Southwest wall</td><td>799.800</td><td>800.775</td><td>6.200</td><td>9.036</td><td>-2.836</td></tr><tr><td>Southeast wall</td><td>797.400</td><td>795.837</td><td>3.800</td><td>4.098</td><td>-0.298</td></tr><tr><td>Northern depression</td><td>793.600</td><td>790.307</td><td>0.000</td><td>-1.432</td><td>1.432</td></tr><tr><td>Southern depression</td><td>795.800</td><td>791.679</td><td>2.200</td><td>-0.060</td><td>2.260</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On the one hand, the water level could not be higher than the elevation of the ruins,LE (790.4 m), LA $( 7 9 2 . 8 \\mathrm { m } )$ , and LK $( 7 9 3 . 8 \\mathrm { m } )$ in the Loulan period (Fig. 6) (approximately 25-400 AD (Lv et al., 2010; Xu et al., 2017)). Thus, the maximum water level of the Lop Nor in the Loulan period was about $7 9 0 . 0 \\mathrm { m }$ . The area of the Lop Nor in the Loulan period could be extracted from the DEM, which is $8 1 5 6 . 0 \\mathrm { k m } ^ { 2 }$ with a water volume of $1 6 . 5 0 \\mathrm { k m } ^ { 3 }$ . This may be the region of the Puchang Sea near Loulan city recorded in the Book of Han, which comprises an area of $1 2 6 ~ \\mathrm { k m }$ by $1 2 6 ~ \\mathrm { k m }$ in longitudinal and latitudinal directions; however, this is an estimated data and measurement method is unknown. On the other hand,the salt crust beyond the west strand (Fig. 6) (Shao et al.,2012) with an average elevation $7 9 1 . 4 \\mathrm { ~ m ~ }$ implies that the Lop Sea at a previous time might have been larger than the one enclosed by the $7 9 0 . 0 – \\mathrm { m }$ contour. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3fd24758838fcfd73c47b1bd8103d7404b9daa18708ef9e292c05d6c920a10d.jpg",
+        "img_caption": [
+            "Fig. 6Interpretation of InSAR DEM.It is projected on WGS84 UTM Zone 46N.The color ramp is the same as in Figure 4.PitIis the locationofLiu etal.(2Ol6).PitIis the locationof Ma etal.(20o8).Thered dotted line square demonstrates the spatial range of Loulan. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A distinct broad channel 2 (CN2) connects the Lop Sea and Kara-koshun (Fig. 6). Based on the result of InSAR DEM, the width and depth of CN1 (the wide southeastern channe l) and CN2 can be obtained. The widest part of CN2 is approximately $2 . 9 \\mathrm { k m }$ at its beginning in the northeastern Kara-koshun, while the narrowest part is approximately $0 . 4 \\mathrm { k m }$ in the middle. The average depth of CN2 is over $1 \\mathrm { m }$ .In the east of Kara-koshun,beside CN2, there are some fork-shaped trenches stabbing toward Lop Sea. The northern strand of Kara-koshun is clear and continuous. The elevation in the west and south varies smoothly, where no distinct channel is identified. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "North of the Kara-koshun depression are the other two depressions, the Loulan depression and the central depression, which were first discovered and named by Hedin in his leveling survey from LA to Kara-koshun in 1901 (Hedin, 1940). They are now clearly identified in a topographic map for the first time. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Two broad and deep-undercutting channels CN1 and CN2 to the south of LA, SR1 (Southern River) and SR2 (Southern River), extend into the Loulan depresson (Fig. 6), suggesting that this depression accepted intermittent flooding after its desiccation.The continuous eastern levee of the Loulan depression and CN1 connecting the Lop Sea (Fig. 6) could be used as evidence for this inference.The average elevation of the levee is $7 9 0 . 6  { \\mathrm { m } }$ , while the lowest elevation of CN1 is 788.6 m, which indicates that the depression was discharged into the Lop Sea through CN1 when the water level reached $7 8 9 . 0 \\mathrm { m }$ ,and the maximum water level in Loulan depression was approximately $7 9 0 . 0 \\mathrm { ~ m ~ }$ . In terms of the water level at $7 9 0 . 0 \\mathrm { ~ m ~ }$ ， the possible lake area of the Loulan depression would be $3 5 4 . 3 \\ \\mathrm { k m } ^ { 2 }$ with a volume of $0 . 4 1 \\mathrm { k m } ^ { 3 }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The lakes in arid areas are sensitive to climate change and human activities,and the changes in lake historical water level affect human activities.Under the global warming environment,lakes in arid areas began to shrink, exposing the original lake basin. The topographic survey method used in this paper can be adopted to study ancient lakes in arid areas. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2 Location of Qing Lop Nor ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The historical documents showed that no astronomical surveying was conducted in the south or east of Lop Nor, which means that the measured lakes are the consequence of traverse surveying from Korla to the northwest. Due to an unknown surveying method for the lakes,a reasonable assumption should be made to estimate the bias.Regardless of the adopted methods, the location must be derived from measured angles and distances. Considering the surveying task of Espinha in 1759, including the longitude from $8 6 ^ { \\circ } \\mathrm { E }$ (Korla, China) to $6 9 ^ { \\circ } \\mathrm { E }$ (Tashkent, Uzbekistan), in just one year, it was difficult to guarantee the precision of the details.The errors of angles and distances are supposed to be $1 0 ^ { \\circ }$ and $10 \\%$ of the total distance from the origin,respectively. The error ellipses of the river mouth (Fig. 7) were drawn to represent the influence of these errors on a survey. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On the Qing map, the Tarim River converged with Kongque-daria at $9 0 ~ \\mathrm { k m }$ south from Korla and flowed $1 1 0 \\mathrm { k m }$ to feed Lop Nor (Fig. 7). It was reported that Lop Nur change into a group of small lakes during the Qing Dynasty (Yang et al., 2006). The error should not be too large, just as the demonstrated error ellipse. This location is in wellagreement with the records by a Chinese geographer, XU Song, in his book Hydrology of Western China, in which Lop Nor was reported $2 8 7 \\mathrm { k m }$ away from Hara-shar. If this distance was counted as the route along Kongque-daria from Hara-shar, the water coverage area ofLop Nor in the Qing map should be about $2 5 3 6 . 0 \\mathrm { k m } ^ { 2 }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There was no river to connect the surrounding small lakes and Lop Nor, perhaps they were fed by seasonal floods.There was a lake,Ghas Nor, to the south of Lop Nor. This lake might be Karaburan,according to the error ellipse, which agreed with Huntington (1907b). Between Ghas Nor and Lop Nor, no channel directly connected these two lakes, except for two courses named Kubu and Nu-qi-tu-da-ba-da-han (Fig.7).The latter might be the rudiment of the group of lakes, Avullukol, Kara-kol,Tayek-kol,and Arka-kol, which were thought to be the remnant lakes of Lop Nor in the Qing map by Hedin. (Figs. 1 and 7). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hedin (l9o5) thought that Qing Lop Nor was located in the Loulan depresson, but with the InSAR DEM, it can be seen clearly that the shape of the Loulan depression was different from that of Qing Lop Nor (Fig.7). In addition, its area ( $( 3 5 4 . 3 ~ \\mathrm { k m } ^ { 2 } )$ ）wasnot large enough to hold such a huge lake (about $2 5 3 6 . 0 \\mathrm { k m } ^ { 2 }$ ). No suitable depression agreed with the shape of Qing Lop Nor along Kuruk-daria (Fig. 7), which was against the conjecture of Huntington (1907b). Their views about the location of Qing Lop Nor could not be supported by topographical evidence. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Qing Lop Nor should be on the place illustrated in the ancient map.Besides, the water coverage area of Qing Lop Nor (about $2 5 3 6 . 0 \\mathrm { k m } ^ { 2 }$ ）is close to that ofLop Nor 1931 (about $2 4 4 5 . 0 \\mathrm { k m } ^ { 2 }$ ,it is highly possible that Qing Lop Nor was the terminal lake of the Tarim River in the Qing Dynasty, indicating that Lop Sea might get smaller or ephemeral water supply during this period (Mischke et al., 2020). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8051398255c41fd4227fa6c44e8e457d20527feaa3c3f54e1ccb63e6f7f873c4.jpg",
+        "img_caption": [
+            "Fig.7Error analysis of Qing Lop Nor projected on WGS84 UTM Zone 45N.Error elipses of river mouth are drawn by red lines.Map of Hedin 1896 is compared,with SRTM as an elevation reference background. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.3Spatial evidence for the CN2 formation dating ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another debatable issue in Lop Nor evolution research is the active duration of CN2 (Fig. 6). It was thought to be formed around 150O a ago (Yuan and Yuan, l998), while this conclusion is challenged by the current topographical evidence. Kara-koshun was reported to overflow northwards to form a new marsh Yangi-kol(Fig.1) in 1901 (Hedin,1905).If CN2 with an elevation of $7 8 8 . 5 \\mathrm { ~ m ~ }$ (Fig. 6) was formed before 1901, Kara-koshun could not maintain the water level at $7 9 0 . 5 \\mathrm { ~ m ~ }$ to overflow in dry winter. In addition,the leader of Abdal (Fig.1), declared in 1890 that no channel could be found in the northern Kara-koshun after he travelled around the marsh seeking better homesteads for his people (Pjevtsoff et al.,2013). However, Kara-koshun discharge to the Lop Sea by this channel, which can be confirmed by Huntington's travel notes when he traversed the playa from the south to north at $9 0 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { E }$ (the route of Huntington in January 19o6; Figs.1 and 6).The observed 'whiter, fresher and slightly damp' salt crust (Huntington,1907b) demonstrated that this region should have ben inundated not long before.Later the channel was reported deserted in 1931 (Chen,1936; Horner and Chen,1935). Thus CN2, which was the only drainage channel from Kara-koshun to the Lop Sea, might be formed between 190l and 1906.The corresponding terminal lake area in 1906 (inferred water area in 1906; Fig. 6) could be inferred according to the expedition route, covering about $1 5 8 0 . 0 \\mathrm { k m } ^ { 2 }$ . The evidences also indicated that the Lop Sea might be subaerial before 1901. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.4Sediment evidence for the discontinuous lacustrine deposition ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Among the published sediment researches,Pit I(Zhang et al.,2012; Liu etal.,2016)and Pit I (Ma et al., 2008) represented good grain size sequences (Fig. 8) at their locations (Fig. 6). In Pit I, the OSL (optically stimulated luminescence) ages at depths 37 and $7 5 \\ \\mathrm { c m }$ were $5 0 0 \\ ( \\pm 1 0 0 )$ and 1800 $( \\pm 2 0 0 )$ a BP, respectively (Zhang et al., 2O12). A dramatic grain size peak appears at a depth of around $4 6 { - } 5 4 ~ \\mathrm { c m }$ . While in Pit II, the sediments at a depth of $6 2 { - } 8 0 ~ \\mathrm { c m }$ are dark gray silty clay with plant oddments, whose radiocarbon ages were 871 $( \\pm 4 5 )$ (at $7 0 \\mathrm { c m } )$ and 800 $( \\pm 4 0 )$ a BP(at 75 cm). The grain size increases rapidly in the overlying above $2 8 \\mathrm { c m }$ . Neither the depth-age relations, nor the grain size patterns,are consistent in these two profiles,which is hard to explain under the stable lacustrine deposit assumption. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5f0869a256aa0cd3d2fc3fd38feb94e7dc46bdf0e9775bd618004d2375c07a9.jpg",
+        "img_caption": [
+            "Fig.8(a)Grain size at PitI(Liu et al.,2016; Zhang et al.,2012)and(b)Pit I(Ma et al.,2008),re-interpreted in this paper.The dating ofPitIwas OSL from Zhang et al.(2O12).Dating of Pit I was radiocarbon age of reed root in sediment. The blue rectangle represents the period with water supply. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Grain size can reflect the change of river mouth in Lop Sea. In 1896 and 1900,Kuruk-daria (Fig. 1) was reported as a dry channel without any water supply (Hedin,1905,1940). However, the river mouth was discovered at the end of Kuruk-daria, near Pit II in 1931 (Horner and Chen,1935) and 1934 (Chen,1936; Hedin,1940).Besides, near the river mouth,a layer of soil sediment at the bottom of the lake, whose underlying was the solid salt crust, was measured about $2 5 \\ \\mathrm { c m }$ (Chen, 1936), which coincides with the situation in Pit II, where the coarsest grain occurs at $0 { - } 2 8 \\mathrm { c m }$ depth. It was believed that this layer of soil was the result of the latest water supply after 1921 (Chen, 1936). This modern case presented an example for the increasing grain size with the changing of the river mouth and the discontinuous lacustrine deposit in Pit II. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "An identical event might be recorded at a depth of $4 6 { - } 5 4 ~ \\mathrm { c m }$ in Pit I, where the grain size increases rapidly.Pit Iis located in the aluvial fan of CN1.It is consistent with the wet season indicated by the dating results of the samples from the Loulan area (Li et al.,2O18).Li et al. (2018) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "collected natural plant relicts and samples from active traces of human in the surrounding area of Loulan ancient city for AMS (accelerator mass spectrometry) $^ { 1 4 } \\mathrm { C }$ chronological analysis.During 1260-1450,the Tarim River continued to drain into the Lop Sea through the Loulan River. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "According to the spatial reference supported by the reliable DEM in this study,if the Tarim River flowed through SR1 and SR2 into the Loulan depression, it would be highly possible that it was drained into Lop Sea through CN1 (Fig. 6). Despite no dating age in Pit I is available for this sediment layer, it should be earlier than the OSL dating age 1500 $( \\pm 1 0 0 )$ AD at depth $3 7 \\mathrm { c m }$ ,which coincides with the medieval flooding.Besides,at the depth $6 2 { - } 8 0 ~ \\mathrm { c m }$ in Pit II, the radiocarbon age of the plant oddments(871 $( \\pm 4 5 )$ a BP at $7 0 \\ \\mathrm { c m }$ ,and 800 $( \\pm 4 0 )$ a BP at $7 5 \\ \\mathrm { c m }$ ),alsoreferto this flooding period considering the bias. Perhaps Pit II was far from the river mouth at that time, as a result, the grain size stays low in this layer. It can be speculated that the Lop Sea was not in a stable lacustrine deposit situation according to the fact that the grain size of the upper and lower layer in Pit I is small, and no plant debris with grain size less than $8 0 ~ \\mathrm { c m }$ and more than $6 2 \\mathrm { c m }$ is found in Pit II. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.5Evolution episodes of the drainage system in the eastern Tarim Basin ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the discussion above, six episodes in the evolution of the drainage system in the eastern Tarim Basin during the historical period could be deduced (Fig. 9). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "34N4400430494044431000440041 86E 87E8tELE Yingpan TAE.Tuyin 90E91A 24N43002012401400000002143000431 86E 87E8eEL9E 0E891 A   \nLv201MerdekK LopSea KaLop Saplaya Kara-buran   \nMilan 0 100 200km   \nBosten Lake (b)1260-1450AD Bosten Lake （e)1906AD   \nLoulan Depression LopSeaplaya LopNor LopNor   \nKara-buran Kara-koshun Kara-buran   \nBostenLake (c)1760 AD Bosten Lake （f)1931AD   \nLop Nor LopSeaplaya LopSeaplaya opNor   \nKara-buran Kara-buran   \nLegend Tarim Basin Mountain areaRuins LakeMarsh River ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the Loulan period, there might be a large brackish lake. Despite the determination of the existing time for this $7 9 0 – \\mathrm { m }$ Lop Sea relies upon more additional dating materials,it could be suggested that the area (Fig.9a) was the maximum possible space in the Loulan period. Moreover, there should have been rivers flowing by the ruins of LA,LE,and LK (Fig. 6). Under the reduced humidity and heat of the westerlies in central Asia during the late Holocene (Chen et al.,2008), or anthropogenic activities (Mischke et al.,2017),the volume of the Tarim River was insufficient to maintain its previous length. Thus,Lop Sea Basin might be desiccated with the extinction of the Loulan civilization. During a flooding period (1260-1450 AD), the river recovered its length flowing eastwards,carrying the detrital components in the Loulan depression and discharging into the Lop Sea through CN1 (Fig.9b), where the water area of the Lop Sea was derived by the contour through Pit II.After the medieval flooding,at least before 176O AD,the Tarim River reduced its length again and terminated at Qing Lop Nor (Fig. 9c). Before 1879 AD when Przhevalsky first investigated the Tarim Basin, the Tarim river had changed its channel and flowed southward into Kara-buran and Kara-koshun (Fig. 9d). With the formation of CN2 between 1901 and 1906 AD, the Lop Sea got water supply again (Fig. 9e). Later in 1931, the Tarim River diverted at Temenpu and flowed through Kuruk-daria eastward into Lop Sea Basin (Fig. 9f) (Horner and Chen,1935; Chen,1936; Hedin,1940). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As we know, the diversion of drainage channels was general in arid central Asia. A similar diversion was documented by long time series of remote sensing images of Cherchen-daria, one of the tributaries of Kara-buran (Tetima) at the southeastern Tarim Basin (Abdimijit et al.,2014). However, more researches are needed to identify the details and mechanisms between these evolution episodes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Based on the current results, we may conclude that the Lop Sea was not on a permanent lacustrine deposit condition over the last 2OoO a. The terminal lake of the Tarim River, Lop Nor, changed its location and area according to the water supply. Interpretations of the sediments in the Lop Sea must be treated with care. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The lake level could hardly exceed $7 9 0 . 0 \\mathrm { ~ m ~ }$ in the Loulan period, thus the corresponding maximum lake area was about $8 0 0 0 . 0 \\mathrm { k m } ^ { 2 }$ . The evolution between the Loulan period and medieval flooding period was not yet clear, but the Lop Sea might be desiccated with the demise of the Loulan civilization. After the medieval flooding, Lop Sea did not receive drainage of the Tarim River until 1901-1906 AD. Lop Nor in Qing Dynasty was in a region around Tikenlik. The water area of the lower Tarim River was decreasing in the last 2000 a. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Further fieldwork would be needed to figure out the paleo environment and human activities in the Lop region,and the DEM provides a reference for the sample site in the Lop Sea. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (42071313,41671353,U1303285, 41571363,41431174,61471358,41201346,41301394,41301464). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AbdimijitA,AlimujiangK,AlishirK,etal.2014.MonitoringthewaterareachangesinTetima-KanglaykaLakesregionoverthe past four decades by remotely sensed data.Journal of Lake Sciences,26(1): 46-54.(in Chinese)   \nAbdimijitA,AlimujiangK,AlishirK,etal.2016.EvolutioofsmalllakesinlowerreachesofTarimRiverbasedonmulti-source spatial data.Geographical Research,35(11):2071-2090.(in Chinese)   \nChenF,YuZ,Yang M,etal.2Oo8.Holocenemoisture evolutioninaridentralAsiaanditsout-of-phaserelationshipwithAsian monsoon history.Quaternary Science Reviews,27(3-4):351-364.   \nChen P C.1936.Lop Nor and Lop Desert.Acta Geographica Sinica,1:19-49.(in Chinese)   \nCoianizL,ArizteguiD,PiovanoEL,etal.2Ol5.EnvironmentalchangeinsubtropicalSouthAmericaforthlasttwomillnia as shown by lacustrine pigments.Journal of Paleolimnology,53:233-250.   \nDong Z,LvP,QianG,et al.20l2.Research progress in China's Lop Nur.Earth Science Reviews,111(1-2):142-153.   \nFritzT,Balss U,BamlerR,etal.2012.Phaseunwrappingcorection withdual-baseline dataforthe TanDEM-Xmision. Geoscience and Remote Sensing Symposium,5566-5569.   \nGonzalezJH,Bachmann M,ScheiberR,etal.20l0.DefinitioofICESatselectioncriteriafortheiruseasheightreferences for TanDEM-X.IEEE Transactions on Geoscience and Remote Sensing,48(6): 2750-2757.   \nGuo S,LiD.20o3.AsurveyofFelix daRocha's scientific work inChina.Palace Museum Journal,4:O05.(in Chinese)   \nGuo S,LiD.oo5.P.JosedeEspinhaimperialfirstsupervisorinchargeofthe WesternAfirsandAstronomyJouralofIer Mongolia Normal University (Philosophy and Social Science),2: Oo8.(in Chinese) Journai oI Cninese Historical Geograpny,∠I(∠): oU-oo.(in Cninese)   \nHedin S.1905.ScientificresultsofajourneyincentralAsia,1899-1902Vol.2LopNur.Lithographic instituteoftheGeneral staff of the Swedish army,257-369.   \nHedin S.1940.The Wandering Lake. New York: E P Duton and Company Inc.,80-112.   \nHornerNG,ChenPC.1935.Alternating lakes.Some riverchangesandlake displacements incentral Asia. GeografiskaAnnaler, 17: 145-166.   \nHuntington E.1907a.Lop-Nor.AChinese lake.PartI.Theunexplored saltdesertofLop.Buletinof theAmerican Geographical Society, 39: 65-77.   \nHuntington E.1907b.Lop-Nor.A Chinese lake.PartII.The historic lake(Lop-Nor).Bulletinof the American Geographical Society,39(3):137-146.   \nIvory SJ,Russe J.2O18.Lowlad forest collapseandearlyuman impactsat theendoftheAfrican HumidPeriodatLake Edward,equatorial East Africa. Quaternary Research, 89(1): 7-20.   \nJia H,Liu J,Qin X.2O11.Early Holoceneclimatechangesandagriculturalactivitiesinferredfromspore-pollenofLop Nur. Journal of Jilin University (Science Edition),41:181-194.(in Chinese)   \nJiangH,ShevenellA,YuS,etal.2015.Decadal-toentennial-saleEastAsiansummermonsoonvariabilityduring theMedieval Climate Anomaly reconstructed from an eastern Tibet lacustrine sequence. Journal of Paleolimnology,54: 205-222.   \nLi B,MaL,Jiang P,etal.2Oo8.High precisiontopographicdataonLop Norbasin's lake\"GreatEar\"andthe timingofits becoming a dry salt lake.Chinese Science Bulletin,53: 905-914.   \nLiG,Tang X,ZhangC,etal.217.Multi-riteriaconstrantalgorithmforselectingICESat/GASdataaselevationcontrolpoints. Journal of Remote Sensing,21: 96-104.(in Chinese)   \nLi K,Qin X,Zhang L,etal.2O18.Hydrologicalchangeandhuman activityduring Yuan-Ming Dynasties intheLoulanarea, northwestern China.Holocene,28(8): 1266-1275.   \nLiu C,Zhang JF,JiaoP,etal.20l6.The HolocenehistoryofLopNurandits palaeoclimate implications.QuaternaryScience Reviews,148:163-175.   \nLu Z. 2008.Folk maps of Qing Dynasty.Land and Resources,12: 58-61. (in Chinese)   \nLucieer A,de Jong S M,Turner D.2014a.Mapping landslide displacements using Structure from Motion (SfM)and image correlation of multi-temporal UAV photography. Progress in Physical Geography,38(1): 97-116.   \nLucier A,TurnerD,KingDH,etal.2014b.Usingan UnmanedAerial Vehicle(UAV)tocapture micro-topographyofAntarctic moss beds.International Journal of Applied Earth Observation and Geoinformation,27: 53-62.   \nLvH,XiaX,LiuJ.2O10.Apeliminarystudyofchronologyfornewly-discoveredncientcityndfivearchaeologicalsitesin Lop Nor. Chinese Scientific Bulletin,55: 237-245.(in Chinese)   \nMa CM,WangFB,CaoQY,etal.2O08.Climateand environmentreconstructionduringthe Medieval WarmPeriodinLop Nur of Xinjiang,China. Chinese Science Bulletin,53:3016-3027.   \nMancini F,Dubbini M,GateliM,etal.2013.Usingunmannedaerial vehicles (UAV)for high-resolutionreconstructionof topography: The structure from motion approach on coastal environments. Remote Sensing,5(12): 6880-6898.   \nMischke S,LiuC,Zhang J,etal.2017.The world'searliest Aral-Seatypedisaster:thedeclineoftheLoulan Kingdominthe Tarim Basin. Scientific Reports,7: 43102,doi: 10.1038/srep43102.   \nMischke S,Liu C,Zhang J.2020.Lop Nur inNWChina: Its naturalstate,andalong historyof human impact.In: Kalweit SI. Large Asian Lakes in Changing World. Berlin: Springer, 207-233.   \nPavlis NK,Holmes SA,Kenyon SC,etal.2008.Anearth gravitational model to degree 2160:EGM2008.EGU General Assembly,10: 13-18.   \nPavlis NK,Holmes SA,Kenyon SC,etal.20l2.Thedevelopmentand evaluationoftheEarth Gravitational Model2008 (EGM2008). Journal of Geophysical Research: Solid Earth,117,doi: 10.1029/2011JB008916.   \nPjevtsoff M V,Tong Y,Tong S trans.2013.The Expeditionof Pjevtsof. Urumqi: Xinjiang People Press. (inChinese)   \nPrzhevalskyN,Huang J(trans.).1999.Moving toward Lop Nor. Urumqi: Xinjiang People Press. (in Chinese)   \nReinhardt C,WinnemannB,Krivonogov SK.2Oo8.Geomorphological evidence for the Late Holocene evolution and the Holocene lake level maximum of the Aral Sea. Geomorphology,93(3-4): 302-315.   \nShao Y,Gong H,LiuC.201.Primary interpretationon shorelines ofvanishedLop NurLakeusing multi-source SAR data. Journal of Remote Sensing,15: 645-647.(in Chinese)   \nShao Y,Gong H,Gao Z,etal.2O12.SARdataforsubsurface saline lacustrine depositsdetectionandprimary interpretationon the evolution of the vanished Lop Nur Lake. Canadian Journal of Remote Sensing,38(3): 267-280.   \nSteinA.1921.Serindia: DetailedReport of Explorations in Central Asia and Westernmost China.Oxford: Clarendon Pre,50 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "56. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "SunY,JiangL,LiuLetal.2016.GeneratingndevauatingdigitalteranodelwithTanDEM-XbstaticSARnterferoetry. Geomatics and Information Science of Wuhan University,41:100-105.(in Chinese)   \nWallace L,LucieerA,Malenovsky Z,etal.216.Assssmentofforest structure using two UAVtechniques:acomparisonof airborne laser scanning and structure from motion (SfM) point clouds.Forests,7(3): 62.   \nWang Q,Liu R.2007.Three Surveyed Atlas of Qing Dynasty.Beijing: Foreign Languages Press.(in Chinese)   \nXiG.1992.Migration history ofLop Nor and new findings.The Western Regions Studies,4: 5-16.(in Chinese)   \nXiaX,Wang F, Zhao Y.2007.Lop Nur in China.Beijing: Science Press,1-27.(in Chinese)   \nXu B,Gu Z,Qin X,et al.2017.Radiocarbon dating the ancient cityofLoulan.Radiocarbon,59(4):1215-1226.   \nXuH,YeM,SongY2o5.Thedynamicvariationofwaterresourcesandits tendencyintheTarimRiverBasin.Acta Geographica Sinica,15: 467-474.(in Chinese)   \nYang X,LiuZ,ZhangF,etal.O6HydrologicalchangsandanddegradationinthesoutherandasteTariBsi,Xiang, China.Land Degradation and Development,17(4):381-392.   \nYuan G,YuanL.1998.Anaproach totheenvionmentalchanges inLop-Nurhistory.Acta Geographica Sinica,53:80-89.(in Chinese)   \nZhangJ,WangJ,MaHetal.2Oo8.Streamflowvariationsoffoursoucestreams tomainstreamofTarimRiver,Xijiangand water transportation in 2006.Journal of Glaciology and Geocryology,30: 569-577.(in Chinese)   \nZhang JF,Liu CL,WuXH,etal.2012.Opticallstimulated luminescenceand radiocarbondating ofsediments fromLop Nur (Lop Nor),China.Quaternary Geochronology,10:150-155.   \nZhouY.978.DiscussionontheissueofLopNor migration.JournalofBeijing NormalUniversity(NaturalScience),3:3440. (in Chinese) ",
+        "page_idx": 13
+    }
+]

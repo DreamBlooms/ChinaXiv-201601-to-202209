@@ -1,0 +1,141 @@
+# 基础研究
+
+# 狨猴血清中重组人5型腺病毒中和抗体滴度的测定
+
+孙亚纯',李婷婷',王一琳',张 玲},朱 海²,黎诚耀1南方医科大学输血医学系,广东广州 510515;深圳市易瑞生物技术有限公司,广东 深圳 518101摘要：目的构建表达荧光素酶与绿色荧光蛋白报告基因的重组人5型腺病毒rAd5/Luc/GFP,检测血清中和抗体最佳实验方法，分析小型灵长类动物普通棉耳狱猴体内腺病毒5型中和抗体水平，为评价腺病毒载体疫苗提供实验动物基础数据。方法利用ADMax包装系统，首先构建穿梭质粒pDC315-Luc-GFP,将所得的穿梭质粒和骨架质粒pBHGlox△E1,3Cre共转染293A细胞，进行重组人5型腺病毒(rAd5/Luc/GFP)的包装。通过3次空斑形成实验筛选出单克隆重组腺病毒，并在大量扩增单克隆腺病毒后用CsCI密度梯度离心法进行浓缩纯化。采用TCID50法测定纯化后病毒滴度，并挑选进行中和实验的最优病毒滴度。将合适病毒滴度的rAd5/Luc/GFP与狱猴血清混合预孵育后感染293A细胞,分别采用化学发光法及流式细胞术,对14只普通棉耳狱猴血清中腺病毒5型中和抗体进行检测。结果PCR、酶切和测序结果均表明穿梭质粒pDC315-Luc-GFP构建成功;GFP检测结果证明重组人5型腺病毒rAd5/Luc/GFP包装扩增成功，病毒滴度可达 $6 . 9 \times 1 0 ^ { 1 1 . 5 }$ PFU/mL。两种不同方法检测检测14只狨猴的中和抗体结果一致性较好 $( P { < } 0 . 0 5 , \mathrm { K a p p a { = } 0 . 8 1 1 } )$ ,化学发光法或流式细胞术检测阳性狨猴比率分别为 $2 8 . 6 \%$ (4/14)或 $2 1 . 4 \%$ (3/14),化学发光法检测得其中2只狱猴中和抗体滴度为1/16,另2只为1/32,而流式细胞术检测得滴度均为 $1 / 1 6 _ { \circ }$ 结论化学发光法是一种快速，准确，适用于多物种的方法，其灵敏度略高于以GFP为报告基因的流式细胞术 $( 7 . 2 \%$ )。普通棉耳狨猴体内Ad5血清阳性率较低，有望应用基于此型或其他型别腺病毒作为载体进行基因治疗和基因疫苗研究。
+
+关键词：普通棉耳狨猴；腺病毒5型；荧光素酶；绿色荧光蛋白；中和试验
+
+# Detection of neutralizing antibody to human adenovirus type 5 in marmosets
+
+SUNYachun1,LI Tinging,WANGYilin’,ZHANGLingl,Zhu Hai²,LIChengyao   
+DepartmentofansfusionedicineouthernMedicalUnesityGuangzou5O15，hia;BioesyechologyCode   
+518101, China
+
+Abstract: Objective To construct a recombinant human adenovirus type 5(Ad5)expresing luciferase and GFP reporter gene and detect neutralizingantibodies against adenovirus type 5 incommon marmosets (Callthrix jacchus)to provide basic laboratory data for evaluating adenovirusvacines.Methods Luciferase and GFP reporter genes from plasmid pHAGE-MV-GFP were inserted into pDC315 to construct the recombinant adenovirus shutter plasmid pDC315-Luc-GFP. The shutter plasmid wasco-transduced with pBHGlox(delta)E1,3Crein293Acelline topackage therecombinantadenovirus rAd5/Luc/GFP.Three rounds of plaque formation experiment were performed toselectthe monoclonal adenovirus followed bypurification with cesium chloride density gradient centrifugation and virus titration with TCID5O method. Chemiluminescence assyand flow cytometry were employed to detect the neutralizing antibody levels in 14 common marmosets.ResultsThe shutle plasmid pDC315-Luc-GFPwassuccessullyconstructed and therecombinant adenovirus rAd5/ Luc/GFP was packaged with a the titer reaching $6 . 9 \times 1 0 ^ { 1 1 . 5 }$ PFU/mL. In the 14 marmosets, chemiluminescence assay identified 4 $( 2 8 . 6 \% )$ marmosets that were positive for Ad5-neutralizing antibodies, including 2 with a antibody titer of $1 / 1 6$ and another 2 withatiter of1/32;flow cytomery detected Ad5-neutralizing antibodies in 3 marmosetsat the titerof1/16.Conclusion Chemiluminescence assayisasimple,sensitive,andaccurate modalityfordetecting Ad5-neutralizingantibodies.Common marmosets have a very low positivityrate for Ad5-neutralizing antibodies and are therefore promising models for studying adenovirus-based vaccines and therapies.
+
+Key words: Calithrix jacchus; humanadenovirus 5; luciferase; green fluorescent protein; neutralizationexperiment
+
+普通棉耳狨猴(Callithrix jacchus)是新大陆猴，属灵长目狨猴科，地理分布上只分布在南美巴西的中部和东北部的大西洋沿岸。具有体型小、易管理、经济性好、繁殖率高的灵长类实验动物的优点，近年来作为动物模型已应用于生物医学领域中的多项研究[1-2]。随着分子生物技术的迅猛发展，基于腺病毒5型的重组载体已逐步运用于疫苗与各种疾病的基因治疗过程中，包括AIDS、肝炎病毒、流感病毒等[3-5]。研发腺病毒载体候选疫苗的首要任务是在非人灵长类动物模型上对所要研究的病毒基因进行免疫原性和耐受性等的评价。腺病毒5型载体可以诱导强烈的细胞免疫，是一个理想的载体选择[6-8]。因此，利用与人基因同源性高达 $9 9 . 9 \%$ 的灵长类动物进行腺病毒载体候选疫苗构建及评价，在使用载体前对新型小型灵长类动物模型普通棉耳绒猴中腺病毒5型的中和抗体水平进行检测就显得极为重要，而目前国内外未有相关报道。本研究通过构建同时携带荧光素酶(Luciferase）及绿色荧光蛋白（Greenfluorescentprotein,GFP)报告基因重组人5型腺病毒(rAd5/Luc/GFP)，相应采用化学发光法与流式细胞术两种不同检测方法，对14只普通棉耳狨猴Ad5血清阳性率进行检测。
+
+# 1材料和方法
+
+# 1.1 材料
+
+本实验采用14只普通棉耳狨猴，均为雄性，平均体质量 $3 5 0 ~ \mathrm { g }$ ，于2014年购自天津医科大学动物中心，已获得天津市和广东省林业厅批准(粤林护[2014]160号），并征得南方医科大学伦理委员会审核批准后用于实验研究。pDC315及pBHGlox(delta)E1,3Cre由马传染病与慢病毒创新团队惠赠，pHAGE-CMV-GFP、整合有腺病毒E1区基因的人胚肾细胞系293A细胞由本实验室保存。 $\mathrm { T _ { 4 } D N A }$ 连接酶、DNAMarker为TAKARA产品。EcoRI、BamHI、NheI等限制性内切酶为NewEnglandBiolabs产品。DMEM培养基,胎牛血清购自康宁公司；真核转染试剂X-tremeGENE9DNA购自Roche公司。凝胶回收试剂盒、质粒提取试剂盒为AXYGEN产品。大肠杆菌DH5α为TIANGEN产品。非必需氨基酸，L-谷氨酰胺，胰蛋白酶购自Life公司。引物合成和测序载广州英骏公司完成。
+
+# 1.2 方法
+
+1.2.1 穿梭质粒pDC315-Luc-GFP的构建 以pHAGE-CMV-GFP质粒为模板，根据Luc-GFP的序列设计上下游引物，上游带入EcoRI位点，Luciferase基因起始密码子前还有真核细胞翻译起始位点Kozak序列，下游带入NheI的引物。引物序列如下：
+
+Luc-GFP-F:5'-CGGAATTCGCCACCATGGAAG ACGCCAAAAACATAAAG-3';
+
+Luc-GFP-R:5'-CTAGCTAGCTCAGGGCAAGGC GGAGCCGGA- $. 3 ^ { \prime }$ O
+
+PCR扩增程序： $9 8 ~ \mathrm { { ^ { \circ } C } }$ 预变性 $2 \operatorname* { m i n } , 9 8 \mathrm { ~ \% }$ 变性 $2 0 ~ \mathrm { s }$ $5 5 ~ \mathrm { { ^ { \circ } C } }$ 复性 $2 0 \mathrm { { s } } , 6 8 \mathrm { { \stackrel { \circ } { C } } }$ 延伸 $3 \mathrm { m i n } , 3 0$ 个循环，最后 $6 8 ^ { \circ } \mathrm { C }$ 延伸 $1 0 \mathrm { m i n }$ 。回收PCR产物。用EcoRI和NheI双酶切回收后的PCR产物及质粒载体pDC315后，用T4DNA连接酶将上述目的基因片段与pDC315片段连接，转化$\mathrm { D H } 5 \mathrm { a }$ ,得到穿梭质粒pDC315-Luc-GFP。
+
+1.2.2重组质粒pDC315-Luc-GFP的筛选与鉴定 挑取转化平板中的单个菌落，接种并震荡培养过夜。取菌液，提取质粒。用EcoRI和NheI双酶切质粒后进行电泳鉴定。对经酶切鉴定正确的质粒送广州英骏公司测序。
+
+1.2.3重组人5型腺病毒(rAd5/Luc/GFP)的包装转染前1d,将293A细胞接种于6孔板中，待细胞生长到 $80 \%$ ${ \sim } 9 0 \%$ 时，取骨架质粒和穿梭质粒，用X-Treme脂质体进行共转染。待细胞大部分病变时收集细胞，用适量PBS重悬后反复冻融3次后离心取病毒上清。该上清即为第1代毒种(P1)。
+
+1.2.4空斑形成实验筛选单克隆重组人5型腺病毒状态良好的293A细胞铺12孔板，待细胞密度为 $9 0 \%$ ）$9 5 \%$ 即加入倍比稀释的P1代病毒液，每孔 $0 . 5 ~ \mathrm { m L }$ ，保留一个阴性对照,病毒液在细胞上吸附1h后，弃病毒液，加入低熔点琼脂糖覆盖细胞，室温固化待凝固后放入培养箱中培养。待可见蚀斑形成后可挑取蚀斑，共反复进行3次克隆蚀斑纯化，即可得到第4代病毒斑溶液(P4)。常规扩增腺病毒后进行浓缩纯化。
+
+1.2.5氯化铯密度梯度离心把细胞沉淀反复冻融4次，$5 0 0 0 ~ \mathrm { r / m i n }$ 离心 $3 0 \mathrm { m i n }$ ，沉淀细胞碎片。往超速离心管中先后加入 $1 . 4 ~ \mathrm { g / m L C s C l }$ 溶液 $\mathrm { . 1 . 2 g / m L }$ CsCl溶液、病毒液后，于 $4 ^ { \circ } \mathrm { C }$ 离心机中 $2 0 0 0 0 \mathrm { r / m i n }$ 离心 $2 \mathrm { h }$ 。离心后用针头注射器，在蓝白色病毒条带下方水平穿刺，抽取病毒条带，直至病毒条带消失。病毒液转移到透析管，并用磁力搅拌器搅拌透析过夜。次日取出透析管，转移病毒液到 $1 5 ~ \mathrm { m L }$ 离心管，并加入病毒保存液后分装冻存。$1 . 2 . 6 \ \mathrm { T C I D } _ { 5 0 }$ 法测定重组腺病毒滴度 按照文献[11方法观察每个梯度的细胞病变，根据Reed-Munch公式计算滴度。
+
+1.2.7腺病毒中和实验细胞与血清准备：将293A细胞均匀铺于96孔板内，细胞密度为 $2 \times 1 0 ^ { 4 }$ 细胞孔，于$3 7 \%$ $\mathrm { C O } _ { 2 }$ 培养，待细胞密度为 $9 0 \% { \sim } 1 0 0 \%$ 时进行中和实验。待测血清置于 $5 6 ~ \mathrm { ^ { \circ } C }$ 热灭活 $3 0 ~ \mathrm { m i n }$ 。血清稀释：灭活后的血清用 $10 \%$ DMEM进行2倍稀释, ${ 5 0 } ~  { \mu \mathrm { L } }$ DMEM中加入 $6 . 2 5 { \sim } 0 . 0 0 3 ~ \mathrm { \textmu L }$ 狨猴血清,使最终 $1 0 0 ~ \mu \mathrm { L }$ 培养基中血清稀释梯度是从 $1 { : } 1 6$ 至1:32768。血清病毒混合：在稀释好的血清样本中每孔加入 $6 . 9 \times 1 0 ^ { 7 . 5 }$ PFU/mL的rAd5/Luc/GFP病毒纯化液，混匀，每个梯度设置6个复孔。阴性病毒对照孔中不加任何血清。血清与病毒混合后孵育1h后，加入96孔板中， $1 0 0 \mu \mathrm { L }$ 血清病毒混合物/孔，孵箱中培养 $2 4 \mathrm { h }$ 后，使用下述两种方法分别检测中和抗体水平：
+
+1.2.7.1流式细胞术检测GFP阳性细胞率荧光显微镜下观察各稀释梯度下每孔绿色荧光蛋白表达情况，拍照记录相应孔及病毒对照孔中细胞绿色荧光蛋白表达情况。吸去相应孔及阴性对照孔中培养上清，用PBS洗涤细胞， $0 . 0 5 \%$ 胰酶消化吹打收细胞， $1 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 后用 $2 0 0 ~ \mu \mathrm { L }$ PBS进行重悬， $4 \mathrm { { ^ \circ C } }$ 保存，并尽快于BDCalibur流式细胞仪检测表达GFP细胞数目及百分比。1.2.7.2化学发光法检测荧光素酶活性每孔细胞用PBS洗涤后,加入 $1 0 0 ~ \mu \mathrm { L }$ 裂解缓冲液Glo Lysis Buffer,室温孵育 $5 \mathrm { m i n }$ 使细胞充分裂解，避光加入 $1 0 0 \mu \mathrm { L }$ 底物Bright-GloTMAssayReagent,反复吹打使荧光素酶完全与底物反应后，把反应液转移到Luminometer板条。最后置于Victor1420Multilabelcounter化学发光检测仪上检测发光读数。
+
+1.2.8中和抗体滴度判定流式细胞术的判定方法是以病毒对照的GFP阳性细胞率为标准，将对在一定血清稀释度中GFP细胞率抑制达到 $50 \%$ 的认定为该稀释度的血清中具有针对人腺病毒5型的中和抗体。化学发光法的判定则是以病毒对照的荧光素酶表达为标准，将对在一定血清稀释度中病毒荧光素酶表达抑制达到 $5 0 \%$ 时认定为该血清该滴度抗Ad5阳性。
+
+1.2.9统计学处理采用SPSS21.0软件进行统计分析。两种检测方法一致性检验采用Fisher确切概率法。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1目的片段的扩增
+
+以质粒pHAGE-CMV-GFP为模板，Luc-GFP-F和Luc-GFP-R为引物进行PCR扩增Luc-GFP序列，此片段共2932bp(图1)，片段扩增正确。
+
+![](images/31d2431e40ba0c8b672c92336c9a23f29af53de30f6340b66dbf654753d65f66.jpg)  
+图1Luc-GFP片段扩增结果 Fig.1 Amplification of Luc-GFP by PCR.
+
+# 2.2穿梭质粒的构建与鉴定
+
+将Luc-GFP片段与pDC315真核表达载体连接，构建穿梭质粒pDC315-Luc-GFP,用EcoRI与NheI酶切重组质粒克隆，获得Luc-GFP片段 $( 2 9 3 2 \mathrm { b p } )$ )与线性化pDC315(3910bp,图2)。把酶切正确质粒送测序，经比对后无碱基变化，故质粒构建正确。
+
+![](images/5f0291a63a8d03821e203966dfcb79d3e45c28e80ff1fdcd064e25e6180665a1.jpg)  
+图2pDC315-Luc-GFP质粒酶切鉴定 Fig.2Identification of pDC315-Luc-GFP by restriction enzymes.
+
+# 2.3重组腺病毒rAd5/Luc/GFP的包装
+
+将穿梭质粒pDC315-Luc-GFP与骨架质粒pBHGlox△E1,3Cre共转染293A细胞，72h后于荧光纤维镜下观察到少量的绿色荧光标签蛋白表达，说明穿梭质粒与骨架质粒在293A细胞中有同源重组现象。随着时间延长，表达GFP的细胞逐渐增多，出现明显细胞病变效应(CPE)。1周后，荧光表达强度最强(图3)。
+
+# 2.4重组腺病毒滴度测定
+
+纯化后获得的重组腺病毒rAd5/Luc/GFP，根据$5 0 \%$ 组织培养感染剂量法 $\mathrm { ( T C I D _ { 5 0 } ) }$ 测得病毒滴度是$6 . 9 \times 1 0 ^ { 1 1 . 5 }$ PFU/mLo
+
+# 2.5中和实验最佳病毒滴度挑选
+
+10倍稀释rAd5/Luc/GFP,使病毒滴度为 $6 . 9 \times 1 0 ^ { 8 . 5 }$ PFU/mL到 $6 . 9 { \times } 1 0 ^ { 3 . 5 } \mathrm { P F U / m L }$ ，感染293A细胞， $2 4 \mathrm { h }$ 后于荧光显微镜下观察记录绿色荧光蛋白表达情况，从而挑选适合进行中和实验的病毒滴度(图4)。此时图4C(病毒滴度为 $6 . 9 \times 1 0 ^ { 8 . 5 }$ PFU/mL)中几乎全部细胞出现严重病变，且有小部分细胞死亡；图4D(病毒滴度为 $6 . 9 \times$ $1 0 ^ { 7 . 5 } \mathrm { P F U / m L }$ )中细胞病变速度较稳定，大约 $90 \%$ 已表达绿色荧光蛋白，图4E(病毒滴度为 $6 . 9 \times 1 0 ^ { 6 . 5 }$ PFU/mL)中细胞表达速率较慢，约 $5 0 \%$ 细胞弱表达绿色荧光蛋白。因此，为达到快速检测血清中中和抗体水平的目的，可选择病毒滴度为 $6 . 9 \times 1 0 ^ { 7 . 5 }$ PFU/mL\~ $\cdot 6 . 9 \times 1 0 ^ { 6 . 5 }$ PFU/mLo
+
+# 2.6中和实验检测结果
+
+2.6.1流式细胞术计数GFP细胞率狨猴血清与病毒液混合后 $2 4 \mathrm { h }$ 可检测绿色荧光蛋白细胞数及比率(表1)。依据当某一血清稀释度的GFP细胞率小于阴性对照的$50 \%$ 时，可判定此最高稀释度为该普通棉耳狨猴的中和抗体滴度，计算得到M4、M7、M14血清中腺病毒5型抗体均为阳性，且滴度均为1/16。
+
+2.6.2化学发光法检测荧光素酶活性由于荧光素与绿色荧光蛋白的表达情况应一致，因此在通过流式细胞术检测GFP细胞率同时，采用化学发光法检测荧光素酶表达情况(表2)。根据中和滴度判定原则，可得M4、M5、
+
+![](images/e2db35a916fe0529f275ceade2d5f6e58633004166d81735fc507910700a418a.jpg)  
+图3pDC315-Luc-GFP与pBHGlox△E1,3Cre共转染293A细胞7d后绿色荧光蛋白表达 情况 Fig.3 GFP expression in 293A cells 7 days after co-transfection by pDC315-Luc-GFP and pBHGlox△E1,3Cre (Original magnification: $\times 1 0 0$ ).A: rAd5/LUC/GFP package; B: 293A(-).
+
+![](images/92a1c408c7d94850c309eaeaf1b174a31af22f231c2f5ad3966af059c1425bb7.jpg)
+
+M7、M14血清中腺病毒5型抗体均为阳性，M5、M14的中和抗体滴度为1/16，而M4、M7为1/32。
+
+2.6.3流式细胞术与化学发光法结果对比比较两种方法检测14只狨猴中Ad5血清阳性率及中和滴度情况，分析结果如下：(1)将两种方法的一致性进行统计分析，得 $P$ 值为0.011,Kappa值为0.811。故两种方法检测结果一致，且一致性较好;(2)经反复多次测定，流式细胞术检测为3只 $( 2 1 . 4 \%$ )狨猴血清中和抗体阳性，而化学发光法检测到4只 $( 2 8 . 6 \% )$ ，可知化学发光法的灵敏度较高；(3)流式检测结果为阳性的3只狨猴的中和抗体滴度均为1/16,而化学发光法检测出此3只狨猴中1只为1/16,另2只为1/32,单化学发光法检测阳性的狨猴血清滴度为1/16,可知化学发光法的准确性较好(图5)。
+
+# 3讨论
+
+腺病毒5型是一种无囊膜、非分段、双链DNA病毒[。由于分子结构与病毒学特征清晰,具有高安全性，高产量，高低度,细胞谱范围广，在多种真核细胞中均有人类的I期临床试验中已证实抗AD5免疫能抑制rAD5疫苗的免疫原性[15]。而不论在人或老鼠中此种具抑制功能的中和抗体主要针对于腺病毒衣壳的六邻体蛋白[6。基于此种局限，一些有效的方法分别是：利用在人群中血清阳性率非常低的人血清型腺病毒或黑猩猩来源的腺病毒作为载体[17;或对腺病毒5型六邻体蛋白中引起免疫反应的结构成分与稀少血清型腺病毒进行同源重组[18],但首先是要在非人灵长类动物模型上对所要研究的病毒基因进行免疫原性和耐受性等的评价。腺病毒5型载体可以诱导强烈的 $\mathrm { C D 4 ^ { + } }$ 和 $\mathrm { C D 8 ^ { + } T }$ 细胞免疫,是一个在临床前评价阶段理想的载体选择。我们课题组预以普通棉耳狨猴进行丙型肝炎病毒候选疫苗的临床前评价[19],因此需要确定在非人灵长类动物狨猴中腺病毒5型中和抗体的存在情况，而国内外研究未见报道。
+
+表1中和实验绿色荧光蛋白阳性细胞率及中和滴度判定 Tab.1 Percentage of green fluorescent cells in neutralizing assay and titer determination   
+
+<html><body><table><tr><td>Serum</td><td>1/16</td><td>1/32</td><td>1/64</td><td>1/128</td><td>Virus control</td><td>NAb titre</td></tr><tr><td>M1</td><td>83.9%</td><td>86.2%</td><td>90.8%</td><td>90.5%</td><td>92.0%</td><td>-</td></tr><tr><td>M2</td><td>76.4%</td><td>80.9%</td><td>80.2%</td><td>73.8%</td><td>81.3%</td><td>-</td></tr><tr><td>M3</td><td>86.9%</td><td>87.3%</td><td>89.8%</td><td>91.0%</td><td>92.0%</td><td>-</td></tr><tr><td>M4</td><td>34.5%</td><td>79.5%</td><td>91.9%</td><td>93.2%</td><td>93.0%</td><td>1/16</td></tr><tr><td>M5</td><td>72.8%</td><td>80.3%</td><td>81.1%</td><td>80.8%</td><td>84.2%</td><td></td></tr><tr><td>M6</td><td>71.5%</td><td>86.0%</td><td>76.7%</td><td>77.8%</td><td>81.3%</td><td></td></tr><tr><td>M7</td><td>30.3%</td><td>86.8%</td><td>90.6%</td><td>92.8%</td><td>83.5%</td><td>1/16</td></tr><tr><td>M8</td><td>45.7%</td><td>85.7%</td><td>88.6%</td><td>89.0%</td><td>83.5%</td><td>-</td></tr><tr><td>M9</td><td>65.7%</td><td>77.9%</td><td>91.3%</td><td>89.8%</td><td>94.5%</td><td></td></tr><tr><td>M10</td><td>56.0%</td><td>64.4%</td><td>73.7%</td><td>80.2%</td><td>81.3%</td><td>-</td></tr><tr><td>M11</td><td>86.7%</td><td>88.6%</td><td>92.3%</td><td>92.1%</td><td>92.0%</td><td>-</td></tr><tr><td>M12</td><td>93.4%</td><td>89.3%</td><td>93.0%</td><td>91.5%</td><td>92.0%</td><td></td></tr><tr><td>M13</td><td>92.6%</td><td>92.7%</td><td>91.7%</td><td>91.7%</td><td>92.0%</td><td></td></tr><tr><td>M14</td><td>37.2%</td><td>90.9%</td><td>93.7%</td><td>95.2%</td><td>83.5%</td><td>1/16</td></tr></table></body></html>
+
+表2荧光素酶活性检测结果及滴度判定 Tab.2 Luciferase activity in neutralizing assay and titer determination   
+
+<html><body><table><tr><td>Serum</td><td>1/16</td><td>1/32</td><td>1/64</td><td>1/128</td><td>Virus control</td><td>NAb titre</td></tr><tr><td>M1</td><td>6791253</td><td>7704233</td><td>8851667</td><td>10550014</td><td>9028232</td><td></td></tr><tr><td>M2</td><td>11192348</td><td>11902020</td><td>10309119</td><td>8900278</td><td>9028232</td><td>-</td></tr><tr><td>M3</td><td>9982284</td><td>11786307</td><td>10969133</td><td>14579599</td><td>10996534</td><td>-</td></tr><tr><td>M4</td><td>2919873</td><td>4309832</td><td>9285203</td><td>9534231</td><td>9028234</td><td>1/32</td></tr><tr><td>M5</td><td>633637</td><td>1782419</td><td>2422509</td><td>2394796</td><td>2582746</td><td>1/16</td></tr><tr><td>M6</td><td>5079185</td><td>4580563</td><td>4299424</td><td>4608290</td><td>2582746</td><td></td></tr><tr><td>M7</td><td>186833</td><td>328574</td><td>3618941</td><td>5995105</td><td>6848488</td><td>1/32</td></tr><tr><td>M8</td><td>7136144</td><td>14148326</td><td>15915331</td><td>16154926</td><td>6347376</td><td></td></tr><tr><td>M9</td><td>9073612</td><td>9343632</td><td>10159910</td><td>10534275</td><td>9767294</td><td>-</td></tr><tr><td>M10</td><td>6590716</td><td>9715507</td><td>11602155</td><td>12203531</td><td>9767294</td><td></td></tr><tr><td>M11</td><td>14735393</td><td>16317243</td><td>17328922</td><td>18226892</td><td>9348790</td><td>-</td></tr><tr><td>M12</td><td>12357822</td><td>13390661</td><td>13169725</td><td>12940420</td><td>7391658</td><td>-</td></tr><tr><td>M13</td><td>8262569</td><td>9506102</td><td>11141696</td><td>12646005</td><td>7391658</td><td>-</td></tr><tr><td>M14</td><td>197079</td><td>12283487</td><td>15691684</td><td>16650012</td><td>9348794</td><td>1/16</td></tr></table></body></html>
+
+对人或动物血清中和抗体的检测方法有两种：一种是野生型腺病毒被抗体中和后,观察感染细胞产生的细胞病变效应(CPE);另一种则是复制缺陷腺病毒与血清中抗体反应后，读取其介导的报告基因表达抑制情况。由于CPE的观察较主观，且细胞培养时间较长，不适宜快速检测，因此本实验选取构建同时表达Luciferase与GFP报告基因的重组复制缺陷型5型腺病毒，进行普通棉耳狨猴中和抗体水平检测。对比两种方法检测结果可知，以荧光素酶表达为基础的化学发光法较检测GFP细胞率的流式细胞术更为灵敏、简便、准确，是适宜样本量大且极高的转基因表达率，并极少整合入宿主基因组的优点，目前大多数用于研发疫苗及基因治疗的基因运输载体都基于腺病毒5型[10-1]。然而，人体中抗AD5中和抗体的存在极大降低此型腺病毒疫苗的疗效[12]。据研究报道，我国人群中腺病毒5型中和抗体的阳性率是 $70 \%$ ${ \sim } 8 0 \%$ ，中和抗体在血清低、中、高、超高滴度时均能检测到，且随着年龄的增加，中和抗体的阳性率随之增加，可能与接触感染机率增加有关[13-14]。同时，在老鼠、弼猴及可应用于多物种检测的方法,与前人分析结果一致[20-21]
+
+普通棉耳狨猴，我国二级野生保护动物，全球数量稀少，作为新世界猴被广泛用于脑发育、畸胎学、脂代谢、行为学、内分泌学、免疫学、病毒学、生殖生物学等多方面研究。为在此种新型动物模型身上灵活运用腺病毒载体，本研究尝试检测了狨猴血清样本中目前应用较广泛腺病毒5型的中和抗体。根据较灵敏的化学发光法检测结果，可以准确分析14只具有代表性的雄性普通棉耳狨猴血清中和抗体的水平， $7 1 . 4 \% ( 1 0 / 1 4 )$ 的狨猴无腺病毒5型中和抗体， $2 8 . 6 \% ( 4 / 1 4 )$ 有中和抗体，但均为低滴度(1/16或1/32)。当进行人类的中和抗体检测时，中和抗体分类情况是<1/16(阴性）1/16-1/200(低滴度）、1/16-1/200(中滴度）、1/16-1/200(高滴度)，而对于血容量少的灵长类动物狨猴，是否按照同样的标准有待研究[13]。
+
+![](images/41b3f716694e032e45d3111a824cf94b68463a9743ff9251e3338bc25cb28d1b.jpg)  
+图5两种不同检测方法结果对比 Fig.5 Comparison of the results of Ad5-neutralizing antibody detection by different methods.
+
+结合实验所用方法与狨猴血清中和抗体检测结果分析，可知目前我国饲养普通棉耳狨猴中预存腺病毒5型抗体者较少，约为 $20 \%$ ,且抗体水平极低 $( \leqslant 1 : 3 2 )$ ，有利于构建基于腺病毒5型载体的疫苗候选株，继而在狨猴中进行免疫原性等临床前评价。腺病毒5型的中和抗体水平低或无，提示其它型或亚型的人血清型腺病毒毒株在普通棉耳狨猴体内可能也无预存抗体，对相关腺病毒疫苗的制备与应用研究同时具有重要意义。
+
+# 参考文献：
+
+[1]Shimizu M,Iwano S,Uno Y,et al. Qualitative de novo analysis of full length cDNA and quantitative analysis of gene expression for common marmoset(Callithrix jacchus） transcriptomesusing parallel long-read technology and short-read sequencing[J].PLoS One,2014,9(6):e100936.   
+[2]Bosseler L,Cornillie P, Saunders JH,et al. Micromelic dysplasialike syndrome in a captive colony of common marmosets (Callithrix jacchus)[J].Comp Med,2014,64(5):394-403.   
+[3]Yamamoto T, Tsunetsugu-Yokota Y. Prospects for the therapeutic application of lentivirus-based gene therapy to HIV-1 infection[J]. Curr Gene Ther,2008,8(1):1-8.   
+[4]Nabel GJ.Challenges and opportunities for development of an AIDS vaccine[J].Nature,2001,410(6831): 1002-7.   
+[5]Fausther-Bovendo H,Kobinger GP.Pre-existing immunity against Ad vectors:humoral,cellular,and innate response, what's important?[J].Hum Vaccin Immunother,2014,10(1O): 2875-84.   
+[6]Hutnick NA,Carnathan DG,Dubey SA,et al. Vaccination with Ad5 vectors expands Ad5-specific CD8 Tcells without atering memory phenotype or functionality[J].PLoS One,2010,5(12): e14385.   
+[7]Frahm N,Decamp AC,Friedrich DP,et al. Human adenovirusspecific T cells modulate HIV-specific T cell responses to an Ad5-vectored HIV-1 vaccine [J].J Clin Invest,2012,122(1): 359-67.   
+[8]Hu H,Eller MA, Zafar S,et al.Preferential infection of human Ad5- specific CD4 T cellsby HIV in Ad5 naturally exposed and recombinant Ad5-HIV vaccinated individuals [J]. Proc Natl Acad Sci U S A,2014,111(37): 13439-44.   
+[9]Arnberg N.Adenovirus receptors: implications for targeting of viral vectors[J]. Trends Pharmacol Sci,2012,33(8): 442-8.   
+[10]Qureshi H,Genesca M,Fritts L,et al. Infection with host-range mutant adenovirus 5 suppresses innate immunity and induces systemic $\mathrm { C D 4 + }$ T cell activation in rhesus macaques[J]. PLoS One, 2014,9(9): e106004.   
+[11]冯文莉,史 静,胡 晶.重组腺病毒Ad5F35-SD-EGFP的构建及其对 K562细胞增殖的影响[J].南方医科大学学报,2011(11):1806-11.   
+[12]Yu B,Dong J,Wang C,et al.Trimeric knob protein specifically distinguishes neutralizing antibodies to different human adenovirus species:potential application for adenovirus seroepidemiology[J].J Gen Virol,2014,95(Pt 7): 1564-73.   
+[13] Sun C, Zhang Y,Feng L,et al. Epidemiology of adenovirus type 5 neutralizing antibodies in healthy People and AIDS patients in Guangzhou,southern China[J]. Vaccine,2011,29(22): 3837-41.   
+[14] Huang D, Hennequi M, Elvachev A,et al. The sero-prevalence of anti-adenovirus 5 neutralizing antibodies is Independent of a chronic hepatitis B carrier state in China[J].Arch Virol,2015,160 (4): 1125-30.   
+[15]Ellenberger D,Wyatt L,Li B,et al. Comparative immunogenicity in rhesus monkeys of multi-protein HIV-1 (CRF02_AG) DNA/ MVA vaccines expressing mature and immature VLPs[J]. Virology, 2005,340(1): 21-32.   
+[16] Sumida SM,Truitt DM,Kishko MG,et al.Neutralizing antibodies and $\mathrm { C D 8 ^ { + } T }$ lymphocytes both contribute to immunity to adenovirus serotype 5 vaccine vectors[J]. J Virol,2004,78(6): 2666-73.   
+[17] Swadling L,Capone S,Antrobus RD,et al.A human vaccine strategy based on chimpanzee adenoviral and MVA vectors that primes,boosts,and sustains functional HCV-specific Tcell memory [J]. Sci Transl Med,2014,6(261): 261ra153.   
+[18]Roberts DM,Nanda A,Havenga MJ,et al.Hexon-chimaeric adenovirus serotype 5 vectors circumvent pre-existing anti-vector immunity[J]. Nature,2006,441(790): 239-43.   
+[19] Li T, Zhu S, Shuai L,et al. Infection of common marmosets with hepatitis C virus/GB virus-B chimeras[J]. Hepatology,2014,59(3): 789-802.   
+[20]Hitt DC,Booth JL,Dandapani V,et al.A flow cytometric protocol for titering recombinant adenoviral vectors containing the green fluorescent protein[J].Mol Biotechnol,2000,14(3):197-203.   
+[21]李红卫,孙鹏宇,张艳玲.腺病毒滴度不同测定方法比较[J].南方医科 大学学报,2011,31(2):234-8.
+
+(编辑：经媛）

@@ -1,0 +1,709 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进高斯一拉普拉斯算子的噪声图像边缘检测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "代文征¹，杨勇²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．黄河科技学院 信息工程学院，郑州 450063;2.华中科技大学 计算机科学与技术学院，武汉 430074)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对现有梯度算子在图像边缘检测中存在的对噪声比较敏感的问题，提出了一种改进的高斯-拉普拉斯算子的边缘检测方法。噪声图像中的边缘检测是一项关键任务，然而目前常用的几种梯度算子，包括已经提出的高斯-拉普拉斯算子都没能取得理想效果。提出的方法对传统的拉普拉斯边缘检测算子作了改进，并与高斯滤波器相结合。首先，应用高斯滤波器来平滑图像，抑制噪声；然后，基于拉普拉斯梯度边缘检测器进行边缘检测；最后，在Imagenet数据集中选取了10幅图像进行了实验，将提出的高斯梯度边缘检测器与传统的边缘检测器进行比较。评估结果显示，提出的方法所获得的峰值信噪比(PSNR)高于对比算法，而均方误差(MSE)更小。实验结果表明，提出的方法在实际应用中能够有效提高噪声图像边缘检测的质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：边缘检测；高斯一拉普拉斯；高斯滤波器；噪声图像；峰值信噪比；均方误差 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.02.0183 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Noise image edge detection based on improved Gauss-Laplace operator ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dai Wenzhengl, Yang Yong² (1.Schoolof Information Engineering,Huanghe Science&Technology Collge,Zhengzhou450063，China;2.Collegeof Computer Science&Technology,Huazhong University ofScience & Technology, Wuhan 430074, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe problemthatthe existing gradient operator is sensitive to noise in image edge detection,this paper proposed an improved Gaussian-Laplacian edge detection method.Edge detection in noisy images was a key task.However, several commonlyused gradientoperators,including the proposed Gausian-Laplace operator,hadfailed toachievethedesired results.The proposed method improvedthe taditionalLaplacianedge detection operatorandcombined it withaGaussian filter. First,it useda Gaussan filter tosmooth the imageandsuppressnoise.Then itperformededge detectionbasedonaLaplacian gradientedgedetector.Finaly,itselected10images intheimagenetdataset.Itcomparedthe Gauiangradientedgedetector proposed with thetraditional edge detector.Theevaluationresults show thathe peak signal-to-noiseratio (PSNR)obtained by theproposed methodishigherthanthatofthecomparisonalgorithm,and themean square eror (MSE)issmaller.Expermental results showthattheproposedmethodcanefectivelyimprove thequalityofnoiseimageedgedetectioninpracticalaplications. Key words: edge detection; Gaus-Laplace; Gausfilter; noise image; peak signaltonoiseratio(PSNR); mean square ero(MSE) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像由具有不同灰度级的像素组成，在灰度级不连续性检测中，尽管点和线的检测非常重要，但边缘检测却是目前为止最为通用的方法。图像的边缘检测是利用图像一阶导数的极值（梯度算子）或二阶导数过零点（拉普拉斯算子）信息来实现的[1\\~4]。边缘检测是确定和定位图像中的尖锐不连续性的过程。在图像分析中，边缘检测起着重要的作用，它是传统的分割技术之一。高斯滤波器在边缘检测器中起着至关重要的作用[5]。高斯滤波器被用于一维信号平滑。当从一个细尺度到粗尺度移动时，零交叉消失在其二阶导数的尺度表示中。对于2D信号应用，也不会随着刻度的增加而产生零交叉。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献[6]提出了一种图像分割模型，其包括由canny和归一化的切割特征向量的边缘检测。在边缘检测之前，先采用基于噪声类型的中位数、高斯或 Frost 滤波器进行预处理。文献[7]开发了一种用于医学图像的边缘检测技术，以基于强度梯度和纹理梯度特征来追踪解剖器官的边界；与传统的有源轮廓模型相比，提出的模型能够产生有效的结果。文献[8]在图像上使用各种基于梯度的边缘检测器。Canny算子能够产生好的结果，但是在某些情况下需要调整参数。文献[9]证明了与拉普拉斯和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sobel边缘检测器相比，形态边缘检测器在存在噪声的情况下，对图像产生有效的结果。文献[10]提出了基于图像形态学运算的边缘检测，通过取扩张与侵蚀图像之间的差异来确定边缘。文献[11]对Berkeley数据集上[12]的各种边缘检测算子进行了分析，在图像与边缘检测之前进行高斯滤波器预处理，产生了优异的结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而以上提出的方法依然在不同程度上存在对噪声比较敏感的问题。基于此，本文提出了一种改进的高斯一拉普拉斯算子的图像边缘方法。该算法对传统的拉普拉斯边缘检测算子作了改进，并与高斯滤波器相结合。在Imagenet数据集中选取10幅图像进行了实验。与常用的梯度算子相比，取得了令人满意的结果，验证了提出方法的可靠性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 常用的梯度算子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大多数边缘检测算法都是基于图像的导数或梯度。通常情况下，图像易被高斯噪声破坏或受到斑点噪声的影响。因此，噪声图像中的边缘检测就起着至关重要的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "边缘检测器的目的是追踪图像中期望的感兴趣区域的边界或轮廓。2D 函数 $g \\left( x , y \\right)$ 的梯度如式（1）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla g = \\left( \\frac { f _ { x } } { f _ { y } } \\right) = \\left( \\frac { \\partial g \\operatorname { \\nabla } / \\partial x } { \\partial g \\operatorname { \\nabla } / \\partial y } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "边缘强度由上述矢量的大小给出，如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla g = m a g \\left( \\nabla g \\right) = \\left( f _ { x } ^ { 2 } + f _ { y } ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla g = \\left( \\left( \\frac { \\hat { \\sigma } g } { \\hat { \\sigma } x } \\right) ^ { 2 } + \\left( \\frac { \\hat { \\sigma } g } { \\hat { \\sigma } y } \\right) ^ { 2 } \\right) ^ { \\frac { 1 } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "梯度方向由式（4）决定。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\tan ^ { - 1 } \\left( \\frac { f _ { y } } { f _ { x } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "边缘检测算法应仔细跟踪边缘，必须消除由于噪声像素引起的假边。以下是在图像的边缘跟踪中做出的假设：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "边缘像素的梯度比噪声像素更大。  \n边缘大小和方向沿着边缘缓慢变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以下对这几种常用的梯度算子算子一一作出介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Sobel算子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sobel算子由一对 $3 { \\times } 3$ 的卷积内核组成。Sobel算子中的内核对垂直和水平运行的边缘产生最大值。在输入图像中单独应用内核以在每个方向( $G _ { x }$ 和 $G _ { _ y }$ )上产生梯度分量的不同测量，然后将内核反应组合在一起，以找出每个点的梯度的绝对幅度和该梯度的方向[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "梯度大小由式（5）给出。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| G | = \\arctan \\left( { \\frac { G y } { G x } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1给出了确定 $x$ (垂直)和 $y$ (水平)方向上梯度的Sobel边缘检测掩模。图2是Lena图像[13]的Sobel算子边缘检测结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "-1 -2 -1 -1 0 1 0 0 0 -2 0 2 1 2 1 -1 0 1 Gx Gy ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd2375912d51dbe9e63a93ac140196927f258aee7082a8e5f9c50485d352374e.jpg",
+        "img_caption": [
+            "图1Sobel边缘检测算子的掩模"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2Roberts 十字梯度算子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/99a5f282a25c7ceed9c615174b00064dec3c923ab99dd70639e09e584af94df0.jpg",
+        "img_caption": [
+            "图2原始Lena图像和 Sobel算子边缘检测处理后的Lena 图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Roberts十字梯度算子是主要用于计算图像的二维空间梯度，该方法简单而快速。边缘检测是确定和定位图像中的尖锐不连续性的过程。Roberts十字梯度算子属于一阶微分算子。对于噪声及光照不均匀等情况的存在，不能完整地勾画出物体的边缘，因此不能抑制噪声。Roberts 操作符中的内核对运行在 $4 5 ^ { \\circ }$ 的边缘产生最大值。图3为Roberts操作符的掩模图。图4是Lena图像的Roberts十字梯度算子算子边缘检测结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c85610f30bba270128841ce5054750a368010938a06963b5c008786620731e5c.jpg",
+        "img_caption": [
+            "图3Roberts边缘检测算子的掩模",
+            "图4原始Lena图像和Roberts十字梯度算子边缘检测处理后的Lena 图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3Prewitt 算子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Prewitt算子类似于Sobel算子，用于检测图像中的垂直和水平边缘。与Sobel操作符不同，它不重视靠近掩模中心的像素。类似于Roberts十字梯度算子，Prewitt 算子也属于一阶微分算子，同样对噪声比较敏感，易被高斯噪声破坏或受到斑点噪声的影响。Prewitt 梯度算子的边缘检测符掩模如图5所示。图6为Lena图像的Prewitt梯度算子边缘检测结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb0dde9323ad4cba4ab0d4a71f1ff491b13e455982b6df2ec55bd6f44f1af65e.jpg",
+        "img_caption": [
+            "图5Prewitt梯度算子边缘检测符的掩模 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9491fa22e9ce5f6bfec530ec543875de28690c402c9988a02c3cb919456b2ec.jpg",
+        "img_caption": [
+            "图6原始Lena图像和Prewitt算子边缘检测处理后的Lena 图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于改进高斯一拉普拉斯算子的边缘检测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1拉普拉斯算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区别于前面介绍的几种梯度算子，拉普拉斯算子是基于图像的二阶导数来找到边缘并搜索过零点。具有像素强度值$I \\big ( x , y \\big )$ 的图像的拉普拉斯变换 $L { \\big ( } x , y { \\big ) }$ 如式（6）所示.",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL { \\bigl ( } x , y { \\bigr ) } = { \\frac { { \\hat { \\sigma } } ^ { 2 } I } { { \\hat { \\sigma } } x ^ { 2 } } } + { \\frac { { \\hat { \\sigma } } ^ { 2 } I } { { \\hat { \\sigma } } y ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的拉普拉斯算子在常产生双像素宽的边缘。图7为拉普拉斯算子常用模板。易看出，对于较暗的区域中的亮斑进行边缘检测时，拉普拉斯运算就会使其变得更亮。因此，与梯度算子一样，拉普拉斯算子也不能抑制图像的噪声。本文对此作了改进，在已知边缘像素后再确定该像素的暗区还是亮区。图8 为改进的拉普拉斯算子拓展模板。图9为Lena 图像基于改进拉普拉斯算子的边缘检测结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/86338e660716a39f6293c67150a664228f711c22ebdd87b6114705e26600d06d.jpg",
+        "img_caption": [
+            "图7拉普拉斯算子常用模板"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6d891d34d613e4e1c0c6eb8a11910a24b72862a6293256cc3815bf0894e7a61.jpg",
+        "img_caption": [
+            "图8拉普拉斯算子拓展模板"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da1403a3a04cb5a52e1ce601d89cfed71484204f65970618db11c70dfaf8d8ed.jpg",
+        "img_caption": [
+            "图9原始Lena图像和拉普拉斯算子边缘检测处理后的Lena图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2高斯-拉普拉斯算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由2.1节可知，拉普拉斯算子并不能抑制噪声，如果有一种算子能够将高斯平滑滤波器和拉普拉斯算子结合起来，在进行边缘检测之前，先平滑掉噪声，一定能够取得良好的效果。基于此，提出了高斯一拉普拉斯算子。图10所示是常用的 $5 \\times 5$ 的高斯一拉普拉斯模板。图11为Lena 图像的高斯一拉普拉斯算子边缘检测输出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "-2 -4 -4 -4 -2  \n-4 0 8 0 -4  \n-4 8 24 8 -4  \n-4 0 8 0 -4  \n-2 -4 -4 -4 -2",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ed2c2ead4347e2f6359cdbb84f1f76afa63bbe1d390c21952fd8b70da0cbbe6.jpg",
+        "img_caption": [
+            "图10高斯-拉普拉斯边缘检测算子模板",
+            "图11原始Lena 图像和高斯一拉普拉斯算子边缘检测处理后的Lena图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3高斯平滑滤波器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "拉普拉斯边缘检测包括两级边缘增强和跟踪[14]。应用高斯滤波器来平滑图像，其较大的核心尺寸降低了对噪声的敏感度。在确定边缘方向之后，应用非最大抑制来追踪边缘的路径，并忽略那些不是边缘部分的像素。最后，应用滞后阈值来消除条纹。定义 $t 1 > t 2$ 的两个阈值( $t 1$ 和 $t 2$ )，并应用于图像的梯度大小。阈值大于 $t 1$ 的像素被认为是边缘像素，并且连接到大于$t 2$ 的边缘像素的像素被推定为边缘像素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高斯梯度使用高斯方法的导数来确定标量2D图像和 3D体积的梯度/导数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高斯核的二维表示如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh { \\bigl ( } x , y { \\bigr ) } = { \\frac { 1 } { 2 \\pi \\sigma ^ { 2 } } } e ^ { - \\left( { \\frac { x ^ { 2 } + y ^ { 2 } } { \\sigma ^ { 2 } } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高斯滤波器中的 $\\sigma$ 术语称为平滑刻度。该比例对高斯滤波器的响应有很大的影响。 $\\sigma$ 的值越大，图像将变得模糊，并且对噪声的敏感性降低。图12为Lena图像的高斯模糊效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e08f3e9a77e1e400aeff4005dc31f144aef49ab702a02761d6de974ca56f239.jpg",
+        "img_caption": [
+            "图12原始Lena 图像和高斯模糊处理后的Lena 图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通常来说，一个函数 $f \\left( x , y \\right)$ 就张量积而言，可以表示为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( x , y \\right) = g \\left( x \\right) h \\left( y \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里不用应用2D内核，采用可分离的滤波方法来计算一维内核沿 $x$ 和 $y$ 方向的梯度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高斯函数是可分的，可以分解为两个 $\\boldsymbol { 1 \\mathrm { D } }$ 高斯函数的乘积。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( x , y \\right) = \\left( { \\frac { 1 } { \\sqrt { 2 \\pi \\sigma } } } e ^ { - \\left( { \\frac { x ^ { 2 } } { \\sigma ^ { 2 } } } \\right) } \\right) \\left( { \\frac { 1 } { \\sqrt { 2 \\pi \\sigma } } } e ^ { - \\left( { \\frac { y ^ { 2 } } { \\sigma ^ { 2 } } } \\right) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高斯滤波器的重要性质是满足不确定关系的唯一滤波器。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta x \\Delta w \\ge 1 / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Delta x$ 和 $\\Delta w$ 分别是空间和频域的方差。独特的属性分别在空间与频域之间的本地化冲突目标之间作出最佳的折中。对于过滤器，高斯核的响应在无限域和大部分领域都是非零的;它是非常小的，因为是指数形式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4改进高斯一拉普拉斯算子的边缘检测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出的改进高斯一拉普拉斯梯度边缘检测步骤总结如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)输入图像可以是灰度或彩色图像。变量sigma用于确定两个方向上的高斯核。在高斯梯度边缘检测方法中选择适当的sigma值。图13为输入的Lena图像，图14为灰度处理的图像以及高斯滤波处理的图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/73e1691f92f8247281d49020b23d32d0bd29a5efa89366ebee9f274458e32bd1.jpg",
+        "img_caption": [
+            "图13输入的Lena 图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bd7e4dc4c08370c8822e769bcca34061f90178a389efd1739798e86ae4fe320.jpg",
+        "img_caption": [
+            "图14灰度处理的Lena图像和高斯滤波处理的Lena图像b)高斯核沿 $x$ 和 $y$ 方向生成。生成的高斯核涉及高斯函数的卷积和高斯函数的一阶导数。"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\left( x \\right) = \\frac { 1 } { \\sigma \\sqrt { 2 \\pi } } e ^ { - \\frac { x ^ { 2 } } { 2 \\sigma ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高斯函数的一些微分如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } } { \\hat { \\sigma } x } \\big ( g \\left( x \\right) \\big ) = \\frac { 1 } { \\sigma \\sqrt { 2 \\pi } } - \\frac { - 2 x } { 2 \\sigma ^ { 2 } } e ^ { - \\frac { x ^ { 2 } } { 2 \\sigma ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ^ { \\prime } { \\bigl ( } x { \\bigr ) } = - x { \\left( \\frac { 1 } { \\sigma { \\sqrt { 2 \\pi } } } \\right) } { \\frac { e ^ { - x ^ { 2 } } } { 2 \\sigma ^ { 2 } } } * { \\frac { 1 } { \\sigma ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ^ { \\prime } { \\bigl ( } x { \\bigr ) } = - x * g { \\bigl ( } x { \\bigr ) } * \\sigma ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c使用生成的内核对图像执行高斯平滑。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$x$ 和 $y$ 方向上的高斯核如式（15）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { l } { \\left\\{ H x = g \\left( x \\right) \\ast g ^ { \\prime } \\left( x \\right) \\right.} \\\\ { H y = H x ^ { \\prime } } \\end{array}   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结果如图15所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/29df649bf78b9fe61c00191910831c403e5a0f932c1888d39ccc663c52b8da22.jpg",
+        "img_caption": [
+            "图15原始Lena 图像在 $x$ 和 $y$ 方向上的高斯核响应"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)对生成的高斯平滑进行边缘检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $G x$ 和 $G y$ 是高斯平滑版本的图像。对于 $\\sigma = 1$ ，所得到的输出具有分割效果；对于 $\\sigma = 2$ ，发生分割；最为合适的$\\sigma { = } 1 . 5$ 时，产生最有效的结果。边缘检测获得的图像如图16所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da05146cb19afb6c2c8349ac78cb0c65fd8168e232a026c548adab4c7ca949fb.jpg",
+        "img_caption": [
+            "图16原始Lena图像和改进高斯一拉普拉斯算子边缘检测处理后的Lena 图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1实验设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本节中，为了评估所提出的基于改进的高斯一拉普拉斯高斯梯度算法的性能，在Imagenet数据集[15]中选取了10幅图像进行了实验，将本文提出的高斯梯度边缘检测器与传统的边缘检测器进行比较。图17为其中一个图像上的边缘检测结果。其中，图17 (a)为原图像；(b)为 Sobel算子检测的结果；(c)为Roberts算子检测的结果；(d)为Prewitt算子检测的结果；(e)为高斯一拉普拉斯算子检测的结果；(f)为改进高斯一拉普拉斯算子检测的结果。该仿真由MATLAB2012a软件完成。PC机相关参数如下：IntelCore i3 $@$ $\\textcircled { \\mathscr { V } } 3 . 3 0 \\mathrm { G H z }$ 、4GBRAM，在Windows10操作系统和64位处理器上运行。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff198b95f97c0c51bef355190c9f03ded44b1792b33d8fe0cd446d5947380324.jpg",
+        "img_caption": [
+            "图17其中一个图像上的边缘检测结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图17显示了常规边缘检测器和本文所提出的高斯梯度边缘检测器输出结果。所提出算法的性能由Imagenet数据集图像的峰值信噪比(peak signal to noise ratio，PSNR)[16\\~18]和原图像与处理图像之间均方误差(mean square error，MSE)[18\\~20]等性能度量指标进行评估。PSNR是最普遍、最广泛使用的评鉴画质的客观量测法，常用做图像压缩等领域中信号重建质量的测量方法。它常简单地通过均方差（MSE）进行定义。其中，MSE是原图像与处理图像之间均方误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { P S N R } = 1 0 \\log _ { 1 0 } \\left( \\frac { R ^ { 2 } } { \\mathit { M S E } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM S E = \\frac { \\sum _ { \\boldsymbol { M } , N } [ I _ { I } \\big ( \\boldsymbol { M } , N \\big ) - I _ { o } \\big ( \\boldsymbol { M } , N \\big ) ] ^ { 2 } } { \\boldsymbol { M } , N }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $I _ { \\scriptscriptstyle I } \\left( M , N \\right)$ 代表边缘检测输出； $I _ { o } \\left( M , N \\right)$ 代表地面真实图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将几种边缘检测算法与提出的方法在Imagenet数据集中选取了10幅图像进行了实验，并对结果进行了归纳统计。表1、${ \\sim } 3$ 分别归纳了几种边缘检测算法的PSNR值、MSE 值以及计算时间，并相应给出了折线图进行直观比较。几种边缘检测算法的PSNR值对比如图18所示，几种边缘检测算法的MSE值对比如图19所示。图18、19中的性能度量图显示，提出的改进高斯一拉普拉斯方法具有高PSNR和低MSE。算法的计算时间如图20所示。提出的改进高斯一拉普拉斯方法的计算时间略高于其他方法，但是在边缘跟踪的质量方面，提出的方法优于其他常规技术。其中Sobel、Roberts 和Prewitt算子这三种梯度算子属于一阶微分算子，对于噪声及光照不均匀等情况的存在，不能完整地勾画出物体的边缘。而高斯一拉普拉斯在平滑噪声方面的效果依然不理想。提出的改进高斯一拉普拉斯方法则很好地解决了这两个问题。对于PSNR和MSE的计算，Imagenet数据集中提供了地面真值图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cf3e2f4f1bf9d9bda4ac0729849881c256f483257efa562f4372597498d5ebc.jpg",
+        "table_caption": [
+            "表1几种边缘检测算法的PSNR 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">图片</td><td rowspan=\"2\">Sobel</td><td rowspan=\"2\">Roberts</td><td rowspan=\"2\">Prewitt</td><td colspan=\"2\">高斯一拉普 改进高斯-</td></tr><tr><td>拉斯</td><td>拉普拉斯</td></tr><tr><td>图片1</td><td>17.34</td><td>17.45</td><td>17.06</td><td>17.62</td><td>17.98</td></tr><tr><td>图片2</td><td>17.28</td><td>17.35</td><td>17.03</td><td>17.55</td><td>17.87</td></tr><tr><td>图片3</td><td>18.45</td><td>18.56</td><td>18.31</td><td>18.87</td><td>18.98</td></tr><tr><td>图片4</td><td>19.04</td><td>19.13</td><td>18.85</td><td>19.29</td><td>19.34</td></tr><tr><td>图片5</td><td>22.34</td><td>22.57</td><td>22.53</td><td>23.04</td><td>23.36</td></tr><tr><td>图片6</td><td>19.34</td><td>19.86</td><td>19.21</td><td>19.88</td><td>20.42</td></tr><tr><td>图片7</td><td>21.08</td><td>21.32</td><td>21.00</td><td>22.41</td><td>22.63</td></tr><tr><td>图片8</td><td>17.89</td><td>18.08</td><td>17.45</td><td>18.33</td><td>18.56</td></tr><tr><td>图片9</td><td>23.67</td><td>23.87</td><td>22.89</td><td>24.02</td><td>24.56</td></tr><tr><td>图片10</td><td>20.73</td><td>20.86</td><td>19.91</td><td>20.85</td><td>21.03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/38d88c33b54986ab5a9df718f2f725d32eeea79780aaec12ba9ac30d0812ce94.jpg",
+        "img_caption": [
+            "图18几种边缘检测算法的PSNR值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/25b10c693e3fca29ab5cdc4b589f73940f146971270470ba125e27233ef75f06.jpg",
+        "table_caption": [
+            "表2几种边缘检测算法的MSE 值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">图片</td><td rowspan=\"2\">Sobel</td><td rowspan=\"2\">Roberts</td><td rowspan=\"2\">Prewitt</td><td colspan=\"2\">高斯一拉普 改进高斯一</td></tr><tr><td>拉斯</td><td>拉普拉斯</td></tr><tr><td>图片1</td><td>37.34</td><td>37.65</td><td>37.08</td><td>34.56</td><td>34.87</td></tr><tr><td>图片2</td><td>14.28</td><td>15.21</td><td>15.23</td><td>14.59</td><td>13.66</td></tr><tr><td>图片3</td><td>34.66</td><td>35.72</td><td>38.42</td><td>32.23</td><td>29.83</td></tr><tr><td>图片4</td><td>9.44</td><td>9.14</td><td>8.95</td><td>9.02</td><td>8.23</td></tr><tr><td>图片5</td><td>22.14</td><td>22.65</td><td>22.92</td><td>21.02</td><td>19.52</td></tr><tr><td>图片6</td><td>12.34</td><td>11.86</td><td>12.71</td><td>11.88</td><td>10.01</td></tr><tr><td>图片7</td><td>21.38</td><td>21.92</td><td>22.09</td><td>20.42</td><td>18.63</td></tr><tr><td>图片8</td><td>17.89</td><td>18.08</td><td>17.45</td><td>18.33</td><td>17.06</td></tr><tr><td>图片9</td><td>23.97</td><td>22.89</td><td>22.23</td><td>22.01</td><td>20.50</td></tr><tr><td>图片10</td><td>20.72</td><td>20.98</td><td>19.98</td><td>18.83</td><td>17.63</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3bb0f57ee5ddcc0cc2bb7c2556cdfc5e3f26389946670c9d274df31c3c227e6.jpg",
+        "img_caption": [
+            "图19几种边缘检测算法的 MSE 值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/97544b9e10504139a7aa67d44155d2bc798404be48234be507e9e45554c2b5d2.jpg",
+        "table_caption": [
+            "表3几种边缘检测算法的计算时间"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>图片</td><td>Sobel</td><td>Roberts</td><td>Prewitt</td><td>高斯-拉普 拉斯</td><td>改进高斯- 拉普拉斯</td></tr><tr><td>图片1</td><td>0.74</td><td>0.45</td><td>0.56</td><td>0.62</td><td>0.98</td></tr><tr><td>图片2</td><td>0.68</td><td>0.43</td><td>0.53</td><td>0.55</td><td>0.87</td></tr><tr><td>图片3</td><td>0.65</td><td>0.46</td><td>0.61</td><td>0.67</td><td>0.92</td></tr><tr><td>图片4</td><td>0.74</td><td>0.63</td><td>0.55</td><td>0.69</td><td>0.84</td></tr><tr><td>图片5</td><td>0.64</td><td>0.57</td><td>0.53</td><td>0.74</td><td>0.86</td></tr><tr><td>图片6</td><td>0.34</td><td>0.46</td><td>0.51</td><td>0.58</td><td>0.62</td></tr><tr><td>图片7</td><td>0.38</td><td>0.32</td><td>0.37</td><td>0.41</td><td>0.63</td></tr><tr><td>图片8</td><td>0.89</td><td>0.68</td><td>0.65</td><td>0.83</td><td>0.98</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8f1505ed3b6e990d0f6cd829a280ecc2f4c5ce96b7d082a9225332d62b5702f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>图片9</td><td>0.67</td><td>0.57</td><td>0.56</td><td>0.52</td><td>0.96</td></tr><tr><td>图片10</td><td>0.73</td><td>0.66</td><td>0.71</td><td>0.85</td><td>0.93</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a3b4e784126ef85e0dcee2a042b4c7d3796cc237a391c8546894a7129f6c6c.jpg",
+        "img_caption": [
+            "图20几种边缘检测算法的计算时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出了用于边缘检测的基于改进的高斯一拉普拉斯高斯梯度算法，与常用的梯度算子相比，取得了令人满意的结果。该算法对传统的拉普拉斯边缘检测算子作了改进，并与高斯滤波器相结合。为了评估所提出的基于改进的高斯一拉普拉斯高斯梯度算法的性能，在Imagenet数据集中选取了10 幅图像进行了实验，并用伯克利分割数据集图像的PSNR和MSE 两个性能度量指标作为评判标准。实验结果显示了提出的方法与常规边缘跟踪算法相比时的优越性，边缘检测的质量大大提高。分割在远程医疗应用中对分析感兴趣区域起着至关重要的作用希望提出的方法在未来可以有效地帮助医疗应用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]刘晨，池涛，李丙春，等．结合全局和局部信息的水平集图像分割方法 [J].计算机应用研究,2017,34(12):3889-3894.(Liu Chen,Chi Tao,Li Bingchun. Level set image segmentation method by global and local information [J].Application Research of Computers,2017,34(12): 3889- 3894.)   \n[2] 杨婷婷，顾梅花，章为川，等．彩色图像边缘检测研究综述[J].计算 机应用研究,2015,31(9):2566-2571.(Yang Tingting,Gu Meihua,Zhang Weichuan,et al.Review of color image edge detection algorithms [J]. Application Research of Computers,2015,31(9):2566-2571.)   \n[3]Chintalapudi K K,Govindan R.Localized edge detection in sensor fields [C]//Proc of the lst IEEE International Workshop on Sensor Network Protocols and Applications.2016:59-70.   \n[4]Aslam A, Khan E,BegMM S.Improved edge detection algorithm for brain tumor segmentation [C]//Proc of International Symposium on Computer Vision and the Internet.2015: 430-437.   \n[5]陈熙，张戈．基于非高斯二维Gabor 滤波器的生物特征提取算法[J]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "计算机工程与应用,2017,53(18):170-175.(Chen Xi,Zhang Ge.Non",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gaussian gabor filters for biometric feature extraction [J].Computer ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Engineering& Applications,2017,53(18):170-175.)   \n[6]Pujar JH, Gurjal P S, Shambhavi D S,et al. Medical image segmentation based on vigorous smoothing and edge detection ideology [J].World Academy of Science Engineering& Technology,2010,19 (68): 444.   \n[7]Somkantha K,Theera-Umpon N,Auephanwiriyakul S.Boundary detection in medical images using edge following algorithm based on intensity gradient and texture gradient features [J].IEEE Trans on Bio-Medical Engineering,2011,58 (3): 567.   \n[8] Saif JA M, Hammad M H, Alqubati IAA. Gradient based image edge detection[J],IACSITInternational Journal ofEnginering and Technology, 2016,8 (3): 153-156.   \n[9] 任洪娥，刘冕，董本志．基于改进形态学算子的木粉边缘检测算法[J]. 计算机工程与应用,2015,51(5):183-186.(Ren Honge,Liu Mian,Dong Benzhi.Edge detection algorithm of wood-flour based on modified morphological operator[J].Computer Engineering& Applications,2015,51 (5): 183-186.)   \n[10]曹风云，李东兴，张华强，等．自适应多方向灰度形态学图像边缘检测 算法[J]．光学技术,2016,42(3):234-238.(Cao Fengyun,Li Donglin, Zhang Huaqiang,et al.An algorithm of image edge detection based on adaptive multi-directions gray scale morphology [J]. Optical Technique, 2016,42 (3): 234-238. )   \n[11]张桂梅，孙晓旭，陈彬彬，等．结合分数阶微分和Canny 算子的边缘检 测[J].中国图象图形学报,2016,21(8):1028-1038.(Zhang Gunmei, Sun Xiaoxu,Chen Binbin,et al.Edge detection algorithm combining fractional order derivative and Canny operator[J].Journal of Image & Graphics,2016, 21 (8): 1028-1038.)   \n[12] Mahmood N, Shah A, Waqas A,et al. Image segmentation methods and edge detection: an application to knee joint articular cartilage edge detection [J]. Journal ofTheoretical and Applied Infomation Technology,2015,71(1): 87- 96.   \n[13]吕福起，李霄民．利用MLT和 SRS的混合图像融合与去噪算法[J].湘 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "潭大学学报：自然科学版,2018,40(1):111-114.(Lyu Fuqi,Li Xiaomin.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hybrid image fusion and denoising algorithm using MLT and SRS [J]. Natural Science Journal of Xiangtan University: Natural Science Edition, 2018, 40 (1): 111-114. )   \n[14] Hazarika D,Nath V K,Bhuyan M.SAR image despeckling based on combination of Laplace mixture distribution with local parameters and multiscale edge detection in lapped transform domain ☆[J].Procedia Computer Science,2016,87(11): 140-147.   \n[15]杜友田，李谦，周亚东，等．基于异质信息融合的网络图像半监督学习 方法[J]．自动化学报,2012,38(12):1923-1932.(Du Youtian,Li Qian, Zhou Yadong. Semi-supervised learning method of network images based on heterogeneous information fusion [J].Acta Automatica Sinica,2012,38 (12): 1923-1932.)   \n[16] Dong B,Byna S,Wu K. Spatially clustered join on heterogeneous scientific data sets [C]//Proc of IEEE International Conference on Big Data.2015: 371-380.   \n[17] Manjanaik N, Manjunath R. Intra frame coding for advanced video coding standard H. 264 to control PSNR and reduce bit rate using Gaussian pulse [C]// Proc of IEEE International Conference on Electrical, Electronics,and Optimization Techniques.2016: 4326-4331.   \n[18] Rahman MJ,Lampe L.Robust MSE-based transceiver optimization for downlink cellular interference alignment [C]/ Proc of IEEE International Conference on Communications.2015: 4624-4629.   \n[19]王晓华，许雪，王卫江，等．一种稀疏度拟合的图像自适应压缩感知算 法[J].北京理工大学学报,2017,37(1):88-92.(Wang Xiaohua,Xu Xue, Wang Weijiang, et al. A sparse fiting image adaptive compressive sensing algorithm [J]. Journal of Beijing Institute of Technology,2017,37(1): 88- 92.）   \n[20]汪军，梁凤梅．基于P样条和局部互信息的非刚性医学图像配准[J]. 计算机应用研究,2017,34(8):2538-2541.(Wang Jun,Liang Fengmei. Non-rigid medical image registration based on P-spline and local mutual ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "information [J].Application Research of Computers,2017,34(8):2538- 2541. ) ",
+        "page_idx": 6
+    }
+]

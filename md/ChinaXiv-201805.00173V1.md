@@ -1,0 +1,145 @@
+# 蝎虎天体PKS0735+178的光变特性分析
+
+余莲，张雄，王文广，罗双玲(云南师范大学物理与电子信息学院，云南昆明650500)
+
+摘要：在收集大量数据的基础上，用时间补偿离散傅里叶变换、Jurkevich方法和离散相关分析法分析了PKS $0 7 3 5 + 1 7 8$ 的B波段和V波段光变周期，发现该天体具有年的光变周期，其中心黑洞质量的下限为。
+
+关键词：PKS $0 7 3 5 \substack { + 1 7 8 }$ ；DCDFT方法；Jurkevich方法；DCF方法；光变周期；黑洞质量中图分类号：P1 文献标识码：A 文章编号：1672-7673
+
+BLLac天体是活动星系核中一个重要的子类，BLLac天体在观测上表现出高光度、高偏振、快速光变以及非热辐射等特征[1-2],BLLac 天体具有长周期光变和短时标光变[3-5],通过观测和研究BLLac天体不同的光变时标能获得天体的中心黑洞质量、辐射区域及内部结构参数等[6-7]。因此，研究该天体的光变周期非常重要。
+
+BLLac天体 $\mathrm { P K S ~ } 0 7 3 5 { + } 1 7 8$ 是一颗红移为0.424的耀变体[8]，它具有平射电谱和射电爆、剧烈的光变、高偏振及超光速运动等性质，不发出或仅发出微弱和间断的发射线[].众所周知，分析PKS0735+178光变周期的方法很多，但是有些方法误差极大，对观测数据的连续性有极高的要求，并不适合周期性研究，而BLLac 型天体由于观测特征表明无发射线[1，要通过光谱观测获取光谱线，并用其研究中心黑洞质量等内部结构参数是不可能的[2-3]。本文主要使用时间补偿离散傅里叶变换、离散相关分析法和 Jurkevich3种方法对B波段和V波段的光变周期进行研究，并对比分析这3种方法，其中时间补偿离散傅里叶变换和离散相关分析法是初次用于研究PI $\zeta \mathrm { S } 0 7 3 5 \mathrm { + } 1 7 8$ 的光变周期，这两种方法对观测数据的连续性要求低、结果准确，而Jurkevich方法在文[9]中用过，并且它要求观测数据的时间序列长、连续性强。
+
+# 1样本和光变曲线
+
+本文研究的数据从文[11-18]获取，收集从1970年到2002年期间P $\mathrm { K S } 0 7 3 5 \mathrm { + } 1 7 8$ 光学B波段和V波段的观测数据。图1和图2分别为B波段和V波段的光变曲线。从光变曲线可以看出：PK $\mathsf { S } 0 7 3 5 \mathrm { + } 1 7 8$ 在光学波段活动非常激烈，在近30年的观测中，B、V波段的最大变化近3.5个星等，由于受观测条件的限制，光变曲线数据不连续，V波段将近9年没有数据，使周期性分析受到限制。
+
+\*基金项目：国家自然科学基金（11663009）资助；云南省高校高能天体物理重点实验室资助，作者简介：余莲，女，硕士研究生.研究方向：活动星系核.Email:1261773081@qq.com.通讯作者：张雄，男，教授.研究方向：活动星系核.Email:ynzx@yeah.net
+
+![](images/8e5b849700d7a0a72226fc59fa638f2fb6abba1294e5fcda57a335d9f4baf269.jpg)
+
+# 2周期分析
+
+2.1时间补偿离散傅里叶变换分析 $\mathrm { P K S } 0 7 3 5 \substack { + 1 7 8 }$ 的光变周期时间补偿离散傅里叶变换方法是计算光变周期最常用的方法之一，文[19]用该方法分析PKS 1510-089 红外光变周期,通过对、、作Gram-Schmidt正交化，得到3个正交向量，将数据投影到3个正交向量上就得到了频谱：
+
+正交化后：
+
+对于均匀采样的数据，这个过程对应于用三维“正弦 $+$ 常数”模型进行曲线拟合。如果周期大于采样时间，且时间序列足够长，覆盖所有的相位，则有
+
+功率谱强度为：
+
+其中,为离散傅立叶变换的功率谱。在不均匀采样的情况下，是加权的时间补偿离散傅立叶变换:
+
+在许多蝎虎天体的观测中，观测数据的精度各不相同。考虑到这个问题，引进权重方程重新定义内积：
+
+频率处的强度由下式给出：
+
+由线性回归理论可知,,其中。利用这一性质，引进标准化因子：统计量,称这一量为谱相关系数，对于所有频率，。
+
+![](images/d3ff96d6a1d692fee7f6a35246150f926ecde7615657f2608d68b8599bae9f85.jpg)
+
+![](images/dc2b1e53c770946ea723d2ce71d089f3e4cdf8b2738d4fcc97b0828318bc869f.jpg)
+
+应用上述方法获得PKS $_ { 0 7 3 5 + 1 7 8 }$ 的B波段和V波段周期图，由图3、图4可知，B波段存在0.62年、1.01年、1.67年、4.72年的光变周期信息，V波段存在0.58年、1.07年、1.67年4.72年的光变周期信息，按文[19]中的判据，B波段存在1.01年和V波段存在1.07年光变周期信息的可靠性最大,而B和V波段存在4,72年次之.但考虑到平均时标为年的周期很可能是由于地球绕太阳所致,则光变周期B波段为4.72年，V波段为4.72年.
+
+# 2.2Jurkevich分析周期
+
+Jurkevich基于对天文测量中的非均匀测量问题提出的一种统计法[20]，如果观测样本数据为 $N$ 个，为单次测量值，为所有测量值的平均值，为测量数据的方差，为测量数据样本的标准偏差.则有
+
+如果样本数据划分为 $\mathrm { ~ m ~ }$ 组，对应第1组的统计参数为
+
+对应m组的总方差为：
+
+0.9 0.9 0.8 0.8 0.7 0.7 0.6 0.6 0.5 0.5 0.4 0.4 0.3 0.3 0.2 0.2 0.1 0.1 0 0L 0 200 400 600 800 1000 1200 1400 1600 1800 2000 □ 200 400 600 800 1000 1200 1400 1600 1800 2000 P(days) P(days)
+
+应用上述Jurkevich方法获得1 $\mathrm { P K S } 0 7 3 5 \substack { + 1 7 8 }$ 的B和V波段-图，由图5、图6可以看出，对应于的最小值，B波段存在1.02年、1.20年、1.66年、4.77年的光变周期，V波段周期存在0.94年、1.71年、2.82年、3.97年的光变周期。根据光变周期存在的判据[20]，B波段存在1.02年和V波段存在0.94年光变周期信息的可靠性最大,而B波段存在4.77和V波段存在3.97年次之.但考虑到平均时标为年的周期很可能是由于地球绕太阳所致,则B波段存在4.77年周期，V波段存在3.97年周期。
+
+# 2.3 离散相关分析法分析
+
+离散相关分析法是用来分析两组离散数据相关性的方法之一[21-23],文[24]用此方法分析 BLLac 天体 PKS0537-441的光变特性[24]，该方法最大的特点是不需要对数据做任何处理，就能判断出两组数据的相关性。该方法的具体的步骤如下：
+
+首先计算两组数据的离散相关函数值。如数组和，则离散相关函数值为：
+
+# .(19)
+
+和分别为两组数据的平均值；分别为对应的标准偏差。
+
+其次计算DCF(t)值。通过时间延迟把两组数联系起来，假如时间延迟为t，在区间中有M
+
+个．则 $\mathrm { D C F } ( \tau )$ 值为
+
+.(20)
+
+再次离散相关函数的误差为
+
+.(21)
+
+对于所得到的离散相关图，如果峰值在零的右面，表明数组早于数组的变化。反之，数组就会迟于数组。
+
+W 1中王 + 囍 王 +DCE富 +云中五五 山 T 红Y  
+-2 2 1 年 正 T东  
+1500 -1000 -500 0 500 1000 1500 -1500 -1000 -500 delay(day) 0 500 1000 1500delay(day)
+
+通过使用离散相关函数对PKS $_ { 0 7 3 5 + 1 7 8 }$ 的B波段图像进行分析，所得结果如图7、8，从图中得到B波段周期存在1.21年、2.27年、3.62年、3.81年的光变周期信息，V波段存在周期1.21年、2.22年、3.15年、4.00年的光变周期信息。根据离散相关示数分析周期的方法[2I-23],B和V波段存在1.21年光变周期信息的可靠性最大,而B波段存在4.77和V波段存在3.97年次之.但考虑到平均时标为年的周期很可能是由于地球绕太阳所致，则PKS0735+178B波段的周期为3.81年，V波段的周期为4.00年。
+
+# 3 讨论与结论
+
+本文主要收集了 PKS $0 7 3 5 \substack { + 1 7 8 }$ 的光变数据，运用时间补偿离散傅里叶法变换、urkevich方法和离散相关分析法3种方法分析PKS0735+178的光变周期，时间补偿离散傅里叶法变换法分析B波段得到的周期大致为,V波段周期为；Jurkevich方法分析得到B波段的周期大致为1740天，V波段的周期大致为1450天；DCF方法分析的得到B波段的周期大致为1390天，V波段的周期大致为1460天.由此可得出，BLLac天体PKS0735+178的光变周期为。这与文[25]和 文[11]用其他方法研究结果基本一致。根据周期分析获得的PKS $0 7 3 5 + 1 7$ 的周期，我们利用薄吸积盘理论[3来分析该蝎虎天体PKS $_ { 0 7 3 5 + 1 7 8 }$ 的中心黑洞质量和薄吸积盘的热不稳定性发生的区域。一般情况下，热有限循环周期性取决于粘滞度参数，中心黑洞质量为和广义应力张量参数，因此爆发时间为
+
+(22)
+
+其中，为粘滞系数；以倍太阳质量为单位；为 $\mathrm { P K S } 0 7 3 5 \substack { + 1 7 8 }$ 的中心黑洞质量。
+
+由于目前吸积盘粘滞度的起源和特性都还不清楚，用磁流体力学对其讨论是一种常用的方法，文[26]提出如果磁场的逃逸率比较低，可以认为，使用这个参数值，长周期爆发时间大约为，即
+
+# ，（23）
+
+对于PKS $_ { 0 7 3 5 + 1 7 8 }$ ，如果，，分析获得的周期是，可以得出其中心黑洞质量为，这个中心黑洞质量对于P $\mathrm { { \sf K S } } 0 7 3 5 \mathrm { + } 1 7 8$ 来说太小，由于利用薄吸积盘理论分析方法考虑黑洞的自旋，所以中心黑洞质量偏小，但蝎虎天体的观测特性表明，这类天体在光谱观测中无发射线[10]，作为深入研究该类天体给出了黑洞质量的下限也是有意义的，在今后的CCD测光观测中寻找短时标光变，从而获得中心黑洞质量，与之做进一步比较。
+
+从图上也可看出不同的方法周期性的明显程度也不一样。时间补偿离散傅里叶变换法可以运用到天体数据处理上，可以有效地处理不均匀的天文数据，克服传统的傅里叶变换带来的伪周期，时间补偿离散傅里叶变换法通过施密特正交化，有效地解决由于、和3个向量不正交而带来伪信号的问题[27]。用离散相关性函数对PKS0735+178天体的B波段和V波段相关性分析，从图中可以看出它们之间存在很强的相关性，表明它们之间的辐射起源是相似的[24]。
+
+另外，在光变周期信息分析中，注意到年这个结果可能和一年的观测周期有关，这个周期可能是由于有规律的观测时间间隔导致的[28]，平均时标为年的周期很可能是由于地球绕太阳所致[29]。当然，也可能是天体 $\mathrm { P K S } 0 7 3 5 \mathrm { + } 1 7 8$ 的真实光变周期，其他光变周期信息是这个周期的N倍（ ${ \bf N } { = } 1$ ，2，3...）[30]。这个周期的研究[30]，对今后的观测有指导意义。将通过实测和更多的观测证明天体P $\mathrm { { K S 0 7 3 5 + 1 7 8 } }$ 的光变周期。
+
+# 参考文献：
+
+[1]Dondi L, Ghisellini G. Gamma-ray-loud blazars and beaming[J]. Monthly Notices of the Royal Astronomical Society, 1995,273(3): 583-595.   
+[2]刘云，张雄，郑永刚,等.Blazar天体的光变和偏振[J].物理学报,2007,56(9):5558-5563.   
+Liu Yun, Zhang Xiong, Zheng Yonggang, et al. Polarization and variations of Blazar[J]. Acta Physica Sinica,2007, 56(9): 5558-5563.   
+[3]Zhang X, Xie G Z, Bai J M. A historical light curve of 3C 345 and its periodic analysis[J]. Astronomy and Astrophysics,1998,330: 469-473.   
+[4]Zhang X, Zheng Y G, Zhang H J, et al. CCD photometry and optical variability of the BL Lacertae object $\mathrm { H } 0 3 2 3 + 0 2 2$ [J].The Astrophysical Journal Supplement Series,2008,174(1): 111-116.   
+[5] Zhang X, Zheng YG, Zhang L, et al. Optical CCD photometry of the variability of the BL Lacertae object ON231 in a low state[J]. Publications of the Astronomical Society of Japan,2008, 60(2): 145-160.   
+[6]Xie G Z, Bai JM, Zhang X, et al. The massive black hole in the center of the active galaxy MRK 421[J]. Astronomy and Astrophysics, 1998,334: L29-L31.   
+[7] Zhang X, Zhao G, Zheng Y G, et al. CCD photometry and optical variability of gamma-ray-loud BL Lacertae object OJ 287 in a low, fainter state[J]. The Astronomical Journal, 2007,133(5): 1995-2000.   
+[8] Carswell R F, Strittmatter PA,Williams R E, et al. Optical observations of the radio source $0 7 3 5 +$ （204号 178[J]. The Astrophysical Journal, 1974,190: L101-L104.   
+[9]丁世学，贺长剑.BL Lac 天体 PI $\$ 0735+178$ 的光变周期分析[J].襄樊学院学报,2003, 24(2): 3-6.   
+Ding Shixue,He Changjian.The periodicity analysis of the light variability of BLLacertae object PKS $_ { 0 7 3 5 + 1 7 8 }$ by using Jurkevich method[J].Journal of Xiang fan University, 2003,24(2): 3-6.   
+[10]董云明.BLLac 天体的辐射机制与分类[D].昆明：中国科学院国家天文台云南天文台, 2003.   
+[11] Webb J R, Smith A G,Leacock R J,et al. Optical observations of 22 violently variable extragalactic sources-1968-1986[J]. The Astronomical Journal, 1988, 95: 374-397.   
+[12] Pollock JT, Pica A J, Smith A G,et al.Long-term optical variations of 20 violently variable extragalactic radio sources[J]. The Astronomical Journal, 1979,84: 1658-1676.   
+[13] Xie G Z, Li K H, Zhang Y H, et al. Simultaneous multi-range observations and detection of rapid variability of BL Lacertae objects [J]. Astronomy and Astrophysics Supplement Series, 1994, 106: 361-372.   
+[14] Xie G Z, Li K H, Zhang X,et al. Optical monitoring sample of the GeV gamma-ray-loud blazars[J]. The Astrophysical Journal, 1999, 522(2): 846-862.   
+[15] Bai J M, Xie G Z, Li K H, et al. Photometric monitoring of three BL Lacertae objects in 1993-1998[J]. Astronomy and Astrophysics Supplement Series,1999,136(3): 455-460.   
+[16] Schaefer B E.A search for rapid Variability in eight quasars and BL Lacertae objects [J]. Publications of the Astronomical Society of the Pacific, 1980, 92(547): 255-258.   
+[17] Qian B, Tao J. Optical monitoring of PKS $0 7 3 5 + 1 7 8$ from 1995 to 2001 and its historical periodic light curve[J]. Publications of the Astronomical Society of the Pacific，2004, 116(816): 161-169.   
+[18] Zhang X， Zhang L，Zhao G，et al. Optical monitoring of three gamma-ray-loud BL Lacertae objects in 1999-2002[J]. The Astronomical Journal, 2004, 128(5): 1929-1941.   
+[19]罗双玲，张雄,王文广.时间补偿离散傅里叶变换分析 PKS 1510-089 红外光变周期[J].云 南师范大学学报:自然科学版,2016,36(5): 1-4.   
+Luo Shuangling, Zhang Xiong,Wang Wenguang. The optical variability periodicity analysis of PKS 1510-089 based on date compensated discrete fourier transform[J].Journal of Yunnan Normal University: Natural Sciences Edition, 2016, 36(5): 1-4.   
+[20] Jurkevich I.A method of computing periods of cyclic phenomena[J]. Astrophysics and Space Science,1971, 13(1): 154-167.   
+[21]高蓉，杨金雪,李怀珍.BLLac 天体 PKS2155-304 光变特性分析[J].云南师范大学学报：自 然科学版,2015,35(1):1-4.   
+Gao Rong， Yang Jinxue,Li Huaizhen.The variability analysis of BL Lac objects PKS 2155- 304[J]. Journal of Yunnan Normal University: Natural Sciences Edition, 2O15, 35(1): 1-4.   
+[22] Edelson R A, Krolik J H. The discrete correlation function-a new method for analyzing unevenly sampled variability data[J]. The Astrophysical Journal, 1988, 333: 646-659.   
+[23] Hufnagel B R, Bregman J N. Optical and radio variability in blazars[J]. The Astrophysical Journal, 1992,386:473-484.   
+[24]王文广,张皓晶,王雪品，等.BLLac 天体 PKS 0537-441的光变特性分析[J].云南师范大学 学报：自然科学版,2016,36(4):1-7.   
+Wang Wenguang，Zhang Haojing，Wang Xuepin，et al. The variability analysis of BL Lac objects PKS O537-441[J]. Journal of Yunnan Normal University: Natural Sciences Edition,2016, 36(4): 1-7.   
+[25] Smith P S, Balonek T J， Elston R,et al. Optical and near-infrared observations of BL Lacertae objects and active quasars[J]. The Astrophysical Journal Supplement Series, 1987, 64: 459-485.   
+[26]Horiuchi T, Kato S.A model of hydromagnetic turbulent viscosity in radiation-pressuredominated disks[J]. Publications of the Astronomical Society of Japan,1990, 42(5): 661- 674.   
+[27]李娟.Blazar光变研究[D].广州:广州大学,2007.   
+[28]Kidger M， Takalo L，Sillanpaa A. A new analysis of the 11-year period in OJ287- Confirmation of its existence[J]. Astronomy and Astrophysics,1992, 264: 32-36.   
+[29]Liu F K, Xie G Z, Bai JM. A historical light curve of ON 231 and its periodic analysis[J]. Astronomy and Astrophysics，1995,295:1-10.   
+[30]Fan J H, Xie G Z,Lin R G, et al. The long-term variability of BL Lac object PKS $0 7 3 5 +$ 178[J]. Astronomy and Astrophysics Supplement Series,1997, 125(3): 525-528.
+
+# The Variability Analysis of PKS 0735+178
+
+Yu Lian， Zhang Xiong，Wang Wen-guang，LuoShuang-ling (College of Physics and Electronics，Yunnan Normal University，Kunming 6505o0，China，Email: ynzx@yeah.net) Abstract:In this paper, we used the time compensation discrete Fourier transform method and discrete correlation analysis (DCDFT), Jurkevich ,DCF model to analyses B band and V band periodicity of the PKS $0 7 3 5 + 1 7 8$ , based on a large amount of data we have collected. We found that the variability period is about years and the lower limits of the central black hole mass is
+
+Keywords:PKS $0 7 3 5 + 1 7 8$ ; DCDFT method; Jurkevich method; DCF model method; Variability;Black hole mass

@@ -1,0 +1,277 @@
+# 作者贡献声明政策的初探性研究
+
+张闪闪 顾立平
+
+收稿日期:2015-09-02  
+修回日期：2015-09-11
+
+中国科学院文献情报中心，北京中关村北四环西路33号100190
+
+摘要【目的】对国外学术期刊的作者贡献声明(ACS)政策及要素进行分析，为期刊ACS政策制定以及未来计算作者贡献程度提供框架。【方法】以文献综述和案例分析的方法，提取2种综合类期刊与8种医学类期刊作者贡献声明的政策内容和要素。【结果IACS 政策内容包括对ACS 的强制性要求和理由、作者提交ACS 的时间与方式、在全文中ACS 的呈现形式、写作 ACS的格式等;ACS要素内容包括研究构思与设计、内容分析与解释、成果表达与论文撰写三方面21项。“三视角和三层次”构建对照科研生命周期各项科研活动的ACS框架图。【结论】对ACS的政策分析和所归纳的三维层次框架理论可作为期刊建设ACS标准化体系的参考依据。
+
+关键词科研合作;学术规范;作者贡献;内容分析;科研生命周期DOI:10. 11946/cjstp. 201509020851
+
+作者贡献声明是促进良好学术交流机制  
+一  
+，的基石
+
+随着学科的交叉融合，合作作者的数量不断增多,利用署名顺序来体现作者在论文中的价值大小越来越重要。然而，“共同作者”打破了传统的对作者价值大小的预测，如何深入了解作者在论文创作过程中的实际贡献、如何运用政策指导学术环境的健全发展，成为新时代的挑战。近期，一种新的论文标准规范格式——AuthorContributions正在悄然崛起，它可以被译为“作者贡献”。它的出现，提供了一种新的认识作者价值的视角，学者LizAllen等[1]总结了它对作者、读者、期刊、基金单位以及科学界可能具有的5项潜在优势。
+
+学术交流机制对科技创新的发展具有重要作用，在学术期刊上发表优秀论文，既能够彰显作者的能力、努力和影响力，也能够奖励、鼓励和激励作者积极发表其创新成果。科技论文的质量能反映科学技术活动对现有知识体系的贡献[2]。我国科技创新激励机制中也有:职称评定[3-4]、奖学金评选[5-6]、学位授予条件[7-9]、名誉奖项（如国家自然科学奖、长江学者、自然科学基金及院士增选等）[10]等促进良好学术交流的措施。
+
+科学合作本是促进科技创新的基础和重要举措，然而，对合作下的名誉分配和归属，却不容易完全做到。在学术期刊上的作者署名就是其中一项问题。经典著作《科学社会学》（1973）曾写道：“假设你有一个学生，那么你是否应该在论文上署名呢？如果你不署名，那么有可能使此文得不到充分的认识。如果你署名，它会得到承认，但那样的话此学生就不会获得足够的荣誉”[I1]。随后默顿（RobertKingMerton）教授提出的科学交流“马太效应”现象，指出科学奖励体系中的一系列问题。
+
+论文署名顺序（ArticleAuthorOrder，以下简称AAO)作为一种体现作者在文中价值的标准,已经得到了很多学者的关注[12-17]。学科交叉融合环境下如何明确作者对论文的贡献、如何寻找科研合作对象以及如何运用政策指导科学的公平、透明化发展，都是这个时代的新挑战。
+
+在这种背景下，作为一种补充说明机制，作者贡献声明（Author Contribution Statement，以下简称ACS)在一定程度上缓解了合作论文署名的两难。学术期刊通过设立作者贡献声明，一是编辑不再需要花费大把的时间了解和解决署名权纠纷，为编辑节省许多宝贵的时间，从而为编辑出版事业提供参考和借鉴；二是期刊对作者成果的一种保护和尊重，促进科研成果贡献更加透明化；三是使学术期刊相关部门认识到作者贡献声明所带来的优势，规范学术期刊的管理，完善学术期刊建设，从而充分发挥学术期刊在学术信息交流传播和学术事业发展中的积极作用。
+
+我国学术期刊一直扮演着知识交流传播的重要媒介，近年来越加重视ACS的作用，《现代图书情报技术》于2014 年起推出了“作者贡献声明”[18]和“结构式文摘”[19]的投稿规范、《图书情报工作》自2015年起，规定所有合著论文均需注明“作者贡献说明”[20]；《中国科技期刊研究》也提出了ACS 的规定[2]。世界对于 ACS 的重视也反映出我国学术交流机制的进一步成熟。
+
+20国内外作者贡献声明的相关研究进展目前，作者贡献（Author Contibution，以下简称AC已经引起了学者们的注意,国内外已有一部分科研人员对此展开了广泛而深入的研究，主要集中在以下三个方面：
+
+# 增设 ACS的意义
+
+ACS具有补充AAO的意义，可以说明具体参与人员实际贡献的效果;并且ACS有助于提醒署名作者在论文发表前再次确认论文的权责，对提高论文质量有间接效果；此外ACS还具备一种潜在用途：提供日后判断卓越科学贡献的奖励或者惩罚学术不端的参考依据。国外学者 Sebastian Frische[22]认为ACS可以验证所有贡献者对论文所作出的贡献，使作者真正成为“作者”，同时建议在现有的文摘索引数据库中增加对作者具体贡献的描述字段。Clement[23]和Rennie[24]也表示了AC 对一篇文章的重要性。国内学者张晓林认为增设“作者贡献声明”可以在一定程度上提高期刊学术质量及其可检验度和可信赖[25-26],李静然认为增设“作者贡献声明”，对减少不规范署名和避免作者利益冲突有一定的作用[27],钱寿初[28]、朱大明[29]等也都纷纷提出期刊应该增设ACS，说明每位作者在研究中的实际作用。
+
+# 2.2ACS要素的研究
+
+在实际操作过程中，人们往往发现ACS的内容不尽相同，有学者尝试对其进行了归纳和梳理，如
+
+Osborne[30]、Clement[31]通过文献调研,总结出了作者贡献的四大类型, $\mathrm { Y a n k } ^ { [ 3 2 - 3 3 ] }$ 、Davenport[34]通过实证研究归纳出了多种作者ACS要素。也有学者从医学领域ICMJE的规范展开了若干研究，成为本研究的一项重要基础。如Yank[32]分析了Lancet 期刊中1997年7月一12月期间的作者贡献，修正了ICMJE 中指标过于严格的问题,Flanagin[35]对比了期刊中的作者贡献与ICMJE作者贡献之间的对应关系。Baerlocher[36]、Bates[37]以ICMJE 为标准分别提出了11种ACS要素。
+
+# 2.3作者贡献程度计算方法的研究
+
+在2.1和2.2的基础上，许多学者开展ACS的量化研究。如 Lindsey[38]、Price[39]、Oppenheim[40]、Gauffriau[4I]分析了调节计数法在 ACS 计算中的应用,Hodge[42]、Hagen[43-44]认为不同作者之间的贡献成等比例关系,提出了调和计算法。Hunt[45]、Justus和Karin[46]、Fese[47]、Frazett[48]、Maureen[49]Mahsa[50]纷纷利用学术贡献度为基础分析作者的名誉分配问题。国内如樊玉敬[5提出了合著论文作者名誉分配模型，朱丽娟在此基础上引入通讯作者概念[52],丁福虎认为应按为选题、研究方案设计、实验观察和总结写作来分配权重[53],张永平等人认为论文署名应用学术创新程度和论文中投人的工作量来衡量[54],衡晓帆和闫佳丽等认为作者的贡献得分能够定量地表征作者的活跃度[55]
+
+从实践过程及现有研究来看，目前关于ACS来说，各个期刊都有自身的政策体系和要素标准，缺乏一种令其他期刊参考的通用标准，急需要对期刊进行贡献要素体系的标准化建设。调研国外期刊的ACS政策，对其所使用的要素进行归纳总结，有助于为我国信息服务机构与期刊出版工作者制定更加完善的期刊规范化标准。本文在系统梳理国外10种期刊ACS政策及要素的基础上，从“三视角”“三层次”构建了ACS要素的三维层次框架图，以期对我国期刊设置ACS提供借鉴，进而为期刊未来标准化建设作出贡献。
+
+# 3案例分析
+
+# 3.1 研究对象的选择
+
+根据我国GB7713—87（1998)规范，学术论文署名的作者“只限于那些对于选定研究课题和制订研究方案、直接参加全部或主要部分研究工作并做出主要贡献、以及参加撰写论文并能对内容负责的人，按其贡献大小排列名次”[56]。为结合我国的实际情况,笔者以此标准为基础，将AC定义为：署名作者在投稿或论文中声明每位署名作者具体都做了怎样的贡献（本研究所述论文均是指期刊论文）。良好的ACS有利于分清各作者承担的相应责任及其责任追究，促进各作者认真对待其承担的具体工作，自觉遵守学术道德规范,提高学术论文质量水平[29]
+
+根据上述AC定义，进一步剖析学术论文和AC信息所体现的框架如下：科研论文由论文内容和作者信息构成，论文正文内容包括：篇名、分类号、关键词、摘要和正文，而能体现AC的信息主要涉及：作者机构、作者简介、AAO和ACS,在揭示文章主题内容上，论文正文最详细，摘要次之,篇名最为简单直接;而揭示合作作者在论文中的贡献时，ACS最为详细，AAO次之，而作者机构（Affiliation）可揭示的内容不多，ACS虽然只是论文中很小的一部分，但却是作者在论文中实际工作的最直接体现,本研究正是针对于其在中所占篇幅最小,但揭示作者真正工作的作者贡献进行展开分析。如图1所示：
+
+![](images/74eff84db4b379bf1a9235e9a770878a5b1e87f3681f1d2e773d9e349fc2fa72.jpg)  
+图1体现AC的基础分析框架
+
+根据笔者对NatureIndex68种期刊的前期调研，结果显示综合类和医学类期刊要求ACS的比例较高。笔者从中选择2种综合类期刊，由于医学类期刊大多属于Nature集团，为了更好地对比不同出版社期刊的ACS要素，因此通过实施滚雪球法找到另外具有代表性和借鉴意义的8种医学类期刊，共10 种期刊作为本文的研究对象，分别为综合性期刊——Nature、Proceedings of the National Academy ofSciences（PNAS）；医学类期刊—Lancet、National
+
+Journal of Physiology、Pharmacy and Pharmacology（NJPPP）、Neurology、The Journal of the AmericanMedical Association（JAMA）、Journal ofClinicalOncology(JCO）International Journal of AntimicrobialAgents（IJAA）、Health services research（HSR）、TheJournal of Neuroscience(JN）。
+
+# 3.2国内外学术期刊对ACS的实施现状
+
+目前，作者贡献声明已经受到众多期刊的广泛关注,成为部分期刊提交论文时的必要条件之一，部分期刊已经明确提出作者贡献声明的政策，主要内容包括以下几个方面：
+
+(1)合著论文必须标明ACS的出版政策
+
+合著论文必须标明ACS，具体方式包括但不限于：1)作为论文一部分，与论文同时提交;2)作为论文一部分，与协议内容相同;3)单独的说明文档。如Nature明确提出，ACS必须作为论文的一部分[57]。NJPPP 规定AC 必须在文章的第一页/标题页[58]。JN 提出 ACS 应该作为作者信息的一部分[59],作为论文内容的一部分一起投稿。2013 年，Neurology[60]期刊明确强调论文的第二页中必须注明ACS,且这些信息必须和作者提交论文时所提供的协议内容相同。PNAS强烈建议所有作者要说明自己在文中的贡献[6]。IJAA 指出作者上传文章时,应同时上传相关 ACS 说明文档[62]。而其他期刊也规定了必须写出ACS，如Lancet、JCO、IJAA、HSR。
+
+# (2)作者提交ACS时间与方式
+
+ACS内容的提交时间与方式至少有三种：1)投稿时，填写ACS表格，由通讯作者确认并提交；2)投稿完成后，以邮件方式要求作者提交ACS表格;3)同行评审时，提交自由文本形式的ACS。如JCO 规定作者在投稿时,必须提交ACS 表格[63],并且每个作者都要填写表格并签署名字发送给通讯作者[64]JAMA 也提供了ACS 表格[65-66],但是与JCO 不同的是，JAMA是在论文投稿完成后通过邮件将链接发送给作者,要求作者填写[67]。Lancet的ACS 要素并非以选择的形式出现，而是以自由文本的形式填写，同时也规定当论文处于外部同行评审阶段时，必须提交带有签名的 ACS 副本[68-69]。此外，Neurology也要求作者必须填写ACS表格，但是如果论文在同行评议之后要求修改时，就必须提交作者协议[70]。IJAA[71]、 $\mathrm { H S R } ^ { [ 7 2 ] }$ 提供了 ACS 表格。而Nature、PNAS、NJPPP、JN则没有给出ACS表格，没有具体内容与格式的限制，ACS要素是非受限的。
+
+# (3)ACS在全文中的表现形式
+
+至少具有三种ACS的表现形式：1)作为单独一部分;2)以脚注形式出现;3)以附录形式出现。比如Nature、Lancet、Neurology、JAMA、JCO等在文章中以“AuthorContribution”作为单独一部分出现。但是笔者在调研过程中，也发现JCO期刊虽然规定了写出 AC,但很多文章中并没有出现。PNAS[73]和$\mathrm { J N } ^ { [ 7 4 ] }$ 则以脚注形式标示ACS。另外,HSR 期刊使用AC 矩阵来标示 $\mathrm { A C } ^ { [ 7 5 ] }$ ,具体内容以附录形式附在文章尾部[76]。此外,笔者也对 NJPPP 和 IJAA 期刊进行了文献调研，发现这两本期刊虽然规定了在文中出现ACS的描述，但是正文中却无法查到。
+
+(4)其他：作者姓名的简写或全称
+
+ACS中作者的名字一般包括两种形式：1)姓名简称;2)姓名全称。姓名简称分为姓氏全称，名字缩写和姓名首字母缩写,姓氏全称如JAMA[77],姓名首字母缩写如Nature、PNAS、Lancet、JN;而姓名全称如 JCO、HSR。从调研结果来看,Neurology[78-79]期刊比较特殊，除了有姓名全称的写作形式之外，还有姓名首字母的写作形式。ACS的政策表现形式可参见表1。
+
+表1国外10 种期刊ACS的政策内容  
+
+<html><body><table><tr><td>期刊名称强制性</td><td></td><td>是否要求 在文中出现</td><td>在文中 出现形式</td><td>ACS写作格式</td><td>ACS表格</td><td>要求提交的 时间</td></tr><tr><td>Nature</td><td>规定</td><td>是</td><td>单独一部分</td><td>首字母缩写</td><td>否</td><td>无明确规定</td></tr><tr><td>PNAS</td><td>强烈建议</td><td>是</td><td>脚注形式</td><td>首字母缩写</td><td>否</td><td>无明确规定</td></tr><tr><td>Lancet</td><td>规定</td><td>是</td><td>单独一部分</td><td>首字母缩写</td><td>是</td><td>外部同行评议环节必须提交副本</td></tr><tr><td>NJPPP</td><td>规定</td><td>文章第一页</td><td></td><td></td><td>否</td><td>无明确规定</td></tr><tr><td>Neurology</td><td>规定</td><td>文章第二页</td><td>单独一部分</td><td>作者姓名全称、首字母缩写是</td><td></td><td>论文接受同行评议后</td></tr><tr><td>JAMA</td><td>规定</td><td>无明确规定</td><td>单独一部分</td><td>作者姓氏全称</td><td>是</td><td>投稿完成后</td></tr><tr><td>J</td><td>规定</td><td>无明确规定</td><td>单独一部分</td><td>作者姓名全称</td><td>是</td><td>投稿的一个环节</td></tr><tr><td></td><td>规定</td><td>无明确规定</td><td>一</td><td>一</td><td>是</td><td>投稿的一个环节</td></tr><tr><td>HSR</td><td>规定</td><td>无明确规定</td><td>附录</td><td>作者姓名全称</td><td>是</td><td>无明确规定</td></tr><tr><td>JN</td><td>规定</td><td>是</td><td>脚注形式</td><td>首字母缩写</td><td>否</td><td>投稿的一个环节</td></tr></table></body></html>
+
+# 03.3现有ACS要素
+
+作为科学成果传播交流的媒介之一，部分期刊 出版社、学术机构等对 ACS 有明确规定。早在1985年，国际医学期刊编辑委员会[80]（InternationalCommittee ofMedical Journal Editors,简称 ICMJE)就颁布了论文中署名作者应该具备的3条标准82]，随后修改为4条标准，具体内容如下[83]：
+
+1)对论文（该项研究）的构思、设计及数据搜集、分析和解释有实质性贡献；  
+2)撰写论文/参与论文重要内容的修改；  
+3)最终版本的确定；  
+4)同意负责所有方面的工作，以确保相关问题的正确性和完整性都能够得到适当的调查和解决。
+
+并规定上述4条标准如果缺少一条，就不能被当作作者列入，但是这些学者应该列入“致谢”中，要求每一名作者都应该对自己所做的工作负责任。
+
+目前ICMJE的标准已经成为众多期刊规范科研环境的标准，这4条标准在医学学术界引起了很大反响，诸多国外学术出版社及医学期刊都以此为标准明确相关政策。比如Nature[84]、PNAS[85]Lancet[86]、NJPPp[87]、Neurology[88]、IJAA[89]
+
+JCO[90]、HSR[91] $\mathbf { J N } ^ { [ 9 2 ] }$ 、JAMA[93]等期刊也都给出了每个署名作者的具体ACS要素。以下就这10 种期刊的ACS政策要素内容进行梳理，并对其AC要素内容进行提炼。
+
+(1)政策上可区分ACS为必要条件和充分条件的内容
+
+在对ACS政策要素进行调研时，发现调查对象将ACS分成了必要条件（Must）和充分条件（Other）。其中NJPPP、Neurology、JCO、IJAA、HSR和JN六种期刊都列出了必要条件的内容包括构思与设计、数据搜集与整合、数据分析与解释、撰写论文。JAMA虽然没有明确说明哪些ACS属于必要条件，但是却给出了三类必要的贡献内容供科研人员选择，每一类别又包括不同的ACS要素。Nature、PNAS、Lancet三种期刊则没有明确说明，仅列举了部分ACS要素。
+
+# (2)ACS要素归纳
+
+通过调研，发现由于每本期刊所涉及的主题不同，因此ACS要素也各不相同，笔者根据网站上给出的ACS要素列表，对10种期刊进行了对比，结果如表2所示。
+
+表2国外学术期刊的ACS的政策要素  
+
+<html><body><table><tr><td></td><td>Nature</td><td>PNAS</td><td>Lancet</td><td>NJPPP</td><td>Neurology</td><td>JAMA</td><td>JCO</td><td>IJAA</td><td>HSR</td><td>JN</td></tr><tr><td>构思与设计</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>研究准备</td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>数据分析</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>数据解释</td><td></td><td></td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>论文撰写</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>论文修订</td><td>√</td><td></td><td></td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>数据搜集</td><td>√</td><td></td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td></tr><tr><td>数据整理</td><td></td><td></td><td></td><td></td><td>√</td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>提供试剂、案例等</td><td></td><td>√</td><td></td><td></td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td>√</td></tr><tr><td>提供分析工具、技术</td><td></td><td>√</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td>√</td><td>√</td></tr><tr><td>监督管理</td><td></td><td></td><td></td><td></td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>获取资助</td><td></td><td></td><td></td><td></td><td>√</td><td>√</td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>执行实验</td><td>√</td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>文献调研与整理</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>构建模型</td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绘制图表</td><td></td><td></td><td>√</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+(3)综合类期刊所给出的ACS要素数量少于类期刊
+
+0 调查结果显示，综合类期刊的ACS要素数量少于医学类期刊。Nature、PNAS 两种综合类期刊中的要素更多地侧重于完成论文所需要的必须贡献，在监督和资助、文献调研、数据整理等方面关注不多。相反,医学类期刊所给出的 ACS 比较详细,除了必要条件外,还给出了充分条件以供作者参考，如提供试剂、提供技术、寻求资助等。这也可能是由于综合类期刊中的主题范围比较广，医学类期刊主题范围相对较窄，所以根据期刊办刊宗旨，提供合适的ACS参考建议。
+
+#
+
+（4）可区分的AUS包括基本页献和辅助页献h 根据表2并结合Davenport[34]的分类方法，笔C者进一步细化ACS要素，区分为基本贡献和辅助贡献。因为10种期刊都规定ACS应当包括论文构思与设计、数据分析与解释、论文撰写，因此笔者将这三种类型称为基本贡献。而论文修订、数据搜集、提供案例、技术、分析工具、监督管理等类型也出现在大多数期刊中，我们将其称为中间层辅助贡献要素。仅有部分要素，如研究准备、数据整理、执行实验、文献调研、建模与绘制图表出现在一两种期刊中，称为最外层辅助贡献要素。
+
+# 3.4ACS的设计视角与层次
+
+通过以上对ACS 要素的归纳，又参考了张晓林[25,26]、 Jason[30]、Clement[31]、 Yank[32]Davenport[34]、Otto[36]、Tamara[37]等对 ACS 的要素内容分析，笔者将ACS政策要素分为构思与设计;研究方案设计；可行性分析；研究框架设计；资料调研与整理；研究命题提出；研究对象确定；数据搜集；数据整理;内容分析与解释;数据保存；进行实验;提供材料、样品、案例、工具等;提供模型、算法、代码等;成果展现；论文修订;绘制图谱；提供指导、监督建议;寻求资助；与编辑部沟通;签署版权协议21种。
+
+# (1)ACS的三个视角
+
+根据科学社会学对于科学家群体社会功能论的描述，科学家作为社会人群的一种特殊组成分子，主要的工作在于发现新的和未预料到的理论问题，提出有价值的问题，分析问题可能的结构机理，提出解决问题的最佳途径[94]。因此,笔者在系统性梳理相关案例的基础上，提出从三个视角来考虑21种ACS要素的分析框架如图2所示。
+
+# (2)ACS的三个层次
+
+在前述Davenport[34]三个层次的分类方法基础上，笔者从核心层、中间层、最外层三个层次对归纳的21种ACS要素与科研生命周期的各项科研活动进行对照，如图2所示。
+
+# 1)核心层ACS要素
+
+核心层ACS要素是一篇论文写作过程中所必须具备贡献，主要包括研究构思与设计、内容分析与解释、成果展现等三维度。其中研究构思与设计是实现一项科学研究的基础，内容分析与解释是形成科学成果的支撑，成果展现是表达科学研究发现与创造的途径。
+
+# 2）中间层ACS要素
+
+中间层ACS要素介于核心层与最外层之间，是最外层实现向最内层转换的纽带，其中提出问题部分包括研究方案设计、可行性分析和研究框架设计三个方面，这三个方面一般嵌入到科学研究的各个环节，为隐性要素，可以作为AC的辅助贡献要素；分析问题主要包括数据搜集、进行实验、调查以及数据整理，这对于解决具体问题具有非常重要的作用，可以称为基本贡献；解决问题主要包括论文修订、绘制图谱、提供指导与监督建议三个方面，这是确保科研成果有效呈现的内容，因此也可以称之为基本贡献。
+
+# 3)最外层ACS要素
+
+最外层ACS要素是为实现核心层贡献所提供的支助，包括资料调研与整理、研究命题提出、研究对象确定、数据保存、提供材料、样品、案例、工具等、提供模型、算法、代码等、寻求资助、与编辑部沟通、签署版权协议9项，这些贡献都是为实现成果表达(论文创作)的隐性支撑，为辅助贡献。
+
+# (3)反映科研生命周期的ACS框架
+
+0 按照“三视角”、“三层次"的思路，将21种ACS要素绘制成如图2所示的三维层次框架图。这个三维层次框架图囊括了目前从文献综述以及案例调研所讨论的全部内容,并且经过系统性梳理,可作为未来研究和实践应用的参考指标。
+
+Cr:riiaiia 签署版权 声明等 与整理 资 料让 调 研解决问题绘制图谱 设计 提出问题与编辑部 研究方案 提出论文修订 可行性成果 构思与武然 展现设计 与解释 研设架 研定象数据搜集 进行实验、 数据整理 顺数据保存 提供材料、样品、 调查 提供模码等案例、工具等分析问题
+
+# 4思考与建议
+
+# (1)科学意义
+
+根据科学社会学的观点：科学的意义是追求真理，而不是说明什么是真理。关于ACS的研究和未来AC程度计算方案的提出，是为了说明科学合作团体在发表论文这件事情上所折射的合作现象。如同H指数[95]的提出，是为了说明物理学家一生中在论文发表上的贡献的可能现象，而不是说明这种方法就是评估所有科学家（无论他在职业生涯的哪个阶段)的唯一而且最好的标准。勇于提出这个挑战，为之努力，并且时刻心存对真理的敬畏之心，正是表达对科学家们孜孜不倦的努力的一种尊重。在前人研究的基础上，本文透过案例分析，系统地梳理了“ACS的三维层次框架”，进行初步探索。
+
+# (2)实践意义
+
+本研究的实践意义主要有两方面：一是为期刊建设ACS标准化体系提供借鉴与参考。二是可以当作期刊评价的补充参考标准之一。如前所述，良好的ACS规范能够导引学术交流机制的健全发展，也有助于吸引优秀论文的投稿。
+
+# (3）本文的研究局限
+
+将本研究成果进行推广时需要注意到研究局限，本文的研究对象是部分的医学类和知名综合类期刊，不包括人文社会科学领域和其他领域，同时也指出综合类医学类期刊在作者贡献要素上的侧重有所不同，因此在实际应用推广时仍然建议参考不同的学术行业共通标准和规范，以及期刊发展战略需求，制定更加完善的执行方案。
+
+# (4)未来研究展望
+
+作为AAO补充机制的AAC的实质作用在于：如果按着AAO计算AC程度的方法，会假定贡献递减速率相等，假设两篇文章(A、B)都有5名作者，那么排名第一（A1、B1)和排名第二（A2、B2)的AC值不一定是相等的，如果只是按照AAO计算作者贡献度( $\mathrm { : C _ { A } }$ )的话,一定会得出 $\mathbf { C } _ { \mathrm { _ { A l } } } = \mathbf { C } _ { \mathrm { _ { B l } } }$ ， $\mathbf { C } _ { \mathrm { A } 2 } = \mathbf { C } _ { \mathrm { B } 2 }$ 。反之，若按照具体贡献来计算的话，则可以分别计算出 $\mathbf { C } _ { \mathrm { { A l } } } \setminus \mathbf { C } _ { \mathrm { { B l } } } \setminus \mathbf { C } _ { \mathrm { { A } } 2 } \setminus \mathbf { C } _ { \mathrm { { B } } 2 }$ 的值,以这个值作为了解科研人员实际成绩，有可能提高科研人员公开发布新发现、新知识、新成果的积极性和创造性。
+
+根据本文结果，下一步研究可在以下方面推进：（1)ACS的要素与计算方法;（2）ACS对科研人员的各种影响等；（3)探讨不同学科之间的ACS异同；(4)不同学科ACS的权重标准;(5)根据权重设置不同层次的ACS 要素。
+
+致谢：感谢孙坦教授对本项研究提出的批评建议和有益指导。
+
+# 参考文献
+
+[1］Allen L,Brand A，Scott J，et al．Publishing：Credit where credit is due[J]．Nature,2014,508(7496）:312-313.
+
+Jin B.H-index：An Evaluation Indicator Proposed by Scientist [J].Science Focus,2006,1(1):8-9.   
+Western Research Assessment Meets Asian Cultures[EB/OL]. [2015-01-20]．htp://www.nature.com/nature/journal/ v389/n6647/full/389113a0.html.   
+David S著,赵乐静译.西方学者眼里的亚洲基础科学[J].世 界科学,1998(1):42-45.   
+2013年海洋学院研究生国家奖学金评定方法［EB/OL]. [2015-04-11].http://sea.nbu.edu.cn/watch_news.asp? id $= 1 5 0 6$   
+关于评选 2014 年研究生国家奖学金的通知［EB/OL]. [2015-04-11].htp://www.tyut.edu.cn/wuli/xuegongban/ show. asp? id $= 3 9 0$ ：   
+中国农业科学院关于研究生攻读学位期间发表学术论文要 求的规定[EB/OL]．[2015-04-11]．http://icscaas.com.cn/ Html/2013_08_23/17968_18170_2013_08_23_77390.html. 南京农业大学关于学术型研究生攻读学位期间发表学术论 文要求的规定［EB/OL]．[2015-04-11]．http://webplus. njau. edu. $\mathrm { c n / s / 1 0 1 / t / 1 5 2 / a / 2 4 1 6 4 / i n f o . }$ jspy.   
+湖南师范大学关于研究生在攻读学位期间发表学术论文的 规定[EB/OL]．［2015-04-11]．http://yjsc.hunnu.edu.cn/ Article/wjhb/201102/20110222113349.html.   
+张春霆.如何评价一名科研人员的学术表现？一 -关于论文 引用次数泡沫问题及解决方案[J].科技导报,2009（10）：1. R.K.默顿.科学社会学［M].上海:商务印书馆,2003:610 -612.   
+Zuckerman HA. Patterns of Name-Ordering Among Authors of Scientific Papers:A Study of Social Symbolism and its Ambiguity[J]. American Journal of Sociology,1968,74（3）: 276 -291.   
+Davis PJ，Gregerma.RI.Parse Analysis-A New Method for Evaluation of Investigators Bibliographies[J].New England Journal ofMedicine,1969,281(18) :989.   
+Zuckerman H. Stratification in AmericanScience[J]. Sociological Inquiry,1970,40(2):235-257.   
+Allison PD，StewartJA.Productivity Differences Among Scientists：Evidencefor Accumulative Advantage[J]. American Sociological Review,1974,39(4）:596-606.   
+Haeussler C, Sauermann H. Credit Where Credit is Due? The Impact of Project Contributionsand Social Factorson Authorship and Inventorship[J]．Research Policy,2013,42 (3) :688 -703.   
+Lissoni F，Montobbio F.Guest Authors or Ghost Inventors? Inventorship and Authorship Attribution in Academic Science [J].Evaluation Review,2014:0193841X13517234.   
+作者署名要求和贡献声明[EB/OL]．［2015-04-02]．http:// www. infotech.ac.cn/UserFiles/File/smyq20131128.pdf. 结构式文摘写作要求［EB/OL]．［2015-04-02]．http:// www.infotech.ac.cn/UserFiles/File/jgswz20131205.pdf. 《图书情报工作》投稿指南［EB/OL].［2015-04-02]．http:// 124.16.154.130:8080/lis/CN/column/column81.shtml.   
+论文格式模板[EB/OL]．[2015-05-01]．htp://www.cjstp. cn/cjstp/ch/first menu. aspx？parent id $\mathbf { \Sigma } = \mathbf { \Sigma }$ 20140417023438001. MuuvI Contributions[J]. Nature,2012,489（7417）:475.   
+[23]Clement TP.Who Are Coauthors and What Should Be Their Responsibilities?［J].Environmental Science & Technology, 2015,49(6) :3265 -3266.   
+[24］Rennie D.Integrity in Scientific Publishing［J]．Health Services Research,2010,45(3):885-896.   
+[25］张晓林.提高学术期刊的合规标杆[J].中国科技期刊研究, 2015,26(1) :1 -2.   
+[26］张晓林,彭希珺.用高水平学术规范保障论文学术质量[J]. 现代图书情报技术，2014,1:1-3.   
+[27］李静然,魏丽惠.关于科技期刊设立《作者贡献声明》的思考 [J].编辑学报,2010,22(1）:42-44.   
+[28］钱寿初.作者署名和作者的贡献［J].中国科技期刊研究, 2002,13(1) :9 -11.   
+[29]朱大明.合著论文应标示署名作者贡献及责任[J].中国科技 期刊研究,2014,25(1):170 -172.   
+[30]Osborne JW，Holland A．What is Authorship，and What Should it be? A Survey of Prominent Guidelinesfor Determining Authorship in Scientific Publications[J]．Practical Assessment,Research &Evaluation,2009,14(15）:1-19.   
+[31］Clement TP.Authorship Matrix：A Rational Approach to QuantifyIndividual Contributions and Responsibilities in MultiAuthor Scientific Articles[J]．Science and Engineering Ethics, 2014,20(2) :345 -361.   
+[32]Yank V，RennieD．Disclosure of Researcher Contributions：A Study of Original Research Articles in The Lancet[J]．Annals of Internal Medicine,1999,130(8）:661-670.   
+[33]Hwang SS， Song HH，Baik JH，et al.Researcher Contributions and Fulfillment of ICMJE Authorship Criteria; Analysis of Author Contribution Lists in Research Articles with Multiple Authors Published in Radiology[J].Radiology,2003, 226(1):16 -23.   
+[34]Davenport E，Cronin B.Who Dunnit? Metatagsand Hyperauthorship[J]．Journal of the American Society for Information Science and Technology,2001,52(9):770-773.   
+[35]Flanagin A,Carey LA,Fontanarosa PB，et al．Prevalence of Articles with Honorary Authors and Ghost Authors in PeerReviewed Medical Journals［J].The Journal of theAmerican Medical Association,1998,280(3）:222 -224.   
+[36]Baerlocher MO,Newton M,Gautam T,et al.The Meaning of Author Order in Medical Research[J].Journal of Investigative Medicine,2007,55(4):174-180.   
+[37]Bates T,Anic A，MaruSic M,et al. Authorship Criteria and Disclosure of Contributions[J].The Journal of theAmerican Medical Association,2004,292(1) :86 -88.   
+[38］Lindsey D.Production and Citation Measures in the Sociology of Science：The Problem of Multiple Authorship[J].Social Studies of Science,1980,10(2):145 -162.   
+[39］Price DD．Multiple Authorship[J]．Science，1981，212 (4498) :986.   
+[40]Oppenheim C. Fractional Counting of MultiauthoredPublications[J].Journal of the American Society for Information Science,1998,49(5） :482. Rankings based on Publication and Citation Studies[J]. Scientometrics,2005,64(1) : 85-93.   
+Hodge SE，Greenberg DA,Challice CE．Publication Credit [J].Science,1981,213(4511） :950.   
+Hagen NT. Harmonic Allocation of Authorship Credit： SourceLevel Correction of Bibliometric biasAssuresAccurate Publication and Citation Analysis［J]．PLoS one，2008,3 (12): $\mathrm { e } 4 0 2 1$ ：   
+Hagen NT.HarmonicPublicationand Citation Counting: SharingAuthorshipCreditEquitably—NotEqually, Geometrically or Arithmetically[J]．Scientometrics，2010,84 (3) :785-793.   
+Hunt R.Trying an Authorship Index[J]． Nature,1991,352 (6332) :187.   
+Verhagen JV，Wallace KJ,Collins SC，et al．QUAD System offers Fair Shares to all Authors[J]．Nature,2003,426(6967）: （204号 Feeser VR， Simon JR.The Ethical Assignment of Authorship 602. in Scientific Publications：Issues and Guidelines[J].Academic Emergency Medicine,2008,15(10）:963-969.   
+Frazzetto G.Who did What？[J].EMBO Reports,2004,4 (4) :446 -448.   
+Kennedy MS，Barnsteiner J，Daly J.Honorary and Ghost Authorship in Nursing Publications[J].Nursing Scholarship, 2014,46(6) :416 -422.   
+Ghajarzadeh M.Guest Authorsin an Iranian Journal[J]. Developing World Bioethics,2014,14(1）:15-19.   
+樊玉敬.合著论文作者的名誉分配[J].情报杂志,1997,16 (1):37 -38,49.   
+朱丽娟,于建荣.基于作者贡献的合著网络加权模式研究 [J].图书馆杂志,2001,30(5）:16-20,92.   
+丁福虎.合著论文业绩计量的数量指标设置[J].中国科技期 刊研究,1999,10(3）:201-202.   
+张永平,姜萍,殷正坤.科研论文署名排序的合理性探析[J]. 中国科技期刊研究,2003,14(2)：170-172.   
+衡晓帆,闫佳丽,汪雪峰,等.基于署名顺序的作者活跃度比 较研究[J].情报杂志,2013,32(11):51-54.   
+GB7713-87科学技术报告、学位论文和学术论文的编写格式 [S].新闻出版署图书管理司,中国标准出版社编.北京：中国 标准出版社,1998;264 -271.   
+Nature Journals’Authorship Policy[EB/OL].[2015-05-03]. http://www.nature.com/authors/policies/authorship. html. Authorship Criteria[EB/OL]．[2015-05-05]．htp://www. njppp. com/？ sec $\mathbf { \Sigma } = \mathbf { \Sigma }$ gfa.   
+Requirements for Submission［EB/OL]．［2015-05-05]. http://www. jneurosci.org/site/misc/ifa_requirements.xhtml. Title Page[EB/OL].[2015-04-15].htp://www. neurology. org/site/misc/auth2.xhtml#AUTHORSHIP.   
+Journal Policies[EB/OL]．[2015-05-05].htp://www. pnas. org/site/authors/journal. xhtml.   
+Authorship[EB/OL]．[2015-05-05]．http://www. ijaaonline.com/content/authorinfo.   
+Journal of Clinical Oncology Author Contribution Form［EB/ OL].[2015-04-11]. http://jco.ascopubs.org/site/ifc/docs/ JCO_required_author_info.pdf.   
+[64]Author Contributions[EB/OL].[2015-05-05]．http://jco. ascopubs.org/site/ifc/authorship.xhtml.   
+[65］JAMA Authorship Responsibility，Acknowledgment，Funding and Conflicts of Interest，and Publishing Agreement for Corresponding Author[EB/OL].[2015-05-05]．http://jama. jamanetwork.com/DocumentLibrary/InstructionsForAuthors/ JAMA/auinst_crit. pdf.   
+[66]Author Contributions[EB/OL]．[2015-05-05]．http://jama. jamanetwork.com/article.aspx? articleid $= 2 2 9 0 6 0 8$   
+[67]Authorship Criteria and Contributions and Authorship Form [EB/OL].[2015-05-05]． http://jama. jamanetwork.com/ public/instructionsForAuthors.aspx.   
+[68] Author statements[EB/OL]．[2015-05-05]．http://www. thelancet. com/pb/assets/raw/Lancet/authors/tl-authorsignatures. pdf.   
+[69] Statements，Permissions，and Signatures[EB/OL].[2015-05- 05]．htp://www.thelancet.com/lancet/information-forauthors/statements-permissions-signatures # authors-andcontributors.   
+[70］Authorship Agreement［EB/OL]．[2015-05-01]．http:// www. neurology. org/site/misc/ AuthorshipFormDummyForRef.pdf.   
+[71] IJAA Author contribution[EB/OL].［2015-01-18]. http:// cdn.elsevier.com/promis_misc/IJAA-Author-contributionform. pdf.   
+[72]ContributorshipMatrix[EB/OL]．[2015-05-15].http://mc. manuscriptcentral.com/hsr.   
+[73]Journal Policies[EB/OL].[2015-05-05]. http://www. pnas. org/site/authors/journal.xhtml.   
+[74]Author Information[EB/OL].[2015-05-08].htp://www. jneurosci.org/site/misc/ifa_requirements. xhtml.   
+[75] ContributorshipMatrix[EB/OL]．[2015-05-11]．htp://www. hsr.org/hsr/infor-mation/authors/instrucauthors.jsp#ten.   
+[76] Appendix SA1：Author Matrix[EB/OL]．［2015-03-15]. http ://onlinelibrary. wiley. com/store/10.1111/1475- 6773.12209/asset/supinfo/hesrl2209-sup-0001-AuthorMatrix. pdf?v=1&s = d803bd08953fb0ae0c7bfe000e6071ca3db74c3c.   
+[77]Author Contributions[EB/OL].[2015-05-05].htp://jama. jamanetwork.com/article.aspx? articleid $= 2 2 7 9 7 1 8$ ：   
+[78]Author Contributions[EB/OL]．[2015-05-05].htp://www. neurology.org/content/84/18/1838.full.pdf $+  { \mathrm { \ h t m l } }$   
+[79] Author ContributionsEB/OL]．[2015-05-05]．htp://www. neurology. org/content/84/17/1782. full. pdf $+  { \mathrm { \ h t m l } }$ ：   
+[80] Defining the Role of Authors and Contributors［EB/OL]. [ 2015-01-18]. htp://www.icmje.org/recommendations/ browse/roles-and-responsibilities/defining-the-role-of-authorsand-contributors. html.   
+[81］International Committee of Medical Journal Editors.Guidelines on Authorship[J].British Medicine Journal,1985:291:722.   
+[82]Uniform Requirements for Manuscripts Submited to Biomedical Journals.International Committee of Medical Journal Editors [J]．The Journal of the American Medical Association,1993; 269:2282 -2286.   
+[83］Defining the Role of Authors and Contributors［EB/OL]. [2015-01-18]．http://www．icmje.org/recommendations/ browse/roles-and-responsibilities/defining-the-role-of-authorsand-contributors.html.   
+[84] Nature．Authorshippolicies[EB/OL].［2015-01-15]．http:// www.nature.com/nature/journal/v458/n7242/full/4581078a. html.   
+[85] Responsible Authorship of Papers in PNAS［EB/OL].［2015- 01-20]．http://www.pnas.org/content/101/29/10495.full? sid = e25204e8-dee3-445f-9bd7-f9f3cde0a33d.   
+[86] Author Statement Form［EB/OL]．［2015-04-18]．http:// www.thelancet.com/pb/assets/raw/Lancet/authors/tl-authorsignatures. pdf.   
+[87］Authorship Criteria[EB/OL].［2015-01-18]．http://www. njppp.com/？ sec $\ c =$ gfa.   
+[88] Authorship Definition[EB/OL].［2015-05-03]．http://www. neurology.org/site/misc/auth2.xhtml. Authorship［EB/OL]．［2015-05-05]．http://www. ijaaonline.com/content/authorinfo. Journal of Clinical Oncology Author Contribution Form［EB/ OL].[2015-04-11].http://jco.ascopubs.org/site/ifc/docs/ JCO_required_author_info.pdf.   
+[91]Instructions for Authors and Statement of Editorial Policy[EB/ OL]．［2015-04-11]．http://www.hsr.org/hsr/information/ authors/instrucauthors. jsp#ten.   
+[92] Requirements for Submission［EB/OL]．［2015-05-08]. http://www. jneurosci.org/site/misc/ifa_requirements.xhtml.   
+[93］JAMA Authorship Responsibility，Acknowledgment，Funding and Conflictsof Interest， and Publishing Agreement for Corresponding Author[EB/OL].[2015-01-18]．http://jama. jamanetwork.com/DocumentLibrary/InstructionsForAuthors/ JAMA/auinst_crit. pdf.   
+[94] R.K.默顿.科学社会学[M].上海:商务印书馆,2003:55-62.   
+[95] Hirsch JE.An index to Quantify an Individual’s Scientific Research Output[J].Proceedings of the National Academy of Sciencesof the United Statesof America,2005,102（46）: 16569 -16572.
+
+# 作者贡献声明：
+
+张闪闪：内容分析与解释，成果展现、论文撰写；  
+顾立平：构思与设计，论文修订。
+
+# An exploration study of policies of authors’ contribution statement
+
+ZHANG Shanshan， KU Liping
+
+National Science Library,CAS,33Beisihuanxilu，Beijing 1Oo19O，China
+
+Abstract:Purposes]This paperdecipherstheauthors’contribution statementpoliciesandregulationsof interational jourals to provideaframework forACSpolicydevelopmentandthecalculationof authorcontribution degree.[Methods]Takingthe two comprehensivejournalsandeight medical journalsasexamples throughliteraturereviewandcaseanalysis，thispaperidentifies the policiesandregulationsofthem，and then analyzes thespecificelementsoftheauthors’contribution.［Findings］Theresultsshow that:firstly，theACSpolicies include mandatoryrequirementandthereasonof ACS，thesubmission timeand manner，the presentation formatofACS inthefulltextandthewritingformat.Secondly,ACSincludes21elementsinthreeareas-theconcept anddesign，contetanalsisandinterpretation，esultexpreionandpaprritingFinalyfromthreeperspectivsattelevels, we built anACS frame diagram which wascompared with theresearchlife-cycle.[Conclusions]TheresultsofACSpolicyanalysis andinductiontheoryofthre-dimensionalhierarchicalframeworkcanbeareferenceforjournalsintheconstructionofACS standardization system.
+
+Keywords：Scientificcollaboration；Academic norm；Authorcontribution；Content analysis；Research life-cycle
+
+（本文责编：梁永霞）

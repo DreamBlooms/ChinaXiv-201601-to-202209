@@ -1,0 +1,246 @@
+# 干旱区农户灌溉方式选择的影响因素
+
+以河北省张北县为例①
+
+林惠凤1，刘某承²，杨伦²，闵庆文2.3（1．中国人民大学,北京100872；2．中国科学院地理科学与资源研究所,北京100101；3．中国科学院大学，北京100049)
+
+摘要：对于干旱缺水的华北地区,推动节水灌溉被认为是可以有效减少农业用水的措施,近年来我国政府也加大了对该地区农业节水技术的投资力度。但由于缺乏对采用农业节水技术影响因素的深入了解,在很大程度上阻碍了节水技术的大面积推广。本文基于河北省张北县的实际调研数据，从地块特征、农户自身特征以及社会环境因素三个方面,采用多项Logit 和决策树两种模型对比研究了干旱区农户选择灌溉方式的影响因素;同时构建了一般线性模型,分析了农户采用现代社区型节水技术程度的影响因素。结果表明：政府扶持是农户选择现代社区型节水技术的关键因素，其次是地块面积和家庭水浇地经营规模,但这三个因素对采用该技术程度的影响并不显著。此外,农户的年龄、受教育程度以及土壤类型对灌溉方式选择及其采用程度都具有重要影响,但农户所感知的水资源供求状况没有显著影响。
+
+关键词：节水灌溉；农户行为；多项Logit模型；决策树模型；张北县；河北
+
+华北地区是我国水资源严重短缺的地区，同时华北地区也是我国的粮食主产区，灌溉在保障农业生产方面的重要作用不可忽视。而农业灌溉作为该区域最大的用水户，传统的灌溉方式水资源利用率较低,浪费严重[1]。膜下滴灌等节水灌溉技术被认为可以减少单位土地面积的灌溉用水量[2-3]。对于干旱缺水的华北地区，推动节水灌溉成为政府工作的焦点[4]。在节水灌溉技术供给相对充足的条件下，研究农户灌溉方式选择的影响因素，分析农户技术需求不足的原因，对于加快华北地区农田灌溉技术变革具有重要的现实意义[5]
+
+从20世纪80年代起，国外越来越多的学者开始关注农户灌溉技术采用行为的相关问题[6。其中有很大一部分的研究从灌溉技术采纳和扩散的角度，对影响农户灌溉技术选择的因素进行了识别[7]。研究表明,农户是否采用改进的、高效率的灌溉技术以及采用程度的大小，受到各方面因素的综合影响,包括农户特征[8-9]、自然环境因素[10-11]经济和政策因素[12-14]以及技术自身因素[6-7]等。
+
+尽管国内科研人员对农业节水技术做了较多研究[15-17],但主要侧重于技术方面的研发[18-21],对于影响农户采用农业节水技术的影响因素研究很少[22]。另外,由于缺乏微观数据,甚至对农业节水技术的采用现状也没有较为清晰的认识[23]。即使有些学者探讨了节水技术采用的相关影响因素，但多以定性分析为主[24]，缺少对华北平原的实证研究[4,22-23]。由于缺乏对采用农业节水技术影响因素的深入了解，在很大程度上阻碍了华北地区节水技术的大面积推广。
+
+因此，本文基于河北省张北县的实际调研数据，采用了多项Logit和决策树两种模型对比研究了干旱区农户选择灌溉方式的影响因素；同时构建了一般线性模型分析影响农户采用现代社区型节水技术程度的因素。通过深入探讨影响采用农业节水技术的主要因素，以期为华北地区制定鼓励和引导采用节水技术的有效政策和措施提供依据。
+
+# 1研究区概况与数据来源
+
+# 1.1 研究区概况
+
+张北县属河北省张家口市，位于河北省的西北部、内蒙古高原南缘的坝上地区。人均水资源占有量为 $5 4 4 . 4 \mathrm { ~ m } ^ { 3 }$ ,根据国际标准属于严重资源性缺水地区。土地总面积 $4 \ 2 3 1 . 6 \ \mathrm { k m } ^ { 2 }$ ,2017 年耕地总面积为 $1 . 0 1 \times 1 0 ^ { 6 } ~ \mathrm { h m } ^ { 2 }$ ,有效灌溉面积 $2 5 ~ 3 8 7 ~ \mathrm { h m } ^ { 2 }$ ，占总耕地面积的 $2 5 . 1 \%$ 0
+
+20世纪90年代之前，田间灌溉以大水漫灌为主，也有部分畦灌、沟灌等方式。90年代后，地面软管灌溉开始出现，卷扬喷灌和可移动式的喷带喷灌也逐渐发展。2007年建成第一批膜下滴灌。2010年以后，随着国家水利部和河北省水利厅对张家口市坝上地区农田水利设施建设的重视，相关的项目支持逐渐增多，低压管灌和膜下滴灌这两种灌溉方式在张北县迅速发展（图1）。
+
+![](images/2439113b6f8ae96ea3687e12b752aaefedbbabd9c87980e290470833fde77aa3.jpg)  
+图12003年、2011年和2014年张北县几种主要田间灌溉方式的使用比例  
+Fig.1The proportion of several irrigation methods of Zhangbei County in 2003，2011 and 2014
+
+# 1.2 数据来源
+
+为定量分析张北县节水灌溉补贴对区域用水总量的影响，笔者于2016年7—8月在张北县与相关部门和村干部开展了座谈和调研，并对相关农户进行了入户问卷调查和访谈。
+
+样本选取采用分层抽样和随机抽样相结合的方式。根据张北县土地分区利用状况,在东南沿坝山地区和中部平原区各随机选择3个村，各村样本的发放数量以家庭户数所占比例为主要依据，结合调查中的实际情况作出适当调整。每个随机群样本数量控制在总样本的1/13以内。调查问卷共200份，整理后有效问卷189份，占问卷总数的 $94 \%$ 0
+
+农户问卷调研的主要内容包括农户个人和家庭的基本情况，农户的种植结构现状及5a前的种植结构，经营地块的详细投入、产出情况，以及农户灌
+
+溉用水行为的相关信息。
+
+# 2研究方法
+
+# 2.1 灌溉方式的分类
+
+本文所提到的节水灌溉技术特指工程节水措施。根据所需固定资本投资、可分性和使用年限，可将研究地区的节水灌溉技术分为3类。
+
+第一类,改进型地面灌溉节水技术，包括畦灌、沟灌和地膜覆盖。这类节水技术是研究地区比较传统的节水技术，所需的固定资本投资小，单个农户即可采用，具有完全的可分性。
+
+第二类,农户型节水技术，包括管灌、喷灌。这类技术需要一定的固定投资，一般情况下单个农户即可采用，但这类技术在具备管道压力输水的条件下才能采用。
+
+第三类，现代社区型节水技术，包括滴灌和膜下滴灌。这类技术所需的固定投资较高，如膜下滴灌田间灌溉设施的固定投资约为3000元· $\mathrm { h m } ^ { - 2 }$ ：a-'。受灌溉系统内水压大小的限制,这类技术要求一定规模的地块面积才能使用,也会受到输水方式的限制。
+
+# 2.2 模型选择
+
+2.2.1农户灌溉方式的选择模型农户经营某一地块，多种灌溉方式选择的概率可以用多元离散选择模型，如多项Probit、Logistic、Logit或决策树等模型进行估计。本文选择多项Logit和决策树模型来进行对比研究。
+
+多项Logit模型。对于具有特征 $x _ { k }$ 的地块，农户面临 $J$ 种灌溉方式选择的Logit模型形式为：
+
+$$
+\ln { \Big [ } \ \frac { P ( y = j / x ) } { P ( y = J / x ) } { \Big ] } = \alpha _ { j } + \sum _ { k = 1 } ^ { K } \beta _ { j k } x _ { k } ,
+$$
+
+$$
+j = 1 , 2 , 3 , \cdots , J
+$$
+
+式中： $P$ 为农户选择第 $J$ 种灌溉方式的概率； $k$ 为地块 $\cdot j$ 为灌溉方式； $\beta$ 为系数； $\alpha$ 为随机误差项
+
+将第 $J$ 个类别作为参照类，则 $J - 1$ 个Logit可表述如下：
+
+$$
+\begin{array} { l } { \displaystyle \ln \Bigm [ \begin{array} { l } { P \big ( y = 1 / x \big ) } \\ { P \big ( y = J / x \big ) } \end{array} \Bigm ] = \alpha _ { 1 } + \sum _ { k = 1 } ^ { K } \beta _ { 1 k } x _ { k } } \\ { \displaystyle \ln \Bigm [ \begin{array} { l } { P \big ( y = 2 / x \big ) } \\ { P \big ( y = J / x \big ) } \end{array} \Bigm ] = \alpha _ { 2 } + \sum _ { k = 1 } ^ { K } \beta _ { 2 k } x _ { k } } \end{array}
+$$
+
+农户对于第 $j$ 种灌溉方式选择的概率为：
+
+$$
+P ( \boldsymbol { y } = \boldsymbol { j } / x ) = \frac { e ^ { a _ { j } + \displaystyle \sum _ { k = 1 } ^ { K } \beta _ { j k } x _ { k } } } { 1 + \displaystyle \sum _ { j = 1 } ^ { j - 1 } e ^ { a _ { j } + \displaystyle \sum _ { k = 1 } ^ { K } \beta _ { j k } x _ { k } } } = \alpha _ { 2 } + \sum _ { k = 1 } ^ { K } \beta _ { 2 k } x _ { k }
+$$
+
+通过最大似然估计法，可以得到 $J - 1$ 套估计系数。通过地块特征 $\boldsymbol { x } _ { k }$ 对应的系数即可衡量在控制其他特征的条件下，该特征的变化对某一类别灌溉方式相对于参照类的对数发生比的影响。
+
+决策树模型。根据数据的属性采用树状结构建立决策树模型，通过把实例从根节点排列到某个叶子节点来实现对实例的分类，叶子节点即为实例所属的分类。树上的每一个节点指定了对实例的某个属性的测试，而属性选择的目标是使分类后的数据集比较纯。本文将所有地块作为分析实例，通过最终建立的决策树模型，获取地块尺度不同灌溉方式选择的最佳分类属性。
+
+2.2.2现代社区型节水技术的选择模型采用一般线性模型，对所有农户中选择采用了现代社区型节水技术的部分，分析影响其该种技术采用程度的因素。以农户采用现代社区型灌溉技术进行灌溉的土地面积占农户经营的总水浇地面积的比例来衡量农户采用该种技术的程度，将之作为因变量，影响农户该种技术采用程度的模型如下：
+
+$$
+R = \varphi _ { 0 } + \sum _ { i = 1 } ^ { m } \varphi _ { i } y _ { i }
+$$
+
+式中： $R$ 为农户采用现代社区型灌溉技术的程度; $y _ { i }$ 为第 $i$ 个影响因素; $\varphi _ { i }$ 表示第 $i$ 个影响因素的回归系数； $\varphi _ { 0 }$ 为方程的常数项。
+
+# 2.3变量选择与赋值
+
+对于某一地块，农户选择灌溉技术受地块特征、农户自身特征以及社会环境因素等方面的影响(表1）。
+
+2.3.1反映农户特征的变量包括家庭主要劳动力的年龄、受教育程度，农户面临的土地资源和水资源约束。其中，本文选择农户认为近5a来灌溉用水是否能用来衡量水资源约束，
+
+2.3.2反映地块特征的变量选择土壤类型来反映自然条件，面积( $\mathrm { { h m } } ^ { 2 }$ )来反映细碎化程度，作物种植的单位收入来反映经济特征。需要注意的是，有的农户会在一个连续地块上混种两种或多种需水规律相似的作物，并对其统一进行用水管理，则将这样的地块视为一个地块。
+
+2.3.3反映社会环境因素的变量选择农户近5a是否受到过政府对现代社区型技术的支持，以及地块具备的输水方式来反映社会环境因素。
+
+在上述各变量中，地块面积、地块单位产值、农户的年龄和农户水浇地经营总规模为定量变量，其余均为分类变量(表1）。地块面积有 $8 7 . 6 \%$ 是在$0 . 0 2 \sim 1 . 3 3 { \mathrm { h m } } ^ { 2 }$ ;单位产值 $4 . 5 \times 1 0 ^ { 3 } \sim 3 . 0 \times$ $1 0 ^ { 4 }$ 元· $\mathrm { h m } ^ { - 2 }$ 的地块占 $2 6 . 0 \%$ $3 . 0 \times 1 0 ^ { 4 } \sim 6 . 0 \times 1 0 ^ { 4 }$ 元· $\mathrm { h m } ^ { - 2 }$ 的占 $3 2 . 6 \%$ ， $6 . 0 \times 1 0 ^ { 4 } \sim 9 . 0 \times 1 0 ^ { 4 }$ 元·$\mathrm { h m } ^ { - 2 }$ 的占 $2 4 . 8 \%$ $^ { \circ } , 9 . 0 \times 1 0 ^ { 4 } \sim 1 8 . 5 \times 1 0 ^ { 4 }$ 元· $\mathrm { h m } ^ { - 2 }$ 的占 $1 6 . 6 \%$ ;农户年龄有 $82 \%$ 是在40\~65岁，家庭水浇地经营规模有 $6 9 . 3 \%$ 是在 $0 . 3 3 \sim 3 . 3 3 ~ \mathrm { h m } ^ { 2 }$ 。
+
+# 3研究结果与分析
+
+# 3.1农户灌溉方式选择的影响因素
+
+（1）多项Logit模型估计结果
+
+影响农户灌溉方式选择的多项Logit模型输出结果如表2所示。在该模型中，将传统地面灌溉节水技术作为参照类别，结果表明：
+
+家庭主要劳动力的年龄对农户现代社区型灌溉技术的选择具有显著的负向作用，即年龄较大的人更倾向于作保守的农业决策，对具风险的新技术的采用积极性不高。
+
+表1变量的定义及描述性统计  
+Tab.1Variable definition and descriptive statistics   
+
+<html><body><table><tr><td>变量</td><td>定义或单位</td><td>N</td><td>均值</td><td>标准差</td><td>最小值</td><td>最大值</td></tr><tr><td>年龄</td><td>真实年龄</td><td>53</td><td>51.7</td><td>9.2</td><td>35</td><td>75</td></tr><tr><td>受教育程度</td><td>高中以下=1,高中及以上=0</td><td>53</td><td>0.86</td><td>1.35</td><td>0</td><td>1</td></tr><tr><td>家庭水浇地经营规模</td><td>真实面积</td><td>53</td><td>3.76</td><td>0.2</td><td>0.13</td><td>74.67</td></tr><tr><td>水资源的供求状况</td><td>够用=1,不够用=0</td><td>53</td><td>0.64</td><td>2.45</td><td>0</td><td>1</td></tr><tr><td>土壤类型</td><td>壤土=1,沙土=0</td><td>169</td><td></td><td></td><td>0</td><td>1</td></tr><tr><td>地块面积</td><td>真实面积</td><td>169</td><td>0.78</td><td>0.6</td><td>0.02</td><td>6.67</td></tr><tr><td>单位面积收入</td><td>真实收入</td><td>169</td><td>5.98 ×104</td><td>220.5</td><td>4500</td><td>18.53 ×104</td></tr><tr><td>政府扶持</td><td>未得到=1,得到=0</td><td>169</td><td>0.35</td><td>2.21</td><td>0</td><td>1</td></tr><tr><td>输水方式</td><td>土渠=1,管道=0</td><td>169</td><td>0.21</td><td>5.43</td><td>0</td><td>1</td></tr></table></body></html>
+
+表2农户灌溉方式影响因素的多项Logit模型输出结果  
+Tab.2Multiple-Logit model outputs on influencing factors of farmers’choice among irrigation methods   
+
+<html><body><table><tr><td rowspan="2">自变量</td><td colspan="2">农户型节水技术</td><td colspan="2">现代社区型节水技术</td><td colspan="2">不灌溉</td></tr><tr><td>系数</td><td>P值</td><td>系数</td><td>P值</td><td>系数</td><td>P值</td></tr><tr><td>截距</td><td>3.835</td><td>0.277</td><td>12.264</td><td>0.001</td><td>3.458</td><td>0.372</td></tr><tr><td>年龄</td><td>-0.062</td><td>0.258</td><td>-0.217 ***</td><td><0.001</td><td>0.03</td><td>0.607</td></tr><tr><td>受教育程度</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小学及以下虚变量</td><td>-2.203 *</td><td>0.078</td><td>-1.161</td><td>0.26</td><td>0.69</td><td>0.731</td></tr><tr><td>初中虚变量</td><td>-2.202 *</td><td>0.081</td><td>-2.481**</td><td>0.037</td><td>-0.459</td><td>0.823</td></tr><tr><td>家庭水浇地经营规模 水资源的供求状况</td><td>0.072 **</td><td>0.027</td><td>0.061*</td><td>0.064</td><td>-0.067</td><td>0.355</td></tr><tr><td>水资源够用虚变量</td><td>-0.269</td><td>0.785</td><td>-0.901</td><td>0.237</td><td>0.005</td><td>0.997</td></tr><tr><td>土壤类型 壤土虚变量</td><td>-0.127</td><td>0.892</td><td>-2.356 **</td><td>0.022</td><td>-0.572</td><td></td></tr><tr><td>地块面积</td><td>0.092</td><td>0.367</td><td>0.277 **</td><td>0.009</td><td>0.161</td><td>0.695 0.233</td></tr><tr><td>单位面积收入</td><td>0.001*</td><td>0.067</td><td>0.001</td><td>0.857</td><td>-0.003 **</td><td>0.004</td></tr><tr><td>政府扶持</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未受到过支持虚变量 输水方式</td><td>1.01</td><td>0.233</td><td>-2.963 **</td><td>0.004</td><td>20.593 ***</td><td><0.001</td></tr><tr><td>土渠或渠道防渗虚变量</td><td>- 25.349</td><td>0.997</td><td>-23.317</td><td>0.994</td><td>18.806</td><td></td></tr><tr><td>x</td><td></td><td></td><td>229.684</td><td></td><td></td><td>0.875</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>-2 对数似然值</td><td></td><td></td><td>146.798</td><td></td><td></td><td></td></tr><tr><td>自由度</td><td></td><td></td><td>30</td><td></td><td></td><td></td></tr><tr><td>显著性水平</td><td></td><td></td><td>0.000</td><td></td><td></td><td></td></tr></table></body></html>
+
+注：\*、\*\*、\*\* $\ast$ 表示估计的变量系数不为零的显著性水平分别为 $10 \%$ （20 $5 \%$ 和 $1 \%$ 0
+
+家庭主要劳动力的受教育程度对农户型节水技术和现代社区型节水技术的选择均具有显著影响。即教育能够增加农户对于新技术相关信息的获取、理解和接受能力，从而增加其选择新的灌溉技术的概率。
+
+家庭水浇地经营规模越大的农户，越倾向于选择农户型或现代社区型节水技术。
+
+对于种植收益越高的地块，农户更倾向于选择对其灌溉，并采用农户型节水技术，但是地块的经济收益对现代社区型节水技术的采用并未表现出显著的正向作用。
+
+地块面积对现代社区型节水技术的采用具有极显著的正向作用。地块面积对农户在传统地面灌溉和农户型节水技术两者间的选择没有显著的影响。
+
+当地块的土壤类型为沙土时，相对于壤土的地块，农户选择现代社区型节水技术的概率越高。
+
+近5a是否得到政府扶持对农户选择社区型节水技术具有极显著的正向作用。同时，受到过政府扶持的农户不可能对土地不进行灌溉。
+
+水资源的供求状况和地块具备的输水方式在该分析结果中未表现出显著的影响，
+
+（2）决策树模型估计结果
+
+影响农户灌溉方式选择的决策树模型结果如图2所示。树形图显示，该决策树的第一个分枝变量为政府扶持，由此可知，近5a是否得到政府扶持是影响农户灌溉技术选择的首要因素。当未受到政府扶持时， $10 \%$ 的地块选择不灌溉， $6 1 . 7 \%$ 和 $20 \%$ 的地块继续使用传统地面灌溉和农户型节水技术，仅有 $8 . 3 \%$ 的地块选择更换成现代社区型节水技术。
+
+当受到政府扶持尝试采用现代社区型节水技术后，地块灌溉技术的选择主要与地块面积有关。面积大于 $0 . 4 7 ~ \mathrm { h m } ^ { 2 }$ 的地块，选择使用现代社区型节水技术的比例高达 $9 4 . 3 \%$ ,没有地块使用传统地面灌溉技术，仅有 $3 . 8 \%$ 的地块没有延续曾经尝试过的现代社区型节水技术，转向农户型节水技术，不进行灌溉的地块比例仅为 $1 . 9 \%$ 。
+
+对于面积小于或等于 $0 . 4 7 ~ \mathrm { h m } ^ { 2 }$ 的地块， $4 8 . 2 \%$ 的地块继续选择使用现代社区型节水技术， $3 2 . 1 \%$ 仍采用传统地面灌溉技术， $8 . 9 \%$ 仍采用农户型节水技术， $1 0 . 7 \%$ 的地块选择不灌溉。
+
+![](images/9721ec463d2c262204b8310dbfc8279b0c782473cc8e85f0e83d7d5df57743f0.jpg)  
+图2农户灌溉方式影响因素的决策树模型输出结果  
+Fig.2Decision tree model outputs on influencing factors of farmers’choice among irrigation methods
+
+（3）农户灌溉方式选择的影响因素
+
+多项Logit模型和决策树模型的估计结果表现出了高度的一致性，两者均表明，政府扶持是农户选择现代社区型节水技术的关键因素。农户对新灌溉技术的采用与农户对待风险的主观态度有极大的关系，而农户面临的经济约束、对该项技术信息掌握的程度、对信息内容理解的程度又是影响农户对待风险的主观态度的关键[7]。政府扶持消除或减轻了农户在灌溉技术转化中面临的资金投入的压力和风险，使其能获得体验新灌溉技术的机会，直观地判断技术的有效性。约 $70 \%$ 的地块在政府补贴结束后仍继续采用社区型节水灌溉技术，可以看出政府扶持对采用该技术的良好诱导效应。同时，采用该技术的农户也会对同村的其他农户产生示范效应，$8 . 3 \%$ 的地块在未受到政府扶持的情况下，也将灌溉方式更换为社区型节水技术。
+
+地块面积和家庭水浇地经营规模是农户灌溉方式选择的重要影响因素。社区型灌溉技术的采用对浇灌的地块面积有一个下限值的要求。当耕地的细碎化程度越高，需达成一致决策的农户数量越多，协商的成本也越高，大大降低了农户采用该项灌溉方式的可能性。当地块面积大于 $0 . 4 7 ~ \mathrm { h m } ^ { 2 }$ 时，研究区的大部分村庄基本能达到下限值的要求，没有农户选择采用传统地面灌溉技术。调研中发现，两个或多个农户在浇水和追肥上的决策是否能达成一致受多方面社会环境因素的影响，如是否有较高威信的人号召和组织等等。当农户经历了私下协商、合作、协商低效、合作结果不理想的过程之后，可能会放弃对该项技术的继续尝试，重新采用之前的不受其他农户决策影响的传统地面灌溉技术或农户型灌溉技术。
+
+此外，农户的年龄和受教育程度对灌溉方式选择也具有重要影响，这与前人对采用农业新技术影响因素的研究结果基本一致。当土壤类型为沙土时，农户更倾向于采用能让灌溉水缓慢渗透进入土壤的滴灌方式。水资源的供求状况对农户灌溉方式的选择没有显著影响，这与其他研究结果基本一致[25 -26],用水成本的上升只是影响农户灌溉方式选择的一个因素，而往往只是一个微不足道的因素。
+
+# 3.2农户现代社区型灌溉技术采用程度的影响因素
+
+对采用了现代社区型灌溉技术的农户进行该技术采用程度影响因素分析的结果如表3所示。
+
+# 表3农户现代社区型灌溉技术采用程度的影响因素
+
+Tab.3Influencing factors on farmers'adoption of modern community irrigation technology   
+
+<html><body><table><tr><td>自变量</td><td>系数</td><td>P值</td><td>T值</td></tr><tr><td>截距</td><td>1.613 ***</td><td><0.001</td><td>4.297</td></tr><tr><td>年龄</td><td>-0.014 *</td><td>0.061</td><td>-1.989</td></tr><tr><td>受教育程度</td><td></td><td></td><td></td></tr><tr><td>小学及以下虚变量</td><td>-0.223 *</td><td>0.062</td><td>-1.98</td></tr><tr><td>初中虚变量</td><td>-0.217 *</td><td>0.072</td><td>-1.901</td></tr><tr><td>家庭水浇地经营规模</td><td>0.001</td><td>0.144</td><td>1.519</td></tr><tr><td>家庭收入</td><td>0.126 *</td><td>0.085</td><td>1.957</td></tr><tr><td>水资源的供求状况</td><td></td><td></td><td></td></tr><tr><td>水资源够用虚变量</td><td>-0.004</td><td>0.973</td><td>-0.034</td></tr><tr><td>土壤类型</td><td></td><td></td><td></td></tr><tr><td>壤土虚变量</td><td>-0.278 **</td><td>0.032</td><td>-2.304</td></tr><tr><td>政府扶持</td><td></td><td></td><td></td></tr><tr><td>未受到过政府扶持虚变量</td><td>-0.218</td><td>0.305</td><td>-1.052</td></tr><tr><td>调整的R</td><td></td><td>0.356</td><td></td></tr></table></body></html>
+
+注： $* \ 、 * * * * * *$ 表示估计的变量系数不为零的显著性水平分别 为 $10 \%$ （204 $5 \%$ 和 $1 \%$ □
+
+3.2.1土壤类型一方面，壤质土壤保水能力较强、土壤肥力相对较高，且研究区域内土壤为壤质土的区域恰好是降雨条件相对较好的区域，作物生长对灌溉的依赖性程度相对较低。因此，社区型灌溉方式在降低灌溉用水量、提高作物水分吸收利用效率方面的优越性降低，农户使用社区型灌溉方式的必要性和动机减弱。另一方面，在壤质土的区域，在当地的自然条件下，采用旱作的方式种植莜麦、豆类等作物投入很低，收入却较稳定。当农户面临着多种可供选择的土地利用方式时，农户使用社区型灌溉方式的几率就大大降低了。
+
+3.2.2家庭收入家庭收入较高、资金较充裕的农户，更愿意接受风险，倾向于将较大比例甚至全部的土地用于种植投入较高、需水较多、使用社区型节水灌溉技术优越性明显的蔬菜等经济作物；家庭收入相对较低，资金周转受限的农户，更倾向于种植收益稳定、无需灌溉的旱地作物，或是利用传统的地面灌溉或农户型节水技术来种植经济作物，以尽可能减少种植业的投入。
+
+3.2.3家庭主要劳动力年龄和受教育程度年龄较大的农户，学习新技术的积极性相对较低，更倾向于作保守的农业决策，尽可能地避免采用未尝试过的新技术，以降低经营的总风险。正式的教育能够增加农户对于新技术相关信息的获取、理解和接受能力，倾向于在尽可能多的土地上利用此种新技术。3.2.4政府扶持虽然政府扶持对选择使用社区型灌溉技术具有显著的驱动作用和良好的引导效应，但受到过政府扶持的农户，政府扶持停止后，该项技术采用的比例并未显著提高。将采用了社区型灌溉技术的农户按照比例降序排列,均分成高、中、低比例3组，对高比例组和低比例组农户的家庭收入进行T检验可知，采用比例高的农户的家庭收入要显著高于采用比例低的农户（ $P = 0 . \ 0 3 8$ ， $F =$ 57.589）。由此可知，即使农户掌握了该项灌溉新技术相关信息，具有继续使用该项技术的意愿,经济制约可能是限制农户采用该项技术的重要因素，对农户继续提供一定的资金扶持将有可能提高农户对该项技术的采用比例。
+
+3.2.5其他因素当农户经营的水浇地规模越大，农户对该项技术的采用亦会受到家庭收入、农户年龄和受教育程度的限制。由上述分析可知，农户对水资源紧缺状况的感知并不是影响其灌溉方式选择的决定性因素，因而对社区型灌溉方式选择的比例影响不显著。
+
+# 4小结与讨论
+
+# 4.1 小结
+
+本文基于河北省张北县的实际调研数据，从地块特征、农户自身特征以及社会环境因素3个方面，采用多项Logit和决策树两种模型对比研究了干旱区农户选择灌溉方式的影响因素;同时构建了一般线性模型，分析了影响农户采用现代社区型节水技术程度的因素。结果表明：干旱区农户选择灌溉方式的影响因素而言，多项Logit模型和决策树模型估计的结果表现出了高度的一致性，两者均表明，政府扶持是农户选择现代社区型节水技术的关键因素，其次是地块面积和家庭水浇地经营规模。此外，农户的年龄、受教育程度以及土壤类型对灌溉方式的选择也具有重要影响，但农户所感知的水资源供求状况没有显著影响。
+
+就干旱区农户采用现代社区型节水技术程度的影响因素而言，当土壤类型为壤土时，现代社区型灌溉技术采用的比例要显著低于沙土的情况；农户的年龄越大、受教育程度越低，该类型技术采用的比例越低；农户的家庭总收入越高，该类型技术采用的比例也越高。农户家庭水浇地经营规模、是否受到过政府扶持以及农户所感知的水资源供求状况对该类型技术采用的比例影响均不显著。
+
+# 4.2讨论
+
+从20世纪80年代起，国内外学者开始关注农户采用灌溉技术行为相关的问题。研究表明，农户是否采用改进的、高效率的灌溉技术以及采用程度的高低，受到多方面因素的综合影响，包括农户特征[27-28]、自然环境因素[11,29]、技术自身因素[22-23]以及经济和政策因素[30-31]等。
+
+关于水价政策对灌溉技术选择的影响，不同研究有着不同的看法。一些研究从利益最大化的角度出发，认为水价的高低是能否对节水形成激励的重要因素，水价越高，节水激励越强，反之则越弱[29-31]。但也有不同意见,比如西班牙的研究显示，农户对改进灌溉技术的采用并不显著地依赖于灌溉水的价格，而主要取决于当地的结构条件以及土壤和气候等农业生产的限制因素[12]。来自美国加州的研究也证实了该结论，他们认为，在一些地方，对灌溉技术的选择可能会受到价格的驱动，但是在绝大多数情况下，主要还是取决于耕地的质量以及作物的类型[13]。我国的学者也认为，水价政策对不同作物灌溉技术的选择有不同的影响，水价对粮食作物灌溉技术选择的影响不明显，但由于经济作物的用水量大于粮食作物，经济作物灌溉技术选择对水价变动的敏感程度要比粮食作物大的多，与管灌技术相比，提高水价会导致农户采用更为节水的喷灌、微灌技术[5]
+
+为解决当前农业灌溉用水中存在的问题，提高灌溉用水效率，建议： $\textcircled{1}$ 加大对节水灌溉技术的资金支持。目前我国的节水技术主要是以渠道防渗和低压管道为主，而喷灌、膜下滴灌等节水技术还比较滞后，需要政府的资金扶持才能推动节水技术的广泛采用。 $\textcircled{2}$ 倡导农业规模化生产。农业的适度规模化有利于农业资源的整合和效率的提高，灌溉用水作为不可或缺的投入要素，其效率必将得到有效提高。此外，规模化生产更便于对农户进行集中培训，提高农户的专业化水平。 $\textcircled{3}$ 提高农户节水意识。农户节水意识的提高有助于农户合理规划灌溉用水行为，根据农作物的生长周期和自然环境有效安排农业灌溉，这将对灌溉用水效率的提高起到很大的促进作用。
+
+# 参考文献（References）:
+
+[1］钱正英.水资源配置、生态环境建设和可持续发展战略研究： 综合卷［M].北京：科学出版社,2004.[Qian Zhengying.Research on Water Resources Allocation,Ecological Environment Construction and Sustainable Development Strategy :Comprehensive Volume[M].Beijing:Science Press,2004.]   
+[2]Dagnino M,Ward F A.Economics of agricultural water conservation:empirical analysis and policy implications[J]. International Journal of Water Resources Development,2012,28(4）:1-24.   
+[3]Berbel J,Gutiérrez-Martin C,Rodriguez-Diaz JA,et al. Literature review on rebound effect of water saving measures and analysis of a Spanish case study[J].Water Resources Management,2015,29 (3):663-678.   
+[4]杨金麒.膜下滴灌技术在粮食安全中的应用和前景[C]//中国 农业节水与国家粮食安全论文集.北京：中国水利水电出版 社,2009.[Yang Jinqi.Application and Prospect of Drip Irigation Technology in Food Security［C]//China’s Agricultural Water Saving and National Food Security Symposium.Beijing:China Water & Power Press,2009.]   
+[5］韩青,谭向勇.农户灌溉技术选择的影响因素分析[J].中国农 村经济,2004（1）:63-69.[Han Qing,Tan Xiangyong.Analysis of influencing factors of farmers’irigation technology selection [J].Chinese Rural Economy,2004（1）:63 -69.]   
+[6]Caswell MF,Zilberman D.The effects of well depth and land quality on the choice of irrigation technology[J].American Journal of Agricultural Economics,1986,68(4） :798-811.   
+[7]Negatu W,Parikh A.The impact of perception and other factors on the adoption of agricultural technology in the Moret and Jiru Woreda（district）of Ethiopia[J].Agricultural Economics,1999,21 (99):205 -216.   
+[8] Donald H Negri,Douglas H Brooks.Determinants of irrigation technology choice[J]. Western Journal of AgriculturalEconomics, 1990,15(2) :213 -223.   
+[9]Green G D,Sunding D Zilberman,Parker D.Explaining irrigation technology choices：A microparameter approach[J].American Journal of Agricultural Economics,1996,78(4）:1064-1072.   
+[10]Green G P,Sunding D L.Land allocation,soil quality,and the demand for irigation technology[J]. Journal of Agricultural and Resource Economics,1997,22(2）:367 -375.   
+[11]Schuck E C,Marshall Frasier W,Webb R S,et al. Adoption of more technically efficient irrigation systems as a drought response [J].International Journal of Water Resources Development,2005, 21(4) :651 -662.   
+[12]Varela-Ortega C,Sumpsi JM,Garrido A,et al. Water pricing policies,public decision making and farmers’response:implications for water policy[J].Agricultural Economics,1998,19（1）:193- 202.   
+[13]Scheierling SM,YoungRA,CardonGE.Public subsidies for water-conserving irrigation investments: hydrologic,agronomic,andeconomic assessment[J]. Water Resources Research,2006,42(3）: 446 -455.   
+[14]De Fraiture C,Perry C.Why is agricultural water demand unresponsive at low price ranges[J]. Irrigation water pricing: The gap between theory and practice,2007:94 -107.   
+[15］蒋树芳,万书勤,康跃虎.滴灌不同土壤基质势对白菜产量与 水分利用的影响[J].节水灌溉,2009（10）：1-5.［Jiang Shufang,Wan Shuqin,Kang Yuehu.Effects of different soil moisture potentialson yield and water useeficiencyofcabbage bydrip irigation[J].Water Saving Irrigation,2009（1O）:1-5.]   
+[16］林叶春,胡跃高,曾昭海.不同节水措施对马铃薯生长及水分 利用的影响[J].干旱地区农业研究,2010,28（1)：54－60. [Lin Yechun,Hu Yaogao,Zeng Zhaohai.Effect of different watersaving practices on growth and water use of potato[J]. Agricultural Research in the Arid Areas,2010,28(1):54 -60.]   
+[17］张林,范兴科,吴普特,等.小流量微压滴灌条件下作物生长试 验研究[J].灌溉排水学报,2010,29（2）:65-68.[Zhang Lin, Fan Xingke,Wu Pute,et al.Experimental research on crop growth under low flow and micro-pressure drip irrigation[J]. Journal of Irrigation and Drainage,2010,29(2）:65 -68.]   
+[18］李彬,史海滨,妥德宝,等.节水改造前后土壤盐分剖面特征及 其空间分布——以内蒙古河套灌区中游临河区为例[J].干旱 区研究,2015,32（4）:663-673.[Li Bin,Shi Haibin,Tuo Debao,et al.Soil salinity profile characteristicsand itsspatial distribution before and after water saving:Taking the middle reach in Hetao irrigation district of Inner Mongolia as an example[J].Arid Zone Research,2015,32(4） :663-673.]   
+[19］王娟,江天才,万素梅.水分胁迫下间作棉田土壤水分及产量 分析[J].干旱区研究,2016,33（1）:89-93.[Wang Juan,Jiang Tiancai,Wan Sumei.Analysis on the soil moisture and yield under
+
+water stress for an intercropping field of cotton[J].Arid Zone Re
+
+search,2016,33（1):89-93.]
+
+[20］李夏,乔木，周生斌.磁化水滴灌对棉田土壤脱盐效果及棉花产量的影响[J].干旱区研究,2017,34(2）：431-436.［Li Xia，Qiao Mu,Zhou Shengbin.Effect of drip irrigation with magnetizedwater on soil desalinization in cotton field and cotton yield[J].Ar-Id Zone Kesearch,201/,34（∠） :431 -430.」
+
+[21］张沛,陈超群,徐海量,等.塔里木河"九源一干"可承载最大灌 溉面积探讨[J].干旱区研究,2017,34（1）：223－231.［Zhang Pei,Chen Chaoqun,Xu Hailiang,et al.The bearable largest irrigation area in the basins of nine source streams and mainstream of the Tarim River[J].Arid Zone Research,2017,34(1):223-231.]   
+[22］刘亚克,王金霞,李玉敏,等.农业节水技术的采用及影响因素 [J].自然资源学报,2011,26(6）:932-942.[Liu Yake,Wang Jinxia,Li Yumin,et al.Study on the adaption and determinants of agricultural water saving technologies[J]. Journal of Natural Resources,2011,26(6) :932 -942.]   
+[23］刘宇,黄季焜 王金霞,等.影响农业节水技术采用的决定因 素——基于中国10个省的实证研究［J].节水灌溉,2009 (10）:1-5.[Liu Yu,Huang Jikun,Wang Jinxia,et al. The decisive factors influencing theadoption of agricultural water-saving technologies:An empirical study based on ten provinces in China [J]. Water Saving Irigation,2009（10）:1-5.]   
+[24］张蔚榛.农业节水问题的几点认识[J].中国水利,2001（8）： 40 -43.[Zhang Weizhen.Several understandings of agricultural water saving[J].China Water Resources,2001(8）:40 -43.]   
+[25]Bluemling B,Hong Y,Mosler HJ.Adoption of agricultural water conservation practices a question of individual or collctive behaviour? The case of the North China Plain[J]. Outlook on Agriculture,2010,39(1) :7 -16.   
+[26]Schuck EC,Frasier W M,Webb R S,et al.Adoption of more technically efficient irrigation systems as a drought response[J]. Water Resources Development,2005,21(4） :651-662.   
+[27］史清华.农户经济可持续发展研究—浙江十村千户变迁 （1986—2002)[M].北京:中国农业出版社,2005.[Shi Qinghua. Study on Sustainable Economic Development of Rural Households : Changes of Thousand Households in Ten Village of Zhejiang Province（1986-2002)[M].Beijing:China Agricultural Press,2005.]   
+[28］刘红梅,王克强,黄智俊.影响中国农户采用节水灌溉技术行 为的因素分析[J].中国农村经济,2008,19（4）：44－54.［Liu Hongmei,Wang Keqiang,Huang Zhijun. Analysis of factors influencing Chinese farmers’adoptionof water saving irrgation techniques[J]. Chinese Rural Economy,2008,19(4）:44-54.]   
+[29］王永静,闫周府.新疆玛纳斯河流域用水结构演变及其驱动力 分析[J].干旱区研究,2017,34（2）：243-250.[Wang Yongjing， Yan Zhoufu.Evolution and driving forces of water consumption structure in the Manas river basin in Xinjiang[J].Arid Zone Research,2017,34(2) :243-250.]   
+[30］段永红,杨名远.农田灌溉节水激励机制与效应分析[J].农业 技术经济,2003（4）:13-18.[Duan Yonghong,Yang Mingyuan.An
+
+analysis on effect and incentive mechanism of farmland water-saving irrigation[J].Journal of Agrotechnical Economics,2Oo3（4）： 13 -18.]
+
+[31］王亦宁，李培蕾，谷树忠，等.基于永定河流域典型案例区的农业节水技术需求影响因素分析[J].资源科学，2010,32（6）：1204-1212.[Wang Yining,Li Peilei,Gu Shuzhong,et al.Ana-nalysis on influential factors of demand for agricultural saving-watertechnology[J].Resources Science,2010,32（6）:1204-1212.]
+
+# Study on the determinants of agricultural water-saving technologies : A case in Zhangbei County,Hebei Province, China
+
+LIN Hui-feng1，LIU Mou-cheng²，YANG Lun2³，MIN Qing-wen2,3 (1.Renmin University of China,Beijing 1Oo872,China; 2.Institute ofGeographic Sciences and Natural Resources Research,Chinese Academyof Sciences,Beijing 10ol01,China; 3.University of Chinese Academy of Sciences,Beijing 10oo49,China)
+
+Abstract：In relation to drought and water shortage inNorth China,water-saving irigation is consideredaneffective measure for reducingthe use of agricultural water.Over the recent years,the Chinese governmenthas increased its investment inagricultural water-saving technologies inthis region.However,owing toalack of understanding of thedeterminants relating to their adoption,the use of water-saving technologies has been significantlyconstrained. Based on survey data from Zhangbei County,Hebei Province,this paper studies these determinants,including the characteristicsof landsand peasants,and social factors,of different irigation modesusing multiple-logitand decision-tree models.In terms ofthe influencing factors relating to farmers’choices of irigation method inarid areas, theresults estimated usingthe multiple-logit and decision-tree modelsare highly consistent.Both models indicate that government support is a key factor in terms offarmers chosing modern community-based water-saving technologies;this is follwed byblock area and scale of household irigation.Inaddition,farmers’ageand education level, soil type,and the choice of irrigation methods also have important influences,whereas the water supply and demand conditions perceived by farmersare insignificant.In terms of the factors influencing thedegreeby which farmers adopt modern community-based water-saving technologies in arid areas,the folowing observation were noted:(1) when the soil type is loam,the proportionof modern community-based irigation technologies is significantly lower than that when the soil issandy;(2）for farmers,theolder theyareandthe lower their level of education is,the moretheyadopt modern community-based irrigation technologies；（3）the higher the total household incomeof farmersare,the more are modern community-based irigation technologiesutilized bythem.Thescaleof irrigated landforfarming households,whether they have been supported bythe government,and the water supplyand demand conditions perceived by farmers do notsignificantly affectthe level of this type of technologyadoption.To address theexisting problems inthe useof agricultural irigation water and improve the efficiencyof irigation wateruse,the following suggestions have been provided:(1） increase funding for water-saving irigation technology,(2）advocate for large-scale agricultural production,and（3） increase farmer awareness regarding the importance of water saving.
+
+Key words:water-saving irigation；farmer behaviortheory； Multiple-Logit model； Decision-Tree model； Zhang-bei County；Heibei Province

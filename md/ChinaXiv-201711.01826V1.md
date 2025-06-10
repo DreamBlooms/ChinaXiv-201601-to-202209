@@ -1,0 +1,198 @@
+低铜饲粮添加枯草芽孢杆菌对 5\~16 周龄五龙鹅肠道发育、微生物菌群结构及血清酶活性的影响
+
+张名爱　杨文娇　张泽楠　王宝维\*史雪萍　岳　斌　葛文华　郑惠文（青岛农业大学优质水禽研究所，国家水禽产业技术体系营养与饲料功能研究室，青岛
+
+266109)
+
+摘要：本试验旨在研究低铜饲粮添加枯草芽孢杆菌对5\~16 周龄五龙鹅肠道发育、微生物菌群结构及血清酶活性的影响。试验选用29日龄五龙鹅360 只，随机分为6组，每组6个重复，每个重复10只（公母各占1/2）。Ⅰ组为最适铜添加组（铜添加水平为 $1 6 \ \mathrm { m g / k g }$ 未添加枯草芽孢杆菌）；II\~VI组为枯草芽孢杆菌添加组，铜添加水平分别为0、4、8、12、$1 6 ~ \mathrm { m g / k g }$ ，枯草芽孢杆菌添加水平均为 $2 5 0 ~ \mathrm { m g / k g }$ 。试验期12周。结果表明：1） $\mathrm { I I } \sim \mathrm { W I }$ 组的空肠绒毛高度和绒腺比极显著高于「组（ $P { < } 0 . 0 1$ ），空肠隐窝深度显著或极显著低于「组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）；III、V、VI组的空肠肠壁厚度显著高于I组（ $P { < } 0 . 0 5$ ）。 $\scriptstyle { \mathrm { I I } } \sim { \mathrm { W I } }$ 组之间的空肠绒毛高度、肠壁厚度和绒腺比无显著差异（ $\scriptstyle P > 0 . 0 5 .$ ）；ⅡI组的空肠隐窝深度显著低于V和VI组（ $P { < } 0 . 0 5$ ）。2）ⅡI\~VI组的盲肠大肠杆菌数量极显著低于I组（ $_ { \cdot  { P } < 0 . 0 1 }$ ），盲肠双歧杆菌和乳酸杆菌数量显著或极显著高于I组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。 $\scriptstyle { \mathrm { I I } } \sim { \mathrm { W I } }$ 组之间的盲肠大肠杆菌、双歧杆菌和乳酸杆菌数量差异不显著( $\cdot P { > } 0 . 0 5$ )。3)IV组的血清谷丙转氨酶(ALT)活性显著低于I组（ $P { < } 0 . 0 5$ ），V组血清谷草转氨酶（AST）和乳酸脱氢酶（LDH）活性显著低于I组（ $P { < } 0 . 0 5$ ）；II组血清ALT、AST、LDH活性与I组差异不显著（ $P { > } 0 . 0 5$ ）。IV组血清碱性磷酸酶（AKP）活性显著高于I组（ $\scriptstyle P < 0 . 0 5 .$ ）；ⅡI组血清AKP活性显著低于I组( $P { < } 0 . 0 5$ ）。由此可见，低铜饲粮添加枯草芽孢杆菌能够促进五龙鹅肠道发育，优化微生物菌群结构；铜对鹅肠道发育及微生物菌群结构影响较小。适宜的枯草芽孢杆菌和铜添加水平能够维护机体健康，相互间具有协同作用。
+
+关键词：铜；枯草芽孢杆菌；鹅；肠道发育；微生物菌群结构；酶活性中图分类号：S835 文献标识码： 文章编号：
+
+铜是动物必需的微量元素之一，不仅以酶辅助因子的形式参与体内30多种酶的组成和活化，还可以通过酶的活性中心或激活剂的形式来影响动物的造血、消化、生长、繁殖、免疫等生理功能。铜还能增强动物垂体释放生长激素(GH)、促甲状腺释放激素(TPH)、胰岛素样生长因子(IGF)，影响肾上腺皮质类固醇和儿茶酚胺的合成[1-2]。研究表明，生长猪饲粮中添加 $2 5 0 \mathrm { m g / k g }$ 铜可改善仔猪生长速度和饲料利用率[3]。目前，高铜促进畜禽生长的研究成果得到了许多营养配方师的效仿；然而，饲粮中添加高铜使畜禽生长性能得到提高的同时，也会产生负面影响，导致畜禽排泄物中铜含量明显升高，其作为农用有机肥长期使用，加剧了对环境的污染[4]。此外，高添加水平的铜可能会导致畜禽肉、蛋等产品中铜的沉积量上升，作为食物应用影响到人体的健康，尤其是对未成年人的危险性更大[5]。在规模化畜禽养殖状态下，如何在保持较高生长性能的前提下，降低饲料中铜添加水平，减小养殖业对环境的压力，生产出健康安全的畜禽产品，一致是人们追寻的目标。为此，寻求一种能够降低饲粮中铜添加水平的方法对保障生态环境与人类健康具有重要意义。枯草芽孢杆菌作为微生态制剂的一种，可以有效地改善肠道菌群的组成，促进机体对营养物质的吸收。López 等[6]研究指出，芽孢杆菌属菌株均有强大的吸附金属能力，这是因为金属离子能够与芽孢杆菌细胞表面上的阴离子相互作用而被固定。赵颖等[研究发现，枯草芽孢杆菌对铜离子具有很强的吸附作用。余成瑶等[8]的研究显示，雏鸡饲喂枯草芽孢杆菌后通过扫描电镜观察肠黏膜结构，可看到小肠黏膜皱壁明显增多，肠绒毛长度增长，柱状细胞的微绒毛明显加粗，小肠吸收面积增大。Lee 等「9]的研究也表明，用枯草芽孢杆菌饲喂肉鸡能够促进肠上皮细胞生长，提高小肠绒毛高度，改善肠道黏膜形态，提高对养分的吸收能力。翟玲等[1]研究表明，饲粮中添加枯草芽孢杆菌可以显著改善肝代谢功能。谷丙转氨酶(ALT)、谷草转氨酶（AST)和乳酸脱氢酶(LDH)广泛存在于动物体肝细胞浆及线粒体中，反映肝脏合成蛋白质及无氧糖酵解的能力，同时也是反映机体健康的重要指标，正常情况下其在动物血清中活性比较低，当出现肝损伤时或发生肝细胞破裂时才进入血液中，使血液中上述酶活性大幅度升高[1]。迄今为止，枯草芽孢杆菌与铜对畜禽生物学功能的研究有许多报道，而饲粮中添加枯草芽孢杆菌降低畜禽微量元素添加水平的研究报道还鲜有报道，枯草芽孢杆菌与铜协同对鹅肠道发育、微生物菌群结构及血清酶活性影响的研究还处于空白。为此，本试验以 $5 \sim 1 6$ 周龄五龙鹅为试验对象，通过在低铜饲粮中添加枯草芽孢杆菌，研究其对肠道发育、微生物菌群结构及血清酶活性的影响，旨在进一步探索枯草芽孢杆菌与铜在肠道中的协调关系，为低排放生态饲粮配方技术研发奠定理论基础。
+
+# 1材料与方法
+
+# 1.1试验动物与试验设计
+
+选择 29日龄同批孵化、体重相近、体况健康的五龙鹅 360只，采用随机分配编号法分为6组，每组6个重复，每个重复10只（公母各占1/2）。Ⅰ组为最适铜添加组（铜添加水平为 $1 6 \ \mathrm { m g / k g ^ { [ 1 ] } }$ ，未添加枯草芽孢杆菌）；ⅡI\~VI组为枯草芽孢杆菌添加组，铜添加水平分别为0、4、8、12、 $1 6 \mathrm { m g / k g }$ ，枯草芽孢杆菌添加水平均为 $2 5 0 ~ \mathrm { m g / k g }$ 。试验期12周。试验鹅由青岛农业大学优质水禽研究所育种基地提供；试验用枯草芽孢杆菌形态为粉末状，活菌数为 $2 { \times } 1 0 ^ { 9 } \mathrm { C F U / g }$ ，购自山东苏柯汉生物工程股份有限公司；试验用铜源为五水硫酸铜（有效成分含量为 $9 8 . 5 \%$ ），购自浙江新维普添加剂有限公司。
+
+# 1.2 基础饲粮
+
+基础饲粮营养水平参照NRC（1994）家禽营养需要量设计，其组成及营养水平见表1。采用等离子体发射光谱仪测得基础饲粮中铜含量为 $7 . 3 2 \mathrm { m g / k g }$ 0
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels²)</td><td>含量Content</td></tr><tr><td>玉米 Corn</td><td>61.97</td><td>代谢能 ME/（MJ/kg)</td><td>11.29</td></tr><tr><td>豆粕 Soybean meal</td><td>22.00</td><td>粗蛋白质 CP</td><td>16.00</td></tr><tr><td>鱼粉 Fish meal</td><td>1.50</td><td>粗纤维 CF</td><td>4.98</td></tr><tr><td>次粉 Wheat middling</td><td>4.00</td><td>钙Ca</td><td>0.70</td></tr><tr><td>玉米秸秆 Corn straw</td><td>8.00</td><td>有效磷 AP</td><td>0.32</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.78</td><td>食盐 NaCl</td><td>0.38</td></tr><tr><td>石粉 Limestone</td><td>0.95</td><td>赖氨酸Lys</td><td>0.82</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>蛋氨酸+半胱氨酸Met+Cys</td><td>0.53</td></tr><tr><td>微量元素 Trace elements1)</td><td>0.20</td><td>蛋氨酸 Met</td><td>0.26</td></tr><tr><td>多维Multivitamin1)</td><td>0.30</td><td>苏氨酸 Thr</td><td>0.58</td></tr><tr><td>合计 Total</td><td>100.00</td><td>铜 Cu/ (mg/kg)</td><td>7.32</td></tr></table></body></html>
+
+1）多维和微量元素为每千克饲粮提供 The multivitamin and trace elements provided thefollowing per $\mathrm { k g }$ of the diet: VA $1 5 0 0 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 2 0 0 \mathrm { I U }$ ,VE $1 2 . 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 2 \ : \mathrm { m g }$ $\mathrm { V B } _ { 2 } 5 . 0 \mathrm { m g }$ ，烟酸 nicotinic acid $6 5 ~ \mathrm { m g }$ ，泛酸 pantothenate $1 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 \log$ ，生物素biotin$0 . 2 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 ~ \mathrm { m g }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ，Fe $8 5 ~ \mathrm { m g }$ ， $ { \mathrm { M n } } 8 0  { \mathrm { m g } }$ ， $Z { \mathrm { n } } 8 0 { \mathrm { m g } }$ ，I（20 $0 . 4 2 \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ ，Co $2 . 5 ~ \mathrm { m g }$ 。
+
+2）铜为实测值，其他营养水平为计算值。Cu was a measured value,while other nutrient levels were calculated values.
+
+# 1.3 试验仪器
+
+主要试验仪器包括托盘、手术刀、手术剪、广口瓶、UV-1100 紫外可见分光光度计、恒
+
+温水浴锅、TGL-16B高度离心机、RM2235 手动转轮式切片机、石蜡、干燥箱、OLYMPUS光学显微镜等。
+
+# 1.4 饲养管理
+
+试验前对鹅舍进行全面消毒；全期采取舍饲，地面厚垫料分栏饲养；试验鹅自由饮水和采食，少添喂勤，注意观察鹅群的生长状况。
+
+# 1.5 测定指标及方法
+
+# 1.5.1 肠道发育指标测定
+
+16 周龄末，空腹称重，各组每个重复随机选择体重相近的2只鹅，共72只，屠宰后无菌截取其空肠中段，用生理盐水洗净后保存于 $10 \%$ 甲醛溶液中固定，置于4℃冰箱中保存用于制作组织切片。
+
+将已经固定好的组织进行修整、水洗、脱水、透明、浸蜡、包埋（石蜡包埋法）、切法，最后用苏木精-伊红（HE）染色后制成切片。每个肠段切片取6张，采用HMIAS-2000 彩色图像分析系统和OLYMPUS光学显微镜，在 $1 0 \times 1 0$ 明视野显微镜下测量肠绒毛高度、肠线深度、肌层厚度，并计算绒毛高度、肠壁厚度、隐窝深度、绒腺比(绒毛高度/隐窝深度)。
+
+# 1.5.2 肠道微生物菌群检测
+
+16 周龄末，将鹅放血、屠宰后，迅速打开腹腔，立即结扎肠道各部分的分界，取盲肠于灭菌的离心管中， $- 4 0 \mathrm { ~ \textdegree ~ }$ 冷冻保存。无菌操作台内，室温解冻后挤出盲肠内容物 $1 . 0 \ \mathrm { m L }$ 于灭菌三角瓶，加入灭菌稀释液 $4 9 . 0 \mathrm { m L }$ ，配制成1:50稀释液，振荡 $3 \mathrm { \sim } 5 \mathrm { m i n }$ ，用微量移液枪准确吸取该稀释液 $5 \mathrm { m L }$ 至事先灭菌的稀释液试管中，用漩涡振荡器振荡 $1 { \sim } 2 \mathrm { m i n }$ ，制成${ { 1 0 } ^ { - 1 } }$ 稀释液，用微量移液枪准确吸取该稀释液 $1 ~ \mathrm { m L }$ 至盛有 $9 \mathrm { m L }$ 事先灭菌的稀释液试管中，用旋涡振荡器振荡 $1 { \sim } 2 \mathrm { m i n }$ ，制成 ${ { 1 0 } ^ { - 2 } }$ 稀释液，依次进行梯度稀释。
+
+分别将盲肠内容物的稀释液接种于相应的培养基平皿上：亚硫酸铋琼脂(BS)培养基（用于双歧杆菌培养）、乳酸细菌(MRS)培养基（用于乳酸杆菌培养）、营养琼脂(NA)培养基（用于大肠杆菌培养），每种指标检测5个稀释梯度，每个梯度设2个重复，大肠杆菌37℃有氧培养 $2 4 \mathrm { ~ h ~ }$ 后进行菌落计数，乳酸杆菌和双歧杆菌35℃厌氧培养培养 $^ { 4 8 \mathrm { ~ h ~ } }$ 后进行菌落计数，枯草芽孢杆菌37℃厌氧培养 $4 5 \mathrm { h }$ 后进行菌落计数。
+
+# 1.5.3 血清酶活性指标测定
+
+血清中ALT、AST、LDH和碱性磷酸酶（AKP)活性测定采用南京建成生物工程研究所生产的试剂盒测定。
+
+# 1.6 数据统计与分析
+
+采用 SPSS17.0 软件中单因素方差分析(one-way ANOVA)程序中的LSD 法进行多重比较。试验数据以“平均值 $\pm$ 标准差"表示。 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 分别为差异显著和极显著水平。
+
+# 2结果与分析
+
+2.1低铜饲粮添加枯草芽孢杆菌对五龙鹅空肠绒毛形态的影响
+
+由表2可以看出， $\smash { \mathrm { I I } \sim \mathrm { W } }$ 组（枯草芽孢杆菌添加组）空肠绒毛高度极显著高于I组（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ ），空肠隐窝深度显著低于I组（ $\cdot P { < } 0 . 0 5 \$ ），空肠绒腺比极显著高于I组（ $\cdot P { < } 0 . 0 1$ ）；II、V、VI组空肠肠壁厚度显著高于I组（ $P { < } 0 . 0 5$ ）。 $\scriptstyle { \mathrm { I I } } \sim { \mathrm { W I } }$ 组（枯草芽孢杆菌添加组）之间空肠绒毛高度、肠壁厚度和绒腺比无显著差异（ $\cdot P { > } 0 . 0 5$ ）；ⅡI组空肠隐窝深度显著低于V和VI组（ $P { < } 0 . 0 5$ ）。Ⅱ组（不添加铜，仅添加枯草芽孢杆菌）空肠绒毛高度和绒腺比极显著高于I组（ $P { < } 0 . 0 1$ ），空肠隐窝深度极显著低于 $\mathrm { ~ I ~ }$ 组（ $P { < } 0 . 0 1$ ）。VI与I组（铜添加水平一致）之间比较，VI组空肠绒毛高度、肠壁厚度和绒腺比显著或极显著高于I组（ $P { < } 0 . 0 5$ 或$P { < } 0 . 0 1$ ）。
+
+以上结果表明，枯草芽孢杆菌对五龙鹅肠道发育具有明显促进作用，而铜对鹅肠道发育影响较小。
+
+表2低铜饲粮添加枯草芽孢杆菌对五龙鹅空肠绒毛形态的影响
+
+Table 2Effects of diet with low copper level and adding Bacillus subtilis on jejunal villus morphology of Wulong geese   
+
+<html><body><table><tr><td>组别</td><td>绒毛高度</td><td>肠壁厚度</td><td>隐窝深度</td><td>绒腺比</td></tr><tr><td>Groups</td><td>Villus height/um</td><td>Intestinal wall</td><td>Crypt depth/μm</td><td>V/C</td></tr><tr><td></td><td></td><td>thickness/μm</td><td></td><td></td></tr><tr><td>I</td><td>911.67±39.43a</td><td>205.00±18.00a</td><td>196.67±8.50c</td><td>4.64±0.40a</td></tr><tr><td>Ⅱ</td><td>1102.00±36.86</td><td>232.00±12.77ab</td><td>164.67±15.31a</td><td>6.72±0.45℃</td></tr><tr><td>Ⅲ</td><td>1090.33±42.59</td><td>243.00±15.10b</td><td>171.33±8.39ab</td><td>6.38±0.50c</td></tr><tr><td>IV</td><td>1077.33±50.08</td><td>235.33±17.79ab</td><td>162.33±14.50a</td><td>6.67±0.59c</td></tr><tr><td>V</td><td>1119.33±40.70c</td><td>238.33±18.18b</td><td>166.00±12.29b</td><td>6.77±0.58℃</td></tr><tr><td>VI</td><td>1049.67±74.80c</td><td>245.00±19.67b</td><td>169.33±8.39b</td><td>6.20±0.20c</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值</td><td></td><td></td><td></td><td></td></tr><tr><td>P-value</td><td>0.003</td><td>0.124</td><td>0.033</td><td>0.001</td></tr></table></body></html>
+
+同列数据肩标相同小写字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，相邻小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相间小写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。
+
+In the same column, values with the same small or no lettr superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with adjacent small letter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ，and with alternate small letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as below.
+
+由图1可以看出，I组空肠绒毛生长不整齐且较短，隐窝较深；ⅡI\~VI组（枯草芽孢杆菌添加组）肠绒毛较长且长势均匀整齐，隐窝较浅。各组肠壁厚度差异不明显。
+
+以上结果表明，枯草芽孢杆菌能够影响五龙鹅空肠发育，从而增强消化吸收功能。VI组与 $\mathrm { ~ I ~ }$ 组（铜添加水平一致）之间比较，VI组空肠绒毛高度和肠壁厚度明显高于I组。
+
+![](images/d815e979e7e198d6522a56f2a4f7c2e7cc6b9211a11aabb93e00466b26866b1e.jpg)  
+图116周龄五龙鹅空肠绒毛组织切片（ $1 0 \times 1 0$ 倍）  
+FiglTissue slice of jejunal villus of Wulong geese at 16 weeks of age ( $1 0 \times 1 0$ times)
+
+2.2低铜饲粮添加枯草芽孢杆菌对五龙鹅盲肠微生物菌群结构的影响由表3可以看出，ⅡI\~VI组（枯草芽孢杆菌添加组）盲肠大肠杆菌数量均极显著低于I组（ $_ { \cdot  { P } < 0 . 0 1 }$ ），盲肠双歧杆菌数量显著高于I组（ $\cdot P { < } 0 . 0 5$ ），盲肠乳酸杆菌数量极显著高于I组( $P { < } 0 . 0 1$ ）。ⅡI\~VI组（枯草芽孢杆菌添加组）盲肠大肠杆菌数量随铜添加水平增加呈先升高后降低趋势，盲肠双歧杆菌数量随铜添加水平的增加呈升高趋势。ⅡI组（不添加铜，仅添加枯草芽孢杆菌）盲肠大肠杆菌数量极显著低于I组（ $\cdot P { < } 0 . 0 1$ ），盲肠双歧杆菌和乳酸杆菌数量显著或极显著高于I组（ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。VI与I组（铜添加水平一致）之间比较，VI组盲肠大肠杆菌数量极显著低于I组（ $\cdot P { < } 0 . 0 1$ ），盲肠双歧杆菌和乳酸杆菌数量显著或极显著高于I组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。
+
+以上结果表明，饲粮中添加枯草芽孢杆菌能够优化鹅盲肠内菌群结构，抑制有害菌的增殖，促进益生菌的生长繁殖；而铜对盲肠菌群结构影响相对较小。
+
+表3低铜饲粮添加枯草芽孢杆菌对五龙鹅盲肠微生物菌群结构的影响
+
+Table 3Effects of diet with low copper level and adding Bacillus subtilis on microbial community structure in cecum of Wulong geese lg (CFU/g)   
+
+<html><body><table><tr><td>组别</td><td>大肠杆菌</td><td>双歧杆菌</td><td>乳酸杆菌</td></tr><tr><td>Groups</td><td>Escherichia coli</td><td>Bifidobacterium</td><td>Lactobacillus</td></tr><tr><td>I</td><td>6.76±0.37℃</td><td>5.01±0.32a</td><td>4.26±0.35a</td></tr><tr><td>Ⅱ</td><td>5.06±0.63a</td><td>5.88±0.32b</td><td>5.87±0.35c</td></tr><tr><td>Ⅲ</td><td>4.80±0.48a</td><td>5.92±0.24b</td><td>5.79±0.43℃</td></tr><tr><td>IV</td><td>4.93±0.45a</td><td>5.94±0.35b</td><td>5.97±0.54℃</td></tr><tr><td>V</td><td>4.96±0.63a</td><td>5.95±0.24b</td><td>5.63±0.40c</td></tr><tr><td>VI</td><td>4.76±0.58a</td><td>6.02±0.23b</td><td>5.30±0.48℃</td></tr><tr><td>P值 P-value</td><td>0.004</td><td>0.016</td><td>0.004</td></tr></table></body></html>
+
+2.3低铜饲粮添加枯草芽孢杆菌对五龙鹅血清酶活性影响
+
+由表4可以看出，IV组血清ALT活性显著低于I组（ $\cdot P { < } 0 . 0 5$ ）， $\mathrm { \Delta V }$ 组血清AST和LDH活性显著低于I组（ $P { < } 0 . 0 5$ ）。 $\scriptstyle { \mathrm { I I } } \sim { \mathrm { W I } }$ 组（枯草芽孢杆菌添加组）血清AST和ALT 活性均随着饲粮中铜水平的提高呈先降低后升高趋势；ⅡI组（不添加铜，仅添加枯草芽孢杆菌）与
+
+I组比较，血清 ALT、AST、LDH 活性增加，但差异不显著（ $P { > } 0 . 0 5$ ）。VI与I组（铜添加水平一致）之间比较，血清 ALT、AST、LDH活性均降低，但差异不显著（ $. P { > } 0 . 0 5$ ）。
+
+以上结果表明，血清ALT、AST、LDH 活性遵循适度原则，铜添加水平过多过低都会使其酶活性失衡，不利于肝脏与肾脏的健康，导致肝脏、肾脏损伤的出现，致使ALT、AST、LDH大量进入血液。饲粮中添加枯草芽孢杆菌有助于缓解高铜或低铜对鹅机体造成的应激。
+
+IV组血清AKP活性显著高于I组（ $P { < } 0 . 0 5$ ）；ⅡI\~VI组（枯草芽孢杆菌添加组）血清AKP 活性随着饲粮中铜添加水平的提高呈先升高后降低的趋势，IV组达到最大值。与Ⅰ组比较，ⅡI组（不添加铜，仅添加枯草芽孢杆菌)血清AKP 活性降低，但差异不显著( $. P { > } 0 . 0 5$ ）。VI组与I组（铜添加水平一致）之间比较，血清AKP 活性增加，但差异不显著（ $P { > } 0 . 0 5$ ）。
+
+以上结果表明，饲粮中添加枯草芽孢杆菌和铜均有增强鹅机体营养代谢的作用。
+
+综上结果分析表明，鹅机体血清 ALT、AST、LDH、AKP 活性均遵循适度平衡原则，铜添加水平过多或过低都会使其酶活性指标失衡，在添加 $2 5 0 \mathrm { m g / k g }$ 枯草芽孢杆菌和 $8 ~ \mathrm { m g / k g }$ 铜的条件下，机体处于最佳健康平衡状态。
+
+# 表4低铜饲粮添加枯草芽孢杆菌对五龙鹅血清酶活性的影响
+
+activities of Wulong geese
+
+Table 4Effects of diet with low copper level and adding Bacillus subtilis on serum enzyme   
+
+<html><body><table><tr><td>组别</td><td>谷丙转氨酶</td><td>谷草转氨酶</td><td>乳酸脱氢酶</td><td>碱性磷酸酶</td></tr><tr><td>Groups</td><td>ALT/ (U/L)</td><td>AST/ (U/L)</td><td>LDH/ (U/L)</td><td>AKP/(金氏单位/dL)</td></tr><tr><td>I</td><td>17.06±3.08bc</td><td>25.31±4.37bc</td><td>185.85±20.61bc</td><td>73.93±11.43bc</td></tr><tr><td>II</td><td>20.34±3.11</td><td>31.28±4.85c</td><td>206.87±20.73c</td><td>42.28±8.80a</td></tr><tr><td>IⅢI</td><td>13.71±2.78ab</td><td>22.73±3.63ab</td><td>173.86±20.88abc</td><td>56.81±11.84ab</td></tr><tr><td>IV</td><td>11.44±2.21a</td><td>18.35±4.33ab</td><td>150.88±20.22ab</td><td>98.18±9.44d</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>V</td><td>12.40±2.72ab</td><td>17.55±4.08a</td><td>139.78±19.24a</td><td>91.53±11.74cd</td></tr><tr><td>VI</td><td>12.70±2.31ab</td><td>18.38±3.73ab</td><td>157.03±19.11ab</td><td>84.47±10.51cd</td></tr><tr><td>P值</td><td>0.013</td><td>0.011</td><td>0.015</td><td><0.001</td></tr><tr><td>P-value</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1低铜饲粮添加枯草芽孢杆菌对五龙鹅肠道绒毛形态的影响
+
+绒毛高度和隐窝深度分别是反映小肠消化吸收功能和细胞发育成熟率的主要指标，当绒毛高度增加时，与肠道中食糜的接触面积也会相应的增加，进而增强小肠的消化吸收功能；机体消化道发育成熟时，隐窝上皮细胞作用就会减弱，隐窝深度变浅[12-13]。绒毛高度/隐窝深度值升高，表明小肠消化吸收功能增强,肠黏膜结构改善。有研究表明,饲粮添加 $5 0 0 ~ \mathrm { m g / k g }$ 枯草芽抱杆菌能显著提高42日龄肉仔鸡十二指肠绒毛高度和绒毛高度/隐窝深度值，降低隐窝深度[14]。
+
+动物肠道发育在其机体生长过程中发挥重要的作用，肠道结构的完整性是其功能正常发挥的前提。动物机体主要依靠肠管上的环形皱襞、肠绒毛及绒毛上的柱形上皮细胞来吸收和消化营养物质[15]。李卫芬等[16研究表明，在肉鸡饲粮中添加枯草芽孢杆菌有益于保护和增加肠绒毛高度，显著提高绒毛高度/隐窝深度值，进而提高肠道对养分的吸收利用效率。王洪阳[17研究表明，饲粮中添加铜对于獭兔肠道的发育无显著影响。
+
+本试验结果表明，饲粮中添加枯草芽孢杆菌可以极显著提高空肠绒毛高度，显著降低隐窝深度，极显著提高绒腺比，对肠壁厚度也有一定的影响；而铜对空肠绒毛形态发育无显著影响，这与上述研究结果基本相符，表明饲粮中添加枯草芽孢杆菌能够促进鹅肠道发育，优化鹅盲肠菌群结构，而铜对鹅肠道发育的影响相对较小，其机理还有待于继续研究。
+
+3.2低铜饲粮添加枯草芽孢杆菌对五龙鹅盲肠微生物菌群结构的影响
+
+动物消化系统对养分的消化吸收，部分依赖于肠道中寄生的微生物菌群，鹅能够通过盲肠微生物发酵利用饲粮中的部分粗纤维。且肠道内固有的微生物区系对动物的抗病能力也有很大影响[18-19]。易中华等[20]研究表明，饲粮中添加枯草芽孢杆菌有助于增加肉鸡盲肠内乳酸菌等有益菌的数量，降低大肠杆菌等有害菌的数量。兰青[21]在研究枯草芽孢杆菌对仔猪肠道菌群的影响时发现，枯草芽孢杆菌可改善仔猪肠道内菌群的比例，提高乳酸杆菌的数量，并抑制大肠杆菌在肠道内的迅速繁殖。己有研究表明，肉仔鸡饲粮中添加枯草芽抱杆菌能提高肉仔鸡平均日增重，降低料重比，促进肉仔鸡生长发育；枯草芽抱杆菌能减少肉仔鸡肠道内大肠杆菌的数量，提高双歧杆菌的数量，保持肠道微生物区系平衡，维持机体健康[22]。
+
+本试验研究结果表明，饲粮中添加枯草芽孢杆菌可以显著提高五龙鹅盲肠内乳酸杆菌和双歧杆菌的数量，显著降低大肠杆菌的数量，说明饲粮中添加枯草芽孢杆菌能够影响鹅盲肠内菌群结构，显著抑制有害菌的增殖，促进有益菌的生长繁殖；铜对盲肠微生物菌群结构影响相对较小，与枯草芽孢杆菌有协同效应。
+
+3.3低铜饲粮添加枯草芽孢杆菌对五龙鹅血清酶活性的影响
+
+ALT、AST是动物体内重要的氨基酸转氨酶，广泛存在于动物机体所有细胞内，其中尤以肝细胞中最多。LDH是一种糖酵解酶，肾脏内含量最高。在机体生长代谢中都发挥着极其重要的作用，同时也是检测动物机体肝脏、肾脏功能的重要指标。当动物出现肝脏损伤或肾脏病变时发生肝、肾细胞破裂，ALT、AST、LDH 随之进入血液，使血液内其活性大幅度升高[11]。曹华斌等[23]研究报道，饲粮中高水平铜会增加肉鸡肝脏铜沉积，肝功能受到抑制，并导致肝脏出现不同程度的病理学损伤。梁明振等[24报道，饲粮中添加高铜会损害肝脏、心脏、肾脏中细胞线粒体嵴的正常结构。高铜在带来促进生长性能的同时，弊端也逐渐被人们重视。
+
+枯草芽孢杆菌产生多种消化酶，包括淀粉酶、植酸酶、纤维素酶及蛋白酶等[25]。一方面，外源酶的添加能够补充畜禽发育早期机体内源酶的不足，提高营养物质的消化和吸收[26]；另一方面，在饲粮中加入外源酶可促进动物机体内源酶的分泌[27]。
+
+AKP 是一种非特异性磷酸单酯酶，可以催化几乎所有的磷酸单酯的水解反应，生成无机磷酸和相应的醇，能够加快机体的代谢。黄志坚等[28]研究表明，仔猪血清 AKP 的变化趋势是其活性随铜的增加而适当降低。徐晨晨等[1研究报道，饲粮中添加 $1 5 { \sim } 3 0 \ \mathrm { m g / k g }$ 的铜可以提高鹅血清中 AKP 的活性。李卫芬等[29研究报道，饲粮中添加枯草芽孢杆菌可以改善肝功能，显著提高血清中AKP的活性。
+
+本试验研究结果表明，血清ALT、AST、LDH、AKP 活性遵循适度平衡原则，铜过多过少都会使其酶活性失衡。在饲粮中添加 $2 5 0 ~ \mathrm { m g / k g }$ 枯草芽孢杆菌和 $8 ~ \mathrm { m g / k g }$ 铜的情况下,血清 ALT、AST、LDH、AKP 活性处于最佳生理健康状态，有利于维持机体健康，具有增强鹅机体营养代谢的作用。
+
+4结论
+
+$\textcircled{1}$ 枯草芽孢杆菌能够促进鹅肠道发育和有益菌增殖，抑制有害菌增殖；铜对鹅肠道发育及 盲肠微生物菌群结构影响较小。
+
+$\textcircled{2}$ 枯草芽孢杆菌与铜均能够降低血清 ALT、AST、LDH活性，提高血清 AKP 活性。
+
+$\textcircled{3}$ 枯草芽孢杆菌与铜对鹅肠道发育、微生物菌群结构及血清 ALT、AST、LDH、AKP 活性的影响具有协同促进作用。
+
+$\textcircled{4}$ 鹅血清酶活性存有适度平衡机制，饲粮添加 $2 5 0 \mathrm { \ m g / k g }$ 枯草芽孢杆菌和 $8 \ \mathrm { m g / k g }$ 铜时，机体处于理想健康状态。
+
+参考文献:
+
+[1] 徐晨晨,王宝维,葛文华,等.铜对 5\~16 周龄五龙鹅生长性能、屠宰性能、营养物质利用率和血清激素含量的影响[J].动物营养学报,2013,25(9):1989-1997.
+
+[2] ZHOU W,KORNEGAY E T,VAN LAAR H,et al.The role of feed consumption and feedefficiency in copper-stimulated growth[J].Journal of Animal Science,1994,72(9):2385-2394.[3]田允波,曾书琴.高铜改善猪生产性能和促生长机理的研究进展[J].粮食与饲料工业,2000(11):36-37.  
+[4] 王幼明,王小龙.高铜的应用对畜禽的慢性中毒作用及对环境生态的影响[J].中国兽医杂志,2001,37(6):36-38.  
+[5]程忠刚.日粮组成对禽产品营养价值的影响[J].粮食与饲料工业,1999(3):38-39.  
+[6]LOPEZ A,LAZARO N,MORALES S,et al. Nickel biosorption by free and immobilized cellsofPseudomonasfluorescens4F39:acomparativestudy[J].Water,Air,andSoilPolluti0n,2002,135(1/2/3/4):157-172.  
+[7]　赵颖,王仁国,陈沿利,等.枯草芽孢杆菌对 $\mathrm { C u } ^ { 2 + }$ 的吸附及菌体表面基团分析[J].环境污染与防治,2011,33(11):72-77,81.  
+[8]余成瑶,郑黎,周毅.肉鸡饲喂益生素后小肠粘膜上皮细胞肝细胞超微结构功能研究[J].四川农业大学学报,1996,14(1):61-66,56.  
+[9]LEE K W,LEE S H,LILLEHOJ H S,et al.Eects of direct-fed microbials on growthperformance,gutmorphometry,and immunecharacteristicsinbroilerchickens[J].PoultryScience,2010,89(2):203-216.  
+[10]　翟玲,李卫芬,余东游.枯草芽孢杆菌对肉鸡生长性能和抗氧化力的影响[J].中国兽医学报,2010,30(6):753-755,761.  
+[11]SWENNEN Q,JANSSENS G P J,DECUYPERE E,et al.Effects of substitution between fatand protein on feed intake and its regulatory mechanisms in broiler chickens:energy and proteinmetabolism and diet-induced thermogenesis[J].Poultry Science,2004,83(12):1997-2004.  
+[12]WINZELL M S,SVENSSON H,ARNER P,et al.The expression of hormone-sensitive lipaseinclonal beta-celsand ratisletsisinduced bylong-termexposure tohighglucose[J].Diabetes,2001,50(10):2225-2230.  
+[13] 李勇,蔡辉益,刘国华,等.地塞米松对肉仔鸡空肠二糖酶活性及黏膜形态的影响[J].畜牧兽医学报,2008,39(1):48-52.  
+[14]　崔宇.枯草芽孢杆菌对AA+肉鸡生产性能及脾脏IL-2 mRNA表达量的影响[D].硕士学位论文.长春:吉林大学,2015.  
+[15]王蕾,彭克美,刘华珍,等.泰和乌鸡小肠的发育形态学研究[C]/中国畜牧兽医学会动物解剖学及组织胚胎学分会第十七次学术研讨会论文集(上).太谷:中国畜牧兽医学会,2012.[16]李卫芬,李雅丽,秦艳,等.枯草芽孢杆菌对肉鸡肠道消化酶活性、黏膜结构及肠道菌群组成的影响[J].中国兽医学报,2012,32(5):666-669.  
+[17]王洪阳.铜、锰、铬和硒不同添加量对断奶獭兔生产性能、血清指标及十二指肠发育的影响[D].硕士学位论文.杨凌:西北农林科技大学,2012.  
+[18]　余东游,毛翔飞,秦艳,等.枯草芽孢杆菌对肉鸡生长性能及其抗氧化和免疫功能的影响[J].中国畜牧杂志,2010,46(3):22-25.  
+[19]LEY R E,HAMADY M,LOZUPONE C,et al.Evolution of mammals and their gutmicrobes[J].Science,2008,320(5883):1647-1651.  
+[20]易中华,胥传来,计成,等.果寡糖和枯草芽孢杆菌对肉鸡肠道菌群数量及生产性能的影响[J].中国畜牧杂志,2005,41(12):11-14.  
+[21] 兰青.仔猪主要肠道菌群分布的研究和益生菌对仔猪生长发育及免疫功能的影响[D].硕士学位论文.成都:四川农业大学,2008.  
+[22] SEN S,INGALE S L,KIM Y W,et al.Effect of supplementation of Bacillus subtilis LS 1-2to broiler diets on growth performance,nutrient retention,caecal microbiology and smallintestinalmorphology[J].Research in Veterinary Science,2011,93(1):264-268.  
+[23]曹华斌,郭剑英,苏荣胜,等.日粮铜来源及水平对肉鸡肝损伤的影响[J].动物营养学报,2010,22(1):39-45.  
+[24]梁明振,谢梅冬,梁贤威,等.高铜饲粮对生长育肥猪肌肉和肝脏组织的影响[J].家畜生态,2004,25(4):40-43.  
+[25]胡德朋,唐家毅,曹昱,等.枯草芽孢杆菌的分离鉴定及酶系分布的研究[J].水产科学,2008,27(2):86-88.  
+[26]FIORINI G,CIMMINIELLO C,CHIANESE R,et al.Bacilus subtilis selectively stimulatesthe synthesis of membrane bound and secreted IgA[J].Chemioterapia,1985,4(4):310-312.[27]ADAMI A,CAVAZZONI V.Occurrence of selected bacterial groups in the faeces of pigletsfed with Bacillus coagulans as probiotic[J].Journal of Basic Microbiology,1999,39(1):3-9.[28] 黄志坚,陈强,李清禄,等.不同形态铜源对仔猪生长性能、血液生化指标和粪铜排出量的影响[J].家畜生态学报,2007,28(1):32-35.  
+[29] 李卫芬,白洁,李雅丽,等.枯草芽孢杆菌对肉鸡肉品质、养分消化率及血清生化指标的影响[J].中国兽医学报,2014,34(10):1682-1685.
+
+Effects of Diet with Low Copper Level and Adding Bacillus subtilis on Intestinal Development, Microbial Community Structure and Serum Enzyme Activity of Wulong Geese Aged from 5 to 16 Weeks
+
+ZHANG Ming'aiYANG Wenjiao ZHANG ZenanWANG Baowei\*SHI XuepingYUE BinGE WenhuaZHENG Huiwen (Nutrition and Feed Laboratory of China Agriculture Research System Qingdao, Institute of High Quality Waterfowl, Qingdao Agricultural University, Qingdao 266109, China)
+
+Abstract: This experiment aimed to investigate the effects of diet with low copper level and adding Bacillus subtilis on intestinal development, microbial community structure and serum enzyme activity of Wulong geese aged from 5 to 16 weeks. A total of 360 twenty-nine-day-old Wulong geese were randomly divided into six groups with 6 replicates in each group and 10 geese in each replicate (half male and half female). Group I was the most suitable copper adding group (the copper added level was $1 6 ~ \mathrm { m g / k g }$ and without Bacillus subtilis),and groups I to VI were Bacillus subtilis adding groups, the Bacillus subtilis added level was all $2 5 0 ~ \mathrm { m g / k g }$ ,and the copper added levels were 0, 4,8,12 and $1 6 ~ \mathrm { m g / k g }$ ，respectively. The trial period was 12 weeks. The results showed as follows :1) the villus height and ratio of villus height to crypt depth (V/C) in jejunum of groups II to VI were significantly higher than those of group I $( P { < } 0 . 0 1 )$ ，and the crypt depth in jejunum was significantly lower than that of group I( $_ { \it P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ); the intestinal wall thickness in jejunum of group III， $\mathrm { \Delta V }$ and $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ was significantly higher than that of group I $( P { < } 0 . 0 5 )$ . There were no significant differences on villus height, intestinal wall thickness and V/C in jejunum among groups II to VI $( P { > } 0 . 0 5 )$ ; the crypt depth in jejunum of group II was significantly lower than that of groups $\mathrm { \Delta V }$ and $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ ? $( P { < } 0 . 0 5 )$ .2）The number of Escherichia coli in cecum of groups II to $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ was significantly lower than that of group I （204号 $( P { < } 0 . 0 1 )$ , and the number of Bifidobacterium and Lactobacillus in cecum was significantly higher than that of group I（ $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ or $P { < } 0 . 0 1$ ).There were no significant differences on the number of Escherichia coli, Bifidobacterium and Lactobacillus in cecum among groups II to VI $( P { > } 0 . 0 5 )$ ： 3） The serum alanine aminotransferase (ALT) activity of group $\mathrm { I V }$ was significantly lower than that of group I $( P { < } 0 . 0 5 )$ ，the activities of aspartate aminotransferase (AST） and lactate dehydrogenase (LDH) in serum of group $\mathrm { \Delta V }$ were significantly lower than those of group I $( P { < } 0 . 0 5 )$ ; the activities of ALT,AST and LDH in serum of group II had no significant difference compared with those in group I $_ { ( P > 0 . 0 5 ) }$ . The serum alkaline phosphatase (AKP) activity of group $\mathrm { I V }$ was significantly higher than that of group I $( P { < } 0 . 0 5 )$ , the serum AKP activity of group II was significantly lower than that of group I $( P { < } 0 . 0 5 )$ . In conclusion, diet with low copper level and adding Bacillus subtilis can promote the intestinal development, and optimize the microbial community structure of Wulong geese； copper had less influence on intestinal development and microbial community structure of geese. The suitable adding level of Bacilus subtilis and copper can maintain the health of the body,and mutual has synergistic effect.
+
+Key words: copper； Bacillus subtilis； geese；intestinal development; microbial communitystructure; enzyme activity

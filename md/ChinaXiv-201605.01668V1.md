@@ -1,0 +1,152 @@
+# 高速远紫外光子计数成像读出电路设计
+
+刘晓红1,2 王咏梅 王永松1
+
+1(中国科学院空间科学与应用研究中心北京 100190)
+
+2(中国科学院大学北京 100049)
+
+摘要远紫外光子计数成像探测技术通过探测微弱的单光子信息，记录每个单光子位置，在一定时间累积之后达到总体成像的目的.单光子的计数率限制着信息的获取，在分析影响计数率因素的基础上，需要设计前端模拟电路对探测器信号进行放大和整形，具体实现采用 A225芯片作为前置放大器，并设计相应的整形电路.仿真和实验结果表明，电路设计合理，计数率可达到 $2 0 0 \mathrm { k H z }$
+
+关键词远紫外,单光子成像,楔条形阳极,计数率中图分类号TP73
+
+# Design of High-speed Readout Circuit for Far Ultraviolet Photon-counting Imaging Detector
+
+LIU Xiaohong $^ { 1 , 2 }$ （20 WANG Yongmei1 WANG Yongsong $^ { 1 }$
+
+1(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190)
+
+2(UniversityofChineseAcademyofSciences,Beijing 1o0049)
+
+Abstract The technology of far ultraviolet photon-counting imaging detection is to record each single photon position and achieve the purpose of general imaging by detecting weak single photon information. The counting rate limits the information acquisition. On the basis of analyzing factors affecting the counting rate,the front-end analog circuit is needed for the amplification and shaping of the detector signals. Eventually, A225 chip was chosen as the pre-amplifier and shaping circuit was designed in the analog front-end circuit. Corresponding simulation and experimental results show that the circuit design is reasonable,and the counting rate can reach $2 0 0 \mathrm { k H z }$ ：
+
+Key wordsFar ultraviolet, Single photon imaging,Wedge and Strip Anodes (WSA), Counting rate
+
+# 0 引言
+
+气辉和极光是地球空间的自然发光现象，从其紫外波段的辐射特性可以获得大量有关电离层和磁层的信息[1]．通过对极光的远紫外发射光谱进行探测,能够得到高层大气的粒子成分和密度，实现对地球磁层与太阳风之间相互作用的监测，使得深入研究空间天气成为可能，
+
+空间远紫外辐射强度较弱，甚至呈现单光子状态，因此对远紫外光谱进行探测的过程中，为获取定量光谱信息，需要对单个光子进行计数和位置信息读取，而单一光子能够转换的电能有限，转换后信号的信噪比较差，因此需要对转换后的电能进行倍增．远紫外成像探测系统采用基于微通道板(MicrochannelPlate，MCP）的单光子计数成像方式对微弱光进行探测，同时采用楔条形阳极位置灵敏探测器感应光子位置信息.
+
+相比其他阳极，楔条形阳极（Wedge and StripAnodes，WSA）具有制作工艺容易实现、电子读出电路较简单、空间分辨率高等特点[2]．由于楔条形阳极位置灵敏探测器的最大计数率主要受限于电荷测量电路的信噪比要求[3]，而在给定的信噪比下，整形时间常数制约着脉冲处理时间，同时整形时间设定了模拟死时间，该时间内会发生光子事件堆积、测量不准确甚至事件丢失，最终影响计数率，
+
+本文介绍了远紫外单光子计数成像系统的构成和工作原理，详细描述了一种电子读出电路的设计，并提出一种高速电子读出系统，解决了脉冲堆叠造成的计数率低下问题，进一步从理论、仿真和实验三个方面验证了设计的可行性,结果表明计数率可达到 $2 0 0 \mathrm { k H z }$
+
+# 1远紫外单光子计数成像探测器
+
+远紫外单光子计数成像探测器使用基于MCP的楔条形阳极探测器，其能够对单个光子事件进行探测，一段时间后经过位置解码可以得到光子事件的位置.图1为单光子成像系统结构示意，其基本原理是，光子经过光学输入窗入射到MCP的阴极涂层上，发生光电效应激发产生光电子,光电子进入微通道板进行连续倍增，倍增后得到的电子云团由锗层收集，并通过电荷感应耦合到位敏阳极WSA上，进而由W，S,Z三个电极输出收集到的电荷信号.电子读出系统的主要作用是完成对WSA输出信号的采集，转换为便于系统处理的数字信号，然后根据WSA算法进行定位，存储定位结果，并按照一定周期根据具体通信协议将结果输入上位机.
+
+WSA属于连续型阳极，输出为连续变化的模拟量，通过其可以得到每次事件的位置.WSA通过在石英玻璃或者陶瓷基底镀上特定的金属电极图案来实现电荷分配，如图2所示，其包括三个电极：楔形（Wedge)、条纹（Strip）以及二者之间的之字形(Zigzag)，电极彼此间相互绝缘[4]．从图中可以看出，楔形图案在 $Y$ 轴方向宽度逐渐增大，条形图案在 $X$ 轴方向宽度逐渐增大，当电子云落在WSA上时，三个电极分别收集到一部分电荷量，电子云落在每个电极的电荷量分别表示为 $Q _ { \mathrm { W } }$ ， $Q _ { \mathrm { { S } } }$ 和 $Q _ { \mathrm { Z } }$ .根据每次事件位置的不同，可在电极上得到不同的电荷比例.相应电子云质心位置计算公式如下:
+
+$$
+\begin{array} { c } { { X = \displaystyle \frac { 2 Q _ { \mathrm { S } } } { Q _ { \mathrm { W } } + Q _ { \mathrm { S } } + Q _ { \mathrm { Z } } } ; } } \\ { { { } } } \\ { { Y = \displaystyle \frac { 2 Q _ { \mathrm { W } } } { Q _ { \mathrm { W } } + Q _ { \mathrm { S } } + Q _ { \mathrm { Z } } } . } } \end{array}
+$$
+
+Z-cascaded position sensitive 三 MCP Ge layer anode electronic read-out circuits charge cloud photocathode
+
+# 2电子读出电路
+
+电子读出电路由两部分组成，一部分是前端模拟信号处理环节，通过对电荷信号的放大和整形，实现信噪比以及计数率的提高;另一部分是高速信号采集环节，采用高速ADC将模拟信号转换为数字信号，通过FPGA实现数据采集、位置解码以及数据传输.
+
+由于前端模拟信号处理环节是实现读出系统功能的核心部分，因此这里以该环节作为分析的主要内容,其中前端电子读出系统包括三路电荷灵敏前置放大电路和脉冲整形电路，如图3所示.
+
+# 2.1 前置放大电路
+
+前端放大部分是辐射探测器信号处理链路的第一个环节，探测器产生的电荷由此收集并做进一步处理.尽管称为前置放大器 (前放)，事实上前放并不充当放大器角色，而是充当探测器和后续脉冲整形电路之间的一种接口.WSA输出的信号是连续的电荷脉冲信号，在保证信噪比的前提下，前置放大器提取探测器的输出信号，将其转换为便于后续处理的电压信号.因此前置放大器应尽可能放置在靠近探测器的位置，在实际设计中，前放安置于探测器腔体内，
+
+![](images/e6a205e85c6862dcf6a38c9e6b6dafa6eae830ab22875a38d84d07e092a8fa05.jpg)  
+图2WSA结构Fig.2Structure of WSA
+
+A225 H = cpole-ation amplifier lowpass 三 Jeeeeeen A225 == caole-zatron amplifier lowipass 1 一 A225 4 cpnle-Zatrion amplifier low pass preampl pulse shaping
+
+典型RC反馈电荷灵敏前放电路如图4(a)所示该电路中，为得到输出信号 $u _ { \mathrm { o } }$ 的电压值，需要进行以下考虑:
+
+(1)存储电荷产生的电压 $u _ { \mathrm { i } }$ 与输入电容 $C$ 的串 联来等效探测器阳极的输出电荷;
+
+(2)理想运放条件下,运放存在“虚短虚断”;
+
+(3)忽略电阻 $R _ { \mathrm { f } }$ 的泄放作用.
+
+综上可得
+
+$$
+\frac { u _ { \mathrm { o } } } { \frac { 1 } { \mathrm { j } \omega C _ { \mathrm { f } } } } = - \frac { u _ { \mathrm { i } } } { \frac { 1 } { \mathrm { j } \omega C } } ,
+$$
+
+简化为
+
+$$
+u _ { \mathrm { { o } } } = - { \frac { u _ { \mathrm { { i } } } C } { C _ { \mathrm { { f } } } } } = - { \frac { q } { C _ { \mathrm { { f } } } } } .
+$$
+
+由上述公式可知，探测器输出的电荷由反馈电容 $C _ { \mathrm { f } }$ 收集，随着电荷的收集，反馈电容上的电压增大并产生电压上的阶跃变化;输出电压与总积分电荷成一定比例,即输出脉冲高度与辐射作用存储的能量成比例关系.
+
+![](images/48d0178692e411af519228582b7adfb758bebfd0ea7da4fab042e53fab42e307.jpg)  
+图3前端电子读出系统组成  
+Fig.3Block diagram of the front-end electronic read-out system   
+图4典型电荷灵敏前放电路及相应信号模式 Fig.4Typical charge sensitive amplifier and corresponding signal mode
+
+然而这种典型电路有两个限制条件．一是计数率受限，图4(b)为电荷灵敏前放的输出脉冲模式，输出脉冲前端由收集电荷决定的上升时间很短，但是尾部衰减时间很长.普通计数率情况下，因为输出脉冲的重要信息在上升沿，后面的整形电路能够从每路脉冲的上升沿中提取脉冲幅度，因此较长的衰减时间不会产生严重问题，但当计数率过大时，前一个脉冲尾部还未来得及衰减到零点，下一个脉冲接踵而至，因此会造成脉冲堆积，随着脉冲的增多，偏移会越来越大，直至受到直流电源电压的限制，这决定了输出脉冲在没有畸变的情况下能承受的最大计数率.第二个限制条件是反馈电阻 $R _ { \mathrm { f } }$ 的热噪声问题，而减少热噪声的措施同时会导致新问题的引入，例如选择高阻值 $R _ { \mathrm { f } }$ 可以减少热噪声，但是简单增加 $R _ { \mathrm { f } }$ 会导致太大的时间常数，然而想要通过降低 $C _ { \mathrm { f } }$ 来保持时间常数又会影响前放的线性度.
+
+为实现高计数率！ $( \mathrm { { 2 0 0 k H z } ) }$ 并解决高计数率下的脉冲堆叠问题，需要尽可能减小脉冲拖尾使相邻事件分开，因此单个模拟信号的脉冲宽度需小于 $5 \mu \mathrm { s }$ ，对于该节的前端放大电路，这里采用AMPTEK公司生产的高性能低噪声电荷灵敏前置放大器A225芯片，该芯片体积、功耗、电源电压工作范围、灵敏度以及线性度均满足设计需求，A225芯片前置放大器输出信号脉冲宽度约 $5 \mu \mathrm { s }$ ，满足使用要求，如图5所示.
+
+由于A225内置的整形放大器部分脉冲宽度不满足使用要求，需要设计后续的整形电路部分.
+
+# 2.2 脉冲整形电路
+
+脉冲整形电路的作用是同时衰减低、高频噪声，使脉冲形状更便于分析，而高斯型脉冲顶部平坦，对峰值的时间抖动相对不敏感，并且后续WSA算法计算时采用的是各峰值的比例而非绝对幅值来得到粒子坐标位置，即使采样命令略有偏差，结果仍然能够准确[5]．因此系统需要对脉冲进行准高斯整形,需要同时使用CR和RC滤波器.设计内容包括由CR滤波器演变的极零相消电路、放大电路和多级RC积分电路.
+
+图6给出了普通CR滤波电路与极零相消电路的对比，前放输出的信号通过普通CR滤波电路会产生一个小幅度的非理想负脉冲，而极零相消电路利用拉普拉斯变换中整形电路传递函数上的零点来消除前级电路极点的方式来消除该负脉冲信号.使用极零相消电路的好处是在高计数率下改善峰型和能谱的分辨率[6].
+
+由于A225输出电压信号较小，后续RC滤波也会使电压信号进一步衰减，因此必须对信号进行幅度调节,因而需要设计电压放大电路，图7为电压串联负反馈放大电路.
+
+为使整形后形状接近准高斯波形，需要在一个单CR高通滤波器 (演变为极零相消电路）后接几个RC积分单元．本设计选用两级S-K低通滤波器 (见图 8),其结构简单，具有高输入阻抗和低输出阻抗.该滤波器用于脉冲信号的滤波整形时，在较少级数下可以得到较好的准高斯波形，
+
+![](images/0313c2819b5cad8aeca370dcf9f571020794655ec6aa75cf37309731e936395b.jpg)  
+图5A225前置放大器的输出信号Fig.5Output signal of A225
+
+# 3仿真与测试结果分析
+
+# 3.1 仿真结果
+
+这里采用Multisim仿真软件对设计的整形电路进行仿真．设计电路由上述极零相消电路、运算
+
+![](images/6c5d86ea4f3310e1a4009872bb0dc6cec704ed86639b0f98d24e1b9712baaceb.jpg)  
+图6普通CR 滤波电路与极零相消电路的对比 Fig.6Contrast of CR filter circuit and pole-zero cancellation circuit
+
+![](images/7850086f1a03b271bb50fb3fb20c164478b8cdcf3d04206d6497a4b510e22f76.jpg)  
+图7电压放大电路 Fig.7The voltage amplifier circuit
+
+![](images/6a6ba8dac80096112f8cfe2553de17257229ad8a1b3174e78ae8a58449fd415e.jpg)  
+图8S-K 低通滤波电路 Fig.8S-K low-pass filter circuit
+
+![](images/2a78319288105ba10cddbb4e3492ad1d7c449b75fb6e5f9d86e004d4f99ad9d2.jpg)  
+图9仿真波形对比.极零相消电路输入输出(a),运算放大电路输入输出(b),第一路 S-K 低通滤波电路输入输出（c)以及第二路 S-K 低通滤波电路输入输出 (d)
+
+Fig.9Simulation waveform of the shaping circuit: input and output signals of the pole-zero cancelltion circuit (a), input and the output signals of the amplifier circuit (b),input and output signals of the first low-pass filter circuit (c),input and output signals of the second low-pass filter circuit (d)
+
+![](images/6fb78ec228c1463476d74c99af898e66bd7fcd4b0a46c448bc44206de24de689.jpg)  
+图10（a）信号1为示波器给定的负脉冲信号，信号2为A225输出的电压信号;(b）信号1为滤除直流分量的 A225 输出电压信号，信号2为经过极零相消电路输出；(c)信号2为极零相消后的电压输出， 信号3为放大后的电压输出；(d)为WSZ三路整形输出
+
+Fig.10(a) Curve 1is the negative pulse signalfrom the osciloscope; Curve 2 is anoutput voltage signal from A25. (b) Curve 1 is an A225 output signal after filtering out the DC component; Curve 2 is an output signal from the pole-zero cancellation circuit. (c) Curve 2 is the output voltage after pole-zero cancellation; Curve 3 is the output signal after amplification.(d) is three shaped output signals of WSZ
+
+放大电路和两级S-K低通滤波电路组成，由于A225输出类似于指数波形，仿真时采用指数波形作为脉冲整形电路的输入，得到如图9所示的仿真波形！图 $9 ( \mathrm { a } ) \sim ( \mathrm { d } )$ 分别为极零相消电路输入输出、运算放大电路输入输出以及第一路和第二路S-K低通滤波电路输入输出的对比波形，可以看出整形输出为脉宽小于 $5 \mu \mathrm { s }$ 的准高斯波形，
+
+# 3.2 实测结果
+
+对制作的电路板进行实际测试，由信号发生器给出一个负脉冲信号，图10给出了示波器得到的一系列波形图，图10(a）为负脉冲信号经过A225前置放大器的输出波形，从图中可以看到有一定直流分量图10(b）为滤除直流分量后经过极零相消电路的波形，图10(c）为放大后的波形，图10(d）为三路同时经过整形电路得到的准高斯波形，从图中可以看出该波形的脉宽小于 $5 \mu \mathrm { s }$ ，因而计数率可以达到 $2 0 0 \mathrm { k H z }$
+
+前端模拟信号处理环节得到了便于处理的高斯波形，接着高速信号采集环节通过高速ADC对高斯波形进行采样,通过FPGA来实现峰值计算和WSA位置解码，并将结果存储起来送回PC机
+
+# 4结语
+
+介绍了远紫外光子计数成像探测器的结构和工作原理，研制了高计数率下的电子读出电路系统，从原理上分析了影响计数率的脉冲堆叠问题，最终选用A225芯片作为电荷灵敏前置放大器来解决脉冲堆叠问题,随后设计了脉冲整形电路.通过仿真以及实际测试，得到高斯波形的脉宽小于 $5 \mu \mathrm { s }$ ，保证计数率可达到 $2 0 0 \mathrm { k H z }$ ，验证了方案设计的可行性
+
+# 参考文献
+
+[1]Wang Yongmei,Fu Liping，Wang Yingjian. Review of space-based FUV aurora/airglow observations [J].Progr. Geophys.，2008,23(5):1474-1479．In Chinese (王咏梅，付 利平，王英鉴．星载远紫外极光/气辉探测发展综述[J].地球物 理学进展,2008,23(5):1474-1479)   
+[2] Liu Yongan, Zhao Baosheng, Zhu Xiangping,et al. Analysis and testing of wedge-and-strip anode detector characteristics[J].Acta Photon.Sin.,2009,38(4):750-755.In Chinese (刘永安，赵宝升，朱香平，等.楔条形阳极探测器的性 能测试与分析[J].光子学报，2009,38(4):750-755)   
+[3] Lapington J. Maximising position resolution for nearsimultaneous events with charge division readouts [J]. Nucl.Instrum.Meth.Phys.Res.A,2002,477(1):279- 286   
+[4] Lapington J S,Schwarz H E.The design and manufacture of wedge and strip anodes [J]. IEEE Trans.Nucl. Sci.,1986,33(1):288-92   
+[5] Goldsten J O,Humm D C,Paxton L J,et al.Performance of the wedge-and-strip microchannel plate detectors and electronics for the Global Ultraviolet Imager[C]//International Symposium on Optical Science, Engineering,and Instrumentation.Denver:International Society for Optics and Photonics,1999,SPIE 3765   
+[6] Grybos P,Idzik M,Swientek K,et al. Integrated charge sensitive amplifier with pole-zero cancellation circuit for high rates [C]//20o6 IEEE International Symposium on Circuits and Systems.New York:IEEE,2006:1997-2000

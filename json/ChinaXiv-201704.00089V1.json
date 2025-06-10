@@ -1,0 +1,272 @@
+[
+    {
+        "type": "text",
+        "text": "Brushing,a simple way to fabricate SERS active paper substrates ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Zhang,+ac Bowei Li,ta Lingxin Chen,\\*a Yunqing Wang,a Dingxue Gao,a Xuehua $M a ^ { \\mathrm { b } }$ and Aiguo Wu\\*b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asimple and facile method has been demonstrated to fabricate low-cost surface enhanced Raman scattering (SERS)active microfluidic paper chips using a painting brush.This strategy solves the problem of mass production of highly reproducible SERS substrates without complicated or bulky micro- or nanofabrication instruments. Rhodamine 6G (R6G) was chosen as a probe molecule to evaluate the performance of the SERS active chip.To further demonstrate the possibility of this method's potential application in environmental monitoring,trace malachite green (MG) was successfuly analyzed on this chip.The performance of our chips was desirable. The paper substrates with silver nanoparticles deposited by brush were found to be cost-effcient and highly sensitive (LOD for R6G and MG are 1 nM and $1 0 { \\mathsf { n } } M .$ respectively),and have good reproducibility $( \\sim 1 5 \\%$ relative standard deviation). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SERS is an excellent spectroscopy technique that can provide non-invasive detection,trace analysis and ultrasensitive determination.1-4 Since it was first observed by Fleischmann et al.in 1974, SERshas attracted much attention and has been applied to chemical and biological analysis,environmental monitoring and food safety.1 It is well-known that the two main mechanisms accounting for the origin of SERS are an electronic mechanism and a chemical mechanism.7 The enhancement factor (EF) is commonly up to 6-8 orders,but in some reports, the EF can be 14-15 orders,3,8,9 which makes the SERS detection limit down to the single molecular level. SERS active platforms are generally based on various metallic substrates,such as metal films,nanowires,nanoflowers and nanoshells etc.i0-14 To date,most SERS active substrates usually require complex microfabrication or nanofabrication15,16 by lithographic techniques such as electron beam lithography,focused ion beam (FIB) lithography and nanosphere lithography. However, the bulky and expensive equipment and long fabrication processes required is stilla challenge.Therefore, the key to expanding the application of SERs is to find a simple way to implement low cost fabrication of reproducible SERS substrates. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rapid development of microfluidics has gained a lot of attention.17-20 Moreover, increasing efforts have been invested into paper-based microfluidic investigations，because they represent a cheap and user-friendly way to realize simple operations,and are lightweight to transport and easy to use.In 2007,Whitesides's group proposed the concept of microfluidic paper analytical devices $( \\mu \\mathrm { P A D S } ) ^ { 2 1 - 2 3 }$ and the origin of this technique can be traced back to 1949,when Muller used a paraffin impregnation method to design channels.24 Due to their greatadvantages of low cost,prominent device portability and low sample consumption,a large number of techniques including colorimetric,electrochemical,chemiluminescence and biochemical analyses have been reported on these versatile paper-based microfluidic platforms,mainly focusing on pointof-care (POC),2,21,25biochemical tests26and environmental monitoring,1 etc.As a non-invasive,high specificity and sensitive technique,SERs has been introduced in the molecular analysis of ${ \\mu } \\mathrm { { P A D s } }$ .27-29 Because of the irregular stacking of the cellulose microfibers in paper,which has abundant fibrils and wrinkles,a noble metal layer could be deposited into a flexible plasmonic nanostructure containing large-area SERs “hot spots\".11 Furthermore,the capacity of fibers for absorption of nanoparticles also contributes to the formation of “hot spots” on the paper surface.Herein,the combination of SERS and paper-based microfluidics not only provides a facile method to fabricate highly reproducible and disposable SERS substrates but also reduces the detection limit of ${ \\mu } \\mathrm { { P A D s } }$ .White and Coworkers15,30,31 achieved highly sensitive SERS substrates using inkjet printing.Garnier and coworkers³² used gold nanoparticle-paper as a three-dimensional (3D) SERS substrate evaluated with 4-aminothiophenol,a common Raman molecule.Sun et al. fabricated SERS strips using physical vapor deposition coating.11 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An ideal SERS substrate should be reproducible and exhibit high SERS enhancement performance with a low cost.In this approach,we proposed a cheap and user-friendly technique as an alternative method to prototype SERS active paper-micro fluidic arrays on filter paper using a painting brush in some situations.With the aid of a brush,silver nanoparticles (AgNPs) were deposited onto designated areas of the paper to form SERS active regions. Our work demonstrated the ability to identify and semi-quantify trace Rhodamine 6G (R6G) and malachite green (MG).Furthermore,the performance,fabrication and physical characterization of our SERS active ${ \\mu } \\mathrm { { P A D s } }$ were also discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemicalsandmaterials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals used were of analytical grade. Silver nitrate $\\left( \\mathrm { { A g N O _ { 3 } } , \\ 9 9 . 8 \\% } \\right)$ and sodium hydroxide $\\left( \\mathrm { N a O H } , \\ 9 6 \\% \\right)$ were obtained from Sinopharm Chemical Reagent Co.Ltd,and hydroxylaminehydrochloride $\\left( \\mathbf { N H } _ { 2 } \\mathbf { O H } \\cdot \\mathbf { H C l } \\right.$ ， $9 8 . 5 \\%$ was purchased from Guangcheng Chemical Reagent Co.Ltd.R6G was obtained from Aladdin.All glassware was cleaned with aqua regia and doubly distilled water (Milli-Q, $1 8 \\ \\Omega \\ \\mathrm { c m } ^ { - 1 }$ resistance) prior to use. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Instrumentation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the AgNPs in the paper chip was charac terized by scanning electron microscopy (SEM) with a Hitachi4800 scanning electron microscope operated at an accelerating voltage of $5 ~ \\mathrm { k V }$ and a Malvern particle size analyzer (Zeta Sizer nano-zs9o).All SERS spectra were recorded by a DXR Raman microscope (Thermo Fisher,USA).A $6 3 2 . 8 ~ \\mathrm { { n m } }$ He:Ne gas laser was focused by a $1 0 \\times$ microscope objective with a power of $3 . 8 \\mathrm { \\ m W }$ .The estimated spectrum resolution of the DXR Raman microscope is $5 \\mathrm { c m } ^ { - 1 }$ (FWHM), with ${ } _ { 1 \\mu \\mathrm { m } x , y }$ spatial resolution and $2 \\mu \\mathrm { m }$ depth resolution.The exposure time was 4sand each of the signals was collected twice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesisof AgNPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AgNPs were synthesized by reducing silver nitrate with hydroxylamine hydrochloride according to Leopold's method with slight modifications.33 Briefly, $1 \\ \\mathrm { m L }$ of NaOH solution $( 0 . 3 \\textbf { M } )$ was added to $8 9 { \\mathrm { ~ m L } }$ of hydroxylamine hydrochloride solution under stirring,and then $1 0 ~ \\mathrm { m L }$ of $_ { 0 . 0 1 \\mathbf { M } }$ silver nitrate was slowly added to the above solution drop by drop and the solution turned pale yellow. Subsequently,the solution was continuously stirred for another one hour.The obtained colloids were stored at room temperature.SEM and Uv/vis spectroscopy were used to characterize the dispersity and particle size of the colloids.The particle size was measured using a Malvern particle size analyzer and the statistic hydration particle size was estimated to be about $6 1 ~ \\mathrm { { n m } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Operational procedure for depositing AgNPs by brush ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To gethigher SERS signals,AgNPs were centrifuged at $7 0 0 0 \\mathrm { r p m }$ to concentrate the colloids,and $9 5 \\%$ of the supernatant was removed.The final concentration of AgNPs was about $2 0 ~ \\mathrm { m M }$ .A No.8 gouache brush,which was supplied by Qingdao Meteor Stationery Co.Ltd,was used as the painting brush.First, the bristles of the gouache brush were immersed into the colloid solution,which was under magnetic stirring,for 5 s.Then the brush was used to brush AgNPs lightly onto the designed region (the rectangle in Fig.1C) of the microfluidic paper.The brush directionwas forwardlyvertical to thechannel and the brush region was in the middle of the rectangle covering four detec tion reservoirs.When the paper chip was dried,it was then brushed fora second time in the counter direction of the first time in order to obtaina uniformity of nanoparticle deposition. The brush action should be very soft and the main reasons for this are:(1) it can effectively deposit the AgNPs and avoid damage of the chip surface,and (2) because the brushing force wasrelatively light and the hydrophilic bristles were also soft, different operators could easily obtain similardepositing effects without obvious differences (as detailed in the subsequent discussion). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We firstly provided a very simple and robust way to deposit AgNPs onto paper surfaces using only a common painting brush.A schematic diagram of fabricating SERS active microfluidic paper is illustrated in Fig.1. The chip design was implemented with drawing software (Adobe Illustrator) and then directly printed onto filter paper (Whatman chromatography No.1 paper，GE） by a wax printer (XEROX Phaser 8560DN).After 20 seconds of wax melting at $1 5 0 ~ ^ { \\circ } \\mathbf { C } _ { \\mathrm { { i } } }$ ，the wax penetrated into the paper and could block the flow of analytes. The diameter of the detectionarea was $4 . 5 \\ : \\mathrm { m m }$ ,while that of the analyte introducing reservoir was $2 . 5 \\ : \\mathrm { m m }$ (displayed in Fig.1C). The painting brush,a No.8 gouache brush that could be obtained in usual shops,was about $2 1 \\mathrm { \\ c m }$ long，and the paintingbrush had a bristle width of $1 0 \\mathrm { m m }$ ,which fit over two detection areas with a $1 \\mathrm { m m }$ gap between them.The reason why we chose a gouache brush was that it had preferably soft and hydrophilic bristles，which could absorb AgNPs better.Four detection pools were composed of two parallel groups that could be evenly brushed according to the one forward direction brush and one backward direction brush routine during two cycles.Therefore,the AgNPs were uniformly deposited onto the paper.As illustrated in Fig.1C,the four circles in the white rectangle were the detection areas,and the other four circles outside of the white rectangle were analyte reservoirs that connect to the detection pools through flowing channels. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ae0ccb94606d176936badc65a497ab1c64dd44851bdf4d24a746b9f04a261ec.jpg",
+        "img_caption": [
+            "Fig.1(A) Schematic diagram of using a painting brush to fabricate low-cost SERS active microfluidic paper chips.(B) Pictures of the raw chip,the chip deposited with AgNPs,and the chip deposited with AgNPs when R6G was introduced,respectively (from left to right). (C) The diameter of the detection area of the designed chip was $4 . 5 \\mathsf { m m }$ while the diameter of the sample introducing reservoir was $2 . 5 ~ \\mathsf { m m }$ The dimensions of the channel were $1 . 8 ~ \\mathsf { m m }$ wide and $3 \\mathsf { m m }$ long. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/762f74e94fc4a37126b0f7b8df6392cc260fa5c370fc8b942eb486ef2b7b09a3.jpg",
+        "img_caption": [
+            "Fig.2(A and B) SEM images of the microfluidic paper chip and an enlarged portion.The scale bars of the original SEM image and the enlarged one are 20 and $4 \\mu \\mathrm { m } .$ ：respectively.(C) The SERS effect with different numbers of depositing cycles with the brush for the investigation of the intensity of the SERS spectra that were obtained from $\\bar { 1 } . 0 \\times 1 0 ^ { - 6 } \\mathsf { M }$ R6G $( n = 4 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbc29aa36130ef5910a55919b14cc24eb99528230909916899c3240a3148493b.jpg",
+        "img_caption": [
+            "Fig.3(A) An illustrated picture of the inner and outer rings of the detection area $( D = 4 . 5 ~ \\mathsf { m m } )$ to further study the uniformity of AgNP deposition by brushing.The diameter of the inner ring was $1 . 5 \\mathsf { m m }$ (B) SEM pictures of the AgNPs deposited on the inner and outer ring areas. (C) The Raman spectra of 15 points randomly selected from the inner (gray)and outer (yellow) rings obtained byanalyzing $1 . 0 \\times 1 0 ^ { - 6 } { \\sf M }$ R6G. The RSDs for the inner ring and outer ring were $1 3 . 7 \\%$ and $1 4 . 4 \\%$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/789a8382ee2063d3fdd8a1fb7fb2b8cdca953368d3df353a12f01a084577b0e7.jpg",
+        "img_caption": [
+            "Fig.4(A) Raman spectra of different concentrations of R6G.The R6G concentrations were $1 . 0 \\times 1 0 ^ { - 9 }$ $1 . 0 \\times 1 0 ^ { - 8 }$ $1 . 0 \\times 1 0 ^ { - 7 } .$ $1 . 0 \\times 1 0 ^ { - 6 } ,$ （204号 and $5 . 0 \\times 1 0 ^ { - 6 } M$ .(B)The plot of the concentration vs. $1 3 6 0 \\mathsf { c m } ^ { - 1 }$ peak intensity $( n = 4 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The filter paper used in this study was almost completely composed of alpha-cellulose according to previous studies,2,32 which ensured minimal interference between the process components such as polymers and coatings.It is also wellknown that the cellulose fibers of filter paper consist of wood cells that are several millimeters long,and one to tens of micrometers wide.11 All of these structures contributed to the fact that AgNPs could be absorbed on the surface of the filter paper within a short time and then aggregated to form“hot spots”during the detection process.From Fig.2A and B,it is also easy to see that there are many nanoclusters distributed on the surface of the filter paper,which are beneficial to forming the “hot spots”effect.Hence,paper has been applied in SERS substrates with bright prospects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ca7436e9bd939cbd997714eaee12cf0845594be62f77ce1a27a4aa4202367dd.jpg",
+        "img_caption": [
+            "Fig.5 (A) Raman spectra of $5 . 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ M ~ }$ R6G from 20 deposited SERS active chips $( n = 2 0 )$ . The RSD was $1 3 . 4 \\%$ (B) The average Raman intensities of $5 . 0 \\times 1 0 ^ { - 6 } \\mathsf { M }$ R6G from five SERS active chips made by four different people,including two men and two women.The RSD for the different people was $14 . 5 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate the SERs detection capability of the chips, R6G was chosen as the probe molecule. $1 0 ~ \\mu \\mathrm { L }$ ofanalytewas firstly introduced into the sample reservoir by micropipette. Then the sample solution quickly flowed into the detection area along the channel by means of capillary force.After the paper was dried completely，SERS measurements were performed. When we brushed the AgNPs onto the paper,it was worth considering whether there was any variability in deposition between the center and edge of the sensing area during the brush stroking.In order to prove this,the detection area $( D =$ $4 . 5 ~ \\mathrm { m m }$ )was divided into two parts,the inner and outer rings (as shown in Fig.3A). The inner ring diameter was $1 . 5 ~ \\mathrm { m m }$ . 15 points were randomly selected to collect the Raman spectra in the inner and outer ring areas,respectively.As displayed in Fig.3C,the relative standard deviations (RsDs) of the Raman intensity of $1 . 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ M ~ }$ R6G for the inner ring and outer ring were $1 3 . 7 \\%$ and $1 4 . 4 \\%$ $( n = 1 5$ ）aftercalculation,respectively. The results implied that there were no obvious differences in AgNPdeposition between the outer and inner ring areaswhen AgNPs were brushed on. The SEM images (Fig.3B) were in agreementwith thisresult. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Each detection region was determined four times repeatedly, and the average value was the Raman intensity of the detection region. Fig. 4A showsthe SERS spectra of different concentrations of R6G varying from $1 . 0 \\times { { 1 0 } ^ { - 9 } }$ to $5 . 0 \\times 1 0 ^ { - 6 } \\mathbf { M } .$ From the spectra, the characteristic peaks of R6G at $6 1 0 ~ \\mathrm { c m } ^ { - 1 }$ $1 3 6 0 ~ \\mathrm { c m } ^ { - 1 }$ ， $1 5 1 0 ~ \\mathrm { c m } ^ { - 1 }$ and $1 6 5 0 ~ \\mathrm { c m } ^ { - 1 }$ can be easily found, which correspond toone $\\scriptstyle \\mathbf { C - C - C }$ ring bending vibration $( 6 1 0 ~ \\mathrm { c m } ^ { - 1 } )$ and three aromatic $\\scriptstyle \\mathbf { C - C }$ stretching modes (1360 $\\mathrm { c m } ^ { - 1 }$ ， $1 5 1 0 ~ \\mathrm { c m } ^ { - 1 }$ ，and $1 6 5 0 ~ \\mathrm { { c m } ^ { - 1 } } ,$ , respectively.34 The Raman band at $1 3 6 0 ~ \\mathrm { c m } ^ { - 1 }$ was the most prominent one and so this was selected as a typical peak for the analysis of R6G.As illustrated, even at R6G concentrations down to $1 \\mathrm { n M }$ ,SERS signals could be identified clearly,which was indicative of the excellent enhancement of ourchips.Furthermore,in order to obtain an ideal performance of the chips,the optimal number of depositing cycles was investigated.As seen from Fig.2C,the SERS intensity and the chip homogeneity were enhanced with the increase of brushing cycles because of the improvement of the amount and uniformity of AgNPs deposited on the chip.When the number of brushing cycles was increased to 14,the signal strength reached a plateau.Moreover,compared with other numbers of depositing cycles,14 cycles gave the lowest RSD $\\left( 1 4 . 2 \\% \\right)$ . Hence,from the view point of eficiency and chip homogeneity,the optimal number of depositing cycles was selected as 14.In addition,although there were some inherent defects in the filter paper,mainly coming from its irregular structure,the lower RSD had also proved that brushing SERS active microfluidic paper chips was noteworthy because of its simple fabrication and good reproducibility.Because paper has some background interference for R6G,Fig.4B depicts the plot of the intensity of the $1 3 6 0 ~ \\mathrm { c m } ^ { - 1 }$ band with different R6G concentrations after removing the paper's background.This showed a monotonic increase of the Raman intensity with R6G concentration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/00a7bb306f5a6eb690047bf164f12cf3a728fd0597c9cc4defd2aef38e8a2de8.jpg",
+        "img_caption": [
+            "Fig.6(A) Raman spectra of different concentrations of MG.The MG concentrations were $1 . 0 \\times 1 0 ^ { - 8 }$ $5 . 0 \\times 1 0 ^ { - 8 }$ $1 . 0 \\times 1 0 ^ { - 7 } .$ $2 . 0 \\times 1 0 ^ { - 7 }$ $5 . 0 ~ \\times ~ 1 0 ^ { - 7 }$ $1 . 0 ~ \\times ~ 1 0 ^ { - 6 }$ and $2 . 0 ~ \\times ~ 1 0 ^ { - 6 } ~ \\mathsf { M }$ 、(B) The plot of the concentration vs. $1 6 1 6 \\mathsf { c m } ^ { - 1 }$ peak intensity $( n = 4 )$ .The inset shows the quantitative calibration curve of different MG concentrations $( 5 . 0 \\times$ $1 0 ^ { - 8 }$ $1 . 0 \\times 1 0 ^ { - 7 }$ 5 $2 . 0 \\times 1 0 ^ { - 7 }$ $5 . 0 \\times 1 0 ^ { - 7 } ,$ （20 $1 . 0 \\times 1 0 ^ { - 6 } ~ \\mathsf { M } )$ .The linear equation was $y = 1 . 4 4 2 x + 1 3 9 . 4$ $( R ^ { 2 } = 0 . 9 7 ,$ （20 $n = 4 .$ 一： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/45626eb2801d9d31499f5e75365ab0c5ea167007a7abc00e72bae517f02bb8c5.jpg",
+        "table_caption": [
+            "Table1The recovery of spiked MG in local lake water.The standard deviation of the samples was detected using three measurements "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Added (nM)</td><td>Detected (nM)</td><td>RSD (%)</td><td>Recovery (%)</td></tr><tr><td>1</td><td>800</td><td>868.63</td><td>9.15</td><td>108.58</td></tr><tr><td>2</td><td>300</td><td>267.57</td><td>14.40</td><td>89.19</td></tr><tr><td>3</td><td>100</td><td>91.60</td><td>12.17</td><td>91.60</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The SERS enhancement factor of our chip was calculated by comparing the acquired signals from the chip with and without AgNPs.For a $1 0 \\ \\mathrm { m M }$ R6G solution without the SERS enhancement effect, the obtained SERS signal $( n = 4 )$ at $1 3 6 0 ~ \\mathrm { c m } ^ { - 1 }$ was approximately equal to the signal gained from $4 . 5 \\times 1 0 ^ { - 1 0 } \\mathrm { ~ M ~ }$ R6G on the chip with AgNPs.Furthermore,the analytical SERS enhancement factor can be calculated using the following equation: $\\mathrm { E F } = \\left( { I _ { \\mathrm { S E R S } } } / { I _ { \\mathrm { s } } } \\right) \\times \\left( { C _ { \\mathrm { s } } } / { C _ { \\mathrm { S E R S } } } \\right)$ ，where $C _ { \\mathrm { s } }$ is the concentration of the analyte solution that produces a spontaneous Raman signal, and $C _ { \\mathrm { S E R S } }$ represents the concentration of analyte that was analyzed on a SERS active paper chip. The $I _ { s }$ and $I _ { \\mathrm { S E R S } }$ indicate their Raman signals under the above experimental conditions,respectively.Therefore,the enhancement factor could be calculated as $2 . 2 \\times 1 0 ^ { 7 }$ ,which was in agreement with previous literature.15,35 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.5A,in order to further prove the repro ducibility,we obtained SERS signals from 2O different SERS active chips deposited with AgNPs and the analyzing concentration of R6G was $5 . 0 \\times 1 0 ^ { - 6 } \\mathbf { M }$ No significant difference could be observed between the 2o different fabricated chips and the standard deviation was $1 3 . 4 \\%$ . Furthermore,to prove that our method has universal usability and is accessible to end users, we also studied the brushing effects by different people.Four non-skilled people were selected to brush the SERS active chips individually according to our standard procedure.Every person fabricated 5 SERSactive chips.Fig.5B shows the Raman spectra of $5 . 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ M ~ R ~ }$ 6G from the chips $( n = 5 )$ fabricated by two men and two women.The standard deviationof the4different people was only $1 4 . 5 \\%$ ,which was similar to the result with the same person $\\left( 1 3 . 4 \\% \\right)$ and proved that this method was robust and user-friendly.The standard deviation of the total collective data (4 persons,every person repeated 5 times) was $1 5 . 0 \\%$ Consequently， accordingtothedepositingprocedure mentioned above,the operators could feasibly use this technique and obtain satisfactory results without specific skill training. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MG is a kind of shiny metal green crystal belonging to the cationic triphenylmethane dyes. As a fungicide and preservative，MG has been widely used in industry.However, because its genotoxic and carcinogenic effects,MG was classified under category C.III by FAO/WHO.3 Nevertheless,some unscrupulous producers are still using MG in order to reduce the cost of aquaculture.A cheap,fast and sensitive analysis method for detecting trace amounts of MG is urgently needed.Considering these circumstances,we extended our chips to application in MG determination.A series of different concentrations of MG were investigated and their concentrations were $1 . 0 \\times { { 1 0 } ^ { - 8 } }$ ， $5 . 0 \\times { { 1 0 } ^ { - 8 } }$ $1 . 0 \\times { { 1 0 } ^ { - 7 } }$ $2 . 0 \\times$ ${ { 1 0 } ^ { - 7 } }$ 5 $5 . 0 \\times 1 0 ^ { - 7 }$ ， $1 . 0 \\times { { 1 0 } ^ { - 6 } }$ and $2 . 0 \\times 1 0 ^ { - 6 } \\mathrm { ~ M ~ }$ ,respectively. The SERS signals from 4 different SERS active chips and the corresponding Raman curves,based on the variations in the peak area,are illustrated in Fig.6A.According to previous reports,6 we chose $1 6 1 6 ~ \\mathrm { { c m } ^ { - 1 } }$ as the characteristic Raman peak of MG because the background interference was mainly around $1 3 6 0 ~ \\mathrm { c m } ^ { - 1 }$ . The plot of the Raman intensity of the $1 6 1 6 ~ \\mathrm { { c m } ^ { - 1 } }$ band corresponding to the concentration of MG increased monotonically (Fig.6B),and the spectrum of $1 0 \\mathrm { n M }$ MG could be easily detected.Furthermore,from the insert diagraminFig.6B,we could find that the Raman intensity of MG had a good linear relationship $\\left( R ^ { 2 } \\ = \\ 0 . 9 7 \\right)$ with the concentration of MG from $5 0 \\mathrm { n M }$ to $1 0 0 0 { \\mathrm { n M } }$ .TheSERSactive chips were also tested by standard addition and the recovery of spiked MG ranges from $8 9 . 1 9 \\%$ to $1 0 8 . 5 8 \\%$ (Table1).This indicated that our chips could be applicable to the quantification of MG in practical samples.The proposed method makes it easily accessible to end-users,without performing other complicated fabrication steps. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this paper,a simple，robust and low-cost fabrication technique for SERs substrates was proposed through depositing silver nanoparticles on the surface of filter paper by brushing.Compared with previous methods,the fabrication of our SERS active substrates didn't need expensive equipment and tedious procedures.Rapid mass production could produce approximately15o chips perhour. The RSDs were below $1 5 \\%$ on different papers or at different deposition locations,which indicated good reproducibility for the presented approach.Furthermore,by taking advantage of the excellent Raman enhancement of our substrates, trace amounts Rhodamine 6G and malachite green were successfully analyzed on the paper chips,and the results of recovery experiments of spiked MG in local lake water were satisfactory.Combining paper's attractive characteristics of lightweight and simplicity,this robust and feasible method will be a potential candidate implemented in various chemical and environmental pollutant sensing applications. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Natural Science Foundation of China (grant no.21205131,21275158), the Program of Zhejiang Provincial Natural Science Foundation of China (grant no.R511023o)，the Science and Technology Development Plan of Yantai (2011071) and the 10o Talents Program of the Chinese Academy of Sciences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 (a) Y.Q.Wang, B. Yan and L. X. Chen, Chem. Rev.,2013,113, 1391-1428; (b) J. F. Li, Y. F. Huang, Y. Ding, Z. L. Yang, S. B.Li, X. S.Zhou,F. R. Fan,W. Zhang,Z. Y. Zhou, D.Y. Wu, B. Ren, Z. L. Wang and Z.Q. Tian,Nature,2010, 464,392-395.   \n2 K.Kneipp,Y. Wang,H. Kneipp,L. T. Perelman,I. Itzkan, R. R. Dasari and M. S.Feld,Phys. Rev. Lett.,1997,78,1667- 1670.   \n3 S.M. Nie and S.R.Emery,Science,1997,275,1102-1106.   \n4 S.Abalde-Cela, S.Ho,B.Rodriguez-Gonzalez,M.A. CorreaDuarte，R. A. Alvarez-Puebla，L. M. Liz-Marzan and N.A. Kotov,Angew. Chem., Int. Ed.,2009,121,5430-5433.   \n5 M. Fleischmann, P. Hendra and A. McQuillan, Chem. Phys. Lett.,1974,26,163-166.   \n6 K.Kneipp,H. Kneipp and J. Kneipp,Acc. Chem. Res.,2006, 39,443-450.   \n7 J. Li，L. Chen，T. Lou and Y. Wang，ACS Appl. Mater. Interfaces,2011,3,3936-3941.   \n8 L. Chen and J. Choo,Electrophoresis,2008,29,1815-1828.   \n9 M. Fan, G.F. Andrade and A. G. Brolo,Anal. Chim. Acta, 2011, 693,7-25.   \n10 I. Yoon，T. Kang,W.Choi, J. Kim，Y. Yoo，S. W. Jo0, Q.H.Park,H. Ihee and B. Kim, J.Am. Chem. Soc.,2009, 131, 758-762.   \n11 R. Zhang, B. B. Xu, X. Q. Liu, Y. L. Zhang, Y. Xu, Q. D. Chen and H.B. Sun, Chem. Commun.,2012,48, 5913-5915.   \n12 W. J. Cho,Y. Kim and J. K. Kim,ACS Nano,2012,6, 249-255.   \n13 Y. Yang, Z. Y. Li, K. Yamaguchi,M. Tanemura, Z. Huang, D. Jiang,Y. Chen, F. Zhou and M. Nogami， Nanoscale, 2012,4,2663-2669.   \n14 J. Zhou,K. Ren, Y. Zhao,W. Dai and H.Wu,Anal. Bioanal. Chem.,2012,402,1601-1609.   \n15W.Y.Wei andI.M.White,Anal.Chem.,2010,82,9626.   \n16 K. S.L. Moonkwon Lee,K.H. Kim, K.W. Oh and J. Choo, Lab Chip,2012,12,3720-3727.   \n17 G.M. Whitesides,Nature,2006,442,368-373.   \n18 B. Li, L. Jiang, Q. Wang, J. Qin and B. Lin, Electrophoresis, 2008,29,4906-4913.   \n19 B.Li,L.Fu,W. Zhang,W.Feng and L.Chen,Electrophoresis, 2014,DOI: 10.1002/elps.201300583.   \n20 A.Arora,G. Simone,G.B. Salieb-Beugelaar, J. T.Kim and A.Manz,Anal. Chem.,2010,82,4830-4847.   \n21 X. Li, D.R. Ballerini and W. Shen, Biomicrofluidics, 2012,6, 011301.   \n22 A.W. Martinez， S.T. Phillips， M.J. Butte and G.M.Whitesides,Angew. Chem.,Int.Ed.,2007,46,1318- 1320.   \n23H.Liu and R.M. Crooks,J.Am. Chem. Soc.,2011,133,17564- 17566.   \n24 R.H. Muller and D.L. Clegg,Anal. Chem.,1949,21,1123- 1125.   \n25 A.W.Martinez,S.T.Phillips,B.J.Wiley,M.Gupta and G. M. Whitesides,Lab Chip,2008,8, 2146-2150.   \n26 L. Ge,S.Wang, X. Song, S. Ge and J. Yu,Lab Chip,2012,12, 3150-3158.   \n27 L.L. Qu, D.W. Li, J.Q. Xue,W. L. Zhai, J. S.Fossey and Y.T.Long,Lab Chip,2012,12,876-881.   \n28 L. L. Qu, Q. X. Song, Y. T. Li, M. P. Peng, D. W. Li,L. X. Chen, J. S.Fossey and Y. T. Long,Anal. Chim. Acta, 2013,792, 86- 92.   \n29 A.Abba,A. Brimer, J. M. Slocik,L. M. Tian,R.R.Naik and S. Singamaneni,Anal. Chem.,2013,85,3977-3983.   \n30W.W.Yu andI.M.White,Analyst,2013,138,1020-1025.   \n31 W.W. Yu and I. M. White,Analyst,2013,138,3679- 3686.   \n32 Y.H. Ngo,D.Li, G.P. Simon and G.Garnier,Langmuir, 2012, 28,8782-8790.   \n33 N.Leopold and B.Lendl,J. Phys. Chem.B,2003,107,5723- 5727.   \n34 P.Hildebrandt and M. Stockburger,J.Phys. Chem.,1984,88, 5935-5944.   \n35 B.Li, W. Zhang,L.Chen and B.Lin,Electrophoresis,2013,34, 2162-2168.   \n36 S. Lee,J. Choi,L. Chen,B. Park, J. B. Kyong, G. H. Seong, J. Choo，Y. Lee，K.-H. Shin，E. K. Lee，S.-W. Joo and K.-H. Lee,Anal. Chim. Acta,2007,590,139-144.   \n37 B.Bose,L.Motiwale and K. Rao, Cancer Lett.,2005,230,260- 270. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

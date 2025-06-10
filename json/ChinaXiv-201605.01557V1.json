@@ -1,0 +1,279 @@
+[
+    {
+        "type": "text",
+        "text": "A TWO-RIBBON WHITE-LIGHT FLARE ASSOCIATED WITH A FAILED SOLAR ERUPTION OBSERVED BYONSET,SDO,ANDIRIS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X. CHENG $^ { 1 , 2 , 3 }$ ,Q. HAO $^ { 1 , 3 }$ ，M. D. DING $^ { 1 , 3 }$ ,K. LIU $^ 4$ ,P.F. CHEN $^ { 1 , 3 }$ ,C.FANG $^ { 1 , 3 }$ ,& Y.D. LIU $^ 2$ （204号 1School of Astronomy and Space Science,Nanjing University,Nanjing 210093, China 2State Key Laboratory of Space Weather,Chinese Academy of Sciences, Beijing 100190, China （204号 $^ 3$ KeyLaboratorfordeAstronyandAstrophics(ajinUivesitynistryofEducationjin,iand 4Key Laboratory of Geospace Environment,Universityof Science and Technology of China,Hefei 230026,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two-ribbon brightenings are one of the most remarkable characteristics of an eruptive solar fare and are often used for predicting the occurrence of coronal mass ejections (CMEs). Nevertheless, it was called in question recently whether all two-ribbon fares are eruptive.In this paper,we investigate a two ribbon-like white-light (WL) fare that is associated with a failed magnetic fux rope (MFR) eruption on 2015 January 13, which has no accompanying CME in the WL coronagraph. Observations by Optical and Near-infrared Solar Eruption Tracer and Solar Dynamics Obseruatory reveal that, with the increase of the flare emission and the acceleration of the unsuccessfully erupting MFR,two isolated kernels appear at the WL 360o A passband and quickly develop into two elongated ribbon-like structures. The evolution of the WL continuum enhancement is completely coincident in time with the variation of Fermi hard X-ray 26-50 keV flux. Increase of continuum emission is also clearly visible at the whole FUV and NUV passbands observed by Interface Region Imaging Spectrograph. Moreover,in one WL kernel,the Si IV,C I,and Mg IIh/k lines display significant enhancement and non-thermal broadening. However,their Doppler velocity pattern is location-dependent.At the strongly bright pixels,these lines exhibit a blueshift；while at moderately bright ones,the lines are generally redshifted.These results show that the failed MFR eruption is also able to produce a tworibbon flare and high-energy electrons that heat the lower atmosphere,causing the enhancement of the WL and FUV/NUV continuum emissions and chromospheric evaporation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subject headings: Sun: fares - Sun: photosphere - Sun: transition region - Sun: UV radiation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solar flares are one of the most energetic phenomena that take place in the solar atmosphere. The induced emission displays a sudden and rapid increase over the whole electromagnetic spectrum from decameter radio waves to $\\gamma$ rays at 100 MeV (Benz 2008). In the standard flare model (Sturrock 1966; Hirayama 1974; Kopp & Pneuman 1976),magnetic reconnection is believed to be a fundamental energy release mechanism and is capable of efficiently converting magnetic free energy stored in the corona into thermal energy, kinematic energy, and particles acceleration (Priest & Forbes 2002). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Magnetic flux rope (MFR),a set of magnetic field lines wrapping around its central axis,is another important structural component in reconnection-involved eruption scenario (Cheng et al. 2O11b). This kind of helically coherent magnetic structure may exist prior to the eruption as seen in the high-temperature passbands of the Atmospheric Imaging Assembly (AIA;Lemen et al. 2012）on board Solar Dynamics Observatory (SDO;Zhang et al. 2012; Cheng et al. 2013a; Patsourakos et al. 2013; Li & Zhang 2013a,b; Chen et al. 2014; Yang et al. 2014; Song et al. 2O15). The rapid eruption of the MFR drives the formation of a coronal mass ejection (CME), facilitating and in turn being promoted by the fast flare reconnection (Cheng et al. 2013a,b). The newly reconnected field lines initially manifest as a cusp-shaped structure and subsequently shrink into flare loops.During the flare process, electrons are also accelerated and then quickly stream down along the flare loops,heating the chromosphere and producing enhanced flare emission at the footpoints that form two elongated ribbons if the reconnection develops above a sequence of flare arcades (Forbes & Priest 1995). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If flares are strong enough,continuum emissions at the visible wavelengths may present an enhancement. This kind of flares is also called white-light flares (WLFs; Svestka 1966; Neidig et al. 1993; Fang & Ding 1995). Machado et al. (1986) classified all WLFs into two different types (I and II).For the type I WLFs,the WL emission coincides temporally with the peak of the hard X-ray (HXR) emission,and the Balmer lines are very broad (e.g., Fang & Ding 1995); while for the type II WLFs, the situation is different (Ding et al. 1999a,b). Recent studies further reveal that the WL brightening in the type I WLFs often appears as discrete kernels and displays the characteristics:(1)the locations of the WL kernels are cospatial with those of the HXR sources (Hudson et al. 1992; Metcalf et al. 2003; Chen & Ding 2005，2006; Jess et al. 2008; Krucker et al. 2011; Kerr & Fletcher 2014),and (2) the source size of the WL kernels gradually decreases with the increase of the atmospheric depth (Xu et al. 2012). These results suggest that the WL emission enhancement of type I WLFs is associated with energetic electrons that heat the chromosphere directly and the photosphere indirectly through radiative backwarming (Ding et al. 2003). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is thought that in most cases, two-ribbon flares are closely associated with the successful eruption of MFRs (Chen 2O11).Nevertheless,it is recently noticed that a failed MFR eruption is also able to produce a two-ribbon flare,whose characteristics are qualitatively similar to that of CME-associated flares.However,it is still unclear how much quantitative difference,in particular in the WL emission,exists in these two kinds of flares.Here, we investigate a CME-less flare that shows a continuum enhancement in the 36oo A passband.In Sections 2 and 3,we display observations of the failed eruption of the MFR and the two-ribbon flare in WL,respectively. In Section 4,we present the spectroscopic features of a flare kernel. Summary and discussion are given in Section 5. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e75f283733ce646c0971ab4caded02823d548cb82c2768ef1fa7627ef7432c8.jpg",
+        "table_caption": [
+            "TABLE1 CAPABILITIES OF INSTRUMENTS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Telescope</td><td>Spatial resolution</td><td></td><td>Cadence [s]</td><td>Wavelength coverage [A]</td><td>Spectral resolution [km s-1]</td></tr><tr><td>ONSET</td><td>[] 1.0</td><td></td><td>20</td><td>10830,6563,3600,and 4250</td><td>-</td></tr><tr><td>SDO-AIA</td><td>1.2</td><td></td><td>12</td><td>131, 94,335,193,211,171,304,1600,1700,4500</td><td>-</td></tr><tr><td>SDO-HMI</td><td>1.0</td><td></td><td>45</td><td>6173</td><td>1</td></tr><tr><td>IRIS</td><td>0.4</td><td></td><td>10</td><td>1332-1358,1389-1407,and 2783-2835</td><td>1</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7696b8dae6c30f9c6d28db11191bcc97f7c3b0af30128f4057c27f4bd15d39f6.jpg",
+        "img_caption": [
+            "FIG.1.— (a) GOES 1-8_A SXR flux(black) showing the evolution of the flare on 2015 January 13.Fermi HXR 11-26 (green) andRHESSI12-25 keV flux(red) are also plotted.(b) Normalized EUVfluxes of the flare region at the AIA 131 (cyan),94 (green), 335 (blue),193 (orange),211 (purple),171 (yellow),and 304 (red) A passbands. (c) Normalized UV fluxes at the AIA 160o (purple) and 17oo (atrovirens)A passbands.Two vertical dotted (dash) lines denote the onset (peak) times of two episodes of the flare. (d) The evolution of the WL continuum enhancement at the ONSET 3600 (red) and HMI 6173 (blue)A passbands.The green line displays the Fermi 26-50 keV (green) flux. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．UNSUCCESSFUL ERUPTION OF THE MFR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On 2015 January 13,a major flare consisting of two energy release episodes (episode I and episode II) occurred at the heliographic coordinates ${ \\sim } \\mathrm { N } 0 6 \\mathrm { W } 7 0$ . The corresponding $G O E S$ soft X-ray (SXR) flux starts to increase at ${ \\sim } 0 4 { : } 1 3$ UT and peaks at ${ \\sim } 0 4 { : } 2 4$ UT.After a decay of ${ \\sim } 2 2$ minutes, the SXR flux increases again and reaches the maximum at ${ \\sim } 0 4 { : } 5 8$ UT (Figure 1a). The two peaks in the SXR flux are also visible in the lightcurve of the total EUV and UV emissions of the flare region (Figure 1b and 1c).It is seen that the UV emissions at the 1600 and 170o A passbands (Figure lc)，which mostly originate in the lower atmosphere,mainly appears in episode I,while the EUV emissions,which are from the corona, primarily appear in episode II. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/57dc710789879e4629cbe17ea05aaf00c795fa20689ef1acc5c4df2f56331af5.jpg",
+        "img_caption": [
+            "FIG.2.— (a) and (b) The AIA 131 A images showing the failed MFR eruption.The oblique dashed line denotes a slice that is along the direction of the MFR eruption.(c) and (d) The slice-time plots of the AIA 131 and 171 A passbands.The cyan and yellow pluses denote the height-time measurement of the MFR and overlying field,respectively. (e) The temporal variation of the velocity of the MFR(cyan)and overlying feld (yellow).The $G O E S \\ 1 { - } 8 \\ \\mathrm { ~ \\normalfont ~ \\AA ~ }$ SXR flux (red) is also plotted.The two vertical dash lines denote the onsets of two episodes of the flare,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The emission in episode II is mainly associated with the descending motion of a hot structure,which is most likely to be an MFR (Cheng et al. 2011b; Patsourakos et al. 2013; Song et al. 2O14). It commences when the erupting ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1858664b5aef00346b76c1380b1141e2ee7a4376cabc70a5d1cc923f0ee50ea7.jpg",
+        "img_caption": [
+            "FIG.3.—(a)-(f)ONSET3600A,4250A,Hα,andHM6173Aimagesdisplaying theevolutionoftheribbon-like WLF.Thewhite boxesdenotetheprimaryregionoftheWLenhancement,whichisalsousedforcalculatingtheWLcontrastsat3600Aand6173A.The bigerwhiteboxinthepanel(c)isazoominginof theprimaryWLregion.ThewhiteandblackarowsindicatetwoWLfarribons. (g)(i)TheAimagssowingtobbostehomosereeedue)otousdicateteositive(egatieolarity ofmagneticfeld.Theblackboxinthepanel(h)displaysthefeldofviewofIIS.Theverticaldashedlinepresentsthepositioofthe slit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MFR catches up with the overlying field and starts to go down (Figure 2a-2c and attached movie). The absence of a CME in the WL coronagraph LASCO/C2 also proves that the eruption of the MFR is unsuccessful. The AIA 131 and 94 $\\bar { \\mathrm { A } }$ images show that the MFR starts to rise up at ${ \\sim } 0 4 { : } 1 0$ UT.However, it starts to go down from ${ \\sim } 0 4 { : } 4 6$ UT.At the same time,the flare emission in episode II starts to increase and the unsuccessfully erupting MFR is further heated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We put a slice along the direction of the MFR eruption and make the slice-time plots of the AIA131 and 171 $\\textup { \\AA }$ passbands. One can clearly see an ascending motion followed by a descending one of the MFR and overlying field (Figure 2c and 2d). Using the slice-time plots, we measure the heights of the MFR and overlying field (pluses in Figure 2c and 2d).Applying the first order numerical derivative,we calculate the velocities. The results are shown in Figure 2e. We find that the MFR is rapidly accelerated in the rising phase of the flare episode I. The velocity increases to ${ \\sim } 1 5 0 \\ \\mathrm { k m \\ s ^ { - 1 } }$ at the peak of the GOES SXR flux ( ${ \\sim } 0 4 { : } 2 3$ UT).After that,probably due to the strong strapping effect of the overlying field, the MFR starts to be decelerated. At ${ \\sim } 0 4 { : } 3 0 \\$ UT,the decelerating MFR and accelerating overlying field come to the same velocity $\\mathrm { { ' } { \\sim } 7 0 ~ k m ~ s ^ { - 1 } }$ ). Then, the overlying field starts to speed down. At ${ \\sim } 0 4 ; 3 5$ UT,it turns to move downward. When the descending velocity reaches the maximum $( \\sim - 7 0 \\ \\mathrm { k m \\ s ^ { - 1 } }$ ), the flare episode II starts. Subsequently, both of the MFR and the overlying field move downward. Note that, the descending velocity of the MFR is smaller that that of the overlying field, implying that a collision between them may happen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.WL EMISSION OF THE FLARE RIBBONS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although the MFR eruption is not successful,there still appear two elongated ribbon-like flare brightenings even at the WL passbands that are well observed by the Optical and Near-infrared Solar Eruption Tracer( $O N$ $S E T$ ； Fang et al. 2013) of Nanjing University with a field of view of10 arcmin.The $O N S E T$ is installed at a new solar observing site( $\\mathrm { ^ { \\prime } E 1 0 2 . 5 7 ^ { \\circ } }$ ， $\\mathrm { N 2 4 . 3 8 ^ { \\circ } }$ ）near FuxianLake in Yunnan Province，southwest China，where the seeing is generally stable and better than $1 ^ { \\prime \\prime }$ ，thus guaranteeing the high quality of data (Hao et al. 2012). It routinely images the photosphere at 36oo A and 4250 A with a wavelength bandpass of 15 A. It also images the upper chromosphere using the Hα (6562.8 A） line with a bandpass of O.25 A. Generally,users can directly use the Level-1 images1, which have been pre-processed with the calibration of the flat-field and dark current. Table 1 presents the capabilities of various telescopes that observe this WLF.One can see that the ONSET has a high temporal resolution. On 2015 January 13, the seeing near Fuxian Lake is pretty good,and the spatial resolution of $O N S E T$ approaches the upper limit,i.e.,better than $1 ^ { \\prime \\prime }$ (the pixel size is $0 . 2 4 ^ { \\prime \\prime }$ ),which is comparable with that of the AIA. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac8f57c11f9d773bd4dcbef800b65573987aac648f0d909590923ef37082d9b6.jpg",
+        "img_caption": [
+            "FIG.4.-IRISFUVandNUVspectrograms (toprows)andtheaverageprofilesofthespectrallines(bottomrows)intheWLkere (red; $\\mathrm { y } { = } [ 1 3 4 ^ { \\prime \\prime } , 1 3 9 ^ { \\prime \\prime } ] )$ and quiet region (black; $\\mathrm { y = } \\mathrm { \\bar { [ 1 6 0 ^ { \\prime \\prime } , 1 9 0 ^ { \\prime \\prime } ] } } ,$ .The two blue lines display thesingle Gaussian fiting to the average profiles of the Si IV lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 1d shows the evolution of the WL continuum enhancement，which is derived by averaging the intensity over the pixels showing WL enhancement with the background subtracted. We find that the evolution of the WL enhancement at the passbands 36oo A(ONSET) and 6173 $\\textup { \\AA }$ ,which is from the Helioseismic and Magnetic Imager(HMI; Schou et al. 2012) on board $S D O$ ，is well coincident with the variation of Fermi HXR 26-50 keV flux. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Moreover,we find an evolution of the WL brightening from the two isolated kernels to two well-shaped ribbons. At \\~04:20 UT,7 minutes after the flare occurrence, two WL kernels appear at the edge of the sunspot penumbra (Figure 3a and 3b). The base-difference image of the HMI 6173.34 A continuum intensity also confirms the appearance of the two WL kernels (Figure 3e). With the flare development, the left WL kernel extends toward the north,while the right one extends toward the southwest. At ${ \\sim } 0 4 { : } 2 2$ UT,the WL brightening makes up two wellshaped ribbon-like structures,which are almost parallel to the polarity inversion line (PIL）of the active region (Figure 3c and 3d). As compared with two elongated ribbons in $\\mathrm { H } \\alpha$ and 1700 $\\textup { \\AA }$ (Figure 3f-3i), the WL ribbons areshorter and thinner.These results indicate that this flare isa typeI WLF,and the increase of the WL emission is associated with high-energy electrons,which are accelerated by the flare reconnection in the corona and then may sequentially heat the chromoshpere and even below along the direction of the PIL, finally forming two well-shaped WL ribbons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.SPECTROSCOPICANALYSISOFTHEFLARERIBBONS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The continuum enhancement of the flare is also observed by the recently launched Interface Region Imaging Spectrograph (IRIS;De Pontieu et al. 2014)，which acquires spectra in the passbands 1332-1358 A (FUV1), 1389-1407 A (FUV2)，and 2783-2834 A (NUV) that include three doublet bright lines，the C II 1334/1335 中 ${ \\sim } 1 0 ^ { 4 . 3 }$ K）and Si IV 1394/1403( $\\mathrm { \\sim } 1 0 ^ { 4 . 8 }$ K）lines forming in the transition region and the MgI h/k ( $\\mathrm { \\sim } 1 0 ^ { 4 }$ K) line in the chromosphere.At \\~O4:22UT,the slit of $I R I S$ is positioned crossing the left WL kernel (Figure 3h). The corresponding spectrogram and average profiles of the spectral lines at the WL kernel are displayed in Figure 4,together with the profiles at the quiet region for comparison.It can be clearly seen that the continuum enhancement appears at the whole FUV(NUV） passbands as expected. At the FUV (NUV) passbands, the continuum enhancement is as large as ${ \\sim } 1 0$ (5)times the ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0131cd54b73eda56a938dcd8e0a1bebca9f84285abb29e82b87274d981f6600f.jpg",
+        "img_caption": [
+            "FIG.5.—(a)-(c)SpectrogramsoftheSiIV1402.77A,CII1335.707AandMg IIk2796347Alines intheWLkerel $\\mathrm { ^ { \\prime } y { = } [ 1 3 3 ^ { \\prime \\prime } , 1 5 0 ^ { \\prime \\prime } ] } ,$ Theverticaldotedlinesshowthelinecenters.TheblueandrdplusesdenotethetwoadjacentpixelsintheWLkerel.(d-(f)Profles of the SiIV,CII,and $\\mathrm { M g } \\amalg \\mathrm { k }$ lines at the blue and red pixels.The dotted curves in panel (d)display the single Gaussian fittings to the proflesoftheSiIVline,thatinpanels (e)and(f)showthedifferences betweentheblue wingsandthered wingsof the $\\mathrm { ~ C ~ I I ~ }$ and $\\mathrm { M g \\ I I }$ k lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "background, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Besides the continuum enhancement，IRIS also discloses some spectral features of the WLF (Figure 4a-4c). First,the average profiles of the Si IV,C I, and Mg II $\\mathrm { h / k }$ lines display an extremely large peak enhancement and significant non-thermal broadening (bottom panel of Figure 4a). By applying the single Gaussian fitting, the non-thermal velocity of the SiIV line is found to be 40- $6 0  { ~ \\mathrm { k m ~ s ^ { - 1 } } }$ .Second, those lines like H2 1338.57 A,Cl I $1 3 4 7 . 2 3 9 7 \\mathrm { ~ \\AA ~ }$ , and Fe II 1353.023 A etc (Kelly 1987), that are very weak and even invisible at the quiet region,get obviously enhanced when the WL enhancement appears. Third, some absorption lines near the far wing of Mg II $\\mathrm { h / k }$ ，which are thought to be possibly from the lower chromosphere and photosphere with the formation temperature of ${ \\sim } 1 0 ^ { 3 . 7 - 3 . 8 }$ K (De Pontieu et al. 2014), turn to emission. These observations also support the scenario of high-energy electron bombardment,which heat the upper chromosphere and lead to the FUV/NUV enhancement and non-thermal line broadening. Change of the lines from absorption to emission implies a heating even lower in the lower chromosphere and photosphere. High-energy electrons cannot precipitate directly to these layers,which are most probably heated through the radiative backwarming effect (Machado et al.1989; Metcalf et al. 1990; Ding et al. 2003; Liu et al. 2001) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Carefully inspecting the spectrogram in the WL kernel, we further find that the Doppler shift pattern is quite location-dependent: at the strongly bright (saturated) pixels, the Si IV,C II,and Mg I h/k lines mostly display a blueshift；in contrast,at the moderately bright pixels，the lines are redshifted (Figure 5a-5c).Usually,the blueshifts are thought to be produced by chromospheric evaporation，while the redshifts are caused by chromospheric condensation (downward moving compression front).The time scale and magnitudes of both upward and downward velocities depend on the energy input rate and also the atmospheric environment. The facts that adjacent pixels witnessing different dynamic phenomena can mainly be due to the different energy injection rates,as reflected by the different line intensities. Note that, the centers of the C II and Si IV lines are calibrated by assuming that the nearby OI 1355.5977 and Fe II 1405.6o8 A lines have a zero velocity. The reference center of the Mg II line is taken as that of the average profile in the quiet region (Cheng et al. 2015). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore， we quantify the Doppler and nonthermal velocity at two adjacent pixels (A and B) in the WL kernel. Pixel A corresponds to the strongly bright region,and B is at the moderately bright region. The profiles of the Si IV 1402.77 A,CII 1335.7077 A,Mg I k 2796.347 A lines at A and B are shown in Figure 5d-5f. One can see that the profiles of the Si IV line are nearly Gaussian. The most obvious difference is that the center of the profile at A is blueshifted,while that at B is redshifted. The single Gaussian fitting gives the Doppler velocity of $- 1 7$ and $1 4 ~ \\mathrm { k m ~ s ^ { - 1 } }$ and non-thermal velocity of 23 and $2 8 ~ \\mathrm { k m ~ s ^ { - 1 } }$ for A and B,respectively. As for the C II and Mg II k lines,the profiles generally deviate from Gaussian and show a self-absorption in the line center due to the optically thick effect of the lines (Leenaarts et al. 2013a,b). It is usually hard to get a velocity value causing the line asymmetries.A simple and approximate way is to subtract the relatively less perturbed wing from the more perturbed wing. The shift of the peak in the residual profile is then regarded as the velocity of the plasma producing the excess emission (Cheng et al. 2015).In this way, the Doppler velocities of the CII and Mg II k lines are $- 4 2$ and $- 3 8 \\ \\mathrm { k m \\ s ^ { - 1 } }$ at A,while 39 and $3 8 ~ \\mathrm { k m ~ s ^ { - 1 } }$ at B,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this Letter,we investigate a CME-less two ribbonlike WLF that experiences two episodes of energy release. The first episode begins with the eruption of the MFR and produces a ribbon-like WL brightening;while the second one starts when the MFR catches up with the overlying field. The two energy release episodes provide a possible scenario that is related to the origin of the later phase of flares,which is defined as a second emission peak in the warm coronal lines (e.g., Fe XVI 33.5 nm; Woods et al. 2O11).In the second energy release episode, the reconnection can continuouslyrelease energy for plasma heating,though in a lower rate,and produce the EUV late phase (e.g., Dai et al. 2013; Sun et al. 2013; Li et al. 2014; Liu et al. 2015). Energy release in episode II is also evidenced by appearance of a big fire ball with a temperature up to \\~1O MK corresponding to the unsuccessfully erupted MFR (also see; Song et al. 2014). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A two-ribbon flare is usually believed only associated with a successful eruption of the MFR or CME.Nevertheless,from this event，we find that a failed eruption is also able to generate a two-ribbon flare even at the WL passband.Generally speaking,events of such a kind are very few in observations.However,it is noticed that a recent active region (NOAA 12l92） produces tens of two-ribbon flares,but none of them is associated with the CME. Two possible reasons have been proposed for CME-less flares: one is that the non-potentiality of the erupting core field is too weak,the other is that the corresponding overlying field is too strong (Ji et al. 2003; Guo et al. 201O; Cheng et al. 201la; Sun et al. 2015; Thalmann et al. 2015: Chen et al. 2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Moreover,the two-ribbon flare is also visible at 3600 A. Comparing with the HMI, which only observes the two isolated kernels,the ONSET successfully captures not only the two isolated kernels but also their development into two elongated ribbons in detail thanks to the high temporal and good enough spatial resolution. The evolution of the WL continuum emission is almost synchronous with the variation of Fermi HXR 26-50 keVflux. The IRIS observations of a WL kernel reveal an apparent increase of the continuum emission at the whole FUV(NUV）passbands,as well as an extremely large enhancement and significant non-thermal broadening of the Si IV,C II,and Mg II h/k lines. Many weak lines,including some absorption lines before the flare,also present a strong emission when the flare occurs. These results can be interpreted in terms of the well-adopted scenario: the flare reconnection produces high-energy electrons that heat the chromosphere,giving rise to the enhancement of the FUV (NUV) continuum emission,as well as non-thermal line broadening of the lines forming there.However, because the electrons with energies $<$ 200 keV are hardly possible to reach and directly heat the lower chromosphere and even the photosphere(Vernazza et al. 1981; Ding et al. 2003),an indirect heating through radiative backwarming is usually used for interpreting the WL continuum enhancement and the photospheric absorption lines turning to emission. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Owing to the unprecedented high spatial and spectral resolution of IRIS,we find that the Doppler shift pattern of the spectral lines is quite location-dependent. At the strongly bright pixels,all lines are prone to be blueshifted; in contrast，at the moderately bright pixels,they tend to be redshifted. This could be due to the different heating rates in different places that produce different magnitudes and time scales,and possibly even different signs,of the velocities in the chromospheric evaporation (condensation） process. Different patterns of evaporations have also been reported by Li & Ding (2011） for,however,well separated flare kernels. Previous observations also showed that for a specific site, the hotter coronal lines are usually blueshifted while the cooler chromospheric and transition region lines are in more cases redshifted(Tian et al. 2014, 2015),and that there appears a transition from blueshift to redshift for the same line with the flare development (Milligan & Dennis 2009; Chen & Ding 2010) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to the referee for his/her comments that helped improve the manuscript.We also thank Hui Tian for useful discussions and Chuan Li for providing Fermi data. $S D O$ is a mission of NASAs Living With a Star Program.IRIS is a NASA small explorer mission developed and operated by LMSAL with mission operations executed at NASA Ames Research center and major contributions to downlink communications funded bythe Norwegian Space Center(NSC,Norway)through an ESA PRODEX contract. This work is supported by NSFC under grants 11303016,11373023,and NKBRSF under grants 2011CB811402 and 2014CB744203,as well as the Specialized Research Fund for State Key Laboratories. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Benz,A.O.20o8,Living Reviews in Solar Physics,5,1   \nChen,B.,Bastian,T.S.,& Gary,D.E.2014,ApJ,794,149   \nChen,F.,& Ding,M.D.2010,ApJ,724,640   \nChen,H., Zhang, J.,Ma, S.,Yang, S.,Li,L., Huang,X.,& Xiao, J.2015,ArXiv e-prints   \nChen,P.F.2011,Living Reviews in Solar Physics,8,1   \nChen,Q.R.,& Ding,M.D.2005,ApJ,618,537 .2006，ApJ,641，1217   \nCheng,X.,Ding,M.D.,& Fang,C.2015,ApJ,804,82   \nCheng,X.,Zhang,J.,Ding,M.D.,Guo,Y.,& Su, J.T.2011a, ApJ,732,87   \nCheng,X., Zhang,J.,Ding,M.D.,Liu,Y.,& Poomvises,W.2013a, ApJ,763,43   \nCheng,X.,Zhang,J.,Ding,M.D.,Olmedo,O.,Sun,X.D.,Guo, Y.,& Liu,Y.2013b,ApJ,769,L25   \nCheng,X.,Zhang,J.,Liu,Y.,& Ding,M.D.2011b,ApJ,732,L25   \nDai,Y.,Ding,M.D.,& Guo,Y.2013,ApJ,773,L21   \nDe Pontieu,B.,et al. 2014,Sol. Phys.,289,2733   \nDing,M.D.,Fang,C.,Yin,S.Y.,& Chen,P.F.1999a,A&A,348, L29   \nDing,M.D.,Fang,C.,& Yun,H.S.1999b,ApJ,512,454   \nDing,M.D.,Liu,Y.,Yeh,C.-T.,&Li,J.P.2003,A&A,403,1151   \nFang,C.,&Ding,M.D.1995,A&AS,110,99   \nFang,C.,et al.2013,Research in Astronomy and Astrophysics,13, 1509   \nForbes,T.G.,& Priest,E.R.1995,ApJ,446,377   \nGuo，Y.，Ding，M.D.，Schmieder，B.，Li，H.，Törok，T.，& Wiegelmann,T.2010,ApJ,725,L38   \nHao,Q.,Guo,Y.,Dai,Y.,Ding,M.D.,Li, Z., Zhang,X.Y.,& Fang,C.2012,A&A,544,L17   \nHirayama,T.1974,Sol.Phys.,34,323   \nHudson,H. S.,Acton,L.W.,Hirayama,T.,& Uchida,Y.1992, PASJ,44,L77   \nJess,D.B.,Mathioudakis,M.,Crockett,P.J.,& Keenan,F.P. 2008,ApJ,688,L119   \nJi,H.,Wang,H.,Schmahl,E.J.,Moon,Y.-J.,& Jiang,Y.2003, ApJ,595,L135   \nKelly，R.L.1987，Journal of Physical and Chemical Reference Data,16   \nKerr,G.S.,& Fletcher,L.2014,ApJ,783,98   \nKopp,R.A.,& Pneuman,G.W.1976,Sol.Phys.,50,85   \nKrucker, S., Hudson, H. S., Jeffrey,N.L. S.,Battaglia,M., Kontar, E.P.,Benz,A.O.,Csillaghy,A.,& Lin,R.P.2011,ApJ,739, 96   \nLeenaarts,J.,Pereira,T.M.D.,Carlsson,M.,Uitenbroek,H,& De Pontieu,B.2013a,ApJ,772,89 .2013b，ApJ,772,90   \nLemen,J.R.,et al.2012,Sol.Phys.,275,17   \nLi,L.P.,& Zhang,J.2013a,A&A,552,L11   \nLi,T.,& Zhang,J.2013b,ApJ,770,L25   \nLi,Y.,& Ding,M.D.2011,ApJ,727,98   \nLi,Y.,Ding,M.D.,Guo,Y.,& Dai,Y.2014,ApJ,793,85   \nLiu,K.,Wang,Y.,Zhang,J.,Cheng,X.,Liu,R.,& Shen,C.2015, ApJ,802,35   \nLiu,Y.,Ding,M.D.,& Fang,C.2001,ApJ,563,L169   \nMachado,M.E., Emslie,A.G.,& Avrett,E.H. 1989,Sol.Phys., 124,303   \nMachado,M.E.,et al.1986,in The lower atmosphere of solar flares,p.483-488,ed.D.F.Neidig,483-488   \nMetcalf,T.R.,Alexander,D.,Hudson,H. S.,& Longcope,D.W. 2003，ApJ,595,483   \nMetcalf,T.R.,Canfield,R.C.,& Saba,J.L.R.1990,ApJ,365, 391   \nMilligan,R.O.,& Dennis,B.R.2009,ApJ,699,968   \nNeidig,D.F.,Kiplinger,A.L.,Cohl,H.S.,& Wiborg,P.H.1993, ApJ,406,306   \nPatsourakos,S.,Vourlidas,A.,& Stenborg,G.2013,ApJ,764,125   \nPriest,E.R.,& Forbes,T.G.2002,A&A Rev.,10,313   \nSchou,J.,et al.2012,Sol.Phys.,275,229   \nSong,H.Q.,Zhang,J.,Chen,Y.,Cheng,X.,Li,G.,&Wang,Y.M. 2015,ApJ,803,96   \nSong,H.Q.,Zhang,J.,Cheng,X.,Chen,Y.,Liu,R.,Wang,Y.M., & Li,B.2014,ApJ,784,48   \nSturrock,P.A.1966,Nature,211,695   \nSun,X.,Hoeksema,J.T.,Liu,Y.,Aulanier,G.,Su,Y.,Hannah, I.G.,& Hock,R.A.2013,ApJ,778,139   \nSun,X.,et al.2015,ApJ,804,L28   \nThalmann,J.K.,Su,Y.,Temmer，M.,& Veronig,A.M.2015, ApJ,801,L23   \nTian,H.,Li, G.,Reeves,K.K.,Raymond,J.C.,Guo,F.,Liu,W., Chen,B.,& Murphy,N.A.2014,ApJ,797,L14   \nTian，H.，Young，P.R.，Reeves,K.K.,Chen，B.，Liu，W.，& McKillop,S.2015,ArXiv e-prints   \nSvestka, Z.1966, Space Sci. Rev.,5,388   \nVernazza,J.E.,Avrett,E.H.,& Loeser,R.1981,ApJS,45,635   \nWoods,T.N.,etal.2011，ApJ,739,59   \nXu,Y.,Cao,W.,Jing,J.,& Wang,H.2012,ApJ,750,L7   \nYang,S.,Zhang,J.,Liu,Z.,& Xiang,Y.2014,ApJ,784,L36   \nZhang，J.， Cheng， X.，&Ding，M.-D.2012，Nature Communications,3,747 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

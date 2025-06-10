@@ -1,0 +1,751 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201705210941 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐涵秋,施婷婷,王美雅,林中立.雄安新区地表覆盖变化及其新区规划的生态响应预测.生态学报,2017,37(19):6289-6301. $\\mathrm { X u ~ H ~ Q ~ }$ ，ShiTT,WangM,inZLndcoverhangesinteioganeeaandaprdictioofooicalesponsetofrtoingial planning.Acta Ecologica Sinica,2017,37(19）:6289-6301. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雄安新区地表覆盖变化及其新区规划的生态响应预测 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐涵秋1,2,3,\\*，施婷婷1,3,王美雅1,3，林中立1,3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1福州大学环境与资源学院，福州350116  \n2空间数据挖掘与信息共享教育部重点实验室，福州350116  \n3福州大学遥感信息工程研究所，福州350116",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;雄安新区是新近设立的国家级新区,如何在新区建设中坚持生态优先、绿色发展,是即将开展的新区规划必须考虑的问题。绿色生态规划离不开对规划区生态本底的清楚认识,离不开对规划结果的准确预判。因此基于2004、2015 年的Landsat 影像,采用遥感信息反演技术和RSEI遥感生态指数,评估了该区近11年来的地表不透水面、植被和水体三大覆盖类型的变化，并预测新区建设的生态效应及其对热环境的影响。结果表明,雄安新区近11年地表不透水面、植被和水体的面积虽互有增减，但变化强度都小于 $5 \\%$ ,总体开发强度不大,本底生态质量较好,稳中略升。定量分析表明,在该区的三大地表覆盖类型中,不透水面对区域生态和地表温度的影响最大。根据所获得的关系模型预测,新区的人口规划和面积方案将对区域生态质量和热环境产生影响,如果按新增不透水面面积占新区面积 $2 5 \\%$ 的比例来预测,它将使生态质量下降 $1 0 \\%$ ,地表温度上升 $1 . 1 \\mathrm { { ^ { \\circ } C } }$ ;但如果将不透水面比例控制在 $2 0 \\%$ ,则新区的生态质量反而上升 $3 . 6 \\%$ ,地表温度下降 $0 . 3 \\mathrm { { ^ { \\circ } C } }$ O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：雄安新区；遥感生态指数；地表覆盖；区域规划；预测 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Land cover changes in the Xiong'an New Area and a prediction of ecological response to forthcoming regional planning ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Hanqiu1,2,3,\\*，SHI Tingting1,3，WANG Meiya13，LIN Zhongli13   \n1 College of Environment and Resources，Fuzhou University，Fuzhou 35o116,China   \n2KeyLaboratoryofSatialDatMining&IformationSharingofMinistryofEducation,FuzhouUniverstyuzhou35o6,Cina   \n3 Institute of Remote Sensing Information Enginering，Fuzhou University，Fuzhou 35O116，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The Xiong'anNew Areaisarecentlyestablished state-levelnewarea in Baoding,Hebei province，China.Green constructionand development are the most importantisues to beconsideredand mustbe given prioritybyarea planners during forthcoming constructionof thenew area.Green ecologicalplaning cannotbe implemented withoutaclear understandingof anarea'secological statusandan acurate predictionof anarea’secological statusresponding to forthcoming regional planning.Therefore，using Landsat imagesof 2004and 2O15，feature inversionand extraction techniques，and the remote sensing-based ecological index（RSEI），this study investigatedchanges in threemain land cover types(impervious surface,vegetation,and water）inthe Xiong'anNew Area over thelast11 years from 2004 to 2015 and predicted theecological and thermal efectsresponding totheupcoming regional constructiononthenew area.The results showthattheareas of impervious surface,vegetation，and watercovers havechanged overthe11-year study period, but the change intensity was less than $5 \\%$ . In addition，the ecological status was stable during the study period as the RSEI increasedonlyslightlyfrom0.629 in2004 to0.639 in2015.Therefore,theoveralldevelopmentintensitywasrelativelylow, andthearea'scurrent ecological qualityis god.Quantitativeanalysis indicates that thearea of impervious surfacehas the strongest influenceon both ecological qualityand land surface temperatureamong the three main land cover typesof the area.Thearea's ecologicalresponses toupcoming regional planing were predicted usingregresionrelationship modelsof RSEI and landsurface temperature with the three main land cover types.The prediction，based on the known goal of population and area development，revealed that the increase of population to 2.5 million with a $2 5 \\%$ of impervious surface cover inthenewarea would havenoteworthy efectsonregional ecologicalconditions，potentiallydecreasing thearea'sRSEI by $10 \\%$ and increasing land surface temperature by $1 . 1 ~ \\mathrm { { ^ { q } C } }$ . Alternatively， if the proportion of impervious surface could be controlled within $20 \\%$ ，the area's RSEI would increase by $3 . 6 \\%$ ，and land surface temperature would decrease by $0 . 3 \\mathrm { ~ ‰ ~ }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Xiong'an New Area；Remote Sensing-based Ecological Index（RSEI）；land cover；regional planning; model prediction ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河北省保定市的雄县、安新和容城3个县及其周边部分地区于2017年4月1日被设立为国家级新区——雄安新区。该区地处北京、天津、保定三城市腹地,它的成立将为疏解北京市的非首都功能,优化京津冀地区城市空间布局和结构做出重大贡献。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于中国早期的城市规划往往缺乏生态环境理念,因此,中国的城市经过几十年的发展,已暴露出原有规划的不合理性。当前我国城市普遍存在着严重的城市病,城市拥堵、城市内涝、城市热岛效应、城市空气污染已成为各大城市的常见问题。因此,在雄安新区建设中坚持生态优先、绿色发展已被国家摆在首要位置,是即将开展的新区规划必须考虑的首要问题。而绿色生态规划离不开对规划区生态本底的清楚认识,离不开对规划结果的准确预判。因此有必要对雄安新区的基本生态状况开展调查,并籍此对即将进行的新区规划所产生的生态效应进行预测,这对保障雄安新区的绿色生态建设具有重要的现实意义,对我国城市的绿色规划具有重要的科学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前,以遥感对地观测技术为代表的空间信息技术已被广泛应用于生态环境领域[1],无论是国际或国内,遥感技术都被应用于各种尺度的生态调查和评价中。如美国的全美自然保护区生态动态监测[2」、我国环保部开展的“全国生态环境十年变化(2000—2010)遥感调查与评估”,以及目前正在开展的国家生态保护红线划定工作,都是以遥感作为重要的支撑技术。近年来,也有越来越多的遥感技术被应用于区域[3-4]和城市[5-8]规划建设的生态监测与评估中,应用遥感生态指数来评价生态效应也逐渐增多[3.7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于规划质量的优劣将直接影响区域的生态环境,因此能否对规划所产生的生态效应进行科学的预测就显得非常重要。但是当前无论是传统方法或者是遥感技术,都缺乏对规划所产生的潜在生态影响进行预测的有效方法,迄今仍未见相关的研究报道。因此本文将利用遥感信息技术对雄安新区近年来的地表覆盖类型和生态质量变化进行调查,并结合新区的规划建设目标对其潜在的地表覆盖变化及其生态响应进行预测,研究结果将为即将到来的新区规划提供重要的决策支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1技术方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "雄安新区主要包含河北省保定市的雄县、安新县和容城县,地理位置为： $3 8 ^ { \\circ } 4 3 ^ { \\prime } \\mathrm { - } 3 9 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { ~ N , } 1 1 5 ^ { \\circ } 3 8 ^ { \\prime } \\mathrm { - }$ $1 1 6 ^ { \\circ } 2 0 ^ { \\prime }$ E（图1)。该区距北京、天津、保定三城市的距离仅为数十至百余公里,因此具有明显的区位优势。区内地势基本平坦,土壤肥沃,地表覆盖以农田为主,其中耕地占农用地的 $9 3 \\%$ ,林地占 $3 . 4 \\% ^ { [ 9 ] }$ ,境内分布有华北平原最大的湖泊一—白洋淀。该区属暖温带大陆季风型气候,四季分明,年平均气温 $1 2 . 1 \\mathrm { { ^ \\circ C } }$ ,年平均降雨量 $5 6 0 \\mathrm { m m }$ ,无霜期 $1 7 3 \\mathrm { ~ d ~ }$ 。雄安新区3个县的总面积为 $1 5 6 6 \\mathrm { k m } ^ { 2 }$ ,总人口113.09万人，城镇化率 $4 2 . 7 4 \\%$ ，人均地区GDP 1.88万元[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2遥感数据源及其预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究采用Landsat系列卫星遥感影像以保持数据源的一致性，选用了2004年9月8日的Landsat5TM影像和2015年8月22日的Landsat8OLI/TIRS影像。影像季相相近，无云，质量完好（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "影像下载于美国地质调查局（USGS）Landsat官方网站的Level1T产品。该产品已经过几何校正，经检查，2景影像叠加准确，因此无需几何校正。影像的预处理主要为辐射校正，采用Landsat用户手册的模型和Chavez的COST大气校正模型[1]将2幅影像的亮度值（DN)转换为传感器处反射率（at-sensorreflectance）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于2004年的TM影像，采用以下公式进行辐射校正：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc1cd7beefa6c6e7f4f65e5322fdfdc58d1998796c4a34835f552f5c87fdf1da.jpg",
+        "img_caption": [
+            "图1雄安新区位置图",
+            "Fig.1Location map of Xiong'an New Area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3276ca48a40c3837461524c2bd597a565583c66a676a65631ad19b5ff957ae85.jpg",
+        "img_caption": [
+            "图2研究区Landsat遥感影像(RGB：752波段）",
+            "Fig.2 Landsat images of the study area(RGB:bands 7,5,2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL { \\mathrm { = g a i n } } \\cdot Q \\ { \\mathrm { + \\ b i a s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho { = } \\big [ \\pi ( L { - } L _ { h } ) d ^ { 2 } \\big ] / \\ \\big ( \\mathrm { E S U N } \\ \\cdot \\mathrm { c o s } \\theta _ { z } \\cdot \\tau \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q$ 为 DN值;gain和 bias 分别为增益与偏置值; $L _ { h }$ 为大气影响修正值,可以通过最暗像元法获得[10];ESUN为大气顶部平均太阳辐照度； $d$ 为日-地天文单位距离; $\\theta _ { z }$ 为影像中心的太阳天顶角。以上参数可以从Landsat 用户手册或影像头文件中获得。 $\\tau$ 为基于 $\\theta _ { z }$ 估算的大气透射率,可用下式计算[10]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\mathrm { c o s } \\ \\lbrack \\ ( 9 0 - \\theta _ { z } ) \\ \\pi \\mathrm { / \\ } 1 8 0 \\rbrack\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但由于这种计算经常造成 $\\boldsymbol { \\tau }$ 的高估,特别是在晴空无云、太阳天顶角很大或北方高纬度地区这3种情况,因此在实际应用中 $\\cdot$ 常被忽略[11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于2015年的OLI影像，采用以下公式进行辐射校正：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho { = } \\lbrack M \\ ( \\ Q { - } \\ Q _ { h } ) + A \\rbrack { \\ ⁄ } \\ ( \\mathrm { c o s } \\theta _ { z } { \\cdot } \\tau )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $M$ 和 $A$ 分别为调整因子和调整参数，可以从影像头文件中获得; $Q _ { h }$ 为大气影响修正值,同样通过最暗像元法获得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 地表温度反演",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Landsat5TM传感器具有1个热红外波段（TM6），Landsat8TIRS传感器则具有2个热红外波段（TIRS",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10、11）。但由于TIRS11波段定标参数误差迄今未能解决,Landsat8官方网站建议只用TIRS10单波段来反演地表温度[12]。因此,采用Jimenez-Munoz 等的单通道算法[13-14]来反演TM6波段和 TIRS10波段的地表温度。该方法在大气水汽含量小于 $3 \\mathrm { g } / \\mathrm { c m } ^ { 2 }$ 时,可以获得小于1.5K的精度[12],因此被广泛应用。本次使用的 2幅影像当天的大气水汽含量分别为 $1 . 3 2 \\mathrm { g } / \\mathrm { c m } ^ { 2 }$ 和 $2 . 8 9 \\mathrm { g } / \\mathrm { c m } ^ { 2 }$ ,因此可以采用该算法来反演地表温度,其主要公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L S T } = \\gamma ~ \\bigl [ \\varepsilon ^ { - 1 } ( { \\psi } _ { 1 } L + { \\psi } _ { 2 } ) ~ + { \\psi } _ { 3 } \\bigr ] + \\delta\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma \\approx T ^ { 2 } / ( b _ { \\gamma } L ) , \\delta \\approx T - T ^ { 2 } / b _ { \\gamma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：LST为地表温度;对于TM6波段和 TIRS10 波段,参数 $b _ { \\gamma }$ 分别为1256和 $1 3 2 4 ; \\varepsilon$ 为地表比辐射率,对于TM6波段采用 Sobrino 等提出的基于植被覆盖度的算法[15],对于 TIRS 10 波段,可通过 ASTER光谱库和Nichol 的研究成果[16]计算出林、草、土壤、建筑物和水体在 TIRS 10 波段的比辐射率,分别为 $: 0 . 9 8 1 3 , 0 . 9 8 2 3$ 、0.9722、0.9212 和 $0 . 9 9 0 8 ; \\psi _ { 1 } \\surd \\psi _ { 2 } \\surd \\psi _ { 3 }$ 可用下式计算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 1 } = ~ 1 / \\tau , \\psi _ { 2 = } - L \\downarrow - L \\uparrow / \\tau , \\psi _ { 3 } = L \\downarrow\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\tau$ 为大气透过率， $L \\uparrow$ 和 $\\textit { L } \\downarrow$ 为大气上行和下行辐射强度,可根据影像的时间以及所处地理位置和季相，通过MODTRAN模拟得到； $T$ 为传感器处的亮温，公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT { = } K 2 / \\mathrm { l n } ( K 1 / L + 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $K 1$ 和 $K 2$ 分别为TM6波段或TIRS10 波段的定标常数（可从影像的头文件中获得）。 $L$ 为TM6波段或TIRS10 波段的传感器处光谱辐射值,对于TM6波段， $L$ 可以从公式(1)求取，对于TIRS10 波段； $L$ 可以用下式求取：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL = M _ { L } \\cdot \\mathcal { Q } + A _ { L }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { L }$ 和 $A _ { L }$ 分别为TIRS 10 波段的调整因子和调整参数（可从影像的头文件中获得）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4地表主要参数反演",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "雄安新区的地表主要覆盖物有以不透水面为代表的建筑用地,以农田为主的植被和以白洋淀为代表的水体,因此本文重点讨论这3种主要地表覆盖类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 不透水面反演",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不透水面是指阻止水流下渗的地表,通常由屋顶、铺设路面和停车场等组成。大面积的不透水面会诱发一系列生态负效应,如造成流域水质污染、城市热岛效应、破坏自然生境、阻断生物迁徙等,因此早在1990 年代就被作为反映生态环境的重要指标。研究采用归一化不透水面指数 NDISI[17]来反演不透水面信息,其公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D I S I } = \\left[ \\mathrm { T I R } - ( \\mathrm { \\Delta V I S } _ { 1 } + \\mathrm { N I R } + \\mathrm { M I R } 1 ) / 3 \\right] \\quad / \\left[ \\mathrm { T I R } + ( \\mathrm { \\Delta V I S } _ { 1 } + \\mathrm { N I R } + \\mathrm { M I R } 1 ) / 3 \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：TIR、NIR、MIR1 和 ${ \\mathrm { V I S } } _ { 1 }$ 分别为影像的热红外、近红外、中红外1波段和可见光3个波段中的某一波段。  \n当水体较混浊时,也可采用 MNDWI水体指数[18]（见公式12)替代 $\\mathrm { V I S } _ { 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于 NDISI能较好地区别不透水面和裸土信息,且不必预先掩膜水体,同时还可以量化象元的不透水面比例[17,19],因此被评价为创新技术[20-21],或相对简便高效的技术[22]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2植被和水体信息反演",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植被和水体信息的反演采用NDVI植被指数和MNDWI水体指数,公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta N D V I { = } ( N I R { - } R e d ) ~ / ~ ( \\Delta N I R { + } ~ R e d ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\bf M N D W I } = ( \\mathrm { \\bf G r e e n – M I R 1 } ) / ( \\mathrm { \\bf G r e e n } + \\mathrm { \\bf M I R 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：Red 和Green分别为影像的红光和绿光波段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 遥感生态指数反演",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "遥感生态指数 RSEI（Remote Sensing-based Ecological Index）[23]是近年提出的完全基于遥感信息的生态评价指数。该指数耦合了与生态密切相关，且人类能够直接感知的绿度、湿度、热度和干度4大指标。该指",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数不采用人为主观赋值的加权求和来集成指数,而是采用主成分分析来自动量化各个指标对生态的贡献度，据此集成的指数的计算结果与国家环保部提出的生态状况指数EI具有很好的可比性[24-25],并具有可视化功能,因此提出以来已被应用于数十个城市与地区[24-30]。RSEI指数可表示为以上4个指标的函数,即：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R S E I } } { = } f ( \\mathrm { G r e e n n e s s } , \\ \\mathrm { W e t n e s s } , \\ \\mathrm { H e a t } , \\ \\mathrm { D r y n e s s } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：Greenness为绿度,Wetness为湿度,Heat 为热度，Dryness 为干度。它们分别由 NDVI植被指数、缨帽变换的Wet湿度分量、地表温度LST和裸土指数NDSI来代表。NDVI和LST的公式见公式（5）、（11）,Wet 和NDSI 的公式分别为[31-32]。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W e t } = w _ { 1 } \\mathrm { B l u e } + \\ w _ { 2 } \\mathrm { G r e e n } + \\ w _ { 3 } \\mathrm { R e d } + \\ w _ { 4 } \\mathrm { N I R } + w _ { 5 } \\mathrm { M I R } 1 + w _ { 6 } \\mathrm { M I R } 2\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta N D S I { = } \\left( M I R { 1 } { - } N I R \\right) / \\Omega \\left( M I R { 1 } { \\Omega } + N I R \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中,Blue 为蓝光波段,MIR2为中红外2 波段， $w _ { i } ( i = 1 , \\ldots , 6 )$ 为缨帽变换中Wet分量各波段的系数,TM影像和OLI影像的系数可分别在文献[31]和[33］中查到。采用NDSI指数代表干度是因为该指数可以增强包括裸土和建筑在内的裸露地表信息,而正是这些裸露地表造成了地表的“干化”。由于以上4个指标的量纲不尽相同,因此在计算RSEI之前,必须对它们进行归一化,将它们的值都统一到 $[ 0 , 1 ]$ 之间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RSEI采用主成分分析来集成以上4个指标,而不是采用传统的方法将4个指标加权求和。主成分分析最大的优点就是各指标的权重不是人为确定,而是根据各指标对各主成分分量的贡献度来客观确定,从而避免了因人而异的权重设定所造成的误差。在主成分分析中,第一主成分(PC1)最大程度地集成了各变量的信息,因此,可用PC1来耦合以上4个指标变量,构建RSEI指数,即：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R S E I } = \\mathrm { P C } 1 \\lbrack f ( \\mathrm { N D V I } , \\mathrm { W e t } , \\mathrm { L S T } , \\mathrm { N D S I } ) \\rbrack\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了便于比较,可将RSEI进行归一化,使其值介于[0, $\\lfloor 1 \\rfloor$ 之间。为了使大的值代表好的生态状况,在归一化之前,可先用1减去RSEI。这样RSEI值越接近1,生态越好,反之,越差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用以上方法分别反演出雄安新区2004和2015年的不透水面、植被和水体3个专题信息,然后采用人工调试阈值的方法进行提取。由于研究区面积较大,每个专题都无法只用1个阈值来提取,而是采用分区阈值来提取。对各专题提取结果再进行适当的人工修改（图3）。利用同期的Google Earth 高分影像,采用 535个随机样点对反演出的不透水面、植被和水体信息进行精度验证,结果表明所提取的信息具有很高的精度（表1）。同时利用同日的 MODIS 地表日温度产品（MOD11A1），获得研究区的地表温度均值,然后与本文反演出的地表温度均值对比。以均值对比可以最大限度地避免二者空间分辨率不同引起的差异。对比结果表",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/34bc8ec4cac47017c0d628937bc31c1954a12539b12a5630a5cb350a56054b73.jpg",
+        "img_caption": [
+            "图3雄安新区不透水面、植被、水体分布图",
+            "Fig.3Maps showing distribution of impervious surface，vegetation and water in Xiong'an New Area "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "明二者比较接近（表2）,有一定差距的原因可能是由于两种卫星的过空时间不完全相同所致。",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1精度验证表",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d73d868bc07c9e9382e0538698232826aaf34ae601a1793936780b12b33e73b.jpg",
+        "table_caption": [
+            "Table 1 Accuracy assessment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\"></td><td colspan=\"3\">验证数据 Reference data</td><td rowspan=\"2\">行合计 Row total</td><td rowspan=\"2\">使用者精度 User's Accuracy/%</td></tr><tr><td>水体 Water</td><td>植被 Vegetation</td><td>不透水面 Impervious surface</td></tr><tr><td>2004</td><td>水体Water</td><td>44</td><td>1</td><td>0</td><td>45</td><td>97.78</td></tr><tr><td></td><td>植被 Vegetation</td><td>4</td><td>400</td><td>3</td><td>407</td><td>98.28</td></tr><tr><td></td><td>不透水面 Impervious surface</td><td>0</td><td>8</td><td>75</td><td>83</td><td>90.36</td></tr><tr><td></td><td>列合计 Column total</td><td>48</td><td>409</td><td>78</td><td>535</td><td></td></tr><tr><td></td><td>生产者精度 Producer's accuracy/%</td><td>91.67</td><td>97.80</td><td>96.15</td><td></td><td></td></tr><tr><td></td><td>总精度Overall accuracy/%</td><td>97.01</td><td></td><td>Kappa 系数</td><td>0.923</td><td></td></tr><tr><td>2015</td><td>水体Water</td><td>66</td><td>2</td><td>1</td><td>69</td><td>95.65</td></tr><tr><td></td><td>植被Vegetation</td><td>7</td><td>355</td><td>3</td><td>365</td><td>97.26</td></tr><tr><td></td><td>不透水面 Impervious surface</td><td>0</td><td>5</td><td>96</td><td>101</td><td>95.05</td></tr><tr><td></td><td>列合计 Column total</td><td>73</td><td>362</td><td>100</td><td>535</td><td></td></tr><tr><td></td><td>生产者精度 Producer's accuracy/%</td><td>90.41</td><td>98.07</td><td>96.00</td><td></td><td></td></tr><tr><td></td><td>总精度Overall accuracy/%</td><td>96.64</td><td></td><td>Kappa系数</td><td>0.931</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1d315c635205e7368dda7eb9ccda70cd9f0b5dcb992f618e6f37e2841b1b2835.jpg",
+        "table_caption": [
+            "Table2Comparison of retrieved LST with near synchronous MODIS LST "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>日期Data</td><td>卫星 Satellite</td><td>过空时间 Overpass time</td><td>地表温度均值 Land surface temperature/C</td></tr><tr><td>2004/9/8</td><td>MODIS</td><td>11:40am</td><td>28.20</td></tr><tr><td rowspan=\"3\">2015/8/22</td><td>Landsat TM</td><td>10:38am</td><td>27.73</td></tr><tr><td>MODIS</td><td>11:48am</td><td>30.10</td></tr><tr><td>Landsat TIRS</td><td>10:54am</td><td>31.36</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1地表主要参数变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对所提取的不透水面、植被和水体信息进行统计获得研究区地表主要覆盖类型在近11年的变化情况。结果表明,雄安新区近11年地表主要覆盖类型的变化强度不大，大致在 $5 \\%$ 以内(表3）。其中不透水面和水体表现为增加,以农用地为主的植被表现为减少。11年间不透水面增加了 $6 5 . 2 \\mathrm { k m } ^ { 2 }$ ,水体增加了 $3 8 . 4 7 \\mathrm { k m } ^ { 2 }$ ，而植被则减少了 $4 6 . 5 5 \\mathrm { k m } ^ { 2 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7d3ac27254e266a36c90461f225af2db9e7f453eb00c0a68b8b12993436b7f1.jpg",
+        "table_caption": [
+            "表2地表温度反演精度对比",
+            "表3雄安新区2004一2015年地表主要覆盖类型变化/ $\\mathrm { \\ k m } ^ { 2 }$ ",
+            "Table 3 Land cover changes in Xiong'an New Area from 2oo4 to 2015 "
+        ],
+        "table_footnote": [
+            "变化强度 $( \\ \\% ) = \\left( \\ A _ { 2 } { - } A _ { 1 } \\right) / \\left( A _ { 1 } \\cdot Y \\right) \\ { \\times } 1 0 0$ ；其中 $\\boldsymbol { A } _ { 1 }$ 为起始年面积， $. A _ { 2 }$ 为结束年面积,Y为年数"
+        ],
+        "table_body": "<html><body><table><tr><td>地表覆盖</td><td colspan=\"2\">2004</td><td colspan=\"2\">2015</td><td colspan=\"3\">2004——2015 变化 Change</td></tr><tr><td>Land cover</td><td>面积</td><td>比例/%</td><td>面积</td><td>比例/%</td><td>面积</td><td>比例/%</td><td>变化强度/%</td></tr><tr><td></td><td>Area</td><td>Percentage</td><td>Area</td><td>Percentage</td><td>Area</td><td>Percentage</td><td>Change intensity</td></tr><tr><td>不透水面 Impervious surface</td><td>264.65</td><td>16.88</td><td>329.85</td><td>21.04</td><td>65.20</td><td>24.64</td><td>2.24</td></tr><tr><td>植被 Vegetation</td><td>1045.87</td><td>66.72</td><td>999.31</td><td>63.75</td><td>-46.55</td><td>-4.45</td><td>-0.40</td></tr><tr><td>水体Water</td><td>69.20</td><td>4.41</td><td>107.67</td><td>6.87</td><td>38.47</td><td>55.60</td><td>5.05</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过屏幕矢量化绘制出研究区内3个县的建成区,并统计其面积。结果表明,3个县的建成区在这11年内变化不大,面积增加最多的雄县也才增加了 $2 . 5 4 \\mathrm { k m } ^ { 2 }$ ,增加最少的容城县只有 $1 . 5 3 \\mathrm { k m } ^ { 2 }$ 。但3个县的不透水面比例都很高,基本都大于 $70 \\%$ （表4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/909d7447d32176ef96ff069681f816a841463483343c94a98cf33f3a97a7ff8f.jpg",
+        "table_caption": [
+            "Table 4Changes in impervious surface，vegetation and water in Xiongxian，Anxinand Rongcheng from 204 to 20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"3\">建成区面积 Built-up area</td><td colspan=\"6\">不透水面 Impervious surface</td></tr><tr><td rowspan=\"2\">雄县</td><td rowspan=\"2\">安新县</td><td rowspan=\"2\">容城县</td><td colspan=\"2\">雄县</td><td colspan=\"2\">安新县</td><td colspan=\"2\">容城县</td></tr><tr><td>面积</td><td>%</td><td>面积</td><td>%</td><td>面积</td><td>%</td></tr><tr><td>2004</td><td>13.95</td><td>5.23</td><td>6.88</td><td>9.75</td><td>69.87</td><td>3.88</td><td>74.17</td><td>5.08</td><td>73.78</td></tr><tr><td>2015</td><td>16.49</td><td>7.06</td><td>8.41</td><td>11.64</td><td>70.57</td><td>4.98</td><td>70.50</td><td>6.04</td><td>71.81</td></tr><tr><td>增加Increase</td><td>2.54</td><td>1.83</td><td>1.53</td><td>1.89</td><td></td><td>1.10</td><td></td><td>0.96</td><td></td></tr><tr><td>增加比例 Percentage/%</td><td>18.21</td><td>34.99</td><td>22.24</td><td>19.39</td><td></td><td>28.31</td><td></td><td>18.97</td><td></td></tr><tr><td>变化强度 Change intensity/%</td><td>1.66</td><td>3.18</td><td>2.02</td><td>1.76</td><td></td><td>2.57</td><td></td><td>1.72</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 生态环境变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5是RSEI遥感生态指数的主成分分析数据。从中可知,在4个主成分分量中,PC1的特征值最大,其所占比例(贡献度)在两年份中都超过了 $8 5 \\%$ ,说明用PC1可以很好地代表4个指标变量。4个指标对PC1的贡献根据符号可以分为2组,湿度和绿度为同一符号,干度和热度为同一符号,说明这两组指标对生态的贡献是相反的,湿度与绿度起正向作用,干度和热度则相反,这完全符合自然生态情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9eea879858400630ffe0e9befd9f1d0e46c4b163cceae1f229c5e2c002df0e24.jpg",
+        "table_caption": [
+            "表4雄县、安新县、容城县2004一2015年建成区及不透水面变化 $/ \\mathrm { k m } ^ { 2 }$ ",
+            "表5主成分分析数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indicator</td><td colspan=\"4\">2004</td><td colspan=\"4\">2015</td></tr><tr><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td></tr><tr><td>湿度Wet</td><td>0.313</td><td>0.559</td><td>0.767</td><td>-0.024</td><td>0.342</td><td>0.655</td><td>0.67</td><td>-0.073</td></tr><tr><td>绿度 Normalized difference vegetation index</td><td>0.45</td><td>-0.798</td><td>0.397</td><td>-0.054</td><td>0.513</td><td>-0.73</td><td>0.451</td><td>-0.011</td></tr><tr><td>干度 Normalized difference soil index</td><td>-0.537</td><td>-0.17</td><td>0.367</td><td>0.74</td><td>-0.556</td><td>-0.112</td><td>0.467</td><td>0.678</td></tr><tr><td>热度 Land surface temperature</td><td>-0.641</td><td>-0.145</td><td>O 0.346</td><td>-0.67</td><td>-0.557</td><td>-0.158</td><td>0.36</td><td>-0.731</td></tr><tr><td>特征值Eigenvalue</td><td>0.093</td><td>0.012</td><td>0.002</td><td>0</td><td>0.128</td><td>0.01</td><td>0.001</td><td>0</td></tr><tr><td>特征值贡献率 Percent Eigenvalue/%</td><td>86.92</td><td>11.21</td><td>1.41</td><td>0</td><td>92.09</td><td>7.19</td><td>9.09</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6是基于RSEI的相关统计数据。从表中可知,雄安新区两年份的RSEI均值都在0.63左右,表明生态状况较为稳定,生态质量以良好为主。这主要是该区的植被以耕地为主,林地仅占 $3 . 4 \\% ^ { \\left[ 9 \\right] }$ ,且耕地常因收割、休耕而造成地表裸露,直接影响了生态质量。从两年份来看,2015 年的RSEI均值略高于2004年,说明这11年间,该区的生态有一定改善。从表6来看,这主要得益于湿度的增加,干度和热度的下降,而绿度虽有降低但幅度很小。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/aacce6a092c312d8113b7ae1b357566bea3e6a89a80f074fe95bb6d2998cc192.jpg",
+        "table_caption": [
+            "Table 5Principal component analysis ",
+            "表6研究区RSEI指数和4个指标分量的均值",
+            "Table6Mean values of the four indicators and RSEI "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标 Indicator</td><td>2004</td><td>2015</td><td>变化Change</td></tr><tr><td>湿度Wet</td><td>0.580</td><td>0.720</td><td>0.140</td></tr><tr><td>绿度 Normalized difference vegetation index</td><td>0.819</td><td>0.810</td><td>-0.009</td></tr><tr><td>干度 Normalized difference soil index</td><td>0.538</td><td>0.405</td><td>-0.133</td></tr><tr><td>热度Land surface temperature</td><td>0.420</td><td>0.387</td><td>-0.033</td></tr><tr><td>遥感生态指数 Remote sensing-based ecological index</td><td>0.629</td><td>0.639</td><td>0.010</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图4为基于RSEI生态指数反演的研究区2004、2015年生态状况图,图中颜色从蓝到红代表生态从差到优。不透水面主要呈蓝色调,农用地为主的植被呈红色调,水体根据浑浊程度呈绿黄到橙色调,休耕地、裸地等呈蓝绿色调。RSEI图客观显示了研究区生态状况的空间分布差异,这一可视化优点是其它生态评价指标所不具备的,因为它们都是以一个笼统的数值来抽象地代表一个区的生态状况,不直观且难以理解[25]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4059d7592b7d76fe095c4e6c261b1c34a4b55f309df4909ec7ee55707f1f99c.jpg",
+        "img_caption": [
+            "图4雄安新区2004、2015年RSEI生态状况图",
+            "Fig.4RSEI maps of Xiong'an New Area in 20o4 and 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "两个研究年份的生态差异在图4中也可以清楚地体现出来。与 2015年相比,2004 年RSEI图的黄绿色调较多,直观表现出其生态质量不及2015年。究其原因有二：（1）2004年影像的日期为9月8日,比2015年的8月22日的影像迟了半个多月,因此在该区中北部有许多耕地已收割,地表裸露（图2）,在图4中多呈黄绿色调;（2）中部的白洋淀在 2004 年被大量占用,水体大面积消失,淤积严重,水质较差,因此生态不佳。2015 年经环保部约谈限期治理后,水体面积增多,水质明显改善,从而提高了淀区的生态质量。图5是利用Kloiber等[34]和徐涵秋[35]的模型反演的白洋淀水质图,从图中可以看出,2015 年水质图的颜色以蓝色为主,而 2004 年则有许多绿黄色,甚至红色出现,这说明白洋淀在 2004 年无论是水体的悬浮物和叶绿素含量都明显高于 2015年,这与当地的环境年报公布的结果是一致的[36]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3地表参数与生态环境的互动关系分析",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究地表覆盖类型与生态环境的互动关系是预测雄安新区开发对生态环境影响的重要前提。本研究基于最新的 2015年提取数据,采用统计回归方法,通过定量分析地表覆盖类型与生态环境的互动关系来预测即将开展的新区建设可能对区域生态与热环境产生的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先对 2015 年的遥感生态指数、地表温度以及经归一化的不透水面、植被、水体专题影像采用 $1 0 \\times 1 0$ 的网格进行采样,共获得 32319 个样点。将遥感生态指数(RSEI)作为因变量,并与三大地表覆盖类型——不透水面（NDISI）、植被(NDVI)和水体（MNDWI)进行逐步回归分析,获得以下关系方程：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上方程表明,3个地表覆盖类型在逐步回归分析中都通过了 $P { < } 0 . 0 0 1$ 的显著性检验,保留了下来,说明它们都是影响区域生态质量的重要因子,整个方程也具有高度的吻合性( $R$ 接近1)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从各因子系数的符号来看,NDISI为负号,说明不透水面对生态起负作用,而 NDVI和MNDWI为正号,说明植被和水体对生态起正面影响。从各变量系数的绝对值来看,NDISI为0.011大于NDVI和 MNDWI之和中 $0 . 0 0 6 \\substack { + 0 . 0 0 2 } ,$ ),说明不透水面对生态的影响最明显,其影响力大于植被和水体之和。将遥感生态指数和对其影响最大的不透水面、植被的采样点构成三维散点图(图6),可以发现散点聚集性高,不分散,说明各因子高度相关。散点粗细相对均一,呈上细下粗的棒状形态,但没有像其它地区出现显著的楔形形态[17],这说明整个地区生态相对均衡。散点图下部较粗,说明生态差的地区略多于生态优的地区。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据公式(17)推算，当不透水面的面积比例每增加 $10 \\%$ ,植被和水体的面积按9：1的比例做相应减少（因为研究区的植被面积大大超过水体,不透水面的增加将主要占用植被),则RSEI指数将会下降 $2 4 . 7 6 \\%$ ，也就是说,在新区的开发中，当不透水面比例上升 $10 \\%$ ,即由 2015年的 $2 1 \\%$ 上升到 $3 1 \\%$ ,其生态指数会从原来的0.639大幅下降到0.481。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c14fff411c328c9bcddeace09a29a6b5c46070093a2877d19592520e7d3f01d.jpg",
+        "img_caption": [
+            "图5白洋淀水体悬浮物、叶绿素含量图",
+            "Fig.5Maps showing suspended sediment and chlorophyll concentrations in Baiyangdian Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "区域地表开发建设会引起区域的热环境变化,大范围的城市扩张诱发的城市热岛效应已引起了全世界的广泛关注。国家环保部在2015年正式颁发的国家环保标准《生态环境状况评价技术规范》中,首次引入城市热环境指标,将其与水质、空气、噪声等一起作为评价城市生态环境质量的重要指标。许多研究表明,不透水面是增加地表温度的最重要因子[37-39],因此进一步采用回归分析研究了不透水面和地表温度的关系,结果发现,该区不透水面和地表温度并不是简单的线性关系,而是二次多项式关系(图7)。这表明高比例不透水面地区的升温幅度会明显大于低比例不透水面地区,根据图7中的二次多项式方程( $\\cdot P { < } 0 . 0 0 1 \\rangle$ 计算，在不透水面比例小于 $3 0 \\%$ 的地区,每增加 $10 \\%$ 的不透水面,其升温幅度小于 $1 ^ { \\circ } \\mathrm { C }$ ,但在不透水面大于 $60 \\%$ 的高比例地区,其升温幅度可达2— ${ \\cdot 3 } \\mathrm { { ^ \\circ C } }$ （表7）。因此高比例不透水面地区的升温效应必须引起足够的重视。雄安新区3个县建成区的不透水面比例在2015 年都大于 $70 \\%$ （表4），在8月22日10点54分卫星过空时,3个建成区的地表平均温度达到 $3 7 . 5 1 \\mathrm { ^ { \\circ } C }$ ，高出当时该区地表平均温度( $3 1 . 3 6 ^ { \\circ } \\mathrm { C }$ )达 $5 . 1 5 \\mathrm { ^ \\circ C }$ 之多，因此夏季的热岛效应不容小覷。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于温度是受地表三大覆盖类型的综合影响,因此为考察它们对地表温度的综合影响,进一步将地表温度与不透水面、植被和水体进行逐步回归分析，获得以下关系方程：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { L S T = 0 . 1 7 6 N D I S I - 0 . 1 0 8 N D V I - 0 . 0 2 1 M N D W I + 3 3 . 5 2 8 }$ 式中，NDISI和NDVI通过了 $P { < } 0 . 0 0 1$ 的检验,MNDWI通过了 $P { < } 0 . 0 0 3$ 的检验，说明它们都是影响地表温度的重要参数。从各因子的系数来看，NDVI和MNDWI为负号，说明植被和水体起降温作用，而NDISI为正号，代表不透水面起着升温作用。从系数的绝对值来看，不透水面对地表温度的影响同样大于植被和水体之和。显然，不透水面是导致地表温度上升的最重要因子。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据公式(18)推算，当不透水面的面积比例增加$10 \\%$ ,植被和水体的面积同样按9：1作相应减少，则地表温度会上升 $2 . 7 8 ^ { \\circ } \\mathrm { C }$ ，因此新区的开发同样会面临严峻的区域升温挑战。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3雄安新区规划的生态与热环境效应预测",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "即将开展的新区建设，将使该区的地表发生重大变化，并由此对区域生态环境产生影响。因此在规划中融入生态环境理念，是未来新区规划的重要前提。而采用遥感空间信息技术对新区的规划影响进行预测，将为新区的绿色生态规划建设提供科学的依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于目前雄安新区尚在规划阶段，媒体披露的新区规划方案只有人口指标和新区面积，因此本文主要通过人口指标和新区面积来间接估算不透水面增加面积来进行预测。根据方案,新区的规划人口最高将达到250万人，人口密度达到1250人/km²，远景规划面积达到 $2 0 0 0 ~ \\mathrm { k m } ^ { 2 }$ 。而该区现有人口为113.09万人，人口密度为$7 2 8 \\ \\mathrm { \\ J / k m ^ { 2 \\left[ 9 \\right] } }$ 。可见,新区的建设将使得该区的人口和密度都大幅上升,这势必给该区的生态环境带来影响。为此,本节以该区2015 年的人口、人口密度、以及本次研究查明的生态现状、地表温度均值和不透水面面积为基准,根据新区面积和预计不透水面比例来计算出可能增加的不透水面面积,然后分别利用公式(17)和（18）对新增不透水面面积所产生的生态与热环境效应进行预测,表8为预测结果。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5f7c7996f46fcf3c1498972e7fec960c6e0d664e16a45046c91d24bc61ce52f.jpg",
+        "img_caption": [
+            "图6三维特征散点图Fig.6 3D scatter plot"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cca6a875de24217e86f6aef5d8a2c62c805b3ebe8605cd53b6f4efe0e9b51e6.jpg",
+        "img_caption": [
+            "图7不透水面(NDISI)和地表温度(LST)的回归分析 Fig.7Relationship of NDISI with LST "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从表8的预测结果来看，如果按新区不透水面面积占总面积 $2 5 \\%$ 的比例来预测,则新区的不透水面面积将大幅上升至 $\\mathsf { s o o k m } ^ { 2 }$ ,净升 $1 7 0 ~ \\mathrm { k m } ^ { 2 }$ ,升幅达 $5 2 \\%$ ,这势必对该区的生态和热环境产生明显的影响。预测结果表明，这将导致该区的生态质量下降 $1 0 \\%$ ,RSEI从现有的0.639下降到0.576,即生态质量等级从良好降为中等[23];而地表平均温度则会上升 $1 . 1 \\mathrm { { ^ { \\circ } C } }$ ,从现有的 $3 1 . 4 ^ { \\circ } \\mathrm { C }$ 上升到 $3 2 . 5 \\mathrm { ^ { \\circ } C }$ 。如果不透水面占新区的面积比例进一步升高,生态下降和地表温度上升的幅度还会进一步加大。近期,中国社科院预测了该区的人口上限为500 万[40],比现有规划方案的250万人口上限高了1倍,这势必造成该区不透水面面积的更进一步上升,并对生态质量和地表温度产生更大的负面影响。反之,如果将新区不透水面面积占总面积的比例控制在 $20 \\%$ ，加大旧城改造,集约利用土地资源,则新区的生态质量反而有所上升,地表温度有所下降。按此方案,生态质量将上升 $2 . 5 \\%$ ,温度下降 $0 . 3 ^ { \\circ } \\mathrm { C }$ ,这主要得益于 $20 \\%$ 的不透水面比例低于3县现有的 $2 1 . 0 4 \\%$ 的比例(表3）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以上预测是在该区现有的地表覆盖分布格局上进行的,从2015年影像上看,该区无论是城市建成区或农村居民地，其不透水面密度都很高。由此可见,如果要改善模型预测的结果,雄安新区可采用低影响度的绿色生态技术来进行科学的规划。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/78d502807274ae3f8c129e8b5946f3bd0409d3bae7ad0af6350034df6c1fde2b.jpg",
+        "table_caption": [
+            "表7不透水面升温幅度",
+            "表8雄安新区规划人口目标的生态与热环境效应预测"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>不透水面比例 Percent impervious</td><td>地表温度 Land surface temperature/℃</td><td>升温 Increased Land surface temperature/C</td><td>不透水面比例 Percent impervious</td><td>地表温度 Land surface</td><td>升温 Increased Land</td></tr><tr><td>surface /% 10</td><td>28.46</td><td></td><td>surface /% 60</td><td>temperature/℃ 34.73</td><td>surface temperature/℃ 2.21</td></tr><tr><td>20</td><td>28.76</td><td>0.29</td><td>70</td><td>37.43</td><td>2.69</td></tr><tr><td>30</td><td>29.53</td><td>0.77</td><td>80</td><td>40.60</td><td>3.17</td></tr><tr><td>40</td><td>30.79</td><td>1.25</td><td>90</td><td>44.26</td><td>3.65 O</td></tr><tr><td>50</td><td>32.52</td><td>1.73</td><td>100</td><td>48.39</td><td>4.13</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc6e0ef7fb3bfa6b990684b8d5b7b59f780e4ab523020f3ce8ba86ca222048f9.jpg",
+        "table_caption": [
+            "Table 7Impervious surface levels with corresponding LST ",
+            "TableredictioofologicalquaitydtalevirontchngesondingtotheotetialoplatiogowthiXionanea "
+        ],
+        "table_footnote": [
+            "\\*：按照当前面积计算； $\\ast \\ast { }$ ：按照远景规划面积计算"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">人口 Population /万人</td><td rowspan=\"2\">人口密度 Population /km)</td><td rowspan=\"2\">预增不透水面面积 Increased area ofimpervious</td><td colspan=\"3\">RSEI</td><td colspan=\"2\">LST/C</td></tr><tr><td>预测值 Prdicted</td><td>下降 Decline</td><td>下降比例/% 预测值/C Percentage Predleted</td><td>上升/C Increse</td><td>上升比例/% Percentage</td></tr><tr><td>250</td><td>1250</td><td>500</td><td>0.576</td><td>-0.063</td><td>-9.79 32.48</td><td>1.12</td><td>3.58</td></tr><tr><td>250</td><td>1250</td><td>400</td><td>0.655</td><td>0.016</td><td>2.49 31.06</td><td>-0.30</td><td>-0.94</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "雄安新区的建设是国家的重大举措,合理规划和建设绿色生态新区,是新区建设成功与否的重要标志。本次研究表明,雄安新区近11年地表三大覆盖类型的面积虽然互有消长,但变化强度不大。雄安新区的生态状况总体也较稳定,11年来稳中略升。因此,该区总体开发强度不大,生态质量较好。但由于区内地表绿被主要以耕地为主,少有林地,因此生态状况易受农作物季节变化的影响。另外，区内建设用地的不透水面比例很高,3个县城的不透水面比例都超过 $7 0 \\%$ ,导致建成区地表平均温度超过整个研究区地表平均温度达5.$2 ^ { \\circ } \\mathrm { C }$ 之多，城市热环境不容乐观。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "雄安新区地表三大覆盖类型都是影响区域生态质量和热环境的主要因子,其中尤以不透水面影响最大，其影响力超过植被和水体之和,且表现为负面影响。由于新区的建设将会有大量不透水面增加,因此控制不透水面的比例和密度将是新区规划需要考虑的首要问题。本研究揭示了该区不透水面与地表温度呈二次多项式关系,高不透水面比例地区的升温会数倍高于低不透水面比例地区,因此新区的规划要严控高不透水面比例地区。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据研究所获得的地表三大覆盖类型与区域生态质量和热环境的定量关系模型预测,新区规划的人口规模与新增面积将会对该区的生态质量和热环境产生影响,如果按新增不透水面面积占新区面积 $2 5 \\%$ 的比例来预测,它将导致该区的生态质量下降 $10 \\%$ ,地表温度上升 $1 . 1 \\mathrm { { ^ { \\circ } C } }$ 。但如果将不透水面比例控制在 $20 \\%$ ,则新区的生态质量反而上升 $3 . 6 \\%$ ,地表温度下降 $0 . 3 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]KenedyRE,Andrefouet,CohenWB,GomezC,GrifthsP,HaisM,HealeySP,HelmerEH,HostertP,Lyons MB,MeigsGW, PflugmacherD,PhiSR,PowellSL,carthP,SenS,hroederTA,Scheider,SoenscheinR,VogelmaJE,WulderMA,ZZ. Bringinganecologicalviewofchangetoandsat-basedremotesensing.FrontiersinEcologyandtheEnvroment，O14，12（)：9-346.   \n[2]WilltesingageefolcalongiUidatedeasolocalseatio ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "血小示，(2): 541-547.[4]MensahF,dauSK,daDK.RemoteesingdGedesntflanegradatioandplcatiforGana'slcal.Environmental Practice,2015,17(1）：3-15.[5]DuPJ，XiaJS,DuQ,uoYTanK.Evaluatiof tespatitempoalteofubanologicalscurityusingeotessingdG.International Journal of Remote Sensing，2013，34（3）：848-863.［6］徐涵秋.基于城市地表参数变化的城市热岛效应分析.生态学报，2011,31（14)：3890-3901.[7]BehlingosterufaHtoedGedtofbolcalcatsremote sensing and height information.Ecological Indicators，2015,48：218-234.[8]XuHQ,LinDF,TangF.TeimpactofimpervioussufacedevelopentonlandsufcetemperaureiasubtropicalCityXiaina.International Journal of Climatology，2013，33（8）：1873-1883.[9]保定市统计局.保定经济统计年鉴2016.（2016-11-01）[2017-05-16].htp://navi.cnki.net/KNavi/YearbookDetailpcode=CYFD&pykm=YBDJJ&bh $\\ c =$ [10]ChavezJrgebsedosctiReviddpedaericEg&tesin96（9）：1025-1036.[11]RamseyRDWightJr,GntyCEvaatingteefdsat3OEacedaticaertoorvgeaooriutepenvironments.Geocarto International,2004，19(2）：39-47.[12]BarsiJA,SchotJR,HookSJ,aquenG,MarkhamB,docinskiRG.Landsat-8healifraredesor（）vicarosaetriccalibration.Remote Sensing，2014,6(11）：11607-11626.[13]JieeutlJbJAraG,lasXevsglerioaeuretrieval from Landsat thermal-infrared data.IEEETransactionson Geoscience&Remote Sensing，2O09,47(1）：339-349.[14]JimenenboviD,tarC,istbalJndufaceeperaturereriealosfrodsat8halsensor data. IEEE Geoscience & Remote Sensing Leters，2014,11(10): 1840-1843.[15]SobrinoJAiee-uozJC，SoriaG,omguerauanterL，oreJ，lazaA，artiezLndufaceeisivityeevalodifferent VNIR and TIR sensors. IEEE Transactions on Geoscience & Remote Sensing，2008,46(2): 316-327.[16]NicholJsiiolahttfalteligiatsaalEngineering& Remote Sensing，2009,75(5）:547-556.[17]XuHAalysisofimpervioussufaceaditspactorbanheateviroentusingteoalizeddiferenceimpervioussfaceIdex（NDISI).Photogrammetric Enginering & Remote Sensing，2010,76(5）: 57-565.[18]XuHModifioooaliseddiereceateridex（DW）toanceenwaterfaturiotelyediageryalJournal of Remote Sensing，2006,27(14): 3025-3033.[19]WentEA,AdersoSrgiastznd,eeVyntSQatrociDaaA,tKCportigobletalchange research：Areview of trends and knowledge gaps in urbanremote sensing.Remote Sensing，2014，6(5）:3879-3905.[20]TlisJA,esJabrGliiAatiaeagetexpintssingticaralageddaGIScience & Remote Sensing，2010,47(3）:338-359.[21]ZhangXanD,ChenJY,anYZ,aoZH.Usinglogtieeriesndsatdatamoitormpervioussufacedamicsatudyin the Zhoushan Islands. Journal of Applied Remote Sensing， 2013, $7 ( 1 ) : 0 7 3 5 1 5$ [22] 李德仁，罗晖，邵振峰.遥感技术在不透水层提取中的应用与展望.武汉大学学报：信息科学版，2016，41（5)：569-577，703-703.23 徐涵秋.城市遥感生态指数的创建及其应用.生态学报，2013，33（24)：7853-7862.[24] 王士远，张学霞，朱彤，杨维，赵静瑶.长白山自然保护区生态环境质量的遥感评价.地理科学进展，2016,35（10)：1269-1278.[25] 徐涵秋.区域生态环境变化的遥感评价指数.中国环境科学，2013，33(5)：889-897.[26] 宋慧敏，薛亮.基于遥感生态指数模型的渭南市生态环境质量动态监测与分析.应用生态学报，2016,27(12)：3913-3919.[27] 张浩，杜培军，罗洁琼，李二珠.基于遥感生态指数的南京市生态变化分析.地理空间信息，2017，15(2)：58-62.[28] 吴志杰，王猛猛，陈绍杰，邹丹.基于遥感生态指数的永定矿区生态变化监测与评价.生态科学，2016，35（5）：200-207.[29] 张灿，徐涵秋，张好，唐菲，林中立.南方红壤典型水土流失区植被覆盖度变化及其生态效应评估——以福建省长汀县为例．自然资源学报，2015，30(6)：917-928.[30] 罗春，刘辉，戚陆越.基于遥感指数的生态变化评估——以常宁市为例.国土资源遥感，2014,26(4)：145-150.[31]CristEAaeedatrasfatioforaefctoata.esigofviot98，）6.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32]KeameyMSRogersAS,owshndJRGDevelopingodelforeteiningcoastalmarshhalth//TirdTheaticConferenceoeoteSensingforMarineandCoastalEnviroments.Seatle，Washington：EnvironentalResearchInsituteofMicigan，995：52-37.  \n[33]BaigM，ZangLF，hui,ngXDerivatioofeearasfoaoseaat8tsaeltefaoeSensing Letters，2014，5(5）：423-431.  \n[34]KloiberSreksoLGuerprocureolateartentsingdatuspata.Remote Sensing of Environment，2002，82(1）：38-47.  \n[35] 徐涵秋.环厦门海域水色变化的多光谱多时相遥感分析.环境科学学报，2006，26(7)：1209-1218.  \n[36]保定市人民政府.2015年保定市环境质量公报发布．（2016-06-03）[2017-05-16]．htp:/d.hebnews.cn/2016-06/03/content_5547899.htm.  \n[37] 徐涵秋．城市不透水面与相关城市生态要素关系的定量分析.生态学报，2009，29(5)：2456-2462.  \n[38] 唐泽，郑海峰，任志彬，崔明星，何兴元.城市地表热力景观格局时空演变——以长春市为例.生态学报，2017,37（10)：3264-3273.  \n[39] 徐永明，刘勇洪.基于TM影像的北京市热环境及其与不透水面的关系研究.生态环境学报，2013，22（4)：639-643.  \n[40] 网易新闻.社科院：雄安新区人口应不超过500万.（2017/8/12）[2017-8-23].htp://news.163.com/17/0812/14/CRL5KQ6B0018AOR.html.",
+        "page_idx": 12
+    }
+]

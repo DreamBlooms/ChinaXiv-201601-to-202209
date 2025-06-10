@@ -1,0 +1,95 @@
+# 1507年1月13日中心食观测记载得到的世界时改正数
+
+马利华
+
+中国科学院国家天文台，北京，100101
+
+摘要：清代乾隆安徽《铜陵县志》有1507年（明代正德二年）1月发生了一次中心食（日全食和日环食的统称）的观测记载。本文作者利用现代天文行星历表计算了此次日食的日食带，研究当时的世界时改正数。结合明代嘉靖江西《东乡县志》和清代顺治安徽《望江县志》两处地方志关于此次日食的观测记载，进一步分析了东乡县和望江县对此次日食的可观测情况。本文研究对于地球自转的长期变化研究具有一定的参考价值。
+
+关键词：中心食；日食观测记载；世界时改正数
+
+中国的古代天象记载对于历史研究和古代天文学研究具有重要价值，并在现代天文学研究中起着重要的作用[-3]。中国古代地方志是指全面、系统地记述本行政区域内自然、政治、经济、文化、社会的历史与现状的资料性文献。众多的古代地方志都对天象（包含日食，月食，月掩星，冲，合等）有专门的文字记载，这为天文学研究提供了重要的观测资料。通常情况下，地方志中用文字来描述当时的天象观测情况。但这些天象观测是人为记载的，有一定的主观性。地方志中的观测记载在流传过程中可能出现疏漏。这都会导致天象观测记载存在不准确甚至错误。因此，在利用古代地方志资料开展科研工作期间要谨慎核查。
+
+众多周知，地球自转存在长期减慢的趋势。根据古代天象的观测记载，可以研究地球自转的长期变化。许多学者开展了这方面的研究工作[4-16]。清代乾隆安徽《铜陵县志》卷13页5有记载：（明代正德二年）正月，朔，日食，既。其中，“明代正德二年”对应1507年；“既”是中国古代天象记载中观测到中心食（日全食和日环食的统称）的专用文字描述。以上记载简洁精炼地描述了在安徽铜陵县观测到的一次中心食现象。另外，明代嘉靖江西《东乡县志》和清代顺治安徽《望江县志》两处地方志中都有观测到1507年1月发生日食的文字记载。本文利用美国航空航天局（National Aeronautics and Space Administration,NASA）喷气推进实验室（Jet PropulsionLaboratory,JPL)发布的现代天文行星历表DE422,分析得到此次日食记载对应1507年1月13日发生的日食现象。以下详细计算此次日食的日食带分布，并研究世界时改正数和地球自转的长期变化。
+
+# 1地球动力学时间系统下的1507年1月13日日食
+
+天文行星历表对于天文学和地球科学及其他相关学科领域都具有重要的实用价值。美国JPL发布的DE系列现代天文行星历表已经在天体测量、深空导航、行星际探测等方面得到较为广泛的应用。2009 年9月JPL发布DE422行星历表[17]，数据跨度自公元前3001年12月7日至公元3000年1月30日，该历表可以满足研究者对古代天象记载研究的基本需求。DE422行星历表采用国际天文联合会（International AstronomicalUnion，IAU）推荐的国际天球参考系统（International Celestial ReferenceSystem，ICRS），对应的国际天球参考架（International Celestial Reference Frame,ICRF）是通过一套河外射电源的位置来实现。DE422 行星历表采用的地球动力学时（TerrestrialDynamical Time,TDT）是一套均匀的时间系统。
+
+日食是月球运动到太阳和地球中间时，月球身后的黑影正好落到地球表面的特殊天文现象。利用天文行星历表可以计算得到太阳、月球在TDT时间系统下的空间位置。根据日月位置的几何关系，可以得到日食在地球表面的可观测情况，即日食带。计算表明，1507年1月13日日食是一次日环食。对应的日食带绘于图1。图中，红色虚线围成的狭长条带是在地球表面上可以观测到日环食现象的区域。
+
+![](images/cc8598c12e7554c06dc32be4c3c4330cf21a8c4ac4c38fa03ea85bebbc0ffdca.jpg)  
+图11507年1月13日日食的日食带（TDT时间系统）  
+Fig.1 The solar eclipse path on January 13,15O7(with TDT time system)
+
+# 21507年1月13日日食观测记载得到的世界时改正数
+
+实际上，地球自转存在显著的长期减慢趋势。TDT 时间系统与世界时系统（UniversalTime,UT）之间存在一个时间改正数，称之为世界时改正数△T。△T满足：
+
+$$
+\Delta \mathrm { T } = \mathrm { T D T } - \mathrm { U T }
+$$
+
+上式给出了TDT和UT的转换关系。 $\Delta \mathrm { T }$ 直接反映了地球自转的长期变化。利用古代天象在世界时系统的观测记载，可以推算该天象发生年代的△T数值。反之，已知古代天象发生年代的 $\Delta \mathrm { T }$ 数值，也可以推算该天象在当时的可观测情况[18-19]。
+
+结合安徽铜陵县（30°.93N,117°.82E）观测到1507年1月13日中心食的文字记载，说明铜陵县处于可见中心食的狭长条带内。据此可以得到△T数值的上下限范围为[294s，1518s]。即△T处于这个范围内时，在铜陵县可以观测到中心食现象。
+
+# 3讨论
+
+对于1507年1月13日的日食观测，明代嘉靖江西《东乡县志》和清代顺治安徽《望江县志》也有记载，两处地方志均用了“日食，甚”来描述当时观测的日食现象。这里结合前述计算得到的 $\Delta \mathrm { T }$ 值上下限，分析了江西东乡县 $( 2 8 ^ { \circ } . 2 3 \mathrm { N } .$ $1 1 6 ^ { \circ } . 6 1 \mathrm { E }$ ）和安徽望江县（ $3 0 ^ { \circ } . 1 2 \mathrm { N }$ ， $1 1 6 ^ { \circ } . 6 9 \mathrm { E }$ ）两地对此次日食的可观测情况。表1和表2分别给出了这两地观测此次日食各个食相的TDT时间、太阳高度角，并给出食分（描述日食程度的定量化数字)。为了直观起见，表中同时给出各个食相时刻对应的当地时间（LocalTime,LT)。考虑到两地观测日食的复圆时刻出现在日落之后，表中也给出了两地的日落时刻。
+
+# 表1江西东乡县对1507年1月13日日食的可观测情况
+
+Table 1Visible situations of solar eclipse on January 13,15O7 at Dongxiang county of Jiangxi   
+
+<html><body><table><tr><td>UT corrections (△T)/s</td><td>Eclipse stage</td><td>Terrestrial Dynamical Time / (hh:mm:ss)</td><td>Local Time / (hh:mm:ss)</td><td>Solar altitude angle / (deg)</td><td>Magnitude</td></tr><tr><td rowspan="4">294</td><td>Partial eclipse begins</td><td>7:53:23</td><td>15:34:55</td><td>21.6</td><td rowspan="3">0.881</td></tr><tr><td>Maximum eclipse</td><td>9:08:28</td><td>16:50:00</td><td>7.7</td></tr><tr><td>Partial eclipse ends</td><td>10:14:50</td><td>17:56:22</td><td>-5.7</td></tr><tr><td>Sunset</td><td>9:50:00</td><td>17:3232</td><td>/</td><td></td></tr><tr><td rowspan="4">1518</td><td>Partial eclipse begins</td><td>7:47:56</td><td>15:09:05</td><td>25.9</td><td rowspan="4">0.945</td></tr><tr><td>Maximum eclipse</td><td>9:06:33</td><td>16:27:41</td><td>12.0</td></tr><tr><td>Partial eclipse ends</td><td>10:15:32</td><td>17:36:41</td><td>-1.7</td></tr><tr><td>Sunset</td><td>10:11:28</td><td>17:32:32</td><td>/</td></tr></table></body></html>
+
+# 表2安徽望江县对1507年1月13日日食的可观测情况
+
+Table 2Visible situations of solar eclipse on January 13,15O7 at Wangjiang county of Anhui   
+
+<html><body><table><tr><td>UT corrections (△T)/s</td><td>Eclipse stage</td><td>Terrestrial Dynamical Time / (hh:mm:ss)</td><td>Local Time / (hh:mm:ss)</td><td>Solar altitude angle / (deg)</td><td>Magnitude</td></tr><tr><td rowspan="4">294</td><td>Partial eclipse begins</td><td>7:53:27</td><td>15:35:19</td><td>20.3</td><td rowspan="4">0.930</td></tr><tr><td>Maximum eclipse</td><td>9:08:28</td><td>16:50:19</td><td>6.7</td></tr><tr><td>Partial eclipse</td><td>10:14:54</td><td>17:56:46</td><td>-6.4</td></tr><tr><td>ends Sunset</td><td>9:47:09</td><td>17:28:59</td><td>/</td></tr><tr><td rowspan="4">1518</td><td>Partial eclipse</td><td>7:48:28</td><td>15:09:55</td><td>24.4</td><td rowspan="4">0.947</td></tr><tr><td>begins Maximum eclipse</td><td>9:06:38</td><td>16:28:06</td><td>11.0</td></tr><tr><td>Partial eclipse</td><td>10:15:27</td><td>17:36:55</td><td>-2.4</td></tr><tr><td>ends Sunset</td><td>10:07:37</td><td>17:29:00</td><td>/</td></tr></table></body></html>
+
+由表1和表2可知，在江西东乡县观测1507年1月13日日食的食分处于0.881到0.945之间；在安徽望江县观测1507年1月13日日食的食分处于0.930到0.947之间，都属于食分较大的日食。如果天气条件允许的话，当时当地的人们应该能够显著感受到这种日食现象，并把这次日食现象收录于当地的地方志记载。这也间接验证了本文得到△T数值范围的正确性。
+
+Morrison 和Stephenson 综合利用古代多地的天文观测记载，以分段函数的形式给出了 $\Delta \mathrm { T }$ 在不同时期的计算公式[4]。Espenak 和 Meeus 进一步给出对应于不同天文行星历表的修正方法[2]。据此计算得到1507年1月13日的△T数值范围为 $1 8 8 \mathrm { s } { \pm } 2 0 \mathrm { s }$ 。这与本文依据《铜陵县志》得到的△T值存在一定的差别（最小差别为86s)。Morrison 和 Stephenson 在归纳△T的分段计算公式期间，并没有考虑
+
+《铜陵县志》这一地方志中的日全食记载，本文研究结果可用以更新分段函数的参数。当然，考虑到地方志的观测记载在流传过程中可能出现疏漏，即使有佐证材料，仍然不能完全保证铜陵关于当时观测记载“既”的准确性。
+
+# 4小结
+
+本文结合清代乾隆安徽《铜陵县志》对1507年1月13日的日食观测记载，研究确认了当时观测到的中心食现象，并计算得到当时的世界时改正数△T范围[294s,1518s]。进一步考察了明代嘉靖江西《东乡县志》和清代顺治安徽《望江县志》中关于此次日食的观测记载，确认这两个地点都可以观测到大食分日食现象。本项工作对于地球自转的长期变化研究具有参考价值。另外，本文研究结果与 Morrison 和 Stephenson 给出的△T公式结果存在较小差别，在后续工作中将深入研究出现这种差别的原因。
+
+# 参考文献
+
+[1] 刘次沅．古代天象记录于应用历史天文学．陕西天文台台刊,1990,13(1),1-8. Liu C.Y. Ancient astronomical observation and applied historical astronomy. Publlications of the Shanxi Astronomical Observatory, 1990, 13(1), 1-8.   
+[2] 韩延本．利用古代天象记载研究地球自转长期变化的原理和方法．北京师范 大学(自然科学版)，2001,37(1),26-30. Han Y.B.Principle and method to study secular variation of the Earth's rotation using observations of ancient astronomical events. Journal of Beijing Normal University (Natural Science), 2001, 37(1), 26-30.   
+[3] 冯时．中国天文考古学(第3版).北京：中国社会科学出版社,2017. Feng S. Astroarchaeology in China (3rd Ed). Beijing: China Social Sciences Press, 2017.   
+[4] 韩延本，李致森，林柏森，杨希虹．利用中国古代中心食记录得到的地球自 转速率变化参数．天体物理学报.1984,4(2),107-114. Han Y.B.，Li Z.S.， Lin B.S.，Yang X.H. The parameter of variation in the rotational speed of the Earth from ancient central eclipse records of China. ACTA Astrophysica Sinica, 1984, 4(2):107-114.   
+[5] 韩延本，李启斌，Chao,B.F.古代日月食观测记载和地球自转变化研究．地 球物理学进展.1995,10(3),43-50. Han Y.B., Li Q.B., Chao, B.F. Records of ancient solar and lunar eclipses and study of variation of the Earth's rotation.Progress in Geophysics. 1995,10(3), 43-50.   
+[6] 韩延本．由古代天象记载研究揭示的地球自转变化的两个重要现象．地球物 理学进展,1996,11(4): 116-118. Han Y.B. Two interesting phenomena in variation of the Earth's rotation derived from studies of records of ancient astronomical observations. Progressin Geophysics, 1996,11(4): 116-118.   
+[7] Han Y.B., Qiao Q.Y. A Check on the Variations of Earth's Rotation with an Ancient Solar Eclipse. Chin. J. Astron. Astrophys. 2003,3(6), 569-575.   
+[8] 吴守贤，刘次沅．古代交食观测记录对地球自转速率长期变化的研究进展 天 文学进展 1987,5(2),147-157. Wu S.X., Liu C.Y. The progress on the research of the secular variation of the Earth's rotation by the ancient eclipses records. Progress in Astronomy. 1987, 5(2), 147-157.   
+[9] Pang K.D.， Yau K.， Chou Hh.，Wolff R. Computer analysis of some ancient Chinese sunrise eclipse records to determine the Earth's rotation rate. Vistas in Astron0my. 1988, 31: 833-847.   
+[10]张培瑜，韩延本．八世纪前中国纪时日食观测和地球转速变化．天文学报. 1995, 36(3), 314-320. Zhang P.Y., Han Y.B. The timing solar eclipses records recorded in China and the secular changes in the Earth's rotation before the 8th century. ACTA Astronomica Sinica,1995,36(3),314-320.   
+[11]Stephenson F.R. Historical Eclipses and Earth's Rotation. Cambridge,UK: Cambridge University Press, June 1997.   
+[12]Stephenson F.R. Historical eclipsesand Earth's rotation. Astronomy & Geophysics,2003,44(2), 2.22-2.27   
+[13]Stephenson F.R.， Morrison L.V.， Hohenkerk C.Y. Measurement of the Earth's rotation 720 BC to AD 2015.2016, Pr0c. Roy. Soc.A, 2016, 472, 2016.0404   
+[14]Morrison L.V., Stephenson F.R., Historical Values of the Earth's Clock Error △T and the Calculation of Eclipses, J. Hist. Astron., 2004, 35(120), 327-336.   
+[15]Morrison L.V.， Stephenson F.R., Hohenkerk C.Y., Zawilski M. Addendum 2020 to ‘Measurement of the Earth's rotation: 720 BC to AD 2015'.Proc. R. Soc. A. 2021,477: 20200776.   
+[16]Tanikawa K., Sóma M. △T and the tidal acceleration of the lunar motion from eclipses observed at plural sites, Publ. Astron. Soc. Japan. 2004, 56, 879-885.   
+[17]Konopliv S, Asmar S W, Folkner W M, et al. Mars high resolution gravity fields from MRO, Mars seasonal gravity, and other dynamical parameters[J]. Icarus, 2011, 211: 401-428.   
+[18]马利华，韩延本，尹志强，等．基于现代天文行星历表的仲康日食研究．天 文研究与技术.2021a,18(3),421-426. Ma L H, Han Y B, Yin Z Q, Qiao Q Y. Research on Zhongkang solar eclipse based on modern astronomical planetary ephemeris [J]. Astronomical Research & Technol0gy. 2021a, 18(3), 421-426.   
+[19]马利华，韩延本，乔琪源，等．基于现代天文行星历表的殷卜辞月食记载研 究．天文研究与技术.2021b,18(4),561-566. Ma L H, Han Y B,Qiao Q Y, Sun X Z. Research on Lunar Eclipses in the Yin Period Oracle Bone Inscription Based on Modern Astronomical Planetary
+
+Ephemeris [J]. Astronomical Research & Technology. 2021b, 18(4), 561-566. [20]Espenak F, Meeus J. Five millennium catalog of solar eclipses -1999 to $+ 3 0 0 0$ (2000 BCE to 3000 CE)-revised.NASA-TP2009-214174. 2009. http://ntrs.nasa.gov/citations/20090028005.
+
+# A Delta-T Value from the Record of Central Eclipse on January 13, 1507
+
+Ma Lihua
+
+(National Astronomical Observatory, Chinese Academy of Sciences, Beijing 1Oo101, China, Email: mlh@ nao.cas.cn )
+
+Abstract: In the Qing Dynasty Qianlong Anhui Tongling County Chronicle, there was an observation record of a central eclipse (collectively referred to as total solar eclipse and annular solar eclipse） in January 15O7 (the 2nd year of Zhengde of Ming Dynastry). The author uses the modern astronomical planetary ephemeris to calculate the eclipse of this solar eclipse,and then obtains the correction number of the UT (Universal Time) at that time. Combined with the observation records of this solar eclipse in Dongxiang County Chronicle of Jiangxi in Jiajing of Ming Dynasty and Wangjiang County Chronicle of Anhui in Shunzhi of Qing Dynasty, the observable situation of this solar eclipse in Dongxiang and Wangjiang counties is further analyzed. The results of this study have reference value for related researches about secular change in the Earth's rotation.
+
+Key words: central eclipse; solar eclipse observation records; UTC correction

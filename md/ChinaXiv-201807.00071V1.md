@@ -1,0 +1,108 @@
+# 脐带间充质干细胞的发现研究及规模化生产
+
+《脐带间充质干细胞》连载之一
+
+王佃亮
+
+（中国人民解放军火箭军总医院药学部组织工程与再生医学实验室北京100088）
+
+摘要脐带间充质干细胞来源于人体脐带组织，具有自我复制更新和多向分化潜能，是一种具有许多优势的干细胞类型，可用于治疗老年性退变、帕金森、血管缺血、小儿自闭症、系统性红斑狼疮、强直性脊柱炎、多发性神经硬化症、糖尿病、各种创伤、移植物抗宿主病等常规治疗方法难以治愈的疾病，并且治疗效果明确。本文介绍了脐带间充质干细胞的研究发现历程，临床应用价值，分离制备和检测鉴定方法，生物学特性以及规模化生产技术。需要强调的是，脐带间充质干细胞具有比其他一些干细胞（如脐带造血干细胞、骨髓造血干细胞、骨髓间充质干细胞等）没有的优势，材料来源广泛，细胞增殖能力强，没有伦理问题。脐带间充质干细胞的生产和应用应遵循政府或机构颁布的相关法律法规和标准规范。
+
+关键词干细胞；间充质干细胞；脐带间充质干细胞；分离鉴定；生物学特性；规模化制备
+
+# The discovery and research processes and large-scale production of mesenchymal stem cells from
+
+# umbilical cord
+
+Wang Dian-liang
+
+(Tissue Engineering and Regenerative Medicine Laboratory， The General Hospital of The PLA Rocket Force，Bei jing 100088，China)
+
+Abstract As a kind of stem cells possessing many advantages，Umbilical cord mesenchymal stem cells that have the ability of self-renewing and multi-direction differentiation originate from human umbilical cord tissue. Umbilical cord mesenchymal stem cells can use for treatment of senile degeneration， Parkinson, vascular ischemia, infantile autism, systemic lupus erythematosus， ankylosing spondylitis, multiple neuraclerosis, diabetes,all kinds of trauma, graft versus host disease and other diseases that conventional treatment methods are difficult to cure，and the treatment effect is clear. This paper introduces the research and discovery processes， clinical application value， isolation and preparation, detection and identification methods, biological characteristics and large-scale production technology of umbilical cord mesenchymal stem cells. It should be emphasized that umbilical cord mesenchymal stem cells have advantages over some other stem cells,such as umbilical cord blood stem cells,bone marrow hematopoietic stem cells, bone marrow mesenchymal stem cells and so on. They have wide source of materials, strong cell proliferation and no ethical problems. The production and application of umbilical cord mesenchymal stem cells should follow the related laws and regulations and standards issued by the government and institutions.
+
+KeywordStem cell; Mesenchymal stem cell; Umbilical cord mesenchymal stem cell; Isolation and Identification; Biological characteristics; Large scale preparation 通讯作者，电子信箱：wangdianliang@sina.com
+
+干细胞是一类具有自我复制更新（self-renewing)）和多向分化潜能的原始细胞群体，通过不断地复制更新形成其他细胞、组织、器官甚至个体[2]。同时干细胞是一个大家族，种类很多，脐带间充质干细胞（Umbilical cord mesenchymal stemcell，UCMSC）就是其中一种[3。按照来源，干细胞可分为胚胎干细胞和成体干细胞两类，其中成体干细胞存在于机体的各种组织器官中，包括脐带、胎盘、脐带血、外周血、羊水、骨髓、脂肪、神经、肌肉（心肌）、皮肤、肝、胰、肾、肺等组织器官，因而UCMSC属于成体干细胞。组织器官中的成体干细胞在正常情况下大多处于休眠状态，在病理情况或外因诱导下可以表现出不同程度的再生和更新能力。正是由于各种不同的干细胞具有发育分化为其他细胞、组织、器官的能力，医学上把干细胞称为万用细胞，用来治疗一些疑难杂症、进行组织器官修复或重建、抗衰老以及美容等。
+
+# 1脐带间充质干细胞的发现研究和干细胞治疗的发展
+
+# 1.1间充质干细胞的发现研究
+
+1867年，德国实验病理学家尤利乌斯·科恩海姆（Julius Friedrich Cohnheim）在研究伤口炎症时发现了干细胞[4。他在实验中给动物静脉注射一种不溶性染料苯胺，结果在动物损伤远端的部位发现含有染料的细胞，包括炎症细胞和与纤维合成有关的成纤维细胞，由此他推断骨髓中存在非造血功能的干细胞。尤利乌斯·科恩海姆首次提出骨髓干细胞概念。1974年，亚历山大·弗里登施泰因（Alexander Friedenstein）及其同事第一次从骨髓中分离出了这种干细胞，证实它与大多数骨髓来源的造血细胞不同，可快速贴附到体外培养容器上，能产生纤维细胞样克隆，在体外培养中呈旋涡状生长，具有自我复制更新能力。亚历山大·弗里登施泰因及其同事还证实，接种骨髓细胞悬浮液，每个干细胞可形成不同的克隆，并且干细胞增殖数与集落数之间有线性关系。每个干细胞就是一个成纤维细胞样集落形成单位（colony-formingunit fibroblast，CFU-F），并用染色体标志物、H-胸腺嘧啶核苷标记、延时照相和泊松分布统计来进行研究。亚历山大·弗里登施泰因鼓励其他科学家和医生进行干细胞移植应用，治疗一些重大疾病。1991年，阿诺德·凯普兰（Arnold Caplan)将这种骨髓细胞正式命名为“间充质干细胞”（mesenchymalstemcell,MSC)。他认为，这种骨髓来源的间充质干细胞具有分化为骨、软骨、肌肉、骨髓基质、肌腱/韧带、脂肪和其他结缔组织的潜能。2005年，国际细胞治疗协会宣布，首字母缩写词“MSC”为多潜能间充质基质细胞。骨髓间充质干细胞（bone marrow derived mesenchymalstem cell，BMMSC）有时也称为“骨髓基质细胞（bone marrow stromal cell，BMSC）”。所以，BMMSC是最早发现和研究的间充质干细胞。
+
+![](images/6d77cd080e52f622f992a8d8c9c76c24ecc58fcff458043d67a3d14185384b93.jpg)  
+图1干细胞是能够自我复制和分化为其他细胞的细胞
+
+# 1.2脐带间充质干细胞的发现研究
+
+2000 年，亚历杭德罗·艾瑞克丝（Alejandro Erices）等首先报道了从脐带血中分离制备间充质样细胞，经过检测鉴定其表型和骨髓间充质干细胞十分相似，但数量很少，只占了总检测样本量的四分之一。2003年，科瓦斯（D.T.Covas）等从脐静脉内皮分离出少量成纤维样细胞，可分化为脂肪细胞和成骨细胞，并表达间充质干细胞的表面标记；同年，罗曼诺夫（Y.A．Romanov）等从脐静脉内皮下层分离出了间充质样细胞，其形态和免疫表型与骨髓间充质干细胞具有相似性，且表达间充质细胞的几种表面标记；也是这一年，米特凯尔（K.E.Mitchell）等从脐带华通氏胶中分离获得混合细胞，发现其在体外增殖能力极强，能被诱导分化为神经元和神经胶质细胞。不久，又有人从胎儿脐带华通氏胶部位分离到大量表达间充质干细胞表面标记的基质细胞，且具有分化为脂肪、软骨、成骨和心肌细胞的能力。此后，UCMSC 的研究在世界范围内展开。2014年，斯外姆亚森（P.Swamynathan）等建立了临床级无血清UCMSC大规模分离、扩增技术体系，推进了UCMSC的临床转化应用[5]。后经人们对UCMSC的培养体系进行多次改进，提高了获得率，且对其生物学特性进行了系统研究，初步解决了UCMSC的来源和标准化问题。
+
+# 1.3干细胞治疗的发展
+
+干细胞真正的研究开始于20世纪60年代。1963年，加拿大科学家麦克洛奇（McCulloch）和蒂尔（Ti11）首次证明血液中存在干细胞，并发现造血干细胞能分化成数百种不同类型的人体组织细胞。1967年，美国华盛顿大学的多纳尔·托马斯（Donal Thomas）报道，若将正常人骨髓移植到病人体内，可以治疗造血功能障碍，从此开启了干细胞临床研究，因为骨髓中含有造血干细胞和间充质干细胞。1981年，考夫曼（Kaufman）和马丁（Martin）从小鼠胚泡内细胞群分离出胚胎干细胞，并建立了胚胎干细胞适宜的体外培养条件，培育成干细胞系。1995年，美国学者布鲁克斯梅尔（Broxmeyer）发现脐血内含有丰富的造血干细胞，并于1997年进行了第一例脐血临床移植。现代临床研究表明，脐血中除含造血干细胞外，还含有间充质干细胞，而且间充质干细胞能够促进造血干细胞的治疗效果。1999年，纽约市政府出资在该地血液中心建立了世界首个脐血干细胞库。进入21世纪，干细胞研究及临床应用受到各国政府的极大重视。2001年，英国一家公司宣布开展新生儿脐带血干细胞储存服务。父母花600英镑，就可采集婴儿脐带血，从中分离出干细胞，在液氮中保存至少20年。2008年，中国首家干细胞医院在天津建成，它与天津市脐带血造血干细胞库、天津市脐带血间充质干细胞库结合，形成集干细胞产品研发、储存、应用为一体的、比较完整的干细胞工程体系。与此同时，一些干细胞药物被美国、韩国、日本、加拿大、澳大利亚、意大利等国家批准用于临床，开启了细胞治疗新时代。
+
+# 2脐带间充质干细胞的来源和生物学特性
+
+间充质干细胞是起源于胚胎发育早期中胚层和外胚层的干细胞，也是机体含量最丰富的干细胞类型。与发现和研究应用较早的骨髓间充质干细胞相比，脐带间充质干细胞（umbilical cord mesenchymal stemcell，UCMSC）在来源和生物性质方面具有自己的一些特点。
+
+# 2.1来源
+
+脐带呈灰白色，是胎儿时期连接母体和胎儿的索状结构，一端连接于胎儿腹壁的脐轮，另一端连接于胎盘的胎儿面，脐带内含两条脐动脉和一条脐静脉。脐带长度 $3 0 { \sim } 7 0 \mathrm { c m }$ ，平均长度 $5 0 ~ \mathrm { c m }$ ，直径 $1 . 5 { \sim } 2 \mathrm { c m }$ 重量 $6 0 \sim 1 4 0$ 克。脐带最早由由羊膜包卷着尿囊和卵黄囊的柄状伸长部而生长形成，随着卵黄囊的逐渐随化，脐血管逐渐型成，血管周围可见疏松的胶状间充质。脐带的功能是作为母体与胎儿间气体交换、营养物质供应和代谢产物排除的通道，脐动脉管壁较厚，管腔较小，脐静脉管壁较薄，管腔较大。脐带包括三部分：最外层为羊膜被覆上皮覆盖，脐血管位于中央，位于两者之间的是黏液结缔组织，1656年英国解剖学家托马斯·华通氏（Thomas Wharton）最先描述，称之为华尔通氏胶（Wharton'sJelly，WJ），华通氏胶对脐血管起支撑和保护作用。
+
+UCMSC 来源于新生儿脐带血、脐静脉内皮、脐动脉内皮、华通氏胶等脐带组织。通常，产妇生产后脐带是作为医疗垃圾丢弃的，从脐带中分离提取间充质干细胞是变废为宝，不仅成本低、利于保护环境，也对病人没有痛苦。与此不同，骨髓间充质干细胞来源于骨髓，需要对患者进行骨髓动员、穿刺等操作，会对病人造成一定痛苦和免疫损伤。并且，脐带来源的间充质干细胞比骨髓来源的间充质干细胞具有含量高、增殖能力强、免疫原性低等优势。当然，两种间充质干细胞在培养形态、贴壁性、表面标志物、分化潜能等方面也具有相似之处。
+
+# 2.2 生物学特性
+
+UCMSC的主要生物学特性包括： $\textcircled{1}$ 增殖能力强在体外培养条件下，贴壁生长，增殖能力旺盛，容易扩大培养，便于规模化生产；干细胞来源有限，数量稀少，在临床应用时又必须移植足够数量的干细胞才有疗效，所以大量制备干细胞特别重要。 $\textcircled{2}$ 可塑性好具有自我更新和多向分化潜能。在体内外能够诱导分化为骨、软骨、肌腱、韧带、脂肪、神经、肌肉、内皮、肝、肾、胰腺等多种类型的功能细胞，在临床上可用于各种涉及组织损伤、退变的疾病治疗，特别是对一些传统疗法难以治愈的疾病（老年性退变、帕金森、血管缺血、小儿自闭症、系统性红斑狼疮、强直性脊柱炎、多发性神经硬化症、糖尿病、各种创伤、移植物抗宿主病等）具有治疗效果。 $\textcircled{3}$ 具有免疫调理作用通过分泌可溶性细胞因子介导以及调控调节性T细胞的免疫抑制作用，发挥免疫调理功能。对自身免疫性疾病和炎症性疾病，例如系统性红斑狼疮、风湿性关节炎、类风湿性关节炎、糖尿病、感染性或创伤性系统性炎症反应等，均具有明确的疗效。 $\textcircled{4}$ 免疫原性低输入同种异体，甚至异种来源的UCMSC不引起免疫排斥反应，在临床移植治疗中安全性高，无毒副作用。 $\textcircled{5}$ 旁分泌功能能够分泌外泌体和多种细胞因子，通过可促进损伤组织的原位细胞分裂增殖、血管再生、抑制炎症反应等促进组织器官的损伤修复。 $\textcircled{6}$ 造血支持作用移植后，可通过分泌多种细胞因子（GM-CSF、G-CSF、SDF-1、VEGF 等)，促进造血干细胞的增殖分化，从而增强造血功能。 $\textcircled{7}$ 促进干细胞植入通过分泌多种细胞因子，促进外源干细胞植入患者体内，增殖分化为功能细胞。 $\textcircled{8}$ 具备产业化和临床治疗规范化特征一条脐带可以在体外培养出能够满足数以万计的临床患者治疗所需要的间充质干细胞，便于规范化、规模化、工厂化生产，为临床提供标准化的特需“药品”。
+
+鉴于UCMSC材料来源丰富，采集方便，容易扩增，对捐献者无损害，不像 BMMSC那样随着干细胞供者年龄增长增殖分化能力逐渐降低，没有伦理道德争议以及优良的生物学特性等优势，在临床上具有较好的应用价值。
+
+# 3脐带间充质干细胞的分离鉴定及规模化制备
+
+为保证质量，UCMSC的分离鉴定和规模化制备应遵循国家卫计委发布的《干细胞制剂质量控制及临床前研究指导原则（试行)》，中国医药生物技术协会发布的《干细胞制剂制备质量管理自律规范》，国际干细胞协会发布的《干细胞临床转化指导原则》以及国际细胞治疗协会提出的“定义间充质干细胞的标准”等干细胞研究的法规和规范进行。
+
+# 3.1 分离制备
+
+UCMSC 主要存在于脐带的华通氏胶中，原代分离培养方法有组织贴块法、酶消化法以及把两者结合起来的酶组织法三种。 $\textcircled{1}$ 组织贴块法将采集获得的脐带去除被膜、血管和血细胞后，剪成 $\mathrm { 1 m m ^ { 3 } }$ 左右的微型组织块，再将组织块接种于塑料培养瓶底进行贴壁培养，UCMSC可从组织块里面爬出，沿组织块周围呈放射状生长，吹打去除组织块后呈旋涡状或火焰状生长，细胞呈梭形，与皮肤成纤维细胞类似，形态相对均一。 $2 { \sim } 3$ 周后可长满瓶底，组织块可反复进行多次贴壁培养。该方法的优点是操作过程简便，成本低；缺点是原代培养时间较长，细胞不易贴壁。 $\textcircled{2}$ 酶消化培养法采用单酶消化（胶原酶、I型胶原酶、IV型胶原酶）、双酶消化（胶原酶联合胰酶）、三酶消化（胶原酶联合透明质酸酶）、五酶消化（I型胶原酶、IV型胶原、透明质酸酶、胰酶、DNAase）等将剪成 $\mathrm { 1 m m ^ { 3 } }$ 左右的微型组织块消化成单细胞悬液，然后接种于培养瓶中进行贴壁培养。多酶联合消化可以提高UCMSC的获得率和缩短酶消化时间，减少酶消化对细胞活性的影响。该方法的特点是经济成本较高，过程复杂，时间过长，细胞会大量死亡。 $\textcircled{3}$ 酶组织法先经过酶初步分解消化后，再进行组织块培养，这种方法的优点是酶解后组织已松解，细胞较易从组织块中爬出，由于消化细胞时间不长，对细胞损伤不大，传代多次后仍然具有较好的活性。无论哪种方法，均应在细胞长满瓶底或达到$8 0 \sim 9 0 \%$ 融合时，采用胰酶消化，收集细胞进行传代培养。传代培养的UCMSC生长速度比原代快。
+
+# 3.2鉴定
+
+UCMSC的鉴别确定，必须符合以下条件：
+
+# 3.2.1在标准培养条件下具有粘附于塑料瓶壁生长特性
+
+体外培养的人脐带间充质干细胞(Human umbilical cord-derived mesenchymal stemcell，hUCMSC)在倒置显微镜下观察，最初贴壁时呈梭形、多边形或多角形，长满塑料瓶底时呈成纤维细胞样，细胞形态相对均一，也可以见到少量多角细胞。经原代培养 $1 0 { \sim } 1 2$ d后，可见到细胞呈克隆状生长； $1 4 { \sim } 1 2 \mathrm { d }$ 后，可长满瓶底；进行传代后，呈方向性和旋涡状生长。hUCMSC的倍增时间为 $6 0 { \sim } 8 5 \mathrm { ~ h ~ }$ ， $3 \sim 5 \mathrm { ~ d ~ }$ 就可以传一代，增殖能力强，体外培养可达20代，但细胞增殖速度在15代后有所减退，传至7代时，hUCMSC的数量可翻300倍以上，且形态稳定。传代过程中，细胞形态一般不发生显著变化，比较均一，增殖能力也无明显改变，细胞周期分析表明， $8 0 \%$ 的细胞处于 $\mathrm { G } 0 \ \sim \ \mathrm { G } 1$ 期，处于活跃增殖期的细胞较少。早期细胞生长呈增长的趋势，潜伏期一般不超过36h，之后进入对数增长期，一般持续到第 $5 \sim$ 6 d，细胞增殖进入平台期，呈现典型的“S”型增长方式。透射电镜下观察，hUCMSC的细胞核比较大、呈不规则的圆形或椭圆形，核仁明显，常染色质多，异染色质少，细胞器以粗面内质网和线粒体未主，还有大量的游离核糖体。
+
+3.2.2 高表达CD13、CD29、CD44、CD90、CD105 等阳性标志物，不表达 CD11a、CD11b、CD14、CD31、CD34、CD45、HLA-DR等标志物
+
+hUCMSC 的表面蛋白可作为其免疫的标记，但还没有比较特异的表面标志物[6-8]。常用的高表达标志物有CD13、CD29、CD44、CD90、CD105 等分子，弱表达CD106，低表达 MHC-I类分子，不表达单核巨噬细胞标志CD14和CD11b、内皮细胞特异性抗原CD31、淋巴细胞功能相关抗原-1（CD11a)，也不表达造血干细胞阳性标记CD34 和CD45。UCMSC不表达 HLA-DR 等MHC-ⅡI类分子，也不表达CD80、CD86等HLA 抗原识别有关的共刺激因子，可以逃逸异体的T淋巴细胞和NK 细胞的识别而在异体甚至异种体内长期存活。UCMSC的表型分析主要采用免疫细胞化学染色法和流式细胞术，推荐采用流式细胞术（FlowCytometry，FCM)，该方法具有分析速度快、精度高、准确性好等优点。RT-PCR 检测显示，hUCMSC的OCT-4mRNA表达阳性，其中OCT-4是胚胎干细胞特异性基因，对维持干细胞未分化状态具有重要作用。
+
+# 3.2.3可被定向分化为成骨细胞、软骨细胞、脂肪细胞等细胞类型
+
+间充质干细胞具有向不同胚层的多种组织类型的成熟细胞分化的潜能，是否具有多向分化潜能是评价UCMSC 的最重要指标。一般应选择体特定的外诱导培养体系进行定向诱导分化，通过观察细胞的生长形态、表型、功能等判定诱导的类型。分化方向选择应考虑不同胚层和不同组织类型的功能细胞方向。检测间充质干细胞的实验室一般要做到检测三个胚层的细胞： $\textcircled{1}$ 定向诱导分化为外胚层来源的神经细胞; $\textcircled{2}$ 定向诱导分化为中胚层来源的成骨细胞、软骨细胞、脂肪细胞； $\textcircled{3}$ 定向诱导分化为内胚层来源的胰岛素分泌细胞。
+
+# 3.3规模化生产
+
+UCMSC 虽然材料来源丰富，但不同材料间存在一定差异，要想在临床上大量推广应用就需要进行标准化规模化的工厂生产。
+
+体外扩增培养UCMSC，通常采用贴壁传代培养法，这种方法可满足“一条脐带，一个工厂”的技术要求。在体外传代扩增培养体系中，干细胞增殖速度比原代快，一般6d左右即可达到 $8 5 \sim 9 0 \%$ 融合，连续传代培养8代以内不会显著降低干细胞活性。当然，在干细胞传代培养过程中，需要添加“干性”维持因子和促生长因子等来维持干细胞活性。
+
+常用的规模化生产UCMSC的装置是多层培养瓶、转瓶等。多层培养瓶是静止培养，操作起来工作量很大、容易污染，但是培养装置成本低。转瓶由马达驱动的机械带动，属于滚动培养，有利于培养的干细胞和培养液、空气混合和接触，能够促进干细胞的分裂增殖，干细胞产量较高。转瓶培养法传统上用于生产疫苗，适于工厂化生产。
+
+现代化生产干细胞的方法是利用生物反应器，它可以模拟干细胞在体内的生长发育环境，进行高效率地增殖。生物反应器生产的优势是：可以自动化、规模化化生产；能够实时监测一些培养参数；培养规模放大容易；减少了污染发生的机会；干细胞培养密度高；培养设备占用场地少。但是，生物反应器价格较高，且需要一定的操作经验。生物反应器通常结合微载体、微囊、灌流等技术使用，以提高培养细胞的数量和质量，但是它是今后各种干细胞工厂化生产的发展趋势。
+
+![](images/e0e8f274e5aa9fd4d876b24d531a3e158f7a02f22f0849d931ba1b87383fe614.jpg)
+
+1．打气球；2．除菌过滤器（内置0.22微米滤膜)；3.可高压灭菌的橡胶塞；4.空气压缩室；5．圆锥形不锈钢筛网（100目 ${ \sim } 3 0 0$ 目)；6.除菌过滤器（内置0.22微米滤膜)；7.干细胞收集瓶；8.稳压口。
+
+# 图2间充质干细胞过滤分离器（王佃亮等发明；专利号ZL201120139405.5）
+
+生物反应器最适于传代培养，最初种子细胞的获得还需要利用贴壁传代培养法在培养瓶中进行，然而借助于间充质干细胞过滤分离器等设备，可以大大提高原代细胞分离培养的效率。一条40 CM长的脐带，若采用组织块贴壁培养法，可获得 $1 . 5 { \sim } 2 \times 1 0 ^ { 8 }$ 个原代细胞，通过多层培养瓶传代培养 $3 { \sim } 5$ 代后可获得 $\boldsymbol { 1 \times 1 0 } ^ { 1 0 }$ 个以上细胞，能满足数千人临床治疗使用。若通过生物反应器进行传代培养，获得的干细胞质量数量更高，可满足更多的患者临床需要。可见，UCMSC是一种“成药”性很强的干细胞，适于大规模工厂化进行生产，以满足临床需求。但是，UCMSC的研究、生产和应用一定要遵循政府和机构颁布的相关法律法规和标准规范。
+
+# 参考文献
+
+[1] Vladislav Volarevic, Bojana Simovic Markovic, Marina Gazdic, Ana Volarevic, Nemanja Jovicic, Nebojsa Arsenijevic，Lyle Armstrong， Valentin Djonov， Majlinda Lako， Miodrag Stojkovic. Ethical and Safety Issues of Stem Cell-Based Therapy. International Journal of Molecular Sciences， 2018，15(1): 36-45. [2] Ryuji Morizane， Tomoya Miyoshi， Joseph V. Bonventre. Concise Reviews: Kidney Generation with Human Pluripotent Stem Cells. Stem Cells， 2017, 35(11): 2209-2217. [3]Li Chai,Lin Bai,Li Li, Fei Chen, Jie Zhang. Biological functions of lung cancer
+
+cells are suppressed in co-culture with mesenchymal stem cells isolated from umbilical cord. Experimental and Therapeutic Medicine,2018，15(1):1076-1080. [4] Philippe Hernigou. Bone transplantation and tissue engineering， part IV. Mesenchymal stem cells: history in orthopedic surgery from Cohnheim and Goujon to the Nobel Prize of Yamanaka. International Orthopaedics,2015,39(4) :807-817. [5] Priyanka Swamynathan, Parvathy Venugopal， Suresh Kannan, Charan Thej, Udaykumar Kolkundar， Swaroop Bhagwat， Malancha T, Anish Sen Majumdar， Sudha Balasubramanian. Are serum-free and xeno-free culture conditions ideal for large scale clinical grade expansion of Wharton's jelly derived mesenchymal stem cells? A comparative study. Stem Cell Research and Therapy，2014，5(4) :88.   
+[6] Takumi Takeuchi， Akiko Tonooka,Yumiko Okuno,Mami Hattori-Kato,Koji Mikami. Oct4B, CD90,and CD73 are upregulated in bladder tissue following electro-resection of the bladder. Journal of Stem Cells & Regenerative Medicine,2016,12(1): 10-15. [7] Ruixue Liu,Wei Jia, Hong Zou, Xinhua Wang,Yan Ren， Jin Zhao,Lianghai Wang， Man Li,Yan Qi, Yaoyuan Shen, Weihua Liang， Jinfang Jiang， Zhenzhu Sun, Li juan Pang,Feng Li. Expression of CD44 and CD29 by PEComa cells suggests their possible origin of mesenchymal stem cells. International Journal of Clinical and Experimental Pathol0gy,2015,8(10): 13023-13033.   
+[8] Qian Yan-xiang， Shu Qun， Cai Hong-xia, Guo Juan, Chen Liang，Gao Feng. Surface marker changes in human umbilical cord-derived mesenchymal stem cells after cryopreservation and resuscitation. Journal of Clinical Rehabilitative Tissue Engineering Research,2011， 15(1) :187-190.

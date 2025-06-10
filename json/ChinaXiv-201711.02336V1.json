@@ -1,0 +1,561 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.170335 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "付智丹，周丽，陈平，杜青，庞婷，杨文钰，雍太文．施氮量对玉米/大豆套作系统土壤微生物数量及土壤酶活性的影响[J].中 国生态农业学报,2017,25(10):1463-1474 FuZD,ZhouLChenPDuQPangT,YangWYYongTW.Efetsofitrogapplicationrateonsolicrobialantitydile zymes activities in maize/soybean intercropping systems[J].Chinese Jourmal ofEco-Agriculture,2017,25(10):1463-1474 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "施氮量对玉米/大豆套作系统土壤微生物数量及土壤酶活性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "付智丹¹，周丽²，陈平，杜青，庞婷¹，杨文钰1\\*\\*，雍太文l\\*\\*(1.四川农业大学农学院/四川省作物带状复合种植工程技术研究中心/农业部西南作物生理生态与耕作重点实验室成都611130;2.四川宜宾市农业科学院 宜宾 644000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为揭示玉米/大豆套作体系下土壤氮素转换的调控机理和根际微生态效应，以种植模式为主因素[设玉米单作(MM)、大豆单作(SS)和玉米/大豆套作(IMS)3种处理]，以玉米、大豆施氮总量(玉米、大豆施氮比例为 $3 : 1 \\dot s$ )为副因素[设不施氮 $( \\mathrm { N N } , 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } .$ 、减量施氮(RN, $1 8 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ 和常量施氮 $( \\mathrm { C N } , 2 4 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ) 3$ 个处理],研究了玉米/大豆套作系统下不同施氮量对作物根际土壤微生物数量及土壤酶活性的影响。结果表明：与相应单作相比，套作下玉米根际土壤真菌、放线菌数量分别提高 $2 5 . 3 7 \\%$ 和 $8 . 7 9 \\%$ ；套作大豆根际土壤真菌、放线菌、固氮菌数量高于单作大豆；套作玉米根际土壤蛋白酶、脲酶活性和套作大豆根际土壤蛋白酶活性均显著升高。各施氮水平间，减量施氮下玉米、大豆根际土壤真菌数量较常量施氮和不施氮均有所提高；施氮提高了玉米、大豆根际土壤放线菌数量；大豆根际土壤固氮菌数量以减量施氮最高，比不施氮和常量施氮高 $1 7 . 7 8 \\%$ 和 $5 . 6 7 \\%$ ；玉米根际土壤蛋白酶活性、脲酶活性和大豆根际土壤脲酶活性均以减量施氮为最高。适宜的施氮量不仅能增加玉米/大豆套作土壤中真菌、放线菌、固氮菌的数量，还能提高土壤蛋白酶、脲酶活性，调节土壤氮素的转化，促进玉米/大豆对土壤中氮素的吸收，实现节能增效。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：玉米/大豆套作；施氮量；根际土壤；真菌；放线菌；固氮菌；土壤酶活性中图分类号：S565.1 （ 文献标识码：A 文章编号:1671-3990(2017)10-1463-12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of nitrogen application rate on soil microbial quantity and soil enzymes activities in maize/soybean intercropping systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FU Zhidan1, ZHOU $\\mathrm { L i } ^ { 2 }$ , CHEN Ping1, DU Qing1, PANG Ting1, YANG Wenyul\\*\\*,YONG Taiwen1\\*\\* (1.College of Agronomy,Sichuan Agricultural University/Sichuan Engineering Research Centerfor Strip Crop System/Key LaboratoryofCropEco-physiologyandFarming Systems inthe Southwest,Ministryof Agriculture,Chengdu 611130,China; 2.Yibin Academy of Agricultural Sciences,Yibin 6440oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To studytheefects of nitrogen rate on soil microbial quantityand enzyme activity in maize/soybean intercropping system,a2-factor design was developed.The main factor inthe design was planting patern,which included monoculture maize (MM),sole soybean (SS)and maize/soybean relaystrip intercropping system (IMS).Then the sub-factorof nitrogen application rate $\\mathrm { ~ N ~ }$ for maize and soybean were no nitrogen application $\\mathsf { L } 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， NN],reduced nitrogen application $[ 1 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ , RN],and conventional nitrogen application $\\scriptstyle { [ 2 4 0 \\mathrm { ~ k g } ( \\mathrm { N } ) \\cdot \\mathrm { h m } ^ { - 2 } }$ , CN]. The results showed that the quantities of fungi and actinomycetes in rhizosphere soil of intercropped maize were $2 5 . 3 7 \\%$ and $8 . 7 9 \\%$ higher than those of monoculturemaize,respectively.Alsothequantitiesofsoilfungi,actinomycetesandnitrogen-fixingbacteriaintherhizosperesoil of intercropped soybean were higher thanthoseof sole soybean.Soil proteaseand ureaseactivities intherhizosphere soilof intercropped maize and proteaseactivityinrhizosphere soilof intercroppedsoybean significantly increased compared with the corresponding monoculture.Under different nitrogenapplicationrates,thequantitiesofsoil fungi,actinomycetesand nitrogen-fixing bacteria intherhizosphere of maize and soybean were higher underRNthan under NNand CN,respectively.In addition,nitrogenapplication increasedthequantityof actinomycetes intherhizosphere soilofmaizeand soybean.Thequantities of nitrogen-fixing bacteria in the rhizosphere soil of maize were $1 7 . 7 8 \\%$ and $5 . 6 7 \\%$ higher under RN compared with thoseunderNNandCN,respectively.Moreover,theactivities ofsoil proteaseandurease intherhizosphereofmaizeandactivityof soil urease intherhizosphereofsoybean were highestunder RNcompared with thoseunderNNand CN.Reduced nitrogen fertilization increased the degre ofsoil microbial and enzyme activities in therhizosphereof maize/soybeanrelay strip intercropping system, promoted nitrogen uptake of maize and soybean, and thereby saved fertilizer use. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Maize/soybean relaystrip intercropping; Nitrogen applicationrate; Rhizosphere soil;Fungi; Actinomycetes; Ni trogen-fixing bacteria; Soil enzyme activity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤酶参与土壤中重要的生物化学循环、有机质及矿物质的转化过程，土壤微生物是土壤养分转化的主要推动者，土壤中生命体内氧化还原反应、化合物水解等许多重要的生物化学反应都是在酶的催化下进行的[1-2]。土壤微生物数量和土壤酶活性对根区土壤环境的变化较为敏感，施肥措施、耕作制度、根系分泌物、土壤水分等均会对其产生显著的影响[3-6]。合理的种植模式能提高土地利用效率、增加单位面积粮食产出[7]。玉米/大豆(Zea maysL./GlycinemaxL.)套作模式能高效吸收利用土壤养分资源，调节土壤氮素循环，显著提高玉米、大豆的氮肥利用率[8-9]，在西南地区推广以来，取得了良好的经济、社会和生态效益[10-11]。因此研究间套作系统中不同施氮水平下土壤微生物数量和土壤酶活性的变化特征，对于了解土壤氮素循坏、提高间套作系统中氮肥利用率有重要意义。前期研究表明，玉米/大豆套作能提高作物养分吸收，增产节肥[12-13],增加作物根际细菌数量，调节氨氧化细菌和反硝化细菌群落结构及多样性，改善土壤氮素转化过程[14],促使大豆根系分泌更多的质子和有机酸，活化难溶磷为利于作物吸收的有效磷[15]，由此推测玉米/大豆套作系统下土壤养分高效利用与增产效应和土壤根际微生态环境相关，尤其是与土壤中微生物数量和酶活的变化相关。Ghosh等[16]发现，大豆/高粱(SorghumbicolorL.)间作能提高土壤中脱氢酶和硝酸还原酶活性。雍太文等[9,17研究表明，小麦(TriticumaestivumL.)/玉米/大豆套作相较其他模式增加了根际土壤细菌、真菌、放线菌数量，且增强土壤脲酶、蛋白酶、硝酸还原酶活性。张向前等[18]证实，施用氮肥能增加土壤中真菌、放线菌和固氮菌的数量，提高脲酶、磷酸酶、转化酶和蛋白酶的活性。也有研究表明氮肥施用量会影响土壤酶活性[19]。国内外学者围绕单作和长期定位施肥对作物生态环境、微生物数量及酶活性等的影响做了大量研究，为揭示单作中作物养分高效利用的根际微生态变化做出了巨大贡献，但对玉米/大豆套作系统中作物根际土壤微生物数量和酶活性与氮素高效利用吸收的关系报道较少。本研究通过比较玉米、大豆单套作及不同施氮量下作物根际土壤微生物数量及土壤酶活性的差异，明确不同施氮量下玉米/大豆套作系统根际土壤微生物数量、土壤酶活性的动态变化特征以及不同时期的差异性，以揭示玉米/大豆套作体系下土壤氮素转换的调控机理和根际微生态效应，为该体系制定科学的施肥技术提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验时间、地点及材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2013年3月至2014年10月在四川省现代粮食产业(仁寿)示范基地 $( 3 0 ^ { \\circ } 0 7 ^ { \\prime } \\mathrm { N }$ 、 $1 0 4 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { E } )$ 进行。试验地土壤类型为紫色土，供试玉米品种为‘登海 $6 0 5 ^ { \\prime }$ ，由山东登海种业股份有限公司提供；大豆品种为‘南豆12'，由四川省南充市农业科学研究所提供。供试土壤2013年基础肥力： $\\mathfrak { p H }$ 为6.6，有机质为$2 9 . 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮为 $1 . 6 \\ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全磷为 $1 . 2 8 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全钾为 $1 6 . 3 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，速效氮为 $3 1 7 \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ ，速效磷为$4 2 . 2 \\ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ ，速效钾为 $3 8 2 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大田试验采用二因素裂区试验设计，主因素为种植模式，分别为玉米单作(MM)、大豆单作(SS)和玉米/大豆套作(IMS)；副因素为玉米、大豆施氮总量(玉米、大豆施氮比例为 $3 : 1 $ )，分别为不施氮 $( \\mathrm { N N } , 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } .$ ）减量施氮(RN, $1 8 0 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，当地玉米施N量 $7 5 \\%$ ）和常量施氮(CN, $2 4 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，根据当地玉米与大豆总施N量确定)，共9个处理，每个处理连续种3带，带长 $6 \\mathrm { m }$ 、带宽 $2 \\mathrm { m }$ ，小区面积 $3 6 ~ \\mathrm { m } ^ { 2 }$ ，重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米、大豆种植模式如图1，单作采用等行距种植，玉米行距 $1 0 0 \\mathrm { c m }$ 、大豆行距 $5 0 \\ \\mathrm { c m }$ ，玉米、大豆穴距 $1 7 \\mathrm { c m }$ ，穴留1株；玉米/大豆套作采用宽窄行种植，套作玉米宽行 $1 6 0 ~ \\mathrm { c m }$ ，窄行 $4 0 \\ \\mathrm { c m }$ ，在玉米大喇叭口期将两行大豆播种于玉米宽行内，套作大豆行距 $4 0 \\ \\mathrm { c m }$ ，玉米与大豆间距 $6 0 ~ \\mathrm { c m }$ ，穴距均为 $1 7 \\ \\mathrm { c m }$ 玉米穴留1株，密度5.85万株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ，大豆穴留2株，密度11.7万株 $\\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ ，玉米、大豆单作与套作的种植密度相同。玉米氮肥分两次施用，即玉米底肥和大喇叭口期追肥，大豆氮肥一次性作底肥施用(表1)。玉米、大豆单作按株间穴施方式施肥，玉米/大豆套作按玉米、大豆一体化施肥方式，即玉米底肥统一施 $7 2 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，玉米大喇叭口期追肥与大豆氮磷钾肥混合施用，在玉米、大豆之间，距玉米 $2 5 \\ \\mathrm { c m }$ 处开沟施肥，各作物氮肥施用方式及施用量见表1。单、套作玉米及单作大豆的磷钾肥随底肥施用，玉米 $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } 1 0 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $\\mathrm { K } _ { 2 } \\mathrm { O } \\ 1 1 2 . 5 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，大豆 ${ \\bf P } _ { 2 } \\mathrm { O } _ { 5 }$ $6 3 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $\\mathrm { K } _ { 2 } \\mathrm { O } \\ 5 2 . 5 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。2013年玉米4月3白播种，8月1日收获，大豆6月11日播种，10月29日收获;2014年玉米3月29日播种，7月26日收获，大豆6月9日播种，10月28日收获。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1m 1m 50cm50cm50cm50cm 40cm60cm40cm60cm 2m 2m 2m 玉米单作 大豆单作 玉米/大豆套作   \nMaize monoculture Soybean monoculture Maize/soybean relay strip intercropping ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TablelN fertilization rates in different planting patterns and N application treatments kg·hm\\~2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5ea2da7798ed14962fe4a9cea4fa6550904e8dba4d9e32cc19071b90fa3011f.jpg",
+        "table_caption": [
+            "表1不同种植模式的氮肥施用量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">种植模式 Planting pattern</td><td colspan=\"2\">施氮处理Napplication</td><td rowspan=\"2\">施氮总量 Tota In</td><td rowspan=\"2\">底肥 fertizer</td><td rowspan=\"2\">追肥 fertizer</td></tr><tr><td>名称 Name</td><td>代码</td><td>名称 Name</td><td>代码Code</td></tr><tr><td rowspan=\"2\">玉米单作 Maize monoculture</td><td rowspan=\"2\">MM</td><td>不施氮 No Napplication</td><td>NN</td><td>0</td><td>0</td><td>0</td></tr><tr><td>减量施氮 Reduced N application</td><td>RN</td><td>135</td><td>72</td><td>63</td></tr><tr><td rowspan=\"4\">大豆单作 Soybean monoculture</td><td>SS</td><td>常量施氮 Conventional N application</td><td>CN</td><td>180</td><td>72</td><td>108</td></tr><tr><td></td><td>不施氮 No Napplication</td><td>NN</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>减量施氮 Reduced N application</td><td>RN</td><td>45</td><td>45</td><td>0</td></tr><tr><td></td><td>常量施氮 Conventional N application</td><td>CN</td><td>60</td><td>60</td><td>0</td></tr><tr><td rowspan=\"3\">玉米/大豆套作 Maize/soybean relay strip intercropping</td><td>IMS</td><td>不施氮 No Napplication</td><td>NN</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>减量施氮 Reduced N application</td><td>RN</td><td>180</td><td>72</td><td>108</td></tr><tr><td></td><td>常量施氮 Conventional N application</td><td>CN</td><td>240</td><td>72</td><td>168</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤样品的采集与测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 土壤样品的采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2013年至2014年，分别于玉米大喇叭口期(V12)、抽雄期(VT)和成熟期(R6)，大豆五节期(V5)、盛花期(R2)、鼓粒期(R5)和成熟期(R8)取根际土。采用挖掘法取土壤样品。每小区随机取长势一致的样地两段，每段取对称2行的连续2穴，将植株根系从土壤中整体挖出( $( 4 0 \\ \\mathrm { c m }$ 深)，抖掉与根系松散结合的土体，然后用经火焰灭菌的镊子刮取附在根系上的薄层 $( < 1 0 \\ \\mathrm { m m } )$ 土壤作为根际土壤。并将取得的两段植株根际土样碎混匀按4分法取样，取后立即放入冰盒中保存，带回实验室后，迅速过 $2 \\ \\mathrm { m m }$ 土筛除去可见根系、动植物残体和石块等杂物，并将一部分保存到 $4 \\mathrm { { ^ \\circ C } }$ 冰箱，用于土壤微生物数量测定，另一部分保存到 $- 2 0 \\ \\mathrm { { ^ \\circ C } }$ 用于土壤酶活性测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 土壤样品测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用平板计数法培养测定玉米、大豆单套作下3个施氮水平土壤中的真菌、放线菌和固氮菌数量，真菌采用马丁氏-孟加拉红培养基，放线菌采用改良的高氏1号培养基，自生固氮菌采用阿须贝氏培养基进行选择性培养[20]。土壤蛋白酶活性使用成都华扬博纳生物科技有限公司的土壤蛋白酶试剂盒测定土壤脲酶活性使用南京建成生物工程研究所提供的土壤脲酶试剂盒测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2010软件进行数据整理和作图。用DPS 7.05 进行方差分析(LSD 法)，显著性水平设定为 $P { = } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同种植模式和施氮量对土壤微生物数量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 土壤真菌数量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "玉米、大豆根际土壤真菌数量达 $1 0 ^ { 4 }$ 数量级(表2,表 3)。种植模式对玉米根际土壤真菌数量有显著影响，玉米、大豆共生前的玉米大喇叭口期(V12)为$\\mathrm { { M M } > \\mathrm { { I M S } } }$ ，共生后IMS的玉米根际土壤真菌数量较MM两年平均提高 $2 5 . 3 7 \\%$ 。施氮有利于提高玉米根际土壤的真菌数量，单套作下均表现为$R \\mathrm { N } { > } \\mathrm { C N } { > } \\mathrm { N N } ,$ 。随生育时期的推进，两年的大豆根际土壤真菌数量呈增加趋势，在R8 期达到最高(表3)。大豆根际土壤真菌数量在R2期和R8期表现为 $\\mathrm { I M S } { > } \\mathrm { S S }$ 其中R8期的大豆根际土壤真菌IMS比SS两年平均提高 $3 . 7 9 \\text{‰}$ 各施氮水平间，大豆根际土壤真菌数量以RN的最高(R2 期除外)，以 R8 期的RN 最高，R8 期SS下RN的土壤真菌数量比NN和CN两年平均提高 $10 . 8 9 \\%$ 和 $1 7 . 2 2 \\%$ ,IMS下两年平均提高 $1 1 . 5 0 \\%$ 和 $6 . 0 2 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 土壤放线菌数量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "玉米、大豆根际土壤放线菌数量达 $1 0 ^ { 5 }$ 数量级(表4，表5)。种植模式会影响玉米根际土壤放线菌的数量，玉米根际土壤放线菌数量随着生育时期的推进而增加，且年际间变化规律一致。玉米根际土壤放线菌数量均为 $\\mathrm { I M S } { \\mathrm { > M M } }$ ，R6期达到最大且有显著差异,R6期IMS下根际土壤放线菌数量比MM两年平均提高 $1 1 . 8 \\%$ ；不同施氮水平间,IMS下玉米土壤放线菌数量随施氮量的增加而增加，以CN为最高，比NN和RN两年平均提高 $1 5 . 6 9 \\%$ 和 $7 . 6 \\text{‰}$ 不同种植模式同样会影响大豆根际土壤放线菌数量，与SS比，IMS下大豆根际土壤放线菌数量均比SS高；随着施氮量的增加，SS下RN和CN的大豆根际土壤放线菌数量比NN两年平均提高 $1 1 . 4 9 \\%$ 和$1 6 . 6 2 \\%$ ,IMS下两年平均提高 $1 5 . 1 1 \\%$ 和 $2 7 . 1 3 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d03683b0418f81b7906a5c5b5bc91fa2dc99a9357496460c82c81f3e0c9aa310.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号(\\*)表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase letters in the same column mean significant diferences among Napplication treatments at 0.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate significant difference between IMS and MM $( P < 0 . 0 5 )$ 。 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td rowspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"6\">2013</td><td>NN</td><td>6.04±0.79b</td><td>5.48±1.03b</td><td>3.20±0.59c</td><td>5.24±0.51b</td><td>3.78±0.92a</td><td>4.88±1.07b</td></tr><tr><td>RN</td><td>6.94±1.72a</td><td>6.12±0.96a</td><td>5.44±0.73a</td><td>5.67±0.60a</td><td>4.05±2.04b</td><td>5.30±0.89a</td></tr><tr><td>CN</td><td>6.26±0.28b</td><td>5.65±1.29b</td><td>4.25±1.48b</td><td>5.07±1.23b</td><td>3.91±1.33ab</td><td>5.42±1.56a</td></tr><tr><td>平均 Mean</td><td>6.41±0.18</td><td>5.75±0.20*</td><td>4.30±0.42</td><td>5.33±0.23*</td><td>3.91±0.53</td><td>5.20±0.35*</td></tr><tr><td>NN</td><td>2.73±0.40b</td><td>2.43±0.79c</td><td>2.23±0.25b</td><td>2.56±0.64b</td><td>2.90±0.89b</td><td>3.97±0.76b</td></tr><tr><td>RN</td><td>3.74±0.88a</td><td>3.49±0.90a</td><td>2.80±0.40a</td><td>3.05±0.47a</td><td>3.55±0.95a</td><td>4.28±1.30ab</td></tr><tr><td rowspan=\"2\"></td><td>CN</td><td>3.14±0.91ab</td><td>2.90±0.68b</td><td>2.73±0.61a</td><td>2.74±0.51ab</td><td>3.24±0.73ab</td><td>4.08±1.21a</td></tr><tr><td>平均Mean</td><td>3.20±0.51</td><td>2.94±0.53</td><td>2.59±0.31</td><td>2.78±0.24</td><td>3.23±0.33</td><td>4.28±0.46*</td></tr><tr><td colspan=\"2\"></td><td colspan=\"6\">ANOVA</td></tr><tr><td rowspan=\"2\">2013</td><td>种植模式</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>Planting pattern (A) 施氮量Napplication</td><td>143.234</td><td>0.006 9</td><td>20.08</td><td>0.046 4</td><td>125.22</td><td>0.0079</td></tr><tr><td rowspan=\"5\">2014</td><td>(B)</td><td>83.826</td><td>0.000 1</td><td>1 362.564</td><td>0.0001</td><td>62.242</td><td>0.0001</td></tr><tr><td>A×B 种植模式</td><td>38.848</td><td>0.000 1</td><td>58.56</td><td>0.000 1</td><td>5.991</td><td>0.025 7</td></tr><tr><td>Planting pattern (A)</td><td>482.840</td><td>0.002 1</td><td>3.791</td><td>0.190 9</td><td>8 383.492</td><td>0.0001</td></tr><tr><td>施氮量Napplication (B)</td><td>400.104</td><td>0.000 1</td><td>106.836</td><td>0.000 1</td><td>183.052</td><td>0.000 1</td></tr><tr><td>A×B</td><td>0.321</td><td>0.734 5</td><td>12.462</td><td>0.0035</td><td>320.265</td><td>0.0001</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/035cdd91dc2d4427e6be57e4ba9c74629914a18e4220a8713b1210a0f0ab99b6.jpg",
+        "table_caption": [
+            "表3不同种植模式与施氮量下大豆根际土壤真菌数量Table3Fungi numberofsoybeanrhizosphere soil underdiferent planting paterns andNapplication treatments104cfug"
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号 $^ { \\ast } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase leters in the same column mean significant differences among Napplication treatments at 0.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate significant difference between IMS and MM $( P < 0 . 0 5 )$ ） "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份 Year</td><td rowspan=\"2\">Np氮iaton treatment</td><td colspan=\"2\">Fith itfrlvystage</td><td colspan=\"2\">FutR2</td><td colspan=\"2\">Begin期(edstage</td><td colspan=\"2\"></td></tr><tr><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td></tr><tr><td>2013</td><td>NN</td><td>6.07±0.57b</td><td>6.16±2.01c</td><td>6.79±1.14a</td><td>6.28±0.79b</td><td>4.27±0.40b</td><td>4.05±0.62b</td><td>6.71±2.39ab</td><td>6.28±0.34b</td></tr><tr><td></td><td>RN</td><td>6.71±0.86a</td><td>6.97±1.91a</td><td>6.24±1.37b</td><td>6.49±0.52a</td><td>4.84±0.65a</td><td>4.24±0.93a</td><td>7.26±0.38b</td><td>7.56±0.14a</td></tr><tr><td></td><td>CN</td><td>5.42±0.73c</td><td>6.37±1.97b</td><td>6.34±2.74b</td><td>6.60±2.48a</td><td>4.86±0.24a</td><td>4.38±1.27a</td><td>6.34±1.14b</td><td>7.52±0.70a</td></tr><tr><td></td><td>平均 Mean</td><td>6.07±0.65</td><td>6.50±0.42*</td><td>6.46±0.29</td><td>6.46±0.16</td><td>4.66±0.34</td><td>4.22±0.17</td><td>6.77±0.47</td><td>7.12±0.73*</td></tr><tr><td>2014</td><td>NN</td><td>2.79±0.41b</td><td>2.48±0.30b</td><td>3.60±0.69c</td><td>3.80±0.72b</td><td>6.41±0.62a</td><td>5.85±0.70a</td><td>6.24±0.35a</td><td>6.68±0.61a</td></tr><tr><td></td><td>RN</td><td>3.35±0.39a</td><td>2.87±0.28a</td><td>4.00±0.79b</td><td>4.17±0.82ab</td><td>6.95±1.05a</td><td>6.21±0.93a</td><td>7.10±0.92ab</td><td>6.89±0.98a</td></tr><tr><td></td><td>CN</td><td>2.92±0.39b</td><td>2.73±0.50ab</td><td>4.65±1.00a</td><td>4.63±0.67a</td><td>6.78±0.61a</td><td>6.04±1.06a</td><td>5.91±1.17b</td><td>6.11±1.26b</td></tr><tr><td></td><td>平均 Mean</td><td>3.02±0.29*</td><td>2.69±0.20</td><td>4.08±0.53</td><td>4.20±0.42</td><td>6.72±0.28*</td><td>6.04±0.18</td><td>6.41±0.61</td><td>6.56±0.40</td></tr><tr><td colspan=\"2\"></td><td colspan=\"8\">ANOVA</td></tr><tr><td>2013</td><td></td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td></td><td>种植模式 Planting pattern (A)</td><td>22.936</td><td>0.0409</td><td>0.015</td><td>0.915 0</td><td>11.146</td><td>0.079 2</td><td>25.017</td><td>0.037 7</td></tr><tr><td></td><td>施氮量 N application (B)</td><td>124.712</td><td>0.000 1</td><td>7.026</td><td>0.017 3</td><td>36.863</td><td>0.000 1</td><td>1.855</td><td>0.217 9</td></tr><tr><td>2014</td><td>A×B</td><td>26.453</td><td>0.0003</td><td>46.557</td><td>0.0001</td><td>5.758</td><td>0.028 2</td><td>18.75</td><td>0.001 0</td></tr><tr><td></td><td>种植模式 Planting pattern (A)</td><td>37.513</td><td>0.025 6</td><td>0.305</td><td>0.636 3</td><td>155.705</td><td>0.006 4</td><td>5.713</td><td>0.139 4</td></tr><tr><td></td><td>施氮量 N application (B)</td><td>29.566</td><td>0.0002</td><td>6.892</td><td>0.018 2</td><td>29.807</td><td>0.0002</td><td>172.456</td><td>0.0001</td></tr><tr><td></td><td>A×B</td><td>2.746</td><td>0.123 6</td><td>0.11</td><td>0.8973</td><td>1.556</td><td>0.268 6</td><td>19.153</td><td>0.0009</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb910426f45a6cc1cd2102baa806c25cb5a0db4fd129229c5da6d7e533727c08.jpg",
+        "table_caption": [
+            "表4不同种植模式与施氮量下玉米根际土壤放线菌数量 able 4Actinomyces numberof maizerhizosphere soilunderdifferentplanting patternsandNappicationtreatments10 cfug "
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号(\\*)表示IMS 与 MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercas( eters in the same column mean significant differences among N application treatments at 0.O5 level. Asterisks $( ^ { * } )$ after the average of IMS indicati ;ignificant difference between IMS and MM $( P < 0 . 0 5 )$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份 Year</td><td rowspan=\"2\">施氮处理 N application treatment</td><td colspan=\"2\">大喇叭口期(V12) Twelfth leaf (bell stage)</td><td colspan=\"2\">抽雄期(VT) Tasseling stage</td><td colspan=\"2\">成熟期(R6) Full maturity</td></tr><tr><td>MM</td><td>IMS</td><td>MM</td><td>IMS</td><td>MM</td><td>IMS</td></tr><tr><td>2013</td><td>NN</td><td>10.55±0.94a</td><td>10.95±3.07b</td><td>10.55±3.31c</td><td>10.71±2.43c</td><td>11.14±2.13c</td><td>11.79±1.53b</td></tr><tr><td></td><td>RN</td><td>10.74±1.84a</td><td>11.66±1.23b</td><td>12.52±3.90b</td><td>12.25±2.29b</td><td>11.45±2.16b</td><td>12.01±2.97b</td></tr><tr><td></td><td>CN</td><td>10.76±2.33a</td><td>12.10±0.88a</td><td>12.96±2.47a</td><td>13.84±2.06a</td><td>11.81±2.23a</td><td>12.90±2.02a</td></tr><tr><td></td><td>平均 Mean</td><td>10.68±0.12</td><td>11.57±0.58</td><td>12.01±1.29</td><td>12.27±1.56</td><td>11.47±0.33</td><td>12.23±0.59*</td></tr><tr><td>2014</td><td>NN</td><td>5.02±0.89c</td><td>5.88±0.85b</td><td>4.99±0.61c</td><td>5.18±0.6b</td><td>12.95±2.74b</td><td>14.08±2.49c</td></tr><tr><td></td><td>RN</td><td>5.33±0.65b</td><td>6.21±1.02b</td><td>5.31±0.47b</td><td>5.52±0.50ab</td><td>14.01±3.40a</td><td>15.34±1.94b</td></tr><tr><td></td><td>CN</td><td>6.05±0.85a</td><td>6.97±0.81a</td><td>5.84±0.43a</td><td>5.65±0.76a</td><td>12.36±1.92c</td><td>16.32±1.67a</td></tr><tr><td></td><td>平均 Mean</td><td>5.37±0.53</td><td>6.35±0.56*</td><td>5.38±0.43</td><td>5.45±0.24</td><td>13.11±0.83</td><td>15.25±1.23*</td></tr><tr><td colspan=\"2\"></td><td colspan=\"6\">ANOVA</td></tr><tr><td>2013</td><td></td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td></td><td>种植模式 Planting pattern (A)</td><td>143.234</td><td>0.006 9</td><td>20.08</td><td>0.046 4</td><td>125.22</td><td>0.007 9</td></tr><tr><td></td><td>施氮量 N application (B)</td><td>83.826</td><td>0.0001</td><td>1 362.564</td><td>0.000 1</td><td>62.242</td><td>0.000 1</td></tr><tr><td>2014</td><td>A×B</td><td>38.848</td><td>0.0001</td><td>58.56</td><td>0.0001</td><td>5.991</td><td>0.0257</td></tr><tr><td></td><td>种植模式 Planting pattern (A)</td><td>482.84</td><td>0.0021</td><td>3.791</td><td>0.190 9</td><td>8 383.492</td><td>0.0001</td></tr><tr><td></td><td>施氮量 N application (B)</td><td>400.104</td><td>0.000 1</td><td>106.836</td><td>0.000 1</td><td>183.052</td><td>0.000 1</td></tr><tr><td></td><td>A×B</td><td>0.321</td><td>0.734 5</td><td>12.462</td><td>0.0035</td><td>320.265</td><td>0.000 1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3a36deb3b6dd96e5c172dd671a90cb4101a5d825220500bf09d811ecfbebb8e.jpg",
+        "table_caption": [
+            "表5不同种植模式与施氮量下大豆根际土壤放线菌数量 Table 5ActinomycesnumberofsoybeanhizospheresoilunderdiferentplantingpattemsandNapplication treatmentscfug "
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号 $^ { \\ast } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase leters in the same column mean significant diferences among N application treatments at 0.O5 level.Asterisks $( ^ { * } )$ after the average of IMS indicate significant difference between IMS and MM $( P < 0 . 0 5 )$ 一 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">年份 Year</td><td rowspan=\"3\">Nap处理on treatment</td><td colspan=\"2\">Fith ioliolastage</td><td colspan=\"2\">Fu t(R2ge</td><td colspan=\"2\">Begin粒期ed stage</td><td colspan=\"2\">Fturt)</td></tr><tr><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td></tr><tr><td>2013</td><td>NN</td><td>19.43±1.19b</td><td>21.34±0.88c</td><td>13.86±1.66c</td><td>14.05±2.71c</td><td>9.72±2.46c</td><td>9.52±2.67c</td><td>14.93±2.78b 14.41±3.18c</td><td></td></tr><tr><td></td><td>RN</td><td>20.78±1.68a</td><td>21.79±1.10b</td><td>15.70±1.88b</td><td>17.32±1.83b</td><td>11.01±3.41a</td><td>13.07±2.14b</td><td>15.23±2.24a</td><td>18.26±2.54b</td></tr><tr><td></td><td>CN</td><td>20.49±1.67a</td><td>22.35±1.50a</td><td>17.36±1.93a</td><td>17.86±2.47a</td><td>10.65±2.22b</td><td>16.59±2.66a</td><td></td><td>15.18±2.43a 23.27±2.49a</td></tr><tr><td></td><td>平均 Mean</td><td>20.23±0.71</td><td>21.83±0.51*</td><td>15.64±1.75</td><td>16.41±2.06*</td><td>10.49±0.70</td><td>13.06±3.53*</td><td>15.11±0.16</td><td>18.65±4.45*</td></tr><tr><td>2014</td><td>NN</td><td>6.60±1.34b</td><td>9.42±1.52a</td><td>8.04±1.74c</td><td>9.11±2.14c</td><td>7.36±1.41c</td><td>10.61±1.88c</td><td></td><td>7.38±1.96b 11.13±2.59c</td></tr><tr><td></td><td>RN</td><td>6.77±1.24b</td><td>9.59±1.79a</td><td>9.45±1.41b</td><td>11.47±1.83b</td><td>8.93±1.57b</td><td>10.84±2.36b</td><td></td><td>9.48±1.94a 12.30±2.26b</td></tr><tr><td></td><td>CN</td><td>7.98±0.98a</td><td>8.75±1.81b</td><td>10.75±1.57a</td><td>12.41±1.47a</td><td>9.90±1.44a</td><td>12.04±2.08a</td><td></td><td>9.52±2.55a 13.34±2.09a</td></tr><tr><td></td><td>平均 Mean</td><td>7.12±0.75</td><td>9.25±0.44*</td><td>9.41±1.36</td><td>11.00±1.70*</td><td>8.73±1.28</td><td>11.16±0.77*</td><td>8.80±1.22</td><td>12.26±1.11*</td></tr><tr><td colspan=\"2\"></td><td colspan=\"8\">ANOVA</td></tr><tr><td>2013</td><td>种植模式</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td></td><td>Planting pat- tern (A)</td><td>2 058.284</td><td>0.0005</td><td>558.502</td><td>0.0018</td><td>6 704.829</td><td>0.0001</td><td>18 092.93</td><td>0.0001</td></tr><tr><td></td><td>施氮量 N application (B)</td><td>177.531</td><td>0.000 1</td><td>2 416.925</td><td>0.0001</td><td>2 565.187</td><td>0.000 1</td><td>3 174.082</td><td>0.0001</td></tr><tr><td>2014</td><td>A×B</td><td>35.859</td><td>0.0001</td><td>97.226</td><td>0.0001</td><td>1 523.704</td><td>0.000 1</td><td>2 856.753</td><td>0.000 1</td></tr><tr><td></td><td>种植模式 Planting pat- tern (A)</td><td>5 973.103</td><td>0.0002</td><td>1 435.983</td><td>0.0007</td><td>3 330.637</td><td>0.0003</td><td>2 009.018</td><td>0.0005</td></tr><tr><td></td><td>施氮量 N application</td><td>18.65</td><td>0.0010</td><td>1004.106</td><td>0.0001</td><td>1 077.009</td><td>0.000 1</td><td>946.838</td><td>0.0001</td></tr><tr><td></td><td>(B) A×B</td><td>207.109</td><td>0.0001</td><td>25.042</td><td>0.000 4</td><td>139.919</td><td>0.000 1</td><td>57.514</td><td>0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 土壤固氮菌数量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "固氮菌作为特殊生理功能土壤微生物之一，在氮素循环过程中具有重要作用。种植模式对大豆根际土壤固氮菌数量影响显著(表6)，随生育时期的推进表现为先增后减，大豆根际土壤固氮菌数量均为$\\mathrm { I M S } { > } \\mathrm { S S }$ ，且在R2期达到最高，R2期下IMS比SS高 $12 . 3 1 \\text{‰}$ 各施氮水平间，大豆根际土壤固氮菌数量均以RN 的最高，SS下RN 比NN 和 CN 分别高$1 7 . 7 8 \\%$ 和 $5 . 6 7 \\%$ ，IMS 下RN 比 NN 和CN分别高$1 0 . 4 6 \\%$ 和 $2 . 8 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2不同种植模式和施氮量对土壤酶活性的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 土壤蛋白酶活性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤蛋白酶作为一种土壤氮素转化关键酶，能将蛋白质组分转化为氨基酸。不同种植模式对玉米根际土壤蛋白酶活性有影响(表7)，玉米根际土壤蛋白酶活性为 $\\mathrm { I M S } { \\mathrm { > M M } }$ ，抽雄期差异显著；施氮量同样会影响玉米根际土壤蛋白酶活性，以RN的最高成熟期IMS下根际土壤蛋白酶活性RN比NN和CN分别提高 $8 . 3 3 \\%$ 和 $1 1 . 4 3 \\%$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与单作相比，套作能提高大豆土壤蛋白酶活性(表 8)，以 V5 期最高，该时期下 IMS 比 SS 提高$2 . 3 8 \\text{‰}$ ，各施氮水平间,R2期RN比CN和 NN分别提高 $2 . 3 5 \\%$ 和 $1 6 \\%$ ,R8期RN比CN和NN分别提高$3 . 5 7 \\%$ 和 $1 7 . 5 7 \\%$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 土壤脲酶活性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "种植模式影响玉米土壤脲酶活性，表现为$\\mathrm { I M S } { \\mathrm { > M M } }$ ，在R6期有显著差异(表9)。玉米抽雄期IMS比MM提高 $1 6 . 7 2 \\%$ ，成熟期IMS比MM提高$20 . 5 6 \\text{‰}$ 各施氮处理下，以RN的玉米土壤脲酶活性最高，表现为 $R \\mathrm { N } { > } \\mathrm { C N } { > } \\mathrm { N N } ,$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大豆土壤脲酶活性随着生育进程的推进呈现出升高后降低的趋势，在R5期达到最高(表10)。这可能与大豆固氮能力增强后对氮肥的吸收变少，土壤中有较高浓度的尿素，使土壤中的脲酶活性处于较高的状态。在R2和R5期，大豆根际土壤脲酶活性$\\mathrm { I M S } { > } \\mathrm { S S }$ 。各施氮水平间，大豆根际土壤脲酶活性以RN的最高。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2c28f7dfadf3bee3476651305a1a109c96045ed11c2808fb582d0932a8c18f6.jpg",
+        "table_caption": [
+            "表6不同种植模式与施氮量下大豆根际土壤固氮菌数量(2014) Azotobacteria number of soybean rhizosphere soil under different planting patterns and Napplication treatments "
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号 $^ { * } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase leters in the same column mean significant diferences among Napplication treatments at 0.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate significant difference between IMS and MM $( P < 0 . 0 5 )$ 一 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">施氮处理 N application treatment</td><td colspan=\"2\">五节期(V5) Fifth trifoliolate stage</td><td colspan=\"2\">盛花期(R2) Full bloom stage</td><td colspan=\"2\">鼓粒期(R5) Beginning seed stage</td><td colspan=\"2\">成熟期(R8) Full maturity</td></tr><tr><td>ss</td><td>IMS</td><td>ss</td><td>IMS</td><td>SS</td><td>IMS</td><td>Ss</td><td>IMS</td></tr><tr><td>NN</td><td>5.98±0.84c</td><td>7.19±0.83b</td><td>16.82±1.26ac</td><td>18.72±1.73b</td><td>14.94±1.78b</td><td>17.09±1.78b</td><td>14.95±1.78b</td><td>15.53±1.66c</td></tr><tr><td>RN</td><td>7.52±0.54b</td><td>8.03±1.10a</td><td>18.30±1.67ab</td><td>19.80±2.06a</td><td>18.44±1.12a</td><td>18.81±1.54a</td><td>17.80±1.62a</td><td>18.01±1.45a</td></tr><tr><td>CN</td><td>6.71±0.93a</td><td>7.50±1.04ab</td><td>16.77±1.27a</td><td>19.78±1.32ab</td><td>17.87±1.54a</td><td>18.44±1.12a</td><td>17.38±1.35a</td><td>17.14±1.35b</td></tr><tr><td>平均 Mean</td><td>6.74±0.77</td><td>7.57±0.42</td><td>17.30±0.62*</td><td>19.43±0.75</td><td>17.14±0.78</td><td>17.74±0.78</td><td>16.71±1.25</td><td>16.86±1.14</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"8\">ANOVA</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>种植模式 Planting pattern (A)</td><td>4.896</td><td>0.157 4</td><td>467.747</td><td>0.0021</td><td>0.815</td><td>0.462 0</td><td>0.116</td><td>0.765 7</td></tr><tr><td>施氮量 N application</td><td>9.258</td><td>0.008 3</td><td>4.642</td><td>0.045 9</td><td>16.795</td><td>0.001 4</td><td>84.06</td><td>0.0001</td></tr><tr><td>(B) A×B</td><td>0.8</td><td>0.482 3</td><td>0.683</td><td>0.532 1</td><td>0.08</td><td>0.9234</td><td>2.325</td><td>0.16</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff2356f7d45473609a7d57856f9c74ec44c02b5bfa3dcb126fce80e0a1f666fe.jpg",
+        "table_caption": [
+            ":y of maize rhizosphere soil under different planting paterns and N application treatments in $2 0 1 4 ~ \\mathrm { I U { \\cdot g } ^ { - 1 } }$ "
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号 $( ^ { * } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase eters in the same column mean significant diffrences among N application treatments at 0.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate :ignificantdifference between IMSand MM $( P < 0 . 0 5 )$ 一 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">施氮处理 N application treatment</td><td colspan=\"2\">抽雄期(VT) Tasseling stage</td><td colspan=\"2\">成熟期(R6) Full maturity</td></tr><tr><td>MM</td><td>IMS</td><td>MM</td><td>IMS</td></tr><tr><td>NN</td><td>0.32±0.02ab</td><td>0.39±0.03a</td><td>0.35±0.05a</td><td>0.36±0.02a</td></tr><tr><td>RN</td><td>0.33±0.03a</td><td>0.41±0.04a</td><td>0.36±0.03a</td><td>0.39±0.03a</td></tr><tr><td>CN</td><td>0.28±0.02c</td><td>0.29±0.03b</td><td>0.30±0.04b</td><td>0.35±0.03a</td></tr><tr><td>平均 Mean</td><td>0.31±0.03</td><td>0.37±0.06*</td><td>0.34±0.03</td><td>0.37±0.02</td></tr><tr><td rowspan=\"3\"></td><td colspan=\"4\">ANOVA</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td></td><td></td><td></td><td>0.153 4</td></tr><tr><td>种植模式 Planting pattern (A)</td><td>123.916</td><td>0.0080</td><td>5.062</td><td></td></tr><tr><td>施氮量 N application (B) A×B</td><td>11.628 1.838</td><td>0.004 3 0.220 4</td><td>2.788 1.123</td><td>0.120 6 0.371 7</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/45101a8b25b0034d67ee46e91622b0b2f23593298843b7c8164624ef863ad4d9.jpg",
+        "table_caption": [
+            "表7不同种植模式与施氮量下玉米根际土壤蛋白酶活性(2014年)",
+            "表8不同种植模式与施氮量下大豆根际土壤蛋白酶活性(2014年)",
+            "Table8ProteaseactivityofsoybeanrhizospheresoilunderdiferentplantingpattemsandNapplicationtreatmentsin2014IUg "
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号 $( ^ { * } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase etters in the same column mean significant diferences among N application treatments at 0.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate ignificant difference between IMS and MM $( P < 0 . 0 5 )$ ） "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">施氮处理 N application treatment</td><td colspan=\"2\">五节期(V5) Fifth trifoliolate stage</td><td colspan=\"2\">盛花期(R2) Full bloom stage</td><td colspan=\"2\">始粒期(R5) Beginning seed stage</td><td colspan=\"2\">成熟期(R8) Full maturity</td></tr><tr><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td></tr><tr><td>NN</td><td>0.37±0.01b</td><td>0.44±0.04a</td><td>0.35±0.01b</td><td>0.4±0.05a</td><td>0.37±0.03b</td><td>0.44±0.02a</td><td>0.36±0.03b</td><td>0.38±0.06a</td></tr><tr><td>RN</td><td>0.44±0.03a</td><td>0.43±0.04a</td><td>0.44±0.02a</td><td>0.43±0.03a</td><td>0.42±0.04a</td><td>0.42±0.03ab</td><td>0.45±0.02a</td><td>0.42±0.03a</td></tr><tr><td>CN</td><td>0.46±0.01a</td><td>0.42±0.02a</td><td>0.43±0.03a</td><td>0.42±0.02a</td><td>0.45±0.02a</td><td>0.39±0.04b</td><td>0.43±0.03a</td><td>0.41±0.06a</td></tr><tr><td>平均 Mean</td><td>0.42±0.05</td><td>0.43±0.01</td><td>0.41±0.05</td><td>0.42±0.02</td><td>0.41±0.04</td><td>0.42±0.03</td><td>0.41±0.05</td><td>0.40±0.02</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"8\">ANOVA</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>种植模式 Planting pattern （A)</td><td>0.45</td><td>0.571 6</td><td>2.528</td><td>0.252 8</td><td>0.271</td><td>0.654 5</td><td>0.118</td><td>0.763 6</td></tr><tr><td>施氮量 N application</td><td>3.487</td><td>0.0815</td><td>6.983</td><td>0.017 6</td><td>0.824</td><td>0.472 9</td><td>7.295</td><td>0.015 7</td></tr><tr><td>(B) A×B</td><td>7.145</td><td>0.016 6</td><td>2.172</td><td>0.176 4</td><td>9.851</td><td>0.0070</td><td>1.358</td><td>0.310 6</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad0824b277b34edacaf0a6b2c524e29248ed9ce6130d3e45bcae3ebccf61e210.jpg",
+        "table_caption": [
+            "表9不同种植模式与施氮量下玉米根际土壤脲酶活性(2014年)Table9Urease activityof maize rhizosphere soil under diferentplanting paterns andNapplication treatments in2014U-I"
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS处理平均值后的星号 $( ^ { * } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase leters in the same column mean significant differences among Napplication treatments at 0.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate significant difference between IMS and MM $( P < 0 . 0 5 )$ 。 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">施氮处理 N application treatment</td><td colspan=\"2\">抽雄期(VT) Tasseling stage</td><td colspan=\"2\">成熟期(R6)Full maturity</td></tr><tr><td>MM</td><td>IMS</td><td>MM</td><td>IMS</td></tr><tr><td>NN</td><td>2.60±0.44b</td><td>3.14±0.13b</td><td>3.23±0.28b</td><td>3.86±0.1b</td></tr><tr><td>RN</td><td>3.38±0.32a</td><td>3.78±0.03a</td><td>4.15±0.16a</td><td>5.19±0.47a</td></tr><tr><td>CN</td><td>3.16±0.37a</td><td>3.76±0.24a</td><td>3.47±0.16b</td><td>3.97±0.32b</td></tr><tr><td>平均 Mean</td><td>3.05±0.40</td><td>3.56±0.36</td><td>3.60±0.48</td><td>4.34±0.74*</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"4\">ANOVA</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>种植模式 Planting pattern (A)</td><td>2.329</td><td>0.266 5</td><td>21.062</td><td>0.044 3</td></tr><tr><td>施氮量N application (B)</td><td>0.821</td><td>0.473 8</td><td>15.499</td><td>0.0018</td></tr><tr><td>A×B</td><td>5.461</td><td>0.0320</td><td>0.833</td><td>0.469 1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0bedc7ffb7cc242362f037d282691f52884ca5576b7039ef81546077858e4e1a.jpg",
+        "table_caption": [
+            "表10不同种植模式与施氮量下大豆根际土壤脲酶活性(2014年)/ity of soybean rhizosphere soil under diferent planting patterns and N application treatments in 2014 U-m"
+        ],
+        "table_footnote": [
+            "同列数据后不同字母表示施氮量间差异显著 $( P { < } 0 . 0 5 )$ ;IMS 处理平均值后的星号 $^ { * } )$ 表示IMS与MM差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ Different lowercase etrs in the same column mean significant differences among N application treatments at O.05 level.Asterisks $( ^ { * } )$ after the average of IMS indicate \\$ignificant difference between IMS and MM $( P < 0 . 0 5 ) ,$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">施氮处理 N application treatment</td><td colspan=\"2\">五节期(V5) Fifth trifoliolate stage</td><td colspan=\"2\">盛花期(R2) Full bloom stage</td><td colspan=\"2\">始粒期(R5) Beginning seed stage</td><td colspan=\"2\">成熟期(R8) Full maturity</td></tr><tr><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td><td>SS</td><td>IMS</td></tr><tr><td>NN</td><td>2.63±0.3a</td><td>2.34±0.07a</td><td>3.32±0.11a</td><td>3.02±0.2a</td><td>3.72±0.19a</td><td>4.08±0.22a</td><td>3.45±0.03ab</td><td>3.30±0.3a</td></tr><tr><td>RN</td><td>2.61±0.43a</td><td>2.49±0.11a</td><td>3.58±0.3a</td><td>3.64±0.07a</td><td>4.14±0.35a</td><td>4.79±0.07a</td><td>3.97±0.27a</td><td>3.32±0.19a</td></tr><tr><td>CN</td><td>2.39±0.33a</td><td>2.69±0.2a</td><td>3.13±0.34a</td><td>3.59±0.18a</td><td>3.90±0.4a</td><td>4.59±0.21a</td><td>3.16±0.19b</td><td>3.28±0.16a</td></tr><tr><td>平均 Mean</td><td>2.55±0.13</td><td>2.50±0.18</td><td>3.34±0.23</td><td>3.42±0.34</td><td>3.92±0.21</td><td>4.49±0.37</td><td>3.52±0.41</td><td>3.30±0.02</td></tr><tr><td rowspan=\"2\"></td><td colspan=\"8\">ANOVA</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>种植模式 Planting pat- tern (A)</td><td>0.013</td><td>0.918 2</td><td>3.766</td><td>0.1918</td><td>0.194</td><td>0.702 9</td><td>1.275</td><td>0.3760</td></tr><tr><td>施氮量N application (B)</td><td>0.039</td><td>0.9621</td><td>0.135</td><td>0.8754</td><td>1.209</td><td>0.347 7</td><td>1.945</td><td>0.204 9</td></tr><tr><td>A×B</td><td>0.725</td><td>0.513 4</td><td>1.739</td><td>0.2360</td><td>1.161</td><td>0.3610</td><td>1.822</td><td>0.222 8</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤微生物数量、土壤酶活性与土壤养分含量及植株吸氮的相关关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "玉米根际土壤真菌、放线菌数量、脲酶活性，大豆根际土壤蛋白酶与土壤养分和植株吸氮的相关关系达 $5 \\%$ 或 $1 \\%$ 显著水平(表 11)。其中，玉米根际土壤真菌数量对土壤全氮影响最大，玉米根际土壤脲酶、蛋白酶和大豆蛋白酶活性对土壤全磷的影响最大，大豆根际土壤蛋白酶活性与土壤全钾有负相关性。玉米根际土壤细菌、真菌数量与植株吸氮呈极显著正相关关系。表明土壤微生物数量和土壤酶活性是影响土壤养分和植株吸氮的重要因素，通过科学施用氮肥，可以改变土壤中微生物数量，提高土壤酶活性，改善土壤环境。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1套作和施氮对土壤微生物数量的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物是土壤养分转化、循环的动力。前期研究表明，玉米/大豆套作较相应单作提高了作物根际土壤中的细菌数量，且减氮处理下作物根际土壤细菌数量最高[14]。本研究表明，套作玉米根际土壤真菌数量和放线菌数量高于单作；大豆根际土壤真菌、放线菌、固氮菌数量均为套作高于单作。张向前等[1研究表明，玉米/花生、玉米/大豆间作土壤中细菌、真菌、放线菌和固氮菌的数量较玉米单作显著增加。游萍等[2I研究发现：与只种植烤烟的连作方式比，小麦烟草套种能提高土壤中细菌、真菌和放线菌数量。分析其原因可能是，玉米/大豆套作中两种作物共生后，作物根系生长交互，促进根系分泌物增加，作物残留为土壤微生物的生长提供腐殖质，改善了玉米大豆土壤根际微环境，有利于作物根际土壤微生物的繁殖[9]。同时，本研究调查了玉米/大豆套作系统内，作物不同生育阶段根际土壤微生物数量变化特征，结果表明玉米、大豆在共生期与非共生期表现出不同的变化规律，套作玉米根际土壤真菌数量在共生后(VT期、R6期)高于玉米单作，这两种作物在共生后对根际土壤微生物数量的促进作用更强，进一步表明玉米/大豆套作对作物根际土壤微生物数量的促进作用。马冬云等[22]研究表明,小麦土壤放线菌和固氮菌数量会随着施氮量的增加而呈先增后减趋势[22]。本研究表明，相同种植模式下施氮相较与不施氮更能提高玉米、大豆根际土壤真菌、放线菌和固氮菌数量；各施氮水平间，玉米根际土壤的真菌数量表现为减量施氮 $\\cdot >$ 常量施氮 $>$ 不施氮，大豆根际土壤真菌数量除盛花期外均以减量施氮的最高。可能是由于氮肥的过量施用会抑制酶活性和积累毒性化合物，特别是对土壤菌根真菌有抑制作用，长期不施氮肥不能保证作物的正常生长，但过度施用氮肥会使土壤酸化，不利于土壤微生物的繁殖[23]。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6bf3592ffaf79140bed7c812625bc0c9d297695178960aff7beb708314047d3f.jpg",
+        "table_caption": [
+            "表11土壤养分、作物吸氮量与土壤酶活性、土壤微生物数量的相关关系(2014年)'able11Corelationbetween soilnutrientcontentandcrop nitrogen with soilenzymeactivityand soilmicrobialquantityin:"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作物 Crop</td><td>项目 Item</td><td>全氮 Total nitrogen</td><td>全磷 Total phosphorus</td><td>全钾 Total potassium</td><td>植株吸氮 Plant nitrogen</td></tr><tr><td>玉米</td><td>蛋白酶 Protease</td><td>0.656</td><td>0.877*</td><td>-0.453</td><td>0.761</td></tr><tr><td>Maize</td><td>脲酶Urease</td><td>0.422</td><td>0.918**</td><td>-0.518</td><td>0.328</td></tr><tr><td rowspan=\"10\">大豆 Soybean</td><td>细菌Bacterial</td><td>0.823*</td><td>0.261</td><td>0.595</td><td>0.971**</td></tr><tr><td>真菌Fungi</td><td>0.918**</td><td>0.609</td><td>-0.182</td><td>0.968**</td></tr><tr><td>放线菌Actinomycetes</td><td>0.886**</td><td>0.092</td><td>0.043</td><td>0.728</td></tr><tr><td>固氮菌Nitrogen fixation</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>蛋白酶 Protease</td><td>0.605</td><td>0.941**</td><td>-0.877*</td><td>0.407</td></tr><tr><td>脲酶Urease</td><td>-0.025</td><td>-0.008</td><td>-0.189</td><td>0.174</td></tr><tr><td>细菌Bacterial</td><td>0.588</td><td>0.140</td><td>-0.276</td><td>0.579</td></tr><tr><td>真菌Fungi</td><td>0.207</td><td>0.311</td><td>-0.758</td><td>-0.309</td></tr><tr><td>放线菌 Actinomycetes</td><td>0.265</td><td>0.597</td><td>-0.070</td><td>0.681</td></tr><tr><td>固氮菌Nitrogen fixation</td><td>0.607</td><td>0.361</td><td>-0.486</td><td>-0.288</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2套作和施氮对土壤酶活性的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤酶是土壤中各类酶的总称，土壤酶是催化诸多生物化学反应的一类蛋白质[24]。其中蛋白酶能够分解蛋白质、肽类为氨基酸，参与调节生物的氮素代谢，对土壤氮循环有着重要影响[25]。蛋白酶把有机氮转化为无机氮，在脲酶作用下，进行氨化作用生成铵离子，改变土壤中有效氮含量，因此土壤蛋白酶和脲酶对土壤氮循环有着重要作用[26。徐强等[27]研究结果表明套作栽培的线辣椒根际、非根际土壤的蛋白酶、脲酶活性均高于单作。雍太文等[17]发现不同种植模式间以小麦/玉米/大豆套作处理的土壤脲酶和蛋白酶活性最高。孟亚利等[28研究表明整个生育期麦棉套作下根际与非根际土壤酶活性均明显高于单作棉花。本研究表明，套作下玉米、大豆根际土壤脲酶活性和蛋白酶活性比相应单作高；可能是套作下两种作物根系分泌物调节了田间土壤pH、温湿度等理化性质，使根区环境得到调节，促进土壤微生物活动，使土壤酶活性较单作增强[29-30]。而大豆的根瘤固氮作用提高了玉米/大豆套作体系各作物的土攘总氮含量，这样可能改变土壤氮素平衡和作物对氮肥的吸收，从而影响土壤酶活性[31-32]。Deng等[33]认为,施肥可通过改善土壤水热状况和微生物区系来影响土壤酶活性。本试验所测定的2种土壤酶对氮肥有积极的响应，玉米、大豆根际土壤蛋白酶活性和脲酶活性总体表现为施氮高于不施氮，其中玉米根际土壤蛋白酶活性和脲酶活性均以减量施氮最高，盛花期和成熟期的大豆根际土壤蛋白酶活性及大豆根际土壤脲酶活性以减量施氮为最高；减量施氮有利于提高玉米、大豆根际土壤蛋白酶和脲酶活性，适度减施氮肥对于提高土壤酶活性有重要意义。郭天财等[34]研究结果表明施 $0 { \\sim } 1 8 0 ~ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时有利于提高小麦土壤全氮和土壤酶活性，脲酶活性则随施氮水平的提高而上升。适量施入氮肥能改善土壤养分状况，作物根系会分泌出更多的相关酶来吸收氮素，保证作物的生长，且能促进土壤微生物的繁殖，最终提高土壤酶活性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3玉米/大豆套作下土壤氮素调控机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物参与土壤中物质循环与能量转化，土壤酶催化土壤中诸多重要的生物化学反应，二者是评价土壤肥力的重要指标。相关分析表明：土壤微生物数量、土壤酶活性与土壤养分和植株吸氮量有显著或者极显著正相关关系。玉米、大豆生长过程中根际土壤微生物数量和酶活性的变化反映出玉米、大豆生长影响根际土壤中微生物繁衍及酶活性高低，相反，根际土壤微生物的活动及酶活性的高低也会影响玉米大豆的生长，而氮肥施入量、土壤酶和土壤微生物三者之间密不可分，氮肥的施入促进作物根系生长，分泌物增多，提高了土壤酶活性，促进了土壤微生物的繁衍。间套作改善了作物根际微环境，降低氨化作用强度，保证了作物对 $\\mathrm { N O } _ { 3 } ^ { - }$ -N离子的吸收，减轻了 $\\mathrm { N H } _ { 3 }$ 挥发，提高了土壤的固氮作用[35-37]。玉米/大豆套作中两种作物的根系发生交互作用，根系分泌物调节了田间土壤温湿度等环境，增加了土壤中细菌、真菌、放线菌和固氮菌的数量，从而有利于调节作物对土壤中氮素转化，使土壤中的氮向利于作物吸收的形态转化，最终提高土壤中氮素的利用效率，施入氮肥能够促进土壤中微生物的繁殖，提高土壤酶活性。但是氮肥的施入会产生主要温室气体 ${ \\bf N } _ { 2 } \\mathrm { O }$ ，因此对于玉米/大豆套作体系下施氮量的变化对温室气体排放有何影响还需进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "种植模式和施氮量对玉米大豆套作系统下作物根际土壤微生物数量及土壤酶活性影响显著。套作相对单作提高了玉米、大豆根际土壤真菌、放线菌和固氮菌数量，套作体系下玉米根际土壤蛋白酶、脲酶活性和大豆根际土壤蛋白酶活性均显著升高;与常量施氮相比，减量施氮增加了玉米、大豆根际土壤真菌数量和大豆根际土壤固氮菌数量，提高了玉米的根际土壤蛋白酶活性、脲酶活性和大豆根际土壤脲酶活性，与不施氮相比，减量施氮增加了玉米、大豆根际土壤放线菌数量。微生物及土壤酶对土壤环境的变化十分敏感，合理的种植模式能优化作物根际微环境，氮肥的施入调节作物根际土壤环境，促进土壤氮素循环，增加土壤养分有效性，为研究间套作下合理科学施肥提供理论依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Dick W A. Influence of long-term tillge and crop rotation combinations on soil enzyme activities[J]. Soil Science Society of America Journal,1984,48(3): 569-574   \n[2]孙建，刘苗，李立军，等．免耕与留茬对土壤微生物量 C、N及酶活性的影响[J]．生态学报，2009，29(10): 5508-5515 Sun J,Liu M,Li L J,et al. Influence of non-tillage and stubble on soil microbial biomass and enzyme activities in rain-fed fieldof Inner Mongolia[J]. Acta Ecologica Sinica, 2009,29(10): 5508-5515   \n[3] Tiquia S M,Lloyd J, Herms D A,et al. Effects of mulching and fertilization on soil nutrients,microbial activity and rhizosphere bacterial community structure determined by analysis of TRFLPs of PCR-amplified 16S rRNA genes[J]. Applied Soil Ecology,2002,21(1): 31-48   \n[4]严君，韩晓增，王树起，等．不同形态氮素对种植大豆土壤 中微生物数量及酶活性的影响[J]．植物营养与肥料学报, 2010,16(2): 341-347 Yan J,Han X Z, Wang S Q,et al. Effects of different nitrogen forms on microbial quantity and enzymes activities in soybean field[J].Plant Nutrition and Fertilizer Science,2010, 16(2): 341-347   \n[5] Crecchio C, Curci M, Pellegrino A,et al. Soil microbial dynamics and genetic diversity in soil under monoculture wheat grown in different long-term management systems[J]. Soil Biology and Biochemistry,2007,39(6): 1391-1400   \n[6] Burns R G. Enzyme activity in soil: Location and a possible role in microbial ecology[J]. Soil Biology and Biochemistry, 1982, 14(5): 423-427   \n[7] Li L，Sun J H,Zhang F S,et al.Wheat/maize or wheat/soybean strip intercropping: I. Yield advantage and interspecific interactions on nutrients[J]. Field Crops Research,2001,71(2): 123-137   \n[8]苏本营，陈圣宾，李永庚，等．间套作种植提升农田生态系 统服务功能[J].生态学报,2013,33(14):4505-4514 Su B Y, Chen S B,Li YG,et al. Intercropping enhances the farmland ecosystem services[J].Acta Ecologica Sinica, 2013, 33(14): 4505-4514   \n[9] 雍太文，杨文钰，向达兵，等．不同种植模式对作物根系生 长、产量及根际土壤微生物数量的影响[J]．应用生态学报, 2012,23(1): 125-132 Yong TW,Yang W Y, Xiang DB, et al. Effects of different cropping modes on crop root growth,yield,and rhizosphere soil microbes’number[J]. Chinese Journal of Applied Ecology,2012,23(1): 125-132   \n10]雍太文，杨文钰，任万军，等．两种三熟套作体系中的氮素 转移及吸收利用[J]．中国农业科学,2009,42(9):3170-3178 Yong T W,Yang WY,Ren WJ,et al.Analysis of the nitrogen transfer,nitrogen uptake and utilization in the two relay-planting systems[J]. Scientia Agricultura Sinica,2009, 42(9): 3170-3178   \n11]雍太文，杨文钰，樊高琼，等．“麦/玉/豆\"套作种植模式氮 肥周年平衡施用初步研究[J].中国土壤与肥料，2009,(3): ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "31-35 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "YongTW,Yang WY,Fan GQ,et al. Study on the annual balance application of nitrogen fertilizer in the relay-planting system of “wheat/maize/soy-bean\"[J]. Soils and Fertilizers Sciences in China,2009,(3): 31-35 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12] 雍太文，刘小明，刘文钰，等．减量施氮对玉米-大豆套作 系统下作物氮素吸收和利用效率的影响[J].生态学报, 2015,35(13):4473-4482 Yong T W,Liu X M,Liu W Y,et al. Effects of reduced nitrogen application on nitrogen uptake and utilization efficiency in maize-soybean relay strip intercropping system[J]. Acta Ecologica Sinica,2015,35(13): 4473-4482   \n[13]雍太文，刘小明，宋春，等．种植方式对玉米-大豆套作体 系中作物产量、养分吸收和种间竞争的影响[J]．中国生态 农业学报,2015,23(6):659-667 Yong TW,Liu XM,Song C,et al.Effect of planting patterns on crop yield, nutrients uptake and interspecific competition in maize-soybean relay strip intercropping system[J]. Chinese Journal of Eco-Agriculture,2015,23(6): 659-667   \n[14]周丽，付智丹，杜青，等．减量施氮对玉米/大豆套作系统中作 物氮素吸收及土壤氨氧化与反硝化细菌多样性的影响[J].中 国农业科学,2017,50(6):1076-1087 Zhou L,Fu ZD,Du Q,et al.Effects of reduced N fertilization on crop N uptake,soil ammonia oxidation and denitrification bacteria diversity in maize/soybean relay strip intercropping system[J]. Scientia AgriculturaSinica, 2017, 50(6): 1076-1087   \n[15]毛璐，宋春，徐敏，等．栽培模式及施肥对玉米和大豆根际 土壤磷素有效性的影响[J]．中国生态农业学报，2015, 23(12): 1502-1510 Mao L, Song C, Xu M, et al. Effects of cropping patterns and fertilization on rhizosphere soil phosphorus availability of maize/soybean relay intercropping system[J]. Chinese Journal of Eco-Agriculture,2015,23(12):1502-1510   \n[16] Ghosh P K, Manna M C,Bandyopadhyay K K,et al. Interspecific interaction and nutrient use in soybean/sorghum intercropping system[J]. Agronomy Journal, 2006,98(4): 1097-1108   \n[17] 雍太文，杨文钰，向达兵，等．不同种植模式对土壤氮素转 化及酶活性的影响[J]．应用生态学报，2011，22(12): 3227-3235 Yong TW, Yang W Y, Xiang D B,et al. Effects of different planting modes on soil nitrogen transformation and related enzyme activities[J]. Chinese Journal of Applied Ecology, 2011,22(12):3227-3235   \n[18]张向前，黄国勤，卞新民，等．施氮肥与隔根对间作大豆农 艺性状和根际微生物数量及酶活性的影响[J].土壤学报, 2012, 49(4): 731-739 Zhang X Q, Huang G Q, Bian X M, et al. Effects of nitrogen fertilization and root separation on agronomic traits of intercropping soybean, quantity of micro organisms and activity of enzymes in soybean rhizosphere[J].Acta Pedologica Sinica, 2012, 49(4): 731-739   \n[19]梁国鹏，Albert HA，吴会军，等．施氮量对夏玉米根际和 非根际土壤酶活性及氮含量的影响[J].应用生态学报, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Liang GP,AlbertHA,WuHJ,etal.Soil nitrogen content and enzyme activities in rhizosphere and non-rhizosphere of summer maize under different nitrogen application rates[J]. Chinese Journal of Applied Ecology,2016,27(6): 1917-1924 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20]周德庆，徐德强．微生物学实验教程[M]．第3版．北京: 高等教育出版社,2013:109-121,272-375 Zhou D Q,Xu D Q.Microbiology Experiment Course[M].3rd ed.Beijing: Higher Education Press,2013:109-121,272-375   \n[21] 游萍，鲁凤，熊云艳，等．不同种植模式对烟田土壤微生物 数量的影响[J]．贵州工程应用技术学院学报，2015,33(5): 141-145 You P,LuF, Xiong Y Y,et al. Effects of different planting patterns on amount of soil microorganisms in tobacco fields[J]. Journal of Guizhou University of Engineering Science,2015,33(5): 141-145   \n[22]马冬云，郭天财，宋晓，等．尿素施用量对小麦根际土壤微 生物数量及土壤酶活性的影响[J]．生态学报，2007,27(12): 5222-5228 Ma D Y,Guo T C, Song X, et al. Effects of urea application rate on the quantity of microorganisms and activity of enzymes in wheat rhizosphere[J].Acta Ecologica Sinica, 2007, 27(12): 5222-5228   \n[23] Arnebrant K, Baath E, Soderstrom B.Changes in microfungal community structure after fertilization of scots pine forest soil with ammonium nitrate or urea[J]. Soil Biology and Biochemistry,1990,22(3): 309-312   \n[24] 边雪廉，赵文磊，岳中辉，等.土壤酶在农业生态系统碳、氮循 环中的作用研究进展[J].中国农学通报,2016,32(4):171-178 Bian X L, Zhao WL,Yue Z H, et al. Research process of soil enzymes effect on carbon and nitrogen cycle in agricultural ecosystem[J]. Chinese Agricultural Science Bulletin,2016, 32(4): 171-178   \n[25] Kamimura Y,Hayano K.Properties of protease extracted from tea-field soil[J].Biology and Fertility of Soils,2000, 30(4): 351-355   \n[26]关松荫．土壤酶及其研究方法[M]．北京：农业出版社, 1986:291-297 Guan S Y. Soil Enzyme and Its Research Methods[M]. Beijing: Agriculture Press,1986: 291-297   \n[27]徐强，程智慧，孟焕文，等．玉米线辣椒套作对线辣椒根 际、非根际土壤微生物、酶活性和土壤养分的影响[J]．干 旱地区农业研究,2007,25(3):94-99 Xu Q, Cheng Z H, Meng H W, et al. Efect of the capsicum and maize intercropping on soil microbe number,soil enzyme activity and soil nutrient content at the capsicum rhizosphere and non-rhizosphere zones[J]. Agricultural Research in the Arid Areas,2007,25(3): 94-99   \n[28]孟亚利，王立国，周治国，等．套作棉根际与非根际土壤酶 活性和养分的变化[J]．应用生态学报，2005，16(11): 2076-2080 Meng Y L,Wang L G, Zhou Z G, et al. Dynamics of soil enzyme activity and nutrient content in intercropped coton rhizosphere and non-rhizosphere[J]. Chinese Journal of Applied Ecology,2005,16(11): 2076-2080   \n[29]彭少麟，邵华．化感作用的研究意义及发展前景[J].应用 生态学报,2001,12(5):780-786 Peng SL,Shao H.Research significance and foreground of allelopathy[J].Chinese Journal of Applied Ecology，2001, 12(5): 780-786   \n[30]阎飞，杨振明，韩丽梅．论农业持续发展中的化感作用[J]. 应用生态学报,2001,12(4):633-635 YanF,Yang ZM,HanLM.Allelopathy in sustainable development of agriculture[J].Chinese Journal of Applied Ecology,2001,12(4): 633-635   \n[31]Sun Y M,Zhang N N,Wang E T,et al.Influence of intercropping and intercropping plus rhizobial inoculation on microbial activity and community composition in rhizosphere of alfalfa(MedicagosativaL.)and Siberianwild rye(Elymus sibiricus L.)[J].FEMS Microbiology Ecology,2009,70(2): 218-226   \n[32]Inal A,Gunes A, Zhang F,et al. Peanut/maize intercropping induced changes in rhizosphere and nutrient concentrations in shoots[J].Plant Physiology and Biochemistry，2007,45(5): 350-356   \n[33]Deng SP,Tabatabai M A.Effect of tillage and residue management on enzyme activities in soils:II.Phosphatases and arylsulfatase[J].Biology and Fertility of Soils,1997,24(2): 141-146   \n[34]郭天财，宋晓，马冬云，等．施氮量对冬小麦根际土壤酶活 性的影响[J].应用生态学报,2008,19(1):110-114 Guo T C，Song X,Ma D Y,et al.Effects of nitrogen applicationrateonsoil enzymeactivitiesinwheat rhizosphere[J].Chinese Journal of Applied Ecology，2008, 19(1):110-114   \n[35]Stuelpnagel R.Intercropping of faba bean (Vicia faba L.) with oats orspring wheat[C]//Proceedings of International Crop Science Congress.Iowa,Ames: Iowa State University,1992:14-22   \n[36]Zhou X M,Mackenzie AF,Madramootoo C A,et al.Management practices to conserve soil nitrate in maize production systems[J]. Journal of Environmental Quality,1997,26(5): 1369-1374   \n[37]Li W X,LiL, Sun JH,et al.Effects of intercropping and nitrogen application on nitrate present in the profile of an Orthic Anthrosol in Northwest China[J].Agriculture,Ecosystems & Environment,2005,105(3):483-491 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "欢迎订阅《园艺学报》",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "《园艺学报》是中国园艺学会和中国农业科学院蔬菜花卉研究所主办的学术期刊，创刊于1962年，刊载有关果树、蔬菜、观赏植物、茶及药用植物等方面的学术论文、研究报告、专题文献综述、问题与讨论、新技术新品种以及园艺研究动态与信息等，适合园艺科研人员、大专院校师生及农业技术推广部门专业技术人员阅读参考。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "《园艺学报》是中文核心期刊，中国科技核心期刊；被英国《CAB 文摘数据库》、美国CA 化学文摘、日本 CBST科学技术文献速报、俄罗斯AJ文摘杂志、CSCD中国科学引文数据库等多家数据库收录。《园艺学报》荣获“第三届国家期刊奖\"及“新中国60年有影响力的期刊”、“中国国际影响力优秀学术期刊”、“百种中国杰出学术期刊”、“中国权威学术期刊”、“中国精品科技期刊\"等称号。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "《中国科技期刊引证报告》核心版 2016年公布的《园艺学报》核心总被引频次为4552，核心影响因子为1.060，均为学科第1位，在全国1985种核心期刊中排名第8位。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "《园艺学报》为月刊，每月25日出版。每期定价48元，全年576元。国内外公开发行，全国各地邮局办理订阅，国内邮发代号82-471，国外发行由中国国际图书贸易总公司承办，代号M448。漏订者可直接寄款至编辑部订购。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "编辑部地址：北京市海淀区中关村南大街12号中国农业科学院蔬菜花卉研究所《园艺学报》编辑部。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "E-mail:ylxb@oilcrops.cn 网址:http://www.jouroilcrops.cn ",
+        "page_idx": 11
+    }
+]

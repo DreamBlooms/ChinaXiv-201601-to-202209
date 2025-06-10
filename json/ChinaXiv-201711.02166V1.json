@@ -1,0 +1,537 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.161060 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘哲，孙增慧，吕贻忠．长期不同施肥方式对华北地区温室和农田土壤团聚体形成特征的影响[J]．中国生态农业学报，2017,25(8): 1119-1128  \nLiu Z,Sun ZH,LuYZ.Efectoflong-terfertilizationonsoilaggegate formationingreenouseandfarmlandconditions inthe North China Plain[J]. Chinese Journal of Eco-Agriculture,2017,25(8): 1119-1128",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长期不同施肥方式对华北地区温室和农田土壤团聚体形成特征的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘哲1,2.3，孙增慧1,2,3，吕贻忠2\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．陕西省土地工程建设集团有限责任公司 西安710075;2.中国农业大学资源与环境学院北京100193;3．国土资源部退化及未利用土地整治工程重点实验室西安710075)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：土壤的团聚状况是土壤重要的物理性质之一，团聚体数量是衡量和评价土壤肥力的重要指标。施用有机肥是提高土壤有机碳(SOC)含量、促进土壤团聚体形成和改善土壤结构的重要措施。本文以华北地区曲周长期定位试验站的温室土壤和农田土壤为研究对象，运用湿筛法，对比研究施用化肥(NP)、有机肥加少量化肥(NPM)、单施有机肥(OM)3种施肥方式对温室和农田两种利用方式土壤水稳性团聚体含量、分布和稳定性的影响，以提示施肥措施对不同土地利用方式土壤水稳性团聚体特征的影响。结果表明：在温室土壤和农田土壤中，OM处理较NP和NPM处理显著降低了土壤容重，增加了土壤有机质含量 $( P { < } 0 . 0 5 )$ ，且在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层中效果最为明显。其中在温室土壤 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层，单施有机肥处理(OM1)的土壤容重为 $1 . 1 7 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ，分别较施用化肥(NP1)和有机肥加少量化肥(NPM1)处理降低 $12 . 0 \\%$ 和 $8 . 6 \\%$ ，OM1的土壤有机质含量为 $5 4 . 8 1 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，较NP1和NPM1增加 $1 0 4 . 8 \\%$ 和 $3 5 . 7 \\%$ ；在农田土壤 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土层，单施有机肥处理(OM2)的土壤容重为 $1 . 1 9 \\ \\mathrm { g { \\cdot } c m } ^ { - 3 }$ ，较施用化肥(NP2)、有机肥加少量化肥(NPM2)分别降低 $8 . 5 \\%$ 和 $7 . 0 \\%$ ，OM2的土壤有机质为 $2 2 . 6 7 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，较NP2、NPM2分别增加 $23 . 1 \\%$ 和 $1 5 . 0 \\%$ 。温室土壤和农田土壤中， $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 、 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 层土壤团聚体的平均重量直径(MWD)和几何平均直径(GMD)均为 $\\mathrm { O M { > } N P M { > } N P }$ ;OM处理下水稳性团聚体的分形维数 $( D )$ （204号值最低，NP处理下最大。OM处理显著降低 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层内水稳性团聚体的 $D$ 值，表层 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层效果最为明显，土壤结构明显得到改善；相比农田土壤，温室土壤稳定性指标变化最为明显，团聚体结构改善效果最好。土壤有机质含量与 $> 0 . 2 5 ~ \\mathrm { m m }$ 水稳性团聚体含量间呈极显著正相关关系 $( P { < } 0 . 0 0 1 )$ ，说明土壤有机质含量越高， $> 0 . 2 5 ~ \\mathrm { m m }$ 水稳性团聚体的含量就越高，土壤团聚体水稳性越强，土壤结构越稳定。因此有机施肥方式能在补充土壤有机碳库和有效养分含量的同时，显著增加土壤中大团聚体的含量及其水稳性，是提高华北平原农田土壤、尤其是温室土壤结构稳定性和实现土壤可持续发展的有效措施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：有机肥；土壤团聚体；土壤有机质；分形维数；温室土壤；农田土壤中图分类号： $\\mathrm { S 1 } 5 2 . 4 \\substack { + 8 1 }$ 文献标识码：A 文章编号:1671-3990(2017)08-1119-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of long-term fertilization on soil aggregate formation in greenhouse and farmland conditions in the North China Plain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Zhe123,，UZenghui23,LYUYizhong² (1.ShaanxiProvicialLandEngeeingConstructionGoup,Xian0o5,China;2.ColegeofResourceandEnvironnt,Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Agricultural University,Beijing l0o193,China;3.KeyLaboratoryofDegradedand UnusedLandConsolidation Engineering, Ministry ofLand and Resources,Xi'an 71oo75,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thestatusofsoilaggregatesisanimportantsoilphysicalpropertyandtheamountofsoilaggregatesisacriticalinexfor measuringand evaluatingsoilfrtility.Organic fertilizerapplication isanesentialmeasureforimprovingsoilorganiccarbon (SOC) content,promotingsoilaggregate formationandimprovingsoilstructure.Along-termexperiment wasconducted ingrenhousesoil and nfarmlandsoilunderthrefertilizertreatmentsinQuzhouCountyintheNorthChinaPlaininordertoinvestigatetheefectsof diferentmodesoffertliationonthecontent,distributionandstabilityofsoil water-stableaggregatesusingtewetsievingmethod underdiffrentlandusetypes.Results indicated thatcontinuousorganic materapplication (OM)significantlydecreased soilulk densityandsignificantlyincreasedsoilorganicmatercontent,comparedwithchemicalfertilizerapplication(P)andmixedoanic manure with chemical fertilizer treatment (NPM) in both greenhouse and farmland soils $( P < 0 . 0 5 )$ ).This effect was obviously for the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer. The bulk density of the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer under greenhouse conditions with organic fertilize application treatment was $1 . 1 7 ~ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ，which decreased respectively by $12 . 0 \\%$ and $8 . 6 \\%$ compared with those under chemical fertilizer and mixed organic manure with chemical fertilizer treatments. The content of organic matter in the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer of greenhouse with organic fertilize application treatment was $5 4 . 8 1 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ , which increased respectively by $1 0 4 . 8 \\%$ and $3 5 . 7 \\%$ compared with those under chemical fertilizer and mixed organic manure with chemical fertilizer treatments.Also the bulk density of soil in the $0 { - } 1 0 ~ \\mathrm { c m }$ layer of farmland with organic fertilize application was $1 . 1 9 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ， which decreased respectively by $8 . 5 \\%$ and $7 . 0 \\%$ compared with those underchemicalfertilizerandmixedorganic manurewithchemicalfrtilizertreatments.Thecontentsoffarmlandorganicmaterin the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer with organic fertilize application was $2 2 . 6 7 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ,which increased respectively by $23 . 1 \\%$ and $1 5 . 0 \\%$ comparedwiththoseunderchemical fertilizerandmixedorganic manure withchemical fertlizer treatments.Themean weightdiameter (MWD)and geometric mean diameter(GMD)ofwater-stableaggregates ofboth greenhouseandfarmland soilschanged inthe following order: $\\mathrm { O M } > \\mathrm { N P M } > \\mathrm { N P }$ Fractal dimension $( D )$ of water-stable aggregates under OM treatment was lowest while that under NP treatment was highest. Treatments with OM significantly decreased $D$ value in the $0 { - } 2 0 ~ \\mathrm { c m }$ soil layer, which effect was most obvious for the $0 { - } 1 0 ~ \\mathrm { c m }$ soil layer where soil structure improvement was also very obvious.Compared with farmland soil,changes ofsoil stabilityidexesandtheefectsofaggregatestructure weremorebviousforgreenhousesoil.Temostsignificantcorelation was between soil organic matter content and the content of $> 0 . 2 5 \\ \\mathrm { m m }$ soil aggregates, which indicated that the more soil organic mater,thegreaterstabilitythesoilstructure.Inconclusion,theapplicationofoganic maternotonlyicreasedthecontentofsoil organicmaterandavailablenutrients,butalsopromotedthefmatioofmacroaggregatesandimprovedaggegatestabilityItwas aneffectivemeasuretoimprovetesabilityoffmlandsoil,hichasowasgoodforstainingsoildevelopment,spillfor soils under greenhouse conditions in the North China Plain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Organic fertilizer; Soil aggregate; Soil organic mater;Fractal dimension; Greenhouse soil; Farmland soil ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "团聚体是土壤结构的基本单位，是土壤的重要组成部分[1-2]，可保证和协调土壤中水肥气热等因子之间的平衡状态、影响土壤酶的种类和活性、维持和改善土壤的结构性及孔隙性[3-4]。土壤团聚体普遍被认为是土壤养分“贮藏库”，其数量的增加标志着土壤供储养分能力的增强[5]。土壤团聚体的形成、特征以及作用功能十分复杂，既受土壤本身物质组成的影响，还受人为活动等因素的影响。国内外学者把土壤团聚体的水稳性作为评价土壤物理性质及抗侵蚀能力的重要指标[6-9]，认为土壤的结构特性直接影响着土壤肥力和农作物的生长情况，因此提高土壤团聚体的稳定性以及团聚体的数量和质量一直是农业生产研究中的重要方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "长期不同施肥方式能够对土壤养分含量及动态变化过程产生直接作用，同时对土壤团聚体稳定性产生重要影响[10-12]。然而，由于不同粒级团聚体中所含胶结物质的作用强度不同，所以各级团聚体内部结合的养分数量和稳定性也不同[13-14]。土壤团聚体是诸多因子综合作用下产生的优质结构体，而在质地、种植制度和环境条件相对一致的前提下，长期不同施肥方式就成为影响土壤理化性质的关键因素[15-16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，关于温室蔬菜栽培导致土壤质量下降的问题受到一些土壤学者的高度关注，研究点主要集中在设施土壤酸化、次生盐渍化、养分变化及板结等方面[17-18]。与农田相比，温室栽培由于具有半封闭、施肥量大、无自然雨淋、耕作频繁及高度集约利用等特点，其必将对土壤团聚体性状产生较大影响[19]。孙艳等[20]研究了不同种植年限对温室土壤和露地土壤团聚体数量及稳定性的影响，得出不同种植年限温室土壤水稳性大团聚体数量多于露地土壤，水稳性团聚体稳定性强于露地土壤，而对比研究不同施肥方式对温室土壤和农田土壤团聚体形成特征的影响较少，难以区分长期不同施肥方式对温室土壤和农田土壤团聚体大小、数量及稳定性的影响。因此在温室和农田条件下，对比研究不同施肥处理对两种利用方式下土壤团聚体特征的影响，进一步探讨和理解温室和农田条件下土壤肥力特征的变化，对温室土壤和农田土壤研究具有重要的理论意义。为此本文以华北平原曲周县不同施肥方式下温室和农田长期定位试验的土壤为研究对象，通过对其容重、有机质含量和团聚体稳定性指标的定量化研究，以揭示不同施肥措施对两种利用方式下土壤水稳性团聚体特征的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主要试验点设在中国农业大学曲周长期定位试验站 $3 6 ^ { \\circ } 5 2 ^ { \\prime } \\mathrm { N }$ ， $1 1 5 ^ { \\circ } 0 1 ^ { \\prime } \\mathrm { E } )$ ，属暖温带半湿润大陆性季风气候，年平均气温 $1 3 . 1 \\ \\mathrm { { ^ \\circ C } }$ ，年无霜期平均 $2 1 0 \\mathrm { ~ d ~ }$ 多年平均降水量为 $6 0 4 ~ \\mathrm { { m m } _ { \\circ } }$ 根据中国土壤系统分类该地土壤为盐化潮褐土，在华北地区颇具代表性，土壤基本理化性质见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/31af890dbc497b5971ecdf36879ad2aabd1a0e2efb97975a49d6d0779bf278af.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土壤类型 Soil type</td><td>深度 Depth (cm)</td><td>质地 Texture</td><td>有机质 Organic matter (g:kg-)</td><td>全氮 Total N (g:kg-1)</td><td>全磷 Total P (g:kg-1)</td><td>速效钾 Available K (mg·kg-1)</td></tr><tr><td>温室土壤</td><td>0~20</td><td>轻壤士Light loam</td><td>16.94</td><td>1.24</td><td>1.61</td><td>364.28</td></tr><tr><td>Greenhouse soil</td><td>20~40</td><td>沙壤士 Sandy loam</td><td>6.89</td><td>0.73</td><td>0.97</td><td>131.18</td></tr><tr><td>农田土壤</td><td>0~20</td><td>轻壤士Light loam</td><td>11.34</td><td>0.76</td><td>1.26</td><td>218.36</td></tr><tr><td>Farmland soil</td><td>20~40</td><td>沙壤土 Sandy loam</td><td>6.54</td><td>0.58</td><td>0.68</td><td>122.54</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验分别在温室菜田和普通农田中进行。温室菜田和普通农田各设3个处理，分别为单施用化肥(NP)、有机肥配施少量化肥(有机肥占 $80 \\%$ ，NPM)、单施有机肥(OM)。温室菜田土壤长期施肥试验开始于2002年，日光温室为拱圆式，每个温室东西长 $5 2 ~ \\mathrm { m } .$ ，南北宽 $7 { \\mathrm { m } } , 3$ 种处理分别在3个日光温室进行。菜田种植制度为番茄(Lycopersicon esculentum Mill.)-黄瓜(Cucumis sativus L.)轮作，每年收获两次，耕作方式为翻耕。普通农田长期施肥试验开始于1993年，农田小区南北长 $1 0 . 3 \\mathrm { ~ m ~ }$ /宽 $3 \\mathrm { ~ m ~ }$ ，小区和小区间有 $3 0 \\ \\mathrm { c m }$ 的畦埂作为隔离带，四周有 $1 \\mathrm { ~ m ~ }$ 的保护行，为冬小麦(TriticumaestivumL.)-夏玉米(ZeamaysL.)种植制度，耕作方式为翻耕。化肥采用复合肥，氮磷钾含量分别为 $1 5 \\%$ 、 $10 \\%$ $20 \\%$ ，有机肥采用干鸡粪，鸡粪含有机质 $3 3 9 . 8 3 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 全 $\\mathrm { ~ N ~ } 2 3 . 2 \\ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ， $\\mathrm { P } ( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) 9 . 3 \\ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ $\\mathrm { K } ( \\mathrm { K } _ { 2 } \\mathrm { O } ) 1 5 . 8 \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 } .$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同处理间的施肥方式及折算成单质肥料量见表2，各处理全季总体施肥量相同。施肥时将有机肥料直接施于土壤表层，温室土壤每季作物共分 3 次施肥，基肥1次，追肥2次。其中温室土壤分别在每年的3月和9月即种植番茄和黄瓜之前对每个施肥处理施入基肥，追肥在开花期和结果期分别施入。单施有机肥处理基施有机肥 $1 2 5 0 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，第1次追施有机肥 $7 5 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，第2次追施有机肥 $7 5 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；有机肥配施少量化肥处理基施有机肥 $1 0 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 第1次追施有机肥 $6 0 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、化肥 $1 2 5 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，第2次追施有机肥 $6 0 0 \\ \\mathrm { k g \\cdot h m } ^ { - 2 }$ 、化肥 $1 2 5 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；化肥处理不施加有机肥，基施化肥 $2 5 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，第一次追施化肥 $1 2 5 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，第2次追施化肥125$\\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。农田土壤每季作物共分 2 次施肥，基肥1次，追肥1次。分别在每年的6月和9月即种植夏玉米和冬小麦之前对每个施肥处理施入基肥，追肥在拔节期施入。每季有机肥处理基施有机肥12500$\\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，追施鸡粪 $2 \\ 5 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；有机肥配施少量化肥处理基施有机肥 $1 0 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，追施鸡粪$2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、化肥 $3 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；化肥处理不施加有机肥，无机肥处理基施化肥 $3 0 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，追施化肥 $3 0 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c40435df0bc834dc9c27c57f2c39bfde23eca0d97dbb8b7b4266f98a26561f5.jpg",
+        "table_caption": [
+            "表1试验区不同类型土壤基本理化性质 Table 1Physicochemical properties of different soil types in the study area ",
+            "表2不同土壤类型的不同处理的施肥方式及施肥量(折算为单质肥料量) Table 2Fertilization methods and amounts of fertilizers in different treatments for different soil types $ { \\mathrm { k g } } \\cdot  { \\mathrm { h m } } ^ { - 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤类型 Soil type</td><td rowspan=\"2\">施肥处理 Fertilization treatment</td><td colspan=\"3\">春季 Spring</td><td colspan=\"3\">秋季 Autumn</td><td colspan=\"3\">全年 Whole year</td></tr><tr><td>N</td><td>PO5</td><td>KO</td><td>N</td><td>P2O5</td><td>KO</td><td>N</td><td>PO5</td><td>KO</td></tr><tr><td>温室土壤 Greenhouse</td><td>化肥 Chemical fertilizer only (NP1) 有机肥配施化肥</td><td>426.2</td><td>405.0</td><td>675.0</td><td>293.8</td><td>75.0</td><td>285.0</td><td>720</td><td>480</td><td>960</td></tr><tr><td></td><td>Organic manure with chemical fertilizer (NPM1)</td><td>337.2</td><td>325.5</td><td>394.3</td><td>382.8</td><td>154.5</td><td>565.7</td><td>720</td><td>480</td><td>960</td></tr><tr><td>农田土壤</td><td>有机肥(鸡粪，堆肥) Organic fertilizer(OM1)</td><td>248.1</td><td>246.0</td><td>113.7</td><td>471.9</td><td>234.0</td><td>843.0</td><td>720</td><td>480</td><td>960</td></tr><tr><td>Farmland soil</td><td>化肥处理 Chemical fertilizer only (NP2)</td><td>485.0</td><td>420.0</td><td>732.0</td><td>235.0</td><td>60.0</td><td>228.0</td><td>720</td><td>480</td><td>960</td></tr><tr><td></td><td>有机肥配施化肥 Organic manure with chemical fertilizer (NPM2)</td><td>413.8</td><td>356.1</td><td>507.4</td><td>306.2</td><td>123.6</td><td>452.6</td><td>720</td><td>480</td><td>960</td></tr><tr><td></td><td>有机肥(鸡粪，堆肥) Organic fertilizer (OM2)</td><td>342.5</td><td>292.8</td><td>285.6</td><td>377.5</td><td>187.2</td><td>674.4</td><td>720</td><td>480</td><td>960</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 采样方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2011年9月下旬，温室番茄与农田玉米收获完成后，对每个小区采用“S\"形取样法，分 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ /$1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ 3$ 个层次分别采集混合土样和原状土样，每个小区设置3个重复。在采集和运输过程中尽量减少对土壤的扰动，以免破坏团聚体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 测定方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤容重采用环刀法，土壤有机质采用重铬酸钾外加热法[21]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤团聚体的分布状况和稳定性采用湿筛法[22]。将 $5 0 \\ \\mathrm { g }$ 风干土样置于 $^ \\mathrm { ~ 1 ~ L ~ }$ 量筒中，沿量筒边缘缓慢加去离子水至饱和，然后将饱和土样转移至水桶中的套筛(孔径依次为 $2 ~ \\mathrm { m m }$ 1 $1 ~ \\mathrm { m m }$ 1 $0 . 5 ~ \\mathrm { m m }$ 1 $0 . 2 5 ~ \\mathrm { { m m } }$ 和 $0 . 0 5 ~ \\mathrm { \\ m m } ^ { \\cdot }$ 顶部，利用震荡仪以30次 $\\cdot \\mathrm { m i n } ^ { - 1 }$ 上下震荡 $5 ~ \\mathrm { m i n }$ ，将各级孔径筛子上的土样置于铝盒内烘干称重记为 $\\boldsymbol { W } _ { \\mathrm { w i t } }$ ，然后再加入 $1 0 \\ \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ 六偏磷酸钠溶液 $1 0 ~ \\mathrm { \\ m L }$ 并用玻璃棒搅拌分散，置于相应孔径筛子震荡，将留在筛子上的沙粒烘干并称重，记为 $W _ { \\mathrm { w i s } }$ ，则各粒级团聚体重量 $W _ { \\mathrm { w i } }$ 由公式(1)计算获得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { w i } } = W _ { \\mathrm { w i t } } - W _ { \\mathrm { w i s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$w _ { i }$ 为 $i$ 粒级团聚体重量所占的比例。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\frac { W _ { \\mathrm { w i } } } { 5 0 } { \\times } 1 0 0 \\% \\\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "描述土壤团聚体分形特征可采用平均重量直径(meanweightdiameter，MWD)、几何平均直径(geometric mean diameter,GMD)[23]以及分形维数(fractal dimension, $D ) ^ { [ 2 4 ] }$ 等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用各粒级团聚体数据，计算大于 $0 . 2 5 \\mathrm { \\ m m }$ 团聚体含量 $( R _ { 0 . 2 5 } )$ 、MWD和GMD，公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 0 . 2 5 } = \\frac { M ( r > 0 . 2 5 ) } { M _ { \\mathrm { T } } } = 1 - \\frac { M ( r < 0 . 2 5 ) } { M _ { \\mathrm { T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M W D } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( \\overline { { x } } _ { i } w _ { i } ) } { \\displaystyle \\sum _ { i = 1 } ^ { n } w _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { G M D } } = \\exp \\left( { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } w _ { i } \\ln { \\overline { { x } } _ { i } } } { \\displaystyle \\sum _ { i = 1 } ^ { n } w _ { i } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分维数 $D$ 的计算采用杨培岭等[25推导的公式:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { M ( r < \\overline { { x } } _ { i } ) } { M _ { \\mathrm { T } } } = ( \\frac { \\overline { { x } } _ { i } } { x _ { \\mathrm { m a x } } } ) ^ { 3 - D }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对公式(6)两边取对数，可得:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lg { \\left[ \\frac { M ( r < { \\overline { { x } } } _ { i } ) } { M _ { \\mathrm { T } } } \\right] } = ( 3 - D ) \\lg ( { \\frac { \\overline { { x } } _ { i } } { x _ { \\mathrm { m a x } } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\overline { { x } } _ { i }$ 为某级团聚体平均直径， $M ( r < \\overline { { x } } _ { i } )$ 为粒径小于 $\\overline { { x } } _ { i }$ 的团聚体的重量， $M _ { \\mathrm { T } }$ 为团聚体总重量， $x _ { \\mathrm { m a x } }$ 为团聚体的最大粒径。利用公式(6)或公式(7)，通过数据拟合，可方便地求得 $D _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2016软件进行数据整理，SigmaPlot10.0软件进行作图,SPSS22.0软件对试验数据进行单因素方差分析和回归分析，采用最小显著极差法(LSD法)进行多重比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同施肥措施对土壤容重和有机质含量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在温室土壤和农田土壤中，OM1和OM2较其他处理明显降低了土壤容重(表3)。其中，在温室土壤中， $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层OM1的土壤容重较NP1和NPM1分别降低 $12 . 0 \\%$ 和 $8 . 6 \\%$ ， $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层则分别降低$9 . 8 \\%$ 和 $3 . 0 \\%$ 5 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层分别降低 $7 . 1 \\%$ 和 $2 . 7 \\text{‰}$ 在农田土壤中， $0 { \\sim } 1 0 \\ \\mathrm { ~ c m }$ 土层OM2的土壤容重较NP2、NPM2分别降低 $8 . 5 \\%$ 和 $7 . 0 \\%$ ， $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层分别降低 $2 . 6 \\%$ 和 $2 . 0 \\%$ ， $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层分别降低$5 . 8 \\%$ 和 $4 . 6 \\%$ 。说明长期施用有机肥的温室土壤和农田土壤的紧实度都降低了，且表层容重小于底层。表3不同类型土壤容重间的差异性分析进一步表明，有机肥处理的温室土壤和农田土壤在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层容重差异达到显著，且温室土壤容重下降幅度明显大于农田土壤，且 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 耕作层土壤尤为明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在两种土壤类型中，OM1和OM2较其他处理明显增加了土壤有机质含量(表3)。其中，在温室土壤中， $0 { \\sim } 1 0 \\ \\mathrm { ~ c m }$ 土层 OM1 的土壤有机质较 NP1和NPM1分别增加 $104 . 8 \\%$ 和 $3 5 . 7 \\%$ ， $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层分别增加 $8 3 . 2 \\%$ 和 $6 8 . 4 \\%$ ， $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层分别增加",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$6 4 . 3 \\%$ 和 $5 3 . 2 \\text{‰}$ 在农田土壤中, $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层OM2的土壤有机质较NP2、NPM2分别增加 $23 . 1 \\%$ 和$1 5 . 0 \\%$ ， $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层分别增加 $2 6 . 8 \\%$ 和 $2 4 . 4 \\%$ $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层分别增加 $1 8 . 9 \\%$ 和 $6 . 6 \\text{‰}$ 说明长期施用有机肥的温室土壤和农田土壤的有机质含量均增加，且表层有机质含量高于底层。在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层农田土壤的3种施肥措施土壤有机质含量差别不大，主要是由于农田施用的有机肥较少，且主要集中在耕作层，本试验农田土壤的耕作层主要集中在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 深度，进入到 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 处的有机质较少。分析发现，增施有机肥对温室土壤有机质的提高效果好于农田土壤，不同施肥处理间温室土壤的有机质含量整体高于农田土壤，分析原因可能是温室土壤半封闭高度集约化栽培使大量蔬菜烂叶、根系分泌物、根系残体遗留于土壤中，使得温室土壤中的有机物质富集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ae09d443f875b691d0f07cfe3458cb39979f21198e962eeafe3fca0cac61df6.jpg",
+        "table_caption": [
+            "表3不同施肥措施下两种土壤不同深度的容重和有机质含量 Table 3Soil bulk densityand organic matter contentat different depths under diferent fertilization treatments in greenhouse soil and farmland soil "
+        ],
+        "table_footnote": [
+            "不同小写字母表示同一土层同一类型土壤不同施肥处理间差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示同一土层相同处理不同类型土壤间差异显著 $( P { < } 0 . 0 5 )$ 。Differentlowercaseletersidicate significant differencesat thesamedepthsunderdifferentfertilizertreatmentsforthesamesoil type $( P < 0 . 0 5 )$ ,anddiferentcapitalletersindicatesignificantdiferencesbetweentwosoiltpesatthesamedepthunderthesamefertiizertreatment $( P < 0 . 0 5 )$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Item</td><td rowspan=\"2\">土层深度 Soil depth (cm)</td><td colspan=\"3\">温室士壤 Greenhouse soil</td><td colspan=\"3\">农田士壤 Farmland soil</td></tr><tr><td>NP1</td><td>NPM1</td><td>OM1</td><td>NP2</td><td>NPM2</td><td>OM2</td></tr><tr><td>容重</td><td>0~10</td><td>1.33±0.04aA</td><td>1.28±0.04aA</td><td>1.17±0.03bB</td><td>1.30±0.02aB</td><td>1.28±0.04aA</td><td>1.19±0.02bA</td></tr><tr><td>Soil bulk density (g·cm-3)</td><td>10~20</td><td>1.43±0.04aB</td><td>1.33±0.04bB</td><td>1.29±0.07bB</td><td>1.51±0.03aA</td><td>1.50±0.05aA</td><td>1.47±0.05bA</td></tr><tr><td></td><td>20~40</td><td>1.56±0.08aA</td><td>1.49±0.06bcB</td><td>1.45±0.01cA</td><td>1.55±0.06aA</td><td>1.53±0.04aA</td><td>1.46±0.02bA</td></tr><tr><td>有机质</td><td>0~10</td><td>26.76±2.11cA</td><td>40.40±3.53bA</td><td>54.81±5.43aA</td><td>18.42±0.94cB</td><td>19.72±1.48bB</td><td>22.67±2.64aB</td></tr><tr><td>Organic matter (g·kg-1)</td><td>10~20</td><td>18.30±1.42bA</td><td>19.90±4.09bA</td><td>33.52±4.64aA</td><td>10.67±1.91bB</td><td>10.88±0.39bB</td><td>13.53±3.04aB</td></tr><tr><td></td><td>20~40</td><td>6.75±0.59cA</td><td>7.24±0.78bcA</td><td>11.09±2.50aA</td><td>7.08±1.30aA</td><td>7.90±1.29aA</td><td>8.42±1.83aB</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同施肥措施对土壤水稳性团聚体数量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据团聚体形成的多级团聚理论，微团聚体(直径 $< 0 . 2 5 \\ \\mathrm { m m }$ 聚合形成大团聚体(直径 ${ > } 0 . 2 5 \\ \\mathrm { m m }$ ，大团聚体破碎形成小团聚体，二者既互为基础又互为消长。一般把 ${ > } 0 . 2 5 \\ \\mathrm { m m }$ 的团聚体 $. ( R _ { 0 . 2 5 } )$ 称为土壤团粒结构体，团粒结构是土壤中最好的结构体，其数量与土壤的肥力状况呈正相关。因此本研究采用 ${ > } 0 . 2 5 \\mathrm { m m }$ 团聚体的比例来说明土壤团聚体的数量变化，以此来反映不同施肥措施对土壤肥力及稳定性状况的影响程度(表4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过湿筛法获得的团聚体是土壤中的水稳性团聚体，水稳性团聚体对保持土壤结构的稳定性有着重要贡献，因而比非稳性团聚体更为重要。从表4可以看出，温室土壤中,OM1在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层中的 $R _ { 0 . 2 5 }$ 显著高于NP1和NPM1；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中,OM1和NPM1中的 $R _ { 0 . 2 5 }$ 显著高于NP1。在农田土壤各土层中 $R _ { 0 . 2 5 }$ 的顺序为 $\\mathrm { O M } 2 { > } \\mathrm { N P M } 2 { > } \\mathrm { N P } 2$ ，且增施有机肥对温室土壤大团聚体的提高效果明显好于农田土壤。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/25258ef8e6f446c54ee5e78595915d2156029316942ace94d37c15cd062a7d66.jpg",
+        "table_caption": [
+            "表4不同施肥处理两种土壤不同深度 $> \\mathbf { 0 . 2 5 \\ m m }$ 团聚体 $( R _ { 0 . 2 5 } )$ 含量 Table 4Macroaggregates $( > 0 . 2 5 \\mathrm { m m } )$ contents at different soil depths under different fertilization treatments in greenhouse soil and farmland soil ",
+            "% "
+        ],
+        "table_footnote": [
+            "$R _ { 0 . 2 5 }$ 指土壤中 $> 0 . 2 5 \\ \\mathrm { \\ m m }$ 的团聚体数量。不同小写字母表示同一土层同一类型土壤不同施肥处理间差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示同一土层相同处理不同类型土壤间差异显著 $( P { < } 0 . 0 5 )$ 。 $R _ { 0 . 2 5 }$ is the aggregates of diameter $> 0 . 2 5 ~ \\mathrm { m m }$ .Different lowercase letters indicate significantdifferences at the same depths under different fertilizer treatments for the same soil type $( P < 0 . 0 5 ) ,$ ,and different capital letters indicate significantdifferences between two soil types at the same depth under the same fertilizer treatment $( P < 0 . 0 5 )$ ："
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层深度 Soil depth (cm)</td><td colspan=\"3\">温室土壤 Greenhouse soil</td><td colspan=\"3\">农田土壤 Farmland soil</td></tr><tr><td>NP1</td><td>NPM1</td><td>OM1</td><td>NP2</td><td>NPM2</td><td>OM2</td></tr><tr><td>0~10</td><td>15.2±1.8cA</td><td>27.1±2.2bA</td><td>30.8±3.1aA</td><td>7.4±0.8cB</td><td>10.7±0.9bB</td><td>23.9±2.6aB</td></tr><tr><td>10~20</td><td>9.5±1.3bA</td><td>16.4±1.6aA</td><td>17.8±2.0aA</td><td>3.5±0.4bB</td><td>6.3±0.3aB</td><td>7.5±0.5aB</td></tr><tr><td>20~40</td><td>3.5±0.3bA</td><td>3.9±0.4bA</td><td>7.0±0.6aA</td><td>0.9±0.1bB</td><td>1.3b±0.1B</td><td>2.9±0.2aB</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同施肥措施对不同粒径土壤团聚体分布的影响水稳性团聚体的分布状况反映土壤结构的稳定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "性和抗侵蚀能力。从图1可以看出，在温室土壤中，随着土壤层次的加深， $> 0 . 2 5 \\ \\mathrm { m m }$ 的团聚体比例逐渐降低， $< 0 . 0 5 \\ \\mathrm { m m }$ 的微团聚体比例逐渐增加。在3种不同深度土壤中 $< 0 . 0 5 ~ \\mathrm { \\ m m }$ 的微团聚体所占比例最高。 ${ > } 0 . 2 5 ~ \\mathrm { m m }$ 的团聚体含量在OM1中最高,NPM1次之，NP1最低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在农田土壤中，各级团聚体的变化与温室土壤相似。随着土壤层次的加深， $> 0 . 2 5 \\ \\mathrm { m m }$ 的团聚体比例逐渐降低， $< 0 . 0 5 \\ \\mathrm { m m }$ 的微团聚体比例逐渐增加。在3种不同深度土壤中 $< 0 . 0 5 \\ \\mathrm { m m }$ 的微团聚体所占比例最高。各施肥条件下，农田土壤中 $< 0 . 0 5 \\ \\mathrm { m m }$ 的微团聚体比例高于温室土壤， $> 0 . 2 5 \\ \\mathrm { m m }$ 的团聚体比例低于温室土壤。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/717651ec518f62f3ea3c67bf940084f8d53893f49a2fa1ab5f23c4aa9d5638be.jpg",
+        "img_caption": [
+            "图1不同施肥处理两种土壤不同深度不同粒径土壤团聚体含量",
+            "Fig.1Proportions of soil aggregates with different sizes at different soil depths under different fertilization treatments in greenhouse soil and farmland soil "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4不同施肥措施对土壤团聚体大小分布的影响不同粒级团聚体对土壤养分的保持和供应、孔",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "隙组成、水力性质和生物运动具有不同的作用，因此在团聚体总量的基础上，团聚体大小分布状况与土壤的质量关系更加密切。MWD和GMD是反映土壤团聚体大小分布状况的常用指标。MWD和GMD值越大表示团聚体的平均粒径团聚度越高，稳定性越强。如表5所示，温室土壤与农田土壤中 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ /$1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 层土壤团聚体的MWD和GMD均为 $\\mathrm { O M 1 { > } N P M 1 { > } N P 1 }$ 和 $\\mathrm { O M } 2 { > } \\mathrm { N P M } 2 { > } \\mathrm { N P } 2 _ { \\circ }$ 说明无论是在温室土壤还是农田土壤中，施用有机肥都能增加水稳性团聚体的稳定性，且增施有机肥对温室土壤MWD和GMD的提高程度优于农田土壤。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 不同施肥措施对土壤团聚体分维特征的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文利用公式(7)对团聚体数据进行了拟合， $R ^ { 2 }$ 值均大于0.95。图2是温室土壤和农田土壤团聚体的分形维数在 $0 { \\sim } 4 0 \\ \\mathrm { c m }$ 剖面上的分布图。从图2a可以看出，在温室土壤中OM1的水稳性团聚体的$D$ 值在表层 $0 { \\sim } 1 0 \\ \\mathrm { ~ c m }$ 最低(2.84)，而且从上向下逐渐增大；而 NP1的水稳性团聚体的 $D$ 值在表层最大。NP1和NPM1中, $1 0 ~ \\mathrm { c m }$ 以下土层的水稳性团聚体的 $D$ 值趋于稳定，在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层内两处理的水稳性团聚体的 $D$ 值大致相等(2.95);3种施肥方式处理 $1 0 \\ \\mathrm { c m }$ 以下土层中水稳性团聚体 $D$ 值的变化范围为 $2 . 8 9 { \\sim } 2 . 9 9$ ，其变幅明显小于表层土壤；在$0 { \\sim } 1 0 ~ \\mathrm { c m }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 内，土壤水稳性团聚体 $D$ 值的大小顺序为 $\\mathrm { O M 1 { < N P M 1 < N P 1 } }$ ，说明施用有机肥使$0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土层内土壤水稳性团聚体的稳定性增强;在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层内，水稳性团聚体 $D$ 值大小顺序为$\\mathrm { N P 1 } \\approx \\mathrm { N P M 1 } { < } \\mathrm { O M 1 }$ ，变化幅度相对较小。这表明不同施肥方式对土壤团聚体特征性的影响主要发生在表层土壤 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 中，尤其在表层 $0 { \\sim } 1 0 \\ \\mathrm { ~ c m }$ ，施用有机肥处理，使其水稳性团聚体的分形维数显著降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c02bbca7bb17e7f589fc263fc54431a75f05f226e7f1934a0c4c44302fb715d5.jpg",
+        "table_caption": [
+            "表5不同施肥措施下两种土壤不同深度团聚体平均重量直径和几何平均直径 Table 5Mean weight diameter(MWD)and geometric mean diameter (GMD)atdiferent soil depthsunder diferent fertilization treatments in greenhouse soil and farmland soil "
+        ],
+        "table_footnote": [
+            "不同小写字母表示同一土层同一类型土壤不同施肥处理间差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示同一土层相同处理不同类型土壤间差异显著 $( P { < } 0 . 0 5 )$ 。Diferentlowercaselettrsindicatesignificantdifferencesatthesaedepthsunderdiferentfertilizertreatments forthesamesoil type $( P < 0 . 0 5 )$ ,anddiferentcapitalletersindicate significant diferences betweentwosoiltypesatthesamedepthunderthesamefertilizertreatment $( P < 0 . 0 5 )$ 1"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Item</td><td rowspan=\"2\">土层深度 Soil depth (cm)</td><td colspan=\"3\">温室土壤 Greenhouse soil</td><td colspan=\"3\">农田土壤 Farmland soil</td></tr><tr><td>NP1</td><td>NPM1</td><td>OM1</td><td>NP2</td><td>NPM2</td><td>OM2</td></tr><tr><td rowspan=\"3\">平均重量直径 MWD (mm)</td><td>0~10</td><td>0.27bA</td><td>0.40aA</td><td>0.43aA</td><td>0.22bB</td><td>0.29aB</td><td>0.30aB</td></tr><tr><td>10~20</td><td>0.19cA</td><td>0.27bcA</td><td>0.35aA</td><td>0.15bB</td><td>0.23aB</td><td>0.28aB</td></tr><tr><td>20~40</td><td>0.11bA</td><td>0.21aA</td><td>0.23aA</td><td>0.12bA</td><td>0.12bB</td><td>0.17aB</td></tr><tr><td rowspan=\"3\">几何平均直径 GMD (mm)</td><td>0~10</td><td>0.15bA</td><td>0.23aA</td><td>0.27aA</td><td>0.12bB</td><td>0.13bB</td><td>0.21aB</td></tr><tr><td>10~20</td><td>0.10bA</td><td>0.15aA</td><td>0.18aA</td><td>0.08bA</td><td>0.11bB</td><td>0.14aB</td></tr><tr><td>20~40</td><td>0.07bA</td><td>0.09bA</td><td>0.12aA</td><td>0.07bA</td><td>0.07bB</td><td>0.09aB</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图2b可以看出，在农田土壤 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 层，3个施肥处理下土壤的分形维数基本相同，在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 层中的水稳性团聚体的分形维数的变化范围为$2 . 9 6 { \\sim } 2 . 9 8$ ，在 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 层中，3个施肥处理下的 $D$ 值又趋于一致。土壤水稳性团聚体分形维数自表层向下逐渐增加，表明底层的团聚体水稳性逐渐降低。从整体上来看，增施有机肥对温室土壤水稳性团聚体 $D$ 值的降低程度好于农田土壤。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1383c2aff484bfd2a867a393c8070332d95379dab7aa0cde60e79ff17d9fe9d.jpg",
+        "img_caption": [
+            "分形维数Fractal dimension"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6土壤有机质含量与 $R _ { 0 . 2 5 }$ 的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，土壤有机质含量与 $> 0 . 2 5 \\ \\mathrm { m m }$ $( R _ { 0 . 2 5 } )$ 水稳性团聚体含量间呈极显著正相关关系(温室土壤， $R ^ { 2 } { = } 0 . 7 1 4 4$ ， $P { < } 0 . 0 0 0 \\ 1$ ；农田土壤， $R ^ { 2 } { = } 0 . 7 5 6 4$ $P { < } 0 . 0 0 0 \\ 1 \\$ )。说明土壤有机质含量越高， $> 0 . 2 5 ~ \\mathrm { ~ m m }$ 水稳性团聚体的含量就越高，土壤团聚体水稳性越强，土壤结构越稳定。同时说明增施有机肥、有机肥加少量化肥配合施用等措施在补充土壤有机碳库和有效养分含量的同时，能显著增加土壤中大团聚体含量及其水稳性，是改善华北平原温室土壤和农田土壤理化性质、培肥地力和确保作物健康稳产的有效途径。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8795636a9c287ad9de9adeec9a60e57ac6fe4ab836c5e3d452515ca51954e131.jpg",
+        "img_caption": [
+            "图2不同施肥措施下不同深度温室土壤(a)和农田土壤(b)中团聚体分形维数 Fig.2Fractal dimensionof water-stable aggregatesofsoil atdifferentdepths under different fertilizertreatments in greenhouse soil (a) and farmland soil (b) ",
+            "图3温室土壤(a)和农田土壤(b)有机质含量与 $> \\mathbf { 0 . 2 5 \\ m m }$ 水稳性团聚体 $( R _ { 0 . 2 5 } )$ 所占比例之间的关系 Fig.3Correlation between organic matter content and proportion of $> 0 . 2 5 ~ \\mathrm { m m }$ water-stable aggregates $( R _ { 0 . 2 5 } )$ of soil in greenhouse soil (a) and farmland soil (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤容重和总孔隙度是评价土壤物理性质的重要指标，二者直接影响土壤水肥供应、通气状况及作物生长[26-27]。单施化肥可能因作物对不同电荷离子的选择吸收、土壤吸附作用差异、杂质离子的作用等因素而导致土壤物理性质恶化，亦可通过增加有机物归还量而改善土壤物理性质[28-29]，对其土壤容重和总孔隙度的影响应取决于具体试验情景中上述两种效应的综合作用强度。本研究中，在温室土壤和农田土壤中长期施用有机肥显著降低了土壤容重，增大了土壤孔隙度。因为有机肥具有较好的肥效，可以直接向土壤中补充大量活性有机物质、促进作物生长，因此在降低土壤容重和增加土壤孔隙度方面往往较单施化肥具有更突出的效果[30-31]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "温室土壤和农田土壤中的水稳性团聚体主要以 $< 0 . 0 5 ~ \\mathrm { ~ m m }$ 粒级团聚体为优势粒级，但其含量因叭付木蚁，月血圭」堪怕山土壤大团聚含量明显增加，团聚体稳定性也得到增强。这主要是由于有机肥中有机残留物的输入，增加了土壤可溶性有机碳含量和微生物活性，从而使小粒级团聚体胶结形成大团聚体，增加了土壤的团聚程度，最终增加了大团聚体含量，提高了团聚体的稳定性[33-34]；同时施用有机肥可在一定程度上抵消耕作对土壤团聚体的破坏作用。邸佳颖等[35]和赵红等[36研究了有机肥施用对团聚体稳定性的影响，结果表明有机肥处理下土壤团聚体的平均重量直径和几何平均直径值均显著高于对照和无机肥处理,单施有机肥处理和有机肥配施化肥处理能够有效提高土壤团聚体的稳定性。但本研究中单施有机肥处理相比于有机肥配施化肥处理，对土壤容重、团聚体稳定性及有机质的改善效果更明显，分析其原因是由于本试验是长期定位试验，长期不断地施用有机肥，等量养分输入的情况下，相比于有机肥配施化肥处理施用的有机肥量大，增加土壤有机质的作用更明显。作为土壤团聚体的主要胶结剂，有机肥分解可产生如多糖、蛋白质、木质素等不同种类的有机质以及由于土壤中微生物活性提高而形成腐殖物，这些土壤中重要的有机胶结物质对大团聚体的形成及稳定产生了积极影响，提高了大团聚数量及团聚体稳定性，土壤结构和稳定性明显得到改善[37-38]，这与邢旭明等[39]的研究结果一致。也有研究表明长期施用化肥也可增加大团聚体含量[40]。本研究中单施化肥并没有增加土壤中大团聚体含量和团聚体稳定 分析其原因可能是本试验土壤长期单施化肥，可能造成土壤板结，微生物活性降低，容重变大，孔隙性变差，进而影响土壤结构；另外长期施用化肥造成的土壤酸化加剧了对土壤阳离子损失也可能是团聚体稳定性降低的原因之一[31,34,40]。有机质是土壤团聚体的重要组分，在土壤团聚体形成中有着重要作用，无论土壤中有机质分解后形成何种物质，而有机质含量与水稳性团聚体数量及稳定性具有正相关性已被很多研究结果证实。同样本文相关分析的结果证实，在温室土壤和农田土壤中有机质含量的提高不仅可增加土壤中 $> 0 . 2 5 \\ \\mathrm { m m }$ 团聚体含量，还可增大团聚体的水稳性[41]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层有机质含量，温室土壤之所以高于农田土壤，其原因就是温室种植多为蔬菜，为了满足蔬菜作物根系对土壤疏松程度的较高要求，大量施用牛粪、鸡粪等有机肥，加之高度集约化栽培使大量蔬菜烂叶、根系分泌物、根系残体遗留于土壤中，使温室土壤中的有机物质富集。有机质含量的增加不仅为土壤肥力的提高奠定了基础，其分解后形成的多糖和腐殖质也为团聚体的形成提供了粘结剂。因此，在温室栽培过程中注重有机肥的施用，不仅是生产绿色有机蔬菜的根本保证，更是保持良好土壤结构的物质基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于长期定位施肥试验研究得出，施肥方式对温室土壤和农田土壤容重、有机质含量和团聚体特性都有显著影响。施用有机肥可显著降低温室土壤和农田土壤容重，增加土壤有机质含量，从而改善土壤松紧状况，其影响效应在 $0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土层明显高于 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层，且在温室土壤中的影响效应高于农田土壤。施用有机肥能显著增加 ${ > } 0 . 2 5 ~ \\mathrm { m m }$ 粒级的团聚体含量、MWD 和GMD值，降低分形维数 $( D )$ 值，说明施用有机肥处理可以促进土壤团聚体的形成，增加其颗粒直径，降低其团聚体的分形维数;但不同方式对 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 层土壤的分形维数影响不大，在此土层中各施肥处理下水稳性团聚体 $D$ 基本趋于一致。土壤有机质含量与 ${ > } 0 . 2 5 ~ \\mathrm { m m }$ 水稳性团聚体所占比例之间呈显著正相关，说明有机质含量越高， $> 0 . 2 5 \\ \\mathrm { \\ m m }$ 水稳性团聚体所占比例越大，土壤团聚体稳定性越强。因此，施用有机肥在补充土壤有机碳库和有效养分含量的同时，能显著增加土壤中大团聚体的含量及其水稳性，改善土壤结构，提高土壤肥力，是在温室土壤和农田土壤中改善其理化性状和培肥地力的有效途径。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]PowlsonD S,Prookes PC,Christensen B T.Measurement of soil microbial biomass provides an early indication of changes in total soil organic matter due to straw incorporation[J].Soil Biology and Biochemistry,1987,19(2):159-164   \n[2]Beare MH,Hendrix PE,Coleman D C.Water-stable aggregates and organic matter fractions in conventional- and no-tillage soils[J].Soil Science Society of America Journal, 1994,58(3): 777-786   \n[3]Barral M T,Arias M,Guérif J.Effects of iron and organic matter on the porosity and structural stability of soil aggregates[J]. Soil and Tillage Research,1998,46(3/4):261-272   \n[4]Dexter A R.Advances in characterization of soil structure[J]. Soil and Tillage Research,1988,11(3/4):199-238   \n[5]Yang X M,Wander MM. Temporal changes in dry aggregate size and stability:Tillage and crop effects on a silty loam Mollisol in Illinois[J]. Soil and Tillage Research,1998,49(3): 173-183   \n[6] 李鉴霖，江长胜，郝庆菊．土地利用方式对缙云山土壤团 聚体稳定性及其有机碳的影响[J]．环境科学,2014,35(12): 4695-4704 Li JL, Jiang C S, Hao QJ. Impact of land use type on stability and organic carbon of soil aggregates in Jinyun Mountain[J].Environmental Science,2014,35(12): 4695-4704 [7] 袁颖红，李辉信，黄欠如，等．不同施肥处理对红壤性水稻 土微团聚体有机碳汇的影响[J]．生态学报，2004，24(12): 2961-2966 Yuan Y H,Li HX, Huang QR,et al. Effects of different fertilization on soil organic carbon distribution and storage in micro-aggregates of red paddy topsoil[J]. Acta Ecologica Sinica,2004,24(12): 2961-2966 [8]邱晓蕾，宗良纲，刘一凡，等．不同种植模式对土壤团聚体 及有机碳组分的影响[J].环境科学,2015,36(3):1045-1052 Qiu XL, Zong L G,Liu YF,et al. Effects of different cultivation patterns on soil aggregates and organic carbon fractions[J]. Environmental Science,2015,36(3): 1045-1052 [9] Chivenge P,Vanlauwe B,Gentile R,et al. Organic resource quality influences short-term aggregate dynamics and soil organic carbon and nitrogen accumulation[J]. Soil Biology and Biochemistry,2011,43(3):657-666   \n[10] Mikha M M,Rice C W.Tillage and manure effects on soil and aggregate-associated carbon and nitrogen[J]. Soil Scince Society of America Journal,2004, 68(3): 809-816   \n[1] Sainju U M.Carbon and nitrogen pools in soil aggregates separated by dry and wet sieving methods[J].Soil Science, 2006,171(12): 937-949   \n[12]窦森，李凯，关松．土壤团聚体中有机质研究进展[J]．土 壤学报,2011,48(2):412-418 Dou S,Li K,Guan S.A review on organic matter in soil aggregates[J]. Acta Pedologica Sinica,2011,48(2): 412-418   \n[13] Six J,Feller C,Denef K,et al. Soil organic matter,biota and aggregation in temperate and tropical soils-effectsof no-tillage[J]. Agronomie,2002,22(7/8): 755-775   \n[14]刘晓利，何园秋，李成亮，等．不同利用方式旱地红壤水稳 性团聚体及其碳、氮、磷分布特征[J]．土壤学报,2009,46(2): 255-262 Liu $\\texttt { X L }$ ,He Y Q,Li C L,et al.Distribution of soil water-stable aggregates and soil organic C,N and P in upland red soil[J]. Acta Pedologica Sinica, 2009,46(2): 255-262   \n[15] Celik I, Gunal H,Budak M, et al. Effects of long-term organic and mineral fertilizers on bulk density and penetration resistance in semi-arid Mediterranean soil conditions[J].Geoderma,2010,160(2): 236-243   \n[16] 刘中良，宇万太，周桦，等．长期施肥对土壤团聚体分布和 养分含量的影响[J].土壤,2011,43(5):720-728 Liu Z L,Yu W T,Zhou H,et al.Effects of long-term fertilization on aggregate size distribution and nutrient content[J]. Soils,2011,43(5): 720-728   \n[17]杜慧玲，冯两蕊，郭平毅．不同使用年限蔬菜大棚土壤溶 质含量变化的试验研究[J]．农业工程学报，2005，21(5): Du HL,Feng L R,Guo P Y.Experimental study on the changes of nutrient salt and trace element contents in soils of vegetablegreenhouse for different cultivation years[J]. Transactions of the CSAE[J],2005,21(5): 127-130   \n[18]孙艳，王益权，刘军，等．日光温室蔬菜栽培对土壤物理质 量的影响[J]．应用生态学报,2011,22(8):2054-2060 Sun Y,Wang Y Q,Liu J,et al. Effects of solar greenhouse vegetable cultivation on soil physical quality[J]. Chinese Journal of Applied Ecology,2011,22(8): 2054-2060   \n[19]杨长明，欧阳竹，杨林章，等．农业土地利用方式对华北平 原土壤有机碳组分和团聚体稳定性的影响[J].生态学报, 2006,26(12): 4148-4155 Yang C M, Ouyang Z, Yang L Z,et al. Organic carbon fractions and aggregate stability in an aquatic soil as influenced by agricultural land uses in the Northern China Plain[J].Acta Ecologica Sinica,2006,26(12): 4148-4155   \n[20]孙艳，王益权，刘军，等．日光温室蔬菜栽培对土壤团聚体 稳定性的影响—以陕西省泾阳县日光温室土壤为例[J]. 土壤学报,2011,48(1): 168-174 Sun Y,Wang Y Q,Liu J,et al. Effects of solar greenhouse cultivation on soil aggregates stability — A case study of solar greenhouse soil in Jingyang County, Shaanxi Province[J]. Acta Pedologica Sinica,2011,48(1): 168-174   \n[21]鲍士旦．土壤农化分析[M]．第3版．北京：中国农业出版 社,2008 Bao S D.Soil and Agricultural Chemistry Analysis[M]. 3rd ed. Beijing: China Agriculture Press,2008   \n[22] Pagliai M,Vignozzi N,Pellegrini S. Soil structure and the effect of management practices[J].Soil & Tillage Research, 2004,79:131-143   \n[23] Gardner WR. Representation of soil aggregate-size distribution by a logarithmic-normal distribution[J]. Soil Science Society of America Journal,1956,20(2):151-153   \n[24] Perfect E,Kay B D.Applications of fractals in soil and tillage research:a review[J]. Soil and Tillage Research,1995, 36(1/2): 1-20   \n[25]杨培岭，罗远培，石元春．用粒径的重量分布表征的土壤 分形特征[J]．科学通报,1993,38(20):1896-1899 Yang P L,Luo YP, Shi Y C.Use the weight-size distribution to characterize the soil fractal features[J]. Chinese Science Bulletin,1993,38(20): 1896-1899   \n[26]杨如萍，郭贤仕，吕军峰，等．不同耕作和种植模式对土壤 团聚体分布及稳定性的影响[J]．水土保持学报,2010,24(1): 252-256 Yang R P,Guo X S,Lü JF,et al. Affects of distribution and stability on soil aggregate in different patterns of tillage and cropping[J]. Journal of Soil and Water Conservation, 2010, 24(1): 252-256   \n[27]宇万太，沈善敏，张璐，等．黑土开垦后水稳性团聚体与土 壤养分的关系[J]．应用生态学报,2004,15(12):2287-2291 Yu W T,Shen S M, Zhang L,et al. Relationships between water-stable aggregates and nutrient status in black soil after reclamation[J]. Chinese Journal of Applied Ecology,2004, 15(12): 2287-2291   \n[28] Verchot L V,Dutaur L,Shepherd K D,et al.Organic matter stabilization in soil aggregates: Understanding the biogeochemical mechanisms that determine the fate of carbon inputs in soils[J]. Geoderma,2011,161(3/4): 182-193   \n[29]张瑞，张贵龙，姬艳艳，等．不同施肥措施对土壤活性有机 碳的影响[J].环境科学,2013,34(1):277-282 Zhang R,Zhang GL,Ji YY,et al.Effects of different fertilizer application on soil active organic carbon[J]. Environmental Science,2013,34(1):277-282   \n[30]耿瑞霖，郁红艳，丁维新，等．有机无机肥长期施用对潮土 团聚体及其有机碳含量的影响[J]．土壤，2010，42(6): 908-914 Geng R L, Yu HY, Ding W X, et al. Effects of long-term application of organic manure and chemical fertilizers on organic carbon in aggregates of a sandy loam[J]. Soils,2010, 42(6): 908-914   \n[31]马俊永，曹彩云，郑春莲，等．长期施用化肥和有机肥对土 壤有机碳和容重的影响[J].中国土壤与肥料，2010,(6): 38-42 Ma JY, Cao C Y, Zhen C L, et al. Effect of Long-term application of chemical fertilizers and organic manure on soil organic carbon and bulk density[J].Soil and Fertilizer Sciences in China,2010,(6):38-42   \n[32]申思雨，刘哲，吕贻忠．不同种植方式对温室土壤微形态 的影响[J].±壤,2016,48(2):355-360 Shen S Y,Liu Z,Lü Y Z. Effects of different planting patterns on soil micro structure in greenhouse[J].Soils,2016, 48(2): 355-360   \n[33]霍琳，武天云，葡海明，等．长期施肥对黄土高原旱地黑泸土 水稳性团聚体的影响[J].应用生态学报,2008,19(3):545-550 Huo L,Wu TY,Lin HM,et al.Effects of long-term fertilization on water-stable aggregates in calcic kastanozem of Loess Plateau[J]. Chinese Journal of Applied Ecology,2008, 19(3): 545-550   \n[34]李辉信，袁颖红，黄欠如，等．长期施肥对红壤性水稻土团 聚体活性有机碳的影响[J]．土壤学报,2008,45(2):259-266 Li H X, Yuan Y H, Huang Q R,et al. Effects of long-term fertilization on labile organic carbon in soil aggregates in red paddy soil[J].Acta Pedologica Sinica,2008,45(2): 259-266   \n[35]邸佳颖，刘小粉，杜章留，等．长期施肥对红壤性水稻土团 聚体稳定性及固碳特征的影响[J].中国生态农业学报， 2014,22(10): 1129-1138 Di JY,Liu X F,Du Z L,et al. Influences of long-term organic and chemical fertilization on soil aggregation and associated organic carbon fractions in a red paddy soil[J].Chinese Journal of Eco-Agriculture,2014,22(10): 1129-1138   \n[36]赵红，袁培民，吕贻忠，等．施用有机肥对土壤团聚体稳定 性的影响[J].±壤,2011,43(2):306-311 Zhao H, Yuan P M,Lü Y Z,et al. Effects of organic manure application on stability of soil aggregates[J]. Soils,2011, 43(2): 306-311   \n[37]刘中良，宇万太．土壤团聚体中有机碳研究进展[J]．中国 生态农业学报,2011,19(2):447-455 Liu Z L, Yu W T. Review of researches on soil aggregate and soil organic carbon[J]. Chinese Journal of Eco-Agriculture, 2011,19(2): 447-455   \n[38]刘满强，胡锋，陈小云．土壤有机碳稳定机制研究进展[J]. 生态学报,2007,27(6):2642-2650 Liu M Q,Hu F,Chen X Y.A review on mechanisms of soil organic carbon stabilization[J].Acta Ecologica Sinica,2007, 27(6): 2642 - 2650   \n[39]邢旭明，王红梅，安婷婷，等．长期施肥对棕壤团聚体组成 及其主要养分赋存的影响[J]．水土保持学报，2015，29(2): 267-273 Xing X M, Wang H M, An T T, et al. Effects of long-term fertilization on distribution of aggregate size and main nutrient accumulation in brown earth[J].Journal of Soil and Water Conservation,2015,29(2):267-273   \n[40]毛霞丽，陆扣萍，何丽芝，等．长期施肥对浙江稻田土壤团 聚体及其有机碳分布的影响[J]．土壤学报，2015，52(4): 828-838 Mao XL,LuKP,He L Z,et al.Effect of long-term fertilizer application on distribution of aggregatesandaggregate-associated organic carbon in paddy soil[J].Acta Pedologica Sinica,2015,52(4): 828-838   \n[41]安艳，姬强，赵世翔，等．生物质炭对果园土壤团聚体分布 及保水性的影响[J]．环境科学,2016,37(1):293-300 An Y,Ji Q,Zhao S X,et al.Effect of biochar application on soil aggregates distribution and moisture retention in orchard soil[J]. Environmental Science,2016,37(1):293-300 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

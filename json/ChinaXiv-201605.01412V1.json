@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "Protein disulfide-isomerase,a folding catalyst and a redox-regulated chaperone ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lei Wang1, Xi Wang1, Chih-chen Wang \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JationalLaboratoryofiomacromolecules,InstituteofBiophsics,ChineseAcademyofSciences,Beijing0o,Chind ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 20 November 2014   \nReceivedinrevised form   \n4 February 2015   \nAccepted 7February 2015   \nAvailable online 17 February 2015   \nKeywords:   \nChaperone   \nEndoplasmic reticulum   \nOxidative protein folding   \nProtein conformation   \nProteindisulfide-isomerise   \nRedox regulation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Protein disulfide-isomerase (PDI) was the first protein-folding catalystto be characterized,half a century ago.It plays critical roles ina variety of physiological events by displaying oxidoreductase and redoxregulated chaperone activities.This review provides a brief history of the identification of PDIas both an enzyme and a molecular chaperone and of the recent advances in studies on the structure and dynamics of PDI,the substrate binding and release,and the cooperation with its partners to catalyze oxidative protein folding and maintain ER redox homeostasis.In this review,we highlight the structural features of PDI,including the high interdomain flexibility,the multiple binding sites,the two synergic active sites, and the redox-dependent conformational changes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Remarkable earlywork byHsien Wu[1]and others established the first theory of protein denaturation.Further， pioneering investigations by the Nobel Prize laureate Christian B.Anfinsen in the late $1 9 5 0 s$ of the last century created anew field of protein science-\"protein folding\"-which was specified by Anfinsen's proposition that “the amino acid sequence of a polypeptide chain contains all of the information forits three dimensional structure\" [2],so called “spontaneous self-assembly”principle of protein folding.In the 1980 s,a new concept for protein folding emerged alongwith the identification of a“molecular chaperone”by John Ellis [3]. The refined definition of molecular chaperone is“a large and diverse group of proteins that share the property of assisting noncovalent foldingand unfolding,and assemblyand disassembly, of other macromolecular structures,but are not permanent components of these structures when they are performing their normal biological functions” [4]. The concept of chaperoneassisted protein folding/unfolding/assembly/disassembly,i.e.,the “assisted self-assembly”principle,expands the protein folding problem with a kinetic viewpoint,and does not conflict with Anfinsen's proposition as a thermodynamic hypothesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Oxidative protein folding characterized by intramolecular disulfide bond formation is probably the most complicated protein folding problem,as the number of all possible disulfide-bonded isomers of a protein skyrockets with the increase of the number of constituent cysteines,but only one form imparts correct protein function [5].It is known now that nearly one-third of human proteins are secretory and membrane proteins,which usually possess intra- and/or intermolecular disulfide bonds.Disulfide bonds are very important for the structure,function,and regulation of these proteins.The formation of disulfide bonds mainly occurs in the endoplasmic reticulum (ER) of eukaryotic cells and in the periplasm of prokaryotic cells.The pioneering work in the 1960 s by Anfinsen's group led to the discovery of protein disulfide-isomerase (PDI） (for review,see Ref.[6])，which is a keyand abundant enzyme in the ER for catalyzing oxidative protein folding.About 2O years later the amino acid sequence of rat PDI was deduced through sequencing of cDNA,suggesting that the enzyme comprised two distinct regions homologous with Escherichia coli thioredoxin（Trx）[7].However，the accurate identification of the domain boundaries took almost another 20 years.It is now known that PDl is composed of four Trx-like domains in the order ofa,b, $\\mathbf { b } ^ { \\prime }$ ，and $ { \\mathbf { a } } ^ { \\prime }$ ，witha C-terminalacidic extension c and an $\\textbf { x }$ -linker between domains ${ \\bf \\delta b } ^ { \\prime }$ and $ { \\mathbf { a } } ^ { \\prime }$ [8,9]. Domains a and $ { \\mathbf { a } } ^ { \\prime }$ each contain a -CGHC-active site responsible for a thiol-disulfide interchange reaction [1O],and domain $\\mathbf { b } ^ { \\prime }$ provides the principal substrate-binding site [8,11]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PDI is ubiquitously expressed in different tissue and cell types of mammals,witha great quantity ( $0 . 4 \\%$ of total cellular protein) in professional secretory tissues[12]. Possessing a C-terminal ER retention sequence of KDEL,PDI is primarily located in the ER lumen where its concentration can approach the millimolar range [13];nevertheless it has also been found in other intracellular compartments,such as mitochondria,nucleus,cytosol,and even at the cell surface and extracellular space [14].To date,more than 20 members of human PDI family have been characterized,which share a common structural feature of having at least one Trx-like domain [15].The modular combinations of Trx-like catalytic domains and noncatalytic domains give rise to structural and functional versatilities of PDl family members (for review,see Refs. [6,15,16]).The most well-studied PDI from lower eukaryotes is yeast Saccharomyces cerevisiae Pdi1p.Although human PDl and yeast Pdi1p share a sequence identity of $31 \\%$ (BLAST)with similar overall structuresand in vitro oxidoreductase activities,theydiffer in their molecular dynamics,in vivo redox states,and interactions with client proteins.In this review,we will focus on the structural basis of human PDl both as an enzyme and as a molecular chaperone,its activity regulation,and its interactions with client proteins.In terms of these aspects,differences between human PDI and yeast Pdi1p will also be discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chaperone activity of PDI ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PDIis both an enzyme and amolecular chaperone ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the enzyme classification number EC 5.3.4.1,PDl can catalyze the reactions of thiol-disulfide interchange (oxidation/ reduction）and the rearrangement of disulfide bonds (isomerization) in proteins,depending on the redox states of its active sites (Fig.1).In each active site(-CGHC-） of PDI the two vicinal thiol groups can either form an intramolecular disulfide (oxidized PDI) or exist in free dithiol form (reduced PDI) during the catalytic cycle.PDI catalyzes disulfide formation in substrates by transferring oxidizing equivalents to reduced substrates as an oxidoreductase but not an oxidase,because it does not use molecular oxygen as the electron acceptor. Conversely,PDI catalyzes disulfide reduction in a substrate by transferring reducing equivalents to the oxidized substrate.The disulfide isomerization process could be achieved by two modes:the N-terminal cysteine in the active site of PDl attacks the mispaired disulfide in substrate and then directly shuffles the intramolecular disulfide rearrangement;alternatively，repeated cycles of substrate reduction followed by reoxidation are completed by mixed reduced/oxidized PDl [17]. PDI was recognized only as an oxidoreductase and excluded as a chaperone [18] ora general chaperone[19] at the beginning of the 1990 s.However,chaperone is a functional rather than a structural concept,and PDI was deduced to meet the main requirements of being a chaperone for the followings:（1) the spontaneous folding and formation of disulfide bonds within a polypeptide in vitro are often slow processes,and PDI-promoted oxidative folding with elevated efficiency does not need the presence of recognized chaperones;(2） PDI exists in the ER at high concentrations [13], and thus can function at stoichiometric levels as a chaperone; (3）PDI is notable in its capacity of nonspecific peptide binding through hydrophobic interaction[20,21],a prominent feature for a chaperone. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f24d5cea48bea308ea1e2252a50d3bbb994c26dc4ffe2a83f74ba5d4934349d.jpg",
+        "img_caption": [
+            "Fig.1.PDl-catalyzed thiol-disulfide interchange reactions.PDI-catalyzed disulfide formation occurs when oxidizing equivalents are transferred from the active site of oxidized PDI to reduced substrate,resulting in either a native disulfide (a) or a nonnative disulfide (b) in the substrate and reduced PDI.The mispaired disulfide can be isomerized by reduced PDI through direct intramolecular disulfide rearrangement (c).Alternatively, the nonnative disulfide can be converted to the native one via the pathway of reduction(d) and reoxidation (a).In some cases,the disulfide in native substrate can be reduced by reduced PDI(e） to facilitate substrate unfolding.Note that in all the thiol-disulfide interchange reactions,a mixed disulfide is formed between the N-terminal cysteine in the PDI active site and a cysteine in the substrate.Only one catalytic domain of PDI is shown for simplicity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“PDI is both an enzyme and a molecular chaperone”was originally proposed as a hypothesis [22].This hypothesis has now been strongly supported by numerous in vitro and in vivo experimental data and widely accepted [4,23]. For oxidative protein folding,the chemical formation or disruption of disulfide bonds is accompanied by the processes of “conformational folding”of the polypeptide chain.These processes are connected intimatelyand affected interdependently. Therefore,to explore the chaperone activity of PDI explicitly distinct from its known enzyme activity,proteins without disulfide,such as glyceraldehyde phosphate dehydrogenase (GAPDH) [24] and rhodanese [25], were selected as target proteins.The presence of PDI in the folding system at stoichiometric instead of catalytic amounts indeed greatly increased the reactivation yield oftheguanidine hydrochloride-denatured GAPDH or rhodanese on dilution and suppressed their aggregation during refolding，without being a part of the final functional structure.In addition,PDl suppressed aggregation of rhodanese during thermal denaturation.These properties are entirely consistent with the definition of chaperones by Ellis [18]and fully meet the four criteria proposed by Jakob and Buchner [26] for characterization of a protein as a molecular chaperone.As the reactivation of those target proteins has nothing to do with the formation of disulfides,the folding promoting effects of PDl cannot be attributed to its enzyme activity but only to its intrinsic chaperone activity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The intrinsic chaperone activity of PDI has also been characterized in physiological disulfide-containing proteins.The oxidative refolding yield of denatured lysozyme was either increased or decreased in the presence of different concentrations of PDI [27].PDI also increased thereactivation yield of denatured and reduced antibody fragments enormously,with a maximum effect at near stoichiometric amounts [28].Latera set of elegantly designed experiments [29] showed that the maximal refolding and reactivation of denatured and reduced acidic phospholipase A2,a protein composed of 124 amino acid residues with seven disulfide bonds,were achieved in the presence of stoichiometric amounts of PDI,and $90 \\%$ of PDI in the refolding reaction can be replaced byalkylated PDI [3O] with only chaperone but no enzyme activity. Catalytic amounts of PDI only catalyzed very limited reactivation,and alkylated PDI alone,evenat stoichiometric amounts,showed no effect on the reactivation of acidic phospholipase A2.These experiments unambiguously discriminated the chaperone and oxidoreductase activities of PDI in the oxidative folding of disulfide-containing protein,and demonstrated that both of the two activities are necessary for PDl to function as an efficient folding catalyst [31].A similar strategyusing enzymatically inactive PDI has been employed to examine the chaperone activity of PDI in other reactions;e.g.,PDI with its active site mutated showed an ability to increase the expression of active lysozyme in E.coli [32]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In fact,that a protein has multiple different functions,including chaperone and enzyme functions,is not rare.The chaperone activity has been demonstrated for ATP-dependent proteases,such as the well-characterized CIp family,FtsH family,and Lon family, in which the chaperone activity contributes to high efficiency of proteolysis [33].A widely conserved heat shock protein DegP has also been shown to have both chaperone and proteolytic activities, which are switchable in a temperature-dependent way [34]. Trigger factor, the first molecule binding to nascent peptide synthesized from the ribosome,has been characterized to have bothchaperone and peptidyl-prolyl cis-trans isomerase activities, and its peptide-binding site is well separated from its enzyme active site [35].FkpA,a peptidyl-prolyl cis-trans isomerase in the periplasm of E.coli,also has chaperone activity [36]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PDIis aphysiological chaperone ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Not only the chaperone property but also the chaperone function of PDI in physiological actions have been demonstrated. PDI has long been identified to be a permanent structural subunit of two important ER-located enzymes,prolyl 4-hydroxylase (P4H) [37] and microsomal triglyceride transfer protein (MTP)[38].P4H, catalyzing hydroxylation of procollagen chains,is an $\\alpha _ { 2 } \\beta _ { 2 }$ heterotetramer. The $\\alpha$ -subunit contains the sites for both substratebindingandhydroxylationactivity,while the $\\beta$ -subunitis just PDI [39].The chaperone activity of PDI rather than its enzyme activity isnecessaryfor thesolubility ofrecombinantly expressed $\\alpha$ -subunits and the assembly of functional P4H molecules [40]. MTP is an $\\alpha \\beta$ heterodimer with PDl as the $\\beta$ -subunit,which also functions as a chaperone as the isomerase activity is not required for the formation of soluble and active MTP dimer [41].PDl was also identified to be part of the chaperone machinery in the proteasome-mediated ER-associated degradation (ERAD） process, byrecognizing terminally misfolded secretory proteins and targeting them to cytosol for degradation in both yeast [42]and mammalian cells [43].For proinsulin folding，the PDI variants completely devoid of isomerase activitywere shown to be able to increase the folding yield but not accelerate the folding process, though the maximum folding yield was onlyachieved with wildtype PDI [44].Moreover,in estrogen responsiveness PDI plays a critical role as a molecular chaperone to assist the estrogen receptor in differentially regulating target gene expression [45]. And PDl enhances tissue factor coagulant activity on microvesicles through its chaperone activity rather than its oxidoreductase activity [46].The above examples all indicate the chaperone function of PDI in diverse physiological events. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The chaperone activity ofPDl isredox-dependent ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“PDI is a redox-dependent chaperone\"was first claimed by Tsai and Rapoport [47].They reported that PDl mediates the transport of cholera toxin from the ER to the cytosol by unfolding the toxin A1 subunit in a redox-dependent mode.Reduced PDI in closed conformation recognizes and binds to A1 subunit,which is released when PDI is oxidized by its upstream oxidase ER oxidoreductin 1(Ero1） to an open conformation [48]. The displacement of the A1 subunit from the other parts of the toxin relies on the chaperone activity but not oxidoreductase activity of PDI [47,49]. In the sequential calnexin/BiP/PDI system for preparing substrates in ERAD,the chaperone activity of PDI is also redox dependent [43].However,the concept that PDl is a redoxdependent chaperone was challenged by arguing that the redoxdependent dissociation of PDl from its substrate is mediated by glutathione disulfide competition [5O]. Until recently, the details of the redox-driven conformational change of PDl have been depicted by various structural techniques (see part III). Oxidation of PDI results in the conversion from the compact conformation to the open conformation with the substrate-binding surface more exposed，exhibiting higher chaperone activity to prevent the aggregation during substrate refolding [51].In oxidative protein folding,PDI in the oxidized state with open conformation recognizes and binds to unfolded peptides/proteins,transfers its disulfide to them，and PDI itself becomes reduced in closed conformation,which releases folded substrates.Should nonnative disulfides be inserted into substrates,reduced PDI can bind to these folding intermediates and catalyze the disulfide isomerization and afterward release the folded substrates [52]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,the chaperone/substrate-binding activity of PDI is dependent on its conformation,which is coupled to its redox states.It seems likely that oxidized PDl with open conformation exhibits high bindingaffinity for extended unfolded peptides or less-folded intermediates,while the reduced PDI with compact conformation is more suitable for binding with relatively structured substrates that need to be reduced or isomerized (Fig.2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The structure and dynamics of PDI ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Structures of PDI ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PDI has long been thought as a dimer based on its apparent molecular weight determined by gel filtration chromatography, but this“dimer\"was later identified to bea monomer byanalytical ultracentrifugation analysis.The sedimentation velocity experiments also suggested that rat PDI is an elongated monomer; thus the four Trx-like domains were presumed to be arranged in a linear fashion with few interactions [53]. Later,a small angle X-ray scattering(SAXS) study presented a structural shape of human PDI in a short and roughly elliptical cylinder with an annular arrangement of its four Trx-like domains [54].The trials to obtain the fulllength PDl structure were unsuccessful for a long time,although the single domain structures a [55],b [56],and a'[57] were determined in the late 199O s of the last century.A breakthrough in this field came along with the determination of the crystal structure of yeast Pdi1p.Yeast Pdi1p shows an overall U-shaped organization of the four Trx-like domains,in which the a and $ { \\mathbf { a } } ^ { \\prime }$ domains represent two flexible arms connected to the rigid bb' base[58].After that, the structures of different domain combinations of human PDI including b'x [59],bb'[6O],and bb'xa'[51],as well as the full-length structures of other human PDl family members ERp44 [61],ERp29 [62],ERp57[63],ERp27[64],and ERp46 [65],subsequently came to the fore.Part of this progress has recently been reviewed by Gehring and co-workers [66], Ruddock and co-workers [6],and Freedman and co-workers [67], andafurther related review is given by Kenji Inaba in this special issue.Hereinafter,we will focus on the interdomain interactions and dynamics in full-length PDl,based on the crystal structures of human PDl in the reduced and oxidized states,which is the first report of the structures of mammalian PDl containing all the four Trx-like domains [68]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/126a575f039775410294d0a233aaa5646d7d82986adc1039f961cc6c435d32a4.jpg",
+        "img_caption": [
+            "Fig.2.Schematic model of redox-dependent substrate-binding-release cycle of human PDI.The hydrophobic areas in each domain of PDI are colored in red, including the principal substrate-binding site in domain b/.Yellow balls indicate reduced thiols,and black bars indicate disulfide bonds.In the resting states, reduced PDI exists in compact conformation stabilized by interdomain interactions. On oxidation by upstream oxidizing equivalents,oxidized PDI acquires more conformational flexibility. Especially, the oxidation of the $ { \\mathbf { a } } ^ { \\prime }$ domain increases the interdomain mobility of the b'xa'region around the flexible $\\textbf { x }$ -linker (a).The oxidized PDI is thus in an open conformation with exposure of large substrateaccommodating cleft and extensive hydrophobic areas,and gains high binding affinity for unfolded peptides or less-folded intermediates.When transferring the oxidative equivalents to generate disulfide bonds in a substrate,PDI is concomitantly reduced and switches to a less open conformation (b). The substrate is released from PDI once it achieves a native structure,and reduced PDI returns to its resting state.In some cases,protein that needs to be reduced or isomerized can be captured by reduced PDI with relatively small cleft to initiate a direct isomerization or a reductive unfolding reaction (c).On substrate reduction and release,the oxidized PDI at its resting state can either be reduced by reducing equivalents (d), like glutathione,or reenter another cycle of substrate binding and release. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the crystal structures of human PDI, the four Trx-like domains a, b, b,and $ { \\mathbf { a } } ^ { \\prime }$ are arranged also as a horseshoe (or U) shape,in which domains aand a' are at the two ends with -CGHC-active sites facing each other and domains bb'as the base (Fig.3). This overall domain organization looks quite similar to the Pdi1p structure,whereas the structural details and the dynamic properties are actually rather different between the two PDI molecules.When the structures from these two species are superimposed on the basis of the bb' domains, significant rotations of both domain a and $ { \\mathbf { a } } ^ { \\prime }$ were observed.The major flexibility of human PDI occurs within the b/xa’ region [59,69], but not between domain a and b as indicated for yeast Pdi1p [70]. Remarkably,the $\\mathbf { x }$ -linker of human PDl can adopt alternative conformations and thus considerably improves the conformational plasticityofthe $\\mathbf { b } ^ { \\prime } \\mathbf { x } \\mathbf { a } ^ { \\prime }$ region [69]. Consistent with this,the contacts between domains a and b and between domains $ { \\mathbf { b } } ^ { \\prime }$ and $ { \\mathbf { a } } ^ { \\prime }$ in the crystal structures of human and yeast enzymes are different indeed. Furthermore,human PDI has a larger and deeper hydrophobic pocket embedded in domain $ { \\mathbf { b } } ^ { \\prime }$ and a more extensive hydrophobic patch in domain b than yeast Pdi1p.The differences in crystal structures of human and yeast PDI may underline the different interaction modes with partner proteins and distinct roles in oxidative protein folding (seepart IV). It may also explain the observation that human PDI shows intrinsic chaperone activity in assisting the folding of denatured proteins without disulfide bonds [24],whereas yeast Pdi1p does not [71]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dae6ecdc845c89b3a66d875416218ed0a8b5d637c66f1ebc296767d06f2b670.jpg",
+        "img_caption": [
+            "Fig.3.The crystal structures of human PDI in reduced(PDB code 4EKZ）and oxidized(PDB code4EL1) states.Four Trx-like domainsa,b,b/,a'and the $\\mathbf { x }$ -linker are indicated in ribbon diagrams with different colors.Cysteine residues in the two active sites are shown as yellow spheres.The surface representation of the molecule is shown in gray with the hydrophobic residues in red.The diameter of the open side of the cleft formed by the four domains is indicated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Redox-regulated conformational changes of PDl ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Structural studies first provided solid evidence at the atomic level for the redox-regulated conformational changes of PDI. Comparison of the human PDI structures in oxidized and reduced states revealed that the redox-regulated conformational changes are mainly located in the $\\mathbf { b } ^ { \\prime } \\mathbf { x } \\mathbf { a } ^ { \\prime }$ region [68],which is consistent withprevious results obtained by limited proteolysis assaysand mass spectrometry [51].Oxidation of the active site in domain $ { \\mathbf { a } } ^ { \\prime }$ triggers the separation between the $ { \\mathbf { a } } ^ { \\prime }$ and the $\\mathbf { b } ^ { \\prime }$ domains as well asa $\\sim 4 5 ^ { \\circ }$ rotation of the C-terminal half of the $\\mathbf { x }$ -linker,andthus exposes the active site in domain $ { \\mathbf { a } } ^ { \\prime }$ and hydrophobic patches on these two domains for client binding(Fig.3).The redox-regulated conformational changes also adjust the substrate-binding capacities of PDI. In reduced human PDI, the open side of the horseshoe cleft formed by the four Trx-like domains is narrow $( \\sim 1 5 \\mathring { \\mathsf { A } } )$ ,and the volume of the cleft is ${ \\sim } 6 8 1 6 \\mathrm { ~ } \\mathring { \\mathsf { A } } { } ^ { 3 }$ ，which is estimated to accommodate proteins or protein elements with some folding extent.When PDI is oxidized,the open side of the cleft expands to $\\sim 3 0 \\mathring { \\mathsf { A } } ,$ ,and the volume of the cleft enlarges accordingly to $\\sim 1 4 4 5 3$ $\\mathring { \\mathsf { A } } ^ { 3 }$ ,providing a capability for binding extended unfolded peptides orless-folded intermediates.A similar redox-dependent domain rearrangement was observed in PDI from a thermophilic fungus Humicola insolens by using nuclear magnetic resonance and SAXs methods [72]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Redox regulation of protein function has recently attracted intensive attention.In Hsp33,a well-studied redox-regulated chaperone [73],the formation of a disulfide triggers the unfolding of the zinc-binding domain,which then destabilizes the adjacent region and exposes large hydrophobic surfaces for binding unfolded substrates.A structural study on a 2-Cys peroxiredoxin (Prx) from Schistosoma mansoni[74] proposed a similaractivation mechanism for this redox-regulated chaperone.Overoxidation of the cysteine residue in the active site of this Prx to sulfinic acid formwas believed to cause the unfolding of the C-terminus and theunwinding of a helix where the active site located,resulting in higher-order oligomerization and elevated chaperone activity.The redox-regulation of PDl chaperone activity is achieved bya different mechanism,through which PDI undergoes a significant interdomain rearrangement rather than conformational changes within an individual domain,exposing its hydrophobic patches to different extents for client accommodation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Substrate-bound state and resting state ofPDI ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Structural and biochemical studies suggested that the PDI molecule is highly flexible to undergo conformational changes for cycles of substrate binding and release.In addition,PDI contains multiple binding sites with moderate to low affinities [60,75,76],which is beneficial to the binding of substrate/partner proteins with different shapes and sizes or at different folding extents.The moderate/low binding ability is also favorable for the release of clients from PDI when the reaction cycle is completed.These two prominent structural features enable PDI to function effciently as an oxidoreductase and/or a chaperone.On the other side,it is just the molecular flexibility that makes PDIdifficult to be crystallized.A noteworthy fact is that inall solved crystal structures of PDI,either from human [68] or yeast [58,70],the interior of the horseshoe,containing the principal site responsible for substrate binding,is partially occupied by another PDI molecule.This probably represents a tendency under crystallization conditions for stabilizing PDl conformation via filling up with another molecule and may be considered asa substrate-bound state of PDI. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Arecent molecular dynamics simulation study based on the crystal structures of human PDI revealed that the molecule adopts more compact conformations in solution than in crystal structures [77]. Interestingly,these compact conformations are quite similar to the previously reported SAXS annular model of human PDI in solution [54], and likely represent the intrinsic stable conformations of human PDI molecule in its resting states.In these compact conformations,domain aappears close to the other three domains and can even interact with domain ${ \\bf \\delta b } ^ { \\prime }$ via several salt bridges,which was not observed in the crystal structures.Disruption of these salt bridges between domains a and ${ \\bf \\delta b } ^ { \\prime }$ or deletion of domain a promoted the accessibility of domain b' to a partner protein [77]. In line with this,bisphenol A was reported to induce the rearrangement of the PDla domain,resulting inan overall structure more compact with closure of the substrate-binding pocket in the $\\mathbf { b } ^ { \\prime }$ domain [78].Therefore,besides the flexibility within the b'xa' regionrevealed in crystal structures,domainamayalso contribute to theregulation of the substrate-binding or chaperone activity of PDI. The relative movement of domain a and a' was first observed by Freedman's group over 2O years ago,and the minimum distance between the two active sites of rat PDl was determined to be $1 6 \\mathring { \\mathsf { A } }$ by crosslinking with a thiol-specific homobifunctional reagent [79]. In the crystal structures,this distance of human PDl is $4 0 . 3 \\mathring { \\mathsf { A } }$ in the oxidized state and $2 7 . 6 \\mathring { \\mathrm { A } }$ in the reduced state [68]. Significantly, this distance was observed to decrease to $5 . 4 \\mathring { \\mathsf { A } }$ during molecular dynamics simulations and can be even shorter,because an interdomain disulfide using a PDl trapping mutant was captured in solution [77].This result may support the recent speculation of the intramolecular electron transfer within a PDl molecule [8o,81],and provide new insights into the possible synergic cooperation of the two active sites of PDI during catalyzing reactions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/79fd454146cd538f3e426ee655608f1b163a44e69487bf48e8593ead8989cf5e.jpg",
+        "img_caption": [
+            "Fig.4.Model for PDl-mediated oxidative protein folding and redox homeostasis in mammalian ER.At steady states,Ero1α is predominantly in the inactive state,and PDI family proteins (PDIs）are present in a balanced reduced and oxidized distribution.Yellow balls indicate reduced thiols,and fine black bars indicate the disulfide bonds. Only the catalytic domains of PDIs are shown for simplicity. Once the folding load of reduced substrates (such as nascent polypeptides) increases,the redox homeostasis in the ER is disturbed,and more reduced PDIs are generated, which quickly reduce the regulatory disulfides in Erolα and liberate the outer active site located in the loop region (red arrow1).The activated Erolα specifically recognizes the $\\mathbf { b } ^ { \\prime } \\mathbf { x } \\mathbf { a } ^ { \\prime }$ domains of PDI and preferentially oxidizes the active site in the a' domain,which further introduces disulfides into reduced substrates (purple arrow 1). In this reaction $\\mathbf { O } _ { 2 }$ is consumed to produce $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，which can be further utilized by $G \\mathrm { P X } 7 / 8$ and/or Prx4 to generate more disulfide via oxidizing the catalytic domains of PDI proteins (purple arrow 2),with $\\mathrm { H } _ { 2 } \\mathrm { O }$ being released. The asymmetric oxidation of PDI by Erolα keeps the a domain mainly in the reduced state for catalyzing efficient disulfide isomerization to produce correctly folded substrates (orange arrow).Once the thiol-disulfide equilibrium in the ER is reestablished,the regulatory disulfides of Erolα are easily reformed either by self-oxidation or facilitated by oxidized PDIs to decrease the introduction of oxidizing power in the ER and avoid the futile oxidation cycles (red arrow 2). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the recent progress discussed above,we can image that in the ER lumen PDI may constantly move with its two flexible arms to dance with diverse substrate/partner proteins, which is stimulated by dynamic conformational changes coupled to its redox state alternation in response to the physiological actions (Fig. 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PDI and its partners in oxidative protein folding ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PDI and Ero1 constitute the pivotal oxidative folding pathway ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To continuously catalyze disulfide formation,PDI needs to be recharged after its disulfide has been transferred to reduced substrates.The oxidative resource for oxidative protein folding had long been considered to be oxidized glutathione until the upstream enzymes were identified.Ero1 flavoprotein,member of the sulfhydryl oxidase family (EC 1.8.3.2),was characterized to be the first oxidase of PDI. Yeast contains a single ERO1 gene encoding Ero1p protein [82,83]. Human cells have two Ero1 isoforms-Ero1α iswidely expressed [84] and $\\mathtt { E r o 1 \\beta }$ is selectively expressed in professional secretory tissues [85].The mechanism of the electron transfer through the PDl-Ero1 pathway was elucidated in recent years [86,87]. Under aerobic conditions the Ero1 proteins utilize $0 _ { 2 }$ asan electron acceptor to oxidize its -CXXC-inner active site via flavin adenine dinucleotide cofactor. The produced disulfideis then transferred to the -CXXXXC- outer active site located in an intrinsically flexible loop,and further shuffled to the active site of PDI [88,89]. The expended $0 _ { 2 }$ is reduced to an equimolar $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ molecule [90-92]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although human PDI harbors two -CGHC-active sites with similar reduction potentials [80], Ero1α [91,93] and Ero1 $\\beta$ [92]preferentially oxidize theactive site in domain $ { \\mathbf { a } } ^ { \\prime }$ ofPDI rather than the one in domaina.The asymmetric oxidation of the two active sites in PDl is not trivial,as the reluctant oxidation of the a domain makes it mainly in the reduced state,which can deal with the rearrangement of the nonnative disulfides in the folding intermediates [94].A fascinating model for the oxidative folding driven by human Ero1 proteins has been proposed as shown in Fig.4. The $ { \\mathbf { a } } ^ { \\prime }$ domain of PDI contributes to disulfide introduction while the a domain mainly to disulfide isomerization,so as to guarantee the effciency and fidelity of oxidative protein folding.Quite differently,the two active sites of Pdi1p can both be readily oxidized by Ero1p [94],with the oxidation rate of domain a somewhat faster [95]. Consequently, the yeast Ero1p/Pdi1p system is less effcient than the human system in the proofreading of nonnative disulfides as assessed in vitro [94].These data are in agreement with the observations that Pdi1p in yeast exists predominantly in the oxidized state [96],and less than $6 \\%$ of its isomerase activity is needed for yeast growth [97]. On the contrary, in human cells a majority of PDl active sites are in the reduced state [98]. It is rational that the Ero1α/PDI system in mammals has evolved to adapt to the folding of disulfide-rich secretory and membrane proteins,especially those containing nonconsecutive disulfide bonds, which are not ample in lower eukaryotes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The different modes for PDl asα substrate and a regulatorof Ero1 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In recent years,a clearer picture of the interactions between Ero1and PDI at molecular level has been depicted.In addition to catalyzing disulfide formation,PDl-Ero1 interplay also constitutes a pivotal regulatory hub for the maintenance of thiol-disulfide redox homeostasis in the ER from yeast to human.In this system, the oxidase activities of Ero1 proteins are negatively controlled through the formation of their“regulatory disulfide bonds\" [92,93,99,1oO]. PDl functions not only as the substrate of Ero1, but also as a crucial regulator of Ero1 activity [94,101,102]. If the environment of the ERis relatively reducing,the oxidase activity of Ero1 can be activated due to the reduction of the regulatory bonds byreduced PDI,and generates disulfides in PDI and in substrates to recover the redox state of the ER accompanied by peroxide production.Once the ER becomes too oxidizing,the regulatory bonds of Ero1 are reformed,either byautonomous reoxidation or byoxidized PDI,and Ero1 is inactivated to avoid futile oxidation cycles with excess peroxide production.The tight regulation of Ero1α by PDl could bea critical determinant of ER redox homeostasis [1O3]. In contrast, the regulation of $\\mathtt { E r o 1 \\beta }$ is looser,underlining its role as a more active oxidase in professional secretory cells where massive oxidative power is required [92]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notably, the working modesof human PDl asa regulator and as a substrate of Ero1αare different (Fig.4).It was veryrecently revealed that the two catalytic domains of PDl contribute to the activation/ inactivation of Ero1α equally and independently [94,1O4],and the substrate-bindingability of PDIis not involved in disulfide exchange between the active sites of PDl and the regulatory bonds of Ero1α [94].However,once Ero1α is activated,the fast turnover between the active sites of Ero1α and PDI strictly relies on the hydrophobic interaction between the two enzymes [91,94,105]. Inactive Ero1α showed a lower affinity for PDI in vitro [1O5],and no stable binding with PDI in cells was detected [94].A protruding $\\beta$ -hairpin in Ero1α, which contains an exposed tryptophan residue,was reported to be critical for the bindingand functional disulfide relay with PDl [106]. Intriguingly,in the solved crystal structures of active and inactive Ero1α no significant conformational difference was found,including the protruding $\\beta \\cdot$ -hairpin [1o5].Additional structural elementsin active Ero1α could be speculated to recognize PDI for efficient disulfide relay. The hydrophobic binding between the Ero1α and the PDI b'xa' fragment provides the structural basis for the preference of Ero1α to oxidize the active site next to the C-terminus of the substrate-binding domain ${ \\bf \\delta b } ^ { \\prime }$ [91].In line with this model, several PDI family proteins with their catalytic domains containing the -CGHCactive sites but lacking the unique $ { \\mathbf { b } } ^ { \\prime }$ domain in PDI can also regulate Ero1α activity [94,104],but are poor substrates of Ero1α [94,107]. Interestingly,most of these PDI family proteins became good substrates of Ero1α once their catalytic domains were fused with the ${ \\bf \\delta b } ^ { \\prime }$ domain of PDI at the C-terminus [94,105]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The interaction mode between yeast Ero1p and Pdi1p is a different story.Although the substrate-binding domain $ { \\mathbf { b } } ^ { \\prime }$ in Pdi1p was found necessary for efficient disulfide relaywith Ero1p (our unpublished data),the stable binding complex with Ero1p was not detected [94].Due to less conformational restriction,the two active sites of Pdi1p can both exchange with the regulatory disulfides [102] as well as the catalytic disulfide [94,95] of Ero1p. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PDI cooperateswith Prx4 and $G P x 7 / 8$ for $H _ { 2 } O _ { 2 }$ elimination and utilization ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In yeast,Ero1p-derived $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ accumulation has been observed to cause oxidative stress [99,1o8].However,in mammalian cells overexpression of a deregulated Ero1α mutant or its hyperactive homologue Ero1 $\\beta$ elicited only modest ER stressand showed little effect on cell viability [10O,109].An in vitro study suggested that $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ can directly oxidize PDI for disulfide formation in substrate[11O];however,the kinetics of the oxidation of PDI seems slow.In fact,in the human ER at least three peroxidases have been found to eliminate peroxide.Prx4 isa typical2-CysPrx (EC1.11.1.15),with its peroxidatic cysteine $\\big ( \\mathsf { C } _ { \\mathrm { P } } \\big )$ highly reactive to $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ oxidation,and the produced cysteine sulfenic acid can be attacked by the resolving cysteine $( \\mathsf { C } _ { \\mathrm { R } } )$ to form a $C _ { \\mathrm { P } ^ { - } } C _ { \\mathrm { R } }$ disulfide bond [111]. The other two peroxidases GPx7 and GPx8[112],members of the glutathione peroxidase superfamily (EC1.11.1.9),also use cysteinesas active sites to react with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ but lack canonical $\\mathsf { C } _ { \\mathrm { { R } } } .$ A noncanonical $C _ { \\mathrm { R } }$ in GPx7 wasinstead characterized to resolve the sulfenylated $C _ { \\mathrm { P } }$ into an intramolecular disulfide bond [113]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the cytosol,after reaction with peroxide,the oxidized 2-Cys Prxs and cysteine-based GPxs are reduced most commonly by Trx and the Trx reductase system [114].Thus,it is not surprising that Prx4 [115]and $G \\mathrm { P X } 7 / 8$ [113] can use $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ to oxidize Trx biochemically.In the ER,the Trx superfamily members are PDI proteins,and multiple PDI family members have been shown to be able to recycle $ { \\operatorname { P r } }  { \\mathbf { { x } } } 4$ [111] and $G \\mathrm { P x } 7 / 8$ [112] indeed.Unlike the aforementioned human Ero1-PDI $ { \\mathbf { a } } ^ { \\prime }$ domain disulfiderelay, these threeperoxidasesrecognize Trx-like domains of various PDI family proteins with less discrimination,irrespective of their locations in the full-length proteins [112,116],possibly due to lackinga robust hydrophobic binding interaction with PDI proteins. $\\mathsf { G P X 7 }$ [113] and GPx8 [117] have been demonstrated to be able to efficiently metabolize Ero1-generated $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ，possibly because spatially they localize close to the PDI-Ero1 complex [112,113]. By contrast, Prx4 was reported to predominantly use Ero1-independent $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ sources [117,118],and shows preference for P5 and ERp46 over PDI both in cells and in vitro [116]. It is noteworthy that the Prx4- mediated oxidative folding pathway can introduce rapid but promiscuous disulfide into substrates,and PDl can proofread the nonnative disulfides by exerting its chaperone and reductase/ isomerase activities[116,119].Thus,in the ERPDI and its family members cooperate with Prx4 and $G \\mathrm { P X } 7 / 8$ to eliminate and concomitantly utilize $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ for oxidative protein folding (Fig. 4). A relative review on the functions of ER peroxidases is given by Christian Appenzeller-Herzog in this special issue. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theroles ofPDl in other oxidative foldingpathways ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Two additional enzyme pathways can couple small redox chemicals for de novo disulfide formation in the human ER.One ismediated by the transmembrane vitamin K epoxidereductase (VKOR)(EC 1.1.4.1),which reduces vitamin K epoxide to hydroquinone with its own -CXXC- motif being oxidized [12O]. Oxidized VKOR could donate a disulfide to PDI proteins,especifically to membrane-anchored TMX and TMX4[121].Although it is not yet clear how VKOR recognize TMX and TMX4 on the membrane and what the specific substrates are,this VKOR/PDI system could be a backup for oxidative protein folding [122].The other enzyme quiescin sulfhydryl oxidase 1(QSOX1)(EC 1.8.3.2),like Ero1,is also a flavoprotein,that couples the formation of disulfide bonds to the reduction of $0 _ { 2 }$ to $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ [123].A unique feature of the QSOX1 molecule is that it contains an N-terminal Trx-like domain forshuffling disulfide and a C-terminal Erv sulfhydryl oxidase domain for de novo disulfide generation[124].Thus,QSOX1 can directly catalyze disulfide formation in protein substrates with superfast turnover averaging about 7oo disulfides per minute [123].Naturally,the QSOX1-catalyzed rapid disulfide formation is error-prone,and PDl is therefore required to isomerize the mispaired disulfides [125].Recently,the physiological function of QSOX1 was revealed to control the extracellular matrix assembly [126],but it is not yet known whether PDl located on the cell surfaces or extracellular space can cooperate with QsOX1 to maintain a faithful extracellular thiol-disulfide equilibrium. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Concluding remarks ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although originally being identified as a catalyst for oxidative protein folding,PDl is now recognized to be a multifunctional protein involved in a variety of redox-related intracellular and extracellular events.Knowledge fora comprehensive understanding of this versatile protein，including its catalytic property, chaperone/substrate binding，structural dynamics,and activity regulation as well as its interactions with clients,has increased greatly during the past half a century.In this review,we highlight two prominent features of PDl for it to display multifunctional roles:one is that PDl has large intrinsic interdomain flexibility to accommodate various substrates/partner proteins through its multiple binding sites with moderate/low binding ability；the other is that the redox-dependent conformational changes in PDI facilitate client binding and release. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Notably,asa central physiological player in the ER lumen,PDI cooperates with upstream oxidases not only for catalyzing disulfide formation,but also for maintaining the redox homeostasis in the ER.Recently, studies have reported the redox regulation of the different unfolded protein response (UPR) sensors mediated by dedicated PDI proteins[127,128]. Therefore, the redox-based PDIEro1 feedback regulation loop could participate in controlling the strength of UPR signaling in the ER,which could make cell life and death decisions [129].Remarkably,the roles of PDI and its family members have been unraveled in diverse physiologyand pathophysiology,such as hemostasis,infectious disease,cancer, neurodegenerative diseases,and infertility (for review,see Refs. [14,15,13O]).More and more studies are focusing on PDI as targets fordisease diagnosis and therapy. On the one hand,development of small-molecule PDI inhibitors is promising for cancer therapy, as cancer cells with a global increase in protein synthesis are more vulnerable to PDI inhibition than normal cells [131].PDI inhibitors can also be useful to block the internalization of pathogens,such as HIV[132]. On the other hand,many neurodegenerative diseases are linked to the abnormal posttranslational modification of PDI with compromised enzyme and/or chaperone activity[13o].Thus, drugs that boost PDl activity and gene therapy approaches for \"gain of function\"may be useful strategies for the intervention of these diseases.Our understanding of PDI biology will no doubt be greatly improved by future advances,e.g.，the development of high-throughput assays for specific PDl activity,the discovery of more efficient and specific PDI inhibitorsand/oractivators,and the acquisition of high-resolution structures of PDl in different clientbound states. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A thrilling new era hasdawned for PDI studies. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thank the support received from Chinese Ministry of Science and Technology（2011CB910303 and 2012CB911002）and National Natural Science Foundation of China (3137O775 and 31370758). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Wu, H. Studies on denaturation of proteins. XIlI. A theory of denaturation. Chinese J. Physiol 5:321-344;1931.   \n[2] Anfinsen, C. B. Principles that govern the folding of protein chains. Science 181:223-230; 1973.   \n[3] Ellis, J. Proteins as molecular chaperones. Nature 328:378-379;1987.   \n[4] Ellis, R. J. Assembly chaperones: a perspective. Philos. T. R. Soc. B 368;2013.   \n[5] Borges, C. R.; Lake, D. F. Oxidative protein folding: nature's knotty challenge. Antioxid. Redox Signal. 21:392-395;2014.   \n[6] Hatahet,F.; Ruddock, L. W.Protein disulfide isomerase: a critical evaluation of its function in disulfide bond formation. Antioxid. Redox Signal.11:2807-285o; 2009.   \n[7] Edman, J. C.; Ellis,L.;Blacher,R.W.; Roth, R. A.;Rutter,W. J. Sequence of protein disulphide isomerase and implications of its relationship to thioredoxin. Nature 317:267-270;1985.   \n[8] Pirneskoski, A.; Klappa, P.; Lobell, M.; Williamson, R. A.; Byrne, L.; Alanen, H. I; Salo,K.E.; Kivirikko,K.I.;Freedman, R.B.; Ruddock,L.W.Molecular characterization of the principal substrate binding site of the ubiquitous folding catalyst protein disulfide isomerase. J. Biol. Chem. 279:10374-10381; 2004.   \n[9]Alanen, H. I.; Salo,K. E.H.; Pekkala,M.; Siekkinen,H. M.;Pirneskoski, A.; Ruddock,L. W. Defining the domain boundaries of the human protein disulfide isomerases. Antioxid. Redox Signal. 5:367-374; 2003.   \n[10]Darby，N.J.; Creighton,T.E.Functional propertiesof the_individual thioredoxin-like domains ofprotein disulfide isomerase. Biochemistry 34:11725-11735; 1995.   \n[11] Klappa, P.; Ruddock, L. W.; Darby, N. J.; Freedman, R. B. The b' domain provides the principal peptide-binding siteof protein disulfide isomerase but alldomains contribute to binding of misfolded proteins. EMBO J. 17:927-935;1998.   \n[12] Hillson, D. A.; Lambert, N.; Freedman, R. B. Formation and isomerization of disulfide bonds in proteins-protein disulfide-isomerase. Methods Enzymol. 107:281-294; 1984.   \n[13] Lyles,M. M.; Gilbert, H. F. Catalysis of the oxidative folding of ribonuclease A by protein disulfide isomerase: dependence of the rate on the composition of the redox buffer. Biochemistry 30:613-619; 1991.   \n[14] Laurindo,F.R.M.; Pescatore,L. A.；Fernandes，D. D. Protein_disulfide isomerase in_redox cell signaling and homeostasis. Free Radic. Biol. Med. 52:1954-1969; 2012.   \n[15] Benham, A. M. The protein disulfide isomerase family: key players in health and disease. Antioxid. Redox Signal. 16:781-789; 2012.   \n[16] Appenzeller-Herzog, C.; Elgaard,L The human PDIfamily: versatility packed into a single fold. Biochim. Biophys. Acta 1783:535-548; 2008.   \n[17] Wilkinson, B.; Gilbert, H. F. Protein disulfide isomerase. Biochim. Biophys. Acta 1699:35-44; 2004.   \n[18]Ellis,R._J. The general concept of molecular chaperones. Philos. T. R. Soc. B 339:257-261; 1993.   \n[19] Freedman, R.B. Protein folding. Folding helpers and unhelpful folders. Curr. Biol. 4:933-935; 1994.   \n[20] Noiva, R.; Kimura,H.; Roos, J.; Lennarz, W. J. Peptide binding by protein disulfide isomerase,a resident protein of the endoplasmic reticulum lumen. J. Biol. Chem. 266:19645-19649; 1991.   \n[21] Noiva, R.; Freedman, R. B.; Lennarz, W. J. Peptide binding to protein disulfide isomerase occursat_a site distinct from the active sites.J.Biol. Chem. 268:19210-19217; 1993.   \n[22] Wang, C. C.; Tsou, C.L Protein disulfide isomerase is both an enzyme and a chaperone. FASEB J 7:1515-1517; 1993.   \n[23]Elis,R. J. Do molecular chaperones have to be proteins? Biochem. Biophys. Res. Commun. 238:687-692; 1997.   \n[24] Cai, H.; Wang,C.C.; Tsou,C. L. Chaperone-like activity of protein disulfide isomerase in the refolding of a protein with no disulfide bonds.J. Biol. Chem. 269:24550-24552; 1994.   \n[25] Song, J. L.; Wang, C. C. Chaperone-like activity of protein disulfide-isomerase in the refolding of rhodanese. Eur. J. Biochem. 231:312-316; 1995.   \n[26] Jakob,U.; Buchner,J. Assisting spontaneity: the role of Hsp90 and smallHsps as molecular chaperones. Trends Biochem. Sci. 19:205-211; 1994.   \n[27] Puig, A.; Gilbert, H. F Protein disulfide isomerase exhibits chaperone_and anti-chaperone activity in the oxidative refolding of lysozyme. J. Biol. Chem. 269:7764-7771; 1994.   \n[28]Lilie,H.；Mclaughlin,S.；Freedman,R.；Buchner, J. Influence_ofprotein disulfide-isomerase(Pdi) onantibodyfoldingin-vitro.J.Biol.Chem. 269:14290-14296; 1994.   \n[29] Yao,Y.; Zhou,Y.C; Wang, C.C.Both the isomerase and chaperone activities of protein disulfide isomerase are required for the reactivation of reduced and denatured acidic phospholipase A2. EMBO J. 16:651-658; 1997.   \n[30] Quan, H.: Fan, G.; Wang, C. C. Independence of the chaperone activity of protein disulfide isomerase fromits thioredoxin-likeactive site.J. Biol. Chem. 270:17078-17080; 1995.   \n[31] Wang, C. C.; Tsou, C.L. Enzymes as chaperones and chaperones as enzymes. FEBS Lett. 425:382-384; 1998.   \n[32] Hayano,T.； Hirose,M.； Kikuchi, M.Protein disulfide isomerase mutant lacking its isomerase activity accelerates protein folding in the cell. FEBS Lett. 377:505-511; 1995.   \n[33]GottesmanS.:Wickner,S.;Maurizi,MRProteinquaitycontrol: tiageb chaperones and proteases. Genes Dev. 11:815-823; 1997.   \n[34] Spiess,C.； Beil, A.； Ehrmann,M. A temperature-dependent switch from chaperone_to_protease in a widely conserved heat shock protein. Cell 97:339-347; 1999.   \n[35] Scholz,C.； Stoler, G.； Zarnt, T.; Fischer, G.； Schmid,F. X. Cooperation of enzymatic_and chaperone functions_of trigger factor in the catalysis of protein folding. EMBO J. 16:54-58;1997.   \n[36] Ramm, K.; Pluckthun, A. The periplasmic Escherichia coli peptidylprolyl cis, trans-isomerase FkpA.I. Isomerase-independent chaperone activity in vitro. J. Biol. Chem. 275:17106-17113; 2000.   \n[37]Koivu,J.; Myllyla,R.; HelaakoskiT.; Pihlajaniemi,T.; Tasanen,K.; Kivirikko, K. I. A single polypeptide acts both as the beta-subunit of prolyl 4-hydroxylase and as a protein disulfide-isomerase.J. Biol. Chem. 262:6447-6449; 1987.   \n[38] Weterau, J. R.: Combs, K. A.; Mclean, L. R.; Spinner, S. N.; Aggerbeck, LP. Protein disulfide isomerase appears necessary to maintain the catalytically active structure of the microsomal triglyceride transfer protein. Biochemistry 30:9728-9735; 1991.   \n[39] Helaakoski, T.； Annunen，P.； Vuori, K.； Macneil, I. A.； Pihlajaniemi, T.; Kivirikko,K. I. Cloning, baculovirus expression,and characterization of a second mouse prolyl 4-hydroxylase alpha-subunit isoform: formation of an alpha 2 beta 2 tetramer with the protein disulfide-isomerase beta-subunit. Proc. Natl. Acad. Sci. USA 92:4427-4431; 1995.   \n[40] Vuori, K.; Pihlajaniemi,T.; Mylyla,R.; Kivirikko,K. I. Site-directed mutagenesis of human protein disulfide isomerase: effect onthe assembly,activity and endoplasmic-reticulum retention_of human_prolyl 4-hydroxylase in Spodoptera-frugiperda insect cells. EMBO J. 11:4213-4217; 1992.   \n[41]LambergA.;JauiinenM; etsoJ;EnhoCSholdes，oJ; Pihlajaniemi, T.; Kivirikko, K.I. The role of protein disulphide isomerase in the microsomal triacylglycerol transfer protein does not reside inits isomerase activity. Biochem. J.315:533-536; 1996.   \n[42] Gillece,P.; Luz,J. M.; Lennarz, W.J.; de la Cruz,F.J.; Romisch, K. Export of a cysteine-free misfolded secretory protein from the endoplasmic reticulum for degradation requires interaction with protein disulfide isomerase. J. Cell Biol. 147:1443-1456; 1999.   \n[43]Molinari,M.; Gali,C.; Piccaluga, V.; Pieren, M.; Paganetti, P. Sequential assistance of molecular chaperones and transient formation_of_covalent complexes during protein degradation from the ER.J. Cell Biol. 158:247-257; 2002.   \n[44]Winter,J.; Klappa,P.; Freedman, R. B.; Lilie,H.; Rudolph, R. Catalytic activity and chaperone function of human protein-disulfide isomerase are required for the efficient refolding of proinsulin.J. Biol. Chem. 277:310-317; 2002.   \n[45] Schultz-Norton, J. R.; McDonald, W. H.; Yates, J. R.; Narduli, A. M.Protein disulfide isomerase serves as a molecular chaperone to maintain estrogen receptor $\\propto$ structure and function. Mol. Endocrinol. 20:1982-1995; 2006.   \n[46] Versteeg, H. H.: Ruf, W. Tissue factor coagulant function is enhanced by protein-disulfide isomerase independent of oxidoreductase activity. J. Biol. Chem. 282:25416-25424; 2007.   \n[47] Tsai, B.；Rodighiero,C.； Lencer, W. I；Rapoport, T.A. Protein disulfide isomerase acts as a redox-dependent chaperone to unfold cholera toxin. Cell 104:937-948; 2001.   \n[48] Tsai, B.；Rapoport,T. A. Unfolded cholera_toxin is transferred to the ER membrane and released from protein disulfide isomerase upon oxidation by Ero1. J. Cell Biol. 159:207-216; 2002.   \n[49] Taylor,M.;Banerje,T.; Ray,S.; Tatulian,S.A.;Teter,K.Protein-disulfide isomerase displaces the choleratoxin A1 subunit fromthe holotoxin without unfolding the A1 subunit.J Biol. Chem. 286:22090-22100; 2011.   \n[50] Lumb, R. A.; Buleid, N. J. Is protein disulfide isomerase a redox-dependent molecular chaperone? EMBO J. 21:6763-6770;2002.   \n[51] Wang, C.; Yu, J.; Huo, L; Wang, L; Feng, W.; Wang, C. C. Human proteindisulfide isomerase is a redox-regulated chaperone activated by oxidation of domain a'. J. Biol. Chem. 287:1139-1149; 2012.   \n[52] Irvine,A. G.; Walis,A. K.; Sanghera,N.; Rowe,M.L.; Ruddock, L. W.; Howard, M. J.; Williamson, R. A.; Blindauer, C. A.; Freedman, R. B. Protein disulfideisomerase interacts witha substrate protein at allstages along its folding pathway. PloS One 9:e82511; 2014.   \n[53]Solovyov,A.； Gilbert,H.F. Zinc-dependent dimerization_of the folding catalyst, protein disulfide isomerase. Protein Sci. 13:1902-1907; 2004.   \n[54] Li,S. J.; Hong, X. G.; Shi, Y. Y.; Li, H.; Wang, C. C. Annular arrangement and collaborative actions of four domains of protein-disulfide isomerase: a small angle X-ray scattering studyin solution.J. Biol. Chem. 281:6581-6588; 2006.   \n[55] Kemmink, J.; Darby, N. J; Dijkstra, K.; Nilges,M.; Creighton, T. E. Structre determination of the N-terminal thioredoxin-like domain_of_protein disulfide isomerase_using multidimensional_heteronuclear C-13/N-15NMR spectroscopy. Biochemistry 35:7684-7691; 1996.   \n[56] Kemmink, J.; Dijkstra, K.; Mariani, M.; Scheek, R. M.; Penka, E.; Nilges,M.; Darby,N.J. The structure in solution of theb domain of protein disulfide isomerase.J. Biomol. NMR 13:357-368; 1999.   \n[57]Dijkstra,K.; Karvonen,P.; Pirneskoski,A.; Koivunen,P.; Kivirikko,K.L; Darby, N. J; van Straaten, M.; Scheek, R. M.; Kemmink, J. Assignment of H-1, C-13 and N-15 resonances of the a 'domain of protein disulfide isomerase. J. Biomol. NMR 14:195-196; 1999.   \n[58] Tian, G.； Xiang,S.； Noiva,R.； Lennarz,W. J； Schindelin,H. The crystal structure_ofyeast_proteindisulfide isomerase suggests cooperativity between its active sites.Cell 124:61-73; 2006.   \n[59] Nguyen, V. D.; Wallis, K.; Howard, M. J.; Haapalainen, A. M.; Salo, K. E. H.; Saaranen, M.J.; Sidhu, A.; Wierenga, R. K.; Freedman,R. B.; Ruddock, L. W.; Williamson, R. A. Alternative conformations of thex region of human protein disulphide-isomerase modulate exposure of the substrate binding b' domain. J. Mol. Biol. 383:1144-1155; 2008.   \n[60] Denisov,A. Y.； Maattanen，P.； Dabrowski, C.； Kozlov,G.； Thomas,D. Y.; Gehring, K. Solution structure of the bb' domains of human protein disulfide isomerase. FEBS J. 276:1440-1449; 2009.   \n[61]Wang,L; Wang, L; Vavassori, S.; Li,S.; Ke,H.; Anelli,T.; DeganoM.; Ronzoni, R.; Sitia, R.; Sun, F.; Wang, C. C. Crystal structure of human ERp44 shows a dynamic functional modulation by its carboxy-terminal tail.EMBO Rep. 9:642-647; 2008.   \n[62] Barak, N. N.: Neumann, P.: Sevvana,M.: Schutkowski, M.; Naumann,K.; Malesevic,M.; Reichardt,H.; Fischer,G.; Stubbs,M.T.; Ferrari,D.M.Crystal structure_and functional analysis of the protein disulfide isomerase-related protein ERp29. J. Mol. Biol.385:1630-1642; 2009.   \n[63]Dong, G.; Wearsch, P.A.; Peaper,D.R.; Cresswel, P.; Reinisch, K. M. Insights into MHC class I peptide loading from the structure of the tapasin-ERp57 thiol oxidoreductase heterodimer. Immunity 30:21-32; 2009.   \n[64] Kober,F. X.; Koelmel, W.; Kuper,J; Drechsler,J:; Mais, C.; Hermanns, H. M.; Schindelin,H.The crystal structure of the protein-disulfide isomerase family member ERp27_provides_insights into its substrate binding capabilities. J. Biol. Chem. 288:2029-2039; 2013.   \n[65] Kojima,R.； Okumura,M.； Masui, S.； Kanemura, S.; Inoue,M.; SaikiM; Yamaguchi，H.； Hikima,T.； Suzuki, M.； Akiyama，S.； Inaba， K.Radically different thioredoxin domain arrangement of ERp46,an efficient disulfide hond introdiicer nf the mammalian PDI familv Strurturp 22:431-443: 2014   \n[66] Kozlov, G.; Maatanen, P.; Thomas, D.Y.; Gehring, K. A structural overview of the PDI family_of proteins. FEBS J. 277:3924-3936; 2010.   \n[67] Wallis, A. K.: Freedman, R. B. Assisting oxidative_protein folding: how do protein_disulphide-isomerases_couple conformational and chemical processes in protein folding? Top. Curr. Chem. 328:1-34; 2013.   \n[68] Wang, C; Li W; Ren,J; Fang,J: Ke,H; Gong,W; Feng, W: Wang, C.C. Structural insights into the redox-regulated dynamic conformations of human protein disulfide isomerase. Antioxid. Redox Signal. 19:36-45; 2013.   \n[69] Wang, C.; Chen, S.H.; Wang, X.; Wang, L; Walis, A. K.; Freedman, R. B.; Wang, C. C. Plasticity of human protein disulfide isomerase: evidence for mobility around the X-linker region and its functional significance. J. Biol. Chem. 285:26788-26797; 2010.   \n[70]Tian,G.； Kober,F. X.； Lewandrowski,U.； Sickmann,A.； Lennarz,W. J.; Schindelin, H. The catalytic activity of protein-disulfide isomerase requires a conformationally flexible molecule.J. Biol. Chem. 283:33630-33640; 2008.   \n[71] Katiyar, S.; Till, E. A.; Lennarz, W. J. Studies on the function of yeast protein disulfide isomerase in renaturation ofproteins. Biochim. Biophys. Acta 1548:47-56; 2001.   \n[72] Serve,O.; Kamiya, Y.; Maeno, A.; Nakano, M.; Murakami, C.; Sasakawa, H.; Yamaguchi, Y.; Harada,T.; Kurimoto,E.; Yagi-Utsumi, M.; Iguchi,T.; Inaba, K.; Kikuchi, J.; Asami, O.； Kajino, T.;Oka, T.；Nakasako,M.; Kato,K. Redoxdependent domain rearrangement of protein disulfide isomerase coupled with_exposure of_its substrate-binding hydrophobic surface. J. Mol. Biol. 396:361-374; 2010.   \n[73] Bardwel, J. C.; Jakob, U. Conditional disorder in chaperone action.Trends Biochem. Sci. 37:517-525; 2012.   \n[74] Saccoccia,E.; Di Micco,P.; Boumis,G.; Brunori, M.; Koutris,L; Miele,A.E.; Morea, V.; Sriratana,P.; Wiiams,D.L;Belell,A.; Angelucci,F Moonlghting by diferent stressrs: crystal structure of the chaperone species of a 2-Cys peroxiredoxin. Structure 20:429-439; 2012.   \n[75] Koivunen, P.; Salo, K. E. H.; Myllyharju,J.; Ruddock, L. W. Three binding sites in protein-disulfide isomerase cooperate_in_collagen_prolyl 4-hydroxylase tetramer assembly. J. Biol. Chem. 280:5227-5235; 2005.   \n[76] Byrne,L. J; Sidhu, A.; Wallis,A. K.; Ruddock,L W.; Freedman, R. B.; Howard, M. J.; Williamson, R. A. Mapping of the ligand-binding site on the b' domain of human PDI: interaction with peptide ligands and the $\\mathrm { \\Delta x }$ -linker region. Biochem. J. 423:209-217; 2009.   \n[77] Yang,S.; Wang, X.; Cui, L.; Ding, X.; Niu, L.; Yang, F.; Wang, C.; Wang,C. C.; Lou, J. Compact conformations of human protein disulfide isomerase. PLoS One 9:e103472; 2014.   \n[78] Okumura, M.; Kadokura, H.; Hashimoto, S.; Yutani, K.; Kanemura, S.; Hikima, T.; Hidaka, Y.; Ito,L; Shiba, K.; Masui, S.; Imai, D.; Imaoka,S.; Yamaguchi, H.; Inaba, K. Inhibition of the functional interplay_between endoplasmic_reticulum (R) oxidoreduclin-1α (Ero1α) and protein-disulfide isomerase (PDI) by the endoCrine disruptor bisphenol A. J. Biol. Chem. 289:27004-27018; 2014.   \n[79] Hawkins, H. C.; Denardi, M.; Freedman, R. B. Redox properties and crosslinking of the dithiol disulfide active-sites of mammalian protein disulfideisomerase. Biochem. J. 275:341-348; 1991.   \n[80]Chambers,JE;Tvender,TJ;Oka,O.B.;Warwood,S.;Knight,D.;Beid,.J. The reduction potential of the active site disulfides of human protein disulfide isomerase limits oxidation of the enzyme by Ero1α.J. Biol. Chem. 285:29200-- 29207; 2010.   \n[81]Araki, K.; Nagata, K. Functional in vitroanalysisof theERO1_protein and protein-disulfide isomerase pathway.J. Biol. Chem. 286:32705-32712; 2011.   \n[82] Frand, A. R.; Kaiser, C. A. The ERO1 gene of yeast is required for oxidation of protein dithiols in the endoplasmic reticulum. Mol. Cell 1:161-170;1998.   \n[83] Pollard, M. G.; Travers, K. J.; Weissman, J. S. Ero1p: a novel and ubiquitous protein with an essential role in oxidative protein folding in the endoplasmic reticulum. Mol. Cell 1:171-182; 1998.   \n[84] Cabibbo, A.; Pagani, M.; Fabbri, M.; Rocchi, M.; Farmery, M. R.; Bulleid, N. J.; Sitia, R. ERO1-L,a human protein that favors disulfide bond formation in the endoplasmic reticulum. J. Biol. Chem. 275:4827-4833; 2000.   \n[85] Pagani,M.；Fabbri,M.; Benedetti, C.； Fassio,A.； Pilati, S.； Bulleid,N. J.; Cabibbo,A.; Sitia, R. Endoplasmic reticulum oxidoreductin 1-Lbeta (ERO1- Lbeta)，a human_gene induced in the course of the unfolded protein response.J. Biol. Chem. 275:23685-23692; 2000.   \n[86] Sevier, C. S.; Kaiser, C. A. Ero1 and redox homeostasis in the endoplasmic reticulum. Biochim. Biophys. Acta 1783:549-556; 2008.   \n[87] Araki， K.； Inaba, K. Structure,mechanism,and evolution of Ero1 family enzymes. Antioxid. Redox Signal. 16:790-799; 2012.   \n[88] Gross, E.; Kastner,D.B.; Kaiser,C.A.;Fass, D. Structure of Ero1p,source of disulfide bonds for oxidative protein folding in the cell. CellI17:601-610; 2004.   \n[89] Sevier, C.S.; Kaiser, C. A. Disulfide transfer between two conserved cysteine pairs impartsselectivity to protein oxidation by Ero1. Mol. Biol. Cell 17:2256-2266; 2006.   \n[90] Gross,E.; Sevier, C.S.； Heldman,N.: Vitu, E.; Bentzur,M.; Kaiser,C. A.; Thorpe, C.; Fass, D. Generating disulfides enzymaticall: reaction products and electron acceptors of the endoplasmic reticulum thiol oxidase Ero1p. Proc. Natl. Acad. Sci. USA 103:299-304; 2006.   \n[91] Wang, L; Li,S. J.; Sidhu, A.; Zhu, L; Liang, Y.; Freedman, R. B.; Wang, C.C. Reconstitution ofhuman_Ero1-Lα/protein-disulfide isomerase oxidative folding pathway in vitro.Position-dependent differences in_role_between thoand a' dom [92] Wang, L.; Zhu, L.; Wang, C. C. The endoplasmic reticulum sulfhydryl oxidase Ero1β drives efficient oxidative protein folding with loose regulation. Biochem. J. 434:113-121;2011. [93] Baker, K. M.; Chakravarthi, S.; Langton, K. P.; Sheppard, A. M.; Lu, H.; Bulleid, N. J. Low reduction potential of Ero1α regulatory disulphides ensures tight control of substrate oxidation. EMBO J. 27:2988-2997; 2008. [94] Zhang, L.; Niu, Y.; Zhu, L.; Fang, J.; Wang, X.; Wang, L.; Wang, C. C. Different interaction modes for protein-disulfide isomerase (PDI) as an efficient regulator and a specific substrate of endoplasmic reticulum oxidoreductin1α (Ero1α). J. Biol. Chem. 289:31188-31199; 2014. [95] Vitu, E.; Kim, S.; Sevier, C. S.; Lutzky, O.; Heldman, N.; Bentzur, M.; Unger,T.; Yona,M.; Kaiser, C.A.; Fass, D. Oxidative activity of yeast Ero1p on protein disulfide isomerase and related oxidoreductases of the endoplasmic reticulum. J. Biol. Chem. 285:18155-18165;2010. [96] Xiao，R.；Wilkinson，B.；Solovyov，A.；Winther，J. R.；Holmgren，A.; Lundstrom-Ljung, J.; Gilbert, H. F. The contributions of protein disulfide isomerase and its homologues to oxidative protein folding in the yeast endoplasmic reticulum. J. Biol. Chem. 279:49780-49786; 2004. [97] Solovyov,A.; Xiao,R. Y.; Gilbert, H. F. Sulfhydryl oxidation, not disulfide isomerization, is the principal function of protein disulfide isomerase in yeast Saccharomyces cerevisiae. J. Biol. Chem. 279:34095-34100; 2004. [98] Appenzeller-Herzog， C.； Ellgaard, In vivo reduction-oxidation state of protein disulfide isomerase: the two active sites independently occur in the reduced and oxidized forms. Antioxid. Redox Signal. 10:55-64; 2008. [99] Sevier,C. S.；Qu，H. J.;Heldman，N.；Gross,E.；Fass,D.；Kaiser,C.A. Modulation of cellular disulfide-bond formation and the ER redox environment by feedback-regulation of Ero1. Cell 129:333-344; 2007.   \n[100] Appenzeller-Herzog, C.; Riemer, J.; Christensen, B.; Sorensen, E. S.; Ellgaard, L. A novel disulphide switch mechanism in Ero1α balances ER oxidation in human cells. EMB0 J. 27:2977-2987; 2008.   \n[101] Appenzeller-Herzog, C.； Riemer, J.； Zito,E.; Chin,K. T.； Ron, D.; Spiess,M.; Ellgaard, L. Disulphide production by Ero1α-PDI relay is rapid and effectively regulated. EMBO J. 29:3318-3329;2010.   \n[102] Kim,S.; Sideris, D.P.; Sevier, C.S.; Kaiser, C. A. Balanced Ero1 activation and inactivation establishes ER redox homeostasis.J. Cell Biol.196:713-725; 2012.   \n[103] Ramming, T.; Appenzeller-Herzog, C. The physiological functions of mammalian endoplasmic oxidoreductin1: on disulfidesand more. Antioxid. Redox Signal. 16:1109-1118; 2012.   \n[104] Shepherd, C.; Oka, O. B.V.; Bulleid, N. J. Inactivation of mammalian Ero1α is catalysed by specific protein disulfide-isomerases. Biochem. J. 461:107-113; 2014.   \n[105] Inaba,K.; Masui, S.； Iida,H.；Vavassori, S.； Sitia,R.； Suzuki, M. Crystal structures of human Ero1α reveal the mechanisms of regulated and targeted oxidation of PDI. EMBO J. 29:3330-3343; 2010.   \n[106]Masui, S.; Vavassori, S.; Fagioli, C.; Sitia,R.; Inaba, K. Molecular bases of cyclic and specific disulfide interchange between human ERO1α protein and protein-disulfide isomerase (PDI). J. Biol. Chem. 286:16261-16271; 2011.   \n[107] Araki, K.; Lemura, S.;Kamiya, Y.; Ron, D.; Kato, K.; Natsume, T.; Nagata, K. Ero1 $\\mathbf { \\alpha } _ { \\cdot \\propto }$ and PDIs constitute a hierarchical electron transfer network of endoplasmic reticulum oxidoreductases. J. Cell Biol. 202:861-874; 2013.   \n[108]Haynes,C. M.； Titus,E. A.； Cooper,A. A. Degradation of misfolded proteins prevents ER-derived oxidative stress and cell death. Mol. Cell15:767-776;2004.   \n[109]Hansen, H. G.; Schmidt, J. D.; Soltoft, C. L; Ramming, T.; Geertz-Hansen, H. M.; Christensen, B.; Sorensen, E. S.; Juncker, A. S.; Appenzeller-Herzog, C.; Ellgaard, L Hyperactivity of the Ero1α oxidase elicits endoplasmic reticulum stress but no broad antioxidant response. J. Biol. Chem. 287:39513-39523; 2012.   \n[110] Karala, A. R.; Lappi, A. K.; Saaranen, M. J.; Ruddock,L. W. Efficient peroxidemediated oxidative refolding of a protein at physiological pHand implications for oxidative folding in the endoplasmic reticulum. Antioxid. Redox Signal. 11:963-970; 2009.   \n[111] Tavender,T.J.； Springate,J. J.； Bulleid, N. J. Recycling of peroxiredoxin IV provides a novel pathway for disulphide formation in the endoplasmic reticulum. EMBO J. 29:4185-4197; 2010.   \n[112] Nguyen, V. D.; Saaranen, M. J.; Karala, A. R.; Lappi, A. K.; Wang, L; Raykhel, I. B.; Alanen,H. I.; Salo,K. E. H.;Wang, C. C.；Ruddock, L. W. Two endoplasmic reticulum PDI peroxidases increase the eficiency_ of the use of peroxide during disulfide bond formation. J. Mol. Biol. 406:503-515; 2011.   \n[113] Wang, L.; Zhang,L.； Niu, Y.; Sitia, R.; Wang, C. C. Glutathione peroxidase 7 utilizes hydrogen peroxide generated by Ero1α to promote oxidative protein folding. Antioxid. Redox Signal. 20:545-556;2014.   \n[114] Brigelius-Flohé,R.; Maiorino,M. Glutathione peroxidases. Biochim. Biophys. Acta 1830:3289-3303;2013.   \n[115] Wang, X.; Wang, L.; Wang, X.; Sun, F.; Wang, C. C. Structural insights into the peroxidase activity and inactivation of human peroxiredoxin 4. Biochem. J. 441:113-118; 2012.   \n[116] Sato, Y.; Kojima, R.; Okumura, M.; Hagiwara, M.; Masui, S.; Maegawa, K.; Saiki,M.；Horibe, T.； Suzuki,M.； Inaba,K. Synergistic cooperation of PDI family members in peroxiredoxin 4-driven oxidative protein folding.Sci. RepUk 3; 2013.   \n[117] Ramming, T.; Hansen, H. G.; Nagata, K.; Ellgaard,L.; Appenzeller-Herzog, C. GPx8 peroxidase prevents leakage of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ from the endoplasmic reticulum. FreeRadic.Biol.Med.70:106-116;2014.   \n[118] Zito,E.; Melo, E. P.; Yang, Y.; Wahlander, A.; Neubert, T. A.; Ron, D. Oxidative protein folding by an endoplasmic reticulum-localized peroxiredoxin. Mol. Cell 40:787-797; 2010.   \n[119] Zhu, L.； Yang,K.；Wang, X.； Wang, X.； Wang, C. C. A novel reaction of peroxiredoxin 4 towards substrates in oxidative protein folding. PLoS One 9: e105529;2014.   \n[120] Wajih,N.; Hutson, S.M.; Wallin, R. Disulfide-dependent protein folding is linked to operation of the vitamin K cycle in the endoplasmic reticulum. A protein disulfide isomerase-VKORC1 redox enzyme complex appears to be responsible for vitamin K-1 2.3-epoxide reduction. J. Biol. Chem. 282:2626-2635;2007.   \n[121] Schulman, S.; Wang, B.; Li, W.; Rapoport, T. A. Vitamin K epoxide reductase prefers ER membrane-anchored thioredoxin-like redox partners. Proc. Natl. Acad. Sci. USA 107:15027-15032；2010.   \n[122]Rutkevich,L. A.; Williams, D.B. Vitamin K epoxide reductase contributes to protein disulfide formation and redox homeostasis within the endoplasmic reticulum. Mol. Biol. Cell 23:2017-2027; 2012.   \n[123]Kodali, V. K.; Thorpe, C. Oxidative protein folding and the quiescin-sulfhydryl oxidase family of flavoproteins. Antioxid. Redox Signal. 13:1217-1230; 2010.   \n[124] Alon, A.; Grossman, I.; Gat, Y.; Kodali, V. K.; DiMaio, F.; Mehlman, T.; Haran, G.;Baker,D.;Thorpe, C.; Fass,D. The dynamic disulphide relay of quiescin sulphydryl oxidase. Nature 488:414-418; 2012.   \n[125]Rancy， P. C.； Thorpe, C. Oxidative protein folding in vitro: a study of the cooperation between quiescin-sulfhydryl oxidase and protein disulfide isomerase. Biochemistry 47:12047-12056; 2008.   \n[126] Ilani, T.; Alon, A.; Grossman, I.; Horowitz, B.; Kartvelishvily, E.; Cohen, S. R.; Fass,D. A secreted disulfide catalyst controls extracellular matrix composition and function. Science 341:74-76; 2013.   \n[127]Higa，A.； Taouji， S.; Lhomond，S.； Jensen，D.； Fernandez-Zapico，M. E.; Simpson,J. C.; Pasquet, J. M.; Schekman, R.; Chevet, E. Endoplasmic reticulum stress-activated transcription factor ATF6α requires the disulfide isomerase PDIA5 to modulate chemoresistance. Mol. Cell. Biol. 34:1839-1849; 2014.   \n[128]Eletto,D.；Eletto,D.；Dersh,D.；Gidalevitz,T.；Argon,Y. Protein disulfide isomerase A6 controls the decay of IRE1α signaling via disulfide-dependent association. Mol. Cell 53:562-576; 2014.   \n[129] Eletto,D.; Chevet, E.; Argon, Y.; Appenzeller-Herzog, C. Redox controls UPR to control redox. J. Cell Sci. 127:3649-3658; 2014.   \n[130] Andreu, C.I.; Woehlbier, U.; Torres,M.; Hetz, C. Protein disulfide isomerases in neurodegeneration: From disease mechanisms to biomedical applications. FEBS Lett. 586:2826-2834; 2012.   \n[131] Xu, S.L.; Sankar,S.; Neamati, N. Protein disulfide isomerase: a promising target for cancer therapy. Drug Discov. Today 19:222-240; 2014.   \n[132] Ryser, H. J. P.; Fluckiger, R. Progress in targeting HIV-1 entry. Drug Discov. Today 10:1085-1094; 2005. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

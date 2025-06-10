@@ -1,0 +1,189 @@
+# 断根与IBA处理对沙冬青根系质量及幼苗生长的影响
+
+王晶晶，闫海冰，王紫瑄，解甜甜，杨秀清（山西农业大学林学院,山西 太谷 030801)
+
+摘要：为解决沙冬青(Ammopiptanthus mongolicus)主根长、毛细根少,育苗生根困难、移栽成活率低的林业技术难题,该研究对不同发育程度沙冬青幼苗进行不同强度断根与不同浓度激素处理(IBA)添加,促根培养后测定并分析不同组合处理对沙冬青幼苗根系形态、根系质量及幼苗生长的影响,以探究沙冬青促根成活关键措施,为沙冬青育苗及造林技术提供基础依据。结果表明：(1）断根可促进沙冬青多主根的发生,以及侧根、根总量、幼苗地上地下部分生物量、根冠比、根系活力和根系阳离子交换量(CEC)的增加。其中,幼苗根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \mathrm { c m }$ (F2)处理显著促进侧根数、根尖数、分支数、苗木质量指数和根系活力的增加,且根系活力达到断根处理的峰值(较对照显著提高 $1 3 7 . 7 0 \%$ )；根系CEC在根长达 $4 . 5 \mathrm { \sim } 6 . 0 ~ \mathrm { c m }$ 时断根长1/2(T3)处理时最佳。(2）断根后激素的促根及幼苗生长作用进一步提高。其中,根长 $1 . 5 { \sim } 2 . 0 \mathrm { c m }$ 时断根尖 $0 . 5 \ \mathrm { c m } + 0 . 0 7 5 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { I B A } / 0 . 1 2 5 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { I B A } ($ 即P3、P4)处理后根系形态指标(除平均根长外）、根系CEC 显著大幅增加;P4处理后幼苗鲜重、根干重、根冠比、苗木质量指数和根系活力最高。P3处理下根中可溶性糖、NSC含量较对照显著增加 $2 6 . 0 4 \%$ 和 $2 9 . 0 7 \%$ ，根可溶性蛋白含量在P4处理下达到峰值 $( 1 3 . 2 7 ~ \mathrm { m g \cdot g ^ { - 1 } } )$ 。适当断根与IBA添加可通过改变根系形态和提高根系活力一定程度上促进沙冬青根系吸收和养分存储，进而提高根系质量和幼苗生长潜力。
+
+关键词：沙冬青；断根；激素处理(IBA)；根系形态；根系活力；幼苗生长
+
+根系是土壤与植物的动态界面。作为植物与外界物质能量交换并稳定植株的重要器官[1-2],根系质量(根系生长状况和活力水平)直接影响植物营养状况及生物量的构成，在植物生长发育和生物量累积过程中起重要作用[3]。对植物根系质量进行表征时，根系构型、根系形态、根系活力以及根系吸收与储存相关生理生态特性是重要的衡量指标，可反映根系在土壤的空间排列形式，是植物对土壤养分利用策略的体现。由于根系中的细根（直径 $< 2$ mm)具有一定的可塑性，同时也是植物响应环境变化最敏感和最活跃的部分，植物可以通过改变根系分支模式来响应生境变化，通过形成发达根系提高其对土壤养分的有效利用，从而维持植物正常生长发育以及抵抗不良环境[4-6]。目前来看,生长素是影响根系发育的重要因素，尤其是来源于初生根顶端的生长素对侧根继续发育和生长必不可少[7-8]。当新的侧根穿过根系表皮层时，分生组织被认为发生了激活，而侧根分生组织具有产生生长素的能力，但尚不清楚原基在哪个阶段从初生根获得独立的生长素供应[9]。
+
+沙冬青（Ammopiptanthusmongolicus）为豆科沙冬青属，是我国荒漠地区十分珍贵的常绿阔叶灌木,也是第三纪的子遗植物[10],具有较高生态、经济及研究价值["]，应用前景广阔，许多独特及优良的利用价值亟待开发，备受国内外研究人员的关注[2-14]沙冬青繁殖方式常以播种育苗为主，自然更新慢，种质资源匮乏。由于沙冬青属于直根系植物，主根长且深根性强，侧根形成很少，根系分支程度极低[15],无性繁殖育苗生根困难,移栽育苗及出土造林极难成活，这已成为目前繁育和发展沙冬青亟待解决的瓶颈问题[16-17]。基于根系结构可塑性[18-19]可通过一定培育措施改善根系结构，促进侧根形成,提高苗木水分、养分的吸收效率[20],以解决沙冬青移栽育苗及出土造林成活率低的技术难题。鉴于此，本研究拟采用不同长度断根措施，并配合添加不同浓度IBA，探讨断根与IBA处理对沙冬青根系质量及幼苗生长的影响，为解决沙冬青育苗及造林技术提供基础理论依据。
+
+# 材料与方法
+
+# 1.1供试材料
+
+供试材料为甘肃民勤当年成熟后采集的蒙古沙冬青种子。
+
+# 1.2 种子萌发
+
+选取颗粒饱满、外形完好、均匀一致的沙冬青种子，经 $0 . 5 \% o$ 高锰酸钾浸泡 $^ { 2 \mathrm { ~ h ~ } }$ ，蒸馏水清洗3\~4次，于 $3 7 ~ \mathrm { ^ { \circ } C }$ 水浴锅中水浴 $2 4 \mathrm { h }$ 待种子裂嘴露白后，整齐置于育苗盘中进行发芽。
+
+# 1.3断根与IBA激素处理
+
+待种子萌发的第3、4、5天，胚根发育长度分别达 $1 . 5 { \sim } 2 . 0 \ \mathrm { c m } \ . 3 . 0 { \sim } 4 . 0 \ \mathrm { c m } \ . 4 . 5 { \sim } 6 . 0 \ \mathrm { c m }$ 时对其进行断根尖 $0 . 5 \ \mathrm { c m }$ 、断根长1/2、留根长 $2 \mathrm { c m }$ 不同组合强度断根处理，以各发育阶段不进行断根处理为对照（分别为F1、S1、T1)。依据预实验结果选择断根后根系发育较好的处理（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ ，断根尖$0 . 5 \mathrm { c m } { \ddot { } }$ 同时做断根 $^ +$ 激素(IBA)组合处理，以不添加任何浓度IBA处理为对照(F2)，以进一步探讨断根与激素处理对沙冬青根系质量及幼苗生长的影响。试验共设置13个处理(表1)，每个处理3个重复，每个重复30粒种子。
+
+# 1.4促根培育
+
+将各处理发育的幼苗进行水培，每隔7d补加营养液（营养液/水 $= 1 / 5 0 0 \dot { }$ )，保持水培液面深度淹没根系与地上部分的临界线。将水培材料放置在$2 5 ~ \mathrm { { ^ { \circ } C } }$ 光照培养箱中 $2 2 0 0 0 \mathrm { L u x }$ 每天光照 $1 6 \mathrm { { h } }$ 进行培养。30d后各处理植株的苗高达 $2 . 5 { \sim } 5 . 6 ~ \mathrm { c m }$ ,真叶数达4\~5片，断根处理幼苗根系有明显多主根及毛细根生长，根尖数大于12且不同处理间有差异表现时进行取样和根系质量分析评价。
+
+# 1.5指标测定
+
+1.5.1根系形态采用EpsonPerfectionV800Photo扫描仪对沙冬青幼苗根系进行扫描，利用WinRHI-
+
+# 表1沙冬青种子不同断根及IBA处理
+
+Tab.1 Different root cutting and IBA hormone treatment ofAmmopiptanthusmongolicusseeds   
+
+<html><body><table><tr><td>处理</td><td>根长/cm</td><td>断根强度</td><td>IBA浓度/(mg·L-1)</td></tr><tr><td>F1</td><td>1.5~2.0</td><td>不断根</td><td>一</td></tr><tr><td>F2</td><td></td><td>断根尖0.5cm</td><td>1</td></tr><tr><td>P1</td><td></td><td>断根尖0.5cm</td><td>0.010</td></tr><tr><td>P2</td><td></td><td></td><td>0.025</td></tr><tr><td>P3</td><td></td><td></td><td>0.075</td></tr><tr><td>P4</td><td></td><td></td><td>0.125</td></tr><tr><td>S1</td><td>3.0~4.0</td><td>不断根</td><td>一</td></tr><tr><td>S2</td><td></td><td>断根尖0.5cm</td><td>1</td></tr><tr><td>S3</td><td></td><td>断根长1/2</td><td>1</td></tr><tr><td>T1</td><td>4.5~6.0</td><td>不断根</td><td>1</td></tr><tr><td>T2</td><td></td><td>断根尖0.5cm</td><td>1</td></tr><tr><td>T3</td><td></td><td>断根长1/2</td><td>1</td></tr><tr><td>T4</td><td></td><td>留根长2cm</td><td>二</td></tr></table></body></html>
+
+ZO2019根系分析系统分析获取根表面积、根长、根总投影面积、根平均直径、根尖数、总根体积、交叉数以及分支数等相关数据。
+
+1.5.2幼苗生长及生理指标测定促根培育后的幼苗用数显游标卡尺测量苗高、地径(水培液面临界线处测量），将地上、地下部分分离，滤纸吸干根部表面水分，电子天平测量地上与根部鲜重，收集鲜样用紫外吸收法测定可溶性蛋白含量和氯化三苯基四氮唑(TTC)法测定根系活性。将剩余部分按根、茎、叶分别装入牛皮纸袋置于 $1 0 5 ~ \mathrm { { ^ circ C } }$ 烘箱杀青$1 5 ~ \mathrm { m i n }$ 后， $7 5 ~ \mathrm { { ^ { \circ } C } }$ 烘至恒重以测定各部分干重(0.001g)。烘干后的根、茎、叶干样研磨后，过100目筛子，硫酸蒽酮法测定可溶性糖和淀粉含量，淋洗法测定根系阳离子交换量(CEC）。指标分析时，非结构性碳水化合物(NSC)为可溶性糖和淀粉总和，苗木质量指数 $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 苗木总干重(g)/苗高( $\mathrm { ( c m ) }$ /地径 $\left( \operatorname* { m m } \right) +$ 茎生物量(g)/根生物量(g)]。
+
+# 1.6数据处理
+
+数据分析采用SPSS22.0统计软件进行，采用单因素方差分析(One-WayANOVA)各性状指标，Duncan法检验数据显著性，Pearson法进行沙冬青幼苗根系形态及生理指标间相关性分析。
+
+# 2结果与分析
+
+2.1断根与IBA处理对沙冬青幼苗根系形态的影响2.1.1根系构型分析由图1可知，断根明显改变了幼苗主、侧根的生长及根系整体构型。无断根处理(F1、S1、T1)的幼苗根系长，呈单一主根，毛细根少。断根处理(F2、S2\~S3、T2\~T4)后根系具有多主根分支根系统，有侧根分布在主根上。断根 $+ \mathrm { I B A }$ 处理(P1\~P4)后主根分支及侧根数量较对照F2明显增加，根系变得粗壮，但根长变短。F1、S1、T1处理的根系构型呈鲱骨状;F2、S2\~S3、T2\~T4、P1\~P3处理的根系构型呈分支鲱骨状，其中P3根系构型呈很规则的分支鲱骨状；P4为簇状。P3侧根量最多，P4主根量最多。
+
+![](images/8a3051288932a179a8e40f756429e00b1604d38c6a97ab8535f0aba83aedab5f.jpg)  
+图1不同断根与IBA处理的沙冬青幼苗根系形态  
+Fig.1Root morphologyofAmmopiptanthus mongolicus seedlings under different root cutting and IBAhormone treatments
+
+2.1.2根系形态指标分析由表2表明，胚根发育不同时期(3个不同根长度下)断根处理均引起侧根数、根尖数及分支数的增加，且各发育时期不同强度断根对其影响有差异。其中F2（根长达1.5\~2.0cm时断根尖 $0 . 5 \mathrm { c m }$ )处理下，幼苗侧根数、根尖数及分支数显著增加。同时，断根后继续培育的幼苗根长在各发育阶段较对照均有所下降。不同强度断根后根平均直径、根表面积、总根投影面积和总根体积无明显变化规律。断根(F2处理) $+ \mathrm { I B A }$ 处理后，根系较对照的侧根数、根尖数、分支数、根平均直径、根表面积、总根投影面积和总根体积均呈增加趋势，但根长呈下降趋势。比较IBA梯度处理可得，P3（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } { + 0 . 0 7 5 }$ $\mathrm { m g \cdot L ^ { - 1 } I B A }$ )处理根系各形态指标均显著高于其他浓度处理。此外，P4（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖
+
+表2不同断根与IBA处理的沙冬青幼苗根系形态指标  
+Tab.2Root morphological indexes of Ammopiptanthus mongolicus seedlings under different root cutting and IBA hormone treatments   
+
+<html><body><table><tr><td>处理</td><td>平均根长/cm</td><td>总根投影面积/cm²</td><td>根表面积/cm²</td><td>根平均直径/mm</td><td>总根体积/cm</td><td>侧根数</td><td>根尖数</td><td>分支数</td></tr><tr><td>F1</td><td>15.26±7.96c</td><td>1.14±0.30ab</td><td>3.57±0.93a</td><td>0.58±0.09ab</td><td>0.04±0.01a</td><td>8.10±1.90a</td><td>12±2a</td><td>8±1a</td></tr><tr><td>F2</td><td>11.99±1.87bc</td><td>1.18±0.04ab</td><td>3.72±1.70a</td><td>0.46±0.05a</td><td>0.05±0.01a</td><td>14.00±2.36b</td><td>21±3b</td><td>15±2b</td></tr><tr><td>S1</td><td>16.12±2.28c</td><td>1.38±0.10a</td><td>4.35±1.89a</td><td>0.60±0.10ab</td><td>0.06±0.03a</td><td>10.60±2.15a</td><td>15±2a</td><td>12±2a</td></tr><tr><td>S2</td><td>8.14±5.66a</td><td>1.46±0.05a</td><td>4.59±1.40a</td><td>0.53±0.14a</td><td>0.07±0.03a</td><td>11.33±1.54a</td><td>15±1a</td><td>13±lab</td></tr><tr><td>S3</td><td>7.45±7.19a</td><td>1.57±0.04ab</td><td>4.94±1.69ab</td><td>0.50±0.06a</td><td>0.06±0.02a</td><td>12.18±1.29ab</td><td>20±3ab</td><td>13±3ab</td></tr><tr><td>T1</td><td>17.60±6.61c</td><td>1.66±0.16bc</td><td>5.16±1.07bc</td><td>0.65±0.20b</td><td>0.08±0.01bc</td><td>10.91±1.28a</td><td>17±2ab</td><td>9±1a</td></tr><tr><td>T2</td><td>9.51±9.29ab</td><td>1.54±0.13bc</td><td>4.91±1.99b</td><td>0.64±0.13b</td><td>0.07±0.01bc</td><td>14.70±0.73b</td><td>17±1ab</td><td>14±1ab</td></tr><tr><td>T3</td><td>15.87±3.78c</td><td>0.84±0.14ab</td><td>2.64±0.08a</td><td>0.46±0.08a</td><td>0.03±0.01a</td><td>13.78±1.87ab</td><td>23±1b</td><td>12±la</td></tr><tr><td>T4</td><td>5.27±4.99a</td><td>0.79±0.07a</td><td>2.47±0.83a</td><td>0.59±0.10b</td><td>0.04±0.01ab</td><td>15.10±2.04b</td><td>20±2ab</td><td>14±2b</td></tr><tr><td>P1</td><td>5.65±5.42a</td><td>1.61±0.04ab</td><td>5.06±0.64ab</td><td>0.65±0.06bc</td><td>0.09±0.05ab</td><td>15.50±1.88b</td><td>26±4b</td><td>20±3bc</td></tr><tr><td>P2</td><td>5.73±8.22a</td><td>2.29±0.52b</td><td>7.20±1.63bc</td><td>0.57±0.02ab</td><td>0.10±0.0ab</td><td>19.50±1.81b</td><td>41±3bc</td><td>25±5c</td></tr><tr><td>P3</td><td>11.95±20.79bc</td><td>4.77±0.41c</td><td>14.99±3.42d</td><td>0.66±0.05bc</td><td>0.25±0.08c</td><td>94.25±7.65d</td><td>98±9d</td><td>107±26e</td></tr><tr><td>P4</td><td>4.15±21.87a</td><td>3.54±0.53bc</td><td>11.13±4.81c</td><td>0.71±0.11c</td><td>0.18±0.09bc</td><td>60.75±4.19c</td><td>67±6c</td><td>91±19d</td></tr></table></body></html>
+
+注：同列相同字母表示差异不显著( $\mathrm { \Delta } P > 0 . 0 5$ )，不同字母表示差异显著( $\cdot P < 0 . 0 5$ )。下同。
+
+$0 . 5 \ \mathrm { c m } { + 0 . 1 2 5 } \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { I B A } )$ 处理较对照F2的根平均直径显著增加！ $( 5 4 . 3 5 \% )$ ），根长显著降低 $( 6 5 . 3 9 \% )$ ），侧根数、根尖数、分支数及根表面积均显著提高。
+
+断根处理较不断根对照均引起多主根发生，以及侧根和根总量的增加，以F2处理最好。断根后激素的促根生长作用更为明显，以P3、P4处理效果显著。
+
+# 2.2断根与IBA处理对沙冬青幼苗生长的影响
+
+由表3可以得出，3个时期的断根处理较对照(F1\~F2;S1\~S2、S3;T1\~T2、T3、T4)均引起地径、地上部分鲜重、根鲜重、根冠比、根干重的增加，但上述指标除F2处理下根干重显著增加(较对照增加$1 3 3 \%$ $\scriptstyle P < 0 . 0 5 .$ )外，其余处理较对照增加并不显著，各发育时期的不同强度断根处理间也未呈显著差异。除S2、T2外，其余处理下的幼苗苗高生长呈增加趋势。地上部分干重随处理无明显变化规律。断根后F2处理不仅引起幼苗生长，且苗木质量指数达到断根处理的峰值。断根(F2处理) $+ \mathrm { I B A }$ 处理后，幼苗生长除苗高外，地径、地上部分鲜重、根鲜重、根冠比、根干重、地上部分干重以及苗木质量指数较对照(F2处理)进一步增加。对比IBA梯度处理可得，P4（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } +$ $0 . 1 2 5 ~ \mathrm { { m g } \cdot \mathrm { { L } ^ { - 1 } \mathrm { { I B A } } } }$ )处理最为理想，该处理下苗木质量指数最高。
+
+断根处理在一定程度上促进幼苗生长，F2处理可显著提高根干重和苗木质量指数。断根后激素的促生长作用进一步增加，其中P4处理对提升苗木质量最为有效。
+
+# 2.3断根与IBA处理对沙冬青幼苗根系活力的 影响
+
+由图2可知，胚根发育不同时期(即3个不同根长度下)断根处理较对照(F1\~F2;S1\~S2、S3;T1\~T2、T3、T4)均引起根系活力增加。比较各阶段不同强度断根处理，根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \ \mathrm { c m }$ 处理(F2)较对照(F1)根系活力显著提高 $1 3 7 . 7 0 \% ( P <$ 0.05），且高于其他胚根发育阶段的各强度断根处理。根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \ \mathrm { c m }$ 同时添加IBA处理后，根系活力较F2进一步增加，不同IBA处理浓度以断根尖 $0 . 5 \ \mathrm { c m + 0 . 1 2 5 \ m g \cdot L ^ { - 1 } \ I B A }$ 处理(P4)效果最好，且该处理下根系活力显著高于F2、P1、P2。
+
+![](images/bc560519d9a689b02bd5e94a76c62022a07c40d8ca9df78a14ba787ceb1defe1.jpg)  
+图2不同断根与IBA处理的沙冬青幼苗根系活力 Fig.2 Root activity of Ammopiptanthus mongolicus seedlingsunder different root cuttingand IBA hormone treatments
+
+表3沙冬青幼苗生长指标分析  
+Tab.3 Analysis of growth index of Ammopiptanthus mongolicus seedlings   
+
+<html><body><table><tr><td>处理</td><td>苗高/cm</td><td>地径/mm</td><td>地上分</td><td>根鲜重/g</td><td>根冠比</td><td>根干重/g</td><td>叶干重/g</td><td>地上部分</td><td>量数</td></tr><tr><td>F1</td><td></td><td></td><td>5.496±0.811ab1.5120084ab0.276027a0035±002b0.109±0028a0.0030.001a0035±0002ab0044±000ab0a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>F2</td><td></td><td></td><td>5.7740.46ab1.588105ab0.279±001a0.105±0014bc0.376004a0007±0.00b0.038±0.003ab0.041±0.002ab0b</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>S1</td><td></td><td></td><td>5.982±0.262ab1.103±0.127a0.256±0015a0.040±0014ab0.156±0.043a0.002±0.009a0.0±0.002b0.047±0.006b0.0070.003a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>S2</td><td>4.210±0.221a</td><td></td><td>1.108±0.090a0.277±0.016a0.045±0.006b0.162±0.022a0.004±0.001a0.038±0.002ab0.045±0.003b0.009±0.001a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>S3</td><td>6.083±0.333b</td><td></td><td>1.563±0.050ab0.278±0.014a0.064±0.007b0.230±0.026a 0.004±0.001a0.037±0.005ab0.042±0.008ab0.09±0.001a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T1</td><td>5.487±0.135e</td><td></td><td>1.183±0.086a0.237±0.016a 0.045±0.006b0.190±0.016a 0.003±0.001a0,038±0.002ab0.045±0.002b0.007±0.001a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T2</td><td>4.297±0.292a</td><td></td><td>1.500±0.075ab0.271±0.022a0.064±0.004ab0.236±0.015a0.006±0.002ab0.026±0.002a0.040±0.002ab0.9±0.001a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T3</td><td></td><td></td><td>5.969±0.285cd1.529±0.084ab0.272±0024a0.059±0.005ab0.217±0.017a0.004±0.002a0026±0002a0.030±03a0.a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T4</td><td>6.460±0.299b</td><td></td><td>1.542±0.061ab0.276±0.022a0.064±0.004a0.232±0.029a0.005±0.002a0.033±0.002ab0.035±0.004ab0.9±0.001a</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P1</td><td>2.591±0.171a</td><td></td><td>1.733±0.244bc0.283±0.027a0.123±0.038c0.435±0.063a 0.008±0.003b0.017±0.002a0.025±0.003a0.013±0.002b</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P2</td><td>2.910±0.271a</td><td></td><td>1.594±0.015ab 0.280±0.016a 0.129±0.011c0.460±0.106a 0.008±0.002b 0.023±0.004a0.028±0.002a0.015±0.001bc</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P3</td><td>4.254±0.363a</td><td></td><td>1.615±0.058b0.323±0.021b 0.268±0.044d0.830±0.145b0.010±0.003bc0.030±0.002a0.031±0.001a0.015±0.001bc</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P4</td><td>4.080±0.435a</td><td></td><td>1.785±0.061bc 0.351±0.040b 0.363±0.060d 1.034±0.102b 0.018±0.001c</td><td></td><td></td><td></td><td></td><td>0.018±0.004a 0.027±0.001a 0.016±0.001c</td><td></td></tr></table></body></html>
+
+断根处理较不断根对照幼苗根系活力增加，以F2处理最好。断根后激素的促根系活力作用更为显著，以P4处理最好。
+
+# 2.4断根与IBA处理对沙冬青幼苗根系养分吸收 和储存的影响
+
+2.4.1不同断根与IBA处理沙冬青幼苗根系阳离子交换量根系CEC反映根系吸收利用矿质元素有效营养成分的能力。由图3可知，胚根发育不同时期(3个不同根长度下)断根处理后继续培养的幼苗根系CEC较对照 $( \mathrm { F 1 } { \sim } \mathrm { F 2 } ; \mathrm { S 1 } { \sim } \mathrm { S 2 } , \mathrm { S 3 } ; \mathrm { T 1 } { \sim } \mathrm { T 2 } , \mathrm { T 3 } , \mathrm { T 4 } )$ 均有所增加。其中，根长达 $4 . 5 { \sim } 6 . 0 ~ \mathrm { c m }$ （T时期)时断根长1/2(T3)强度处理后根系CEC达最大，较对照(T1)显著增加 $3 8 6 . 4 7 \% ( P < 0 . 0 5 )$ 。断根 $+ \mathrm { I B A }$ 处理后根系CEC表现为P3（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖$0 . 5 \mathrm { c m } + 0 . 0 7 5 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \mathrm { I B A } )$ 处理最高，P4（根长达 $1 . 5 \sim$ $2 . 0 \ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } { + 0 . 1 2 5 } ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } ~ \mathrm { I B } /$ 1)处理次之，且均显著高于F2对照。
+
+2.4.2不同断根与IBA处理沙冬青幼苗根系养分含量由图4可知，胚根发育不同时期(3个不同根长度下)断根处理后继续培养的幼苗根中可溶性蛋白含量均有所增加，其中，根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 和 $3 . 0 \sim$ $4 . 0 \ \mathrm { c m }$ 时断根尖 $0 . 5 \ \mathrm { c m } ( \mathrm { F } 2 \cdot \mathrm { S } 2 )$ 均可促进根中可溶性蛋白含量的显著增加（较对照F1、S1分别增加$6 2 . 3 9 \%$ 和 $9 5 . 2 9 \%$ ， $\textstyle P < 0 . 0 5 .$ )。断根基础上添加IBA浓度达 $0 . 1 2 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ (P4处理)时，根可溶性蛋白含量高于对照，且达到所有处理下根可溶性蛋白含量峰值( $1 3 . 2 7 \mathrm { m g \cdot g ^ { - 1 } }$ ）
+
+![](images/f4d751cf7d06b5966ae673d4d8042abee4cb802f7f6b2847041f8361f5456fd5.jpg)  
+图3不同断根及IBA处理沙冬青幼苗根系CEC Fig.3 Cation exchange capacity of Ammopiptanthus mongolicus seedlings under different root cutting and IBA treatments
+
+根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 和 $3 . 0 { \sim } 4 . 0 ~ \mathrm { c m }$ 两个时期的断根处理后，根中可溶性糖、NSC含量减少，但可溶性糖：淀粉有所增加，其中S2、S3较对照(S1)可溶性糖：淀粉分别显著增加 $2 7 . 2 6 \% . 2 6 . 4 8 \% ( P < 0 . 0 5 )$ ○根长达 $4 . 5 { \sim } 6 . 0 ~ \mathrm { c m }$ 时断根后根中可溶性糖、NSC含量未呈一致变化规律，可溶性糖：淀粉较对照有所下降。断根 $+ \mathrm { I B A }$ 处理后，根中可溶性糖、NSC含量表现出P3处理较对照显著增加（分别达 $2 6 . 0 4 \%$ 、$2 9 . 0 7 \% , P < 0 . 0 5 )$ ○
+
+![](images/a80372e3c9261ecae4e0e7d24d6572fe4da3d382cbbbc38e9f959ed3971326d0.jpg)  
+图4不同断根及IBA处理沙冬青幼苗根系养分  
+Fig. 4Root nutrient of Ammopiptanthus mongolicus seedlings under different root cutting and IBA treatments
+
+# 2.5断根与IBA处理沙冬青幼苗根系形态与生理指标间相关性
+
+对断根与IBA处理沙冬青幼苗根系形态指标与生理指标进行相关性分析表明，根系CEC与总根投影面积、根表面积、总根体积以及根系活力呈显著正相关( $\left( P < 0 . 0 5 \right)$ ，与侧根数、根尖数、分支数呈极显著正相关( $\stackrel { \triangledown } { \cdot } { \cal P } { < } 0 . 0 1 .$ )；根NSC与根系可溶性糖、根系可溶性糖：淀粉呈极显著正相关( $P <$ 0.01);根可溶性蛋白与根系其他指标无显著相关性。总根投影面积与根表面积、总根体积、侧根数、根尖数、分支数、根系活力均呈极显著正相关( $P <$ 0.01)，说明断根能够引起根系形态参数的增加，在一定程度上促进了根系活力及其对养分的吸收能力(表4)。
+
+表4沙冬青幼苗根系形态指标与生理指标间的相关性分析 Tab.4 Correlation analysis between root morphological indexes and physiological indexes of Ammopiptanthus mongolicus seedlings   
+
+<html><body><table><tr><td>指标</td><td>RP</td><td>RS</td><td>RV</td><td>LRN</td><td>Tips</td><td>Forks</td><td>RA</td><td>CEC</td><td>R SS:S</td><td>R NSC</td><td>RSP</td><td>RSS</td></tr><tr><td>RP</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RS</td><td>1.000**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RV</td><td>0.992**</td><td>0.992**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LRN</td><td>0.949**</td><td>0.949**</td><td>0.957**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tips</td><td>0.956**</td><td>0.956**</td><td>0.956**</td><td>0.981**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Forks</td><td>0.951**</td><td>0.951**</td><td>0.957**</td><td>0.983**</td><td>0.972**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RA</td><td>0.728**</td><td>0.729**</td><td>0.743**</td><td>0.722**</td><td>0.799**</td><td>0.772**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CEC</td><td>0.593*</td><td>0.593*</td><td>0.581*</td><td>0.712**</td><td>0.720**</td><td>0.719**</td><td>0.572*</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>R SS:S</td><td>0.209</td><td>0.204</td><td>0.263</td><td>0.277</td><td>0.308</td><td>0.266</td><td>0.290</td><td>0.460</td><td>1</td><td></td><td></td><td></td></tr><tr><td>R NSC</td><td>0.249</td><td>0.245</td><td>0.325</td><td>0.382</td><td>0.396</td><td>0.327</td><td>0.285</td><td>0.364</td><td>0.848**</td><td>1</td><td></td><td></td></tr><tr><td>RSP</td><td>0.328</td><td>0.330</td><td>0.320</td><td>0.385</td><td>0.325</td><td>0.464</td><td>0.344</td><td>0.444</td><td>-0.330</td><td>-0.350</td><td>1</td><td></td></tr><tr><td>RSS</td><td>0.212</td><td>0.210</td><td>0.289</td><td>0.370</td><td>0.365</td><td>0.285</td><td>0.196</td><td>0.169</td><td>0.470</td><td>0.864**</td><td>-0.290</td><td>1</td></tr></table></body></html>
+
+注：\*\*表示极显著相关( $\stackrel { \cdot } { P } < 0 . 0 1 \stackrel { \cdot } { _ { \cdot } }$ )，\*表示显著相关（ $\cdot P < 0 . 0 5$ )。RP表示总根投影面积，RS表示根表面积，RV表示总根体积，LRN表示侧根数，Tips表示根尖数,Forks表示分支数,RA表示根系活力,CEC表示根系阳离子交换量,RS:S表示根糖淀比,RNSC表示根非结构性碳,RSP表示根可溶性蛋白，RSS表示根可溶性糖。
+
+# 3讨论
+
+# 3.1断根与IBA处理对沙冬青幼苗根系形态的 影响
+
+断根使植物主根顶端优势和向下生长的机能受到破坏，根分生能力增强，促进侧根及须根的生长发育[2],进而改变植物根系构型及根系形态。本试验中，断根引起沙冬青幼苗根系由毛细根少的单一主根向多主根分支根构型转变，同时导致侧根数、根尖数和分支数增加。在断根试验的同时进行激素添加，结果进一步引起了侧根数、根尖数及分支数的增加。由于断根导致根分生组织被激活，而根分生组织具有产生生长素的能力，根分生组织最先感受断根与IBA的刺激信号产生根生长点，根生长点在人为添加生长激素IBA供应下快速形成初生根，进而产生新根。新根穿过根系表皮层，主动优化调整根系构型[22],增加侧根数和根尖数,并增大根系表面积[23-24]
+
+# 3.2断根与IBA处理对沙冬青幼苗生长的影响
+
+断根与IBA处理引起沙冬青根系构型及根系形态的改变，直接影响沙冬青根的生长及幼苗发育[25]。试验中，在断根条件下，随着添加IBA浓度的增加，沙冬青幼苗根系构型由简单变得复杂，0.075\~$0 . 1 2 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA浓度(P3、P4)处理下侧根数、分支数及根总量等根系形态指标显著增加，对应该处理下，苗木根鲜重、根冠比、根干重、根生物量显著增加，苗木质量指数显著提高。这表明断根并添加激素处理在一定程度上促进了根系代谢，并有助于苗木生长。断根与IBA处理后引起的根尖数和根系表面积增加，使根系与生存环境接触面积增大，导致根吸收点和吸收面积不断增加[23-24],从而增大了根系吸收水分和养分空间的利用率，提高了根系生理活性[2],在促进根系生长的基础上有效促进沙冬青幼苗生长。
+
+然而，本试验中断根与激素处理下，沙冬青幼苗苗高、地径、地上部分生长量并无显著增加。这与试验期幼苗发育状况有关，本次试验生长量测定是在实生苗水培3\~5d后断根继续培养30d进行，尽管断根引起根系构型及根系形态发生明显变化，但此时苗木仍处于根系构建及发育阶段，由此导致根系对环境养分的吸收与消耗出现收支不平衡，根系积累的养分需优先用于根系的自我健全，因此这个阶段幼苗地下部分生长快而地上部分生长慢，并未达到苗木地上部分快速生长阶段，因而对于各处理所表现出的差异并不显著。
+
+# 3.3断根与IBA处理对沙冬青根系活力的影响
+
+本试验中，断根处理较不断根对照幼苗根系活力增加，断根后激素的促根系活力作用更为显著。其中，根长 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \ \mathrm { c m }$ 同时添加$0 . 1 2 5 ~ \mathrm { m g \cdot L ^ { - 1 } I B A ( P 4 ) }$ 处理根系活力最大并显著高于其他处理。有研究表明，根系活力受根长密度影响较大[27],与根系新陈代谢密切相关[28]。P4处理下沙冬青幼苗根系呈明显粗而密的生长势，使其生长空间有更大比例的养分资源向根部供应，根系新陈代谢活动进一步增强，根系活力得到更大提升。
+
+# 3.4断根与IBA处理对沙冬青根系养分吸收和储 存的影响
+
+植物生长发育过程中，根系CEC是反映根系养分吸收能力的重要指标，而养分吸收能力最直接的表现是生物量累积，并通过其分配模式来调节适应环境[29]。本研究中，断根并添加激素试验发现，P4（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } { + 0 . 1 2 5 } ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA)处理下根生物量分配较对照显著增加，而地上部分生物量分配相对减少，苗木质量指数显著提高。同时，分析发现P4处理下根系CEC显著高于对照。这表明，适当断根与IBA添加可在一定程度上提高沙冬青根系养分吸收能力以促进幼苗生物量累积，并通过对幼苗各组织器官生物量分配格局进行改变,进而提高苗木根系质量和幼苗生长潜力[30-31]。
+
+断根与IBA处理后根系可溶性蛋白含量、可溶性糖含量、NSC含量随着断根强度、激素浓度梯度的增加无明显变化规律，与根系形态、根系活力指标相关性不显著。断根打破了沙冬青原有发育过程的动态平衡，断根后，一方面，苗木体内营养物质会优先分配于根系用以完成根系重建；另一方面，原根系吸收容积被破坏，植株对养分的利用受到抑制。因此，断根后根系重建对营养物质的需求和自我恢复过程中植株的养分利用水平会由于断根时期及断根强度不同而产生差异[32],由此导致根系发育过程中养分收支平衡出现差异和养分存储能力的不同。也有研究表明[33],断根后植物根系存在生长补偿效应，本试验中，各断根处理后根可溶性蛋白含量均高于对照，可解释为断根后沙冬青根系的生长补偿效应能不同程度地促进幼苗根系对蛋白质的储存。但不同断根处理间幼苗根系的养分储存未呈规律性变化。关于断根与IBA处理沙冬青幼苗根系养分存储、养分在苗木体内各器官间分配以及相关代谢过程的差异性还有待深入研究，以更好地探讨沙冬青根系及幼苗生长的生理机制和育苗生根及移栽成活的关键技术。
+
+# 4结论
+
+（1）断根处理较不断根对照均引起沙冬青多主根的发生，以及侧根、根总量、幼苗地上地下部分生物量和根冠比的增加，其中，根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \mathrm { c m }$ 处理显著促进侧根数、根尖数、分支数的增加及苗木质量指数的提高。断根后激素的促根生长和促进幼苗生长作用更为明显，其中，根长 $1 . 5 \sim$ $2 . 0 \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } { + } 0 . 0 7 5 ~ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ IBA/0.125 mg\*$\mathrm { L } ^ { - 1 }$ IBA处理后侧根数、根尖数、分支数、根平均直径、根表面积、总根投影面积、总根体积增加最为显著;根长 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } { + 0 . 1 2 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } }$ IBA处理后幼苗鲜重、根干重、根冠比、苗木质量指数达最高。
+
+(2）断根可引起幼苗根系活力和根系CEC增加，其中，F2（根长达 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \mathrm { c m }$ 处理较对照根系活力显著提高 $1 3 7 . 7 0 \% ( P { < } 0 . 0 5 )$ ，并高于其他根发育阶段的各强度断根处理；根系CEC以T3断根处理（根长达 $4 . 5 { \sim } 6 . 0 ~ \mathrm { c m }$ 时断根长 $1 / 2$ 最佳。断根 $+ \mathrm { I B A }$ 处理后根系活力进一步提高，以根长$1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 \ \mathrm { c m }$ 同时添加 $0 . 1 2 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA处理效果最好。根系CEC在添加 $0 . 0 7 5 ~ \mathrm { { m g } \cdot \mathrm { { L } } ^ { - 1 } }$ IBA和 $0 . 1 2 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA处理后显著高于对照。相关性分析表明，适当断根与IBA添加均能引起根系构型复杂化和各形态参数的增加，从而增加根系活力并提高根系的吸收功能。
+
+(3）根长 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } + 0 . 0 7 5$ $\mathbf { m g \cdot L } ^ { - 1 }$ IBA处理下根中可溶性糖、NSC含量较对照显著增加（分别达 $2 6 . 0 4 \% . 2 9 . 0 7 \%$ )，根可溶性蛋白在根长 $1 . 5 { \sim } 2 . 0 ~ \mathrm { c m }$ 时断根尖 $0 . 5 ~ \mathrm { c m } { + 0 . 1 2 5 } ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA处理下达峰值( $( 1 3 . 2 7 \mathrm { m g \cdot g ^ { - 1 } } )$ 。相关分析表明,断根与IBA添加可通过改变根系形态和提高根系活力在一定程度上促进沙冬青根系的养分存储，进而提高根系质量和幼苗生长潜力。
+
+# 参考文献(References):
+
+[1]郑旭,李斌,张万银,等.垄上栽培对盐碱地食叶草根系生长和 产量的影响[J].干旱区研究,2020,37(2):470-478.[Zheng Xu, Li Bin, Zhang Wanyin,et al. Effects of cultivation patterns on the root growth and foliage yield of Rumex hanus by.[J].Arid Zone Research,2020,37(2): 470-478.]   
+[2]马雄忠,王新平.阿拉善高原2种荒漠植物根系构型及生态适 应性特征[J].生态学报,2020,40(17):6001-6008.[Ma Xiongzhong,Wang Xinping.Root architecture and adaptive strategy of two desert plants in the Alxa Plateau[J].Acta Ecologica Sinica, 2020,40(17):6001-6008.]   
+[3]曹秀,夏仁学,张德健,等.水培条件下营养元素对枳幼苗根毛 发育及根生长的影响[J].应用生态学报,2013,24(6):1525- 1530.[Cao Xiu,Xia Renxue,Zhang Dejian,et al.Effects of nutrients on the seedlings root hair development and root growth of Poncirus trifoliata under hydroponics condition[J]. Chinese Journal of Applied Ecology,2013,24(6): 1525-1530.]   
+[4]张立恒,李清雪,王学全,等.高寒沙区中间锦鸡儿人工林细根 动态及其周转[J].干旱区研究,2020,37(1):212-219.[Zhang Liheng,Li Qingxue,Wang Xuequan,et al.Biomass dynamics and turnover of fine roots of Caragana intermedia plantations in alpine sandy land[J].Arid Zone Research,2020,37(1): 212-219.]   
+[5]苏樑,宋同清,杜虎,等.喀斯特峰丛洼地不同植被恢复阶段细 根生物量、形态特征及其影响因素[J].应用生态学报,2018,29 (3):783-789.[Su Liang,Song Tongqing,Du Hu,et al.Biomass and morphological characteristics of fine roots and their affecting factors in different vegetation restoration stages in depressions between karst hils[J]. Chinese Journal of Applied Ecology,2018,29 (3): 783-789.]   
+[6]徐立清,崔东海,王庆成,等.张广才岭西坡次生林不同生境胡 桃楸幼树根系构型及细根特征[J].应用生态学报,2020,31(2): 373-380.[Xu Liqing,Cui Donghai,Wang Qingcheng,et al.Root architecture and fine root characteristics of Juglans mandshurica saplings in different habitats in the secondary forest on the west slope of Zhangguangcailing, China[J]. Chinese Journal of Applied Ecology,2020,31(2): 373-380.]   
+[7]杨洪斌,廖兴建.植物顶端优势机理的研究进展[J].生物学教 学,2020,45(1O): 75-77.[Yang Hongbin,Liao Xingjian.Research progresson the mechanism of plant apical dominance[J]. Biology Teaching,2020,45(10): 75-77.]   
+[8]Péret B,Rybel B D,Casimiro I,et al.Arabidopsis lateral root development: An emerging story[J]. Trends in Plant Science,2009, 14(7): 399-408.   
+[9]Ljung K, HullA K, Celenza J,et al. Sites and regulation of auxin biosynthesis in arabidopsis roots[J]. The Plant Cell,2005,17(4): 1090-1104.   
+[10] 李元元,高志强.超旱生常绿灌木沙冬青的组织培养技术研究 [J].中国农学通报,2018,34(1): 51-55.[Li Yuanyuan,Gao Zhiqiang. Xerophyte Ammopiptanthus monglicus: Callus induction method research[J]. Chinese Agricultural Science Bulletin,2018, 34(1): 51-55.]   
+[11]李晓燕,廖里平,高永,等.沙冬青属植物研究进展[J].草地学 报,2017,25(5): 921-926.[Li Xiaoyan,Liao Liping,Gao Yong, et al. Research progress on Ammopiptauthus[J]. Acta Agrestia Sinica, 2017,25(5): 921-926.]   
+[12] Jin M,Guo M, Yue G,et al.An unusual strategy of stomatal control in the desert shrub Ammopiptanthus mongolicus[J].Plant Physiology and Biochemistry,2018,125:13-26.   
+[13]高见.荒漠珍品—沙冬青[J].中国野生植物资源,2001,20(4): 34.[Gao Jian.Desert treasure:Ammopiptanthus mongolicus[J]. Chinese Wild Plant Resources,2001,20(4): 34.]   
+[14]刘果厚.阿拉善荒漠特有植物沙冬青濒危原因的研究[J].植物 研究,1998,18(3): 3-5.[Liu Guohou. Study on the endangered reasons of Ammopiptanthus mongolicus in the desert of Alashan[J]. Bulletin of Botanical Research,1998,18(3): 3-5.]   
+[15] 姚甲宝,楚秀丽,周志春,等.不同养分环境下邻株竞争对木荷 和杉木生长、细根形态及分布的影响[J].应用生态学报,2017, 28(5):1441-1447.[Yao Jiabao, Chu Xiuli, Zhou Zhichun,et al. Effects of neighbor competition on growth,fine root morphology and distribution of Schima superba and Cunninghamia lanceola in different nutrient environments[J]. Chinese Journal of Applied Ecology,2017,28(5): 1441-1447.]   
+[16]夏恩龙,施海,彭祚登.沙冬青抗逆性与培育技术研究进展[J] 中国水土保持科学,2006,4(4):109-113.[Xia Enlong, Shi Hai, Peng Zuodeng.Advances in stress-resistance and culture technology of Ammopiptanthus Cheng f.[J]. Science of Soil and Water Conservation,2006,4(4): 109-113.]   
+[17]夏恩龙.沙冬青地理分布与在北京地区引种栽培技术的研究 [D].北京:北京林业大学,2006.[Xia Enlong.Studies on Geography Distributing of Ammopiptanthus Cheng f.and Planting Technology inthe Area of Beijing[D].Beijing: Beijing Forestry University,2006.]   
+[18] 曹旭东,罗发潘,钱国钦.马尾松芽苗截根移栽菌根化容器育苗 研究[J].福建林学院学报,1994,14(2):128-132.[Cao Xudong, Luo Fapan,Qian Guoqin.A study on the cultivation of the masson pine seedings in containers by inoculating bacteriorhizae fungus through roots for rootprunned bud-seeding transplantation[J]. Journal of Forest and Environment,1994,14(2): 128-132.]   
+[19] 王雪莹,郭素娟.切根与不同形态氮素对板栗苗木根系构型及 生长的影响[J].东北林业大学学报,2020,48(4):15-19.[Wang Xueying, Guo Sujuan.Effects of root cutting and different nitrogen forms on root architecture and growth of Castanea mollissima seedlings[J]. Journal of Northeast Forestry University,2O20,48(4):15- 19.]   
+[20] 杨宏艳,金英,庭禹洁,等.大叶石蝴蝶组培苗根系形态对不同 生长素的响应[J].西部林业科学,2019,48(6):105-110,119. [Yang Hongyan,Jin Ying,Ting Yujie,et al. Response of root morphology to different auxin in tissue culture seedling of Petrocosmea grandifolia[J]. Journal of West China Forestry Science, 2019,48(6): 105-110, 119.]   
+[21] 倪钟涛,侯志颖,李财运,等.断胚根处理对薄壳山核桃籽播苗 生长的影响[J].果树学报,2020,37(6):857-865.[Ni Zhongtao, Hou Zhiying,Li Caiyun,et al. Effect of radicle excision treatment on the growth of pecan seedlings[J].Journal of Fruit Science, 2020,37(6): 857-865.]   
+[22] Caliskan S.Germination and seedling growth of holm oak (Quercus ilex L.): Effects of provenance,temperature,and radicle pruning[J]. Forest-Biogeosciences and Forestry,2014,7(2): 103-109.   
+[23]Devine W D,Harrington C A,Southworth D.Improving root growth and morphology of containerized oregon white oak seedlings [J]. Tree Planters'Notes,2009,53(2): 29-34.   
+[24]井大炜,邢尚军,刘方春,等.保水剂-尿素凝胶对侧柏裸根苗 细根生长和氮素利用率的影响[J].应用生态学报,2016,27(4): 1046-1052.[Jing Dawei, Xing Shangjun,Liu Fangchun,et al.Effects of gel made by super absorbent polymers and urea on fine root growth and nitrogen use eficiency of Platycladus orientalis bareroot seedlings[J]. Chinese Journal of Applied Ecology,2016, 27(4): 1046-1052.]   
+[25] 宋科.周强.杨静慧.等.天津地区不同彩叶植物生长指标的比
+
+较研究[J].天津农林科技,2019,1(1):1-4.[Song Ke, Zhou Qiang,Yang Jinghui,et al. Comparative study on growth indexes of different color leaf plants in Tianjin[J]. Science and Technology of Tianjin Agriculture and Forestry,2019,1(1): 1-4.]   
+[26] 朱振国,谭效磊,张渐隆,等.IBA对烟草幼苗根系的影响[J].浙 江农业科学,2019,60(4):554-556.[Zhu Zhenguo,Tan Xiaolei, Zhang Jianlong,et al.Effects of IBA on root systemof Nicotiana tabacum seedlings[J]. Journal of Zhejiang Agricultural Sciences, 2019, 60(4): 554-556.]   
+[27] 狄楠.灌水深度对冬小麦根系形态分布及根系活力的影响[D]. 山西：太原理工大学,2016.[Di Nan.Effects of Irrigation Depth Controlon Root Morphology and Root Vigor of Triticum aestivum [D]. Shanxi: Taiyuan University of Technology,2016.]   
+[28] 周广生,梅方竹,陈艳华.冬小麦根系活力与产量性状关系的研 究[J].华中农业大学学报,2001,20(6):531-534.[Zhou Guangsheng,Mei Fangzhu,Chen Yanhua.Study on the relationship between root activity and yield traits of Triticum aestivum[J]. Journal of Huazhong Agricultural University,2001,20(6): 531-534.]   
+[29] 赵春桥,李继伟,范希峰,等.不同盐胁迫对柳枝稷生物量、品质 和光合生理的影响[J].生态学报,2015,35(19):6489-6495. [Zhao Chunqiao,Li Jiwei,Fan Xifeng,et al.Effects of salt stress on biomass,quality,and photosynthetic physiology in switchgrass [J]. Acta Ecologica Sinica,2015,35(19): 6489-6495.]   
+[30] 冯志培,杨果果,郭二辉,等.空气断根对侧柏实生苗生物量分 配和根系生长的影响[J].生态学报,2017,37(23):7854-7861. [Feng Zhipei,Yang Guoguo,Guo Erhui,et al. Effect of air root pruning on biomass allocation and root growth in Platycladus orientalis seedlings[J]. Acta Ecologica Sinica, 2017, 37(23): 7854- 7861.]   
+[31]Pike C C, Warren JC, Montgomery R A. Allometry of early growth in selected and wild sources of white spruce,Picea glauca (Moench) Voss[J]. New Forests,2016,47(1): 131-141.   
+[32] 李宪利,高东升,耿莉.花期根剪对苹果幼树叶营养及光合特性 的影响[J].山东农业大学学报,1996,27(3):293-297.[Li Xianli, Gao Dongsheng, Geng Li. Effects of root-prunung on apple leaf nutrition contents and photosynthetic characters[J].Journal of Shandong Agricultural University,1996,27(3): 293-297.]   
+[33] 冯错,赵长星,王月福,等.断根深度对花生光合特性及干物质 积累的影响[J].华北农学报,2014,29(2):188-192.[Feng Kai, Zhao Changxing,Wang Yuefu, et al.Efects of depth of rot cutting on the photosynthetic characteristics and dry matter accumulation of Peanut[J]. Acta Agriculturae Boreali-Sinica, 2014,29(2): 188- 192.]
+
+# Effects of root cutting and IBA treatment on the root quality and growth of Ammopiptanthus mongolicus seedlings
+
+WANG Jingjing， YAN Haibing， WANG Zixuan， XIE Tiantian， YANG Xiuqing(College of Forestry,Shanxi Agricultural University,Taigu O3O8O1,Shanxi, China)
+
+Abstract: To solve the technical problems associated with forestry of Ammopiptanthus mongolicus,i.e., the long main root,few capillaries,dificult rooting,and low transplantation survival rate, we conducted root cuttings at different intensities and added different concentrations of IBA to A.mongolicus seedlings with different degrees of growth development. The effects of different treatment combinations on root morphology,root quality,and sedling growth were then measured and analyzed after root culture. This investigation was aimed at identifying the key measures for promoting the root survival of $A$ . mongolicus seedlings and thereby providing a knowledge base for cultivating A. mongolicus seedlings and developing afforestation techniques.The results were as follows. (1) Root cuting promoted the occurrence of multimain roots inA. mongolicus,as wellas an increase in the lateral roots,total roots,aboveground and underground biomass,root-shoot ratio,root activity,and rootcation exchange capacity (CEC). Among the treatments, the $0 . 5 \mathrm { - c m }$ root tip treatment (F2） significantly promoted an increase in lateral root number,root tip number,branch number,seedling quality index,and root activity when the root length reached $1 . 5 \mathrm { - } 2 . 0 ~ \mathrm { c m }$ . Root activity reached a peak value with the root cutting treatment ( $1 3 7 . 7 0 \%$ higher than the value in the control).Root CEC was maximal when root length reached $4 . 5 \substack { - 6 . 0 \ \mathrm { c m } }$ ：(2)The effect of hormones on promoting root and seedling growth was further improved after root cuting.The root morphological index (except the average root length） and root CEC were significantly increased after $1 . 5 \mathrm { - } 2 . 0 ~ \mathrm { c m }$ long roots were treated with $0 . 5 \ \mathrm { c m }$ cutting $+ 0 . 0 7 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } ~ \mathrm { I B A } / 0 . 1 2 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ IBA (P3 and P4 treatments, respectively). Seedling fresh weight,root dry-weight,root-shoot ratio,seedling quality index,and root activity were highest under the P4 treatment. Compared with the control, the content of soluble sugar and NSC in roots under P3 treatment was significantly increased by $2 6 . 0 4 \%$ and $2 9 . 0 7 \%$ ，respectively. Additionally, the content of soluble protein in roots reached its peak under the P4 treatment ( $( 1 3 . 2 7 ~ \mathrm { m g \cdot g ^ { - 1 } } )$ . Proper root cutting and the addition of IBA can promote root absorption and nutrient storage of $A$ . mongolicus by altering root morphology and improving root activity, which in turn improves root quality and the growth potential of seedlings.
+
+Keywords: Ammopiptanthus mongolicus; cuting roots； hormone treatment;root morphology; root activity; seedling growth

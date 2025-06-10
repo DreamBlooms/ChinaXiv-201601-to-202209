@@ -1,0 +1,138 @@
+基础研究
+
+# 磷酸铝凝胶、康复新液对溶血卵磷脂相关反流性食管炎模型大鼠食管组织学和IL-8、PGE2的影响
+
+林海玲'，李国坚²,吴继周²  
+广西医科大学1附属肿瘤医院内镜室，第一附属医院感染性疾病科,广西 南宁 530000
+
+摘要：目的探讨磷酸铝凝胶、康复新液对溶血卵磷脂相关反流性食管炎模型大鼠食管组织学结构和组织IL-8、PGE2含量的影响及其可能的作用机制。方法60只SD大鼠，随机分为磷酸铝组( $\scriptstyle n = 1 0$ ）、康复新组 $\scriptstyle { \overbrace { n = 1 0 } } ,$ 、磷酸铝 $^ { + }$ 康复新组 $\scriptstyle { \overbrace { n { = } 1 0 } } ,$ 、模型组（ $\scriptstyle { \begin{array} { l } { n = 2 0 } \end{array} }$ ）、对照组（ $\scriptstyle { \begin{array} { l } { n = 1 0 } \end{array} }$ ，采用食管灌注 $1 . 5 ~ \mathrm { m g / L }$ 溶血卵磷脂+0.1mol/LHCI(含 $0 . 5 \%$ 胃蛋白酶)方法制备溶血卵磷脂相关反流性食管炎模型，对照组灌注液为等量生理盐水，连续14d,处死10只模型组大鼠和全部对照组大鼠并取出完整食管，剩余4组大鼠分别予磷酸铝凝胶、康复新液、磷酸铝凝胶 $\cdot +$ 康复新液、生理盐水经食管灌注干预治疗14d,处死所有大鼠并取出完整食管，分别检测食管组织一般形态学、超微形态学和放免法检测组织IL-8、PGE2含量。结果模型制备结束时模型组与对照组组织形态学比较：模型组一般形态学表现为粘膜及粘膜下层大量炎症细胞浸润,上皮细胞空泡变性、糜烂甚至溃疡形成，超微结构改变表现为粘膜上皮细胞呈大片脱落,对照组的一般形态学和超微结构均正常。治疗结束时各治疗组和模型组比较：各治疗组食管的一般形态学、超微结构显示粘膜损伤程度较轻，粘膜损伤指数、食管组织IL-8、PGE2含量均较模型组低 $( P { < } 0 . 0 5 )$ 。磷酸铝 $^ +$ 康复新组分别与磷酸铝组、康复新组比较：食管组织的一般形态学、超微结构显示粘膜损伤程度均较轻，粘膜损伤指数、IL-8、PGE2 含量均低 $( P { < } 0 . 0 5 )$ 。结论康复新液、磷酸铝凝胶对溶血卵磷脂与盐酸联合灌注所致反流性食管炎模型大鼠的食管组织具有保护作用,其机制可能与其降低IL-8、PGE2水平、阻止炎症发生及发展有关,溶血卵磷脂与盐酸在十二指肠胃食管反流中作为混合反流物引起GERD,其致病机制可能与上调食管组织的IL-8、PGE2的含量相关。
+
+关键词：反流性食管炎；溶血卵磷脂；盐酸；白介素8；前列腺素 $\mathrm { E } _ { 2 }$ ;康复新液；磷酸铝凝胶；大鼠
+
+# Effect of aluminum phosphate gel and Kangfuxin on esophageal pathology and IL-8 and PGE2 expressions in a rat model of reflux esophagitis
+
+LINHailingl,LIGuojian²,WUJizhou²   
+Endoscopiciaediciei   
+Guangxi Medical University²,Nanning 53oo00,China
+
+Abstract: ObjectiveTo explore the efect of aluminum phosphate geland Kangfuxinonesophagealpathologyand expressions of interleukin-8 (IL-8) and prostaglandin $\mathrm { E } _ { 2 }$ (PGE2) in rats with reflux esophagitis and explore the possible mechanisms. Method Sixty SD rats were randomized into aluminum phosphate gel group $( n { = } 1 0 )$ , Kangfuxin group $( n { = } 1 0 )$ ， aluminum phosphate gel+Kangfuxin group $( n { = } 1 0 )$ ， model group $( n { = } 2 0 )$ , and control group $_ { ( n = 1 0 ) }$ . Except for those in the control group, alltherats were subjected to infusionof diluted lysolecithin withhydrochloricacid inthe esophagus for14days.Tenrats in themodel groupandthose inthecontrol group were sacrificed to examine thepathologicalchanges andcontentsof IL-8and PGE2 in the esophagus using optical and electron microscopes and radioimmunoassy.The next day the rest rats were given corresponding treatments (saline in model group)administered into the esophagus onadaily basis for14 days,after which esophageal pathologiesand IL-8and PGE2 contents were examined. Results The model ratsshowedobvious esophageal pathologiesiudinginflammatorycellinfiltration,acuolardgenerationoftheepithelalcels,soagealrosinadeven ulceration,withseveredetachmentoftheepielialcell.Teatsialltheinterventiongroupssowedlessenedesopageal pathologies and lowered esophageal IL-8 and PGE2 contentscompared withthose in the model group.Esophageal mucosal injury index and IL-8and PGE2contents were allsignificantly lower inratsreceiving combined treatment with aluminum phosphate and Kangfuxin than in those receiving either of the treatments $_ { ( P < 0 . 0 5 ) }$ . Conclusion Both Kangfuxin and aluminum phosphate gelareefectivein thetreatmentfor reflux esophagitis induced bylysolecithinand hydrochloricacid,and their therapeutic effects are achieved possbly by reducing IL-8 and PGE2 levels in the esophagus.
+
+Key words: reflux esophagitis; lysolecithin;hydrochloricacid;interleukin-8;PGE2; Kangfuxin;alumium phosphategel; rat
+
+胃食管反流病(gastroesophageal reflux disease,GERD)为胃十二指肠内容物反流入食管、口腔(包括喉部)或肺所致的症状和并发症，可引起严重症状并导致Barrett食管及食管癌[1-3]。溶血卵磷脂是十二指肠胃食管反流的一种成分，目前国内外在溶血卵磷脂方面的研究相当欠缺，临床上针对溶血性卵磷脂的药物干预治疗未受到重视，难治性食管炎与溶血性卵磷脂反流关系未明。目前西医治疗GERD面临无法从根本上解决反流的问题，存在停药后复发，维持治疗可降低其复发率，但长期用药毒副作用产生、PPI长期应用增加难辨梭状芽孢杆菌感染的风险问题4。因此挖掘高效、安全、特异性粘膜保护剂将有一定的临床价值。磷酸铝凝胶、康复新为粘膜保护剂，康复新作为中药制剂，可弥补西药治疗的不足，目前国内已有一些康复新与PPI、胃肠动力药联合治疗食管炎的报道，显示疗效良好，但系多药联用，无法确定各药的治疗作用，康复新在其中的作用及确切机制未明。磷酸铝凝胶在食管炎治疗中除了具有中和胃酸、结合溶血卵磷脂等作用外，是否还存在调节IL-8、PGE2细胞因子方面的作用还未明确。本实验对细胞因子IL-8、PGE2水平对溶血卵磷脂相关性食管炎的致病机制及磷酸铝凝胶、康复新的治疗作用及机制进行研究，为进一步阐明溶血卵磷脂在GERD发生中的致病机制，为干预治疗研究提供实验理论依据。
+
+# 1 材料和方法
+
+# 1.1实验动物及分组
+
+60只13周龄健康SD雄大鼠,体质量在 $2 9 0 { \sim } 3 2 0 ~ \mathrm { g }$ 购自四川大学华西医院实验动物中心。随机分为磷酸铝组、康复新组、磷酸铝 $^ +$ 康复新组、模型组和对照组，模型组为20只，其余组均为10只。
+
+# 1.2反流性食管炎模型的制备
+
+溶血卵磷脂(Lysolecithin,Sigma),0.1 mol/LHCL（含 $0 . 5 \%$ 胃蛋白酶,Sigma),磷酸铝凝胶(商品名：洁维乐，BoryungPharmCo.Ltd生产，批准文号：国药准字J20090078)，康复新液(国药准字Z51021834)。参照刘春丽的反流性食管炎模型的制备方法[5。灌注前用氯氨酮 $\mathrm { 5 0 ~ m g / k g , i p }$ 轻度麻醉大鼠,取仰卧位，用绷带将四肢和门牙固定，并将其头部垫高，口腔插入5F胃管至食管中、下段，胃管外端连接静脉输液器，以8drops/min速率灌注 $2 \mathrm { m g / L }$ 溶血卵磷脂 $\mathrm { \Phi _ { + 0 . 1 \ m o l / L \mathrm { H C l } , 2 0 \ m i n / \mathrm { \Lambda } } } / \mathrm { \Lambda } , 1$ 次/d。磷酸铝组、康复新组、磷酸铝 $^ +$ 康复新组、模型组四组大鼠均按上述操作，对照组大鼠灌注方式一样，但灌注液为等量的生理盐水。14d时处死10只模型组大鼠和全部对照组大鼠。第15天起对磷酸铝组、康复新组、磷酸铝 $+$ 康复新组和模型组大鼠行经16号灌胃针食管灌注，灌注液分别为磷酸铝凝胶 $0 . 1 \mathrm { m l / 1 0 } \mathrm { g }$ 、康复新液 $0 . 1 \mathrm { m l / 1 0 } \mathrm { g }$ 磷酸铝凝胶 $0 . 1 \mathrm { m l } / 1 0 \mathrm { g } +$ 康复新液 $0 . 1 ~ \mathrm { m l / \Omega }$ $1 0 \mathrm { ~ g ~ }$ 和等量生理盐水，均为3次/d,连续14d,相同方式处死4组大鼠。
+
+# 1.3食管组织的一般形态学的检测
+
+将刚取出的大鼠完整食管，用 $10 \%$ 福尔马林固定$2 4 \mathrm { h }$ ,梯度酒精脱水、石蜡包埋、切片，行HE染色。食管黏膜损伤指数评分参见我们以前的方法：全层未见明显病变为0分；病变达黏膜层，炎性细胞浸润为1分；病变达黏膜下，明显点片状糜烂，毛细血管扩张，黏膜层及黏膜下层中性粒细胞浸润为2分；病变累及肌层，出现典型溃疡改变为3分。
+
+# 1.4食管组织超微组织学的检测
+
+将刚取出的完整食管，用锋利刀片切取食管最远端的 $1 . 0 \mathrm { c m } { \times } 1 . 0 \mathrm { c m }$ 大小的食管组织块， $3 . 2 \%$ 戊二醛固定$2 4 \mathrm { h }$ ，生理盐水冲洗， $5 0 \% \sim 1 0 0 \%$ 的酒精逐级梯度脱水（每次脱水 $1 0 ~ \mathrm { { m i n } } .$ )，醋酸正戊酯置换 $3 0 ~ \mathrm { m i n }$ $\mathrm { C O } _ { 2 }$ 临界点干燥，离子溅射（SBC-12，中科院），SEM(AMRAY-1000X型)观察。
+
+# 1.5食管组织IL-8、PGE2含量测定
+
+IL-8、PGE2放免分析试剂盒(中国人民解放军总医院科技开发中心放免研究所)。将刚取出的完整食管吸去活组织血迹,称湿重，以 $4 0 0 ~ \mathrm { { m g } }$ 组织 $\mathrm { 1 ~ m l }$ 生理盐水比例做成匀浆，离心，取上清 $1 0 0 \mu \mathrm { l }$ 测定，按放免试剂药盒具体操作说明操作。
+
+# 1.6统计学处理
+
+黏膜损伤指数和IL-8、PGE2含量以均数 $\stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } { \bf \underline { { \sigma } } } \stackrel { \cdot } \bf$ 标准差表示，SPSS19.0统计软件包进行处理，组间差异比较采用 $\mathbf { \Phi } _ { t }$ 检验。 $P { < } 0 . 0 5$ 认为有统计学意义。
+
+# 2结果
+
+# 2.1一般情况
+
+磷酸铝组、康复新组、磷酸铝 $+$ 康复新组、模型组前4d食欲稍减低，体质量轻度降低，此后逐渐恢复，4\~6d后大鼠饮食、活动、体质量已基本如常。各组均未见动物死亡。
+
+# 2.2 病理学改变
+
+2.2.1食道黏膜损伤指数的比较模型制备结束时，模型组与对照组的食道粘膜损伤指数比较，模型组的粘膜损伤指数 $2 . 8 7 5 { \scriptstyle \pm 0 . 0 2 3 }$ ,对照组为 $0 . 0 0 0 { \scriptstyle \pm 0 . 0 0 0 }$ ，模型组明显高于对照组 $( P { < } 0 . 0 5 )$ O
+
+治疗结束时，各治疗组与模型组的食道粘膜损伤指数比较见表1：各治疗组的粘膜损伤指数明显低于模型组 $( P { < } 0 . 0 5 )$ ；各治疗组之间的食道粘膜损伤指数比较：磷酸铝组与康复新组食管粘膜损伤指数无明显差异中 $( P { > } 0 . 0 5 )$ ，磷酸铝 $^ { + }$ 康复新组食管粘膜损伤指数均明显低于磷酸铝组和康复新组（ $( P { < } 0 . 0 5 )$ O
+
+2.2.2食管组织一般形态改变模型制备结束时，模型组和对照组的食管粘膜组织病理切片HE染色光镜下组织形态学比较：对照组食管组织形态学结构基本正常，见图1A，模型组食管组织光镜下形态学表现为粘膜及粘膜下层大量炎症细胞浸润、糜烂甚至溃疡形成(图1B)。
+
+治疗结束时，各治疗组与模型组的食管粘膜组织病理切片HE染色光镜下组织形态学比较：模型组表现为炎症细胞浸润、上皮细胞空泡变性，糜烂甚至溃疡见图2A，磷酸铝组、康复新组食管粘膜正常或稍微扩张充血，少量炎症细胞浸润，炎症反应程度均较模型组明显减轻(图2B、C)，磷酸铝组 $. + ,$ 康复新组食管组织形态学表现为正常(图2D)。
+
+表1治疗组与模型组食道粘膜损伤指数比较  
+Tab.1 comparison of esophageal mucosa injury index among the groups (Mean±SD)   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>Index of snghayeal</td></tr><tr><td>Aluminum phosphate gel group</td><td>10</td><td>0.956±0.042*^#</td></tr><tr><td>Kangfuxin group</td><td>10</td><td>0.893±0.075*#</td></tr><tr><td>Aluminu phosphate gel + Kangfuxin group</td><td>10</td><td>0.189±0.142*</td></tr><tr><td>Model group</td><td>10</td><td>2.675±0.053</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ us model group, ${ \wedge } P { > } 0 . 0 5$ vs Kangfuxin group, $^ { \# } P { < } 0 . 0 5$ us Aluminum phosphate gel+Kangfuxin group.
+
+2.2.3扫描电镜食管粘膜超微形态学改变模型制备结束时，模型组和对照组食管粘膜超微形态学改变比较：对照组粘膜完整，见图3A;模型组粘膜损伤严重，可见粘膜上皮细胞点片状脱落(图3B)。
+
+治疗结束时，各治疗组与模型组比较：模型组较治疗组严重，粘膜上皮细胞大片脱落(图4A);磷酸铝凝胶组、康复新组粘膜损害改变粘膜轻微，粘膜上皮细胞间隙稍增宽，未见明显脱落(图4B、C);磷酸铝 $^ { + }$ 康复新组粘膜上皮基本保持完整(4D)。
+
+![](images/9749f60aa33115f838e983622823844faaabca2bfb42690076f7c193b223c21a.jpg)  
+图1模型制备结束时模型组和对照组的食管粘膜组织病理切片HE染色
+
+![](images/a464676766047508be091408631d78b4ea3a16e5c997531326012e34328849ed.jpg)  
+Fig.1 Pathological changes of the esophageal tissue of the rats in the control group and model group (HE staining, original magnification: $\times 1 0 0 _ { . } ^ { \cdot }$ ).A: Control group showing normal mucosa; B: Model group showing obvious inflammatory cell infiltration and ulceration.   
+图2治疗结束时各组食管粘膜组织病理切片HE染色  
+Fig.2 Pathological changes of the esophageal tissue of the rats (HE staining,original magnification: $\times$ 100).A:Model group showing vacuolar degeneration of epithelial cells and submucosal edema, erosion even ulceration; B:Kangfuxin group showing less inflammatory cell infiltration with slight capillary congestion; C:Aluminum phosphate gel group showing less inflammatory cellinfiltration with slight capillary congestion; $D$ ：Aluminum phosphate gel $^ +$ Kangfuxin group showing normal mucosa.
+
+![](images/59cd02a3912ff74e7a57a47ea4ddd82ba599af993672e97d7d1f6ac8d794ac37.jpg)  
+图3模型组与对照组大鼠食管粘膜上皮细胞电镜超微结构
+
+![](images/e3886aa704ef78c38a167b430b1ca9f104689866c7d3c95af93682a7565aa69f.jpg)  
+Fig.3 Pathological changes of the esophageal tissue of the rats in model group and control group (Electron microscope scanning, original magnification: $\times 6 0 0$ ） $A$ : Control group showing normal mucosa; B: Model group showing detachment of the epithelial cells.   
+图4各组大鼠食管粘膜上皮细胞电镜超微结构变化
+
+Fig.4 Pathological changes of the esophageal tissue in each group (Electron microscope scanning).A: model group show large detachment of the epithelial cels(Original magnification: $\times ~ 6 0 0 ^ { \cdot }$ ；B: Aluminum phosphate gel group show slightly widened intercellular spaces without detachment of the epithelial cells(Original magnification: $\times 1 0 0 0$ );C:Kangfuxin group showing mild slightly widened intercellular spaces without detachment of the epithelial cells(Original magnification: $\times 1 0 0 0 \mathrm { \Omega }$ ； $D$ Aluminum phosphate gel $^ +$ Kangfuxin group showing normal mucosa(Original magnification: $\times 1 0 0 0$ ）
+
+# 2.3食道组织IL-8、PGE2含量的比较
+
+模型制备结束时模型组与对照组的食道组织IL-8、PGE2含量比较见表2。模型组与对照组比较：模型组明显高于对照组 $( P { < } 0 . 0 5 )$ 。
+
+治疗结束时，各组的食道组织IL-8、PGE2含量比较见表3。各治疗组与对照组比较：各治疗组的IL-8、PGE2含量均明显低于模型组 $( P { < } 0 . 0 5 )$ ；各治疗组间比较：磷酸铝组与康复新组比较无明显差异 $( P { > } 0 . 0 5 )$ ，康复新 $\mathrm { \dot { + } }$ 磷酸铝组均明显低于磷酸铝组和康复新组 $( P { < } 0 . 0 5 )$ 。
+
+# 3讨论
+
+目前国内外有一些关于溶血卵磷脂致食管炎动物实验报道：大鼠、狗、新西兰兔的离体及在体食管灌注试验[6-8]发现溶血卵磷脂主要引起食管粘膜出血、糜烂和溃疡，急性实验性食管炎采用了高浓度的溶血卵磷脂$\mathrm { \Omega } _ { 2 } \mathrm { m g / L } \mathrm { \Omega } ,$ ,但GERD的发生是攻击因子反复多次反流的结果，短期高浓度灌注不能全面、真实地反映反流性疾病发生的慢性病理生理改变，因此本实验采用略低的浓度 $\mathrm { { . 1 . 5 \ m g / L } }$ ),稍高于临床上测得慢性胃溃疡病人胃液中溶血卵磷脂浓度( $\mathrm { ( 1 ~ m g / m l ) }$ [9],更接近人类反流性食管炎的实际情况。
+
+本研究结果显示：灌注 $1 . 5 ~ \mathrm { m g / L }$ 溶血卵磷脂 $1 4 \mathrm { ~ d ~ }$ 诱发的慢性食管炎与灌注 $2 \mathrm { m g / L }$ 溶血卵磷脂 $3 . 5 \mathrm { h }$ 诱发的急性食管炎食管炎改变相似：血管扩张充血、炎症细胞浸润、糜烂及溃疡。证实以 $1 . 5 ~ \mathrm { m g / L }$ 溶血卵磷脂 $^ +$ $0 . 1 \ \mathrm { m o l / L \ H C l }$ （含 $0 . 5 \%$ 胃蛋白酶)反复灌注食管14d制备反流性食管炎模型是成功的，符合反流性食管炎的病理改变，且能真实全面反映反流性食管炎的慢性发病过程。结果同时显示：模型组粘膜损伤指数及IL-8、PGE2含量远高于对照组( $P { < } 0 . 0 5 )$ ,提示溶血卵磷脂在反流性食管炎中的致病机制可能与调节食管组织的IL-8、PGE2含量相关，IL-8与中性多形核白细胞((PMN)表面特异性受体结合导致细胞外形改变，促进PMN脱颗粒，激活PMN并使其产生呼吸爆发、释放超氧化物和溶酶体酶,启动和促进炎症反应[10]。IL-8连同其他细胞因子、生长因子共同参与RE的发生发展。PGE2是一种重要的细胞生长和调节因子，是除EGF外另一个重要的细胞保护因子，能增加粘膜粘液和增加粘膜血流作用，具有免疫抑制及抗炎作用，在损伤中过量的PGE2刺激COX-2的过表达，从而参与了反流性食管炎的发生发展过程[]。另外我们发现：食管组织IL-8、PGE2含量、粘膜损伤指数各治疗组均明显低于模型组（ $P <$ 0.05)，药物联合应用组较单药组明显低( $P { < } 0 . 0 5 )$ ，表明磷酸铝凝胶、康复新可能通过降低食管组织IL-8、PGE2含量，从而阻止炎症的发生发展起到粘膜保护作用，药物联合应用组效果更佳。
+
+表2模型组与对照组的食道黏膜组织IL-8、PGE2含量比较 Tab.2 Comparison of IL-8 and PGE2 contents in esophageal mucosa between model group and control group(Mean±SD, $\scriptstyle n = 1 0 ^ { \prime }$ 0   
+
+<html><body><table><tr><td>Group</td><td>IL-8 (pg/mg)</td><td>PGE2(pg/mg)</td></tr><tr><td>Model group</td><td>9.286±0.318&</td><td>3545.37±102.62</td></tr><tr><td>Control group</td><td>0.286±0.348</td><td>2100.23±108.32</td></tr></table></body></html>
+
+$^ { \mathrm { \tiny { \approx } } } P { < } 0 . 0 5$ vs control group.
+
+表3治疗组与模型组食道黏膜组织IL-8、PGE2含量比 Tab.3 Comparison of IL-8 and PGE2 contents in esophageal mucosa between model group and treatment groups (Mean±SD, $n { = } 1 0$ ）   
+
+<html><body><table><tr><td>Group</td><td>IL-8 (pg/mg)</td><td>PGE2(pg/mg)</td></tr><tr><td>Aluminum phosphate gel group</td><td>6.121±0.523*^#</td><td>2556.17±118.32*^#</td></tr><tr><td>Kangfuxin group</td><td>6.769±0.326*#</td><td>2618.69±131.43*#</td></tr><tr><td>Aluminu phosphate gel+Kangfuxin group</td><td>0.301±0.142*</td><td>2042.17±98.32*</td></tr><tr><td>Model group</td><td>9.586±0.348</td><td>3555.37±102.82</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ usmodel group, ${ \sim } 0 . 0 5$ vs Kangfuxin group, $^ { * } P { < } 0 . 0 5$ us Kangfuxin+Aluminum phosphate gel group.
+
+关于磷酸铝凝胶、康复新降低食管组织IL-8、PGE2水平的具体机制，考虑与以下因素有关：磷酸铝凝胶兼具制酸与黏膜保护作用，其特殊的胶体分子与凝胶剂型在抗酸与黏膜保护方面具有极大的优势，口服后7\~$1 0 \mathrm { m i n }$ 可达到酸中和峰值，并可在黏膜形成保护膜，产生类似生理薄膜的作用，增强黏液屏障，最重要的是磷酸铝凝胶对胆盐和溶血性卵磷脂具有吸附效果，很好的降低胆汁反流和混合性反流中攻击因子起到阻隔保护作用[12]。康复新富含多元醇类和多肽(表面细胞生长因子EGF),促进表皮细胞生长和肉芽组织增生，改善局部血液循环，促进创面坏死组织脱落，加速创面修复，并且能分泌类白细胞介素、干扰素等物质消除炎症水肿[13]。
+
+综上所述，本研究在动物实验水平证实溶血卵磷脂在反流性食管炎中的致病机制与上调食管组织IL-8、PGE2含量相关，磷酸铝凝胶、康复新的干预治疗机制与下调IL-8、PGE2含量相关。该动物造模方法简单有效，可应用于溶血卵磷脂相关反流性食管疾病包括Barrett食管、食管腺癌发生机制及防治动物模型的研究。
+
+# 参考文献：
+
+[1]El-Serag HB，Sweet S，Winchester CC，etal．Update on the epidemiology of gastrooesophageal reflux disease:a systematic review[J].Gut,2014,63(6): 871-80.   
+[2]Fitzgerald RC,di Pietro M,Ragunath K,etal.British society of gastroenterology guidelines on the diagnosis and management of barrett's oesophagus[J].Gut,2014,63(1): 7-42.   
+[3]Katz PO,Gerson LB,Vela MF.Guidelines for the diagnosis and management ofgastroesophageal reflux disease [J]. Am J Gastroenterol,2013,108(3): 308-28.   
+[4］中华医学会消化病学分会.2014年中国胃食管反流病专家共识意见 [J].中华消化杂志,2014,34(10):649-61.   
+[5]刘春丽,赖克方,陈如冲,等.盐酸灌注豚鼠食管反流性疾病模型的建 立[J].中国病理生理杂志,2006,22(3):620-1,624.   
+[6]林海玲,张正.溶血卵磷脂诱导大鼠食管黏膜损伤的实验研究[J].广 西医科大学学报,2011,28(6):841-2.   
+[7]Salo JA，Myllarniemi H,Kivilaakso E.Morphologyof lysolecithin-induceddamageonesophagealmucosa. An experimental light and scanning electron microscopical study[J].J Surg Res,1987,42(3): 290-7.   
+[8]Lillemoe KD，Johnson LF,Gastroenterology HJ.Alkaline esophagitis:a comparison oftheabilityofcomponentsof gastroduodental contents to injure rabbit mucosa. Gastroenterology [J]. 1983,85: 621-8.   
+[9]Johnson AG,McDermott SJ.Lysolecithin:a factor in the pathogenesis of gastric ulceration[J].Gut,1974,15: 710.   
+[10]Fitzgerald RC,Onwuegbusi BA, Bajaj-Elliott M, et al. Diversity in the oesophageal phenotypic response to gastro-oesophageal reflux: immunological determinants[J].Gut, 2002,50(4): 451-9.   
+[11]Hayakawa T,Fujiwara Y,Hamaguchi M,et al. Roles of cyclooxygenase 2 and microsomal prostaglandin E synthase 1 in rat acid reflux oesophagitis[J]. Gut,2006,55(4): 450-6.   
+[12]田书瑞,吴继敏,刘建军,等.磷酸铝凝胶治疗反流性食管炎疗效观察 [J].中华消化内镜杂志,2013,30(11):645-6.   
+[13]邹 军,崔培林,徐有青.康复新液联合兰索拉唑治疗反流性食管炎的 疗效观察[J].医学临床研究,2012,29(2):293-4,298.
+
+(编辑：孙昌朋)

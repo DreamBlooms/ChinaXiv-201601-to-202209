@@ -1,0 +1,219 @@
+# 巴丹吉林沙漠湖泊水面蒸发与气象要素的动态关系
+
+韩鹏飞，王旭升，胡晓农，蒋小伟，周燕怡（中国地质大学地下水循环与环境演化教育部重点实验室,北京100083)
+
+摘要：巴丹吉林沙漠腹地分布有大量湖泊,水面蒸发是湖泊水循环乃至整个沙漠水循环的关键控制因素。本文以在沙漠腹地湖泊——苏木巴润吉林建立自动气象站监测的2012年9月11日至2013年3月26日和2013年5月8日至2015年6月23日的长序列气象、蒸发数据，以及2012年9月13日至2014年6月20日的湖底压强数据为基础,在多时间尺度下分析湖泊水面蒸发与气象要素的动态关系。利用多元线性回归模型、非线性空气动力学模型和Penman 公式对逐小时、逐日和逐月蒸发量进行模拟分析。结果表明：随着时间尺度的提升,蒸发量与同期气象要素之间的相关性增强。在逐小时尺度下,蒸发与同期气象要素的相关性较弱,用多元线性回归模型拟合效果不佳。在逐日和逐月时间尺度下,蒸发量与同期气温和水温的相关性最高,利用多元线性回归模型或非线性空气动力学模型可以较好地模拟蒸发量。Penman 公式计算的逐日蒸发量在夏季偏大而冬季偏小。研究结果可为沙漠湖泊水量蒸发的评估提供科学依据。
+
+关键词：湖泊；蒸发量；气象要素；多元线性回归；苏木巴润吉林；巴丹吉林沙漠
+
+水文循环的研究需要对气象要素（如降水、蒸发等)和水文要素(如径流、入渗等)进行直接观测或间接评估,前人已经发展了很多量化方法(1-5) O这些要素中，降水和径流的观测技术相对成熟可靠、而蒸发的准确测量则较为困难[，,因此蒸发的定量化成为水文学研究的难点和热点[7]。准确计算水体蒸发对湖泊和湿地水资源及生态系统的评估管理至关重要,尤其是在水资源比较稀缺的地区(8-11) 。
+
+巴丹吉林沙漠位于我国西北干旱地区，沙漠腹地湖泊众多,其中常年有水的湖泊有110 个(12-13]由于降水量与水面蒸发量的巨大收支差距，湖泊的形成机理和演变趋势成为重点关注的科学问题[14-16]。最近十几年来,大量学者在巴丹吉林沙漠进行了科学探究调查，但是对于这一问题仍然没有达成共识。由于该沙漠没有地表径流，蒸发几乎是湖泊唯一的排泄方式，也是沙漠水循环的关键环节。因此要了解湖泊的形成机理，就必须先研究清楚湖泊的蒸发强度及其如何变化。前人对湖泊的蒸发量进行了估算，但不同结果之间存在较大差异。2004年,Chen 等[17]认为巴丹吉林沙漠腹地的湖泊年蒸发量可达 $4 ~ 0 0 0 ~ \mathrm { { m m } }$ ；2008 年,Gates 等[18]推测该地区湖泊的潜在蒸发量为 $2 ~ 6 0 0 ~ \mathrm { { m m } \cdot { \partial a } ^ { - 1 } }$ ；2012 年,马宁[19]使用涡动相关技术进行观测,根据能量平衡原理计算出湖泊的年蒸发量约为 $1 ~ 4 0 0 ~ \mathrm { { m m } }$ ;2014年,王旭升等[20]在巴丹吉林沙漠进行了水文地质调查和典型湖泊综合观测，分析认为沙漠湖水的蒸发强度为 $1 ~ 2 0 0 \sim 1 ~ 5 0 0 ~ \mathrm { { m m } \cdot { \mathrm { ~ a ~ } } ^ { - 1 } }$ ,略高于Yang 等[21]基于Penman公式计算得出的沙漠腹地湖泊年蒸发量（ $1 \ 0 4 0 \ \mathrm { m m }$ );2015年，胡文峰等[22]利用2012年8月至2013年7月在巴丹吉林沙漠腹地音德尔图湖泊上用涡动相关系统观测的湍流资料，计算得到湖泊的年蒸发量为 $( 1 ~ 4 5 0 ~ \pm 1 0 ) ~ \mathrm { m m } ; 2 0 1 7$ 年，张竞等[23]通过在苏木吉林湖区建立地下水－湖水动态模拟模型，拟合2012—2013年的湖水位季节性波动，推测湖面的年蒸发量为 $1 \ 2 6 1 \ \mathrm { m m }$ 。这些研究主要局限在年尺度的湖面蒸发量评估，对日尺度和月尺度的蒸发特征分析较少。
+
+从机理上讲，巴丹吉林沙漠湖泊的蒸发量及其动态特征受到太阳辐射、空气动力学条件和湖水传热等因素的影响。在不同时间尺度上，哪些因素对湖面蒸发起主导作用，如何根据气象要素的观测推算湖面蒸发强度，这是有待解决的实际问题。本文利用在巴丹吉林沙漠腹地典型湖泊进行监测得到的长时间序列气象数据和蒸发血数据，分析蒸发与气象要素的动态关系，旨在获得不同时间尺度下湖泊蒸发量对气象条件的依赖性，为研究巴丹吉林沙漠水循环提供新的参考。
+
+# 1研究区概况
+
+巴丹吉林沙漠( $\mathrm { 3 9 ^ { \circ } 3 0 ^ { \prime } } \sim 4 2 ^ { \circ } 0 ^ { \prime } \mathrm { N } \mathrm { , } 9 9 ^ { \circ } 3 0 ^ { \prime } \sim$ $1 0 4 ^ { \circ } 0 ^ { \prime } \mathrm { E } ) ,$ 属于内蒙古阿拉善盟，位于黑河流域下游盆地的东部,北临拐子湖，东接宗乃山，东南和西南分别以雅布赖山和北大山为界，总面积 $5 . 2 \times 1 0 ^ { 4 }$ $\mathrm { k m } ^ { 2 [ 2 4 ] }$ ,属于中国第二大沙漠（图1)。该沙漠的地势总体上东南高、西北低，沙漠腹地是高大密集的沙丘和沙山,沙山面积可占沙漠面积的 $6 0 \%$ 以上，其相对高度一般在 $2 0 0 \sim 3 0 0 \mathrm { ~ m ~ }$ 。巴丹吉林沙漠处于亚洲季风西北边缘区，主要受到中纬度西风带和亚洲季风的双重影响，冬春季主要盛行西风、西北风，夏秋季主要盛行东南风，气候干旱，多年平均降水量呈现东南多西北少的规律，潜在蒸散量从南到北增加。地下水的总体流向是由南向北、由东向西，这与该沙漠的总体地势南高北低、东高西低相一致，其水力梯度为 $0 . 8 \% o \sim 7 . 9 \% o ^ { [ 2 5 ] }$ 。巴丹吉林沙漠腹地湖泊众多,但湖泊面积一般都小于 $0 . 2 \ \mathrm { k m } ^ { 2 }$ ,其中最大的是诺尔图，面积达到 $1 . 5 \ \mathrm { k m } ^ { 2 }$ ,除诺尔图外,还有4个湖泊面积大于 $1 ~ \mathrm { k m } ^ { 2 }$ ,包括苏木巴润吉林、呼和吉林、音德尔图与车日格勒。沙漠湖泊绝大部分为咸水湖,矿化度在 $1 \sim 4 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ 。本文观测研究的湖泊是第2大盐湖，即苏木巴润吉林，面积为$1 . 2 4 ~ \mathrm { k m } ^ { 2 }$ ,最大深度超过 $1 1 \ \mathrm { m } ^ { [ 2 6 ] }$ （图1）。
+
+# 2 监测数据
+
+为了监测苏木巴润吉林的气象要素，项目组在湖中搭建了钢架木板桥平台，用以安装自动气象站（图1）。该气象站的位置为 $1 0 2 . 4 2 ^ { \circ } \mathrm { E } , 3 9 . 7 9 ^ { \circ } \mathrm { N }$ ，主要用于实时监测气温！ $( T _ { A }$ ）、水温( ${ { T } _ { s } }$ )、相对湿度$( R _ { H } )$ 、大气压 ${ \bf \Xi } ( A _ { P } )$ 、风速( ${ \boldsymbol { W } _ { s } }$ ）、风向（ $\boldsymbol { W } _ { D }$ ）、净辐射$( R _ { n }$ ）、降水量 $( P )$ 及蒸发皿内的水位。支架顶端固定有风速仪、风向标及净辐射仪，风速仪、风向标距桥面高度为 $2 0 2 \ \mathrm { c m }$ ,净辐射仪距桥面 $1 8 5 ~ \mathrm { c m }$ 。在距桥面高 $1 4 0 \ \mathrm { c m }$ 处安装了湿度感应器。其下是数据采集系统。在水平距离支架 $1 3 5 ~ \mathrm { c m }$ 处的湖中，使用倒锥形钢架固定了一个E601型蒸发皿，蒸发皿内的水取自浅层湖水，底部安装了测量精度为 $\pm 0 . 1$ $\mathbf { m } \mathbf { m }$ 水压力传感器，用于自动监测水位的变化，由此可以计算出蒸发量。每隔2月（夏秋季)或4月（冬春季），对蒸发皿进行一次彻底换水，以免盐度效应[27]过于显著而影响观测结果。桥下安装了温度传感器，用于监测湖面以下 $1 0 \ \mathrm { c m } \cdot 2 0 \ \mathrm { c m }$ 处的水温,由数据采集系统记录数据。雨量计安装在支架附近，其顶部距桥面 $7 3 \ \mathrm { c m }$ ,长度 $2 2 \ \mathrm { c m }$ ,外侧直径20$\mathrm { c m }$ 。在靠近湖底的固定位置，安装了一个CTD-Div-er传感器，监测湖底附近水的电导率、温度和压强，每隔 $^ { 2 \mathrm { ~ h ~ } }$ 自动读取并记录1次数据。根据CTD-Div-er记录到的压强变化，进行气压校正，可以计算出湖水位 $( H )$ 的变化。该位置湖水很浅，深度小于$0 . 6 \mathrm { ~ m ~ }$ 。
+
+![](images/a9999e549c8331e55b5712c01070bb33a58f3c45f14f1fe8e8307343f20b244a.jpg)  
+图1研究区及气象站位置 Fig.1Geographical location of the study area and the distribution of meteorological stations
+
+本文收集了2个时期的气象观测数据，第1个时期为2012年9月11日13：30至2013年3月26日10：00，第2个时期为2013年5月8日17：00至2015年6月23日21：00，数据采样间隔为 $3 0 ~ \mathrm { m i n }$ 。湖底压强的连续数据采集期为2012年9月13日0：00至2014年6月20日0：00，数据采样间隔为$^ { 2 \mathrm { ~ h ~ } }$ 。图2以2013年1月15日和2013年8月15日的每 $3 0 ~ \mathrm { m i n }$ 气温 $\ 、 1 0 \ \mathrm { c m }$ 处水温( $T _ { s \_ 1 0 }$ ） $\cdot 2 0 \ \mathrm { c m }$ 处水温( $T _ { s \_ 2 0 }$ )、相对湿度、风速、气压、净辐射，蒸发血测得累积蒸发量 $( E _ { 0 } )$ 和每 $^ { 2 \mathrm { ~ h ~ } }$ 湖底压强的数据为例，来显示气象数据小时尺度的变化特征。这两天均没有降水发生。2013年8月15日（夏季)的主要特征为：平均气温为 $2 6 . 5 9 \mathrm { ~ \textdegree C }$ ， $1 0 \ \mathrm { c m }$ 深度处的湖水平均温度为 $2 6 . 1 3 \mathrm { ~ \textdegree C }$ ,与平均气温相近,而 $2 0 ~ \mathrm { c m }$ 处平均水温则为 $2 4 . 8 3 ~ \mathrm { ^ { 9 } C }$ ,略低于平均气温;气温比水温的波动强烈;平均湿度、平均净辐射和平均风速分别为$3 3 . 1 7 \% . 1 0 7 . 9 2 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 和 $3 . 2 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ;8:30空气湿度最高，14：30最低，14：00净辐射最大，23：30最小，二者一天内波动较大;平均气压、平均湖底压强分别为 $8 7 3 . 3 0 \ \mathrm { h P a }$ 和 $9 0 9 . 8 4 ~ \mathrm { h P a }$ ;蒸发皿当日累计蒸发量为 $8 . 3 \ \mathrm { m m }$ ,夜间蒸发强度有负值出现。2013年1月15日(冬季)的主要特征为：平均气温、深度 $1 0 ~ \mathrm { c m }$ 和 $2 0 \ \mathrm { c m }$ 处水温分别为 $- 5 . 7 9 \ \mathrm { ~ \textdegree ~ }$ 、$- 1 . 9 4 \mathrm { ~ \mathcal { C } ~ }$ 和 $- 2 . 1 8 ^ { \circ } \mathrm { C }$ ;与8月不同， $1 0 \ \mathrm { c m }$ 和 $2 0 \ \mathrm { c m }$ 处水温接近，且都高于气温；平均湿度、平均净辐射和平均风速分别为 $5 9 . 0 2 \% . - 1 4 . 4 6 \textrm { W } \cdot \textrm { m } ^ { - 2 }$ 和$0 . 6 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ;平均湿度高于8月,平均净辐射和风速都低于8月，而且平均净辐射为负值，表明湖水向大气散热；平均气压、平均湖底压强分别为888.90$\mathrm { { h P a } }$ 和 $9 2 2 . 5 2 \ \mathrm { h P a }$ ,都高于8月；蒸发皿累计蒸发量为 $0 . 5 \ \mathrm { m m }$ ,蒸发强度也有负值出现，2个时期夜间的蒸发量相近，而白天夏季的蒸发量明显大于冬季。
+
+![](images/f15b40b1eace729c6b37786ada39c8e8e9467c1413ec37f33e62deb8b8f105f1.jpg)  
+图2研究区2013年1月15日和8月15日气象观测数据  
+Fig.2Meteorological data observed in the study area on Januaryl5 and August 15，2013
+
+苏木巴润吉林气象站数据采集器每 $3 0 ~ \mathrm { m i n }$ 采集1组气象数据，则 $^ \mathrm { ~ 1 ~ h ~ }$ 内记录3组数据。对3组数据求平均，可以计算出逐小时尺度的平均气温、平均相对湿度、平均风速、平均气压、平均净辐射等要素。降水量和蒸发量则根据该时段内数据变化进行累加处理，得到总降水量和蒸发量。同理可以计算出空气要素和净辐射的逐日和逐月平均值，以及降水量和蒸发量的逐日和逐月累计值。湖底压强数据每 $^ { 2 \mathrm { ~ h ~ } }$ 采集1次，也可以计算出逐日和逐月时间尺度的平均值，进行气压校正可以得到对应时间尺度的湖水位变化。考虑到E601型蒸发皿置于湖中、蒸发环境最接近于湖面环境，本文将蒸发血的蒸发量作为湖水蒸发量的近似测量结果。
+
+# 3逐小时蒸发量与气象要素的关系
+
+# 3.1 两两相关分析
+
+逐小时蒸发量与各种气象要素的逐小时平均值相关性如图3所示。根据相关系数，蒸发与净辐射的相关性最好( $R ^ { 2 } = 0 . 0 5 3 \cdot$ );与气温、水温和风速的关系次之，相关系数分别为 $0 . 0 2 0 \ L . 0 . 0 2 2$ 和0.020;与气压、湿度和风向的相关性较弱( $\left( R ^ { 2 } < 0 . 0 1 \right)$ 。总体而言，逐小时蒸发量与各种同期气象要素的相关
+
+![](images/b127580ee6336071498aba2de6f700cc0b6483dcabcf86626df2cf66ad49e4fd.jpg)  
+图3逐小时蒸发量与气象要素的相关性  
+Fig.3 Correlations between hourly evaporation and meteorological factors
+
+性都较弱。
+
+# 3.2多元线性回归模型
+
+将气温、深度 $1 0 \ \mathrm { c m }$ 和 $2 0 \ \mathrm { c m }$ 处水温、湿度、气压、风速、净辐射和蒸发量数据进行归一化处理，使用SPSS统计分析工具软件建立蒸发量与气象要素的多元线性回归模型。本文参考前人研究方法[28]采用逐步回归分析法进行变量引入，根据方差分析结果选择符合判据条件且对因变量影响最大的自变量进入回归模型。根据向前选择法则进入自变量;然后根据向后剔除法，将模型中 $F$ 检验概率最小的且符合剔除判据条件的自变量剔除，重复进行直到模型中的自变量均符合进入的判据条件，模型外的自变量都不符合进入模型的判据为止。逐步回归分析法会从相关性很强的自变量中选择最显著的因子放入回归模型，避免多重共线性问题。本文采用 $F$ 检验的概率作为判断标准，使用系统默认进入概率为小于0.05，移出概率为大于0.1。结果表明模型的决定系数 $R ^ { 2 } = 0 . 0 7$ ,说明模型拟合度较差。以显著性水平小于0.05作为自变量，对因变量具有显著影响的标准，得到多元线性回归模型为：
+
+$$
+E _ { 0 } = \mathrm { ~ - 0 . ~ } 0 4 7 \times T _ { \mathrm { ~ 4 ~ } } + 0 . 0 7 6 \times T _ { s _ { - } 2 0 } + 0 . 1 1 8 \times R _ { n } +
+$$
+
+$$
+0 . 0 7 3 \times W _ { s } + 0 . 3 8 2
+$$
+
+式中： $E _ { 0 }$ 表示逐小时蒸发强度( $\mathbf { \dot { m } } \mathbf { \dot { m } } ,$ ， $T _ { s \_ 2 0 }$ 取深度20cm处的湖水温度 $\big ( \mathrm { ‰ }$ 。模拟效果采用Nash效率系数来评价[29-31]。在逐小时尺度上, $1 0 \ \mathrm { c m }$ 深度水温 $T _ { s \_ 1 0 }$ 与 $2 0 ~ \mathrm { c m }$ 深度水温 $T _ { s _ { - } 2 0 }$ 之间的相关系数很大（超过0.8），但 $T _ { s _ { - } 2 0 }$ 的作用更显著，因此模型中剔除了Ts_100
+
+上述结果说明逐小时蒸发量近似为气温 $\cdot 2 0 \ \mathrm { c m }$ 处水温、净辐射和风速的线性回归值。将归一化数据还原为真实值，利用回归模型得到的蒸发量模拟值与蒸发皿蒸发量观测值比较，Nash效率系数仅为$\mathrm { N S E } = 0 . 0 7$ ，效果较差。这表明逐小时蒸发量并不单纯依赖于同期的气象要素，可能与更长时间尺度的气象环境变化有关。
+
+# 4逐日尺度动态分析
+
+# 4.1逐日蒸发量与气象要素的相关性
+
+逐日蒸发量与同期气象要素的相关性如图4所示。蒸发量与各气象要素的两两相关系数普遍大于0.1，但都小于0.5。其中，蒸发量与气温、水温的相关系数都接近0.4。
+
+# 4.2逐日蒸发量的回归模型
+
+与3.2所用方法类似，采用逐步回归分析法对
+
+归一化的逐日蒸发量与气象数据建立多元线性回归模型，得到的结果表示为：
+
+$$
+E _ { \scriptscriptstyle 0 } = 0 . 2 9 6 \times T _ { \scriptscriptstyle S \_ 2 0 } - 0 . 0 9 \times R _ { \scriptscriptstyle H } + 0 . 1 9 6 \times
+$$
+
+$$
+R _ { n } + 0 . 2 9 7 \times W _ { s } - 0 . 0 7 8
+$$
+
+该式说明，在逐日尺度下，蒸发量与 $2 0 \ \mathrm { c m }$ 处水温、湿度、净辐射和风速关系显著。气温、 $T _ { s \_ 1 0 }$ 和 $T _ { s \_ 2 0 }$ 之间具有很高的互相关系数，为了避免多重共线性问题，只有 $T _ { s _ { - } 2 0 }$ 被保留在回归模型中。
+
+将归一化数据还原,利用回归模型得到的蒸发量模拟值与蒸发血蒸发量观测值比较，结果如图5。相关系数 $R ^ { 2 } = 0 . 5 9$ ,Nash效率系数 $\mathrm { N S E } = 0 . 5 9$ ，说明回归模型总体效果较好。不过，当蒸发量较大时$\mathrm { \Lambda } ^ { \prime } > 8 \mathrm { \ m m } _ { \cdot } ^ { \cdot }$ ），线性回归模型的结果总体偏小，可能意味着蒸发量对气象要素的依赖性是非线性的。
+
+# 4.3非线性空气动力学模型
+
+在研究开放水体蒸发时,Mcjannet等[32]提出过一个考虑水体面积的风速函数，结合气压差得到空气动力学模型来估算逐日蒸发量，即
+
+$$
+E _ { 0 } = \left( 2 . 3 6 + 1 . 6 7 \times W _ { s } \right) \times A ^ { ^ { - 0 . 0 5 } } \times \left( e _ { s } - e _ { a } \right)
+$$
+
+式中： $A$ 为开放水体面积（对本文观测的湖泊有 $A =$ $1 . 2 4 \times 1 0 ^ { 6 } \ \mathrm { m } ^ { 2 } \$ ）； $\boldsymbol { e } _ { s }$ 为水面饱和水汽压 $( \mathrm { \ k P a } ) ; e _ { a }$ 为$2 \mathrm { ~ m ~ }$ 处的实际空气水汽压 $\left( \mathrm { { k P a } } \right)$ 。直接使用式(3)进行模拟,相关系数达到 $R ^ { 2 } = 0 . 5 9$ ,但Nash效率系数只有 $\mathrm { N S E } = 0 . 2 6$ 。效率低的原因，可能主要是风速函数与本地情况不适应造成的。为此，本文尝试将上述公式修正为：
+
+![](images/6003745601d2b7937aa3d2597e6bc34d041c5ba592753ad06f3a50c11d8dd7f4.jpg)  
+图4逐日蒸发量与气象要素的相关性  
+Fig.4Correlations between daily evaporation and meteorological factors
+
+![](images/9f22a96b83961d82b9d4baa29529f76a2fefd0b72c0e3a6a860b8b1a3998a138.jpg)  
+图5观测期逐日蒸发量实测和多元线性回归模型结果的动态曲线(a)及数据对比(b) Fig.5 Dynamic variation of daily evaporation（a）and comparison（b）between the results estimated by multiple linear regression model and the observed results
+
+![](images/47884d7094cffefbcacfeb62673b2688863f8960ac15bd660765ac784e45454e.jpg)  
+图6观测期逐日蒸发量实测和非线性空气动力学模型结果的数据对比
+
+$$
+E _ { 0 } = \left( 4 . 5 6 + 1 . 8 2 \times W _ { s } \right) \times A ^ { ^ { - 0 . 0 5 } } \times \left( e _ { s } - e _ { a } \right)
+$$
+
+式（4)可以较好地模拟实测蒸发量（图6），Nash效率系数显著提高到 $\mathrm { N S E } = 0 . \ 5 8$ 。当蒸发量较大（ $\mathrm { . > 8 ~ m m } ^ { \prime }$ )时，模拟结果偏小的情况得到改善。
+
+# 4.4使用 Penman 公式的效果
+
+在气象水文学领域，使用Penman公式计算逐日蒸发量是普遍做法。考虑到这一点，本文将观测的逐日蒸发量与Penman 公式[33]计算结果作对比,得到图7。两者相关系数 $R ^ { 2 } = 0 . 4 1$ ,Nash 效率系数${ \mathrm { N S E } } = 2 $ （负值表示模型失效）。Penman公式计算的逐日蒸发量夏季波动大、冬季波动小，而观测值全年都表现出较强的振荡。而且，Penman公式在夏季计算结果偏大，而在冬季计算结果偏低。Penman 公式给出的日平均蒸发量达到 $5 . 9 7 \ \mathrm { m m }$ ,显著大于观测的日平均蒸发量 $( 3 . 7 4 ~ \mathrm { m m }$ )。蒸发皿观测值的确可能是偏低的，因为存在一定的盐度效应。蒸发皿的桶深是 $6 0 \ \mathrm { c m }$ ，两次换水期间的累计蒸发深度小于 $2 0 ~ \mathrm { c m }$ 。根据前人文献[34],2011 年以来苏木巴润吉林湖水总溶解性固体(TDS)季节性变化可能区间为 $1 1 0 \sim 1 6 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ ,据此换水前蒸发皿内水体的TDS 增加幅度最大可达 $5 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ 。沈士平[27]通过观测研究发现,在夏秋季 TDS 每增加 $1 0 0 \textrm { g } \cdot \textrm { L } ^ { - 1 }$ ，可导致月蒸发量降低 $4 9 \sim 8 2 \ \mathrm { m m }$ 。若按比例来评估，则盐度效应导致本文蒸发量观测的误差在1.5$\mathbf { m } \mathbf { m } \cdot \mathbf { d } ^ { - 1 }$ 以内。这说明即使考虑盐度效应，蒸发皿逐日观测值偏低的幅度也不会大于 $1 . 5 ~ \mathrm { m m }$ ,解释不了Penman公式结果与观测值如此大的偏差。尽管在模拟天然水体蒸发量的方法中，Penman公式的应用最为广泛，但笔者推测，该公式可能并不适用于巴丹吉林沙漠湖泊的特殊情况。
+
+# 4.5逐日蒸发量与湖水位变化的相关分析
+
+从机理上讲,蒸发是驱动湖水位下降的一个因素。为定量评价两者的关系，本文绘制了逐日蒸发量与湖水位变化（上升为正、下降为负）的相关图（图8）。两者的相关系数为0.027，总体相关性较弱，但负相关的关系符合湖水位变化的控制机理。
+
+上述湖水位逐日变化与逐日蒸发量的关系可以近似表示为：
+
+$$
+E _ { 0 } = - 0 . 0 4 4 \times \Delta H + 3 . 6 2 3
+$$
+
+式中： $\varDelta H$ 为湖水位变化量。该模型的Nash效率系数 $\mathrm { N S E } = 0 . 0 2 7$ ,效果不佳。这说明在逐日尺度上，蒸发量不能简单的由当日湖水位变化来反映，还需
+
+![](images/6577f27d8b4e7370f08c168ae16ff11e732ac2be9025cbc9fc792167c8932bd7.jpg)  
+Fig.6Comparison between the daily evaporation results estimated by nonlinear aerodynamic model and the observed results   
+图7观测期逐日蒸发量实测值和Penman 公式结果的动态曲线(a)及数据对比(b) Fig.7Dynamic variationofdailyevaporation（a）and comparison（b）betweentheresults estimated by Penman Equationand the observed results
+
+![](images/9c31994dcefdc507b8699c1353ab2f8631d2c0c4ddd99e1f4c37159b1b2f10ee.jpg)  
+图8逐日蒸发量与湖水位变化的相关性  
+Fig.8Correlation between the daily evaporation observed by evaporation pan and the variation of lake water level   
+图9逐月蒸发量与气象要素的相关性
+
+要考虑其他动力学因素。
+
+# 5逐月动态分析与年蒸发量
+
+# 5.1逐月蒸发量与气象要素的相关性
+
+在月时间尺度下，蒸发量与气象要素的相关性如图9所示。蒸发量与气温和水温的相关性最好，相关系数达到0.9以上；与气压、净辐射和风速的相关性次之，相关系数在 $0 . 5 9 \sim 0 . 7 2$ ;与湿度、风向相关性较差，相关系数小于0.5。
+
+# 5.2非线性空气动力学模型
+
+由于数据量较少（数据点不足20个），不宜进行气象要素与逐月蒸发量的多元线性回归分析。不过，如式(3)和式(4)所示的非线性空气动力学模型所需要的气象要素较少，利用有限的数据校正风速函数，可以得到：
+
+$$
+E _ { 0 } = \left( 7 4 . 0 4 + 7 . 3 4 \times W _ { s } \right) \times A ^ { ^ { - 0 . 0 5 } } \times \left( e _ { s } - e _ { a } \right)
+$$
+
+该模型结果的相关系数 $R ^ { 2 } = 0 . \ : 9 1 \$ ,Nash效率系数$\mathrm { N S E } = 0 . 9 0$ ，能够较好地模拟逐月蒸发量的变化。
+
+# 5.3关于年蒸发量的讨论
+
+对上述逐月蒸发量进行累加，可以得到逐年蒸发量。在2013年6月至2014年5月这个观测期内，个别缺失蒸发数据，根据相邻的数值进行线性插值。依据蒸发皿观测结果和非线性空气动力学模型，计算得到的年蒸发量分别为 $1 \ 2 6 0 \ \mathrm { m m }$ 和1312$\mathbf { m } \mathbf { m }$ ,远小于前人研究[17-18]中推测的 $2 \ 0 0 0 \ \mathrm { m m }$ 以上的年蒸发量。由于存在盐度效应，相对于实际的湖面蒸发而言，蒸发皿的蒸发量数据偏小。假设蒸发皿每次换水之前，TDS的增加值是从零线性增加到$5 0 \ \mathrm { g \cdot L ^ { - 1 } }$ ,则盐度效应[27]初步可以用TDS 高于湖水 $2 5 \ \mathrm { g \cdot L ^ { - 1 } }$ 的程度来评估，则夏秋季6个月产生的累计蒸发量误差小于 $1 2 0 \ \mathrm { m m }$ ,冬春季蒸发强度很小，附加的误差应小于 $1 0 0 ~ \mathrm { { m m } }$ ，因此,蒸发皿得到的年蒸发量可能偏低 $1 0 0 \sim 2 0 0 \mathrm { m m }$ 。按照这个估计，
+
+180 180 180 y=4.816x+58.019 y=6.001x+31.214 15082715 T R2=0.858 . . 120 R²=0.918 7 · 90 . 量 90 量90 . 发 . 发 60 60 燕60 T   
+蒸 蒸 30 (a) 30 ！ (b) 30 上 (c) 0 J 0 J 0 1 -10 -5 0 5 10 15 20 2530 -10-5 0 5 10 15 20 2530 -10-5 0 5 10 15 20 2530 TA/℃ Ts-0℃C Ts-20/℃ 180 . y=-3.717x+241.088 180 y=2.166x-183.296 · 180 · 150 ·R²=0.336 150 R²=0.248. 120 .   
+uu/ u/ · 120 . . 120 . . · +   
+量 90 量 90 量90 60 · . 60 ： 60 y=-8.874x+7 931.595 30 ： . (d） 30 · · (e) 30 R²=0.718 … · . (f) 0 J 0 J 0 10 20 30 40 50 60 70 80 100 120 140 160 180 870 875 880 885 890 895 RH/% WD/) Ap/hPa 180 180 y=1.027x+63.195· y=173.433x-134.294 150 R²=0.598 . 120FR-04 .. · · . ： . 9060 . 0   
+蒸 . · 30 ？ ： (g) 30 ： (h) 0 J 0 J -50 0 50 100 150 0.7 0.9 1.1 1.31.51.7 1.92.1 R/(w·m-2) Ws/(m ·s-1)
+
+Fig.9 Correlation between the monthly evaporation observed by evaporation pan and the meteorological factors则实际年蒸发量很可能是 $\mathrm { ~ 1 ~ 3 0 0 \sim 1 ~ 5 0 0 ~ m m }$ ,也显著低于 $2 0 0 0 ~ \mathrm { { m m } }$ 。沈士平[27]利用 2012 年巴丹吉林沙漠蒸发血观测试验数据分析得到的全年淡水蒸发量是 $1 ~ 4 9 7 ~ \mathrm { m m }$ ,本文对年蒸发量的评估结果与此很接近，说明低于 $1 \ 5 0 0 \ \mathrm { m m }$ 的年蒸发量对于巴丹吉林沙漠的湖泊来说是更加符合实际的。
+
+# 6结论
+
+（1）通过对沙漠腹地湖泊监测的长时间序列气象数据的分析，得出由逐小时、日到月尺度，蒸发量与气象要素的相关性逐渐增强，说明随着时间尺度的延长，一些影响蒸发量的因素其作用逐渐被抵消;在逐小时尺度下，蒸发量与气象要素的相关性都较低，日和月尺度下，蒸发量与气温和水温的相关性最高。
+
+（2）在逐小时尺度下，多元线性回归模型和空气动力学模型都不能较好地模拟湖泊水面蒸发量，表明短时间尺度蒸发机理更为复杂，需深入研究。逐日尺度下，多元线性回归模型可以较好地模拟湖泊水面蒸发量，其中风速 $\ 、 2 0 \ \mathrm { c m }$ 处水温和净辐射在蒸发中所占的权重较大；依据湖水位逐日降幅不能很好地模拟蒸发量，还需要考虑其他因素；由于其地区性特点，原始Penman公式模拟的湖泊水面蒸发量效果较差。逐日和逐月尺度下，修改的非线性空气动力学模型可以都较好地模拟湖泊水面蒸发量。
+
+（3）依据2013年6月至2014年5月蒸发皿观测结果，并进行盐度效应校正，得到湖泊水面的年蒸发量为 $1 ~ 3 0 0 \sim 1 ~ 5 0 0 ~ \mathrm { m m }$ 。但蒸发皿内的水体热通量与湖泊水体热通量对蒸发的影响存在差异，增加了蒸发血测量蒸发的不确定性，值得今后深入研究。
+
+# 参考文献（References）：
+
+[1]Wang S,Huang J,Li J,et al.Assessment of water budget for sixteen large drainage basins in Canada[J].Journal of Hydrology, 2014,512(6) :1 -15.   
+[2] FathianF,MoridS,Kahya E.Identification of trends in hydrological and climatic variables in Urmia Lake basin,Iran[J].Theoretical& Applied Climatology,2015,119（3/4）:443-464.   
+[3] WurbsRA,Ayala RA.Reservoir evaporation in Texas,USA[J]. Journal of Hydrology,2014,510(6):1-9.   
+[4] Martinez-MartinezE,Nejadhashemi AP,WoznickiSA,etal.Modeling the hydrological significance of wetland restoration scenarios [J].Journal of Environmental Management,2014,133（133C）： 121 -134.   
+[5] Moghaddasi M,Morid S,Araghinejad S,etal.Assessment of irrigation water allocation based on optimization and equitable water reduction approaches to reduce agricultural drought losses :The 1999 drought in the Zayandeh RUD irrigation system （Iran）[J].Irrigation & Drainage,2010,59(4）:377 -387.   
+[6]Tanny J,Cohen S,Assouline S,et al.Evaporation from a small water reservoir:Direct measurements and estimates[J].Journal of Hydrology,2008,351(1/2）:218-229.   
+[7]Valiantzas JD.Simplified versions for the Penman evaporation equationusingroutineweatherdata[J）.JouralofHydrology, 2006,331(3):690 - 702.   
+[8]Rind D C.Rosenzweig A,Stieglitz M.The role of moisture transport between ground and atmosphere in global change[J]. Annual Review of Energy &the Environment,1997,22(1):47-74.   
+[9]Marinoni E,Di N T,Caramanico L,et al.Climate change and water resources in lebanon and the middle east[J]. Journal of Water Resources Planning& Management,2002,128（5）:343-355.   
+[10]Kustas W P.Estimates of evapotranspiration with a one-and twolayer model of heat transfer over partial canopy cover[J]. Journal of Applied Meteorology,2010,29（8）:704-715.   
+[11]Ortega-Farias S O,Cuenca RH,English M.Hourly Grass Evapotranspiration in Modified Maritime Environment[J]. Journal of Irrigation & Drainage Engineering,1995,121(6）:369 -373.   
+[12］王乃昂,宁凯,李卓仑,等.巴丹吉林沙漠全新世的高湖面与泛 湖期[J].中国科学:地球科学,2016,46(8):1 106-1 115. [Wang Nai'ang,Ning Kai,Li Zhuolun,et al.Holocene high lakelevels and pan-lake period on Badain Jaran Desert[J].Science China Earth Sciences,2016,46(8):1 106-1 115.]   
+[13] Zhang X,Wang N,Xie Z,et al. Water loss due to increasing planted vegetation over the Badain Jaran Desert,China[J].Remote Sensing,2018,10(1） :134.   
+[14]Wang X,and Zhou Y.Investigating the mysteries of groundwater in the Badain Jaran Desert,China[J].Hydrogeology Journal,2018, 26:1 -17.   
+[15]Zhang K,CaiD,Ao Y,et al.Local Circulation Maintains the Coexistence of Lake-dune Pattern in the Badain Jaran Desert[J].Scientific Reports,2017,7:40 238.   
+[16]Ma Y,Zhao J,Luo X,et al.Hydrological cycle and water balance estimates for the megadune-lake region of the Badain Jaran Desert, China[J].HydrologicalProcesss,201731(18）:35568.   
+[17]Chen JS,LiL,Wang JY,etal.Groundwater maintains dune landscape[J]. Nature,2004,432(7 016）:459 -60.   
+[18]Gates JB,Edmunds W M,Ma J,et al.Estimating groundwater recharge in a cold desert environment in northern China using chloride[J].Hydrogeology Journal,2008,16(5）:893-910.   
+[19］马宁.巴丹吉林沙漠能量分配与湖泊蒸发量的观测研究[D]. 兰州：兰州大学,2012.[Ma Ning.Observation of Energy Partitioning and Lake Evaporation in the Badain Jaran Desert〔D]. Lanzhou:Lanzhou University,2012.]   
+[20］王旭升,胡晓农,金晓媚,等.巴丹吉林沙漠地下水与湖泊的相 互作用[J].地学前缘,2014,21（4）:91-99.[Wang Xusheng, Hu Xiaonong,Jin Xiaomei,et al.Interactions between groundwater and lakes in Badain Jaran Desert[J].Earth Science Frontiers, 2014,21(4) :91-99. ]   
+[21]Yang XP,Ma N,Dong JF,et al.Recharge to the inter-dune lakes and Holocene climatic changes in the Badain Jaran Desert,Western China[J]. Quaternary Research,2010,73(1）:10-19.   
+[22］胡文峰,王乃昂,赵力强,等.巴丹吉林沙漠典型湖泊湖气界面 水一热交换特征[J].地理科学进展,2015,34（8)：1061- 1 071.[Hu Wenfeng,Wang Nai'ang,Zhao Liqiang,et al.Waterheat exchange over a typical lake in Badain Jaran Desert,China [J].Progress in Geography,2015,34(8）:1061-1 071.]   
+[23]张竞，王旭升，胡晓农，等.巴丹吉林沙漠湖泊水分补给机制的 模拟——以苏木吉林湖区为例[J].湖泊科学,2017,29（2)： 467-479.[Zhang Jing,Wang Xusheng,Hu Xiaonong,et al.Research on the recharge of the lakes in the Badain Jaran Desert: Simulation study in the Sumu Jaran lakes area[J].Journal of Lake Sciences,2017,29(2) :467-479.]   
+[24」马宁，王乃昂.巴丹吉林沙漠腹地湖泊水面蒸发模拟的特殊性 [J].干旱区研究,2016,33(6）:1141-1149.[Ma Ning,Wang Nai'ang.On the simulation of evaporation from lake surface in the hinterland of the Badain Jaran Desert[J].Arid Zone Research, 2016,33(6):1141-1 149.]   
+[25]张竞，王旭升，贾凤超,等.对内蒙古阿拉善西部地下水流向问 题的新认识[J].现代地质,2015（1）：213-219.[Zhang Jing， Wang Xusheng,Jia Fengchao,et al.New insights into the flow directions of groundwater in Western Alxa,Inner Mongolia[J].Geoscience,2015(1):213-219.]   
+[26]陈添斐，王旭升，胡晓农，等.巴丹吉林沙漠盐湖跃层对地下淡 水排泄的指示作用[J].湖泊科学，2015,27（1)：183－189. [Chen Tianfei,Wang Xusheng,Hu Xiaonong,et al.Clines in salt lakes in the Badain Jaran Desert and their significances in indicating fresh groundwater discharge[J].Journal of Lake Sciences, 2015,27(1) :183-189.]   
+[27］沈士平.基于观测的巴丹吉林沙漠湖泊蒸发盐度效应研究 [D].兰州：兰州大学,2014.［Shen Shiping.Based on the Observation of the Badain Jaran DesertLakes Evaporation Salinity Effect
+
+Kesearch[D」.Lanzhou:Lanzhou University,∠U14.」 [28]贾俊平.统计学[M].北京：中国人民大学出版社,2008.［Jia Junping. Statistics[M].Beijing:China Renmin University Press,   
+2008.] [29]Nash JE,Sutcliffe JV.River flow forecasting through conceptual models part I:A discussion of principles[J]. Journal of Hydrology,   
+1970,10(3) :282-290. [30]David R Legates,Gregory J,McCabe Jr.Evaluating the use of “ goodness-of-fit”Measures in hydrologic and hydroclimatic model validation[J].Water Resources Research,1999,35（1）:233-   
+241. [31]MoriasiDN,ArnoldJG,Van Liew MW,et al.Model evaluation guidelines for systematic quantification of accuracy in watershed simulations[J]. Transactions of the Asabe,2007,50（3）:885-   
+900. [32]Mcjannet DL,WebsterIT,Cook FJ.An area-dependent wind function for estimating open water evaporation using land-based meteorological data[J].Environmental Modeling & Software,   
+2012,31(6) :76 -83. [33]Penman HL.Natural evaporation from open water,hare soil and grass[J].Proceedings of the Royal Society of London,1948,193 (1032):120. [34]吴月，王乃昂，赵力强，等.巴丹吉林沙漠诺尔图湖泊水化学特 征与补给来源[J].科学通报,2014,59（12）：1140－1147. [Wu Yue,Wang Nai'ang,Zhao Liqiang,et al.Hydrochemical characteristics and recharge sources of Lake Nuoertu in the Badain Jaran Desert[J].Chinese Science Bulletin,2014,59（12）:1 140 -   
+1 147.]
+
+# Dynamic Relationship between Lake Surface Evaporation and Meteorological Factors in the Badain Jaran Desert
+
+HAN Peng-fei， WANG Xu-sheng， HU Xiao-nong， JIANG Xiao-wei， ZHOU Yan-yi(Key Laboratory of Groundwater Circulation and Evolution ofMinistry of Education，China University ofGeosciences，Beijing 100o83，China）
+
+Abstract：Alarge number of lakes aredistributed inthe Badain Jaran Desert located in northwest China.Water evaporation is akey factor in lacustrine water cycle and even anentire desert.In this paper,thedynamic relationships between evaporation and meteorological factors were analyzed based on the long-term meteorological and evaporative data monitored by automatic weather station at the Sumu Barun Jaran Lake from September11,2O12 to March 26, 2013and from May8,2013 to June 23,2015 as well as the pressure intensitydata at the lake botom observed from September 13,2012 to June 20,2014.The multiple linear regresion model,nonlinear aerodynamic model and Penman equation were used to simulate and analyze the hourly,dailyand monthly evaporations.The results indicated thatthe correlations between evaporation and meteorological factors were enhanced with the time prolonging.At the hourlytime scale,the correlations between evaporationand meteorological factors were poor,and the evaporation could not be simulated wellbythe multiple linear regression model.At the dailyand monthlytimescales,evaporation was closely corelated with air temperatureand water temperature in the same period,and the evaporation could be modeled wellby the multiple linear regression model and nonlinear aerodynamic model.The daily evaporation modeled by Penman equation was higher in summerbut lower in winter.The results could provide a scientific basis for assessing the water consumption by lake surface evaporation in desert.
+
+KeyWords:evaporation;meteorological factor;multiple linear regresson;Sumu Barun Jaran;Badain Jaran Desert

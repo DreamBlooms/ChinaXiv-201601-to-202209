@@ -1,0 +1,398 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201707111250 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆咏晴,严岩,丁丁,赵春黎,宋杨,赵景柱.我国极端降水变化趋势及其对城市排水压力的影响.生态学报,2018,38（5)：1661-1667. LuYQ,YanY,DingD,ZaoCLSongY,ZhaoJZ.TendsofextreeprecipiationininaandteirifuenceonubandrainagepreureActa Ecologica Sinica,2018,38(5) :1661-1667. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国极端降水变化趋势及其对城市排水压力的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陆咏晴1²，严 岩\\*，丁丁³,赵春黎¹，宋 扬，赵景柱1,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京100085  \n2中国科学院大学，北京100049  \n3北京大学，北京100871  \n4中国科学院城市环境研究所，厦门361021",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：全球气候变化对水循环具有重要影响,其中极端降水的变化,对城市排水系统产生巨大冲击,造成城市内涝、交通瘫痪及生命财产损失等问题。为了揭示我国极端降水变化的趋势和区域特征,及其对城市排水系统的压力程度,使用中国气象数据中心 1951—2014年全国917个站点的逐日降水量,计算得到我国极端降水及其变化趋势的空间分布特征。并以我国 289 个主要地级城市为研究对象,构建了气候变化情景下的城市排水压力评估方法,预测并展望了不同时段和不同代表性浓度路径（ $\\mathrm { R C P s }$ )情景下,未来城市的排水压力情况。结果表明,我国极端降水整体上正随着全球气候变化而增加,全国年最大降水量变化速度的平均值为 $0 . 0 6 \\mathrm { { m m } / \\mathrm { { a } } }$ ,但并不是所有区域都具有一致性,具体表现为南部极端降水增加而北部缓解的规律。我国排水压力大的城市主要分布在南部和东北地区,城市排水基础设施完善的东部和极端降水量比较小的西部地区城市排水压力比较低,华北地区极端降水的随机性大,历史上出现的最大降水显著高于该地区常见大雨,也属于内涝风险比较大的区域。随着气候变化的影响,我国未来城市排水压力整体上升,城市未来短期排水压力相对于现有水平总体上升 $2 . 9 \\%$ ，具体75个城市的排水压力有所增加明显。且低应对的RCP8.5情景显著高于高应对的 $\\operatorname { R C P } 2 . 6$ 情景,这说明减缓气候变化的工作对降低我国城市内涝风险有比较大的积极意义。我国城市排水压力的变化也具有区域性,华北地区极端降水呈现减少的趋势,南部地区极端降水呈现增加趋势,加重了该地区原本就很高的城市内涝风险,需要政府采取积极措施提出有针对性的方案和考虑了气候变化的前瞻性城市排水规划,以降低城市排水压力,尽量减少城市内涝造成的经济损失。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城市；气候变化;极端降水;排水压力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Trends of extreme precipitation in China and their influence on urban drainage pressure S ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LU Yongqing1,²，YAN Yan1,\\*，DING Ding³， ZHAO Chunli1， SONG Yang1， ZHAO Jingzhu1,4   \n1StateKeyLaboratoryofUrbanandRegnalEcologyResechenterforEco-EnviroentalSciences，ChineseAcdemyofSiences，Being   \n100085，China   \n2 University of Chinese Academy of Sciences，Beijing 10o049，China   \n3 Peking University， Beijing 100871, China   \n4 Institute of Urban Environment，Chinese Academy of Sciences， Xiamen 361021,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Extreme precipitation，which cancause waterlogging，block traffcand harm residents’health in urban areas, hasincreased withongoing globalclimate change.Weused precipitation dataof917meteorological stationsduring 1951- 2014 to estimate changes in extreme precipitation in China，and created a system to evaluate 289 primary local cities' pressures ofdiferent timeand diferent RCPsonurban drainagesystems under heavy rainfall in China.Theresults show thatextreme precipitation is increasing in China with global warming，andtheannual maximumprecipitation is increasing by $0 . 0 6 \\mathrm { { m m } / \\mathrm { { a } } }$ .However,these increases are not uniform across China.In some areas of North China，extreme precipitation haseven declined whilesouth areasarebecoming serious.Pressures onthedrainage systems ofcities are greaterinthesouth and northeast than inthe northand west becauseof paternsof precipitation in China.In North China，pecuniary loses caused by waterloggingand flooding in citiesare greater where precipitationis morerandom.Urbanization construction also impacts drainage pressre；cities in the east and along the coasts，which have beter infrastructureto manage waterlogging, have less pressure on their drainage systems.These pressures will increase about $2 . 9 \\%$ after 2O years later relatively to present situations of climatechange，and concretely there are75 local cities in China whose pressres areincreased absolutely.Pressuresondrainage systems in China are projected to increase inthe future underboth RCP2.6and RCP8.5, although RCP8.5 is associated with greaterpresure，which indicates that mitigationof climate change maydecrease waterloggingandflooding in China.Cities in North China willbenefit from climatechange interms ofreduced pressureon drainage systems，andwillhavelowerrisksof waterlogginginthe future.Therisksofwaterlogging are highest in southern cities，and are projected to increase in the future with climatechange.The government should focus on such cities with greater pressures on their drainage system to protect economic development from the risks of waterlogging. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:city；climate change；extreme precipitation；drainage pressure ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于全球变暖,地球表面的温度升高,地表水的蒸发量变大,大气中的水分增加,导致一些地区的极端降水增加,特别是受季风影响的地区,气候变化最为快速[1,2]。Groisman等人的研究表明强降水事件在中国、美国、加拿大、波兰、苏联、墨西哥、挪威等国家都有增加趋势[3]。气候变化影响着全球水循环,造成水资源的重新分配[1,4.5],在此背景下,了解城市面临的极端降水情况和城市的排水压力是有比较大的研究意义的。在自然环境之下,雨水下落之后被植物截留,吸收,然后落人土壤,通过土壤颗粒的缝隙下渗,成为地下水,剩余的部分通过径流,流入其他地区,最终流入大海[6]。但长期以来,我国在城市建设中,地面硬化面积过大、城市排水系统老化、蓄水设施不足,再加上对河流、湖泊等天然蓄水设施的填埋,导致城市排水能力严重不足;城市每年因为内涝遭受巨大的经济和人口损失[]。2011年,住房和城乡建设部对全国352个城市进行的调研表明,在2008 年至2010年之间， $6 2 \\%$ 的城市发生过内涝,其中发生过3次以上的城市有137座[8。由于全球变暖,部分地区的极端降水不断加剧,城市排水防涝面临新的挑战,研究气候变化情况下我国城市的排水压力情况有利于城市建设规划和政策的制定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外研究人员普遍使用排水水力模型来模拟城市的排水过程,使用比较多的包括：SWMM 模型、Wallngford 公司的InfoWorks水力模型、DHI公司的MIKE软件等[9-13]。这些模型考虑了排水管网结构，下垫面透水情况、建筑物、地形 当地降水等信息,其目的是精确评估城市的排水系统运作效率,找出排水设施的薄弱环节,为城市规划设计提供具体参考意见。本文的主要目的是比较各区域城市排水压力相对大小,研究气候变化给各区域的城市排水压力造成的影响,从而为我国城市适应气候变化总体政策提供支持。上述模型的空间尺度比较小,并不适用本文的研究。城市的地面条件与城市排水能力有关,特别是城市绿地区域,透水率比较高,在发生降水时能够减少流域的径流系数,但是在强降水情况下,绿地对降水径流的影响将会弱化,影响系数比较低[14]。在强降水条件下,城市的排水主要依靠排水管道等排水设施,故本研究不考虑城市绿地等透水面对城市排水能力的影响,直接适用排水管网的密度与降水量衡量城市的排水压力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究数据和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的城市为我国289个主要地级市,使用的数据包括气象数据和统计数据两个部分。气象数据是国气象数据中心提供的917个站点从1951年到2014年逐日降水量数据,将该数据集进行筛选,选择超过40",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "年,每年缺失数据少于3个月的数据。城市统计数据包括《中国城市统计年鉴 2014》中城市排水管长度、城市建成区面积等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 相关气象因子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "极端降雨是指超过该地常见降水值的降水事件,发生概率比较低,欧盟的 STARDEX计划对欧洲地区的极端降水事件进行了研究,给出了几种极端降水指数的定义[15],本文选取了极端降水量、年最大降水量和历史最大降水量作为与城市排水情况相关的气象因子（表1）。 \\~",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/78ff54d053057099a3ea0e27eb79e6dd9f9bfcd3afd7421dcc5eb2387282713b.jpg",
+        "table_caption": [
+            "表1气象因子",
+            "Table1 Meteorological Factor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气象因子 Meteorological factor</td><td>代号 Symbol</td><td>说明 Explain</td><td>单位 Unit</td></tr><tr><td>极端降水量 Extreme precipitation</td><td>Rex</td><td>将站点1951—2014年内降水量升序排列,取位于95%处降水为极端降水 值,该指标可以反映该区域内常见大雨的状态</td><td>mm</td></tr><tr><td>年最大降水量umpreitaion 历史最大降水量</td><td>R</td><td>站点一年内的最大降水量</td><td>mm</td></tr><tr><td>Historical maximum precipitation</td><td>Rmax</td><td>站点1951—2014年内出现的最大降水量</td><td>mm</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2年最大降水量相对变化率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用一元线性回归分析计算随着时间变化年最大降水量变化速度(公式1一3)。使用站点年最大降水量的变化速度与该站点的极端降水量,计算年最大降水量的相对变化率(t),相对变化率可以衡量在原本极端降水量的基础上,变化速度的相对大小（公式4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = { \\overline { { R } } } - b { \\bar { x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $R$ 为年最大降水量( $( \\dim )$ $x$ 为年份； $b$ 为年最大降水量变化速度( $\\mathrm { m m / a }$ ）； $\\mathbf { \\alpha } _ { a }$ 为回归公式截距； $\\mathit { \\Pi } _ { \\overline { { R } } } ^ { - }$ 为年最 大降水量平均值(mm）;x为年份平均。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = { \\frac { b } { R _ { \\mathrm { e x } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中,t为年最大降水量相对变化率 $( \\% ) \\mathbf { a } , \\mathbf { \\bar { a } } ,$ ： $b$ 为年最大降水量变化速度( $\\mathrm { m m / a }$ : $R _ { \\mathrm { e x } }$ 为极端降水量（mm）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4反距离插值分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文本所用气象数据皆为气象站点数据,由气象站点气象因子值推断出区域气象情况需要使用空间插值分析方法,反距离插值分析法是空间插值的一种,该方法基于地理第一定律,以插值点与样本点之间反距离的 2次幂为权重进行加权平均。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "城市排水压力指数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)基于极端降水量的城市排水压力指数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "决定城市排水能力的因素有很多,城市的排水能力与地形起伏、坡度大小、下垫面和城市绿化情况都有关[16],但是在城市当降水发生后,特别是强降水发生后,雨水主要仍通过排水管道快速排出,由城市排水管道所构成的城市排水系统与城市排水能力直接相关,排水管网密度较高,城市排水能力更高[14]。城市的极端降",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水量是城市面临的比较常见的大雨降水量,在此条件下,城市极端降水与城市排水管道的比值,可以表示城市面临常规大雨时的排水压力（公式5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { _ 1 } } = { \\frac { R _ { \\mathrm { e x } } } { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { P } _ { 1 }$ 为基于极端降水量的城市排水压力指数; $m$ 为城市排水管网密度( $\\mathrm { k m } / \\mathrm { k m } ^ { 2 }$ ） $R _ { \\mathrm { e x } }$ 为极端降水量（mm）c",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)最大降水情景下的城市排水压力指数 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国降水极为不均匀部分城市常年降水量不大,但是偶尔发生的大雨将给城市带来比较强的内涝风险计算最大降雨量和城市的排水管道的比值,可以计算出城市过去最大的排水压力情况(公式6)。（",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { 2 } } = { \\frac { R _ { \\mathrm { m a x } } } { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， ${ \\boldsymbol { P } } _ { 2 }$ 为最大降水情景下的排水压力指数； $R _ { \\mathrm { m a x } }$ 为历史最大降水量( $\\mathbf { m } \\mathbf { m }$ ） $m$ 为城市排水管网密度。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)气候变化对城市排水压力的影响力",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了考虑现在的气候情况之外,未来的气候变化情况城市排水压力的影响也不容忽视,在气候变化的影响下,未来城市面临的排水压力将有所改变。可使用( $1 + n \\times t _ { s } )$ 对未来城市排水压力进行修正（公式7）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文预测了我国城市近期及远期两个时间段的城市排水压力,其中使用20 年代表近期时段,50年代表远期时段,由于气候变化趋势具有连续性,近期的极端降水变化速度无明显改变。远期的气候变化速度受人为影响,有比较大的不确定性,为了预测在不同情景下的城市排水压力,本文引入了 IPCC 提出的代表性浓度路径（RCPs)情景,其中最有代表性的是低应对RCP8.5 和高应对RCP2.6情景模式,在RCP8.5情景下,平均气温上升速度为 $6 . 5 9 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { a }$ ,而在RCP2.6情景下,平均气温上升速度为 $1 . 0 6 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { a } ^ { [ 1 7 ] }$ 。与过去100 年全球平均气温上升速度为 $0 . 6 8 ^ { \\circ } \\mathrm { C } / 1 0 0 \\mathrm { a }$ 对比[18]，使用气温变化速度来代表气候变化的程度,假设极端降水天气的变化与气候变化速度有一致性，则在RCP8.5情景下年最大降水量相对变化率 $t _ { 8 . 5 }$ 为原本相对变化率的9.68倍。在RCP2.6情景下年最大降水相对变化率 $t _ { 2 . 6 }$ 为原本相对变化率的1.56 倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\widetilde { \\mathbf { \\nabla } } P _ { s } = \\right) _ { m } ^ { R _ { \\mathrm { e x } } } \\times \\left( 1 + n \\times t _ { s } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { s }$ 为未来城市排水压力指数 $\\mathcal { P } _ { 3 }$ 为近期城市排水压力指数 $\\phantom { } \\cdot P _ { 8 . 5 }$ 为 RCP8.5情景下远期城市排水压力指数 $\\cdot ^ { P _ { 2 . 6 } }$ 为RCP2.6情景下远期城市排水压力指数）； $R _ { \\mathrm { e x } }$ 为极端降水量; $m$ 为城市排水管网密度; $t _ { s }$ 为不同情景下的年最大降水相对变化率(近期 $t _ { \\scriptscriptstyle s } = t$ ；远期 $t _ { s } = t _ { 8 . 5 }$ 或 $t _ { 2 . 6 } ) : n$ 为预测时间与基准时间的年份差(a)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)城市排水压力分级",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了表现城市之间排水压力的相对差异,将各种情况下的城市排水压力指数等分为10个等级,并使用连续色阶绘制地图，以便能反映出城市排水压力的区域分布规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1我国极端降水及变化趋势 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据图1,可以看出我国各区域的极端降水和历史最大降水差别很大,由于受到太平洋东南季风的影响，从西北到东南逐渐增加,呈现阶梯状分布。整体上来看,我国历史最大降水量与极端降水的分布基本一致,但是历史最大降水量的偶然性比较大,阶梯状不是特别明显,河北、四川、江西、河南部分地区的极端降水量比较低,反映该地区常规大雨并不大,但是降水不稳定,偶然出现的强降水天气可能十分严重,完全不低于南部湿润地区，给上述地区的排水工作造成极大的压力，也属于城市内涝高发区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国年最大降水量变化速度的平均值为 $0 . 0 6 \\mathrm { { m m } / a }$ ,表明我国极端降水天气正随着全球气候变化而增加，然而我国极端降水天气的变化情况存在明显的区域差异性，我国北方大部分地区年最大降水量呈现降低趋势,其中华北地区降低趋势最明显。而我国南方地区和青藏高原南部,年最大降水量的增加趋势明显,西部广:大降水量分布图;(b)极端降水量分布图;(c)年最大降水量变化速度分布图;(d)年最大降水量相对变化率分布图大地区的年最大降水量也处于增加趋势,但是增加量不如南方地区。我国年最大降水量相对变化率与年最大降水变化速度总体分布基本相似，区别比较大的区域是我国西北地区，其年最大降水量的增加速度不快，但是由于该地区的总体降水量少,相对变化率也就比较大。而南部沿海地区的年最大降水增加速度绝对值比较大,但是这些地区原本的降水量就比较大,相对变化率反而不高。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b18f1375ad41a229d46bf7e99d7bbec06326af71870ee9e23d26f3c7cf09665c.jpg",
+        "img_caption": [
+            "图1我国1951—2014极端降水及分布趋势图",
+            "ig.1Extreme precipitation situation and it's change in China during 1951—2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2我国城市排水压力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我国基于极端降水量的城市排水压力( $\\left( P _ { 1 } \\right)$ )总体上呈现南高北低的分布,常年排水压力比较小的城市主要集中在我国东部沿海地区,主要原因是这些城市的经济条件比较好,城市的排水管网密度高,西部及北部地区城市常年排水压力也比较低,这是因为这些地区的降水量较低,城市的排水压力相应比较低。压力较大的城市主要在我国南部和东北地区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "我国城市历史上面临的最大排水压力 $( P _ { 2 } )$ 与城市常年排水压力的分布相似，均为南部高而北部低的分布规律,只有我国华北地区城市变动比较大,这些城市的降水量虽然不如南部地区,但是降水集中,随机性大，历史最大降水量超过极端降水量较多，有比较大的内涝风险。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着全球气候变化,未来20年后，我国城市排水压力 $( P _ { 3 } )$ 与 $\\boldsymbol { P } _ { 1 }$ 相比整体上是增加的,但是总体分布并未(a)基于极端降水量的城市排水压力;(b)城市历史最大排水压力；(c)近期城市排水压力指数；(d)RCP2.6情景下城市远期排水压力指数(e)RCP8.5情景下城市远期排水压力指数",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e83b21b36a2cdef5f0760163ef93ba00668a307c7aa127b6baf30a18ce20d244.jpg",
+        "img_caption": [
+            "图2我国城市排水压力图",
+            "Fig.2Pressures on urban drainage systems of China "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有明显差别;受气候变化的影响,我国北部地区城市的排水压力有所降低,而原本排水压力比较大的南部城市，由于极端降水事件更加严重,面临的排水压力更大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 RCP2.6 情景下,由于全球减缓气候变化的努力,气候变化速度相对有所减缓,但是与现在相比,未来的气候变化仍较快,在此情景下未来50 年的城市排水压力( $\\left. P _ { 2 . 6 } \\right.$ 与 ${ \\cal P } _ { 3 }$ 相比依然上升了很多,受气候变化的影响,华北地区的城市排水压力减小,而华南地区的排水压力上升明显。在RCP8.5情景下,全球减缓气候变化工作进展缓慢,由于大气中温室气体含量上升迅速,气候变化的速度也显著高于现状,在此情景下,我国城市排水压力整体上升速度比较快,个别城市面临严重的排水压力,其中上升速度最快的地区仍集中在华南和东北地区。这些地区的城市原本就属于排水压力比较大的城市,又加上气候变化造成的城市极端降水事件会随着时间增加,将会导致城市未来面临的排水压力加大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论与对策 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文研究表明,随着气候变化我国极端降水天气整体呈现增加状态,但是区域差异明显,具体表现为南方加重而北方缓解。我国城市的排水压力呈现南部高而北部低的分布情况,这是由于我国降水受季风影响呈现从东南到西北逐渐递减的阶梯状分布,北部城市面临的极端降水量相对南方比较低。城市排水压力除了与该地区的降水特点有关之外,还与城市的排水设施建设水平有关,东部沿海的城市由于经济水平良好,城市的排水设施建设水平比较高,城市的排水压力相对较低。排水压力最大的地区集中在我国华南地区,特别是中小型城市,这些城市降水丰富,极端降水量大,且城市排水设施比较落后,城市的排水压力比较大,需要增加城市排水设施建设投入，降低城市内涝风险。 C>5",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我国华北地区和部分西北地区气候有较强的大陆性特征,降水量相对南方少且时间上比较集中,降水量的随机性大,历史最大降水量远远高于该地区的正常大雨降水值,给城市带来严重内涝风险。这些城市也应该完善城市的排水设施,提高排水设施的设计水平,避免突发性大雨造成严重的损失。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "若以当前气候变化速度估算,未来20年后,我国城市排水压力整体上升,未来50年的城市排水压力无论是在 RCP2.6情景下还是在RCP8.5情景下,相对于现在和20年后都有明显上升,在缓解气候变化工作进展比较顺利的RCP2.6情景下,我国城市排水压力要远远低于缓解气候变化工作进展较慢的RCP8.5情景,这说明全球气候变化的缓解工作对我国有比较大的意义,有利于缓解我国城市的排水压力,特别是在城市排水压力比较大且极端降水不断增加的华南地区。由于气候变化的影响,城市面临的排水压力会越来越大,显著增加了城市内涝风险,需要注重城市内涝对城市发展的不利影响,重视城市排水设施建设,提高城市排水设施规划设计水平,并结合全球气候变化特征,提出具有前瞻性和有针对性的规划方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]IPCC.WorkingGroupIContrbutiontotheICCfthasessentreport，imatechange2013：Thephysicalsciencebasis：Sumaryforpolicymakers[R/OL].[2013-10-28].htp://www.climatechange2013.org/images/uploads/WGAR5-SPMApproved27Sep203.pdf.[2]HJFowler，BlenkinsopS，TebaldiC.Linkingclimatechangemodelingtoimpactsstudies：Recentadancesindnscalingtecquesforhydrological modeling.International Journal of Climatology，2007,27（12）:1547-1578.  \n［3］周广胜,何奇瑾.城市内涝防治需充分预估气候变化的影响.生态学报,2016,16:4961-4964.  \n[4」张建云，王国庆，刘九夫，何瑞敏.国内外关于气候变化对水的影响的研究进展.人民长江，2009,40（8）：39-41.  \n[5]KevinE.TrenbertAtmosphricMoistureResidenceTesandCyling:mplicatiosfRainfallRatesandClimateChange.ClimaticCang,1998，39(4） : 667-694  \n[6］王伟武,汪琴,林晖,龚迪嘉,张圣武.中国城市内涝研究综述及展望.城市问题,2015,（10)：24-28.  \n[7] 李养龙,赵凯,金林,全国强.城市化发展面临的水文问题.山西水利科技,2001,(04):86-88.  \n[8] 袁媛，王沛永.从防止城市内涝谈海绵城市建设的策略.风景园林,2016,04：116-121.  \n[9] 王若楠.城市内涝风险等级评估方法及案例研究[D].西安建筑科技大学,2016.  \n[10] 闫攀,车伍,赵杨,李俊奇,王思思.绿色雨水基础设施构建城市良性水文循环.风景园林,2013,02:32-37.  \n[11] 吕梅.城市排水模型的应用探讨.科技展望,2014,(19)：103.  \n[ 12] 王竞茵,张朝升,荣宏伟,张可方.水力模型在城市排水系统规划设计中的应用.城乡建设,2015,（07)：81-82.  \n[13] 黄国如,黄晶,喻海军,杨绍沂.基于GIS 的城市雨洪模 SWMM二次开发研究.水电能源科学,2011,（04):43-45,195.  \n[14] 邵崴,潘文斌.城市不透水面与降雨径流关系研究.亚热带资源与环境学报,2012,（04)：20-27.  \n[15] GroismanP,KealT,EasterlingD,KnightR,JamasonP,HenessK,uppiahR,ageCWibigJ,FortuniakK,RazuvaevV,glasA,ForlandE,liitafategai[16]张冬冬,严登华,王义成,鲁帆,刘少华.城市内涝灾害风险评估及综合应对研究进展.灾害学,2014,01:144-149.  \n[17] 段青云,夏军,缪驰远,孙巧红.全球气候模式中气候变化预测预估的不确定性.自然杂志,2016,（03)：182-188.  \n［18］马亚维,任哲,王英俊.近百余年来全球气温长期变化趋势分析.山东气象,2014,(01)：21-24.",
+        "page_idx": 6
+    }
+]

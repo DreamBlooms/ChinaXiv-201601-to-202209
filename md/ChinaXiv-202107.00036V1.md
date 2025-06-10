@@ -1,0 +1,287 @@
+# 催产素、孕激素和雌激素对厌恶的影响及其神经生理机制\*
+
+张霞 雷怡 王福顺
+
+(四川师范大学脑与心理科学研究院，四川成都610066)
+
+摘 要厌恶是人和动物最基本的情绪之一，起源于口腔对苦味(有毒)物质的排斥，常伴有恶心呕吐和远离诱发刺激的强烈愿望，具有回避潜在疾病威胁的功能。大量动物和人类研究表明，催产素、孕激素和雌激素不同程度地影响核心厌恶刺激的感知、核心厌恶情绪的产生与表达、条件性厌恶习得和厌恶表情识别。三种激素主要通过作用于五羟色胺、γ-氨基丁酸、乙酰胆碱和谷氨酸等神经递质受体，调节杏仁核、脑岛、前扣带回、壳核、梨状皮层、额中回等脑区活动，影响厌恶加工。未来研究应当在准确测量激素水平和控制实验任务难度的基础上，探究各激素对不同感觉通道厌恶加工的影响，及其性别的调节作用；同时结合脑成像技术和动物行为学，明确各激素影响厌恶加工的神经内分泌机制。
+
+关键词 厌恶，催产素，孕激素，雌激素，神经生理机制分类号 B8426
+
+# 1引言
+
+基本情绪是进化而来的对外部刺激的适应性反应，其最基本的作用就是让个体能在所处环境中找到食物(愉快)，躲避捕食者(恐惧)，避免感染(厌恶)，进而在群体中“活"下来(Darwin&Prodger,1998;Weinstein et al.,2018)。在生活中，呕吐物、排泄物、腐烂物、某些动物(蛆、苍蝇等)、脏乱环境(垃圾场、厕所等)和不文明行为(乱丢垃圾、随地吐痰等)都会诱发厌恶情绪(雷怡 等,2019)。厌恶情绪涉足人类生活的多个方面。研究发现，厌恶在行为免疫系统中扮演着重要角色，能够调节对病原体相关刺激和行为的回避，降低被感染的风险(CeponRobins etal.,2021)。在新型冠状病毒肺炎正在全球大规模爆发的背景下，高厌恶敏感性诱发的行为改变(如保持社交距离、洗手、消毒等)能有效阻止疫情进一步扩散(Shook etal.,2020)。除了公共健康，厌恶情绪还影响道德判断(Bialek et al.,2021)、政治决策(Shook et al.,2017)、种系发展(O'Shea et al.,2019)等，故对厌恶情绪的深入研究对个体生存和社会发展都具有重
+
+大意义。
+
+目前对厌恶的研究主要包括：厌恶的结构与分类(Stevenson et al.,2019)；厌恶的进化功能(Oaten etal.,2009)；厌恶表情识别(Wicker etal.,2003)；条件性厌恶习得与表达(Schier etal.,2019)；厌恶与其他基本情绪的关系，如厌恶与恐惧(Weinstein etal.,2018)、厌恶与愤怒(Molhoet al.,2017)；以及厌恶与恐惧症、强迫症、进食障碍等精神类疾病的关系(Khalilet al.,2020;Knowles etal.,2018)等。此外，激素是否以及如何调节厌恶加工也是重要研究内容，这有助于我们深入了解厌恶情绪的进化意义以及厌恶产生的神经生理基础。
+
+厌恶情绪的产生与表达涉及到多种激素参与，包括催产素、孕激素、雌激素、睾酮、皮质类固醇、精氨酸加压素等，这些不同的神经内分泌调节系统能够使个体获得与毒素、病原体线索有关的信息，并在此基础上进行评估、整合，从而产生相应的厌恶情绪与回避行为(Kavaliers,Ossenkopp,et al.,2019)。其中，催产素、孕激素和雌激素是当前厌恶领域研究最广泛的激素。
+
+基于以上内容，本文将对厌恶情绪的含义，催产素、孕激素和雌激素影响厌恶加工的证据，以及三种激素影响厌恶加工的神经机制三个方面的最新研究进行探讨；旨在明确厌恶情绪的进化意义，探究三种激素影响厌恶情绪加工的神经生理机制，以进一步了解厌恶情绪与内分泌系统的关系。
+
+# 2厌恶情绪
+
+厌恶源于口腔对苦味物质的排斥，苦味常表明含有大量有毒的生物碱，故厌恶最基本的功能是清除口腔中的有毒物质，避免对机体造成伤害(Rozinetal.,2016)。随着进化演变，为避免疾病消耗巨大的健康成本，个体对细菌、病毒和寄生虫等病原体线索刺激产生厌恶，进而触发回避行为，避免被感染，使得厌恶成为一种疾病回避机制(Oaten etal.,2009;Weinsteinetal.,2018)。这种特性具有物种上的延续性，从龙虾、蝌蚪、蚂蚁、蜜蜂、蜗牛、鱼类、鸟类、啮齿动物、非人类灵长类动物到人类都会对感染了病原体的同伴产生厌恶反应(Behringeret al.,2006; Kavaliers et al.,2020; Kiesecker et al.,1999)。综上而言，厌恶是在进化中形成的一种“行为免疫”，通过检测有毒物质和病原体相关线索，诱发回避行为(如恶心、呕吐、食欲降低)来驱除体内的毒素、病菌和寄生虫等有害物质，或降低摄入它们的风险，以免个体中毒或感染疾病。
+
+随着人类认知的发展，厌恶与社会文化产生交互作用，使厌恶对象逐步泛化。研究者们根据诱发刺激的特点对厌恶进行了更细致的分类。Rozin和Fallon(1987)将厌恶分成了五类：
+
+(1)苦或酸类物质引起的口腔反应；(2)核心厌恶(core disgust)，由某些食物(如腐烂的肉类)、身体分泌物(如粪便)和特定动物(如苍蝇)诱发；(3)动物提醒厌恶(animal-nature reminderdisgust)，由让个体意识到人类只是动物的事实所诱发，如身体损伤、不卫生行为和死亡等;
+
+(4)人际厌恶(interpersonal disgust)，由携带病原体或者受歧视的群体(如传染病患者、残疾人)诱发；(5)道德厌恶(moral disgust)，由不符合道德规范或让人感到堕落、卑贱的行为诱发。之后，Olatunji等人(2009)在Rozin 的基础上进行修改，提出三个主要类别：核心厌恶、动物提醒厌恶和污染厌恶(contamination disgust)，其中污染厌恶指中性物体与厌恶诱发物(如粪便)接触后，中性物体也让人感到厌恶。此外，Tybur 等人(2013)在进化的基础上，重新构建了之前的厌恶理论，提出了三域厌恶理论：病原体厌恶(pathogen disgust)、性厌恶(sex disgust)和道德厌恶。病原体厌恶是指面临细菌、病毒或寄生虫等病原体感染时诱发的厌恶，如摸到粪便；性厌恶由不适宜的性行为激发，如乱伦。虽不同研究者对厌恶分类各有不同，但各厌恶类型之间存在交叉重叠，例如人际厌恶、动物提醒厌恶、性厌恶和污染厌恶都可能包含病原体线索。故在实际研究中，研究者更多的将厌恶简单分为核心厌恶和道德厌恶。核心厌恶反映了对可能间接传播疾病的媒介的回避，如腐烂的食物、排泄物、苍蝇和蟑螂等动物，等同于病原体厌恶；道德厌恶由违反社会规范诱发，后者比前者更抽象，涉及更多的社会认知(Moran etal.,2019)。Chapman 等人(2009)发现道德厌恶起源于口腔，与讨厌的味道和潜在致病线索诱发的厌恶相似，故道德厌恶可能是在核心厌恶基础上形成的社会性情绪。
+
+厌恶加工涉及厌恶刺激、厌恶评价系统和厌恶输出三个层面，核心厌恶刺激可直接触发厌恶输出，而道德厌恶必须经过评价系统产生，再通过表情(如鼻皱、张口等)、行为(如撤离)和生理反应(如恶心)表达(Rozin et al.,2009)。这些特定的表达将外部空间与个体内部隔离，有助于减少有害物质输入或排出口腔中的污染物质，从而起到保护作用。厌恶的三级加工表明厌恶情绪源于先天本能，但更多的厌恶反应是后天学习的结果，与社会认知密切相关。
+
+总之，厌恶情绪具有回避疾病的功能，是人和动物共同拥有的几种最原始的基本情绪之一。同时，它又受社会文化的塑造，与“干净”、“纯洁”密切相关，任何违反这些属性的物体、行为或观念都可能诱发厌恶情绪，产生厌恶时通常伴有恶心感和远离诱发刺激的强烈愿望，并具有独特保护性的面部表情和生理反应。
+
+# 3催产素影响厌恶加工及其神经机制
+
+# 3.1催产素影响厌恶加工
+
+# 3.1.1动物实验
+
+动物通常借助嗅觉识别被寄生虫感染的同类，产生病原体厌恶和回避行为，从而避免被感染(Kavaliers et al.,2020)。研究发现，催产素(oxytocin，OT)能够调节啮齿动物病原体相关的厌恶反应和回避行为。例如，使用OT 拮抗剂会减弱雄性小鼠对被感染雌性小鼠的回避(Kavaliers,Colwell,et al.,2019)；催产素基因敲除小鼠分辨健康小鼠和被感染小鼠气味的能力受损，对被感染小鼠的厌恶反应减弱(Kavaliers etal.,2004)，表明OT 可能通过提高识别病原体的能力，增强厌恶反应来避免疾病侵害(Kavaliers＆Choleris,2011)。同时，在不熟悉的环境或暴露于被感染同类诱发的应激反应中，OT能促进小鼠对陌生同类的厌恶和回避反应(Duque-Wilckens et al.,2018; Kavaliers, Colwell et al.,2019)。Duque-Wilckens 等人(2018)认为OT产生的这种社交抑制不是降低了社交动机，而是提高了对陌生的、具有威胁性的社交环境的警惕，包括那些与病原体和毒素有关的环境。这表明OT可能促进动物对病原体线索的感知与识别，增强核心厌恶反应，从而参与病原体相关的配偶选择、群体内偏见和群体外回避的调节。
+
+此外，OT还与毒素引起的条件性厌恶的习得与表达有关。注射OT拮抗剂，可减弱雄性大鼠对毒素氯化锂(LiCI)的厌恶，降低对雌性伴侣的主动接触(Boulet etal.,2016)。Verbalis等人(1986)发现大鼠在受到LiCl、 $\mathrm { C u S O _ { 4 } }$ (硫酸铜)的刺激产生味觉厌恶的同时，会分泌催产素。进一步研究发现，LiCl诱导的条件性味觉厌恶(conditioned taste aversion)与OT神经元激活有关，且注射OT 拮抗剂，可损害小鼠条件性味觉厌恶的习得(Olszewski et al.,2013)。这表明OT很可能参与了动物的味觉厌恶学习，但由于缺乏对其他感觉通道的研究，故还不清楚OT对动物厌恶学习的影响是否具有跨通道一致性。
+
+# 3.1.2人体实验
+
+在人类研究中，Declerck 等人(2014)发现鼻内OT 给药降低了女性对肮脏、充满细菌环境图片的厌恶感，但对男性没产生影响；同时，接受OT给药的男性更倾向于将面孔评估为不健康，但在女性上没有发现该趋势。这表明外源性OT给药没有促进基于视觉线索的病原体检测，且对健康和疾病线索的感知上表现出明显的性别差异。该研究作者认为女性厌恶感降低可能是由于OT 缓解了被感染的焦虑。此结果似乎与OT增强啮齿动物病原体厌恶的结果相矛盾，可能是因为图片代替真实感染环境，剥夺了被试的嗅觉感官，表明OT可能对产生核心厌恶的视觉线索和嗅觉线索具有不同影响。
+
+面部表情识别是社交中不可缺少的部分，一项元分析研究发现鼻内OT给药能改善基本情绪(尤其是厌恶和恐惧表情)的识别(Leppanen et al.,2017)。在趋近-回避运动反应中发现，OT 同时增强了对厌恶面孔的趋近和回避反应，但对愤怒、恐惧、悲伤和愉快面孔没有影响，表明OT 加快了厌恶面孔加工，增强了厌恶刺激显著性(Theodoridou et al.,2013)。在表情识别任务中，同样发现鼻内OT给药提高了对厌恶面孔的厌恶强度评分，但降低了厌恶面孔识别的准确性(Cardoso etal.,2014)。该作者认为OT 降低厌恶面孔识别准确度，可能是由于OT将注意力集中在眼部区域，而只通过眼睛很难识别厌恶表情。之前也有研究发现OT会减少对厌恶面孔的注意偏向(Kim et al.,2014)，增加对眼睛区域的注视(Wang et al.,2020)。故OT降低厌恶面孔识别的准确性可能与OT对注意力的调节有关。
+
+OT 是否影响道德厌恶，还缺少直接的实证研究证据。但已有研究发现不管是催产素基因变异，还是外源性 OT 注入都会影响道德判断(Bermhard et al.,2016; Scheele et al.,2014)。故OT很可能在道德厌恶中起作用，但还有待进一步论证。
+
+# 3.2催产素影响厌恶加工的神经机制
+
+神经肽催产素在下丘脑视上核(supraoptic nucleus，SON)和室旁核(paraventricular nucleus,PVN)中合成，其受体在脑岛、杏仁核、前扣带回、梨状皮层等脑区高度表达，广泛参与情绪和社会行为的加工(Boccia et al.,2013)。
+
+人类闻到厌恶气味，识别厌恶面孔都会激活脑岛(insula)(Wicker etal.,2003)。用电或光刺激小鼠、猴子和人类前脑岛，会产生恶心呕吐，表现出上嘴唇上提、鼻皱等典型的厌恶表情(Caruana et al.,2011; Dolensek et al.,2020; Mazzola et al.,2017)。Berret 等人(2019)发现抑制后脑岛会消除小鼠对足部电击的厌恶，表明脑岛参与厌恶的躯体感觉信息加工，并将该信息传递到杏仁核特定区域。综上而言，脑岛在厌恶的识别、体验和表达中发挥着关键作用。研究发现，OT受体在脑岛中分布密度较高，脑岛接收PVN 中OT轴突的输入信息，增强脑岛内的兴奋性、突触效能及其功能连接，调节对社会情感刺激的趋近和回避(Rogers-Carter et al.,2018;Yao etal.,2018)。人类在评价情绪面孔的唤醒度时，鼻内OT 给药后增强了脑岛对厌恶面孔的反应(Scheele etal.,2014)。OT 或许通过增加脑岛活动，来提升对厌恶面孔的感知强度，但还不能确定对非社会性厌恶刺激是否有相似的作用。此外，有研究发现脑岛中的五羟色胺(serotonin，5-HT)参与预期厌恶的调节，是厌恶学习形成的关键(Limebeer et al.,2018;Tuerke etal.,2012)。释放 5-HT 产生恶心的同时，OT可以调节 5-HT受体的活性(Mottoleseet al.,2014;Tuerke et al.,2012)。因此，OT 可能在脑岛中通过影响 5-HT，促进厌恶学习及其
+
+厌恶情绪相关的行为反应。
+
+前扣带回(anterior cingulate cortex，ACC)涉及多模态厌恶刺激加工，包括轻微电击、厌恶的味道、声音、表情、气味，甚至不公平待遇(Amir et al.,2005; Corradi-DellAcqua et al.,2016; Schroder et al.,2019;Wicker et al.,2003)。研究发现，小鼠 ACC神经元优先编码代表社会性厌恶线索的信息，再将该信息传递到基底外侧杏仁核(Allsop etal.,2018)；急性OT 给药能增强小鼠 ACC 的细胞活性(Pisansky et al.,2017)。在阀下情绪面孔加工的 fMRI研究中发现，OT 减弱了女性加工厌恶面孔时 ACC 与杏仁核之间的功能连接(Luo et al.,2017)。由此可见，OT可能通过影响ACC 的活动以及ACC与其他脑区的功能连接参与社会性厌恶信息的编码。
+
+杏仁核(amygdala)接受来自脑岛和 ACC 传来的厌恶线索信息(Allsop etal.,2018;Berret etal.,2019)，并投射到其他相关脑区(如基底核黑质)参与厌恶加工(Steinberg et al.,2020)。研究发现，OT 是条件性味觉厌恶习得的关键，阻断OT 受体会减弱杏仁核对厌恶刺激的反应(Olszewski etal.,2013)。在厌恶面孔识别中，也发现OT增强右侧杏仁核对厌恶面孔的反应(Yao etal.,2018)。这不同于OT减弱杏仁核对恐惧、愤怒等消极情绪刺激的反应(Wang et al,2017)，表明在加工厌恶情绪时，OT 可能对杏仁核有特殊影响，也侧面反映出厌恶是一种独特的情绪，与其他负性情绪之间存在差异。
+
+在其他脑区也发现了OT 调节厌恶加工的证据。例如，厌恶与嗅觉密切相关，Choe 等人(2015)发现参与嗅觉加工的梨状皮层(piriformcortex)中含有大量的OT受体，OT 可以通过直接调节梨状皮层的活动，在食欲和厌恶的社会性气味学习中发挥重要作用。亨廷顿氏症(HD)患者最典型的特征就是不能识别厌恶面孔，鼻内 OT 能增强 HD 患者壳核(putamen)和额中回(middle frontal gyri)活动，进而提高HD 患者对厌恶面孔的识别能力，但OT 降低了正常被试壳核和额中回对厌恶面孔的反应(Labuschagne et al.,2018)。这表明OT 可能通过某种平衡机制参与维持厌恶面孔识别正常化，滥用OT将对厌恶刺激识别产生抑制作用。
+
+此外，研究发现OT给药会减弱正常个体杏仁核与脑岛、ACC 的功能连接(Gorka et al.,2015)。加工厌恶面孔时，OT 减弱了女性右侧杏仁核与左侧 ACC 之间的功能连接(Luo et al.,2017)。这表明OT可能同时影响多个共同参与厌恶加工的脑区活动。
+
+综上，催产素可以对脑岛、前扣带回、杏仁核、梨状皮层、壳核、额中回等多个脑区活动产生影响，进而参与厌恶情绪的加工。
+
+# 4孕激素影响厌恶加工及其神经机制
+
+# 4.1孕激素影响厌恶加工
+
+# 4.1.1动物实验
+
+来自人类研究的证据表明孕激素影响病原体厌恶后，Kavaliers 等人(2021a)首次在动物身上进行了验证，他们在急性孕激素给药后，观察了发情雌性小鼠对感染线虫的雄性小鼠气味的厌恶反应，但结果发现孕激素不影响雌性小鼠的病原体厌恶及其回避行为。但试验中没有注射孕酮对照组小鼠的回避反应已经非常强，其结果不显著可能是受到反应指标天花板效应的干扰。此外，Bressan 和Kramer(2021)认为Kavaliers 等人的数据分析也存在不妥，采用更敏感的方法重新分析数据后发现，急性孕酮治疗组的小鼠接触被感染雄性气味的时间显著减少，证明孕激素可以提高病原体厌恶，并增强对病原体线索的回避。
+
+病原体厌恶及其回避行为的产生涉及到三个过程：(1)感觉输入和社会信息的感知、接收和突显；(2)多模态感觉输入的整合和加工；(3)将病原体线索转为唤醒，并决定与谁互动和避免谁(Kavaliers etal.,2021b)。虽然现有研究证实了孕激素对病原体厌恶的促进作用，但仍不清楚孕激素在哪个加工过程中产生影响，未来可进行细化研究。
+
+最后，在啮齿动物的厌恶学习中，并未发现孕激素影响条件性味觉厌恶的习得与消退(Chambers,198O;Lin etal., 2015)。
+
+# 4.1.2人体实验
+
+孕酮(progesterone)是人体中最重要的孕激素，也是一种已知的免疫抑制剂，通过调节一系列生理反应，最终导致疾病易感性增加(Shah et al.,2018)。免疫力越弱的个体对厌恶刺激越敏感，倾向于回避潜在的健康威胁，产生行为免疫(Murray etal.,2019)。“补偿性预防假说”(the compensatoryprophylaxis hypothesis)认为妊娠期间母体为防止自身免疫攻击囊胚或胚胎，会适应性上调孕激素水平产生免疫抑制；但为降低感染风险，孕妇会提高对潜在感染刺激的厌恶敏感性，补偿孕激素引起的免疫应答减少(Ackerman et al.,2018;Fessler et al,2005)。在有关女性月经周期的研究中，验证了孕激素与病原体厌恶的密切关系。例如，女性在黄体中期(高孕酮)对恶心图片的注视时间显著低于卵泡早期(低孕酮)，表明黄体中期个体厌恶敏感性更高，对厌恶刺激的回避更强(Pilarczyk et al.,2019)。量表测量也得到了一致结果，受感染女性黄体期病原体厌恶得分显著高于卵泡期，更容易产生病原体厌恶(Milkowskaet al.,2019)。进一步研究证实了黄体期病原体厌恶敏感性与孕酮水平呈正相关，从而支持了“补偿性预防假说”(Zelazniewicz etal.,2016)。但Jones 等人(2018)采用大样本、纵向研究却未发现孕酮与病原体厌恶、道德厌恶、性厌恶的显著相关。Fleischman 和Fessler(2018)认为Jones 等人未发现孕激素与厌恶的关系，可能是由于采用纯文本测量厌恶不够灵敏，无法真实反应厌恶敏感性的变化；也可能孕酮不是导致厌恶敏感性增加最直接的因素，而是同其他成分相互作用，以一种更复杂的方式产生影响。
+
+在厌恶面孔识别中，孕激素具有显著的调节作用。Conway 等人(2007)发现孕酮水平与厌恶面孔的感知强度呈正相关，但受到面孔眼睛注视方向的调节；孕酮水平较高时，被试认为斜视厌恶面孔更厌恶，但孕酮水平不影响对直视厌恶面孔的感知。该作者认为斜视暗示周围环境存在传染源，而直视表示对感知者(被试)的厌恶，因而认为孕激素会增加女性对带有疾病威胁的社会性线索的敏感性。该结论也到得了Derntl 和 Kryspin-Exner 等人(2008)研究的支持，他们发现高孕酮水平的黄体期女性更容易将负性表情面孔判定为厌恶。此外，孕酮水平与厌恶面孔识别的反应时也有正向关系(Hamstra et al.,2017;Kamboj etal.,2015)。孕激素增强感知强度和延长反应时，可能表明了个体对厌恶面孔投入了更多的注意资源，增强了对厌恶面孔的敏感性，但降低了反应速度。但准确率上，各研究结果差异很大，Maner 和Miller(2014)发现黄体期孕酮水平增加提高了识别厌恶表情的准确性。但Mikolic(2016)却发现黄体期厌恶表情没有识别得更准确。不同研究相互矛盾的结果，可能是由实验任务和被试群体孕激素水平不同造成的，未来研究应注意任务难度的合理性和激素水平测量的精确性。
+
+在道德厌恶上，孕激素似乎没有显著影响，多项研究测量各月经周期孕酮水平和道德厌恶量表得分的关系，均未发现二者存在相关(Jones et al.,2018; Zelazniewicz et al.,2016)。这也从侧面反映出相比于道德厌恶，核心厌恶与孕激素的关系更为密切，且具有更深远的进化意义。但这些研究都采用量表测量道德厌恶，可能限制了道德厌恶的范围，未来研究可尝试实验操作的方法，探究孕激素在道德厌恶中的作用。
+
+# 4.2孕激素影响厌恶加工的神经机制
+
+孕激素在神经系统中具有重要作用，包括参与神经保护，调节神经再生、星形胶质细胞和突触的可塑性等(Giati etal.,2016)。其中，孕酮具有高亲脂性，很容易通过血脑屏障在大脑中起作用。杏仁核(amygdala)是孕酮受体含量最高的脑区(Bixo etal.,1997)，也是情绪产生的核心脑区，在厌恶加工中显著激活(Diano etal.,2017)。孕激素很可能通过影响杏仁核活动，参与厌恶加工。
+
+研究发现，杏仁核的兴奋性会受到孕激素调节(Engman et al.,2018; Ossewaarde et al.,2010)。对健康女性月经周期杏仁核活动的功能磁共振扫描发现，在观看负性情绪面孔(恐惧和愤怒)时，高孕酮水平的黄体期杏仁核激活水平比卵泡期高(Gingnell et al.,2012)。卵泡期女性口服孕酮后，选择性增强了杏仁核的反应，同时还调节了杏仁核与其他脑区之间的功能耦合(VanWingen et al.,2008)。这些结果表明，孕酮能增强杏仁核激活，从而增强对负性刺激的反应(Sundstrom Poromaa＆ Gingnell,2014)，这可能与孕酮增强核心厌恶刺激的感知强度有关。然而以上研究都没有直接探讨孕激素是否能增强杏仁核对厌恶刺激的反应，但厌恶和恐惧同为回避性负性情绪，应该有共同的作用机制，还需通过实验进一步确定在厌恶加工中孕激素对杏仁核的影响。
+
+也有研究发现孕酮对杏仁核活动的抑制作用。Derntl 和Windischberger 等人(2008)直接比较卵泡中期(低雌二醇低孕酮)和黄体中期(高雌二醇高孕酮)健康女性在情绪面孔识别时的杏仁核活动，发现卵泡中期厌恶表情识别准确性更高，且引发更大的杏仁核激活。该研究作者认为低孕酮促进杏仁核激活，提高了对厌恶面孔的识别。不过该研究不能完全排除雌激素的作用，且该研究采取横断研究，每组被试量又太少，可能对结果产生较大误差。同时，也不能排除孕酮对杏仁核的抑制作用，因为孕酮的神经活性代谢物别孕酮(pregnanolone)和孕烯醇酮(allopregnanolone)通常与 $\gamma$ -氨基丁酸受体(GABA-Rs)结合参与情绪调节，而 $\gamma$ 氨基丁酸是大脑中最广泛的抑制性神经递质(Sundstrom-Poromaa et al.,2020)。因此，还需要更严格地控制其他激素水平，探究孕激素与杏仁核活动的关系，进一步确定孕激素损害厌恶表情准确性是否与杏仁核抑制相关。
+
+# 5雌激素影响厌恶加工及其神经机制
+
+# 5.1雌激素影响厌恶加工
+
+# 5.1.1动物实验
+
+雌激素(estrogen)已被证明参与调节啮齿动物的社会认知、社会学习，以及对病原体/毒素的回避和厌恶情绪表达，这些行为主要是由嗅觉介导的(Choleris et al.,2012;Ervin et al.,2015)。例如，相比于正常小鼠，雌激素受体 ERα和ERβ 基因缺失的雌性小鼠辨别感染同伴气味的能力受损，对感染同伴表现出更少的回避和厌恶反应(Choleris etal.,2009)。
+
+此外，雌激素在啮齿动物的厌恶学习中也具有重要作用。相比于雄性大鼠，雌性大鼠条件性厌恶反应更强，且在发情期条件性厌恶显著增加，这表明发情期雌激素增加可能增强了毒素诱导的恶心与新环境的联系，促进小鼠条件性味觉厌恶习得(Cloutier et al.,2018;Lin etal.,2015)。这表明雌激素也可能在基于味觉的厌恶学习中起作用。
+
+# 5.1.2人体实验
+
+在人类研究中，目前还未发现雌激素对核心厌恶和道德厌恶加工的影响(Jones et al,2018)，雌激素对厌恶加工的影响主要体现在表情识别上。研究发现，雌激素影响厌恶表情识别，但似乎不同于雌激素对悲伤、愤怒、恐惧等负性表情的促进作用(Guapo et al.,2009;Pearson&Lewis,2005)，而是会损害厌恶表情识别的准确性。雌二醇(estradiol)是人类最有效的内源性雌激素(Gogos etal.,2014)。雌二醇水平较高的卵泡期，女性识别厌恶面孔的错误率明显升高(Gasbarri etal.,2008)。Kamboj 等人(2015)通过动态面部表情识别任务，也发现月经周期中雌二醇水平与厌恶表情识别的正确率呈负相关。也有研究发现雌激素不影响厌恶表情识别(Gasbarri et al.,2019;Pearson&Lewis,2005)，但这两项研究都没有对被试的雌激素水平进行确切测量，不能保证所选不同月经周期阶段被试的雌激素水平是否存在显著差异，故不能明确得出雌激素与厌恶表情识别无关的结论。一项综述研究提到卵泡期雌激素的增加有利于识别面部表情，其目的是增加交配的机会(Osorio etal.,2018)，但雌激素降低厌恶表情加工能力似乎不具有这样的进化适应性，未来研究需更严谨地探究雌激素与厌恶表情加工的关系，以及这种关系背后的作用机制。
+
+# 5.2雌激素影响厌恶加工的神经机制
+
+在情绪加工相关的脑区(如扣带回、杏仁核、海马、下丘脑等)存在大量雌激素受体，雌激素能增强这些脑区的兴奋性突触传递，尤其能正向调节 NMDA(N-甲基-D-天冬氨酸)受体功能(Lymer et al.,2018; Zang et al., 2020)。
+
+研究发现，内侧杏仁核的雌激素能快速地促进雌性小鼠的社会识别(Lymer et al.,2018)。厌恶情绪与社会识别高度相关(Kavaliers,Ossenkopp,et al.,2019)，雌激素可能通过影响杏仁核活动，参与识别群体外不熟悉个体和被感染同伴，产生厌恶情绪和回避行为，未来可进一步研究杏仁核是否介导雌激素影响厌恶加工。在厌恶学习中，Lin 等人(2015)发现雌激素促进小鼠条件性味觉厌恶习得，其可能的作用机制是雌二醇使脑岛-外侧基底核之间的乙酰胆碱和/或谷氨酸能活动增强。此外，Goldstein 等人(2005)提出雌激素可能通过控制下丘脑-垂体-肾上腺(HPA)回路中的皮层-皮质下激活来减弱女性对负性情绪刺激的觉醒，这也许是雌激素抑制厌恶表情识别能力的原因。
+
+疼痛(pain)不仅能够引起躯体上的痛，还伴随着情绪上的苦(厌恶)。痛刺激(如用刀刺伤皮肤)和核心厌恶刺激(如蚯蚓在皮肤上蠕动)共同激活扣带回、左脑岛、前额叶和右顶叶(Benuzzi etal.,2008)。前扣带回(ACC)是大脑中调节情感性疼痛的重要区域(Wu etal.,2019),抑制 ACC 的过度活跃能减少啮齿类动物对疼痛的厌恶(Zhou et al.,2018)。进一步研究发现，大鼠 ACC 中的脑源性雌激素是痛厌恶形成的关键(Zang etal.,2020)，其作用机制是ACC 局部合成的雌二醇通过激活 NMDA 受体，快速增强 ACC 神经元兴奋性突触传递和突触可塑性(Xiao etal.,2013)。雌激素或许也能通过影响ACC中神经元的结构与功能，对更广泛的厌恶情绪产生影响。
+
+表1三种激素对厌恶加工影响的异同  
+
+<html><body><table><tr><td></td><td colspan="2">动物研究</td><td colspan="3">人类研究</td></tr><tr><td>激素类型</td><td>病原体/核心厌恶</td><td>条件性厌恶</td><td>病原体/核心厌恶</td><td>厌恶表情</td><td>道德厌恶</td></tr><tr><td>催产素</td><td>提高对基于嗅觉的</td><td>参与毒素诱导</td><td>降低女性对基于视觉的</td><td>增强厌恶面孔的感知强</td><td>缺少直接证</td></tr><tr><td></td><td>病原体线索的感</td><td>的条件性味觉</td><td>核心厌恶图片的厌恶感，</td><td>度，加快厌恶面孔感知速</td><td>据。</td></tr><tr><td></td><td>知，促进病原体厌</td><td>厌恶的习得与</td><td>对男性没影响。但现有研</td><td>度，降低识别正确率。</td><td></td></tr><tr><td></td><td>恶产生及其表达。</td><td>表达。</td><td>究证据不足，无法得出确</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>定性结论。</td><td></td><td></td></tr><tr><td>孕激素</td><td>促进基于嗅觉的病</td><td>不影响条件性</td><td>增加病原体厌恶敏感性，</td><td>增强厌恶面孔感知强度，</td><td>现有研究未发</td></tr><tr><td></td><td>原体厌恶产生及其</td><td>味觉厌恶的习</td><td>促进病原体厌恶产生与</td><td>但受眼睛注视方向的调</td><td>现影响。</td></tr><tr><td></td><td>表达。</td><td>得与消退。</td><td>表达。</td><td>节；减慢厌恶面孔识别速</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>度，对准确率的影响各研</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>究结果存在差异。</td><td></td></tr><tr><td>雌激素</td><td>参与病原体厌恶产</td><td>参与毒素诱导</td><td>现有研究未发现影响。</td><td>降低厌恶表情识别的准现有研究未发</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>生及其表达。</td><td>的条件性味觉</td><td></td><td>确性。</td><td>现影响。</td></tr></table></body></html>
+
+# 6总结与展望
+
+催产素、孕激素和雌激素不同程度地影响厌恶加工，各激素影响厌恶加工的异同如表1所示。但目前的研究结果还存在许多矛盾之处，例如 Zelazniewicz等人(2016)发现孕酮水平与厌恶敏感度呈正相关,Kamboj 等人(2015)发现高雌二醇能提高厌恶表情识别速度，但Jones等人(2018)的研究结果并不支持上述研究。实验结果的不一致可能是由激素测量方式、厌恶评价方法以及实验任务不同导致的。此外，目前大多研究还停留于描述现象和相关研究阶段，对其内在作用机制知之甚少。未来研究应当注意激素测量准确性，在月经周期中开展纵向追踪研究，来提高实验的内部效度；同时测量情绪反应指标时应避免“天花板效应”或“地板效应”干扰实验结果。在此基础上，重点关注以下几个方面。
+
+# 6.1各激素对不同感觉通道厌恶加工的影响
+
+在动物模型中，以往主要探究了催产素、雌激素对基于嗅觉的病原体厌恶感知(Choleriset al.,2009;Kavaliers,Colwell,et al.,2019)和基于味觉的条件性厌恶表达(Boulet et al.,2016;Cloutier et al.,2018)的影响，以及雌激素对基于触觉的痛厌恶的调节作用(Zang et al.,2020)。在人类被试中，研究更多的局限于三种激素对视觉厌恶刺激加工的影响，尤其是对厌恶面孔识别的影响(Hamstra et al.,2017; Kamboj et al.,2015; Leppanen et al.,2017)。厌恶情绪可以通过味、嗅、视、听、触多个感觉通道触发。研究发现，以上三种激素在嗅觉、味觉、视觉、听觉和躯体感觉中具有不同程度的调节作用(Grinevich& Stoop,2018；Shuster et al.,2019;Tomas etal.,2019)。由此，不同激素可能对不同感觉通道的信息加工有不同影响，未来研究可进一步探究这三种激素对不同感觉通道厌恶刺激加工的作用。
+
+# 6.2各激素对不同性别个体厌恶加工的影响
+
+从啮齿动物、非人类灵长类动物到人类，女(雌)性在厌恶加工上具有跨物种一致的优势，其厌恶敏感性更高，厌恶线索识别更好，厌恶体验更强(Al-Shawaf et al.,2018; Cloutier et al.,2018;Poirotte et al.,2019)。这种性别差异可能部分源于两性激素的差异，同时激素对厌恶加工的影响很可能也受到性别的调节。例如,Declerck 等人(2014)发现OT 降低了女性厌恶感，但对男性没有影响。在神经基础上，OT增强女性杏仁核对威胁刺激的激活，在男性中却起相反作用(Lieberz et al.,2020)。考虑到雌激素和孕激素给药的副作用，目前对人类的研究主要考察月经周期中内源性孕/雌激素的变化对厌恶加工的影响，实验对象均选用女性被试。还尚未明确这两种激素对厌恶加工的影响是否有性别依赖性。未来可结合动物研究，通过外源性激素给药，探讨激素影响厌恶加工的性别调节作用，在此基础上重点关注这种性别差异的作用机制。
+
+# 6.3结合多种技术，探究各激素影响厌恶的神经内分泌机制
+
+通过前文综述，我们发现催产素影响脑岛、前扣带回、杏仁核、梨状皮层、壳核、额中回等多个脑区活动从而参与厌恶情绪加工；孕激素可能主要通过调节杏仁核活动及其与其他脑区之间的功能耦合参与厌恶识别；但雌激素调节厌恶加工的神经机制还没有太多直接证据。未来研究可以借助事件相关电位(ERPs)、功能性磁共振成像技术(fMRI)和功能性近红外光谱技术(fNIRS)等技术，探索三种激素调节厌恶加工的神经机制。同时通过动物行为学，结合免疫组织化学、活细胞检测等实验方法，探索三种激素对5-TH、GABA、NMDA 和乙酰胆碱等神经递质系统的调节，进一步明确它们调节厌恶加工的神经内分泌机制。
+
+# 参考文献
+
+雷怡，孙晓莹，窦皓然.(2019).恐惧与厌恶情绪图片系统的编制：基于两种情绪的区分．心理科学,42(3), 521-528.   
+Ackerman,J.M.,Hil,S.E.,& Murray,D.R.(2O18).The behavioral immune system: Current concerns and future directions. Social Personality Psychology Compass,12(2),e12371.   
+Al-Shawaf,L.,Lewis,D.M.,& BussD.M.(2018). Sex differences in disgust: Why are women more easily
+
+disgusted than men? Emotion Review,10(2),149-160.
+
+Allsop,S.A.,Wichmann,R.,Mils,F.,Burgos-Robles,A.,Chang,C.-J.,Felix-Ortiz,A.C.,Vienne,A.,Beyeler,A., Izadmehr，E. M.，& Glober,G.(2O18). Corticoamygdala transfer of socially derived information gates observational learning. Cell,173(6),1329-1342.   
+Amir,N.,Klumpp,H.,Elias,J.,Bedwel,J.S.,Yanasak,N.,&Miller,L.S.(2Oo5).Increased activationof the anterior cingulate cortex during processing of disgust faces in individuals with social phobia. Biological Psychiatry, 57(9), 975-981.   
+Behringer,D.C.,Butler,M. J.,& Shields,J.D. (2006).Avoidanceof disease by social lobsters. Nature,441(7092), 421-421.   
+Benuzzi,F.,Lui,F,Duzzi,D.,Nicheli,P.F.,&Porro,C.A. (2oo8).Does itlook painful or disgusting?Ask your parietal and cingulate cortex. Journal of Neuroscience,28(4), 923-931.   
+Bernhard,R.M.,Chaponis,J.,Siburian,R.,Gallgher,P.Ransohof,K.,Wikler,D.,Perlis,R.H,&Greene,J.D. (2016). Variation in the oxytocin receptor gene (OXTR) is associated with diffrenes in moral judgment. Social Cognitive and Affctive Neuroscience,11(12),1872-1881.   
+Berret,E.,Kintscher,M.,Palchaudhuri,S.,Tang,W.,Osypenko,D.,Kochubey,O.,&Schneggenburger,R.(2019) Insular cortex processes aversive somatosensory information and is crucial for threat learning. Science,364(6443), eaaw0474.   
+Bialek,M.,Muda,R.,Fugelsang,J.,&Friedman,O. (2O21).Disgustand Moral Judgment: Distinguishing Between Elicitors and Feelings Matters. Social Psychological and Personality Science,12(3),304-313.   
+Bixo,M.,Andersson,A., Winblad,B.,Purdy,R.H,&Backstrom,T. (1997).Progesterone,5α-pregnane-320-dione and $3 \alpha$ -hydroxy- $5 \alpha$ -pregnane-2O-one in specific regions of the human female brain in different endocrine states. Brain Research,764(1),173-178.   
+Boccia,M.,Petrusz,P., Suzuki,K.，Marson,L.,& Pedersen,C.(2O13).Immunohistochemical localizationof oxytocin receptors in human brain. Neuroscience,253,155-164.   
+Boulet,N.P.,Cloutier,C.J.,Ossenkopp,K.-P.,&Kavaliers,M.(2O6).Oxytocin,sociafactor,and theexprssion of conditioned disgust (anticipatory nausea) in male rats. Behavioural Pharmacology,27(8),718-725.   
+Bressan, P.,& Kramer, P. (2O21). Progesterone does raise disgust. Hormones and behavior,104937.   
+Cardoso,C.,Elenbogen, M. A.，& Linnen,A.-M. (2O14). The effect of intranasal oxytocin on perceiving and understanding emotionon the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT).Emotion,14(1), 43-50.
+
+Caruana,F.,Jezzini,A.,briscia-Fioretti,B.,Rizzolati,G.,&Gaese,V.(Ol1).Emotionalandsocialbehaviors elicited by electrical stimulation of the insula in the macaque monkey. Current Biology,21(3),195-199.
+
+Cepon-Robins,T.J.,Blackwell,A.D.,Gildner,T.E.,Liebert,M.A., Urlacher,S.S.,Madimenos,F.C.,Eick,G.N, Snodgrass, J. J.,& Sugiyama,L. S. (2O21). Pathogen disgust sensitivity protects against infection in a high pathogen environment. Proceedings of the National Academy of Sciences,118(8), e2018552118.   
+Chambers,K.C. (198O).Progesterone,estradiol,testosteroneand dihydrotestosterone:Effectsonrateof extinction of a conditioned taste aversion in rats. Physiology & Behavior,24(6),1061-1065.   
+Chapman, H.A.,Kim,D.A.,Susskind,J.M.,& Anderson,A. K. (2O09). Inbad taste: Evidence for the oral origins of moral disgust. Science, 323(5918),1222-1226.   
+Choe,H. K.,Red,M.D.,Benavidez,N.,Montgomery,D.,Soares,N.,Yim,Y.S.,&Choi,G.B. (2O15).Oxytocin mediates entrainment of sensory stimuli to social cues of opposing valence. Neuron,87(1),152-163.   
+Choleris,E., Clipperton-Alln,A.E.,Phan,A.,&Kavaliers,M. (2O9).Neuroendocrinologyof social information processing in rats and mice. Frontiers in Neuroendocrinology,30(4), 442-459.   
+Choleris,E., Clipperton-Allen,A.E.,Phan,A.,Valsecchi,P.,& Kavaliers,M. (2O12). Estrogenic involvementin social learning,social recognitionand pathogenavoidance.Frontiers inNeuroendocrinology,33(2),40-159.   
+Cloutier,C.J.,Zevy,D.L.,Kavaliers,M.,&Ossenkopp,K.-P. (2o18). Conditioneddisgust inrats (anticipatory nausea)to acontext paired with the effects of the toxin LiCl: Influence of sex and the estrous cycle. Pharmacology Biochemistry and Behavior,173,51-57.   
+Conway, C.A.,Jones,B.C., DeBruine,L. M., Weling,L.L. M.,Law Smith, M. J.,Perret,D.1., Sharp,M.A.,& Al-Dujaili,E.A.S. (2oo7). Salience of emotional displays of danger and contagion in faces is enhanced when progesterone levels are raised. Hormones and Behavior,51(2),202-206.   
+Corradi-DellAcqua, C.,Tusche,A., Vuilleumier,P.,&Singer,T. (216). Cros-modal representations offirst-and and vicarious pain,disgust and fairness in insular and cingulate cortex. Nature Communications,7(1),1-12.   
+Darwin,C.,&Prodger,P. (1998).The expression ofthe emotions in man and animals.New York: Oxford University Press.   
+Declerck, C.H., Lambert, B.,& Boone, C. (2014). Sexual dimorphism in oxytocin responses to health perception and disgust, with implications for theories on pathogen detection. Hormones and Behavior, 65(5),521-526.   
+Derntl,B.,Kryspin-Exner,I,Fernbach,E.,Moser,E.,&Habel,U. (2oo8).Emotionrecognitionaccuracyinhealthy young females is associated with cycle phase. Hormones and Behavior,53(1),90-95.   
+Derntl,B.,Windischberger,C.,Robinson,S.,Lamplmayr,E.,Kryspin-Exner,I.,Gur,R.C.,Moser,E,&Habel,U. (2008).Facial emotion recognition and amygdala activation are asociated with menstrual cycle phase.   
+Psychoneuroendocrinology,33(8),1031-1040.
+
+Diano,M.,TmietoM.,Celeghin,A.,Weiskrantz,L.,Tatu,M.-K.,Bagnis,A.,Duca,S.,Geminiani,G.,Cauda,F, & Costa, T. (2O17). Dynamic changes in amygdala psychophysiological connectivity reveal distinct neural networks for facial expressions of basic emotions. Scientific Reports,7(1),1-13.
+
+Dolensek,N.,Gehrlach,D.A.,Klein,A.S.,& Gogolla,N. (202O).Facial expressions of emotion states and heir neuronal correlates in mice. Science,368(6486),89-94.   
+Duque-Wilckens,N.,Steinman,M.Q.,Busneli,M.,Chini,B.,Yokoyama,S.,Pham,M.,Laredo,S.A.,Hao,R, Perkeybile,A. M.,& Minie,V.A. (2O18). Oxytocin receptors in the anteromedial bed nucleus of the stria terminalis promote stres-nduced social avoidance in female California mice. Biological Psychiatry,83(3),203- 213.   
+Engman,J.,Poromaa,I.S.,Moby,L.,Wikstrom,J.,Fredrikson,M.,&Gingnell,M.(2O18).Hormonalcycleand contraceptive effects on amygdala and salience resting-state networks in women with previous afective side effects on the pill. Neuropsychopharmacology, 43(3),555-563.   
+Ervin,K.S.J.,Lymer,J.M.,Mata,R.,Clipperton-Allen,A.E., Kavaliers,M.,&Choleris,E.(2O15).Estrogen involvement in social behavior in rodents: Rapid and long-term actions. Hormones and Behavior,74,53-76.   
+Fessler,D.M.,Eng,S.J.,&Navarrete,C.D. (2Oo5).Elevateddisgust sensitivity inthefirst trimesterof pregnancy: Evidence supporting the compensatory prophylaxis hypothesis. Evolution and Human Behavir,26(4),344-351.   
+Fleischman,D. S.,& Fessler, D. M.(2018). Response to“hormonal correlates of pathogen disgust: Testing the compensatory prophylaxis hypothesis". Evolution and Human Behavior,39(4), 468-469.   
+Gasbarri，A.，D'Amico，M.，Arnone，B.，Iorio,C.，Pacitt，F.，Ciott，S.， Iorio，P.，& Pompili，A.(2019). Electrophysiological and behavioural indices of the role of estrogens on memory processes for emotional faces in healthy young women.Frontiers in Behavioral Neuroscience,13,234.   
+Gasbari, A.,Pompili,A.,d'Onofrio,A., Cifariello,A.,Tavares,M.C.,& Tomaz,C.(2008). Working memory for emotional facial expressons: role of the estrogen in young women. Psychoneuroendocrinology,33(7), 964-972.   
+Giati,S.,Melcangi,R.C.& Pesaresi,M. (2016).Theother side of progestins: efects in the brain. Journal of Molecular Endocrinology,57(2), R109-R126.   
+Gingnell,M.,Morell,A.,Bannbers,E.,Wikstrom,J.,& Sundstrom Poromaa,I. (2o12).Menstrual cycle efectson amygdala reactivity to emotional stimulation in premenstrual dysphoric disorder. Hormones and Behavior,62(4), 400-406.
+
+Gogos,A.,Wu,Y.C.,Williams,A.S.,&Byrne,L.K. (2014).The effects of ethinylestradiol and progestins ("the pill") on cognitive function in pre-menopausal women. Neurochemical Research,39(12),2288-2300.
+
+Goldstein,J..,Jeram,M.,Poldrack,R.,Ahern,T.,Kennedy,D.N.,Seidman,L.J.,&akris,N.(Oo5).Hormoal cycle modulates arousal circuitry in women using functional magnetic resonance imaging. Journal of Neuroscience,25(40), 9309-9316.   
+Gorka,S.M.,Fitzgerald,D.A.,Labuschagne,I.,Hosanagar,A.,Wood,A.G.,Nathan,P.J.,&Phan,K.L. (2015) Oxytocin modulation of amygdala functional connectivity to fearful faces in generalized social anxiety disorder. Neuropsychopharmacology, 40(2), 278-286.   
+Grinevich, V.,& Stoop,R.(2O18). Interplay between oxytocin and sensory systems in the orchestration of socioemotional behaviors. Neuron, 99(5),887-904.   
+Guapo,V.G.,Grae,F.G.,Zani,A.C.T.,Labate,C.M.,dos Reis,R.M.,& Del-Ben,C.M. (2009).Effects ofsex hormonal levelsandphasesof the menstrual cycle in theprocessing of emotional faces. Psychoneuroendocrinology,34(7),1087-1094.   
+Hamstra,D.A.,de Kloet,E.R., Quataert,I,Jansen,M.,& Van der Does,W. (2017). Mineralocorticoid receptor haplotype,estradiol,progesteroneand emotional information procesing.Psychoneuroendocrinology,76,162- 173.   
+Jones,B. C.,Hahn,A.C.,Fisher,C.1., Wang,H.,Kandrik,M.,Lee,A.J.,Tybur,J.M.,& DeBruine,L.M.(2018). Hormonal correlates of pathogen disgust: testing the compensatory prophylaxis hypothesis. Evolution and Human Behavior,39(2),166-169.   
+Kamboj,S.K., Krol, K.M.,&Curran,H.V. (2O15). A specific association between facial disgustrecognition and estradiol levels in naturally cycling women. PloS One,10(4), e0122311.   
+Kavaliers,M.,ishnoi,IR.,Ossenkopp,K.-P,&Choleris,E. (2O2a).Differentialeffectsofprogesteroneoocial recognition and the avoidance of pathogen threat by female mice. Hormones and Behavior,127,104873.   
+Kavaliers,M., Bishnoi, I.R.,Ossenkopp,K.-P.,& Choleris,E. (2O21b).Progesterone and disgust: Aresponse to" progesterone does raise disgust". Hormones and Behavior,104936.   
+Kavaliers,M.,& Choleris,E. (2O11).Sociality,PathogenAvoidance,and the Neuropeptides Oxytocin and Arginine Vasopressin. Psychological Science, 22(11),1367-1374.   
+Kavaliers,M.,Choleris,E.,Agmo,A.,&Pfaff,D.W. (2O4).Olfactory-mediated parasite recognitionand avoidance: linking genes to behavior. Hormones and Behavior,46(3),272-283.   
+Kavaliers,M.,Colwell,D.D.,Wah,D.T.,Bishnoi,I.R.,Osenkopp,K.-P.,&Choleris,E.(2019).Conspecific
+
+infection threat rapidly biases the social responses of female mice: involvement of oxytocin. Hormones and Behavior,113,67-75.
+
+Kavaliers,M.,Ossenkopp,K.-P.,& Choleris,E. (202O).Pathogens,odors,and disgust inrodents. Neuroscience& Biobehavioral Reviews,119,281-293.   
+Kavaliers,M.,Ossenkopp,K.P.,& Choleris,E.(2O19).Social neuroscience of disgust. Genes,Brain and Behavior, 18(1), e12508.   
+Khalil,R.B.,Bou-Orm,IR., Tabet,Y.,Souaiby,L.,& Azouri,H. (202O). Disgust and fear: common emotions between eating and phobic disorders. Eating and Weight Disorders-Studies on Anorexia, Bulimia and Obesity, 25(1), 79-86.   
+Kiesecker,J.M.,Skelly,D.K.，Beard,K.H.，& Preisser,E.(199).Behavioral reductionof infection risk. Proceedings of the National Academy of Sciences, 96(16), 9165-9168.   
+Kim,Y.-R.,Kim, C.-H.,Park,J. H.,Pyo,J.,&Treasure,J. (2O14).Theimpactof intranasal oxytocin onatentionto social emotional stimuli in patients with anorexia nervosa: a double blind within-subject cross-over experiment. PloS One, 9(3), e90721.   
+Knowles, K.A.,Jessup,S.C.,& Olatunji,B.O.(2018). Disgust in anxietyand obsessive-compulsive disorders: recent findings and future directions. Current Psychiatry Reports,2O(9),1-10.   
+Leppanen,J.,Ng,K. W.,Tchanturia,K.,& Treasure,J. (2O17). Meta-analysis of theeffcts of intranasal oxytocin on interpretation and expression of emotions. Neuroscience & Biobehavioral Reviews,78,125-144.   
+Lieberz,J.,Scheele,D.,Spengler,F.B,Matheisen,T.,Schneider,L.,Stofel-Wagner,B,Kinfe,T.M.,&Hurleman, R.(2020). Kinetics of oxytocin efects on amygdala and striatal reactivity vary between women and men. Neuropsychopharmacology,45(7),1134-1140.   
+Limebeer,C.L.,Rock,E. M.，Sharkey, K.A.,& Parker,L.A. (2018). Nausea-Induced 5-HT Release in the Interoceptive Insular Cortex and Regulation by Monoacylglycerol Lipase (MAGL) Inhibition and Cannabidiol. eNeuro,5(4),ENEURO.0256-0218.2018.   
+Lin,S.-F.,Tsai,Y.-,Tai,M.-Y,&eh,K.-Y.(15).Estradiolenhancestheacquisitionoflithimchloride-induced conditioned taste aversion in castrated male rats. The Science of Nature,1O2(9), 1-8.   
+Luo,L.,Becker,B.,Geng,Y.,Zhao,., Gao,S.,Zhao,W.,Yao,S.,Zheng,X.,Ma,X.,& Gao,Z. (2017).Sexdependent neural efect of oxytocin during subliminal processing of negative emotion faces. Neuroimage,162, 127-137.   
+Lymer,J. M.,Sheppard,P.A.,Kuun,T.,Blackman,A.,Jani,N.,Mahbub,S.,&Choleris,E.(2O18).Estrogensand theirreceptorsin themedial amygdala rapidly facilitatesocial recognition infemale mice.   
+Psychoneuroendocrinology,89,30-38.   
+Maner,J.K.,& Miler,S.L.(2O14).Hormones and social monitoring: Menstrual cycle shifts in progesterone underlie women's sensitivity to social information. Evolution and Human Behavior,35(1),9-16.   
+Mazzola,L.,Mauguiere,F.,&Isnard,J.(2O17).Electrical stimulations ofthehuman insula: theircontributiontothe ictal semiology of insular seizures. Journal of Clinical Neurophysiology,34(4),307-314.   
+Mikolic,A.(2o16).Disgust and facial expression recognition across the menstrual cycle.Human Ethology Bulletin, 1, 31-60.   
+Milkowska, K., Galbarczyk,A.,&Jasienska, G. (2O19). Disgust sensitivity in relation to menstrual cycle phase in women with and without an infection. American Journal of Human Biology,31(3), e23233.   
+Molho,C.,Tybur,J.M.,Guler,E.，Ballet,D.,& Hofmann,W.(2017).Disgustand anger relate to diferent aggressive responses to moral violations. Psychological Science,28(5),609-619.   
+Moran,T.,Bornstein,O.,&Eyal,T.(2O19).The level of construal involved inthe elicitationofcore versus moral disgust. Emotion,21(2),391-404.   
+Motolese,R.,Redoute,J., Costes,N.,Le Bars,D.,& Sirigu,A. (2O14).Switching brain serotonin with oxytocin. Proceedings of the National Academy of Sciences,1l1(23),8637-8642.   
+Murray,D.R.,Prokosch,M.L.,&Airington, Z.(2019).PsychoBehavioroimmunology: Connecting the Behavioral Immune System to Its Physiological Foundations.Frontiers in Psychology,10,200.   
+O'Shea,K.J.,DeBruine,L.M.,&Jones,B.C.(2O19).Further evidence for associations between short-term mating strategy and sexual disgust. Personality Individual Differences,138,333-335.   
+Oaten,M.,tevenson,R.J.,&Case,T.I.(2oo9).Disgustasadisease-avoidance mechanism.Psychological Bulletin, 135(2),303-321.   
+Olatunji,B.O.，Moretz,M.W.,McKay,D.,Bjorklund,F.,deJong,P.J.,Haidt,J...& Schienle,A.(2009). Confirming the three-factor structure of the disgust scale-revised in eight countries.Journal of Cross-Cultural Psychology,40(2),234-255.   
+Olszewski,P.K.，Waas,J.R.,Brooks,L.L.,Herisson,F.,&Levine,A.S.(2013).Oxytocinreceptorblockade reduces acquisition but not retrieval of taste aversion and blunts responsiveness of amygdala neurons to an aversive stimulus.Peptides,50,36-41.   
+Osório,F.L.,de Paula Cassis,J.M.,Machado de Sousa,J.P.,Poli-Neto,O.，& Martin-Santos,R.(2018).Sex hormones and processing of facial expressions of emotion: a systematic literature review.Frontiers in Psychology,
+
+9, 529.
+
+Ossewaarde,L.,Hermans,E.J.,van Wingen, G.A.,Kooijman,S.C.,Johansson,I.-M.,Backstrom,T.,&Ferandez, G.(2010). Neural mechanismsunderlying changes in stress-sensitivity across the menstrual cycle. Psychoneuroendocrinology,35(1), 47-55.   
+Pearson,R.,& Lewis, M. B. (20o5). Fear recognition across the menstrual cycle. Hormones and Behavior,47(3), 267-271.   
+Pilarczyk,J.,Schwertner,E., Woloszyn,K.,&Kuniecki,M.(2o19).Phaseofthe menstrualcycle aects engagement of atention with emotional images. Psychoneuroendocrinology,104, 25-32.   
+Pisansky, M.T., Hanson,L.R., Gottesman,I.I.,& Gewirtz,J. C. (2o17). Oxytocin enhances observational fear in mice. Nature Communications, 8(1),1-11.   
+Pochedly,J.T., Widen,S.C.,&Russel,J.A. (20l2). What emotiondoes the“facial expressionofdisgustexpres? Emotion,12(6),1315-1319.   
+Poirote, C., Sarabian, C., Ngoubangoye,B., MacIntosh,A.J.,& Charpentier,M. (2O19).Faecal avoidance differs between the sexes but not with nematode infection risk in mandrills.Animal Behaviour,149,97-106.   
+Rogers-Carter,M.M.,Varela,J.A.,Gribbons,K.B.,Pierce,A.F.,McGoey,M.T.,Ritchey,M.,&Christianson,J. P.(2018). Insular cortex mediates approach and avoidance responses to social afective stimuli. Nature Neuroscience,21(3),404-414.   
+Rozin,P.,& Falon, A. E. (1987). A perspective on disgust. Psychological Review, 94(1),23-41.   
+Rozin,P.,Haidt,J.,& Fincher, K.(2009). From oral to moral. Science,323(5918),1179-1180.   
+Rozin, P., Haidt,J.,& McCauley,C.R.(2016).Disgust. InL.F.Barret, M. Lewis,&J.M. Haviland-Jones (Eds.), Handbook of emotions (pp. 815-834). Guilford Press.   
+Scheele,D., Striepens,N.,Kendrick, K.M.,Schwering,C.,Noelle,J. Wille,A., Schlapfer,T.E., Maier, W.,& Hurlemann, R. (2014). Opposing effects of oxytocin on moral judgment in males and females. Human Brain Mapping,35(12),6067-6076.   
+Schier,L.A.,Hyde,K.M.,& Spector,A.C.(2O19). Conditioned taste aversion versus avoidance: Are-examination of the separate processes hypothesis. PloS One,14(6), e0217458.   
+Schroder,A.,van Wingen,G.，Eijsker,N.，San Giorgi,R.,Vulink,N.C.,Turbyne,C.，& Denys,D.(2019). Misophonia is associated with altered brain activity inthe auditory cortex and salience network. Scientific Reports, 9(1), 1-9.   
+Shah,N.M.，Imami,N.,& Johnson,M.R.(2O18).Progesterone Modulation of Pregnancy-Related Immune
+
+Responses.Frontiers inImmunology,9,1293.
+
+Shook,N.J.,Oosterhoff,B.,Tizzi Jr,J.A.,&BradyK.M. (27).“Dirtypolitics:Theroleofdisgustenitivity in voting. Translational Issues in Psychological Science,3(3),284-297.   
+Shook,N.J.，Sevi,B.,Lee,J.,Oosterhoff,B.,& Fitzgerald,H.N.(202O).Disease avoidance in the time of COVID-19: The behavioral immune system is associated with concern and preventative health behaviors. PloS One,15(8), e0238015.   
+Shuster, B.Z.,Depireux,D.A., Mong,J.A.,& Hertzano,R. (2019). Sex differences inhearing: Probing theroleof estrogen signaling. The Journal of the Acoustical Society of America,145(6),3656-3663.   
+Steinberg,E.E.,Gore,F.,Heifets,B.D.,Taylor,M.D.,Norville,Z.C.,Beier,K.T.,Foldy,C.,Lerner,T.N,Luo, L., Deisseroth, K.,& Malenka,R. C. (2020). Amygdala-Midbrain Connections Modulate Appetitive and Aversive Learning. Neuron,106(6),1026-1043.   
+Stevenson,R.J.,Case,T.I.,Oaten,M.J.,Stafford,L,& Saluja,S.(2019). A proximal perspective ondisgust. Emotion Review,11(3),209-225.   
+Sundstrom-Poromaa,I., Comasco,E.,Sumners,R.,&Luders,E. (2O2O).Progesterone-friend or foe?Frontiers in Neuroendocrinology,59,100856.   
+Sundstrom Poromaa, I.,，& Gingnell, M. (2O14). Menstrual cycle influence on cognitive function and emotion processing—from a reproductive perspective. Frontiers in Neuroscience, 8,380.   
+Theodoridou,A.,Penton-Voak,I. S.，& Rowe,A. C.(2013). A direct examination of the effct of intranasal administration of oxytocin on approach-avoidance motor responses to emotional stimuli. PloS One,8(2),e5813.   
+Tomas, J., Santos, C.R.,Duarte,A. C., Maltez,M., Quintela,T.,Lemos,M. C.,& Goncalves,I. (2019). Bier taste signaling mediated by Tas2r144 is down-regulated by $1 7 \beta$ -estradiol and progesterone in the rat choroid plexus. Molecular and Celular Endocrinology,495,110521.   
+Tuerke,K.J.,Limebeer, C.L.,Fletcher,P.J.,& Parker,L.A. (2O12). Double dissociation betweenregulationof conditioned disgust and taste avoidance byserotonin availabilityat the5-HT3 receptorin the posteriorand anterior insular cortex. Journal of Neuroscience,32(40),13709-13717.   
+Tybur,J.M.，Lieberman,D.,Kurzban,R.，& DeScioli,P.(2O13).Disgust: Evolved function and structure. Psychological Review,120(1), 65-84.   
+Van Wingen, G.,Van Broekhoven,F., Verkes,R.,Petersson,K. M., Bäckstrom,T., Buitelar, J.,& Fermandez, G. (2008).Progesterone selectivelyincreasesamygdala reactivity in women. Molecular Psychiatry,13(3),325-333.   
+Verbalis,J. G., McHale, C.M., Gardiner,T. W.,& Stricker,E.M. (1986).Oxytocin and vasopressin secretion in response to stimuli producing learned taste aversions in rats. Behavioral Neuroscience,l00(4), 466-475.   
+Wang,D.,Yan, X.,Li, M.,& Ma,Y. (2O17).Neural substrates underlying the effctsof oxytocin: aquantitative meta-analysis of pharmaco-imaging studies. Social Cognitive and Afective Neuroscience,12(10),1565-1573.   
+Wang,T.,Tang, Q., Wu, X.,& Chen, X. (2020). Attachment anxiety moderates the effect of oxytocin on negative emotion recognition: Evidence from eye-movementdata. Pharmacology Biochemistry and Behavior,198,173015.   
+Weinstein,S.B.,Buck,J. C.,& Young, H. S. (2018). Alandscape of disgust. Science,359(6381),1213-1214.   
+Wicker,B, Keysers,C.,Plailly,J.,Royet,J.-P.,Gallese,V.,&Rizolatti,G. (2O3).Bothof UsDisgusted iMy Insula: The Common Neural Basis of Seeing and Feeling Disgust. Neuron, 40(3), 655-664.   
+Wu,X.-B.,He,L.-N.,Jang,B.-C.,Wang,X.,Lu,Y.,&Gao,Y.-J. (2019). Icreased CXCL13 and CXCR5 in anterior cingulate cortex contributes to neuropathic pain-related conditioned place aversion. Neuroscience Bulletin, 35(4), 613-623.   
+Xiao,X., Yang,Y.,Zhang,Y.,Zhang,X.-M.,Zhao,Z.-Q.,& Zhang,Y.-Q.(2013). Estrogen in the anteriorcingulate cortex contributes to pain-related aversion. Cerebral Cortex,23(9),2190-2203.   
+Yao,S.,Becker,B.,Zhao,W., Zhao,Z.,Kou,J.,Ma, X., Geng,Y.,Ren,P.,& Kendrick, K. M. (2018).Oxytocin modulates atention switching between interoceptive signals and external social cues. Neuropsychopharmacology, 43(2),294-301.   
+Zang,K.-K.,Xiao,X., Chen,L.-Q.,Yang,Y.,Cao, Q.-L.,Tang,Y.-L.,Lv,S.-S.,Cao,H.,Zhang,L.,&Zhang,Y.-Q. (2020). Distinct Function of Estrogen Receptors in the Rodent Anterior Cingulate Cortex in Pain-related Aversion. Anesthesiology,133(1),165-184.   
+Zelaznewicz,A.,Borkowska,B., Nowak,J.,& Pawlowski, B. (2016). The progesterone level,leukocyte count and disgust sensitivity across the menstrual cycle. Physiology & Behavior,161, 60-65.   
+Zhou,H.,Zhang,Q.,Martinez,E.,Dale,J.,Hu,S., Zhang,E.,Liu,K.,Huang,D., Yang,G.,& Chen,Z. (2018). Ketamine reduces aversion in rodent pain models by suppressng hyperactivity of the anterior cingulate cortex. Nature Communications, 9(1),1-13.
+
+# The influence of oxytocin, progesterone and estrogen on disgust and its neurophysiological mechanism
+
+ZHANG Xia,LEI Yi, WANGFushun (Institute of Brainand Psychological Sciences,Sichuan Normal University,Chengdu 6lOo66,China)
+
+Abstract: Disgust is an important basic emotion for human beings and animals,and it derives from distasteful oral responses to bitter (toxic) tastants, often accompanied with nausea and vomiting and a strong desire to stay away from the induced stimulus,and it has the function of avoiding potential disease threats.A large number of studies have shown that oxytocin, progesterone, and estrogens can affect perception, generation and expression of core disgust, as well as learning conditioned disgust and recognizing facial expression in varying degrees. These three hormones mainly affect the processing ofdisgust by modulating neurotransmiter receptors including serotonin， γ- aminobutyric acid, acetylcholine,and glutamic acid receptors,and thus affecting the activities of amygdala, insula, anterior cingulate gyrus, putamen, piriform cortex, and middle frontal gyrus.Future studies should explore the effects of these hormones on disgust in different sensory channels and also consider their moderating roles in different genders by accurately measuring hormone levels and controlling the task difficulties. In addition， researchers can combine neuroimaging technologies with behavioral studies to clarify the neuroendocrine mechanism of these hormones affecting disgust processing.
+
+Key words: disgust, oxytocin, progesterone, estrogen, neurophysiological mechanism

@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "1 左侧背外侧前额叶在程序性运动学习中的2 作用\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 曹娜1孟海江王艳秋」邱方晖「谭晓缨²吴殷张 剑1  \n5 (1 上海体育学院心理学院)(2上海体育学院体育教育与训练学院)  \n6 (3上海体育学院经济与管理学院，上海200438)  \n8 摘要 程序性运动学习包括序列学习和随机学习。神经影像学研究表明背外侧前额叶皮层  \n9 (DLPFC)和初级运动皮层(M1)在程序性运动学习中发挥重要作用，但DLPFC 和 M1之间的  \n10 联通性及其与不同程序性运动学习的关系尚不明确。本研究采用连续反应时间任务，结合经  \n11 颅磁刺激(TMS)方法，探讨左侧DLPFC 到M1的联通性在不同程序性运动学习中的差异。  \n12 实验一采用两连发TMS 探测DLPFC 到M1的最佳投射时间点；实验二，被试分为2组，  \n13 分别进行序列学习和随机学习，在学习前、后采集行为学数据，以及M1的运动诱发电位和  \n14 DLPFC-M1联通性的电生理学数据。行为学结果发现序列学习组的学习效果更佳；电生理  \n15 学结果发现，两组被试学习前、后M1的运动诱发电位均未发生改变；在最佳时间投射点、  \n16 适当刺激强度下，序列学习组DLPFC-M1联通性发生改变，且与学习成绩相关，而随机学  \n17 习组没有改变。结果说明DLPFC到M1的联通性增强可能是序列学习成绩更佳的重要原因，  \n18 这一结果从电生理角度为DLPFC在运动学习中的作用提供了重要证据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词背外侧前额叶；初级运动皮层；经颅磁刺激；程序性运动学习；序列学习",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程序性运动学习是指通过重复执行运动任务，借助骨骼、肌肉以及相应的神经反射获得新知识的过程。根据学习内容呈现顺序的不同可将其分为序列学习和随机学习两种形式，其中序列学习通过一系列不断重复的、固定长度的序列循环呈现而发生学习(杨光，2014)，随机学习则是在无序的呈现中实现学习的过程(Pascual-Leone,Wassermann,Grafman,& Hallett,1996)。程序性运动学习不仅是人类日常活动的重要组成部分，更是运动技能习得的重要方式(Clegg,Digirolamo,&Keele,1998)。它为我们探究复杂形式下的运动学习提供了范式，能够反映人类大脑运动认知系统在不同状态下的适应性与可塑性(Grafton，Woods，& Tyszka,1994)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究表明，程序性运动学习涉及多个脑功能区的协同作用，包括初级运动皮层（primarymotor cortex,M1）、辅助运动区（supplementary motor area,SMA）、前运动区（premotor cortex）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "和背外侧前额叶（dorsolateral prefrontal cortex,DLPFC)等重要脑功能区(Leonora,Teo,Ignacio,KOuweIl, & IviarJall, ZUIU; roIurack et aI.， zUUJ； ScneIuall, SeaIl, ivieIrose，& SteIIl ZUU5;Seidler etal.,2005)。其中，以M1为代表的运动功能区与以DLPFC 为代表的认知功能区之间的联系与投射是解释不同运动学习表现的重要依据(Cao et al.,2018;Lam et al.,2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与右侧前额叶皮质相比，左侧背外侧前额叶，尤其是 BA46 区(Kielan,Peter,& Krakauer,2009)，被认为是具有整合运动学习和运动控制功能的重要脑区(Miller，2000)。尽管DLPFC脑功能区参与和运动学习有关的运动认知过程，但是它以怎样的方式参与运动认知的问题仍然未能得到回答。神经影像学研究显示，在序列学习任务中 DLPFC 出现持续性的激活(Jenkins，Brooks,Nixon, Frackowiak,& Passingham,1994； Sakai et al.，1951；Toni, Krams,Turner,&Passingham,1998)。Shadmerh 和Holcomb(1997)报告在序列和随机两种学习任务中，序列学习表现提升的同时前额叶与运动皮层都被激活。根据 Hikosaka理论，DLPFC 参与空间序列获取的过程，即前额叶皮层涉及处理最初的感觉输入以及描绘空间序列的过程，最终到达运动皮层(Hikosaka,Nakamura,Sakai,&Nakahara,2002)。反之，如果测试中未包含序列学习任务，前额叶皮层没有发生激活(Willingham,1998)。这些结果都表明了DLPFC 的激活因任务情境而异。当采用非侵入性脑刺激破坏DLPFC脑区兴奋性后，被试在空间信息处理任务中按键反应时间增加，学习效果被破坏(Robertson，Tormos，Maeda，& Pascual-Leone,2001)，反映了DLPFC 兴奋性对最终运动学习效果的影响。在病理学方面的研究中，前人发现小脑功能障碍患者、帕金森病患者的程序性学习功能可能受损(Pascual-Leone et al.,1996);另一方面，即使颞叶和背内侧丘脑损伤(Gordon,1988;Squire,1992)、或者患有阿尔茨海默病的病人(Grafman et al.,1990)，他们的程序性学习功能依旧得以保留。这些结果说明了当与额叶，特别是与背外侧前额叶相连的皮质受损的情况下，病人的程序性学习功能受到影响，表1 明程序性学习依赖于与背外侧前额叶相连通路的完好性(Fuster&Alexander,1971)。5 已有的研究主要关注DLPFC这一单个脑区在相关任务中的激活状态，而未从通路角度56 探讨DLPFC作为认知脑功能区重要结点与作为运动输出最终通路的M1之间的联通性。尽57 管背外侧前额叶在运动学习中起到了重要作用,但是神经影像学研究却无法揭示DLPFC-M158 联通性在不同运动学习中的改变及作用(Friston,2011)。有效的神经功能联结是快速处理信息59 的前提，从DLPFC与M1联通性的角度探索不同程序性运动学习是认识运动学习发生规律50 的重要途径之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究使用两重位置(Dual-site)两连发经颅磁刺激法(Transcranial magnetic stimulation,TMS)，这一电生理手段能够直接体现一个神经系统对另一个系统施加的有效连接或直接影",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "响从而精确描述可塑性变化(Lafleur,Tremblay,Whittingstall,&Lepage,2016)。两连发刺激中第一发刺激为条件刺激(Conditioning stimulation，CS)，用于刺激 DLPFC 区域；第二发刺激为测试刺激(Test stimulation，TS)，用于刺激初级运动皮层。通过改变两发刺激之间的时间间隔和测试强度，能够探测多目标脑区之间神经传导通路的兴奋性，尤其是获得M1以外特定脑功能区神经回路的性质(Ni& Chen,2012;Ni,Florian,Chen,& Ziemann,2011;Ni et al.,2009)。该方法的优势在于能够将不同脑区之间联系起来，探究它们之间的功能连接性及兴奋或抑制环路，通过TS 诱发的运动诱发电位(Motor evoked potential,MEP)振幅的变化反映在皮质水平上相连接的CS 刺激区域到 TS 刺激区域的功能性通路，即脑区之间的联通性(Lazzaro et al.,1999;Rothwell,2011)。随着两连发 TMS 技术的发展，该方法目前广泛用于评估非同源区域之间的半球间连接、半球内连接以及小脑皮质连接的科学研究(Ziemann et al,2015)，以及脑卒中、运动障碍、肌萎缩侧索硬化症等临床诊断中(Ridding＆Rothwell,2007)，具有较高的信效度(Marco,Carlo,& Elena, 2011)。  \n本研究目的是探讨左侧DLPFC 到M1的联通性在两种不同程序性运动学习中的差异。程序性运动学习采用连续反应时间任务（Serial response time task，SRTT）(Leonora et al.,2010)，在这类任务的每个试次中，目标刺激会出现在四个可能的位置之一，受试者必须通过按下键盘上的相应键，对刺激出现位置尽可能快地做出反应。目标刺激出现位置的顺序根据实验目的的不同可以呈现序列或随机的形式，相比之下，其他不能将刺激设置成序列的任务例如虚拟机械操纵任务(Krebs,Hogan,Hening,Adamovich,&Poizner,2001)、追踪转翼任务(Noguchi,Demura,Nagasawa,&Uchiyama,2009)等则不具备此项优势。因此“顺序可操作性”(Willingham,Salidis,&Gabrieli,2002)使得其近年来被更广泛地应用于程序性学习研究中，是比较序列顺序和随机顺序条件下学习的重要行为范式(Mayor-Dubois,Zesiger,Van der Linden,&Roulet-Perez,2016)。实验一通过改变两发刺激的时间间隔探究DLPFC 到M1 投射的时间过程；实验二将通过 SRTT 和 TMS 的结合，探索不同运动学习类型对 DLPFC-M1输入-输出曲线的影响。  \n根据前人文献及理论(Hikosakaetal.，2002；Robertson et al.，2001；Toni et al.，1998;Willingham,1998)，DLPFC 参与空间序列获取过程并在序列学习中持续激活，而在无意识的学习中未发生激活，且抑制DLPFC 能够降低按键学习任务的正确率及反应时间，因此本研究提出假设：序列学习导致 DLPFC-M1的联通性增强，且与学习成绩提升相关；而随机学习没有改变。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 被试",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "44 名被试参加了本研究一项或多项实验。21名被试（7名女性）参与了实验一，平均年龄 $2 1 . 1 0 \\pm 1 . 9 7$ 岁；40名被试（15名女性）参与了实验二，平均年龄 $2 1 . 7 5 \\pm 1 . 7 4$ 岁。两项实验间隔两周以上保证无实验后效影响(Ni,Gunraj,Kailey,Cash,& Chen,2014)。所有被试均为右利手(Oldfield,1971)，视力或者矫正视力正常。所有被试根据赫尔辛基宣言签署了书面知情同意书。TMS 实验由当地伦理会员会审核批准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2实验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验一：左侧DLPFC到M1投射的时间过程",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验采用单因素重复测量实验设计，自变量为两重位置两连发TMS 中CS 和TS 的时间间隔，因变量为两连发MEP 振幅。通过对DLPFC 和M1连续的两连发刺激，探究皮质脊髓输出兴奋性的改变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，实验确定了CS 强度和TS 强度。根据前人文献，TS（M1）的强度设置为用相同的TMS线圈在静息时诱发振幅为 $1 \\mathrm { m V }$ 的MEP时机器输出强度，以此定为振幅的基本单位，作为后续两连发 TMS 诱发MEP 振幅的比较对象(Hallett,2000)。CS(DLPFC)的强度为 $1 1 0 \\%$ 静息运动阈值（Restmotor threshold，RMT)。由已有研究可知，阈上刺激更能促进额叶与初级运动皮层之间的相互传导，而较高的阈上刺激强度则会带来不适感(Jacinta，Catherine,Boorman,Heidi,&Rushworth,2010; Koch etal.,2007)。正式实验前首先确定每位被试右手第一背侧骨间肌的RMT。RMT指目标肌肉在静息状态下，连续10 次刺激中有至少5次诱发出大于 $5 0 ~ \\mu \\mathrm { V }$ 振幅MEP 的最小磁刺激强度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据不同脑功能区向M1投射的神经纤维长度(Oh et al.,2014;Wedeen et al.,2012)以及神经递质(Ziemann,2004)的不同选择10 个连续时间间隔（Interstimulus interval，ISI）（2、4、6、8、10、12、15、20、25、 $3 0 \\mathrm { m s }$ )，由此可以确定在某一特定CS 强度下被刺激脑功能区向 M1投射的时间过程，从而探知由此形成的神经回路的性质（兴奋性或抑制性）以及达到兴奋或抑制峰值效应所需时间间隔（图1A,B)。每位被试在每个两连发 TMS 时间间隔下各进行10个试次，试次以5秒钟的间歇时间进行，10个时间间隔以随机顺序呈现，共100 个试次。根据前人文献报告，试次与试次之间的间隔为5秒钟时，试次之间不会产生相互影响(Hallett, 2000)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb0f45beedd0e6f52ca6ee044f479cc508dba58fd650d16288076243113141d3.jpg",
+        "img_caption": [
+            "图1(A）左半球线圈位置示意图；(B）两连发TMS磁刺激示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "124 实验二：不同运动学习类型对 DLPFC-M1联通性输入-输出曲线（Input-outputcurve,IO 曲线）  \n125 的影响  \n126 实验二中以学习种类（序列学习或随机学习）作为组间因素，检测在两个最佳的时间间  \n127 隔下（10和 $2 5 ~ \\mathrm { { \\ m s } }$ ，由实验一结果所得)，不同类型的运动学习对DLPFC-M1联通性输入-  \n128 输出曲线的影响（图2A)。对于学习任务，以组块为组内变量，采用2（组别：序列学习组，  \n129 随机学习组） $\\times 2$ （组块：组块1，组块10）混合设计，因变量为被试的组块平均反应时；  \n130 对生理学指标，以刺激强度、学习前后测作为组内因素，采用2（组别：序列学习组，随机  \n131 学习组） $\\times 2$ （前后测：前测，后测） $\\times 5$ （刺激强度：单发TMS 和双发TMS 强度各异）的  \n132 混合设计，因变量为MEP振幅。  \n133 其中，刺激强度水平中两连发 TMS 的CS 强度为 $5 0 \\%$ RMT， $70 \\%$ RMT， $90 \\%$ RMT,  \n134 110%RMT， $1 3 0 \\%$ RMT（CS刺激于DLPFC，对于阈值上下的强度敏感性高，所以以RMT  \n135 为基准）(Lam etal.,2015)；单发TMS的强度为设定为 $70 \\%$ 、 $90 \\%$ 、 $100 \\%$ 、 $1 1 0 \\%$ 、 $120 \\%$ 1mV  \n136 （需要与单发MEP 的 $\\mathrm { 1 m V }$ 标准值来比较，因此以 $\\mathrm { 1 m V }$ 的强度为基准)，从而完成IO 曲线",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f6d411acb68ea75dcc484cf7fbbf212636b894bcfd32ebf178eaad1486abf3b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的测量。每位被试在各个强度水平下均进行10个试次刺激，刺激强度以每5秒的频率随机出现。实验将以前测-学习任务-后测的顺序进行(图 2A)，在学习任务完成后，序列学习组的被试将被询问是否发现序列的存在，并复述序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2(A）实验二流程图；(B）运动学习任务（连续反应时任务）显示图",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3测试方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1两重位置两连发经颅磁刺激",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究选用两个直径为5cm的小8字线圈，分别连接两个单脉冲单相TMS刺激器（型号Magstim200，Whitland，Dyfeld，UK)，对左侧DLPFC和左侧M1进行经颅磁刺激。本研究中，刺激点背外侧前额叶和初级运动皮层均为左侧半脑，从而减少来自半球间的测量偏差，更专注于优势半球。为了研究左半球DLPFC-M1的联通性，实验中的CS将对左侧DLPFC施加经颅磁刺激，通过测量刺激DLPFC 后同侧M1输出兴奋性的程度从而量化DLPFC 对M1的兴奋性或抑制性的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "施加在左侧DLPFC的刺激为CS，施加在M1的刺激为TS。TS线圈位置为右手第一背侧骨间肌对应在M1区的最佳激活位置，即“运动热点”。TS线圈的手柄几乎垂直于中央沟，并与大脑中央矢状线呈 $3 0 ^ { \\circ } { \\sim } 4 5 ^ { \\circ }$ ，通过大脑的电流为\"后一前方向”。为确定左侧背外侧前额叶的精确位置，与经颅磁刺激仪器连接的脑区导航仪（型号eemaginevisor2）通过对被试的大脑核磁共振成像扫描结果进行建模，依据大脑左侧 BA46 脑区的 Talairach 坐标（x，y,z):-40,28,30)确定具体的 CS 位置(Rowe,Stephan,Friston,Frackowiak,& Passingham,2005)。核磁共振成像扫描采用西门子3.0T 全身磁共振成像仪（Siemens Magnetom Trio 3.0T）进行结构像数据的采集。采用12导阵列线圈，以平面回波成像（EPI）序列采集T1\\*结构像，扫描参数：TR $2 0 0 0 \\mathrm { { m s } }$ ，TE $3 0 \\mathrm { m s }$ ，断层间隔 $1 \\mathrm { m m }$ ，翻转角度 $9 0 ^ { \\circ }$ ，层厚 $3 \\mathrm { m m }$ ，矩阵 $6 4 \\times 6 4$ 视野 $2 4 0 { \\times } 2 4 0 \\ \\mathrm { m m } ^ { 2 }$ ，体素大小为（ $3 . 7 5 \\times 3 . 7 5 \\times 5 . 0$ ） $\\mathrm { m m } ^ { 3 }$ ，共 33层，隔层扫描(张兰兰 等，2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2肌电图记录",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "直径 $9 \\mathrm { m m }$ 的碗状 $\\mathbf { A g - A g C l }$ 表面电极片用于记录被试右手第一背侧骨间肌表面肌电图。实验时活动电极放置在肌腹，参考电极放在掌指关节处。数据通过神经放电信号采集器（型号CEDMicor1401）采集，采集到的信号使用电生理信号调节放大器（型号Model2024F)进行过滤（带通滤波 $2 0 { \\sim } 2 5 0 0 0 \\mathrm { H z }$ )，并放大1000倍；过滤放大后的信号以 $1 \\mathrm { k H z }$ 的频率被数字化记录，通过Signal6.0软件进行线下分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.3行为实验范式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本实验的行为实验任务采用的是序列反应时任务（SRTT)。使用E-prime 软件制作实验程序，通过笔记本电脑（惠普Pavilion）屏幕（15.6寸，分辨率 $1 9 8 0 ^ { * } 1 0 2 0$ ，刷新率 $7 5 \\mathrm { { H z } }$ ）呈现刺激，被试使用标准的键盘进行按键反应。被试坐在安静的实验室中，双眼与屏幕距离约 $8 0 \\mathrm { c m }$ ，白色的屏幕中间显示一个黑色箭头。箭头可能出现在四个不同的方向（9、11、1和3点钟方向)，每个方向需要被试用不同手指按下对应按钮（分别是：食指、中指、无名指、小指）（图2B)。箭头出现视为刺激呈现，刺激在屏幕上停留时间为 $8 0 0 \\mathrm { { m s } }$ ，刺激间隔300ms。实验任务共包括10个组块，每个组块包含10个序列，每个序列包含12个不同方向的箭头刺激试次。组块与组块之间被试有充分时间进行休息。在实验开始前，被试将进行10 次练习了解实验程序。对于每个序列中的12个刺激，共有两种不同的顺序，对于序列学习组的来说，黑色箭头的呈现顺序是固定的，将按照1-9-3-1-11-3-11-9-1-3-9-11点钟的方向重复出现。对于随机学习组来说，每个组块中的120试次的出现顺序为伪随机状态，每个组块中的顺序都遵循以下限制条件：箭头出现在每个位置的概率相同，没有直接重复(如1111)，并且排除顺串（如1234）或部分重复（如1212)。参加实验二的40 名被试被随机分成两组参加实验，两组被试的人口学变量不存在差异，详见表1。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1d7e346d49be0eb4ca8dab962955fa3c9ce5c709ff8edaecdec6b9e15395ca5.jpg",
+        "table_caption": [
+            "表1实验二两组被试人口学变量描述统计值和差异检验 $( M \\pm S D )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>序列学习组</td><td>随机学习组</td><td>p</td></tr><tr><td>年龄(岁)</td><td>21.55 ± 1.57</td><td>21.95 ± 1.88</td><td>0.469</td></tr><tr><td>身高(cm)</td><td>172.95 ± 9.77</td><td>171.80 ± 10.35</td><td>0.720</td></tr><tr><td>体重(kg)</td><td>67.35 ± 13.33</td><td>66.70 ± 14.81</td><td>0.885</td></tr><tr><td>受教育年限(年)</td><td>15.90 ± 1.71</td><td>15.65 ± 1.90</td><td>0.665</td></tr><tr><td>RMT(%)</td><td>43.75 ± 4.72</td><td>43.80±4.29</td><td>0.972</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4数据分析及处理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "记录MEP波峰与波谷间的峰峰值作为每次诱发的MEP振幅。两连发（CS-TS）刺激诱发的 MEP振幅以该MEP 振幅与单脉冲TS 振幅的百分比表示(图3)。数值报告以平均值±标准误呈现。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b3b92e076dded95e58e802c634d8a4849bd1a4184a0bc111dc9949d72f6267c.jpg",
+        "img_caption": [
+            "图3单发TMS与两连发TMS脉冲及MEP振幅示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验一中对DLPFC到M1不同的投射时间间隔下的MEP 振幅进行单因素重复测量方差分析考察抑制与兴奋的峰值；实验二中对行为任务结果进行2（组别） $\\times 2$ （组块）两因素重复测量方差分析考察两组被试学习效果的差异；对生理学数据进行2（组别） $\\times 2$ （时间）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\times 5$ （刺激强度）的三因素重复测量方差分析考察不同条件下单发TMS以及两连发TMS 输入输出曲线的差异。数据的检验统计通过 SPSS17.0完成，显著性判别标准设为 $\\scriptstyle { p < 0 . 0 5 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1实验一：背外侧前额叶到初级运动皮层投射的时间过程",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "单因素重复测量方差分析显示不同的时间间隔间下双发MEP 振幅与单发TS 振幅存在显著差异 $\\stackrel { \\prime } { \\cdot } F \\left( 1 0 , 2 0 0 \\right) = 8 . 8 8$ $p < 0 . 0 0 1$ ， $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 3 1$ ，图4)。采用Bonferrioni 法对每个时间间隔下的MEP 振幅与单脉冲 $\\mathrm { 1 m V }$ 的振幅进行多重比较结果显示，与单脉冲MEP相比，在时间间隔为 $1 0 \\mathrm { m s }$ 时，MEP 振幅显著降低（ $_ { ( p = 0 . 0 1 9 ) }$ ，在时间间隔为 $2 0 \\mathrm { m s }$ 时，MEP 振幅显著降低（ $\\scriptstyle { p = 0 . 0 2 1 }$ )，而在时间间隔为 $2 5 ~ \\mathrm { m s }$ 时，MEP振幅显著提升（ $\\scriptstyle \\cdot _ { p = 0 . 0 4 7 }$ ）,其余时间间隔点的统计结果不显著。由于实验需要筛选最大抑制时间点和最大易化时间点，因此呈现出峰值抑制和峰值易化的 $1 0 \\mathrm { m s }$ 和 $2 5 \\mathrm { m s }$ 将选取为实验二的主要时间点。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bb0d755d8bd1eccdbd85b57ec33aa5ba93db74c93d5d54165dc7dbbc2f0cceb.jpg",
+        "img_caption": [
+            "图4实验一背外侧前额叶到初级运动皮层投射结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：时间间隔为第一发刺激(DLPFC)与第二发刺激(M1)之间的时间差，纵坐标为实际 MEP 的振幅与单发测试刺激比值后的标准",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "化值。 $^ { * } p < 0 . 0 5$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2实验二：行为任务反应时间的变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图5 显示了两种不同运动学习组别中被试的第一个组块和最后一个组块的平均反应时间。对反应时进行 $2 { \\times } 2$ 两因素重复测量方差分析显示组别主效应显著！ $\\stackrel { \\prime } { \\cal F } ( 1 , 3 8 ) \\stackrel { } { = } 8 . 3 3$ ， $p =$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0.006, ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 1 8 )$ ，组块主效应显著 $( F ( 1 , 3 8 ) = 1 3 8 . 6 2 , p < 0 . 0 0 1$ ${ \\mathfrak { \\eta } } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 7 9$ ，组别 $\\times$ 组块的交互效应显著（ $\\stackrel { \\prime } { F } ( 1 , 3 8 ) = 3 3 . 4 9$ ， $p < 0 . 0 0 1$ ， ${ \\boldsymbol \\eta _ { \\mathrm { p } } } ^ { 2 } = 0 . 4 7 \\cdot$ )。简单效应分析显示序列学习组（ $\\cdot p <$ 0.001）与随机学习组 $( \\boldsymbol { p } = 0 . 0 1 8$ ）的反应时下降均显著，表明由于练习效应的存在，两组被试组块10的反应时均显著低于组块1的反应时；在组块10反应时中，序列学习组与随机学习组存在显著差异 $( p < 0 . 0 0 1 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cab95a0bac84e07cc9fe77fe593f81725bc826f4c943fd9b56135dd20be9c07e.jpg",
+        "img_caption": [
+            "图5实验二连续反应时任务结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注： $* * _ { p } < 0 . 0 1$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3实验二：不同类型运动学习后单发MEP的IO曲线变化",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图6显示了两种不同类型的程序性运动学习前后第一背侧骨间肌的MEP变化。对MEP进行 $2 \\times 2 \\times 5$ 三因素重复测量方差分析显示刺激强度 $( F ( 4 , 1 5 2 ) = 1 4 0 . 3 4 , p < 0 . 0 0 1 , \\mathfrak { n } _ { \\mathrm { p } } ^ { 2 }$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 7 9$ ）主效应显著，前后测（ $\\stackrel { \\prime } { \\cal F } ( 1 , 3 8 ) = 0 . 1 7$ $p = 0 . 6 8 1$ ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { ~ 2 } = 0 . 0 0 \\AA$ ）主效应不显著，三因素的交互作用不显著（ $F \\left( 4 , 1 5 2 \\right) = 0 . 1 1$ $p = 0 . 1 0 5$ ， $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 0$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/073e4474fb3693b16d484f8a4b5e129b40a4b5c4e351cce3c21c11137a535112.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4实验二：不同类型运动学习后两连发MEP的IO曲线变化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据实验一结果，选出两个达到兴奋或抑制峰值效应所盖时间间隔（I0和 25ms）。在时间间隔为 $1 0 \\mathrm { m s }$ 时，对MEP进行 $2 \\times 2 \\times 5$ 三因素重复测量方差分析显示前后测 $\\left( F \\left( 1 , \\right. \\right)$ $3 8 ) = 0 . 5 3 , p = 0 . 4 7 2 , \\eta _ { \\mathrm { p } } ^ { \\mathrm { \\ell 2 } } = 0 . 0 1$ ）主效应不显著、刺激强度（ $\\stackrel { \\prime } { F } ( 4 , 1 5 2 ) = 1 . 0 0$ $p = 0 . 4 1 1$ ， ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { 2 } =$ 0.03）主效应不显著，三因素交互作用显著 $\\left( F \\left( 4 , 1 5 2 \\right) = 2 . 6 1 , p = 0 . 0 3 8 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 6 \\right)$ 。随后对前后测和刺激强度进行两因素重复测量方差分析显示，在序列学习中，刺激强度 $( F \\left( 4 , 7 6 \\right) =$ 0.98, $p = 0 . 4 2 6$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 5$ ）主效应不显著，前后测 $\\left( F \\left( 1 , 1 9 \\right) = 1 . 7 3 , p = 0 . 2 0 4 , { \\mathfrak { n } } _ { \\mathrm { p } } ^ { 2 } = 0 . 0 8 \\right)$ 主效应不显著，但前后测 $| \\times \\rrangle$ 刺激强度交互作用显著（ $\\left( F \\left( 4 , 7 6 \\right) = 4 . 2 4 \\right.$ ， $p = 0 . 0 1 1$ $\\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 8$ ，如图7A)。事后检验显示在序列学习后， $1 1 0 \\%$ RMT 强度下诱发的MEP振幅显著高于学习前（基线水平） $( p = 0 . 0 0 2 )$ 。在随机学习组中，两因素方差分析显示刺激强度 $( F ( 4 , 7 6 ) = 0 . 5 7 , p =$ 0.683, ${ \\mathfrak { n } } _ { \\mathrm { p } } ^ { 2 } = 0 . 0 3$ ）或前后测组别 $\\left( F \\left( 1 , 1 9 \\right) = 0 . 1 2 , p = 0 . 7 3 6 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 0 1 \\right)$ ）或前后测 $\\times$ 刺激强度的交互作用（ $\\stackrel { \\prime } { F } ( 4 , 7 6 ) = 0 . 7 7$ $p = 0 . 5 5 1$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 4$ ）均不显著（图7B)。在时间间隔为 $2 5 \\mathrm { m s }$ 时，对 MEP 进行 $2 \\times 2 \\times 5$ 三因素重复测量方差分析，结果发现前后测 $\\left( F \\left( 1 , 3 8 \\right) = 1 . 0 8 \\right.$ $p = 0 . 3 0 4$ ${ \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 0 3 )$ 主效应不显著，刺激强度 $( F \\left( 4 , 1 5 2 \\right) = 3 . 8 6 , p = 0 . 0 0 5$ （（204号 $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 9$ ）主效应显著，三因素交互作用显著 $\\left( F \\left( 4 , 1 5 2 \\right) = 2 . 4 8 , p = 0 . 0 4 6 , { \\mathfrak { \\eta } } _ { \\mathrm { p } } ^ { 2 } = 0 . 0 6 \\right)$ 。随后进行的两因素重复测量方差分析显示，在序列学习组中，刺激强度 $\\left( F \\left( 4 , 7 6 \\right) = 1 . 0 7 \\right)$ $p = 0 . 3 7 6$ （204号 $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 5$ ）和前后测 $( F \\left( 1 , 1 9 \\right) = 3 . 0 0$ $p = 0 . 0 9 9$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 4$ ）主效应均不显著，但前后测 $\\times$ 刺激强度 $\\left( F \\left( 4 , 7 6 \\right) = 3 . 2 9 \\right)$ $p = 0 . 0 1 5$ ， $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 5$ ,图7C）交互作用显著。事后检验显示在序列学习后， $1 1 0 \\% \\mathrm { R M T }$ 强度下诱发的MEP 振幅显著低于学习前（基线水平） $( p \\textless 0 . 0 0 1 )$ 。在随254 机学习组中，两因素方差分析显示刺激强度 $\\left( F \\left( 4 , 7 6 \\right) = 3 . 2 3 , p = 0 . 0 1 7 , \\mathfrak { \\eta } _ { \\mathrm { p } } ^ { 2 } = 0 . 1 5 \\right)$ 主效应显255 著，事后比较显示 $5 0 \\% \\mathrm { R M T }$ 与 $90 \\%$ RMT( ${ \\it p } = 0 . 0 4 1 { \\it \\Delta }$ ， $5 0 \\% \\mathrm { R M T }$ 与 $1 1 0 \\%$ RMT ( ${ \\bf \\dot { \\theta } } _ { P } = 0 . 0 1 1 { \\bf \\theta } )$ ，256 $1 1 0 \\% \\mathrm { R M T }$ 与 $1 3 0 \\% \\mathrm { R M T } ( p = 0 . 0 3 3 )$ 之间存在显著差异;但是前后测 $\\left( F \\left( 1 , 1 9 \\right) = 0 . 0 9 \\right.$ $p { = } 0 . 7 7 2$ 257 $\\mathfrak { \\eta } _ { \\mathfrak { p } } { } ^ { 2 } = 0 . 0 0$ ）或前后测 $\\times$ 刺激强度的交互作用（ $\\stackrel { \\prime } { F } ( 4 , 7 6 ) = 0 . 6 5$ $p = 0 . 6 2 6$ $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 0 3$ ）均不显著258 （图7D）。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce0104d1afdc90e403a2d15eff0dfe6554cd7e7f5bb0d42d849e7a84126ffceb.jpg",
+        "img_caption": [
+            "图7不同类型运动学习前后两连发MEP的IO曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "注： $* * _ { p } < 0 . 0 1$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.5行为数据与生理数据的相关",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图8显示了两种不同运动学习组别中被试的第一个组块和最后一个组块的平均反应时间之差与生理学指标MEP之差的相关统计结果。MEP之差为正值说明学习后运动皮层兴奋性下降，反之则上升。通过相关分析发现，被试在时间间隔为 $1 0 \\mathrm { m s }$ 时，序列学习组的运动皮层兴奋性上升幅度越大，所用的反应时下降也越大， $r = - 0 . 4 4 8$ ， $p = 0 . 0 4 8$ (图8A)；在时间间隔为 $2 5 \\mathrm { m s }$ 时，序列学习组的运动皮层兴奋性下降幅度越大，所用的反应时下降幅度也越大， $r = 0 . 4 6 7$ ， $\\mathnormal { p } = 0 . 0 3 8$ (图 8C)。随机学习组在两个时间间隔中均未表现出显著相关性( $\\mathrm { 1 0 m s }$ 时， $_ { p = 0 . 1 2 1 }$ ，图8B； $2 5 \\mathrm { m s }$ 时， $\\scriptstyle { p = 0 . 3 7 3 }$ ，图8D)。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/649719d5c439857753499b694307aee9f3352d8f87e736f2fe637505869d39b9.jpg",
+        "img_caption": [
+            "图8行为数据（反应时）与生理数据（MEP）的相关"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究采用 SRTT和TMS，探究左侧DLPFC到M1的联通性在两种不同的程序性运动学习中是否有差异。通过行为和电生理数据，我们发现(1)序列学习组的学习效果更好，随着学习的进行，反应时显著下降。(2)左侧 DLPFC 到M1的投射在两个时间节点上分别表现出显著的抑制(10ms)和易化连接极值(25ms)。(3)单发TMS 产生的MEP 在序列学习和随机学习两种学习条件下均未发生改变；而两连发的 MEP 显示，在110%RMT 的输入强度下，DLPFC-M1 联通性在序列条件下发生改变，且与行为数据相关，而在随机条件下未发生改变。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1DLPFC到M1投射的抑制性及易化性神经通路",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "结果发现，从DLPFC 到M1有早期的抑制峰值和晚期的易化峰值（图4)。这表明第一发的CS通过激活前额叶皮层而抑制或增强了初级运动皮层对第二发测试刺激的反应。存在的这两个投射时间点可能是因为从特定脑功能区到M1的大脑纤维通路长度不同和相关神经元的阈值不同等原因造成的(Wedeen et al.,2012)。早期出现的10ms 抑制峰值可能是突触信号从DLPFC 直接传递到M1的最佳时间，这取决于来自前额叶或来自于M1的潜在白质(即上纵束)对皮质直接投射的激活(Koch etal.,2007)。另外，抑制了DLPFC 的兴奋性后，M1 的皮层兴奋性提升；而易化了DLPFC 的兴奋性后，M1的兴奋性下降(Cao et al.,2018)。这种双向的反作用关系表明了DLPFC与M1存在着抑制的投射通路，与本研究的发现一致。对于后期出现的 25ms 的易化峰值，可能的解释是输入信号的传递并不是完全从DLPFC 直接传到M1，而是途经背侧前运动区等其他脑区，它们扮演着\"中转站\"角色，形成多突触回路传递。大多数来自于DLPFC的皮质投射会经由前运动皮质，到达初级运动皮质，因此在25ms 的时间节点存在易化效应(Koch&Rothwell,2009)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "除了在 $1 0 \\mathrm { m s }$ 和25ms 时间间隔下分别达到抑制和易化的顶点，在2、4、6、8、15、20ms及 30ms 的时间间隔中MEP 同样呈现出抑制的投射状态。与M1相连的突触投射中，易化效果只出现在较少的时间间隔下并且对刺激强度的敏感度要求较高，而在大多数的时间间隔和刺激强度中则呈现出抑制的投射，这与 Koch 等人先前研究结果一致(Koch et al.,2007)。抑制投射的主导性原因至今尚不明确。一个可能的解释是易化的连接是区域范围内少数通路之间的投射连接，而抑制投射则是大面积、更广泛普遍的存在。TMS 作为焦点刺激法，每个线圈的磁刺激只能施加到目标区域中具体的某一焦点，因此更容易探知到更广泛存在的抑制连接(Hanajima et al.,2001)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2DLPFC在不同运动序列学习中的差别性作用",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "研究发现与随机学习组相比，序列学习组DLPFC-M1通路的兴奋性有不同的变化，特别是在CS 强度为110%RMT时表现最强（图7A,C)。基于以往的研究，可能的解释是相比于阈下刺激，阀上刺激能够更好地诱发额叶和 M1 之间的功能性作用与连接(Jacinta et al.,2010;Koch etal.,2007)，而当阈上刺激的强度过高( $1 3 0 \\%$ RMT)时，反而会抑制该通路中的突触传递，从而抑制测试刺激诱发的 MEP(Uehara,Morishita,Kubota,&Funase,2013)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "实验二结果发现序列学习组可以在两个最佳时间点改变DLPFC-M1的兴奋性，说明序列学习和随机学习在DLPFC-M1投射上存在差异。在序列学习任务中，屏幕上出现的信号很快到达前额叶区域并获得加工，经过足够试次的训练，DLPFC 进一步激活，并向运动皮质发送促通信号，导致DLPFC-M1的联通性在10ms 的间隔时间下比学习前显著增强（图7A)。而在 25ms 的时间间隔点下，两连发MEP 在序列学习后显著下降（图7C)，同10ms时间点的MEP一样显示出了与基线状态相反的变化趋势。这种同步的反转展示出了学习产生的效应对于脑区联通性的影响，学习后记忆的痕迹带来的独特、持久的表征作用于大脑网络，产生可塑性的变化进而产生反应时的变化(张剑心，汤旦，查德华，黄建平，刘电芝，2016)。前人采用fMRI方法也报告了序列学习后DLPFC和M1的静息态功能连接(resting-statefunctional connectivity)增强的结果(Steel etal.,2016)。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "序列学习被认为是通过经验的积累来完成学习(Mayor-Dubois et al.,2016)。其与随机学习的主要区别在于受试者需要通过激活DLPFC调用空间注意力伴随意识模式发现并掌握规律，来完成记忆序列和决策的过程(杨叶红，王树明，2018)。神经影像学研究证实左侧DLPFC在运动学习中被激活(Toni etal.,1998）。对于序列学习任务，前人研究结果表明在按键学习任务中对 DLPFC 的脉冲刺激显著增强了被试 M1的兴奋性，这与我们在序列学习组 10mS两连发 TMS 的结果是一致的(Hasan et al.,2013;Lam et al.,2015)。Willingham 等人(2002)认为DLPFC可能传递一种与意识的注意方向平行的功能即有意识的选择性反应。这种在目标出现之前的有意识的选择会降低序列学习条件下的反应时。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，尽管受试者没有提前知道序列的存在，但在本研究中，序列学习组的受试者均在运动学习任务结束后成功地回忆起了包含12个数字的整个序列顺序。也就是说，左侧DLPFC 区域的激活与通过观察线索的出现进行序列搜索的过程有关。DLPFC 参与了序列搜索的过程，这些意识参与并且再认的过程是目标导向模式搜索中的内隐过程，进而激活背外侧前额叶脑区(Fatma,Thorsten,Christof,& John-Dylan,2012)。我们同样对生理数据和行为数据进行了相关性的分析，结果显示在序列学习组中，无论是 $1 0 \\mathrm { m s }$ 还是 $2 5 \\mathrm { m s }$ ，被试在第一个组块与最后一个组块的反应时差值和学习前后两连发TMS 呈现显著的相关性（图8A，C)，表现出DLPFC-M1的联通性与行为任务中的学习效果提升关系密切，进一步表明左侧DLPFC的激活水平与受试者序列学习的能力有关。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3运动认知网络在运动学习中的重要性",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "我们发现两种不同的运动学习任务干预约20分钟后，单发运动诱发电位的IO曲线没有任何变化(图6)，相反，两连发MEP和IO 曲线在序列顺序组中发生了显著性变化(图 7A，C)，表明序列学习对 DLPFC-M1通路的兴奋性有一定的影响。Jueptner 等人在1997 年的一项脑成像研究中也报告了类似的结果，这些受试者被要求用8个手指对一个类似的序列学习任务重复训练，并对训练前后受试者的运动兴奋性进行比较。结果表明在训练的早期阶段，短期的、同组块内的可塑性并没有显著性变化(Jueptner et al.,1997)，这个结果也得到了其他研究的支持(Grafton,Hazeltine,&Ivry,1995; Stefan et al.,2006)。这些研究表明短期的运动学习激活了相关的大脑网络，但是没有特别地对初级运动皮质有显著性的激活和兴奋性的提升。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "已有的很多文献都对初级运动皮质的抑制和促进效应进行过探究，其中测试刺激施加在初级运动皮层，条件刺激来自于同侧小脑(Ugawaet al.,1991)或施加于前额叶区等脑功能区(Cao et al.,2018; Civardi, Cantello,Asselman,& Rothwell,2001)。这些通路和不同脑区之间的联通性表明大脑皮层的信息传递和组织具有全局性，意识的产生和动作的执行必须在全脑建立长时程的工作平台，而不仅仅局限于某一单一的脑功能区。具有不同生理特性的特定神经元群分布在大脑皮层网络的每个节点上，并与远近各处的其他神经元形成极其复杂的连接(Oh et al.,2014)。前人的这些研究主要探讨了静息状态下DLPFC 和M1之间的联系与投射，而没有分析运动学习对两个功能脑区联通性的影响。本研究加入了程序性运动学习任务，进一步发现了DLPFC-M1的联通性对于提升运动学习中的表现有显著的作用，从而说明DLPFC-M1通路在序列运动学习中的重要性与因果性。通过了解DLPFC到M1的投射在序列和随机学习中的差别性作用，能让我们更多地了解DLPFC 脑区在其众多功能中的分化与合作。探究人类大脑各功能区之间的协同合作和网络工作模式依旧是揭示人类日常心理活动的重要课题。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究通过连续反应时任务和经颅磁刺激法的结合对左侧背外侧前额叶在程序性运动学习中的作用进行探究，行为学结果发现序列学习组的学习效果更佳；电生理学结果发现，两组学习前、后M1的运动诱发电位均未发生改变；在最佳时间投射点、适当刺激强度下，序列学习组DLPFC-M1联通性发生改变，且与学习成绩相关，而随机学习组没有改变。结果表明，DLPFC 和 M1 间联通性的增强可能是序列学习成绩更佳的重要原因，这一研究从电生理角度为DLPFC 在运动学习中的作用提供了重要证据。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Cao,N.,Pi,Yu,n,HWu,ag,,nX.().bdciaoofrdoolateaa to primary motor cortex in healthy humans atrest-an rTMS study.Neuroscience Lettrs,687,82-87.   \nCivardi,C,telootel.siclaiodt primary motor areas from frontal and medial cortex in humans.Neuroimage,14(6),1444-1453.   \nClegg,B.A.,Digirolamo,G.J.,&Keee,S.W.(998).Sequence learning.rendsinCognitiveSciences,2(8)75. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "83 Fatma,I.Toten,Ksto,K,o-n,H().agsictialoiittosouseio   \n84 Neuroimage,63(4),1909-1917.   \n85 Fuster,J.M,&Alexander,G.E.(1971).Neuronactivityrelated to short-term memory.Science,173(3997),652-654.   \n86 Friston,K.J.().odiectiityrciiy.   \n87 Gordon,B.(198).Preservedleaingofnovelinformatioinamnesia: evidenceformultiplememorysystemsrai&Cognition,7(3),   \n88 257-282.   \n89 Grafman,J,WengarerHouse,P.A,ompoK,alonde,F,itan,nderand.(99).Iplicieagin   \n90 patients withlzheimer's disease.Pharmacopsychiatry23(),94-101.   \n91 Grafton,S.T.,Hazeltine,E.,&Ivry,R.(1995).Functionalmappingofsequence learning innormal humans.Mrss.   \n92 Grafton,S.T.,Woods,R.P,&yskaM.(99).Functionalimagingofproceduralmotorleaing:Relatingcerebralbloodflowwith   \n93 individual subject performance. Human Brain Mapping,1(3),221-234.   \n94 Hallett,M.,.(o).Transcanialmagnetic stimulationandthehumanbrain.Nature,46(6792),14150.   \n95 Hanajima,RUgawaY,accukiraootoH.Knaaw,Il).teemisphericfciliao   \n96 hand motor area in humans. Journal of Physiology,531(3),849-859.   \n97 Hasan,A.,Galea,J..,Casula,E.P.FalkaiP.Bestmann,S.&RothwellJ.C.(ol3).Muscleandtiming-spciicfuctioal   \n98 connectivity betweenthedorsolateral prefrontalcortex andthe primarymotorcortex.Journalof CognitiveNeuroscience,   \n99 25(4), 558–570.   \n00 Hikosaka,O.,Nakamura,K.,Sakai,K.,&Nakahara,H.(2O2).Central mechanismsofmotorskillearing.CurrntOpinionin   \n01 Neurobiology,12(2),217-22.   \n02 Jacinta,O.S.,Catherie,ooan,E.DHeidi,&ushworth,.S).unctioasecificityofumapremoootr   \n03 cortical interactions during actionselection. European Journal ofNeuroscience,26(7),2085-2095.   \n04 Jenkins,I.HBroksD.JxoPDFrackowiakR.S.,&asingham,R.E.(994).otorseuenceleag:asdiosi   \n05 emission tomography. Journal of Neuroscience,14(6),3775-3790.   \n06 Jueptner,M.,epan,K.t,C.DroksD.Jackowiak,R..,&Passingam,R.E.(997).Aatomyfmotog   \n07 Frontal cortex and attention to action.Journal of Neurophysiology,77(3),1313.   \n08 Kielan,Y,eter,,&KkaerJ.W.).sidefitete:ralproesstatsuprtgct   \n09 sports. Nature Reviews Neuroscience,10(8),585-596.   \n10 Koch,G.,FeadeOo,ranugeD,g,.io,C,oel,J.C.().Foclf   \n11 theposterior parietal cortex increases theexcitabiltyof the ipsilateral motor cortex.Journalof Neuroscience,27(25),   \n12 6815-6822.   \n13 Koch,G.,&othwell,J.C.).ivestigatiostoesk-epndentfunctioaliteplaeeenumanosterortal   \n14 and motor cortex. Behavioural Brain Research,202(2),147-152.   \n15 Krebs,H.,Hogan,NHening,Wdamovich,S.,&oer,H.(ol).Proceduralmotorleainginarkinson’siseaseExpimtal   \n16 Brain Research,141(4),425-437.   \n17 Lafleur,L.Pby.iigtalK,&ae,.).essmtoftieiidpsitia   \n18 transcranial magnetic stimulation.Brain Stimulation,9(3),347-355.   \n19 Lam,S.，Gunraj，C.，Vesia，M.，Jegatheeswaran，G.，Hui,J.，&Chen，R.(2015).Efectsofageonmotorleamingand   \n20 prefrontal-motorcortical excitability.Brain Stimulation,8(2),313.   \n21 Lazzaro,V.,DiOliviero,A.,Profice,P.Isola,A.，Mazone,P.,TonaliP.,&Rothwell,J.C.（1999).Drectdemonstratioof   \n22 interhemispheric inhibitionof the human motor cortex produced by transcranial magnetic stimulation.Experimental Brain   \n23 Research,124(4),520-524.   \n24 Leonora,W.ToJ.TIgacioO.othwel,J.C.&arjanJ(o).Teotributionofprimarymotorcortexisafor   \n25 probabilistic implicit sequence learning: evidencefromtheta burst magnetic stimulation.Journal ofCognitive Neuroscience,   \n26 22(3), 427-436.   \n27 Marco,S.,Carlo,U.&Elena,R.Ol1).Theuseof rascranialmagneticstimulatioincognitivenuroscience:anewsthsisf   \n28 methodological issues. Neuroscience & Biobehavioral Reviews,35(3),516-536.   \n29 Mayor-Dubois,CZesiger,PVanderLinden,M,&Roulet-Perez,E.(0l6).Procedurallearing:adevelopmentalstudyfotor   \n30 sequence learningand probabilisticclassificationlearning inshool-agedchildren.Child Neuropsychology,2(6),718-734.   \n31 Miller,E.K.(2ooo).The prefrontalcortexand cognitive control. Nature Reviews Neuroscience,1(1),59-65.   \n32 Ni,Z.,&Chen,R.(l2).tracorticalCuitsandTeirInteractionsinHumanPrimaryotorCortex.CoicalConectivitySrger   \n33 Berlin Heidelberg.   \n34 Ni,Z.,Florian,M.D.Chen,R,&Ziemann,U.(1).iple-pulsetoudyinteractinsbtwenneualuitsinanorte.   \n35 Brain Stimulation,4(4),281-293.   \n36 Ni,Z,Gunaj,KaileyPCash,R.F,&n.().HterosapcmodatioofotorcorticalplasiityinmaJouf   \n37 Neuroscience,34(21),7314-7321.   \n38 Ni,Z.,GuajCeso,.JhJstl,e,T,n,.).sesointeisheibo   \n39 motor related cortical areas and the primary motor cortex in human. Cerebral Cortex,19(7),1654-1665.   \n40 Noguchi,T.,Demura,S.agasawa,Y.,&Uchiama,M.(o).uenceofmeasurementorderbydominantandnondominanthans   \n41 on performance of a pursuit-rotor task.Perceptual&Motor Skills,l08(3),905-914.   \n42 Oh,S.W.,Hais,A,Ng,L,Wslo,Cn,N,alas,S,Zeng,H.(4).mesosalecotomeothemousebrainNatue   \n43 508(7495),207-214.   \n44 Oldfield,R.C.(971).Theassessmentandanalysisofandedness: teEdinburghinventory.Neuropschologia,9(),97113.   \n45 Pascual-Leone,A.,Wasean,E.Gfman,,&alet,.(996).eroleoftedorsolateralprefrontalortexplicit   \n46 procedural learning. Experimental Brain Research,107(3),479-485.   \n47 Poldrack,R.AabbFWKarinF,o,S.aow,R.FoeimerS.,&Kolon,B.J.().Teeuraoasf   \n48 motor skill automaticity. Journal of Neuroscience,25(22),5356.   \n49 Riding,M.C.&otwel,J.C.(O).IstereafuturefoherapeuticuseoftrasranialmageticstimulatioNtureReviews   \n50 Neuroscience,8(7),59-567.   \n51 Robertson,E.,Tros,J.,aeda,F,&ascualLeone,.(l).eoleofthdorsolateralprefrontalcortexduringee   \n52 learming is specific forspatial information. Cerebral Cortex,I(7),628-635.   \n53 Rothwell,J.C. (O).UsingtranscranialmagneticstiulationmethodstoprobecoectivityetweenmotorareasofthebainHuman   \n54 Movement Science,30(5),906-915.   \n55 Rowe,J.B.,en.EnKacoik,.,g,.E.).otaeooei   \n56 changes in efectiveconnectivityto motoror visual cortexduring the selection of action orcolour.Cerebral Cortex,15(1),   \n57 85-95.   \n58 Sakai,K.,HikosakaO.,yauchi,akino,saki,Y,&utz,B.(951).Trasionobrainctivatiofrofrontaltoetal   \n59 areas in visuomotor sequence learning. Modern Law Review, 14(3),356-358.   \n50 Schendan,H.E,Searl,M.M.Melrose,R.J,&Ste,C.E.O3).AnFMIstudyoftheroleofthe medialtemporalobeinpliit   \n51 and explicit sequence learning. Neuron, 37(6),1013-1025.   \n52 Seidler,R.Do,.bilK,J)aea   \n53 implicit sequence learning.Experimental Brain Research,165(1),114-124.   \n54 Shadmehr,R.,&Hlcomb,H.H. (1997).Neuralcorelatesofmotormemoryconsolidation.cience,2(5327),825.   \n55 Squire,L.R.(992).Declarativeand nondeclarative memory:multiplebrainsystemssupporting leaningand memory.Journalof   \n56 Cognitive Neuroscience,4(3),232-243.   \n57 Steel,A.,SongS.Bgeac,D.,KutsonK..,KeislerA,ad,Z.S.Wikinson,L.(6)hiftsincoectivityuring   \n58 procedural learningaftermotorcortex stimulation:acombined transcranial magnetic stimulation/functional magnetic   \n59 resonance imaging study. Cortex, 74,134-148.   \n70 Stefan,K.,Wslor,AsKJ)raioie ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "motor cortical plasticity by prior dynamic motor training. Cerebral Cortex,l6(3),376-385. Toni,I,Kras,,&sg,.E.99).eourseogugoteeleaglbn fMRI study. Neuroimage,8(1),50-61. Uehara,K.,Morshita,T.Kubota,S.,&Funase,K.(O3).euralmechaismsnderlyingthehangsinipsilateralprimarotor cortex xcitability during unilateral rhythmic muscle contraction.Behavioural Brain Research,240(2),33-45. Ugawa,Y.,DayB.Lothwel,J.C.,ompso,PD.,erton,P.,&arsden,C.D.(991).odulatinofmoorical excitabilityby electrical stimulation over the cerebelum in man.Journal of Physiology,441(1),57-72. Weden,V.Josen,D.LWag,.aiGortazavi,agman,P.seng,W..().egeometricstructureofebn fiber pathways.Science,335(6076),1628-1634. Wilingham,D.Joana,.&GabreliJD.E.().Directcomparisonofeuralsstemsmediatingconsciousnducoious skill learning.Journal of Neurophysiology, 88(3),1451-1460. Willngham,D.B.(1998).Aneuropsychological theoryofmotorskillearning.Psychological Review,05(3),58584. Yang,G.(2014).Implicitsequencelearningofemotional stimulationandsemanticstimulation (Unpublished masterdissertation). Shenyang Normal University. [杨光.(2014).情绪刺激和语义刺激的内隐序列学习研究(硕士学位论文).沈阳师范大学.] Yang,Y.H.,&Wang,S.M.(018).Studyonneurophysiological mechanismof motorskillearing.Jouralof WuhanIstituteof Physical Education,52(8),86-90. [杨叶红，王树明.(2018).动作技能学习神经生理机制研究．武汉体育学院学报,52(8),86-90.] Zhang,J.X.,TangD.，Cha,D.H.Huang,J.P,&Liu,D.Z.(2016).Theembodied mechanismof implicitsequencelearing consciousness.Advances in Psychological Science,24(2),203-216. [张剑心，汤旦，查德华，黄建平，刘电芝.(2016).内隐序列学习意识的具身机制．心理科学进展,24(2),203-216.] Zhang L.L.ShenC.,ZhuH.,LiX.P.DaiW,WuY.,&ZhangJ. (2O17).Theeffectsofmotorskillevelandsomatosensoryinputon motor imagery: an fMRI study on basketballfree shot.Acta Psychologica Sinica,49(3),307-316. [张兰兰，沈诚，朱桦，李雪佩，戴雯，吴殷，张剑．(2017).运动技能水平与躯体感觉输入对运动表象的影响．心理学报，49(3), 307-316.] Ziemann,U.eis,JhwekresPao,rafela,dawy&er-DauF()dd 2014.Clinical Neurophysiology,l26(10),1847-1868. Ziemann,U.(2004).TMS and drugs.Clinical Neurophysiology,115(8),1717-1729. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Functional role of the left dorsolateral prefrontal cortex in ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "procedural motor learning ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "CAO Na1; MENG Haijiang1; WANG Yanqiul; QIU Fanghui1; TAN Xiaoying²; WU Yin³; ZHANG Jian1 ('School of Psychology,Shanghai University of Sport,Shanghai 2Oo438,China)   \n( School of Physical Education and Coaching,Shanghai University of Sport,Shanghai 2O0438,China) ( School of Economics and Management,Shanghai University of Sport, Shanghai 2O0438,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Procedural motor learning includes sequence learning and random learning. Neuroimaging studies have shown that the dorsolateral prefrontal cortex (DLPFC) and primary motor cortex (M1) play significant roles in procedural motor learning; however, the connectivity between the DLPFC and M1 and its relationship with different procedural motor learning are still unclear. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In this study, the serial response time task (SRTT） and transcranial magnetic stimulation (TMS)were used to explore the differences in left DLPFC-M1 connectivity between the different types of procedural motor learning. In experiment 1, dual-site paired-pulse TMS was used to detect the optimal interval from the DLPFC to the M1. In experiment 2,the participants were divided into two groups that underwent sequence learning or random learning. Behavioral data, motor evoked potentials from the M1 and electrophysiological data of DLPFC-M1 connectivity were assessed before and after learning. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The behavioral results showed that the learning effect of the sequence learning group was better. The electrophysiological results showed that motor evoked potentials from the M1 were the same before and after learning in both groups.At the optimal interval and appropriate stimulation intensity, the DLPFC-M1 connectivity in the sequence learning group was changed,and it was related to learning performance; however that in the random learning group was not significantly changed. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The results suggest that enhanced connectivity between the DLPFC and M1 may be an important explanation for the better performance in sequence learning.The results provide robust electrophysiological evidence for the role of DLPFC in motor learning. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words dorsolateral prefrontal cortex; primary motor cortex; transcranial magnetic stimulation; procedural motor learning; sequence learning ",
+        "page_idx": 19
+    }
+]

@@ -1,0 +1,113 @@
+Chin.J. Space Sci. 空间科学学报
+
+Han JianweiFengGuoqiang,YuYongtao,Ma Yingqi,Shangguan Shipeng,ChenRui,Zhu Xiang.Analysisofsingle-evnteects rateofK6R406VDhipsapdinowEarthorbit (inCese).Chin.J.SpaceSci.,015,35(1):64-68,doi0.728/j101. 064
+
+# K6R4016V1D芯片在低地球轨道发生单粒子效应频次的分析
+
+韩建伟 封国强 余永涛 马英起 上官士鹏 陈睿朱翔
+
+(中国科学院空间科学与应用研究中心北京 100190)
+
+摘要俄罗斯福布斯-土壤火星探测器于 2011年11月9 日携带中国首个火星探测器萤火一号进入低地球轨道 (LEO),但原定于 $1 5 9 \mathrm { m i n }$ 后探测器在轨发动机点火变轨未能实施，最终探测计划失败.俄罗斯航天局研究分析认为，事故最可能是由于宇宙线重离子轰击星载计算机存储器件，导致两台计算机重启所致.但是抗辐射专家对空间辐射粒子会在如此短时间内通过单粒子效应(SEE)导致LEO探测器失效的观点并不认同.本文根据俄罗斯航天局发布的受影响器件信息，通过实验和计算，分析了K6R4016V1D 芯片在低地球轨道运行时可能遇到的空间辐射粒子诱发单粒子效应的频次，探讨了单粒子效应导致福布斯-土壤火星探测器失效的可能性
+
+关键词福布斯-土壤,火星探测器,K6R4016V1D 芯片，单粒子效应 中图分类号P353
+
+# Analysis of Single-event Effects Rate of K6R4016V1D Chips Applied in Low Earth Orbit
+
+HAN Jianwei FENG Guoqiang YU Yongtao MA Yingqi
+
+SHANGGUAN Shipeng CHEN Rui ZHU Xiang (Center for Space Science and Applied Research,Chinese Academy of Sciences，Beijing 100190)
+
+AbstractRussia's Mars probe Phobos-Grunt together with China's first Mars probe Yinghuo-1 were launched into Low Earth Orbit (LEO) on November 9, 2011. Unfortunately, the main probe failed to fire its thrusters and transfer its orbit as planned after 159 minutes,eventually the trip to Mars was terminated. The most likely cause of the accident investigated by Russian Space Agency (RSA) was that RAM chips in onboard control computers worked wrong when hit by cosmic heavy charged particles,which sequently led to the two computers restart and eventually disturbed the probe totally. However experts on satelite radiation hardness casted lot of doubt on the statement that LEO probe can be effected by Single-Event Effcts (SEE) resulting from space radiation particles in so short period of time. Based on information of the victim RAM components disclosed by RSA, experiment tests and calculations were performed for K6R4016V1D chip to predict SEE rate when applied in LEO.Finally, possbility for SEE to cause the failure of Phobos-Grunt probe was discussed. Key wordsPhobos-Grunt,Mars probe,K6R4016V1D chip, Single-event effects
+
+# 0 引言
+
+俄罗斯福布斯-土壤火星探测器于北京时间2011年11月9日04:16发射，其上携带中国首个火星探测器萤火一号.福布斯-土壤火星探测器顺利进入近地点 $2 0 5 \mathrm { k m }$ 、远地点 $3 1 9 \mathrm { k m }$ 、倾角 $5 1 . 4 ^ { \circ }$ 的低地球轨道，按计划应在北京时间06:55:47进行第一次在轨发动机点火从而实施变轨，但探测器未能执行该操作并与地面失去联系．在随后一段时间里虽然进行了极大努力挽救，探测器最终仍于北京时间2012年1月16日坠入太平洋
+
+俄罗斯航天局在对事件研究分析后认为\*，导致事故最可能的原因是宇宙线重离子轰击星载计算机系统的存储器使其运行出错，两台计算机系统重启，致使探测器进入安全运行模式．具体受影响的器件为 WS512K32V-20G24M 静态随机存储器(SRAM)．针对这一观点，相关抗辐射专家提出质疑．IEEE Spectrum 就此发表了专题文章 \*\*，认为WS512K32V-20G24M器件早在几年前就被认定为对单粒子锁定效应 (Single-Event Latchup，SEL)极端敏感的器件之一[1],不适合应用于航天器；尽管此器件为SEL敏感器件，但相关专家认为其在两个多小时的低地球轨道运行间发生锁定是不可能的，怀疑导致福布斯-土壤探测器失效的原因为软件设计.
+
+本文针对俄罗斯航天局提出的导致福布斯-土壤探测器失效的器件及内部芯片进行了试验和计算，分析其在探测器进入低地球轨道时发生单粒子效应的频次，由此探讨该机制导致探测器失效的可能性.
+
+# 1可能导致福布斯-土壤探测器失效的关键器件及单粒子效应实验
+
+# 1.1 导致探测器失效的关键器件
+
+福布斯-土壤探测器星载计算机系统采用的是两只型号为WS512K32V-20G24M的SRAM器件.该器件为WHITEELECTRONICDESIGNS公司生产的16Mbit军级SRAM.
+
+本文研究的WS512K32V-20G24M器件由4片SAMSUNG 公司生产的型号为 K6R4016V1D的4Mbit SRAM芯片叠装而成．本文的实验均针对K6R4016V1D芯片，在此基础上分析WS512K32V-20G24M器件在福布斯-土壤火星探测器应用时发生单粒子效应的可能性
+
+# 1.2 K6R4016V1D芯片单粒子效应实验
+
+通过脉冲激光、 $\alpha$ 源、重离子加速器等手段，获得K6R4016V1D芯片的单粒子效应特性.本文利用中国科学院空间科学与应用研究中心建立的皮秒脉冲激光实验单粒子效应装置和相关实验技术[2-6],较快速地获得了芯片发生单粒子效应的一些特性，
+
+采用不同能量的脉冲激光对芯片背面进行辐照发现其较容易发生单粒子锁定现象．在1nJ能量下，对芯片背面右上端1/4左右的区域进行扫描辐照，当发生单粒子锁定时实验装置自动记录该位置，实验结束后以映射的芯片正面 (左上端)为背景绘制发生锁定的位置分布，所得结果如图1所示.从图1可以看出，1nJ激光扫描辐照下此芯片几乎处处发生单粒子锁定现象．根据实验设定的受辐照芯片面积 $S$ ，辐照激光脉冲的重复频次 $f$ 和辐照时间 $t$ ，以及记录到的单粒子锁定次数 $N$ ，利用公式 $\sigma = ( N / f t ) S$ 可以计算得到锁定截面 $\sigma$
+
+![](images/a42be3f71772b11de0db512cc8448053f53e3a8ad8f897820c48186fdf36d398.jpg)  
+图1K6R4016V1D芯片发生单粒子锁定的位置分布 (图中左上端的红色点)  
+Fig.1Distribution of SEL on K6R4016V1D die (red points on top left section)
+
+图2给出的是芯片单粒子锁定截面随辐照激光能量的变化关系，从图2可以看出，K6R4016V1D芯片发生单粒子锁定的激光能量阈值为 $0 . 6 5 \mathrm { n J }$ ，饱和截面为 $\mathrm { 0 . 1 5 7 { c m } ^ { 2 } }$ ．芯片整个管芯面积为 $0 . 4 8 \mathrm { c m } \times$ $0 . 5 2 \mathrm { c m } = 0 . 2 5 \mathrm { c m } ^ { 2 }$ ，即管芯的绝大部分区域均对单粒子锁定敏感.根据已建立的单粒子效应重离子线性能量传输(LET）值和激光能量换算关系，可以得出芯片锁定LET 阈值[5]为 $0 . 6 \mathrm { M e V \cdot c m ^ { 2 } \cdot m g ^ { - 1 } }$ ：
+
+利用 $\mathrm { A m ^ { 2 4 1 } }$ 放射源、北京大学 EN-18 加速器、中国原子能科学院HI-13加速器等实验装置产生的多种重离子辐照K6R4016V1D芯片，测试其单粒子锁定特性.实验所用重离子及芯片是否发生锁定等信息列于表1．根据重离子实验结果，可以判定 K6R4016V1D 芯片单粒子锁定 LET 阈值在 $0 . 5 7 { \sim } 3 . 4 \mathrm { M e V } { \cdot } \mathrm { c m } ^ { 2 } { \cdot } \mathrm { m g } ^ { - 1 }$ 之间．在实验的束流强度条件下 $( \geqslant 1 0 ^ { 3 } \mathrm { c m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 } )$ ，芯片锁定现象频繁，无法准确获得其截面数据.
+
+综合上述激光和重离子的研究实验结果，可以认定K6R4016V1D 芯片发生单粒子锁定的LET 阈值为 $0 . 6 \mathrm { M e V \cdot c m ^ { 2 } \cdot m g ^ { - 1 } }$ ，饱和截面为 $\mathrm { 0 . 1 5 7 \mathrm { c m ^ { 2 } } }$
+
+# 2K6R4016V1D芯片在低地球轨道 发生单粒子锁定频次的测算
+
+依据上述实验测得的K6R4016V1D芯片单粒子锁定敏感度参数，结合福布斯-土壤探测器在低地球轨道的具体辐射环境，可以测算其在轨可能发生锁定
+
+的频次.
+
+福布斯-土壤探测器在发射及进入低地球轨道运行期间，空间环境相对平静，可能诱发探测器用器件发生单粒子锁定的空间辐射粒子主要是辐射带质子、银河宇宙线质子和重离子.在缺少直接的器件质子单粒子效应敏感度数据情况下，可采取多种方法利用器件单粒子效应的重离子响应数据测算质子响应特性利用蒙特卡洛方法模拟计算质子在器件芯片材料中发生核反应产生重离子的过程，结合实验获得的器件对重离子的响应特性测算出器件对质子的响应特性是相对较有效的方法[7-9]．本文利用此方法测算出K6R4016V1D芯片单粒子锁定截面随辐照质子能量的变化关系，如图3所示.
+
+采用AP8辐射带质子模型和CREME96 银河宇宙线模型，计算得到福布斯-土壤探测器在低地球轨道遇到的辐射带质子和银河宇宙线质子能谱以及银河宇宙线重离子LET谱，结果如图4和图5所示
+
+![](images/cc9e84097c53f5e4b46fca3e889a152ebb87a00ebc6b9b72eefafb85119ee5ac.jpg)  
+图2K6R4016V1D芯片单粒子锁定截面随辐照激光能量的变化关系  
+Fig.2 SEL cross section of K6R4016V1D with pulsed laser energy
+
+# 表1单粒子锁定实验所使用的重离子性能及锁定情况
+
+Table1 SEL test heavy ions and latchup phenomena   
+
+<html><body><table><tr><td>实验装置</td><td>重离子</td><td>能量/MeV</td><td>硅中射程/μm</td><td>硅中 LET 值/(MeV·cm²·mg-1)</td><td>芯片是否锁定</td></tr><tr><td>Am241放射源</td><td>α粒子</td><td>5.49</td><td>28</td><td>0.57</td><td>否</td></tr><tr><td>EN-18加速器</td><td>C12</td><td>25</td><td>24.6</td><td>3.4</td><td>是</td></tr><tr><td>HI-13 加速器</td><td>Li7</td><td>46</td><td>269</td><td>0.48</td><td>香</td></tr><tr><td></td><td>S32</td><td>152</td><td>46.9</td><td>11.8</td><td>是</td></tr></table></body></html>
+
+根据实验得到的器件对重离子单粒子效应的基本响应特性,利用长方体（RPP）模型[10] 计算得到空间全向入射的重离子所导致器件单粒子效应响应，以及利用蒙特卡洛方法模拟计算得到空间全向入射的质子所导致器件单粒子效应响应，并分别与探测器在轨遇到的全向高能重离子LET谱和质子能谱进行积分计算,得到器件在轨具体应用时由重离子和质子诱发的单粒子效应频次.计算得到应用于福布斯-土壤探测器低地球轨道K6R4016V1D芯片可能发生的单粒子锁定频次列于表2，其中银河宇宙线重离子诱发了绝大多数的锁定，
+
+![](images/d845e41ca02e736c7aeed4aeebebb7d8f04e1b5cfc2e74d857baea0e58ba4db6.jpg)  
+图3测算得到的K6R4016V1D 芯片质子单粒子 锁定响应特性 Fig.3Calculated SEL cross section with proton energy for K6R4016V1D
+
+![](images/df6b24de07a8ab9a8b8723ad44b2fef8d7f417ebda18dbf8516f9251e6a4b419.jpg)
+
+# 3 单粒子效应对福布斯-土壤探测器的影响
+
+在表2所列出的计算结果基础之上，考虑福布斯-土壤探测器星载计算机使用了两片各含四只K6R4016V1D芯片的WS512K32V器件，以及探测器进入低地球轨道至计划第一次在轨发动机点火历经 $1 5 9 \mathrm { m i n }$ 等信息，进一步测算出探测器星载计算机在此期间可能发生的单粒子锁定次数，辐射带质子0.08次、宇宙线质子0.05次、银河宇宙线重离子1.0次,总计1.1次.
+
+通过实验可以发现，WS512K32V器件所包含的K6R4016V1D芯片对单粒子锁定极为敏感，锁定的阈值低，饱和截面大．使用该器件的星载计算机，在福布斯-土壤探测器进入低地球轨道至失事前，可能遇到1.1次以银河宇宙线重离子为主的空间辐射粒子诱发的单粒子锁定.因此俄罗斯航天局研究分析给出的事故最可能起因为宇宙线重离子轰击星载计算机系统存储器使其运行出错是很有可能的，
+
+![](images/4974aa77468b19aa8506e8df1ae62cfb91f61adb4ee49e579b995bf9d799dcd0.jpg)  
+图4福布斯-土壤探测器在轨遇到的高能质子能谱 Fig.4High energy protons encountered by Phobos-Grunt probe   
+图5福布斯-土壤探测器在轨遇到的银河宇宙线重离子LET 谱Fig.5Heavy ions LET spectrum encountered byPhobos-Grunt probe
+
+表2K6R4016V1D 芯片在福布斯-土壤探测器低地球轨道的单粒子锁定频次  
+Table 2 SEL rate of K6R4016V1D chip in LEO of Phobos-Grunt prob   
+
+<html><body><table><tr><td>辐射粒子</td><td>辐射带质子</td><td>银河宇宙线质子</td><td>银河宇宙线重离子</td><td>总计</td></tr><tr><td>单粒子锁定频次/(device-1.d-1)</td><td>0.1</td><td>0.06</td><td>1.3</td><td>1.4</td></tr></table></body></html>
+
+文献[2] 曾对与 K6R4016V1D 芯片 (3.3V)类似的 SAMSUNG 公司的另一款 4Mbit SRAM芯片K6R4016C1D $( 5 \mathrm { V } )$ 进行过研究，该芯片的单粒子锁定阈值为 $0 . 3 7 \mathrm { M e V } { \cdot } \mathrm { c m } ^ { 2 } { \cdot } \mathrm { m g } ^ { - 1 }$ 、饱和截面为 $2 { \times } 1 0 ^ { - 4 } \mathrm { c m ^ { 2 } }$ ，该芯片用于地球同步轨道和深空探测每天可能发生0.04次单粒子锁定．通过本文研究可以看出，K6R4016V1D芯片的单粒子锁定阈值同样较低，但是锁定饱和截面更大，达到 $\mathrm { 0 . 1 5 7 \mathrm { c m ^ { 2 } } }$ 以至于在福布斯-土壤探测器进入的低地球轨道使用时可能发生每天1.4次的锁定．法国国家空间研究中心（CNES）也曾提出[11],地面模拟试验和空间飞行实验均发现CYPRESS公司的16MbitSRAM器件CY7C1069对单粒子锁定极为敏感，饱和截面高达 $0 . 3 5 \mathrm { c m } ^ { 2 }$ ，与K6R4016V1D芯片情况类似.
+
+综上分析，中国的载人飞船以及空间实验室和空间站运行轨道均略高于福布斯-土壤探测器进入的低地球轨道，其他科学卫星和应用卫星轨道更高，若使用类似K6R4016V1D，CY7C1069芯片必然会遇到同样甚至更频繁的单粒子锁定，必须引起重视，
+
+# 参考文献
+
+[1]Page TEJr,BenedettoJM.Extreme Latchup Susceptibility in Modern Commercial-off-the-Shelf(COTS)Monolithic 1M and 4M CMOS Static Random-Access Memory (SRAM) Devices [C].IEEE Radiation Effects Data Workshop,2005:1-7,doi:10.1109/REDW.2005.1532657   
+[2] Han Jianwei,Zhang Zhenlong,Feng Guoqiang,et al. The radiation test of SRAM devices for extreme single event latch-up susceptibility and a warning to our aerospace safety[J].Spacecr.Enu.Eng.，2008,25(3):265-267．In Chinese (韩建伟，张振龙，封国强，等.单粒子锁定极端敏感器 件的试验及对我国航天安全的警示[J]．航天器环境工程，2008, 25(3):265-267)   
+[3]Han Jianwei,Feng Guoqiang,Cai Minghui,et al.Applications of pulsed laser test on single event effect hardening for aerospace components and circuit systems [J]. Spacecr. Enu.Eng.,2011,28(2):121-125.In Chinese (韩建伟,封国 强,蔡明辉，等.脉冲激光试验在宇航器件和电路系统抗单粒子 效应设计中的初步应用[J].航天器环境工程,2011,28(2):121- 125)   
+[4] Huang Jianguo,Han Jianwei. Calculation of equivalent LET for pulsed laser simulating SEE[J].Sci.China:G, 2004，34(6):601-609．In Chinese (黄建国，韩建伟．脉冲 激光模拟单粒子效应的等效 LET 计算[J].中国科学:G,2004, 34(6):601-609)   
+[5] Yu Yongtao，Feng Guoqiang，Chen Rui， Shangguan Shipeng，Han Jianwei. Experimental study on single event latchup of SRAM K6R4016V1D and its protection[J].Atom． Energ. Sci. Tech.,2012,46(Supp.):587- 591．In Chinese(余永涛，封国强，陈睿，上官士鹏，韩建伟. SRAMK6R4016V1D 单粒子门锁及防护试验研究[J]．原子能 科学技术,2012,46(增刊):587-591)   
+[6] Jiang Yuguang,Feng Guoqiang, Zhu Xiang, Shangguan Shipeng,Ma Yingqi,Han Jianwei.Pulsed laser method for SEE testing in FPGA[J].Atom. Energ. Sci. Tech., 2012,46(Supp.):582-586．In Chinese(姜昱光，封国强，朱 翔，上官士鹏，马英起，韩建伟．FPGA 单粒子效应的脉冲激光 试验方法研究[J].原子能科学技术，2012,46(增):582-586)   
+[7] McNulty P J,Farrell G E, Tucker W P.Proton induced nuclear reaction in silicon[J]. IEEE Trans．Nucl．Sci., 1981,28(6):4007-4011   
+[8] Han Jianwei，Ye Zonghai.Prediction of proton induced single event upset [J]. Chin.J. Space Sci.，1999, 19(3):266-271．In Chinese(韩建伟，叶宗海．质子引发的单 粒子翻转率估算的研究[J]．空间科学学报，1999，19(3):266- 271)   
+[9] Zhang Zhenli, Zhang Zhenlong,Han Jianwei, et al. Prediction of single event upset rate induced by near space atmospheric neutron in electronic device [J].Chin.J.Space Sci.,2011,31(3):350-354．In Chinese (张振力,张振龙，韩 建伟，等.临近空间大气中子诱发电子器件单粒子翻转模拟研 究[J].空间科学学报，2011,31(3):350-354)   
+10] Connell L W.Modeling the heavy ion upset cross section[J].IEEE Trans.Nucl.Sci.,1995,42(2):73-82   
+11] Bezerra F, Lorfevre E,Ecoffet R, Falguere D,Bourdoux P.CARMEN/MEX test board for the study of radiation effects on electronic components aboard JASON-2 and SAC-D satelites [R].//9th European Conference on Radiation and its Effects on Components and Systems (RADECS),Deauville:IEEE 2007

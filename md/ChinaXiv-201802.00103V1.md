@@ -1,0 +1,126 @@
+# 叶片冲击/气膜复合冷却的数值研究
+
+王昌叶　刘钊　叶绿　丰镇平（西安交通大学能源与动力工程学院叶轮机械研究所，陕西西安710049）
+
+摘要：应用数值方法研究了燃气轮机透平叶片冲击/气膜复合冷却特性。首先对湍流模型进行了考核，根据与已有试验数据的比较，数值计算中选用与试验结果吻合得最好的 $\operatorname { S S T } k - \omega$ 模型进行。然后分析了不同吹风比下叶片前缘内部冲击冷却和外部气膜冷却的流动和换热特性。结果表明：冲击室内，平均努塞尔数在叶根处最低，沿叶高方向逐渐增大，从某一叶高处开始在一定的范围内波动。随着吹风比的提高，冲击室内周向平均努塞尔数及其峰值都增大，气膜孔附近的气膜冷却效率降低，气膜孔下游的气膜冷却效率增加。
+
+关键词：冲击冷却；气膜冷却；复合冷却；冷却效率中图分类号：TK474.7 文献标志码：A
+
+# Numerical Study on Impingement/FiIm Composite Cooling of Turbine Blade
+
+WANG Changye LIU Zhao YE Lv FENG Zhenping (InstituteofTurbomachinery,SchoolofEnergy&PowerEngineering,Xi'anJiaotong University,Xi'an70049,China)
+
+Abstract:The flow and heattransfer characteristics of impingementand film composite cooling in gas turbine blade was investigated numerically.Firstly,bycomparing with available experimental data,the relative performanceof four turbulence models for numerical impingement and film composite cooling is studied,and the SST $k$ @ model was adapted for the calculation,and then the eect of blowing ratio on flow and heat transfer performancesof impingement and film cooling in blade leading edge were studied.And the results show that the lowest value of streamwise averaged Nusselt number of the internal surface appears at the hub,and the averaged Nusselt number increases along the spanwise between the huband middle span,and then its value fluctuates smoothly in a certain range.With the increasing in blowing ratio,the Nusslt number of the internal surface increases,the film cooling effectiveness of the near film holes regions decreases,but the film cooling effctivenesson the far downsteam of film holes increases.
+
+Key words: Impingement cooling; Film cooling; Composite cooling; Cooling effectiveness
+
+# 0引言
+
+众所周知，研究并改进燃气透平叶片的冷却技术，以降低其实际工作时的叶片材料温度显得尤为重要。目前，使用冲击/气膜复合冷却技术已经成为有效冷却高温透平叶片的最重要手段之一。深入理解冲击/气膜复合冷却的流动及换热机理，对优化燃气透平叶片的冲击/气膜复合冷却结构和进一步提高其冷却效率，具有重要的学术意义和工程应用价值。
+
+Taslim[1]等通过一系列实验对透平前缘光滑内壁的冲击冷却进行了研究。结果表明，气膜孔的存在可以显著提高冲击冷却的传热系数。王开[2]等对有限空间内上下板表面分别布置气膜孔和冲击孔进行了数值模拟，谷振鹏3等采用了瞬态实验的方法，研究了冲击射流孔与气膜孔的相对位置和雷诺数对冲击气膜复合冷却结构换热效果的影响。丁水汀等[4]对外部稀疏气膜和内部冲击射流复合的透平叶片进行了研究，着重讨论了复合冷却结构中气膜孔与冲击射流孔的相对位置以及气膜孔直径变化对压力面和吸力面换热效果的影响。徐国强[5]等研究了透平静叶中弦区内冷却工质的流动换热和外部气膜的冷却特性。计算结果表明，冲击/气膜复合冷却结构可以较大的改善冷却效果，并且各级复合冷却单元的冷却效果沿流向逐级递增。
+
+目前，国内外燃气轮机冷却设计研究工作者针对冲击/气膜复合冷却开展了一些研究工作，但只有极少研究使用实际叶片结构进行研究。本文以实际透平叶片为研究对象，应用数值方法研究了吹风比对实际燃气轮机透平叶片冲击/气膜复合冷却的流动与换热的影响。
+
+# 1．计算模型及方法
+
+# 1.1计算结构
+
+以GE-E第一级动叶中截面按叶高拉伸的直叶片为研究对象，在透平前缘滞止线上等距布置了1排气膜孔，并在其两侧各等距布置了2 排气膜孔。其中，为增加在叶片表面上的有效气膜冷却面积，透平前缘滞止点及滞止点两侧的气膜孔相对于主流方向和叶高方向都是倾斜的。叶片高度 $4 2 . 7 0 \mathrm { m m }$ ，叶片内有一个冷却工质输送通道及一个冲击室，冷却工质输送通道与冲击室间以一排12个长度为 $1 . 2 \ \mathrm { m m }$ 的冲击孔相连。冷却工质输送通道与冲击室长度均为 $4 8 . 7 0 \ \mathrm { \ m m }$ 。叶片内外腔间厚度为 $1 . 2 0 \ \mathrm { m m }$ 。其中，气膜孔与冲击孔的详细结构参看表1。图1给出了计算几何结构图。
+
+表1气膜孔与冲击孔的详细结构 Table 1 Geometric detail of jet and film holes   
+
+<html><body><table><tr><td>孔直径 /mm</td><td>孔个 数</td><td>孔间距 /mm</td><td>孔轴向 角度/°</td><td>孔径向 角度 /°</td></tr><tr><td>Row1</td><td>0.36</td><td>25</td><td>1.708 70</td><td>0</td></tr><tr><td>Row2</td><td>0.36 11</td><td>3.882</td><td>12</td><td>25</td></tr><tr><td>Row3</td><td>0.36 10</td><td>3.882</td><td>51</td><td>25</td></tr><tr><td>Row4</td><td>0.36 11</td><td>3.882</td><td>80</td><td>25</td></tr><tr><td>Row5</td><td>0.36 22</td><td>1.941</td><td>127</td><td>0</td></tr><tr><td>Row6</td><td>1.00 12</td><td>3.558</td><td>22</td><td>0</td></tr></table></body></html>
+
+![](images/ee5ffec67edd4424a1fdd4e72dab38329e9e0dce9a7895809be8e496fab05e55.jpg)  
+图1叶片模型 Fig.1 Sketch of physical geometry
+
+# 1.2计算网格及边界条件设置
+
+计算网格采用Gambit2.3.16生成非结构化网格，固壁表面均生成三棱柱形边界层，边界层内垂直于壁面方向布置16个节点，壁面 ${ \mathrm { Y } } ^ { + }$ 小于1，总网格数为2137万。图2给出了计算区域网格剖分图。
+
+数值计算中边界条件取Timko对GE- $\boldsymbol { \cdot } \boldsymbol { \mathrm { E } } ^ { 3 }$ 透平进行性能测试时所使用的条件，进出口边界条件如表2所示，所有壁面均给定无滑移边界条件，主流燃气和冷却工质均视为理想气体。
+
+![](images/c69d1f1865d20fcea9a47dfdf30858a397d8dda9aee192e826fb16e5dc2085d3.jpg)  
+图2计算区域网格Fig.2Mesh
+
+表2边界条件Table 2 Boundary conditions  
+
+<html><body><table><tr><td></td><td>数值</td></tr><tr><td>主流进口总温/K</td><td>709</td></tr><tr><td>主流进口总压/KPa</td><td>344.74</td></tr><tr><td>主流进口气流角／°</td><td>37</td></tr><tr><td>主流进口湍流度/</td><td>5%</td></tr><tr><td>冷却工质进口总温/K</td><td>339</td></tr><tr><td>冷却工质进口湍流度/</td><td>5%</td></tr><tr><td>出口平均静压/KPa</td><td>150</td></tr><tr><td>壁温与进口总温比/</td><td>0.7</td></tr></table></body></html>
+
+# 1.3模型校核
+
+采用Maikell等[7的试验结果，对四种湍流模型模拟冲击气膜复合冷却的能力进行了校核。图3给出了不同湍流模型所得到的计算结果与实验测量结果的比较。从图中可以看出，4种湍流模型都能够比较准确的预测出前缘区域的气膜冷却效率分布趋势，在最前缘区域 $( 0 { - } 3 D _ { f } ) \thinspace \mathrm { S S T } \ k { - } \omega$ 模型与 $\operatorname { R N G } k - \varepsilon$ 模型数值计算结果与实验结果的偏差较小，在 $4 D _ { f }$ $- 1 2 D _ { f }$ 内以 $\varepsilon$ 方程为基础的高雷诺数湍流模型计算的结果与实验结果差别较大，因此本文冲击/气膜复合冷却的研究均采用 $\operatorname { s s r } k \mathrm { - } \omega$ 模型进行求解。
+
+![](images/fa25684e43ff8ead9e83450388f210988b1c677e11897d298943aabecc218270.jpg)  
+图3不同湍流模型计算结果与试验结果比较 Fig.3 Comparison of predicted results with experimental results
+
+# 3.计算结果分析
+
+# 3.1吹风比对透平叶片冲击/气膜复合冷却结构流场的影响
+
+图4给出了不同吹风比下沿叶高方向冷却气体的流线图。从图中可以看出，冷却工质流出气膜孔后在压力面和吸力面上的流线存在显著差异，这是由于两个表面的曲率不同引起的，表面曲率的不同使得压力面和吸力面对边界层稳定性的影响存在根本差别。在吸力面上，从气膜孔流出的冷却工质增大了当地湍动度并使初始边界层转捩提前，这就导致了冷却气膜对吸力面上的影响大于在压力面上的影响。
+
+![](images/a78df942eb22227ce3b032f4e541ae5752c41792aceec4d590128c634abb8a02.jpg)  
+图4不同吹风比下冷却工质的流线图 Fig.4Streamlines in different blowing ratios
+
+对于吸力面，当吹风比低于2.5时强劲的主流迫使冷却气膜流向叶片表面，使得冷却工质流出气膜孔后具有很好附壁性并能够很好的贴近吸力面形成冷气膜，冷气膜就可以保持在叶片表面附近同时有足够的动量来使主流偏离表面。当吹风比提高到3.5时，喷射的冷却工质动量进一步增强，使得冷却工质离开气膜孔后迅速穿透主流边界层，造成冷却射流外移，这时将有更多的主流进入射流下部与叶片表面接触。然而对于压力面，当吹风比为1.5时依然有少部分冷却工质穿透主流边界层，这是由于作用于冷却射流上的静压力使得冷却射流离开叶片表面。随着吹风比的不断提高，冷却工质的穿透能力不断增强，造成越来越多的冷却工质渗透到主流中。
+
+# 3.2吹风比对透平叶片冲击/气膜复合冷却结构换热的影响
+
+冲击/气膜复合冷却的气膜冷却效率可以在气膜冷却分析的基础上加以定义：
+
+$$
+\phi = \frac { T _ { \infty } - T _ { a w } } { T _ { \infty } - T _ { c \mathrm { i n t } } }
+$$
+
+式中： $T _ { \infty }$ 、 $T _ { a w }$ 、 $T _ { c i n t }$ 分别为主流进口温度、绝热壁温和冷却流体温度。
+
+努塞尔数定义式如下：
+
+$$
+N _ { _ u } = \frac { h D } { \lambda } = \frac { q _ { _ w } \cdot D } { \left( T _ { _ w } - T _ { _ \mathrm { c i n t } } \right) \lambda }
+$$
+
+式中：h、 $D$ ， $q _ { w }$ ， $T _ { w }$ 、 $\lambda$ 分别为换热系数、射流孔直径、热流密度、靶面温度和冷却工质的导热系数。
+
+![](images/5b92d8c1e17d997c6523ee8dea053a1c9675e0f3a516f8a4913434360a6844ee.jpg)  
+图5不同吹风比下压力面与吸力面气膜冷却效率分布云图 Fig.5 Cooling effectiveness distribution on the blade airfoil in different blowing ratios
+
+图5给出了吹风比为1.5、2.5及3.5时叶片压力面和吸力面的气膜冷却效率分布云图。从气膜冷却效率分布可以看出，气膜冷却效率最大值出现在ROW2气膜孔出口附近，其次是ROW4气膜孔出口附近。在ROW3气膜孔出口附近高气膜冷却效率区域的范围最大，由于此处主流对气膜的压制作用最强。从ROW3气膜孔流出的冷却工质与从ROW2和ROW4气膜孔流出的冷却工质相混合，使得ROW2和ROW4气膜孔下游产生较高的气膜冷却效率。在ROW5气膜孔的下游，沿叶高方向上的气膜冷却效率变化是明显的。从图中还可以看出，在压力面根部附近区域气膜冷却效率随着吹风比的提高而降低。这是由于低吹风比下，冷却工质从流出气膜孔到距离下游很远处都可以很好的贴合在叶片压力面上，所以在压力面根部产生较高的气膜冷却效率；而在高吹风比下，喷射的冷却气体具有更高的动量，从而有更多的冷却工质穿透边界层进入主流，保护叶片压力面根部表面的冷却工质量反而减少了，导致叶片压力面根部气膜冷却效率降低。在吸力面上，气膜冷却效率随着吹风比的提高而逐渐增强，在吸力面中部由于冷却工质二次附着使得叶片中部区域高气膜冷却效率的区域也不断扩大。
+
+从叶高方向上的差别可以看出，当吹风比为1.5时压力面上存在着射流状条纹的高气膜冷却区域。气膜冷却效率在下游处逐渐增大，这是由于冷却工质的再附着作用引起的。进一步增大吹风比，这种现象在叶顶附近区域逐渐消失，是由于前缘滞止点处及滞止点两侧气膜的侧向动量引起的。此外，高吹风比时滞止点处气膜孔流出的冷却工质表现出强烈的沿孔的角度方向倾斜的趋势。
+
+![](images/211a26ecb5997117901c41e8284fcdfc0f949325a5846ef7d1fe5b3c843ab28d.jpg)  
+图6不同吹风比下展向和周向平均气膜冷却效率分布 Fig.6 Spanwise averaged and streamwise averaged cooling effectiveness in different blowing ratios
+
+图6给出了吹风比为1.5、2.5及3.5时叶片表面沿叶高及周向方向平均气膜冷却效率分布。正如前面述及的，流向表面曲率对燃气轮机透平叶片的气膜冷却有重要的影响。压力面是一个内凹形表面，吸力面是一个外凸形表面，当地压力梯度可以显著改变气膜的冷却效率。从图中可以看出，在同一吹风比下，由于冷却气膜的存在，吸力面上的气膜冷却效率沿周向增长的很快。在压力面 $s { \sim } 0 \ \mathrm { m m }$ 范围内，气膜冷却效率的值很高，并沿着流向在下游方向快速降低。在吸力面 $0 \sim 1 2 \mathrm { m m }$ 范围内，气膜冷却效率在气膜孔出口处较高，并沿流向降低，然后由于下游的孔排喷出气膜而再度升高。由于多排气膜孔排的共同作用，使吸力面下游的气膜冷却效率依然较高。
+
+高吹风下气膜冷却效率更高，并且在下游处气膜冷却效率的增加量比孔附近区域的大。这是由于冷却射流的再附和沿展向倾斜角产生的展向的射流动量引起的。吹风比越低，气膜孔近下游区域的气膜冷却效率越高，并沿流向急剧降低。随着吹风比的增大，气膜孔附近区域的气膜冷却效率降低，但下游区域的增大。因为吹风比增大冷却工质具有更高的动量，在气膜孔附近冷却工质先抬升，然后在下游再附着，因而下游气膜冷却效率会增加。而吹风比较低时射流流出气膜孔时就会被推向叶片表面，因而会使得靠近孔的下游区域气膜冷却效率增加。然而，在吸力面上当 $\mathrm { X } { > } 1 2 \ \mathrm { m m }$ 时，叶片表面上叶高方向平均气膜冷却效率随着吹风比的增加而持续增加，但其峰值取决于冷却工质在什么地方再附着表面。在压力面上当 $\mathrm { X } { > } { - } 8 \ \mathrm { m m }$ 时，叶片表面上叶高方向平均气膜冷却效率随着吹风比的增加而持续增加。
+
+从图6(b)中还可以看出周向平均气膜冷却效率在叶根处较小，沿展向周向平均气膜冷却效率逐渐增大，但在展向的某一位置周向平均气膜冷却效率开始在一定范围内波动，并且吹风比越大，这一位置越偏向叶顶。这是由于高吹风比下叶片前缘三排气膜孔内冷却工质能沿展向扩散更大的范围，同时在气膜孔远下游再附着引起的。
+
+图7给出了吹风比为1.5、2.5及3.5时冲击室内的努塞尔数分布，图中从上至下依次为面SI1，面SI2，面SI3，面SI4。其中努赛尔数计算公式如式（2），计算努塞尔数时特征尺寸取为冲击射流孔的直径，即 $1 \mathrm { m m }$ 。从图中可以看出，冲击靶面上滞止区域的努塞尔数较高，滞止区域高努塞尔数的范围也较大。此外，在气膜孔的进口附近区域由于气膜孔的抽吸作用降低了冲击靶面上横向流的影响，同时提高了冲击靶面上横向流的速度，增强了对流传热，因此在气膜孔的进口附近区域努塞尔数的值也较大。在冲击室内，靠近叶根处存在一个低速涡，削弱了冷却工质对冲击室叶根处的冲刷，同时低速涡将导致底部的边界层加厚，恶化了冲击室叶根处的冷却效果。此外，从图中还可看出，在ROW2排中有一部分气膜孔位于冲击射流孔的下方，造成射流冷气直接从气膜孔抽出而没有冷却靶面，使得部分区域冷却情况恶化。随着吹风比的提高，靶面上努塞尔数的最大值及高努塞尔数区域也随着增大。
+
+![](images/6e40ec358f6352227c065cd5e90425b8e6a3f91d6104ca1a443e7e208a736507.jpg)  
+图7冲击室内努赛尔数分布云图 Fig.7 Nu contours distribution on the impingement channel
+
+# 4.结论
+
+本文针对真实燃气透平叶片，研究了吹风比对冲击/气膜复合冷却特性的影响，研究结果表明：
+
+1）由于透平叶片的压力面和吸力面曲率不同，压力面上的气膜冷却效率比吸力面上气膜冷却的值低很多。随着吹风比的提高，气膜孔近下游位置的气膜冷却效率降低，而远下游处由于冷却工质再附着使得气膜冷却效率增大，冷却工质的再附着位置取决于冷却工质的动量。叶高方向平均气膜冷却效率随吹风比的增大而增大。
+
+2）流向平均气膜冷却效率在叶根处最小，沿叶高方向流向平均气膜冷却效率逐渐增大，但到某一叶高处流向平均气膜冷却效率开始在一定的范围内波动。随着吹风比的提高，周向平均气膜冷却效率的峰值逐渐向叶顶方向移动。
+
+3）在冲击室内，射流滞止区的努赛尔数较高，气膜孔出口附近的努赛尔数也较高。而近叶根处的努赛尔数较低。周向平均努塞尔数的值在叶根处最低，沿叶高方向周向平均努塞尔数逐渐增大，到某一叶高处周向平均努塞尔数开始在一定的范围内波动，并且周向平均努塞尔数的峰值出现在冲击射流孔的下方。随着吹风比的提高，在冲击室内周向平均努塞尔数及其峰值都随着增大。
+
+# 参考文献：
+
+[1] Taslim M E,Bethka D.Experimental and Numerical Impingement Heat Transfer in a Airfoil Leading-Edge Cooling Channel with Cross-Flow[J]. ASME Journal of Turbomachinery,2009,Vol.131,011021.   
+[2] 王开，徐国强，陶智等．进气方式对冲击气膜组合冷却 效果的影响[J]．工程热物理学报，2008，29(7)： 1185-1188. WANG Kai, XU Guoqiang,TAO Zhi, et al. Effect of Plenum Feed Configurations on the Cooling Effectiveness inthe Hybrid Cooing Configuration[J]. Journal of Engineering Thermophysics,2008 29(7):1185-1188.   
+[3] 谷振鹏，王开.冲击加气膜组合式换热效果的实验研究 [J]．航空发动机，2010，36(5)：52-55. GU Zhenpeng,WANG Kai. Experiments Investigation on Heat Transfer Effectiveness of Combined Ipingement and Film[J]. Aeroengine,2010,36(5): 52-55.   
+[4] 丁水汀，崔亮，孙纪宁等．内部冲击和外部气膜的的组 合特性研究[J]．航空动力学报，2007，22(2)：187-192. DING Shuiting，CUI Liang， SUN Jiling. Combined Features of the Inner Impingement and Outer Film Cooling Holes of a Vane[J]. Journal of Aerospace Power, 2007,22(2): 187-192.   
+[5] 徐国强，谢毅，丁水汀等．“冲击一气膜”复合式冷却 结构冷却效果数值研究[J]．热科学与技术，2009，8(1): 1-7. XU Guoqiang,XIE Yi, DING Shuiting,et al. Numerical Simulation onCooling Effectivenessof Combined Impingement and Film Cooling[J]. Jourmal of Thermal Science and Technology,2009,8(1): 1-7.   
+[6] Timko L P.Energy Efficient Engine High Pressure Turbine Component Test Performance Report[R]. NASA CR-168289,19   
+[7] Maikell J,Bogard D B,Piggush J,et al. Experimental Simulatin of a Film Cooled Turbine Blade Leading Edge Including Thermal Barrier Coating Effects,ASME

@@ -1,0 +1,246 @@
+# 创造性产品评价中的从众效应
+
+张红‘任靖远’刘晨阳’罗劲1,2(首都师范大学心理学院，北京市"学习与认知"重点实验室，北京100048)(北京脑科学与类脑研究中心，北京102206）
+
+摘 要 尽管对从众效应已经开展了广泛的研究，但对于创造性产品的评价是否存在从众效应仍有待探讨。本实验以原创性程度不同的两类创造性产品—“创新产品”和“革新产品”—为材料，采用“初次评价-从众诱导-延时再评”的实验程序，研究了人们在创造性产品的两个基本维度一新颖性和实用性一的感知和评价上是否存在从众效应。结果发现，两类产品在两个维度的评价上都存在从众效应；但“创新产品”在实用性维度的评价上比“革新产品”更容易从众。实验进一步比较了被试在做出两个维度的评价时其确定性程度有无差异，发现被试在对“创新产品”进行实用性评价时所伴随的不确定感较之革新产品更强，这提示可能是对“创新产品”进行实用性判断时所具有的更大的不确定感导致了从众程度的增加。
+
+关键词创新产品；革新产品；实用性；新颖性；从众效应；不确定性
+
+# 分类号
+
+# 1引言
+
+1951 年，心理学家Asch 利用“比较线段长短”的任务进行了经典的从众实验研究。(Asch,1951)。随后有研究者对从众行为进行了大量研究，指出从众(conformity)是个体的观念或行为，因为群体直接或隐含的压力或引导而向大部分人相一致的方向变化的现象(Cialdini&Goldstein,2004)。有时为了解社会各方面的信息，个体常以他人为信息来源，产生信息型从众(Deutsch&Gerard,1955)。研究发现当实验者站在人行道中间抬头盯着一座高楼的顶部看，几分钟内其他路人会效仿研究者也抬头望着大楼顶部(Milgram,Bickman,&Berkowitz,1969)。该实验中研究者为他人提供了大楼顶部有什么事情发生的信息，使得大众认为也应该抬头看。有时个体为了得到社会的赞许，与他人达成友好同盟关系，将社会规范纳入自己决策的考虑范围之内，而产生规范型从众(Deutsch&Gerard,1955)。研究发现相比于无压力，在有同辈压力的情况下，被试有更多的从众行为，也更害怕失败(Janes&Olson,2000)。从众现象普遍存在于各个方面的研究中，比如研究者利用心理旋转范式考察个体在知觉过程中的从众效应，实验中同时呈现两幅三维图，随后要求被试在规定时间内判断这两幅图是否相同，结果发现呈现他人的答案会影响个体的判断(Berns etal.,2005)。行为决策的研究中发现消费者更容易在有人排队的商品前排队购买该商品(Agostinelli,1989)，比如有些餐厅即使有很多空闲座位，也会故意安排顾客排队等候，这样，行人在看到排队的人时会倾向于认为该餐厅物有所值。
+
+尽管从众现象广泛存在，但目前尚缺乏关于创新事物或创造性产品从众情况的相关研究。虽然思想观念、行为方式和技术手段的创新是人类文明实现进步的最为基本的方法和途径，但并非所有的创新都会被理所应当地纳入到文明体系中。事实上，有许多有价值的创新，因未受到足够的重视和接纳而终被淹没在历史的长河中，只有少数的幸运的创造被保留下来。而一项创新在人类社会中的命运究竟如何，它能否在人群中扩散和流传，从众的力量在其中发挥着不可忽视的作用。大到富有创新性的宗教信仰，小到新颖的流行时尚，它们在人群和社会中的传播和扩散在很大的程度上是借助于人们的从众心理而实现的。比如政府新政策的宣传过程中，常常利用社会从众促使人们态度的改变(Neighbors,Larimer,&Lewis,2004)。因此深入了解促进创新事物中的从众过程和机制，毫无疑问可以帮助我们预测态度或行为改变何时发生及如何发生，从而进行有效的创新推广，这具有重要的科学意义。因此本研究以创造性产品为研究对象，探讨创造性产品评价中的从众效应，这不仅能拓展和丰富从众的相关研究，也可进一步加深对创新推广和创新扩散过程的理解。
+
+有研究发现人们在评价艺术作品时很容易从众，Welbom 等人(2016)在实验中要求被试对 259 幅涵盖各个领域的艺术画作品评价两次，发现即使在同辈群体没有真实在场的情况下，被试也会根据同辈群体的评价在第二次评价时改变自己的评分从而与群体评价一致(Welbom etal.,2016)。还有研究者以抽象画为评价材料，发现被试会受到群体喜爱度的影响改变自己的喜好评价(Tafarodi,Kang,& Milne,2002)。艺术创造性是指产生出新颖且有审美价值观念或产品的能力，艺术作品是艺术创造性活动结束时产生的产品(比如音乐、视觉艺术、文学、舞蹈等)(Stermberg&Lubart,1996)。人们更重视艺术作品的美学价值以及它向欣赏者传达出的情感内容(Zeki,2001)。创造性产品是根据一定的目的和任务，运用科学知识产生的新颖且实用的产品。创造性产品强调以新颖的方式有效地解决某个具体的问题，能在人们生活中发挥实际的用途(Hu,Shi,Han,Wang,&Adey,2010)。虽然艺术作品与一般的创造性产品设计相关，但它并不能代表也不能与生活中典型的创造性产品等同。而相比于艺术类作品，创造性产品更贴近现实生活，更能反映实际的创造性，是生活中典型的创意产品(Tanggaard,2015)。虽然具有创造性和新异性的产品更易吸引消费者，也更容易在激烈的市场竞争中取胜，但是创造性产品的问世并不一定都能够被消费者很好的接受，除了产品本身，不恰当的营销策略也是产品创新失败的重要因素。研究此类产品评价中的从众效应，对于创造性产品的营销具有重要的实际意义。
+
+根据原创性的不同，可将创造性产品划分为革新产品(renovative product)和创新产品(innovative product)(Mugge& Dahl,2013; Mukherjee& Hoyer,2001)。革新产品是在已有产品的基础上适当地在结构和功能上改进的新产品，与原有产品有一定的相似性(比如“六刃西瓜刀”就是在功能上对普通菜刀进行改进的革新产品，如图1)；创新产品不依赖于任何已有的旧产品，能够满足人类的某种未曾被满足过的需求(比如单手看书器,如图 1)(Madjar,Greenberg,& Chen,2011; Tang& Naumann,2016)。相比于常规产品，创造性产品在给个体带来了新的视角和使用体验的同时，也让人感受到了更大的不确定感(Mueller，Wakslak，&Krishnan,2014)，而且相比于革新产品，创新产品给人带来的不确定感更大。面临不确定性时，个体更容易改变自己的观点趋于与群体观点保持一致，而且个体感受到的不确定感越大，越容易增加其从众行为(Escalas&Bettman,2005)。那么由此来说，在创造性产品的评价过程中应该存在从众效应，而且相比于革新产品，创新产品可能更容易从众。因此研究创造性产品的从众效应并比较创新产品和革新产品的从众情况，这对于从众效应本身具有重要的理论意义。
+
+![](images/37f6c298fdab07d1174c86fd68eccd7860527149c48bdc8b8594ea23d290ecc4.jpg)  
+图1产品图片举例
+
+革新产品是指在原型产品的基础上经过创新改造而成的新产品，比如六刃西瓜刀就是在普通菜刀(普通菜刀就是六刃西瓜刀的原型产品)的基础上多加了两片刀刃而成的新产品。创新产品是根据创造灵感产生的绝对新颖的产品，如单手看书器就是没有原型的全新产品。
+
+尽管新颖性和实用性是科学界所公认的创造性的两大基本特征，但大多数研究者都将创造性看作一个整体(Krasilo,2005;Valgeirsdotir,Onarheim,& Gabrielsen,2015)，未能从其所包含的新颖性和实用性要素相互分离的角度来研究，但这种分离对于深入研究创造性的本质是必不可少的。实用性和新颖性是评估创造性的两个最重要因素(Diedrich,Benedek,Jauk,&Neubauer,2015)，而且任务相关的新颖且实用的联结是顿悟问题解决的关键(Luo,Niki,&Phillips,2004)。同样，人们对创造性产品的评价也主要依据这两个因素。因此本研究计划分别探讨实用性和新颖性评价中的从众效应。以往研究多探讨创造性及创造性产品本身的特点(Besemer,2000;Kristensson&Norlander,2010)，然而创新和革新是创造性的两种实现形式：一种为激进式创造，即创新；一种为渐进式创造，即革新(Mugge&Dahl,2013)。综合以上两个方面，我们以革新产品(比如六刃西瓜刀)和创新产品(比如单手看书器)为实验材料，采用“初次评价-从众诱导-延时再评”的实验程序(Campbel-Meiklejohn et al.,2012;Klucharev,Hytonen,Rijpkema,Smidts,&Fernandez,2009)，要求被试分别评价产品的实用性和新颖性两次。即让被试先评价创造性产品，随后告知被试群体评分，群体评分在被试评分的基础上进行调节，会高于或低于或者与被试的评分相当，通过调节群体评分，诱发被试感知群体压力而从众，30分钟后，让被试再次评价创造性产品。我们假设1：两类创造性产品的新颖性与实用性评价都具有从众效应。假设2：相比于革新产品，创新产品的实用性与新颖性评价都更容易从众。
+
+# 2实验1a创新产品与革新产品实用性评价的从众效应
+
+# 2.1实验目的
+
+采用“初次评价-从众诱导-延时再评”范式要求被试在间隔一段时间前后，分别对革新产品和创新产品的实用性评价两次，分析被试进行创造性产品实用性评价中的从众效应，并比较革新产品和创新产品的从众程度。
+
+# 2.2方法
+
+# 2.2.1被试
+
+招募北京市高校大学生被试37人(19 男18 女)，平均年龄 21.41 岁 $( S D { = } 2 . 4 9 )$ 。所有被试均为右利手，身体健康，视力或矫正视力正常。实验结束后给予一定的实验报酬。
+
+# 2.2.2实验材料的收集、评价和筛选
+
+在实验材料的准备过程中，我们通过多种渠道收集了128个创造性产品。并由美术专业的学生绘制成风格、大小统一的图片，这些图片能清晰的展示产品的结构和性能。为方便被试理解这些产品图片，我们为每个产品配上12或13个字的文字说明，说明的内容包括产品的名称、材质、用途等，比如"能一次切6块的六刃西瓜刀”。然后用幻灯片将图片和文字放在黑色背景下合成分辨率为 $9 6 0 \times 7 2 0$ 大小的BMP格式图片，再用iSee 图片处理软件将这些图片压缩成分辨率为 $6 0 0 \times 4 5 0$ 大小的BMP 格式图片。
+
+常规产品在日常生活中经常见到和使用，例如不锈钢菜刀；创新产品是原创性最高的产品，它被创造出来满足人类某种未曾被满足过的需求，例如单手看书器就是没有任何原型的新产品；相对而言，革新产品的原创性比创新产品低，它是在保持原有产品的主要功能的基础上、做出适当修改来增加辅助性能的产品，比如"六刃西瓜刀"就是在功能上对普通菜刀进行改进的革新产品。基于此，请5名专家通过小组讨论的形式，将收集到的128个创造性产品根据有无原型进行0-1评分(其中0代表无原型，1代表有原型)，专家们一致认为有 59 个产品无原型，为创新产品，有69个产品有原型，为革新产品。为进一步验证材料的可靠性，我们随机招募20名被试从6个维度(新颖性、实用性、复杂性、可理解性、有无原型和是否见过)对产品进行评价。其中有"无原型"和"是否见过"两个维度为0-1评分(0 代表无原型或没见过，1代表有原型或见过)，其他维度为8点评分，分数越高代表相应维度的程度就越高。评价前，向被试解释各个维度的含义，并重点解释原型的含义。原型是指，一些创造性产品是在常规产品的基础上改造而成的，那么这些常规产品就是创造性产品的原型，比如"能一次切六块的六刃西瓜刀"的原型就是普通的菜刀。根据 20 名被试的评价结果，最终筛选了符合本次实验要求的 60个创造性产品(30 个革新产品，30个创新产品)。筛选的材料中革新产品和创新产品仅在“有无原型"维度上存在显著性差异，该差异是两类产品本身在定义上的差异。两类产品的其他五个维度上都没有显著性差异。详见表1。
+
+表1筛选后的两类产品在各维度的平均分 $M \left( \pm S D \right)$ ，及各维度上的差异检验 $t$ 值  
+
+<html><body><table><tr><td>产品类型</td><td>理解时间（ms）</td><td>新颖性评分</td><td>实用性评分</td><td>复杂性评分</td><td>可理解性评分</td><td>有无原型</td><td>是否见过</td></tr><tr><td>创新产品</td><td>5120(±1088)</td><td>5.91(±0.6)</td><td>5.80(±0.6)</td><td>4.46(±1.1)</td><td>6.06(±0.4)</td><td>0.45(±0.2)</td><td>0.17(±0.1)</td></tr><tr><td>革新产品</td><td>5321(±1000)</td><td>6.09(±0.3)</td><td>5.75(±0.6)</td><td>4.54(±0.8)</td><td>6.06(±0.5)</td><td>0.56(±0.1)</td><td>0.16(±0.1)</td></tr><tr><td>t值</td><td>-0.816</td><td>-1.446</td><td>0.336</td><td>-0.328</td><td>-0.016</td><td>-2.74**</td><td>0.626</td></tr></table></body></html>
+
+注：\*\*表示 $p { < } 0 . 0 1$ 。
+
+# 2.2.3实验流程
+
+实验采用2产品类型：(创新产品vs.革新产品) $\lvert \times 3 ($ 从众调节：消极vs.无冲突Vs.积极)的被试内设计。在实验的第一阶段中，首先请被试对产品的实用性进行8点评分，评分越高说明实用性越高，之后同时呈现"200名大学生"的群体评价和被试的评价。“200名大学生"的群体评价是在被试评价的基础上进行调节的，分三种情况：第一种是在被试评价的基础上 $\pm ( 0 , 0 . 1 , 0 . 2 )$ 作为无冲突条件(对照组，调节幅度很小)；第二种在被试评价的基础上- $( 1 . 0 { \sim } 2 . 0 )$ 作为消极调节条件；第三种情况为了平衡加减的数量级，在被试评价的基础上 $+ \ ( 1 . 5 { \sim } 2 . 5 )$ ，为积极调节条件。所有的产品图片用E-prime 程序随机呈现。被试在完成第一阶段的实验后，告知被试随后还有实验后测(被试事前并不知道)，三十分钟后，进行第二阶段的实验。在第二阶段的实验中，只要求被试对相同的产品图片再评价一次。实验流程详见图2。
+
+# 2.3结果
+
+# 2.3.1创造性产品实用性评价的从众效应分析
+
+为避免极端数值的影响，在数据分析之前首先删除了消极条件下，被试第二次评价反而高于第一次评价5分及以上的试次，共删除6个试次，删除率为 $0 . 2 7 \%$ 。结果发现在评分平均数上，被试第二次的评分与我们的调节方向一致(如图 3A)。具体来说：在消极调节条件下，被试第二次的实用性评分显著低于第一次的评分 $( t _ { ( 3 6 ) } = 7 . 2 5 , p < 0 . 0 0 1 , d = 0 . 7 7 )$ ；无冲突条件下，前后两次评分的差异不显著 $( t _ { ( 3 6 ) } = 1 . 2 7 , p = 0 . 2 1 )$ ；在积极调节条件下，被试第二次的评分显著高于第一次 $( t _ { ( 3 6 ) } = - 2 . 5 5 , p = 0 . 0 1 5 , d = 0 . 3 9 )$ 。对前后两次评价的变化量(第二次评
+
+第一阶段：被试首次评价，同时呈现同辈群体评价  
+![](images/d6e019eac0c50ffac2249659a799b195129d2f91cd5abd26ae9a60657df7b2ff.jpg)  
+第二阶段：再次评价
+
+![](images/3be8cec8d43a6698fe203117b208ba6dd408eca8f94d25a7a3fb520205f5d431.jpg)  
+图2实验程序流程图
+
+在第一阶段的实验中，先让被试对产品的实用性（新颖性）进行评价，随后同时呈现200 名大学生的平均评价和被试的评价。30 分钟后，要求被试在第二阶段的实验中对第一阶段评价的产品再评价一次。价评分－第一次评价评分)做单因素三水平(无冲突、积极调节、消极调节)的方差分析，差异显著 $( F _ { ( 2 . 1 0 8 ) } = 4 2 . 3 1 , p < 0 . 0 0 1$ ${ \mathfrak { \eta } } _ { \mathfrak { p } } { } ^ { 2 } = 0 . 5 4 )$ ，事后检验发现，消极调节条件下的变化量显著大于积极调节条件 $( p < 0 . 0 0 1 )$ 和无冲突条件 $( p < 0 . 0 0 1 )$ ，积极调节条件显著大于无冲突条件 $( p$ $= 0 . 0 0 2 )$ 。说明被试在对创造性产品的实用性评价上，存在从众效应。
+
+# 2.3.2实用性评价时，产品类型与从众调节变化量的交互效应分析
+
+对被试前后两次评分的变化量(第二次评价评分-第一次评价评分)进行 $2 { \times } 3$ 的重复测量方差分析，结果发现交互作用非常显著 $( F _ { ( 2 , 7 2 ) } = 5 . 3 0 , p = 0 . 0 0 7 , { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 1 3 )$ (如图3B)。简单效应分析的结果显示，当群体评分低于被试的评分时(消极调节条件)，创新产品的从众变化量显著高于革新产品 $( p = 0 . 0 1 2$ $\boldsymbol \eta _ { \mathrm { p } } { } ^ { 2 } = 0 . 1 6 )$ ；当群体评分与被试评分相当时(无冲突条件)，创新和革新产品的从众变化量无显著性差异 $( p = 0 . 7 8 0 )$ ；当群体评分高于被试评分时(积极调节条件)，创新产品的变化量高于革新产品的变化量 $( p = 0 . 0 6 6 , { \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 0 9 )$ 。也就是说无论是积极调节还是消极调节，在第二次评价时，创新产品的实用性评价的从众程度都强于革新产品。
+
+![](images/cbcd630db3edab1152795446b6722123f352dc351bb18dfed383b8ddbefb5430.jpg)  
+图3创造性产品实用性评价从众效应
+
+A图为被试前后两次实用性评分的差异检验B图为实用性评价时从众调节方式和产品类型的交互效应比较注： $*$ 表示 $p { \ll } 0 . 0 5$ ，\*\*表示 $p { \ll } 0 . 0 1$ 。误差线表示标准误。
+
+# 2.3.3范围效应(range effect)与从众效应的比较分析
+
+在第一次评价实验程序中，200 名大学生的群体评分是在被试第一次评分的基础上设置的(比如，积极组是在被试评分的基础上加上 $1 . 5 \sim 2 . 5$ 分，消极组是在被试评分的基础上减去 $1 . 0 { \sim } 2 . 0 )$ ，所以相比于被试第一次的评分，群体评分的范围更大，那么在第二次评价时，被试可能会参照群体评分，使评分的范围也增加，导致第二次评分的变异增大(Klucharev etal.,2009)。所以这种范围效应或许会混淆我们观测到的从众效应，为排除范围效应，我们将1、2、7、8定义为极端评分，将被试实用性评价时1、2、7、8等级评定的频次占总评价次数的百分比作为极端反应(extreme responding)的指标，比较两次评价的变异(标准差),结果发现第二次评分的变异略有下降 $( t _ { ( 3 6 ) } = - 1 . 9 2 7 , p = 0 . 0 6 2 )$ (如图 4A)，这与范围效应相悖。
+
+若符合范围效应，被试在第一次评价时倾向于给低分或高分评分(较为极端)，那么随机程序给出的平均评分将总是高于或低于被试的评分，或与被试的评分相当，所以被试第二次评价时极端值会减少，那么变异会降低；相反第一次评分较为极端时，第二次评价评分则相对集中，变异会增大。图4A清楚地表明，相比于第一次评价，当极端值比例较低时(横坐标左侧部分)，被试第二次评价变异较低；极端值比例较高时(横坐标右侧部分)，被试第二次评价变异较大。这不符合范围效应。综上，前后两次实用性评分的变化与范围效应无关，被试的确受到群体实用性评价的影响而从众。
+
+# 2.4 实验1a小结
+
+实验1a的结果说明被试在创造性产品的实用性评价上，容易受到群体评价的影响而从众，而且相比于革新产品，创新产品更容易从众。这验证了假设1和假设2中关于实用性评价过程中的从众效应。
+
+图4被试前后两次评价变异 (标准差)的分布情况  
+![](images/c5721d9a436a713e6095381f6e36cb3ef8912ebd5a2514ffb1c76ea7489e6305.jpg)  
+图 4A为实验1a实用性评价前后两次的变异情况；图4B为实验1b 新颖性评价前后两次的变异情况
+
+# 3实验1b创新产品与革新产品新颖性评价的从众效应
+
+# 3.1实验目的
+
+实用性与新颖性是创造性产品的两大基本特征，实验1a中我们发现了创造性产品实用性评价的从众效应，而且相比于革新产品，创新产品更容易从众。那么在新颖性评价上，是否会产生同样的从众情况？因此本次实验将进一步分析两类产品新颖性评价的从众效应。
+
+# 3.2方法
+
+# 3.2.1被试
+
+在北京市高校有偿招募未做过创造性产品评价类实验的被试30名(男12女18)，平均年龄20.47岁 $\langle S D = 1 . 9 4 \rangle$ 。被试的视力或矫正视力正常，均为右利手。
+
+# 3.2.2实验流程
+
+实验1b 的实验流程同实验1a,但在本次实验中我们要求被试评价创造性产品的新颖性。同样采用实验1中的实验材料(30个革新产品和30个创新产品)，每个被试都需要对创造性产品评价两次，在第一次评价过程中，被试先评价产品的新颖性，随后同时呈现200 名大学生的群体评分和被试自己的评分，群体评分可能与被试的评分相似，或者高于或低于被试的评分。当被试意识到自己的评价与群体评价不一致时，很有可能受到群体评价的影响而改变自己的评价与群体评价趋于一致。30 分钟后，我们出乎意料地要求被试再次评价产品的新颖性，在第二次评价中，不再呈现群体评价。
+
+# 3.3结果
+
+# 3.3.1创造性产品新颖性评价的从众效应
+
+在数据分析之前，为避免极端值对结果的影响，删除消极(或积极)调节时，被试第二次评分反而高于(或低于)第一次评分5分及以上的试次，共删除7个试次，删除率为 $0 . 3 9 \%$ 。在消极调节条件下，相比于第一次的新颖性评分，被试第二次的新颖性评分显著降低 $( t _ { ( 2 9 ) } =$ 3.21, $p = 0 . 0 0 3$ ， $d = 0 . 5 1$ )；积极调节条件下，相比于第一次的新颖性评分，被试第二次的新颖性评分显著升高 $( t _ { ( 2 9 ) } = 2 . 5 0 , p = 0 . 0 1 8 , d = 0 . 4 2 )$ ；无冲突条件下，被试两次新颖性的评分没有显著性差异 $( t _ { ( 2 9 ) } = 0 . 7 4 , p = 0 . 4 6 4 )$ 。说明被试第二次评价时的新颖性评分与群体评分一致(如图 5A)。对被试两次评分的变化量(第二次新颖性评分 －第一次新颖性评分)做单因素三水平方差分析发现，三种调节方式(消极调节、无冲突、积极调节)下被试前后两次新颖性评分的变化量有显著性差异 $( F _ { \mathrm { ~ ( 2 } } , \ 5 8 ) = 1 9 . 4 3 , p < 0 . 0 0 1 , { \eta _ { \mathrm { p } } } ^ { 2 } = 0 . 4 0 )$ ，事后检验发现，消极调节条件下的从众变化量显著大于积极调节条件 $( p < 0 . 0 0 1 )$ 和无冲突条件 $( p = 0 . 0 0 1 )$ ,积极调节条件下的从众变化量显著大于无冲突条件 $( p = 0 . 0 3 1 )$ 。说明被试评价创造性产品的新颖性时，即使群体成员没有真正在场，当发现群体评价与自己的评价不一致时，也容易受到群体评价的影响而从众。
+
+![](images/09fe2d762ceae584a363981417b25981f5096f1f3921e6d1228a3f93f8dd6f7d.jpg)  
+图5创造性产品新颖性评价从众效应
+
+A图为被试前后两次新颖性评分的差异检验B图为新颖性评价时从众调节方式和产品类型的交互效应比较注：\*表示 $p { \ll } 0 . 0 5$ ，\*\*表示 $p { \ll } 0 . 0 1$ 。误差线表示标准误。
+
+# 3.3.2新颖性评价时，产品类型与从众调节变化量的交互效应分析
+
+采用 $2 { \times } 3$ 的重复测量方差分析被试两次新颖性评分的变化量，结果发现产品类型与从众调节方式交互作用不显著 $( F _ { ^ { ( 2 , 5 8 ) } } = 0 . 5 8 , p = 0 . 5 6 6 )$ (如图 5B)。说明在新颖性评价上，创新产品和革新产品的从众程度没有显著性差异。
+
+# 3.3.3范围效应与从众效应的比较分析
+
+同实验1a,在实验1b 我们也比较了范围效应和从众效应，对两次新颖性评价的变异进行配对样本T检验，结果发现第二次评分的变异没有显著性差异 $( t _ { ( 2 9 ) } = 1 . 1 3 5 , p = 0 . 2 6 6 )$ （如图4B)，这与范围效应相悖。
+
+图4B 表明，相比于第一次新颖性评价，当极端值比例较低时(横坐标左侧部分)，被试第二次新颖性评价变异基本相同；极端值比例较高时(横坐标右侧部分)，被试第二次新颖性
+
+评价变异较大。这不符合范围效应。因此，新颖性前后两次评分的变化与范围效应无关，被试的确受到群体新颖性评价的影响而从众。
+
+# 3.4实验1b小结与讨论
+
+实验1b 发现创造性产品的新颖性评价同样具有从众效应，革新产品和创新产品的新颖性评价的从众程度相同。这验证了假设1即创造性产品新颖性评价具有从众效应。但与假设2 矛盾，即在新颖性评价上相比于革新产品，创新产品更容易从众。尽管在实验1a与实验1b 中，我们控制了两类产品本身的新颖性和实用性特征，保证两类产品除在“有无原型”上有差异外，其他方面均没有显著性差异。但为什么实用性评价的从众程度在不同原创性的创造性产品上出现了显著性差异，而在新颖性评价上却没有出现这一现象？
+
+我们猜想这是由于相比于新颖性评价过程，被试仅在实用性评价中感受到创新产品比革新产品有更大的不确定性，从而促进了创新产品实用性评价的从众程度。由于被试缺乏创造性产品相关的知识信息，也没有可以借鉴的经验(Gourville,2006)，从而在创造性产品评价中会对自己的评价能力产生怀疑，对自己评价结果的准确性也缺乏信心，因此个体在创造性产品评价中会产生不确定性。对于创造性产品评价的不确定性，避不可免的会涉及到其新颖性和实用性基本特征的感知和评价中的不确定性。相比于常规产品，人们对于创造性产品是不熟悉的，缺乏足够的产品经验和信息，从而对自己是否能有效使用该产品解决相应的问题以及该产品对自己的价值有多大产生不确定性，因此会在其实用性评价中感受到不确定性。而在评价产品的新颖性时，被试往往会根据自己的现有经验推测该产品在人群中是否常见以及该产品相比于常规产品的独特之处是什么，从而也会对自己的新颖性评分缺乏信心。因此被试在新颖性和实用性评价中都会感受到不确定性。
+
+Hoeffler(2003)在实验中发现人们在创新产品的评价中感受到了比革新产品更大的不确定性(Hoeffler,2003)。而不确定性是影响从众行为的重要因素，它往往会增加个体的从众行为，且不确定性程度越大，个体越容易从众(Escalas&Betman,2005)。由此来说不管是新颖性评价还是实用性评价，创新产品都应该比革新产品更容易从众。而事实上两类产品仅在实用性评价上存在从众程度的差异。这或许是因为创新产品与革新产品的不确定性差异仅产生于其实用性评价中，而在新颖性评价上，被试在两种产品中感受到的不确定性程度相同。为验证这一猜想，并解释实验1中两类产品在新颖性和实用性评价中从众程度的差异，我们设计了实验2。并假设3：a.相比于革新产品，被试在评价创新产品的实用性时感受到更大的不确定性；b.两类产品在新颖性评价上面临的不确定性相同。
+
+# 4实验2两类产品新颖性与实用性评价的确定性程度比较
+
+# 4.1实验目的
+
+比较被试在评价创新产品和革新产品的实用性(或新颖性)时，面临的不确定性程度差异。
+
+# 4.2方法
+
+# 4.2.1被试
+
+招募大学生或研究生被试 22名(男9，女13)，平均年龄 23.15 岁 $( S D = 2 . 1 6 )$ 。被试的视力或矫正视力正常，均为右利手。实验结束后给与一定的实验报酬。
+
+# 4.2.2实验流程
+
+在 60 个创造性产品中随机选取10个创造性产品(5 个革新产品，5个创新产品)，其中革新产品和创新产品仅在"有无原型 $" ( t _ { ( 8 ) } = 3 . 3 9 , p = 0 . 0 0 0$ $d = 0 . 7 6 )$ 维度上存在显著性差异，在新颖性 $( t _ { ( 8 ) } = 0 . 4 5 , p = 0 . 6 6 )$ 和实用性 $( t _ { ( 8 ) } = 0 . 6 7 , p = 0 . 5 2 )$ 方面均没有显著性差异。产品图片采用伪随机的方式呈现给被试，要求被试先观看产品图片，之后首先按照七级评分评价产品的实用性(或新颖性)，其中评分越高说明产品越实用(或越新颖),评分越低说明产品越不实用(或越不新颖)。随后再按照七级标准判断个体刚刚做出的实用性（或新颖性）评价的确定性程度有多大，其中评分越高说明其实用性(或新颖性)评价越确定，评分越低说明其实用性(或新颖性)评价越不确定。在实验前向被试详细解释“不确定性"的含义，即“对于自己给出的产品实用性或新颖性的评分，你的信心程度有多大？或者根据你对该产品的了解，你认为你所做出的实用性或新颖性评分的准确性有多大？"整个实验以问卷星的形式呈现给被试，并要求所有被试在电脑上完成对产品的评价，实验过程中主试用语音的方式随时监控实验的完成情况。
+
+# 4.3结果
+
+首先对创新产品与革新产品实用性评价中的确定性评分进行配对样本 $\mathrm { \Delta T }$ 检验，结果发现实用性评价的确定性程度评分在产品类型中差异显著 $( t _ { ( 2 1 ) } = 3 . 3 7 , p = 0 . 0 0 3 , d = 0 . 7 8 )$ ；对创新产品与革新产品新颖性评价中的确定性程度评分进行配对样本T检验，结果发现新颖性评价的确定性程度评分在产品类型中差异不显著 $( t _ { ( 2 1 ) } = 1 . 5 7 4 , p = 0 . 1 3 0 )$ (如图6)。
+
+图6创新产品与革新产品实用性与新颖性评价的确定性程度评分  
+![](images/c3cbae95233d7e246c845d19c8093b108fcde61376bd82ff713b9ebde75628fe.jpg)  
+注：\*\*表示 $p { \ll } 0 . 0 1$ 。误差线表示标准误。
+
+# 4.4实验2小结
+
+实验2结果发现，相比于革新产品，创新产品的实用性评价面临的确定性程度评分更低，说明相比于革新产品，被试在评价创新产品的实用性时，感受到了更大的不确定感。在新颖性评价的确定性程度评分中，创新产品与革新产品没有差异。验证了假设3。这说明创新产品与革新产品评价中面临的不确定性程度的差异主要来自于其实用性评价。
+
+# 5讨论
+
+实验1采用“初次评价-从众诱导-延时再评”的实验程序研究创造性产品评价中的从众效应，发现创造性产品在新颖性和实用性评价中都存在从众效应；而且在实用性评价上，创新产品比革新产品更容易从众；在新颖性评价上，两类产品的从众程度相同。实验2比较了两类创造性产品在实用性和新颖性评价中的确定性程度，与实验1的发现类似，即在实用性评价中，相比于革新产品，被试在评价创新产品时面临的不确定性程度更大；而在新颖性评价中，两类产品面临的不确定性程度相同。这说明个体在评价创新产品时感受到更大的不确定感，这种不确定感增加了其实用性评价的从众程度。
+
+个体在评价创造性产品的过程中容易从众，这是由创造性产品本身的特点以及群体压力等因素引起的。研究者认为，当该领域的专家一致认为某一产品具有创造性时，它就是有创造性的，因此在识别创造性时，社会从众是无法避免的(Amabile,1982;Haller,Courvoisier,&Cropley,2011)。创造性产品是少数人类思维灵感和创意的产物，大部分个体并不了解其原理和特点，所以在对创造性产品的评价过程中，缺乏可利用的信息。因此在产品评价过程中自然就面临着不确定性，当发现自己与群体的评价不一致时，被试很容易认为群体评价更可靠，从而更容易从众。Asch(1951)在实验中发现即使问题情境很确定，在群体压力下，大部分个体仍然会跟随群体的意见选择错误答案(Asch,1951)。Kluchareve 等人(2009)利用面孔评定任务研究了从众过程的神经机制，发现当个体知觉到自己的评价与群体评价存在冲突时，扣带区喙部（the rostral cingulate）显著激活，同时腹侧纹状体（the ventral striatum）的激活程度也显著减弱。扣带区喙部与认知冲突有关，腹侧纹状体则与检测奖赏有关，二者都与强化学习有关(Klucharev etal.,2009)。说明当个体知觉到自己与他人观点不一致时，改变自己的观点进而从众能获得内在的奖赏。而本研究中在第一次评价时，同辈群体的评分是在被试评分之后呈现的，在自己与群体评分不一致的情况下，为缓解群体压力，被试很容易从众。
+
+与新颖性评价不同，在实用性评价上，相比于革新产品，创新产品给个体带来了更大的不确定感，从而使个体在创新产品的实用性评价中也更容易从众。这里的不确定性是指由于个体对创造性产品不够熟悉，掌握的知识较少，从而在其评价中产生模糊感，对于评价结果的准确性缺乏足够的信心(Mueler,Melwani,& Goncalo,2012)。创新产品是不与任何现有产品类似的新产品，所以如果要使用创新产品，个体可能需要改变现有的行为习惯(Herzenstein& Hoeffler,2016)。那么对于创新产品，个体需要以一种新的行为方式使用一个全新的产品，这个过程本身就充满着更大不确定性。然而革新产品是以现有产品为原型，经过改造而成的新产品，个体在使用革新产品时，可以将其原型产品的使用经验迁移过来(Hoeffler,2002)。所以对于革新产品，个体是以一种旧的方式使用一个新的产品。从这个角度来说，被试在创新产品的实用性评价中面临的不确定性程度的确比革新产品大。而且研究发现，被试在评价创新产品的实用性时主要激活概念通路(conceptual pathway)，即个体对创新产品的表征主要依赖于产品相关的语义和知识信息(F.R.Huang,Chiu,&Luo,2016)。所以个体仅能利用相关知识信息推测创新产品的使用方式，那么群体的实用性评价很有可能也会被纳入产品是否实用的知识性信息中，作为其实用性评价的参考。而革新产品主要激活的是动作通路(motorpathway)，即个体对革新产品的加工主要依赖于产品的使用技能等动作操作信息(F.R.Huanget al.,2016)。所以在评价革新产品时，被试更多的是在考虑产品的使用过程，并能根据其原型产品对革新产品主动产生熟悉感，所以个体可能更确定革新产品是否实用，较少的受到了群体评价的影响。相反在新颖性评价中，相比于一般的常规产品，无论是革新产品还是创新产品都是新颖的，生活中都不常见(Gilson&Madjar,2011)。在两类产品本身的新颖性程度无差异的情况下，个体感受到的确定性程度也没有差异，因此创新产品和革新产品在新颖性评价上的从众程度也没有差异。
+
+我们在实验1发现，相比于积极调节条件（群体评价高于被试的评价)，消极调节条件（群体评价低于被试的评价）下，被试的从众变化量更大，也就是说当得知群体给产品差评时，消费者更容易改变自己的评价，倾向于给一个更低的评价。这说明在创造性产品评价中，存在从众方式的负性偏向。人类和动物中都普遍存在负性偏向，即人们更容易加工负性信息，这种负性偏向体现在注意、记忆、情绪等各种心理活动中(Rozin& Royzman,2001)。比如相比于中性和积极情绪材料，个体对消极情绪图片更敏感，情绪体验也更强烈(Y.X.Huang&Luo,2006)。还有研究者发现不管之前有没有见过，个体倾向于将高唤醒的消极图片判断为见过，而且相比于中性图片和积极图片，个体对消极图片的记忆效果更好(Kaestner&Polich,2011)。研究者在视觉搜素任务中发现威胁面孔更容易被识别,说明负性偏向能使个体及时发现危险并躲避(Feldmann-Wüstefeld,Schmidt-Daffy,& Schubo,2011)。相比于中性和积极刺激，负性信息的唤醒度和生存意义更大(Franken,Muris,Nijs,& Strien,2008)。因此在消极的从众调节方式下，个体可能感知到更大的群体压力，为缓解压力，更容易改变自己的评价而与群
+
+体保持一致。
+
+我们的研究发现相比于革新产品，消费者在评价创新产品的实用性时，感受到了更大的不确定感，这种不确定感极大的影响了人们的行为和观点，使人们更容易相信群体的评价而从众。比如希特勒提出生存空间理论，认为优秀的民族应当享受更大的生存空间，并且对这一创新理论进行了大肆推广。然而人们在对这一理论的可用性不了解的情况下，盲目地从众，这直接导致了二战的爆发，给人类带来了极大的灾难。由此来说，当我们接触到创新产品或创新事物时，应保持警惕，要对创新产品和事物有充分的认识，再进行下一步的决策。
+
+# 参考文献
+
+Agostinelli, G.(1989). Social-Psychology - Understanding Human Interaction, 5th Edition - Baron,Ra, Byrne,D. Contemporary Psychology, 34(2), 172-174.   
+Amabile,T.M. (1982). Social psychology of creativity: A consensual assessment technique. Journal of Personality & Social Psychology, 43(5),997-1013.   
+Asch, S. E. (1951). Effects of group pressure upon the modification and distortion of judgments: In Groups, Leadership and Men (pp. 119-124). Carnegie Press.   
+Berns,G. S., Chappelow, J., Zink, C.F.,Pagnoni, G., Martin-Skurski, M. E.,& Richards, J. (2005). Neurobiological correlates of social conformity and independence during mental rotation. Biological Psychiatry, 58(3),245-253.   
+Besemer, S.P. (2000). To Buy or Not to Buy $\because$ Predicting the Willingness to Buy from Creative Product Variables. International Journal of Creativity & Problem Solving, 10(2),5-18.   
+Campbell-Meiklejohn,D.K.,Kanai,R.,Bahrami,B.,Bach,D.R.,Dolan,R.J.,Roepstorff,A.,&Frith, C. D. (2012). Structure of orbitofrontal cortex predicts social influence. Current Biology, 22(4), R123-R124.   
+Cialdini,R.B.,& Goldstein, N.J. (2oo4). Social influence: Compliance and conformity. Annual Review Of Psychology， 55, 591-621.   
+Deutsch, M.,& Gerard, H. B.(1955).A study of normative and informational social influences upon individual judgement.JAbnorm Psychol, 51(1), 629-636.   
+Diedrich,J.,Benedek,M., Jauk,E.,& Neubauer,A. C.(2015).Are Creative Ideas Novel and Useful? Psychology Of Aesthetics Creativity And the Arts, 9(1),35-40.   
+Escalas, J. E.,& Bettman, J. R. (2oo5). Self-construal, reference groups, and brand meaning. Journal Of Consumer Research, 32(3),378-389.   
+Feldmann-Wüstefeld,T.，Schmidt-Daffy,M.，& Schubo,A. (2011).Neural evidence for the threat detection advantage: Diferential attention allocation to angry and happy faces. Psychophysiology, 48(5), 697-707.   
+Franken,I. H.A.,Muris,P.,Nijs,I.,& Strien,J.W.V. (2008).Processing of pleasant information can be as fast and strong as unpleasant information: implications for the negativity bias. Netherlands Journal of Psychology, 64(4), 168-176.   
+Gilson,L.L.,& Madjar, N. (2011). Radical and Incremental Creativity: Antecedents and Processes. Psychology Of Aesthetics Creativity And the Arts, 5(1),21-28.   
+Gourville, J.T. (20o6). Eager sellers and stony buyers: Understanding the psychology of new product adoption.Harvard Business Review, 84(6),98-106.   
+Hallr,C.S., Courvoisier,D. S.,& Cropley, D.H. (2011).Perhaps There Is Accounting for Taste: Evaluating the Creativity of Products. Creativity Research Journal, 23(2), 99-109.   
+Herzenstein, M.,& Hoeffler, S. (2016). Of clouds and zombies: How and when analogical learning improves evaluations of really new products. Journal Of Consumer Psychology, 26(4), 550-557.   
+Hoeffler， S. (2002). Conceptualizing newness and positioning really new products. Advances In Consumer Research, Volume Xxix, 29, 267-267.   
+Hoeffler, S. (2003). Measuring preferences for really new products. Marketing Res, 40, 406-420   
+Hu, W. P.,Shi, Q. Z., Han, Q., Wang, X. Q.,& Adey, P. (2010). Creative Scientific Problem Finding and Its Developmental Trend. Creativity Research Journal, 22(1), 46-52.   
+Huang,F. R., Chiu, C. Y.,& Luo, J. (2016). Neural Pathway of Renovative and Innovative Products Appreciation. Scientific Reports, 6, 1-9.   
+Huang,Y. X.，& Luo,Y. J. (2006). Temporal course of emotional negativity bias: An ERP study. Neuroscience Letters, 398(1-2), 91-96.   
+Janes,L.M.,& Olson,J. M. (2000). Jeer pressures: The behavioral effects of observing ridicule of others. Personality & Social Psychology Bulletin, 26(4), 474-485.   
+Kaestner, E. J.,& Polich, J. (2011). Affective recognition memory processing and event-related brain potentials. Cognitive Affective & Behavioral Neuroscience, 1(2),186-198.   
+Klucharev, V., Hytonen, K., Rijpkema, M., Smidts,A., & Fernandez, G. (2009). Reinforcement Learning Signal Predicts Social Conformity. Neuron, 61(1),140-151.   
+Krasilo,T.A. (20o5). The relation of person's creativity level and his or her atitude to creative activity products. Psychological Science & Education. no.3(pp. 56-57) In Russ., abstr. in Engl   
+Kristensson,P.,& Norlander, T. (2010). The Creative Product and the Creative Processes in Virtual Environments. Creativity & Innovation Management, 12(1),32-40.   
+Luo,J.,Niki, K.,& Phillips,S. (2004). Neural correlates of the'Aha! reaction'. Neuroreport, 15(13), 2013-2017.   
+Madjar,N., Greenberg,E.,& Chen, Z. (2011).Factors for Radical Creativity, Incremental Creativity,and Routine, Noncreative Performance. Journal Of Applied Psychology, 96(4), 730-743.   
+Milgram, S., Bickman,L.,& Berkowitz, L. (1969). Note on the drawing power of crowds of different size. Journal of Personality & Social Psychology, 13(2),79-82.   
+Mueller, J. S., Melwani, S.,& Goncalo, J.A. (2012). The Bias Against Creativity: Why People Desire but Reject Creative Ideas. Psychol Sci, 23(1),13-17.   
+Mueler, J. S., Wakslak, C. J.，& Krishnan, V. (2014). Construing creativity: The how and why of recognizing creative ideas. Journal Of Experimental Social Psychology, 51, 81-87.   
+Mugge, R., & Dahl, D. W. (2013). Seeking the Ideal Level of Design Newness: Consumer Response to Radical and Incremental Product Design. Journal of Product Innovation Management, 30,34-47.   
+Mukherjee, A.,& Hoyer, W. D. (2001). The effect of novel atributes on product evaluation. Journal Of Consumer Research, 28(3), 462-472.   
+Neighbors, C., Larimer, M. E., & Lewis, M. A. (2004). Targeting misperceptions of descriptive drinking norms: Eficacy of a computer-delivered personalized normative feedback intervention. Journal Of Consulting And Clinical Psychology, 72(3), 434-447.   
+Rozin, P.,& Royzman, E.B. (2O01). Negativity bias, negativity dominance, and contagion. Personality And Social Psychology Review, 5(4),296-320.   
+Sternberg,R. J., & Lubart,T. I. (1996). Investing in creativity. American Psychologist, 51(7),677-688.   
+Tafarodi, R. W., Kang, S.J.,& Milne,A. B. (2002). When different becomes similar: Compensatory conformity in bicultural visible minorities. Personality And Social Psychology Bulletin,28(8), 1131-1142.   
+Tang, C.Y.,& Naumann, S.E. (2016).The impact of three kinds of identity on research and development employees' incremental and radical creativity. Thinking Skills And Creativity,21,123-131.   
+Tanggaard, L. (2O15). The Creative Pathways of Everyday Life. Journal Of Creative Behavior, 49(3), 181-193.   
+Valgeirsdotir,D., Onarheim, B.,& Gabrielsen, G. (2015).Product creativity assessment of innovations: considering the creative process. International Journal of Design Creativity & Innovation, 3(2), 95- 106.   
+Welborn, B.L.,Lieberman, M. D., Goldenberg, D.,Fuligni, A. J., Galvan,A.,& Telzer, E.H. (2016). Neural mechanisms of social influence in adolescence. Social Cognitive And Affective Neuroscience, 11(1),100-109.   
+Zeki, S. (2001). Artistic creativity and the Brain. Science, 293(5527), 51-52.
+
+# Conformity Effect of the Evaluation of Creative Products
+
+ZHANG Hong1; REN jingyuan1; LIU Chenyang1; LUO Jing1,2
+
+(BeijingKeyboratoryf"Learing&ogntion",hoolofyhologyapitalNoralUnversityeijing,a) (Chinese Institutefor Brain Research,Beijing 102206,China)
+
+# Abstract
+
+Although previous studies have found that a conformity effect exists widely, whether people are affected by groups in the evaluation of creative products,the new products with the basic characteristics of novelty and practicability,remains a question to be studied. Compared to artistic products,such products are closely related to real life,reflecting actual creativity,and they are typical creative products in life. Although such products reveal new perspectives for consumers, they also promote a sense of uncertainty. Research shows that when faced with uncertainty, participants are more likely to folow others. Almost all studies on this subject have involved the evaluation of creativity，yet novelty and practicability are two important aspects of creativity. Researchers have studied the characteristics of creativity or creative products; however, creative products can be divided into innovative products and renovative products according to their originality. Therefore，we plan to compare the conformity effect of the two kinds of creative products in the evaluation of novelty and practicability in this study.
+
+An “initial evaluation-conformity induced-delay re-evaluation” paradigm was used in Experiment 1, in which participants were first asked to evaluate the practicability (or novelty) of creative products; then the 2OO undergraduates' average rating and the participants'own ratings were revealed. The group rating would be revealed as higher or lower than or similar to the participants' rating. Thirty-minutes later, participants evaluated the task again were entirely unexpected. To further analyze the difference in conformity degree between the two types of creative products, the subjects were required to make a certainty judgment on the novelty and practicality of the product in Experiment 2.
+
+Experiment 1 revealed that participants had decreased their practicability (or novelty) ratings when the group rating was lower than their first rating,increased their practicability (or novelty)
+
+ratings when the group rating was higher than their first rating,and did not change their ratings significantly when the group rating was comparable to their first rating. In the evaluation of practicability,it was found that the conformity of variation (the second rating-the first rating) of innovative products was significantly higher than that of renovative products. Nevertheless, in the evaluation of novelty, the two types of creative products had the same conformity of variation. Similarly, Experiment 2 found that the uncertainty of the evaluation of the practicability of the innovative product was greater than that of the renovative product. In the evaluation of the novelty of the two kinds of products,the degree of uncertainty was the same.
+
+In summary, both the evaluation of novelty and the practicability of creative products had a conformity effect. In the practicality evaluation of innovative products,it was easier for respondents to follow others, which might be caused by the greater uncertainty in the practical evaluation of innovative products than in that of renovative products.Nevertheless,in the absence of knowledge of new things, blindly following the crowd is likely to have unimaginable consequences. For longterm development, we should fully understand that innovative products are practical and decide what to do the next.
+
+Keywords innovative products; renovative products; practicability; novelty; conformity effect; uncertainty

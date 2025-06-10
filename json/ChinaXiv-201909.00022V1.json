@@ -1,0 +1,852 @@
+[
+    {
+        "type": "text",
+        "text": "2000一2015年乌兰察布市生长季NDVI时空变化及其影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李建飞，李小兵，周义(山西师范大学地理科学学院,山西 临汾041000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以2000—2015年 MODIS 中国500M NDVI月合成产品数据为基础,结合乌兰察布市同期降水和气温数据，采用趋势线分析法、差值法、复直线回归分析法和残差法等,对乌兰察布市近16a来生长季归一化植被指数（ND-VI)进行像元尺度的时空变化及影响因素分析。结果表明： $\\textcircled { 1 } 2 0 0 0 { - } 2 0 1 5$ 年乌兰察布市NDVI介于 $0 . 3 5 4 \\sim 0 . 5 5 5$ ，整体呈波动上升趋势,空间分布差异明显，且呈东南高西北低的特点; $\\textcircled { 2 } 2 0 0 0 { - } 2 0 0 4$ 年、2005—2009 年、2010—2015年乌兰察布市植被覆盖变化类型呈改善 $$ 退化 $$ 改善。植被覆盖改善较退化的速度慢，且植被退化后恢复缓慢； $\\textcircled{3}$ 乌兰察布市植物生长受降水、气温的双重影响。NDVI与年均降水量呈显著正相关( $\\mathit { \\Pi } _ { r = 0 . 7 3 0 , P = 0 . 0 0 1 \\rangle }$ ，并通过了0.01显著性水平检验，与气温呈负相关( $\\mathit { r } = \\mathit { \\Theta } - 0 . 3 5 1$ ， $P = 0$ .182），二者相关关系不显著，相较气温而言，降水是影响植物生长的主要气候因子。在排除人类活动的影响下,降水和气温对乌兰察布市 NDVI的贡献自西北向东南由0.213逐渐增加至0.805； $\\textcircled{4}$ 人类活动对植被指数起消减作用的区域占研究区总面积的 $5 5 . 9 2 \\%$ ,对植被指数起积极作用的区域占研究区面积的 $4 4 . 0 8 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：NDVI；时空变化；复直线回归；气候因子；人类活动；乌兰察布市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被是联结土壤、大气和水分的自然“纽带”，具有明显的年际变化、季节变化特点，一定程度上代表土地覆被变化，在全球变化研究中充当着“指示器”的作用[1。当前，在植被动态变化研究中通常采用归一化植被指数(NDVI)，它与植被覆盖度、叶面积指数、生理条件等性状具有很好的关系，已被广泛应用于大尺度植被活动的研究中[2-6],被认为是监测陆地植被变化的最佳指示因子[7]。已有研究结果表明，植被覆盖在时空尺度上有明显空间性和动态性差异，水热条件是造成其分布差异的主要因素，而其动态变化会在植被类型、面积、数量和质量方面有所响应[8-9]。因此,获取地表植被覆盖及其变化信息对揭示地表空间变化规律、探讨其变化的驱动因子和驱动力、分析评价区域生态环境具有重要的理论和现实意义[10-11],同时,在人类活动对生态环境的改善以及生物资源的利用方面也有着重要的指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌兰察布市位于我国北方农牧交错带，属中温带干旱半干旱大陆性季风气候区，是京津地区乃至华北地区的生态安全保障屏障。全市以草原植被为主，从西北向东南方向水平分布有草原化荒漠带、荒漠草原带、典型草原带，中间分布有小面积的山地草甸草原类。而草原生态系统对自然环境变化及人类活动干扰的响应敏感性高、抵御能力差、恢复难，容易发生区域生态环境问题，加之乌兰察布市特殊的气候背景及地理环境,使得其生态尤为脆弱。因此,在维持乌兰察布市脆弱的生态系统前提下，如何合理的对其生物资源、农畜产品资源、旅游资源进行可持续的开发利用是目前急需解决的问题。分析该地区植被覆盖的动态变化及其与气候的相关性等，对指导该地区资源的可持续开发利用和生态建设均具有重要的理论和实践意义。鉴于此，本文以2000一2015年MODIS中国500MNDVI数据为基础，结合乌兰察布市植被类型及同期降水和气温数据，综合利用NDVI最大值合成法、均值法、趋势线分析法、差值法及残差法，揭示了气候变暖背景下近16a乌兰察布市生长季植被覆盖的时空差异性及其动态变化特征，结合气候数据，逐像元分析了降水和气温对",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NDVI的贡献，进而分离了气侯变化和人类活动对植被覆盖的影响，为区域可持续发展和生态环境保护提供理论与实践参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌兰察布市位于内蒙古中部，介于 $3 9 ^ { \\circ } 3 7 ^ { \\prime } \\sim$ $4 3 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { N } , 1 0 9 ^ { \\circ } 1 6 ^ { \\prime } \\sim 1 1 4 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { E }$ ,海拔 $9 3 1 \\sim 2 \\ 3 0 6 \\ \\mathrm { m }$ ,东西长 $4 5 8 ~ \\mathrm { k m }$ ,南北宽 $4 4 2 \\ \\mathrm { k m }$ ，总面积为 $5 . 4 5 \\times 1 0 ^ { 4 }$ $ { \\mathrm { k m } } ^ { 2 }$ 。其北与蒙古国接壤,东与锡林郭勒盟、张家口市毗连，南与山西省为邻，西与包头市和呼和浩特市交界[12]（图1)。该地区地貌类型多样，自北向南主要由内蒙古高原、乌兰察布丘陵、阴山山地和丘陵台地4部分组成。阴山山脉的大青山横亘中部，形成了前山地区(集宁区、卓资县、兴和县、丰镇市、察哈尔右翼前旗、凉城县)较温暖，雨量较多，后山地区（四子王旗、察哈尔右翼中旗、察哈尔右翼后旗、商都县、化德县)多风的特殊气候。全市属于中温带干旱一半干旱大陆性季风气候区，冬长夏短，春秋冷热变化剧烈,年平均气温在 $1 . 4 \\sim 5 . 1 ~ \\mathrm { ^ { q } C }$ ,年平均降水量在 $1 5 0 \\sim 4 5 0 ~ \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2328965c8d21fa9c19306495e8d31045efe0ebfe0087e3e4cdc2ea6dc8a4618.jpg",
+        "img_caption": [
+            "图1乌兰察布市地理位置及海拔分布",
+            "Fig.1Geographical location and altitude of Ulanqab City "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选取2000—2015年5—9月生长季NDVI数据（共90期），数据来源于中国科学院计算机网络信息中心国际科学数据镜像网站（http://www.gscloud.cn）所提供的MODIS中国区合成产品。中国500MNDVI月合成产品由MODND1D计算得到，计算方法为取月内每天最大值，其空间分辨率为$5 0 0 \\mathrm { ~ m ~ }$ 、时间分辨率为每月。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国1:1000000植被类型空间分布数据来源于中国科学院资源环境科学数据中心（http：//www.resdc.cn）。本研究在分类标准的基础上，结合乌兰察布市现有植被类型，重分类为草地（包括草甸草原、典型草原、荒漠草原、草甸）、栽培植被、林地（包括针叶林和阔叶林）、灌丛、荒漠、其他（包括水体、裸岩等)6种类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象数据来源于中国科学院资源环境科学数据中心（http://www.resdc.cn）,选取2000—2015年逐年平均气温、年降水量数据，该数据集是基于全国2400多个气象站点日观测数据，通过整理、计算和空间插值处理生成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 NDVI最大值合成法及均值法NDVI年数据是通过国际通用的最大合成法（maximumvaluecomposites，MVC)获得，它可以进一步消除云、大",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气、太阳高度角等的干扰[13-16]。选取了 2000—2015年每年5一9月NDVI值，提取最大值，作为该年度NDVI值，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } _ { i } = \\mathbf { M a x } ( \\mathbf { \\Delta } \\mathrm { N D V I } _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { N D V I } _ { i }$ 是第 $i$ 年的 NDVI值, $i = 1$ 表示2000年， $i = 2$ 表示2001年， $\\cdots , i = 1 6$ 表示2015年；ND-$\\mathrm { V I } _ { i j }$ 是第 $i$ 年第 $j$ 月的NDVI值， $j = 1$ 表示5月， $j = 2$ 表示6月， $\\cdots , j = 5$ 表示9月。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NDVI平均值是通过计算研究时间段年度NDVI累计后的平均值[13,17],通过 $1 6 \\mathrm { ~ a ~ }$ 年均 NDVI反映乌兰察布市植被覆盖的空间分布特征。计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\overline { { \\mathrm { N D V I } } } } = ~ { \\biggl ( } \\sum _ { i = 1 } ^ { n } \\mathrm { N D V I } _ { i } { \\biggr ) } { \\biggl / } n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：NDVI表示2000—2015年平均 NDVI值；ND-$\\mathrm { V I } _ { i }$ 表示第 $i$ 年 $\\mathrm { N D V I } , i = 1$ 表示2000 年, $i = 2$ 表示2001年， $\\cdots , i = 1 6$ 表示 2015年； $n$ 为监测时间段的年数。根据NDVI值将研究区域分为无植被区$- 1 < \\mathrm { N D V I } \\leqslant 0 . 2$ ,低植被区 $0 . 2 < \\mathrm { N D V I } \\leqslant 0 . 4$ ，中植被区 $0 . 4 < \\mathrm { N D V I } \\leqslant 0 . 6$ ,高植被区 $0 . 6 < \\mathrm { N D V I } \\leqslant 1 , 4$ 个等级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2趋势线分析法趋势线分析法是对一组随时间变化的变量进行一元线性回归的方法[7,18]。为了分析乌兰察布市2000—2015年NDVI年际变化的趋势，利用趋势线分析法拟合其年际变化的趋势，计算数据集中所有像元的NDVI与时间的回归斜率[19]。其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { s l o p e } } = { \\frac { n \\displaystyle \\sum _ { k = 1 } ^ { n } k \\times { \\overline { { \\mathrm { N D V I } _ { k } } } } - \\sum _ { k = 1 } ^ { n } k \\times \\sum _ { k = 1 } ^ { n } { \\overline { { \\mathrm { N D V I } _ { k } } } } } { n \\times \\displaystyle \\sum _ { k = 1 } ^ { n } k ^ { 2 } - \\left( \\displaystyle \\sum _ { k = 1 } ^ { n } k \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为监测时间段的年数； $k$ 为 $1 \\sim n$ 年中的第 $k$ 年； $\\overline { { \\mathrm { N D V I } } } _ { k }$ 为第 $k$ 年的 $\\overline { { \\mathrm { N D V I } } } _ { k }$ $\\theta _ { \\mathrm { s l o p e } }$ 为趋势线的斜率,$\\theta _ { \\mathrm { s l o p e } } > 0$ ,则说明研究区NDVI在16a的变化趋势是增加的，反之减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3差值法差值法能够衡量两个年份间的NDVI动态变化[20],为了更直观地反应2000—2015年 NDVI变化的波动性，分析不同年份不同像元NDVI变化的不同，采用差值法分析研究时段内ND-VI的波动性，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C } _ { i - j } = \\mathrm { N D V I } _ { i } - \\mathrm { N D V I } _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { C } _ { i - j }$ 为第 $i$ 年相对第 $j$ 年的NDVI变化值;借鉴有关学者的研究，本文将乌兰察布市NDVI动态变化的衡量指标定为： $\\mathbf { C } _ { i - j } \\leqslant - 0 . 2 5$ 为严重退化区,$- 0 . 2 5 < \\mathrm { C } _ { i - j } \\leqslant - 0 . \\ 1 5$ 为中度退化区， $- 0 . 1 5 <$ $\\mathbf { C } _ { i - j } \\leqslant - 0 . 0 5$ 为轻微退化区, $- 0 . 0 5 < \\mathrm { C } _ { i - j } \\leqslant 0 . 0 5$ 为无变化区, $0 . \\ 0 5 < \\mathrm { C } _ { i - j } \\leqslant 0 . \\ 1$ 5为轻微改善区，$0 . 1 5 < \\mathrm { C } _ { i - j } \\leqslant 0 . 2 5$ 为中度改善区, $\\mathbf { C } _ { i - j } > 0 . 2 5$ 为高度改善区[20] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4复直线回归分析 $^ +$ 残差法建立NDVI和气候要素之间理想的回归方程，理论上需选择完全没有人类活动干扰的植被资料，但在实际操作中具有较大的难度(21]。“回归残差法\"是当前该领域使用的主要方法之一[22],其在较小区域上进行退化与恢复评价分析具有一定的合理性[23]。从研究区面积较小及植被类型较为单一等方面来看，适合于采用复直线回归法和残差法进行退化与恢复评价分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了分离气象因素和人类活动对NDVI的影响及贡献,本文利用复直线回归分析及残差法[24]定量气象因素和人类活动对NDVI的贡献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "笔者对NDVI与降水、气温之间的关系进行了的复直线回归分析，回归方程为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz \\ = \\ a + b x \\ + \\ c y\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\cdot , b \\mathrm { } , c$ 计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = \\frac { r _ { x z } - r _ { x y } r _ { y z } } { 1 - { r _ { x y } } ^ { 2 } } \\cdot \\frac { \\sigma _ { z } } { { \\sigma _ { x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = \\frac { r _ { y z } - r _ { x y } r _ { x z } } { 1 - { r _ { x y } } ^ { 2 } } \\cdot \\frac { \\sigma _ { z } } { \\sigma _ { y } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = \\bar { z } - b \\bar { x } - c \\bar { y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\bar { x } \\bar { \\cdot } \\bar { y } \\bar { \\cdot } \\bar { z }$ 为 $\\ x \\ y \\ 、 z$ 系列的均值; $\\sigma _ { x } \\mathcal { \\ 、 } \\sigma _ { y } \\mathcal { \\ 、 } \\sigma _ { z }$ 分别为降水量、气温、NDVI系列的均方差; $r _ { x y } \\setminus r _ { x z } \\setminus r _ { y z }$ 为 $x$ 和$y _ { \\cdot } x$ 和 $z , y$ 和 $z$ 之间的相关系数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NDVI残差计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\ r e s i d u a l = N D V I - N D V I _ { P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：residual为NDVI复直线回归方程残差;NDVI为NDVI时间序列数据集; $\\mathrm { \\Delta N D V I _ { P } }$ 是根据复直线回归模型预测的 NDVI值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1乌兰察布市NDVI时空变化特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1近16a乌兰察布市年NDVI时间变化特征利用最大值合成法对各年的NDVI进行最大值合成,可反映出一年中植物生长最好的状况[25]。本研究通过最大值合成法得出2000—2015年乌兰察布市年 NDVI,即由2000—2015年每年5—9月生长季中提取月NDVI最大值作为年NDVI。通过一元线性回归分析得到NDVI时间变化趋势（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a356498e23fd6b1143be8080bcb5246174bf0ef2f75528db16422f630c1a254.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2不难得出，2000—2015 年乌兰察布市NDVI值介于 $0 . \\ 3 5 4 \\ \\sim \\ 0 . \\ 5 5 5$ ，整体呈上升趋势（ $\\theta _ { \\mathrm { s l o p e } } > 0$ )，变化不显著且年际变化波动性大。2001—2003年是研究时段内第一个明显上升阶段，2004—2010 年呈波动变化,在2009 年 NDVI达到最小值(0.354），究其原因是由于2009年降水少于历年同期,导致植物生长状态偏差[26];2010—2013 年是研究时段内第二个显著上升阶段，在2012年ND-VI达到16a中最高值(0.555），这可能是该年份降水量多且降水时空分布合理，植物生长状况达到近几年最好。2013年、2014年后又呈下降趋势。可见,研究区 NDVI值从2000—2015 年呈波状起伏变化，总体具有轻微上升态势，这可能是由于研究区内植被类型主要以草原植被为主，敏感性高，在自然环境变化及人类干扰下，使得NDVI值呈波动变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，本次研究对2000—2004年、2005—2009年、2010一2015年这3个时段NDVI平均值分别进行了计算,结果显示 NDVI值分别为 $0 . 4 6 4 \\ 、 0 . 4 2 6$ 、0.487,与之相对应的平均降水量( $3 4 0 ~ \\mathrm { m m } \\ 、 2 6 6 ~ \\mathrm { m m } ,$ $3 1 2 ~ \\mathrm { m m }$ )呈相似的变化特征，但需要说明的是2000—2004 年、2010—2015 年 NDVI平均值并不与降水的平均值变化特征完全一致，说明虽然降水与NDVI间有一定的关系,但其他因素对NDVI的影响同样不可忽视。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab4530e039e7bc69bd718a3aefb544a5c1e682e2fbdc3b9ce08d7c0ac2b3f571.jpg",
+        "img_caption": [
+            "图22000—2015 年乌兰察布市NDVI变化趋势 Fig.2Variation trend of NDVI in Ulanqab City from 2000 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2近16a乌兰察布市年NDVI空间分布特征为了更直观更准确地分析研究区NDVI空间分布特征,本研究利用 2000—2015 年 NDVI平均值来表示该时段研究区的NDVI值，同时依据NDVI将研究区植被覆盖划分为无植被区、低植被区、中植被区、高植被区4个等级（图3）。从图3可以看出，乌兰察布市NDVI空间分布存在明显的差异，总体上呈东南高西北低的特点。无植被区主要分布在乌兰察布市四子王旗西北部，占研究区面积的 $1 . 6 7 \\%$ ，该区域分布着大面积荒漠(图4），降水量少，气候干燥，物理风化强烈等不适合植物生长；低植被区主要分布在四子王旗的大部分区域。另外，在察右后旗也有零星分布，占研究区面积的 $3 7 . 2 7 \\%$ ，从图4可以看出，该区域分布有大面积的草地，是乌兰察布市的主要牧区，草地植被受气候、人类活动等因素影响强烈，植被变化敏感，加之该地段居民主要生活来源为畜牧业,使得该地区成为生态最脆弱地区之一[27]；中植被区主要分布在乌兰察布市中部以及东南部，包括四子王旗西南部、察右中旗、察右后旗、商都县以及化德县等，占研究区面积的 $3 9 . 2 7 \\%$ ,该地区是乌兰察布市后山风蚀沙化区，地处我国北方农牧交错带中段，从2000 年起，退耕还林（草）、京津风沙源治理、禁牧舍饲等一系列生态建设工程的实施，使得该地区植被覆盖有着明显的增加；高植被区主要分布在乌兰察布市东南部的凉城县、卓资县、察右前旗等以及兴和部分地区、东部边界的化德县等，占研究区面积的 $2 7 . 1 9 \\%$ ,该地区是全市范围内气候环境适宜、降水量多、气温等条件均较好的地区，植被类型主要为栽培植物、草地及全市范围内仅有的林地，植被覆盖率最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbc0e60eb8b65dbe57ddf5a62492ea904d5c9293e04991f668eb97c403a8d5b7.jpg",
+        "img_caption": [
+            "图32000—2015年乌兰察布市植被覆盖等级空间分布Fig.3Spatial distribution of NDVI in Ulanqab Cityfrom 2000 to 2015",
+            "图4乌兰察布市植被类型空间分布",
+            "Fig.4Spatial distribution of vegetation types in Ulanqab City "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2NDVI时空动态变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于NDVI时空动态变化与人类活动的关系极为密切，而大范围的人类活动主要受控于经济政策的调整，因此，依据我国经济发展规划的时间(5a)作为划分NDVI变化研究的时段单元。同时通过线性回归分析及差值法分析发现植被覆盖变化趋势以5\\~6a为时段单元表现的更为明显，也易于分析植被覆盖变化与气象、人为因素之间的关系。因此，本研究以 2000—2004 年、2005—2009 年、2010—2015年为时段单元进行分析，以便能更全面的了解研究区NDVI的动态变化特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 2000—2004 年NDVI动态变化对比分析2000年与2004年NDVI，并利用差值法衡量2004年和2000年NDVI的动态变化（图5、图6），结合乌兰察布市植被类型分布图（图4)可以看出，2000一2004年植被覆盖退化区占全市面积的 $7 . 2 4 \\%$ ,其中严重退化区和中度退化区分别占研究区面积的$0 . 0 2 \\%$ 和 $0 . 2 0 \\%$ ,零星分布在四子王旗中部及乌兰察布市南部地区；轻微退化区占研究区面积的$7 . 0 2 \\%$ ,主要分布在乌兰察布市北部与蒙古国接壤的荒漠草原地区、四子王旗中部一化德县北部呈带状分布，在丰镇和兴和县南部也有少量分布，退化区植被类型以草地为主。植被覆盖无变化区占全市面积的 $4 8 . 2 0 \\%$ ,在全市范围内都有分布，其中后山地区居多，主要包括北部的荒漠地区，四子王旗中部一察右中旗一察右后旗以南北方向为主分布，以及商都县、化德县北部地区，此外在乌兰察布市南部地区也有分布，植被类型主要以草地和栽培植物为主。植被覆盖改善区占全市面积的 $4 4 . 5 6 \\%$ ，中度改善和高度改善区分别占全市面积的 $4 . 8 5 \\%$ 和 $0 . 3 5 \\%$ ，包括卓资县、凉城县、南部的丰镇，以及乌兰察布市东部边界一带，在四子王旗北部荒漠草原一带也有分布;轻微改善区面积占全市面积的 $3 9 . 3 6 \\%$ ，分布于乌兰察布市北部荒漠草原地区，以及南部大部分地区，且主体集中于中度改善区和高度改善区的外围。该时段内植被覆盖无变化区面积占全市面积的百分比最多，改善区面积显著大于退化区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "造成上述现象的原因可能是该时段降水量（分别为 $3 1 0 \\ \\mathrm { m m } \\cdot 2 6 4 \\ \\mathrm { m m } \\cdot 3 1 2 \\ \\mathrm { m m } \\cdot 4 5 8 \\ \\mathrm { m m }$ 和 $3 5 4 ~ \\mathrm { m m }$ ）总体呈上升趋势，有利于植物生长。另一方面，自2000年以来，退耕还林(草）、京津风沙源治理、退牧还草等一系列生态治理工程的实施;禁牧、休牧和划区轮牧等措施的广泛实施及研究区产权政策的落实，使生态环境得到了明显的改善，并有效保护了已有的生态建设成果。2003年禁牧区的天然牧草平均高度达 $2 5 ~ \\mathrm { c m }$ ，覆盖度 $30 \\%$ ，总产量 $2 . 8 3 \\times 1 0 ^ { 9 } ~ \\mathrm { k g }$ 人工草地牧草平均高度达 $5 0 ~ \\mathrm { c m }$ ,总产量 $1 . 7 6 \\times 1 0 ^ { 9 }$ $\\mathbf { k g }$ ,与往年同期相比,牧草高度、生物产量均有所增加[28]",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2af67d13fe2038104f72d2310ec17b10d4aa2e5471a1822cab8438768ca7500e.jpg",
+        "img_caption": [
+            "图52000—2004 年乌兰察布市 NDVI变化空间分布Fig.5Spatial distribution of vegetation NDVI in UlanqabCity from 2000 to 2004"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/13c9e1b00545fa88c740aa4e2efb41dcca1785b8779712206d1ef099962d799f.jpg",
+        "img_caption": [
+            "图62000—2004年乌兰察布市各植被类型 NDVI变化累计百分比",
+            "Fig.6Cumulative percentage of NDVI change of vegetation types in Ulanqab City from 200O to 2004 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 2005—2009 年NDVI动态变化 2005—2009年NDVI的变化情况（图7、图8）显示：植被覆盖退化区占全市面积的 $4 8 . 9 4 \\%$ ,其中严重退化区面积占全市面积的 $7 . 4 6 \\%$ ，主要分布在乌兰察布市的东部，包括前山地区的兴和县、察右前旗、集宁区、后山地区的察右后旗、商都县以及化德县东北部地区，以栽培植被为主；中度退化区占全市面积的 $1 6 . 0 1 \\%$ ，分别分布于严重退化区的外围、南部的丰镇、凉城及中部的察右中旗;轻微退化面积占全市面积的$2 5 . 4 8 \\%$ ，主要分布于兴和县、丰镇、凉城县、察右中旗以及四子王旗南部、察右后旗、商都县、化德县北部地区，以栽培植物和草地为主。植被覆盖无变化区占全市面积的 $4 3 . 5 3 \\%$ ，主要分布于四子王旗大部分地区，同时卓资县大部分地区以及丰镇、凉城部分地区也有分布。植被覆盖改善区占全市面积的$7 . 5 2 \\%$ ,轻微改善、中度改善、高度改善区分别占全市面积的 $7 . 0 1 \\% . 0 . 3 8 \\% . 0 . 1 3 \\%$ ,主要分布于四子王旗南部地区和凉城、卓资部分地区。该时段内植被覆盖整体呈下降趋势，退化区面积较前一时段明显扩大。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/98f42119ab0c13518418941e7e4680f768a41dd53f9fed46f293f3a4bf557a37.jpg",
+        "img_caption": [
+            "图72005—2009年乌兰察布市 NDVI变化空间分布Fig.7Spatial distribution of vegetation NDVI in Ulanqab"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/91e76011fbabbdd687f557170ab320ce957a0f3fe2e24ee75cc9c8a0196af1c1.jpg",
+        "img_caption": [
+            "图82005—2009年乌兰察布市各植被类型NDVI变化累计百分比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分析认为，由于该时段降水量（ $2 4 5 \\ \\mathrm { \\ m m } \\cdot 2 5 8$ $\\mathrm { m m } , 2 5 1 ~ \\mathrm { m m } , 3 5 0 ~ \\mathrm { m m } , 2 2 3 ~ \\mathrm { m m } )$ 明显低于2000—2015年平均降水量( $3 0 6 ~ \\mathrm { m m } ,$ ），这可能是造成该时段植被覆盖减少的主要原因。内蒙古统计年鉴(29)显示，由于城镇化水平的提高，使得研究区植被指数减少，2009年房屋建筑面积、第二产业规模等都显著高于2005年，而第一产业规模低于2005年。可见，除自然因素外，人类活动也是造成该时段NDVI值降低的主要因素之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.32010—2015 年 NDVI动态变化2010—2015年乌兰察布市NDVI动态变化特征显示（图9、图10)：植被覆盖退化区占全市面积的 $3 3 . 2 2 \\%$ ,其中严重退化区和中度退化区分别占全市面积的$0 . 4 4 \\%$ 和 $4 . 2 5 \\%$ ,主要分布于化德县、商都县、察右后旗，同时四子王旗部分地区也有分布，植被类型以栽培植物为主;植被覆盖轻微退化区占全市面积的$2 7 . 5 3 \\%$ ，分布于四子王旗、化德县、商都县、察右后旗、察右前旗，此外卓资县、凉城县部分地区也有分布，以草地为主。植被覆盖无变化区占全市面积的$4 6 . 0 6 \\%$ ，主要分布于四子王旗、察右中旗、察右后旗、商都县北部一带，以及兴和县、丰镇市、凉城县、卓资县。植被覆盖改善区占全市面积的 $2 1 . 7 2 \\%$ ，其中轻微改善区占全市面积的 $1 7 . 2 9 \\%$ ，主要分布于四子王旗南部、察右中旗、卓资县、察右前旗等，以草地植被为主;中度改善和高度改善区分别占全市面积的 $3 . 8 1 \\%$ 和 $0 . 6 3 \\%$ ，主要分布于四子王旗、察右中旗、卓资县、察右前旗。该时段植被覆盖较上一时段有所改善，但植被覆盖改善区面积仍小于退化",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff538af22598b421684c333557b7e9086ec23dda7c66f88f11eec2ded942c280.jpg",
+        "img_caption": [
+            "图92010—2015 年乌兰察布市 NDVI变化空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f0e8ec2158daa7bf7bd0666716e3b25f0e85495a358dac1db25418812a413e2.jpg",
+        "img_caption": [
+            "Fig.8Cumulative percentage of NDVI change of vegetation types in Ulanqab City from 2005 to 2009 ",
+            "Fig.9Spatial distribution of vegetation NDVI in Ulanqab ",
+            "图102010—2015年乌兰察布市各植被类型NDVI变化累计百分比",
+            "Fig.10Cumulative percentage of NDVI change of vegetation types in Ulanqab City from 201O to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "区面积。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析认为，虽然该时段降水量较2005—2009年有所增加，对植物生长有所促进，但由于2005—2009年植被覆盖退化程度过高，同时，植被覆盖退化区域属于后山风蚀沙化区及北部草原，植被覆盖难以在短时间内恢复，加之城镇化水平的不断提高，使得该时段植被覆盖改善区面积仍小于退化区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过计算得出 2000—2015 年乌兰察布市植被覆盖变化总体趋势为改善一退化一改善(表1)。其中2000—2004 年乌兰察布市植被覆盖处于改善阶段，改善区面积占全市面积的 $4 4 . 5 6 \\%$ ,退化区面积占全市面积的 $7 . 2 4 \\%$ ,无变化区面积占全市面积的$4 8 . 2 0 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2005—2015年植被覆盖总体趋势呈先退化后改善，退化区面积由2005—2009年的 $4 8 . 9 5 \\%$ 减少到2010—2015年的 $3 2 . 2 2 \\%$ ,减少了 $1 6 . 7 3 \\%$ ；改善区面积由 2005—2009 年的 $7 . 5 2 \\%$ 增加到2010—2015 年的 21. $7 3 \\%$ ，增加了 $1 4 . 2 1 \\%$ 。与2000—2004 年植被覆盖度相比,2010—2015 年退化区面积比2000—2004年 $( 7 . 2 4 \\%$ )高 $2 4 . 9 8 \\%$ ,2010—2015 年改善区面积比2000—2004 年( $4 4 . 5 6 \\%$ ）低 $2 2 . 8 3 \\%$ 02005—2009 年退化区面积较2000—2004年增加了$4 1 . 7 1 \\%$ ,2010—2015年退化区面积较 2005—2009年减少了仅 $1 6 . 7 3 \\%$ 。植被覆盖无变化区的面积在2000—2004 年、2005—2009 年、2010—2015 年分别占全市面积的 $4 8 . 2 0 \\%$ 、 $. 4 3 . 5 3 \\%$ 和 $4 6 . 0 6 \\%$ ，波动不明显。这说明较植被覆盖退化的速度，植被覆盖改善的速度要慢得多，进一步说明乌兰察布市植被覆盖退化后其恢复过程缓慢。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cc8e932bd8158d352a10a4d596f3bf7af1c300648ab6f229f6802d60fd811f3.jpg",
+        "table_caption": [
+            "表12010—2015年乌兰察布市各植被NDVI变化类型百分比",
+            "Tab.1Percentages of change types of NDVI in Ulanqab City from 2010 to "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>严重退化</td><td>中度退化</td><td>轻微退化</td><td>退化</td><td>无变化</td><td>轻微改善</td><td>中度改善</td><td>高度改善</td><td>改善</td></tr><tr><td>2000—2004</td><td>0.02</td><td>0.20</td><td>7.02</td><td>7.24</td><td>48.20</td><td>39.36</td><td>4.85</td><td>0.35</td><td>44.56</td></tr><tr><td>2005—2009</td><td>7.46</td><td>16.01</td><td>25.48</td><td>48.95</td><td>43.53</td><td>7.01</td><td>0.38</td><td>0.13</td><td>7.52</td></tr><tr><td>2010—2015</td><td>0.44</td><td>4.25</td><td>27.53</td><td>32.22</td><td>46.06</td><td>17.29</td><td>3.81</td><td>0.63</td><td>21.73</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从植被类型来看（图6、图8、图10），研究时段内草地植被覆盖面积以无变化为主，2000—2004年草地改善面积大于退化面积,2005—2009 年草地退化面积大于其改善面积,2010—2015 年虽然退化面积减少了，但其仍大于改善面积，说明草地植被容易退化，但改善较难。栽培植被在2000一2004年改善面积占总面积的比例最大,2005—2009 年植被覆盖退化面积占其总面积比例最大；2010一2015年植被覆盖退化区面积与改善区面积相当，说明与草地植被类型相比，栽培植被退化后易于恢复，这是人类定期灌溉。林地在2000—2004年植被覆盖改善面积最大，2005—2009 年和 2010—2015 年植被覆盖面积以无变化为主，说明林地NDVI较稳定，植被覆盖波动不大。灌丛的植被覆盖面积变化趋势与3个时段整体植被覆盖变化趋势相同。荒漠植被耐旱性强，其面积在3个时段中均以无变化为主，但在2010一2015年荒漠植被覆盖退化面积远大于改善面积，说明荒漠植被NDVI存在较大的不稳定性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3NDVI与气候因子的相关性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析2000—2015年NDVI与降水、NDVI与气温的年际相关关系（图11)及其显著性 $P$ 检验，得出研究时段内NDVI变化趋势与降水基本一致，两者呈显著相关 $\\mathit { \\Pi } _ { r } ^ { ' } = 0 . 7 3 0 , P = 0 . 0 0 1 ,$ ），并通过了0.01显著性水平检验。研究时段内NDVI变化与气温变化呈相反趋势，但两者相关性不显著 $\\mathit { \\Omega } ( r = \\mathit { \\Omega } - 0 . 3 5 1$ ，$\\scriptstyle P = 0 . 1 8 2$ )。这说明乌兰察布市植物生长受降水、气温的双重影响，与气温相比，降水对NDVI产生的影响更大。可见，在本研究区内降水是影响植物生长的主要气候因子,该结论与穆少杰等[10]、王军邦等[30]、安佑志等[31]的研究结论一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/280bae4c669e9ab107a34c6ee376baebb3d07e8b884e8ecc6d1d034c589d12b4.jpg",
+        "img_caption": [
+            "Fig.11Correlations of NDVI with precipitation （a）and air temperature（b） in Ulanqab City"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对2000—2015年乌兰察布市降水和气温进行复直线回归分析后得到的NDVI值(图12、图13）进行分析，结果显示，在没有人类活动影响下降水和气温对乌兰察布市NDVI的贡献由西北向东南逐渐增加,这与降水在该区域内的空间分布一致，进一步说明了研究区内降水对NDVI的影响高于气温，NDVI主要受控于降水，与上述相关性检验结果一致。没有人类活动干扰的情况下，降水和气温对该研究区域 NDVI的贡献自西北向东南由0.213逐渐增加至0.805，贡献值大于0.6的区域占全市面积的$2 1 . 5 6 \\%$ ,贡献值在 $0 . \\ 4 \\ \\sim 0 . \\ 6$ 的占全市面积的$4 5 . 8 8 \\%$ ，贡献值小于0.4的占全市面积的 $3 2 . 5 6 \\%$ 。这分别与乌兰察布市2000—2015年高植被区、中植被区、低植被区分布基本一致，说明乌兰察布市 ND-VI主要受气象(降水、气温)因素的影响，其中降水是该研究区域NDVI的主要影响因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/43185363df6248daaddf52c68cdbe89d380aaa042af318d176080d38657efd21.jpg",
+        "img_caption": [
+            "图11乌兰察布市 NDVI与降水(a)和气温(b)的年际变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6df2e06686366c32bdd13b1c9aa511128812e8b42362d219b14644da1d1f5d02.jpg",
+        "img_caption": [
+            "图122000—2015年气象因素(气温和降水)对乌兰察布市NDVI的贡献分布",
+            "Fig.12Contributions of air temperature and precipitation to NDVI distribution in Ulanqab City from 2OOO to 2015 ",
+            "图132000—2015年乌兰察布市NDVI预测值变化趋势 Fig.13Predicted trendof NDVIin Ulanqab City from 2000 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与NDVI预测值相比，实测中植被区面积减少了 $6 . 6 1 \\%$ ,低植被区面积增加了 $4 . 7 1 \\%$ (表2)。这与乌兰察布市植被类型分布特征有着重要关系，减少的区域其植被类型以草原及栽培植物为主，所在区域属于我国农牧交错带，易受人类活动的影响，虽然退耕还林(草）、退牧还草等一系列生态治理工程的实施，但是由于该地段特殊的地理位置及易于受干扰的植被类型，目前来看这些措施效果不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合乌兰察布市植被类型的分布及其地形地貌的不同，受降水和气温的影响前山地区NDVI增加幅度大于后山地区，降水和气温对前山地区NDVI贡献值在 $0 . 5 \\sim 0 . 8$ ，对后山地区NDVI贡献值在$0 \\sim 0 . 5$ 。同时前山地区植被类型主要为草地、栽培植物和部分灌丛、林地。林地NDVI稳定性好，受外界因素干扰小，栽培植被定期的灌溉，降水对其来说影响较小，后山地区主要为草原和荒漠，蓄水能力较差，对降水有着较强的依赖性，NDVI有着不稳定性及敏感性。可见，乌兰察布市不同地区不同植被类型其生长对降水量和气温的响应有着显著的空间差异。研究区内降水的增加对植物生长起到促进作用，而温度与植物生长具负相关性，这主要是因为较高的温度会增加水分的蒸发，使土壤中有效含水量降低，进而对植物生长起到限制作用。通过分析乌兰察布市2000—2015年平均降水量及气温可知，年平均降水量为 $3 0 6 . 4 6 \\ \\mathrm { \\ m m }$ ,平均气温为 $4 . 9 1 ~ \\mathrm { { ^ { 9 C } } }$ ，2000一2015年年均降水量处于下降趋势，而年均气温处于上升趋势，乌兰察布市干暖化的现象不利于植物生长，而易于土地沙漠化，使草地、耕地等面积减少。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f0efc708715e11831f9e79ebb123745a24c580ea54709036ea49d71750e75ee.jpg",
+        "table_caption": [
+            "表22000—2015年乌兰察布市NDVI预测值与实测值比较",
+            "ab.2Compared results of thepredicted and measured values of vegetation NDVI in Ulanqab City from 2000 to 20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">NDVI预测值</td><td colspan=\"4\">NDVI实测值</td></tr><tr><td>NDVI值</td><td>-1~0.2</td><td>0.2~0.4</td><td>0.4~0.6</td><td>0.6~1</td><td>-1~0.2</td><td>0.2~0.4</td><td>0.4~0.6</td><td>0.6~1</td></tr><tr><td>比例/%</td><td>0</td><td>32.56</td><td>45.88</td><td>21.56</td><td>1.67</td><td>37.27</td><td>39.27</td><td>21.79</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4NDVI与人类活动的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "气候因子是影响植物生长的重要因素，但人类活动对植物生长的影响同样是不可忽视的重要驱动力（图14)。为了分离人类活动与气象因素（降水、气温)对乌兰察布市NDVI的影响，在不考虑其他非决定性因素的情况下，NDVI实际值与基于气候变化的NDVI模拟值间的残差，便是人为因素对NDVI的贡献值(32] O",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "计算发现，研究区内NDVI残差值拟合趋势斜率接近于0（图15）。卓莉等[23]认为，当拟合趋势的斜率为正时，表示该像元在去除气候影响下植被正在恢复；当拟合趋势的斜率为负时，表示该像元在去除气候影响下所在区域的植被仍在继续退化；当拟合趋势的斜率为0或接近于0时，则表示人为因素对区域生态系统干扰较小。然而，本研究认为尽管其斜率接近于0,似乎表示人类活动对其生态系统影响较小，但从人类活动对植被覆盖指数变化的面积比来看，虽然近年来实施了一系列生态工程，使研究区内部分区域植被覆盖指数明显改观（改善面积为 $4 4 . 0 8 \\%$ ),但需注意的是，由于城镇化水平的提高及畜牧业的快速发展，目前有 $5 5 . 9 2 \\%$ 的面积仍处于植被退化状态。可见，区域内植被恢复工作是一项长期而艰巨的任务。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2000—2015年乌兰察布市人口总量由 $2 . 3 3 \\times$ ${ 1 0 } ^ { 6 }$ 人增加到 $2 . 7 4 \\times 1 0 ^ { 6 }$ 人，不断增长的人口对乌兰察布市土地造成了压力[12.29,33],过度放牧、建设用地的增加等都不同程度的影响着植被覆盖的变化，这是乌兰察布市植被覆盖退化以及退化后恢复缓慢的原因之一。需要说明的是，自2000年以来，退耕还林(草）、京津风沙源治理、禁牧舍饲、天然林保护工程等的相继启动,促进了植被覆盖的恢复，但在不",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cf4541a0b567b6fbe9f0cb91777e85d62d29a592259995989065a562f6170c0.jpg",
+        "img_caption": [
+            "图142000—2015 年人类活动对乌兰察布市NDVI的贡献分布",
+            "Fig.14Contribution of human activities to NDVI in Ulanqab City from 2000 to 2015 ",
+            "图152000—2015年人类活动对NDVI的贡献值及其植被覆盖面积增加比例",
+            "Fig.15Contribution of human activities to NDVI and increase percentage of vegetation covering area from 2OoO to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "0一残差 ${ > } 0$ （促进作用） 一一残差年平均值50 0.0035%/ 484644424038 0.00300.0025 0.0015 IN0.00100.000536 0.00002000 2003 2006 2009 2012 2015年份",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同时段、不同地区的实施效果仍存在差异。此外，现阶段在人类活动变化幅度不大的情况下，可利用降水和气温预测未来的植物生长状况，有助于指导人类活动。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）2000—2015 年乌兰察布市 NDVI值介于$0 . 3 5 4 \\sim 0 . 5 5 5$ ,虽然整体呈上升趋势( $\\theta _ { \\mathrm { s l o p e } } > 0 \\AA$ ，但变化不显著。乌兰察布市 NDVI地域分异明显,具",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "东南高西北低的特点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）2000—2004 年、2005—2009 年、2010—2015年乌兰察布市植被覆盖变化类型为改善 $$ 退化 $$ 改善，植被覆盖改善的速度比植被覆盖退化的速度慢。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）分析2000—2015年NDVI与年均降水量、气温的相关性：NDVI与年均降水量显著相关( $r =$ $0 . 7 3 0 { , } P = 0 . 0 0 1 { \\rangle }$ ,并通过了0.01显著性检验,NDVI与气温为负相关，但两者相关性不显著（ $\\boldsymbol { r } ~ =$ -0.351, $\\textstyle P = 0 . { \\mathrm { ~ 1 8 2 } }$ )。在没有人类活动影响下，降水和气温对乌兰察布市NDVI的贡献自西北向东南由0.213逐渐增加至0.805。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）人类活动对植被指数有消减作用的区域占研究区总面积的 $5 5 . 9 2 \\%$ ,对植被指数有提高的区域占研究区面积的 $4 4 . 0 8 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "气候变化是影响植物生长的主要因素，同时也不能忽视人类活动对植被覆盖变化的影响，如何选择完全没有人类活动干扰的植被资料，进而更加准确的定量人类活动对植被的影响是后续研究的主要内容之一。另外,NDVI的时空动态变化是气候变化、土地利用、水土保持、地貌类型等自然和人类活动因素综合作用的结果[34]。本研究只分析了年降水量、年均气温两个气候因子与NDVI的年际相关关系，而未将其他影响因子纳入该研究体系；同时，受数据获取限制，本研究未进行 NDVI与气候因素（降水和气温)的年内相关性及滞后性研究，因此在后续的研究中有必要对乌兰察布市植被覆盖变化的影响因素进行更深层次的研究。此外，遥感数据分辨率、气象数据插值时的精确性以及NDVI在高植被区的饱和性等[35]都会对研究结果产生一定影响,所以，在后续的研究中还需对这些因素进行进一步的完善。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]孙红雨,王长耀,牛铮,等.中国地表植被覆盖变化及其与气候 因子关系—一基于NOAA时间序列数据分析[J].遥感学报, 1998,2（3）：204-210.[Sun Hongyu,Wang Changyao，Niu Zheng,et al.Analysis of the vegetation cover change and the relationship between NDVI and environmental factors by using NOAA time series data[J].Journal of Remote Sensing,1998,2(3） :204 -210.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2]刘少华,严登华，史晓亮，等.中国植被NDVI与气候因子的年 际变化及相关性研究[J].干旱区地理，2014，37（3）：480- 489.[Liu Shaohua,Yan Denghua,Shi Xiaoliang,et al.Inter-annual variability of vegetation NDVI accumulated temperature and precipitation and their correlations in China[J].Arid Land Geography,2014,37(3):480-489.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3]崔林丽,史军,肖风劲,等.中国东部 NDVI的变化趋势及其与气候因子的相关分析[J].资源科学，2010，32（1）：124-131.[CuiLinli,Shi Jun,Xiao Fengjin,etal.Variation trends in vegeta-tion NDVI and its correlationwith climatic factors in Eastern China[J].Resources Science,2010,32(1）:124-131.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[4]Zhou L M,Tucker CJ,KaufmRK,et al.Variations in Northern vegetation activity inferred from satellite data of vegetation index during 1981 to 1999[J].Journal of Geophysical Research Atmospheres,2001,106（D17):20069-20 083. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[5]李秀花,师庆东,郭娟,等.中国西北干旱区1981—2001年 ND-VI对气候变化的响应分析[J].干旱区资源与环境，2009，23(2）:12-16.[Li Xiuhua,Shi Qingdong,Guo Juan,et al.The re-sponse of NDVI to climate variability in Northwest arid area of Chi-na from 1981 to 2OO1[J].Journal of Arid Land Resources and En-vironment,2009,23（2）:12-16.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6]Fang Jingyun,Piao Shilong,He Jinsheng,et al.Increasing te-restrial vegetation activity in China,1982-1999[J].Science in China （Series C),2004,47(3):229-240. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[7」徐浩杰,杨太保.柴达木盆地植被生长时空变化特征及其对气 候要素的响应[J].自然资源学报，2014，29（3）：398－409. [Xu Haojie,Yang Taibao.Spatial-temporal variations of vegetation activities and its responses to climatic factors in the Qaidam Basin [J].Journal of Natural Resources,2014,29(3）:398-409.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[8]Parmesan C,Yohe G.A globally coherent fingerprint of climate change impacts across natural systems[J].Nature,2OO3,421 (6 918) :37 -42. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[9]李晓兵,史培军.中国典型植被类型 NDVI 动态变化与气温、降水变化的敏感性分析[J.植物生态学报，2000，43（3）：379-382.[Li Xiaobing,Shi Peijun.Sensitivity analysis of variation inNDVI,temperature and precipitation in typical vegetation typesAcross China[J].Acta Phytoecologica Sinica,2000,43(3）:379-382.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[10]穆少杰，李建龙，陈奕兆，等.2001—2010年内蒙古植被覆被度时空变化特征[J].地理学报，2012，67(9)：1255-1268.[MuShaojie,Li Jianlong,Chen Yizhao,etal.Spatial differences of vari-ations of vegetation coverage in Inner Mongolia during 2OO1-2010[J].Acta Geographica Sinica,2012,67(9）:1 255-1 268.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11」秦超，李君轶，陈宏飞.近20年宝鸡市植被覆被度动态变化及驱动力分析[J].山东农业科学，2014，46（9）：98-105.［QinChao,Li Junyi,Chen Hongfei. Dynamic change and driving force a-nalysis of vegetation coverage in Baoji City in recent 2O years[J].Shandong Agricultural Sciences,2014,46(9) :98-105.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12]张培峰，胡远满，赵明华.乌兰察布市经济发展与生态环境作用机制研究[J].干旱区资源与环境，2010,24（3）：6-12.[ZhangPeifeng,Hu Yuanman,Zhao Minghua.Study on the actionmechanism of economic development and eco-environment in Ulan-qab city[J].Journal of Arid Land Resources and Environment,2010,24(3):6-12.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13］张月丛，赵志强，李双成，等.基于SPOTNDVI的华北北部地表植被覆盖变化趋势[J].地理研究，2008，27（4）：745－754，973.[Zhang Yuecong,Zhao Zhiqiang,Li Shuangcheng,et al. Indi-cating variation of surface vegetation cover using SPOT NDVI inthe northern part of North China[J].Geographical Research,2008,27(4):745-754,973.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14]罗敏，古丽·加帕尔，郭浩，等.2000一2013年塔里木河流域生 长季NDVI时空变化特征及其影响因素分析[J].自然资源学 报,2017,32(1）:50-63.[Luo Min,Guli Jiapaer,Guo Hao,et al. Spatial-temporal variation of growing-season NDVI and its responses to hydrothermal condition in the Tarim River Basin from 2000 to 2013[J].Journal of Natural Resources,2017,32(1）:50 -63.] [15]AnYZ,Liu C S,Shi RH,et al.Spatio-temporal analysis of the vegetation changes based on MODIS time-seriesdata in the Yangtze River Delta region[J].Ecology and Environment Sciences,2012, 21(12):1923-1927. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16]郭锯，朱燕君，王介民，等.近22年来西北不同类型植被NDVI变化与气候因子的关系[J].植物生态学报，2008，32（2）：319- 327.[Guo Ni,Zhu Yanjun,Wang Jiemin,et al. The relationshipbetween NDVI and climate elements for 22 years in diffrent vege-tation areas of Northwest China[J].Journal of Plant Ecology,2008,32(2):319-327.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[17」刘旻霞，赵瑞东，邵鹏，等.近15a黄土高原植被覆被时空变化 及驱动力分析[J].干旱区地理，2018，41（1）：99-108.［Liu Minxia,Zhao Ruidong,Shao Peng,et al.Temporal and spatial variation of vegetation coverage and its driving forcesin the Loess Plateau from 2001 to 2015[J].Arid Land Geography,2018,41（1）： 99 -108.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[18]陈登魁，马超，王夏冰,等.1982—2015年可可西里NDVI变化特征及其气候响应[J].干旱区研究，2018，35（6)：1410-1 417.[ChenDengkui,Ma Chao,Wang Xiabing,etal.Variation ofNDVI and its response to climate change in Hoh Xil during the pe-riod of 1982 -2015[J].Arid Zone Research,2018,35（6）：1 410 -1417.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[19]徐勇，奚砚涛.江苏省植被覆盖动态变化及其与气候因子的关系［J].水土保持通报，2015，35（4）：195-201，2，329.[XuYong,Xi Yantao.Change of vegetation coverage in Jiangsu Prov-inceand its relational with climatic factors[J].Bulletin of Soil andWaterConservation,2015,35(4):195-201，2,329.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20]周梦甜,李军,朱康文.近15a新疆不同类型植被NDVI时空 动态变化及对气候变化的响应[J].干旱区地理,2015,38（4)： 779 -787.[Zhou Mengtian,Li Jun,Zhu Kangwen. Spatial-temporal dynamics of different types of vegetation NDVI and its response to climate change in Xinjiang during 1998-2012[J].Arid Land Geography,2015,38(4):779-787.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21]李辉霞，刘国华，傅伯杰.基于NDVI的三江源地区植被生长对气候变化和人类活动的响应研究［J].生态学报，2011，31(19）：5495-5 504.[LiHuixia,Liu Guohua,FuBojie.Responseof vegetation to climate change and human activity based on NDVIin the Three-River Headwaters region[J].Acta Ecologica Sinica,2011,31（19):5 495-5504.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[22]孙建国，张卓，韩惠，等.气候和人类因素在黄土高原西北部植被变化中的贡献率研究[J].遥感信息，2014，29（2）：83-88.[Sun Jianguo,Zhang Zhuo,Han Hui,etal.Contributions of climateand human to vegetation variation on Northwest LoessPlateau[J].Remote Sensing Information,2014,29(2):83-88.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[23]卓莉，曹鑫，陈晋，等.锡林郭勒草原生态恢复工程效果的评价 [J].地理学报,2007,62（5）:471-480.[Zhuo Li,Cao Xin， Chen Jin,et al.Assessment of grassland ecological restoration pro ject in Xilin Gol Grassland[J].Acta Geographica Sinica,2007,62 (5):471-480.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24]栾金凯,刘登峰，黄强，等.近17年陕西榆林植被指数的时空 变化及影响因素[J].生态学报，2018，38（8）：2780-2790. [Luan Jinkai,Liu Dengfeng,Huang Qiang,et al.Analysis of the spatial-temporal change and impact factors of the vegetation index in Yulin,Shaanxi Province,in the last17 years[J].Acta Ecologica Sinica,2018,38(8):2 780-2 790.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25]郭锯,韩天虎,王静,等.玛曲退牧还草工程生态效果的遥感监 测[J].中国沙漠,2010,30（1）：154-160.[Guo Ni,Han Tianhu,Wang Jing,et al.Ecological effects of“Restoring Grazing to Grassland Project”in Maqu County[J].Journal of Desearch Research,2010,30（1):154-160.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26]郭晓丽.乌兰察布市近十年植被指数时空特征分析[J].北方 农业学报,2017,45（3）:86-89.[Guo Xiaoli.Analysisof recent ten years spatiotemporal characteristics of vegetation index in Ulanqab[J].Journal of Northern Agriculture,2017,45(3）:86-89.] [27]王鹤,张跃，马君.乌兰察布市后山风蚀沙化区(农牧交错带) 植被保护与建设模式的分析与探讨[J].内蒙古草业，2005 (4):19-22.[Wang He,Zhang Yue,Ma Jun.Analysis and discussion on vegetation protection and construction mode in the wind erosion（transitional area between pastoral and agricultural）and desertification area of Ulanqab city[J].Inner Mongolia Prataculture,2005(4) :19 -22.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28]刘秀莲.乌兰察布盟2003年禁牧、休牧工作调研报告[J].内 蒙古草业,20O4(2）:12-13.[Liu Xiulian.Investigation report on the work of prohibiting and restoring animal husbandry in Ulanqab League in 2003[J].Inner Mongolia Prataculture,2004（2）:12- 13.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[29]蒙古统计局.年度数据.http://www.nmgtj.gov.cn/channel/ nmg_tjj/col10471f.html,2002-2016.[Inner Mongolia Statistical Bureau.Annual Data. http://www.nmgtj. gov.cn/channel/nmg_ tjj/col10471f.html.2002 -2016.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[30]王军邦，陶健，李贵才，等.内蒙古中部MODIS植被动态监测分析[J].地球信息科学学报,2010,12(6）：835-842.[WangJunbang,Tao Jian,Li Guicai,etal.Monitoring inter-annual vegeta-tion variation in middle Inner Mongolia through MODIS NDVI[J].JournalofGeo-InformationScience,2010,12(6):835-842.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31］安佑志,张远,高炜,等.基于GIMMS NDVI数据的北方13省荒漠化趋势评价[J].干旱区资源与环境，2014，28（4)：1-7.[An Youzhi,Zhang Yuan,Gao Wei,etal.Assessment of desertifi-cation trends of 13 provinces in Northern China based on GIMMSNDVI data[J].Journal of Arid Land Resources and Environment,",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2014,28(4):1-7.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32]郭继凯,吴秀芹,董贵华,等.基于MODIS/NDVI的塔里木河流 域植被覆盖变化驱动因素相对作用分析[J].干旱区研究， 2017,34(3）:621-629.[Guo Jikai,Wu Xiuqin,Dong Guihua,et al.Vegetation coverage change and relative effects of driving factors based on MODIS/NDVI in the Tarim River Basin[J].Arid Zone Research,2017,34(3):621-629.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33]孔萌，苏根成，迟文峰.农牧交错带耕地时空动态变化特征及 驱动力分析——以乌兰察布市为例[J].水土保持研究,2014, 21(2）:269-272,278.[Kong Meng,Su Gencheng,Chi Wenfeng. Spatiotemporal variation and driving forces on cultivated land change in transitional area between pastoral and agricultural：A case of cultivated land change of Ulanqab[J].Research of Soil and ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Water Conservation,2014,21(2）:269-272,278.][34]武正丽，贾文雄,赵珍,等.2000—2012年祁连山植被覆盖变化及其与气候因子的相关性[J].干旱区地理,2015,38（6）：1 241-1 252.[Wu Zhengli,Jia Wenxiong,Zhao Zhen,et al.Spa-tial-temporal variations of vegetation and its correlationwith climat-ic factors in Qilian Mountains from 20OO to 2012[J].Arid LandGeography,2015,38(6):1 241-1 252.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35］刘文彬,蔡体久,琚存勇,等.1981—2003 年黑龙江省植被变化及其对气候的响应[J].林业科学，2010，46（6)：154－160.[Liu Wenbin,Cai Tijiu,Ju Cunyong,et al.Vegetation change andtherelationship with climate factors in Heilongjiang Province from1981to 2003[J].Scientia Silvan Sinicae,2010,46（6）:154-160.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal Variation of NDVI and Its Affecting Factors in Ulanqab City in Growing Season from 2ooo to 2015 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LI Jian-fei，LI Xiao-bing，ZHOU Yi (CollegeofGeographical Sciences,Shanxi Normal University,Linfen O41ooo,Shanxi,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In this paper,the spatiotemporalchange of the Normalized Diference Vegetation Index （NDVI）and its afecting factors in UlanchabCity in recent16 years were analyzed.The study was based on the monthly synthetic product data of MODIS China 500M NDVI from 20O to 2015 and the precipitationand temperature data in the same period.The trend line analysis,differential method,complex linearregresion analysisandresidual method were used.The results showed that: $\\textcircled{1}$ The vegetation NDVI in Ulanqab City varied in a range of O.354 -0.555 during the period of 2Ooo-2O15,and the overalltrend fluctuated and its spatial distribution was obvious.It was high in the southeast but low in the northwest; $\\textcircled{2}$ The vegetation types in Ulanqab City were in a trend of improvement $$ degeneration $$ improvement during the periods of 2000 -2004,2005 -2009 and 2010 - 2015,and the degenerated vegetation was regenerated slowly ; $\\textcircled{3}$ Vegetation growth in Ulanqab City was affected by both precipitation and temperature.There was a significantly positive corrlation between the NDVIand the annual precipitation $\\left( r = 0 . 7 3 0 , P = 0 . 0 0 1 \\right)$ ）,which passed the significance test at O.O1 level,but a negative one between the NDVI and the temperature ( $\\mathit { \\check { r } = - 0 . 3 5 1 }$ ， $\\scriptstyle P = 0 . 1 8 2$ ）,and the correlation between the two climatic factors was not significant. Without considering the influence of human activities,the contributionof precipitationand temperature tovegetation NDVI was gradually increased from O.213 to O.805 from the northwest to the southeast ; $\\textcircled{4}$ The areas where human activities played a role in reducing vegetation index and increasing it accounted for $5 5 . 9 2 \\%$ and $4 4 . 0 8 \\%$ of the total study area respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:NDVI； spatiotemporal variation；complex linear regresion；climatic factor;human activity；Ulanqab City ",
+        "page_idx": 11
+    }
+]

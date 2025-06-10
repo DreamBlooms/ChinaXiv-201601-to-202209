@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "基于标准置换检验的差异序列模式挖掘算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴军，欧阳艾嘉，张琳(遵义师范学院 信息工程学院，贵州 遵义 563000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了去除差异序列模式挖掘算法返回结果中的假阳性差异序列模式，提出了一个基于标准置换假设检验的算法 SP-DSP。该算法首先运用GSP算法挖掘频繁序列模式，然后基于Growth rate 阈值生成差异序列模式候选集，并运用标准置换检验计算候选集合中每个模式的p-value，最后运用多重假设检验度量过滤假阳性差异序列模式。实验结果证明 SP-DSP 算法能够去除掉一定数量的假阳性模式并尽可能地保留真差异序列模式，从而促进后续分类任务正确率的提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：差异序列模式挖掘；模式评估；多重假设检验；标准置换检验中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2020.04.0058",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mining discriminative sequential patterns based on standard permutation testing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wu Jun, Ouyang Aijia, Zhang Lin (School of Information Engineering, Zunyi normal university,Zunyi Guizhou 563ooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Toflteroutthe false positive patterns returned fromthe discriminative sequential patterns mining methods,this paper proposed astandard permutation based method called SP-DSP.This method first mined frequent sequential paterns by the GSPalgorithm,thenthe paterns whose Growthrateare lessthan the threshold were eliminated.Finaly,the standard permutation method was used to compute the $\\mathfrak { p }$ -values of tested patterns.As a result,the number of false positive patterns can becontrolledunderthemultiple hypothesis testing measures.The experimentsshowedthattheSP-DSPalgorithmcanalleviate alot offalse positive paterns and retain as many true paterns as possble, which improves the accuracyofthe downstream classification tasks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:discrimiativeequentalpates mning; pattassessment; multileypothesis tsing;stadard pmuationtesting ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "序列数据指的是数据元素之间具备某种顺序关系的数据，例如网页浏览序列、蛋白质序列和人类语言都是常见的序列数据。在含有类型标签的序列数据中，某些序列模式在不同类别中出现的频率显著不同，这样的模式被称为差异序列模式[1。差异序列模式在医学等许多应用中都有相当重要的价值[2\\~5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "到目前为止，已经提出了一些有效的差异序列模式挖掘算法[6-8]。这些方法主要探讨了如何快速有效地挖掘差异序列模式，而没有关注挖掘到的模式的真假性，即这些算法返回的结果中会存在一定数量的假阳性差异序列模式。假阳性差异序列模式指的是在数据集中随机出现的并不能够反映总体特征的差异序列模式。采用假阳性差异序列模式做后续研究可能会得到错误的结果。可以采用统计显著性检验对挖掘结果进行质量评估，从而过滤假阳性差异序列模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在统计显著性检验中，一个结果的显著性是由它的 $p$ 1value值度量的。 $p$ -value值越小则说明该结果统计显著性越强。当仅有一个差异序列模式被检验时，如果它的 $p$ -value小于一个阈值 $\\alpha$ ，那么称该差异序列模式在统计显著水平为 $\\alpha$ 的条件下是统计显著的。在许多实际情况中，多个差异序列模式需要被同时检验，这样的检验称为多重假设检验。FWER(family wise error rate)[9]和 FDR(false discovery rate)[10]是多重假设检验中两个常用的控制假阳性结果数量的度量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，使用统计显著性检验方法评估数据挖掘结果已经得到了广泛研究。在非序列数据的差异模式挖掘任务中，Webb提出了两种技术用以检验模式的真假性，分别是：留出方法和直接计算方法[I]。Liu 等人总结了关联规则挖掘中的几种多重假设检验算法，并将这些算法分成了三类[12]，其中基于置换检验的方法是最有效的。随后，一些改进的置换检验算法被相继提出并应用于差异模式挖掘[13,14]。Komiyama等人提出了两个方法LAMP-EP和QT-LAMP-EP分别控制结果的FWER度量和FDR度量[15]。以上方法在非序列数据的差异模式挖掘中都取得了非常好的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "最近，为了验证多重假设检验对差异序列模式挖掘任务的有效性，He等人设计了一个基于直接计算的方法DSPM-MTC控制假阳性模式的数量[I]。DSPM-MTC根据支持度服从超几何分布的特性直接计算得到每个差异序列模式相应的$p$ -value。鉴于置换检验方法相较于直接计算方法在非序列数据任务中更为有效[12]，本文提出了一个基于标准置换检验的差异序列模式挖掘算法，即SP-DSP算法。该算法首先运用GSP算法挖掘得到候选差异序列模式[16]，随后对原始数据进行标准置换检验并得到相应的置换检验零分布，最后由该零分布计算得到候选差异序列模式的 $p$ -value，并运用FWER和FDR度量将结果中的假阳性差异序列模式数量控制在统计显著水平 $\\alpha$ 下。本文的主要贡献如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a)提出了一个基于标准置换检验的差异序列模式挖掘算法 SP-DSP，该算法能够将挖掘结果中假阳性差异序列模式数量控制在统计显著水平 $\\alpha$ 下。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）通过真实数据集上的实验结果证明了SP-DSP算法能够过滤一定数量的假阳性模式，并且比DSPM-MTC 算法能够保留更多的真差异序列模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）证明了运用多重假设检验能够提升差异序列模式挖掘算法结果的可信度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基本定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 频繁序列模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一条序列 $s { = } { < } a _ { 1 } , a _ { 2 } , . . . , a _ { l } { > }$ 是由字母表 $I { = } \\{ i _ { 1 } , i _ { 2 } , . . . , i _ { | I | } \\}$ 中的字母构成的一个有序线性表，其中 $a _ { j } \\in J$ 。对于序列$s _ { 1 } { = } { < } a _ { 1 } , a _ { 2 } , . . . , a _ { l } { > }$ 和序列 $s _ { 2 } { = } { < } a ^ { \\prime } _ { 1 } , a ^ { \\prime } _ { 2 } , . . . , a ^ { \\prime } _ { m } { > }$ ，如果每一个 $a _ { j } ^ { \\prime } \\in s _ { 2 }$ 也在序列 $s _ { 1 }$ 中且符合 $s _ { 1 }$ 的元素顺序，则称 $s _ { 2 }$ 是 $s _ { 1 }$ 的子序列，表示为 $s _ { 2 } \\subseteq s _ { 1 }$ 。例如，给定一个序列 $s \\mathrm { = } \\mathrm { < } i _ { 1 } , i _ { 3 } , i _ { 5 } , i _ { 6 } , i _ { 8 } \\mathrm { > }$ ， $< i _ { 1 } , i _ { 3 } >$ 和 $< \\dot { \\iota } _ { 5 , } \\dot { \\iota } _ { 8 } >$ 均是 $s$ 的子序列， $< i _ { 5 } , i _ { 3 } >$ 不是 $s$ 的子序列，因为其不满足 $s$ 的元素顺序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "给定一个序列数据集合 $D { = } \\{ t 1 , t 2 , { \\ldots } , t _ { | D | } \\}$ ，序列 $s$ 在 $D$ 中支持度定义为 $D$ 中包含 $s$ 的序列总数，即 $\\mathsf { s u p } ( s , D )$ $= | \\{ t | t \\in D \\land S \\subseteq t \\} |$ 。如果一条序列 $s$ 的支持度超过了用户定义的阈值min_sup，则该序列被称为频繁序列模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2差异序列模式挖掘",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于含有类型标签的序列数据而言，一些序列在不同的类型标签中呈现显著频率差异，这样的序列被称为差异序列模式。其中，序列在不同类别中的差异性可以由许多差异性度量来衡量[17]。为了便于讨论，采用仅使用包含两种类型标签的序列数据，并分别用 $D _ { + }$ 和 $D .$ 表示两个序列数据集合。提出的方法可以轻易拓展到多个类型标签的序列数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非统计检验的差异序列模式挖掘算法通常可以分为两个步骤。首先运用频繁序列模式挖掘算法挖掘一定数量的候选差异序列模式；随后计算这些模式的差异性度量值，如果符合给定的阈值约束，则被认定为差异序列模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3统计显著性检验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计显著性检验包含两种假设：零假设和备择假设。差异序列模式挖掘任务的零假设是差异序列模式在 $D _ { + }$ 和 $D$ 数据集中分布相同。在该任务中，每一个差异序列模式的统计显著性由 $p$ -value度量。 $p$ -value的定义是：假设差异序列模式$s$ 在 $D _ { + }$ 和 $D$ 里具有相同分布的前提下，获得一个与 $s$ 同样极端或者更加极端的差异序列模式的概率。一个差异序列模式的 $p$ -value 越小，则他在不同的类别里具有相同分布的可能性就越小。独立检验某个差异序列模式时，若它的 $p$ -value小于某个阈值 $\\alpha$ ，则该差异序列模式被称作在统计显著水平 $\\alpha$ 下是统计显著的差异序列模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "差异序列模式挖掘算法通常会返回大量差异序列模式，运用独立检验方法会导致假阳性结果的增加，因此这种情景更适用于多重假设检验。在多重假设检验中，FWER和FDR是两个常用的统计度量。其中，FWER的定义是发现一个假阳性差异序列模式的概率；FDR的定义是假阳性差异序列模式比例的期望值。FWER可以用Bonferroni校正控制[]，FDR可以用BH方法控制[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 SP-DSP 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1差异性度量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SP-DSP算法采用Growthrate作为序列模式的差异性度量。给定一个频繁序列模式 $s$ ，其Growth rate计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { g r o w } ( s , D ) = \\frac { \\mathrm { s u p } ( s , D _ { + } ) } { \\mathrm { s u p } ( s , D _ { - } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果一个序列模式的 $\\mathrm { G r o w } ( s , D )$ 大于等于用户定义的差异阈值 $\\beta$ ，则该模式被称为候选差异序列模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2置换检验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SP-DSP使用的标准置换检验含有五个步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)根据具体的任务建立一个零假设，再选择一个在零假设和备择假设下具有不同值的统计度量，并挖掘 $D _ { + }$ 数据集中的候选差异序列模式 $R$ 。SP-DSP算法的零假设是差异序列模式在 $D _ { + }$ 和 $D .$ 中具有不同的分布，选用的统计度量为Growthrate。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)随机交换 $D _ { + }$ 和 $D$ 中的序列数据，得到置换序列数据集： $D _ { + } ^ { \\prime }$ 和 $D ^ { \\prime }$ 。置换过程如图1所示，设 $D$ 包含8条序列数据 $\\{ t _ { 1 } , t _ { 2 } , . . , t _ { 8 } \\}$ ，其中前5条属于 $D _ { + }$ 数据集，后3条属于 $D$ 数据集。随机生成一个置换序列：7,5,1,4,2,3,8,6，根据该序列，将 $t _ { 1 }$ 的标签分配给 $t \\ u { > }$ ， $t _ { 2 }$ 的标签分配给 $t { \\boldsymbol { \\varsigma } } _ { }$ ，依此类推得到置换序列数据集合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "t1i,3,i5,i7,8,i9,i11,i12 t3,9t2 i2,i5,i7,8 t5i2,i5,i7,i11,12  \nD+ t3 i,i3,i6,i9,0,i11 D+ ti,3,5,7,8,9,11,12t4 i1,i7,8 t4 i,7,8t5i2,i5,i7,11,12 t2i2,i5,i7,8t6i,i t3i1,3,6,i9,i,  \nD- ti3,i9 D- t8i7,i11,12t8i7,i11,i12 t6i,i原始序列数据集合 置换序列数据集合",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1原始序列数据集合根据置换序列生成的置换序列数据集合Fig.1The permuted sequential data set obtained from the originalsequential data set with the permutation sequencec）挖掘 $D _ { + } ^ { \\prime }$ 序列数据集中的差异序列模式，并将相应的统计度量值放入集合 $G$ 中。d）重复第二步和第三步若干次后，用集合 $G$ 中统计度量值构建该置换检验的零分布。通常执行的置换次数是1000次。e)将 $D _ { + }$ 中的候选差异序列模式的统计度量值放置到上述零分布中计算得到置换检验 $p$ -value，其计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { p } \\left( G , s \\right) = { \\frac { { \\big | } \\left\\{ g _ { q } \\mid g _ { j } \\leq g _ { q } \\land g _ { q } \\in G \\right\\} { \\big | } } { \\left| G \\right| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $g _ { j }$ 指的是差异序列模式 $s$ 在原始数据集合上的统计度量值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3多重假设检验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由置换检验计算得到候选差异序列模式的 $p$ -value后，SP-DSP算法用Bonferroni校正和BH方法将挖掘结果 $R$ 的FWER和 $F D R$ 控制在统计显著水平 $\\alpha$ 下。FWER的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F W E R } ( R , \\alpha ) = \\{ s \\vert \\mathtt { p } ( G , s ) \\le { \\frac { \\alpha } { \\vert R \\vert } } \\wedge s \\in R \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算 $F D R$ 时，需要先将 $R$ 中差异序列模式的 $p$ -value按从小到大排序得到 $R ^ { \\prime } { = } \\{ s ^ { \\prime } { _ { 1 , S } } ^ { \\prime } { _ { 2 } } , . . . , s ^ { \\prime } { _ { | R | } } \\}$ ，随后可计算得到：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F D R } ( R , \\alpha ) = \\{ s _ { j } ^ { \\prime } \\mid \\mathsf { p } ( G , s _ { \\ j } ^ { \\prime } ) \\leq \\frac { j \\alpha } { \\mid R ^ { \\prime } \\mid } \\land s ^ { \\prime } \\in R ^ { \\prime } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 SP-DSP算法 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SP-DSP算法伪代码见算法1，其详细的解释如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)在 $D _ { + }$ 序列数据集中运用 $\\mathrm { g s p } ( D _ { ^ + } , m i n \\_ s u p )$ 算法逐层挖掘 $D _ { + }$ 数据集中支持度不小于min_sup 的频繁序列模式，并将其放入到集合Freq 中(第a 行)；计算集合Freq 中每一个频繁序列模式的Growthrate值，将超过阈值 $\\beta$ 的频繁序列模式放入集合 $R$ 中， $R$ 中的差异序列模式既是候选差异序列模式（第 $\\mathbf { b } { \\sim } \\mathbf { e }$ 行)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）对于每一次置换 $j$ ，首先运用permutate $( D )$ 方法进行类型标签的置换，得到置换数据集合 $D _ { + } ^ { \\prime }$ 和 $D ^ { \\prime } .$ ；随后，使用$\\mathrm { g s p } ( D ^ { \\prime } + , m i n \\_ s u p )$ 算法挖掘 $D _ { + } ^ { \\prime }$ 数据集中的频繁序列模式，并将其放入到集合 $F r e q \\_ p e r _ { j }$ 中；接着，使用 $\\mathsf { c o m \\_ s t a } ( F r e q \\_ p e r _ { j }$ ，$\\beta )$ 方法计算Freq_perj中每一个频繁序列模式的Growthrate值，并将超过 $\\beta$ 的Growthrate值放入到集合 $G _ { j }$ 中；最后将$G _ { j }$ 中的Growth rate值并入集合 $G$ 中(第f-k行)。最终， $G$ 中所有的Growthrate值构成该置换检验的零分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）将集合 $R$ 中每个候选差异序列模式的差异性度量值放置到零分中计算出 $p$ -value值(第 $_ { \\mathrm { l } \\sim \\mathrm { n } }$ 行)；随后，根据每个模式的 $p$ -value值过滤得到非冗余的候选差异序列模式集合R(第o行)；最后，运用Bonferroni校正将 $R$ 的FWER控制在统计显著水平 $\\scriptstyle a$ 下，并将统计显著的差异序列模式保存到集合 $R$ 'FWER中；类似地，运用BH方法将 $R$ 的 $F D R$ 控制在统计显著水平 $\\alpha$ 下，并将统计显著的差异序列模式保存到集合$R _ { \\mathrm { ~ F D R } } ^ { \\prime }$ 中(第 ${ \\tt p } { \\sim } { \\tt q }$ 行)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1SP-DSP(D,min_sup,α, $\\beta$ ,num_per)输入：序列数据集合 $D = \\{ D _ { + } , D _ { - } \\}$ ；最小支持度阈值min_sup；统计显著水平 $\\alpha$ ：差异性度量阈值 $\\boldsymbol { \\theta }$ ：置换次数num_per输出：统计显著的差异序列模式集合 $\\scriptstyle R ^ { \\prime } { } _ { F w E R }$ 和 ${ R ^ { \\prime } } _ { F D R }$ a）Freq $$ gsp( $\\cdot ^ { \\circ }$ ，min_sup)b）for each s in Freqc） $\\mathrm { i } \\mathsf { f } \\mathsf { G r o w } ( \\mathsf { s } , \\mathsf { D } ) \\mathsf { \\Omega } > \\mathsf { \\Omega } \\mathsf { \\beta }$ d) $R ~ \\gets ~ R \\cup \\{ s \\}$ e）end for$\\mathsf { f }$ ） for $j ~ = ~ \\theta$ to num_per dog） $D ^ { \\prime } { } _ { + , } \\ D ^ { \\prime } { } _ { - } \\ \\epsilon$ permutate(D)h) $\\begin{array} { l } { { F r e q \\_ p e r _ { j }  \\ g s p ( D ^ { * } _ { + } , m i n \\_ s u p ) } } \\\\ { { G _ { j }  \\mathsf { c o m \\_ s t a } ( F r e q \\_ p e r _ { j } , \\theta ) } } \\\\ { { G  G \\cup G _ { j } } } \\end{array}$ i)j)k）end for1）for each s in R dom） $s . p _ { - } v a l u e \\texttt {  p ( G , \\textit { s ) } }$ n）end for0） $R ^ { \\prime } \\gets$ redundancy_filter(R)p） $R ^ { \\prime } { } _ { \\mathsf { F W E R } } \\ \\gets \\ \\mathsf { F W E R } ( R ^ { \\prime } , \\ \\alpha )$ q） $R ^ { \\prime } { } _ { \\mathsf { F D R } } \\gets \\mathsf { F D R } ( R ^ { \\prime } , \\alpha )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2描述了去冗余方法redundancy_filter $( R )$ 的详细步骤：对于每一个候选差异序列模式 $\\boldsymbol { r }$ ，先找到其相应的子序列模式集合 $S u b$ ；然后找到其中最小的 $p$ -value值 $m i n \\_ p$ ，如果$r$ 的 $p$ -value值小于 $m i n \\_ p$ ，则将其放入非冗余的候选差异序列模式集合 $R ^ { \\prime }$ 中；最后将 $R ^ { \\prime }$ 返回进行后续评估。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Linux1_5[18]、Question[19]、WebKB[20]和Reuters[21]。其中,Linux1_5、WebKB和Reuters是多类别数据集，实验中只保留了这三个数据集中序列数量最多的两个类别。具体的数据集信息如表1所示。其中 $l _ { \\mathrm { m i n } }$ ， $l _ { \\mathrm { m a x } }$ 和 $l _ { \\mathrm { a v g } }$ 分别表示序列最短长度，序列最长长度和序列平均长度。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/decf83ad04c6a123f8040bda17d714b8cc5f9e0ec35aed875476d2247eb3691f.jpg",
+        "table_caption": [
+            "Tab.1 The experimental data sets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td></td><td>|D|</td><td>lmin</td><td>lmax</td><td>lavg</td></tr><tr><td>Linux1_5</td><td>426</td><td>1033</td><td>1</td><td>856</td><td>29.7</td></tr><tr><td>Question</td><td>3612</td><td>1731</td><td>4</td><td>29</td><td>10.2</td></tr><tr><td>WebKB</td><td>3151</td><td>2765</td><td>3</td><td>12</td><td>6.0</td></tr><tr><td>Reuters</td><td>15926</td><td>4436</td><td>4</td><td>815</td><td>87</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验首先对比了SP-DSPFDR，DSPM-MTCFDR，IMP和CGM在相同的min_sup， $\\scriptstyle a$ 和 $\\beta$ 参数下不同数据集返回的差异序列模式的数量。实验结果如图2所示，从中可以明显看出： $\\mathrm { S P - D S P _ { F D R } }$ 和DSPM-MTCFDR算法返回的结果数量小于IMP和CGM算法，其原因是差异性度量约束只关注了差异序列模式本身，而多重假设检验是对算法整个返回结果进行评估，所以基于多重假设检验的算法对结果质量的约束更为严格。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2redundancy_filter $( R )$ 输入：带有 $p$ -value值的候选差异序列模式集合 $R$ 输出：非冗余的候选差异序列模式集合 $R$ = a）for each $\\boldsymbol { r }$ in $R$ do b）Sub $$ getsubpatterns $( r )$ c）min_p $$ min(Sub) d) if $\\boldsymbol { r }$ .p_value <min_p e) $R ^ { \\prime }  R ^ { \\prime } \\cup \\{ r \\}$ $\\textsf { f }$ ） end for g） return $\\boldsymbol { R } ^ { \\prime }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Linux Question   \n10E+4 10E+4   \n10E+3 10E+3   \n10E+2 三 三   \n10E+1   \n10E+0 Webkb Reuters   \n10E+4 10E+4   \nI ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该实验选用了4个不同大小的序列数据集，分别是：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验为了检验 SP-DSP 算法的性能，本文在真实数据集上实施了大量对比实验。对比算法是IMP 算法[]、CGM算法和DSPM-MTC算法[1]。其中，DSPM-MTC算法是基于多重假设检验的差异序列模式挖掘算法，IMP算法和CGM算法是基于差异性度量的差异序列模式挖掘算法。同时，IMP算法和CGM算法均使用了文献[1]中使用的去冗余方法。所有的相关实验均运行在一台配置为2.40GhzCPU和12GB内存的电脑上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5实验数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随后，实验对比了SP-DSP和DSPM-MTC算法在相同参数下使用FWER和FDR约束返回的差异序列模式的数量，实验结果如表2所示。从实验结果中可以看出在相同FDR或者FWER约束下，SP-DSP算法返回的模式数量大于DSPM-MTC算法，这说明基于置换检验的方法比基于直接计算的方法能报告更多的结果数量。同时也能看出，同一种方法在FWER约束下报告的差异序列模式数量小于在FDR约束下报告的数量，这证明了FWER度量比FDR度量的约束更为严格。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2SP-DSP和DSPM-MTC算法在FWER或FDR约束下各个数据集返回的差异序列模式的数量",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/360a0fb5e3f8006f46183ecbb7991c8a95ef94c8bf599087bc8fa73a742cb26b.jpg",
+        "table_caption": [
+            "表1实验数据集",
+            "Tab.2The number of discriminative sequential patterns returned from the SP-DSP and DSPM-MTC methods under the FWER or FDR measure "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Linux1_5</td><td>Question</td><td>Webkb</td><td>Reuters</td></tr><tr><td>SP-DSPFDR</td><td>214</td><td>67</td><td>96</td><td>336</td></tr><tr><td>SP-DSPFWER</td><td>191</td><td>57</td><td>85</td><td>292</td></tr><tr><td>DSPM-MTCFDR</td><td>186</td><td>54</td><td>84</td><td>278</td></tr><tr><td>DSPM-MTCFWER</td><td>157</td><td>49</td><td>72</td><td>240</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上实验结果表明：相较于非多重假设检验方法IMP和CGM，SP-DSP能够过滤掉大量的模式；相较于多重假设检验方法DSPM-MTC，SP-DSP方法能保留更多的差异序列模式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于真实数据集中没有差异序列模式的Groud truth 信息，无法根据上述结果直接说明SP-DSP方法相较于其他方法找到的差异序列模式准确性更高。为了证明挖掘算法的准确性，随后的实验将上述挖掘到的模式作为特征用于分类器进行分类预测任务[22]。分类任务之所以能够证明挖掘到的模式的准确性是因为真差异序列模式反映了不同类别数据集的分布差异性，从而对应了相应的类型标签。具体做法是，根据挖掘到的差异序列模式的数量，为数据集中每一条序列构造一个与该数量大小相同的向量作为特征表示，其中，如果某一条序列包含某一个模式，则该序列在该特征上的值为1，反之，该序列在该特征上的值为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑到不同分类方法的影响，实验使用了三种不同机制的分类方法：朴素贝叶斯(表示为NB)，支持向量机(表示为SVM)和全连接神经网络(表示为MLP)。为了避免随机偶然性，每个分类方法都使用了五折交叉验证，并取十次预测结果的平均值作为最终的分类正确率。具体的实验结果如表3\\~5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a251b1dfefca949db492754aa9157736e0034f93e1adcad869ed1f6e866990a7.jpg",
+        "table_caption": [
+            "Tab.3The classification accuracy on each data set returned from NB method "
+        ],
+        "table_footnote": [
+            "表4SVM分类方法在各个数据集上的正确率"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Linux1_5</td><td>Question</td><td>WebKB</td><td>Reuters</td></tr><tr><td>IMP</td><td>0.692</td><td>0.835</td><td>0.572</td><td>0.802</td></tr><tr><td>CGM</td><td>0.754</td><td>0.842</td><td>0.616</td><td>0.704</td></tr><tr><td>DSPM-MTCFDR</td><td>0.866</td><td>0.865</td><td>0.674</td><td>0.845</td></tr><tr><td>SP-DSPFDR</td><td>0.892</td><td>0.885</td><td>0.687</td><td>0.870</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/edd6f582bd2e7ef79b6666700d598b43113f84cd2dc7f828016ce543fca91fbd.jpg",
+        "table_caption": [
+            "表3NB分类方法在各个数据集上的正确率"
+        ],
+        "table_footnote": [
+            "表5MLP分类方法在各个数据集上的正确率"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Linux1_5</td><td>Question</td><td>WebKB</td><td>Reuters</td></tr><tr><td>IMP</td><td>0.784</td><td>0.846</td><td>0.674</td><td>0.905</td></tr><tr><td>CGM</td><td>0.834</td><td>0.852</td><td>0.605</td><td>0.724</td></tr><tr><td>DSPM-MTCFDR</td><td>0.862</td><td>0.872</td><td>0.722</td><td>0.926</td></tr><tr><td>SP-DSPFDR</td><td>0.896</td><td>0.887</td><td>0.738</td><td>0.942</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/37ee878d7b5d68db818b1886099dace47bec97bcab86e0dfb38b0b69711ce2bf.jpg",
+        "table_caption": [
+            "Tab.4The classification accuracy on each data set returned from SVM method ",
+            "Tab.5The classification accuracy on each data set returned from MLP methor "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Linux1_5</td><td>Question</td><td>WebKB</td><td>Reuters</td></tr><tr><td>IMP</td><td>0.792</td><td>0.862</td><td>0.685</td><td>0.902</td></tr><tr><td>CGM</td><td>0.838</td><td>0.876</td><td>0.624</td><td>0.746</td></tr><tr><td>DSPM-MTCFDR</td><td>0.860</td><td>0.895</td><td>0.732</td><td>0.925</td></tr><tr><td>SP-DSPFDR</td><td>0.892</td><td>0.913</td><td>0.751</td><td>0.944</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从三种分类方法实验结果中可以得知：一方面，由SP-DSPFDR和DSPM-MTCFDR算法结果构成特征的分类正确率明显高于由IMG和GCM算法结果构成特征的分类正确率，这说明了多重假设检验的确过滤掉了许多假阳性差异序列模式。以Question数据集为例，IMG和GCM算法挖掘结果存在<where,the> 模式，而 SP-DSPFDR 和DSPM-MTCFDR 算法挖掘结果中只有<where>模式。Question 数据集中大量序列都存在定冠词the，且定冠词the没有实义，因此用其作为特征很可能会导致错误分类。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另一方面，SP-DSPFDR 算法结果的正确率高于DSPM-MTCFDR算法结果的正确率，这体现了置换检验保留的更多的差异序列模式很可能是真差异序列模式。以Question数据集为例，SP-DSPFDR 算法结果中存在<what>和 $<$ what,in>模式，而DSPM-MTCFDR 算法中只存在<what>模式，观察最终的错误分类结果发现，DSPM-MTCFDR将正例类别中6条包含<what,in>模式的序列分到负例类别中，而SP-DSPFDR能够全部分对，这说明<what, $\\mathrm { i n } >$ 模式应该是真差异序列模式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，GCM在Webkb 数据集和Reuters 数据集中低准确率现象说明假阳性模式对后续任务的严重误导性。同时，IMG和GCM算法对不同的分类方法较为敏感，因为IMG和GCM算法会得到更多的干扰特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了提升差异序列模式挖掘任务的准确率，提出了一个基于标准置换检验的算法SP-DSP。真实数据集上的实验结果证明了运用多重假设检验能够提升差异序列模式挖掘算法结果的可信度。同时，相较于基于直接计算的多重假设检验方法DSPM-MTC，SP-DSP算法能够尽可能多的保留真差异序列模式。由于标准置换检验的随机性，SP-DSP算法返回的统计显著的差异序列模式数量会有波动，本实验采用运行十次算法得到结果的平均值作为最终结果，后续工作将研究边界模式的舍取问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]He Zengyou, Zhang Simeng,Wu Jun.Significance-based discriminative sequential pattern mining [J]. Expert Systems with Applications,2019, 122 (1): 54-64.   \n[2]Ghosh S,Li Jinyan,Cao Longbin, et al. Septic shock prediction for ICU patients via coupled HMM walking on sequential contrast paterns [J]. Journal of Biomedical Informatics,2017,66(1):19-31.   \n[3] 高增，郭均鹏．考虑价格的跨种类模糊序列模式挖掘算法[J].计算 机应用研究,2018,35(1):39-42,47.(Gao Zeng,Guo Junpeng.Crosscategory fuzzy sequential pattern mining algorithm with consideration of price [J].Application Research of Computers,2018,35 (1): 39-42,47.)   \n[4] 张光兰，杨秋辉，程雪梅，等．序列模式挖掘在通信网络告警预测中 的应[J].计算机科学,2018,45 (S2):535-538,563.(Zhang Guanglan, Yang Qiuhui,Cheng Xuemei,et al.Application of sequence pattern mining in communication network alarm prediction [J]. Computer Science,2018,45 (S2): 535-538,563.)   \n[5]Liu Lu,Duan Lei, Yang Hao,et al.Mining distinguishing customer focus sets for online shopping decision support [Cl// Proc of the 12th International Conference on Advanced Data Mining and Applications. Switzerland: Springer press,2016:50-64.   \n[6] Zheng Zhigang,Wei Wei,Liu Chunming,et al.An effective contrast sequential pattern mining approach to taxpayer behavior analysis [J]. World Wide Web,2016,19 (4): 633-651.   \n[7]He Zengyou, Gu Feiyang,Zhao Can,et al.Conditional discriminative patern mining: concepts and algorithms [J].Information Sciences,2017, 375 (1): 1-15.   \n[8]Ji Xiaonan,Bailey J,Dong Guozhu.Mining minimal distinguishing subsequence patterns with gap constraints [J]. Knowledge and Information Systems,2007,11 (3): 259-286.   \n[9]Bland J,Altman D.Multiple significance tests: The bonferroni method [J].British Medical Journal,1995,310 (6):170-176.   \n[10] Benjamini Y, Krieger A, Yekutieli D.Adaptive linear step-up procedures that control the false discovery rate[J].Biometrika,2006,93 (3): 491- 507.   \n[11] Webb G.Discovering significant paterns [J]. Machine Learning,2007, 68 (1): 1-33.   \n[12] Liu Guimei, Zhang Haojun,Wong L.Controlling false positives in association rule mining [J].Proceedings of the VLDB Endowment,2011, 5 (2): 145-156.   \n[13] Leonardo P, Fabio V. Eficient mining of the most significant patterns with permutation testing [C]// Proc of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. London: ACM press,2018: 2070-2079.   \n[14]吴军，段琼，张琳，等．磷酸化基序精确置换检验 p-value 的计算方 法[J]．中国科学：信息科学,2017,47(10):84-98.(Wu Jun,Duan Qiong,Zhang Lin,et al.Computing exact permutation p-values for phosphorylation motifs [J].Scientia Sinica Informationis,2017,47(10): 1334-1348.)   \n[15] Komiyama J,Ishihata M,Arimura H,et al. Statistical emerging pattern mining with multiple testing correction [C]// Proc of the 23th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.Halifax:ACM press,2017: 897-906.   \n[16] Srikant R,Agrawal R.Mining sequential patterns:generalizations and performance improvements[C]// Proc of the 6th International Conference on Extending Database Technology.Heidelberg:Springer press,1996:1-17.   \n[17] Liu Xiaoqing,Wu Jun,Gu Feiyang,et al. Discriminative pattern mining and its applications in bioinformatics [J].Briefings in Bioinformatics, 2015,16 (5):884-900.   \n[18] Dua D,Graff C.UCI machine learning repository [EB/OL].(2007) [2018-09-24]. http://rchive.ics.uci.edu/ml.   \n[19] Kim Y.Convolutional Neural Networks for Sentence Classification [C]// Proc of the 18th Conference on Empirical Methods in Natural Language Processing.Doha:ACL press,2015:1745-1751.   \n[20] Craven M,Dipasquo D,Freitag D,et al.Learning to construct knowledge bases from the world wide web[J].Artificial Intelligence,20oo,118 (1): 69-113.   \n[21] Cardoso C.Improving methods for single-label text categorization [D] Lisboa: Instituto Superior Técnico,2007.   \n[22] Fradkin D,Morchen F.Mining sequential patterns for classification [J]. Knowledge and Information Systems,2015,45 (3):731-749. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

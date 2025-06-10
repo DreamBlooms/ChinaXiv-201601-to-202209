@@ -1,0 +1,495 @@
+[
+    {
+        "type": "text",
+        "text": "Enhanced plasticity in Zr-Cu-Ag-Al-Be bulk metallic glasses ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Q.P. Cao a\\*, J.B. Jin a, Y. Maa, X.Z. Cao b, B.Y. Wangb, S.X. Quc, X.D. Wanga, D.X. Zhang d, J.Z. Jiang a\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a International Center for New-Structured Materials (ICNSM), Zhejiang Univrsity and Laboratory of New-Structured Materials, Department of Materials Science and Engineering, Zhejiang University, Hangzhou 310027, P.R. China b Key Laboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049,P.R. China Institute of Applied Mechanics, Zhejiang University, Hangzhou, 310027, P.R. China d State Key Laboratory of Modern Optical Instrumentation, Zhejiang University Hangzhou, 310027,P.R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* Corresponding author. Tel.: +86-571-8795-2107; fax: +86-571-8795-1528. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail address: caoqp@zju.edu.cn (Q.P. Cao); jiangjz $@$ zju.edu.cn (J.Z. Jiang) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Bulk metallic glass, Plasticity， Poisson's ratio， Free volume， Sheartransformation zone",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dependences of bending plasticity on compositional adjustment and structural relaxation in Zr-Cu-Ag-Al-Be bulk metallic glasses (BMGs) were systematically studied. We reveal that with the increase in the $Z \\mathbf { r }$ content, the plasticity is enhanced at the expense of glass forming ability and the shear transformation zone (STZ) volume becomes larger， while structural relaxation results in the embrittement accompanied with the further enlarged STZ volume. Average positron lifetime, representing average free volume,drops with the increase in the Zr content and structural relaxation. The results indicate that neither STZ volume nor average positron lifetime can solely describe the plastic deformability of BMGs. Analyzing positron annihilation lifetime spectra, a bimodal distribution of open volume size is observed. The smaller open volume shrinks with increased concentration and the larger open volume expands with decreased concentration due to the increase in the Zr content, while structural relaxation only reduces the size of smaller open volume. The effects of open volume size distribution on the STZ activation and shear band propagation have been discussed. It has been demonstrated that combining the STZ volume with open volume size distribution can explain the plasticity evolution with the composition and structural relaxation, which sheds light on understanding the deformation mechanism of BMGs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As a class of advanced materials, bulk metallic glasses (BMGs) are promising for future structural, chemical and magnetic applications due to high strength, excellent corrosion-resistance and good soft-magnetic property， as compared with their crystalline counterparts [1-3]. A number of BMGs with the critical diameters above $2 0 ~ \\mathrm { m m }$ have been reported in various alloy systems [4]. However, strain softening often causes catastrophic failure through unhindered shear banding， significantly limiting the actual application in structural materials [5-7]. Therefore， how to overcome the brittleness has become one of the most pressing issues in the community, and great efforts have recently been devoted to enhance the plasticity of BMGs. For instance, heterogeneous microstructures have been designed in virtue of the interaction between glassy matrix and second phase, e.g., crystalline particles [8] or amorphous phase [9], to restrict the propagation of highly localized primary shear bands,and tensile ductility of the composites can be achieved. By cold rolling[10,11] and surface shot-peening [12], the plasticity of deformed BMGs was also improved in subsequent mechanical tests, which was ascribed to the introduction of pre-existing shear bands and compressive residual stresses. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the monolithic BMGs, the plasticity normally correlates with the value of Poisson's ratio $\\nu$ , i.e. larger $\\nu$ , allowing shear slip to occur readily before the structure collapse caused by normal stresses, results in better plasticity [13]. Lewandowski et al. [14] analyzed the plasticity and elastic constants of various BMGs,and found a critical value of $\\nu \\ ( 0 . 3 1 { \\sim } 0 . 3 2 )$ ， at which the brittle-to-ductile transition occurs. With the increase in $\\nu$ above this critical value,BMGs become more ductile with the enhanced plasticity. In addition to $\\nu$ , the plasticity is also correlated with free volume. Chen et al. [15] found that faster cooling and minor Ti adding can enhance the compressive plasticity of Cu-Zr-Al BMG without obvious change in $\\nu$ ， and attributed the improved deformability to higher free volume induced by high cooling rate and minor alloying. Such a free-volume effect on plasticity was proposed by Jiang et al. [16] to be caused by (i) introducing more sites favorable for the initiation or nucleation of new shear bands; (ii) easing the stress concentration in the areas by enhancing the atomic mobility and rearrangement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tuning alloy composition has been demonstrated to be an effective way to significantly meliorate the plasticity of monolithic BMGs through adjusting $\\nu$ and the free-volume content. However, what are the intrinsic factors controling the plasticity of BMGs is still unclear. When the applied stress exceeds the yield strength, the local rearrangement of atoms, which can accommodate shear plastic strain, takes place and eventually results in the formation of shear bands. Such a cooperative rearrangement of atomic clusters overcoming the saddle point of an energy barrier in potential energy landscape was termed as shear transformation zone (STZ) [5,17]. Recently, Johnson et al. [18] proposed a cooperative shearing model (CSM) to interpret the plastic deformation of MGs,and the obtained STZ size is of importance for understanding the microscopic deformation mechanisms and macroscopic mechanical property. But the correlation between the STZ size and the plasticity in BMGs is still under debate. For example, Pan et al. [19] measured the rate dependence of hardness through rate-jump nanoindentation testing to calculate the strain rate sensitivity, and characterized the STZ size based on the CSM theory. By comparing the STZ sizes of various BMGs, a good correlation between the STZ size and $\\nu$ exists, i.e. bigger STZ size corresponds to high $\\nu$ (better plasticity), and vice versa. However, Liu et al. [20] measured the STZ sizes of BMGs by using dynamic mechanical analysis, and found that the value of $\\nu$ drops gradually with the increase in STZ size. Therefore，the controversial results on the dependence of STZ size on $\\nu$ in BMGs suggest that the details of the correlation between the plasticity and STZ size need to be further elucidated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recently, the composition of $\\mathrm { Z r _ { 4 6 } C u _ { 3 0 . 1 4 } A g _ { 8 . 3 6 } A l _ { 8 } B e _ { 7 . 5 } \\ ( a t . ^ { \\circ } }$ )，which can be cast into glassy rod with $7 3 ~ \\mathrm { m m }$ in diameter by conventional copper-mould casting,was successfully developed, but this BMG still suffers from low plasticity [4]. The excellent glass forming ability (GFA) of $\\mathrm { Z r _ { 4 6 } C u _ { 3 0 . 1 4 } A g _ { 8 . 3 6 } A l _ { 8 } B e _ { 7 . 5 } }$ provides an enough wide window for the compositional optimization with good plasticity and high GFA simultaneously. In the present work, systematical composition tuning in the $Z \\mathbf { r }$ -CuAg-Al-Be alloy system around $\\mathrm { Z r _ { 4 6 } C u _ { 3 0 . 1 4 } A g _ { 8 . 3 6 } A l _ { 8 } B e _ { 7 . 5 } }$ was performed, and thermal, mechanical and density parameters of these newly developed Zr-Cu-Ag-Al-Be BMGs were presented. In order to further understand the microscopic mechanisms of various plastic behaviors, the STZ sizes of BMGs were measured by studying either the rate dependence of hardness during nanoindentation creep or the statistical distribution of hardness. The correlation between the STZ size and the plasticity of BMGs with different compositions or structural states was carefully discussed. Meanwhile, the key role of free volume on the plasticity of BMGs was also pointed out. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The compositions of the alloys were chosen in the following way. As the pseudoternary composition map shown in Fig. 1, $Z \\mathrm { r } _ { 4 6 } \\mathrm { C u } _ { 3 0 . 1 4 } \\mathrm { A g } _ { 8 . 3 6 } \\mathrm { A l } _ { 8 } \\mathrm { B e } _ { 7 . 5 }$ (hereafter referred to as $Z 0$ ） with excellent GFA were selected as the starting point, and multiple lines according to certain chemical formula were drawn. The formula can be expressed as $[ Z 0 ] _ { ( 1 0 0 - x ) } ( Z \\mathrm { r } _ { 1 0 0 - y } \\mathrm { M } _ { y } ) _ { x }$ 1 $\\mathrm { { M } = \\mathrm { { C u } } }$ ，Al), $y$ determines the position of the end point of the line, $x$ indicates the different points along the line.The pre-alloyed ingots were prepared by arc-melting high purity $( 9 9 . 9 \\% )$ ） Zr, Cu, Ag and Al with commercial $\\mathrm { C u } _ { 5 5 . 3 } \\mathrm { B e } _ { 4 4 . 7 }$ alloy several times in a Ti-gettered purified argon atmosphere. Plates with the thickness of $1 . 5 \\mathrm { m m }$ and the width of $1 0 ~ \\mathrm { m m }$ and rods with the diameter of $3 \\mathrm { m m }$ were fabricated by suction-casting into a water-cooled copper mold. Transverse cross section of the rod and top surface of the plate were examined on a Rigaku X-ray diffractometer (XRD) with Cu Ka radiation. Structural analyses of newly-developed Zr-Cu-Ag-Al-Be BMGs were also conducted by using synchrotron radiation $\\mathbf { X }$ -ray diffraction (SR-XRD) at Shanghai Synchrotron Radiation Facility (SSRF). The beam size was $0 . 4 { \\times } 0 . 4 ~ \\mathrm { m m } ^ { 2 }$ and the wavelength used was $0 . 1 7 8 3 2 4 \\mathrm { ~ \\AA ~ }$ ，High-resolution XRD patterns were recorded on an MAR 345 image plate with $8 0 0 { \\times } 1 2 0 0 ~ \\mathrm { \\mu m } ^ { 2 }$ pixel size. Scattering intensity $I ( q )$ was extracted by using the software package FIT2D [21]. Then, structure factor $S ( q )$ ， reduced radial distribution function $G ( r )$ and pair correlation function $g ( r )$ were obtained by PDFgetX2 according to the following equations [22]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { G ( r ) = 4 \\pi r [ ( \\rho ( r ) - \\rho _ { 0 } ) ] = \\frac { 2 } { \\pi } \\int _ { 0 } ^ { \\infty } q \\cdot I ( q ) \\cdot \\sin ( q r ) d q } \\\\ & { g ( r ) = \\frac { \\rho ( r ) } { \\rho _ { 0 } } = 1 + \\frac { G ( r ) } { 4 \\pi r \\rho _ { 0 } } } \\\\ & { S ( q ) = 1 + \\frac { 4 \\pi \\rho _ { 0 } } { q } \\int _ { 0 } ^ { \\infty } r [ g ( r ) - 1 ] \\cdot \\sin ( q r ) d r } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho ( r )$ is the radial density function, $\\rho _ { 0 }$ the average atomic number density, $q = 4 \\pi \\sin ( \\theta ) / \\lambda$ . Thermal analyses of the plate specimens were performed in differential scanning calorimeters (DSC,Netzsch 404C and Perkin-Elmer Pyris Diamond) under a flow of purified argon at a heating rate of $2 0 \\mathrm { K } \\operatorname* { m i n } ^ { - 1 }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Three-point bending specimens with dimension $2 0 { \\times } 4 { \\times } 0 . 8 ~ \\mathrm { m m } ^ { 3 }$ were cut from the as-cast plates, and polished by 1Oo0-grit SiC paper and diamond polishing solution. Bending tests were performed on a universal testing machine (SANS CMT5205) at a displacement rate of $1 . 2 \\ \\mathrm { m m \\ m i n ^ { - 1 } }$ with the span of $1 0 ~ \\mathrm { m m }$ . During testing, the loaddeflection curves were recorded. For each composition， four bending tests were adopted to evaluate the plastic deformability. The tensile surface of the bent plate after fracture was observed by scanning electron microscope (SEM, HITACHI TM1000). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to structurally relax the as-cast specimen and reduce the free-volume content, annealing treatments at temperatures below the glass transition temperature $( T _ { g } )$ for 1 hour were conducted. After annealing, the specimens were water-quenched to remain in the glassy state. Positron annihilation lifetime spectrum (PALS) measurements of the as-cast and relaxed specimens were performed using a fast-slow coincidence ORTEC system with a time resolution of 190 ps (full width at halfmaximum) in Institute of High Energy Physics, Chinese Academy of Sciences. Two identical pieces of $9 { \\times } 9 { \\times } 1 ~ \\mathrm { m m } ^ { 3 }$ were placed on either side of the $^ { 2 2 } \\mathrm { N a }$ positron source, and then this sample-source-sample sandwich was placed between the two detectors to acquire the lifetime spectra. The positron annihilation spectra were de-convoluted using the LT-9 software to set apart the physical meaning information, i.e., positron annihilation lifetime and intensity. The source correlations were included in the lifetime analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The acoustic longitudinal velocity $( V _ { l } )$ and shear velocity $( V _ { s } )$ of the cylindrical specimens ( $3 ~ \\mathrm { m m }$ in diameter and $6 ~ \\mathrm { m m }$ in height) were measured by an OLYMPUS 5072PR model ultrasonic system with a measuring sensitivity of O.5 ns. The carrying frequency of longitudinal wave and shear wave was $1 5 ~ \\mathrm { \\ M H z }$ and $1 0 ~ \\mathrm { \\ M H z }$ respectively. The Young's modulus $E$ ，bulk modulus $K$ ，shear modulus $G$ ，and Poisson's ratio $\\nu$ were derived from the acoustic velocities and the density data. Based on Archimedean principle, density measurements of the BMGs and corresponding crystalline counterparts were performed with a Mettler Toledo XS105 microbalance having a sensitivity of $0 . 0 1 ~ \\mathrm { m g }$ . For the determination of the crystalline density, the as-cast specimens of different compositions with the diameter of $3 \\mathrm { m m }$ and the length of $2 0 ~ \\mathrm { m m }$ were sealed in an evacuated quartz capsule and annealed at $1 0 0 0 ~ \\mathrm { K }$ for 1 hour, and then cooled in the furnace to make sure that the as-treated specimens were completely crystallized ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nanoindentation creep tests were carried out at room temperature on an Agilent Nano Indenter G2OO fitted with a spherical indenter tip with the radius of $1 1 . 1 ~ { \\mu \\mathrm { m } }$ which was calibrated by measuring the elastic modulus of fused silica. Tests were conducted in load-control mode with the loading and unloading rates of $5 \\mathrm { m N s ^ { - 1 } }$ ,and maximum load of $2 0 0 ~ \\mathrm { m N }$ was adopted. The holding time at maximum load was set to be $1 0 ~ \\mathrm { s }$ ，For each composition, more than 40o indentations spaced $5 0 ~ { \\mu \\mathrm { m } }$ apart on the surface were conducted. In nanoindentation experiments, thermal drift rate was set to be $0 . 0 5 ~ \\mathrm { n m ~ s } ^ { - 1 }$ to keep the reliability of the results, and the thermal drift correction was performed at about $10 \\%$ of maximum load during unloading. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Composition tuning towards good plasticity and its correlation with Poisson's ratio ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Along the lines starting from ZO in the pseudo-ternary composition map shown in Fig.1, dozens of compositions were chosen to examine their GFA and mechanical properties. Fig. 2a shows the XRD patterns of the as-cast $( \\mathrm { Z 0 } ) _ { ( 1 0 0 - x ) } ( \\mathrm { Z r _ { 1 0 0 - y } M _ { y } } ) _ { x } \\ : ( \\mathrm { M = C u } _ { \\mathrm { \\Omega } }$ Al) plate specimens with the thickness of $1 . 5 \\mathrm { m m }$ .With the increase in the fraction $( x )$ of $\\mathrm { Z r } _ { 1 0 0 - y } \\mathrm { M } _ { y }$ ，the GFA gradually decreases,manifested in the detected diffraction peaks from crystalline phases. Since the crystalline/amorphous composites was not the focus of this study，only seven compositions without crystals in the plate specimens were tested by DSC,as shown in Fig. 2b. For the sake of evaluating the GFA of these BMGs,the parameters of $T _ { r g } ~ ( = T _ { g } / T _ { l } )$ [23] and γ [24] defined as $T _ { x } / ( T _ { g } \\mathrm { + } T _ { l } )$ ， which are regarded as indicators of GFA,were calculated and listed in Table 1 by using the characteristic temperatures measured by DSC,where $T _ { x }$ is the onset temperature of crystallization and $T _ { l }$ is the liquidus temperature. It is clear that the values of $T _ { r g }$ and y gradually reduce with the increase in the fraction of $\\mathrm { Z r } _ { 1 0 0 - y } \\mathrm { M } _ { y } ,$ indicating the decreased GFA. For instance, the critical diameter for glass formation in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ was found to be $7 \\mathrm { m m }$ (XRD result not shown here), much lower than $7 3 \\mathrm { m m }$ for $Z 0$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mechanical properties of the newly developed Zr-Cu-Ag-Al-Be BMGs were investigated through three-point bending tests. The plastic deflection value was adopted to characterize the deformability. Fig. 3a shows the flexural strength as a function of deflection for the as-cast specimens with different compositions. It is evident that $Z 0$ does not exhibit any plastic strain, failing in a fully brittle way during bending. With increasing the fraction of $Z \\mathbf { r } _ { 1 0 0 - y } \\mathbf { M } _ { y } ,$ ，the plasticity is remarkably improved, especially for $( Z 0 ) _ { 6 5 } ( Z \\mathrm { r } _ { 6 7 } \\mathrm { C u } _ { 3 3 } ) _ { 3 5 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ which have the largest plastic deflection value about $1 . 2 { \\sim } 1 . 3 ~ \\mathrm { m m }$ . Fig. 3b-e depicts the SEM images of the as-cast Z0, $( Z 0 ) _ { 8 5 } ( Z \\mathrm { r } ) _ { 1 5 }$ ， $( Z 0 ) _ { 6 5 } ( Z \\mathrm { r } _ { 6 7 } \\mathrm { C u } _ { 3 3 } ) _ { 3 5 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens after fracture in bending, respectively. Only a few shear bands appeared on the tensile surface for the ZO specimen，while slightly more shear bands were observed in $( Z 0 ) _ { 8 5 } ( Z \\mathrm { r } ) _ { 1 5 }$ . Much higher density of shear bands can be clearly detected in the $( Z 0 ) _ { 6 5 } ( Z \\mathrm { r } _ { 6 7 } \\mathrm { C u } _ { 3 3 } ) _ { 3 5 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens, as compared with those in $Z 0$ （204 and $( Z 0 ) _ { 8 5 } ( Z \\mathrm { r } ) _ { 1 5 }$ ， indicating the largely enhanced plasticity. Recently, Schroers et al. [13] developed a $\\mathrm { P t } _ { 5 7 . 5 } \\mathrm { C u } _ { 1 4 . 7 } \\mathrm { N i } _ { 5 . 3 } \\mathrm { P } _ { 2 2 . 5 }$ BMG with pronounced global plasticity under both bending and unconfined compression conditions, and attributed the formation of multiple shear bands to a high $\\nu$ of 0.42,which causes the tip of a shear band to extend rather than initiate a crack. The possibility of high v resulting in the improved plasticity was also investigated in the newly developed Zr-Cu-Ag-Al-Be alloy system. Ultrasonic measurements were carried out to obtain acoustic velocities for the as-cast specimens,and the calculated elastic constants were listed in Table 1.With the increase in the fraction of $\\mathrm { Z r } _ { 1 0 0 - y } \\mathrm { M } _ { y } ,$ ，the value of $\\nu$ gradually augments. Among the compositions investigated, $( Z 0 ) _ { 6 5 } ( Z \\mathrm { r } _ { 6 7 } \\mathrm { C u } _ { 3 3 } ) _ { 3 5 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ have the highest $\\nu$ of 0.372 and 0.373， indicating that these two compositions may have better plasticity，which is indeed consistent with the experimental results of three-point bending tests. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Structural relaxation effect on plasticity ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is well known that BMGs quenched rapidly from high-temperature melts exhibit structural characteristics of relatively low densities and excess free volume. Spaepen [25] defines the free volume as the atomic volume in excess of the ideal glassy structure described by the densely random packing model. It is generally assumed that the amount of free volume affects the plastic flow,and more free volume leads to multiple shear bands and better plasticity [26-28]. For instance, Raghavan et al. [29] observed enhanced plasticity in a Zr-based BMG by increasing the free-volume content by ion irradiation, while Murali et al. [3O] revealed that a $Z \\mathrm { r }$ -based BMG became britle with reduced free volume when it was subjected to sub- $T _ { g }$ annealing. Such a relative change in free volume can be reflected in the enthalpy variation of structural relaxation, which has already been proven in previous studies [31,32]. Fig. 4a shows the DSC curves of $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens after annealing at 490, 555 and $6 2 0 ~ \\mathrm { K }$ below $T _ { g }$ for 1 hour,and the inset is the magnified thermogram describing structural relaxation. The data of the as-cast specimen was also shown for reference. The as-cast specimen has the largest exothermic enthalpy, suggesting the existence of a fairly high amount of free volume. With the increase in annealing temperature, the value of exothermic enthalpy gradually decreases, implying that the free-volume content drops. In particular, the relaxation peak in the DSC curve of the $6 2 0 ~ \\mathrm { K } \\cdot$ annealed specimen becomes invisible. At the same time, the crystallization enthalpies remain unchanged, and no crystallization is induced by these annealing treatments. The decrease in free volume induced by structural relaxation should also be reflected in the relative volume shrinkage [5]. It is found that the density gradually increases with the annealing temperature，as shown in Table 2, indicating that structural relaxation occurs more sufficiently, which is exactly consistent with the relaxation enthalpy change. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Three-point bending tests were performed to investigate the effect of structural relaxation on plasticity. The plastic deflection values decrease obviously with the annealing temperature as shown in Fig. 4b, and the specimen becomes totally brittle without any visible plastic deformation after annealing at $6 2 0 ~ \\mathrm { K }$ , in accordance with the reduced free volume in the annealed specimens. The ultrasonic measurements were further carried out to determine the elastic constants of relaxed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens,and the values were listed in Table 2. With the increase of annealing temperature, $\\nu$ drops from O.373 for the as-cast state to O.362 for the 620 K-annealed specimen, to be also consistent with the deteriorated plasticity. Thus, it can be concluded that structural relaxation， which reduces the free-volume content and $\\nu$ , results in worse plastic performance in three-point bending test ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 STZ size determined by nanoindentation creep and statistical distribution analysis ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the microscopic mechanisms of various plastic behaviors in newly developed $Z \\mathrm { r }$ -based BMGs and make a thorough inquiry into the correlation between STZ size and plasticity, three specimens of $\\mathrm { Z 0 , ( Z 0 ) _ { 7 0 } ( Z r _ { 7 5 } C u _ { 2 5 } ) _ { 3 0 } }$ and $6 2 0 \\mathrm { K } \\cdot$ （204号 annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ with different plasticity were selected for the nanoindentation tests,and typical indentation load-displacement $( P - h )$ curves were shown in Fig. 5. The loading and unloading rates are $5 \\mathrm { m N s ^ { - 1 } }$ , and maximum load is $2 0 0 \\ \\mathrm { m N }$ with the holding time of $1 0 \\mathrm { ~ s ~ }$ 、 It is clear that for the as-cast ZO and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ ,contact stiffness deduced from the slope of initial unloading data is similar， while smaller displacement is reached for ZO in comparison with $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ under the same indentation load, indicating that ZO has higher hardness and Young's modulus than $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ . Heat treatment at $6 2 0 ~ \\mathrm { K }$ does not affect the indentation displacement in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ obviously, but decreases the contact stiffness, suggesting that the contact depth is reduced and the hardness is enhanced by annealing. It should be noted that as-cast ZO and $6 2 0 \\mathrm { ~ K ~ }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ without bending plasticity had obvious pop-in events,while no evident flow serration was observed in the as-cast $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ with larger plasticity, as shown in Fig. 5. Recently, Schuh et al. [33] found that the decreased degree of flow serration in the nanoindentation load-displacement curves acquired on a Pd-Ni-P MG was induced by high loading rates or low deformation temperatures, consistent with the apparently ductile deformation with more shear bands of smaller shear offset at high rates or low temperatures under uniaxial compression tests. Their results indicated that the decrease in flow serration was associated with the enhanced plasticity，which is further demonstrated by the experimental results of newly developed $Z \\mathbf { r }$ -Cu-Ag-Al-Be BMGs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Recently, Pan et al. [19] characterized the STZs of BMGs by measuring the strain rate sensitivity of hardness through rate-jump method based on the Johnson-Sawmer CSM model, and the STZ volume can be expressed by $\\Omega = k T / C ^ { \\prime } m H$ ,where $k$ is the Boltzman constant, $T$ is the temperature, $m$ is the strain rate sensitivity, $H$ is the hardness, C'=2 Gov²（ $\\begin{array} { r } { C ^ { ' } = \\frac { 2 R \\xi } { \\sqrt { 3 } } \\frac { G _ { 0 } \\gamma _ { C } ^ { 2 } } { \\tau _ { C } } \\Big ( 1 - \\frac { \\tau _ { C T } } { \\tau _ { C } } \\Big ) ^ { 1 / 2 } } \\end{array}$ ,R≈0.25,m≈3, $\\gamma _ { C } \\approx 0 . 0 2 7$ ， $G _ { 0 }$ is the shear modulus at $0 \\mathrm { K } , \\tau _ { C }$ and $\\boldsymbol { \\tau } _ { C T }$ are the threshold shear resistance at $0 \\mathrm { ~ K ~ }$ and temperature $\\begin{array} { r } { T , \\frac { \\tau _ { C } } { G _ { 0 } } \\approx 0 . 0 3 6 , \\frac { \\tau _ { C T } } { \\tau _ { C } } = \\left[ 1 - 0 . 4 4 4 \\left( \\frac { T } { T _ { g } } \\right) ^ { 2 / 3 } \\right] . } \\end{array}$ The strain rate sensitivity m can also be deduced from the creep curve of BMGs here by measuring the dependence of instantaneoushesshetrate5], $\\begin{array} { r } { m = \\frac { \\partial \\ln \\tau _ { C T } } { \\partial \\ln \\dot { \\gamma } } = \\frac { \\partial \\ln \\sigma } { \\partial \\ln \\dot { \\varepsilon } } = \\frac { \\partial \\ln H } { \\partial \\ln \\dot { \\varepsilon } } . } \\end{array}$ = oine=oin,where γ is the inelastic shear strain rate, $\\dot { \\varepsilon }$ is the strain rate, $\\sigma$ is the critical yield stress. Fig. 6a shows the representative displacement-time $( h - t )$ profiles for Z0, $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ （204号 and $6 2 0 ~ \\mathrm { K }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens during creep at the maximum load of $2 0 0 ~ \\mathrm { m N }$ , and the fitting curves are described by an empirical law of $h ( t ) = a t ^ { b } +$ $k t$ ，where $a , b$ and $k$ are fitting parameters [36]. It is evident that the empirical law can fit the experimental creep data wel with high correlation coefficient $R ^ { 2 } > 0 . 9 9$ for all the tests. In comparison with the as-cast and $6 2 0 ~ \\mathrm { K }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ （204号 specimens, the as-cast $Z 0$ possesses the smaller creep displacement, which agrees well with the variation in microhardness listed in Tables 1 and 2. The strain rate of a $\\begin{array} { r } { \\dot { \\varepsilon } = \\frac { 1 } { \\sqrt { A } } \\frac { \\mathrm { d } \\sqrt { A } } { \\mathrm { d } t } \\left[ 3 7 , 3 8 \\right] } \\end{array}$ $A$ is the contact area. The hardness can be obtained by $H = P / A = P / \\pi a ^ { 2 }$ , where the contact radius $a = \\sqrt { 2 R h _ { c } - h _ { c } ^ { 2 } } \\approx \\sqrt { 2 R h _ { c } }$ as $h _ { c } \\ll R$ ，and $h _ { c } = h - C P / S$ isthe contact depth at $P$ with $C = 0 . 7 5$ for spherical indenter and $S$ the contact stiffness at $P$ ： The contact stiffness as a function of contact depth during spherical indentation can be expressed by $S = \\beta E _ { r } \\sqrt { A } \\approx \\beta E _ { r } \\sqrt { 2 \\pi R h _ { c } }$ with $\\beta = 1 . 1 2 9$ [39]. Since the displacement during creep is much smaller than that during loading prior to creep, the contact stiffness during creep can be roughly considered as a constant. Fig. 6b shows （20 $\\ln H$ as a function of $\\ln { \\dot { \\varepsilon } }$ during creep for Z0, $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ and $6 2 0 ~ \\mathrm { K }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens, respectively. From the slope of the curves in Fig. 6b, the value of strain rate sensitivity $m$ can be obtained. In crystalline materials, only the creep data in the steady-state stage was adopted, and people utilized the dependence of hardness on steady-state creep rate to calculate the strain rate sensitivity and described the creep deformation kinetics [40]. Following this empirical rule, only $\\varOmega$ （204号 calculated from the steady-state creep stage of BMGs was discussed. In Fig. 6a, the creep deformation becomes steady with almost constant creep rate in the time region of 6-10 s for each specimen. Therefore, the typical m calculated from the linear fitting of the steady-state creep stage in Fig. 6b is listed in Table 3, and the corresponding $\\varOmega$ （204 can be obtained according to $\\varOmega = k T / C ^ { \\prime } m H$ ， where the hardness at the end of creep process is used for $H$ due to its slight change during steady-stage creep. It is clear that the value of $m$ in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ decreases as compared with that in ZO due to minor alloying, and annealing treatment at 623 K further reduces $m$ of $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ . The calculated $\\varOmega$ rises from $5 . 5 1 \\ \\mathrm { n m } ^ { 3 }$ for $Z 0$ to $7 . 2 5 \\ \\mathrm { n m } ^ { 3 }$ for （204号 $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ ，and furtherincreasesto $9 . 0 0 \\ \\mathrm { ~ n m } ^ { 3 }$ in 620 K-annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ . Once the value of $\\varOmega$ is determined, the number of atoms involved in a STZ event can be subsequently assessed by the dense-packing hard-sphere model for MGs. The average atomic radius is statistically estimated as $\\begin{array} { r } { r = ( \\sum _ { \\mathrm { i } } ^ { \\mathrm { n } } A _ { i } r _ { i } ^ { 3 } ) ^ { 1 / 3 } } \\end{array}$ （20 [19], in which $A _ { i }$ and $r _ { i }$ are the atomic fraction and the atomic radius of each element, respectively. The variation in the representative number of atoms in STZs with minor alloying and annealing treatment is also listed in Table 3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Since more than 4Oo indentations on the surface were conducted for each composition, the distribution of the creep displacement and hardness indeed exists. Consequently, the value of $\\varOmega$ deduced from each nanoindentation test varies from each other, and the distribution of $\\varOmega$ for each specimen can be obtained as shown in Fig. 6c. The peak position gradually shifts from $5 . 5 0 \\mathrm { n m } ^ { 3 }$ for $Z 0$ to $7 . 5 0 \\mathrm { n m } ^ { 3 }$ and 8.70 $\\mathrm { n m } ^ { 3 }$ for the as-cast and $6 2 0 \\mathrm { ~ K ~ }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 } ,$ ，respectively，which is consistent with the data from the typical creep curves listed in Table 3. It is obvious that from the as-cast ZO to $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ ,the average value of $\\varOmega$ increases and is positively correlated with plasticity and $\\nu$ , according with the proposition of Pan et al. [19], i.e., the ductile glass has the large $\\varOmega$ . However, after annealing treatment at 620 K, $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ becomes brittle with a lower $\\nu$ ， but the value of $\\varOmega$ is further enlarged. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Recently, Schuh et al. [41] investigated the statistical distribution of rate-dependent pop-in events in the nanoindentation curves of SiC material, and associated the first pop-in with the onset of plastic deformation and the defect nucleation. In the framework of stress-assisted, thermally activated defect nucleation, they proposed a nucleation theory-based analysis for incipient plasticity during nanoindentation, and deduced the activation volume of defect nucleation events. Since the STZ event of MGs can also be considered as a stress-biased thermally activated process, Choi et al. [38] studied the cumulative distribution of the maximum shear stress at first pop-in $\\tau _ { m a x }$ by adopting the Schuh's method, and the value of $\\varOmega$ can be obtained. In spherical indentation, the maximum shear stress at the elastic-to-plastic transition, $\\tau _ { m a x } \\approx 0 . 4 5 P _ { m }$ , appears at a distance of half the contact radius below the center of the indenter [42], where the mean contact pressure $\\begin{array} { r } { P _ { m } = \\left( \\frac { 1 6 { { P E } _ { r } } ^ { 2 } } { 9 \\pi ^ { 3 } R ^ { 2 } } \\right) ^ { \\frac { 1 } { 3 } } } \\end{array}$ In the work of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Choi et al. [38], $\\tau _ { m a x }$ at the first pop-in was considered as the critical shear strength （204号 $( \\tau _ { y } )$ for the onset of plasticity in the indented materials. However, Packard and Schuh [43] recently pointed out that (i) high local stress at a local point in MGs cannot initiate a shear band, and shear banding occurs only when the yield strength is exceeded everywhere along a potential shear band path; (ii) previous analysis to extract shear yield stress from Hertzian contact theory overestimate the shear yield strength, and $\\tau _ { y } \\approx 0 . 0 7 P _ { m }$ . The scientific debate still remains over the exact relation between $\\tau _ { y }$ and $P _ { m }$ ，but $\\tau _ { y } \\approx H / 3 \\sqrt { 3 }$ [19] in MGs is generally accepted. In order to confirm the variation in $\\varOmega$ with minor alloying and annealing treatment mentioned above， we calculated $\\varOmega$ by analyzing the cumulative distribution of $\\tau _ { y }$ deduced from $H$ instead of $P _ { m }$ . For each composition, more than 40o nanoindentation tests were performed in order to obtain the statistical distribution of $\\tau _ { y }$ . In the spherical nanoindentiontheloadingrate $\\begin{array} { r } { \\dot { P } = \\frac { d P } { d t } = \\frac { d \\left( H \\pi a ^ { 2 } \\right) } { d t } = 2 H \\pi a \\frac { d a } { d t } = 2 \\frac { P } { a } \\frac { d a } { d t } } \\end{array}$ Zaat ，and ， eforeaetrtecap and is equal to $1 . 2 5 { \\times } 1 0 ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ . The loading-unloading curves were used to calculate hardness values with the histogram of the hardness distribution shown in Fig. 7a. The change of average hardness with composition and annealing treatment is consistent with the results of microhardness tested by the Vickers indenter. The corresponding cumulative distribution of $\\tau _ { y } \\approx H / 3 \\sqrt { 3 }$ for $Z 0$ ， $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ and $6 2 0 ~ \\mathrm { { K } \\mathrm { { - } } }$ （20 annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ was illustrated in Fig. 7b, respectively. Schuh et al. [41] suggested that the thermally-assisted and stress-biased yielding always exhibits a spread in the yield strength due to the fact that thermal noise sometimes favors yielding and sometimes works against it. On this basis, the cumulative probability of elastic-to-plastic transition can be described as a function of shear stress $f = 1 -$ $\\begin{array} { r } { e x p \\left[ - \\frac { k T N _ { 0 } } { V ^ { \\ast } \\dot { \\tau } } e x p \\left( \\frac { - \\varDelta F ^ { \\ast } } { k T } \\right) e x p \\left( \\frac { \\tau V ^ { \\ast } } { k T } \\right) \\right] } \\end{array}$ where $N _ { 0 }$ is the atempt fregyeney, $\\dot { \\tau }$ is the stres rate, $V ^ { * }$ and $\\varDelta F ^ { * }$ are the activation volume and energy of the STZ event. It can be rewriten as $\\begin{array} { r } { l n [ l n ( 1 - f ) ^ { - 1 } ] = \\left[ \\frac { \\varDelta F ^ { \\ast } } { k T } + l n \\left( \\frac { k T } { V ^ { \\ast } \\dot { \\tau } } \\right) \\right] + \\frac { V ^ { \\ast } \\tau } { k T } } \\end{array}$ and the value of $V ^ { * }$ can be obtained from the slope of $l n [ l n ( 1 - f ) ^ { - 1 } ]$ versus $\\tau _ { y }$ ， as shown in Fig. 7c. Only the data of $f$ ranging from $20 \\%$ to $80 \\%$ was adopted to ensure the availability of each linear fitting. Based on the CSM model， the STZ volume can be expressed by ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6RGγ(-V[19].ThevaluesofVandofvariousspecimsere listed in Table 3.It is clear that the variation tendency of $\\varOmega$ after minor alloying and annealing treatment is well consistent with that observed in the steady-state creep experiments. Meanwhile, as compared with $\\varOmega$ from the steady-state creep with lower strain rate $( 5 { \\times } 1 0 ^ { - 4 } { \\sim } 1 { \\times } 1 0 ^ { - 3 } \\ \\mathrm { s } ^ { - 1 } )$ , the value of $\\varOmega$ is slightly decreased due to the higher strain rate $( 1 . 2 5 { \\times } 1 0 ^ { - 2 } \\ \\mathrm { s } ^ { - 1 } )$ adopted in the cumulative distribution method. Such a dependence of $\\varOmega$ on the strain rate was already observed by Choi et al. [38],who investigated statistical distribution of the first pop-in stress in a Zr-based BMG at different loading rates and found that increasing the strain rate can obviously reduce $\\varOmega$ ，although some inconsistent results on the influence of strain rate on $\\varOmega$ were reported [44]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As for the effect of structural relaxation on the plasticity, there was almost no debate upon the deteriorated plasticity of the relaxed MG [28]，while some controversial results on the influence of structural relaxation on $\\varOmega$ existed. For example, Pan et al. [45] and Jiang et al. [16] found that $\\varOmega$ decreased with annealing, and the annealed MG specimen became britte. During structural relaxation, the freevolume content was decreased, indicating the possible sites available for STZ nucleation reduced. Meanwhile, since $\\varOmega$ decreased due to structural relaxation, more STZs were required to be activated to reach the percolation limit for shear banding, suggesting that the plasticity of relaxed specimen would deteriorate. Nevertheless, Choi et al. [46] revealed that annealing treatment augmented $\\varOmega$ since a more uniform structure might enable larger number of atoms to be involved in the cooperative shearing for a STZ event. Although $\\varOmega$ increased with annealing， the reduced nucleation sites for STZs due to the decreased free volume would eventually result in the britle fracture during deformation. Based on the results mentioned above, $\\varOmega$ may be not the only factor controlling the plasticity of MGs,and free volume providing the possible sites for STZ nucleation can also play an important role in affecting the plastic deformation behavior. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4 Packing efficiency from SR-XRD and free volume from PALS ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To further understand the enhanced plasticity through tuning composition and the reduced plasticity through annealing treatment from a structural aspect, SR-XRD experiments were performed. Fig. 8 shows the structural factors $S ( q )$ for ZO, $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 } .$ ， $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ and $6 2 0 \\mathrm { ~ K ~ }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ .With the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ , the first peak of $S ( q )$ shifts gradually towards a lower $q$ value, indicating an increase in average atomic distance due to the higher content of $Z \\mathbf { r }$ with the largest atomic radius among the constituent components, but the peak profile does not change significantly. And the difference in $S ( q )$ between the as-cast and 62O K-annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens is almost negligible. Considering the peak in the nearest atomic pair, reflecting the short-range order, the magnified curves of the first peak of $G ( r )$ are shown in Fig. 9a. Evidently，in comparison with $Z 0$ and $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ ,the first peak of $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ shifts to a higher $r$ value. Using the dense-packing hard-sphere model, the interatomic distances and concentration-weighted partial radial distribution values for Z0, $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ are indicated in Fig. 9b-d, and also listed in Table 4. It is clear that Zr-Zr, Zr-Cu and $Z \\mathbf { r }$ (Ag, Al) atomic pairs dominate the first peak.The relative proportion of the $Z \\mathrm { r } { - } Z \\mathrm { r }$ atomic pair with the largest bond length in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimen is obviously higher than those in other two compositions owing to its higher $Z \\mathrm { r }$ content, leading to the shift of the first peak of $G ( r )$ to a higher （204号 $r$ value. The coordination number (CN),a key parameter to evaluate the atomic packing efficiency, can be deduced by integrating $G ( r )$ curve over the range of the first peak. The calculated CN was 14.9,13.3, 13.2 for Z0, $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ , respectively. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Combining the average atomic distance with the value of CN, it can be intuitively understood: with the increase of $Z \\mathbf { r }$ content, packing efficiency drops. Such a drop in atomic packing density is induced by composition tuning, mainly due to the increase in the amount of $Z \\mathbf { r }$ with the largest atomic radius. Actually, it does not indicate for sure that the free-volume content increases with the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ . At the same time，the difference in atomic packing between the as-cast and $6 2 0 \\mathrm { ~ K ~ }$ -annealed $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimens is not obvious from the SR-XRD observation，but annealing-induced embritlement indeed occurs. Generally, structural relaxation reduces free volume in MG, suggesting that $S ( q )$ and $G ( r )$ curves are not enough sensitive to detect the variation of free volume caused by annealing. Therefore, PALS measurements were carried out to gain some information about free volume. Experimental positron lifetimespectra obtained in Z0， $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 } .$ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ alu UzU Λ-aicaicu $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ aic sluwll i rig. 10. Analysis of annihilation spectra reveals that two lifetime components fitting to the data is the best possible fit for each specimen, corresponding to two positron trap sizes. Since Flores et al. [47] recently identified three characteristic lifetimes for a $Z \\mathbf { r } .$ Cu-Ni-Al-Nb BMG,we also tried to fit the data by using three lifetime components, but such fit cannot satisfactorily describe the positron annihilation spectra with the variance of the fit greater than 2. With the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ in the as-cast state, the average lifetime for the shorter lifetime component $( \\tau _ { 1 } )$ gradually decreases from about 187 ps for Z0 to 166 ps for $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and 164 ps for $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ ，as listed in Table 5. Meanwhile,the normalized intensity of $\\tau _ { 1 }$ ， indicative of the relative concentration of positron trap, increases from $91 . 6 \\%$ for Z0 to $9 4 . 9 \\%$ for $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and $9 5 . 7 \\%$ for $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ .These results suggest that the size of smaller open volume decreases, but its concentration increases. The shorter lifetime $\\tau _ { 1 }$ is similar to the lifetime in bulk states of crystalline $Z \\mathbf { r }$ ，and can be atributed to annihilation at tetrahedral and octahedral holes in the densely packed MGs [48]. In the Zr-Cu-Ni-Al-Nb BMG,Flores et al. [47] found that the open volume with the lifetime ( $( \\sim 0 . 3 \\mathrm { n s } )$ comparable to that of a monovacancy in crystalline Zr existed, and these regions were referred to as flow defects. In the BMG specimens investigated here, no such lifetime component was detected, but it did not mean that flow defects were absent, otherwise plastic deformation should not be observed. In the densely-packed glass structure， tetrahedra， possessing highest packing efficiency, cannot be combined to fill space，and nontetrahedral Bernal-type polyhedra are geometrically necessary. These tetrahedral and nontetrahedral holes with size much less than that of a vacancy are not flow defects according to the classification of Flores et al. [47],but can be considered as flow defect nuclei, which may lead to the formation of new flow defects with additional distortion under stress and act as initiation sites for STZs. The longer lifetime component $\\left( \\tau _ { 2 } \\right)$ is of sufficient magnitude to be associated with the annihilation of ortho-Positronium ( $o$ -Ps) in voids. With the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } , \\tau _ { 2 }$ gradually rises from about 2.009 ns for $Z 0$ to 2.481 ns for $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and 2.741 ns for $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ , as listed in Table 5. The normalized intensity of $\\tau _ { 2 }$ drops from $8 . 4 \\%$ for $Z 0$ to $5 . 1 \\%$ for $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and $4 . 3 \\%$ for $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ . The average lifetime for the whole sample gradually reduces from O.339 ns for ZO to 0.283 ns for $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "0.274 ns for $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ . Since the lifetime of $o$ -Ps is directly related with the size of the voids in which it forms [49], the radius of the void is calculated to be 2.86, 3.26 and $3 . 4 6 \\mathrm { ~ \\AA ~ }$ for Z0, $( Z 0 ) _ { 8 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 2 0 }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ , respectively, much larger than that $( \\sim 1 . 6 \\mathrm { \\AA } )$ of $Z \\mathbf { r }$ atom. Such large voids are possibly not involved in the STZs nucleation [17] since its radius is almost one third of the STZ radius obtained experimentally. The existence of voids may mainly trigger the catastrophic rapid propagation of shear bands and consequently deteriorate the plasticity. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 } .$ ，shorter lifetime component $( \\tau _ { 1 } )$ decreases from 164 ps for the as-cast state to 156 ps for $6 2 0 ~ \\mathrm { K }$ -annealed state,while no obvious changes in the longer lifetime component $\\left( \\tau _ { 2 } \\right)$ and the normalized intensities of $\\tau _ { 1 }$ and $\\tau _ { 2 }$ are detectable,as listed in Table 5. It indicates that average lifetime is decreased by structural relaxation and positively correlated with the plasticity. Note that from ZO to $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ , the bending plasticity rises, while the average lifetime drops due to the reduction in average free volume, suggesting that the average lifetime (average free volume) is not always correlated positively with the plasticity. Meanwhile, with the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ ， the plasticity is enhanced and $\\varOmega$ becomes larger, while structural relaxation results in the embrittlement accompanied with the further enlarged $\\varOmega$ . The question is why these two conflicting trends of plasticity with average lifetime or $\\varOmega$ exist,and rationalizing the evolution of plasticity with the composition and structural relaxation from the combined viewpoint of open volume size distribution and $\\varOmega$ is of significance for us to understand the microscopic mechanisms of plastic deformation in MGs. It is proposed that the smaller open volume is responsible for the nucleation of STZ event, while the larger open volume (voids） possibly induces the catastrophic propagation of shear band (cooperative movement of STZs). From Z0 to $( \\mathrm { Z 0 } ) _ { 7 0 } ( \\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 } , \\Omega$ increases by 1.316\\~1.340 times,as listed in Table 3,and the concentration of smaller open volume increases by 1.04 times. Supposing the distribution of open volume in MGs is uniform, one STZ event in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ consumes more number of smaller open volume as compared with ZO.Because the increase in the concentration of smaller open volume cannot compensate it, the opportunity for STZs to reach the percolation limit for shear banding is reduced and subsequently the plasticity becomes worse,which is in contradiction to the experimental results. Thanks to the larger open volume regions, the situation may be changed conversely. The reduced concentration of larger open volume from Z0 to $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ suggests that the chance for shear bands to meet the voids (i.e., larger open volume) during their propagation lessens. Meanwhile, the contribution of larger open volume to the average positron lifetime is about 169 ps for Z0 and 118 ps for $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 } .$ , respectively. Therefore, the decrease in the large voids in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ inhibit the catastrophic runaway of shear bands and enhance the plasticity accordingly,although the size of voids in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ （204号 increases as compared with that in $Z 0$ . The influence of larger open volume may be predominant during the competition with the influence of smaller open volume, eventually resulting in the enhanced plasticity in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ as compared with Z0. Structural relaxation at $6 2 0 \\mathrm { K }$ for 1 hour in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ drops only the size of smaller open volume without any change in the concentration, but increases $\\varOmega$ by 1.241\\~1.417 times,as listed in Table 3. As mentioned above, the increased $\\varOmega$ consumes more number of smaller open volume, while the concentration of smaller open volume does not vary with the annealing treatment. Therefore, there is less chance for STZs to reach the percolation limit for shear banding in the $6 2 0 ~ \\mathrm { K } \\cdot$ annealed specimen，which becomes britle with the reduced average free volume, although it possesses larger $\\varOmega$ than the as-cast specimen. Based on all the results shown here, the open volume size distribution may be more crucial than the average lifetime for the plastic deformability of BMGs,and considering both $\\varOmega$ and open volume size distribution simultaneously can explain the evolution of plasticity with the composition and structural relaxation. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In summary, a comprehensive investigation into the effect of compositional tuning and structural relaxation annealing on the microstructure and mechanical properties in Zr-Cu-Ag-Al-Be BMG was performed. The results allowed the following conclusions to be drawn:   \n(1) The bending plasticity of the as-cast BMG is gradually enhanced with increasing $\\nu$ and decreasing GFA. Meanwhile, structural relaxation worsens the plasticity with the reduced free volume and $\\nu$ . All the results indicate that the plasticity correlates closely with $\\nu$ , which is a good apparent indicator of plasticity.   \n(2) Through the creep method and statistical analysis method, $\\varOmega$ was determined for various BMGs.With the increase in $\\nu$ and plasticity from ZO to $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ ,the ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "value of $\\varOmega$ determined from both methods is found to be increased. However,after annealing treatment at 620K, $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ becomes brittle with a lower $\\nu$ ，but the value of $\\varOmega$ is further enlarged. All the results suggest that only $\\varOmega$ cannot satisfactorily describe the plastic deformability of BMGs. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(3) By the PALS measurements in $\\mathrm { 7 0 , ( Z 0 ) _ { 8 0 } ( Z r _ { 7 5 } C u _ { 2 5 } ) _ { 2 0 } }$ and $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ two lifetime components,corresponding to two positron trap sizes， provide the best possible fit for each specimen. It is revealed that with the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ , the size of smaller open volume (tetrahedral and octahedral holes) decreases with increased concentration, and the size of larger open volume (voids） increases with decreased concentration. Both the contributions of smaller and larger open volume to the average positron lifetime drop with the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ . Structural relaxation at $6 2 0 ~ \\mathrm { K }$ in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ only reduces the size of smaller open volume without changing the concentration, leading to the decreased average positron lifetime.All the results indicate that average positron lifetime does not always correlate positively with the plasticity. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(4) From Z0 to $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ ，more number of smaller open volume is occupied for the STZ activation due to the increased $\\varOmega$ , and the rise in the concentration cannot compensate it, leading to the reduced opportunity for STZs to reach the percolation limit for shear banding and consequently deteriorated plasticity. On the other hand, the concentration of large voids and its contribution to the average positron lifetime also decrease with the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ ，and the catastrophic runaway of shear band is arrested, enhancing the plasticity accordingly. The influence of the larger voids on the propagation of cooperative STZs may be predominant over the influence of smaller open volume on the nucleation of STZs, eventually resulting in the enhanced plasticity with the increase in the fraction of $\\mathrm { Z r } _ { 7 5 } \\mathrm { C u } _ { 2 5 }$ . Since structural relaxation at $6 2 0 \\mathrm { K }$ in $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ only reduces the size of smaller open volume, more number of smaller open volume is required for STZs activation due to the increased $\\varOmega$ , and there is less chance for STZs to reach the percolation limit for shear banding. Thus, the $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ specimen annealed $6 2 0 ~ \\mathrm { K }$ becomes brittle with reduced open volume, although it possesses larger $\\varOmega$ than the as-cast specimen. All the results indicate that both $\\varOmega$ and open volume size distribution play crucial roles in affecting the plasticity of BMGs. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Financial supports from National Key Basic Research Program of China (2012CB825700)， National Natural Science Foundation of China (Grant No. 51371157 and 11179026)， National High Technology Research and Development Program of China (2012AA041206), Zhejiang Provincial Natural Science Foundation of China (Y4110192)， Zhejiang University-Helmholtz cooperation fund, and the Fundamental Research Funds for the Central Universities are gratefully acknowledged. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[1] Greer AL. Science 1995;267:1947.   \n[2] Inoue A. Acta Mater 2000;48:279.   \n[3] Johnson WL. MRS Bull 1999;24:42.   \n[4] Lou HB, Wang XD, Xu F,Ding SQ, Cao QP,Hono K, et al. Appl Phys Lett 2011;99:051910.   \n[5] Schuh CA, Hufnagel TC, Ramamurty U. Acta Mater 2007;55:4067.   \n[6] Chen MW. Annu Rev Mater Res 2008;38:445.   \n[7] Greer AL, Cheng YQ,Ma E. Mater Sci Eng R 2013;74:71.   \n[8] Hofmann DC, Suh JY, Wiest A, Duan G, Lind ML, Demetriou MD, et al. Nature 2008;451:1085.   \n[9] Zhou HF, Zhong C, Cao QP,Qu SX,Wang XD, Yang W, et al. Acta Mater 2014;68:32.   \n[10]Yokoyama Y， Yamano K, Fukaura K， Sunada H, Inoue A. Scripta Mater 2001;44:1529.   \n[11]Cao QP, Liu JW, Yang KJ, Xu F, Minkow A, Fecht HJ, et al. Acta Mater 2010;58:1276.   \n[12] Zhang Y, Wang WH, Greer AL. Nat Mater 2006;5:857.   \n[13]Schroers J, Johnson WL. Phys Rev Lett 2004;93:255506.   \n[14]Lewandowski JJ, Wang WH, Greer AL. Philos Mag Lett 2005;85:77.   \n[15]Chen LY, Fu ZD, Zhang GQ, Hao XP, Jiang QK, Wang XD, et al. Phys Rev Lett 2008;100:075501.   \n[16]Jiang F, Jiang MQ, Wang HF, Zhao YL, He L, Sun J. Acta Mater 2011;59:2057.   \n[17]Argon AS. Acta Metall 1979;27:47.   \n[18]Johnson WL, Samwer K. Phys Rev Lett 2005;95:195501.   \n[19]Pan D, Inoue A, Sakurai T, Chen MW. Proc Natl Acad Sci 2008;105:14769.   \n[20]Liu ST, Wang Z, Peng HL, Yu HB, Wang WH. Scripta Mater 2012;67:9.   \n[21]Hammersley AP, Svensson SO, Hanfland M, Fitch AN, Häusermann D. High Press Res 1996;14:235.   \n[22]Jiang QK, Wang XD, Nie XP, Zhang GQ, Ma H, Fecht HF, Bendnarcik J, Franz H, Liu YG, Cao QP, J.Z. Jiang JZ. Acta Mater 2008;56:1785.   \n[23]Lu ZP, Tan H, Li Y, Ng SC. Scripta Mater 2000;42:667.   \n[24]Lu ZP, Liu CT. Acta Mater 2002;50:3501.   \n[25]Spaepen F. Acta Metall 1977;25:407.   \n[26]Mondal K, Ohkubo T, Toyama T, Nagai Y, Hasegawa M, Hono K. Acta Mater 2008;56:5329.   \n[27]Kumar G, Rector D, Conner RD, Schroers J. Acta Mater 2009;57:3572.   \n[28]Kumar G, Neibecker P, Liu YH, Schroers J. Nat Commun 2013;4:1536.   \n[29]Raghavan R，Boopathy K, Ghisleni R,Pouchon MA，Ramamurty U. Scripta Mater 2010;62:462.   \n[30]Murali P, Ramamurty U. Acta Mater 2005;53:1467.   \n[31] Van den Beukel A, Sietsma J. Acta Metall 1990;38:383.   \n[32]Slipenyuk A, Eckert J. Scripta Mater 2004;50:39.   \n[33]Schuh CA, Lund AC, Nieh TG. Acta Mater 2004;52:5879.   \n[34]Elmustafa AA, Kose S, Stone DS. J Mater Res 2007;22:926.   \n[35]Nowak S, Ochin P, Pasko A， Maciejak O,Aubert P, Champion Y. J Alloys Compd 2009;483:139.   \n[36]Choi IC, Yoo BG, Kim YJ, Seok MY， Wang YM, Jang JI. Scripta Mater 2011;65:300.   \n[37]Lucas BN, Oliver WC. Metall Mater Trans A 1999;30:601.   \n[38]Choi IC, Zhao YK, Yoo BG, Kim YJ, Suh JY, Ramamurty U, Jang JI. Scripta Mater 2012;66:923.   \n[39] Zeng K. Nanoindentation of Thin Films and its Application, in: Tseng TY, Nalwa HS (Eds.). Handbook of Nanoceramics and Their Based Nanodevices. American Scientific Publishers,2009.   \n[40]Dieter GE. Mechanical Metallurgy. London: McGraw-Hill; 1988.   \n[41]Schuh CA, Lund AC. J Mater Res 2004;19:2152.   \n[42]Bei H, Lu ZP, George EP. Phys Rev Lett 2004;93:125504.   \n[43]Packard CE, Schuh CA. Acta Mater 2007;55:5348.   \n[44]Dubach A, Dalla Torre FH, Loffler JF.Acta Mater 2009;57:881.   \n[45]Pan D, Yokoyama Y, Fujita T, Liu YH, Kohara S, Inoue A, et al. Appl Phys Lett 2009;95:141909.   \n[46]Choi IC, Zhao YK, Kim YJ, Yoo BG， Suh JY，Ramamurty U, Jang JI. Acta Mater 2012;60:6862.   \n[47]Flores KM, Sherer E, Bharathula A, Chen H, Jean YC. Acta Mater 2007;55:3403.   \n[48]Miracle DB, Egami T, Flores KM, Kelton KF. MRS Bull 2007;32:629.   \n[49]Yean JC. Microchem J1990;42:72. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Table captions ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Table 1   \nThermal, mechanical properties and density parameters of the as-cast specimens with   \nZ0 representing $\\mathrm { Z r _ { 4 6 } C u _ { 3 0 . 1 4 } A g _ { 8 . 3 6 } A l _ { 8 } B e _ { 7 . 5 } } .$ （20 Table 2   \nMechanical properties and density changes of $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ after annealing for 1 hour at different temperatures. Table 3   \nSTZ size calculated based on the creep data and the statistical analysis of the yield data, respectively. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Table 4 Interatomic distances (D) estimated from the hard sphere model and concentrationweighted partial radial distribution values $( \\mathrm { W _ { i j } } )$ for three as-cast specimens. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Table 5 Positron annihilation lifetime spectra (PALS) for the as-cast and annealed specimens. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Figure captions ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig.1. Pseudo-ternary composition map with Z0 representing$\\mathrm { Z r _ { 4 6 } C u _ { 3 0 . 1 4 } A g _ { 8 . 3 6 } A l _ { 8 } B e _ { 7 . 5 } } .$ （204号",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2. XRD patterns (a) and DSC curves (b) of the as-cast plate specimens with the thickness of $1 . 5 \\mathrm { m m }$ ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3. Flexural stress vs. deflection curves (a) of the as-cast plate speicmens with various compositions; SEM images of tensile surface after fracture for (b) ZO,(c) $( Z 0 ) _ { 8 5 } Z \\mathbf { r } _ { 1 5 }$ (d) $( Z 0 ) _ { 6 5 } ( Z _ { \\Gamma _ { 6 7 } } \\mathrm { C u } _ { 3 3 } ) _ { 3 5 }$ and (e) $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 } .$ , respectively. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4. DSC curves (a) and flexural stress vs. deflection curves (b) of $( Z 0 ) _ { 7 0 } ( Z \\mathrm { r } _ { 7 5 } \\mathrm { C u } _ { 2 5 } ) _ { 3 0 }$ plates after annealing at different temperatures for 1 hour. The data of the as-cast specimen is shown for reference. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig.5.Room-temperature nanoindentation load vs. displacement curves for the ascast and the annealed specimens. The curves are relatively shifted for clarity. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6. Typical experimental and fitting curves (a) during creep at $2 0 0 ~ \\mathrm { m N }$ load; The relationship (b) between hardness and strain rate during creep; The distribution of STZ(c) obtained by nanoindentation creep tests. The circles marked in (a) and (b) indicate the steady-state creep stage. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig.7. The distribution of hardness (a), cumulative probability distribution of shear yield stress (b), and $\\ln [ \\ln ( 1 - f ) ^ { - 1 } ]$ vs. shear yield stress (c) for various specimens. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8. Structural factors ${ \\mathrm { S } } ( q )$ for various specimens. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig. 9. Magnified curves (a) of the first peak of $\\mathrm { G } ( \\boldsymbol { r } )$ for various as-cast specimens; (b)-(d) the first peak of $\\mathrm { G } ( \\boldsymbol { r } )$ for three specimens with the bar indicating the weight values of atomic pairs. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fig.10.Experimental PALS curves obtained in various specimens. ",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f919bab8b84369e033d35652988fa6df54bce1b0c3e4b5ecb72f8edf2abb3ab.jpg",
+        "img_caption": [
+            "Fig. 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/33df960a3c6b1bb3584a7d3568fc3ccb2bedd679a6b7ef2b3a5a0f119b650467.jpg",
+        "img_caption": [
+            "Fig. 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/111b6c6759f5e9c7d7260d8b3f05c8575e7f284f2c9f276e376c429f64bced7c.jpg",
+        "img_caption": [
+            "Fig. 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd1aca7a7a777f210845d54fc43300681d0fee3d43f691795c371baa49bd4ac3.jpg",
+        "img_caption": [
+            "Fig. 4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4921e66f21bdeb81711b76232d258f05fe6ef4301aa02e7548cf7d12a968ce2.jpg",
+        "img_caption": [
+            "Fig. 5 "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e8fde6a9353e98969337e58a385c60ab2ecb7fdb9134e21ba8abf2fb4c8e52b.jpg",
+        "img_caption": [
+            "Fig. 6 "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/14e7c226be6873870b21ae09e90295ace3f975b2c239a028aae1d8df1f299e1d.jpg",
+        "img_caption": [
+            "Fig. 7 "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/53bab520da852ddc4d1a0e605800ac4e896102aadcac1d7dbd13d3c9a479176b.jpg",
+        "img_caption": [
+            "Fig. 8 "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/d723a01f7c7caa35ccab1b9a7b69a0cd10d4483b5ed4909336fcd957df1b2dd2.jpg",
+        "img_caption": [
+            "Fig. 9 "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcc2325fc58912254d179c2dd6476af243468aeab95b3be7917e5ea49d2d42f1.jpg",
+        "img_caption": [
+            "Fig. 10 "
+        ],
+        "img_footnote": [],
+        "page_idx": 31
+    }
+]

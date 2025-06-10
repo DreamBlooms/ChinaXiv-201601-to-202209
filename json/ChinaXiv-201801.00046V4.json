@@ -1,0 +1,725 @@
+[
+    {
+        "type": "text",
+        "text": "多分辨率三角形板壳单元法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "夏逸鸣",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(.南京航空航天大学民航学院土木与机场工程系，南京211106)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：首先根据传统节点形函数定义域的范围，提出分节点和全节点的概念；基于传统三角形板壳单元分节点形函数，通过采用平行四边形方法，对分节点形函数的定义域关于坐标原点进行的延拓，构建了全节点形函数；然后，将此全节点形函数伸缩后在单元区域上进行平移，生成基函数系，即多分辨分析的简单而明晰的数学基，同时，该基张成了位移子空间序列，由此建立了带有分辨率常数的理性多辨分析的概念，并在此基础上，进一步构建了多分辨率三角形板壳单元及其单元法，最后，通过算例验证，可以得到如下结论，分辨率定义了区域内节点的等距均匀分布形式；传统三角形板壳单元为单分辨率单元，为本文单元的一个特例；由于域内为全节点，所以本文建立的结构计算模型是整体化模型而不是传统的网格碎片化模型；本文方法为理性多辨分析方法，其计算效率高于其他非理性多辨分析方法且可以完全统一其他的非理性多辨分析方法；结构数值分析清晰度的高低是由分辨率的大小决定的而非网格疏密；连续的全节点形函数为传统的节点总刚可由共同节点的单元刚度通过人工叠加组合方式而得到的这种处理方法提供了理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三角形板壳单元；分节点；全节点；位移子空间序列；理性多辨分析；分  \n辨率  \n文献标志码：0242",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有限元方法[1]已成为当今各个领域进行科学研究和工程计算普遍采用的通用方法，它对社会生产各个行业产生了深远的影响。板壳单元是有限元法中一种常用的单元类型，其用来计算工程中经常采用的板壳结构。常用的板壳单元一般可分为矩形和三角形单元，由于矩形单元不适合边界几何形状比较复杂的结构，因此，在实际应用中，三角形单元得到了更为广泛的应用,三角形单元在复杂网格划分时，可采用计算几何学中的Delaunay三角形算法，其提高了网格划分效率；另外，在需要网格局部加密时，三角形单元也更显便捷，尽管存在这样的优势，但由于没有一个可以遵循的法则，可以预先确定三角形网格的尺寸大小、各个节点数量和位置，因此，对于工程中的具体问题，即使是经验丰富的技术人员，要选择合适的网格方案也很困难，往往需要多次反复才能达到指定的求解精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三角形网格节点数量和位置的确定无法则可循的问题来自于有限元理论自身所固有的缺陷，其主要表现在两个方面：一是三角形单元节点形函数的定义域限定在单元区域内，导致单元各完整节点（全节点，如图2中的涂黑原点）被分割成分离节点（分节点，如图1b中涂黑部分)，所以，单元网格划分的过程就是将整个结构体从各单元节点处进行离散的过程；其二是不确定性源自于节点分布的任意性，即网格划分可采用节点规则均匀分布的形式，也可采用节点随机不规则分布的形式，终其原因是缺少一种控制节点数量及其分布形式的法则，即没有一个坚固数学基的支撑。一般而言，多辨分析是指曝光的信息细节（节点）数量可以某种方式任意改变的技术，以均匀分布的方式（有坚固数学基支撑）而改变节点数量的多辨分析可称为理性多辨分析；以随机任意不规则分布方式（无数学基支撑）而改变节点数量的称为非理性多辨分析。显然，三角形网格中完整信息细节（全节点）被撕裂分离以及非理性多辨分析是有限元理论两个固有的漏洞。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在过去的三十余年中，为了消除网格划分带来的问题，各国学者相继提出了各种崭新的方法。Belytschko教授等在1994年提出了无网格法[2][3]，该法采用目标点周围点应满足形函数的条件来确定多项式系数的方法，由此构建此目标全节点的形函数；Ko教授等在1995年利用Daubechies小波尺度函数矢量积的方法建立了域内全节点形函数，从而提出了小波有限元法[4]；Hughes教授等于2005年建立了等几何法[5][6]，该法采用样条函数的矢量积的方法构建了域内全节点形函数，可以看出，这些方法有一个共同的特点，就是构建了域内全节点形函数，从而建立了结构的整体计算模型，而不是传统有限元需要划分网格的离散计算模型，所以，采用这些方法时无需划分网格，因此它们在解决某类特殊工程问题时能够显示出它们各自的优势，但是，由于此类方法在节点布置方式上比较随意，没有数学基支撑，所以，它们的计算依旧属于非理性多辨分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对节点布置方式上随意，没有一个数学基支撑的问题，本研究提出了多分辨率单元方法，该法通过延拓分节点形函数，形成基本全节点形函数，并在此基础上，采用全节点形函数在单元区域上进行收缩和平移的方法，构造了一个基函数系，也就是一个简洁的数学基，从而构建了一个位移子空间序列,并由此形成了一个崭新的带有分辨率常数（RL）的多辨分析，同时，分辨率定义了节点均匀分布的法则，它可以通过调节单元分辨率常数来自由调整节点的数量，一旦确定了分辨率常数，那么节点的数量和位置也就相应给定了，从而解决了传统有限元和一些其它方法中所存在的节点数量及其位置不确定的问题。分辨率是指能够识别出两点信息细节（物理量值）存在差别时，该两点之间的最小距离。因此，统一的分辨率要求区域内的相邻节点之间应保持相同的距离。由此可以看出，多分辨率单元法是具有坚固数学基支撑的理性多辨分析方法，无网格，它运用分辨率常数和分辨率来确定节点的数量及其位置，即有规可循。本文就三角形薄板壳单元进行多分辨分析计算公式的推导，为解决工程中板壳结构的计算问题提供另一种强有力的工具。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1基本全节点形函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "有一三角形薄板壳单元，建立如图1a所示的直角坐标系，薄板壳单元的中面直角坐标系如图1b所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/af9b141cca10c82f9f0243a14ebbd8f30be5af87101be6356635caa95440db10.jpg",
+        "img_caption": [
+            "图1.三角形薄板壳单元",
+            "Fig1.A triangular shell element "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此，我们可以写出如图坐标系下三角形三条边的无量纲函数方程：对于底线12",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { y } { h } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于边线23",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { x } { a } } + { \\frac { y } { b } } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $^ { } | a , b _ { }$ 分别为水平轴和竖轴的截距. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于边线13",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { x } { a } } - \\left( { \\frac { 1 } { h } } - { \\frac { 1 } { b } } \\right) y = 0 \\quad ( b \\geq h )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "那么，三角形板壳单元上任意一点的位移可写为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\displaystyle { u ^ { e } = \\sum _ { i = 1 } ^ { 3 } N _ { i } ^ { m } u _ { i } } } \\\\ { \\displaystyle { \\vphantom { \\sum _ { i = 1 } ^ { 3 } N _ { i } ^ { m } \\nu _ { i } } } } \\\\ { \\displaystyle { \\vphantom { \\sum _ { i = 1 } ^ { 3 } N _ { i } ^ { m } \\nu _ { i } } } } \\\\ { \\displaystyle { w ^ { e } = \\sum _ { i = 1 } ^ { 3 } N _ { i } ^ { b } w _ { i } + \\sum _ { i = 1 } ^ { 3 } N _ { x i } ^ { b } \\theta _ { x i } + \\sum _ { i = 1 } ^ { 3 } N _ { y i } ^ { b } \\theta _ { y i } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\boldsymbol { u } ^ { e }$ 、 $\\nu ^ { e }$ 、 $\\boldsymbol { w } ^ { e }$ 分别为沿坐标轴 $x$ ， $y , z$ 方向的位移； $u _ { i }$ 、vi、 $w _ { i }$ 分别为单元节点i ( $\\scriptstyle { i = 1 }$ 、2、3）沿坐标轴 $x$ ， $y , \\ z$ 方向的位移； $\\theta _ { x i }$ 、 $\\theta _ { y i }$ 分别为单元节点处绕 $x$ 、 $y$ 轴的转角； ${ N } _ { i } ^ { m }$ 为单元节点处的平面薄膜内位移形函数； $\\boldsymbol { N } _ { i } ^ { b }$ 为单元节点处的挠曲形函数； $\\boldsymbol { N } _ { x i } ^ { b }$ 、 $N _ { y i } ^ { b }$ 分别为单元节点 $I$ 处绕 $\\scriptstyle { \\mathrm { : } } x$ 、 $y$ 轴的转角形函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上式（4）中的各个形函数可写为[1]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\cal N } _ { 1 } ^ { m } = L _ { 1 } } } \\\\ { { { \\cal N } _ { 1 } ^ { b } = L _ { 1 } + L _ { 1 } ^ { 2 } L _ { 2 } + L _ { 1 } ^ { 2 } L _ { 3 } - L _ { 1 } L _ { 2 } ^ { 2 } - L _ { 1 } L _ { 3 } ^ { 2 } } } \\\\ { { { \\cal N } _ { \\it \\scriptscriptstyle \\mathrm { { \\scriptscriptstyle { \\it { N } } } } } ^ { b } = - b _ { 3 } \\bigg ( L _ { 1 } ^ { 2 } L _ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg ) + b _ { 2 } \\bigg ( L _ { 3 } L _ { 1 } ^ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg ) } } \\\\ { { { \\cal N } _ { \\it \\scriptscriptstyle { \\mathrm { { \\scriptscriptstyle { \\it { N } } } } } } ^ { b } = - c _ { 3 } \\bigg ( L _ { 1 } ^ { 2 } L _ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg ) + c _ { 2 } \\bigg ( L _ { 3 } L _ { 1 } ^ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg ) } } \\\\ { { { \\cal b } _ { 3 } = y _ { 1 } - y _ { 2 } , ~ c _ { 3 } = x _ { 2 } - x _ { 1 } , ~ b _ { 2 } = y _ { 3 } - y _ { 1 } , ~ c _ { 2 } = x _ { 1 } - x _ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $L _ { 1 }$ 、 $L _ { 2 }$ 、 $L _ { 3 }$ 分别是三角形单元三个节点的面积坐标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（1）、（2）、（3）可得到如下关系式",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { 1 } = 1 - \\left( { \\frac { x } { a } } + { \\frac { y } { b } } \\right) , \\quad L _ { 2 } = { \\frac { x } { a } } - \\left( { \\frac { 1 } { h } } - { \\frac { 1 } { b } } \\right) y , \\quad L _ { 3 } = { \\frac { y } { h } } , \\quad x , y \\in D _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "显然有 $L _ { 1 } + L _ { 2 } + L _ { 3 } = 1$ ，且在其三角形单元定义域 $D _ { 1 }$ 内， $1 \\geq L _ { 1 }$ 、 $L _ { 2 }$ 、 $L _ { 3 } \\ge 0$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接下来，我们可以采用上面的三角形板壳单元分节点形函数，来构建全节点形函数。如图1b 所示，三角形单元的节点为单元定义域（阴影部分）所分割（涂黑部分)，即单元分裂了单元节点，因此，传统有限元中的单元网格划分是从各个节点处离散了结构整体。为了建立非离散的整体结构计算模型，必须构建完整节点-全节点形函数，此函数的构建关键是延拓节点形函数的定义域，即定义域应闭包该节点，因此，针对三角形单元，我们可以采用以原三角形为基础，围绕原点（节点）作一系列的平行四边形，即采用叠加相同形状和大小的三角形方式扩展此节点的定义域，最终得到如图2中的六边形，显然，图中原点处的节点为其定义域（阴影部分）闭包，此节点应为全节点，下面给出该基本全节点的形函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/30767b4096c0f2c870411e1fc96febb806e6fb72071f98f8651136047e720cda.jpg",
+        "img_caption": [
+            "图2.三角形定义域的延拓",
+            "Fig2.Extensionofa triangulardomain "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi \\left( x , y \\right) = \\left\\{ \\begin{array} { l l } { N _ { 1 } ^ { m } \\left( x , y \\right) } \\\\ { N _ { 3 } ^ { m } \\left( x , y \\right) } \\\\ { N _ { 2 } ^ { m } \\left( x , y \\right) } \\\\ { N _ { 1 } ^ { m } \\left( x , y \\right) } \\\\ { N _ { 3 } ^ { m } \\left( x , y \\right) } \\\\ { N _ { 2 } ^ { m } \\left( x , y \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left( x , y \\in D _ { 1 } \\right) } \\\\ & { \\left( x , y \\in D _ { 2 } \\right) } \\\\ & { \\left( x , y \\in D _ { 3 } \\right) } \\\\ & { \\left( x , y \\in D _ { 4 } \\right) } \\\\ & { \\left( x , y \\in D _ { 5 } \\right) } \\\\ & { \\left( x , y \\in D _ { 6 } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi \\left( x , y \\right) = \\left\\{ \\begin{array} { l l } { N _ { 1 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { 3 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { 2 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { 1 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { 3 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { 2 } ^ { b } \\left( x , y \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left( x , y \\in D _ { 1 } \\right) } \\\\ & { \\left( x , y \\in D _ { 2 } \\right) } \\\\ & { \\left( x , y \\in D _ { 3 } \\right) } \\\\ & { \\left( x , y \\in D _ { 4 } \\right) } \\\\ & { \\left( x , y \\in D _ { 5 } \\right) } \\\\ & { \\left( x , y \\in D _ { 6 } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\phi _ { x } \\left( x , y \\right) = \\left\\{ \\begin{array} { l } { N _ { x 1 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { x 3 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { x 2 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { x 1 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { x 3 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { x 2 } ^ { b } \\left( x , y \\right) } \\end{array} \\right.$ $\\begin{array} { r l } & { \\left( x , y \\in D _ { 1 } \\right) } \\\\ & { \\left( x , y \\in D _ { 2 } \\right) } \\\\ & { \\left( x , y \\in D _ { 3 } \\right) } \\\\ & { \\left( x , y \\in D _ { 4 } \\right) } \\\\ & { \\left( x , y \\in D _ { 5 } \\right) } \\\\ & { \\left( x , y \\in D _ { 6 } \\right) } \\end{array}$ （20   \n（204   \n（20   \n（204 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\phi _ { y } \\left( x , y \\right) = \\left. \\begin{array} { l } { N _ { y 1 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { y 3 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { y 2 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { y 1 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { y 3 } ^ { b } \\left( x , y \\right) } \\\\ { N _ { y 2 } ^ { b } \\left( x , y \\right) } \\end{array} \\right.$ （204号 （20 $\\begin{array} { r l } & { \\left( x , y \\in D _ { 1 } \\right) } \\\\ & { \\left( x , y \\in D _ { 2 } \\right) } \\\\ & { \\left( x , y \\in D _ { 3 } \\right) } \\\\ & { \\left( x , y \\in D _ { 4 } \\right) } \\\\ & { \\left( x , y \\in D _ { 5 } \\right) } \\\\ & { \\left( x , y \\in D _ { 6 } \\right) } \\end{array}$ （204号 （20 （204 （2 （204号 （20 （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中 ${ N } _ { i } ^ { m }$ 、 $\\boldsymbol { N } _ { i } ^ { b }$ 、 $\\boldsymbol { N } _ { x i } ^ { b }$ 、 $N _ { y i } ^ { b }$ 分别为传统三角形板壳单元分节点 $i ( i = 1 , 2 , 3 )$ 处的形函数,即基本全节点域由六个三角形分节点域所叠加而成。其中有",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle { I _ { 1 } = \\frac { x } { a } + \\frac { V } { b } , \\quad L _ { 2 } = \\left( \\frac { 1 } { h } - \\frac { 1 } { b } \\right) y - \\frac { x } { a } , \\quad L _ { 3 } = 1 - \\frac { y } { h } , \\quad x , y \\in D _ { 2 } } } \\\\ { \\displaystyle { N _ { 3 } ^ { 3 } = L _ { 3 } } } \\\\ { \\displaystyle { N _ { 5 } ^ { b } = L _ { 3 } + L _ { 3 } ^ { 2 } L _ { 1 } + I _ { 3 } ^ { 2 } L _ { 2 } - L _ { 3 } L _ { 1 } ^ { 2 } - L _ { 3 } L _ { 2 } ^ { 2 } } } \\\\ { \\displaystyle { N _ { 5 } ^ { b } = - b _ { 2 } \\left( L _ { 3 } ^ { 2 } L _ { 1 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\right) + b _ { 1 } \\left( L _ { 2 } L _ { 3 } ^ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 5 } \\right) } } \\\\ { \\displaystyle { N _ { 9 } ^ { b } = - c _ { 2 } \\left( L _ { 3 } ^ { 2 } L _ { 1 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\right) + c _ { 1 } \\left( L _ { 2 } L _ { 3 } ^ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\right) } } \\\\ { \\displaystyle { b _ { 2 } = y _ { 3 } - y _ { 1 } , \\quad c _ { 2 } = x _ { 1 } - x _ { 2 } , \\quad b _ { 1 } = y _ { 2 } - y _ { 3 } , \\quad c _ { 1 } = x _ { 3 } - x _ { 2 } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ L _ { 1 } = - ( \\displaystyle \\frac { X } { a } + \\displaystyle \\frac { y } { b } ) \\mathrm { , ~ } L _ { 2 } = 1 - ( \\displaystyle \\frac { 1 } { h } - \\displaystyle \\frac { 1 } { b } ) y + \\displaystyle \\frac { X } { a } \\mathrm { , ~ } L _ { 3 } = \\displaystyle \\frac { y } { h } \\mathrm { , ~ } x , y \\in D _ { 3 }  } \\\\ & {  [ N _ { 2 } ^ { n } = L _ { 2 }  } \\\\ & {  [ N _ { 2 } ^ { b } = L _ { 2 } + L _ { 2 } ^ { 2 } L _ { 3 } + L _ { 2 } ^ { 2 } L _ { 1 } - L _ { 2 } L _ { 3 } ^ { 2 } - L _ { 2 } L _ { 1 } ^ { 2 }   } \\\\ & {      { N _ { 1 } ^ { b } } { N _ { 2 } ^ { b } = } - b _ { 1 } ( \\displaystyle \\frac { L _ { 2 } ^ { 2 } L _ { 3 } } { 2 } + \\displaystyle \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } ) + b _ { 3 } ( \\displaystyle L _ { 1 } L _ { 2 } ^ { 2 } + \\displaystyle \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } )    } \\\\ & {       N _ { 2 } ^ { b } = - c _ { 1 } ( \\displaystyle \\frac { L _ { 3 } ^ { 2 } L _ { 3 } } { 2 } + \\displaystyle \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } ) + c _ { 3 } ( \\displaystyle L _ { 1 } L _ { 2 } ^ { 2 } + \\displaystyle \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } )    } \\\\ & {      [ b _ { 1 } = y _ { 2 } - y _ { 3 } \\mathrm { , ~ } c _ { 1 } = x _ { 3 } - x _ { 2 } \\mathrm { , ~ } b _ { 3 } = y _ { 1 } - y _ { 2 } \\mathrm { , ~ } c _ { 3 } = x _ { 2 } - x _ { 1 }    } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ L _ { 1 } = 1 + \\frac { x } { a } + \\frac { y } { b } , ~ L _ { 2 } = ( \\frac { 1 } { h } - \\frac { 1 } { b } ) y - \\frac { x } { a } , ~ L _ { 3 } = - \\frac { y } { h } , ~ x , y \\in D _ { 4 }  } \\\\ & {  | { N } _ { 1 } ^ { \\mathrm { s a } } = L _ { 1 }  } \\\\ & {  | { N } _ { 1 } ^ { \\mathrm { b } } = I _ { 1 } + I _ { 1 } ^ { \\mathrm { 2 } } L _ { 2 } + I _ { 1 } ^ { \\mathrm { 2 } } L _ { 3 } - L _ { 1 } I _ { 2 } ^ { \\mathrm { 2 } } - L _ { 1 } I _ { 3 } ^ { \\mathrm { 2 } }  } \\\\ & {    { N } _ { 1 } ^ { \\mathrm { b } } = { - b } _ { 3 } ( { L } _ { 1 } ^ { \\mathrm { 2 } } L _ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } ) + { b } _ { 2 } ( { L } _ { 3 } { L } _ { 1 } ^ { \\mathrm { 2 } } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } )   } \\\\ & {    { N } _ { 1 } ^ { \\mathrm { b } } = { - c } _ { 3 } ( { L } _ { 1 } ^ { \\mathrm { 2 } } L _ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } ) + { c } _ { 2 } ( { L } _ { 3 } { L } _ { 1 } ^ { \\mathrm { 2 } } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } )   } \\\\ & {   { N } _ { 3 } ^ { \\mathrm { s b } } = y _ { 1 } - { y } _ { 2 } , ~ c } _ { 3 } = x _ { 2 } - x _ { 1 } , ~ b _ { 2 } = y _ { 3 } - y _ { 1 } , ~ c _ { 2 } = x _ { 1 } - x _ { 3 }   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\displaystyle L _ { 1 } = - \\left( \\frac { x } { d } + \\frac { y } { b } \\right) , ~ L _ { 2 } = \\frac { x } { a } - \\left( \\frac { 1 } { h } - \\frac { 1 } { b } \\right) \\displaystyle y , ~ L _ { s } = 1 + \\frac { y } { h } , ~ x , y \\in D _ { s } } \\\\ { \\displaystyle \\mathcal { N } _ { 3 } ^ { \\prime \\prime } = L _ { s } } \\\\ { \\displaystyle \\mathcal { N } _ { 3 } ^ { \\prime \\prime } = L _ { 3 } L _ { s } } \\\\ { \\displaystyle \\mathcal { N } _ { 4 } ^ { \\prime \\prime } = L _ { 3 } ^ { 2 } L _ { s } + L _ { s } ^ { 2 } L _ { z } - L _ { s } L _ { 1 } ^ { 2 } - L _ { 3 } L _ { 2 } ^ { 2 } } \\\\ { \\displaystyle \\mathcal { N } _ { 4 3 } ^ { \\prime \\prime } = - b _ { 2 } \\left( L _ { 3 } ^ { 2 } L _ { 1 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { s } \\right) + b _ { 1 } \\left( L _ { 2 } L _ { 3 } ^ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { s } \\right) } \\\\ { \\displaystyle \\mathcal { N } _ { 3 3 } ^ { \\prime \\prime } = - c _ { 2 } \\left( L _ { 3 } ^ { 2 } L _ { 1 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\right) + c _ { 1 } \\left( L _ { 2 } L _ { 3 } ^ { 2 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\right) } \\\\ { \\displaystyle \\mathit { b } _ { 2 } = y _ { 3 } - y _ { 1 } , ~ c _ { 2 } = x _ { 1 } - x _ { 2 } , ~ b _ { 1 } = y _ { 2 } - y _ { 3 } , ~ c _ { 1 } = x _ { 3 } - x _ { 2 } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ L _ { 1 } = \\frac { x } { a } + \\frac { y } { b } , \\quad L _ { 2 } = 1 - \\frac { x } { a } + ( \\cfrac { 1 } { h } - \\cfrac { 1 } { b } ) y , \\quad L _ { 3 } = - \\frac { y } { h } , \\ x , y \\in D _ { 6 } } \\\\ & { ( N _ { 2 } ^ { b } = L _ { 2 } ^ { b }  } \\\\ & {   \\mathcal { N } _ { 2 } ^ { b } = L _ { 2 } + L _ { 2 } ^ { b } L _ { 3 } + L _ { 2 } ^ { b } L _ { 1 } - L _ { 2 } L _ { 3 } ^ { b } - L _ { 2 } L _ { 1 } ^ { a ^ { 2 } }  } \\\\ & {   \\mathcal { N } _ { { { r } _ { 2 } } } ^ { b } = - b _ { 1 } \\bigg ( L _ { 2 } ^ { b } L _ { 3 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg ) + b _ { 3 } \\bigg ( L _ { 1 } L _ { 2 } ^ { b ^ { 2 } } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg )   } \\\\ & {   \\mathcal { N } _ { { { r } _ { 2 } } } ^ { b } = - c _ { 1 } \\bigg ( L _ { 2 } ^ { b ^ { 2 } } L _ { 3 } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg ) + c _ { 3 } \\bigg ( L _ { 1 } L _ { 2 } ^ { b ^ { 2 } } + \\frac { 1 } { 2 } L _ { 1 } L _ { 2 } L _ { 3 } \\bigg )  } \\\\ & {   ( b _ { 1 } - y _ { 2 } - y _ { 3 } , \\ c _ { 1 } = x _ { 3 } - x _ { 2 } , \\ b _ { 3 } = y _ { 1 } - y _ { 2 } , \\ c _ { 3 } = x _ { 2 } - x _ { 1 }    } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "到此，得到了基本全节点形函数，其形状如图3所示",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/df8172ebcb4dd7a3b59fe1c9270716a79a6bad6c38454927baef617fc2b617e8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4bb31a0510a228398cc3540849a550cc9fc302c51daf9dadafa51b8862be866.jpg",
+        "img_caption": [
+            "图3.基本全节点形函数",
+            "Fig 3.Plot of the basic shape function "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "显然，该基本全节点形函数是连续的且具有Kroneckerdelta特性：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\varrho ( t , 0 ) - 1 , \\quad \\mathrm { { e } } ( \\mathrm { i } \\wp \\rho \\mathrm { i } \\mathrm { m i t } ) \\cdot \\mathrm { { j } } - \\mathrm { { } } } \\\\ { \\displaystyle \\varrho ( t , 0 ) - 1 , \\quad \\mathrm { { e } } ( \\mathrm { i } \\wp \\rho \\mathrm { i } \\mathrm { m i t } ) - \\mathrm { { } } } \\\\ { \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } = 0 , \\quad \\mathrm { { e } } ( \\mathrm { i } \\wp \\rho \\mathrm { i } \\mathrm { m i t } ) - \\mathrm { { } } \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } - 0 } \\\\ { \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } = 0 , \\quad \\mathrm { { e } } ( \\mathrm { i } \\wp \\rho \\mathrm { i } \\mathrm { m i t } ) - 0 , \\quad \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) \\setminus \\zeta ( 0 ) } { \\partial t } = 0 } \\\\ { \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } = 0 , \\quad \\mathrm { { e } } ( \\mathrm { i } \\wp \\rho \\mathrm { i } \\mathrm { m i t } ) - 1 , \\quad \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } = 0 } \\\\ { \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } - 1 , \\quad \\displaystyle \\frac { \\partial \\zeta ( t , \\zeta ( \\rho \\mathrm { i } \\arg \\mathrm { m i t } ) ) } { \\partial t } - 0 , \\quad \\displaystyle \\frac { \\partial \\mathrm { { e } } ( \\mathrm { i } \\wp \\rho \\mathrm { m i t } ) } { \\partial t } - 0 } \\\\ { \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } = 0 , \\quad \\displaystyle \\frac { \\partial \\zeta ( t , \\rho ) \\sinh \\zeta ( 0 ) \\sinh \\zeta ( 0 ) } { \\partial t } = \\quad \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) \\setminus \\zeta ( 0 ) } { \\partial t } - 1 } \\\\ { \\displaystyle \\frac { \\partial \\zeta ( t , 0 ) } { \\partial t } = 0 , \\quad \\displaystyle \\frac { \\partial \\zeta ( t , \\rho ) \\sinh \\zeta ( 0 ) \\sinh \\zeta ( 0 ) } { \\partial t } = 0 , \\quad \\displaystyle \\frac { \\partial \\zeta ( t , \\rho ) \\sinh \\zeta ( 0 ) } { \\partial t } - 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2位移子空间序列",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了实现多分辨率的计算分析，我们须构建单元的多分辨率位移子空间序列。通过函数的伸缩、平移可以组建子空间序列的基底函数系，由此，将基本全节点形函数在区域内进行伸缩、平移，由此形成单元的多分辨率位移子空间序列的基函数向量 $\\Psi _ { n } ^ { e }$ ，对于三角形薄板壳单元，当单元分辨率常数 RL(resolution level) $\\frac 1 2 ( n + 1 ) ( n + 2 )$ 时， $\\pmb { \\Psi } _ { n } ^ { e }$ 可取为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { n } ^ { e } = \\left[ \\Phi _ { n , 0 0 } ^ { e } . . . \\quad \\Phi _ { n , r s } ^ { e } . . . \\quad \\Phi _ { n , n n } ^ { e } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\Phi _ { n , r s } ^ { e } = \\left[ { \\begin{array} { c c c c c } { \\varphi _ { n , r s } } & { 0 } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { \\varphi _ { n , r s } } & { 0 } & { 0 } & { 0 } \\\\ { 0 } & { 0 } & { \\phi _ { n , r s } } & { \\phi _ { x n , r s } \\ : / { n } } & { \\phi _ { y n , r s } \\ : / { n } } \\end{array} } \\right] ,$ 其中  \n$\\varphi _ { n , r s } = \\varphi ( n x - \\left( r - s \\frac { h } { b } \\right) a , n y - s h ) \\qquad , \\qquad \\phi _ { n , r s } = \\phi ( n x - \\left( r - s \\frac { h } { b } \\right) a , n y - s h )$ $\\phi _ { _ { S I , S } } = \\phi _ { x } ( n x - \\left( r - s \\frac { h } { b } \\right) a , n y - s h ) \\mathrm { ~ , ~ } \\phi _ { y n , r s } = \\phi _ { y } ( n x - \\left( r - s \\frac { h } { b } \\right) a , n y - s h ) \\mathrm { ~ , ~ } n \\mathrm { ~ \\ } \\mathcal { H } \\mathrm { E } ^ { \\# }$ 数，表示三角形各个边的伸缩倍数； $r = 0 , 1 , 2 , 3 \\cdots n , s = 0 , 1 , 2 , 3 \\cdots n$ 表示节点位置平移的参数;这里 $\\begin{array} { r } { \\cdot n \\geq r \\geq s , \\left( n x - r a \\right) \\in \\left[ - a , a \\right] , \\left( n y - s h \\right) \\in \\left[ - h , h \\right] , x , y \\in D _ { 1 } . } \\end{array}$   \n首先，将基本全节点形函数在区域 $\\left[ - { \\frac { a } { n } } , { \\frac { a } { n } } \\right] \\times \\left[ - { \\frac { h } { n } } , { \\frac { h } { n } } \\right]$ 上进行伸缩，然后把经过伸缩的形函数平移至单元区域上的所有节点 $\\left( \\frac { a } { n } \\binom { h } { r - s \\frac { h } { b } } , \\frac { s } { n } h \\right)$ 处，由此，即可构造出单元区域 $D _ { 1 }$ 内各个全节点的形函数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，对于三角形单元域内的全节点形函数，可由基本全点形函数经过收缩和移动来得到；对于三角形单元域边界节点（B）的形函数，同样，可由基本全点形函数经过收缩和移动来得到，但是要删除超出三角形单元域外1/2部分的形函数，所以，边界节点是二分节点；对于三角形单元三顶节点（T）的形函数，也可由基本全点形函数经过收缩和移动来得到，但是要删除超出三角形单元域外的六边形中其它五部分的形函数，所以，三顶节点都是分节点。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1dbe4a4d0ae79863b95a1dad66b9d1f6db75957938bbda94aee5929845f7fdea.jpg",
+        "img_caption": [
+            "图4．当分辨率 $\\mathtt { R L } { = } 2 \\times 5$ （20 $\\scriptstyle ( n = 3 )$ 时，三角形单元的节点分布Fig.4.The node partition for a triangular element when the $\\mathrm { R L } { = } 2 \\times 5$ $( n { = } 3 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由此可以看出，单元内节点是均匀分布的。由于基函数向量中的元素为φn,rs、φn,\"s（20 $\\phi _ { x n , r s } \\setminus \\phi _ { y n , r s }$ ，其不同的 $n$ 值和节点平移参数形成的不同函数组是线性无关的，所以其构成的位移空间序列是一个诸多子空间所组成，即 $\\left[ V _ { 1 } . . . V _ { i } . . . V _ { n } \\right]$ ，此位移子空间序列构成一个多分辨率分析（multi-resolution analysis,MRA），即",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { W } _ { m } = \\big [ V _ { 1 } . . . \\quad V _ { i } . . . \\quad V _ { n } \\big ] } \\\\ { V _ { i } : = s p a n \\big \\{ \\Psi _ { i } : i \\in Z \\big \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { I = 2 i }$ 时，有",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ { i } } \\subset V _ { _ { I } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $Z$ 为正整数集； $V _ { _ i }$ 为分辨率常数 $R L { = } \\frac { 1 } { 2 } \\big ( i + 1 \\big ) \\big ( i + 2 \\big )$ 的位移子空间。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，在分辨率常数 $R L { = } \\frac 1 2 \\big ( n + 1 \\big ) \\big ( n + 2 \\big )$ 的位移子空间中，板壳单元内任意一点的位移可写为：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { u _ { n } ^ { e } } \\\\ { \\nu _ { n } ^ { e } } \\\\ { w _ { n } ^ { e } } \\end{array} \\right\\} = \\Psi _ { \\ n } ^ { e } \\mathbf { a } _ { n } ^ { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "式中",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { a } _ { n } ^ { e } = \\left[ \\left[ u _ { 0 0 } , \\nu _ { 0 0 } , w _ { 0 0 } , \\theta _ { x 0 0 } , \\theta _ { y 0 0 } \\right] . . . \\left[ u _ { r s } , \\nu _ { r s } , w _ { r s } , \\theta _ { x r s } , \\theta _ { y r s } \\right] . . . \\left[ u _ { n n } , \\nu _ { n n } , w _ { n n } , \\theta _ { x n n } , \\theta _ { y n n } \\right] \\right] ^ { T }$ （204号 $u _ { r s } , \\nu _ { r s } , w _ { r s } , \\theta _ { x r s } , \\theta _ { y r s }$ 分别为单元节点 ${ \\Bigg ( } { \\frac { a } { n } } { \\Bigg ( } r - s { \\frac { h } { b } } { \\Bigg ) } , { \\frac { s } { n } } h { \\Bigg ) }$ 处的沿 $x , \\ y , \\ z$ 方向的位移和绕 $x$ ，y 轴的转角。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由此可以看出，单元内节点是规则均匀分布的，其数量和位置可由分辨率常数来自由调节；一旦确定了单元分辨率常数也就规定了节点总数及其具体位置。当式（13）中的分辨率常数 $R L { = } 1 \\times 3$ （ $\\scriptstyle { \\dot { \\boldsymbol { n } } } = 1$ ）时，该式就退化为传统三角形板壳单元的位移场，如式（4）所示，因此，传统三角形板壳单元是单分辨率单元，为本文多分辨率三角形板壳单元的一个特例。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3多分辨率三角形板壳单元",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在分辨率常数为 $R L { = } \\frac 1 2 \\big ( n + 1 \\big ) \\big ( n + 2 \\big )$ 的位移子空间中，三角形板壳单元总势能可写为：$\\begin{array} { c } { { \\Pi \\big ( { \\cal V } _ { n } \\big ) = \\displaystyle \\frac { 1 } { 2 } \\displaystyle \\iint _ { D _ { 1 } } \\big [ \\varepsilon \\big ] _ { n } ^ { T } \\big [ D _ { n } \\big ] \\big [ \\varepsilon \\big ] _ { n } d x d y - \\displaystyle \\iint _ { D _ { 1 } } \\big ( p _ { x } u _ { n } ^ { e } + p _ { y } y _ { n } ^ { e } \\big ) d x d y - \\displaystyle \\sum _ { i } \\big [ P _ { i x } u _ { n } ^ { e } \\big ( x _ { i } , y _ { i } \\big ) + P _ { i y } { \\nu } _ { n } ^ { e } \\big ( x _ { i } , y _ { i } \\big ) \\big ] } } \\\\ { { \\displaystyle + \\displaystyle \\frac { 1 } { 2 } \\displaystyle \\iint _ { D _ { 1 } } \\big [ \\kappa \\big ] _ { n } ^ { T } \\big [ D _ { b } \\big ] \\big [ \\kappa \\big ] _ { n } d x d y - \\displaystyle \\iint _ { D _ { 1 } } q w _ { n } ^ { e } d x d y - \\displaystyle \\sum _ { i } \\mathcal { Q } _ { i } w _ { n i } ^ { e } } } \\end{array}$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$p _ { x } \\ 、 p _ { y }$ 分别为沿 $X , \\quad y$ 轴的分布力；横向 $P _ { i x }$ 、 $P _ { i y }$ 分别为单元上某处的沿 $X , \\quad J$ 轴的集中力； $Q _ { i }$ 为单元上某处的横向集中荷载； $q$ 为横向分布力。还有",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\varepsilon \\right] _ { n } = \\left\\{ \\begin{array} { c } { \\displaystyle \\frac { \\hat { \\sigma } u _ { n } } { \\hat { \\sigma } x } } \\\\ { \\displaystyle \\frac { \\hat { \\sigma } \\nu _ { n } } { \\hat { \\sigma } y } } \\\\ { \\displaystyle \\frac { \\hat { \\sigma } u _ { n } } { \\hat { \\sigma } y } + \\frac { \\hat { \\sigma } \\nu _ { n } } { \\hat { \\sigma } x } } \\end{array} \\right\\} \\mathrm { , ~ } \\left[ \\kappa \\right] _ { n } = - \\left[ \\begin{array} { c } { \\displaystyle \\frac { \\hat { \\sigma } ^ { 2 } w _ { n } ^ { e } } { \\hat { \\sigma } x ^ { 2 } } } \\\\ { \\displaystyle \\frac { \\hat { \\sigma } ^ { 2 } w _ { n } ^ { e } } { \\hat { \\sigma } x \\hat { \\sigma } y } } \\\\ { \\displaystyle \\frac { \\hat { \\sigma } ^ { 2 } w _ { n } ^ { e } } { \\hat { \\sigma } y ^ { 2 } } } \\\\ { \\displaystyle 2 \\frac { \\hat { \\sigma } ^ { 2 } w _ { n } ^ { e } } { \\hat { \\sigma } x \\hat { \\sigma } y } } \\end{array} \\right] \\mathrm { , }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ { \\cal D } _ { n } \\right] = C _ { n } \\left[ \\begin{array} { c c c } { 1 } & { \\mu } & { 0 } \\\\ { \\mu } & { 1 } & { 0 } \\\\ { 0 } & { 0 } & { \\left( 1 - \\mu \\right) / 2 } \\end{array} \\right] \\left[ { \\cal D } _ { b } \\right] = C _ { b } \\left[ \\begin{array} { c c c } { 1 } & { \\mu } & { 0 } \\\\ { \\mu } & { 1 } & { 0 } \\\\ { 0 } & { 0 } & { \\left( 1 - \\mu \\right) / 2 } \\end{array} \\right] , \\quad C _ { n } = \\frac { E t } { 1 - \\mu ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$C _ { b } = \\frac { E t ^ { 3 } } { 1 2 \\big ( 1 - \\mu ^ { 2 } \\big ) }$ （204号 $E$ is the $E$ 为材料弹性模量； $t$ 是板壳单元的厚度， $\\mu$ 为泊松比。",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\left[ \\boldsymbol { \\varepsilon } \\right] _ { n } = \\left[ B _ { 0 0 } ^ { m } , \\cdots B _ { r s } ^ { m } , \\cdots B _ { n n } ^ { m } \\right] \\mathbf { a } _ { m } ^ { e } \\right. } \\\\ { \\left. \\left[ \\left[ \\boldsymbol { \\kappa } \\right] _ { n } = \\left[ B _ { 0 0 } ^ { b } , \\cdots B _ { r s } ^ { b } , \\cdots B _ { n n } ^ { b } \\right] \\mathbf { a } _ { b } ^ { e } \\right. \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { r s } ^ { m } = \\left[ \\begin{array} { c c c } { \\displaystyle \\frac { \\hat { \\sigma } \\varphi _ { n , r s } } { \\hat { \\alpha } x } } & { 0 } & { \\displaystyle \\frac { \\hat { \\sigma } \\varphi _ { n , r s } } { \\hat { \\sigma } y } } \\\\ { 0 } & { \\displaystyle \\frac { \\hat { \\sigma } \\varphi _ { n , r s } } { \\hat { \\sigma } y } } & { \\displaystyle \\frac { \\hat { \\sigma } \\varphi _ { n , r s } } { \\hat { \\sigma } x } } \\end{array} \\right] ^ { T } , \\quad \\mathbf { a } _ { m } ^ { e } = \\left[ \\boldsymbol { u } _ { \\boldsymbol { \\mathrm { \\scriptsize ~ 0 0 } } } , \\boldsymbol { \\nu } _ { \\boldsymbol { \\mathrm { \\scriptsize ~ 0 0 } } } \\cdots \\boldsymbol { u } _ { \\boldsymbol { r } s } , \\boldsymbol { \\nu } _ { \\boldsymbol { r } s } \\cdots \\boldsymbol { u } _ { \\boldsymbol { n } n } , \\boldsymbol { \\nu } _ { \\boldsymbol { n n } } \\right] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { r s } ^ { b } = \\left[ \\frac { \\widehat { \\sigma } ^ { 2 } \\phi _ { n , r s } } { \\widehat { \\sigma } x ^ { 2 } } , \\frac { \\widehat { \\sigma } ^ { 2 } \\phi _ { x n , r s } } { \\widehat { \\sigma } y ^ { 2 } } , \\frac { \\widehat { \\sigma } ^ { 2 } \\phi _ { y n , r s } } { \\widehat { \\sigma } x \\widehat { \\sigma } y } \\right] ^ { T } , \\quad \\mathbf { a } _ { b } ^ { e } = \\left[ w _ { 0 0 } , \\theta _ { x 0 0 } , \\theta _ { y 0 0 } , \\cdots w _ { r s } , \\theta _ { x r s } , \\theta _ { y r s } \\cdots w _ { n m } , \\theta _ { x m } , \\theta _ { y n m } \\right] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "将式(15)、（13）代入式（14)，并经整理后可得到：",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\Pi } _ { p } \\left( V _ { n } \\right) = \\frac { 1 } { 2 } \\mathbf { a } _ { n } ^ { e T } \\mathbf { K } _ { n } ^ { e } \\mathbf { a } _ { n } ^ { e } - \\mathbf { a } _ { n } ^ { e T } \\mathbf { f } _ { n } ^ { e } - \\mathbf { a } _ { n } ^ { e T } \\mathbf { F } _ { n } ^ { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "式中， ${ \\bf K } _ { n } ^ { e }$ 为单元刚度矩阵； $\\mathbf { f } _ { n } ^ { e }$ 为单元节点分布等效荷载向量； ${ \\bf F } _ { n } ^ { e }$ 为单元节点集中等效荷载向量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据最小势能原理，即 $\\partial \\Pi _ { _ p } \\left( V _ { _ n } \\right) = 0$ ，可得板壳单元的平衡方程：",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { K } _ { n } ^ { e } \\mathbf { a } _ { n } ^ { e } = \\mathbf { f } _ { n } ^ { e } + \\mathbf { F } _ { n } ^ { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "式中",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { K } _ { n } ^ { e } = \\left[ \\begin{array} { l l l l } { \\mathbf { k } _ { 0 0 } ^ { 0 0 } \\cdots } & { \\mathbf { k } _ { n s } ^ { 0 0 } \\cdots } & { \\mathbf { k } _ { n m } ^ { 0 0 } } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\mathbf { k } _ { 0 0 } ^ { n e } \\cdots } & { \\mathbf { k } _ { n s } ^ { n s } \\cdots } & { \\mathbf { k } _ { n s } ^ { n s } } \\\\ { \\cdot } & { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\cdot } & { \\cdot } & { \\cdot } \\\\ { \\mathbf { k } _ { 0 0 } ^ { n n } \\cdot } & { \\mathbf { k } _ { n s } ^ { n n } \\cdot } & { \\mathbf { k } _ { n m } ^ { n n } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathbf { \\boldsymbol { \\mathbf { k } } } _ { r s } ^ { r s } = \\displaystyle \\sum _ { \\left| d - { r } \\right| \\leq 1 } \\mathbf { \\boldsymbol { \\mathbf { k } } } _ { c d , r s } } \\\\ { \\mathbf { \\boldsymbol { \\mathbf { k } } } _ { r s } ^ { r s } = \\mathbf { \\boldsymbol { \\mathbf { k } } } _ { c d , r s } = 0 , w h e n \\left| c - r \\right| > 1 , \\left| d - s \\right| > 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { k } _ { c d , r s }$ 为节点 $( c , d )$ 与节点 $( r , s )$ 的相关刚度矩阵，其可写为",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { k } _ { c d , r s } = \\underset { D _ { 1 } } { \\iint } \\mathbf { B } _ { c d } \\mathbf { E } \\mathbf { B } _ { r s } ^ { b } d x d y\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\begin{array} { l l } { \\mathbf { f } _ { n , r s } ^ { e r } = \\displaystyle { \\iint _ { 0 } \\mathbf { \\Phi } _ { n , r s } [ \\mathbf { \\Phi } q d x d y  } } \\\\ { \\displaystyle {  [ \\mathbf { F } _ { n , r s } ^ { e r } = \\sum _ { i } [ \\Phi _ { n , r s } ( n x _ { i } - r , n y _ { i } - s ) ] ^ { T } P _ { i }  } } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathbf { N }$ 为形函数矩阵； $\\mathbf { P }$ 为集中荷载向量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4转换矩阵",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过上述步骤，可以得到多分辨率三角形板壳单元的刚度与等效节点力，为进行结构计算，需要将局部坐标系下单元节点方向，转换到整体坐标系下单元节点方向，单刚与等效节点力转换到整体坐标系下，此转换可以通过转换矩阵 ${ \\bf T } _ { n } ^ { e }$ 来实现，即",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\mathbf { K } _ { n } ^ { i } = { \\mathbf { T } _ { n } ^ { e T } } \\mathbf { K } _ { n } ^ { e } \\mathbf { T } _ { n } ^ { e } } \\\\ { \\mathbf { f } _ { n } ^ { i } = \\mathbf { T } _ { n } ^ { e T } \\mathbf { f } _ { n } ^ { e } } \\\\ { \\mathbf { F } _ { n } ^ { i } = \\mathbf { T } _ { n } ^ { e T } \\mathbf { F } _ { n } ^ { e } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { T } _ { n } ^ { e } = [ \\begin{array} { c c c c c } { \\lambda _ { 1 1 } } & & & & { 0 } \\\\ & { \\hdots } & & & \\\\ & & { \\ddots } & & \\\\ & & & { \\ddots } & \\\\ & & & & { \\hdots } & \\\\ { 0 } & & & & & { \\ddots } \\end{array} ] \\qquad \\begin{array} { c c c c } { \\lambda _ { i j } } & & & { 0 } \\\\ & { \\lambda _ { i j } } & & { 0 } & \\\\ & & { \\hdots } & { \\cos \\theta _ { x x } } & { \\cos \\theta _ { x Y } } \\\\ & { 0 } & { \\cos \\theta _ { y X } } & { \\cos \\theta _ { y Y } } \\end{array} ]\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\theta$ 为单元局部坐标轴与整体坐标轴之间的夹角。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5结构总刚和节点力",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "转换到整体坐标系下，得到整体坐标系下的单元边界分节点，各个单元相应共同边界上的分节点相互叠加（定义域扩展)，就可易得到结构的总刚和节点力：",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\mathbf { K } _ { n } = \\sum _ { i } \\mathbf { K } _ { n } ^ { i } } \\\\ { \\displaystyle \\mathbf { F } _ { n } = \\sum _ { i } \\mathbf { F } _ { n } ^ { i } } \\\\ { \\displaystyle \\mathbf { f } _ { n } = \\sum _ { i } \\mathbf { f } _ { n } ^ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6算题验证 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "题1[7]．一两对边简支的平行四边形斜板，各边长为 $L$ ，斜交角为 ${ 6 0 } ^ { \\circ }$ ，如图5所示，其泊松比 $\\mu = 0 . 3$ ，其上作用有均布荷载 $\\boldsymbol { q }$ ，求该板中心处的挠度。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2e4ba286d667f164863f2ad0a6ca66f59b1817b9e66b7d1ff1c88fc1c69da51.jpg",
+        "img_caption": [
+            "图5.斜板",
+            "Fig. 5. A skew plate "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "就斜板中心的挠度求解问题，我们分别采用本文的多分辨率和传统的单分辨率三角形板壳单元有限元方法及区间三次B样条小波有限元法（BSWI）来求解。由于采用了全节点形函数，多分辨率三角形板壳单元计算模型为整体结构模型，即只需两个单元 $\\textcircled{1}$ 来模拟整个斜板，每个单元的分辨率常数分别取 $5 \\times 9$ 、 $7 \\times 1 3$ 和 $9 \\times 1 7$ ，其分辨率分别为L/8、L/12 和L/16,相应的整体斜板的分辨率常数分别为 $9 \\times 9$ 、 $1 3 \\times 1 3$ 和 $1 7 \\times 1 7$ ，斜板的分辨率与单元的相同，分别为L/8、L/12和 $\\mathrm { L } / 1 6$ ，如图6a，根据分辨率的定义，要求单元节点均匀分布；整体斜板节点等距布置，因此，一旦确定了分辨率常数，那么，节点数量和位置也就确定了；然而，由于传统有限元采用了分节点形函数，传统的三角形板壳单元建立的计算模型是离散模型，其离散三角形网格划分取对应的 $8 \\times 8$ 、 $1 2 \\times 1 2$ 和 $1 6 \\times 1 6$ ，如图7b，显然，这里的网格节点分布形式没有均匀性的要求，其位置是可以变动的；而区间三次B样条小波有限元法采用了样条尺度函数矢量积的方法构建了复杂的全节点形函数，所以该模型也是整体结构模型。其计算结果列于表1.。由表1.看出，我们可以通过调节多分辨率单元分辨率的大小来提高计算的清晰度，此单元相当于一张图片，节点等同于图片的像素，而传统单分辨率单元是通过增加网格的密度来提高计算精度，而精度与清晰度相当，但是与传统单分辨率单元有限元法相比较，多分辨率单元法有如下优势：多分辨率单元模型中的分辨率具有明确的数学意义，其取值具有坚实的数学基，而传统模型的网格划分主要依靠经验，无数学基，无任何数学意义。2）多分辨率整体模型中只有两个单元，因此，计算中矢量转换次数少（一节点转换一次)，而传统离散模型中单元数量多，矢量转换次数众多（一节点转换六次)，计算效率低。比较区间三次B样条小波有限元法分析结果的精度，多分辨率单元法的计算清晰度与其相当，但多分辨率单元法有如下特长1)",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/84ad89619f4160276af6dcac7fcbbc37c6912915da1d2a54cc0d9e577191e778.jpg",
+        "img_caption": [
+            "Fig. 6 The computational model for the skew plate "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "多分辨率单元模型中的分辨率具有明确的数学意义，其取值具有坚实的数学基，而区间三次B 样条函数节点数量的选取主要依靠经验，也无数学基，无任何数学意义。2）全节点形函数表达式简洁且具有Kronecker delta 特性，便于处理边界条件，从而提高了计算效率，而矢量积构造的全节点形函数表达式较为复杂，且有负值，不利于快速数值积分，再者，它没有Kroneckerdelta特性，因此需要对边界条件进行特殊处理，从而大大地影响了计算速度。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/739e62578452a4d591edc2ae2059b952292eefe9fe461b6957d06dcba2bf3df8.jpg",
+        "img_caption": [
+            "图6.斜板的计算模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/06db8e01e59488ab52d8424fe0e0b4eed9eafb0163435cd8e8088adf45651ff6.jpg",
+        "table_caption": [
+            "表1．斜板中心的挠度 $\\left( w / q L ^ { 4 } / 1 0 0 D _ { 0 } \\right)$ ",
+            "Table.1. the center point deflection $\\left( w / q L ^ { 4 } / 1 0 0 D _ { 0 } \\right)$ （204 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">单元类型</td><td rowspan=\"2\">挠度</td></tr><tr><td>本文单元</td><td>传统单元</td></tr><tr><td>(RL/单个单元，RL/斜板)</td><td>(网格)</td><td></td></tr><tr><td>5×9, 9×9</td><td>8×8</td><td>0.7920</td></tr><tr><td>7×13, 13×13</td><td>12×12</td><td>0.7937</td></tr><tr><td>9×17, 17×17</td><td>16×16</td><td>0.7930</td></tr><tr><td>BSWI(He,2006)[7]</td><td></td><td>0.7925</td></tr><tr><td>Analytical (Hota,1988)[7]</td><td></td><td>0.7945</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "题2[8]．一半径为 $\\boldsymbol { r }$ 厚度为 $t$ 周边简支或固支的圆形薄板，承受数值为 $q$ 的横向均布压力，其材料弹性模量为 $E$ ，泊松比为 $\\mu { = } 0 . 3$ ，求解该板圆心处的位移和弯矩。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(a)多分辨率整体模型 (b）单分辨率有限元离散模型 aA.multiresolution integrated model $\\textbf { \\textit { b } }$ A monoresolution discretized model ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "针对求解板圆心处位移和弯矩的问题，利用结构和荷载的对称性，可采用四分之一圆板进行结构计算。就具体的计算模型，我们可分别采用多分辨率整体模型，如图 $7 . \\ ( a )$ ，和传统的单分辨率有限元离散模型，如图7.（b)。多分辨率整体模型有两个三角形单元 $\\textcircled{1} \\textcircled{2}$ ，其每个单元的分辨率常数分别取 $2 \\times 5 . 4 \\times 7$ ；传统有限元离散模型网格相应地取 $3 \\times 6 . 7 \\times 1 3$ 。其固支（SS）和简支（SC）的计算结果列于表2。由表2可以看出，多分辨率三角形板壳单元法可通过调节分辨率来提高计算的清晰度，均布的节点数量越多，清晰度越高；两单元可在交界分节点处进行拼接成全节点，从而完成整体结构的计算。与传统有限元离散法相比较，多分辨率三角形板壳单元法使用单元数量少很多，因此，矢量转换次数大幅度减少，从而大大地提高了计算速度；另外，由于有数学基的支撑，用分辨率来确定节点的数量和位置，以及描述计算的精确性，与传统的网格划分和精度描述相比较，多分辨率三角形板壳单元法显得更加科学和高效。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c43ecc0a5250418c5c457eca9ca03e4969f4fa7d499f0f8ebc73fb1fb0011813.jpg",
+        "table_caption": [
+            "表2．圆板的中心挠度和弯矩",
+            "Table.2.the Central deflection and Bending moment for the circular slab "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RL/elem</td><td rowspan=\"2\">Mesh</td><td colspan=\"4\">Central deflection (α ×ql4/100 Do)</td><td colspan=\"2\">Bending moment (β ×ql²/10)</td></tr><tr><td></td><td>SS</td><td>SC Multi</td><td>Mono</td><td>SC (central) Multi</td><td>Mono</td></tr><tr><td>2×5</td><td>3×6</td><td>Multi 0.0145</td><td>Mono 0.0145</td><td>0.0638</td><td>0.0638</td><td>0.2103</td><td>0.2103</td></tr><tr><td>4×7</td><td>7×13</td><td>0.0153</td><td>0.0153</td><td>0.0637</td><td>0.0637</td><td>0.2073</td><td>0.2073</td></tr><tr><td>Analytical[8]</td><td></td><td>0.0156</td><td></td><td>0.0637</td><td></td><td>0.20625</td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "题3[9]．如图8所示折板，弹性模量 $E { = } 2 . 0 6 \\times 1 0 ^ { 5 } M p a$ ，泊松比 $\\mu = 0 . 3$ ，折板厚度 $\\scriptstyle t = 1 \\mathrm { m }$ 折板为方形板，边长 $L { = } 5 0 \\mathrm { m }$ 。受均匀外压 $q { = } 1 K N / m ^ { 2 }$ 作用，边界条件为AB、EF自由，其余各边简支。求解沿图8中AB和CD边的位移。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/90eaf9f456a00e4803bea8764e80a3f5a166e111e263cd9141373230fa5fcf3c.jpg",
+        "img_caption": [
+            "图7.1/4圆板的计算模型",
+            "Fig.7.The computational model for the1/4 circular slab ",
+            "图8．折板结构",
+            "Fig 8.A folded plate structure under the uniform loading q "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad0718717c33143c312342562e2de5535f000149d6ad53337368d794dcdff3b0.jpg",
+        "img_caption": [
+            "图9折板结构计算模型",
+            "Fig 9.The folded plate structural computational model "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本题分别采用本文的多分辨率三角形板壳单元和传统有限元中的单分辨率三角形板壳单元求解。为了满足单元内布点均匀，整体结构布点等距的分辨率要求，在该折板两底边上分别取中点C、D，由C、D点连接脊线中点O，这样，就将整个折板分成四个同等大小的正方形区域，每个正方形区域再以三角形划分，这样，折板就可采用8个多分辨率三角形板壳单元 $\\textcircled { 1 } \\textcircled { 2 } \\textcircled { 3 } \\textcircled { 4 } \\textcircled { 5 } \\textcircled { 6 } \\textcircled { 7 } \\textcircled { 8 }$ 组成的多分辨率整体计算模型，如图9a所示，每个单元的分辨率常数为 $3 \\times 7$ （ $\\scriptstyle \\mathbf { n = } 5$ ，而整个折板结构的分辨率常数是 $1 1 \\times 1 1$ ，整体结构节点均匀且等距分布，因此，其分辨率为 $5 \\mathrm { m }$ 。由于该模型域中节点是全节点，所以，它属于无网格整体计算模型，其计算结果对应图10a、图10b中的caseA曲线；单分辨率计算模型是由 $1 0 \\times 1 0$ 个传统单分辨率三角形板壳单元构成，如图9b所示，由于该模型域中节点是分裂节点，所以，它属于网格离散计算模型，其计算结果对应图 $1 0 \\mathrm { { a } }$ 、图10b中的caseB曲线；图10中的第三条曲线是文献[9]采用区间三次B样条小波有限元分析的结果，其计算模型是由矢量积构建的全节点形函数组合成的无网格整体模型，由于此全节点形函数没有Kroneckerdelta 特性，所以该数学模型在处理边界条件方面，需要转换矩阵，显得比较复杂，因此大大降低了该模型的计算效率，模型图可以参见文献[9]。由图 $^ { 1 0 a , \\mathbf { b } }$ 可以看出，三角形多分辨率板壳单元法既有有限元法的特长又有无网格法的优点，它既可以根据结构几何图形和受力特性来划分区域单元，又可以通过调节其单元分辨率的大小来调整单元节点的数量，从而调节单元的计算清晰度。虽然多分辨率单元模型与传统的单分辨率单元模型比较，其计算清晰度相当，但多分辨率模型比较传统的单分辨率模型具有以下优势：（1）多分辨率模型中的分辨率具有明确的数学意义，其取值具有坚实的数学基，而传统模型的网格划分主要依靠经验，无数学基，无任何数学意义。（2）由于域内是全节点，多分辨率整体模型中单元节点刚度与等效力可以直接自动生成而传统离散模型的单元节点为分节点，所以，其每个节点刚度与等效力都需进行人工叠加组合；（3)与传统单元的碎片化模型相比较，多分辨率单元的整体化模型中，单元数量少，所以矢量转换次数少，计算效率高。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1058cb213ad2e754b1f590a030d5c6a7312e30fc3d17138858ecd0fcea3a8d8.jpg",
+        "img_caption": [
+            "图10．折板结构位移反应曲线",
+            "Fig.1o.Thefolded plate structural displacementresponsecurve "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7结论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本文提出了多分辨率三角形板壳单元法，和传统板壳三角形单元有限元法相比较，本文方法有如下特点：",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1）提出了三角形板壳单元的分节点和全节点的概念，并基于传统三角形板壳单元的分节点形函数，提出一种函数三角形定义域的延拓方法，构建了基本全节点形函数，该函数具有Kroneckerdelta特性，便于边界条件的处理，同时基本全节点形函数的连续性为传统有限元法中节点刚度可由共同节点的单元刚度叠加得到的处理方法提供了坚实的理论依据。  \n2）采用基本全节点函数的收缩和平移，构造了基函数，也就是多分辨分析的简洁而坚实的数学基，并由此形成了多分辨率单元的位移子空间序列，并引入了分辨率常数RL，从而建立了理性的多分辨分析概念，实现了结构理性化的多分辨数值分析。  \n3）传统三角形板壳单元是单分辨率单元，为本文多分辨率三角形板壳单元的一个特例；  \n4）分辨率定义了区域内节点的等距均匀分布。结构数值分析清晰度的高低是由分辨率大小决定的而非网格的密疏；高清晰度单元的节点数多于低清晰度单元;  \n5）本文三角形多分辨率板壳单元方法计算效率高于相应的其它有网格或无网格板壳单元有限元法；多分辨率单元法以清晰度取代了其它方法的精度，以分辨率代替了网格或条带，以理性多分辨分析替换了非理性多分辨分析，以全节点替代了分节点，从此，结构的计算模型实现了从碎片化（离散化）到整体化的转变;  \n6）随着多分辨率单元法[10,1,12,13]的提出，理性多分辨分析将会在工程实际中得到广泛的应用。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1] ZIENKIEWICZ.O.C.,TAYLOR.R.L. The Finite Element Method[M]. seventh ed.，Butterworth -Heihemann,London.2013   \n[2] BELYTSCHKO T.，LU Y.Y., GU L. Element - free Galerkin methods[J], International Journal for NumericalMethodsin Engineering.1994,37:229-256.   \n[3] KRYSL.P,BELYTSCHKO.T， SFLIB:A library to compute the element free Galerkinshape functions[J],Computer Methods in Applied Mechanics and Engineering,2001,190(15-17): 2181-2205   \n[4] KO.J, KURDILA A J,PILANT M S.A class of finite element methods based on orthonormal, compactly supported wavelet[J]. Computational Mechanics.1995,16:235-244.   \n[5] HUGHES T.J.R,COTTRELL J.A.，BAZILEVS Y， Isogeometric analysis: CAD， finite elements, NURBS,exact geometry and mesh refinement[J]. Computer Methods in Applied Mechanics and. Engineering.2005,194(39-41): 4135-4195.   \n[6] TOSHNIWAL D,SPELEERS H, HIEMSTRA R.R,HUGHES T.J.R,Multi-degree smooth polar splines: A framework for geometric modeling and isogeometric analysis[J],Computer Methods in Applied Mechanics and Engineering,2017,316(Apr),1005-1061.   \n[7] HOTA V.S.，RAO GANGA.， CHAUDHARY V.K.，Analysis of skew and triangular plates in bending[J].Comp& Struct,1988.28,223-235.   \n[8]王海霞，岑松完全无闭锁厚薄板通用弯曲三角形单元[J].南通大学学报， 2003,2(2):5-11.(WANG-.Haixia, CEN-Song..Locking-freethickplatebendingtriangular element[J].Journal of Nantong University,2003,2(2) :2-5.(in Chinese))   \n[9]何正嘉，陈雪峰，李兵，等．小波有限元理论及其应用[M].北京：科学出版社，2006.(HE-Zhengjia, CHEN-Xuefeng，LI- Bing，etc. Theory and engineering application of wavelet finite element method[M].Beijing:Science Press 2006 (in Chinese))   \n[10] XIA Y M,LiU Y X,CHEN S L,et al. A rectangular shell element formulation with a new multi-resolution analysis[J].Acta Mechnica Solida Sinica,2014 27(6): 612-625.   \n[11] XIA Y M, CHEN S L. A hexahedron element formulation with a new multiresolution analysis[J]. Science China Physics,Mechanics,Astronomy,2015,58(1): 014601-10.   \n[12]夏逸鸣，唐敢，江世永．多分辨率 Timoshenko 梁单元[J]．固体力学学报，2014,35（1)： 57-62.(XIA-Yiming，TANG-Gan, JIANG Shiyong.Multiresolution Timoshenko beam element[J]. ChineseJournalofSolidMechanics.2014,35(1):57-62.(in Chinese)   \n[13] 夏逸鸣．多分辨率四边形板壳单元有限元法[J].中国科学（物理学、力学、天文学）,2017, 47(8）:084601-12 (XIA-Yiming.Multiresolution finite element based on a new quadrilateral shell element[J]. Science China-Phy Mech Astron,2017,47(8):084601-12.(in Chinese)) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A multiresolution triangular shell element method ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "XIA-Yiming ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1.Schoolofcivilaviation,Nanjing UniversityofAeronauticsandAstronautics,Nanjing 21l1o6,P.R.China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Initially in accordance with domain scope of a traditional node shape function,a novel concept of a split/full node is presented.Based ona split node shape function fora triangular shell element,the basic full node shape function is constructed by extending the split node shape function to other three quadrants around the coordinate zero point anda displacement subspace sequence is constituted out of scaling and shifting of the basic full node shape function on the element domain，which brings about a simple,clear and rigorous mathematical basis for the multiresolution analysis (MRA).After that,the multiresolution triangular shell element and method is formulated through applying the minimum potential energy principle. Hence,the MRA concept is establishedand the resolution level (RL)for the element is introduced.Finaly,through anumerical example,the following conclusions is drawn:The RLdefines an equall-spaced uniform node distribution layout.The traditional 3-node triangular shellelementand method is essentially a mono-resolution oneand alsoa special case of the proposed element and method.Due to the full nodes in the element domain,the structural model for a numerical analysis by the proposed multiresolution element is an integrated one by RL, nota discretized one by mesh justas by the conventional monoresolution element.The proposed finite element method is a rational MRA method and overperforms allthose irrational MRA methods in numerical analysis eficiency,also can consolidate those irrational MRAmethods.Theclarityofa structuralanalysis is defined bythe RL,not mesh.The continuityof the full node shape functions unveils the secretes behind artificial assemblage of the corresponding items of the stiffness，mass matricesand the equivalent node loading vectors at common nodes by the conventional quadrilateral shell element. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Keywords:triangular shell element；split node；full node；displacement subspace sequence；rational multiresolution analysis; resolution level (RL) ",
+        "page_idx": 17
+    }
+]

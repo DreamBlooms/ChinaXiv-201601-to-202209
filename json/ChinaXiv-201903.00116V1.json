@@ -1,0 +1,615 @@
+[
+    {
+        "type": "text",
+        "text": "基于滑窗小波和二点法的电压暂降检测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵荪　应展烽　马啸张继云 石鸿飞（南京理工大学能源与动力学院南京 210094）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a543560c7c8c63ffb9fcbc9204b39bcf1aaaf78e6cc9c53d0db9a3e3e97656d0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵荪男 1995年生，硕士研究生，研究方向为能源管理系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对小波变换电压暂降检测算法在谐波干扰条件下的不足，提出了一种基于滑窗小波和二点法的电压暂降算法。该算法首先通过滑窗小波滤除暂降信号中的谐波分量，得到电网基波信号；再利用二点法计算电压暂降幅值比及相位跳变角。实例仿真表明，所提算法不存在因小波系数最大模难以识别而导致的暂降特征量无法计算的问题，能够在谐波干扰条件下准确地检测出电压暂降特征参数，且相关检测结果延迟小于一个工频周期，满足实际工程需要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：滑窗小波二点法 电压暂降 谐波干扰 中图分类号：TM935.22 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on Detection of Voltage Sag Based on Sliding Window Wavelet and Two Points Method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6df00ea4db2c4fd5bf4fa1fb5e6e956fe73b1a9bc853d84139f610c2ae18cba.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao SunchongYing ZhanfengMa Xiao Zhang JiyunShi Hongfei (Nanjing University of Science and TechnologyNanjing210094 China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应展烽男 1982年生，博士，讲师，研究方向为高压架空输电线路状态监测及高压电气设备热动态特性分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A algorithm of voltage sag detection based on sliding window wavelet and two points method was proposed for overcome the disadvantage of wavelet transform in the condition of harmonics interference.According to the proposed algorithm, the fundamental voltage signal can be obtained by using sliding window wavelet to filter harmonic component. Then, the amplitude ratio and phase jump information of voltage sag are detected by Two Points method. Simulation results show that the problem of voltage sag characteristic parameter calculation, which caused by wavelet coefficient maximum norm is hardly to identification, does not exist when the proposed algorithm is adopted. The proposed algorithm can meet the needs in engineering due to the voltage sag characteristic parameter can be detected under the condition of harmonics interference and the delay of detecting results less than one cycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Sliding window wavelet, two-points algorithm, voltage sag, harmonics interference ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着电力负荷增长，电压暂降引起的电网暂态扰动已引起广泛关注[1-3]。尤其在配网中，电压暂降导致的电网故障可占故障总数的半数以上。因此，有必要研究准确的电压暂降检测算法，以实现暂降源的正确判断和电能质量的有效改善。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，电压暂降检测的常用算法有RMS法、求导法、瞬时无功率法和短时傅里叶变换法等。其中，RMS法通过计算每个周波电压有效值来判断暂降的发生，是一种经典检测法，具有原理简单，计算量小等优势。但该方法对谐波和噪声较为敏感，精度有限，且无法描述暂降后的电压相角变化[4]。求导算法同样具有计算量小、易实现的优势，但其计算精度亦会受到谐波和噪声干扰，且还会受到采样频率的影响[5-6]。瞬时无功功率法在dq坐标或 $\\alpha \\beta$ 坐标中计算电压暂降参数，精度较高，但在单相或三相不对称系统中应用时存在一定相位延迟，且算法需进行低通滤波，实时性会进一步下降[7-9]。短时傅里叶变换法将非平稳信号视为一系列短时平稳信号的叠加，其短时性通过时间窗来获得，在合适的窗函数条件下，所得结果具有较高精度和实时性[10-11]。该算法缺陷在于窗口形状一经确定便无法改变，这相当于使用固定尺度对信号进行分析，故对于具有瞬变特性的电压暂降信号，窗函数选择较为困难[12],具有一定局限性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，小波变换方法被广泛应用于电能质量分析问题中[13-14]。小波变换可通过尺度参数和位移参数的共同变化，改变小波窗口的大小及形状。信号频带越高，分析窗口越小，时域分辨率越高。因此，小波变换法的优势在于能在时频两域良好反映信号的局部特性，准确提取信号特征，尤其适合分析电网的暂态扰动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，小波变换在电压暂降检测中应用时，也存在一定缺陷。这是因为电压暂降时刻通常利用小波分解后的高频小波系数或其模极大值来确定，电压暂降幅值和相位等特征参量也由此得到[15-16]。但是，电网电压信号往往含有谐波分量，而电压暂降发生时刻亦是随机的，故带有谐波的电压暂降信号频率特性较为复杂。此时，电压暂降引起的小波系数变化可能难以辨别，造成暂降定位能力减弱[10]，进而导致暂降特征量计算困难。因此，有必要对基于小波变换的电压暂降检测法加以改进，来克服上述缺陷。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，本文提出了基于滑窗小波和二点算法的电压暂降检测方法，该方法并不利用高频小波系数检测暂降参数，而是利用滑窗小波对电压信号进行滤波，排除谐波干扰，再通过二点算法计算电压暂降比及相角变化量。仿真结果表明，该方法能够在谐波干扰条件下有效检测电压暂降过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2基于小波变换的电压暂降检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波变换可将信号 $f \\left( t \\right)$ 通过不同尺度分解至尺度空间和小波空间中。此时，信号可用多分辨率公式表示",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( t ) = \\sum _ { k } a _ { j } ( k ) \\varphi _ { j , k } ( t ) + \\sum _ { j } \\sum _ { k } d _ { j } ( k ) \\varPsi _ { j , k } ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $a _ { j } ( k )$ 为概貌系数； $d _ { j } ( k )$ 为小波系数； $\\varphi _ { j , k } ( t )$ 为尺度函数； $\\boldsymbol { \\varPsi } _ { j , \\boldsymbol { k } } ( t )$ 为小波函数；下标 $j$ 为小波分解层数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（1）中， $\\varphi _ { j , k } ( t )$ 和 $\\boldsymbol { \\varPsi } _ { j , \\boldsymbol { k } } ( t )$ 为尺度空间和小波空间的标准正交基。 $a _ { j } ( k )$ 和 $d _ { j } ( k )$ 可由如下分解公式求解",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { a _ { j + 1 } ( k ) = \\displaystyle \\sum _ { n } h ( n - 2 k ) a _ { j } ( n ) } } \\\\ { { d _ { j + 1 } ( k ) = \\displaystyle \\sum _ { n } g ( n - 2 k ) d _ { j } ( n ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $h ( n )$ 和 $g ( n )$ 分别为小波变换的低通和高通滤波器系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波分解后，第 $j$ 层的概貌系数可由第 $j + 1$ 层的概貌系数和小波系数重构得到",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { j } ( n ) = \\sum _ { k } h ( n - 2 k ) a _ { j + 1 } ( k ) + \\sum _ { k } g ( n - 2 k ) d _ { j + 1 } ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述小波变换分解及重构过程的示意图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e60cf064d52f8361b32154d0f7a1bb08724d884537df13e433eada4d6a9c0930.jpg",
+        "img_caption": [
+            "图1小波分解及重构示意图",
+            "Fig.1Schematic diagram of wavelet decomposition and waveletreconstruction "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经过合理的层数划分和采样频率选取，小波变换的各层小波系数能够有效反映电网电压谐波分量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当电网电压发生暂降时，原始电压信号中等效于叠加了一个高频分量，因此通过检测小波系数的突变情况可以有效定位暂降时刻，从而实现电压暂降检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，电网电压暂降时刻是随机的，电网谐波分量的频率与相位亦是随机出现的，因此暂降引起的高频分量可能与谐波分量相互干扰，造成小波系数突变点难以识别，进而导致电压暂降检测精度下降，甚至检测失效。此为小波变换电压暂降检测的主要缺陷。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3基于滑窗小波和二点算法的电压暂降 检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1电压暂降检测二点法原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为克服小波变换电压暂降检测的不足，首先提出一种暂降检测的二点法，下面推导算法原理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设单相电压暂降前为理想电压 $u ( t )$ ，则有 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ( t ) = \\sqrt { 2 } U \\sin { ( \\omega t + \\varphi ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $U$ 为电压有效值； $\\omega$ 为角频率； $\\varphi$ 为初相角。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "暂降后电压变为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ( t ) = k \\sqrt { 2 } U \\sin { ( \\omega t + \\varphi + \\phi ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $k$ 为电压暂降的幅值比； $\\phi$ 为电压暂降的相位跳变角。 $k$ 和 $\\phi$ 即为电压暂降特征量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设相邻两个采样时刻的电网电压信号 $u _ { 1 } ( t )$ 及$u _ { 2 } ( t )$ 表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { u _ { 1 } ( t ) = k \\sqrt { 2 } U \\sin { ( \\omega t + \\varphi + \\phi ) } } } \\\\ { { { } } } \\\\ { { u _ { 2 } ( t ) = k \\sqrt { 2 } U \\sin { ( \\omega ( t + \\Delta t ) + \\varphi + \\phi ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = { \\binom { x _ { 1 } } { x _ { 2 } } } = { \\binom { k \\cos \\varphi } { k \\sin \\varphi } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "再令",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\alpha = \\cos \\left( \\omega \\Delta t \\right) } \\\\ { \\beta = \\sin \\left( \\omega \\Delta t \\right) } \\\\ { A = \\sqrt { 2 } \\sin \\left( \\omega t + \\varphi \\right) } \\\\ { B = \\sqrt { 2 } \\cos \\left( \\omega t + \\varphi \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $A$ 和 $B$ 可由锁相环得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $u _ { 1 } ( t )$ 和 $u _ { 2 } ( t )$ 进行三角变换，得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { H } \\pmb { X } = \\pmb { U }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = \\left( \\begin{array} { c c } { { A } } & { { B } } \\\\ { { C } } & { { D } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { C = A \\alpha + B \\beta } } \\\\ { { \\quad D = B \\alpha - A \\beta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求解式 (4)，得 $x _ { 1 }$ 和 $x _ { 2 }$ ，进而得到 $k$ 和 $\\phi$ ，完成电压暂降特征量的求解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面分析一下式（4）的有解条件。若系数矩阵$H$ 不满秩，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA D - B C = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "解得： $\\beta = 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（4）可得增广矩阵",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { [ H | U ] = \\left( \\begin{array} { c c c } { A } & { B } & { u _ { 1 } ( t ) / U } \\\\ { A \\alpha } & { B \\alpha } & { u _ { 2 } ( t ) / U } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 $\\alpha$ 和 $\\beta$ 的定义，当 $\\beta = 0$ 时，必有 $\\alpha = 1$ 。那么，当 $u _ { 1 } ( t ) = u _ { 2 } ( t )$ 时，增广矩阵与系数阵等秩，但不满秩，式（4）有无穷解；当 $u _ { 1 } ( t ) \\neq u _ { 2 } ( t )$ 时，增广矩阵与系数阵不等秩，式（4）无解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当且仅当 $\\beta \\neq 0$ 时，式（5）有唯一解",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { x _ { 1 } = - \\frac { B u _ { 1 } ( t ) \\alpha - A u _ { 1 } ( t ) \\beta - B u _ { 2 } ( t ) } { 2 U \\beta } } \\\\ { x _ { 2 } = - \\frac { A u _ { 2 } ( t ) - A u _ { 1 } ( t ) \\alpha - B u _ { 1 } ( t ) \\beta } { 2 U \\beta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式 (3)，可得电压暂降特征量",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle k = \\sqrt { x _ { 1 } ^ { 2 } + x _ { 2 } ^ { 2 } } } \\\\ { \\displaystyle \\phi = \\arctan \\left( \\frac { x _ { 2 } } { x _ { 1 } } \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 $\\beta \\neq 0$ 条件，易得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta t \\neq n / ( 2 f )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $f$ 为电网频率， $n = 0 , 1 , 2 \\cdots$ 。可见，只要采样周期满足式 (7)，即可求得特征量。对于电网工频信号而言， $\\Delta t$ 通常远小于 $f$ ，不构成无穷解条件，而满足唯一解条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从算法原理上看，二点法仅需两个采样点即可计算电压暂降特征量，具有良好快速性。但由于算法是基于理想正弦电压推导的，因此电网谐波必然会降低其计算精度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2滑窗小波变换与二点算法结合的电压暂降检测 原理 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "谐波会对电压暂降检测的小波变换法和二点法的精度造成影响，为此提出一种基于滑窗小波和二点法的电压暂降检测算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该算法的思想是利用小波变换的时频域分析能力滤除电压谐波干扰，提取基波信号，再通过二点法对暂降特征量进行检测。由于小波变换需要一个工频周期采样数据参与运算，这意味着电压暂降信号的基波检测将至少延迟一个工频周期，因此可在小波变换中加入滑动时间窗，使之构成滑窗小波[18]。滑窗小波能在时域中对采样信号进行滑动加窗，使每个时刻的电压采样值均与之前采样值构成小波变换初始信号，从而实现电压暂降特征量的检测延迟小于一个工频周期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于滑窗小波和二点法的电压暂降检测实现流程如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a249568248efbfc2ef22f1120bce8cdcb0b33dfdd49369c8d31585e4932b8475.jpg",
+        "img_caption": [
+            "图2基于滑窗小波和二点法的电压暂降检测实现流程 Fig.2Implementation procedure for voltage sag detection based on sliding window wavelet and two points method "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实例仿真与结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1仿真信号",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设一组带有谐波的电压暂降仿真信号如下$\\begin{array} { c } { { u ( t ) = \\sqrt { 2 } U _ { \\mathrm { m } } \\sin { \\left( \\omega t + \\varphi _ { \\mathrm { m } } \\right) } + 3 0 \\sqrt { 2 } U _ { \\mathrm { m } } \\sin { \\left( 3 \\omega t - \\pi / 3 \\right) } + } } \\\\ { { 1 5 \\sqrt { 2 } U _ { \\mathrm { m } } \\sin { \\left( 5 \\omega t + \\pi / 6 \\right) } } } \\end{array}$ 式中， $U _ { \\mathrm { m } }$ 为基波电压幅值， $\\varphi _ { \\mathrm { m } }$ 为基波电压相角， $\\omega$ 为角频率。若电压暂降发生时刻为 $t _ { \\mathrm { d } }$ ，电压恢复时刻为 $t _ { \\mathrm { r } }$ ， $U _ { \\mathrm { m } }$ 初始值为 $2 2 0 \\mathrm { V }$ ， $\\varphi _ { \\mathrm { m } }$ 初始值为 $- \\pi / 3$ rad,电压暂降幅值比 $k$ 为0.5，暂降相位跳变角 $\\phi$ 为$- \\pi / 6$ rad，则暂降发生前后的电压幅值及相位可表示如下",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { m } } = \\left\\{ \\begin{array} { c c } { 2 2 0 } & { t < t _ { \\mathrm { d } } , t > t _ { \\mathrm { r } } } \\\\ { 1 1 0 } & { t _ { \\mathrm { d } } \\leqslant t \\leqslant t _ { \\mathrm { r } } } \\end{array} \\right. , \\quad \\varphi _ { \\mathrm { m } } = \\left\\{ \\begin{array} { c c } { - \\pi / 3 } & { t < t _ { \\mathrm { d } } , t > t _ { \\mathrm { r } } } \\\\ { - \\pi / 2 } & { t _ { \\mathrm { d } } \\leqslant t \\leqslant t _ { \\mathrm { r } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2小波变换电压暂降检测的仿真分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先利用式（8）所示的仿真信号验证小波变换电压暂降检测的不足。为使谐波和电压暂降对仿真信号的时频特性造成影响，仿真在如表1所示的不同 $t _ { \\mathrm { d } }$ 和 $t _ { \\mathrm { r } }$ 条件下进行。仿真时，采样频率为$3 . 2 \\mathrm { k H z }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1e26e6aec3b648438797bf12ace7ae43ecd1581ec92026b659c5f093dba3ba7.jpg",
+        "table_caption": [
+            "表1电压暂降和恢复时刻的取值 ",
+            "Tab.1The time of voltage sag and recovery "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>暂降时刻td/s</td><td>恢复时刻t/s</td></tr><tr><td>Case1</td><td>0.0766</td><td>0.2263</td></tr><tr><td>Case2</td><td>0.0781</td><td>0.2278</td></tr><tr><td>Case3</td><td>0.0797</td><td>0.2294</td></tr><tr><td>Case 4</td><td>0.0813</td><td>0.2309</td></tr><tr><td>Case 5</td><td>0.0825</td><td>0.2322</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一层小波变换后的系数 $D _ { 1 }$ 高频分量最为丰富，因此通常用该层小波系数最大模值来定位电压暂降过程。图3给出了不同 $t _ { \\mathrm { d } }$ 和 $t _ { \\mathrm { r } }$ 条件下，利用dB30小波得到的小波系数 $D _ { 1 }$ 仿真结果。易见，在图 $3 \\mathrm { a } \\sim 3 \\mathrm { d }$ 中，小波系数在电压暂降和恢复时刻均有明显突变。但在图3e中，小波系数突变点却在暂降信号频率分量与谐波频率分量的相互影响下，变得难以辨识，因此无法准确定位电压暂降和恢复时刻，进而导致暂降特征参数无法求解。这验证了传统小波变换检测方法在谐波干扰条件下，可能存在失效现象。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a505bd9d8624ccc29e59904a6fd0f39a0d6d7b459fda2eab816704596e37ea5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0d50fe5bf452e087eba7e02c5844555e0f8352d8e1d4fd17c44d5f256365ed3.jpg",
+        "img_caption": [
+            "图3不同 $t _ { \\mathrm { d } }$ 和 $t _ { \\mathrm { r } }$ 条件下的小波变换电压暂降检测结果 Fig.3The results of voltage sag detection based on wavelet transform with the various $t _ { \\mathrm { d } }$ and $t _ { \\mathrm { r } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3二点法电压暂降检测的仿真分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "再对电压暂降检测二点法的特点进行仿真分析。首先去除暂降仿真信号中的谐波干扰，在无谐波条件下分析算法优势。图4中的仿真结果表明当电压发生暂降和恢复时，二点法所得暂降幅值比及相位跳变角检测相对误差分别仅为 $0 . 2 8 \\%$ 和 $0 . 3 5 \\%$ ，且几乎无延迟。这验证了算法在电网无谐波时的快速性和精度优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e90f2b556eba7741e6bdbf7f84544024e1b23292f255b81a85e2c63477149059.jpg",
+        "img_caption": [
+            "图4无谐波干扰条件下的二点法电压暂降检测结果 Fig.4The results of voltage sag detection based on two points method without the harmonic interference "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "加入谐波干扰后的二点法暂降特征量检测结果如图5所示。可见，在暂降信号含有谐波条件下，暂降幅值比及相位跳变角检测结果存在严重误差，最大误差分别可达 $4 2 . 2 5 \\%$ 和 $8 3 . 7 1 \\%$ 。这表明二点法在谐波干扰环境下不应单独使用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1553d347a92a3b213560092b698d9bc40dd9ef08881a16b18c04b61178282a3a.jpg",
+        "img_caption": [
+            "图5有谐波干扰条件下的二点法电压暂降检测结果 Fig.5The results of voltage sag detection based on two points method with the harmonic interference "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4滑窗小波与二点法电压暂降检测的仿真分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后，利用滑窗小波与二点法对仿真信号的电压暂降过程进行检测。图6给出了电压暂降幅值比及相位跳变角仿真结果。为便于分析，仿真结果图中还给出了滑窗小波得到的电压基波分量。对图6分析可知，当电压发生暂降或恢复之后，一个工频周期之内，算法即可准确地跟踪暂降幅值比及相位跳变角。这表明本文方法能够消除谐波对二点法精度的影响，提高暂降特征量计算精度。尽管滑窗小波的加入使算法产生小于一个周期的延迟，但检测结果已可满足大部分实际工程的需要。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/82b2103bc5d245c02572d0219129151cbaef173320c9babdb7b39bc2a1a94b3b.jpg",
+        "img_caption": [
+            "(a）暂降幅值比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dec37bf97b6d1c685b066eb3ebb319aada98da7d087739187607f5df71827d02.jpg",
+        "img_caption": [
+            "图6基于滑窗小波与二点法的电压暂降检测结果 Fig.6The results of voltage sag detection based on sliding window wavelet and two points method "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2给出了不同 $t _ { \\mathrm { d } }$ 和 $t _ { \\mathrm { r } }$ 条件下，基于滑窗小波与二点法计算得到的电压暂降特征量平均相对误差。分析可见，本文所提算法在 $t _ { \\mathrm { d } }$ 和 $t _ { \\mathrm { r } }$ 不同取值情况下，均能得到高精度检测结果，不存在因小波系数最大模难以辨识而导致的暂降特征量无法计算问题，相对传统小波变换方法而言，可靠性优势明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2不同 $t _ { \\mathrm { d } }$ 和 $t _ { \\mathrm { r } }$ 条件下，基于滑窗小波与二点法的电压暂降检测误差",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4692bd4b05d81c1da9c3696306f8c936addad64f4ac96de1459e550c60f5adc4.jpg",
+        "table_caption": [
+            "Tab.2The errors of voltage sag detection based on sliding window wavelet and two points method with the various td and tr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>暂降时刻td/s</td><td>恢复时刻t/s</td><td>k误差(%)</td><td>误差(%)</td></tr><tr><td>Case 1</td><td>0.0766</td><td>0.2263</td><td>0.18</td><td>0.12</td></tr><tr><td>Case 2</td><td>0.0781</td><td>0.2278</td><td>0.24</td><td>0.14</td></tr><tr><td>Case 3</td><td>0.0797</td><td>0.2294</td><td>0.16</td><td>0.23</td></tr><tr><td>Case 4</td><td>0.0813</td><td>0.2309</td><td>0.27</td><td>0.12</td></tr><tr><td>Case 5</td><td>0.0825</td><td>0.2322</td><td>0.24</td><td>0.25</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对小波变换电压暂降检测算法的不足，提出了一种基于滑窗小波和二点法的电压暂降算法。实例仿真表明，所提算法不存在因小波系数最大模难以辨识而导致的暂降特征量无法计算问题，能够在谐波干扰条件下准确地计算电压暂降幅值比及相位跳变角，检测结果延迟小于一个工频周期，满足实际工程需要。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 程浩忠，艾芊，张志刚，等．电能质量[M]．北京：清华大学出版社，2006：405-406.[2] 肖先勇，王希宝，薛丽丽，等．敏感负荷电压凹",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "陷敏感度的随机估计方法[J]．电网技术，2007, 31(22): 30-33. Xiao Xianyong,Wang Xibao,Xue Lili, et al. A method to stochastically estimate voltage sag sensitivity of sensitive equipments[J]. Power System Technology,2007,31(22): 30-33.   \n[3] 陶顺，肖湘宁，刘晓娟．电压暂降对配电系统可 靠性影响及评估指标的研究[J]．中国电机工程学 报，2005，25(21):63-69. Tao Shun, Xiao Xiangning, Liu Xiaojuan. Study on distribution reliability considering voltage sag and acceptable indices[J]. Proceedings of the CSEE, 2005,25(21): 63-69.   \n[4] Bollen M. Understanding power quality problems: voltage sags and interruptions[M]. New York: Wiley IEEE Press,2000.   \n[5] 张庆超，肖玉龙．一种改进的电压暂降检测方法[J]. 电工技术学报，2006，21(2)：121-126. Zhang Qingchao, Xiao Yulong. An improved detection method of voltage sag[J]. Transactions of China Electrotechnical Society, 2006, 21(2): 121-126.   \n[6] 侯世英，刘早晨，嵇丽明，等．单相电压骤降特征 量的求导检测算法[J]．电网技术，2009，33(14): 52-61. Hou Shiying,Liu Zaochen, Ji Liming, et al. A derivation algorithm to detect characteristic quantity of single-phase voltage sag[J]. Power System Technology, 2009,33(14): 52-61.   \n[7] 杨淑英，杜彬．基于dq变换的动态电压恢复器 综合求导检测算法[J]．电力系统自动化，2008, 32(2): 40-44. Yang Shuying,Du Bin.A novel integrated derivation detection algorithm based on dq transformation for the dynamic voltage restorer[J]. Automation of Electric Power Systems,2008,32(2): 40-44.   \n[8] Middlekauff S W, Collins E R Jr. System and customer impact: considerations for series custom power devices[J]. IEEE Transactions on Power Delivery,1998,13(1): 278-282.   \n[9] 赵国亮,刘宝志,肖湘宁,等．一种无延时的改进d-q 变换在动态电压扰动识别中的应用[J]．电网技术, 2004， 28(7): 53-57. Zhao Guoliang,Liu Baozhi, Xiao Xiangning, et al.Application of improved d-q transform without time delay in dynamic voltage disturbance identification[J]. Power System Technology, 2004, 28(7): 53-57.   \n[10] 赵凤展，杨仁刚．基于短时傅里叶变换的电压暂降 扰动检测[J]．中国电机工程学报，2007，27(10)： 28-34，109. Zhao Fengzhan, Yang Rengang. Voltage sag disturbance detection based on short time fourier transform[J].Proceedings of the CSEE,2007, 27(10): 28-34,109.   \n[11] Gu Y H, Bollen H J. Time-frequency and time-scale domain analysis of voltage disturbances[J].IEEE Transactions on Power Delivery, 2000,15(4):1279- 1284.   \n[12] 周林，吴红春，孟婧，等．电压暂降分析方法研究 [J]．高电压技术，2008，34(5)：1010-1016. Zhou Lin,Wu Hongchun,Meng Jing,et al. Study of the voltage sag analysis methods[J]. High Voltage Engineering,2008,34(5):1010-1016.   \n[13] Karimi M,MokhtariH,Iravani MR.Wavelet based on-line disturbance detection for power quality applications[J]. IEEE Transactions on Power Delivery,2000,15(4): 1212-1220.   \n[14] 严居斌，刘晓川，杨洪耕，等．基于小波变换模 极大值原理和能量分布曲线的电力系统短期扰动 分析[J]．电网技术，2002，26(4)：16-18，33. Yan Jubin, Liu Xiaochuan, Yang Honggeng,et al. Analysis of short-term power system disturbance based-on module maximum principle and energy distribution curve[J]. Power System Technology, 2002,26(4): 16-18, 33.   \n[15] 鲁波涌，黄文清．结合小波变换和能量算子的电压 暂降检测方法[J]．电工技术学报，2011，26(5)： 171-177. Lu Boyong,Huang wenqing.Hybrid waveletenergy operator method for voltage sag detection[J]. Transactions of China Electrotechnical Society, 2011, 26(5): 171-177.   \n[16] 魏荣进，江亚群，黄纯，等．基于小波变换的电压 暂降实时检测方法[J]．计算机工程及应用，2013, 49(11): 252-256. Wei Rongjin, Jiang Yaqun, Huang Chun,et al. Voltage sag real-time detecting method based on wavelet transform[J]. Computer Engineering and Applications,2013,49(11): 252-256.   \n[17] 吴奇珂，陈昕儒，吴少臣．基于蒙特卡洛的电 网节点电压暂降风险分析[J]．电气应用，2016, 36(3): 51-59.   \n[18] 岑朝辉，魏蛟龙，蒋睿．Mallat小波快速变换与 IDRNN 在卫星实时故障检测与识别中的应用[J]. 北京科技大学学报，2012，34(1)：90-95. Cen Zhaohui,Wei Jiaolong,Jiang Rui.Application of mallat wavelet fast transforms and IDRNN in real-time fault detection and identification for satellites[J]. Journal of University of Science and Technology Beijing,2012,34(1): 90-95. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,296 @@
+1 21日龄断奶对仔猪肠道形态、肠道通透性及肠黏膜屏障的影响
+
+2 夏　冰孟庆石　解竞静 吴维达 冯潇慧 唐湘方 张宏福\*
+
+3 （中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）  
+4摘要：本试验旨在研究21日龄断奶对仔猪肠道形态、肠道通透性及肠黏膜屏障的影响。  
+5 采用 $2 { \times } 3$ 双因子完全随机试验设计，组别（哺乳组、断奶组）和日龄（22、24和28日龄）  
+6 为2个主效应。选取6窝体况相近的健康大白仔猪，每窝选取6头平均体重为（ $\stackrel { } { \cdot } 6 . 1 { \pm } 0 . 2 \stackrel { . } { }$ ）kg  
+7 的仔猪，随机分为2组，分别为断奶组和哺乳组，每组18头，分别于22、24和28日龄时  
+8 屠宰，测定其生长性能、肠道形态、肠道通透性及肠黏膜屏障。结果表明：1）28日龄时，  
+9 断奶组仔猪的末重和平均日增重均极显著低于哺乳组( $_ { \cdot } P { < } 0 . 0 1 \$ )。2）组别和日龄对仔猪的空  
+10 肠隐窝深度和绒毛高度/隐窝深度、回肠绒毛高度有极显著交互作用（ $P { < } 0 . 0 1 \rangle$ ；断奶组的空  
+11 肠、回肠隐窝深度极显著高于哺乳组（ $_ { . } { P } { < } 0 . 0 1 \$ )，空肠、回肠绒毛高度和绒毛高度/隐窝深度  
+12 极显著低于哺乳组（ $_ { - P < 0 . 0 1 ) }$ ；哺乳组28日龄时的空肠绒毛高度/隐窝深度极显著高于 22 和  
+13 24日龄时（ $P { < } 0 . 0 1$ )，24日龄时的回肠绒毛高度极显著高于22日龄时（ $P { < } 0 . 0 1$ )。3）组别  
+14 和日龄对仔猪的空肠黏膜二胺氧化酶（DAO）活性有显著交互作用（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，断奶组的空  
+15 肠、回肠黏膜DAO 活性显著低于哺乳组（ $P { < } 0 . 0 5$ )。4）组别和日龄对仔猪空肠黏膜闭锁蛋  
+16 白（occludin)的 mRNA 表达量有极显著交互作用( $_ { \cdot } P { < } 0 . 0 1 \$ );空肠黏膜闭锁小带蛋白-1(ZO-1)  
+17 和哺乳组空肠黏膜occludin 的 mRNA表达量随着日龄的增加先升高后降低（ $. P { < } 0 . 0 5 )$ ；与哺  
+18 乳组相比，断奶组回肠黏膜 ZO-1、occludin 和 24日龄时空肠黏膜occludin 的 mRNA 表达量  
+19 显著降低( $\scriptstyle P < 0 . 0 5 .$ );24日龄时回肠黏膜 ZO-1的mRNA表达量显著高于 22 日龄时( $. P { < } 0 . 0 5 )$ 。  
+20 5）组别和日龄对仔猪空肠黏膜肿瘤坏死因子 $- \alpha$ （TNF-α）的mRNA表达量有显著交互作用  
+21 （ $_ { . } P { < } 0 . 0 5 )$ ；断奶组24和28日龄时空肠黏膜TNF- $\cdot a$ 的mRNA表达量显著高于哺乳组( $. P { < } 0 . 0 5 )$ ，  
+22 空肠黏膜白细胞介素-10（IL-10）的mRNA表达量显著低于哺乳组（ $\scriptstyle P < 0 . 0 5 .$ )。回肠黏膜白  
+23 细胞介素 $- 1 \beta$ （ $I L { \cdot } 1 \beta ,$ ）的 mRNA表达量随着日龄的增加而降低（ $\scriptstyle P < 0 . 0 5 .$ )。综上所述，哺乳  
+24 仔猪 22\~28日龄时肠道发育趋于成熟，而断奶会破坏仔猪肠道上皮细胞的结构和紧密连接蛋
+
+白的mRNA表达，引起肠道绒毛变短和脱落、肠道通透性增加和炎症反应，降低平均日增重。
+
+关键词：断奶仔猪；肠道形态；肠道通透性；肠黏膜屏障  
+中图分类号：S828 文献标识码：A 文章编号：  
+我国传统的仔猪断奶时间为56日龄左右，而现代生猪养殖为了追求生产效率，仔猪早期断奶已成为规模化猪场的普遍生产方式，一般在21\~35 日龄时断奶[1-2]。然而，35 日龄前仔猪消化道发育尚未健全，饲粮由液体母乳转为适口性较差的固体饲粮，使肠道内环境受到很大冲击。断奶伴随着转群运输、新猪舍环境适应、仔猪混养等，使仔猪发生断奶应激，引起采食量下降、消化不良、腹泻和生长缓慢等一系列"仔猪早期断奶综合征"[3]。因此，选择合适的断奶时间，平衡母猪流转效率和仔猪健康，对于猪场的综合效益尤为重要。  
+肠道不仅是动物吸收营养的主要场所，也是体内重要的免疫器官[4]。断奶应激严重损伤仔猪肠道形态和功能，导致肠黏膜屏障受损，引起肠道形态发生变化[5]、肠道通透性增加[6-8],极大地影响其未来的生产性能和免疫功能。基于肠道功能发育规律是选择和优化仔猪断奶时间的关键基础。目前研究多集中在不同断奶日龄（14\~35日龄）对仔猪生长性能、消化器官和酶活性的影响[2.9-10]，但有关断奶后仔猪肠道形态和功能发育规律的研究较少。本试验旨在研究21\~28日龄仔猪肠道结构、紧密连接蛋白和细胞因子的发育性变化以及21日龄断奶对仔猪肠道形态和功能的损伤，为合理选择早期断奶时间、制定预防断奶应激损伤策略提供新思路。
+
+1材料与方法
+
+1.1试验设计与试验饲粮
+
+采用 $2 { \times } 3$ 双因子完全随机试验设计，组别（哺乳组、断奶组）和日龄（22、24和28日龄）为2个主效应。选取6窝体况相近的健康大白仔猪，每窝为10\~12头。21日龄时，每窝选取6头平均体重为（ $6 . 1 { \pm } 0 . 2$ ） $\mathbf { k g }$ 的仔猪，随机分为2组，分别为断奶组（于保育舍饲喂基础饲粮）和哺乳组（于原产床继续哺食母乳)。断奶仔猪单栏饲养，舍内温度和光照时间与哺乳仔猪保持一致，温度维持在 $3 0 ^ { \circ } \mathrm { C }$ 左右；自由饮水，采用湿拌料方式饲喂，每天08:00和16:00 饲喂玉米-豆粕型基础饲粮。基础饲粮参照NRC（2012）营养标准配制成粉料，营养成分满足 $5 { \sim } 1 0 \mathrm { k g }$ 仔猪的营养需要量，其组成及营养水平见表1。
+
+项目Items 含量Cont  
+原料 Ingredients  
+玉米Corm 57.00  
+全脂大豆 Full-fat soybean 6.00  
+豆粕 Soybean meal 20.00  
+鱼粉 Fish meal 5.00  
+乳清粉 Whey powder 5.00  
+大豆油 Soybean oil 1.00  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （20 0.50  
+食盐 NaCl 0.30  
+石粉 Limestone 0.51  
+氯化胆碱 Choline chloride 0.09  
+赖氨酸盐酸盐 Lys $\cdot$ HC1 0.40  
+蛋氨酸Met 0.10  
+苏氨酸Thr 0.10  
+葡萄糖 Glucose 1.50  
+白砂糖 Sugar 1.50  
+预混料 Premix1) 1.00  
+合计Total 100.00  
+营养水平 Nutrient levels2)  
+消化能 DE/(MJ/kg) 14.44  
+粗蛋白质 CP 20.68  
+赖氨酸 Lys 1.18  
+蛋氨酸Met 0.37  
+钙Ca 0.70
+
+1’预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 18000 IU， $\mathrm { V D } _ { 3 } 4 5 0 0 \mathrm { I U }$ ，VE $2 2 . 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 4 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 4 . 3 2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } ~ 1 2 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 . 8 6 \mathrm { m g }$ ，$\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ，烟酰胺 nicotinamide $4 1 . 5 8 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $3 3 . 1 2 \mathrm { m g }$ ，叶酸folic acid $1 . 7 6 4 \mathrm { m g }$ ，生物素 biotin $0 . 4 8 \mathrm { m g }$ ，Fe $1 4 0 \mathrm { m g }$ ， $\mathrm { C u } 2 0 \ : \mathrm { m g }$ ， $Z n 1 4 0 \mathrm { m g }$ ， $\mathrm { M n } ~ 4 0 ~ \mathrm { m g }$ ，$\mathrm { ~ I ~ } 0 . 5 \ : \mathrm { m g }$ ， Se 0.3 mg。
+
+2）消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+1.2样品采集
+
+分别于22、24 和28日龄时，仔猪禁食 $1 2 \mathrm { h }$ 后，进行前腔静脉采血，肝素抗凝，静置1h， $4 0 0 0 \mathrm { r / m i n }$ 离心后制备血浆， $- 8 0 ~ ^ { \circ } \mathrm { C }$ 保存。按照窝源一致的原则，每窝选取2头（哺乳组和断奶组各1头，即每组6头仔猪)，放血处死后，剖开腹腔分离出空肠和回肠，采集空肠前端和回肠末端肠道，使用预冷的生理盐水轻轻冲洗后，手术刀刮取黏膜，分装于 $2 { \mathrm { m L } }$ 冻存管，液氮速冻后转移至， ${ } . 8 0 { } ^ { \circ } { \mathrm { C } }$ 保存；剪取约1cm的空肠和回肠肠环，浸入 $4 \%$ 多聚甲醛固定。
+
+1.3 测定指标与方法
+
+1.3.1 生长性能
+
+分别于22和28日龄时对仔猪称重，计算仔猪断奶后的平均日增重（按照生长至28日龄的12头仔猪计算)。每天观察仔猪的健康和腹泻情况，计算腹泻率。
+
+腹泻率 $( \% ) =$ 试验期内仔猪腹泻头数／（试验天数 $\ : \cdot \times \ :$ 同组仔猪头数） $\times 1 0 0$ 。
+
+# 1.3.2 肠道形态
+
+将固定好的空肠和回肠肠环组织石蜡包埋后切片（ $3 { \sim } 4 ~ \mu \mathrm { m } )$ ，采用苏木精-伊红（HE)染色，中性树脂封片，光学显微镜下观察。LeicaLAX软件拍照并对空肠、回肠的绒毛高度和隐窝深度作定量分析。
+
+# 1.3.3血浆和肠道黏膜的二胺氧化酶（DAO）活性
+
+肠道黏膜组织进行 $10 \%$ 组织匀浆。血浆和肠道黏膜组织液的DAO活性采用试剂盒（南京建成生物工程研究所）测定。
+
+# 1.3.4 肠道黏膜相关基因表达
+
+空肠和回肠黏膜总RNA 的提取采用试剂盒(QIAGEN),并用微量分光光度计(Bio-drop)测定总RNA的纯度和浓度。按照试剂盒（PrimeScriptTM RTreagent kit with gDNA Eraser,TaKaRa）操作步骤反转录合成cDNA。反应体系按照 SYBR?PremixEx TaqTM试剂盒说明书配制。荧光定量PCR反应条件：95℃预变性 $3 0 ~ \mathrm { s }$ ；95℃变性 $1 0 \mathrm { ~ s ~ }$ ；60℃退火延伸 $3 0 ~ \mathrm { s }$ 共 40 个循环；熔解曲线的制作参照荧光定量PCR仪（Bio-Rad CFX96）操作说明书进行。基因的 mRNA 表达量采用 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 方法计算，以β-肌动蛋白（ $\beta \cdot$ -actin）作为内参基因，引物见表2，由英潍捷基贸易有限公司合成。
+
+# 表2引物序列信息
+
+基因 引物序列 产物长度  
+Genes Primer sequences $( 5 ^ { \prime } - 3 ^ { \prime }$ ） Produce size/bp  
+β-肌动蛋白 F:GCGTAGCATTTGCTGCATGA 252  
+（204 $\beta$ -actin R:GCGTGTGTGTAACTAGGGGT  
+闭锁小带蛋白-1 F:CTCCAGGCCCTTACCTTTCG 116  
+ZO-1 R:GGGGTAGGGGTCCTTCCTAT  
+闭锁蛋白 F: CAGGTGCACCCTCCAGATTG 167  
+Occludin R: TATGTCGTTGCTGGGTGCAT  
+白细胞介素-10 F: TCGGCCCAGTGAAGAGTTTC 183  
+IL-10 R:GGAGTTCACGTGCTCCTTGA  
+肿瘤坏死因子-α F: TAAGGGCTGCCTTGGTTCAG 120  
+TNF-α R:AGAGGTTCAGCGATGTAGCG  
+白细胞介素-1β F: ATTCAGGGACCCTACCCTCTC 101  
+IL-1β R: CTTCTCCACTGCCACGATGA  
+转化生长因子-β1 F:GTGGAAAGCGGCAACCAAAT 130  
+TGF-β1 R:AGAGCAATACAGGTTCCGGC
+
+采用JMP10.0软件分析数据，生长性能采用 $\mathbf { \chi } _ { t }$ 检验统计分析，其余指标采用 $2 { \times } 3$ 双因子统计分析，Tukey 法进行多重比较。 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+2结果
+
+2.121日龄断奶对仔猪生长性能的影响
+
+由表3可知，2组仔猪的初重（断奶时体重）无显著差异（ $. P { > } 0 . 0 5 \$ )。与哺乳组相比，28日龄（断奶后第7天）时，断奶组仔猪的末重和平均日增重均极显著降低（ $P { < } 0 . 0 1$ )。断奶组仔猪断奶后第1\~3天的腹泻率高于哺乳组，但无显著差异（ $_ { , P > 0 . 0 5 ) }$ 。
+
+# 表321日龄断奶对仔猪生长性能的影响
+
+Table 3Effects of weaning at 21 days of age on growth performance of piglets   
+
+<html><body><table><tr><td>项目</td><td>哺乳组</td><td>断奶组</td><td>P值</td></tr><tr><td>Items</td><td>Nursing group</td><td>Weaning group</td><td>P-value</td></tr><tr><td>初重 IBW/kg</td><td>7.02±0.19</td><td>6.98±0.37</td><td>0.928 7</td></tr><tr><td>末重 FBW/kg</td><td>9.32±0.34A</td><td>7.29±0.38B</td><td>0.0042</td></tr><tr><td>平均日增重 ADG/g</td><td>327.67±31.65A</td><td>44.38±12.96B</td><td><0.000 1</td></tr><tr><td>断奶后第1~3天腹泻率</td><td>0.93±0.93</td><td>4.63±3.02</td><td>0.268 7</td></tr><tr><td colspan="4">Diarrhea rate after weaning1to 3 days/%</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同小写字母表示差异显著中 $. P { < } 0 . 0 5 ^ { \cdot }$ )，不同大写字母表示差异极显著（ $_ { | P < 0 . 0 1 \rangle }$ 。In the same row, values with the same or no letter superscripts mean no significant difference（20 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,andwith different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$
+
+# 2.221日龄断奶对仔猪肠道组织形态的影响
+
+由图1可知，断奶组仔猪的空肠绒毛脱落、隐窝凹陷。由表4可知，断奶组仔猪的空肠绒毛高度极显著低于哺乳组（ $( P { < } 0 . 0 1 \$ )。组别和日龄对空肠隐窝深度和绒毛高度/隐窝深度有极显著交互作用（ $_ { \scriptstyle P < 0 . 0 1 { \dot { \ } } }$ ，断奶组的空肠隐窝深度极显著高于哺乳组（ $_ { . } { P } { < } 0 . 0 1 \$ ，哺乳组的空肠隐窝深度随着日龄的增加逐渐降低，而断奶组则逐渐增加；22日龄时，断奶组的空肠隐窝深度与哺乳组相比无显著差异（ $\scriptstyle P > 0 . 0 5 .$ )；24和28日龄时，断奶组的空肠隐窝深度极显著高于哺乳组（ $\cdot P { < } 0 . 0 1 \cdot$ )。断奶组的空肠绒毛高度/隐窝深度极显著低于哺乳组（ $( P { < } 0 . 0 1 )$ ，哺乳组28日龄时的空肠绒毛高度/隐窝深度极显著高于22和24日龄时（ $_ { . } P { < } 0 . 0 1 \$ ，而断奶组在不同日龄时无显著差异（ $\cdot P { > } 0 . 0 5 )$ ）
+
+![](images/77a8d7a49c82a61b066f08b4949580abcff552f9d8b808945ee759e7406fad35.jpg)  
+图121日龄断奶对仔猪空肠形态的影响
+
+Fig.1Effects of weaning at 21 days of age on jejunum morphology of piglets $( 4 0 \times )$
+
+表421日龄断奶对仔猪空肠组织形态的影响
+
+Table 4Effects of weaning at 21 days of age on jejunum morphology of piglets   
+
+<html><body><table><tr><td></td><td>日龄</td><td>绒毛高度</td><td>隐窝深度</td><td>绒毛高度/隐窝深度</td></tr><tr><td>项目Items</td><td>Days of age</td><td>Villus height/μm</td><td>Crypt depth/μm</td><td>V/C</td></tr><tr><td></td><td>22</td><td>330.40</td><td>106.99CD</td><td>3.24Ba</td></tr><tr><td>哺乳组</td><td></td><td></td><td></td><td></td></tr><tr><td>Nursing group</td><td>24</td><td>379.43</td><td>119.07BCa</td><td>3.34Ba</td></tr><tr><td></td><td>28</td><td>436.93</td><td>86.74D</td><td>5.02A</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>断奶组</td><td>22</td><td>193.08</td><td>117.23BCa</td><td>1.66Cb</td></tr></table></body></html>
+
+<html><body><table><tr><td>Weaning group</td><td>24</td><td>180.99</td><td>148.50A</td><td>1.22Cb</td></tr><tr><td></td><td>28</td><td>180.40</td><td>138.76AB</td><td>1.31Cb</td></tr><tr><td>组别Group</td><td></td><td></td><td></td><td></td></tr><tr><td>哺乳组 Nursing group</td><td></td><td>382.26A</td><td>104.26B</td><td>3.86A</td></tr><tr><td>断奶组Weaning group</td><td></td><td>184.82B</td><td>134.83A</td><td>1.40B</td></tr><tr><td>日龄 Days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>22 日龄 22 days of age</td><td></td><td>261.74</td><td>112.11Ba</td><td>2.45ab</td></tr><tr><td>24 日龄 24 days of age</td><td></td><td>280.21</td><td>133.78A</td><td>2.28b</td></tr><tr><td>28日龄 28 days of age</td><td></td><td>308.66</td><td>112.75Ba</td><td>3.16a</td></tr><tr><td>SEM</td><td></td><td>28.03</td><td>5.16</td><td>0.33</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td></tr><tr><td>组别Group</td><td></td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td></tr><tr><td>日龄 Days of age</td><td></td><td>0.256 9</td><td>0.000 2</td><td>0.0279</td></tr><tr><td>组别×日龄 Group×days of age</td><td></td><td>0.121 7</td><td>0.0014</td><td>0.0083</td></tr></table></body></html>
+
+118 同列数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5 \$ )，不同小写字母表示差异显著  
+119 （ $. P { < } 0 . 0 5 ^ { \cdot }$ )，不同大写字母表示差异极显著（ $_ { \cdot } P { < } 0 . 0 1 \$ 。下表同。  
+120 In the same column,values with the same or no letter superscripts mean no significant  
+121 difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference  
+122 （204号 $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The  
+123 same as below.
+
+由图2可知仔猪回肠形态的变化。由表5可知，与空肠不同，组别和日龄对仔猪的回肠绒毛高度有极显著交互作用！ $( P { < } 0 . 0 1 )$ )，哺乳组的回肠绒毛高度极显著高于断奶组！ $( P { < } 0 . 0 1 )$ ，哺乳组24日龄时的回肠绒毛高度极显著高于22日龄时（ $_ { . } { P } { < } 0 . 0 1 \$ )，而断奶组在不同日龄时无显著差异（ $. P { > } 0 . 0 5$ )。断奶组的回肠隐窝深度极显著高于哺乳组 $( P { < } 0 . 0 1$ )，回肠隐窝深度随着日龄的增加逐渐增加（ $P { < } 0 . 0 5 )$ 。断奶组的回肠绒毛高度/隐窝深度极显著低于哺乳组中 $_ { \cdot } P { < } 0 . 0 1$ )，2组的回肠绒毛高度/隐窝深度在不同日龄时均无显著差异（ $_ { . P > 0 . 0 5 ) }$ ）。
+
+![](images/01b9334e9f66ccef29b4dee46a9b8ca3ccd30c4cf7db4ed5128afca5d5e40f1e.jpg)  
+图221日龄断奶对仔猪回肠形态的影响
+
+Fig.2Effects of weaning at 21 days of age on ileum morphology of piglets $( 4 0 \times )$
+
+表521日龄断奶对仔猪回肠组织形态的影响
+
+135
+
+Table 5Effects of weaning at 21 days of age on ileum morphology of piglets   
+
+<html><body><table><tr><td></td><td>日龄</td><td>绒毛高度</td><td>隐窝深度</td><td>绒毛高度/隐窝深度</td></tr><tr><td>目Items</td><td>Days of age</td><td>Villus height/μm</td><td>Crypt depth/μm</td><td>V/C</td></tr><tr><td></td><td>22</td><td>310.38B</td><td>105.66</td><td>2.94Aa</td></tr><tr><td>乳组</td><td>24</td><td>384.36A</td><td>110.43</td><td>3.53Aa</td></tr><tr><td>ursing group</td><td></td><td>371.70AB</td><td>115.44</td><td>3.21Aa</td></tr><tr><td></td><td>28</td><td></td><td></td><td></td></tr><tr><td>奶组</td><td>22</td><td>205.81Ca</td><td>117.68</td><td>1.66Bb</td></tr><tr><td></td><td></td><td>137.63Ca</td><td></td><td></td></tr><tr><td>eaning group</td><td>24</td><td></td><td>135.32</td><td>1.22Bb</td></tr><tr><td></td><td></td><td>183.69Ca</td><td></td><td></td></tr><tr><td></td><td>28</td><td></td><td>137.63</td><td>1.31Bb</td></tr><tr><td>1别Group</td><td></td><td></td><td></td><td></td></tr><tr><td>乳组Nursing group</td><td></td><td>355.48A</td><td>110.51B</td><td>3.23A</td></tr><tr><td>奶组Weaning group</td><td></td><td>175.71B</td><td>130.21A</td><td>1.38B</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>龄Days of age</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2日龄22 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>258.11</td><td>111.67b</td><td>2.35</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>24日龄 24 days of age</td><td>260.99</td><td>122.88ab</td><td>2.28</td></tr><tr><td>28日龄 28 days of age</td><td>277.70</td><td>126.54a</td><td>2.27</td></tr><tr><td>SEM</td><td>16.74</td><td>4.79</td><td>0.17</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td></tr><tr><td>组别 Group</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td></tr><tr><td>日龄 Days of age</td><td>0.459 3</td><td>0.011 2</td><td>0.879 8</td></tr><tr><td>组别×日龄 Groupxdays of age</td><td>0.000 8</td><td>0.3778</td><td>0.0023</td></tr></table></body></html>
+
+136 2.321日龄断奶对仔猪血浆和肠道黏膜DAO活性的影响
+
+137 由表6可知，组别和日龄对仔猪的空肠黏膜DAO活性有显著交互作用（ $. P { < } 0 . 0 5 )$ ，断  
+138 奶组的空肠黏膜DAO活性极显著低于哺乳组（ $P { < } 0 . 0 1$ )。2组的血浆DAO活性在不同日龄  
+139 时无显著差异（ $\scriptstyle P > 0 . 0 5 .$ )。断奶组的回肠黏膜DAO活性显著低于哺乳组（ $_ { \cdot } P { < } 0 . 0 5 )$ ，但2组  
+140 的回肠黏膜DAO 活性在不同日龄时无显著差异（ $P { > } 0 . 0 5 \$ ）
+
+# 表621日龄断奶对仔猪血浆和肠道黏膜DAO活性的影响
+
+intestinal mucosa of piglets
+
+Table 6Effects of weaning at 21 days of age on the activity of DAO in plasma and   
+
+<html><body><table><tr><td>项目</td><td>日龄</td><td>血浆 Plasma/(U/L) 空肠Jejunum/(U/g)</td><td></td><td>回肠Ileum/(U/g)</td></tr><tr><td>Items</td><td>Days of age</td><td></td><td></td><td></td></tr><tr><td></td><td>22</td><td>7.33</td><td>5.36ab</td><td>6.81</td></tr><tr><td>哺乳组</td><td></td><td></td><td></td><td>7.59</td></tr><tr><td>Nursing group</td><td>24</td><td>7.07</td><td>5.62a</td><td></td></tr><tr><td></td><td>28</td><td>6.97</td><td>4.34abc</td><td>7.34</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>22</td><td>8.02</td><td>3.84c</td><td>6.44</td></tr><tr><td>断奶组</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>24</td><td>9.33</td><td>4.09bc</td><td>6.29</td></tr><tr><td>Weaning group</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>28</td><td>6.30</td><td>4.31bc</td><td>6.44</td></tr><tr><td>组别 Group</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>哺乳组 Nursing group</td><td></td><td>7.12</td><td>5.10A</td><td>7.25a</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>断奶组Weaning group</td><td></td><td>7.88</td><td>4.08B</td><td>6.39b</td></tr></table></body></html>
+
+<html><body><table><tr><td>22日龄 22 days of age</td><td>7.68</td><td>4.60</td><td>6.63</td></tr><tr><td>24日龄 24 days of age</td><td>8.20</td><td>4.86</td><td>6.94</td></tr><tr><td>28日龄 28 days of age</td><td>6.63</td><td>4.33</td><td>6.89</td></tr><tr><td>SEM</td><td>0.76</td><td>0.30</td><td>0.45</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td></tr><tr><td>组别 Group</td><td>0.2269</td><td>0.000 2</td><td>0.027 8</td></tr><tr><td>日龄 Days of age</td><td>0.125 4</td><td>0.2274</td><td>0.760 6</td></tr><tr><td>组别×日龄 Groupxdays of age</td><td>0.169 0</td><td>0.025 5</td><td>0.591 6</td></tr></table></body></html>
+
+144 2.421日龄断奶对仔猪肠道黏膜紧密连接蛋白mRNA表达量的影响
+
+由图3可知，组别和日龄对仔猪空肠黏膜闭锁蛋白（occludin）的mRNA表达量有极显著交互作用（ $_ { \cdot } P { < } 0 . 0 1 \$ )，哺乳组空肠黏膜occludin的mRNA表达量随着日龄的增加先升高后降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，断奶组在不同日龄时无显著差异（ $. P { > } 0 . 0 5 \$ )；与哺乳组相比，断奶组22日龄时空肠黏膜occludin 的mRNA表达量有下降趋势( $\scriptstyle \cdot { \cal P } = 0 . 0 5$ ),24日龄时显著降低 $. P { < } 0 . 0 5 )$ 。空肠黏膜闭锁小带蛋白-1（ZO-1)的mRNA 表达量随着日龄的增加先升高后降低（ $( P { < } 0 . 0 5 )$ ）°断奶组回肠黏膜 ZO-1和occludin 的mRNA表达量显著低于哺乳组（ $_ { . P < 0 . 0 5 } )$ )，24日龄时回肠黏膜 ZO-1的mRNA 表达量显著高于22日龄时（ $\scriptstyle P < 0 . 0 5 )$ ）°
+
+![](images/534eb0332166ad2b12d08a52a6ddc739a8ce9fcb695c0d0b27be3086e3671d70.jpg)
+
+同一项目数据柱上标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 .$ )，相同或无字母表示差异不 显著（ $. { \cal P } { > } 0 . 0 5$ )。\*表示2组间差异显著（ $. P { < } 0 . 0 5$ )。N代表哺乳组，W代表断奶组。下图同。 Value columns in the same item with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant differences （204 $( P { > } 0 . 0 5 )$ . \* means significant difference between two groups. N represents the nursing group, and W represents the weaning group. The same as below.
+
+图321日龄断奶对仔猪肠道黏膜紧密连接蛋白mRNA表达量的影响
+
+Fig.3Effects of weaning at 21 days of age on mRNA expression of tight junction protein of intestinal mucosa of piglets
+
+2.521日龄断奶对仔猪肠道黏膜细胞因子mRNA表达量的影响
+
+由图4可知，组别和日龄对仔猪空肠黏膜肿瘤坏死因子 $- \alpha$ （TNF- $\cdot \alpha$ ）的mRNA表达量有显著交互作用（ $_ { \cdot } P { < } 0 . 0 5 )$ ，断奶组24和28日龄时空肠黏膜TNF- $\cdot a$ 的mRNA表达量显著高于哺乳组 （ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。断奶组空肠黏膜白细胞介素-10（IL-10）的mRNA表达量显著低于哺乳组 ( $_ { . P < 0 . 0 5 } )$ )。日龄对空肠黏膜细胞因子的mRNA表达量无显著影响（ $_ { . P > 0 . 0 5 } )$ ）°
+
+![](images/a8784267c94b6f11e753588df1072e5547507bb65832ee748ff6bc88c32dbb2f.jpg)  
+图4 21日龄断奶对仔猪空肠黏膜细胞因子mRNA表达量的影响  
+Fig.4Effects of weaning at 21 days of age on mRNA expression of cytokines of jejunum
+
+由图5可知，与空肠黏膜不同，组别和日龄对仔猪回肠黏膜细胞因子的mRNA表达量无显著交互作用（ $\scriptstyle P > 0 . 0 5 .$ )。回肠黏膜白细胞介素 $- 1 \beta$ （ $M - 1 \beta$ ）的mRNA表达量随着日龄的增加而降低（ $P { < } 0 . 0 5$ )。2组回肠黏膜细胞因子的mRNA表达量无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+![](images/04efe859a30651349c0beea8e89df4496dea061a0f3972f959047f576b192252.jpg)  
+图5 21日龄断奶对仔猪回肠黏膜细胞因子mRNA表达量的影响  
+Fig.5Effects of weaning at 21 days of age on mRNA expression of cytokines of ileum mucosa of piglets
+
+3讨论
+
+仔猪消化道发育尚未健全，肠道免疫功能低下，微生物区系不稳定，断奶时会遭遇环境、营养、心理等多方面的挑战，造成仔猪断奶后生理机能紊乱。研究表明，肠道疾病往往随着断奶应激而出现[1l-2]，这表明断奶应激在疾病感染中起到至关重要的作用。本试验中，21日龄断奶诱发了仔猪应激，表现为体重显著下降，平均日增重降低了 $8 6 . 4 6 \%$ ，断奶后第1天有 $1 6 . 6 7 \%$ 腹泻情况，生长性能受到严重影响。肠道是断奶应激的主要损伤部位之一。空肠和回肠是小肠中营养物质吸收的重要肠段，其绒毛形态和功能发育是否良好，直接影响机体对营养物质的吸收。本试验中，仔猪断奶后空肠和回肠绒毛变短，并伴有脱落现象，同时隐窝凹陷，说明21日龄断奶严重影响了仔猪肠道的形态和发育。断奶后绒毛变短，减少了肠道吸收面积，是引起仔猪平均日增重极显著降低的重要原因之一。
+
+肠道绒毛作为机体营养物质吸收的主要部位，小肠绒毛上皮细胞将消化道中的氨基酸、
+
+葡萄糖、无机盐等吸收进入血液，若此部位受损，会影响营养物质的吸收。DAO 主要存在于哺乳动物肠道黏膜或绒毛上皮细胞中，是组胺等多胺物质进行代谢的重要调节酶，并在细胞增殖中发挥重要作用[13]，肠道黏膜DAO 活性与肠道黏膜绒毛高度、肠上皮细胞的完整性和成熟度有密切关系[14-16]。本试验结果表明，哺乳组仔猪的空肠黏膜DAO 活性随着日龄的增加逐渐降低，断奶组却无显著变化，这表明哺乳期仔猪肠道处于不断发育的过程中，上皮细胞不断发生增殖分化，28日龄时空肠黏膜DAO活性降低说明仔猪肠道上皮细胞发育趋于稳定。而断奶组的仔猪回肠黏膜DAO活性显著低于哺乳组，说明21日龄断奶严重损坏仔猪肠道上皮细胞的完整性和成熟度，造成仔猪肠道绒毛变短。  
+肠道黏膜中肠上皮细胞、黏蛋白、肠道黏膜相关淋巴组织及其分泌的细胞因子、抗菌肽、微生物区系等形成了天然的屏障[17]，维护肠道和机体健康。肠上皮细胞通过紧密连接等细胞连接形成机械屏障，外周血中DAO 活性是肠上皮细胞机械屏障损伤的重要标志。正常生理条件下血浆DAO 活性较低，当肠道黏膜受损时，DAO 可以由肠黏膜进入血液循环导致血浆中 DAO 活性增加。本试验中，断奶后血浆DAO 活性提高了 $1 0 . 6 7 \%$ ，但由于动物个体差异大，未达到显著。断奶后回肠黏膜 ZO-1、occludin 的 mRNA 表达量显著降低，24日龄时空肠和回肠黏膜 ZO-1的 mRNA 表达量显著高于22日龄时，这表明 21日龄断奶，肠上皮细胞间紧密连接的结构蛋白表达在转录水平受到抑制，破坏了肠黏膜屏障，增加了肠道通透性。栾兆双[18]研究发现，仔猪断奶后紧密连接蛋白 ZO-1、occludin的mRNA 表达量显著降低，28日龄后逐渐升高；Weiler 等[19]研究发现，在应激条件下，ZO-1、occludin 的 mRNA相对表达量降低，与本研究结果基本一致。28日龄时断奶仔猪空肠occludin的mRNA 表达量基本达到哺乳仔猪水平，说明断奶7d后，肠道黏膜损伤基本得到修复。  
+得益于肠上皮细胞形成的机械屏障，水、离子等可溶性小分子物质可以选择性地通过，而毒素、病原体等有害物质被阻止进入[17]。由于21日龄断奶造成了肠道屏障损伤，毒素、
+
+病原体等有害物质进入，可能激活肠黏膜中固有层淋巴组织、派伊氏结（PP 结）、肠系膜淋巴结[20]，产生免疫应答，分泌细胞因子。本试验研究发现，断奶组24和28日龄时空肠黏膜 TNF-α的mRNA表达量显著高于哺乳组，而空肠黏膜 $I L \ – 1 0$ 的 mRNA表达量显著低于哺乳组。Pie等[21]研究也发现，仔猪断奶后肠道促炎性细胞因子 $I L \mathrm { - } 1 \beta$ 、白细胞介素-6（IL-6)和 TNF-α的mRNA表达量迅速升高，肠道出现炎症反应。研究表明，肠黏膜的树突状细胞
+
+在黏膜中不断捕获由杯状细胞转运的抗原，分泌 IL-10 和转化生长因子- ${ \tt - } \beta$ （TGF- $\beta$ ）并迁移至肠系膜集合淋巴结，活化初始T细胞为 Treg，在免疫耐受中发挥至关重要的作用[22-23]。在人和小鼠中敲除抗炎性因子IL-10 或其受体后会表现强烈的炎症反应，还使促炎性因子的分泌增加[24-26]。与空肠黏膜相比，断奶并未引起回肠黏膜细胞因子mRNA 表达量的显著变化，表明在断奶应激条件下仔猪回肠的免疫稳定能力优于空肠，推测与回肠上富有黏膜相关淋巴组织相关。PP 结作为黏膜淋巴相关组织的重要组成部分，主要集中在回肠[27-28]，它是一个完整的执行免疫应答的功能场所，聚集着执行适应性免疫的 $\mathrm { C D 4 ^ { + } T }$ 细胞、 $\mathrm { C D 8 ^ { + } T }$ 细胞、B 细胞和巨噬细胞等，当肠道中的抗原被传递到黏膜相关淋巴组织后，会激活B细胞引起体液免疫应答，同时也可被树突状细胞捕获后活化T细胞，引起更强烈的免疫应答。本试验中回肠黏膜免疫屏障表现出的强耐受力可能与此机制相关。  
+断奶时间的选择不仅要考虑母猪的流转，还要考虑仔猪的成活率。目前猪场常采用 21或28 日龄断奶。21\~28日龄是仔猪快速发育阶段，断奶的窗口期应基于仔猪发育的生理状况来确定。本研究结果表明，21\~28日龄时，哺乳仔猪肠道绒毛持续发育，表现为绒毛高度逐渐增长；肠道屏障功能在24日龄时最高，表现为肠上皮细胞间的紧密连接蛋白的 mRNA表达量最高，肠黏膜促炎性因子TNF-α的mRNA表达量在24日龄时下降。综合这些指标，24日龄是仔猪肠道发育的关键点。21日龄断奶后，仔猪生长至24日龄时肠道绒毛损伤最为严重，表现为肠道绒毛最短且脱落现象最严重、血浆DAO 活性最高、肠道紧密连接蛋白的mRNA 表达量严重下降、促炎性因子的mRNA表达量上升。由此可知，24 日龄是断奶应激损伤最严重的时间点。在这个时间节点的严重应激损伤一方面是因为应激反应发展的进程[18,21]，另一方面是因为仔猪肠道发育在 24日龄前后的变化显著。尽管21日龄断奶后至 28日龄，仔猪肠道形态、屏障功能均有所恢复，但推荐在24日龄时仔猪完成消化道发育进程后断奶。本研究还发现了断奶影响肠道屏障功能的重要黏膜细胞因子。关于饲料添加剂改善仔猪生长性能、维持肠道健康已有许多报道[29-31]。因此，在选择合理的断奶时间的同时，配合新型饲料添加剂促进抗炎性细胞因子的表达、加强肠道屏障功能，将有助于仔猪更好地度过断奶应激。
+
+4结论
+
+$\textcircled{1}$ 哺乳仔猪22\~28日龄肠道发育趋于成熟。
+
+$\textcircled{2}$ 21日龄断奶会破坏仔猪肠道上皮细胞的结构，肠道绒毛变短和脱落，影响营养物质吸收，造成仔猪腹泻，降低平均日增重。
+
+$\textcircled{3}$ 21日龄断奶抑制肠道紧密连接蛋白的mRNA表达，损伤屏障功能，肠道通透性增加，   
+引起肠道炎症反应。   
+$\textcircled{4}$ 24 日龄是仔猪肠道发育的关键时间点，以24日龄后断奶为宜。   
+参考文献：   
+[1] 任慧波,杜丽飞,彭英林,等.早期断奶仔猪的饲养管理技术[J].猪业科 学,2011,28(11):110-111.   
+[2]鄯来平.庭院式养猪的仔猪断奶适宜时间的研究[J].中国畜牧兽医文摘,2013(5):74-75.   
+[3] CAMPBELL J M,CRENSHAW J D,POLO J.The biological stress of early weaned piglets[J].Journal of Animal Science and Biotechnology,2013,4(1):19.   
+[4] LI X L,AKHTAR S,CHOUDHRY M A.Alteration in intestine tight junction protein phosphorylation and apoptosis is associated with increase in IL-18 levels following alcohol intoxication and burn injury[J].Biochimica et Biophysica Acta-Molecular Basisof Disease,2012,1822(2):196-203.   
+[5] HU C H,XIAO K,LUAN Z S,et al.Early weaning increases intestinal permeability,alters expression of cytokine and tight junction proteins,and activates mitogen-activated protein kinases in pigs[J].Journal of Animal Science,2013,91(3):1094-1101.   
+[6] MOESER A J,KLOK C V,RYAN K A,et al.Stress signaling pathways activated by weaning mediate intestinal dysfunction inthepig[J].American Journal of Physiology Gastrointestinal and Liver Physiology,2007,292(1):G173-G181.   
+[7] POHL C S,MEDLAND J E,MACKEY E,et al.Early weaning stress induces chronic functional diarrhea,intestinal barrier defects,and increased mast cell activity in a porcine model of early life adversity[J].Neurogastroenterology & Motility the Oficial Journal of the European Gastrointestinal Motility Society,2017,29(11):e13118.   
+[8] MOESER A J,RYAN K A,NIGHOT P K,et al.Gastrointestinal dysfunction induced by early weaning is attenuated by delayed weaning and mast cell blockade in pigs[J].American
+
+Journal of Physiology-Gastrointestinal and Liver Physiology,2007,293(2):G413-G421.
+
+TSUKAHARA T, INOUE R, NAKATANI M, et al.Influence of weaning age on the villous height and disaccharidase activities in the porcine small intestine[J].Animal Science Journal,2016,87(1):67-75.
+
+[10]LELIVELD L M C,RIEMENSPERGER A V,GARDINER G E,et al.Effect of weaning age and postweaning feeding programme on the growth performance of pigs to 10 weeks of age[J].Livestock Science,2013,157(1):225-233.   
+[11]JONES P H,ROE J M,MILLER B G.Effects of stressors on immune parameters and on the faecal shedding of enterotoxigenic Escherichia coli in piglets following experimental inoculation[J].Research In Veterinary Science,2001,70(1):9-17.   
+[12]MELIN L,MATTSSON S,KATOULI M,et al.Development of post-weaning diarrhoea in piglets.Relation to presence of Escherichia coli strains and rotavirus[J].Zoonoses and Public Health,2004,51(1):12-22.   
+[13] WOLVEKAMPM C,DEBRUINR W.Diamineoxidase:anoverviewof historical,biochemical and functional aspects[J].Digestive Diseases,1994,12(1):2-14.   
+[14]DANG S,SHEN Y,YIN K,et al.TREM-1 promotes pancreatitis-associated intestinal barrier dysfunction[J].Gastroenterology Research and Practice,2012,2012:720865.   
+[15]TIAN R,TAN J T,WANG R L,et al.The role of intestinal mucosa oxidative stress in gut barrier dysfunction of severe acute pancreatitis[J].European Review for Medical & Pharmacological Sciences,2013,17(3):349-355.   
+[16]徐建雄.不同断奶日龄仔猪的氧化应激损伤及其机理研究[D].博士学位论文.南京:南京 农业大学,2014.   
+[17]DE MEDINA F S,ROMERO-CALVO I,MASCARAQUE C,et al.Intestinal inflammation and mucosal barrier function[J].Inflammatory Bowel Diseases,2014,20(12):2394-2404.   
+[18]栾兆双.断奶应激对仔猪肠上皮细胞紧密连接和p38 MAPK 的影响[D].硕士学位论文. 杭州:浙江大学,2013.   
+[19]WEILER F,MARBE T,SCHEPPACH W,et al.Influence of protein kinase C on transcription ofthetightjunctionelementsZO-1andoccludin[J].JournalofCelllar Physiology,2005,204(1):83-86.   
+[20]PEREZ-LOPEZ A,BEHNSEN J,NUCCIO S P,et al.Mucosal immunity to pathogenic intestinal bacteria[J].Nature Reviews Immunology,2016,16(3):135-148.   
+[21]PIE S,LALLES J P,BLAZY F,et al.Weaning is associated with an upregulation of expression ofinflammatory cytokinesin the intestine of piglets[J].Journal of Nutrition,2004,134(3):641-647.   
+[22]KONKEL J E,CHEN W J.Balancing acts:the role of TGF-beta in the mucosal immune system[J].Trends in Molecular Medicine,2011,17(11):668-676.   
+[23]SAKAGUCHI S,YAMAGUCHI T,NOMURA T,et al.Regulatory T cells and immune tolerance[J].Cel1,2008,133(5):775-787.   
+[24]BEGUE B,VERDIER J,RIEUX-LAUCAT F,et al.Defective IL-10 signaling defining a subgroup of patients with inflammatory bowel disease[J].The American Journal of Gastroenterology,2011,106(8):1544-1555.   
+[25]GLOCKER E O,KOTLARZ D,BOZTUG K,et al.Inflammatory bowel disease and mutationsaffectingtheinterleukin-10receptor[J].NewEngland Journal of Medicine,2009,361(21):2033-2045.   
+[26]KUHN R,LOHLER J,RENNICK D,et al.Interleukin-10-deficient mice develop chronic enterocolitis[J].Cell,1993,75(2):263-274.   
+[27] JUNG C,HUGOT J P,BARREAU F.Peyer'spatches:the immune sensorsof the intestine[J].International Journal of Inflammation,2010,2010:823710.   
+[28]VAN KRUININGEN H J,WEST A B,FREDA B J,et al.Distribution of Peyer's patches in the distal ileum[J].Inflammatory Bowel Diseases,2002,8(3):180-185.   
+[29]CHEN H,MAO X B,HE J,et al.Dietary fibre affects intestinal mucosal barrier function and regulatesintestinalbacteriainweaningpiglets[J].BritishJournal of Nutrition,2013,110(10):1837-1848.   
+[30]ZHENG P,YU B,HE J,et al.Protective effects of dietary arginine supplementation against
+
+oxidative stress in weaned piglets[J].British Journal of Nutrition,2013,109(12):2253-2260.   
+[31]李玉鹏,李海花,王柳懿,等.丁酸梭菌对断奶仔猪生长性能、肠道屏障功能和血清细胞因 子含量的影响[J].动物营养学报,2017,29(8):2961-2968. Effects of Weaning at 21 Days of Age on Intestinal Morphology, Permeability and Mucosal Barrier of Piglets XIA BingMENG Qingshi XIE JingjingWU Weida FENG Xiaohui TANG Xiangfang ZHANG Hongfu\* (State Key Laboratory of Animal Nutrition, Institute of Animal Sciences, Chinese Academy of Agricultural Sciences, Beijing 1001093, China)   
+Abstract: This experiment was conducted to investigate the effects of weaning at 21 days of age   
+on intestinal morphology， permeability and mucosal barrier of piglets. According to $2 { \times } 3$   
+double-factor completely randomized test design, groups (nursing group and weaning group) and   
+days of age (22, 24 and 28 days of age) as the two main factors. Healthy Yorkshire piglets with   
+similar body condition were selected from 6 liters, and 6 piglets with average body weight of   
+（20 $( 6 . 1 \pm 0 . 2 ) \$ kg were selected from each litter and assigned to 2 groups (nursing group and weaning   
+group)with 18 piglets per group. Piglets were slaughtered at 22， 24 and 28 days of ag,   
+respectively,and growth performance, intestinal morphology, permeability and mucosal barrier   
+were measured. The results showed as follow: 1) the final body weight and average daily gain of   
+piglets in weaning group were significantly lower than that in nursing group at 28 days of age   
+（20 $( P { < } 0 . 0 1 )$ . 2) There were significant interactions of group and days of age on crypt depth and the   
+ratio of villus height to crypt depth (V/C) of jejunum and villus height of ileum of piglets $( P { < } 0 . 0 1 )$ ）   
+Crypt depth of jejunum and ileum in weaning group was significantly higher than that in nursing   
+group $( P { < } 0 . 0 1 )$ ， and villus height and V/C of jejunum and ileum in weaning group were   
+significantly lower than that in nursing group $( P { < } 0 . 0 1 \$ ). V/C of jejunum in nursing group at 28   
+days ofage was significantly higher than that at 22 and 24 days of age $( P { < } 0 . 0 1 )$ , and villus height   
+of ileum at 24 days of age was significantly higher than that at 22 days of age $\left( P { < } 0 . 0 1 \right)$ ). 3) There
+
+was significant interaction of group and days of age on the activity of diamine oxidase (DAO) of jejunal mucosa of piglets $( P { < } 0 . 0 5 )$ ，and the activity of DAO of jejunal and ileal mucosa in weaning group was significantly lower than that of nursing group $( P { < } 0 . 0 5 )$ . 4） There was significant interaction of group and days of age on the mRNA expression of occludin of jejunal mucosa of piglets $( P { \ < } 0 . 0 1 )$ ). The mRNA expression of occludin of jejunal mucosa in nursing group and ZO-1 of jejunal mucosa increased first and then decreased with the increasing of days of age （20 $( P { < } 0 . 0 5 )$ . The mRNA expression of occludin of jejunal mucosa at 24 days of age and ZO-1 and occludin of ileal mucosa in weaning group were significantly lower than that in nursing group （20 $( P { < } 0 . 0 5 )$ , and the mRNA expression of ZO-1 of ileal mucosa at 24 days of age was significantly higher than that at 22 days of age ( $( P { < } 0 . 0 5 )$ ). 5) There was significant interaction of group and days of age on the mRNA expresson of tumor necrosis factor- $\mathbf { \alpha } _ { \cdot } \mathbf { \{ \alpha \} } _ { }$ (TNF- $\dot { a }$ ） of jejunal mucosa of piglets （20 $( P { < } 0 . 0 5 )$ . The mRNA expression of TNF- $\scriptstyle a$ of jejunal mucosa at 24 and 28 days of age in weaning group was significantly higher than that in nursing group $( P { < } 0 . 0 5 )$ , and the mRNA expression of interleukin-1O (IL-1O) of jejunal mucosa was significantly lower than that in nursing group （204 $( P { < } 0 . 0 5 )$ . The mRNA expression of interleukin- $1 \beta$ （204号 $( I L \ – 1 \beta )$ of ileal mucosa was decreased with the increasing of days of age $( P { < } 0 . 0 5 )$ . In conclusion, the intestinal development of nursing piglets becomes mature from 22 to 28 days of age, but weaning breaks the structure of intestinal epithelial cell of piglets and mRNA expression of tight junction proteins, causes intestinal villus shorted and fell off, intestinal permeability increased， inflammatory response and average daily gain decreased.
+
+Key words: weaning piglets; intestinal morphology; intestinal permeability; intestinal macosal barrier

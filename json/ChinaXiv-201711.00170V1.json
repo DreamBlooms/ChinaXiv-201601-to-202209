@@ -1,0 +1,263 @@
+[
+    {
+        "type": "text",
+        "text": "A New Copper Coordination Polymer with Magnetic Property Based on 3-(1,2,4-Triazol-1-yl)benzoic Acid① ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Heng-Dal,²(张亨达） WANG Shuai-Hual(王帅华） WU Shao-Fanl②(吴少凡) 1 (Key Laboratory of Optoelectronic Materials Chemistry and Physics, Fujian Institute of Research on the Structure of Mater, Chinese Academy of Sciences, Fuzhou 350oO2, China); ² (University of Chinese Academy of Sciences, Beijing10o039, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTAcoppercoordinationpolymer，namely $\\mathrm { [ C u L _ { 2 } ( H _ { 2 } O ) _ { 2 } ] { \\cdot } H _ { 2 } O }$ 1(HL= 3-(1,2,4-triazol-1-yl)benzoic acid) has been synthesized by the hydrothermal reaction under $1 4 0 ~ ^ { \\circ } \\mathrm { C }$ The structure of 1 was characterized by single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analysis,elemental analyses, powder X-ray diffraction， IR spectroscopy， and thermogravimetric analysis. Single-crystal $\\mathrm { \\Delta } X$ -ray diffraction analysis reveals that 1 crystallizes in $P 2 _ { 1 } / n$ space group with $a = 1 2 . 3 7 4 ( 5 )$ ， $b = 1 2 . 7 3 0 ( 5 )$ _， $c = 1 2 . 5 6 1 ( 5 ) \\mathring { \\mathrm { A } }$ $\\beta = 9 1 . 1 0 5 ( 9 ) ^ { \\circ }$ ， $V = 1 9 7 8 . 2$ (14) $\\mathring { \\mathbf { A } } ^ { 3 }$ ,Z = 4, $D _ { c } = 1 . 6 1 8 ~ \\mathrm { g / c m ^ { 3 } }$ $\\mu = 1 . 1 6 0 \\ \\mathrm { m m ^ { - 1 } }$ ， $F ( 0 0 0 ) = 9 6 4 \\$ , the final $R =$ （204号 0.0449 and $w R = 0 . 1 4 4 3$ with $I > 2 \\sigma ( I )$ . Magnetic measurements show that 1 exhibits antiferromagnetic interactions by the analysis of magnetic test data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: copper coordination polymer;hydrothermal reaction; crystal structure, magnetic property ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI: 10.14102/j.cnki.0254-5861.2011-1615 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years，coordination polymers have atracted considerable attention due to their potential applications such as luminescence,gas adsorption，gas capture and separations， chemical catalysis, magnetic behavior,electrical conductivity,drug delivery,and so on[1-7]. Varieties of coordination polymers have been synthesized with more interesting structures and desired functions, which have wel-defined and designable structures through selecting metal ions and ligands on purpose[8-12]． Most of them were synthesized by means of self-assembly approach with inorganic and organic building units[13]. In this process,the major task is how to choose appropriate metal-connecting nodes and bridging ligands to obtain desired structures and functions[14]. Among organic ligands, multidentate N and O-donor bridging ligands with multicarboxylate are often selected as multifunctional organic linkers[15-17]，which construct novel frameworks due to their abundant coordination modes to metal ions,alowing for various structural topologies,and their ability to act as H-bond acceptors and donors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, a multidentate organic linker 3-(1,2,4-triazol-1-yl)benzoic acid (HL) and $\\mathrm { C u } ^ { 2 + }$ ions were selected to synthesize novel coordination polymers with interesting magnetic properties.A new 2D supramolecular coordination polymer $\\mathrm { [ C u L _ { 2 } ( H _ { 2 } O ) _ { 2 } ] { \\cdot } H _ { 2 } O }$ 1 has been successfully synthesized by hydrothermal synthesis. The structure of 1 has been comprehensively investigated by single-crystal analysis and various tests.Meanwhile，magnetic measurements demonstrate that 1 shows antiferromagnetic interactions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materialsand instruments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All reagents were commercially available and used as received without further purification. Powder X-ray difraction (PXRD） paterns at room temperature were collected on a Rigaku Miniflex II diffractometer using $\\operatorname { C u } K a$ radiation $( \\lambda = 1 . 5 4 0 5 9 8 \\mathrm { ~ \\AA } )$ at $4 0 \\mathrm { \\ k V }$ and $4 0 ~ \\mathrm { m A }$ in the range of $5 { \\leqslant } 2 \\theta { \\leqslant } 8 5 ^ { \\circ }$ ： SimulatedPXRDpatternswerederivedfromtheMercuryVersion1.4software (http://www.ccdc.cam.ac.uk/products/mercury). The elemental analyses of C, $\\mathrm { ~ H ~ }$ and $\\mathbf { N }$ were performed on an Elementar Vario EL II micro-analyzer. Thermogravimetric analysis (TGA) experiments were done on a TGA/NETZSCH STA449F3 thermogravimetric analyzer in ${ \\bf N } _ { 2 }$ atomosphere with the sample heated in an ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ crucible at a heating rate of $1 0 \\mathrm { { K / m i n } }$ . The FT-IR spectra were obtained on a Perkin-Elmer Spectrum One Spectrometer using KBr pellets in the $4 0 0 0 { \\sim } 4 0 0 ~ \\mathrm { c m } ^ { - 1 }$ range. Magnetic measurements were performed using a SQUID magnetometer (MPMS, Quantum Design) and a commercial Quantum Design Physical Property Measurement System (PPMS). Powder samples of $\\mathrm { [ C u L _ { 2 } ( H _ { 2 } O ) _ { 2 } ] { \\cdot } H _ { 2 } O }$ were placed in a gel capsule ample holder that was suspended in a plastic drinking straw. The magnetic susceptibility was measured at $0 . 1 \\mathrm { T }$ from 300 to $2 \\mathrm { K }$ (temperature scan of $5 \\mathrm { { K / m i n } }$ ), and the magnetization was measured at 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "K with applied fields from $^ { - 8 }$ to $^ { 8 \\mathrm { T } }$ (field scan of O.1 T/step). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Synthesis of $[ \\mathbf { C u L } _ { 2 } ( \\mathbf { H } _ { 2 } \\mathbf { O } ) _ { 2 } ] { \\cdot } \\mathbf { H } _ { 2 } \\mathbf { O }$ (1) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The mixture of $\\mathrm { C u ( N O _ { 3 } ) _ { 2 } } { \\cdot } 3 \\mathrm { H _ { 2 } O }$ 1 $\\mathrm { 9 0 . 6 0 ~ m g }$ ，0.38 mmol) and 3-(1,2,4-triazol-1-yl)benzoic acid (HL) $( 4 7 ~ \\mathrm { m g } , 0 . 2 5 ~ \\mathrm { m m o l } )$ in $1 0 . 0 ~ \\mathrm { m L }$ of distilled water was sealed into a $2 5 ~ \\mathrm { m L }$ Teflon-lined stainless-steel vessel under autogenous pressure,and then heated to $1 4 0 ^ { \\circ } \\mathrm { C }$ ,kept at this temperature for 2 days,and finally cooled to room temperature.Blue block crystals suitable for X-ray analyses were obtained, washed with distilled water and dried inair. Yield: $68 \\%$ (based on $\\mathrm { C u }$ )for1.Anal. Calcd.for $\\mathrm { C _ { 1 8 } H _ { 1 8 } C u N _ { 6 } O _ { 7 } }$ 1: C, 43.77; H, 3.67; N, $1 7 . 0 2 \\%$ . Found: C, 44.03; H, 3.71; N, $1 6 . 9 1 \\%$ . IR (KBr pellet, $\\mathrm { c m } ^ { - 1 }$ ): 3446 b,3139 m,3028 w, 1667 w,1568 vs,1527 s,1444 w,1392 vs,1360 vs,1283 s,1215 s,1148 vs,1065 m,987 s,899 m, 831 w, 780 s,728 w, 671 s,603 w, 526 w, 485 w, 433 w. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Structure determination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The single crystal of 1 was mounted on glass fibers with dimensions of $0 . 2 5 \\mathrm { m m } \\times 0 . 1 0 \\mathrm { m m } \\times 0 . 0 9 \\mathrm { m m }$ The single-crystal X-ray difraction measurement was performed on a Saturn ${ 7 2 4 } \\mathrm { C C D }$ for 1 which was equipped with a graphite-monochromatic MoKα radiation source ( $( \\lambda = 0 . 7 1 0 7 3 \\mathrm { ~ \\AA ~ }$ by an $\\omega$ scan mode. The structure was solved by direct methods using the SHELXS-97 version 5 packagel18]. Subsequent successive diferences Fourier syntheses yielded other non-hydrogen atoms. The final structures were refined using a full-matrix least-squares refinement on $F ^ { 2 }$ . All non-hydrogen atoms were refined anisotropically. Hydrogen atoms of ligands were added geometrically and refined using the riding model. All calculations were carried out by the SHELXL-97 program package of crystallographic software[19].A total of 1660 reflections were collected and 45O6 were independent ( $\\ R _ { \\mathrm { i n t } } = 0 . 0 3 1 0 ^ { \\cdot }$ ). All non-H atoms were refined anisotropicaly. The hydrogen atoms of organic ligands were placed in calculated positions and refined using a riding mode on the attached atoms with isotropic thermal parameters 1.2 times those of their carrier atoms.The latice water molecule is disordered over two positions with site occupancy factors of 0.54/0.46. The positions of hydrogen atoms attached to carbon atoms were generated geometrically. The title compound crystallizes in the monoclinic system, space group $P 2 _ { 1 } / n$ . Selected bond distances and bond angles for 1 are listed in Table 1,and hydrogen bonds are listed in Table 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1Description of the crystal structure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Structural analyses reveal that 1 crystallizes in monoclinic space group $P 2 _ { 1 } / n$ and features a 1D framework constructed by $\\mathrm { L } ^ { - }$ ligands, coordinated $_ \\mathrm { H _ { 2 } O }$ molecules and $\\mathrm { { C u ( I I ) } }$ ions. There exist one $\\operatorname { C u } ( \\mathbb { I } )$ atom, two $\\mathrm { L } ^ { - }$ ligands, two coordinated $_ \\mathrm { H _ { 2 } O }$ molecules,and one lattice water molecule in an asymmetric unit (Fig. 1). All the crystallographically unique $\\mathrm { { C u ( I I ) } }$ ions are six-coordinated in a distorted octahedral coordination geometry, and the $\\mathrm { C u - O }$ and $\\mathrm { { C u - N } }$ distances fall in the normal range of $1 . 9 4 6 ( 2 ) \\widetilde { \\textrm { -- } } 2 . 6 4 7 ( 2 ) \\mathring { \\textrm { A } }$ which is comparable to other relative reported compounds[20l. The adjacent $\\mathrm { { C u ( I I ) } }$ atoms are bound together through $\\mathrm { L } ^ { - }$ linker with the distance of 8.901(2) $\\mathring \\mathrm { A }$ ， which results in negligible interaction between adjacent $\\mathrm { { C u ( I I ) } }$ atoms. Two $\\mathrm { L } ^ { - }$ ligands adopt their N and $\\mathrm { ~ o ~ }$ atoms to chelate two $\\mathrm { { C u ( I I ) } }$ atoms to form a dinuclear [Cu2L2] cluster and the [CuzL2] clusters connect with each other to fabricate a 1D chained structure.The 2D supramolecular framework is constructed through hydrogen bonding interactions between adjacent 1D chains (dotted line of Fig. 2, hydrogen bonds of O(1W)-H(1WA)..O(12)， O(W)-H(1WB)...O(22), $\\mathrm { O ( 2 W ) – H ( 2 W A ) \\cdots N ( 1 2 ) } ,$ 0(3W)-H(3WA)...0(2W), 0(3W)-H(3WA).·:0(2W), and $\\mathrm { O ( 2 W ) \\mathrm { - } H ( 2 W B ) \\cdot \\cdot \\cdot O ( 2 2 ) } )$ ，which shows $\\pi { - } \\pi$ interaction in the layer with the centroid-to-centroid distance of 3.962(2) $\\mathring \\mathbf { A }$ and vertical distance of $3 . 7 6 8 ( 2 ) \\mathring { \\mathrm { A } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Powder X-ray diffraction patterns and thermal stability ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The thermogravimetric analysis (TGA) experiment shows that 1 has a weight loss of $1 0 . 6 \\%$ up to 170 $^ \\mathrm { { { o } } } \\mathrm { { C } }$ , in accord with the release of one lattice water molecule and two coordinate water molecules (calcd. $1 0 . 5 8 \\%$ ). No weight loss occurred until heating up to approximate $2 6 0 ~ ^ { \\mathrm { o } } \\mathrm { C }$ ，indicating that 1 has high thermal stability (Fig. 3a),and the framework began to decompose when keeping heating.The PXRD measurement and elemental analysis affirm the phase purity of 1. The experimental PXRD pattrn of 1 is in good agreement with its simulated one from the single-crystal X-ray data,and when the temperature increased to $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ ，the molecular framework of 1 remained stable,and continuous heating led to framework collapse, presumably due to decomposition of organic ligand (Fig. 3b). IR spectrum of the compound exhibits broad absorption centered at $3 4 4 6 ~ \\mathrm { c m } ^ { - 1 }$ ,which belongs to the $\\mathrm { O - H }$ stretching vibrations of water molecules. The strong bands at 1563 and $1 5 2 6 ~ \\mathrm { c m } ^ { - 1 }$ ，and $1 3 9 0 ~ \\mathrm { c m } ^ { - 1 }$ are characteristic of the asymmetric and symmetric stretching vibrations of carboxylate groups for the compound, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Magnetic properties of 1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The variable-temperature magnetic susceptibilities of 1 were measured under $1 \\ \\mathrm { k O e }$ over the $2 { \\sim } 3 0 0$ K temperature range (Fig. 4a). The measured $\\chi _ { \\mathrm { M } } T$ value at $3 0 0 ~ \\mathrm { K }$ is $0 . 7 5 6 ~ \\mathrm { c m ^ { 3 } { \\cdot } K { \\cdot } m o l ^ { - 1 } }$ ，which is higher than the expected spin-only value of $0 . 3 7 5 ~ \\mathrm { c m ^ { 3 } { \\cdot } K { \\cdot } m o l ^ { - 1 } }$ for an isolated ${ \\mathrm { C u } } ^ { 2 + }$ ion with $\\mathrm { g } = 2 . 0$ (Fig. 5a)[21]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Upon cooling, the $\\chi _ { \\mathrm { M } } T$ value increases to a maximum of $0 . 8 0 1 ~ \\mathrm { c m ^ { 3 } { \\cdot } K { \\cdot } m o l ^ { - 1 } }$ at $3 1 ~ \\mathrm { K }$ ，then the $\\chi _ { \\mathrm { M } } T$ value decreases to a minimum of $0 . 7 9 ~ \\mathrm { c m ^ { 3 } { \\cdot } K { \\cdot } m o l ^ { - 1 } }$ at $2 \\mathrm { ~ K ~ }$ . It indicates the existence of antiferromagnetic interaction in 1. The magnetic susceptibility above $5 0 ~ \\mathrm { K }$ follows well with the Curie-Weiss law. The fit of experimental data for the plot of Xm vs. $T$ over the temperature range of $5 \\sim 3 0 0 \\mathrm { ~ K ~ }$ yielded the Curie constant $\\mathrm { C } = 0 . 7 9 5 \\ \\mathrm { c m ^ { 3 } { \\cdot } K { \\cdot } m o l ^ { - 1 } }$ and Weiss constant $\\theta = - 0 . 1 2 \\ : \\mathrm { K }$ ， suggesting antiferromagnetic interactions among $\\mathrm { C u } ^ { 2 + }$ ions.Fig. 4b shows the field-dependent magnetization at $2 \\mathrm { ~ K ~ }$ to further confirm the magnetic interactions in 1.The magnetization increases rapidly as the field is lifted from zero,and then slowly increases to $0 . 9 2 ~ \\mu \\mathbf { B }$ at $8 0 0 ~ \\mathrm { { \\ k O e } }$ ，which reaches the saturation value $( 1 . 0 ~ \\mu \\mathbf { B } )$ ， supporting the antiferimagnetic ground state. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Insummary，a new 2D supramolecular coordination polymer $\\mathrm { [ C u L _ { 2 } ( H _ { 2 } O ) _ { 2 } ] { \\cdot } H _ { 2 } O }$ 1 has been successfully fabricated by hydrothermal synthesis.The single-crystal X-ray difraction analysis,elemental analyses, powder X-ray diffraction, IR spectroscopy and thermogravimetric analysis have been used to investigate the structure of compound 1. The 2D supramolecular framework is connected through the adjacent 1D chains via hydrogen bonding interactions.Magnetic measurements demonstrate that compound 1 shows interesting antiferromagnetic interactions. This work provides an effective way to construct new supramolecular coordination polymers and explore interesting properties using $\\mathbf { N }$ and O-donor bridging ligands. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）Edaoudi.J;osiVdakD;achtJ;OKe,.;ghisteaticdignoforeizedctioalitn isoreticular MOFs and their application in methane storage. Science 20o2,295,469-472.   \n(2) Gao,H.X.; Shreeve,J.M. Azole-based energetic salts.Chem. Rev. 2011,111,7377-7436.   \n(3) Allendorf,.DerC..ata.Koukeetagafreos.cv.   \n(4） Hu,Z;Deibert,B.J;Liuetetalganicfroksfoicalsingdeplosieectioc, 5815-5840.   \n(5）Lacroi,ft;itdoaistasat and molecular switches. Coord.Chem. Rev.2016,308,381-394.   \n(6) Férey,G. Hybrid porous solids: past,present, future.Chem. Soc.Rev. 20o8,37,191-214.   \n(7）Furman,J.D;WaeA.Y;TeatS.J;hsky.Aha,K.ablegnd-bsedmisiofroioac frameworks:anewapproachtophosphors forsolid statelighting andotherapplications.Chem.Mater: 2010,22,255-2260.   \n(8） Shekhah,O.;LuJ;FscerR.A.Wol,C.OFtinfisexistigndfuureaplicatios.C.Soc.Revl,46.   \n(9）FurukawaHCdaK.E;OKeee;agO..emistrdacaiosfetalganfrksciece4 1230444.   \n(10）Slater,A.; Cooper,A.Function-led design of new porous materials.Science 2015,348,988-997.   \n(1）Osawa;soaaie ligands inorganic light-emiting diodes that exhibit delayed fluorescence.Dalton.Trans.2015,44,8369-8378.   \n(12）Lazari,aaoCssedsece complex with 1D ferromagnetism and a hysteretic spin-flop transition. Dalton Trans.2009,3215-3221.   \n(13）ChenB.L;iag,.C;QiaGetaicfreoksiuciolorsfoiioofallolee.. 2010,43,1115-1124.   \n(14）BradshDa;etakocalitefcoifaio Chem. Soc.Rev.2012,41,2344-2381.   \n(15）Sarazin,Yad,.H;gDLyb;o,a,cdarthalexey bulkyON,ulidtategas:ssracesatiodciityilictereatioloras40.   \n(16）MacDoJCC;ifbby Growth Des.2001,1,29-38.   \n(17）Chen,C.L;uCY;CZgH.X;uW;Kag,.oyH.Ceaokb() coordinationpolrsontaingflexiblebsqunolyl)lgndsoleofteintraandintemoleclarromaticstackinginteractioor. Chem. 2003,42,3738-3750.   \n(18）Sheldrick,G.M.A short history of SHELX.Acta Cryst.2008,A64,112-122.   \n(19）Sheldrick,G.M.Crystal structure refinement with SHELXL.Acta Cryst. 2015,C71,3-8.   \n(20)Wang,S.H.; Zheng,F K.; Wu,M.F.; Liu,Z.F.;Chen,J.; Xiao,Y.; Li,R.; Guo,G.C.Assembly of $\\mathrm { C o ( I I ) / C u ( I I ) }$ -azidopolynuclear polymers: structural diversity and magnetic behavior. CrystEngComm.2014,16,20o9-2015.   \n(21）Gu,Z.G;u;JL;ebtld magnets.Dalton Trans.2008,5593-5602. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b62519b4771d630d42656e5c8f41c5fb24f8a0ea8b5ad2aa141c23facf1b2a03.jpg",
+        "table_caption": [
+            "Table 1．Bond Lengths $( \\mathring { \\mathbf { A } } )$ and Bond Angles ${ \\bf \\Pi } ^ { \\circ } )$ for 1 "
+        ],
+        "table_footnote": [
+            "Symmetry transformations used to generate the equivalent atoms: #1: $x - 1 / 2$ $- y + 1 / 2$ $z + 1 / 2$ ;#2: $x + 1 / 2$ ,-y +1/2,z-1/2 "
+        ],
+        "table_body": "<html><body><table><tr><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td><td>Bond</td><td>Dist.</td></tr><tr><td>Cu(1)-0(1W)</td><td>2.440(2)</td><td>Cu(1)-0(21)</td><td>1.9743(19)</td><td>Cu(1)-N(13)#2</td><td>2.005(2)</td></tr><tr><td>Cu(1)-O(11)</td><td>1.9495(19)</td><td>Cu(1)-N(23)#1</td><td>2.002(2)</td><td>Cu(1)-O(2W)</td><td>2.6470(19)</td></tr><tr><td>Angle</td><td>(）</td><td>Angle</td><td>(</td><td>Angle</td><td>(</td></tr><tr><td>0(11)-Cu(1)-0(21)</td><td>174.68(8)</td><td>N(23)#1-Cu(1)-N(13)#2</td><td>179.29(8)</td><td>N(13)#2-Cu(1)-O(1W)</td><td>89.08(9)</td></tr><tr><td>O(11)-Cu(1)-N(23)#1</td><td>88.55(8)</td><td>0(11)-Cu(1)-0(1W)</td><td>98.86(8)</td><td>N(13)#2-Cu(1)-O(2W)</td><td>93.239(58)</td></tr><tr><td>0(21)-Cu(1)-N(23)#1</td><td>92.23(8)</td><td>0(11)-Cu(1)-0(2W)</td><td>81.065(56)</td><td>N(23)#1-Cu(1)-O(2W)</td><td>86.017(57)</td></tr><tr><td>O(11)-Cu(1)-N(13)#2</td><td>91.27(8)</td><td>0(21)-Cu(1)-O(1W)</td><td>86.38(8)</td><td>0(21)-Cu(1)-0(2W)</td><td>93.687(57)</td></tr><tr><td>O(21)-Cu(1)-N(13)#2</td><td>87.89(8)</td><td>N(23)#1-Cu(1)-0(1W)</td><td>91.63(8)</td><td>0(11)-Cu(1)-0(2W)</td><td>81.065(56)</td></tr><tr><td>0(1W)-Cu(1)-0(2W)</td><td>177.697(52)</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8bc962f0f23e53a698b9bcb28080d873d3dc63f68824ff855ca1d6ff6baebbc2.jpg",
+        "table_caption": [
+            "Table 2. Hydrogen Bonds for Compound 1(A and o) "
+        ],
+        "table_footnote": [
+            "Symmetry transformations used to generate the equivalent atoms: #1: $ 1 - x .$ 1-y,2-z;#2: $1 / 2 + x .$ 1/2-y, $- 1 / 2 + z$ #3:3/2-x,-1/2+y,3/2-z;#4: "
+        ],
+        "table_body": "<html><body><table><tr><td>D-HA</td><td>d(D-H)</td><td>d(H·A)</td><td>d(D·A)</td><td><(DHA)</td></tr><tr><td>O(1W)-H(1WA)··O(12)#1</td><td>0.841(17)</td><td>2.189(16)</td><td>2.881(2)</td><td>139.7(19)</td></tr><tr><td>O(1W)-H(1WA)··O(12)</td><td>0.841(17)</td><td>2.56(2)</td><td>3.171(2)</td><td>130.3(18)</td></tr><tr><td>O(1W)-H(1WB)··O(22)#4</td><td>0.839(18)</td><td>2.137(18)</td><td>2.974(2)</td><td>175(2)</td></tr><tr><td>O(2W)-H(2WA)··N(12)#3</td><td>0.87(2)</td><td>2.25(2)</td><td>3.111(3)</td><td>178(2)</td></tr><tr><td>O(2W)-H(2WB)·.0(22)</td><td>0.872(12)</td><td>1.842(11)</td><td>2.701(2)</td><td>168(2)</td></tr><tr><td>0(3W)-H(3WA)··0(2W)</td><td>0.84(3)</td><td>2.32(4)</td><td>3.107(3)</td><td>156(3)</td></tr><tr><td>O(3W)-H(3WB)··O(1W)#2</td><td>0.84(3)</td><td>2.48(3)</td><td>3.229(3)</td><td>149(3)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc02af4061cda0884a15371f96c47e84d491417f378868ce0dde2b8205088052.jpg",
+        "img_caption": [
+            "Fig.1. Coordination environment around the $\\mathbf { C u ( I I ) }$ atoms, ${ \\bf L } ^ { - }$ ligand and coordinated water molecules in 1, with "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "hydrogenatoms omitted forclarity.Symmetry codes: #1: $x - 1 / 2 , - y + 1 / 2 , z + 1 / 2$ ;#2: $x + 1 / 2 , - y + 1 / 2 , z - 1 / 2$ patterns for compound1 to its simulated ones from single-crystal X-ray data red solid line is the fit to the Curie-Weiss law. (b)Field-dependent magnetization of1at2 K ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae0c08a3c3541d831c9c8b68fcc42ef724ba52d1af37dded8502f4ade0148d4e.jpg",
+        "img_caption": [
+            "Fig.2. 2D supramolecular structure with the dotted line standing for hydrogen bonds "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b7175b977ebc981bc39e679d65aee079a736566ce6cc1401ac5163ac3f2a3ac.jpg",
+        "img_caption": [
+            "Fig.3.(a) TGA curve of1.(b) Comparison of experimental PXRD "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/525c19b1cccdb2cdbb73aafec46d4ccf99be6f70f45e129c76e856ce9775c971.jpg",
+        "img_caption": [
+            "Fig.4.(a) Magnetic susceptibility of 1 plotted as xM vs.T and ${ \\chi } _ { \\mathbf { M } } \\mathbf { T }$ vs.T curves,and the "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A New Copper Coordination Polymer with Magnetic Property Based on 3-(1,2,4-Triazol-1-yl)benzoic Acid ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Heng-Da(张亨达） WANG Shuai-Hua(王帅华） WU Shao-Fan(吴少凡)",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/af9e1358cc562896c510e4de1e8d66f8be6cd7005b142c99a149bc3546ebd408.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The 2D supramolecular framework is constructed through hydrogen bonding interactions between adjacent 1D chains,in which the [CuzL2] clusters connect with each other to fabricate a 1D chained structure,and the magnetic investigation exhibits ferrimagnetic characteristics. ",
+        "page_idx": 8
+    }
+]

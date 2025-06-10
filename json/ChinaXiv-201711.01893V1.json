@@ -1,0 +1,606 @@
+[
+    {
+        "type": "text",
+        "text": "Dentition of Subengius mengi (Mammalia: Plesiadapoidea) and a reassessment of the phylogenetic relationships of Asian Carpolestidae ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K.Christopher BEARD1² NI Xi-Jun³ WANG Yuan-Qing³ MENG Jin³4 Daniel L.GEBO' (1 Biodiversity Institute,University of Kansas Lawrence,KS 66045,USA chris.beard@ku.edu) (2DepartmentofEcology and Evolutionary Biology,University ofKansasLawrence,KS 66045,USA) (3KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology andPaleoanthropology,Chinese Academy ofSciences Beijinglooo44,China) (4Division of Paleontology,American Museumof Natural History New York,NY10024,USA) (5DepartmentofAnthropology,Northern Illinois University DeKalb,IL 60115,USA) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractNew fossils pertaining to the oldest known Asian plesiadapiform,the Gashatan carpolestid Subengius mengi, clarify aspects of the dental anatomy of this taxon.The dentition of S.mengi is substantially more primitive than previously recognized in retaining a lower dental formula of 2.1.3.3,a low-crowned p4 with three main cusps that are less fully connate than their counterparts in species of Elphidotarsius,P3 with a narrower and structurally simpler lingual margin,and in lacking widely splayed paraconid and metaconid on ml.The unique structure of P3 in S.mengi and a reassessment of P3 anatomy in Elphidotarsius sp.,cf.E.florencae,suggest that certain cusp homologies on P3 in Carpolestidae have been misinterpreted in the past.Following a detailed character analysis,the phylogenetic relationships of carpolestids and their close relatives are reconstructed. The Bumbanian taxon Chronolestes simul is recovered as the most basal member of Carpolestidae.S.mengi and a second Bumbanian taxon, Carpocristes oriens,also appear to be relatively basal members of the carpolestid radiation,although none of these Asian carpolestid taxa seems to be specially related to each other.Dispersal of carpolestids between Asia and North America appears to have been restricted to earlier parts of the Paleocene,although carpolestids survived on both continents until sometime near the Paleocene-Eocene boundary. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words Paleocene,Gashatan,Plesiadapiformes,biogeography,phylogeny ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Beard K C,Ni XJ,Wang Y Q et al.,2016.Dentition of Subengius mengi (Mammalia: Plesiadapoidea) and a reassessment of the phylogenetic relationships of Asian Carpolestidae.Vertebrata PalAsiatica, 54(3):181-211 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plesiadapiforms are extinct, vaguely primate-like mammals known primarily from ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Paleocene sites in Europe and North America (e.g., Matthew and Granger, 1921; Gidley, 1923； Simpson,1928,1935; Russell, 1964; Rose,1975; Gingerich,1976; Bown and Rose, 1976; Szalay and Delson,1979; Fox,1984a,1991; Gunnel,1989; Beard and Houde,1989; Rose and Bown,1996; Hooker et al., 1999; Bloch et al., 2007). Among the more distinctive plesiadapiform clades is the Carpolestidae, species of which are readily identifiable on the basis of their uniquely specialized upper and lower premolars (Rose,1975; Biknevicius, 1986). Carpolestids were long thought to be endemic to North America, but several Asian taxa have been referred to this group over the past two decades (Beard and Wang,1995; Smith et al.,2004).Despite the low diversity of carpolestids currently documented in the Asian fossil record, these species are notable for including both primitive and highly autapomorphous taxa that together encompass much of the morphological disparity documented for the entire group. Accordingly, it is not surprising that these Asian carpolestids have stimulated broader discussions regarding phylogenetic relationships among carpolestids and their close relatives as well as the potential role of stratigraphy in interpreting phylogenetic relationships among fossil mammals (Beard and Wang,1995; Beard, 2000; Bloch et al., 2001; Silcox et al., 2001; Fox,2002). In addition to enhancing our knowledge of the diversity and distribution of Carpolestidae, these Asian forms provide valuable insights regarding the frequency, direction and timing of mammalian dispersal between Asia and North America during the Paleocene (Beard and Wang, 1995; Smith et al., 2004). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The oldest Asian carpolestid recovered to date is the Gashatan taxon Subengius mengi, which is currently documented solely from its eponymous type locality of Subeng in the Erlian Basin of Nei Mongol, near the international border between China and Mongolia. Prior knowledge of S. mengi includes multiple isolated teeth and a single lower jaw fragment (Smith et al.,2004; Missiaen and Smith, 2008). However, several tooth loci in S. mengi, including the systematically important P3-4, were previously documented only by broken or abraded specimens, hindering detailed anatomical interpretations and comparisons.Likewise, the single lower jaw fragment previously available for this taxon did not preserve all of the alveoli for the anterior lower dentition. Based on the limited sample of S. mengi available to them,Missiaen and Smith (2oo8) interpreted this taxon as a relatively basal carpolestid that is nested among a paraphyletic, pectinate series of species assigned to the North American genus Elphidotarsius. Specifically, these authors interpreted S. mengi as the sister group of a clade including Elphidotarsius russelli, Carpodaptes, Carpocristes, Carpomegodon,and Carpolestes (Missiaen and Smith, 2008: fig. 13). Despite reconstructing its phylogenetic position amidst the paraphyletic genus Elphidotarsius, Missiaen and Smith (2oo8) advocated ongoing usage of the generic name Subengius on the basis of what they considered to be its mosaic of primitive and autapomorphous characters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our joint fieldwork in the Erlian Basin has yielded more than forty additional specimens of S. mengi, including a maxillary fragment bearing serially associated cheek teeth, several lower jaw fragments,and multiple examples of most tooth loci. This new sample clarifies several aspects of the anatomy of this species,which in turn impacts our understanding of the phylogenetic position of S. mengi with respect to other carpolestids and putative carpolestids from Asia and North America. Here,we describe relevant aspects of the dental anatomy of S. mengi in order to reassess its phylogenetic position and the systematic status of the genus Subengius. Given ongoing controversy surrounding the phylogenetic status of other Asian taxa that have been referred to the Carpolestidae (Beard and Wang,1995; Beard, 2000; Silcox et al., 2001; Bloch et al., 2001; Fox,2002), a second goal of this study is to reassess their relationships as well. Of special significance in this context is the Bumbanian taxon Chronolestes simul, which has been interpreted either as the most basal member of the Carpolestidae (Beard and Wang,1995) or as the sister group of a broader assemblage of plesiadapiforms that also includes plesiadapids and saxonelids (Silcox et al., 2Oo1). Finally, we evaluate the geographic distribution of carpolestid species in a phylogenetic context to draw inferences about the number, timing,and probable direction of trans-Beringian dispersal events in this clade.Because carpolestids have been shown to be arboreally adapted mammals with grasping big toes (Bloch and Boyer, 2Oo2), mapping the history of carpolestid dispersal across Beringia presumably provides useful proxy data for reconstructing the terrestrial paleoenvironments of that high latitude region during the Paleocene. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Systematic paleontology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ClassMammaliaLinnaeus,1758 CohortPlacentalia Owen, 1837 Mirorder Primatomorpha Beard,1991 SuperfamilyPlesiadapoidea Trouessart, 1897 Family Carpolestidae Simpson, 1935 Subfamily Carpolestinae Simpson, 1935 Subengius Smith et al., 2004 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Type speciesSubengius mengi Smith et al., 2004. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Age and distribution Gashatan (Late Paleocene) of Nei Mongol Autonomous Region, China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Emended diagnosisDiffers from Elphidotarsius in having less exodaenodont p4 bearing a tiny mesial cusp and three main apical cusps that are less fully connate than in Elphidotarsius.Further differs from Elphidotarsius sp., cf.E. florencae,in having P3 with a parastyle and two distinct lingual cusps that are lacking in the former species. Further differs from $E$ ，shotgunensis, $E .$ wightoni, E. russelli, and more advanced carpolestines in having isolated lingual cusps on P3 that are not integrated within a raised lingual cingulum. Lower dental formula (2.1.3.3) as in Elphidotarsius sp., cf. $E .$ florencae,but differs from those of $E$ shotgunensis (3.1.3.3) and $E$ .wightoni and $E$ 、russelli (2.1.2.3).Further differs from species ofElphidotarsius aside from $E$ .wightoni in having less exodaenodont ml.Differs from carpolestines other than Elphidotarsius in having simpler P3-4 with fewer cusps in the buccal row and less exodaenodont p4 bearing fewer apical cusps. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Subengius mengi Smith et al., 2004 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Holotype Inner Mongolia Museum (IMM) 2001-SB-6,isolated left P4. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Type locality Subeng,Erlian Basin,Nei Mongol Autonomous Region, China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensIVPP V 14702, right maxilla fragment preserving the crowns of P3-M1 (P4 and M1 are badly damaged); V14703,right dentary fragment preserving the crown of $\\mathrm { m } 2$ and alveoli for the anterior dentition; V 147O4, right dentary fragment preserving the damaged crown of ${ \\mathfrak { p } } 4$ and alveoli for the anterior dentition; V 147O5,right dentary fragment preserving the crowns of $\\mathsf { p 4 - m } 2$ and alveoli for c1 and p2-3;V 14706.1-3,3 right p4; V 14706.4,left p4; V 14706.5-6, 2 right ml; V 14706.7-8, 2 left m1; V 14706.9-10,2 right m2; V 14706.11-12, 2 left m2; V 14706.13,left m3; V 14706.14,left m3 talonid; V 14706.15-16, 2 left I1; V 14706.17-18, 2 right P3; V 14706.19, left P3; V 14706.20-22,3 right P4; V 14706.23-25,3 left P4; V 14706.26, lingual fragment of P4; V 14706.27-30, 4 right M1; V 14706.31, left M1; V 14706.32, V 14706.34, 2 right M2; V 14706.35, V 14706.37-38, 3 left M2; V 14706.33, V 14706.39-41, 4 right M3; V 14706.36,left M3. Metric data for the new sample of Subengius mengi are provided in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/79e31d2eb3535a921c59b922bd69a2ba4ba92b50c45cc182293f8afb6d40e94e.jpg",
+        "table_caption": [
+            "Table1 Summary of dental measurements for Subengius mengi (mm) "
+        ],
+        "table_footnote": [
+            "Abbreviations: n.sample size; OR.observed range; x. mean; s.standard deviation; V.coefficient of variation; L mesiodistal length;W.buccolingual width. "
+        ],
+        "table_body": "<html><body><table><tr><td>Tooth/dimension</td><td>n</td><td>OR</td><td>X</td><td>S</td><td>V</td></tr><tr><td>P3L</td><td>4</td><td>1.08-1.28</td><td>1.19</td><td>0.086</td><td>7.22</td></tr><tr><td>P3W</td><td>4</td><td>1.39-1.58</td><td>1.48</td><td>0.079</td><td>5.34</td></tr><tr><td>P4L</td><td>5</td><td>1.09-1.22</td><td>1.16</td><td>0.053</td><td>4.54</td></tr><tr><td>P4 W</td><td>4</td><td>1.51-1.71</td><td>1.62</td><td>0.087</td><td>5.37</td></tr><tr><td>M1L</td><td>4</td><td>1.02-1.17</td><td>1.11</td><td>0.072</td><td>6.54</td></tr><tr><td>M1W</td><td>4</td><td>1.65-1.78</td><td>1.72</td><td>0.067</td><td>3.90</td></tr><tr><td>M2 L</td><td>5</td><td>1.07-1.18</td><td>1.12</td><td>0.047</td><td>4.22</td></tr><tr><td>M2 W</td><td>5</td><td>1.58-1.74</td><td>1.69</td><td>0.063</td><td>3.73</td></tr><tr><td>M3L</td><td>5</td><td>0.97-1.05</td><td>1.02</td><td>0.031</td><td>3.01</td></tr><tr><td>M3W</td><td>5</td><td>1.51-1.60</td><td>1.55</td><td>0.034</td><td>2.17</td></tr><tr><td>p4L</td><td>5</td><td>1.54-1.67</td><td>1.60</td><td>0.053</td><td>3.32</td></tr><tr><td>p4 W</td><td>5</td><td>0.94-1.09</td><td>0.98</td><td>0.061</td><td>6.25</td></tr><tr><td>ml L</td><td>5</td><td>1.15-1.24</td><td>1.21</td><td>0.035</td><td>2.91</td></tr><tr><td>m1 W</td><td>5</td><td>1.02-1.18</td><td>1.10</td><td>0.067</td><td>6.06</td></tr><tr><td>m2L</td><td>5</td><td>1.08-118</td><td>1.12</td><td>0.042</td><td>3.69</td></tr><tr><td>m2 W</td><td>5</td><td>1.11-1.26</td><td>1.18</td><td>0.056</td><td>4.75</td></tr><tr><td>m3L</td><td>1</td><td>1.44</td><td></td><td></td><td></td></tr><tr><td>m3 W</td><td>1</td><td>1.04</td><td>一</td><td></td><td>二</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diagnosis As for the genus (currently monotypic). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Description and comparisonsThree fragmentary dentaries, IVPP V 14703,V 14704 (Fig.1) and V 14705 (Fig. 2), clarify the nature of the lower anterior dentition in Subengius mengi.None of these specimens preserves the intact crowns of teeth anterior to $\\mathsf { p 4 }$ ，but their presence is documented either by roots or alveoli. In V 14703 and V 14704 the roots or alveoli for five teeth anterior to p4 can be discerned. Based on its relatively large size and subhorizontal orientation, the most anterior alveolus,which is incomplete in V 14704, clearly held the enlarged and procumbent il in life.Immediately posterior and slightly labial to the alveolus for il lies the alveolus of a much smaller tooth.As is the case in other basal carpolestids, this alveolus supported a tooth root that was implanted at an intermediate angle in the dentary,being less inclined than the alveolus for il,yet less vertical than the small alveoli between it and p4.By analogy with other basal carpolestids, this alveolus almost certainly supported the crown of i2 in S. mengi. In terms of its position and orientation, the i2 alveolus in V 14704 resembles that of Elphidotarsius shotgunensis (Gazin,1971; Fox,1993). In $E$ .wightoni the apparently homologous locus is separated from il by a short diastema (Fox,1984b). In Elphidotarsius sp., cf. E. florencae,the alveolus for i2 appears to have been relatively larger than in S. mengi, although in both forms the alveoli for il-2 are closely spaced.In neither V 14703 nor V14704 is there evidence of a tiny,labially displaced alveolus for i3,in contrast to the condition in E. shotgunensis (Gazin, 1971; Fox, 1993). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/806e741f9d32d323a8f2ea820f70d212788301f10e7503bd9bc2fed184afd143.jpg",
+        "img_caption": [
+            "Fig.1 Buccal view of right dentary fragment of Subengius mengi (IVPP V 14704) preserving partial alveoli foril-2,roots of cl and p2,alveolus for p3,and damaged crown of p4 Note that the dentary was actually deeper than shown here "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In all three dentary fragments preserving this region, the tooth locus occurring immediately posterior to i2 had a relatively vertical root (or alveolus). This locus likely corresponds to cl in S. mengi,as it does in species of Elphidotarsius and other basal carpolestids. In $\\mathrm { ~ V ~ } 1 4 7 0 4$ ,which best preserves this part of the dentary, the canine alveolus appears to have been slightly smaller than that for i2. Proceeding posteriorly, the adjacent crown was supported by a similarly vertical root that was slightly smaller than that for c1, judging from the condition in V 14704. This locus is interpreted as p2 in S. mengi,a tooth that was also retained in Elphidotarsius sp., cf. E. florencae, and E. shotgunensis but which was lost in $E$ .wightoni and $E$ 、russelli. Judging from V 14704, the crown of p2 in S. mengi was highly reduced and likely failed to retain a distinct talonid heel. The alveolus immediately anterior to p4 in S. mengi is similar in circumference to those that are interpreted as supporting cl and p2. It evidently supported a reduced, single-rooted p3.In contrast, the crown of p3 in Elphidotarsius sp., cf.E. florencae,is relatively large for a carpolestid, and it retains two roots in a single,relatively large alveolus (Rose, 1975). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/23d331b3613311776f85549e033493c03e6d1d6d3354fe4ab27ae3a995259af5.jpg",
+        "img_caption": [
+            "Fig.2Right dentary fragment of Subengius mengi (IVPP V 14705) preserving alveoli for p2-3 and crowns of p4-m2 A.buccal view; B.occlusal view; C. lingual view "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The plagiaulacoid p4 of carpolestids has traditionally weighed heavily on phylogenetic analyses of the group. Several examples of p4 are represented in the current sample,and these show only a minor amount of morphological variation. The p4 of S. mengi is notable in several respects (Fig. 2). In buccal view the crown is remarkably low in relation to its length,and its three main apical cusps remain more individualized and less fully connate than is the case in any species of Elphidotarsius. Rose (1975) suggested that the three main apical cusps on $\\mathfrak { p } 4$ in basal carpolestids are serially homologous with the paraconid, protoconid,and metaconid of carpolestid molars. Other workers (e.g., Fox,1984b; Silcox et al., 2001) have employed a simple front-to-back numbering scheme to designate these cusps,although the later practice carries the disadvantage of potentially giving nonhomologous cusps the same numerical designation (Silcox et al., 2001: fig. 4). In S. mengi a tiny, incipient anteriormost apical cusp on $\\mathfrak { p } 4$ is situated lower on the crown and thus farther from the succeeding cusp (the paraconid or second apical cusp) than is the case in species of Elphidotarsius. In lingual view the failure of the three main apical cusps to become fully connate is exemplified by the well-developed vertical furrows separating them, a condition that never occurs in species of Elphidotarsius. In occlusal view the three main apical cusps are almost perfectly aligned anteroposteriorly, in contrast to the condition in Elphidotarsius wightoni and $E$ .florencae,in which the second and fourth apical cusps (paraconid and metaconid, respectively) are situated farther lingually than the third apical cusp (protoconid).A relatively trenchant crest descends the posterior surface of the p4 trigonid,connecting the ultimate apical cusp with the single talonid cusp, which is more distinctly cuspidate than is the case in species of Elphidotarsius. Posterolingually,the crown is modestly excavated in the area inferior and lingual to the crest connecting the ultimate apical cusp and the talonid cusp. A raised posterolingual cingulid defines this part of the crown. A short posterobuccal cingulid lines the buccal side of the talonid. The crown of p4 in S. mengi is moderately exodaenodont, with two main exodaenodont lobes being apparent in buccal view. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "S. mengi has a weakly exodaenodont ml that is otherwise notable for its relatively primitive, if somewhat variable, trigonid structure. In V 14705 all three trigonid cusps on ml are similar in terms of height and basal circumference,and the paraconid and metaconid are not as widely splayed as is the case in more derived carpolestids (Fig. 2). In V 14706.7 the paraconid and metaconid of ml are more divergent (Fig.3J), though less so than in $E$ shotgunensis and $E$ .wightoni.All species of Elphidotarsius aside from $E .$ wightoni differ from S. mengi in having more strongly exodaenodont ml crowns.As is generally the case in species of Elphidotarsius,the cristid obliqua on ml in S. mengi ascends the lingual part of the posterior trigonid wall to merge with the apex of the metaconid. Lingually, a strong notch separates the entoconid from the lingual base of the posterior trigonid wall. Most species of Elphidotarsius likewise bear a strong lingual notch on ml between the trigonid and the entoconid, but this structure is less apparent in the sample of Elphidotarsius sp., cf. E. florencae, from Rock Bench Quarry in the Bighorn Basin because the lower molar cusps of this taxon tend to be more inflated.The hypoconulid of ml is remarkably distinct and cuspidate in S. mengi, more so than in any species of Elphidotarsius. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fa641b398b2b7e2e28723acae930ffd82e1d131e297f189167f72d4e06f9e77.jpg",
+        "img_caption": [
+            "Fig.3Selected teeth of Subengius mengi,all shown in occlusal view A.IVPPV14706.36,isolated left M3; B.V14706.32, isolated right M2; C.V14706.35,isolated left M2;D.V14706.24,isolated left P4;E.V 14706.25,isolated left P4;F.V14702,right P3 preserved in maxillary fragment; G.V14706.15,isolated left I1; H.V14706.17, isolated right P3; I. V14706.19, isolated left P3; J.V14706.7, isolated left m1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Aside from differing from Elphidotarsius sp., cf. E. florencae, in having relatively acute, uninflated cusps and trenchant crests, $\\mathrm { m } 2 { - } 3$ in S.mengi closely resemble their counterparts in species of Elphidotarsius. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The upper central incisor of S. mengi, like those of other undoubted carpolestids, bears two apical cusps and two smaller basal cusps (Fig. 3G). The apical cusps include an anterocone and a laterocone, which are similar in height, although the laterocone is larger volumetrically. The anterocone projects farther labially, while the laterocone is situated distally and lingually with respect to the former cusp. A similar conformation of the apical cusps on Il occurs in Elphidotarsius russelli, Carpodaptes hazelae, C. stonleyi, and C. cygneus (Krause,1978;Rose et al.,1993;Fox,1993,2002; Silcox et al., 2001), suggesting that this represents a primitive pattern, perhaps for Carpolestinae sensu Beard and Wang (1995). A different morphological patern occurs in Carpolestes nigridens and C. simpsoni, in which the anterocone and laterocone are aligned mesiodistally (Bloch and Gingerich,1998), reflecting lingual displacement of the anterocone with respect to the condition prevailing in most other carpolestids.A short apical crest runs distally from the anterocone toward the base of the laterocone.A longer mesial crest, which originates near the summit of the anterocone, descends the crown of Il toward the mesiobasal cusp.Near the base of the anterocone, the mesial crest is slightly swollen in the location that a mediocone would occupy if one were present. Smith et al. (2004:48) referred to this structure as “a very small elongated bulge.”A second apical crest runs mesially from the laterocone toward the anterocone, forming a V-shaped connection with the apical crest from the anterocone.A distal crest from the laterocone descends the crown toward the distobasal cusp, which is substantially larger than the mesiobasal cusp. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The tooth crowns between Il and P3 remain unknown in S.mengi. In other undoubted carpolestid taxa, the crowns of these intermediate tooth loci are small and single-cusped (e.g., Fox,1993; Bloch and Gingerich,1998),rendering them difficult to recover by screen-washing. Accordingly, the upper dental formula of S. mengi is unknown. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Because they occlude with the highly specialized plagiaulacoid p4,P3-4 show a very derived patern in undoubted carpolestids. As such, variation in the anatomy of P3-4 among these animals is widely held to be systematically important (e.g., Rose,1975; Fox,1984b; Beard and Wang, 1995; Silcox et al., 2001). P3-4 in S. mengi are described in detail for the first time here (Fig.3D-F, H-I). Smith et al. (2004) and Missiaen and Smith (2008) reported several examples of P3-4 in S. mengi, but the specimens available to them were either broken or abraded, obscuring certain anatomical details. In S. mengi P3 is nearly triangular in occlusal outline, because it is much longer buccally than lingually. In this very general way, P3 in S. mengi resembles that of Elphidotarsius sp., cf. E. florencae, and differs from those of other species of Elphidotarsius. In both S. mengi and Elphidotarsius sp., cf.E. florencae,P3 lacks the strong distolingual expansion that characterizes P3 in other species of Elphidotarsius. The buccal side of P3 in S. mengi bears three cusps, including a parastyle, paracone and metacone. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The parastyle is smaller and lower than the paracone and metacone,and it is separated from the latter cusps by a small gap. There is no crest connecting the parastyle to the paracone. The paracone and metacone are closely spaced but less fully connate than is the case in species of Elphidotarsius,with the possible exception of Elphidotarsius sp., cf. E. florencae. Distal to the metacone, there is neither a metastyle nor any substantial development of a postmetacrista. Lingual and slightly mesial to the paracone occurs a surprisingly large central cusp,which is clearly homologous with the cusp that is traditionally considered to be the paraconule on P3 in undoubted carpolestids (e.g., Silcox et al., 20o1). On relatively pristine examples of P3 in S. mengi, a tiny crest can be observed arising from the apex of the central cusp and running toward the parastyle (Fig.3H); however, this diminutive crest fails to connect these structures in any of the specimens at hand. Distally,an intermediate ridge or median anteroposterior crest emanates from the central cusp. The intermediate ridge runs distally or distobuccally from the central cusp,and it typically gives rise to a small cuspule near the lingual base of the metacone. The lingual part of P3 in S. mengi is somewhat variable, but in all examples of P3 at hand, this part of the tooth is dominated by a cusp that is located lingual and slightly anterior to the central cusp (Fig. 3F,H-I). In terms of its position, this mesiolingual cusp is clearly homologous with the cusp that is traditionally regarded as a protocone in undoubted carpolestids. However, the mesiolingual cusp on P3 in S. mengi is unusual because it is smaller—both in terms of volume and height—than the nearby central cusp and because it is relatively isolated, as opposed to being integrated within a raised cingular structure, as is typically the case in species of Elphidotarsius (with the notable exception of Elphidotarsius sp., cf. E. florencae). The mesiolingual cusp on P3 gives rise to a variably developed distal crest. In two specimens (V 14702 and V 14706.19) this distal crest is extremely short, and it fails to reach a nearby cuspule lying near the distal margin of the crown (Fig. 3F, I). In two other specimens (V 14706.17 and V 14706.18), the distal crest is more extensive, being more or less confluent with the nearby cuspule and its associated crest (Fig. 3H). In the latter specimens the mesiolingual cusp and its distal crest and the nearby cuspule and crest together form a structure that runs lingual and roughly parallel to the intermediate ridge. Distolingual to the mesiolingual cusp on P3 a weak but variably developed cuspule protrudes lingually. The later cuspule, which is probably homologous with the structure often regarded as a hypocone in undoubted carpolestids, is confluent with a weak postcingulum, but it remains unconnected to the mesiolingual cusp. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Because of its longer lingual margin, P4 is more nearly quadrate but similar in size to P3 in S. mengi. The buccal side of the crown of P4 is dominated by four or five cusps and cuspules. Two small mesial cusps, equivalent to the parastyle and preparaconal cusp, occupy the mesiobuccal margin of the crown. These low cusps are closely connate,but they are separated from the taller and more voluminous paracone by fairly prominent furrows buccally and lingually. The paracone, which is centrally located on the buccal margin of the crown, is closely appressed to the metacone,which is slightly smaller and lower than the paracone. A diminutive fifth buccal cuspule (the metastyle) is variably present. There is no trace of the metastyle in V 14706.24, while this structure is tiny but clearly present in V 14706.22 and V 14706.25. Directly lingual to the paracone is a large, cuspate paraconule. Unlike its homologue in other undoubted carpolestids, the paraconule on P4 in S. mengi is relatively isolated, because it is not fully integrated within an intermediate ridge. Instead of having a mesiodistally continuous intermediate ridge, P4 in S. mengi bears two small cuspules located mesial and distal to the paraconule, each of which is associated with a short crest. The mesial cuspule is located lingual to the preparaconal cusp.It gives rise to a short mesiobuccally oriented crest that merges with the precingulum; however, this mesial cuspule and its associated crest do not merge with the paraconule. Similarly, the distal cuspule occurs lingual to the metacone, where it gives rise to a short distobuccally oriented crest that merges with the postcingulum.Farther lingually, a second pair of cuspules and their associated crests variably occurs. In V 14706.24 and V 14706.25 the second pair of cuspules and crests is relatively well developed, while in V 14706.22 these structures are very weak. In examples of P4 in which the second pair of cuspules and associated crests is evident, they run parallel to the paths taken by cuspules and crests that would normally be associated with the intermediate ridge.The lingual margin of P4 is dominated by the protocone. Lingual to this cusp and flanking it mesially and distally are the pericone and hypocone, respectively. The later cusps are continuous with the pre- and postcingula. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The upper molars of S. mengi are documented by the heavily damaged M1 in the right maxillary fragment $\\mathrm { ~ V ~ } 1 4 7 0 2$ and multiple isolated teeth. These upper molars show a generalized carpolestid morphology, being notable for either lacking hypocones altogether or else having very diminutive hypocones. Additionally, upper molars that are identified as M1-2 on the basis of having paracone and metacone of roughly equivalent height lack development of a postparaconule crista. This is true even in the case of pristine upper molars showing little if any wear (e.g., V 14706.32 and V 14706.35). Upper molar specimens that are identified as M3 on the basis of having metacones that are relatively reduced in height sometimes display a postparaconule crista (e.g., V 14706.36). Overall, the upper molar morphology of S. mengi most closely resembles that of Elphidotarsius sp., cf. E. florencae, in having hypocones and postparaconule cristae that are either very reduced or absent altogether (particularly on M1-2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion The enhanced sample of Subengius mengi reported here improves our understanding of the dental anatomy of this taxon in the following ways: 1) the lower dental formula is now known to be 2.1.3.3, not 2.1.2.3 as Missiaen and Smith (2008) surmised; 2) the anatomy of the plagiaulacoid p4 has been shown to be very primitive in being weakly exodaenodont, in having only three main apical cusps that remain relatively individualized,and in having a very diminutive mesial apical cusp on p4 that is widely separated from the three main apical cusps; 3) ml has been shown to be weakly exodaenodont and to retain a relatively primitive trigonid morphology in which paraconid and metaconid are not widely splayed; 4) I1 has been shown to be relatively primitive in the sense that the anterocone is located mesial and labial to the laterocone,rather than being mesiodistally aligned with it as is the case in Carpolestes; 5) P3 has been shown to be more primitive than that of any other undoubted carpolestid aside from Elphidotarsius sp., cf. E. florencae, in having only three buccal cusps and a narrower and structurally simpler lingual margin; 6) P4 has been shown to be relatively primitive in having four or five buccal cusps,although the lingual part of this tooth appears to be derived in having lost the intermediate ridge and developed some neomorphic cuspules on either side of the central cusp; and 7) M1-2 have been shown to be relatively primitive in lacking hypocones and postparaconule cristae. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Earlier workers have reconstructed the phylogenetic position of S. mengi as being fairly basal with respect to the carpolestid radiation (Smith et al., 2Oo4; Missaen and Smith, 2008). The new anatomical data now available for this taxon suggest that S. mengi may be even more basal than earlier workers have thought. In order to address this possibility,we undertake a detailed character analysis before proceeding to conduct a phylogenetic analysis based on maximum parsimony. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3Character analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our character analysis is based on the previous work of Beard and Wang (1995),Beard (2000), Silcox et al. (20o1),Bloch et al. (2001),and our novel observations. In cases where we disagree with the character analyses or coding schemes of previous workers, we point out the reasons why our solutions are preferred. We refer to specific characters employed in the analysis of Silcox et al. (20o1) using the convention S1, S2, S3,etc.(to indicate characters 1, 2 and 3 of Silcox et al., 2001). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cusp homologies on P3 in CarpolestidaeOf special interest for anatomical and phylogenetic interpretations of Subengius and other carpolestids is the structure of the lingual part of P3. Silcox (2001:189) noted the variable presence of a protocone on P3 among plesiadapiforms and various early placental mammals,although she considered this structure to be“very well developed” in all plesiadapoids,among which she claimed that \"no variability is observed.” Closer inspection of P3 in S. mengi and Elphidotarsius sp., cf. E. florencae,reveals that Silcox (20ol) and her coworkers (Silcox et al., 2001) are incorrect in this assessment, at least on the basis of the cusp homologies for P3 that they themselves advocate.P3 in Elphidotarsius sp., cf. $E .$ florencae, is documented by a single specimen, YPMPU 17439 (Fig. 4; also see Rose,1975: fig.8). P3 in this specimen bears two main buccal cusps,which are universally interpreted as paracone and metacone (Rose, 1975; Beard and Wang,1995; Beard,2000; Silcox et al.,2001). Lingual to these two buccal cusps, there is a suprisingly large “central cusp”(as described by Rose,1975:16), which is confluent with an arcuate pair of crests both mesially and distally. This central cusp and its associated crests are situated farther lingually than is the case in either S.mengi or other species of Elphidotarsius. The homology of this “central cusp” was not explicitly addressed by Rose (1975), but Silcox et al. (20o1) scored Elphidotarsius sp., cf. E. florencae,as having a conule on P3 (see S25), and this identification can only be based on the “central cusp” of Rose (1975). Lingual to the \"central cusp”,P3 in Elphidotarsius sp., cf. E. florencae,is remarkably simple. Rose (1975:16) described the relevant anatomy as follows: “Internal to this [the central cusp] is a lingual shelf,unfortunately fractured anteriorly in the only known specimen, so the possible presence of a cusp there can be neither verified nor ruled out.” In contrast, Silcox et al. (2001:142) interpreted the same specimen as having a more complicated P3 morphology:“Although the only P3 known for Elphidotarsius sp., cf. $E .$ florencae(YPM-PU17439) is missing a chip of enamel mesiolingually, it appears to contrast with $E$ .russelli in the absence of a hypocone and in bearing only a poorly developed protocone, so that the lingual border is much shorter\" (italics added for emphasis). At the very least, the observation made by Silcox et al. (2001) that Elphidotarsius sp.,cf. E. florencae,bears “only a poorly developed protocone” on P3 conflicts with Silcox's (20ol） assertion that a P3 protocone is invariably “very well developed” in plesiadapoids. However, our reassessment of YPM-PU 17439 reveals that the missing chip of enamel on the mesiolingual margin of P3 in this specimen is minor indeed (Fig. 4). Moreover, enough of the lingual shelf of P3 is preserved to see that the mesial part of this structure arcs buccally to climb the lingual surface of the central cusp,with no sign of an additional cusp being present there. If a cusp that was supposedly homologous with the protocone occurred on the lingual margin of P3 in YPMPU17439, it would have differed radically from those of other plesiadapoids and (especially) other species of Elphidotarsius in terms of its size,location,and relationship to adjacent structures on P3.We suspect that no distinct cusp occurred lingual to the “central cusp\" on P3 in Elphidotarsius sp.,cf.E. florencae.If so,Elphidotarsius sp.,cf.E. florencae,either lacked a protocone on P3 altogether or its protocone had already been transformed into the structure that Rose (1975) designated as the \"central cusp\" on P3. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/2726a334400ed6c709b6ef9d933aedca719ee36132b8c32b0259cb0fbfb2d5af.jpg",
+        "img_caption": [
+            "Fig.4P3 morphology in the North American basal carpolestid Elphidotarsius sp.,cf.E.florencae (YPM-PU 17439) "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Note the enlarged central cusp,which is situated relatively lingually. Also note the small missing chip of enamel lingual to the central cusp ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As noted previously, P3 in S. mengi is somewhat variable,but in general this tooth is structurally intermediate between that of Elphidotarsius sp., cf. E. florencae,and those of other speciesof Elphidotarsius( $E$ ，wightoni,E. shotgunensis,and E.russelli). In contrast to P3 in $E$ ，wightoni,E. shotgunensis,and $E$ 、russelli, the main lingual cusp on P3 in S. mengi is relatively small (smaller than the central cusp in terms of both height and volume),and it fails to be integrated within a raised lingual shelf or cingulum. This raised lingual shelf or cingulum on P3 also accommodates a distolingual cusp (or “hypocone\"） in $E$ ，shotgunensis and $E .$ russelli (the distolingual cusp appears to be absent in $E$ .wightoni,but the raised lingual shelf that subsumes the mesiolingual cusp remains). In contrast to P3 in Elphidotarsius sp., cf.E. florencae,the central cusp on P3 in S. mengi is located farther buccally, near the base of the paracone.A similar condition describes P3 in $E .$ .wightoni,E. shotgunensis,E. russelli,and younger species of carpolestids aside from the problematic Chronolestes simul. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As aptly noted by Silcox et al. (2001:133),“Homologies of cusps and crests in carpolestids can be difficult to establish because even the most primitive species have teeth that are unusually derived.” Nevertheless, some a priori assessment of cusp homology is necessary for coding any character-taxon matrix as a prelude to formal phylogenetic analysis. Our observations regarding P3 anatomy in such basal carpolestids as Elphidotarsius sp., cf. $E$ florencae,and S. mengi suggest that traditional assessments of cusp homology on P3 among undoubted carpolestids are probably wrong.In such basal plesiadapoids or closely related outgroups as Pandemonium dis and Chronolestes simul, P3 bears a distinct and reasonably large lingual cusp that has been identified as a protocone by a broad consensus of workers (e.g.,Van Valen,1994; Beard and Wang,1995; Silcox et al.,2001). These same taxa lack a central cusp or conule on P3 altogether. In contrast, in such undoubted plesiadapoids as Pronothodectes matthewi and Saxonella naylori, P3 bears a relatively small conule and a tall, voluminous protocone that is located near the center of a buccolingually broad lingual lobe. This distribution of P3 characters suggests that basal plesiadapoids (and/or their sister taxon) had a substantial protocone on P3, while a conule would either have been absent or small If this reconstruction of the P3 morphotype for plesiadapoids is accurate, then the anatomy of P3 in Elphidotarsius sp., cf.E. florencae,and S. mengi is highly autapomorphous, no matter how one interprets cusp homologies. The presence of a large central cusp and the apparent absence of a lingual cusp on P3 in Elphidotarsius sp., cf.E. florencae, along with the presence of a small lingual cusp coupled with a larger central cusp on P3 in S. mengi, suggests that the central cusp on P3 in these taxa is actually homologous with the protocone rather than a conule. If true, P3 in Elphidotarsius sp., cf. E. florencae, S. mengi and other undoubted carpolestids lacks a conule,rendering this tooth in basal carpolestids similar to those of Pandemonium and Chronolestes in this regard. The small lingual cusp on P3 in S. mengi, which appears to be absent altogether in Elphidotarsius sp., cf. E. florencae, would thus be a neomorphic structure that is not strictly homologous to the protocone that occurs on P3 in plesiadapids and saxonellids. Note that our assessment of cusp homology is also consistent with the anomalously lingual position of the central cusp on P3 in Elphidotarsius sp., cf. E. florencae. Alternatively, one must posit that Elphidotarsius sp., cf. E. florencae-widely recognized as the most basal known carpolestid (or carpolestine if Chronolestes is accepted as a carpolestid)—is autapomorphous with respect to younger and seemingly more derived carpolestid taxa in having lost the protocone on its P3 while enlarging and shifting lingually its conule such that the latter structure mimics a protocone in some respects. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To summarize,we interpret the cusp homologies on P3 among basal carpolestids as indicating that carpolestids have radically modified their P3 morphology with respect to that of basal plesiadapoids. However, this is hardly surprising, given that P3 in carpolestids occludes with the highly autapomorphous, plagiaulacoid p4 blade that characterizes these taxa. Additional neomorphic cusps were added iteratively to the p4 blade of carpolestids, initially as vestigial cuspules near the base of the mesial ridge on p4 (Silcox et al., 20o1: fig. 4).As each neomorphic cusp became more fully integrated into the p4 blade during carpolestid phylogeny, these structures migrated distally and apically on the p4 crown, thus making room for the addition of the next neomorphic cuspule. A similar phenomenon appears to have transformed P3 during early carpolestid phylogeny. The relatively primitive P3 morphology found in basal plesiadapoids and/or carpolestids such as Chronolestes simul was characterized by a simple, yet substantial protocone and the absence of a conule (Beard and Wang,1995). Coincident with the development of the multicuspidate plagiaulacoid blade on $\\mathsf { p 4 }$ ，the protocone on P3 was shifted buccally to form the “central cusp\" noted by Rose (1975) in Elphidotarsius sp., cf. E. florencae. Subsequently, a small neomorphic cusp was added to the lingual margin of P3 while the“central cusp” was shifted further buccally to approximate the base of the paracone, as reflected in the morphology of S. mengi. Finally, the neomorphic lingual cusp on P3 became integrated within a raised lingual shelf or cingulum like that found in $E$ .wightoni,to which was added a neomorphic distolingual cusp or “hypocone”, exemplified by the morphology of P3 in E. shotgunensis, E. russell and younger, more derived carpolestines. These taxonspecific transformations of P3 in carpolestids are reflected in our character-taxon matrix (see our characters 58-60). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Reduction of p3 in Carpolestidae One of the more obvious ways in which carpolestids differ from other plesiadapoids is in the reduction (and eventual loss) of their p3 (Rose,1975; Beard and Wang,1995; Bloch and Gingerich,1998). The p3 of carpolestids differs from those of plesiadapids and saxonellids in being reduced both in terms of crown height and root configuration (when present, p3 in carpolestids is either single-rooted or supported by two closely appressed roots occupying a single alveolus). In contrast, the widely spaced, dual roots supporting p3 in plesiadapids and saxonellids are implanted in separate alveoli, and the p3 crown is as tall as $\\mathsf { p 4 }$ in basal plesiadapids such as Pronothodectes (Gingerich, 1976),while p3 is actually hypertrophied with respect to p4 in Saxonella (Fox,1991). Recognizing this pattern,Beard and Wang (1995) included a character (their character 6) related to reduction of p3 in the character-taxon matrix they used to investigate the phylogenetic relationships among Chronolestes simul and other plesiadapoids.In contrast, Silcox et al. (2o01) neglected to include a character related to p3 crown reduction in an otherwise comprehensive list of characters they employed to reassess the relationships of C.simul.As support for this omission, Silcox et al. (2001:148) stated that,“The traits cited by Beard and Wang (1995) to support their placement of $C .$ simul in the Carpolestidae also include a reduction in p3.Although this is a feature shared with most carpolestids, the most primitive carpolestid ( $E$ sp.,cf. $E$ florencae) has two p3 roots in a single alveolus (character 10), which suggests that the pattern of reduction occurred in a different manner in the Carpolestidae and Chronolestes.” We see no reason to conflate the reduction in crown height of p3 with its root configuration. We therefore disagree with Silcox et al. (2o01) that the reduced crown height of p3 that distinguishes Chronolestes and all undoubted carpolestids from other plesiadapoids can be dismissed $a$ priori as a potential synapomorphy, simply because one carpolestid is known to have retained two closely appressed roots in a single alveolus. Indeed, employing the logic of Silcox et al. (2001), one might equally question whether the reduction in p3 crown height observed among species of Elphidotarsius is homologous, given the differences in p3 root configuration that characterize diferent species in this genus. We therefore include two characters related to the reduction of p3 in our analysis, one of which captures variation in p3 root configuration (see our character 15) while the other captures variation in p3 crown height (see our character 16). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "S3:Form of i1( $\\mathbf { \\nabla } \\cdot \\mathbf { 0 } = \\mathbf { \\nabla }$ laterally compressed, $\\mathbf { 1 } =$ lanceolate,broad at the base) Describing lower central incisors of plesiadapiforms as being “lanceolate” is typically reserved for microsyopids and their close potential relatives (e.g., Gunnell, 1989). No plesiadapoid exhibits il morphology approaching that of microsyopids. It is true that il is short (in terms of crown height) and broad mesiodistally in Elphidotarsius sp., cf. $E$ florencae (e.g., Rose, 1975: fig. 5). However, as Rose (1975) noted, this morphology appears to be atypical for Carpolestidae,and it differs dramatically from that which occurs in Elphidotarsius wightoni, which more closely resembles Chronolestes simul in terms of il morphology. In an attempt to capture variation in il morphology across the taxa being considered here, we utilize a character emphasing the degree of development of the margocristid, which contributes to the asymmetry of the crown (see our character 3).Parenthetically, we note that Silcox et al. (2O01) employed an unorthodox coding scheme for S3,whereby the two character states they recognized were coded as “1” and “2\",with no character state being equivalent to $^ { \\mathfrak { s } } 0 ^ { \\mathfrak { s } }$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "S5, S6: I1 with apical divisionThe upper central incisors of plesiadapiforms are well known for typically being“mitten-shaped,” that is, having multiple apical cusps along with at least one basal cusp (Rose et al.,1993). Nevertheless,several plesiadapiform taxa have been described that possess relatively simple upper central incisors. Examples include Chronolestes simul and Dryomomys szalayi (in which these teeth are found in serial association with diagnostic postcanine teeth) and probably Pandemonium dis and Purgatorius janisae (in which these teeth are found isolated at sites where diagnostic postcanine teeth of these taxa are relatively abundant) (Van Valen,1994; Beard and Wang,1995; Clemens, 2004; Bloch et al., 2007; Chester and Beard, 2Ol2). The sheer variety of “mitten-shaped” incisors that has been documented to date among various plesiadapiforms has led multiple authorities to question whether the proliferation of apical cusps on Il is homologous or convergent (e.g.,Fox,1993; Beard and Wang,1995). Regardless of this problem, a consensus holds that at least three types of apical cusps occur on I1 in plesiadapiforms (the anterocone, mediocone and laterocone). Silcox et al. (2O01) simplified this situation by positing a binary character that segregates taxa having apically unicuspate I1 from those with apically multicuspate I1, regardless of the number or homology of the extra cusps that might occur there. We prefer the alternative characters proposed by Beard (2Oo0; see his characters 1-3), because they approach the apical cusps on Il from the perspective of potential homology rather than simple topography (see our characters 50-52). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "S7: Lower canine size Silcox et al. (2Oo1) employ a character comparing cl size with that of adjacent teeth, but in many cases,the adjacent teeth are not homologous (e.g., pl in Purgatorius janisae versus p2 in carpolestids). We employ a modified character that attmpts to capture whether cl has been reduced with respect to a single homologous standard (ml length) (see our character 9). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "S12, S14, S17, S18 and S20: p4 talonid charactersSilcox et al. (2001) proposed five characters dealing with aspects of p4 talonid morphology, which is problematic because carpolestids have highly reduced or even vestigial p4 talonids. Clearly, the p4 talonids of carpolestids and other plesiadapoids are derived with respect to conditions observed in outgroups such as Purgatorius. However, given the vestigial nature of p4 talonid morphology in carpolestids,scoring five independent characters related to the morphology of this structure seems excessive. Moreover, we disagree with how Silcox et al.(2o0l) scored some of these p4 talonid characters,and in some cases the scoring proposed by Silcox et al. (2oo1) contradicts anatomical descriptions they themselves have published elsewhere.For example, Silcox et al. (2001) scored carpolestids as having “distinct, well invaginated hypoflexids” on p4(S18, state O), whereas we find the p4 talonids of most carpolestids to be so vestigial that we cannot readily identify a hypoflexid on these teeth. Silcox et al. (2oo1) scored carpolestids as lacking a cristid obliqua on ${ \\mathfrak { p } } 4$ altogether (S17, state 2),which appears to conflict with these animals also having distinct, well invaginated hypoflexids on ${ \\mathfrak { p } } 4$ (S18, state O).We note that, while a cristid obliqua is often poorly developed or even absent on ${ \\mathfrak { p } } 4$ in some carpolestids,others clearly have a crest running forward from the talonid cusp (which is presumably homologous to the hypoconid) that is likely to be at least partly homologous with the cristid obliqua (see, for example, YPM-PU 20839,a specimen of Carpodaptes hazelae,and IVPP V 14705,a specimen of Subengius mengi). This issue is further complicated by the development of a strong crest connecting the talonid cusp with the penultimate apical cusp in certain derived carpolestids (e.g.,Carpolestes; see our character 25). Equally problematic, Silcox et al. (2001) scored saxonellids as having p4 hypoflexids that are “not distinct”(S18, state 1), whereas one of the contributors to the paper by Silcox et al. (2oo1) had previously described p4 in Saxonella naylori as having a stronger heel than on p3,with “the notch separating it from the protoconid deeper” (Fox,1991:339). Likewise, Silcox et al. (2001) scored saxonellids as having p4 talonid cusps that are“all poorly defined\"(S14, state 1), whereas Fox (1991) had previously described p4 in Saxonella naylori as “[o]nly a single heel cusp is present” while noting that in Saxonella crepaturae the p4 talonid “supports two smallcuspules” (Fox, 1991:339). Given these issues, we rescored all taxa for S14 (see our character 31) and we eliminated S17 and S18 from our matrix. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S29: number of alveoli for P2 Silcox et al. (2Oo1) erroneously scored Saxonella naylori as lacking P2 (S29, state 2),whereas Fox (1991) noted that this species “retains a small, double-rooted, peg-like P2 immediately adjacent anteriorly to $\\mathbf { P } 3 ^ { \\prime \\prime }$ .We therefore rescored $S$ naylori as retaining a double-rooted P2 (S29, state O) (see our character 54). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S30: buccal cingulids on lower molarsSilcox et al. (2Oo1) scored saxonellids as lacking buccal cingulids on their lower molars (S30,state 2), but Fox (1991:340) had earlier described ml in Saxonella naylori as follows: “An anterior cingulid runs ventrally from the flexure of the paracristid to the base of the trigonid labially”,which accords with S3O, state 0. We confirm Fox's (1991) anatomical description of ml in S. naylori and find that it is equally applicable to ml in S. crepaturae. Further, we find no obviously significant variation in the development of lower molar buccal cingulids across the taxa included in our analysis. Hence, we eliminated S30 from our matrix. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S32: height of m1 paraconid Silcox et al. (2oo1) erroneously scored Chronolestes simul as having a paraconid that is taller than the metaconid on ml (S32, state 2). Reassessment of the holotype shows that this is not the case, so Chronolestes is rescored as displaying state 1 for S32 in our matrix (see our character 38). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S36: width of m1-2 trigonidsSilcox et al. (20o1) scored taxa other than Purgatorius as having“swollen” trigonid bases on ml-2, so that the trigonids are broader than their corresponding talonids.While some taxa considered here do have surprisingly broad trigonids, few if any of them display lower molar trigonids that are broader than their corresponding talonids. For example, Fox (1991:340) noted that the ml trigonid in Saxonella naylori is “shorter and narrower than the talonid\",an assessment which also holds for most of the other taxa under consideration here.Hence, we eliminated S36 from our matrix. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S39: relative height of molar talonid cuspsSilcox et al. (2OO1) scored most of the plesiadapoid taxa in their matrix as having lower molar entoconids that are taller than their corresponding hypoconids (S39, state 1). The only plesiadapoid taxa not to be scored this way were Chronolestes simul and Saxonella crepaturae (in contrast to S. naylori). We find that most, if not all,of the taxa being considered here display the alternative character state (S39, state 0: hypoconids taller than entoconids). Some basal carpolestids (e.g.,Elphidotarsius florencae) have sufficiently exodaenodont lower molars that their entoconids are roughly the same height as their hypoconids in lingual view. However, other basal carpolestids (e.g., $E$ shotgunensis) fail to show this pattern,and many derived carpolestids (e.g., Carpodaptes jepseni) fail to do so.Hence, we eliminated S39 from our matrix. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "S51: hypoconulid notch on m1-2 Silcox et al. (20o1) scored Chronolestes simul and two undoubted carpolestid taxa (Elphidotarsius wightoni and Carpodaptes hazelae) as showing the derived character state (\"present\"),while all other plesiadapoid taxa and outgroups assessed by them were awarded the primitive state for this character (\"absent-weak\"). Silcox et al. (2oo1) never actually defined what they meant by a “hypoconulid notch,” but we interpret this feature as a narrow valley located buccal to the hypoconulid on ml-2, which therefore separates the hypoconulid from the hypoconid. In outgroup taxa such as Purgatorius, the postcristid is trenchant enough that no such valley occurs.A similar condition occurs in Pandemonium, Pronothodectes and Saxonella. However, in carpolestids, the postcristid connecting the hypoconid and hypoconulid is never strongly developed, so that the presence of a \"hypoconulid notch” in these taxa is mainly a function of talonid cusp inflation. We added an intermediate character state and rescored this character in our matrix accordingly (see our character 45). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "S70: relative size of P3 and P4 Silcox et al. (2OO1) recognized this character as having three character states,which they randomly arranged as follows: $0 = { \\mathrm { P } } 3$ similar in size to P4, $1 = { \\bf P } 3$ much smaller than P4, $2 = { \\mathrm { P } } 3$ much larger than P4.We reordered the character states so that they are arranged along a potential morphocline as follows: $0 = { \\mathrm { P } } 3$ much smaller than P4, $1 = { \\bf P } 3$ similar in size to P4, $2 = { \\mathrm { P } } 3$ much larger than P4. Silcox et al. (2001) erroneously scored Chronolestes simul as showing their state O for this character, although P3 in $C$ simul is obviously smaller than P4 (Beard and Wang,1995) (equivalent to our state O and their state 1). We rescored all taxa for this reordered character accordingly (see our character 70). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "S71: relative size of P4 and M1 Silcox et al. (2Oo1) recognized three character states for this character. As was the case for S70,the states were arranged so that they would conflict with any potential morphocline as follows: $0 = { \\bf P } 4$ somewhat smaller than M1, $1 = \\mathrm { P } 4$ subequal in size to M1, $2 = { \\mathrm { P } } 4$ much smaller than M1.We recognize character states that are essentially equivalent to those employed by Silcox et al. (2O01) for their character 70 (see above), which we reordered so that they correspond to a potential morphocline. Note that it was necessary to designate a character state in which P4 is larger than M1 in light of conditions occurring in derived carpolestines (see our character 71). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Descriptions of the characters and character states employed here are provided in Appendix 1. The data matrix used in our phylogenetic analyses is presented in Appendix 2. A nexus fle including the data matrix and the setings used in our phylogenetic analyses is ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "available at htp://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/201606/P020160607407867142548.  \ndocx.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4 Phylogenetic analysis ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "MethodsMaximum parsimony analyses of the character-taxon matrix shown in Appendix 2 were undertaken using TNT (Goloboff et al., 2008). TNT requires users to designate a single outgroup taxon in order to root the resulting trees. We chose Purgatorius janisae as the outgroup,following a broad consensus that this taxon is very basal with respect to other plesiadapiforms and/or euarchontans (e.g., Silcox et al., 20o1; Bloch et al., 2007; Chester et al., 2O15). The effect of treating multistate characters as “ordered” or “additive\" was evaluated by running two analyses, one in which all multistate characters that appear to correspond to natural morphoclines were treated as “ordered\",and a second in which all multistate characters were treated as“unordered.” In both cases the data were analyzed under the “New Technology search” option in TNT, using the sectorial search, ratchet, and tree fusing search methods (all with default parameters), followed by a round of tree bisectionreconnection branch swapping. Under these setings, iterations were run until the minimum length trees were recovered in lOoo separate replications. Relative stability of clades was assessed using bootstrap analyses (Felsenstein, 1985） and Bremer support indices (Bremer, 1994). Bootstrapping was based on 1000 replicates. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Results As expected, the analysis in which appropriate multistate characters were treated as ordered yielded fewer most parsimonious trees (or MPTs) and hence greater resolution in the strict consensus tree than the alternative analysis in which none of the multistate characters was treated as ordered. Six MPTs were recovered from the analysis in which multistate characters were ordered, while the analysis in which al multistate characters were unordered yielded 20 MPTs. These consensus trees are compared in Fig.5. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "There is broad congruence in the topology of both consensus trees,especially with respect to relationships among basal carpolestids and the youngest and most derived North American carpolestids (species of Carpolestes and its nearest relatives). In particular, both consensus trees agree on the following relationships: 1) Pandemonium dis is reconstructed as the sister group of all other plesiadapoids; 2) Chronolestes simul is reconstructed as the sister group of all other carpolestids; 3) Elphidotarsius florencae is reconstructed as the sister group of all other carpolestines; 4) all North American species that have been referred to Carpodaptes, Carpocristes, Carpomegodon (regarded here as a junior synonym of Carpodaptes)and Carpolestes form a clade, designated here as the tribe Carpolestini, that excludes the Asian species Carpocristes oriens; and 5) the sister group of Carpolestes is Carpodaptes hobackensis, not Carpomegodon jepseni ( $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ Carpodaptes jepseni) as suggested by Bloch et al. (2001). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Purgatorius janisae Pandemonium dis 87 Saxonella crepaturae 195 3 Saxonella naylori 5 63 89 Pronothodectesgaoi 92 2 10 4 78 PrPronthodectesjthi wi 135 100 8 Chronolestes simul 10 Elphidbearsisflorencae C $^ 6$ 1 695 Elphidotarsiusshotgunensis 92 6 Elphidotarsius russelli 4 52 Elphidotarsius wightoni 2 Carpocristes oriens 1 Carpodaptes aulacodon 1 Carpodapteshazelae 55 Carpodaptesrosei G $^ 2$ Carpodaptes cygneus 1 Carpodaptesstonleyi 1 1 63 Carpodaptesjepseni 72 1 Carpodaptes hobackensis 164 752 1 94 Carpolestesdubius 92 459-Carpolestesnigridens 583 I Carpolestes simpsoni 1 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Tree topology shown to the left depicts results from analysis in which multistate characters were treated as ordered (additive).Less resolved tree topology on the right results when all multistate characters were treated as unordered (nonadditive).Note that both tree topologies are consistent with each other, although the topology to the left is more fully resolved.Branch support for specific nodes is estimated bybootstrap values $5 5 0 \\%$ shown above node) and Bremer decay indices (shown below node) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The affinities of the Asian carpolestid taxa Subengius mengi and Carpocristes oriens are reconstructed differently in the two analyses,but the only conflict in their reconstructed phylogenetic positions derives from the weaker resolution in the unordered consensus tree. That is, in the analysis in which all multistate characters were treated as unordered, S. mengi and C.oriens form a large polytomy along with three species of Elphidotarsius (E. wightoni, E.shotgunensis and $E$ ，russelli) and the Carpolestini.In contrast,in the more highly resolved consensus tree that results from the analysis in which multistate characters were ordered, S. mengi is reconstructed as a very basal carpolestine, being the sister group of all other carpolestines aside from $E$ .florencae.Under the same assumption of ordered multistate characters, Carpocristes oriens is reconstructed as the sister group of Carpolestini. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5Discussion ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Systematic implications of Asian carpolestidsOur redescription of the morphology of Subengius mengi has led to a new analysis of carpolestid phylogeny, which is the first largescale assessment of the relationships of this group to be performed during the last 15 years (Beard, 2000; Bloch et al., 200l; Silcox et al., 2001). Several obvious systematic implications from this analysis are evident, and these are emphasized here.On the other hand, certain relationships within Carpolestidae and its close plesiadapoid relatives remain unstable enough that any associated systematic proposals are premature. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Identifying how carpolestids (or carpolestines)are related to other plesiadapoids has been controversial. Beard and Wang(1995) recognized Chronolestes simul as a basal carpolestid and suggested that the sister group of Carpolestidae was a Plesiadapidae $^ +$ Saxonellidae clade. Silcox et al. (2Oo1) disagreed, suggesting instead that the sister group of Carpolestinae (carpolestids other than Chronolestes） is Plesiadapidae. According to Silcox et al. (2001), the sister group of this purported Carpolestinae $^ +$ Plesiadapidae clade is Saxonellidae. However, the only synapomorphy Silcox et al. (2001) cited as support for their hypothetical Carpolestinae $^ +$ Plesiadapidae clade was a“lanceolate” (rather than“laterally compressed\") i1 (S3,state 2).We have discussed some of the problems with S3 above in our character analysis.Regardless of these issues, it is clear that there is little morphological support for a Carpolestinae $^ +$ Plesiadapidae clade,especially in comparison with the stronger character support underpinning the Chronolestes $^ +$ Carpolestinae clade proposed by Beard and Wang (1995)(see below). Whether the sister group of Carpolestidae (including Chronolestes) is a Plesiadapidae $^ +$ Saxonellidae clade (as opposed, for example,to one or the other of these plesiadapoid families) remains to be firmly established. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Our analysis strongly reaffirms Beard and Wang's (1995) hypothesis regarding the carpolestid affinities of Chronolestes simul,a taxon that has been interpreted as lying outside a Plesiadapidae $^ +$ Saxonellidae $+$ Carpolestidae clade by multiple recent workers (Bloch et al.,2001; Silcox et al.,2001; Fox,2002; Smith et al.,2004). Primarily, our confidence in the carpolestid affnities of Chronolestes derives from specifically carpolestid-like features in its lower dentition.For example,i2 in Chronolestes simul is a highly distinctive and mesiodistally elongated tooth, which overlaps the base of il (Beard and Wang,1995: figs.3-5). This tooth locus is not well sampled among carpolestids and other plesiadapoids,but the i2 morphology of Chronolestes simul closely resembles that of Carpodaptes cygneus (Bloch et al.,2001: fig. 9B; note that the sample of small-bodied carpolestids from Divide Quarry in the Bighorn Basin is considered as Carpodaptes stonleyi by Fox,2O02) and Carpolestes simpsoni (Bloch and Gingerich,1998: figs. 2,4). The only non-carpolestid plesiadapoid in which i2 has been documented is Pronothodectes gaoi, in which this tooth is vestigial and peg-like (see Boyer et al.,2012: fig. 7). As noted by Beard and Wang (1995), the reduction of p3 in Chronolestes simul is also specifically carpolestid-like,both in terms of the extreme reduction in the height of the p3 crown and the close apposition and/or fusion of its roots. Plesiadapids and saxonellids differ from Chronolestes and other carpolestids in retaining p3 crowns that are similar in height to p4 (p3 is actually hypertrophied relative to $\\mathsf { p 4 }$ in Saxonella) and supported by dual roots occupying separate alveoli. Although p4 in Chronolestes is not developed into the polycuspidate, plagiaulacoid structure that characterizes all carpolestines, it resembles its homologue in carpolestines in being hypertrophied (both in terms of its crown height and mesiodistal length), in having a metaconid, in being at least moderately exodaenodont, and in having a mesial crest that extends forward from the protoconid. All of these p4 features are lacking in plesiadapids and saxonellids. Finally, our reassessment of the morphology of P3 in Elphidotarsius sp., cf. E. florencae, and Subengius mengi suggests that the cusp homologies employed by Silcox et al. (2oo1) for this tooth in carpolestids are erroneous,rendering P3 in carpolestines more similar to that of Chronolestes and less similar to those of plesiadapids and saxonellids. In light of these morphological observations and the strong branch support for a Chronolestes $+$ Carpolestinae clade shown in Fig. 5,we recognize Chronolestinae and Carpolestinae as subfamilies of Carpolestidae, following Beard and Wang(1995). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The phylogenetic position of $S _ { \\mathbf { \\alpha } }$ .mengi with respect to other carpolestines and the systematic status of the genus Subengius remain debatable. Our more highly resolved tree topology based on ordered multistate characters reconstructs S.mengi as a very basal carpolestine, although it remains phylogenetically bracketed by species of the paraphyletic genus Elphidotarsius. The phylogenetic analysis reported by Missiaen and Smith (2008: fig.l3) also interpreted S. mengi as being nested among species of Elphidotarsius,although their analysis reconstructed S. mengi at a less basal position on the carpolestid tree than ours did. Given our current knowledge of carpolestid phylogeny, one might reasonably ask why Subengius should be maintained as a genus separate from Elphidotarsius (cf. Silcox, 2008). We refrain from recognizing Subengius as a junior subjective synonym of Elphidotarsius, primarily because of the surprisingly primitive structure of p4 in Subengius, which in some ways appears to be more primitive than that of any known species of Elphidotarsius. As noted previously, p4 in Subengius is only weakly exodaenodont and it bears three main apical cusps along with a highly vestigial fourth apical cusp,which is located farther from the three main apical cusps than is the case in species of Elphidotarsius.Moreover, the three main apical cusps on p4 in Subengius are less fully connate than is the case in species of Elphidotarsius. On the other hand,P3-4 in Subengius appear to be more derived than in Elphidotarsius sp., cf. E. florencae. Until a better understanding emerges of how the various species of Elphidotarsius are related to each other and to more derived carpolestines, we agree with Missiaen and Smith (2008) that Subengius warrants recognition as a separate genus. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Beard and Wang(1995) proposed the new genus Carpocristes on the basis of the Bumbanian species Carpocristes oriens.Emphasizing its highly derived $\\mathfrak { p } 4$ and P3-4, Beard and Wang(1995) hypothesized that the sister group of $C$ 、oriens is the late Tiffanian North American species Carpodaptes hobackensis,a phylogenetic reconstruction that has been endorsed by Beard (2000), Bloch et al. (2001) and Missiaen and Smith (2008). Older and more distantly related North American carpolestids, including Carpodaptes cygneus and ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Carpocristes rosei,were also thought to be specially related to this putative Carpocristes oriens $+$ Carpodaptes hobackensis clade (Beard and Wang, 1995; Beard, 200o). Accordingly, Beard and Wang transferred the North American species Carpodaptes hobackensis and Carpodaptes cygneus to their new genus Carpocristes. Beard (2oo0) subsequently added a third North American species,the middle Tiffanian Carpocristes rosei, to this genus, while suggesting on the basis of phylogenetic and biostratigraphic data that Carpocristes originated in North America. However, Fox (2O02) disputed the close relationship between Carpocristes oriens and North American species referred to that genus by Beard and Wang (1995)and Beard (2000). In doing so,Fox (2002) pointed out several important ways in which Carpocristes oriens diverges from Carpodaptes hobackensis and closely related North American forms. Notable among these are the retention of p2 in Carpocristes oriens, the primitive nature of its p4 talonid,and the lack of convincing evidence for a distally displaced ultimate apical cusp on its $\\mathsf { p 4 }$ .We have carefully reconsidered the morphology of Carpocristes oriens,and we regard most of Fox's (2oo2) anatomical observations to be valid.Moreover, in both of our phylogenetic analyses, Carpocristes oriens is only distantly related to Carpodaptes hobackensis and its close North American relatives. Accordingly, we now regard Carpocristes as a monotypic genus. The North American Tiffanian species Carpocristes rosei Beard, 2000 is recombined here as Carpodaptes rosei. Similarly, Carpodaptes hobackensis and Carpodaptes cygneus should no longer be referred to Carpocristes. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "A relatively derived clade of North American carpolestines, including species usually included in the genera Carpodaptes, Carpolestes and Carpomegodon, can be designated as the tribe Carpolestini. In contrast to many earlier analyses of carpolestid relationships (Rose, 1975;Beard, 20oo; Bloch et al.,2001),we find that the sister group of the youngest and most derived North American genus, Carpolestes, is likely to be Carpodaptes hobackensis. This possibility was first proposed by Dorr (1952), but it has not been seriously considered since Rose (1975) described the much larger late Tiffanian species Carpodaptes jepseni (subsequently raised to generic status as Carpomegodon jepseni by Bloch et al., 2001). Like Elphidotarsius, Carpodaptes is a paraphyletic assemblage of species that sucessively approximates Carpolestes. Given the relationships among species assigned to Carpodaptes shown in Fig. 5, it may no longer be desirable to maintain Carpomegodon as a genus distinct from Carpodaptes. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Biogeographic implications of Asian carpolestidsTo date, three species of Asian carpolestids are known, ranging in age from the Gashatan taxon Subengius mengi to the Bumbanian taxa Chronolestes simul and Carpocristes oriens.In North America, the stratigraphic distribution of carpolestids is entirely confined to the Paleocene (late Torrejonian through late Clarkforkian; see Rose,1975; Bloch and Gingerich,1998). Asian carpolestids may or may not be restricted to the Paleocene, because the age of the Bumbanian Wutu fauna that includes Chronolestes simul and Carpocristes oriens remains controversial (e.g., Beard and ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Dawson, 1999; Tong and Wang, 2006). Regardless of lingering disagreements about the age of these Asian carpolestids, it is now clear that allthree Asian taxa are fairly basal members of the carpolestid evolutionary radiation (Fig. 5). However, none of these Asian carpolestids appears to be specially related to the others. This phylogenetic pattern and the long ghost lineages that are implied for taxa such as Chronolestes and Carpocristes indicate that the fossil record of carpolestid evolution remains inadequately sampled. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "When Beard and Wang (1995) originally described Chronolestes simul and Carpocristes oriens,they interpreted these taxa as evidence for at least two episodes of trans-Beringian dispersal during the course of carpolestid evolution. Further, Beard and Wang (1995) proposed that both of these Asian Bumbanian carpolestids colonized Asia from North America. Specifically, the ancestors of Chronolestes simul (Chronolestinae) were thought to have colonized Asia relatively early in the Paleocene (probably prior to late Torrejonian Zone To3), while the progenitors of Carpocristes oriens were thought to have colonized Asia millions of years later (during the late Tiffanian or earliest Clarkforkian). Beard's (2Oo0) subsequent description of middle Tiffanian Carpocristes rosei was interpreted as further evidence that the Carpocristes clade originated in North America and invaded Asia during the latter part of the Paleocene. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Now that all three Asian carpolestids are recognized as fairly basal members of the carpolestid radiation, other biogeographic hypotheses become plausible. Indeed, it is now reasonable to entertain the possbility that carpolestids as a whole originated in Asia, based on the apparent restriction of Chronolestinae to that continent, coupled with the occurrence of two basal members of Carpolestinae (Subengius mengi and Carpocristes oriens) there. The major impediment to this hypothesis is the absence of any close outgroups to Carpolestidae in Asia. Both plesiadapids and saxonellids are currently restricted to North America and Europe, and more basal plesiadapoids such as Pandemonium dis are known only from North America. Regardless of whether carpolestids originated in Asia, important aspects of their early evolutionary history certainly transpired there. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "It remains to be firmly established whether carpolestid dispersal between Asia and North America conformed to the prevailing “East of Eden” pattrn (Beard,1998, 2008; Beard and Dawson,1999; Beard et al., 2010). However, it is clear that Carpocristes oriens can no longer be cited as an obvious exception to this pattern,because the close relationship that was formerly proposed between this Bumbanian taxon and North American Tiffanian carpolestids such as Carpodaptes hobackensis, C. cygneus and C. rosei no longer appears to be valid. The phylogenetic position of Carpocristes oriens certainly lies outside the Carpolestini, a purely North American clade that first appears in the early Tiffanian (Rose,1975). With the notable exception of Elphidotarsius wightoni, carpolestids other than Carpolestini are unknown in North America subsequent to the early Tiffanian. Hence,episodes of carpolestid dispersal between Asia and North America were probably confined to the earlier part of the Paleocene. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "If basal carpolestids resembled Carpolestes simpsoni in possessing grasping big toes and a presumed arboreal lifestyle (Bloch and Boyer, 2OO2), their ability to disperse repeatedly across Beringia during the earlier Paleocene suggests that forested paleoenvironments must have been present, at least intermittently,across that high-latitude region long before the PaleoceneEocene Thermal Maximum. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsWe thank Pauline M. C. Coster for help with the figures and phylogenetic analysis, Kenneth D. Rose and an anonymous reviewer for their thoughtful critiques of a former version of this manuscript, and Eric Sargis, Christopher A. Sloan, Daniel Brinkman, and Marilyn Fox for facilitating the loan of comparative material. We thank B. Bai, Q. Cao, W. Gao, X. Jin, C. Li, P. Li, Qian Li, Qiang Li, S.-J. Li, C.-K. Sun, and R. Yang of IVPP and T.-Y. Wang for their assistance in the field. The financial support of the Major Basic Research Projects of MST of China (No.2012CB821900) and U.S.National Science Foundation (BCS-0820602) is gratefully acknowledged. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "孟氏苏崩猴 (哺乳动物纲：近兔猴超科)的齿列以及亚洲窃果猴科系统发育关系的再研究",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "毕丛山'²倪喜军³王元青³孟 津34 DanielL.GEBO5",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "(1美国堪萨斯大学生物多样性研究所劳伦斯KS66045)  \n(2 美国堪萨斯大学生态与进化生物学系劳伦斯KS66045)  \n(3 中国科学院脊椎动物演化与人类起源重点实验室，中国科学院古脊椎动物与古人类研究所北京100044)  \n(4美国自然历史博物馆古生物学部 纽约NY10024)  \n(5 美国北伊利诺伊大学人类学系 迪卡尔布IL60115)",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "摘要：格沙头期的窃果猴类(carpolestid)孟氏苏崩猴(Subengius mengi)属于亚洲已知最早的近兔猴形类(plesiadapiform)。苏崩猴的新标本澄清了该类群的牙齿解剖结构。孟氏苏崩猴的齿列比以前认为的要原始得多，下齿列的齿式2.1.3.3,p4低冠，具有3个主尖，但不似Elphidotarsius的相应主尖那样完全并生，P3的舌侧缘更窄，结构更简单，m1不具有高度扩展的下前尖和下后尖。苏崩猴P3的独特结构以及对Elphidotarsius sp.,cf.E.florencae的P3解剖特征的重新研究表明，过去对窃果猴科P3的某些齿尖的同源性的解释是错误的。在详细的特征分析基础上，重新建立了窃果猴类及其近亲的系统发育关系。崩班期(Bumbanian)的同时猴(Chronolestes simul)被重新认定是窃果猴科最基部的成员。孟氏苏崩猴以及崩班期的另一个种旭日多脊食果猴(Carpocristes oriens)也是窃果猴类相对靠基部的成员，但这些亚洲窃果猴类之间似乎都没有特殊的相互关系。虽然北美和亚洲的窃果猴类均延续到古新世-始新世界线附近，但它们在两个大陆之间的扩散似乎仅限于古新世的较早期。",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "关键词：古新世，格沙头期，近兔猴形目，生物地理学，系统发育中图法分类号：Q915.879 文献标识码：A文章编号：1000-3118(2016)03-0181-31",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "References   \nBeard KC,1998.EastofEden: Asiaas animportant centerof taxonomic originationin mammalian evolution.Bull Carnegie Mus Nat Hist,34: 5-39   \nBeard K C,20o0.Anew species of Carpocristes (Mammalia: Primatomorpha)from the middle Tifanianof the Bison Basin, Wyoming, with notes on carpolestid phylogeny. Ann Carnegie Mus, 69: 195-208   \nBeard K C,20o8.The oldest North American primate and mammalian biogeography during the Paleocene-Eocene Thermal Maximum.Proc Natl Acad Sci,105:3815-3818   \nBeard KC,Dawson MR,99.IntercontinentaldispersalofHolarcticland mammals nearthePaleocene/Eocene boundary: paleogeographic,paleoclimatic and biostratigraphic implications. Bull Soc Geol Fr,170: 697-706   \nBeard KC,Houde P,1989.An uusual assemblage of diminutive plesiadapiforms (Mammalia,?Primates）from the Early Eocene of the Clark's Fork Basin,Wyoming.JVert Paleont,9: 388-399   \nBeard K C,Wang JW,1995.The first Asian plesiadapoids (Mammalia: Primatomorpha).Ann Carnegie Mus,64:1-33   \nBeard KC, Wang YQ,Meng Jet al.,2010.Paleocene Hapalodectes (Mammalia: Mesonychia) from Subeng,Nei Mongol: further evidence of\"East of Eden”dispersal atthe Paleocene-Eocene boundary.VertPalAsiat,48:375-389   \nBiknevicius AR,1986.Dentalfunctionanddiet inthe Carpolestidae(Primates,Plesiadapiformes).AmJPhys Anthrop,71: 157-171   \nBloch JI, Boyer DM,2002. Grasping primate origins. Science,298: 1606-1610   \nBloch JI,GingerichPD,998.Carpolestes simpsoni,nwspecies (Mammalia,Proprimates)fromtheLatePaleocenefthe Clarks Fork Basin,Wyoming.Contrib Mus Paleont Univ Mich,30:131-162   \nBloch JI,Fisher D C,Rose K Det al.,20o1.Stratocladistic analysis of Paleocene Carpolestidae (Mammalia, Plesiadapiformes) with description of a new late Tiffanian genus.JVert Paleont, 21:119-131   \nBlochJI,Silcox MT,BoyerDMetal.,20o.NewPaleocene skeletonsand therelationshipof plesiadapiforms tocrownclade primates.Proc Natl Acad Sci,104:1159-1164   \nBown TM,Rose KD,1976.New Early Tertiary primates and areappraisal of some Plesiadapiformes.Folia Primat, 26: 109-138   \nBoyer D M, Scott C S,Fox R C,2012.New craniodental material of Pronothodectes gaoi Fox (Mammalia, “Plesiadapiformes\") and relationships among members of Plesiadapidae.Am JPhys Anthrop,147: 511-550   \nBremer K,1994.Branch support and tree stability.Cladistics,10: 295-304   \nChester SGB,Beard K C,2012.New micromomyid plesiadapiforms (Mammalia,Euarchonta) from the Late Paleoceneof Big Multi Quarry, Washakie Basin, Wyoming. Ann Carnegie Mus,80: 159-172   \nChester SGB,BlochJI,BoyerDMetal.,2015.Oldest known euarchontan tarsalsandaffnitiesof Paleocene Purgatorius to Primates.Proc Natl Acad Sci,112:1487-1492   \nClemens WA,2O04.Purgatorius (Plesiadapiformes,Primates?,Mammalia),a Paleocene immigrant into northeatern Montana: stratigraphic occurrences and incisor proportions.Bull Carnegie Mus Nat Hist, 36: 3-13   \nDorrJAJr,952.Early Cenozoic stratigraphyand vertebrate paleontologyofthe Hoback Basin,Wyoming.Bull Geol Soc Am, 63: 59-94   \nFelsenstein J,1985.Confidence limits on phylogenies: an approach using the bootstrap.Evolution,39: 783-791   \nFox R C,1984a.The dentition and relationshipsof the Paleocene primate Micromomys Szalay,with descriptionof a new species. Can JEarth Sci,21: 1262-1267   \nFox R C,1984b.Anew species of the Paleocene primate Elphidotarsius Gidley: its stratigraphic position and evolutionary relationships. Can JEarth Sci,21: 1268-1277   \nFox RC,1991.Saxonell(lesiadapiformes: ?Primates)in NorthAmerica: S.naylori,sp.nov.,from theLatePaleoceneof Alberta,Canada.JVert Paleont,11: 334-349   \nFox R C,1993.The primitive dental formula of the Carpolestidae (Plesiadapiformes,Mammalia)and its phylogenetic implications.JVert Paleont,13: 516-524   \nFox R C,2002.The dentition and relationships of Carpodaptes cygneus (Russell (Carpolestidae,Plesiadapiformes, Mammalia),from the Late Paleocene of Alberta, Canada.JPaleont, 76: 864-881   \nGazin CL,1971.Paleocene primates from the Shotgun Member of theFort Union Formation in the Wind River Basin, Wyoming.Proc Biol Soc Wash,84:13-38   \nGidleyJW,1923.Paleocene primates oftheFort Union,withdiscussonofrelationshipsofEocene primates.ProcUS Natl Mus, 63: 1-38   \nGingerich PD,1976. Cranial anatomyand evolutionofEarly Tertiary Plesiadapidae (Mammalia, Primates).Univ Mich Pap Paleont, 15:1-141   \nGoloboff PA,Farris JS,NixonK C,2008.TNT,a free program for phylogenetic analysis.Cladistics,24: 774-786   \nGunnell GF,1989.Evolutionary history of Microsyopoidea (Mammalia,?Primates）and the relationship between Plesiadapiformes and Primates. Univ Mich Pap Paleont, 27:1-157   \nHooker JJ,RussellDE,Phelizon A,199.Anew familyof Plesiadapiformes (Mammalia)from theOld World Lower Paleogene. Palaeontology, 42: 377-407   \nKrause D W,1978.Paleocene primates from western Canada.Can JEarth Sci,15: 1250-1271   \nMathew WD, Granger W,1921. New genera of Paleocene mammals.Am Mus Novit, (13): 1-7   \nMissiaen P,Smith T,20o8.The Gashatan (Late Paleocene) mammal fauna from Subeng,Inner Mongolia,China.Acta Palaeont Pol, 53:357-378   \nRose KD,1975.The Carpolestidae: Early Tertiary primates from North America.BullMus Comp Zool,147:1-74   \nRose KD,Bown TM,1996.Anew plesiadapiform (Mammalia: Plesiadapiformes)from the EarlyEocene of the Bighorn Basin, Wyoming.Ann Carnegie Mus,65: 305-321   \nRose K D,Beard K C,Houde P,1993.Exceptional new dentitions of the diminutive plesiadapiforms Tinimomys and Niptomomys (Mammalia),with comments on the upper incisors of Plesiadapiformes.Ann Carnegie Mus,62: 351- 361   \nRussell DE,1964.Les mammiferes Paleocenes d'Europe.Mém Mus Natl Hist Nat,Sér C,Sci Terre,13:1-324   \nSilcox MT,20ol.A pylogenetic analysis ofPlesiadapiformes and their relationship to euprimates and other archontans. Ph.D.dissertation. Baltimore: Johns Hopkins University.1-728   \nSilcox MT,2O8.The biogeographic originsof primatesand euprimates: east,west,north,or south of Eden? In: Sargis E J, Dagosto M eds. Mammalian Evolutionary Morphology: A Tribute to Frederick S. Szalay. Dordrecht, The Netherlands: Springer.199-231   \nSilcox MT,Krause DW,Maas MCetal.,20o1.New specimensof Elphidotarsius russeli (Mammalia,?Primates, Carpolestidae)and a revision of plesiadapoid relationships.JVert Paleont, 21: 132-152   \nSimpson G G,1928.Anew mammalian fauna from the Fort Union of southern Montana.Am Mus Novit,(297): 1-15   \nSimpson G G,1935.The Tiffany fauna, Upper Paleocene.II Primates,CarnivoraCondylarthra,andAmblypoda.Am Mus Novit,(817): 1-28   \nSmith T,van Iterbeeck J,Missiaen P,2004. Oldest plesiadapiform (Mammalia,Proprimates) from Asia and its ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "palaeobiogeographical implications for faunal interchange with North America.CRPalevol,3:43-52 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "SzalayF S,Delson E,1979.Evolutionary History of the Primates.New York: Academic Press.1-580 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "TongYS,WangJW,2O06.Fosil mammals from the EarlyEocene WutuFormationof Shandong Province.PalaeontSin. New Ser C,192:1-195 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Van ValenLM,1994.The originof the plesiadapid primatesandthenatureof Purgatorius.Evol Monogr,15:1-79 ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Appendix1 Characters employed for phylogenetic analysis ( $\\mathrm { B W = }$ Beard and Wang,1995)( $\\mathrm { B e } =$ Beard, 2000)( $\\mathrm { \\Delta S = }$ Silcox et al.,2001) (Bh $\\ O =$ Bloch et al., 2001) ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "1．i3 occurrence ( $0 =$ present, $1 =$ absent) [Be22; S1; Bh6]   \n2．i2 occurrence ( $0 =$ present, $1 =$ absent) [S2]   \n3. il margocristid ( $0 =$ well-defined and elevated, $1 =$ poorly defined or absent)   \n4．il margoconid ( $0 =$ absent, $1 =$ present) [S4]   \n5. size of il ( $0 =$ similar to c1, $1 =$ much larger than c1) [Bh2]   \n6. form of i2 ( $0 =$ crown mesiodistally elongated,overlapping base of i1, $1 =$ crown ovate,flattened)   \n7. size of i2 ( $0 =$ crown and/or alveolus larger than cl, $1 =$ crown and/or alveolus equivalent to c1, $2 =$ crown and/ or alveolus smaller than c1) [ordered/additive]   \n8. cl occurrence ( $0 =$ present, $1 =$ absent)   \n9. size of cl ( $0 =$ mesiodistal length of $c 1 > 5 0 \\%$ of ml length, $1 =$ mesiodistal length of $c 1 < 5 0 \\%$ of ml length)   \n10. form of c1 ( $0 =$ subconical or peg-like, $1 =$ mesiodistally elongated) [Bh8]   \n11. pl occurrence ( $0 =$ present, $1 =$ absent) [S8]   \n12. p2 occurrence ( $0 =$ present, $1 =$ absent) [Be23]   \n13. p2 root configuration ( $0 =$ two roots, $1 = 1$ root) [see S9,Bh9]   \n14. form of p2 ( $0 =$ unreduced in crown height with respect to $\\mathrm { m } 1$ ,talonid heel present, $1 =$ reduced in crown height with respect to ml,talonid heel present, $2 =$ reduced in crown height with respect to $\\mathrm { m } 1$ ,talonid heel absent or indistinct) [ordered/additive]   \n15. p3 root configuration ( $0 =$ two roots,widely spaced, $1 =$ two roots,closely spaced in single alveolus, $2 = 1$ root) [see Be24,S10,Bh11] [ordered/additive]   \n16. form of p3 ( $0 =$ unreduced in crown height with respect to $\\mathrm { m } 1$ ， $1 =$ reduced in crown height with respect to ml) [see BW6,Bh10]   \n17. plagiaulacoid condition of p3 ( $0 =$ absent, $1 =$ present)   \n18. mesiodistal length of $\\mathsf { p 4 }$ 0 $0 = { \\tt m } 1 { > } { \\tt p } 4$ $1 = { \\mathsf { p } } 4 { \\mathsf { > m l } }$ ）[see BW7,Be37,S11]   \n19. exodaenodont condition of $\\mathsf { p 4 }$ 0 $0 =$ exodaenodonty lacking on p4, $1 =$ little lobe development, $2 =$ distal lobe better developed than mesial lobe, $3 =$ both distal and mesial lobes strongly developed) [see BW8,Be38, S64] [ordered/additive]   \n20. paraconid on $\\mathsf { p 4 }$ 0 $0 =$ absent, $1 =$ present) [see S15,Bh15]   \n21. metaconid on $\\mathsf { p 4 }$ 0 $0 =$ absent, $1 =$ present) [see S16,Bh14]   \n22. configuration of p4 trigonid cusps ( $0 =$ fails to contribute to plagiaulacoid blade, $1 =$ trigonid cusps contribute to plagiaulacoid blade,but not aligned mesiodistally, $2 =$ trigonid cusps mesiodistally aligned to contribute to plagiaulacoid blade)[see Be26,Be33,Be34,Bh14] [ordered/additive]   \n23. apical cusps on $\\mathsf { p 4 }$ （ $0 =$ none beyond paraconid, protoconid and metaconid, $1 =$ one neomorphic cusp or four total, $2 =$ two neomorphic cusps or five total $3 =$ three neomorphic cusps or six total, $4 =$ four neomorphic cusps or seven total, $5 =$ five neomorphic cusps or eight total) [see Be32,S72,Bh16] [ordered/additive]   \n24. Vertical rib beneath lingual side of ultimate apical cusp on $\\mathsf { p 4 }$ （ $0 =$ present, $1 =$ absent) [Be27,Bh20]   \n25. crest uniting penultimate apical cusp with talonid cusp on $\\mathsf { p 4 }$ 0 $0 =$ weak, $1 =$ strong) [Be28]   \n26.position of ultimate apical cusp (metaconid) on $\\mathsf { p 4 }$ （ $0 =$ near penultimate apical cusp, $1 =$ more distal, roughly equidistant between talonid cusp and penultimate apical cusp) [Be35]   \n27. posterolingual excavation on $\\mathsf { p 4 }$ （ $0 =$ absent, $1 =$ present)   \n28. position of talonid cusp on $\\mathsf { p 4 }$ 0 $0 =$ well below level of ml paraconid, near midline of $\\mathsf { p 4 }$ crown in buccal view; $1 =$ below level of ml paraconid, elevated above midline of $\\mathsf { p 4 }$ crown in buccal view; $2 =$ elevated near level of ml paraconid, integrated into distal apical crest of p4) [see Be30] [ordered/additive]   \n29. lingual base of $\\mathsf { p 4 }$ crown ( $0 =$ even, $1 =$ modest development of incision between mesial and distal lobes, $2 =$ strong development of incision between mesial and distal lobes) [ordered/additive]   \n30. morphology of $\\mathsf { p 4 }$ talonid ( $0 =$ basined, $1 =$ not basined, reduced) [S12]   \n31. number of talonid cusps on $\\mathsf { p 4 }$ （ $0 =$ two, $1 =$ one, $2 =$ none,or poorly defined) [see S14] [ordered/additive]   \n32. entocristid on $\\mathsf { p 4 }$ 0 $0 =$ present, $1 =$ absent) [S20]   \n33. paraconid of ml ( $0 =$ not widely splayed relative to metaconid, $1 =$ widely splayed) [see Be39,Bh22]   \n34. talonid notch between postvallid and entoconid on ml ( $0 =$ absent, $1 =$ weak, $2 =$ strong) [see Be40] [ordered/ additive]   \n35. protoconid of ml ( $0 =$ same height as metaconid, $1 =$ taller than metaconid) [see Be41, S53]   \n36.talonid of $\\mathrm { m } 1$ （ $0 =$ similar in length to that of $\\mathrm { m } 2$ ， $1 =$ anteroposteriorly abbreviated, $2 =$ abbreviated both anteroposteriorly and buccolingually) [see Be42] [ordered/additive]   \n37．length of molar trigonids( $0 =$ trigonids become less anteroposteriorly compressed posteriorly, $1 =$ trigonids become more anteroposteriorly compressed posteriorly) [S31]   \n38．height of $\\mathrm { m } 1$ paraconid ( $0 =$ lower than metaconid, $1 =$ subequal to metaconid, $2 =$ taller than metaconid) [S32] [ordered/additive]   \n39. distinctiveness of ml paraconid ( $0 =$ indistinct from paracristid, $1 =$ distinct from paracristid) [S33]   \n40. lower molar mesoconids ( $0 =$ weak to absent, $1 =$ present (if variably) on some molars) [S34]   \n41. molar talonid cusp position ( $0 =$ peripheral,littlebalinfation; $1 = \\operatorname { s e t }$ in from margin,basal inflation) [S35]   \n42. width of $\\mathbf { m } 3$ talonids ( $0 =$ narrower than trigonid, $1 =$ similar to trigonid or wider)[S37]   \n43. size of $\\mathrm { m } 3$ hypoconulid ( $0 =$ similar to cusp on m1-2, $1 =$ larger than on ml-2) [S38]   \n44. protoconid-metaconid notch on lower molars ( $0 =$ present, $1 =$ absent) [S50]   \n45. hypoconulid notch on m1-2 ( $0 =$ absent, $1 =$ weak, $2 =$ present) [see S51] [ordered/additive]   \n46．stepped postvallid on ml ( $0 =$ absent, $1 =$ present,cristid obliqua continues onto metaconid,which is offset posteriorly from protoconid) [S52]   \n47．doubled entoconid on $\\mathbf { m } 3$ 0 $0 =$ absent, $1 =$ present) [S54]   \n48．exodaenodont condition of $\\mathrm { m } 1$ （ $0 = { \\mathrm { m } } 1$ not exodaenodont, $1 =$ little lobe development, $2 =$ distal lobe better developed than mesial lobe, $3 =$ both lobes strongly developed) [S65] [ordered/additive]   \n49. I3 occurrence ( $0 =$ present, $1 =$ absent)   \n50．laterocone on Il( $0 =$ absent, $1 =$ present,basal in position,and equal to or smaller than anterocone, $2 =$ present, apical in position,and larger volumetrically than anterocone) [see Be1,S5] [ordered/additive]   \n51．mediocone on I1( $0 =$ absent, $1 =$ present) [see Be2, S5]   \n52. mesio-basal cusp on I1 ( $0 =$ absent, $1 =$ present) $\\mathbf { \\left[ B e 3 \\right] }$   \n53. P1 occurrence ( $0 =$ present, $1 =$ absent) [S28]   \n54. number of roots on P2 ( $0 =$ double-rooted, $1 =$ single-rooted) [see S29]   \n55. parastyle on P3 ( $0 =$ absent, $1 =$ present, $2 =$ present and hypertrophied, equal in size to paracone, $3 =$ present and hypertrophied,with neomorphic cusp anterior to it) [see Be6] [ordered/additive]   \n56．number of buccal cusps posterior to paracone on P3 ( $0 =$ none, $1 =$ one, $2 =$ two, $3 =$ three) [Be7; see also S55, S59] [ordered/additive]   \n57．anterobuccal projection of P3 ( $0 =$ absent, $1 =$ moderate, $2 =$ extreme)[Be8; see also S69] [ordered/additive]   \n58．protocone on P3( $0 =$ substantial and lingual in position, $1 =$ smaller and shifted buccally, near buccolingual midline of tooth, $2 =$ shifted further buccally, near base of parastyle and paracone) [ordered/additive]   \n59. conule on P3 ( $0 =$ absent, $1 =$ present) [see S25]   \n60. neomorphic lingual cusp on P3( $0 =$ absent, $1 =$ present, $2 =$ present, incorporated within raised lingual shelf, $3 =$ present,incorporated within raised lingual shelf also bearing distolingual cusp or“hypocone\"） [ordered/ additive]   \n61. parastylar lobe on P4 ( $0 =$ large, projecting, $1 =$ smaller and not projecting beyond the mesiolingual border of the tooth) [see S22]   \n62．parastyle on P4 ( $0 =$ absent, $1 =$ present, $2 =$ parastyle and preparaconal cusp present $\\ O =$ “dual parastyle”of Beard, 2000) [Be12; see also S66,S67] [ordered/additive]   \n63．number of buccal cusps distal to paracone on $ { \\mathrm { P 4 } }$ 0 $0 =$ none, $1 =$ one, $2 =$ two) [Be13; see also S23,S68] [ordered/ additive]   \n64．conule and associated crest on P4 ( $0 =$ absent, $1 =$ conule present, preparaconule crista absent, $2 =$ conule present, preparaconule crista present) [see S21,S63] [ordered/additive]   \n65. preparacrista on P4 ( $0 =$ absent, $1 =$ present) [see Be18, S13]   \n66．preprotocrista on $\\mathrm { P } 4$ 0 $0 =$ present, $1 =$ absent) [S27]   \n67. pericone on P4 ( $0 =$ totally absent, $1 =$ present,at least incipiently, $2 =$ present and cuspate) [see S62] [ordered/ additive]   \n68．hypocone on P4 ( $0 =$ totally absent, $1 =$ present,at least incipiently, $2 =$ present and cuspate) [see S61] [ordered/ additive]   \n69. acuteness of P4 cusps ( $0 =$ acute, $1 =$ bulbous) [S26]   \n70. relative size of P3 and $\\mathrm { P 4 }$ 0 $\\mathrm { { 0 = P 3 } }$ much smaller than P4, $1 = \\mathrm { P } 3$ similar in size to P4, $2 = { \\bf P } 3$ much larger than P4) [see S7O;note different scoring and coding scheme employed herel [ordered/additive]   \n71．relative size of P4 and M1( $\\mathrm { { \\displaystyle 0 = P 4 } }$ smaller than M1, $1 = \\mathrm { P 4 }$ similar in size to M1, $2 = { \\mathrm { P } } 4$ larger than M1) [see S71; note diffrent scoring and coding scheme employed here] [ordered/additive]   \n72. postprotocingulum on M1 ( $0 =$ absent or weak, $1 =$ pronounced) [see S41]   \n73. hypocones on M1-2 ( $0 =$ absent, $1 =$ incipient, $2 =$ cuspate) [see S43] [ordered/additive]   \n74. position of M1-2 protocone ( $0 =$ skewed mesiobuccally, $1 =$ central on crown) [S44]   \n75. continuity of post- and metacingula on M1-2 ( $0 =$ not continuous, $1 =$ continuous) [S45]   \n76. centrocrista on molars ( $0 =$ moderate, $1 =$ absent) [S46]   \n77. morphology of molar parastylar lobe on M1 ( $0 =$ projecting beyond the border of the tooth, $1 =$ not projecting) [S47] ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/9449e614bf15108e3669cca2c1db219a100764f26308a7488f59881b74d35a08.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">Appendix 2 Data matrix used in phylogenetic analysis</td></tr><tr><td>Purgatorius janisae</td><td>00??0?100?</td><td>0000000001</td><td>000???0000</td><td>0000100000</td><td>0000000000</td><td>00??0?????</td><td>011000000?</td><td>0000000</td></tr><tr><td>Pandemonium dis</td><td>????????</td><td>????000000</td><td>000???0000</td><td>0000001010</td><td>11000000?0</td><td>00??000000</td><td>0000000001</td><td>?0(0 1)0000</td></tr><tr><td>Pronothodectes matthewi</td><td>10011?1010</td><td>1011000000</td><td>000???0001</td><td>2100001111</td><td>1111011011</td><td>1010010010</td><td>1011000010</td><td>0001111</td></tr><tr><td>Pronothodectes jepi</td><td>10011?101?</td><td>101?000000</td><td>000??0001</td><td>2100001111</td><td>111101101?</td><td>??1???????</td><td>111100001?</td><td>0001111</td></tr><tr><td>Pronothodectes gaoi</td><td>100111(1 2)010</td><td>1011000000</td><td>000??0001</td><td>2100001111</td><td>1111010011</td><td>1010110010</td><td>1111100010</td><td>0101111</td></tr><tr><td>Saxonella crepaturae</td><td>11101??1??</td><td>11??001000</td><td>000???0001</td><td>01?0101000</td><td>1110000011</td><td>10????????</td><td>111211000?</td><td>0101101</td></tr><tr><td>Saxonella naylori</td><td>11101??1??</td><td>11??00100(0 1)</td><td>000???0001</td><td>1110101010</td><td>1??000?01?</td><td>??10212010</td><td>1112110002</td><td>010110?</td></tr><tr><td>Chronolestes simul</td><td>1000100010</td><td>1012210110</td><td>1000000011</td><td>1101101110</td><td>1110210010</td><td>0000000000</td><td>1002010100</td><td>0111001</td></tr><tr><td>Elphidotarsius florencae</td><td>10001?001?</td><td>101?110121</td><td>1110000011</td><td>1101111110</td><td>111011121?</td><td>???1010100</td><td>1112110000</td><td>1111001</td></tr><tr><td>Elphidotarsius shotgunensis</td><td>00??1?101?</td><td>101?2??121</td><td>1210000011</td><td>111211?110</td><td>1??011?20?</td><td>????110203</td><td>??????????</td><td>???????</td></tr><tr><td>Elphidotarsius wightoni</td><td>10011?0010</td><td>11??2??111</td><td>1110000011</td><td>1112111110</td><td>111021(0 1)11</td><td>???0111020</td><td>21212100(0 1)0</td><td>12121001</td></tr><tr><td>Elphidotarsius russelli</td><td>10??1?201?</td><td>11??2??131</td><td>12(1 2)0000011</td><td>11(0 1)2111110</td><td>1110110312</td><td>0??11(1 2)0203</td><td>1212111101</td><td>1121001</td></tr><tr><td>Subengius mengi</td><td>10??1?001?</td><td>10122??111</td><td>1210001011</td><td>1102111110</td><td>1110110112</td><td>01?111(0 1)201</td><td>12(1 2)211(1 2)(1 2)01</td><td>1111001</td></tr><tr><td>Carpodaptes hazelae</td><td>10001?1010</td><td>11??210131</td><td>1220000111</td><td>1112111210</td><td>1110110312</td><td>0101120203</td><td>1222112201</td><td>2121001</td></tr><tr><td>Carpodaptes aulacodon</td><td>????1??010</td><td>11??210131</td><td>1220000121</td><td>1112111210</td><td>111021031?</td><td>??????????</td><td>??????????</td><td>???????</td></tr><tr><td>Carpodaptes cygneus</td><td>100010001?</td><td>11??2??131</td><td>1220011121</td><td>1112111210</td><td>1110210312</td><td>01?1120203</td><td>1222112201</td><td>2121001</td></tr><tr><td>Carpodaptes stonleyi</td><td>10001?001?</td><td>11??2??131</td><td>1230011121</td><td>1112111210</td><td>1110210312</td><td>01?1220203</td><td>1222112201</td><td>2121001</td></tr><tr><td>Carpodaptes hobackensis</td><td>10001??010</td><td>11??210131</td><td>1231111221</td><td>1112111210</td><td>111021031?</td><td>??????????</td><td>????????</td><td>???????</td></tr><tr><td>Carpodaptes jepseni</td><td>10??1?001?</td><td>11??2??131</td><td>1230011221</td><td>1112111210</td><td>111021031?</td><td>??01221203</td><td>1222112202</td><td>2121001</td></tr><tr><td>Carpodaptes rosei</td><td>??????????</td><td>????2??131</td><td>1220011111</td><td>1112111210</td><td>11102103??</td><td>??????????</td><td>????????</td><td>???????</td></tr><tr><td>Carpocristes oriens</td><td>10??1?001?</td><td>101?2??111</td><td>1241101011</td><td>1112111110</td><td>111021011?</td><td>????131203</td><td>1222112201</td><td>2111001</td></tr><tr><td>Carpolestes dubius</td><td>10001?0011</td><td>11??210131</td><td>1251111221</td><td>1112121210</td><td>111021031?</td><td>???1321203</td><td>1222112202</td><td>2121001</td></tr><tr><td>Carpolestes nigridens</td><td>10??1?0011</td><td>11??210131</td><td>1251111221</td><td>1112121210</td><td>1110210312</td><td>01?1322203</td><td>1222112202</td><td>2(0 1)21001</td></tr><tr><td>Carpolestes simpsoni</td><td>1000100011</td><td>11?????131</td><td>1251111221</td><td>1112121210</td><td>1110210312</td><td>0111322203</td><td>1222112202</td><td>2(0 1)21001</td></tr></table></body></html>",
+        "page_idx": 30
+    }
+]

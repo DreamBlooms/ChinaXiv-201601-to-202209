@@ -1,0 +1,112 @@
+编号：166270
+
+# 卤化钠对丙二酸气溶胶颗粒水溶特性影响机理研究
+
+张超，王跃社，李晨沛，王海军（西安交通大学动力工程多相流国家重点实验室，陕西西安710049)
+
+摘要：大气中水蒸气会影响气溶胶颗粒的生长演化动力学特性，从而改变其环境效应。当前，对包含有机组分气溶胶颗粒与水相互作用机理的认识还很局限。本文建立了纯有机气溶胶和有机-无机混合气溶胶颗粒水溶特性研究分子动力学模型，分别模拟了不同温度条件下不同卤化钠盐(NaI/NaCl/NaF)对丙二酸 $\mathrm { ( C _ { 3 } H _ { 4 } O _ { 4 } ) }$ 团簇水溶特性的影响情况。重点分析了各影响因素作用下团簇结构和气粒界面特性。结果表明，温度升高， $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } { - } H _ { 2 } O }$ 团簇相继出现分层结构和混合结构。加入40个卤化钠分子后，水分子对初始团簇溶解程度的排序为 $4 0 \ \mathrm { N a F < 4 0 \ N a C l < 0 \ N a X < 4 0 \ N a I }$ ，且差异随着温度的升高而变大。高温( $\scriptstyle { \cal T } = 3 0 0$ K)时，各种团簇的表面均包含 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 分子和 $\mathrm { { H } _ { 2 } 0 }$ 分子，且 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 分子的疏水基朝向气相一侧。
+
+关键词：气溶胶；丙二酸；卤化钠；溶解；分子动力学中图分类号：TK121 文献标识码：A
+
+# The lmpact Mechanism of Sodium Halide on the Water Soluble Characteristics of Malonic Acid Aerosol Particles
+
+ZHANG Chao,WANG Yue-She,LI Chen-Pei, WANG Hai-Jun (State KeyLaboratoryofMultiphaseFlowinPower Engineering, Xi'an Jiaotong University,Xi'an710049,China)
+
+Abstract:Water vapor intheatmospherecanafectthe growth dynamics ofaerosol particles,thuschangingtheir environmental efects.However,theunderstandingof the mechanismof the interaction betwee waterand aerosol particles containingorganic components isstillimited.Inthisstudymoleculardynamics modelisestablishedtostudythewatersoublecharacteristicsofpure malonic acid $\mathrm { ( C _ { 3 } H _ { 4 } O _ { 4 } ) }$ aerosol and malonic acid-sodium halide mixed aerosolparticlesat thecondition of diferent temperatures and diferentsodiumhalidetypes(Nal/NaCl/NaF).Thekeypointistheefectofdiferentfactorsothestructuralandtheinterfacial propertiesofparticle.Theresultsshowthat thedemixed structureandthe mixed structurecanbeobservedfor malonic acid-water aerosolwiththeincreaseoftemperatue.Afteraddng40sodiumalide,theorderofthedisolutiondegreeoftheinitialparticleis40 $\mathrm { N a F } < 4 0 \mathrm { N a C l } < 0 \mathrm { N a X } < 4 0 \mathrm { N a I }$ ,and the difference increases with the increase of temperature.At higher temperatue ( $\mathrm { T } = 3 0 0 \mathrm { K }$ ） the interface of various aggregates is conposed of $\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ molecules,and the hydrophobic group of $\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 }$ molecules faces the gas phase.
+
+Key Words: aerosol; malonic acid; sodium halide; dissolution; molecular dynamics
+
+# 0引言
+
+大气溶胶颗粒物会影响全球气候状况、大气辐射强迫和区域性空气质量。环境中水蒸气会对气溶胶颗粒物生长演化过程产生重要作用，主要表现为对气溶胶颗粒的光散射特性，云寿命和颗粒沉降率的影响[2]。此外，有机物在气溶胶颗粒的组成成分中占有很大比例[3，其与水蒸气相互作用时的动力学演化过程一直是气溶胶研究领域的热点和难点。目前已有的研究主要采用实验方法和基于热力学经典理论建模的方法。这两种方法在研究气溶胶和水相互作用过程中分子层面机理问题上有很大局限，因此需要借助分子模拟手段。
+
+当前，基于经典力学理论的分子动力学方法已经逐渐被应用到简单成分气溶胶颗粒吸湿特性动力学过程的研究中。如，Zhang 等人4采用 MD 方法研究了均相成核和离子诱导水蒸气成核过程中新生成团簇演化过程的动力学特性。Bahadur和Russel15采用 MD 方法研究了NaC1 颗粒的潮解特性并分析了吸湿过程中水分子吸附系数的变化过程。Akbarzadeh等人采用MD方法研究了 $\mathrm { \Delta N H _ { 4 } C l }$ 和 NH4NO颗粒潮解特性的差异。Picaud 课题组[7-9]基于MD方法分别研究了丙二酸、甲酸、乙酸和丙酸气溶胶颗粒与水分子相互作用下二元气溶胶颗粒结构的演化过程，据此分析了不同种类二元颗粒的吸湿特性。在将模拟结果与 Schi11 的实验工作[1相对比后得出结论：有机气溶胶颗粒的吸湿特性不仅取决于有机物中的氧碳比，而且还与有机物中羧基数量和有机分子的结构相关。Chakraborty课题组[11,12]先后研究了一元羧酸和二元羧酸包裹水滴气溶胶颗粒的结构和界面特性。然而，当前对有机物和无机盐混合气溶胶颗粒物和水蒸气相互作用过程的研究主要采用实验方法，对其分子层面动力学机理的研究还很缺乏[13]。
+
+本文建立了丙二酸 $\mathrm { ( C _ { 3 } H _ { 4 } O _ { 4 } ) - }$ 水 $\mathrm { { ( H _ { 2 } O ) } } ^ { \prime }$ 二元体系和丙二酸 $\mathrm { ( C _ { 3 } H _ { 4 } O _ { 4 } ) - }$ 卤化钠 $\left( \mathrm { N a I / N a C l / N a F } \right) -$ 水 $\mathrm { ( H _ { 2 } O ) }$ 三元体系的分子动力学模型，模拟了不同温度条件下，不同种类卤化钠盐的存在对有机气溶胶颗粒和水分子相互作用过程的影响，对比分析了颗粒物的结构和界面演化特性。
+
+# 1．分子动力学模拟
+
+本文模拟体系中包含三种分子，其中水分子采用SPC/E模型，丙二酸分子采用OPLSAA力场中的势能参数[14]，卤化钠中的离子采用文献[15]中势能参数。模拟体系中势函数表达式为：
+
+$$
+\begin{array} { l } { { U _ { n o t } = \displaystyle \sum _ { n = m b = m } \left[ 4 \displaystyle \varepsilon _ { i j } \left( \frac { \sigma _ { i j } ^ { 1 2 } } { r _ { i j } ^ { 1 2 } } - \frac { \sigma _ { i j } ^ { 6 } } { r _ { i j } ^ { 6 } } \right) + \frac { q _ { i } q _ { j } } { r _ { i j } } \right] f _ { i j } } } \\ { { + \displaystyle \sum _ { b = m } K _ { r } \left( r - r _ { 0 } \right) ^ { 2 } + \sum _ { a n g l e } K _ { \theta } \left( \theta - \theta _ { 0 } \right) ^ { 2 } } } \\ { { + \displaystyle \sum _ { b = m } \left[ \frac { V _ { 1 } } { 2 } \left[ 1 + \cos \left( \phi \right) \right] + \frac { V _ { 2 } } { 2 } \left[ 1 - \cos \left( 2 \phi \right) \right] \right. \qquad } } \\ { { \displaystyle \left. + \sum _ { \ell = s i m } \left[ + \frac { V _ { 3 } } { 2 } \left[ 1 + \cos \left( 3 \phi \right) \right] + \frac { V _ { 4 } } { 2 } \left[ 1 - \cos \left( 4 \phi \right) \right] \right] \right] } } \end{array}
+$$
+
+其中，公式右边第一项为非键接势能项，包括Lennard-Jones12-6势能和静电势能，对于同一个分子中1-4原子相互作用而言， $\it { f _ { i j } } \mathrm { = } 0 . \mathrm { ~ 5 ~ }$ ，否则， $f _ { i j } { = } 1$ 。后三项为分子内相互作用势能项，分别为键伸缩项，键角弯曲项和双面角扭曲项。范德华作用力和库伦作用力截断半径为 $1 . 4 \ \mathrm { n m }$ ，长程库仑力采用PPPM算法。模拟采用周期性边界条件，时间步长为1fs.本文中的模拟过程均采用NVT系综，温度控制采用Nose-Hoover 热浴。
+
+首先，建立三个分别包含120 个丙二酸分子$\mathrm { ( C _ { 3 } H _ { 4 } O _ { 4 } ) }$ 和40个不同卤化钠分子(NaI/NaC1/NaF)的团簇来分别不同有机-无机混合气溶胶颗粒，将其放置于边长为 $8 \ \mathrm { n m }$ 的立方体盒子内。经过2ns的平衡后将团簇转移到一个新立方体盒子(边长 $8 ~ \mathrm { { n m } } )$ 的中心，同时加入360个均匀分布的水分子来模拟一定湿度条件。体系在100K温度条件下持续5ns。在此过程中发现所有模拟体系中的水分子都被吸附到初始团簇上。此时，将团簇再次放入一个新的立方体盒子中(边长 $2 2 { \mathrm { n m } } )$ ，并在不同温度条件（100,140，180，220，260 和300 K)下持续1ns。本文所采用的一些温度值低于大气对流层的温度，这是因为在分子动力学模拟中，团簇结构和界面的变化主要依赖于所采用的分子势能参数，由于分子势能参数的精确性不能保证，因此在满足团簇分子不蒸发的前提下将模拟体系控制在不同的温度，以获得团簇可能出现的所有结构和界面特性。最后，对各模拟体系进行1ns 的数据采集。
+
+作为对比，本文进行了纯丙二酸团簇(120$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } ) }$ 的吸湿性模拟，模拟过程同上。为了分析不同团簇的结构和界面特性，在分子模拟结果的基础上，本文分别分析了各体系中团簇平衡快照、团簇尺寸分布函数和团簇径向分布函数。分析过程中，采用 Stillinger[16]标准判断两个分子是否相连。不同种类分子间距离标准分别为：两个丙二酸分子(满足其中任一条件即为相连)： $r ( 0 \left( \mathrm { C = 0 } \right) \mathrm { - H \left( 0 \mathrm { - } H \right) } )$
+
+≤0.225nm， $r ( 0 \left( \mathrm { C } \mathrm { = } 0 \right) \mathrm { - } \mathrm { H } \left( \mathrm { C } \mathrm { - } \mathrm { H } \right) ) \leqslant 0 . 3 2 5$ nm,$r ( 0 \left( \mathrm { C } \mathrm { - } 0 \right) \mathrm { - } \mathrm { H } \left( \mathrm { 0 } \mathrm { - } \mathrm { H } \right) ) ~ \leqslant ~ 0 . 2 2 5 \mathrm { \operatorname { n m } } , ~ r ( 0 \left( \mathrm { C } \mathrm { - } 0 \right) \mathrm { - } \mathrm { H } \left( \mathrm { C } \mathrm { - } \mathrm { H } \right) )$ $\leqslant 0 . 3 2 5 \ \mathrm { n m }$ 。丙二酸分子和离子： $r ( \mathrm { N a } ^ { + } { - } 0 \left( \mathrm { C } { = } 0 \right) ) ~ \leqslant$ $0 . 3 2 { \mathrm { n m } }$ 5 $r ( \mathrm { C l ~ \bar { ~ } { - H } ( 0 { - } H ) } ) ~ \leqslant ~ 0 . 2 8 \mathrm { n m } , ~ r ( \mathrm { F } \mathrm { \bar { ~ } H ( 0 { - } H ) } )$ $\leqslant \ 0 . \mathrm { ~ 1 9 ~ } \mathrm { ~ n m }$ ， $r ( \mathrm { I ^ { - } - H ( 0 - H ) } ) ~ \leqslant ~ 0 . 3 2 5 ~ \mathrm { n m }$ 。离子和离子： $r ( \mathrm { N a ^ { + } { - } C l ^ { - } } ) ~ \leqslant ~ 0 . 3 3 ~ \mathrm { n m } .$ ， $r ( { \mathrm { N a } } ^ { + } { - \mathrm { F } } ^ { - } ) ~ \leqslant ~ 0 . 2 8$ nm， $r ( \mathrm { N a ^ { + } { - } I ^ { - } } ) ~ \leqslant ~ 0 . 4 1 ~ \mathrm { \ n m }$ ，这些临界值为相应径向分布函数第一个波谷对应的距离值。
+
+# 2．模拟结果与分析
+
+# 2.1团簇结构图
+
+不同模拟体系中团簇的结构可以从团簇模拟快照中获取定性结果。本文分别追踪了不同温度条件下各种类型团簇的结构变化情况。图1中显示了两种温度( $. 1 4 0 \mathrm { ~ K ~ }$ 和 300K条件下纯 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇$/ C _ { 3 } \mathrm { H _ { 4 } O _ { 4 } + N a I / N a C l / N a F }$ 团簇和水相互作用后的结构快照。从图中可以看出，对于二元 $C _ { 3 } H _ { 4 } O _ { 4 } { + } H _ { 2 } O$ 团簇而言，随着温度的升高，团簇会相继出现分层结构（水分子以团簇形式包裹在 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇外)和混合结构(水分子渗入 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇内部)。此二元 $C _ { 3 } H _ { 4 } O _ { 4 } { + } H _ { 2 } O$ 团簇的变化情况和文献中模拟结果相同，定性证明了本文采用的模拟方法的正确性。
+
+当加入卤化钠后，随着温度升高，三元$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F + H _ { 2 } O }$ 团簇会出现与二元$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + H _ { 2 } O }$ 团簇不同的结构。其中，加入NaI和NaCl后团簇会出现分层结构和混合结构，而加入NaF后，团簇只出现分层结构。
+
+![](images/900b4f62e9e1cffb33f43101ef6e8bfe70c0a1fc45fa156b31579f066208f57f.jpg)  
+图1.不同温度 $( 1 4 0 , 3 0 0 \mathrm { ~ K } )$ 条件下 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + H _ { 2 } O }$ 团簇和 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F + H _ { 2 } O }$ 团簇的模拟快照。 Fig.1 Snapshots of aggregate containing $\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ and aggregates containing $\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 }$ $\mathrm { \Delta N a I / N a C l / N a F }$ and $\mathrm { H } _ { 2 } \mathrm { O }$ under the condition of diffrerent temeperatures $( 1 4 0 / 3 0 0 ~ \mathrm { K } )$ 1
+
+# 2.2团簇尺寸分布函数
+
+不同温度条件下二元 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + H _ { 2 } O }$ 团簇和三元$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F + H _ { 2 } O }$ 团簇结构变化情况的定量描述可以通过计算模拟体系中 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇或$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F }$ 团簇的尺寸分布函数获取。与图1相对应，图2列出了两种温度( $. 1 4 0 \mathrm { { K } }$ 和 $3 0 0 \mathrm { K } )$ （24条件下不同类型团簇的尺寸分布函数 $\left( \mathrm { a - d } \right)$ 。同时图2也给出了温度为 $3 0 0 \mathrm { ~ K ~ }$ 时不同种类团簇尺寸分布函数第二个峰值的位置(e)。为了便于比较，在图2(e)中将二元体系中 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇的所有尺寸在原来的基础上分别乘以5/3。
+
+![](images/286b68499cf3da7093268f66d12adcbc04d201b19737d489c721e2585292602d.jpg)
+
+![](images/5af3a0881d38f560bbc8eef82a26024f526f0991b073b5e06976c6304b80252f.jpg)  
+图2不同温度( $1 4 0 \mathrm { ~ K ~ }$ ，300K)条件下不同团簇的尺寸分布函数 $P ( { \bf n } )$ ，(a) $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇,(b) $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I }$ 团簇， (c)$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a C l }$ 团簇， (d) $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a F }$ (图中插图为局部放大图)，(e） $\scriptstyle { \mathcal { I } } = 3 0 0 { \mathrm { ~ K ~ } }$ ，各体系中团簇尺寸分布函数的第二个峰值Fig.2 Cluster size distribution $P ( { \mathfrak { n } } )$ of various cluster,(a)$\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 }$ cluster,(b) $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I }$ cluster,(c) $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a C l }$ cluster, (d) $\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 } \mathrm { + N a F }$ cluster (Insets of the figures show the
+
+corresponding $\mathrm { { \cal P } ( n ) }$ in different scale),(e)at $\scriptstyle { T = 3 0 0 \mathrm { K } }$ ，the second peak of $P ( { \mathfrak { n } } )$ in each system.
+
+对于二元 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + H _ { 2 } O }$ 体系中的 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇而言，不同温度条件(140K和 $3 0 0 \mathrm { ~ K ~ } )$ 下的尺寸分布函数都存在两个峰值（ $\cdot \ n { \approx } 1$ ，120 处)，对应体系中主要出现的两种团簇尺寸.其中尺寸近似为1的团簇对应体系中略超出本文定义距离判断标准的分子。温度升高，第一个峰值增大，第二个峰值减小，表明水分子渗入初始 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇，团簇被部分溶解。这种现象的发生是由于分子热运动的加剧导致丙二酸团簇内部产生了大量空穴，致使水分子渗入其中。加入卤化钠盐后，两种温度条件下 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a X }$ 团簇尺寸分布函数的波峰数目及变化趋势与二元体系中$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇基本相同。然而，由图2(e)可以看出，四种团簇分布函数第二个峰值所对应的尺寸值排序为 $4 0 \mathrm { \ N a I ~ < ~ 0 ~ \ N a X ~ < ~ 4 0 ~ \ N a C l ~ < ~ 4 0 ~ \ N a F } ,$ 这种现象表明卤化钠盐的加入会改变水分对初始 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇的溶解程度，而且该溶解程度的改变程度与卤化钠盐的种类有关。此结果定量验证了上文中团簇模拟快照分析结论。
+
+为了更加直观体现不同因素对模拟体系中初始$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇和 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F }$ 团簇被水分子溶解程度的影响情况，本文计算了不同模拟体系中最大团簇尺寸 $( \boldsymbol { \Lambda } )$ 相对于初始尺寸 $( \Lambda _ { 0 } ^ { } )$ 的变化率 $\left( M N \right)$ 随温度的变化情况，结果如图3所示。
+
+![](images/fb21957f1d2a97d0cfddf1efc4e84e88567747903f84680d394293423fcccb1a.jpg)  
+图3模拟体系中最大 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇或 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F }$ 团簇 的变化率 $\left( M N \right)$ 随温度的变化情况 Fig.3 Change rates $( N / N _ { 0 } )$ of the largest $\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 } / \$ $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 }  – N a I / N a C l / N a F }$ aggregates in different systems,as a function of the temperature
+
+由图3可以看出，低温时 $( T { \leqslant } 1 8 0 \ \mathrm { ~ K ~ } )$ ，所有模拟体系中初始团簇被水溶解的程度近似为零，随着温度升高，所有模拟体系中的初始团簇尺寸减小；相同温度条件下团簇尺寸的变化率 $( M N )$ 排序为40$\mathrm { N a F ~ > ~ 4 0 ~ \ N a C l ~ > ~ 0 ~ \ N a X ~ > ~ 4 0 ~ \ N a I } _ { \circ }$ 。这说明卤化钠盐的加入会改变初始团簇的稳定性，此外，卤化钠盐对初始丙二酸团簇稳定性影响程度的差异随着温度的升高而增大。
+
+# 2.3团簇径向分布函数
+
+湿度条件下，团簇中不同组分的分布情况可由相应分子中代表性原子的径向分布函数获得。由于组分径向分布函数的计算要求团簇为近似球形，因此本文只计算了 $r = 1 8 0 ~ \mathrm { ~ K ~ }$ 和 $\scriptstyle { \mathcal { T } } = 3 0 0 \mathrm { ~ \AA ~ }$ 条件下$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + H _ { 2 } O }$ 团簇和 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F + H _ { 2 } O }$ 团簇中$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 分子、 $\mathrm { H _ { 2 } O }$ 分子、Na和 $\boldsymbol { \mathrm { X } } ^ { - }$ 的径向分布函数。其中， $0 \left( \mathrm { C = } 0 \right)$ 和 $\mathsf { H } ( \mathrm { C - H } )$ 代表 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 分子， $\mathrm { 0 ( H _ { 2 } 0 ) }$ 代表$\mathrm { H } _ { 2 } 0$ 分子。结果如图4所示。
+
+![](images/23dfc14ade99feced70544bb8b555818b9b67ca1f4a060f12445e4d9af6ea86f.jpg)
+
+![](images/9626c18c73ed2489c1df19e905b2bba46ca5b7110d105f592b128485851929e8.jpg)  
+图4不同温度(180K，300 K)条件下，二元 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } { - } H _ { 2 } O }$ 团簇(a)和三元 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F { - } H _ { 2 } O }$ 团簇(b、c、d)中不同原子的径向分布函数Fig.4 Radial density profiles of different atoms in the binary$\mathrm { C } _ { 3 } \mathrm { H } _ { 4 } \mathrm { O } _ { 4 } – \mathrm { H } _ { 2 } \mathrm { O }$ aggregate (a) and the ternary$\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } \mathrm { + N a I / N a C l / N a F \mathrm { - } H _ { 2 } O } }$ aggregate $\mathrm { ( b / c / d ) }$ ,under thecondition of different temperatures ( $1 8 0 \mathrm { K }$ ， $3 0 0 \mathrm { K }$ ）
+
+由图4可以看出，对于所有模拟体系，卤化钠盐离子位于团簇内部。较低温度时（ $\left( \boldsymbol { \mathcal { I } } \boldsymbol { = } 1 8 0 \mathrm { K } \right)$ ，水分子包裹在初始 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇和 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + N a I / N a C l / N a F }$ 外，随着温度升高( $\scriptstyle { \mathrm { . } } = 3 0 0 { \mathrm { ~ K } } )$ ，水分子向团簇内部扩散，但相同温度条件下，不同团簇中水分子扩散程度不同，可以明显地看出，包含 $\mathrm { { N a C l / N a F } }$ 的丙二酸团簇中水分子的扩散程度小于纯丙二酸团簇和包含NaI的丙二酸团簇。且在较高温度( $. T { = } 3 0 0 \ \mathrm { ~ K } )$ 时，对于二元 $C _ { 3 } H _ { 4 } O _ { 4 } { + } H _ { 2 } O$ 团簇和三元 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } + H _ { 2 } O + N a X }$ 团簇，气粒界面由丙二酸分子和水分子组成，且丙二酸分子中的疏水基 $\mathrm { ( - C H _ { 3 } ) }$ 朝向气相一侧，亲水基（2 $( - \mathrm { C O O H } )$ 朝向颗粒相内部。
+
+气粒界面不同组分的面积比以及有机物分子的形态会影响气相一侧水蒸汽分子在团簇表面的粘附系数[12]，从而影响该团簇吸湿生长特性。通过本文的模拟分析可以获得纯丙二酸以及丙二酸-卤化钠混合气溶胶颗粒表面不同成分相对含量的变化规律以及表面有机物组分的分子形态，这将为后期气溶胶颗粒表面水分子吸附系数的定量描述奠定基础。
+
+# 3．结论
+
+本文采用分子动力学方法模拟了纯丙二酸有机气溶胶颗粒和丙二酸-卤化钠混合气溶胶颗粒的水溶特性，通过模拟快照的分析以及团簇尺寸分布、最大团簇尺寸变化率和团簇径向分布函数的计算，分别从定性和定量两个角度研究了温度和卤化钠盐种类(NaI/NaCl/NaF)对丙二酸 $\mathrm { ( C _ { 3 } H _ { 4 } O _ { 4 } ) }$ 气溶胶颗粒水溶特性的影响规律和微观机理。主要研究结论如下：
+
+湿度条件下，随着温度的升高，水分子逐渐溶解初始 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇，二元 $C _ { 3 } H _ { 4 } O _ { 4 } { + } H _ { 2 } O$ 团簇相继出现分层结构(水分子以团簇形式包裹初始团簇)和混合结构(水分子渗入 $\mathrm { C _ { 3 } H _ { 4 } O _ { 4 } }$ 团簇内部)。
+
+不同种类卤化钠盐的加入对初始团簇的稳定性(被水分子溶解的难易程度)会产生不同的影响，其稳定性排序为 $4 0 ~ \mathrm { { N a F } > 4 0 ~ \mathrm { { N a C l } > 0 ~ \mathrm { { N a X } > 4 0 ~ \mathrm { { N a I } } } } }$ 致使随着温度的升高包含NaI和 $\mathrm { { N a C l } }$ 的团簇出现分层结构和混合结构，而包含NaF的团簇只出现分层结构。且这种溶解程度的差异随着温度的升高而增大。
+
+高温时（ $\cdot = 3 0 0 \mathrm { \ K } )$ ，本文中不同团簇的表面均由丙二酸分子和水分子构成，且丙二酸分子的疏水基朝向气相一侧。
+
+# 参考文献
+
+[1] Hand J L,Malm W C. Review of the Improve Equation for Estimating Ambient Light Extinction Coefficients [M]. CIRA，Colorado State University, 2007. [2]Pöschl U. Atmospheric Aerosols: Composition, Transformation, ClimateandHealth Effects [J].
+
+Angewandte Chemie International Edition, 2005, 44(46): 7520-7540.   
+[3] Kanakidou M, Seinfeld J,Pandis S,et al. Organic Aerosol and Global Climate Modelling: A Review [J]. Atmospheric Chemistryand Physics, 2005， 5(4): 1053-1123.   
+[4] Zhang C，Wang Y, Liu Y, et al. A Molecular Dynamics Study of Water Vapor Nucleation in the Presence of Ions [J]. Chemical Engineering Science, 2015, 137: 137308-319.   
+[5] Bahadur R, Russell L M. Water Uptake Coefficients and Deliquescence of NaCl Nanoparticles at Atmospheric RelativeHumiditiesfromMolecularDynamics Simulations [J]. The Journal of Chemical Physics, 2008, 129(9): 094508.   
+[6] Akbarzadeh H, Shamkhali A N, Abbaspour M, et al. Molecular Dynamics Investigation on the Deliquescence ofNH4ClandNH4NO3Nanoparticlesunder Atmospheric Conditions [J]. RSC Advances, 2015, 5(48): 38345-38353.   
+[7]Darvas M，Picaud S,Jedlovszky P. Molecular Dynamics Simulations of the Water Adsorption around Malonic Acid Aerosol Models [J]. Physical Chemistry Chemical Physics,2013,15(26): 10942-10951.   
+[8] Vardanega D，Picaud S. Water and Formic Acid Aggregates: A Molecular Dynamics Study [J]. The Journal of Chemical Physics,2014,141(10): 104701. [9] Radola B, Picaud S, Vardanega D, et al. Molecular Dynamics Simulations of the Interaction between Water Molecules and Aggregates of Acetic or Propionic Acid Molecules [J]. The Journal of Physical Chemistry B, 2015,119(51): 15662-15674.   
+[10] Schill G P, Tolbert M A. Depositional Ice Nucleation on Monocarboxylic Acids: Effect of the O: C Ratio [J]. The Journal of Physical Chemistry A， 2012，116(25): 6817-6822.   
+[11] Chakraborty P, Zachariah M R.“Effective” Negative Surface Tension: A Property of Coated Nanoaerosols Relevant to the Atmosphere [J]. The Journal of Physical Chemistry A,2007,111(25): 5459-5464.   
+[12] Ma X, Chakraborty P, Henz B J, et al. Molecular Dynamic Simulation of Dicarboxylic Acid Coated Aqueous Aerosol: Structure and Processing of Water
+
+Vapor[J].Physical Chemistry Chemical Physics,2011, 13(20): 9374-9384. [13] Zhang C，Wang Y, Wang H. Interaction between Water and Acetic Acid-Sodium Halide Aerosol: A Molecular Dynamics Study [J]. Powder Technology, 2016, doi: 10.1016/j.p0wtec.2016.12.082. [14]Jorgensen W L，Maxwell D S,Tirado-Rives J. Development and Testing of the Opls All-Atom Force Field on Conformational Energetics and Properties of Organic Liquids [J]. Journal of the American Chemical Society, 1996, 118(45): 11225-11236. [15] Sun L,Li X,Hede T,et al. Molecular Dynamics Simulations of the Surface Tension and Structure of Salt Solutions and Clusters [J]. The Journal of Physical Chemistry B,2012,116(10): 3198-3204. [16]Stillinger Jr F H.Rigorous Basis of the Frenkel - Band Theory of Association Equilibrium [J]. The Journal of Chemical Physics,1963,38(7): 1486-1494.

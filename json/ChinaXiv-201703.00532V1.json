@@ -1,0 +1,206 @@
+[
+    {
+        "type": "text",
+        "text": "用正电子湮没谱学技术表征PDMS-MIL-101杂化膜",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王胜¹杨静² 张鹏²\\*曹兴忠² 田丽霞¹ 于胜楠³潘福生4 姜忠义1（东华理工大学南昌 330013）2（中国科学院高能物理研究所北京100049)3（天津大学化工学院绿色合成与转化教育部重点实验室天津300072)4（天津化学化工协同创新中心天津 300072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要有机一无机杂化膜兼具高分子膜和无机膜的特点，可克服常规分离膜遭遇的渗透性与选择性能间的trade-off 问题，是一种有广泛用途的膜材料研究表明，应用正电子湮没寿命谱和正电子湮没符合多普勒展宽能谱等正电子湮没谱学技术能从微观尺度对聚合物-金属有机骨架材料杂化膜PDMS-MIL-101 $( \\mathrm { c r } )$ 的微观结构进行了表征，结果表明，随着MOFs添加量的增大，交联位置处的空位和聚合物基体的自由体积的尺寸都变小，MOFs进入了聚合物的自由体积。杂化膜的正电子湮没符合多普勒展宽能谱显示， $\\mathtt { M I L - 1 0 1 } ( \\mathrm { C r } )$ 亚纳米粒子的加入使得正电子在聚合物基体PDMS氧原子上的偏向湮没效应减弱，部分正电子与来自MIL-101（Cr）亚纳米粒子中金属原子的电子发生湮没，表明MOFs进入自由体积后与PDMS中的氧原子形成键，遮挡了自由体积周围的部分氧原子。结果表明，应用正电子湮没谱学技术从微观尺度上表征有机-无机杂化膜的微观结构是非常有效的实验分析方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词MIL-101；正电子湮没；自由体积，杂化膜，PDMS-MIL-101中图分类号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Positron annihilation spectroscopy characterize PDMS-MIL-101 hybrid membrane ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Due to the integration of the advantages of the inorganic filer phase and the polymer phase, organic-inorganic hybrid membrane,which can overcome the trade-off effect between permeability and selectivity,is widely used in many areas.In this study，positron annihilation lifetime spectroscopy (PALS) and coincidence Doppler broadening energy spectroscopy (CDBES) were used to study the microstructure of a polymer - metal organic framework materials hybrid membrane,PDMS-MIL101 (Cr) (poly (methyl siloxane - MIL101 (Cr)). PALS results showed that with higher MIL1O1 (Cr) loading,the size of both the space at crosslinking site and the free volume of polymer matrix decreased，indicating that MOFs entered the free volume of polymer. CDB ratio spectra of Hybrid membranes to single silicon crystal reflected that the efect of positron preferential annihilation with oxygen atoms was weakened with much more MIL1o1(Cr) in hybrid membranes,and a fraction of positrons annihilated with the electrons of metal atoms locating at the center of subnanometer particles of MIL101(Cr).It is inferred that after entering the free volume of polymer,MIL101(Cr) particles may interact with oxygen atoms,thus partly block the way for positron's access to oxygen atoms. Positron annihilation technique is proved to be effective to characterize the microstructure of organic-inorganic hybrid membranes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了制备出工业分离中最理想的既具有高渗透性能又具有高选择性能的分离膜，研究人员做了各种尝试，比如改变聚合物的种类或修饰聚合物的结构，来提高膜的分离性能。但制备的聚合物膜通常受到渗透性和选择性之间的 trade-off 效应的限制[1-5]，即具有高渗透性的分离膜的选择性通常比较差，反之亦然。另一方面，研究人员发现一些用于气体和液体分离的无机膜材料可不受trade-off效应的限制，具有相当好的分离性能，但这些材料难以加工和高投资成本等缺点极大地限制了材料的大规模应用。在这种情形下，选择在高分子材料中加入无机成分制备有机一无机杂化膜，成为一种能克服tradeoff效应的方便有效的实验方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据有机组分和无机组分之间的相互作用，有机一无机杂化膜可分为两类。第一类材料的有机组分和无机组分之间通过弱氢键，范德瓦尔斯力或者静电力发生相互作用；第二类材料的两成分则通过离子键或者共价键发生相互作用。其中，第一类材料由于制备方法简单，受到广泛关注。许多学者致力于开发第一类有机无机杂化膜，如把沸石，碳分子筛，二氧化硅等，填入致密的聚合物薄膜来提高分子分离性能。然而这些杂化膜也面临着许多如无机粒子的聚集和非选择性空隙的形成等问题。因此，寻找新的无机填料，制备高效的有机无机杂化膜仍然是一项亟待研究的课题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近十年来，金属有机骨架材料（MOFs）是发展最为迅速的一种配位聚合物[7、8]。MOFs具有三维的孔结构，一般以金属离子为连接点，有机配体位支撑构成空间3D 延伸，系沸石和碳纳米管之外的又一类重要的新型多孔材料。金属阳离子在MOFs 骨架中的作用一方面是作为结点提供骨架的中枢，另一方面是在中枢中形成分支，从而增强 MOFs的物理性质（如多孔性和手性）。这类材料的比表面积远大于相似孔道的分子筛，而且能够在去除孔道中的溶剂分子后仍然保持骨架的完整性9。由于MOF 的这些优异特性，我们尝试以MOFs作为填料，来制备高效能有机无机杂化膜。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "众所周知，有机无机杂化膜的分离性能主要取决于无机填料和聚合物基体的界面相互作用，因此，从微观尺度或者分子水平对有机无机杂化膜中的自由体积进行表征是合理设计杂化膜的基础。目前测量聚合物微观结构的技术有荧光探针分析[10],光敏分子标记法[1],小角 X射线和中子散射分析法[12]以及正电子湮没寿命谱（PALS）技术[13-15]。光敏法和荧光法由于在介质孔穴中引入形状探针分子而引起干扰，所以只能得到较粗略的估计值；散射方法只能从介质电子密度的涨落推导出自由体积，对小于 $1 \\times 1 0 ^ { - 9 } \\mathrm { m } 3$ 的孔穴则无能为力；相比而言，PALS 所能探测的尺寸较小（直径约 $0 . 1 0 6 \\mathrm { n m } )$ ，不会对体积产生显著的影响，并且正电子优先定域、湮没在孔穴和缺陷等处。借助正电子湮没寿命谱，可以定量的比较出自由体积孔穴的大小及数量、分布的信息。借助正电子湮没符合多普勒展宽能谱，可以分析出正电子湮没位置的元素种类，从而推断无机粒子在聚合物中的分布情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们借助正电子湮没谱学技术，从微观尺度上对制备的聚甲基硅氧烷掺杂金属有机框架材料MIL-101亚微米颗粒杂化膜的微观结构进行了表征，以期在具体的渗透实验前对材料的结构有清晰的认识，为渗透性能的理论解释奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验部分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1样品的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验采用的九水硝酸铬、3-氨丙基三甲氧基硅烷(APTMS)、对苯二甲酸、粘度为 $5 0 0 0 \\mathrm { c p }$ 的羟基封端聚二甲基硅氧烷(PDMS)低聚物、二月桂酸二丁基锡(有机锡)、氢氟酸、正庚烷、N,N-二甲基甲酰胺(DMF)和无水乙醇等除 PDMS 外均为分析纯试剂(PDMS 为工业级产品)。实验过程中使用的水均为去离子水。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验采用水热反应法合成MIL-101 $( \\mathrm { C r } )$ 亚纳米颗粒[16]。将 $1 . 6 6 \\mathrm { g }$ 对苯二甲酸、 $\\boldsymbol { 4 \\mathrm { g } }$ 九水合硝酸铬、 $4 8 \\mathrm { m L }$ 去离子水、 $0 . 4 1 2 5 \\mathrm { m L }$ 氢氟酸混合加入水热釜保持 $2 2 0 ^ { \\circ } \\mathrm { C } 8 \\$ 小时，然后随炉冷却至室温，将所得固体产物离心分离，然后用 N,N-二甲基甲酰胺洗涤直至上层清液呈无色， $4 0 ^ { \\circ } \\mathrm { C }$ 真空干燥至恒重，得到绿色粉末。为将其孔道内多余的有机配体除去，将粉末在DMF中 $8 0 ^ { \\circ } \\mathrm { C }$ 洗涤12小时，重复一次；然后在乙醇中 $7 8 ^ { \\circ } \\mathrm { C }$ 洗涤12小时，重复一次；然后$4 5 \\mathrm { ^ \\circ C }$ 真空干燥至恒重，得到纯化的 MIL-101(Cr)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了制备实验所需的杂化膜，先将一定量的 MIL-101颗粒在正庚烷中超声分散以减少颗粒的聚集，随后将高分子基质聚二甲基硅氧烷(PDMS)低聚物、交联剂 3-氨丙基三甲氧基硅烷(APTMS)、催化剂二月桂酸二丁基锡(有机锡)等加入搅拌，正庚烷、PDMS、APTMS、有机锡的质量比为1:0.3:0.023:0.003。铸膜液搅拌均匀后静置脱泡，倾倒在聚四氟乙烯(PTFE)培养皿中，室温下平放静置过夜蒸发溶剂，然后放入 $7 5 ^ { \\circ } \\mathrm { C }$ 烘箱中4小时以使PDMS完成交联并进一步蒸发溶剂。制成的膜放置在干燥、无尘环境中。根据MIL-101与PDMS的质量比，赋予膜代号： $0 \\%$ 、 $2 \\%$ 、 $4 \\%$ 、 $6 \\%$ 、 $8 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2杂化膜微观结构的表征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正电子湮没寿命谱可以反映聚合物自由体积的尺寸和浓度等信息。正电子湮没寿命谱测试时在室温下进行的，采用了传统的“快慢”符合方式，仪器的时间分辨率为 $2 0 2 \\mathrm { p s }$ （以60Co能谱的FWHM表示)。所用正电子源是用 $7 ~ \\mu \\textrm { m }$ 的kapton 膜封装氯化钠液滴（ $^ { 2 2 } \\mathrm { N a } )$ ）形成的。测试时，正电子源位于两片相同的样品之间，形成类三明治结构。每个寿命谱的总计数达到$2 . 0 { \\times } 1 0 ^ { 6 }$ ，以保证良好的统计性。寿命谱的解析使用通用软件LT-9进行四成分拟合。一般认为， $\\boldsymbol { \\tau } _ { 1 }$ 来自仲态电子偶素（p-Ps）的自湮没， $\\boldsymbol { \\tau } _ { 2 }$ 来源于自由正电子的湮没， $\\tau _ { 3 }$ 、 $\\boldsymbol { \\tau } _ { 4 }$ 分别归因于正态电子偶素（o-Ps）在晶区与非晶区界面处，和在无定形区自由体积的拾取湮没。两个长成分反应了聚合物中自由体积的信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同于 PALS 侧重反映电子偶素的形成，CDB 技术对正电子湮没状态的探测很灵敏,CDB谱的高峰背比 $\\left( { 1 0 } ^ { 6 } { : 1 } \\right)$ 使得对于正电子与原子的核心电子的特征湮没状态的判断成为可能，从而对正电子湮没位置的元素种类进行分析。符合多普勒展宽能谱测试时，两个高纯锗探头面对面共线放置，以同时探测正电子湮没放出的两个0.511MeV的湮没光子。在 $5 1 2 { \\times } 5 1 2$ 的符合矩阵中CDB 谱的总计数达到 $1 . \\boldsymbol { 0 \\times } 1 0 ^ { 7 }$ 以保证良好的统计性。得到的CDB 谱，如图一，沿着 $\\mathrm { E } _ { 1 } + E _ { 2 } \\approx 2 m _ { 0 } c ^ { 2 } - E _ { B }$ （EB为电子结合能)的方向提取符合对角的矩形区域 $\\langle \\boldsymbol { \\nabla } \\mathrm { E } = 2 . 2 \\mathrm { k e V } \\rangle$ 。提取出的能谱再与选取的参比样品的能谱做商谱，商谱可较显著的反应不同化学元素间的差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/99e84da97c51f3ad11ba252255e48f69660911fb570c085af15d71798989a07b.jpg",
+        "img_caption": [
+            "图一典型的CDB 谱 Figure 1 Typical CDB plot "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1正电子湮没寿命谱结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab424a9a6cd079b07a974e888d517ea6bd3d8d0b6c5e5bf46947fb557c8d7176.jpg",
+        "table_caption": [
+            "表1PDMS-MOFs的正电子湮没寿命谱结果",
+            "Table 1 Positron annihilation lifetime results of PDMS-MOFs complex "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样品</td><td>T3(ns)</td><td>13(%)</td><td>T4(ns)</td><td>14(%)</td></tr><tr><td>Virgin PDMS</td><td>1.039±0.040</td><td>12.50±0.53</td><td>3.422±0.026</td><td>29.00±1.10</td></tr><tr><td>PDMS-2%MIL-101</td><td>1.005±0.019</td><td>12. 76±0. 51</td><td>3.392±0.009</td><td>25.29±0.87</td></tr><tr><td>PDMS-4%MIL-101</td><td>1.081±0.078</td><td>11. 14±0. 59</td><td>3.376±0.039</td><td>27.20±1. 30</td></tr><tr><td>PDMS-6%MIL-101</td><td>0.967±0.050</td><td>11.69±0.59</td><td>3.387±0.020</td><td>25.70±1.00</td></tr><tr><td>PDMS-8%MIL-101</td><td>0.932±0.027</td><td>12.89±0.58</td><td>3.375±0.012</td><td>26.30±1.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在聚合物中，正电子湮没寿命谱的长成分t和 $\\tau _ { 4 }$ 反映了聚合物中自由体积的大小。具体到有机无机杂化膜体系， $\\tau _ { 3 }$ 反映的是交联位置处较小的间隙空位，而 $\\overline { { \\tau _ { 4 } } }$ 反映了聚合物基体中较大的自由体积和 MIL-101亚纳米粒子与聚合物基体界面处较大的自由体积。可以看到，整体来说，MOFs的加入，使得交联位置处的空位和聚合物基体的自由体积的尺寸都减小了。表明MOFs进入了自由体积区域。MOFs的加入同时使得I和 $\\mathrm { I } _ { 4 }$ 减小，表明o-Ps的产额降低。导致o-Ps产额降低的可能因素有很多，如自由体积浓度降低，更多的正电子与金属原子发生湮没，使得可能形成o-Ps的正电子减少，以及极性原子如N原子的引入，抑制了o-Ps的形成等。对于杂化膜，因为MIL-101亚纳米粒子的填入导致自由体积浓度变化的可能性不大，我们认为正电子在金属原子和极性原子中的湮没导致了 $\\mathrm { I } _ { 3 }$ 、 $\\mathrm { I } _ { 4 }$ 的减小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2正电子湮没符合多普勒展宽结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CH3 / -si-0+ / CH3 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图二中给出了用于负载金属有机骨架材料的高分子聚二甲基硅氧烷的结构式。由于其主链是由硅原子和氧原子组成的，因此在做CDB 商谱时首先选取单晶硅作为参比样品，如图二（a）所示。可以看出，以单晶硅作为参比样品，无论是基体材料PDMS还是负载 MOFs的复合材料，在动量11附近都显示出一个峰，表明这个峰来源于基体材料。考察PDMS 的分子组成，这个峰可能来自主链的氧或者侧链甲基上的碳原子。图三（a）中给出了单晶二氧化硅的商谱，与PDMS-MOFs的商谱进行比较，可以看出 $\\mathrm { S i O } _ { 2 }$ 的峰无论是峰的形状还是峰的位置都与PDMS-MOFs基本相同。已有研究表明，在 $\\mathrm { S i O } _ { 2 }$ 中，正电子倾向于与氧原子发生湮没，因而主要给出的是氧的信息。据此，可以认为正电子主要在PDMS主链上的氧原子中发生湮没。PDMS基体中加入MOFs后，虽然从整体来看，CDB 商谱的形状发生了较大变化，但来自PDMS 主链氧原子的峰仍然存在。随着 MOFs 含量增大，氧峰越来越弱（PDMS-0.02MOFs出现反常)。这种变化趋势在图三（b）中更加明显的体现出来。与PDMS-MOFs复合材料相比，在基体材料PDMS中，有更多的正电子在氧原子中发生了湮没，氧原子对正电子湮没的影响更大，因此以基体材料PDMS为参比样品时，复合材料在动量11附近呈现谷的形状。随着MOFs含量增加，谷变深，表明MOFs的加入使得正电子在氧原子上的偏向湮没效应减弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正电子进入聚合物样品后，最终将以三种形态发生湮没，p-Ps,e+ 和o-Ps。P-Ps中，正电子和电子自旋方向相反，很容易发生自湮没。P-Ps的自湮没受周围电子环境的影响很小，因而其湮没伽马光子的多普勒展宽反映的是形成p-Ps的热化电子的动能，热化电子的动量很小，主要对多普勒展宽谱的低动量部分有贡献。而o-Ps中正电子和电子自旋方向相同，存活寿命较长（真空中142ns)。在聚合物材料中，o-Ps和自由正电子都与周围材料中的一个电子发生湮没，因而其多普勒展宽反映了材料电子的动量。材料中电子的动量与热化电子的动量相比要高很多，因而主要对多普勒展宽谱的高动量部分有贡献。在金属材料中正电子的湮没状态与聚合物中有很大不同。在金属中，正电子不能与电子形成束缚态。正电子可以与金属原子的价电子或者内壳层电子发生湮没，其中与价电子的湮没主要对多普勒展宽谱的低动量部分有贡献，而与内壳层电子的湮没主要对多普勒展宽谱的高动量部分有贡献。对于聚合物-金属复合材料，正电子可能在聚合物材料中湮没，也可能在金属中发生湮没，因而对其多普勒展宽谱的分析需要同时考虑这两方面。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先考虑正电子在聚合物材料中的湮没。由寿命谱结果可知，随着MOFs 含量的增加，PDMS-MOFs中o-Ps 的产额逐渐降低，p-Ps 的产额也降低（理论上p-Ps 的产额是o-Ps 的三分之一)，因而 p-Ps 对多普勒展宽谱低动量部分的贡献降低，这种效应将使得CDB 商谱低动量部分减小。但实验结果在动量部分的强度是随着MOFs含量的增加而升高的，很显然，正电子在金属原子中的湮没对此作出了重要贡献。对于金属，随着金属原子数目增多，正电子有更大的几率与金属原子的价电子发生湮没，与金属原子价电子的湮没会使CDB商谱的低动量部分强度升高。显然，在PDMS-MOFs中,正电子与金属原子价电子的湮没这种效应更强。表明，MOFs加入后，正电子主要与金属原子发生湮没。因为正电子主要是在自由体积中发生湮没的，CDB 谱反映出正电子与金属原子发生湮没，可以推测MOF加入聚合物后，金属原子主要在自由体积处填充。另外，CDB 谱反映出随着MOF的加入，正电子与氧原子的湮没减少，而与金属原子的湮没增强，表明 MOFs进入自由体积后与PDMS 中的氧原子形成键，遮挡了自由体积周围的部分氧原子。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/68d6519be2457414089fb56c81cd7626c40f2dc40f95b9acf5c9265dbe3dddb7.jpg",
+        "img_caption": [
+            "图三PDMS-MOF复合物的CDB商谱结果。（a）以单晶硅为参比的商谱；（b）以基体 PDMS为参比的商谱结果 Figure 3 The CDB ratio curves of PDMS-MOFs complex. (a) Using single crystal silicon as reference； (b) Using polymer matrix PDMS as reference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们用正电子湮没谱学技术（正电子湮没寿命谱和正电子湮没符合多普勒展宽能谱）从微观尺度上对聚合物-金属有机骨架材料杂化膜（PDMS-MIL101(Cr)聚甲基硅氧烷-MIL101(铬)）的微观结构进行表征，结果表明，随着MOFs 添加量的增大，交联位置处的空位和聚合物基体的自由体积的尺寸都减小了，MOFs进入了聚合物的自由体积。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正电子湮没符合多普勒展宽能谱测量结果表明，无论是基体材料 PDMS 还是填充了金属有机骨架材料MIL-101（Cr）亚纳米粒子的杂化膜样品，它们以单晶硅为参比样品的商谱谱图在动量11处都呈现出氧峰，随着MOFs 添加量的增大，氧峰的强度减弱；商谱低动量部分的强度随 MOFs 添加量增大而增强,表明 MOFs 的加入使得正电子在聚合物基体 PDMS氧原子上的偏向湮没效应减弱，部分正电子与MIL-101（ $\\mathrm { C r } \\mathbf { \\dot { \\Psi } } .$ ）亚纳米粒子中的金属原子发生湮没。表明MOFs进入自由体积后与PDMS中的氧原子形成键，遮挡了自由体积周围的部分氧原子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]彭福兵，反Trade_off效应的有机_无机杂化渗透蒸发膜的研究,天津大学，2005   \n[2]Robeson L M，Polymermembranesforgasseparation， Current Opinionin   \nSolid State and Materials Sci., 1999 (4): 549\\~552   \n[3]Robeson L M， Correlation ofseparation factorversuspermeabilityfor   \npolymeric membranes,J.Membr. Sci.,1991,62:165\\~185   \n[4]FreemanB D，BasisofPermeability/SelectivityTradeoffRelationsin   \nPolymeric Gas Separation membrane,Macromolecules,1999,32:375\\~380   \n[5]Baker R， Futuredirectionsofmembranegas-separation technology， Membr.   \nTechnol.,2001,138:5\\~10   \n[6]宋东升，有机-无机杂化膜的研究进展，天津工业大学中空纤维材料与膜过程教育部重点实验室，2010   \n[7]Ferey G,Mellot D C,Serre C,et al.Achromium terephthalatebased solid with unusuallylarge pore volumes and surface area [J]． Science，2005，309:2040 - 2043.   \n[8] ]Hong DY，Hwang YK，Sere C，et al．Porous chromium terephthalate MIL-1Ol with coordinatively unsaturated sites: surface functionalization，encapsulation， sorption and catalysis   \n[9] Bromberg L,Diao Y, Wu H,et al.Chromium(II) Terephthalate Metal Organic Framework (MIL-101): HF-free Synthesis，Structure,Polyoxometalate Composites,and Catalytic Properties [J].Chem.Mater.,2012,24(9): 16641675.   \n[10] Yu W C, Sung C SP.Macromolecules,1988,21(2) : 365.   \n[11] RoyalJS,Torkelson JM.Macromolecules,1992,25(18) : 4792.   \n[12] Nojima S,Roe RJ,RigbyD.Macromolecules,1990,23(19) : 4305.   \n[13]Raaska T,Niemela S, SundholmF.Macromolecules,1994,27(2O) :5751.   \n[14] Jean YC.Microchem J,1990,42,72.   \n[15] Yu Z, Yashi U,McGerveyJD.JPolym Sci: PartB:Polym Phys,1994,32(15) : 2637.   \n[16] Li Zhen，He Guangwei，Zhao Yuning，Cao Ying,Wu Hong,Li Yifan,Jiang Zhongyi,Journal of Power Sources,2014,262,372-379   \n[17]Liu Guanhua, Zhou Tiantian,Liu wanpeng,Hu Shen,Pan Fusheng,Wu Hong,Jiang Zhongyi,Wang Baoyi, Yang Jing,Cao Xingzhong,Journal of Materials Chemistry A,2014,2,12907-12917   \n[18] Nagai Y,Nonaka T, Hasegawa M，Kobayashi Y, Wang C L, Zheng W, Zhang C，Physical review   \nB,1999,60(17):11863 ",
+        "page_idx": 7
+    }
+]

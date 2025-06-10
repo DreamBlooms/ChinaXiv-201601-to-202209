@@ -1,0 +1,236 @@
+# ChinaXiv许可声明确认及个人承诺
+
+# 1．版权承诺
+
+作为本文的作者提交。  
+虽然不是作者，但确认有进行提交的权限。
+
+# 2.许可声明
+
+在您的文章提交之前，你必须选择一个许可证或声明，给我们相应权利来分发您的文章（更多信息可访问"许可证讨论区"）。
+
+中国科技论文预发布平台非排他性的、不可撤销性的许可来分发本文章（中  
+国科技论文预发布平台所需的最小权限，除非您了解其他许可证的影响，请选择  
+此项。）  
+C Creative Commons Attribution license (CC BY 4.0)Creative Commons Attribution-ShareAlike license (CC BY-SA 4.0)  
+O Creative CommonsAttribution-Noncommercial-ShareAlike license(CC  
+BY-NC-SA 4.0)Creative Commons Public Domain Dedication (CC0 1.0)
+
+# 3.政策声明
+
+1.我接收提交文章一旦被接受，将不能完全被删除。  
+2.我明白中国科技论文预发布平台有权重新分类或拒绝任何提交的权利。  
+3.我愿意我提交的文章将与中国科技论文预发布平台的其他文章自动查重。  
+√我同意“中国科学院科技论文预发布平台论文许可协议"及以上声明。
+
+# 4.诚信承诺
+
+√本人已经完整阅读“ChinaXiv论文提交者、论文评议者基本准则”，郑重承诺将严格遵守国家法律法规及此准则，如有违反，本人承担相应的法律责任，并同意ChinaXiv 的处理办法。
+
+承诺人：刘毅、王君起、郭辛佳签署日期：2020.4.26
+
+# 双系统模型视角下的罪犯自我控制\*
+
+刘毅 王君起 邬辛佳（武汉大学哲学学院，武汉430072）
+
+摘 要：自我控制是个体为了达成具有长远利益的目标而有意识控制自身冲动行为的能力。双系统模型提出自我控制系统包含冲动系统与控制系统，该理论适用于分析罪犯低自我控制的内部结构。罪犯冲动系统中充满极易激活的犯罪相关行为图式，而控制系统却不足以生成抑制冲动行为的策略。未来可基于双系统模型，整合已有研究深入考察罪犯自我控制系统的内部运作机制，以及该模型在罪犯心理矫治中的实际应用，而犯罪易感青少年群体则需要特别关注。
+
+关键词：罪犯；自我控制；双系统模型；冲动系统；控制系统分类号：D917.2
+
+# Self-control of criminals from a dual-systems model
+
+# perspective
+
+LIU Yi WANG Junqi Wu Xinjia（School of Philosophy，Wuhan University，Wuhan 430072， China）
+
+Abstract: Self-control refers to the ability of individuals to consciously control their impulsive behaviors in order to achieve long-term interests. The dual-systems model proposes that the self-control system includes an impulsive system and a reflective system, which can be used to analyze the internal structure of criminals' low self-control. The impulsive system in criminals is thought to predominantly use behavioral schemata related to crime，while their reflective system is too weak to suppress impulsive behaviors. With the impulsive system activated and the reflective system insufficiently activated, the criminals will likely fail to self-control and subsequently commit crime. To investigate the mechanism of the self-control system in criminals, more integration of the existing studies on the basis of the dual-systems model is needed. It is also necessary to explore the application of the dual-systems model in intervention and psychological correction for prisoners. In addition， juveniles who are susceptible to crime require special attention.
+
+Keywords: Criminal; self-control; dual-systems model; impulsive system; reflective system
+
+一直以来，自我控制都是心理学家们十分关注的一个概念。早期的自我控制研究主要是将自我控制作为单独变量，研究其它外部因素对个体自我控制形成和发展的影响。这种外部取向的研究也体现在了罪犯的自我控制研究中，Gottfredson和 Hirschi提出的罪犯自我控制理论则是其中的代表。近二十年来，随着研究的深入，与自我控制相关的心理机制研究出现了一种新的取向，即关注自我控制的一般内部机制，研究其内部成分对个体整体自我控制水平的影响。目前研究已经获得了较大进展，其中力量模型（Strength model）、双系统模型（dual-systems model）和双过程模型（two-stage model）最为引人注目，引发了大量研究。在以上三种理论中，双系统模型主要从信息加工的角度考察自我控制，对自我控制的内部结构进行了较为全面而完善的解释，尤为适合探究罪犯这一特殊人群的自我控制心理机制。然而，尽管双系统模型引发了较多相关研究，但已有研究却较少直接涉及犯罪人群。本文以双系统模型为框架，探讨了罪犯低自我控制的相关心理机制，并思考了今后如何更深入展开研究。
+
+# 1罪犯自我控制的早期理论与研究
+
+在自我的功能中，自我控制体现了个体遵循群体生活要求的能力，是个体管理自身本能与欲望，抑制情绪甚至反社会冲动的能力，而这种能力也是文明生活的要求与标志。上世纪中期以后自我控制成为心理学家关注的重要主题之一，涌现了大量相关研究。这些研究主要采取了外部取向，将自我控制作为单独变量，研究其它因素对个体自我控制形成和发展的影响作用。这一研究倾向对犯罪学领域的影响结果之一，就是Gottfredson 和Hirschi所提出的一般犯罪理论[]。该理论以社会控制为基础，指出低自我控制是反社会行为的重要变量，是所有犯罪行为的普遍原因。同时，该理论还明确指出应将自我控制概念运用于考察犯罪行为，通过结合早期自我控制的研究视角和成果，将自我控制定义为可以使个体避免做出长期成本超过暂时利益的行为的一种趋势。
+
+Gottfredson和Hirschi的一般犯罪理论更关注外显的偏差行为，认为低自我控制包含了一系列预测犯罪的行为特征[。作为重要的犯罪学理论之一，该理论对自我控制的界定在犯罪心理学领域产生了十分深远的影响，引发了大量关注，许多相关研究也都支持了这一理论。其后的许多犯罪心理学研究在测量自我控制时都采纳了这一观点，认为最好的自我控制指标是一些特定的行为表现（如“我会定期存款”），而不是一般性的自我控制过程（如“我是个自律的人”）。
+
+在罪犯自我控制心理机制的早期研究中，一个更值得关注的问题是，这类研究大多只将自我控制作为单纯的个体变量予以测量，并研究外部因素与个体自我控制水平对犯罪行为的交互影响，如社会环境、家庭教育等，缺乏对罪犯自我控制内部结构的更深入探讨，而出于干预与改造罪犯的最终目的，这样是远远不够的，需要进一步探讨罪犯自我控制的内部心理机制[2][3][4]。除此之外，在探讨外部变量对自我控制内部某一具体成分会造成何种影响的基础上，探究各内部成分的变化及其之间的相互作用也有待引起重视，也就是说，要从内部取向来探讨自我控制。
+
+# 2自我控制的双系统模型
+
+# 2.1 自我控制研究的内部转向
+
+上述对自我控制外部取向的质疑与思考在某种程度上体现了心理学研究的发展过程，即从单纯思辨到标准化实验再回到实际情境，从单一角度到多维分析，从笼统整体到探索其内部结构。近二十年来，自我控制研究有了较大进展，出现了一种新的研究取向即内部取向，它代表了自我控制的研究从探讨其外部表现与作用转向了考察内部结构与机制。内部取向的心理学家从不同研究角度对自我控制给出了定义。例如 Tangney，Baumeister 和Boon 将自我控制定义为个体克服或者改变内在反应，以及阻断并且改变不受欢迎的行为趋势（如冲动）的能力[5]。Baumeister，Vohs和Tice认为自我控制是指改变自我反应的一种能力，这种能力使个体符合其理想、价值、道德和社会期望，支持着个体追求长期目标[6]。Duckworth提出自我控制是个体为了达到长期目标而努力控制自我的行为、情感、注意等冲动行为的能力[。与自我控制的早期界定一样，这些新取向下的界定也大都包括了以下两种基本要素：自我控制是个体有意识地去克服其内部的一些自动反应（如冲动）；自我控制的最终目的是为个体带来长期的目标利益[8]。
+
+较之新近取向的自我控制研究，早期自我控制理论的犯罪心理学研究关注于罪犯的外显行为，大多探索了其他外部变量对罪犯低自我控制形成和发展的影响，较少单独研究罪犯低自我控制的内部结构。从内部结构来研究罪犯的低自我控制，可以帮助我们更好地了解罪犯和一般人群在自我控制上的差异。
+
+测量方法上，在早期从外部取向进行的自我控制研究中，主要有两种方法一一自我报告法和行为测量法。然而这些测量方法测量的却并不是同一种结构。有研究者对几种量表进行考察后，发现不同量表的得分存在显著差异，由此提出这几种量表实际上考察了自我控制的不同心理机制。例如Weinberger 量表包含的四个维度是冲动控制、抑制侵犯行为、考虑他人和责任感[10]，Grasmick 量表包括冲动、冒险、简单任务、身体活动、自我中心和脾气六个维度[1]，Tangney量表则包括良好的学业和任务成就、更少的冲动控制问题（包括暴饮暴食和酗酒问题）、更好的心理适应能力、良好的人际关系以及更多的道德情绪（如负罪感）几个维度[5]。而对于行为测量法，有研究者认为这种测量方法内容效度较差[12][13]。另有研究者则认为虽然它避免了自我报告可能出现的社会期许问题，但是它使用了一些同义的预测行为指标，有可能导致效标污染[14][15]。此外，行为测量法可能会受到人体内部自我控制状态的影响，所以再测信度不高[16][17]。
+
+此外，研究者还发现自我报告法和行为测量法的结果之间也并不存在显著相关，也就是说测量的并不是同一种心理结构[18]。原因在于这两类方法包含了不同的自我控制要素，因此自陈报告法和行为测量法之间可能存在交互作用[19][20]。Hofmann，Friese和Strack提出行为测量法评估了那些与抵制诱惑有关的特定行为，代表了自我控制的内隐方面；而自我报告法则反映了个体在各种情况下进行自我控制的一般倾向，代表了自我控制的外显方面，因此他们提出了自我控制的双系统模型[21]。
+
+# 2.2 自我控制双系统模型的基本观点
+
+在自我控制内部取向的各种理论中，双系统模型是发展得较为成熟的代表之一。传统的自我控制研究将自我控制视为一个连续体，高与低的自我控制只是位于该连续体的不同位置。然而随后有研究表明，自我控制的成功和失败具有各自不同的神经基础：前者激活的是大脑中的前额叶-纹状体回路，而后者激活的是前额叶-杏仁核回路[22]。这为认识自我控制提供了一种新思路，即将良好自我控制和低自我控制分别作为自我控制的两种不同构成部分予以理解[23]。正是基于以上二种不同的自我控制神经机制，Hofmann 等人从信息加工的视角提出了自我控制的双系统模型，认为一种完整的自我控制模型应包含两方面：冲动系统和控制系统[21。自我控制的最终结果是二者交互影响的结果，如同这二者进行拔河比赛，最后强的一方将取胜。
+
+该模型认为，一方面，冲动行为产生的主要原因是冲动系统的激活，它们是一些源自于长期经验和学习的自动情感反应和行为联结趋势（associatedbehavioraltendencies），由特定社会情境所激活。这些联想集合（associativeclusters）储存在个体的长时记忆中，当个体在某情境下需要做出决定时，它们便会被特定的环境线索自动激活。这一过程是自动化的，几乎不需要认知资源的参与；另一方面，控制系统的功能则是个体自控能力或意志力强度的主要反映，包括了深思熟虑的评价和抑制标准[24]。这一系统由于需要个体有意识地运用基于符号的表征系统和操作系统，因而相对缓慢。相较于高度资源节约的冲动系统，控制系统更加依赖控制资源，具有更强的主动性[25][26][27]。在控制系统中行为是一系列加工决策过程的结果，而这些行为决策是由大脑运动皮质中相应的行为图式激活而产生的。
+
+Hofmann等认为除了冲动和控制系统以外，自我控制的结果还取决于一些关键调节变量之间交互作用的结果[21]。这些调节变量和自我控制的能力有关，分为状态和特质变量。例如能量模型中的自我控制资源就是一种调节变量[28]。这些调节变量会改变冲动和控制系统对行为结果的影响权重。
+
+来自ERP的研究发现前额叶皮层在自我控制中扮演着重要角色，此外也观测到了血糖的消耗，从而从生理上证明了控制系统的运作需要消耗资源[2。前额叶皮层除了与自我控制的功能有关以外，还有着认知加工的功能，对该过程进行的研究也发现了同样的现象。这是因为，自我控制和认知加工都涉及到同一种机能即执行控制。那么由此引发的问题是：这三种机能在运作时，消耗的资源是同一种吗？如果不是，那么彼此不同的三种资源存在相互作用吗？是如何相互作用的呢？这些问题都有待结合自我控制资源理论的相关研究进一步深入展开。
+
+基于双系统模型，也相应出现了新的自我控制测评工具。例如Dvorak 和Simons 编制的自我控制双系统量表分别测量了冲动系统和控制系统[29]。这种基于自我控制内部机制的测量方法在普通人群中取得了良好的信效度[30][31]，但是目前却较少应用到罪犯这一特殊群体。此外，对于冲动系统的测量，由于其加工是自动发生的，不需要注意资源的参与，因此也有研究者通过内隐联想测验的方式对自我控制进行检测。然而，这些测量方法仍然基于单一范式，对于同时涉及无意识与有意识过程的双系统模型，则需要更加全面的测量方法，例如采用可以分别测量意识性提取和无意识提取过程的加工分离范式。在加工分离范式的第一阶段，首先要求被试记住先后分别呈现的两批信息。在随后的测试阶段中，被试需进行再认测验。测验共有两种条件：在包含测验条件下，要求被试对先后分别呈现的两批信息都做再认判断，因此在包含条件下，意识性提取和无意识提取都有助于任务的完成；而在排除测验条件下，被试仅需对其中一个阶段呈现的信息进行再认判断，即在这种条件下，对另一个阶段信息的记忆会阻碍被试的测验成绩，所以只有意识性提取有助于任务的完成，无意识提取反而会阻碍任务的完成。加工分离范式假设无意识性提取在两种测验条件下将信息判断为曾经学习过的概率是一样的，而无意识提取也是一样，最后通过被试再认为“旧”的概率，可以联立算式计算出意识性提取和无意识提取的数值[32]。以上思路也可以运用到自我控制的测量中，设置两种条件，其中一种有意识控制和无意识冲动会协同完成任务，另一种有意识控制有助于完成任务，无意识冲动会阻碍完成任务，最后通过联立算式分别算出两个系统的强度。
+
+# 3双系统模型视角下的犯罪自我控制
+
+如上所述，双系统模型认为自我控制包含了两种不同的行为决策过程。犯罪心理学中已有大量关于罪犯行为决策的研究，其中有的涉及罪犯冲动行为决策，有的涉及理性决策，但这两类研究均仅着眼于各自关注的视角，不仅各自研究本身较为零散、缺乏内部整合，更缺乏将两类研究进行整合后，从更为宏观统一的视角出发进行的理论探讨。自我控制的双系统模型则提供了一种较为理想的理论框架，可以较好地将这两种视角整合起来，对相关研究重新进行梳理，以更好地解释犯罪行为。此外，有关犯罪时个体状态以及人格特质的相关研究也颇多，但大多也是单独考察它们各自对于犯罪行为的影响。而这些都可以作为状态与特质等调节变量，整合到双系统模型中，从而获得对犯罪行为的更全面了解。
+
+# 3.1罪犯自我控制的冲动系统
+
+根据双系统模型，冲动系统的成分主要是一些自动化的行为图式，包括自动情感反应和行为联想趋势。已有研究表明，以犯罪相关事物作为线索时，罪犯在再认时的确会表现出一定水平的自动性，即其犯罪行为是高度资源节约的[33]。在犯罪群体的内隐认知研究中，许多证据都表明各类罪犯都存在着这种有别于非犯罪群体的自动联想偏向。目前已在犯罪群体中发现的这类冲动系统成分主要包括：注意偏向、认知偏向和与犯罪相关的自动情感联想反应。注意偏向指的是个体在注意上选择性地加工某些刺激34。行为违规个体通常对不良行为相关的刺激具有注意偏向，例如对毒品的注意偏向是吸毒者的一个重要行为标志[35]［36] [37]。暴力犯以及具有反社会人格障碍的罪犯则对攻击相关的刺激具有显著的注意偏向，例如冲动性暴力犯对愤怒表情有注意偏向[38][39]。对于非暴力的性犯罪者，虽然并未发现对于攻击性线索具有这一注意偏向[4，但是有研究通过词汇判断任务，发现性犯罪者也存在自动情感联想反应，例如儿童性犯罪者在“力量"和“性”、“顺从”和“性”之间存在更加显著的内隐联想反应[]。
+
+自动化的行为脚本在某些类型的犯罪行为中产生了尤为明显的作用，例如大多数抢劫行为都是无计划的、瞬间产生的，而入室盗窃和性犯罪也常常缺乏深思熟虑[42][33[43]。Walters 认为这种犯罪特质的认知加工风格，如对犯罪行为的高效能感和犯罪后果的积极预期，经过犯罪个体反复的自我强化，已经成为自动化的、反应性的犯罪认知[44]。这种自动的犯罪认知风格最终导致了个体稳定的犯罪行为[45]。
+
+Nee和Ward认为，正如专家在遇到新环境时也会受原有知识约束而犯错一样，罪犯的“专业”犯罪知识也会影响其行为决策，使其在许多情境中做出犯罪的选择[33]。Bargh，Schwader，Hailey，Dyer 和 Boothby 提出的前意识自动加工（preconscious automatic processes）概念在许多犯罪研究中都得到了证明，这一概念解释了犯罪行为决策中的自动化加工机制[6]。
+
+加工新事物时，个体需要带着自己的目的，有意识地去规划其认知行为，排除干扰因素，主动调动资源去加工处理。但实际上在主动加工之前，前意识自动加工就已经在我们意识到之前发生了，由于它只是个体在进行精细加工之前进行的一项对事物的例行解释和评估，不需要个体付出主观努力去实施，因此也更加迅速、自动。部分罪犯的认知风格也是如此，进入环境后，甚至不需要主动去往犯罪方向思考，就已经对环境中与犯罪有关的特征进行了加工，并调动出与犯罪有关的技能，从而产生了犯罪行为决策。这一过程不仅迅速，而且耗费的资源很少，因此惯犯们大都在做出犯罪决策时根本没有激活控制系统，缺乏对情境进行深思熟虑的评价和制定长期目标的能力。这也与部分罪犯偏好简单任务、爱冒险等低自我控制特征相吻合。
+
+以上这些研究都符合双系统模型中对冲动系统的界定，表明罪犯自我控制的冲动系统中存在着许多犯罪风格的自动认知过程，它们是罪犯冲动系统的主要构成部分，可以纳入双系统模型进行综合考察。而双系统模型作为一个相对完整的理论系统运用于罪犯群体时，可以启发研究者的是，除了已有犯罪研究所涉及的各部分，在罪犯冲动系统中还有哪些内容尚未触及。此外，该系统中各个构成部分彼此间关系又是如何、怎样相互作用、一般人群和犯罪人群冲动系统的区别是什么、其差异的根源与具体机制是什么，这些都有待思考。
+
+# 3.2罪犯自我控制的控制系统
+
+Gottfredson 和Hirschi在定义自我控制时明确提出，自我控制的测量指标是“个体在犯罪行为决策时所考虑到的一切因素”[。其后，有学者指出该定义中的自我控制指的是个体对犯罪情境的思考和评估，换言之，自我控制是在决策过程中起作用的情境变量4。由此可见Gottfredson 和Hirschi的理论在这一点上与Hofmann的双系统模型不谋而合，这种在决策中起作用的自我控制即双系统模型中控制系统的作用，它涉及到高级的认知过程，包含深思熟虑的评价和抑制标准[1]。控制系统的主要功能在于生成抑制行为策略，在行为决策中这些策略可以克服那些由冲动系统产生、与长期目标不一致的行为。
+
+从双系统模型的角度来看，罪犯自我控制失败的原因首先在于冲动系统被激活，而控制系统的激活情况则主要分为两类：一类是罪犯在行为决策时，根本不存在深思熟虑的评价这类认知过程，即在罪犯的决策过程中控制系统完全未被激活，决策结果是由冲动系统所决定的；另一类则是，虽然罪犯在行为决策中的确产生了深思熟虑的评价，但是控制系统对其行为决策却并未产生应有的作用，由于他们对于某些风险情境所做出的认知评估不同于普通人群，从而导致其控制系统虽然被激活，但激活程度不如冲动系统。由此可见，在自我控制的过程中，罪犯的控制系统所产生的作用显得尤为重要。
+
+对于控制系统的激活程度不如冲动系统的情况，有些研究从道德角度进行了解释。有学者认为，道德承诺（moralcommitment）能激发自我约束力，使个体在遵守或违背规则的抉择中，更加倾向于遵守规则的选择，而缺乏道德承诺往往使个体在犯罪情境中的自我控制能力更弱[48][49][50]。类似地，情景行为理论也关注了控制系统和道德的相互作用，该理论将自我控制定义为“当个体自己的行为准则与道德准则相冲突时，个体成功遵守道德准则的能力”[51]。在这一理论框架下，道德水平较高的人即使面临犯罪的环境也不会违反法律，因为他们根本就不会将违法行为视为一个行为选项；而对于道德水平较低的人来说，用控制系统来预测犯罪行为才具有意义[52。也就是说，自我控制会使两类人遵守各自不同的准则。这一理论在知觉选择过程中起作用，个人准则主要在感知过程中起作用，而控制系统只有在随后的选择过程中才会起作用，潜在的罪犯才会开始考虑是否违法[53]。Wang，Wang，Chen 和Li的新近研究还发现，人们在自控资源耗尽后更易出现不道德行为，其中道德认同水平的降低起到了中介作用[54]。由此可见，较低的道德能力如道德承诺和道德认同水平，是罪犯群体在行为决策时，导致其控制系统激活程度不足的原因之一。
+
+Wright和Decker的研究则提示了另一种可能，即尽管罪犯在行为决策时进行了思考，但是他们会认为自己正处于一种紧急状态中，因而在满足欲望的急迫渴望驱使下，他们此时寻求的并非是最大利益而是当前利益，其结果则导致了控制系统的力量弱于冲动系统。
+
+此外，情绪在控制系统的激活中也产生了重要作用。对有组织犯罪的研究表明，如果罪犯由于家庭或其他原因而接受了犯罪组织的帮助，并在情感上对犯罪组织产生归属感和依赖感，那么其认知结构会逐步扭曲，其控制系统在运作时，意识会优先加工与犯罪组织有关的部分，而对于组织外人员的加工则被抑制[55]来自农民工罪犯的研究也表明，城乡之间存在的文化差异和物质差距所催生的隔闵感，以及城市居民将农民工视为“二等公民”的作法，都让在城市建设过程中发挥重大作用的农民工没有得到应有的待遇，致使他们长期处于负面情绪中，自我控制系统也被削弱[56]。对老年人犯罪的研究也证实，由于退休而带来的人际关系网络难以维持、缺乏子女关爱和社会支持，以及精神生活的贫乏，同样会造成老年人长期处于消极心境中，从而导致自我控制系统的削弱[57]。
+
+如前所述，根据双系统模型，控制系统完全未被激活，或是控制系统激活程度不足，最终导致了其自我控制的失败，产生了犯罪行为。而以上研究可纳入双系统模型，将其视为基于罪犯的认知心理机制对该群体控制系统激活失败原因的具体解释。
+
+上述观点认为控制系统起着抑制犯罪行为的作用，只是由于种种原因无法很好地发挥作用，但是还存在一种可能：由于罪犯对于某些情境所做出的认知评估不同于普通人群，所以控制系统对其行为决策却未产生抑制作用，反而促进了犯罪行为的产生。以理性选择理论和威慑理论为代表的观点认为法律制裁会抑制犯罪行为，而犯罪行为是罪犯在一系列行为选择中经过深思熟虑的结果。也就是说罪犯精细计算了感知到犯罪和不犯罪的成本及其带来的利益之后，认为做出犯罪行为会获得更多收益，制定出相应的行为策略。这本质上是一种基于“理性人”基础而产生的选择理论，它意味着个体的选择是基于其知觉到的最大利益[58][59]。有研究将入室盗窃犯罪进一步细分为深思熟虑型和冲动型，发现那些一时冲动准备实施入室盗窃行为的罪犯在被告知犯罪过程有多重阻碍时，更可能会清醒过来并且停止犯罪行为，而深思熟虑型入室盗窃者则会在犯罪行为开始前思考如何克服阻碍，这一结果支持了理性选择理论[6]。研究表明在这种犯罪模式中，理性选择因素对罪犯自我控制具有中介作用[61]。
+
+罪犯和普通人控制系统的认知差异也可以从价值观的角度做出解释。相比于正常人群，罪犯普遍存在反社会人格，他们对社会主流规范和价值存在着认知偏差，会忽视或者漠视主流社会的价值观2。同时有研究发现，无论在男性罪犯或女性罪犯中，价值观和自我控制一样，都能较好地预测个体的犯罪行为[63]。自我控制的偏好转化为价值观的这一过程被称为自我控制的道德化[64]。这一转化过程成功之后，如果自我控制失败就会受到道德上的惩罚5。研究表明，通过诱导那些强调忠于团体成员的价值，可以促进自我控制的道德化，并且促进自我控制的成功6。但是也有研究表明可以通过促进自我控制增加人们的暴力行为。对于那些道德责任感较低的被试，在接受了自我控制训练之后，其服从性暴力行为反而有所增加；而对于那些道德责任感较高的被试，其暴力行为在接受自我控制训练后则会降低[]。该自我控制训练项目的目的在于使参与者坚持远端的道德价值观，如果远端道德价值观可以阻止或鼓励攻击性行为，那么就会对个体的攻击性行为产生相应影响。因此，如果反社会型人格的罪犯有着不同于普通人群的道德感和价值观，那么其自我控制行为可能反而会促进犯罪行为的产生。
+
+罪犯和普通人控制系统的认知差异也可以从价值观的角度做出解释。相比于正常人群，罪犯普遍存在反社会人格，他们对社会主流规范和价值存在着认知偏差，会忽视或者漠视主流社会的价值观[2]。同时有研究发现，无论在男性罪犯或女性罪犯中，价值观和自我控制一样，都能较好地预测个体的犯罪行为[63]。自我控制的偏好转化为价值观的这一过程被称为自我控制的道德化[64]。这一转化过程成功之后，如果自我控制失败就会受到道德上的惩罚[65]。研究表明，通过诱导那些强调忠于团体成员的价值，可以促进自我控制的道德化，并且促进自我控制的成功6。但是也有研究表明可以通过促进自我控制增加人们的暴力行为。对于那些道德责任感较低的被试，在接受了自我控制训练之后，其服从性暴力行为反而有所增加；而对于那些道德责任感较高的被试，其暴力行为在接受自我控制训练后则会降低[7]。该自我控制训练项目的目的在于使参与者坚持远端的道德价值观，如果远端道德价值观可以阻止或鼓励攻击性行为，那么就会对个体的攻击性行为产生相应影响。因此，如果反社会型人格的罪犯有着不同于普通人群的道德感和价值观，那么其自我控制行为可能反而会促进犯罪行为的产生。
+
+依据双系统模型，控制系统涉及到了认知评价过程，对犯罪行为起着抑制作用，只是抑制作用不够强大，最后才产生了犯罪行为。但如上所述，理性选择理论、威慑理论和情景行为理论均表明，罪犯的道德心理机制与普通人并不相同，控制系统并非一定对犯罪行为起着抑制作用。举例来说，部分罪犯确实会进行理性选择，比如白领罪犯，但也存在着通常不会理性制定长期计划的街头罪犯。尽管前者的理性选择水平确实更高，但是依然不足以使其放弃犯罪行为。因此有必要探讨罪犯的认知评价过程与控制机制到底与普通人群存在什么样的区别，两者在什么条件下会互相转化，以及道德认知和价值观在罪犯控制系统中的作用机制。
+
+# 3.3自我控制的状态或特质边界条件
+
+Hofmann 等认为当冲动系统和控制系统发生冲突时，其强度取决于各自系统的激活程度，而状态或特质边界条件可能会通过改变这一激活程度，影响两种系统的相对强弱[21]。其中状态边界条件主要包括自我调节资源、认知能力、酒精消耗，特质边界条件主要包括工作记忆能力和特质自我控制能力8。此处状态边界条件中的认知能力特指在认知负荷不同的情况下个体所拥有的认知能力，而特质边界条件中的工作记忆能力则指个体所特有的对信息进行加工和储存的能力。对普通人群的研究表明，当自我调节资源越少、认知能力越差或是在酒精条件下，加工方式以自动加工为主[68][69]。Ogilvie，Stewart，Chan 和 Shum 的研究表明认知缺陷影响了犯罪行为的发生和维持[70]。其他影响还体现在，尽管个体希望进行自我控制，然而那些注意力较狭窄的个体可能由于受到外部线索特征的影响，最终导致自我控制失败。例如当外部线索是数字时，比起较大的数字，当以较小的数字呈现时，注意力较狭窄的个体则可能由于未观察到该线索，从而没有实施自我控制行为[71]。此外，认知需求水平越高、行为取向越强，自我控制也会更加灵活[72]。工作记忆能力也会影响日常生活中自我控制加工的能力，特质自我控制能力更高的人在完成任务时会有更加优秀的表现[78]。
+
+有研究考察了人格特质对于双系统模型的影响，如研究发现：冲动系统中介了神经质与拖延的关系，由于神经质得分高的个体更加冲动，有着更多不适应的应对反应，更倾向于采用情绪来应对事件，因此主要通过冲动系统产生作用；控制系统则中介了宜人性与拖延的关系，宜人性高的个体通常为了维持良好的人际关系而有着更好的自我控制能力，因此主要通过控制系统发挥作用[74]。而在犯罪方面，虽然从早期到新近的研究不断发现某些特质与犯罪行为有关，例如情绪性水平较高、诚实-谦卑、亲和性和尽责性水平较低的个体更可能产生冲动或犯罪行为[75][76]，但是从双系统模型出发，考察状态和特质边界条件如何对罪犯自我控制产生影响的研究则很少见。
+
+这些研究大部分都是建立在理性罪犯的前提下，然而在现实情境中，当情绪高度唤起时，罪犯往往不能准确全面地衡量其行为后果的利弊，或者说罪犯更关注行为带来的当前利益而忽视了长远利益。比如，有研究显示，愤怒反刍可能在自我控制对攻击性行为的影响中起到了作用[7]。
+
+双系统模型不仅涉及到了状态和特质边界条件，而且从认知角度对它们在自我控制中扮演的角色进行关注，将其纳入自我控制的更宏观体系中，提出状态和特质边界条件调节了控制系统和冲动系统的强弱关系。它们决定了个体采用的是冷模式或者热模式来处理信息，并影响了控制和冲动系统，从而决定个体是否出现犯罪行为。这些进一步表明了双系统模型能够较好地整合已有各种研究，在解
+
+释犯罪行为中的适用性和有效性。
+
+# 4未来研究展望
+
+作为犯罪行为中一个至关重要的变量，许多学者均认为从自我控制入手，对于了解、预防和矫正犯罪行为有着十分积极而重要的作用，而双系统模型为理解罪犯的自我控制机制提供了一种新的视角和框架。双系统模型认为自我控制的最终结果是由冲动系统和控制系统交互作用的结果，采用这一模型，将已有的冲动性研究和自我控制研究结合起来，并基于更高层次自我功能的视角，整合以往的犯罪行为决策和认知加工机制研究，将有助于更加全面地分析和考察罪犯的自我控制机制。具体而言，未来研究可从以下几方面展开。
+
+首先，罪犯的冲动系统与控制系统的具体机制以及二者间的相互作用，可以整合已有研究并进行更深入的探索，丰富和完善双系统模型。
+
+对于冲动系统，需要从多种角度考察情绪的作用。目前研究大多从消极、负面情绪出发，发现冲动系统主要由一些自动化的行为图式构成，而罪犯的冲动性普遍较高。然而新近研究表明积极情绪也会在犯罪行为中产生作用，它们通过控制系统的运作而对自我控制结果产生重要影响。这表明情绪在罪犯行为的作用机制要比原有设想更为复杂。那么如何处理冲动系统与其他各种不同效价情绪间的关系，结合已有研究进一步考察情绪在双系统模型中的作用，丰富与完善双系统模型，是今后需要思考的问题。
+
+对于控制系统，可以将道德和价值观等变量纳入，考察道德以及自我控制对于不同类型犯罪的影响。双系统模型揭示了罪犯认知能力的不足或缺乏正确的认知模式，是导致自我控制失败的深层心理机制。而情景行为理论则考虑到了道德水平的作用，认为只有对于道德水平较低的人，用控制系统来预测犯罪行为才有意义。理性选择理论、威慑理论则认为在衡量了成本和收益后，控制系统反而可能会促进犯罪行为的产生，是罪犯异常的理性评价导致了最终的犯罪行为。以上观点很可能适用于不同犯罪类型，对不同罪犯的解释力度并不相同，例如前者是否更适用于冲动、激情犯罪，而后者更适用于白领群体的预谋犯罪。罪犯异常的道德感和价值观对控制系统的功能造成了什么影响？这些都有待更加细致深入的研究。
+
+尽管冲动系统与控制系统拥有相对独立的运作机制，然而根据双系统模型，自我控制失败是两者相互作用的结果。那么这种相互作用机制具体是什么？与普通人群的区别在哪里？各种类型罪犯特有的状态与特质边界条件，在冲动系统与控制系统的相互作用中又各自起到了何种作用？回答这些问题有益于真正理解犯罪行为背后的复杂心理机制。
+
+其次，目前已有较多基于双系统模型的自我控制干预研究，但是这些研究主要关注普通人群的不健康行为。未来研究可以借鉴这些干预思路，对罪犯其进行更有效的心理矫治，改变和抑制冲动系统并提升控制系统功能，降低其重新犯罪的可能性。
+
+就改变罪犯的冲动系统而言，一种可能的介入路径是切断其已固化的某些自动情绪反应、行为趋势和图式，并逐步建立起新的联结。已有研究识别出罪犯的某些反社会行为图式并对其进行了干预，在具有人格障碍的罪犯身上取得了较好效果[78]。这表明对罪犯的冲动系统进行干预是可能的，而如何将针对其他群体冲动系统的有效干预方法引入罪犯群体，则需要更多尝试。评价性条件反射可以改变个体冲动系统的自动情绪反应，如酗酒者对酒精线索、节食者对不健康零食的自动情绪反应[79][80][81]。学者们也从认知取向出发对不同目标人群进行了干预，例如使用基于网络的认知偏向矫正项目治疗酗酒者[82]，采用改进点探测任务改变个体对药物的注意偏向[83]，以及使用认知偏向修改模型（cognitive biasmodificationparadigms）干预法矫正赌博行为84等。这些方法都为罪犯群体冲动系统的干预提供了可借鉴的工具和思路。
+
+对控制系统的干预应主要着眼于提升罪犯的认知加工水平、发挥控制系统的作用。如前所述，罪犯自我控制失败在很大程度上是由于在做出犯罪行为时，罪犯很少对当前情境进行更深层次的加工，未发挥控制系统的功能，这反映了罪犯认知能力的不足。此外，研究显示来自心理和生理的双重因素会通过前额叶皮质影响自我控制，而自我控制能力降低所引发的暴力行为又转而继续损害控制系统，从而形成恶性循环[85][86]。目前已有的干预措施有认知行为疗法或动机性访谈，前者可以激活前额叶皮质执行功能，后者可以增强控制系统的功能[87][88]。 。此外，以往罪犯认知机制研究中较少涉及的认知能力恢复问题，也值得更多关注。注意力恢复理论认为，进行无规律、自发的或是有规律、常规的日常恢复活动，如观看自然场景、积极投入大自然，甚至只是短暂观看草地开花场景，都会促进认知能力恢复[89]。这类技术相对而言更为简单易行，也较易获得效果。如何结合罪犯实际改造工作，将这些技术和矫治方法操作化，具有重要现实价值和意义。
+
+从资源消耗角度着手，有助于提高罪犯的自我控制能力。资源消耗也可以对控制系统的功能产生影响，作为一种有限的资源，意志力耗尽会导致自我控制失败。控制系统通过抵制诱惑策略和避免诱惑策略来抑制冲动，研究表明自我控制良好者更多使用了不需要消耗意志力的避免诱惑策略，从而降低了自我控制失败的风险，而抵制诱惑策略需要消耗资源[90]。那么针对罪犯这一特殊人群，其自我控制策略、控制资源损耗的特点及运作机制，都值得进一步探究，以便对其进行心理矫治。
+
+从生物机制入手干预与提升罪犯控制系统的功能也是另一条途径。例如Shniderman 和 Solberg[91]提出使用药理学的干预方式，可以促进犯罪个体的神经可塑性和认知能力，从而有效地增强其执行能力。注入某些D2/D3受体拮抗剂与兴奋剂、多巴胺再摄取抑制剂等药物，也会对兴奋剂、阿片类药物和可卡因上瘾者的注意矫正产生作用。另有研究还表明，服刑人员在食用金枪鱼这类含有某种特定脂肪酸的食物三个月后，能够有效减少其对暴力事件的参与[93]。不过这些研究对象均为监狱中统一管理的、具有明显暴力倾向或其他某种不良行为倾向的特殊罪犯，是否适用于一般罪犯则需考量。总而言之，如何将已证实对普通人群或特殊类型罪犯有效的此类各种技术和方法应用于一般罪犯群体、不同罪犯群体之间又有何差别，这些问题都有待研究。
+
+第三，比起单纯使用自我报告法研究冲动系统和控制系统，研究两个系统的前兆因素不仅可以使测量结果更容易观察、预测的更准确，也可以将罪犯自我控制的干预技术聚焦到前兆因素的控制上。前兆因素是指在个体的成长历史中，有些外部刺激因素与特定的情绪反应和行为倾向之间由于不断被强化，从而最终形成的特定的联结集群。因此除了从内部改善自我控制外，还可以从外部着手，不让个体接触到这些外部刺激，也就避免了冲动行为的激活。
+
+第四，除了抑制罪犯的反社会行为，还可以从自我控制角度鼓励与培养其亲社会行为。例如有研究表明在教育性的非暴力游戏中超越其他玩家，不仅会显著增强个体的自尊水平，也会提高个体在现实活动中的社会支持，促进其亲社会行为[94]。值得注意的是，在激励亲社会行为时，要避免个体仅仅是出于印象管理策略而出现亲社会行为，否则可能会在其身份建构完成后，反而认为“我在人前已经表现得足够好了”，从而抵消维持秩序所必需的愧疚感，导致在人们看不见的地方减少了亲社会行为[95。对于罪犯而言，其结果则可能是并未从根本上改变错误认知机制，而仅仅只是犯罪行为的表现方式发生了改变，因此并未真正达到降低其再犯风险的心理矫治目的。
+
+最后，未来还需要特别关注的是对犯罪易感青少年群体自我控制系统的考察和干预。有研究者发现在面对环境中的风险因素时，自我控制能力可以起到很好的保护作用，认为干预措施应侧重于促进早期的自我调节能力，而不是在问题行为已经形成时进行干预[9。处于青少年时期的个体面临着来自生理和心理的双重挑战，一方面如果他们没有与父母、家人和老师进行及时、充分、适当而有效的沟通交流，就容易产生孤独、不被理解等消极情绪，另一方面他们可能从不良同伴中获得认可、支持等积极情绪体验。在不良同伴的影响下，犯罪易感青少年不仅易于出现酗酒、药物滥用等行为，甚至可能滑向更加严重的犯罪道路。那么如何基于双系统模型，考察其冲动系统和控制系统的形成与作用机制，尤其是从不良同伴或犯罪群体中所获得的积极情绪在其中产生的影响，并在其自我控制系统尚未完全固化形成自动情感联结与行为图式前及时给予干预，对于预防青少年犯罪格外重要。
+
+# 参考文献
+
+[1] Gotfredson MR, Hirschi T.AGeneral Theory of Crime [M].Stanford: Stanford University Press, 1990:10-31.   
+[2] Bouffard J, Craig JM, Piquero A R. Comparing Attitudinal and Situational Measures of Self-Control among Felony Offenders ［J]． Criminal Behaviour and Mental Health, 2015, 25(2):112-125.   
+[3] Burt CH, Simons RL, Simons LG.Longitudinal Test of the Effects of Parenting and the Stability of Self-Control: Negative Evidence for the General Theory of Crime [J]. Criminology，2006, 44(2):353-396.   
+[4] Jo Y， Zhang Y. Parenting，Self-Control，and Delinquency:Examining the Applicability of Gottfredson and Hirschi' s General Theory of Crime to South Korean Youth [J].International Journal of Offender Therapy and Comparative Criminology，2006, 58(11):1340-1363.   
+[5] Tangney JP， Baumeister R F， Boon A L. High Self-Control Predicts Good Adjustment，Less Pathology，Better Grades，and Interpersonal Success ［J]． Journal of Personality， 2004, 72 (2) :271-324.   
+[6] Baumeister RF,Vohs KD, Tice DM.The Strength Model of Self-Control[J].Current Directions in Psychological Science，2007，16(6):351-355.   
+[7] Duckworth A L. The Significance of Self-control [J].Proceedings of the National Academy of Sciences of the United States of America，2011，108(7):2639-2640.   
+[8]李琼,黄希庭.自我控制：内涵及其机制与展望[J]．西南大学学报(社会科学版)，2012，38(2):41-52. [9] Jones S. Does Choice of Measure Matter? Assessing the Similarities and Differences among Self-Control Scales [J]. Journal of Criminal Justice，2017，50:78-85.   
+[10] Weinberger D A, Schwartz G E. Distress and Restraint as Superordinate Dimensions of Self-Reported Adjustment:A Typological Perspective ［J]． Journal of Personality，1990, 58 (2) :381-417. [11] Grasmick HG,Tittle CR, Bursik R J, Arneklev B J. Testing the Core Empirical Implications of Gottfredson and Hirschi’s General Theory of Crime [J]. Journal of Research in Crime and Delinquency，1993，30(1) :5-29.   
+[12] Conner B T, Stein JA, Longshore D. Examining Self-Control as a Multidimensional Predictor of Crime and Drug Use in Adolescents with Criminal Histories [J]. Journal of Behavioral Health Services and Research， 2009，36(2) :137-149.   
+[13] Langton L. Low Self-Control and Parole Failure: An Assessment of Risk from a Theoretical Perspective [J]. Journal of Criminal Justice,2007，34(5):469-478.   
+[14] Malouf E T, Schaefer K E， Witt E A, Moore K E, Stuewig J， Tangney，JP. The Brief Self-Control Scale Predicts Jail Inmates’ Recidivism, Substance Dependence,and Post-Release Adjustment [J]. Personality and Social Psychology Bulletin，2014，40(3):334-347.   
+[15] Reynolds JJ, Mccrea S M. Criminal Behavior and Self-Control: Using the Dual Component Theory of Inhibition Regulation to Advance Self-Control and Crime Research ［J]. Current Psychology,2018, 37 (4) :832-841.   
+[16] Allom V, Mullan B. Individual Differences in Executive Function Predict Distinct Eating Behaviours ［J]． Appetite，2014，80:123-130.   
+[17] Allom V, Mullan B, Hagger M. Does Inhibitory Control Training Improve Health Behaviour? A Meta-analysis [J]. Health Psychology Review， 2015,10(2) :168-186.   
+[18] Walters G D. Are Behavioral Measures of Self-Control and the Grasmick Self-Control Scale Measuring the Same Construct? A Meta-analysis ［J]. American Journal of Criminal Justice,2016, 41(2) : 151-167.   
+[19] Allom V, Panetta G, Mullan L A,& Hagger M S. Self-Report and Behavioural Approaches to the Measurement of Self-Control: Are we Assessing the Same Construct? [J]. Personality and Individual Differences，2016,90:137-142.   
+[20] Sharma L， Markon K E, Clark LA. Toward a Theory of Distinct Types of “Impulsive” Behaviors: A Meta-analysis of Self-Report and Behavioral Measures [J]. Psychological Bulletin， 2014, 140(2) :374-408.   
+[21] Hofmann W,Friese M, Strack F. Impulse and Self-Control from a Dual-Systems Perspective [J]. Perspectives on Psychological Science， 2009,4(2) :162-176.   
+[22] Wager T D, Davidson M L, Hughes B L, Lindquist M A,Ochsner K N. Prefrontal-Subcortical Pathways Mediating Successful Emotion Regulation ［J]. Neuron， 2008， 59(6):1037-1050. [23] Wills TA，Ainette MG.， Mendoza D,Gibbons F X, Brody G H. Self-Control， Symptomatology, and Substance Use Precursors:Test of a Theoretical Model in a Comunity Sample of 9-year-old Children [J]． Psychology of Addictive Behaviors， 2007，21(2):205-215.   
+[24] Inzlicht M, Schmeichel B J, Macrae C N. Why Self-Control seems (but may not be） Limited [J]. Trends in Cognitive Sciences，2014，18(3):127-133.   
+[25]何玲，史占彪．基于自我控制资源模型的干预研究［J]．中国心理卫生杂志，2014，29(5):366-371. [26]黎建斌．自我控制资源与认知资源相互影响的机制：整合模型[J]．心理科学进展，2012,   
+21(2) : 235-242.   
+[27] Evans J S，Jonathan S B T. Dual-processing Accounts of Reasoning， Judgment，and Social Cognition [J]． Annual Review of Psychology，2008，59:255-278.   
+[28]于斌，乐国安，刘惠军．自我控制的力量模型[J]．心理科学进展，2013，21(7):1272-1282. Differing Effects of Two Modes of Self-Control ［J]. Personality and Social Psychology Bulletin, 2009，59:572-583.   
+[30]梁虹，王利刚，樊春雷，陶婷，高文斌．青少年自我控制双系统与网络成瘾的关系研究［J]．中国全 科医学，2016，19(9):1076-1080.   
+[31］王利刚，谢东杰，樊春雷，高文斌．自我控制的干预技术研究：基于双系统理论［J]．中国临床心理 学杂志，2014，22(2):377-380.   
+[32] Loaiza V M, Rhodes M G, Camos V， McCabe D P. Using the Process Dissociation Procedure to Estimate Recollection and Familiarity in Working Memory: An Experimental and Individual Differences Investigation [J]． Journal of Cognitive Psychology，2015，27(7):844-854. [33] Nee C, Ward T. Review of Expertise and its General Implications for Correctional Psychology and Criminology ［J]. Aggression and Violent Behavior，2015，20:1-9.   
+[34]喻丰，郭永玉．攻击者的注意偏向与归因偏向及其关系[J]．心理科学进展，2009，17(4):821-828. [35] Cousijn J， Watson P, Koenders L, Vingerhoets WA, Goudriaan AE, Wiers RW. Cannabis Dependence, Cognitive Control and Attentional Bias for Cannabis Words [J]． Addictive Behaviors, 2013, 38(12) :2825-2832.   
+[36] Metrik J，Aston ER, Kahler C W,Rohsenow,D J, Mcgeary JE, Knopik V. S. Mari juana's Acute Effects on Cognitive Bias for Affective and Mari juana Cues ［J]. Experimental and Clinical Psychopharmacology，2015，23(5) :339-350.   
+[37] Stacy A W, Wiers R W. Implicit Cognition and Addiction: A Tool for Explaining Paradoxical Behavior [J]． Experimental and Clinical Psychopharmacology，2010，6:551-575.   
+[38] Domes G, Mense J， Vohs K, Habermeyer E. Offenders with Antisocial Personality Disorder Show Attentional Bias for Violence-related Stimuli [J].Psychiatry Research， 2013，209(2):78-84. [39] Muggleton NG. Attentional Biases to Emotion in Impulsive and Instrumental Violent Ofenders: An Event-Related Potential Study ［J]. Journal of Forensic Psychiatry and Psychology， 2015, 26(2):202-223.   
+[40] Price S, Hanson K R. A Modified Stroop Task with Sexual Offenders:Replication of a Study [J]．Journal of Sexual Aggression， 2007，13(3):203-216.   
+[41] Kanters T, Hornsveld R H J， Nunes K L，Huijding J， Zwets A J，Snowden R J，·vanMarle H J C. Are Child Abusers Sexually Attracted to Submissiveness? Assessment of Sex-Related Cognition with the Implicit Association Test [J]. Sex Abuse，2016,28(5):448-468.   
+[42] Bourke P, Ward T,Rose C. Expertise and Sexual Offending: A Preliminary Empirical Model [J]. Journal of Interpersonal Violence，2012，27(12) :2391-2414.   
+[43] Wright RT, Decker S H. Burglars on the Job: Street Life and Residential Break-ins [M].Boston: Northeastern University Press，1994:21-24.   
+[44] Walters G D. Cognitive Mediation of Crime Continuity:A Causal Mediation Analysis of the Past Crime-Future Crime Relationship [J]. Crime and Delinquency，2015,61(9):1234-1256. [45] Walters G D, Delisi M. Antisocial Cognition and Crime Continuity:Cognitive Mediation of the Past Crime-Future Crime Relationship[J]. Journal of Criminal Justice,2013,41(2):135-140. [46] Bargh JA, Schwader KL,Hailey S E,Dyer R L,Boothby E J. Automaticity in Social-Cognitive Processes [J]． Trends in Cognitive Sciences，2012，16(12):593-605.   
+[47] Piquero A R， Bouffard JA. Something old, Something new: A Preliminary Investigation of Hirschi’s Redefined Self-Control [J]. Justice Quarterly，2007，24(1):1-27. among Older Adults [J]． European Journal of Criminology，2016,13(3):393-409.   
+[49] Silver E, Ulmer JT. Future Selves and Self-Control Motivation ［J]. Deviant Behavior,2012, 33 (9) :699-714.   
+[50] Svensson R. When does Self-Control Matter? The Interaction between Morality and Self-Control in Crime Causation ［J]． European Journal of Criminology，2010,7(5):395-410.   
+[51] Felson M. Breaking Rules: The Social and Situational Dynamics of Young People’s Urban Crime [J]．Journal of Criminal Justice Education，2014， 25(2):254-258.   
+[52] Bruinsma G J N, Pauwels L J R, Weerman F M, Bernasco W. Situational Action Theory: Cross-sectional and Cross-lagged Tests of its Core Propositions ［J]. Canadian Journal of Criminology and Criminal Justice，2015，57(3):363-398.   
+[53] Kroneberg C, Schulz S. Revisiting the Role of Self-Control in Situational Action Theory [J]. European Journal of Criminology，2018，15(1) :56-76.   
+[54] Wang Y,Wang G, Chen Q,Li L. Depletion, Moral Identity，and Unethical Behavior:Why People Behave Unethically after Self-Control Exertion [J]. Consciousness and Cognition， 2017, 56:188-198.   
+[55]陶云飞．浅议有组织犯罪文化演变[J]．牡丹江大学学报，2017，25(4):91-93.   
+[56]陈怡，王志新．新生代农民工犯罪的文化冲突解决机制[J]．法制与社会，2013，20:213-214. [57］李洁．老年犯罪的文化社会学分析［J]．求索，2013，3:172-175.   
+[58] Lanier M, Henry S. Essential Criminology [M]． Boulder:Westview Press，2004:27-41. [59] Loughran TA, Paternoster R, Chalfin A,Wilson T. Can Rational Choice be Considered a General Theory of Crime?Evidence from Individual-level Panel Data ［J].Criminology，2016,54(1):86-112. [60] Sanders A N, Kuhns J B, Blevins K R. Exploring and Understanding Differences between Deliberate and Impulsive Male and Female Burglars ［J]. Crime and Delinquency， 2016,   
+63(12) :1547-1571.   
+[61] Gelder JL V,Vries RE D. Traits and States: Integrating Personality and Affect into a Model of Criminal Decision Making ［J]． Criminology，2012，50(3):637-671.   
+[62]杜少臣，许大营．服刑人员价值观和道德意识的形成机制探析[J]．净月学刊，2014，(6):112-115. [63] Ivert A,AnderssonF, Svensson R,Pauwels LJR, Levander MT. An Examination of the Interaction between Morality and Self-Control in Offending:A study of Differences between Girls and Boys [J]．Criminal Behaviour and Mental Health，2018，28(3):282-294.   
+[64] Rozin P. The Process of Moralization ［J]． Psychological Science，1999,10(3):218-221. [65] Skitka L J， Hanson B E，Wisneski D C. Utopian Hopes or Dystopian Fears? Exploring the Motivational underpinnings of Moralized Political Engagement ［J]. Personality and Social Psychology Bulletin，2017，43(2):177-190.   
+[66] Mooi jman M, Meindl P, Oyserman D, Monterosso J, Dehghani M, Doris JM,Graham J. Resisting Temptation for the Good of the Group:Binding Moral Values and the Moralization of Self-Control [J]．Journal of Personality and Social Psychology，2018，115(3):585-599.   
+[67] Denson TF，Wilkowski B M, DeWall C N, Friese M, Hofmann W, Ferguson E L，… Kasumovic M M.“Thou Shalt Kill”: Practicing Self-Control Supports Adherence to Personal Values when Asked to Aggress [J]． Journal of Experimental Social Psychology， 2017，69:71-78.   
+[68] Hofmann W,Friese M. Impulses Got the Better of me: Alcohol Moderates the Influence of Implicit Attitudes toward Food Cues on Eating Behavior [J]. Journal of Experimental Social Psychology, 2008，117(2) :420-427.
+
+LUJ」UStaIIIDD， Ma IUIe HlIIg WItIUut IIIInIIg·AII IPli ICUIIU Motivation Predicts Failure to Control Alcohol Use ［J]. Behaviour Research and Therapy， 2008, 46(11) :1210-1219. [70] Ogilvie J M, Stewart A L, Chan R. C K, Shum D H K. Neuropsychological Measures of Executive Function and Antisocial Behavior: A meta-analysis [J]. Criminology， 2011，49(4):1063-1108. [71] Wilcox K, Prokopec S. Restraint that Blinds: Attention Narrowing and Consumers’ Response to Numerosity in Self-Control Decisions [J]. Journal of Consumer Research， 2019,46(2):371-387. [72] Grass J， Krieger F，Paulus P,Greiff S, Strobel A, Strobel A. Thinking in Action: Need for Cognition Predicts Self-Control together with Action Orientation［J]. PLoS ONE,2019,14(8):1-20. [73] Barrett L F, Tugade M M, Engle R W. Individual Differences in Working Memory Capacity and Dual-Process Theories of the Mind [J]． Psychological Bulletin，2004，130(4):553-573. [74]张静怡，崔雪英，陶婷，王利刚，高文斌．青年人人格、自我控制双系统与拖延的关系[J]．中国心 理卫生杂志，2019，33(3):223-237. [75] Churchill DA. Crime Control and Everyday Life in the Victorian City:The Police and the Public [M]. Oxford:Oxford University Press，2018:21-30. [76] Cohen L E, Felson M. Social Change and Crime Rate Trends: A Routine Activity Approach [J]. American Sociological Review，1979，44(4):588-608. [77] Li JB,Dou K, Situ Q M, Salcuni S， Wang Y J，Friese M. Anger Rumination Partly Accounts for the Association between Trait Self-Control and Aggression ［J]. Journal of Research in Personality，2019，81:207-223. [78] Keulen-de Vos M, Bernstein D P， Arntz A. Schema therapy for aggressive offenders with personality disorders[M]. Forensic CBT:A Handbook for Clinical Practice. Oxford: Wiley-Blackwell， 2014:66-83. [79] Haynes A， Kemps E, Moffitt R. The Moderating Role of State Inhibitory Control in the Effect of Evaluative Conditioning on Temptation and Unhealthy Snacking ［J]. Physiology and Behavior, 2015，152(PtA):135-142. [80] Houben K, Schoenmakers T M, Wiers R W. I didn't feel like Drinking but I don’t know why: The Effects of Evaluative Conditioning on Alcohol-related Attitudes,Craving and Behavior [J]. Addictive Behaviors，2010，35(12):135-142. [81] Kakoschke N, Kemps E, Tiggemann M. Combined Effects of Cognitive Bias for Food Cues and Poor Inhibitory Control on Unhealthy Food Intake [J]. Appetite，2015,87:358-364. [82] Wiers R W， Houben K,Fadardi J S, Beek P V, Rhemtulla M, Cox W M. Alcohol Cognitive Bias Modification Training for Problem Drinkers over the Web[J].Addictive Behaviors,2015,40:21-26. [83] Harrison N R, McCann A. The Effect of Colour and Size on Attentional Bias to Alcohol-related Pictures [J].Psicologica: International Journal of Methodology and Experimental Psychology,2014, 35(1) :39-48. [84] Boffo M,Willemen R，Pronk T，Wiers R W， Dom G. Effectiveness of Two Web-based Cognitive Bias Modification Interventions Targeting Approach and Attentional Bias in Gambling Problems: Study Protocol for a Pilot Randomised Controlled Trial [J]． Trials，2017，18(1) :1-13. [85] Crews FT,Boettiger CA. Impulsivity,Frontal Lobes and Risk for Addiction [J].Pharmacology, Biochemistry and Behavior，2009，93(3) :237-247. [86] King K, Lengua L， Monahan K. Individual Differences in the Development of Self-Regulation during Pre-adolescence:Connections to Context and Adjustment [J]． Journal of Abnormal Child Psychology，2013，41(1) :57-69.
+
+[87] Hofmann S,Asnaani A, Vonk I,Sawyer A,Fang A. The Efficacy of Cognitive Behavioral Therapy: A Review of meta-analyses [J]. Cognitive Therapy and Research，2012，36(5):427-440.   
+[88] Magill M, Gaume J，Apodaca T R， Walthers J， Mastroleo N R，Borsari B, Longabaugh R. The Technical Hypothesis of Motivational Interviewing:A meta-analysis of MI's Key Causal Model [J]. Journal of Consulting and Clinical Psychology，2014，82(6) :973-983.   
+[89] Lee K E,Williams K JH, Sargent L D,Williams NSG,Johnson KA. 40-second Green Roof Views SustainAttention:The Role of micro-breaks in Attention Restoration[J].Journalof Environmental Psychology，2015，42:182-189.   
+[90] Ent MR, Baumeister RF, Tice D M. Trait Self-Control and the Avoidance of Temptation [J]. Personality and Individual Differences， 2015,74:12-15.   
+[91] Shniderman A， Solberg L. Cosmetic Psychopharmacology for Prisoners:Reducing Crime and Recidivism through Cognitive Intervention [J]. Neuroethics，2015,8(3):315-326.   
+[92] Lui jten M, Field M, Franken I H. Pharmacological Interventions to Modulate Attentional Bias in Addiction [J]. CNS Spectrums:The International Journal of Neuropsychiatric Medicine,2014, 19 (3) :239-246.   
+[93] Zaalberg A,Nijman H, Bulten E,Stroosma L,van der Staak C.Effects of Nutritional Supplements on Aggression， Rule-Breaking，and Psychopathology among Young Adult Prisoners ［J]. Aggressive Behavior，2010，36(2):117-126.   
+[94] Ingram J，Cangemi J. Video Games:Motivation，Effects，and Clinical Implications on Self-Esteem [J].College Student Journal，2019,53(1):1-12.   
+[95］王财玉，郑晓旭，余秋婷，雷雳．绿色消费的困境：身份建构抑或环境关心[J]．心理科学进展， 2019，27(8):1507-1520.   
+[96] Sohn B， Buchanan A，Heo K H, Lee J J. Explanatory Effects of Young Childhood Caregiving Environment,Child’s Pro-social Behavior,and Child Self-Regulation Skills on Adolescent Problem Behavior [J]．Children and Youth Services Review，2019,100(1) :298-303.
+
+# 作者贡献声明：
+
+刘毅：提出综述命题以及主要观点；  
+王君起：论文修订，并对观点进行扩充；  
+邬辛佳：论文起草。

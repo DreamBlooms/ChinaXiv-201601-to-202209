@@ -1,0 +1,320 @@
+饲料不同糖脂比对鲤鱼生长、体成分及消化酶活性的影响
+
+2 曲　木」李长娥² 刘宏超」张宝龙程镇燕」孙金辉」白东清」乔秀亭1\*  
+3 （1.天津农学院水产学院，天津市水产生态及养殖重点试验室，天津 300384；2.天津市武清  
+4 区畜牧水产业发展服务中心，天津 301770；3.天津市晨辉饲料有限公司，天津 301800）  
+5 摘要：本试验旨在研究饲料不同糖脂比对鲤鱼生长、体成分及消化酶活性的影响。选取平  
+6 均体重为 （ $4 4 . 4 5 \pm 1 . 6 0 \$ ）g的鲤鱼1050尾，随机分成5组（每组3个重复，每个重复70  
+7 尾），分别饲喂糖脂比为5.2、6.8、9.6、15.0、27.7的饲料，进行为期 $6 3 \mathrm { d }$ 的摄食生长试验。  
+8 结果表明：1）摄食糖脂比为6.8 的饲料的鲤鱼增重率和特定生长率最高，显著高于其他各  
+9 组（ $( P { < } 0 . 0 5 )$ ）。饲料糖脂比为27.7时饲料系数显著高于饲料糖脂比为5.2\~15.0时（ $( P { < } 0 . 0 5 )$ ，  
+10 且饲料系数以糖脂比为6.8时最低。糖脂比为 27.7 的组的蛋白质效率显著低于其他各组  
+11 （ $. P { < } 0 . 0 5$ ），但其肥满度显著高于糖脂比为6.8的组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。2）全鱼和背肌粗脂肪含  
+12 量均以糖脂比为5.2及27.7的组较高，显著高于其他组（ $\scriptstyle \cdot < 0 . 0 5 )$ ）；背肌粗灰分含量除糖脂  
+13 比为15.0的组显著低于糖脂比为5.2的组( $_ { , P < 0 . 0 5 ) }$ 外，其他各组间差异并不显著( $( P { > } 0 . 0 5 )$ 。  
+14 3）血清总胆固醇含量随饲料糖脂比的升高而呈先下降后上升趋势，并在糖脂比为15.0时达  
+15 到最低值，且显著低于糖脂比为5.2、27.7时（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ），而血清甘油三酯含量则在糖脂比  
+16 为6.8的组有最高值，且显著高于其他各组（ ${ \cdot } P { < } 0 . 0 5$ ）。血清葡萄糖含量在糖脂比为27.7的  
+17 组有最高值，且显著高于其他各组（ $_ { . } { \cdot } { \cdot } { \cdot } { 0 . 0 5 }$ ）。肝糖原含量在糖脂比为27.7的组有最高值，  
+18 且显著高于除糖脂比为15.0的组外的其他各组（ $P { < } 0 . 0 5$ ）。4）肝胰脏、中肠蛋白酶活性在  
+19 糖脂比为6.8的组达到最高值，且显著高于其他组（ $\scriptstyle \cdot { P < 0 . 0 5 }$ ）；在糖脂比15.0时，前肠蛋白  
+20 酶活性较其他组显著降低 （ $P { < } 0 . 0 5$ ）。肝胰脏、前肠淀粉酶活性均以糖脂比为15.0的组为  
+21 最高；中肠淀粉酶活性随饲料糖脂比的升高有下降趋势，糖脂比为 27.2的组显著低于其他  
+22 各组（ $P { < } 0 . 0 5 \$ ）；而后肠淀粉酶活性以糖脂比为15.0的组为最低，显著低于除糖脂比为9.6  
+23 的组外的其他各组（ $. P { < } 0 . 0 5 )$ ）。各组织脂肪酶活性变化趋势相似，均随饲料糖脂比的升高而  
+24 呈先上升后下降趋势，最高值均出现在饲料糖脂比为15.0时。综合考虑生长、体成分、血  
+25 清生化指标、消化酶活性，鲤鱼饲料中适宜的糖脂比为 $6 . 8 { \sim } 1 5 . 0 \$ 。  
+26 关键词：鲤鱼；糖脂比；生长性能；体成分；消化酶活性
+
+中图分类号：S963文献标识码：A文章编号：随着集约化养殖的发展，鱼粉价格的飙升，对饲料中蛋白质的替代和节约作用的研究
+
+29 一直在持续进行。饲料中适宜的糖或脂肪水平可起到节约蛋白质的作用，孙金辉等[研究表  
+30 明，饲料中玉米淀粉添加水平为 $0 { \sim } 1 3 \%$ ，蛋白质水平在 $2 8 . 1 \% \sim 3 2 \%$ 时鲤鱼的生长效果最好；  
+31 郭立等[2]研究表明，当鲤鱼饲料蛋白质水平由 $32 \%$ 降至 $30 \%$ ，而糊精水平由0升至 $4 . 5 \%$ 左  
+32 右时，不仅不会影响其生长，还会提高其代谢酶活性；Fan等[3研究表明，饲料粗蛋白质水  
+33 平为 $2 9 . 2 \%$ 、粗脂肪水平为 $7 . 6 \%$ 时，鲤鱼生长效果最好。王丽娜等[4]研究发现，当饲料糖脂  
+34 比适中时，黄颡鱼（Pelteobagrus fulvidraco）幼鱼生长性能最好。然而，当糖、脂肪和蛋白  
+35 质的比例不适时则会导致鱼类生长缓慢[5]。研究发现，长吻鮠（Leiocassis Longirostris）饲  
+36 料中糖脂比过高时，鱼体形态发生变化，肝脏组织发生病变[6；Ali 等[7]用糖脂比为0.74\~3.42  
+37 的饲料饲喂尖齿胡子鲇（Clarias gariepinus），发现当饲料糖脂比为0.74时，其增重及饲料  
+38 蛋白质效率均显著低于其他组，而当糖脂比由1.66 增加到3.42时，其增重则无显著提高。此外，饲料中糖的添加量过多会导致鱼类血糖水平过高、产生脂肪肝等，进而影响鱼体健康[8]，而脂类添加量的过多也对鱼类的生长造成不利，同时影响其风味[9]。由此可见，饲料中糖、脂肪和蛋白质的比例适宜可促进鱼类生长，并且保证其机体健康，并且适宜的糖脂比对鱼类的生长、健康、肉品质等都非常重要，探讨鱼类饲料中适宜的糖脂比对养殖业的发展有指导性意义。
+
+鲤鱼，原产亚洲，后引入欧洲、北美洲以及其他地区，属杂食性。在我国北方地区养殖较多，由于其生长快、肉质鲜美而受到广泛关注。目前有关鲤鱼低蛋白质饲料中适宜的糖脂比的研究还未见报道，本试验通过研究不同饲料糖脂比对鲤鱼生长、体成分、血液指标及消化酶活性的影响，以筛选适宜鲤鱼生长的饲料糖脂比，为提高鲤鱼生长、降低饲料成本提供参考。
+
+1材料与方法
+
+# 1.1 试验鱼及饲养管理
+
+试验采用天津市换新水产良种场同一批繁殖的鲤鱼鱼种，养殖试验在天津市宁河县天祥水产养殖公司进行。对鱼体进行消毒处理后，以泡沫浮板搭在大面积混养池塘上构建暂养池，通过拉网形式将暂养池分为15个小沉性网箱（ $\mathrm { 1 } \mathrm { m } { \times } 1 \mathrm { m } { \times } 2 \mathrm { m }$ ）。试验鱼以基础饲料（蛋白质水平为 $32 \%$ ）驯化 $1 4 \mathrm { ~ d ~ }$ ，待其适应环境后，选取平均体长（ $1 2 . 3 1 { \pm } 0 . 2 \$ ）cm、平均体重（ $4 4 . 4 5 { \pm } 1 . 6 \rangle$ ）g、体质健壮的鲤鱼1050尾，随机分为5组，每组设3个重复，每个重复70尾鱼。养殖期间，水温（ $2 8 { \pm } 3 . 1$ ） $\mathrm { { } ^ { \circ } C }$ ， $\mathrm { p H } 7 . 8 { \pm } 0 . 2 \$ ，溶解氧浓度大于 $5 . 0 \mathrm { m g / L }$ ，日投喂率为体重的 $3 \% { \sim } 6 \%$ ，每日投喂2次（09：00和15：00），试验期 $6 3 \mathrm { d }$ 。
+
+# 1.2 试验饲料配制
+
+试验饲料以鱼粉、豆粕、花生粕和棉籽粕作为蛋白质源，糊精作为糖源，豆油作为脂肪源，配制蛋白质水平（约为 $30 \%$ ）相同而糖脂比分别为5.2、6.8、9.6、15.0和27.7的5种试验饲料。各饲料原料均通过粉碎机粉碎，全部过40目分析筛，混合均匀后，使用天祥水产有限公司提供的江苏牧羊集团牧羊MUZLMV4型饲料制粒机制成直径为 $2 . 0 0 \ \mathrm { m m }$ 的沉性颗粒饲
+
+63 料，常温下晾干，用塑料袋密封包装，置于 $- 2 0 { } ^ { \circ } \mathrm { C } .$ 冰箱中备用。使用前测定营养成分。试验  
+64 饲料组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平（风干基础）  
+Table 1Composition and nutrient levels of experimental diets (air-dry   
+
+<html><body><table><tr><td colspan="2"></td><td colspan="4">basis) %</td></tr><tr><td>项目Items</td><td colspan="5">糖脂比 Carbohydrate-to-lipid ratio</td></tr><tr><td>原料Ingredients</td><td>5.2</td><td>6.8</td><td>9.6</td><td>15.0</td><td>27.7</td></tr><tr><td>鱼粉 Fish meal</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td>豆粕 Soybean meal</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td><td>13.0</td></tr><tr><td>花生粕Peanut meal</td><td>14.0</td><td>14.0</td><td>14.0</td><td>14.0</td><td>14.0</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td><td>10.0</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td></tr><tr><td>干全酒糟及其可溶物 DDGS</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td><td>2.0</td></tr><tr><td>豆油 Soybean oil</td><td>5.2</td><td>3.9</td><td>2.6</td><td>1.3</td><td></td></tr><tr><td>预混料 Premix1)</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>麦饭石 Medicinal stone</td><td>6.8</td><td>5.1</td><td>3.4</td><td>1.7</td><td></td></tr><tr><td>面粉 Wheat flour</td><td>9.0</td><td>9.0</td><td>9.0</td><td>9.0</td><td>9.0</td></tr><tr><td>次粉 Wheat middlings</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td></tr><tr><td>麸皮 Wheat bran</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td><td>12.0</td></tr><tr><td>糊精 Dextrin</td><td></td><td>3.0</td><td>6.0</td><td>9.0</td><td>12.0</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>30.4</td><td>30.3</td><td>30.0</td><td>30.6</td><td>29.8</td></tr><tr><td>粗脂肪 Crude lipid</td><td>7.2</td><td>6.5</td><td>5.0</td><td>3.3</td><td>1.9</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>16.5</td><td>17.3</td><td>17.3</td><td>17.0</td><td>17.0</td></tr><tr><td>总糖Total carbohydrate</td><td>37.8</td><td>44.0</td><td>48.0</td><td>49.4</td><td>53.4</td></tr><tr><td>糖脂比</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Carbohydrate-to-lipid ratio</td><td>5.2</td><td>6.8</td><td>9.6</td><td>15.0</td><td>27.7</td></tr></table></body></html>
+
+1)预混料为每千克饲料提供 The premix provides the following per $\mathrm { k g }$ of diets: Cu (as copper sulfate) 3.50 mg，Fe (as ferrous sulfate) $1 4 0 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $1 5 \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $4 0 \ \mathrm { m g }$ , I (as potassium iodide) $0 . 5 0 \mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 0 \mathrm { m g }$ ， $\mathrm { C o } 0 . 2 5 \ : \mathrm { m g }$ ， $\mathrm { M g \ 1 0 0 \ m g }$ ， $\mathrm { N a ~ 1 0 0 ~ m g }$ ， $\mathrm { V A } 6 0 0 0 \mathrm { I U }$ ， $\nabla { \mathsf { D } } _ { 3 } 2$ （204 （204号 $0 0 0 \mathrm { I U }$ ， $\mathrm { V B } _ { 1 } 9 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 9 \mathrm { m g }$ ， $\mathrm { V B } { 5 } 4 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 7 . 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ， $\mathrm { v c } 9 0 \mathrm { m g }$ ，VE $6 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 0 \mathrm { m g }$ ， 烟酸 nicotinamide $4 5 ~ \mathrm { m g }$ ，泛酸 pantothenate $3 0 ~ \mathrm { m g }$ ，叶酸 folic acid $3 \mathrm { m g }$ ，肌醇inositol $8 0 ~ \mathrm { m g }$ ，胆碱choline $2 0 0 0 \mathrm { m g }$ 。
+
+2)总能为计算值，其余为实测值。ME is acalculated value and others are measured values.
+
+# 1.3 样品采集与处理
+
+养殖试验结束后，禁食 $^ { 4 8 \mathrm { ~ h ~ } }$ ，每箱取20尾鱼，测量其体长、体重；鱼体用MS-222麻醉后，在臀鳍的侧线偏下位置进针插入尾静脉取血,3尾鱼的血液混合为1个样品，放入 $2 { \mathrm { m L } }$ 离心管中， $- 4 \mathrm { ~ \ ' ~ C ~ } 4 5 0 0 \mathrm { r / m i n }$ 离心，冰上静置，取上清为血清样品；采血之后取其肝胰脏、前肠、中肠、后肠，以上样本均置于 ${ } ^ { - 8 0 } \ { } ^ { \circ } { \mathrm { C } } .$ 冰箱内保存待测。指标测定前，按组织（g）：生理盐水 ${ \bf \tau } _ { \mathrm { m L } } ) _ { \bf \tau } = 1 { \bf : 9 }$ 的比例进行匀浆，之后 $4 0 0 0 \mathrm { r / m i n }$ 离心，取上清待测（脂肪酶用 $20 \%$ 匀浆液测定，其他按试剂盒要求稀释）。血清待融化后直接测定。
+
+# 1.4 指标测定
+
+1.4.1生长及形体指标的计算
+
+增重率 $( \mathrm { W G R } , \mathcal { \% } ) { = } 1 0 0 { \times } ( W _ { \mathrm { t } } { - } W _ { 0 } ) / W _ { 0 }$ 特定生长率 $\scriptstyle ( \mathrm { S G R } , \mathcal { \% A } ) = 1 0 0 \times ( \ln W _ { \mathrm { t } } - \ln W _ { 0 } ) / t ;$ 饲料系数 $\scriptstyle \left( \mathrm { F C R } \right) = F / ( W _ { \mathrm { t } } - W _ { 0 } )$ 蛋白质效率 $( \mathrm { P E R } ) { = } ( W _ { \mathrm { t } } { - } W _ { 0 } ) / ( F { \times } C P )$ 肥满度 $( \mathrm { C F } , \% ) { = } 1 0 0 { \times } W _ { \mathrm { t } } / L _ { \mathrm { t } } ^ { 3 }$ 肝体指数 $( \mathrm { H S I } , \% ) { = } 1 0 0 { \times } W _ { \mathrm { g } } / W _ { \mathrm { t } } ;$ 存活率 $( \mathrm { S R } , \mathcal { \% } ) { = } 1 0 0 { \times } N _ { \mathrm { t } } / N _ { 0 . }$ 式中： $W _ { \mathrm { t } }$ 为终末体重 $\mathbf { \tau } ( \mathbf { g } )$ ; $W _ { 0 }$ 为初始体重 $( \mathbf { g } )$ ; $L _ { \mathrm { t } }$ 为终末体长（cm）； $t$ 为试验天数（d）；F为饲料摄入量干重 $\mathbf { \tau } ( \mathbf { g } )$ ； $W _ { \mathrm { g } }$ 为肝胰脏重 $\mathbf { \tau } ( \mathbf { g } )$ ； $C P$ 为饲料粗蛋白质含量； $N _ { \mathrm { t } }$ 为终末存活尾数;$N _ { 0 }$ 为初始放养尾数。
+
+# 1.4.2 体成分的测定
+
+试验饲料、背肌及全鱼营养成分均参照AOAC（1976）[10]的方法进行测定，具体方法如下：水分含量采用 $1 0 5 \mathrm { ~ \textdegree ~ }$ 恒温恒压烘干法测定；粗灰分含量采用 $5 5 0 \mathrm { ~ \textdegree C }$ 高温灼烧法测定；粗脂肪含量采用索氏抽提法测定；粗蛋白质含量采用杜马斯灼烧法测定；总糖含量采用3.5-二硝基水杨酸法测定。
+
+# 1.4.3 血清生化指标及组织消化酶活性的测定
+
+血清总胆固醇、甘油三酯、葡萄糖含量，肝糖原含量及组织脂肪酶、淀粉酶活性均用南京建成生物研究所生产的相关试剂盒测定，组织蛋白酶活性采用福林-酚法测定。
+
+# 1.5 数据处理与统计分析
+
+所有数据均以平均值±标准差（mean±SD）表示，并用 Excel 2003及 SPSS17.0 进行分析处理。利用Excel软件制作各指标的标准曲线，并利用标准曲线计算得出各样品中对应指标的活性或含量。利用 SPSS17.0软件进行单因素方差分析，若差异达到显著水平( $( P { < } 0 . 0 5 )$ ，则进行Duncan 氏多重比较检验。
+
+2结果与分析
+
+2.1饲料不同糖脂比对鲤鱼生长指标的影响
+
+如表2所示，鱼体的增重率和特定生长率随饲料糖脂比的升高呈先上升后下降趋势，在糖脂比为6.8时达到最高，并且显著高于其他各组（ $_ { , P < 0 . 0 5 ) }$ ）；在投喂糖脂比为5.2\~15.0的饲料时，饲料系数没有显著差异 $( P { > } 0 . 0 5 )$ ），但均显著低于投喂糖脂比为27.7的饲料（ $( P { < } 0 . 0 5 )$ ；随饲料糖脂比的升高，饲料蛋白质效率先上升后降低，除糖脂比为27.7的组显著低于其他各组（ $P { < } 0 . 0 5$ ）外，其余各组间差异并不显著（ $P { > } 0 . 0 5$ ）。饲料糖脂比对存活率无显著影响（ $. P { > } 0 . 0 5 \$ ）。
+
+Table 2Effects of different dietary carbohydrate-to-lipid ratios on growth indices of common   
+
+<html><body><table><tr><td colspan="6">carp</td></tr><tr><td>糖脂比</td><td>增重率</td><td>特定生长率 SGR/(%/d)</td><td>饲料系数</td><td>蛋白质效率</td><td>存活率</td></tr><tr><td>Carbohydrate -to-lipid ratio</td><td>WGR/%</td><td></td><td>FCR</td><td>PER</td><td>SR/%</td></tr><tr><td>5.2</td><td>201.36±1.11c</td><td>1.81±0.06c</td><td>2.00±0.07b</td><td>1.81±0.11ab</td><td>95.22±0.97</td></tr><tr><td>6.8</td><td>214.83±2.35a</td><td>1.88±0.07a</td><td>1.94±0.05b</td><td>1.93±0.09a</td><td>94.98±0.85</td></tr><tr><td>9.6</td><td></td><td></td><td>1.93±0.07b</td><td></td><td></td></tr><tr><td></td><td>202.17±1.13c</td><td>1.81±0.03c</td><td></td><td>1.94±0.14a</td><td>95.36±0.67</td></tr><tr><td>15.0</td><td>208.10±0.90b</td><td>1.84±0.03b</td><td>1.87±0.05b</td><td>1.99±0.08a</td><td>96.09±1.05</td></tr><tr><td>27.7</td><td>173.65±3.68d</td><td>1.65±0.13d</td><td>2.27±0.07a</td><td>1.66±0.08b</td><td>95.59±0.87</td></tr></table></body></html>
+
+118 同列数据肩标不同字母表示差异显著（ $. P { < } 0 . 0 5 \$ ）。表5同。  
+119 Values in the same column with different letter superscripts mean significant difference ( $_ { . } { \cal P } { < } 0 . 0 5 )$ ：  
+120 The same as below.
+
+2.2饲料不同糖脂比对鲤鱼形体指标的影响
+
+如表3所示，鲤鱼肥满度随着饲料糖脂比的升高呈现出先降低后升高的趋势，糖脂比为6.8的组鱼体的肥满度显著低于糖脂比为27.7的组（ $. P { < } 0 . 0 5$ ），其余各组之间差异不显著（ $. P { > } 0 . 0 5$ ）；肝体指数在各组之间无显著差异（ $P { > } 0 . 0 5$ ）。
+
+表2饲料不同糖脂比对鲤鱼生长指标的影响  
+表3饲料不同糖脂比对鲤鱼形体指标的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">carp</td></tr><tr><td></td><td colspan="3">糖脂比 Carbohydrate-to-lipid ratio</td></tr><tr><td></td><td>5.2</td><td>6.8</td><td>9.6</td><td>15.0</td><td>27.7</td></tr><tr><td>肥满度</td><td>2.58±0.01ab</td><td>2.42±0.01b</td><td>2.55±0.07ab</td><td>2.52±0.04ab</td><td>2.70±0.08a</td></tr><tr><td>CF/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝体指数 HSI/%</td><td>0.89±0.05</td><td>0.79±0.07</td><td>0.89±0.08</td><td>0.86±0.09</td><td>1.01±0.04</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。表4、表6同。
+
+Values in the same row with different letter superscripts mean significant difference( $P { < } 0 . 0 5 )$ ）：   
+The same as Table 5 and Table 6.   
+2.3饲料不同糖脂比对鲤鱼体成分的影响 如表4所示，饲料糖脂比对全鱼水分、粗蛋白质、粗灰分及背肌水分、粗蛋白质含量均
+
+没有显著影响（ $. P { > } 0 . 0 5 ^ { \cdot }$ ），但显著影响了全鱼、背肌粗脂肪以及背肌粗灰分含量（ $. P { < } 0 . 0 5$ ）。全鱼及背肌粗脂肪含量在糖脂比为5.2及27.7的组均较高，且显著高于其他各组（ $( P { < } 0 . 0 5 )$ ，背肌粗灰分含量除糖脂比为15.0的组显著低于糖脂比为5.2的组（ $. P { < } 0 . 0 5 )$ ）外，其他各组间差异并不显著（ $P { > } 0 . 0 5$ ）。
+
+表4饲料不同糖脂比对鲤鱼体成分的影响  
+Table 4Effects of different dietary carbohydrate-to-lipid ratio on body composition of common   
+
+<html><body><table><tr><td colspan="7"></td></tr><tr><td rowspan="3">项目Items</td><td></td><td></td><td>糖脂比 Carbohydrate-to-lipid ratio</td><td>9.6</td><td>15.0</td><td>27.7</td></tr><tr><td>水分</td><td>5.2 73.06±0.95</td><td>6.8 71.81±0.56</td><td></td><td>73.85±0.49</td><td>72.19±1.51</td></tr><tr><td>Moisture 粗脂肪 Crude</td><td>9.66±0.05ab</td><td>8.03±0.21c</td><td>73.02±0.33 8.61±0.70bc</td><td>8.15±0.34c</td><td>9.89±0.28a</td></tr><tr><td rowspan="6">全鱼Whole body</td><td>lipid 粗蛋白 质</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Crude protein 粗灰分</td><td>16.86±0.54</td><td>16.64±0.36</td><td>16.72±0.29</td><td>16.83±0.33</td><td>16.83±0.89</td></tr><tr><td>Ash 水分</td><td>2.65±0.11 77.82±0.26</td><td>2.30±0.15</td><td>2.46±0.02</td><td>2.50±0.03</td><td>2.52±0.15</td></tr><tr><td>moisture 粗脂肪 Crude</td><td></td><td>77.94±0.19</td><td>77.88±0.21</td><td>77.94±0.54</td><td>77.78±0.09</td></tr><tr><td>lipid 粗蛋白</td><td>1.78±0.08a</td><td>1.18±0.08c</td><td>1.36±0.06bc</td><td>1.20±0.04c</td><td>1.55±0.18ab</td></tr><tr><td>质 Crude protein</td><td>19.34±0.25</td><td>20.78±0.53</td><td>19.17±0.89</td><td>19.63±0.52</td><td>19.53±0.04</td></tr><tr><td>Ash</td><td>粗灰分</td><td>1.30±0.021a</td><td>1.24±0.007ab</td><td>1.22±0.006ab</td><td>1.17±0.012b</td><td>1.19±0.032ab</td></tr></table></body></html>
+
+）2.4饲料不同糖脂比对鲤鱼血清生化指标及肝糖原含量的影响
+
+如表5所示，鲤鱼血清总胆固醇含量随饲料糖脂比的升高而呈先下降后上升趋势，并在糖脂比为15.0时达到最低值，且显著低于糖脂比为5.2、27.7时（ $. P { < } 0 . 0 5$ ），而血清甘油三酯含量则呈相反的趋势，在糖脂比为6.8的组有最高值，且显著高于其他各组（ $. P { < } 0 . 0 5 \ '$ ）。血清葡萄糖含量随饲料糖脂比的升高基本呈上升趋势，在糖脂比为27.7的组有最高值，且显著高于其他各组（ $. P { < } 0 . 0 5 \$ ）。肝糖原含量均随饲料糖脂比的升高亦基本呈上升趋势，在糖脂比为27.7的组有最高值，且显著高于除糖脂比为15.0 的组外的其他各组（ $P { < } 0 . 0 5$ ）。
+
+表5饲料不同糖脂比对鲤鱼血清生化指标及肝糖原含量的影响
+
+Table 5Effects of different dietary carbohydrate-to-lipid ratios on serum biochemical indices and liver glycogen content of common carp
+
+<html><body><table><tr><td>糖脂比 Carbohydrate-to-</td><td>总胆固醇 Total</td><td>甘油三酯</td><td>葡萄糖</td><td>肝糖原</td></tr><tr><td>lipid ratio</td><td>cholesterol/(mmol/L</td><td>Triglyceride/(mmol/ L)</td><td>Glucose/(mmol/L)</td><td>Liver glycogen/(mg/g)</td></tr><tr><td>5.2</td><td>） 4.63±0.7a</td><td>2.76±0.12</td><td>11.40±0.11d</td><td>4.87±0.05d</td></tr><tr><td>6.8</td><td>2.78±0.39c</td><td>3.10±0.04a</td><td>11.76±0.05bc</td><td>7.13±0.08b</td></tr><tr><td>9.6</td><td>2.89±0.03c</td><td>2.10±0.06e</td><td>11.69±0.07cd</td><td>6.44±0.35c</td></tr><tr><td>15.0</td><td>2.51±0.04c</td><td>2.88±0.03b</td><td>12.01±0.10b</td><td>11.89±0.24a</td></tr><tr><td>27.7</td><td>4.06±0.01b</td><td>2.38±0.03d</td><td>12.40±0.13a</td><td>12.23±0.14a</td></tr></table></body></html>
+
+# 2.5 饲料不同糖脂比对鲤鱼消化酶活性的影响
+
+如表6所示，随饲料糖脂比的升高，鲤鱼肝胰脏、中肠蛋白酶活性呈先上升后下降趋势，在糖脂比为6.8的组达到最高值，且显著高于其他组（ $P { < } 0 . 0 5$ ）。在糖脂比15.0时，前肠蛋白酶活性较其他组显著降低 （ $_ { _ { P < 0 . 0 5 } }$ ），其他组差异不显著（ $P { > } 0 . 0 5 \$ ），而饲料糖脂比对鲤鱼后肠蛋白酶活性无显著影响（ $. P { > } 0 . 0 5 \$ ）。鲤鱼肝胰脏、前肠淀粉酶活性均以糖脂比为15.0的组为最高，其中肝胰脏淀粉酶活性与糖脂比为6.8的组差异不显著（ $. P { > } 0 . 0 5$ ）外，其他组间差异显著（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ ）；中肠淀粉酶活性随饲料糖脂比的升高有下降趋势，糖脂比为27.2的组显著低于其他各组（ $. P { < } 0 . 0 5$ ）；而后肠淀粉酶活性以糖脂比为15.0的组为最低，显著低于除糖脂比为9.6的组外的其他各组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。鲤鱼各组织脂肪酶活性最高值均出现在糖脂比为15.0的组，其中在肝胰脏、前肠与其各组差异显著（ $. P { < } 0 . 0 5 \$ ），在中肠与除糖脂比为27.7的组外的其他各组差异显著（ $P { < } 0 . 0 5$ ），在后肠仅与糖脂比为6.8的组差异显著（ $. P { < } 0 . 0 5$ ）。
+
+表6饲料不同糖脂比对鲤鱼消化酶活性的影响  
+Table 6Effects of different dietary carbohydrate-to-lipid ratios on digestive enzyme activiti common carp   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">组织 Tissues</td><td colspan="5">糖脂比 Carbohydrate-to-lipid ratio</td></tr><tr><td>5.2</td><td>6.8</td><td>9.6</td><td>15.0</td><td>27.7</td></tr><tr><td>蛋白酶</td><td>肝胰脏 Hepatop ancreas</td><td>81.08±2.41bc</td><td>99.86±1.78a</td><td>91.34±5.38ab</td><td>80.63±2.61c</td><td>81.90±2.05bc</td></tr><tr><td>Protease/(U /g</td><td>前oregut</td><td>86.03±0.86a</td><td>87.08±1.93a</td><td>84.39±1.25a</td><td>72.93±2.56b</td><td>81.38±1.60a</td></tr><tr><td></td><td>中肠 Midgut</td><td>79.68±2.60b</td><td>88.19±1.21a</td><td>78.43±1.08bc</td><td>81.12±4.75b</td><td>70.44±1.13c</td></tr><tr><td></td><td>Hindgut</td><td>90.95±1.93</td><td>93.96±0.79</td><td>88.98±1.36</td><td>92.79±1.23</td><td>93.24±2.14</td></tr><tr><td>淀粉酶</td><td>肝胰脏 Hepatop ancreas</td><td>11.40±0.23c</td><td>14.80±0.15ab</td><td>1.51±0.33d</td><td>15.33±0.96a</td><td>13.62±0.09b</td></tr></table></body></html>
+
+<html><body><table><tr><td>Amylase</td><td>前肠 Foregut</td><td>32.08±2.97e</td><td>110.77±0.44b</td><td>72.71±2.35c</td><td>126.66±1.29a</td><td>47.79±4.43d</td></tr><tr><td rowspan="4">/(U/g prot)</td><td>中肠 Midgut</td><td>88.06±4.34a</td><td>79.28±3.32ab</td><td>74.83±2.18b</td><td>73.44±2.31b</td><td>51.44±1.35c</td></tr><tr><td>后肠 Hindgut</td><td>69.59±4.38ab</td><td>74.90±1.73a</td><td>59.31±2.36cd</td><td>53.18±1.07d</td><td>62.14±1.81bc</td></tr><tr><td>肝胰脏 Hepatop ancreas</td><td>37.02±1.26b</td><td>28.24±0.65c</td><td>26.45±0.58c</td><td>46.56±0.64a</td><td>35.20±0.58b</td></tr><tr><td>前肠 Foregut</td><td>86.14±1.83bc</td><td>93.48±3.22b</td><td>77.05±5.97c</td><td>114.70±6.02a</td><td>94.81±2.10b</td></tr><tr><td>/(U/g prot)</td><td>中肠 Midgut</td><td>65.01±3.72b</td><td>57.64±1.84b</td><td>40.30±1.91c</td><td>74.55±1.38a</td><td>73.94±2.21a</td></tr><tr><td></td><td>后肠 Hindgut</td><td>68.93±7.23ab</td><td>49.40±1.75b</td><td>52.87±10.87a b</td><td>71.64±4.04a</td><td>69.15±3.42ab</td></tr></table></body></html>
+
+165 3讨论
+
+166 3.1饲料不同糖脂比对鲤鱼生长的影响
+
+167 本试验质，饲料糖脂比为6.8时，鲤鱼增重率及特定生长率均显著高于其他组，而饲料  
+168 糖脂比在5.2\~15.0范围内时蛋白质效率无显著差异，但随饲料糖脂比的升高有上升趋势，且  
+169 都显著高于糖脂比为27.7的组，这表明，若糖和脂肪维持一定的比例，则能充分发挥糖和  
+170 脂肪的协同效应[1]，从而提高鱼类的生长和饲料利用率[12]；若糖脂比过高，则会对鱼类的  
+171 生长和饲料利用率产生不利影响[13]。王丽娜等[14]研究发现，当饲料糖脂比适中时，黄颡鱼  
+172 （Pelteobagrus fulvidraco）幼鱼生长性能最好；何吉祥等[15]研究发现，对于异育银鲫  
+173 （Carassius auratus gibelio）幼鱼来说，当饲料蛋白质水平降低时适宜的糖脂比能够发挥其  
+174 对蛋白质的替代作用，糖或脂肪水平过高会对其生长产生抑制作用，这与本试验结果一致。  
+175 另外，在革胡子鲶（Clarias gariepinus）[16]、长吻鮠(Leiocassis longirostris Gunther)l6]、瓦氏  
+176 黄颡鱼（Pelteobagrus vachelli）[17]和草鱼（Ctenopharyngodon idella）[18]的研究中也有类似  
+177 的发现。然而，也研究发现随着饲料糖脂比的变化，各组克林雷氏鲶（Rhamdiaquelen）的  
+178 生长性能并没有显著差异[19]，这可能与养殖对象、养殖环境、饲料配方及投喂方式等有关。  
+179 本试验中，饲料系数普遍偏高，可能与投喂方式及饲料加工工艺有关，但相比之下，高糖脂  
+180 比组的饲料系数最高，增重率与特定生长率最低，表明摄入高糖饲料后鲤鱼的生长可能会受  
+181 阻，这与戈贤平[20]在翘嘴红（Erythroculter ilishaeformis Bleeker）上的研究结果一致。
+
+# 3.2饲料不同糖脂比对鲤鱼形体指标的影响
+
+本试验结果显示，饲料糖脂比虽对鲤鱼肝体指数无显著影响影响，但饲料糖脂比达到27.7时，其肝体指数要高于其他各组。造成这种现象的原因可能是当饲料糖水平过高时，部分糖也会转化为脂肪在肝胰脏中沉积。本试验设定的糖脂比范围尚在鲤鱼的耐受范围之内，不会导致脂肪过度沉积而使肝脏肿大，而糖脂比过高则会影响其肝功能。相似的结果也见于对大鳞大麻哈鱼[21I的研究。另外，鱼体在摄入高糖脂比的饲料后肥满度增加，表明高糖低脂饲料比低糖高脂饲料更容易促进体内营养物质的积累。
+
+# 3.3饲料不同糖脂比对鲤鱼体成分及血清生化指标的影响
+
+作为食用鱼，养殖对象的口感及风味对其销售市场有极大的影响。本试验在保证鲤鱼机体健康的情况下，也对其体成分做了研究。有研究表明，饲料脂肪水平的升高会造成脂肪在鱼体组织中沉积[22]，而摄入的糖很大一部分也可能转化为脂肪在肝胰脏与肠系膜中沉淀[23]。本试验中，全鱼和背肌粗脂肪含量均以糖脂比为5.2和27.7的组较高，这表明摄入的糖有一部分会转化为脂肪沉积在鱼体组织内，也说明鲤鱼对糖的利用能力较高，相同的结果也见于点篮子鱼[24]、长鳍篮子鱼（Siganus canaliculatus）[25]研究中。而李玉娟等[26]在黑鲷的研究中得出了不同的结论，即升高饲料糖水平对其背肌成分无显著影响。这种差异可能与养殖对象对糖的吸收利用能力及糖的添加量不同有关。饲料糖脂比的变化对鲤鱼背肌及全鱼的粗蛋白质含量均无显著影响，这与在团头鲂（Megalobrama amblycephala）[27]上的研究结果一致。
+
+研究表明，血液中 $7 0 . 0 \% { \sim } 8 0 . 0 \%$ 的胆固醇来自肝脏，其余是来自消化道，如果鱼体肝脏受到损害，则血清胆固醇含量升高[28]。本试验中，随着饲料糖脂比的升高，血清总胆固醇含量有下降趋势，糖脂比为5.2、27.7时较高，糖脂比为6.8\~15.0时差异不显著，表明糖脂比过高或过低均会给鲤鱼带来一定的代谢负担，这与体成分中粗脂肪含量的测定结果是一致的。水产动物虽然有相关的糖代谢酶可将部分糖转化成脂类等一系列的代谢产物，但是这种功能相对于摄入的糖来说是远远不够的，进而导致鱼体血清葡萄糖含量随饲料糖水平的升高而持续上升[29-30]。本试验中，鲤鱼血清葡萄糖及肝糖原含量均随饲料糖脂比的升高而上升，这与在异育银鲫[31]、建鲤（Cyprinus carpiovar Jian）[32]、等上的研究结果一致，表明过高的糖水平会增加鲤鱼的代谢负担，对鲤鱼机体健康产生负面影响。甘油三酯是储存于机体中的热量源,鱼体大部分组织都可迅速利用其进行生命活动，血清中甘油三酯大部分来源于食物。本试验中，血清甘油三酯含量随饲料糖脂比的升高呈先上升后下降的趋势，在糖脂比为6.8的组最高，表明糖和脂肪的添加对甘油三酯的合成有促进作用。相似的结果见于鲇（Sohilbeintermedius）[33]、虹鳟（Oncorhynchus mykiss）[34]等的研究中。
+
+# 3.4饲料不同糖脂比对鲤鱼消化酶活性的影响
+
+本试验中，各组织蛋白酶活性均以糖脂比为6.8的组较高，糖脂比高于6.8时，鲤鱼各组织蛋白酶活性有下降趋势，这表明该组饲料糖脂比对鲤鱼的蛋白酶活性有促进作用，但当糖脂比持续升高时，会抑制蛋白酶活性。刘襄河等[35研究表明，鱼类摄食含糖饲料后肝胰脏中胰蛋白酶活性随饲料中糊精水平升高呈下降趋势，而对肠道中胰蛋白酶活性无显著影响，并认为高水平糖的摄入可能会导致肝脏受损，进而使代谢紊乱。Cahu等[36]研究表明，升高饲料糖水平可导致狼鲈（Diceretrachu labraa）蛋白酶活性下降，而高梅等[37]报道升高饲料糖水平可导致南方鲇（Silurus meridionalisChen）蛋白酶活性的升高。这些结果的差异可能与鱼类的食性及对饲料营养物质的利用能力有关。
+
+在本试验条件下，鲤鱼肝胰脏及前肠淀粉酶活性均以糖脂比为6.8和15.0的组较高，这表明糊精的添加对鲤鱼各组织淀粉酶活性有一定的刺激作用，这也是鲤鱼摄入高水平糖的一种自我调节反应。相同的试验结果见于刘襄河等[35]、韩勃等[38]、强俊等[39]的研究中。而对鲤鱼中、后肠来说，糖脂比较低的组淀粉酶活性反而较高，说明脂类的添加对鲤鱼肠道淀粉酶活性也有一定的促进作用。王重刚等[40]研究表明，真鲷（Temmincket schlegel）幼鱼肠道淀粉酶的活性明显受食物诱导，脂肪酶活性与食物脂肪水平呈负相关。
+
+脂肪酶活性的变化可显示出鲤鱼对脂肪的利用能力。本试验中，鲤鱼各组织脂肪酶活性  
+均以糖脂比为15.0的组最高，表明随饲料糖水平的升高，过多的糖可能会转化为脂肪沉积  
+在肝胰脏或肠系膜上，从而对脂肪酶的活性产生影响。研究表明，饲料脂肪水平对脂肪酶的  
+活性无显著影响[41-42]。而韩光明等[31的研究结果显示，吉富罗非鱼对脂肪的吸收主要在肠  
+道前段，饲料脂肪水平对吉富罗非鱼胃及肠道蛋白酶活性没有显著影响，高脂肪水平的饲料  
+显著抑制了前、中肠脂肪酶活性。目前饲料糖脂比对鱼类组织中脂肪酶活性的影响具有一定  
+的争议，需要进一步的深入研究。  
+4结论饲料糖脂比为6.8时，鲤鱼生长最好；饲料糖脂比在6.8\~15.0范围内时，组织消化酶活  
+性处于较高水平。综合生长、体成分、血液指标及消化酶活性得出，鲤鱼饲料中适宜的糖脂  
+比为6.8\~15.0。  
+参考文献:  
+[1]孙金辉,范泽,程镇燕,等.饲料中玉米淀粉添加水平对鲤生长性能、消化酶活性及血清生化指标的影响[J].动物营养学报,2016,28(3):1-7.  
+[2]郭立,井润珍,程镇燕,等.降低鲤鱼饲料蛋白质的初步研究[J].饲料工业,2013(8):41-45.  
+[3]FAN Z,LI JH,CHENG Z Y,et al.Protein sparing effect of lipid in diets for common carp(Cyprinus carpio)[J].Advances in EngineeringResearch,2015,doi:10.2991/isesce-15.2015.73.  
+[4] 王丽娜,刘文斌,张春暖,等.饲料中非蛋白能源物质对黄颡鱼幼鱼生长及生理生化指标的影响[J].南京农业大学学报,2014,.37(1):108\~114.  
+[5]KUMAR V,SAHU N P,PAL A K,etal.Modulation ofkeyenzymesofglycolysis,gluconeogenesis,amino acid catabolism,and TCA cycle of the tropical freshwaterfish Labeo rohita fed gelatinized and non-gelatinized starch diet[J].Fish Physiology andBiochemistry,2010,36(3):491-499.  
+[6]TAN Q S,XIE S Q,ZHU X M,et al.Effect of dietary carbohydrate-to-lipid ratios on growthand feed utilization in Chinese longsnout catfish (Leiocassis longirostris Gunther)[J].Journalof Applied Ichthyology,2007,23(5):605-610.  
+[7]ALI M Z,JAUNCEY K.Optimal dietary carbohydrate to lipid ratio in African catfish Clariasgariepinus (Burchell 1822)[J].Aquaculture International,2004,12(2):169-180.  
+[8]张海涛,王安利,李国立,等.营养素对鱼类脂肪肝病变的影响[J].海洋通报,2004,23(1):
+
+257 82-89.   
+258 [9]谭青松.异育银鲫和长吻鮠对饲料碳水化合物利用的比较研究[D].博士学位论文.武汉:   
+259 中国科学院水生生物研究所,2005.   
+260 [10] ZEITOUN I H,ULLREY D E,MAGEE W T,et al.Quantifying nutrient requirements of   
+261 fish[J].Journal of Fisheries Research Board of Canada,1976,33(1):167-172.   
+262 [11]PERES H,OLIVA-TELES A.Effect of dietary lipid level on growth performance and feed   
+263 utilization by European sea bass juveniles (Dicentrarchus   
+264 labrax)[J].Aquaculture,2013,179(1/2/3/4):325-334.   
+265 [12]LEE Y B,KAUFFMAN R G.Celularity and lipogenic enzyme activities of porcine   
+266 intramuscular adipose tissue[J].Journal of Animal Science,1974,38(3):538-544.   
+267 [13] LOVELL RT.Nutritionandfeedingoffish[M].NewYork:VanNostrand   
+268 Reinhold,1989:260.   
+269 [14]王丽娜,刘文斌,张春暖,等.饲料中非蛋白能源物质对黄颡鱼幼鱼生长及生理生化指标   
+270 的影响[J].南京农业大学学报,2014,37(1):108-114.   
+271 [15]何吉祥,崔凯,徐晓英,等.异育银鲫幼鱼对蛋白质、脂肪及碳水化合物需求量的研究[J].   
+272 安徽农业大学学报,2014,41(1):30-37.   
+273 [16]LEE S M,KIM K D.Effects of dietary carbohydrate to lipid ratios on growth and body   
+274 compositionofjuvenileandgrowerrockfish,Sebastesschlegeli[J].Aquaculture   
+275 Research,2009,40(16):1830-1837.   
+276 [17]张世亮,艾庆辉,徐玮,等.饲料中糖/脂肪比例对瓦氏黄颡鱼生长、饲料利用、血糖水平和   
+277 肝脏糖酵解酶活力的影响[J].水生生物学报,2012,36(3):466-473.   
+278 [18] GAO W,LIU Y J,TIAN L X,et al.Effect of dietary carbohydrate-to-lipid ratios on growth   
+279 performance,body composition,nutrient utilization and hepatic enzymes activitiesof   
+280 herbivorous grass carp (Ctenopharyngodon idella)[J].Aquaculture   
+281 Nutrition,2010,16(3):327-333.   
+282 [19] MORO G V,CAMILO R Y,MORAESGet al.Dietarynon-proteinenergy   
+283 sources:growth,digestiveenzyme activitiesand nutrient utilization by the catfish   
+284 jundia,Rhamdia quelen[J].Aquaculture Research,2010,41(3):394-400.   
+285 [20] 戈贤平.不同糖、脂含量日粮对翘嘴红相关糖代谢酶的调节研究[D].博士学位论文.   
+286 南京:南京农业大学,2006.   
+287 [21]BUHLER D R,HALVER JE.Nutrition of salmonid fishes:IX.Carbohydrate requirements of   
+288 Chinook salmon[J].The Journal of Nutrition,1961,74(3):307-318.   
+289 [22]LI X F,LIU W B ,JIANG Y Y,et al.Effects of dietary protein and lipid levels in practical   
+290 diets on growth performance and body composition of blunt snout bream (Megalobrama   
+291 amblycephala) fingerlings[J].Acta Hydrobiologica Sinica,2013,36(5):826-836.   
+2 [23]田丽霞,刘永坚,冯健,等.不同种类淀粉对草鱼生长、肠系膜脂肪沉积和鱼体组成的影响   
+3 [J].水产学报,2002,26(3):247-251.   
+4 [24]李葳,侯俊利,章龙珍,等.饲料糖水平对点篮子鱼生长性能的影响[J].海洋渔   
+5 业,2012,34(1):64-70.   
+5 [25]章龙珍,杨金海,赵峰,等.长鳍篮子鱼消化道显微与超微结构观察[J].水产学   
+7 报,2010,34(2):271-277.   
+3 [26]李玉娟,唐立,颜顺,等.不同蛋白质与碳水化合物水平对黑鲷肌肉营养组成和质地的影   
+） 响[J].水产学报,2014,38(9):1476-1485.   
+） [27]LI X F,WANG Y,LIU W B,et al.Effects of dietary carbohydrate/lipid ratios on growth   
+1 performance,body composition and glucose metabolism of fingerling blunt snout bream   
+2 Megalobrama amblycephala[J].Aquaculture Nutrition,2013,19(5):701-708.   
+3 [28]马利.不同菜粕水平对草鱼生长、血液学指标和毒素残留的影响[D].硕士学位论文.武汉:   
+4 华中农业大学,2004.   
+5 [29] METON 1,CASERAS A,FERNNANDEZ F,et   
+5 al.6-Phosphofructo-2-kinase/fructose-2,6-bisphosphatase gene expresson is regulated by diet   
+7 composition and ration size in liver of gilthead sea bream,Sparus aurata[J].Biochimica et   
+3 Biophysica Acta: Gene Structure and Expression,2000,1491(1/2/3):220-228.   
+） [30]PANSERAT S,CAPILLA E,GUTIERREZ J,et al.Glucokinase is highly induced and   
+） glucose-6-phosphatase poorly repressed in liver of rainbow trout (Oncorhynchus mykiss) by a   
+1 single meal with glucose[J].Comparative Biochemistiy and Physiology Part B:Biochemistry   
+2 and Molecular Biology,2001,128(2):275-283.   
+3 [31]韩光明,王爱民,徐跑,等.饲料中脂肪水平对吉富罗非鱼幼鱼成活率、肌肉成分及消化酶   
+4 活性的影响[J].上海海洋大学学报,2010,19(4):469-474.   
+5 [32] 李贵锋.不同蛋能比和糖脂比对建鲤幼鱼生长性能、体组成、消化及代谢酶活性的影响   
+5 [D].硕士学位论文.南京:南京农业大学,2012.   
+7 [33]乔志刚,张建平,牛景彦,等.饥饿和再投喂对鲇血液生理生化指标的影响[J].水生生物学   
+3 报,2008,32(5):631-636.   
+） [34] PANSERATS,PERRINA,KAUSHIKS.Highdietarylipidsinduceliver   
+） glucose-6-phosphatase expresson in rainbow trout (Oncorhynchus mykis)[J].The Journal of   
+1 Nutrition,2002,132(2):137-141.   
+2 [35] 刘襄河,叶超霞,郑丽勉,等.饲料糊精水平对暗纹东方鲀幼鱼生长、消化酶活性和血液生   
+3 化指标的影响[J].水产学报,2013,37(9):1359-1368.
+
+[36]CAHU C,RONNESTAD I,GRANGIER V,et al.Expression and activities of pancreatic enzymes in developing sea bass larvae (Dicentrarchus labrax) in relation to intact and hydrolyzed dietary protein;involvement of cholecystokinin[J].Aquaculture,2004,238(1/2/3/4):295-308.   
+[37]高梅,罗毅平,曹振东.饲料碳水化合物对南方鲇(Silurus meridionalis Chen)幼鱼消化酶 活性的影响[J].西南师范大学学报:自然科学版,2006,31(2):119-123.   
+[38]韩勃,宋理平.饲料淀粉水平对淡水黑鲷生长和消化酶活性的影响[J].上海海洋大学学 报,2010,19(2):207-213.   
+[39]强俊,王辉,彭俊,等.饲料碳水化合物水平对奥尼罗非鱼仔稚鱼生长的影响[J].饲料工 业,2009,30(14):32-35.   
+[40]王重刚,陈品健,顾勇,等.不同饵料对真鲷稚鱼消化酶活性的影响[J].海洋学 报,1998,20(4):103-106.   
+[41] 黎军胜,李建林,吴婷婷.饲料成分与环境温度对奥尼罗非鱼消化酶活性的影响[J].中国 水产科学,2004,11(6):585-588.   
+[42] 王爱民,吕富,杨文平,等.饲料脂肪水平对异育银鲫生长性能、体脂沉积、肌肉成分及消 化酶活性的影响[J].动物营养学报,2010,22(3):625-633. Effects of different Dietary Carbohydrate-to-Lipid Ratios on Growth Performance, Body Composition and Digestive Enzyme Activities of Common Carp (Cyprinus carpoio) QU Mu1LIChang'e²LIU Hongchao1ZHANG Baolong³CHENG Zhenyan1SUN Jinhui1BAI Dongqing1 QIAO Xiuting1\* (1. College of Fisheries, Tianjin Agricultural University, Tianjin Key Lab of Aqua-Ecology and   
+Aquaculture, Tianjin 300384; 2. Animal Husbandry and Fishery Service Center, Tianjin 301770; 3. Tianjin Chenhui Feed Ltd. Co., Tianjin 301800)   
+Abstract: This study determined the effects of different dietary carbohydrate-to-lipid ratios on   
+growth performance， body composition and digestive enzyme activities of common carp   
+(Cyprinus carpoio). Common carp with the average body weight of $( 4 4 . 4 5 \pm 1 . 6 0 ) \$ gwere   
+randomly divided into 3 groups with 3 replicates in each group and 7O fish in each replicate. The   
+fish in those groups were fed 6 diferent experimental diets with the carbohydrate-to-lipid ratios   
+were 5.2, 6.8, 9.6,15.0 and 27.7,respectively. The growth experiment lasted for $6 3 { \mathrm { ~ d ~ } }$ . The results   
+showed as follows: 1) the maximum weight gain ratio (WGR), specific growth rate (SGR) and the   
+minimum feed conversion rate (FCR） were observed in common carp fed the diet with 6.8   
+carbohydrate-to-lipid ratio,and the WGR and SGR in 6.8 carbohydrate-to-lipid ratio group were
+
+JJu sigcaluymgiei ual uioseI Uueigioups ， WIIC uc TUΛ ∠1.1   
+357 carbohydrate-to-lipid ratio group wassignificantlyhigher than that in 5.2 to15.0   
+358 carbohydrate-to-lipid ratio groups $( P { < } 0 . 0 5 )$ .The protein efficiency ratio (PER） in 27.7   
+359 carbohydrate-to-lipid ratio group was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ ，but   
+360 the condition factor (CF) was significantly higher than that in 6.8 carbohydrate-to-lipid ratio group   
+361 $( P { < } 0 . 0 5 )$ . 2） The crude lipid content of whole body and dorsal muscle in 5.2 and 27.7   
+362 carbohydrate-to-lipid ratio groups were higher, and significantly higher than those in other groups   
+363 （20 $( P { < } 0 . 0 5 )$ ; the ash content of dorsal muscle in 15.O carbohydrate-to-lipid ratio group had the lowest   
+364 value,and significantly lower than that in 5.2 carbohydrate-to-lipid ratio group $( P { < } 0 . 0 5 )$ ，while   
+365 there were no significant differences among other groups $( P { > } 0 . 0 5 )$ ). 3）With the increase of diary   
+366 carbohydrate-to-lipid ratio，serum total cholesterol content was firstly decreased and then   
+367 increased, and the lowest value was found in 15.O carbohydrate-to-lipid ratio group which   
+368 significantly higher than that in 5.2 and 27.7 carbohydrate-to-lipid ratio groups $( P { < } 0 . 0 5 )$ ； the   
+369 highest serum triglyceride content was found in 6.8 carbohydrate-to-lipid ratio group，and   
+370 significantly higher than that in other groups $( P { < } 0 . 0 5 )$ ; the highest serum glucose content was   
+371 found in 27.7 carbohydrate-to-lipid ratio group,and significantly higher than that in other groups   
+372 （2 $( P { < } 0 . 0 5 )$ ; the highest liver glycogen content was found in 27.7 carbohydrate-to-lipid ratio group,   
+373 and significantly higher than that in other groups except 15.O carbohydrate-to-lipid ratio group   
+374 $( P { < } 0 . 0 5 )$ . 4） The highest hepatopancreas and midgut protease activities were found in 27.7   
+375 carbohydrate-to-lipid ratio group,and significantly higher than those in other groups $( P { < } 0 . 0 5 )$ ：，   
+376 when dietary carbohydrate-to-lipid ratio was 15.O, the foregut protease activity was significantly   
+377 decreased compared with other groups ( $( P { < } 0 . 0 5 )$ . The highest hepatopancreas and foregut amylase   
+378 activities were found in 15.O carbohydrate-to-lipid ratio group； the midgut amylase activity   
+379 reduced with the dietary carbohydrate-to-lipid ratio increasing,and the 27.2 carbohydrate-to-lipid   
+380 ratio group was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ ； the hindgut amylase   
+381 activity in 15.O carbohydrate-to-lipid ratio group had the lowest value,and significantly lower   
+382 than that in other groups except 9.6 carbohydrate-to-lipid ratio group $( P { < } 0 . 0 5 )$ . Lipase activity in   
+383 all organizations showed the same trend, which raised first and then went down and got the   
+384 highest values at 15.O carbohydrate-to-lipid ratio. Considered the growth, body composition,   
+385 serumbiochemical indicesand digestiveenzymeactivities，theoptimal dietary   
+386 carbohydrate-to-lipid ratio of common carp is 6.8 to 15.0.   
+387 Key words: common carp （Cyprinus carpoio） ; carbohydrate-to-lipid ratio; growth performance;
+
+body composition; digestive enzyme activities

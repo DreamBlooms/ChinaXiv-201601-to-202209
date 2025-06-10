@@ -1,0 +1,182 @@
+# 基于最优供需分配的公共设施空间可达性分析
+
+翟石艳1，何新新1,2，孔云峰1\*，罗静静1,2，宋根鑫1,2(1.河南大学黄河中下游数字地理技术教育部重点实验室，开封 475000；2.河南大学环境与规划学院,开封 475004)
+
+摘要：空间可达性是衡量公共服务设施公平性的重要指标，在医疗、教育、休闲等公共服务的布局规划中得到广泛应用。然而，现有可达性模型难以充分反映服务供需关系，计算指标也缺乏物理意义。本文提出新的可达性计算方法取代现有方法。该方法基于最优供需分配模型，将设施服务分配给需求者，根据分配结果计算空间可达性指标。给定服务设施与需求的空间分布，以最小化旅行成本为目标，顾及设施服务能力，采用经典的运输问题模型确定最优的服务供需分配方案，进而度量服务的空间可达性。以郑州市某区社区卫生服务为例，求解 25个中心与1333个居住小区的最优服务配置。使用最优配置结果确定每个设施的服务范围、每个居住小区使用服务的旅行时间，以及特定时间阈值的服务覆盖比率。与流行的两步移动搜索法相比，新方法的计算指标具有明确的物理意义。本文提出的可达性评价方法无需参数，计算高效，结果易于解释，在公共服务评价及设施布局规划方面具有应用潜力。
+
+关键词：公共服务；空间可达性；最优供需分配；案例研究
+
+# Measuring spatial accessibility of public service by optimal supply-demand assignment
+
+ZHAI Shiyan1, HE Xinxin1,2, KONG Yunfeng1\*,LUO Jingjing1,2, SONG Genxin1,2
+
+1.KeyLaboratoryofGeospatialTechnologyfortheMiddleandLowerYelowRiverRegions (HenanUniversity),MinistryofEucati
+
+Kaifeng 475o4,Henan,China;2.ColegeofEnvironmentandPlanning,HenanUniversity,Kaifeng 475oo4,Henan,China)
+
+Abstract: Spatial accessibility is an important index to measure the fairness of public services such as health care, education,and outdoor leisure. It has also been widely used in the layout planning of public facilities.However, the existing accessibility models cannot fully illustrate the direct relationship between supply and demand of the service, and thus the accessibility indicators cannot be explained with explicit meanings. This article introduces a new method for measuring the accessibility based on the optimal supply and demand allocation, which is different from the supplydemand relationships in existing methods. Given the supply locations, the demand locations, their attributes,and the travel costs between them,the transportation problem model is used to allocate the services to demands.The classical model can be easily solved with optimal total travel cost. Based on the model results, the spatial accessibility of service could be measured. The proposed method was tested on the healthcare service in a district of Zhengzhou, Henan, China. There are 25 healthcare centers and 1333 residential communities in the study area.The instance model was effectively solved by an open-source MIP solver in 2.2 seconds.The service area ofeach healthcare center, and the travel time of each community were obtained according to the modeling results. In addition, the coverage percentages with predefined service thresholds were calculated. The proposed method was also compared with the popular methods， such as the two-step floating catchment area method (2SFCA), the Gaussian 2SFCA,and the gravity 2SFCA.The areas with poor healthcare service could be identified by using the results from the three 2SFCA methods.However, the spatial variation of the service accessibility might be very different when selecting different search thresholds and/or distance decay coeffcient. The method proposed in this study has advantages such as parameter-free, ease of calculation,and easy of explaining the modeling results. The authors believe that the method has application potentials to replace the existing methods in evaluating public services and facility planning.
+
+Keywords: public service; spatial accessibility; optimal service allocation; case study
+
+基金项目：国家自然科学基金面上项目(41871307）区划问题通用元启发框架及关键算法机制研究；河南省高等学校重点科研项目 (21A170007)面向"15 分钟生活圈"的基层医疗机构空间布局优化研究[Foundation: National Natural Science Foundation of China,No.41871307;Henan Key Scientific Research Projects for Colleges and Universities,No. 21A170007]  
+通讯作者简介：孔云峰(1967-)，男，博士，博士生导师，主要从事空间分析、空间优化等研究。E-mail: yfkong@henu.edu.cn  
+第一作者简介：翟石艳(1983-)，女，博士，博士生导师，主要从事空间优化、空间行为模拟等研究。E-mail: zsycenu@hotmail.com
+
+# 1.引言
+
+在社会经济加速转型发展中的中国，城市居民对生活质量的追求从基础的物质条件转向更深层次的生活品质。然而，随着城镇化的快速推进，城市人口快速增长，致使城市公共服务失衡，城市义务教育、基础医疗、公共交通、绿色空间等资源供应不足，且在城市内部存在空间供应和结构性差异等问题[。“基本公共服务均等化水平明显提高"是我国"十四五"时期经济社会发展主要目标之一，因此，评价及改进城市公共服务设施空间布局、服务质量和公平性具有现实意义。
+
+可达性是评价公共服务公平性的一个重要指标。Hansen(1959)[2首次提出可达性概念，即"网络中各节点相互作用的机会大小”，基于此研究可达性与城市土地利用之间的关系。随着地理空间技术的快速发展，部分学者从空间角度对可达性的概念进行解读，定义“空间可达性"为"基于某种交通方式从一个地方到一个目的地的便捷性"[3-4]或"互动机会的潜力”[5-6]。这一概念逐渐成为衡量公共服务设施公平性的重要依据，被广泛的应用于医疗设施[7-8]、公共绿色空间[9-12]、教育设施[13]、交通设施[14-16]的公平性和空间布局的研究中[17-20]。
+
+目前，空间可达性测度方法主要包括供需比法、最近距离法、重力模型法、累积机会测度和两步移动搜索法(two-step floating catchment area method,2SFCA)等[17-23]。这些方法具有计算简单、使用方便的特点，得到了广泛应用，但是也存在各种不足。例如，供需比指标仅可以反映区域间的公共服务设施可达性的差异[24]。最近距离法假设居民总是选择最近的公共服务设施，忽略设施的服务能力[25]。2SFCA 方法较好地考虑了供给和需求，但出行时间或距离阈值的设定对结果影响较大[8,10,23]。
+
+因此，本文提出了一个基于最优供需分配的公共设施空间可达性测算方法，试图取代现有方法。基本思路是：利用优化模型将设施服务分配给需求者，根据分配结果计算空间可达性指标。案例实验表明所提出的可达性计算方法计算效率高，统计指标物理意义明确，适用于公共服务设施的可达性分析与布局优化改进。
+
+# 2．文献回顾
+
+供需比法是测度一定地域范围内(如以地级市、县为单元)设施的供给量与需求量的比值[24]。该方法假定，一定地域范围内的设施只服务于该范围内的人，不考虑边界范围以外的人被服务情形。所得的比值越大，说明该地域范围内设施的总体可达性越好。综合考虑了供给方和需求方的量的大小，但无法揭示所研究单元内部可达性的空间差异，而且也无法体现供给双方跨地域单元的相互作用。主要评估大尺度省、市、县之间以及城乡之间的公共服务资源分布差异。
+
+最近距离法是通过计算研究对象到最近设施的距离来测度研究可达性。该方法假设人们总是喜欢访问离自己最近的设施[25]。常用的距离度量包括欧式距离、路网距离和时间距离。其中，欧式距离是研究对象和设施点之间的直线距离。该方法计算比较简单，思路清晰，但是无法反映供应和需求之间的匹配比，也无法反映其它设施点对研究对象的可达性。
+
+潜力模型法考虑了研究目标点和设施间的空间相互作用[2]。假设，目标点的可达性与设施的服务能力(供给规模，如医生数量、医院病床数)成正比，与两者间的距离成反比。早期，该模型忽略了需求点的属性,如人口规模。另外，距离衰减系数的设置对计算结果影响较大。Joseph 等[24]和 Shen[26]在重力模型基础上，加入了对需求方的考虑，所构建的可达性模型可以反映供应方和需求方之间的关系。程敏等[27]对研究医疗设施可达性应用中，对设施周围服务人口与设施服务能力之间的竞争纳入考虑范围。
+
+2SFCA包括简单2SFCA、增强 E2SFCA、可变搜寻区V2SFCA、广义G2SFCA、重力2SFCA 等，综合考虑供给和需求，通过设定出行时间或距离阈值，计算特定地点可访问设施(或资源)的数量。阈值内的设施越多，可达性越好。简单2SFCA用二分法来处理距离衰减。仅考虑了阈值范围内的供给点，阈值范围以外的供给点未予以考虑。并假设阈值范围内的供给点，无论距离远近，对需求点的可达性有着同等的影响。之后，部分学者采用出行时间分段赋予权重[28-29]、可变搜寻区[30-31]、核密度函数[32]和高斯函数[33]等来刻画距离衰减问题。重力2SFCA将各种距离衰减函数(幂函数型、指数型和对数型等)引入到 2SFCA 中[34-35]。2SFCA的问题在于阈值时间或距离设定，以及距离衰减参数 $\beta$ 的取值。参数 $\beta$ ，阈值时间或距离设定不同，结果差异较大[28,29,36-37]。
+
+旅行时间/距离是空间可达性计算的关键因子之一。通常受到两个主要因素的影响，一是不同交通模式的选择，二是道路的实际通行速度。传统情况下，距离常采用静态的供给点和需求点间的OD 距离来衡量。随着大量开源的交通时空大数据的涌现，部分学者[36-37]，结合互联网地图服务平台所公开的实时电子网络地图数据和道路导航数据，利用实时交通时间来代替静态网络距离，更加准确的刻画旅行时间。进而对传统的空间可达性方法进行修订。Rong 等[36]发展了基于地图API的潜力模型，刻画居民点和医疗设施点间的实时交通距离，评估郑州市医疗设施空间布局的合理性。王奇[37]，以上海市为例，探讨了在互联网地图服务支持下，城市多交通模式和不同交通出行方式下的城市医疗服务的可达性。但是，通常存在与公共服务设施和需求方相关的高质量时空大数据难以获取等方面的问题。
+
+# 3．最优供需分配模型
+
+本文基于最优供需分配结果计算空间可达性。在一个地理区域内，令集合 $V = \{ 1 , 2 \dots , \mathrm { m } \}$ 表示 $m$ 个需求点，每个需求点上的属性 $d _ { i }$ 表示需求量；集合 $U = \{ 1 , 2 \ldots , \mathtt { n } \}$ 表示 $n$ 个供给点，每个供给点上的属性 $q _ { j }$ 表示服务供给量；变量 $d _ { i j }$ 表示供给点i和需求点j之间的距离。引入决策变量 $\cdot x _ { i j }$ 表示设施 $j$ 为需求点 $i$ 提供的服务量，可构建最优供需分配线性规划模型：
+
+Minimize
+
+Subject to
+
+$$
+\begin{array} { r l } & { \sum _ { \forall i \in V } \sum _ { \forall j \in U } d _ { i j } x _ { i j } } \\ & { \sum _ { \forall j \in U } x _ { i j } = d _ { i } , \forall i \in V } \\ & { \sum _ { \forall i \in V } x _ { i j } \le q _ { j } , \forall j \in U } \\ & { x _ { i j } = \{ 0 , 1 , 2 \dots \} , \forall i \in V , \forall j \in U } \end{array}
+$$
+
+其中，公式(1)为目标函数，表示最小化旅行成本；式(2)保证对于任一需求点，到所有供给点访问的需求量等于该点总需求量；式(3)保证每一个设施分配的服务量不超过其供给量。
+
+模型(1)-(4)本质上是一个运输问题(transportation problem)模型。运输问题是把某种商品从若干个产地运至若干个销地而使总运费最小的一类问题，是运筹学中的经典问题之一。该问题具有特殊的结构，即设施与需求构成二部图、约束条件矩阵是完全么模矩阵，从而使该问题的求解较为容易。首先，可以使用线性规划方法进行求解，其最优解能够保证变量 $x _ { i j }$ 为整数。同时，也可以采用更简单的表上作业法进行求解，如西北角法(左上角法)、元素差额法(VAM)。基于这些方法获得初始解，进一步采用闭回路法[41]、位势法[42]获得最优解。
+
+基于模型求解结果进行空间可达性测算。运输问题模型以最优的方式将设施服务分配给需求者。根据模型计算获得的供需关系，可以灵活地统计公共设施服务指标，并制作各种专题地图。主要服务指标包括：人均使用服务旅行时间、各需求点使用服务旅行时间、各设施使用者的平均旅行时间、特定半径内的服务覆盖率等。这些指标不仅可以评价各区位获取服务的便捷程度，也可以判断设施服务能力是否充足、设施区位是否合理。
+
+应当注意，以上模型假设设施服务能力大于总需求。若这一条件无法满足时，模型无解。针对这一情况，可考虑两种解决方案。一是假设服务设施超负荷运行，按比例调整供给点的服务能力，使服务供应量等于或大于总需求；二是假设部分需求不能得到满足，调整模型求解，模型修订如下：
+
+$$
+\begin{array} { r l } & { \sum _ { \forall i \in V } \sum _ { \forall j \in U } d _ { i j } x _ { i j } } \\ & { \sum _ { \forall j \in U } x _ { i j } \le d _ { i } , \forall i \in V } \\ & { \sum _ { \forall i \in V } x _ { i j } = q _ { j } , \forall j \in U } \\ & { x _ { i j } = \{ 0 , 1 , 2 \dots \} , \forall i \in V , \forall j \in U } \end{array}
+$$
+
+作者在Python3.8环境中，开发了基于最优供需分配的公共设施空间可达性计算工具。该工具读取在GIS 中准备好的数据，建立案例模型，然后使用开源CBC MIP 求解器(https://github.com/coin-or/cbc)进行模型求解。该工具及实验数据见 htpx://github.org/xxxxx。
+
+# 4．案例分析
+
+# 4.1案例数据
+
+本文以郑州市某区为例，利用基层社区卫生服务中心和小区尺度人口数据，采用基于最优供需分配和2SFCA方法进行可达性计算及结果对比。郑州市某区总面积约242平方公里，全区辖24个街道，1333个小区，约161万人，25个社区卫生服务中心。实地调查，获得每个社区卫生服务中心服务范围和小区尺度人口数据。收集研究区街道边界、社区卫生服务中心空间分布、居住小区空间分布等数据(2020 年)，在 ArcGIS 中整理为地理图层(图1)。
+
+![](images/08ba3a8aec631568a41f3a5e5d2944dcb0452beaa942dbfee5db339dbde1e4a1.jpg)  
+图1案例区示意图
+
+根据郑州市某区25个社区卫生服务中心实际服务情况，计算服务中心和实际服务小区的OD 时间成本矩阵，统计步行15分钟阈值内各小区点获取基层医疗服务空间可达性，见图2。只有距离服务中心较近的小区居民，可在15分钟内到达社区卫生服务中心，占比$4 6 . 5 7 \%$ ，超过一半的居民 $( 5 3 . 4 3 \%$ 无法到达。
+
+![](images/708243d5beb443f88f457fcc811643bde972faaf154fe4865c5492752715e690.jpg)  
+Fig.1The studyareain Zhengzhou,China   
+图2医疗服务现状(2020)  
+Fig.2 The healthcare centers and their service areas in 2020
+
+参考社区卫生服务中心服务能力标准(2018)[43]，建筑标准为1400平方米，服务人口3-5万；1700平方米，服务人口为5-7万；2000平方米，服务人口7-10万。结合研究区卫生服务中心服务能力各项指标(建筑面积、床位设置、人员配备等)，如果将每个服务中心的服务人口均提高至服务能力上限，可计算每个服务中心的供需匹配差额，见图3。10个服务中心存在明显供给量不足，个别中心的供给量缺口较大，如22、4、9和12号中心，其中9号服务中心缺口甚至达到 $60 \%$ 。14个服务中心存在明显供给量冗余，其中25号和17号服务中心的冗余分别达到了 $5 7 . 1 \%$ 和 $4 6 . 5 \%$ 。
+
+![](images/1d6edcf30f8f4e7ac5412c819f3274f11faedb02506dc87a24f7a87489668009.jpg)  
+图3医疗服务冗余或短缺  
+Fig.3The service redundant or shortage for healthcare centers
+
+# 4.2最优供需分配
+
+本节基于最优供需分配评估服务可达性。首先，在ArcGIS中准备案例数据，包括社区卫生服务中心空间位置及其服务能力，居住小区空间位置及其人口规模。其次，计算供应点和需求点的曼哈顿距离，获得OD 时间成本矩阵。第三，构建最优供需分配模型，使用CBC开源线性规划求解器对模型求解。最后，计算可达性指标，包括每个需求点使用服务旅行时间、特定半径内 $( < 5 \operatorname* { m i n } , 5 - 1 0 \operatorname* { m i n } , 1 0 - 1 5 \operatorname* { m i n } , > 1 5 \operatorname* { m i n } )$ 的服务覆盖率等。
+
+实验计算环境：HP桌面计算机，配置Inter $\textsuperscript { \textregistered }$ CoreTMi7-7700 CPU 和 8GB内存,Window10 操作系统，安装Python3.8、ArcGIS10.2和CBC 开源线性规划求解器。CBC 模型求解时间为2.2s，获得最优解。
+
+表2显示，案例区只有 $4 6 . 5 7 \%$ 的居民可以在15分钟步行范围内到达社区卫生服务中心，该比例远远低于国家所规定的 $80 \%$ 的居民"15分钟到达医疗点"的目标[44]。利用本文所提出的基于供需最优分配的就医可达性计算方法，分别按照现有每个服务中心的服务能力和最大上限的服务能力，对服务中心的覆盖范围和居民就医的服务中心进行重新分配，可达性计算结果见图4(a)和4(b)。图4(a)和表2显示，依据服务中心的现有服务能力，重新匹配服务覆盖范围，15分钟内到达服务中心的居民数明显提高，占比 $5 3 . 2 2 \%$ 。图4(b)和表2 显示，若依据国家社区卫生服务中心建设标准，将服务中心的现有服务能力提高至上限，15分钟内到达服务中心的居民数达到 $54 . 8 6 \%$ 。相对服务中心现状而言，基于空间服务最优分配的可达性方法，有效缓解了供需平衡问题。
+
+![](images/7cf443df574a817f3557bd099ffcba6421a2a400cc0e935eb581dc2b2de907bc.jpg)  
+图4医疗服务最优分配结果  
+Fig.4 The optimal allocation of the healthcare services
+
+表2不同时间阈值下医疗服务覆盖统计  
+Tab.2 The coverage percentages of the healthcare service within diferent time thresholds   
+
+<html><body><table><tr><td colspan="3">实际服务能力最优分配</td><td colspan="2">最大服务能力最优分配</td><td colspan="2">服务现状</td></tr><tr><td>分类(Min)</td><td>人数(人)</td><td>(%)</td><td>人数(人)</td><td>(%)</td><td>人数(人)</td><td>(%)</td></tr><tr><td><5</td><td>134038</td><td>8.29</td><td>141442</td><td>8.75</td><td>120419</td><td>7.45</td></tr><tr><td>5~10</td><td>368009</td><td>22.76</td><td>385789</td><td>23.86</td><td>321689</td><td>19.89</td></tr><tr><td>10~15</td><td>358494</td><td>22.17</td><td>359843</td><td>22.25</td><td>310973</td><td>19.23</td></tr><tr><td>>15</td><td>756538</td><td>46.78</td><td>730005</td><td>45.14</td><td>863998</td><td>53.43</td></tr></table></body></html>
+
+# 4.3两步移动搜索法
+
+采用 2SFCA计算需求点的可达性，首先以服务中心为核心，计算15分钟步行阈值范围内所有居民点，计算搜寻区内的卫生服务中心和人口数之比。第二步，以每个小区为中心，搜寻阈值时间范围内的服务中心数量，将搜寻区内的各服务中心的比率加和，得到每个小区的就医可达性。
+
+基于简单 2SFCA、高斯 2SFCA 和重力衰减 2SFCA 分别计算步行15 分钟(步行速度${ \bf \tau } = 7 2 \mathrm { { m } / \mathrm { { m i n } } } )$ 时间阈值内各小区点获取基层医疗服务空间可达性。对重力衰减2SFCA模型而言，距离衰减参数 $\beta$ 对其可达性结果影响较大。参考文献 [45'46'37]，本文对 $\beta$ 参数取1、1.2、1.5、1.8、2这四种情况。为便于分析，本文根据自然断点法，将可达性计算结果分为差 $( < 0 . 4 )$ 较差(0.4-0.8)、一般(0.8-1.2)、较好(1.2-1.6)和好 $( > 1 . 6 )$ ，并对以上六种模型的结果进行对比分析。图5显示，不同方法计算的可达性结果呈现出类似的空间特征，研究区“15分钟”基层医疗服务可达性呈现出明显的圈层结构。人口密集的文化路、丰产路、京八路、花园路街道所在的老城区可达性较好，而外围街道的医疗可达性较差。尤其是郑东新区基层医疗服务中心较少，小区“15分钟”步行获取基层医疗服务可达性较差，部分小区的可达性为0。
+
+![](images/4db75e640c53e71f79379185379123e0f606a57d3db9dfb7157291f9278b75de.jpg)  
+图5基于2SFCA“15分钟”步行搜索半径下医疗服务可达性分布图  
+Fig.5 Maps of accessbility to healthcare services assessed by 2SFCA with "15-minute" search radius
+
+表3显示，基于简单2SFCA，15分钟步行搜索半径下基层医疗服务空间可达性良好的居民，占比为 $3 0 . 8 9 \%$ ；高斯2SFCA显示，医疗服务空间可达性良好的居民，占比为 $3 2 . 2 9 \%$ 。重力2SFCA计算结果随 $\beta$ 取值不同而差异较大。随 $\beta$ 取值增加，医疗服务空间可达性“较好”和“好”这两个级别的居民占比呈逐渐下降趋势，分别为 $2 8 . 5 7 \% ( \beta { = } 1 )$ 、 $2 6 . 2 6 \% ( \beta { = } 1 . 2 )$ 、$2 2 . 3 7 \% ( \beta { = } 1 . 5 )$ 、 $1 7 . 5 6 \% ( \beta = 1 . 8 )$ 和 $1 5 . 7 5 \% ( \beta = 2 )$ 。
+
+表3基于2SFCA“15分钟”步行搜索半径下医疗服务可达性统计  
+Tab.3 Statistics of the accessibility to healthcare services within a "15-minute" walking search radius by 2SFCA   
+
+<html><body><table><tr><td rowspan="2">可达性 计算方法</td><td><=0.4</td><td>0.4-0.8</td><td>0.8-1.2</td><td>1.2-1.4</td><td>>1.4</td></tr><tr><td>差</td><td>较差</td><td>一般</td><td>较好</td><td>好</td></tr><tr><td>简单2SFCA</td><td>42.82%</td><td>4.12%</td><td>22.16%</td><td>7.94%</td><td>22.95%</td></tr><tr><td>高斯2SFCA</td><td>51.51%</td><td>6.63%</td><td>9.57%</td><td>7.97%</td><td>24.32%</td></tr><tr><td>重力 2SFCA(β=1)</td><td>43.43%</td><td>17.26%</td><td>10.75%</td><td>6.95%</td><td>21.62%</td></tr><tr><td>重力2SFCA(β=1.2)</td><td>46.01%</td><td>19.13%</td><td>8.60%</td><td>7.44%</td><td>18.82%</td></tr><tr><td>重力2SFCA(β=1.5)</td><td>52.93%</td><td>15.63%</td><td>9.06%</td><td>7.34%</td><td>15.03%</td></tr><tr><td>重力 2SFCA(β=1.8)</td><td>59.97%</td><td>13.54%</td><td>8.93%</td><td>3.93%</td><td>13.63%</td></tr><tr><td>重力2SFCA(β=2)</td><td>63.60%</td><td>14.09%</td><td>6.56%</td><td>3.10%</td><td>12.65%</td></tr></table></body></html>
+
+# 5．结论与讨论
+
+本文在综合考虑公共服务设施供需不平衡前提下，采用经典的运输问题模型确定最优的服务供需分配方案，进而度量服务的空间可达性。并以郑州市某区社区卫生服务为例，采用两步移动搜索法和最优供需分配模型，求解可达性。案例研究表明：1)本文所提方法计算简单，求解高效，使用CBC求解器，模型计算时间约为2.2s。也可采用CPLEX、GUROBI等商用软件计算，计算时间约为 $0 . 2 { \sim } 0 . 3 \mathrm { s } _ { \circ } \ 2 _ { , } ^ { \cdot }$ 与传统的公共服务设施空间可达性度量方法(潜力模型和累积模型等)相比，最优供需分配模型在衡量设施空间可达性方面具有诸多优势。该模型运算不涉及参数选择，其计算结果物理意义明确。可灵活地用于统计公共设施服务指标(如人均使用服务旅行时间、各需求点使用服务旅行时间、各设施使用者的平均旅行时间、特定半径内的服务覆盖率等)，制作各种专题地图。有效衡量公共服务设施供给与需求空间分布差异性以及供给能力和需求的差异性，识别空间上设施可达性较差区域。能够弥补现有方法的不足。在公共服务设施空间布局优化和可达性评估研究中具有普适性。
+
+也应当注意本文案例数据的局限性。在"15分钟社区生活圈"内，现有社区卫生服务覆盖人口的比例明显低于国家所计划的目标，原因可能是数据采集不完备、人口数据不够精确等。为更好地满足社区卫生服务覆盖及便捷性要求，未来的研究工作聚焦于服务设施的服务区划分及服务设施布局调整优化。进一步研究工作包括：扩充现有设施的容量、增加新建设施、调整现有设施位置等方式，提高设施服务范围。
+
+# 参考文献(References)
+
+[1]XieLjian,ZhouSuhong.AnalysisofthecharacteristicsofGuangzhouresidents'inter-citycommutingunderregional integration.Urban Insight,2010.(04):85-93.[解利剑，周素红.区域一体化下的广州市居民城际通勤特征分析．城市 观察,2010,(04): 85-93.]   
+[2]Hansen,WalterG.Howaccesibilityshapeslanduse.JouraloftheAmerican InstituteofPlanners,1959,25(2):73-76.   
+[3]DalviM.Q.,MartinK.M.Themeasurementofaccesibility:Someprelimnaryresults.Transportation,1976,5(1):17-42.   
+[4]JrvO,TenkanenH,SalonenM,etal.Dyamiccities:Locatio-basedaccessibilitymodelingsafunctionof tie.ppled Geography,2018,95:101-110.   
+[5]Mei-Po,Kan,Jo,tal.didalcesbilityvsiedplicaogogapcalalysisietetyur Geographical Analysis, 2003.   
+[6] Zhang，Qiuyi，Northridge,etal.Modelingaccessbilityof screening and treatment facilities forolder adults using transportation networks. Applied Geography,2018,93: 64-75.   
+[7]Luo W,Wang F.Measures of spatial accessibilityto health care in a GIS environment: synthesisand acase studyin the Chicago region. Environment & Planning B Planning & Design, 2003,30(6): 865-884.   
+[8]Mcgrail MR,Humphreys JS.Humphreys.Measuring spatial accessibility to primarycare inruralareas: Improving the effectiveness of the two-step floating catchment area method.Applied Geography,2009,29(4): 533-541.   
+[9] Guo S,SongC,PeiT,etal.Accessibilitytourbaparks forelderlyresidents: Perspectives frommobile phonedata.Landscape and Urban Planning,2019,191: 103642.   
+[10] WuJ,ChenHWangH,etal.Willteopeningcommunityoicyimprove thequityofgnaccesibilityandinatways? Response basedona 2-step floating catchment area methodand genetic algorithm. Journal of Cleaner Production,2020, 263: 121454.   
+[11] XiaoYang,WangDe,Fang Jia.Exploringthedisparities inparkaces through mobilephonedata:Evidencefrom Shanghai, China. Landscape and Urban Planning,2018,181(C): 80-91.   
+[12]Chen Y,Yue W,RosaDL. Wichcommunities have beteracessbilitytogreenspace?Aninvestigationintoenviroental inequality using big data.Landscape and Urban Planning,2020,204: 103919.   
+[13]Han Zenglin,Dong Mengru,LiuTianbaoetal.Spatialaceibilityvaluationandlayoutoptimizationofbasicducation facilities incommunitylife circle: Acase studyof Shahekouin Dalian.Scientia Geographica Sinica,2O2o,40(11):1774- 1783.[韩增林，董梦如，刘天宝，等．社区生活圈基础教育设施空间可达性评价与布局优化研究——以大连市沙河 □区为例．地理科学,2020,40(11):1774-1783.]   
+[14]AndersonF,HaltiwangerJ,KutzbachMJ,etal.Jobdisplacementandthedurationof joblessness:Theroleofspatial mismatch. Social ence Electronic Publishing,2014,27(4): 15.   
+[15]ElgeneidyA,Levinson D.Placerank: Valuingspatialinteractions.Networks & SpatialEconomics,2O11,1(4):64-659.   
+[16]KorsuE.，WenglenskiS.Jobacessibilityresidentialsegregationandriskoflong-terunemployment intheParisegion Urban Stud,2013,47(11): 2279-2324.   
+[17]Wan N,Zou B,Sternberg T.A3-step floatingcatchmentarea method foranalyzingspatial access tohealthservices. International Journal of Geographical Information Science,2012,26(5-6):1073-1089.   
+[18]Yiannakoulias N,Bland W,SvensonL W.Estimating theeffectofturn penalties and traficcongestion on measuringspatial accessibility to primary health care.Applied Geography,2013,39: 172-182.   
+[19]Lucas K,Van WeeB,Maat K.Amethodtoevaluateequitableaccessibility:Combiing ethical theoriesandaccessibility based approaches. Transportation,2016,43(3): 473-490.   
+[20]TalenE.,AnselinL.Assssngspatial equity:anevaluationofmeasuresofaccessbilitytpublic playgrounds.Envioment & Planning A,1998,30(4): 595-613.   
+[21] XiaN,ChengL,Chen S,etal.Accessbility basedonGravity-Radiation modeland Google Maps API: Acase studyin Australia. Journal of Transport Geography,2018,72: 178-190.   
+[22]LakhaniA,ParekhS,GudesO,etal.DisabilityupportservicesinQueensand,Australia: Identifyingservicegapsthough spatial analysis.Applied Geography,2019,110:102045.   
+[23] Shi Xun,WangFahui.AplicationofGeospatial Information Technologies inthePublic Health.Beijing:HigherEducation Pres,2016:183-186.[施迅，王法辉．地理信息技术在公共卫生与健康领域的应用．北京：高等教育出版社,2016: 183-186.]   
+[24]JosephA.E.,Bantock P.R.Measuring potentialphysicalaccessbilityto generalpractitioners inralareas: Amethodand case study. Social Science & Medicine,1982,16(1): 85-90.   
+[25] Tracy O,Eric JD,Xun S,et al. Geographic accessto cancer care in the U.S.Cancer,20o8,112(4).   
+[26]ShenQ.Location characteristicsof inner-cityneighborhoodsand employment accesibilityof low-wage workers. Environment and Planning B,1998, 25.   
+[27]Cheng Min,Lian Yuejiao.Spatialaccesibilityof urban medicalfacilies basedonimproved potential model: Acasestudy of Yangpu District in Shanghai.Progressin Geography,2018,37(O2): 266-275.[程敏，连月娇．基于改进潜能模型的城 市医疗设施空间可达性—一以上海市杨浦区为例．地理科学进展,2018,37(02):266-275.]   
+[28]Luo W,QiY.Anenhanced two-stepfloatingcatchmentarea (E2SFCA)methodformeasuring spatialaccessibilitytoprmary care physicians.Health & Place,2009,15(4): 1100-1107.   
+[29]McgrailMR,HumphreysJS.Measuringspatialacesibilitytoprimarycareinuralareas: Improvingtheefectiveessof the two-step floating catchment area method. Applied Geography,2009,29(4): 533-541.   
+[30]Luo W,WhippoT.Variablecatchmentsizesforthetwo-stepfloatingcatchmentarea (2SFCA)method.Health &Place,2012, 18(4): 789-795.   
+[31] Yang DH, Goerge R,MullnerR.Comparing GIS-based methodsof measuring spatialacesibilitytohealth services.Joual of Medical Systems,2006,30(1): 23-32.   
+[32]GuagliardoMF.Spatial accessibilityof primarycare:concepts,methodsandchalenges.International Journalof Health Geographics,2004,3(1): 3.   
+[33]DaiD.Blackdetalsgaiospaitiatialctealtarcindlatetaebstceoi in metropolitan Detroit.Health & Place,2010,16(5):1038-1052.   
+[34]Wang Chengjin.Function simulationandregularityof distancedecayof inter-urbantrafic flow in China.Progressin Geography,2009,28(05):690-696.[王成金．中国交通流的衰减函数模拟及特征．地理科学进展,2009,28(05): 690- 696.]   
+[35]LiuYu,GongLi,Tong Qingxi.Quantifyingthedistanceefectinspatialinteractions.Acta ScientiarumNaturalium Universitatis Pekinensis,2014,50(03):526-534.[刘瑜，龚俐，童庆禧．空间交互作用中的距离影响及定量分析．北京 大学学报(自然科学版),2014,50(03):526-534.]   
+[36]Rong P,Zheng Z,KwanMP,etal.Evaluatioofthespatialequityofmedicalfacilitiesbasedonimproved potentialmodel and map service API: A case studyin Zhengzhou, China.Applied Geography,2O2O:102192.   
+[37] Wang Qi.Accessibilityanalysis of medical services in Shanghai basedon improved 2SFCA[D]. Wuhan: Wuhan University, 2019.[王奇．基于改进两步移动搜索法的上海市医疗服务可达性分析[D]．武汉：武汉大学,2019.]   
+[38]Departmentof Health and Human Services.Designationof medicall underserved populations and health professional shortage areas: Proposed rule.http://bhw.hrsa.gov/shorted/proposedrule/,2O14-01-23   
+[39]WeibullJW.An axiomatic approach to the measurement ofacesibility.Regional Scienceand Urban Economics,1976.   
+[40]Cui B,BoisjolyG,Miranda-MorenL,etal.Acesibilitymaters:Exploring thedetermnatsofpublictrasportmodeae across income groups inCanadian cities.TransportationResearchPartD:TransportandEnvironment,O2o,80:10276.   
+[41]JiangDaoqi.PracticalLinearProgrammingMethodand its Supporting System.Beijing:Tsinghua UniversityPress,2006: 193-197.[江道琪．实用线性规划方法及其支持系统．北京：清华大学出版社,2006:193-197.]   
+[42]Fu Jialiang.Operations Research Methodsand Models.Shanghai: Fudan UniversityPress,2014:118-121.[傅家良．运筹学 方法与模型．上海：复旦大学出版社,2014:118-121.]   
+[43]National Health Commissionof the People's Republicof China.Noticeofthe National Health Commisionandthe State Administration of Traditional Chinese Medicine on carying out "High-quality Service Grassroots Actions". http://www.nc.gov.cn/jws/s7882/201809/d77cd05877b84909b0bd0e8b92a3e5f8.shtml,2018-08-22[中华人民共和国国 家卫生健康委员会．国家卫生健康委员会、国家中医药局关于开展“优质服务基层行”活动的通知. http://www.nhc.gov.cn/jws/s7882/201809/d77cd05877b84909b0bd0e8b92a3e5f8.shtml,2018-08-22]   
+[44] National Health and Family Planning Commisson of the People's Republic of China. More than $80 \%$ of residents can reach the nearest medical point within 15 minutes. http://www.nhc.gov.cn/libin/mtbd/201710/d25a52d908b64ba492dcd212b5a91b86.shtml,2017-10-22[中华人民共和国国 家卫生何计划生育委员会. $80 \%$ 以上居民15分钟内就能到达最近的医疗点. http://www.nhc.gov.cn/libin/mtbd/201710/d25a52d908b64ba492dcd212b5a91b86.shtml,2017-10-22]   
+[45]TaoHaiyan,ChenXiaoxiang,LiXia.Researchospatialacesibilitytoealthservice—AcasestudyintheHzuDistrict of Guangzhou.Geomatics & Spatial Information Technology,2007,(1):7-11.[陶海燕，陈晓翔，黎夏．公共医疗卫生服 务的空间可达性研究—一以广州市海珠区为例．测绘与空间地理信息,2007,(1):7-11.]   
+[46] Wang Yuanfei.GSand Voronoi polygonbased publichealthcareaccessbilityanalysis.Geomatics&Spatial Information Technology，2006,29(003):77-80.[王远飞.GIS与Voronoi多边形在医疗服务设施地理可达性分析中的应用．测绘与 空间地理信息,2006,29(003):77-80.]

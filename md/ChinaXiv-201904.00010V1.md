@@ -1,0 +1,274 @@
+# 一种基于LoRaWAN的自适应多帧高效传输方法
+
+任智，秦军，姜楠，王坤龙(重庆邮电大学通信与信息工程学院，重庆 400065)
+
+摘要：针对 LoRaWAN(long range wide area network)协议中LoRa 网关与LoRa 终端间数据多帧传输方式存在控制开销和传输时延较大的问题，提出一种基于LoRaWAN的自适应多帧高效传输方法(adaptive multi-frame efficienttransmission，AMFET)，包含自适应多帧发送机制、自适应多帧接收确认机制和丢帧识别机制。自适应多帧发送机制对需确认数据消息设置优先等级，对高级需确认数据消息进行立即确认，对低级需确认数据消息在自适应发送模式结束后统一进行确认，同时将Fpending 机制引入LoRaWAN上行多帧传输；自适应多帧接收确认机制通过位向量压缩技术记录已接收数据帧信息，从而单次对多个需确认数据消息进行合并确认；丢帧识别机制利用需确认帧编号(confirmed data identity，CDID)识别低级需确认消息是否丢失，避免终端异常进入休眠模式。通过数学分析和实验测试，分别对AMFET方法的性能进行了理论验证和实验验证，验证结果表明，相对于原LoRaWAN 多帧传输方式，AMFET方法在保证数据传输可靠性的前提下，有效降低了数据传输时延和数据传输能耗。
+
+关键词：LoRaWAN协议；Fpending 机制；位向量压缩；自适应多帧传输；合并确认 中图分类号：TN915.06 doi:10.19734/j.issn.1001-3695.2018.11.0840
+
+Method of adaptive multi-frame efficient transmission based on LoRaWAN
+
+Ren Zhi, Qin Jun+, Jiang Nan, Wang Kunlong (School ofCommunication& Information Engineering,Chongqing UniversityofPosts &Telecommunications,Chongqing 400065, China)
+
+Abstract:As for the problem thatthecontroloverheadand transmision delayare large in multi-frame transmissionmode between LoRa gatewayand LoRa terminal in LoRaWAN protocol,thispaper proposed an adaptive multi-frame transmission method，which includes adaptive multi-frame sending mechanism，adaptive multi-frame receiving confirmation mechanism and frame lossrecognition mechanism.The first mechanism sets priority level of the confirmed mesages,itmakeconfirmimmediatelyforhigh-levelconfirmed messages,andconfirms forlow-levelconfirmedmessges uniformlyafterthe endof adaptivesending mode.Atthe same time,theFpending mechanismis introduced into LoRaWAN uplink multi-frame transmission.The second mechanism records the received message frame informationby bit vector compression technology，so as to merge confirm for multiple confirmed messages once.The third mechanism uses the CDID valueto identify whether thelow-lvelacknowledgment messge islost,and prevents the terminalfromentering the sleep mode abnormaly.The mathematical analysis and experimental test results show that the AMFET mechanism can efectively reduce data transmission delay and data transmision energy consumption on the premiseof guaranteeing the reliability of data transmission compared to the original mechanism.
+
+Key words:lorawan protocol; fpending mechanism;bit vectorcompression；adaptive multi-frame transmission;mergec confirm
+
+# 0 引言
+
+低功耗广域网[1(low powerwide area network，LPWAN)是一种解决物联网远距离、低功耗通信需求的物联网技术，它的出现弥补了传统M2M技术[2]和无线传感网络技术[]的不足，实现了广泛的物联网应用及物联网设备间的互连通信。LoRa 技术[4-6]作为一种新型的LPWAN无线通信技术，它采用线性扩频调制技术，通过改变正交扩频因子可实现变数据速率传输，具有远距离、低功耗、抗干扰的通信能力。LoRaWAN协议[7,8]是LoRa联盟推出的一项基于开源的MAC层协议的低功耗广域网标准，它规定了LoRa网络的拓扑架构、设备角色、传输方案，是目前相对比较完整和可靠的一种LoRa 网络MAC层解决方案。
+
+根据不同的应用需求，LoRaWAN将终端设备划分为A、B、C三种等级模式[9,10]，其中A级模式为LoRa 终端默认支持的模式，终端为通信发起方，采用ALOHA方式[1传输消息，消息发送完毕立即进入休眠模式，功耗最低；B级模式通过信标使网关与终端同步，终端在调度时间内打开额外接收窗口，提高下行链路传输效率；C级模式原理相对简单，终端连续打开接收窗口，降低下行传输时延。A级模式的终端可根据实际需求切换到B级模式或C 级模式[12]，本文主要研究LoRaWAN的A级传输模式。
+
+在A级模式中，LoRaWAN协议针对LoRa网关与LoRa终端间的多帧传输提出一种Fpending 机制，该机制通过将消息中的Fpending 控制位标记为1(默认为0)，用于指示终端设备额外打开接收窗口，接收网关待发送的数据消息。这种机制虽然对多帧传输进行了相关的优化，但其控制开销和时延较大，传输效率相对较低。
+
+# 〉 LoRaWAN多帧传输及问题描述
+
+# 1.1LoRaWAN多帧传输原理
+
+在LoRaWAN多帧传输中，如图1所示，下行链路采用Fpending机制，通过Fpending控制位触发终端打开额外接收窗口；在上行链路中，发送一个消息后，等待两个接收窗口后立即进行下一消息的传输，或者当接收到一个下行消息后立即发送下一消息。多消息传输机制可分为需确认多消息传输和无须确认多消息传输[13]，从链路角度来看可分为上行多消息传输和下行多消息传输。
+
+数据1 数据2  
+网关 FP=1 FP=1←·····. .···-》 ↑········· ······ ....》  
+终端 数据 保眠 接收1 确认 休眠接收收休眠 空 休眠 接收1
+
+网关进行下行消息传输时，网关若有连续数据传输，则将Fpending位置为1，发送该消息后等待终端的响应消息。终端检测前导码，进行下行消息的接收，如果为需确认数据消息类型，则终端立即发送一个确认消息，休眠后打开两个接收窗口；如果消息为无须确认数据消息类型，则终端立即发送一个空消息，进入休眠模式，随后打开接收窗口。网关接收到终端的响应消息(确认消息/空消息)后，可以选择在两个接收窗口的任一窗口进行下一消息的传输。
+
+终端进行上行消息传输时，消息类型仍然分为需确认数据消息和无须确认数据消息两种类型。对于需确认数据消息类型，终端发送数据后进入休眠模式，随后打开两个接收窗□，等待接收确认消息。如果终端接收的消息为确认消息，则终端立即传输下一消息；如果终端在接收窗口1和接收窗□2两个窗口中均未接收到网关的确认消息，则终端在等待超时后对本条消息进行重传。对于无须确认数据消息类型，终端发送数据后打开两个接收窗口，只要其中一个接收窗口收到网关的消息，终端立即切换至发送模式，传输下一消息；否则，终端只有在接收窗口2结束后，才能传输下一消息。
+
+# 1.2问题描述
+
+在研究中发现LoRaWAN协议的多传输方式存在以下问题：
+
+a)在上行传输方案中，由于终端每次发送一个上行消息后都会打开两个接收窗口，用于接收网关发送的下行消息。若网关没有下行数据传输到终端，则终端将白白等待两个接收窗口的时间，影响终端数据的传输效率，增加传输时延和能耗。
+
+b)在下行传输方案中，当终端接收到Fpending位为1的消息时，为了继续接收网关下发的数据消息，终端需要发送一个空消息来触发其接收窗口的打开，这种传输方式不仅会造成控制开销的增加，也会影响下行数据消息的传输时延。
+
+c)在LoRaWAN传输方案中，对于多个需要确认的数据消息，网关/终端只有在收到当前数据消息的确认帧后才会继续发送下一个数据消息，但在有些应用场景下，应用数据对于时序要求并不严格，这些数据消息并不需要立即进行确认回复，因此，这种发前等待的确认机制会增加数据消息的整体传输时延。
+
+# 2 自适应多帧高效传输方法
+
+为了解决上述问题，本文提出一种基于LoRaWAN的自适应多帧高效传输方法AMFET，该方法包含自适应多帧发送机制、自适应多帧接收确认机制和丢帧识别机制。
+
+# 2.1自适应多帧发送机制
+
+自适应多帧发送机制的目标是为了提高发送端的数据消息传输效率，降低传输时延。其主要思路是将发送端数据消息分为高级需确认消息、低级需确认消息和无须确认消息，从而降低高级需确认消息的响应时延；通过Fpending机制提高下行多帧数据消息的传输效率，避免“空消息”触发机制带来的控制开销。
+
+自适应多帧发送机制具体内容如下：
+
+a)根据接收端对消息的响应，将发送端的消息类型分为三种：高级需确认数据消息、低级需确认数据消息和无须确认数据消息。高级需确认数据消息对时序性要求较高，接收端收到消息后必须立即回复确认帧；低级需确认数据消息对时序性要求较低，接收端收到消息后不需要立即回复确认帧，而是在多个消息帧发送结束后，进行合并确认，通过一个确认帧对多个消息帧回复；无须确认数据消息在传输过程中不需要等待确认帧。
+
+b)将原上行消息帧头部中帧控制域中的保留位(RFU)用于Fpending 控制，使得上行传输也可以采用Fpending机制来控制多帧消息的传输，如图2所示。
+
+1位 1位 1位 1位 3..0   
+下行消息 自适应速率 (ADR) 保留位 (RFU) 确认位 (ACK) (Fpending) 待发位 帧可选域长度 (FOptsLen) 1位 1位 1位 1位 3...0 自适应速率 自适应响应 确认位 待发位 帧可选域长度   
+上行消息 (ADR) (ADRACKReq) (ACK) (Fpending) (FOptsLen) 设备地址 帧控制域 帧计数域 帧可选域 帧头部(FHDR)
+
+![](images/f46f70af20d0779150a8090ac58a72f450303511503aacacb7eef90a6b8c1d2e.jpg)  
+图1LoRaWAN多帧传输模型  
+Fig.1 Lorawan multiframe transmission model   
+图2消息帧控制域  
+Fig.2Message frame control field   
+图3消息帧头部结构  
+Fig.3Message frame header structure
+
+c)将原MAC头部MHDR中的三位保留字段作为需确认帧编号CDID(confirmeddataidentity)字段，用于发送端标记其发送的需确认数据消息序号，如图3所示。
+
+自适应多帧发送机制具体步骤如下：
+
+a)当发送端(网关/终端)需要发送数据消息时，检测消 息类型，若为低级需确认数据消息类型，则将待确认消息帧 计数Cnt加1；若为高级需确认数据消息类型或无须确认数 据消息类型，则Cnt值保持不变。
+
+b)设置CDID值为当前待确认消息帧计数Cnt的值，执行下一步。
+
+c)检测发送消息是否为高级需确认数据消息，若为高级需确认数据消息，则设置Fpending位为0，发送数据消息，执行步骤5；若为低级需确认数据消息，则执行步骤d)。
+
+d)检测发送缓存区是否存在需要发送的数据消息，若存在，则设置Fpending 位为1，发送数据消息，执行步骤a);否则，设置Fpending位为0，发送数据消息，执行步骤e)。
+
+e)结束自适应多帧发送机制。
+
+# 2.2自适应多帧接收确认机制
+
+自适应多帧接收确认机制的目标是为了减少确认消息帧数量，降低传输控制开销。其主要思路是通过位向量模式存储数据消息接收状态信息，然后通过一个携带该位向量值的确认消息帧对多个数据消息进行一次确认回复。
+
+自适应多帧接收确认机制具体内容如下：
+
+a)在接收端设置一个8bit的数据接收状态向量DRSV(datareceivingstatusvector)，用于记录成功接收的需确认数据消息帧的状态，位向量中每一位元素的位置对应需确认数据消息帧的编号，元素值为1表示成功收到对应需确认数据消息帧，元素值为0表示未收到对应需确认数据消息帧，默认值为0，如图4所示。
+
+b7 b6 b5 b4 b3 b2 b1 b0
+
+b)在确认消息帧中通过数据接收状态映射字段DRSM(data receiving status mapping)存储需确认数据消息的接收状态信息，最多可表示8个需确认数据消息的接收状态，因此发送端一次自适应多帧发送流程最多允许传输8个需确认数据消息。
+
+自适应多帧接收确认机制具体步骤如下：
+
+a)接收端接收一个数据消息并检测消息类型，若为需确认数据消息，则提取消息帧头部MHDR中CDID的值，并将DRSV中对应CDID的元素设置为1；若为无须确认数据消息，则直接交由上层进行处理。
+
+b)检测Fpending位的值，若其值为1，则表示发送端仍有数据消息需要进行传输，接收端继续打开接收窗口，执行步骤a)；若其值为0，则表示发送端无后续数据消息需要进行传输，执行步骤c)。
+
+c)检测DRSV的值，若DRSV值为0，则说明接收端未接收到需确认数据消息，当数据消息接收完毕后，节点直接进入休眠模式或执行其他操作，执行步骤e)；否则，执行步骤d)。
+
+d)将确认消息帧的数据接收状态映射字段值设置为数据接收状态向量DRSV的值，将帧控制域FCtrl中的ACK位设置为1，然后发送该确认消息帧。
+
+e)结束自适应多帧接收确认机制。
+
+# 2.3 丢帧识别机制
+
+接收端只有在收到低级需确认消息时才需要通过DRSV向量记录消息帧接收状态，若DRSV的值为0，则表示未收到低级需确认消息。但是若传输过程中所有需确认消息发生丢包，而DRSV值也为0，此时接收端判定其无须回复确认消息帧，若接收端为终端，则会终端会直接进入休眠模式，造成发送端(网关)一直处于等待确认帧的状态。
+
+因此，提出一种基于CDID的低级需确认消息的丢帧识别机制，消息帧中CDID字段用于发送端标记其当前发送的需确认数据消息序号，其值与发送端待确认数据消息帧计数Cnt 保持一致。接收端收到数据消息帧后，通过CDID值可判断发送端在传输过程中是否发送了需确认数据消息以及发送了多少个需确认数据消息帧。若发送端发送了N个低级需确认数据消息帧和M个高级需确认数据消息，但这N个低级需确认消息帧在传输过程中全部丢失，此时虽然DRSV值为0，但接收端收到的最后一个消息帧中的CDID值并不为0，由此可确定发送端一定发送过需确认数据消息，此时终端必须回复一个确认帧，而不能立即进入休眠模式，影响后续数据消息的接收。
+
+# 3 算法数学分析
+
+本小节分别对AMFET机制的多帧传输能耗情况及多帧传输时间复杂度进行了数学分析。
+
+引理1AMFET机制的多帧传输能耗低于原LoRaWAN传输机制。
+
+证明假设网关节点总共发送 $N$ 条无须确认消息和 $N$ 条需确认消息。 $E _ { L 1 }$ 和 $E _ { L 2 }$ 分别表示LoRaWAN传输机制下传输无须确认消息和需确认消息的能耗， $E _ { A 1 }$ 和 $E _ { A 2 }$ 分别表示AMFET传输机制下传输无须确认消息和需确认消息的能耗。故有
+
+$$
+E _ { \scriptscriptstyle { L 1 } } = E _ { s _ { \scriptscriptstyle - t } } + N \big ( E _ { \scriptscriptstyle { t x } } + E _ { \scriptscriptstyle { s l e e p } } + E _ { s _ { \scriptscriptstyle - r } } + E _ { \scriptscriptstyle { r x _ { \scriptscriptstyle - n a c k } } } \big )
+$$
+
+$$
+E _ { L 2 } = E _ { s _ { - } t } + ( N + r ) \big ( E _ { t x } + E _ { s t e p } + E _ { s _ { - } r } + E _ { r x _ { - } a c k } \big )
+$$
+
+在 AMFET传输机制下，一个传输过程最多可发送8个消息帧，则 $N$ 个消息帧的传输可划分为 $k$ （ $k$ 为 $N$ 对8的取整)个发送过程，则有
+
+$$
+\begin{array} { r l } & { E _ { A 1 } = E _ { s \_ t } + k \left( 8 \times E _ { t x } + E _ { s l e e p } + E _ { s \_ r } + E _ { r x \_ n a c k } \right) } \\ & { \qquad + \left( N - 8 k \right) E _ { t x } + E _ { s l e e p } + E _ { s \_ r } + E _ { r x \_ n a c k } } \end{array}
+$$
+
+$$
+E _ { A 2 } = E _ { s \_ t } + k \left( 8 E _ { t x } + E _ { s l e e p } + E _ { s \_ r } + E _ { r x \_ a c k } \right)
+$$
+
+$$
++ \left( N - 8 k \right) E _ { t x } + E _ { s l e e p } + E _ { s _ { - } r } + E _ { r x _ { - } a c k }
+$$
+
+其中： $E _ { s _ { - } t }$ 表示睡眠模式切换到发送模式的切换能耗， $E _ { t x }$ 表示发送能耗， $E _ { s l e e p }$ 表示休眠能耗， $E _ { s _ { - } r }$ 表示休眠模式切换到接收模式的切换能耗， $E _ { r x \_ n a c k }$ 表示接收无须确认消息能耗，$E _ { r x \_ a c k }$ 表示接收需确认消息能耗， $\boldsymbol { r }$ 为重传次数。
+
+由式(1)(3)可得
+
+$$
+E _ { L 1 } - E _ { A 1 } = \left( N - k - 1 \right) \left( E _ { s l e e p } + E _ { s _ { - } r } + E _ { r x _ { - } n a c k } \right)
+$$
+
+由式(2)(4)可得
+
+$$
+E _ { L 2 } - E _ { A 2 } = r E _ { t x } + \left( N + r - k - 1 \right) \left( E _ { s l e e p } + E _ { s _ { - } r } + E _ { r x _ { - } a c k } \right)
+$$
+
+因为 $r \geq 0$ ， $N > k + 1$ ，由式(6)(7)可知， $E _ { A 1 } < E _ { L 1 }$ ， $E _ { A 2 } < E _ { L 2 }$ ，因此说明AMFET机制相对于原LoRaWAN传输机制在能耗上得到了优化，证毕。
+
+引理2AMFET机制的多帧传输时间小于原LoRaWAN传输机制。
+
+证明设单个消息包传输时间为 $t _ { 0 }$ (消息包长度和发送速率为固定值)， $T _ { L 1 }$ 表示LoRaWAN传输机制下传输多个无须确认消息包的时长， $T _ { A 1 }$ 表示AMFET传输机制下传输多个无须确认消息包的时长。则有
+
+$$
+T _ { L 1 } = t _ { s } + N \big ( t _ { 0 } + t _ { 1 } + t _ { 2 } + t _ { s } + t _ { 3 } \big )
+$$
+
+$$
+T _ { A 1 } = t _ { s } + N \big ( t _ { 0 } + t _ { 1 } \big ) + \big ( k + 1 \big ) \big ( t _ { 2 } + t _ { s } + t _ { 3 } \big )
+$$
+
+$$
+T _ { L 1 } - T _ { A 1 } = \left( N - k - 1 \right) \left( t _ { 2 } + t _ { s } + t _ { 3 } \right)
+$$
+
+其中： $t _ { s }$ 表示模式切换时间， $t _ { \mathrm { l } }$ 表示发送窗口持续时间， $t _ { 2 }$ 表示休眠窗口时间， $t _ { 3 }$ 表示接收窗口时间， $k$ 表示 $N$ 个消息包的发送过程数。
+
+由式(10)可知， $T _ { A 1 } < T _ { L 1 }$ ，因此说明AMFET机制在多帧传输中能够有效降低整体传输时长，即AMFET机制的时间复杂度低于原LoRaWAN传输机制。同理，可证明在多个需确认消息传输情况下，AMFET机制的时间复杂度也低于原LoRaWAN传输机制，证毕。
+
+# 4 实验验证与分析
+
+# 4.1实验测试场景及平台
+
+本实验从传输能耗、传输时延和传输成功率三个方面对基于LoRaWAN的自适应多帧高效传输方法的性能进行测试和验证，数据测试基于以下网络拓扑结构进行，如图5所示。
+
+![](images/11222ecc3e59b7bc155c7691c07a6a662644d77161aa9e06211144a801c403d7.jpg)  
+图5网络拓扑结构
+
+图5中终端节点与网关节点硬件均采用锐米通信科技公司提供的LoRa无线开发板，主要由STM8L151C8T6单片机和 SX1278射频模块[14]组成。网络拓扑中所有节点在测试中通过串口转换线与PC机连接，通过ST-LinkV2下载、调试程序，通过串口调试软件查看通信数据帧的接收情况。网络拓扑中网关节点与终端节点间通过LoRa无线技术在单跳范围内进行通信。
+
+# 4.2传输能耗测试与分析
+
+根据STM8L151和SX1278射频芯片工作模式，将终端节点整个通信过程分为待机模式、发送模式、接收模式和休眠模式四个部分。本小节实验中，针对终端节点工作在不同模式下，采用万用表测试节点的工作电流值，由测试结果可知，待机模式下的平均电流为 $2 3 . 5 7 \mathrm { m A }$ 、发送模式下的平均电流为 $8 4 . 3 7 \mathrm { m A }$ 、接收模式下的平均电流为 $3 3 . 8 7 \mathrm { m A }$ 、休眠模式下的平均电流为 $1 0 . 2 4 ~ \mathrm { u A }$ 。
+
+根据LoRaWAN协议规定，各个模式下窗口的持续时间如表1所示。
+
+表1工作模式下的窗口持续时间  
+Table 2 Window duration in working mode   
+表2节点能耗测算结果  
+
+<html><body><table><tr><td>节点窗口</td><td>持续时间</td></tr><tr><td>发送窗口</td><td>1742.28ms</td></tr><tr><td>接收窗口1(接收 ACK)</td><td>1495.08ms</td></tr><tr><td>休眠窗口1</td><td>1000.00ms</td></tr><tr><td>接收窗口1(无ACK)</td><td>≥247.08ms</td></tr></table></body></html>
+
+由于测试过程中电压值(3.3V)保持不变，本实验通过计算电荷量 $\varrho$ 来反映终端的能耗情况。终端节点由睡眠模式切换到正常工作模式需要一个切换时间，实际测试值为 $2 4 0 ~ \mathrm { u s }$ 而一次完整的消息传输流程通常需要2次切换操作。
+
+根据公式 $Q = \boldsymbol { I } \times \boldsymbol { t }$ 计算可得：发送窗口的发送能耗 $Q _ { t x }$ 为$1 4 7 ~ \mathrm { m C }$ ，休眠窗口1的休眠能耗 $Q _ { s l e e p }$ 为 $1 0 . 2 4 { \mathrm { ~ u C } }$ ，接收窗口1的接收能耗(无 ACK 消息) $Q _ { n a c k }$ 为 $8 . 3 7 ~ \mathrm { m C }$ ，接收窗口1的接收能耗(ACK消息) $Q _ { a c k }$ 为 $5 0 . 6 \mathrm { m C }$ ，从睡眠模式切换至发送模式的能耗 $Q _ { s t }$ 为 $1 0 . 1 \mathrm { u C }$ ，从睡眠模式切换至接收模式的能耗 $Q _ { s r }$ 为 $4 . 1 \mathrm { u C }$ 。
+
+本节实验分别在LoRaWAN传输机制和AMFET机制下测试节点发送100条需确认数据消息( $A C K \_ M S G ^ { \cdot }$ 和100条无须确认数据消息( $N A C K \_ M S G$ )的传输总电量，通过实验测试数据及计算分析可得节点能耗值，测算结果如表2所示。
+
+Table 2Result of node energy consumption   
+
+<html><body><table><tr><td>消息类型</td><td>原机制能耗</td><td>AMFET 机制能耗</td><td>节能 百分比</td></tr><tr><td>NACK_MSG</td><td>15538mC</td><td>14809mC</td><td>4.7%</td></tr><tr><td>ACK_MSG</td><td>20228mC</td><td>17885mC</td><td>11.6%</td></tr></table></body></html>
+
+由表2可知，相对于原LoRaWAN传输机制，AMFET机制在多消息帧传输过程中节省了能量，并且当传输的消息为需确认数据消息时，AMFET机制的节能效果更加明显，这主要是因为AMFET机制通过位向量压缩技术存储多个低级需确认数据消息的接收状态，从而以合并确认的方式对多个需确认数据消息进行统一确认，减少了确认消息的个数，从而降低了传输能耗。同时，AMFET机制优化了上行多帧传输方案，避免终端打开不必要的接收窗口，从而降低接收模式阶段的能耗。
+
+# 4.3传输时延测试与分析
+
+本节实验分别对多个无须确认数据消息和多个需确认数据消息(包括低级需确认消息和高级需确认消息两部分)的传输时延进行测试，所有消息负载都为50Byte的数据。其中节点工作参数设置为：扩频因子12、带宽 $1 2 5 \mathrm { k H z }$ 、错误编码率4/8，发射功率 $1 7 \mathrm { d B m }$ 。两种场景下的数据消息传输时延测试结果如图6、7所示。
+
+![](images/4df7e2f4b7571e611890ac0c68e9a1550ccad4e2af131e2cd3d23555237f207f.jpg)  
+Fig.5Network topology   
+图6NACK_MSG 传输时延
+
+![](images/1a9588a9bfff10230c93eefdeb801b9c8ffb869ef5e2d0ffebf064fba111e6a8.jpg)  
+Fig.6Transmission delay ofNACK_MSG   
+图7ACK_MSG传输时延
+
+Fig.7Transmission delay of ACK_MSG由图6、7可知，与原LoRaWAN传输机制相比，AMFET机制缩短了无须确认数据消息(NACK_MSG)和需确认数据消息(ACK_MSG)在多帧传输过程中的总传输时间，降低了数据的传输时延。这主要是因为在LoRaWAN上行多帧传输方案中引入Fpending机制，对“空消息”触发下行数据连续发送方式进行优化，提高了下行数据消息的传输效率。
+
+在多个需确认数据消息传输场景下，由于消息传输存在重传过程，因此传输时延相对于无须确认数据消息而言增大。由于AMFET机制对需确认数据消息划分高、低等级，使得高级需确认数据消息能够得到立即确认。同时，AMFET机制采用位向量压缩技术对多个低级需确认数据消息进行了合并确认，从而减少了确认消息帧个数，随着发送数据消息包个数的增加，AMFET机制的传输时延的降低效果越明显。
+
+# 4.4传输成功率测试与分析
+
+数据包的传输成功率能够直观地反映AMFET机制的可靠性，本小节实验在不同传输距离及不同扩频因子条件下对数据消息传输成功率进行了测试。其中节点工作参数设置为：扩频因子 $\mathrm { S F } { = } 9$ 、11、12，带宽 $2 5 0 ~ \mathrm { k H z }$ ，错误编码率4/8，发射功率 $1 7 \mathrm { d B m }$ 。
+
+在不同条件下的数据包传输成功率测试结果如图8\~10所示。
+
+![](images/a26ea59e1ce40f3f6b04a17a616dbfba67158820241b2532572d569cad270e09.jpg)  
+图8传输成功率 $( \mathrm { S F } { = } 9 ) \$
+
+![](images/0d7bf5fa8eec5b58c6a52062a54c1fcb27f005008be9ac903b7dcc6b09bf65fd.jpg)  
+Fig.8Transmission success rate when $\mathrm { S F } { = } 9$   
+图9传输成功率 $\mathrm { S F } { = } 1 1 \$ 门  
+Fig.9Transmission success rate when ${ \mathrm { S F } } { = } 1 1$
+
+由图8\~10可知，传输距离和扩频因子都是影响数据包传输成功率的因素，在不同扩频因子条件下，数据消息成功传输的最大距离不同，并且扩频因子越大，数据最大传输距离越远。同时，在相同扩频因子和相同传输距离的条件下，AMFET机制与原LoRaWAN机制的数据包传输成功率基本保持一致，由此说明AMFET机制在降低传输能耗和传输时延的前提下，仍然能够保证数据消息传输的可靠性。
+
+![](images/26195e340313a43912f7c74a9ffc3c0e8a0b0e913007d84efea90cce24ed4e40.jpg)  
+图10传输成功率 $\mathrm { S F } { = } 1 2$ ） Fig.10Transmission success rate when ${ \mathrm { S F } } { = } 1 2$
+
+# 5 结束语
+
+本文针对LoRaWAN多帧传输机制存在控制开销、时延和能耗相对较大的缺陷，提出一种自适应多帧高效传输方法(AMFET)，包含自适应多帧发送机制、自适应多帧接收确认机制和丢帧识别机制。自适应多帧发送机制将需确认数据消息类型划分高、低优先等级，使高级需确认数据消息能够立即得到确认，同时在上行多帧传输中引入Fpending机制，提高了消息传输效率；自适应多帧接收确认机制利用位向量压缩技术对多个低级需确认数据消息进行合并确认，从而减少确认消息个数，降低控制开销；丢帧识别机制利用CDID 值判断发送端是否发送了低级需确认消息，避免低级需确认消息的丢失引起终端进入休眠模式。通过数学分析和实验测试结果表明，AMFET方法在保证数据传输可靠性的前提下，降低了多帧传输时延和多帧传输能耗，验证了改进机制的有效性。
+
+# 参考文献：
+
+[1]Wu S,Kang S,Chakrabarti C,et al.Low power baseband processor for IoT terminals with long range wireless communications [C]//Proc of IEEE Global Conference on Signal and Information Processing. Piscataway,NJ:IEEE Press,2016:728-732.   
+[2]Ali A,Shah G A,Farooq M O,et al. Technologies and challenges in developing Machine-to-Machine applications:A survey [J].Journal of Network and Computer Applications,2017,83:124-139.   
+[3]Hu X,Yang L,Xiong W.A novel wireless sensor network frame for urban transportation [J].IEEE Internet of Things Journal,2O15,2(6): 586-595.   
+[4]Stan VA,TimneaRS,Gheorghiu RA.Overview of high reliable radio data infrastructures for public automation applications:LoRa networks [C]/Proc of International Conference on Electronics,Computers and Artificial Intelligence,2017:1-4.   
+[5]Lavric A,Popa V.LoRaTM wide-area networks from an internet of things perspective [C]//Proc of International Conference on Electronics, Computers and Artificial Intelligence.2017: 1-4.   
+[6]Martin B,Utz R,Thiemo V,et al.Do LoRa low-power wide-area networks scale [C]//Proc of ACM International Conferenceon Modeling,Analysis and Simulation of Wireless and Mobile Systems. New York:ACMPress,2016:59-67.   
+[7]Sornin N,Luis M,Eirich T,et al.LoRaWAN specification v1.0.2 [EB/OL].(2016)[2019-01-08].https://www.lora-alliance.org/.   
+[8]Lavric A,Petrariu AI.LoRaWAN communication protocol: The new era of IoT[C]//Proc of International Conference on Development and Application Systems.2018:74-77.   
+[9]孙曼，张乃谦，金立标，等．基于LoRa标准的MAC层协议研究[J]. 电视技术,2016,40(10):77-81.(Zhang Man, Zhang Naiqian,Jin Libiao, et al.Study on MAC layer protocol based on LoRa standard [J]. Television Technology,2016,40(10):77-81.)   
+[10]Abeele F,Haxhibeqiri J,Moerman I,et al.Scalability analysisof large-scale LoRaWAN networks in ns-3 [J].IEEE Internet of Things Journal, 2017,4: 6.   
+[11] Goursaud C,Mo Y. Random unslotted time-frequency ALOHA: theory and application to IoT UNB networks [C]//Proc of International Conference on Telecommunications.2016.   
+[12]Lavric A,Popa V. Internetof things and $\mathrm { L o R a ^ { \mathrm { { T M } } } }$ low-power wide-area networks:A survey[C]//Proc of International Symposium on Signals, Circuits and Systems.2017:1-5.   
+[13] Centenaro M,Vangelista L.Boosting network capacity in LoRaWAN through time-power multiplexing [C]//Proc of the 29th IEEE Annual International Symposium on Personal,Indoor and Mobile Radio Communications.2018:1-6.   
+[14]肖思琪，全惠敏，钟晓先．基于LoRa的远程抄表系统的设计与实现 [J]．电子技术应用,2018,44(6):31-34,38.(Xiao Siqi,Quan Huimian, Zhong Xiaoxian.Design and implementation of remote meter reading system based on LoRa [J].Electronic Technology Application,2018, 44(6):31-34,38.)

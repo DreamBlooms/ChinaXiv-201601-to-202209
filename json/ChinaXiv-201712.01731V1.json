@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "黄土高原粗质地土壤剖面水分运动与浅层地下水补给可能性模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盖佳敏1；樊军1,2；王胜² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.西北农林科技大学资源环境学院杨凌712100;2.中国科学院水利部水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室杨凌 712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：黄土高原水土流失严重，生态环境脆弱，水资源短缺，地下水对保障区域社会经济发展和维持生态系统平衡具有重要意义，而该区的地下水转化和补给机制尚不明确。为探究黄土高原水蚀风蚀交错区土壤剖面深层水分运动及降水对浅层地下水补给的可能性，利用六道沟小流域分布的粗质地风沙土样地 2013 年至 2016 年土壤剖面 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 含水量数据，运用HYDRUS-1D 模型对各土层水力参数进行反演和验证，并用于模拟样地土壤深剖面 $0 { \\sim } 1 5 0 0 \\mathrm { c m }$ 水分运移过程。结果显示，在平水年2014年 $\\langle 4 3 9 \\mathrm { m m } \\rangle$ 和干旱年2015年 $( 3 7 1 ~ \\mathrm { m m } )$ ）， $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 土壤含水量生长季末与生长季初持平或略有亏缺；降水充沛年2013年 $( 6 6 9 ~ \\mathrm { m m } )$ 和2016年 $7 0 4 ~ \\mathrm { { m m } }$ )土壤含水量生长季末远高于生长季初，降水入渗深度超过观测深度( $6 0 0 ~ \\mathrm { c m } ,$ 。深剖面水分运动模拟显示,2014年和2015年剖面含水量变化不明显，水分向深层运移微弱缓慢；但是,2013年和2016年降水可分别入渗运移至 $1 ~ 1 0 0 ~ \\mathrm { c m }$ 和 $1 2 0 0 \\mathrm { c m }$ 深度，远超过样地上生长的旱柳根系区域，可能补给浅层地下水。在4年模拟期间，粗质地风沙土水分入渗率平均为 $6 0 6 . 2 8 ~ \\mathrm { c m } { \\cdot } \\mathrm { d } ^ { - 1 }$ ，平均土壤蒸发 $1 4 . 8 7 ~ \\mathrm { c m }$ ，平均植物蒸腾 $3 3 . 7 1 ~ \\mathrm { c m }$ ，土壤中的水分主要以植物蒸腾形式损耗。在2个丰水年，得益于较充足的降水和粗质地风沙土壤的高入渗率，降水大量转化为土壤水快速向下入渗运移，模拟显示当年生长季末降水最深运移至 $1 2 \\mathrm { m }$ ，至年末已超过模拟深度( $1 5 \\mathrm { m } )$ ，水分继续运移可能补给浅层地下水。相关研究结果为黄土高原水蚀风蚀交错区地下水来源和补给机制提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄土高原；水蚀风蚀交错区;HYDRUS-1D；土壤水分运移；数值模拟；深层入渗 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S152.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Simulation of water movement in coarse-textured soil and shallow groundwater recharge possibilities on the Loess Plateau, China\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ge Jiamin!, Fan $\\operatorname { J u n } ^ { 1 , 2 ^ { * * } }$ , Wang Sheng2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.CollegeofResourcesandEnvironment,NorthwestA&FUniversity,Yangling710o,China;2.StateKeyLaboratoryfil Erosionand DrylandFarmingontheLoessPlateau,InstituteofSoilandWaterConservation,Chinese AcademyofSciencesand Ministry of Water Resources, Yangling 71210o, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:TheLoess Plateausufersserious soiland waterlossresultinginafragileecological and environmentandanintense deficitonavailable waterresources.Thegroundwater iscrucial toguarantee theregional socialand economicdevelopmentand maintaintheecosystem balance,however,themechanismof groundwatertransformationandrechargeontheLoess Plateauisstil notclear.Theojectiveoftisstudywastoinvestigatethewatermovementideepsoilprofileandtestteposibilitiesofraalin rechargingtheshalow groundwater inthe water-winderosioncrisscrossregionontheLoessPlateau.Considering therestrictionsof currentequipmentandtechniques fordepsoil profilemoistureobservation,HYDRUS-Dmodel wasaplid tocalculatesolutethe soil hydraulic parameters and simulate deep profile $0 { \\sim } 1 5 \\mathrm { m }$ soil water movement,by using of the data sets of meteorological factors and soil water contents in soil depth $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ in a Chinese willow field plot with aeolian sandy soil from 2013 to 2016. Upper boundary condition was set as atmosphere boundary conditions with inputs of rainfall and potential transpiration $( T _ { \\mathfrak { p } } )$ and potential evaporation ( $\\cdot \\cal E _ { \\mathrm { p } } \\ /$ which were partitioned from crops evapotranspiration $( E T _ { 0 } )$ ,ETo derived from Penman-Monteith method and the partition into $T _ { \\mathfrak { p } }$ and $E _ { \\mathrm { { p } } }$ had used the measured leaf area index (LAI) in different growing periods,and lower boundary condition was setfreedrainage.The optimized hydraulic parameterswere derived fromrepeatedly inverse solution processand thenthese parameters were used to simulate soil water movement in $0 { \\sim } 1 ~ 5 0 0 ~ \\mathrm { c m }$ ,and the depth of soil water infiltration and the possibility of recharging shallowunderground water wereanalyzed.Resultsshowedthatsoil watercontentsattheendandthebeginningof the growth season in $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ had a slight deficit in 2014 ( $4 3 9 \\mathrm { m m }$ ,normal precipitation year) and 2015 ( $3 7 1 ~ \\mathrm { m m }$ ,dry year). However, therehadasurplusofsoilwaterat theendof thegrowth seasonascompared withthebeginingof tegrowthseasonin2O13and ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016( $6 6 9 ~ \\mathrm { m m }$ and $7 0 4 ~ \\mathrm { { m m } }$ respectively,wet years),and the rainfall infiltration had exceeded the observing depth $6 0 0 ~ \\mathrm { c m }$ .From the simulatingresults,oil watercontents indeepsoilprofilehadnotchangesignificantlyin2O14and2015,andthewater movesslowly into deeper soil layers,but rainfall could infiltrate to soil depths $1 1 \\mathrm { m }$ and $1 2 \\mathrm { m }$ ,respectively, exceeding rooting zone at the end of the 2013and 2O16,which indicatedte posibilitiesofrainfalinrechargingthe shallow groundwater.Duringthesimulatedperiodof 4 years,the mean value of water infiltration rate on aeolian sandy soil is $6 0 6 . 2 8 \\ \\mathrm { c m } { \\cdot } \\mathrm { d } ^ { - 1 }$ ,average soil evaporation in 4 years is $1 4 . 8 7 \\mathrm { c m }$ and average plant transpiration in 4 years is $3 3 . 7 1 ~ \\mathrm { c m }$ ,soil water contents were mainly lossed in the form of transpiration. Thanks to thehighinfitrationrate incoarse-texturedsoil inwetyars,alarge proportionofrainfallmaytransformintoshallowunderround water.DryandwetyeasalterateontheLoessPlateauwithitensiveainfallvariations,therainfallifiltration inwetyearsmaybe one way of shallow groundwater recharge. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Loess Plateau；Water-wind erosion criscros;；HYDRUS-1D;Soil water movement;； Numerical modeling;Deep percolation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地下水补给是含水层和含水系统从外界获取水量的过程，通常受气候、植被、地质、土壤、地貌、水位埋深和灌溉等下垫面条件和人为因素的综合影响，因而地下水补给过程十分复杂。黄土高原水蚀风蚀交错区是黄土高原的重要组成部分，面积占黄土高原总面积的 $2 8 . 5 6 \\%$ ，水蚀风蚀严重，水资源短缺。土壤质地较粗，是黄河下游河床粗泥沙的主要产区I。该区土壤水分是影响区域生态系统生产力、塑造区域植被和景观的重要因素[2]。在当地，地下水是居民生活、工农业生产和维持区域生态系统平衡的重要水源。但目前对于区域地下水的补给和转化机制尚不明确，因此研究黄土高原地下水的补给对水资源利用、地下水保护和模拟水文过程有重要指导作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前对深层土壤水分的测定和保护研究很多，不同土地利用模式对土壤水分产生较大影响，选择合适的植物对于土壤深层水的保护和持续利用非常重要[3]。W.Hu和 $\\mathbf { B } . { \\mathrm { C } } . { \\mathrm { S i } } ^ { [ 4 ] }$ 在时间变异性和时间稳定性分析基础上，利用 SWC模型和经验正交函数，估算小流域尺度上空间分布的土壤含水量。李晗等[5利用环境示踪剂氘估测长武塬区王东沟流域坡地深层渗漏量，平均渗漏量超过 $2 0 \\mathrm { m m } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。一些学者在巴丹吉林沙漠和日古乃绿洲利用环境同位素示踪手段，根据当地气候、土壤质地、地下水的特征及水化学条件，研究得到地下水补给机制及补给来源，并定量得到了地下水补给深度和补给量[6-8]。在黄土高原地区，土层深厚，地形复杂。诸多研究显示降水是黄土区地下水补给的主要来源[9-13]。但降水如何穿过深厚的黄土层补给地下水的过程尚不明确[]。早期调查指出洛川塬、董志塬等黄土塬区主要通过裂隙或者潜蚀洞补给地下水，还在裂隙面发现了因重力水通过形成的碳酸盐膜，而较难通过常规入渗和水分再分布过程补给[14-15]。徐学选、程立平等[11-12]指出黄土区地下水存在大孔隙优先流补给的可能，但在空间上并不普遍；优先流的发生与土地利用方式以及土壤含水量有关，土壤干层会减少优先流的发生，而土壤剖面含水量较高时则容易产生优先流，从而对地下水进行补给[9I]。区域\"退耕还林(草)\"工程和淤地坝建设等人为因素导致大规模植被和微地形改变，同时引起地下水补给和转化的改变[6]。地下水补给量在不同区域不同研究当中存在差异，例如黄土高原无定河流域地下水年补给量为 $1 1 . 3 8 { \\sim } 1 5 . 6 9 ~ \\mathrm { m m }$ ，占多年平均降水量 $( 4 0 9 ~ \\mathrm { m m } )$ 的 $2 . 8 \\% { \\sim } 3 . 9 \\% ^ { [ 1 7 ] }$ ；渭北旱塬拥有 $1 3 0 \\mathrm { ~ m ~ }$ 厚层黄土的黑河流域地下水年补给量为 $1 0 7 { \\pm } 5 5 \\ \\mathrm { \\ m m }$ ，占多年平均降水量 $\\langle 5 7 1 \\ \\mathrm { m m } \\rangle$ 的$( 1 9 \\pm 1 0 ) \\%$ ，其中“优先流”占 $( 8 7 \\pm 4 ) \\% ^ { [ 1 8 ] }$ ，活塞流由于干燥层的存在而贡献较小，优先流为主要补充机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄土高原北部水蚀风蚀交错区粗质地土壤分布广泛，是黄河中下游粗泥沙的主要来源区。土壤孔隙度大，持水能力低，饱和导水率高。区域降水量在 $1 0 8 . 6 { \\sim } 8 9 1 . 1 \\ \\mathrm { m m }$ 之间，年际和年内分配不均，年变率大，降水集中且暴雨多，雨强大[10]。有研究表明，只有在丰水年降水才能垂直入渗通过根系活动区，从而对地下水形成缓慢补给[I]，大的降水促进了大孔隙优先流的发生[12]。入渗和土壤水分再分布是降水、地表水、土壤水和地下水相互转化的一个重要过程，研究年际不同降水水平条件下粗质地土壤深层剖面水分运动，对揭示降水对浅层地下水补给可能性、水蚀风蚀交错区地下水补给机制有重要意义。受限于水分观测设备和实际条件，更深层水分运动很难实测，本研究采用水蚀风蚀交错区六道沟小流域内 2013一2016年人工旱柳(Salixmatsudana)林地土壤 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 剖面含水量实测数据和气象资料，运用HYDRUS-1D反演获取土壤水力参数并用以模拟深层土壤水分运移，以期得到降水在粗质地土壤中入渗和运移深度及补给浅层地下水的可能性，为揭示水蚀风蚀交错区土壤剖面水分运动与浅层地下水补给机制提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1试验材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况和样地描述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于陕西省榆林市神木县西沟乡六道沟小流域 $( 1 1 0 ^ { \\circ } 2 1 ^ { \\prime } { \\sim } 1 1 0 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { E }$ ， $3 8 ^ { \\circ } 4 6 ^ { \\prime } { \\sim } 3 8 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N }$ ，海拔$1 0 9 4 { \\sim } 1 2 7 4 \\ \\mathrm { m } )$ ，处于黄土高原到毛乌素沙地的过渡地带，以及流水侵蚀的黄土丘陵区向干燥剥蚀作用的鄂尔多斯高原过渡的水蚀风蚀交错带，是典型的生态脆弱区。该区属于中温带半干旱气候，气候变化剧烈，年平均气温 $8 . 4 ~ \\mathrm { { ^ \\circ C } }$ ， $\\geq 1 0 \\ \\mathrm { ^ { \\circ } C }$ 活动积温为 $3 \\ 2 4 8 . 0 \\ \\mathrm { ^ { \\circ } C }$ ，无霜期153d，全年日照时数 $2 8 3 6 \\mathrm { ~ h ~ }$ ，年总太阳辐射量${ 5 9 2 2 \\mathrm { M J } { \\cdot } \\mathrm { m } ^ { - 2 } }$ ，年光合有效辐射 $2 9 0 0 \\mathrm { M J } { \\cdot } \\mathrm { m } ^ { - 2 }$ ，年平均风速为 $2 . 5 { \\sim } 2 . 7 \\ \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。多年平均年降水量 $4 3 7 . 4 \\ : \\mathrm { m m }$ ，年内年际变化大，最多 $8 9 1 . 1 \\mathrm { m m }$ ，最少 $1 0 8 . 6 \\mathrm { m m }$ ，其中6一9月份的降水量占全年的 $7 5 \\%$ 以上，年平均蒸发力$7 8 5 . 4 \\mathrm { m m }$ ，干燥度1.8，属于典型的半干旱区。该区雨热同季，植物4—5月萌发,10月枯萎。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地带性土壤为黑泸土，因长期强烈侵蚀，已被沙黄土、新黄土、红粘土及沙地上发育起来的风沙土、淤地坝土取代，地貌类型为片沙覆盖的梁峁状黄土丘陵。流域内地形非常复杂，沟道纵横交错，土地沙化严重。退耕还林(草)工程的实施，使该流域内恢复植被大量增加，该流域目前主要人工或自然乔灌木有杨树(Populus simonii)、旱柳、沙柳(Salix cheilophila)和柠条(Caragana Korshinski)，主要草种有长芒草(Stipabungeana)和紫花苜蓿(Medicago sativa)等[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验选择旱柳样地为研究对象，样地土壤主要为粗砂质土壤，在当地风沙土呈片状、斑块状不连续分布，有研究表明在本地区颗粒组成大于 $0 . 0 5 \\mathrm { m m }$ 占 $6 9 \\% ^ { [ 2 0 ] }$ ，也有研究表明 $0 { \\sim } 2 0 0 ~ \\mathrm { c m }$ 土层内，颗粒组成小于$0 . 0 1 ~ \\mathrm { m m }$ 占 $1 3 . 8 \\% ^ { [ 2 1 ] }$ 。在风沙土丘陵区, $0 { \\sim } 2 0 0 ~ \\mathrm { c m }$ 土层内粗砂占较大比例。据实际观测, $0 { \\sim } 2 6 0 ~ \\mathrm { c m }$ 为粗砂,$2 6 0 { \\sim } 3 0 0 ~ \\mathrm { c m }$ 为粗砂细砂过度层， $3 0 0 { \\sim } 1 0 0 0 ~ \\mathrm { c m }$ 之间 $8 2 0 ~ \\mathrm { c m }$ 和 $9 6 0 ~ \\mathrm { c m }$ 附近出现细砂与黄土混合层，其余为细砂质土壤，据此认为 $6 0 0 { \\sim } 1 ~ 5 0 0 ~ \\mathrm { c m }$ 土壤为细砂质土壤。表层土壤容重为 $1 . 6 2 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ，孔隙度为 $3 8 . 9 \\%$ 。样地与当地气象站处于同一海拔高度 $1 2 1 6 \\mathrm { m }$ ，直线距离 $6 0 0 \\mathrm { ~ m ~ }$ 。样地上的旱柳是当地的乡土树种，树龄近30年。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 基础数据获取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤剖面实测含水量：在旱柳样地埋设3根铝制中子仪测管，地下埋深均为 $6 0 0 \\mathrm { c m }$ ，采用CNC503B型中子仪测量土壤剖面体积含水量 $( \\theta , \\mathsf { c m } ^ { 3 } { \\cdot } \\mathsf { c m } ^ { - 3 } ) ,$ ，在 2013一2016年4月至10月每隔一个月测定一次。因土壤含水量浅层比深层变化更强烈，因此在 $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 深度土层，测量间隔 $1 0 \\mathrm { c m }$ ；在 $1 0 0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 土层，测量间隔为 $2 0 \\mathrm { c m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被根系分布：采用 $8 0 \\mathrm { m m }$ 直径根钻取土分离土样中根系，获取旱柳样地地下 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 深度根系分布特征。取与根系吸水密切相关的小于 $2 \\mathrm { m m }$ 直径细根生物量，分析土壤剖面根系分布特征，详细根系取样和处理过程见前期研究[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气象资料和潜在蒸散 $( E T _ { \\mathfrak { p } } )$ ：从距离样地直线距离 $6 0 0 \\mathrm { ~ m ~ }$ 的试验站自动气象监测站获取气象数据，主要包括 $1 . 5 \\mathrm { m }$ 高度净辐射量 $( R _ { \\mathrm { n } } , \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } \\mathrm { h } ^ { - 1 } )$ 、平均空气温度 $( T _ { \\mathrm { a } } , \\ \\mathrm { ^ { \\circ } C } )$ 、空气相对湿度 $( R H , \\% )$ ） $2 \\mathrm { m }$ 高度风速 $( S _ { \\mathrm { w } } ,$ $\\mathbf { m } { \\cdot } \\mathbf { s } ^ { - 1 } )$ 和降水量 $( P , ~ \\mathrm { m m } )$ 等。运用Ref-ET software (www.kimberly.uidaho.edu)，选择内置 ASCEPenman-Monteith模型计算参考作物蒸散量 $( E T _ { 0 } , \\ \\mathrm { m m \\cdot d ^ { - 1 } } )$ 。在旱柳不同生长时期用SunScan 植物冠层分析仪测定样地叶面积指数(LAI)，用于将 $E T _ { 0 }$ 分割为潜在土壤蒸发 $( E _ { \\mathrm { p } }$ ， $\\mathbf { m } \\mathbf { m } { \\cdot } \\mathbf { d } ^ { - 1 } ,$ ）和潜在冠层蒸腾 $( T _ { \\mathfrak { p } } ,$ （20$\\mathrm { m } { \\bf m } { \\cdot } \\mathrm { d } ^ { - 1 } ) ^ { [ 2 3 - 2 4 ] }$ ，分割计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { p } } { } = E T { } _ { 0 } { \\cdot } S C F\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { p } } = E T _ { \\mathrm { 0 } } \\cdot ( 1 - S C F )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS C F = 1 - e ^ { - r E x t i n c t \\cdot \\mathrm { L A I } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：SCF为植被覆盖系数,e为自然指数,rExtinct为冠层消光系数,本文取值 $0 . 7 5 ^ { [ 2 5 - 2 6 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 HYDRUS-1D模型 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 模型介绍 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模型包括正解模块和反演模块，反演模块允许用五种解析表达式表示土壤水力性质 $\\theta ( \\mathbf { h } )$ 和 $K ( \\mathrm { h } )$ ，这些解析式由有限个未知参数组成。模型模拟可以方便的控制环境变量和边界条件，但一般需要复杂的参数输入，确定合理的参数比较困难。反演过程中先给这些参数赋予初值，然后把赋予初值的 $\\theta ( \\mathbf { h } )$ 和 $K ( \\mathrm { h } )$ 代入水流控制方程，并结合实验的初始条件和边界条件，形成完整描述水流运动状况的数学模型。最后用Nash-Sutcliffe效率系数 $E n s$ 和均方根误差RMSE评价模型的模拟精度。效率系数 $E n s$ 体现了模型的总体效率，其计算公式为:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE n s { = } 1 { - } \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( P _ { i } - { \\cal O } _ { i } \\right) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( { \\cal O } _ { i } - \\overline { { { \\cal O } } } _ { i } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $P _ { i }$ 为预测值, $O _ { i }$ 为观测值， $\\overline { { O _ { i } } }$ 为观测值的平均值, $n$ 为观测值个数。Ens的变化范围- $^ { - \\infty - 1 }$ 。Ens越接近1，则模拟效果越好，模拟结果可信度高；通常当 $E n s { \\ge } 0 . 5$ 时，即认为模拟效果可接受。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RMSE也叫回归系统的拟合标准，表示的是模拟值与实测值的接近程度。公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } w _ { i } ( P _ { i } - O _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $w _ { i }$ 表示权重。RMSE越小，代表模拟值越接近观测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 初始条件和边界条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区沙地一般不产生径流，忽略植被截留，将当年降水量作为水分输入项。选取2013年至2016 年实测的日气象数据，将降水数据和计算得到的 $E _ { \\mathrm { p } }$ 和 $T _ { \\mathfrak { p } }$ 作为大气边界条件设定为上边界条件，下边界条件设定为自由排水条件，将2013 年 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 第一次水分剖面实测值作为初始条件，应用HYDRUS-1D 模型进行2 年时间(共730d)的水分运移模拟。首先，利用反解模块模拟 2013—2014年 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 剖面水分变化，进行参数反演。之后，利用反解获得的参数，将 2015年第一次水分剖面实测值作为初始条件，模拟得到的2015—2016年剖面水分模拟值和实测值进行对比，验证参数可行性。最后，将2013 年 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 第一次水分剖面实测值及接近 $6 0 0 ~ \\mathrm { c m }$ 深度的含水量作为 $6 0 0 { \\sim } 1 5 0 0 ~ \\mathrm { c m }$ 的含水量作为模型初始条件，利用验证后的参数进行2013—2016年 $0 { \\sim } 1 5 0 0 \\mathrm { c m }$ 剖面水分运动模拟。此外，利用观测和文献数据进行上边界通量验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据剖面土壤质地差异，模拟时将 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 土层剖面划分3层，分别为 $0 { \\sim } 2 6 0 ~ \\mathrm { c m }$ 、 $2 6 0 { \\sim } 3 0 0 ~ \\mathrm { c m }$ ，$3 0 0 { \\sim } 6 0 0 \\mathrm { c m }$ ，同时假设 $6 0 0 { \\sim } 1 5 0 0 \\mathrm { c m }$ 土层土壤质地与 $3 0 0 { \\sim } 6 0 0 \\mathrm { c m }$ 一致；依据土壤剖面细根生物量分布规律设置模型根系分布参数，不考虑根系生长。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 参数确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 HYDRUS-1D 模型的反演模块确定剖面土层水力参数：进气吸力的倒数 $( a )$ 、孔隙大小分布系数(n)、饱和导水率 $( K \\mathrm { s } )$ ，将模拟得到的剖面水分分布与实测值进行对比，利用Nash-Sutcliffe效率系数Ens 和均方根误差RMSE检验模拟结果和实测值之间的拟合程度，验证获得的参数和入渗、蒸发过程的合理性，不断重复反演过程，直至拟合效果最优且参数可接受，得到最优的反演参数。之后将确定的参数代入正解模块中，进行2013一2016年的深剖面 $0 { \\sim } 1 5 0 0 \\ \\mathrm { c m }$ 的水分运动模拟。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1降水特征与土壤水分运动",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "六道沟流域多年平均年降水量为 $4 3 7 . 4 \\ : \\mathrm { m m }$ ，年际间相差大，年内5一10月降水量约占全年降水量 $9 2 \\%$ 。试验期间,2013年和2016年降水量分别为 $6 6 9 \\mathrm { m m }$ 和 $7 0 4 \\mathrm { m m }$ ，显著高于多年平均值，为丰水年;2014年降水量 $4 3 9 ~ \\mathrm { m m }$ ，接近多年平均值，为典型的平水年;2015年降水量 $3 7 1 . 1 \\ \\mathrm { m m }$ ，远低于多年平均值，为干旱年(图1)。4年内最大日降水量为 $1 2 4 . 0 \\mathrm { m m }$ ，是在2016年7月8日；最大月降水量也在2016年7月，为274.6$\\mathrm { m m }$ 。由于试验地属于粗质地的沙土，土壤水分含量处于较低水平，剖面平均含水量最低在 $0 . 0 5 \\mathrm { \\ c m } ^ { 3 } { \\cdot } \\mathrm { c m } ^ { - 3 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤水分年内受到降水的强烈影响,2014年和 2015年降水量少，土壤剖面水分含量在生长季初和生长季末整体上差异不大，说明当季降水均已通过蒸散发或者渗漏等损失。但是 2013年和 2016年降水较多，土壤剖面含水量在生长季初和生长季末有显著差异，当季降水显著提高了生长季末剖面大部分层次的水分含量，测量的最深处生长季末水分含量仍然高于生长季初，说明水分渗漏已经超过了试验观测深度 (图 2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5553d4730fa73686e7ea655c79158646c1ad24969579ba94c49f74f3b80f2486.jpg",
+        "img_caption": [
+            "图12013一2016年六道沟小流域月降水量分布和期间月平均降水量 Fig.1The monthly precipitation distribution and the monthly mean precipitation during the 2013-2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤 $\\mathbf { 0 { \\sim } 6 } \\mathbf { m }$ 剖面水分运动模拟",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用 2013—2014年反演得到的参数，模拟得到 2015—2016年剖面水分分布，对比分析 2015—2016年$0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 剖面水分生长季初和生长季末实测值和模拟值。结果显示剖面水分含量模拟值与实测值接近，变化趋势一致(图2)。同时分析了 $5 0 \\mathrm { c m }$ 、 $1 3 0 \\mathrm { c m }$ 、 $3 0 0 \\mathrm { c m }$ 、 $4 0 0 \\mathrm { c m }$ 和 $5 4 0 \\mathrm { c m }$ 土层4 年期间实测值与模拟值,浅层土壤受降水影响较大，在 $5 0 ~ \\mathrm { c m }$ 深度土壤水分随时间变化波动较大，随深度的增加，变化幅度逐渐趋于平缓(图3)。2013—2016 年土壤深度模拟结果评价系数 Ens 范围在 $0 . 4 3 9 \\mathrm { \\sim } 0 . 7 3 9$ ， $80 \\%$ 在可接受范围(Ens${ \\geqslant } 0 . 5 )$ 内,RMSE在 $0 . 0 0 2 { \\sim } 0 . 0 0 9 \\mathrm { c m } ^ { 3 } { \\cdot } \\mathrm { c m } ^ { - 3 }$ 范围内(表1)，均在合理范围内，说明模拟结果可以接受。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 年中，在生长季初和生长季末水分含量在 $0 { \\sim } 2 8 0 ~ \\mathrm { c m }$ 土层变化明显，分析原因一方面可能是受到根系的影响，根系主要分布在 $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 和 $2 2 0 { \\sim } 2 8 0 ~ \\mathrm { c m }$ 土层，分别占总量的 $6 6 \\%$ 和 $2 0 \\% ^ { [ 2 7 ] }$ 。根系少的土层土壤含水量高于根系多的土层。另一方面可能是受土壤剖面质地的影响, $2 8 0 { \\sim } 3 0 0 \\mathrm { c m }$ 土层土壤含水量显著升高,并且 $3 0 0 \\ \\mathrm { c m }$ 土层以下土壤含水量也保持在一个较高的水平(高于上层土壤)。 $2 6 0 { \\sim } 3 0 0 ~ \\mathrm { c m }$ 是粗沙向细沙过度层，很有可能使得水分下渗变缓而造成 $3 0 0 \\mathrm { c m }$ 左右土层水分含量增加，并且柳树根系主要分布在 $3 0 0 \\mathrm { c m }$ 土层以上，而沙地大量的水分入渗到了 $3 0 0 \\ \\mathrm { c m }$ 土层以下，这说明柳树根系能够吸收利用的水分较少，超过根系分布层的水分就会继续下渗，可能补给浅层地下水。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7ea5c02662a928bb9c8e11160c64be7d41780c9ab859e4912aa787037244d78.jpg",
+        "img_caption": [
+            "图22013—2016年 $\\mathbf { 0 { \\sim } 6 0 0 ~ c m }$ 剖面水分实测值与模拟值拟合程度对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Comparison between the observed and simulated soil volumetric water content profile in 2O13-2016 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/86db84195c52e6ce61eee01f419663dc106f8f392a9be63d1141ff952f93c48c.jpg",
+        "img_caption": [
+            "图32013一2016年不同土层实测值与模拟值随时间变化对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Comparision betweenthe observed and simulated soil volumetric water content atdifferent soildepth in2013-2016 ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/efb1aa7582f288b650c06b3ec553fd4ff8982bc8b2efe9fa265819f56ec389f1.jpg",
+        "table_caption": [
+            "Table1Goodnes-of-fitassessmentbasedonEnsandRMSEatdiferentsoildepthatthetimeof inverseand verification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤深度 Soil layers (cm)</td><td colspan=\"2\">率定期 Inverse solution</td><td colspan=\"2\">验证期 Verification period</td></tr><tr><td>Ens</td><td>RMSE</td><td>Ens</td><td>RMSE</td></tr><tr><td>50</td><td>0.652</td><td>0.006</td><td>0.731</td><td>0.009</td></tr><tr><td>150</td><td>0.670</td><td>0.005</td><td>0.526</td><td>0.008</td></tr><tr><td>300</td><td>0.439</td><td>0.006</td><td>0.613</td><td>0.007</td></tr><tr><td>400</td><td>0.664</td><td>0.004</td><td>0.739</td><td>0.005</td></tr><tr><td>540</td><td>0.483</td><td>0.002</td><td>0.576</td><td>0.004</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 模型验证 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/22068e99d8589879093d4249d0ab2822daa24fd68ade5cd5a99ae274587b01ed.jpg",
+        "table_caption": [
+            "表1率定期和验证期不同土壤深度模拟效果评价系数Ens和RMSE"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">日期(年-月-日) Date (year-month-day)</td><td colspan=\"2\">率定期Correction</td><td rowspan=\"2\">日期(年-月-日) Date (year-month-day)</td><td colspan=\"2\">验证期Verification</td></tr><tr><td>Ens</td><td>RMSE</td><td>Ens</td><td>RMSE</td></tr><tr><td>2013年4月24日</td><td>0.433</td><td>0.007</td><td>2015年4月21日</td><td>0.644</td><td>0.007</td></tr><tr><td>2013年6月14日</td><td>0.586</td><td>0.008</td><td>2015年6月23日</td><td>0.82</td><td>0.006</td></tr><tr><td>2013年8月16日</td><td>0.625</td><td>0.007</td><td>2015年7月20日</td><td>0.468</td><td>0.012</td></tr><tr><td>2013年10月15日</td><td>0.451</td><td>0.016</td><td>2015年10月23日</td><td>0.455</td><td>0.008</td></tr><tr><td>2014年5月15日</td><td>0.574</td><td>0.012</td><td>2016年4月22日</td><td>0.516</td><td>0.008</td></tr><tr><td>2014年6月15日</td><td>0.652</td><td>0.011</td><td>2016年5月16日</td><td>0.463</td><td>0.009</td></tr><tr><td>2014年8月20日</td><td>0.552</td><td>0.010</td><td>2016年8月25日</td><td>0.696</td><td>0.010</td></tr><tr><td>2014年9月19日</td><td>0.477</td><td>0.012</td><td>2016年9月23日</td><td>0.915</td><td>0.007</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HYDRUS-1D 模型2013—2016 年不同测定时间模拟评价系数 Ens值从0.433到0.915, $6 3 \\%$ 在可接受范围内。RMSE在 $0 . 0 0 6 { \\sim } 0 . 0 1 6 \\ \\mathrm { c m ^ { 3 } } { \\cdot } \\mathrm { c m } ^ { - 3 }$ 范围内，均值为 $0 . 0 0 9 \\mathrm { c m } ^ { 3 } { \\cdot } \\mathrm { c m } ^ { - 3 }$ (表2)，2013年至2016年的两个评价系数说明模型模拟 $0 { \\sim } 6 0 0 ~ \\mathrm { c m }$ 土壤水分含量结果可以接受。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模型输出的2013—2016年结果(表3)显示，降水量与实际蒸散量之差与实际情况一致，即在2013年和2016 年的丰水年，生长季末土壤剖面含水量明显比生长季初剖面含水量增加，降水量与实际蒸散量之差应大于0，与表2对应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同时，经模型反演得到的土壤水力参数可以用来模拟更深层次土壤水分运动(表4)。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd3bd5c0a1a98e9f843071cbabaf3a792a4820975e495180c96b36a668e67571.jpg",
+        "table_caption": [
+            "Table2Ens and RMSE evaluation coefficients at different measured time of correction and verification ",
+            "表32013一2016年模型输出地表水通量",
+            "Table 3The surface water flux outputs of the simulation model in 2O13-2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>土壤蒸发 Evaporations</td><td>植物蒸腾 Transpirations</td><td>样地蒸散 Evapotranspirations</td><td>降水量 Precipitation(cm)</td><td>降水量-蒸散量 Precipitation minus evapotranspirations</td><td>植物蒸腾/蒸散 Transporates /Evapotranspirations</td></tr><tr><td>Year</td><td>(cm)</td><td>(cm) 46.132</td><td>(cm) 59.197</td><td>66.94</td><td>(cm) 7.743</td><td>0.779</td></tr><tr><td>2013 2014</td><td>13.065 17.548</td><td>30.338</td><td>47.886</td><td>43.92</td><td>-3.966</td><td>0.634</td></tr><tr><td>2015</td><td>15.038</td><td>22.599</td><td>37.637</td><td>37.11</td><td>-0.527</td><td>0.600</td></tr><tr><td>2016</td><td>13.810</td><td>35.711</td><td>49.581</td><td>70.43</td><td>18.429</td><td>0.721</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d40b06fa7e06178ca0f7df021d7f5eac1fc958d3d436e413668dc68598233eb6.jpg",
+        "table_caption": [
+            "表2率定期和验证期不同测定时间评价系数 $E n s$ 和RMSE",
+            "表4模型在率定期间输出的土壤水力特征参数",
+            "Table 4Soil hydraulic characteristic parameters from the model simulation during the period of inverse correction "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>剖面层次 Soil layers(cm)</td><td>调萎含水θr (cm³-cm-3)</td><td>饱和含水量 0s(cm³cm-3)</td><td>进气吸力倒数 a(cm-1)</td><td>孔隙分布系 数(n)</td><td>饱和导水率Ks (cm·d-1)</td></tr><tr><td>0~260</td><td>0.025</td><td>0.399</td><td>0.043</td><td>3.117</td><td>712.8</td></tr><tr><td>260~300</td><td>0.019</td><td>0.371</td><td>0.038</td><td>1.783</td><td>629.8</td></tr><tr><td>300~600</td><td>0.015</td><td>0.366</td><td>0.032</td><td>1.697</td><td>476.2</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤深剖面 $\\mathbf { 0 { \\sim } 1 5 } \\mathbf { m }$ 水分运动模拟",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "模型通过验证之后，保持相关参数不变，将模拟深度增加至 $1 \\ 5 0 0 \\ \\mathrm { c m }$ ，模拟土壤水分向深层的运动过程(图4)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2013年降水量较高，模拟结果显示，雨季末的10月份 $3 0 0 { \\sim } 8 0 0 ~ \\mathrm { c m }$ 的剖面水分分布相比4月份明显增加,10月份入渗到 $1 ~ 1 0 0 \\mathrm { c m }$ 左右，因为生长季初(4月)与生长季末(10月)剖面水分含量分布线在 $1 1 0 0 \\mathrm { c m }$ 重合，水分含量趋于 $0 . 0 8 \\ \\mathrm { c m } ^ { 3 } { \\cdot } \\mathrm { c m } ^ { - 3 }$ 。由于10月份之后，继续进行模拟，结果显示， $3 0 0 ~ \\mathrm { c m }$ 以下土壤水分继续缓慢下渗， $1 0 0 { \\mathrm { d } }$ 之后，水分入渗深度超过",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$1 5 0 0 \\mathrm { c m }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2014 年季初、季末及年底3个时间点剖面水分分布变化不大，但是随时间延长，深层剖面水分含水量分布线没有变化，可能是2013年较为丰沛的降水在深层继续下渗，而浅层含水量分布线在 $4 0 0 \\ \\mathrm { c m }$ 左右就重合，说明当季降水量并没有下渗超过 $4 0 0 \\mathrm { c m }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2015 年属于干旱年，在前一年平水年的基础上，土壤剖面水分含量处于较低水平。从模拟结果看，没有明显的土壤水分下渗，因此2015年降水无法补给到浅层地下水。但是从2014年年末至2015年季初的4个多月期间, $3 0 0 \\mathrm { c m }$ 以下土壤剖面水分含量整体有降低趋势，这说明2013年的降水，经过2014全年和2015年的生长季前这段时间的入渗再分布，土壤水分的入渗深度已经超过 $1 \\ 5 0 0 \\ \\mathrm { c m }$ ，水分可以继续入渗，最终补给浅层地下水。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2016年是降水量较高的丰水年,10月份 $3 0 0 { \\sim } 7 0 0 \\mathrm { c m }$ 剖面水分含量相比4月份明显增加，季末剖面水分含量分布线在 $1 2 0 0 \\mathrm { c m }$ 左右与季初水分含量分布线重合，即季末水分入渗到$1 \\ : 2 0 0 \\ : \\mathrm { c m }$ ，模拟到年末水分含量分布线延伸超过 $1 5 0 0 ~ \\mathrm { c m }$ 。按照2013一2015年期间的水分运动状况，本年度的土壤水分将在2017年和2018 年生长季之前，有更多的水分入渗超过 $1 5 0 0 \\mathrm { c m }$ 深度，向更深层运动。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c7f0ee4e658fb6a0854c8217e7ffbb7cf8c4dc1f8531c74c65d6305f25c4902.jpg",
+        "img_caption": [
+            "图42013一2016年生长季初、生长季末及年末的 $\\mathbf { 1 5 0 0 c m }$ 深度水分分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4Soil water content at depth $1 5 0 0 \\mathrm { c m }$ at the beginning of the growing season,the end of the growing season and the end of the yeai ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据前期研究，该样地2013年5一9月土壤蒸发总量 $( E _ { \\stackrel { \\ast } { \\bot } } )$ 为 $1 7 . 0 \\mathrm { c m }$ ，植物蒸腾总量 $( T )$ 为 $2 6 . 2 \\thinspace \\mathrm { c m } ^ { [ 2 7 ] }$ ,T${ \\bf \\Gamma } _ { \\ddot { \\Xi } } / E T .$ 总为0.606,2015年 $T _ { \\check { \\varepsilon } \\check { \\varepsilon } } / E T _ { \\check { \\varepsilon } \\check { \\varepsilon } }$ 为 $0 . 5 6 9 ^ { [ 2 8 ] }$ 。模型模拟结果得到2013年、2014年、2015 年和2016 年的T/ET分别为0.779、0.634、0.600和0.721，4年的T/ET平均值为0.684，模型模拟值与已有测定值接近，说明模型模拟的上边界通量结果与实测接近。降水进入土壤后，除了上边界的蒸散发损失之外，就是在土壤中的储存和深层渗漏。雨强大，历时短，一次性降水多是黄土高原典型的降水特点[29]。对于有高孔隙度的砂质土壤来说，其饱和导水率高，田间持水量低，强降水后水分入渗迅速。降水结束后，强烈蒸发使砂质土壤表面很快形成干沙层[30]，大孔隙毛管上升水通道断裂，供水作用停止，随后土壤蒸发仅发生在深层土壤，水汽通过土壤孔隙再扩散到大气中去，蒸发速率比同样条件下水面蒸发小得多[31]，干沙层减少了地下水受强烈蒸发的损失，起到了保护深层土壤水分的作用。当入渗深度超过根系深度时，土壤水分不受蒸散发影响，继续向下渗漏[10.27]。在这种条件下，即使是干旱年，也有可能补给浅层地下水。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在丰水年，由于土壤质地原因，大的降水很难在根区滞留而被植物利用，尽管一定时段内降水量可能小于同期植物需水量，但仍有水分通过根区下渗至深层土壤[1]，否则降水转化成土壤水后不参与地下水循环，通过蒸腾蒸发作用返还到大气中[32]。模拟结果显示，2013 年和 2016 年降水量相对蒸散量有盈余，且2016 年降水量显著高于同期蒸散量，入渗深度也超出了根区范围，通过降水入渗与水分再分布过程，降水可能补给到浅层地下水，进入小流域地下水循环的过程中。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mathieu 和Bariac[33]认为，通过对比降水和土壤水中同位素变化特征，将降水入渗分为2个过程：一是降水入渗到土壤基质中，与土壤浅层自由水完全混合后继续下渗，并因蒸发而富集氢氧同位素；二是降水通过土壤大孔隙以优先流的形式快速通过浅层土壤，最终导致深层渗漏。Gazis 和Feng[34]的研究显示，在浅层土壤，降水在入渗过程中以活塞流形式下渗，同时部分雨水能够以优先流的形式快速抵达深层土壤，这种优先流的存在，使得降水能够快速补给浅层地下水。但最近关于地下水的同位素研究表明，当季降水可能并不容易和浅层的土壤水分充分混合，并以活塞流的方式下渗，而是以“易动水\"的形式直接补给地下水；只有原来保持在土壤根际附近的小孔隙中的\"难动水\"被植物耗竭，根区才有可能得到当季降水的补给[34]。目前，大多数研究认为黄土高原的塬区丰富的地下水是通过优先流补给的，因为传统“活塞”流穿过厚层黄土需要几十甚至几百年的时间[18.35-36]。而在丘陵沟壑区，降水可以通过复杂地形形成的特殊通道补给浅层地下水，例如黄土和古土壤的接触面，边坡裂隙等[37]。Yasuda 等[38]在六道沟流域的研究表明，降水以坡面径流的形式在淤地坝沟头部位汇集入渗，进而补给浅层地下水。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与试验样地临近的沟道基流观测结果显示,2015年6—10月的基流流量随降水的变化而变化(图4)，但是基流的增加对降水响应存在滞后现象，这与Tan等[37研究结论一致。如果6月28日、7月17日、8月3日、9月4日、9月8日、10月2日的基流曲线峰值分别是对8月28日、9月10日、9月28日、10月19日、10月25日、11月5日的降水的响应，那么间隔时间分别为61d、55d、59d、45d、47d、33d，平均滞后时间大约为 $5 0 \\mathrm { d }$ 。基流可能来源处的地表与基流出流处岩层相对高差为 $1 7 \\mathrm { m }$ ，计算得到土壤水分运动平均速率为 $3 4 \\ \\mathrm { c m \\ d ^ { - 1 } }$ 。试验观测的旱柳样地距离基岩 $3 0 \\mathrm { ~ m ~ }$ 左右，按照这个速率，季末降水期基本结束后,将近3个月的时间，降水可以到达基岩，进而可能补给到浅层地下水。土壤剖面水分运动模拟结果显示，雨季结束后，2013年和2016年两个丰水年份，水分下渗至基岩处需要 $1 0 0 \\mathrm { ~ d ~ }$ 左右的时间，二者的入渗速率基本接近，证明降水通过土壤基质入渗与再分布过程也可以补给该区的浅层地下水，因为 HUYDRUS-1D 模拟的水分运动过程并未考虑优先流现象。但是，在水蚀风蚀交错区，黄土与风沙土交错分布的地貌特征下，风沙土导水率高，持水性差，区域上成为降水补给地下水的“优先通道”。在风蚀水蚀交错区，往往在风沙土堆积的附近沟道有“泉水”，就是例证。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d8e637bad5f275223e098ee8b8fd8422538490d9281d37a25f973d3c3770fca.jpg",
+        "img_caption": [
+            "图52015年基流与日降水变化",
+            "Fig.5Variety of base flow and daily precipitationin 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "黄土高原水蚀风蚀交错区降水年际差异大，在连续4年观测期间，最大年降水量约是最小年降水量的2倍，水分入渗过程受降水量影响明显。在区域平水年或干旱年，粗质地土壤剖面含水量仅在 $3 \\mathrm { m }$ 以内深度波动, $3 \\mathrm { m } { \\sim } 6 \\mathrm { m }$ 水分含量变化微弱。但是，丰水年2013年和2016年生长季末剖面水分含量显著高于生长季初，得益于较充足的降水和粗质地土壤的高入渗率，降水大量转化为土壤水快速向下入渗运移。在观测期间的2个丰水年，降水入渗深度超过观测深度 $( 6 ~ \\mathrm { m } )$ ，模型模拟显示当年植物生长季末降水最深入渗运移至 $1 2 \\mathrm { m }$ 年末已经超过模拟深度 $1 5 \\mathrm { m }$ ，远超过根层，水分继续向深层运移，可能补给浅层地下水。该区黄土与风沙土交互堆积形成的特殊地貌条件下，风沙土剖面可能是浅层地下水补给的“特殊通道”。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]LiYH,DuGM,LiuYS.TransformingtheLoessPlateauofChina[J].FrontiersofAgriculturalScience&Enginering,2016 3(3): 181-185   \n[2]Li Z,LinXQ,ColesAE,etal.Catchment-scalesurfacewater-groundwatercoectivityonChina'sLessPlateau[J].Catena 2017,152:268-276   \n[3] 兰志龙，潘小莲，赵英，等．黄土丘陵区不同土地利用模式对深层土壤含水量的影响[J].应用生态学报, 2017,28(3): 847-855. Lan ZL,PanXL,ZhaoY,etal.Effectsoflandusetypesondeepsoil watercontentintheLoesHillareaofthe north Shaanxi Province,China[J]. Chinese Journal of Applied Ecology,2017,28(3): 847-855.   \n[4]Hu W,SiBC.Estimatingspatiallydistributedsoil watercontentatsmallwatershedscalesbasedondecompositionof temporal anomalyand time stabilityanalysis[J].Hydrology &Earth System Sciences Discussions,2016,20(1): 571-687.   \n[5]李晗，司炳成，靳静静，等．利用环境氘估测黄土高原坡地深层渗漏量[J]．水土保持学报,2016,30(4):91-95. Li H,SiB C,JinJJ,et al.Estimation of deepdrainageratesontheslope landof LoessPlateau basedontheuseof Environmental Tritium[J]. Journal of Soil and Water Conservation,2016,3O(4): 91-95.   \n[6] 陈建生，凡哲超，汪集肠，等．巴丹吉林沙漠湖泊及其下游地下水同位素分析[J]．地球学报,2003,24(6):497-504. Chen JS,FanZC,WangJY,etal.Isotopemethods forstudyingthereplenishmentof thelakesanddownstreamgroundwater in the Badain Jaran desert[J].Acta Geoscientica Sinica,2O03,24(6): 497-504   \n[7] 黄天明，庞忠和．应用环境示踪剂探讨巴丹吉林沙漠及古日乃绿洲地下水补给[J]．现代地质,2007,21(4):624-631 HuangTM,Pang ZH.Groundwater recharge in Badain Jaran desertand Gurinai oasis basedonenvironmental tracers[J]. Geoscience,2007,21(4): 624-631   \n[8] 刘建刚．巴丹吉林沙漠湖泊和地下水补给机制[J].水资源保护,2010,26(2):18-23. LiuJG.Recharge mechanismsof lakesand groundwater in Badain Jarandesert[J].Water Resources Protection.2O10,26(2): 18-23   \n[9]徐学选，张北赢，踞桐军．黄土丘陵区降雨、径流、土壤水分的时空分布与利用对策[J].生态环境学报，2005，14(6): 890-893. Xu XX,ZhangBY,JuTJ.The Spatial-temporaldistributionofrainfall,unof,andsoilwaterinsmall watershedandits utilization[J].Ecology and Environment,2005,14(6): 890-893 Transactions of the Chinese Society of Agricultural Engineering,2012,28(18): 134-141   \n[11] 程立平，刘文兆,李志，等．长武黄土塬区土地利用变化对潜水补给的影响[J]．水科学进展,2016, 27(5): 670-678. Cheng LP,LiuWZ,LiZ,etal.Landusechange affects groundwaterrecharge inthe Changwu Loess Tablelandof China[J]. Advances in Water Science,2016, 27(5): 670-678   \n[12] 徐学选，陈天林．黄土土柱入渗的优先流试验研究[J]．水土保持学报,2010,24(4):82-85. Xu X X,ChenTL.Experimental studyoninfiltrationofloesscolumn though preferential flow[J]. Joural of Soil and Water Conservation,2010,24(4): 82-85   \n[13] 徐学选，张北赢，田均良．黄土丘陵区降水-土壤水-地下水转化实验研究[J]．水科学进展,2010, 21(1): 16-22. Xu X X,Zhang BY,TianJL.Experimentalstudyonthe precipitation-soilwater-groundwater transformationinLoess Hilly region[J]. Advances in Water Science,2010,21(1):16-22   \n[14] 薛根良．黄土地下水的补给与赋存形式探讨[J]．水文地质工程地质,1995,(1):38-39. Xue G.Aresearch on the rechargeandoccurances ofthe loesic groundwater[J]. Hydrogeology and Engineering Geology.1995, (1): 38-39   \n[15] 李红溪．董志塬近30年地下水位变化分析[J]．地下水,2015,37(6):63-64. Li HX.Analysesof groundwaterleveldynamiconthe Dongzhiloessplain inlast30years[J].Underground Water,2015,37(6): 63-64   \n[16] Chen Y,Wang K,Lin Y,et al. Balancing green and grain trade[J]. Nature Geoscience,2015,8(10): 739-741   \n[17] Zhu R R,Zheng H X,Liu C M. Estimation of groundwater residence time and recession rate in watershed of the Loess Plateau[J]. Journal of Geographical Sciences,2010,20(2): 273-282   \n[18]Li Z,Chen X,Liu WZ,etal.Determinationof groundwater recharge mechanism in the deep loessal unsaturated Zone by environmental tracers[J]. Science of the Total Environment, 2017,586: 827-835   \n[19] 姜娜，邵明安，雷廷武．水蚀风蚀交错带坡面土壤入渗特性的空间变异及其分形特征[J]．土壤学报, 2005,42(6): 904-908. Jiang N,ShaoMA,LeiTW.Fractal dimensionndspatialvariabilityofsoil waterinfiltrationpropertiesonnaturalopeina water-wind erosion interlaced region[J]. Acta Pedologica Sinica,2005,42(6): 904-908   \n[20] 唐克丽，侯庆春，王斌科,等．黄土高原水蚀风蚀交错带和神木试区的环境背景及整治方向[J]．水土保 持研究,1993,(2): 2-15. Tang KL, Hou QC,Wang B K,etal.The environment backgroundand administration wayof wind-water erosioncriscross region and Shenmu experimental area on the Loess Plateau[J]. Memoir of NISEC,Academia Sinica and Ministryof Water Resources,1993, (2):2-15.   \n[21] 贾恒义，雍绍萍，王富乾．神木试区的土壤资源[J]．水土保持研究,1993,(2):36-46. Jia HY, Yong SP,Wang FQ.The soil resource inthe Shenmu experimental area[J]. Memoir ofNSEC,Academia Sinica and Ministry of Water Resources,1993,(2): 36-46.   \n[22] Peng X P,Fan J, Wang QJ,et al. Discrepancy of sap flow in Salix matsudanagrown under different soil textures in the water-wind erosion crisscross region on the Loess Plateau[J]. Plant and Soil, 2015, 390(1): 383-399   \n[23] 陈宝根，王仕琴，宋献方．一维土壤水分运动模拟在土壤水分特征研究中的应用——以华北平原衡水 实验站为例[J]．水文,2011,31(3):64-70. Chen B G, Wang SQ,Song XF.Applicationof1-Dsoil water movement simulation in research onsoil water characteristics: a case of Hengshui experimental station[J]. Hydrology,2011,31(3): 64-70   \n[24] Ritzema HP, Kselik R, Chanduvi F. Drainage of Irrigated Lands[J].Irigation Water Management Training Manual,1996, 9   \n[25]RitchieJTModelforpredicting evaporationfromaowcropwithincompletecover[J]. WaterResoucesResearch,1972,8(5): 1204-1213.   \n[26] 贺康宁，田阳，张光灿．刺槐日蒸腾过程的Penman—Monteith 方程模拟[J]．生态学报,2003,23(2):251- 258. He K N,Tian Y,Zhang GC.Modelingof the dailytranspirationvariation in locust forest byPenman-Monteith equation[J]. Acta Ecologica Sinica,2003,23(2): 251-258.   \n[27]彭小平，樊军，米美霞，等．黄土高原水蚀风蚀交错区不同立地条件下旱柳树干液流差异[J]．林业科学，2013，49(9): 38-45. Peng XP,FanJ,MiMX,etal.Sapflowdynamicchangesofsalix matsudanainthewater-winderosiocrisscross regiononthe Loess Plateau[J]. Scientia Silvae Sinicae,2013,49(9): 38-45   \n[28]Wang S,FanJ,WangQJ.DeterminingEvapotranspirationofaChinese WillowStand withThree-NeedleHeat-PulseProbes[J]. Soilence Society of America Journal,2015,79(6): 1545-1555   \n[29]琚彤军，刘普灵，王栓全，等．黄土区不同地类坡面水沙动态过程及其发生机理的模拟实验研究[J].农业环境科学学报， 2007,26(5): 1942-1947. JuTJ,LiuPLWangSQ,etal.imuativestudyofprocessandprinipleofunof-sedimentyieldidierntlandusetyes in loess region[J]. Journal of Agro-environment Science,2007,26(5): 1942-1947   \n[30] 刘新平，张铜会，赵哈林，等．科尔沁沙地流动沙丘土壤水分和特征常数的空间变化分析[J].水土保持学报，2005, 19(03): 156-159. Liu XP,ZhangTH,Zhao HL,etal.Analysis onspatial varietyofsoil moistureand characteristicconstant on mobiledune in Horqin sandy land[J].2005,19(03):156-159.   \n[31]邵明安，王全九，黄明斌.土壤物理学[M]．北京：高等教育出版社,2006:148-150. Shao M A, Wang QJ, Huang MB. Soil physics[M]. Higher Education Press,2006: 148-150.   \n[32] 陈洪松，王克林，邵明安．黄土区人工林草植被深层土壤干燥化研究进展[J]．林业科学,2005,41(4):155-161. Chen HS,Wang KL,Shao M A.Areview on the efectof vegetationrehabilitationonthe desiccation ofdeep soil layeron the Loess Platea[J]. Scientia Silvae Sinicae,2005,41(4): 155-161   \n[3] MathieuR,BariacT.Anisotopic study(super2)Hand(super18)Oof water movements inclayeysoilsunderasemiarid climate[J].Water Resources Research,1996,32(4): 779-790   \n[34]GazisC,FengX.Astableisotopestudyofsoil water:evidence formixingand preferentialflowpaths[J].Geoderma,2004, 119(1-2): 97-111   \n[35]Gates JB,ScanlonBR,MuX,etal.Impactsofsoilconservationongroundwaterrechargeinthesemi-aridLoessPlateau, China[J]. Hydrogeology Journal, 2011,19(4): 865-875   \n[36]BerryZC,EvaristoJ,MooreG,etal.Te two water worldshypothesis: Adresing multiple workinghpotheesandproposing a way forward[J]. Ecohydrology,2017:eco.1843   \n[37]TanH,LiuZ,RaoW,etal.Stableisotopesofsoilwater:Implicationsfosoilwaterandsallowgroundwaterechargeiil and gully regions of the LoessPlateau,China[J].Agriculture,Ecosystems & Environment,2O17,243:1-9   \n[38]YasudaH,BemdtssonR,HinokidaniOetal.Theimpactofplant wateruptakeandrechargeongroundwaterlevelatasiten the Loess Plateau of China[J]. Hydrology Research,2012, 44-1(1): 106-116 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

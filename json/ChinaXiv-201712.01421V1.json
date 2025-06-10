@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "基于SLP的施工场地布置规划",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵钦刘玉刘云贺 黑新宏",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（西安理工大学，西安 710048)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】施工场地布置是项目施工组织设计的重要内容，也是项目施工的前提和基础。传统施工场地布置就是凭经验布置,存在诸多不合理的现象。本文采用系统布置方法(SLP)对施工场地进行布置规划,基于对场地布置中各功能分区的相关性研究，提出了可行的场地布置规划方案。最后采用加权因素法对各个方案进行评价,选出最佳方案。研究结果表明,SLP法的采用为解决施工场地布置优化问题提供了一种有效的途径，在降低成本的基础上也减少了设备的二次搬运，可为相关工程应用提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】场布规划；SLP；加权因素法；方案评价",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；TU713 【文献标识码】A 【文章编号】1674-7461(2017)03-0063-06   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.03.11 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "施工现场布置作为施工现场管理的基础，研究如何科学合理地将各类设备设施布置在施工场地。有研究表明，对于制造业，合理的场地布置方案可将现场运输成本降低到 $2 0 \\% \\sim 6 0 \\%$ 。随着建筑行业的迅速发展,理论研究的深入，很多学者在施工场地布置方面做了大量的研究。宁欣以价值工程理论为依据，从施工场地布置入手，采用蚁群算法进行目标函数寻优，从理论上对场地进行布置，克服了以往单靠项目经理经验布置的弊端[1]。王廷魁研究提出将施工项目按照分部工程中的地基基础、主体结构与装饰装修三个阶段分别进行场地布置方案设计，通过借助BIM工具和灰色关联分析方法在不同阶段选择不同的布置方案，从而选出每个阶段的最优方案[2]。张建平研发4D 施工现场管理系统，对施工现场和场地状况进行动态模拟，提高了建筑工地的管理水平和工作效率[3]。还有学者提出盾构法[4]、利用可视化技术[5]去进行施工场地布置等等，然而很少有学者通过研究场地布置中各功能分区之间的联系来进行合理的施工场地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "布置。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为此，本文在综合考虑场地置布设施之间的邻接需求关系、布置需求的基础上，引人了一种新的研究方法－系统布置方法SLP（SystematicLayoutPlanning），为施工场地布置提供理论依据。该方法通过对场地布置中各功能分区联系的紧密程度进行研究，从而得出可行的场地布置规划方案，最后采用加权因素法，进行计算和分析，确定适合该项目场地布置的最佳设计规划方案。实例结果证明，采用SLP法为解决施工场地布置优化问题提供了一种有效的途径,为施工现场人员进行场地布置时提供了更可靠的依据，达到了提高施工效率，缩短施工周期的目的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2系统布置方法(SLP)分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 SLP方法的涵义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20世纪60年代美国的RichardMuther在积累了大量布局设计经验的前提下，提出了基于作业单位之间物流与非物流关系分析的设施规划方法（SystematicLayoutPlanning,简称SLP）,这种方法在布置设计领域获得极其广泛的运用[6]。系统布置方法(SLP)将物流分析与作业单位关系密切程度分析相结合，是一种逻辑性强、条理分明的布局设计方法[7-9],因此本文提出一种基于 SLP 的施工场地布置规划，通过分析场地内各作业单位之间的关系，从而生成最佳场地布置方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2SLP方法的实施流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对工程布置中存在布置不合理导致施工效率低下、施工成本提高等问题，本文提出了基于SLP的施工场地布置方法，该方法主要包括5个基本要素：产品（P）、产量（Q）、工艺过程（R）、辅助部门（S）、时间(T）。基于SLP理论的规划方法流程图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/84323344f46d66d48dc98622697ea3d05310423d72707b18cccf2d334ce0523d.jpg",
+        "img_caption": [
+            "图1SLP流程模式"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3施工场地布置分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1施工场布设计的复杂性和重要性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科学合理的施工场地布置对施工进度、安全等都有着显著影响。目前大多数的场地布置随着建筑物复杂程度的提升也愈来愈复杂，施工现场的临时房屋、各材料堆放区、加工生产区、大型设备施工区等布局交错复杂，具有规模大、工艺复杂、建设周期长、协作单位多等特点，导致现场经常出现设备与操作区域之间发生碰撞的情况，给施工带来了极大的挑战,甚至造成安全隐患[10]。因此,合理的施工场地布置对施工能否顺利进行至关重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2传统施工场布设计的局限性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的施工场布设计，以预先绘制的施工现场二维平面图、施工人员的经验作为参考依据,进行施工场地布置，其局限性首先是二维场地布置平面图不能展示三维空间，一些不合理的现象、隐藏的问题在进行场地布置过程中无法显现，导致在施工过程中会因场地布置不合理出现窝工进而影响施工进度，为现场施工埋下了众多弊端因素，造成一定的经济损失[1]。其次凭借施工人员的经验进行场地布置，未采用科学合理的方法对场地布置中各作业单位之间的相关性进行分析，缺乏科学性和严密性[12]。因此传统的布置方式已不能满足施工的需要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4基于SLP的施工场地平面布置流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1施工场地布置中作业单位划分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在施工过程中，场地布置会随着项目施工的不断深化发生动态变化，机械、材料、人力的需求也会发生变化，因此我们应该从建设项目整个施工过程进行施工场地布置。在进行场地布置时，本文将场地布置主要划分为以下七个作业单位：施工区、钢筋加工和堆放区、木材加工和堆放区、其他材料加工和堆放区、废料残渣堆放区、办公区、生活区。在作业单位划分中本文专门划分了其他材料加工和堆放区，由于施工往往出现场地狭小，各专业交错进行的情况，此时我们可针对特定工程项目与场布设施布置需求，在其他材料堆放区放置所需要的设备、材料，如混凝土搅拌站、砂石、水泥库等。另外塔吊、施工运输梯在本文中没有被列入主要作业单位中，由于在施工场地布置塔吊时，应考虑其覆盖范围、起重能力等，当确定了各个作业单位的位置时，其位置也是相对确定的，在布置施工电梯时，应考虑卸料平台门尽量对准窗口留置，减少施工洞留设，这与拟建建筑物的建筑设计有关，与各作业单位没有直接的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.2施工场地总平面布置 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. 2. 1 作业单位物流关系分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据施工场地布置中各个作业单位之间的施工需求，参考物流强度分布确定各个作业单位的物流强度等级。其中物流强度由符号A，E,I,O，U来表示，其取值为 $4 \\sim 0$ ，含义见表1，从而绘制场布各作业单位物流相关图（图2），以施工区、钢筋加工和堆放区的物流关系为例说明其物流强度等级，钢筋加工和堆放区为施工区提供大量所需的钢结构制品，为了减少材料运输距离、搬运次数和施工成本，应缩短两个区域之间的距离，所以它们之间的物流强度很高，用符号A表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b8d4746ae002b1d13e575f9651d6d1b0f75e706af1ae0fae66581b0bdb53c84.jpg",
+        "table_caption": [
+            "表1作业单位关系等级分类"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>代数值</td><td>密切等级</td></tr><tr><td>A</td><td>4</td><td>绝对重要</td></tr><tr><td>E</td><td>3</td><td>很重要</td></tr><tr><td>I</td><td>2</td><td>重要</td></tr><tr><td>0</td><td>1</td><td>一般</td></tr><tr><td>M</td><td></td><td>不重要</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4eb0eb587691b82cbb673622ca64fad28955e55b20f603dd0959a26d408d1acb.jpg",
+        "img_caption": [
+            "图2场地布置作业单位物流相关图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 2.2 作业单位非物流关系分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "场地布置中各个功能分区之间存在物流与非物流关系。在分析各功能分区间非物流关系时，需要考虑的因素有构件流动、监督与管理方便、人员联系等，本研究各作业单位密切程度等级理由见表2,确定了各作业单位相互关系密切程度之后，建立作业单位非物流相关图（见图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9df86e167b41fc63daaa74eaa3215092bf12a9cc669085d966400f375b32bd18.jpg",
+        "table_caption": [
+            "表2场地布置作业单位密切程度等级表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>代码</td><td>理由</td></tr><tr><td>1</td><td>构件流动</td></tr><tr><td>2</td><td>监督、管理方便</td></tr><tr><td>3</td><td>人员联系</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2.3作业单位综合关系分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对施工现场的特点，将场地布置作业单位之间的物流强度与非物流强度采用 $1 : 1$ 比例加权计算,量化物流和非物流密切程度等级，取 $\\mathrm { A = 4 , E = }$ $^ { 3 } , \\mathrm { I } = 2 , \\mathrm { O } = 1 , \\mathrm { U } = 0$ ，得场地布置各作业单位综合相互关系计算表（见表3），从而绘制作业单位综合相互关系图（见图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1d84b8a0df0d981626ec82843e7ae5f4701e639448110de304b4155f014dff7.jpg",
+        "img_caption": [
+            "图3场地布置作业单位非物流相关图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/499a87952256aa12aa1bed3bc96c055e7efb1938e310a8482dd3a07be08b097a.jpg",
+        "table_caption": [
+            "表3场地布置作业单位综合相互关系计算"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>6</td><td>8</td><td>u</td><td></td><td></td><td></td><td>1</td><td></td><td>u</td><td></td><td>0</td><td>6</td><td></td><td>8</td><td>L</td><td>9</td><td>s</td><td>4</td><td></td><td></td><td>乙 I</td><td></td><td></td><td>编号</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>s</td><td></td><td></td><td>4</td><td>4</td><td>4</td><td></td><td></td><td></td><td></td><td></td><td>乙</td><td>乙</td><td>乙</td><td>乙</td><td>乙</td><td></td><td>I</td><td></td><td></td><td></td><td></td><td></td><td>I</td><td></td><td></td></tr><tr><td></td><td>山</td><td></td><td></td><td></td><td>-6</td><td>s</td><td>-7</td><td>-6</td><td>s</td><td></td><td>-4</td><td></td><td>-6</td><td>s</td><td>-4</td><td></td><td></td><td></td><td>-6</td><td>s</td><td></td><td>-4</td><td></td><td></td><td></td><td rowspan=\"3\"></td></tr><tr><td></td><td>I</td><td>0</td><td></td><td>I</td><td>0</td><td>I</td><td>I</td><td>0</td><td>I</td><td></td><td>n</td><td>I</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>I</td><td>n</td><td>n</td><td>V</td><td></td><td>V</td><td>V</td><td>V</td><td>V</td><td>V</td><td></td></tr><tr><td></td><td>乙</td><td></td><td></td><td>乙</td><td>I</td><td></td><td>乙</td><td>乙</td><td>一</td><td>乙</td><td></td><td>0</td><td>乙</td><td>一</td><td>乙</td><td>0</td><td>0</td><td></td><td></td><td>4</td><td>4</td><td>+</td><td></td><td>+</td><td>4 分值</td><td>物流</td><td>密切程度等级</td></tr><tr><td></td><td>I</td><td></td><td>0</td><td>I</td><td>0</td><td>0</td><td>I</td><td>0</td><td></td><td>0</td><td>0</td><td>I</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>V</td><td>V</td><td>V</td><td>V</td><td></td><td></td><td>V</td><td>非物流：系</td></tr><tr><td></td><td>乙</td><td>一</td><td></td><td>乙</td><td></td><td></td><td>乙</td><td>一</td><td></td><td>一</td><td>I</td><td>乙</td><td></td><td>一</td><td></td><td></td><td>I</td><td>4</td><td>4</td><td>4</td><td></td><td></td><td>4</td><td>分值</td><td></td></tr><tr><td></td><td>I</td><td>0</td><td></td><td>I</td><td>0</td><td>I</td><td>I</td><td>0</td><td></td><td>I</td><td>0</td><td>I</td><td>0</td><td>I</td><td>0</td><td>0</td><td></td><td>H</td><td>V</td><td>V</td><td></td><td></td><td></td><td>等级</td><td>综合关系</td></tr><tr><td>9</td><td>4</td><td>乙</td><td></td><td>4</td><td>乙</td><td></td><td>4</td><td>乙</td><td></td><td></td><td>I</td><td>4</td><td>乙</td><td></td><td>一</td><td>一</td><td>8</td><td></td><td>8</td><td>8</td><td>8</td><td>8</td><td>8</td><td>分值</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/84fb52dcca72d7487e5a6b77e7715f1b00dab2a693bdcca8a3234c991b4ee5b9.jpg",
+        "img_caption": [
+            "图4场地布置作业单位综合相互关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.4 作业单位位置相关图",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "_根据场地布置作业单位综合相互关系计算表，得出综合接近程度排序表(见表4)。通过对综合接近程度排序表进行分析，对场地中各作业单位进行布置,等级A、E、I、O分别用粗实线、细实线、虚线、无线条表示，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/af7f5cbc37ed3e378489766e55d45a4586d077d77f4d4e42ffcfee8f93e87525.jpg",
+        "table_caption": [
+            "表4综合接近程度排序"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作业单位</td><td></td><td></td><td></td><td></td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>2 ■</td><td>1</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr><tr><td>W</td><td>2</td><td>A</td><td></td><td>0</td><td>0</td><td>I</td><td>0</td><td>I</td></tr><tr><td></td><td></td><td>A</td><td>0</td><td></td><td>0</td><td>I</td><td>0</td><td>I</td></tr><tr><td></td><td>4</td><td>A</td><td>0</td><td>0</td><td></td><td>I</td><td>0</td><td>I</td></tr><tr><td>ixeui</td><td>5</td><td>A</td><td>I</td><td>I</td><td>I</td><td></td><td>0</td><td>I</td></tr><tr><td></td><td></td><td>A</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>E</td></tr><tr><td>C</td><td>7</td><td>A</td><td>I</td><td>I</td><td>I</td><td>I</td><td>E</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f51e94b6f577123eb1f665741a772cd54ff332d51d1128fc5f08d2dc41f8331.jpg",
+        "img_caption": [
+            "图5场地布置作业单位位置相关图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.5场地作业单元布置规划方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行施工场地布置中，将所得的作业单元位置相关图调整修改后绘制成平面图，综合考虑各个作业单位的工作性质，对施工场地布置得到两套布",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "置方案，如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d98d0e026121dc871ba124edebb426f08fcd3a63e44a15f4601458c14c5cddc6.jpg",
+        "img_caption": [
+            "(a)施工场地总平面布置图方案一"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ce2e7e0b44f92e13bb4d9ce27f0544ddecbccca678fc2750da4ddcd4ac50462.jpg",
+        "img_caption": [
+            "图6施工场地总平面布置"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.6 布置方案的修正与评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于上述两个方案，采用加权因素分析法对其进行评价，评价因素包括：工作流程、作业性质和物料搬运、管理方便、安全与污染、联系频繁程度，由经验丰富的场地布置技术人员和专家进行评比，赋予每个因素以权重和等级，具体评价过程和分值见表5，其中权重分数： $\\mathrm { A } = 4$ 很好， $\\mathrm { E } = 3$ 良好， ${ \\mathrm { I } } = 2$ 较好， $0 = 1$ 一般， $\\mathrm { U } = 0$ 不好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以评估因素中序号5为例进行说明，为了给工人营造一个良好的生活环境，生活区应远离施工区域、各构件加工生产区域，比较两个方案,方案二布置更为合理，在相同权重的情况下，得分较高，因此方案二为最优方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/55a2b473410a99cbefad46b6e20439e69546d77a33d07c9e70a895e5b01f30a6.jpg",
+        "table_caption": [
+            "表5各方案总排序结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td rowspan=\"2\">评估因素</td><td rowspan=\"2\">权重</td><td colspan=\"2\">方案</td></tr><tr><td>方案一</td><td>方案二</td></tr><tr><td>1</td><td>工作流程</td><td>5</td><td>A/20</td><td>A/20</td></tr><tr><td>2</td><td>作业性质</td><td>3</td><td>I/6</td><td>E/9</td></tr><tr><td>3</td><td>物料搬运</td><td>6</td><td>E/18</td><td>E/18</td></tr><tr><td>4</td><td>管理方便</td><td>3</td><td>0/3</td><td>E/9</td></tr><tr><td>5</td><td>安全与污染</td><td>5</td><td>0/15</td><td>E/20</td></tr><tr><td>6</td><td>联系频繁程度</td><td>9</td><td>E/27</td><td>A/36</td></tr><tr><td>总计</td><td>89</td><td>112</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 实例分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1 实例概述 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "厂华电陕西区域煤电调运中心办公楼位于西安市大兴新区劳动北路沿线与北二环交界处东南角，两面临路，具有优越的地理位置和出行条件，是西安大兴新区中央商务区内办公的理想场所。建筑主体坐北朝南，主入口朝南，次入口则面向北二环，总建筑面积为 $1 7 \\ 6 2 6 \\mathrm { m } ^ { 2 }$ ,共12层，主体高度为$4 3 . 7 \\mathrm { m }$ ,采用钢筋混凝土框架剪力墙结构，办公楼总平面图如图7所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/42fb2c9fd9a28a9c18110945bc301ac9450a42a5b5316db9e39714a66026e90e.jpg",
+        "img_caption": [
+            "图7办公楼总平面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2基于 SLP的施工场地布置应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "施工场地布置在整个项目实施过程中是一个动态变化的过程，本研究主要从地基与基础、主体结构、装饰装修工程三个阶段的场地布置为出发点进行考虑，而项目在每个阶段施工过程中对场地布置的需求各不相同。在地基与基础施工阶段，场地布置的重点是如何对土地进行合理规划，在主体结构施工阶段，场地布置一方面要对钢筋加工和堆放区、混凝土加工和堆放区等区域进行合理规划，另一面也要预防各专业交错进行时可能发生的安全隐患，在装修阶段，由于外围堆放材料较少，场地布置较为宽裕。因此在进行场地布置时，对不同阶段施工过程的场地布置需分别设计规划，从而达到科学合理的场地布置方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对华电陕西区域煤电调运中心办公楼地理位置的特殊性、施工场地布置狭小等问题，在保证施工顺利进行的前提下，提出了基于SLP的施工场地布置规划，对办公楼在主体结构施工过程的场地布置进行三维模拟。该办公楼主体结构在施工过程中，场地布置中主要有钢筋加工和堆放区、混凝土加工和堆放区、模板堆放区、其他材料加工和堆放区、办公区、生活区。利用本文在前面章节中基于SLP的施工场布置所得出的结论应用于该办公楼场地布置中，场地布置三维视图如图8所示，以视图一为例说明，按顺时针的方向依次为生活区、办公区、钢筋加工和堆放区、混凝土加工和堆放区、其他材料加工和堆放区、模板堆放区。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da6e40b0f438e3c80019bdba5be933352443a60657cb4d6acfc79cecb55ee060.jpg",
+        "img_caption": [
+            "图8办公楼主体施工场地平面布置"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3 应用结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据施工场地布置的工作流程和作业性质，可以看出通过SLP得到的施工场地布置方案(图8)完全符合实际工程场地布置的需求，其优点主要有：1)以各个作业单位之间的相关性为出发点进行场地布置，更精确地确定了各个作业单位之间的相对位置，保证了物流的畅通和施工的高效率;2)提高了现场机械设备的覆盖率，降低运输费用及材料二次搬运成本，以及合理科学地规划场地布局达到了绿色施工、节能减排的预期目标;3)将办公区、生活区布置在远离施工区的位置处，减轻施工现场噪音、灰尘等不利因素对现场人员的健康危害，体现了以人为本的理念。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": ">合理的施工场地布置对确保施工环境的安全性和施工高效运作起着至关重要的作用。本文提出了一种对场地布置优化的新方法－系统布置方法（SLP)，该方法通过描述场地布置中各作业单位之间的密级关系，对各作业单位的相关性进行研究,从而得出可行的场地布置规划方案,最后采用加权因素法确定适合该项目场地布置的最佳设计规划方案,从而应用到实际工程的场地布置中去。实例结果证明，采用SLP为解决施工场地布置优化问题提供了一种有效的途径，同时也为施工现场人员进行场地布置时提供更可靠的依据,在场地布置优化方面对后续工程提供了新的解决方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］宁欣.基于施工场地布置的工程项目价值优化研究[J].建筑经济，2010，（2)：57-60.  \n［2］王廷魁，郑娇.基于BIM的施工场地动态布置方案评选[J].施工技术，2014，(3)：72-76.  \n[3」张建平，韩冰,李久林,等.建筑施工现场的4D可视化管理[J].施工技术，2006，（10)：36-38，62  \n［4］汪茂祥．盾构法施工场地布置方法[J].工程机械与维修，2008，（10):108-110.  \n［5］侯春明，任志平，杜福祥,等.可视化技术在建筑施工企业中的应[J].施工技术，2015，（06)：64-66，97.  \n[6」叶慕静，周根贵.SLP和遗传算法结合在工厂平面布置中的应用[J].华东理工大学学报（自然科学版），2005，(3):371-375.  \n［7］石鑫．基于SLP的生产设施规划[J].机械设计与研究，2014，（1):68-71.  \n［8］刘旺盛，兰培真.系统布置设计—SLP法的改进研究［J].物流技术，2006，（10)：82-85.  \n［9］范建民．机车转向架生产线工艺布局评价与优化研究[D].大连交通大学，2013.  \n[10］李飞，李伟,刘昭,等.基于BIM的施工现场安全管理[J].土木建筑工程信息技术，2015，(5)：74-77.  \n[11］郑娇.建筑施工场地动态布置方案评选研究[D].重庆大学，2014.  \n[12］郑松涛,汤文成,陈昀.SLP法在风电塔筒厂区总平面布置中的应用[J].工业工程与管理，2010，15（1)：116-1.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Layout Planning of Construction Site Based on SLP ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Zhao Qin，Liu Jue，Liu Yunhe，Hei Xinhong (Xi'an University of Technology，Xi'an 710048，China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Construction site layout is an important part of construction organization and management，which is also the premise and foundation of theproject construction.Traditional construction site layout is always basedon experience，which causes a lot of unreasonable conditions.This paper applies the systematic layout planning（SLP) method in the layout of theconstruction site,which basedon the research of thecorelation offunctional zoning in site layout，proposes afeasible plan of sitearangement.Then，various schemes areevaluated through the weighted factor method，and the best one is selected.Result shows that the SLP method is anefective way to solvethe optimization problem ofthe construction site layout，which is able to reduce the cost，as well as lessen the secondary handling of the equipment.The works of this papercan provide reference for the relevant enginering application. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Site Layout Planning；Systematic Layout Planning；Weighted Factor Method； Scheme Evaluation",
+        "page_idx": 5
+    }
+]

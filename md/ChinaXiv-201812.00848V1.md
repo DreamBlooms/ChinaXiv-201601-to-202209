@@ -1,0 +1,153 @@
+饲粮中非纤维性碳水化合物/中性洗涤纤维对绒山羊羔羊生长性能、屠宰性能及器官指数的 影响1
+
+刘树林　温　琦　张永胜　包斯琴高娃　王　雪　郭晓宇 闫素梅\*（内蒙古农业大学动物科学学院，呼和浩特010018）
+
+摘要：本试验旨在探究舍饲条件下饲喂不同非纤维性碳水化合物（NFC）/中性洗涤纤维（NDF）的全粗料与全混合饲粮对阿尔巴斯白绒山羊羔羊生长性能、屠宰性能及器官指数的影响。采用单因素完全随机试验设计，将40只4月龄断奶羯羔分为对照组（CG组）和试验组（EG组)，每组4个重复，每个重复5只羊。CG 组饲喂全粗料饲粮，育肥前期、中期与后期的NFC/NDF分别为0.13、0.12和0.12，EG组饲喂精粗比为50:50的全混合饲粮，NFC/NDF分别为0.78、0.77和0.77。试验结束时，分别从CG 组和EG组中选择8只羔羊进行屠宰。预试期 $1 4 { \mathrm { ~ d ~ } }$ ，正试期 $9 0 \mathrm { d }$ 。结果表明：1）与CG 组相比，EG 组羔羊的终末体重、总增重显著增加（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，干物质采食量趋于显著地下降（ $P { > } 0 . 0 5 )$ ，料重比显著降低（ $\scriptstyle P < 0 . 0 5 .$ )。2）与CG 组相比，EG 组羔羊的胴体重、屠宰率、眼肌面积、GR 值均显著增加（ $\scriptstyle P < 0 . 0 5 )$ ；心脏、肝脏、肺脏、肾脏、头、毛皮、血的重量显著增加（ $\scriptstyle P < 0 . 0 5$ )。3）EG组羔羊皱胃重量占复胃总重比例显著低于CG组 （ $. P { < } 0 . 0 5 )$ ；瘤胃重量、皱胃重量分别占宰前活重比例显著低于CG 组（ $\cdot P { < } 0 . 0 5 \$ )。EG组羔羊的大肠重量占宰前活重比例与小肠重量均显著低于CG组（ $_ { . P < 0 . 0 5 ) }$ 。结果提示，与饲喂NFC/NDF为0.77\~0.78的全混合饲粮相比，饲喂NFC/NDF为 $0 . 1 2 { \sim } 0 . 1 3$ 的全粗料饲粮降低了阿尔巴斯白绒山羊羔羊的生长性能、屠宰性能和内脏器官的发育速度，但增加了胃肠道重占体重的比例。
+
+关键词：绒山羊羔羊；生长性能；屠宰性能；器官指数中图分类号：S827 文献标识码：A 文章编号：
+
+阿尔巴斯白绒山羊是世界著名的绒肉兼用型品种[1，其所产山羊绒以细、长、柔、软闻名世界，所产羊肉味道鲜美，无膻味，有着广阔的市场前景。随着近年来羊绒价格的下跌，羊肉需求量的不断增加，同时伴随着草原生态环境的恶化、草场载畜量的限制等因素，使得舍饲育肥绒山羊羔羊成为新的经济增长点。然而，在实际生产中，舍饲育肥通常需要增加饲粮的精饲料比例以提高育肥效率，但高精粗比的饲粮其非纤维性碳水化合物（NFC)含量高、中性洗涤纤维（NDF）含量低，易引起瘤胃pH降低，出现酸中毒现象，因此尽管提高了育肥效率，但可能会对反刍动物的瘤胃发酵与健康产生影响，引起肉品质降低[2]。饲粮精粗比是造成肉品质差异的主要原因之一，王子苑[3]以大足黑山羊为对象的舍饲育肥研究得出，随饲粮精料比增加，羊肉中不饱和脂肪酸与饱和脂肪酸的比例降低，有利于人类健康的脂肪酸含量降低。全粗料舍饲育肥是一种可缓解天然草场压力、不受草场载畜量限制的饲养方式，一些研究表明尽管其降低了育肥效率，但可改善肉品质。Limea 等[4]的研究结果显示，在舍饲条件下,饲喂NFC/NDF较低的全粗料饲粮尽管降低了加勒比山羊的生长性能和屠宰性能，但可显著增加肌内n-3多不饱和脂肪酸的沉积，更加符合人类健康食品的要求。然而，在舍饲条件下，与 NFC/NDF 较高的全混合饲粮相比，NFC/NDF 较低的全粗料饲粮对绒山羊羔羊生长性能、屠宰性能及器官指数究竟产生了什么样的影响尚不清楚。鉴于此，本试验主要比较研究了舍饲条件下饲喂不同NFC/NDF的全粗料与全混合饲粮对阿尔巴斯白绒山羊羔羊生长性能、屠宰性能及器官指数的影响，为合理制定绒山羊羔羊育肥方案、提高其养殖效益提供数据支持。1材料与方法
+
+# 1.1 试验动物与试验设计
+
+试验采用单因素完全随机试验设计。从内蒙古白绒山羊种羊场淘汰群中选择体重相近、
+
+3 健康的40只4月龄断奶羯羔，分为对照组（CG组）与试验组（EG组)，每组4个重复，4 每个重复5只羔羊。预试期14d，正试期 $9 0 \mathrm { d }$ ，包括前期（ $\begin{array} { r } { 1 \sim 3 0 \mathrm { d } . } \end{array}$ 、中期（ $3 1 { \sim } 6 0 \mathrm { d }$ ）和后5 期（61\~90d)。CG 组饲喂由苜蓿草、燕麦草和玉米秸秆组成的全粗料饲粮，育肥前期、中5 期和后期的饲粮 NFC/NDF 分别为0.13、0.12和0.12（精粗比0:100)，EG 组饲喂全混合饲7 粮，NFC/NDF分别为0.78、0.77和0.77（精粗比50:50)。试验期间所有羊均进行舍饲育肥，3 每天饲喂2次（08:00，15:00)，自由饮水。全混合饲粮参照中国肉用山羊饲养标准（2004）） [5]配制，全粗料饲粮参考阿尔巴斯白绒山羊自然放牧条件下的牧草营养水平[配制，试验饲） 粮组成及营养水平见表1。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">1 to 30 d</td><td colspan="2">31 to 60 d</td><td colspan="2">61 to 90 d</td></tr><tr><td>CG组</td><td>EG组</td><td>CG组</td><td>EG组</td><td>CG组</td><td>EG组</td></tr><tr><td>原料Ingredients</td><td>CG group</td><td>EG group</td><td>CG group</td><td>EG group</td><td>CG group</td><td>EG group</td></tr><tr><td>苜蓿草 Alfalfa</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>60.00</td><td>25.00</td><td>30.00</td><td>15.00</td><td>25.00</td><td>12.50</td></tr><tr><td>玉米秸秆 Corn stalk</td><td>5.00</td><td>5.00</td><td>40.00</td><td>20.00</td><td>50.00</td><td>25.00</td></tr><tr><td>燕麦草 Oat 玉米Corn</td><td>35.00</td><td>20.00</td><td>30.00</td><td>15.00</td><td>25.00</td><td>12.50</td></tr><tr><td></td><td></td><td>28.41</td><td></td><td>30.80</td><td></td><td>31.30</td></tr><tr><td>豆粕 Soybean meal</td><td></td><td>11.70</td><td></td><td>9.50</td><td></td><td>8.00</td></tr><tr><td>玉米干酒糟及其可溶物Corn</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DDGS</td><td></td><td>3.00</td><td></td><td>4.00</td><td></td><td>4.00</td></tr><tr><td>亚麻饼 Linseed meal 预混料 Premixl)</td><td></td><td>4.80</td><td></td><td>3.50</td><td></td><td>4.50</td></tr><tr><td>食盐 NaCl</td><td></td><td>0.50</td><td></td><td>0.50</td><td></td><td>0.50</td></tr><tr><td>小苏打 NaHCO3</td><td></td><td>0.54</td><td></td><td>0.50</td><td></td><td>0.50</td></tr><tr><td>氧化镁 MgO</td><td></td><td>0.35</td><td></td><td>0.80</td><td></td><td>0.80</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td></td><td>0.30</td><td></td><td></td><td></td><td></td></tr><tr><td>石粉 Limestone</td><td></td><td>0.20</td><td></td><td>0.20</td><td></td><td>0.20</td></tr><tr><td>合计Total</td><td></td><td>0.20</td><td></td><td>0.20</td><td></td><td>0.20</td></tr><tr><td>营养水平 Nutrient levels2)</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>9.17</td><td>11.38</td><td>8.97</td><td></td><td>8.96</td><td></td></tr><tr><td>粗蛋白质 CP</td><td>13.72</td><td></td><td>10.24</td><td>11.38</td><td>9.46</td><td>11.26</td></tr><tr><td>中性洗涤纤维 NDF</td><td>59.14</td><td>16.74 37.73</td><td>64.27</td><td>14.39</td><td></td><td>13.57</td></tr><tr><td>酸性洗涤纤维 ADF</td><td></td><td></td><td></td><td>39.65</td><td>65.59</td><td>40.44</td></tr><tr><td></td><td>36.41</td><td>20.60</td><td>38.69</td><td>21.44</td><td>39.38</td><td>21.90</td></tr><tr><td>钙Ca 磷P</td><td>0.73 0.15</td><td>1.00</td><td>0.56 0.14</td><td>0.93</td><td>0.52 0.13</td><td>0.67</td></tr><tr><td>非纤维性碳水化合物 NFC</td><td>7.67</td><td>0.41 29.27</td><td>7.53</td><td>0.40 30.43</td><td>7.63</td><td>0.38 31.03</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>0.13</td><td>0.78</td><td>0.12 0.77</td><td></td><td>0.12</td><td>0.77</td></tr></table></body></html>
+
+1）预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets: Fe $\textrm { 8 g }$ Cu 1.6 g, $\mathtt { Z n 1 0 \mathrm { g } }$ ， $\mathrm { M n } 6 \mathrm { g }$ ， $\mathrm { ~ I ~ } 6 0 \ : \mathrm { m g }$ ，Se $6 0 ~ \mathrm { m g }$ ，Co $5 0 \mathrm { m g }$ ，VA 1 200 000 IU, $\mathrm { V D } _ { 3 } 5 0 0 0 0 0 0 \mathrm { I U }$ ， VE 2 500 IU, $\mathrm { V K } _ { 3 } 3 6 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 7 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } \mathrm { ~ l ~ } 7 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 8 0 \mathrm { m g }$ ，烟酸 nicotinic acid 4 400 mg, $D .$ 泛酸 $D$ -pantothenic acid $3 4 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 6 \ : \mathrm { m g }$ ，生物素biotin $2 8 ~ \mathrm { m g }$ ，叶酸 folic acid 300 mg。 $^ { 2 ) } \mathrm { D E }$ 和 NFC 为计算值，其余为实测值。DE and NFC were calculated values,while others were measured values.
+
+# 1.2 测试指标及方法
+
+# 1.2.1 生长性能
+
+试验开始时，对每只羔羊进行称重，记录初始体重。试验开始后，每隔2周称重1次（07：00 空腹称重)，试验结束时计算各组羔羊的总增重。试验期间以重复组为单位记录每组羔羊每天的投料量与剩料量，计算其干物质采食量（DMI）和料重比，料重比 $\ c =$ 总进食量（kg）/总增重（kg）。
+
+# 1.2.2 屠宰性能
+
+试验结束时，分别从CG组和EG组中选择8只羔羊（禁食 $1 2 \mathrm { h }$ 、禁水 $2 \mathrm { h }$ ）进行屠宰。测定宰前活重、胴体重、屠宰率、眼肌面积和背膘厚度（GR值)。屠宰率是胴体重与宰前活重之比。胴体重是屠宰放血后，去除毛皮、头、内脏及前肢膝关节和后肢趾关节以下的部分后，整个躯体静置 $3 0 \mathrm { m i n }$ 后的重量。眼肌面积是测量左侧胴体正数第12与第13 肋骨之间背最长肌的横切面积，眼肌面积（ $\mathrm { c m } ^ { 2 }$ ） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 眼肌高度 $\times$ 眼肌宽度 $\times 0 . 7$ 。GR值是指左侧胴体第12\~13肋骨间距离背脊中线 $1 1 \mathrm { { c m } }$ 处的组织厚度。
+
+# 1.2.3 器官指数
+
+试验羊经屠宰后，迅速分离内脏与肠道，称量心脏、肝脏、脾脏、肺脏、肾脏、小肠及大肠重量，并计算各器官占宰前活重比例；分离瘤胃、网胄、瓣胃及皱胃并称重，计算每个胃占复胃总重比例及占宰前活重比例。
+
+# 1.3 数据处理
+
+试验采用SAS9.0软件的统计程序进行 $t$ 检验分析，统计结果 $P { < } 0 . 0 5$ 表示组间差异显著，$P { > } 0 . 0 5$ 表示组间无显著差异。
+
+2结果
+
+2.1不同 NFC/NDF 饲粮对羔羊生长性能和屠宰性能的影响由表2可知，与CG组相比，EG 组羔羊的终末体重、总增重显著增加（ $_ { , P < 0 . 0 5 ) }$ ，DMI  
+趋于显著地下降（ $\scriptstyle P = 0 . 0 5 7 .$ )，料重比显著降低（ $\scriptstyle P < 0 . 0 5 )$ ）°
+
+Table 2Effects of diets with different NFC/NDF on growth performance of kid goats   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="2">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CG</td><td>EG</td></tr><tr><td>初始体重 IBW/kg</td><td>19.88</td><td>19.60</td><td>0.36</td><td>0.632</td></tr><tr><td>终末体重 FBW/kg</td><td>23.39b</td><td>26.52a</td><td>0.55</td><td>0.001</td></tr><tr><td>总增重 Total weight gain/kg</td><td>4.41b</td><td>7.52a</td><td>0.58</td><td>0.002</td></tr><tr><td>干物质采食量DMI/（kg/d)</td><td>1.03</td><td>0.87</td><td>0.04</td><td>0.057</td></tr><tr><td>料重比F/G</td><td>24.37a</td><td>11.31b</td><td>3.38</td><td>0.015</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with different smalletter superscripts mean significant difference
+
+$( P { < } 0 . 0 5 )$ . The same as below.
+
+由表3可知，与CG组相比，EG 组羔羊的宰前活重、胴体重、屠宰率、眼肌面积、GR值均显著增加（ $P { < } 0 . 0 5 )$ 。
+
+表2不同 NFC/NDF 饲粮对羔羊生长性能的影响  
+表3不同 NFC/NDF 饲粮对羔羊屠宰性能的影响  
+Table 3Effects of diets with different NFC/NDF on slaughter performance of kid goats   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="2">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CG</td><td>EG</td></tr><tr><td>宰前活重 LWBS/kg</td><td>22.53b</td><td>26.10a</td><td>0.65</td><td>0.002</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>8.79b</td><td>11.85a</td><td>0.43</td><td><0.001</td></tr><tr><td>屠宰率Dressing percentage/%</td><td>38.15b</td><td>45.63a</td><td>0.56</td><td><0.001</td></tr><tr><td>眼肌面积 Loin muscle area/cm²</td><td>8.79b</td><td>11.85a</td><td>0.43</td><td><0.001</td></tr><tr><td>GR 值 GR value/cm</td><td>3.68b</td><td>6.48a</td><td>0.66</td><td>0.024</td></tr></table></body></html>
+
+2.2不同NFC/NDF饲粮对羔羊器官指数和组织发育的影响
+
+由表4可知，与CG 组相比,EG 组羔羊心脏、肝脏、肺脏、肾脏的重量显著增加( $( P { < } 0 . 0 5 )$ ：肝脏占宰前活重比例也显著增加( $_ { , P < 0 . 0 5 ) }$ 。由表5可知，与CG组相比，EG组羔羊的头、毛皮、血液的重量显著高于CG组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ 。
+
+Table 4 Effects of diets with different NFC/NDF on internal organ indexes of kid goats   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="2">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td></td><td>CG</td><td>EG</td></tr><tr><td>心脏Heart</td><td>重量Weight/g</td><td>88.79b</td><td>105.53a</td><td>2.87</td><td>0.001</td></tr><tr><td></td><td>占宰前活重比例 Percentage ofLWBS/%</td><td>0.39</td><td>0.42</td><td>0.01</td><td>0.148</td></tr><tr><td>肝脏Liver</td><td>重量Weight/g</td><td>438.21b</td><td>587.95a</td><td>17.23</td><td><0.001</td></tr><tr><td></td><td>占宰前活重比例 Percentage of LWBS/%</td><td>1.91b</td><td>2.32a</td><td>0.07</td><td>0.002</td></tr><tr><td>脾脏 Spleen</td><td>重量Weight/g</td><td>26.04</td><td>36.43</td><td>4.16</td><td>0.099</td></tr><tr><td></td><td>占宰前活重比例 Percentage ofLWBS/%</td><td>0.14</td><td>0.11</td><td>0.02</td><td>0.236</td></tr><tr><td>肺脏Lung</td><td>重量Weight/g</td><td></td><td>173.64b 192.79a</td><td>5.10</td><td>0.019</td></tr><tr><td rowspan="2">肾脏Kidney</td><td>占宰前活重比例 Percentage of LWBS/%</td><td></td><td>0.76</td><td>0.76</td><td>0.02 0.940</td></tr><tr><td>重量Weight/g</td><td>79.18b</td><td>88.05a</td><td>2.44</td><td>0.022</td></tr><tr><td></td><td>占宰前活重比例 Percentage ofLWBS/%</td><td>0.34</td><td>0.35</td><td>0.01</td><td>0.786</td></tr></table></body></html>
+
+表4不同NFC/NDF饲粮对羔羊内脏器官指数的影响  
+表5不同 NFC/NDF 饲粮对羔羊组织发育的影响  
+Table 5Effects of diets with different NFC/NDF on tissues development of kid goats   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="2">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td></td><td>CG</td><td>EG</td></tr><tr><td>头 Head</td><td>重量Weight/kg</td><td>1.51b</td><td>1.66a</td><td>0.04</td><td>0.013</td></tr><tr><td rowspan="2">蹄Feet</td><td>占宰前活重比例 Percentage ofLWBS/%</td><td>6.59</td><td>6.51</td><td>0.15</td><td>0.734</td></tr><tr><td>重量Weight/kg</td><td>0.56</td><td>0.60</td><td>0.02</td><td>0.091</td></tr><tr><td>毛皮Wool+Skin</td><td>占宰前活重比例 Percentage of LWBS/%</td><td></td><td>2.43</td><td>2.36</td><td>0.06 0.426</td></tr><tr><td rowspan="2"></td><td>重量Weight/kg</td><td></td><td>1.94b</td><td>2.18a</td><td>0.08 0.049</td></tr><tr><td>占宰前活重比例 Percentage ofLWBS/%</td><td>8.45</td><td>8.53</td><td>0.20</td><td>0.777</td></tr><tr><td>血液 Blood</td><td>重量Weight/kg</td><td>0.70b</td><td>0.87a</td><td>0.04</td><td>0.014</td></tr><tr><td></td><td>占宰前活重比例 Percentage ofLWBS/%</td><td></td><td>3.39 3.04</td><td>0.16</td><td>0.138</td></tr></table></body></html>
+
+由表6可知，EG 组羔羊的瘤胃重量在数值上高于CG组，瓣胃和皱胃重量在数值上低于CG组，但组间差异均不显著（ $P { > } 0 . 0 5$ )。EG组羔羊网胃的重量趋于显著高于CG 组（ $_ { . } { P = } 0 . 0 5 7$ )。与CG组相比，EG组羔羊的皱胃重占复胃比例显著降低（ $_ { . P < 0 . 0 5 ) }$ ，瘤胃、皱胃重量分别占宰前活重比例显著降低（ $_ { \cdot P < 0 . 0 5 } )$ )，瓣胃重量占宰前活重比例趋于显著地降低（ $\scriptstyle P = 0 . 0 6 2 .$ )。由表7可知，EG组羔羊小肠重量显著低于CG组羔羊（ $\cdot P { < } 0 . 0 5 \$ ，大肠重量占宰前活重比例显著低于CG组羔羊（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )°
+
+Table 6Effects of diets with different NFC/NDF on stomach compartment weight and development of kid goats   
+表7不同NFC/NDF饲粮对羔羊肠道重量及发育的影响  
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="2">组别 Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CG</td><td>EG</td></tr><tr><td>胃的重量 Stomach weight/g</td><td></td><td></td><td></td><td></td></tr><tr><td>瘤胃 Rumen</td><td>527.89</td><td>544.12</td><td>20.18</td><td>0.608</td></tr><tr><td>网胃Reticulum</td><td>73.45</td><td>88.90</td><td>4.39</td><td>0.057</td></tr><tr><td>瓣胃Omasum</td><td>123.87</td><td>112.52</td><td>7.99</td><td>0.405</td></tr><tr><td>皱胃Abomasum</td><td>133.55</td><td>122.60</td><td>4.93</td><td>0.186</td></tr><tr><td>占复胃比例 Percentage of complex stomach/%</td><td></td><td></td><td></td><td></td></tr><tr><td>瘤胃 Rumen</td><td>60.26</td><td>61.24</td><td>0.89</td><td>0.490</td></tr><tr><td>网胃Reticulum</td><td>8.65</td><td>9.65</td><td>0.46</td><td>0.210</td></tr><tr><td>瓣胃Omasum</td><td>14.61</td><td>13.23</td><td>1.03</td><td>0.433</td></tr><tr><td>皱胃Abomasum</td><td>16.20a</td><td>13.69b</td><td>0.63</td><td>0.028</td></tr><tr><td>占宰前活重比例 Percentage ofLWBS/%</td><td></td><td></td><td></td><td></td></tr><tr><td>瘤胃 Rumen</td><td>2.29a</td><td>2.09b</td><td>0.05</td><td>0.022</td></tr><tr><td>网胃Reticulum</td><td>0.32</td><td>0.34</td><td>0.02</td><td>0.559</td></tr><tr><td>瓣胃 Omasum</td><td>0.55</td><td>0.44</td><td>0.03</td><td>0.062</td></tr><tr><td>皱胃Abomasum</td><td>0.60a</td><td>0.47b</td><td>0.03</td><td>0.015</td></tr></table></body></html>
+
+表6不同NFC/NDF饲粮对羔羊胃室重量及发育的影响  
+Table 7Effects of diets with different NFC/NDF on intestinal tract weight and development of kid goats   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="2">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td></td><td>CG</td><td>EG</td></tr><tr><td>小肠 Small</td><td>重量Weight/g</td><td>764.15a</td><td>710.62b</td><td>13.98</td><td>0.041</td></tr><tr><td>intestine</td><td>占宰前活重比例 Percentage ofLWBS/%</td><td>3.07</td><td>3.02</td><td>0.12</td><td>0.820</td></tr><tr><td>大肠</td><td>重量Weight/g</td><td>261.97</td><td>260.68</td><td>7.23</td><td>0.676</td></tr><tr><td>large intestine</td><td>占宰前活重比例 Percentage ofLWBS/%</td><td>1.17a</td><td>1.03b</td><td>0.03</td><td>0.020</td></tr></table></body></html>
+
+# 913讨论
+
+2 3.1不同NFC/NDF 饲粮对羔羊生长性能和屠宰性能的影响
+
+近年来，随着羊肉需求量的增加、草原生态环境的恶化及草场载畜量的限制等因素，使得舍饲育肥成为了绒山羊羔羊饲养的主要方式。而且，在实际生产中，舍饲育肥通常需要增加饲粮的精饲料比例以提高育肥效率，但有资料报道高精料育肥因饲粮 NFC/NDF 较高可引起肉品质降低、风味变差。王子苑[3]研究了不同饲粮精粗比（40:60、30:70、20:80、10:90)对舍饲育肥大足黑山羊肉质的影响，发现随饲粮精粗比（NFC/NDF）升高，羊肉中不饱和脂肪酸与饱和脂肪酸的比例逐渐下降，其脂肪酸构成比例不符合现代健康绿色食品的标准。Liméa 等[4]以加勒比山羊为研究对象，开展了饲喂全粗料和补饲精料的舍饲育肥研究，发现饲喂 NFC/NDF 较低的全粗料会增加羊肉n-3多不饱和脂肪酸的含量,有益于消费者的健康。可见，全粗料舍饲育肥不仅可以缓解天然草场的压力，不受草场载畜量的限制，还可避免高精料育肥引起羊肉品质降低，但由于NFC/NDF 较低，使得饲粮营养水平降低，阻碍机体发育，进而会导致育肥效率和屠宰性能下降。阿尔巴斯白绒山羊是在鄂尔多斯高原特定的干燥、寒冷、风沙多的自然环境下形成的世界著名的绒肉兼用型品种，多年来一直以自然放牧为主，相关的研究报道主要集中在改善其繁殖性能和绒品质等方面，而关于舍饲条件下饲喂不同NFC/NDF 的全粗料与全混合饲粮对其育肥和屠宰性能及器官指数的影响鲜少报道。饲粮是影响反刍动物生长性能与屠宰性能的主要因素，徐相亭等[7的研究结果显示，随饲粮精料比例增加，断奶杜泊公羔的平均日增重呈现增加趋势，平均日采食量和料重比显著降低，温琦等8的研究也得出了类似的结果。料重比是衡量育肥羔羊经济效益的重要指标，胴体重和屠宰率是反映动物屠宰性能的重要指标，也直接反映了动物的生长性能[9]。眼肌面积是反映家畜胴体发育程度的指标，通常情况下，眼肌面积与胴体重存在正相关[10]，而宰前活重越大胴体重越大。本试验也得出了相似的结果，饲喂全混合饲粮促进了绒山羊羔羊的生长速度与饲料转化效率，提高了屠宰性能，而 NFC/NDF 为0.12\~0.13的全粗料组羔羊总增重、胴体重、屠宰率、眼肌面积和GR 值较NFC/NDF 为 $0 . 7 7 { \sim } 0 . 7 8$ 的全混合饲粮组分别降低了 $1 5 . 8 5 \%$ 、 $34 . 8 1 \%$ 、 $1 9 . 6 1 \%$ 、 $34 . 8 1 \%$ 和 $7 6 . 0 9 \%$ 。背膘厚度即GR 值是评价胴体脂肪含量的标志之一，GR 值随饲粮能量水平的增加而增加[1]。本试验中全粗料组的能量与蛋白质
+
+等营养水平均不同程度低于全混合饲粮组，而NDF、ADF 的含量与之相反，导致NFC/NDF降低，因此全粗料组羔羊的GR值低于全混合饲粮组。此外，随着动物机体的生长发育，进食的营养物质将主要用于脂肪的沉积，因此可获得更高的屠宰率[12]，这也是引起全粗料组GR 值和屠宰率降低的原因之一。
+
+3.2不同NFC/NDF饲粮对羊羔器官指数和组织发育的影响  
+动物的组织、器官重量与组织、器官指数在一定程度上可以反映动物的机体发育和机能状况，因此对理论研究和生产实践都具有重要意义。动物可以调控内脏器官发育与机体生长发育相适应[13]。Johnson 等[14]的研究表明，内脏组织质量与能量的利用有关，随着饲粮能量摄入量的增加，试验动物内脏的器官发育也随之加快。肝脏作为动物体内重要的新陈代谢器官，只有快速生长才能维持正常的新陈代谢[15]。本试验研究结果显示，NFC/NDF 较高的全混合饲粮促进了羔羊心脏、肝脏、肺脏、肾脏和脾脏的器官发育，其肝脏重量占宰前活重比例也显著升高，说明饲粮中较高的NFC/NDF 促进了羔羊非胴体部分组织器官的发育，与羔羊整体的生长发育同步，而NFC/NDF较低的全粗料饲粮纤维水平较高，降低了饲粮在羔羊胃肠道中的流通速度，造成有机物、NFC、粗蛋白质及脂肪等营养物质的消化率降低，从而影响了组织器官的发育。  
+反刍动物复胃的发育程度直接影响其采食量和消化能力。Johnson 等[16]研究报道，促进肠道发育的主要饲粮成分是可发酵纤维，并发现消化道的重量与可吸收营养物质的数量有关。单纯的饲喂粗饲料，不仅可促进反刍动物瘤胃肌肉层的发育，而且刺激反刍和唾液流入瘤胃[17]。饲粮粗纤维含量较高会促进肠道重量的增加及肌肉层变厚，使肠黏膜面积增大，影响到黏膜乳头形态的变化，最终影响肠道的发育[18]。本试验得出了相似的结果，全粗料组羔羊的瘤胃、瓣胃和皱胃重量及肠道重量占宰前活重比例均不同程度地高于全混合饲粮组。宋晓雯等[19]的研究指出，高能量水平的饲粮对崂山奶山羊非胴体部分蹄及皮毛的生长发育具有促进作用。本试验中，全混合饲粮组羔羊的头、毛皮及血的重量显著高于全粗料组，与上述报道结果相似。由此可见，饲喂 NFC/NDF 较低的全粗料组羔羊其胃肠道比例的显著升高
+
+是屠宰率和胴体重降低的原因之一。
+
+综合本试验的结果发现，全粗料组羔羊尽管其生长性能与屠宰性能显著降低，胃肠道重量占宰前活重比例升高，但内脏比例与GR值降低，提示NFC/NDF 较低的全粗料饲粮可以减少脂肪沉积、增加瘦肉的比例，有利于消费者的健康需求。而且，前人的研究发现，饲喂全粗料饲粮可以降低肌内脂肪的含量，增加肌肉中n-3多不饱和脂肪酸的含量[4；饲喂牧草的羔羊肉脂肪酸组成优于补饲精料组的羔羊[20-21]。但在本试验的舍饲育肥条件下，饲喂NFC/NDF较低的全粗料组绒山羊羔羊肉较饲喂NFC/NDF 较高的全混合饲粮组羔羊其脂肪酸组成和肉品质究竟发生了什么变化，还需要进一步研究。此外，本试验的全粗料饲粮是参考阿尔巴斯白绒山羊自然放牧的牧草营养水平配制的，并没有补加预混料，这也是限制其生长育肥效率和屠宰性能增加的原因之一，因此，有必要在今后对全粗料饲粮的营养水平加以完善，进一步研究其育肥效率和屠宰性能的变化规律，进而为更好地制定绒山羊羔羊育肥方案提供理论基础。
+
+4结论
+
+与饲喂NFC/NDF为 $0 . 7 7 { \sim } 0 . 7 8$ 的全混合饲粮相比，饲喂NFC/NDF为 $0 . 1 2 { \sim } 0 . 1 3$ 的全粗料饲粮降低了阿尔巴斯白绒山羊羔羊的生长性能、屠宰性能和内脏器官的发育速度，但增加了胃肠道重量占体重的比例。
+
+参考文献:  
+[1] 闫素梅,吴铁梅,荷花,等.不同饲养模式对阿尔巴斯白绒山羊羔羊育肥增重及屠宰性能的影响[J].饲料工业,2013,34(8):1-7.
+
+.2] PAPI N,MOSTAFA-TEHRANI A,AMANLOU H,et al.Effectsofdietary forage-to-concentrate ratios on performance and carcass characteristics of growing fat-tailed lambs[J].Animal Feed Science and Technology,2011,163(2/3/4):93-98.
+
+[3]王子苑.日粮精粗比对大足黑山羊生产性能及肉质的影响[D].硕士学位论文.重庆:西南大学,2015.
+
+[4]LIMEA L,ALEXANDRE G,BERTHELOT V.Fatty acid composition of muscle and adiposetissues of indigenous Caribbean goats under varying nutritional densities[J].Journal ofAnimal Science,2012,90(2):605-615  
+[5]中华人民共和国农业部.NY/T816-2004 肉羊饲养标准[S].北京:中国农业出版社,2004.  
+[6]李柱,季跃光,闫素梅,等.中国主要牧区草原牧羊技术[M].北京:中国农业出版社,2015.  
+[7]徐相亭,王宝亮,程光民,等.不同精粗比日粮对杜泊绵羊生长性能、血清生化指标及经济效益的影响[J].中国畜牧兽医,2016,43(3):668-675.  
+[8]温琦,解进,闫素梅.自然放牧与放牧补饲育肥对肉羊育肥性能和屠宰性能的影响[J].饲料工业,2017,38(5):29-32.  
+[9]吕文龙,刁其玉,闫贵龙.布氏乳杆菌对青玉米秸青贮发酵品质和有氧稳定性的影响[J].草业学报,2011,20(3):143-148.  
+[10]陈丽.羊胴体分级模型与分级评定技术研究[D].硕士学位论文.北京:中国农业科学  
+院,2011.  
+[11]程善燕,张英杰,刘月琴,等.不同能量水平对绵羊屠宰性能和脂肪含量的影响[J].饲料研究,2010(1):52-54.  
+[12]万凡,马涛,马晨,等.不同饲养标准对杜寒杂交肉用绵羊生产和屠宰性能的影响[J].动物营养学报,2016,28(11):3483-3492.  
+[13]祁敏丽,柴建民,王波,等.饲粮营养限制对早期断奶湖羊羔羊生长性能以及内脏器官发育的影响[J].动物营养学报,2016,28(2):444-454.  
+[14]JOHNSON D E,JOHNSON K A,BALDWIN R L.Changes in liver and gastrointestinal tractenergy demands in response to physiological workload in ruminants[J].The Journal ofNutrition,1990,120(6):649-655.
+
+[15]李茂,字学娟,周汉林.精粗比对海南黑山羊生长性能和血液指标的影响[J].家畜生态学报,2017,38(3):31-35.
+
+[16]JOHNSON L M,HARRISON J H,DAVIDSON D,et al.Corn silage management:effects of hybrid,maturity,choplength,andmechanicalprocessing on rate and extent of digestion[J].Journal of Dairy Science,2003,86(10):3271-3299.
+
+[17] HAMADA T,MAEDA S,KAMEOKA K.Factors influencing growth of rumen,liver,and other organs in kids weaned from milk replacers to solid foods[J].Journal of Dairy Science,1976,59(6):1110-1118.
+
+[18] SUN W,GOETSCH A L,FORSTER L A，et al.Forage and Splanchnic tissue mass in growing lambs:effects of dietary forage levels and source on splanchnic tissue mass in growing lambs[J].British Journal of Nutrition,1994,71(2):141-151.
+
+[19]宋晓雯,朱风华,王利华,等.日粮能量水平对育成期崂山奶山羊屠宰性能的研究[J].中国畜牧杂志,2016,52(7):55-60.
+
+[20] SANUDO C,ENSER M E,CAMPO M M,et al.Fatty acid composition and sensory characteristics of lamb carcasses from Britain and Spain[J].Meat Science,2000,54(4):339-346.
+
+[21]吴铁梅.自然放牧与舍饲育肥条件下阿尔巴斯白绒山羊脂肪与蛋白质代谢的差异比较研究[D].博士学位论文.呼和浩特:内蒙古农业大学,2016.
+
+Effects of Diets with Different NFC/NDF on Growth Performance, Slaughter Performance and Organ Indexes of Kid Goats
+
+LIU Shulin WEN QiZHANG Yongsheng BAO Siqingaowa WANG Xue GUO Xiaoyu Yan Sumei\*
+
+(College of Animal Science, Inner Mongolia Agricultural University, Hohhot O1oo18, China)
+
+Abstract: This experiment was conducted to investigate the efects of diets with different ratios of non-fibrous carbohydrate (NFC） to neutral detergent fiber (NDF） (NFC/NDF） on growth performance, slaughter performance and organ indexes of Albas white kid goats under a stall-feeding condition. This experiment adopted a single-factor randomized block design. Forty weaning Albas kid goats at 4 months of age were randomly divided into control group (CG) and experimental group (EG) with 4 replicates in each group and 5 goats per replicate. The goats of CG group were fed mixed roughage,and the NFC/NDF was 0.13, 0.12 and 0.12 in early, medium and late fattening period，respectively； the goats of EG group fed the total-mixed ration （20 $\scriptstyle ( \mathrm { C : F = 5 0 : 5 0 } )$ , and the NFC/NDF was 0.78,0.77 and 0.77,respectively. At the end of the fattening, 8 goats were selected from CG group and EG group,and then were slaughtered. The preliminary trial period was $\mathsf { 1 4 d }$ ，and the formal trial period was $9 0 \mathrm { ~ d ~ }$ .The results showed as follows: 1) compared with CG group, the final weight and total weight gain of the goats in EG group significantly increased $( P { < } 0 . 0 5 )$ ，and dry matter intake (DMI) tended to decrease significantly （20 $( P { > } 0 . 0 5 )$ , the feed to gain ratio decreased significantly $( P { < } 0 . 0 5 )$ ). 2) Compared with CG group, the carcass weight, dressing percentage, eye muscle area, GR value of the goats in EG group were significantly increased $( P { < } 0 . 0 5 )$ ; the weight of heart, liver, lung,kidney, the head, fur and skin and blood of goats in EG group were significantly increased $( P { < } 0 . 0 5 )$ . 3) The proportion of abomasum weight to the total weight of the complex stomach of goats in EG group was significantly lower than that of the goats in CG group $( P { < } 0 . 0 5 )$ ; the weight proportion of rumen and abomasum to the live weight of goats in EG group was significantly lower than those in the CG group $( P { < } 0 . 0 5 )$ ： The proportion of the large intestine weight to live weight before slaughter and the small intestine weight of goats in EG group were significantly lower than those in CG group $( P { < } 0 . 0 5 )$ . The results suggest that， compared with the total-mixed ration group ( $\mathrm { N F C / N D F { = } 0 . 7 7 }$ to 0.78), feeding the whole-roughage diet (NFC/NDF ${ \tt \simeq } 0 . 1 2$ to 0.13) can decrease the growth performance, slaughter performance, and the development speed of internal organs of Albas white cashmere goats, while increase the proportion of gastrointestinal tract to live weight.

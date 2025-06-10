@@ -1,0 +1,88 @@
+# 综述
+
+# 非镇静听性脑干反应的研究进展
+
+曹昱,郭敏,韩炜伟，李若美，阮标昆明医科大学第一附属医院耳鼻喉科，云南 昆明 650032摘要：听性脑干反应测试在临床上应用广泛，尤其在儿童的客观听力评估和病变定位诊断中具有重要应用价值，是在听力学中应用最为广泛的一种电生理测试方法,尤其非镇静听性脑干反应适用于不能配合行为听觉评估的患者。非镇静听性脑干反应较传统听性脑干反应产生的反应信号大，不容易被人为的肌肉动作电信号所掩蔽，所以在儿童测试时通常不需要服用安眠药或镇静。本文就非镇静听性脑干反应的特点做一综述。
+
+关键词：听性脑干反应；非镇静；刺激声信号；电磁干扰
+
+# Research progress in Non-Sedated ABR
+
+CAOYu,Oin,HANWeiwei,LIuomei,Aao Departmentftolaryngology,hFstHospitalAfiatedtoKunmingdicalesity,Kunmingin
+
+Abstract: Auditorybrainstem responses(ABR)is wideapplicationin clinic.Especially ABRhas important aplication value in childrenhearingasessmentandlocalizationdiagnosis.Itis themost widelyelectrophysiologytest inaudiologyParticularly Non-Sedated ABR is appropriate to who are unable tocooperate with behavioral hearing assessment.The signal of non-Sedated ABRis strongerthanoldABR,itis noteasyshelteredby electricalsignals by muscles.Sochildrendonotneed to takesedatives orsleeping pilsinnon-SedatedABRtest.This reviewis toelaborate thecharacteristicinNon-Sedated ABR. Key words: auditory brainstem responses; Non-Sedated; acoustic signal; electromagnetic interference
+
+听性脑干反应(ABR)检测的是声刺激诱发的脑干生物电反应，其中短声诱发ABR可用于判断桥小脑角占位性病变、婴幼儿和新生儿听力筛查、判断高频听阈、鉴别器质性聋与功能性聋等，具有可信度高、客观、无创等优点[1]。非镇静ABR在传统ABR的基础上具有降低受试者配合度的要求。
+
+短声诱发的ABR主要反映高频听力，是最常用的传统和经典的客观听力学检测手段。短声是根据行波学说(耳蜗顶部感受低频声音，耳蜗底部感受高频声音以及声音在耳蜗内传播的时间等)和耳蜗生理构造特点(包括顶部宽底部窄、基底膜的长度)设计的声音，按照其理论，首先释放低频声，然后是中频声，最后是高频声,使整个基底膜达到同时振动,同步性更好[2-4]
+
+堵塞、室息、心肺受损甚至死亡[8-9]，低于6个月的幼儿是出现严重事故的高危人群。不需要镇静的ABR测试是在传统ABR的基础上，具有降低了镇静要求、不需要深度睡眠和电磁屏蔽、减少测试等待的时间等优势，其可应用于临床。
+
+由于ABR产生反应的信号很弱，容易被因肌肉动作产生的人为电信号所掩蔽[5,ABR的检查时间较长，需要患者身体状态始终安静制动，对于0\~3岁患儿，主观配合难度大，所以在为儿童测试时经常要使其处于镇静状态。然而镇静或安眠药的应用有可能引起某些风险，如呕吐、过敏反应、癫痫、肺通气功能障碍、呼吸道
+
+# 1非镇静ABR概述
+
+非镇静ABR是一种新研发的诱发电位测试系统（由Vivosonic制造的Integrity系统)能够在非电磁屏蔽的隔音室的临床环境中对非镇静的患者完成ABR测试[。同传统ABR,采用短声诱发刺激,用于诊断桥小脑角占位性病变、鉴别器质性聋与功能性聋、判断高频听阈、婴幼儿和新生儿听力筛查[，具有无创、客观、可信度高等优点。安置在电极上的放大电极直接对ABR信号进行放大，其放置在皮肤表面可降低电磁场的干扰。另外，电脑与记录器之间采用无线方式连接，从而消除了连接线严重的噪声干扰[6]
+
+# 2非镇静ABR测试方法
+
+非镇静ABR测试方法：与传统ABR测试方法相似，非镇静ABR测试需要记录电极、测试耳机、计算机及记录软件等设施，但无需在电磁屏蔽的隔音室进行。
+
+短声刺激由ER-3A插入式耳机发出，放大电极安置在上前额(Fz,正极）左右耳垂(A1/A2,负极）、下前额(Fpz,接地),对接触电极处皮肤行脱脂处理[10]。初始测试声为 $6 0 ~ \mathrm { d B } ~ \mathrm { n H L }$ 并以“降20升10"的方法，直至检测到波V的最低刺激强度[6
+
+# 3非镇静ABR特性
+
+# 3.1非镇静ABR降低镇静的要求
+
+在6个月中的110例ABR测试中只有19例需要镇静 $( 1 7 . 3 \% )$ ，比较此前的68例ABR测试有35例需要镇静 $( 5 1 . 5 \%$ ),需镇静者大幅度地减少了，降低率达到$34 \%$ 。在2011年上半年做的80例ABR的病人中只有12例需要镇静 $( 1 5 \% )$ )。在目前发表的论文中报告Integrity系统降低需要镇静或麻醉的比率达到66%[1-12.15]
+
+# 3.2非镇静ABR测试中不需要电磁屏蔽和深度睡眠
+
+Integrity系统使用了新的卡尔曼滤波系统,得到有意义的可重复的波形所需要的时间减少了。我们特别发现肌源性的干扰几乎是消除了。甚至当新生儿清醒着或在吃东西时，都很少看到测试中显示出“拒绝”。由于使用了专利技术的数信号处理，降低了人为的肌肉运动的影响。在涉及到肌源性噪声的环境下，研究显示ABR记录的有意义的放大与传统技术的比较。Vivo-sonic产品的表现在受试者出现活动现象时其具有统计学意义和值得关注的临床发展趋势[13-14]
+
+# 3.3非镇静ABR减少测试等待时间
+
+儿童难于在一个电磁屏蔽的房间里长久地深睡以完成临床的诊断测试。传统ABR需要服用镇静药来辅助测试的完成，增加了儿童测试的等待时间。非镇静ABR不需要测试前的等待，其带放大器的电极直接安置在受试者的前额，这样就可以降低环境的电磁干扰。它也可以滤除在放大器之前的EEG噪声并有助于在医院里几乎所有的地方来完成测试诊断[15]。
+
+# 3.4非镇静ABR的年龄差异
+
+对于听力筛查未通过的婴幼儿做传统诊断性的ABR，由于其电信号易被肌肉动作掩蔽，婴幼儿需大于6个月来降低镇静或安眠药可能引起的呕吐、癫痫、过敏反应、肺通气功能障碍、室息、呼吸道堵塞、心肺受损甚至死亡。非镇静ABR可避免这一不良反应，并且该测试没有年龄限制。
+
+综上所述，ABR是检测声刺激诱发的脑干生物电反应，常用的刺激声信号有短声、短音和短纯音等，其中短声应用最为广泛，可用于新生儿和婴幼儿听力筛查、判定高频听 $( 2 . 0 { \sim } 4 . 0 \mathrm { k H z } )$ 、鉴别功能性与器质性聋、诊断脑桥小脑角占位性病变等;目前临床上常用V波最小反应阈值来判定无法主观配合进行行为测听的患者听功能。根据Bekesy的行波学说理论，声音刺激时基底膜振动以声波的形式从底回向顶回传播，低频声引起的波峰则趋向于蜗顶，而高频声引起的波峰位于耳蜗基底部，沿基底膜纵向存在特定的频率-部位关系。行波的速度在耳蜗底部最大，越接近顶部越小,越靠近蜗顶的行波因延迟致使蜗顶的同步化反应不好，所以实际收集到的总反应比感受刺激时整个基底膜的同步化小[16]
+
+对儿童患者ABR测试时，患儿常常需要镇静，同时镇静引起的负面影响和健康风险往往限制了ABR的应用。即使在麻醉状态下测试ABR，手术室里的电磁波也会干扰ABR反应[6。Integrity是基于无线诊断听性诱发电位(AEP)的分析仪，它采用3种新技术：原位放大，一个获得专利的微型AEP放大器直接扣入AEP电极，AEP信号原位放大，而不需要中间导线，除了大大降低了电、磁和射频场干扰以外，原位放大尽可能减少运动伪迹，即使在电磁噪声环境也会产生清晰的信号。无限采集，基于计算机的ABR系统包含一个“盒子”，其和电脑之间可以通过无线通讯，完全消除了计算机和AEP放大器之间的电路，避免电和电源线的噪音；无线采集允许测试中的婴孩被抱或者在漫步，提供方便和灵活性，允许活跃的年轻患者静静地自由玩耍或者漫步。采用获专利的信号处理技术。一种是：在每个反应中，自适应地评估噪声的专利方法；另一种是：加权每一个反应的Leski方法，这种技术被称为线性最小均方误差滤波器，卡尔曼加权平均。从而大幅度消除患者的肌肉活动，降低获得错误ABR的概率，降低了要求受试者放松、睡眠或者镇静的需要[17]
+
+# 参考文献：
+
+[1]赵竞一，王宁宇.言语诱发听性脑干反应研究进展[J].中华耳鼻咽喉 头颈外科杂志,2015,50(11):959-61.   
+[2]施乐娟,姚建慧，陆肠,等.听力正常青年人chirp声诱发听性脑干反 应特点分析[J].听力学及言语疾病杂志,2014,2(2):124-6.   
+[3]Dau T,Wegner O,Mellert V,et al.Auditory brainstem responses with optimized chirp signals compensating basilar-membrane dispersion[J].JAcoust Soc Am,2000,107(3):1530-40.   
+[4]Elberling C,Don M.Auditory brainstem responses to a chirp stimulus designed from derived-band latencies in normal-hearing subjects[J].JAcoust Soc Am,2008,124(5): 3022-37.   
+[5]Hood L. Clinical application of the auditory brainstem response[M]. Singular Publishing Group:San Diego,1998:1-21.   
+[6]甘志珊,杨银金,甘炳基.非镇静听性脑干反应临床应用有效分析[J]. 听力学及言语疾病杂志,2011,19(5):459-61.   
+[7］卢 娜.水合氯醛加温灌肠联合诱导排便应用于患儿多频稳态及听性 脑干反应检查[J].药学与临床,2015,9(5):129-33.   
+[8]Reich S,Wiatrak J.Methods of sedation for auditory brainstem response testing[J].Int JPediatric Otorhinolaryng ol,1996,38(2): 131-41.
+
+(下转118页)
+
+mini-clinicalmedicine:clinicalexperienceatChang Gung Memorial Hospital[J].JAcute Med,2013,3(8): 110-5.   
+[8]曹伟.Mini-CEX与住院医师能力评估[J].中国卫生质量管理,2009, 16(3): 24-7.   
+[9]罗邦安,王君,郑晓宇,等.临床教学评估方法的选择策略[J].中国高 等医学教育,2013,24(9):71-2,131.   
+[10]Casanova M, Sanmartin V,Marti M,et al.Evaluating clinical dermatology practice in medical undergraduates [J]. Actas Dermosifiliogr,2014,105(5): 459-68.   
+[11] Shalhoub J, Santos C,Bussey M,et al.A descriptive analysis of the use of Workplace-Based assessments in UK surgical training[J]. J SurgEduc,2015,72(5): 786-94.   
+[12]姜从玉，黄虑，朱玉连，等.Mini-CEX操作考核在康复医学住院医师 规范化培训中的应用研究[J].中国高等医学教育,2016,8(1):4-6.   
+[13]冯芝恩,买地尼也提·阿不都肉苏力,张周良，等.Mini-CEX在口腔颌 面外科住院医师临床能力培训中的应用[J].北京口腔医学,2016,24 (1):49-50.   
+[14]杨冬，金美玲，白春学.Mini-CEX在临床教与学双向评估中的应用 及意义-以临床八年制呼吸科床旁教学为例[J].医学与哲学,2014,35 (10): 87-9.   
+[15]Lindsell D,MBBS,FRCR.Changesin postgraduate medical education and training in clinical radiology[J].Biomed Imaging Interv J,2008,4(1):e19-23.
+
+# (上接91页)
+
+[9]冯国琴. $1 0 \%$ 水合氯醛口服在小儿ABR检查前的镇静探讨[J].实用医 技杂志,2008,15(33):4819-23.   
+[10]李芳芳,田成华,王 蒙,等.健听青年短音ABR和倍频程CE-Chirp ABR的V波特性分析[J].中国听力语言康复科学杂志 2015,4(4): 252-6.   
+[11]American Academy of Pediatrics,American Academy of Pediatric Dentistry,Work Group on Sedation.Guidelines for monitoring and management of pediatric patients during and after sedation for diagnostic and therapeutic procedures[J].Pediatrics,1994,28(118): 51-2.   
+[12]Cravero JP,Blike GT,Beach M,et al.Incidence and nature of adverse events during pediatric sedation/anesthesia for procedures outside the operating room: Report from the Pediatric Sedation Research Consortium[J].Pediatrics,2009,108(3):1087-96.   
+[13]Li X, Sokolov Y,Kunov H. System and method for processing low signal-to-noise ratio signals[P]. US: 6463411,2002-10-8.   
+[14]Li X, Sokolov Y,Kunov H. System and method for processing low signal-to-noise ratio signals[P].US: 6778955,2004-8-17.   
+[15] Sauter T. Clinical Experience with New Technology For Recording Un-Sedated ABRs.Poster presentation [J].Poster Presentation Audiol, 2010,9(4): 134-8.   
+[16]戴桂林,李楚凌,尹宝珠,等.chirp-ABR在婴幼儿听力诊断中的应用 [J].包头医学院学报,2006,32(1):73-4.   
+[17]Li X, Sokolov Y,Kunov H. System and method for processing low signal-to-noise ratio signals[P]. US: 6778955,2004-8-17.

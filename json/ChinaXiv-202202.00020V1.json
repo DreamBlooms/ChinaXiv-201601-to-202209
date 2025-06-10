@@ -1,0 +1,565 @@
+[
+    {
+        "type": "text",
+        "text": "关中平原城市群经济联系网络结构演变及对经济增长影响研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "叶珊珊}²，曹明明}，胡胜}(1.西北大学城市与环境学院,陕西 西安710127；2.陕西省发展和改革研究中心,陕西 西安710016)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：引用城市流强度修正传统引力模型构建经济联系矩阵，运用社会网络分析方法对2008—2018年关中平原城市群经济联系网络结构演变特征及对经济增长的影响进行分析。结果表明：(1）城市群中心性水平较弱，经济网络处于极化发展期，区域发展不平衡问题突出。（2）西安影响力不断增大，非核心城市影响力降低，在区域内形成“灯影效应”。(3)凝集子群内部的集聚程度由松散向紧密发展，城市三级凝聚子群与城市所在省级行政区划分由不耦合演变为全部耦合。(4)城市群平均核心度值水平较低且逐渐升高，核心区域由西安单核心演变为西安、咸阳双核心发展结构。(5)城市的中心性、影响力及集聚性对城市经济增长的影响存在差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：经济联系；网络结构；经济增长；社会网络分析；关中平原城市群",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在经济全球化背景下，随着城市间联系越来越紧密，城市群的地位也日益突出。区域发展空间结构从单中心向多中心演化，区域空间相互作用的研究也转向网络空间的研究，诸如近些年提出的“网络社会”、“流空间”、“中心流理论”、“连锁网络模型\"等理论被许多经济地理学家在世界城市的发展与实践中得到印证[1-5]。网络是由节点和节点之间的连接构成，节点和连接是网络中最基本的2个要素[，城市网络可以被看作节点城市与城市之间的经济流、信息流、技术流等其他要素媒介构成的相互作用的城市集群。国外学者较早开展对经济联系的研究，继Reilly最早将物理学的引力模型引入经济学后[],Zipf首次将引力模型引入城市体系相互作用分析，后继学者们将引力模型运用在交通、贸易投资、旅游业等领域开展不同尺度的空间联系研究[8-10]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内学者在借鉴国外学者相关理论成果的基础上，针对我国实际情况，开展了许多经济联系与城市网络空间格局的相关研究。顾朝林等[\"运用引力模型测度了中国城市间空间联系强度，并将中国城市体系的空间层次划分为2个大区、7个亚区和64个地方的总格局;胡盈等运用引力模型和城市流强度模型对长江中游城市群经济联系开展了量化测度；于谨凯等[13从产业互补、综合经济质量、经济距离等方面修正传统引力模型，对山东半岛城市群经济联系开展量化研究；钟业喜等4在构建城市间经济联系网络基础上，从网络结构特征的角度对长江经济带经济网络结构演变及其驱动机制进行研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2018年，《关中平原城市群规划》正式获国务院批准，成为中国第8个国家级城市群，标志着关中平原城市群发展正式上升为国家战略，关中地区迎来了前所未有的发展机遇。国家对关中地区提出“构建具有国际影响力的城市群”、“全面提升开放合作水平”、“引领西北地区发展的重要增长极\"等要求[15],这不仅体现人口与经济的集聚与增长，同时也对城市群协同发展、培育区域新增长极提出了更高的要求。因此，开展关中平原城市群经济联系网络结构演变及对经济增长影响的研究显得尤为重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，复杂网络理论被越来越多的运用到经济地理研究领域，社会网络分析方法成为城市经济网络结构研究的重要方法[16-19]。已有的经济联系研究多基于单一时点，缺乏对城市群长期的时空演化的经济联系分析，无法解释城市群长期的经济联系网络格局的演变及其对城市经济增长的影响，且研究区多集中在长江流域和东部地区城市群，对西部城市群的研究非常少。基于此，本研究以关中平原城市群为研究对象，通过构建城市经济联系网络评价框架，运用复杂网络理论和社会网络分析工具，对2008一2018年该地区城市群经济联系网络结构特征及对经济增长的影响进行研究，进而为关中平原城市群经济网络优化和区域协同发展提出对策和建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据《关中平原城市群发展规划》的规划范围，关中平原城市群主要包括陕西省关中平原5市和杨凌示范区及商洛市部分县区，山西省运城市和临汾市主要县区，甘肃省天水市、平凉市部分县区和庆阳市区，总面积 $1 0 . 7 1 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 [ 1 5 ] }$ 。2018年关中平原城市群GDP总量为 $2 . 0 7 \\times 1 0 ^ { 1 2 }$ 元，常住人口接近 $4 \\times$ $1 0 ^ { 7 }$ 。由于缺乏区县层面产业发展统计数据，本研究区以《关中平原城市群发展规划》的规划范围为基础，以涉及的11个地级市为研究对象进行经济联系网络结构演变及对经济增长的影响分析(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于篇幅限制，本研究选取2008、2013年和2018年3个时间节点作为代表年份，通过2009、2014年和2019年《中国城市统计年鉴》以及2008、2013年和2018年陕西省、山西省和甘肃省国民经济和社会发展统计公报等，获取城市经济质量和回归模型控制指标的基础数据;通过百度地图获取城市之间最短驾车距离数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/71506b123e0dc9478506bd8e8748af132b950b03d7f5fba22d2953892f457ae7.jpg",
+        "img_caption": [
+            "Fig.1 Cities and administrative boundaries in the Guanzhong Plain City Cluster "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注：该图基于自然资源部标准地图服务网站下载的审图号为GS（2020)4634号的标准地图制作，底图无修改。下同。图1关中平原城市群的城市及行政边界",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1构建经济联系网络模型—基于修正的引力模型引力模型在空间互动分析中应用广泛。在本研究中，经济联系网络采取引力模型进行测度，通过引力模型构建城市经济联系强度矩阵，得出城市经济间的\"关系数据”。一般引力模型如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ { i j } } = K { \\frac { M _ { i } M _ { _ { j } } } { D _ { _ { i j } } ^ { b } } } \\quad ( 1 \\leqslant i < j \\leqslant n )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { i j }$ 为城市 $i$ 和城市 $j$ 的经济联系强度； $K$ 为一般系数； $b$ 为距离摩擦系数，借鉴顾朝林对我国城市体系的研究成果，取 $K = 1 , b { = } 1 ; n$ 为城市数量； $D _ { i j }$ 为两城市之间的距离 $\\left( \\mathrm { k m } \\right)$ ，本研究用行车最短距离计算； $M _ { i }$ 和 $M _ { j }$ 为城市质量，一般由城市的地区生产总值和人口数量表示，但GDP和人口并不能完全体现城市经济联系水平。随着我国城市参与全球生产网络的纵深化发展，生产要素以空前的速度和规模自由流动，从而带来区域经济联系的进一步增强，城市群网络的发展也由“点空间”向“流空间”不断转变[20],城市群内功能互补、生产要素相互流通成为影响城市经济联系的重要因素，而城市流强度模型能够反应出城市联系中外向功能的影响量，因此本研究引用城市流强度修正城市质量，构建经济网络联系数据矩阵。城市流强度计算公式如下[21-24]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { F } _ { i } = E _ { i } \\times \\boldsymbol { N } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { i }$ 为城市 $i$ 的城市流强度； $E _ { i }$ 为城市 $i$ 的外向功能量； $N _ { i }$ 为城市 $i$ 的外向功能量效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们选择城市从业人口数作为衡量城市功能",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的指标，进而通过各行业的区位商计算城市 $i$ 的外向功能量 $( E _ { i } )$ 。 $i$ 城市 $j$ 产业部门从业人员区位商可通过下式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L q } _ { i j } ^ { } = \\frac { G _ { i j } ^ { ~ } / G _ { i } ^ { ~ } } { ( G _ { j } ^ { ~ } / G ) } ~ ( i = 1 , 2 , \\cdots , n ; ~ j = 1 , 2 , \\cdots , m )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\operatorname { L q } _ { i j }$ 为 $i$ 城市 $j$ 产业部门的区位商； $G _ { i j }$ 为 $i$ 城市 $j$ 产业部门从业人口数( $1 0 ^ { 4 }$ 人； $G _ { i }$ 为 $i$ 城市从业总人口数( $1 0 ^ { 4 }$ 人）； $G _ { j }$ 为j产业部门在全国范围内的从业人口数 $( 1 0 ^ { 4 } \\lambda ) { ; G }$ 为全国从业人口总数 $( 1 0 ^ { 4 } \\lambda )$ 。令$E _ { i j }$ 为 $i$ 城市中 $j$ 部门的外向功能量,若区位商 $\\mathrm { L q } _ { i j } { \\leqslant } 1$ ，则说明 $i$ 城市 $j$ 部门的从业人口比例小于或等于 $j$ 部门在全国的就业人口比例，不存在外部功能，因此$\\scriptstyle { E _ { i j } = 0 }$ ；若 $\\mathrm { L q } _ { i j } > 1$ ，则说明 $i$ 城市 $j$ 部门的从业人口比例大于 $j$ 部门在全国的就业人口比例，可以向其他地区提供对外服务，因此 $E _ { i j }$ 可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { i j } = \\left\\{ \\begin{array} { l l } { 0 } & { \\mathrm { L q } _ { i j } \\leqslant 1 } \\\\ { G _ { i j } - G _ { i } \\times ( G _ { j } / G ) = G _ { i j } - G _ { i j } / \\mathrm { L q } _ { i j } } & { \\mathrm { L q } _ { i j } > 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$i$ 城市 $m$ 个产业部门的总外向功能量 $( E _ { i } )$ 可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\scriptscriptstyle i } = \\sum _ { j = 1 } ^ { m } E _ { \\scriptscriptstyle i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时， $i$ 城市的功能效率 $N _ { i }$ 可采用人均从业人员的GDP表示，即：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { _ i } { = } \\mathrm { G D P } _ { _ i } / G _ { _ i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上述计算我们可以得出 $i$ 城市的流强度$( F _ { i } )$ 。由于目前农业是关中平原城市群的非基本部门，故本研究以第二产业和第三产业所涉及的共计18个产业门类作为城市从业人员的划分标准，即城市流强度 $( F _ { i } )$ 是基于这18个产业门类进行计算。18个产业包括：采矿业，制造业，电力、燃气及水的生产和供应业，建筑业，批发和零售业，交通运输、仓储和邮政业，住宿、餐饮业，信息传输、计算及服务和软件业，金融业，房地产业，租赁和商业服务业，科学研究、技术服务和地质勘查业，水利、环境和公共设施管理业，居民服务、修理和其他服务业，教育、卫生、社会保障和社会福利业，文化、体育、娱乐业，公共管理和社会组织。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，我们用城市流强度 $( F )$ 修正引力模型，我们认为城市质量可以用城市流强度 $( F )$ 和城市GDP共同表示，因此，本研究经济联系强度的测度公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { i j } = \\frac { \\sqrt { F _ { i } \\times \\mathrm { G D P } _ { i } } \\sqrt { F _ { j } \\times \\mathrm { G D P } _ { j } } } { D _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { i }$ 和 $F _ { j }$ 为 $i$ 城市和j城市的城市流强度；GDP和GDPj为 $i$ 城市和j城市的地区生产总值( $1 0 ^ { 8 }$ 元）； $D _ { i j }$ 为两城市之间驾车最短距离( $\\mathrm { k m } ,$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2经济联系网络结构分析—社会网络分析法社会网络分析法是将网络系统中各节点之间的联系作为基础单位，分析节点间的联系属性和结构特征，从而得到网络结构的个体属性和整体属性[25]。借助Ucinet6.2分析工具，本研究从关中平原城市群经济联系网络的中心性、影响力、凝聚子群和核心-边缘结构进行演化特征分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）中心性。中心性是反应节点中心程度或重要性的量化指标。本研究从点度中心度和图度中心势来进行中心性的研究。点度中心度反映每个城市的中心性程度，图度中心势反映的是网络整体的中心性程度[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）影响力。网络节点影响力可以用结构洞理论常用的网络效率和约束度指标进行分析[27]。网络效率越高，节点与周边联系的非冗余性越高，影响力越大;约束度越高，反映网络闭合性高，影响力越小[28]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)凝聚子群。凝聚子群分析是用聚类分析方法研究城市群内部的紧密关系和联系强度的层级分化[25.29],本研究通过对关中平原城市群经济联系进行聚类分析，分析城市网络中凝聚子群数量、构成以及层级分化等特征进行演变分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）核心-边缘结构。核心-边缘结构分析是根据城市网络中城市节点之间联系的紧密程度或集聚程度[26],通过测度每个城市和整体城市网络的核心度值，分析不同城市在网络中的核心-边缘结构的分布和演变特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3经济网络结构对经济增长的影响—回归模型分析本研究运用各个城市在研究节点前后两年GDP变化值作为经济增长指数，选取点度中心度、网络效率、约束度和核心度4个指标来表征各城市在经济网络中的结构特征；同时借鉴已有研究，选取第三产业占GDP比重、社会消费品零售额占GDP比重、人口密度和城市建设用地占市区面积比重4个指标作为控制变量，分别表示产业结构、消费水平、劳动力和城市建设对经济增长的影响。利用SPSS23软件的线性回归模型对网络结构特征和控制变量对经济增长的影响进行回归分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1关中平原城市群经济联系网络结构演变特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过修正引力模型计算出关中平原城市群各城市之间的经济联系强度，并根据经济联系强度划分不同强弱等级，运用ArcGIS10.5软件绘制出2008、2013年和2018年关中平原城市群经济联系强度图(图2)。结果显示，关中平原城市群经过10a的发展，经济联系强度总体水平逐渐增强，经济联系方向多样化发展，但总体仍处于城市网络发展的",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/656588b36f412b387762d84b825627e97b5c6a7422f27e3eff9c6a965478c0d4.jpg",
+        "img_caption": [
+            "图22008、2013年和2018年关中平原城市群经济联系网络Fig.2 Economic connection networks of Guanzhong PlainCity Cluster in 2008,2013 and 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初级阶段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2经济联系网络结构演变分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1中心性分析为了剔除不同年份物价指数和经济规模等因素的变化对中心度的影响，本研究选择对中心度值进行标准化处理,最终将各年中心度值化为0\\~1之间，各城市点度中心度计算结果如图3所示。结果显示：（1）不同城市的点度中心度变化呈现不同规律，西安、咸阳2个中心度最大的城市点度中心度不断升高，体现了关中平原核心城市对区域经济资源的集中作用不断增强。宝鸡、铜川、临汾、平凉的中心度持续下降，说明区域次中心的经济地位不断下降。(2）关中平原城市群城市中心度水平差异巨大,西安作为中心度最高城市，其中心度值是最低中心度城市的20倍以上，说明关中平原城市群内两极分化现象较为严重，西安一城独大，区域次中心发育严重不足，区域经济发展不均衡问题凸显。例如从经济体量来看，2018年西安GDP占据整个关中平原城市群的 $4 0 \\%$ 左右,而城市群内第二大经济体宝鸡,GDP只有西安的1/4。（3）2008、2013年和2018年图度中心势分别为 $2 0 . 8 8 \\%$ 、$1 9 . 8 1 \\%$ 和 $1 8 . 9 6 \\%$ ,关中平原城市群的图度中心势水平较低且呈现逐年降低的趋势,这说明城市群经济网络整体中心性水平较弱，且非核心城市中心性的下降程度高于核心城市中心性的升高程度，整体而言城市群经济网络目前仍处于极化发展期。这是由于西安作为“一带一路\"倡议的核心区、丝绸之路的起点城市、关中平原城市群的核心城市，其\"中心\"作用不断被加强，削弱了周边城市汇集资源的能力，加之“西咸一体化\"在\"十三五\"时期取得了实质性进展，加速了西安都市圈建设进程，从而造成城市群核心城市的中心性不断提升，非核心城市的中心性不断降低，经济网络的发展以极化效应为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2影响力分析2008、2013年和2018年关中平原城市群各城市的效率值和约束度值如图4所示。结果显示：（1）西安是城市群中网络效率最高且约束度最低的城市，且自2008年至2018年约束度值不断降低、效率值不断提升，说明西安作为关中平原城市群的核心城市，对周边城市的影响力最大且影响力不断提升。(2）除西安外其他城市约束度值均呈先下降后升高的趋势，效率值呈先持平后下降趋势，说明其他城市的影响力在不断缩小。（3）对具",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/960e55caecccca8e9af81db0ede7e6a7fc3d6d4fdd6adb7df16d2d8977a926c0.jpg",
+        "img_caption": [
+            "图3关中平原城市群经济联系网络中心性特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tab.3 Centrality characteristics of economic connection networks in the Guanzhong Plain City Cluster ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/287d1b84dd267e275c0f36fa081687d7f0a03d4ae474a5232eccbb37d8e50a56.jpg",
+        "img_caption": [
+            "图4关中平原城市群经济联系网络影响力特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Influence characteristics of economic connection networks in the Guanzhong Plain City Cluster体城市而言，陕西省内的宝鸡、咸阳、铜川、渭南、商洛的影响力整体低于山西省和甘肃省的城市，产生这一现象的原因可能是近些年随着“大西安\"建设的加快，资源要素不断向中心城市集中，从而挤占了周边城市发展资源，限制了周边城市影响力的提升，造成“灯影效应”（4）城市的约束度值和效率值呈现一定的负相关性，说明对关中平原城市群的影响力分析符合结构洞理论。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3凝聚子群分析关中平原城市群在2008—2013年凝聚子群城市构成数量和结构变化不大，但到了2018年，凝聚子群内部的数量与结构发生了变化（图5)。（1）2008—2013年，关中平原城市群经济联系凝聚子群由4个三级组群和4个二级子群组成，三级子群多以2个城市聚类为主，例如运城和临汾，渭南与商洛等，并且天水、铜川等城市无法与其他城市组成三级子群，核心城市西安只出现在一级子群中，总体而言，凝聚子群内部松散集聚，城市群的集聚程度较低。（2）到2018年，关中平原城市群凝聚子群在数量和结构上都发生了变化，4个三级子群不再以2个城市聚类为主，三级子群城市数量以3\\~4个城市的聚类为主，例如咸阳、铜川、渭南和商洛为一个子群，天水、平凉和庆阳为一个子群，所有城市都在三级子群中出现，同时，二级子群数量由4个减少到3个，小团体出现更加紧密的结构，凝聚子群的层级性显著，呈现“金字塔\"式的分布特征。（3）2008—2013年，三级凝聚子群包括平凉和宝鸡子群、庆阳和咸阳子群，不同省的城市被划分在一起,这几个城市的凝聚与行政区划分布不耦合，到了2018年，三级城市凝聚子群划分与省级行政区划分全部耦合，说明过去 $1 0 \\mathrm { ~ a ~ }$ 间，网络邻近性、行政区划基础更加深刻影响城市群内部的城市联系强度与结构，建立在地理临近性或行政区划基础上的经济区划分依然是推动关中平原城市群发展的内生动力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/28400f65204a031b6b03d9400b7d6819836799557e435af2cd1865590b4bd83b.jpg",
+        "img_caption": [
+            "图52008、2013年和2018年关中平原城市群经济联系网络凝聚子群分析",
+            "Fig.5Cohesive subgroupanalysisofeconomicconnection networks in Guanzhong Plain CityClusterin2O08,2O13and 201 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.4核心-边缘结构分析核心-边缘结构分析可以体现网络节点的核心程度或集聚程度，并且根据核心程度将网络节点分为核心区域和边缘区域。结果显示,关中平原城市群总体而言核心度较低且不均衡，核心城市与边缘城市的核心度值差异较大。（1）关中平原城市群平均核心度值在2008、2013年和2018年分别为0.144、0.171和0.208,平均核心度值水平较低，但呈现逐步升高趋势，说明城市群内部集聚程度逐渐增强。(2）城市群内核心城市与边缘城市的核心度值呈现严重的两极分化，核心城市西安的核心度值介于0.74\\~0.96之间，大部分边缘城市的核心度值介于0.01\\~0.20之间。（3）2008—2018年，核心城市与边缘城市的核心度值变化不同，核心度最高的西安，核心度值从0.94持续下降到0.74,边缘城市如铜川、庆阳核心度值最低，但核心度值呈现不断升高趋势。（4）核心边缘结构发生变化，2008年关中平原城市群的核心区域只有西安，到了2013年后，核心区域城市变为西安和咸阳2个城市，这说明至少从2013年起，关中平原城市群区域经济格局体现了西安、咸阳双核心的发展趋势，“西咸一体化\"发展在经济空间格局上具备了基础条件。如果将核心度值 $> 0 . 4$ 归为核心地区， $0 . 1 <$ 核心度 ${ \\leqslant } 0 . 4$ 归为半边缘地区，核心度 $\\mathrm { \\leqslant 0 . 1 }$ 归为边缘地区，2008、2013年和2018年关中平原城市群核心、半边缘和边缘地区演变情况如图6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3城市群经济联系网络结构特征对经济增长的影响分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过共线性检测，回归模型点度中心度和约束度存在一定共线性，因此采用步进法进行多元线性回归分析，结果如表1所示。在回归模型中，调整后的 $R ^ { 2 }$ 达0.884, $F$ 值呈显著性，说明本研究所选取的自变量能够很好的解释因变量，模型适应度高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1网络结构属性变量对经济增长的影响分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）点度中心度。在网络结构属性变量中，点度中心度的系数极其显著且为正(表1)，系数值较高，表明城市节点在经济网络的中心性提升会直接促进地方经济的增长。这是由于关中平原城市群经济网络发展还处于初期，增强节点城市间的经济往来与互联互通，有利于要素资源的流动与利用，培育发展壮大城市群次中心城市，从而提升经济效率，促进经济增长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）效率。效率的系数极其显著且为正，说明城市节点的效率越高，越有利于地方经济的增长。对于关中平原城市群内城市而言，城市效率越高，城市所获得的非冗余关键资源越多，因此对资源的控制调配能力越强，使得城市对区域的影响力也越大，从而促进经济增长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）约束度。约束度作为衡量影响力的另一指标，其系数为正且有一定显著性，说明在经济联系网络呈极核式发展的关中平原城市群中，过度依赖核心城市使其具有绝对影响力，则会不利于城市间的交流互动，从而限制其他城市的经济发展，适度约束核心城市的经济影响力，则有利于区域整体经济的增长。效率值和约束度也展示了影响力对城",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/de074bcf22c375533ccd9fc8cd4f2a55128aa97ca631569ae831b28398e2a86a.jpg",
+        "img_caption": [
+            "图62008、2013年和2018年关中平原城市群核心、半边缘和边缘结构",
+            "Fig.6 Core,semi-core and peripheral structures of GuanzhongPlain City Clusterin 20o8,2013 and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "市经济发展的双重作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4）核心度。经济网络的核心度对经济增长的影响不显著，这表明城市网络的“凝聚”可能会带来要素的集中从而促进经济增长，但过度“凝聚”也有可能使城市产生路径依赖或资源固化，不利于区域经济的可持续发展。对于关中平原城市群而言，西安具有绝对的核心地位，目前资源的集聚可以促进经济效率的提升，但在未来城市群发展过程中，应更加注重发挥西安作为核心城市的扩散效应和溢",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表1经济网络结构与经济增长回归分析结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfa1c80a12eb16410710117ebfb9b7971b8a79dc25960567625c68179f3baf39.jpg",
+        "table_caption": [
+            "Tab.1 Results of regression analysis between economic network structure and economic growth "
+        ],
+        "table_footnote": [
+            "注：\\*、\\*\\*、\\*\\*\\*分别表示 $P { < } 0 . 0 5 \\ . P { < } 0 . 0 1 \\ . P { < } 0 . 0 0 1$ 的显著性水平；-表示无内容;限于篇幅限制，表中省略控制变量回归结果。"
+        ],
+        "table_body": "<html><body><table><tr><td>自变量</td><td>系数</td><td>t值</td></tr><tr><td>点度中心度</td><td>0.79</td><td>12.141***</td></tr><tr><td>效率</td><td>0.296</td><td>4.553***</td></tr><tr><td>约束度</td><td>0.315</td><td>1.408*</td></tr><tr><td>核心度</td><td>0.012</td><td>0.121</td></tr><tr><td>常量</td><td>1</td><td>-4.552***</td></tr><tr><td>调整后R</td><td>0.884</td><td>1</td></tr><tr><td>F值</td><td>123.075****</td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "出效应，促进城市群的均衡发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2控制变量对经济增长的影响分析在控制变量中，产业结构、消费水平、劳动力数量均会给城市经济发展带来积极作用，说明对于关中平原城市群，进一步优化产业结构，提高居民消费水平，吸引更多人口到本地落户有利于城市经济增长；城市建设对地方经济发展有一定抑制作用，说明政府在城市建设的投入存在一定“挤出效应”",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3促进城市群经济增长的对策建议根据上述研究结果，过去10a的发展演变，使关中平原城市群经济联系网络结构有所优化，但依然存在改善空间以促进地方经济的发展。对此提出以下几点建议：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）增强西安作为西北地区发展的引领作用和向西开放的战略支撑作用，全面提升核心城市西安的综合服务功能、产业集群功能、物流枢纽功能、开放高地功能和人文凝聚功能，整合咸阳的可利用资源，以推进“西咸一体化\"发展为抓手，提升大西安的中心性和影响力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）进一步发挥西安等城市在网络中的辐射带动作用，通过区域内的差异化、互补化、协作化的发展模式，促进资源在城市群内部的合理分配和流动，进一步增强城市间互联互通与经济合作，培育发展壮大次中心城市，带动城市群内部中心性和影响力较低、处于边缘的城市协同发展，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）发挥规划引导作用，合理布局产业发展，明确核心区、半边缘区和边缘区城市的特色产业定位，促进城市集聚模式和整体城市网络结构更合理的发展，最终通过关中平原城市群的建设促进地方经济的发展，更好地服务于我国“一带一路”发展倡议。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关中平原城市群虽然是我国第8个国家级城市群，但作为地处西北地区的城市群，其城市群经济网络的发展仍然处于初级阶段，与我国东部沿海发达地区城市群经济网络发展水平存在较大的差距。相对于传统引力模型使用地区GDP或人口来测度经济联系，只能体现经济规模在经济联系中的作用，而无法反应经济要素层面对经济联系的影响，且由于关中平原城市群存在西安一城独大、城市群内部缺少互联互通等问题，因此本文采用城市流强度模型修正重力模型，尽可能从要素互补与流动角度反映城市经济联系的结构特征，使网络结构特征能够更准确揭示关中平原城市群经济网络的发展现状和存在问题，该方法对于城市群经济网络联系结构特征研究是一个有益的拓展和补充。同时本文通过构建回归模型，进一步分析网络结构特征对城市经济增长的影响，进而从经济网络结构角度提出改善地区经济发展的对策建议，为今后制定关中平原城市群发展战略提供了一定的理论依据和重点方向。但是，城市经济联系不仅与经济规模、要素互补与流动、地理邻近性等因素有关，还与城市的治理体系、创新能力等因素相关,因此在今后的研究中，应研究如何将更多影响变量引入经济联系模型中进行测度;同时针对网络结构的其他属性开展研究，以便更全面的探讨网络结构属性是如何影响地方经济发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究通过城市流强度修正传统引力模型，构建关中平原城市群经济联系网络，对2008—2018年关中平原城市群经济联系网络结构演变进行社会网络分析，并对网络结构特征对经济增长的影响进一步分析，得出以下主要结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）中心性分析表明关中平原城市群的图度中心势较低且呈现逐年降低的趋势，城市群整体中心性水平较弱；不同城市的点度中心度变化呈现不同规律；各城市中心度水平差异巨大，区域次中心发育严重不足，经济网络发展以极化效应为主，区域发展不均衡问题凸显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）影响力分析表明西安是城市群中网络效率最高且约束度最低的城市，对周边城市的影响力最大且影响力不断提升，非核心城市的影响力在相对不断缩小；陕西省内城市的影响力整体低于山西省和甘肃省城市，说明西安对其周边城市产生一定的抑制作用,造成\"灯影效应”。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）凝聚子群分析表明，2008—2013年城市群凝聚子群内部结构和数量变化不大，三级子群多以2个城市的松散聚类为主，城市群的集聚程度较低;到2018年，凝聚子群层级性显著，呈现\"金字塔\"式的分布特征，城市群内部的小团体联系增强；2008一2018年三级凝聚子群的城市划分与行政区划分由不耦合演变为全部耦合，地理临近性和行政区划分是城市群经济网络发展的内生动力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4）核心边缘结构分析表明关中平原城市群平均核心度值水平较低且逐步上升，城市群内部联系紧密程度逐渐增强；核心城市与边缘城市的核心度值差异较大且呈现不同演变特征；根据核心边缘结构划分，核心区域由西安单核心演变为西安、咸阳双核心发展结构。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(5）通过回归模型分析网络结构属性对经济增长的影响表明，点度中心度和效率值越高，越有利于地方经济的增长；约束度具有一定的积极作用，影响力对城市经济发展具有双重作用；核心度对经济增长的影响不显著，说明城市的“凝聚”可能会带来要素的集中从而促进经济增长，但过度“凝聚”也有可能不利于经济持续发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(6）运用城市流强度模型修正的引力模型对关中平原城市群经济网络适应性较强，能够准确测度城市群经济网络结构特征，较好反应出网络结构的演变过程和存在问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Castells M. Grassrooting the space of flows[J]. Urban Geography, 1999,20(4): 294-302.   \n[2] Carrington PJ, Scoot J,Wasserman S.Models and methods in social network analysis[M]. Cambridge: Cambridge University Press, 2005.   \n[3] TaylorPJ,EvansDM,Pain K.Applicationof the interlocking network model to mega-city-regions:Measuring polycentricity within and beyond city-regions[J].Regional Studies,20o8,42(8):1079- 1093.   \n[4] Taylor PJ. Specification of the world city network[J].Geographical Analysis,2001,33(2): 181-194.   \n[5] Taylor PJ, Hoyler M,Verbruggen R.External urban relational process:Introducing central flow theory to complement central place theory[J]. Urban Studies,2010,47(13): 2803-2818.   \n[6]Crespo J, Suire R, Vicente J. Lock-in or lock-out? How structural propertiesof knowledge networksaffect regional resilience[J]. Journal of Economic Geography,2014,14(1): 199-219.   \n[7]ReillyWJ.The law of retail gravitation[M].New York: The Knickerbocker, 1931.   \n[8]Mikkonen K, Luoma M. The parameters of the gravity model are changing:How and why?[J].Journal of Transport Geography, 1999, 7(4): 277-283.   \n[9]Carrere C.Revisiting the effects of regional trade agreements on trade flows with proper specification of the gravity model[J]. European Economic Review,2006,50(2): 223-247.   \n[10]Shen G.Reverse-fiting the gravity model to inter-city airline passenger flows byan algebraic simplification[J]. Journal of Transport Geography,2004,12(3): 219-234.   \n[11]顾朝林,庞海峰.基于重力模型的中国城市体系空间联系与层 域划分[J].地理研究,2008,27(1):1-12.[Gu Chaolin,Pang Haifeng.Study on spatial relations of Chinese urban system: Gravity model approach[J]. Geographical Research,2008,27(1): 1-12.]   \n[12] 胡盈,张津,刘转花,等.基于引力模型和城市流的长江中游城 市群空间联系研究[J].现代城市研究,2016(1):52-57.[Hu Ying, Zhang Jin, Liu Zhuanhua,et al. The research of the middle reaches of the Yangtze River'sspatialcontact: Based on the gravity model and the urban flow[J]. Modern Urban Research,2016(1): 52-57.]   \n[13]于谨凯,马健秋.山东半岛城市群经济联系空间格局演变研究 [J].地理科学,2018,38(11): 1875-1882.[Yu Jinkai, Ma Jianqiu. Spatial pattern evolution of economic links in Shandong Peninsula urban agglomeration[J]. Scientia Geographica Sinica,2018,38 (11): 1875-1882.]   \n[14] 钟业喜,冯兴华,文玉钊.长江经济带经济网络结构演变及其驱 动机制研究[J].地理科学,2016,36(1):10-19.[Zhong Yexi, Feng Xinghua, Wen Yuzhao.The evolvement and driving mechanism of economic network structure in the Changjiang River Economic Zone[J]. Scientia Geographica Sinica,2016,36(1): 10-19.]   \n[15]国家发展和改革委员会.关中平原城市群发展规划[EB/OL]. [2020-08-29]. https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/201802/ t20180207_962246.html. [National Development and Reform Commission.The development plan of the Guanzhong Plain City Cluster[EB/OL].[2020-08-29]. htps: //www.ndrc.gov.cn/xxgk/zcfb/ghwb/201802/t20180207_962246.html.]   \n[16] 种照辉,覃成林,叶信岳.城市群经济网络与经济增长——基于 大数据与网络分析方法的研究[J].统计研究,2018,35(1):13- 21.[Chong Zhaohui,Qin Chenglin,Ye Xinyue.Economic networks and economic growth of urban agglomeration: An integrated approach of big data and network analysis[J]. Statistical Research, 2018,35(1): 13-21.]   \n[17] 郑蔚,许文璐,陈越.跨区域城市群经济网络的动态演化——基 于海西、长三角、珠三角城市群分析[J].经济地理,2019,39(7): 58-66,75.[Zheng Wei, Xu Wenlu, Chen Yue.Dynamic evolution of economic network within inter-regional urban agglomerations: Based on the urban agglomerations of west coast of Taiwan Straits, Yangtze River Delta and Pearl River Delta[J]. Economic Geography,2019,39(7): 58-66,75.]   \n[18] 王松茂,徐宣国,马江涛,等.新疆旅游经济网络特征的时空演 变研究——基于修正的引力模型及社会网络分析[J].干旱区 地理,2020,43(2): 458-465.[Wang Songmao,Xu Xuanguo,Ma Jiangtao,et al. Spatial and temporal evolution of the tourism economy network in Xinjiang: Based on modified gravity model and social network analysis[J].Arid Land Geography,2020,43(2): 458- 465.]   \n[19] 孔令章,李晓东,白洋,等.长距离高铁对沿线城市旅游经济联 系的空间影响及角色分析——以兰新高铁为例[J].干旱区地 理,2019,42(3): 681-688.[Kong Lingzhang,Li Xiaodong,Bai Yang,et al. Spatial efect of long-distance high-speed railway on tourism economic link and role analysis of cities along the railway: A caseof Lanzhou- Xinjiang high-speedrail[J].Arid Land Geogaphy,2019,42(3): 681-688.]   \n[20] 王圣云,宋雅宁,温湖炜,等.双向联系视域下长江经济带城市 群网络结构——基于时间距离和社会网络分析方法[J].经济 地理,2019,39(2):73-81.[Wang Shengyun,Song Yaning,Wen Huwei, et al. Network structure analysis of urban agglomeration in the Yangtze River economic belt under the perspective of bidirectional economic connection: Based on time distance and social network analysis method[J]. Economic Geography,2019,39(2):73- 81.]   \n[21] 赵正,王佳昊,赵静.“一带一路\"中国段节点城市经济联系的空 间分析—基于城市流强度模型的研究[J].干旱区资源与环 境,2018,32(5):12-18.[Zhao Zheng,Wang Jiahao, Zhao Jig.A spatial analysis of urban economic connections among the node cities along the“One Belt and One Road”in China[J]. Journal of Arid Land Resources and Environment, 2018,32(5): 12-18.]   \n[22] 彭,林樱子,顾朝林.长江中游城市网络结构韧性评估及其优 化策略[J].地理研究,2018,37(6):1193-1207.[Peng Chong,Lin Yingzi, Gu Chaolin.Evaluation and optimization strategy of city network structural resilience in the middle reaches of Yangtze River[J]. Geographical Research,2018,37(6): 1193-1207.]   \n[23] Lao X, Zhang X,Shen T,etal. Comparing China's city transportation and economic networks[J]. Cities,2016,53: 43-50.   \n[24] 魏国恩,贺清云,朱翔,等.基于空间插值的浙江省城市流时空 演变特征研究[J].干旱区地理,2019,42(1):215-222.[Wei Guoen,He Qingyun, Zhu Xiang, et al.Temporal-spatial characteristics of urban flow intensity in Zhejiang Province based on spatial interpolation[J].AridLandGeograph,2019,42(1): 215-22.   \n[25]Scot J. Social network analysis:A handbook[M]. $2 ^ { \\mathrm { n d } }$ ed. London: SAGE,2000.   \n[26] 刘军.整体网分析讲义:UCINET软件实用指南[M].上海：上海 人民出版社,2009.[Liu Jun.Overall network analysis: UCINET software usage guide[M]. Shanghai: Shanghai People's Publishing House,2009.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27]Burt R S. Structural holes: The social structure of competition[R]. ID14962O5,Rochester,NY:Social Science Research Network,1992.   \n[28] 李平,杨伟松,汪秉宏.结构洞综合评价指标的构建与应用[J]. 江西科技师范大学学报,2017(6):94-99.[Li Ping,Yang Weisong,Wang Binghong. Construction and application of comprehensive evaluation index in structural holes[J]. Journal of Jiangxi ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Science & Technology Normal University,2017(6): 94-99.] [29] 盛科荣,杨雨,张红霞.中国城市网络的凝聚子群及影响因素研 究[J].地理研究,2019,38(11):2639-2652.[Sheng Kerong,Yang Yu, Zhang Hongxia.Cohesive subgroups and underlying factors in the urban network in China[J]. Geographical Research,2O19,38 (11): 2639-2652.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Evolution of economic connection network structure in the Guanzhong Plain City Cluster and its impact on economic growth ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "YE Shanshan¹²， CAO Mingming'， HU Sheng' (1.ColegeofUrbanandEnviromentaliencs,NorthwestUnversity,Xi'nO7,aani,Cina;.Saanirocial Development and Reform Research Center,Xi'an 71OO16, Shaanxi, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The Guanzhong Plain City Cluster is located in northwest China,in the provinces of Shaanxi,Shanxi, and Gansu,a less developed region of China.The Guanzhong Plain City Cluster,the second-largest in inland China and one of the country's eight most important city clusters serve as a vital gateway to western China. The development of the Guanzhong Plain City Cluster plays an important exemplary role and is strategically significant for regional harmonious development,new urbanization construction,and the Belt and Road Initiative.The research used UCINETand ArcGIS to analyze the evolution of 11 cities’economic network structure in the Guanzhong Plain City Cluster from centrality, influences，“core-peripheral” structure,and cohesive subgroups by social network analysis using city economic data from 2008 to 2018.Then the regression model is constructed to analyze the influence of network structure properties on economic growth,and the suggestions to improve regional economic growth has been put forward from the perspective of economic network structure.The findings indicate that (1)the centralityof the city cluster’s network is insuficient with a decreasing trend,citycentrality degree varies greatly,and thechanges in centrality are diffrent in differentcities; regional sub-centers are severely underdeveloped,and the development of the economic network is dominated by polarization efect, indicating that regional development is unbalanced.(2) Xi'an has the greatest efficiency and lowest constraint,as well as the greatest influence with a growing trend in thecity cluster, while the influence of non-core cities is relatively declining,which causes the“shadow effect”on surrounding cities.(3）The internal agglomeration of cohesive categories evolves from loose to close; in 2018,the cohesive subgroup presents a significant hierarchy,displaying a“pyramid”distribution; city subgroups and administrative division evolve from uncoupled to fully coupled,indicating that geographical proximityand administrative division are endogenous driving forces for the development of an economic network of the Guanzhong Plain City Cluster. (4) Based on the“core-peripheral” structure analysis,the city cluster has a low level of mean coreness with the growing trend which means that the degree of agglomeration in the economic network is gradually increasing; The economic network developed a core-peripheral structure,first with Xi'an as the core in 2Oo8,and then with Xi'an and Xianyang as the core group between 2013 and 2018.(5) Regresion analysis results show that the centrality, influence,and agglomeration of urban nodes have different efects on urban economic growth; more specifically, centrality and efciency have a significant and positive corelation with economic growth,the constraint has a positive correlation with economic growth and coreness is non-significant. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:economic connection； network structure; economic growth； social network analysis； the Guan-zhong Plain City Cluster",
+        "page_idx": 9
+    }
+]

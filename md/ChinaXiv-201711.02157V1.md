@@ -1,0 +1,159 @@
+DOI:10.13930/j.cnki.cjea.170065
+
+钟旺，曾慧兰，王建武.Bt基因导入对侵染丛枝菌根真菌的玉米生长生理及磷转运基因表达的影响[J].中国生态农业学 报,2017,25(8):1198-1205   
+Zhong W,Zeng HL,WangJW.EfectofBtgene insertionon growth,physiologyand gene expresionofphosphorus transportergeneofcorn afterarbuscular mycorhizal fungi colonization[J].Chinese JournalofEco-Agriculture,2017,25(8): 1198-1205
+
+# Bt基因导入对侵染丛枝菌根真菌的玉米生长 生理及磷转运基因表达的影响
+
+钟旺¹，曾慧兰1,2，王建武1\*\*
+
+(1.华南农业大学资源环境学院/农业部华南热带农业环境重点实验室/广东省现代生态循环农业工程中心广州510642;2．惠州市园林管理局 惠州 516000)
+
+摘要：为了分析Bt玉米与常规玉米对接种丛枝菌根真菌响应的异同，本文在接种摩西球囊霉(Funneliformismosseae)和不接种的条件下，对比分析了两个 Bt玉米品种‘5422Bt1'(Bt11)和‘5422CBCL'(Mon810)以及同源常规玉米品种‘5422根系中丛枝菌根真菌侵染率、磷转运基因的表达量、生长和养分利用状况。结果表明：生长50 d 和 80 d时，Bt玉米‘5422Bt1'和‘5422CBCL'根系丛枝菌根真菌侵染率显著高于常规玉米‘5422’，分别比‘5422'高 $1 3 . 5 4 \% \cdot 1 1 . 2 4 \%$ 和 $9 . 8 3 \% . 6 . 7 0 \%$ ;50d取样时，接菌和不接菌处理玉米‘5422Bt1’、‘5422CBCL'和‘5422'根系内的磷转运基因表达量均没有显著差异；接菌和不接菌处理下玉米‘5422Bt1'的干重显著高于‘5422CBCL'相应的处理，而与‘5422'没有显著差异；80d取样时，不接菌处理玉米‘5422Bt1的根长、根表面积和根体积显著高于‘5422'和‘5422CBCL'不接菌处理。Bt基因的导入主要影响了两个Bt玉米品种(‘5422Btl'和‘5422CBCL')苗期(50 d)和成熟期(80d)的氮素吸收利用，与常规玉米品种‘5422'相比，合成 Bt蛋白消耗了部分氮素和磷；3个玉米品种对接种 AMF 的响应不同，接菌处理提高了‘5422Bt1'和‘5422CBCL'苗期(50 d)和成熟期(80 d)的氮素吸收利用。在磷养分条件满足玉米生长需要的条件下，接种丛枝菌根真菌对Bt玉米磷转运基因表达量和磷的吸收利用没有显著影响。Bt基因的导入以及接种F.mosseae对Bt玉米生长和养分利用的影响与不同转化事件形成的品种特性相关。
+
+关键词:Bt玉米；丛枝菌根真菌；生长特性；养分利用；磷转运基因中图分类号：S154.36;S513 文献标识码：A 文章编号:1671-3990(2017)08-1198-08
+
+# Effect of Bt gene insertion on growth, physiology and gene expression of phosphorus transporter gene of corn after arbuscular mycorrhizal fungi colonization
+
+ZHONG Wang, ZENG Huilan1,2, WANG Jianwu1\*\* (1.CollgofaturalResourceandEnviroment,outhChinaAgriculturalUniversity/KeyLboratoryofAgroenviroentintheopics MinistryfAgriculture,South ChinaAgriculturalUniversity／GuangdongEngineringResearchCenterforModeEco-agricultureand Circular Agriculture,Guangzhou 510642,China; 2.Huizhou Landscaping Administration Bureau,Huizhou 5160o,China)
+
+Abstract:Bt(Bacilusthuringiensis)corootcanexudate insecticdeactiveBtproteandperistenttoxininsoilswhichcanaffect symbiotic relationshipbetweencornandarbuscular mycorhizalfungi (AMF).Inthispaper,twoBt-covarieties‘5422Btl'(B1) and‘5422CBCL’(Mon81O),and one conventional corn variety $\cdot 5 4 2 2 ^ { , }$ were used to explore the difference between Bt and non-Bt varieties withFuneliformis mosseae inoculationandnon-ioculation treatments.ThecolonizationofAMF,phosphorus trasorter gene expression, growth and nutrients contents were measured after $5 0 \mathrm { d }$ and $8 0 ~ \mathrm { d }$ of inoculation. The results showed that AMF colonization of Bt-corn varieties $\cdot 5 4 2 2 \mathrm { B t l } ^ { \prime }$ and‘5422CBCL’were significantly higher than that of the conventional variety $\cdot 5 4 2 2 ^ { , }$ at 50 d and $8 0 ~ \mathrm { d }$ after treatment, which increased by $1 3 . 5 4 \%$ and $1 1 . 2 4 \%$ at $5 0 ~ \mathrm { d }$ and then by $9 . 8 3 \%$ and $6 . 7 0 \%$ at $8 0 ~ \mathrm { d }$ ,respectively. There was no signifcantdiereceiosporustrasprtergeeexpresnbtwnioculatioandonocationfot-ovaeisat $5 0 ~ \mathrm { d }$ . The height of $\cdot 5 4 2 2 ^ { \cdot }$ under inoculation treatment was significantly higher than that of $\cdot 5 4 2 2 \mathrm { B t l } ^ { \prime }$ and ‘5422CBCL’at $5 0 ~ \mathrm { d }$ Dry weight of‘5422Bt1’ under inoculation treatment was significantly higher than that of‘5422CBCL’ at $5 0 \mathrm { d }$ .The root length, root surface and root volume of $\cdot 5 4 2 2 \mathrm { B t l } ^ { \cdot }$ were significantly higher than those of‘5422'and‘5422CBCL’under non-inoculation treatments at $8 0 ~ \mathrm { d }$ Bt gene nsertionaffctednitrogenconcentrationofthetwoBt-covarieties(542Btl'and‘5422CBCL)at thetwosmplingties. As compared withconventionalcorvariety,thetwoBt-corvarietiesneededmorenitrogenandphosphorustosynthetizeBtprotein. There were significant differences among the responses of three corn varieties to AMF inoculation. $F$ mosseae inoculation significantly increased nitrogen absorption of $\mathrm { 5 4 2 2 B t 1 } ^ { \circ }$ and ‘5422CBCL' at the two sampling times (50 d and $8 0 ~ \mathrm { d }$ ). In conclusion,the effectofBt-gene insertionand AMFinoculationongrowthandnutrientutlizationofBt-cor was mainlydependentonitstrasformation event.
+
+Keywords:Bt-corn; Arbuscular mycorrhizal fungi; Growth characteristics; Nutrient utilization; Phosphorus transporter gene
+
+丛枝菌根真菌(arbuscular mycorrhizal fungi,AMF)是土壤中一类有益的真核微生物，可与 $80 \%$ 以上的陆地植物根系形成互惠共生关系[1-2]。可促进植物对土壤水分、矿质元素等的吸收，进而促进宿主植物的生长发育，提高植物耐盐、耐旱、耐重金属和抗病的能力[3-6]。但是这类有益真菌却很容易受到宿主植物的影响7]。
+
+Bt(Bacillus thuringiensis)玉米(Zea mays)是全球商品化最快的抗虫转基因作物之一，2015年全球转基因玉米种植面积高达539.1万 $\mathrm { h m } ^ { 2 [ 8 ] }$ ，其根系能够分泌有杀虫活性的Bt蛋白，且在土壤中可以保持杀虫活性180 d以上[9]，可能影响玉米与 AMF的共生关系[10]。国内外已有Bt玉米对 AMF 侵染影响的研究报道，但其结果不一致。Cheeke 等[11-12]通过盆栽接种AMF发现Bt玉米AMF的侵染率显著低于常规玉米，但Bt基因的导入并未影响玉米的生长；Seres等[13]也通过田间试验发现Bt玉米AMF的侵染率显著低于常规玉米。任稹等[14盆栽接种摩西球囊霉(Funneliformis mosseae,原为Glomus mosseae)发现Bt玉米的侵染率显著高于常规玉米，接种AMF对Bt玉米生长的促进效应显著高于常规玉米；Zeng 等[15]也在田间连续种植5季Bt玉米和常规玉米后发现，Bt玉米AMF侵染率显著高于常规玉米。冯远娇等[16]通过温室盆栽试验发现，Bt基因的导入并未影响玉米AMF的侵染率，而玉米的养分含量与培育Bt玉米品种的不同转化事件有关；Cheeke 等[17-19]也通过田间试验表明Bt基因的导入并未影响玉米AMF侵染率，也未对Bt玉米的生长产生影响。上述研究仅关注了Bt基因导入对玉米AMF的侵染率和生长的影响，尚未深入探讨其变化的分子生物学机理。AMF能够促进植物对矿质元素特别是磷的吸收[4,20],磷转运基因 $Z E A m a ; P t I ; 6$ 是植物根系吸收、利用磷的关键调控基因[21]，接种 AMF 是否会诱导Bt玉米根系磷转运基因 $Z E A m a ; P t I ; 6$ 的表达？Bt基因的导入是否也会影响该基因的表达呢？
+
+由美国 Beck's Superior Hybrids 公司生产的‘5422Bt1'(Bt11)和'5422CBCL'(Mon810)是美国商品化程度很高的Bt玉米品种，许多研究者把它作为Bt玉米生态风险评估的对象[14-16]。摩西球囊霉为田间侵染玉米根系的主要菌种[15,17]。在玉米播种50 d时,植株生长最为旺盛，此时取样能初步反映出处理因素对玉米的影响[22]；而在80d时，玉米基本完成了营养生长，此时取样最能反映出处理因素对玉米的影响[23]。因此本试验以摩西球囊霉为接种菌剂，对比研究了两个不同转化事件的Bt玉米「‘5422Bt1'(Bt11)和‘5422CBCL'(Mon810)]及其共同的同源常规玉米品系‘5422'在接种摩西球囊霉和不接种的条件下，生长50d和80d时根系的AMF侵染率和磷转运基因ZEAma:Pt1;6表达的变化以及生长及养分利用的差异，旨在为Bt玉米的生物安全管理提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+Bt 玉 米 品 种‘5422Bt1(Bt11)和‘5422CBCL(MON810)及其同源常规玉米品种'5422'均来自美国
+
+Beck'sSuperiorHybrids公司，由Purdue大学农学系CindyNakatus博士惠赠；两种Bt玉米品种表达的杀虫蛋白均为 $\mathrm { C r y l A b } _ { \mathsf { o } }$
+
+供试菌剂为中国科学院“丛枝菌根真菌种质资源库"的摩西球囊霉，由华南农业大学园艺学院姚青老师提供的保存在玉米上的摩西球囊霉的孢子、菌根根段和菌丝作为接种剂，经玉米扩繁后供试验所用。供试所用土壤均为河沙，河沙经 $2 ~ \mathrm { m m }$ 筛后，干热灭菌 $( 1 8 0 \ \mathrm { ^ { \circ } C } , 2 \mathrm { h } )$ 后备用。
+
+# 1.2 试验设计
+
+接种试验于2014年6月8日在华南农业大学温室大棚内进行，每个供试玉米品系设接种摩西球囊霉菌剂(F.mosseae)和不接菌剂两个处理。塑料盆(高$1 5 \ \mathrm { c m }$ ，口径 $1 6 . 5 ~ \mathrm { c m } )$ 使用 $0 . 1 \%$ 高锰酸钾溶液浸泡$2 4 \mathrm { ~ h ~ }$ 后晾干，先装 $1 . 5 ~ \mathrm { k g }$ 灭菌河沙，然后铺盖 $\mathrm { 1 0 0 ~ g }$ 摩西球囊霉菌剂。每个品系选取饱满、大小一致的种子(经 $10 \%$ （20 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 预处理 $5 ~ \mathrm { m i n }$ 播种再用 $0 . 5 ~ \mathrm { k g }$ 河沙覆盖，最后淋透水供玉米发芽生长。每隔3d施一次Hoagland营养液，并按生长需要补充水分。每盆种1株，每个处理各种20株。待玉米生长至50d和80d时每个重复各取样3株并测定菌根侵染率及各项生理指标。
+
+# 1.3 指标的测定
+
+# 1.3.1 根系AMF侵染率的测定
+
+每个重复随机选取30条直径为 $1 \mathrm { m m }$ 的根系洗净放入种苗瓶中，曲利苯蓝染色后制片，镜检。根据根段中菌根侵染(0、 $1 \%$ 、 $\text{‰}$ 、 $< 5 0 \%$ 、 $5 5 0 \%$ 和$590 \%$ )的标准，定义每一条根，用"Mycocalc"软件计算出AMF侵染率[24]
+
+# 1.3.2 磷转运基因表达的测定
+
+每个重复取 $1 0 0 \ \mathrm { \ m g }$ 玉米根系，使用RNAprepPure Plant Kit 试剂盒(Tiangen，Beijing)提取根系总RNA，然后用PrimeScriptTMRTMasterMix(PerfectRealTime)试剂盒(Takara,Dalian)进行反转录，再使用SuperReal PreMix Plus (SYBR Green)试剂盒(Tiangen,Beijing)进行qRT-PCR，反应液配制如下：1$\mu \mathrm { L }$ cDNA 模板, $1 0 ~ \mu \mathrm { L }$ 2-fold SuperReal PreMix Plus(SYBR Green)，Forward引物( $5 ^ { \prime }$ -CCGTCAACAACATGGTGACA GG-3'） $0 . 6 \quad \mu \mathrm { L }$ ，Reverse引物0 $5 ^ { \prime }$ -AGAAGCGGAAGAAGCAGAGCGT-3') $0 . 6 ~ \mu \mathrm { L }$ ，加RNase-free water至 $2 0 ~ \mu \mathrm { L } _ { \mathrm { c } }$ ，反应条件为：预变性$9 5 \ \mathrm { ^ { \circ } C } 1 5 \ \mathrm { m i n }$ ，变性 $9 5 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ，退火 $6 0 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ，延伸$7 2 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s , ~ } 4 0$ 个循环。采用相对定量的 $2 ^ { - \Delta \Delta \mathrm { C _ { t } } }$ 方法计算基因 $Z E A m a ; P t I ; 6$ 的表达[21]。
+
+# 1.3.3 生长指标的测定
+
+测量玉米茎基部到顶部的高度为株高。根系生长特性的测定采用EPSONV700双光源专用扫描仪对根系扫描，用根系图像分析软件WinRHIZOREG2009分析扫描图片，得出根系长度、根系表面积和根系体积等指标[25]。再将玉米植株放进烘箱于 $1 0 5 \mathrm { ~ \textdegree ~ }$ 杀青 $3 0 \ \mathrm { m i n }$ 后，于 $7 5 \ \mathrm { { ^ \circ C } }$ 恒温烘干，然后分别称取地上部和地下部生物量。
+
+# 1.3.4 养分含量的测定
+
+玉米叶片和根系中有机碳、全氮、全磷和全钾含量的测定参照鲍士旦的方法[26]。
+
+# 1.4 统计分析
+
+所有数据采用SPSS13.0软件进行统计分析，不同品种多处理间差异采用单因素方差分析(one-way ANOVA)和Duncan多重比较，接种 AMF和不接种处理间差异显著性检验用成组数据的 $\mathbf { \chi } _ { t }$ 检验，差异显著性水平为0.05。图表中数据为平均值 $\pm$ 标准误。
+
+# 2 结果与分析
+
+2.1 玉米根系AMF侵染率和磷转运基因表达量
+
+两个取样时间接菌处理Bt玉米品种‘5422CBCL'和‘5422Bt1'AMF的侵染率均显著高于常规玉米‘5422'，分别比‘5422'高 $1 3 . 5 4 \%$ 、 $1 1 . 2 4 \%$ 和 $9 . 8 3 \% . 6 . 7 0 \%$ (图1)，这与Zeng等[15]和任稹等[14]的研究结果一致；而与Cheeke等[11的Bt基因导入降低了玉米AMF侵染率的研究结果不一致。本试验选用的Bt玉米品种与Zeng等[15]和任稹等[14]的相同，但与 Cheeke 等[11]所选用的 Bt 玉米品种(Bt11)不同，可见，玉米AMF侵染率的大小与供试品种相关。
+
+ZEAma:Pt1;6是一种高亲和力的磷转运基因，能够增加植物吸收磷的效率，其表达量经常受AMF诱导[2,27]。虽然 Bt基因的导入会改变植株体内的部分生理代谢[28]，但 50d 取样时，Bt玉米‘5422Bt1'(Bt11)和‘5422CBCL(Mon810)与常规玉米“5422'间的磷转运基因 $Z E A m a { : } P t I { : } 6$ 表达量却没有显著差异，‘5422'、‘5422Bt1'(Bt11)和‘5422CBCL'(Mon810)玉米的磷转运基因 $Z E A m a : P t l ; 6$ 的表达量在接菌与不接菌处理间也没有显著差异(图 1b)。这与Saia等[29的在施肥条件下接种AMF未促进Pt1基因表达的研究结果一致，说明玉米根系吸收的磷能够满足玉米自身生长需要，不需要再由菌丝诱导磷转运基因的表达来提高磷的吸收。
+
+![](images/d40a45aa441f0eb47eae56b83ade1df547f750908f9ff7dcbfeddd78ed015c18.jpg)  
+图1摩西球囊霉侵染下Bt玉米根系的AMF 侵染率(a)和磷转运基因ZEAma:Ptl;6表达量(b) Fig.1Corn root arbuscular mycorrhizal fungi (AMF)colonizationrate(a)and expresionof phosphrous transfer gene ZEAma $\cdot P t I$ ·， $\boldsymbol { \mathscr { \sigma } }$ (b) of Bt corn inoculated with Funneliformis mossea ‘5422Bt1'和‘5422CBCL'为Bt玉米品种，‘5422'为同源常规玉米品种。同一取样时间不同字母表示品种间差异显著 $_ { ( P < 0 . 0 5 ) }$ 。 422Bt1'and‘5422CBCLareBtcovarets‘422’isonventioalcovarietyDierentletersatteesamplingtiemeansig ficant differences among varieties at O.O5 level.
+
+# 2.2 摩西球囊霉侵染对Bt玉米生长和养分利用的影响
+
+# 2.2.1 对玉米株高和生物量的影响
+
+株高和生物量是评价植物生长的重要指标。 $5 0 \mathrm { d }$ 取样时，不接菌处理的3个玉米品种的株高、全株干重和地下部干重没有显著差异，仅 $\cdot 5 4 2 2 \mathrm { B t } 1$ 的地上部干重显著高于‘5422CBCL(表1)。接菌处理后，“5422'的株高显著高于其不接菌处理，且显著高于‘5422CBCL'和‘5422Bt1'接菌处理(表1)；‘5422Bt1'的全株、地上部和地下部干重显著高于‘5422CBCL'(表1)。80d取样时，‘5422'、‘5422Bt1'和‘5422CBCL的株高、全株干重和地上部干重在所有处理间均没有显著差异(表1)，仅地下部干重存在显著差异：不接菌处理 $\cdot 5 4 2 2 \mathrm { B t } 1 ^ { \cdot } > ^ { \cdot } 5 4 2 2 ^ { \cdot }$ 和‘5422CBCL'，接菌处理 $\cdot 5 4 2 2 \mathrm { B t } 1$ '和‘5422CBCL'显著低于其不接菌处理，接菌处理 $\cdot 5 4 2 2 \mathrm { B t } 1 ^ { \cdot } >$ 工人‘5422CBCL'。
+
+上述结果说明，Bt基因的导入对玉米品种的生长特性有一定的影响，表现在地上部干重(50 d)和地下部干重(80 d)的差异；Bt 基因的导入也影响了玉米品种对接种AMF的响应，接菌处理苗期(50 d)对‘5422’株高的促进作用强于‘5422Bt1’和‘5422CBCL'，对‘5422Bt1'全株干重、地上部干重的促进作用强于‘5422CBCL'，这与Cheeke等[17]的研究结论一致。
+
+表1摩西球囊霉侵染对Bt 玉米株高和干重的影响 Table1Effect of Funneliformis mosse colonization on plant heights and dry weight of Bt cc   
+
+<html><body><table><tr><td rowspan="2">取样时间 Sampling tme</td><td rowspan="2">品种 Variety</td><td colspan="2">株高 Plant height (cm)</td><td colspan="2">全株干重 Plant dry weight (g:plant-1)</td><td colspan="2">地上部干重 Shoot dry weight (g·plant-1)</td><td colspan="2">地下部干重 Root dry weight (g·plant-1)</td></tr><tr><td>-G</td><td></td><td>+G</td><td>-G</td><td>+G</td><td></td><td></td><td>+G</td></tr><tr><td>50</td><td>5422</td><td>104.67±5.84a 129.33±1.45a*</td><td>-G 28.41±2.75a</td><td>28.25±1.54ab</td><td>25.04±2.40ab</td><td></td><td>24.81±1.68ab</td><td>-G 3.37±0.53a</td><td>3.44±0.14ab</td></tr><tr><td></td><td>5422Bt1</td><td>117.67±8.09a 114.67±3.33b</td><td></td><td>32.13±1.45a</td><td>33.63±2.97a</td><td>28.76±1.18a</td><td>29.78±2.98a</td><td>3.37±0.28a</td><td>3.85±0.13a</td></tr><tr><td></td><td></td><td>5422CBCL 113.00±5.57a 109.67±4.33b</td><td></td><td>25.27±1.82a</td><td>24.73±1.57b</td><td>22.37±1.52b</td><td>21.86±1.47b</td><td>2.90±0.33a</td><td>2.87±0.43b</td></tr><tr><td>80</td><td>5422</td><td>144.00±1.53a 154.00±4.51a</td><td></td><td>33.85±1.43a</td><td>42.32±5.57a</td><td>29.57±1.62a</td><td>38.40±5.76a</td><td>4.28±0.19b</td><td>3.92±0.24ab</td></tr><tr><td></td><td>5422Bt1</td><td>133.33±7.22a 140.33±7.86a</td><td>41.29±3.82a</td><td></td><td>36.03±3.82a</td><td>34.64±3.79a</td><td>31.43±3.59a</td><td>6.65±0.31a*</td><td>4.60±0.24a</td></tr><tr><td></td><td>5422CBCL</td><td>137.67±3.71a 150.33±2.91a</td><td>37.28±1.80a</td><td></td><td>28.96±3.52a</td><td>32.84±1.62a</td><td>25.80±3.24a</td><td>4.44±0.21b*</td><td>3.17±0.31b</td></tr></table></body></html>
+
+‘5422Bt1'和‘5422CBCL'为 Bt玉米品种，‘5422'为同源常规玉米品种。同列同一取样时间不同字母表示差异显著 $( P { < } 0 . 0 5 )$ ，同行星号(\*)表 示在接菌处理 $( + \mathrm { G } )$ 与不接菌处理(-G)平均值间差异显著 $( P { < } 0 . 0 5 )$ 。 $\cdot 5 4 2 2 \mathrm { B t } 1 ^ { \circ }$ and‘5422CBCL’are Bt corn varieties,‘5422’is conventional corn variety.DifetletinhoatteempngieeaifiantdierecmongeiateveIeero star $( ^ { * } )$ means significant difference at O.O5 level between averages of inoculation $( + \mathrm { G } )$ and non-inoculation (-G) treatments.
+
+# 2.2.2对玉米根系生长特性的影响
+
+根系是植物的主要吸收器官，植物依靠根系从土壤中吸收水分和无机盐。根系长度和密度对植物的生长起着重要作用。50d取样时，所有处理‘5422'、‘5422Bt1'和‘5422CBCL'玉米的根长、根表面积和根体积均没有显著差异(表2)，说明Bt基因导入与接菌处理均没有影响苗期玉米的根系生长特征。 $8 0 ~ \mathrm { d }$ 取样时，不接菌处理 $\cdot 5 4 2 2 \mathrm { B t } 1$ 玉米的根长、根表面积和根体积显著高于‘5422'和'5422CBCL(表2),说明Bt11基因的导入提高了‘5422Bt1'玉米成熟期(80d)的根系活力；但接菌处理并没有促进其根系生长。
+
+表2摩西球囊霉侵染对Bt玉米根系生长特性的影响 Table2Effect ofFunneliformis mosse colonization on root growth characteristics of Bt cori   
+
+<html><body><table><tr><td rowspan="2">取样时间 Sampling time (d)</td><td rowspan="2">品种 Variety</td><td colspan="2">根长 Root length (m)</td><td colspan="2">根表面积 Root surface (dm²)</td><td colspan="2">根体积 Root volume (cm)</td></tr><tr><td>-G</td><td>+G</td><td>-G</td><td>+G</td><td>-G</td><td>+G</td></tr><tr><td>50</td><td>5422</td><td>96.07±23.20a</td><td>76.61±6.10a</td><td>20.53±4.81a</td><td>17.60±2.20a</td><td>35.54±8.08a</td><td>32.64±3.64a</td></tr><tr><td></td><td>5422Bt1</td><td>81.62±8.34a</td><td>87.46±5.83a</td><td>18.95±1.90a</td><td>19.86±1.33a</td><td>35.55±3.53a</td><td>36.37±2.29a</td></tr><tr><td></td><td>5422CBCL</td><td>75.76±16.13a</td><td>64.19±10.61a</td><td>16.73±3.18a</td><td>14.93±2.68a</td><td>29.61±4.94a</td><td>27.99±5.52a</td></tr><tr><td>80</td><td>5422</td><td>95.25±13.85b</td><td>82.35±7.20a</td><td>20.92±2.35b</td><td>18.64±1.78a</td><td>36.96±2.87b</td><td>33.72±3.54a</td></tr><tr><td></td><td>5422Bt1</td><td>162.63±18.24a</td><td>101.79±21.90a</td><td>39.56±4.17a</td><td>24.93±0.45a</td><td>77.57±8.19a</td><td></td></tr><tr><td></td><td>5422CBCL</td><td>95.36±4.18b</td><td>68.30±16.75a</td><td>22.92±0.21b</td><td>16.73±3.93a</td><td>44.09±1.83b</td><td>48.76±1.76a 32.78±7.42a</td></tr></table></body></html>
+
+‘5422Bt1'和‘5422CBCL'为 Bt玉米品种，‘5422'为同源常规玉米品种。同列同一取样时间不同字母表示差异显著 $( P { < } 0 . 0 5 )$ ，同行星号(\*)表 示在接菌处理 $\mathrm { ( + G ) }$ 与不接菌处理(-G)平均值间差异显著 $( P { < } 0 . 0 5 )$ 。 $\cdot 5 4 2 2 \mathrm { B t } 1 ^ { \circ }$ and‘5422CBCL’are Bt corn varieties,‘5422’is conventional corn variety.DifetletinhoatteempngieeaifiantdierecmongeiateveIeero star $( ^ { * } )$ means significant difference at O.O5 level between averages of inoculation $\left( + \mathbf { G } \right)$ and non-inoculation (-G) treatments.
+
+# 2.2.3 对玉米养分含量的影响
+
+氮、磷、钾和有机碳含量是评价植物养分利用的重要指标。50d取样不接菌处理下，‘5422Bt1'的全株全氮含量显著高于‘5422CBCL'，其地下部全氮含量也显著高于‘5422'和‘5422CBCL'，但3个玉米品种全株、地上部和地下部的全磷、全钾和有机碳含量没有显著差异(表3)。50d取样接菌处理下，3个玉米品种，仅‘5422Bt1'地下部全氮显著低于‘5422CBCL’、全磷含量显著低于‘5422’和‘5422CBCL'，‘5422CBCL'地上部全钾含量显著高于‘5422'(表3)；‘5422Bt1'接菌处理仅地下部全氮含量低于其不接菌处理，其全株和地上部全氮含量显著低于其不接菌处理，‘5422CBCL'接菌处理全株和地下部全氮含量显著高于其不接菌处理(表3)。
+
+$8 0 ~ \mathrm { d }$ 取样不接菌处理下，‘5422'的全株和地上部全氮含量、全株全磷含量显著高于‘5422CBCL'，地下部全磷含量、全株全钾含量也显著高于‘5422Bt1'和‘5422CBCL'，地下部全钾含量也显著高于‘5422Bt1(表3)。80d取样接菌处理下，3个玉米品种之间仅‘5422'全株有机碳含量显著低于‘5422Bt1'和‘5422CBCL'；‘5422CBCL'玉米的全株全氮含量显著高于其不接菌处理，全株有机碳含量显著低于不接菌处理。
+
+上述结果表明，Bt基因的导入主要影响了两个Bt 玉米品种('5422Bt1'和'5422CBCL)苗期(50 d)和成熟期(80d)的氮素吸收利用，与常规玉米品种‘5422'相比，合成Bt蛋白消耗了部分氮素和磷；3个玉米品种对接种AMF的响应不同，接菌处理提高了‘5422Bt1'和'5422CBCL苗期(50 d)和成熟期(80 d)的氮素吸收利用。
+
+# 3 讨论与结论
+
+本研究表明，Bt基因的导入影响了供试的两个转Bt玉米品种的生长特性及其对接种AMF的响应，且这种影响与导入Bt基因的转化事件相关，这与Cheeke等[17的研究结论一致。菌根侵染状况是反映植物与真菌之间共生亲和力的重要指标[14]。‘5422Bt1'(Bt11)和‘5422CBCL(Mon810)玉米 根系AMF侵染率显著高于常规玉米‘5422'，接菌处理苗期(50 d)对‘5422'株高的促进作用强于‘5422Bt1'和‘5422CBCL'；对‘5422Bt1'全株干重、地上部干重的促进作用强于‘5422CBCL'。Bt11基因的导入提高了‘5422Bt1'玉米成熟期(80d)的根系活力；但接菌处理并没有促进其根系生长。Bt基因的导入主要影响了两个Bt玉米品种苗期和成熟期的氮素吸收利用，与常规玉米品种‘5422'相比，合成Bt蛋白消耗了部分氮素和磷，这与冯远娇等[1的研究结果一致。3个玉米品种对接种AMF的响应不同，接菌处理提高了‘5422Bt1'和‘5422CBCL'苗期和成熟期的氮素吸收利用，但没有影响玉米的磷转运基因ZEAma:Pt1;6的表达量以及玉米对磷素的吸收利用，这与任稹等[14]、贾广军等[30]和付先恒等[31]的研究结果不一致，可能是在本试验中每隔3d添加一次Hoagland营养液，土壤中磷素养分充足，能满足玉米生长需要，不需要AMF再提高其吸收量[32]。
+
+综上所述，Bt基因的导入促进了AMF对玉米的侵染，而对玉米中磷转运基因表达没有影响，同时Bt基因的导入对玉米生长和养分利用的影响与不同转化事件形成的品种特性有关，玉米‘5422Bt1'的干重显著高于‘5422CBCL'，而与‘5422'没有显著差异;
+
+表3摩西球囊霉侵染对Bt玉米养分含量的影响  
+Table3 Effect of Funneliformis mosse colonization on nutrients contents of Bt corn   
+g·kg\~1   
+
+<html><body><table><tr><td rowspan="2">养分 Nutrient</td><td rowspan="2">取样时间 Sampling</td><td rowspan="2">品种 Variety</td><td colspan="2">全株Plant</td><td colspan="2">地上部 Shoot</td><td colspan="2">地下部Root</td></tr><tr><td>-G</td><td>+G</td><td>-G</td><td>+G</td><td>-G</td><td>+G</td></tr><tr><td>全氮 Total N</td><td>50</td><td>5422</td><td>11.82±23.20ab</td><td>11.95±0.76a</td><td>13.03±0.37a</td><td>11.29±1.53a</td><td>10.61±0.93b</td><td>12.61±0.03ab</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>12.68±0.38a*</td><td>11.46±0.08a</td><td>13.77±0.15a*</td><td>11.87±0.04a</td><td>11.60±0.61a</td><td>11.06±0.18b</td></tr><tr><td></td><td></td><td>5422CBCL</td><td>10.96±0.41b</td><td>13.66±0.85a*</td><td>12.09±1.63a</td><td>13.64±0.81a</td><td>9.84±0.83b</td><td>13.69±1.04a*</td></tr><tr><td></td><td>80</td><td>5422</td><td>12.75±0.51a</td><td>12.57±0.54a</td><td>13.71±1.09a</td><td>11.20±1.26a</td><td>11.80±0.84a</td><td>13.94±0.56a</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>11.86±0.51ab</td><td>11.98±0.67a</td><td>12.35±1.23ab</td><td>11.58±0.72a</td><td>11.37±0.34a</td><td>12.39±0.65a</td></tr><tr><td>全磷</td><td></td><td>5422CBCL</td><td>10.70±0.31b</td><td>12.92±0.49a*</td><td>10.21±0.37b</td><td>12.62±0.96a</td><td>11.20±0.48a</td><td>13.22±0.99a</td></tr><tr><td>Total P</td><td>50</td><td>5422</td><td>1.23±0.04a</td><td>1.36±0.14a</td><td>1.56±0.08a</td><td>1.48±0.27a</td><td>0.89±0.08a</td><td>1.24±0.03a</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>1.27±0.08a</td><td>1.41±0.03a</td><td>1.61±0.10a</td><td>1.78±0.07a</td><td>0.93±0.07a</td><td>1.03±0.02b</td></tr><tr><td></td><td></td><td>5422CBCL</td><td>1.20±0.17a</td><td>1.52±0.03a</td><td>1.64±0.38a</td><td>1.84±0.00a</td><td>0.76±0.08a</td><td>1.20±0.06a</td></tr><tr><td></td><td>80</td><td>5422</td><td>1.72±0.23a</td><td>1.51±0.16a</td><td>2.29±0.57a</td><td>1.96±0.32a</td><td>1.15±0.11a</td><td>1.05±0.06a</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>1.43±0.18ab</td><td>1.54±0.17a</td><td>2.09±0.39a</td><td>2.04±0.33a</td><td>0.77±0.04b</td><td>1.04±0.09a</td></tr><tr><td>全钾</td><td></td><td>5422CBCL</td><td>1.01±0.03b</td><td>1.76±0.19a</td><td>1.19±0.01a</td><td>2.50±0.43a</td><td>0.83±0.05b</td><td>1.03±0.07a</td></tr><tr><td>Total K</td><td>50</td><td>5422</td><td>16.36±1.00a</td><td>17.67±1.17a</td><td>17.60±1.10a</td><td>19.92±0.98b</td><td>15.12±1.83a</td><td>15.42±1.45a</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>18.56±1.60a</td><td>18.26±0.11a</td><td>21.79±1.46a</td><td>22.50±0.39ab</td><td>15.33±2.04a</td><td>14.02±0.59a</td></tr><tr><td></td><td></td><td>5422CBCL</td><td>13.85±1.77a</td><td>19.81±1.68a</td><td>17.07±2.25a</td><td>24.19±1.50a</td><td>10.63±1.59a</td><td>15.43±2.21a</td></tr><tr><td></td><td>80</td><td>5422</td><td>15.57±1.18a</td><td>15.12±1.10a</td><td>22.25±3.70a</td><td>20.24±3.30a</td><td>8.88±1.34a</td><td>10.00±1.16a</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>10.70±0.86b</td><td>12.50±0.74a</td><td>16.98±2.47a</td><td>18.10±0.48a</td><td>4.42±0.93b</td><td>6.91±1.17a</td></tr><tr><td>有机碳</td><td></td><td>5422CBCL</td><td>10.76±0.62b</td><td>12.72±1.09a</td><td>13.85±0.75a</td><td>17.31±2.26a</td><td>7.68±0.91ab</td><td>8.12±0.98a</td></tr><tr><td></td><td>50</td><td>5422</td><td>424.95±5.10a</td><td>415.36±7.57a</td><td>421.20±6.26a</td><td>403.47±21.54a</td><td>428.67±10.6a</td><td>427.23±6.68a</td></tr><tr><td>Organic C</td><td></td><td>5422Bt1</td><td>432.74±4.46a</td><td>429.99±6.79a</td><td>431.20±7.53a</td><td>426.83±12.23a</td><td>434.27±1.55a</td><td>433.13±6.68a</td></tr><tr><td></td><td></td><td>5422CBCL</td><td>438.84±1.68a*</td><td>429.58±1.82a</td><td>438.13±6.07a</td><td>424.20±4.18a</td><td>439.57±4.46a</td><td>435.00±2.12a</td></tr><tr><td></td><td>80</td><td>5422</td><td>436.95±11.38a</td><td>424.26±1.19b</td><td>430.70±6.12a</td><td>423.93±3.93a</td><td>443.17±22.12a</td><td>424.60±1.65a</td></tr><tr><td></td><td></td><td>5422Bt1</td><td>432.76±4.69a</td><td>432.32±2.66a</td><td>426.70±7.11a</td><td>427.23±0.44a</td><td>438.83±4.28a</td><td>437.40±5.35a</td></tr><tr><td></td><td></td><td>5422CBCL</td><td>433.59±2.68a</td><td>431.43±1.92a</td><td>434.07±0.37a*</td><td>425.43±1.32a</td><td>433.07±5.09a</td><td>437.43±2.90a</td></tr></table></body></html>
+
+‘5422Bt1'和‘5422CBCL'为Bt玉米品种，‘5422'为同源常规玉米品种。同列同一取样时间不同字母表示差异显著 $( P { < } 0 . 0 5 )$ ，同行星号 $( ^ { * } )$ 表 示在接菌处理 $\mathrm { ( + G ^ { ' } }$ )与不接菌处理(-G)平均值间差异显著 $( P { < } 0 . 0 5 )$ 。 $\cdot _ { 5 4 2 2 \mathrm { B t } 1 } ,$ and‘5422CBCL’are Bt corn varieties,‘5422’is conventional corn varietyDifetletsioatteempngeeaiantdierecogeiateveInesero star $( ^ { * } )$ means significant difference at O.O5 level between averages of inoculation $\mathrm { ( + G ) }$ and non-inoculation (-G) treatments.
+
+玉米‘5422Bt1'的根长、根表面积和根体积显著高于‘5422'和‘5422CBCL'；玉米‘5422'的全氮、全磷和全钾显著高于‘5422CBCL'，而与‘5422Bt1'没有显著差异；3个玉米品种对接种AMF的响应不同，接菌处理提高了‘5422Bt1'和‘5422CBCL'苗期和成熟期的氮素吸收利用。
+
+# 参考文献 References
+
+[1] Regvar M,Vogel K, Irgel N,et al. Colonization of pennycresses (Thlaspi spp.) of the Brassicaceae by arbuscular mycorrhizal fungi[J]. Journal of Plant Physiology,20o3,160(6): 615-626   
+[2]Tsuzuki S,Handa Y,Takeda N,et al. Strigolactone-induced putative secreted protein1 is required for the establishment of symbiosis by the arbuscular mycorrhizal fungus Rhizophagus irregularis[J].Molecular Plant-Microbe Interactions,2016, 29(4): 277-286   
+[3]马琨，陶媛，杜茜，等．不同土壤类型下AM真菌分布多样 性及与土壤因子的关系[J]．中国生态农业学报,2011,19(1): 1-7 MaK,TaoY,DuQ,etal.Arbuscularmycorrhizal fungi diversity and its relationship with soil environmental factors in different soil types[J]. Chinese Journal of Eco-Agriculture, 2011,19(1): 1-7   
+[4]王洪义，王智慧，崔战利．4种生物质对大豆双共生系统、 土壤微生物及产量的调控[J]．中国生态农业学报，2013, 21(6): 652-657 Wang HY,Wang ZH, Cui ZL.Control effects of biomass on dual symbiosis system,soil microbe and yield of soybean[J]. Chinese Journalof Eco-Agriculture,2013,21(6):652-657   
+[5]Zhu X C,SongFB,Liu SQ,et al.Effects of arbuscular mycorrhizal fungus on photosynthesis and water status of maize under high temperature stress[J].Plant and Soil,2011, 346(1/2): 189-199   
+[6]Hassan S E D,Boon E,St-Arnaud M,et al. Molecular biodiversity of arbuscular mycorrhizal fungi in trace metal-polluted soils[J]. Molecular Ecology,2011,20(16): 3469-348   
+[7] Liu R J, Wang F Y. Selection of appropriate host plants used in trap culture of arbuscular mycorrhizal fungi[J]. Mycorrhiza, 2003,13(3): 123-127   
+[8] James C. 20 Years of success-Global status of commercialized biotech/GM Crops:2015[R].ISAAA Brief No.51. Ithaca, NY: ISAAA, 2015   
+[9] Saxena D,Flores S, Stotzky G. Bt toxin is released in root exudates from l2 transgenic corn hybrids representing three transformation events[J]. Soil Biology and Biochemistry, 2002,34(1): 133-137   
+[10]Liu W K.Do genetically modified plants impact arbuscular mycorrhizal fungi?[J]. Ecotoxicology,2010,19(2): 229-238   
+[11] Cheeke TE,Pace B A,Rosenstiel T N,et al. The influence of fertilizer level and spore density on arbuscular mycorrhizal colonization of transgenic $B t \ 1 1$ maize (Zea mays) in experimental microcosms[J].FEMS Microbiology Ecology,2011, 75(2): 304-312   
+[12] Cheeke T E,Rosenstiel T N,Cruzan M B. Evidence of reduced arbuscular mycorrhizal fungal colonization in multiple lines of $B t$ maize[J]. American Journal of Botany,2012, 99(4): 700-707   
+[13] Seres A, Kiss I, Nagy P,et al.Arbuscular mycorrhizal fungi colonisation of Cry3 toxin-producing Bt maize and near isogenic maize[J]. Plant, Soil and Environment,2014,60(12): 569-573   
+[14]任稹，王建武，冯远娇，等．丛枝菌根真菌侵染 Bt 玉米及 对其生长的影响[J]．生态学杂志,2011,30(6):1163-1168 Ren Z, Wang JW,Feng Y J,et al. Effects of arbuscular mycorrhizal fungi colonization on Bt corn growth[J]. Chinese Journal of Ecology,2011,30(6): 1163-1168   
+[15] Zeng HL,Tan F X, Shu Y H,et al. The CrylAb protein has minor effects on the arbuscular mycorrhizal fungal communities after five seasons of continuous Bt maize cultivation[J]. PLoS One,2015,10(12): e0146041   
+[16]冯远娇，陈卓娜，王建武，等.Bt玉米丛枝菌根真菌侵染率 与养分含量的变化研究[J]．中国生态农业学报,2010,18(3): 486-491 Feng Y J,Chen Z N,Wang JW,et al. Change in abuscular mycorrhizal fungi colonization rate and nutrient content in Bt corn[J].Chinese Journal of Eco-Agriculture,2010,18(3): 486-491   
+[17] Cheeke TE,Schuite U M, Hemmerich C M, et al. Spatial soil heterogeneity has a greater effect on symbiotic arbuscular mycorrhizal fungal communities and plant growth than genetic modification with Bacillus thuringiensis toxin genes[J]. Molecular Ecology,2015,24(10): 2580-593   
+[18] Cheeke T E,Cruzan M B,Rosenstiel T N. Field evaluation of arbuscular mycorrhizal fungal colonization in Bacillus thuringiensis toxin-expressing (Bt） and non-Bt maize[J]. Applied and Environmental Microbiology，2013,79(13): 4078-4086   
+[19] Cheeke TE,Darby H,Rosenstiel TN,et al. Effect of Bacillus thuringiensis $( B t )$ maize cultivation history on arbuscular mycorrhizal fungal colonization,spore abundance and diverZhao X,Yan XF.Effects of arbuscular mycorrhizal fungi on the growth and absorption of nitrogen and phosphorus in Camptotheca acuminata seedlings[J]. Journal of Plant Ecology,2006,30(6): 947-953   
+[21]Liu F,Xu Y J,Jiang H H,et al. Systematic identification, evolution and expression analysis of the Zea mays PHTl gene family reveals several new members involved in root colonization by arbuscular mycorrhizal fungi[J]. International Journal of Molecular Sciences,2016,17(6): 930   
+[22] 杨俊刚，倪小会，徐凯，等．接触施用包膜控释肥对玉米产 量、根系分布和土壤残留无机氮的影响[J]．植物营养与肥 料学报,2010,16(4):924-930 Yang J G, Ni X H, Xu K,et al. Effects of co-situs application of polymer-coated fertilizers on grain yield,root distribution and soil residual $ { \mathbf { N } } _ { \mathrm { \ m i n } }$ in summer maize[J]. Plant Nutrition and Fertilizer Science,2010,16(4):924-930   
+[23]王宇涛，邱丘，李韶山，等．镉镉、铜复合污染下丛枝菌根 真菌对玉米重金属吸收的影响[J]．科技导报，2014,32(21): 15-20 Wang Y T,Qiu Q,Li S S,et al. Effects of arbuscular mycorrhizal fungi on heavy metal uptake of maize under Cd and Cu combined pollution conditions[J]. Science & Technology Review,2014,32(21):15-20   
+[24] Trouvelot A,Kough JL,Gianinazzi-Pearson V.Mesure du taux de mycorhization VA d'un systeme radiculaire.Recherche de $\mathsf { m } \mathsf { \overline { { e } } }$ thodes d'estimation ayant une signification fonctionnelle[M]//Gianinazzi-Pearson V,Gianinazzi S. Physiological and Genetical Aspects of Mycorrhizae.Paris,France: INRA,1986: 217-221   
+[25]李长志，李欢，刘庆，等．不同生长时期干旱胁迫甘薯根系 生长及荧光生理的特性比较[J].植物营养与肥料学报, 2016,22(2): 511-517 Li C Z,Li H,Liu Q,et al. Comparison of root development and fluorescent physiological characteristics of sweet potato exposure to drought stress in different growth stages[J]. Journal of Plant Nutrition and Fertilizer,2016,22(2): 511-517   
+[26]鲍士旦．土壤农化分析[M]．第3版．北京：中国农业出版 社,2000 Bao S D. Soil and Agricultural Chemistry Analysis[M]. 3rd ed. Beijing: China Agricultural Press,2000   
+[27] López-Arredondo D L， Leyva-Gonzalez M A，Gonzalez-Morales S I，et al. Phosphate nutrition: Improving low-phosphate tolerance in crops[J]. Annual Review of Plant Biology,2014,65(1): 95-123   
+[28] 徐立华，李国锋，杨长琴，等．转 $B t$ 基因抗虫棉 33B 的氮 素代谢特征[J]．江苏农业学报,2005,21(3):150-154 Xu L H,Li G F,Yang C Q,et al. Characteristics of nitrogen metabolism of insect-resistant $B t$ transgenic cotton nucotn 33B[J]. Jiangsu Journal of Agricultural Sciences,20o5,21(3): 150-154   
+[29]Saia S,Rappa V,Ruisi P,et al. Soil inoculation with symbiotic microorganisms promotes plant growth and nutrient transporter genes expression in durum wheat[J].Frontiers in Plant Science,2015,6:815   
+[30]贾广军，张仕颖，谷林静，等．菌根对紫色土上间作玉米生 长及磷素累积的影响[J]．中国生态农业学报，2014，22(5): 516-524 Jia GJ,Zhang SY,GuLJ,et al.Effect of mycorrhizal inoculation on growth and phosphorus accumulation of intercropped maize on purple soil[J].Chinese Journalof Eco-Agriculture,2014,22(5):516-524
+
+[31]付先恒，年夫照，谷林静，等．分室磷添加下菌根对滇池流
+
+域红壤间作玉米生长及磷素利用的影响[J].中国生态农业 学报,2015,23(10):1220-1227 FuXH,NianF Z,GuLJ,et al.Effect of inoculation of AMF on plant growth and phosphorus utilization in intercropped maize under chamber phosphorus addition on red soils in Dianchi Watershed[J].Chinese Journal of Eco-Agriculture,2015, 23(10):1220-1227 [32]黄京华，骆世明，曾任森，等．磷胁迫下AMF对玉米生长的影 响[J].广西农业生物科学,2006,25(4):321-324 HuangJH,Luo SM,ZengR S,et al.Effects of AMF on maize plant growth under phosphorus stress[J]. Journal of Guangxi Agricultural and Biological Science,2006,25(4): 321-324

@@ -1,0 +1,105 @@
+# 憎水表面光控液滴蒸发及冷凝液滴的演化特性
+
+焦 龙1.2陈 蓉1,2何雪丰1,2 朱恂1,2廖强1,2(1．低品位能源利用技术及教育部重点实验室2.重庆大学工程热物理研究所，重庆400030)
+
+摘要实验利用可视化方法研究了憎水表面上聚焦激光局部加热作用下液滴的蒸发特性及主液滴周围冷凝液滴的生成及演化特性。波长为 $1 5 5 0 \ \mathrm { n m }$ 的红外激光作为局部热源控制液滴的相变。结果表明：冷凝液滴随着热蒸汽在过冷基底上的冷凝而不断生长，冷凝液滴之间的聚并现象使其尺寸快速增大。冷凝液滴的演化过程受到液滴蒸发强度和冷凝持续时间的综合影响。当激光加热偏离液滴中心位置时，冷凝液滴仍然较为均匀地分布在主液滴周围。
+
+关键词激光；局部加热；冷凝液滴；演化特性；聚并中图分类号：TK121 文献标识码：A 文章编号:0253-231X(2017)03-0575-06
+
+# IR Laser Induced Evaporation of Sessile Droplet and Dynamic Evolution of Condensed Droplets on Hydrophobic Surface
+
+JIAO Long $^ { 1 , 2 }$ CHEN Rong $^ { 1 , 2 }$ HE Xue-Feng $^ { 1 , 2 }$ （ ZHU Xun $^ { 1 , 2 }$ LIAO Qiang $^ { 1 , 2 }$ (1.Key Laboratory of Low-grade Energy Utilization Technologies and Systems (Chongqing University), Ministry of Education，Chongqing 40oo30,China; 2.Institute of Engineering Thermophysics,Chongqing University，Chongqing 40o030,China)
+
+Abstract In this work,the laser-induced evaporation of the sessile water droplet on the hydrophobic surface and the dynamic evolution of condensed droplets around the triple-phase contact line were visually studied. The photothermal effct of a laser with the wavelength of 1550 nm was utilized as the local heating source for generating the supersaturated vapor and controlling the formation of the condensed droplets on the substrate.It was confirmed that the condensed droplets had two distinct evolution modes: the continuous condensation of the supersaturated vapor and the coalescence between the condensed droplets.The combined effect of the evaporation of the sessile water droplet and the condensation time influences the dynamic evolution of the condensed droplets. It was also found that although the laser spot was not located at the center of the droplet,the condensed droplets were still uniformly distributed around the sessile water droplet.
+
+Key wordslaser; local heating; condensed droplets; dynamic evolution; coalescence
+
+# 0引言
+
+近年来，液滴在许多领域的应用受到了人们的普遍关注[1,2]。由于液滴三相接触线的动态特性和液滴内部的流动特性，液滴可以实现多种功能，在许多应用中发挥出重要作用，包括粒子分离、颗粒自组装、生物检测及药物合成[3,4]等。由于液滴可以快速而高效地生成，并且其具有功能多样化，操控灵活，性能卓越等优点，液滴技术在相关领域的应用中有着巨大的潜力和广阔的发展[5]。
+
+在基于液滴的应用中，液滴的蒸发过程起着重要作用，研究液滴的蒸发特性及液滴的蒸发形式对液滴相关技术的发展有着重要意义。Hu等[6研究了液滴内部的Marangoni流动效应，指出液滴表面的不均匀蒸发和基底的传热作用下会导致液滴界面的温度分布梯度，引起液滴内部的二次流动，这一作用不同于形成咖啡环效应的毛细流动。液滴内部两种流动的综合作用决定了液滴内部粒子的最终沉积形式。Elizaveta等[7]研究了恒定基底温度下不同基底润湿性和液滴蒸发形式下的液滴的蒸发行为，并通过理论分析得出了不同蒸发形式下液滴的特定蒸发速率和液滴接触半径之间的关系。Harris 等[8将刻有微米级别小孔的多孔模板放置在液滴界面上端，使得液滴表面的蒸发速率受到多孔模板的限制，出现周期性的变化趋势。液滴内部的粒子向微米小孔处移动，从而形成了均匀的粒子沉积形式。然而，传统的液滴蒸发过程的控制形式主要采用环境整体加热或基底加热等方式，这些加热方式不利于液滴相变过程的精确控制。
+
+近年来，为了精确控制液滴的相变过程，激光加热被引入液滴蒸发中[9,10]。利用激光与液滴之间的光热效应，激光的能量可以快速转化为液滴的热能。这种加热方式具有灵敏度高，可控性好，远程非接触式加热等优点[11]。在光热效应致相变的过程中，由于激光的局部加热作用，液滴的蒸发表现出独特的性质，大量的冷凝液滴生成在主液滴周围过冷的基底表面上并随着主液滴的相变过程而不断生长和演化。这种局部加热作用下生成的冷凝液滴的生长和演化不仅会对主液滴三相接触线的动态变化产生重要的影响，还可以进一步应用于化学分离，微流体运动控制，医学检测等领域。
+
+目前针对激光加热液体的研究主要集中在新的结构设计上，针对光热效应致液滴蒸发，尤其是光热效应局部加热下冷凝液滴的生长和演化特性的研究还较为缺乏。本文研究了聚焦激光局部加热作用下主液滴的蒸发和主液滴三相接触线周围冷凝液滴的生成、聚并及演化特性，研究了不同加热条件和液滴工况下冷凝液滴的演化规律。
+
+的能量通过光热效应快速转化为热能，从而加热液滴。PDMS 基底在每次实验前进行标准化清洗，确保表面无杂质。
+
+![](images/22d5d27da5d90e05d6f40f93f29d46424c7832dc4d0f9b15284f9e2a992490eb.jpg)  
+图1实验系统示意图 Fig.1 Schematic of the experimental system
+
+数据测量系统用于记录液滴蒸发过程中的可视化图像和温度场变化。一台连接有显微镜头(Navitar，Zoom 6000）的 CMOS 相机(Point-grey,Grasshopper3)和一台连接显微镜头的高速相机(PhantomV5.1）分别从水平方向和 $6 0 ^ { \circ }$ 方向拍摄液滴蒸发过程中的主视图和俯视图，并记录冷凝液滴的生成和演化过程。实验中使用红外热像仪（FLIRThermaCAMP20）测量液滴界面的温度场。红外热像仪的精度为 $\pm 2 ~ ^ { \circ } \mathrm { C }$ □
+
+# 1实验原理及系统
+
+实验系统如图1所示，主要包括液滴生成系统、激光加热系统和数据测量系统。实验基底材料选用PDMS(聚二甲基硅氧烷，SYLGARD184,DowCorn-ing)。PDMS是一种典型的增水材料并且广泛应用于微流控系统中，它具有价格较低，生物兼容性好，可塑性好等优点。实验中将PDMS和固化剂按照10:1的比例用旋涂的方式涂覆在硅片表面形成PDMS薄层，旋转速度为 $\mathrm { 7 0 0 ~ r / m i n }$ ，旋转时间为 $\mathrm { 1 0 ~ s ~ }$ ，PDMS的质量为 $\mathrm { ~ 6 ~ g ~ }$ 。PDMS薄层随后在 $9 0 ^ { \circ } \mathrm { C }$ 的加热板上加热固化约 $3 0 ~ \mathrm { m i n }$ 。将固化的PDMS涂层揭下并与经过乙醇及超声波清洗的载玻片贴合在一起，完成憎水基底的构造。液滴通过微量注射泵注射形成。精度为 $1 ~ { \mu \mathrm { m } }$ 的三维精密移动平台用于控制液滴的位置。实验工质为蒸馏水。激光聚焦系统用于形成局部热源加热液滴。波长为 $1 5 5 0 ~ \mathrm { n m }$ 的红外激光（MW-$\mathrm { S G X - 1 5 5 0 / 4 5 0 m W } )$ 经过聚焦物镜（MPlanApoNIR$1 0 \times )$ 聚焦后形成一个直径约 $3 0 ~ \mu \mathrm { m }$ 的光斑并竖直照射至液滴表面。由于蒸馏水对 $1 5 5 0 ~ \mathrm { n m }$ 波段的红外激光有着较强的吸收特性 $( \mathrm { a { = } 1 1 . 1 ~ \ c m ^ { - 1 } }$ )，激光
+
+# 2 实验结果
+
+# 2.1主液滴的蒸发和冷凝液滴的演化特性
+
+初始液滴的大小为 $6 ~ \mu \mathrm { L }$ ，激光的功率为 250$\mathrm { m W }$ 。蒸发过程中主液滴界面温度的变化和冷凝液滴的演化过程如图2所示。当激光照射至液滴表面时，激光的光能在光热效应的作用下转化为热能，使液滴的表面温度快速升高，从而引起液滴的快速蒸发。由于激光局部加热作用，此时液滴周围基底的温度仍然维持在室温附近。主液滴蒸发所产生的热蒸汽在接触到周围过冷的基底表面时会发生冷凝现象，从而在液滴三相接触线外围形成大量的冷凝液滴。值得注意的是，液滴上部气流中由于局部加热的作用也会有部分热蒸汽冷凝形成冷凝液滴，气相中的冷凝液滴在流动中可能掉落至基底上形成新的冷凝液滴或与基底上的冷凝液滴聚合。图3示出液滴的表面温度在加热时间为37s时快速升高至 $5 3 . 7 ^ { \circ } \mathrm { C }$ 而此时周围基底的温度依然维持在室温约 $2 3 ^ { \circ } \mathrm { C }$ 0
+
+随着蒸发的进行，液滴三相接触线在某一时刻开始后退，新的冷凝液滴会生成在后退区域中。根据冷凝液滴的分布。可以看出尺寸较大的冷凝液滴主要集中在主液滴初始三相接触线附近，而其他位置形成的冷凝液滴均较小。这是由于在开始阶段，热蒸汽由主液滴表面向周围环境中扩散，在主液滴表面附近热蒸汽的过饱和度最高，因此较多的热蒸汽冷凝在此位置并形成了较大的冷凝液滴。这些较大的冷凝液滴在之后的生长过程中更容易与周围的冷凝液滴发生聚并，进一步增大其体积。而远离主液滴区域由于蒸汽的扩散及浓度降低等因素，生成的冷凝液滴较小。而在三相接触线后退而产生的新区域内形成的冷凝液滴，由于没有足够的生长时间，其体积较小。
+
+![](images/aee58cfa33f1a65e33532f569c7ab12b3e462148d0f64f3f72b95a2f32986c38.jpg)  
+图2(a)蒸发过程中主液滴表面温度的变化；(b)主液滴及冷凝液滴的可视化图像  
+Fig.2(a) The variation of the interface temperature of water droplet;(b) The top views of the water droplet and condensed droplets
+
+冷凝液滴生长速率减小。针对冷凝液滴的生长规律，实验选择主液滴初始三相接触线位置附近最大单个冷凝液滴作为研究对象。图3示出单个冷凝液滴的接触半径随蒸发过程的变化情况。可以看出冷凝液滴之间的聚并使冷凝液滴的尺寸瞬间增大。在加热时间为140s时，由于冷凝液滴之间的聚并使得冷凝液滴的接触半径瞬间从 $2 2 8 ~ { \mu \mathrm { m } }$ 增加到 $3 5 3 ~ { \mu \mathrm { m } }$ 0
+
+![](images/53bf8410108cd75d1a94bb778fb5b412424a25cede9543add17bf06e7743113e.jpg)  
+图3(a）单个冷凝液滴的接触半径随蒸发过程的变化；(b)冷凝 液滴之间的聚并现象   
+Fig.3 (a) The variation of the contact radius of a typical condensed droplet;(b)The coalescence of condensed droplets
+
+冷凝液滴的生长和演化过程和主液滴的相变过程紧密相关。随着主液滴蒸发相变和热蒸汽的持续冷凝，冷凝液滴不断生长。同时冷凝液滴的界面相互接触并开始发生聚并现象，几个较小的冷凝液滴合并成一个较大的冷凝液滴。这种作用在蒸发后期尤为明显，因为此时参与聚并的液滴体积都生长到较高的值。值得注意的是，在蒸发后期，主液滴的体积和蒸发速率下降，此时通过热蒸汽冷凝而导致的
+
+# 2.2激光功率对冷凝液滴演化特性的影响
+
+冷凝液滴的产生与激光的局部加热效果直接相关，激光的能量对于冷凝液滴的演化过程有着重要影响。针对冷凝液滴的生长及分布规律，实验选择主液滴初始三相接触线附近的最大冷凝液滴及其他冷凝液滴作为主要研究对象。图4所示为不同激光功率下单个冷凝液滴接触半径随蒸发过程的变化和激光功率对较大冷凝液滴接触半径的影响。主液滴初始体积为 $6 ~ \mu \mathrm { L }$ 。当激光功率较高时，通过光热效应转化而被液滴吸收的热量增多，液滴界面上的蒸发速率加快，从而产生更多的热蒸汽并在基底表面冷凝形成冷凝液滴，使得冷凝液滴的生长速率较快。当激光功率为 $2 5 0 ~ \mathrm { m W }$ 时，主液滴初始三相接触线处最大的冷凝液滴的接触半径在约170s时达到最大值 $3 8 7 \mu \mathrm { m }$ 。而当激光功率为 $\mathrm { 1 5 0 ~ m W }$ 时，在相同的时间最大冷凝液滴的接触半径只升高到 $2 4 9 \ \mu \mathrm { m }$ 0
+
+![](images/334a2911842fe84c8bd287fd83dc16885e559138521c77a9321ed735bd1828fe.jpg)  
+图4 (a)不同激光功率下冷凝液滴接触半径随时间的变化；(b)激光功率对最大冷凝液滴接触半径的影响
+
+虽然不同激光功率下冷凝液滴的生长速率呈现出不同趋势，但是主液滴蒸发结束时最终形成的最大冷凝液滴接触半径却相差不大并呈现出先增加后减少的趋势。这是由于冷凝液滴的生长不仅与主液滴的蒸发强度有关，还与其生长的时间密切相关。较高的激光功率虽然使得冷凝液滴在前期获得了较快的生长速率，但此时主液滴的蒸发过程及冷凝液滴的生长过程都相应缩短。当高激光功率下冷凝液滴几乎停止生长时，低激光功率下冷凝液滴仍然处于不断接受冷凝蒸汽而生长的状态。较低的激光功率加重了主液滴及冷凝液滴自身自然蒸发的影响，减弱了局部加热效果下冷凝液滴的形成。较高的激光功率则使得大量热蒸汽扩散至周围环境中。
+
+# 2.3主液滴初始体积对冷凝液滴演化特性的影响
+
+冷凝液滴来源于主液滴的快速相变过程，主液滴对激光的吸收及相变规律与冷凝液滴的生长及演化紧密相关。图5所示为不同主液滴初始体积下单个冷凝液滴的接触半径随蒸发过程的变化。激光功率设为 $2 5 0 \mathrm { m W }$ 。当主液滴体积较小时，冷凝液滴的生长速率较快。这是由于液滴的质量随着特征尺寸的三次方递减，而主液滴吸收的热量则与液滴特征尺寸即吸收长度呈线性关系。当主液滴的初始体积较小时，光热效应导致的蒸发过程快速启动，热蒸汽快速冷凝在基底表面形成冷凝液滴。当主液滴初始体积为 $2 ~ \mu \mathrm { L }$ 时，初始三相接触线处最大的冷凝液滴的接触半径在约70s时达到最大值 $2 4 9 ~ { \mu \mathrm { m } }$ 。而当主液滴初始体积为 $6 ~ { \mu \mathrm { L } }$ 时，在相同的时间内相应冷凝液滴的接触半径只升高到 $1 2 1 ~ { \mu \mathrm { m } }$ 。然而，通过之前的研究及分析可知，冷凝液滴的生长与其生长过程的持续时间密切相关。主液滴初始体积的减小意味着主液滴的蒸发过程和冷凝液滴的生长过程的缩短。所以当主液滴初始体积较小时，最终的最大冷凝液滴的接触半径相对较小。比较不同主液滴初始体积下最终形成的最大冷凝液滴的接触半径可以看出，随着主液滴初始体积的增加，最大冷凝液滴的尺寸先增大然后趋于平稳。通过之前的分析可知，冷凝液滴在生长过程中的增大也依赖于冷凝液滴之间的聚并。聚并后的冷凝液滴与周围其他冷凝液滴之间的距离增加，阻碍了冷凝液滴的进一步聚并，导致其在演化过程中的尺寸受到限制，使得冷凝液滴的尺寸随着主液滴体积增加的趋势趋于平缓。
+
+![](images/4587c76a9428a3515588bd240eb39972b58ce5e18f3d557cd246e0b5b47b2d58.jpg)  
+Fig.4 (a) The variation of the contact radius of a typical condensed droplet with laser power;(b） Maximal contact radius of condensed droplets under different laser powers   
+图5(a）不同主液滴初始体积下冷凝液滴接触半径随时间的变 化；(b）主液滴初始体积对最大冷凝液滴接触半径的影响 Fig.5 (a) The variation of contact radius of a typical condensed droplet with water droplet volume;(b）Maximal contact radius of condensed droplets under different water droplet volumes
+
+# 2.4激光位置对冷凝液滴演化特性的影响
+
+实验研究了当聚焦激光为非界面中心位置加热时冷凝液滴的分布规律和生成及演化特性。激光功率为 $2 5 0 ~ \mathrm { \ m W }$ ，主液滴初始体积为 $6 ~ { \mu \mathrm { L } }$ ，加热位置为主液滴接触半径的中心位置。光热效应致蒸发
+
+![](images/2e5dd9722441f1d8d1f86c9f29e498fdb27710b5a6883c73b9e2dff3e2d2f8b9.jpg)  
+图6(a）激光加热位置偏离中心时蒸发过程中主液滴表面温度的变化；(b）主液滴及冷凝液滴的可视化图像
+
+Fig.6 The variation of interface temperature of water droplet; (b)The top views of the water droplet and the condensed droplets in the case of the non-center laser spot position
+
+过程中主液滴表面温度场的变化和冷凝液滴的生长及化演化过程如图6所示。可以看出，相比较中心加热的情况，激光加热位置偏离液滴中心会使主液滴周围的温度分布呈现出明显的不均匀性。然而冷凝液滴的分布在主液滴周围依然是相对均匀的。这是由于虽然存在着温度不均匀性和相应的蒸发不均匀性，但是激光加热侧基底表面温度的升高减弱了热蒸汽在其上部的过饱和度，相应减弱了热蒸汽的冷凝效果。同时由于液滴的内部流动，整个液滴表面的温度不均匀性受到限制，可以看出主液滴表面温度均升高到较高的值，因此冷凝液滴的整体分布依然是均匀的。观察初始三相接触线处最大冷凝液滴的生长趋势也可以看出，激光加热点位置偏离中心位置对液滴的生长趋势影响较小。图7所示为不同激光加热位置下单个冷凝液滴接触半径随时间的变化与中心加热时相应冷凝液滴变化情况的对比。
+
+![](images/0dc908d1ae98aeefa03fee493946ff03b56f6fc87c6cc42ac041901ddb12ccb8.jpg)  
+图7（a）不同激光加热位置下冷凝液滴接触半径随时间的变化; (b)激光加热位置对最大冷凝液滴接触半径的影响 Fig.7 (a) The variation of contact radius of a typical condensed droplet with laser position；(b）Maximal contact radius of condensed droplets under different laser positions
+
+# 3结论
+
+本文通过对光热效应局部加热作用下冷凝液滴生长及演化特性的研究，主要得出以下结论：冷凝液滴随着蒸汽的冷凝而不断生长，冷凝液滴的聚并现象使冷凝液滴瞬间增大；冷凝液滴的演化特性与主液滴的蒸发过程紧密相关，冷凝液滴的演化过程受到液滴蒸发强度和冷凝持续时间等因素的影响，两者的综合作用决定了冷凝液滴的生长规律；当激光加热偏离液滴中心位置时，液滴周围的温度场会有不均匀性温度分布，但由于基底温度和蒸汽过热度等的综合作用，冷凝液滴仍然较为均匀地分布在主液滴周围。
+
+# 参考文献
+
+[1]TarasevichYY,PravoslavnovaDM.Segregationindesiccated sessile dropsof biological fluids [J].European Physical Journal E,2007,22(4): 311-314   
+[2]Bhardwaj R,Fang X，Somasundaran P,et al. SelfAssemblyof Colloidal Particlesfrom Evaporating Droplets:Role of DLVO Interactions and Proposition of a Phase Diagram [J].Langmuir the Acs Journal of Surfaces & Colloids,2010,26(11):7833-7842   
+[3]Wong T S,Chen TH,ShenX,et al.Nanochromatography driven by the coffee ring effect [J].Analytical Chemistry, 2011,83(6):1871-1873   
+[4] Swartz JD,Gulka CP,Haselton FR,et al. Development of a Histidine-Targeted Spectrophotometric Sensor Using Ni(II)NTA-Functionalized Au and $\mathrm { A g }$ Nanoparticles [J]. Langmuir,2011,27(24):15330-15339   
+[5]Kobayashi J,Mori Y,Okamoto K,et al.A microfluidic device for conducting gas-liquid-solid hydrogenation reactions.[J].Science,2004,304(5675):1305-1308   
+[6]Hu H,Larson R G.Marangoni effect reverses coffee-ring depositions.[J].Journal of Physical Chemistry B,2006, 110(14): 7090-7094   
+[7]Gatapova EY,Semenov A A,Zaitsev DV,et al.Evaporation of a sessile water drop on a heated surface with controlled wettability[J].Colloids& Surfaces A Physicochemical & Engineering Aspects,2014,441(3):776-785   
+[8] Harris DJ,Hu H,Conrad JC,et al. Patterning colloidal films via evaporative lithography.[J].Physical Review Letters,2007,98(14): 1483011-1483014   
+[9] Liu G L,Kim J,Lu Y,et al.Optofluidic control using photothermal nanoparticles.[J].Nature Materials,2006, 5(1): 27-32   
+10]Wang C Y,Chang S C,Huang K S,et al.The Application of Optical Technology in Microfluidic Systems [J]. Current Proteomics,2014,11(2): 80-85   
+11] Jiao Long,Chen Rong,Zhu Xun,et al.IR laser caused droplet evaporation on the hydrophobic surface [J].International Journal of Heat & Mass Transfer,2O16,94: 180-190

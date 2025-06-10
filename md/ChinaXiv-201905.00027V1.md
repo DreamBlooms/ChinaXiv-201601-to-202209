@@ -1,0 +1,312 @@
+# 平衡装载约束下的车辆路径问题研究
+
+雷定猷，宋文杰，张英贵(中南大学 交通运输工程学院，长沙 410075)
+
+摘要：针对车辆三维装载约束下的车辆路径问题(3L-VRP)进行研究，引进车辆的平衡装载约束，综合考虑传统的先进后出、局部支撑、脆弱性等约束，构建平衡装载约束下的车辆路径问题(BL-VRP)模型。针对模型中的平衡约束，提出一种接触面积的装载算法。在此基础上，构建以回溯遗传算法(B-GA)为骨架的多阶段算法框架，对车辆路径优化进行求解。研究结果表明，多阶段算法不仅在解决3L-VRP上好于目前已有算法，同时对BL-VRP表现优秀。提出的多阶段算法为解决BL-VRP问题提供一条参考思路，但在时效性上需要进一步完善。
+
+关键词：物流工程；平衡装载；车辆路径优化；回溯遗传算法；多阶段算法 中图分类号：TP399 doi: 10.19734/j.issn.1001-3695.2018.12.0878
+
+Research on vehicle routing problem under balance loading constrain
+
+Lei Dingyou†, Song Wenjie, Zhang Yinggui (Schoolof Trafic&Transportation Engineering,Central South University,Changsha 41oo75,China)
+
+Abstract: This paper took vehicle routing problem (3L-VRP)with three-dimensional loading constraintsas theresearch object,introducingequilibrium loadingconstraintof thevehicle,consideringthe traditionaladvanced backwards,local support，and fragility constraints，constructing thevehiclerouting problem(BL-VRP）model with balanced loading constraints.Considering the equilibrium constraints inthe model,it proposed aloadingalgorithmofcontact area.On this basis,the method used a multi-stage algorithm framework based on Backtracking Genetic Algorithms (B-GA)to solve vehiclerouting optimization.The research results showed that the multi-stage algorithm was not only beter than the existing algorithms insolving3L-VRP,but alsoefective forBL-VRP.Although multi-stage algorithmprovidingareference idea for solving the BL-VRP problem, it needs further improvement in timeliness.
+
+Key words:logisticsengineering；balancedloading；vehiclerouting optimization；backtracking genetic algorithms: multi-stage algorithms
+
+# 0 引言
+
+平衡装载约束下的车辆路径问题(BL-VRP)是三维装载约束下车辆路径问题(3L-VRP)的一个重要扩展。Gendreau 等人[1于2006年首次提出3L-VRP，在研究物流的配送中不仅仅只优化车辆路径的以及配送的需求，同时考虑货物的长宽高、装载特性以及“先进后出”原则。BL-VRP在3L-VRP的基础上，进一步研究货物的重量、重心对车辆装载稳定性的影响。BL-VRP问题在现实生活中普遍存在，比如家用电器、家具以及建筑材料的运输，由于货物的重量较大，不平衡的装载布局将严重威胁车辆行驶的安全。
+
+目前国内外的研究结果大致分为两个方面，一方面对3L-VRP的扩展问题进行研究，其中包括时间窗问题[2\~4]、车辆回程问题[5]、同时取送货问题[6\~8]等；另一方面的对基础3L-VRP不同的求解算法进行研究，有精确算法[9]、启发式算法[10-11]与智能优化算法。由于3L-VRP 问题由两个NP-难问题组成，解决难度较大，求解算法一般是启发式算法与智能算法结合。其中禁忌算法[1,12,13]占主要地位，同时有模糊遗传算法[14]、蚁群算法[15]等。现有研究以货物尺寸为基础，对车辆路径问题上进行扩展，较少涉及货物的重量、重心的影响，无法使货物安全有效地配送。针对此问题，本文提出BL-VRP模型，设计多阶段算法，构建了路径优化策略、货物装载顺序生成策略以及单车货物装载策略三个阶段，从而有效地解决该问题。
+
+# 1 BL-VRP的描述及模型的建立
+
+# 1.1问题描述
+
+BL-VRP问题可以描述为：给定配送网络 $G ( V , E )$ ，其中：$V = \{ 0 , 1 , 2 , . . . , n \}$ 是 $^ { n + 1 }$ 个顾客； $E$ 是连接顾客的路径。0是配送中心； $\{ 1 , 2 , . . . , n \}$ 是 $n$ 个顾客。 $C _ { i j } ( i , j = 0 , 1 , . . . , n )$ 代表顾客 $i$ 到 $j$ 的路程值。有一组配送货车，车厢的尺寸分别为 $\boldsymbol { L }$ 、 $W$ 、 $H$ ，额定载重 $D$ ，空载重量 $D _ { 0 }$ 。单个顾客 $i$ 的货物总数 $m _ { i }$ ，第 $k$ 个货物 $I _ { i k }$ 的长 $l i k$ 、宽W、高 $h _ { i k }$ 、体积 $\nu _ { i k } = l _ { i k } \times w _ { i k } \times h _ { i k }$ 、重量 $d _ { i k }$ 、底面积 $a _ { i k } = l _ { i k } \times w _ { i k }$ 、易碎性 $f _ { i k }$ 。顾客 $i$ 的货物总体积 $\nu o l i$ ，总重量weii。
+
+把车厢放入坐标系，车厢的长、宽、高平行于 $\boldsymbol { \cdot } , \boldsymbol { y }$ 、轴。货物 $I _ { i k }$ 在最后最左最下的顶点坐标为 $( x _ { i k } , y _ { i k } , z _ { i k } )$ ，重心在货物几何中心。
+
+BL-VRP约束分为车辆路径约束与装载约束两个部分：
+
+a)车辆路径约束。具体如下：
+
+(R1)货车在配送中心完成装载，对所有顾客送货后回到起点。
+
+(R2)每个顾各只田一辆货牛达货。(R3)路径上顾客货物总重量、总体积必须小于货车的载重以及车厢容积。(R4)每条路径的装载方案必须可行。b)三维装载约束。具体如下：(C1)货物不能重叠，不能位于车厢外。(C2)货物摆放时，三边平行于车厢。(C3)货物垂直向上，可在水平面旋转。假定货物原始长、宽、高分别为liko、Wiko、hiko。(C4)先进后出约束：卸载时，需要卸载的货物不能被之后卸载的货物阻挡。(C5)货物摆放时，货物的底部需要一定的支撑面维持稳定。支撑面由车厢底部或其他货物的顶部构成。支撑面要达到货物底面的一个比例。(C6)易碎货物上面只能摆放易碎货物，非易碎货物无限制。(C7)平衡约束：平衡分为纵向平衡与横向平衡。纵向平衡为轴重约束；横向平衡研究较少，本文采用铁路的标准，货车的重心横向偏移中线面不能超过 $0 . 1 \mathrm { ~ m ~ }$ 。
+
+由于BL-VRP的约束较多，满足上述约束的路径解，需要得到相应的货物装载布局方案，从而确定车辆的稳定性，同时使配送行驶的总路程值最小。
+
+# 1.2模型的构建
+
+由于模型中使用的符号较多，本文将以表1形式给出。
+
+表1模型参数的描述  
+Table 1Description of model parameters  
+
+<html><body><table><tr><td>符号</td><td>意义</td><td>符号</td><td>意义</td></tr><tr><td>n</td><td>总顾客数</td><td>K</td><td>使用车辆数</td></tr><tr><td>L</td><td>车厢长度(m)</td><td>W</td><td>车厢宽度(m)</td></tr><tr><td>H</td><td>车厢高度(m)</td><td>D</td><td>额定载重(t)</td></tr><tr><td>Do</td><td>空载重量(t)</td><td>Cij</td><td>顾客i到j路程值</td></tr><tr><td>mi</td><td>顾客i的货物总数</td><td>Iik</td><td>顾客i的第k个货物</td></tr><tr><td>lik</td><td>货物Iik的长(m)</td><td>Wik</td><td>货物Iik的宽(m)</td></tr><tr><td>hik</td><td>货物Iik的高(m)</td><td>Vik</td><td>货物Iik的体积(m)</td></tr><tr><td>dik</td><td>货物Iik的重量(t)</td><td>aik</td><td>货物Iik的底面积(m²)</td></tr><tr><td>fik</td><td>货物Iik的脆弱性</td><td>voli</td><td>顾客i货物总体积</td></tr><tr><td>weii</td><td>顾客i货物总重量</td><td>(xik,Vik,Zik)</td><td>货物Iik的左下角</td></tr><tr><td>Nr</td><td>货车r服务顾客数</td><td>Xrj</td><td>货车r的第j顾客</td></tr></table></body></html>
+
+根据以上约束，以货车行驶的总路程值最小为优化目标，构建BL-VRP数学模型下：
+
+$$
+\displaystyle \operatorname* { m i n } { f } = \sum _ { r = 1 } ^ { K } ( C _ { 0 X r 1 } + \sum _ { j = 2 } ^ { N _ { r } - 1 } C _ { X r j X r ( j + 1 ) } + C _ { X r N r 0 } )
+$$
+
+$$
+X _ { r j } \neq X _ { r k } ( r \in [ 1 , K ] j , k \in [ 1 , N _ { r } ] , j \neq k )
+$$
+
+$$
+X _ { i u } \neq X _ { j v } ( i , j \in [ 1 , K ] , i \neq j u \in [ 1 , N _ { i } ] \nu \in [ 1 , N _ { j } ] )
+$$
+
+$$
+N r \geq 1 ( r \in [ 1 , K ] )
+$$
+
+$$
+\begin{array} { r } { \sum _ { r = 1 } ^ { K } N _ { r } = n } \end{array}
+$$
+
+$$
+\nu o l i = \sum _ { k = 1 } ^ { m i } \nu _ { i k } ( i \in [ 1 , n ] )
+$$
+
+$$
+{ \textstyle \sum } _ { j = 1 } ^ { N _ { r } } \nu o l _ { X _ { j } } \le L \times W \times H ( r \in [ 1 , K ] )
+$$
+
+$$
+w e i _ { i } = \sum _ { k = 1 } ^ { m } d _ { i k } ( i \in [ 1 , n ] )
+$$
+
+$$
+{ \textstyle \sum _ { j = 1 } ^ { N _ { r } } } w e i x _ { \scriptscriptstyle j } \le D ( r \in [ 1 , K ] )
+$$
+
+$$
+x _ { i k } + l _ { i k } \leq x _ { i k } \cdot \cup z _ { i k } + h _ { i k } \leq z _ { j k } \cdot \cup y _ { i k } + w _ { i k } \leq y _ { j k } ,
+$$
+
+$i , j \in [ 1 , n ] k \in [ 1 , m _ { i } ] k ^ { \prime } \in [ 1 , m _ { j } ] I _ { i k }$ 先于 $I _ { j k } \cdot$ 放置式(10)
+
+$$
+x _ { i k } + l _ { i k } \le L \cap z _ { i k } + h _ { i k } \le H \cap y _ { i k } + w _ { i k } \le W
+$$
+
+$$
+i \in [ 1 , N _ { r } ] \ k \in [ 1 , m _ { i } ] \ r \in [ 1 , K ]
+$$
+
+$$
+( l _ { i k } , w _ { i k } , h _ { i k } ) = ( l _ { i k 0 } , w _ { i k 0 } , h _ { i k 0 } ) \cup ( w _ { i k 0 } , l _ { i k 0 } , h _ { i k 0 } )
+$$
+
+$$
+i \in [ 1 , n ] ~ k \in [ 1 , m _ { i } ]
+$$
+
+$$
+x _ { i k } + l _ { i k } \leq x _ { j k } \cdot \cup z _ { i k } + h _ { i k } \leq z _ { j k } \cdot \cup y _ { i k } + w _ { i k } \leq y _ { j k } ,
+$$
+
+$i , j \in [ 1 , n ] k \in [ 1 , m _ { i } ] k ^ { \prime } \in [ 1 , m _ { j } ]$ 顾客j先于i服务
+
+$$
+\sum ( \operatorname* { m a x } x - \operatorname* { m i n } x ) ( \operatorname* { m a x } y - \operatorname* { m i n } y ) \geq \theta a _ { i k }
+$$
+
+$$
+\begin{array} { r } { \textbf { X } x = \operatorname* { m a x } ( x _ { j k } , \chi _ { i k } ) \operatorname* { m i n } x = \operatorname* { m i n } ( x _ { j k } , \chi _ { i k } ) ) } \end{array}
+$$
+
+$$
+\operatorname* { n a x } \ y = \operatorname* { m a x } ( y _ { j k } ; y _ { i k } ) \ \operatorname* { m i n } \ y = \operatorname* { m i n } ( y _ { j k } ; y _ { i k } ) )
+$$
+
+$( i , j \in [ 1 , N _ { r } ] ~ r \in [ 1 , K ] ~ k ^ { \prime } \in [ 1 , m _ { j } ] ~ k \in [ 1 , m _ { i } ] ~ I _ { i k }$ 处于 $I _ { j k } \cdot$ 上方）(14
+
+$$
+f _ { i k } \neq 1 \cup f _ { i k } = 0 , f _ { j k } \cdot = 0
+$$
+
+$( i , j \in [ 1 , N _ { r } ] r \in [ 1 , K ] k ^ { \prime } \in [ 1 , m _ { j } ] k \in [ 1 , m _ { i } ] I _ { j k } ,$ 处于 $I _ { i k }$ 正上方)(15)
+
+$$
+\begin{array} { l } { { \sum _ { i = 1 } ^ { N _ { r } } \sum _ { k = 1 } ^ { m _ { i } } d _ { i k } \times ( x _ { i k } + \overset { l _ { i k } } { \underset {  } { \prime } } \int _ { 2 } ) \geq } } \\ { { L \times \sum _ { i = 1 } ^ { N _ { r } } \sum _ { k = 1 } ^ { m _ { i } } d _ { i k } - \overline { { { N _ { 1 } } } } \times L ( r \in [ 1 , K ] ) } } \end{array}
+$$
+
+$$
+\textstyle \sum _ { i = 1 } ^ { N _ { r } } \sum _ { k = 1 } ^ { m _ { i } } d _ { i k } \times ( x _ { i k } + { l _ { i k } } { \binom { _ { } } { 2 } } \leq { \overline { { N _ { 2 } } } } \times L ( r \in [ 1 , K ] )
+$$
+
+$$
+\left| \frac { \sum _ { i = 1 } ^ { N } \sum _ { k = 1 } ^ { m } d _ { i k } \times ( y _ { i k } + { W _ { i k } } ^ { \prime } { } _ { 2 } ) + D _ { 0 } \times { W _ { / } } ^ { \prime } } { \sum _ { i = 1 } ^ { N _ { r } } \sum _ { k = 1 } ^ { m } d _ { i k } + D _ { 0 } } - \frac { W } { 2 } \right| \le 0 . 1
+$$
+
+$$
+( N \in [ 1 , N _ { r } ] )
+$$
+
+目标函数式(1)求总路程的最小值；式(2)\~(4)确保每辆货车至少对一个顾客送货，每个顾客只送货一次；式(5)表明货车服务的顾客总数等于总顾客数；式(6)\~(9)确保顾客货物的总质量与总体积小于货车限制；式(10)(11)阐述货物之间不能重叠，不超过车厢范围；式(12)表明货物可在水平面 $9 0 ^ { \circ }$ 旋转；式(13)保证满足先进后出原则；式(14)表示稳定性约束，选择支撑比例 $\theta$ 为0.75；式(15)描述货物易碎性约束；式(16)(17)为轴重约束；式(18)表示货车的重心在装载时，偏移中线面的值不超过 $0 . 1 \mathrm { ~ m ~ }$ 。
+
+# 2 BL-VRP问题的多阶段求解算法框架
+
+针对BL-VRP问题，本文提出多阶段优化算法。算法的基本结构如图1所示。该算法由路径优化决策、货物装载顺序生成决策、单车货物装载决策三个阶段组成。
+
+![](images/80ad073e45a1beac7f1f9320b782049bd02ed01c5a0e075eeb57e3d8f093b9e7.jpg)  
+图1多阶段算法结构  
+Fig.1 Structural of multi-stage algorithms
+
+# 2.1路径优化决策
+
+随机生成的初始解作为回溯遗传(B-GA)算法的输入，通过单车的载重和体积约束，分配每辆货车需要服务的顾客，形成多个小规模TSP问题；然后通过回溯法遍历，求得单车最佳行驶路径以及路程值。
+
+本文中采用的遗传框架与思想可见文献[16]，其中对适应度的计算进行说明。本文以货车行驶的路程值为适应度，每辆货车的路程用回溯算法计算。得到每辆货车服务的顾客后，回溯算法寻找该货车的最佳行驶路径以及路程值。回溯法是一种深度搜索法，按照优化目标进行深层搜索。当搜寻到某一步时，发现当前的选择并不优或达不到三维装载检测要求，退一步重新选择。具体的算法思想与流程参见文献[17]
+
+# 2.2货物装载顺序生成决策
+
+得到货车行驶路径后，通过贪心算法，改变顾客货物的内部顺序，形成不同的货物装载序列，调用装载算法。如果能全部装载，则为合法路径，否则路径非法。
+
+# 算法1贪心算法
+
+a）输入货物原始的装载序列 $\textit { I }$ ，迭代次数iter $\ c =$ 货物个数，noImproved $= 0$ ， $i = 1$ ，totalVolume是货物总体积；
+
+b）调用算法2，得装载体积packVolume。若packVolume $\ l =$ totalVolume，输出装载成功，否则进入步骤c)。
+
+c）每个顾客货物按体积从大到小排列，形成新的序列 $I ^ { \prime }$ 。调用算法2，新的装载体积packVolume'。
+
+d)若 packedVolume $>$ packedVolume 则packedVolume $\mathbf { \bar { \rho } } = \mathbf { \bar { \rho } }$ packedVolume’，序列 $I$ 由 $I ^ { \prime }$ 代替。若packedVolume $\ l =$ totalVolume，输出装载成功，否则进入步骤e)。
+
+e)改变顾客货物的内部顺序产生新的序列 $I ^ { \prime }$ 。再次调用算法2，得装载体积packedVolume'。
+
+f)若 packedVolume $>$ packedVolume 则packedVolume $\mathbf { \bar { \rho } } = \mathbf { \bar { \rho } }$ packedVolume', $I$ 由 $I ^ { \prime }$ 代替，重置nolmproved $= 0$ 。若packedVolume $\mathbf { \bar { \rho } } = \mathbf { \bar { \rho } }$ totalVolume，输出装载成功，否则noImproved $\ c =$ noImproved $+ 1$ 。
+
+g）返回e)，直到nolmproved $\begin{array} { r } { | = i t e r + 1 | } \end{array}$ 。
+
+h) $\scriptstyle i = i + 1$ ，重复上步骤 ${ \mathsf { b } } ) { \sim } { \mathsf { g } } ,$ ，直到 $i = 5$ 。若未输出装载成功，则输出装载失败。
+
+# 2.3单车货物装载决策
+
+剩余空间指货物装载后剩余的未使用空间，列表$S = \{ s 1 , s 2 , . . . , s n \}$ 表示。本文采用最大空间法来表示剩余空间，如图2所示。
+
+![](images/48113323ba10c370eb1232e49a6097df91cb0ad820845c071b00d0edad21ef4a.jpg)  
+图2最大空间的产生  
+Fig.2Generation of maximum space
+
+最大空间指由货物表面或车厢壁与车厢门之间形成的最大矩形空间。需要注意的是，其中的一个面必须是车厢门。更新列表S时，列表按照空间坐标的 $y$ 最小、 $x$ 最小、最
+
+小依次排列。
+
+# 1)接触面积定义
+
+由于货物可在水平面 $9 0 ^ { \circ }$ 转动，货物有两种摆放方法。为了得到更优的摆放方式，本文采用货物与空间的适应度$C S ( b , s )$ 确定待装货物的方向以及相应的装载空间。 $C S ( b , s )$ 表示货物 $b$ 放入空间 $s$ 后，与周围货物或者车厢接触面积和。$C S ( b , s )$ 值越大，货物与空间的适应度越高，最高适应度的空间选为装载空间。如果货物 $I _ { i k }$ 不能放入空间 $s _ { i }$ 或者摆放后支撑底面积 $a _ { i } < \theta a _ { i k } ( \theta = 0 . 7 5 )$ ，适应度为 $- \infty$ 。
+
+# 2)车辆平衡约束
+
+本文对车辆平衡约束分为纵向轴重约束与横向重心偏移约束。
+
+a)纵向轴重约束。
+
+根据车厢纵向受力，建立坐标系，如图3所示。
+
+![](images/f4f57752cb4ce79f2362123493e079ece7dc5678acb7d9fe9ae77d475f4f7cf7.jpg)  
+图3纵向重心边界条件分析  
+Fig.3Boundary conditions analysis of longitudinal center of gravity
+
+$\textcircled{1}$ 合重心位置在 $( 0 , X _ { c } )$ 时，由力矩平衡 $\overline { { N } } _ { 1 } \times L = Q \times ( L - X _ { 1 } )$ ，$\overline { { N _ { 1 } } } = \frac { Q \times ( L - X _ { 1 } ) } { L }$
+
+$\textcircled{2}$ 合重心位置在 $( X _ { \mathit { c } } , L )$ 时，由力矩平衡 $\overline { { N _ { 2 } } } \times L = Q \times X _ { 2 }$ ，则$\overline { { N _ { 2 } } } = \frac { Q \times X _ { 2 } } { L } \ \circ$
+
+$\textcircled{3}$ 合重心位置在点 $X _ { c }$ 时，装载最大重量 $\mathscr { Q } = \overline { { N _ { 1 } } } + \overline { { N _ { 2 } } }$ ，则$X _ { c } = \frac { \overline { { { N _ { 2 } } } } \times L } { \overline { { { N 1 } } } + \overline { { { N _ { 2 } } } } } \textmd { o }$
+
+b)横向重心偏移约束。
+
+横向重心偏移相对于纵向轴重约束较为简单，根据横向受力得到货车合重心的横向坐标∑+，其即可
+
+3)接触面积算法
+
+以算法1产生的货物序列作为输入，输出可装载的货物总体积。具体流程见算法2。
+
+算法2接触面积算法a)输入货物装载序列。
+
+b)车厢的体积 $V _ { m a x } = L \times W \times H$ ，初始列表 $S = \{ V _ { m a x } \}$ 。
+
+c)路径 $\boldsymbol { r }$ 的顾客 $i = 1$ ，顾客 $i$ 的货物 $k = 1$ 。
+
+d)遍历列表 $s$ ，计算货物两个方向的适应度 $C S ( b , s )$ 。若$C S ( b , s ) \neq - \infty$ ，则按较大的适应度值对应的货物方向放入相应装载空间最后最左最下的角落，更新空间列表
+
+$S = \left\{ s _ { j 1 } , s _ { j 2 } , s _ { j 3 } , . . . \right\}$ ；若 $\mathit { C S } ( b , s ) \mathbf { = } \mathbf { - } \infty$ ，卸载已装的顾客 $i$ 的货物，转步骤 $\mathbf { h }$ ）
+
+e)对列表 $s$ 排序， $k = k + 1$ ；重复步骤d)，直到 $k = m + 1$ 。f)对顾客 $i$ 的货物进行平衡约束检测，检测通过，转步骤g)，否则转步骤h)。g) $i = i + 1$ ，重复步骤 $\mathrm { d } ) { \sim } \mathrm { f } )$ ，直到 $i = N _ { r } + 1$ 。h)输出已装载的货物总体积 $V$ 。
+
+# 3 实验数据及分析
+
+由于目前没有BL-VRP问题的相关算例，本文采用3L-VRP的标准算例以及物流配送实例进行两次实验。程序以Java语言进行开发，基于InteliJIDEA平台运行。遗传算法的最大迭代次数分别采用500、800、1000、1500，种群规模采用30、50、80、100对3L-VRP标准算例进行运算，运算时交叉概率分别选取0.7、0.8、0.9，变异概率选取0.05、0.08、0.1。通过多次实验，最大迭代次数1000、种群规模50、交叉概率0.8、变异概率0.05的结果最好。故实验中各个参数设置为相应的值。
+
+# 3.1L-VRP标准算例实验
+
+使用多阶段算法对27个3L-VRP的标准算例进行10次实验，实验的平均结果与目前的已有的VRLH1[I2]算法和TS-ILA[13]算法进行对比，如表2所示。表中 $d \nu$ 表示多阶段算法与其他两个算法最好结果的偏差。
+
+Table 2Experimental results of 3L-VRP standard example   
+
+<html><body><table><tr><td>算例名称</td><td>VRLH1</td><td>TS-ILA</td><td>多阶段算法</td><td>dv/%</td></tr><tr><td>E016-03m</td><td>302.02</td><td>302.02</td><td>302.02</td><td>0.00</td></tr><tr><td>E016-05m</td><td>334.96</td><td>334.96</td><td>334.96</td><td>0.00</td></tr><tr><td>E021-04m</td><td>401.44</td><td>381.37</td><td>386.34</td><td>1.30</td></tr><tr><td>E021-06m</td><td>437.54</td><td>437.19</td><td>437.19</td><td>0.00</td></tr><tr><td>E022-04g</td><td>451.03</td><td>436.79</td><td>447.58</td><td>2.47</td></tr><tr><td>E022-06m</td><td>498.38</td><td>498.32</td><td>501.06</td><td>0.55</td></tr><tr><td>E023-03g</td><td>772.49</td><td>768.94</td><td>771.02</td><td>0.27</td></tr><tr><td>E023-05s</td><td>821.35</td><td>805.77</td><td>808.55</td><td>0.35</td></tr><tr><td>E026-08m</td><td>645.81</td><td>631.68</td><td>630.13</td><td>-0.25</td></tr><tr><td>E030-03g</td><td>827.29</td><td>828.99</td><td>827.29</td><td>0.00</td></tr><tr><td>E030-04s</td><td>815.62</td><td>780.61</td><td>778.05</td><td>-0.33</td></tr><tr><td>E031-09h</td><td>630.46</td><td>614.6</td><td>610.23</td><td>-0.71</td></tr><tr><td>E033-03n</td><td>2694.81</td><td>2636.85</td><td>2656.72</td><td>0.75</td></tr><tr><td>E033-04g</td><td>1413.59</td><td>1398.77</td><td>1398.77</td><td>0.00</td></tr><tr><td>E033-05s</td><td>1355.5</td><td>1352.76</td><td>1351.38</td><td>-0.10</td></tr><tr><td>E036-11h</td><td>705.05</td><td>698.92</td><td>698.61</td><td>-0.04</td></tr><tr><td>E041-14h</td><td>917.96</td><td>866.4</td><td>866.4</td><td>0.00</td></tr><tr><td>E045-04h</td><td>1228.98</td><td>1228.47</td><td>1228.47</td><td>0.00</td></tr><tr><td>E051-05e</td><td>753.87</td><td>763.09</td><td>750.17</td><td>-1.69</td></tr><tr><td>E072-04f</td><td>596.42</td><td>590.99</td><td>579.5</td><td>-1.94</td></tr><tr><td>E076-07s</td><td>1107</td><td>1096.53</td><td>1086.26</td><td>-0.94</td></tr><tr><td>E076-08s</td><td>1171.49</td><td>1155.81</td><td>1155.81</td><td>0.00</td></tr><tr><td>E076-10e</td><td>1135.46</td><td>1130.08</td><td>1117.77</td><td>-1.09</td></tr><tr><td>E076-14s</td><td>1128.82</td><td>1122.8</td><td>1116.34</td><td>-0.58</td></tr><tr><td>E101-08e</td><td>1428.8</td><td>1417.09</td><td>1391.74</td><td>-1.79</td></tr><tr><td>E101-10c</td><td>1625.31</td><td>1605.11</td><td>1584.44</td><td>-1.29</td></tr><tr><td>E101-14s</td><td>1550.85</td><td>1538.1</td><td>1512.92</td><td>-1.64</td></tr><tr><td>Avg</td><td>953.79</td><td>941.59</td><td>938.14</td><td>-0.37</td></tr></table></body></html>
+
+由表2可知，与VRLH1算法对比，每个案例多阶段算法得到的结果都不差于VRLH1算法；与TS-ILA算法结果对比，在顾客数目少于50时，多阶段算法稍逊于TS-ILA算法。但是随着顾客数目的增加，多阶段的算法结果要好于TS-ILA，算法优越性得以体现。从整体上来看，多阶段算法的运行平均结果要好于其他两种算法，说明本文提出的多阶段算法在解决3L-VRP时有着显著的效果。
+
+# 3.2 BL-VRP物流配送实例
+
+由于缺少BL-VRP的标准算例，本文对长沙市某地域配送中心一次送货任务进行分析，并进行多次运算取最好值，同时与广泛使用的禁忌搜索算法进行比较。该任务有15个顾客，顾客位置信息如图4所示。顾客之间以及顾客与配送中心之间的距离以实际的最短路程为准，具体信息见表3(单位：km)。顾客的货物尺寸信息见表4，其中每个顾客货物种类(Var)不超过三种，每种货物的数量(Num)在1\~3间(长度单位： $\mathrm { ~ m ~ }$ 重量单位：t。）
+
+表23L-VRP标准算例实验结果  
+表3路程数据信息  
+表4货物尺寸信息  
+
+<html><body><table><tr><td>顾客</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14 15</td></tr><tr><td>0</td><td>0</td><td></td><td>11.4 12.1</td><td>8.9</td><td>12.5</td><td>17</td><td>18.1 17.9 17.5 19.1 22.1 23.3</td><td></td><td></td><td></td><td></td><td></td><td>21</td><td>24.3 35</td><td>37.6</td></tr><tr><td>1</td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>22.215.3 21.518.1 28.2 23.9 24.118.511.9 33.313.9 33.4 46.7 31.3</td><td></td></tr><tr><td>2</td><td></td><td></td><td>0</td><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20.1 24.7 10.4 10.7 24.131.531.1 15.6 29.6 23.8 21</td><td>50.1</td></tr><tr><td>3</td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>20.1 10.1 20.9 22.7 10.1 25.1 19.8 27.4 25.8 26.1 39.9 45.5</td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>29.533.5 8.8 27.910.337.428.818.233.522.8 27.4</td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>30.136.514.4 29.119.9 37 33.4 35 47.946.5</td><td></td></tr><tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>18.4 29.4 34.8 37.9</td><td></td><td></td><td></td><td>9</td><td></td><td>36.5 17.5 43.2 55.9</td><td></td></tr><tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>030.517.9 35 21.3 25.7 29.4 25.134.9</td><td></td></tr><tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td></td><td></td><td></td><td>34 27.3 34.4 38.4 39.7 47.7 51.4</td><td></td></tr><tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>027.7 37.8 15.1 41.9 23.4 21.3</td><td></td></tr><tr><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>044.2 16.6 43.3 55.4 26.3</td><td></td></tr><tr><td>11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>042.6 23.846.5 69.7</td><td></td></tr><tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>44.2 39.7 16.6</td><td></td></tr><tr><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td>62.4 67.5</td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>45.1</td></tr><tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td></tr></table></body></html>
+
+Table 3Route data information   
+Table 4 Size Information of Goods   
+
+<html><body><table><tr><td>顾客</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>Var</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Num</td><td>1</td><td>1</td><td>2</td><td>2</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>1</td><td>3</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1.3</td><td>1.6</td><td>1.6</td><td>2</td><td>1</td><td>2.1</td><td>2</td><td>1.4</td><td>1.6</td><td>1.5</td><td>1.5</td><td>1.7</td><td>1.1</td><td>1.6</td><td>1.8</td></tr><tr><td>W</td><td>1.2</td><td>1.5</td><td>1.1</td><td>0.9</td><td>0.9</td><td>1</td><td>1.5</td><td>1.2</td><td>1.2</td><td>1</td><td>1</td><td>1.3</td><td>1.1</td><td>0.9</td><td>1.4</td></tr><tr><td>h</td><td>2</td><td>1.8</td><td>1.6</td><td>1.4</td><td>1.4</td><td>1.4</td><td>1.6</td><td>1.2</td><td>1.8</td><td>1.5</td><td>1.2</td><td>1.4</td><td>1.6</td><td>1.5</td><td>1</td></tr><tr><td>f</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>wei</td><td>1</td><td>1.4</td><td>0.5</td><td>0.2</td><td>0.3</td><td>0.5</td><td>0.3</td><td>0.5</td><td>0.1</td><td>0.4</td><td>0.6</td><td>1.2</td><td>0.4</td><td>1</td><td>1.3</td></tr><tr><td>Var</td><td>2</td><td></td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>Num</td><td>1</td><td></td><td>1</td><td>1</td><td>2</td><td>1</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1.2</td><td></td><td>1.2</td><td>1.6</td><td>2</td><td>1.5</td><td>2.2</td><td>1.9</td><td>2</td><td>1.6</td><td>1.5</td><td>1.3</td><td>1.3</td><td>1.8</td><td>2.3</td></tr><tr><td>W</td><td>1</td><td></td><td>0.8</td><td>1.5</td><td>1.1</td><td>1.3</td><td>1.6</td><td>1.3</td><td>0.6</td><td>1</td><td>0.8</td><td>1</td><td>1.3</td><td>1.6</td><td>1.1</td></tr><tr><td>h</td><td>1.2</td><td></td><td>1.9</td><td>1.2</td><td>0.6</td><td>0.9</td><td>1</td><td>1.4</td><td>0.9</td><td>1.3</td><td>1.4</td><td>1.5</td><td>1.7</td><td>1</td><td>1</td></tr><tr><td>f</td><td>0</td><td></td><td>0</td><td>1</td><td>0.2</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>wei</td><td>0.8</td><td></td><td>0.8</td><td>0.2</td><td></td><td>0.6</td><td>0.4</td><td>0.8</td><td>0.2</td><td>0.6</td><td>0.4</td><td>0.8</td><td>0.3</td><td>1.5</td><td>1.6</td></tr><tr><td>Var</td><td></td><td></td><td>3</td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td></td><td></td></tr><tr><td>Num</td><td></td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td>2</td><td>1</td><td></td><td>1</td><td>1</td><td>2</td><td></td><td></td></tr><tr><td>1</td><td></td><td></td><td>1.9</td><td>1.9</td><td></td><td>1.5</td><td>1.8</td><td>1.3</td><td>2.3</td><td></td><td>2.3</td><td>2</td><td>1.4</td><td></td><td></td></tr><tr><td>W</td><td></td><td></td><td>1.3</td><td>1.3</td><td></td><td>1.5</td><td>0.8</td><td>1.2</td><td>1.2</td><td></td><td>1</td><td>0.8</td><td>1</td><td></td><td></td></tr><tr><td>h</td><td></td><td></td><td>1</td><td>1</td><td></td><td>2</td><td>1</td><td>1</td><td>1</td><td></td><td>2</td><td>2</td><td>1</td><td></td><td></td></tr><tr><td>f</td><td></td><td></td><td>1</td><td>1</td><td></td><td>0</td><td>0</td><td>1</td><td>0</td><td></td><td>0</td><td>1</td><td>1</td><td></td><td></td></tr><tr><td>wei</td><td></td><td></td><td>0.6</td><td>0.6</td><td></td><td>0.6</td><td>0.2</td><td>0.6</td><td>0.2</td><td></td><td>0.6</td><td>1.1</td><td>0.3</td><td></td><td></td></tr></table></body></html>
+
+货车采用 $6 . 0 { \times } 2 . 5 { \times } 3 . 0$ 式，空载质量6t，额定载重 $9 \mathrm { t } _ { \circ }$ 货车的前、后车轴位置的最大承重 ${ \bar { N } } _ { 1 , } { \bar { N } } _ { 2 } = 4 5 0 0 k g$ 。按上个实验，设定种群个体的规模50，遗传迭代1000次，交叉的概率0.8，变异的概率0.05。运行多次，取最好结果，见图4。
+
+![](images/7b5cae7121ed481052b3003c06dde7f7da21c59f1aeba02a3867e435621afe72.jpg)  
+图4货车行驶路径  
+Fig.4Vehicle traffic path
+
+由图4可知，该方案有四条送货路径，即路径1：0-11-6-13-0；路径 2：0-1-12-15-9-0；路径3：0-3-8-5-10-0;路径4：0-4-7-14-2-0。货车行驶的总路程为 $3 1 1 . 3 \ \mathrm { k m }$ 。
+
+在同等约束下，多次使用禁忌算法进行实验，取最好结果。松弛平衡约束，进行同样的实验，记录数据如表5所示。表中dv表示结果偏差：P表示最好运算结果；T表示运行时间。
+
+表5与禁忌搜索算法比较结果  
+Table 5Comparisons with tabu search algorithms   
+
+<html><body><table><tr><td rowspan="2">算法</td><td colspan="2">有平衡约束</td><td colspan="2">无平衡约束</td></tr><tr><td>P/km</td><td>T/s</td><td>P/km</td><td>T/s</td></tr><tr><td>多阶段算法</td><td>311.3</td><td>109.2</td><td>305.6</td><td>86.7</td></tr><tr><td>禁忌算法</td><td>315.7</td><td>35.2</td><td>310.2</td><td>30.2</td></tr><tr><td>dv/%</td><td>-1.39</td><td>210.23</td><td>-1.48</td><td>187.09</td></tr></table></body></html>
+
+通过对表5横向对比可知，平衡约束不仅仅是一个保证安全的因素，同样对实验结果造成影响，是一个不可忽略的约束。纵向进行对比，多阶段算法由于在路径优化决策时，采用了回溯算法进行深层遍历，导致实验的用时大大超过了禁忌搜索算法。但是从运算的结果来看，多阶段算法优于禁忌搜索算法。表明本文提出的多阶段算法在解决BL-VRP上有效果。
+
+# 4 结束语
+
+本文首次考虑货物的重量、重心，对3L-VRP进一步扩展，构建一个包含纵向轴重约束、横向重心偏移约束的BL-VRP模型。针对BL-VRP模型，构建了一个以B-GA算法为骨架的多阶段算法。通过两组实验表明，本文提出的多阶段算法在解决3L-VRP问题上不逊于其他算法，同时对于BL-VRP问题也表现优秀。但是由于深层搜索的使用，使算法的时效性较差，下一步可针对此处进行改进。
+
+# 参考文献：
+
+[1]Gendreau M,Iori M,Laporte G,et al.A tabu search algorithm for a routing and container loading problem[J].Transportation Science,2006,   
+40 (3):342-350. [2]Zhang D,Cai S,Ye F,etal.A hybrid algorithm for a vehicle routing problem with realistic constraints [J]. Information Sciences,2017,   
+394-395 (7): 167-182. [3]BortfeldtA,Homberger J.Packing first,routing second：a heuristic for the vehicle routing and loading problem [J]. Computers & Operations Research,2013,40(3):873-885.   
+[4]Pace S,Turky A,Moser I,et al.Distributing fibre boards: a practical application of the heterogeneous fleet vehicle routing problem with time windows and three-dimensional loading constraints [J].Procedia Computer Science,2015,51: 2257-2266.   
+[5]Bortfeldt A,Hahn T,MaNnel D,et al.Hybrid algorithms for the vehicle routing problem with clustered backhauls and 3D loading constraints [J]. European Journal of Operational Research,2015,243 (1): 82-96.   
+[6] Männel D, Bortfeldt A. Solving the pickup and delivery problem with three-dimensional loading constraints and reloading ban [J]. European Journal of Operational Research,2017,264 (1): 119-137.   
+[7]Männel D,Bortfeldt A.A hybrid algorithmforthevehiclerouting problem with pickup and delivery and three-dimensional loading constraints [J].European Journal of Operational Research,2016,254 (3): 840-858.   
+[8] 彭碧涛，周世平．同时取送货的三维装载约束下车辆路径问题[J]. 计算机工程与应用,2016,52(6):242-247.(Peng Bitao,Zhou Shiping. Simultaneous delivery and pickup vehicle routing problem with three-dimension loading constraints [J]. Computer Engineering and Applications,2016,52 (6): 242-247.)   
+[9]Hokama P,Miyazawa FK,Xavier E C.A branch-and-cut approach for the vehicle routing problem with loading constraints[J]. Expert Systems with Applications,2016,47 (4): 1-13.   
+[10] Zhang Zhenzhen,Wei Lijun,Lim A.An evolutionary local search for the capacitated vehicle routing problem minimizing fuel consumption underthree-dimensional loadingconstraints[J].Transportation Research PartB,2015,82:20-35.   
+[11] Mahvash B，Awasthi A,Chauhan S.A column generation based heuristicforthecapacitatedvehicleroutingproblemwith three-dimensional loading constraints [J].International Journal of Production Research,2015,55 (6): 1730-1747.   
+[12] Bortfeldt A.A hybrid algorithm for the capacitated vehicle routing problem with three-dimensional loading constraints [J]. Computers & Operations Research,2012,39 (9): 2248-2257.   
+[13] Tao Yi,Wang Fan.An efective tabu search approach with improved loading algorithms for the 3L-CVRP [J].Computers & Operations Research,2015,55:127-140.   
+[14] 颜瑞，张群，胡睿，等．考虑三维装箱约束的车辆路径问题研究[J]. 中国管理科学,2015,23(1):128-134.(Yan Rui, Zhang Qun,Hu Rui, et al.Research of vehicle routing problem with three-dimensional loading constraints [J].Chinese Journal of Management Science,2015, 23 (1): 128-124.)   
+[15] Can B.Kalayci, Can Kaya.An ant colony system empowered variable neighborhood search algorithm for the vehicle routing problem with simultaneous pickup and delivery [J].Expert Systems with Applications, 2016,66: 163-175.   
+[16]陈果．改进遗传算法下的车辆路径问题研究[J]．电子测试，2016, 20 (3): 56-57,33.(Chen Guo. Research on vehicle routing problem based on improved genetic algorithm [J]. Electronic Test, 2016,20 (3): 56-57,33.)   
+[17]王岩冰，郑明春，刘弘．回溯算法的形式模型[J].计算机研究与发 展,2001,38(9):1066-1079.(Wang Yanbing,Zheng Mingchun,Liu Hong.Formal model of backtracking algorithms [J]. Journal of Computer Research and Development,2001,38 (9):1066-1079.)

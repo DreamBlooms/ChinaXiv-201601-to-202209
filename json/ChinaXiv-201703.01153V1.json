@@ -1,0 +1,278 @@
+[
+    {
+        "type": "text",
+        "text": "用XPS研究三氧化二铁的硫化氢腐蚀产物",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王丹慧 张振华 李萍 赵杉林 李飞\\*辽宁石油化工大学化学化工与环境学部，辽宁抚顺，113001摘要 模拟含硫原油加工过程中生成的具有高自然性的腐蚀产物，利用 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 与 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 反应制备硫铁化合物，将硫化反应产物分为两部分，一部分保存在乙醇中，一部分暴露于空气中。用 XPS 研究硫化产物及其氧化产物中S、Fe的存在形态。结果表明，硫化产物中S主要存在形式是 $\\mathrm { F e S } _ { 2 }$ ；氧化产物中主要存在形式是硫酸盐，少部分FeS、单质硫及 $\\mathrm { F e S _ { x } }$ 。硫化产物和氧化产物中Fe 的主要存在形式都是 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 和 $\\mathrm { F e S } _ { 2 }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 硫腐蚀 FeS $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫酸盐 XPS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XPS Study on Hydrogen Sulfide Corrosion Products from Ferric Oxide ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Danhui， ZHANG Zhenhua，LI Ping， ZHAO Shanlin，LI Fei \\* Department of chemistry, chemical engineering and environment， Liaoning Shihua University，Fushun ll300l China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ferric sulfide was used to react with hydrogen sulfide to produce iron sulfides which could be produced during the process of processing crude oil and had high pyrophorisity. X-ray photoelectron spectroscopy (XPS） was used to investigate the sulfur and iron functional forms present in iron sulfide and oxidation products.The results show that sulfur present in iron sulfide in pyrite forms is converted into sulfate after oxiding；The major iron form in iron sulfide and oxide are both ferric iron and pyrite. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: sulfur corrosion; ferrous sulfide; sulfate ; XPS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "原油中存在的 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 、硫醇等活性硫能够直接与金属作用使储罐及运输管道等设备腐蚀[1],生成的腐蚀产物化学性质活泼，一旦与氧气接触发生氧化反应放出大量的热，热量聚集引起温度上升，最终自燃而引发火灾和爆炸事故，对生命和财产造成严重威胁。已有多起含硫油品储罐着火爆炸事故[2-5]。研究硫化产物的生成及氧化历程对预防事故具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张振华等结合差热-热重分析对腐蚀产物氧化反应尾气组成进行研究；周鹄等[7利用扫描电镜和X射线能谱分析对 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 、 $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ 和 $\\mathrm { F e ( O H ) } _ { 3 }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 腐蚀产物进行表征；Buckley等通过 XPS 对暴露在氧气中的黄铁矿（主要成分为 $\\mathrm { F e S } _ { 2 }$ 、FeS 等）表面进行研究，认为在氧化反应最初 $\\mathrm { F e S O _ { 4 } }$ 便会稳定生成并随着反应的进行不断增加。并且在空气中氧化的FeS表面出现了少量 $S _ { 8 }$ 。长时间氧化反应后，会出现Fe的氧化物，但没有 $S _ { 8 }$ 生成。在目前的研究中，采用XPS对硫化产物进行表征的报道较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X 射线光电子能谱法(XPS)是近年来新出现的最有效的表面元素分析方法之一，最大的特色在于能获取丰富的化学信息，可以定性定量提供样品表面存在的所有元素（除H和 He外）的信息[9。采用XPS 对 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 的硫化产物和氧化产物试样表面元素及含量进行测定，依据氧化前后元素含量及存在形式的变化分析硫化过程及氧化过程，即进一步研究硫铁化合物的生成及自燃历程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用2L圆底烧瓶与分液漏斗制备 $\\mathrm { H } _ { 2 } \\mathrm { S }$ ，称取一定量FeS试剂放入烧瓶，向分液漏斗中加入配置好的稀盐酸，制得的 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 气体导入储气袋中储存，使用奥氏气体分析仪分析储气袋内的 $H _ { 2 } S$ 和 $\\mathsf { O } _ { 2 }$ 的体积分数，实验前均重新制气，控制储气袋内的 $H _ { 2 } S$ 体积分数在 $90 \\% \\sim 9 4 \\%$ $\\mathsf { O } _ { 2 }$ 体积分数低于 $3 \\%$ 。实验用 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ ，浓盐酸，乙醇均为分析纯， $\\mathbf { N } _ { 2 }$ ， $9 9 . 9 9 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "称取 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 } 1 5 \\mathrm { g }$ 放入三口瓶，反应装置如图1所示，用薄膜气泵抽取储气袋中的 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 气体，控制流量为 $2 3 0 \\mathrm { \\ m L / m i n }$ ，在 $2 5 \\mathrm { { ^ \\circ C } }$ 恒温水浴中硫化 $^ { 6 \\mathrm { ~ h ~ } }$ ，制备 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 腐蚀产物。将制备的硫化产物分成2份，一半用无水乙醇密封，另一半转移至锥形瓶内暴露在空气中，无水乙醇密封的样品被氧化的程度较低，而另一份样品会发生不同程度的氧化。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/479abb5be92bd4549b4f09245879138f50b9c626f5afeb8954898841e5de671e.jpg",
+        "img_caption": [
+            "Fig.1 Apparatus for sulfuration "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用 ESCALAB250 XPS 分析 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫化产物的表面元素，靶源为单色器 Al 靶（1486.6ev)，发射电压 $1 5 \\mathsf { k V }$ ，功率 $3 0 0 \\mathsf { W }$ ，分辨率 $0 . 1 \\mathsf { e V }$ 。内部真空度约 $6 . 0 \\times 1 0 ^ { - 8 } \\mathsf { m b a r }$ 以C1s（284.6ev）峰作为内标进行校正。在XPS 图谱中纵坐标代表电子计数，横坐标为电子结合能（BindingEnergy，B.E)。基于各种价态元素的结合能不同，将所得 $\\mathsf { F e 2 p }$ 和 $\\mathsf { S 2 p }$ 的XPS 谱图采用XPSPEAK专用软件分峰拟合，选用 Shirley方法扣背底。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1样品的全谱扫描 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫化产物中各组分的XPS 谱示于图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c414da019cf121467683f5e2113b0e9688de209dbecbba3b0848faf6684dbc22.jpg",
+        "img_caption": [
+            "Fig 2XPS spectra of all elements in sulfurization products "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图2可知在 $5 3 5 \\mathrm { e V } { \\sim } 1 5 7 \\mathrm { e V }$ 以外，被乙醇浸泡的试样峰强度都比暴露在空气中的试样的强度低；在531.2，284.2和 $5 5 . 2 \\mathrm { e V }$ 等明显峰位置，暴露在空气中的试样比被乙醇浸泡过",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的试样向高结合能方向移动，说明样品被氧化程度高；另外，从图上来看，特别是150\\~250eV区域，峰的形状有区别，说明两种样品间组成有区别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 $\\mathbf { F e _ { 2 } O _ { 3 } }$ 硫化产物的S2p图谱 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试样的S2p谱图曲线经最佳拟合后可将每幅谱图分为3\\~4个不同能量的峰，如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ff1e8a4e7f5c1155083c84f07ab1b2719070cea172f50d4cf85f4a8a2c8182b.jpg",
+        "img_caption": [
+            "Fig 3 Peak-fittings of S2p XPS profile for $\\mathsf { F e } _ { 2 } \\mathsf { O } _ { 3 }$ sulfurization products (a) Exposure to air (b)Soaked in ethanol "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3a所示为暴露在空气中的 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫化产物S 2p 拟合谱。 $1 6 8 . 3 \\mathrm { e V }$ 可视为硫酸盐的特征峰，如 $\\mathrm { F e S O _ { 4 } }$ 、 $\\mathrm { F e } _ { 2 } ( \\mathrm { S O } _ { 4 } ) _ { 3 }$ 等；163.3 和 $1 6 2 . 0 \\mathrm { { e V } }$ 可认为是 $\\mathrm { F e S } _ { 2 }$ （或少量 $\\mathrm { F e S } _ { 1 . 1 5 }$ ，数据库中其BE为 $1 6 2 . 2 \\mathrm { e V }$ ）的峰；161eV可视为FeS的峰； $1 6 4 . 3 \\mathrm { e V }$ 可视为 $S _ { 8 }$ 的峰。图3b所示为乙醇密封的 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫化产物 S2p拟合谱， $1 6 2 . 5 \\mathrm { e V }$ 可视为 $\\mathrm { F e S } _ { 2 }$ ： $1 6 3 . 6 \\mathrm { e V }$ 可视为 ${ \\sf S } _ { 8 }$ 的峰; $1 6 8 . 8 \\mathrm { e V }$ 可视为硫酸盐的特征峰； $1 6 1 . 7 \\mathrm { e V }$ 可视为FeS的峰。据此，按图3拟合后各类硫的归属，分别得出两种试样中该类形态硫的峰面积，见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe46eb9e0eab3e11ff41c573e449b0aad994b2a56d66d9c6178db8c94f53eee2.jpg",
+        "table_caption": [
+            "Table 1Sulfureous forms and content in iron sulfides from $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ by XPS Spectra "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>2p Binding energy in sample/ev</td><td>Model compounds</td><td>Area/%</td></tr><tr><td>Iron sulfides from</td><td>163.6</td><td>S8</td><td>28.0</td></tr><tr><td>Fe2O3</td><td>161.7</td><td>FeS</td><td>10.9</td></tr><tr><td>(Soaked in ethanol)</td><td>162.5</td><td>FeS2</td><td>42.7</td></tr><tr><td rowspan=\"2\">Iron sulfides from</td><td>168.8</td><td>SO42</td><td>18.4</td></tr><tr><td>164.3</td><td>S8</td><td>9.6</td></tr><tr><td>Fe2O3</td><td>161.0</td><td>FeS</td><td>6.4</td></tr><tr><td>(Exposure to air)</td><td>162/163.3</td><td>FeS2</td><td>33.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ca4b61a6b3cef739fe288306b8ba547181eb1fe62a67c0269712f20d4ebe993.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>168.3 SO4²- 50.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1中乙醇浸泡的试样， $\\mathrm { F e S } _ { 2 }$ 是样品中S的主要存在形式；暴露在空气中的试样，硫酸盐是样品中S的主要存在形式，一部分S以单质和 $\\mathrm { F e S } _ { 2 }$ 形式存在，较少部分以FeS形式存在，因为随着硫化过反应的进行， $\\mathrm { H } _ { 2 } \\mathrm { S }$ 不断被氧化成S单质，体系的成分、温度等条件的变化发生反应[错误！未定义书签。]. $\\mathrm { F e S } + \\mathrm { S } = \\mathrm { F e S } _ { 2 }$ ，使产物中 $\\mathrm { F e S } _ { 2 }$ 含量增加，FeS 很少有时甚至检测不出来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "硫化产物氧化后，氧化值低的 $\\mathrm { F e S } _ { 2 }$ 、FeS 明显减少，氧化值高的 ${ \\mathrm { S O } _ { 4 } } ^ { 2 \\cdot }$ 组分含量明显增加，反应体系中存在少量 $\\mathbf { O } _ { 2 }$ ，使生成的FeS发生氧化反应：FeS $+ 2 \\mathrm { O } _ { 2 } = \\mathrm { F e S O } _ { 4 }$ ，使产物中FeS减少 $\\mathrm { F e S O _ { 4 } }$ 增加，空气氧化使硫化产物中S从氧化值低的单质向氧化值高的 ${ \\mathrm { S O } _ { 4 } } ^ { 2 }$ 转化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 $\\mathbf { F e } _ { 2 } \\mathbf { O } _ { 3 }$ 硫化产物的Fe2p图谱 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fe 的氧化物在2个特征峰往高结合能方向分别会出现对应的卫星峰：Fe（II）的卫星峰在715eV 附近，Fe（III）的卫星峰在 $7 1 9 . 8 \\mathrm { e V }$ 附近，随着化合物中Fe 的氧化程度不断增加，特征峰均往高结合能方向移动。这些特征为判断Fe元素的化学状态提供了良好的依据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试样的Fe2p谱图曲线经最佳拟合后可将每幅谱图分为3\\~4个不同能量的峰，如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/70eb681d0e610dd4e26f725d0e1a6dfc701a2a42338f65e8bbcb8d7f4785e31d.jpg",
+        "img_caption": [
+            "Fig4 Peak-fittings of Fe2p XPS profile for $\\mathsf { F e } _ { 2 } \\mathsf { O } _ { 3 }$ sulfurization products (a) Exposure to air (b) Soaked in ethanol "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4a所示为暴露在空气中的 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫化产物Fe2p拟合谱。711eV可视为 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 } ( \\mathrm { F e } 2 \\mathrm { p } 3 / 2 )$ 的峰， $7 2 3 . 2 5 \\mathrm { e V }$ 可视为 $\\mathrm { F e } 2 \\mathrm { p } 1 / 2$ 的峰; $7 1 0 \\mathrm { e V }$ 可视为 $\\mathrm { F e S _ { x } }$ 的峰； $7 1 0 \\mathrm { e V }$ 附近可以认为是FeS、$\\mathrm { F e S } _ { 2 }$ 及其它 $\\mathrm { F e S _ { x } }$ 峰的叠加，但是受分析手段的限制不能把这些峰分开，因此归为 $\\mathrm { F e S _ { x } }$ 。但从 S 2p图谱上来看，试样组成以 $\\mathrm { F e S } _ { 2 }$ 为主。7143eV可视为为 $\\mathrm { F e S O _ { 4 } }$ 。图4b为乙醇浸泡的$\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 硫化产物的 $\\mathrm { F e } 2 \\mathrm { p }$ 图谱。从Fe元素的形态上来看， $7 0 7 . 3 \\mathrm { e V }$ 可视为 $\\mathrm { F e S } _ { 2 }$ 的峰； $7 1 1 . 5 \\mathrm { e V }$ 可视为 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ （2p3）的峰，其中 $7 2 5 . 2 \\mathrm { e V }$ 为 2p1峰；713.4可视为 $\\mathrm { F e S O _ { 4 } }$ 的峰。据此，按图4拟合后各类铁的归属，分别得出两种试样中该类形态铁的峰面积，见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/26a68335b27f7bdb2c53f98c650378d8cbb156e74196f303ae66de7f62f2deb1.jpg",
+        "table_caption": [
+            "Table 2Ferrous forms and content in iron sulfides from $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ by XPS Spectra "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>2p Binding energy</td><td>Model compounds</td><td>Area/%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6746165150d1b8758bbf9244c9da815fef447b30ff8ae03f8300f3690ab46dea.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">in sample/ev</td></tr><tr><td>Iron sulfides from</td><td>711.5 Fe2O3</td><td>55.2</td></tr><tr><td>Fe2O3</td><td>707.3</td><td>FeS2 38.4</td></tr><tr><td>(Soaked in ethanol)</td><td>713.4 FeSO4</td><td>6.4</td></tr><tr><td>Iron sulfides from</td><td>711</td><td>Fe2O3 82.7</td></tr><tr><td>Fe2O3</td><td>710 FeS2</td><td>6.0</td></tr><tr><td>(Exposure to air)</td><td>713</td><td>FeSO4 11.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2中乙醇浸泡的试样， $\\mathsf { F e } _ { 2 } \\mathsf { O } _ { 3 }$ 是试样中Fe的主要存在形式， $\\mathrm { F e S } _ { 2 }$ 占 $3 8 . 4 \\%$ ，少部分以硫酸盐形式存在；暴露在空气中的试样， $\\mathsf { F e } _ { 2 } \\mathsf { O } _ { 3 }$ 含量更高， $\\mathrm { F e S } _ { 2 }$ 减少到 $6 \\%$ ，硫酸盐含量有所升高。硫化产物氧化后，Fe大多转化成 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 形式，少部分以 $\\mathsf { F e S } _ { 2 }$ 及 $\\mathsf { F e S O } _ { 4 }$ 形式存在，S多被氧化成 ${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，在室温时将 FeS 等硫铁化合物粉碎研磨就能被缓慢氧化，生成少量 $\\mathrm { S O } _ { 2 }$ 和大量 $\\mathrm { F e S O } _ { 4 } ^ { [ 1 0 ] }$ 。在反应过程中，三口瓶内壁上有一定量液滴生成，这可能一部分是反应气体中有一定 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 存在，另外部分是反应生成少量 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 冷凝所致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$( 1 ) \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 与 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 的硫化反应生成 $\\mathrm { F e S } _ { 2 }$ 和 $\\mathrm { F e S O _ { 4 } }$ (或其他价态的铁的硫酸盐，有的带有结晶水)。(2）硫化过程中伴随着FeS、 $S _ { 8 }$ 以及其它一些中间产物（如 $\\mathrm { F e } _ { 3 } \\mathbf { S } _ { 4 }$ ，FeS，FeO 等）的生成与转化。  \n(3）硫化产物氧化过程生成大量 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 和 ${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ ，少部分 $\\mathrm { S O } _ { 2 }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 。  \n(4) $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 氧化产物中 ${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ 含量较多，可能是硫化产物中的 $\\mathrm { F e S O _ { 4 } }$ 没有参与反应，而 $\\mathrm { F e S } _ { 2 }$ 、FeS 等的在氧化过程中生成 ${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ ，也有可能是硫化产物氧化过程中在 $\\mathbf { O } _ { 2 }$ 、 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 作用下生成${ \\mathrm { S O _ { 4 } } } ^ { 2 - }$ ，这部分机理仍需要后续研究证明。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]贾鹏林．高硫原油加工过程中的防腐蚀技术[J].石油化工腐蚀与防护,2001,18(5):1",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Wu C,Li Z J,Li M, et al.Test of oxidation behavior of sulfide ore at ambient temperature forfire control[J]. J.Coal Sci.Eng., 2007,13(3): 377  \n[3]Li P,Li JD, Zhao $\\textsf { S L }$ ,et al. Prevention of spontaneous combustion of sulfur-containing oiltanks[J]. Petroleum science and technology,2OO6,24:1009  \n[4]张振华，李萍，赵杉林等．硫化亚铁引发储油罐火灾危险性的研究[J]．中国安全科学学报,2004,14(11):96  \n[5]Li P,Li JD, Zhao SL,et al. Research on the danger of fires in oil tanks with sulfur [J].FireSafety J., 2005,40:331  \n[6]张振华,赵杉林,李萍等.常温下硫化氢腐蚀产物的自燃历程 [J].石油学报(石油加工).2012,28（1）：123  \n[7]周鹄，刘博，许菲等．含硫油品储罐腐蚀产物自燃性的对比研究[J].石油化工高等学校学报.2013，26（2）：21  \n[8]Buckley AN， Woods R. Mechanochemical henomena in Ultrafine Miling[J]. Appl. Surf. Sci,1987，27（4）：156  \n[9]李梅，杨俊和，张启锋等．用 XPS 研究新西兰高硫煤热解过程中氮、硫官能团的转变规律[J]．燃料化学学报，2013，11（41）：1287  \n[10]Pavelko G F. Mechanochemical Reactions of Elementary Sulfur and Iron Sulfides withHydrogen,Oxygen and Water[J]. Russian J.Inorg.Chem.， 2008， 53（7): 981",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,619 @@
+[
+    {
+        "type": "text",
+        "text": "不同情绪载体的神经活动及其异同脑成像研究的ALE元分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘俊材’冉光明’张 琪²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．西华师范大学教育学院心理系，南充 637002;2．西华师范大学学前与初等教育学院，南充 637002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要情绪识别一直是学界关注的热点。虽然已有研究探讨了动态面孔表情、动态身体表情和声音情绪的脑机制，但对每种情绪载体的整体认识相对不完善，同时对不同情绪载体之间神经机制的共性和区别知之甚少。因此，本研究首先通过三项独立的激活似然估计元分析来识别每种情绪模式的大脑激活区域，然后进行对比分析以评估三种情绪载体之间共同的和独特的神经活动。结果显示，动态面孔表情的大脑活动包括广泛的额叶、枕叶、颞叶和部分顶叶皮层以及海马、小脑、丘脑、杏仁核等皮层下区域；动态身体表情的激活集中于颞/枕叶相关脑区以及小脑和海马；声音情绪则引起了颞叶、额叶、杏仁核、尾状核和脑岛的激活。联合分析表明，三种情绪载体跨模态激活了左侧颞中回和右侧颞上回。对比分析的结果证明了视觉刺激比听觉刺激更占优势，动态面孔表情尤为突出，同时动态身体表情也发挥着重要作用，但声音情绪有其独特性。总之，这些发现验证和拓展了三种情绪载体的现有神经模型，揭示了情绪处理中心的、普遍性的区域，但每种情绪载体又有自己可靠的特异性神经回路。关键词情绪载体，动态面孔表情，动态身体表情，声音情绪，ALE元分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为一个高度社会化的物种，人类无时无刻不与他人进行频繁的社会互动。准确感知他人的情绪是社会互动中最重要的社交技能之一。心理学界长期以来一直关注与情绪相关的面孔表情、身体动作和声音情绪，这是因为它们都是社会关系建立和维持过程中不可或缺的交际信号。例如，恐惧可以通过面孔眼部区域的视觉信息、身体部位的动作和姿势以及声音的声学变化来识别(de Gelder et al.2006; Heberlein& Atkinson,2009)。尽管这些信号有着本质不同，但都可以导致对情绪状态的相同识别(即，人是害怕的)，并激活观察者相似的情绪特异性反应(Magnée et al. 2007)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1不同情绪载体及其神经基础",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1动态面孔表情及其神经基础 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面孔是社会生活中最常见的刺激形式，100 多块解剖上和功能上截然不同的肌肉构成了这一巨大的姿势空间(Kilts et al.2003;Waters& Terzopoulos,1990)。肌肉的细微变化提供了丰富而有力的社会信息，我们可以通过面孔的特征快速而准确地推断他人的特质(Ritchie et al.2017)，并自动化地形成对他人的印象(Klapper etal.2016)，以便于进一步的社会交流(Haxbyet al.2000；张琪 等,2015)。但在日常生活中，我们面对的面孔是动态变化而非静态的，准确识别他人的动态情绪面孔对于个体的生存以及人际交往更为重要。研究表明，在动态面孔表情处理的神经网络中存在一个核心的神经网络，即颞-枕联合区(Foley et al.2012; Haxby etal. 2000)，包括梭状回(fusiform gyrus,FG)、颞上回(superior temporal gyrus,STG)、中回(middle temporal gyrus,MTG)、颞下回(inferior temporal gyrus,ITG)、枕中回(middle occipitalgyrus,MOG)和枕下回(inferior occipital gyrus,IOG)等。由核心神经网络向外延伸的被称为扩展的神经网络，包括核心脑区之外的广大皮层和皮层下的相关脑区，前者涉及顶下小叶(inferior parietal lobule, IPL)(Sarkheil et al. 2013)和额下回(inferior frontal gyrus, IFG) (Sato etal.2012)等，而后者主要与杏仁核(amygdala)有关(Sato et al.2010)。核心脑区主要负责早期的视觉分析和刺激的运动加工，而扩展的神经网络则与个体的情感处理、面孔模仿、刺激的动态表征等有关(Haxby et al.2000；张琪 等,2015)。Zinchenko 等人(2018)的元分析发现动态面孔表情激活了上述脑以及小脑(cerebellum)，验证和支持了动态面孔表情处理的神经网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2动态身体表情及其神经基础 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了面孔表情外，身体表情也是情感交流的重要载体。长期以来，面孔表情被认为是比身体表情更普遍、更一致的情感信息载体(de Gelder,et al.2014)。然而，研究表明，成年人通过身体姿势和动作来识别情绪的准确性可以与面孔相媲美(Atkinson et al.2007; Zieber et al.2014)，甚至在某些情况下，人的身体比面孔更能传达情绪状态(de Gelder& Partan，2009;Sinke,et al.2012)。与面孔相比，身体有着独特的优势，可以促进信息的情感交流，例如，其相对较大的尺寸使得他们在更远的距离就能被看到，即使是处在信号发出者的背后也能观察到身体所传达的情感信号(de Gelder,2009)。但以往关于动态身体表情的加工机制存在不同的看法，一部分研究者赞同Giese 和Poggio(2003)提出的躯体形态与动作加工的分层神经模型，他们认为身体形态信息(如外形特征)的加工通路始于视觉皮层，经次级颞叶皮层到达梭状回和颞上沟(superior temporal sulcus,STS)；动作与情绪信息的加工通路从视觉皮层出发，经枕叶和颞叶，而后到达负责整合人类复杂动作信息的颞上沟(de Gelder etal.2014; Moro etal.2008)。但大多数研究者更认同de Gelder等人(2006,2015)提出的身体表情加工的双通道理论。该理论认为身体表情的加工有两条独立且相互协作的神经通路：一条是身体表情的自动化加工通路，维持着反射性行为，主要涉及上丘(superior colliculus,SC)、丘脑(thalamus)、纹状体(striatum)和杏仁核等；另一条是皮层控制回路，主要负责情感、认知和决策过程，包括额-顶运动系统、前额叶与杏仁核相连接的部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3声音情绪及其神经基础 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "声音同样带有关于动作发出者的多种信息(Krauss et al.2002;Pisanski et al.2016)，和面孔及身体一样容易识别(Scherer，1995)，但与视觉刺激更高的空间灵敏度不同，声音的主要作用是使我们能够区分更细微的时间差异(Calvert etal.1998)。与面孔和身体相比，声音更具层次化(多样性)，如强度、速度、 $F _ { 0 }$ 等都可以传达信息(Scherer etal.2003)。研究者认为声音主要传递着言语、情绪和身份信息，有三条部分分离的神经通路分别进行加工(Belin et al.2004)。言语信息加工的脑机制可以用双通路模型(Hickok&Poeppel,2007)很好的理解。在该模型中，双侧颞上沟的中部和后部(middle and superior temporal sulcus,M/PSTS)负责声音刺激的语音加工和表征，随后分出腹侧通路和背侧通路，分别对言语信息进行意义理解和将颞上沟编码的语音表征转换成运动区域(额下回)编码的发声运动表征。情绪信息的加工则可以用3 阶段工作模型很好的解释(Schirmer&Kotz,2006):在刺激出现后的 $1 0 0 \\mathrm { m s }$ 左右，初级和次级听觉皮层对声学信息进行提取和分析；在 200ms 左右，前颞上回/沟(anterior superiortemporal gyrus/sulcus,ASTG/S)和杏仁核对情绪线索进行整合；在 $4 0 0 ~ \\mathrm { { m s } }$ 左右，右侧额下回和眶额皮质(orbitofrontal cortex，OFC)进行更高级的认知评价，左侧额下皮层负责语义情绪信息加工。而身份信息的加工能够从整合模型中得到全面了解(Maguinness et al.2018)。根据该模型，在感知层面的加工是对身份特征进行分析，主要涉及颞上回/沟后部、颞横回(heschl'sgyrus,HG)和颞平面(planum temporale,PT)；在识别层面，被提取的身份特征在颞上回/沟中部与已储存的声音原型进行比较，选择出偏离原型的特征；而后，颞上回/沟前部和中部将偏离的特征与储存的参照图式进行比较，即人声-身份识别。元分析研究验证了上述理论，同时拓展了小脑和脑岛(insula)等的作用(Frühholz& Grandjean,2013;Fruhholz et al.2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2不同情绪载体神经机制的异同",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管大量的研究探讨了三种情绪载体的神经机制，但通常都只关注单一模式的加工。随着认识的深入，部分研究者开始关注面孔表情和身体表情之间脑机制的相似性与差异性。一方面，研究发现，面孔表情与身体表情加工的神经机制存在重合。不论是静态还是动态身体表情都能够显著激活梭状回、颞上沟和杏仁核等面孔知觉敏感区域(Kret et al.2011; Giese &",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Poggio，2003)。此外，不同情绪类型的面孔和身体刺激可以共同激活眶额皮质(de Gelder,2006)、脑岛(Tamietto et al.,2015)和楔叶(cuneus)(Kret et al.2011)等负责情绪加工的脑区。另一方面，有证据支持面孔与身体表情加工的神经机制存在分离。Downing 等人(2001)的研究直接将不同刺激进行对比，结果发现外纹状皮层躯体区(extrastriate body area,EBA)仅对身体刺激敏感，对面孔和其他刺激不敏感。此外，尽管面孔和身体表情在脑区的激活峰值存在重合，但具体的激活位置存在分离(Schwarzlose et al.2005;van de Rietet et al.2009)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了探讨面孔表情和身体表情之间神经机制的相似性与差异性，研究者还发现了面孔表情和声音情绪之间神经机制的异同。例如，Dricu 和 Frühholz(2016)的元分析研究表明，面孔和声音都引起了双侧额下皮层(inferior frontalcortex,IFC)、腹内侧额叶(dorsal medial frontalcortex,DMFC)、右侧颞上沟和左侧脑岛的激活；面孔比声音在双侧杏仁核、梭状回中部(middle fusiform gyrus,MFG)和视觉联合区更为活跃；而声音比面孔在右侧颞上沟中部、左侧额下皮层、左内侧额叶和额叶岛盖(frontal operculum,FOP)上激活更大。Schirmer(2018)的元分析则对纳入的面孔和声音研究进行了匹配：为每个声音研究选择一个任务和情绪匹配的面孔研究；没有模式匹配的声音研究被排除在分析之外；如果一个声音研究有多个匹配的面孔研究，则进一步在被试数量、性别比例和发表时间上进行匹配，选择差异最小的研究。结果发现，面孔比声音在双侧海马旁回(parahippocampal gyrus,PHG)、左侧胼低下回(subcallosalgyrus,SG)和右侧壳核(putamen)更为活跃；声音比面孔在双侧颞上沟上激活更大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管以往对不同情绪载体神经机制异同的考察大多数集中于两种情绪载体之间，但仍有极少数研究者关注到了多模态刺激之间神经机制的相似性与差异性。Peelen 等人(2010)要求被试评估从面部运动、身体动作和声音语调中感知到的情绪强度，结果发现内侧前额叶皮层(medial prefrontal cortex,MPFC)和左侧颞上沟后部可以忽略情绪刺激载体来表征基本情绪。曹林敬(2018)的研究则有所不同：实验1要求被试判别视觉刺激的情绪类型而不考虑刺激的类别(面孔、身体和全身情绪)，分析表明只有左侧中央后回(postcentral gyrus,POCG)可以跨模态的显著区分3种情绪；实验2要求被试对刺激的价态(负性、中性和正性)进行判断，但刺激类别有4种(面孔、身体、声音和音乐)，涉及视听觉两种模态，结果发现左侧中央后回和颞中回既可以不受不同模态的限制(视觉和听觉)表征价态信息，又可以不受视觉(面孔和身体)和听觉(声音和音乐)模态内各自不同刺激类别的限制表征价态信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3以往研究的不足",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一方面，实证研究存在其自身不可避免的缺陷。首先，单个脑成像研究使用的被试数量相对较少，由此可能导致统计检验力和效应量较低(Yarkoni,2009)；其次，神经影像学数据对任务和控制条件等的选择特别敏感，由此可能导致结果的不一致(周临舒 等,2017)。因此，有必要采用基于大规模数据合成方法的元分析技术来克服单个脑成像研究的局限(Eickhoffet al.2009; Yarkoni etal.2011)。这不仅有助于弥补对每种情绪载体整体认识的不足[例如，除上文所提及的脑区外，大量的研究还发现动态面孔表情和声音情绪激活了其他脑区(Braticoet al.2011; Sato et al.2012; Trautmann et al.2009)。此外，关于身体表情的加工模型仍然存在争论，尚无较为统一的结论]，还可以探究3种情绪载体之间神经活动的一般性与差异性，更能为今后的感兴趣区(region of interest,ROI)分析提供具有代表的参考坐标点。另一方面，现有的元分析存在一定不足。首先，在动态面孔表情的元分析中，大部分数据来自于女性被试，且纳入分析的文献既有面孔刚性运动(指头部转动，相对于身体而运动，如点头、摇头)的研究，又有非刚性运动(指脸部各个器官的运动，如眨眼、撇嘴等)的研究，其结果可能存在一定偏差。其次，目前还没有任何研究对动态身体表情进行元分析以确定其大脑活动区域。再次，声音情绪的元分析纳入了非人类环境的声音、部分研究只关注了情绪韵律的处理而忽视了音乐情绪和语调等。此外，尽管有元分析将面孔和声音进行对比，但研究未区分静态和动态面孔，其结果的可靠性和可推广性受到制约。最后，目前还没有元分析研究将面孔和身体、身体和声音进行对比，对三种情绪载体神经机制的相似性与差异性的认识还相对不清晰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4本元分析的目的",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前对每种情绪载体的整体认识相对不完善，同时对不同情绪载体之间脑机制的共性和区别知之甚少。因此，在本研究中，首先采用激活似然估计(activation likelihoodestimation,ALE)元分析来识别每种情绪模式的大脑激活区域。然后，对这些元分析激活图进行对比分析以评估三种情绪载体之间共同的和独特的神经机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 文献检索",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在PubMed、PsycINFO、CNKI和Google Scholar 中对发表的关于情绪脑机制的研究进行检索(截止日期为2020 年10月10日)。检索使用的关键词分为四组：第一组与神经成像相关：神经成像、功能性磁共振成像(functional magnetic resonance imaging,fMRI)、正电子发射断层扫描(positive emisson tomography,PET)、Neuroimaging、fMRI、PET；第二组与刺激载体相关：面孔、身体、声音、韵律、语调、音乐、facial、body、voice、vocal、prosody、intonation、music；第三组与运动状态相关：动态、移动、运动、dynamic、move、motion。面孔和身体表情需将三组关键词一一配对进行检索，而声音情绪仅需将前两组相关词进行配对。此外，对所有确定的研究进行正向和反向引文检索，以确保纳入所有相关的研究。依据上述方法，共检索到8494篇文献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2文献选取标准",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文献的纳入与排除标准如下：(1)研究类型：文献为实证研究，排除综述、元分析及个案研究；(2)研究对象：研究中的被试为正常人(平均年龄为 $9 { \\sim } 5 5$ 岁)，排除脑损伤病人和心理障碍患者等特殊群体以及年龄小于9岁的儿童和大于55的老年人；(3)刺激材料：研究使用的刺激材料为人类的动态面孔(非刚性运动)、动态身体、声音且呈现的情绪为六种基本情绪中的一种或中性，排除使用静态刺激、刚性运动面孔、点光运动身体、动物声音以及非基本情绪或中性的研究；(4)研究手段：研究采用 fMRI或 PET 的方法，排除采用认知行为、脑电图(electroencephalograph,EEG)和脑磁图(magnetoencephalography，MEG)等其他方法的文献以及旨在分析白质和灰质情况的弥散张量成像(diffusion tensor imaging,DTI)和磁共振成像(magnetic resonance imaging,MRI)研究；(5)数据分析：研究采用全脑分析，排除只进行感兴趣区域分析的研究；(6)结果报告：研究使用标准化后的Talairach或MNI空间报告大脑的激活结果，排除未报告激活区域坐标的研究。具体的筛选过程与结果请见图1。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9647f3a9092f54ed9068b063283b69a5afe8ec515df5e18d350123cf17d27e10.jpg",
+        "img_caption": [
+            "图1文献筛选流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 文献编码",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对纳入元分析的文献进行如下编码：文献信息(第一作者姓名和发表时间)、样本量大小(总样本量及男性样本量)、年龄(平均年龄或年龄范围)、坐标空间(Talairach 或 MNI空间)、成像手段(fMRI或 PET)、实验具体对比和坐标值。先由第一作者在两个时间段依据文献纳入与排除标准进行编码，再由通讯作者对两次编码结果进行校对。结果显示，两次编码仅存在个别数据偏差，一致性较高。纳入文献的基本信息请见表1。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 激活似然估计法",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究使用神经成像领域最常用的元分析方法一一激活似然估计法。它是利用高斯概率密度分布模拟激活焦点局部化的不确定性，这些分布的体素联合产生ALE 值，即数据集中至少一个焦点位于给定体素的可能性估计(Turkeltaub et al.2012; Morrison,2016)。数据处理通过 GingerALE 软件(3.0.2版本) (Eickhoff et al.2009; Turkeltaub et al.2012)进行。在数据分析之前，使用软件中的转换工具将 MNI空间中报告的坐标转换为Talairach 空间中的坐标。然后，分别对3种情绪载体进行单一元分析，在统计图阈值为 $p < 0 . 0 5$ 的水平上使用家族错误校正(Cluster-levelFWE)，对聚类阈值为 $p < 0 . 0 0 1$ 进行多重比较(5000 个排列)校正(Eickhoffet al.2017)。最后，3种情绪载体两两间进行对比分析，与前人研究一致(Arsalidou et al.2020;Yalpe&Arsalidou,2018),对比分析阈值为 $p < 0 . 0 1$ 且最小团块大于 $2 0 0 \\mathrm { m m } ^ { 3 }$ (10000个排列）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/316fc4b50da812abd7662ffdd2f3c77dab2de2c6fbc646c70905c1dc42272150.jpg",
+        "table_caption": [
+            "表1元分析文献基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>文献信息*</td><td>样本量</td><td>年龄</td><td>坐标</td><td>成像</td><td>实验对比</td><td>提取</td></tr><tr><td>第一作者/年份</td><td>(男)</td><td></td><td>空间</td><td>手段</td><td></td><td>坐标数</td></tr><tr><td>动态面孔情绪</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Arsalidou, 2011</td><td>24(6)</td><td>26.50 ± 4.60</td><td>T</td><td>fMRI</td><td>Dh>Sh</td><td>2</td></tr><tr><td>5</td><td>15(2)</td><td>26.30 ± 4.50</td><td>T</td><td>fMRI</td><td>Dh>Da, D>S</td><td>7</td></tr><tr><td>杜经纶,2007a</td><td>13(0)</td><td>21-26</td><td>T</td><td>fMRI</td><td>Dh>Dn,Ds1>Dn</td><td>18</td></tr><tr><td>杜经纶,2007b</td><td>26(0)</td><td>21-50</td><td>T</td><td>fMRI</td><td>Dh>Dn,Ds1>Dn</td><td>29</td></tr><tr><td>Foley,2012a</td><td>14(6)</td><td>28.30 ± 3.67</td><td>T</td><td>fMRI</td><td>Da>Sa,Dh>Sh,D>S(a, h, n)</td><td>142</td></tr><tr><td>Foley,2012b</td><td>14(6)</td><td>28.30± 3.67</td><td>T</td><td>fMRI</td><td>Da>Sa,Dh>Sh,Da>Dn,Dh>Dn,D>S(a,h, n)</td><td>171</td></tr><tr><td>Hennenlotter,2005</td><td>12(6)</td><td>24.50</td><td>T</td><td>fMRI</td><td>Dh>Dn</td><td>20</td></tr><tr><td>Hurlemann, 2008</td><td>14(7)</td><td>25.40 ± 2.40</td><td>M</td><td>fMRI</td><td>DE>Dn(a, h),Da>Dn, Dh>Dn,Dh>Da</td><td>41</td></tr><tr><td>Johnston, 2013</td><td>28(15)</td><td>23.93 ± 4.70</td><td>M</td><td>fMRI</td><td>D>S(f, s2, n)</td><td>4</td></tr><tr><td>Kessler, 2011</td><td>30(16)</td><td>23 ± 3.70</td><td>T</td><td>fMRI</td><td>D>S(f, h, s1, d)</td><td>12</td></tr><tr><td>Kilts,2003</td><td>13(9)</td><td>24.50</td><td>T</td><td>PET</td><td>Dn>Sn,Da>Dn,Da>Sa,Dh>Dn,Dh>Sh,Da>Dh,Dh>Da</td><td>60</td></tr><tr><td>Krautheim,2018</td><td>178(89)</td><td>24.04 ± 3.25</td><td>M</td><td>fMRI</td><td>Dh>Da</td><td>32</td></tr><tr><td>Krautheim,2019</td><td>178(89)</td><td>24.04 ± 3.25</td><td>M</td><td>fMRI</td><td>Da>Dn,Dh>Dn</td><td>35</td></tr><tr><td>Krautheim,2020</td><td>178(89)</td><td>24.04 ± 3.25</td><td>M</td><td>fMRI</td><td>DE>Dn(a, h)</td><td>12</td></tr><tr><td>LaBar,2003</td><td>10(5)</td><td>21-30</td><td>M</td><td>fMRI</td><td>DE>SE(a, f),Df>Sf,Da>Sa, Df>Da, Da>Df</td><td>51</td></tr><tr><td>Liang, 2019</td><td>20(10)</td><td>19-25</td><td>M</td><td>fMRI</td><td>Dh>Da,Dh>Df,Da>Dh,Da>Df,Df>Da,Df>Dh</td><td>28</td></tr><tr><td>Liu, 2018</td><td>14(3)</td><td>23.14 ± 4.22</td><td>T</td><td>fMRI</td><td>Dd>Dn,Df>Dn</td><td>5</td></tr><tr><td>Pelphrey, 2007</td><td>8(6)</td><td>24.10 ± 5.60</td><td>M</td><td>fMRI</td><td>D>S(a, f, n)</td><td>6</td></tr><tr><td>Pentón,2010</td><td>13(8)</td><td>33.70</td><td>M</td><td>fMRI</td><td>Df>Sf</td><td>21</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f431b8b6d1d04c46a54c736360739a70a3ba0efbf043ce1928df8e9c6ff867e6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Prochnow, 2013</td><td>15(8)</td><td>19.55</td><td>T</td><td>fMRI</td><td>DE>Dn(a, f, s1,d, s2)</td><td>9</td></tr><tr><td>Rahko,2010</td><td>27(9)</td><td>14.50</td><td>T</td><td>fMRI</td><td>Dh>Dn, Dn>Dh,Df>Dn,Dn>Df,Dh>Df,Df>Dh</td><td>46</td></tr><tr><td>Rymarczyk,2018</td><td>46(25)</td><td>23.80 ± 2.50</td><td>M</td><td>fMRI</td><td>Dh>Sh, Da>Sa,Dn>Sn,DE>SE(a,h),Dh>Dn,Da>Dn,</td><td>275</td></tr><tr><td>Rymarczyk,2019</td><td>46(25)</td><td>23.80 ± 2.50</td><td>M</td><td>fMRI</td><td>DE>Dn(a, h), D>S(a, h, n) Dd>Sd,Df>Sf, Dn>Sn,DE>SE(d,f),Dd>Dn,Df>Dn,</td><td>120</td></tr><tr><td>Sato,2004</td><td>22(10)</td><td>26.50</td><td>M</td><td>fMRI</td><td>DE>Dn(d, f), D>S(d, f, n) Dh>Sh,Dh>Dn,Df>Sf, Df>Dn</td><td>56</td></tr><tr><td>Sato,2010</td><td>21(11)</td><td>22.30± 2</td><td>M</td><td>fMRI</td><td>D>S(a, h)</td><td>3</td></tr><tr><td>Sato,2012</td><td>13(12)</td><td>24.30 ± 3.40</td><td>M</td><td>fMRI</td><td>D>S(f, h, n)</td><td>20</td></tr><tr><td>Sato,2016</td><td>35(22)</td><td>25.68</td><td>M</td><td>fMRI</td><td>D>S(f, h, n)</td><td>16</td></tr><tr><td>Sato,2019</td><td>51(25)</td><td>22.50 ± 4.50</td><td>M</td><td>fMRI</td><td>DE>Dn(a, h)</td><td>41</td></tr><tr><td>Schultz, 2009</td><td>10(6)</td><td></td><td>M</td><td>fMRI</td><td>DE>Dn(S2, a), D>S(s2, a)</td><td>19</td></tr><tr><td>Schultz, 2013</td><td>26(14)</td><td>26.60</td><td>M</td><td>fMRI</td><td>DE>Dn(s2,a), D>S(s2,a)</td><td>7</td></tr><tr><td>Skiba,2019</td><td>24(12)</td><td>25.90 ± 5.50</td><td>M</td><td>fMRI</td><td>DE>Dn(a, h, s1)</td><td>13</td></tr><tr><td>Trautmann, 2009</td><td>16(0)</td><td>21.60 ± 2.30</td><td>T</td><td>fMRI</td><td>Dd>Dn, Dh>Dn</td><td>59</td></tr><tr><td>van der Gaag, 2007</td><td>17(8)</td><td>23.30</td><td>M</td><td>fMRI</td><td>Dn>DE(h,d,f),DE>Dn,Dd>Dn,Df>Dn,Dh>Dn</td><td>36</td></tr><tr><td>王鹏飞,2012</td><td>16(9)</td><td>24-26</td><td>M</td><td>fMRI</td><td></td><td>13</td></tr><tr><td>Wicker,2003</td><td>14(14)</td><td>20-27</td><td>T</td><td>fMRI</td><td>DE>Dn(a, f) Dd>Dn, Dh>Dn</td><td></td></tr><tr><td>Willinger, 2019</td><td>33（9)</td><td></td><td></td><td>fMRI</td><td></td><td>23 16</td></tr><tr><td>姚志剑,2007</td><td>26(0)</td><td>27.40 ± 5.20 34.60 ±11.15</td><td>M T</td><td>fMRI</td><td>DN>Dn(s1,d), DP>Dn(h, s2),DN>DP Dh>Dn,Ds1>Dn</td><td>13</td></tr><tr><td>动态身体情绪</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Engelen, 2018</td><td>17(5)</td><td>23 ± 2.20</td><td>T</td><td>fMRI</td><td>Da>Dn</td><td>12</td></tr><tr><td>Grezes,2007</td><td>16(10)</td><td>25</td><td>M</td><td>fMRI</td><td>D>S(f, n)</td><td>28</td></tr><tr><td>Jastorff, 2015</td><td>16(8）</td><td>25</td><td>M</td><td>fMRI</td><td>DE>Dn(a,h, f, s1)</td><td>23</td></tr><tr><td>Jessen,2012</td><td>18(10)</td><td>25.90 ± 3.90</td><td>M</td><td>fMRI</td><td>DE>Dn(a, f, n), Da>Dn,Df>Dn</td><td>12</td></tr><tr><td>Jessen,2015</td><td>17(9)</td><td>25.90 ± 3.90</td><td>M</td><td>fMRI</td><td>DE>Dn(f,a),Da>Dn,Df>Dn</td><td>8</td></tr><tr><td>Liang,2019</td><td>20(10)</td><td>19-25</td><td>M</td><td>fMRI</td><td>Dh>Da,Dh>Df, Da>Dh,Da>Df,Df>Dh,Df>Da</td><td>30</td></tr><tr><td>Peelen, 2007</td><td>18(8)</td><td>26</td><td>T</td><td>fMRI</td><td>DE>Dn(a,d,f,h,s1), Dn>DE(a,d,f,h,s1),Da>Dn,</td><td>35</td></tr><tr><td>Peelen,2010</td><td>18(8)</td><td></td><td></td><td></td><td>Dd>Dn, Df>Dn,Dh>Dn,Ds1>Dn</td><td></td></tr><tr><td>Pichon,2008</td><td>16(9)</td><td>26 18-26</td><td>T M</td><td>fMRI fMRI</td><td>Dh>DN(a, d, f, s1) Da>Sa, Dn>Sn</td><td>3 33</td></tr><tr><td>Pichon, 2009</td><td>16(8)</td><td>24.55</td><td>M</td><td>fMRI</td><td>DN>Dn(a, f), Df>Dn,Da>Dn</td><td>95</td></tr><tr><td>Pichon, 2011</td><td>16(8)</td><td>24.55</td><td>M</td><td>fMRI</td><td>DN>Dn(a, f)</td><td>16</td></tr><tr><td>Poyo Solanas, 2020</td><td>13(3)</td><td>25.80</td><td>T</td><td>fMRI</td><td>DE>Dn(a, f, h)</td><td>13</td></tr><tr><td>Ross, 2019</td><td>26(11)</td><td>21.28 ± 2.11</td><td>M</td><td>fMRI</td><td>Da>Dn,Dh>Dn</td><td></td></tr><tr><td></td><td>18(9)</td><td>14.82 ± 1.88</td><td>M</td><td>fMRI</td><td>Da>Dn,Dh>Dn</td><td>13 11</td></tr><tr><td></td><td>25(12)</td><td>9.55 ± 1.46</td><td>M</td><td>fMRI</td><td>Da>Dn,Dh>Dn</td><td></td></tr><tr><td>Van de Vliet, 2018</td><td>12(5)</td><td>54.30 ±8</td><td>M</td><td>fMRI</td><td>DE>Dn(a, f, h, s2)</td><td>7 27</td></tr><tr><td>声音情绪</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Agnew,2018</td><td>16</td><td>23-49</td><td></td><td>fMRI</td><td>d>n,f>n</td><td>16</td></tr><tr><td>Alba-Ferrara,2011</td><td>19(19)</td><td>24.80 ± 8.79</td><td>M M</td><td>fMRI</td><td>E>n(h,a, s1)</td><td>12</td></tr><tr><td>Aube, 2015</td><td>47(27)</td><td>26.40 ± 4.80</td><td>M</td><td>fMRI</td><td>f>n,h>n</td><td>4</td></tr><tr><td>Bach,2008</td><td>16(8)</td><td>26± 3.90</td><td>M</td><td>fMRI</td><td>E>n(a, f), a>f</td><td>17</td></tr><tr><td>Beaucousin, 2007</td><td>23(11)</td><td>23.30 ± 3</td><td>M</td><td>fMRI</td><td>E>n(a, h, s1)</td><td>20</td></tr><tr><td>Brattico,2011</td><td>15(9)</td><td>23.90 ± 2.90</td><td>M</td><td>fMRI</td><td>s1>h, h>s1</td><td>6</td></tr><tr><td>Brick,2011</td><td>24(12)</td><td>23.30</td><td>M</td><td>fMRI</td><td>E>n(h,a), h>a, a>h</td><td>8</td></tr><tr><td>Buchanan, 2000</td><td>10(10)</td><td>22-40</td><td></td><td>fMRI</td><td>s1>h</td><td></td></tr><tr><td>Castelluccio,2014</td><td></td><td>22.68 ± 3.84</td><td>M T</td><td></td><td></td><td>1</td></tr><tr><td>Castelluccio,2015</td><td>8(3)</td><td></td><td></td><td>fMRI</td><td>a>n</td><td>14</td></tr><tr><td></td><td>8(3）</td><td>22.68 ± 3.84</td><td>T</td><td>fMRI</td><td>a>n</td><td>8</td></tr><tr><td>Ceravolo,2013</td><td>14(3)</td><td>23.07 ± 3.95</td><td>M</td><td>fMRI</td><td>a>n, n>a</td><td>39</td></tr><tr><td>Ceravolo,2016</td><td>14(6)</td><td>23.07 ±3.95</td><td>M</td><td>fMRI</td><td>a>n</td><td>11</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2d7f9fc960a9d33b436f794c54a624fad0c0d24997587c02d3fd078ad8993dd.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注： $\\mathrm { T = }$ Talairach， $\\scriptstyle \\mathbf { M } = \\mathbf { M N I }$ ， $\\mathrm { D } \\mathrm { = }$ 动态， $\\mathrm { S } =$ 静态， $\\operatorname { E } ^ { = }$ 情绪， ${ \\bf N } =$ 负性情绪， ${ \\bf P } ^ { = }$ 正性情绪， $\\scriptstyle \\mathbf { a } =$ 愤怒， $\\mathrm { d } \\mathrm { = }$ 厌恶，=恐惧， $\\mathbf { s } _ { 1 } \\mathbf { = }$ 悲伤， $\\mathbf { s } _ { 2 } \\mathbf { = }$ 惊讶， $\\mathrm { { h } } \\mathrm { { = } }$ 高兴， $\\mathrm { \\mathfrak { n } } ^ { = }$ 中性"
+        ],
+        "table_body": "<html><body><table><tr><td>Dietrich,2008</td><td>16(8)</td><td>25 ± 3.30</td><td>M</td><td>fMRI</td><td>E>n</td><td>4</td></tr><tr><td>Eigsti, 2012</td><td>11(7)</td><td>13.70 ± 2.60</td><td>T</td><td>fMRI</td><td>a>n</td><td>1</td></tr><tr><td>Ethofer, 2007</td><td>10(6)</td><td>24</td><td>M</td><td>fMRI</td><td>E>n(a, f, h)</td><td>7</td></tr><tr><td>Ethofer,2009</td><td>24(12)</td><td>26.30</td><td>M</td><td>fMRI</td><td>a>n</td><td>9</td></tr><tr><td>Ethofer, 2011</td><td>22(9)</td><td>26.30 ± 7.70</td><td>M</td><td>fMRI</td><td>E>n(a, h, s1)</td><td>23</td></tr><tr><td>Fecteau, 2005</td><td>16(10)</td><td>22.60 ± 2.70</td><td>T</td><td>fMRI</td><td>E>n(h,f, s1)</td><td>1</td></tr><tr><td>Fecteau,2007</td><td>14(8)</td><td>23.40± 3</td><td>M</td><td>fMRI</td><td>E>n(h,f, s1),N>n(f,s1),h>n,N>h(f,s1),h>N(f, s1)</td><td>20</td></tr><tr><td>Frühholz, 2011</td><td>17(3)</td><td>25.52 ± 5.08</td><td>M</td><td>fMRI</td><td>a>n</td><td>97</td></tr><tr><td>Fruhholz,2014</td><td>13(6)</td><td>23.85 ± 3.69</td><td>M</td><td>fMRI</td><td>a>n</td><td>59</td></tr><tr><td>Gandour, 2003</td><td>20(10)</td><td>27.05</td><td>T</td><td>fMRI</td><td>E>n(a, h, s1)</td><td>14</td></tr><tr><td>Goerlich-Dobre,2014</td><td>22(9)</td><td>24.80 ± 5.30</td><td>M</td><td>fMRI</td><td>E>n(a, s2)</td><td>6</td></tr><tr><td>Grandjean, 2005</td><td>15(8)</td><td>24.40 ± 4.60</td><td>M</td><td>fMRI</td><td>a>n</td><td>15</td></tr><tr><td>Jessen,2012</td><td>18(10)</td><td>25.90 ± 3.90</td><td>M</td><td>fMRI</td><td>E>n(a, f),a>n,f>n, n>E(a,f), n>f</td><td>12</td></tr><tr><td>Jessen, 2015</td><td>17(8)</td><td>25.90 ± 3.90</td><td>M</td><td>fMRI</td><td>E>n(a, f),a>n, f>n</td><td>14</td></tr><tr><td>Johnstone, 2006</td><td>40(22)</td><td>18-50</td><td>M</td><td>fMRI</td><td>h>a,a>h</td><td>6</td></tr><tr><td>Kang,2009</td><td>28(14)</td><td>29.90 ± 2.90</td><td>M</td><td>fMRI</td><td>h>n,s>n</td><td>16</td></tr><tr><td></td><td>14(7)</td><td>30.40 ± 3.70</td><td>M</td><td>fMRI</td><td>h>n, s>n</td><td>13</td></tr><tr><td>Kanske,2010</td><td>22(12)</td><td>24.70 ± 2.70</td><td>M</td><td>fMRI</td><td>N>n</td><td>3</td></tr><tr><td>Koelsch,2013</td><td>18(9)</td><td>23.78 ± 3.54</td><td>M</td><td>fMRI</td><td>h>f, f>h</td><td>35</td></tr><tr><td>Korb,2015</td><td>18(8)</td><td>27</td><td>M</td><td>fMRI</td><td>a>n, n>a</td><td>56</td></tr><tr><td>DKotz,2003</td><td>12(4)</td><td>22-29</td><td>T</td><td>fMRI</td><td>h>n, a>n</td><td>35</td></tr><tr><td>Kotz,2015</td><td>20(10)</td><td>26.90 ±3.40</td><td>M</td><td>fMRI</td><td>h>a,a>h</td><td>11</td></tr><tr><td>Leitman, 2010</td><td>20(20)</td><td>28±5</td><td>T</td><td>fMRI</td><td>E>n(a, f, h)</td><td>14</td></tr><tr><td>Liu,2018</td><td>14(3)</td><td>23.14 ± 4.22</td><td>T</td><td>fMRI</td><td>d>n, f>n, s>n</td><td>6</td></tr><tr><td>Mitchell, 2003</td><td>13(13)</td><td>32.20 ± 0.93</td><td>T</td><td>fMRI</td><td>E>n(h,s1),n>E(h,s1)</td><td>8</td></tr><tr><td>Mitterschiffthaler, 2007</td><td>16(8)</td><td>29.50 ± 5.50</td><td>M</td><td>fMRI</td><td>h>n, s1>n, n>h+s1</td><td>20</td></tr><tr><td>Morris,1999</td><td>6(6)</td><td>32.70</td><td>M</td><td>PET</td><td>E>n(h,f,s1),n>E(h,f, s1)</td><td>13</td></tr><tr><td>Numminen-Kontti, 2014</td><td>31(9)</td><td>27.60 ± 6.90</td><td>M</td><td>fMRI</td><td>h>s1,h>f, s>h,s1>f, f>h,f>s1</td><td>71</td></tr><tr><td>Park,2015</td><td>24(10)</td><td>19.63</td><td>M</td><td>fMRI</td><td>E>n(h,f, s1)</td><td>2</td></tr><tr><td>Peelen,2010</td><td>18(8)</td><td>26</td><td>T</td><td>fMRI</td><td>h>N(a,d, f, s1)</td><td>2</td></tr><tr><td>Péron, 2015</td><td>15(3)</td><td>25.12 ± 4.95</td><td>M</td><td>fMRI</td><td>a>n</td><td>14</td></tr><tr><td>Phillips, 1998</td><td>6(6)</td><td>37</td><td>T</td><td>fMRI</td><td>f>n,d>n, f>d,d>f</td><td>43</td></tr><tr><td>Regenbogen, 2012</td><td>27(14)</td><td>34.07 ± 9.82</td><td>M</td><td>fMRI</td><td>E>n(d,f, h, s1)</td><td>44</td></tr><tr><td>Rosenblau, 2016</td><td>20(15)</td><td>32</td><td>M</td><td>fMRI</td><td>E>n(a,d,f,h, s1, S2)</td><td>13</td></tr><tr><td>Salimpoor, 2011</td><td>10(5)</td><td>20.80 ± 1.90</td><td>M</td><td>fMRI</td><td>h>n</td><td>7</td></tr><tr><td>Sander,2005</td><td>15(7)</td><td>24.40± 4.60</td><td>M</td><td>fMRI</td><td>a>n</td><td>16</td></tr><tr><td>Seydell-Greenwald, 2020</td><td>20(8)</td><td>21.75 ± 3.50</td><td>T</td><td>fMRI</td><td>E>n(h,a, s1)</td><td>9</td></tr><tr><td>Smith,2015</td><td>17(10)</td><td>26.50 ± 5.95</td><td>M</td><td>fMRI</td><td>a>n,s1>n</td><td>4</td></tr><tr><td>Wildgruber, 2002</td><td>12(6)</td><td>21-33</td><td>M</td><td>fMRI</td><td>E>n(h, s1)</td><td>20</td></tr><tr><td>Wildgruber, 2005</td><td>10(5)</td><td>21-33</td><td>M</td><td>fMRI</td><td>E>n(h,a,f,d, s1)</td><td>17</td></tr><tr><td>Witteman,2014</td><td>19(6)</td><td>24.92 ± 5.65</td><td>M</td><td>fMRI</td><td>E>n(a, s2), a>n, S2>n</td><td>9</td></tr><tr><td>Wittfoth,2009</td><td>20(10)</td><td>24.90 ± 3.70</td><td>M</td><td>fMRI</td><td>h>a,a>h, E>n(h,a)</td><td>7</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1单一元分析的结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分析显示，相较于静态载体，动态面孔在双侧颞上回、颞中回、梭状回，左侧颞下回、海马旁回、杏仁核,右侧额下回、中央前回(precentral gyrus,PG)、豆状核(lentiform nucleus,LN)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "激活更大；动态身体在双侧颞上回和右侧小脑更活跃。相比于中性刺激，动态情绪面孔引起了双侧颞上回、颞中回、梭状回、小脑和杏仁核，左侧颞下回和枕中回，右侧额下回、额中回(medial frontal gyrus,MFG)、中央前回、脑岛和顶下小叶的激活；动态情绪身体在双侧颞上回，左侧枕中回、枕下回、楔叶、小脑，右侧颞下回、梭状回、海马旁回更活跃；情绪声音在双侧颞上回，左侧颞中回、颞横回(transverse temporal gyrus,TTG)、中央前回和杏仁核，右侧额下回、额中回和脑岛激活更大。与中性和负性载体相比，动态正性面孔在右侧颞中回、枕下回和小脑更活跃；动态正性身体在左侧小脑和右侧颞上回、枕中回、舌回(lingual gyrus,LING)激活更大；正性声音情绪则引起了双侧颞上回，左侧杏仁核，右侧颞横回和尾状核(CN)的激活。负性情绪效应显示，动态负性面孔在双侧颞中回和杏仁核，左侧额下回，右侧颞上回、额上回(superior frontal gyrus,SFG)、枕中回、梭状回、中央前回和海马旁回激活更大;动态负性身体在左侧颞上回、枕中回、枕下回、和楔叶以及右侧颞中回和梭状回更活跃；负性声音引起了双侧颞上回和额下回，左侧颞横回、中央前回和右侧脑岛的激活。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2联合分析的结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "联合分析的结果见表2和图2。其中，图2第 $1 { \\sim } 6$ 列激活图表示三种情绪载体两两之间共同激活的脑区。在动态效应下，动态面孔和身体共同激活的脑区有：双侧颞上回、左侧梭状回和右侧小脑。在情绪效应下，动态面孔和身体共同激活了双侧颞上回，左侧颞中回、枕下回以及右侧颞下回、梭状回、海马旁回、豆状核；动态面孔和声音共同激活了左侧颞中回、杏仁核和右侧颞上回、额下回、脑岛；动态身体和声音共同激活了左侧颞中回和右侧颞上回。在正性情绪效应下，动态面孔和身体被发现在右侧颞下回和颞中回共同激活。在负性情绪效应下，动态面孔和身体被发现共同激活了双侧颞下回、左侧颞中回和右侧枕下回。动态面孔和声音、动态身体和声音在正性和负性情绪效应下不存在共同的激活脑区。第7列则展示了动态面孔和身体在动态效应、情绪效应、正性和负性情绪效应下共同激活的所有脑区。第$8 { \\sim } 1 1$ 列激活图表示三种情绪载体两两之间共同激活脑区的进一步叠加，重叠的部分即共同激活的脑区。由此不难看出三种情绪载体共同激活的区域位于左侧颞中回和右侧颞上回。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2对比分析的结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对比分析显示，在动态效应下，与面孔相比，身体引起了左侧颞上回的激活。在情绪效应下，面孔相比于身体在右侧梭状回、中央前回、海马旁回和小脑激活更大，反过来，身体引起了左侧枕下回、舌回、楔叶和右侧枕中回的活跃；与声音相比，面孔在双侧海马旁回，左侧小脑和杏仁核以及右侧颞上回、额上回、梭状回、中央前回和顶下小叶激活更大，而声音引起了双侧颞上回和左侧脑岛的活跃；相较于声音，身体在左侧颞下回、舌回、楔叶和右侧颞中回、梭状回、豆状核激活更大，反之，声音引起了双侧颞上回和右侧颞中回、中央前回的活跃。在正性情绪效应下，与面孔相比，身体在右侧枕中回更活跃，而面孔比身体在右侧颞下回、枕中回、枕下回、梭状回、小脑激活更大；与面孔相比，声音在双侧脑岛和左侧颞上回更活跃，而身体引起了右侧枕中回的激活。在负性情绪效应下，相对于面孔，身体引起了左侧楔叶以及右侧枕中回和小脑的活跃；与声音相比，面孔在双侧颞中回，左侧额下回和杏仁核以及右侧梭状回和中央前回上激活更大；相对于面孔，声音引起了双侧颞上回和左侧颞横回的活跃；身体相比于声音，在双侧颞下回和梭状回以及左侧颞上回、颞中回和楔叶上显著激活；相对于身体，声音引起了双侧颞上回、颞横回和左侧中央前回、脑岛的活跃(见表3 和图 3)。在动态效应、正性情绪效应和负性情绪效应下未发现动态面孔比动态身体激活更大的脑区，同时，未在负性情绪效应下发现声音情绪比动态身体更活跃的区域。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3114c6eb401d4fdd373dc3c67671bc63a33382a5d91e3888016d22c2ffc625f4.jpg",
+        "table_caption": [
+            "表2联合分析激活簇结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">脑区</td><td>半球</td><td rowspan=\"2\">区</td><td>中心标</td><td rowspan=\"2\">体</td><td rowspan=\"2\">ALE值</td><td rowspan=\"2\">脑区</td><td rowspan=\"2\">半球</td><td rowspan=\"2\">区</td><td colspan=\"2\"></td><td rowspan=\"2\">体</td><td rowspan=\"2\">ALE值</td></tr><tr><td></td><td></td><td></td><td>中标</td></tr><tr><td>动态效应</td><td></td><td></td><td></td><td></td><td></td><td></td><td>情绪效应</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>面孔身体</td><td></td><td></td><td></td><td></td><td></td><td>面孔身体</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>颞上回</td><td>右</td><td>13</td><td>56,-44, 16</td><td>648</td><td>14.73</td><td>颞中回</td><td></td><td>左</td><td>37</td><td>-48,-66,4</td><td>2232</td><td>25.80</td></tr><tr><td></td><td>颞上回</td><td>左</td><td>22</td><td>-58,-44,14</td><td></td><td>472 15.18</td><td></td><td>颞上回</td><td>左</td><td>39</td><td>-48,-48,8</td><td></td><td>23.95</td></tr><tr><td></td><td>小脑</td><td>右</td><td></td><td>38,-50,-18</td><td>336</td><td>10.58</td><td></td><td>枕下回</td><td>左</td><td>19</td><td>-44，-72,-6</td><td></td><td>21.23</td></tr><tr><td>！</td><td>梭状回</td><td>左</td><td>37</td><td>40,44,-18</td><td></td><td>9.40</td><td>颞下回</td><td></td><td>右</td><td>37</td><td>48,-64,2</td><td>1056</td><td>29.41</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞下回</td><td>右</td><td></td><td>37</td><td>44，-68,-4</td><td></td><td>25.77</td></tr><tr><td>正性情绪效应</td><td></td><td></td><td></td><td></td><td></td><td></td><td>梭状回</td><td>右</td><td>37</td><td></td><td>36,-44,-16</td><td>520</td><td>30.48</td></tr><tr><td></td><td>面孔身体</td><td></td><td></td><td></td><td></td><td></td><td>颞上回</td><td>右</td><td>41</td><td></td><td>42,-38,6</td><td>456</td><td>16.33</td></tr><tr><td></td><td>颞下回</td><td>右</td><td></td><td>44,-68,0</td><td>160</td><td>14.13</td><td>海马旁回</td><td>右</td><td></td><td>34</td><td>24,0,-12</td><td>432</td><td>19.56</td></tr><tr><td></td><td>颞中回</td><td>右</td><td>37</td><td>46,-64,2</td><td></td><td>13.89</td><td>梭状回</td><td>右</td><td>37</td><td></td><td>38,-50,-16</td><td>40</td><td>16.57</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>豆状核</td><td>右</td><td></td><td></td><td>18,-4,-6</td><td>24</td><td>12.03</td></tr><tr><td>负性情绪效应</td><td></td><td></td><td></td><td></td><td></td><td></td><td>面孔声音</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>面孔身体</td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞上回</td><td>右</td><td>41</td><td></td><td>44,-34, 6</td><td>1608</td><td>33.12</td></tr><tr><td>颞下回</td><td></td><td>右</td><td>37</td><td>48，-64,2</td><td>624</td><td>24.46</td><td>脑岛</td><td>右</td><td>22</td><td></td><td>42,-26,0</td><td></td><td>24.56</td></tr><tr><td>枕下回</td><td></td><td>右</td><td>19</td><td>44,-72,-6</td><td></td><td>15.32</td><td>脑岛</td><td>右</td><td>13</td><td></td><td>44,-18,-2</td><td></td><td>19.87</td></tr><tr><td>颞下回</td><td></td><td>左</td><td>39</td><td>48,-48,6</td><td>528</td><td>19.72</td><td>额下回</td><td>右</td><td>45</td><td></td><td>50,20,6</td><td>1424</td><td>27.33</td></tr><tr><td>颞中回</td><td></td><td>左</td><td>37</td><td>48,-48,4</td><td>272</td><td>18.42</td><td>额下回</td><td>右</td><td>13</td><td></td><td>44,24, 4</td><td></td><td>25.55</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>脑岛</td><td>右</td><td></td><td></td><td>48,12,2</td><td></td><td>25.35</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>杏仁核</td><td>左</td><td></td><td></td><td>-20,-8,-10</td><td>768</td><td>29.74</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞中回</td><td>左</td><td>21</td><td></td><td>-54,-44,6</td><td>120</td><td>21.10</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>脑岛</td><td>右</td><td>13</td><td></td><td>58, -34,20</td><td>8</td><td>17.19</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>身体声音</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞上回</td><td>右</td><td></td><td>41</td><td>42,-38,6</td><td>424</td><td>16.33</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞中回</td><td>左</td><td>21</td><td></td><td>-52，-46,8</td><td>56</td><td>16.85</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a09f7ec3209c00c7115d0d6da5c729c3db95d0a8fa616e05d1d69aa23b875da.jpg",
+        "img_caption": [
+            "图2联合分析的结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/2dc9f8478d4a64b18860ccfb3a597a060aa8d8e51e9cc11cbfb5bad47cd8a476.jpg",
+        "table_caption": [
+            "表3对比分析激活簇结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">脑区</td><td rowspan=\"2\">半 球 区</td><td rowspan=\"2\">BA</td><td rowspan=\"2\"></td><td colspan=\"2\">中心坐标</td><td rowspan=\"2\">体积 /mm³</td><td rowspan=\"2\">P值</td><td rowspan=\"2\">脑区</td><td rowspan=\"2\">半</td><td rowspan=\"2\">BA</td><td colspan=\"2\">中心坐标</td><td rowspan=\"2\">体积 /mm³</td><td rowspan=\"2\">P值</td></tr><tr><td>X,Y,Z</td><td></td><td>球</td><td>X,Y,Z</td></tr><tr><td>动态效应</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>正性情绪效应</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>身体→面孔</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>身体→面孔</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>上回</td><td>左</td><td>22</td><td></td><td>-57.9, -44.5, 15.5</td><td></td><td>264</td><td>0.0045</td><td>枕中回</td><td>右</td><td>37</td><td></td><td>39.7, -64.5, 5.5</td><td>1008</td><td>0.0004</td></tr><tr><td>情绪效应</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>面孔>声音</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>面孔>身体</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>小脑</td><td>右</td><td></td><td>42，-62,-20</td><td></td><td>2440</td><td>0.0003</td></tr><tr><td>小脑</td><td></td><td></td><td></td><td>36,-64,-22</td><td></td><td>1264</td><td>0.0000</td><td>梭状回</td><td>右</td><td>37</td><td></td><td>42,-57.5, -18.5</td><td></td><td>0.0005</td></tr><tr><td>2梭状回</td><td></td><td>37</td><td></td><td>46,-60,-14</td><td></td><td></td><td>0.0004</td><td>梭状回</td><td>右</td><td>37</td><td></td><td>42,-63.3,-14.7</td><td></td><td>0.0006</td></tr><tr><td>0小脑</td><td></td><td></td><td></td><td>41.1，-61.6, -18.6</td><td></td><td></td><td>0.0005</td><td>枕中回</td><td>右</td><td>37</td><td>48,-62,-6</td><td></td><td></td><td>0.0008</td></tr><tr><td>2小脑</td><td></td><td></td><td></td><td>36,-62,-14</td><td></td><td></td><td>0.0006</td><td>梭状回</td><td>右</td><td>37</td><td></td><td>43.4,-63.7, -8.9</td><td></td><td>0.0009</td></tr><tr><td>中央前回</td><td>右 右</td><td>44 28</td><td></td><td>48,10, 8</td><td></td><td>720</td><td>0.0006</td><td>梭状回</td><td>右</td><td>19</td><td></td><td>45，-67,-8.3</td><td></td><td>1.0000</td></tr><tr><td>海马旁回</td><td></td><td></td><td></td><td>20,-14,-16</td><td></td><td>680</td><td>0.0022</td><td>颞下回</td><td>右</td><td></td><td></td><td>52.2, -64,1.8</td><td></td><td>0.0015</td></tr><tr><td>身体>面孔 舌回</td><td>左</td><td></td><td></td><td></td><td></td><td></td><td></td><td>枕下回</td><td>右 右</td><td>19</td><td></td><td>40.7,-73,-8.1</td><td></td><td>0.0016</td></tr><tr><td>h楔叶</td><td></td><td>17</td><td></td><td>-17.1， -91.3,2.9</td><td></td><td>1936 0.0000</td><td></td><td>枕下回</td><td></td><td>19</td><td></td><td>43.1,-70.6,-2</td><td></td><td>0.0018</td></tr><tr><td>C</td><td></td><td>17 17</td><td></td><td>-15.6, -96, -1.2</td><td></td><td>0.0002</td><td></td><td>声音>面孔</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>舌回</td><td></td><td></td><td></td><td>-10.2，-95.5,-3.1</td><td></td><td></td><td>0.0002</td><td>脑岛</td><td>左 左</td><td>13 22</td><td>-42,-14,-2</td><td></td><td>1344</td><td>0.0008</td></tr><tr><td>枕下回</td><td>左</td><td>17</td><td></td><td>-16,-92,-6</td><td></td><td>0.0003</td><td></td><td>颞上回</td><td></td><td></td><td>-52,-10,-2</td><td></td><td></td><td>0.0009</td></tr><tr><td>舌回</td><td>左</td><td>18</td><td></td><td>-16,-86,-8</td><td></td><td>0.0025</td><td></td><td>颞上回</td><td></td><td>22</td><td>-49，-5,-2</td><td></td><td></td><td>0.0013</td></tr><tr><td>枕中回</td><td></td><td>右</td><td>37</td><td>-41.1, -64.6, 5.6</td><td></td><td>1800</td><td>0.0000</td><td>颞上回</td><td>左</td><td>22</td><td></td><td>-46.5,-9, -1.5</td><td></td><td>0.0014</td></tr><tr><td>面孔>声音</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞上回</td><td>左</td><td>22</td><td></td><td>-48,-14,-2</td><td></td><td>0.0015</td></tr><tr><td>梭状回</td><td>左</td><td>37</td><td></td><td>-42.5， -62.8, -5.4</td><td></td><td>5304</td><td>1.0000</td><td>脑岛</td><td>左 左</td><td>13</td><td>-44,-10,4</td><td></td><td></td><td>0.0040</td></tr><tr><td>小脑</td><td>左</td><td></td><td></td><td>-39.6,-50.8, -22</td><td></td><td></td><td>0.0001</td><td>颞上回</td><td></td><td>22</td><td>-47,-16,2</td><td></td><td></td><td>0.0045</td></tr><tr><td>梭状回</td><td>右</td><td>37</td><td></td><td>43.8,-64.1, -8.5</td><td></td><td>5272</td><td>0.0034</td><td>颞上回</td><td>左</td><td>22</td><td>-52, -2,4</td><td></td><td></td><td>0.0050</td></tr><tr><td>中央前回</td><td>右</td><td>6</td><td></td><td>47.3, 1.6, 47.2</td><td></td><td>1392</td><td>0.0000</td><td>颞上回</td><td>右 右</td><td>22</td><td>49.5, -15,8</td><td></td><td>296</td><td>1.0000</td></tr><tr><td>中央前回</td><td>右</td><td>4</td><td></td><td>52,-4,46</td><td></td><td>0.0001</td><td></td><td>脑岛</td><td></td><td>13</td><td></td><td>47.3, -14.7, 12</td><td></td><td>0.0025</td></tr><tr><td>海马旁回</td><td>左</td><td>34</td><td></td><td>-18,-10,-18</td><td></td><td>1256</td><td>0.0000</td><td>身体>声音</td><td>右</td><td>37</td><td></td><td>42.2, -64.5, 3.7</td><td>1568</td><td>0.0016</td></tr><tr><td>杏仁核 海马旁回</td><td>左 右</td><td>34</td><td></td><td>-22,-10,-18 15.7, -2.2, -17.3</td><td></td><td>0.0001 1192</td><td>0.0001</td><td>枕中回 负性情绪效应</td><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d396a29286d9074b5ace6f8f2a75099f5caaba87ffb2c10371e1c4000bb5553.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>顶下小叶</td><td>右</td><td>40</td><td></td><td>53,-26,26</td><td>576</td><td>0.0001</td><td>小脑</td><td>右</td><td></td><td>36,-46,-18</td><td></td><td>416</td><td>0.0023</td></tr><tr><td>顶下小叶</td><td>右</td><td>40</td><td></td><td>52,-30,24</td><td></td><td>0.0005</td><td>面孔>声音</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>颞上回</td><td>右</td><td>22</td><td></td><td>46,-30,-2</td><td>304</td><td>0.0038</td><td>梭状回</td><td>右</td><td>19</td><td>44.8,-67.9, -7.2</td><td></td><td>2056</td><td>0.0000</td></tr><tr><td>海马旁回</td><td>右</td><td>19</td><td></td><td>41,-38,0</td><td></td><td>0.0053</td><td>颞中回</td><td>右</td><td>37</td><td>53.5,-61,1</td><td></td><td></td><td>0.0005</td></tr><tr><td>颞上回</td><td>右</td><td>22</td><td></td><td>44，-20,-6</td><td>208</td><td>0.0022</td><td>颞中回</td><td>右</td><td>37</td><td>50,-63,5.5</td><td></td><td></td><td>0.0019</td></tr><tr><td>声音→面孔</td><td></td><td></td><td></td><td></td><td></td><td></td><td>中央前回</td><td>右</td><td>6</td><td>48.5, 2.7, 45.3</td><td></td><td>1072</td><td>0.0002</td></tr><tr><td>颞上回</td><td>右</td><td>41</td><td></td><td>58.4, -18.2, 5.1</td><td>7944</td><td>0.0000</td><td>中央前回</td><td>右</td><td>6</td><td>49.5, -2, 45.3</td><td></td><td></td><td>0.0003</td></tr><tr><td>颞上回</td><td>右</td><td>22</td><td></td><td>50, -10, 6.7</td><td></td><td>0.0007</td><td>颞中回</td><td>左</td><td>22</td><td>-54,-50,6</td><td></td><td>864</td><td>0.0005</td></tr><tr><td>颞上回</td><td>左</td><td>22</td><td></td><td>-49.8， -21, 3.2</td><td>5440</td><td>0.0000</td><td>杏仁核</td><td>左</td><td></td><td>-22,-6,-16</td><td></td><td>728</td><td>0.0008</td></tr><tr><td>颞上回</td><td>左</td><td>21</td><td></td><td>-62，-19,-2</td><td></td><td>0.0001</td><td>颞中回</td><td>右</td><td>22</td><td>50, -37.3,1.3</td><td></td><td>664</td><td>0.0007</td></tr><tr><td>脑岛</td><td>左</td><td>13</td><td></td><td>-40,-12,-3</td><td></td><td>0.0020</td><td>颞中回</td><td>右</td><td>21</td><td>59,-45,8</td><td></td><td></td><td>0.0008</td></tr><tr><td>颞上回</td><td>左</td><td>22</td><td>-60,-6,4</td><td></td><td></td><td>0.0059</td><td>额下回</td><td>左</td><td>47</td><td>-36,20,-10</td><td></td><td>544</td><td>0.0021</td></tr><tr><td>身体→声音</td><td></td><td></td><td></td><td></td><td></td><td></td><td>额下回</td><td>左</td><td>47</td><td>-34,24, -14</td><td></td><td></td><td>0.0025</td></tr><tr><td>颞下回</td><td>左</td><td>37</td><td></td><td>-46.3，-69.3,-0.5</td><td>3624</td><td>0.0000</td><td>颞中回</td><td>左</td><td>37</td><td>-47,-66, 5</td><td></td><td>232</td><td>0.002</td></tr><tr><td>>颞中回</td><td>右</td><td>37</td><td></td><td>42.9, -65.2, 3.2</td><td>3288</td><td>0.0000</td><td>颞中回</td><td>左</td><td>37</td><td>-48,-62,6</td><td></td><td></td><td>0.0022</td></tr><tr><td>8楔叶</td><td>左</td><td>17</td><td></td><td>-16.5, -93.7,1</td><td>2712</td><td>0.0000</td><td>声音〉面孔</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5舌回</td><td>左</td><td>18</td><td></td><td>-14.7, -84.7,-8</td><td></td><td>0.0001</td><td>颞上回</td><td>右</td><td></td><td>58.1, -19.4,4.2</td><td></td><td>7888</td><td>0.0000</td></tr><tr><td>0梭状回</td><td>右</td><td>37</td><td></td><td>38.4，-45,-16.1</td><td>1384</td><td>0.0000</td><td>颞上回</td><td>右</td><td>22</td><td>56,-6,0</td><td></td><td></td><td>0.0001</td></tr><tr><td>豆状核</td><td>右</td><td></td><td>18,2,-8</td><td></td><td>384</td><td>0.0003</td><td>颞上回</td><td>右</td><td>22</td><td>57.1， -2.9, -2</td><td></td><td></td><td>0.0002</td></tr><tr><td>音>身体</td><td></td><td></td><td></td><td></td><td></td><td></td><td>颞上回</td><td>左</td><td>22</td><td>-46.5， -20.4, 3.6</td><td></td><td>3696</td><td>0.0000</td></tr><tr><td>颞上回</td><td>左</td><td>22</td><td></td><td>-46, -15.3, 8</td><td>4176</td><td>0.0002</td><td>颞横回</td><td>左</td><td>41</td><td>-38,-28,8</td><td></td><td></td><td>0.0001</td></tr><tr><td>2颞上回</td><td>左</td><td>22</td><td></td><td>-54.2, -11.6, 9.3</td><td></td><td>0.0001</td><td>颞上回</td><td>左</td><td>22</td><td>-58,-18,4</td><td></td><td></td><td>0.0003</td></tr><tr><td>颞上回 2</td><td>左</td><td>22</td><td></td><td>-62,-22,4</td><td></td><td>0.0006</td><td>颞上回</td><td>左</td><td>41</td><td>-34,-34,14</td><td></td><td></td><td>0.0020</td></tr><tr><td>颞上回</td><td>右</td><td>22</td><td>50,-16,8</td><td></td><td>3384</td><td>0.0002</td><td>身体>声音</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>颞上回</td><td>右</td><td>22</td><td>52,-12, 6</td><td></td><td></td><td>0.0003</td><td>颞下回</td><td>左</td><td></td><td>-45.1， -70.5, 1.1</td><td></td><td>3080</td><td>0.0000</td></tr><tr><td>中央前回</td><td>右</td><td>6</td><td>56,-4,6</td><td></td><td></td><td>0.0006</td><td>颞中回</td><td>左</td><td>37</td><td>-48.2， -66, 5.6</td><td></td><td></td><td>0.0001</td></tr><tr><td>a</td><td>中央前回 右</td><td>44</td><td>54,6,8</td><td></td><td></td><td>0.0014</td><td>颞上回</td><td>左</td><td>22</td><td>-52,-50,10</td><td></td><td></td><td>0.0002</td></tr><tr><td>颞中回</td><td></td><td>21</td><td></td><td></td><td></td><td>0.0019</td><td>颞上回</td><td>左</td><td>39</td><td>-48,-52,10</td><td></td><td></td><td>0.0010</td></tr><tr><td>C中央前回 5</td><td>右</td><td></td><td></td><td>62,-26,-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>颞上回 颞上回</td><td>右</td><td>44</td><td></td><td>52,12, 4</td><td></td><td>0.0027</td><td>颞中回</td><td>左</td><td>21</td><td></td><td>-50,-46.7, 7.7</td><td></td><td>0.0011</td></tr><tr><td rowspan=\"12\"></td><td>左 左</td><td>22 22</td><td>-52, 4,2</td><td>-48, 3.3, -1.3</td><td>384</td><td>0.0004 0.0006</td><td>颞中回 梭状回</td><td>左 左</td><td>39 19</td><td>-50,-56,8</td><td>-44，-74,-10</td><td></td><td>0.0013 0.0018</td></tr><tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb63f0d249fda383c92c0cc778f407eabec90dd7f49696e508de07194988e835.jpg",
+        "img_caption": [
+            "图3对比分析的结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究使用ALE 元分析确定了动态面孔表情、动态身体表情和声音情绪各自的大脑激活区域，探明了三种情绪载体之间共同的和不同的大脑活动机制。在接下来的章节中，我们将讨论当前发现对于理解情绪识别的潜在意义，重点关注不同情绪载体之间的异同。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1单一元分析：不同情绪载体的神经机制",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.1.1动态面孔表情",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "与以往的动态面孔表情元分析一致(Zinchenko etal.2018)，本研究发现了双侧梭状回和颞中回，左侧枕中回、小脑、杏仁核和额下回，右侧颞上回和枕下回的激活。此外，结果显示，双侧海马旁回，左侧颞上回和颞下回以及右侧枕中回、额上回、额中回、额下回、中央前回、顶下小叶、小脑、杏仁核、豆状核和脑岛也处于活跃状态。其中双侧颞上回、颞中回、梭状回，左侧颞下回、海马旁回、杏仁核以及右侧额下回、中央前回、豆状核对动态信息敏感；双侧颞上回、颞中回、梭状回、小脑和杏仁核，左侧颞下回和枕中回，右侧额下回、额中回、中央前回、脑岛和顶下小叶对情绪信息更活跃；而右侧颞中回、枕下回和小脑对正性情绪信息更敏感；双侧颞中回和杏仁核，左侧额下回，右侧颞上回、额上回、枕中回、梭状回、中央前回和海马旁回则对负性情绪信息更活跃。两项研究结果共同验证和拓展了动态面孔表情处理的核心-扩展神经网络(张琪 等,2015)，结果表明：核心的神经网络(颞-枕联合区)主要包括梭状回、颞上回、颞中回、颞下回、枕中回和枕下回等脑区；扩展的神经网络包括两个部分，一是核心脑区之外的广大皮层脑区，包括额上回、额中回、额下回、中央前回和顶下小叶等，二是皮层下的相关脑区，涉及海马旁回、小脑、杏仁核、豆状核以及脑岛等区域。核心的神经网络主要负责早期的知觉编码和刺激的运动加工，而扩展网络与个体的空间注意力、面孔模仿、情绪处理、刺激的动态表征等有关。这些结果极大的完善了动态面孔表情处理的神经网络，为动态面孔表情的识别提供了一个基础模型。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1.2动态身体表情",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "如前文所述，近年来的研究验证和支持了deGelder等人(2006,2015)提出的双通道模型，但我们的结果(动态身体信息激活了双侧颞上回和右侧小脑；情绪信息引起了双侧颞上回，左侧枕中回、枕下回、楔叶、小脑以及右侧颞下回、梭状回和海马旁回的活跃；正性情绪信息更多地激活了左侧小脑和右侧颞上回、枕中回、舌回；而左侧颞上回、枕中回、枕下回、和楔叶以及右侧颞中回和梭状回对负性情绪信息更敏感)似乎更支持躯体形态与动作加工的分层神经模型(Giese＆Poggio,2003)。这并不矛盾，因为Giese 和 Poggio(2003)的理论强调从身体的外形和动作中推断情绪信息，其本质是一种自下而上的加工机制，没有涉及以往经验和记忆对情绪的分类、调节等高级认知加工；而de Gelder(2006,2015)等人的理论在强调自动化加工的同时充分地考虑了认知因素对情绪及行为的调节作用，将自下而上的加工与自上而下的加工相结合。当前元分析纳入的文献中并未探究高级认知加工的影响，因此未发现相关脑区的激活。本研究在Giese 和Poggio (2003)的分层神经模型基础上为研究者们呈现了一个更为完善的动态身体表情加工模型：躯体形态信息的加工通路始于视觉皮层，经次级颞叶皮层到达梭状回和颞上沟；动作与情绪信息的加工通路也从视觉皮层出发，经广大枕-颞叶皮层，最后到达负责整合人类复杂动作信息的颞上沟；同时，小脑、楔叶、舌回和海马旁回等皮层下区域也不同程度的参与了视觉、动作和情绪信息的加工。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1.3声音情绪 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究发现情绪性声音激活了双侧颞上回，右侧额下回、额中回和脑岛，左侧颞中回、颞横回、中央前回和杏仁核；正性声音情绪引起了双侧颞上回，左侧杏仁核，右侧颞横回和尾状核的活跃；负性声音情绪引起了双侧颞上回和额下回，右侧脑岛、左侧颞横回和中央前回的激活。与前人关于声音情绪的元分析研究基本一致(Fruhholz&Grandjean,2013;Fruhholzetal.2016)。支持了现有关于声音情绪神经基础的理解：(1)人类听觉皮层中存在对声音情绪进行特异性加工的区域，即沿双侧颞上回/沟分布的颞叶声音区(temporal voice areas,TVA)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2)大脑分三条通路加工声音情绪的言语、情绪和身份信息：在颞上沟、后外侧颞叶、前颞叶和额下回等区域加工言语信息；在初级和次级听觉皮层、颞上回/沟、杏仁核、眶额皮质以及额下皮层处理情绪信息；在颞上回/沟、颞横回、颞平面以及颞中回对身份信息进行表征。同时，扩展了在声音情绪加工中对额中回、脑岛和尾状核作用的理解，研究表明，这三个脑区都参与了声音刺激中对情绪信息的处理(Bestelmeyer et al.2014; Mitterschiffthaler et al.2007;Numminen-Kontti,2014)。此外，我们还发现了以往元分析未曾报告的中央前回的激活。既往研究发现中央前回作为额叶情绪处理区域的一部分，和正负性情绪处理都相关(Bratticoet al. 2011; Fecteau et al. 2007; Numminen-Kontti, 2014)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2联合分析：不同情绪载体共性的神经机制",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "联合分析表明，动态面孔和身体共同激活了双侧颞上回、颞中回、颞下回、枕下回和梭状回，以及右侧海马旁回、豆状核和小脑；动态面孔和声音情绪共同引起了左侧颞中回、杏仁核和右侧颞上回、额下回、脑岛的活跃；动态身体和声音情绪在左侧颞中回和右侧颞上回上共同激活；其中，左侧颞中回和右侧颞上回为3种情绪载体所共同激活。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2.1左侧颞中回",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "颞中回是人类非常重要的一个脑区，其功能复杂而多样。Xu 等人(2019)用静息状态功能连通性和共激活模式描述了颞中回分离的功能，发现左侧颞中回在社会认知、音韵加工、动作观察、情绪感应、心理理论、语音识别、面孔监控/识别等多方面发挥作用。元分析表明，左侧颞中回在动态面孔表情处理中发挥着重要作用(Arsalidou et al.2011; Zinchenko et al.2018)，主要负责动态面孔的特征运动。在动态身体表情的研究中也发现了左侧颞中回的激活，主要涉及动作知觉和身体形状的选择性激活以及情绪识别(Grezes et al.2007;Jastorff et al.2015;Poyo Solanas et al.2020)。而声音情绪的研究发现左侧颞中回不仅被声音选择性激活(Ceravolo,2013)；而且对语音信息敏感(Binder et al.1997)；同时还是情绪加工的重要脑区，既包括情绪与中性的比较(Leitman et al.2010; Regenbogen et al.2012)，也包括情绪间的对比(Numminen-Kontti, 2014)，还包括复杂情绪的理解(Alba-Ferrara et al. 2011)。曹林敬(2018)利用动态面孔、动态身体、声音和音乐刺激发现，左侧颞中回不仅可以跨模态(视觉和听觉)表征情绪信息，并且不受视觉(动态面孔和动态身体)和听觉(声音和音乐)模态内不同刺激的影响。综上所述，左侧颞中回在表情识别中扮演着普遍的角色，不论是在单模态刺激中还是在多模态刺激的比较中均发现了左侧颞中回的激活，但在不同载体中发挥的作用有所不同。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2.2右侧颞上回",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "近二十年来，研究者对颞上回及其周围区域进行了广泛的研究，大量的发现反而使得颞上回区域在人类大脑中的作用愈加神秘。Bukowski和Lamm(2018)系统总结了颞上回区域证据相对充分的功能，包括言语感知(Hickok＆ Poeppel,2007)、声音识别(Kriegstein& Giraud,2004)、音乐感知(Mitterschiffthaler et al.2007)、面孔处理(张琪 等,2015)、生物运动(Pelphreyet al.2005)、视听整合(Stevenson&James,2009)、自传体记忆和静息状态活动(Spreng& Grady,2010）、自我-他人归因(Sperduti et al.,2011)、心理理论和同情心以及个性(Olson et al.2007)等。研究发现，右侧颞上回不仅在单一刺激中被激活，也被动态面孔和身体(Goldberg et al.2015;Kret et al.2011)、动态面孔和声音情绪共同激活(Dricu& Frühholz,2016;Watson et al.2014)，并且在颞上回右后部有一个有限的部分，与物体相比，它对人的信息具有综合偏好(Watson etal.2014)。同时，来自精神分裂症、自闭症和注意缺陷多动障碍等的疾病研究也表明右后侧颞上回与患者的情绪识别缺陷有关(Alaerts et al.2013;Mier et al.,2016; Zuberer etal.2020)。当前研究再次证明了右侧颞上回在表情识别中的重要作用[对刺激进行感官处理之后理解和识别情绪(Dricu&Fruhholz,2016; Yang et al.2015)]，同时表明右侧上回可以跨动态面孔、动态身体和声音情绪三种模态表征情绪。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3对比分析：不同情绪载体分化的神经机制",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "尽管面孔、身体和声音都是社会关系建立和维持过程中不可或缺的交际信号，都可以导致对情绪状态的相同识别，但每种情绪载体都有自己可靠的特异性激活区域。整体来看，动态面孔非常突出，比动态身体和声音情绪更能引发大脑活动，涉及双侧颞中回、梭状回、海马旁回、小脑，左侧额下回、杏仁核，右侧颞上回、颞下回、额上回、中央前回和顶下小叶。与其它两种载体相比，动态身体调动了双侧颞中回、颞下回和梭状回，左侧颞上回、枕下回、舌回和楔叶以及右侧枕中回、豆状核和小脑的活跃。尽管视觉刺激更有优势，但声音情绪有其独特性，引起了双侧颞上回、颞横回、中央前回、脑岛和右侧颞中回的激活。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.3.1突出的动态面孔",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "与动态身体相比，动态面孔主要激活了右侧小脑、梭状回、海马旁回和中央前回。van deRiet 等人(2009)要求被试对静态面孔和身体表情进行分类，结果发现面孔比身体显著激活了小脑，当前研究将这一结论扩展到了动态面孔和身体。众所周知，梭状回是面孔识别的核心区域，对面孔进行特异性加工，Atkinson等人(2012)的研究对动态点光显示的面孔和身体进行对比，发现动态面孔相比于动态身体显著激活了双侧梭状回面孔区域。另一项研究(Kret etal.2011)将现实的威胁性动态面孔和身体进行比较，结果表明，与动态身体相比，动态面孔显著引起了海马的激活。中央前回则与动作观察和模仿有关，被认为是人类镜像神经元系统的一部分(Iacoboni et al.1999)。该系统通过模仿和学习提供了一种动作识别机制，将动作的感觉表征转化为相应的运动程序(Rizzolatti&Craighero,2004)。在大量的动态面孔表情研究中均发现中央前回对动态面孔表情具有强烈反应，既在动态面孔与静态面孔的对比中被激活(Foley et al.2012；Sato et al．2012)，也在动态情绪面孔和动态中性面孔的比较中被激活(Trautmann et al.2009;Wicker etal.2003)。但在动态身体表情的研究中鲜有类似发现。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "与声音情绪相比，动态面孔在双侧海马旁回、颞中回和小脑，左侧额下回和杏仁核以及右侧颞上回、颞下回、枕中回、枕下回、额上回、梭状回、中央前回和顶下小叶更活跃。张帆(2018)的研究表明，低级视觉皮层和面孔选择区(梭状回和颞上回)对面孔图片的激活大于声音情绪。其它研究利用动态刺激发现面孔比声音在双侧颞中回、左侧颞下回激活更强(Hasan et al.2016)。而 Aubé 等人(2015)在非言语发声的基础上加入了音乐情绪，结果发现动态面孔引起了枕叶、运动皮层、辅助运动区(supplementary motor area,SMA)和背外侧前额叶皮层(dorsolateral prefrontal cortex,DLPFC)的活跃。元分析则表明动态面孔比声音情绪在双侧海马旁回、杏仁核、梭状回、视觉联合区,左侧胼抵下回以及右侧壳核更活跃(Dricu&Frühholz,2016; Schirmer,2018)。最新的一项研究(Lin etal.2020)结果更为丰富：在双侧额中回，左侧梭状回、枕下回、扣带回和尾状核，右侧颞下回、中央后回、中央前回、缘上回(supramarginalgyrus，SG)、枕中回、楔叶和扣带前回均发现了动态面孔比声音情绪更活跃。综上所述，当前研究验证了以往的结果，同时还发现了双侧小脑和左侧额下回被激活。小脑的作用主要是协助大脑维持身体的平衡与协调，在感觉分辨中发挥重要作用(彭聘龄，2019)，因此，面孔作为身体的一部分比声音刺激在小脑更为活跃就不足为奇。与声音相比，动态面孔可能会产生更多需要协调的信息，因此需要自上而下的认知控制，所以，与认知过程相关的额下回区域也被激活(Arsalidou et al.2011; Christoff& Gabrieli,2000)。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.3.2重要的动态身体",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "对比分析结果表明，动态身体在动态效应、情绪效应、正性情绪效应和负性情绪效应下均比动态面孔更活跃，涉及左侧颞上回、枕下回、舌回、楔叶以及右侧枕中回和小脑。以往的研究(Atkinson et al.2012;Kret et al.2011)已经发现了动态身体相比动态面孔更占优势的脑区,例如颞上回、楔叶、舌回和 EBA,但没有发现小脑的活动。早在 2001年的研究中,Downing等人就发现了EBA对身体刺激敏感，但对面孔和其他刺激不敏感。颞上回的功能是负责整合人类复杂的动作信息(de Gelder et al.2014;Moro et al.2008)。楔叶和舌回主要参与情绪加工(Jastorff etal.2015;Kret et al.2011)。而小脑主要负责身体运动的视觉感知和动作理解(Sokolov etal.2010)。对于小脑在动态面孔 $_ \\mathrm { _ { i } > }$ 动态身体和动态身体 $>$ 动态面孔的对比中均被激活的原因有待进一步的研究。我们的初步推测是：小脑与动态面孔表情和动态身体表情的神经网络都有联系，在二者的情绪及动作加工中均发挥了作用，但小脑的不同部位各自负责面孔和身体。毕竟小脑是如此之大[最近发表在PNAS上的一项研究发现，人类的小脑几乎拥有新大脑皮层表面积的 $80 \\%$ (Sereno etal.2020)]、如此之复杂[划分为13个小叶(Stoodley&Schmahmann,2010)以及小脑脚、齿状核(dentate nucleus,DN)等诸多结构]，目前还没有研究很好地对小脑进行最全面的解剖学区域划分并对子区域的具体功能进行探讨。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "相较于声音情绪，动态身体在双侧颞中回、颞下回、梭状回，左侧颞上回、楔叶、舌回，右侧枕中回和豆状核显著激活。这说明 EBA不仅在区分身体表情和其他视觉刺激时起作用，也在区分声音情绪时活跃。此外，梭状回躯体区(fusiform body area,FBA)的功能似乎也被扩展了，不仅仅是负责身体和情绪信息加工(Goldberg,2015;Hodzic et al.2009)，可能也参与视听觉信息的分辨。结果显示，楔叶和舌回仅在动态身体中被发现激活更大，而没有在动态面孔和声音情绪中被发现，这提示我们，楔叶和舌回既是情绪加工的区域，也可能是身体表情加工新的特异性脑区。既往关于身体表情的研究虽然没有发现豆状核的激活，但报道了其组成部分之一的壳核被激活(de Gelder et al.2004;van de Riet et al.2009)，主要负责感知运动与行为信息。这些结果为之后的研究奠定了基础，但还需要相关研究的进一步佐证。据我们所知，目前还没有实证研究直接对比动态身体和声音情绪来探究二者之间神经机制的异同。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.3.3独特的声音情绪 ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "与动态面孔相比，声音情绪在双侧颞上回和脑岛以及左侧颞横回激活更大。如前文所述，双侧颞上回分布着对声音情绪进行特异性加工的区域：TVA，这与其他研究者的结果一致(Aubé et al.2015; Schirmer,2018)。脑岛的作用主要是声音情绪的认知表征和情绪探测，不仅在以往的元分析研究中被发现激活(Früholz et al.2016;Witeman et al.2012)，也在最近的一项声音情绪与动态面孔的实证比较中被发现激活(Lin etal.2020)。颞横回主要负责身份信息的感知加工，是整合模型的重要组成部分(Maguinnessetal.2018)。与动态身体相比，声音情绪激活了双侧颞上回、颞横回、中央前回，左侧脑岛和右侧颞中回。以上发现共同证明了TVA 是听觉信息加工的重要特异性脑结构，能够很好的区分声音情绪与动态面孔和身体。此外，颞横回和脑岛除了本身所具有的功能之外也可能是声音情绪加工的又一特异性脑区。颞中回则在情绪处理和身份信息表征中扮演着重要角色(Friederici&Alter,2004;Roswandowitz et al.2017)。中央前回作为额叶情绪处理区域的一部分，在情绪处理中发挥着重要作用(Brattico et al. 2011; Fecteau et al. 2007; Numminen-Kontti, 2014)。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "同时，本研究存在着一些局限。其一，未对纳入被试的年龄范围加以严格限制。尽管以往的 ALE元分析研究也纳入了少量的儿童/青少年或老年被试(Arsalidou et al.2020;Ran &",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Zhang,2018)，但年龄是一个重要的影响因素，不同的年龄阶段可能会带来结果的不一致。因此，将来的研究应该对被试的年龄加以严格限制，针对特定的年龄阶段进行元分析，并可比较不同年龄段之间的异同。其二，由于相关研究的数量较少，难以达到 ALE 元分析对实验对比的基本要求(Eickhoff et al.2017;Eickhoff et al.2009)，因而未针对具体的情绪类型(如愤怒、恐惧、厌恶等)进行分析。今后的元分析应该在有足够数据的情况下对每种情绪类型的神经机制进行探究，并分析同一种情绪类型在不同情绪载体之间神经活动的异同。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我们的研究结果验证和拓展了三种情绪载体的现有神经模型，探明了三者之间神经机制的异同。三项单一元分析显示，动态面孔表情的大脑活动包括广泛的额叶、枕叶、颞叶和部分顶叶皮层以及海马、小脑、丘脑、杏仁核等皮层下区域；动态身体的激活集中于颞/枕叶相关脑区以及小脑和海马；声音情绪则引起了颞叶、额叶、杏仁核和脑岛的激活。联合分析表明三种情绪载体跨模态激活了左侧颞中回和右侧颞上回。对比分析结果证明了视觉刺激比听觉刺激更占优势，尤其以动态面孔表情最为突出，同时动态身体表情也发挥着重要作用，但声音情绪有其独特性。未来的研究应进一步验证和延伸这些发现；探究不同年龄阶段情绪加工的神经机制及其异同;对具体情绪类型的脑机制及同一种情绪在不同载体之间神经活动的相似性与差异性进行研究；并探讨不同脑区之间的连接以及同一脑区的不同功能；同时要注意重点关注动态身体表情的神经基础。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "\\*表示纳入元分析的文献  \n曹林敬.(2018).基于视觉和听觉激活模式的跨模态情绪表征机制研究 (硕士学位论文).天津大学.  \n彭聘龄.(主编).(2019).普通心理学.北京师范大学出版社.  \n张帆.(2018).视觉和听觉通道情绪知觉神经机制的异同 (硕士学位论文).西南大学，重庆.  \n张琪，尹天子，冉光明.(2015).动态面孔表情优势效应的心理机制及神经基础．心理科学进展,23(9),1514-1522.  \n周临舒，赵怀阳，蒋存梅.(2017).音乐表演训练对神经可塑性的影响：元分析研究．心理科学进展，25(11),1877-1887.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Alaerts，K.，Woolley，D.G.， Steyaert,J.，Di Martino，A.，Swinnen，S.P.，& Wenderoth，N.(2013). Underconnectivity of the superior temporal sulcus predicts emotion recognition deficits in autism. Social ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Cognitive and AffectiveNeuroscience, 9(10), 1589-1600. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "\\*Alba-Ferrara,L.,Hausmann,M.,Mitchel,R.L.,& Weis,S. (2ol1).The neural correlates ofemotional prosody comprehension: Disentangling simple from complex emotion. PLoS ONE, 6(12), e28701. https:/doi.org/10. 1371/journal.pone.0028701   \n\\*Arsalidou, M., Morris,D.,& Taylor, M. J. (2011). Converging evidence for the advantage of dynamic facial expressions. Brain Topography, 24(2),149-163.   \nArsalidou, M., Vijayarajah, S.,& Sharaev,M.(2O2O).Basal ganglia lateralization indifferent types of reward. Brain Imaging and Behavior, 14(6),2618-2646.   \nAtkinson,A.P.,Tunstal,M.L.&Ditrich,W.H. (2o07).Evidence for distinctcontributionsofformand motion information to the recognition of emotions from body gestures. Cognition, 104(1), 59-72.   \nAtkinson,A. P., Vuong,Q.C.,& Smithson, H.E. (2012). Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli. NeuroImage,59(2),1700-1712.   \n\\*Aubé,W.，Angulo-Perkins,A.,Peretz,I., Concha,L.，& Armony, J.L. (2015).Fear acrossthe senses: Brain responses to music,vocalizations and facial expressions.Social Cognitive and Affctive Neuroscience,10(3), 399-407.   \nBelin,P.,Fecteau, S.,& Bédard, C.(2004).Thinking the voice: Neural correlatesof voice perception. Trends in Cognitive Sciences, 8(3),129-135.   \nBestelmeyer,P.E.G.,Maurage,P.,Rouger,J.,Latinus,M.,&Belin,P.(2014).Adaptation to vocal expresions reveals multistep perception of auditory emotion. Journal of Neuroscience, 34(24), 8098-8105.   \nBinder,J.R.,Frost,J.A.,Hammeke,T.A.,Cox,R. W.,Rao,S.M.,& Prieto,T. (1997). Human brain language areas identified by functional magnetic resonance imaging. Journal of Neuroscience, 17(1),353-362.   \n\\*Bratico,E,Alluri, V.,Bogert,B.,Jacobsen,T.，Vartiainen,N.,Nieminen,S.,& Tervaniemi,M. (2011).A functional MRI study of happy and sad emotions in music with and without lyrics.Frontiers in Psychology, 2, 308. https://doi.0rg/10.3389/fpsyg.2011.00308   \nBukowski, H.,& Lamm, C. (2018). Superior Temporal Sulcus. In V. Zeigler-Hill& T. K. Shackelford (Eds.), Encyclopedia of Personality and Individual Diferences (pp.1-5). Springer International Publishing.   \nCalvert,G.A.,Brammer,M.J.,& Iversen,S.D.(1998). Crossmodal identification.Trends in Cognitive Sciences, 2(7),247-253.   \n\\*Ceravolo,L. (2013). Neuroimaging and spatio-temporal dynamics of the localization and spatial attentional modulation by angry prosody (Unpublished doctorial dissertation). Université de Geneve. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Christoff,K.,& Gabrieli,J.D.E. (2ooo).The frontopolarcortex and human cognition: Evidence forarostrocaudal hierarchical organization within the human prefrontal cortex.Psychobiology,28(2),168-186. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "de Gelder, B. (2006). Towards the neurobiology of emotional body language. Nature Reviews Neuroscience,7, 242-249.   \nde Gelder,B.(2o09). Why bodies? Twelve reasons for including bodily expressions in affective neuroscience. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1535),3475-3484.   \nde Gelder,B.(2015). Emotions and the body. Oxford University Press.   \nde Gelder,B.,de Borst, A. W.,& Watson,R. (2014). The perception of emotion in body expressions. Wiley Interdisciplinary Reviews: Cognitive Science, 6(2),149-158.   \nde Gelder B., Meeren H. K.,RighartR., van den Stock J., van de Riet W.A.,& Tamieto M. (2006).Beyond the face: Exploring rapid influences of context on face processing. Progress in brain research,155,37-48.   \nde Gelder,B.,& Partan,S.(2009). The neural basis of perceiving emotional bodily expressions in monkeys. Neuroreport, 20(7),642-646.   \nDowning,P.E., Jiang,Y., Shuman,M.,& Kanwisher,N.(2Oo1).Acortical area selective for visual processingof the human body. Science, 293(5539),2470-2473.   \nDricu,M.，& Fruhholz, S. (2016). Perceiving emotional expressions in others: Activation likelihood estimation meta-analyses of explicit evaluation, passve perception and incidental perception of emotions.Neuroscience & Biobehavioral Reviews, 71,810-828.   \nEickhoff,S.B.,Laird,A.R.,Fox,P.M.,Lancaster,J.L.,& Fox,P.T. (2017).Implementation errors in the GingerALE software: Description and recommendations. Human Brain Mapping, 38(1), 7-11.   \nEickhoff,S.B.,Laird,A.R.,Grefkes,C.,Wang,L.E,Zilles,K.,&Fox,P.T. (2009).Coordinate-basedactivation likelihood estimation metaanalysis of neuroimaging data: A random-eects approach based on empirical estimates of spatial uncertainty. Human Brain Mapping, 30(9),2907-2926.   \n\\*Fecteau,S.， Belin,P.,Joanete,Y.，& Armony,J.L. (2007). Amygdala responses to nonlinguistic motional vocalizations. Neuroimage, 36(2), 480-487.   \n\\*Foley,E.,Rippon,G.,Thai,N.J.,Longe,O.,& Senior, C.(2012).Dynamic facial expressions evoke distinct activation in the face perception network: A connectivity analysis study. Journal of Cognitive Neuroscience, 24(2),507-520.   \nFriederici, A.D.,& Alter, K. (2O04).Lateralization of auditory language functions: A dynamic dual pathway model. Brain and Language, 89(2), 267-276.   \nFruholz,S.,& Grandjean,D.(2Ol3).Multiple subregions in superior temporal cortexare differentially sensitive to vocal expressions: A quantitative meta-analysis.Neuroence & Biobehavioral Reviews,37(1),24-35.   \nFruhholz,S.， Trost,W.，& Kotz,S.A.(2016).The sound of emotions-towards a unifying neural network perspective of affective sound processing. Neuroscience & Biobehavioral Reviews, 68, 96-110.   \nGiese,M. A. & Poggio,T. (2003). Neural mechanisms for the recognition of biological movements. Nature Reviews Neuroscience, 4(3),179-192.   \nGoldberg,H.,Christensen,A.,Flash,T.，Giese,M.A.& Malach,R.(2015).Brain activity correlates with emotional perception induced by dynamic avatars. NeuroImage, 122,306-317.   \n\\*Grezes,J.,Pichon, S.,& de Gelder,B.(207).Perceiving fear indynamic body expresions.Neurolmage,35(2), 959-967.   \nHasan,B.A. Shiekh., Valdes-Sosa,M., Gros,J.,& Belin,P. (2016).“Hearing facesand seeing voices\": Amodal coding of person identity in the human brain. Scientific Reports, 6(1),1-8.   \nHaxby, J. V.,Hoffman,E.A.,& Gobbini, M.I. (2oo). The distributed humanneural system for face perception. Trends in Cognitive Sciences, 4(6),223-233.   \nHeberlein,A. S.，& Atkinson,A.P.(2o09). Neuroscientific evidence for simulation and shared substrates in emotion recognition: Beyond faces. Emotion Review, 1(2),162-177.   \nHickok,G.,& Poeppel, D.(20o7).The cortical organization of speech processing. Nature Reviews Neuroscience, 8(5),393-402.   \nHodzic,A.,Kaas,A.,Muckli,L.,Stirn,A.,& SingerW. (20o9).Distinctcortical networks for the detection and identification of human body. Neurolmage, 45(4),1264-1271.   \nIacoboni，M.，Woods,R.P.，Brass,M.，Bekkering,H.，Mazziotta,J.C.，and Rizzolatti，G.(1999).Cortical mechanisms of human imitation. Science,286(5449),2526-2528.   \n\\*Jastorff,J.，Huang,Y. A.，Giese,M.A.,& Vandenbulcke,M. (2015). Common neural corelatesof emotion perception in humans. Human Brain Mapping, 36(10), 4184-4201.   \n\\*Kilts,C.D.,Egan,G., Gideon,D.A.,ElyT.D.,& Hoffman,J. M. (2003). Dissociable neural pathways are involved in the recognition of emotion instatic and dynamic facial expressons.Neurolmage,18(1),156-168.   \nKlapper，A.，Dotsch,R.，Van Rooij,1.，& Wigboldus,D.H.J. (2016).Do we spontaneously form stable trustworthinessimpressions from facialappearance? Journal of Personality and Social Psychology,ll1(5),655- 664.   \nKralee R M Frevhero R & Morsella F (20n2) Inferring cneakere’ nhvcical attrihutes from their vnicee ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Journut oj Experimeniut sociat rsycnoiogy, So(o), o1o-0z5.   \nKriegstein,K.V.,& Giraud,A.L.(2004). Distinct functional substrates along the right superior temporal sulcus for the processing of voices. Neuroimage, 22(2), 948-955.   \nKret,M.E.,Pichon,S., Grezes,J.,&de Gelder,B.(2O11).Similarities anddifferences in perceiving threat from dynamic faces and bodies. An fMRI study. NeuroImage, 54(2),1755-1762.   \n\\*Leitman,D.I.,Wolf,D.H.,Ragland,J.D,LaukkaP.,Loughead,J.,Valdez,J.N...Gur,R.C. (2o).t's nt what you say, but how you say it\": A reciprocal temporo-frontal network for affective prosody. Frontiers in Human Neuroscience, 4,19. https://doi.org/10.3389/fnhum.2010.00019   \nLin,H.,Muller-Bardorff,M.,Gathmann,B.,Brieke,J.,& Straube,T.(202O).Stimulus arousal drivesamygdalar responses to emotional expressions across sensory modalities. Scientific Reports,10(1), 1898.   \nMagnée,M.J., Stekelenburg J.J., Kemner C.,& de Gelder B. (2007). Similar facial electromyographic responses to faces, voices,and body expressions. Neuroreport,18(4),369-372.   \nMaguinness, C. Roswandowitz, C.,& von Kriegstein, K. (2018). Understanding the mechanisms of familiar voiceidentityrecognition in the human brain. Neuropsychologia, l16,179-193.   \nMier,D.,Eisenacher,S.,Rausch,F.,Englisch,S.,Gerchen,M.F.,Zamoscik,V...Kirsch,P.(2o16).Abrant activity and connectivity of the posterior superior temporal sulcus during social cognition in schizophrenia. European Archives of Psychiatry and Clinical Neuroscience, 267(7), 597-610.   \n\\*MiterschiftalerM.T.,Fu,C.H.Y.,Dalton,J.A.,Andrew,C.M.,& Williams,S.C.R.(207). Afunctional MRI study of happy and sad affective states induced by classical music. Human Brain Mapping, 28(11),1150- 1162.   \nMoro,V.,Urgesi,C,Pernigo,S.,Lanteri,P.,Pazzaglia,M.,&Aglioti,S.M.(2Oo8).Theneuralbasis ofbodyform and body action agnosia. Neuron, 60(2), 235-246.   \nMorison,I. (2016). ALE meta-analysis reveals dissciable networks for affctive and discriminative aspects of touch. Human Brain Mapping,37(4),1308-1320.   \n\\*Numminen-Konti, T. (2014). Personality affects musical emotion processing: An fMRI-study (Unpublished master's thesis). University of Helsinki.   \nOlson, I. R., Plotzker,A.,& Ezzyat, Y. (2oo7). The enigmatic temporal pole: Areview of findings on social and emotional processing. Brain,130(7),1718-1731.   \n\\*Peelen,M.V., Atkinson,A.P.,& Vuileumier,P.(20l0).Supramodal representations ofperceived emotions in the human brain. Journal of Neuroscience, 30(30),10127-10134. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Pelphrey,K.A.,Morris,J.P.,Michelich,C.R.，Alison,T.，& McCarthy,G.(2005).Functional anatomy of biological motion perception in posterior temporal cortex: An fMRI study of eye, mouth and hand movements. Cerebral Cortex,15(12),1866-1876. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Pisanski,K., Cartei,V.,cgetigan,C.,Raine,J.,&Reby,D. (2016). Voice modulation: A window into the origins of human vocal control? Trends in Cognitive Sciences,20,304-318.   \n\\*Poyo Solanas,M.， Vaessen, M.，& de Gelder, B. (2020). Computation-based feature representation of body expressions in the human brain. Cereb Cortex,30(12),6376-6390.   \nRan, G.,& Zhang, Q. (2018). The neuralcorrelates of atachment style during emotional processing: An activation likelihood estimation meta-analysis. Attachment & Human Development, 20(6), 626-633.   \n\\*Regenbogen, C. Schneider,D.A., Gur,R.E.,Schneider,F., Habel, U.,& Kelermann,T. (2012). Multimodal human communication-targeting facial expresions, speech content and prosody. Neurolmage, 60(4), 2346- 2356.   \nRitchie,K.L.，Palermo,R.,& Rhodes,G. (2017). Forming impressions of facial atractiveness is mandatory. Scientific Reports, 7(1), 1-8.   \nRizzolati, G. & Craighero,L. (20o4).The mirror-neuron system. Annual Review of Neuroscience,27(1),169- 192.   \nRoswandowitz, C.， Schelinski, S.，& Kriegstein,K.V. (2017). Developmental phonagnosia: Linking neural mechanisms with the behavioural phenotype. Neuroimage, 155, 97-112.   \nSarkheil,P., Goebel,R.,Schneider,F.,& Mathiak,K. (20l3).Emotionunfoldedby motion: Arole forparietal lobe in decoding dynamic facial expressions. Social Cognitive and Affective Neuroscience, 8(8), 950-957.   \n\\*Sato, W., Kochiyama, T.,& Yoshikawa, S. (2010). Amygdala activity in response to forward versus backward dynamic facial expressions.Brain Research,1315, 92-99.   \n\\*Sato,W.,Toichi, M.,Uono,S.,& Kochiyama,T. (20l2). Impaired social brain network for processing dynamic facial expressions in autism spectrum disorders. BMC Neuroscience,13(1),1-17.   \nScherer, K. R. (1995). Expression of emotion in voice and music. Journal of Voice, 9(3),235-248.   \nScherer,K.R.,Johnstone,T.,& Klasmeyer,G. (2003). Vocal expression of emotion. In R. J. Davidson,H.H. Goldsmith & K. Scherer (Eds.), Handbook of the affctive sciences (pp.433-456). Oxford University Press.   \nSchirmer,A. (2o18). Is the voice an auditory face? An ALE meta-analysis comparing vocal and facial emotion processing. Social Cognitive and Affective Neuroscience, 13(1),1-13.   \nSchirmer, A.,& Kotz, S.A.(2006). Beyond the right hemisphere: Brain mechanisms mediating vocal emotional ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "processing.Trendsin Cognitive Sciences,10(1),24-30. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Schwarzlose,R.F.,Baker, C.I.,& Kanwisher,N.(2Oo5).Separate face and body selectivity on the fusiform gyrus. Journal of Neuroscience, 25(47), 11055-11059. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Sereno,M.1.,Diedrichsen,J.,Tachrount,M.,Testa-Silva,G.,& Zeeuw, C.D.(202O).The human cerebellm has almost $80 \\%$ of the surface area of the neocortex. Proceedings of the National Academy of Sciences， 117(32), 19538-19543.   \nSinke,C.B.,Kret,M.E.,de Gelder,B., (20l2).Body language: Embodied perception of emotion. In: Berglund,B., Rossi，G.B.， Townsend,J. T.，Pendrill,L.R. (Eds.)，Measuring With Persons: Theory，Methods and Implementation Areas (pp.335-352). Psychology Press/Taylor & Francis.   \nSokolov,A. A., Gharabaghi, A., Tatagiba,M. S.,& Pavlova, M. (2010). Cerebellar engagement inan action observation network. Cereb Cortex, 20(2), 486-491.   \nSperduti,M.,Delaveau,P.,Fossati,P.,&Nadel,J. (2o11).Differentbrain structuresrelated toself-and exteral agency atribution: A brief review and meta-analysis.Brain Structure and Function, 216(2),151-157.   \nSpreng,R.N.,& Grady, C.L. (2010).Patterns ofbrain activity supporting autobiographical memory, prospection, and theory of mind,and their relationship to the default mode network. Journal ofcognitive neuroscience, 22(6), 1112-1123.   \nStevenson,R.A.,& James,T.W. (2009). Audiovisual integration in human superior temporal sulcus: Inverse effectiveness and the neural processing of speech and object recognition. Neuroimage, 44(3),1210-1223.   \nStoodley, C.J.,& Schmahmann, J. D. (2010). Evidence for topographic organization in the cerebelum of motor control versus cognitive and affective processing. Cortex, 46(7), 831-844.   \nTamieto,M.,Cauda,F.,Celeghin,A.,Diano,M.,Costa,T.,Coss,F.M.,..de Gelder,B. (2015).Once youfeelit, you see it: Insula and sensory-motor contribution to visual awareness for fearful bodies in parietal neglect. Cortex, 62,56-72.   \n\\*Trautmann,S.A.,Fehr, T.,& Herrmann, M. (20o9).Emotions in motion: Dynamic compared to static facial expressions of disgust and happiness reveal more widespread emotion-specific activations. Brain Research, 1284,100-115.   \nTurkeltaub,P.E.,EickhoffS.B.,Laird,A.R.,Fox,M.,Wiener,M.，& Fox,P.(2012). Minimizing withinexperiment and within-group efects in activationlikelihood estimation meta-analyses.Human Brain Mapping, 33(1), 1-13.   \nvan de Riet,W.A., Grezes,J.，& de Gelder,B. (2009).Specific and common brain regions involved in the perception offaces and bodies and the representation of their emotional expressions. Social Neuroscience, 4(2), 101-120.   \nWatson,R.,Latinus,M.,Charest,I.,Crabbe,F.,&Belin,P. (2014).People-selectivity,audiovisual integrationand heteromodality in the superior temporal sulcus. Cortex,50,125-136.   \nWaters,K.,& Terzopoulos,D.(199o,January).A physical model of facial tisse and muscle articulation. In Proceedings of the First Conference on Visualization in Biomedical Computing (pp. 77-78). IEEE Computer Society.   \n\\*Wicker,B.,Keysers,C.,Plaily,J.,Royet,J.P.,Gallse,V.,&Rizzolati,G. (2o3).Bothofus disusted inmy insula: The common neural basis of seeing and feeling disgust. Neuron, 40(3), 655-664.   \nWiteman,J.,VanHeuven,V.J.P.,&Schiller,N.O.(2Ol2).Hearing felings: Aquantitative meta-analysison the neuroimaging literature of emotional prosody perception. Neuropsychologia, 50(12),2752-2763.   \nXu,J.,Lyu,H.,Li,T.,Xu,Z.,Fu,X.,Jia,F.,..Hu,Q. (2o19).Delineating functional segregations of thehuman middle temporal gyrus with resting-state functional connectivity and coactivation patterns. Human Brain Mapping,40(18),1-13.   \nYalpe, Z.,& Arsalidou,M. (2018). N-back working memory task.Meta-analyses of normative fMRI studies with children. Child Development, 89(6),2010-2022.   \nYang,D. Y.J.，Rosenblau,G.，Keifer, C.，& Pelphrey，K.A. (2015).An integrative neural model of social perception,action observation,and theory of mind. Neuroscience & Biobehavioral Reviews,51,263-275.   \nYarkoni,T. (2009).Bigcorrelations in litle studies: Inflated fMRI correlations reflect low statistical powerCommentary on Vul et al. (2009). Perspectives on Psychological Science, 4(3),294-298.   \nYarkoni,T.,Poldrack,R. A.,Nichols,T.E.,van Essen,D. C.,& Wager,T.D. (2011).Large-scale automated synthesis of human functional neuroimaging data. Nature Methods,8(8), 665-670.   \nZieber,N., Kangas.A., Hock,A.,& Bhat,R.S. (2014). Infants's perception of emotion from body movements. Child Development, 85(2), 675-684.   \nZinchenko,O., Yaple, Z.A.,& Arsalidou, M. (2018). Brain responses to dynamic facial expressions: A normative meta-analysis. Frontiers in Human Neuroscience,12,227. https://doi.org/10.3389/fnhum.2018.00227   \nZuberer,A.,Schwarz,L.,Kreifelts,B., Wildgruber,D.,Erb,M.,Falgater,A.,..Ethofer,T. (202). Neuralbasis of impaired emotion recognition in adult atention deficit hyperactivity disorder. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. https://doi.org/10.1016/j.bpsc.2020.11.013 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The neural activities of different emotion carriers and their similarities and differences-—A meta-analysis of functional ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "neuroimaging studies ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "LIU Juncai1,RAN Guangming1,ZHANG Qi² (1.Departmentof PsychologySchoolofEducation,China West Normal UniversityNanchong 637002;2.College ofPreschool and Primary Education,China West Normal University,Nanchong 637002) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Emotion recognition has always been a hot topic in psychology. Although some studies have explored the brain mechanisms of dynamic facial expressions, dynamic bodily expressions and emotional voices, the overall understanding of each emotion carrier is relatively incomplete, and the commonalities and differences of neural mechanisms among different emotion carriers were still poorly known. First, this study used three separated meta-analyses to identify the brain regions activated by each emotion pattern, and then, conjunction and contrast analysis of these activation maps were used to assess common and unique neural activity between the thre emotion carriers. The results showed that the brain activity of dynamic facial expressions including extensive frontal, occipital, temporal and partial parietal cortices,as well as subcortical regions, such as hippocampus,cerebellum, thalamus and amygdala. The activation of dynamic bodily expressions was concentrated in temporal/occipital regions， cerebellum and hippocampus. Emotional voices activated the temporal, frontal,amygdala and insula. Conjunction analysis suggested that the left middle temporal gyrus (MTG) and the right superior temporal gyrus (STG) were activated by three emotion carrier across the modalities.The results of the contrast analysis proved that the visual stimuli were more advantaged than the auditory stimuli, especially the dynamic facial expressions, of course the dynamic bodily expressions also played an important role. However, the emotional voices had their own uniqueness. In sum, these findings validate, support, and extend the existing neural models of the three emotion carriers, revealing the central, universal region of the emotional processing, but with each emotion carrier relying on its own reliable specific neural circuits. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Key words: emotion carriers, dynamic facial expressions, dynamic bodily expressions, emotional voices,ALE meta-analysis ",
+        "page_idx": 27
+    }
+]

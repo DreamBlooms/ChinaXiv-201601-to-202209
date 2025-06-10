@@ -1,0 +1,573 @@
+[
+    {
+        "type": "text",
+        "text": "Yukawa corrections to top pair production in photon-photon collision ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chong Sheng Li $\\mathbf { \\omega } _ { a , b , e } ^ { }$ , Jin Min Yang $^ { a , c }$ , Yun-lun Zhu $^ { a , b , f }$ and Hong Yi Zhou $^ { a , d }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（20 $a$ CCAST(World Laboratory) P.O.Box 8730,Beijing 100080, P.R.China （20 $\\boldsymbol { b }$ Department of Physics, Peking University, Beijing 100871, P.R.China\\* $c$ Physics Department, Henan Normal University, Xin Xiang,Henan 453002, P.R.China\\* （20 $d$ Physics Department, Tsinghua University, Beijing 100084, P.R.China\\* $e$ E-mail: csli@svr.bimp.pku.edu.cn f E-mail: zhuyl@sun.ihep.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa corrections to top pair production in photon-photon collision are calculated in the standard model (SM),the general two-Higgs-doublet model (2HDM) as well as the minimal supersymmetric model (MSSM).We found that the correction to the cross section can only reach a few percent in the SM,but can be quite significant $( > 1 0 \\%$ ） in the 2HDM and MSSM for favorable parameter values,which may be observable at the high energy $e ^ { + } e ^ { - }$ colliders. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number: 14.65.Ha; 12.38Bx; 14.80.Cp ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, the evidence for top quark production,with a mass of $1 7 6 \\pm 8 ( s t a t ) \\pm 1 0 ( s y s t )$ GeV and $1 9 9 _ { - 2 1 } ^ { + 1 9 } ( s t a t ) \\pm 2 2 ( s y s t )$ GeV has been reported by the CDF and DO collaboration, respectively [1]. Due to its large mass,the discovery of the top quark will open a number of new and interesting issues, such as the precision measurement of the mass, width and Yukawa couplings of the top quark through its direct production and subsequent decay at both hadron and $e ^ { + } e ^ { - }$ colliders. But even with $1 0 0 0 p b ^ { - 1 }$ of luminosity, the Fermilab Tevatron could determine the top mass to 5 GeV or better[2]. At the future multi-TeV proton colliders such as the CERN Large Hadron Collider (LHC), $t \\bar { t }$ production will be enormously larger than the Tevatron rates, but the accuracy with which the top mass can be measured in proton colliders is limited to about $2 \\sim 3$ GeV[2]. Bloude et al.[3],have argued that one must know the top mass to 1 GeV to take full advantage of the constraints that precision electroweak measurements put on the Higgs boson and other massve particles which might contribute to electroweak loops. Beyond this, it would be wonderful to make a precision measurement fo the basic parameter $m _ { t }$ to 0.3GeV or better for looking for new physics beyond the SM by the loop processes which are sensitive to $m _ { t }$ . At the next-generation linear collider (NLC) operating at a center-of-mass energy of 500 GeV-200o GeV with a luminosity of the order of $1 0 ^ { 3 3 } c m ^ { - 2 } s ^ { - 1 }$ ，the $e ^ { + } e ^ { - } \\to t \\bar { t }$ events rate would be around $1 0 ^ { 4 } / y r$ ， comparable with the Tevatron, however the events would be much cleaner and top parameters would be easier to extract. At the NLC a top mass measurement with statistical uncertainty $0 . 3 \\mathrm { \\ G e V }$ from （204号 $1 0 f b ^ { - 1 }$ luminosity is expected[2] and it is possible to separately measure all of the various production and decay from factors of the top quark at the level of a few percent[4]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nowadays, the possibility of transforming a linear $e ^ { + } e ^ { - }$ collider into a $\\gamma \\gamma$ collider deserves a lot of attention. With the advent of the new collider technique[5] the colision of high energy,high intensity photon beams，obtained by using the old idea of Compton laser backscattering[6],can be realized in the NLC. The back-scattering of laser photons off the colliding electron and positron beams can yield intense and energetic photon beams which then collide with the high luminosity. There are many uses for such high photon-photon luminosity, one of the most important may be for the production of top quark paris. It has been found[7] that $t \\overline { { t } }$ production in $\\gamma \\gamma$ collisions realized by laser back-scattering is slightly larger than the direct $e ^ { + } e ^ { - } \\to t \\bar { t }$ production for $m _ { t } < 1 3 0$ GeV at $\\sqrt { s } = 0 . 5 T e V$ ，and at $\\sqrt { s } = 1 T e V$ the production of $\\gamma \\gamma \\to t \\bar { t }$ is much larger than $e ^ { + } e ^ { - } \\to t \\overline { { t } }$ for $m _ { t } \\sim$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "100 - 200 GeV both with and without considering the threshold QCD efect. In the SM, the cross section for top quark pair productions in $\\gamma \\gamma$ collisions have been calculated with higher order QCD correction[8]. The radiative corrections to $\\gamma \\gamma t { \\overline { { t } } }$ from final state Higgs exchange interactions has also computed in Ref.[9]. The correction is of order $O ( 2 - 4 \\% )$ for typical values of the Higgs boson mass and top quark mass. In this paper we calculate the （204 $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa correction in a two Higgs doublet model (2HDM)(Model II)[10] and in the minimal supersymmetric model(MSSM) ,in which there are three neutral and two charged physical Higgs bosons, $H , h , A , H ^ { \\pm }$ , of which $H$ and $h$ are CP-even and $A$ is CPodd. The $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa correction arise from the virtual effects of the third family (top and bottom) quarks, charged and neutral Higgs bosons,as wellas the Goldstone bosons （204号 $( G ^ { 0 } , G ^ { \\pm } )$ . The results of the standard model can be obtained from our calculations as a special case. In Sec. II, we present the analytic results in terms of the well-known standard notation of one-loop Feynman integrals. In Sec. III, we present some numerical examples and discuss the implication of our results. And in the appdendix we list the form factors in the cross section. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Calculations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The relavent Feynman diagrams are shown in Fig.1 and the Feynman rules can be found in Ref.[10]. In our calculation, we use dimensional regularization to regulate all the ultraviolet divergences in the virtual loop corrections and we adopt the on-mas-shell renormalization scheme[11]. In our calculations we keep the term $m _ { b } \\tan \\beta$ in the in the charged Higgs couplings to third family quarks since its effects become rather important for large tan $\\beta$ Taking into account the $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa corrections, the renormalized amplitude for $\\gamma \\gamma  t \\bar { t }$ is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { M _ { r e n } } } & { { = } } & { { M _ { r e n } ^ { ( t ) } + M _ { r e n } ^ { ( u ) } , } } \\\\ { { } } & { { } } & { { M _ { r e n } ^ { ( t ) } } } & { { = } } & { { M _ { 0 } ^ { ( t ) } + \\delta M ^ { ( t ) } } } \\\\ { { } } & { { } } & { { = } } & { { M _ { 0 } ^ { ( t ) } + \\delta M ^ { s ( t ) } + \\delta M ^ { v ( t ) } + \\delta M ^ { b ( t ) } + \\delta M ^ { \\Delta ( t ) } , } } \\\\ { { } } & { { } } & { { M _ { r e n } ^ { ( u ) } } } & { { = } } & { { M _ { r e n } ^ { ( t ) } ( p _ { 3 } \\left. p _ { 4 } , \\hat { t } \\right. \\hat { u } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { 0 }$ is the amplitude at tree level, $\\delta M ^ { s } , \\delta M ^ { v }$ $\\delta M ^ { b }$ and $\\delta M ^ { \\Delta ( t ) }$ represent the $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa corrections arising from the self energy diagram Fig.1(d), vertex diagram Fig.1(f)-(i), box diagrams Fig.1(l)-(n) and digrams Fig.1(j),(k), respectively. $\\hat { t } = ( p _ { 4 } - p _ { 2 } ) ^ { 2 }$ ， $\\hat { u } = ( p _ { 1 } - p _ { 4 } ) ^ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and $p _ { 3 } ( p _ { 4 } )$ denote the momentum of the two incoming photons,and $p _ { 2 } ( p _ { 1 } )$ are momentum of the outgoing t quark and its antiparticle. The explicit forms of these matrix elements are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\lambda _ { 2 } ^ { \\mathrm { G F } } } & { = - \\frac { \\nu ^ { 2 } } { 1 - \\nu ^ { 2 } } \\frac { \\nu ^ { 2 } + 2 } { \\nu ^ { 2 } } \\nu \\mathbb { E } _ { 2 } \\nu \\mathbb { E } _ { 2 } \\nu \\mathbb { E } _ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } } \\\\ { \\lambda _ { 2 } ^ { \\mathrm { G F } } } & { = - \\frac { \\nu ^ { 2 } } { \\nu ^ { 2 } } \\mathbb { E } _ { 2 } ^ { 2 } \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } \\nu \\mathbb { E } _ { 2 } ^ { 2 } } \\\\  \\lambda _  2  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The form factors $f _ { i } ^ { s } , f _ { i } ^ { v } , f _ { i } ^ { b }$ are presented in Appendix A ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The corresponding amplitude squared can be written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\overline { { { \\sum } } } | M _ { r e n } | ^ { 2 } } } & { { = } } & { { \\displaystyle et { } { ' } { \\sum } | M _ { 0 } | ^ { 2 } + 2 R e \\overline { { { \\sum } } } \\big ( \\delta M ^ { ( t ) } M _ { 0 } ^ { ( t ) ^ { \\dagger } } + \\delta M ^ { ( t ) } M _ { 0 } ^ { ( u ) ^ { \\dagger } } + \\delta M ^ { ( u ) } M _ { 0 } ^ { ( t ) ^ { \\dagger } } } } \\\\ { { } } & { { } } & { { \\displaystyle + \\delta M ^ { ( u ) } M _ { 0 } ^ { ( u ) ^ { \\dagger } } \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\overline { { \\Sigma } } \\delta M ^ { ( t ) } M _ { 0 } ^ { ( t ) ^ { \\dag } }$ is given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { \\displaystyle \\overline { { { \\sum } } } \\delta { \\cal M } ^ { ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } } & { = } & { \\displaystyle \\delta { \\cal M } ^ { s ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } + \\delta { \\cal M } ^ { v ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } + \\delta { \\cal M } ^ { b ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } + \\delta { \\cal M } ^ { \\Delta ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\overline { { { \\sum } } } \\delta { \\cal M } ^ { s ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } } } & { { = } } & { { \\frac { \\pi \\alpha ^ { 3 } m _ { t } ^ { 2 } Q _ { t } ^ { 2 } } { 4 m _ { W } ^ { 2 } s _ { W } ^ { 2 } ( \\hat { t } - m _ { t } ^ { 2 } ) } ( f _ { 2 } ^ { s } { \\cal H } _ { 2 } + f _ { 6 } ^ { s } { \\cal H } _ { 6 } + f _ { 1 2 } ^ { s } { \\cal H } _ { 1 2 } ) , } } \\\\ { { \\overline { { { \\sum } } } \\delta { \\cal M } ^ { v ( t ) } { \\cal M } _ { 0 } ^ { ( t ) ^ { \\dagger } } } } & { { = } } & { { \\frac { \\pi \\alpha ^ { 3 } m _ { t } ^ { 2 } Q _ { t } ^ { 2 } } { 4 m _ { W } ^ { 2 } s _ { W } ^ { 2 } ( \\hat { t } - m _ { t } ^ { 2 } ) } ( f _ { 2 } ^ { v } { \\cal H } _ { 2 } + f _ { 3 } ^ { v } { \\cal H } _ { 3 } + f _ { 6 } ^ { v } { \\cal H } _ { 6 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { + f _ { 1 2 } ^ { v } H _ { 1 2 } + f _ { 1 3 } ^ { v } H _ { 1 3 } + f _ { 1 6 } ^ { v } H _ { 1 6 } ) , } } \\\\ { { } } & { { } } &   \\displaystyle  et { } { ' } { \\sum } \\delta { \\cal M } ^ { b ( t ) } { \\cal M } _ { 0 } ^ { ( t ) } { } ^ { \\dag } \\ = \\ \\begin{array} { l } { { \\displaystyle \\frac { \\pi \\alpha ^ { 3 } m _ { t } ^ { 2 } Q _ { t } ^ { 2 } } { 4 m _ { W } ^ { 2 } s _ { W } ^ { 2 } ( \\hat { t } - m _ { t } ^ { 2 } ) } \\sum _ { i = 1 } ^ { 2 0 } f _ { i } ^ { b } H _ { i } ( m _ { t } , p _ { 1 } \\cdot p _ { 2 } , p _ { 1 } \\cdot p _ { 3 } , p _ { 1 } \\cdot p _ { 4 } , p _ { 3 } \\cdot p _ { 4 } , p _ { 4 } , p _ { 5 } , p _ { 6 } ) , } } \\\\ { { } } & { { } } &  { \\displaystyle { et { } { ' } { \\sum } \\delta { \\cal M } ^ { \\Delta ( t ) } { \\cal M } _ { 0 } ^ { ( t ) } { } ^ { \\dag } \\ = \\ \\begin{array} { l } { { \\displaystyle \\frac { \\pi \\alpha ^ { 3 } m _ { t } ^ { 2 } Q _ { t } ^ { 2 } } { 4 m _ { W } ^ { 2 } s _ { W } ^ { 2 } ( \\hat { t } - m _ { t } ^ { 2 } ) } ( f _ { 1 } ^ { \\Delta } H _ { 1 } + f _ { 7 } ^ { \\Delta } H _ { 7 } + f _ { 8 } ^ { \\Delta } H _ { 8 } + f _ { 9 } ^ { \\Delta } H _ { 9 } + f _ { 1 0 } ^ { \\Delta } H _ { 1 0 } ) , } } \\end{array} } } \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here the expressions of the $H _ { i } ( { m _ { t } } , \\ { p _ { 1 } } \\cdot { p _ { 2 } } , \\ { p _ { 1 } } \\cdot { p _ { 3 } } , \\ { p _ { 1 } } \\cdot { p _ { 4 } } , \\ { p _ { 3 } } \\cdot { p _ { 4 } } )$ are given in Appendix B. $\\delta M ^ { ( t ) } M _ { 0 } ^ { ( u ) \\dagger } , \\delta M ^ { ( u ) } M _ { 0 } ^ { ( t ) \\dagger }$ and $\\delta M ^ { ( u ) } M _ { 0 } ^ { ( u ) \\dagger }$ can be obtained by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\delta M ^ { ( t ) } M _ { 0 } { } ^ { ( u ) } { } ^ { \\dagger } } } & { { = } } & { { \\delta M ^ { ( t ) } M _ { 0 } { } ^ { ( t ) } { } ^ { \\dagger } | _ { p _ { 3 } \\to p _ { 4 } } } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\delta M ^ { ( u ) } M _ { 0 } { } ^ { ( t ) } { } ^ { \\dagger } } } & { { = } } & { { \\delta M ^ { ( t ) } M _ { 0 } { } ^ { ( t ) } { } ^ { \\dagger } | _ { p _ { 4 } \\to p _ { 3 } } } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\delta M ^ { ( u ) } M _ { 0 } { } ^ { ( u ) } { } ^ { \\dagger } } } & { { = } } & { { \\delta M ^ { ( t ) } M _ { 0 } { } ^ { ( t ) } { } ^ { \\dagger } | _ { p _ { 4 }  p _ { 3 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The cross section of the subprocess is given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\sigma ( s ) } = \\frac { 1 } { 1 6 \\pi \\hat { s } ^ { 2 } } \\int _ { \\hat { t } ^ { - } } ^ { \\hat { t } ^ { + } } d \\hat { t } \\vert M _ { r e n } ( \\hat { s } , \\hat { t } ) \\vert ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\hat { t } ^ { \\pm } = ( m _ { t } ^ { 2 } - \\frac { 1 } { 2 } \\hat { s } ) \\pm \\frac { 1 } { 2 } \\hat { s } \\beta _ { t } } \\end{array}$ and $\\beta _ { t } = \\sqrt { 1 - 4 m _ { t } ^ { 2 } / \\hat { s } }$ . The total cross section for top quark pair production can be obtained by folding the cross section $\\hat { \\sigma }$ for the subprocesses with the photon luminosity ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( s ) = \\int _ { 2 m _ { t } / \\sqrt { \\hat { s } } } ^ { x _ { m a x } } d z d L _ { \\gamma \\gamma } / d z \\hat { \\sigma } ( \\gamma \\gamma \\to t \\bar { t } \\mathrm { a t } \\hat { s } = z ^ { 2 } s )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\sqrt { s } ( \\sqrt { \\hat { s } } )$ is the $e ^ { + } e ^ { - } ( \\gamma \\gamma )$ center-of-mass energy and the quantity dis the photon luminosity, which is defined as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d L _ { \\gamma \\gamma } } { d z } = 2 z \\int _ { \\frac { z ^ { 2 } } { x _ { m a x } } } ^ { x _ { m a x } } \\frac { d x } { x } F _ { \\gamma / e } ( x ) F _ { \\gamma / e } ( z ^ { 2 } / x )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For unpolarized initial electrons and laser,the energy spectrum of the back-scattered photon is given by [12] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\gamma / e } ( x ) = \\frac { 1 } { D ( \\xi ) } \\left[ 1 - x + \\frac { 1 } { 1 - x } - \\frac { 4 x } { \\xi ( 1 - x ) } + \\frac { 4 x ^ { 2 } } { \\xi ^ { 2 } ( 1 - x ) ^ { 2 } } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( \\xi ) = ( 1 - \\frac { 4 } { \\xi } - \\frac { 8 } { \\xi ^ { 2 } } ) \\ln ( 1 + \\xi ) + \\frac { 1 } { 2 } + \\frac { 8 } { \\xi } - \\frac { 1 } { 2 ( 1 + \\xi ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and $\\xi = 4 E _ { 0 } \\omega _ { 0 } / m _ { e } ^ { 2 }$ ， $m _ { e }$ and $E _ { 0 }$ are the incident electron mass and energy, respectively, and $\\omega _ { 0 }$ is the laser- photon energy, $x$ is the fraction of the energy of the incident electron carried by the back-scattered photon. In our calculation we follow the analysis of Ref. [9],and choose （202 $\\omega _ { 0 }$ such that it maximizes the back-scattered photon energy without spoiling the luminosity through $e ^ { + } e ^ { - }$ pair creation. With this choice, we can finds $\\xi = 2 ( 1 + \\sqrt { 2 } ) \\simeq 4 . 8$ ， $x _ { m a x } \\simeq 0 . 8 3$ and $D ( \\xi ) \\simeq 1 . 8$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.Numerical results and conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculation, the input parameters[13] are $m _ { Z } ~ = ~ 9 1 . 1 7 6 \\mathrm { G e V }$ ， $\\alpha _ { e m } =$ $1 / 1 2 8 . 8 \\$ ，and $G _ { F } = 1 . 1 6 6 3 7 2 ( 1 0 ^ { - 5 } ( \\mathrm { G e V } ) ^ { - 2 } )$ ： $m _ { W }$ is determined through [4] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { W } ^ { 2 } ( 1 - \\frac { m _ { W } ^ { 2 } } { M _ { Z } ^ { 2 } } ) = \\frac { \\pi \\alpha } { \\sqrt { 2 } G _ { F } } \\frac { 1 } { 1 - \\Delta r } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where, to order $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ ， $\\Delta r$ is given by [4] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta r \\sim - \\frac { \\alpha N _ { C } c _ { W } ^ { 2 } m _ { t } ^ { 2 } } { 1 6 \\pi ^ { 2 } s _ { W } ^ { 4 } m _ { W } ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The lower limit of the parameter $\\tan \\beta$ is O.6 from perturbative bounds [14]. Reference [15] argues lower values of $\\tan \\beta$ from perturbative unitarity which is about O.25 for top quark mass of 176 GeV. So in our numerical calculations we allow $\\tan \\beta$ to take the minimum value of 0.25 in the two Higgs doublet model. In the following we present some numerical examples corresponding to a $e ^ { + } e ^ { - }$ collider with center-of-mass energy of $\\sqrt { s } = 5 0 0$ GeV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The numerical results in the SM are presented in Fig.2. The correction to the cross section depends on the Higgs mass and at $M _ { h } = 3 0 0$ GeV the correction reaches its maximum size of $- 2 . 7 \\%$ . Recently, the correction in the standard model has been calculated in Ref.[16]. But in that work the authors only present the correction to subprocess cross section $\\gamma \\gamma \\to t t$ and did not give the corresponding results at $e ^ { + } e ^ { - }$ collider. So it is difficult to compare their results with ours. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We present the numerical results in the two-Higgs-doublet model in Fig.3 and Fig.4. In our results we fix the parameters $\\alpha$ and $\\beta$ to be $\\alpha = \\beta = 0 . 2 5$ and show the dependence on the masses of Higgs bosons. The correction is sensitive to the Higgs masses and can be quite large for small Higgs masses. Fig.3 shows the dependence on the mass of CP-even Higgs bosons $h$ and $H$ for fixed $M _ { A }$ value. We found that correction can be quite large for small $M _ { h }$ value. For $M _ { h } < 1 0 0$ GeV the correction can exceed $5 0 \\%$ and makes it necessary to calculate higher order corrections beyond one-loop level. Fig.4 shows the dependence on the mass of CP-odd Higgs boson $A$ for fixed $M _ { h , H }$ value. For $M _ { A } = 1 0 0$ GeV the correction reaches- $3 8 \\%$ and decreases rapidly with the increase of $M _ { A }$ . The corrections drops rapidly with the increase of $\\tan \\beta$ as the case of the minimal supersymmetric model discussed bellow. Here we did not present the numerical results corresponding to large $\\tan \\beta$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figs.5-7 represent some numerical results in the minimal supersymmetric model. The Higgs sector of the minimal supersymmetric model is a special case of the two-Higgs-doublet model. In this model the masses and couplings of the Higgs bosons are controlled by two parameters at tree level, which can be taken to be $M _ { A }$ and $\\beta$ for example. In our numerical results presented in Figs.3-5,we show the dependence on $M _ { A }$ for three different values of $\\tan \\beta$ . From these figures one can find that the correction depends strongly on the values of $\\tan \\beta$ . The correction is more significant for smaller tan $\\beta$ values. And for a fixed tan $\\beta$ （204号 value the correction can be either positive or negative,depending on the Higgs mass $M _ { A }$ .For minimum $\\beta$ value $\\beta = 0 . 2 5$ , the correction gets its positive maximum size of $1 3 \\%$ at $M _ { A } = 4 2 0$ （20 GeV and negative maximum size of $- 5 4 \\%$ at $M _ { A } = 3 0 0$ GeV. For $\\tan \\beta = 1$ the positive and negative maximum size of the correction can only reach $7 \\%$ and $1 . 6 \\%$ ，respectively. For larger tan $\\beta$ value $\\tan \\beta = 5$ , the behaviour of plot in Fig.7 is different from small $\\tan \\beta$ plots in Figs.5,6 since the effect of the coupling $\\sim m _ { b } \\tan \\beta$ becomes significant when $\\tan \\beta$ gets large and cancel to some extent the effect of the coupling $m _ { t } \\cot \\beta$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we calculate the $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa corrections to top pair production in photon-photon collision in the standard model (SM),the two-Higgs-doublet model as well as the minimal supersymmetric model. We found that the correction to the cross section can only reach a few percent in the SM,but can be quite significant $( > 1 0 \\%$ ）in the 2HDM and MSSM for favorable parameter values. So these corrections are potentially observable at next generation linear colider, and thus could be used to set limits on the parameters of these new models,and the precision study for top pair production in photon-photon colision at NLC will be a powerful indirect probe for new physics beyond the standard model. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China and a grant from the State Commission of Science and Technology of China. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The form factors $f _ { i } ^ { s } , f _ { i } ^ { v }$ are given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\varepsilon ^ { \\prime } } & { = \\varepsilon ^ { \\prime \\prime } \\frac { \\varepsilon ^ { \\prime \\prime } } { \\varepsilon ^ { \\prime \\prime } } \\sin ^ { 3 } \\theta , } \\\\ { \\varepsilon ^ { \\prime \\prime } } & { = \\varepsilon \\theta \\theta \\theta ^ { \\prime } - \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\Bigg ( \\underset { \\varepsilon ^ { \\prime \\prime } } { \\sum _ { \\mu = 0 } ^ { \\infty } } \\varepsilon ^ { \\prime \\prime } - \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime } \\leq \\varepsilon ^ { \\prime \\prime } = 0 } { \\varepsilon } ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\Bigg ) } \\\\ &  \\quad + \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime } } { \\sum _ { \\mu = 0 } ^ { \\infty } } \\varepsilon ^ { \\prime \\prime } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime } \\leq \\varepsilon ^ { \\prime \\prime } } { \\sum _ { \\mu = 0 } ^ { \\infty } } \\varepsilon ^ { \\prime \\prime } \\underset { \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } \\leq \\varepsilon ^ { \\prime \\prime } }  \\sum _ { \\mu = 0 } ^ { \\infty } \\varepsilon ^ { \\prime \\prime } \\sum _ { \\mu = 0 } ^ { \\infty } \\varepsilon ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\underset { \\varepsilon ^ { \\prime } \\leq \\varepsilon ^ { \\prime } \\leq \\varepsilon ^ { \\prime } } { \\sum _ { \\mu = 0 } ^ { \\infty } \\varepsilon ^ { \\prime } } \\varepsilon ^ { \\prime \\prime } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\frac { 1 } { \\varepsilon ^ { \\prime \\prime } } \\frac { 1 }  \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad \\quad , \\quad \\sum _ { j = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( j ) } ( x , y ) = \\operatorname* { s u b s } ^ { ( j ) } \\frac { 1 } { N } ( \\operatorname* { s u b s } ( x , y ) - \\operatorname* { s u b s } ^ { ( j ) } ( x , y ) ) } \\\\ { \\mathbb { E } = } & { \\quad \\frac { 1 } { N } ( \\sum _ { j = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( j ) } \\{ \\sum _ { k = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( k ) } \\{ \\alpha _ { 0 } ^ { ( k ) } - \\alpha _ { 0 } ^ { ( k ) } - \\alpha _ { 0 } ^ { ( k ) } \\} \\}  } \\\\ & { \\quad +  ( \\operatorname* { s u b s } ^ { ( j ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) ) \\{ \\alpha _ { 0 } ^ { ( k ) } - \\alpha _ { 0 } ^ { ( k ) } \\}  } \\\\ & { \\quad  \\le \\frac { 1 } { N } \\sum _ { j = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( j ) } \\{ \\alpha _ { 0 } ^ { ( k ) } + \\alpha _ { 0 } ^ { ( k ) } \\} \\exp \\{ 1 - \\operatorname* { s u b s } ^ { ( j ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) \\}  } \\\\ & { \\quad  - \\{ \\alpha _ { 0 } ^ { ( k ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) + \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) \\}  } \\\\ & { \\quad  - \\{ \\alpha _ { 0 } ^ { ( k ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) + \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) - \\operatorname* { s u b s } ^ { ( k ) } ( x , y ) \\}  } \\\\ &  \\quad  - \\frac { 1 } { N } \\sum _ { j = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( j ) } \\{ \\alpha _ { 0 } ^ { ( k ) } ( \\partial _ { x } y - \\partial _ { x } y ) + \\alpha _ { 0 } ^ { ( k ) } \\{ \\alpha _ { 0 } ^ { ( k ) } ( \\partial _ { x } y - \\partial _ { x } y ) + \\mathcal { E } \\} \\} \\\\ &  \\quad  - \\frac { 1 } { N } \\sum _ { j = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( j ) } \\{ 1 - \\sum _ { k = 1 } ^ { N } \\operatorname* { s u b s } ^ { ( k ) } \\{ \\alpha _ { 0 } ^ { ( k ) } - \\alpha _ { 0 } ^ { ( k ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { G } = } & { \\frac { 1 } { \\hbar } \\cdot ( \\frac { 1 } { 2 } \\sum _ { j \\in \\mathcal { N } _ { 1 } } \\langle \\mathcal { E } ( \\mathcal { D } _ { 1 } + \\mathcal { A } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 1 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } )  } \\\\ & { +  \\frac { 1 } { 2 } \\sum _ { j \\in \\mathcal { N } _ { 1 } } \\{ \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 1 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } )  } \\\\ &  +  \\frac { 1 } { 2 } \\sum _ { j \\in \\mathcal { N } _ { 1 } } \\alpha _ { j } \\} \\Bigg \\{ \\Bigg \\} \\Bigg \\{ \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) - \\mathcal { E } _ { 2 } ^ { \\top } \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) \\Bigg \\} \\\\ &  +  \\frac { 1 } { 2 } \\sum _ { j \\in \\mathcal { N } _ { 1 } } \\alpha _ { j } \\} \\\\ &  + \\{ \\mathcal { D } _ { 2 } ^ { \\top } \\mathcal { E } ( \\mathcal { D } _ { 1 } + \\mathcal { D } _ { 2 } ^ { \\top } ) \\mathcal { E } ( \\mathcal { D } _ { 2 } + \\mathcal { E } _ { 2 } ^ { \\top } ) - \\mathcal { E } _ { 2 } ^ { \\top } \\mathcal  \\end{array}\n$$$$\n\\begin{array} { r l } { E _ { 1 } ^ { \\prime } = } & { \\underbrace { \\phantom { \\frac { 1 } { 2 } } \\sum _ { p = 1 } ^ { N } \\bigg \\{ \\sum _ { p = 1 } ^ { N } \\bigg [ \\exp { - \\exp { - \\exp { \\imath \\phi _ { 1 } } } - \\exp { \\imath \\phi _ { 1 } } } - \\exp { \\imath \\phi _ { 1 } } } \\bigg ] \\left( \\exp { - \\exp { \\imath \\phi _ { 1 } } } \\right) } _ { \\mathrm { b a r d e d } } ,  \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times } \\quad \\quad \\quad  \\\\ & & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { 1 } & { \\| \\boldsymbol { d } ( \\boldsymbol { C } _ { \\xi } ) \\| } \\\\ &  = \\underbrace  \\int _ { \\boldsymbol { \\mathcal { R } } _ { \\xi } } \\boldsymbol { \\Phi } \\Big \\{ g \\Big \\{ g ( \\boldsymbol { X } _ { \\xi } ) - g ( \\boldsymbol { X } _ { \\xi } ) \\Big \\} \\Big \\{ g _ { \\xi } \\Big \\{ g _ { \\xi } \\Big \\} _ { \\xi \\xi } \\Big | _ { \\xi _ { \\xi \\xi } } \\Big | _ { \\xi _ { \\xi } } \\otimes \\boldsymbol { y } _ { \\xi \\xi \\Big { \\{ S , y \\Big \\} } , \\eta _ { \\xi \\xi \\xi } , \\eta _ { \\xi \\xi } , \\eta _ { \\xi } , \\eta _ { \\xi } , \\eta _ { \\xi } \\Big \\} } _ { \\xi \\Big { | \\boldsymbol { X } _ { \\xi } ^ { \\xi } \\Big \\} \\Big \\{ | \\boldsymbol { X } _ { \\xi } ^ { \\xi } \\Big \\{ | \\boldsymbol { D } _ { \\xi \\xi } \\Big \\} \\Big \\{ | \\boldsymbol { D } _ { \\xi \\xi } \\Big \\} \\Big | \\boldsymbol { D } _ { \\xi \\xi } \\Big | \\boldsymbol { \\xi } \\Big | _ { \\xi \\xi _ { \\xi } } \\Big | \\leq \\frac { 1 } { | \\xi _ { \\xi } | _ { \\xi \\xi } | _ { \\xi } } \\Big \\{ | \\boldsymbol { D } _ { \\xi } \\Big \\{ \\xi \\} | \\boldsymbol { D } _ { \\xi } \\Big | \\boldsymbol { \\xi } \\Big | \\boldsymbol { \\xi } \\Big | _ { \\xi \\xi } \\Big | \\Big | _ { \\xi \\xi _ { \\xi } } \\Big | \\Big ^ { 2 } } } \\\\ &  + \\underbrace  \\int _ { \\boldsymbol { \\mathcal { R } } _ { \\xi } \\eta _ { \\xi } } \\eta _ { \\xi } \\Big \\{ g \\Big \\} \\Big \\{ g \\Big \\Big \\} \\Big \\{ g \\Big \\Big \\} \\Big \\{ g \\Big \\Big \\} \\Big \\{ g \\Big \\Big \\} \\xi \\Big | _ { \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi \\Big | _ { \\xi } \\Big \\{ \\boldsymbol { D } _ { \\xi } \\xi \\Big \\} \\Big \\{ g \\Big \\} \\Big \\{ g \\Big \\} _ { \\xi \\xi } \\Big | _ { \\xi \\xi } \\Big | _ { \\xi } \\Big ^ { 2 } } \\\\ &  + \\frac { 1 } { | \\xi _ { \\xi } | } \\Big \\{ | \\boldsymbol { X } _ { \\xi } ^ { \\xi } \\Big \\{ | \\boldsymbol { X } _ { \\xi } ^ { \\xi } \\Big \\} \\Big \\{ g \\Big \\} \\xi \\Big | _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _ { \\xi } \\Big | \\xi _  \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { F _ { n } ( q , m _ { 1 } , m _ { 2 } ) } } & { { = } } & { { \\displaystyle \\int _ { 0 } ^ { 1 } d y y ^ { n } \\log \\left[ \\frac { - q ^ { 2 } y ( 1 - y ) + m _ { 1 } ^ { 2 } ( 1 - y ) + m _ { 2 } ^ { 2 } y } { \\mu ^ { 2 } } \\right] , } } \\\\ { { G _ { n } ( q , m _ { 1 } , m _ { 2 } ) } } & { { = } } & { { \\displaystyle - \\int _ { 0 } ^ { 1 } d y \\frac { y ^ { n + 1 } ( 1 - y ) } { - q ^ { 2 } y ( 1 - y ) + m _ { 1 } ^ { 2 } ( 1 - y ) + m _ { 2 } ^ { 2 } y } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and $\\overline { { C } } _ { 2 4 } \\equiv - \\textstyle { \\frac { 1 } { 4 } } \\Delta + C _ { 2 4 } , C _ { 0 } , C _ { i j }$ are the three-point Feynman integrals, definition and expression for which can be found in Ref.[17]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The form factor $f _ { i } ^ { b }$ are given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ^ { b } = f _ { i } ^ { b ( 1 ) } + f _ { i } ^ { b ( 2 ) } + f _ { i } ^ { b ( 3 ) } - f _ { i } ^ { b ( 4 ) } + f _ { i } ^ { b ( 5 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { E } ^ { ( 1 ) } } & { = \\gamma _ { n , k } \\sum _ { i = 1 } ^ { n } \\sum _ { \\substack { n \\leq i + 1 } } 2 D _ { 1 , i } \\hat { \\zeta } _ { 1 , j } } \\\\ { \\hat { E } ^ { ( 1 ) } } & { = \\gamma _ { n , k } \\sum _ { i = 1 } ^ { n } \\int _ { \\mathbb { R } _ { n } ^ { i + 1 } } ( \\gamma _ { 1 , k } - D _ { 1 , i } + D _ { 2 , i - 1 } D _ { 1 , i } - D _ { 1 , i + 1 } 2 D _ { 2 , i + 1 } + D _ { 3 , i - 1 } - D _ { 2 , i } } \\\\ & { - \\beta _ { 3 , i + 1 } \\wedge \\alpha _ { n , j } - \\alpha _ { n , k } ( D _ { 1 , i + 1 } - D _ { 2 , i } - D _ { 3 , i } - D _ { 3 , j } ) \\wedge \\beta _ { 3 , i } ) } \\\\ & { - 2 ( 2 D _ { 2 , i + 1 } - \\hat { \\zeta } _ { 3 , j + 1 } - 2 D _ { 2 , i + 1 } ) \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ & { - 2 \\gamma _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } + 2 \\gamma _ { n , k } \\wedge \\alpha _ { n , k } - 2 \\gamma _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ { \\hat { E } ^ { ( 1 ) } } & { = - \\gamma _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } & { = \\alpha _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } + 2 \\gamma _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } & { = - \\gamma _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } & { = - D _ { 2 , i + 1 } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ & { - E ^ { ( 1 ) } } & { = - \\gamma _ { n , k } \\wedge \\alpha _ { n , k } \\wedge \\alpha _ { n , k } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } \\\\ & { - \\hat { E } ^ { ( 1 ) } } \\\\ & { \\hat { E } ^ { ( 1 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { g } ^ { ( 1 ) } = } & { - \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\kappa _ { i } [ \\hat { \\varsigma } ( y _ { i } - y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , } \\\\ & { \\quad - \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\hat { \\varsigma } _ { i } [ \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , \\quad \\mathrm { d } \\boldsymbol { \\varepsilon } _ { i } [ \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , } \\\\ & { \\quad - \\displaystyle \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) + ( \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ) , } \\\\ { \\hat { \\varsigma } ( z _ { i } ) = } & { - \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\hat { \\varsigma } _ { i } [ \\hat { \\varsigma } ( z _ { i } ) + ( \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ) ] , } \\\\ { \\hat { \\varsigma } ( z _ { i } ) = } & { [ \\hat { \\varsigma } ( z _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , \\quad \\mathrm { d } \\boldsymbol { \\varepsilon } _ { i } [ \\hat { \\varsigma } ( \\boldsymbol { \\varepsilon } _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , } \\\\ & { \\quad - \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\hat { \\varsigma } _ { i } [ \\hat { \\varsigma } ( z _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , \\quad \\mathrm { d } \\boldsymbol { \\varepsilon } _ { i } [ \\hat { \\varsigma } ( \\boldsymbol { \\varepsilon } _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , } \\\\ & { \\quad - \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\hat { \\varsigma } _ { i } [ \\hat { \\varsigma } ( \\boldsymbol { \\varepsilon } _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) ] , } \\\\ & { \\quad - \\displaystyle \\sum _ { j = 1 } ^ { \\infty } \\hat { \\varsigma } _ { j } [ \\hat { \\varsigma } ( \\boldsymbol { \\varepsilon } _ { j } ) - \\hat { \\varsigma } ( y _ { i } ) ] , } \\\\ { \\hat { \\varsigma } ( \\boldsymbol { \\varepsilon } _ { j } ) = } &  \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\hat { \\varsigma } _ { i } [ \\hat { \\varsigma } ( \\boldsymbol { \\varepsilon } _ { i } ) - \\hat { \\varsigma } ( y _ { i } ) - \\hat { \\varsigma }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } & { = - \\frac { \\lambda _ { 1 } } { 8 } \\cdot \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { g } } ( \\mathbf { f } \\cdot \\widehat { \\mathbf { p } } _ { 3 } - \\widehat { \\mathbf { g } } _ { 4 } ) , } \\\\ { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } & { = - \\frac { 1 } { 8 } \\cdot \\sum _ { j = 1 } ^ { N } \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { p } } _ { 1 j } - \\widehat { \\mathbf { g } } _ { 1 2 } - \\widehat { \\mathbf { g } } _ { 2 3 } - \\widehat { \\mathbf { g } } _ { 1 2 } - \\widehat { \\mathbf { g } } _ { 2 4 } , } \\\\ { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } & { = \\frac { 1 } { 8 } \\cdot \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { p } } _ { 1 j } - \\widehat { \\mathbf { g } } _ { 2 3 } - \\widehat { \\mathbf { g } } _ { 2 4 } , } \\\\ { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } & { = \\frac { 1 } { 8 } \\cdot \\sum _ { j = 1 } ^ { N } \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { p } } _ { 1 j } - \\widehat { \\mathbf { g } } _ { 2 3 } - \\widehat { \\mathbf { g } } _ { 2 4 } , } \\\\ { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } & { = \\frac { 1 } { 8 } \\cdot \\sum _ { j = 1 } ^ { N } \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { p } } _ { 1 j } - \\widehat { \\mathbf { g } } _ { 3 4 } - \\widehat { \\mathbf { g } } _ { 1 2 } + \\widehat { \\mathbf { g } } _ { 1 3 } - \\widehat { \\mathbf { g } } _ { 1 4 } + \\widehat { \\mathbf { g } } _ { 1 4 } + \\widehat { \\mathbf { g } } _ { 1 4 } , } \\\\ { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } & { = \\frac { 1 } { 8 } \\cdot \\sum _ { j = 1 } ^ { N } \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { g } } _ { 2 3 } - \\widehat { \\mathbf { g } } _ { 2 4 } - \\widehat { \\mathbf { g } } _ { 2 4 } - \\widehat { \\mathbf { g } } _ { 2 4 } + \\widehat { \\mathbf { g } } _ { 2 4 } , } \\\\ { \\widehat { \\mathbf { g } } ^ { \\mathrm { T } } } &  = \\frac { 1 } { 8 } \\cdot \\sum _ { j = 1 } ^ { N } \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { g } } ^ { \\mathrm { i n } } \\cdot \\widehat { \\mathbf { g } } _  2 \\end{array}\n$$$$\n\\begin{array} { r c l } { { \\mathrm { C } _ { 1 } ^ { \\mathrm { R } } } } & { { - } } & { { \\frac { 1 } { 4 } \\times \\frac { 1 } { 2 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } } } \\\\ { { \\mathrm { C } _ { 2 } ^ { \\mathrm { R } } } } & { { - } } & { { \\frac { 1 } { 4 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } } } \\\\ { { \\mathrm { C } _ { 3 } ^ { \\mathrm { R } } } } & { { - } } & { { \\frac { 1 } { 5 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } } } \\\\ { { \\mathrm { C } _ { 3 } ^ { \\mathrm { R } } } } & { { - } } & { { \\frac { 1 } { 7 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\frac { 1 } { 3 } } } \\\\ { { \\mathrm { C } _ { 4 } ^ { \\mathrm { R } } } } & { { - } } & { { \\frac { 1 } { 7 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } } } \\\\ { { \\mathrm { C } _ { 5 } ^ { \\mathrm { R } } } } & { { - } } & { { \\frac { 1 } { 7 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\mathrm { C } _ { 3 } ^ { \\mathrm { R } } } } \\\\ { { \\mathrm { C } _ { 6 } ^ { \\mathrm { R } } } } & { { - } } &  { \\frac { 1 } { 7 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } } \\\\ { { \\mathrm { C } _ { 7 } ^ { \\mathrm { R } } } } & { { - } } &   \\frac { 1 } { 7 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\times \\frac { 1 } { 3 } \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { D } _ { 1 } ^ { \\bot \\bot } } & { = - \\underbrace { \\nu _ { \\textrm { d } } \\sum _ { j = 1 } ^ { n } \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } _ { \\textrm { d } } \\cdot \\mu _ { j } ^ { \\textrm { D } } \\varepsilon _ { j } ^ { \\textrm { D } } } \\\\ { \\mathcal { F } _ { 1 } ^ { \\bot \\bot } } & { = \\underbrace { \\nu _ { \\textrm { d } } \\sum _ { j = 1 } ^ { n } \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } _ { \\textrm { d } } \\cdot \\mu _ { j } ^ { \\textrm { D } } \\varepsilon _ { j } ^ { \\textrm { D } } } \\\\ { \\mathcal { F } _ { 2 } ^ { \\bot \\bot } } & { = \\underbrace { \\nu _ { \\textrm { d } } \\sum _ { j = 1 } ^ { n } \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } _ { \\textrm { d } } \\cdot \\mu _ { j } ^ { \\textrm { D } } \\varepsilon _ { j } ^ { \\textrm { D } } + \\frac { \\nu _ { \\textrm { d } } \\sum _ { j = 1 } ^ { n } \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } { \\textrm { D } } \\cdot \\mu _ { j } ^ { \\textrm { D } } + \\frac { \\nu _ { \\textrm { d } } \\sum _ { j = 1 } ^ { n } \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } { \\textrm { D } } \\cdot \\mu _ { j } ^ { \\textrm { D } } } \\\\ { \\mathcal { F } _ { 3 } ^ { \\bot \\bot } } & { = \\underbrace { \\nu _ { \\textrm { d } } \\sum _ { j = 1 } ^ { n } \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } _ { \\textrm { d } } \\cdot \\mu _ { j } ^ { \\textrm { D } } \\varepsilon _ { j } ^ { \\textrm { D } } } \\\\ { \\mathcal { F } _ { 4 } ^ { \\bot \\bot } } & { = \\frac { \\nu _ { \\textrm { d } } } { \\textrm { d } } } \\\\ { \\mathcal { F } _ { 5 } ^ { \\bot \\mu } } & { = \\frac { \\nu _ { \\textrm { d } } } { \\textrm { d } } } \\\\ { \\mathcal { F } _ { 7 } ^ { \\bot \\mu } } &  = \\frac { \\nu _ { \\textrm { d } } } { \\textrm { d } } \\cdot \\frac { \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } { \\textrm { d } } \\cdot \\mu _ { j } ^ { \\textrm { D } } + \\frac { \\nu _ { \\textrm { d } } } { \\textrm { d } } \\\\ { \\mathcal { F } _ { 1 } ^ { \\bot \\mu } } &  = \\frac { \\nu _ { \\textrm { d } } } { \\textrm { d } } \\frac { \\mu _ { j } ^ { \\textrm { D } } \\nu _ { j } } { \\textrm { d } } \\frac { \\mu _ { j } ^ { \\textrm { D } } \\nu _ { \\textrm { D } } }  \\textrm  d  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\sum _ { k \\in \\mathcal { N } _ { k } } \\big \\langle \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ } \\\\ { \\sum _ { k \\in \\mathcal { N } _ { k } } \\big \\langle \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\big \\rangle } \\\\ { \\sum _ { k ^ { \\prime } = 1 } ^ { n _ { \\mathcal { N } _ { k } } } \\frac { 1 } { \\mathcal { D } _ { k } } \\Bigg ( \\mathrm { E } _ { k } ^ { ( 2 ) } \\mathcal { D } _ { k } - \\mathrm { E } _ { k } ^ { ( 3 ) } \\mathcal { D } _ { k } , ~ ( 1 2 ) \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ } \\\\ { - \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ } \\\\ { - \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ \\mathcal { D } _ { k } , ~ } \\\\ { \\mathcal { E } _ { k } ^ { ( 2 ) } } & { = } & { \\frac { 1 } { \\mathcal { D } _ { k } } \\frac { 1 } { \\mathcal { D } _ { k } } \\Bigg ( \\mathrm { E } _ { k } ^ { ( 3 ) } \\mathcal { D } _ { k } + \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } , ~ } \\\\ { - \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } , ~ } \\\\ { \\mathcal { D } _ { k } ^ { ( 2 ) } } & { = } &  \\frac { 1 } { \\mathcal { D } _ { k } } \\frac { 1 } { \\mathcal { D } _ { k } } \\Bigg ( \\mathrm { E } _ { k } ^ { ( 3 ) } \\mathcal { D } _ { k } + \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } \\\\ { - \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } + \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } \\bigg ) + \\mathrm { E } _ { k } ^ { ( 4 ) } \\mathcal { D } _ { k } , ~ } \\\\  \\sum _ { k ^ { \\prime } = 1 } ^ { n _ { \\mathcal { N } _ { k } } }  \\mathcal { D } _ { k } ^   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\sqrt { \\frac { \\hbar ^ { 2 } } { \\hbar ^ { 2 } } } } & { = - \\displaystyle { \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } \\mathrm { e } ^ { - \\hbar \\Omega _ { i } } ( \\mathcal { D } _ { D , i } - \\mathcal { D } _ { D , i } ) } } \\\\ & { \\quad + \\displaystyle { \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } \\mathrm { e } ^ { - \\hbar \\Omega _ { i } } ( \\mathcal { D } _ { D , i } - \\mathcal { D } _ { D , 1 } - \\mathcal { D } _ { D , 1 } - \\mathcal { D } _ { D , 2 } ) ( \\mathcal { D } _ { D , 1 } ) ( \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 2 } ) \\mathcal { D } _ { D , 1 } \\mathcal { D } _ { D } } } \\\\ { \\mathcal { D } _ { D , i } ^ { ( 2 ) } } & { = \\displaystyle { \\frac { 1 } { 4 } \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } \\mathrm { e } ^ { - \\hbar \\Omega _ { i } } ( \\mathcal { D } _ { D , i } + \\mathcal { D } _ { D , 1 } - \\mathcal { D } _ { D , 2 } ) ( \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 1 } - \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 3 } ) } } \\\\ & { \\quad - \\mathcal { D } _ { D , 1 } \\gamma ( \\mathcal { D } _ { D , 2 } + \\mathcal { D } _ { D , 1 } ) ( - \\mathcal { D } _ { D , 2 } + \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 4 } - \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 2 } ) \\mathcal { D } _ { D , 2 } - \\mathcal { D } _ { D , 3 } \\mathcal { D } _ { D , 1 } } \\\\ & { \\quad - 2 \\mathrm { e } ^ { - \\hbar \\Omega _ { i } } ( \\mathcal { D } _ { D , 1 } + \\mathcal { D } _ { D , 1 } ) - 2 \\mathrm { e } ^ { - \\hbar \\Omega _ { i } } \\mathcal { D } _ { D , 2 } } \\\\ { \\mathcal { D } _ { D , i } ^ { ( 2 ) } } & { = \\frac { 1 } { 2 } \\operatorname* { m a x } _ { i = 1 } ^ { N } \\gamma _ { i } - \\mathcal { D } _ { D , i } - \\mathcal { D } _ { D , 2 } + \\mathcal { D } _ { D , 4 } - \\mathcal { D } _ { D , 5 } } \\\\ { \\mathcal { D } _ { D , i } ^ { ( 2 ) } } &  = \\frac { 1 } { 2 } \\operatorname* { m a x } _ { i = 1 } ^ { N } \\gamma _ { i } - \\gamma _ { i } - \\gamma _ { i } ( \\mathcal { D } _  D , \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { \\mathcal { A } } _ { 1 } ^ { ( 2 ) } } & { { } = } & { \\underset { \\mathrm { i } } { \\sum } _ { j \\in \\mathcal { N } _ { i } } \\frac { \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } } { \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } } } \\\\ { \\hat { \\mathcal { A } } _ { 1 } ^ { ( 2 ) } } & { { } = } &  \\underset { \\mathrm { i } } { \\sum } _ { j \\in \\mathcal { N } _ { i } } \\frac { \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } } { \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } } \\\\ { \\hat { \\mathcal { A } } _ { 1 } ^ { ( 2 ) } } & { { } = } &  \\underset { \\mathrm { i } } { \\sum } _ { j \\in \\mathcal { N } _ { i } } \\frac { \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { j } } \\\\ { \\hat { \\mathcal { A } } _ { 2 } ^ { ( 2 ) } } & { { } = } &  \\underset { \\mathrm { i } } { \\sum } _ { j \\in \\mathcal { N } _ { i } } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\sum _ { \\ell = 1 } ^ { i } \\hat { \\mathcal { A } } _ { i } + \\sum _ { j \\in \\mathcal { N } _ { i } } \\sum _  \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { \\mathcal { G } } ^ { \\star } } & { \\stackrel { { } , } = \\frac { 1 } { \\sqrt { 2 } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\exp \\mathrm { i } \\theta , } \\\\ { \\hat { \\mathcal { G } } ^ { \\star } } & { = 9 \\frac { 1 } { \\sqrt { 2 } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } } \\\\ { \\hat { \\mathcal { G } } ^ { \\star } } & { = \\frac { 1 } { \\sqrt { 2 } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } } \\\\ { \\hat { \\mathcal { G } } ^ { \\star } } &  = \\frac { 1 } { \\sqrt { 2 } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\\\ { \\hat { \\mathcal { G } } ^ { \\star } } &  = \\frac { 1 } { \\sqrt { 2 } } \\frac { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } ( \\theta ) } { \\mathcal { G } _ { \\mathrm { e f f } } ^ { \\star } } \\frac  \\mathcal { G } _  \\mathrm  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { \\mathcal { F } } _ { 1 } ^ { ( 4 ) } } & { = - \\underset { y _ { 1 } \\leq a } { \\operatorname* { m a x } } _ { 1 \\leq a } \\mathrm { E } ^ { ( 1 ) } \\mathrm { E } _ { 1 / 2 } ( B - 3 ) _ { 1 / 4 } + \\mathrm { O } _ { 3 / 2 } ; } \\\\ { \\hat { \\mathcal { F } } _ { 2 } ^ { ( 4 ) } } & { = - \\underset { y _ { 1 } \\leq a } { \\operatorname* { m a x } } _ { 1 \\leq a } \\mathrm { E } ^ { ( 1 ) } \\mathrm { E } _ { 1 / 2 } ( B - 3 ) _ { 1 / 4 } + \\mathrm { O } _ { 3 / 2 } - B _ { 1 / 4 } + \\mathrm { O } _ { 2 / 4 } + \\mathrm { O } _ { 3 / 2 } + B _ { 2 / 4 } - B _ { 1 / 4 } - \\mathrm { O } _ { 1 / 4 } } \\\\ & { + \\mathrm { O } _ { 1 / 4 / 4 } \\mathrm { E } _ { 1 / 2 } ( B _ { 1 / 5 } - B _ { 1 / 4 } - B _ { 1 / 4 } ) + \\mathrm { O } _ { 1 / 4 / 4 / 2 } \\mathrm { E } _ { 1 / 2 } \\mathrm { E } _ { 1 2 / 2 } \\cdot B _ { 1 / 4 } + \\mathrm { O } _ { 1 / 4 / 4 / 4 / 2 } \\mathrm { E } _ { 1 / 2 } \\cdot B _ { 1 / 4 } } \\\\ &  \\quad \\mathrm { B } _ { 1 / 4 / 4 / 2 } \\mathrm { O } _ { 1 / 5 } \\mathrm { E } _ { 1 / 2 / 4 / 4 / 4 } \\mathrm { O } _ { 1 / 4 / 4 / 4 } \\mathrm { O } _ { 1 / 5 } \\mathrm { E } _ { 1 / 2 / 4 / 4 / 4 } \\mathrm { O } _  1 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 / 6 \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { \\mathcal { L } ^ { \\mathrm { H C } } } & { = } & { \\gamma \\displaystyle \\sum _ { j = 1 } ^ { N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } \\mathcal { L } \\mathcal { L } ( \\mathcal { D } _ { i } - \\mathcal { D } _ { j } - \\mathcal { D } _ { j } - \\mathcal { D } _ { j } - \\mathcal { D } _ { j } + \\mathcal { D } _ { j } ) } \\\\ & { \\displaystyle + \\frac { 1 } { 2 N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } \\mathcal { L } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { i } \\mathcal { L } _ { j } } \\\\ & { } & { \\displaystyle - \\frac { 1 } { 2 N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } ^ { \\mathrm { H C } } } \\\\ & { } & { \\displaystyle + \\frac { 1 } { 2 N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } _ { i = 1 } ^ { N } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal _ { L } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal _ { L } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal _ { L } \\mathcal { L } _ { j } } \\\\ & { } &  \\displaystyle + \\frac { 1 } { 2 N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\\\ & { } &  \\displaystyle + \\frac { 1 } { 2 N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j } \\\\ & { } &  \\displaystyle + \\frac { 1 } { 2 N } \\sum _ { i = 1 } ^ { N } \\mathcal { L } _ { j } \\mathcal { L } _ { i } \\mathcal { L } _ { j }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\dot { m } _ { 1 } ^ { ( 2 ) } } & { = \\frac { 1 } { \\sqrt { \\pi } }  e _ { 1 } ^ { \\frac { \\lambda } { 2 } }  \\nabla \\xi _ { 1 } ^ { ( 2 ) }  \\xi _ { 1 } ( \\xi _ { 2 } \\xi _ { 2 } ) ( \\xi _ { 2 } \\xi _ { 1 } + \\xi _ { 1 } ^ { 2 } \\xi _ { 2 } ) \\xi _ { 1 } ( 2 \\xi _ { 2 } \\xi _ { 1 } ( 2 \\xi _ { 1 } \\xi _ { 1 } ) , \\xi _ { 2 } )   } \\\\ & { \\quad -  \\nabla \\xi _ { 2 } \\phi _ { 1 } \\xi _ { 2 } ( \\xi _ { 2 } \\xi _ { 2 } ) \\xi _ { 2 } - \\xi _ { 1 } \\xi _ { 2 } ( \\xi _ { 2 } \\xi _ { 2 } ) \\phi _ { 2 } \\xi _ { 2 } ( \\xi _ { 2 } \\xi _ { 2 } ) \\phi _ { 3 }  } \\\\ & { \\quad +  ( \\xi _ { 2 } \\xi _ { 3 } \\xi _ { 2 } ( \\xi _ { 2 } + \\xi _ { 3 } \\xi _ { 2 } ) \\xi _ { 2 } ( 2 \\xi _ { 3 } - \\xi _ { 3 } \\xi _ { 3 } + \\xi _ { 3 } \\xi _ { 2 } \\xi _ { 3 } ) \\xi _ { 3 }   } \\\\ & { \\quad   + \\xi _ { 3 } \\xi _ { 2 } \\xi _ { 1 } ( \\xi _ { 2 } \\xi _ { 2 } + \\xi _ { 3 } \\xi _ { 3 } \\xi _ { 2 } \\xi _ { 3 } - \\xi _ { 3 } \\xi _ { 4 } \\xi _ { 3 } \\xi _ { 2 } \\xi _ { 3 } - \\xi _ { 3 } \\xi _ { 4 } \\xi _ { 4 } \\xi _ { 4 } )   } \\\\ & {     + \\xi _ { 2 } \\xi _ { 3 } \\xi _ { 2 } ( \\xi _ { 2 } \\xi _ { 2 } \\xi _ { 3 } \\xi _ { 3 } ) \\xi _ { 3 }    } \\\\ { \\dot { m } _ { 1 } ^ { ( 3 ) } } & { = - \\frac { 1 } { \\sqrt { \\pi } \\xi _ { 1 } } \\sum _ { \\xi = 1 } ^ { \\infty } \\xi _ { \\xi } ( \\xi _ { 2 } \\xi _ { 2 } ( 2 \\xi _ { 2 } \\xi _ { 2 } + 2 \\xi _ { 3 } \\xi _ { 2 } \\xi _ { 1 } \\xi _ { 2 } ) \\xi _ { 3 } ( \\xi _ { 2 } \\xi _ { 2 } ) \\xi _ { 4 } ( \\xi _ { 2 } \\xi _ { 3 } \\xi _ { 2 } )  } \\\\ { \\dot { m } _ { 1 } ^ { ( 3 ) } } &  = - \\frac { 1 }  \\sqrt { \\pi }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { F _ { 1 } ^ { \\prime \\prime } } &  = \\phantom { - } \\pi _ { 5 } \\displaystyle { \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } + \\frac { 1 } { 2 } \\ln \\boldsymbol { \\ell } _ { i + 1 } + \\frac { 1 } { 2 } \\ln \\boldsymbol { \\ell } _ { i + 1 } + \\frac { 1 } { 2 } \\ln \\boldsymbol { \\ell } _ { i + 1 } - \\frac { 1 } { 2 } \\ln \\boldsymbol { \\ell } _ { i + 1 } } \\\\ { F _ { 2 } ^ { \\prime \\prime } } &  = \\phantom { - } \\pi _ { 5 } \\displaystyle  \\sum _ { i = 1 } ^ { N } \\sum _ { j = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _ { \\ell = 1 } ^ { N } \\sum _  \\ell =  \\end{array}\n$$$$\n\\begin{array} { r l } { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 2 ) } \\rho _ { i } - \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } - \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 2 ) } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 2 ) } \\rho _ { i } + \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 2 ) } \\rho _ { i } - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { j = 1 } ^ { N } \\hat { \\rho } _ { i } \\hat { \\rho } _ { j } + \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 3 ) } + \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 2 ) } \\rho _ { i } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 2 ) } \\rho _ { i } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 3 ) } - \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } , } \\\\ & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { i } ^ { ( 4 ) } - \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } , } \\\\ & { - \\frac { 1 } { \\sqrt { 2 } } \\sum _ { i = 1 } ^ { N } \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 2 ) } , } \\\\ { \\hat { \\rho } _ { \\mathrm { G P } } ^ { ( 1 ) } = } &  - \\frac { 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { J _ { 2 , 2 , 3 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } J _ { 2 , 2 , 3 } ^ { \\mathrm { R e f } } \\times \\phantom { \\frac { J _ { 2 , 2 } } { \\nu _ { 0 } } } \\times \\phantom { \\frac { J _ { 2 , 2 } } { \\nu _ { 0 } } } } \\\\ { J _ { 2 , 3 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } J _ { 2 , 3 } ^ { \\mathrm { R e f } } \\times J _ { 2 , 2 } ^ { \\mathrm { R e f } } } \\\\ { J _ { 3 , 3 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } \\times \\frac { \\nu _ { 0 } + J _ { 2 , 2 } ^ { \\mathrm { R e f } } } { \\nu _ { 0 } } [ \\frac { J _ { 2 , 3 } } { \\mu _ { 0 } } ] ^ { 2 } \\frac { L _ { 2 } } { \\mu _ { 0 } } , } \\\\ { J _ { 2 , 3 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } } \\\\ { J _ { 2 , 4 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 3 , 5 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 2 , 3 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 3 , 5 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 2 , 5 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 2 , 6 } ^ { \\mathrm { R e f } } } & { = \\phantom { - } \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 3 , 7 } ^ { \\mathrm { R e f } } } & { = \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } , } \\\\ { J _ { 2 , 7 } ^ { \\mathrm { R e f } } } & { = \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } \\times \\frac { \\nu _ { 0 } + J _ { 2 , 3 } ^ { \\mathrm { R e f } } } { \\nu _ { 0 } } \\times \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } \\times \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } \\times \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } \\times \\frac { \\nu _ { 0 } } { \\nu _ { 0 } } } \\\\  J _ { 2 , 4 } ^  \\mathrm  R e f \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In the above, $D _ { 0 } , D _ { i j } , D _ { i j k }$ are the four-point Feynman integrals[17], and $\\begin{array} { l l l } { { D _ { 0 } , D _ { i j } , D _ { i j k } ( - p _ { 2 } , - p _ { 1 } , p _ { 3 } , m _ { t } , m _ { i } , m _ { t } , m _ { t } , m _ { t } ) } } & { { \\mathrm { ~ i n } } } & { { f _ { i } ^ { b ( 1 ) } \\mathrm { ~ a n d } f _ { i } ^ { b ( 4 ) } } } \\\\ { { D _ { 0 } , D _ { i j } , D _ { i j k } ( - p _ { 2 } , - p _ { 1 } , p _ { 3 } , 0 , m _ { i } , 0 , 0 ) } } & { { \\mathrm { ~ i n } } } & { { f _ { i } ^ { b ( 2 ) } } } \\\\ { { D _ { 0 } , D _ { i j } , D _ { i j k } ( - p _ { 2 } , - p _ { 1 } , p _ { 3 } , m _ { i } , 0 , m _ { i } , m _ { i } ) } } & { { \\mathrm { ~ i n } } f _ { i } ^ { b ( 3 ) } } \\\\ { { D _ { 0 } , D _ { i j } , D _ { i j k } ( p _ { 4 } , - p _ { 2 } , p _ { 3 } , m _ { b } , m _ { b } , m _ { i } , m _ { i } ) } } & { { \\mathrm { ~ i n } } f _ { i } ^ { b ( 5 ) } } \\end{array}$ 1 and ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { s } = ( p _ { 1 } + p _ { 2 } ) ^ { 2 } , ~ \\hat { t } = ( p _ { 3 } - p _ { 1 } ) ^ { 2 } , ~ \\hat { u } = ( p _ { 3 } - p _ { 2 } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { 1 } \\cdot p _ { 2 } = { \\frac { 1 } { 2 } } ( \\hat { s } - 2 m _ { t } ^ { 2 } ) , p _ { 1 } \\cdot p _ { 3 } = p _ { 2 } \\cdot p _ { 4 } = { \\frac { 1 } { 2 } } ( m _ { t } ^ { 2 } - \\hat { t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { 3 } \\cdot p _ { 4 } = \\frac { 1 } { 2 } \\hat { s } , \\qquad p _ { 1 } \\cdot p _ { 4 } = p _ { 2 } \\cdot p _ { 3 } = \\frac { 1 } { 2 } ( m _ { t } ^ { 2 } - \\hat { u } )\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { H ^ { 0 } } = \\frac { \\sin ^ { 2 } \\alpha } { \\sin ^ { 2 } \\beta } , \\eta _ { h } = \\frac { \\cos ^ { 2 } \\alpha } { \\sin ^ { 2 } \\beta } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { A } = \\cot ^ { 2 } \\beta , \\eta _ { H ^ { + } } = \\cot ^ { 2 } \\beta + \\frac { m _ { b } ^ { 2 } } { m _ { t } ^ { 2 } } \\tan ^ { 2 } \\beta , \\eta _ { Z } = \\eta _ { W ^ { + } } = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Appendix B ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The expressions of $H _ { i } ( m _ { t } , p _ { 1 } \\cdot p _ { 2 } , p _ { 1 } \\cdot p _ { 3 } , p _ { 1 } \\cdot p _ { 4 } , p _ { 3 } \\cdot p _ { 4 } , )$ in the amplitude squared are given by ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 2 2 }  1  0 , } } \\\\ { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 2 1 }  1  0 , } } \\\\ { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 2 2 }  1  0 , } } \\\\ { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 2 2 }  1  0 , } } \\\\ { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 3 3 }  1 , } } \\\\ { { \\hat { u } _ { 2 } } } & { { = } } & { { \\hat { u } _ { 3 4 }  1 , } } \\\\ { { \\hat { u } _ { 4 } } } & { { = } } & { { \\hat { u } _ { 4 4 }  1 , } } \\\\ { { \\hat { u } _ { 5 } } } & { { = } } & { { \\hat { u } _ { 5 }  1  0 , } } \\\\ { { \\hat { u } _ { 6 } } } & { { = } } & { { \\hat { u } _ { 7 }  1  1  0 , } } \\\\ { { \\hat { u } _ { 7 } } } & { { = } } & { { \\hat { u } _ { 8 4 }  1 , } } \\\\ { { \\hat { u } _ { 8 } } } & { { = } } & { { \\hat { u } _ { 8 4 }  1  1 , } } \\\\ { { \\hat { u } _ { 7 } } } & { { = } } & { { \\hat { u } _ { 1 8 }  1  1  0 , } } \\\\ { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 1 7 }  1  1  1 , } } \\\\ { { \\hat { u } _ { 1 } } } & { { = } } & { { \\hat { u } _ { 1 7 }  1  1  1 , } } \\\\ { { \\hat { u } _ { 8 } } } & { { = } } & { { \\hat { u } _ { 1 7 }  1  1  1 , } } \\\\ { { \\hat { u } _ { 1 3 } } } & { { = } } & { { \\hat { u } _ { 1 7 }  1  1 , } } \\\\ { { \\hat { u } _ { 1 3 } } } & { { = } } & { { \\hat { u } _ { 2 7 }  1  1 , } } \\\\ { { \\hat { u } _ { 1 4 } } } & { { = } } & { { \\hat { u } _ { 2 7 }  1  1 , } } \\\\ { { \\hat { u } _ { 2 4 } } } & { { = } } & { { \\hat { u } _ { 1 6 }  1  1 , } } \\\\ { { \\hat { u } _ { 2 7 } } } &   \\end{array}\n$$$$\n\\begin{array} { r l } { I L _ { 1 } } & { = - 8 \\omega _ { 1 } ^ { 4 } - 8 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } - 2 4 \\omega _ { 1 } ^ { 5 } \\omega _ { 1 } } \\\\ { L _ { 2 } } & { = - 8 \\omega _ { 1 } ^ { 6 } \\omega _ { 1 } - 6 \\omega _ { 1 } ^ { 6 } \\omega _ { 1 } + 8 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } - 8 2 \\omega _ { 1 } ^ { 6 } \\omega _ { 1 } + 2 4 \\omega _ { 1 } ^ { 6 } \\omega _ { 1 } + 2 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } ^ { 2 } + 9 6 \\omega _ { 1 } ^ { 4 } } \\\\ & { \\quad - 4 5 \\omega _ { 1 } ^ { 6 } \\omega _ { 1 } + 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 6 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 2 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } ^ { 2 } + 2 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } ^ { 2 } + 5 6 \\omega _ { 1 } ^ { 4 } } \\\\ { L _ { 4 } } & { = - 4 5 \\omega _ { 1 } ^ { 6 } \\omega _ { 1 } - 2 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 1 6 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 6 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } ^ { 3 } + 8 2 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } } \\\\ { L _ { 5 } } & { = - 8 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 5 \\omega _ { 1 } ^ { 2 } \\omega _ { 1 } ^ { 2 } + 9 6 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 1 6 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } ^ { 2 } + 5 6 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } } \\\\ { L _ { 1 2 } } & { = - 4 5 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 2 4 \\omega _ { 1 } ^ { 2 } \\omega _ { 1 } + 9 6 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } + 7 \\omega _ { 1 } ^ { 2 } + 5 6 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } - 8 4 \\omega _ { 1 } ^ { 3 } \\omega _ { 1 } + 2 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } } \\\\ { I L _ { 1 2 } } & { = 8 \\omega _ { 1 } ^ { 4 } - 1 6 5 \\omega _ { 1 } ^ { 4 } - 1 6 5 \\omega _ { 1 } ^ { 4 } + 2 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } ^ { 4 } + 1 6 5 \\omega _ { 1 } ^ { 4 } + 2 4 \\omega _ { 1 } ^ { 4 } \\omega _ { 1 } } \\\\ &  \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\rho _ { 1 1 } } & { { }  \\exp \\{ - \\beta ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\frac { 1 } { 2 } \\} \\exp \\{ - \\beta ( \\gamma + 1 ) \\} } \\\\ { H _ { 1 1 } } & { { }  \\exp \\{ - \\alpha \\} \\cdot \\exp \\{ - \\beta ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\beta ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\gamma ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\quad } & { { }  \\exp \\{ - \\gamma ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\beta ( \\gamma + 1 ) \\} } \\\\ { \\quad } & { { }  \\exp \\{ - \\alpha \\} \\cdot \\exp \\{ - \\alpha \\} \\cdot \\exp \\{ - \\beta ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\mu _ { 1 1 } } & { { }  \\exp \\{ - \\alpha \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\quad } & { { }  \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\mu _ { 1 1 } } & { { }  \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\beta ( \\gamma + 1 ) \\} } \\\\ { \\quad } & { { }  \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\quad } & { { }  \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\mu _ { 1 1 } } & { { }  \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\ { \\mu _ { 1 1 } } & { { }  \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} \\cdot \\exp \\{ - \\alpha ( \\gamma + 1 ) \\} } \\\\  H _ { 1 2 }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[1] CDF Collaboration,F. Abe et al., Phys.Rev. D50,2966(1994).   \n[2] V.Barger and R. J. N. Phillips,Institution Report No. MAD/PH/780, 1993(unpublished).   \n[3] A. Blondel, F. M. Renard, and C. Verzegnassi, Phys. lett. B269, 419(1991).   \n[4] M.E.Peskin，in Physics and Experiments with Linear Colliders, Proceedings of the Workshop, Saariselka, Finland, 1991,edited by R. Orava,P.Eerala,and M. Nordberg(World scientific,Singapore, 1992), P.1.   \n[5] I.F.Ginzbyrg,G. L. Kotkin，V. G. Serbo and V. I. Telnov, Pis'ma ZHETF 34(1981)514; Nucl. Instr. Methods 205(1983) 47.   \n[6] F.R.Arutyunian and V.A. Tumanian,Phys. lett. 4,176(1963)；R.H.Milburn, Phys. Rev. D47,1889(1993).   \n[7] O. J. P. Eboli et al., Phys. Rev. D47, 1889(1993).   \n[8] J. H. Kühn, E. Mirkes, and J. Steegborn, Z. Phys. C57, 615(1993).   \n[9] K. Cheung, Phys. Rev. D47, 3750(1993)； D. Bowser-Chao, K. Cheung,and S. Thomas, Northewestern preprint NUHEP-TH-93-7(1993).   \n[10] For a review, see, for example, J. F. Gunion, H. E. Haber, G. Kane and S. Dawson, The Higgs Hunters’ Guide(Addison-Wesley, Reading,MA,1990).   \n[11] K.I. Aoki et al., Prog. Theor. Phys. Suppl. 73,1 (1982); M. Bohm,W. Hollik, H. Spiesbergerm, Fortschr. Phys. 34, 687 (1986).   \n[12] V. Telnov, Nucl. Instrum. Methods A294,72(1990); I. Ginzburg, G. Kotkin, V. Serbo,and V. Telnov, ibid. 2.   \n[13] Particle Data Group, Phys. Rev. D50, No.3(1994).   \n[14] V. Barger, M. S. Berger and P. Ohmann, Phys. Rev.D47,1093(1993).   \n[15] A. Stange and S. Willenbrock, Phys. Rev. D 48, 2054(1993).   \n[16] A.Deener, S.Dittmaier and M. Strobel, Preprint, BI-TP 95/27.   \n[17] G. Passarino and M. Veltman, Nucl. Phys. B160, 151 (1979);A. Axelrod, Nucl. Phys. B209, 349 (1982); M. Clements etal., Phys. Rev. D27., 570 (1983). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Feynman diagrams contributive to $O ( \\alpha m _ { t } ^ { 2 } / m _ { W } ^ { 2 } )$ Yukawa corrections to $\\gamma \\gamma \\to t t$ (a),(b) tree level diagrams; (c)-(e) self-energy diagrams; (f)-(i) vertex diagrams; (j) including neutral Higgs exchange diagrams; (k) including $\\gamma \\gamma H ^ { + } H ^ { + } ( \\gamma \\gamma G ^ { + } G ^ { + } )$ -coupling diagrams; (l)-(n) box diagrams. Here we only plot the one-loop diagrams corresponding to tree-level diagram (a). The dashed lines represent $H , h , A , H ^ { \\pm } , G ^ { 0 } , G ^ { \\pm }$ for diagrams (c),(d),(e),(f),(h),(1), $H ^ { \\pm } , G ^ { \\pm }$ for diagrams (g),(i),(k),(m),(n) and $H , h$ for diagrama(j). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Plot $\\Delta \\sigma / \\sigma _ { 0 }$ versus $M _ { h }$ in the standard model. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Plot $\\Delta \\sigma / \\sigma _ { 0 }$ versus $M _ { h }$ for $M _ { A } = 6 0 0$ GeV in the two-Higgs-doublet model ( $\\alpha = \\beta =$ 0.25). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Plot $\\Delta \\sigma / \\sigma _ { 0 }$ versus $M _ { A }$ for $M _ { h } = 6 0 0$ GeV in the two-Higgs-doublet model ( $\\alpha = \\beta =$ 0.25). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Plot $\\Delta \\sigma / \\sigma _ { 0 }$ versus $M _ { A }$ in the minimal SUSY model for $\\tan \\beta = 0 . 2 5$ ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Plot $\\Delta \\sigma / \\sigma _ { 0 }$ versus $M _ { A }$ in the minimal SUSY model for $\\tan \\beta = 1$ ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Plot $\\Delta \\sigma / \\sigma _ { 0 }$ versus $M _ { A }$ in the minimal SUSY model for $\\tan \\beta = 5$ ",
+        "page_idx": 19
+    }
+]

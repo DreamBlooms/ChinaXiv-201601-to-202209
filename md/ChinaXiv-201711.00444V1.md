@@ -1,0 +1,190 @@
+1 饲粮营养限制对早期断奶湖羊羔羊生长性能以及内脏器官发育的影响！
+
+祁敏丽 $^ 1$ 柴建民」王波」孟春花²陶晓箐张蓉 $^ 1$ 刁其玉 $^ 1$ 张乃锋1\*（1.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081；2.
+
+江苏省农业科学院畜牧研究所，南京 210000；3.江苏省姜堰市海伦羊业有限公司，泰州摘要：本文旨在研究饲粮营养限制对早期断奶湖羊羔羊生长性能以及内脏器官发育的影响。
+
+选取64只17 日龄湖羊羔羊随机分为4组，分别为对照（CON）组、 $20 \%$ 蛋白质限制(PR)组、 $20 \%$ 能量限制(ER)组、 $20 \%$ 蛋白质和能量同时限制(BR)组，每组4个重复，每重复4只羔羊，公母各占1/2。预试期4d，正试期 $4 0 \mathrm { ~ d ~ }$ 。记录羔羊开食料和代乳品的采食量，于40和60 日龄时每重复屠宰1只羔羊，测定羔羊内脏器官重量。结果表明：1）PR 组、BR 组21\~40 日龄，PR 组、ER 组和 BR 组 $4 1 { \sim } 6 0$ 日龄的平均日增重显著低于CON 组（ $_ { . P < 0 . 0 5 ) }$ ；试验组 21\~40 日龄，PR 组和 BR 组 $4 1 { \sim } 6 0$ 日龄料重比显著高于CON 组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ )。2）40日龄时 PR 组、ER 组和 BR 组的羔羊肝脏重及其占宰前活重比例、瘤胃重及其占复胃重比例均显著低于CON 组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ；60日龄时ER组和BR组肝脏重及其占宰前活重比例、瘤胃重及其占复胃重比例均显著低于PR组与CON 组（ $_ { \cdot P < 0 . 0 5 } )$ )。综合得出，蛋白质限制抑制21\~60 日龄断奶羔羊生长性能的发挥，抑制断奶早期（21\~40 日龄）内脏器官的发育，能量限制抑制断奶羔羊内脏器官发育，尤其是肝脏和瘤胃的发育。
+
+关键字：羔羊；营养限制；生长性能；器官发育
+
+中图分类号：S826
+
+湖羊是世界著名的多胎绵羊品种之一，具有繁殖力强、宜舍饲、早期生长发育快、产肉性能和肉质较好等优良特性。随着我国规模化养殖和羔羊肉生产成为肉羊产业的发展方向，湖羊羔羊育肥在养羊产业中占有举足轻重的地位。羔羊组织器官和胃肠道发育程度对其生长发育和生产性能的发挥具有决定性作用[1]。研究表明，早期营养不足广泛影响机体组织器官和胃肠道的发育[2]。吴端钦等[3]、高峰等[4]、张崇志等[5]报道妊娠期母羊能量和蛋白质缺乏抑制了羔羊胎儿发育，羔羊肉品质等。李东等[6、李俊良等[7]、冯辉等[8]、张冬梅等[]、陈军强等[10]研究发现，能量和蛋白质限制降低了3月龄以上断奶羔羊增重、器官发育、消化代谢及瘤胃发酵功能等。出生至2月龄羔羊处于快速生长阶段，其组织器官和胃肠道功能尚未发育完善，其生长发育极易受到环境因素(尤其是营养因素)的影响。生产中因母羊年龄、健康、体况等因素致使母乳产量以及营养水平差异大，使得哺乳期羔羊机体发育尤其是体重的差异很大，不利于集约化和规模化的管理。而关于能量和蛋白质营养限制对2月龄以内羔羊组织器官发育的研究报道很少。因此，本试验采用营养限制的方法探讨饲粮能量和蛋白质营养对早期断奶湖羊羔羊生长性能以及内脏器官发育尤其是胃肠道发育的影响，以期丰富羔羊生理研究的理论同时为羔羊生产提供理论支持。
+
+1材料与方法
+
+1.1试验时间和地点试验于2014年11月至2014年12月在江苏省泰州市海伦羊业有限公司进行。
+
+# 1.2 试验设计和试验动物
+
+本试验采用随机试验设计，试验因素为饲粮（代乳品和开食料）中的营养水平。选取64只出生日期、体重[（ $2 . 5 { \pm } 0 . 2 \$ ）kg]相近，（ $1 7 \pm 1$ ）日龄体况良好的纯种湖羊羔羊，随机分为4个组，每组4个重复，每重复4只羔羊，公母各占1/2，每重复羔羊在1个栏位饲喂。其中，对照（CON）组饲喂基础饲粮，试验组对基础饲粮分别进行消化能进行 $20 \%$ 限制（ER组)，蛋白质 $20 \%$ 限制（PR组)，消化能和蛋白质同时 $20 \%$ 限制（BR组)。试验前4天预试期，21日龄进入正试期，直至羔羊60日龄。试验期共 $4 4 \ : \mathrm { d } _ { \circ }$ CON组羔羊自由采食开食料，PR 组、ER 组和BR组羔羊开食料饲喂量参照CON 组前1天采食量进行饲喂，保持所有试验组羔羊具有相近的采食量。
+
+# 1.3 试验饲料
+
+参照文献[11]推荐的 $1 0 \mathrm { k g }$ 体重、平均日增重为 $3 0 0 \mathrm { g / d }$ 的营养需要量设置CON 组营养水平，并相应设置 ER 组、PR 组和 BR 组的营养水平。饲粮包括代乳品和开食料。以本实验室研究结果确定CON组代乳品营养水平（消化能： $1 8 \ \mathrm { M J / k g }$ ；粗蛋白质： $24 \%$ ）[12]，然后根据营养需要和代乳品营养水平确定开食料中的消化能和粗蛋白质水平。羔羊代乳品由北京精准动物研究中心提供，营养水平见表1；开食料为颗粒饲料（直径 $4 \mathrm { m m }$ ，长度 $1 0 \mathrm { m m } \mathrm { \dot { \Omega } }$ )，自行配制，预混料由北京精准动物研究中心提供，开食料组成及营养水平见表2。
+
+Table1Nutrient levels of milk replacers (DM basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td></tr><tr><td>CON</td><td>PR ER</td><td>BR</td></tr><tr><td>干物质 DM</td><td>94.35</td><td>94.51</td><td>93.33 93.48</td></tr><tr><td>粗蛋白质CP</td><td>24.21</td><td>19.13 24.45</td><td>19.26</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>14.83</td><td>14.77 12.55</td><td>12.55</td></tr><tr><td>粗脂肪 EE</td><td>20.58</td><td>20.78 11.06</td><td>10.92</td></tr><tr><td>粗灰分 Ash</td><td>4.99</td><td>4.84 4.81</td><td>4.88</td></tr><tr><td>钙Ca</td><td>0.95</td><td>0.95 0.95</td><td>0.95</td></tr><tr><td>总磷TP</td><td>0.68</td><td>0.68 0.68</td><td>0.68</td></tr></table></body></html>
+
+营养水平除代谢能外均为实测值。代谢能参照王桂秋[13]试验结果及《肉羊饲养标准》(NY/T816-2004)[14] 计算。Nutrient levels were measured Values except ME. ME was calculated according to the results of WANG [13] and Feeding Standard of Sheep (NY/T 816-2004)[14].
+
+表2开食料组成及营养水平(干物质基础)  
+Table 2Composition and nutrient levels of starters (DM basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>CON</td><td>BR</td><td>ER</td><td>PR</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>53</td><td>62</td><td>25</td><td>38</td></tr><tr><td>豆粕 Soybean meal</td><td>27</td><td>14</td><td>27</td><td>16</td></tr><tr><td>稻壳粉 Powdered rice hulls</td><td>0</td><td>0</td><td>16</td><td>17</td></tr><tr><td>小麦麸 Wheat bran</td><td>6</td><td>10</td><td>18</td><td>15</td></tr><tr><td>预混料 Premixl</td><td>4</td><td>4</td><td>4</td><td>4</td></tr><tr><td>苜蓿草粉 Alfalfa meal</td><td>10</td><td>10</td><td>10</td><td>10</td></tr><tr><td>合计 Total</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>86.59</td><td>86.50</td><td>87.35</td><td>87.25</td></tr><tr><td>粗蛋白质 CP</td><td>20.80</td><td>16.35</td><td>20.68</td><td>16.10</td></tr><tr><td>粗脂肪 EE</td><td>2.89</td><td>3.12</td><td>2.67</td><td>2.83</td></tr><tr><td>粗灰分 Ash</td><td>9.71</td><td>9.82</td><td>9.85</td><td>9.82</td></tr><tr><td>粗纤维CF</td><td>5.03</td><td>4.87</td><td>10.45</td><td>10.13</td></tr><tr><td>钙Ca</td><td>0.41</td><td>0.40</td><td>0.51</td><td>0.46</td></tr><tr><td>磷P</td><td>0.24</td><td>0.21</td><td>0.26</td><td>0.22</td></tr><tr><td>代谢能ME/(MJ/kg)</td><td>10.59</td><td>10.61</td><td>8.52</td><td>8.52</td></tr></table></body></html>
+
+1预混料为每千克开食料提供 The premix provided the folowing per kg of starters：VA12 000 IU，VD 2)0 IU，VE 30 IU, $\mathrm { C u } 1 2 \mathrm { m g }$ ，Fe $6 4 ~ \mathrm { m g }$ ， $\mathrm { M n } 5 6 \mathrm { m g }$ ， $Z n 6 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 . 2 \ : \mathrm { m g }$ ，Se $0 . 4 ~ \mathrm { m g }$ ，Co $0 . 4 ~ \mathrm { m g }$ 。
+
+准》(NY/T 816-2004)[14]计算。Nutrient levels were measured values except ME.ME was calculated according to TablesofFeed Composition and Nutritive Values in China 2012 and Feeding Standard ofSheep (NY/T816-2004) [14]
+
+# 1.4饲养管理
+
+试验羔羊初生至17日龄饲养于产房内随母哺乳，利用3d时间逐步从母乳过渡到饲喂代乳品，过渡期每日增加代乳品饲喂量1/3。到20日龄试验羔羊由产房转移到试验场地，与母羊分离，断掉母乳饲喂代乳品。羔羊在21\~50 日龄和 51\~60 日龄期间，代乳品的饲喂量以羔羊体重的 $2 . 0 \%$ 和 $1 . 5 \%$ 为标准。21\~30日龄每日饲喂3次（08:00、12:00、18:00)，31\~60日龄每日饲喂2次（09:00、18:00)；代乳品饲喂前用煮沸后冷却至 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的热水按代乳品：水 $\Longrightarrow 1 : 5$ 冲泡，冷却至 $4 0 \ \mathrm { ^ \circ C }$ 饲喂[15]。
+
+所有试验动物都于17日龄开始训练采食开食料。所有试验羔羊均于试验前打好耳号，按照羊场日常程序进行免疫。羊舍为半开放式暖棚，通风良好，每隔半月带羊消毒1次 $( 0 . 5 \%$ 百毒杀、 $0 . 1 \%$ 新洁尔灭)。
+
+# 1.5 测定指标与方法
+
+代乳粉及开食料中营养水平测定方法：总能使用Parr-6400氧弹量热仪测定；粗蛋白质含量采用KDY-9830全自动凯氏定氮仪测定；干物质、粗脂肪、粗灰分、粗纤维及钙、磷含量参考《饲料分析及饲料质量检测技术》[16]测定。
+
+生长性能：分别称取羔羊20、40以及60日龄的体重。
+
+采食量：准确称量并记录羔羊代乳品的饲喂量。开食料饲喂前准确记录羔羊的投料量和前1天的剩料量，并采集饲料样和剩料样，用于计算羔羊采食量。
+
+器官指数：于羔羊40 和60 日龄时每组选取健康、接近平均体重的4只羔羊(每个重复1 只)禁食、禁水 $1 6 \mathrm { h }$ 后进行屠宰[17],公母占1/2。屠宰前称取羔羊宰前活重(live weight beforeslaughter，LWBS)。羔羊进行放血屠宰。按照《家畜解剖学及组织胚胎学》[18]进行解剖，分离羔羊心脏、肝脏、肺脏、脾脏、肾脏并称取各内脏器官鲜重；消化道清除内容物并清洗干净，分别称取瘤胃、网胃、瓣胃、皱胃以及大肠和小肠的重量。
+
+器官重占宰前活重比例 $( \% ) = 1 0 0 \times$ 器官重（g）/宰前活重（g)；  
+单个胃室重占复胃重比例 $( \% ) = 1 0 0 \times$ 单个胃室重（g）/4个胃室总重（g）。
+
+# 1.6 统计方法
+
+试验所得数据经过Excel处理后，采用SAS8.1统计软件进行分析，使用ANOVA模型进行统计分析，差异显著使用Duncan氏进行多重比较。所有数据均以 $P { < } 0 . 0 5$ 作为差异显著判断的标准， $0 . 0 5 { \le } P { < } 0 . 1 0$ 作为有变化趋势的判断标准。
+
+2 结果与分析
+
+2.1 生长性能
+
+由表3可见，PR 组和BR 组羔羊21\~40日龄平均日增重显著低于CON 组（ $. P { < } 0 . 0 5 )$ ：PR组、ER组和BR组羔羊41\~60日龄和 $2 1 { \sim } 6 0$ 日龄的平均日增重显著低于CON组( $( P { < } 0 . 0 5 )$ ）4 组羔羊代乳品采食量相同，开食料采食量差异不显著（ $P { > } 0 . 0 5$ )。PR组、ER组和BR组21\~60 日龄料重比显著高于CON 组（ $. P { < } 0 . 0 5 )$ 。
+
+表3饲粮营养限制对早期断奶湖羊羔羊生长性能的影响  
+Table 3Effects of nutritional restriction on growth performance of early-weaned Hu lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">日龄 Days of age</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>平均日增重</td><td>21~40</td><td>163.80a</td><td>121.87b</td><td>150.26ab</td><td>118.62b</td><td>7.00</td><td>0.0375</td></tr><tr><td>ADG/(g/d)</td><td>41~60</td><td>293.80a</td><td>251.23b</td><td>245.19b</td><td>218.47c</td><td>2.89</td><td><0.000 1</td></tr><tr><td rowspan="3">代乳品采食量 Milk</td><td>21~60</td><td>228.80a</td><td>186.56b</td><td>197.72b</td><td>168.55c</td><td>6.19</td><td><0.000 1</td></tr><tr><td>21~40</td><td>129.25</td><td>129.25</td><td>129.25</td><td>129.25</td><td></td><td></td></tr><tr><td>41~60</td><td>180.00</td><td>180.00</td><td>180.00</td><td>180.00</td><td></td><td></td></tr><tr><td>replacer intake/(g/d)</td><td>21~60</td><td>154.63</td><td>154.63</td><td>154.63</td><td>154.63</td><td></td><td></td></tr><tr><td>开食料采食量 Starter</td><td>21~40</td><td>159.25</td><td>160.50</td><td>160.76</td><td>169.25</td><td>6.92</td><td>0.677 4</td></tr><tr><td>intake/(g/d)</td><td>41~60</td><td>492.67</td><td>484.01</td><td>505.20</td><td>479.78</td><td>5.58</td><td>0.391 9</td></tr><tr><td rowspan="3">料重比F/G</td><td>21~60</td><td>325.96</td><td>322.26</td><td>337.22</td><td>320.26</td><td>3.36</td><td>0.3148</td></tr><tr><td>21~40</td><td>1.78a</td><td>2.43b</td><td>2.15b</td><td>2.52b</td><td>0.12</td><td>0.0385</td></tr><tr><td>41~60</td><td>2.29a</td><td>2.64b</td><td>2.80bc</td><td>3.02c</td><td>0.07</td><td><0.000 1</td></tr><tr><td></td><td>21~60</td><td>2.10a</td><td>2.57b</td><td>2.49b</td><td>2.82c</td><td>0.07</td><td>0.0002</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5$ )。下表同。
+
+In the same row, values with different small letter superscripts mean significant different $( P { < } 0 . 0 5 )$ . The same below.
+
+# 2.2 内脏器官发育
+
+由表4可见，40 日龄时，ER组、PR 组和BR 组羔羊心脏重、肝脏重和脾脏重显著低于CON组（ $_ { , P < 0 . 0 5 ) }$ ，肾脏重和肺脏重有低于CON组的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 \$ )。ER组、PR组和BR组的羔羊肝脏重占宰前活重比例显著低于CON 组（ $_ { . } P { < } 0 . 0 5 )$ 。ER组羔羊肺脏重和肾脏重占宰前活重比例显著高于PR组、CON 组、BR 组（ $. P { < } 0 . 0 5 \$ )。PR 组和ER组的心脏重占宰前活重比例有低于BR 组和CON 组的趋势（ $_ { } \mathrm { ~ ( 0 . 0 5 \leqslant } P \mathrm { < 0 . 1 0 } \mathrm { ~ ) ~ }$ )。ER组和BR组的脾脏重占宰前活重比例有低于PR组和CON组的趋势（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0 \$ ）
+
+60 日龄时，ER组、PR 组和BR 组羔羊心脏重、肺脏重和肾脏重及它们占宰前活重比例与CON组没有显著性的差异（ $\scriptstyle P > 0 . 0 5 .$ )。ER组与BR组的肝脏重以及其占宰前活重比例显著低于PR组和CON 组（ $_ { \cdot P < 0 . 0 5 }$ )。ER 组的脾脏重显著低于CON 组和PR 组（ $P { < } 0 . 0 5 )$ ，ER 组、PR 组和 BR 组羔羊的脾脏重占宰前活重比例有低于CON 组的趋势 $( 0 . 0 5 { \leqslant } P { < } 0 . 1 0 )$ 。
+
+表4饲粮营养限制对早期断奶湖羊羔羊内脏器官发育的影响  
+Table 4Effects of nutritional restriction on development of visceral organs of early-weaned $H u$ lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">器官Organs</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td>P值</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td><td>P-value</td></tr><tr><td colspan="2">40 日龄 40 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5">重量Weight/g</td><td>心脏Heart</td><td>62.40a</td><td>48.43b</td><td>44.70b</td><td>44.95b</td><td>2.26</td><td>0.021 2</td></tr><tr><td>肝脏Liver</td><td>228.58a</td><td>175.70b</td><td>156.18b</td><td>163.18b</td><td>10.48</td><td>0.006 1</td></tr><tr><td>脾脏 Spleen</td><td>19.65a</td><td>14.90b</td><td>11.83b</td><td>12.32b</td><td>1.06</td><td>0.002 6</td></tr><tr><td>肺脏Lung</td><td>156.60</td><td>110.58</td><td>122.45</td><td>131.35</td><td>7.47</td><td>0.068 9</td></tr><tr><td>肾脏Kidney</td><td>46.20</td><td>35.90</td><td>37.20</td><td>39.80</td><td>1.64</td><td>0.062 5</td></tr><tr><td></td><td>心脏Heart</td><td>0.62</td><td>0.57</td><td>0.58</td><td>0.63</td><td>0.02</td><td>0.059 5</td></tr><tr><td>占宰前活重比</td><td>肝脏Liver</td><td>2.27a</td><td>2.09b</td><td>2.00b</td><td>2.17b</td><td>0.08</td><td>0.021 4</td></tr><tr><td>例 Percentage</td><td>脾脏 Spleen</td><td>0.19</td><td>0.19</td><td>0.15</td><td>0.16</td><td>0.01</td><td>0.0573</td></tr><tr><td>of LWBS/%</td><td>肺脏Lung</td><td>1.55a</td><td>1.33a</td><td>1.56a</td><td>1.75b</td><td>0.06</td><td>0.016 5</td></tr><tr><td></td><td>肾脏 Kidney</td><td>0.46a</td><td>0.43a</td><td>0.48a</td><td>0.56b</td><td>0.03</td><td>0.039 3</td></tr><tr><td colspan="2">60 日龄 60 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5">重量Weight/g</td><td>心脏 Heart</td><td>75.28</td><td>81.50</td><td>71.93</td><td>69.88</td><td>2.77</td><td>0.116 0</td></tr><tr><td>肝脏Liver</td><td>349.13a</td><td>339.55a</td><td>281.18b</td><td>278.03b</td><td>10.42</td><td>0.006 9</td></tr><tr><td>脾脏 Spleen</td><td>23.08a</td><td>23.58a</td><td>18.70b</td><td>20.80ab</td><td>0.95</td><td>0.044 6</td></tr><tr><td>肺脏Lung</td><td>229.43</td><td>229.65</td><td>211.75</td><td>195.00</td><td>9.60</td><td>0.163 4</td></tr><tr><td>肾脏 Kidney</td><td>53.75</td><td>58.55</td><td>57.25</td><td>58.48</td><td>2.01</td><td>0.368 9</td></tr><tr><td></td><td>心脏Heart</td><td>0.52</td><td>0.58</td><td>0.58</td><td>0.54</td><td>0.02</td><td>0.173 8</td></tr><tr><td>占宰前活重比</td><td>肝脏Liver</td><td>2.42a</td><td>2.43a</td><td>2.23b</td><td>2.14b</td><td>0.08</td><td>0.019 3</td></tr><tr><td>例 Percentage</td><td>脾脏 Spleen</td><td>0.14</td><td>0.11</td><td>0.10</td><td>0.11</td><td>0.01</td><td>0.057 4</td></tr><tr><td>of LWBS/%</td><td>肺脏Lung</td><td>1.58</td><td>1.64</td><td>1.69</td><td>1.49</td><td>0.06</td><td>0.229 7</td></tr><tr><td></td><td>肾脏Kidney</td><td>0.38</td><td>0.42</td><td>0.46</td><td>0.45</td><td>0.02</td><td>0.182 2</td></tr></table></body></html>
+
+# 2.3 复胃发育
+
+由表5可见，40日龄时，PR组、ER组和BR 组羔羊瘤胃重显著低于CON 组 $( P { < } 0 . 0 5 )$ 。BR 组羔羊网胃重和瓣胃重显著低于CON组（ $. P { < } 0 . 0 5 \ '$ )。ER 组、PR 组和BR 组羔羊复胃重显著低于CON 组（ $( P { < } 0 . 0 5 )$ )。PR 组、ER 组和BR组羔羊瘤胃重占复胃重比例显著低于CON组（ $_ { . P < 0 . 0 5 } )$ 。BR组羔羊网胃重、瓣胃重占宰前活重比例显著低于其余3组（ $_ { , P < 0 . 0 5 ) }$ ，但皱胃重占复胃重比例显著高于其余3组（ $_ { . P < 0 . 0 5 ) }$ 。复胃重占宰前活重比例4组间差异不显著（ $. P { > } 0 . 0 5 )$ ）°
+
+60 日龄时，CON 组羔羊瘤胃重最高，显著高于其他各组（ $P { < } 0 . 0 5 )$ ，PR组次之，ER组和BR组最低。BR组瘤胃重占宰前活重比例显著低于CON组（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。各组网胃重、瓣胃重以及皱胃重及其占宰前活重比例均差异不显著 ${ \mathrm { ( } } P { \mathrm { > } } 0 . 0 5 { \mathrm { ) } }$ )。BR组的瓣胃重占复胃重比例显著高于PR 组和CON 组（ $_ { . P < 0 . 0 5 ) }$ 。ER 组、PR 组和BR 组羔羊复胃重显著低于CON组（ $_ { \cdot P < 0 . 0 5 ) }$ ，其占宰前活重比例4组间差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表5饲粮营养限制对早期断奶湖羊羔羊复胃发育的影响  
+Table 5Effects of nutritional restriction on development of complex stomachs of early-weaned $H u$ lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">器官Organs</td><td rowspan="2"></td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>40日龄 40 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>瘤胃 Rumen</td><td></td><td>186.35a</td><td>143.30b</td><td>131.33b</td><td>114.63b</td><td>10.22</td><td>0.001 7</td></tr><tr><td>重量</td><td>网胃Reticulum</td><td></td><td>27.50a</td><td>23.43ab</td><td>21.10ab</td><td>16.90b</td><td>1.39</td><td>0.005 0</td></tr><tr><td>Weight/g</td><td>瓣胃Omasum</td><td></td><td>12.60a</td><td>11.93ab</td><td>10.48ab</td><td>8.60b</td><td>0.96</td><td>0.018 4</td></tr><tr><td></td><td>皱胃Abomasum</td><td></td><td>59.34</td><td>49.35</td><td>47.75</td><td>46.90</td><td>3.36</td><td>0.187 6</td></tr><tr><td></td><td></td><td>复胃 Complex stomachs</td><td>300.78a</td><td>228.00b</td><td>210.65b</td><td>190.03b</td><td>14.34</td><td>0.028 4</td></tr><tr><td>占复胃重比例</td><td>瘤胃 Rumen</td><td></td><td>65.22a</td><td>62.93b</td><td>62.08b</td><td>59.68b</td><td>1.09</td><td>0.022 1</td></tr><tr><td>Percentage of total</td><td>网胃Reticulum</td><td></td><td>9.58</td><td>10.43</td><td>10.34</td><td>8.92</td><td>0.32</td><td>0.056 8</td></tr><tr><td>complex stomach</td><td>瓣胃</td><td>Omasum</td><td>4.43ab</td><td>5.12a</td><td>4.74ab</td><td>3.54b</td><td>0.25</td><td>0.018 7</td></tr><tr><td>weight/%</td><td>皱胃Abomasum</td><td></td><td>20.77a</td><td>21.51a</td><td>22.84a</td><td>27.85b</td><td>1.18</td><td>0.008 4</td></tr><tr><td>占宰前活重比例</td><td>瘤胃 Rumen</td><td></td><td>1.85</td><td>1.61</td><td>1.69</td><td>1.52</td><td>0.08</td><td>0.087 4</td></tr><tr><td>Percentage of</td><td>网胃Reticulum</td><td></td><td>0.27a</td><td>0.27a</td><td>0.28a</td><td>0.23b</td><td>0.01</td><td>0.025 0</td></tr><tr><td>LWBS/%</td><td>瓣胃Omasum</td><td></td><td>0.12a</td><td>0.14a</td><td>0.13a</td><td>0.09b</td><td>0.01</td><td>0.035 4</td></tr><tr><td></td><td>皱胃Abomasum</td><td></td><td>0.59</td><td>0.59</td><td>0.61</td><td>0.69</td><td>0.03</td><td>0.185 1</td></tr><tr><td>60日龄 60 days of age</td><td></td><td>复胃 Complex stomachs</td><td>2.83</td><td>2.70</td><td>2.70</td><td>2.54</td><td>0.11</td><td>0.850 6</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>瘤胃Rumen</td><td></td><td>347.90a</td><td>285.75b</td><td>268.48c</td><td>237.43c</td><td>10.82</td><td>0.000 2</td></tr><tr><td>重量</td><td>网胃Reticulum</td><td></td><td>45.25</td><td>39.83</td><td>40.25</td><td>39.25</td><td>1.25</td><td>0.1018</td></tr><tr><td>Weight/g</td><td>瓣胃Omasum</td><td></td><td>27.13</td><td>22.78</td><td>25.73</td><td>26.38</td><td>0.87</td><td>0.136 3</td></tr><tr><td></td><td>皱胃Abomasum</td><td></td><td>82.98</td><td>65.30</td><td>70.13</td><td>70.55</td><td>2.53</td><td>0.098 5</td></tr><tr><td>占复胃重比例</td><td></td><td>复胃 Complex stomachs</td><td>499.05a</td><td>413.58b</td><td>411.60b</td><td>373.60b</td><td>12.67</td><td>0.000 7</td></tr><tr><td></td><td>瘤胃 Rumen</td><td></td><td>68.78a</td><td>69.11a</td><td>65.11b</td><td>63.44b</td><td>0.81</td><td>0.019 5</td></tr><tr><td>Percentage of total</td><td>网胃</td><td>Reticulum</td><td>9.03</td><td>9.59</td><td>10.02</td><td>10.50</td><td>0.23</td><td>0.0615</td></tr><tr><td>complex stomach</td><td>瓣胃Omasum</td><td></td><td>5.32a</td><td>5.53a</td><td>6.13ab</td><td>6.81b</td><td>0.27</td><td>0.010 3</td></tr><tr><td>weight/%</td><td>皱胃Abomasum</td><td></td><td>16.87</td><td>15.77</td><td>18.98</td><td>18.74</td><td>0.61</td><td>0.1569</td></tr><tr><td>占宰前活重比例</td><td>瘤胃 Rumen</td><td></td><td>2.28a</td><td>2.17a</td><td>1.93ab</td><td>1.83b</td><td>0.06</td><td>0.0214</td></tr><tr><td>Percentage of LWBS</td><td>网胃Reticulum</td><td></td><td>0.30</td><td>0.28</td><td>0.29</td><td>0.30</td><td>0.01</td><td>0.431 4</td></tr><tr><td>1%</td><td>瓣胃Omasum</td><td></td><td>0.18</td><td>0.17</td><td>0.18</td><td>0.20</td><td>0.01</td><td>0.090 7</td></tr><tr><td></td><td>皱胃Abomasum</td><td></td><td>0.55</td><td>0.47</td><td>0.50</td><td>0.55</td><td>0.02</td><td>0.2881</td></tr><tr><td></td><td></td><td>复胃 Complex stomachs</td><td>3.26</td><td>2.97</td><td>2.97</td><td>2.88</td><td>0.07</td><td>0.184 0</td></tr></table></body></html>
+
+# 2.4 肠道发育
+
+由表6可见，40日龄时，PR组、ER组和 BR 组羔羊的小肠重低于CON 组（ $( P { < } 0 . 0 5 )$ ，大肠重4组间未表现出差异性（ $\cdot P { > } 0 . 0 5 \$ )。ER 组羔羊的小肠重占宰前活重比例数值上低于CON 组、PR组和BR组，有降低的趋势（ $0 . 0 5 { \le } P { < } 0 . 1 0 \$ )。ER 组和PR组大肠重占宰前活重
+
+比例显著低于CON 组和PR组（ $_ { . P < 0 . 0 5 ) }$ 。
+
+60 日龄时，ER 组羔羊的小肠重和大肠重显著低于CON 组、PR组（ $_ { \cdot P < 0 . 0 5 }$ ，大肠重占宰前活重比例显著低于PR组（ $\scriptstyle \cdot { P < 0 . 0 5 } .$ )，小肠重占宰前活重比例有低于其他各组的趋势（20 $( 0 . 0 5 { \le } P { < } 0 . 1 0 )$ 。
+
+表6饲粮营养限制对早期断奶湖羊羔羊肠道发育的影响  
+Table 6Effects of nutritional restriction on development of intestinal tracts of early-weaned $H u$ lambs   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">器官Organs</td><td colspan="4">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>CON</td><td>PR</td><td>ER</td><td>BR</td></tr><tr><td>40 日龄 40 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>重量Weight/g</td><td>小肠 Small intestine</td><td>484.51a</td><td>347.35b</td><td>321.57b</td><td>323.12b</td><td>23.37</td><td>0.004 6</td></tr><tr><td rowspan="2">占宰前活重比例</td><td>大肠 Large intestine</td><td>165.51</td><td>157.40</td><td>162.58</td><td>133.97</td><td>7.82</td><td>0.166 3</td></tr><tr><td>小肠 Small intestine</td><td>4.80</td><td>4.45</td><td>4.15</td><td>4.24</td><td>0.13</td><td>0.083 1</td></tr><tr><td>Percentage of LWBS/%</td><td>大肠 Large intestine</td><td>2.27a</td><td>2.09b</td><td>2.00b</td><td>2.17b</td><td>0.08</td><td>0.0214</td></tr><tr><td>60 日龄 60 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">重量Weight/g</td><td>小肠 Small intestine</td><td>598.08a</td><td>563.48a</td><td>441.65b</td><td>537.55ab</td><td>22.80</td><td>0.006 2</td></tr><tr><td>大肠 Large intestine</td><td>280.40a</td><td>282.87a</td><td>228.23b</td><td>242.57ab</td><td>10.42</td><td>0.022 4</td></tr><tr><td>占宰前活重比例</td><td>小肠 Small intestine</td><td>4.17</td><td>4.03</td><td>3.48</td><td>4.16</td><td>0.13</td><td>0.073 3</td></tr><tr><td>Percentage of LWBS/%</td><td>大肠 Large intestine</td><td>1.94ab</td><td>2.03a</td><td>1.80b</td><td>1.86b</td><td>0.03</td><td>0.0287</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮营养限制对早期断奶湖羊羔羊生长性能的影响
+
+初生至60 日龄羔羊生长发育的特点是生长速度快，可塑性强[19]。羔羊体重易受到品种、初生重、培育方式、饲粮以及环境的影响。Vosooghi-Poostindoz等[20]认为代乳品中高蛋白质可以提高羔羊日增重。本试验中降低粗蛋白质水平，羔羊 21\~40 日龄与 41\~60 日龄平均日增重分别降低了 $2 5 . 6 \%$ 和 $14 . 5 \%$ ;进行代谢能水平限制，平均日增重分别降低了 $8 . 3 \%$ 和 $1 6 . 5 \%$ 同时降低代谢能和粗蛋白水平，平均日增重分别降低了 $2 7 . 5 \%$ 和 $2 5 . 6 \%$ 。蛋白质缺乏对羔羊生长发育的抑制效果出现的比能量更早，蛋白质缺乏快速地呈现出对羔羊生长的抑制并持续到试验结束，而能量对生长的抑制表现得有所滞后，可能的原因是此阶段羔羊处于快速生长阶段，机体优先沉积蛋白质而不是能量，低粗蛋白质饲粮影响了羔羊机体蛋白质的沉积量，降低了羔羊体重[21]。随着羔羊体重的增长，维持需要量增多，能量表现出差异性[22]。
+
+本试验中羔羊21\~40 日龄的平均日增重低于41\~60 日龄，与王桂秋[13]、Sevi等[23]研究结果一致。王琦[19]的研究结果显示此阶段羔羊日增重先升高后降低。造成结果不一致的原因是由于随母乳羔羊采食母乳的量与营养水平先升高后降低，而饲喂代乳品的羔羊采食恒定的营养物质，羔羊对代乳品的适应能力随日龄增加，平均日增重逐渐增加。尽管羔羊早期经历断奶应激，其 21\~40 日龄料重比仍低于 41\~60 日龄，一方面可能随着羔羊胃肠道发育其维持需要提高了，另一方面随着羔羊日龄增长，其开食料采食量明显高于代乳品，而开食料的消化率低于代乳品。本试验中羔羊的代乳品采食量无显著差异，ER组、PR组和 BR 组料重比高于CON组，不同营养限制降低了羔羊饲料转化效率进而降低了羔羊生长。
+
+3.2饲粮营养限制对早期断奶湖羊羔羊内脏器官发育的影响
+
+肝脏是内脏器官中最大的消化代谢器官。肝脏代谢活性的增加受到肝脏代谢底物含量及类型改变的影响[24]，肝脏代谢活性增加，表现出肝脏重增加。同时内脏器官蛋白质周转速率高于体组织，当营养水平降低时，流经肝脏的血液中营养物质含量降低，进而影响到肝脏组织蛋白质沉积[25]。本试验中羔羊40 日龄时 ER组、PR 组和 BR 组及60 日龄时 ER 及BR 组羔羊的肝脏重及其占宰前活重比例显著低于CON组，到60日龄时蛋白质缺乏并没有降低肝脏重及其占宰前活重比例。结合羔羊平均日增重数据发现，本试验中60日龄蛋白质限制对肝脏影响减弱，而生长性能方面41\~60日龄的平均日增重依然低于CON组。这可能是由于本试验饲粮进行蛋白质限制降低了外周组织蛋白质周转，但是并没有影响到羔羊肝脏蛋白质的沉积。此外，40 日龄时 ER 组肝脏重也是显著低于CON 组，而对应的平均日增重却与CON组不显著。这是由于肝脏耗氧量远高于机体的发育[24]，能量限制时肝脏以减轻自重的方式降低基础代谢[6]。张冬梅等[9]研究断奶后羔羊发现能量限制和能量、蛋白质同时限制可显著降低羔羊肝脏重，蛋白质限制有降低其的趋势。这与本试验结果相似。
+
+动物内脏器官重和器官指数反映了动物机体的发育状况[17]，内脏器官质量可以作为其功能的近似指标，内脏器官指数反映动物的营养状况和生理功能状态[26]。动物具有调控内脏器官与机体生长发育相适应的本能。本试验中BR 组羔羊40 日龄的心脏、肾脏、肺脏占宰前活重比例高于其他3组，与官丽辉等[26]、李东等[6研究有一致的结果。这是由于动物的心脏、肝脏、肾脏、肺脏相对于其他器官具有优先利用营养物质的能力[]。本试验中羔羊60日龄的心脏、肺脏、肾脏占宰前活重比例4组间差异不显著。与40 日龄出现不一致的结果，可能是由于早期断奶初期羔羊对蛋白质的缺乏更敏感。脾脏重占宰前活重比例能够反映脾脏的发育程度，比例的大小在一定程度上可以说明其功能的强弱[27]。ER 组和 BR 组脾脏重占宰前活重比例有降低的趋势，表明羔羊饲粮能量的缺乏可以降低羔羊机体的免疫力。
+
+# 3.3饲粮营养限制对早期断奶湖羊羔羊复胃发育的影响
+
+21\~56 日龄是羔羊瘤胃从非反刍到反刍的过渡阶段，此阶段瘤胃处于快速发育期[28]。PR 组、ER组和BR组的40 日龄羔羊的瘤胃重分别比CON 组降低了 $2 3 . 1 \% . 2 9 . 5 \%$ 和 $3 8 . 5 \%$ 60日龄分别降低了 $12 . 2 \%$ 、 $2 6 . 4 \%$ 和 $2 6 . 3 \%$ 。可以发现60日龄时蛋白质限制的作用降低。蛋白质缺乏抑制羔羊40 日龄瘤胃发育，可能与羔羊机体分泌激素有关。研究表明瘤胃发育受到机体某些激素分泌的影响，如生长激素、胰岛素样生长因子1（IGF-1)、表皮生长因子、胰岛素[29]。张冬梅等[9]研究发现羔羊进行营养限制后肝脏中IGF-1 基因表达量降低。推测40 日龄时瘤胃发育可能与IGF-1有关。丁酸已经被证实可以促进瘤发育[30-32]，随着开食料采食量增加，PR 组和CON 组饲粮发酵产生的挥发性酸尤其是丁酸可以促进瘤胃发育。内脏器官的功能与生长发育是相适应的，而瘤胃是羔羊消化代谢的主要器官，是瘤胃发育提高了饲料转化率进而促进了羔羊机体发育。因此，本试验中ER组、PR组羔羊60 日龄瘤胃重低于CON 组，但是其占宰前活重比例并未表现出显著低于CON 组。BR 组羔羊瘤胃重占宰前活重比例低于CON 组，表明能量和蛋白质限制羔羊瘤胃发育具有叠加效应。研究报道指出，瓣胃重占复胃重比例以及占宰前活重比例在不同的研究中报道不一致[33]。本试验中BR组羔羊40 日龄瓣胃重占复胃重比例最低，60 日龄时最高。结合瘤胃重占复胃重比例发现瓣胃重占复胄重比例与瘤胄发育程度有关，这从侧面可以反映出瓣胃相对于瘤胃、网胃的增长要缓慢，与郭江鹏等[34]、韩正康[35]报道一致。皱胃在出生时已有相当程度的发育，出生后立即承担消化功能，相对于其他胃室不易受饲粮影响[36]。本试验研究结果表明，皱胃重占宰前活重比例的不受日龄和营养物质变化的影响。但是皱胃重占复胃重比例受瘤胃重占复胃重比例增加会相对降低，这是机体利用营养物质的消化吸收模式发生改变的结果。
+
+# 3.4饲粮营养限制对早期断奶湖羊羔羊肠道发育的影响
+
+肠道特别是小肠是营养物质消化吸收的主要部位，出生时发育已经较为完善，与皱胃共同承担消化作用，其重量的改变影响营养物质的消化吸收[37]。羔羊在 21\~56 日龄瘤胃由非反刍阶段向反刍阶段过渡，由于瘤胃进入肠道的营养物质数量和类型发生改变，肠道消化吸收的营养物质类型以及数量也发生改变，进而影响到羔羊肝脏由糖元分解向糖元合成转变。结合羔羊肝脏、瘤胃发育的规律发现，肝脏、瘤胃以及肠道的发育对营养限制表现具有相似性。
+
+营养物质影响肠道发育更多的是由饲料原料引起，同时受饲粮的组成、营养水平以及抗营养因子等多重影响[38]。本试验中ER 组羔羊小肠重占宰前活重比例低于其他3组，这是由于ER 组的饲粮中豆粕含量增加，豆粕中的抗营养因子激发肠道局部反应，引起肠道组织形态改变，含高蛋白质的饲粮抗原性较强，对幼畜肠道形态影响程度更大[39-40]。本试验中除 ER组60 日龄屠宰羔羊小肠重占宰前活重比例基本维持在 $4 . 0 3 \% { \sim } 4 . 1 7 \%$ 但是大肠重占宰前活重比例要高于郭江鹏等[31-32]研究结果，比例为 $1 . 8 0 \% { \sim } 2 . 0 3 \%$ ，但是与柴建民等[36]有相似的研究结果，分析原因这可能与代乳品促进羔羊干物质采食量有关。Rompala 等[40]研究发现，饲喂高牧草饲粮的牛大肠重占宰前活重比例高于饲喂高精料饲粮的牛，这与惰性物质增加大肠内容物质量有关。
+
+4结论
+
+$\textcircled{1}$ 能量、蛋白质或能量和蛋白质同时限制均显著降低了早期断奶湖羊羔羊生长速度和饲料转化率；蛋白质限制影响羔羊试验全期生长性能，能量限制影响羔羊试验后期（41\~60 日龄）生长性能。蛋白质营养对60 日龄内羔羊生长性能的发挥具有重要的作用。$\textcircled{2}$ 能量、蛋白质或能量和蛋白质同时限制均抑制了早期断奶湖羊羔羊40 日龄内脏器官的发育，尤其是瘤胃和肝脏的发育。60日龄时能量限制仍然抑制了羔羊内脏器官发育，而蛋白质限制的影响减弱。表明蛋白质影响羔羊断奶早期（21\~40日龄）内脏器官的发育，能量对60日龄内羔羊内脏器官发育尤为重要。
+
+# 参考文献：
+
+[1]丁莉.关中奶山羊周岁前消化系统发育规律的研究[D].硕士学位论文.咸阳:西北农林科技大学,2007.  
+[2] NEU J.Gastrointestinal development and meeting the nutritional needs of prematureinfants[J].The American Journal of Clinical Nutrition,2007， 85(2):629S-634S.  
+[3]吴端钦,贺志雄,汤少勋,等.母羊妊娠后期营养限制对羔羊肉质及相关基因表达量的影响[J].生命科学研究,2013,17(2):151-155.  
+[4]高峰,刘迎春,张崇志,等.妊娠后期营养限饲对蒙古绵羊体贮动员及其胎儿生长发育的影响[J].动物营养学报,2013,25(6):1237-1242.  
+[5]张崇志,刘迎春,高峰,等.妊娠后期营养限饲蒙古绵羊对其胎儿生长发育及血液生理生化指标的影响[J].动物营养学报,2013,25(2):344-349.）[6] 李东,考桂兰,侯先志,等.营养限制和补偿对羔羊体质量和内脏质量的影响[J].饲料研） 究,2011(3):12-15.  
+1 [7]李俊良,侯先志,杨金丽,等.营养限制与补偿对蒙古羔羊体重和血液中生长相关激素的影2 响[J].饲料工业,2012,33(9):43-46.  
+3 [8]冯辉,侯彩云,王海荣,等.日粮营养限制及补偿对蒙古羔羊瘤胃内环境的影响[J].饲料研1 究,2012(7):11-13.  
+5 [9] 张冬梅,侯先志,杨金丽,等.饲粮能氮限饲与补偿对蒙古羔羊肝脏重量、肝细胞增殖和增5 肥及生长激素受体、类胰岛素生长因子基因表达量的影响[J].动物营养学7 报,2013,25(7):1632-1640.  
+3 [10]陈军强,丁路明,高强,等.限饲与营养补偿对小尾寒羊生长性能、消化代谢和瘤胃液纤维3 素酶活性的影响[J].动物营养学报,2015,27(7):2085-2093.  
+） [11] 杨诗兴,彭大惠,张文远,等.湖羊能量与蛋白质需要量的研究[J].中国农业科1 学,1988,21(2):73-80.  
+≥ [12] 屠焰，刁其玉，岳喜新.一种0\~3月龄羔羊的代乳品及其制备方3 法,CN201210365927.6[P].2013-01-30.  
+4 [13] 王桂秋.营养水平对羔羊物质消化的影响及羔羊早期断奶时间的研究[D].硕士学位论5 文.北京:中国农业科学院,2005.  
+5 [14] 中华人民共和国农业部.肉羊饲养标准NY/T816-2004[S].北京:中国农业出版社,2004.7 [15] 岳喜新.蛋白水平及饲喂量对早期断奶羔羊生长性能及消化代谢的影响[D].硕士学位3 论文.阿拉尔:塔里木大学,2011.  
+3 [16] 张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.） [17]许贵善,刁其玉,纪守坤,等.不同饲喂水平对肉用绵羊生长性能、屠宰性能及器官指数的1 影响[J].动物营养学报,2012,24(5):953-960.  
+≥ [18]马仲华.家畜解剖学及组织胚胎学[M].3版.北京:中国农业出版社,2002.  
+3 [19] 王琦.不同营养水平下哺乳期羔羊补饲效果研究[D].硕士学位论文.咸阳:西北农林科技1 大学,2004.  
+； [20]VOSOOGHI-POOSTINDOZ V,FOROUGHI A R,DELKHOROSHAN A,et al.Effects of
+
+different levels of protein with or without probiotics on growth performance and blood metabolite responses during pre- and post-weaning phases in male Kurdi lambs[J].Small Ruminant Research,2014,117(1):1-9.
+
+[21]王代刚,陈代文.营养因素和非营养因素对动物蛋白质周转的调节作用[C]//猪营养与饲料研究进展:第四届全国猪营养学术研讨会论文集.北京:中国农业科学技术出版社,2003.
+
+[22]李辉.蛋白水平与来源对早期断奶犊牛消化代谢及胃肠道结构的影响[D].博士学位论 文.北京:中国农业科学院,2008.   
+[23]SEVI A,NAPOLITANO F,CASAMASSIMA D,et al.Eect of gradual transition from maternal to reconstituted milk on behavioural,endocrine and immune responses of lambs[J].Applied Animal Behaviour Science,1999,64(4):249-259.   
+[24]BALDWIN VI R L,MCLEOD K R,KLOTZ J L,et al.Rumen development,intestinal growth and hepatic metabolism in the Pre- and postweaning ruminant[J].Journal of Dairy Science,2004,87:E55-E65.   
+[25]陈守云,徐海涛.动物蛋白质周转代谢特点及调控因素[J].饲料研究,2010(3):10-13.   
+[26] 官丽辉,刘海斌,张立永,等.日粮不同能量水平对育成鸡体增质量、血液生化指标及内脏 器官发育的影响[J].中国兽医学报,2014,34(2):350-356.   
+[27] 岳喜新,刁其玉,邓凯东,等.饲喂代乳粉对羔羊生长性能和体组织参数的影响[J].饲料工 业,2010,31(19):43-46.   
+[28]祁敏丽,刁其玉,张乃锋.羔羊瘤胃发育及其影响因素研究进展[J].中国畜牧杂 志,2015,51(9):77-81.   
+[29]LU J,ZHAO H,XU J,et al.Elevated cyclin D1 expresson is governed by plasma IGF-1 through Ras/Raf/MEK/ERK pathway in rumen epithelium of goats supplying a high metabolizableenergydiet[J].JournalofAnimalPhysiologyandAnimal Nutrition,2013,97(6):1170-1178.   
+[30]GORKA P,KOWALSKI Z M,PIETRZAK P,et al.Efect of sodium butyrate supplementation in milk replacer and starter diet on rumen development in calves[J].Journal of Physiology and Pharmacology,2009,60(Suppl.3):47-53.   
+[31] GORKA P,KOWALSKI Z M,PIETRZAK P,et al.Effect of method of delivery of sodium butyrateonrumendevelopmentinnewborncalves[J].JournalofDairy Science,2011,94(11):5578-5588.   
+[32]KATO S 1,SATO K,CHIDA H,et al.Effects of Na-butyrate supplementation in milk formula on plasma concentrations of GH and insulin,and on rumen papilla development in calves[J].Journal of Endocrinology,2011,211(3):241-248.   
+[33]郭江鹏,张元兴,李发弟,等.0\~56 日龄舍饲肉用羔羊胃肠道发育特点研究[J].畜牧兽医学 报,2011,42(4):513-520.   
+[34]郭江鹏,郝正里,李发弟,等.早期断奶对舍饲肉用羔羊消化器官发育的影响[J].畜牧兽医 学报 2013,44(7):1078-1089.   
+[35]韩正康,陈杰.反刍动物瘤胃的消化和代谢[M].北京:科学出版社,1988.   
+[36]柴建民,刁其玉,屠焰,等.早期断奶时间对湖羊羔羊组织器官发育、屠宰性能和肉品质的 影响[J].动物营养学报,2014,26(7):1838-1847.   
+[37]张高娜,张建梅,谷巍.影响断奶仔猪肠道发育的因素及营养调控措施[J].饲料广 角,2012(17):20-25.   
+[38]LI D F,NELSSEN J L,REDDY P G,et al.Measuring suitability of soybean products for early-weanedpigswithimmunologicalcriteria[J].JournalofAnimal Science,1991,69(8):3299-3307.   
+[39]王恬,许若君.酶解日粮蛋白质对仔猪肠粘膜酶活性及肠道组织形态的影响[C]/第三届 全国饲料营养学术研讨会论文集.北京:中国畜牧兽医学会动物营养学分会,1998:153- 154.   
+[40]ROMPALA R E,HOAGLAND T A,MEISTER J A.Effect of dietary bulk on organ mass,fasting heat production and metabolism of the small and large intestines in sheep[J].The Journal of Nutrition,1988,188(12):1153-1157. Effects of Nutritional restriction on growth performance and visceral organ development of early-weaned Hu lambs QI Minli1 CHAI JianminlWANG BolMENG Chunhua²TAO Xiaoqing³ZANG RonglDIAO QiyulZHANG Naifeng1\*   
+(1. Key Laboratory of Feed Biotechnology of the Ministry of Agriculture, Feed Research Institute   
+of Chinese Academy of Agricultural Sciences， Beijing 10o081, China; 2. Institute of Livestock Science of Jangsu Agricultural Sciences, Nanjing 210o0,China; 3. Taizhou Hailun Sheep Farming Co., Ltd., Jiangsu, Taizhou 225500, China)   
+Abstract:The aim of this study was to assess the efects of dietary nutritional restriction on
+
+growth performance and visceral organ development of early-weaned $H u$ lambs.Sixty-four 17-day-old $H u$ lambs were randomly divided into four groups, including control (CON) group, $20 \%$ of protein restriction (PR) group, $20 \%$ of energy restriction (ER) group, $20 \%$ of energy and protein restrictions (BR) group. Each group had four replicates with four lambs per replicate (half male and half female). The pretest lasted for 4 days,and the trial lasted for 40 days.The intakes of milk replacer and starter were recorded, and all the lambs were weighed at 20, 40 and 60 days of age, respectively, then one lamb per replicate was slaughtered at 40 and 60 days of age for weighing visceral organs.The results showed as follows: 1) average daily gain (ADG) of lambs at 21 to 40 days of age in PR and BR groups and at 41 to 6O days of age in PR, ER and BR groups was significantly lower than that in CON group $( P { < } 0 . 0 5 )$ ; feed to gain ratio of lambs at 21 to 40 days of age in experimental group and at 41 to 6O days of age in PR and BR groups was significantly higher than that in CON group $( P { < } 0 . 0 5 )$ .2) liver weight and its percentage of live weight before slaughter, rumen weight and its percentage of complex stomachs were significantly decreased in PR, ER and BR groups compared with those of CON group at 40 days of age( $_ { ( P < 0 . 0 5 ) }$ , and were significantly decreased in ER and BR groups compared with those in PR and CON groups at 60 days of age $( P { < } 0 . 0 5 )$ . In conclusion, protein restriction can reduce growth performance (21 to 60 days of age) and development of visceral organs (21 to 40 days of age),and energy restriction can reduce development of visceral organs, especially liver and rumen, of early-weaned lambs. Key words: lamb; nutritional restriction; growth performance; organ development

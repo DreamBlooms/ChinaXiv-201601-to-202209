@@ -1,0 +1,451 @@
+[
+    {
+        "type": "text",
+        "text": "Surface-structure dependence of healing radiation-damage mechanism in nanoporous tungsten ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guohua Duan1.2†+, Xiangyan $\\mathbf { L i } ^ { \\dagger }$ , Jingjing Sun1,2,， Congyu Haol2, Yichun $\\mathrm { { X u } ^ { 1 ^ { * } } }$ , Yange Zhang', Wei Liu', C.S. Liu1\\*\\*   \n1Key Laboratory of Materials Physics, Institute of Solid State Physics, Chinese Academy of Sciences, P. O. Box 1129,Hefei 230031, PR China.   \n2University of Science and Technology of China, Hefei 230026, PR China   \n+These authors contributed equally to this work.   \n$E$ -mail addresses: xuyichun@issp.ac.cn (Y. Xu), csliu@issp.ac.cn (C.S. Liu) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Under nuclear fusion environments, displacement damage in tungsten (W) is usually caused by neutrons irradiation through producing large quantities of vacancies (Vs) and interstitials (SIAs). These defects not only affect the mechanical properties of W,but also introduce trap sites for implanted hydrogen isotopes and helium. Nano-structured W with high fraction of free surfaces has been developed to mitigate the radiation damage. However, the mechanism of the surface reducing defects accumulation is not well understood. Using multiscale simulation methods,we investigated the interaction of the SIA and V with different surfaces at across length and time scales.We found that, at a typical operation temperature of 10ooK, surface (110) preferentially heals radiation damage of W compared with surface (100) and boundary (310). On surface (110), the diffusion barrier for the SIA is only $0 . 6 8 \\mathrm { e V } .$ The annihilation of the SIA-V happens via the coupled motion of the V segregation towards the surface from the bulk and the two dimensional diffusion of the SIA on the surface. Such mechanism makes the surface (11O) owe beter healing capability. On surface (100), the diffusion energy barrier for the SIA is $2 . 4 8 \\mathrm { e V } ,$ higher than the diffusion energy barrier of the $\\mathrm { \\Delta V }$ in bulk. The annihilation of the SIA-V occurs via the V segregation and recombination. The SIA was found to migrate one dimensionally along a boundary (31O) with a barrier of $0 . 2 1 \\mathrm { e V } ,$ ，leading to a lower healing efficiency in the boundary. This study suggested that the on-surface process plays an important role in healing radiation damage of NP W in addition to surface-enhanced difusion and annihilation near the surface.A certain surface structure renders nano-structured W more radiationtolerant. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: nano-porous; self-healing; surface; radiation damage; point defects ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a potential first-wall fusion reactor material, tungsten (W) willbe subjected to high radiation flux of 14MeV-neutrons and high ion bombardment fluxes of low-energy ( $\\sim 1 0 0 \\mathrm { e V }$ ） deuterium, tritium and helium at a typical operation temperature of 10ooK [1,2]. Fusion neutrons produce collision cascades, introducing large quantities of vacancies (Vs） and interstitials (SIAs), into W. These defects and their clusters not only affect the mechanical properties of W,but also introduce trap sites for implanted hydrogen isotopes and helium [2-12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To improve the performance of nuclear materials,the effective way known is to introduce high density of defects sinks into the material. Interfaces, e.g. grain boundaries (GBs) in nano-crystals and immiscible interfaces in nano-layered composites have been demonstrated to be good sinks for point defects both experimentally and theoretically, enhancing defect difusion and annihilation [13-22]. Since surfaces are perfect sinks for defects, metalic nanoporous (NP) materials with a large surfaceto-volume ratio has the potential to be extremely radiation tolerant in addition to their useful applications for energy storage, catalysts and gas sensors [23-26]. The radiation-performance of several NP metals has been investigated experimentally. By conducting situ $\\mathrm { N e + + }$ ion irradiation at room temperature in gold (Au) foams,Fu et al. found that the production of stacking fault tetrahedra relates to radiation dose-rate [27].The radiation-resistance of NP Au at a low dose-rate was attributed to the diffusion and absorption of the vacancy by the surface in the material. Bringa et al. proposed a window of irradiation resistance in NP Au foams [28]. By using in situ $\\mathrm { K r }$ -ion irradiation technique, Sun et al. observed frequent removal of various types of defect clusters by free surfaces in NP silver (Ag) [29]. The theoretical investigation of the radiation-resistance of NP metals is, however, scarce. By performing molecular dynamics (MD） simulation, Zhang et al. proposed that the competition between the surface absorption of point defects and vacancies agglomerating in the cascade zone dominated the anti-radiation behavior of NP Au [30]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite these studies, the role of the surface in healing radiation damage in NP metals is not well understood. Qualitatively, the radiation-tolerance of NP metals could be attributed to the trapping of radiation-induced defects (SIAs,Vs) by the surfaces prevalent in NP metals,which consequently decreases the formation of the large immobile defect clusters. The detailed mechanism could be complex due to the inherently multi-scale nature of the radiation damage, multiple levels of the defect mobility and possible presence of multiple types of surfaces in NP metals. Hierarchy is the key feature of the defect and its evolution.The processes we wish to study (e.g., diffusion and annihilation of defects after a cascade event near the surface） often take place on much longer time scales.To overcome this \"time-scale problem\" [31]，one needs to use multiscale/across-scale simulation techniques. Once one type of defects is preferentially confined on the surface,the process on the surface may influence the diffusion,segregation and annihilation of the defects near the surface.In addition,the real NP systems consist of different surfaces,and the defects properties could be surfacestructure dependent,leading to different healing mechanisms that affect the healing efficiency of distinct surfaces. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this work, NP W was chosen as a model system given its engineering application as a promising candidate for plasma facing materials and divertor armor in fusion reactors [32-35]. We explored the interaction of the point defects (SIAs,Vs) with the surface at across timescales in NP W, which is believed to play an important and prior role in driving microstructure evolution.To bridge the length/time scale of the defect evolution, several simulation methods were combined.Molecular dynamics (MD) was used to simulate the primary radiation damage in a ligament mode of NP W and observe the production and evolution of defects at pico-second (ps, $1 0 ^ { - 1 2 } \\mathrm { ~ s ~ }$ ） timescale. The revealed processes and the possible ones occurring at long timescales were then characterized by conducting molecular statics (MS） calculations of the energetic and kinetic parameters, including formation energy of the vacancy and interstitial, their diffusion and annihilation energy barriers near the surface and on the surface.The on-the-fly atomic kinetic Monte Carlo (AKMC) [31],reaching long time scales while maintaining (or coming close to) the accuracy of direct MD, was employed to explore the behavior of the V on atomic length and long time scales. With necessary parameters in hand, object kinetic Monte Carlo (OKMC) method [31] was employed to explore the behavior of the SIA/V on large length and long time scales. The annihilation mechanism at across-scales was revealed via analyzing the dynamic sequence of the defect motion. The present work aimed to reveal the energetic and kinetic origin of radiation-tolerance of NP W at across-scales and further provide a theoretical basis for employing NP W as a radiation-tolerance material. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Computational method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Interatomic potential ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Considering the complex local structure environment in NP W (consisting of different surfaces that have small coordination number)，the bond-order potential (BOP） that includes three-body contributions and angular dependence was employed to describe interatomic interactions between W atoms [36]. For simulating high-energy collisions, the potential at the distance shorter than $1 . 3 \\mathrm { \\AA }$ was splined to the universal ZBL potential [37]. It is time-consuming to simulating the primary radiation damage by using the BOP. The simulation only lasted for about tens of ps. The embedded-atommethod (EAM) potential [38] was also employed for collision-cascade simulation, and the simulation lasted for thousands of ps. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2. Calculation models ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The model was built based on the scanning electron micrographs of nanoporous metals, which suggests that the solid part is surrounded by free surfaces [39]. To model this structure,a [0 0 1]- oriented cylinder was created for the MD simulation of the primary radiation damage in NP W (Fig. 1 (a). Similar models have been adopted in previous MD simulations of radiation damage in NP gold [28,30]. The model contains 142,785 atoms.Both the height and diameter of the cylinder are 142.4A. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A vacuum with the thickness of $1 5 . 0 \\mathrm { \\AA }$ was added to the surface corresponding to pores in NP metals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the MS calculation of defects properties,the local structure in NP W was simplified to be perfect low-index surfaces (100) and (110) that have low surface energy [36]. Surface (100) contains 2000 atoms with a size of $3 1 . 7 { \\times } 3 1 . 7 { \\times } 3 1 . 7 \\mathring { \\mathrm { A } } ^ { 3 }$ . surface(1l0) contains 196O atoms with a size of $3 1 . 4 { \\times } 3 1 . 7 { \\times } 3 1 . 4 \\mathrm { { \\AA } } ^ { 3 }$ . In the direction normal to the two surfaces,a thickness of $1 5 \\mathrm { \\AA }$ vacuum was added. The periodic boundary conditions were imposed in all the three directions. Fig. l(b） shows the structures of the two surfaces relaxed at $0 \\mathrm { ~ K ~ }$ by using the steepest descent method. The surface energies for surfaces (100) and (110) are 3.10 and $2 . 4 9 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.Details for MD simulations ofprimary radiation damage in NP W ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Prior to conducting MD simulations,the ligament model was thermally equilibrated at 1000K. The velocity Verlet algorithm was used for integrating the equations of motion. Then， during simulating the collision cascade,the NVE ensemble (constant number of atoms, volume and total energy) was applied for 10ps. At the beginning of this stage, a primary knock-on atom (PKA) was given kinetic energy of $3 . 0 \\mathrm { k e V }$ with the velocity along [1 O O]. Note that, the $1 4 \\mathrm { M e V }$ neutrons produced in deuterium-tritium fusion can transfer up to $3 0 0 \\mathrm { k e V }$ energy to a tungsten atom, which will induce the creation of a colision cascade in the system, resulting in the creation of point defects and defect clusters [3]. Since the present work intends to investigate the diffusion and annihilation of the point defects, a low PKA energy of $3 . 0 \\mathrm { k e V }$ was chosen. MD simulations were firstly run lps with the time step of O.1 femtosecond(fs, $1 0 ^ { - 1 5 } ~ \\mathrm { s } \\dot { }$ ).Then, the step was increased to1 fs for another 1Ops to cool down the colision cascade. The NVT ensemble (constant number of atoms, volume and temperature) was applied for additional 100ps with the time step of 5fs.The time step was chosen to ensure that the maximal displacement per atom is less than $0 . 0 5 \\mathrm { \\AA }$ during each integration step. To observe defect migration and annihilation, the simulation was run for a total of 1500ps at 1000K. To get statistics results of the number of surviving iradiation-induced defects, the MD simulation of each PKA was performed four times independently. The number of radiation-created interstitials and vacancies after the cascade cools down were identified by the Wigner-Seitz (WS) cell method [40]. If the separation of one vacancy to a vacancy cluster is less than the second nearest neighbor distance (the lattice constant), the vacancy is considered to belong to the cluster. The radi of the WS cells for identifying the SIA and V are 1.2 and $1 . 0 \\mathrm { \\AA }$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4. Details for MS calculations of the behavior of the vacancy and interstitial near the surface ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Defect formation energy of the defect near the surface was defined similarly to that near the boundary [13,16-18]. The nudged elastic band (NEB) method [41] was employed to determine the minimum energy path for defect diffusion and annihilation as well as the corresponding energy barrier. The states that have been relaxed for calculating defects formation energy served as the possible initial and final states of a diffusion or annihilation process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5.Details for AKMC investigation of the behavior of the vacancy near the surface ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The small models of surfaces in Fig. 1(b) were also used for AKMC simulations of the V behavior near the pure surface at lOooK.During investigating the effect of the surface modification due to sputering on the vacancy behavior, one third of the surface was randomly covered by the vacancy (one third of the surface atoms were removed randomly). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present simulations, we do not search for saddle points that are connected to the current state of the system to calculate the transition barrier. The vacancy was assumed to move via exchange with its first nearest neighbors.In this way, we built a rate catalog on the fly.Then,the selection and execution of the event were treated similar to the standard KMC method. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6.Details for the OKMC investigation of the dynamic behavior of the SIA and $V$ near/on the surface ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For OKMC simulations of defects behavior near the surface and on the surface at 1000K,a square-shaped model was built with a size of $2 0 0 { \\times } 2 0 0 { \\times } 2 0 0 \\mathbb { A } ^ { 3 }$ (Fig. 1.(c)). Periodic boundary conditions were imposed in all three dimensions.A total of 10o,0oo iterations were run or the simulation breaks when the timescale is beyond one hour. The physical framework was illustrated in Fig.l(d). In the bulk, the V and SIA undergo three dimensional walk with migration rates rl, r2, r3, r4,r5,r6,r7,r8 along eight directions in a body-centered cubic cell. For V, these rates are equal independent of the motion direction. For SIA, however, r3 and r5 are for the rates of the SIA moving forward and backward along ${ < } 1 1 1 { > }$ .Near the surface, the $\\mathrm { \\Delta V }$ and SIA have two motion degree, segregation into the surface or escape from the surface with the corresponding rates， and ，. On the surface, the $\\mathrm { v }$ and SIA move two dimensionally with rates $r _ { I } , r _ { 2 } , r _ { 3 } , r _ { 4 }$ along four directions. Rates $r _ { I } =$ $r _ { 3 }$ and $r _ { 2 } = r _ { 4 }$ . The annihilation rate of the V-SIA pair depends on the location of the V and SIA.As both the $\\mathrm { v }$ and SIA are in the bulk or on the surface, the annihilation rates are and,respectively. If one of the $\\mathrm { \\Delta V }$ and SIA is located in the bulk and the other resides on the surface, their annihilation rate is. Prior to simulation, the rate catalog was built. The detailed procedure is refereed to Ref. [17]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1. Primary radiation damage in NP W at 1000K ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We begin with performing MD simulations of the primary radiation damage in NP W at its typical operation temperature of 10ooK.To explore the eects of the initial PKA positions on the defect productions the PKA distance to the surface $( d )$ ranges from 1.0 to $1 1 . 5 \\mathrm { n m }$ Fig. 2(b) and (c) show the snapshots of the defects production and evolution drawn from MD simulations of the primary radiation damage near the surface, where the PKAs were chosen at A and B (labeled in Fig. 2(a)), respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As $d$ is larger than $5 7 \\mathrm { \\AA }$ , e.g. the PKA at B (Fig. 2(b)), the cascade did not directly damage the surface. The cascade reached its maximum size of about 5nm at 0.5ps.After 10ps, the cascade cooled down. At this moment, the number of the SIA is approximately equal to that of the V. During the subsequent evolution, the SIAs were observed to move one-dimensionally along ${ \\ < } 1 1 1 { > }$ forwards and backwards. Finally, they were captured by the surface (the diffusion-segregation path was indicated by the dashed cyan lines),while both the V (cluster) near the surface and the SIA on the surface remained immobile during the whole simulation time of 1311.0ps at 100oK.In addition, the annihilation of the SIA with a V near the surface was also observed as shown in Fig.2(b) at $9 1 . 0 \\mathrm { p s }$ After about 1000ps,the number of the SIA reduces to zero due to segregation of the SIA to the surface. The number of the V nearly remains unchanged.The annihilation of the SIA with the V in the bulk leads to slight reduction in the V number. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As the cascade was initiated near the surface ( $\\dot { d }$ varies between 33 and 57A), the number of the SIA at 1Ops decreases slightly, while the number of the V increases marginally. For $d$ less than $3 3 \\mathrm { \\AA }$ e.g. the PKA at A (Fig. 2(c)), the $\\mathrm { \\Delta V }$ number increases rapidly. In this case, the cascade directly interacted with the surface.The cascade spread from the bulk towards the surface, which then passed through the pore between surfaces. During this procedure, several atoms within the top layer of one surface obtained enough kinetic energy to eject from the surface and moved towards the surface in the opposite side. The ejected atom with high kinetic energy bombarded the surface and induced the cascade therein. Similarly,some atoms there were ejected. As shown in Fig.1(b), the higher potential energy of the surface atoms leads to their easy sputering to the vacuum. After energy was dissipated, these ejected atoms were adsorbed to the surfaces. Such ejection and adsorption significantly modify the surface structure.After the cascades almost cooled down, three SIAs with ${ \\it \\Omega } { \\it < } 1 1 1 { \\it > }$ crowdion configuration survived in the interior. Then,the SIA out of the shell of the cascade was observed to move towards the surface and eventually segregated to the surface. Two large flat vacancy clusters （204号 $( \\mathrm { V } _ { 1 3 } , \\mathrm { V } _ { 1 5 } )$ were formed close to the surfaces,as displayed in the insets in Fig.2 (a). The formation of such a cluster could be ascribed to thermal spike sputtering [42] and ballstic damage [43]. After 1311.0ps, only vacancy-type defects were left behind, including the single vacancy and small vacancy clusters. Such structure rich in the V near the surface and rich in the SIA on the surface was always observed in all the simulations,which has been observed in the primary radiation damage of GBs [13,16,17] due to the preferential absorption of the SIA over the V by the GB.The surface sputtering, the segregation of the SIA and SIA-V annihilation in the vicinity of the surface were also observed in the simulations performed by BOP, where only the evolution within tens of ps was accessed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2. Energetic and kinetic properties of the SIA and V near surfaces and on surfaces ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Due to the limit in the timescale of MD method, it is hard to access the long-term (over about 1000ps)behavior of the V near the surface and the SIA behavior on the surface.Particularly, the process on the surface may be coupled with the process near the surface,as observed in iron GBs [17].To solve these issues,the SIA/V behavior near the surface and on the surface was parameterized via the MS calculation of their energetic and kinetic properties, e.g., formation energy, segregation energy, diffusion and annihilation energy barriers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1.Energetic and kinetic properties of the SIA near surfaces ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We first calculated the SIA formation energy O near surface (100) and (110) (Fig. 2). Fig. 3(a) shows the energy profiles of the SIA near the two surfaces. As the bulk SIA approached the surface, the system energy firstly remained constant and then decreased sharply as the interstitial was within the several layers of the surfaces. Consequently, the SIA landscape near the two surfaces both basically exhibit as a half-squared potential well.The width of the wel for surfaces (1O0) and (110) is 8.8 and $8 . 9 \\mathrm { \\AA }$ , respectively. The maximal segregation energy is 8.95 and $6 . 9 3 \\mathrm { e V }$ for surfaces (100) and (110), respectively. It indicates that the surface acts as an effective sink for the SIA in NPW.The SIAsurface interaction range and the segregation energy are both comparable to that of the SIA with the GB in W [16]. The extremely large segregation energy arises from the great reduction in the volume distortion of the SIA as it transits from a ${ \\it \\Omega } { \\it < } 1 1 1 { \\it > }$ crowdion in the bulk to a point adatom at a hollow site on the surface via replacement process that involves cooperated motion of about six atoms along （204号 ${ < } 1 1 1 { > }$ direction (Fig. 3(b)). After the examination of the structure with an interstitial before and after relaxation, it was found that the SIA produced at the botom site of the sink spontaneously segregated to the surface during the structural relaxation at OK. In other words, a spontaneous trapping region forms near the surface (the filled light green squares in Fig.3(b), as observed for the SIA near GBs [16,17]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The behavior of the SIA near the surface also depends on the surface structure. The SIA on surfaces(1oO) and (11O) has the corresponding energy level of 1.16 and $3 . 1 9 \\mathrm { e V } .$ This indicates that the SIA on surface (1O) tends to move towards surface (1OO) energetically. The SIA that is located within the plane parallel to surface (11O) has to rotate to segregate to surface (110). The rotation energy barrier(0.42, 0.37 and $0 . 1 0 \\mathrm { e V }$ ） is smaller compared with that for a SIA rotation in the bulk (0.44eV). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2.Energetic and kinetic properties of the V near pure surfaces ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To show whether the V could be absorbed by the surface, the energetic and kinetic properties of the V near pristine surfaces (100) and (110) at OK werecalculated. The vacancy formation energy O profile and the diffusion energy landscape were shown in Fig. 4. Fig. 4(a)-(c) suggests that, the V has the lowestvalue of 0.64 and $2 . 4 1 \\mathrm { e V }$ at one of sites of the first layer of surfaces(loo) and(110), respectively. Correspondingly, compared with the bulk value of $3 . 7 5 \\mathrm { e V } ,$ the reduction of is 3.1l and $\\displaystyle { 1 . 3 4 \\mathrm { e V } . }$ Thus, it is thermodynamically favorable for the bulk V to reside on surfaces (1O0) and (110). However, within several layers of the surfaces is quite variable, which is not necessarily less than the bulk value.It may relate to the complex stress field near the surface,as manifested in the variation of the atomic potential energy within about four layers of the surface (Fig.l(b)).As a bulk V approaches surface (lOo), was found to increase gradually from the bulk value and then drop sharply by $3 . 1 1 \\mathrm { e V } .$ （20 The energy profile for the V near surface (11O) is similar to that near surface (1Oo).This may indicate complexity in the dynamic behavior of the V near the surfaces. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Further kinetic calculation suggests that the energy landscape of the V near surface (1Oo) is not totally downhill (Fig. 4(d). The barrier for the V migration from the fourth layer to the third layer is $2 . 0 8 \\mathrm { e V } ,$ higher than bulk value of $1 . 8 1 \\mathrm { e V } ,$ which suggests that it is kinetically unfavorable for the bulk V to diffuse to the third layer from the bulk.Nevertheless,the V initially created at the third layer only overcomes a barrier of $1 . 3 9 \\mathrm { e V }$ to migrate to the second layer, and then barrier-freely approaches the first layer of the surface.The energy landscape for the V near surface (11O) is similar to that for the V near surface (1O0). The bulk V also has to first undergo an uphill landscape and then segregate to the surface following a downhill landscape. The maximal energy barrier towards the surface is $2 . 1 2 \\mathrm { e V } .$ （20 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.3.Energetic and kinetic properties of the V near surfaces with adatom ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Above MS calculations show that the segregation energy for the SIA is much larger than that for the V (Figs.3 and 4). Meanwhile, the diffusion energy barrier for the SIA $( 0 . 0 0 2 \\mathrm { e V } )$ is far smaller than that for the V(1.8eV). Near the surface,the SIA barrier-freely segregates to the surface. Therefore, surfaces (100)and (110) preferentially absorb the SIA over the V. Thus,the energy profile and landscape of the V near the surfaces with a SIA as an adatom on the surface were calculated (Fig. 4). We found that, compared withnear pure surfaces, the lowest energy of the $\\mathrm { \\Delta V }$ is further reduced. Consequently, the segregation energy of the V near surfaces (100) and (1O) increases from 3.1l and $1 . 3 4 \\mathrm { e V }$ to 4.90 and $6 . 9 5 \\mathrm { e V } ,$ , respectively. Thus, the SIA on the surface enhances the segregation of the V nearby. Meanwhile, we note thatat the site with lowestbecomes negative, indicating an exothermic process.After examining the structure of the surface with such $\\mathrm { \\Delta V }$ relaxed at $0 \\mathrm { K }$ , we found that the V was spontaneously recombined with the SIA near surfaces (10o） and (l1O). Consequently， a \"spontaneous annihilation region\" around the SIA on the surface forms,as shown by the red spheres within a red dashed circle. Such region around a SIA has been found at GBs and in W bulk [16,17,44,45]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition, was found to fluctuate at the same layer. The NEB calculations suggest that such fluctuation leads to existence of multiple kinetically favorable migration-annihilation paths for the V near surfaces.Furthermore, some paths with lower diffusion energy barriers are preferential and more optimal than that near pure surfaces. For example, the $\\mathrm { \\Delta V }$ at site $d _ { I }$ of the second layer of surface (100) only overcomes an energy barrier of $\\phantom { - } 0 . 0 4 \\mathrm { e V }$ to jump to one spontaneous annihilation site $\\boldsymbol { e _ { I } }$ and then recombines with the interstitial barrier-freely. The minimal barrier is $1 . 2 5 \\mathrm { e V }$ for the $\\mathrm { \\Delta V }$ at site $c _ { I }$ of the third layer of surface (lOo) to approach the surface and recombine with the SIA, lower than $1 . 3 9 \\mathrm { e V }$ near a pure surface (1OO) and also much lower than the barrier of $1 . 8 1 \\mathrm { e V }$ for the $\\mathrm { \\Delta V }$ diffusion in the bulk. The energy barrier for the $\\mathrm { \\Delta V }$ diffusion from the fourth layer to the third layer is reduced from 2.08 to $1 . 9 9 \\mathrm { e V } ,$ although the barrier is still higher than the bulk value of $1 . 8 1 \\mathrm { e V } .$ Such enhanced diffusion and annihilation of the $\\mathrm { \\Delta V }$ were also observed near surface (11O). The energy landscape for the $\\mathrm { \\Delta V }$ near surface（11O） along path $f _ { I } {  } g _ { I } {  } h _ { I } {  } i _ { I }$ becomes downhill, which is, however,uphildownhill near pure surface (110). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.4. Energetic and kinetic properties of the SIA and V on surfaces ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To characterize the process on the surface, we calculated the energy landscapes of the SIA-V pair as they approach each other along the favorable paths on surfaces (1O0) and (110),as shown in Fig. 5. On the two surfaces,the most stable position for the V is at the first layer. As an isolated V jumps from one stable site to another at the first layer on the two surfaces, it overcomes the corresponding energy barriers of 3.31 and $1 . 7 4 \\mathrm { e V } .$ On the surfaces,a SIA finds its stable location at the hollow site (Fig. 3(b)). On surface (1OO),an isolated SIA overcomes a barrier as high as $2 . 4 8 \\mathrm { e V }$ to diffuse. On surface (11O), the diffusion energy barrier is only $0 . 6 8 \\mathrm { e V }$ in some [1oo] directions,while the SIA has to overcome an energy barrier of $1 . 4 8 \\mathrm { e V }$ as migrating along some other [1oo] directions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As the SIA and V come close to each other, the respective energy and difusion energy barrier are influenced by their anti-defect.Furthermore,the SIA interacts with V differently on the two surfaces. On surfaces (100) and (110),the energy landscape of the SIA-V exhibits the shape of an energy basin, due to the annihilation of a close SIA-V pair. The energy release is the sum of the SIA and V formation energy on the surface. Since the SIA/V has highest formation energy on surface (110), the energy basin is deepest on surface (11O).It can also be seen, on surfaces (100)and (110),the diffusion energy barrier for the SIA is smaller than that for the V.Thus,it is the SIA that tends to move towards the V as they are far away from each other. However, after they get close enough, the difusion energy barriers for the SIA on surfaces (1OO) and (11O) are raised by the V to 2.88 and $1 . 7 4 \\mathrm { e V }$ from 2.48 and $0 . 6 8 \\mathrm { e V } ,$ respectively. Nevertheless,the barriers for the V on the two surfaces are reduced to 2.48 and $0 . 8 3 \\mathrm { e V }$ from 3.31 and $1 . 7 4 \\mathrm { e V } ,$ respectively. Thus, the annihilation of a close V-SIA pair is triggered by the motion of the Vcompared with the motion of the SIA.In this case,it is both kinetically favorable to activate the final annihilation on the two surfaces via the motion of the V. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fusion neutrons cause displacement damage to tungsten (W） by producing large quantities of vacancies (Vs) and interstitials (SIAs). These defects not only affect the mechanical properties of W, but also introduce trap sites for implanted hydrogen isotopes and helium. Nano-structured W with defect sinks,e.g.free surfaces has been developed to mitigate the radiation damage. Generaly, free surfaces are considered to be efcient sinks for defects. NP metals with surfaces prevalent naturally exhibit radiation-tolerance. Zhang et al. ascribed the radiation-resistance of NP Au to the reduction of the formation and migration energies of point defects that lead to a continuous flux of point defects towards the free surface [30]. Bringa et al. proposed the radiation-tolerance window of NP Au based on the migration of the defect to the ligament surface and the stability of the ligament itself under irradiation [28]. Sun et al.,using in situ Kr ion irradiation technique in a transmission electron microscope，showed that NP Ag has enhanced radiation tolerance largely related to the reduced interaction energy between isolated defect clusters in NP Ag [29]. Fu et al. proposed that the low dose-rate offered enough time intervals for SIAs and Vs to diffuse to the surface or recombine, whereas at the higher dose-rates explored,the time between cascades was shorter than the time needed for defect migration to the ligament surface,allowing vacancies to agglomerate and form stacking fault tetrahedrons [27]. Thus, the radiation-endurance of NP metals has been mainly attributed to the trapping of the defects by the surfaces. Actually due to the large gap in the diffusion energy barrier of the SIA/V and the induced timescale problem, the moving sequence and population of the SIA/V could be rather different， leading to a complex dynamic healing mechanism. Consequently, different surfaces could have distinct efficiency in healing radiation damage. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1. Atomic mechanism for healing radiation damage in NP W ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MS calculations suggest that the average diffusion energy barriers for the V near surfaces (100) and (110) are 1.32 and $1 . 3 7 \\mathrm { e V } ,$ ，respectively(Table 1). The corresponding activation temperatures are 554/575 K. Therefore, at 1000K, the V in the bulk of NP W could by removed via its segregation to the surface due to surface-enhanced diffusion of the V.Yet,the trapping details depend on the surface structure.Fig. 6(a) and (b) show the trajectories of the V near surfaces (1O0) and (11O) at 1000K on timescale of ms. The V was observed to wander near surfaces (100) and (11O), which seemed to be reflected by the atom layer near the surfaces and thus did not segregate to the surfaces. Such “reflection”behavior was consistent with the uphill-downhill landscape of the V near surfaces (100) and (110) (Fig. 4(d)). Fig. 6(c) suggests that, within ls,the V near surfaces (100) and (110) firstly took random walk and then was reflected by the surface repeatedly. Finally, the V segregated to the surfaces.Therefore,on the timescale of ls,the two surfaces all serve as sinks for the Vat 1000K. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "After the SIA preferentially locates on the surface, the average barrier for its annihilation with the V near the surface is also severely lower than the bulk V diffusion energy barrier (Table 1).The activation temperature for annihilating the vacancy near surfaces (100) and (110) are 575 and 529K, respectively, significantly lower than lOooK.Particularly, the annihilation energy barrier within the \"spontaneous annihilation region\" is zero. Therefore,the vacancy in NP W could also be eliminated via the SIA-V annihilation near the surface. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2.Macroscopic mechanism for healing radiation damage in NP W ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The above atomic mechanism for healing radiation damage in NP W is mainly via the diffusion, segregation and annihilation of the V near the surface. To obtain a complete healing mechanism in a NP W, we simultaneously incorporated the long and short difusion or annihilation of the SIA/V in the bulk,near the surface and on the surface into the simulation model.We obtained the annihilation mechanism by analyzing the motion trajectory of the SIA/V at 10ooK at across timescales (Fig. 7). As shown in Fig. 7(a) and (b), at stage A-B0,a bulk SIA gradually moved to surfaces (100) and (110), while the V remained immobile at this stage. It indicates the preferential absorption of the SIA by the two surfaces. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The subsequent process relevant to annihilating the V depends on the surface structure. For surface (1OO), the SIA was found to wait for the V to segregate to the surface. The V either directly segregated to the surface or recombines with the SIA once locating within the annihilation region around the SIA near the surface (Fig. 4(a)). The V that is not recombined near surface (100) wil finaly segregate to the surface. However, on surface (1Oo),the value of the V diffusion barrier is $3 . 3 1 \\mathrm { e V }$ (Fig. 5). The corresponding activation temperature is 1390K,which is 1041K for the SIA (Table 1).At 1000K, the V takes about $1 0 ^ { 5 } \\mathrm { s }$ to jump one step on surface (1o0) and thus is immobile within one hour, as revealed by the trajectories at stage C-D (Fig. 7(a)). The SIA is also nearly immobile on surface (10o) (Fig. 7(a)). Therefore, surface (10o) heals the radiation damage in NP W manly via the diffusion, segregation of the V nearby. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For surface (11O), the SIA was found to move quickly on the surface after segregation (Fig. 7(b)).Because the barrier for the SIA diffusion on the surface is as low as $0 . 6 8 \\mathrm { e V }$ ； the activation temperature is only 285K (Table 1). Meanwhile, the V was observed to move slowly in the bulk. As aforementioned, there is low-energy barrier annihilation region around a SIA (Fig. 4(b)). Therefore, the V near surface (11O) is annihilated via coupling process involving the SIA motion on the surface and V motion near the surface. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the effect of the surface structure on the healing eficiency, we calculated the V-SIA annihilation fraction in the systems of surfaces (1OO) and (110) (Fig. 8). Results suggest that about $3 5 \\%$ of the $\\mathrm { \\Delta V }$ was recombined via the coupling process near surface (11O),while the fraction is only $1 5 \\%$ for the annihilation induced by the diffusion and segregation/annihilation near surface (100). Therefore, in NP W, surface (110) preferentially annihilates the V; the coupling motion of the SIA along the surface and the $\\mathrm { \\Delta V }$ segregation near the surface is more efficient in healing radiation damage. We also note that, the $\\mathrm { \\Delta V }$ on the way of the interstitial segregating to the surface could be recombined. Over $40 \\%$ of the $\\mathrm { v }$ was annihilated via such mechanism. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3. Comparison of the healing mechanism and efficiency between surfaces and the GB ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in the introduction,both the surface and boundary behave effective sinks for point defects,enhancing defect annihilation [14,15,19,20,27-30].We stressed that healing mechanism and efficiency depends on the surface structure.It is interesting to further compare the annihilation mechanisms and their healing efciencies in different surfaces or boundaries.To do this,we chose ∑5(310)/[0o1] GB as a typical W boundary, since the energetic and kinetic behavior of the SIA/V near this boundary has been well understood [16]. Indeed,both the boundary and surface preferentially absorb the SIA,accelerate the diffusion of the V nearby. The annihilation barrier of the V-SIA near the boundary/surface is low. The size of the \"spontaneous annihilation region\" at the boundary, however, is much larger than that at a surface (27 versus 5). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Before exploring this issue in (310) boundary by using the OKMC method, the diffusion of the SIA/V within the boundary was calculated. The barrier for the SIA migration along the tilt axis was calculated to be as low as $0 . 2 1 \\mathrm { e V } ,$ ，while the barrier for the SIA motion normal to the tilt axis is as high as $3 . 4 \\mathrm { e V }$ (the activation temperature for the motion along this direction is 1326K). The diffusion barriers for the $\\mathrm { v }$ in the directions parallel and normal to the tilt axis were calculated to be 1.798 and $2 . 2 3 5 \\mathrm { e V } ,$ , respectively. Comparing the interaction parameters of the SIA/V-GB with that of the SIA/Vsurface,it was found the SIA/V kinetic properties near/on the boundary are similar to that near/on surface(11O). However, the annihilation fraction of the V-SIA promoted by the boundary is only $5 \\%$ (Fig. 8),much smaller than $3 5 \\%$ induced by surface (11O). The examination of the SIA motion trajectory during the OKMC simulation suggested that, after segregation to the boundary, the SIA migrated one dimensionally along the tilt axis at 10ooK.Moreover,the SIA motion along the boundary was not coupled with the motion of the $\\mathrm { v }$ near the boundary. This could be attributed to the fact that the barrier of the SIA along the boundary is too low $( 0 . 2 1 \\ \\mathrm { e V } )$ ).Asa result, the time for the V to jump one step near the boundary is about $1 0 ^ { 8 }$ times the time for the SIA to diffuse one step along the boundary. If the SIA was pinned at the boundary, the annihilation fraction increases to $3 5 \\%$ due to the two dimensional motion of the V within the boundary. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "These simulations lead to the following possible criteria as developing the radiation-resistant W via introducing the surface/boundary into W. As shown in Fig. 9, the fundamental processes considered include the SIA/V diffusion in the bulk and along the surface/boundary. In common metals, $< ( \\mathrm { o r } < < )$ . The preferential absorption of the SIA over the V by defects sink is generally observed [13,16,17,46,47]. Once the SIA segregates to the surface in NP metals, the subsequent event sequence is determined by the relative value of ( and. $\\mathrm { I f } ( ) >$ ,e.g. on surface (10O), the V in the bulk moves preferentially towards the surface under activation at elevated temperature. The annihilation fraction is lower in this case.If(<,e.g. on surface (110)，the system could be well healed via the coupled motion of the SIA diffusion along the surface two dimensionally with the V diffusion near the surface. $\\mathrm { I f ( ) } < <$ ，the SIA moves too quickly on the surface to allow the V in the bulk to approach the surface within its escaping time to other sinks.The annihilation efficiency could be low in this case, e.g. at the boundary (31O). Finally, if() $\\gg$ and () is comparable to , the system could be healed via the two dimensional motion of the V along the surface/boundary. Therefore,a certain surface/boundary is expected to annihilate more V-SIA pairs in the two cases: (1) the SIA diffusion energy barriers along the two directions within the surface/boundary are comparable to the V diffusion energy barrier in the bulk, (2) the SIA diffusion energy barrier is high enough along the surface/boundary and meanwhile the V diffusion energy barriers along the two directions within the surface/boundary are comparable to the V diffusion energy barrier in the bulk. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Finally, in regions of the divertor material where He and/or H concentrations are particularly high,the V-SIA annihilation mechanism may be complicated than we have described here. In addition, the production of defect clusters in the collision cascades of high PKA energy (tens of $\\mathrm { k e V }$ ） will also affect the healing eficiency of the relevant mechanism. Moreover,AKMC simulations suggest that the V clusters produced on the surface due to sputtering enhances the diffusion and segregation of the $\\mathrm { \\Delta V }$ near the surface. The annihilation mechanism with complex factors under ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "consideration deserves investigation in the future. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5．Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this work, we explored the energetic and kinetic origin of the radiation-resistance of NP W by conducting MD simulations,MS calculations and AKMC/OKMC simulations of the SIA and V behavior both near the surfaces and on the surfaces at across length and time scales.The atention was paid to the effect of the surface structures on the mechanism and eficiency for healing radiation damage in W. We found that, at the operation temperature of 10oOK,the SIA-V annihilation mechanism and efficiency are both closely related to the defect kinetic properties on the surface, which depend on the surface structure. On surface (lO0),the diffusion energy barrier for the SIA is $2 . 4 8 \\mathrm { e V } ,$ higher than the bulk value of the V. The annihilation of the SIA-V is via the V segregation. On surface (11O), the diffusion barrier for the SIA is $0 . 6 8 \\mathrm { e V } .$ The SIA annihilates the V via the coupled motion of the V towards the surface from the bulk and the two dimensional diffusion of the SIA on the surface.Such mechanism makes surface (l1O) more effcient in healing radiation damage in NP W. The SIA was found to migrate one dimensionally along a boundary (310) with a severely low barrier of $0 . 2 1 \\mathrm { e V } ,$ leading to a lower healing efficiency in the boundary. This study reveals the important role of the on-surface process in healing radiation damage of NP W. Our results suggest that a certain surface structure may well heal radiation damage of W and thus may help suppress the hydrogen retention and helium bubble nucleation in W. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Magnetic Confinement Fusion Program (Grant no.: 2015GB1l2001)， the National Natural Science Foundation of China (Grant Nos.:11505215, 11475214,11575229,11505214 and 51571187),and by the Center for Computation Science,Hefei Institutes of Physical Sciences. This research project was part of the CRP (Coordinated Research Projects） program carried out under the sponsorship of the International Atomic Energy Agency (IAEA). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[E] S.J.∠inkie,rusion Scl. iecnnol.o4（∠U1ə) o5-/).   \n[2]S.J. Zinkle, G.S. Was,Acta Mater. 61 (2013) 735-758.   \n[3] A.E. Sand, S.L. Dudarev, K. Nordlund, EPL.103 (2013) 46003.   \n[4]S. Kajita, W. Sakaguchi,N. Ohno,N.Yoshida, T. Saeki, Nucl. Fusion 49 (2009) 095005.   \n[5]H. Trinkaus,Radiat.Eff.78(1983) 189-211.   \n[6]B.N. Singh, S.I. Golubov, H. Trinkaus,D.J. Edwards,M. Eldrup,J. Nucl. Mater. 328 (2004) 77-87.   \n[7]G.R. Odete,D.T. Hoelzer, JOM. 62 (2010) 84-92.   \n[8] X.Z. Xiao, D.K. Song,H.J. Chu, J.M. Xue, H.L. Duan, Proc.R. Soc.A 471 (2015) 20140832.   \n[9]X. Xiao, Q. Chen,H. Yang,H. Duan, J. Qu, J. Nucl. Mater. 485 (2016) 80-89.   \n[10] G.Sharma, P. Mukherjee,A. Chaterjee,N. Gayathri, A. Sarkar, J.K. Chakravarty, Acta Mater. 61 (2013) 3257-3266.   \n[11] Y. Chen, J. Li, K.Y. Yu, H. Wang, M.A. Kirk,M.Li, X. Zhang, Acta Mater. 111 (2016) 148-156.   \n[12] G.R. Odette, G.E.Lucas, JOM. 53 (2001) 18-22.   \n[13] X.-M. Bai, A.F. Voter, R.G. Hoagland, M. Nastasi, B.P. Uberuaga, Science 327 (2010) 1631-1634.   \n[14] C. Sun, K.Y. Yu, J.H. Lee, Y. Liu, H. Wang, L. Shao, S.A. Maloy, K.T. Hartwig, X. Zhang, J. Nucl. Mater. 420 (2012) 235-240.   \n[15] C.Sun,S. Zheng, C.C. Wei, Y. Wu, L. Shao, Y. Yang,K.T. Hartwig,S.A. Maloy, S.J. Zinkle,T.R.Allen, H. Wang,X. Zhang, Sci Rep.5 (2015) 7801.   \n[16] X.Li, W. Liu,Y. Xu, C.S. Liu, Q.F. Fang, B.C. Pan, J. Chen, G. Luo, Z. Wang, Nucl. Fusion 53 (2013) 123014.   \n[17] X. Li, W. Liu, Y. Xu, C.S. Liu, B.C. Pan, Y. Liang, Q.F. Fang, J. Chen, G.N. Luo, G. Lu, Z. Wang, Acta Mater. 109 (2016) 115-127.   \n[18] N. Chen,L.L. Niu,Y. Zhang, X. Shu,H.B. Zhou, S. Jin,G. Ran, G.H. Lu,F.Gao,Sci Rep. 6 (2016) 36955.   \n[19] H.Kurishita, Y. Amano,S. Kobayashi, K. Nakai, H. Arakawa, Y. Hiraoka,T.Takida, K. Takebe, H. Matsui, J. Nucl. Mater. 367-370 (2007) 1453-1457.   \n[20] 1.J. Beyerlein,M.J. Demkowicz,A. Misra, B.P. Uberuaga, Prog. Mater. Sci.74 (2015) 125-210.   \n[21] S. Zheng, IJ. Beyerlein, J.S. Carpenter, K. Kang, J. Wang, W. Han, N.A. Mara, Nat. Commun. 4 (2013) 1696.   \n[22] A. Vattre, T. Jourdan, H. Ding, M.C. Marinica, M.J. Demkowicz, Nat. Commun. 7 (2016) 10424.   \n[23] T.Fujita, P. Guan, K. McKenna, X. Lang, A. Hirata, L. Zhang, T. Tokunaga, S. Arai, Y. Yamamoto, N. Tanaka,Y. Ishikawa,N.Asao,Y. Yamamoto,J. Erlebacher, M. Chen,Nat. Mater.11 (2012) 775-780.   \n[24] K. Hu, D.Lan, X.Li, S. Zhang,Anal. Chem.80 (2008) 9124-9130.   \n[25] T.X.T. Sayle,P.E. Ngoepe, D.C. Sayle, ACS Nano.3 (2009) 3308-3314.   \n[26] L.Y. Chen, Y. Hou,J.L. Kang,A. Hirata,T.Fujita, M.W. Chen,Adv. Energy Mater. (2013) 3 851-856.   \n[27] E.G.Fu, M. Caro,L.A. Zepeda-Ruiz, Y.Q. Wang, K.Baldwin,E.Bringa,M. Nastasi, A. Caro,Appl. Phys. Lett. 101(2012) 191607.   \n[28] E.M. Bringa, J.D.Monk,A. Caro,A. Misra,L. Zepeda-Ruiz, M.Duchaineau,F.Abraham,M. Nastasi, S.T. Picraux, Y.Q. Wang,D. Farkas,Nano Lett. 12 (2012) 3351-3355.   \n[29] C.Sun, D. Buford, Y. Chen, M.A. Kirk, Y.Q. Wang, M.Li, H. Wang, S.A. Maloy, X. Zhang, Sci. Rep. 4 (2014) 3737.   \n[30] C.G. Zhang, Y.G. Li, W.H. Zhou,L. Hu, Z. Zeng, J. Nucl. Mater. 466 (2015) 328-333.   \n[31] A.F. Voter, K.E. Sickafus,E.A. Kotomin,B.P. Uberuaga, Radiation Effects in Solids, Springer, 2007, pp. 1-23.   \n[32] Q. Yan, X. Zhang,Z. Zhou,W. Shen, Y. Zhang,S. Wang,L. Xu,C.Ge,J. Nucl. Mater. 442 (2013) S190- S197.   \n[33] R. Lässer, N. Baluc,J.L. Boutard,E. Diegele,S. Dudarev, M. Gasparott,A. Moslang,R. Pippan,B. Riccardi, B.van der Schaaf, Fusion Eng. Des.82 (2007) 511-520.   \n[34] V. Philipps, J. Nucl. Mater. 415 (2011) S2-S9.   \n[35] A.M. Ito et al, Nucl. Fusion 55 (2015) 073013.   \n[36] T. Ahlgren, K. Heinola, N. Juslin, A. Kuronen, J. Appl. Phys.107 (2010) 33516.   \n[37] J.F. Ziegler, J.P.Biersack,U.Littmark,Pergamon, New York,1985.   \n[38] D. Nguyen-Manh,A.P. Horsfield, S.L. Dudarev, Phys. Rev.B 73 (2006) 20101.   \n[39] J. Erlebacher, M.J. Aziz,A. Karma, N. Dimitrov, K. Sieradzki, Nature 410 (2001) 450-453.   \n[40] K.Nordlund, M. Ghaly,R.S.Averback, M. Caturla,T.D. de La Rubia,J. Tarus,Phys. Rev. B 57 (1998) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7556. [41] G.Henkelman,H. Jónsson, J. Chem. Phys.113 (2000) 9978-9985. [42] M.Ghaly,R.S.Averback,Phys.Rev.Lett.72(1994) 364. [43] M. Ghaly, K. Nordlund,R.S.Averback, Philos.Mag.A 79 (1999) 795-820. [44] X. Li, W. Liu, Y. Xu, C.S. Liu, Q.F. Fang, B.C. Pan, J. Chen, G.N. Luo, Z. Wang, J. Nucl. Mater. 444 (2014) 229-236. [45] S.-Y. Qin,S.Jin, Y.-H.Li, H.-B. Zhou, Y. Zhang, G.-H.Lu,Nucl. Instrum. Meth. B.393 (2017) 190. [46] N.Park,P. Cha, Y. Kim,H.Seok, S. Han,S.Lee,S. Cho, H. Jung, Met. Mater. Int.15 (2009)447-452. [47] M. Samaras, P.M. Derlet, H. Van Swygenhoven, M. Victoria, Phys. Rev. Lett 88 (2002) 125505. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure captions: ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.1.Structures of the simulation models. (a)A [O O 1]-oriented cylindrical geometry that represents a ligament in NP W. The ligament model was used for MD simulations of the primary radiation damage in the NP W. The pink arrow indicates the primary knock-on atom (PKA) that directs along [1 0 0]. (b) The relaxed structures of pure surfaces (l00) and (110) as a simplification of the surface of a ligament. The surface model was used for MS calculations of the energetic and kinetic properties of the SIAs and the Vs and also AKMC simulations of the vacancy behavior near the surface at long timescales.The atoms in (a) and (b) are colored with their potential energies as indicated by the color bar on the right side. (c) The structural model for OKMC simulations of the macroscopic behavior of the SIA/V near the surface.(d) The relevant simplified physical mechanisms of the SIA and V diffusion, segregation and annihilation in the bulk,near the surface and along the surface.Here, the red cubic and green spheres represent a Vand a SIA,respectively. The cyan sphere denotes the atom near the surface, while the pink sphere represents the atom at the junction of two surfaces.andstand for the interaction distance between the V and the SIA in the bulk and on the surface,respectively. and respectively denote the distance from the $\\mathrm { \\Delta V }$ and the SIA to the pure surface,while is for the interaction distance from the bulk $\\mathrm { \\Delta V }$ to the SIA that is preferentially located at the surface.The symbols rl,r2,r3,r4,r5,r6,r7,r8 denote the rates along eight directions in a body-centered cubic cell for the $\\mathrm { \\Delta V }$ and SIA diffusion in the bulk. For SIA,however, r3 and r5 are for the rates of the SIA moving forward and backward along ${ \\it \\Omega } { \\it < } 1 1 1 { \\it > }$ as illustrated by the green double-headed arrow. The symbols $r _ { I } , r _ { 2 } , r _ { 3 } , r _ { 4 }$ are rates for the V and SIA migration along four directions on the surface. The symbols and denote the segregation rates for a $\\mathrm { v }$ and an SIA, respectively. The corresponding rates for a $\\mathrm { v }$ and an SIA to migrate out of the surface are represented by and. The annihilation rates for a V-SIA pair in the bulk, near the surface and on the surface are denoted by,and ,respectively. The symbols and denote the segregation rates for a $\\mathrm { \\Delta V }$ and a SIA near a junction, respectively. The corresponding rates for a $\\mathrm { v }$ and a SIA to migrate out of the junction are represented by and. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.2. (a) Variation of the defect number with the initial PKA distance from the surface (d). (b) and (c) Representative snapshots of the evolution of the colision cascades created by PKAs at positions A and B as labeled in (a) with $d$ of 57 and $1 1 \\mathrm { \\AA }$ from the surface, respectively. Atoms are colored with their potential energies.The atoms with the deviation of the potential energy from the bulk value less than $0 . 1 \\mathrm { e V }$ were treated as non-defective and are not shown.In this display scheme, a self-interstitial atom (SIA) is characterized as a chain of atoms aligned.A mono-vacancy (V) is characterized as an isolated 14-atom cluster composed of its eight first-nearest neighbors and six second-nearest neighbors. The structures of V clusters observed in (b) and (c) are shown schematically in the inset in (a) where the cyan squares and orange circles indicate the V and normal lattice site, respectively. In (b) at 1311.Ops,the dashed cyan arrows indicate the moving paths of the SIA as it segregates to the surface from the bulk. In (c), the spheres in the cyan box are sputtered atoms. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.3.(a) Energetic profiles of the SIA near the two pure surfaces.Here,is the interstitial formation energy. The green arrow indicates the barrier for the rotation of the SIA that is parallel to surface (110). (b) Segregation process of the SIA near surfaces (100) and (110). The filled light green square represents the spontaneous trapping region for the SIA near the surface. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Fig.4.Energetic and kinetic properties of the V near pure surfaces (1O0) and (11O) and in the vicinity of the SIA on the surfaces.(a)and (b)Ilustration of the location and difusion paths for the V near the three surfaces.The pure part of the surface and the part with a SIA on the surface was separated by the horizontal green line. The migration energy barriers are labeled on the paths.The large and green sphere represents the SIA on the surface. The red sphere is for the site that has negative vacancy formation energy (. The olive and violet spheres are for the sites that have positivebut smaller and larger than the bulk value,respectively. Blue spheres indicate the normal sites. (c) Energy profiles for the V near the three surfaces that are pure and impure. (d) Energy landscapes for the V diffsion along several artificially designed migration paths as presented in (a) and (b). The energy of the system with a V that does not interact with the surface was chosen as reference. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5.Diffusion for the SIA and Von surfaces (1O0) and (110). (a) and (b) Ilustration of the SIA and V diffusion paths on the surfaces.The cyan and red arrows indicate the possible migration paths for a single SIA and V, respectively. The corresponding interaction paths for a SIA-V pair on surfaces (100) and(11O) are shown by pink and green arrows. The SIA and $\\mathrm { \\Delta V }$ initiate from sites $a$ and $A$ respectively. The red spheres represent the sites that have negativearound a SIA. (b) Energy landscapes for a SIA-V pair interaction on surfaces (100) and (11O). The energy of the system with the SIA and V on the surface that do not interact with each other was chosen as reference.The energy for a SIA and V to escape from the surfaces defined as the sum of the segregation energy and the diffusion energy barrier is marked on the left and right side of the axis,respectively. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6. (a) and (b) Diffusion of the V near surfaces (100) and (110) at 100oK revealed by the AKMC method. The different colored paths are obtained from multiple AKMC runs. (c) Diffusion of the V near surfaces (100) and (110) at 1000K revealed by the OKMC method. The dark green rectangle represents the trapping region for the V near the surface. The range of the region was obtained from MS calculations of the defect properties near the surface.The diferent colored paths were obtained from multiple OKMC runs. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Fig. 7.Moving sequence of the SIA and V near surfaces (1OO) and (110) and on the surfaces at 1000K revealed by the OKMC method. Axis $Z$ is normal to the surface, while axis Y is parallel to the surface. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Fig.8.The eficiency of the surfaces (100),(110) and the boundary (310) in annihilating radiationcreated vacancies and interstitials. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Fig. 9.Fundamental processes of the SIA and V motion near/on the surface/boundary. Here, the green sphere and red square represents the SIA and V,respectively. anddenote the diffusion energy barrier of the SIA and V, respectively in the bulk. The corresponding migration energy barriers for the SIA and V along two directions on the surface/boundary are denoted byand. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Table captions: ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Table 1. Some characteristic quantities describing the interaction of the SIA and $\\mathrm { \\Delta V }$ with surfaces (100)/(110). These include the average diffusion energy barriers of V (SIA),and the barriers of V-SIA annihilation near the tow surfaces and on the surfaces.The relevant symbols are defined as follows. : interstitial diffuses near the surface; : vacancy diffuses near the surface； : vacancy-interstitial annihilation near the surface; : interstitial diffuses on the surface; : vacancy diffuses on the surface; : vacancy-interstitial annihilation on the surface. The corresponding activation temperature $\\left( T _ { a } \\right)$ is also given,defined as the temperature that gives the transition time one second [16].The surface influence range for the SIA(V) and the V-SIA interaction range are also listed. ",
+        "page_idx": 19
+    }
+]

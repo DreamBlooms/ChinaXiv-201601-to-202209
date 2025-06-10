@@ -1,0 +1,543 @@
+[
+    {
+        "type": "text",
+        "text": "技术方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于sift特征点的透射电子显微镜多幅图像拼接",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李 穆},路艳蒙²,韩帅虎',邬卓彬',陈家竞',刘哲星'，曹蕾}南方医科大学'生物医学工程学院,基础医学院电子显微镜室，广东广州510515摘要：目的 为了解决TEM在高分辨率下仅观察到小视野的问题,本文提出了一种基于sift特征点的TEM多幅图像拼接方法。方法首先，提取待拼接图像的sift特征点。然后，利用sift特征点结合多项式拟合校正场的方法对图像进行几何校正，再利用sift特征点进行图像配准。最后，采用泊松图像编辑的方法进行融合以达到无缝拼接。结果60张TEM局部肾小球图像能拼接出完整的肾小球，图像的配准误差为 $6 2 . 5 { \\sim } 1 8 7 . 5 \\ \\mathrm { n m }$ ,且与其它3种图像拼接方法相比,能够有效减小形变、避免伪影的产生。结论 本文提出的方法能得到高分辨率、大视野的TEM图像,为肾活检病理诊断提供有力的支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：图像拼接；特征点；图像几何校正；图像配准；泊松图像编辑；高分辨率；大视野",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multiple transmission electron microscopic image stitching based on sift features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Mu’,LU Yanmeng²,HANShuaihu¹,WUZhuobin',CHENJiajing',LIUZhexing',CAO Lei   \nSchoolficalooboliliclit   \n510515, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Weproposedanewstitching methodbasedonsiftfeaturestoobtainanenlarged viewof transmisionelectron microscopic (TEM)images withahighresolution.Thesiftfeatures wereextracted fromtheimages,whichwerethencombined withfted polynomialcorrection field tocorrect the images,followed byimagealignment basedonthe siftfeatures.The imageseams atthe junction werefinall removedbyoissonimage editingtoachieve seamlesstitching which was validated on 60 local glomerular TEM images with an image alignment error of 62.5 to $1 8 7 . 5 ~ \\mathrm { n m }$ . Compared with 3 other stitching methods,the proposed methodcould efectively reduce image deformation and avoidartifacts to facilitate renal biopsy pathological diagnosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:imagestitching;siftfeatures;imagecorrction;imagealignment; Poissonimageediting;highresolution;argeview ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "透射电子显微镜(TEM)检查是肾活检病理检查的重要组成部分，肾组织内伴特殊有形结构的各种肾脏疾病的诊断及其新疾病的发现，大多通过电镜检查得以确诊1。北京大学肾脏病研究所对777例肾活检标本的病理诊断结果表明，电镜对 $1 8 . 5 \\%$ 的病例起决定性诊断作用，对 $1 3 . 5 \\%$ 的病例诊断提供重要参考作用2。但是用于透射电镜检测的样品要求标本块很小，通常超薄切片中只含有1\\~2个肾小球，本身对于反映病变程度已有一定的局限性，再者目前透射电镜普遍配备的高分辨率CCD数字化相机的视野都比较小，一张图片只能包含病变的局部，缺乏反映广泛病变区的信息，容易造成漏诊。如果要包含完整的病变区，如一个完整的肾小球，就只能在较低的放大倍率下进行图像采集，丧失了电子显微镜高分辨率的优势，拍摄的图像分辨率难以满足临床诊断的需要。这就产生了一个矛盾：既要保证图像清晰又要包含完整的病变区。目前肾活检所采集的TEM图像很难达到两全，大大限制了TEM在临床超微病理活检中的应用[3]。解决此问题最直接的方法就是将多张高分辨率且有一定重叠区域的TEM图像进行配准后拼接出一幅高分辨率、大视野的图像，为临床医生提供完整病变区域的高分辨率图像以提高病变诊断效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像配准的方法主要分为基于像素的配准和基于特征的配准。基于像素配准的方法是利用两幅图像重叠区域的灰度信息构建相似性度量函数，求解匹配参数，从而建立图像的配准。常用的基于像素的配准方法有：基于相关性、互信息以及频域傅里叶方法等[4。该类配准方法能充分利用图像信息，但对重叠区域小的图像很难估计准确的匹配参数[5。基于特征的配准方法涉及到点特征、线特征和区域特征[4,点特征是最基本的特征，其适应范围最广且对其计算及描述都相对简单6，因此，本文选择特征点的配准。基于特征点的方法通过提取具有几何不变性的点，由特征点之间的匹配得出匹配参数，从而建立图像的配准。几何不变性的特征点及其描述子的获取是该类方法的关键。Smith等用SUSAN算子提取角点，但对角点的定位不够准确。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Harris等[8提取出了具有高重复性检测率的harris角点。Schmid等在此基础上，加入方向不变性的描述子，使该角点具有方向不变性的特点，但并不具备尺度不变性。Lowe等[1在高斯差分空间提取出了对图像的尺度、方向具有不变性且有一定仿射不变性的sift特征点。Yan等[1]对sift特征点的描述子用PCA方法进行降维得到pca-sift特征点，虽然减少了计算量，但与sift特征点相比，在尺度变化大以及图像较模糊时，匹配效果较差。Mikolajczyk等[12]将sift特征点中描述子转换为对数极坐标中计算，得出gloh特征点，虽然与sift特征点相比，gloh特征点在光照变化大及图像较模糊时，匹配更有优势,但计算量更大[13]。Bay等[14]利用hessian矩阵来提取surf特征点，提高了运算速度且在图像较模糊时优于sift特征点,但所估计的匹配参数不够稳定。Juan[15]、Kayning等[1将这三种特征点进行比较,指出sift特征点在尺度、旋转不变性以及匹配纹理复杂图像中均优于以上三种特征点,在仿射不变性中sift与 surf、gloh相当。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于sift特征点具有较好的尺度和旋转不变性，对复杂纹理图像的配准，所估计的参数也相对稳定，因此本文选择基于sift特征点的配准方法对纹理复杂的肾小球TEM图像进行配准。由于显微镜成像系统导致了图像的形变和亮度不均匀，故而本文分别进行了配准的预处理和后处理。本文第1节介绍了sift特征点的提取、两幅TEM图像的拼接过程以及多幅图像的完整拼接过程，第2节是实验结果，第3节为本文讨论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 sift特征点的提取[10] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "sift特征点是指图像中具有尺度、方向不变性且有一定仿射不变性的点，提取方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第1步：构建图像高斯空间和高斯差分DOG(DifferenceofGaussian)空间，如图1A所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $I ( x , y )$ 为输入图像，由式(1)得到高斯空间第一组第一层图像 $L _ { 1 } ^ { 1 } ( x , y , \\sigma _ { 0 } )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } _ { 1 } ^ { 1 } ( x , y , \\sigma _ { 0 } ) { = } G ( x , y , \\sigma _ { 0 } ) ^ { * } I ( x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$G ( x , y , \\sigma _ { 0 } )$ 表示尺度为 $1 \\sigma _ { 0 }$ 的高斯函数。\\*表示卷积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然后由公式(2)构建高斯空间的第 $\\overset { \\cdot } { n }$ 组第i层图像$L _ { n } ^ { i } ( x , y , \\sigma )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { n } ^ { i } ( x , y , \\sigma _ { n } ^ { i } ) = G ( x , y , \\sigma ) ^ { * } L _ { n } ^ { i - 1 } ( x , y , \\sigma _ { n } ^ { i - 1 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\sigma _ { n } ^ { i } = k \\sigma _ { n } ^ { i - 1 } , \\sigma = \\sqrt { ( \\sigma _ { n } ^ { i } ) ^ { 2 } - ( \\sigma _ { n } ^ { i - 1 } ) ^ { 2 } } , i = 2 , 3 , \\dots , m , n = 1 , \\dots , l , )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $l$ 为高斯空间总组数， $m$ 为每组图像总层数，（20 $k = 2 ^ { \\binom { V } { m - 3 } } .$ 为尺度系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "再由公式(3)构建DOG空间中第 $n$ 组第i层图像$D _ { n } ^ { i } ( x , y , \\sigma _ { n } ^ { i } )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$D _ { n } ^ { i } ( x , y , \\sigma _ { n } ^ { i } ) = L _ { n } ^ { i + 1 } ( x , y , \\sigma _ { n } ^ { i } ) - L _ { n } ^ { i } ( x , y , \\sigma _ { n } ^ { i - 1 } ) ,$ $( i = 1 , 2 , \\ldots , m - 1 )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中取 $\\stackrel { \\prime } { \\sigma } _ { 0 } = 1 . 6 , k = \\sqrt { 2 } , m = 5 , l = 4 _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第2步：提取特征点，并确定特征点方向。特征点在DOG空间中同组且相邻的三层图像中提取，如图1B所示，若·所示像素点的灰度值是周围26像素点灰度值的极值，则将该像素点作为特征点。若 $\\dot { \\boldsymbol { \\sigma } }$ 为特征点所在图像层的尺度，以特征点为中心，计算 $\\cdot 3 \\sigma$ 半径范围内像素点的梯度，如图1C，再对该范围内梯度进行直方图统计，将统计出的主方向作为特征点的方向，如图1D。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第3步：计算特征点的128维向量描述子。本文在特征点周围 $1 6 \\times 1 6$ 邻域内计算描述子。先计算出该区域内梯度的方向和幅值，为保持方向不变性，将该区域内所有像素的方向以特征点的方向为基准进行调整。然后将该邻域分解为 $4 \\times 4$ 个子区域。最后将各子区域中的梯度统计到8个方向中，获得128维向量描述子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2图像拼接 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图像拼接是利用多张有一定重叠范围的小视野的图像，获取一幅高分辨率、无缝的大视野图像的方法。本文图像拼接的方法由图像几何畸变校正、图像配准、图像融合三部分组成，其中基于sift特征点的图像配准是图像拼接的关键。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1图像配准[10本文基于sift特征的图像配准方法包括以下3步：第1步:sift特征点的匹配。令图像i $\\cdot j$ 为相邻的两张图像，根据1.1节的方法分别提取图像$i , j$ 中 sift特征点集 $\\boldsymbol { X } _ { n } ^ { ' ~ ( i ) } { = } \\{ \\boldsymbol { x } _ { 1 } ^ { ' ( i ) } , \\boldsymbol { x } _ { 2 } ^ { ' ( i ) } , \\ldots , \\boldsymbol { x } _ { n } ^ { ' ( i ) } \\}$ ， $\\boldsymbol { X } _ { \\hat { n } } ^ { ' ~ ( j ) } =$ $\\{ x _ { 1 } ^ { ' ( j ) } , x _ { 2 } ^ { ' ( j ) } , . . . , x _ { \\hat { n } } ^ { ' ( j ) } \\} _ { \\circ }$ 对图像冲的某特征点 $\\ v { x } _ { k } ^ { \\prime ( i ) }$ 的描述子，在 $\\boldsymbol { X } _ { \\hat { n } } ^ { ' \\ ( j ) }$ 的描述子中用BBF(Best Bin First)算法搜索与其欧式距离最近和次近的 sift特征点 $x _ { \\boldsymbol { k } ^ { \\prime } } ^ { \\prime ( j ) }$ 和 $\\chi _ { \\mathbf { \\Lambda } _ { k ^ { ' } } } ^ { ( j ) }$ ,并计算出最近距离和次近距离的比值。当该比值小于0.8时，将 $\\boldsymbol { x } _ { k } ^ { \\prime ( i ) } , \\boldsymbol { x } _ { k ^ { \\prime } } ^ { \\prime ( j ) }$ 加入匹配点集。最终得到图像冲的特征点集$X _ { n ^ { ' } } ^ { ( i ) } { = } \\{ x _ { 1 } ^ { ( i ) } , x _ { 2 } ^ { ( i ) } , { \\ldots } , x _ { n ^ { ' } } ^ { ( i ) } \\}$ ,其在图像 $j$ 中对应点集为$X _ { n ^ { ' } } ^ { ( j ) } { = } \\{ x _ { 1 } ^ { ( j ) } , { \\ldots } , x _ { n ^ { ' } } ^ { ( j ) } \\}$ 且 $( x _ { k } ^ { ( i ) } , x _ { k } ^ { ( j ) } )$ 为一组匹配特征点， $n ^ { ' }$ 为特征点总匹配数;第2步：图像匹配。假定图像i、j满足如下匹配模型：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { k } ^ { ( j ) } = H _ { i j } x _ { k } ^ { ( i ) } = \\left[ h _ { 1 1 } \\begin{array} { c c c } { { } } & { { h _ { 1 2 } } } & { { h _ { 1 3 } } } \\\\ { { h _ { 2 1 } } } & { { h _ { 2 2 } } } & { { h _ { 2 3 } } } \\\\ { { 0 } } & { { 0 } } & { { 1 } } \\end{array} \\right] x _ { k } ^ { ( i ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $H _ { i j }$ 是一个仿射变换矩阵,可根据RANSAC(RandomSampleConsensus)算法计算出;第3步：将图像投影到同一平面中得到配准图像。以图像所在的平面为参考平面，对于图像j冲的任意一点 $( x , y )$ 其在图像冲的投影 $x ^ { ' } , y ^ { ' }$ 油式(5)求得。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( x ^ { ' } , y ^ { \\prime } , 1 ) ^ { T } = H _ { i j } ^ { - 1 } ( x , y , 1 ) ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a215dfecb2852bdb4d9688ace79c2ed279f302279c832787cb4eff46f6de6a2.jpg",
+        "img_caption": [
+            "图1提取sift特征点[0] Fig.1 Extracting sift features. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2是3张大小相同的图像配准结果。在配准时，从右往左先将两张图配准，再将配准结果与第3张图进行配准。从图中可以看出3张图像能正确配准，只是图像出现了不同程度的形变，图中虚线框表示3张原图的边界投影到同一平面上的结果，从图2B的边界框可看出边界之间不再完全平行或垂直，并且从图2C的边界框可看出，随着配准图像数目的增加，这种形变会变大。Kaynig等[说明了形变的原因在于聚光透镜系统对图像产生的几何畸变。因此，在图像配准之前，应先进行图像畸变校正预处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e799da048666d162b8ed8bb4099c83a9f78b5215f4ca4f37b40921a98bb3c8a5.jpg",
+        "img_caption": [
+            "图2未经几何校正的图像配准 Fig.2 Image alignment before distortion correction(from A to C). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2图像配准的预处理Kaynig等[6针对TEM图像畸变提出了用多项式来拟合非线性校正场的方法，并借助匹配的sift特征点来估计多项式参数。对于任意点$( x , y )$ ，其校正公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { F = \\phi _ { d } ( x , y ) \\beta = ( 1 , x , y , x ^ { 2 } , x y , y ^ { 2 } , \\ldots , y ^ { d } ) } \\\\ { ( \\beta _ { 1 } , \\beta _ { 2 } , \\ldots \\beta _ { \\frac { ( d + 1 ) ( d + 2 ) } { 2 } } ) ^ { T } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $d$ 为拟合校正场的最高阶，本文中 $d = 5 , \\beta$ 是由校正系数 $\\boldsymbol { \\beta } _ { \\iota }$ 构成的向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于所估计的校正场，当所有特征点经过校正后，通过旋转和平移转换到同一平面坐标时，匹配的特征点能近似对齐。若图像经过仿射变换 $\\cdot A ^ { ( i ) } .$ 与图像j在同一平面对齐,令 $\\cdot \\boldsymbol { R } ^ { ( i ) }$ 和T为 $\\cdot A ^ { ( i ) }$ 中提取出的旋转矩阵和平移矩阵，则满足：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { \\overset { . } { \\mu } , { R } , { T } } { \\sum _ { i , j = 1 \\atop i \\neq j } ^ { k } } \\left( \\left\\| \\left( \\phi _ { d } \\left( { X _ { n } ^ { ( i ) } } \\right) \\beta R ^ { ( i ) } + T ^ { ( i ) } \\right) - \\left( \\phi _ { d } \\left( { X _ { n } ^ { ( j ) } } \\right) \\beta R ^ { ( j ) } + T ^ { ( j ) } \\right) \\right\\| ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\underset { \\ b { A } } { \\operatorname* { m i n } } \\sum _ { i , j = 1 } ^ { B } \\bigg \\| X _ { n } ^ { ( i ) } \\ b { A } ^ { ( i ) } - X _ { n } ^ { ( j ) } \\ b { A } ^ { ( j ) } \\bigg \\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $k$ 为估计校正场所输入的图像数，本文中 $k { = } 9$ $\\lambda { = } 0 . 0 1 _ { \\mathrm { o } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像校正结果如图3所示，A为校正前的图像，B为校正后的图像，C为本文方法中提取的非线性校正场$F$ 。通过图3C可以观察到，该校正方法仅使图像的局部信息发生微小的形变，在校正后仍能保持图像的结构、形态等细节信息。图4为图像经畸变校正后再进行图像配准的结果，将该图中虚线所示的边界线与图2中的比较，可以看出图像经过畸变校正后，能有效减小图像形变。然而，图像进行校正及配准后，在图像重叠区域的边缘仍然存在明显的接缝，如图4中白色箭头所示，因而需进行后处理以消除接缝",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e5871a0401913df8ed69016b481af37d1ebb54e8e1863a5e5dfb324315c76aa.jpg",
+        "img_caption": [
+            "图3图像校正前后的结果及非线性校正场F Fig.3 Results before,after distortion correction and non-linear correction field F.A: Original image; B: Image after distortion correction; C: Non-linear correction field F. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7290fbd32bac592ecf6288ce1809aea78a9e4168f04cd77db01fa55404dd5411.jpg",
+        "img_caption": [
+            "图4校正后图像配准的结果 Fig.4 Images alignment after distortion correction with white arrows indicating obvious seams. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3图像配准的后处理本文采用Poisson图像编辑方法[将重叠区域的图像融合到配准的图像中以去除接缝。如图5所示，令g为重叠区域图像，v为g的梯度场，s为两张配准后的图像， $\\Omega$ 为g融合于s时对应的区域,aΩ为Ω的边界。 $f$ 和 $f ^ { * }$ 分别为定义在 $\\mathbf { \\sigma } _ { \\Omega }$ 内和Ω外表示灰度的标量函数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为确保消除接缝的同时，重叠区域的梯度在融合前后近似相等，构造以下能量函数：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { m i n } _ { f } \\iint _ { \\Omega } \\left| \\nabla f - \\nu \\right| ^ { 2 } \\ , \\left. s . t . f \\right| _ { \\hat { \\sigma } \\Omega } = \\left. f ^ { * } \\right| _ { \\hat { \\sigma } \\Omega }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该方程的解满足如下泊松方程：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f \\mathrm { = } \\mathrm { d i v } \\nu , f \\big | _ { \\partial \\Omega } \\mathrm { = } f ^ { \\ast } \\big | _ { \\partial \\Omega }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(10)式离散化的最优解满足：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big | N _ { p } \\Big | f _ { p } - \\sum _ { q \\in N _ { p } \\cap \\Omega } f _ { q } = \\sum _ { q \\in N _ { p } \\cap \\hat { \\sigma } \\Omega } f _ { q } ^ { * } + \\sum _ { q \\in N _ { p } } \\nu _ { p q }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中p为重建区域f中的任意点, $\\mathrm { N p }$ 为p点的四邻域,q为p四邻域中任一点， $v _ { p q }$ 为 $\\nu _ { \\frac { ( p + q ) } { 2 } }$ 在 $\\overrightarrow { p q }$ 方向上的投影，$\\left| \\mathrm { N p } \\right|$ 为点 $\\mathfrak { p }$ 的邻域点个数。该线性方程可以通过Gauss-Seidel迭代方法进行求解。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2d12b5f8fca63dfbc0a6b79b5e2a11ae2a4124683f27612eb241ec539c409f6.jpg",
+        "img_caption": [
+            "图5泊松编辑方法示意图 Fig.5 Schematic diagram of poisson image editing. $f$ and $f ^ { * }$ are intensity functions inside and outside area respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6为泊松图像编辑方法消除图4中接缝的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图中白色箭头所指处可以看出该方法能够很好地去除接缝。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3多幅图像的拼接 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若输入n张有序的TEM图像，先提取相邻9张图像的sift特征点，进行特征点的匹配，根据匹配的特征点对图像进行几何畸变校正，并用所估计的校正场校正所有的图像。然后，对所校正的图像进行两张图像的配准，再进行配准后的无缝融合以得到两张图像的拼接。最后通过图像两两拼接的方式得到多幅图像的拼接。算法流程如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/26e4f013e76928962ff6b3065548dc202f63cd872742cd01fbf170b4ac4edac6.jpg",
+        "img_caption": [
+            "图6泊松图像编辑方法消除接缝"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/08f761aa67e601bfc23980d23cc593e5c6157539bd74e52ca731d6f6d4952cac.jpg",
+        "img_caption": [
+            "图7n张图像拼接流程图 Fig.7 Flow chart of multiple image stitching. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文实验数据来源于南方医科大学电子显微镜室采集的具有 $30 \\%$ 重叠区域的肾小球横切面图，该组数据为60张5000倍放大倍数的TEM图像。实验选择了目前比较常用的图像处理软件中的拼接方法即fiji[8中grid/collection stitching[19]功 能、photoshop cs4 [20]中photomerge功能以及 $\\mathrm { I C E } ^ { [ 2 1 ] }$ ,与本文方法进行比较。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图8为4种拼接方法对一个完整肾小球截面图的拼接结果,A\\~D分别为fiji软件中grid/collection stitching功能、photoshop 中photomerge功能、ICE软件的拼接功能以及本文方法的结果。图像采集的范围是样本中包含肾小球的矩形区，由图8可以看出，各种拼接方法的结果均有一定程度的形变一锯齿样边缘，而比较四幅拼接图边缘与白色边框的距离可知：本文方法的形变最小，其主要原因是图像配准之前进行过图像校正。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在图像的配准与缝融合的处理中，图像的部分重叠区域往往需要兼顾多张图像的配准与融合，因此处理好该局部是图像拼接的难点。图9中A图截取于原采集图像，B\\~E图为图8白色边框区域对应的放大图，该区域的拼接需要兼顾3张图像，F\\~J图为A\\~E图白色边框区域对应的放大图。从图中可以看出：B图整个区域都产生了伪影且在底部矩形框所示区域有明显的不对齐，C图在箭头所指区域存在严重的不对齐，D图中没有出现图像不对齐，但会造成图像细节信息的错误，如I图中椭圆标示处。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过比较可以得出：本文采用的校正方法能够减小整幅图像拼接产生的形变，而且经校正后再配准能够得到比fiji、photoshop更准确的配准结果,同时本文采用的图像融合的方法能够避免fiji方法中图像融合后产生的伪影以及ICE方法中图像细节信息的错误。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b91c8aec8136252d990dd7f5144aee98239897bef9505a96c2e9ef1e4d8d3ea.jpg",
+        "img_caption": [
+            "Fig.6 Removing seams using Poisson image editing with white arrows indicatingoriginal seams removed. ",
+            "图8四种不同拼接结果",
+            "Fig.8Results of four different stitching methods,while white rectangularareasstitched juggling 3adjacent imageand enlarged results show in Fig.9 B\\~E.A: Stitching result of fiji;B: Stitching result of photoshop;C: Stitching result of ICE;D: Stitching result of proposed method. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f146842222c291de4a7bba821dbe6379b84327d552a0df25c0a561167cb314ba.jpg",
+        "img_caption": [
+            "图9局部拼接结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Stitching resultsof local area.A:Original image;B: Stitching result of fiji; C:Stitching result of photoshop; $D$ :Stitching result of ICE;E:Stitching result of proposed method; $F { \\sim } J ;$ ：Enlargedregions of rectangularareasin $A { \\sim } E$ .Thewhite oval inimage Iindicatesartifact. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1图像配准误差的评价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验随机选取6组相邻的图像，通过计算图像配准的误差作为对本文方法的评价。以误差函数即公式(12)作为量化评价的指标，误差值越小,说明配准方法越有效。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { k } = \\left\\| \\mathcal { x } _ { k } ^ { ( j ) } - H _ { i j } \\ d { x } _ { k } ^ { ( i ) } \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图10是由匹配的6组图像中特征点的误差制成的箱图，每组中箱的上下两端各表示特征点误差的1/4和3/4的分位数，箱中的粗横线表示每组误差的平均值。4 $^ { \\cdot } + ^ { : }$ ”表示异常点。原图中像素的边长为 $2 5 ~ \\mathrm { n m }$ ，本文配准误差范围是 $6 2 . 5 { \\sim } 1 8 7 . 5 \\ \\mathrm { n m }$ O",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2图像的重叠面积和对平均配准误差的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图像的重叠面积直接影响着特征点的个数以及计算的复杂程度。图11A反映了图像的重叠率对配准结果及运行时间的影响。实验结果表明图像面积的重叠率越大，图像平均配准误差越小但是配准时间越长，在重叠率超过0.2时，图像的平均配准误差变化不大，但是配准时间却显著上升。综合考虑配准误差以及时间，建议图像面积重叠率取0.2。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d75e92a57e43c2682266fe6b1f354b16e5dc161198181297880a88e66c1f7160.jpg",
+        "img_caption": [
+            "图106组图像中特征点的配准误差(px) Fig.10Alignment errorsbetween matched features in six group of images. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fa4f20b32777719edc522798e0de0e040bef91b7a7dcb85277d24efb6858bb0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图11图像重叠面积对平均配准误差及时间的影响 Fig.11 Meters on average alignment error. A: Overlapped rate on average alignment error and time; B:Lamda on average alignment error. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公式(7)中的正则化项是用来惩罚校正前后偏离太远的特征点对，在取适当值时，图像能在校正后保留图像细节信息，有助于图像正确配准。图11B的实验结果表明，当小于0.01时，平均配准误差在 $4 \\mathrm { p x }$ 附近波动，当大于0.01时，配准误差迅速上升。本文建议取 $0 . 0 1$ O",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在多张图像的拼接中，通过图像的两两拼接会造成配准误差的累积，为减小整体配准误差可以先对所有配准参数进行整体优化后再进行图像配准。这将是本文今后的研究方向。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TEM图像能够在高分辨率下真实准确地反应组织和器官的内部信息，在临床病理活检标本的分析诊断中起着重要的作用。然而，TEM图像难以兼顾高分辨率和大视野的需求，为此，本文提出了一种基于特征点的TEM多幅图像拼接方法。该方法不仅能够避免图像产生伪影，增加图像配准的准确性，还能真实地保留图像信息。实验结果表明，本方法能够实现大视野高分辨率的TEM图像，获得高分辨率下的完整肾小球，为肾活检病理诊断提供有价值的信息，期待将来可以将此技术方法推广至透射电镜其它临床活检标本的超微病理诊断中。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1」王素霞,柴立军,谢燕玲，等.肾组织内特殊有形结构形成的肾脏病的电镜诊断[J].电子显微学报，2014,33(2)：163-7.  \n[2」章友康,王素霞.超微病理在肾脏疾病诊断中的作用及其评价[J].诊断学理论与实践,2007,6(6):505-6.  \n[3]韩 冬,黄 霞,李波,等.透射电镜多图像拼接法测量纳米氧化镍的颗粒粒径[J].电子显微学报,2009,28(3):200-3.  \n[4]马 俊,曾玉龙,范 冲.一种基于Keren亚像素配准方法的改进算法[J].测绘与空间地理信息,2007,30(5):106-9.  \n[5]Szeliski R.Image alignment and stitching: a tutorial[J].Foundationsand Trends in Computer Graphics and Vision,20O6,2(1):1-104.  \n[6」范大昭,任玉川,贾博,等.一种基于点特征的高精度图像配准方法",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[J].地理信息世界,2007,5(5):66-70. [7] Smith SM, Brady JM. SUSAN-a new approach to low level image processing[J]. Int JComput Vision 1997,23(1): 45-78. [8]Harris C, Stephens M.A combined corner and edge detector[C]// Proc of the Alvey Vision Conf,1988:147-51. [9]Schmid C,Mohr R.Local grayvalue invariants for image retrieval [J].IEEE Trans Pattern Anal Mach Intell,1997,19(5): 530-5. [10] Lowe,David G. Distinctive image features from scale-invariant keypoints[J].Int J Comput vision,2004,60(2): 91-110. [11]Ke,Yan,and Rahul Sukthankar.PCA-SIFT:A more distinctive representation for local image descriptors[C]. Computer Vision and Pattern Recognition,2004.CVPR 2004.// Proceedings of the 2004 IEEE Computer Society Conference on. Vol.2.IEEE,2004. [12]Mikolajczyk K, Schmid C.A performance evaluation of local descriptors [J].Pattern Analysis and Machine Intelligence,IEEE Transactions on,2005,27(10):1615-30. [13] Tao,Yuehua.Research progress of the scale invariant feature transform(SIFT)descriptors[J].J Convergence InforTechnol,2010,5 (1): 116-21. [14]Bay, Herbert, TinneTuytelaars,and Luc Van Goo. Surf: Speeded up robust features [J].Computer Vision-ECCV 2OO6.Springer Berlin Heidelberg,2006,110(3): 404-17. [15]Juan L,Oubong G.A comparison of sift,pca-sift and surf[J]. International Journal of Image Processing(IJIP),20o9,3(4): 143-52. [16]Kaynig V, Fischer B,Muller E,et al. Fully automatic stitching and distortion correction of transmission electron microscope images [J].JStructBiol,2010,171(2): 163-73. [17]Pérez PG,Andrew B.Poisson image editing[J].ACM Transactions on Graphics(TOG),2003,22(3): 313-8. [18]Fiji.An image processing package based on imagej[Z],2010. [19] Preibisch S,Saalfeld S,Tomancak P.Globally optimal stitching of tiled 3D microscopic image acquisitions[J].Bioinformatics,2009, 25(11): 1463-5. [20]Photoshop. An software for Image editing and compositing[Z], 2009. [21] ICE.An advanced panoramic image stitcher[Z],2011. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(编辑：经媛）",
+        "page_idx": 6
+    }
+]

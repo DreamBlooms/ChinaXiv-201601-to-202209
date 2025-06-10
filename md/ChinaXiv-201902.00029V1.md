@@ -1,0 +1,70 @@
+# 美国2017年高血压诊断标准有助于高血压防治理念与时俱进
+
+赵冬
+
+首都医科大学附属北京安贞医院北京心肺血管疾病研究所，北京100029电话：010-64456524，E-mail：deezhao@ vip.sina.com
+
+【摘要】高血压是导致中国居民心血管疾病发病和死亡风险增加首要且可改变的危险因素。由于大部分高血压患者病因不明，国内外高血压防治一直采用“以治为主”的策略，主要防治目标是提高高血压患者的知晓率、治疗率和控制率。因长期缺少遏制高血压发生的有效策略，我国高血压患病率在各个年龄组均不断增加，特别在中青年人群有更明显的上升趋势。大量研究显示，血压值处于 $1 3 0 { \sim } 1 3 9 / 8 0 { \sim } 8 9 ~ \mathrm { m m } ~ \mathrm { H g }$ （ $1 \ \mathrm { m m } \ \mathrm { H g } = 0 . \ 1 3 3 \mathrm { k P a } )$ 的人群最高危。2017年美国多个专业协会联合发布了全球首个高血压诊断新标准，将原 $1 4 0 / 9 0 \ \mathrm { m m \ H g }$ 的高血压诊断标准下调至 $1 3 0 / 8 0 \ \mathrm { m m \ H g }$ ，将发生高血压的高危人群直接纳入高血压范畴，并优先推荐生活方式的早期干预策略。本文对美国高血压诊断标准下调的动因和对我国高血压防治工作的借鉴意义进行分析和探讨。
+
+【关键词】高血压；诊断；标准【中图分类号】R544.1 【文献标志码】ADOI: $1 0 . 3 9 6 9 / \mathrm { j }$ .issn. 1674-9081.2019.02.000【文章编号】1674-9081（2019)02-0000-00
+
+# The New Definition of Hypertension in 2017 ACC/AHA Hypertension Guidelines May Boost Updating Strategies for Hypertension Prevention and Treatment
+
+ZHAO Dong
+
+BeijingAnzhenHospitalAfliatedtoCapitalMedicalUniversity，BeijingInstituteofHeart，Lung&BloodVesselDiseases， Beijing 100029，China
+
+Tel：86-10-64456524，E-mail：deezhao@ vip.sina.com
+
+【Abstract】Hypertension is the top modifiable cause for the incidence and mortality of cardiovascular disease in China.Becausethe etiologyof hypertension is not clear in most of the patients，the current antihypertensive strategy focuses on its treatment rather than the prevention.The main goals are to increase the awareness rate, treatment rate，and control rate for patients with hypertension.Because of the lack of efective strategies to prevent theoccurrence of hypertension，the prevalence rate of hypertension has been increasing in all age groups of adults in China，especiall in young and middle-aged Chinese.Many studies show that people who have so-called prehypertension with SBP of 130 to $1 3 9 \mathrm { ~ m m ~ H g }$ or DBP of 80 to $8 9 \ \mathrm { m m }$ （204号 $\mathrm { H g }$ have the highest risk of future hypertension. It is thefirst time in the world that the2O17 ACC/AHA hypertension guideline redefined hypertension by including prehypertension as stage 1 hypertension and recommended early lifestyle modification as the priority strategy for these patients.This article discussed the motivation and rationale of the new definition of hypertension issued by 2017 ACC/AHA,and analyzed the potential significance and positive impact on the development of the prevention and treatment of hypertension in China.
+
+【Keywords】hypertension；diagnosis；criteria
+
+以冠状动脉粥样硬化性心脏病和卒中为主的心血管疾病是当前我国居民死亡的首要原因，预计其发病和死亡的绝对负担还会继续增加。导致我国主要心血管疾病负担不断上升的关键因素已非常明确。首先是人口老龄化，即人口中65岁以上人群绝对数量和相对比例的不断增加。老龄人口的不断增加是社会经济发展的必然结果。在营养水平和生存环境普遍改善、传染病疫苗普及使用、医疗水平和可及性不断提高等综合因素的作用下，中国人群的期望寿命和健康期望寿命明显延长，接近发达国家的平均水平。老年人口增加带来的心血管病负担增加具有相当程度的必然性，一方面归因于人类寿命终归有限，人的心血管和其他系统会随年龄增加出现退行性变化，对各种致病因素和已患疾病的抵御、修复和应对能力逐渐降低；同时，也在一定程度上归因于许多老年人自中青年时期即开始的吸烟习惯、不健康饮食习惯和体育锻炼缺乏，且对于高血压、高胆固醇、糖尿病等主要危险因素的知晓、治疗及有效控制率低下，从而导致各种危险因素累积暴露时间过长，对心血管系统产生长期持续和不可逆损害[1]
+
+上述不健康生活方式和高血压等主要危险因素目前在我国儿童至成人各个年龄段普遍存在，特别在作为主要劳动力的中青年人群中广泛流行，这也是我国心血管疾病发病、死亡的绝对负担还会继续增加的重要原因。多项研究显示，中青年人群高血压患病率不断增加，但知晓率、治疗率和控制率却较低，如在$2 5 - 3 4$ 岁和 $3 5 \sim 4 4$ 岁中青年人群中，已有 $6 . 1 \%$ 和$1 5 \%$ 的人患有高血压，而知晓率仅为 $1 5 \%$ 和 $3 2 \%$ ，治疗率仅为 $8 . 4 \%$ 和 $2 4 . 5 \%$ ，血压控制达标率仅为 $3 . 2 \%$ 和9.9%[2-4]
+
+同时，不断增加的研究提示，不良生活方式和危险因素对心血管系统损害的时间/年龄效应和更早期降低上述危险因素非常重要[5-6]。国内外对中青年人群终生心血管病发病风险的研究均显示，若将上述危险因素保持在理想的低水平，不仅可使中青年人群极大程度避免心血管病的早期发病风险，并可在相当程度遏制随年龄增加带来的心血管病发病风险的“必然”增加[7-9]。由于高血压对心脑血管疾病发病风险的影响远远大于其他危险因素，因此，高血压防控是我国心血管疾病防控策略的重中之重[10]，而中青年人群应当成为我国高血压预防和控制的重点人群。这无疑是心血管病预防策略前移的睿智之举。
+
+# 1对当前高血压“以治为主”策略的反思
+
+疾病的防治包括预防和治疗两部分。在理想状态下，预防应是重点，目标是防止发病，而治疗则是补救策略，减少疾病对健康的危害。然而，由于超过$9 5 \%$ 的高血压患者是原发性高血压，原因不甚明确，而病因学研究始终未取得突破性进展，因此缺少可精准用于个体的高血压预防策略，同时，降压治疗预防高血压导致的心脑血管疾病则获得了充分的证据。因此，长期以来国内外一直采用“以治为主”的高血压防治策略，核心目标是提高已患高血压人群的知晓率、治疗率和控制率。“以治为主”策略的实施虽然逐渐提高了我国人群高血压的知晓率、治疗率和控制率，但高血压的总患病率和各个年龄组的患病率却一直在增加，需要药物治疗和加强控制的高血压患者越来越多，形成了“抽刀断水水更流”的局面。高血压缺少特异症状，不易早期发现，首次被检出时，高血压往往已隐匿存在多年，对心血管的病理损害常常已经形成，且需要较大剂量降压药或联合降压治疗才能使血压达标。近期调查显示，我国接受降压治疗者的血压达标率仅为 $3 7 . 5 \% ^ { [ 4 ] }$ 。“以治为主”的被动策略延续下去是否可有效抵御高血压导致的心脑血管疾病负担的不断增加值得怀疑。在加强高血压病因学研究的同时，需要对现行防治策略进行突破性的更新。
+
+# 22017年高血压诊断标准是高血压防治策略前移的创新性举措
+
+美国2017年11月发布了多个专业协会联合制定的新的高血压诊治指南，这部指南出乎意料地修改了采用多年的高血压诊断标准。将原属于正常高值的血压范围（ $1 3 0 \sim 1 3 9 \$ ）/（80\~89） $\mathrm { { m m } \ H g }$ （ $1 \ \mathrm { m m } \ \mathrm { H g = }$ $0 . 1 3 3 \mathrm { \ k P a }$ ）定义为一级高血压，而原 $\geqslant 1 4 0 / 9 0 \ \mathrm { m m } \ \mathrm { H g }$ 的高血压状态则升级为二级高血压。这部指南中提及修改诊断标准的动因主要包括：（1）高血压是导致美国心血管疾病死亡的首要但可改变的危险因素；高血压也是仅次于吸烟的第二位可改变的全因死亡危险因素；（2）血压升高和心血管病发病危险增加呈连续性关联，多个荟萃分析结果发现，与血压低于 $1 2 0 / 8 0 \ \mathrm { m m } \ \mathrm { H g }$ 的人群相比，血压（ $1 2 0 \sim 1 2 9 \ .$ ）/（80\~84） $\mathrm { m m \ H g }$ 的人群发生冠状动脉粥样硬化性心脏病或卒中的危险增加 $1 0 \% \sim 5 0 \%$ ，而血压（ $1 3 0 \sim$ 139)/（85\~89） $\mathrm { m m \ H g }$ 的人群，相应危险增加 $5 0 \%$ \~
+
+$100 \%$ ， $1 4 0 / 9 0 \ \mathrm { m m \ H g }$ 的高血压标准仅是人为确定的诊断标准；（3）美国人终生高血压风险很高，45岁以上人群中， $9 3 \%$ 的黑人、 $9 2 \%$ 的西班牙裔人、 $8 6 \%$ 的白人和 $8 4 \%$ 的中国人会在40年期间发展成原定义的高血压，且大部分来自血压在（130\~139）/（80\~89)$\mathrm { m m ~ H g }$ 范围的人群，应更早识别那些高血压高发风险人群，如果降低高血压诊断标准，则可早期检出高血压高发风险人群，以促进血压进一步降低，扩大血压控制对心血管病预防的效果；（4）采用新的高血压诊断标准有助于促进原先非治疗范围的成人采用生活方式干预或药物治疗，早期预防血压的继续升高[1]
+
+这些动因清楚地指明了修改高血压诊断标准是美国高血压防治策略的前移。与其被动等待血压升至危害更高的 $1 4 0 / 9 0 \ \mathrm { m m \ H g }$ 及以上再进行诊断治疗，不如将诊断前移至已经产生较大危害的（130\~139）／（ $8 0  { \mathrm { \sim } }$ 89） $\mathrm { { m m } \ H g }$ 血压水平的高血压高危人群，以促进其进行早期生活方式干预和必要的早期降压药物治疗。通过下调诊断标准将原本的高血压高危人群直接诊断为高血压表面上是扩大了高血压人群，实为在病因不明的情况下，积极推进了高血压防治策略，是从“以治为主”转变成“以防为主”的可喜之举。在此之前，美国一直采取的是“以治为主”的高血压防治策略。从20世纪70 年代末美国高血压检出、评估和治疗联合委员会（Joint National Committee，JNC）发布的的第一个报告（JNC1），到 2013年美国心脏协会（American Heart Association，AHA）/美国心脏病学会（American College of Cardiology，ACC）发布的高血压防治指南和 2014 年发布的 JNC8 报告，重点均是“以治为主”，当然 2013 年和 2014 年的指南更加积极推荐对高血压患者早期采用药物降压治疗。在这些专业协会和全社会的持续努力下，美国高血压的知晓率、治疗率和控制率不断提高。2012年美国中、老年人群的高血压知晓率已达 $8 4 . 2 \%$ ，治疗率达$7 7 . 9 \%$ ，控制率达 $54 \%$ ，远高于中国同年龄人群[12]。但显然“以治为主”的高血压防治策略并未控制高血压的广泛流行和危害，高血压依然是导致美国人心血管疾病死亡因素中首位可改变的危险因素，亦是仅次于吸烟危害的第二位全因死亡可改变的危险因素["]。这可能是促使美国修改高血压诊断标准，对实施多年的高血压防控战略布局做出重大修正的重要原因，其影响可能波及众多原先处于高血压前期人群对血压的重视程度、健康生活方式干预的研究和实施、健康产业的发展、医生对更早期高血压高危患者治疗理念的更新、医保策略的调整等等，使这部分高危人群获得服用降压药的报销权利以及全社会对高血压防治策略的重新认识下的多元化调整。
+
+# 3高血压前期血压控制对我国高血压和心血管病防治的重要性
+
+按照我国相关指南定义，高血压诊断标准仍为 $\geqslant$ $1 4 0 / 9 0 ~ \mathrm { m m ~ H g }$ ，血压在（130\~139）／（80\~89）mm Hg范围属于高血压前期。2018 年最新数据显示，我国18岁及以上成人中，（ $1 3 0 \sim 1 3 9 \$ ）/（80\~89） $\mathrm { { m m } \ H g }$ 范围的人群平均占 $2 3 . 2 \%$ ，且主要为中青年（18～54岁），明显高于该年龄段血压 $\geqslant 1 4 0 / 9 0 \ \mathrm { ~ m m ~ } \mathrm { ~ H g }$ 的人群[4]。例如在 $2 5 \sim 3 4$ 岁人群中，血压在（ $1 3 0 \sim$ 139）/（80\~89） $\mathrm { m m \ H g }$ 范围的人群已达 $2 6 . 7 \%$ ，而高血压的患病率仅为 $6 . 1 \%$ ，随着年龄增长，高血压患病率快速增加，45\~54岁的人群中高血压患病率已达 $3 0 \%$ ，是25\~34岁人群的5倍[4]。从1991至2015年3次全国性调查数据显示，我国中青年处于高血压前期的比例明显增加。这些人群是发展成高血压最重要的高危人群[2-4]。两项大型前瞻性研究均显示，高血压前期是高血压发病最重要的危险因素[13-14]。一项对我国 $3 5 \sim 6 4$ 岁基线无高血压人群15年间高血压发生风险的研究显示，收缩压在 $1 3 0 \sim 1 3 9 \ \mathrm { m m \ H g }$ 范围的人群，15年间 $7 3 . 2 \%$ 发展为高血压，该项研究根据多个高血压发生风险因素建立的预测积分中，收缩压$1 3 0 \sim 1 3 9 \ \mathrm { m m \ H g }$ 水平为13分，具有最高的危险积分因素，明显高于肥胖、家族史甚至年龄对高血压发生风险的影响，舒张压 ${ 8 0 \sim 8 9 \ \mathrm { m m \ H g } }$ 水平也对高血压发生风险有明显的贡献，更重要的是，处于高血压前期的人群已经有明显升高的心血管病发病风险[13]。2018年一项长期队列研究结果显示，我国在15年间，血压为（130\~139）/(80\~89） $\mathrm { m m ~ H g }$ 的人群 $6 5 \%$ 发展为高血压；在调整所有其他影响因素后，该血压范围的35\~59岁中青年人群，20年间发生心血管急性事件的风险较血压 $< 1 2 0 / 8 0 \ \mathrm { m m } \ \mathrm { H g }$ 的人群高 $78 \%$ ，心血管病死亡风险高 $1 5 0 \%$ 。在中青年人群中， $2 6 . 5 \%$ 的心血管病死亡和 $1 3 . 4 \%$ 的心血管病事件可归因于此范围血压增高[14]。这些研究提供的科学证据清楚地指明高血压前期是我国中青年人群高血压预防和心血管病预防极其重要的窗口期和目标。必须指出的是，随着我国国民期望寿命继续增加和老龄化加剧，疾病谱已经开始发生令人不安的变化，老年痴呆在死因中的排名已由1990年的第 24位上升为2013年的第7位[15]在目前全球居民期望寿命最长的日本，老年痴呆已在死因中排第2位[16]。血压增高对小血管的损害是老年痴呆发生的重要危险因素，更早期的血压控制对于早期血管保护和已经来临且即将加速的老年痴呆负担的预防无疑是重中之重。
+
+# 4我国修改高血压诊断标准的必要性
+
+高血压是我国心血管病发病和死亡第一位且可改变的危险因素。我国缺血性卒中死亡率高于全球平均水平 $3 6 \%$ ，而发病率近30 年来一直呈上升趋势，出血性卒中的死亡率即使有所下降，但在与全球多个国家的比较中仍列于首位，故高血压早期防控应在我国心血管病防控策略中具有更重要的战略地[1]。虽然美国高血压诊断标准颁布后引起了全球相关领域专家的争议，其后发布的欧洲多个专业协会联合发布的高血压防治指南并未立即下调高血压的诊断标准，但美国下调高血压诊断标准对全球高血压防治战略前移已经开始产生影响。2018 年欧洲高血压防治指南修改了2013年发布的指南中不推荐对（130\~139）/（85\~89） $\mathrm { m m ~ H g }$ 范围人群应用降压药物治疗的陈述，明确推荐对此范围血压人群中合并心血管病的高危患者可考虑降压药物治疗]。新近发布的中国高血压防治指南也将高血压前期纳入心血管病风险分层中，并根据合并其他危险因素、靶器官损害和临床并发症的状况分为低危、中/高危和高/很高危人群[18]。而中国医师协会高血压分会发布的《高血压诊断标准及降压目标专家共识》也推荐对高血压前期的高危患者给予更积极的治疗，有助于控制血压水平及更早识别心血管病发病风险。这些行业指导性文献将在临床实践中，为积极检出高血压和心血管病的高危人群、早期实施以生活方式为主/药物为辅的治疗措施、更好地控制血压以及促进我国高血压防治从“以治为主”转成“防治结合”提供了重要基础。是否将高血压前期直接改成高血压一级的争论不应成为高血压防治策略战略前移的障碍，这部分高血压极高危险人群应在生活方式效果不佳时或可接受降压药物治疗时获得医保覆盖的降压药品的权利，医生也应获得对此类患者拥有处方降压药物的权利。此外，我国的高血压防治重点人群应是中青年，期待我国今后对中青年心血管病早期预防采用更为积极的“以防为主”的防治策略！
+
+# 参考文献
+
+[1]Zhao D,Liu J,Wang M，et al.Epidemiology of cardiovascu-lar disease in China：current features and implications [J].Nat Rev Cardiol，2018.doi:10.1038/s41569-018-0119-4.[Epub ahead of print].  
+［2］李立明．中国居民营养与健康状况调查报告之四：2002高血压［M]．北京：人民卫生出版社，2008：23-35.  
+［3］国家卫生和计划生育委员会．中国居民营养与慢性病状况报告（2015）［R]．北京：人民卫生出版社，2015：83-85.  
+[4]Wang Z,Chen Z,Zhang L,et al. Status of Hypertension inChina：Results From the China Hypertension Survey，2012-2015［J].Circulation，2018，137：2344-235.  
+[5]Reinikainen J,Laatilcainen T,Karvanen J,et al. Lifetimecumulative risk factors predict cardiovascular disease mortalityina 5O-year follow-up study in Finland［J].Int JEpidemiol，2015，44：108-116.  
+[6]Liu K,Colangelo LA,Daviqlus ML,et al. Can Antihyperten-sive Treatment Restore the Risk of Cardiovascular Disease toIdeal Levels? The Coronary Artery Risk Development inYoung Adults （CARDIA） Study and the Multi-Ethnic Studyof Atherosclerosis（MESA）[J].JAm Heart Associ，2015,4:e002275.  
+[7]Wang Y,Liu J,Wang W,et al.Lifetime risk for cardiovas-cular disease in a Chinese population:the Chinese Multi-Pro-vincial Cohort Study［J].Eur JPrev Cardiol，2015，22:380-388.  
+[8]Wang Y,Liu J,Wang W,et al. Lifetime risk of stroke inyoung-aged and middle-aged Chinese population:the ChineseMulti-Provincial Cohort Study[J].JHypertens，2016，34：2434-2440.  
+[9]Bery JD,Dyer A,Cai X，et al. Lifetime risk of cardiovascu-lar disease[J].NEnglJMed，2012，366：321-329.  
+10]Stevens W,Peneva D，Li JZ，et al.Estimating the futureburden of cardiovascular disease and the value of lipid andblood pressure control therapies in China［J].BMC HealthServ Res,2016，16:175.  
+[11]Whelton PK，Carey RM，Aronow WS，et al.2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA /ASH/ASPC/NMA/PCNA Guideline for the Prevention，Detection，Evaluation,and Management of High Blood Pressure in Adults：ExecutiveSummary:A Report of the American Collge of Cardiology/A-merican Heart Association Task Force on Clinical PracticeGuidelines[J].Circulation，2018，138：e426-e483.  
+12]Lu Y，Wang P,Zhou T，et al.Comparison of Prevalence,Awareness，Treatment，and Control of Cardiovascular RiskFactors in China and the United States [J].JAm Heart As-soc，2018，pii:e007462.  
+[13] 李国奇，刘静，王薇，等．中国35-64岁人群15年高血压发生风险预测研究［J]．中华内科杂志，2014，53：265-268.  
+[14] QiY，Han X，Zhao D，et al.Long-term cardiovascular riskassociated with stage 1 hypertension defined by the 2017ACC/AHA hypertension guideline[J].JACC，2O18，72：1201-1210.  
+[15] Zhou M,Wang H,Zhu J，et al.Cause-specific mortality for240 causes in China during 1990-2013：a systematic subna-tional analysis for the Global Burden of Disease Study 2013[J].Lancet，2016，387：251-272.  
+[16］GBD 2O16 cause of death collaborators.Global,regional andnational age-sex specific mortality for 264 causes of death,1980-2Ol6：a systematic analysis for the Global Burden ofDisease Study 2016［J].Lancet，2017，390：1151-1210.  
+[17] Williams B，Mancia G，Spiering W，et al.2018 ESC/ESHGuidelines for the management of arterial hypertension [J].Eur HeartJ，2018，39：3021-3104.  
+[18] 《中国高血压防治指南》修订委员会.中国高血压防治指南（2018修订版）［M]．北京：中国医药科技出版社，2018:10-12.
+
+(收稿日期：2018-12-20)

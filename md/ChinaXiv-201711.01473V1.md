@@ -1,0 +1,235 @@
+丁酸梭菌对断奶仔猪生长性能、肠道屏障功能和血清细胞因子含量的影响李玉鹏1.2　李海花1,2\* 王柳懿1,²　朱　琪1,2　陈龙宾1,2　乔家运1,2\*\* 王文杰1.2（1.天津市畜牧兽医研究所，天津 300381；2.天津市畜禽健康养殖技术工程中心，天津
+
+300381)
+
+摘要：本文旨在研究饲粮中添加丁酸梭菌对断奶仔猪生长性能、肠道屏障功能和血清细胞因子含量的影响。试验采用单因子设计，选择 28日龄、体重相近、健康状况良好的"杜 $\mathbf { \nabla } _ { \times }$ 长×大"断奶仔猪12头，分为2个组，每组6个重复，单栏饲养。对照组饲喂玉米-豆粕型基础饲粮，试验组饲喂基础饲粮 $+ 5 { \times } 1 0 ^ { 5 } \mathrm { C F U / g }$ 丁酸梭菌。试验预试期 $3 \mathrm { d }$ ，正试期 $\mathtt { l 4 d }$ 。结果表明：与对照组相比，试验组仔猪平均日增重显著提高 $7 . 8 3 \%$ ( $\scriptstyle P < 0 . 0 5 .$ ）、料重比降低 $5 . 2 6 \%$ （ $_ { . P > 0 . 0 5 ) }$ )；试验组仔猪空肠NOD 样受体蛋白（NLRP)3( $P { < } 0 . 0 5$ ）、NLRP6( $P { < } 0 . 0 5$ ）、NLRP12（ $_ { \cdot P < 0 . 0 1 } )$ ）、封闭蛋白1（claudin-1）（ $_ { . } { P } { < } 0 . 0 1$ ）和紧密连接蛋白2（Z0-2）（ $_ { . } { \scriptstyle { P < 0 . 0 5 } }$ ）的mRNA相对表达水平显著或极显著上调，回肠claudin-1和 ZO-2的mRNA 相对表达水平极显著上调（ $_ { \cdot P < 0 . 0 1 } )$ ；试验组仔猪空肠和回肠中乳酸杆菌数量显著提高（ $_ { . P < 0 . 0 5 ) }$ ，空肠中大肠杆菌数量降低 $2 . 4 9 \%$ （ $\cdot P { > } 0 . 0 5 )$ ，回肠中大肠杆菌数量显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ；试验组仔猪血清白细胞介素（IL） $- 1 \beta$ 含量降低 $5 . 4 7 \%$ 、IL-10含量提高 $2 5 . 4 3 \%$ （ $. P { > } 0 . 0 5 )$ 。综上所述，饲粮中添加丁酸梭菌能提高仔猪小肠屏障功能，调节机体免疫和肠道菌群平衡，促进仔猪生长。
+
+关键词：丁酸梭菌；断奶仔猪；生长性能；紧密连接；肠道屏障中图分类号：S816.7 文献标识码：A 文章编号：1006-267X(2017)00-0000-00
+
+仔猪断奶后遭受各种应激，肠道功能受损，对营养物质的消化吸收能力降低，严重危害机体健康。仔猪肠道健康一直是近年来在猪的营养与饲料研究领域的热点和难点。大量研究表明，丁酸梭菌是一种重要的益生菌[，可以维持或恢复宿主肠道优势菌群，促进肠道乳酸菌、双歧杆菌等有益菌的生长繁殖，并抑制沙门氏菌、大肠杆菌等有害菌的生长，以维持动物肠道微生态稳定[2]。有研究表明，饲粮中添加 $5 { \times } 1 0 ^ { 8 } \mathrm { C F U / g }$ 的丁酸梭菌可有效增加断奶仔猪的体增重和饲料转化率[3]，添加 $1 { \times } 1 0 ^ { 8 } \mathrm { C F U / g }$ 的丁酸梭菌和 $1 { \times } 1 0 ^ { 9 } \mathrm { C F U / g }$ 的粪肠球菌可降低断奶仔猪的腹泻率[4]。肠道微生物和其代谢产物通过激活肠上皮细胞的 NOD 样受体，进而促进肠上皮细胞增殖、加强细胞间紧密连接蛋白表达、分泌抗菌肽和分泌型免疫球蛋白 A、调节细胞因子表达，提高肠道屏障功能和免疫功能，维护肠道健康[5-6]。但有关丁酸梭菌调节断奶仔猪肠道健康的作用机制研究尚不系统。因此，本试验通过在仔猪饲粮中添加丁酸梭菌，研究其对仔猪生长性能、肠道上皮细胞中 NOD 样受体蛋白（NLRP）和紧密连接相关蛋白 mRNA相对表达水平和血清细胞因子含量等的影响，深入揭示其调节断奶仔猪肠道健康的机制，为其在仔猪饲粮中的合理应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验设计和饲养管理
+
+采用单因子试验设计，选择28日龄、健康状况良好、体重为（ $\phantom { 0 } { 6 . 9 7 \pm 0 . 6 8 }$ ）kg的“杜 $\times$ 长×大”杂交断奶仔猪12头，按完全随机区组设计分为2个组，每组6个重复，单栏饲养。对照组饲喂基础饲粮，试验组饲喂基础饲粮 $+$ 丁酸梭菌制剂，试验饲粮中丁酸梭菌活菌数为$5 { \times } 1 0 ^ { 5 } \mathrm { C F U / g }$ 。饲粮配方参考Li等[7]，基础饲粮组成及营养水平如表1所示。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>63.20</td></tr><tr><td>豆粕 Soybean meal</td><td>19.00</td></tr><tr><td>乳清粉 Dried whey</td><td>4.80</td></tr><tr><td>鱼粉 Fish meal</td><td>8.60</td></tr><tr><td>葡萄糖 Glucose</td><td>1.00</td></tr><tr><td>酸化剂 Acidifier</td><td>0.30</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.60</td></tr><tr><td>碳酸钙 CaCO</td><td>0.70</td></tr><tr><td>氯化钠 NaCl</td><td>0.30</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCL</td><td>0.30</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.10</td></tr><tr><td>L-色氨酸 L-Trp</td><td>0.10</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr></table></body></html>
+
+%
+
+营养水平 Nutrient levels2  
+代谢能 ME/(MJ/kg) 13.60  
+赖氨酸Lys 1.39  
+蛋氨酸Met 0.53  
+粗蛋白质 CP 18.75  
+粗脂肪 EE 3.42  
+钙Ca 0.88  
+总磷TP 0.71  
+粗纤维 CF 2.20
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diet: VA 16 000 IU, $\mathrm { V D } _ { 3 }$ 4 000 IU, VE $3 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 2 \log$ ， $\mathrm { V B } _ { 6 } 2 \log$ ， $\mathrm { V K } _ { 3 } 7 \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 ~ \mathrm { m g }$ 生物素 biotin $0 . 8 ~ \mathrm { m g }$ , Fe (as ferrous sulfate) $1 6 5 ~ \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $1 6 5 ~ \mathrm { { m g } }$ ， Cu (as copper sulfate) $1 6 . 5 ~ \mathrm { m g }$ ， Mn (as manganese sulfate) $3 3 ~ \mathrm { m g }$ ， I (as potassium iodide) $0 . 1 4 ~ \mathrm { m g }$ ，Se (as sodium selenite) $0 . 3 ~ \mathrm { m g }$ 。
+
+2)代谢能为计算值,其余为实测值。ME was a calculated value and the others were measured values.
+
+本试验在天津市畜牧兽医研究所动物试验中心进行。所有猪只自由采食和饮水，猪舍温度控制在 $2 5 { \sim } 2 8 ~ \mathrm { \textdegree C } _ { \circ }$ 试验期分为预试期（3d）和正试期（14d)，预试期仔猪无不良反应后进入正试期。试验期内每日观察仔猪的健康状况，记录死淘仔猪和腹泻、用药情况，其他饲养管理和免疫程序参考仔猪饲养商业推荐程序进行。
+
+# 1.2 试验材料及其处理
+
+试验所用丁酸梭菌冻干粉为市售产品，其中活菌含量为 $1 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / g }$ ，试验前与饲粮均匀混合。
+
+# 1.3 生长性能
+
+对试验期31和45日龄断奶仔猪称重，计算平均日增重（ADG)。每天记录采食量，计算平均日采食量（ADFI)。根据 ADG 和ADFI计算料重比（F/G）。
+
+1.4血样、空肠和回肠肠段及内容物的采集
+
+试验结束后，从每组随机选3头仔猪，剖杀前 $1 2 \mathrm { ~ h ~ }$ 禁食，用真空促凝管进行采血，前腔静脉采血后处死，无菌条件下迅速打开腹腔，立即结扎喷门瓣、幽门瓣和直肠远端，无菌取空肠和回肠内容物，置于液氮速冻后，转到一80℃保存，待分析。分离并采集空肠和回肠
+
+中段各 $5 \ \mathrm { c m }$ 左右肠管，用磷酸缓冲液（PBS）冲洗后分装于冻存管中于－80℃保存，用于NLRP3、NLRP6、NLRP12以及紧密连接蛋白2（ZO-2）和封闭蛋白1（claudin-1）mRNA相对表达水平的测定。所采空肠和回肠肠段均分别截取相同部位。
+
+# 1.5 指标测定和方法
+
+采集的血液凝固后 $4 \%$ $4 0 0 0 \times g$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，取上清， $- 2 0 \mathrm { { ^ circ C } }$ 保存。采用酶联免疫吸附测定（ELISA）试剂盒测定血清中促炎性细胞因子白细胞介素（IL） $- 1 \beta$ 和抗炎性细胞因子IL-10 的含量；NLRP3、NLRP6、NLRP12、claudin-1、ZO-2 和磷酸甘油醛脱氢酶（GAPDH）共6对基因的上下游引物均由生工生物工程（上海）股份有限公司合成，引物序列见表2。利用 T165-48多样品组织研磨机（上海净信实业发展有限公司）对定量空肠和回肠样品破碎,用 TacoTM RNA剂盒提取断奶仔猪空肠和回肠肠段上皮细胞中总RNA,利用Al-in-OneTMFirst-cDNA Synthesis 试剂盒，按照其说明书步骤分别将空肠和回肠RNA逆转录为cDNA。利用 SYBRPremix Ex TaqTM荧光定量试剂盒，按照其说明步骤，以 $1 ~ \mu \mathrm { L }$ cDNA 为模板、最终反应体系为 $1 5 ~ \mu \mathrm { L }$ 进行 PCR 扩增，每个基因4个平行，检测 NLRP3、NLRP6、NLRP12、ZO-2 和claudin-1的mRNA 相对表达水平。定量反转录PCR（qRT-PCR）反应条件为1） $9 5 \ \mathrm { { ^ circ C } }$ 10 min; 2) 95℃10 s, $6 1 ^ { \circ } \mathrm { C } 2 0$ ； $7 2 ^ { \circ } \mathrm { C } 1 0 \ \mathrm { s }$ 并采集荧光信号，40个循环；3） $7 2 ^ { \circ } \mathrm { C } 1 0 \mathrm { ~ s ~ }$ ， $9 5 \ \mathrm { { ^ circ C } }$ $1 0 ~ \mathrm { s }$ ，自动采集荧光信号。每个样品均设置相应未经逆转录的模板作为阴性对照，同时每个样品均设置相应的内参作为对照，得到各自的荧光阈值循环数(Ct值),采用相对定量法 $2 ^ { - } \Delta \Delta ^ { \mathrm { C t } }$ 进行计算；大肠杆菌计数采用麦康凯琼脂培养基，乳酸杆菌计数采用Rogosa琼脂，具体方法参考Qiao 等[8]。
+
+# 表2 引物序列
+
+# Table 2 Primer sequences
+
+<html><body><table><tr><td>基因</td><td>引物序列</td><td>产物大小</td><td>溶解温度Dissolution</td></tr><tr><td>Genes</td><td>Primer sequences (5’-3")</td><td>Product size/bp</td><td>temperature/℃</td></tr><tr><td>NOD 样受体</td><td>F:AGCAGATTCCAGTGCATCAAAG</td><td></td><td></td></tr><tr><td>蛋白3</td><td>R:CCTGGTGAAGCGTTTGTTGAG</td><td>76</td><td>62</td></tr><tr><td>NLRP3</td><td></td><td></td><td></td></tr><tr><td>NOD 样受体</td><td>F: TCAACCGCCTCTTCAGCC</td><td></td><td></td></tr><tr><td>蛋 白 6</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>116</td><td></td></tr><tr><td>NLRP6</td><td>R:CGCCCAGTCGTACAGGATTT</td><td></td><td>62</td></tr></table></body></html>
+
+NOD 样受体 F：CACAAGGTGATGCTGGATTGG
+
+蛋白 12 79 62R:CCCGGCAGTTGATGTAGAAGAC  
+NLRP12  
+紧密连接蛋 F:CTTATTCGGACCCATAGCAGACA129 62  
+白2Z0-2 R:TTCAACCGTACCACCCCAGTAG  
+封闭蛋白1 F:AGATTTACTCCTACGCTGGTGAC141 62  
+Claudin-1 R:GCAAAGTGGTGTTCAGATTCAG  
+磷酸甘油醛 F：GAAGGTCGGAGTGAACGGAT  
+脱氢酶 150 62R:CATGGGTAGAATCATACTGGACA  
+GAPDH
+
+# 1.6 数据统计
+
+以每头猪为单位进行统计，试验数据用Excel2007对数据进行初步处理，肠道菌群数据在统计分析之前先进行对数变换；采用 SAS 9.1.3 统计软件中的单因素方差分析（one-wayANOVA）和最小显著性差异法（LSD）进行方差分析，并采用 $\mathbf { \chi } _ { t }$ 检验分析组间差异性，结果以“平均值 $\pm$ 标准误"表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果与分析
+
+# 2.1丁酸梭菌对断奶仔猪生长性能的影响
+
+由表3可知，与对照组相比，试验组断奶仔猪的ADG显著提高了 $7 . 8 3 \%$ （ $. P { < } 0 . 0 5 )$ )，ADFI提高了 $2 . 4 9 \%$ （ $P { > } 0 . 0 5 \$ )，F/G降低了 $5 . 2 6 \%$ （ $P { > } 0 . 0 5 )$ ）
+
+表3丁酸梭菌对断奶仔猪生长性能的影响  
+Table 3Effects of Clostridium butyricum on growth performance of weaned piglets   
+
+<html><body><table><tr><td>项目</td><td>日龄 Days of age/d</td><td>对照组 Control</td><td>试验组 Experimental</td><td>P值</td></tr><tr><td>Items</td><td></td><td>group</td><td>group</td><td>P-value</td></tr><tr><td>初始体重 IBW/kg</td><td>31</td><td>7.09±0.78</td><td>6.84±0.58</td><td>0.53</td></tr><tr><td>结束体重 FBW/kg</td><td>45</td><td>11.03±1.04</td><td>11.08±0.81</td><td>0.92</td></tr><tr><td>平均日增重 ADG/g</td><td>31~45</td><td>281±18b</td><td>303±16a</td><td>0.04</td></tr><tr><td>平均日采食量 ADFI/g</td><td>31~45</td><td>481±67</td><td>493±57</td><td>0.75</td></tr><tr><td>料重比F/G</td><td>31~45</td><td>1.71±0.14</td><td>1.62±0.11</td><td>0.26</td></tr></table></body></html>
+
+同行数据肩注无字母表示差异不显著( $. P { > } 0 . 0 5 )$ ，小写字母不同表示差异显著( $( P { < } 0 . 0 5 )$ ，大写字母不同表示差异极显著（ $_ { \cdot  { P } < 0 . 0 1 }$ ）。下表同。
+
+In the same row, values with no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ， while with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ . The same as below.
+
+2.2丁酸梭菌对断奶仔猪空肠和回肠上皮细胞中NLRP 和紧密连接相关蛋白mRNA相对表达水平的影响
+
+由表 4 和表5可知，饲粮添加丁酸梭菌能极显著提高空肠上皮细胞中 NLRP12 和claudin-1mRNA相对表达水平 $( P { < } 0 . 0 1 )$ )，显著提高空肠上皮细胞中NLRP3、NLRP6和ZO-2mRNA相对表达水平（ $. P { < } 0 . 0 5 )$ ；饲粮添加丁酸梭菌极显著提高回肠上皮细胞中claudin-1 和ZO-2mRNA相对表达水平( $_ { ( P < 0 . 0 1 ) }$ )，试验组回肠上皮细胞中NLRP3、NLRP6和ZO-2mRNA相对表达水平与对照组相比差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表4丁酸梭菌对断奶仔猪空肠和回肠上皮细胞中NLRPmRNA相对表达水平的影响
+
+Table 4Effects of Clostridium butyricum on mRNA relative expression level of NLRP in   
+
+<html><body><table><tr><td colspan="4">jejunal and ileal epithelial cells of weaned piglets</td></tr><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>空肠Jejunum</td><td></td><td></td><td></td></tr><tr><td>NOD 样受体蛋白3</td><td>1.00±0.06a</td><td>1.99±0.22b</td><td>0.02</td></tr><tr><td>NLRP3</td><td></td><td></td><td></td></tr><tr><td>NOD 样受体蛋白6</td><td>1.00±0.06a</td><td>1.75±0.14b</td><td>0.01</td></tr><tr><td>NLRP6 NOD 样受体蛋白</td><td></td><td></td><td><0.01</td></tr><tr><td>12NLRP12</td><td>1.00±0.03A</td><td>2.90±0.20B</td><td></td></tr><tr><td>回肠 Ileum</td><td></td><td></td><td></td></tr><tr><td>NOD 样受体蛋白3</td><td></td><td></td><td>0.11</td></tr><tr><td>NLRP3</td><td>1.00±0.01</td><td>0.89±0.04</td><td></td></tr><tr><td>NOD 样受体蛋白6</td><td></td><td></td><td>0.84</td></tr><tr><td>NLRP6</td><td>1.00±0.01</td><td>0.98±0.10</td><td></td></tr><tr><td>NOD 样受体蛋白</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.26</td></tr><tr><td>12NLRP12</td><td>1.00±0.02</td><td>0.87±0.07</td><td></td></tr></table></body></html>
+
+表5丁酸梭菌对断奶仔猪空肠和回肠上皮细胞紧密连接相关蛋白mRNA相对表达水
+
+# 平的影响
+
+Table 5Effects of Clostridium butyricum on mRNA relative expression level of tight junction related protein in jejunal and ileal epithelial cells of weaned piglets   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>空肠 Jejunum</td><td></td><td></td><td></td></tr><tr><td>封闭蛋白1Claudin-1</td><td>1.00±0.00A</td><td>2.07±0.02B</td><td><0.01</td></tr><tr><td>紧密连接蛋白2</td><td>1.00±0.12a</td><td>1.50±0.06b</td><td>0.03</td></tr><tr><td>ZO-2</td><td></td><td></td><td></td></tr><tr><td>回肠 Ileum</td><td></td><td></td><td></td></tr><tr><td>封闭蛋白1Claudin-1</td><td>1.00±0.01A</td><td>1.35±0.02B</td><td><0.01</td></tr><tr><td>紧密连接蛋白2</td><td>1.00±0.02A</td><td>1.70±0.07B</td><td><0.01</td></tr></table></body></html>
+
+ZO-2
+
+# 2.3丁酸梭菌对断奶仔猪肠道微生物的影响
+
+由表6可知，与对照组相比，饲粮添加丁酸梭菌后，空肠和回肠中乳酸杆菌的数量显著提高（ $_ { . P < 0 . 0 5 ) }$ ，空肠中大肠杆菌数量比对照组降低 $2 . 4 9 \%$ ( $_ { . P > 0 . 0 5 ) }$ ，回肠中大肠杆菌数量显著降低（ $P { < } 0 . 0 5 )$ 。
+
+# 表6丁酸梭菌对断奶仔猪肠道微生物的影响
+
+lg (CFU/g)
+
+Table 6Effects of Clostridium butyricum on intestinal microflora of weaned piglets   
+
+<html><body><table><tr><td colspan="4">ig（CrU/g)</td></tr><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>空肠Jejunum</td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>6.57a</td><td>6.81b</td><td>0.034</td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>3.62</td><td>3.53</td><td>0.052</td></tr><tr><td>回肠Ileum</td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>6.68a</td><td>7.00b</td><td>0.018</td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>3.96b</td><td>3.62a</td><td>0.043</td></tr></table></body></html>
+
+2.4丁酸梭菌对断奶仔猪血清细胞因子含量的影响
+
+由表7可知，饲粮添加丁酸梭菌能降低血清中 $\mathrm { I L } \mathrm { - } 1 \beta$ 含量、提高血清中 IL-10 含量$( P { > } 0 . 0 5 )$ ， $\mathrm { I L } { - } 1 \beta$ 含量比对照组降低了 $5 . 4 7 \%$ ，IL-10含量比对照组提高了 $2 5 . 4 3 \%$ 。
+
+# 表7丁酸梭菌对仔猪血清细胞因子含量的影响
+
+Table 7Effects of Clostridium butyricum on serum cytokine content of weaned piglets   
+
+<html><body><table><tr><td colspan="4">ng/mL</td></tr><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>白细胞介</td><td>9.51±0.86</td><td>8.99±1.09</td><td>0.718</td></tr><tr><td>素-1β</td><td></td><td></td><td></td></tr><tr><td>IL-1β</td><td></td><td></td><td></td></tr><tr><td>白细胞介</td><td>72.47±4.55</td><td>90.90±7.37</td><td>0.059</td></tr><tr><td>素 -10</td><td></td><td></td><td></td></tr><tr><td>IL-10</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+3.1丁酸梭菌对断奶仔猪生长性能的影响
+
+丁酸梭菌在动物肠道内可以产生氨基酸、B族维生素和维生素K等多种对动物健康有益的物质，促进动物对脂肪和蛋白质的消化吸收，促进有益菌的繁殖，抑制致病菌的生长[9，还可作为氨基酸载体，转运氨基酸，从而作为饲料添加剂用于提高饲料报酬、改善动物生长性能[10]。
+
+丁酸梭菌能够产生芽孢，除了可以抵抗饲料制粒过程中的高温、高热，还可以耐受体内胄液、胆汁酸和消化酶的作用，并且只对新生霉素、万古霉素和四环素等少量抗生素敏感，对其他多种抗生素具有很强的耐药性，目前已作为一种新型益生菌被逐步推广应用于畜牧生产。Liao 等[1用不同浓度的丁酸梭菌饲喂肉鸡，能显著改善肉鸡生长性能，提高日增重，降低料重比[]。仔猪刚出生时消化道是无菌的，在出生后到断奶的过程中，消化道各个部位逐渐被各种细菌所占据，但菌群还未达到应有的平衡，在饲料中添加益生菌可改善仔猪生长性能和肠道微生物平衡[12]。王保正等[13]研究表明，添加 $0 . 2 \%$ 的丁酸梭菌显著提高了断奶后至转群时试验组的平均增重，且料重比降低 $0 . 0 8 \%$ ，差异显著。本研究利用添加丁酸梭菌的饲粮饲喂断奶仔猪，同样提高了试验组断奶仔猪的生长性能，断奶仔猪的ADG 和 ADFI均有所提高，且料重比降低 $5 . 2 6 \%$ 。试验结果表明，添加丁酸梭菌的饲粮在保证仔猪原有营养水平的同时，增加了仔猪的营养供应吸收，进而提高仔猪生长性能。
+
+# 3.2丁酸梭菌对断奶仔猪肠道屏障功能的影响
+
+肠道屏障功能是由单层肠上皮细胞通过紧密连接蛋白结合形成的，能够防止有害微生物、抗原和毒素从肠腔进入血液。肠上皮细胞间的紧密连接可以调节肠道屏障的通透性和维持上皮结构的完整性，紧密连接蛋白的正常表达对于机体的生存至关重要[14]。诸多研究表明，丁酸梭菌能够促进肠道内有益菌群的增殖和肠道健康发育，通过细胞紧密接触抑制有害菌毒性蛋白的表达，降低病原体的入侵和定植[15]。丁酸梭菌既具有直接的营养功能，又能刺激动物肠黏膜免疫反应[16]。
+
+近年来，益生菌对肠道屏障功能的影响已经引起广泛关注。据文献报道，唾液乳杆菌可以减轻或预防致病菌或有害物质引起的屏障破坏[17]；鼠李糖乳杆菌GG 通过上调紧密连接蛋白3（claudin-3）的表达加速小鼠肠道屏障功能的成熟[1]；灌服了罗伊氏乳杆菌的仔猪，空肠和回肠中紧密连接蛋白包括claudin-1、紧密连接蛋白1（ZO-1）和闭合蛋白（occludin）的表达提高[18]。claudin-1和 ZO-2是保证肠道黏膜机械屏障结构完整性的重要紧密连接蛋白[7,19]。与前人研究结果一致，本研究试验组空肠和回肠中claudin-1 和 ZO-2 的 mRNA 相对表达水平均显著高于对照组。试验结果表明，饲粮添加丁酸梭菌可刺激肠道上皮细胞繁殖，提高肠道上皮中紧密连接相关蛋白的表达，有利于机体发挥肠道屏障功能。
+
+3.3丁酸梭菌对断奶仔猪肠道上皮细胞NLRP的影响
+
+NOD 样受体是先天性免疫中的一大类模式识别受体（pattern-associated molecularpatterns，PAMPs)，其中 NLRP3、NLRP6和 NLRP12作为肠道炎症的负反馈因子在小肠中高度表达，且在维持黏膜屏障功能和微生物的共生平衡中发挥重要的作用[20-21]。NLRP 识别相应的配体后，能够形成炎性小体，进而活化半胱氨酸天冬氨酸酶（caspase-1)，最终调控 IL-1家族细胞因子（包括 $\mathrm { I L } { - } 1 \beta$ 、IL-18 和IL-33）的成熟和分泌。本研究发现，丁酸梭菌能够提高空肠中NLRP3、NLRP6和NLRP12的mRNA相对表达水平，但是对回肠中这3种 NLRP的表达没有显著影响。由此表明，丁酸梭菌饲喂仔猪后对相同的基因在不同组织中的表达调控存在一定差异。此外，本研究还发现，饲喂丁酸梭菌后仔猪血清中IL-1β含量低于对照组，但是差异不显著。存在这种现象的原因可能是：高表达的 NLRP有助于提高claudin-1 和 ZO-2mRNA 相对表达水平和肠道黏膜屏障功能，降低肠道的渗透性，进而降低肠道内有害微生物和危险信号对肠道上皮细胞的刺激，使促炎性细胞因子IL-1β呈现出较低的水平；高表达的 NLRP 可能调控IL-18 等其他细胞因子的表达，进而负反馈调节IL-1β的表达，从而减轻肠道的炎症反应。
+
+# 3.4丁酸梭菌对断奶仔猪肠道微生物的影响
+
+有益微生物在动物肠道中起着重要作用，在动物体内保持着微生物菌群的动态平衡。断奶应激常引起仔猪胃肠道生理、免疫和微生物的改变，造成肠道功能紊乱[22]。乳酸杆菌为厌氧菌，成为优势菌群后会消耗胃肠道内的大部分氧气，同时调节胄肠道 $\mathfrak { p H }$ ，使得病原微生物无法繁殖生长。梁明振等[23]研究表明，在断奶仔猪饲粮中添加丁酸梭状芽孢杆菌，可降低肠道pH和提高肠道内丁酸梭状芽孢杆菌和乳酸杆菌的含量，降低大肠杆菌的含量，与本研究结果类似。本研究中添加丁酸梭菌后的饲粮显著提高空肠和回肠中乳酸杆菌的数量，显著降低回肠中大肠杆菌的数量，有助于益生菌成为优势菌群，缓解断奶应激给仔猪带来的伤害。
+
+# 3.5丁酸梭菌对断奶仔猪血清细胞因子的影响
+
+丁酸梭菌能够激活动物机体免疫系统，增强机体免疫力，维持动物健康。体外试验表明，丁酸梭菌能够识别并激活 TolI样受体2，调节适量的促炎性细胞因子IL-8、IL-6 和肿瘤坏死因子- $\mathbf { \sigma } _ { \cdot \mathbf { a } }$ （TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）的分泌，以抵抗病原菌的感染，并维持免疫自稳[24]。适度的炎症反应有利于机体清除病原体，过度的炎症反应则会引起组织损伤，甚至危及生命，因此，机体炎症反应和抗炎症反应总是处于平衡的状态中。IL-1β 是炎症早期最早分泌的一种促炎性细胞因子，能够促进组织局部炎性细胞浸润，减轻或加重组织炎性损伤状态，在炎症反应激活和调控的全过程中发挥重要作用。IL-10 是一种抗炎性细胞因子，能够有效抑制促炎性细胞因子的分泌，减轻机体炎症反应，发挥一定的免疫刺激和调节作用，帮助益生菌顺利定植肠道，从而为益生菌发挥一系列的益生作用提供前提条件[25]。
+
+Hua 等[2研究表明，丁酸梭菌刺激人外周血单核细胞和树突状细胞后，细胞培养上清液中促炎性细胞因子IL-4 表达下降，抗炎性细胞因子IL-10 的表达上调。同时，Chen 等[2研究表明，丁酸梭菌与双粪肠球菌联用可提高血清中抗炎性细胞因子IL-10含量。本研究中，添加丁酸梭菌降低了仔猪血清中 $\mathrm { I L } { - } 1 \beta$ 的含量，提高了IL-10 的含量，与前人研究结果一致。因此，饲粮添加丁酸梭菌后能够调节仔猪的炎症反应，对仔猪产生益生作用。梁海梅等[28]研究表明，在哮喘小鼠肺组织中NLRP3表达及其下游因子 $\mathrm { I L } { - } 1 \beta$ 在血清中分泌均升高，而本研究中仔猪空肠中的 NLRP3 表达升高，血清中IL-1β含量却稍有下降，研究结果不一致，可能是 $\mathrm { I L } \mathrm { - } 1 \beta$ 的分泌除了受NLRP3 调节外，还被其他蛋白所调控，具体情况有待进一步深入研究。
+
+4结论
+
+饲粮添加丁酸梭菌改善了断奶仔猪的生长性能，调节肠道菌群平衡，提高了肠上皮细胞紧密连接相关蛋白的mRNA 相对表达水平以及血清中抗炎性细胞因子IL-10 的含量，降低了血清中促炎性细胞因子IL-1β的含量，改善了断奶仔猪的肠黏膜屏障功能和机体炎症反应。参考文献：
+
+[1] LIAO X D,MA G,CAI J,et al.Effects of Clostridium butyricum on growth performance,antioxidation,and immune function of broilers[J].Poultry
+
+Science,2015,94(4):662-667.
+
+[2]NAKAJIMA N,MATSUURA Y.Purification and characterization of konjac glucomannan degradingenzyme from anaerobic human intestinal bacterium,Clostridium butyricum-Clostvidium beijerinckii group[J].Bioscience Biotechnology,and Biochemistry,1997,61(10):1739-1742.
+
+[3]EFSA Panel on Additives and Products or Substances used in Animal Feed.Scientific Opinion on Miya-Gold? (Clostridium butyricum) as a feed additive for weaned piglets,minor weaned porcine species and minor avian species[J].EFSA Journal,2011,9(1):1951-1965.
+
+[4]HAYAKAWA T,MASUDA T,KUROSAWA D,et al.Dietary administration of probiotics to sows and/or their neonates improves the reproductive performance,incidence of post-weaning diarrhea and histopathological parameters in the intestine of weaned piglets[J].Animal Science Journal,2016,87(12):1501-1510.
+
+[5]XU X,XU P,MA C,et al.Gut microbiota,host health,and polysaccharides[J].Biotechnology Advances,2013,31(2):318-337.
+
+[6] GIBSON D L,MA C X,ROSENBERGER C M,et al.Tol-like receptor 2 plays a critical role in maintaining mucosal integrity during Citrobacter rodentium-induced colitis[J].Cellular Microbiology,2008,10(2):388-403.
+
+[7]LI H H,ZHANG L,CHEN L B,et al.Lactobacillus acidophilus allviates the inflammatory response to enterotoxigenic Escherichia coli K88 via inhibition of the NF- $\mathbf { \sigma } _ { \cdot \kappa \mathrm { B } }$ and P38 mitogen-activated protein kinase signalingpathways in piglets[J].BMC Microbiology,2016,16:273.
+
+[8] QIAO J Y,LI H H,WANG Z X,et al.Effects of Lactobacillus acidophilus dietary supplementation on the performance,intestinal barrier function,rectal microflora and serum immunefunctioninweanedpigletschallengedwith Escherichia coli lipopolysaccharide[J].Antonie van Leeuwenhoek,2015,107(4):883-891.
+
+[9] HOVERSTAD T,BOHMER T,FAUSA O.Absorption of short-chain fatty acids from the human colon measured by the （204号 $^ { 1 4 } \mathrm { C O } _ { 2 }$ breathtest[J].ScandinavianJourmalof Gastroenterology,1982,17(3):373-378.
+
+[10] ARAKI Y,ANDOH A,TAKIZAWA J,etal.Clostridiumbutyricum,aprobiotic derivative,suppresses dextransulfatesodium-inducedexperimentalcolitis in rats[J].International Journal of Molecular Medicine,2004,13(4):577-580.
+
+[11]HOSSAIN M M,BEGUM M,KIM I H.Effect of Bacillus subtilis,Clostridium butyricum and Lactobacillus acidophilus endospores on growth performance,nutrient digestibility,meat quality,relative organ weight,microbial shedding and excreta noxious gas emission in broilers[J].Veterinarni Medicina,2015,60(2):77-86.
+
+[12] FLINT J F,GARNER M R.Feeding beneficial bacteria:a natural solution for increasing efficiency and decreasing pathogens in animal agriculture[J].The Journal of Applied Poultry Research,2009,18(2):367-378.
+
+[13]王保正,杨清付,董晓东,等.酪酸菌对猪生长特性的影响[J].饲料工业,2007,28(16):39-40.
+
+[14]KELSY R,DENG Z,HOU Y Q,et al.Regulation of the intestinal barrier function by host defense peptides[J].Frontiers in Veterinary Science,2015,2:57.
+
+[15]YANG C M,CAO G T,FERKET P R,et al.Effects of probiotic,Clostridium butyricum,on growth performance,immune function,and cecal microflora in broiler chickens[J].Poultry Science,2012,91(9):2121-2129.
+
+[16] GHADIMI D,FOLSTER-HOLST R,DE VRESE M,et al.Effects of probiotic bacteria and their genomic DNA on $\mathrm { T _ { H } } 1 / \mathrm { T _ { H } } 2$ -cytokine production by peripheral blood mononuclear cells (PBMCs) of healthy and allergic subjects[J].Immunobiology,2008,213(8):677-692.
+
+[17] ULLUWISHEWA D,ANDERSON R C,MCNABB W C,et al.Regulation of tight junction permeability by intestinal bacteria and dietary components[J].Journal of Nutriti0n,2011,141(5):769-776.
+
+[18] YANG F J,WANG A N,ZENG X F,et al.Lactobacillus reuteri I5007 modulates tight junction protein expression in IPEC-J2 cells with LPS stimulation and in newborn piglets under normal conditions[J].BMC Microbiology,2015,15:32.
+
+[19] BROWN E M,SADARANGANI M,FINLAY B B.The role of the immune system in governing host-microbe interactions in the intestine[J].Nature Immunology,2013,14(7):660-667.
+
+[20] CARIO E.Heads up! How the intestinal epithelium safeguards mucosal barrier immunity through the inflammasome and beyond[J].Current Opinion in Gastroenterology,2010,26(6):583-590.
+
+[21] CHEN G Y.Role of Nlrp6 and Nlrpl2 in the maintenance ofintestinal homeostasis[J].European Journal of Immunology,2014,44(2):321-327.
+
+[22]PLUSKE J R.Feed-and feed additives-related aspects of gut health and development in weanling pigs[J].Journal of Animal Science and Biotechnology,2013,4(1):1.
+
+[23]梁明振,李莉,刘浩.丁酸梭状芽孢杆菌对断奶仔猪肠道微生物区系的影响[J].中国畜牧杂志,2013,49(23):64-67.
+
+[24] GAO Q X,QI L L,WU T X,et al.Clostridium butyricum activates TLR2-mediated MyD88-independent signaling pathway in HT-29 cells[J].Molecular and Cellular Biochemistry,2012,361(1/2):31-37.
+
+[25]高权新.丁酸梭菌与肠道上皮细胞互作的分子机制的研究[D].博士学位论文.杭州:浙江大学,2012.
+
+[26] HUA M C,LIN T Y,LAI M W,et al.Probiotic Bio-Three induces Th1 and anti-inflammatory effects in PBMC and dendritic cells[J].World Journal of Gastroenterology,2010,16(28):3529-3540.
+
+[27]CHEN C C,KONG M M.Probiotics have clinical,microbiologic,and immunologic efficacy in acute infectious diarrhea[J].Pediatric Infectious Disease Journal,2010,29(2):135-138.
+
+[28]梁海梅,于化鹏,郑燕妮,等.NLRP3/IL-1β 和 IL-18 在哮喘小鼠肺组织中的表达及与呼吸道炎症的关系[J].中华微生物学和免疫学杂志,2013,44(4):281-286.
+
+Effects of Clostridium butyricum on Growth Performance,Intestinal Barrier Function and Serum Cytokine Content of Weaned Piglets
+
+LI Yupeng1,2 LI Haihua1,2\* WANG Liuyi1,2ZHU Qi1,2² CHEN Longbin1,2 QIAO Jiayun1,2\*\* WANG Wenjie1,2
+
+(1. Tianjin Institute of Animal Husbandry and Veterinary, Tianjin 300381, China; 2. Tianjin Livestock and Poultry Health Breeding Technology Engineering Center, Tianjin 300381, China)
+
+Abstract: This study was aimed to investigate the effects of Clostridium butyricum on growth performance, intestinal barrier function and serum cytokine content of weaned piglets. A single factor design was used in this experiment, and 12 Duroc×Landrace×Yorkshire weaned piglets with similar body weight and good health were selected and divided into 2 groups at 28 days of age. Each group was divided into 6 replicates and each pig was fed in single column. Pigs in the control group were fed a corn-soybean type basal diet, and in the experimental group were fed the basal diet supplemented with $5 { \times } 1 0 ^ { 5 } ~ \mathrm { C F U / g }$ Clostridium butyricum for 14 days after 3 days adaption. The results showed as follows, compared with control group,the average daily gain of piglets in experimental group was significantly increased by $7 . 8 3 \%$ 1 $( P { < } 0 . 0 5 )$ , and the ratio of feed to gain was decreased by $5 . 2 6 \%$ （ $( P { > } 0 . 0 5 )$ ； the mRNA relative expression levels of NOD like receptor protein（NLRP）3 $( P { < } 0 . 0 5 )$ ,NLRP6 $_ { ( P < 0 . 0 5 ) }$ ,NLRP12 $_ { \scriptstyle P < 0 . 0 1 }$ ), claudin-1 $( P { < } 0 . 0 1 )$ and zonula occludens protein 2 (ZO-2) $( P { < } 0 . 0 5 )$ were significantly or extremely significantly increased in jejunum and the mRNA relative expresson levels of claudin-1 and ZO-2 were extremely significantly increased $( P { < } 0 . 0 1 )$ ） in ileum of piglets in experimental group; the number of Lactobacilli in the jejunum and ileum of piglets in experimental group was significantly increased $( P { < } 0 . 0 5 )$ ,and the number of Escherichia coli in the jejunum of piglets in experimental group was decreased by $2 . 4 9 \%$ $( P { > } 0 . 0 5 )$ ,while the number of Escherichia coli in the ileum of piglets in experimental group was significantly decreased $( P { < } 0 . 0 5 )$ ; the serum interleukin (IL)- $1 \beta$ content of piglets in experimental group was decreased by $5 . 4 7 \%$ ? $\mathrm { \ P { > } 0 . 0 5 }$ ),but the serum IL-10 content of piglets in experimental group was increased by $2 5 . 4 3 \%$ $( P { > } 0 . 0 5 )$ . In conclusion, dietary Clostridium butyricum can improve small intestinal barrier function of weaned piglets, regulate body immunity and the balance of intestinal flora, and thus promote weaned piglets growth.
+
+Key words: Clostridium butyricum; weaned piglets; growth performance; tight junction; intestinal mucosal barrier

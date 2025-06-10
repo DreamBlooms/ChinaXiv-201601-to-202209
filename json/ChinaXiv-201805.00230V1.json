@@ -1,0 +1,912 @@
+[
+    {
+        "type": "text",
+        "text": "基于勾股模糊语言幂加权平均算子的多属性群体决策方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丁恒a,b，李延来a,b",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西南交通大学a.交通运输与物流学院;b.综合交通运输智能化国家地方联合工程实验室，成都 610031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对多属性群决策问题，采用能够方便专家参考语言集信息进行评价并且取值灵活的勾股模糊语言集进行了处理。首先，基于语言集和勾股模糊集的距离测度给出了勾股模糊语言数距离测度的定义与相关性质；然后，以勾股模糊语言数的距离测度作为幂均（PA）算子的距离度量，提出了勾股模糊语言幂加权平均（PFLPWA）算子用以对群决策过程中不同专家评价矩阵进行融合，并同时在融合过程中考虑专家评价的差异性；最后，基于PFLPWA算子构建了勾股模糊语言环境下的群体决策新方法，并通过案例分析检验了PFLPWA算子应用于群决策中的有效性和适用性。关键词：距离测度；勾股模糊语言数；勾股模糊语言幂加权平均算子；多属性群决策；  \n中图分类号：TP181 doi:10.3969/j.issn.1001-3695.2017.07.0660",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Multi-attribute group decision-making method based on Pythagorean fuzzy linguistic power weighted average operator ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ding Henga, b, Li Yanlaia, b (a.SchoolofTransportation&Logistics;b.NationalUnitedEngineeringLaboratoryofIntegrated&IntelligentTransportation, Southwest Jiaotong University,Chengdu 610031, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: For multi-atribute groupdecision-making(MAGDM) problem,this studyuse Pythagorean fuzzy linguistic numbers as input information which can makedecision maker evaluate the options effectively with more flexible values.First, Pythagorean fuzzylinguistic distance measure basedon the distance measure forPythagorean fuzzysets and linguisticets was created ad its properties were also given.Then,byusing this distance measure inpower average operator,thePythagorean fuzzy linguistic power weighted average (PFLPWA)operator was created to aggregate acollection of Pythagorean fuzzy linguistic numbers (PFLNs)andthedifferencesofthedecisionmakers ereconsideredinthisaggregationproces.Finally,a group decision making methodonthe basis of PFLPWA operator was built and anumerical example was given to demonstrate its effectiveness and feasibility; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: distance measure; Pythagorean fuzzy linguistic number; Pythagorean fuzzy linguistic power weighted average operator; multi-attribute group decision-making ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "勾股模糊集[3]由直觉模糊集[1,2]拓展得到，主要由隶属度和非隶属度对事物属性进行描述，隶属度与非隶属度需要满足平方之和小于1的约束条件。从几何视角观察，勾股模糊集与直觉模糊集的隶属度和非隶属度取值约束区域由三角形区域扩大为四分之一圆区域，表明了任意直觉模糊集的取值都可被勾股模糊集的取值区域所容纳。所以，相对直觉模糊集而言,勾股模糊集为评价者提供了更为灵活的评价尺度，近期许多相关研究[4-6]表明了勾股模糊集在处理多属性决策问题时相对直觉模糊集的优越性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过对隶属度值与非隶属度值表达形式的分析，不难发现直觉模糊集和勾股模糊集中二者的取值形式皆为单位区间内的具体实数。然而，在多属性决策问题中，由于备选方案的复杂性，评价者不一定具备提供精确隶属度值与非隶属度值的能力。面对此情形，勾股模糊集和直觉模糊集不适合作为评价方案的有效工具。鉴于此，王坚强和李婧婧将语言集拓展到直觉模糊集中，提出了直觉模糊语言集。评价者可使用语言集$S = \\{ S _ { \\theta } \\ : | \\ : \\theta = 0 , 1 , \\Lambda _ { \\theta } \\}$ 中的某个语言数 $S _ { \\theta }$ 来描述方案在属性下的表现情况，并利用隶属度 $\\mu$ 与非隶属度 $\\nu$ 来分别刻画隶属于语言数与非隶属于语言数的程度，进而给出直觉模糊语言评价值 $( S _ { \\theta } , \\mu , \\nu )$ ，其中 $\\mu + \\nu \\leq 1$ 。然而，文献[8]指出，当评价者在提供方案关于某属性的评价值时，并不能给出隶属于语言数与非隶属于语言数的程度之和大于1的情形。因此，文献[8]将语言集拓展到勾股模糊集中，提出了勾股模糊语言集，定义了勾股模糊语言集的基本运算规则，并将其应用于多属性群决策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于勾股模糊语言集结合了勾股模糊集评价尺度灵活与语言集方便决策者表达的优势，本文考虑进一步将其应用于多属性群决策问题中。而在多属性群决策问题中，不同的专家给出不同的个体评价矩阵，将所有专家的评价个体矩阵有效地融合成一个综合矩阵是解决该类决策问题的关键步骤。为此，本文将幂均（PA）算子拓展到勾股模糊语言集中，并基于勾股模糊语言距离测度，提出一种同时考虑客观权重与主观权重的勾股模糊语言幂加权平均（PFLPWA）算子，同时研究了其幂等性、交换性、单调性等基本性质以及其特殊情形。而后，利用PFLPWA算子构建群体决策方法，并给出详细步骤。最后通过实例分析表明该方法的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 预备知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1直觉模糊语言集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\mathbf { 1 } ^ { [ 9 ] }$ 设 $S = \\{ s _ { \\theta } \\vert \\theta = 0 , 1 , \\Lambda \\ , g \\}$ ，其中 $g$ 为正整数， $s _ { \\theta }$ 表示一个语言变量的可能取值.且满足如下条件:a)若 $\\theta > \\delta$ ，则$s _ { \\sigma } > s _ { \\sigma } ; 0 )$ 存在补算子 $n e g$ 使得 $n e g \\left( s _ { \\theta } \\right) = s _ { _ { g - \\theta } }$ 则称 $s$ 为离散的语言集,如， $g = 8$ 时，语言集 $s$ 定义如下:$S = \\left\\{ s _ { _ \\theta } \\big | \\theta = 0 , 1 , \\Lambda _ { \\tau } , g \\right\\} =$ {极差,很差,差,略差,一般,略好,好,很好,极好}",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了方便具体语言之间的计算，文献[10]将离散的语言集拓展成连续的语言集 $\\overline { { S } } = \\left\\{ s _ { \\theta } \\vphantom { \\sum _ { \\theta } } \\theta \\in \\left[ 0 , g \\right] \\right\\}$ ， $\\bar { s }$ 同样满足上述条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 $\\pmb { 2 } ^ { [ 3 ] }$ 设 $X = \\left\\{ x _ { _ 1 } , x _ { _ 2 } , \\Lambda \\ , x _ { _ n } \\right\\}$ 为给定的集合，则 $\\boldsymbol { x }$ 上的直觉模糊集 $I$ 定义如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\left\\{ \\left. x _ { i } , \\mu _ { \\iota } \\left( x _ { i } \\right) , \\nu _ { \\iota } \\left( x _ { i } \\right) \\right. \\middle | x _ { i } \\in X \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\mu _ { _ { I } } ( x _ { i } )$ 和 $\\nu _ { _ { I } } \\left( x _ { _ { i } } \\right)$ 分别表示元素 $x _ { i }$ 属于集合 $I$ 的隶属度和非隶属度.二元组 $( \\mu _ { _ { I } } ( x _ { _ { i } } ) , \\nu _ { _ { I } } ( x _ { _ { i } } ) )$ 被称为直觉模糊数 (IFN)，为了方便，直觉模糊数被简记为 $\\beta = \\left( \\mu _ { _ { I } } , \\nu _ { _ I } \\right)$ ，其中 $\\mu _ { \\scriptscriptstyle { I } } , \\nu _ { \\scriptscriptstyle { I } } \\in \\left[ 0 , 1 \\right]$ $\\begin{array} { r } { \\mu _ { _ { I } } + \\nu _ { _ { I } } \\leq 1 . } \\end{array}$ （204号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 ${ \\mathbf { 3 } } ^ { [ 7 ] }$ 设 $X = \\{ x _ { \\scriptscriptstyle 1 } , x _ { \\scriptscriptstyle 2 } , \\Lambda , x _ { \\scriptscriptstyle n } \\}$ 为给定的集合， $S _ { \\theta ( x ) } \\in \\overline { { S } }$ ，则 $X$ 上的直觉模糊语言集 $A$ 定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\Big \\{ \\Big \\langle x , \\big ( S _ { \\theta ( x ) } , \\mu _ { _ A } \\big ( x \\big ) , \\nu _ { _ A } \\big ( x \\big ) \\big ) \\Big \\rangle | x \\in X \\Big \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $S _ { \\theta ( x ) }$ 为决策者提供的关于元素 $x$ 的语言评价值，函数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "μ(x)和v(x)分别表示x隶属于语言值S的隶属度和非隶属度，且对于所有的元素x∈X均满足条件μ(x)+V(x)≤1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了方便，文献[11]称 $\\alpha = ( S _ { _ { \\theta ( \\alpha ) } } , \\mu _ { _ { \\alpha } } , \\nu _ { _ { \\alpha } } )$ 为一个直觉模糊语言数(IFLN)。其中： $S _ { _ { \\theta ( \\alpha ) } } \\in \\overline { { S } } \\ , \\mu _ { _ { \\alpha } } , \\nu _ { _ { \\alpha } } \\in \\left[ 0 , 1 \\right] , \\mu _ { _ { \\alpha } } + \\nu _ { _ { \\alpha } } \\leq 1 \\ ,$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2勾股模糊语言集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义4[12] 设 $X = \\left\\{ x _ { 1 } , x _ { 2 } , \\Lambda \\ , x _ { n } \\right\\}$ 为给定的集合，则 $\\boldsymbol { x }$ 上的勾股模糊集 $P$ 定义如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\big \\{ \\big \\langle x _ { i } , \\mu _ { _ { P } } \\big ( x _ { i } \\big ) , \\nu _ { _ { P } } \\big ( x _ { i } \\big ) \\big \\rangle \\big | x _ { i } \\in X \\big \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mu _ { \\scriptscriptstyle P } \\big ( \\boldsymbol { x } _ { i } \\big )$ 和 $\\nu _ { _ P } \\big ( x _ { i } \\big )$ 分别表示元素 $x _ { i }$ 术语集合 $P$ 的隶属度和非隶属度。二元组 $\\left( \\mu _ { _ { P } } \\left( x _ { _ { i } } \\right) , \\nu _ { _ { P } } \\left( x _ { _ { i } } \\right) \\right)$ 被称为勾股模糊数 (PFN)，为了方便，勾股模糊数被简记为 $\\alpha = \\left( \\mu _ { _ { P } } , \\nu _ { _ { P } } \\right)$ ,其中 $\\mu _ { { \\scriptscriptstyle P } } , \\nu _ { { \\scriptscriptstyle P } } \\in \\left[ 0 , 1 \\right]$ ，$\\mu _ { { \\scriptscriptstyle P } } ^ { 2 } + \\nu _ { { \\scriptscriptstyle P } } ^ { 2 } \\leq 1 ~ \\circ$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 ${ \\pmb 5 } ^ { [ 8 ] }$ 设 $X$ 为既定论域， $S _ { _ { \\theta ( x ) } } \\in \\overline { { S } } = \\{ s _ { _ i }  i \\in [ 0 , g ] \\}$ 。勾股模糊语言集定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\left\\{ \\left( { { S } _ { _ { \\theta ( x ) } } } , { \\mu } _ { _ { A } } ( x ) , { \\nu } _ { _ { A } } ( x ) \\right) \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三元组 $( S _ { \\theta ( x ) } , \\mu _ { _ A } ( x ) , \\nu _ { _ A } ( x ) )$ 称为勾股模糊语言数(PFLN),μ(x)和v(x)分别表示x隶属于语言值S和非隶属于语言值 $S _ { \\theta ( x ) }$ 的程度，并满足 $( \\mu _ { _ A } ( x ) ) ^ { 2 } + ( \\nu _ { _ A } ( x ) ) ^ { 2 } \\leq 1$ ，$\\mu _ { _ A } ( x ) , \\nu _ { _ A } ( x ) \\in [ 0 , 1 ]$ 。为了方便，简记勾股模糊语言数为$\\alpha = \\left( S _ { \\theta } , \\mu _ { \\scriptscriptstyle A } , \\nu _ { \\scriptscriptstyle A } \\right) \\circ$ （204号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义 ${ \\bf 6 } ^ { [ 8 ] }$ 设 $\\alpha = ( S _ { _ { \\theta ( \\alpha ) } } , \\mu _ { _ { \\alpha } } , \\nu _ { _ { \\alpha } } ) , \\beta = ( S _ { _ { \\theta ( \\beta ) } } , \\mu _ { _ { \\beta } } , \\nu _ { _ { \\beta } } )$ 为两个勾股模糊语言数，则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { a } ) \\alpha \\oplus \\beta = \\left( S _ { \\theta ( \\alpha ) + \\theta ( \\beta ) } , \\sqrt { \\mu _ { \\alpha } ^ { 2 } + \\mu _ { \\beta } ^ { 2 } - \\mu _ { \\alpha } ^ { 2 } \\cdot \\mu _ { \\beta } ^ { 2 } } , \\nu _ { \\alpha } \\cdot \\nu _ { \\beta } \\right) ; } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { b } ) \\alpha \\otimes \\beta = \\left( S _ { \\theta ( \\alpha ) \\cdot \\theta ( \\beta ) } , \\mu _ { \\alpha } \\cdot \\mu _ { \\beta } , \\sqrt { \\nu _ { \\alpha } ^ { 2 } + \\nu _ { \\beta } ^ { 2 } - \\nu _ { \\alpha } ^ { 2 } \\cdot \\nu _ { \\beta } ^ { 2 } } \\right) ; } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { c ) } \\ \\lambda \\cdot \\alpha = \\left( S _ { _ { \\lambda \\cdot \\theta \\left( \\alpha \\right) } } , \\sqrt { 1 - \\left( 1 - \\mu _ { _ \\alpha } ^ { 2 } \\right) ^ { \\lambda } } , \\left( \\nu _ { _ \\alpha } \\right) ^ { \\lambda } \\right) ;\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { d } ) \\left( \\alpha \\right) ^ { \\lambda } = \\left( S _ { \\left( \\theta \\left( \\alpha \\right) \\right) ^ { \\lambda } } , \\left( \\mu _ { \\alpha } \\right) ^ { \\lambda } , \\sqrt { 1 - \\left( 1 - \\nu _ { \\alpha } ^ { 2 } \\right) ^ { \\lambda } } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义7设 $\\alpha = ( S _ { _ { \\theta ( \\alpha ) } } , \\mu _ { _ { \\alpha } } , \\nu _ { _ { \\alpha } } ) , \\beta = ( S _ { _ { \\theta ( \\beta ) } } , \\mu _ { _ { \\beta } } , \\nu _ { _ { \\beta } } )$ 为两个勾股模糊语言数，则自然偏序定义如下",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）α=β 当且仅当0(α)=0(β)，μα=μβ，(2) $\\alpha \\leq \\beta$ 当且仅当 $\\theta ( \\alpha ) \\leq \\theta ( \\beta )$ ， $\\mu _ { { \\boldsymbol { \\alpha } } } \\leq \\mu _ { { \\boldsymbol { \\beta } } } , \\quad \\nu _ { { \\boldsymbol { \\alpha } } } \\geq \\nu _ { \\boldsymbol { \\beta } } .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义 ${ \\pmb 8 } ^ { [ 8 ] }$ （20 勾股模糊语言数α=(Se(α)μα,Va），$\\beta = ( S _ { _ { \\theta ( \\beta ) } } , \\mu _ { _ { \\beta } } , \\nu _ { _ { \\beta } } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)若 $s ( \\alpha ) < s ( \\beta )$ ，则 $\\alpha \\pi \\beta$ 。 b)若 $s ( \\alpha ) = s ( \\beta )$ ，则 (a)若 $h { \\big ( } \\alpha { \\big ) } < h { \\big ( } \\beta { \\big ) }$ ，则 $\\alpha \\pi \\beta$ ·， (b)若 $h ( \\alpha ) = h ( \\beta )$ ，则 $\\alpha \\sim \\beta$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $s ( \\alpha ) = \\frac { \\theta ( \\alpha ) } { g } \\big ( \\mu _ { \\alpha } ^ { 2 } - \\nu _ { \\alpha } ^ { 2 } \\big )$ $h ( \\alpha ) = \\frac { \\theta ( \\alpha ) } { g } \\big ( \\mu _ { \\alpha } ^ { 2 } + \\nu _ { \\alpha } ^ { 2 } \\big )$ 分别为记分函数和精确度函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据定义7和8，易得如下结论：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "推论1若 $\\alpha \\leq \\beta$ ，则 $\\alpha \\pi \\beta$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明根据定义7可得   \n若 $\\alpha \\leq \\beta$ ，则 $\\theta \\left( \\alpha \\right) \\leq \\theta \\left( \\beta \\right) , \\quad \\mu _ { \\alpha } \\leq \\mu _ { \\beta } , \\quad \\nu _ { \\alpha } \\geq \\nu _ { \\beta } \\circ$   \n若 $\\alpha = \\beta$ ，当且仅当 $\\theta \\big ( \\alpha \\big ) = \\theta \\big ( \\beta \\big ) , \\quad \\mu _ { \\alpha } = \\mu _ { { } _ { \\beta } } , \\quad \\nu _ { { } _ { \\alpha } } = \\nu _ { { } _ { \\beta } } \\circ$ （20 由定义8   \n$s ( \\alpha ) = \\frac { \\theta ( \\alpha ) } { g } \\big ( \\mu _ { \\alpha } ^ { 2 } - \\nu _ { \\alpha } ^ { 2 } \\big ) \\leq s \\big ( \\beta \\big ) = \\frac { \\theta ( \\beta ) } { g } \\big ( \\mu _ { \\beta } ^ { 2 } - \\nu _ { \\beta } ^ { 2 } \\big ) \\ : \\circ$ 因此， $\\alpha \\pi \\beta$ 。   \n证毕。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3幂平均算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[12]提出了一种考虑信息组的个体与整体之间差异程度的幂均算子，下面给出其相关概念。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义9[12] 幂均算子为映射 $P A : R ^ { n } \\to R$ ，其满足",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP A { \\big ( } a _ { 1 } , a _ { 2 } , \\Lambda ~ a _ { n } { \\big ) } = \\sum _ { i = 1 } ^ { n } { \\frac { { \\big ( } 1 + T { \\big ( } a _ { i } { \\big ) } { \\big ) } a _ { i } } { \\sum _ { j = 1 } ^ { n } { \\big ( } 1 + T { \\big ( } a _ { j } { \\big ) } { \\big ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\begin{array} { r } { T \\big ( \\boldsymbol { a } _ { i } \\big ) = \\sum _ { j \\neq i } ^ { n } { \\cal S } \\boldsymbol { u } p p \\big ( \\boldsymbol { a } _ { i } , \\boldsymbol { a } _ { j } \\big ) \\ , \\ { \\cal S } \\boldsymbol { u } p p \\big ( \\boldsymbol { a } _ { i } , \\boldsymbol { a } _ { j } \\big ) } \\end{array}$ 为 $a _ { _ i }$ 与 $a _ { _ j }$ 的支持度，且满足性质： $S u p p ( a _ { i } , a _ { j } ) \\in [ 0 , 1 ]$ ； $S u p p ( a _ { i } , a _ { j } ) = S u p p ( a _ { j } , a _ { i } )$ ；若$\\left| a _ { i } - a _ { j } \\right| < \\left| a _ { s } - a _ { t } \\right|$ ，则有 $S u p p { \\left( a _ { \\scriptscriptstyle i } , a _ { \\scriptscriptstyle j } \\right) } \\leq S u p p { \\left( a _ { \\scriptscriptstyle s } , a _ { \\scriptscriptstyle t } \\right) }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述幂均算子的权重主要由客观数组之间的相互支持度构成，能够客观反映数组中各元素与其他元素之间的差异程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2基于距离测度的勾股模糊语言幂加权平均(PFLPWA)算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1勾股模糊语言的距离测度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "联合语言的距离测度与勾股模糊数的距离测度，下面将给出勾股模糊语言的距离测度，并研究其基本性质。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义10设 $\\alpha = ( S _ { _ { \\theta ( \\alpha ) } } , \\mu _ { _ { \\alpha } } , \\nu _ { _ { \\alpha } } ) , \\beta = ( S _ { _ { \\theta ( \\beta ) } } , \\mu _ { _ { \\beta } } , \\nu _ { _ { \\beta } } )$ 为两个勾股模糊语言数，则距离定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\big ( \\alpha , \\beta \\big ) = \\frac { 1 } { 2 g } \\big | \\theta \\big ( \\alpha \\big ) - \\theta \\big ( \\beta \\big ) \\big | + \\frac { 1 } { 4 } \\big ( \\big | \\mu _ { \\alpha } ^ { 2 } - \\mu _ { \\beta } ^ { 2 } \\big | + \\big | \\nu _ { \\alpha } ^ { 2 } - \\nu _ { \\beta } ^ { 2 } \\big | + \\big | \\pi _ { \\alpha } ^ { 2 } - \\pi _ { \\beta } ^ { 2 } \\big | \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "性质1设 $\\begin{array} { r } { \\alpha = \\left( S _ { _ { \\theta \\left( \\alpha \\right) } } , \\mu _ { _ \\alpha } , \\nu _ { _ \\alpha } \\right) , \\beta = \\left( S _ { _ { \\theta \\left( \\beta \\right) } } , \\mu _ { _ \\beta } , \\nu _ { _ \\beta } \\right) } \\end{array}$ 为两个勾股模糊语言数，则 $\\alpha$ 与 $\\beta$ 之间的距离测度满足如下性质：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a) $0 \\leq d { \\big ( } \\alpha , \\beta { \\big ) } \\leq 1 \\quad ; \\quad { \\mathfrak { b } } ) \\quad d { \\big ( } \\alpha , \\beta { \\big ) } = 0 \\quad , \\quad \\alpha = \\beta$ ；c）$d \\left( \\alpha , \\beta \\right) = d \\left( \\beta , \\alpha \\right) ~ ;$ d） $\\alpha \\leq \\beta \\leq \\gamma$ ，则 $d \\big ( \\alpha , \\beta \\big ) \\leq d \\big ( \\alpha , \\gamma \\big )$ ，$d \\left( \\gamma , \\beta \\right) \\leq d \\left( \\alpha , \\gamma \\right) .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明a)根据文献[4]可知, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq \\frac { 1 } { 4 } \\big ( \\big | \\mu _ { \\alpha } ^ { 2 } - \\mu _ { \\beta } ^ { 2 } \\big | + \\big | \\nu _ { \\alpha } ^ { 2 } - \\nu _ { \\beta } ^ { 2 } \\big | + \\big | \\pi _ { \\alpha } ^ { 2 } - \\pi _ { \\beta } ^ { 2 } \\big | \\big ) \\leq \\frac { 1 } { 2 } \\ : \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "又 $0 \\leq \\frac { 1 } { 2 g } \\mathopen { } \\mathclose \\bgroup \\left| \\theta \\aftergroup \\egroup ( \\alpha \\aftergroup \\egroup ) - \\theta \\mathopen { } \\mathclose \\bgroup \\left( \\beta \\aftergroup \\egroup \\right) \\aftergroup \\egroup \\right| \\leq \\frac { 1 } { 2 }$ ，因此， $0 \\leq d \\big ( \\alpha , \\beta \\big ) \\leq 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)若 $d \\big ( \\alpha , \\beta \\big ) = 0$ ，则有 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta \\left( \\alpha \\right) = \\theta \\left( \\beta \\right) , \\theta \\left( \\alpha \\right) = \\theta \\left( \\beta \\right) , \\mu _ { \\alpha } = \\mu _ { \\beta } , \\nu _ { \\alpha } = \\nu _ { \\beta } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据定义7，易得 $\\alpha = \\beta$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)显然可得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)只需证明 $d \\big ( \\alpha , \\beta \\big ) \\leq d \\big ( \\alpha , \\gamma \\big )$ ,类似可得 $d \\big ( \\gamma , \\beta \\big ) \\leq d \\big ( \\alpha , \\gamma \\big )$ 。 若 $\\alpha \\leq \\beta \\leq \\gamma$ ，根据定义7，可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta \\left( \\alpha \\right) \\leq \\theta \\left( \\beta \\right) \\leq \\theta \\left( \\gamma \\right) , \\mu _ { \\alpha } \\leq \\mu _ { \\beta } \\leq \\mu _ { \\gamma }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { _ { \\alpha } } \\geq \\nu _ { _ { \\beta } } \\geq \\nu _ { _ { \\gamma } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "易得， $\\begin{array} { r } { \\left| \\theta ( \\alpha ) - \\theta ( \\beta ) \\right| \\le \\left| \\theta ( \\alpha ) - \\theta ( \\gamma ) \\right| \\le } \\end{array}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "又根据文献[13]中勾股模糊距离测度不等式证明可知，  \n$\\begin{array} { r } { \\left( \\left| \\mu _ { \\alpha } ^ { 2 } - \\mu _ { \\beta } ^ { 2 } \\right| + \\left| \\nu _ { \\alpha } ^ { 2 } - \\nu _ { \\beta } ^ { 2 } \\right| + \\left| \\pi _ { \\alpha } ^ { 2 } - \\pi _ { \\beta } ^ { 2 } \\right| \\right) \\leq \\left( \\left| \\mu _ { \\alpha } ^ { 2 } - \\mu _ { \\gamma } ^ { 2 } \\right| + \\left| \\nu _ { \\alpha } ^ { 2 } - \\nu _ { \\gamma } ^ { 2 } \\right| + \\left| \\pi _ { \\alpha } ^ { 2 } - \\pi _ { \\gamma } ^ { 2 } \\right| \\right) \\circ } \\end{array}$ 因此，根据定义10，可得  \n$d { \\big ( } \\alpha , \\beta { \\big ) } = { \\frac { 1 } { 2 g } } { \\big | } \\theta { \\big ( } \\alpha { \\big ) } - \\theta { \\big ( } \\beta { \\big ) } { \\big | } + { \\frac { 1 } { 4 } } { \\big ( } { \\big | } \\mu _ { \\alpha } ^ { 2 } - \\mu _ { \\beta } ^ { 2 } { \\big | } + { \\big | } \\nu _ { \\alpha } ^ { 2 } - \\nu _ { \\beta } ^ { 2 } { \\big | } + { \\big | } \\pi _ { \\alpha } ^ { 2 } - \\pi _ { \\beta } ^ { 2 } { \\big | } { \\big ) }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\leq \\frac { 1 } { 2 g } \\big | \\theta ( \\alpha ) - \\theta ( \\gamma ) \\big | + \\frac { 1 } { 4 } \\big ( \\big | \\mu _ { \\alpha } ^ { 2 } - \\mu _ { \\gamma } ^ { 2 } \\big | + \\big | \\nu _ { \\alpha } ^ { 2 } - \\nu _ { \\gamma } ^ { 2 } \\big | + \\big | \\pi _ { \\alpha } ^ { 2 } - \\pi _ { \\gamma } ^ { 2 } \\big | \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\alpha } = d ( \\alpha , \\gamma )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证毕。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2勾股模糊语言幂加权平均(PFLPWA)算子",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了有效集结勾股模糊语言数组，基于本文所提的距离测度，将幂均算子拓展到勾股模糊集中，提出PFLPWA算子，并研究其基本性质及其特殊情形。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义11设 $\\alpha _ { i } = ( S _ { _ { \\theta ( \\alpha _ { i } ) } } , \\mu _ { \\alpha _ { i } } , \\nu _ { _ { \\alpha _ { i } } } ) ( i = 1 , 2 , . . . , n )$ 为勾股模糊语言数组， $w = \\left( w _ { _ 1 } , w _ { _ 2 } , \\Lambda { \\it \\Delta } , w _ { _ n } \\right) ^ { T }$ 为数组的权重向量，满足 $\\sum _ { i = 1 } ^ { n } w _ { i } = 1$ ，wi ≥0(i=1,2,∧,n)。勾股模糊幂加权平均算子定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F L P W A \\big ( \\alpha _ { 1 } , \\alpha _ { 2 } , \\Lambda ~ , \\alpha _ { \\it \\Pi } \\big ) = \\bigoplus _ { i = 1 } ^ { n } \\frac { w _ { i } \\big ( 1 + T \\big ( \\alpha _ { i } \\big ) \\big ) \\alpha _ { i } } { \\sum _ { j = 1 } ^ { n } w _ { j } \\big ( 1 + T \\big ( \\alpha _ { j } \\big ) \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\begin{array} { r } { T \\big ( \\alpha _ { i } \\big ) = \\sum _ { j \\ne i } ^ { n } S u p p \\big ( \\alpha _ { i } , \\alpha _ { j } \\big ) } \\end{array}$ ， $S u p p \\big ( \\alpha _ { i } , \\alpha _ { j } \\big )$ 为 $\\alpha _ { _ i }$ 与 $\\alpha _ { _ j }$ 的支持度，且满足以下性质：a) $S u p p ( \\alpha _ { i } , \\alpha _ { j } ) \\in [ 0 , 1 ]$ ；b)$S u p p ( \\alpha _ { i } , \\alpha _ { j } ) = S u p p ( \\alpha _ { j } , \\alpha _ { i } )$ ；c)若 $d ( \\alpha _ { i } , \\alpha _ { j } ) < d ( \\alpha _ { s } , \\alpha _ { t } )$ ，则有$S u p p ( \\alpha _ { i } , \\alpha _ { j } ) \\le S u p p ( \\alpha _ { s } , \\alpha _ { \\iota } )$ ，其中 $d ( \\alpha _ { i } , \\alpha _ { j } )$ 为勾股模糊数 $\\alpha _ { i }$ 与 $\\alpha _ { _ j }$ 之间的距离。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若 $w = \\left( 1 / n , 1 / n , \\Lambda , 1 / n \\right) ^ { T }$ ，则勾股模糊语言幂加权平均算子退化成勾股模糊语言幂均算子：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F L P A { \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , \\Lambda ~ , \\alpha _ { _ n } \\right) } = \\bigoplus _ { i = 1 } ^ { n } { \\frac { \\left( 1 + T { \\left( \\alpha _ { _ i } \\right) } \\right) \\alpha _ { _ i } } { \\sum _ { j = 1 } ^ { n } { \\left( 1 + T { \\left( \\alpha _ { _ j } \\right) } \\right) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理1设 $\\alpha _ { i } = \\left( S _ { _ { \\theta \\left( \\alpha _ { i } \\right) } } , \\mu _ { _ { \\alpha _ { i } } } , \\nu _ { _ { \\alpha _ { i } } } \\right) \\left( i = 1 , 2 , . . . , n \\right)$ 为勾股模糊语言 组， $w = \\left( w _ { _ 1 } , w _ { _ 2 } , \\Lambda { } ~ , w _ { _ n } \\right) ^ { T }$ 为数组的权重向量，满足 $\\sum _ { i = 1 } ^ { n } w _ { i } = 1$ ， $w _ { i } \\ge 0 \\big ( i = 1 , 2 , \\Lambda \\ , n \\big )$ 。则 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F L P W A \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , . . . , \\alpha _ { n } \\right) = \\left( S \\sum _ { \\stackrel { \\bar { \\ i } } { \\sum _ { i = 1 } ^ { n } \\theta \\left( \\alpha _ { i } \\right) } } , \\sqrt { 1 - \\prod _ { i = 1 } ^ { n } \\left( 1 - \\mu _ { _ { \\alpha _ { i } } } ^ { 2 } \\right) ^ { u _ { i } } } , \\prod _ { i = 1 } ^ { n } \\left( \\nu _ { _ { \\alpha _ { i } } } \\right) ^ { u _ { i } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "且 $P F L P W A \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , . . . , \\alpha _ { _ n } \\right)$ 仍为勾股模糊语言数。其中$u _ { i } = \\frac { w _ { i } \\left( 1 + T \\big ( \\alpha _ { i } \\big ) \\right) } { \\sum _ { j = 1 } ^ { n } w _ { j } \\left( 1 + T \\big ( \\alpha _ { j } \\big ) \\right) } \\big ( i = 1 , 2 , \\Lambda \\ , n \\big ) \\ ,$ 且满足 $\\sum _ { i = 1 } ^ { n } u _ { i } = 1$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明若令 $u _ { i } = \\frac { w _ { i } \\left( 1 + T \\big ( \\alpha _ { i } \\big ) \\right) } { \\sum _ { j = 1 } ^ { n } w _ { j } \\left( 1 + T \\big ( \\alpha _ { j } \\big ) \\right) } \\big ( i = 1 , 2 , \\Lambda \\ , n \\big )$ ，则根据定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "义11,得 $P F L P W A { \\big ( } \\alpha _ { _ { 1 } } , \\alpha _ { _ { 2 } } , \\Lambda _ { \\_ } { \\alpha } { \\big ) } = \\bigoplus _ { i = 1 } ^ { n } u _ { i } \\alpha _ { _ { i } }$ 。根据定义6的(1)(3),$u _ { 1 } \\alpha _ { 1 } \\oplus u _ { 2 } \\alpha _ { 2 } = \\left( S _ { u _ { 1 } \\theta ( \\alpha _ { 1 } ) + u _ { 2 } \\theta ( \\alpha _ { 2 } ) } , \\sqrt { 1 - \\left( 1 - \\mu _ { \\alpha _ { 1 } } ^ { 2 } \\right) ^ { u _ { 1 } } \\left( 1 - \\mu _ { \\alpha _ { 2 } } ^ { 2 } \\right) ^ { u _ { 2 } } } , \\left( \\nu _ { \\alpha _ { 2 } } \\right) ^ { u _ { 2 } } \\right)$ 假设 $n = k$ 时，式(8)成立，则有$P F L P W A \\left( \\alpha _ { 1 } , \\alpha _ { 2 } , . . . , \\alpha _ { k } \\right) = \\left( S \\sum _ { \\underset { i = 1 } { \\overset { . } { \\sum } } u , \\theta \\left( \\alpha _ { i } \\right) } , \\sqrt { 1 - \\prod _ { i = 1 } ^ { k } \\left( 1 - \\mu _ { \\alpha _ { i } } ^ { 2 } \\right) ^ { u _ { i } } } , \\prod _ { i = 1 } ^ { k } \\left( \\nu _ { \\alpha _ { i } } \\right) ^ { u _ { i } } \\right)$ 当 $n = k + 1$ 时，  \n$\\begin{array} { l } { \\displaystyle P F L P A \\big ( \\alpha _ { 1 } , \\alpha _ { 2 } , \\Lambda ~ , \\alpha _ { n } \\big ) } \\\\ { \\displaystyle = \\big ( P F L P W A \\big ( \\alpha _ { 1 } , . . . , \\alpha _ { \\star } \\big ) \\big ) \\oplus u _ { \\star } \\alpha _ { k + 1 } = \\Big ( \\frac { k } { i \\mathrm { e } ^ { \\lambda } } u _ { \\iota } \\alpha _ { i } \\Big ) \\oplus u _ { \\star } \\alpha _ { k + 1 } } \\\\ { \\displaystyle : \\left( S _ { \\displaystyle \\sum _ { i = 1 } ^ { k } \\theta ( \\alpha _ { i } ) \\cdot u _ { \\iota + i } , \\theta ( \\alpha _ { i + 1 } ) } , \\sqrt { 1 - \\left( \\prod _ { i = 1 } ^ { k } \\left( 1 - \\mu _ { \\alpha _ { i } } ^ { 2 } \\right) ^ { u _ { \\star } } \\right) \\left( 1 - \\mu _ { \\alpha _ { i + 1 } } ^ { 2 } \\right) ^ { u _ { \\star + 1 } } } , \\left( \\prod _ { i = 1 } ^ { k } \\left( \\nu _ { \\alpha _ { i } } \\right) ^ { u _ { \\iota } } \\right) \\left( \\nu _ { \\alpha _ { i + 1 } } \\right) ^ { u _ { \\star + 1 } } \\right) } \\end{array}$   \n$= \\left( S _ { \\sum _ { i = 1 \\atop i = 1 } u _ { i } \\theta \\left( \\alpha _ { i } \\right) } , \\sqrt { 1 - \\prod _ { i = 1 } ^ { k + 1 } \\left( 1 - \\mu _ { \\alpha _ { i } } ^ { 2 } \\right) ^ { u _ { i } } } , \\prod _ { i = 1 } ^ { k + 1 } \\left( \\nu _ { \\alpha _ { i } } \\right) ^ { u _ { i } } \\right) \\circ$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证毕。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理2若 $S u p p \\big ( \\alpha _ { i } , \\alpha _ { j } \\big ) = k \\big ( j \\neq i \\big )$ ，则勾股模糊语言幂加权平均算子退化成勾股模糊语言加权平均PFLWA算子",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F L W A ( \\alpha _ { 1 } , \\alpha _ { 2 } , . . . , \\alpha _ { n } ) = \\left( S _ { \\sum _ { i = 1 } ^ { n } w , \\theta ( \\alpha _ { i } ) } , \\sqrt { 1 - \\prod _ { i = 1 } ^ { n } \\bigl ( 1 - \\mu _ { \\alpha _ { i } } ^ { 2 } \\bigr ) ^ { w _ { i } } } , \\prod _ { i = 1 } ^ { n } \\bigl ( \\nu _ { \\alpha _ { i } } \\bigr ) ^ { w _ { i } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明若 $S u p p \\big ( \\alpha _ { i } , \\alpha _ { j } \\big ) = k \\big ( j \\neq i \\big )$ ，则有 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T \\big ( \\alpha _ { i } \\big ) = \\displaystyle \\sum _ { j \\ne i } ^ { n } S u p p \\big ( \\alpha _ { i } , \\alpha _ { j } \\big ) = \\big ( n - 1 \\big ) k ~ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进而，u= $u _ { i } = \\frac { w _ { i } \\big ( 1 + T \\big ( \\alpha _ { i } \\big ) \\big ) } { \\sum _ { j = 1 } ^ { n } w _ { j } \\big ( 1 + T \\big ( \\alpha _ { j } \\big ) \\big ) } = \\frac { w _ { i } \\big ( 1 + \\big ( n - 1 \\big ) k \\big ) } { \\sum _ { j = 1 } ^ { n } w _ { j } \\big ( 1 + \\big ( n - 1 \\big ) k \\big ) } = w _ { i } \\ ,$ 根据定理1，式(9)成立。  \n证毕。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理3设 $\\alpha _ { i } = \\left( S _ { _ { \\theta \\left( \\alpha _ { i } \\right) } } , \\mu _ { _ { \\alpha _ { i } } } , \\nu _ { _ { \\alpha _ { i } } } \\right) \\left( i = 1 , 2 , . . . , n \\right)$ 为勾股模糊语言 数组， $w = \\left( w _ { _ 1 } , w _ { _ 2 } , \\Lambda { } ~ , w _ { _ n } \\right) ^ { T }$ 为数组的权重向量，满足 $\\sum _ { i = 1 } ^ { n } w _ { i } = 1$ ， $w _ { i } \\ge 0 \\big ( i = 1 , 2 , \\Lambda \\ , n \\big )$ 。则 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)交换性。若 $\\left( \\alpha _ { _ 1 } ^ { ^ { \\cdot } } , \\alpha _ { _ 2 } ^ { ^ { \\cdot } } , \\Lambda , \\alpha _ { _ n } ^ { ^ { \\cdot } } \\right)$ 为 $\\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , \\Lambda , \\alpha _ { _ n } \\right)$ 的重排列，则 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal P } F L { \\cal P } W A \\left( \\alpha _ { _ 1 } ^ { , } \\alpha _ { _ 2 } ^ { , } , \\Lambda { \\ , } \\alpha _ { _ n } ^ { , } \\right) = { \\cal P } F L { \\cal P } W A \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , \\Lambda { \\ , } \\alpha _ { _ n } ^ { , } \\right) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)幂等性。若 $\\alpha _ { i } { = } \\alpha { = } \\big ( S _ { _ { \\theta } } , \\mu , \\nu \\big ) \\big ( i { = } 1 , 2 , . . . , n \\big )$ ，则 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { P F L P W A } \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , \\Lambda \\ , \\alpha _ { _ n } \\right) = \\alpha \\ \\mathrm { _ { o } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)有界性。若令",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { K } _ { \\operatorname* { m i n } } = \\left( S _ { \\operatorname* { m i n } \\{ \\theta ( \\alpha _ { i } ) \\} } , \\operatorname* { m i n } _ { i } \\left\\{ \\mu _ { \\alpha _ { i } } \\right\\} , \\operatorname* { m a x } _ { i } \\left\\{ \\nu _ { \\alpha _ { i } } \\right\\} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { \\mathrm { { _ { n a x } } } } = \\left( S _ { \\operatorname* { m a x } \\{ \\theta ( \\alpha _ { i } ) \\} } , \\operatorname* { m a x } _ { i } \\left\\{ \\mu _ { \\alpha _ { i } } \\right\\} , \\operatorname* { m i n } _ { i } \\left\\{ \\nu _ { \\alpha _ { i } } \\right\\} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "则 $\\alpha _ { \\mathrm { m i n } } \\leq P F L P W A \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , \\Lambda { _ \\ d } _ { \\mathfrak { n } } \\right) \\leq \\alpha _ { _ \\mathrm { m a x } } \\ _ { } \\mathrm { ~ c ~ }$ （2 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)单调性。设 $\\beta _ { i } = \\left( S _ { _ { \\theta \\left( \\beta _ { i } \\right) } } , \\mu _ { _ { \\beta _ { i } } } , \\nu _ { _ { \\beta _ { i } } } \\right) \\left( i = 1 , 2 , . . . , n \\right)$ 为勾股模糊语言 数组。若 $\\alpha _ { i } \\le \\beta _ { i } \\left( i = 1 , 2 , . . . , n \\right)$ ，且 $T \\big ( \\alpha _ { i } \\big ) = T \\big ( \\beta _ { i } \\big ) \\big ( i = 1 , 2 , . . . , n \\big )$ 。则 有 $P F L P W A \\left( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , \\Lambda { } ~ , \\alpha _ { _ n } \\right) \\leq P F L P W A \\left( \\beta _ { _ 1 } , \\beta _ { _ 2 } , \\Lambda { } ~ , \\beta _ { _ n } \\right) \\circ$ （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证明 a）对于任意的 $\\dot { \\alpha _ { j } ^ { \\dot { } } }$ 存在唯一对应的 $\\alpha _ { i }$ 。因此，$P F L P W A \\left( \\alpha _ { _ 1 } ^ { , } \\alpha _ { _ 2 } ^ { , } \\Lambda { } ~ , \\alpha _ { _ n } ^ { ' } \\right) = P F L P W A \\left( \\alpha _ { _ 1 } ^ { , } \\alpha _ { _ 2 } ^ { , } \\Lambda { } ~ , \\alpha _ { _ n } ^ { } \\right) \\circ$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)若 $\\alpha _ { i } { = } \\alpha { = } \\big ( S _ { \\theta } , \\mu , \\nu \\big ) \\big ( i { = } 1 , 2 , . . . , n \\big )$ ，则 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F L P W A ( \\alpha _ { _ 1 } , \\alpha _ { _ 2 } , . . . , \\alpha _ { _ n } ) = \\left( S _ { \\sum _ { i } \\mu _ { i } } , \\sqrt { 1 - \\left( 1 - \\mu ^ { ^ { 2 } } \\right) _ { ^ { i - 1 } } ^ { ^ { s } \\mu _ { i } } } , \\sum _ { \\nu ^ { ^ { s - 1 } } } ^ { ^ { s } u _ { _ { i } } } \\right) = \\left( S _ { \\rho } , \\mu , \\nu \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)根据定义1易得 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S _ { \\operatorname* { m i n } \\{ \\theta ( \\alpha _ { i } ) \\} } \\leq S _ { \\sum _ { i = 1 } ^ { n _ { \\alpha } \\theta ( \\alpha _ { i } ) } } \\leq S _ { \\operatorname* { m a x } \\{ \\theta ( \\alpha _ { i } ) \\} } } \\\\ { \\sum _ { \\operatorname* { m i n } \\big \\{ \\mu _ { \\alpha _ { i } } \\big \\} } \\leq \\sqrt { 1 - \\prod _ { i = 1 } ^ { n } \\Bigl ( 1 - \\mu _ { \\alpha _ { i } } ^ { 2 } \\Bigr ) ^ { \\alpha _ { i } } } \\leq \\operatorname* { m a x } \\Big \\{ \\mu _ { \\alpha _ { i } } \\Big \\} , } \\\\ { \\operatorname* { m i n } \\Big \\{ \\nu _ { \\alpha _ { i } } \\Big \\} \\leq \\prod _ { i = 1 } ^ { n } \\Big ( \\nu _ { \\alpha _ { i } } \\Big ) ^ { \\alpha _ { i } } \\leq \\operatorname* { m a x } \\Big \\{ \\nu _ { \\alpha _ { i } } \\Big \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据定义7与定理1，易得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { \\mathrm { m i n } } \\leq P F L P W A \\left( \\alpha _ { \\mathrm { _ 1 } } , \\alpha _ { \\mathrm { _ 2 } } , \\Lambda \\ , \\alpha _ { \\mathrm { _ n } } \\right) \\leq \\alpha _ { \\mathrm { _ { m a x } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)若 $T \\big ( \\alpha _ { i } \\big ) = T \\big ( \\beta _ { i } \\big ) \\big ( i = 1 , 2 , . . . , n \\big )$ ，则 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { w _ { i } \\big ( 1 + T \\big ( \\alpha _ { i } \\big ) \\big ) } { \\sum _ { j = 1 } ^ { n } w _ { j } \\big ( 1 + T \\big ( \\alpha _ { j } \\big ) \\big ) } { = } \\frac { w _ { i } \\big ( 1 + T \\big ( \\beta _ { i } \\big ) \\big ) } { \\sum _ { j = 1 } ^ { n } w _ { j } \\big ( 1 + T \\big ( \\beta _ { j } \\big ) \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据定义 $6$ ，若 $\\alpha _ { i } \\le \\beta _ { i } \\left( i = 1 , 2 , . . . , n \\right)$ ，则有 ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\theta \\left( \\alpha _ { i } \\right) \\leq \\theta \\left( \\beta _ { i } \\right) , \\mu _ { \\alpha _ { i } } \\leq \\mu _ { \\beta _ { i } } } } \\\\ { { { } } } \\\\ { { \\nu _ { \\alpha _ { i } } \\geq \\nu _ { \\beta _ { i } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\sum _ { i = 1 } ^ { n } \\mu ( \\alpha _ { i } ) } \\leq S _ { \\sum _ { i = 1 } ^ { n } \\mu ( \\beta _ { i } ) } , \\quad \\sqrt { 1 - \\prod _ { i = 1 } ^ { n } \\bigl ( 1 - \\mu _ { \\alpha _ { i } } ^ { 2 } \\bigr ) ^ { u _ { i } } } \\leq \\sqrt { 1 - \\prod _ { i = 1 } ^ { n } \\bigl ( 1 - \\mu _ { \\beta _ { i } } ^ { 2 } \\bigr ) ^ { u _ { i } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\prod _ { i = 1 } ^ { n } ( \\nu _ { \\alpha _ { i } } ) ^ { u _ { i } } \\geq \\prod _ { i = 1 } ^ { n } ( \\nu _ { \\beta _ { i } } ) ^ { u _ { i } } ) .$ 进而可得，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP F L P W A \\left( \\alpha _ { 1 } , \\alpha _ { 2 } , \\Lambda { } ~ , \\alpha _ { \\it n } \\right) \\leq P F L P W A \\left( \\beta _ { 1 } , \\beta _ { 2 } , \\Lambda { } ~ , \\beta _ { \\it n } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "证毕。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在这一节中，勾股模糊语言集的距离测度被用于构建勾股模糊数之间的支持度。根据定义11和定理8可知，勾股模糊语言幂加权平均算子的权重主要由权重向量 $w = ( w _ { \\mathrm { 1 } } , w _ { \\mathrm { 2 } } , \\Lambda \\ , w _ { \\mathrm { n } } ) ^ { T }$ 和支持度 $T \\big ( \\boldsymbol { \\alpha } _ { i } \\big )$ 结合而成。因此，该算子适用于处理群体决策问题，在集结专家组所提供的多个个体评价矩阵时，决策者事先给出的主观权重向量 $w = ( w _ { \\mathrm { 1 } } , w _ { \\mathrm { 2 } } , \\Lambda \\ , w _ { \\mathrm { n } } ) ^ { T }$ 和支持度将联合构成个体矩阵元素对应的权重。在下一节将构建出基于PFLPA算子的群体决策方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 基于PFLPWA 算子的决策方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对勾股模糊语言环境下的多属性决策问题，设专家组$D = \\left\\{ d _ { \\scriptscriptstyle 1 } , d _ { \\scriptscriptstyle 2 } , \\Lambda ~ , d _ { \\scriptscriptstyle t } \\right\\}$ ，备选方案集为 $X = \\left\\{ x _ { _ { 1 } } , x _ { _ { 2 } } , \\Lambda \\ , x _ { _ { m } } \\right\\}$ ，属性集$C = \\{ c _ { \\scriptscriptstyle 1 } , c _ { \\scriptscriptstyle 2 } , \\Lambda , c _ { \\scriptscriptstyle n } \\}$ ，假设属性权重向量 ${ \\omega } = ( \\omega _ { \\scriptscriptstyle 1 } , \\omega _ { \\scriptscriptstyle 2 } , \\Lambda { \\bf \\Omega } , \\omega _ { \\scriptscriptstyle n } ) ^ { \\scriptscriptstyle T }$ ，$\\begin{array} { r } { \\omega _ { j } \\in \\left[ 0 , 1 \\right] , et { } { ' } \\sum _ { j = 1 } ^ { n } \\omega _ { j } = 1 } \\end{array}$ 。专家权重向量 $e = \\left( e _ { _ 1 } , e _ { _ 2 } , \\Lambda , e _ { _ t } \\right) ^ { T } , e _ { _ k } \\in \\left[ 0 , 1 \\right]$ $\\sum _ { k = 1 } ^ { \\prime } e _ { _ k } = 1$ 。决策矩阵 $U ^ { k } = \\left( \\alpha _ { i j } ^ { k } \\right) _ { m \\times n }$ ， $\\mathcal { \\alpha } _ { i j } ^ { k } = \\left( S _ { \\theta ( \\alpha _ { i j } ^ { k } ) } , \\mu _ { \\alpha _ { i j } ^ { k } } , \\nu _ { \\alpha _ { i j } ^ { k } } \\right)$ 为由专家$\\boldsymbol { d } _ { \\boldsymbol { k } } \\in \\boldsymbol { D }$ 给出的方案 $x _ { i } \\in X$ 在属性 $c _ { _ j } \\in C$ 的勾股模糊语言评价值。其中 $S _ { \\theta \\left( \\alpha _ { i j } ^ { k } \\right) }$ 是语言集 $\\bar { s }$ 中的语言值， $\\boldsymbol { \\mu } _ { \\alpha _ { \\dot { \\alpha } } ^ { k } }$ 表示方案 $x _ { i }$ 在属性下 $c _ { { } _ { j } }$ （204号隶属于Suc)的程度，ve表示方案x,在属性下c,非隶属于S(c)的程度，且满足 $\\mu _ { { } _ { \\alpha _ { i j } ^ { k } } }$ ， $\\nu _ { { } _ { \\alpha _ { i j } ^ { k } } } \\in \\left[ 0 , 1 \\right]$ ， $\\left( \\mu _ { _ { \\alpha _ { i j } ^ { k } } } \\right) ^ { 2 } + \\left( \\nu _ { _ { \\alpha _ { i j } ^ { k } } } \\right) ^ { 2 } \\leq 1 \\mathrm { ~ c ~ }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面给出利用勾股模糊语言幂加权平均算子求解勾股模糊语言多属性决策问题的具体步骤：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)计算支持度。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S u p p \\big ( \\alpha _ { _ i j } ^ { \\ k } , \\alpha _ { _ i j } ^ { l } \\big ) = 1 - d \\big ( \\alpha _ { _ i j } ^ { k } , \\alpha _ { _ i j } ^ { l } \\big ) , k , l = 1 , 2 , \\Lambda \\ , t } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $d \\big ( \\alpha _ { i j } ^ { k } , \\alpha _ { i j } ^ { l } \\big )$ 满足定义10:",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\big ( \\alpha _ { i j } ^ { k } , \\alpha _ { i j } ^ { l } \\big ) = \\frac { 1 } { 2 g } \\Big | \\theta \\big ( \\alpha _ { i j } ^ { k } \\big ) - \\theta \\big ( \\alpha _ { i j } ^ { l } \\big ) \\Big | + \\frac { 1 } { 4 } \\Big ( \\Big | \\mu _ { \\alpha _ { i j } ^ { k } } ^ { 2 } - \\mu _ { \\alpha _ { i j } ^ { l } } ^ { 2 } \\Big | + \\Big | \\nu _ { \\alpha _ { i j } ^ { k } } ^ { 2 } - \\nu _ { \\alpha _ { i j } ^ { l } } ^ { 2 } \\Big | + \\Big | \\pi _ { \\alpha _ { i } ^ { k } } ^ { 2 } - \\pi _ { \\alpha _ { i j } ^ { l } } ^ { 2 } \\Big | \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)根据专家组的权重向量计算勾股模糊语言数 $\\alpha _ { _ { i j } } ^ { k }$ 对应的支持度 $\\begin{array} { r l } { T \\left( \\alpha _ { i j } ^ { k } \\right) : } & { { } T \\left( \\alpha _ { i j } ^ { k } \\right) = \\displaystyle \\sum _ { l \\neq i } ^ { t } S u p p \\left( \\alpha _ { i j } ^ { k } , \\alpha _ { i j } ^ { l } \\right) } \\end{array}$ ，进而计算 $\\alpha _ { _ { i j } } ^ { \\ast }$ 对应的关联权重 $\\xi _ { i j } ^ { k } \\left( k = 1 , 2 , \\Lambda \\ , t \\right)$ ：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { i j } ^ { k } = \\frac { e _ { k } \\left( 1 + T \\left( \\alpha _ { i j } ^ { k } \\right) \\right) } { \\sum _ { k = 1 } ^ { t } e _ { k } \\left( 1 + T \\left( \\alpha _ { i j } ^ { k } \\right) \\right) } , k = 1 , 2 , \\Lambda , t , \\xi _ { i j } ^ { k } \\geq 0 , \\sum _ { k = 1 } ^ { t } \\xi _ { i j } ^ { k } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c)利用勾股模糊语言幂加权平均(PFLPWA）算子集结决策结矩阵U²=(α）m。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { _ { i j } } = P F P W A \\left( \\alpha _ { _ { i j } } ^ { 1 } , \\alpha _ { _ { i j } } ^ { 2 } , \\Lambda { \\ , } \\alpha _ { _ { i j } } ^ { t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\Biggl ( S _ { \\sum _ { k = 1 } ^ { \\prime } \\xi _ { \\vec { \\imath } } ^ { k } \\theta \\left( \\alpha _ { \\vec { \\imath } } ^ { k } \\right) }  , \\sqrt { 1 - \\prod _ { k = 1 } ^ { \\prime } \\left( 1 - \\mu _ { \\alpha _ { \\vec { \\imath } } ^ { k } } ^ { 2 } \\right) ^ { \\xi _ { \\vec { \\imath } } ^ { k } } } , \\prod _ { k = 1 } ^ { \\prime } \\left( \\nu _ { \\alpha _ { \\vec { \\imath } } ^ { k } } \\right) ^ { \\xi _ { \\vec { \\imath } } ^ { k } } \\Biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进而获得综合决策矩阵U=(α)，α=(Se(a) $\\alpha _ { _ { i j } } = \\left( S _ { _ { \\theta \\left( \\alpha _ { i j } \\right) } } , \\mu _ { _ { i j } } , \\nu _ { _ { i j } } \\right)$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni = 1 , 2 , \\Lambda \\ , m \\ ^ { , } \\quad j = 1 , 2 , \\Lambda \\ , n \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "d)利用勾股模糊语言加权平均(PFLWA）算子集结方案$x _ { i }$ 对应的属性值 $\\boldsymbol { \\alpha } _ { _ { i j } } = ( \\mu _ { _ { i j } } , \\nu _ { _ { i j } } )$ ， $j = 1 , 2 , \\Lambda \\ , n$ ，进而获取与方案$x _ { i }$ 对应的综合属性值 $\\alpha _ { i } = ( S _ { _ { \\theta ( \\alpha _ { i } ) } } , \\mu _ { i } , \\nu _ { i } )$ ， $i = 1 , 2 , \\Lambda$ ， $m$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { _ i } = P F P W A \\left( \\alpha _ { _ i 1 } , \\alpha _ { _ i 2 } , \\Lambda { \\ , } \\alpha _ { _ i n } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\Biggl ( S _ { \\sum _ { j = 1 } ^ { n } w _ { j } \\theta ( \\alpha _ { i j } ) } , \\sqrt { 1 - \\prod _ { j = 1 } ^ { n } \\bigl ( 1 - \\mu _ { \\alpha _ { i j } } ^ { 2 } \\bigr ) ^ { w _ { j } } } , \\prod _ { i = 1 } ^ { n } \\bigl ( \\nu _ { \\alpha _ { i } } \\bigr ) ^ { w _ { j } } \\Biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "e)根据定义6中给出的排序方法对方案 $\\left\\{ x _ { 1 } , x _ { 2 } , \\Lambda \\ , x _ { m } \\right\\}$ 按降序排列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "f根据方案的排序选择最优方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 实例分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对某投资公司选择软件项目进行投资的决策问题[8]，本文将利用上述方法来解决此问题。投资公司从软件行业的可行性角度对备选方案进行评估，考虑下述三个属性：技术可行性$c _ { \\scriptscriptstyle 1 }$ 、经济可行性 $\\boldsymbol { c } _ { 2 }$ 、操作可行性 $\\boldsymbol { c } _ { 3 }$ 。属性权重向量为@=(0.2,0.5,0.3)。该投资公司的专家组由三位专家构成$D = \\{ d _ { \\scriptscriptstyle 1 } , d _ { \\scriptscriptstyle 2 } , d _ { \\scriptscriptstyle 3 } \\}$ ，其权重向量为 $e = ( 1 / 3 , 1 / 3 , 1 / 3 ) ^ { T }$ 。专家$d _ { \\boldsymbol { k } } \\left( \\boldsymbol { k } = 1 , 2 , 3 \\right)$ 根据属性 $c _ { { \\scriptscriptstyle j } } \\big ( j = 1 , 2 , 3 \\big )$ 对方案 $x _ { i } \\left( i = 1 , 2 , 3 , 4 \\right)$ 进行评价，进而给出勾股模糊语言评价矩阵 $U ^ { k } = \\left( \\alpha _ { _ { i j } } ^ { _ k } \\right) _ { _ { 4 \\times 3 } } \\left( k = 1 , 2 , 3 \\right) \\circ$ 其中 $\\alpha _ { _ { i j } } ^ { k } = ( S _ { _ { \\theta \\left( \\alpha _ { i j } ^ { k } \\right) } , \\mu _ { _ { \\alpha _ { i j } ^ { k } } } , \\nu _ { _ { \\alpha _ { i j } ^ { k } } } } )$ 为勾股模糊语言数，采用的语言集为",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$S = \\bigl \\{ s _ { _ \\theta } \\big | \\theta = 0 , 1 , \\Lambda \\ , \\epsilon$ $6 \\} = \\left\\{ \\begin{array} { r l } \\end{array} \\right.$ 极差,很差,差,一般,好,很好,极好}",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "下面将利用第三节中所提出的基于PFLPWA 算子的决策方法对备选方案进行排序，进而获取最优方案，具体步骤如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { 1 } = \\left( \\begin{array} { c c c c } { { \\left( S _ { _ { 2 } } , 0 . 8 , 0 . 6 \\right) } } & { { \\left( S _ { _ { 3 } } , 0 . 7 , 0 . 3 \\right) } } & { { \\left( S _ { _ { 4 } } , 0 . 6 , 0 . 2 \\right) } } \\\\ { { \\left( S _ { _ { 3 } } , 0 . 7 , 0 . 6 \\right) } } & { { \\left( S _ { _ { 4 } } , 0 . 8 , 0 . 3 \\right) } } & { { \\left( S _ { _ { 2 } } , 0 . 4 , 0 . 2 \\right) } } \\\\ { { \\left( S _ { _ { 4 } } , 0 . 6 , 0 . 2 \\right) } } & { { \\left( S _ { _ { 2 } } , 0 . 6 , 0 . 4 \\right) } } & { { \\left( S _ { _ { 3 } } , 0 . 8 , 0 . 2 \\right) } } \\\\ { { \\left( S _ { _ { 2 } } , 0 . 7 , 0 . 4 \\right) } } & { { \\left( S _ { _ { 1 } } , 0 . 7 , 0 . 5 \\right) } } & { { \\left( S _ { _ { 4 } } , 0 . 9 , 0 . 2 \\right) } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ^ { 2 } = { \\left( \\begin{array} { l l l } { \\left( S _ { _ { 4 } } , 0 . 7 , 0 . 6 \\right) } & { \\left( S _ { _ { 2 } } , 0 . 7 , 0 . 6 \\right) } & { \\left( S _ { _ { 3 } } , 0 . 6 , 0 . 4 \\right) } \\\\ { \\left( S _ { _ { 1 } } , 0 . 8 , 0 . 3 \\right) } & { \\left( S _ { _ { 3 } } , 0 . 7 , 0 . 3 \\right) } & { \\left( S _ { _ { 4 } } , 0 . 6 , 0 . 3 \\right) } \\\\ { \\left( S _ { _ { 2 } } , 0 . 6 , 0 . 2 \\right) } & { \\left( S _ { _ { 4 } } , 0 . 6 , 0 . 4 \\right) } & { \\left( S _ { _ { 3 } } , 0 . 7 , 0 . 3 \\right) } \\\\ { \\left( S _ { _ { 3 } } , 0 . 6 , 0 . 4 \\right) } & { \\left( S _ { _ { 2 } } , 0 . 8 , 0 . 5 \\right) } & { \\left( S _ { _ { 5 } } , 0 . 8 , 0 . 2 \\right) } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal U } ^ { 3 } = \\left( \\begin{array} { c c c } { { \\left( S _ { { } _ { 3 } } , 0 . 5 , 0 . 6 \\right) } } & { { \\left( S _ { { } _ { 2 } } , 0 . 6 , 0 . 3 \\right) } } & { { \\left( S _ { { } _ { 6 } } , 0 . 6 , 0 . 4 \\right) } } \\\\ { { \\left( S _ { { } _ { 4 } } , 0 . 5 , 0 . 6 \\right) } } & { { \\left( S _ { { } _ { 3 } } , 0 . 6 , 0 . 3 \\right) } } & { { \\left( S _ { { } _ { 1 } } , 0 . 8 , 0 . 2 \\right) } } \\\\ { { \\left( S _ { { } _ { 2 } } , 0 . 5 , 0 . 2 \\right) } } & { { \\left( S _ { { } _ { 3 } } , 0 . 8 , 0 . 4 \\right) } } & { { \\left( S _ { { } _ { 4 } } , 0 . 5 , 0 . 2 \\right) } } \\\\ { { \\left( S _ { { } _ { 4 } } , 0 . 7 , 0 . 5 \\right) } } & { { \\left( S _ { { } _ { 2 } } , 0 . 7 , 0 . 6 \\right) } } & { { \\left( S _ { { } _ { 3 } } , 0 . 7 , 0 . 2 \\right) } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a)基于专家组提供的勾股模糊语言评价矩阵$U ^ { k } \\left( k = 1 , 2 , 3 \\right)$ 以及专家组的权重向量 $e = \\left( 1 / 3 , 1 / 3 , 1 / 3 \\right) ^ { T }$ ，利用式",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（10）\\~(12）计算出专家 $d _ { \\scriptscriptstyle k } \\left( k = 1 , 2 , 3 \\right)$ 对应的客观关联权重矩阵$\\xi ^ { k } = \\left( \\xi _ { _ { i j } } ^ { k } \\right) _ { 4 \\times 3 } \\left( k = 1 , 2 , 3 \\right) \\circ$ （204",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ^ { 1 } = \\left( \\begin{array} { r r r } { { 0 . 3 2 8 3 } } & { { 0 . 3 3 4 7 } } & { { 0 . 3 3 8 9 } } \\\\ { { 0 . 3 5 1 4 } } & { { 0 . 3 2 3 0 } } & { { 0 . 3 4 1 2 } } \\\\ { { 0 . 3 2 1 9 } } & { { 0 . 3 3 5 8 } } & { { 0 . 3 3 7 7 } } \\\\ { { 0 . 3 3 4 5 } } & { { 0 . 3 2 7 4 } } & { { 0 . 3 3 6 4 } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ^ { 2 } = { \\left( \\begin{array} { l l l } { 0 . 3 3 8 3 } & { 0 . 3 2 8 2 } & { 0 . 3 3 5 9 } \\\\ { 0 . 3 1 7 4 } & { 0 . 3 4 2 5 } & { 0 . 3 3 1 7 } \\\\ { 0 . 3 4 2 4 } & { 0 . 3 3 5 8 } & { 0 . 3 4 4 1 } \\\\ { 0 . 3 3 6 8 } & { 0 . 3 3 5 1 } & { 0 . 3 3 6 7 } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi ^ { 3 } = { \\left( \\begin{array} { l l l } { 0 . 3 3 3 4 } & { 0 . 3 3 7 1 } & { 0 . 3 2 5 2 } \\\\ { 0 . 3 3 1 2 } & { 0 . 3 3 4 5 } & { 0 . 3 2 7 1 } \\\\ { 0 . 3 3 5 7 } & { 0 . 3 2 8 5 } & { 0 . 3 1 8 2 } \\\\ { 0 . 3 2 8 8 } & { 0 . 3 3 7 5 } & { 0 . 3 2 6 9 } \\end{array} \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "b)基于上述关联权重矩阵 $\\xi ^ { k } = \\left( \\xi _ { i j } ^ { k } \\right) _ { 4 \\times 3 } \\left( k = 1 , 2 , 3 \\right)$ ，利用PFLPA 算子(式(13))",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\alpha _ { i j } = \\left( S _ { \\sum _ { k = 1 } ^ { 3 } \\xi _ { \\boldsymbol { \\imath } } ^ { k } \\theta \\left( \\alpha _ { i j } ^ { k } \\right) } , \\sqrt { 1 - \\prod _ { k = 1 } ^ { 3 } \\left( 1 - \\mu _ { \\alpha _ { i j } ^ { k } } ^ { 2 } \\right) ^ { \\xi _ { \\boldsymbol { \\imath } } ^ { k } } } , \\prod _ { k = 1 } ^ { 3 } \\left( \\nu _ { \\alpha _ { i j } ^ { k } } \\right) ^ { \\xi _ { \\boldsymbol { \\imath } } ^ { k } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "集结评价矩阵 $U ^ { \\ast } \\left( k = 1 , 2 , 3 \\right)$ 进而获得综合决策矩阵U=(α)）4x3 :",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = \\left( \\begin{array} { c c c c } { { \\left( S _ { _ { 3 . 0 1 } } , 0 . 6 9 , 0 . 6 0 \\right) } } & { { \\left( S _ { _ { 2 . 3 3 } } , 0 . 6 7 , 0 . 3 8 \\right) } } & { { \\left( S _ { _ { 4 . 3 1 } } , 0 . 6 0 , 0 . 3 2 \\right) } } \\\\ { { \\left( S _ { _ { 2 . 7 0 } } , 0 . 6 9 , 0 . 4 8 \\right) } } & { { \\left( S _ { _ { 3 . 3 2 } } , 0 . 7 1 , 0 . 3 0 \\right) } } & { { \\left( S _ { _ { 2 . 3 3 } } , 0 . 6 5 , 0 . 2 3 \\right) } } \\\\ { { \\left( S _ { _ { 2 . 6 4 } } , 0 . 5 7 , 0 . 2 0 \\right) } } & { { \\left( S _ { _ { 3 . 0 0 } } , 0 . 6 9 , 0 . 4 0 \\right) } } & { { \\left( S _ { _ { 3 . 3 2 } } , 0 . 7 0 , 0 . 2 3 \\right) } } \\\\ { { \\left( S _ { _ { 3 . 0 0 } } , 0 . 6 7 , 0 . 4 3 \\right) } } & { { \\left( S _ { _ { 1 . 6 7 } } , 0 . 7 4 , 0 . 5 3 \\right) } } & { { \\left( S _ { _ { 4 . 0 1 } } , 0 . 8 2 , 0 . 2 0 \\right) } } \\end{array} \\right) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "c)利用勾股模糊语言加权平均(PFLWA)算子(式(14))集结方案 $x _ { i }$ 对应的属性值 $\\boldsymbol { \\alpha } _ { _ { i j } } = ( \\mu _ { _ { i j } } , \\nu _ { _ { i j } } )$ ， $j = 1 , 2 , 3$ ，进而获取与方案 $x _ { i }$ （204对应的综合属性值 $\\alpha _ { i } ( i = 1 , 2 , 3 , 4 )$ ：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { \\alpha _ { _ 1 } = ( S _ { _ { 3 \\mathrm { 0 6 } } } , 0 . 6 6 , 0 . 3 9 ) , } & { \\alpha _ { _ 2 } = ( S _ { _ { 2 \\mathrm { 9 0 } } } , 0 . 6 9 , 0 . 3 0 ) , } \\\\ { \\alpha _ { _ 3 } = ( S _ { _ { 3 \\mathrm { 0 2 } } } , 0 . 6 7 , 0 . 3 0 ) , } & { \\alpha _ { _ 4 } = ( S _ { _ { 2 \\mathrm { 6 4 } } } , 0 . 7 6 , 0 . 3 8 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "d)根据定义8计算综合属性值 $\\alpha _ { i } ( i = 1 , 2 , 3 , 4 )$ 的记分函数值$s ( \\alpha _ { i } ) ( i = 1 , 2 , 3 , 4 ) :$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { s ( \\alpha _ { \\scriptscriptstyle 1 } ) = 0 . 1 4 1 6 , \\qquad } & { { } s ( \\alpha _ { \\scriptscriptstyle 2 } ) = 0 . 1 8 1 6 , } \\\\ { s ( \\alpha _ { \\scriptscriptstyle 3 } ) = 0 . 1 8 2 7 , \\qquad } & { { } s ( \\alpha _ { \\scriptscriptstyle 4 } ) = 0 . 1 8 8 5 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，综合属性值的排序为α4ΦαΦαΦα。e)根据综合属性值的排序获取方案的排序：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { \\ast } \\circledast x _ { \\ast } \\circledast x _ { \\ast } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，最优备选方案为x4。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据上述实例分析可知，在专家的评估阶段给出的评价矩阵 $U ^ { k } ( k = 1 , 2 , 3 )$ 中元素的隶属度与非隶属度值常有和大于1的情形，这在使用直觉模糊数时是不允许的，而勾股模糊数使得这类情况能够合理存在，反映了评估取值范围相较以往更为宽松。同时专家对具体选项进行评估时能够参考语言集$S = \\left\\{ \\begin{array} { r l } \\end{array} \\right.$ 极差,很差,差,一般,好,很好,极好}进行打分使专家打发更具参考性与尺度化。进一步，在专家评估信息的融合阶段，对利用勾股模糊语言幂均(PFLPWA)算子集结个体矩阵$U ^ { k } = ( \\alpha _ { i j } ^ { k } ) _ { 4 \\times 3 } ( k = 1 , 2 , 3 )$ 的过程中，矩阵中的每一个勾股模糊语言数 $\\alpha _ { i j } ^ { k }$ 都有与之对应的权重 $\\xi _ { i j } ^ { k }$ ，该权重由主观权重 $\\boldsymbol { e } _ { k }$ 和支持度 $T ( \\mathcal { \\alpha } _ { i j } ^ { k } )$ 联合构成。支持度的作用在于，当某个专家提供的评价值与其他专家评价值的距离过大时，换言之，该评价值偏离了群体意见，在此类情形下，支持度会使得该评价值在集结过程中的权重偏小。因此，PFLPWA算子的权重不会过度依赖于决策者的主观意识，该算子能够灵活处理群体决策问题。在专家组权重未知时，可以赋予专家组的每个专家同等权重，进而PFLPWA算子将退化成PFLPA算子并完成集结过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "勾股模糊语言集是直觉模糊语言集的拓展，结合了语言集和勾股模糊集，使得评价者能够参考语言集信息方便评价，并同时能够更为灵活地提供方案属性值。为了使用勾股模糊语言集处理多属性决策问题，本文构建了勾股模糊语言距离测度，并利用该距离测度定义了勾股模糊语言数之间的支持度，进而给出了勾股模糊语言幂加权平均（PFLPWA）算子和相应的群决策算法流程。该算子的权重不仅考虑了决策者主观提供的专家组权重，还考虑了客观数据之间的相互支持度以处理专家对同一选项评价的差异性。本文提出的勾股模糊语言距离测度和勾股模糊语言幂加权平均（PFLPWA）算子丰富了该领域的理论研究，基于此提出的群决策算法相较传统群决策算法，具有评价值有参考性和取值灵活性，以及考虑评价值差异性的影响等优势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Yager R R,Abbasov A M.Pythagorean membership grades,complex numbers,and decision making [J]. International Journal of Intelligent Systems,2013,28 (5): 436-452.   \n[2]Yager RR.Pythagorean membership grades in multicriteria decision making [J]. IEEE Trans on Fuzzy Systems,2014,22 (4): 958-965.   \n[3]Atanassov K T.Intuitionistic fuzzy sets [J].Fuzzy Sets & Systems,1986,20 (1): 87-96.   \n[4]Zhang X, Xu Z. Extension of TOPSIS to multiple criteria decision making with pythagorean fuzzysets [J]. International JournalofInteligent Systems, 2015,29 (12): 1061-1078.   \n[5]Peng X, Yang Y. Some results for pythagorean fuzzy sets [J]. International Jourmal of Intelligent Systems,2015,30(11):1133-1160.   \n[6]Peng X, Yuan H, Yang Y.Pythagorean fuzzy information measures and their applications [J]. International Journal of Intelligent Systems,2017.   \n[7]王坚强，李婧婧．多粒度直觉二元语义的多准则群决策方法[J].科技 信息,2009 (33): 8-9.   \n[8]彭新东，杨勇．基于Pythagorean 模糊语言集多属性群决策方法[J].计 算机工程与应用,2016,52(23):50-54.   \n[9]Herrera F, Herrera-Viedma E, Verdegay JL. A model ofconsensus in group decision making under linguistic assessments [J]. Fuzzy Sets & Systems, 1996, 78 (1): 73-87.   \n[10] $\\mathtt { X u } Z$ .A method based on linguistic aggregation operators for group decision making with linguistic preference relations [J]. Information Sciences,2004, 166 (1-4): 19-30.   \n[11]王坚强，李寒波．基于直觉语言集结算子的多准则决策方法[J].控制 与决策,2010,25 (10):1571-1574.   \n[12] Yager R R.The power average operator [J]. IEEE Trans on Systems,Man, and Cybernetics-Part A: Systems and Humans,2001,31 (6): 724-731.   \n[13] Yang Y,Ding H, Chen Z,et al.A note on extension of TOPSIS to multiple criteria decision making with pythagorean fuzzy sets [J]. International Journal of Intelligent Systems,2015,31(1): 68-72. ",
+        "page_idx": 6
+    }
+]

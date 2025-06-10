@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "近30a甘肃省河东地区极端气温指数时空变化特征及趋势预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄浩，张勃，黄涛²，王怀军³，马尚谦'，马彬，王晓丹'，崔艳强",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1西北师范大学地理与环境科学学院,甘肃兰州730070;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2西北区域气候中心,甘肃兰州730020；3淮阴师范学院城市与环境学院,江苏 淮安223300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于甘肃省河东地区61个气象站点1988—2017年逐日气温数据，利用Mann-Kendall检验,Sen's斜率估计方法分析甘肃省河东地区极端气温指数的时空变化趋势，并探讨极端气温指数与其影响因素之间的关系，最后利用NAR神经网络结合Hurst指数对甘肃省河东地区极端气温指数变化进行预测分析。结果表明：(1)从时间上看，冷极值相对指数呈下降趋势，冷极值绝对指数、暖极值以及气温日较差、作物生长期呈上升趋势。（2)从空间上看，对冷极值变化反应最为敏感的是高寒湿润区，对暖极值变化反应最为敏感的是温带半湿润区和北亚热带湿润区，除北亚热带湿润区外各区域作物生长期的变化都达到了显著水平，而气温日较差仅在温带半湿润区达到了显著水平。(3)多数极端气温指数与经纬度、海拔之间有显著相关性，但受区域自然特点影响，经度与海拔对其影响实为一类。(4)亚洲区极涡强度、北半球极涡强度以及青藏高原指数 $B$ 与极端气温指数变化有密切关系，而太阳黑子等只与个别指数之间存在显著的相关性。(5)预测出的极端气温指数冷极值相对指数仍呈现下降趋势，冷极值的绝对指数、暖极值以及气温日较差、作物生长期仍然呈现增加趋势，但大多数指数与1988—2017年相比变化幅度有所降低。(6)与其他区域相比甘肃省河东地区大多数气温指数变化幅度处于中间水平，表现出其为多种不同气候区、自然区交界地带的特色。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：河东地区；极端气温指数；时空变化；预测",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球变暖对气候系统的稳定产生了极大的影响,致使极端气候事件发生的概率不断增加[1]。突发性和破坏性是极端气候事件最显著的特点，并且难以预测，给人类生活以及社会和经济的进步与发展带来了极为不利的影响[2-3]。从全球尺度上看，过去50a的全球变暖导致了全球 $70 \\%$ 以上地区暖夜日数呈现出增加趋势，冷夜日数呈现出减少趋势[4]。中国的极端气温变化情况在很大程度上与全球趋势相同，但由于地形复杂多变，大气环流等因素，不同地区的极端温度事件都表现出独特的分布格局和演化趋势[5-7]。长江流域[8]、淮河流域[9]、黄土高原[10]、西北地区[1]和华北地区[12]等区域的极端气温变化幅度与中国总体的变化幅度有所不同，表明中国不同地区对全球变暖的极端温度响应并不均匀。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "甘肃省黄河以东区域简称为河东地区，其范围处在 $1 0 0 . 7 3 ^ { \\circ } \\sim 1 0 8 . 7 3 ^ { \\circ } \\mathrm { E }$ ， $3 2 . 5 2 ^ { \\circ } \\sim 3 7 . 3 0 ^ { \\circ } \\mathrm { N }$ 之间，是东部季风区最西部的边界，同时也是我国三大自然区(东部季风区、西北干旱区、青藏高原高寒区)的交界地带和气候过渡区域。区域内气象条件和地形地质条件复杂多样，自然景观具有显著的地域差异。在全球变暖的影响下，河东地区极端气候事件增多，导致了更多气象灾害事件产生，对农业生产产生了诸多威胁。由于历史和自然原因，河东地区集中着甘肃省 $80 \\%$ 的人口和 $73 \\%$ 的耕地资源。目前对该区域气候的研究多集中于暴雨时空格局[13]、降水特征[14]、极端降水的时间变化[15]上,而对于极端气温的变化研究涉及较少，因此了解该区域极端气温变化特征和规律，对填补该区域研究极端气候中极端气温研究具有重要意义。本文选取18个极端气温指数,运用Mann-Kendall检验,Sen's 斜率估计方法，对河东地区近30a来的极端气温变化特征进行了分析，在去趋势后对极端气温指数与大气环流以及其他影响因素之间的相互关系加以探讨，最后结合R/S分析法和动态神经网络对甘肃省河东地区极端气温指数的变化趋势进行了预测，以期为甘肃省河东地区农业生产和国民经济发展及灾害的预警提供一定思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所采用的气象数据为甘肃省河东地区61个气象站近30a来的逐日气温数据(1988—2017年数据来源于西北区域气候中心）环流指数（1987—2017年)来自于国家气候中心74项环流指数数据集。本文参考甘肃省河东地区的气候区化[16],将河东地区分为5个气候区，北部为温带半干旱区，中部为温带半湿润区，西南部为高寒湿润区，南部为暖温带湿润区、北亚热带湿润区（图1）。本文采用的气象数据均通过了标准正态一致性检验的验证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用R语言RClimDex包，对国际上被广泛采用的18种极端气温指标进行计算（表1)。使用Sen's 斜率估计方法,对61个气象站点近30a极端气温变化情况进行分析，并结合Mann-Kendall法对其进行显著性的检验，且采取Pre-Whitening 法对时间序列自相关影响进行消除[17],并对极端气温指数与经纬度、海拔以及环流指数之间的相关性进行了分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工神经网络，是一个具有非线性特征的超大规模连续时间动力系统，它是由大量的处理神经元组成的网络，具有自学习，联想储存及高速寻找优化解的能力，对于地理模式的识别能力、模拟与预测能力都非常出众[18]。由于气温是具有非线性、多变特点的气候因子，故本文选在最后结合R/S分析法和NAR神经网络模型对在未来全球增温 $1 . 5 ~ \\mathrm { { ^ { c } } }$ 情境下（RCP8.5,2025年）[19],对甘肃省河东地区极端气温极值变化趋势进行预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1极端气温指数空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从空间上看（图2），甘肃省河东地区 $F D 0 , I D 0$ 、$T X 1 0 p \\llangle T N 1 0 p$ 都处在不同程度的下降趋势中， $T N x$ 、TNn 以及TNm都处于不同程度的上升趋势中，仅有CSDI的变化趋势不够显著（由于很多站点变化趋势为0,所以在图2中不做表示）。其中 $T X 1 0 p \\llangle T N 1 0 p$ 以及TNm在甘肃省河东地区5个气候区中均达到了0.05以上显著水平， $T N n$ 仅在高寒湿润区中达到了0.05 显著水平。 $F D 0 \\ 、 I D 0 \\ 、 T X 1 0 p \\ 、 T N 1 0 p$ 日数处于减少中， $T N m \\_ T N x \\_ T N n$ 温度处在上升阶段，这种现象反映了甘肃省河东地区处在变暖的趋势下。而且从图2中根据冷极值变化不难发现在5个气候区中，高寒湿润区的所有冷极值变化趋势都达到了0.05显著水平，反映出其对冷极值的变化最为敏",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "102°E 104°E 106E 108E 102E 104°E 106E 108°E   \nN (a)气候区 N28 N (b)高程及气象站点 28   \n37 3   \nN 温带半干旱区 温带半干旱 N N 图点 N.98   \n3 3 3 分区   \nN N N 28   \n3 高寒湿润区 温带半湿润区 3 3   \nN N N DEM/m N   \n50 暖温带湿润区 15\\~\\~1963 58 1963\\~2455   \nN N N88 2455\\~3075 N   \n3 055110 220km北亚带湿 0 55110 220km 3075\\~3 666 3 101E 103°E 105°E 107E 101E 103E 105°E 107E ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1极端气温指数定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee0924ec4f63ff84288a7beb1b092e9786c8f1bf1ba5db00268121575ae49cc0.jpg",
+        "table_caption": [
+            "Tab.1Definitions of extreme climate indices "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">类别</td><td>指数名称</td><td>代码</td><td>定义</td><td>单位</td></tr><tr><td>冷</td><td>相对</td><td>霜冻日数</td><td>FD0</td><td>日最低温度低于0℃的日数</td><td>d</td></tr><tr><td>极</td><td>指数</td><td>结冰日数</td><td>ID0</td><td>日最高气温低于0℃的日数</td><td>d</td></tr><tr><td>值</td><td></td><td>冷夜日数</td><td>TN10p</td><td>日最低气温<10%分位值的日数</td><td>d</td></tr><tr><td rowspan=\"5\"></td><td></td><td>冷昼日数</td><td>TX10p</td><td>日最高温度<10%分位值的日数</td><td>d</td></tr><tr><td></td><td>冷日持续指数</td><td>CSDI</td><td>每年至少连续6d最低气温<10%分位值的日数</td><td>d</td></tr><tr><td>绝对</td><td>最低气温极小值</td><td>TNn</td><td>年日最低气温极小值</td><td>℃</td></tr><tr><td>指数</td><td>最低气温极大值</td><td>TNx</td><td>年日最低气温极大值</td><td>℃</td></tr><tr><td></td><td>最低气温平均值</td><td>TNm</td><td>年日最低气温平均值</td><td>C</td></tr><tr><td>暖</td><td>相对</td><td>夏日日数</td><td>SU25</td><td>日最高气温大于25℃的日数</td><td>d</td></tr><tr><td>极</td><td>指数</td><td>热夜日数</td><td>TR20</td><td>日最低气温大于20℃的日数</td><td>d</td></tr><tr><td rowspan=\"5\">值</td><td></td><td>暖昼日数</td><td>TX90p</td><td>日最高气温>90%分位值的日数</td><td>d</td></tr><tr><td></td><td>暖夜日数</td><td>TN90p</td><td>日最低气温>90%分位值的日数</td><td>d</td></tr><tr><td></td><td>热日持续指数</td><td>WSDI</td><td>每年至少连续6d最高气温>90%分位值的日数</td><td>d</td></tr><tr><td>绝对</td><td>最高气温极小值</td><td>TXn</td><td>年日最高气温极小值</td><td></td></tr><tr><td>指数</td><td>最高气温极大值</td><td>TXx</td><td>年日最高气温极大值</td><td>℃</td></tr><tr><td rowspan=\"2\"></td><td></td><td>最高气温平均值</td><td>TXm</td><td>年日最高气温平均值</td><td>℃</td></tr><tr><td></td><td>气温日较差</td><td>DTR</td><td>最高气温与最低气温的差值</td><td>d</td></tr><tr><td colspan=\"2\">其他指数</td><td>作物生长期</td><td>GSL</td><td>首次气温连续6d>5℃与首次气温连续6d连续<5℃的日数</td><td>d</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "感，而且之前的研究有显示，位于高海拔的区域其较之于位于低海拔的区域对全球变暖的响应表现的更加敏感[20]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃省河东地区 SU25、TR20、TX90p、TN90p、TXn、 $T X x$ 、 $T X m$ 均呈现出不同程度的上升趋势（由于WSDI站点变化趋势大多呈现为0，故在图2中不加以显示）。其中 $S U 2 5 \\_ T X 9 0 p \\_ T N 9 0 p \\_ T X m$ 在甘肃省河东地区5个气候区中均达到了0.05显著水平；$T X x$ 仅在温带半干旱区未达到0.05显著水平；TR20仅在暖温带湿润区和高寒湿润区未达到0.05显著水平。综合反映出甘肃省河东地区整体变暖的趋势。从图2中根据暖极值变化可以发现，温带半湿润区、北亚热带湿润区，7个暖极值中有6个都达到了0.05显著水平，反映出其对暖极值指数的变化最为敏感。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃省河东地区DTR、GSL均处在不同程度的上升趋势中，其中GSL在甘肃省河东地区温带半干旱区、温带半湿润区、暖温带湿润区、高寒湿润区这4个气候区中达到了0.05显著水平；DTR仅在温带半湿润区中达到了0.05显著水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2极端气温指数的时间变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃省河东地区, $F D 0 \\ 、 I D 0 \\ 、 C S D I \\ 、 T X 1 0 p \\ 、 T N 1 0 p$ 这些冷极值相对指数均呈下降趋势，其下降幅度分别为 $- 5 . 7 2 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ \\mathrm { ~ a ~ } ) ~ } ^ { - 1 } \\mathrm { ~ , ~ } - 3 . 2 1 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ \\mathrm { ~ a ~ } ) ~ } ^ { - 1 } \\mathrm { ~ , ~ }$ $- 0 . 6 1 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\mathrm { ~ , ~ } - 1 . 8 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\mathrm { ~ l ~ }$ 以及-1.9$\\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ $T N n \\ 、 T N x \\AA , T N m$ 冷极值绝对指数均呈上升趋势,其上升幅度分别为 $0 . 4 8 \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ C ~ } \\cdot \\left( 1 0 \\mathrm { ~ a ~ } \\right) ^ { - 1 } \\sqrt { 0 . 4 6 }$ $\\mathcal { \\mathrm { ~ C ~ } } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } , 0 . 3 8 \\mathrm { ~ \\mathcal { ~ C ~ } ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 }$ （图3）。以上冷极值中 $F D 0$ 的变化幅度要大于 $I D 0$ 的变化幅度, $T N 1 0 p$ 的变化幅度要大于 $T X 1 0 p$ ， $T N n$ 的变化幅度要大于$T N x$ ,反映出冷极值中低极值的变化速度幅度要大于高极值。在所有冷极值指数中， $T N n , T N x$ 达到了0.05显著水平， $I D 0 \\sqrt { N 1 0 p } \\sqrt { X 1 0 p }$ 达到了0.01显著水平， $F D 0$ 与TNm则达到了0.001显著水平，仅有CSDI的变化不显著（图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃省河东地区, $S U 2 5 \\_ T R 2 0 \\_ W S D I \\setminus T X 9 0 p .$ $T N 9 0 p$ 这些暖极值相对指数均呈现出不同程度的上升趋势,其上升的幅度分别为 $6 . 0 6 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 、$1 . 2 3 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \\cdot 1 . 4 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \\cdot 3 . 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \\cdot 3 . 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 2 ~ ) ~ }$ a) $^ { - 1 } \\cdot 3 . 1 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ；而 $T X n \\ 、 T X x \\ 、 T X m$ 暖极值绝对指数也均呈现出上升趋势，其上升幅度分别为$0 . 3 2 \\mathrm { ~ \\% ~ } \\cdot ( 1 0 \\mathrm { ~ a ~ } ) \\textsuperscript { - 1 } \\mathrm { ~ 0 . 7 4 \\mathrm { ~ \\% ~ } \\cdot ( 1 0 \\mathrm { ~ a ~ } ) \\textsuperscript { - 1 } \\mathrm { ~ 0 . 6 4 \\mathrm { ~ \\% ~ } } ~ } .$ （20$\\left( 1 0 \\mathrm { ~ a ~ } \\right) ^ { - 1 }$ （图4）。以上暖极值中 $T X 9 0 p$ 的变化幅度要大于 $T N 9 0 p$ ， $T X x$ 的变化幅度要大于 $T X n$ ,反映出暖极值中高极值的变化幅度要大于低极值。在所有暖极值指数中， $T R 2 0 , T X x$ 达到了0.05显著水平，SU25、WSDI达到了0.01显著水平，而 $T X 9 0 p$ 、$T N 9 0 p$ 和 $T X m$ 则达到了0.001的显著水平，仅 $T X n$ 没有达到显著水平（图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃省河东地区DTR（图3） $G S L$ （图4）均呈现注：图中区域灰色由浅到深分别表示达到 $0 . 0 5 \\ 、 0 . 0 1 \\ 、 0 . 0 0 1$ 显著水平$\\left( \\mathbf { a } \\sim \\mathbf { g } \\right)$ 为冷极值指数、 $\\left( \\mathbf { h } \\sim \\mathbf { n } \\right)$ 为暖极值指数、 $\\left( \\mathbf { \\sigma _ { 0 } } \\sim \\mathbf { \\sigma _ { p } } \\right)$ 为其他极值指数出上升趋势，其上升幅度分别为 $0 . 2 4 \\mathrm { ~ \\textdegree C }$ ·（10a) $^ { - 1 } \\cdot 7 . 7 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 。这2个极值中DTR达到了0.05显著水平，而GSL 则达到了0.001显著水平。甘肃省河东地区DTR增加的原因，是由于低温增加幅度要小于高温增加幅度。而低温的上升则对GSL日数的增加起到了关键的作用。根据德国植物物候方面的研究显示，春季气温如果上升 $1 \\ \\mathrm { { ^ { \\circ } C } }$ ，则植物的物候期就会产生 $2 . 5 \\sim 6 . 7 \\mathrm { ~ d ~ }$ 的提前趋势，并且植物的生长季也会出现 $2 . 4 \\sim 3 . 5 \\mathrm { ~ d ~ }$ 的延长，秋季温度增高也会出现有同样的作用[20]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/39c24cbcff5f04b6838a834bad2b84e5396772749293ecb73b252cc9ac34a8c0.jpg",
+        "img_caption": [
+            "图2甘肃省河东地区极端气温指数空间变化趋势",
+            "Fig.2Spatial variation trend of extreme temperature index in Hedong area，Gansu Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3极端气温指数与经纬度、海拔之间关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，冷极值中与海拔显著正相关的是FDO，显著负相关的有 $T N x , T N m$ ;暖极值中 $S U 2 5$ 、$T X x$ 与海拔具有显著负相关性; $\\boldsymbol { G } \\boldsymbol { S } \\boldsymbol { L }$ 与海拔也存在显著负相关关系。说明随海拔升高，河东地区 $F D 0$ 日数增多， $T N x \\ 、 T N m \\ 、 S U 2 5 \\ 、 T X x \\ 、 G S L$ 则会下降或减少。冷极值中与纬度显著正相关的有 $F D 0 , I D 0$ 、CS-DI,存在显著负相关关系的有 $T N n \\_ T N m$ ;暖极值中,与纬度存在显著负相关性的有 $T R 2 0 \\ 、 T X n ; G S L$ 与纬度也存在显著负相关。表明河东地区随着纬度升高， $F D 0 \\ 、 I D 0 \\ 、 C S D I$ 增多,而 $T N n \\ 、 T N m 、 T R 2 0 \\ 、 T X n \\ 、$ （20GSL 则会下降或减少。与经度存在显著正相关性的指数有 $T N x \\ 、 T N m \\ 、 S U 2 5 \\ 、 T X 9 0 p$ 、WSDI、 $T X x$ 、TXm、$G S L$ ;与经度存在显著负相关的指数有 $F D 0 \\ 、 D T R$ ，但由于河东地区西部较东部海拔相对较高，所以这仍可归结于受海拔影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4ed5289061fee81a9fc50b2c8b1b897954a9edef92c70c25e3f3de28031ddba.jpg",
+        "img_caption": [
+            "注：图中直线为线性趋势，曲线为卷积平滑曲线，仅用作森斜率的视觉表征(下图同) ",
+            "图31988—2017年甘肃省河东地区冷极值与DTR年际变化",
+            "Fig.3Interannual variations of cold extremes and $D T R$ in Hedong area，Gansu Province during 1988 - 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4环流与极端气温指数的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5说明了7种环流指数中影响甘肃省河东地区极端气温指数变化的环流主要有亚洲区极涡强度、青藏高原指数 $B$ 、北半球极涡强度，其余4种环流指数中仅在不同气候区与某几个极端气温指数之间存在显著的相关性。亚洲区极涡强度一般（除温带半干旱区）与冷极值相对指数具有正相关性，与冷极值绝对指数具有负相关性，与暖极值具有负相关性。青藏高原指数B（除温带半干旱区）与大多数冷极值相对指数呈负相关关系，与冷极值绝对指数、暖极值以及其DTR、GSL存在正相关关系。北半球极涡强度（除温带半干旱区）与多数冷极值相对指数具有正相关性，与冷极值绝对指数、暖极值以及DTR、GSL存在负相关性。反映出北半球极涡强度和亚洲区极窝强度的降低以及青藏高原指数 $B$ 的增加对区域变暖有着重要影响。而太阳黑子的变化仅与少数暖极值之间存在显著负相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3极端气温指数变化趋势预测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，通过NAR神经网络预测可知，甘肃省河东地区1988—2025年的极端气温指数相对于1988—2017年来说，暖极值仍然处于上升趋势，",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4de89eee83141ffd1e08f5441b34545fa00ab82a74e389c90d1bf168fa280035.jpg",
+        "img_caption": [
+            "图41988—2017年甘肃省河东地区暖极值与GSL年际变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Interannual variations of warm extremes and $G S L$ in Hedong area,Gansu Province during 1988 -2017冷极值相对指数仍然处于下降趋势，冷极值绝对指数仍然处于上升趋势，DTR、GSL仍然处于上升趋势，利用Hurst指数验证，所反映的极端气温指数的增减趋势与预测相同，但预测显示冷暖极值（除$I D 0 \\sqrt { R { 2 0 } \\sqrt { \\cal G } S L }$ 外）的变化幅度与1988—2017 年的变化幅度相比有所减小，说明甘肃省河东地区仍然处于变暖的趋势中，但是变暖的幅度会有所降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/50879154da695e1f447b9beb386d2c7ae48cf47ae43e9f157e3fde37b1965dfd.jpg",
+        "table_caption": [
+            "表2气温指数与经纬度、海拔的相关性",
+            "Tab.2 Correlation of temperature index with longitude，latitude and altitude "
+        ],
+        "table_footnote": [
+            "注：表中数字加粗表示显著"
+        ],
+        "table_body": "<html><body><table><tr><td>极端指数</td><td>FD0</td><td>IDO</td><td>TN10p</td><td>TX10p</td><td>CSDI</td><td>TNx</td><td>TNn</td><td>TNm</td><td>DTR</td></tr><tr><td>经度</td><td>-0.43</td><td>-0.17</td><td>0.16</td><td>0.18</td><td>0.08</td><td>0.64</td><td>0.25</td><td>0.53</td><td>-0.37</td></tr><tr><td>纬度</td><td>0.44</td><td>0.52</td><td>-0.26</td><td>-0.27</td><td>0.57</td><td>-0.16</td><td>-0.61</td><td>-0.35</td><td>0.25</td></tr><tr><td>海拔</td><td>0.38</td><td>0.15</td><td>-0.06</td><td>-0.08</td><td>-0.03</td><td>-0.41</td><td>-0.29</td><td>-0.39</td><td>0.27</td></tr><tr><td>极端指数</td><td>SU25</td><td>TR20</td><td>TX90p</td><td>TN90p</td><td>WSDI</td><td>TXx</td><td>TXn</td><td>TXm</td><td>GSL</td></tr><tr><td>经度</td><td>0.53</td><td>0.23</td><td>0.60</td><td>0.09</td><td>0.62</td><td>0.52</td><td>0.16</td><td>0.43</td><td>0.37</td></tr><tr><td>纬度</td><td>-0.05</td><td>-0.47</td><td>0.16</td><td>-0.12</td><td>-0.14</td><td>0.07</td><td>-0.75</td><td>-0.25</td><td>-0.44</td></tr><tr><td>海拔</td><td>-0.35</td><td>-0.17</td><td>-0.27</td><td>-0.02</td><td>-0.09</td><td>-0.36</td><td>-0.19</td><td>-0.33</td><td>-0.36</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "就极端气温指数的变化趋势而言，中国整体1961—2003 年 $T X 1 0 p$ 和 $T N 1 0 p$ 的平均趋势分别下降了 $0 . 4 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 和 $2 . 0 6 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ，而$T X 9 0 p$ 和 TR20的平均趋势分别上升了 $0 . 6 2 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0$ a)-1和 $1 . 7 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 。同期，全国 $F D 0$ 呈明显",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.73 亚洲区极涡强度 \\*\\*\\* \\*\\*\\* \\*\\* \\*\\*\\* \\*\\*   \n区 西太平洋指数   \n原肌 青藏高原指数B \\*\\*\\* \\*\\* \\*\\* \\*\\*\\* 安安\\*米餐\\* 北半球极涡强度 \\* \\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\* \\*\\*\\* 太平洋十年涛动 太阳黑子 多元ENSO   \n区票出 亚洲区极涡强度 \\*\\*\\* \\* \\*\\*\\* \\*\\* -0.45 西太平洋指数 青藏高原指数B \\* \\*\\*\\* \\* \\*\\* 宋\\*\\*\\* 北半球极涡强度 \\*\\* \\*\\* \\*\\*\\*\\*\\*\\* \\*\\*\\* 太平洋十年涛动 \\* 太阳黑子 \\* 多元ENSO \\* 0.17 亚洲区极涡强度 \\*\\*\\* \\*\\*\\*\\*\\* \\* \\*   \n吉士末 \\*\\* \\*\\* \\*\\*\\*\\*\\* 中\\* \\*\\*\\*\\* \\* \\*   \n带 太平洋十年涛动 \\* \\*   \n温 太阳黑子 多元ENSO \\* -0.12   \n末集 北半球极涡强度 \\* \\*\\*\\* \\*\\*\\*\\* \\*\\* \\*\\* \\*\\*\\*\\*\\* .. .. . \\*\\* \\* 太平洋十年涛动   \n温 太阳黑子 \\* 多元ENSO 一 --0.40   \n集亚 亚洲区极涡强度 \\*\\* 水\\* 西太平洋指数 青藏高原指数B \\* \\*\\* \\*\\*\\*\\* \\*\\*\\*\\* 北半球极涡强度 \\*\\* 1 \\*\\* \\*\\*\\* \\*\\* 太平洋十年涛动 太阳黑子 \\* \\* 多元ENSO -0.69 D 0 dOINL IXL 0 CSST UNL T Z UINL 公 sS TTR0 d06N N d06XL ISSS UXL 区 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/85d1850452262eb58f3e313d778aecb92b3c745032fb7e626194f8d894603e07.jpg",
+        "img_caption": [
+            "黄浩等：近30a甘肃省河东地区极端气温指数时空变化特征及趋势预测",
+            "注：图中黄色部分是由于在高寒湿润区TR20缺失",
+            "图5极端气温指数与环流之间的相关性",
+            "Fig.5 Correlation between extreme temperature index and circulation ",
+            "图6极端气温指数预测示意图",
+            "Fig.6Prediction sketch of extreme temperature index "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：黑色实线线代表1988—2017年值，灰色划线代表2018—2025年值，变化趋势见表3下降趋势，每 $1 0 \\mathrm { ~ a ~ }$ 减少 $3 . 3 7 \\mathrm { ~ d } , S U 2 5$ 呈明显上升趋势,每10a增加 $1 . 1 8 \\mathrm { ~ d } ^ { [ 2 1 ] }$ 。而甘肃省河东地区的$T X 1 0 p \\ 、 T N 1 0 p \\ 、 T N 9 0 p \\AA . S U 2 5$ 的变化幅度要大于中国整体水平，而 $F D 0 \\ 、 T N 1 0 p$ 的变化幅度要低于全国水平。就距离较近的区域来说,在黄土高原,1960—2013年 $S U 2 5$ 和 TR20 平均增加 $2 . 7 6 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 和 $1 . 2 4 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ ， $F D 0$ 及 $I D 0$ 则分别减少3.22$\\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 和 $2 . 2 1 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 [ 2 2 ] }$ ,在甘肃省河东地区这几种极端气温指数的变化幅度都要大于黄土高原地区;在青藏高原东缘区域, $S U 2 5 , T X 9 0 p$ 、TR20平均增加 $1 . 5 6 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\cdot 3 . 4 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0$ a)-1、4.44d·(10 a)-1, $I D 0 \\ 、 F D 0 、 T X 1 0 p 、 T N 9 0 p$ 平均减少 $1 . 8 6 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } 4 . 0 2 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 } \\mathrm { ~ } \\mathrm { ~ } \\mathrm { ~ } 2 . 7 4 \\mathrm { ~ d ~ }$ （20（204号 $\\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 } \\cdot 5 . 8 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ 1 0 ~ a ~ ) ~ } ^ { - 1 [ 2 ] }$ ,在甘肃省河东地区， $. S U 2 5 \\ : , I D 0 \\ : , T X 9 0 p$ 的变化幅度比青藏高原东缘要大,其他则均小于青藏高原东缘地区。结合三江源地区[23]的变化趋势,再次验证了高海拔区域极端气温指数的变化幅度一般要大于低海拔区域。总体上，甘肃省河东地区与全国以及全球极端气温指数变化趋势一致，但不同区域的趋势略有不同，而甘肃省河东地区虽然作为一个小区域，但其作为中国三大自然区以及多种气候区过渡地带，其区域特征较为显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3fde87025324fedcc338b291195ebe3eeee04856efa5b898c9f6ca41b848a4f.jpg",
+        "table_caption": [
+            "表3预测前后气温指数变化趋势对比",
+            "Tab.3Comparison of temperature index change trends before and after forecasting "
+        ],
+        "table_footnote": [
+            "注：加粗表示与Hurst指数反映出的趋势相同"
+        ],
+        "table_body": "<html><body><table><tr><td>气温指数</td><td>FD0</td><td>ID0</td><td>CSDI</td><td>TN10p</td><td>TX10p</td><td>TNx</td><td>TNn</td><td>TNm</td><td>DTR</td></tr><tr><td>1988—2017</td><td>-5.72</td><td>-3.21</td><td>-0.61</td><td>-1.89</td><td>-1.85</td><td>0.46</td><td>0.48</td><td>0.38</td><td>0.24</td></tr><tr><td>2018-2025</td><td>-5.41</td><td>-3.57</td><td>-0.57</td><td>-1.44</td><td>-1.23</td><td>0.33</td><td>0.41</td><td>0.35</td><td>0.21</td></tr><tr><td>1998—2012</td><td>-0.37</td><td>3.00</td><td>0.23</td><td>1.32</td><td>2.48</td><td>-0.04</td><td>-1.28</td><td>-0.08</td><td>-0.45</td></tr><tr><td>气温指数</td><td>SU25</td><td>TR20</td><td>WSDI</td><td>TX90p</td><td>TN90p</td><td>TXx</td><td>TXn</td><td>TXm</td><td>GSL</td></tr><tr><td>1988—2017</td><td>6.06</td><td>1.23</td><td>1.4</td><td>3.7</td><td>3.15</td><td>0.74</td><td>0.32</td><td>0.64</td><td>7.77</td></tr><tr><td>2018-2025</td><td>5.79</td><td>1.41</td><td>1.32</td><td>3.32</td><td>2.34</td><td>0.62</td><td>0.21</td><td>0.53</td><td>7.81</td></tr><tr><td>1998—2012</td><td>-3.95</td><td>0.10</td><td>-1.27</td><td>-0.08</td><td>1.09</td><td>-0.86</td><td>-0.98</td><td>-0.50</td><td>1.87</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于许多学者已经证明了中国部分地区的温度异常与大气和海洋环流模式之间存在着显著的关系[24 -26],但一些海洋性的大气环流对位于西北内陆的甘肃省河东地区来说，只是影响少数几个极端气温指数的变化，有研究发现中国气温指数变化与MEI之间的相关性不显著[27],这与本文的研究发现相符合。本研究发现青藏高原指数 $B$ 近30a的变化对于本区变暖趋势具有正相关性，河东地区是西北干旱区与东部季风区交界区域，有研究表明青藏高原指数 $B$ 影响着西北干旱区的气候极值突变，气温和降水极值在1985年突变后出现显著增加趋势[28]。而极窝的变化则会对全球陆地的气候变化有重要影响，亚洲区极窝强度减弱会使得极端低温事件减少[29];同时由于全球变暖,西风急流有所加强，导致北半球极窝收缩、强度减弱，削弱了冷空气向南的影响[30] C",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文最后利用NAR神经网络对甘肃省河东地区极端气温变化趋势进行了预测并且结合Hurst指数对其预测的趋势方向进行了验证，这样既可以验证神经网络学习后反馈结果的趋势是否合理，同时也克服了Hurst指数仅能反映现有趋势是否会延续或有转折的缺点。从预测结果来看，甘肃省河东地区未来仍然会保持变暖的趋势，但各极端气温变化幅度会有所降低。当然，由于神经网络的学习基于样本数据，这种趋势仍可能受1998—2012 年全球变暖减缓的影响[31-32],本文在研究中考虑到这种可能性，故计算了1998—2012年的极端气温指数变化情况，发现这一时期气温指数反映出甘肃省河东地区存在增温减缓的现象，不过从整体上看这个阶段后气温又迅速增高，而之前杜勤勤等[33]在中国气温变化对全球变暖停滞响应的研究中也有类似发现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）从空间上看，甘肃省河东地区冷极值的相对指数均呈现出下降趋势，冷极值的绝对指数、暖极值以及其他指数均呈现上升趋势。5个气候区中，对冷极值变化反应最为敏感的是高寒湿润区；对暖极值变化反应最为敏感的是温带半湿润区和北亚热带湿润区。从时间上看，甘肃省河东地区冷暖极值都处在不同幅度的增减趋势中。冷极值的变化幅度上低极值要大于高极值，暖极值的变化幅度上高极值要大于低极值，而DTR、GSL均呈现出显著的上升趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）大多数极端气温指数与经纬度和海拔之间存在显著相关性，由于海拔高度差异河东地区经度的影响实际与海拔有关。与极端气温指数相关性较好的环流指数有亚洲区极涡强度、北半球极涡强度和青藏高原指数 $^ { B , 3 }$ 种环流指数 $3 0 \\mathrm { ~ a ~ }$ 变化对区域变暖有重要影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）NAR神经网络预测趋势显示，冷极值的相对指数仍处在下降趋势中，冷极值的绝对指数、暖极值以及DTR和GSL仍处在上升趋势中，但预测出的大多数气温指数变化幅度要小于1988—2017年的变化幅度。Hurst指数显示河东地区极端气温指数现有变化趋势会有延续。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]DONG Buwen,SUTTON R T,CHEN Wei,et al.Abrupt summer warming and changes in temperature extremes over northeast Asia since the mid-199Os:Drivers and physical processes[J].Advances in Atmospheric Sciences,2016,33（9）:1005-1023.   \n[2]赵雪雁,雒丽，王亚茹,等.1963—2012年青藏高原东缘极端气 温变化特征及趋势[J].资源科学，2014,36（10)：2113-2122. [ ZHAO Xueyan,LUO Li, WANG Yaru,et al. Extreme temperature events in eastern edge of the Qinghai-Tibet Plateau from 1963 to 2012[J]. Resources Science,2014,36(10）:2113 -2122.]   \n[3］王怀军,潘莹萍,李帅,等.基于栅格数据的气象灾害风险评估 [J].聊城大学学报（自然科学版）,2019,32（3）：99－110. [WANG Huaijun,PAN Yingping,LI Shuai,et al.Risk assessment and zonation of meteorological disastersbased on rasterization in Jiangsu Province[J]. Journal of Liaocheng University(Natural Science Edition），2019,32(3）:99-110.]   \n[4]ALEXANDER L V,ZHANG X,PETERSON T C,et al. Global observed changes in daily climate extremes of temperature and precipitation[J]. Journal of Geophysical Research,2006,111（D5）: doi:10.1029/2005JD006290.   \n[5]DIFFENBAUGH N S,SINGH D,MANKIN J,et al. Quantifying the influence of global warming on unprecedented extreme climate events[J]. Proceedings of the National Academy of Sciences,2017, 114(19) :4881 -4886.   \n[6]ABIODUN B J,LAWAL K A,SALAMI A T,et al.Potential influences of global warming on future climate and extreme events in Nigeria[J]. Regional Environmental Change,2013,13（3）:477 - 491.   \n[7]SWAIN D L,HORTON D E,SINGH D,et al. Trends in atmospheric patterns conducive to seasonal precipitation and temperature extremes in California[J]．Science Advances，2016,2（4）： e1501344，doi:10.1126/sciadv.1501344.   \n[8]TIAN Q,YANG S. Regional climatic response to global warming: Trends in temperature and precipitation in the Yellow,Yangtze and Pearl River basins since the 195Os[J]. Quaternary International, 2017,440;1 - 11.   \n[9]王怀军,潘莹萍,陈忠升.1960—2014 年淮河流域极端气温和 降水时空变化特征[J].地理科学,2017,37（12）：1900-1908. [WANG Huaijun,PAN Yingping,CHEN Zhongsheng. Spatial and temporal patterns of temperature and precipitation extremes in the Huaihe River Basin,China in 1960-2014[J].Scientia Geographica Sinica,2017,37(12):1900—1908.]   \n[10］李志,郑粉莉,刘文兆.黄土高原极端温度事件的时空变化 [J].自然灾害学报,2011,20(6）:6-12.[LI Zhi,ZHENG Fenli,LIU Wenzhao.Study on spatiotemporal changes of extreme temperature events in Loess Plateau[J]. Journal of Natural Disasters, 2011,20(6):6 -12.]   \n[11］汪宝龙,张明军,魏军林,等.西北地区近50a气温和降水极端 事件的变化特征［J]．自然资源学报,2012,27（10）:1720- 1733.[WANG Baolong,ZHANG Mingjun,WEI Junlin,et al. The change in extreme events of temperature and precipitation over northwest China in recent 5O years[J]. Journal of Natural Resouses，2012,27(10):1720-1733.]   \n[12］王冀,蒋大凯,张英娟.华北地区极端气候事件的时空变化规 律分析[J].中国农业气象,2012,33（2)：166-173.[WANG Ji,JIANG Dakai,ZHANG Yingjuan.Analysis on spatial and temporal variation of extreme climate events in north China[J]. Chinese Journal of Agrometeorology,2012,33（2）:166-173.]   \n[13］马金辉,卢秀丽.甘肃省河东地区不同时段暴雨空间格局研究 [J].干旱区资源与环境,2008,22（7）:71－76.[MA Jinhui,LU Xiuli.Spatial structure analysis for different intervals’rainstormin the eastern regions of Gansu[J]. Journal of Arid Land Resources and Environment,2008,22（7） :71-76.]   \n[14］孙旭映.甘肃省河东地区降水特征及天气系统分型[J].干旱 区资源与环境,2006,20(4）:35-39.[SUN Xuying.The precipitation characteristic and weather system types of precipitation in east Gansu[J]. Journal of Arid Land Resources and Environment, 2006,20(4) :35-39.]   \n[15］李小亚,张勃.1960—2011 年甘肃省河东地区极端降水变化 [J].中国沙漠,2013,33（6）:1884-1890.[LI Xiaoya,ZHANG Bo.Extreme precipitation in 1960- 2011 over Hedong area of Gansu,China[J]. Journal of Desert Research,2013,33（6） :1884 -1890.]   \n[16］李栋梁,刘德祥.甘肃气候[M].北京：气象出版社,2000：55 100.[LI Dongliang,LIU Dexiang. Climate of Gansu[M]. Beijing: China Meteorological Press,2000:55-100.]   \n[17]YUE S,PILON P,PHINNEY B,et al.The influence of autocorrelation the ability to detect trend in hydrological series[J].Hydrological Processes,2002,16(9):1807-1829.   \n[18］葛宇生.基于NAR 动态神经网络后验信息的概率水文预报 [D].哈尔滨：东北农业大学,2016.［GE Yusheng．Probabilistic hydrology forecasting based on NAR Dynamic Neural Network posterior information[D].Harbin:Northeast Agricultural University, 2016.]   \n[19］胡婷,孙颖,张学斌.全球1.5和2℃温升时的气温和降水变 化预估[J].科学通报,2017,62（26）)：3098－3111.[HU Ting, SUN Ying,ZHANG Xuebin. Temperature and precipitation projection at 1.5 and $2 { \\textrm { ‰} }$ increase in global mean temperature[J].Chinese Science Bulletin,2017,62(26）:3098 -3111.]   \n[20］姚檀栋,刘晓东,王宁练.青藏高原地区的气候变化幅度问题 [J].科学通报,2000,45(1）:98-106.[YAO Tandong,LIU Xiaodong,WANG Ninglian. The range of climate change in the Tibetan Plateau[J]. Chinese Science Bulletin,200o,45（1）:98 - 106.]   \n[21]YOU Qinglong,KANG Shichang,AGUILAR E,et al. Changes in daily climate extremes in China and their connection to the large scale atmospheric circulation during 1961-2003[J]. Climate Dynamics,2011,36(11-12) :2399- 2417.   \n[22]SUN Wenyi,MU Xingmin,SONG Xiaoyan,et al. Changes in extreme temperature and precipitation events in the Loess Plateau （China）during 1960-2013 under global warming［J].Atmospheric Research,2016,168 :33 -48.   \n[23]DING Zhiyong,WANG Yuyang,LU Ruijie. An analysis of changes in temperature extremes in the Three River Headwaters region of the Tibetan Plateau during 1961 - 2016[J].Atmospheric Research,2018,209:103 - 114.   \n[24]WANG Huijun,HE Shengping. Weakening relationship between East Asian winter monsoon and ENSO after mid-1970s[J]. Chinese Science Bulletin,2012,57(27） :3535-3540.   \n[25]HAN Wentao,WEI Jie,SHEN Xingyong,et al. Stability analysis in space-time on the response of winter temperature in China to ENSO in the past 50 years[J].Climate Environment Research,2O14,19 (1):97-106.   \n[26]LIU Wenli,ZHANG Mingjun,WANG Shengjie,et al. Changes in precipitation extremes over Shaanxi Province，northwestern China, during 1960- 2011[J].Quaternary International,2013（313- 314):118 -129.   \n[27］SHI Jun,CUILinli,MA Yue,etal. Trends in temperature extremes and their association with circulation patterns in China during 1961 - 2015[J].Atmospheric Research,2018,212:259 -272.   \n[28]CHEN Yaning,DENG Haijun,LI Baofu,et al.Abrupt change of temperature and precipitation extremes in the arid region of northwest China[J].Quaternary International,2014,336:35-43.   \n[29］史军，陈伯民，穆海振，等.长江三角洲高影响天气演变特征及 成因分析［J].高原气象,2015,34（1）：173-182.［SHIJun， CHEN Bomin,MU Haizhen,et al.Characteristics and causes of high-impact weathers in the Yangtze River Delta[J].Plateau Meteorology,2015,34（1) :173-182.]   \n[30］康彩燕，胡钰玲，王式功，等.极涡对北半球冬季气温的影响 [J].兰州大学学报（自然科学版），2017，53（2）：227－234. [KANG Caiyan,HU Yuling，WANG Shigong,et al．The effect of polar vortex on winter temperature in the Northern Hemisphere [J].Journal of Lanzhou University:Natural Sciences,2O17,53 (2):227 -234.]   \n[31]KNIGHTJ,KENNEBYJJ,FOLLAND C,et al.Do global temperature trends over the last decade falsify climate predictions?［J]. Bulletin of the American Meteorological Society,2009,90（8）:22 -23.   \n[32]KERR RA.What happened to global warming? Scientists say just wait abit[J].Science,2009,326(5949）:28-29.   \n[33］杜勤勤，张明军，王圣杰,等.中国气温变化对全球变暖停滞的 响应[J].地理学报,2018,73（9）:1748-1764.[DUQiqin, ZHANG Mingjun,WANG Shengjie,et al. Changes in air temperature of China in response to global warming hiatus[J].Acta Geographica Sinica,2018,73(9):1748-1764.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Quantifying and predicting spatial and temporal variations in extreme temperatures since 199o in Gansu Province, China ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "HUANG Hao¹， ZHANG Bo'，HUANG Tao²， WANG Huai-jun, MA Shang-qian' MA Bin'， WANG Xiao-dan'， CUI Yan-qiang' (1Collegeof Geographyand Environment Scienceof Northwest Normal University,Lanzhou73o07O,Gansu,China;   \n2Northwest Region Climate Center,Lanzhou 73oo20,Gansu,China;   \n3School of Urbanand Environmntal Sciences of Huaiyin Normal University,Huai'an 22330o,Jiangsu,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：We assembled adatabase of daily temperature data from 61 meteorological stations in the Hedong region of Gansu Province,China from 1988 to 2017.We used the Mann-Kendalltest and the Sen's slope estimation method to analyze the patterns of spatiotemporal changes in extreme temperature indices in the Hedong region of Gansu.Inaddition,we exploredtherelationship between extreme temperaturesand their influencing factors.Finaly,we applied the NAR neural network and Hurst index to predict and analyze extreme temperature index changes in Hedong.Our results yielded six major findings:(1）the relative index ofcold extreme values hasdeclined over time.The absolute indices of cold and warm extreme values are greater in magnitude,and the temperature index is worse.As a result,thecrop growth period is increasing.(（2）The areas thatare most sensitive to cold extreme changes are the alpine humid regions,while temperate semi-humid zones and northern subtropical regions are the most sensitive to warm extreme changes.With the exceptionof the northern subtropical humid region,the crop growth season changes were significantinallareas.However,diurnal temperature diferencesreached significanceonly in temperate semi-humid regions.(3）The most extreme temperature indices were significantlycorrelated with longitude,latitude,and altitude, but were also affected byregional environmental characteristics.（4）The intensityof the polar vortex in Asia,the northern hemisphere polar vortex intensity,and the Tibetan Plateau Index $B$ were all closely related to changes in the extreme temperature index.（5）Our predicted extreme temperature index matched the observed downward trend for therelative indexofcold extreme values.Italso predicted worsening of extreme heatand cold,and temperatures.Finally,itcorrectly showed lengthened growing seasons.However,most ofthe indicesdeviated slightly from the 1988- 2017 observational dataset.（6）Compared with other regions,most of the temperature index changes in Hedong were at intermediate levels,reflecting locally diverse responses in the region's various climate zones. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:Hedong area;extreme temperature index; temporal and spatial variation ；prediction ",
+        "page_idx": 9
+    }
+]

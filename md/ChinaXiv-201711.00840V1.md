@@ -1,0 +1,167 @@
+豆油部分或全部替代饲料中鱼油对中华条颈龟肠道形态及菌群结构的影响
+
+2 丁　利」 李江月」薛 珊」史海涛12 洪美玲l\*（1.海南师范大学生命科学学院，海口571158；2.中国科学院成都生物研究所，成
+
+4 郁610041)  
+5摘要：本试验通过组织切片及16S rRNA ${ \tt V } 3 \sim { \tt V } 4$ 区测序研究豆油部分或全部替代饲料中6 鱼油对中华条颈龟（Mauremys sinensis）肠道形态及菌群结构的影响。选取中华条颈龟雌龟7 [4龄，平均体重（ $1 ~ 5 5 7 { \pm } 3 0 7$ ） $\mathrm { g } ] 2 4$ 只，随机分为4组，每组6只。I组（对照组）饲喂含8 $1 \%$ 鱼油的配合饲料（全鱼油饲料，豆油与鱼油的比例为0:3），3个试验组分别饲喂用豆油9 替代全鱼油饲料中 $3 3 \%$ （Ⅱ组，豆油与鱼油的比例为1:2）、 $67 \%$ （I组，豆油与鱼油的比.0 例为2:1）和 $100 \%$ （IV组，豆油与鱼油的比例为3:0）鱼油的饲料。每周喂食2次，试验期1 为10 个月。结果表明：1）I和组十二指肠绒毛长/隐窝深度（VH/CD）显著高于ⅡI和IV2 组（ $P { < } 0 . 0 5$ ）。2）根据序列相似性 $9 7 \%$ 水平划分，I、II、I和IV组OTU总数分别为396、.3 321、347和331个，特有OTU个数分别为43、3、4和5个，分别被鉴定出139、117、128、.4 120 个属。十二肠道优势菌门主要包含拟杆菌门（Bacteroidetes）、厚壁杆菌门（Firmicutes）、.5 梭杆菌门（Fusobacteria）和变形菌门（Proteobacteria）4个门。II、和IV组梭杆菌门和变.6 形菌门所占比例增加，拟杆菌门和厚壁菌门所占比例下降，组厚壁杆菌门和拟杆菌门所占7 比例与I组差距最小。细菌 Ace 指数和香农指数表现为I组最高，其次是III和IV组，Ⅱ组.8 最小；细菌辛普森指数表现为 $\mathrm { I I }$ 组最大，其次是和IV组，I组最小。由此得出，饲喂用豆9 油替代 $67 \%$ 鱼油的饲料的中华条颈龟的肠道细胞发育成熟度以及菌群结构与饲喂全鱼油饲20 料的中华条颈龟相近。
+
+关键词：中华条颈龟；鱼油替代；肠道形态；肠道菌群结构中图分尖亏：S963 又默标识码：A 义早编亏：
+
+20 世纪以来，随着分子生物学技术及测序技术的迅猛发展，肠道微生物作为机体重要的“功能器官”逐渐进入科学家的视线，这些微生物的存在与宿主免疫、营养以及其他生命活动紧密相关，其复杂度也远远超过了人们的想象。因此，很多国家相继启动了肠道微生物组计划，2006 年美国基因组研究所首次对肠道微生物的基因功能进行了研究，发现肠道微生物基因组中富含参与碳水化合物、氨基酸、胆固醇等营养物质代谢的基因，其中大部分都是人体自身不具备的[I；2008年欧盟联合国际顶尖科研团队及中国华大基因公司启动“人类肠道宏基因组计划（MetaHIT）”[2]。而有“活化石”之称的龟鳖类动物的肠道微生物群落结构则少有报道，目前的研究仅集中在红耳龟的肠道微生物群群结构形态上[3-4]。  
+肠道菌群经长期进化与宿主形成了相对稳定的共生体系，但饲粮等环境因素能够改变肠道菌群组成及其代谢活性，进而影响机体对营养物质的消化吸收。研究表明，高脂饮食（饲粮）使肠道菌群组成和细菌丰度发生很大变化，导致肠道微生态失调[5-7]。饲喂高脂饲粮的大鼠，其肠道菌群中拟杆菌门（Bacteroidetes）所占比例减少，而厚壁菌门（Firmicutes）和变形菌门（Proteobacteria）所占比例增加[8]。饲粮中多不饱和脂肪酸（PUFAs）含量不同亦能显著影响对虾[9]（Litopenaeus vannamei）、山麻鸭[10](Anas platyrhynchos)等肠道菌群的组成，而肠道菌群与肠道上皮细胞之间的相互作用将导致肠道形态和功能的改变[1]。  
+龟类养殖作为水产养殖的新兴产业，其饲料配方的脂肪来源仍以鱼油为主。但当前鱼油资源日益消耗，产量已远远跟不上需求，加上鱼油具有极易被氧化而不利于长期保存等缺点[12]，使得廉价且产量丰富的植物油尤其是豆油替代鱼油的相关营养学研究备受人们关注。我们的前期研究表明中华条颈龟（Mauremys sinensis）饲料中豆油替代鱼油后可显著影响机体对脂肪的吸收利用[13]，但不同饲料对肠道形态和微生物群落结构的影响研究尚属空白。因此，本试验通过调节饲粮中豆油与鱼油的添加比例，利用组织染色法和 Ilumina Miseq 高通量测序技术从组织学和宏基因组学的角度研究豆油替代鱼油后中华条颈龟肠道形态及菌群结构的变化，旨在为豆油替代鱼油在中华条颈龟生产中的应用效果的研究提供肠道方面的基础资料。  
+1材料与方法  
+1.1试验设计与饲料配制  
+以超级蒸汽鱼粉、去皮豆粕为蛋白质源，配制含 $1 \%$ 鱼油（进口的秘鲁鱼油）的配合饲料（全鱼油饲料），然后在全鱼油饲料的基础上用豆油（益海嘉里食品营销有限公司生产的金龙鱼大豆油）分别替代 $3 3 \%$ 、 $67 \%$ 和 $100 \%$ 的鱼油，配制成3种试验饲料，4种饲料中豆油与鱼油的比例分别为0:3（I组，作为对照组）、1:2（I组）、2:1（I组）、3:0（IV组）。饲料组成及营养水平见表1。各饲料蛋白质水平控制在 $45 \%$ 左右、脂肪水平控制在 $8 \%$ 左右。饲料原料的选取以尽可能的降低脂类的含量为标准，各饲料原料经60目筛网过滤，经充分混匀后利用绞肉机做成湿状饲料（由佛山市顺德区均安镇源大饲料厂代加工），置于 ${ } _ { - 2 0 \mathrm { ~ \textdegree ~ } }$ 冰箱中保存备用。
+
+# 表1饲料组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of diets （air-dry basis）  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>I</td><td>Ⅱ</td><td>Ⅲ</td><td>IV</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>超级蒸气鱼粉 Steamed fish meal</td><td>54.00</td><td>54.00</td><td>54.00</td><td>54.00</td></tr><tr><td>去皮豆粕 Delulled soybean meal</td><td>17.00</td><td>17.00</td><td>17.00</td><td>17.00</td></tr><tr><td>淀粉 Starch</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td></tr><tr><td>谷胱粉Wheat gluten</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>磷酸二氢钙 CaHPO4</td><td>1.50</td><td>1.50</td><td>1.50</td><td>1.50</td></tr><tr><td>胆碱 Choline</td><td>0.25</td><td>0.25</td><td>0.25</td><td>0.25</td></tr><tr><td>多维Multi-vitaminl</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>维生素C酯VC ester</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr></table></body></html>
+
+<html><body><table><tr><td>多矿Multi-mineral2)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>鱼油 Fish oil</td><td>1.00</td><td>0.67</td><td>0.33</td><td></td></tr><tr><td>豆油 Soybean oil</td><td></td><td>0.33</td><td>0.67</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>粗蛋白质 Crude</td><td>44.28</td><td>44.36</td><td>44.25</td><td>44.31</td></tr><tr><td>protein 粗脂肪Crude fat</td><td>8.16</td><td>8.34</td><td>8.29</td><td>8.21</td></tr><tr><td>n-3系多不饱和脂肪</td><td>2.05</td><td>2.14</td><td>1.77</td><td>1.37</td></tr><tr><td>酸n-3 PUFA n-6系多不饱和脂肪</td><td></td><td></td><td></td><td></td></tr><tr><td>酸n-6 PUFA</td><td>0.65</td><td>1.10</td><td>1.41</td><td>1.31</td></tr><tr><td>n-3/n-6</td><td>3.18</td><td>1.95</td><td>1.25</td><td>1.04</td></tr></table></body></html>
+
+1每千克多维含有Contained the following per $\mathrm { k g }$ of multi-vitami : VA 10 000 000 IU, $\mathrm { V B } _ { 1 } 2 0 \mathrm { m g }$ ，VB2
+
+25 mg，VB6 $1 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 1 0 0 \mathrm { m g }$ ，VD3 3 750 000 IU，VE $5 0 \mathrm { I U }$ ，VK312 mg，生物素 biotin $1 0 \mathrm { m g }$ ，叶酸folicacid $2 . 5 ~ \mathrm { m g }$ ， $D$ 泛酸 $D$ pantothenic acid $4 0 \mathrm { m g }$ ，烟酸 nicotinic acid $8 0 \mathrm { m g }$ 。
+
+2每千克多矿含有 Contained the following per kg of multi-mineral: K $9 0 \ \mathrm { g }$ ， $\mathbf { M g } 2 7 \mathrm { g }$ ， $\mathrm { C u } 7 5 0 \mathrm { m g }$ ，Fe 13.5 mg，Mn 1.2 g, $\mathrm { Z n } 3 8 . 5 \mathrm { g }$ ， $\mathrm { ~ I ~ } 1 2 0 \ : \mathrm { m g }$ ，Se $5 0 \mathrm { m g }$ ，Co 100 mg。
+
+# 1.2试验动物与饲养管理
+
+于 2014 年11 月初从海南省文昌市泓旺农业养殖有限公司购入雌性成体中华条颈龟[4龄，平均体重（ $1 5 5 7 { \pm } 3 0 7 \$ ）g]，于海南师范大学生物楼6楼养殖室驯化2周后，随机分成4组，分别饲喂鱼油与豆油比例为3:0（I组，作为对照组）、1：2（Ⅱ组）、2:1（I组）、3:0（IV组）的饲料，每组6只。4组中华条颈龟在同一饲养室不同的饲养水池饲养，各水池定期换水、消毒，消毒剂和水源均相同。每周饲喂2次，饲喂量按体重 $1 \%$ 计算。饲喂10个月，试验结束后取样。
+
+# 1.3样品处理
+
+试验结束后中华条颈龟低温麻醉后解剖，取十二指肠并收集大肠部分肠道内容物，分别
+
+用于组织结构观察和微生物多样性分析。  
+十二指肠用生理盐水洗净后，固定于 $4 \%$ 多聚甲醛溶液中，经脱水、包埋、切片、染色等处理后，进行形态学观察。每个样本选择5张非连续切片，应用Motic数码显微镜（BA310）观察。每张切片选取正方位的上下左右4个视野计数小肠绒毛的数量；每张切片选取5处不同视野，测定肠壁肌层厚度以及5根完整绒毛的绒毛长度、隐窝深度，并计算绒毛长度/隐窝深度（VH/CD）。  
+大肠内容物用磷酸盐缓冲液（PBS）洗涤至 $5 0 ~ \mathrm { m L }$ EP 管，以甘油：内容物为1：4的体积比振荡混匀后，保存于 $- 8 0 ~ \mathrm { { ^ circ C } }$ 冰箱中，备用。保存的样品送至上海美吉生物医药科技有限公司，进行宏基因组DNA 提取，并用 $1 \%$ 琼脂糖凝胶进行电泳检测，进一步利用 Nano Drop2000 超微量紫外光分光光度计测得4个DNA样品在260和 $2 8 0 \mathrm { n m }$ 处的吸光度(OD)值，计算得出 $\mathrm { O D } _ { 2 6 0 } / _ { 2 8 0 }$ 值均在 $1 . 8 \sim 2 . 0$ 范围内。以提取的肠道菌群宏基因组DNA作为PCR反应的模板，按指定测序区域，合成带有barcode 的特异引物，进行 PCR扩增，构建llumina平台文库，利用 Illumina MiseqPE250 测序平台对样品的16SrRNA基因的 ${ \tt V } 3 \sim { \tt V } 5 \$ 区进行测序。
+
+# 1.4数据处理
+
+十二指肠组织结构的相关测定指标的数据采用平均值±标准差表示，统计分析方法为单  
+因素方差分析，若差异显著（ $P { < } 0 . 0 5$ ），则采用Duncan 法进行多重比较，相关分析在SPSS  
+16.0 软件上完成。对IlluminaMiseq PE250 测序平台测得的原始数据进行质量控制，舍弃低质量序列（read  
+尾部碱基质量 $< 2 0$ ，质控后的read $< 5 0 \mathrm { b p }$ ），以16S rRNA序列 $9 7 \%$ 的相似度作为分类操作  
+单元(operational taxonomic unit,OTU)的划分标准。定义1个OTU为不少于120个有效碱基，  
+且碱基差异小于 $3 \%$ ，即序列中碱基差异少于3个的序列群，1个OTU在结果分析中被视为  
+代表1种细菌。获得的 OUT与RDP 数据库(Release 11.1，http://rdp.cme.msu.edu)比对，从而
+
+鉴定OUT代表性序列的微生物分类地位丰富度指数（Ace指数）和 $\alpha \cdot$ -多样性指数[香农(Shannon)指数、辛普森（Simpson)指数]的计算采用Mothur1.30.1软件完成。
+
+# 2结果与分析
+
+2.1豆油部分或全部替代饲料中鱼油对中华条颈龟十二指肠组织结构的影响由表2可知，中华条颈龟饲喂不同的饲料10个月后，IⅢ组的十二指肠绒毛长度/隐窝深度与I组差异不显著（ $. P { > } 0 . 0 5$ ），而Ⅱ和IV组则显著低于I和组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。I、Ⅱ和III组的十二指肠绒毛长度差异不显著（ $P { > } 0 . 0 5$ ），但IV组显著低于前3组（ $. P { < } 0 . 0 5$ ）。就肌层厚度而言，I组显著低于 $\mathrm { I I }$ 和IV组（ $P { < } 0 . 0 5$ ），但与IⅢ组差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ）。各组的绒毛数量差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。
+
+表24组中华条颈龟十二指肠组织结构  
+Table 2Histological structure of duodenum in Mauremys sinensis in four groups   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td></tr><tr><td>绒毛长度</td><td>972.91±86.30a</td><td>961.43±30.76a</td><td>974.3±24.13a</td><td>764.28±24.83b</td></tr><tr><td>Villus length/μm</td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛数量</td><td>84.67±3.28</td><td></td><td></td><td></td></tr><tr><td>Villus number/根</td><td></td><td>85.33±6.12</td><td>84.67±3.28</td><td>75±4.73</td></tr><tr><td>肌层厚度</td><td></td><td></td><td></td><td></td></tr><tr><td>Muscular</td><td>187.72±3.79a</td><td>208.76±7.61b</td><td>206.02±7.31ab</td><td>214.59±7.49b</td></tr><tr><td>thickness/μm</td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛长度/隐窝深</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>43.03±4.77a</td><td>34.75±3.54b</td><td>40.66±2.71a</td><td>31.31±3.43b</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $\scriptstyle ( P > 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。
+
+In the same row, values with no letter or the same leter superscripts mean no significant difference ( $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ），while with different letter superscripts mean significant difference ( $\cdot P { < } 0 . 0 5$ ）2.2豆油部分或全部替代饲料中鱼油对中华条颈龟肠道细菌多样性指数的影响由图1可知，OTU数量对种类多样性的覆盖程度随着测序量的不断增大，各稀释曲线已趋于平缓，说明本次试验的测序量已经达到饱和，测序结果不会再随着测序量的增加而发生变化，测序结果能够反映中华条颈龟的肠道菌群组成的多样性。
+
+![](images/299852fb7d7d0abac95e40e567dc99e84e7a7a9aa32162d60263796f9b8877fe.jpg)  
+图1不同样品稀释曲线分析  
+Fig.1Rarefaction curve analysis of different samples
+
+由表3可知，将每个注释上的物种归类于不同的分类水平（界、门、科等水平），并将OTU 在不同样品中的序列数按相似性 $9 7 \%$ 水平划分，I、ⅡI、I和IV组OTU 总数分别为396、321、347和331个，主要代表厚壁杆菌门、拟杆菌门、梭杆菌门（Fusobacteria）及变形菌门4个优势门。在OTU水平，4个组的丰富度指数Ace指数以I组最大。就 $\mathbf {  { a } }$ -多样性指数而言，Ⅰ组的香农指数最大（4.3）而辛普森指数最小（0.0445），Ⅱ组的香农指数最小（2.91）而辛普森指数最大（0.2367），这说明I组细菌多样性最高，Ⅱ组细菌多样性最低。
+
+Table 3 The bacterial diversity analysis by 16S rRNA gene sequences   
+
+<html><body><table><tr><td>组别</td><td>可操作分类单元总数</td><td>香农指数</td><td>辛普森指数</td><td>Ace指数</td></tr><tr><td>Groups</td><td>Total number of OUT/ 个</td><td>Shanno index</td><td>Simpson index</td><td>Ace index</td></tr><tr><td>I</td><td>396</td><td>4.3</td><td>0.044 5</td><td>407</td></tr><tr><td>I</td><td>321</td><td>2.61</td><td>0.236 7</td><td>350</td></tr><tr><td>IⅢI</td><td>347</td><td>3.43</td><td>0.1017</td><td>366</td></tr><tr><td>IV</td><td>331</td><td>3.90</td><td>0.068 0</td><td>353</td></tr></table></body></html>
+
+2.3豆油部分或全部替代饲料中鱼油对中华条颈龟肠道菌群结构的影响从中华条颈龟肠道共获得了13个门117个属的菌群，且每个样本的细菌基因序列不少于15000条， $9 8 \%$ 以上的细菌为厌氧或兼性厌氧型细菌。
+
+# 2.3.1基于门分类水平进行物种注释分析
+
+中华条颈龟肠道细菌中有13个门被鉴定，分别为厚壁杆菌门、拟杆菌门、螺旋体门（Spirochaetes）、梭杆菌门、变形菌门、柔膜菌门（Tenericutes）、互养菌门（Synergistetes）、  
+放线菌门（Actinobacteria）、浮霉菌（Planctomycetes）、疣微菌门（Verrucomicrobia）、黏  
+胶球形菌门（Lentisphaerae）、蓝藻门（Cyanobacteria）、SHA-109。由图2可知，在门水平的分布上，4个组的中华条颈龟肠道内均包含4个优势菌门  
+拟杆菌门、厚壁杆菌门、梭杆菌门和变形菌门，只是在各组所占的比例不同。在I组中，拟  
+杆菌门（ $3 8 . 4 5 \%$ ）、厚壁杆菌门（ $3 0 . 9 1 \%$ ）、梭杆菌门（ $1 9 . 7 9 \%$ ）和变形菌门（ $7 . 5 1 \%$ ）共  
+同构成了肠道菌群的主要结构。豆油替代饲料中一定比例的鱼油后，梭杆菌门所占比例增加，  
+以ⅡI组最明显，达到 $5 1 . 8 5 \%$ ，构成了绝对的优势菌群，随着豆油替代比例的进一步增大（如  
+II和IⅣ组），梭杆菌门所占比例有所下降，但仍高于全鱼油的I组，基本维持在 $30 \%$ 左右。
+
+拟杆菌门和厚壁菌门在Ⅱ组所占比例最低，分别为 $2 1 . 6 7 \%$ 和 $1 5 . 9 4 \%$ 。豆油替代饲料中一定比例的鱼油后提高了变形菌门所占比例， $\mathrm { I I }$ 、II和IV组分别为 $9 . 5 1 \%$ 、 $1 3 . 4 0 \%$ 和 $1 0 . 6 7 \%$ 。除了主要菌群外，其他门分类的菌群所占比例都非常低，甚至有的门仅有为数不多的几条序列，所占比例不足 $0 . 0 1 \%$ ，且蓝藻门、SHA-109 仅出现在I组中。
+
+![](images/be1e813e1f10a2268748ab6be863f5dacc7518c4638932721f5a8bd61126bf86.jpg)  
+图2肠道细菌在门水平上的分布  
+Fig.2Intestinal bacterial distribution at the phylum level
+
+# 2.3.2基于属分类水平进行分析
+
+由图3可知，I、ⅡI、IⅢ和IV组中华条颈龟肠道细菌分别被鉴定出 139、117、128 和120个属，I组主要属为梭杆菌属（ $1 7 . 7 0 \%$ ）和拟杆菌属（Bacteroides）（ $2 4 . 1 9 \%$ ），Ⅱ组主要属为梭杆菌属（ $5 1 . 1 7 \%$ ）和邻单胞菌属（Plesiomonas）（ $6 . 8 5 \%$ ），I组主要属为梭杆菌属（ $3 1 . 9 5 \%$ ）和邻单胞菌属（ $9 . 2 5 \%$ ），IV组主要属为梭杆菌属（ $3 2 . 3 5 \%$ ）和拟杆菌属（ $1 5 . 0 1 \%$ ）。
+
+![](images/b44e68808aa0fcdfa6c6b487b6b83a1702a79ce9f1d81ec7af266eacb428060a.jpg)  
+图3肠道细菌在属水平上的分布  
+Fig.3Intestinal bacterial distribution at genus level
+
+# 2.3.3特有OTU分析
+
+由图4可知，I、ⅡI、和IV组中特有OTU个数分别为43、3、4、5个，其中Ⅱ组特有OTU 只归属于厚壁杆菌门，IⅣ组中特有OTU 属于厚壁杆菌门和拟杆菌门，IⅢ组中特有OTU 分别属于厚壁杆菌门、变形菌门、柔膜菌门，I组特有OTU所归属的门类最多，几乎含有中华条颈龟肠道细菌的所有门类，但主要属于厚壁杆菌门和拟杆菌门。
+
+![](images/4b0fd9e8c768ff64ffde42801e75186ecd6f0bdcc545a126a707b97e5de6bdd9.jpg)  
+图4不同样本的OTUvenn 分析  
+Fig.4OTU venn analysis of different samples
+
+3讨论
+
+肠道细菌多样性一方面是宿主和肠道细菌之间强烈选择和协同进化的结果，另一方面受饲粮营养组成及饲粮结构的影响。在本研究中，全鱼油组（I组）中华条颈龟肠道细菌 Ace指数及香农指数均为最大，在门及属分类水平上，全鱼油组的肠道菌群所囊括的门种类数及属种类数均最多；用豆油部分或全部替代饲料中鱼油后，中华条颈龟肠道细菌多样性及丰富度均有下降趋势，3个豆油替代组中以 $3 3 \%$ 豆油替代组（ⅡI组)的Ace指数及香农指数最小。4个组的基础饲料组成相同，只是鱼油和豆油的添加比例不同，鱼油中n-3多不饱和脂肪酸含量高，豆油中n-6多不饱和脂肪酸含量高，这说明饲料中多不饱和脂肪酸的种类及n-3/n-6多不饱和脂肪酸比例不同将影响肠道细菌的多样性及丰富度。这与 Zhang 等[对脂质来源不同的脂肪酸成分对对虾肠道菌群结构影响的研究结果一致。不同的细菌对营养物质的需求不同，营养源很大程度上决定了菌群的结构和功能，当营养源发生改变时，肠道菌群的结构和数量也会随之改变。Zhang 等[8对大鼠饲喂不同脂肪含量的饲料，发现高脂饮食会降低大鼠肠道拟杆菌门和双歧杆菌门所占比例，增加厚壁杆菌门和变形菌门所占比例。厚壁杆菌门和拟杆菌门这两大类菌群作为爬行动物蛇和蜥蜴、人类及其他哺乳动物肠道的主要菌群而存在，这种优势菌群的主导地位可能与这两大类菌群所具有的功能有关，研究发现厚壁杆菌门和拟杆菌门中的大部分细菌都参与着食物的再消化和新陈代谢过程[14-16]。在本研究中，中华
+
+定比例的鱼油后，与消化吸收密切相关的拟杆菌门和厚壁菌门所占比例均有所下降，但 $67 \%$ 豆油替代组（组）下降幅度最小，与全鱼油组较为接近。  
+肠道菌群作为内化的环境因子，产生各种对机体有利或有害的代谢产物，菌群和胃肠道上皮细胞之间的相互作用导致消化道各种结构和功能的改变。肠道消化吸收功能常受其绒毛长度、隐窝深度等形态指标影响[17-18]。其中，绒毛长度决定了肠黏膜上皮细胞数量，而隐窝深度可作为衡量上皮细胞生成速率的指标，上皮细胞不断分化、迁移以补充十二指肠绒毛正常的脱落凋亡，较深的隐窝预示着细胞增殖活跃，成熟率低[17]。绒毛长度/隐窝深度则可以综合反映十二指肠的功能状态，若绒毛长度/隐窝深度上升，则说明十二指肠消化吸收功能增强[18]。关于饲粮营养物质对动物小肠形态结构影响的报道不一。Zeitz等[19]在家鸡饲粮中添加富含月桂酸和肉豆寇酸植物油后发现，肠道组织结构尤其是绒毛长度发生了显著改变;陈丛亮等[20]发现，十二指肠绒毛长度的提高可以显著促进其对营养物质的吸收；Ngoc 等[21]发现，饲喂木薯渣和啤酒糟显著提高猪空肠和回肠绒毛长度，但十二指肠绒毛长度并未发生显著变化。也有研究显示饲粮纤维不会对猪小肠形态产生显著影响[22]；此外，Du 等[10]对山麻鸭的研究表明，在其饲粮中添加 $2 \%$ 的鱼油，可显著降低肠道绒毛长度/隐窝深度以及杯状细胞的数量。本研究中， $67 \%$ 豆油替代组与全鱼油组的十二指肠绒毛长度/隐窝深度差异不显著，但均显著高于 $3 3 \%$ 豆油替代组和全豆油组（IV组）。这说明全鱼油组和 $67 \%$ 豆油替代组在肠黏膜上皮细胞数量及细胞成熟率方面均优于 $3 3 \%$ 豆油替代组和全豆油组，而肠黏膜上皮细胞数量及细胞成熟率在一定程度上会影响肠道消化酶的分泌，从裘正元等[13]对这4组中华条颈龟肠道中酶活性的比较可看出全鱼油组与 $67 \%$ 豆油替代组的酶活性要显著高于$3 3 \%$ 豆油替代组和全豆油组。  
+肠道菌群通过释放某些生物活性物质或间接激活肠道免疫系统，影响杯状细胞生长和肠
+
+肪的消化、改变蛋白质和碳水化合物的消化，增加能量和蛋白质的需要量[23]。Osbom 等[24]研究表明，肠道菌群可以直接调控动物的基因表达以调控脂肪代谢，它们可以增强肝脏中脂肪酸合成酶(FAS)的活性，同时关闭肠道里抑制脂肪积累的基因禁食诱导脂肪因子（fasting-induced adipose factor）的表达。肠道菌群对中华条颈龟营养物质的消化吸收及免疫等各方面的影响还有待于进一步研究。
+
+# 4结论
+
+$\textcircled{1}$ $67 \%$ 豆油替代组中华条颈龟的肠道形态与全鱼油组相近。  
+$\textcircled{2}$ 豆油部分或全部替代饲料中鱼油均可使中华条颈龟肠道细菌多样性降低。  
+$\textcircled{3}$ $67 \%$ 豆油替代组中华条颈龟肠道菌群中拟杆菌门和厚壁菌门所占比例与全鱼油组接近。
+
+参考文献：
+
+[1] ECKBURG P B,BIK E M,BERNSTEIN C N,et al.Diversity of the human intestinal microbial flora[J].Science,2005,308(5728):1635-1638.   
+[2] QIN J J,LI R Q,RAES J,et al.A human gut microbial gene catalogue established by metagenomic sequencing[J].Nature,2010,464(7285):59-65.   
+[3]SOCCINI C,FERRI V.Bacteriological screening of Trachemys scripta elegans and Emys orbicularis in the Po plain (Italy)[J].Biologia,Bratislava,2004,59(Suppl.14):201-207.   
+[4]杜爽,张文飞,史海涛.基于16S rRNA序列分析红耳龟肠道拟杆菌和厚壁杆菌菌群多样性 [J].基因组学与应用生物学,2013,32(6):700-706.   
+[5]陈杏云,曾本华,魏泓,等.高脂饮食对菌群人源化小鼠肠道菌群结构的影响[J].食品科 学,2013,34(17):278-283.   
+[6]曹宏芳,张家超,王芳,等.高脂饮食对雄性 SD 大鼠肠道菌群的影响[J].中国微生态学杂 志,2012,24(2):102-108.   
+[7]刘雪姬,陈庆森,闫亚丽.高脂饮食对小鼠肠道菌群的影响[J].食品科 学,2011,32(23):306-311.   
+[8]ZHANG C H,ZHANG M H,PANG X Y,et al.Structural Resilience of the gut microbiota in adult mice under high-fat dietary perturbations[J].The ISME Journal,2O12,6(1O):1848-1857.   
+[9]ZHANG M L,SUN Y H,CHEN K,et al.Characterization of the intestinal microbiota in Pacificwhiteshrimp,Litopenaeusvannamei,feddietswithdifferent lipid sources[J].Aquaculture,2014,434:449-455.   
+[10]DU X,XU X Q,TIAN Y,et al.Morphology and microbiota of different section of intestines and their influences induced by dietary fish oil in Shan partridge ducks (Anas platyrhynchos)[J].Journal of Agricultural Biotechnology,2016,24(11):1652-1663.   
+[11]LIU T Y,HOUGEN H,VOLLMER A C,et al.Gut bacteria profiles of Mus musculus at the phylumandfamilylevelsareinfluencedbysaturationofdietaryfatty acids[J].Anaerobe,2012,18(3):331-337.   
+[12]PICKOVA J,MORKORE T.Alternate oils in fish feeds[J].European Journal of Lipid Science and Technology,2007,109(3):256-263.   
+[13]裘正元,盛成,洪美玲,等.豆油替代鱼油对中华条颈龟血脂代谢及相关酶活的影响[J].水 产科学,2015,34(7):453-458.   
+[14]COSTELLO E K,GORDON J I,SECOR S M,et al.Postprandial remodeling of the gut microbiota in Burmese pythons[J].The ISME Journal,2010,4(11):1375-1385.   
+[15]HONG P Y,WHEELER E,CANN I K O,et al.Phylogenetic analysis of the fecal microbial community in herbivorous land and marine iguanas of the Galapagos Islands using 16S rRNA-based pyrosequencing[J].The ISME Journal,2011,5(9):1461-1470.   
+[16]MACKIE R I,NELSON D M,WHEELER E,et al.Fermentative digestion in herbivorous
+
+lizards:bacterial population analysis in the intestinal tract of free-living land (Conolophus pallidus） andmarineiguanas(Amblyrhynchuscristatus） ontheGalapagos archipelago[M]//MORRISS,VOSLOO A.Moleculesto Migration:The Pressuresof Life.Bologna,Italy:Medimond Publishing Company,20o8:193-202.
+
+[17]刘秋东,张中文,刘凤华,等.复方白头翁胶囊对腹泻犬小肠绒毛长度和隐窝深度的影响 [J].北京农学院学报,2011,26(3):38-40.   
+[18]刘晓静,史彬林,赵育国,等.日粮中添加沙蒿籽粉对肉仔鸡肠绒毛形态及肠道菌群的影 响[J].饲料工业,2011,32(5):13-15.   
+[19]ZEITZ J,FENNHOFF J,KLUGE H,et al.Effects of dietary fats rich in lauric and myristic acidonperformance,intestinalmorphology,gutmicrobes,andmeatqualityin broilers[J].Poultry Science,2015,94(10):2404-2413.   
+[20] 陈丛亮,杨洪勋,杨磊,等.半胱胺提高畜禽营养物质消化、吸收和利用率的作用机制探讨 [J].饲料研究,2008(12):18-21.   
+[21]NGOC T T B,HONG T T T,LEN N T,et al.Effect of fibre level and fibre source on gut morphology and micro-environment in local (Mong Cai) and exotic (LandracexYorkshire) pigs[J].Asian-Australasian Journal of Animal Sciences,2012,25(12):1726-1733.   
+[22]CHEN H,MAO X B,CHE L Q,et al.Impact of fiber types on gut microbiota,gut environmentandgut function infatteningpigs[J].Animal FeedScienceand Technology,2014,195(9):101-111.   
+[23]GABRIEL I,LESSIRE M,MALLET S,et al.Microflora of the digestive tract:critical factors and consequences for poultry[J].World's Poultry Science Journal,2006,62(3):499-511.   
+[24]OSBORN O,OLEFSKY J M.The cellular and signaling networks linking the immune system and metabolism in disease[J].Nature Medicine,2012,18(3):363-374.
+
+Effects of Partial or Total Replacement of Fish Oil by Soybean Oil on Intestinal Morphology and
+
+Microbiota Structure of Chinese Striped-Neck Turtle（Mauremys sinensis ）
+
+DING LilLI Jiangyuel XUE Shan1 SHI Haitao1,2 HONG Meiling1\* (1. College of Life Science, Hainan Normal University, Haikou 571158, China; 2. Chengdu
+
+Institute of Biology, Chinese Academy of Sciences, Chengdu 610o41, China)
+
+Abstract: This study was conducted to investigate the effects of partial or total replacement of fish oil by soybean oil on intestinal morphology and microbiota structure of Chinese striped-neck turtle (Mauremys sinensis） by histological staining and 16S rRNA V3-V4 region sequencing. Twenty 4-year adult female Chinese striped-neck turtles [4-year and initial body weight of (1 $5 5 7 { \pm } 3 0 7 )$ ）g] were randomly divided into four groups and each group had 6 turtles. Turtles in group I (control group) were fed a formula feed containing $1 \%$ fish oil which was a whole fish 316 oil diet with the ratio of soybean oil to fish oil was O:3,and others in three experimental groups 317 were fed diets used soybean oil to replace $3 3 \%$ (group II), $67 \%$ (group III) and $100 \%$ (group IV) 318 fish oil based on the whole fish oil diet and the ratio of soybean oil to fish oil of them were 1:2, 319 2:1 and 3:0,respectively. Turtles were feed 2 times per week,and the experiment lasted for 10 320 months.The results showed as follows: 1） the ratio of villus height to crypt depth (VH/CD） of 321 duodenum in groups I and II were significantly higher than that in groups II and IV.2) 322 According to the $9 7 \%$ level of sequence similarity, the total numbers of operational taxonomic 323 unit(OTU) in groups I，I，II and $\mathrm { I V }$ were 396,321,347 and 331,while the specific OUT 324 numbers were 43,3,4 and 5,and 139,117,128,120 genus were identified,respectively. The 325 dominant phyla in the duodenum were Bacteroidetes,Firmicutes,Fusobacteria and Proteobacteria. 326 The proportions of Fusobacteria and Proteobacteriai was increased while the proportions of 327 Bacteroidetes and Firmicutes were decreased in groups II， II and IV. However, the small gap 328 of Firmicutes and Bacteroidetes between groups I and II. The bacterial Ace index and Shanno 329 index were the highest in group I,the middle in groups III and $\mathrm { I V }$ , and the lowest in group II . 330 The bacterial Simpson index was the highest in group I,the middle in groups II and $\mathrm { I V }$ ，and 331 the lowest in group I.Therefore,the development maturation degree of intestinal cells and 332 intestinal microbiota structure of Chinese striped-neck turtle fed the diet with $67 \%$ fish oil 333 replacement by soybean oil are similar to Chinese striped-neck turtle fed the whole fish oil diet. 334 Key words: Chinese striped-neck turtle (Mauremys sinensis); replacement of fish oil; intestinal 335 morphology; intestinal microbiota structure

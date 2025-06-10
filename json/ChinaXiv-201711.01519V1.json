@@ -1,0 +1,755 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮纤维影响猪肠道健康的研究进展1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴维达 解竞静 朱丽媛 张宏福",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193)摘要：肠道健康包括有效的营养物质吸收、稳定的肠道微生物群落及健全的免疫功能等多个方面。肠道的健康状况决定了动物的健康状况。肠道健康取决于饲粮、肠道黏膜和肠道微生物群落3个主要方面。饲粮纤维是由纤维素、半纤维素、果胶和木质素等组成的成分和结构复杂的混合物，具有改善肠道营养物质吸收、降低肠道环境 pH、改变有益菌与潜在致病菌比例、优化肠道微生物群落组成及加强黏膜屏障作用等功能。来源不同和理化性质相异的饲粮纤维对肠道健康的影响及作用机理并不一致。本文就饲粮纤维的分类、理化性质及其对肠道健康影响的研究进展进行综述，以促进饲粮纤维在猪饲粮生产上的进一步广泛合理利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：饲粮纤维；猪；肠道健康；短链脂肪酸；肠道微生物中图分类号：S828 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肠道整合了营养代谢和免疫两大重要功能，被誉为动物体内的“第二大脑”。肠道的健康情况不仅决定了营养物质的消化吸收状况，也决定了机体能否有效地抵抗与清除致病微生物，对动物的生长发育影响重大。传统的用于维持肠道健康的抗生素等物质在增强细菌耐药性、畜禽产品药残等方面上的问题日益凸显[I-2]，寻找其替代物成为确保我国生猪产业可持续发展的必经之路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维（dietary fiber，DF）是由多糖类碳水化合物和其他非碳水化合物组分相结合构成的复杂化合物，它不能被动物自身分泌的消化酶消化，但可以被肠道微生物利用产生挥发性脂肪酸等代谢产物[3]。尽管在人的营养研究中，饲粮纤维已经被视为七大营养素之一，但是其并没有包涵在猪的营养推荐标准之中[4]。传统观点认为，动物饲粮中的粗纤维会降低消化率、稀释饲粮营养物质浓度并且降低动物的生产性能。动物营养学中沿用的粗纤维指标是化学方法（酸和碱水解后）的残留量，该化学方法测出的粗纤维主要成分为纤维素、半纤维素和木质素，但植物细胞壁基础组分差异较大，因此粗纤维与饲粮纤维之间并无固定的比例关系。而近期研究显示，饲粮纤维本身及其代谢产物具有调节肠道营养吸收、加强免疫功能等作用[5-7]。本文从饲粮纤维的分类、性质及其维护猪肠道健康的功效进行综述，以促进其在科研生产领域进一步研究利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1饲粮纤维的定义分类及理化性质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 定义分类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维主要来源于植物源饲料原料的细胞壁，植物细胞壁由多种多聚糖及与之结合的蛋白质与酚类复合物组成[8]。20 世纪70年代，Trowell首次定义了饲粮纤维，他认为饲粮纤维是“不被人类消化酶消化吸收的多糖类碳水化合物和木质素”。2007年，欧洲食品安全委员会定义饲粮纤维为不能被动物内源消化酶分解、小肠无法消化吸收的所有碳水化合物的总称，可分为4类：1)非淀粉多糖（non-starch polysaccharides，NSP)；2)抗性低聚糖（resistantoigosaccharides，RO)；3)抗性淀粉（resistant starch，RS)；4)木质素（lignin）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对饲粮纤维在动物营养研究领域的应用，卢德勋[10]认为其定义应包含以下4层含义：第一，饲粮纤维是饲粮内一种具有特殊营养生理作用的复合成分，而不是一种化学组成相当一致的饲料和饲粮成分，饲粮内组成纤维的单个成分的营养作用并不等于是饲粮纤维整体的营养生理作用。第二，饲粮纤维组成应包含结构性与非结构性2个部分（表1)。第三，利用可利用指标取代原来的粗指标，并对于单胃动物和反刍家畜的可利用饲粮纤维指标加以区分。第四，饲粮纤维的分析方法应以全面体现上述3层含义为原则，并具有操作简便、易行、迅速、可重复性好等特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/93e74e78bd38c53b5185faf97186efeb76f693e0aae0c472b886105fc756ee99.jpg",
+        "table_caption": [
+            "表1饲粮纤维组成",
+            "Table1 Composition ofdietary fiber "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>来源 Source</td><td>组成 Composition</td></tr><tr><td>植物细胞壁结构性成分</td><td>结构性多糖：纤维素、半纤维素、果胶</td></tr><tr><td>Plant cell wall structure ingredient</td><td>非碳水化合物组分：木质素</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/daf858166f38087f4eb8cf522bb1e0e03c818ee73f56a914a11b2241b6e7d1ed.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>非结构性成分</td><td>多种来源多糖：树胶、植物粘胶、藻类多糖</td></tr><tr><td>Non-structure ingredient</td><td>与纤维紧密联系的物质：植酸、植酸盐、细胞壁蛋白质、部分微生物、</td></tr><tr><td></td><td>芳香类及非代谢类糖(棉籽糖）</td></tr><tr><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 理化性质及分类 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维的分类方式有很多种，如依据饲粮纤维的来源、多聚糖的种类、在人工模拟装置中的发酵程度及消化部位等[I]。而在动物营养的研究当中，通常根据水合作用、黏性、发酵性这3种性质，将纤维分为不同的种类[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 水合作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水合能力由水溶性、润湿性、吸水性和持水性4方面组成，对于饲粮纤维在动物体内的消化代谢至关重要。水溶性是对纤维进行分类的一个重要依据，它并不是指饲粮纤维溶于水的能力，而是指其与水结合形成胶态悬浮体的能力[13]。水溶性主要取决于构成纤维的多聚糖的种类及分子之间的连接方式[14]。如：不溶的纤维素组成主要为 $\\beta$ -1,4-糖苷键，而可溶的$\\beta$ -葡聚糖主要组成为 $\\beta$ -1,6-糖苷键。根据水溶性的不同可将纤维分为可溶性纤维与不可溶性纤维2种，不可溶性纤维主要包括纤维素、部分半纤维素和木质素等，而可溶性纤维包括果胶、部分半纤维素、瓜尔胶、阿拉伯木聚糖和葡聚糖等[15-16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 黏性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黏性是影响纤维生理功能的另一项重要的理化性质[17]。通常情况下，可溶性纤维的黏性高于不可溶性纤维[18]。多糖分子随着纤维浓度的增加而互相作用形成网状结构，长链纤维比短链纤维更容易纠缠形成网状结构，因此长链纤维的黏性高于短链纤维。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 发酵性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维发酵的程度种间差异很大，从几乎不发酵的木质素到接近完全发酵的果胶。发酵过程主要发生在单胃动物结肠部分，而相比不可溶性纤维，可溶性纤维大部分可以被肠道微生物发酵，发酵部位主要在盲肠和结肠前端，而不可溶性纤维的发酵可持续到结肠末端[19]。最近的研究发现，可溶性纤维在猪小肠部分也会进行大量发酵[20-21]。饲粮纤维发酵的产物主要是短链脂肪酸（short-chain fatty acids，SCFAs)，而不同来源的饲粮纤维发酵产生的 SCFAs总量和种类组成也完全不同[20-22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2饲粮纤维对猪肠道营养功能的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维在维持猪肠道营养功能方面发挥着重要作用[7]。过往观点认为，饲粮纤维的添加会降低饲粮中其他营养物质消化率，减少能量的摄入[23]。但是，饲粮纤维的这种负面作用与其来源及添加水平有关，不同来源的饲粮纤维理化性质上的差异决定了其对营养物质消化率及能量摄入的影响也不尽相同。并且，饲粮纤维对肠道发育及形态结构等方面也有着积极的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮纤维对猪肠道发育及形态结构的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "猪饲粮中添加纤维会降低能量浓度，机体必须通过调动扩大营养物质吸收面积、增加食糜滞留时间等生理响应机制满足生长发育的需要，这样会导致动物消化器官重量和容积增加[24]。研究表明，饲粮中纤维含量增加会提高母猪结肠重量[25]。40 d试验期的高饲粮纤维水平组仔猪胃和十二指肠指数显著高于低、中纤维水平组，随着纤维含量的提高，空肠、回肠、盲肠和结肠占活体重的比率都有所增加，但影响不显著[26]。目前解释饲粮纤维刺激肠道生长发育的机理主要有以下几种：1)饲粮纤维会在一定程度上破坏黏膜细胞表面结构，增加细胞脱落率，进而导致细胞的代偿性增殖。2)纤维在后肠发酵产生的 SCFAs 降低了肠腔内环境pH，酸性环境有利于刺激细胞分裂从而促进细胞增殖。丁酸还可以提供肠道上皮细胞增殖发育所需的能量，是后肠细胞最重要的能量来源，并通过启动细胞总DNA和蛋白质的合成、改变表皮生长因子的基因表达与修复损伤的后肠上皮细胞，促进肠道的生长发育[8]。断奶仔猪的肠内分泌细胞数量在饲粮中添加丁酸钠后极显著增加[27]。3)SCFAs 可以促进胃泌素和胰高血糖素样肽类物质的分泌，而有研究表明，胰高血糖素样肽对肠道上皮细胞的增殖有促进作用[28]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道消化吸收功能的基础是肠道黏膜形态。绒毛高度和隐窝深度及二者比值反映了肠黏膜的吸收功能。绒毛高度与隐窝深度的比值下降，代表黏膜功能受损，消化吸收功能减弱，生长发育减缓；该比值上升，代表黏膜功能改善，消化吸收功能增强，生长发育加快。仔猪上的研究表明，饲粮纤维的添加显著增加了绒毛高度与隐窝深度的比值，加强了小肠的消化能力[29]。不同来源的纤维对肠道形态的影响并不一致，与对照组相比，玉米纤维显著降低了绒毛高度与隐窝深度的比值，而小麦纤维组的猪小肠中则未发现这一结果[30]。饲粮纤维发酵产生的 SCFAs可以刺激小肠细胞增殖，维护肠黏膜结构的完整，促进小肠指状绒毛的生长与发育[31]。利用肠外营养技术，将 SCFAs作用于Wistar大鼠的移植小肠上，10d后通过透射电镜发现，经 SCFAs作用的大鼠肠黏膜绒毛高度、黏膜厚度均显著高于对照组，这证明了SCFAs对肠黏膜具有较强的促生长作用[32]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮纤维对猪饲料营养物质消化吸收的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维对猪饲料营养物质消化率的影响因其来源、添加水平及猪生理阶段不同而异[3-34]。生长猪和育肥猪肠道发育完全，食糜排空速度较慢，因此消化利用饲粮纤维的能力强于仔猪。不同类型的纤维对脂肪、粗蛋白质、能量消化率的影响也差异较大，这种差异的形成与纤维本身的溶解性、黏性等理化性质都有密切的关系。不可溶性纤维提高了食糜排空速度与排粪量，而可溶性纤维则增加了食糜的黏性和水合能力，延长了消化时间。除此之外，高纤维含量的饲粮会导致内源性消化液的分泌增加，随着可溶性纤维在饲粮中含量的上升，体重 $5 0 \\mathrm { k g }$ 的猪唾液和胃液的分泌成倍提高，胰液分泌量也增加了近1倍，胆汁分泌量也显著增加[35]。消化液分泌量的增加也意味着饲料营养物质消化率的提高，而这一结果主要是因为饲粮纤维刺激下消化器官（胃、肠、胰腺等）的活性提高而引起的。针对不同类型和水平的纤维对生长肥育猪营养物质消化的影响，本课题组进行了大量相关研究。苜蓿纤维添加量在 $5 \\%$ 水平时，试验猪日增重和营养物质消化率并未受到影响，但随着纤维添加量的提高，干物质、碳水化合物及总能的消化率均降低[36-37]。相较于高黏度低发酵的羧甲基纤维素钠，低黏度高发酵的菊粉显著提高了全肠道总能及碳水化合物的后肠发酵率及全肠道消化率[38]。富含可溶性纤维的甜菜粕可显著提高饲粮各营养物质在后肠的发酵率[39]。这些研究结果表明，不同来源、水平的纤维对猪饲粮中其他营养物质消化率的影响不同，为饲粮纤维在猪饲粮中的合理配置及非常规饲料资源的开发提供了理论基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3饲粮纤维对猪肠道免疫功能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "猪肠道完善的免疫功能是建立在饲粮、寄居在肠道内的微生物及黏膜层（包括肠道上皮层及覆盖上皮层的黏液层）三者之间脆弱的动态平衡的基础上（图1）[40-41]。在维持肠道免疫功能方面，饲粮纤维发挥着重要作用，因为它对黏膜层及肠道微生物都会产生直接的影响[5-6,40-43]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/55c78c82e192618166d16b58256563ccb814b88e19d423734a68388f054d88fe.jpg",
+        "img_caption": [
+            "图1饲粮纤维、黏膜层、肠道微生物三者之间的关系及其对肠道健康的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Interactions among dietary fiber,gut environment, gut microbiota and their implications on gut health[42] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮纤维对肠道微生态的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "肠道微生态由多种微生物组成，结构复杂，其中细菌数量最多，对其的研究也最为深入。寄居在肠道内的微生物种类及活性受多种因素影响，最重要的是饲粮因素。水合作用上的差异是导致不同种饲粮纤维对微生态产生不同影响的最主要因素，因为它会影响食糜在肠道内的消化进程及肠腔内环境，进而干扰微生物的生态环境。随着进入后肠的食糜中饲粮纤维含量的提升，后肠微生物群落的活性也随之提升。通过测量ATP 浓度发现，高纤维饲粮饲喂下的猪肠道内微生物活性提高了5.5倍，发酵增加了5\\~9倍[44]。然而，有试验结果表明，肠道微生物在富含纤维的饲粮（ $5 0 \\%$ 苜蓿）干扰下，前期肠道微总量呈现下降趋势，但是在持续饲喂17周后，肠道微总量逐渐上升，这说明肠道微生物对纤维在饲粮中的添加有一个适应的过程[45]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同来源饲粮纤维对单独种群的刺激则有选择作用[46]。研究表明，断奶仔猪肠道中细菌总量与饲粮中中性洗涤纤维（NDF)、酸性洗涤纤维（ADF）含量显著相关，与饲喂玉米基础的饲粮相比，饲喂大麦的仔猪肠道中乳酸杆菌的总量上升，而大肠杆菌的总量下降，盲肠中双歧杆菌的总量也显著提升[47]，这可能是因为大麦中富含 $\\beta \\cdot$ -葡聚糖，该成分已被证明可以提高肠道有益菌的含量。此外，在母猪上的研究表明，富含阿拉伯木聚糖的饲粮处理下粪便中乳酸杆菌和双歧杆菌等有益菌的总量也显著提高[48]。与对照组相比，饲粮中添加瓜尔胶或者纤维素后，回肠食糜中双歧杆菌的总量显著提高[49]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维的发酵性能与微生物群落的调整改变有着重要关系。与对照组相比，添加了易发酵菊苣纤维的猪回肠末端乳酸杆菌为优势菌种，而结肠中丁酸产生菌与普雷氏菌的相对丰度与菊苣纤维添加量呈线性相关[50]。饲粮中添加 $34 \\%$ 的抗性淀粉增加了公猪结肠前端产丁酸菌如普拉梭菌（Faecalibacterium prausnitzii）和埃氏巨型球菌（Megasphaera elsdenii）的相对丰度，降低了潜在致病微生物如钩端螺旋体属微生物的相对丰度；促进了结肠上皮细胞三羧酸循环及脂肪酸 ${ \\mathfrak { \\beta } }$ -氧化的进程，但抑制了细胞分化、非特异性免疫和适应性免疫应答[51]。母猪饲粮中添加 $34 \\%$ 的抗性淀粉能够增加结肠产普拉梭菌（Faecalibacterium prausnitzii）和布氏瘤胃球菌（Ruminococcus bromii）的相对丰度，降低可能致病菌大肠杆菌和假单胞菌属的相对丰度，同时增加结肠乙酸、丙酸与丁酸浓度[52]。饲粮纤维对微生物的选择刺激作用与纤维本身的离散结构（discrete structure）有关。组成单糖类型、糖之间连接的类型、构象与构型和与之结合的其他组分等因素共同组成了饲粮纤维的离散结构，不同的离散结构对应相应的靶标微生物，从而造成了对肠道微生物的选择性刺激作用[53]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 益生元",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "益生元最初的定义是可以改善寄主健康的不可被消化的饲粮成分，该成分通过选择性刺激后肠中一种或几种细菌的增殖与活性而对寄主产生有益的影响[54]。饲粮纤维无法被内源消化酶降解，而被寄居在肠道的大量微生物发酵产生主要为乙酸、丙酸、丁酸在内的 SCFAs。在对肠道细菌基因组的研究中发现，某些拟杆菌门细菌基因组中富含可以编码糖苷水解酶与多糖裂解酶的基因，这些基因所编码的酶类可以加速多糖的降解。SCFAs不仅可以通过刺激肠道上皮细胞的增殖来促进肠道的发育[40]，还可以在酸性环境下抑制如沙门氏菌、大肠杆菌和梭菌属等病原性细菌的发育。结构组成上的差异导致不同纤维在胃肠道内发挥的益生作用也不尽相同。可溶性的非淀粉多糖促进了肠道微生物增殖，进而产生的 SCFAs 降低了后肠内环境pH，而低pH的环境利于有益细菌（如双歧杆菌属、乳酸杆菌属）的生长[6.55]。不可溶性非淀粉多糖缩短了肠道排空时间[56]，通过增加绒毛高度来调控肠道形态[57]。与不溶性非淀粉多糖相比，饲喂可溶性非淀粉多糖的断奶仔猪肠道健康得到改善，腹泻率显著下降，盲肠pH降低，乳酸菌与大肠杆菌比例升高[58]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维发酵产生的大量有机酸SCFAs不但降低肠道pH，提供酸性环境，其本身在宿主代谢、改善肠道功能、免疫调节作用等方面也发挥着重要作用：1)直接供给能量，诱导能量代谢等相关激素合成；2)通过结合并激发G蛋白偶联受体（G-protein coupled receptors，GPRs）参与体内免疫代谢进程；3)抑制组蛋白去乙酰化酶（histone deacetylase，HDAC）的活性，诱导细胞分化及死亡。主要组成为乙酸、丙酸、丁酸的SCFAs为结肠细胞提供了 $6 0 \\% { \\sim } 7 0 \\%$ 的能量[59]，其中丁酸在能量代谢中参与度最高，而乙酸和丙酸则主要参与肝脏糖脂合成[60]。肠道内分泌细胞表面的GPRs（GPR-41和GPR-43）识别SCFAs后，经其诱导分泌产生胃肠激素肽YY（peptide YY,PYY）和胰高血糖素样肽（glucagon-like peptide 1，GLP-1）[61-63]。这2种激素都是重要的肠道能量平衡调控激素，PYY可以延长食糜在肠道的停留时间，提高饱腹感，而GLP-1则可促进胰岛素分泌，调节血糖平衡。与对照组相比，生长猪饲粮中添加丁酸钠使回肠蔗糖酶活性显著提高[64]。SCFAs参与免疫调节主要是通过抑制HDAC的活性和激活GPRs这2种途径，除此之外，SCFAs还可以激发白细胞产生细胞因子[肿瘤坏死因子- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （TNF-α）、白细胞介素-2（IL-2）、白细胞介素-6（IL-6）和白细胞介素-10（IL-10）]以及类花生酸及趋化因子[单核细胞趋化蛋白-1（MCP-1）与中性粒细胞趋化因子-2（CINC-2）],有试验表明，白细胞向炎症病灶的迁移以及消除病原微生物的能力也受SCFAs影响[65-66]。丁酸还参与调控中性粒细胞、增加结肠上皮细胞紧密连接蛋白的表达，并且经GPR-41识别后，通过MAPKs介导的信号途径增强宿主对炎症刺激的应答[66-68]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "许多天然低聚糖已经作为促生长添加剂应用于实际生产中。在断奶仔猪的研究中发现，添加半乳聚糖组仔猪料重比有降低的趋势，血清中免疫球蛋白A(IgA）、免疫球蛋白G(IgG)和免疫球蛋白M（IgM）的浓度显著高于添加抗生素组与对照组，表明低聚糖具有增强猪体液免疫功能的作用[69]，可以用于减少饲粮中抗生素的添加。类似的研究也印证了这一点，与添加抗生素组相比，寡糖还具有提高血液中促生长因子胰岛素样生长因子1（IGF-1）与生长激素（GH）的浓度与肌肉中IGF-1基因表达水平的功效，这在分子水平上揭示了饲粮纤维促进猪生长的可能机制[70]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮纤维对黏膜屏障的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "肠道黏膜屏障主要由肠细胞屏障和附着在肠细胞屏障上的黏液屏障共同组成[71]。不同来源的纤维对细胞屏障的影响不同，饲粮中添加 $10 \\%$ 小麦纤维和豌豆纤维显著加强了断奶仔猪的肠道屏障功能，这可能是因为它显著提升了回肠与结肠上皮细胞紧密连接蛋白（ZO-1）与Toll样受体（TLR2）mRNA的表达量，而玉米纤维和大豆纤维的应用却未发现这一效果。黏液屏障主要包括杯状细胞分泌的黏蛋白、肠三叶肽、抗菌肽、细胞因子、分泌型免疫球蛋白A（sIgA）等[72]。黏液层在消化道各段均有分布，但厚度不一[73]。黏液层的动态平衡是靠杯状细胞合成分泌黏蛋白来调控的。研究认为，纤维影响肠道黏膜屏障是通过影响黏蛋白的分泌与组成来实现的。主要成分为黏蛋白的黏液随肠蠕动和食糜移动而流动，合成分泌的速度呈动态平衡。可溶性纤维通过增加杯状细胞数量来促进黏蛋白分泌。与对照组相比，饲粮中添加阿拉伯木聚糖后，肠道分泌IgA浓度、杯状细胞数量显著增加，并且减弱了肠道通透性[74]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对无菌小鼠进行的试验显示，与无纤维饲粮对照组相比，添加亚麻籽籽壳的试验组小鼠粪便中4种主要的黏蛋白（分别为岩藻糖、半乳糖胺、氨基葡萄糖和半乳糖糖蛋白）提高了2倍多（ $2 2 3 ~ { \\mu \\mathrm { m o l / g } }$ 干粪样vs $7 0 \\mathrm { \\textmu m o l / g }$ 干粪样）[75]。向3组小鼠分别饲喂添加不同不可溶性纤维（麦麸和纤维素）的饲粮（添加量为 $1 0 0 \\ : \\mathrm { g / k g }$ ）以及不含纤维的对照饲粮，纤维素组小鼠空肠中杯状细胞的数量明显少于其他2组。然而，与对照组相比，其他2 组黏蛋白中$\\mathrm { H } _ { 3 }$ 标记的葡萄糖（2倍）和 S35 标记的硫酸钠（2.5 倍）含量较高[7]。与饲喂对照饲粮的猪相比，豌豆纤维在饲粮中的长期添加提高了结肠黏膜层中黏蛋白（ $1 6 \\%$ ）与 sIgA 的含量（ $13 \\%$ )。利用基因芯片技术分析，这可能是因为纤维通过降低 $\\scriptstyle { I L - 1 0 }$ 与肿瘤坏死因子配体超家族成员13B（TNFSF13B）mRNA的表达量来影响 IgA的分泌，进而调控肠道免疫功能[77]。有研究总结了复杂的机制解释饲粮纤维对黏蛋白的刺激作用：首先，含纤维的饲粮能量较低，引起采食量增加，导致食糜体积流量变大，对黏膜层的伤害加深，黏蛋白更新速度加快，产生代偿性作用。消化酶的在肠内的分布和活性受纤维类型影响，并进而调控黏蛋白的流失。第二，上皮细胞保护不足会引起肠腔内抗原接触肠壁增多，诱发产生免疫反应加速黏蛋白的合成。第三，表面与新生细胞会释放相关生长因子和花生四烯酸途径的代谢产物。一些生长因子是结肠炎症的有效保护介质，还可促进杯状细胞增殖以及黏蛋白的分泌。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SCFAs 也可以影响黏蛋白的表达，从而改变黏液层的厚度。研究表明，乙酸盐的诱导有剂量依赖效应，丙酸盐无明显作用，丁酸钠可显著影响黏蛋白分泌[78]。利用 SCFAs 灌注小鼠，发现乙酸刺激了黏蛋白向肠腔的分泌。丁酸的浓度在5mmol/L时会促进黏蛋白分泌，但是当浓度增加到100 mmol/L时，则会引起分泌的减弱。相反地，5\\~100mmol/L浓度的丙酸并没有引起黏蛋白分泌的增强，对黏蛋白的分泌并无显著影响[79]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "最近的研究表明，饲粮纤维对猪肠道黏膜层热休克蛋白（heat shock protein，HSP）的表达量有明显影响。高温应激下，机体可以合成HSP 来维持黏膜屏障的稳定性。通过免疫组化技术发现，饲粮中添加菊苣根与菊苣茎叶显著提高了回肠与结肠前端HSP27的表达量，回肠HSP27的表达量与饲粮中可溶性糖醛酸摄入量呈显著正相关（ $\\scriptstyle ( 1 = 0 . 3 9 0 )$ 。除此之外，回肠黏膜层中HSP27的含量与黏膜上埃氏巨型球菌的总量（ $\\scriptstyle \\cdot = 0 . 5 5 3 .$ )、饲粮总糖醛酸摄入量（ $\\scriptstyle 1 = 0 . 5 2 3$ ）均呈正相关。但是，HSP 的表达量与微生物群落的多样性并无相关关系[80]。该试验结果为饲粮纤维应用于养猪生产中抗高温应激方面提供了理论基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲粮纤维对猪肠道健康的影响取决于纤维自身的理化性质，不同来源的纤维影响不同。越来越多的研究证明，饲粮纤维在完善健全猪肠道营养功能及免疫功能、维持猪肠道健康等方面上有着重要意义。但是仍存在很多问题有待于未来研究解决：第一，目前纤维对肠道免疫功能的影响仍集中在抗性低聚糖方面，而对其他纤维种类如抗性淀粉、非淀粉多糖等在肠道免疫调控上的作用及相关机制的研究仍然较少；第二，饲粮纤维在猪饲粮中的添加量、添加种类仍然停留在经验阶段，不同阶段所需饲粮纤维的来源及需要量仍然未知，这影响了饲粮纤维在饲粮中的合理使用及饲料本身品质的改良；第三，如何利用现代技术手段改善饲粮纤维品质以利于其广泛应用，对缓解粮食安全问题、推动养猪业可持续发展也有着重要的现实意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总之，研究不同饲粮纤维对猪肠道健康的改善及作用机制，对减少抗生素促生长剂使用、缓解其带来的抗药性与食品安全等问题、合理高效经济地开发饲料资源及保证畜牧业高效绿色可持续发展有着重要的意义。并且对以猪为模型动物研究饲粮纤维在对预防调节人肠道疾病、心血管疾病、代谢综合征等领域有一定的参考价值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] LEVY S B,MARSHALL B.Antibacterial resistance worldwide:causes,challengesand responses[J].Nature Medicine,2004,10:122-129. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2]LEVY S B.Microbial resistance to antibiotics:an evolving and persistent problem[J].The Lancet,1982,320(8289):83-88. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3] SLAVIN J.Fiber and prebiotics:mechanisms and health benefits[J].Nutrients,2013,5(4):1417-1435. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4]NRC.Nutrient requirements of swine[S].Washington,D.C.:National Academies Press,1998. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[5]DE LANGE C F M,PLUSKE J,GONG J,et al.Strategic use of feed ingredients and feed additivesto stimulategut health and development in youngpigs[J].Livestock Science,2010,134(1/2/3):124-134. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6]KNUDSEN KE B,HEDEMANN M S,LAERKE HN.The role of carbohydrates in intestinal health of pigs[J].Animal Feed Science and Technology,2012,173(1/2):41-53. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7]WENK C.The role of dietary fibre in the digestive physiology of the pig[J].Animal Feed Science and Technology,2001,90(1/2):21-33 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8] BUTTRISS J L,STOKES C S.Dietary fibre and health:an overview[J].Nutrition Bulletin,2008,33(3):186-200. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9]TROWELL H.Definition of dietary fiber and hypotheses that it is a protective factor in certain diseases[J].The American Journal Of Clinical Nutrition,1976,29(4):417-427. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10]卢德勋.日粮纤维的营养作用及其利用//刘建新,张宏福,王康宁.饲料营养研究进展[M].澳门：亚洲中医药杂志社，1998:13-241.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11] MUDGIL D,BARAK S.Composition,properties and health benefitsof indigestible carbohydrate polymers as dietary fiber:a review[J].International Journal of Biological Macromolecules,2013,61:1-6. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12]KNUDSEN K E B.The nutritional significance of “dietary fibre” analysis[J].Animal Feed Science and Technology,2001,90(1/2):3-20. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13]KELKAR S,SIDDIQ M,HARTE J B,et al.Use of low-temperature extrusion for reducing phytohemagglutinin activity (PHA) and oligosaccharides in beans (Phaseolus vulgaris L.) cv. Navy and Pinto[J].Food Chemistry,2012,133(4):1636-1639. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14] VAN SOESTP V,ROBERTSON JB,LEWIS B.Methods for dietary fiber,neutral detergent fiber,and nonstarch polysaccharides in relation to animal nutrition[J].Journal of Dairy Science,1991,74(10):3583-3597. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15]ESPOSITO F,ARLOTTI G,BONIFATI A M,et al.Antioxidant activity and dietary fibre in durum wheat bran by-products[J].Food Research International,2Oo5,38(1O):1167-1173. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[16] LUNN J,BUTTRISS J.Carbohydrates and dietary fibre[J].Nutrition Bulletin,2007,32(1):21-64. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17] WELLOCK I J,HOUDIJK J G K,KYRIAZAKIS I.Effect of dietary non-starch polysaccharide solubility and inclusion level on gut health and the risk of post weaning enteric disorders in newly weaned piglets[J].Livestock Science,2007,108(1/2/3):186-189. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[18]DIKEMAN C L,FAHEY G C,Jr.Viscosity as related to dietary fiber:a review[J].Critical Reviews in Food Science and Nutrition,2006,46(8):649-663. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19] CHOCT M.Feed non-starch polysaccharides:chemical structuresand nutritional significance[J].Feed Milling International,1997:13-26. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20]JHA R,LETERME P.Feed ingredients differing in fermentable fibre and indigestible protein content affect fermentation metabolites and faecal nitrogen excretion in growing pigs[J].The Animal Consortium,2012,6(4):603-611. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[21]JHA R,ROSSNAGEL B,PIEPER R,et al.Barley and oat cultivars with diverse carbohydrate composition alter ileal and total tract nutrient digestibility and fermentation metabolites in weaned piglets[J].The Animal Consortium,2010,4(5):724-731. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22] JHA R,OWUSU-ASIEDU A,SIMMINS P H,et al.Degradation and fermentation characteristics of wheat coproducts from flour milling in the pig intestine studied in vitro[J].Journal of Animal Science,2012,90 Suppl 4:173-175. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[23] NOBLET J,LE GOFF GEffect of dietary fibre on the energy value of feeds for pigs[J].Animal Feed Science and Technology,2001,9O(1):35-52. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[24]JHA R,BERROCOSO JD.Review:dietary fiber utilization and its effects on physiological functions and gut health of swine[J].Animal,2015,9(9):1441-1452. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[25] SERENA A,HEDEMANN M S,BACH KNUDSEN K E.Influence of dietary fiber on luminal environment and morphology in the small and large intestine of sows[J].Journal of Animal Science,2008,86(9):2217-2227. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[26]杨玉芬,卢德勋,许梓荣.日粮纤维对仔猪生长性能和消化生理功能的影响[J].动物营养学报,2009,21(6):816-821.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[27]JASLEEN J,ASHLEY S W,SHIMODA N,et al.Glucagon-like peptide 2 stimulates intestinal epithelial proliferation in vitro[J].Digestive Diseases and Sciences,2002,47(5):1135-1140. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[28]MAZZONI M,LE GALL M,DE FILIPPI S,et al.Supplemental sodium butyrate stimulates different gastric cels in weaned pigs[J].The Journal of Nutrition,2008,138(8):1426-1431. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[29]ARGENZIO R A,WHIPP S C.Inter-relationship of sodium,chloride,bicarbonate and acetate transport by the colon of the pig[J].The Journal of Physiology,1979,295(1):365-381. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[30]CHEN H,MAO X,YIN J,et al.Comparison of jejunal digestive enzyme activities,expression of nutrient transporter genes,and apparent fecal digestibility in weaned piglets fed diets with varied sources of fiber[J].Journal of Animal and Feed Sciences,2O15,24(1):41-47. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[31]SAKATA T,INAGAKI A.Organic acid production in the large intestine:implication for epithelial cell proliferation and cell death[M]//PIVA A，BACH KNUDSEN K E, LINDBERG J E.The gut environment of pigs.Notingham,U.K.:Nottingham University Press,2001:85-94. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[32]李可洲,李宁,黎介寿,等.短链脂肪酸对大鼠移植小肠形态及功能的作用研究[J].世界华人消化杂志,2002,10(6):720-722.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[33]RENTERIA-FLORES J A,JOHNSTON L J,SHURSON G C,et al.Effect of soluble and insoluble fiber on energy digestibility,nitrogen retention,and fiber digestibility of diets fed to gestating sows[J].Journal of Animal Science,2008,86(1O):2568-2575. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[34] URRIOLA P E.Digestibility of dietary fiber by growing pigs[D].PH.D.Thesis.Urbana-Champaign:University of Ilinois,2010. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35]ZEBROWSKA T,LOW A G,ZEBROWSKA H.Studies on gastric digestion of protein and carbohydrate,gastric secretion and exocrine pancreatic secretion in the growing pig[J].British Journal of Nutrition,1983,49(3):401-410. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36]CHEN L,ZHANG HF,GAO L X,et al.Effect of graded levels of fiber from alfalfa meal on intestinal nutrient and energy flow,and hindgut fermentation in growing pigs[J].Journal of Animal Science,2013,91(10):4757-4764. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[37]CHEN L,GAO L X,ZHANG H FEffect of graded levels of fiber from alfalfa meal on nutrientdigestibilityand flowoffatteningpigs[J].JournalofIntegrative Agriculture,2014,13(8):1746-1752. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[38]GAO L X,CHEN L.HUANG Q H,et al.Effect of dietary fiber type on intestinal nutrient digestibility and hindgut fermentation of diets fed to finishingpigs[J].Livestock Science,2015,174:53-58. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[39]孟丽辉,庞敏,朱丽媛,等.日粮纤维来源对生长猪养分消化率的影响[J].动物营养学报,2015,27(4):1068-1075.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[40]MONTAGNE L,PLUSKE JR,HAMPSON D J.A review of interactions between dietary fibre and the intestinal mucosa,and their consequences on digestive health in young non-ruminant animals[J].Animal Feed Science and Technology,2003,108(1/2/3/4):95-117. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[41]MASLOWSKI K M,MACKAY C R.Diet,gut microbiota and immune responses[J].Nature Immunology,2011,12(1):5-9. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[42]LINDBERG JE.Fiber effects in nutrition and gut health in pigs[J].Journal of Animal Science and Biotechnology,2014,5:15. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[43]ZOETENDAL E G,COLLIER C T,KOIKE S,et al.Molecular ecological analysis of the gastrointestinal microbiota:a review[J].The Journal of Nutrition,2O04,134(2):465-472. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[44]KNUDSEN K E B,HANSEN I.Gastrointestinal implications in pigs of wheat and oat fractions[J].British Journal of Nutrition,1991,65(2):217-232. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[45]VAREL V H,POND W G,PEKAS J C,et al.Influence of high-fiber diet on bacterial populations in gastrointestinal tracts of obese-and lean-genotype pigs[J].Applied and Environmental Microbiology,1982,44(1):107-112. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[46]WILLIAMS B A,VERSTEGEN M W A,TAMMINGA S.Fermentation in the large intestine of single-stomached animals and its relationship to animal health[J].Nutrition Research ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Reviews,2001,14(2):207-228. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[47]DREW MD,VAN KESSEL A G,ESTRADA A E,et al.Effect of dietary cereal on intestinal bacterial populations in weaned pigs[J].Canadian Journal of Animal Science,2002,82(4):607-609. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[48] NIELSEN T S,LAERKE H N,THEIL P K,et al.Diets high in resistant starch and arabinoxylan modulate digestion processes and SCFA pool size in the large intestine and faecal microbial composition in pigs[J].British Journal of Nutrition,2014,112(11):1837-1849. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[49]MCDONALD D E,PETHICK D W,PLUSKE JR,et al.Adverse effects of soluble non-starch polysaccharide (guar gum) on piglet growth and experimental colibacillosis immediately after weaning[J].Research in Veterinary Science,1999,67(3):245-250. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[50]LIU H,IVARSSON E,DICKSVED J,et al.Inclusion of chicory(Cichorium intybus L.） in pigs' diets affects the intestinal microenvironment and the gut microbiota[J].Applied and environmental microbiology,2012,78(12):4102-4109. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[51] HAENEN D,DA SILVA C S,ZHANG J,et al.Resistant starch induces catabolic but suppresses immune and cell division pathways and changes the microbiome in the proximal colon of male pigs[J].The Journal of Nutrition,2013,143(12):1889-1898. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[52]HAENEN D,ZHANG J,DA SILVA C S,et al.A diet high in resistant starch modulates microbiota composition,SCFA concentrations,and gene expression in pig intestine[J].The Journal of Nutrition,2013,143(3):274-283. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[53]HAMAKER B R,TUNCIL Y E.A perspective on the complexity of dietary fiber structures and theirpotential effecton the gutmicrobiota[J].JournalofMolecular Biology,2014,426(23):3838-3850. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[54] GIBSON G R,ROBERFROID M B.Dietary modulation of the human colonic microbiota:introducing the concept of prebiotics[J]. The Journal of Nutriti0n,1995,125(6):1401-1412. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[55] BOUHNIK Y ,RASKINE L,SIMONEAU G,et al.The capacity of nondigestible carbohydrates to stimulate fecal bifidobacteria in healthy humans:a double-blind,randomized,placebo-controlled,parallel-group,dose-response relation study[J].The American Journal of Clinical Nutrition,2OO4,80(6):1658-1664. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[56]FREIREJPB,GUERREIRO A J G,CUNHA L F,et al.Effect of dietary fibre source on total tract digestibility,caecum volatile fatty acids and digestive transit time in the weaned piglet[J].Animal Feed Science and Technology,2000,87(1/2):71-83. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[57] HEDEMANN M S,ESKILDSEN M,LAERKE H N,et al.Intestinal morphology and enzymatic activity in newly weaned pigs fed contrasting fiber concentrations and fiber properties[J].Journal of Animal Science,2006,84(6):1375-1386. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[58]WELLOCK I J,FORTOMARIS P D,HOUDIJK J G,et al.The consequences of non-starch polysaccharide solubility and inclusion level on the health and performance of weaned pigschallengedwithenterotoxigenicEscherichiacoli[J].BritishJournalof Nutrition,2008,99(3):520-530. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[59]TOPPING D L,CLIFTON P M.Short-chain fatty acids and human colonic function:roles of resistant starch and nonstarch polysaccharides[J].Physiological Reviews,2001,81(3):1031-1064. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[60]TREMAROLI V,BACKHED F.Functional interactions between the gut microbiota and host metabolism[J].Nature,2012,489(7415):242-249. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[61] ICHIMURA A,HIRASAWA A,HARA T,et al.Free fatty acid receptors act as nutrient sensors to regulate energy homeostasis[J].Prostaglandins& Other Lipid Mediat0rs,2009,89(3/4):82-88. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[62] KAJI I,KARAKI S I,TANAKA R,et al.Density distribution of free fatty acid receptor 2 (FFA2)-expressing and GLP-1-producing enteroendocrine L cells in human and rat lower intestine,and increased cell numbers after ingestion of fructo-oligosaccharide[J].Journal of Molecular Histology,2011,42(1):27-38. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[63]SAMUEL B S,SHAITO A,MOTOIKE T,et al.Effects of the gut microbiota on host adiposity are modulated by the short-chain fatty-acid binding G protein-coupled receptor,Gpr41[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(43):16767-16772. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[64]CLAUS R,GUNTHNER D,LETZGUSS H.Effects of feeding fat-coated butyrate on mucosal morphology and function in the small intestine of the pig[J].Journal of Animal Physiology and Animal Nutrition,2007,91(7/8):312-318. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[65]VINOLO M A,RODRIGUES H G,HATANAKA E,et al.Suppressive effect of short-chain fatty acids on production of proinflammatory mediators by neutrophils[J].The Journal of Nutritional Biochemistry,2011,22(9):849-855. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[66]VINOLO M A R,RODRIGUES H G,NACHBAR R T,et al.Regulation of inflammation by short chain fatty acids[J].Nutrients,2011,3(1O):858-876. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[67] NICHOLSON J K,HOLMES E,KINROSS J,et al.Host-gut microbiota metabolic interactions[J].Science,2012,336(6086):1262-1267. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[68] KIM M H,KANG S G,PARK J H,et al.Short-chain fatty acids activate GPR41 and GPR43 on intestinalepithelial cells to promote inflammatory responses in mice[J].Gastroenterology,2013,145(2):396-406. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[69]WANG R L,HOU Z P,WANG B,et al.Effects of feeding galactomannan oligosaccharides on growth performance,serum antibody levels and intestinal microbiota in newly-weaned pigs[J].Journal of Food,Agriculture & Environment,2010,8(3/4):47-55. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[70]TANG Z R,YIN Y L,NYACHOTI C M,et al.Effect of dietary supplementation of chitosan and galacto-mannan-oligosaccharide on serum parameters and the insulin-like growth factor-ImRNAexpression in early-weanedpiglets[J].Domestic Animal Endocrinol0gy,2005,28(4):430-441. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[71]RAMSAY A J,HUSBAND A J,RAMSHAW I A,et al.The role of interleukin-6 in mucosal IgA antibody responses in vivo[J].Science,1994,264(5158):561-563. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[72]BAI Z B,ZHANG Z T,YE Y J,et al.Sodium butyrate induces differentiation of gastric cancer cells to intestinal cells via the PTEN/phosphoinositide 3 - kinase pathway[J].Cell Biology International,2010,34(12):1141-1145. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[73]VARUM F J O,VEIGA F,SOUSA J S,et al.An investigation into the role of mucus thickness on mucoadhesion in the gastrointestinal tract of pig[J].European Journal of Pharmaceutical Sciences,2010,40(4):335-341. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[74]CHEN H,WANG W,DEGROOTE J,et al.Arabinoxylan in wheat is more responsible than cellulose for promoting intestinal barrier function in weaned male piglets[J].The Journal of Nutrition,2015,145(1):51-58. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[75]CABOTAJE L M,SHINNICK F L,LOPEZ-GUISA J M,et al.Mucin secretion in germfree rats fed fiber-free and psyllium diets and bacterial mass and carbohydrate fermentation after colonization[J].Applied and Environmental Microbiology,1994,60(4):1302-1307. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[76]SCHMIDT-WITTIG U,ENSS M L,COENEN M,et al.Response of rat colonic mucosa to a high fiber diet[J].Annals of Nutrition & Metabolism,1996,40(6):343-350. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[77]CHE L Q,CHEN H,YU B,et al.Long-Term intake of pea fiber affects colonic barrier function,bacterialand transcriptionalprofile inpigmodel[J].Nutritionand Cancer,2014,66(3):388-399. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[78] HATAYAMAH,IWASHITAJ,KUWAJIMAA,etal.The short chain fatty acid,butyrate,stimulates MUC2 mucin production in the human colon cancer cell line,LS174T[J].Biochemical and Biophysical Research Communications,2007,356(3):599-603 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[79]BARCELO A,CLAUSTRE J,MORO F,et al.Mucin secretion is modulated by luminal factors in the isolated vascularly perfused rat colon[J].Gut,2Oo0,46(2):218-224. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[80]LIU H Y,LUNDH T,DICKSVED J,et al.Expresson of heat shock protein 27 in gut tissue of growing pigs fed diets without and with inclusion of chicory fiber[J].Journal of Animal Science,2012,90 Suppl 4:25-27. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ResearchProgress ofDietaryFiberAffect GutHealthofPigs² WU Weida XIE Jingjing ZHU Liyuan ZHANG Hongfu\\* (State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Science,Beijing 100193, China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ibstract: Gut health,which influences cffective nutrient absorption,stable intestinal microbial community and good immune function and so on. The gut health depends on diet, intestinal mucous membrane and intestinal microbial community. Dietary fiber (DF) is a mixture with complex composition and structure such as ellulose,hemicellulose,pectin and lignin and so on.DF may have positive effects such as to improve intestinal nutrients absorption, decrease intestinal $\\mathsf { p H }$ ，ameliorate the proportion of beneficial and potentially pathogenic bacteria, optimize intestinal microbial community composition and enhance mucosal barrier function and so on. The physiological impact of DF will be determined by the fiber properties and may differ considerably between fiber sources. This review summarized classification and characteristics of DF,and its influence on nutrition and immunologic function with a goal to promote dietary fiber utilization in pig feed industry. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: gut health; pigs; dietary fiber; short-chain fatty acids; intestinal microorganism ",
+        "page_idx": 18
+    }
+]

@@ -1,0 +1,742 @@
+[
+    {
+        "type": "text",
+        "text": "半干旱区煤化工高含盐废水自然蒸发规律研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭云彤¹，邵景力¹，崔亚莉¹，张秋兰¹，刘艳明²(1.中国地质大学(北京)水资源与环境学院,北京100083；2.中国地质环境监测院,北京100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究提出了1种选定特定区域可以代表气象因素影响的蒸发模型(公式)的实验方法，通过结合气象因子分析，将淡水的理论蒸发量与实际蒸发量进行对比，选定合理的蒸发模型，并结合对不同溶解性总固体(TDS)含盐废水蒸发实验的结果对蒸发模型进行了改进,使其适用于含盐废水蒸发量的计算，以此为企业在蒸发塘的建设阶段及运行、管理过程中提供理论依据。研究表明：在实验时段，蒸发与水面净辐射、气温呈正相关，与湿度呈负相关，与风速的相关性不显著；而从灰色关联度来看，气象因子对蒸发的影响程度为：水面净辐射 $\\mathrm { \\Phi } >$ 气温 $>$ 风速 $>$ 湿度；实验时段童宏良公式计算的淡水理论蒸发量为 $2 0 5 . 7 6 ~ \\mathrm { m m }$ ，为最接近当地的实际蒸发量 $2 0 5 . 5 1 ~ \\mathrm { m m }$ ，最能代表当地气象因素对水面蒸发的影响；而相对蒸发率和反映溶液组成变化的TDS大致呈线性相关， $R ^ { 2 }$ 达0.95,在此基础上确定了适宜当地估算含盐废水蒸发量的公式。本研究还从气温影响及溶液成分的角度对相对蒸发率进行讨论，认为实验值与蒸发塘实际记录值的差距是由于气温引起溶液饱和度下降导致的，而理论值与实验值的差距则是由于在计算时将含盐废水原液作为理想溶液，并未考虑溶液中各组分分子间的相互作用力。因此，蒸发塘选址时应注意当地的气象因素，且在蒸发塘处理含盐废水时，应及时对蒸发塘内的析出物进行处理,避免蒸发过程中TDS增大对蒸发的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键词：高含盐废水；蒸发模型(公式)；蒸发试验；相对蒸发率；TDS(溶解性总固体)；拉乌尔定律；半干旱区文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国西北地区煤炭资源丰富，是我国重要的能源基地。随着煤化工产业链的不断深化发展，煤化工项目含盐废水的排放量随之增大，煤化工废水水质复杂，除高含量的钠离子、硫酸根、氯离子、及硝酸根等无机离子外，还含大量酚类、联苯、吡啶、吲哚和喹啉等有毒污染物1，且经处理后的高含盐废水中亦仍有苯丙蒽、苯丙篦等有毒有害物质检出[2],直接排放将对环境及人类生存造成威胁。2014年，国家能源局发布的《关于规范煤制油、煤制天然气产业科学有序发展的通知》中明确指出，对取水量已达到或超过控制指标、主要污染物排放总量超标地区，暂停审批新建煤制油(气)示范项目[3]。水资源短缺与煤化工产业用水的矛盾以及含盐废水的污染问题已成为制约西部地区煤化工产业发展的瓶颈[2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据统计2019年中国煤化工项目共产生废水约$1 . 1 7 \\times 1 0 ^ { 8 } ~ \\mathrm { t } ^ { [ 4 ] }$ 。煤化工含盐废水产自煤气洗涤废水、循环水系统排水、除盐水系统排水及回用系统浓水等煤化工整个生产环节5，这些未经处理的初级废水溶解性总固体(TDS)可以达到 $5 0 0 { \\sim } 5 0 0 0 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 [ 6 ] }$ L这些水经有机废水处理、含盐废水处理和高浓盐水固化处理3个工段处理后废水回收率可达 $9 9 \\%$ 左右，剩余废水TDS的质量浓度可达 $8 0 0 0 0 \\ \\mathrm { m g \\cdot L ^ { - 1 } }$ 以上，处理难度大，一般直接进行蒸发处理[],该部分废水即为本次研究的主要对象。目前自然蒸发处理技术已在我国干旱半干旱区部分地区得到应用，但部分蒸发塘建立后的自然蒸发效果并不理想，含盐废水作为1种多组分的混合溶液，除气象因素外浓度也制约其自然蒸发效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前的水面自然蒸发研究中，研究大都集中在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "域。含盐废水溶液与海水、盐湖卤水同属于高浓度溶液，其蒸发规律与海水、盐湖卤水的蒸发规律有一定的相似性,故在研究中其影响因素及研究方法在本次研究中有一定借鉴意义。国内外对海水、盐湖卤水等高浓度溶液蒸发规律的研究已取得了一些成果。Laborrde[8将相同条件下盐湖卤水与淡水蒸发的比值定义为盐湖卤水蒸发的折算系数，并经研究得出该折算系数随盐水密度增大而减小，当接近饱和时（约 $1 . 3 5 \\ \\mathrm { g \\cdot c m ^ { - 3 } }$ ），折算系数下降至0.1。Salhotra等[9分析地中海和死海卤水的实验数据，从理论上研究了盐度和气温对蒸发量的影响,推导了一个基于道尔顿公式更为准确的湖蒸发预测公式。Al-Shammiri[10]在通过测量蒸馏水、海水（34000$\\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } ,$ )和2种不同盐度( $5 6 0 0 0 ~ \\mathrm { m g \\cdot L ^ { - 1 } }$ 和 $6 9 0 0 0 { \\mathrm { ~ m g } }$ ：${ \\mathrm { L } } ^ { - 1 }$ )盐水溶液蒸发速率的试验测试，建立了溶液蒸发速率与压力变化、风速及盐度的关系，结果表明随着水盐度的增加,蒸发速率下降。Salman等[]通过实验室试验测量不同浓度、水温、气温及不同风速下的盐水蒸发速率,并利用神经网络(NN)和遗传算法(GA)训练建立了盐水蒸发率的预测模型。李玲[12]利用自然蒸发仿真模拟实验系统对影响淡化后浓海水自然蒸发的气象因子及卤水因子的响应机理和协同作用进行研究，并利用统计学中的主成分分析，经过多重回归得到淡化浓海水蒸发的多因素数学模型。樊小境等[13]利用室内蒸发模拟方法进行了淡化浓海水自然蒸发的模拟实验，结果表明卤水蒸发速率随辐照度、风速的增加呈线性增加以及相对湿度的增加呈线性减小,随卤水温度和环境温度呈2次曲线增加。杜猛等[14在实验室条件下通过对多场作用下不同盐度海水蒸发速率的研究证明自然条件下，自然蒸发条件下气温是海水蒸发的主控因素,盐度对海水蒸发速率有一定影响。周莹[15]对淡化浓海水自然蒸发过程模拟实验，在一定的环境条件下，卤水蒸发率随TDS的增大而减小,TDS与蒸发率呈线性相关趋势。Gamazo等[16]提出了1种估算高盐度系统中水活性演化的方法以评价蒸发率,并模拟了天然盐湖盐水系统中蒸发和化学组分间的相互作用。上述研究成果显示,高浓度溶液蒸发的影响因素与淡水蒸发的影响因素相似,均为风速、气温及辐照度等。此外，高浓度溶液蒸发量还受密度、盐度及TDS的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前有关含盐废水的研究均是在实验室条件下进行的，然而实验室条件下的控制条件多，研究难度较大。因此本研究在煤化工含盐废水野外现场试验的基础上，分析气象因素对蒸发的影响，并通过分析蒸发率与溶液TDS指标之间的数量关系，建立天然条件下煤化工含盐废水蒸发量与气象因素、浓度的定量联系。在此基础上，可依据半干旱区煤化工高含盐废水自然蒸发的规律提出保证蒸发塘蒸发效率的相应措施，为企业在蒸发塘的建设阶段及运行、管理过程中提供理论依据，对化工生产实践具有一定的指导意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1水面蒸发公式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次研究选取在我国适用性较好的改进模型和经验公式[17-20],分别为以Dalton模型为基础的施成熙公式[18]和地理所公式[21]、以Peman模型为基础的童宏良公式[22]以及全国通用公式 $\\mathbf { C } ^ { [ 2 3 - 2 4 ] }$ ,具体如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）全国通用公式C(李万义公式)",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 0 } = \\Big [ 0 . 1 + 0 . 2 4 \\big ( 1 - U ^ { 2 } \\big ) ^ { 0 . 5 } \\Big ] \\big ( e _ { 0 } - e _ { 1 . 5 } \\big ) W ^ { \\big [ 0 . 8 5 W / ( W + 2 ) \\big ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\scriptstyle { E _ { 0 } }$ 为水面蒸发量 $( \\mathbf { m } \\mathbf { m } \\cdot \\mathbf { \\vec { d } } ^ { - 1 } ) ; U$ 为相对湿度，以百分数计 $( \\% ) { \\mathfrak { \\Gamma } } _ { ; { \\mathfrak { e } } _ { 0 } }$ 为水面水汽压( $\\mathrm { { h P a } }$ ； $e _ { 1 . 5 }$ 为水面以上 $1 . 5 \\mathrm { ~ m ~ }$ 处空气中的水汽压 $\\left( \\mathrm { { h P a } } \\right)$ ）； $W$ 为水面以上$1 . 5 \\mathrm { m }$ 处的风速 $\\left( \\mathbf { m } { \\cdot } \\mathbf { s } ^ { - 1 } \\right)$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）施成熙公式",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\scriptscriptstyle 0 } = 0 . 2 2 \\big ( e - e _ { \\scriptscriptstyle 1 . 5 } \\big ) \\sqrt { 1 + 0 . 3 2 u _ { \\scriptscriptstyle 1 . 5 } ^ { \\scriptscriptstyle 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $e$ 为根据水面温度求得的饱和水汽压 $\\left( \\mathrm { { h P a } } \\right)$ ;$e _ { 1 . 5 }$ 为水面以上 $1 . 5 \\mathrm { ~ m ~ }$ 处实际水汽压（ $\\left. \\mathrm { h P a } \\right.$ ; $u _ { 1 . 5 }$ 为1.5$\\mathrm { ~ m ~ }$ 处风速 $\\left( \\mathbf { m } { \\cdot } \\mathbf { s } ^ { - 1 } \\right)$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）地理所公式(洪嘉连公式)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$E _ { \\scriptscriptstyle 0 } = 0 . 1 4 4 \\big ( 1 + 0 . 7 5 u _ { \\scriptscriptstyle 1 . 5 } \\big ) \\big [ D + d \\big ( T _ { \\scriptscriptstyle 1 . 5 } \\big ) ( \\alpha - 1 ) T _ { \\scriptscriptstyle 1 . 5 } \\big ]$ (3) 式中： $u _ { 1 . 5 }$ 为 $1 . 5 \\mathrm { m }$ 高度风速 $( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } ) ; D$ 为饱和水汽压 差 $( \\mathrm { h P a } ) ; d ( T _ { 1 . 5 } )$ 为饱和水汽压斜率 $\\left( \\mathrm { h P a } \\cdot \\mathrm { ^ { \\circ } C ^ { - 1 } } \\right) ; \\alpha { - } 1$ 为 温度层调节系数； $T _ { 1 . 5 }$ 为 $1 . 5 \\mathrm { m }$ 处气温 $\\left( \\mathbb { C } \\right)$ ○ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）童宏良公式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "童宏良公式主要是在Peman公式的基础上结合我国实际情况，对公式中干湿球常数项 $( r )$ 、饱和水汽压曲线的斜率项 $\\left( \\Delta \\right)$ 、干燥力项 $\\left( E _ { \\mathrm { a } } \\right)$ 及水面净辐射项 $( R _ { \\mathrm { n } } )$ 进行修正和改进后提出的，其表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { 0 } } = \\frac { R _ { \\mathrm { n } } \\Delta + E _ { \\mathrm { a } } r } { \\Delta + r }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { \\mathfrak { n } }$ 为水面净辐射( $\\bf \\Pi _ { \\mathrm { m m } } ^ { ' }$ ； $\\Delta$ 为气温为 $T$ 时，饱和水汽压曲线的斜率 $\\left( \\mathrm { { h P a } } \\cdot \\mathrm { { ^ { \\circ } C ^ { - 1 } } } \\right)$ ; $E _ { \\mathrm { a } }$ 为空气干燥度函数； $r$ 为干湿球常数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2蒸发试验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验场地",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鄂尔多斯市是我国煤炭资源最丰富的区域之一，含煤面积约占全市总面积的 $70 \\%$ ,约占全国的$1 / 6 ^ { [ 2 5 ] }$ 。实验场地位于鄂尔多斯市伊金霍洛旗乌兰木伦河西侧，神华煤制油厂区内(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区域气候属典型的半干旱、半沙漠高原大陆气候。依据伊金霍洛旗气象站1980—2010年气象数据，各气象因子的月变化如图2所示，伊金霍洛旗多年平均降雨量 $3 5 7 ~ \\mathrm { m m }$ ,多集中于7、8月，占全年降雨量的 $5 3 \\%$ 以上，9、10月的降雨量在 $5 0 ~ \\mathrm { m m }$ 以下；年平均蒸发量 $2 1 6 9 ~ \\mathrm { m m }$ ,其中5—7月蒸发量较大，月蒸发量在 $3 0 0 ~ \\mathrm { m m }$ 以上，3月、8—10月蒸发量相对小，在 $1 5 0 { \\sim } 2 5 0 ~ \\mathrm { m m }$ 之间，其他月蒸发量均小于100$\\mathbf { m } \\mathbf { m }$ ;总体来看，蒸发量远远大于降雨量，约为其6倍。多年平均风速为 $2 . 5 5 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ,其中4、5月平均风速最大，在 $3 ~ \\mathrm { m \\cdot s ^ { - 1 } }$ 以上;多年平均气温 $6 . 9 ~ \\mathrm { ^ { \\circ } C }$ ,1—2月、11—12月平均气温低于 $0 \\mathrm { { ^ { \\circ } C } }$ ,5-9月平均气温高于 $1 0 \\ \\mathrm { { ^ { \\circ } C } }$ ,最高温出现在7月；区内湿度变化与风速呈现相反增长的趋势，4、5月湿度最大，8、9月湿度最小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2水样特征及处理方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验采用的某煤化工项目经前处理后的含盐废水，其组分中的钠离子、钙镁离子为主要阳离子，占阳离子总量的 $8 5 \\%$ 以上;阴离子以硫酸根离子、氯离子、硝酸根离子为主，占阴离子含量的 $9 9 \\%$ 以上，具体成分及含量如表1所示。含盐废水TDS达$8 7 . 7 6 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ $\\mathrm { \\ p H }$ 值为6.51,废水中有悬浮物，浊度为4,主要污染物以砷为主，还含有部分前处理过程中残留的石油类物质。将废水原液分别稀释为体积分数为 $1 0 \\% . 2 5 \\% . 5 0 \\%$ 的溶液，与一组含盐废水原液及一组淡水共五组溶液作为本次试验的实验水样。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec06a22455f6133e3e584bd6de7ada78bb404fa562be9b4d052698efb5b0393a.jpg",
+        "img_caption": [
+            "图1实验场地位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/03967157791f7c494c1d343127cca33958184899fd70dc1f0fa8da851de9cb03.jpg",
+        "img_caption": [
+            "Fig.1 Experimental site ",
+            "图2伊金霍洛旗多年平均月气象因子变化图",
+            "Fig.2 Change of annual average monthly meteorological factors in Ejin Horo Banner "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1含盐废水主要成分及含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a81bdb4cd4bfbf07dfe55112d8c046294269f3e5cbf9186e1dc1ed86b90d47d1.jpg",
+        "table_caption": [
+            "Tab.1 Main components and their contentsinsalinewastewater "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主要成分及指标</td><td>含量/mg·L-1</td><td>含量/mmol·L-1</td></tr><tr><td>钠(Na+)</td><td>24630.00</td><td>1070.87</td></tr><tr><td>镁（Mg2)</td><td>1663.00</td><td>69.29</td></tr><tr><td>钙(Ca²+)</td><td>715.70</td><td>17.89</td></tr><tr><td>钾(K*)</td><td>861.40</td><td>22.09</td></tr><tr><td>铵根（NH)</td><td>37.46</td><td>2.08</td></tr><tr><td>氯离子(CI-)</td><td>13205.10</td><td>371.97</td></tr><tr><td>硫酸根（SO）</td><td>30600.00</td><td>318.75</td></tr><tr><td>碳酸氢根（HCO)</td><td>195.30</td><td>3.20</td></tr><tr><td>硝酸根(NO）</td><td>15698.59</td><td>253.20</td></tr><tr><td>合计</td><td>87606.55</td><td>1</td></tr><tr><td>水(HO)</td><td>982393.45</td><td>54577.41</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验用淡水为当地地下水，经In-Situ AquaTROLL400多参数仪器测现场检测 $\\mathrm { \\ p H }$ 为8.42,盐度$0 . 2 \\%$ ,TDS约为 $1 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ ,密度为 $1 0 0 0 \\ \\mathrm { g \\cdot L ^ { - 1 } }$ ,相对于实验所用含盐废水，其所含溶解组分很少，可视作",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "淡水。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3试验装置及监测项目",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验装置包括E601型蒸发器(10台）及移动式气象站(2台）。E601蒸发器用于对蒸发量进行实测,其结果经折算后作为蒸发塘的实际蒸发量[26]TC-03移动式气象站安装于深 $5 0 \\ \\mathrm { c m }$ ，宽 $5 \\mathrm { m }$ ，长 $8 \\mathrm { ~ m ~ }$ 的水池之上，用于气象因素的测量。具体的监测项目及监测频率等信息如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4试验方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次试验在野外现场场地设置了10台E601蒸发器。10台E601蒸发器5台为一组分为实验组和对照组，2组数据可以相互验证。5台E601蒸发器分别对5种不同浓度（淡水，体积分数 $10 \\%$ ） $2 5 \\%$ 、$5 0 \\%$ 的溶液，废水原液)的含盐废水蒸发量进行测量，对比不同TDS对蒸发量的影响，现场具体布置如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用移动式气象站监测的气象数据带入已有的淡水水面蒸发公式中，对比E601蒸发器测量的淡",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2试验装置及观测项目",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/738995a5bb8ca40bde2051432eb2f5ed6d613df0b1575a61f270fcf876b80106.jpg",
+        "table_caption": [
+            "Tab.2 Observation project of the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>仪器</td><td>观测项目</td><td>观测期</td><td>观测频率</td><td>观测精度</td></tr><tr><td rowspan=\"5\">E601型蒸发器</td><td>淡水蒸发量</td><td>9月1日至10月29日上冻 为止(共59d)</td><td>每日1次人工观测</td><td>±0.01 mm</td></tr><tr><td>10%稀释原液蒸发量</td><td></td><td></td><td></td></tr><tr><td>25%稀释原液蒸发量</td><td></td><td></td><td></td></tr><tr><td>50%稀释原液蒸发量</td><td></td><td></td><td></td></tr><tr><td>含盐废水原液蒸发量</td><td></td><td></td><td></td></tr><tr><td rowspan=\"6\">TC-03移动式气象站</td><td>湿度(水面处、1.5m处)</td><td>9月1日至10月29日上冻</td><td>每小时1次自动观测</td><td>±2%</td></tr><tr><td>气温(水面处、1.5m处)</td><td>为止(共59d)</td><td></td><td>±0.1℃</td></tr><tr><td>风速(水面处、1.5m处)</td><td></td><td></td><td>±0.3 m·s-1</td></tr><tr><td>大气压</td><td></td><td></td><td>±0.3%</td></tr><tr><td>降雨量</td><td></td><td></td><td>±0.2 mm</td></tr><tr><td>总辐射</td><td></td><td></td><td>±5%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/70e86c35fdfabe7e0eff5974b8dfa69e9c1badb7b76822529ec8be8180ec1138.jpg",
+        "img_caption": [
+            "图3E601蒸发器布置图",
+            "Fig.3Field arrangement of E601 evaporator "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水蒸发量，选取最适宜研究区的水面蒸发公式，并结合TDS对蒸发量的影响,可确定合理的含盐废水蒸发公式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1气象因子分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验时段属于研究区典型的秋季时段。将试验时段内影响蒸发量变化的气象因子气温、风速、水面净辐射及湿度实测值与实测蒸发量分别进行对比，分别如图4、图5、图6和图7所示，从变化趋势上看，实际蒸发量与水面净辐射的变化趋势相同，与湿度的变化趋势高度相反，而与气温、风速的变化趋势相似性不高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用相关关系系数、灰色关联进行单因子分析，灰色关联(GRA)主要是通过确定参考数据和数个比较数据的几何形状相似程度来判断其联系是否紧密，该方法能反映参考数据与各相关因素关联度的大小次序，而不完全是关联度在数值上的大小[27]。分析结果如表3所示，在实验时间段，蒸发与水面净辐射、气温通过显著性检验，呈正相关，与湿度通过显著性检验，呈负相关，与风速的相关性不显著而从灰色关联度来看，实验时段气象因子对蒸发的影响程度为：水面净辐射 $>$ 气温 $\\mathrm { > }$ 风速",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2水面蒸发公式选取",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验获取了59d的日气象数据及淡水的日蒸发量数据。含盐废水的蒸发研究要以淡水的水面蒸发为基础，将气象数据分别带人李万义公式、施成熙公式、洪嘉连公式和童宏良公式4个改进的蒸发量计算公式中得到计算的理论蒸发量，从中选定",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f0a90785631b6db4a113739cafadf2447151ee47b225326534a25547e7c9bb4.jpg",
+        "img_caption": [
+            "Fig.4 Relationship between actual evaporation and temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6af8a79ddb7b25159cd984deff33b31cf9362e13e93b57c3c5df1980dd32d4c6.jpg",
+        "img_caption": [
+            "图4气温与实际蒸发量的关系",
+            "图5风速与实际蒸发量的关系",
+            "Fig.5Relationship between actual evaporation and wind speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a23e782d6fe5afed459f470cd543e30f539e31a73e98d61f75ad590479e17d03.jpg",
+        "img_caption": [
+            "Fig.6Relationship between actual evaporation and humidity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4213701d4da0d0e63f0ca80ab8df7775f92fa70bfc51328f530670c5b3290eeb.jpg",
+        "img_caption": [
+            "图6湿度与实际蒸发量的关系",
+            "图7水面净辐射与实际蒸发量的关系",
+            "Fig.7Relationship between actual evaporation and net radiation of water surface "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3蒸发量及气象因子关系分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/28972002e4d0f8aa9e05ae1f2c74a6fe6f7a8edbb7216033d2fd0b9aa520b24a.jpg",
+        "table_caption": [
+            "Tab.3 Analysis of relationship between evaporation and meteorological factors "
+        ],
+        "table_footnote": [
+            "注：\\*代表通过0.05水平检验；\\*\\*代表通过0.01水平检验。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">气象因子</td><td colspan=\"2\">蒸发量</td></tr><tr><td>相关系数</td><td>灰色关联度</td></tr><tr><td>风速</td><td>0.50</td><td>0.70</td></tr><tr><td>气温</td><td>0.32*</td><td>0.80</td></tr><tr><td>水面净辐射</td><td>0.82**</td><td>0.90</td></tr><tr><td>湿度</td><td>-0.66**</td><td>二</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一个合适的水面蒸发公式。水面蒸发的理论及实际量如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图8所示，从总体上看所有曲线趋势大体相同，但依据李万义公式、施成熙公式、洪嘉连公式计算的蒸发量要明显小于实际蒸发量，而童宏良公式的计算值与实际值更为接近。对理论蒸发量曲线及实测蒸发量曲线进行均方根误差分析(RMSE)及$R ^ { 2 }$ 分析(表4)，童宏良公式计算的理论蒸发量与实测蒸发曲线的离散度最小，计算的理论蒸发量变化趋势与实际蒸发量的变化趋势最为相似，这也与上一节气象因子分析结果相似,太阳辐射是影响蒸散的重要因子，其作用不可忽略。童宏良公式以Pe-man模型为基础，具有较好的理论依据，计算精度更高，更适宜应用于太阳辐射强烈的地区四季的蒸散量研究[28]。综上，童宏良公式计算的蒸发量最为接近当地的实际蒸发量，最能代表气温、风速、湿度及太阳辐射对水面蒸发的影响，因而选定童宏良公式在校正后对当地的自然蒸发量进行估算。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c5b9b17021d5a8471853f05d52f3182fddfe5d1d5b94ae8b44e89c342706efa.jpg",
+        "img_caption": [
+            "图84个公式计算理论蒸发量与E601实测蒸发量曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 Curves of the theoretical evaporation(calculated by the fomulas)and the measured evaporation(E601) ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/bca2039142382f3956dc33f4ad3aba69e013bb428c2165f1241e9814fe9dd44f.jpg",
+        "table_caption": [
+            "Tab.4Correlation between theoretical evaporation and measured evaporation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>与实测值相关关系</td><td>李万义公式</td><td>施成熙公式</td><td>洪嘉连公式</td><td>童宏良公式</td></tr><tr><td>R</td><td>0.565</td><td>0.548</td><td>0.501</td><td>0.605</td></tr><tr><td>均方根误差</td><td>2.283</td><td>2.063</td><td>1.982</td><td>1.011</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3含盐废水蒸发速率公式的确定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用累加法对测得的9月1日到10月29日共59d的数据进行累加，得到的蒸发量及相应水质数据如表5所示，为表征TDS对蒸发的影响，引入相对蒸发率，相对蒸发率为不同TDS溶液蒸发量与淡水蒸发量的比值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表中数据可知，前四组水样前后两次测量的水质数据基本一致，而第五组水样前后两次测量的水质数据变化较大，实验末期水样的密度、TDS明显减小，与第六组在实验末期新取废液的密度与TDS值基本相同。这是由于试验过程中随着气温的下降，溶液的饱和度随之降低，故而第五组含盐废水原液的TDS有所下降，而在试验过程中废水原液中确可见有固体析出。因此，在实验末期气温条件下，第五组含盐废水原液应接近为饱和溶液，另外四组溶液实验前后的TDS变化不大，应未达到饱和",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5蒸发量及水质",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fac55f896bef600c407a2388568fdbc82578714d7cc84e84d8ee56b1c435d02.jpg",
+        "table_caption": [
+            "表4各理论蒸发量与实测蒸发量相关关系",
+            "Tab.5 Evaporation and water quality "
+        ],
+        "table_footnote": [
+            "注：表中蒸发试验初期(9月1日)的各组水样数据为实验室测定,蒸发试验末期(10月29日)水质数据由In-Situ Aqua TROLL400多参数仪器测现场监测，手持水质仪在低TDS的情况下测试结果误差较大( $\\mathrm { \\Delta T D S { < } 1 \\ g { \\cdot } L ^ { - 1 } \\mathbb { H } }$ 寸)。TDS为溶解性固体。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号</td><td rowspan=\"2\">水样</td><td colspan=\"2\">TDS/g·L-1</td><td colspan=\"2\">密度/g·L-</td><td rowspan=\"2\">累计蒸发量/mm</td><td rowspan=\"2\">相对蒸发率/%</td></tr><tr><td>初期</td><td>末期</td><td>初期</td><td>末期</td></tr><tr><td>1</td><td>淡水</td><td>0.04</td><td>1</td><td>1000</td><td>1000</td><td>205.51</td><td>1.000</td></tr><tr><td>2</td><td>10%废水</td><td>18.79</td><td>18</td><td>1013</td><td>1013</td><td>199.91</td><td>0.973</td></tr><tr><td>3</td><td>25%废水</td><td>22.76</td><td>22</td><td>1017</td><td>1016</td><td>199.21</td><td>0.969</td></tr><tr><td>4</td><td>50%废水</td><td>43.82</td><td>41</td><td>1036</td><td>1030</td><td>196.13</td><td>0.954</td></tr><tr><td>5</td><td>原始废水</td><td>87.57</td><td>52</td><td>1070</td><td>1042</td><td>192.65</td><td>0.937</td></tr><tr><td>6</td><td>实验末期新取废水</td><td>二</td><td>53</td><td>二</td><td>1043</td><td>二</td><td>二</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "状态。在分析过程中，前四组水样以初期测量的TDS为准，第五组水样取初末期TDS均值进行分析。结合含盐废水TDS对相对蒸发率 $\\mathbf { \\Pi } ( \\mathbf { \\alpha } _ { \\alpha } )$ 进行拟合分析，相对蒸发率随溶液TDS的变化情况如图9所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc3f30078a72728da2031e7f8003a7e8b920ca0538951c5c2224fd88abdbc3f9.jpg",
+        "img_caption": [
+            "图9TDS与相对蒸发率关系",
+            "Fig.9 Relationship between TDS and evaporation rate "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图9可知， $\\alpha$ 与TDS基本呈线性关系，即随着盐度的升高，相对蒸发率越来越小。通过线性拟合中 $R ^ { 2 } { = } 0 . 9 5$ )可知，直线方程为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha { = } - 0 . 0 0 0 9 \\times \\mathrm { T D S } + 0 . 9 9 3 2\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则含盐废水蒸发量 $E$ 与淡水的蒸发量 $\\scriptstyle { E _ { 0 } }$ 相关关系为： $\\boldsymbol { E } = \\boldsymbol { \\alpha } \\times \\boldsymbol { E } _ { 0 }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\left( - 0 . 0 0 0 9 \\times \\mathrm { T D S } + 0 . 9 9 3 2 \\right) \\times E _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 为含盐废水蒸发量 $( \\mathrm { m m }$ ）； $E _ { 0 }$ 为淡水蒸发量1 $( \\mathrm { m m } )$ )；TDS为溶解性总固体 $\\left( \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 } \\right)$ ; $\\alpha$ 为相对蒸发率,无量纲。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在此基础上，对童宏良公式加以改进得到计算含盐废水蒸发量的公式，如下所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = 0 . 0 0 0 1 \\times \\left( 9 9 3 2 - 9 \\times \\mathrm { T D S } \\right) \\times \\frac { R _ { \\mathrm { n } } \\Delta \\ + E _ { \\mathrm { a } } r } { \\Delta \\ + r }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Laborrde的研究显示，当浓盐水密度 $< 1 2 0 0 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 时，相对蒸发率 $> 0 . 7$ 。而本次研究中含盐废水原液的初始密度值 $1 0 7 0 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ ,末期密度值为 $1 0 4 2 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ ，其相对蒸发率为0.937，这也与Laborrde的研究结果的密度对应蒸发率范围结果一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从气温对蒸发的影响方面进行讨论，而依据本次试验场地企业蒸发塘的实际运行记录来看，蒸发塘实际的相对蒸发率在0.6\\~0.7之间，而本次实验结果显示的废水原液相对蒸发率为0.937，分析其原因是由于实验时段属于秋季，气温下降导致废水原液的饱和度降低，部分可溶性固体析出导致TDS下降，因而含盐废水的相对蒸发率比实际蒸发塘的记录值偏大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，从溶液成分对蒸发的影响方面进行讨论。当溶液里存在溶质时，溶液浓度越大，溶质分子会增大分子间的作用力，导致水分子脱离溶液面比脱离纯水面要克服更大的吸引力，故浓度对自然蒸发过程起抑制作用。从实际结果可知蒸发率与反应溶液组分变化的参数TDS变化大致成线性相关。从理论上进行分析，依据拉乌尔定律，在某一气温下，稀溶液的蒸气压等于纯溶剂的蒸气压乘以溶剂的摩尔分数,数学表达式为[29]：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { \\tiny ~ A } } = P \\times _ { { \\mathscr { x } } _ { \\mathrm { \\tiny ~ A } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { \\mathrm { { A } } }$ 为溶液中溶剂的蒸气分压； $P$ 是纯溶剂的蒸气压； $x _ { \\mathrm { { A } } }$ 是溶剂的物质的量分数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最初，拉乌尔定律是在研究不挥发性非电解质的稀薄溶液过程中总结出来的，后来发现其对于其他稀薄溶液也同样适用[30]。稀溶液是化学反应中常见的体系，实际溶液当其稀释到一定程度时，均可作为理想稀溶液。而溶液的浓稀只与溶质、溶液质量的比值有关，与溶液的气温、溶质和溶剂的种类等无关[31]。对于理想溶液，溶质分子和溶剂分子间相互作用忽略不计。溶剂物质的量分数：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { \\mathrm { A } } = { \\frac { n _ { \\mathrm { A } } } { n _ { \\mathrm { A } } + n _ { \\mathrm { B } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "则乌拉尔定律又可写作：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { { A } } } = P \\times { \\frac { n _ { \\mathrm { { A } } } } { n _ { \\mathrm { { A } } } + n _ { \\mathrm { { B } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中： $n _ { \\mathrm { A } }$ 为溶剂物质的量； $n _ { \\mathrm { B } }$ 为溶质物质的量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对实验水样进行分析，水样的成分见表1，其主要阴阳离子包括 $\\mathrm { N a } ^ { + } , \\mathrm { C a } ^ { 2 + } , \\mathrm { M g } ^ { 2 + }$ ， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { C l ^ { - } }$ 和 $\\mathrm { N O } _ { 3 } ^ { - }$ 。已知含盐废水密度仅为 $1 0 7 0 \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ,TDS为 $8 7 . 6 \\ \\mathrm { g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，溶质与溶剂的质量比仅仅约为0.089，属于稀溶液。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "依据童宏良蒸发公式（Peman公式的改进公式）溶液的蒸发量 $E$ 可分别表示为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { R _ { \\mathrm { n } } \\Delta + E _ { \\mathrm { a } } r } { \\Delta + r }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 为每天溶液的自由水面蒸发量 $\\cdot \\mathrm { m } \\mathrm { m } \\cdot \\mathrm { d } ^ { - 1 }$ ）； $E _ { \\mathrm { a } }$   \n为溶液的空气干燥度函数。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "依据童宏良公式，干燥度函数的计算公式为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { a } } = f \\big ( u _ { 2 } \\big ) \\big ( P _ { \\mathrm { w } } - P _ { \\mathrm { d } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "式中： $u _ { 2 }$ 为离地面 $2 \\mathrm { m }$ 处的风速 $\\left( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } \\right) ; f ( u _ { 2 } )$ 为风速函数； $P _ { \\mathrm { ~ w ~ } }$ 为饱和水汽压； $P _ { \\mathrm { ~ d ~ } }$ 为水面水汽压 $\\left( \\mathrm { { h P a } } \\right)$ 0",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "依据公式(10)及(12)，可以得到溶液的空气干燥度函数 $E _ { \\mathrm { a } }$ .",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { a } } = f { \\big ( } u _ { 2 } { \\big ) } { \\left( { \\frac { n _ { \\mathrm { A } } } { n _ { \\mathrm { A } } + n _ { \\mathrm { B } } } } \\times P _ { \\mathrm { ~ w ~ } } - P _ { \\mathrm { d } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "依据表1对溶液进行分析,得到 $n _ { \\mathrm { A } } / ( n _ { \\mathrm { A } } + n _ { \\mathrm { B } } )$ 为0.96，则依据公式(11)及公式(13)计算的理想溶液蒸发量为 $1 9 5 . 5 5 ~ \\mathrm { m m }$ ，已知 $5 9 \\mathrm { d }$ 淡水的累计蒸发量为 $2 0 5 . 5 1 ~ \\mathrm { m m }$ ，则相对蒸发率为0.95,大于废水原液实际的相对蒸发率为0.937，这是由于拉乌尔定律适用于理想溶液，忽略了分子间作用力，而煤化工含盐废水组分复杂，溶质分子在混合溶液中变得比在单相溶液中更难逃逸。此外，废水中的悬浮物和有机质(油类)长期积累漂浮在水面，也对蒸发量产生了影响。故而相对于理论蒸发率而言，煤化工含盐废水的实际蒸发率偏小，即对拉乌尔定律产生了负偏差，实验所用原始废水并非理想溶液。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本次研究受实验条件所限，实验时段仅为9月1日一11月2日，并未涵盖研究区蒸发作用较强的夏季时段。但已有的大量研究结果揭示与本次研究的结果相似。如熊玉琳等[32]利用海河流域17个气象站年气象资料分析了海河流域蒸发皿蒸发量与相对湿度、风速、日照时数、气温等的变化趋势及其回归关系，其结果显示日照时数对蒸发皿蒸发量变化的贡献值最大，然后依次是相对湿度、风速、气温。王冰[33利用烟台市1971—2010年蒸发皿蒸发量资料和气温、日照、降水等气象资料，分四季对蒸发血蒸发量变化趋势及影响气象因子进行了相关性分析，结果显示：春季蒸发量主要受日照时数和平均相对湿度影响;夏季蒸发量主要与日照时数、相对湿度及气温有关;秋季日照时数越多、平均风速越大，平均相对湿度越低，蒸发量越大；冬季平均相对湿度越低、降水越少，蒸发量越明显。而针对干旱半干旱区，张逸君等[34]借助民勤典型荒漠地貌西沙窝的标准气象站观测资料，得到1966—2015年蒸发量与主要气象因子变化的相关关系以及关联的密切程度为：日照时数 $>$ 湿度 $>$ 风速。王晓萌等[35基于气象站点观测数据，辅以趋势分析和小波相干方法，对秦岭南北气温和潜在蒸发变化特征进行分析，认为在主导因素上，潜在蒸发对太阳辐射变化更为敏感，风速并非区域潜在蒸发变化的主导因素。陈伏龙等36对三工河流域平原区1981—2012年蒸发量变化特征及主要影响因子进行了分析，结果显示：以1981—1990年为基准期，1991—2000年风速和日照时数减少对蒸发量减少的贡献率分别为 $8 5 . 2 7 \\%$ 和 $2 0 . 7 0 \\%$ ；而2001—2012年风速和日照时数的减少对蒸发量减少的贡献率分别为$5 2 . 3 2 \\%$ 和 $3 9 . 9 1 \\%$ 。总体来看，日照时数(水面净辐射量)和相对湿度往往是影响蒸发的主要因素，风速和气温的影响往往随着季节发生变化。在本次实验的研究区,实验时段(秋季)平均风速 $2 . 6 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ，而春夏季平均风速在 $3 . 5 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 以上，故在夏季风速对蒸发量的影响更大。而本次研究中选取的童宏良公式，一定程度上能定量反映蒸发量与气象因子间关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）通过对实验场地气象因子进行分析可知，在实验时间段，蒸发与水面净辐射、气温呈正相关，与湿度呈负相关，与风速的相关性不显著。而从灰色关联度来看，气象因子对蒸发的影响程度为：水面净辐射 $>$ 气温 $>$ 风速。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）本次研究将李万义公式、施成熙公式、洪嘉连公式和童宏良公式得到的理论蒸发量与实测蒸发量进行了对比，其结果显示，童宏良公式计算的理论蒸发量 $2 0 5 . 7 6 \\mathrm { \\ m m }$ 更接近于实际蒸发量205.51$\\mathbf { m } \\mathbf { m }$ ，且均方根误差及 $R ^ { 2 }$ 分析的结果均显示童宏良公式的适用性最好。故在属半干旱区的试验区，童宏良公式最能代表气温、风速、湿度及太阳辐射等气象因素对水面蒸发的影响，对其进行改进用以计算含盐废水蒸发是较为可行的选择。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）通过对场地蒸发实验获得的不同浓度含盐废水的蒸发数据进行对比，引入相对蒸发率，通过分析相对蒸发率随TDS的变化情况，得到其随TDS变化的线性关系， $R ^ { 2 }$ 在0.97以上。并在此基础上改进了以Peman公式为基础的童宏良公式，使其适用于含盐废水的蒸散量的计算。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）从气温影响及溶液成分的角度分析了含盐废水理论相对蒸发率与实验所得相对蒸发率以及蒸发塘记录的相对蒸发率产生差别的原因：实验值与记录值的差距是由于气温引起溶液饱和度下降，导致溶液中有部分溶质析出，TDS下降；而理论值与",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理 也理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验值的差距是由于理论值在计算过程中认为含盐废水原液为理想溶液，并未考虑溶液中各组分分子间的相互作用力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "针对本次研究结果，对蒸发塘的建立及运行提出如下建议：首先，在蒸发塘选址时应重点考虑当地的气象因素，如选址应在气温相对高且风速较大地势开阔的地带。除气温、风速、湿度等常规考虑因素外，太阳辐射更应是重点考虑的因素之一；其次，除气象因素外，含盐废水的TDS对其蒸发有一定影响，因此可考虑建设多级蒸发塘，当废水蒸发一段时间后排入下一级蒸发塘中，以便在运行过程中通过排入下级蒸发塘来及时清理上一级蒸发塘中废水析出的沉淀，防止其再次溶解，尽量减小含盐废水的TDS。此外，亦需及时清理水面上漂浮的油类及悬浮物，使水面能够正常接收太阳辐射。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]崔粲粲,梁睿,罗霖,等.现代煤化工含盐废水处理技术进展及 对策建议[J].洁净煤技术,2016,22(6):95-100,65.[Cui Cancan,Liang Rui,Luo Mu,et al.Research progress and suggestion of coal chemical salty waste water treatment technologies[J]. Clean Coal Technology,2016,22(6): 95-100,65.]   \n[2]刘艳明,郭云彤,魏江波,等.煤化工不同浓度含盐废水相对蒸 发率的试验研究[J].安全与环境工程,2017,24(2):91-96.[Liu Yanming,Guo Yuntong,Wei Jiangbo,et al. Experimental study on relative evaporation rate of salty wastewater from coal chemical industry[J]. Safety and Environmental Engineering,2017,24(2): 91- 96.]   \n[3]耿翠玉,乔瑞平,任同伟,等.煤化工浓盐水\"零排放\"处理技术 进展[J].煤炭加工与综合利用,2014(10):34-42,8.[Geng Cuiyu, Qiao Ruiping,Ren Tongwei, et al. Progress in treatment of “zero discharge”of concentrated brine in coal chemical industry[J]. Coal Processing & Comprehensive Utilization,2014(1O):34-42, 8.]   \n[4]陈莉荣,邬东,谷振超,等.煤化工含盐废水的处理技术应用进 展[J].工业水处理,2019,39(12):12-18.[Chen Lirong,Wu Dong, Gu Zhenchao,et al.Technology application on salt-containing wastewater treatment in coal chemical industry[J]. Industrial Water Treatment,2019,39(12): 12-18.]   \n[5]程以东,杨大卫.零排放技术在煤化工废水处理中的应用展望 [J].化工管理,2021(9): 42-43.[Cheng Yidong,Yang Dawei. Prospect of zero discharge technology in coal chemical wastewater treatment[J]. Chemical Enterprise Management, 2O21(9): 42-43.]   \n[6]刘艳明,高存荣,魏江波,等.煤化工高含盐废水蒸发处理技术 进展[J].环境工程,2016,34(增刊1):432-436.[Liu Yanming, Gao Cunrong,Wei Jiangbo,et al.Development of evaporation treatment of high salinity wastewater in coal chemical[J].Environmental Engineering,2016,34(Suppl.1): 432-436.]   \n[7]李柄缘,刘光全,王莹,等.高盐废水的形成及其处理技术进展 [J].化工进展,2014,33(2):493-497,515.[Li Bingyuan,Liu Guangquan,Wang Ying,et al.Formation and treatment of highsalt wastewater[J]. Chemical Industry and Engineering Progress, 2014, 33(2): 493-497, 515.]   \n[8]Laborrde M E.Determination of brine evaporation rates in solar ponds as a function of magnesium chloride concentration[C]/Sixth International Symposium on Salt.Virginia: Salt Institute,1983,2: 407-416.   \n[9]Salhotra Atul M,Adams E Eric,Harleman Donald RF. The alpha, beta,gamma of evaporation from saline water bodies[J]. Water Resources Research,1987,23(9): 1769-1774.   \n[10]Al-Shammiri M.Evaporationrateasafunctioof watersalinity[J]. Desalination,2002,150(2): 189-203.   \n[11] Salman A,Al-Shammiri M. New computational intelligence model for predicting evaporation rates for saline water[J].Desalination, 2007,214(1-3): 273-286.   \n[12] 李玲.淡化浓海水自然蒸发多因素协同作用规律研究[D].天 津：天津科技大学,2015.[Li Ling.Study on multi-factor synergism effecting on natural evaporation law of concentrated seawater [D].Tianjin: Tianjin University of Science and Technology,2015.]   \n[13] 樊小境,杜威,周莹,等.淡化浓海水自然蒸发速度影响规律研 究[J].水处理技术,2016,42(10):84-88.[Fan Xiaojing,Du Wei, Zhou Ying,eal.The effectof natural evaporation factors on evaporation rate of concentrated seawater[J].Technology of Water Treatment,2016,42(10): 84-88.]   \n[14] 杜猛,董华,刘宜波.多场作用下不同盐度海水蒸发速率实验研 究[J].青岛理工大学学报,2015,3(2):71-74.[Du Meng,Dong Hua, Liu Yibo.Experimental study of different salinity of seawater evaporation rate in multiple field[J].Journal of Qingdao Technological University,2015,3(2): 71-74.]   \n[15] 周莹.淡化浓海水自然蒸发过程模拟研究[D].天津:天津科技 大学,2015.[Zhou Ying.A simulation study on natural evaporation process of concentrated seawater[D].Tianjin: Tianjin University of Science and Technology,2015.]   \n[16]Gamazo P,Bea SA,Saaltink MW,et al. Modeling the interaction between evaporation and chemical composition in a natural saline system[J]. Journal of Hydrology,2011,401(3-4): 154-164.   \n[17] Jodat A, Moghiman M, Anbarsooz M. Experimental comparison of the ability of Dalton based and similarity theory correlations to predict water evaporation rate in different convection regimes[J]. Heat Mass Transfer,2012,48: 1397-1406.   \n[18]施成熙,卞毓明,朱晓原.确定水面蒸发模型[J].地理科学, 1984,4(1): 1-11.[Shi Chengxi, Bian Yuming, Zhu Xiaoyuan. Models for estimation of evaporation from water surfaces[J]. Scientia Geographica Sinica,1984, 4(1): 1-11.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19]闵骞.利用彭曼公式预测水面蒸发量[J].水利水电科技进展,",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2001,21(1): 37-39.[Min Qian.Predictionof water surfaceevapo ration by Penman formula[J].Advances in Science and Technology of Water Resources,2001,21(1): 37-39.]   \n[20]孙夏利,费良军,李学军.我国水面蒸发研究与进展[J].水资源 与水工程学报,2009,20(4):17-22,25.[Sun Xiali,Fei Liangjun, Li Xuejun. Research and development of water surface evaporation in China[J]. Journal of Water Resourcesand Water Enginering,2009,20(4): 17-22,25.]   \n[21] 张士锋,王翠翠,孟秀敬,等.永定河北京段蒸散发研究[J].地理 科学进展,2013,32(4): 580-586.[Zhang Shifeng,Wang Cuicui, Meng Xiujing,et al. Evaporation study in Beijing section of the Yongding River[J].Progress in Geography,2013,32(4): 580-586.]   \n[22] 童宏良.我国蒸发力计算的气候学方法[J].南京气象学院学报, 1989,12(1): 19-33.[Tong Hongliang.A climatic calculation method for the evaporation power in China[J]. Journal of Nanjing Institute of Meteorology,1989,12(1): 19-33.]   \n[23] 李万义.适用于全国范围的水面蒸发量计算模型的研究[J].水 文,2000,20(4): 13-17.[Li Wanyi. A study on the genearlized modelof water surface evaporation[J]. Journal of China Hydrology, 2000, 20(4): 13-17.]   \n[24]武金慧,李占斌.水面蒸发研究进展与展望[J].水利与建筑工程 学报,2007,5(3):46-50.[Wu Jinhui,Li Zhanbin.Advances and prospect of research on water surface evaporation[J]. Journal of Water Resources and Architectural Engineering,20o7,5(3): 46-50.]   \n[25] 崔秀萍,吕君,王珊.生态脆弱区资源型城市生态环境影响评价 与调控[J].干旱区地理,2015,38(1):148-154.[Cui Xiuping,Lyu Jun,Wang Shan. Resource-based city ecological environment impact assessment and regulation in ecological fragile region[J]. Arid Land Geography,2015,38(1): 148-154.]   \n[26]庞成,马鸿勇,王伏村,等.张掖E601型与小型蒸发观测资料对 比[J].干旱气象,2011,29(3):362-367.[Pang Cheng,Ma Hongyong,Wang Fucun, et al. comparative analysis of E6Ol and smallsized evaporator data in Zhangye of Gansu Province[J]. Journal of Arid Meteorology,2011,29(3): 362-367.]   \n[27] 刘美玲,王子佳,朱丽丽,等.齐齐哈尔地区蒸发量与气象因子 间灰色关联分析[J].东北水利水电,2018,36(3):12-16,71.[Liu Meiling,Wang Zijia, Zhu Lili,et al.Grey correlation analysis for evaporation capacity and meteorological factors in Qiqihar area[J]. Water Resources and Hydropower of Northeast,2018,36(3): 12- 16, 71.]   \n[28]齐文,郑绵平.西藏盐湖卤水蒸发速率的实验与计算[J].地质学 报,2007,81(12): 1727-1733.[Qi Wen, Zheng Mianping.Rates of evaporation from saline lakes on the Tibetan Plateau: An approach to measurements and calculations[J].Acta Geologica Sinica, 2007, 81(12): 1727-1733.]   \n[29]傅献彩,陈瑞华.物理化学[M].上海:人民出版社,1979:224- 225.[Fu Xiancai, Chen Ruihua.Physical chemistry[M]. Shanghai: Chinese People's Publishing House,1979: 224-225.]   \n[30] 彭昌军,陈古圣.用吸附理论证明拉乌尔和亨利定律[J].武汉化 工学院学报,1995,17(2): 20-22.[Peng Changjun, Chen Gusheng.A demonstration of Raoult’s law and Herry’s law by using absorption theory[J].Journal of Wuhan Institute of Chemiscal Technology,1995,17(2): 20-22.]   \n[31] 林树坤,卢荣.物理化学[M].武汉:华中科技大学出版社,2016: 86-88.[Lin Shukun,Lu Rong.Physical chemistry[M]. Wuhan: Huazhong University of Science and Technology Press,2016: 86-88.]   \n[32] 熊玉琳,赵娜.海河流域蒸发皿蒸发量变化及其影响[J].南水北 调与水利科技,2020,18(2): 22-30.[Xiong Yulin,Zhao Na.Analysis of variation in pan evaporation and its influencing factors in Haihe River Basin[J].South-to-North Water Transfers and Water Science and Technology,2020,18(2): 22-30.]   \n[33]王冰.烟台市蒸发皿蒸发量变化趋势及影响气象因子分析[C]/ 中国气象学会.第33届中国气象学会年会S5应对气候变化、 低碳发展与生态文明建设.北京:中国气象学会,2016:10. [Wang Bing.Analysis of meteorological factors and effect on change trend of evaporation from evaporating dishes in Yantai[C// Chinese Meteorological Society.33rd Annual Meeting of China Meteorological Society-Coping with Climate Change,Low Carbon Development and Ecological Civilization Construction.Beijing: Chinese Meteorological Society,2016: 10.]   \n[34] 张逸君,焦健,杨自辉,等.50年民勤西沙窝蒸发量与主要气象 因子变化关系研究[J].甘肃林业科技,2018,43(3):23-27. [Zhang Yijun,Jiao Jian,Yang Zihui,etal. Study on the relationship between evaporation characteristics of Minqin Xishawo Desert area for 5O years and the main meteorological factors change [J]. Journal of Gansu Forestry Science and Technolgy,2O18,43(3): 23-27.]   \n[35] 王晓萌,延军平,李双双,等.秦岭南北潜在蒸发与气温响应关 系及其影响因素[J].干旱区地理,2020,43(6):1435-1445. [Wang Xiaomeng,Yan Junping,Li Shuangshuang,et al.Spatiotemporal relationship between evaporation and temperature in the south and northof Qinling Mountainsandits influential factors[J]. Arid Land Geography,2020, 43(6): 1435-1445.]   \n[36] 陈伏龙,冯平,吴泽斌.三工河流域平原区蒸发量变化特征及影 响因素[J].干旱区地理,2017,40(1):45-53.[Chen Fulong,Feng Ping,Wu Zebin. Changes of evaporation and impact factors in the plain region in Sangong River Basin[J].AridLand Geography, 2017,40(1): 45-53.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Natural evaporation processing of high saline wastewater in semi-arid area ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GUO Yuntong'， SHAO Jingli'， CUI Yali'， ZHANG Qiulan'，LIU Yanming²(1.College of Water Resourcesand Environment,China UniversityofGeosciences(Beijing),Beijinglo83,China;2.China Institute of Geo-environment Monitoring,Beijing 1Ooo83,China)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To enablea deepunderstanding of the influence of meteorological factorsand TDSon the evaporation of saline wastewater in semi-arid areas,as well as to provide a reference and basis for the construction,operation, and management of evaporation ponds,based on the evaporation and meteorological data of the experimental station and Ejin Horo County， Inner Mongolia Autonomous Region， China,this paper analyzed natural evaporation processing of high saline wastewater.The influence degree of diferent meteorological factors on the water surface evaporation was analyzed using correlation analysis and the gray correlation method. On this basis, a local theoretical evaporation formula was determined by comparing diferent theoretical formulas to calculate the evaporation and measured evaporation.Finally, the influence of TDS on the evaporation of saline wastewater with different concentrations was analyzed using a linear regression analysis. The results show that the evaporation of fresh water is positively correlated with the net radiation of the water surface and air temperature, negatively correlated with humidity,and insignificantly correlated with the wind speed during the experimental period.The order of the effects of the meteorological factors on evaporation was net radiation from water surface> temperature>wind speed>humidity.Tong Hongliang's formula can best represent the influence of the meteorological factors on the evaporation of the water surface because its calculation result of $2 0 5 . 7 6 ~ \\mathrm { m m }$ was closest to the actual local evaporation of $2 0 5 . 5 1 \\ \\mathrm { m m }$ during the experimental period. The relative evaporation rates of different TDS water samples were approximately linearly correlated with their TDS values ( $R ^ { 2 } { = } 0 . 9 5$ ).In addition，the relative evaporation rate was discussed from the point of view of the temperature efect and solution composition. It is thought that the difference between the experimental valueand the actual recorded value of the evaporation pool mightbe due to the decrease in the solution saturation caused by temperature,while the diference between the theoretical and experimental values might be due to the fact that the saline wastewater was treated as an ideal solution in the calculation without considering the interaction force between the molecules of each component in the solution.Therefore,attntion should be paid to local meteorological factors in the site selection of evaporating ponds and the precipitates from the evaporating ponds should be treated in a timely manner to keep the influence of TDS from increasing during evaporation. In this study,field experimental data wereused to investigate the natural evaporation processng ofhigh saline wastewater in a semi-arid area.In addition to considering conventional meteorological factors,the influence of TDS on evaporation was considered.Therefore,the results have practical significance for guiding the treatment of salt-bearing wastewater in semi-arid regions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: high saline wastewater；evaporation model； evaporation experiment;relative evaporation rate; TDS；Raoul's law; semi-arid area ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,149 @@
+/ 色氨酸的来源、代谢途径及其在家禽生产上的应用
+
+2 景寒松」　徐　淼²　杨桂芹3\*
+
+3 (沈阳农业大学畜牧兽医学院，沈阳110866)
+
+4摘要：色氨酸是动物体必需的氨基酸之一，也是家禽的第三限制性氨基酸，对家禽的生长发育和  
+5 代谢起着重要作用。本文综述了色氨酸的来源、代谢途径、代谢产物，家禽对色氨酸的需要量以及  
+6 色氨酸在家禽生产上的应用研究进展。
+
+7 关键词：色氨酸；来源；代谢途径；需要量；家禽中图分类号：S831 文献标识码：A 文章编号：
+
+色氨酸的化学名称是 $\mathfrak { a }$ 氨基 $\cdot \beta$ 吲哚丙酸，分子式 $\mathrm { C } _ { 1 1 } \mathrm { H } _ { 1 2 } \mathrm { N } _ { 2 } \mathrm { O } _ { 2 }$ ，相对分子质量204.33，为白色或微黄色晶体，具有特殊臭味。色氨酸的含氮量为 $1 3 . 7 \%$ ，家禽的代谢能值为 $2 3 . 9 \mathrm { M J / k g }$ 。色氨酸有 $L$ 型、 $D$ 型和 $D L$ 型3 种异构体，天然存在的色氨酸只有 $L$ -色氨酸，合成的色氨酸有 $L$ -色氨酸和DL-色氨酸。由于 $L .$ -色氨酸是以小肠吸收的形式存在，其消化率为 $1 0 0 \% ^ { [ 1 ] }$ 。在生物体内， $D L$ -色氨酸可转化成 $L$ -色氨酸（猪 $80 \%$ ，鸡 $5 0 \% { \sim } 6 0 \%$ ），然后代谢合成多种生理活性物质[2]。本文综述了色氨酸的来源、代谢途径以及色氨酸对家禽生产性能、营养物质代谢和免疫功能等方面的影响，并归纳总结了近年来家禽对色氨酸、可消化色氨酸需要量方面的研究进展，为色氨酸在家禽生产上的合理利用及科学研究提供参考。
+
+1色氨酸的来源、代谢途径和代谢产物
+
+# 1.1 色氨酸的来源
+
+色氨酸具有多种生理功能，但家禽体内不能合成或合成量极低不能满足需要，需从饲粮中获得。鱼粉、大豆和花生等高蛋白质饲料中色氨酸含量较丰富。由于玉米中色氨酸含量较低（ $0 . 0 7 \%$ ），玉米-豆粕型配合饲料中色氨酸较易缺乏，所以色氨酸又被认为是家禽继蛋氨酸和赖氨酸之后的第三限
+
+收稿日期：2018-05-22  
+基金项目：国家自然科学基金项目（31772618）  
+作者简介：景寒松（1995—），男，辽宁盘锦人，硕士研究生，从事动物营养与饲料科学研究。E-mail:  
+1207074165@qq.com  
+\*通信作者：杨桂芹，教授，硕士生导师，E-mail: guiqiny@126.com
+
+制性氨基酸[3]。家禽对不同来源色氨酸的消化率有很大差异。因此，以可消化色氨酸为基础更能准确配制家禽饲粮。表1列出了家禽主要蛋白质饲料中色氨酸和可消化色氨酸含量[4-5]。除来源于天然饲料原料外，色氨酸主要依靠微生物发酵、蛋白质水解和化学合成 $^ +$ 酶催化消旋法生产，其中微生物发酵法生产色氨酸已经走向实用并且处于主导地位[2]。在饲料工业领域，色氨酸主要以添加剂的形式使用。
+
+表1家禽主要蛋白质饲料中色氨酸和可消化色氨酸含量  
+Table 1Contents of tryptophan and digestible tryptophan in major protein feeds for poultry %   
+
+<html><body><table><tr><td>蛋白质饲料 Protein feeds</td><td>色氨酸 Tryptophan</td><td>可消化色氨酸 Digestible tryptophan</td><td>蛋白质饲料 Protein feeds</td><td>色氨酸 Tryptophan</td><td>可消化色氨酸 Digestible tryptophan</td></tr><tr><td>全脂大豆Full-fat soybean</td><td>0.45</td><td>0.37</td><td>国产鱼粉 Domestic fish meal</td><td>0.65</td><td>0.51</td></tr><tr><td>大豆粕 Soybean meal</td><td>0.57</td><td>0.51</td><td>进口鱼粉 Imported fish meal</td><td>0.77</td><td>0.60</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>0.57</td><td>0.46</td><td>血粉 Blood meal</td><td>1.11</td><td>0.89</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>0.43</td><td>0.35</td><td>羽毛粉 Feather meal</td><td>0.40</td><td>0.18</td></tr><tr><td>花生仁粕 Peanut meal</td><td>0.45</td><td>0.39</td><td>肉骨粉 Meat and bone meal</td><td>0.26</td><td>0.14</td></tr><tr><td>向日葵仁粕 Sunflower meal</td><td>0.42</td><td>0.37</td><td>肉粉 Meat meal</td><td>0.35</td><td>0.19</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>0.32</td><td>0.21</td><td>乳清粉 Whey powder</td><td>0.20</td><td></td></tr><tr><td>玉米蛋白饲料 Corn gluten feed</td><td>0.08</td><td>0.07</td><td>酪蛋白Casein</td><td>1.33</td><td>1.29</td></tr><tr><td>玉米胚芽粕 Corn germ meal</td><td>0.18</td><td>0.15</td><td>酵母 Yeast</td><td>0.21</td><td>0.18</td></tr></table></body></html>
+
+可消化色氨酸含量 $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 色氨酸含量 $\cdot \times .$ 鸡回肠氨基酸消化率。
+
+Digestible tryptophan content=tryptophan content×ileal amino acid digestibility of chicken.
+
+# 1.2色氨酸的代谢途径和代谢产物
+
+色氨酸在家禽体内主要有3条代谢途径：1）5-羟色胺(5-hydroxytryptamine，5-HT)途径。色氨酸在色氨酸羟化酶的作用下转变为 5-羟色胺酸，再经脱羧酶作用生成 5-HT[。2)犬尿氨酸(kynurenine，KYN）途径。色氨酸在吲哚胺-2,3-双加氧酶或色氨酸-2,3-双加氧酶的作用下生成KYN，经过多级酶促反应生成喹啉酸、吡啶羧酸类及烟酰胺腺嘌呤二核苷酸（NAD）和磷酸NAD（NADP）等[7]。3）
+
+37 吲哚和粪臭素途径。 $L$ -色氨酸在多种微生物的作用下通过脱氨和脱羧作用生成吲哚、吲哚乙酸、吲  
+38 哚丙酮酸和粪臭素等[8]。色氨酸在家禽体内的主要代谢途径如图1所示。
+
+$\textcircled{1}$ 、 $\textcircled{2}$ 和 $\textcircled{3}$ 分别代表三条代谢路径 $\textcircled{1}$ $\textcircled{2}$ and $\textcircled{3}$ represent three metabolic pathways, respectively
+
+![](images/650b98549b22a9e7c00bbff1c088e875a70b2c1f9ae0be867d33d1473f01e47b.jpg)  
+图1色氨酸在家禽体内的主要代谢途径  
+Fig.1Major metabolic pathways of tryptophan in poultry
+
+色氨酸的代谢产物主要有 5-HT、KYN、褪黑激素（melatonine，MT）、NAD 和 NADP[6-7]、吲哚和粪臭素等[8]。5-HT 是一种强血管收缩剂和平滑肌收缩刺激剂，同时也作用于神经中枢，对动物的采食行为具有调控作用。研究表明，通过改变下丘脑 5-HT浓度，可对鸭的摄食和能量代谢进行调节[9]。5-HT通过抑制胃肠调节肽及与其他抑制摄食因子协同发挥作用[10]。Viljoen 等[1]研究表明，KYN 在动物体内变为犬尿喹啉酸，氧化后转变为烟酸，是合成NAD 和NADP 的前体。当动物产生严重炎症反应时，血管内皮细胞产生大量 KYN，具有很强的扩张血管和降低血压的作用[12]。MT 是L-色氨酸在松果腺细胞中，在一系列酶促反应下合成分泌的吲哚类激素，其合成可通过交感神经和下丘脑-垂体-肾上腺轴2种途径进行调控，对控制动物的昼夜节律性、性激素的分泌和免疫功能具有重要调节作用[13]。吲哚是 $L$ -色氨酸最主要的代谢产物，吲哚丙酮酸脱去 $\alpha \cdot$ -酮戊二酸形成吲哚。当有酶参与反应时，色氨酸的C一C键断裂产生吲哚、吲哚丙酮酸和氨。吲哚丙酮酸在多种微生物的作用下脱羧形成吲哚乙酸。吲哚乙酸是粪臭素的主要前体，它在特定微生物和一种尚未分离出的脱羧酶的作用下脱去基形成粪臭素[14]。吲哚和粪臭素有强烈的粪臭味，扩散力强而持久，是猪与禽粪
+
+便中最为恶臭的化合物之一[15]。
+
+2色氨酸在家禽生产上的应用
+
+# 2.1色氨酸对家禽生长性能的影响
+
+王波等[16]研究表明，色氨酸添加水平与1\~21日龄肉仔鸡平均日采食量(average daily feed intake,ADFI）和平均日增重(average daily gain，ADG)呈显著的二次曲线关系，雄、雌性肉鸡的色氨酸适宜需要量分别为 $0 . 2 4 8 \%$ 和 $0 . 2 3 4 \%$ 。当饲粮色氨酸水平达到 $0 . 2 0 2 \%$ 时，显著提高了1\~21日龄北京鸭的ADF[17]。随着饲粮色氨酸水平的升高， $_ { 1 \sim 2 8 }$ 日龄四川白鹅 ADFI呈先升高后降低的趋势，当色氨酸水平为 $0 . 1 9 0 \%$ 时，ADFI达到最高[18]。可见，饲粮添加适量的 $L$ -色氨酸可增加家禽的采食量，但添加过量的 $L .$ -色氨酸则会抑制家禽的采食量。根据 Birkl等[19]的报道，色氨酸缺乏使血浆中色氨酸水平下降，影响神经递质血清素的合成，进而降低家禽的采食量，甚至出现啄羽等行为。除了影响家禽的采食量外，饲粮色氨酸缺乏或过量均会导致肉仔鸡 ADG下降[20]。Opoola 等[21]研究表明，饲粮添加色氨酸可提高 $_ { 1 \sim 2 8 }$ 日龄和 33\~56日龄肉仔鸡的 ADG 和 ADFI，并得出饲粮色氨酸最适水平分别为 $0 . 2 4 \%$ 和 $0 . 2 1 \%$ 。1\~21日龄肉公鸡获得最大ADG 和最低料重比时的表观回肠可消化色氨酸需要量分别为 $0 . 1 7 4 \%$ 和 $0 . 1 8 6 \% ^ { [ 2 2 ] }$ 。马玉娥等[23]研究发现，基础饲粮中添加 $0 . 1 8 \%$ 的色氨酸后，黄羽肉种鸡的初生雏鸡体重提高了 $3 . 9 9 \%$ 。色氨酸对家禽生长发育的影响机理是：1）作为营养物质，色氨酸直接参与机体蛋白质的合成，具有促生长的作用；2）色氨酸的代谢产物5-HT通过影响甲状腺激素[三碘甲腺原氨酸 ( $\mathbf { \bar { \rho } } _ { \mathrm { T } _ { 3 } }$ ）、四碘甲腺原氨酸 $\mathrm { { ( T _ { 4 } } }$ ）]和生长激素的合成及分泌过程影响其生长发育[24]。
+
+# 2.2色氨酸对家禽产蛋性能的影响
+
+袁超等[25]研究表明，在罗曼蛋鸡饲粮中添加适宜水平的色氨酸能促进性腺激素的释放，提高蛋白质的利用率和蛋鸡的生产性能，且玉米-豆粕型饲粮中色氨酸的适宜水平为 $0 . 2 0 \%$ 。黄逆等[26]研究发现，饲粮中添加 $0 . 0 4 \%$ 的色氨酸显著增加了33 周龄矮小型蛋鸡和褐壳蛋鸡的蛋重，但色氨酸添加水平达到 $0 . 0 6 \%$ 时，蛋重极显著下降。侯海锋等[27]研究发现，在低蛋白质饲粮中添加 $0 . 2 0 \%$ 的色氨酸可提高 $3 5 { \sim } 4 0$ 周龄海兰灰蛋鸡产蛋率，降低料蛋比。贺强[28]研究表明，在含 $0 . 1 5 \% L$ -色氨酸的玉米-豆粕型饲粮中分别添加 $0 . 0 6 \%$ 和 $0 . 0 8 \%$ 的 $L .$ -色氨酸，可显著提高29\~40 周龄新杨绿壳蛋鸡的产蛋率。不过在鸭、鹅生产上，色氨酸的作用效果则不显著，如张罕星等[29]报道，当饲粮色氨酸水平为$0 . 1 2 \% { \sim } 0 . 3 2 \%$ 时，对山麻蛋鸭（ $1 2 0 { \sim } 2 6 0$ 日龄）的产蛋率、蛋重和日产蛋重等均无显著影响，但以产
+
+蛋率和料蛋比为指标进行曲线拟合，得出了蛋鸭产蛋高峰期色氨酸最低需要量为 $0 . 2 0 \%$ 。于彦辉等[30]研究表明，基础饲粮中添加 $0 . 0 3 \%$ 的色氨酸虽提高了长白种鹅的蛋重和产蛋率，但与对照组相比差异不显著。  
+可见，在色氨酸对家禽生产性能的影响方面，人们进行了大量的研究工作，尤其在肉仔鸡、蛋鸡生产上研究较多也较为深入，并取得了较为一致的研究结果。但在鸭、鹅生产上有关色氨酸作用效果及适宜添加水平等还需进行深入研究。
+
+# 2.3家禽对色氨酸的需要量
+
+确定家禽对色氨酸的适宜需要量，主要依据家禽品种、生长阶段、性别以及环境温度、饲养密度、光照和饲料中氨基酸平衡等情况，如当发生炎症反应时，色氨酸分解代谢增强，家禽对色氨酸的需要量增加[31]。近年来，以玉米、豆粕为主要原料的饲粮中，主要家禽色氨酸需要量研究进展见表 2。由表2可知，肉仔鸡、蛋鸡、蛋鸭和鹅的最适色氨酸需要量分别为 $0 . 2 1 \% { \sim } 0 . 2 5 \%$ 、 $0 . 1 9 \% { \sim } 0 . 2 2 \%$ 、$0 . 2 0 \% { \sim } 0 . 3 0 \%$ 和 $0 . 2 2 \%$ ，蛋鸡和肉仔鸡的最适可消化色氨酸需要量分别为 $0 . 1 7 \% { \sim } 0 . 1 9 \%$ 和$0 . 1 1 \% { \sim } 0 . 2 3 \%$ 。
+
+Table 2 Research progress on tryptophan requirement for main poultry   
+
+<html><body><table><tr><td rowspan="2">家禽 Poultry</td><td rowspan="2">日龄Days of age</td><td rowspan="2">色氨酸设计水平 Design level of tryptophan</td><td rowspan="2">色氨酸最适水平Optimal level of tryptophan</td><td rowspan="2">可消化色氨酸最适水平 Optimal level</td><td rowspan="2">文献来源 References</td></tr><tr><td>of digestible tryptophan</td></tr><tr><td>肉仔鸡 Broiler chickens</td><td>1~21</td><td>0.176、0.203、0.220、0.241、0.281</td><td>公鸡0.248，母鸡0.234</td><td></td><td>王波等[16]</td></tr><tr><td>肉仔鸡 Broiler chickens</td><td>22~42</td><td>0.1395、0.1610、0.1825、0.2040、0.2255、0.247 0</td><td></td><td>0.191 9~0.225 5</td><td>Duarte 等[20]</td></tr><tr><td>肉仔鸡 Broiler chickens</td><td>22~42</td><td>0.144、0.162、0.118、0.1198、0.216、0.234、0.252</td><td></td><td>公鸡0.15；母鸡0.11</td><td>Wang 等[32]</td></tr><tr><td>肉仔鸡 Broiler chickens</td><td>1~28；33~56</td><td>0.15、0.19、0.23、0.27、0.31；0.13、0.17、0.21、 0.25、0.29</td><td>0.24；0.21</td><td></td><td>Opoola 等[21]</td></tr><tr><td>肉公鸡 Male broilers</td><td>1~21</td><td>0.16、0.19、0.20、0.22</td><td></td><td>0.174、0.186</td><td>王波等[22]</td></tr><tr><td>肉公鸡 Male broilers</td><td>1~7；8~21</td><td>0.209、0.223、0.235、0.248；0.187、0.200、0.211、 0.223</td><td></td><td>0.209；0.187</td><td>Borges 等[33]</td></tr><tr><td>罗曼蛋鸡 Lohmann laying hens</td><td>300~349</td><td>0.16、0.20、0.24、0.28、0.32</td><td>0.20</td><td></td><td>周斌[34]</td></tr><tr><td>白壳蛋鸡 White shell layer</td><td>420~532</td><td>0.167、0.175、0.183、0.191、0.199</td><td></td><td>0.192</td><td>Cardoso 等[35]</td></tr><tr><td>白壳蛋鸡 White shell layer</td><td>294~406</td><td>0.149、0.160、0.171、0.182、0.193</td><td></td><td>0.173</td><td>Calderano 等[36]</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">绿壳蛋鸡</td><td rowspan="2">0.15、0.17、0.19、0.21、0.23</td><td rowspan="2">0.19~0.22</td><td rowspan="2"></td><td rowspan="2">贺强等[37]</td></tr><tr><td>Green shell layer</td><td>203~280</td></tr><tr><td>北京鸭 Peking ducks</td><td>1~14</td><td>0.12、0.16、0.20、0.24、0.28、0.32</td><td>0.20</td><td></td><td>谢明等[38]</td></tr><tr><td>西昌麻鸭 Xichangma ducks</td><td>1~28</td><td>0.26、0.28、0.30、0.32、0.34</td><td>0.30</td><td></td><td>王福明[39]</td></tr><tr><td>蛋雏鸭 Laying ducklings</td><td>1~28</td><td>0.239、0.26、0.28、0.30、0.48</td><td>0.28~0.30</td><td></td><td>刘肖挺[24]</td></tr><tr><td>金定鸭Jinding ducks</td><td>84~119</td><td>0.199、0.220、0.240、0.260、0.300</td><td>0.247~0.250</td><td></td><td>张括[40]</td></tr><tr><td>山麻鸭 Shanma ducks</td><td>120~260</td><td>0.12、0.16、0.20、0.24、0.28、0.32</td><td>0.20</td><td></td><td>张罕星等[29]</td></tr><tr><td>扬州鹅 Yangzhou geese</td><td>28~70</td><td>0.14、0.22、0.30</td><td>0.22</td><td></td><td>魏宗友等[41]</td></tr><tr><td>四川白鹅 Sichuan white geese</td><td>1~28</td><td>0.19、0.22、0.25</td><td>0.22</td><td></td><td>高巧仙等[42]</td></tr></table></body></html>
+
+# 3色氨酸对家禽营养物质代谢和免疫功能的影响
+
+# 3.1色氨酸对家禽蛋白质代谢的影响
+
+色氨酸是家禽11种必需氨基酸之一，参与蛋白质的合成和代谢。色氨酸来源、水平及与其他氨基酸的平衡性，直接影响蛋白质的合成率和氮的排泄。侯海锋等[27]研究表明，在低蛋白质（ $1 5 \%$ ）饲粮中添加 $0 . 2 0 \%$ 的色氨酸可有效降低海兰灰蛋鸡氮的排泄。当饲粮色氨酸水平为 $0 . 1 9 \%$ 时，显著提高了28周龄新杨绿壳蛋鸡氮的留存率[28]。当饲粮色氨酸缺乏时，黄羽肉公鸡、母鸡体蛋白质沉积量较低，而在饲粮中补充晶体色氨酸可使1\~21日龄黄羽肉公鸡、母鸡蛋白质沉积量分别提高$2 1 . 0 \% { \sim } 3 1 . 8 \%$ 和 $5 . 4 \% { \sim } 2 7 . 9 \% ^ { [ 4 3 ] }$ 。在低色氨酸水平饲粮中补加色氨酸可在一定程度上提高了扬州鹅对蛋白质的利用率[44]。
+
+由于家禽线粒体中缺乏氨甲酰磷酸合成酶，从而不能获得鸟氨酸和氨甲酰磷酸，瓜氨酸合成受限，尿素循环不能形成[45]，因此家禽的蛋白质代谢的最终产物不是尿素而是尿酸。刘锁珠[46]研究表明，饲粮中可消化色氨酸水平从 $0 . 1 7 \%$ 增加至 $0 . 1 9 \%$ ，肉仔鸡血液尿酸含量升高，但随着饲粮中蛋白质水平的下降与可消化色氨酸水平的增加，血液尿酸含量呈下降趋势。饶巍[47研究表明，与色氨酸水平为 $0 . 1 7 \%$ 的对照组（粗蛋白质含量为 $1 5 \%$ ）相比，饲粮色氨酸水平为 $0 . 1 9 \%$ 时，蛋鸡血清总蛋白和白蛋白含量显著增加，而血清尿素氮和尿酸含量显著降低。王福明[39]研究表明，在基础饲粮中添加 $0 . 0 4 \% { \sim } 0 . 0 6 \%$ 的色氨酸，显著提高了西昌麻鸭血清总蛋白含量，并降低了血清尿素氮含量。可见，适宜水平的色氨酸可使饲粮氨基酸更为平衡，提高家禽对氨基酸的利用率，降低家禽体内核酸的分解，有利于提高家禽机体蛋白质的沉积。
+
+# 3.2色氨酸对家禽脂肪代谢的影响
+
+饲粮色氨酸水平不仅会影响家禽体内脂肪的代谢，也影响血浆中甘油三酯和胆固醇的含量[47]。周斌等[48]等研究表明，饲粮添加 $L$ -色氨酸显著降低蛋鸡腹脂率和肝脂率，促进产蛋高峰后期蛋鸡的脂肪代谢， $L .$ -色氨酸添加水平为 $0 . 0 4 \%$ 时效果最佳。Davoudi等[49]研究表明，色氨酸能够提高肝脏中乳酸脱氢酶、丙氨酸转氨酶和碱性磷酸酶的活性，从而降低肉仔鸡血液中甘油三酯的含量。饲粮添加 $0 . 0 6 \% { \sim } 0 . 0 9 \%$ 的色氨酸时，显著降低了1\~3 周龄肉仔鸡血清甘油三酯的含量[50]。当色氨酸添加水平达 $0 . 2 4 \%$ 时，蛋鸡血清甘油三酯和总胆固醇含量最低[34]。基础饲粮中添加 $0 . 0 4 \%$ 的色氨酸，可显著降低西昌麻鸭血清甘油三酯和胆固醇含量，减少脂肪的合成和沉积[39]。以上结果说明，色氨酸除参与合成蛋白质外，也参与脂肪合成和胆固醇代谢调节。色氨酸能通过影响肝脏对脂肪酸的代谢调
+
+节，降低家禽机体脂肪的合成和沉积。
+
+# 3.3色氨酸对家禽免疫功能的影响
+
+Harden 等[511报道，饲粮色氨酸缺乏会抑制家禽的免疫功能，使得家禽发病率和死亡率显著增加，补充色氨酸后这些症状减轻。王鹏[50]研究表明，饲粮添加色氨酸显著提高了1\~3 周龄肉仔鸡血清免疫球蛋白G和免疫球蛋白A的含量，当色氨酸添加水平为 $0 . 0 6 \%$ 时达到最高，然后呈现下降趋势。饲粮添加色氨酸也能显著提高了鸭的胸腺、脾脏和法氏囊指数[52]。魏宗友[53研究表明，色氨酸显著增加了扬州鹅血清免疫球蛋白G 和免疫球蛋白M含量。饲粮添加 $L$ -色氨酸可显著提高肉仔鸡血清干扰素-α、干扰素-γ和免疫球蛋白G 含量，显著增强家禽机体对传染性法氏囊病的体液免疫和细胞免疫的应答作用[54]。可见，色氨酸作为与免疫蛋白相关的限制性氨基酸，不仅影响家禽的细胞免疫调节，而且直接参与家禽的体液免疫。
+
+4小结
+
+综上，色氨酸是家禽的第三限制性氨基酸，饲粮中适宜水平的色氨酸可促进家禽采食，提高生产性能、促进营养物质代谢、提高免疫力等。但有关色氨酸来源及水平对家禽产品品质、排泄物臭气化合物浓度等方面影响的研究还很少。饲粮色氨酸水平与碳水化合物间是否存在互作效应进而影响家禽生产性能、氮的排泄及代谢生理机制等尚需进行深入研究。同时，从细胞和分子水平上深入认识色氨酸的营养及生理功能将具有重要理论意义。随着色氨酸合成工艺的成熟、合成成本的降低以及对其功能研究的不断深入，色氨酸在家禽生产上将发挥更加重要的作用。  
+参考文献：  
+[1]李德发.中国饲料大全[M].北京:中国农业出版社,2001.  
+[2] 蔡辉益,王晓红.饲料添加剂研究与应用新技术[M].北京:中国农业出版社,2016.  
+[3] KRIVENOK M J,ILCHUK I I,MYKHALSKA V M.Optimal in-feed threonine and tryptophan ratiofor replacement chickens:the theoretical background[J].Ukrainian Journal of Ecology,2017,7(3):111-115.[4]熊本海,罗清尧,赵峰.中国饲料成分及营养价值表(2016年第 27版)[J].中国饲料,2016(21):33-43.[5]熊本海,罗清尧,周正奎,等.中国饲料成分及营养价值表(2017年第 28版)制订说明[J].中国饲料,2017(21):31-41.  
+[6]OSAWA Y,KANAMORI H,SEKI E,et al $L$ tryptophan-mediated enhancement of susceptibility tononalcoholic faty liver disease is dependent on the mammalian target of rapamycin[J].Journal of
+
+Biological Chemistry,2011,286(40):34800-34808.
+
+[7]XU K,LIU H N,BAI M M,et al.Redox properties of tryptophan metabolism and the concept of tryptophan use in pregnancy[J].International Journal of Molecular Sciences,2017,18(7):1595-1622. [8]DESLANDES B,GARIEPY C,HOUDE A.Review of microbiological and biochemical effects of skatole on animal production[J].Livestock Production Science,2001,71(2/3):193-200.   
+[9]刘华珍.5-羟色胺对鸭摄食调节作用机理的形态学研究[D].博士学位论文.武汉:华中农业大 学,2005.   
+[10]TAKEDA H,NAKAGAWA K,OKUBO N,et al.Pathophysiologic basis of anorexia:focus on the interaction between ghrelin dynamicsand the serotonergic system[J].Biological and Pharmaceutical Bulletin,2013,36(9):1401-1405.   
+[11]VILJOEN M,SWANEPOEL A,BIPATH P.Antidepressants may lead to a decrease in niacin and NAD in patients with poor dietary intake[J].Medical Hypotheses,2015,84(3):178-182.   
+[12]孔红,朱鼎良.色氨酸/犬尿氨酸代谢途径与心血管疾病[J].中华高血压杂志,2012,20(5):433-435. [13]何宗亮.禽类褪黑激素的研究进展[J].家禽科学,2017(3):47-51.   
+[14]JENSEN R L.Feed interventions and skatole deposition[D].Master Thesis.Copenhagen:University of Copenhagen,Department of Large Animal Science,2012.   
+[15]CHO S,HWANG O,PARK S.Efect of dietary protein levels on composition of odorous compounds and bacterialecologyinpigmanure[J].Asian-AustralasianJournalofAnimal Sciences,2015,28(9):1362-1370.   
+[16]王波,闵芝智,李晓敏,等.1\~21日龄肉鸡色氨酸适宜水平研究[J].中国家禽,2014,36(22):24-27. [17]韩旭峰.日粮色氨酸与烟酸互作效应对生长前期北京鸭生长发育的研究[D].硕士学位论文.杨凌: 西北农林科技大学,2010.   
+[18]王文策,雷慧,林祯平,等.不同水平色氨酸对1\~28日龄四川白鹅生产性能和肠道色氨酸转运相关 基因表达影响[C]/中国畜牧兽医学会动物营养学分会第七届中国饲料营养学术研讨会论文集.郑州: 中国畜牧兽医学会动物营养学分会,2014:387-387.   
+[19]BIRKL P,KJAER JB,SZKOTNICKI W,et al.Acute tryptophan depletion:the first method validation in an avian species (Gallus gallus domesticus)[J].Poultry Science,2017,96(9):3021-3025. [20]DUARTE K F,JUNQUEIRA O M,DA SILVA FILARDI R,et al.Digestible tryptophan requirements for broilers from 22 to 42 days old[J].Revista Brasileira de Zootecnia,2013,42(10):728-733.   
+[21]OPOOLA E,ONIMISI P A,OGUNDIPE S O,et al.Effect of dietary tryptophan levels on growth performance of broiler chickens reared in the hot season under tropical environment[J].Tropical and Subtropical Agroecosystems,2017,20(3):429-437.   
+[22]王波,闵芝智,呙于明,等.1\~21日龄雄性肉鸡表观回肠可消化色氨酸需要量研究[J].中国畜牧杂 志,2015,51(11):27-33.   
+[23]马玉娥,占秀安,朱巧明,等.饲粮色氨酸水平对黄羽肉种鸡生产性能、抗氧化功能及血清生化指标 的影响[J].动物营养学报,2011,23(12):2177-2182.   
+[24] 刘肖挺.色氨酸水平对0\~4 周龄蛋雏鸭生长性能及血液生化指标的影响[D].硕士学位论文.哈尔 滨:东北农业大学,2013.   
+[25]袁超,宋华惠,蒋媛婧,等.饲粮色氨酸水平对蛋鸡生产性能、抗氧化性能及内分泌激素的影响[J]. 饲料与畜牧,2013(1):26-29.   
+[26]黄逆,宁中华.日粮中添加不同水平色氨酸对蛋重的影响[C]/第十三届全国家禽学术讨论会论文 汇编.郑州:中国畜牧兽医学会,2007:450 - 454.   
+[27]侯海锋,李茜.低蛋白质日粮添加色氨酸对蛋鸡生产性能、蛋品质及蛋白质代谢的影响[J].中国饲 料,2017(13):13-15,23.   
+[28]贺强.饲粮色氨酸水平对新杨绿壳蛋种鸡生产性能、蛋品质和繁殖性能的影响及其机理探讨[D]. 硕士学位论文.杭州:浙江大学,2016.   
+[29]张罕星,陈伟,李燕,等.蛋鸭产蛋高峰期色氨酸适宜需要量[J].动物营养学 报,2016,28(4):1060-1067.   
+[30]于彦辉,徐桂英,徐本全.色氨酸对长白种鹅产蛋性能影响的试验研究[J].山东畜牧兽 医,2011,32(5):3-4.   
+[31]李华伟,祝倩,吴灵英,等.色氨酸的生理功能及其在畜禽饲粮中的应用[J].动物营养学 报,2016,28(3):659-664.   
+[32]WANG B,MIN Z Z,YUAN J M.Apparent ileal digestible tryptophan requirements of 22-to 42-day-old broiler chicks[J].The Journal of Applied Poultry Research,2016,25(1):54-61. [33]BORGES B S,DA CUNHA NUNES R,STRINGHINI JH,et al.Digestible tryptophan levels for male broilers in pre-starter and starter diets[J].Semina Ciencias Agrarias,2016,37(Suppl.4):2529-2538.   
+[34]周斌.日粮色氨酸水平对蛋鸡生产性能与蛋品质的影响及其机理探讨[D].硕士学位论文.杭州:浙 江大学,2010.   
+[35]CARDOSO A S,COSTA F G P,DE LIMA M R,et al.Nutritional requirement of digestible threonine forwhite-egg layersof 60 to76weeksofage[J].The Journal ofAppliedPoultry Research,2014,23(4):724-728.   
+[36]CALDERANO A A,GOMES P C,LELIS G R,et al.Digestible tryptophan-to-digestible lysine ratio in diets for laying hens of 42 to 58 weeks of age[J].Revista Brasileira De Saude E Producao Animal,2016,17(2):139-148.   
+[37]贺强,丁阳,袁超,等.饲粮色氨酸水平对新杨绿壳蛋鸡生产性能、蛋品质及血清生化指标的影响 [J].动物营养学报,2015,27(8):2388-2395.   
+[38]谢明,韩旭峰,侯水生,等.1\~14 日龄北京鸭烟酸与色氨酸互作关系的研究[J].动物营养学 报,2012,24(12):2335-2341.   
+[39]王福明.色氨酸对西昌麻鸭生长性能和营养物质代谢的影响[J].黑龙江畜牧兽医,2014(13):92-94. [40]张括.不同水平色氨酸对后备蛋鸭生长性能及生化指标的影响[D].硕士学位论文.哈尔滨:东北农 业大学,2012.   
+[41]魏宗友,王洪荣.色氨酸对 5\~10 周龄扬州鹅生长性能和屠宰性能的影响[J].中国饲 料,2012(12):29-34.   
+[42]高巧仙,周晓容,宋代军.日粮不同氨基酸水平对0\~4 周龄四川白鹅生长性能和血清生化指标的 影响[J].黑龙江畜牧兽医,2014(1):70-71.   
+[43]席鹏彬,林映才,郑春田,等.饲粮色氨酸水平对1\~21日龄黄羽肉鸡生长、体成分沉积及下丘脑 5- 羟色胺的影响[J].动物营养学报,2011,23(1):43-52.   
+[44]喻礼怀,张军,魏宗友,等.饲粮色氨酸水平对扬州鹅蛋白质代谢的影响[J].动物营养学 报,2014,26(1):81-89.   
+[45]呙于明.家禽营养[M].3版.北京:中国农业大学出版社,2016. [46]刘锁珠.低蛋白饲粮中添加色氨酸对肉仔鸡生产及营养代谢的影响[D].硕士学位论文.杨凌:西北 农林科技大学,2007.   
+[47]饶巍.低蛋白日粮添加色氨酸对蛋鸡生产性能与蛋品质的影响及其机理探讨[D].硕士学位论文. 杭州:浙江大学,2011.   
+[48]周斌,李慧,邹晓庭,等.色氨酸对产蛋鸡脂肪代谢的影响[J].中国畜牧杂志,2011,47(7):50-53. [49]DAVOUDI P,DANESHYAR M.Effect of diffrent levels of tryptophane on performance,carcass characteristics and blood parameters of broiler chickens under heat stress condition[J].Journal of Veterinary Research,2017,72(2):157-164.   
+[50]王鹏.饲粮中色氨酸对0\~3 周龄肉仔鸡生长及生化指标的影响[D].硕士学位论文.哈尔滨:东北农 业大学,2001.   
+[51]HARDEN JL,LEWIS S M,LISH S R,et al.The Tryptophan metabolism enzyme $L$ -kynureninase is a novel inflammatory factor in psoriasis and other inflammatory diseases[J].Journal of Alergy and Clinical Immunology,2016,137(6):1830-1840.   
+[52]LIU Y,YUAN J M,ZHANG L S,et al.Effects of tryptophan supplementation on growth performance,antioxidative activity,and meat quality of ducks under high stocking density[J].Poultry Science,2015,94(8):1894-1901.   
+[53]魏宗友.色氨酸对鹅组织蛋白质代谢调控机制的影响[D].博士学位论文.扬州:扬州大学,2012. [54]EMADI M,JAHANSHIRI F,KAVEH K,et al.Nutrition and immunity:the effects of the combination of arginine and tryptophan on growth performance,serum parameters and immune response in broiler chickens challenged with infectious bursal disease vaccine[J].Avian Pathology,2011,40(1):63-72.   
+Sources, Metabolic Pathways and Application of Tryptophan in Poultry   
+JING HansonglXU Miao² YANG Guiqin3\*   
+(College of Animal Husbandry and Veterinary, Shenyang Agricultural University, Shenyang 110866, China) Abstract: Tryptophan is one of the essential amino acids in animals and the third limiting amino acid in poultry,playing an important role in the growth, development and metabolism of poultry. This review summarizes the research progress on the sources，metabolic pathways， metabolites，requirement and application of tryptophan in poultry.   
+Key words: tryptophan; source; metabolic pathway; requirement; poultry

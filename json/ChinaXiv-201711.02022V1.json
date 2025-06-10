@@ -1,0 +1,612 @@
+[
+    {
+        "type": "text",
+        "text": "国内网络反恐研究的现状、问题和展望",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄炜1,² 余 辉」李岳峰11(湖北工业大学经济与管理学院武汉 430064)²(武汉理工大学管理学院 武汉 430072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】总结国内网络反恐研究的现状，发现不足并提出未来应对方向。【文献范围】以\"网络反恐\"为主题在中国知网、万方数据、Web of Science、ScienceDirect、Engineering Vilage 数据库中选取自 2002 年以来的期刊、图书文献共60篇。【方法】通过文献统计分析方法，分别从反恐数据分析、舆论传播、预警与处置三个方面分析网络反恐问题。【结果】国内网络反恐研究的现状是以恐怖数据的收集和分析为基础，通过涉恐言论、舆情分析实现网络反恐，存在反恐大数据分析能力不足、非文本数据匹配技术不成熟、网络反恐相关法律和教育需进一步完善的问题。【局限】文献资料来源以学术期刊和图书为主，对于实际反恐中资料的收集不够充分。【结论】网络反恐的相关研究还处于发展阶段，需要从技术、管理和法规等多方面协调共同开展，相关的宣传和执行力度均应加强，特别要加快与大数据技术的整合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网络反恐 网络舆情 反恐预警 网络结构分类号：D815.5 G353",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从2001年的美国\"911\"事件，到东突事件，再到ISIS组织，恐怖事件从未间断。国内反恐形势不容乐观反华势力和敌对势力领导下的恐怖组织扰乱国内宗教，带来民族和政治问题，并对国家完整性造成威胁[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网和移动网络技术的发展，网络空间成为恐怖组织的另一个战场。2013年以来大量的暴恐音频视频通过“东伊运\"等恐怖组织传播到国内，2014年发现大量恐怖分子参与非法宗教活动并观看暴恐视频，恐怖主义思想正在快速传播，网络恐怖主义的规模也在加速增长。国家和政府相关部门要加快对网络反恐的政策引导，从技术和策略上都要占领网络高地，这样才能有效应对网络恐怖主义的各种恐怖活动。目前网络恐怖信息收集不够及时准确，网络涉恐信息的传播模型、理论还有待研究，网络恐怖事件线上、线下的应急处置方法不够系统，网络反恐相关法律法规不完善等问题都迫切要求对网络反恐深入研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2相关研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "最早给出网络恐怖主义定义的是美国联邦调查局专家Pollit在1997年提出的，网络恐怖主义是出于政治目的，由国家组织或秘密的个人有预谋地针对信息、计算机系统、计算机程序和数据实施的，针对平民的暴力行为[2]。网络恐怖行为可总结为两种实施方式，如表1所示。季本先等认为从互联网方面击退恐怖主义是网络反恐的重要方向[3]；樊彦芳认为不仅要打击网络恐怖组织的恐怖活动，更要尽快建立起反恐情报系统[4]；罗伯特·佩普从战略和战术的平衡上认为一方面要做好预防恐怖事件的措施，另一方面也要主动打击恐怖主义[5]。李欧提出要有效地预防和打击恐怖主义，就要先确保网络的安全。“后拉登\"时代，恐怖组织更严密、更加网络化、内部严密与松散双向发展并且更具有国际化特点[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/efb3a06d154c74b0d34f484850e2d1c3ee27a0bba5ece5e4f62b8e7ee1de23bf.jpg",
+        "table_caption": [
+            "表1网络恐怖行为实施方式及特点"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>网络恐怖 实施方式</td><td>民众心理 影响</td><td>现实中的 影响</td><td>预防及处理 方式</td></tr><tr><td>直接攻击 系统</td><td>短时间的 恐慌</td><td>造成社会 秩序混乱</td><td>硬件、软件等 网络技术, 较为单一</td></tr><tr><td>利用互联网</td><td>长时间留下</td><td>造成巨大的</td><td>综合各方面</td></tr><tr><td>实施传统 恐怖行为</td><td>心理阴影</td><td>人员伤亡、 建筑物损坏</td><td>因素，比较 复杂</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有的网络反恐中文文献数量不多，在中国知网中以“网络反恐\"为篇名查找到的文献仅有78篇，在Web of Science、Science Direct 和 Engineering Village中以\"Network Anti-terrorism\"为主题词查找 2002 年以来的文献分别为29篇、11篇和42篇。本文以网络反恐和群体事件相关的文献作为重要的参考资料，重点选取近年反恐工作成果和研究方向的相关文献60 篇。目前研究主要集中在网络反恐预测和预防两个方面，一是尽最大努力去避免恐怖事件的发生，二是发生恐怖事件后的处置，这也是网络反恐研究的重点。本文从网络反恐层面对学者们的研究进行综合评述，分别从反恐数据的收集和分析；恐怖舆论传播；网络反恐预警、应急处置和预防三个方面分析研究现状、存在的问题和应对思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3反恐数据的收集与分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "网络反恐的基础就是网络恐怖相关信息的收集，只有在对恐怖组织相关信息深人分析的基础上，才能对其实施有效的打击。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 反恐情报的收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早在1997年Chaudhuri等就指出信息提取的任务非常重要，因为它可以促进创建多维联机分析处理(OLAP)[8]。一个不断更新的恐怖主义语义字典是查找相关信息的基础，也是反恐信息系统应用于实际反恐工作的关键。Appelt认为知识工程提取信息表现良好,语法和语义也对信息的提取工作有帮助[。这里的语言资源是指的语义字典。Conlon等在他们的在线信息提取半自动系统中表明，在信息提取前需要人工建立一个词汇语义清单[10]，由此可见反恐语义字典的重要性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而在大数据环境下，反恐数据采集中涉及的搜索技术、智能信息处理技术、海量数据存储技术等都需要进一步研究。与通用搜索引擎相比，垂直搜索技术是一种专注于特定领域的定制定向化并能进一步优化的深度采集技术，如表2所示。许发见等认为垂直搜索引擎是这类反恐信息系统的关键，他们分析了垂直搜索技术处理信息的过程，并提出要多关注技术上的细节、定制和优化语义结构以及关联性分析和排序处理的技巧[11]，网络反恐信息的精准采集要更多使用垂直搜索引擎技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/dfc75cae56c62f2e50520d5d07f3cf0c636b49070fe6a82ac1c6a50c79ab214a.jpg",
+        "table_caption": [
+            "表2垂直与通用搜索引擎特点"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>搜索方式 代表</td><td>特点</td></tr><tr><td>通用搜索百度</td><td>信息量大、查询不准确、深度不够</td></tr><tr><td>垂直搜索行业网站</td><td>快速直达、方便搜索、精准搜索、资源共享</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "很多国家都根据本国特点建立了自己的反恐基础数据库[12-13]。大数据处理技术应对动态的恐怖活动还不够成熟。基于动态网络的实时感知、恐怖组织建模等技术还有待发展。如何平衡打击恐怖主义与保护公民隐私和自由也是需要考虑的问题之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 网络结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "获取信息的网络结构是研究部门信息的重要来源渠道，人际关系网络是典型的情报收集网络[14]。依靠强关系建立弱关系，使人际网络向外扩展，从而不断扩大情报来源，如图1所示[15]:",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6820b1d3690a22a417ebf4e9ac3b4fd9b52ce407908fa4b62ab52df8f8709ee7.jpg",
+        "img_caption": [
+            "图1关系强度和社会资本的人际网络结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这种接近树状的结构改进后会接近网状结构，促使更多弱关系向强关系发展，如图2所示[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/78cd3084163a3d930a5e8e875523226b9470ded66fd0674dfec9b2c87e0ebcc4.jpg",
+        "img_caption": [
+            "图2演进后的人际关系结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "探索恐怖主义网络结构通常理解为狭义的网络分析，分别为等级结构、均匀分布结构、复杂网状结构。不同学者对分类的名称不同，但大体都可划分为这三类，简略结构图如图3所示[17]:",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee10dd92796bdf15737bbceb88c783b6dd5bfd266bfdedefff88132834a27599.jpg",
+        "img_caption": [
+            "图3三种恐怖网络结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等级结构是最早的恐怖组织结构，这种结构指令性强，也因此很容易找出恐怖主义的中心人物。均匀分布结构的人员关系相对隐匿，不容易分析出反恐情报，不过其自身组织恐怖活动也有一定的难度。在复杂型结构中，节点分散，但联系紧密，打击起来也不太容易。笔者总结三种网络结构特点如表3所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab6270389b16e2f3a07267eaccc3c0c01328a90ae2eda4ece420839d67dc86e3.jpg",
+        "table_caption": [
+            "表3三种恐怖组织网络结构的特点"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>结构</td><td>恐怖组织指挥性 恐怖人员联系</td><td></td><td>分析组织难易</td></tr><tr><td>等级结构</td><td>强</td><td>较强</td><td>容易</td></tr><tr><td>均匀分布结构</td><td>弱</td><td>弱</td><td>难</td></tr><tr><td>复杂网状结构</td><td>较强</td><td>强</td><td>难</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现实中的恐怖组织网络结构并不是单一的某一种，而是它们的融合。专家利用社会网络分析法研究对策，最主流的方法就是分析网络的中心节点，找到恐怖组织的关键人物从而进行深入分析。BBC强调中心性研究是谁对网络更重要，比如研究中介中心性。当然中介中心度和平均中心度两种都是社交网络中提出的标准[18]，事实上恐怖组织也有利用社交网络传播恐怖信息的。Roberts 等早在2009 年就指出高中介中心度(Betweenness Centrality，BC)的重要意义，不过当时他们并没有考虑性别等其他因素[19]。Everton 等认为Betweenness Centrality和Degree Centrality是极端网络交流信息的重要衡量标准[20]。这种方法比较节省成本,然而在现阶段此方法即使能成功打击恐怖组织，他们的分支组织还是能进行一定的恐怖活动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 涉恐数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "恐怖网络分析更注重网络的动态演化，主要应用的理论有社会网络理论、人际网络分析、点到点网络以及复杂网络理论。有专家给出了网络中心化程度的定义，在已有中心化指标的基础上, $\\mathfrak { n }$ 个节点网络W中的中心化程度 $\\mathrm { C _ { A } }$ 的定义如公式1所示[21]:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C _ { A } = \\sum _ { x \\in w } ( C _ { A } ^ { \\ast } - C _ { A } ( x ) ) / [ ( n - 1 ) m a x ( C _ { A } ^ { \\ast } - C _ { A } ( x ) ) ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这些经典的社会网络分析方法在美国\"911\"事件中，通过度、平均距离和介数的得分能够找到此次事件的核心成员[22]。实际中的恐怖组织和恐怖行为都是动态变化的，在收集信息时也容易受到各种噪音的影响，得出没有意义的干扰信息，传统的静态分析方法不适应这类分析。于是研究者开始致力于动态网络分析技术，McCulloh等提出动态元数据分析方法，并且研制出可以同时处理千万人信息的动态网络分析工具，为深入研究网络做出贡献[23]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2001年，Arquilla等[24]就提出了社会网络分析法(SocialNetworkAnalysis，SNA)，是一种数据挖掘技术，以关联数据为基础模拟恐怖组织网络结构，分析恐怖组织的特点和内部信息传达方式，寻找网络中的薄弱点并找到恐怖组织的关键人物[25]。从公开数据源和反恐部门搜集信息构建分析网络结构的这种数据挖掘与分析技术相结合的模式成为各国的研究热点[26]。数据挖掘恐怖信息的过程如图4所示[27]:",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e4958c8e8da7fefcf2afd0e8d7e20ed204e1d2150b0af5b09f82b027a818de8.jpg",
+        "img_caption": [
+            "图4获取恐怖组织情报过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "网络反恐虽然有一些研究成果，但面临的问题还有很多。除了针对这种结构性的网络研究外，还需要研究中心性的很多其他性质。比如，人们通常认为男性是恐怖组织的代表[28]。而Manrique等的研究成果中最新的纵向数据表明，尽管男性在ISIS中数量较大，但女性拥有更高的网络连通性职位，这有利于潜在系统的鲁棒性和生存度[29]。观察表明新女性中心方案可以影响这样的网络，也提出了个人贡献如何在高压系统下评估的问题。Science在2016年6月刊出Bohannon的最新实验结果：女性的中介中心度平均是男性的两倍[30]。这意味着控制中心女性的思想可以作为一个有效反恐手段，反恐组织可以利用性别差异开展工作。在他的另一个实验中发现，监控一个小的恐怖组织可能有助于发现大型恐怖组织。而Cohen在2013年探讨了女性已经像男性一样参与一些非洲冲突，如在嗜血、暴力等某些情况下更是如此[31]。这些研究看起来与网络结构关系并不紧密，却也是今后反恐网络的重要研究方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这些隐藏性的、和常识相悖的信息很难被发现，开源数据质量又不高，处理起来难度很大而且信息价值密度低。恐怖组织会利用各种较隐蔽的形式来组织活动，目前网络反恐数据分析在技术上缺乏相应的动态分析工具，并不能很好地应对恐怖组织的动态化趋势。此外，在社会伦理中也因为会涉及到无辜的平民权益而受到一定的限制[32]。因此，做好网络反恐数据的分析工作，一方面需要处理好网络反恐与人们日常生活的关系，既要让公民都参与到网络反恐中来，提供有价值的反恐信息，又不能影响民众的正常生活，保护他们的安全和隐私。另一方面要做好与大数据挖掘技术的衔接，网络反恐的数据分析就是大数据分析中的一部分，它具有大数据的 4V 特点(Volume，Variety,Velocity，Value)，只是在内容上反恐数据的隐秘性更强，信息也直接关系到公民的安全，而大数据目前主要应用于商业。突破大数据挖掘与网络反恐数据挖掘的障碍，利用好大数据平台的各种先进技术，无疑会大大提高网络反恐信息分析的处理能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4恐怖舆论传播",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "网络舆论的控制是网络反恐的另一个重要方面。研究表明，ISIS就是在线获取支持能力最强的组织，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "并在全球范围内传播恐怖舆论[33]。网络恐怖主义思想的传播可能比现实中恐怖行为造成范围上更广、时间上更持久的伤害。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 恐怖舆论的特点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "邹东升等认为网络恐怖主义在舆论上有4个特征：用词标签化，有意挑起内订或者仇恨；谣言泛滥，这加大了管控难度；助力实际的恐怖行动；舆论影响广泛[34]。也有学者直接分析恐怖组织的特点，如丁红军等在解读ISIS 网络恐怖主义时提到的4个特点：宣传目标明确；传播方式多样化；宣传是由专业人员组织的具有较的强煽动性；强交互性[35]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "恐怖组织利用这些特点，把冲突性的话题提升到民族层次，制造更大的混乱，并利用舆论激化网民情绪，制造恐怖效果。与此同时也让恐怖组织更加激进化。这样舆论就从传播学上的潜舆论过渡到显舆论,并引发行为舆论，造成现实中的恐怖事件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 恐怖舆论的传播影响 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当前恐怖主义思想凭借网络科技快速传播，正冲击着正确的价值传播。杨勇等针对新疆等特殊地区的反恐形势提出5点影响[36]：现在网络传播是跨国界的,而处于中间地区的这种传播会影响国家安全；国际格局的变化使这种恐怖舆论可能变为影响国内政治安全的因素；恐怖主义思想让这些地区的经济更加落后;影响社会稳定；影响青少年的成长[36]，吸引潜在的个体参与到恐怖组织中。大量的涉恐音频视频极可能吸引一些不法分子或者涉世不深的青年人的加入。Conway等在研究伊希斯(伊斯兰国家)成员时发现当前数据倾向于女性成员\"吸引”，而男性被\"招募\"[37]。招募人员也是恐怖组织传播舆论的一个目标。学者们不仅发现招募者对敏感地区有影响，对潜在的涉恐组织也有影响。丁红军等针对ISIS 网络恐怖主义提出恐怖思想传播对国内反恐的影响：引起国内的一些极端思想传播;让极端分子形成恐怖团体；会使恐怖行为的可怕程度提升；会让恐怖组织更加肆无忌惮[35]。总的来说就是恐怖主义思想的蔓延会扩大恐怖事态，扩大恐怖组织已有的规模，对国家和人民造成更大的威胁。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3 恐怖舆论的传播控制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "涉恐网络舆论和其他类型的群体性网络舆情恶劣程度不同，但有着相似的起源和问题，叶战备结合其他网络舆情问题总结了控制舆论的应对方法、治理体系以及利用计算机、网络手段三个方面的不足，如表4所示[38]：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d747baf858a1cf286870b7b5fa51dda24a3f1a15696fc82974470567f42b6d40.jpg",
+        "table_caption": [
+            "表4控制舆论中存在的问题"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>舆论控制方向</td><td>舆论控制方向上的不足</td></tr><tr><td>应对方法</td><td>缺少具体的操作，很难在实际中应用起来。</td></tr><tr><td>治理体系</td><td>各级政府和部门不能协调运作，甚至有多头 领导的情况，使得效率低下。</td></tr><tr><td>利用计算机、 网络手段</td><td>目前控制舆论还是以传统方法为主，对网络 和计算机等的利用还大多停留在形式上，也 很少有互动。</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "邹东升等认为在移动互联时代应该从4个方面着手：要明确政治立场，加强舆论引导；要提高人民的反恐认知，不被恐怖组织利用；要抢占阵地，掌握舆论主导权；要依法反恐，用法律来治理舆论[34]。杨勇等主要从法律法规方面给出应对策略，如网络实名制、建立传播法规以及增强道德管控，同时提高技术层面的网络控制能力[36]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在网络反恐中，恐怖组织开始采取线上线下相结合的方式实施恐怖行动，要做好涉恐舆论的管理和引导工作，还需要进一步分析涉恐网络舆论的传播机制，改进和完善已有的网络舆情信息收集机制、分析机制、预警机制、应对机制和评估机制。在此基础上笔者分析总结了需要加强和完善网络反恐舆论控制的4个方面，如表5所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ba607ba48238c5ab1a893e06c6f93b8a459546951afb57efd548d957cf46b9c.jpg",
+        "table_caption": [
+            "表5加强网络反恐舆论控制"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>控制方向</td><td>加强详细内容</td></tr><tr><td>监测与治理</td><td>(1）时间上要早发现涉恐舆论事件，不能错过 黄金处理时间 (2）空间上要实行线上线下全面监控</td></tr><tr><td>疏导与应急</td><td>(1）对预案进行细致分类 (2）强化预案的实际具体操作性 (3）加强实战演练，并借助计算机模拟</td></tr><tr><td>联动与管理</td><td>(1）做好跨部门机制 (2)提高资源共享和数据交换效率</td></tr><tr><td>对话与互动</td><td>(1）建立多级情报收集系统 (2）多利用社交平台与公众互动，加强了解与 控制公众舆论</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了引导舆论的机制问题外，恐怖舆论传播控制的主要难题是发现涉恐信息。不规范的文本、多样化的语言、多样化的传播途径，以及图片和视频文件这类非文本信息，加大了识别或处理信息的难度。对于快节奏的现代生活来说，视频和动画传播能在短时间内传达大量的信息，观看起来也比较轻松，是一种非常重要的传播信息途径，然而多媒体数据传播途径的自动化监管是一个难点。可以利用好公民和大众媒体这些可以使用的非技术资源，如加强和完善公民的举报机制，毕竟恐怖组织在总人口中的比例很小，发挥人力优势，引导公民正确地处理一些非法信息。而大众媒体应该作为一种强大的反恐力量，以其建构力、结构力、领导力来补充技术上的不足[39]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "恐怖事件发生的前兆会给人们带来恐慌，发生后的恐怖回忆和画面也给人们的心理带来持续的压力和伤害。研究出好的恐怖舆论对策方案不仅可以抑制恐怖思想的传播，更能减少恐怖行为带来的伤害，甚至可以锁定数据源头，找出恐怖分子。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5网络反恐预警、应急处置和预防",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从美国\"911\"事件以来，各国都在关注反恐。然而恐怖袭击事件还是时有发生，研究事件发生前的预警机制、如何在事件发生后更快更好地实施应急处置和工作，可以有效减轻恐怖事件带来的危害。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1 网络反恐预警",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国际上已经呈现出将反恐工作的重心从应急处理转移到反恐预警上来的趋势[40]。在研究思路上，主要是通过预测或识别恐怖情报实现预警，如有学者通过识别突发事件的位置实现预警[41]。美国有\"一体化危机系统\"[42]、“计算机辅助乘客过滤系统\"[43]等。国内也已经研发出通过网络舆情实现对开源情报监测并实现预警的\"天网工程\"[44]。都伊林等基于智慧城市视角提出情报、预警和预案三者相结合的预警机制，从而可以实现及时发布预警并做出相应的策略处置[45]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "网络反恐预警工作主要是对恐怖情报的预警分析。在恐怖情报工作上，国内并没有专门的反恐情报预警体系，情报的收集工作通常划分到公安部门。然而公安情报和反恐情报是不同性质的情报，如图5所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d413a127b5f776aa87168f45e696c3cca00476e4f0afb35adbd71db5c65e4e01.jpg",
+        "img_caption": [
+            "图5反恐情报与其他情报关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "很多国家都有独立的反恐情报部门，如俄罗斯的情报分析局就是国家反恐委员会的四大机构之一[46],美国也多次对情报部门进行整合，突出反恐情报的重要性[47]。针对国内现况，李本先等提出国内反恐情报预警的框架流程，如图6所示[48]:",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab87ba0fb9c1c8057e284e8d7faa052b41fa24bb9909d71471b177d50534a910.jpg",
+        "img_caption": [
+            "图6反恐情报预警流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这个框架还需要反恐情报专业人员的介人，收集情报的数量和质量都有一定的局限性，今后的研究应当加强反恐情报的处理能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "刘慧娟比较了国内外民航恐怖预警，并提出改进国内反恐预警系统的启示，如图7所示[49]：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a052572d7d6fd738f795a30c9e4c77362331cf27b5dd8686216de93e087f59b6.jpg",
+        "img_caption": [
+            "图7反恐预警系统改进启示模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图7中可知预警系统可以分为三大模块，在情报系统中，国内应该扩宽收集情报的渠道，并打通不同部门间的情报系统；在决策系统中，国家应该保障预警决策和过程的权威性；在预警响应上，应该针对不同预警进行分类、分级，从而最大效率地响应预警的恐怖事件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2 网络反恐应急处置",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在实际反恐战争中，救援和疏散是应急处理的主要目的。贾志城认为远程监控在反恐及救护中起到重要作用，并构建了基于AdHoc网络的远程监控系统，为特殊环境下的视频应用提供条件[50]。Guo 提出一种基于神经系统网络的生命信号识别方法，用超宽频生命探测器穿透墙壁和废墟探测周围是否有生命的迹象，仿真结果表明使用BP神经网络系统手段可以极大地提高生命信号识别的准确性，让反恐救援工作能更有针对性[51]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在情报研究上，杨灵芝等在城市突发事件的应急研究中，提出应急管理要与信息管理结合，用信息支撑应急管理[52]。林曦等对国内应急情报系统现状做出总结，并指出国内在法律上对情报工作的保障不明确、情报人力培养不全面、网络不畅通等应急管理中存在的问题[53]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "要做好应急处理工作，就要解决学者们提出来的问题，完善法律对应急情报工作的保障体制，重视应急管理人才的培养等。除此之外，还应该多机构联合应对紧急情况。在广州火车站恐怖暴力袭击事件中，广州军区广州总医院安排了应急救援，实现院前院内无缝对接[54]，提高了救治伤员的效率，并且提出建立志愿者应急医学培训体系完善医院的救援体系[55]。在突发事件或者恐怖事件发生时，单一部门很难在短时间内处置好应急事务，需要各个相关机构分别建立自身内部的应急体系，协调处理突发事件以减少事件带来的损失。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3 网络反恐预防工作",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "面对恐怖主义直接网络攻击，Jones提出10点应对方法：防火墙、最简法则、使用最新软件、消除\"垃圾邮件\"漏洞、抑制后门访问、双重检查安全、托管网络服务器风险、确保网络应用程序安全、拨号服务和确保足够的病毒检查[56。直接网络攻击一般不会有传统恐怖袭击那样的伤害，但利用直接攻击制造混乱，从而为传统恐怖事件制造机会就必须得到重视，所以在这方面的防范和应对措施也要加强，如加强教育和立法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在反恐教育中，一方面要给青少年树立良好的价值观念，不要参与恐怖活动；另一方面也要引导公民在恐怖事件发生前如何配合政府预防，在恐怖事件发生时如何自救。在法律层面，早在2002年，国外就开始针对反恐数据立法，并也开始研究反恐立法。Pounder分析了立法对反恐数据获取和处理的各方面影响[57]。朱文认为要有国际上互通的法律来统一恐怖犯罪的定义，建立国际合作的网络反恐，协调好各国刑事管辖权以及加强国际司法协作[58]。皮勇在评价国内反恐立法草案中表明，国内要尽快设立打击网络涉恐信息传播和煽动涉恐行动的具体罪项，也表明了反恐立法要与国际上的反恐立法保持一致性，并且给出了具体的建议，从综合立法和刑法两方面立法[59]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "没有人生来就是恐怖分子，在了解其产生的原因后，有利于研究者制定更好的教育方式和应对措施。首先重大恐怖事件往往与其地区政治和西方价值观影响有关；其次是并不正相关的经济因素，虽然找不出具体的定量联系，但学者们还是认为反恐和经济有一定的关系；第三是宗教问题，宗教对恐怖主义有相当大的影响，但并不是说宗教导致了恐怖主义，而是被恐怖主义所利用；第四是恐怖主义早就存在，有必要去了解它的历史起源[60]。在预防工作中，将恐怖份子脱离恐怖组织的策略研究目前还不多见，短时间内也看不到成效，但对反恐研究具有深远意义。总的来说网络反恐立法和教育非常重要，法律能起到立竿见影的效果，警示一部分恐怖组织有所收敛，并能与教育的作用相互加强，可以结合国内反恐形势不断改进和完善反恐教育和立法，更有针对性地预防恐怖活动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文从信息收集、网络分析、传播控制、预警和预防这些反恐研究热点出发，主要从分析预测和传播的角度对网络反恐进行现状分析。在数据收集分析阶段，目前缺少分析动态网络的工具和技术，大数据分析能力不足。在控制恐怖舆论传播方面，技术上还需要更高级别的识别匹配技术以及处理一些非文本技术，伦理上也要平衡好公民网络自由与恐怖事件传播控制之间的关系。在事后处理及预防上应该加大研究力度，现有研究鲜有从此角度深人解析。当前总体上研究大多从社会学和传播学人手，或者只是对反恐对策做简要概述，缺少具体的、切实可行的技术和管理实施方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "今后国内网络反恐工作除了从技术、法律、道德上制约外，也应该重视软性反恐工作的开展，净化网络环境，未来网络反恐研究可从以下三方面展开：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）在反恐数据收集上要有能进行更大范围搜索的先进技术与设备，以提供更多实事型情报信息；建立起完善的反恐字典和知识库，增强网络收集和处理信息的能力；在此基础上建立起具有中国自身特色的反恐基础数据库，进一步完善反恐情报系统。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)在恐怖舆论传播方面，首先就是从立法和教育两方面提高公民的反恐意识，让民众都成为网络理智的维护者，并号召意见领袖利用网络渠道引导网络舆情。其次加强对涉恐信息的识别能力，特别是对非文本信息的处理方式，补充完善网络反恐举报机制。最后在舆情控制和引导问题上，要为涉恐舆情的每个阶段和程度都预设可执行的处置方案，这样才能在事件爆发时从容应对，也能在一定程度上安抚民众。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）还需要对反恐情报、反恐响应、反恐决策这三个方面进行大量研究，全面提高预警系统的实际效果，借助社会化网络泛在计算，以大数据挖掘为手段,一旦能正确预警恐怖事件的发生，就应该立即启动相应的应急措施，进行恐怖组织的打击和民众的疏散和救援工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]张婷，王沙骋．基于人际网络的公安边防反恐情报网络模 式研究[J]．情报杂志，2014，33(6):17-21.(Zhang Ting, Wang Shacheng.Study on the Intelligence Network Model of Public Security's Border Counterterrorism Based on Social Network [J]. Journal of Intelligence,2014,33(6): 17-21.)   \n[2] Pollit M.Cyber Terrorism [C].In:Procceedings of the 20th National Infomation Systems Security Conference.1997.   \n[3] 李本先，江成俊，方锦清．网络科学在反恐研究中面临的 挑战和机遇[J]．复杂系统与复杂性科学，2014，11(1): 60-66.(Li Benxian,Jiang Chengjun,Fang Jinqing.Network Science's Challenges and Opportunities in Counter-Terrorism Research [J]. Complex Systems and Complexity Science, 2014,11(1):60-66.)   \n[4] 樊彦芳.利用型网络恐怖犯罪是当前网络反恐重点[N].中 国社会科学报,2012-09-03(A08).(Fan Yanfang.The Use of Terror Crime Network is the Focus of the Current Anti-Terrorism Network [N]. Social Sciences in China, 2012-09-03(A08).)   \n[5] 叶慧珪．反恐专家罗伯特·佩普：打击恐怖主义需要战略与 战术上的平衡[N].21 世纪经济报道，2014-07-03(002).(Ye Huijue.Terrorism Experts Robert Peiper:The Fight Against Terrorism Requires Tactical and Strategic Balance [N].21st Century Business Herald,2014-07-03(002).)   \n[6]李鸥．网络反恐及对策[J]．江西警察学院学报，2006(3): 92-95.(Li Ou.Comment on Counter Cyber-terrorism and Its Control Method [J].Journal of Jiangxi Police Institute, 2006(3): 92-95.)   \n[7]Sageman M. Understanding Terror Networks [M]. University of Pennsylvania Press,2004: 132-137.   \n[8]Chaudhuri S,Dayal U. An Overview of Data Warehousing and OLAP Technology [J].ACM SIGMOD Record,1997, 26(1): 65-74.   \n[9]Appelt D E. Introduction to Information Extraction [J].AI Communications,1999,12(3): 161-172.   \n[10]Conlon S J，Abrahams A S,Simmons L L.Terrorism Information Extraction from Online Reports [J]. Journal of Computer Information Systems,2015,55(3): 20-28.   \n[11]许发见，汪宏伟，杨杰．垂直搜索在网络反恐信息分析系 统中的应用研究[J]．福建警察学院学报，2010(2):11-15. (Xu Fajian,Wang Hongwei, Yang Jie.Application Research on Vertical Search Technique Used in the Information Analytic System of Anti-terrorism in Internet [J]. Journal of Fujian Police College,2010(2): 11-15.)   \n[12]Dugan L F L. Introducing the Global Terrorism Database [J]. Terrorism & Political Violence,2007,19(2):181-204.   \n[13] Lafree G. The Global Terrorism Database: Accomplishments and Challenges [J].Perspectives on Terrorism,2010,4(1). http://www.terrorismanalysts.com/pt/index.php/pot/article/view/ $8 9 / \\mathrm { h t m l }$ ，   \n[14]秦殿启．论泛在信息社会的人际情报网络[J]．情报杂志, 2013,32(7):24-27.(Qin Dianqi.On Human Intelligence Network in Ubiquitous Information Society [J].Journal of Intelligence,2013,32(7): 24-27.)   \n[15]林聚任．社会网络分析：理论、方法与应用[M]．北京：北 京师范大学出版社，2009．(Lin Juren．Social Network Analysis:Theory, Methods and Applications [M]. Beijing: Beijing Normal University Publishing House, 2009.)   \n[16]罗家德．社会网分析讲义[M]．北京：社会科学文献出版 社,2010.(Luo Jiade.Social Network Analysis Notes [M]. Beijing: Social Sciences Academic Press,2010.)   \n[17] Penzar D,Srblinovic A． About Modeling of Complex Networks with Appiication to Terrorist Group Modeling [J]. Inter-Disciplinary Description of Complex Systems,2005, 3(1): 35-43.   \n[18] Estrada E.The Structure of Complex Networks [M]. Oxford University Press,2012.   \n[19]Roberts N,Everton S F. Strategies for Combating Dark Networks [J]. Journal of Social Structure,2009,12(2): 1-32.   \n[20] Everton S F, Cunningham D. Terrorist Network Adaptation to a Changing Environment [A].// Crime and Networks [M]. Routledge,2013.   \n[21]Krebs V. Mapping Networks of Terrorist Cells [J]. Connections, 2001,24(3): 43-52.   \n[22] Freeman L C.Centrality in Social Networks:I.Conceptual Clarification [J]. Social Networks,1979,1(3): 215-239.   \n[23]McCulloh I,Carley K M.Longitudinal Dynamic Network Analysis:Using the Over Time Viewer Feature in ORA[R]. Social Science Electronic Publishing,2009.   \n[24] Arquilla J,Ronfeldt D F.Networks and Netwars: The Future of Terror,Crime,and Militancy [M]. Santa Monica, California:RAND Corporation, 2001.   \n[25]张海，孙多勇．基于社会网络理论的恐怖组织隐蔽网络分 析方法[J].安全与环境学报，2011,11(3)：259-264.(Zhang Hai,Sun Duoyong. Stuty on the Terrorist Covert Networks from the Perpective of Social Network Analysis [J]. Journal of Safety and Environment,2011,11(3): 259-264.)   \n[26] Martino F,Spoto A.Social Network Analysis:A Brief Theoretical Review and Further Perspectives in the Study of Information Technology[J].Psychology Journal,2006(1): 53-86.   \n[27]李本先，李孟军，孙多勇，等．社会网络分析在反恐中的 应用[J]．复杂系统与复杂性科学，2012，9(2):84-93.(Li Benxian, Li Mengjun, Sun Duoyong,et al. A Brief Review of Applications of Social Networks Analysis Against Terrorism [J]. Complex Systems and Complexity Science,2012,9(2): 84-93.)   \n[28] Silke A.Holy Warriors:Exploring the Psychological Processes of Jihadi Radicalization [J].European Journal of Criminology,2008,5(1): 99-123.   \n[29]Manrique P, Cao Z,Gabriel A,et al. Women's Connectivity in Extreme Networks [J]. Science Advances，2016，2(6): e1501742.   \n[30]Bohannon J.How to Attack the Islamic State Online [J]. Science,2016,352(6292): 1380.   \n[31]Cohen D K.Female Combatants and the Perpetration of Violence: Wartime Rape in the Sierra Leone Civil War [J]. World Politics,2013, 65(3): 383-415.   \n[32]Bohannon J. News Investigating Networks: The Dark Side [J]. Science,2009,325(5939): 410-411.   \n[33] Weiss M,Hasan H. ISIS: Inside the Army of Terror [M]. Regan Arts,2015.   \n[34]邹东升，丁柯尹．移动互联时代的涉恐网络舆论与网络反 恐策略[J]．甘肃社会科学，2015(2):195-198.(Zou Dongsheng,Ding Keyin. Involvement of Mobile Internet Era May Network Public Opinion and Counter-Terrorism Strategy [J]. Gansu Social Sciences,2015(2): 195-198.)   \n[35]丁红军，陈德俊．ISIS 网络恐怖主义活动对国内反恐形势 的影响及应对措施[J]．中国公共安全：学术版，2015(2): 95-97.(Ding Hongjun, Chen Dejun.ISIS's Cyber Terrorism Acticity Impacts on China's Counter-terrorism and the Countermeasures [J]. China Public Security:Academy Edition, 2015(2): 95-97.)   \n[36] 杨勇，杨晓萍．反恐形势下新疆网络传播面临的挑战与应 对路径研究[J]．克拉玛依学刊，2014，4(6):26-31.(Yang Yong，Yang Xiaoping. Research on the Challenges and Countermeasures of the Network Communication in Xinjiang Under the Anti-Terrorism Situation [J]. Journal of Karamay, 2014,4(6): 26-31.)   \n[37] Conway M,Mcinerney L.What's Love Got to Do with It? Framing‘JihadJane’in the US Press [J].Media War & Conflict,2012, 5(5): 6-21.   \n[38]叶战备．江苏网络群体性事件的舆情疏导[J]．唯实, 2016(4): 66-67.(Ye Zhanbei. Jiangsu Network Group Events of Public Opinion Counseling [J]. Reality Only,2016(4): 66-67.)   \n[39]金苗．权力场域视阈下的国际反恐与大众传媒[J]．南京政 治学院学报，2012,28(6):94-98.(Jin Miao.International Anti-terrorism and Mass Media from the Perspective of Power Field [J]. Journal of PLA Nanjing Institute of Politics, 2012,28(6): 94-98.)   \n[40]吴照美，刘冲．关于完善国内反恐预警机制的思考[J]．武 汉公安干部学院学报,2011,25(3):24-26.(Wu Zhaomei,Liu Chong. Thoughts on the Improvement of the Anti-Terrorism Early Warning System in China [J].Journal of Wuhan Public Security Cadre's College,2011,25(3): 24-26.)   \n[41]蔡华利，刘鲁，李红．基于规则推理的突发事件发生地点 识别研究[J].情报学报，2011，30(2):219-224.(Cai Huali, Liu Lu,Li Hong. Rule Reasoning-based Occurring Place Recognition for Unexpected Event [J]. Journal of the China Society for Scientific and Technical Information,2011,30(2): 219-224.)   \n[42] O'Brien S P. Crisis Early Warning and Decision Support: Contemporary Approaches and Thoughts on Future Research [J]. International Studies Review,2010,12(1): 87-104.   \n[43]Berrick C A.Computer-Assisted Passenger Prescreening System Faces Significant Implementation Challenges [R]. United States General Accounting Office,2004.   \n[44]王飞跃，邱晓刚，曾大军，等．基于平行系统的非常规突 发事件计算实验平台研究[J]．复杂系统与复杂性科学, 2010,7(4): 1-10.(Wang Feiyue,Qiu Xiaogang, Zeng Dajun, et al.A Computational Experimental Platform for Emergency Response Based on Parallel Systems [J].Complex Systems and Complexity Science,2010,7(4): 1-10.)   \n[45]都伊林，吴晓．智慧城市视角下完善反恐预警机制研究[J]. 情报杂志,2015,34(7):13-17.(Du Yilin,Wu Xiao.Terrorist WarningMechanismUnderPerfectWisdomUrban Perspective [J]. Journal of Intelligence,2015,34(7): 13-17.)   \n[46]樊明明，肖欢，陶祥军．美俄反恐预警机制的比较及启示 [J]．情报杂志，2014，33(12):6-9.(Fan Mingming，Xiao Huan,Tao Xiangjun.A Comparative Analysis on the U. S. and Russia's Terrorism Early Warning System [J].Journal of Intelligence,2014,33(12): 6-9.)   \n[47]Whittaker A G, Smith F C,Mckune A E.The National Security Policy Process: The National Security Council and Interagency System [R]. National Security Council, 2008.   \n[48]李本先，梅建明，李孟军．国内反恐情报及预警系统框架 设计[J]．中国人民公安大学学报：社会科学版，2012, 28(4):117-125.(Li Benxian，Mei Jianming,Li mengjun. China's Counter-Terrorism Intelligence and Early Warning System Framework Design [J]. Journal of Chinese People's Public Security University,2012,28(4): 117-125.)   \n[49]刘慧娟．国外民航反恐预警系统[J]．中国民用航空, 2013(6): 61-62.(Liu Huijuan.Comparative Analysis of Anti-terrorism Alert Systems for Civil Aviation in Western Countries[J]. China Civil Aviation,2013(6): 61-62.)   \n[50]贾志城.基于 Ad Hoc 网络的反恐处突远程监控系统的研 究与实现[J]．自动化与仪器仪表，2014(3)：108-112.(Jia Zhicheng.Research and Implementation of Ad Hoc Network Based on the Remote Monitoring and Control System of Counter Terrorism [J].Automation & Instrumentation, 2014(3): 108-112.)   \n[51] Guo H.A Method of Life Signal Identification Based on BP Neural Network [C]. In: Proceedings of the 4th International Congress on Image and Signal Processing. 2011.   \n[52]杨灵芝，丁敬达．论城市突发事件的应急信息管理[J]．情 报科学,2009,27(3):351-355.(Yang Lingzhi,Ding Jingda. On Emergency Information Management of City Thunderbolt [J].Information Science,2009,27(3):351-355.)   \n[53]林曦，姚乐野．国内突发事件应急管理的情报工作现状与 问题分析[J].图书情报工作,2014,58(23):12-18.(Lin Xi, Yao Leye.Analysis on Current Situation and Issues of China's Intellgence Work in Emergency Management [J]. Library and Information Service,2014,58(23):12-18.)   \n[54] 秦伟毅，唐绍辉，李双明，等．广州\"5·6\"火车站恐怖暴力 袭击事件应急医学救援分析[J].中华损伤与修复杂志：电 子版，2015，10(3):37-40.(Qin Weiyi，Tang Shaohui,Li Shuangming， et al. Emergency Response Analysisof Guangzhou “5·6”Railway Station Terrorist Violent Attack [J].Chinese Journal of Injury Repair and Wound Healing: Electronic Edition,2015,10(3):37-40.)   \n[55]Fuse A,Yokota H.Lessons Learned from the Japan Earthquake and Tsunami，2011 [J]．Journal of Nippon Medical School,2012, 79(4):312-315.   \n[56]Jones D.Semantic Attacks — A New Wave of Cyber Terrorism [M].NTA Monitor,2002.   \n[57]Pounder C.Anti-terrorism Legislation:The Impact on The Processing of Data [J].Computers & Security,2002,21(3): 240-245.   \n[58]朱文．网络反恐：编织国际法律的\"天罗地网\"[J]．中国信 息安全，2014(10):86-89.(Zhu Wen．Network Terrorism: International Law“Weaving Nets Above and Snares Below” [J].China Information Security, 2014(10): 86-89.)   \n[59]皮勇．全球化信息化背景下国内网络恐怖活动及其犯罪立 法研究—兼评国内《刑法修正案(九)(草案)》和《反恐怖 主义法(草案)》相关反恐条款[J]．政法论丛,2015(1):68-79. (Pi Yong.Research on Cyber-Terrorism in China and the Related Criminal Law- -Comment on the Provisions in the Draft of 9th Amendment of Penal Code and the Draft of Anti-terrorism Law [J]. Journal of Political Science and Law, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2015(1):68-79.) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[60]李本先，梅建明．国内反恐研究热点问题与未来方向[J]. 中国人民公安大学学报：社会科学版,2015,31(3):1-9.(Li Benxian,MeiJianming.TheHot IssuesandFutureDirection of China's Anti-terrorism Research [J].Journal of People's Public Security University of China:Social Sciences Edition, 2015,31(3): 1-9.) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "黄炜：提出研究思路，设计研究方案，论文最终版本修订;  \n余辉，李岳峰：采集、处理和分析数据，论文撰写。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。   \n[1]黄炜，余辉，李岳峰．检索结果.xlsx.检索结果.   \n[2]黄炜，余辉，李岳峰.检索结果中相关文献.xlsx.相关文献. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-06-21  \n收修改稿日期:2016-09-09",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Review of Online Anti-terrorism Research in China ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Huang Wei1,²Yu HuilLi Yuefeng1 1(School of Economy and Management, Hubei University of Technology, Wuhan 430064, China) 2(School of Management, Wuhan University of Technology, Wuhan 430072, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective] This paper reviews the studies of online anti-terorism in China and then identifies their limitations as wellas future research trends.[Coverage] We retrieved 6O Chinese journal articlesand books from CNKI, Wanfang,Webof Science,ScienceDirect and Engineering Villge databases,which were published after 2Oo2 and had the topic of“Online Anti-terrorism”.[Methods] We examined the Chinese literature from the perspectives of anti-terrorism data analysis,public opinion dissemination,as well as early warning and crisis response mechanisms. [Results] Most of te Chineseonline anti-terrorism research collected terrorism data and thenanalyzed terrorismrelated remarks and public opinion. However, the big data procesing and non-textual data analysis techniques adopted by these studies were not suffcient. Meanwhile,the online anti-terrorism laws and education need to be improved. [Limitations] Weonly collcted the target literature from scholarly journalsand books,and should have more data fromthereal world counter-terrorism cases.[Conclusions] Onlineanti-terorism research in China is still developing, which requires coordinated support from technology,management and regulation sections to promote its advancement and integration with the big data. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Online anti-terrorismInternet public opinionAnti-terrorism warning Network structure ",
+        "page_idx": 9
+    }
+]

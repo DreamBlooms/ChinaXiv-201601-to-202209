@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "Carboxylesterase-mediated insecticide resistance: Quantitative increase induces broader metabolic resistance than qualitative change ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Feng Cui a,1,\\*, Mei-Xia Li b.1, Hai-Jing Chang a.c, Yun Mao ad, Han-Ying Zhang a, Li-Xia Lu a, Shuai-Guo Yan ad, Ming-Lin Lang c, Li Liu b.\\*\\*, Chuan-Ling Qiao a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeybotedttdded bStateKeyLboratoryofraidognitiveienceIstituteofiopsics,Cnesecademyofiences,Beijingin Departmentofolecularologydformatics,CollgeofLifeience,AgriculturalUiversityfHbeiBodingin d College of Life Science,Henan Normal University, Xinxiang 4530o7,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Received 19 September 2014 Accepted 15 December 2014 Available online 23 December 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nCarboxylesterase   \nInsecticide resistance   \nEvolution   \nMutation   \nTransgenic Drosophila ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carboxylesterases are mainly involved in the mediation of metabolic resistance of many insects to organophosphate(OP)insecticides.Carboxylesterases underwent two divergent evolutionary events: (1) quantitative mechanism characterized by the overproduction of carboxylesterase protein;and (2)qualitative mechanism caused by changes in enzymatic properties because of mutation from glycine/ alanine to aspartate at the 151 site(G/A151D)or from tryptophan to leucine at the 271 site(W271L), following the numbering of Drosophila melanogaster AChE.Qualitative mechanism has been observed in few species.However,whether this carboxylesterase mutation mechanism is prevalent in insects remains unclear.In this study,wild-type,G/A151D and W271L mutant carboxylesterases from Culex pipiens and Aphi gossypii were subjected to germline transformation and then transferred to D.melanogaster.These germlines were ubiquitously expressed as induced by tub-Gal4.In carboxylesterase activity assay,the introduced mutant carboxylesterase did not enhance the overall carboxylesterase activity of flies.This result ndicated that G/A151D or W271L mutation disrupted the original activities of the enzyme.Less than 1.5-fold OP resistance was only observed in flies expressing A.gossypii mutant carboxylesterases compared with those expressing A.gossypii wild-type carboxylesterase.However,transgenic flies universall showed low resistance to OP insecticides compared with non-transgenic flies.The flies expressing A.gossypii W271L mutant esterase exhibited 1.5-fold resistance to deltamethrin,a pyrethroid insecticide compared with non-transgenic flies.The present transgenic Drosophila system potentiall showed that a quantitative increase in carboxylesterases induced broader resistance of insects to insecticides than a qualitative change. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2014 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The evolution of insecticide resistance in insect pests as a consequence of strong selection imposed by widespread insecticide application impedes pest control efforts[1]. Chemical insecticides are the preferred agents used to control numerous agricultural and vector insect pests.Organophosphate（OP）insecticides are among the most commonly used insecticides since organochlorine insecticides were banned.However,many insect pests have developed resistance to OPs (http://www.pesticideresistance .org). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Resistance to OP insecticides can be mediated either by exhibitinginsensitivityasaresult of target enzyme (acetylcholinesterase) mutations or by enhancing the ability to metabolize OPs.Studies on metabolic-based insecticide resistance have provided valuable insights into the mechanism by which insecticides are inactivated before molecular targets in insects are reached. This metabolic resistance to OP insecticides is mediated by carboxylesterases (EC 3.1.1.1),particularly nonspecific carboxylesterases,which exhibit high activity(as wild-type enzymes) with substrates,such as $a -$ or $\\beta$ -naphthyl-acetate.An individual insect species may contain large numbers of carboxylesterase genes; for example,Bombyx mori contains 76 carboxylesterase genes[2]. Despite this large number,only several carboxylesterase genes are usually responsible for OP resistance.For instance,two closely located carboxylesterase genes on chromosome II of Culex pipiens,namely, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Est-3(coding esterase A) and Est-2 (coding esterase B),provide a substantial level of OP resistance in field populations worldwide [3,4]. E4and FE4 esterases in Myzus persicae also exhibit resistance to OP [5]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two metabolic resistance mechanisms are involved in nonspecific carboxylesterases.Quantitative mechanism is characterized by the overproduction of carboxylesterase proteins by gene amplification or transcriptional upregulation.In this mechanism,highlevel esterase proteins function as“sponges\"to sequester insecticide molecules,not to hydrolyze these substances [6].Lower dipterans,suchas C.pipiens,Culex tarsalis,and Culex tritaeniorhynchus, and sap-sucking insects,suchasM.persicaeand Schizaphis graminum, utilize this strategy to survive OP treatments [3,7-9]. Qualitative mechanism occurs as a result of changes in the enzymatic properties of esterases,specifically high activities with OPs and low activities with common substrates,such as naphthyl acetate.The same mutant form G137D(denoted as G151D in this paper, following the sequence of Drosophila melanogaster AChE),which is found in field-resistant populations of several higher dipterans [e.g. Lucilia cuprina (LcαE7),Lucilia sericata (LsαE7),Cochliomyia hominivorax,and Musca domestica(MdαE7)],causes the characteristic shift in substrate specificity from naphthyl acetate to OPs [10-13].W251L (denoted as W271L in this paper, following the sequence ofD.melanogaster AChE),another variant in malathionresistant L.cuprina populations(LcαE7),exhibitsa similar shift in substratespecificity.Asaresult,naphthylacetatehydrolysisactivityisdecreased,whereas OP activity is increased[14].W251G,a different substitution,wasalso found at position 251 ina malathionresistant strain of the parasitoid wasp Anisopteromalus calandrae [15]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the qualitative mechanism has been observed in few insect pests,in vitro mutagenesis and recombinant expression of nonspecific carboxylesterases from eight insect species,including Aphis gossypii, C. pipiens,Spodoptera litura, B.mori,Nilaparvata lugens, Tribolium castaneum,Harmonia axyridis,and Apis mellifera,indicate that the G/A151D and W271L mutations commonly induce changes in the enzymatic properties of insect carboxylesterases at a biochemical level [16,17].However, the two mutations in eight Helicoverpa armigera esterases do not generally enhance either OP orpyrethroid hydrolysis in vitro [18].As such,in vivo experimental evidence should be obtained to determine whether carboxylesterase evolution via qualitative mechanism potentially causes broad insecticide resistance of insects.Studies shouldalso be conducted to determine whether quantitative or qualitative mechanism provides insects with efficient adaptive mechanisms to insecticide selection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，wild-type,G/A151D and W271L mutant carboxylesterases of C.pipiens (esterase B1,M32328,namedas CpEST) and A.gossypii(EU783916,named as AgEST) were chosen for gene transformation to D.melanogaster by considering the significant differences of these enzymes in insecticide hydrolysis in vitro.The A151D and W271L mutants of AgEST showed considerable hydrolysisactivities toward OP insecticides,whereas onlythe W271L mutant CpEST had low OP hydrolysis activity[17].The hydrolysis activities of CpEST,AgEST,and their mutants toward pyrethroid insecticides were not determined in vitro.However,271L mutation has been reported to be capable of increasing the hydrolysis activityof otherinsect esterases,likeL.cuprina E3,D.melanogasterEST23, and three H.armigera esterases,toward some pyrethroid isomer insecticidesin vitro [18,19].Therefore,in this study,insecticide resistance was investigated by comparing the carboxylesterase activities and resistance levels to four OP insecticides and one pyrethroid insecticide between(1) wild-type and mutant esterase transgenic lines and (2) between transgenic lines and non-transgenic lines.The evolutionary fitness characteristics of the two resistance mechanisms were discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Insect stocks ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All of the Drosophila lines were maintained at $2 5 ^ { \\circ } \\mathsf { C }$ in a standard corn meal/molasses medium [20] with a $1 2 \\ : \\mathrm { h } / 1 2$ h light/dark cycle at $60 \\%$ humidity.The following fly strains were used: $w ^ { 1 1 1 8 }$ ： J36(yW,M{eGFP,Vas-int.Dm}ZH-2A;;M{RFP.attp}ZH-86Fb); $S c o /$ Cyo;TM3/TM6b;and tub-Gal4 [21].The mosquito strain (C.pipiens) Shengui is an OP-resistant strain maintained at $2 6 \\pm 1 ^ { \\circ } \\mathsf C$ with a longdayphotoperiod ( $1 4 \\mathrm { h } / 1 0 \\mathrm { h }$ light/dark cycle)[22,23]. The cotton aphid strain (A. gossypii) was collected in Tai'an, Shandong,in 2O1O and reared in the lab at $2 5 \\pm 1 ~ ^ { \\circ } \\mathrm { C }$ with a long-day photoperiod $( 1 4 \\mathrm { h } / \\$ $^ { 1 0 \\mathrm { h } }$ light/dark cycle). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Transgenic fly generation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fragments corresponding to the wild-type carboxylesterases, two mutant G/A151D and W271L forms of CpESTand AgEST,were amplified from the previously constructed recombinant pET28a plasmids[16,17] and respectively subcloned into pUAST or pUASTattB vectors [24,25] between the restriction digestion sites Bglll and KpnI.The primer pairsused in the PCRswere CpEST-BgllI and CpESTKpnland AgEST-BgllI and AgEST-KpnI (Table S1).All cloningsteps were confirmed by restriction digestion and DNA sequencing.The plasmids expressing wild-type CpEST or AgEST were named as p(UAS-CpEST-wildtype) orp(UAS-AgEST-wildtype); the plasmids expressing mutant CpEST or AgEST with point mutation were named as p(UAS-CpEST-G151D),p(UAS-CpEST-W271L),p(UAS-AgESTA151D),and p(UAS-AgEST-W271L),respectively.The six recombinant plasmids were subjected to germline transformation to generate transgenic lines according to standard protocols [26]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Quantitative PCR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quantitative PCR(qPCR) was performed to quantify the gene copy number and the RNA level of carboxylesterases between wildtype and mutant transgenic lines.Each transgenic strain was crossed withthe Gal4 strain.Genomic DNA and total RNA were obtained from six independent groups of offspring by using cetyl trimethyl ammonium bromide method [27] and TRIZOL reagent (Invitrogen, Carlsbad, CA, USA),respectively. Each group comprised five 4-dayold female adult flies.The total RNA was treated using the TURBO DNA-free kit (Ambion, Austin,TX, USA) to remove genomic DNA contamination and then was reverse-transcribed into cDNA by using the SuperScriptTM III first strand synthesis system (Invitrogen).The relative differences in the mRNA expression levels or insertedgene copies among transgenic strains were quantified by qPCR (LightCycler $\\textcircled{8}$ 480 I system;Roche,Basel, Switzerland).The actin 42AofD.melanogaster(NM_O789o1) wasused asan internal control. The primers were designed using Primer-BLAST in NCBI (http://www.ncbi.nlm.nih.gov/tools/primer-blast) (Table S1). OnewayANOVAwas performedusing SPSS13.O to analyze relative differences.Values were presented as mean $\\pm$ SEM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Carboxylesterase activity assays ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For each transgenic strain,the Gal4-driven total carboxylesterase activities of the four-day-old female adult progenies were quantified using a Beckman DU-8oO spectrophotometer (Becton-Dickinson, Fullerton, CA,USA)withartificial substrate $\\beta$ -naphthyl-acetatein $0 . 2 \\mathrm { M }$ phosphate buffer $\\mathrm { ( p H 7 . 0 ) }$ .Gross proteins extracted from the three flies were incubated with $\\beta$ -naphthyl-acetatefor $3 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C } .$ Subsequently, freshlyprepared diazo blue sodium dodecyl sulfate(SDS) reagent ( $0 . 3 \\%$ fast blue B salt in $3 . 5 \\%$ aqueous SDS) was added.The color that developed asa result of $\\beta$ -naphthol formation was detected at $5 5 5 \\mathrm { n m }$ and quantified using a $\\beta .$ -naphthol standard curve.Enzymatic activity was determined as the amount of $\\beta \\cdot$ -naphthol $( \\mu \\mathrm { M } )$ produced per milligram of total protein per minute.Six biological replicates were performed,and one-way ANOVA was conducted to analyze the relative differences in enzyme activities among various fly strains. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Insecticide bioassays ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four-day-old femaleadultoffsprings from the followinghybridization groups were used in topical application bioassays of several insecticides:male transgenic flies crossed with female Gal4 lines and male transgenic flies crossed with female $\\boldsymbol { w } ^ { \\scriptscriptstyle { t l 1 8 } }$ Four OP insecticides (i.e., chlorfenvinphos,malathion, parathion,and monocrotophos) and one pyrethroid insecticide (i.e.,deltamethrin) were dissolved in acetone and diluted to obtain the final concentrations.The flies were anesthetized with carbon dioxide;afterward, $0 . 2 5 \\mu \\mathrm { L }$ of insecticide solution was applied on the thoracic dorsum of flies by usinga Burkard hand microapplicator(Burkard Manufacturing Co.,Hertfordshire,England). Control flies were treated with $0 . 2 5 \\mu \\mathrm { L }$ ofacetone.Five doses of each insecticide with sixreplicates for each dose(2O flies per replicate) were administered.Mortality was determined at $2 4 \\mathrm { h }$ after treatment,and data were analyzed using the log-probit program [28,29] to obtain $\\mathrm { L D } _ { 5 0 }$ values,slope of each mortality line,Chi-square values,and resistance ratioswith $9 5 \\%$ confidence intervals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.Probe synthesis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A 201bp fragment of CpESTand a 262 bp fragment of AgESTwere amplified from the previously constructed recombinant pET28a plasmids[16,17] by using the following primers:CpEST-probe-For and CpEST-probe-Rev for CpEST;and AgEST-probe-Forand AgEST-probeRev for AgEST(Table S1).These fragments were subcloned into the pGEM-T vector(Promega,Madison,WI,USA).The plasmidswere confirmed by sequencing and linearized with Sacl or Apal to perform transcription with T7 or SP6 RNA polymerase and to generate digoxigenin (DIG)-labeled antisense and sense probes by using a DIG RNA labeling kit (Roche).These probes were evaluated by dot-blot hybridization according to the manufacturer's instructions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7.In situ hybridization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Adult insects of mosquitoes and cotton aphids were immobilized in an ice bath to remove their wings and legs.Two holes were created in the thorax and the abdomen.The insects were then fixed overnight in $4 \\%$ paraformaldehyde containing $0 . 2 5 \\%$ triton X-100.The paraffin-embedded specimenswere sliced witha thickness of $5 \\mu \\mathrm { m }$ deparaffinized,and further digested with $2 0 \\mu \\mathrm { g / m L }$ proteinase K. Afterward, the sections were hybridized using DIG-labeled antisense and sense probes at $5 5 ^ { \\circ } C$ for $1 9 \\mathrm { h }$ ina hybridization incubator.For detection, the sections were incubated with anti-DIG-AP conjugate (Roche; 1:1000) at $3 7 ^ { \\circ } C$ for $^ { 2 \\mathrm { h } }$ and visualized using the nitro blue tetrazolium/ 5-bromo-4-chloro-3-indolylphosphate colorimetric substrates (Promega) according to the manufacturer's instructions.Photographs were obtained using an inverted microscope (ECLIPSE TE2oOO-S;Nikon). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Ubiquitous carboxylesterase gene expressions in C.pipiens and A. gossypii ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The distributions of the carboxylesterase CpEST and AgEST were examined byin situ hybridizationin C.pipiensand A.gossypii,respectively,to evaluate whether or not the ubiquitous tub-Gal4 line should be used in later transgenic experiments.CpEST was expressed in the brain,eyes,ovary,nerve ganglion,digestive gut,and salivary gland of mosquitoes (Fig.1).AgEST was expressed in the brain,nerve ganglion,digestive gut,ovary,muscle,and cuticle of aphids (Fig.2).These two carboxylesterases in the two insect species showed a pervasive,not organ-specific expression pattern.Thus, the tub-Gal4 line was chosen to drive the expression of the two carboxylesterases ubiquitously in Drosophila. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Comparative gene copynumber and transcript levels of the transformed carboxylesterase genesintransgenic Drosophila strains ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The wild-type,G/A151D and W271L mutant CpEST and AgEST were subjected to germline transformation to the third chromosome of D.melanogaster.The DNA and RNA levels of the transferred carboxylesterase genes in these transgenic lines were determined byreal-time qPCR.At the DNA level, the inserted-gene copy numbers of the wild type and the two mutants were similar in CpEST (Fig.3A) and AgEST（Fig.3B) transgenic lines.At carboxylesterase transcript levels,no significant difference was observed in the carboxylesterase expression induced by tub-Gal4 of wild-type and mutant transgenic lines (Fig.3C and D, $P { > } 0 . 0 5$ in one-way ANOVA). This uniformity in the gene copy and transcript levels for the wildtype and the corresponding mutant transgenic lines made the comparison of carboxylesterase activityand insecticide resistance level among these transgenic strains rational.No transcripts (leaky expression) of the transferred carboxylesterase genes were detected from UAS lines before crossing to tub-Gal4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.Decreased carboxylesterase activity in mutant esterase transgenicflies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The overall tub-Gal4-driven carboxylesterase activities in the transgenic flies were determined to evaluate the activities of the two mutant carboxylesterases.The carboxylesterase activities of the wildtype CpEST and wild-type AgEST transgenic flies to $\\beta$ -naphthylacetate were approximately twofold higher than those of 151D or 271L mutant transgenic flies and non-transgenic flies (Fig.4A and B).No significant difference was observed between 151D or 271L mutant transgenic flies and non-transgenic flies.Thus,overexpression of 151D or 271L mutant carboxylesterase cannot increase the overall carboxylesterase activity in flies,indicating that G/A151D or W271L mutation disrupts the $\\beta$ -naphthyl-acetate hydrolysisactivity of enzymes.The results of CpEST-151D,CpEST-271L,and AgEST-271L are consistent with those obtained from in vitro expressed enzymes, whereas the AgEST-151D mutantis not behaving in the flyas the in vitro expressed enzyme,which biochemically shows similar $\\beta$ -naphthyl-acetate hydrolysisactivityas the wild-type AgEST[17]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4.MutantA.gossypii esterases exhibit low OP resistance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine whether mutant carboxylesterases were involved in insecticide resistance,we evaluated the resistance levels of transgenic flies to four organophosphorus and one pyrethroid insecticides, in which exogenous wild-type or mutant carboxylesterases were expressed by the tub-Gal4 promoter. CpEST-151D or CpEST-271L transgenic flies did not show higher resistance levels to the tested insecticides. Instead, these flies were more susceptible to parathion,malathion, or deltamethrin than the wild-type CpEST transgenic flies were $( P { \\leq } 0 . 0 5 )$ （2 (Table 1).The AgEST-151D mutant flies significantly exhibited 1.4- foldhigher resistance to chlorfenvinphos $( P < 0 . 0 5 )$ and1.2-fold marginally significant resistance to monocrotophos $\\scriptstyle P = 0 . 0 5$ (Table2) compared with thewild-type AgEST flies.The AgEST-271L mutant flies werealso 1.2-fold marginally resistant to chlorfenvinphos $( P { = } 0 . 0 5 )$ （204号 (Table 2).No significant higher resistance to the three other insecticides were observed in AgEST-151D or AgEST-271L mutant flies. However,AgEST-151D and AgEST-271L flies were more susceptible to parathion,and AgEST-151D was more susceptible to malathion than the wild-type AgEST transgenic flieswas $( P { \\leq } 0 . 0 5 )$ (Table2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8df6dc25f5663a82baabae1e54ff6b63dcc534ee8c6d12e7326adbaef0ca6925.jpg",
+        "img_caption": [
+            "g prbeid color in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.Quantitative increase in carboxylesterases enhances insecticideresistance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We evaluated the effects of quantitative increase in carboxylesterases on insecticide resistance level by comparing the responses of transgenic lines before and after crossing to tubGal4(meaning overexpression of the transferred genes).The overexpression of wild-type C. pipiens esterase induced 1.4-fold to 2.0-fold higher resistance $( P \\le 0 . 0 5 )$ to chlorfenvinphos,parathion, or monocrotophos,but no resistance to malathion or deltamethrin Was observed(Table1).CpEST-151D-overexpressed flies displayed comparative resistance to chlorfenvinphos and malathion, whereas CpEST-271L-overexpressed flies exhibited resistance to chlorfenvinphos and parathion ( $\\cdot P < 0 . 0 5 )$ ）(Table1).The overexpressions of wild-type or AgEST-151D mutant A.gossypii esterases caused 1.3-fold to 2.5-fold resistance to the four OP insecticides.By contrast, the overexpression of AgEST-271L mutant esterase induced resistance to three OP insecticides and 1.5-fold resistance to deltamethrin,a pyrethroid insecticide $( P { \\leq } 0 . 0 5 )$ (Table 2). These results indicated that insecticide resistance could be attributed to quantitative increase in carboxylesterase levels. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Metabolic resistance to OP insecticides mediated by nonspecific carboxylesterases isan important mechanism that has evolved in insects because of insecticide selection.Two point mutations, namely, G151D and W271L,cause OP resistance by altering the enzymatic properties of nonspecific carboxylesterases in few insect species.In this study, the exogenous wild-type,G/A151D or W271L mutantcarboxylesterase genesof two insects,particularly C.pipiens and A. gossypii,were transformed to the Drosophila genome.G/A151D or W271L mutation disrupted the original activities of the two carboxylesterases to $\\beta$ -naphthyl-acetate.Only the mutant AgEST transgenic flies exhibited marginally higher resistance to monocrotophos and/or chlorfenvinphos compared with the wildtype AgEST transgenic flies.However,the overexpression of anyof the two insect carboxylesterases in flies caused significant higher insecticide resistance.These results demonstrated that quantitative mechanism provided insects with more efficient adaptive responses to insecticide selection than qualitative mechanism. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfe8e2ff1fe7855d83013302b4135c1d670141ffd6d894b8e31505517f1bed63.jpg",
+        "img_caption": [
+            "probe) did not show positive staining.Nuclei wer stainedinredwithNuclearFastRed.B,Brain.M,Muscle.N,Nervenode.D,Digestivegut.O,Ovary.E,Embryo.C,Cuticle. (Forinterpretationof thereferencestocolorinthisfigurelegend,thereaderisreferredtothewebversionofthisarticle.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Quantitative mechanismis more commonlyused by insects than qualitative mechanism when they are confronted with selection pressure from exposure to insecticides.This response commonly occurs probably because of the lower fitness cost of quantitative resistance mechanism.For example,the overproduction of esterase by the Ester locus (Ester4 and Ester1) in C.pipiens increases the probability of predation and developmental time [3O]; this condition also decreases mating competition among males [31].The alteration of fitness-related traits in qualitative resistance mechanism is likely harsher.Diazinon-and malathion-resistant L.cuprina characterized by G151D and W271L mutations in E3 exhibits an increase in fluctuating asymmetry,particularly morphological left-right differences in specific bristle characters [32,33].Fluctuating asymmetry corresponds to developmental instability and possibly causes selective disadvantages.This decrease in genetic fitness is destructive such that background modifier genes are subsequently selected to prevent the negative effects of resistance genes [32,34,35].The in vivo functions ofD.melanogaster $\\alpha$ -Esterase-7,which encodes the homolog of L.cuprina E3,have been detected in a deletion mutant flystrain by gene targeting. $D .$ melanogaster $\\alpha$ -Esterase-7 not only provides wild-type flies with moderate insecticide tolerance but also influences the lipid metabolism and lifespan of flies [36]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c138bace0fec6911289aa137fa05d2d153228f0c71b141c5c593ed0778ea8a5.jpg",
+        "img_caption": [
+            "FigGenei qCR（d attributedto lessthan $100 \\%$ ofchromosometransformation.(C)and(D)indicatetherelativetranscriptlevelsofCpESTandAgESTnormalizedbythetranscriptlevelof Drosophilamelanogasteractin 42A(NM_O78901),respectively.The same leter indicatesno significant diference $( P > 0 . 0 5 ) \\$ among the three genotypes of flies.Error bars indicate SEM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D.melanogaster is an in vivo system that has been used to validate candidate resistance genes and is applicable to many detoxification gene families from different species,such as various P450 genes from Drosophila [37,38],P450 Cyp6d1 fromM.domestica [39],P450 Cyp6bq9 from T.castaneum [40],carboxylesterase gene αE7 from L.cuprina,glutathione S-transferase gene GstE2 from Anopheles gambiae,and P450 Cyp6cm1 from Bemisia tabaci [41]. Among the advantages of this system isa uniform genetic background.Therefore,any differences in survival from insecticide exposure are possibly attributed directly to transgene.The insecticide-resistant phenotypes observed in the transgenic Drosophila system resemble those observed in resistant pest species populations;however, the resistance levels in the Drosophila system are lower than those documented in pest species [41].The overexpression of C.pipiens or A.gossypii esterases in Drosophila, no matter wild-type or mutant enzymes,produced at most 2.5- fold resistance to OP insecticides in this study,much lower than the resistance levels generally associated with the gene amplifications seen in the aphidsand mosquitoes[4,7,9].Therefore, the insecticide resistance levels observed in this study could be underestimated if the mutations were observed in field populations of C.pipiens or A.gossypii.Another possible reason for this underestimation is that the resistance levels presented in this study were manifested in heterozygous flies or those with a mutant allele and a wild-type allele as a result of the cross between transgenic fliesand Gal4 flies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The insecticide-resistant phenotypes of the mutated carboxylesterases from C.pipiens and A.gossypii presented in this study differed from those of L.cuprina E3.The G151D mutation of E3 generated 1O-fold to 16-fold increase in resistance to diethyl OP diazinon;by contrast,no evident resistance to dimethyl OP malathion was observed.The W271L mutation of E3 resulted in 3-fold to 5-fold resistance to diazinon and 6oo-fold resistance to malathion in L.cuprina [14]. No evident resistance to the tested insecticides was induced by G151D or W271L mutation of C. pipiens carboxylesterase.The A151D mutation of A.gossypii carboxylesterase induced comparable resistance to diethyl OP chlorfenvinphos and dimethyl OP monocrotophos.The W271L mutation caused only marginal resistance to chlorfenvinphos.Such different insecticideresistant phenotypes could be attributed to species specificity or large phylogenetic differences between the two esterases (C. pipiens esterase B1 and A.gossypii esterase EU783916)and L.cuprina E3[17]. However,mutations in carboxylesterases in these systems resulted in insecticide resistance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d2c27e6a47737c679c11347d7a22b41b6ed0cfdc9868e8d6d0bc93d4f7aa1fd.jpg",
+        "img_caption": [
+            "ig4bi (B)AgEST transgenic strains. Enzymatic activity was determined as the amount of $\\beta$ -naphthol $( \\mu \\mathrm { M } )$ produced per milligram of total proteins per minute.Letters indicate the comparison among the four genotypes of flies. Error bars indicate SEM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The resistance phenotype to malathion and parathion from transgenic flies is not consistent with that of in vitro expressed enzymes. CpEST-151D transgenic flies were more susceptible to parathion,and CpEST-271L transgenic flies were more susceptible to malathion and parathion than the wild-type CpEST transgenic flies,whereas the mutant CpEST enzymes showed either no or increased hydrolysis activities to malathion and methyl parathion in vitro [16]. Both AgEST-151D and AgEST-271L transgenic flies were more susceptible to parathion while the two mutations conferred hydrolysis activity to paraoxon(the effective form of parathion） for AgEST in vitro [17].This inconsistency between in vivo and in vitro experimental results could arise from multiple reasons,one of which obviously is the controllability of hydrolysis reaction in vitro and the complex integrative effects of an exogenous gene knock-in. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cba0d9fda6983102b2384938355668c617f23c415c508d3ec94e69292f522d68.jpg",
+        "table_caption": [
+            "Table 1 Insecticide resistance levels of Culex pipiens esterase transgenic flies. "
+        ],
+        "table_footnote": [
+            "崇 $P { \\leq } 0 . 0 5$ ；RR1, $\\mathrm { L D } _ { 5 0 }$ of tub-Gal4/ $^ { + }$ ;UAS-CpEST-wildtype/ $^ +$ divided by that of tub-Gal4/ $^ +$ ;UAS-CpEST-151D/ $^ +$ or tub-Gal4/ $^ +$ ;UAS-CpEST-271L/ $^ +$ ; RR2, $\\mathrm { L D } _ { 5 0 }$ of each tub${ \\mathrm { G a l } } 4 / +$ ;UAS line/ $^ +$ divided by $\\mathrm { L D } _ { 5 0 }$ of the corresponding parent UAS control. "
+        ],
+        "table_body": "<html><body><table><tr><td>Strain genotype and insecticide</td><td>LD50 (95% CI) (ug/g)</td><td>x</td><td>Slope (SE)</td><td>RR1 (95% CI)</td><td>RR2 (95% CI)</td></tr><tr><td>Chlorfenvinphos</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-wildtype/+</td><td>2.3(2.1-2.5)</td><td>0.1</td><td>6.4(0.8)</td><td>1</td><td>1.6*(1.2-2.5)</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-151D/ +</td><td>2.6(2.4-2.9)</td><td>2.5</td><td>5.4(0.6)</td><td>1.1 (0.8-1.6)</td><td>1.7*(1.3-2.4)</td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-271L/ +</td><td>2.5(2.3-2.7)</td><td>3.3</td><td>4.9(0.5)</td><td>1.1 (0.8-1.5)</td><td>1.8*(1.2-2.3)</td></tr><tr><td>UAS-CpEST-wildtype/ +</td><td>1.4(1.0-1.8)</td><td>3.8</td><td>1.7(0.3)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-151D/ +</td><td>1.5(1.2-1.8)</td><td>1.1</td><td>2.1(0.3)</td><td></td><td></td></tr><tr><td>UAS-CpEST-271L/ +</td><td>1.4(1.2-2.0)</td><td>5.0</td><td>1.9(0.3)</td><td></td><td></td></tr><tr><td>Malathion</td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-wildtype/ +</td><td>6.7(6.2-7.2)</td><td>4.7</td><td>6.2(0.7)</td><td>1</td><td>1.1 (0.9-1.2)</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-151D/+</td><td>6.8(6.4-7.1)</td><td>4.5</td><td>6.1(0.5)</td><td>1.0 (0.8-1.3)</td><td>1.4*(1.1-1.7)</td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-271L/ +</td><td>5.3(4.3-6.0)</td><td>0.7</td><td>4.2(0.7)</td><td>0.8*(0.6-1.0)</td><td>1.2 (0.9-1.4)</td></tr><tr><td>UAS-CpEST-wildtype/ +</td><td>6.3(6.0-6.7)</td><td>4.2</td><td>8.9(0.9)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-151D/+</td><td>4.8(4.2-5.7)</td><td>0.7</td><td>4.0(0.6)</td><td></td><td></td></tr><tr><td>UAS-CpEST-271L/+</td><td>4.5(4.2-4.7)</td><td>1.3</td><td>9.1(1.3)</td><td></td><td></td></tr><tr><td>Parathion</td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-wildtype/ +</td><td>3.0(2.8-3.1)</td><td>3.7</td><td>9.8(1.2)</td><td>1</td><td>2.0*(1.9-2.1)</td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-151D/ +</td><td>1.6(1.5-1.7)</td><td>0.2</td><td>6.2(0.6)</td><td>0.5*(0.4-0.7)</td><td>0.9 (0.8-1.1)</td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-271L/ +</td><td>1.8(1.6-1.9)</td><td>4.6</td><td>12.9(2.4)</td><td>0.6*(0.4-0.9)</td><td>1.4*(1.1-1.5)</td></tr><tr><td>UAS-CpEST-wildtype/+</td><td>1.5(1.4-1.5)</td><td>5.6</td><td>11.8(1.4)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-151D/ +</td><td>1.8(1.6-2.0)</td><td>2.8</td><td>5.3(0.7)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-271L/ +</td><td>1.3(1.3-1.4)</td><td>2.4</td><td>17.6(2.5)</td><td></td><td></td></tr><tr><td>Monocrotophos</td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-wildtype/ +</td><td>3.7(3.4-4.0)</td><td>0.5</td><td>7.0(1.2)</td><td>1</td><td>1.4*(1.0-1.8)</td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-151D/ +</td><td>3.1(2.7-3.4)</td><td>1.1</td><td>5.4(0.9)</td><td>0.8 (0.6-1.2)</td><td>0.9 (0.7-1.2)</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-271L/+</td><td>3.5(3.2-3.8)</td><td>3.2</td><td>7.4(1.2)</td><td>0.9 (0.7-1.4)</td><td>1.1 (0.9-1.4)</td></tr><tr><td>UAS-CpEST-wildtype/ +</td><td>2.7(2.2-3.4)</td><td>0.9</td><td>4.2(0.8)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-151D/ +</td><td>3.4(2.9-3.8)</td><td>1.1</td><td>4.0(0.7)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-271L/+</td><td>3.1(2.8-3.4)</td><td>1.0</td><td>5.6(0.9)</td><td></td><td>1</td></tr><tr><td>Deltamethrin</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-wildtype/ +</td><td>4.1(3.7-4.5)</td><td>0.2</td><td>5.2(0.5)</td><td>1</td><td>0.8 (0.6-1.0)</td></tr><tr><td>tub-Gal4/+ ;UAS-CpEST-151D/ +</td><td>3.1(2.7-3.4)</td><td>7.1</td><td>2.6(0.2)</td><td>0.8*(0.6-1.0)</td><td>0.6 (0.4-0.8)</td></tr><tr><td>tub-Gal4/ + ;UAS-CpEST-271L/+</td><td>4.1(3.8-4.4)</td><td>2.1</td><td>3.6(0.2)</td><td>1.0 (0.8-1.3)</td><td>1.0 (0.8-1.2)</td></tr><tr><td>UAS-CpEST-wildtype/ +</td><td>5.1(4.6-5.7)</td><td>1.6</td><td>4.0(0.5)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-151D/ +</td><td>5.4(4.3-6.7)</td><td>2.0</td><td>1.5(0.2)</td><td></td><td>1</td></tr><tr><td>UAS-CpEST-271L/+</td><td>4.2(3.7-4.6)</td><td>0.1</td><td>4.4(0.5)</td><td></td><td>1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4cbeadad0261e752a7baaa058edb7274b1a912b395f8e89e107b56233fd4ac20.jpg",
+        "table_caption": [
+            "Table 2 Insecticide resistance levels of Aphis gossypii esterase transgenic flies. "
+        ],
+        "table_footnote": [
+            "承 $P { \\leq } 0 . 0 5$ ; RR1, $\\mathrm { L D } _ { 5 0 }$ of tub-Gal4/ $^ +$ ;UAS-AgEST-wildtype/ $^ +$ divided by that of tub-Gal4/ $^ +$ ;UAS-AgEST-151D/ $^ +$ or tub-Gal4/ $^ +$ ;UAS-AgEST-271L/ $^ +$ ; RR2, $\\mathrm { L D } _ { 5 0 }$ of each tub$\\mathsf { G a l 4 } / +$ ;UAS line/ $^ +$ divided by $\\mathrm { L D } _ { 5 0 }$ of the corresponding parent UAS control. "
+        ],
+        "table_body": "<html><body><table><tr><td>Strain genotype and insecticide</td><td>LD50 (95% CI) (μg/g)</td><td>x</td><td>Slope (SE)</td><td>RR1 (95% CI)</td><td>RR2 (95% CI)</td></tr><tr><td colspan=\"6\">Chlorfenvinphos</td></tr><tr><td>tub-Gal4/ + ;UAS-AgEST-wildtype/ +</td><td>2.0(1.9-2.2)</td><td>2.3</td><td>8.1(0.9)</td><td>1</td><td>1.3*(1.0-1.8)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-151D/ +</td><td>2.8(2.5-3.0)</td><td>4.0</td><td>5.7(0.6)</td><td>1.4*(1.2-1.6)</td><td>1.4*(1.1-1.7)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-271L/ +</td><td>2.4(2.2-2.7)</td><td>3.3</td><td>4.5(0.5)</td><td>1.2*(1.0-1.5)</td><td>1.5*(1.0-2.1)</td></tr><tr><td>UAS-AgEST-wildtype/ +</td><td>1.6(1.2-2.0)</td><td>2.7</td><td>2.0(0.3)</td><td></td><td></td></tr><tr><td>UAS-AgEST-151D/+</td><td>2.0(1.8-2.3)</td><td>1.5</td><td>3.9(0.6)</td><td></td><td></td></tr><tr><td>UAS-AgEST-271L/ +</td><td>1.6(1.3-2.1)</td><td>1.3</td><td>2.2(0.3)</td><td></td><td>1 1</td></tr><tr><td colspan=\"6\">Malathion</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-wildtype/ +</td><td>6.3(5.9-6.8)</td><td>2.8</td><td>9.7 (1.3)</td><td>1</td><td>1.5*(1.3-1.7)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-151D/ +</td><td>5.1(4.7-5.5)</td><td>1.5</td><td>8.4(1.3)</td><td>0.8 *(0.7-0.9)</td><td>1.3*(1.1-1.6)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-271L/ +</td><td>6.5(6.1-7.0)</td><td>1.8</td><td>9.0(1.2)</td><td>1.0 (0.9-1.2)</td><td>1.7*(1.5-2.1)</td></tr><tr><td>UAS-AgEST-wildtype/ +</td><td>4.3(4.0-4.6)</td><td>2.4</td><td>6.3(0.7)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-151D/+</td><td>3.8(3.5-4.2)</td><td>0.1</td><td>5.2(0.6)</td><td></td><td></td></tr><tr><td>UAS-AgEST-271L/+</td><td>3.8(3.4-4.1)</td><td>0.7</td><td>5.6(0.7)</td><td></td><td>1 1</td></tr><tr><td colspan=\"6\">Parathion</td></tr><tr><td>tub-Gal4/ + ;UAS-AgEST-wildtype/ +</td><td>2.5(2.3-2.7)</td><td>0.4</td><td>6.6(0.9)</td><td>1</td><td>2.5*(1.8-3.4)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-151D/ +</td><td>1.9(1.7-2.1)</td><td>2.8</td><td>5.7(0.7)</td><td>0.8*(0.7-0.9)</td><td>1.4*(1.1-1.9)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-271L/ +</td><td>2.0(1.9-2.2)</td><td>1.3</td><td>6.9(0.8)</td><td>0.8*(0.7-1.0)</td><td>2.0*(1.5-3.1)</td></tr><tr><td>UAS-AgEST-wildtype/ +</td><td>1.0(0.8-1.3)</td><td>1.9</td><td>1.9(0.3)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-151D/ +</td><td>1.4(1.1-1.6)</td><td>0.6</td><td>4.3(0.7)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-271L/ +</td><td>1.0(0.7-1.3)</td><td>1.5</td><td>1.7(3.0)</td><td></td><td></td></tr><tr><td colspan=\"6\">Monocrotophos</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-wildtype/ +</td><td>2.7(2.3-3.0)</td><td>0.0</td><td>5.6(0.6)</td><td>1</td><td>1.6*(1.3-2.0)</td></tr><tr><td>tub-Gal4/ + ;UAS-AgEST-151D/ +</td><td>3.2(2.9-3.4)</td><td>0.6</td><td>9.7(1.3)</td><td>1.2*(1.0-1.5)</td><td>1.7*(1.4-2.0)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-271L/ +</td><td>2.5(2.3-2.7)</td><td>2.6</td><td>5.6(0.6)</td><td>0.9 (0.8-1.2)</td><td>1.0 (0.9-1.2)</td></tr><tr><td>UAS-AgEST-wildtype/ +</td><td>1.7(1.5-1.8)</td><td>0.2</td><td>5.4(0.7)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-151D/ +</td><td>1.9(1.7-2.1)</td><td>2.4</td><td>5.1(0.6)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-271L/ +</td><td>2.4(2.2-2.6)</td><td>2.8</td><td>5.1(0.5)</td><td></td><td>1</td></tr><tr><td colspan=\"6\">Deltamethrin</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-wildtype/+</td><td>3.0(2.6-3.3)</td><td>1.2</td><td>4.0(0.4)</td><td>1</td><td>1.1 (0.8-1.4)</td></tr><tr><td>tub-Gal4/ + ;UAS-AgEST-151D/+</td><td>3.3(2.9-3.9)</td><td>0.0</td><td>3.5(0.5)</td><td>1.1 (0.9-1.5)</td><td>1.3 (0.9-2.1)</td></tr><tr><td>tub-Gal4/+ ;UAS-AgEST-271L/ +</td><td>3.1(2.7-3.5)</td><td>0.1</td><td>4.1(0.5)</td><td>1.0 (0.8-1.3)</td><td>1.5*(1.1-1.9)</td></tr><tr><td>UAS-AgEST-wildtype/ +</td><td>2.8(2.3-3.3)</td><td>0.1</td><td>2.9(0.6)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-151D/ +</td><td>2.6(1.9-3.4)</td><td>2.0</td><td>1.9(0.4)</td><td></td><td>1</td></tr><tr><td>UAS-AgEST-271L/ +</td><td>2.1(1.8-2.5)</td><td>0.9</td><td>3.0(0.4)</td><td></td><td>1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We express our gratitude to Dr. Gerald Reeck of Kansas State University for his language correction.This work was supported by the National Natural Science Foundation of China (Grant No.31272364), the Major State Basic Research Development Program of China (973 Program;Grant No.2012CB114102),and the Important National Science and Technology Specific Project of China (Grant No. 2012ZX10004219). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Appendix: Supplementary material ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at doi:10.1016/j.pestbp.2014.12.016. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] G.K. Mironidis,D. Kapantaidaki, M. Bentila,E. Morou,M. Savopoulou-Soultani, J. Vontas, Resurgence of the cotton bollworm Helicoverpa armigera in northern Greece associated with insecticide resistance,Insect Sci.20 (2013) 505-512.   \n[2] Q. Yu,C. Lu,W. Li,Z. Xiang,Z. Zhang,Annotation and expression of carboxylesterases in the silkworm, Bombyx mori, BMC Genomics 10 (20o9) 553.   \n[3]M. Raymond, C. Chevillon,T. Guillemaud,T. Lenormand,N.Pasteur, An overview of the evolution of overproduced esterases in the mosquito Culex pipiens,Philos. Trans. R. Soc. Lond. B. Biol Sci.353(1998)1707-1711.   \n[4]F.Cui, L.-F. Lin, C.-L. Qiao, Y. Xu,M. Marquine,M.Weill, et al., Insecticide resistance in Chinese populations of the Culex pipiens complex through esterase overproduction, Entomol. Exp.Appl.120 (2006) 211-220.   \n[5]L.M. Field,M.S. Williamson, G.D.Moores, A.L. Devonshire, Cloning and analysis of the esterase genes conferring insecticide resistance in the peach-potato aphid, Myzuspersicae(Sulzer),Biochem. J.294(1993) 569-574.   \n[6] C. Chevillon, M. Raymond,T. Guillemaud,T. Lenormand,N.Pasteur, Population genetics of insecticide resistance in the mosquito Culex pipiens, Biol.J. Linn. Soc. Lond.68 (1999)147-157.   \n[7] LM. Field, A.L. Devonshire, Structure and organization of amplicons containing the E4 esterase genes responsible for insecticide resistance in the aphid Myzus persicae (Sulzer), Biochem.J.322(1997) 867-871.   \n[8] J.Hemingway, S.H.P.P. Karunaratane,Mosquito carboxylesterases: a review of the molecular biology and biochemistry of a major insecticide resistance mechanism,Med.Vet. Entomol.12(1998) 1-12.   \n[9] S.H.P.P. Karunaratne, A. Vaughan, M.G. Paton, J. Hemingway, Amplification of a serine esterase gene is involved in insecticide resistance in Sri Lankan Culex tritaeniorhynchus,Insect Mol. Biol.7(1998) 307-315.   \n10]R.D. Newcomb,P.M. Campbell, D.L. Ollis,E. Cheah,R.J. Russell, J.G. Oakeshott, A single amino acid substitution converts a carboxylesterase to an organophosphorus hydrolase and confers insecticide resistance on a blowfly, Proc.Natl. Acad. Sci.U.S.A. 94(1997) 7464-7468.   \n11]C. Claudianos, R.J. Russell,J.G. Oakeshott, The same amino acid substitution in orthologous esterases confers organophosphate resistance on the house fly and a blowfly,Insect Biochem.Mol. Biol.29(1999) 675-686.   \n12] R.A. Carvalho,T.T. Torres, A.M.L. Azeredo-Espin, A survey of mutations in the Cochliomyia hominivorax (Diptera: Calliphoridae) esterase E3 gene associated with organophosphate resistance and the molecular identification of mutant alleles,Vet. Parasitol.140 (2006) 344-351.   \n13] C.J. Hartley,R.D.Newcomb,R.J. Russell, C.G.Yong,J.R.Stevens, D.K. Yeates, et al, Amplification of DNA from preserved specimens shows blowflies were preadapted for the rapid evolution of insecticide resistance,Proc.Natl. Acad. Sci. U.S.A. 103 (2006)8757-8762.   \n14]P.M. Campbell, R.D. Newcomb,R.J. Russell,J.G. Oakeshott, Two different amino acid substitutions in the ali-esterase,E3,confer alternative types of organophosphorus insecticide resistance in the sheep blowfly, Lucilia cuprina, Insect Biochem.Mol. Biol.28(1998) 139-150.   \n[15]Y.C. Zhu, A.K. Dowdy, J.E. Baker, Detection of single-base substitution in an esterase gene and its linkage to malathion resistance in the parasitoid Anisopteromalus calandrae (Hymenoptera: Pteromalidae), Pestic.Sci.55 (1999) 398-404.   \n[16] F. Cui, H. Qu,J. Cong, X. Liu, C. Qiao, Do mosquitoes acquire organophosphate resistance by functional changes in carboxylesterases?,FASEB J. 21 (2007) 3584-3591.   \n[17] F. Cui, Z. Lin, H. Wang, S. Liu, H. Chang, G. Reeck,et al., Two single mutations commonly cause qualitative change of nonspecific carboxylesterases in insects, Insect Biochem. Mol. Biol. 41(2011) 1-8.   \n[18]Y.Li, C.A. Farnsworth,C.W. Coppin,M.G. Teese,J. Liu,C. Scott,et al., Organophosphate and pyrethroid hydrolase activities of mutant esterases from the cotton bollworm Helicoverpa armigera,PLoS ONE 8 (2013) e77685.   \n[19]R. Heidari, A.L. Devonshire, B.E. Campbell,S.J. Dorrian,J.G. Oakeshott,R.J. Russell, Hydrolysis of pyrethroids by carboxylesterases from Lucilia cuprina and Drosophila melanogaster with active sites modified by in vitro mutagenesis, Insect Biochem. Mol. Biol.35 (2005) 597-609.   \n[20]A. Guo,L.Li,S.Z. Xia, C.H. Feng,R.Wolf, M. Heisenberg, Conditioned visual flight orientation in Drosophila: dependence on age, practice,and diet, Learn.Mem. 3(1996)49-59.   \n[21] S.K. Legan, I. Rebrin, R.J. Mockett, S.N. Radyuk, V.I. Klichko,R.S. Sohal, et al., Overexpression of glucose-6-phosphate dehydrogenase extends the life span of Drosophila melanogaster,J. Biol. Chem.283 (2008) 32492-32499.   \n[22]L. Yan,P. Yang,F. Jiang,N. Cui,E. Ma, C. Qiao,et al., Transcriptomic and phylogenetic analysis of Culex pipiensquinquefasciatus for three detoxification gene families, BMC Genomics 13 (2012) 609.   \n[23]W. Wang, S. Liu, Y. Liu, C. Qiao,S. Chen,F. Cui, Over-transcription of genes in a parathion-resistant strain of mosquito Culex pipiens quinquefasciatus,Insect Sci. (2014) doi:10.1111/1744-7917.12106.   \n[24] J. Bischof, R.K.Maeda,M. Hediger,F. Karch, K.Basler, An optimized transgenesis system for Drosophila using germ-line-specific phiC31 integrases,Proc. Natl. Acad. Sci. U.S.A. 104 (2007) 3312-3317.   \n[25] Z.Wang, Y. Pan,W.Li, H. Jiang,L. Chatzimanolis,J. Chang, et al., Visual pattern memory requires foraging function in the central complex of Drosophila, Learn. Mem.15 (2008)133-142.   \n[26] G.M. Rubin,A.C. Spradling,Genetic transformation of Drosophila with transposable element vectors, Science 218(1982) 348-353.   \n[27] S.O. Roger, A.J. Bendich, Extraction of DNA from plant tissues, in: S.B. Gelvin, R.A. Schilperoort (Eds.),Plant Molecular Biology Manual, Kluwer Academic Publishers, Boston, USA,1988,pp. 1-10.   \n[28]M.Raymond,PROBIT CNRS-UMII,Licence L93019,France,1993.   \n[29]D.J. Finney,Probit Analysis, Cambridge University Press, Cambridge, England, 1971.   \n[30] C. Berticat, O. Duron, D. Heyse,M. Raymond, Insecticide resistance genes confer a predation cost on mosquitoes, Culex pipiens, Genet. Res.83 (2004) 189-196.   \n[31] C. Berticat, G. Boquien,M. Raymond, C. Chevillon,Insecticide resistance genes induce a mating competition cost in Culex pipiens mosquitoes, Genet. Res.79 (2002)41-47.   \n[32] J.A. McKenzie,K.O.Farrell,Modification of developmental instability and fitness: malathion-resistance in the Australian sheep blowfly, Lucilia cuprina, Genetica 89 (1993) 67-76.   \n[33]G.M. Clarke,J.L. Yen, J.A. McKenzie,Wings and bristles: character specificity of theasymmetry phenotype in insecticide-resistant strains of Lucilia cuprina, Proc. Biol. Sci.267 (2000) 1815-1818.   \n[34] G.M. Clarke,J.A. McKenzie,Developmental stability of insecticide resistant phenotypes in blowfly:a result of canalizing natural selection, Nature 325 (1987) 345-346.   \n[35]A.G. Davies, A.Y. Game,Z. Chen,T.J. Williams,S. Goodal,J.L. Yen, et al., Scalloped wings is the Lucilia cuprina Notch homologue and a candidate for the modifier of fitness and asymmetry of diazinon resistance,Genetics 143(1996) 1321- 1337.   \n[36] R. Birner-Gruenberger, I. Bickmeyer, J. Lange,P. Hehlert,A. Hermetter, M. Kollroser, etal., Functional fat body proteomics and gene targeting reveal in vivo functions of Drosophila melanogaster $a$ -Esterase-7,Insect Biochem. Mol. Biol. 42 (2012) 220-229.   \n[37]P.J. Daborn,J.L. Yen,M.R. Bogwitz, G. Le Goff, E.Feil, S. Jeffers,et al.,A single P450 allele associated with insecticide resistance in Drosophila, Science 297 (2002) 2253-2256.   \n[38]P.J. Daborn, C. Lumb,A. Boey,W. Wong, R.H. ffrench-Constant,P. Batterham, Evaluating the insecticide resistance potential of eight Drosophila melanogaster cytochrome P450 genes by transgenic over-expression, Insect Biochem. Mol. Biol.37 (2007) 512-519.   \n[39]P.J. Korytko,R.J. MacLntyre,J.G. Scott, Expression and activity of a house-fly cytochrome P450, CYP6D1,in Drosophila melanogaster,Insect Mol. Biol.9 (2000) 441-449.   \n[40] F. Zhu, R. Parthasarathy, H. Bai, K.Woithe,M. Kaussmann,R. Nauen, et al., A brain-specific cytochrome P450 responsible for the majority of deltamethrin resistance in the QTC279 strain of Tribolium castaneum,Proc.Natl. Acad. Sci. U.S.A. 107 (2010) 8557-8562.   \n[41] P.J. Daborn, C. Lumb,T.W.R. Harrop, A. Blaseti,S.Pasricha, S. Morin, et al., Using Drosophila melanogaster to validate metabolism-based insecticide resistance from insect pests, Insect Biochem. Mol. Biol. 42 (2012) 918-924. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

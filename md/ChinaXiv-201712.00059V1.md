@@ -1,0 +1,115 @@
+# 临床研究
+
+# 鼻腔扩容术对阻塞型睡眠呼吸暂停低通气综合征患者睡眠主客观症状的影响
+
+洪卫都,沈志忠²,曹 飞1  
+1广东省普宁华侨医院耳鼻咽喉科，广东 揭阳 522000; $^ 2 { \dot { \mathfrak { x } } } _ { \mathfrak { L } } \mathbf { \Psi } _ { \mathfrak { L } }$ 头大学医学院第一附属医院耳鼻咽喉头颈外科,广  
+东汕头 515000
+
+摘要：目的探讨鼻腔扩容术对阻塞型睡眠呼吸暂停低通气综合征(OSAHS)患者睡眠主客观症状的影响，为鼻腔扩容术在OSAHS中应用提供临床依据。方法 选择56例于我院耳鼻咽喉科行鼻腔扩容术的OSAHS患者为研究对象，比较患者手术前后的多导睡眠监测结果与鼻堵量表、嗜睡量表及鼾声量表评分。结果鼻腔扩容术后OSAHS患者睡眠呼吸暂停低通气指数较术前降低( $\cdot 1 2 . 3 { \pm } 4 . 0$ vs $6 . 3 { \pm } 1 . 7 , P { < } 0 . 0 5 )$ ，平均血氧饱和度 $( 8 0 . 6 \% \pm 1 1 . 3 \%$ vs $8 8 . 1 \% \pm 1 4 . 4 \%$ 以及最低血氧饱和度 $( 7 1 . 2 \% \text{‰}$ $1 0 . 7 \% \nu s \ 7 9 . 8 \% \pm 1 3 . 5 \% )$ 均增加 $( P { < } 0 . 0 5 )$ ；鼾声量表评分 $( 5 . 7 { \pm } 1 . 6 \$ 分 $\nu s 3 . 2 { \pm } 0 . 7$ 分）鼻堵量表评分 $( 8 . 9 { \pm } 2 . 0 \$ 分 $\nu s 2 . 8 { \pm } 0 . 7$ 分)及嗜睡量表量表评分 $( 1 2 . 1 \pm 2 . 7$ 分vs $5 . 6 { \pm } 1 . 5$ 分)较术前下降 $( P { < } 0 . 0 5 )$ 。结论 鼻腔扩容术在缓解OSAHS患者阻塞性睡眠呼吸暂停的严重程度及改善OSAHS患者睡眠打鼾、鼻堵及白天嗜睡症状方面效果明显，对OSAHS患者的治疗有重要临床意义。
+
+关键词：睡眠呼吸暂停低通气综合征；鼻腔扩容术；睡眠主客观症状
+
+# iffect of nasal dilation on the subjective and objective symptoms of sleep in patients with OSAHS
+
+HONG Weidu¹, SHEN Zhihong²,CAO Fei Departmentofognesialfadoaepamntofo HeadandNeckSurgery,heFrstAfiliatedHospitalofhantouUnioersityMedicalColege,Shantou5150oChina
+
+Abstract: Objective Toexplore theefectofnasaldilationonthesubjectiveandobjectivesymptomsofsleepinpatients with obstructive slepapnea hypopnea syndrome (OSAHS),and provideclinical basis fortheapplicationofnasal cavity expansion in patients with OSAHS.Methods Fifty-six cases adult patients with OSAHS werechosen asobjects.The nasalresistance,the results of multiple sleep monitoring (PSG),thesnoreoutcome survey (SOS),the visual analoguescale (VAS)andthe epworth sleepysurvey (E)werecomparedbeforeand after nasalsurgery expansion.Results After nasal dilation,thenasalresistance and apnea hypopnea index (AHI) of OSAHS patients were decreased significantly $( P { < } 0 . 0 5 )$ .The average oxygen saturation and the lowest oxygen saturation were increased significantly $( P { < } 0 . 0 5 )$ . Scores of SOS scale, VAS scale and ESS scale which reflecting the sleep subjective symptoms were decreased significantly $( P { < } 0 . 0 5 )$ . Conclusion Nasal dilation has a curative effect on reducing nasal resistance and alleviating the severity of obstructive sleep apnea in OSAHS patients.It improves sleep subjective symptomssuch assleepsnoring nasal blockage and daytime sleepiness.Itissignificant in thetreatment of patients with OSAHS.
+
+Keyword: sleep apnea hypopnea syndrome; nasal dilation; sleep subjective and objective symptoms
+
+睡眠呼吸障碍发病率极高，据流行病学统计，其在中老年人中的发病率高达 $6 0 \% ^ { \mathrm { ~ [ ~ } }$ ,其中以阻塞型睡眠呼吸暂停低通气综合征(OSAHS)危害最大。OSAHS是指在 $^ { 7 \mathrm { ~ h ~ } }$ 的夜间睡眠时间内，呼吸暂停低通气指数$( \mathrm { A H I } ) { \geqslant } 5$ (或呼吸暂停次数 $\geqslant 3 0$ )，且每次呼吸暂停时间 ${ > } 1 0 \ \mathrm { s }$ 的睡眠呼吸障碍症[2]。OSAHS的发生发展过程中可引起心、脑血管及肺等多器官多系统的病变，危险性极大[3-5]。近年来，鼻腔扩容术在OSAHS患者的治疗成为了研究热点[。但该术在OSAHS患者中的治疗作用仍存在一定的争议，部分学者认为鼻腔扩容术能缓解或消除鼻阻塞，从而治愈OSAHS;另一部分学者则认为鼻腔扩容术仅缓解了鼻阻塞症状，对OSAHS并无治愈效果。本研究拟就鼻腔扩容术对OSAHS患者睡眠主客观症状的影响进行探讨，为鼻腔扩容术在OSAHS中应用提供临床依据。
+
+# 1资料与方法
+
+# 1.1一般资料
+
+选取2014年10月 ${ \sim } 2 0 1 6$ 年12月于我院耳鼻喉外科行鼻腔扩容术的OSAHS患者56例为研究对象。入组前所有患者均接受详细的体格检查与鼻内镜检查。纳入标准：(1)年龄18\~60岁；(2)参考中华耳鼻咽喉头颈外科杂志编委会OSAHS诊断指南，均确诊为
+
+OSAHS;(3)患者鼻堵VAS量表评价 $\geqslant 7 . 0$ 分，且鼻阻力(NR)检测NR值分级 $\geqslant 3$ 级(中度鼻塞)；(4)对治疗方案知情并自愿签署知情同意书。排除标准：(1)伴有鼻部外伤、内翻性乳头状瘤等疾病的患者；(2)慢性鼻窦炎患者;(3)依从不良者。患者年龄、性别、术前体质量指数(BMI)及术后6月的BMI等资料显示术前、术后患者BMI的差异无统计学意义(t=1.931,0.281,1760, $P { > } 0 . 0 5$ ，表1)。
+
+表1患者一般资料( $\overline { { x } } \pm s ^ { \mathrm { ~ ~ } }$ ）  
+
+<html><body><table><tr><td>分组</td><td>例数</td><td>年龄(岁)</td><td>术前BMI(kg/m²)</td><td>术后BMI(kg/m²)</td></tr><tr><td>男性</td><td>39</td><td>46.7±11.9</td><td>29.72±2.97</td><td>28.41±3.02*</td></tr><tr><td>女性</td><td>17</td><td>51.3±7.6</td><td>28.68±2.87</td><td>28.39±3.14*</td></tr><tr><td>全部</td><td>56</td><td>48.1±11.2</td><td>29.40±2.94</td><td>28.40±3.07*</td></tr></table></body></html>
+
+${ ^ * P } { > } 0 . 0 5 \nu s$ 术前BMI.
+
+# 1.2 研究方法
+
+56例患者均在全麻醉下，通过鼻内镜系统进行微创鼻腔扩容术。首先从鼻中隔前端垂直切开黏膜，露出鼻中隔软骨膜后行鼻中隔三线减张术。术中应尽量维持和保留骨性支架及软骨的支撑作用，避免鼻背后续性塌陷。鼻腔内有息肉样病变的中下鼻甲及新生物应予以彻底切除。用剥离子从鼻腔根部向里面按压，通过使中鼻甲产生移位，从而扩宽中鼻道。对于伴随鼻窦病变的患者，术中应开放鼻窦口，并用生理盐水对窦鼻腔进行冲洗。为防止术后粘连的发生，应在中鼻道放置生物膜。使下鼻甲向根部骨折，并向鼻腔外侧壁产生移位，从而扩大鼻腔容积,敞开总鼻道。手术完成后，鼻腔填塞通气管膨胀的海绵进行术腔止血，患者生命体征稳定后，拔除气管插管，为防止术后室息的发生，围手术期采用无创正压呼吸机辅助呼吸，术毕，患者转入睡眠中心病房观察与治疗。
+
+# 1.3观察指标
+
+1.3.1鼻内窥镜检查所有患者均于术前和术后6月采用德国storz鼻内窥镜对鼻腔、鼻咽部及鼻窦内部结构进行检查。
+
+1.3.2鼻阻力检测所有患者均于术前和术后6月采用德国ATMOS生产的鼻阻力测量仪(Rhinomanomtter300)进行鼻阻力检测。治疗前后的测量均由同一有经验的技师实施，取双侧鼻腔的总阻力为测量值，3次测量取平均值。根据双侧鼻腔总阻力值，分为5个等级： $\mathrm { N R } \leqslant 0 . 1 9$ 为0级(过度通气); $\mathrm { N R } { = } 0 . 2 { \sim } 0 . 3 9$ 为1级(通气正常); $\mathrm { N R } { = } 0 . 4 0 { \sim } 1 . 2 6$ 为2级(轻度鼻塞);$\mathrm { N R } { = } 1 . 2 7 { \sim } 3 . 0$ 为3级(中度鼻塞); $_ { \mathrm { N R } = 3 . 0 1 \sim 7 . 7 7 }$ 为4级(重度鼻塞); $\mathrm { N R } \geqslant 7 . 7 8$ 为5级(完全阴塞)。
+
+1.3.3睡眠客观症状监测所有患者均于术前1周和术后6月采用AliceLE飞利浦伟康多导睡眠监测仪进行常规标准多导睡眠监测，测定患者的睡眠AHI、最低血氧饱和度 $\mathrm { ( M S a O _ { 2 } ) }$ )及平均血氧饱和度 $\mathrm { ( L S a O _ { 2 } ) }$ 等指标。睡眠中口鼻呼吸气流消失或较基线下降超过$90 \%$ ，并且持续时间大于或等于10s即可诊断为呼吸暂停。睡眠过程中口鼻气流较基线下降超过 $30 \%$ $\mathrm { S a O } _ { 2 }$ 下降超过 $4 \%$ ,并且持续时间大于或等于 $1 0 \mathrm { ~ s ~ }$ ；或睡眠中口鼻气流较基线下降超过 $50 \%$ $\mathrm { S a O } _ { 2 } ^ { \cdot }$ 下降超过$3 \%$ ，持续时间大于或等于10s即可诊断为低通气。
+
+1.3.4睡眠主观症状评分 (1)Epworth嗜睡量表评分]：评价患者白天的嗜睡情况。患者根据自身实际情况作出半客观判定：总分为24分， ${ > } 6$ 分则提示瞌睡， ${ > } 1 1$ 分则提示过度瞌睡， ${ > } 1 6$ 分提示有危险性的瞌睡;Cronbach's $\mathfrak { a }$ 为0.80;(2)鼻堵量表评分[8：鼻堵量表制成卡尺状，长 $1 0 \ \mathrm { c m }$ ，两面均刻有横向刻度，卡尺两端有微笑和极痛苦两种不同卡通表情。问卷调查时，患者通过移动卡尺上的移标，自我评鼻堵症状严重程度。无症状记0分；轻微鼻堵记1\~3分；鼻堵影响生活，尚能忍受记4\~6分；鼻堵难以忍受，影响生活与工作记7\~10分;Cronbach'sα为0.81；(3)鼾声量表评分[]：评价患者打鼾情况。患者根据自身情况作半客观判定：睡眠中不打鼾者记0分；睡眠中轻度打鼾，影响同床者休息记1\~3分；睡眠过程中中度打鼾，并且影响同屋者休息记4\~6分；睡眠过程中重度打鼾，并且影响附近的人休息记7\~9分；睡眠过程中因鼾声太响，同屋者无法忍受而离开房间的情况记10分；Cronbach's$\mathfrak { a }$ 为0.78。
+
+# 1.4 统计学方法
+
+所有研究数据均采用SPSS21.0软件进行处理，其中计数资料以例数表示，行 $\chi ^ { 2 }$ 检验；计量资料用$\overline { { x } } \pm s$ 形式表示，行双侧t检验; $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+2.1患者术前术后鼻内镜下的观察结果
+
+术前患者的鼻内镜下显示，鼻中隔偏曲，下鼻甲肥大，中鼻甲反张，总鼻道狭窄(图1A);术后6月大部分患者的鼻内镜表现为上颌窦口扩大，筛窦窦腔开放良好，术腔上皮化好(图1B)。
+
+# 2.2手术疗效与手术前后患者鼻阻力的变化
+
+56例OSAHS患者在术后均进行了随访与鼻阻力检测，按照中华医学会耳鼻咽喉头颈外科学分会咽喉学组2009年OSAHS诊断依据及疗效判定标准，治愈患者13例，显效患者31例，有效患者12例，治愈率为 $23 . 2 \%$ ，显效率为 $100 \%$ 。手术前56例患者鼻阻力为$2 . 6 7 { \scriptstyle \pm 0 . 4 3 }$ ，手术后6月鼻阻力 $0 . 7 4 \pm 0 . 2 9$ ，与手术前比较显著降低，差异具有统计学意义( $\scriptstyle ( t = 2 7 . 8 4 7$ ， $P { < } 0 . 0 5$ 。
+
+![](images/e1df5f2cd973f71180c671e39a9c1a4e6b29fcc02e481fe427cb71c3c5c0cacc.jpg)  
+图1术前 $( \ b { A } )$ 术后 $( B )$ 患者鼻内镜
+
+# 2.3手术前后患者PSG监测结果比较
+
+所有患者手术前后均进行PSG监测，结果显示鼻腔扩容术后患者的最低血氧饱和度与平均血氧饱和度均上升 $( P { < } 0 . 0 5 )$ ，AHI下降 $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ,表2)。
+
+表2手术前后患者PSG监测结果比较 $\left( \bar { x } \pm s \right)$ ）  
+
+<html><body><table><tr><td>监测时间</td><td>最低血氧饱和度(%)</td><td>平均血氧饱和度(%)</td><td>AHI指数(次/h)</td></tr><tr><td>术前</td><td>71.2±10.7</td><td>80.6±11.3</td><td>12.3±4.0</td></tr><tr><td>术后6月</td><td>79.8±13.5</td><td>88.1±14.4</td><td>6.3±1.7</td></tr><tr><td>t</td><td>-3.736</td><td>-3.006</td><td>10.331</td></tr><tr><td>P</td><td><0.05</td><td><0.05</td><td><0.05</td></tr></table></body></html>
+
+# 2.4手术前后患者睡眠主观症状的比较
+
+手术后患者的嗜睡量表评分、鼻堵量表评分及打鼾量表评分均低于术前评分，且差异具有统计学意义 $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ ，表3)。
+
+表3手术前后患者睡眠主观症状的比较( $\overline { { x } } \pm s$ ，分）  
+
+<html><body><table><tr><td>监测时间</td><td>嗜睡量表</td><td>鼻堵量表</td><td>打鼾量表</td></tr><tr><td>术前</td><td>12.1±2.7</td><td>8.9±2.0</td><td>5.7±1.6</td></tr><tr><td>术后6月</td><td>5.6±1.5</td><td>2.8±0.7</td><td>3.2±0.7</td></tr><tr><td>t</td><td>15.748</td><td>21.543</td><td>10.712</td></tr><tr><td>P</td><td><0.05</td><td><0.05</td><td><0.05</td></tr></table></body></html>
+
+# 3讨论
+
+OSAHS在中老年女性中发病率为 $9 \%$ ,在中老年男性中则高达 $2 4 \% ^ { [ 1 0 ] }$ 。OSAHS不仅伴随着白天嗜睡、鼻堵及睡觉打鼾等症状，严重影响患者自身及其家属的生活质量，而且OSAHS在发生发展过程还能引起心、脑血管、肺等多个器管的病变，诱发高血压、肺心病、冠心病、呼吸衰竭甚至猝死等[11-14]。OSAHS发病机制错综复杂，目前尚不能完全阐述，主要致病因素有鼻及咽部病症、肥胖、神经内分泌因素、及遗传因素等[15-16]。近年临床研究发现,大部分OSAHS患者伴有下咽腔及鼻咽等多个上气道平面的狭窄，上气道解剖结构的阻塞与狭窄可能是OSAHS的病理生理基础。上气道狭窄造成呼吸阻力增大，而人体鼻阻力大约构成了人体全部呼吸道阻力的 $50 \%$ 。当人体发生鼻阻塞性疾病时，鼻腔对气流的阻力明显升高，同时因为咽部负压增加，可能导致咽腔软组织塌陷，引起呼吸暂停症状。此外，鼻腔阻塞时，通过鼻腔的气流减少，气流对咽部扩张肌的反射性刺激减少，减弱了咽部扩张肌对呼吸的调节作用，从而引起通气不足，甚至是呼吸暂停[7]。据此，鼻腔通气功能障碍可能是导致并加重OSAHS的主要原因。通过鼻腔扩容术，改善或消除患者的鼻腔通气障碍可能对OSAHS的治疗有着重要的临床意义。
+
+本研究对56例有明显鼻堵症状的OSAHS患者进行了鼻腔扩容术治疗，结果有13例患者治愈，其余43例患者症状均明显改善，治愈率为 $23 . 2 \%$ ，有效率达 $100 \%$ 。通过鼻内镜观察到，患者术后上颌窦口扩大，筛窦窦腔开放良好，较术前的总鼻道狭窄有明显改善，鼻阻力检测显示患者术后鼻阻力显著降低$( P { < } 0 . 0 5 )$ ，该结果表明鼻腔扩容术在一定程度上解决了患者鼻腔阻塞的问题。通过对手术前后患者PSG监测结果的比较,研究发现术后患者 $\mathrm { \cdot { M S a O } } _ { 2 }$ 与 $\mathrm { L S a O } _ { 2 }$ 水平则有明显上升( $_ { ( P < 0 . 0 5 ) }$ ，AHI指数则显著降低$( P { < } 0 . 0 5 )$ 。惠培林等[8报道以鼻腔扩容术作为基础术式治疗OSHAS患者的治愈率为 $1 1 . 9 \%$ ;Li等[19]对13篇关于鼻腔手术治疗OSAHS的文献展开Meta分析，发现OSAHS患者行鼻腔手术治疗后，总体治愈率为 $1 6 . 7 \%$ ，而本研究中OSAHS患者行鼻腔手术后的治愈率明显高于以往的一些研究。可能是因为本研究所遴选的病例都是鼻堵症状较严重(鼻堵 ${ \mathrm { V A S } } \geqslant 7 . 0$ 分）的OSAHS患者，而其它研究在术前并未根据鼻堵严重程度对手术患者进行筛选。鼻腔扩容术后伴有严重鼻堵的OSAHS患者鼻腔通气容积显著增大，有效地降低了上气道通气阻力，从而缓解了因气道负压而导致的咽腔软组织塌陷，恢复了OSAHS患者鼻腔对空气加湿以及加温等生理功能，维持了患者正常的鼻肺反应射、鼻心反射，从而改善患者睡眠呼吸暂停状况。
+
+研究结果示OSAHS患者不仅 $\mathrm { M S a O } _ { 2 }$ 、 $\mathrm { L S a O } _ { 2 }$ 及AHI指数等客观指标有了明显的改善，白天嗜睡、鼻堵及睡觉打鼾等主观症状也有显著好转。术后OSAHS患者嗜睡量表评分、鼻堵量表评分及打鼾量表评分均较术前有显著降低。白天嗜睡是OSAHS患者最常见的症状之一，患者容易会出现不分场合、不可抗拒的思睡困乏，影响患者的学习、工作效率与社会功能；鼻堵则除了影响生活与工作外，还与心脏病、呼吸道疾病、焦虑、记忆力下降等有关；而睡眠打鼾则严重影响着患者自身及其伴侣、家人的睡眠质量。本研究中嗜睡量表评分、鼻堵量表评分及打鼾量表评分均大幅降低，该结果与彭易坤等的研究结果一致[20]。研究结果提示鼻腔扩容术能够明显地改善患者白天嗜睡、鼻堵及睡觉打鼾等症状，提高患者及其家属的生活质量。这可能与鼻腔扩容术解除了患者上气道阻塞，降低咽腔管腔负压梯度，提高睡眠中的有效通气量，以及提高患者夜间血氧代谢水平有关。
+
+综上，鼻腔扩容术能有效地缓解OSAHS患者的症状，提高患者的睡眠质量，甚至达到治愈OSAHS的目的，对具有严重鼻堵症状的OSAHS患者效果尤为明显。鼻腔扩容术对OSAHS患者的治疗有着重要的临床意义，在临床上值得推广。
+
+# 参考文献：
+
+[1]Stone KL,Blackwell TL，Ancoli IS,et al．Sleep disordered breathing and risk of stroke in older Community-Dwelling men[J]. Sleep,2016,39(3):531-40.   
+[2]中华医学会呼吸病学分会睡眠呼吸障碍学组.阻塞性睡眠呼吸暂 停低通气综合征诊治指南(2011年修订版)[J].中华结核和呼吸杂 志,2012,35(1):9-12.   
+[3]Koo D,Nam H. Association between obstructive sleep apnea syndrome and cerebral microbleeds in patients with ischemic stroke[J].Sleep Med,2015,16(5): S361-4.   
+[4]Roest AM,Carney RM，Stein PK,et al.Obstructive sleep apnea/hypopnea syndrome and poor response to sertraline in patients with coronary heart disease[J].J Clin Psychiatry,2012, 73(1): 31-6.   
+[5]Pérez-Rico C,Gutiérrez-Diaz E,Mencia-Gutiérrez E,et al. Obstructivesleepapnea-hypopnea syndrome(OSAHS） and glaucomatousoptic neuropathy[J]．Graefes Arch Clin Exp Ophthalmol,2014,252(9): 1345-57.   
+[6］张庆翔，刘宏刚，王云丽，等．鼻腔扩容术治疗轻中度阻塞性睡 眠呼吸暂停低通气综合征的疗效分析[J]．中国中西医结合耳鼻 咽喉科杂志，2015，23(2)：115-7.   
+[7］彭莉莉,李进让,孙建军,等.Epworth嗜睡量表简体中文版信度和 效度评价[J].中华耳鼻咽喉头颈外科杂志,2011,46(1):44-9.   
+[8]王学艳,任华丽,石海云,等.变应性鼻炎症状评分及视觉模拟量 表适用性比较[J].中国耳鼻咽喉头颈外科,2012,19(11):609-11.   
+[9]吴瑞珊，王佳蓉，陈翊民．鼻外科手术联合上气道射频消融术用 于阻塞性睡眠呼吸暂停低通气综合征伴慢性鼻塞患者治疗的疗 效分析[J].重庆医科大学学报,2015,13(1):112-5.   
+[10]Lacedonia D, Carpagnano GE, Sabato R,et al. Characterization of obstructive sleep apnea-hypopnea syndrome (OSA） population by means of cluster analysis[J].J Sleep Res,2016,25(6): 724-30.   
+[11]张庆，王京娜,何权瀛，等.阻塞性睡眠呼吸暂停低通气综合征 对心血管系统的影响[J].医学与哲学,2013,34(10):7-9.   
+[12]赵化庭，戴海龙，光雪峰.阻塞性睡眠呼吸暂停低通气综合征与 高血压关系的研究进展[J].中国心血管病研究,2015,13(1):5-7.   
+[13]侯微微，刘双，张蔚.阻塞性睡眠呼吸暂停低通气综合征对肺 血栓栓塞症的影响[J].中国医药,2014,9(10):1567-8.   
+[14]陈 婷.阻塞性睡眠呼吸暂停低通气综合征并Ⅱ型呼吸衰竭6例分 析[J].临床合理用药杂志,2014,20(7):134-5.   
+[15]Yaggi HK, Strohl KP.Adult obstructive sleep apnea/hypopnea syndrome: definitions,risk factors,and pathogenesis [J]. Clin Chest Med,2010,31(2): 179-86.   
+[16]周敬,鲁沈源,励雯静,等.148例鼾症及阻塞性睡眠呼吸暂停低 通气综合征危险因素的分析[J].复旦学报：医学版,2010,37(2): 207-10.   
+[17]Moret BV,Alvarez-Estevez D,Fernandez-Leal A,et al. Intelligent approach for analysis of respiratory signals and Oxygen saturation in the sleep apnea/hypopnea syndrome[J]. Open Med Inform J, 2014,8(12): 1-19.   
+[18]惠培林,谢宇平,马 薇,等.鼻腔扩容术作为基础术式在治疗 OSAHS中的临床价值分析[J]．临床耳鼻咽喉头颈外科杂志 ,2015,17(21): 1860-3.   
+[19]Li HY,Wang PC, Chen YP,et al. Critical appraisal and metaanalysis of nasal surgery for obstructive sleep apnea[J].Am J Rhinol Allergy,2011,25(1): 45-9.   
+[20]彭易坤,胡德峰,吴欣华,等.阻塞性睡眠呼吸暂停低通气综合征 患者双侧鼻腔扩容术前后鼻腔通气程度主客观的变化[J]．武汉 大学学报：医学版,2015,36(6):952-5.

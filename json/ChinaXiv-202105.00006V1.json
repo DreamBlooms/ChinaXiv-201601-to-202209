@@ -1,0 +1,297 @@
+[
+    {
+        "type": "text",
+        "text": "Potential reduction inwaterconsumptionof greenhouse evaporative coolers in arid areas via earth-tube heat exchangers ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abdulrahim M AL-ISMAILI1\\*, Moustafa A FADEL², Hemantha JAYASURIYA1, L H Janitha JEEWANTHA³, Adel AL-MAHDOURI1, Talal AL-SHUKEILIl ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Soils, Water and Agricultural Enginering,Sultan Qaboos University, Muscat PC123, Oman; Department of Arid land Agriculture,United Arab Emirates University,Al-Ain 17555, United Arab Emirates; 3 CentreforFuture Materials & Schoolof Mechanicaland Electrical Enginering, Universityof Southern Queensland, Toowoomba QLD 4350,Australia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study aimed to explore the potential of developing a novel cooling system combining a greenhouse and an earth-tube heat exchanger (ETHE). In this system, greenhouse air is circulated through the underneath soil mass to use the deep-soil cooling effect. This was achieved through the following steps. First, soil temperature profile inside and outside the cultivated greenhouse was monitored for almost one year to study the possibility of using deep-soil coldness for cooling the greenhouse air. Second,a prototype ETHE was built to practicall investigate the potential reduction in air temperature as the air flows inside the deep earth pipes. Third,a prototype greenhouse was erected to study the ETHE concept. Results from the first experiment revealed that soil temperature at a soil depth of $2 . 5 \\mathrm { ~ m ~ }$ inside the greenhouse offers good conditions to bury the ETHE. The soil temperature at this soil depth was below the maximum temperature $( 3 2 ^ { \\circ } \\mathrm { C } )$ that most greenhouse crops can withstand. Results from the prototype ETHE showed a slight reduction in air temperature as it passed through the pipes. From the prototype of the integrated greenhouse and ETHE system, reduction in air temperature was observed as the air passed through the ETHE pipes. At night, the air was heated up across the ETHE pipes, indicating that the ETHE was working as a heater. We concluded from this study that greenhouses in arid climates can be cooled using the ETHE concept which would save a large amount of water that would otherwise be consumed in the evaporative coolers. Further investigations are highly encouraged. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: earth-tube heat exchanger; greenhouse; fan-pad cooling system; water saving; arid areas ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Environmentally controlled agriculture is a major source of global agricultural production especially in arid environments such as Oman and United Arab Emirates (UAE) where vegetable consumption rates are growing up in addition to the boom of the ornamental plant market. The typical Quonset-type greenhouse model, available in these places, was designed for cold climates to provide a warmer microclimate for plant growth in winter and reduce the ambient temperature in summer using cooling techniques. Such a greenhouse works effectively in winter but does not provide enough cooling in hot summer climates of Oman and UAE. Therefore, many farmers tend to leave their greenhouses unused during summer. According to the statistical data of UAE in 2011 (MCCE， 2011)，there are 14,777 greenhouses with an area of $4 9 2 . 5 \\ \\mathrm { h m } ^ { 2 }$ producing vegetables, fruits and ornamental plants. In Oman, the number of greenhouses kept increasing rapidly, and reached 782 in 2001 (MAF, 2009), 2491 in 2008 (Tawfiq and Al-Kaefi, 2009), 4740 in 2010 (Al-Kiyumi, 2006) and 5563 in 2015 (Al-Ismaili et al., 2017), with an annual increase of approximately $40 \\%$ (Al-Sa'di et al., 2OO7). Oman, UAE and all other Middle Eastern countries are facing a serious water scarcity problem. Currently, governments partially pay water bills through subsidy programs. Four percent of the desalinated water produced in Abu Dhabi is consumed by agriculture, while imported vegetables increased from $0 . 3 4 \\times 1 0 ^ { 1 0 }$ USD in 2005 to $0 . 7 6 \\times 1 0 ^ { 1 0 }$ USD in 2010. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oman and UAE face a controversial problem of how to achieve some acceptable level of food security to meet the uncertain global food production, safety and trade, and at the same time conserve their fragile agricultural resource base. Limited natural resources made it a must to improve resources use efficiency. Sherif (2Oo9) reported that UAE agricultural sector includes about 8435 greenhouses producing $0 . 1 0 1 \\times 1 0 ^ { 6 }$ t of vegetables which indicates the importance of protected agriculture in securing and meeting local demands. In Oman， greenhouses have significantly increased the production of cucumber, which is the dominant crop in greenhouses, with the yield being up to 24 folds that of open field (Mazid, 2011). The total cucumber production in greenhouses accounted for $9 6 . 0 \\%$ of the total production. In addition, some Arabian Gulf countries undertake agricultural investments in a number of neighboring countries, the results of which are not yet known concerning economic feasibility and sustainability. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In arid areas, greenhouses are mainly cooled using fan-pad evaporative cooling systems. However, it was found that the fan-pad systems are water- and energy-intensive systems. Fadel et al. (2013) pointed out that an evaporatively cooled greenhouse consumes $0 . 2 0 2 \\times 1 0 ^ { 3 }$ $1 0 . 7 8 8 \\times 1 0 ^ { 3 }$ and $0 . 9 3 0 { \\times } 1 0 ^ { 3 } \\ \\mathrm { k W h }$ to run irrigation pump, fan and cooling pump, respectively. In addition, the amount of water used for cooling and irrigating in the production season was $0 . 8 3 8 { \\times } 1 0 ^ { 6 }$ and $0 . 6 1 5 { \\times } 1 0 ^ { 6 } \\mathrm { ~ L ~ }$ ， respectively. It was concluded that, cooling fans consumed about $9 0 . 0 \\%$ of the energy consumption of the electrical energy of the greenhouses while cooling system consumed about $5 8 . 0 \\%$ of the total amount of the water consumed in the production season. Similarly, in Oman,it was reported that cooling water consumption represented 2/3 of the total water consumption in greenhouses (Sablani et al., 2Oo6). Recent studies found that the evaporative coolers can consume up to $7 5 . 0 \\%$ of the total greenhouse water demand and nearly $9 9 . 5 \\%$ of the electricity consumption (Tabook and Al-Ismaili, 2016； Tabook, 2017). Therefore,due to the limited water resources in Oman and UAE as well as other arid countries, there is a desperate need to search for new technologies that would enable reducing grenhouse water requirement especially the amount of water used in the fan-pad cooling system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The earth-tube heat exchangers (ETHEs) are extensively used in cold climates to heat buildings due to the temperature differential between the buildings and the deep-soil. The ETHEs employ the use of pipes buried under the ground together with a circulation system that forces air through the pipes and finally mixes with the indoor air. Air passing through the buried pipes can be sucked either from ambient air or from the space to be conditioned (Ghosal et al., 2O04). This mechanism can be implemented in hot climates to cool down the grenhouse microclimate. During the daytime,warm air is drawn from the upper parts of the greenhouse and driven through the underground pipes. The warm air releases its heat content to the pipe through convection which is then dissipated to the soil by conduction. Eventually, the cooler air is then returned to the greenhouse. Boughanmi et al. (2O15) studied the thermal performance of a conic basket heat exchanger coupled with a geothermal heat pump for greenhouse cooling in Tunisia. Results showed that the maximum average temperature difference between the inlet and outlet conic basket geothermal heat exchanger system was approximately $3 0 ^ { \\circ } \\mathrm { C }$ with increased mass flowrate of $0 . 0 8 ~ \\mathrm { k g / s }$ and that air temperature inside the greenhouse decreased about $1 2 ^ { \\circ } \\mathrm { C }$ . Dhruw et al. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2015) reported that the use of ETHEs can result into $7 6 . 7 \\%$ energy savings compared with a convectional cooling system. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study aimed to investigate the potential of developing a novel cooling system combining a greenhouse and an earth-tube heat exchanger (ETHE). The ventilation system should re-circulate greenhouse air through the soil mass underneath the chambers to use the cooling effect of the deep-soil. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Methodology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in three main phases. First, soil temperature profile inside and outside a cultivated greenhouse at the Agricultural Experiment Station (AES) of Sultan Qaboos University $( 2 3 . 6 0 ^ { \\circ } \\mathrm { N } $ $5 8 . 1 6 ^ { \\circ } \\mathrm { E } )$ was monitored for almost 1-year period in order to study the possibility of using deep-soil coldness for cooling the greenhouse. Second, an ETHE was built at the AES to practically investigate the potential reduction in air temperature as air flows inside the deep earth pipe. Third, a prototype greenhouse was erected to study the ETHE concept. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Soil temperature profile ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this phase, the initial task was to measure the soil temperature with the variation of soil depth. For that, two pits were dug inside and outside a Quonset-type greenhouse at the AES. This greenhouse is a nursery cultivated during the experiment with ornamental plants. After digging the two pits, thermocouples (T-type, Omega Engineering, USA) and Decagon temperature sensors (Decagon Devices Inc., Pullman, USA) were buried inside the pits at soil depths of 0.02, 1.00, 2.00 and $3 . 0 0 \\mathrm { ~ m ~ }$ as shown in Figure 1. Data were retrieved and recorded every 1 min using a datalogger (CR30o0, Campbell Scientific, USA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/99ecc708d453050bca75871cd886f4e0a8696dea1d272b0d8dbd272bb5a562b8.jpg",
+        "img_caption": [
+            "Fig.1Overview of temperature sensor positioning.P1,P2,P3 and P4 represent the soil depths of 0.02,1.00, 2.00 and $3 . 0 0 \\mathrm { m }$ ,respectively, where thermocouples were installed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Designing and validation of a SolidWorks simulation model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The primary task in this phase was to simulate and validate the ETHE with a model developed specifically for this purpose. Several mechanical thermal simulation software available in the market can help performing this kind of simulation, such as Ansys Engineering Simulation, Pro/Engineering， FEMAP and SolidWorks. In this study， the modeling software code was developed in SolidWorks 2O16 SPO environment. Heat transfer takes place in three different ways,but for the sake of simplification, conduction and convection were considered but the radiation effect was neglected. For this simulation, heat transfer coefficient was taken as 7 $\\mathbf { W } / ( \\mathbf { m } ^ { 2 } { \\cdot } \\mathbf { K } )$ and it varied with the pipe material. In SolidWorks, soil block of $8 . 0 \\mathrm { ~ m ~ }$ long, $3 . 0 \\mathrm { ~ m ~ }$ wide and $4 . 0 \\mathrm { m }$ deep was modeled. Steel and drainage pipe networks with diameter of $0 . 1 \\mathrm { ~ m ~ }$ and apart of $1 . 4 \\mathrm { m }$ were simulated, which is similar to the intended practical setup. Modeled steel and drainage pipe networks are shown in Figure 2. To validate the simulation model, we constructed a pit of $6 . 0 \\mathrm { ~ m ~ }$ long, $3 . 0 \\mathrm { ~ m ~ }$ wide and $2 . 5 \\mathrm { ~ m ~ }$ deep. Steel and drainage pipes (diameter of $0 . 1 \\mathrm { ~ m ~ }$ and length of $6 . 0 \\mathrm { m } )$ ） were laid down at the bottom of the pit. The two pipes were joined to $3 . 0 \\mathrm { m }$ long vertical pipes. Experiments were conducted for different inlet air velocities. The installed suction fan setup at the end of the vertical pipe was capable of varying air speed from 3 to $1 0 ~ \\mathrm { { m / s } }$ (Fig. 3). Hence， it was decided to conduct experiments at an air speed of 3,5,7 and $9 \\ \\mathrm { m / s }$ . T-type thermocouple wires were used to measure air and soil temperatures within and outside the two pipes. A Campbell Scientific CR30oO datalogger was used to colect temperature data from all thermocouples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4611316669a17f4639fa03fa503c28db40b7a44695c2afa3cb5410d3c597eff.jpg",
+        "img_caption": [
+            "Fig.2SolidWorks modeled pipe networks (a) and soil block assembly with pipe network (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e4f41cfe5bd0226837fe1197c8c490348eb0b7df5f6f531ced4a1af371fdbbe.jpg",
+        "img_caption": [
+            "Fig. 3 Fan-mounting structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Construction of the prototype greenhouse and ETHE system ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Based on the results from the previous phases, we decided the parameters related to the prototype greenhouse and ETHE system. In this setup, the ETHE consisted of 13 drainage pipes (diameter of $0 . 1 \\mathrm { ~ m ~ }$ ,PVC material) was connected directly to the fan (diameter of $0 . 8 5 \\mathrm { ~ m ~ }$ ，motor of $0 . 5 5 \\mathrm { k W }$ and revolution of $1 4 0 0 ~ \\mathrm { r / m i n ) }$ and buried at a soil depth of $2 . 0 { - } 3 . 0 \\mathrm { ~ m ~ }$ below the greenhouse. Figure 4 illustrates the design model and the construction process of the prototype greenhouse and ETHE system at the AES. The greenhouse was covered with polyethylene sheet (thickness of $0 . 2 \\ \\mathrm { m m } \\mathrm { , \\ }$ ） on the roof and double-layer polycarbonate on the sidewalls. After the construction process, Omega thermocouple wires were used to monitor temperature changes across the model greenhouse (floor area of $6 . 0 \\ \\mathrm { m } { \\times } 3 . 0 \\ \\mathrm { m } )$ ）and ETHE units. One thermocouple was placed at the inlet of the greenhouse and the other was placed at the outlet (fan side) (Fig. 5). The inlet to the greenhouse is the outlet from the ETHE and vice versa. For data recording,a Campbell Scientific CR3000 datalogger was programmed to retrieve and record data every 3O s to avoid instant fluctuations and outlier readings, and to obtain smoother patterns. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/17114553446a8fba6eec1fb4493681020f9c14486d99d2ea9c987c06aaa55853.jpg",
+        "img_caption": [
+            "Fig.4Designed model of greenhouse andETHE (earth-tube heat exchanger) system (a), ETHE instalation (b), greenhouse framework after refilling the ETHE trench (c)and completed prototype greenhouse and ETHE system (d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/05de7f1d7989c226ee311ec1962b37ebbe462d04e302f56c85b0297d1161b57b.jpg",
+        "img_caption": [
+            "Fig.5Locations of the shielded thermocouples at the inlet (a) and outlet (fan side; b) of the greenhouse "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Soil temperature profile ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results from the first experiment revealed that soil temperature at allsoil depths (0.O2, 1.00, 2.00 and $3 . 0 0 \\mathrm { m } \\mathrm { \\Omega }$ outside the greenhouse (under the bare soil) did not offer a suitable condition to bury the ETHE for the purpose of cooling the greenhouse. However, soil temperature at a soil depth of $2 . 0 0 { - } 3 . 0 0 \\mathrm { m }$ inside the greenhouse (under the bare soil) offered a suitable condition for the ETHE as the soil temperature at this soil depth was all of the times below $3 2 ^ { \\circ } \\mathrm { C }$ which was the maximum tolerable temperature for some high value vegetable crops (Black and Drost, 2O1O). The soil temperatures at almost all soil depths in the pit outside the greenhouse were higher than $3 2 ^ { \\circ } \\mathrm { C }$ Figure 6 depicts the soil temperature profile that was observed over a few months inside and outside the greenhouse. The dep-soil inside the greenhouse was cooler than the soil outside the greenhouse because the soil in the greenhouse was benefiting from the cool air streaming over the soil surface as wellas the shade created by the covering material of the greenhouse. Additionally, the soil was further cooled down by the irrgation water which was removing some of the soil sensible heat as a result of evaporation. All of these reasons were absent in the case of the bare soil outside the greenhouse. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0e0b6933007d8fc62c845e8d461085bd2ab8d00138516ca91378df53f20f12d.jpg",
+        "img_caption": [
+            "Fig.6Mid-day soil temperatures for the pits outside (a)and inside (b)the greenhouse.P1,P2,P3 and P4 represent the soil depths of 0.02, 1.00, 2.00 and $3 . 0 0 \\mathrm { ~ m ~ }$ ,respectively. The red dotted line means the maximum tolerable temperature $( 3 2 ^ { \\circ } \\mathrm { C } )$ for some high value vegetable crops. ",
+            "Fig.7Observed and simulated air temperature inside the earth-tube heat exchanger (ETHE) pipe at the air speed of $3 ~ \\mathrm { m / s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 SolidWorks simulation model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the results in the previous section, we inferred that the optimal soil depth to lay down the ETHE is between 2.0O and $3 . 0 0 \\mathrm { ~ m ~ }$ .For that, a $2 . 5 0 \\mathrm { ~ m ~ }$ deep trench was excavated to bury two pipes (metallic and plastic) with a diameter of $0 . 1 0 \\mathrm { m }$ to work as ETHEs. This setup was simulated using a SolidWorks flow simulation model which was then validated using the experimental data. Iterative simulation trials showed a very close match between the observed and simulated air temperature values. Results presented a slight reduction in air temperature as it passed through the pipes and negligible difference was found between the two pipe materials. Air cooling was adversely affected by air speed, i.e., less cooling with higher air speed. Figure 7 shows mid-day and mid-night simulated and observed air temperature profile along one pipe at the air speed of $3 ~ \\mathrm { m / s }$ . This wind speed was chosen because it was found through preliminary experiments that air speed of $3 ~ \\mathrm { m / s }$ resulted in a better cooling effect compared with air speeds of 5, 7 and $9 \\mathrm { m / s }$ (not published yet). Considering the simulation accuracy presented in Figure 7, the model was then used to simulate the thermal behavior of one pipe and an array of pipes buried in the ground as illustrated in Figure 8. This thermal pattern showed that heat from the air will dissipate gradually into the soil but the soil temperature stays below the maximum temperature of $3 2 ^ { \\circ } \\mathrm { C }$ . This result confirmed the feasibility of using ETHEs to cool the greenhouse. Finally, it was decided to use a total of 13 plastic pipes in the ETHE pipe network. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3533129272523211917 Mid-day (observed) -Mid-night(observed) irereet -Mid-day (simulated) --Mid-night(simulated) 15 0 150 300 450 600 Distance from entry (cm) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Prototype greenhouse and ETHE system ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the results from phase 1 and phase 2, we buried the ETHE pipes at a soil depth between 2.00 and $3 . 0 0 \\mathrm { ~ m ~ }$ below the greenhouse. Figure 9 presents a 2-d air temperature profile along the middle pipe of the ETHE. In this figure, ambient air and soil (deep of $3 . 0 0 ~ \\mathrm { m } )$ ） temperatures are also presented for relative comparisons. During mid-day,the ETHE received the warmest air from the greenhouse (on average) and when it passed through the underground ETHE pipe network, the temperature of the air was cooled down. In addition, the ETHE received cool air in mid-night and it got heated up when it passed through the ETHE pipe network. The soil temperature at the deep of $3 . 0 0 \\mathrm { ~ m ~ }$ remained almost constant throughout the daytime. This indicated that the soil had a very good thermal capacity to absorb the heat from the greenhouse during the daytime and to adjust at night by releasing that heat back to the greenhouse. Further optimization is required to increase the effectiveness of the ETHE, particularly for the daytime. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/71a917d7f79cb434de54df5f9e35cf57e606be145dd769a45c720e55502e116a.jpg",
+        "img_caption": [
+            "Fig. 8Temperature distribution pattrn around ETHE the pipe network composed of one pipe (a)and an array of three (b), seven (c) and eleven (d) pipes. These patterns are taken at the middle of $6 . 0 0 \\mathrm { m }$ long ETHE pipes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/86d8e68261873061d2490289347ad108450e7f07d9ad18f9583b68cff66d9805.jpg",
+        "img_caption": [
+            "Fig.9ETHE temperature variation of air,soil and inside the ETHE pipefor a2-d period.Env,temperature of air; In avg,average inlet air temperature to the ETHE; Out avg,average outlet air temperature from the ETHE; Soil $( 3 . 0 0 \\mathrm { m } )$ , soil temperature at a depth of $3 . 0 0 \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Time series data were also considered to understand the cooling efect of the ETHE more clearly. An average $^ \\mathrm { ~ 6 ~ h ~ }$ data were taken and then the differences in temperature across the greenhouse (outlet minus inlet) and the ETHE (inlet minus outlet) were calculated and presented in Figure 10. All the greenhouses and ETHE temperature differences were positive during the daytime but negative during the nightime. For the greenhouse, the temperature difference was positive during the daytime due to the solar heat input which was reducing from mid-day onwards. For the ETHE, the outlet temperature was lower than the inlet temperature in the day which indicated that the ETHE managed to cool down the greenhouse during the daytime. By contrast to that, the ETHE outlet temperature was higher than the inlet temperature at night which indicated that the ETHE acted as a heater during the nighttime. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/15f0c69408c7a91432912c8469ed9a8148075d797c051514e6c0de8181eca281.jpg",
+        "img_caption": [
+            "Fig.10Temperature differences through the greenhouse (outlet minus inlet)and the ETHE (inlet minus outlet) during the daytime (12:00-18:00) and the nighttime (00:00-06:00) for a 2-d period "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This study attempted to explore the potential of cooling greenhouses via earth-tube heat exchangers in order to reduce water consumption in arid areas suffering from chronic water scarcity. We can conclude that soil temperature at a soil depth of $2 . 0 0 { - } 3 . 0 0 \\ \\mathrm { m }$ inside a cultivated greenhouse was continuously (throughout the year) within the cooling requirement of most vegetables. Therefore, the ETHE concept should work well underneath cultivated greenhouses. Consequently, the ETHE can save the consumption of water used in the evaporative coolers of most greenhouses in arid areas. Further investigations are necessary to optimize the greenhouse-ETHE system. We recommend implementing the ETHE systems underneath cultivated greenhouses to benefit from the soil-cooling effect exerted by the cold environment inside the greenhouse. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We would like to expressincere thanks to the Sultan Qaboos University and United Arab Emirates University for the research fund (CL/SQU-UAEU/15/04). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Al-Ismaili AM,Al-Mezeini NK,Jayasuria HP.2017.Controlled environmentagriculture in Oman: Factsand mechanization potentials.Ama, Agricultural Mechanization in Asia, Africa and Latin America, 48(2): 75-81.   \nAl-Kiyumi K.2006.Grenhouse cucumber production in Oman: A studyonthe effectofcultivation practices oncrop diseases and crop yields Unpublished. PhD Dissertation. Reading: University of Reading.   \nAl-Sa'diAM,DrenthA,DeadmanM,etal.7.olecularcharacterzationandpathogenicityofytiumspeciesated with damping-off in greenhouse cucumber(Cucumis sativus) in Oman. Plant Pathology,56(1): 140-149.   \nBlack B,DrostD.2010.Temperaturemanagement inhghtunnelsUSU extensio. AllCurentPublications,258.2209-03]. https://digitalcommons.usu.edu/extension_curall/258.   \nBoughanmi H, Lazaar M, Bouadila S,et al. 2O15. Thermal performance of a conic basket heat exchanger coupled to a geothermal heat pump for greenhouse cooling under Tunisian climate. Energy and Buildings,104: 87-96.   \nDhruw H,Sahu G,Sen P,et al.2O15.Areview paper on earth tube heat exchanger. International Journal for Research in Applied Science and Engineering Technology, 3: 415-417.   \nFadel M, AlMekhmary M, Mousa M.2013. Water and energy use eficiencies of organic tomatoes production in atypical greenhouse under UAE weather conditions. Acta Horticulturae,1O54: 81-88.   \nGhosal M,Tiwari G,Srivastava N.2O04.Thermal modelingof a grenhouse with an integrated earth toair heat exchanger: An experimental validation. Energy and Buildings, 36(3): 219-227.   \nMAF (Ministryof AgricultureandFisheries).2O09.Technical Extension Guideof Controlled Environment Agriculture Technologies in Oman. Muscat: Ministry of Agriculture and Fisheries. (in Arabic)   \nMazid A.201.Assesing returns from investments intwoagricultural development projects (Protected agriculture andmodern irigation systems) in the Sultanate of Oman. International Centerfor Agricultural Research in the DryAreas (ICARDA), Aleppo,Syria. [2020-09-03]. https://hdl.handle.net/20.500.11766/7345. (in Arabic)   \nMCCE(Ministryof Climate Changeand Environment).2011. Statistical Data-Agriculture 2011.Abu Dhabi, United Arab Emirates: Ministryof Climate Change and Environment.[2021-01-07]. htps://www.moccae.gov.ae/en/search.aspx? type $\\ c =$ pages|news|eventslfaqslcirculars|photos|videos|service&query $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ Statistical%20data%20%E2%80%93%20Agriculture%2 02011.   \nSablani S,PerretJS,Al-Hnai H,etal.2O6.Seawatergreenousedevelopmentforaridclimates:Aninnovativeapproach for water desalinationand crop production.In:Technical Report (SR/AGR/BIOR/02/01).Muscat: Sultan Qaboos University.   \nSherif S.2009.Theagricultural sector in the UAE: Ananalytical economic study.In: Strategic Studies1682-203.Abu Dhabi, UnitedArab Emirates: The Emirates Center for Strategic Studies and Research (ECSSR).   \nTabook S M,Al-Ismaili A M.2O16.Evaluationof grenhouse cropping systems in Oman. International Journal of Tropical Agriculture, 34(3): 715-720.   \nTabook S M.2017.Evaluating the performanceof greenhouse cucumber production in Barka. MSc Thesis. Muscat: Sultan Qaboos University.   \nTawfiq M,Al-Kaefi F.2009.The Guidelines for Techniques of the ProtectedAgriculture in Oman.Muscat: Ministryof Agriculture and Fisheries. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

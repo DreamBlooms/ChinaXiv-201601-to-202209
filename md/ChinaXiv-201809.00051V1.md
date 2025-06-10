@@ -1,0 +1,1198 @@
+# 《广西植物志》秋海棠属 （BegoniaL.）增订
+
+董莉娜，刘演
+
+广西喀斯特植物保育与恢复生态学重点实验室，广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006
+
+摘要：秋海棠属(BegoniaL.)隶属于葫芦目（Cucurbitales）秋海棠科（Begoniaceae），包括约2000 种，是世界第5大属，主要分布于美洲、非洲和亚洲的热带和亚热带地区，具有极高的观赏价值，亦可作为药用、食用、饮料和饲料等。我国有秋海棠属植物近200 种，主要分布于云南和广西等长江以南地区，其中云南有秋海棠属植物 100 余种。近年来，随着广西地区秋海棠属植物野外调查的不断深入，陆续发现并发表了大量秋海棠属新类群，使得广西产秋海棠属植物数目已远超出1991年《广西植物志》第一卷收录的19 种，因此，亟需对发表于不同期刊中的类群进行系统地整理和汇总。鉴于此，该文通过查阅文献资料和考证标本信息，整理并汇总了广西产秋海棠属植物共84种，包括2个变种、11个亚种和 46 个特有种，新增72种《广西植物志》第一卷中未收录的类群，补充了这些类群的特征集要、凭证标本信息和属下分组概况，为今后开展秋海棠属植物的分类修订、系统学、进化生物学及保护生物学等研究提供参考依据。
+
+关键词：秋海棠属，广西植物志，增订，特征集要，属下分类
+
+# Supplement to the Begonia L. in flora of Guangxi
+
+DONG Lina \*,LIU Yan
+
+(Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain,Guangxi Institute of Botany,Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences,Guilin 541006, Guangxi,China)
+
+Abstract: Begonia L. is belonged to the family Begoniaceae within Cucurbitales. The genus contains about 2 OOO species and is the fifth largest angiosperm genus.The species occur in subtropical and tropical regions of Asia, Northern American and Africa and have been used as important medicinal, edible or ornamental plant. In China, there are around 2OO species in the genus of Begonia, which mainly occurs along south of the Yangtze River, especially in Yunnan and Guangxi. During recent decades,more and more taxa have been discovered and described owing to deep field surveys within Guangxi. Now the number is far exceed the record in Flora of Guangxi that was published in 1991 including 19 species. However, these new taxa are scattered in different journals,it is necessary to collect and gather them together. Therefore,based on examination of specimens and literature,84 taxa were enumerated, including 2 subspecies,11 varieties and 46 endemic species. Meanwhile,all taxa were supplemented with the diagnostic characters as well as the infrageneric classification of these taxa. This research will provide essential information on further studies about classification，evolution and conservation in Begonia.
+
+Keywords: Begonia L.， Flora of Guangxi， supplement， diagnostic characters，infrageneric classification
+
+秋海棠属（BegoniaL.）隶属于葫芦目（Cucurbitales）秋海棠科（Begoniaceae）（APGII,2003；APGII，2009)，包括约 2000 种（Moonlight et al,2018），主要分布于中美洲、南美洲、非洲撒哈拉以南、东亚、南亚、东南亚和太平洋岛屿（波利尼西亚除外）的热带及泛热带地区，具有极高的观赏价值，亦可作为药用、食用、饮料和饲料等（管开云等，2004；董莉娜等，2015）。该属植物常为一年生或多年生肉质草本或软木质灌木；具匍匐根状茎或茎直立；叶基生或茎生，基部偏斜或两侧对称；花单性，常雌雄同株，偶见雌雄异株；蒴果具不等三翅或近等三翅或无翅。
+
+根据Flora ofChina 记载中国有秋海棠属植物173种（Gu etal，2009），然而随着近年来新类群的不断发表，我国保守估计有秋海棠属植物 200 种以上（Tian etal,2018），主要分布于云南和广西等长江以南地区。其中，云南分布有秋海棠属植物100 余种（税玉民，2006;Tian etal,2018）。《广西植物志》第一卷收录并描述了广西地区秋海棠属植物19 种（蓝盛芳，1991），随后FloraofChina 第13卷收录并描述了广西产秋海棠属植物56种（Gu et al,2009），至《广西植物名录》记载了产于广西地区的秋海棠属植物正式发表的名称达到 76种（覃海宁和刘演，2010）。近年来，仍有大量广西产秋海棠属植物陆续发表于不同期刊中（Peng et al，2010，2013，2014；Li et al,2016；Qin et al，2017；Chen etal,2018），由此，本文通过查阅广西地区秋海棠属植物文献资料及考证标本信息，对广西产秋海棠属植物进行汇总增补，为今后开展该属植物的分类学、系统学、进化生物学及保护生物学等研究提供参考依据。
+
+# 广西秋海棠属名录及特征集要
+
+# 秋海棠属
+
+BegoniaL.in Sp.Pl.2:1056.1753.
+
+一年生或多年生草本，稀亚灌木。常见根状茎匍匐、或具球茎、或具块茎、茎直立、稀攀缘。叶基生、或生于直立茎，叶全缘或具齿，或掌状浅裂至深裂，叶先端渐尖或钝或微凹，基部心形或耳状或盾形、常偏斜，主脉常掌状，表面常全绿、稀有斑点或斑纹，基生叶叶柄长、常被柔毛或无毛。托叶常脱落。花单性，雌雄同株或雌雄异株，腋生或顶生，常聚伞花序或圆锥花序。雄花：花被片 $2 { \sim } 4$ 、常3枚，离生；雄蕊多数，花丝分离、稀基部合生，花药2室，基着。雌花：花被片 $2 { \sim } 5$ ，常4枚，离生；子房下位，常具不等三翅或棱、或棒状， $2 { \sim } 3$ 室，中轴胎座或侧膜胎座；柱头膨大，常扭曲。常蒴果、稀浆果，常具不等三翅、或近等三翅、或无翅或具棱。种子细小，极多，具邻细胞。
+
+约2000 种，广布于亚洲、非洲及美洲的热带、亚热带地区。我国有200 余种，常见于长江以南地区；广西有84种，主要分布于桂西及桂南地区。
+
+# 1．蛛网脉秋海棠（Bot.Stud.）
+
+Begonia arachnoidea C.-I Peng， Yan Liu & S. M. Ku in Bot. Stud. 49: 406, Fig.1-2. 2008; 广西植物名录 119.2010．（Holotype：IBK!Isotype：HAST!)
+
+叶基生，盾形，上面沿主脉具白色或浅色条带，上面密被短刚毛和糙刚毛，下面沿叶脉密被糙柔毛，三级脉及顶，蛛网状。花期9一10月；果期10一11月。
+
+产大新（恩城，模式标本产地）：生于海拔 $2 0 0 \mathrm { m }$ 的灌木和竹子混交林中石灰岩石壁上，偶见于半阴湿的岩石上。
+
+注释：2005年税玉民和陈文红发表伞叶秋海棠的变种，硬毛伞叶秋海棠（B.umbraculifolia Y.Wan & B.N. Chang var. flocculosa Y.M. Shui& W. H. Chen）。彭镜毅等（2008）认为硬毛伞叶秋海棠发表时缺乏详细的特征描述及模式标本信息不足，将该变种处理为蛛网脉秋海棠的异名。魏志丹（2010）认为硬毛伞叶秋海棠和蛛网脉秋海棠采自同一个地区且形态相似，将后者处理为前者的异名。根据分子数据的结果，蛛网脉秋海棠与伞叶秋海棠近缘，尚待进一步的标本和分子证据确定其名实。
+
+标本引证：崇左[大新，彭镜毅19762（IBK，HAST）]。
+
+# 2.星果草叶秋海棠（云南植物研究）
+
+Begonia asteropyrifolia Y.M. Shui & W. H. Chen in Acta Bot. Yunnan. 27: 356，Fig.1.2005；Flora of China 13：163.2009；广西植物名录 119：2010．（Holotype：KUN!Isotype:PE!)
+
+叶基生，盾形，上面密被瘤状柔毛，下面密被锈红色卷曲长毛，边缘具 $2 { \sim } 3$ 个棱角状裂片。花期2一6月。
+
+产东兰（模式标本产地）：生于海拔 $3 4 0 \mathrm { m }$ 的石灰岩山脚下。
+
+标本引证：河池[东兰，彭镜毅 21062（HAST）]。
+
+3.歪叶秋海棠（高等植物图鉴）保亭秋海棠（海南植物志）思茅秋海棠（云南种子植物名录）
+
+Begonia augustinei Hemsley in Gard. Chron. Ser. 3，2: 286.190O；Mitt. Inst. Allg. Bot.Hamburg 10：548.1939；中国高等植物图鉴2：945，图3619.1972；中国高等植物图鉴补编2：537，542 inclavi.1983；云南种子植物名录1：348.1983；Smithson.Contr.Bot.60:93 in clavi，141,Fig.23-24.1986；广西植物志 1:727.1991；中国植物志 52（1）：256.1999;Bot.Bull.Acad.Sin.43:320.2002；云南植物志 12:213，图 62:1-7.2006；Flora of China 13:163.2009；广西植物名录119.2010.（Isotype：MO!)$\mathbf { \Sigma } = \mathbf { \Sigma }$ Begonia menglianensis Y.Y.Qian in 植物分类学报 39（5）：461，图1.2001.（Isotype:KUN!)
+
+叶基生，基部心形，偏斜，上面浅绿色或沿主脉白色，下面绿色带红色，边缘具浅裂片或全缘；雌花花被片5枚；子房2室，疏被长柔毛；花柱2，2裂。花期6—9月。
+
+产防城港：生于 $3 0 0 { \sim } 1 5 0 0$ （ ${ \sim } 1 8 0 0$ ） $\mathbf { m }$ 的山谷、密林下潮湿岩石上。分布于云南，模式标本采自思茅。
+
+注释：根据FloraofChina 记录，本种产于云南南部，但有少量标本记录广西防城港地区亦有分布，本文暂收录本种，以待进一步的野外考察及分子标记确定是否本种亦产于广西地区。
+
+标本引证：防城港[防城县，王启无 26584（IBSC）；钦县，陈少卿153601（IBSC）；那良，王启无146242（IBSC）]。
+
+# 4.橙花侧膜秋海棠（Bot.Stud.)
+
+Begonia aurantiflora C.-IPeng，Yan Liu& S. M. Ku in Bot. Stud. 49: 84， Fig.1-2. 2008;广西植物名录 119.2010．（Holotype：IBK!Isotype：HAST!）
+
+叶基生，成熟叶片上面具白色或银白色环状斑纹，沿中脉具褐色或褐绿色掌状斑点，下面红色；雄花被片4枚，雌花被片3枚，橙色；子房三棱形或椭圆形。花期6—9月。
+
+产靖西（模式标本产地）：生于海拔 $7 0 0 \mathrm { { m } }$ 石灰岩山洞中。
+
+标本引证：百色[靖西，许为斌 07054（IBK）；彭镜毅 21542，21543＆21547（HAST）]。
+
+# 5.耳托秋海棠（云南植物研究）
+
+Begonia auritistipula Y.M. Shui & W.H. Chen in Acta Bot. Yunnan.27: 357, Fig.2. 2005;Flora of China 13：163.2009；广西植物名录 119.2010．（Holotype：GXMG!）
+
+具攀援茎，植株藤状；根状茎之字形；托叶宿存，基部斜耳状；叶基生，上面密被刚毛，下面沿脉具条纹；子房圆锥形。花期5一11月。
+
+产崇左，模式标本采自广西药用植物园：生于阔叶林下山坡阴湿处。
+
+标本引证：崇左[彭镜毅 24371（HAST）]。
+
+# 6.桂南秋海棠（云南植物研究）
+
+Begonia austroguangxiensis Y. M. Shui & W. H. Chen in Acta Bot. Yunnan. 27: 359, Fig. 3. 2005；Flora of China 13：164.2009；广西植物名录 119.2010.（Holotype：KUN！Isotype: PE!)
+
+叶下面密被糠皮状鳞片；子房每室具不等的3枚裂片；蒴果成熟晚，卵圆形，长 $8 \mathrm { \sim } 9 \mathrm { m m }$ 。花期5—10月。
+
+产龙州（模式标本产地）：生于海拔 $2 5 0 { \sim } 4 0 0 ~ \mathrm { m }$ 的阴湿石灰岩山地。
+
+标本引证：凭祥[大连城，彭镜毅24360&24366（HAST））；崇左（龙州，彭镜毅19786，19787&19788（HAST）；梁慧舟3648＆3380（HAST）]。
+
+# 7．巴马秋海棠（Bot.Stud.）
+
+Begonia bamaensis Yan Liu& C.-IPeng in Bot. Stud.48:466，Fig.1-2.2007；广西植物 名录119.2010.（Holotype：IBK! Isotype:HAST!）
+
+叶基生，上面绿色沿主脉具白色斑纹或斑点，下面绿色；叶柄褐色或红褐色，多绒毛；花梗褐色、红褐色或绿色，具柔毛或疏被柔毛，有时无毛；子房被白色或红色柔毛；蒴果具不等3翅，背翅明显向一侧弯曲。花期5一11月；果期6月至翌年3月。
+
+产巴马（模式标本产地）：生于海拔 $4 1 0 \mathrm { m }$ 的石灰岩山洞半阴湿的石壁。
+
+标本引证：河池[巴马，彭镜毅 21087（IBK，HAST）]。
+
+# 8.金平秋海棠（中国植物志）
+
+Begonia baviensis Gagnepain in Bull.Mus.Hist.Nat.（Paris）25:195.1919；Fl.Gen.
+
+Indo-Chine t.2：1111.1921；Smithson.Contr.Bot. 60:16 in clavi，Fig.4：23.1986；中国植物志 52（1）：236.1999；Bot.Bull.Acad.Sin.43：320.2002；云南植物志 12：200，图57:1-2.2006；Flora of China13：164.2009；广西植物名录 119.2010.
+
+植株高大，被锈色毛；根状茎块状；茎直立，多分枝，有明显沟棱，节膨大；叶基生和茎生，叶片 ${ 5 } { \sim } 7$ 浅裂，裂片三角形卵形或卵状披针形，两面密被红色糙毛；花药线形。花期4月。
+
+产上思：生于海拔 $4 5 0 { \sim } 8 9 0 ~ \mathrm { m }$ 山谷雨林下湿处或溪沟旁。分布于中国云南，模式标本产于金平。越南北部也有分布。
+
+标本引证：防城港[彭镜毅 20300（HAST）；上思，张肇骞13251（IBK）；陈少卿4980（IBSC）]。
+
+# 9.双花秋海棠（植物分类学报）
+
+BegoniabifloraT.C.KuinActaPhytotax.Sin.35： 43.1997.
+
+叶基生，绿色，上面脉间偶有白色斑点，沿叶脉密被褐色绒毛，三级脉延至顶端成网状;雄花被片4枚，粉红色或黄绿色，花丝基部融合成短柱状；蒴果具不等3翅。花期1—5月；果期2—7月。
+
+产靖西、大新：生于海拔 $3 9 0 { \sim } 4 5 0 \mathrm { m }$ 遮荫潮湿石壁。分布于云南，模式标本采自麻栗坡。
+
+注释：本种引证标本鉴定为越南秋海棠（B.bonii Gagnepain），但越南秋海棠我国不产，结合形态特征，将其鉴定为双花秋海棠，以待进一步考证。
+
+标本引证：韦毅刚0201（IBK）；百色[西，彭镜毅21177&19730（HAST）]；崇左[大新，彭镜毅 20357&20358（HAST）]。
+
+# 10.短葶秋海棠（Bot.Stud.）
+
+Begonia xbreviscapa C.-I Peng，Yan Liu & S.M. Ku in Bot. Stud.51: 108，Fig. 1-2.2010. （Holotype:IBK! Isotype:HAST!）
+
+叶基生，盾形或近盾形，上面散布白色斑点，下面红褐色或绿色，下面沿脉被白色长柔毛；花葶被短柔毛；花粉粒和子房败育；花柱3，离生。花期2一5月（栽培）。
+
+产东兰（模式标本产地）：生于海拔 $3 2 0 \mathrm { m }$ 石灰岩山洞石壁。
+
+注释：本种为多变秋海棠与獭叶秋海棠天然杂交种。
+
+标本引证：河池[东兰，彭镜毅 20727a（IBK&HAST）]。
+
+11.花叶秋海棠（中国高等植物图鉴）中华秋海棠（云南种子植物名录）山海棠、公鸡酸
+
+# 苔（中药大辞典）华秋海棠（经济植物手册）
+
+Begonia cathayana Hemsley in Bot. Mag. 134: t. 8202. 1908; Mitt. Inst. Allg. Bot. Hamburg10：524.1939；Bull.Fan Mem.Inst.Biology，new ser.1（2）：122.1948；中国高等植物图鉴2：936，图 3601.1972；中国高等植物图鉴补编2：537，539 inclavi.1983；云南种子植物名录1:349.1948；Smithson.Contr.Bot.60:34，115 in clavi，149，fig.12-13.1986；广西植物志1：721，图 291：3-4.1991；中国植物志 52（1）：231.1999；Bot.Bull.Acad.Sin.43：320.2002；云南植物志12：190.2006；Flora of China13：165.2009；广西植物名录119.2010.（Type:E!)
+
+根状茎伸长，圆柱状；茎直立，被锈红色柔毛及杂有白色毛，有分枝；叶片上面具灰绿色环带，叶脉血红色，下面血红色，边缘稍分裂；花艳红色或橙红色。花期8月；果期 9月。
+
+产上思、靖西、那坡、隆林：生于海拔 $1 \ 2 5 0 { \sim } 1 \ 5 0 0 \ \mathrm { m }$ 常绿阔叶林下或溪旁林下潮湿处。分布于云南，模式标本采自蒙自。
+
+标本引证：防城港[防城港区，彭镜毅 20288＆20288A（HAST））；百色（靖西，张 肇骞12661（IBK）；凌云，华南队1565（IBSC）]
+
+12.昌感秋海棠(海南秋海棠）盾叶秋海棠（中国高等植物图鉴）Begonia cavaleriei H. Leveillé in Repert. Spec. Nov. Regni Veg.7 （131-133） : 20.1909;  
+Fl. Kouy-Techeou 46.1914; Fl. Gen. Indo-Chine 2: 1097.1921; Mitt. Inst. Allg. Bot. Hamburg 6:  
+354.1927；10：512.1939；海南植物志1：489.1964；中国高等植物图鉴 2：944.1972;  
+Not.Bot.Gard.Edinb.31（3）：432.1972；中国高等植物图鉴补编2：534，542.1983；云  
+南种子植物名录1：349.1984；Smithson.Contr.Bot.60：10，149，Fig.3：21.1986；贵州  
+植物志 4:255.1989；广西植物志1：725，图293：7.1991；中国植物志 52（1）：154.1999;  
+Bot.Bull.Acad. Sin.43:316.2002；云南植物志 12：168.2006；Flora of China 13:165.2009;  
+广西植物志 119.2010.${ \bf \mu } = B { \bf \rho }$ . cavaleriei var. pinfaensis H.Léveille in Repert. Sp. Nov.7: 20. 1909. (Syntype: E!)${ \bf \xi } = B { \bf \xi }$ .esquirolii H. Léveillé in Bull. Acad. Geogr. Bot. 22: 228.1912； Fl. Kouy-Tcheou 40.  
+1914；Lingn. Sci. Journ.16（3）: 395.1937.${ \bf \mu } = B { \bf \rho }$ .nymphaefolia Yu in Bull. Fan Mem. Inst. Biology new ser. 1（2） :127.1948； Smithson.  
+Contr. Bot. 60: 206.1986.（Holotype: KUN! Lectotype:PE!)根状茎结节状或念珠状；叶基生，盾形，两侧近对称，厚纸质，无毛，下面叶脉粗而明
+
+显，呈淡红褐色；花白色或粉色，有香气；子房具3室，无毛。花期5一7月；果期7月。产马山、靖西、那坡、南丹、东兰、龙州：生于 $2 5 0 { \sim } 1 ~ 7 8 0 ~ \mathrm { m }$ 石灰岩山地密林下石上或者潮湿石壁上。分布于云南、贵州、海南。
+
+标本引证：税玉民9015（HAST）；河池[东兰，张肇骞11442（IBK）；梁慧舟 4057（HAST）；河池镇，梁慧舟4066（HAST）；南丹，黄志 41161（IBSC）；环江，韦发南2031（IBK）；滇黔桂队70001（IBK）；黄俞淞、廖云标和彭日成 y0117（IBK）；彭日成和杨金财ML0774（IBK））；百色（那坡，彭镜毅21123＆21132（HAST）]。
+
+13.凤山秋海棠（中国植物志）广西秋海棠（中国高等植物图鉴补编）
+
+Begonia chingi Irmscher in Mitt. Inst.Allg.Bot.Hamburg 10：519.1939；中国高等植物图鉴补编 2：538，543 in clavi，1983；Smithson.Contr.Bot.60：26 in clavi，150，Fig.8:40.1986；中国植物志 52（1）：204.1999；Bot.Bull.Acad.Sin.43：319.2002；Flora of China13：166.2009；广西植物名录 119.2010.（Isotype：B!Isoholotype：A!）落叶草本；根状茎近球形；叶片卵圆形，两侧对称；花被具柔毛；胎座不分裂。花期7-9月。
+
+产靖西、那坡、德保、龙州、环江，凤山（模式标本产地）：生于海拔 $4 5 0 { \sim } 9 4 0 \mathrm { m }$ 有河流的洞穴旁。
+
+标本引证：河池[环江，环江县普查队 451226130726015LY(IBK)；凤山，彭镜毅 24327，18760&21080（HAST）]；百色[靖西，彭镜毅21109，2110＆21115（HAST）；德保，彭镜毅 22105（HAST）]；崇左[龙州，梁慧舟3655（HAST）；天等，彭镜毅 19700，22077& 22117（HAST）]。
+
+# 14.周裂秋海棠（中国高等植物图鉴）
+
+Begonia circumlobata Hance in J. Bot. 21(7): 203. 1883; J. Linn. Soc., Bot. 23: 321.1887;Mitt. Inst.Allg.Bot.Hamburg10：542.1939；中国高等植物图鉴 23：939，图 3608.1972;Bull.Fan.Mem.Inst.Biol.1(2):124.1948;中国高等植物图鉴补编 2:537,540 in clavi.1983;云南种子植物名录 1：349.1983；Smithson.Contr.Bot.60：16.1986；贵州植物志 4：252,图91：3-4.1989；福建植物志 4：28，图 24.1989；广西植物志1：727，图294：1-2.1991;中国植物志 52（1）：265，图 42：4.1999；Bot.Bull.Acad.Sin.43：320.2002；Flora of China13：167.2009；广西植物名录119.2010.(TYPE：BM!ISOTYPE：SYS!)
+
+叶基生，上面散生短硬毛，下面散生糙伏毛， $5 { \sim } 6$ 深裂；雌花被片5枚，花柱2，柱头螺旋状扭曲呈环状。花期6月；果期7月。
+
+产资源、荔浦、平南、陆川、那坡、乐业、凤山、都安、金秀、环江：生于海拔 $2 5 0 \sim$ $1 ~ 1 0 0 \mathrm { m }$ 密林下石缝、山地、沟谷或溪边水旁。分布于福建、广东、贵州、湖北、湖南，模式标本采自广东廉江。
+
+标本引证：税玉民9011（HAST）；来宾[金秀，吕清华 40738（IBK）；大瑶山综考队10314（IBSC)&12992（IBK）；黄志 40612（IBSC)];河池[凤山，张肇骞11236（IBK）；都安，李荫昆P01844（IBK）；环江，环江县普查队451226130729019LY（IBK）]；贵港[平南，钟济新 74534（IBK)；黄志 40738(IBK,IBSC)]；百色[那坡，高锡朋 55865（IBSC)]。
+
+15.卷毛秋海棠（中国高等植物图鉴补编）皱波秋海棠（云南植物研究）
+
+Begonia cirrosa L. B. Smith & D. C. Wasshausen in Phytologia 52(7): 442. 1983; Smithson.Contr.Bot.60:28，87，88 in clavi，151，154.1986；中国植物志 52（1）：137.1999；Bot.Bull.Acad.Sin.43：314.2002；云南植物志12：149，图41：1-10.2006；Flora of China 13:167.2009；广西植物名录120.2010.
+
+=B. crispula T.T. Yu in Notes Roy.Bot. Gard. Edinburgh 21: 38.1951；not Brade（1950）;中国高等植物图鉴补编2:538，542 in clavi，图 8915.1983．（Holotype:RB!Isotype:KUN!)
+
+全株被卷曲长柔毛；叶基生，上面深绿色，下面紫褐色，基部偏斜，窄侧圆形，宽侧圆耳状；子房1室，长圆形，被毛；柱头3，扭曲呈U型。花期3一4月；果期4月。
+
+产南宁、靖西、那坡、龙州：生于海拔 $4 2 0 { \sim } 1 ~ 0 0 0 ~ \mathrm { m }$ 的密林中阴湿石灰岩石壁。分布于云南，模式标本采自富宁。
+
+标本引证：百色[龙州，陈少卿13915（IBSC）；靖西，张肇骞74870（IBK）；那坡，华南队819（IBSC）；彭镜毅 21550，21551，21558＆21604（HAST）]。
+
+# 16.弯果秋海棠 (Bot.Bull.Acad. Sin.)
+
+Begonia curvicarpa S. M. Ku, C.-I Peng & Yan Liu in Bot. Bull. Acad. Sin. 45: 353. Fig. 1-2.2004；Flora of China 13:169.2009；广西植物名录 120.2010．（Holotype:IBK! Isotypes: HAST!IBK!)
+
+根状茎肉质，伸长，Z字型横走；叶基生，上面被柔毛，下面被绒毛；托叶宿存；总花梗褐色至褐绿色，花梗红色至褐色，具红色斑点；子房1室，无毛，多少弯曲；蒴果具不等3翅，弯曲。花期8—11月；果期10—12月。
+
+产永福（模式标本产地）：生于海拔 $2 2 0 \mathrm { m }$ 阴湿的石灰岩石壁。
+
+标本引证：桂林[永福，彭镜毅19850&24065（HAST）；梁慧舟 3431（HAST）]。
+
+# 17.柱果秋海棠（植物研究）棵脉红（壮语）
+
+Begonia cylindrica D.R.Liang & X. X. Chen in Bull. Bot. Res., Harbin 13（3） : 217-219,Fig.1.1993；中国植物志 52（1):198.1999;Bot.Bull.Acad.Sin.43:322.2002; Flora of China13：169.2009；广西植物名录120.2010．（Holotype：GXMI!)
+
+根状茎伸长，匍匐或斜出；叶基生，盾形，厚纸质，两面红色，密被糙伏毛和疣状突起；果实浆果状，柱形，无翅。花期7月；果期8一9月。
+
+产龙州（模式标本产地）：生于海拔 $1 0 0 { \sim } 2 0 0 ~ \mathrm { m }$ 林下阴湿石灰岩石壁。
+
+标本引证：崇左[龙州，陈秀香等03046（GXMI）；弄岗综考队11336（IBK）；响水，梁慧舟3371& 3635（HAST）]。
+
+# 18.大围山秋海棠（云南植物研究）
+
+Begonia daweishanensis S. H. Huang & Y.M. Shui in Acta.Bot. Yunnan.16: 337，图 5.1994；Bot.Bull.Acad.Sin.43：320.2002；云南植物志 12：220，图 65：1-13.2006；Flora ofChina13：169.2009；广西植物名录120.2010.（Holotype：YUNU!）
+
+根状茎伸长；全株被短柔毛；叶基生，上面几无毛，下面沿脉密被灰色短柔毛，边缘全缘或微波状；花较大，粉红色；花丝微被毛；子房2室，微被毛；花柱2，离生。花果期不详。
+
+产武鸣、上林、全州、贺州、靖西：生于海拔 $2 2 0 { \sim } 1 ~ 5 0 0 ~ \mathrm { m }$ 的阴湿阔叶林下。分布于云南，模式标本采自屏边。
+
+标本引证：百色[靖西，彭镜毅 21178（HAST））；南宁（武鸣，方鼎和覃德海 24531（HAST）]。
+
+# 19.大新秋海棠（植物分类学报）
+
+Begonia daxinensis T.C.Ku in Acta Phytotax.Sin.35:45，Fig.26.1997；中国植物志 52  
+（1）：143.1999；Bot.Bull. Acad. Sin.43：314.2002；Flora of China 13：170.2009；广西  
+植物名录 120.2010．（Holotype：PE!）${ \bf \Psi } = B { \bf \Psi }$ 、 zhangiiD.Fang & D.H.Qin in Acta Phytotax. Sin.42:172，Fig.1.2004.
+
+叶基生，上面绿色具白色环状斑纹，草质或纸质，上面无毛，下面沿脉被贴伏柔毛；花白色或粉红色，雄花被片4枚，雌花被片3枚；蒴果无毛，具近等3翅。花期3一6月；果期4-6月。
+
+产靖西、天等、隆安、大新（模式标本产地）：生于海拔 $4 0 0 { \sim } 8 6 0 \mathrm { m }$ 阴湿石灰岩石壁。
+
+标本引证：崇左[大新，彭镜毅21519&21535（HAST）；梁慧舟3360，3360A&3360B（HAST）；天等，彭镜毅19695（HAST）]；南宁[隆安，张超良等033（GXMI）；张超良、覃德海和方鼎 73310（IBK）；杨金财和廖云标 TK012（IBK）]。
+
+# 20.德保秋海棠（Bot.Stud.）
+
+Begonia debaoensis C.-IPeng，Yan Liu& S.M. Ku in Bot.Stud.47: 2O7，Fig.1-2. 2006;Flora of China13：170.2009；广西植物名录 120.2010．（Holotype：HAST! Isotype：IBK!)$\scriptstyle = B$ 、bonii Gagnepain var.remotisetulosa Y.M. Shui& W.H.Chen in 云南植物研究 27(4）: 360.2005.
+
+根状茎细长，节间长；叶基生，上面沿脉绿色或深绿色，具白色或浅绿色斑点；雄蕊雌性化，基部具裸露的胚珠，顶端具乳突的柱头，无花药。花期8月至翌年1月。
+
+产德保（模式标本产地）：生于海拔 $5 6 0 { \sim } 6 0 0 ~ \mathrm { m }$ 石灰岩洞口石壁上。
+
+标本引证：百色[德保，彭镜毅19712-A（IBK）&21089，21090，22123（HAST）]。
+
+21.食用秋海棠（云南种子植物名录）葡萄叶秋海棠（中国高等植物图鉴）Begonia edulis H. Léveille in Repert. Spec.Nov. Regni Veg.7（131-133） : 20. 1909；Fl.Kouy-Tcheou 46.1914；Mit. Allg. Bot. Hamburg 10: 539.1939；Bull.Fan. Mem. Inst. Biol. 1（2）：123.1948；Not.Bot.Gard.Edinb.31（3）：433.1972；中国高等植物图鉴 2：938,图3605.1972；中国高等植物图鉴补编2：537，541in clavi.1983；云南种子植物名录1:349.1984；Smithson.Contr.Bot.60:16 in clavi，161，Fig.4：53.1986；贵州植物志 4：254.1989；广西植物志1：721，图 298：1-2.1991；中国植物志 52（1）：238.1999；Bot.Bull.Acad.Sin.43：321.2002；云南植物志12：202.2006；Floraof China13：172.2009；广西植物名录120.2010.（Type：E!）
+
+根状茎圆块状；地上茎直立，无毛；叶掌状浅裂或裂至1/3，如葡萄叶，上面散生短硬毛，下面沿脉疏被短毛；总花梗高过叶片，具沟槽及疣点。花期6一9月；果期8月。
+
+产凌云、巴马、龙州：生于海拔 $1 4 0 { \sim } 1 ~ 4 4 0 ~ \mathrm { m }$ 密林下岩石隙。分布于云南、四川、贵州、广东，模式标本采自贵州罗甸。
+
+注释：本种与槭叶秋海棠（B.digyna）形态相似，唯后者植株较矮小，雌雄花被片及蒴果均被长柔毛易于区分，之前采自德保（李中提 601930,IBK)和龙州（弄岗综考队 20357，IBK）的槭叶秋海棠可能系错误鉴定，应为食用秋海棠。由此，槭叶秋海棠可能不产于广西。
+
+标本引证：百色[那坡，彭镜毅21120（HAST）；靖西，彭镜毅21167＆21170（HAST）；德保，彭镜毅 19708,21093,22112＆22115（HAST)；靖西，彭镜毅 19735＆21184（HAST)];崇左[宁明，梁慧舟 3407（HAST）；龙州，李治基 3251（IBK）；梁慧舟3390（HAST）；梁慧舟3634（HAST）；彭镜毅19776（HAST）；大新，彭镜毅 20356（HAST）]；河池[环江，韦发南2099（IBK）；滇黔桂队 70129（IBK）；彭日成、莫水松和刘静 ML1826（IBK）；巴马，彭镜毅18747&18754（HAST）]；来宾[金秀，大瑶山综考队11565（IBK)&12866（IBSC)]；南宁[隆安，杨金财和廖云标 TK011（IBK)]；贺州[刘演和于胜祥 H0379(IBK）]。
+
+22.方氏秋海棠（Bot.Bull.Acad.Sin.）
+
+Begonia fangii Y.M. Shui & C.-I Peng in Bot. Bull. Acad. Sin. 46: 83，Fig. 1-2. 2005； Floraof China13：172.2009；广西植物名录 120.2010．（Holotype：HAST!)
+
+石生；根状茎匍匐状；叶基生，近革质，掌状复叶，具 $( 3 \sim ) ~ 4 { \sim } 5 ~ ( \sim 7 )$ 枚小叶，叶柄圆柱状；蒴果开裂，具近等3翅。花期11一4月；果期2一6月。
+
+产龙州（模式标本产地）：生于海拔 $3 2 0 { \sim } 7 0 0 \mathrm { m }$ 林下石灰岩石壁。
+
+标本引证：崇左[龙州，李阴昆0095（IBK）；梁慧舟3374（HAST）；彭镜毅19769& 19778（HAST）]。
+
+# 23.黑峰秋海棠（Bot.Stud.）
+
+Begonia ferox C.-IPeng & Yan Liu in Bot. Stud.54: 44,Fig.5-6.2013. （Holotype: HAST! Isotypes:E!IBK!PE!)
+
+根状茎粗壮；叶基生，卵圆形，纸质，先端急尖，表面具泡状隆起，沿脉密被棕黑色泡状毛，泡常圆锥状，顶端红色。花期1一5月；果期4一7月。
+
+产龙州（模式标本产地）：生于海拔 $1 3 0 \mathrm { m }$ 密林下岩石隙。
+
+标本引证：崇左[龙州，彭镜毅 22956（IBK）]。
+
+# 24.丝形秋海棠（中国高等植物图鉴补编）
+
+Begonia filiformis Irmacher in Mitt.Inst. Allg.Bot.Hamburg 1O：521.1939；中国高等植物图鉴补编 2：538，543 in clavi.1983；Smithson.Contr.Bot.60：88 in clavi.1986；中国植物志 52（1）：205，图36:1-4.1999；Bot.Bull.Acad.Sin.43：314.2002；Flora of China 13:173.2009；广西植物名录120.2010．（Type：K!）
+
+全株被褐色弯毛或长毛；根状茎扭曲；叶基生，膜质，表面暗褐色；子房3室，中轴胎座。花期（3）4—6月；果期5月。
+
+产隆安、靖西、宁明、龙州（模式标本产地）：生于海拔 $1 3 0 \mathrm { m }$ 路边林下潮湿的岩石穴内。
+
+标本引证:崇左[龙州,陈少卿 13915,13982(IBK)]};南宁[隆安，彭镜毅 20332(HAST)]。
+
+# 25.须苞秋海棠（云南植物研究）
+
+Begonia fimbribracteata Y. M. Shui & W. H. Chen in Acta Bot. Yunnan. 27（4） : 362，Fig.
+
+i.2005；Flora of China 13：173.2009；广西植物名录120.2010.（Holotype：KUN!）
+
+托叶宿存；叶基生，膜质，宽卵圆形，表面疏被基部膨大的刚毛，背面沿脉疏被糙伏毛，先端圆，基部斜心形；花序具花约5朵；子房1室，具近等3翅；花柱3，离生。花期6月。
+
+产东兰（模式标本产地）：生于海拔 $3 0 0 \mathrm { { m } }$ 石灰岩林下石上。
+
+标本引证：河池[东兰，彭镜毅 24324（HAST）]。
+
+26.紫背天葵（广东肇庆）散血子（云南种子植物名录）
+
+Begonia fimbristipula Hance in J.Bot. 21（7） : 202-203.1883；J.Linn. Soc.，Bot. 23:321.1887；Mitt Inst.Allg.Bot. Hamburg 10：507.1939；海南植物志 1：490.1964；中国高等植物图鉴2：941，图3612.1972；中国高等植物图鉴补编2：535，543 inclavi.1983；云南种子植物名录 1：349.1984；Smithson.Contr.Bot.60：22 in clavi，166.1986；福建植物志 4：26，图21.1989；广西植物志1：728，图294：5-6.1991；中国植物志 52（1）：190.1999；Bot.Bull.Acad.Sin.43：316.2002；云南植物志 12：181.2006；Flora of China 13:173.2009；广西植物名录 120.2010．（Type：KUN!Syntype：BM!）$\scriptstyle = B$ 、cyclophylla J. D. Hooker in Bot. Mag.113: t6926.1887； J.Linn. Soc.，Bot. 23: 321.1887；J.Bot.26:116.1888；Mitt.Inst.Allg.Bot.Hamburg 10:508.1939；中国高等植物图鉴2：942，图3613.1972.
+
+落叶草本；根状茎球状；叶基生，两侧相等，基部心形，表面淡绿色，背面紫色，疏被硬毛；托叶卵状披针形，边缘撕裂状。花期5月；果期6月。
+
+广布，产来宾、河池、防城港、桂林、贵港、百色：生于海拔 $2 7 0 { \sim } 1 ~ 3 0 0 ~ \mathrm { m }$ 遮荫石灰岩缓坡。分布于云南、广东、湖南、江西、浙江、福建，模式标本采自广东鼎湖山和罗浮山（合模式）。
+
+标本引证：来宾[金秀，彭镜毅21761，21764&21766（HAST）；梁慧舟3673＆3702（HAST）；大瑶山综考队14448（IBSC）]；河池[天峨，李中提 601513（IBK）；罗城，彭镜毅19836（HAST）；环江，环江县普查队 451226130605008LY（IBK）]；防城港[上思，梁向日69690（IBSC）；陈少卿 4892（IBSC）]；桂林[兴安，钟济新 80922（IBK）；钟济新 81769（IBK&IBSC）；花坪，童淑芬 5669；兴安，钟济新 81772（IBSC）；阳朔，覃灏富 700132（IBK）；龙胜，广福林区采集队 409（IBK）；临桂，陈立鄉 94745（IBK）；资源，李阴昆 401409（IBK）]；贵港[平南，黄志39282（IBK&IBSC）]；百色[凌云，陈立鄉 92307（IBK）]；玉林[容县，陈少卿 9638（IBK）]。
+
+# 27.巨苞秋海棠 （广西植物名录）
+
+Begonia gigabracteata H. Z. Li& H. Ma in Bot. J. Linn. Soc.157: 83-84, Figs.2, 3. 2008;广西植物名录 120.2010．（Holotype：KUN!Isotype：KUN!）
+
+落叶草本；根状茎不规则球状；叶基生，无毛，下面白色，海绵状，全缘，叶脉红色；叶柄疏被腺毛；圆锥花序，花序侧枝被两枚巨大苞片，花梗疏被腺毛，雌花花被片5枚。花期9—11月；果期12月至翌年1月。
+
+产天峨（模式标本产地）：生于海拔 $5 0 0 { \sim } 8 0 0 \mathrm { m }$ 溪边阴湿的石壁上。
+
+标本引证：河池[天峨，彭镜毅等 22174（HAST）]。
+
+28.金秀秋海棠（中国植物志）心叶秋海棠（植物分类学报）
+
+Begonia glechomifolia C. M. Hu ex C. Y. Wu & T. C. Ku in Acta Phytotax. Sin.33（3） :255-256.1995；中国植物志 52（1）：172.1999；Bot.Bull.Acad.Sin.43：316.2002；Flora ofChina13：175.2009；广西植物名录120.2010.（Holotype：IBSC！）
+
+落叶草本；全株近无毛；根状茎球形；地上茎具棱；叶基生或茎生，褐绿色，具 $5 { \sim } 7$ 条掌状脉，边缘不明显浅裂；花梗具棱，花2朵，聚伞状。花期6—9月。
+
+产金秀（模式标本产地）：生于海拔 $8 0 0 { \sim } 1 3 0 0 \mathrm { m }$ 阴湿石壁上。
+
+标本引证：来宾[金秀，彭镜毅21781（HAST）]。
+
+29.秋海棠（图考）八香，无名断肠草，无名相思草（本草拾遗）Begonia grandis Dryander in Trans.Linn. Soc. London, Bot.1: 163. 1791; Trans. Linn. Soc.  
+London 2: 336.1794；Mitt. Inst. Allg.Bot. Hamburg 10: 491.1939；Not. Bot. Gard. Edinb.31（3）：433.1972；云南种子植物名录1：350.1984；Smithson.Contr.Bot.60：128 in clavi,  
+Fig.12：21.1986；中国植物志 52（1）：163.1999；Contr.U.S.Natl.Herb.43：62.2002;  
+Bot.Bull.Acad.Sin.43：316.2002；竹溪植物志 660，661.2005；云南植物志 12：161.2006;  
+天目山植物志2：390，图2：493.2010；广西植物名录120.2010.$\scriptstyle = B$ evansiana Andr. in Bot. Reposit 10: Fig. 627. 1811; Curtis's Bot. Mag.36: t. 1473.1812;  
+Description des plantes rares cultivees a Malmaison et a Navarre/ par Aime Bonpland 154. 1813;  
+Prodr. 15(1): 313.1864; Franch. Pl. David.1: 136.1844; The flora of British India 2: 638.1879;  
+Bot.JLinn.Soc.23：321.1887；中国高等植物图鉴 2：934，图3598.1972；江苏植物志 2:  
+521，图1584.1982；安徽植物志3：493，图1519.1988；贵州植物志 4：251.1989；河北  
+植物志2：174，图1082.1989；福建植物志4：27，图 23.1990；广西植物志1：725，图  
+293：1-4.1991；北京植物志1：595，图756.1993；浙江植物志 4：242，图4：310.1993;  
+广东植物志3：144，图104.1995；河南植物志3：60，图1620.1997；山东植物志2：730,  
+图630.1997.$\scriptstyle = B$ .discolorR.Brown in Ait.Mort.Kew Ind.ed 2.5: 281.1813.$\scriptstyle = B$ 、erubescens Levl. in Repert.Nov. Sp.7: 21.1909.$\scriptstyle = B$ 、grandis subsp.evansiana（Andr.） Irmsch. in Mitt. Inst. Allg. Bot. Hamburg 10: 492.
+
+1939.“grandis contr.evansiana".
+
+# 29a.秋海棠（原亚种）
+
+# Begonia grandis subsp. grandis
+
+落叶草本；根状茎近球形；茎直立，多分枝，具珠芽；叶茎生，上面褐绿色具红晕，下面色淡带红晕或紫红色，脉紫红色；总花梗具棱，无毛。花期7月；果期8月。
+
+产柳城，凌云，乐业，都安：生于 $1 0 0 { \sim } 1 ~ 1 0 0 ~ \mathrm { m }$ 阴湿密林、山沟岩石上和山谷灌丛中。分布于中国河北、河南、山东、陕西、四川、贵州、湖南、湖北、安徽、江西、浙江、福建。日本、印度尼西亚爪哇、马来西亚、印度亦有分布。
+
+标本引证：桂林[龙胜，覃灏富、李中提 70905（IBK）；资源，钟济新 83487（IBK）];河池[凤山，陈立鄉 92261（IBK）]；来宾[金秀，大瑶山综考队810094（IBK）]；南宁[隆安，杨金财、胡仁传、刘静等 LH0572（IBK）]；贺州[刘演、于胜祥等 H0311（IBK）]。29b.中华秋海棠（亚种）（中国高等植物图鉴）珠芽秋海棠（云南种子植物名录）Begonia grandis subsp. sinensis（A. Candolle） Irmscher in Mit. Inst. Allg. Bot. Hamburg10：494.pl.13.1939“contr. sinensis”；Not.Bot.Gard.Edinb.31（3）：433.1972；云南种子植物名录1:352.1984；Smithson.Contr.Bot.60：174.1986.中国植物志52（1）：165.1999;Contr. U.S.Natl. Herb.43:62.2002；云南植物志 12:163.2006;Flora of China 13:176.2009;广西植物名录 120.2010.$\scriptstyle = B$ 、sinensis A. DC. in Ann. Sci. Nat. Bot. ser.4，11: 125.1859； Prodr.15（1） : 313.1864;Curtis's Bot.Mag.125（3: v.55） : t. 7673.1899；Le Jardin.1901:127.1887； Icon.Pl. Formos.2：45.1912；中国高等植物图鉴2：935，图3599.1972；安徽植物志3：494，图1520.1988;河北植物志 2：174，图1083.1989；贵州植物志 4：250.1989；福建植物志4：27.1990;广西植物志1：725，图293：5-6.1991；北京植物志1：595，图757.1993；浙江植物志 4:243，图4：311.1993；山东植物志 2：731，图632.1997；河南植物志3：61.1997.$\scriptstyle = B$ martini Léveille in Bull. Soc. Agr. Sci et Arts. De la Sarthe 59: 323.1904；Repert. Sp.Nov. 6: 376.1909.
+
+=B. bulbosa Léveillé.in Repert. Spec.Nov. Regni Veg.7: 21.1909.   
+$\scriptstyle = B$ ：yunnanensis auct. non Lévl. nec Irmscher.1939.
+
+直立茎细弱，不分枝；叶较小，椭圆状卵形或三角状卵形；花丝短于 $2 \mathrm { m m }$ ；花柱基部合生或微合生，分枝呈螺旋扭曲。花期7月；果期8月。
+
+产融水、龙胜、凤山：生于海拔 $3 0 0 { \sim } 2 ~ 9 0 0 ~ \mathrm { m }$ 山谷、山坡阴湿石灰岩岩石上。分布于河北、山东、河南、山西、甘肃、陕西、四川、贵州、湖北、湖南、广西、江苏、浙江、福建等省区。
+
+标本引证：桂林[龙胜，覃灏富和李中提 70905（IBSC）]。
+
+# 30.广西秋海棠（植物分类学报）
+
+Begonia guangxiensisC.Y.Wu in Acta Phytotax.Sin.35: 45，图 27.1997；中国植物志 52
+
+(1）：136.1999;Flora of China 13:176.2009；广西植物名录 120.2010.（Holotype:GXMI!)
+
+根状茎粗壮；叶基生，被褐色卷曲长毛；蒴果具不等3翅，大翅斜三角形，其余2翅窄，新月形，被短硬毛。花期1一3月；果期3一5月。
+
+产都安（模式标本产地）、宜州：生于海拔 $2 0 0 { \sim } 3 0 0 \mathrm { m }$ 阴湿石壁、林下和山洞中。
+
+标本引证：河池[宜州，覃德海、莫桢恒 55977(HAST)；都安，都安队 4-10-254(GXMI); 彭镜毅 19814（HAST）]。
+
+# 31.桂西秋海棠（Bot.Stud.）
+
+Begonia guixiensis Yan Liu， S. M. Ku& C.-I Peng in Bot. Stud.55: 52， Fig. 2-3. 2014.（Holotype:IBK! Isotypes: A!E!HAST!K! KUN! MO! PE!）
+
+全体被短硬毛；叶盾形，绿色，近革质，全缘；叶柄贴生；侧膜胎座；蒴果具不等 3翅。花期7—10月；果期8—11月。
+
+产崇左（模式标本产地）：生于海拔 $1 5 0 { \sim } 2 0 0 ~ \mathrm { m }$ 林下石灰岩石壁上。
+
+标本引证：崇左[彭镜毅 20310（HAST）]。
+
+# 32.谷龙山秋海棠 (PhytoKeys)
+
+Begonia gulongshanensis Y. M. Shui & W.H. Chen in PhytoKeys 94: 74-76， Fig.5.2018. (Holotype: KUN!)
+
+叶基生，卵状或卵状披针形，上面具白色半环状斑纹，沿主脉具深红色斑点，下面沿小脉具腺状长柔毛，基部略偏斜，顶端尾状，边缘具细齿；花序梗、花梗、花被片、蒴果被腺状长柔毛；花丝融合至半，大约 $1 \mathrm { m m }$ 。花期2—5月，果期5—6月。
+
+产靖西（模式标本产地）：生于海拔 $3 0 0 \mathrm { { m } }$ 沟谷石灰岩洞口阴暗潮湿的石壁。
+
+标本引证：百色[靖西，税玉民B2016-048（KUN）]。
+
+33.香花秋海棠（Flora ofChina）大香秋海棠（中国植物志）短茎秋海棠（海南植物志）Begonia handelii Irmscher in Akad. Wiss. Wien，Math.-Naturwiss. Kl.，Anz. 58: 24.1921.Mitt. Inst. Allg. Bot. Hamburg 6: 348.1927； Symb. Sin.7（2） : 385.1931； Bull. Fan. Mem. Inst.Biology new ser.1（2）：115.1948；海南植物志1：487.1964；中国高等植物图鉴补编2:536，541，图 8913.1983；云南种子植物名录 1：350.1984；Smithson.Contr.Bot.60：83 inclavi，176.1986；广西植物志1：723.1991；中国植物志 52（1）：210.1999；Flora of China13：177.2009；广西植物名录120.2010．（Holotypus：WU!)
+
+根状茎圆柱形，具匍匐枝，节处生多数细长的根；叶基生，叶片卵形至宽卵形，较小，几无毛；雌雄异株；花白色，极香；子房4室；柱头4；蒴果无翅，近四棱形。花期1月。
+
+# 33a.香花秋海棠（原变种）大香秋海棠（广西植物名录）
+
+# Begoniahandelii var.handelii
+
+雄花外轮2枚花被片 $3 \mathrm { \sim } 6 . 5 \mathrm { c m }$ ，无毛或近无毛，先端急尖；子房无毛或近无毛。
+
+产荔浦、平南、那坡、凌云、凤山、东兰、金秀：生于海拔 $1 0 0 { \sim } 1 5 0 0 \mathrm { m }$ 的阴湿林下。分布于中国云南、广东。越南也有分布。
+
+标本引证：河池[都安，彭镜毅 19815（HAST）；南丹，黄志41297（IBSC）]；防城港[东兴，彭镜毅 20277b（HAST）]；来宾[金秀，大瑶山综考队11710（IBSC）]；贵港[平南，黄志 103324，40767（IBSC）&39010（IBK）]。
+
+# 33b.红毛香花秋海棠 （变种） （Flora of China）
+
+Begonia handeliivar. rubropilosa（S. H. Huang & Y. M. Shui） C.-I Peng $\mathbf { \tau } = \mathbf { \tau }$ Begonia balansana Gagnep. var. rubropilosa S.H. Huang & Y. M. Shui in Acta Bot. Yunnan.21:12.1999.
+
+雄花花被片大，常 $3 { \sim } 6 . 5 \ \mathrm { c m }$ ，被红色长柔毛；子房被红色长柔毛。产防城港：生于海拔 $3 1 0 { \sim } 6 5 0 \mathrm { m }$ 林缘阴湿的岩石上标本引证：防城港[防城港区，彭镜毅 20287（HAST）]。
+
+33c.铺地秋海棠（变种）（云南种子植物名录）匍匐秋海棠（中国高等植物图鉴补编）Begonia handelii var. prostrata（Irmscher） Tebbitt in Edinburgh J. Bot. 6O: 6. 2OO3；Flora  
+ofChina13：178.2009；广西植物名录 120.2010.$\scriptstyle = B$ prostrata Irmscher in Mitt.Inst.Allg.Bot.Hamburg 10:516.1939；中国高等植物图鉴  
+补编2：536，541 in calvi.1983；云南种子植物名录1：351.1984；Smithson.Contr.Bot.60:  
+70，74，85 in clavi，219，图23：2.1986；中国植物志 52（1）：211.1999；Bot.Bull.Acad.  
+Sin.43：322.2002；云南植物志 12：235.2006.$\scriptstyle = B$ .chuniana C.Y.Wu in ActaPhytotax.Sin.33（3）：267，图13.1995；中国植物志 52  
+(1）: 246.1999.$\scriptstyle = B$ 、xinyiensis T.C.Ku in ActaPhytotax.Sin.33（3）：263，图11.1995；中国植物志 52（1）：170，图33：2.1999.雄花外轮2枚花被片 $0 . 8 { \sim } 2 \mathrm { c m }$ ，先端圆。产那坡：生于海拔 $1 0 0 { \sim } 1 5 0 0 \mathrm { m }$ 阴湿林下。分布于云南南部和西南部。注释：未见标本，尚待野外考察查证。
+
+34.掌叶秋海棠（中国高等植物图鉴）刺海棠、岩酸苔（思茅），鲁兴多（红河哈尼语）
+
+Begonia hemsleyana J. D. Hooker in Bot. Mag.125: pl. 7685.1899； Mitt Inst. Allg. Bot.Hamburg 10:537.1939；Bull.Fan Mem. Inst.Biology，new ser.1（2）：122.1948；中国高等植物图鉴2：939，图3607.1972；中国高等植物图鉴补编2：536，540 inclavi.1983；云南种子植物名录1：350.1984；Smithson.Contr.Bot.60：13 in clavi，177，图4：1.1986;广西植物志1：721，图 291:1-2.1991；中国植物志 52（1）：268.1999；Bot.Bull.Acad.Sin.43：321.2002；云南植物志12：189.2006；Floraof China13：178.2009；广西植物名录120.2010.（Isosyntype: K!)
+
+茎直立，分枝；叶基生或茎生，掌状复叶，羽状脉；总叶柄疏被毛；聚伞花序高于叶柄，花蔷薇色；子房2室，每室胎座裂片2，每裂片2深裂。花期11月；果期6月。
+
+# 34a.掌叶秋海棠（原变种）
+
+# Begoniahemsleyana var.hemsleyana
+
+叶茎生；叶柄被毛或近无毛；小叶具柄。  
+产那坡：生于海拔 $1 \ 1 0 0 { \sim } 1 \ 7 0 0 \ \mathrm { m }$ 密林、山谷、溪旁或阴湿岩石上。分布于云南、四川。  
+标本引证：李中提602381（IBK）。
+
+# 34b.广西掌叶秋海棠（变种）（中国植物志）
+
+Begonia hemsleyana var. kwangsiensis Irmscher in Mitt. Inst. Allg. Bot. Hamburg 10: 538.1939；中国植物志 52（1）：269.1999；Flora of China13：179.2009；广西植物名录120.2010.$\scriptstyle = B$ .hemsleyana auct. non Irmsch. in Sunyatsenia 4: 25.1939.叶基生或茎生，掌状复叶，基部2枚小叶片稍合生；叶柄无毛。产那坡、凌云：生于海拔 $1 2 0 0 { \sim } 1 3 0 0 \mathrm { m }$ 的峡谷深处。
+
+注释：据记载本种的模式标本采自凌云，但未见模式标本，自发表后亦未见采集标本，尚需进一步的查证。
+
+# 35.独牛（图考）柔毛秋海棠（中国高等植物图鉴）
+
+Begonia henryi Hemsley in J. Linn. Soc.，Bot. 23（155） : 322.1887； Mit. Inst. Allg. Bot.Hamburg 6: 346.1927； Symb. Sin.7 （2） : 384.1931； Bull Fan. Mem. Inst. Biol.1（2）:  
+127.1948；中国高等植物图鉴 2：942，图3614.1972；中国高等植物图鉴补编2：537，543in clavi.1983；云南种子植物名录1：350.1984；Smithson.Contr.Bot.60：24，66，67，79,  
+81 in clavi，177，Fig.8：22.1986；贵州植物志 4：260，图95：1.1989；广西植物志1:  
+728，图 294：3-4.1991；中国植物志 52（1）：201，图36:5-7.1999；Bot.Bull.Acad.Sin.  
+43：319.2002；云南植物志 12：184.2006；Flora of China13：179.2009；广西植物名录120.  
+2010.（Holotype:K!）$\scriptstyle = B$ 、delavayi Gagnepain in Bull. Mus. Hist. Nat. Paris 25: 197.1919.$\scriptstyle = B$ 、maireiLéveillé in Bull. Acad. Geogr. Bot. 22: 228.1912.
+
+落叶草本；根状茎球形；叶基生，先端圆，或偶有锐尖者；叶柄纤细，红色，无毛;聚伞花序基出，花被片2枚，桃红色；柱头2裂，头状。花期9—10月；果期10月。
+
+产龙胜：生于海拔 $1 0 0 0 { \sim } 1 6 0 0 \mathrm { m }$ 的山地密林下、溪边岩石上。分布于湖北、四川、贵州、云南，模式标本采自湖北。
+
+标本引证：桂林[龙胜，余少林、覃灏富 700434（IBK）]。
+
+# 36.膜果秋海棠（植物分类学报）
+
+Begonia hymenocarpa C.Y.Wu in Acta Phytotax. Sin.33（3）: 256，pl.5.1995；中国植物志 52（1）：160.1999；Bot.Bull.Acad.Sin.43:316.2002；Flora of China 13:180.2009;广西植物名录121.2010.（Holotype：KUN!）
+
+根状茎伸长；直立茎有棱，无毛；叶膜质，茎生，掌状脉5条；聚伞花序腋生或顶生；花柱3，离生；蒴果下垂，具不等3翅。花期7一8月；果期9月。
+
+产融水（模式标本产地）、龙胜、那坡、天峨、金秀、平南、花坪：生于海拔 $5 0 0 { \sim } 9 8 0$ $\mathbf { m }$ 阴湿林下。
+
+标本引证：来宾[金秀，大瑶山综考队11559（IBK）；梁慧舟3667（HAST）；大瑶山综考队 10080& 11559(IBSC)；吕清华 4445(IBSC)];贵港[平南，陈少卿 16309(IBSC)];桂林[花坪，袁淑芬和刘兰芳 5629& 5816(IBSC);龙胜，余少林和覃灏富 70金秀34(IBSC);李光照和唐赛春H4（IBK）；龙胜县普查队 450328130912021LY（IBK）]。
+
+# 37.侯氏秋海棠（海南植物志）
+
+Begonia howii Merrill& Chun in Sunyatsenia 5:138.194O；中国植物志 52(1):221.1999;Flora of China13：179.2009.
+
+茎直立；叶基生或茎生，无毛，基部截形至心形，边缘具不规则齿状；子房2室，中轴胎座；蒴果具不等3翅。花期6—7月。产于玉林、河池、百色：生于海拔 $3 6 0 \mathrm { m }$ 阔叶林下。分布于海南，模式标本采自保亭。注释：根据查阅标本信息，广西地区亦分布有该种，但尚需进一步的野外考察及形态观察证实该种是否确分布于广西地区。
+
+标本引证：玉林[李荫昆 404122（IBK)]；河池[东兰，南植地 5519（IBSC）]；百色[靖西，彭镜毅19734（HAST）]。
+
+# 38.靖西秋海棠（植物分类学报）
+
+Begonia jingxiensis D. Fang & Y. G. Wei in Acta Phytotax. Sin. 42: 172, Fig. 2. 2004; Flora of China 13：180.2009；广西植物名录 121.2010．（Holotype：IBK!Isotypes：GXMI! PE!) $\scriptstyle = B$ . mashanica D.Fang & D.H. Qin in Acta Phytotax. Sin. 42: 174， Fig. 3. 2004.
+
+根状茎瘤状，分枝；全株幼时被白色长柔毛，老时几无毛；叶背面绿色或深绿色，具白色或浅色马蹄形斑点。花期6一11月；果期8一11月。
+
+产马山、靖西（模式标本产地）、大新：生于海拔 $1 0 0 { \sim } 5 0 0 ~ \mathrm { m }$ 石灰岩石壁，石灰岩山洞入口处。
+
+标本引证：南宁[马山，覃德海和方鼎 31380(GXMI)];崇左[大新，彭镜 21499(HAST)；彭镜毅19732，19742，19748，19758（HAST）]；河池[环江，梁慧舟4065（HAST）；环江普查队 451226130719006LY（IBK）]；百色[靖西，韦毅刚0215（IBK）；彭镜毅 21176(HAST）]。
+
+39.心叶秋海棠（中国高等植物图鉴）俅江秋海棠（云南种子植物名录）丽江秋海棠（云南植物志)
+
+Begonia labordei H.Léveillé in Bull. Soc. Agric. Sarthe 59: 323.1904；Repert. Spec. Nov.  
+Regni Veg. 6: 376.1908/9; Fl. Kouy-Tcheou 46.1914; Cat.Pl. Yun-Nan 17.1916;Bull Mus. Natl.  
+Hist. Nat.25:282.1919；Fl. Gen.Indo-Chine 2:1098 in clavi.1921；Mitt. Inst.Allg.Bot.  
+Hamburg 6: 350-359.1927； Symb. Sin.7: 388.1931； Mit. Inst. Alg.Bot. Hamburg 10: 503.  
+1939；Bull.Fan Mem.Inst.Biology new ser.1（2）：115.1948；中国高等植物图鉴 2：943.  
+1972,excl.pl.Guangxi；云南种子植物名录1:350.1984; Smithson.Contr.Bot. 60:73 in clavi,
+
+186，Fig.24：6.1986；贵州植物志 4：262，图96.1989；中国植物志 52（1）：188.1999;Bot.Bull.Acad. Sin.43：316.2002；云南植物志 12:180.2006；Flora of China 13：181.2009;广西植物名录121.2010.（Type：P!)
+
+$\scriptstyle = B$ 、harrowiana Diels in Not.Bot.Gard.Edinb.5:166.1912. $\scriptstyle = B$ polyantha Levl. in Cat.Pl.Yunnan 17.1915.（Type:BM!) $\scriptstyle = B$ henryi $\times$ B. sinensis ?Irmsch.in Mitt. Inst.Allg. Bot.Hamburg 6: 356.1927.
+
+落叶草本；根状茎球形；叶基生，卵状心形，近对称；聚伞花序多个组成复花序，偏向一侧形成不对称的圆锥花序；子房被红色腺柔毛。花期8月；果期9月。
+
+产金秀：生于海拔 $1 7 0 0 { \sim } 3 3 0 0 \mathrm { m }$ 的密林下阴湿岩石上及溪边。分布于中国云南、四川、贵州，模式标本采自贵州。缅甸亦有分布。
+
+标本引证：来宾[金秀，李荫昆400652（IBK）]。
+
+# 40.灯果秋海棠 （中国植物志）
+
+Begonia lanternaria Irmscher in Mitt. Inst. Allg. Bot. Hamburg 1O: 555.1939； SmithsonContr.Bot.60：85 in clavi，189，Fig.26：18.1986；中国植物志 52（1）：135，图 28：2-3.1999；Bot.Bull.Acad.Sin.43：314.2002；Flora of China 13：182.2009；广西植物名录 121.2010.（Type:K!）
+
+叶厚纸质，褐绿色，无毛，边缘有细密之齿，幼时齿带短芒，基部偏斜，宽侧呈宽大耳状；叶柄具纵棱，疏被卷曲长毛。花期8月；果期9月。
+
+产靖西、那坡、龙州（模式标本产地）：生于海拔 $4 0 0 \mathrm { { m } }$ 河边遮荫石灰岩石壁上。
+
+标本引证：百色[那坡，彭镜毅 21118（HAST）]；崇左[龙州，陈少卿13982（IBSC）；谭沛祥 57132（IBSC）；弄岗综考队10694（IBK）；彭镜毅 19789（HAST）]。
+
+# 41.圆翅秋海棠（薄叶秋海棠）
+
+Begonia laminariae Irmscher in Notes Roy.Bot. Gard.Edinburgh 21:4O.1951；Flora of China 13: 181.2009.
+
+叶基生，叶深裂至2/3，常具 $\scriptstyle 7 \sim 9$ 个小裂片；雌花被片5枚，不等，子房2室，中轴胎座；蒴果具不等3翅。花期6月；果期9月。
+
+产那坡：生于海拔 $4 2 0 \mathrm { m }$ 石灰岩石壁。分布于中国贵州、云南，模式标本采自麻栗坡。越南亦有分布。
+
+注释：根据标本信息，本种在广西那坡亦有分布，尚需野外考察及形态观察以确定该种是否为广西分布类群。
+
+标本引证：百色[那坡，彭镜毅 21562（HAST）]。
+
+# 42.雷平秋海棠 （Phytotaxa）
+
+Begonia leipingensis D. K. Tian， L. H. Yang & C.Li in Phytotaxa 244(1): O45-056. Fig.5, 6.2016. (Holotype: CSH!)
+
+根状茎匍匐；掌状复叶基生；小叶披针形螺旋状排列，具 $2 \sim 1 2$ 片多 $3 { \sim } 7$ 片；叶柄及小叶柄直立，褐色具稀疏白色斑点；花序腋生，二歧聚伞状；雄花被片4枚，白色至淡粉色；雌花被片3枚，白色至淡粉色；蒴果具不等三翅。花期8—9月；果期9—11月。
+
+产雷平（模式产地）：生于海拔 $2 6 0 { \sim } 2 7 0 \mathrm { m }$ 林下阴湿、灌丛遮荫处石灰岩上。
+
+标本引证：崇左[雷平，田代科 TDK-2270（CSH）]。
+
+43.獭叶秋海棠（云南种子植物名录）团扇叶秋海棠（中国高等植物图鉴）
+
+Begonia leprosa Hance in J.Bot. 21: 202.1883； J.Linn. Soc.，Bot.23: 322.1887； Mitt.Inst.Allg.Bot.Hamburg 10：518.1939；中国高等植物图鉴 2：945，图 3620.1972；中国高等植物图鉴补编 2:536,541 in clavi.1983；云南种子植物名录 1:351.1983；Smithson.Contr.Bot.60：75，76 in clavi，190，Fig.24：22.1986；广西植物志1:728.1991；中国植物志 52（1）：149.1999；Bot.Bull. Acad. Sin.43：322.2002；Flora of China 13：182.2009；广西植物名录121.2010．（Holotype：BM！）
+
+$\scriptstyle = B .$ bretschneideriana Hemsley in Icon.Pl.ser.4，7，Fig.2635.1901.（Type：B!)
+
+根状茎结节状，分枝；叶基生，密被细小下陷圆形窝孔，上面褐绿色，具白斑；蒴果纺锤形，被圆形窝孔，无翅。花期5一9月；果期6一10月。
+
+产阳朔、兴安、苍梧、平南、那坡、来宾、宁明、龙州：生于海拔 $1 0 0 { \sim } 8 0 0 \mathrm { m }$ 林下阴湿处、路边阴湿处或山坡阴湿岩石上。分布于广东，模式标本采自连县。
+
+标本引证：河池[东兰，南植地5519（IBK）；彭镜毅 24348（HAST）；都安，梁慧舟 3415（HAST）]；崇左[大新，王善龄 4103（IBK）；宁明，梁向日68135（IBK）；天等，彭镜毅 22078（HAST）]；南宁[隆安，杨金财、胡仁传和刘静 LH0224（IBK）；彭镜毅 20333，20338，20344（HAST）；梁慧舟338（HAST）]；桂林[阳朔，陈照宙53882（IBK）；李光照11797（IBK）；彭镜毅 18737（HAST）]；来宾[金秀，大瑶山综考队13790（IBSC））；梧州（苍梧，陈少卿10051（IBSC）]。
+
+44.黎平秋海棠（中国植物志）指裂叶秋海棠（广西植物志）
+
+Begonia lipingensis Irmscher in Mitt Inst. Allg. Bot. Hamburg 6: 353.1927； Symb. Sin. 7(2）：387.1931； Not.Bot.Gard.Edinb.31（3）: 434.1971； Smithson.Contr.Bot.60:19 inclavi，191，Fig.5：27.1986；广西植物志1：727.1991；中国植物志 52（1）：242.1999;Bot.Bull.Acad.Sin.43：321.2002；Flora of China 13：182.2009；广西植物名录 121.2010.（Type:B! Holotype:WU!)
+
+茎直立；叶多基生，常在中部具一枚茎生叶， $5 { \sim } 6$ 深裂；叶柄被锈褐色卷曲长毛，聚伞花序，腋生；雌花具6枚花被片；子房2室，中轴胎座。花期7—8月。
+
+产三江、龙胜；生于 $3 0 0 { \sim } 1 ~ 1 0 0 ~ \mathrm { m }$ 岩石、灌丛阴湿处。分布于贵州、湖南，模式标本采自贵州黎平。
+
+标本引证：桂林[龙胜，覃灏富和李中提 70904（IBK）]。
+
+45.石生秋海棠（植物分类学报）石灰秋海棠（广西植物名录）
+
+Begonia lithophila C.Y.Wu in Acta Phytotax. Sin.33（3）: 257-258，pl. 6.1995；中国植物志 52（1）：195.1999；Bot.Bull.Acad.Sin.43：319.2002；云南植物志12：184.2006;Flora of China 13：182.2009；广西植物名录 121.2010．（Holotype：KUN!）
+
+根状茎球状或块状；叶基生，五角形，常5中裂，基部裂片最短；雌花具3枚花被片。花期9—10月；果期11月。
+
+产乐业，隆林：生于海拔 $1 7 0 0 { \sim } 2 0 0 0 \mathrm { m }$ 石灰岩山洞及礁灰岩。分布于云南，模式标本采自路南石林。
+
+标本引证：百色[乐业，乐业队3-30143（GXMI）；隆林，韦腾辉3-34559（GXMI）；陈旺业 3-34069（GXMI）]。
+
+# 46.刘演秋海棠（Bot.Bull.Acad.Sin.）
+
+Begonia liuyaniiC.-I Peng， S. M. Ku & W. C. Leong in Bot. Bull. Acad. Sin. 46: 245，Fig.  
+1-3.2005;Flora of China 13:183.2009;广西植物名录 121.2010.（Holotype:HAST! Isotypes:  
+A! IBK!)${ \bf \mu } = B { \bf \sigma }$ ：gigaphyll Y.M.Shui&W.H.Chen in 云南植物研究 27:362，Fig.6.2005.叶基生，表面明亮，下面绿色，疏被刚毛；圆锥花序， $3 { \sim } 6$ 回分枝，具 $1 3 \sim 1 0 0$ 朵花；  
+总花梗被毛；蒴果开裂，被红色腺状刚毛。花期4一9月；果期6月至翌年2月。产龙州（模式标本产地）：生于海拔 $2 0 0 { \sim } 7 2 0 ~ \mathrm { m }$ 阔叶林下、石灰岩山坡阴湿处。标本引证:崇左[龙州，彭镜毅 20388（HAST)；梁慧舟 3398（HAST)&3624-A（IBK)]。
+
+# 47.隆安秋海棠（植物分类学报）
+
+Begonia longanensis C. Y.Wu in Acta Phytotax. Sin.35（1）: 54-56，pl.32.1997；中国植物志52（1）：252.1999；Bot.Bull.Acad.Sin 43：321.2002；Flora of China 13:183.2009;
+
+广西植物名录 121.2010．（Holotype：GXMI!）
+
+全株被短刺毛；叶基生，上面几无毛，下面沿脉被短小刺毛，掌状脉8条；总花梗被短卷曲毛；子房2室。花期6月。
+
+产隆安（桥建，模式标本产地）：生于海拔 $7 0 0 { \sim } 1 0 0 0 \mathrm { m }$ 山谷沟边。
+
+标本引证：南宁[隆安，高成芝等73165（GXMI）；武鸣，吴磊和蒋日红D0573&D0799（IBK）；上林，吴磊和杨金财D3330（IBK）]。
+
+# 48.弄岗秋海棠 (Bot. Stud.)
+
+Begonia longgangensis C.-I Peng & Yan Liu in Bot. Stud. 54: 44，Fig. 1-2. 2013. （Holotype:HAST!Isotype:IBK!）
+
+地下茎匍匐状，生出的匍匐茎达 $1 5 0 \ \mathrm { c m }$ 以上；叶均基生，上面疏被红色粗糙隆起，下面沿脉被绒毛；聚伞圆锥花序，腋生，直接从地下茎或匍匐茎生出；总花梗无毛；花丝合生成柱状；蒴果红色。
+
+产龙州（模式标本产地）：生于海拔 $1 7 0 \mathrm { m }$ 石灰岩山地林下石壁上。
+
+标本引证：崇左[龙州，彭镜毅 22930（IBK）]。
+
+# 49.粗喙秋海棠 （海南植物志）
+
+Begonia longifolia Blume in Catalogus 1O2.1823； Smithson. Contr. Bot. 60: 192.1986;  
+Flora of China13：184.2009；广西植物名录 121.2010．（Lectotype：B!)=B. aptera Hayata in Mat.Fl.Formos 30 （1） : 122.1911；not Blume in Lingn. Sci. Journ.  
+6:380.1928；not Roxburgh in Fl. Ind.3: 650.1832；not Decaisne in Nouv. Ann. Mus. Hist. nat.  
+Paris.t3:451.1834；Icon.Pl.Formos 2: 43.1912；6:21.1916；Bull.Fan. Mern.Inst. Biology  
+1（2）：114.1948，p.p.min；台湾植物志（第二版）3：846，图69.1993.$\scriptstyle = B$ .crassirostris Irmscher in MittInst.Allg.Hamburg 10:513.1933；海南植物志 1：488,  
+图267.1964；中国高等植物图鉴2：936，图3602.1972；中国高等植物图鉴补编2：535，  
+538 in clavi.1983；云南种子植物名录 1：349.1984；Smithson.Contr.Bot.60：112 in clavi,  
+154，Fig.30：53.1986；贵州植物志4：248，图90：1-4.1989；福建植物志4：25，图 22.  
+1989；广西植物志1：725，图 292：5-6.1991；广东植物志3：147.1995；中国植物志 52（1）：150.1999；Bot.BullAcad.Sin.43：322.2002；云南植物研究 12：228，图 68：1-10.  
+2006.$\scriptstyle = B$ 、hayatae Gagnepain. in Bull.Mus.Hist.Nat.（Paris） 25: 282.1919；List. Vasc.Pl.
+
+Taiwan 58.1954；台湾植物志（第一版）3：796，图821.1977；Smithson.Contr.Bot.60：176.
+
+1986.
+
+全株几无毛；根状茎不规则块状；直立茎具分枝；叶互生；花白色，花丝离生，花药长圆形；子房近球形，顶端具粗喙；蒴果近球形，无翅，无棱。花期4一5月；果期7月。
+
+广布，产河池、南宁、百色、防城港、贵港、来宾、玉林、桂林、桂平、梧州、贺州：生于海拔 $2 0 0 { \sim } 1 ~ 4 0 0 ~ \mathrm { m }$ 林下阴湿处。分布于中国福建、广东、海南、湖南、贵州、云南、江西、台湾。不丹、印度、印度尼西亚、老挝、马拉西亚、缅甸、越南、泰国也有分布。
+
+标本引证：河池[东兰，彭镜毅18768（HAST）]；百色[田林，张肇骞10990（IBK，IBSC）；李中提601883（IBK）；凌云，华南队1406（IBSC）；龙州、广西省立博物馆 5775（IBSC）；邓先福10436（IBK）；天等，彭镜毅21121（HAST）；德保，彭镜毅19715（HAST）；靖西，彭镜毅19737（HAST）；那坡，李光照和唐赛春 267（IBK）]；防城港[彭镜毅 20298(HAST)];贵港[平南，黄志 39914(IBSC)];崇左[龙州，弄岗综考队 10103（IBK）；陈少卿12619（IBSC）]；来宾[金秀，吕清华 3854（IBK）；大瑶山综考队 810792（IBK），12339（IBSC）]；玉林[博白，钟树权A93785（IBK）]；桂平[平南，钟济新 64616（IBK）；黄志 39914（IBK）]；梧州[钟树权 302011（IBK）]；贺州[刘演和于胜祥 H0241,H0283（IBK）]；河池[罗城，罗城县普查队 451225130610020LY（IBK）]。
+
+50.罗城秋海棠 （Bot.Bull. Acad. Sin.)
+
+Begonia luochengensis S.M. Ku， C.-I. Peng & Yan Liu in Bot. Bull. Acad. Sin. 45: 357, Fig.4-5.2004；Flora of China 13：184.2009；广西植物名录 121.2010.(Holotype：IBK! Isotypes: HAST! IBK!)
+
+叶基生，上面沿中脉具白色斑纹，沿二级脉浅绿色，二级脉之间深褐色至紫红色，下面红色；二歧聚伞花序生于根状茎；子房1室，粉红色，无毛；蒴果下垂，开裂。花期8—11月；果期9—12月。
+
+产罗城（模式标本产地）：生于海拔 $2 0 0 { \sim } 3 7 0 \mathrm { m }$ 石灰岩山地林下石壁上。
+
+标本引证：河池[罗城，罗城普查队 451225130307041LY（IBK)；彭镜毅24306（HAST);梁慧舟 3419（HAST）]。
+
+# 51.鹿寨秋海棠（植物分类学报）
+
+Begonia luzhaiensis T. C. Ku in Acta Phytotax. Sin.37: 287，Fig.1:1-2.1999；Bot. Bull. Acad.Sin.43：314.2002；Flora of China 13：185.2009；广西植物名录 121.2010.（Holotype: PE!)
+
+叶基生，上面常沿叶脉间或近叶脉具浅绿色至白色斑纹，具5或6条主脉，三级脉细密
+
+网状，边缘浅裂；子房1室，无毛。花期5一11月；果期6月至翌年1月。
+
+产鹿寨（模式标本产地）、融水、忻城、阳朔、天峨、永福：生于海拔 $1 0 0 { \sim } 1 \ 0 0 0 \ \mathrm { ~ m }$ 石灰岩山坡阴湿石壁或山洞洞口石壁上。
+
+标本引证：桂林[永福，彭镜毅 24374（HAST）；阳朔，陈照宙53128（IBK）；彭镜 毅18732&18735（HAST）；临桂，彭镜毅 20276（HAST）]；百色[凌云，彭镜毅 24344 & 24346（HAST）]；柳州[融水，梁慧舟 3421（HAST）；鹿寨，梁慧舟 3708（HAST）]。
+
+# 52.铁甲秋海棠（中国植物志）
+
+Begonia masoniana Irmscher ex Ziesenhenne in Begonian 26: 202-203，231.1959;Smithson.Contr.Bot.60:77，78，87 in clavi，198，Fig.S26.1986；中国植物志 52（1）：137，图 29:1-4.1999；Bot.Bull.Acad.Sin.43：314.2002；Flora of China 13:185.2009;广西植物名录 121.2010．（Typus：B!）$\scriptstyle = B$ 、masoniana Irmsch. var. maculata S. K. Chen，R. X. Zheng & D. Y. Xia in Acta Bot.Yunnan.8（2）:222.1986.（Typus:KUN!)
+
+叶基生，上面密被锥状长硬毛，沿主脉上面黑褐色下面红色条带；圆锥状二歧聚伞花序，具20-100 朵花；花丝离生；雌花被片3枚；子房被紫色长毛。花期3—9月；果期6—9月。
+
+产凭祥、龙州：生于海拔 $1 0 0 { \sim } 3 5 0 \mathrm { m }$ 石灰岩山地林下石上。越南也有分布。
+
+标本引证：崇左[凭祥，彭镜毅19795＆24365（HAST）；梁慧舟3658（HAST）]。
+
+# 53.龙州秋海棠（中国植物志）
+
+Begonia morsei Irmscher in Mitt. Inst. Allg. Bot. Hamburg 10: 554. 1939； Smithson. Contr.Bot.60:77in clavi，202，Fig.24：33.1986；中国植物志 52（1）：139，图30:3-4.1999;Bot.Bull.Acad.Sin.43：314.2002；Flora of China 13：187.2009；广西植物名录 121.2010.(Typus: K!)
+
+根状茎圆柱形呈念珠状；叶基生，具斑纹；子房1室，无毛；蒴果具近等3翅，翅半月形，无毛。花期9一11月；果期11月。
+
+# 53a.龙州秋海棠（原变种）
+
+# Begonia morsei var. morsei
+
+叶上面具白色环状条带；花序和花被片均无毛。
+
+产龙州（模式标本产地）：生于海拔 $3 6 0 { \sim } 1 ~ 4 0 0 ~ \mathrm { m }$ 林下阴湿岩石上，洞穴中。分布于云南麻栗坡。
+
+标本引证：崇左[龙州，弄岗综考队10427（IBK）]。
+
+# 53b.密毛龙州秋海棠（变种）（云南植物研究）
+
+Begonia morsei var. myriotricha Y. M. Shui & W. H. Chen in Acta Bot. Yunnan. 27 （4） :  
+368.2005;Flora of China13:187.2009；广西植物名录 121.2010.（Holotype:KUN! Isotype:  
+PE!)叶片正面叶脉间具白色斑点；花序和花被片均被毛。产德保（模式标本产地）、靖西：生于海拔 $7 0 0 \mathrm { { m } }$ 次生林下石灰岩山壁上。标本引证：百色[德保，税玉民、陈文红和张美德B2005-150（KUN&PE）]。
+
+# 54.宁明秋海棠 (Bot.Stud.)
+
+Begonia ningmingensis D. Fang， Y. G. Wei & C.-I Peng in Bot. Stud. 47: 97, Fig.1-2. 2006. Flora of China 13:188.2009；广西植物名录 121.2010.（Holotype:HAST! Isotypes:A! GXMI! IBK!MO!PE!)
+
+叶基生，上面沿主脉具白色斑点，被长刚毛，下面红色；花药顶端微凹；子房1室，无毛，绿色。花期8一11月；果期10月至翌年1月。
+
+# 54a.宁明秋海棠 （原变种）
+
+# Begonia ningmingensis var. ningmingensis
+
+叶宽卵形至近圆形，上面沿脉具白色斑点，下面红色，先端渐尖或急尖；雌花早落，宿存时果时不增厚。
+
+产胡润、大新、宁明（模式标本产地）、龙州：生于海拔 $1 0 0 { \sim } 4 0 0 ~ \mathrm { m }$ 阔叶林石灰岩石壁上。
+
+标本引证：崇左[胡润，彭镜毅 20320（HAST）；宁明，梁慧舟3410A（GXMI)&3410B （HAST）；龙州，梁慧舟3404（HAST）；大新，彭镜毅19763B（HAST）]。
+
+# 54b.丽叶秋海棠（变种） (Bot. Stud.)
+
+Begonia ningmingensis var. bella D. Fang， Y. G. Wei & C.-I Peng in Bot. Stud. 47: 101, Fig.5-6.2006；Flora of China 13：188.2009；广西植物名录 121.2010.（Holotype：GXMI! Isotypes: GXMI! IBK! PE!)
+
+叶近圆形或肾形，上面沿主脉具白色斑纹，先端钝或圆；果时雌花被片宿存并增厚。花期9—10月；果期11—12月。
+
+产大新（雷平，模式标本产地）：生于海拔 $2 0 0 { \sim } 3 0 0 \mathrm { m }$ 石灰岩石壁上。
+
+标本引证：崇左[大新，韦毅刚 0221（GXMI）；彭镜毅19763（HAST）［。
+
+55.不显秋海棠（云南植物志）侧膜秋海棠（中国植物志）麻栗坡秋海棠（云南种子植物
+
+名录）
+
+Begonia obsolescens Irmscher in Notes Roy. Bot. Gard. Edinburgh 21（1） : 37-38.1951;中国高等植物图鉴补编 2：538，541 in clavi.1983；Smithson.Contr.Bot.60：77，87 in clavi,207.1986；中国植物志52（1）：141.1999；云南植物志12：174，图50：1-9.2006；Floraof China 13：189.2009；广西植物名录 121.2010.（Holotype：KUN!)
+
+$\scriptstyle = B .$ fengiiT.C.Ku in Acta Phytotax. Sin.33(3):269.1995；中国植物志 52(1):184.1999.
+
+根状茎扭曲成之字形；叶基生，上面散生短硬毛，下面沿脉有长卷曲毛；花丝基部合生；雌花被片5枚，白色至粉红色；被绒毛；子房被长绒毛，3室，中轴胎座；蒴果具近等3翅。花期5—6月；果期5—6月。
+
+产融水、靖西、罗城：生于海拔 $5 0 0 { \sim } 8 5 0 ~ \mathrm { m }$ 林下溪边。分布于云南，模式标本采自麻栗坡。
+
+标本引证：柳州[融水，陈少卿16363（IBK）]；百色[靖西，彭镜毅 22083（HAST）];河池[罗城，彭镜毅 19832（HAST）]。
+
+56.鸟叶秋海棠（Flora ofChina）乌叶秋海棠（中国植物志）
+
+Begonia ornithophylla Irmscher in Mitt Inst. Allg. Bot. Hamburg 1O: 556.1939； Smithson.Contr.Bot.60:73，74，85 in clavi，208，Fig.24：4.1986；中国植物志 52（1）：132，图28：1.1999；Flora of China 13：189.2009；广西植物名录121.2010.（Typus：K!)
+
+全株近无毛；根状茎结节状；叶基生，斜长卵形至斜卵状宽披针形；雌花被片3枚；蒴果具近等3翅，翅新月形。花期3一9月；果期3一9月。
+
+产龙州（模式标本产地）、宁明、胡润、大新：生于海拔 $1 0 0 { \sim } 6 8 0 \mathrm { m }$ 林下石灰岩石壁上。
+
+标本引证：百色[胡润，彭镜毅 21181（HAST)]；崇左[龙州，弄岗综考队12062（IBK）；宁明，梁慧舟 3405（HAST)；梁慧舟 3637（HAST)；大新，彭镜毅 20362& 20366（HAST)]。
+
+# 57.裂叶秋海棠（海南植物志）
+
+Begonia palmata D. Don in Prodr. Fl. Nepal. 223.1825; Horticulturist v1: 380.1846; Fl. E.Himal.215.1966，et 2:84.1971；Photo-Album Pl.E. Himal.7，Fig.60.1968；Enum.Flow.Pl.Nepal 2：182.1979；中国高等植物图鉴补编 2：536，540 in calvi.1983，p.p.quoad Xizang etYunnan; Smithson.Contr. Bot.60:19 in clavi,209,Fig.4: 58.1986；西藏植物志 3: 311.1986;河南植物志 3：61，图 1621.1997；中国植物志 52（1）：232.1999；Bot.Bull.Acad.Sin.43:321.2002；云南植物志12:193.2006;Flora of China13：189.2009；广西植物名录121.2010.
+
+（Lectotype: BM!）$\scriptstyle = B$ 、laciniata Roxburgh ex Wallich in Num List.No.3678B.1831， nom. nud.；Fl. Ind. 3:  
+649.1832；Hamburger Garten-Blumenzeitung 14: 128.1852； Gartenflora Bd.7: 161. 1858;  
+Fl. Brit. Ind.2: 645.1879; Fl. Hongk.126.1861; Fl.Brit. Ind.2: 645.1879; Phytologia 40（1）:  
+12.1978；中国高等植物图鉴2：937，图3603.1972；河北植物志2：175，图1085.1989;  
+北京植物志1：597.1993；台湾植物志（第二版）3：851，Fig.428.1993；山东植物志 2：  
+732.1997；天津植物志 416.2004.$\scriptstyle = B$ . laciniata var. nepalensis A. Candolle. in Prodr.15（1） : 348. 1864；Mitt. Inst. Allg. Bot.  
+Hamburg 10: 526.1939.$\scriptstyle = B$ 、laciniata var. tuberculosa C.B. Clarke in Fl. Brit. Ind.2: 645.1879.直立茎具明显沟纹；叶多茎生，下面沿脉密被绒毛， $3 { \sim } 7$ 浅至深裂，裂片常再浅裂;  
+总花梗具明显沟纹，密被褐色绒毛；子房被褐色毛；蒴果具不等3翅，翅具明显纵纹，无毛。  
+花期6—8月，11—12月；果期7—11月。
+
+# 57a.裂叶秋海棠（原变种）
+
+# Begonia palmata var. palmata
+
+茎和叶柄被卷曲褐色交织柔毛；叶上面被硬毛。
+
+广布，产桂林、玉林、来宾、贵港、梧州、贺州、百色、河池、防城港、崇左：生于海拔 $2 7 0 { \sim } 2 ~ 0 0 0 ~ \mathrm { m }$ 灌丛、常绿阔叶林、溪边或山谷缓坡。分布于中国西藏、云南、广东、海南。印度，孟加拉国，尼泊尔东部，锡金，不丹，缅甸，越南也有分布。
+
+标本引证：桂林[龙胜，李中提和覃灏富70543（IBSC）；余少林和覃灏富 700441 （IBSC）]；贺州[陈亨春、余树桑和陈抢祥 500177（IBSC）]；玉林[博白，钟树权 A63817 （IBSC）]；来宾[金秀，李阴昆400331（IBSC）；大瑶山综考队13705（IBSC）；吕清华 4446（IBSC）；彭镜毅21768（HAST）；梁慧舟3662（HAST））；贵港（平南，汪振儒 5080（IBSC）]；梧州[苍梧，陈少卿10273（IBSC）]；百色[田林，张肇骞11031（IBSC）； 彭镜毅 22133（HAST）；靖西，高锡朋 55531（IBSC)]；河池[凤山，张肇骞11269（IBSC）; 罗城，彭镜毅19838（HAST）]；防城港[防城区，彭镜毅 20289（HAST）]；崇左[扶绥， 陈少卿12020（IBSC）；龙州，弄岗综考队10497（IBK）]。
+
+# 57b.红孩儿（变种） （图考）
+
+Begonia palmata var. bowringiana （Champion ex Bentham） Golding & Karegeannes inPhytologia 54：494.1984；Smithson Contr.Bot.60：209.1986.中国植物志 52（1）：234;
+
+云南植物志12：194，图54：5-11.2006；Flora of China13：190.2009；广西植物名录121.  
+2010.
+
+$\scriptstyle = B$ ，bowringiana Champ.ex Benth.in Journ. Bot. Gard. Misc. 4: 120.1852；Curtis'sbotanical magazine 86: t5182.1860.=Doratometra bowringiana Seemann in Bot. Voy.“Herald" 379. 1857.$\scriptstyle = B$ .laciniata Y bowringiana A.DC.Prodr.15 （1） : 348.1864.$\scriptstyle = B$ 、edulis Lévl. var. henryi Lévl. in Repert. Spec. Nov. Regni Veg.7: 20. 1909； Cat. Pl.
+
+Yun-Nan 17.1916. $\scriptstyle = B$ laciniata Roxb. subsp. principalis Irmsch. in Mit. Inst. Alg. Bot. Hamburg 1O: 530,Fig.
+
+7.1939“euta principalis"； Phytologia 54: 495.1984.$\scriptstyle = B$ 、laciniata subsp.bowringiana Irmsch. in Mitt. Inst. Allg. Bot. Hamburg 1O: 533.1939  
+"euta reg. Bowringiana".$\scriptstyle = B$ 、laciniata auct.non Roxb.海南植物志 4：487.1990；贵州植物志 4：254，图90:
+
+5-6.1989；福建植物志4：29，图 25.1990；广西植物志1：721，图291：3-4.1991.
+
+叶上面密被短硬毛，下面沿脉密被锈褐色交织绒毛，边缘具齿；花被片背面密被毛。花期6月；果期7月。
+
+广布，产南宁、桂林、梧州、防城港、桂平、玉林、百色、河池、象州、来宾、崇左：生于海拔 $2 5 0 { \sim } 1 7 0 0 \mathrm { m }$ 的石灰岩山地林下、石上。分布于广东、香港、海南、台湾、福建、湖南、江西、贵州、四川、云南。
+
+标本引证：南宁[横县，方鼎、覃德海和凌惠珠71333（HAST）]；桂林[龙胜，李光照 和唐赛春 H8（IBK）]。
+
+# 58.小叶秋海棠（中国植物志）小秋海棠（中国高等植物图鉴补编)
+
+Begonia parvula H. Léveillé & Vaniot in Repert. Spec. Nov. Regni Veg. 2: 113.1906； Fl.Kouy-Tcheou 46.1914； Mitt Inst. Allg. Bot. Hamburg 10: 521.1939;Not. Bot. Gard. Edinb. 31（3）：434.1972；中国高等植物图鉴补编2：538，543 in clavi，544，图8914.1983.p.p.;Smithson.Contr.Bot.60：72，94，119 in clavi，211.1986；贵州植物志 4：264.1989；中国植物志 52（1）：202.1999；Bot.Bull.Acad.Sin.43：319.2002；云南植物志 12：182，图53：1-8.2006；Flora of China 13：190.2009；广西植物名录 122.2010．（Type：B!)
+
+落叶草本；根状茎球形或块状；叶基生，具珠芽，基部近等，先端钝；花序顶生；花丝离生，花药倒卵形；雌花被片5枚。花期9—10月；果期10月至翌年3月。
+
+产靖西、隆林、天峨、龙州、大新：生于海拔 $1 8 0 { \sim } 1 ~ 3 0 0 ~ \mathrm { m }$ 的岩石上。分布于云南、贵州。
+
+标本引证：南宁[隆安，杨金财和廖云标 LH2389（IBK）；彭镜毅 20345（HAST）]。
+
+59.掌裂秋海棠（FloraofChina）掌裂叶秋海棠（中国高等植物图鉴）细裂秋海棠（云南植物志）
+
+Begonia pedatifida H. Leveillé in Repert. Spec. Nov. Regni Veg. 7(131-133) : 21-22. 1909;Fl. Kouy-Tcheou 46.1914；Mitt Inst. Allg. Bot. Hamburg 6: 349.1927； et in 10: 541.1939;Icon.Pl. Omi 2（2）：pl.151.1946；Bull.Fan.Mem.Inst.Biol.1（2）：124.1948；Fl.Gen.Indo-Chine 2：1104.1921；中国高等植物图鉴 2：940，图 3609.1972；Smithson.Contr.Bot.60：15，19 in clavi，212，Fig.4：40.1986；贵州植物志4：252，图91：1-2.1989；广西植物志1:727，图 293：8-9.1991；中国植物志 52（1）：267，图42：1-3.1999；Bot.Bull.Acad.Sin.43：321.2002；云南植物志 12：203，图52：8-12.2006；Flora of China13：293.2009；广西植物名录 122.2010．（Type：B!Isotype：NY!）
+
+根状茎匍匐粗壮；叶多基生，偶有1枚茎生叶，近圆形，掌状深裂几达基部，裂片常再次羽状分裂，背面红色，无毛；雌花花被片5枚；子房2室，无毛；花柱2，柱头螺旋扭曲。花期1—7月；果期10月。
+
+产融水、资源、凌云、乐业：生于海拔 $3 0 0 { \sim } 1 ~ 3 0 0 ~ \mathrm { m }$ 常绿阔叶林下阴湿地。分布于中国云南、江西、湖南、湖北、四川、贵州、广东，模式标本采自贵州龙里南。越南北部也有分布。
+
+标本引证：桂林[资源，陈照宙51847（IBK）]；河池[环江，环江普查队 451226130502015LY（IBK）]。
+
+# 60.彭氏秋海棠 (Bot.Stud.)
+
+Begonia pengii S M.Ku& Yan Liu in Bot. Stud.49:167，Fig.1-3A.2008；广西植物名录 22.2010.（Holotype:HAST! Isotype: IBK!)
+
+叶基生，盾状，上面沿中脉具白色或浅银色斑纹；二歧聚伞花序腋生，直接生于根状茎；花药黄色，边缘红色；子房1室，被毛；柱头3，离生；蒴果具不等3翅，弯曲。花期 3一6月；果期6—12月。
+
+产巴马（模式标本产地）：生于海拔 $5 0 0 \mathrm { m }$ 陡峭石灰岩山壁荫蔽处。
+
+标本引证：河池[巴马，彭镜毅 21070（IBK）]。
+
+61.一口血秋海棠（Bot.Bull.Acad.Sin.）
+
+Begonia picturata Yan Liu, S.M. Ku & C.-IPeng in Bot. Bull. Acad. Sin. 46: 367, Fig. 1-2. 2005;Flora of China 13:192.2009;广西植物名录 122.2010.(Holotype: IBK! Isotype:HAST!)
+
+根状茎棕色或红棕色；叶基生，上面绿色或棕色，具白色、白绿色或浅绿色宽斑纹，或者沿主脉和叶缘具深棕色斑纹，下面被红色刚毛；叶柄褐色，被柔毛；花序直接生于根状茎;花丝基部稍合生；子房被红色刚毛；蒴果开裂，具不等3翅，被红色刚毛。花期2—3月；果期3-6月。
+
+产靖西（模式标本产地）：生于海拔 $7 0 0 { \sim } 8 0 0 ~ \mathrm { m }$ 阔叶林下阴湿的石灰岩岩石上，山谷附近石灰岩山洞中贫瘠的岩石上。
+
+标本引证：百色[靖西，黄俞淞Y1222（IBK）；彭镜毅 20386＆ 20387（HAST）]。
+
+62.罗甸秋海棠（中国植物志）单花秋海棠（中国高等植物图鉴补编）
+
+Begonia porteri H.Léveillé & Vaniot in Repert. Spec.Nov. Regni Veg.9（196-198） : 20.  
+1910；Fl.Kouy-Tcheou 46.1914；Fl. Gen.Indo-Chine 2:1108.1921；Mitt Inst.Allg.Bot.  
+Hamburg 10：554.1939；Not.Bot.Gard.Edinb.31（3）：435.1972；中国高等植物图鉴补编  
+2： 538 in clavi.1983（ut Lévl.）；Smithson.Contr.Bot.60: 84，87，88 in clavi，218，Fig.  
+26:13.1986；中国植物志 52（1）：142，图30:1-2.1999；Bot.Bull.Acad.Sin.43:314.2002;  
+Flora of China13：193.2009；广西植物名录 122.2010.（Holotype：E!）=B. belli Levl. in Fl. Kour-Tcheuo 45.1914; "bell'； Mitt. Inst. Allg. Bot. Hamburg 10: 544.  
+1939.$\scriptstyle = B$ .yishanensisT.C.Kuin 植物分类学报37（3）：285，图1：3-4.1999.
+
+根状茎圆柱形；叶基生，下面具紫斑；叶柄密被褐色长柔毛；子房1室，无毛；蒴果具不等3翅。花期6一11月；果期7一12月。
+
+产罗城、宜州：生于海拔 $1 0 0 { \sim } 4 0 0 ~ \mathrm { m }$ 阴湿的石灰岩石壁或洞穴中。分布于贵州，模式标本采自罗甸。
+
+标本引证：税玉民 $9 0 0 9 \mathrm { a }$ （HAST）；河池[宜州，宜山队16426（GXMI）；罗城，彭镜毅19840（HAST）]。
+
+# 63.假大新秋海棠（Bot.Stud.）
+
+Begonia pseudodaxinensis S.M. Ku， Yan Liu & C.-I Peng in Bot. Stud. 47: 211， Fig. 5-6.2006；Flora of China 13：193.2009；广西植物名录122.2010.（Holotype：HAST! Isotype:IBK!)
+
+根状茎粗壮，老时木质，近无毛；叶基生，绿色，上面散生刚毛，下面沿脉散生刚毛；
+
+二歧聚伞花序花序生于根状茎，具花 $2 5 { \sim } 5 7$ 朵；花略香；雌花被片3枚，常早落；蒴果具近等3翅。花期11月至翌年3月；果期2一6月。
+
+产大新（模式标本产地）：生于海拔 $4 0 0 \mathrm { { m } }$ 石灰岩石山。
+
+标本引证：崇左[大新，彭镜毅19747a（IBK）&19747（HAST）]。
+
+# 64.假獭叶秋海棠（Bot.Stud.）
+
+Begonia pseudoleprosa C.-I Peng， Yan Liu & S. M. Ku in Bot. Stud. 47: 214， Fig. 7-8.2006；Flora of China 13：194.2009；广西植物名录 122.2010.（Holotype：HAST!Isotype:IBK!)
+
+根状茎幼时疏被贴伏毛，后无毛；叶基生，近革质，上面散生刚毛，下面沿脉被贴伏毛，边缘疏具齿；叶柄圆柱状，褐色或红褐色，具贴伏毛；总花梗无毛；花丝离生；蒴果绿色，具不等3翅。花期11一12月；果期12月至翌年3月。
+
+产大新（模式标本产地）：生于海拔 $2 7 0 { \sim } 2 8 0 ~ \mathrm { m }$ 阔叶林下石灰岩阴湿石壁上。
+
+标本引证：崇左[大新，彭镜毅 20335（IBK）& 20347（HAST）]。
+
+# 65.肿柄秋海棠（Bot.Stud.）
+
+Begonia pulvinifera C.-I Peng & Yan Liu in Bot. Stud. 47: 319，Fig.1-2. 2006； Flora ofChina 13：194.2009；广西植物名录 122.2010.（Holotype：HAST!Isotype：IBK!）
+
+全株几无毛；根状茎无纤维状根；托叶宿存；叶基生，盾形，绿色，全缘，掌状脉9条；叶柄基部红褐色，肿大；聚伞花序高于叶柄；子房3室，中轴胎座。花果期不详。产靖西（模式标本产地）、那坡：生于海拔 $3 0 0 { \sim } 4 0 0 \mathrm { m }$ 石灰岩山地阔叶林下石上。
+
+标本引证：百色[靖西，彭镜毅19741a（IBK）&19741（HAST）；那坡，彭镜毅21563& 21607（HAST）]。
+
+# 66.突脉秋海棠（Bot.Stud.）
+
+Begonia retinervia D.Fang，D. H. Qin，& C.-I Peng in Bot. Stud. 47: 106， Fig.7-8. 2006;Flora of China 13：195.2009；广西植物名录 122.2010.（Holotype：GXMI!)
+
+叶基生，上面深绿色，褐色或深褐色沿主脉具白色斑点，下面微红色或红色沿主脉具浅绿色斑点，厚纸质；花丝基部合生；花柱3，基部合生；子房被腺毛；蒴果具不等3翅，背翅较突出并向一侧弯曲，腹面显著凸起。花期8—10月；果期11月至翌年3月。
+
+产都安（模式标本产地）：生于海拔 $2 0 0 { \sim } 6 0 0 \mathrm { m }$ 石灰岩山洞阴湿石壁上。
+
+标本引证：河池[都安，方鼎和覃德海 29620（GXMI）；梁慧舟4069&4073（HAST）]。
+
+57.大王秋海棠（FloraofChina）毛叶秋海棠（中国高等植物图鉴补编）长纤秋海棠（植
+
+物分类学报）紫叶秋海棠（中国植物志）
+
+Begonia rex Putzeys in J. Gen. Hort. 12: 141. 1857； Curtis's Bot. Mag.85: t5101. 1859;  
+Fl.Brit.Ind.2:647.1879;Fl.Gen.Indo-Chine 2:1112.1921；中国高等植物图鉴补编2：537,  
+541 in clavi.1983；Smithson Contr. Bot.60:71 in clavi，223，Fig.23：17.1986；河北植物志  
+2：177.1989；北京植物志 1:597.1993；河南植物志 3:61.1997；山东植物志 2:731.1997;  
+中国植物志 52（1）：258.1999；Bot.Bull.Acad.Sin.43：321.2002；云南植物志12：222,  
+图66：1-7.2006；Flora of China 13：195.2009；广西植物名录 122.2010.$\scriptstyle = B$ longiciliata C. Y. Wu in Acta Phytotax. Sin. 33（3） : 271， Fig.17.1995.
+
+根状茎结节状；叶基生，上面暗绿色，中间有银白色宽的环带，被疏而长的硬毛，下面红色，边缘具长睫毛；叶柄具棱，密被褐色长硬毛；花柱2，离生；子房2室，无毛。花期3月；果期8月。
+
+产隆林、天峨：生于海拔 $4 0 0 { \sim } 1 ~ 1 0 0 ~ \mathrm { m }$ 沟谷岩石上，山沟密林中。分布于中国云南、贵州。热带东南亚、印度、喜马拉雅山区也有分布。
+
+标本引证：百色[隆林，中植联广西队3083（IBK）]。
+
+# 68.皱叶秋海棠 （Phytokeys）
+
+Begonia rhytidophylla Y.M. Shui & W.H. Chen in PhytoKeys: 8O-83，Fig. 8. 2018.（Holotype:KUN!）
+
+托叶红色；叶柄暗红色或棕色，密被红色长柔毛或糙伏毛；叶宽卵圆形至肾形，顶端稍尖或钝状，上面绿色，下面暗红色、三级脉连接成网状；蒴果鲜时粉红色。花期8—11月，果期11月至翌年3月。
+
+产靖西（模式标本产地）：生于海拔 $2 6 0 \mathrm { m }$ 石灰岩阴湿石壁或洞穴入口石壁上。越南也有分布。
+
+标本引证：百色[靖西，税玉民等B2017-300（KUN）]。
+
+# 69.半侧膜秋海棠（Bot.Stud.）
+
+Begonia semiparietalis Yan Liu, S.M. Ku & C.-I Peng in Bot. Stud. 47: 218，Fig. 9-10. 2006;Flora of China 13:197.2009;广西植物名录 122.2010.(Holotype:IBK! Isotype:HAST!)
+
+叶基生，上面疏被刚毛状柔毛，沿主脉具白色斑纹；花丝离生；子房红色，被长腺状柔毛，1室，子房1/2处至顶端为侧膜胎座，至基部为中轴胎座。花期8—12月；果期10 月至翌年2月。
+
+产扶绥（模式标本产地）：生于海拔 $1 0 0 { \sim } 1 2 0 \mathrm { m }$ 石灰岩山地林下石上
+
+标本引证：崇左[扶绥，彭镜毅 20327（IBK）]。
+
+# 70.刺盾叶秋海棠（植物分类学报）
+
+Begonia setulosopeltata C. Y. Wu in Acta Phytotax. Sin. 35（1）: 48，pl. 28.1997['setuloso-peltata']；中国植物志 52（1）：131.1999；Bot.BullAcad. Sin.43：314.2002；Floraof China13：198.2009；广西植物名录122.2010.（Holotype：GXMI！）
+
+叶基生，盾形，较小，卵形或宽卵形，边缘具密而锐的锯齿；花紫色，花被片4枚；子房无毛，具近等3翅。花期2一4月；果期4一5月。
+
+产东兰（模式标本产地）：生于海拔 $3 0 0 \mathrm { { m } }$ 石灰岩山地林下阴湿处或山洞洞口石壁上。
+
+标本引证：河池[东兰，采集人不详 05244（GXMI)；金城江区，彭镜毅 19830(HAST)]。
+
+# 71.多花秋海棠（FloraofChina）
+
+Begonia sinofloribunda Dorr in Harvard Pap.Bot. 4（1） : 265.1999；Bot. Bull. Acad. Sin.43：317.2002；Flora of China13：198.2009；广西植物名录122.2010.$\scriptstyle = B .$ floribunda T. C. Ku in Acta Phytotax. Sin.35: 48， Fig. 29.1997，not Carriere （1875）;中国植物志 52（1）：218.1999.
+
+全株几无毛；茎直立，略木质化；叶茎生，披针形，浅盾状；花序生于叶腋；雄花被片2枚，红绿色；雌花被片2或3枚。花期7一8月；果期8月。
+
+产龙州、上龙：生于海拔 $1 6 0 { \sim } 2 0 0 \mathrm { m }$ 石灰岩山地林下石上。
+
+标本引证：南宁[上龙，梁慧舟 3401（HAST）]；崇左[龙州，梁慧舟 3630（HAST）]。
+
+# 72.中越秋海棠（植物分类学报）
+
+Begonia sinovietnamica C.Y.Wu in Acta Phytotax. Sin.35（1） : 50-53， Fig.30.1997;中国植物志 52（1）：180.1999；Bot.Bull.Acad. Sin.43:317.2002；Flora of China 13：199.2009；广西植物名录 122.2010.（Holotype：GXMI!)
+
+叶基生，上面密被短毛，下面沿脉被较密短毛，边缘有浅而密重或单锯齿；雄花被片4枚，白色；花丝离生；雌花被片5枚，白色；子房3室，中轴胎座；蒴果具近等3翅。花期7月；果期8月。
+
+产防城、东兴（模式标本产地）、桂平：生于海拔 $2 3 0 \mathrm { m }$ 阔叶林下缓坡和溪边。
+
+注释：据记载本种的模式标本采自东兴，但自发表后亦未见采集标本，尚需进一步野外考察的查证。
+
+标本引证：防城港[廖信佩和方鼎 76603（GXMI）]。
+
+# 73.长柄秋海棠（中国高等植物图鉴）
+
+Begonia smithiana T.T.Yu in Notes Roy.Bot.Gard.Edinb.21（1）：44.1951；中国高等  
+植物图鉴 2：944，图3617.1972.excl.pl.Sichuan；中国高等植物图鉴补编2：536，542 in  
+clavi，1983.excl. pl. Sichuan; Smithson. Contr. Bot. 60: 19,83 in clavi,234，Fig 5: 28.1986;  
+贵州植物志 4：258.1989；中国植物志 52（1）：257.1999；Bot.Bull.Acad.Sin.43：321.  
+2002；Flora of China 13：199.2009；广西植物名录 122.2010.$\begin{array} { r } { { \bf \Omega } = { \cal B } . } \end{array}$ fimbristipula auct. non Hance； Smithson. Contr. Bot. 6O: 160.1986； quoad Fig.8：1.$\scriptstyle = B$ 、limprichtii auct.nonIrmsch 贵州植物志 4：260，图94：1-2.1989.
+
+具极短缩直立茎；根状茎念珠状；叶多基生，沿脉紫红色，疏被短硬毛，边缘不规则浅裂，脉紫红色；叶柄常带红色；雌花被片4枚，粉红色；雄花被片5枚，粉红色；子房2室，中轴胎座；花柱2。花期8月；果期9月。
+
+产南丹、环江：生于海拔 $6 5 0 { \sim } 1 ~ 3 0 0 ~ \mathrm { m }$ 石灰岩山地林下或者水沟阴处岩石上。分布于贵州、湖南、湖北。
+
+标本引证：河池[环江，许为斌 07179（IBK）；南丹，彭镜毅 22194（HAST）]。
+
+# 74.近革叶秋海棠（Bot.Stud.）
+
+Begonia subcoriacea C.-I Peng， Yan Liu & S. M. Ku in Bot. Stud. 49: 408， Fig.8-9.2008; 广西植物名录 122.2010.（Holotype：IBK!Isotype：HAST!)
+
+根状茎褐色，幼时被绒毛，老时无毛；叶基生，近革质，上面无毛有光泽，下面红色，沿主脉被绒毛；花梗被红色腺状绒毛；蒴果开裂，具不等3翅。花期3-6月；果期5月至翌年3月。
+
+产大新（模式标本产地）：生于海拔 $2 5 0 \mathrm { m }$ 阔叶林和石灰岩石山半阴坡。
+
+标本引证：崇左[大新，彭镜毅21135（IBK）&20346（HAST）]。
+
+# 75.都安秋海棠（植物分类学报）
+
+Begonia suboblata D.Fang & D. H. Qin in Acta Phytotax. Sin. 42:177， Fig. 4.2004； Floraof China13：199.2009；广西植物名录 122.2010.（Holotype：GXMI!）
+
+全株被长柔毛；根状茎具分枝；叶基生，扁圆形或肾形，幼时沿脉紫红色，边缘具长睫毛，先端圆；子房3室，无毛；花柱3，基部合生；蒴果具不等3翅，无毛。花期4月。产都安（模式标本产地）：生于海拔 $8 0 0 \mathrm { ~ m ~ }$ 林下石灰岩石山上。标本引证：河池[都安，蒙高飞 29613（IBK；GXMI）]。
+
+# 76.光叶秋海棠（中国高等植物图鉴补编）
+
+Begonia summoglabra T.T.Yu in Bull.Fan.Mem. Inst. Biol.，n.s.1（2）:117.1948；中
+
+国高等植物图鉴补编 2：537，543 in clavi.1983；Smithson.Contr.Bot.60：77，88 in clavi,  
+234.1986；中国植物志 52（1）：200.1999；Bot.Bull.Acad. Sin.43：317.2002；Flora of China  
+13：200.2009；广西植物名录 122.2010.（Paratype：KUN! Isotype：KUN!PE!）落叶草本；根状茎球形或块状；叶基生，肉质，无毛，基部偏斜，边缘具疏齿；花序顶  
+生；花粉红色，具2枚花被片；子房3室，胎座具1枚裂片。花期11月。产天峨：生于海拔 $1 4 0 0 \mathrm { m }$ 阴湿岩石上。分布于云南，模式标本采自屏边。标本引证：河池[天峨，天峨调查队 4-6-713（GXMI）]。  
+77.截叶秋海棠(中国植物志）沙卡卡 (瑶语)Begonia truncatiloba Irmscher in Mitt. Inst. Allg. Bot. Hamburg 1O: 534. 1939； Smithson.  
+Contr.Bot.60:16 in clavi，243，Fig.4:49.1986；中国植物志 52（1）：237.1999；Bot.Bull.  
+Acad. Sin.43：321.2002；Flora of China 13：201.2009；广西植物名录 122.2010.（Holotype:  
+K!)
+
+全株密被褐色卷曲短柔毛；茎直立，节处膨大；叶基生和茎生，上面密被短毛，下面沿脉密被褐色短而卷毛，基部略偏斜，深心形， $5 { \sim } 7$ 浅裂，叶脉凸起。花期5月；果期6月。
+
+产凌云：生于海拔 $1 0 0 0 { \sim } 1 6 0 0 \mathrm { m }$ 山谷杂林沟边、山谷、溪边和混交林潮湿处。分布于中国云南，模式标本采自蒙自。越南也有分布。
+
+标本引证：百色[凌云，刘心祈 28512（IBK）]。
+
+# 78.观光秋海棠（植物分类学报）
+
+Begonia tsoongii C.Y.Wu in Acta Phytotax.Sin.33（3）：280，pl.24.1995；中国植物志52（1）：253.1999；Bot.Bull.Acad. Sin.43：321.2002；Flora of China 13: 201.2009；广西植物名录 122.2010.（Holotype：KUN（fl.）！Isotype：PE（fr.）！）
+
+根状茎直立，结节状；叶基生，长圆状卵形或菱状卵形，上面深绿色，几无毛，下面沿脉密被褐色短柔毛，基部微偏呈楔形或宽楔形；花柱2，大部合生；蒴果具不等3翅，短翅贴生于果实上。花期7一8月；果期8月。
+
+产防城、钦州（模式标本产地）。
+
+标本引证：钦州[钟观光 2663（KUN；PE）]。
+
+# 79.蝶叶秋海棠（Phytotaxa）
+
+Begonia ufoides C.-I Peng, Y.H. Qin & C.W.Lin in Phytotaxa 316（3） : 279-284，Fig. 1 & 2.
+
+2017.（Holotype:IBK!Isotype:HAST!)
+
+叶盾状，长 $4 . 5 { \sim } 9 ~ \mathrm { c m }$ ，宽椭圆形至近圆形，顶端圆形，上面扁平，稍革质至革质；叶
+
+柄长 $7 { \sim } 1 1 ~ \mathrm { c m }$ ，基生；花序腋生，花梗长 $1 4 \mathrm { c m }$ 左右，密被长柔毛。花期6月。
+
+产马山：生于海拔 $3 5 0 \mathrm { m }$ 左右阴湿石灰岩凹壁，野外少见分布。
+
+标本引证：南宁[马山，彭镜毅 24356（IBK）]。
+
+80.伞叶秋海棠（植物分类学报）龙虎山秋海棠（中国植物志）Begonia umbraculifolia Y.Wan & B.N. Chang in Acta Phytotax. Sin. 25（4） : 322-323,
+
+Fig.1:1-4.1987；中国植物志 52（1）：132.1999；Bot.Bull.Acad.Sin.43:314.2002；Floraof China 13：201.2009；广西植物名录 122.2010.（Holotype：IBG!）
+
+根状茎纤细；叶基生，盾形，上面被短糙伏毛，三级脉蛛网状；雄花被片4枚，雌花被片3枚；子房1室，侧膜胎座；蒴果具不等3翅。
+
+# 80a.伞叶秋海棠（原变种）
+
+# Begoniaumbraculifolia var.umbraculifolia
+
+叶上面深绿色或棕绿色，沿脉浅绿色，疏被硬毛，下面浅绿色，沿脉被硬柔毛；花粉红色；子房疏被硬柔毛。花期10一11月。
+
+产隆安、大新：生于海拔 $2 0 0 \mathrm { m }$ 石灰岩上、林下或山谷中。
+
+标本引证：南宁[隆安，杨金财和廖云标LH1154&LH1434（IBK）；彭镜毅19694（HAST）]。
+
+# 81.变异秋海棠（FloraofChina）多变秋海棠（云南植物研究）
+
+Begonia variifolia Y.M. Shui & W.H. Chen in Acta Bot. Yunnan.27（4）: 372，Fig.11. 2005；Flora of China 13：202.2009；广西植物名录 122.2010.（Holotype：KUN! Isotypes: IBSC!PE!)
+
+根状茎略木质；托叶宿存，卵圆形；叶基生，上面密被刚毛，下面沿脉疏被长柔毛，基部偏斜，心形至盾形；蒴果具近等3翅。花期2一6月。
+
+产东兰（模式标本产地）、巴马：生于海拔 $3 3 0 { \sim } 5 0 0 ~ \mathrm { m }$ 石灰岩石山林下或者山洞洞口石壁上。
+
+标本引证：河池[东兰，彭镜毅 24349（HAST）；彭镜毅 21063（HAST）]。
+
+82.长毛秋海棠（中国高等植物图鉴补编）毛叶秋海棠（云南种子植物名录）
+
+Begonia villifolia Irmscher in Roy.Bot.Gard.Edinburgh 21（1）：43.1951；中国高等植物图鉴补编 2:535,540 in clavi.1983；云南种子植物名录 1:351.1984；Smithson.Contr.Bot.60：19，116 in clavi，248，328，Fig.5：34.1986；中国植物志 52（1）：230.1999；Bot. Bull.Acad. Sin.43:321.2002；云南植物志 12:195，图55: 4-5.2006;Flora of China 13:202.2009;
+
+广西植物名录 123.2010.（Holotype：KUN!）
+
+$\scriptstyle = B$ 、augustinei auct. Non Hemsl.； Yu（1948），p. p. quoad C.W. Wang 83071.   
+$\scriptstyle = B$ : purpureofolia S.H.Huang & Shui in Acta Bot. Yunnan.16（1）: 34O，Fig.8.1994.
+
+植株高可达 $8 0 \mathrm { c m }$ ；全株被长柔毛；根状茎长柱状；茎直立，密被红褐色长糙毛；叶茎生，草纸，上面绿色，被淡黄褐色卷曲长柔毛，下面沿脉密生红褐色长柔毛， $3 { \sim } 4$ 浅裂，基部极偏斜，一侧圆耳状；聚伞花序腋生；子房2室；花柱2，基部合生。花期5—7月；果期7月。
+
+产上思：生于海拔 $1 \ 1 0 0 { \sim } 1 \ 7 0 0 \ \mathrm { m }$ 常绿阔叶林中湿处。分布于中国云南，模式标本采自屏边。越南、缅甸也有分布。
+
+标本引证：防城港[上思，陈少卿 5033（IBSC）]。
+
+83.少瓣秋海棠（中国高等植物图鉴补编）富宁秋海棠（云南植物名录）爬山猴（全国中草药资料)
+
+Begonia wangii T.T.Yu in Bull.Fan Mem. Inst.Biol.，n.s.，1（2）：126.1948；中国高  
+等植物图鉴补编2：534 in clavi.1983；云南种子植物名录1:352.1984；Smithson.Contr.Bot.  
+60：7 in clavi，249.1986；中国植物志 52（1）：155，图31：4-5.1999；Bot.Bull.Acad.Sin.  
+43：317.2002；Floraof China 13：203.2009；广西植物名录123.2010．（Type：KUN!  
+Isoparatype: PE!)$\scriptstyle = B$ 、cavaleriei Lévl. var. pinfaensis Lévl. in Repert. Sp. Nov. 7: 20. 1909，p. p. quoad.  
+Syntypi cavalerie 917； Fl. Kouy-Tcheou 46. 1914； Mit. Inst. Alg. Bot. Hamburg 10: 512.1939;  
+Not. Bot.Gard.Edinb.3（3）: 433.1972.根状茎结节状；全株几无毛；叶基生，盾形，上面暗绿色，下面红色，边全缘或略带波  
+状；花被片2，粉红色；子房3室，中轴胎座。花期5一8月，果期8月。产靖西、那坡：生于海拔 $6 0 0 { \sim } 1 0 0 \mathrm { m }$ 石灰岩岩石上。分布于云南东南部。标本引证：百色[靖西，高锡朋 56112（IBSC）；梁慧舟3346（HAST）]。
+
+# 84.文山秋海棠（植物分类学报）
+
+Begonia wenshanensis C. M. Ku ex C.Y.Wu & T. C. Ku in Acta Phytotax. Sin.33: 262，图10.1995；中国植物志 52（1）：168.1999；Bot.Bull.Acad.Sin.43：317.2002；Flora of China13：203.2009；广西植物名录 123.2010.（Isotype：E!KUN!)
+
+茎直立，近无毛；叶茎生，散生短硬毛，浅裂，基部偏斜，窄侧呈圆形或近楔形，宽侧 呈宽圆耳状，脉凸起；聚伞花序；雌花被片3枚；子房3室，无毛。花期7—8月；果期8
+
+月。
+
+产乐业、隆林；生于海拔 $1 0 0 0 { \sim } 1 6 0 0 \mathrm { m }$ 阴湿的常绿阔叶林下、林下水沟边。分布于云南。
+
+注释：本种原产于云南，根据标本记录广西凌云等地亦有分布，但仅见于标本记录，尚需野外调查及形态特征比较进一步证实。
+
+标本引证：百色[凌云，潘保强等3-6045（GXMI）；凌云调查队3-6088（GXMI）]。
+
+广西秋海棠属植物属下分类   
+侧膜胎座组 Begoia sect.Coelocentrum Irmscher   
+1.蛛网脉秋海棠B.arachnoidea C.-IPeng,Yan Liu & S.M.Ku   
+2.星果草叶秋海棠 B.asteropyrifolia Y.M. Shui&W.H. Chen   
+3.橙花侧膜秋海棠 B.aurantiflora C.-IPeng,Yan Liu& S.M. Ku   
+4.耳托秋海棠 B. auritistipula Y.M. Shui & W.H. Chen   
+5.桂南秋海棠 B. augstroguangxiensis Y. M. Shui & W.H. Chen   
+6.巴马秋海棠 B.bamaensis Yan Liu & C.-I Peng   
+7.双花秋海棠 B.biflora T.C.Ku   
+8.短葶秋海棠 B.xbreviscapa C.-IPeng,Yan Liu & S.M.Ku   
+9.昌感秋海棠 B.cavaleriei H.Lev.   
+10.卷毛秋海棠 B.cirrosa L.B.Smith &D.C.Wasshausen   
+11.弯果秋海棠 B.curvicarpa S.M. Ku,C.-I Peng & Yan Liu   
+12.柱果秋海棠 B.cylindrica D.R.Liang & X.X. Chen   
+13.大新秋海棠B.daxinensis T.C.Ku   
+14.德保秋海棠 B.debaoensis C.-I Peng, Yan Liu & S.M. Ku   
+15.方氏秋海棠 B.fangi Y.M. Shui & C.-I Peng   
+16.黑峰秋海棠 B.ferox C.-IPeng& Yan Li   
+17.丝形秋海棠 B.filiformis Irmach.   
+18.须苞秋海棠 B.fimbribracteata Y.M. Shui & W.H.Chen   
+19.广西秋海棠 B. guangxiensis C.Y.Wu   
+20.桂西秋海棠 B. guixiensis Yan Liu, S.M. Ku & C.-IPeng   
+21.古龙山秋海棠 B.gulongshanensis Y.M. Shui & W.H.Chen   
+22.靖西秋海棠B. jingxiensisD.Fang&Y.G.Wei   
+23.灯果秋海棠B.lanternaria Irmsch.   
+24.雷平秋海棠 B.leipingensis D.K. Tian,L.H. Yang & C.Li   
+25.獭叶秋海棠 B.leprosa Hance   
+26.刘演秋海棠 B.liuyaniiC.-I Peng,S.M. Ku& W.C.Leong   
+27.弄岗秋海棠 B.longgangensis C.-I Peng & Yan Liu   
+28.罗城秋海棠 B. luochengensis S.M. Ku, C.-I Peng & Yan Liu   
+29.鹿寨秋海棠 B.luzhaiensis T.C.Ku   
+30.铁甲秋海棠 B.masoniana Irmsch. ex Ziesenh.   
+31.龙州秋海棠 B.morsei Irmsch.   
+32.宁明秋海棠 B. ningmingensis D.Fang, Y.G. Wei& C.-IPeng   
+33.鸟叶秋海棠 B.ornithophylla Irmsch.   
+34.彭氏秋海棠 B.pengi S.M.Ku& Yan Liu   
+35.一口血秋海棠 B. picturata Yan Liu,S.M. Ku & C.-I Peng   
+36.罗甸秋海棠 B.porteri H.Lév.& Vaniot   
+37.假大新秋海棠 B.pseudodaxinensis S.M.Ku,Yan Liu& C.-I Peng   
+38.假獭叶秋海棠 B.pseudoleprosa C.-I Peng, Yan Liu & S.M. Ku   
+39.肿柄秋海棠 B.pulvinifera C.-I Peng & Yan Liu   
+40.突脉秋海棠 B.retinervia D.Fang,D.H.Qin &C.-I Peng   
+41.皱叶秋海棠 B.rhytidophylla Y.M. Shui &W.H. Chen   
+42.半侧膜秋海棠 B. semiparietalis Yan Liu, S.M. Ku & C.-I Peng   
+43.刺盾叶秋海棠 B.setulosopeltata C.Y.Wu   
+44.多花秋海棠 B.sinofloribunda Dorr.   
+45.近革叶秋海棠 B.subcoriacea C.-IPeng, Yan Liu& S.M.Ku   
+46.都安秋海棠 B.suboblata D.Fang &D.H. Qin   
+47.碟叶秋海棠 B.ufoides C.-IPeng,Y.H. Qin & C.W. Lin   
+48.伞叶秋海棠 B.umbraculifolia Y. Wan & B.N.Chang   
+49.变异秋海棠 B.varifolia Y.M. Shui & W.H.Chen   
+50.少瓣秋海棠 B.wangi T.T.Yu
+
+二室组 Begonia sect. Platycentrum A. Candolle
+
+1.歪叶秋海棠B.augustineiHemsl.
+
+2.金平秋海棠 B.baviensis Gagnep.   
+3.花叶秋海棠 B.cathayana Hemsl.   
+4.周裂秋海棠 B.circumlobata Hance   
+5.大围山秋海棠 B. daweishanensis S.H. Huang &Y.M. Shui   
+6.食用秋海棠 B.edulis H.Lev.   
+7.掌叶秋海棠 B.hemsleyana Hook.f.   
+8.侯氏秋海棠 B. howii Merril& Chun   
+9.圆翅秋海棠 B.laminariae Irmsch.   
+10.黎平秋海棠 B.lipingensis Irmsch.   
+11.隆安秋海棠 B. longanensis C.Y.Wu   
+12.裂叶秋海棠 B.palmata D.Don   
+13.掌裂秋海棠 B.pedatifida H. Lév.   
+14.大王秋海棠 B.rex Putz.   
+15.长柄秋海棠 B.smithiana T.T.Yu   
+16.截叶秋海棠 B.truncatiloba Irmsch.   
+17.观光秋海棠B.tsoongii C.Y.Wu   
+18.长毛秋海棠 B.villifolia Irmsch.   
+东亚秋海棠组 Begonia sect. Diploclinium (Wight) A. Candolle   
+1.紫背天葵 B.fimbristipula Hance   
+2.巨苞秋海棠 B. gigabracteata H. Z.Li& H.Ma   
+3.金秀秋海棠 B. glechomifolia C.M. Hu ex C.Y.Wu & T.C. Ku   
+4.秋海棠 B.grandis Dryand.   
+5.膜果秋海棠 B.hymenocarpa C.Y.Wu   
+6.心叶秋海棠 B.labordei H.Lev.   
+7.石生秋海棠 B.lithophila C.Y.Wu   
+8.粗喙秋海棠 B.longifolia Blume   
+9.不显秋海棠 B.obsolescens Irmsch.   
+10.中越秋海棠B.sinoveitnamica C.Y.Wu   
+11.文山秋海棠 B.wenshanensis C.M. Ku ex C.Y.Wu & T. C. Ku   
+单座组 Begonia sect. Reichenheimia (Klotzsch)A. Candolle   
+1.凤山秋海棠B.chingii Irmsch.   
+2.独牛 B. henryi Hemsl.   
+3.小叶秋海棠B.parvulaH.Lév.   
+4.光叶秋海棠B.summoglabra T.T.Yü   
+四室组 Begonia sect. Sphenanthera A. Candolle
+
+1.香花秋海棠B.handeliiIrmsch.
+
+致谢：感谢广西壮族自治区中国科学院广西植物研究所许为斌博士提供部分重要参考文献及修改意见；感谢深圳仙湖植物园王文广先生对个别疑难类群提供鉴别信息；感谢匿名审稿人对初稿提供的建设性意见；感谢中国台湾研究院彭镜毅教授对广西秋海棠属植物研究的卓越贡献并以此文悼念故去的彭镜毅教授。
+
+# 参考文献：
+
+APG II，2O03.An update of the Angiosperm Phylogeny Group classification for the orders and families offlowering plants: APG II [J].Bot JLinn Soc，141:399-436.  
+APG II，2O09.An update of the Angiosperm Phylogeny Group clasification for the orders and families offlowering plants: APG II[J]. Bot JLinn Soc，161:105-121.  
+CHEN WH，RADOUCHOOM S，NGUYEN HQ，et al， 2018. Seven new species of Begonia (Begoniaceae) inNorthern Vietnam and Southern China [J].Phytokeys，94： 65-85.  
+DONG LN,LIUY,XU WB,et al,2015.Medicinal plant resources of Begonia in Guangxi [J]. JNWNormal Univ(Nat SciEd)51(4)：67-74.[董莉娜，刘演，许为斌，等，2015．广西秋海棠属植物的药用资源[J]．西北师范大学学报（自然科学版），51（4）：67-74.]  
+GU CZ，PENG CI, TURLAND NJ, 2009. Begoniaceae [M] / WU ZY，RAVEN PH. Begoniaceae [M]. Beijing:Scince Press；St Louis:Missouri Botanical Garden Press，153-2O7.[谷翠芝，彭镜毅，Turland NJ，2009．秋海棠科[M]/ 吴征镒，Raven PH.Flora of China.北京：科学出版社；St Louis:Missouri Botanical GardenPress，13：153-207]  
+GUAN KY,HIROFUMIY,LIJX,et al,2OO7.Traditional uses of begonias (Begoniaceae) in China[J].Acta BotYunnan，29(1)：58-66.[管开云，山口裕文，李景秀，等，2007．中国秋海棠属植物的传统利用 [J]．云南植物研究，29（1）：58-66.]  
+HUGHES M,MOONLIGHTP,JARAA,etal,2015.Begonia Resource Centre. htp:/elmer.rbge.org.uk/begonia/  
+LAN SF，1991.Begoniaceae [M] //LI SG，LIANG CF.Flora of Guangxi. Nanning:Guangxi Science &Technology Publishing House,1:718-729.[蓝盛芳，1991．秋海棠科 [M]//李树刚,梁畴芬．广西植物志．南宁：广西科学技术出版社，1：718-729.]  
+LI C，YANG LH, TIAN DK，et al， 2016. Begonia leipingensis (Begoniaceae)，a new compound-leaved specieswith unique petiolule pattern from Guangxi of China [J].Phytotaxa，244(1): 45-56.  
+MOONLIGHT PW，ARDI WH,PADILLA LZ，et al， 2018. Dividing and conquering the fastest-growing genus:Towards a natural sectional classification of the mega-diverse genus Begonia (Begoniaceae)[J]. Taxon，67(2):267-323.  
+PENG CI，KU SM，YANGHA，et al,2014.Two new species of Begonia sect. Coelocentrum，B. guixiensis andB.longa，from Sino-Vietnamese limestone karsts [J].Bot Stud，55：52.  
+PENG CI，LIUY，KU SM,et al,2O10. Begonia xbreviscapa (Begoniaceae),a new intersectional nutrual hybridfrom limestone areas in Guangxi，China [J].Bot Stud，51：107-117.  
+PENG CI，YANG HA，KONO Y，et al，2013.Novelties in Begonia sect. Coelocentrum: B.longgangensis andB.ferox from limestone areas in Guangxi，China[J].Bot Stud，54： 44.  
+QIN HN,LIU Y,2010. A checklist of vascular plants of Guangxi[M]. Beijing: Science Pres: 119-123.[覃海宁,刘演，2010．广西植物名录 [M]．北京：科学出版社：119-123.]  
+QINYH，LIANGYY，XU WB,et al,2017. Begonia ufoides (sect. Coelocentrum,Begoniaceae),a new speciesfrom limestone areas in central Guangxi，China[J].Phytotaxa，316（3）：279.  
+SHUIYM，2006.Begoniaceae [M]//WU ZY.Flora Yunnanica.Beijing:Science Press，12：143-233.[税玉民，2006．秋海棠科[M]//吴征镒．云南植物志．北京：科学出版社，12：143-233.]  
+TIAN DK,XIAO Y,TONG Y,et al,2018.Diversity and conservation of Chinese wild begonias[J]. Plant Divers,  
+40:75-90.

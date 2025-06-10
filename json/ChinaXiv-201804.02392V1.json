@@ -1,0 +1,723 @@
+[
+    {
+        "type": "text",
+        "text": "Wright分数阶时滞微分方程的离散化过程",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘杉杉，高飞(武汉理工大学 理学院，武汉 430070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：引进了一种离散化方法对分数阶时滞微分方程进行离散化求解。首先考察Wright分数阶时滞微分方程；其次分析相应具有分段常数变元的Wright分数阶时滞微分方程，并应用离散化过程对模型进行数值求解；然后根据不动点理论讨论该合成动力系统不动点的稳定性；最后借助 MATLAB 对模型进行数值仿真，并结合Lyapunov 指数、相图、时间序列图、分岔图探讨模型更多复杂的动力学现象。结果显示，提出方法成功对Wright分数阶时滞微分方程进行离散。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：分数阶微分方程；时滞；分段常数变元；定点；分岔；混沌 中图分类号：TP301.5 doi: 10.3969/j.issn.1001-3695.2018.02.0092 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On discretization process of fractional-order delay Wright equation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Shanshan,Gao Fei (SchoolofSciences,WuhanUniversity ofTechnology,Wuhan430070) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Thispaperintroducedadiscretizationprocestodiscretizefractioal-orderdelaydiferentialequations.Fistofll, itconsideredthefractiona-orderdelayWrightfractionaldiferentialquation.Then,itanalyzedthecorrespondingfractionalorderWright diferential equationwith piecewiseconstantarguments andapplied theproposed discretization process tosolve themodelnumerically.Afterthat,according tothefixedpoints theory,thispaperinvestigatedthestabilityofthefixedpontsof theresultantdynamicalsystem.Finally,itcariedoutanumerical simulation including Lyapunov exponent,phasediagrams, time series diagram,birurcationusingMatlab torevealmorecomplex dynamicsofthemodel.Simulation experimentsshowthat this paper succeeds in discretizing fractional-order delay Wright equation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: fractional-order diferential equations;delay;piecewiseconstantarguments;fixed points; bifurcation;chaos ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "混沌被认为是继量子力学与相对论之后的第3大科学的发现。混沌系统是非线性动力学映射主要表现形式之一，具有良好的类随机、非周期、对初始值敏感、历经各态并可确定等特性，被信息安全、扩频通信及工业控制等领域的研究者们广泛关注错误！未找到引用源。错误！未找到引用源。。近几十年来，分数阶（非整数）混沌系统迅速发展并且引起学者们的极大关注。分数阶微积分被看做是整数阶到非整数阶微积分的推广，已知当系统阶数超过3，系统出现混沌行为。但研究人员发现，对于一些分数阶微积分总表现出阶数小于3的混沌行为，如 Hartley等人错误！未找到引用源。的研究阐述了该现象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "其中，时滞微分方程（DDEs）是依赖于当前和过去历史状态的动力系统的数学表达式，例如延时反馈神经系统、呼吸调节、农业商品市场、非线性光学和血液中的噬中性粒细胞。我们将特别关注这样的系统，其中时滞微分方程表达为如下形式：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\prime } { \\bigl ( } t { \\bigr ) } = f { \\bigl ( } x { \\bigl ( } t { \\bigr ) } , x { \\bigl ( } t - \\tau { \\bigr ) } { \\bigr ) } \\ , x { \\bigl ( } t { \\bigr ) } \\in R ^ { n } , t \\geq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "这里在时间 $t$ 时系统的状态为 $x ( t )$ ，在过去的时间状态表达为 $x ( t - \\tau )$ ，这里 $\\tau$ 为一个固定的时间延迟。此外时滞微分方程出现在很多数学模型中：例如种群动态学（妊娠时间考虑在内)，传染病(传染周期考虑在内)，生理和药理动力学（血液循环周期)，化学动力学等错误!未找到引用源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分数阶微积分是传统意义的整数阶微积分的延伸和拓展，是将求导次数和求积次数由整数推广到非整数。这里“分数\"是一个广义的概念，不仅包含分数，还包含无理数和复数等，所以“分数阶微积分\"其实是“非整数微积分”。分数阶微分是分数阶微积分重要研究领域之一，也是处理实际应用中非线性问题的有力工具，本文就是基于分数阶微分的基本理论展开对Wright时滞微分方程非线性现象的研究和分析。由分数阶微分的定义可以看出，分数阶微分与以前所有采样点的采样值有关，而整数阶微分只与当前采样点和当前时刻的前一时刻采样点的取值有关错误!未找到引用源。因此分数阶微分系统适合刻画描述具有记忆、遗传等特性的过程，区别于整数阶微分系统，也是研究分数阶微分系统的必要因素。再有整数阶系统是分数阶系统阶次取整数时的特例，是现实系统理想化的一种处理方式，所以所有混沌系统都可以说是分数阶混沌系统。因此采用分数阶混沌系统对混沌现象进行描述更具有普适性。而本文将Wright时滞微分方程推广到分数阶领域，其离散化过程对分数阶求解提供了理论指导，为分数阶微积分的应用开拓了新领域。近几年因为分数阶微积分在科学技术领域的广泛应用，吸引到很多学者，他们利用数值仿真研究该类方程。因为Caputo 型分数阶微分描述问题的初始条件与整数阶微分方程是一致的，因此本文选用Caputo 型分数阶微分进行研究，首先阐述Caputo 型分数阶微积分的定义：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1错误!未找到引用源。 函数 $f \\left( t \\right)$ 定义在区间 $\\left( 0 , + \\infty \\right)$ ，其中阶数 $\\beta \\in R ^ { + }$ 的分数阶积分公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { a } ^ { \\beta } f \\left( t \\right) = \\int _ { 0 } ^ { t } \\frac { \\left( t - s \\right) ^ { \\beta - 1 } } { \\Gamma \\left( \\beta \\right) } f \\left( s \\right) d s\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分数阶微分的公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { a } ^ { \\alpha } f \\left( t \\right) = I ^ { n - \\alpha } D ^ { n } f \\left( t \\right) , \\quad D = \\frac { d } { d t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中阶数 $\\alpha \\in \\left( n - 1 , n \\right)$ ， $n$ 为正整数， $t > 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献错误！未找到引用源。研究了整数阶Wright方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ^ { \\prime } ( t ) = - \\rho x { \\bigl ( } t - 1 { \\bigr ) } { \\bigl ( } 1 + x { \\bigl ( } t { \\bigr ) } { \\bigr ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:p为实参数，且p>0，表明方程(2)在α=发 发生Hopf分岔，并且在 $\\alpha > \\frac { \\pi } { 2 }$ 时存在周期解。文献错误!未找到引用源。证明了Wright微分方程可由Logistic方程经过一系列变换而来，但Wright微分方程与Logistic 模型一样看似简单，并且可确定，但是参数 $\\rho$ 在一定范围内变化时，它有着极为复杂的动力学行为，其中包括了分岔和混沌。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于Caputo 型分数阶微分定义和性质，将整数阶Wright时滞微分方程推广到分数阶Wright时滞微分方程，此外将时滞推广为一般形式，改后的方程表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ^ { \\alpha } x \\big ( t \\big ) = - \\rho x \\big ( t - \\tau \\big ) \\big ( 1 + x \\big ( t \\big ) \\big ) , t \\in \\big ( 0 , T \\big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始条件为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx ( 0 ) = x _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这里 $\\alpha \\in \\left( 0 , 1 \\right]$ 。然后根据动力系统不动点稳定性定理和混沌动力学分析研究分数阶Wright时滞微分方程的动力学性质以及混沌现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 离散化过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当分数阶微分模型建立之后，便面临着如果求解的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，对于分数阶微分方程的求解主要是采用频域法错误!未找到引用源·和时域法错误!未找到引用源。两种方法。但近来研究发现相比第一种方法，第二种更加有效，因第一种方法在检测混沌不总是可靠的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常分数阶微分方程的解析解不总是合意的，于是不得不借助数值解的方法并辅助计算机仿真。分数阶微分方程数值解的方法主要包括：有限元方法、变分迭代法、Adomain分解法、预估-校正法等。其中在文献错误！未找到引用源。分别对分数阶logistic 模型和分数阶Henon 模型给出了分数阶的数值求解方法，但该方法与预估-校正法类似，求解结果相对其它算法相比较为精确，但是两者都存在计算结果复杂，并且前者的数值解不仅与当前状态相关而且依赖过去所有状态，故在进行数值仿真加大实验难度，进而较难分析模型的动力学现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而近年来，具有时滞和分段常数变量的微分方程受到越来越多生态数学学者的关注，这一模型正解的稳定性、有界性、吸引性以及振动性得到了较全面的研究错误!未找到引用源。错误!未找到引用源。本文参考文献错误！未找到引用源。\\~错误!未找到引用源。的离散化过程，定义了具有分段常数变元的分数阶Wright时滞微分方程，并对其进行离散化处理，方程表达如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ^ { \\alpha } x ( t ) = - \\rho x \\mathrm { ( } \\bigg [ \\frac { t } { r } \\bigg ] r - \\tau \\mathrm { ) } \\bigg ( 1 + x \\mathrm { ( } \\bigg [ \\frac { t } { r } \\bigg ] r \\bigg ) \\bigg ) , t \\in \\left( 0 , T \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始条件为式(4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将方程(5)逐段离散的过程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $t \\in \\left[ 0 , r \\right)$ ，那么 ${ \\frac { t } { r } } \\in [ 0 , 1 )$ ，故有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ^ { \\alpha } x ( t ) = - \\rho x _ { 0 } \\left( - \\tau \\right) \\left( 1 + x _ { 0 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么方程(6)的解为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { x \\big ( t \\big ) = x _ { 0 } - I ^ { \\alpha } \\big ( \\rho x _ { 0 } \\big ( - \\tau \\big ) \\big ( 1 + x _ { 0 } \\big ) \\big ) } } \\\\ { \\displaystyle { \\quad \\quad = x _ { 0 } - \\big ( \\rho x _ { 0 } \\big ( - \\tau \\big ) \\big ( 1 + x _ { 0 } \\big ) \\big ) \\int _ { 0 } ^ { t } \\frac { \\big ( t - s \\big ) ^ { \\alpha - 1 } } { \\Gamma \\big ( \\alpha \\big ) } d s } } \\\\ { \\displaystyle { \\quad \\quad = x _ { 0 } - \\frac { \\big ( t \\big ) ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\big ( \\rho x _ { 0 } \\big ( - \\tau \\big ) \\big ( 1 + x _ { 0 } \\big ) \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $t \\in \\left[ r , 2 r \\right)$ ，那么 ${ \\frac { t } { r } } \\in \\left[ 1 , 2 \\right)$ ，故有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ^ { \\alpha } x \\big ( t \\big ) = - \\rho x _ { 1 } \\big ( r - \\tau \\big ) \\big ( 1 + x _ { 1 } \\big ( r \\big ) \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么方程(6)的解为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle x _ { 2 } \\left( t \\right) = x _ { 1 } \\left( r \\right) - I _ { r } ^ { \\alpha } \\left( \\rho x _ { 1 } \\big ( r - \\tau \\big ) \\big ( 1 + x _ { 1 } \\big ( r ) \\big ) \\right) } \\\\ { \\displaystyle \\qquad = x _ { 1 } \\big ( r \\big ) - \\Big ( \\rho x _ { 1 } \\big ( r - \\tau \\big ) \\big ( 1 + x _ { 1 } \\big ( r ) \\big ) \\Big ) \\int _ { r } ^ { t } \\frac { \\big ( t - s \\big ) ^ { \\alpha - 1 } } { \\Gamma \\big ( \\alpha \\big ) } d s } \\\\ { \\displaystyle \\qquad = x _ { 1 } \\big ( r \\big ) - \\frac { \\big ( t - r \\big ) ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\Big ( \\rho x _ { 1 } \\big ( r - \\tau \\big ) \\big ( 1 + x _ { 1 } \\big ( r ) \\big ) \\Big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重复上述过程，易得到",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n + 1 } ( t ) = x _ { n } ( n r ) - \\frac { ( t - n r ) ^ { \\alpha } } { \\Gamma ( 1 + \\alpha ) } ( \\rho x _ { n } ( n r - \\tau ) ( 1 + x _ { n } ( n r ) ) ) , t \\in [ n r , ( n + 1 ) r ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令 $t  ( n + 1 ) r$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n + 1 } \\left( \\left( n + 1 \\right) r \\right) = x _ { n } \\left( n r \\right) - \\frac { \\left( r \\right) ^ { \\alpha } } { \\Gamma \\left( 1 + \\alpha \\right) } \\Big ( \\rho x _ { n } \\left( n r - \\tau \\right) \\left( 1 + x _ { n } \\left( n r \\right) \\right) \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $\\boldsymbol { \\tau } = \\boldsymbol { r }$ ，故有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n + 1 } = x _ { n } - { \\frac { \\left( r \\right) ^ { \\alpha } } { \\Gamma \\left( 1 + \\alpha \\right) } } { \\big ( } \\rho x _ { n - 1 } \\left( 1 + x _ { n } \\right) { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是欧拉离散化方法是对求导的近似估计，而预估-校正法是对积分的近似估计错误!未找到引用源。，而本文提出的离散化方法是对当前研究系统区间右端的一种近似逼近。此外，可以注意到 $\\alpha \\to 1$ 时，即欧拉离散过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Wright时滞微分系统的动力学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于非线性系统，可采用在相空间观察其轨道的方法。非线性系统随着时间的演变，将趋于维数比原来相空间低的极限集合-吸引子。通常简单的吸引子有不动点、极限环和环面。简单吸引子又受控制参数的影响，随着控制参数的变化，简单吸引子可逐渐发展为奇怪吸引子，此时系统是混沌的错误!未找到引用源。。这种当控制参数变化到某个临界值时导致系统的动力学状态发生变化的现象称为分岔。下面从系统不动点的稳定性开始，考察系统不动点稳定性，分岔点位置，分岔类型以及发生分岔后的混沌判别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接下来研究方程(8)的定点，通过求解下式，可知其存在两个定点，分别为0和-1。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = x - { \\frac { \\left( r \\right) ^ { \\alpha } } { \\Gamma { \\big ( } 1 + \\alpha { \\big ) } } } { \\big ( } \\rho x { \\big ( } 1 + x { \\big ) } { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为研究系统(8)定点的稳定性，给出如下定理：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1错误!未找到引用源。 假设函数 $f$ 为定义在 $R$ 上的一个光滑映射， $x _ { 0 }$ 为函数 $f$ 的的定点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)如果 $\\left| f ^ { \\prime } { \\left( x _ { 0 } \\right) } \\right| < 1$ ，那么 $x _ { 0 }$ 是系统的稳定点;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)如果 $\\left| f ^ { \\prime } ( x _ { 0 } ) \\right| > 1$ ，那么 $x _ { 0 }$ 是系统的不稳定点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先考虑定点 $x _ { 0 } = - 1$ 的情况，可知此时$\\left| f ^ { \\prime } ( x _ { 0 } ) \\right| = \\left| 1 + { \\frac { r ^ { \\alpha } } { \\Gamma { \\left( 1 + \\alpha \\right) } } } \\rho \\right| > 1$ ，故系统在定点\"-1'是不稳定的；而对于定点 $\\cdot _ { 0 } ,$ 是稳定的，当且仅当",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 < \\rho < \\frac { 2 \\Gamma \\left( 1 + \\alpha \\right) } { r ^ { \\alpha } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，为数值仿真的方便，可将方程(8)改写为如下二阶差分方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle x _ { n + 1 } = x _ { n } - \\frac { \\left( r \\right) ^ { \\alpha } } { \\Gamma \\left( 1 + \\alpha \\right) } \\big ( \\rho y _ { n } \\left( 1 + x _ { n } \\right) \\big ) } \\\\ { \\displaystyle y _ { n + 1 } = x _ { n } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "那么此时系统存在两个定点： $f _ { 1 } x _ { 1 } = \\left( 0 , 0 \\right)$ ， $f _ { 1 } x _ { 2 } = \\left( - 1 , - 1 \\right)$ 。为研究定点的局部稳定性，需求出系统在每个定点的雅克比矩阵的特征值。因根据动力系统稳定性定理错误!未找到引用源。可知当$\\left| \\lambda _ { i } \\right| < 1 , i = 1 , 2$ ，系统渐进稳定。可知系统在任意点 $\\left( x , y \\right)$ 雅克比",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "矩阵的表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left( \\begin{array} { c c c } { { 1 - \\displaystyle \\frac { r ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\rho y } } & { { - \\displaystyle \\frac { r ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\rho \\big ( 1 + x \\big ) } } \\\\ { { 1 } } & { { 0 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1定点1的稳定性分析及分岔",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将第一个定点 $f _ { 1 } x _ { 1 } = \\left( 0 , 0 \\right)$ 带入便可得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left( \\begin{array} { c c } { { 1 } } & { { - \\displaystyle \\frac { r ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\rho } } \\\\ { { 1 } } & { { 0 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "得到的特征方程为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\lambda \\right) = \\lambda ^ { 2 } - \\lambda + \\frac { r ^ { \\alpha } } { \\Gamma \\left( 1 + \\alpha \\right) } \\rho\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求得的特征值为 $\\lambda _ { 1 , 2 } = 0 . 5 \\pm 0 . 5 \\sqrt { 1 - 4 \\frac { r ^ { \\alpha } \\rho } { \\Gamma \\left( 1 + \\alpha \\right) } }$ 可知当$1 - 4 \\frac { r ^ { \\alpha } \\rho } { \\Gamma \\big ( 1 + \\alpha \\big ) } > 0$ 0即0<p< $0 < \\rho < \\frac { \\Gamma \\big ( 1 + \\alpha \\big ) } { 4 r ^ { \\alpha } }$ 时，此时 $0 < \\lambda _ { 1 , 2 } < 1$ ，不动点为稳定结点；当 $\\rho > \\frac { \\Gamma { \\left( 1 + \\alpha \\right) } } { 4 r ^ { \\alpha } }$ 时， $\\lambda _ { 1 }$ 和 $\\lambda _ { 2 }$ 共轭，其模为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\lambda _ { 1 } | { = } | \\lambda _ { 2 } | { = } \\sqrt { \\frac { r ^ { \\alpha } \\rho } { \\Gamma \\left( 1 + \\alpha \\right) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可知当 $\\rho = \\frac { \\Gamma \\big ( 1 + \\alpha \\big ) } { r ^ { \\alpha } }$ 时，此时 $\\left| \\lambda \\right| = 1$ ，于是乘子开始穿过夫洛开单位圆，发生Neimark-Sacker分岔，见如下证明，分岔点为 $\\left( x , y \\right) = \\left( 0 , 0 \\right) , \\rho = \\frac { \\Gamma \\left( 1 + \\alpha \\right) } { r ^ { \\alpha } } \\circ$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为对于不动点而言，当满足 $\\left| \\lambda _ { i } \\right| < 1 , i = 1 , 2$ 的充分必要条件为Jury 判定条件错误！未找到引用源。\\~错误！未找到引用源。，表达如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a) $F = 1 + T + D > 0$ （204号 $b ) T C = 1 - T + D > 0 .$ $\\mathrm { c } ) \\ H = 1 - D > 0 .$ （204号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里 $T \\ , \\ D$ 分别表示矩阵的迹和雅克比行列式的值。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { T \\colon \\ T r \\big ( J \\big ) = J _ { 1 1 } + J _ { 2 2 } , } \\\\ & { D \\colon D e t \\big ( J \\big ) = J _ { 1 1 } J _ { 2 2 } - J _ { 1 2 } J _ { 2 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(12)可知，此时 $T = 1$ ， $D = \\frac { r ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\rho$ ，可知此时条件a)b)总是满足的，而对于条件c)不是总满足的。根据Jury 判定准则，当 $1 - D = 0$ 时，即 $1 - f \\left( 0 \\right) = 1 - \\frac { r ^ { \\alpha } } { \\Gamma \\left( 1 + \\alpha \\right) } \\rho$ T(1+α）P，那么$\\rho = \\frac { \\Gamma \\big ( 1 + \\alpha \\big ) } { r ^ { \\alpha } }$ 此时系统存在单位元上一对共轭复根，由图1\\~3可知当 $\\rho > \\frac { \\Gamma \\left( 1 + \\alpha \\right) } { r ^ { \\alpha } }$ 时，系统失稳发生Neimark-Sacker分岔。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2定点2的稳定性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二个定点 $f _ { 1 } x _ { 2 } = \\left( - 1 , - 1 \\right)$ 的雅克比矩阵表达如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left( \\begin{array} { c c } { { r ^ { \\alpha } } } & { { 0 } } \\\\ { { \\Gamma \\big ( 1 + \\alpha \\big ) } } & { { 0 } } \\\\ { { 1 } } & { { 0 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "得到的特征方程为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( \\lambda \\right) = \\lambda \\left( \\lambda - 1 - \\frac { r ^ { \\alpha } } { \\Gamma \\left( 1 + \\alpha \\right) } \\rho \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "求得的特征值为： $\\lambda = 0$ ， $\\lambda _ { 2 } = 1 + \\frac { r ^ { \\alpha } } { \\Gamma \\big ( 1 + \\alpha \\big ) } \\rho$ 。可知无论 $\\rho$ 取任意值，定点 $f _ { 1 } x _ { 2 } = \\left( - 1 , - 1 \\right)$ 总是不稳定的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3混沌判别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "混沌系统在相空间中是由奇怪吸引子的不规则轨线来描述的错误!未找到引用源。，为了定量刻画奇怪吸引子的运动状态，引入了Lyapunov指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义1错误!未找到引用源。 设表示一般二维映射 $f$ 的Jacobi矩阵，",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { i } = f ^ { \\prime } { \\bigl ( } z _ { 0 } { \\bigr ) } \\cdot f ^ { \\prime } { \\bigl ( } z _ { 1 } { \\bigr ) } \\cdots f ^ { \\prime } { \\bigl ( } z _ { i - 1 } { \\bigr ) } = { \\Bigl [ } f ^ { i } { \\bigl ( } z { \\bigr ) } { \\Bigr ] } _ { z = z _ { 0 } } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 $J _ { \\it { i } }$ 的2个复特征根取模后，依次从小到大顺序排列后为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\lambda _ { 1 } ^ { i } \\right| \\geq \\left| \\lambda _ { 2 } ^ { i } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "那么 $f$ 的Lyaounov指数定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { \\lambda } = \\operatorname * { l i m } _ { i \\to \\infty } \\frac { 1 } { i } \\log \\left| \\lambda _ { k } ^ { ( i ) } \\right| \\quad \\left( k = 1 , 2 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该定义是计算一般二维映射的Lyaounov指数的理论基础。Lyaounov指数的大小表明相空间中相近轨道的平均收敛或发散的指数率。可知，非负的Lyapunov指数的方向，对吸引子起支撑作用，而负的Lyapunov指数对应着收缩方向。这两种因素对抗的结果就是伸缩与折叠操作，这就形成奇怪吸引子的空间几何形状。因此，对于二维映射的奇怪吸引子而言，其最大Lyapunov指数为正；反之亦然。下节数值仿真给出在不同的$r , \\alpha , \\rho$ 时的Lyaounov指数，并由此判定系统发生混沌与否。值得注意的是，对于系统式（8）的Lyaounov指数表达为",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab4f9cf9c3e3ebac43ef42d6d4d0dc0ee9997227410c40ead633eb98c5c5f9aa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL y a . \\exp = \\operatorname* { l i m } _ { n \\to \\infty } \\sum \\log _ { 2 } \\Biggl ( 1 - \\frac { r ^ { \\alpha } } { \\Gamma \\bigl ( 1 + \\alpha \\bigr ) } \\rho \\bigl ( 1 + 2 x \\bigr ) \\Biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $\\alpha \\to 1$ 时，即原离散系统 $x _ { n + 1 } = x _ { n } - r \\rho x _ { n } { \\bigl ( } 1 + x _ { n } { \\bigr ) }$ 的Lyaounov指数的表达式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 数值仿真分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章主要借助MATLAB 进行数值仿真来说明理论结果以及揭示系统(10)在 $\\boldsymbol { \\tau } = \\boldsymbol { r }$ 复杂的动力学现象。这里主要采用控制变量法，即在其余参量保持正常值的条件下单独探讨一个参量对系统的影响错误！未找到引用源。。本文探讨了系统参数 $\\rho$ （见图1\\~3），时滞 $\\boldsymbol { r }$ （图4）以及阶数 $\\alpha$ 对分数阶微分的影响。此外，一个系统发生混沌与否，一个关键的参考依据就是最大李雅普诺夫指数。故最大李雅普诺夫指数是对混沌最好的观测者，当系统发生混沌时，最大李雅普诺夫为正，反之为负。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于系统(10)，图1中分别取时滞 $r = 0 . 2 5$ ，分数阶阶次 $\\alpha$ 取定为0.80到0.95，此时分数阶阶次具有一般性，改变参数 $\\rho$ ，观察在此区间内系统随着参数改变的动力学现象。此外初值均设定为 $x _ { 0 } = 0 . 1$ ， $y _ { 0 } = 0 . 2$ ，步长设定为0.001。可知随着参数 $\\rho$ 的增大，系统由稳定态发生Neimark-Sacker分岔，进入混沌，此时从图中可看出在分岔点Lyapunov指数为0，进入混沌后大于0。此外对于很多动力系统而言分岔及混沌现象都是由时滞引起的，故这里替换时滞为 $r = 0 . 5 , r = 1$ ，改变参数 $\\rho$ ，查看时滞对系统的影响，见图2和3。从图1-3分别可以看出，随着 $\\boldsymbol { r }$ 和阶数 $\\alpha$ 的增大，系统(10)趋于稳定，不同的是 $\\boldsymbol { r }$ 增大，系统稳定区域变小，分岔提前，而阶数 $\\alpha$ 反之。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图1\\~3 可以得到分数阶阶次的改变对于影响着系统(10)的运动状态，先初值设定为 $x _ { 0 } = 0 . 1 , y _ { 0 } = 0 . 2$ ，步长设定为0.005。固定参数 $\\rho$ ，之后分别取时滞 $\\boldsymbol { r }$ 为 $0 . 1 4 \\sim 0 . 3$ ，阶数 $\\alpha$ 为$0 . 6 0 { \\sim } 0 . 9 5$ ，得到分岔图如图4所示，可知随着 $\\alpha$ 的增加系统趋于稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60426a7597fcc70a92b550684d875c24386ca162d2d11deb4c539f0b43ba29a3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c132d69eccb034f2d08706ce1ad1e682a60f7a118567f92d9de47fe9535fe44b.jpg",
+        "img_caption": [
+            "图1 $r = 0 . 2 5$ 时，分数阶 $\\alpha$ 取不同值时系统(10)的分岔图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab5dce93d6732f0cc28c4a062b383d2b5ad87a1954d1698829bcc7fb17eb893d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c806119cbaac3319e591cd22694264301d8164c51cc003b109f0cdfdc8d55084.jpg",
+        "img_caption": [
+            "图2 ${ r = 0 . 5 }$ 时，分数阶 $\\alpha$ 取不同值时系统(10)的分岔图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/450672090f647f786ce69cbfd97f2145b4126bfdbeaa6241aeed791ddc159df6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6defe16c68cab6a983c6f77c02d9b338807c64c714844c9a7178369d75bc4064.jpg",
+        "img_caption": [
+            "图3 $r = 1$ 时，分数阶 $\\alpha$ 取不同值时系统(10)的分岔图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/104466532c4a9aa098375f50fb5009c8038a20b586f4231db61383a9df000219.jpg",
+        "img_caption": [
+            "图4 $\\boldsymbol { r }$ 固定，分数阶 $\\alpha$ 变量时系统(10)的分岔图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当参数变化到某个值时，系统相图的拓扑结构也随之变化，在图形上表现为参数取改值时相图发生突变。接下来给出系统（10）在 $\\rho = 4$ ， $r = 0 . 2 5$ ， $\\alpha = 0 . 9 5$ 时的相图。从图1可知当$\\rho = 4$ ，系统为混沌状态，Lyapunov大于0，故图5表现为混沌吸引子。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/540ff59526ec35a0f3455963854bc59b1f0fde6aa74cbc47b2ec5ba10c265853.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "混沌动力系统最重要的特性之一是对初始条件变化十分敏感，这意味着对当前轨迹的任意小的扰动都可能被放大，并在多次迭代之后导致显著不同的未来行为。从$\\left( o \\big ( x _ { 1 } , y _ { 1 } \\big ) , o ^ { \\prime } \\Big ( x _ { 1 } ^ { \\prime } , y _ { 1 } ^ { \\prime } \\Big ) \\right)$ 不同的两个点出发，两条路径之间的距离用欧式距离衡量，表达如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE d _ { o  o ^ { ' } } = \\sqrt { ( x _ { 1 } - x _ { 1 } ^ { ' } ) ^ { 2 } + ( y _ { 1 } - y _ { 1 } ^ { ' } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了显示混沌系统对初始条件的敏感性，图6绘制两个无限接近但不相同的初始点 $\\left( o ( 0 . 1 , 0 . 1 ) , o ^ { \\prime } ( 0 . 1 0 1 , 0 . 1 ) \\right)$ 之间的距离（用红线表示）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.03混沌系统稳定系统0.0250.020.0150.010.005WN00 10 20 30 40 50 60 70 80 90 100t",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "显然，对于混沌系统而言，尽管对初值扰动很小但在几次迭代后被放大。而由稳定系统生成的另一蓝色基准线，尽管两条轨迹从两个差异略大的点 $o \\big ( 0 . 1 , 0 . 1 \\big )$ 和 $o ^ { \\prime } \\mathopen { } \\mathclose \\bgroup \\left( 0 . 1 , 0 . 1 2 \\aftergroup \\egroup \\right)$ 出发，但随着迭代进行，两条轨迹之间的距离趋于0，表现出明显的初始敏感性，进而验证了上述的结论。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文研究了分数阶时滞Wright方程，并运用了一种离散化方法对其进行离散求解。并以 $\\alpha$ ， $\\mathbf { \\sigma } _ { \\rho }$ 为参数通过数值仿真，并通过分岔图、Lyapunove 指数、相图对其动力学现象进行分析。另外注意到，当 $\\alpha \\to 1$ 时，即欧拉离散过程错误!未找到引用源。。但是区别于欧拉法的是，本文成功对二阶Wright 微分方程进行离散。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]陈志刚，梁涤青，邓小鸿，等.Logistic 混沌映射性能分析与改进[J]. 电子与信息学报,2016,38(6):1547-1551.(Chen Zhigang,Liang Diqing, Deng Xiaohong,et al.Performance analysis and improvement of logistic chaotic mapping[J].Journal ofElectronics & Information Technology,2016, 38 (6): 1547-1551.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]Tong Xiaojun.Design of an image encryption scheme based on a multiple chaotic map [J].Communication in Nonlinear Science and Numerical ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Simulation,2013,18 (7): 1725-1733.   \n[3]Lee Tianfu.Enhancing the security of password authenticated key agreement protocols based on chaotic maps [J]. Information Sciences,2015, 290 (1): 63-71.   \n[4] 刘泉，李佩玥，章明朝，等．基于可 Markov 分割混沌系统的图像加密 算法[J].电子与信息学报，2014,36(06):1271-1277.(LiuQuan,Li Peiyue,Zhang Mingcaho,et al.Image Encryption Algorithm Based on Chaos System having Markov Portion [J].Journal of Electronics& Information Technology,2014,36 (06):1271-1277.)   \n[5]Hartley TT,Lorenzo CF, Qammer H K. Chaos in a fractional order Chua system [J]. IEEE Trans on Circuits and Systems l: Fundamental Theoty and Applications,1995,42(8): 485-490.   \n[6]ElsayedA MA, Salman SM,NaemaaAE.Ona fractional-orderdelay Mackey-Glass equation [J].Advances in Difference Equations,2016,2016 (137): 1-11.   \n[7]Podlubny I. Fractional Differential Equations [M]. Mathematics in Science and Engineering. 1999.   \n[8]程金发．分数阶差分方程理论[M].厦门：厦门大学出版社，2011. (Cheng Jinfa. Theoryof Fractional Diferential Equations [M]. Xiamen: Xiamen University Press,2011.)   \n[9]刘正荣，李继彬.哈密顿系统与时滞微分方程的周期解[M].北京：科 学出版社，2000.(Liu Zhengrong,Li Jibin.Hamiltonian Systemsand Periodic Solutionof Delayed Differential Equations [M]. Beijing: Secience Press,2000.)   \n[10]贾保平．多时滞Wright方程的周期解问题探究[J].通化师范学院学报, 2009,30 (2):3-4.(Jia Baoping.Exploring Periodic Solution of multiple delayed Wright Differential Equations [J].Journal of Tonghua Teachers College,2009,30 (2): 3-4. )   \n[11] Sun H,Abdelwahed A,Onaral B.Linear approximation for transfer function with a poleoffractional-order[J]. IEEE Trans on Automatic Control,1984, 29 (5): 441-444.   \n[12] Diethelm K,Ford N J,Freed AD.A predictor-corrector approach for the numerical solution of fractional differential equations [J].Journal of Nonlinear Dynamics,200,29: 3-22.   \n[13] Shukla MK, Sharma B B.Stabilization of fractional order discrete chaotic systems [M]//Fractional Order Control and Synchronization of Chaotic Systems. [S.1.]: Springer International Publishing,2017: 431-445.   \n[14]陈斯养，张艳．具有分段常数变量的捕食-被捕食模型的分支分析[J]. 兰州大学学报：自然科学版,2012,48(03):103-112,117.(Chen Siyang, Zhang Yan.Stabilityand bifurcation analysis ofa predator-prey model with piecewise constant arguments [J]. Journal of Lanzhou University: Natural Sciences,2012,48 (3): 103-112,117.)   \n[15]林诗仲，俞元洪．含分段常数变元的中立型时滞微分方程的振动定理 [J].数学杂志,1997,17(1):144-145.(Lin Shizhong,Yu Yuanhong.The oscillation theory of neutral delay differential equationswith piecewise constant arguments [J].Journal of Math,1997,17(1):144-145.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16]戴斌祥．具有分段常数变元的时滞微分方程解的振动性 (英文)[J]．工 科数学,1998,14(2): 22-27.(Dai Binxiang. Oscillation of Solution of Delay Differential Equations with Piecewise Constant Arguments [J]. Journal of Mathematics for Technology,1998,14(2): 22-27.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]陈斯养，朱晓琳．具有时滞和分段常数变量的单种群收获模型的分支 分析[J].陕西师范大学学报：自然科学版，2013,41(2):1-4.(Chen Siyang,Zhu Xiaolin.Bifurcation analysis of the single population harvest model with time-delay and piecewise constant variables [J]. Journal Shanxi Nornal University: Natural Science Edition,2013,41 (2): 1-4.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]Raheem ZFE,Salman S M.On a discretization process of fractional-order Logistic differential equation [J]. Jouurnal of the Egyptian Mathematical Society,2014,22 (3):407-412. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19]Elsayed A M A,Salman S M.Chaos and bifurcation of the Logistic discontinuous dynamical systems with piecewise constant arguments [J]. Malaya Journal ofMatematik,2013,3(1):14-20. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20] Elsayed AMA, Salman S M. On a discretization process of fractional order riccati differential equation [J].Journal of Fractional Calculus and Applications,2013,4(2):251-259. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21]王兴元，朱伟勇，顾树生．一般二维二次映射中的混沌与分形[J].计算机辅助设计与图形学学报，2000,12(6):408-413.(Wang Xingyuan,Zhu Weiyong,Gu Shusheng.Chaos and fractal of the general two-dimensional quadratic map [J]. Journal of Computer Aiden Design andComputer Graphics,2000,12(6): 408-413.)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22] Bohai N A.Continuous solutions of systems of nonlinear difference equations with continuous arguments and their properties [J].Journal of Nonlinear oscillations,2007,10(2):169-175.   \n[23]董丽华．差分方程的平衡点及其稳定性分析[J].牡丹江大学学报， 2008,17 (6):115-116.(Dong Lihua.The equilibrium points of difference equations and stability analysis [J]. Journal ofMudanjiang University,2008, 17 (6): 115-116.)   \n[24]肖飞，唐小宏，王玲，等．使用Jury准则对时域有限差分算法进行稳定 性分析[J].中国科技论文,2012,7(1):49-51.(Xiao Fei,Tang Xiaohong, Wang Ling,et al. Simplified stability analysis of the FDTD methods by using Jury test [J]. China Sciencepaper,2012,7(1): 49-51.)   \n[25]胡军浩，宴磊．一类二维动力系统的稳定性及分叉分析[J]．中南民族 大学学报：自然科学版，2014,4(4):105-109.(Hu Junhao,Yan Lei. Stability and bifurcation analysis of a class of two-dimensional dynamical systems [J]. Journal of South-Central University for Nationalities:Natural Science Edition,2014,4(4):105-109.)   \n[26] Keel L H,Bhattacharyya SP.A new proof of the Jury test [J].Automatic., 1999,35 (2): 251-258.   \n[27]Michael RB.Strange attractors [M]. New York: Wiley,1996: 3-76.   \n[28]古元风，肖剑.Willis环脑动脉瘤系统的混沌分析及随机相位控制[J]. 物理学报,2004,63(16):51-58.(Gu Yuanfeng,Xiao Jian.The chaotic analysis and random phase control of the Wilis aneurysm system [J]. Physical Science Journal,2004,63 (16): 51-58.) ",
+        "page_idx": 7
+    }
+]

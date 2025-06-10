@@ -1,0 +1,97 @@
+# 综述
+
+# 重型再生障碍性贫血的研究进展
+
+聂玲辉1,伍志勇1²,朱晓光1,2.3,商建青³，陈宝田1,²,朱玲玲1,2  
+南方医科大学'中医药学院，2南方医院中医科,广东广州510515;南方医科大学附属中西医结合医院，广东  
+广州510000
+
+摘要：重型再生障碍性贫血(SAA)是由多种病因导致的骨髓造血功能衰竭，以造血干细胞损伤、造血微环境异常及免疫功能紊乱导致严重的贫血、感染、出血为临床表现的重度骨髓衰竭性疾病。SAA发病机制复杂,至今尚未完全明了。随着医疗水平的提高，人们对于SAA的认识已从宏观微观有了质的飞跃。目前对SAA病因的研究热点主要集中在T细胞亚群的异常、负性调控因子水平的改变、细胞凋亡等，现就这些方面的研究进行综述。
+
+关键词:再生障碍性贫血；发病机制；研究进展
+
+# Research progress of severe aplastic anemia
+
+NIE Linghui', WU Zhiyong12, ZHU Xiaoguang23，SHANG Jianqing,CHENBaotian12,，ZHU Lingling12 Colegefdiioalinedicinouedcalsitypartmentofdiioalineicie SouthernMedicalUnioesityGuangzhou5O15,ChinantegratieedicineHospitalAfliatedtoSuthenedicalesity Southern Medical University,Guangzhou 51oooo,China
+
+Abstract: severe aplasticanemia (SAA)isabonemarrow functionbyavarietyofcausesof failure tohematopoietic stemcel damage,hematopoeticcroenvironentdisordersandimunedunctionleadstoevereeia,fectionledinglincal manifestationsseverebone marowfailurediseases.SAApathogenesisofcomplex,hasnotyetfullyunderstood.Withthe improvement of medical standards, people's understanding from the macro and micro SAA has been a qualitative leap. At present thecauseof the SAA research focus mainlyconcentrated in the abnormal Tcell subsets,anegativeregulatorof level changes and apoptosis, are reviewed on research in these areas.
+
+Key words: severe aplastic anemia; pathogenesis; study progress
+
+随着我国工农业的科技进步，各种形式的化学物质的污染日趋严重，致使我国居民患再生障碍性贫血的人已经越来越多，极大的影响了人们的生活。重型再生障碍性贫血(SAA)是一组因骨髓增生减低或重度减低，造血干细胞缺陷、造血微环境异常及免疫功能紊乱导致严重的贫血、感染、出血为临床表现的重度骨髓衰竭性疾病。SAA的发病机制十分复杂，而且其发病机制至今尚未明确。SAA起病急，进展快，病情重，少数可有非重型进展而来。据统计中国SAA发病率已经达到7.4106,其中重型再生障碍性贫血0.14/10万[]。T细胞亚群的异常、负性调控因子水平的改变、细胞凋亡等是SAA发病机制相关研究的热点，本文将从以上几个方面进行文献研究。
+
+# 1三种学说参与SAA的发生发展
+
+SAA是一种异质性疾病，将其可能的发病机制比喻为"种子"学说(即造血干/祖细胞内在增殖缺陷)、“土壤"学说(即造血微环境支持功能缺陷）、“虫子"学说(即异常免疫损伤造血干细胞）、遗传倾向和化学毒物、药物、病毒等[2-3]。具体机制如图所示，图1-A表示易导致MHC分子同时递呈病毒蛋白和细胞蛋白的病毒感染造血细胞(绿色)后被T细胞识别，进而导致造血细胞的丢失出现SAA。图1-B细胞上的肽链有时被化学物质或药物改变，结果导致造血细胞的丢失。图1-C显示细胞肽链的改变可能是因为随机或诱导的基因突变产生，使免疫系统认为自身蛋白为异源蛋白，一样会导致SAA的发生[4]。
+
+# 2 $\mathbf { C D 8 + T }$ 淋巴细胞与SAA病理机制
+
+目前文献研究发现，SAA的免疫学发病机制主要跟T细胞亚群的分布与活化异常、细胞凋亡、T细胞受体谱形的偏移、负性造血调控因子水平的改变等相关[5，$\mathrm { C D 8 + T }$ 细胞仅经过双信号活化成为细胞毒性T淋巴细胞，才具有特异性杀伤靶细胞的生物学效应。影响骨髓造血干细胞增殖分化的主要因素是 $\mathrm { C D 8 + T }$ 淋巴细胞以及其释放的细胞因子，其方式有二种，一种是通过细胞毒作用直接抑制骨髓造血，另一种是释放细胞因子间接抑制造血功能[6-8]。对SAA患者的骨髓和外周血T淋巴细胞进行集落培养,研究结果显示，SAA骨髓及外周血的 $\mathrm { C D 8 + T }$ 细胞集落明显高于正常人，考虑 $\mathrm { C D 8 + T }$ 细胞被异常激活后，抑制自体及异体祖细胞集落形成，引起造血功能衰竭。所以在临床上，我们用免疫抑制剂治疗SAA有效，尤其是对SAA效果明显，其作用环节可能是与 $\mathrm { C D 8 + T }$ 细胞的减少相关。
+
+![](images/afac63698acbb73a0f1bf24529ddf2ad73267c22e895c25217833d940563f4bc.jpg)  
+图1SAA发病机制示意图A:被病毒感染而致SAA;B:被化学物质或药物改变而致SAA;C:基因突变而致SAA.
+
+# 3CTL生物学效应及其作用机制
+
+细胞毒性T淋巴细胞(CTL)是由 $\mathrm { C D 8 + T }$ 细胞经双信号激活后的一种有特异性杀伤靶细胞功能的特殊细胞。研究发现 $\mathrm { H L A { \mathrm { - } D R } + , C D 8 + , T I A { \mathrm { - } } 1 + , G B { \mathrm { - } } 7 + }$ 等是CTL的活化标志，再障患者骨髓标本GB $_ { - 7 + \mathrm { C D 8 + } }$ $_ \mathrm { H L A - D R + T }$ 细胞有明显增高，提示再障患者体内的淋巴细胞处于活化状态。而CTL是通过何种途径杀伤靶细胞，已有研究证实可能是通过胞因子途径、Fas-Fasl途径及穿孔素或颗粒酶B途径1(图2)。还可分泌肿瘤坏死因子 $( \mathrm { T N F } ) \alpha$ 及β,通过与靶细胞表面的肿瘤坏死因子受体I结合，激活胞内Caspase系统,从而介导靶细胞凋亡。
+
+冯乐等[研究发现在SAA患者中 $\mathrm { C D 8 + H L A - D R + }$ T细胞比例明显增高，并随患者病情缓解呈逐步下降趋势，从而证实 $\mathrm { C D 8 + H L A - D R + T }$ 细胞可能是导致SAA患者骨髓衰竭的主要效应T细胞。Liu[2发现，初治SAA患者CD8+HLA-DR $. +$ 效应T细胞与缓解SAA患者及正常人祖细胞共孵育后，祖细胞调亡率均明显增高，提示SAA患者CD8+HLA-DR $. +$ 效应T细胞能够明显增加骨髓造血细胞的凋亡率。可见， $\mathrm { C D 8 + H L A - D R + T } ;$ 细胞是活化的效应T细胞亚群之一，对于骨髓造血细胞过度调亡有诱导作用。
+
+# 4Fas/Fasl通路参与SAA的病理机制
+
+细胞调亡是指细胞程序性死亡过程，对维持机体的正常生理状态起着重要作用。然而，在炎症、肿瘤、免疫疾病等病理状态下，细胞凋亡的状态将发生改变。细胞调亡是造血系统疾病主要发病原因之一，其过程由促凋亡基因、抑凋亡基因、凋亡效应基因相互作用共同完成。文献研究发现，Fas/Fasl介导细胞凋亡在再障中起重要作用。Fas表达于成熟的T细胞、B细胞等多种细胞类型。Fasl是Fas的天然配体，Fasl为TNF相关的I型跨膜蛋白，Fasl主要表达在活化的T细胞和自然杀伤细胞上[3]。活化后的CTL表达Fasl,从而特异性地识别Fas阳性的细胞，使Fas与Fasl相结合，启动Fas死亡信号并形成死亡诱导复合物，活化半胱氨酸蛋白酶(Cas-pase)前体(Pro-caspase-8)为Caspase-8,进而由多种途径裂解、活化等一系列连锁反应激活Caspase家族的其他成员，从而降解多种死亡底物。通过DNA断裂、核小体形成、染色体凝聚、线粒体通透性改变等细胞形态学改变降解细胞的功能蛋白和结构蛋白，至此完成整个细胞凋亡过程[14-15]。Luther等[16]研究发现SAA患者T细胞胞浆内Fasl水平较正常对照高 $( P { < } 0 . 0 0 5 )$ ，但是细胞表面Fasl表达较低。胡明辉等认为在SAA病人中，Fas/Fasl蛋白主要表达于骨髓造血细胞，其中Fas表达在$\mathrm { C D 3 4 ( + ) , G l y c o A ( + ) , C D 3 3 ( + ) , }$ 和 $\mathrm { C D 1 4 ( + ) }$ ,而LiuCY认为Fasl主要表达在 $\mathrm { C D 8 ( + ) }$ 中[18]
+
+![](images/d4828cc2c8d87b4ac11b062ef73726aa97041305211edb39b4560baa6e6f4899.jpg)  
+图2CTL杀伤靶细胞方式示意图
+
+# 5 TNF- $\mathbf { \alpha } _ { \mathrm { { \alpha } } } \mathrm { { \cdot } } \mathbf { \alpha } _ { \mathrm { { \alpha } } } \mathrm { { \cdot } } \mathbf { \alpha } _ { \mathrm { { \beta } } }$ 与Fas/Fasl参与SAA的病理机制
+
+TNF- $\mathfrak { a }$ 来源于各种免疫细胞且具有广泛的生物学作用。研究发现SAA患者外周血TNF- $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { ~ a ~ } ~ } }$ 表达水平明显高于对照组，活化的 $\mathrm { C D 8 + T }$ 细胞可分泌高浓度的负性造血调节因子IFN-γ和TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 等[19-22]。研究还发现体外培养SAA患者造血细胞,TNF-α能抑制细胞克隆、增强T淋巴细胞和NK细胞的细胞毒作用；并能使淋巴细胞、单核细胞、中性粒细胞增多且功能增强和诱导NO合成，抑制骨髓造血细胞的增殖、分化而导致骨髓造血功能衰竭[23]。TNF-α可引起正常细胞过度凋亡而产生病理改变。TNF分子激活后可引起受体寡聚从而增加与配体结合时的亲和力，在Fas分子相关蛋白的作用下，TNF与TNFR相互作用后，TNFR通过多聚化反应激活caspase级联反应，并可引起线粒体膜的改变，从而诱发细胞凋亡。SAA患者骨髓中的IFN-γ和TNF-α产生过多，诱导 $\mathrm { C D 4 + }$ 细胞上调Fas抗原的表达，通过Fas/Fasl启动凋亡，使骨髓中 $\mathrm { C D 4 + }$ 细胞大量地凋亡，从而引起造血干细胞减少[24]
+
+由于TNF-α和TNF-β分子结构的相似性和受体的同一性，因此两者的生物学作用极为相似。但在某些生物学作用方面也有不同之处。TNF-β是由T淋巴细胞在抗原刺激下产生的淋巴因子，广泛参与炎症反应、细胞毒作用及促进CD8+HLA-DR $. + ^ { \prime }$ T细胞分泌IFN-y参与免疫系统调节。由上述可见，目前国内外关于TNF-a的研究较多，但TNF-β对SAA影响的相关报道却较缺乏。尤其在TNF的引起发热机理方面，有报道称TNF是一种内源性热原质，引起发热，并诱导肝细胞急性期蛋白的合成，其可能的发热原因是是通过直接刺激下丘脑提问调节中枢和刺激巨噬细胞释放IL-1而引起，还可通过IL-1、TNF-α刺激其它细胞产生IL-6。
+
+# 6热休克转录因子1与Fasl参与SAA的病理机制
+
+热休克因子1(HSF1)是最早被发现的热休克转录因子，在热休克反应时调控HSPs的诱导表达中发挥了重要作用25]。近年来文献研究发现，HSF1还参与对其他非HSPs基因的调控[26-29]。刘瑛等[30]曾采用HSF1基因敲除小鼠的生物信息学技术，发现了Fasl、Fas等8个基因的启动子区存在完整的HSE核心序列(nGSAA-nnTTCn)，研究表明上述多个基因可能直接受到HSF1的调控。国内研究者用在线启动子分析软件分析Fasl启动子区转录因子结合位点；凝胶阻滞实验研究内源性HSF1与FasL启动子区的热休克元件结合能力；将组成型活化的HSF1突变体与FasL启动子表达载体Fasl-luc共同转染HeLa细胞，结果发现HSF1明显上调Fasl-luc转录活性。因此，HSF1对Fasl具有转录调控作用。国外学者已经证实Fas受HSF1调控，而且可调控Fasl等多个细胞凋亡相关基因的表达[31。除了上述HSF1转录调控Fasl外，有研究者发现HSF1也可表达调控TNF- $\mathbf { \cdot a } _ { \scriptscriptstyle \odot }$ 实验研究者构建HSF1真核表达载体pcD-NA3.1-HSF1,TNF- $\mathfrak { a }$ 野生型启动子荧光素酶报告基因pGL3-TNFα-Y,TNF- $\mathfrak { a }$ 突变型启动子荧光素酶报告基因pGL3-TNFα-T。半定量RT-PCR检测TNF-αmRNA的表达，其结果表明热休克转录因子1通过与TNF-a启动子区HSE的结合下调RAW264.7TNF-αmRNA的表达,而且研究发现热休克蛋白在TNF-a诱导胃腺癌BGC823细胞凋亡中的作用，而且还呈剂量依赖效应[32。通过国内外研究发现HSF1转录调控Fasl、TNF-α,这无疑扩展了HSF1作为转录因子在免疫性疾病的调控范畴。
+
+目前对SAA的治疗主要包括支持疗法及促进骨髓恢复造血功能等治疗措施。其中支持治疗一般从控制感染，防止出血(输注血小板制剂),纠正贫血(成份输血)及护肝药物等方面入手。同时主要运用免疫抑制剂，雄激素，造血刺激因子，造血干细胞移植等来促进骨髓造血细胞的功能恢复。上述治疗对患者的产生较普遍及严重的副作用,极大的影响了患者的生活质量。而中医药在该病的治疗中有着历史悠久，疗效显著,花费小，副作用少，易于被接受等优势，因而在SAA治疗中有重要地位。SAA属于中医学急劳、髓枯、发热等范畴，由于正气受损，机体抗病能力下降，免疫机能异常，邪毒乘虚而袭，导致病情几经反复，沉疴难解，此即虚劳缠绵难愈原因所在;另一方面，毒能伤血、动血，与血相搏，淤毒阻络，导致气血运行不畅，则阴阳失调，气血逆乱，而发生虚劳。在病机及治疗方面仁者见仁智者见智。有研究者5认为多有脾肾亏虚与血痴夹杂有关。更有提出主要从“补肾为本，辨明阴阳”“顾护脾胃，寒热并用"和“出现变证，标而本之"三方面审病求证、因人制宜和辨证施治[33-34]。朱玲玲[35]运用加味八珍汤从气血双补方面治疗再生障碍性贫血患者具有独特的疗效。
+
+综上所述，目前SAA发病机制尚未明确，可能与T细胞亚群的异常、负性调控因子水平的改变、细胞凋亡等有关。SAA的临床治疗方法尚未有突破性进展，而中医药的防治有一定优势，通过大量的临床实践表明中西医结合治疗SAA效果确切，发展前景广阔。因此我们应当中西医结合两者兼容并举，互为所用。而对SAA发病机制的深入研究是SAA诊疗的关键，它利于更好地研发分子靶向性治疗药物，对临床监测指标、指导治疗和判断预后具有重要的意义。
+
+# 参考文献：
+
+[1]吴迪炯,周郁鸿,沈一平.慢性再生障碍性贫血中医认识及优势进展 [J].中华中医药学刊,2012,30(3):500-2.   
+[2]Guo Y,Kartawinata M,Li J,et al. Inherited bone marrow failure associated with germline mutation of ACD,the gene encoding telomere protein TPP1[J].Blood,2014,124(18): 2767-74.   
+[3］郭卫卫,李君梅.再生障碍性贫血机制的研究进展[J].中国医学工程, 2011,19(1): 165-6.   
+[4]Weiss DJ. New insights into the physiology and treatment of acquired myelodysplastic syndromes and aplasticpancytopenia [J]. Vet Clin North Am Small Anim Pract,2003(6): 1317-34.   
+[5]杨 蓉,谢晓恬.再生障碍性贫血免疫学发病机制的研究进展[J].中国 小儿血液与肿瘤杂志,2009,14(1):42-5.   
+[6] Chalayer E,French M, Cathebras P.Aplastic anemia as a feature of systemic lupus erythematosus: a case report and literature review [J]. Rheumatol Int,2015,35(6): 1073-82.   
+[7]Sa Q,Woodward J, Suzuki Y. IL-2 produced by $\mathrm { C D 8 + }$ immune T cells can augment their $\mathrm { I F N } { - } \gamma$ productionindependently from their proliferation in the secondary response to an intracellular pathogen [J]. JImmunol,2013,190(5): 2199-207.   
+[8]Liu Z,Liu JQ,Talebian F,et al. IL-27 enhances the survival of tumor antigen-specific $\mathrm { C D 8 ~ + ~ T ~ }$ cellsand programs them into IL-10-producing,memory precursor-like effector cells [J].Eur J Immunol,2013,43(2): 468-79.   
+[9]翟春燕,魏 武,纪爱芳,等.马钱子碱对再生障碍性贫血患者T细胞分 泌功能和增殖能力的影响[J].中国实验血液学杂志,2011,19(2): 435-8.   
+[10]Keckler MS.Dodging the CTL response:viral evasion of Fas andgranzyme induced apoptosis [J].Front Biosci,2007,12(7): 725-32.   
+[11]冯 乐,付 蓉,王化泉.重型再生障碍性贫血患者CD8 $+$ 效应T细胞损 伤骨髓造血途径的研究[J].中华血液学杂志,2011,32(9):597-601.   
+[12]Liu CY,Fu R,Wang J,et al. Expression of lymphokines in $\mathrm { C D 8 ( + ) }$ HLA-DR $( + ) \mathrm { T }$ lymphocytesof patients with severe aplastic anemia [J].Chin JMed,2012,92(18): 1240-3.   
+[13]刘宝山,顾民华,王兴丽,等.慢性再生障碍性贫血辨证分型与Fas/ FasL蛋白表达相关性研究[J].天津中医药,2009,26(4):280-3.   
+[14]楚玉洁,蒋军广,谭伟丽,等.凋亡相关基因Fas／Fasl在非小细胞肺癌 中的表达及临床意义[J].中国老年学杂志,2014,4(8):2083-5.   
+[15]Nabhani S,Hnscheid A,Oommen PT,et al. A novelhomozygous Fas ligand mutation leads to early protein truncation,abrogation of death receptor and reverse signaling anda severe form of the autoimmune lymphoproliferative syndrome[J]. Clin Immunol,2014,28(2): 231-7.   
+[16]Luther WA,Nissen C,Wodnar FA.Intracellular Fas ligand is elevated in T lymphocytes in severe aplastic anaemia[J].Br JHaematol, 2001,114(4): 884-90.   
+[17]胡明辉,周永明,文 伟,等.健脾补肾活血方对再生障碍性贫血患者骨   
+[18]Liu CY,Fu R，Wang HQ，et al．Fas/FasL in the immune pathogenesis of severe aplastic anemia[J].Genet Molecul Res, 2014,13(2): 4083-8.   
+[19]王良妥,张湘兰，谭日标.T细胞亚群在再生障碍性贫血外周血的表达 及临床意义[J].海南医学杂志,2011,22(14):93-5.   
+[20] Gaman A,Gaman G,Bold A.Acquired aplastic anemia: correlation between etiology，pathophysiology，bone marrow histology and prognosis factors[J].Rom JMorphol Embryol,2009,50(4): 669-74.   
+[21]何淑娅,蒋能刚,曾婷婷,等.免疫抑制治疗对再生障碍性贫血患者外 周血淋巴细胞胞浆内TNF-α/IFN-γ表达的影响[J].中国实验血液学 志,2011,19(3): 689-91.   
+[22]Dubey S,Shukla P, Nityanand S.Expression of interferon-gamma andtumor necrosis factor-alpha in bone marrow Tcells and their levels inbone marrow plasma in patients with aplastic anemia[J]. Ann Hematol,2005,84(9): 572-7.   
+[23]刘晓,付 蓉,王珺,等.肿瘤坏死因子-β对重型再生障碍性贫血患者 效应T细胞损伤骨髓造血的影响[J].中国免疫学杂志,2012,5(28): 544-5.   
+[24]Li JP, Zheng CL,Han ZC.Abnormal immunity and stem/progenitor cells in acquired aplastic anemia[J].Crit Rev Oncol Hematol, 2010, 75(2): 79-93.   
+[25]Brinkmeier H, Ohlendieck K.Chaperoning heat shock proteins:proteomic analysis and relevance for normal anddystrophin-deficient muscle[J]. Proteomics Clin Appl,2014,8(11/12): 875-95.   
+[26]Gabai VL,Meng L,Kim G,et al. Heat shock transcription fctor Hsfl is involved intumor progression via regulation of hypoxiainducible factor 1 and RNA-binding protein HuR[J].Mol Cell Biol, 2012,32(5): 929-40.   
+[27]Rawat P,Mitra D.Cellular heat shock factor 1 positively regulates human immunodeficiency virus-1 gene expression and replication by two distinct pathways [J].Nucleic Acids Res,2011,39(14): 5879-92.   
+[28]Takii R,Inouye S,Fujimoto M, et al.Heat shock transcription factor 1 inhibits expression of IL-6 through activating transcription factor 3[J]. JImmunol,2010,184(2): 1041-8.   
+[29]Eden W,Anherwijnen M,Wagenaar J,et al. Van der Zee R.stress proteins are used by the immunesystem for cognate interactions with anti-inflammatory regulatory T cells[J].FEBS Lett,2O13,587 (13): 1951-8.   
+[30]肖卫民,鄂顺梅,刘瑛,等.热休克因子1调控的细胞凋亡相关基因的 筛选与鉴定[J].研究论文摘要,2012,11(8):111-3.   
+[31] Shunmei E,Zhao YB,Huang YH,et al.Heat shock factor 1is a transcription factor of Fas gene[J].Mol Cells,2010,29(5): 527-31.   
+[32]欧阳华伟,谭军,黎高峰,等.热休克转录因子1对肿瘤坏死因子a的转 录调控作用及机制[J].实用预防医学,2013,20(7):108-10.   
+[33]杨小艳,刘宝山.补肾化痰活血法对慢性再障患者疗效的临床观察 [J].辽宁中医杂志,2011,38(1):23-4.   
+[34]丰纪明.中西医结合治疗慢性再生障碍性贫血临床分析[J].黔南民族 医专学报,2014,27(3):177-9.   
+[35]朱玲玲,朱晓光.加味八珍汤对慢性再生障碍性贫血患者骨髓液中成 纤维细胞生长因子-1的影响[J].广州中医药大学学报,2015,32(5): 830-3.

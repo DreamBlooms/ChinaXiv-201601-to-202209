@@ -1,0 +1,429 @@
+# 采用改进型SOS算法的光伏组件模型参数辨识
+
+康童a，姚建刚a，金敏ʰ，朱向前‘，文武a(湖南大学a.电气与信息工程学院;b.信息科学与工程学院，长沙 410082)
+
+摘要：针对当前大部分光伏(photovoltaic，PV)模型参数辨识算法均存在准确性低和可靠性差等问题，提出了一种采用改进型共生生物搜索算法(symbiotic organisms search，SOS)的光伏组件模型参数辨识方法。首先，为提高标准SOS 算法的寻优性能，提出了新的改进型 SOS 算法，记作ImSOS 算法。该算法在标准 SOS 算法的生物种群初始化阶段采用了准反射学习机制；在互利共生搜索阶段采用了改进受益因子策略；在偏利共生搜索阶段采用了收缩随机数产生因子区间策略。其次，给出了采用所提ImSOS 算法求解基于实验测量电流—电压(I-V)数据的光伏组件模型参数辨识问题的具体步骤及实现流程。最后，利用实际 Sharp ND-R250A5 光伏组件进行实验，通过与标准 SOS 算法以及其他七种新颖智能优化算法进行对比验证，结果表明了所提ImSOS 算法在光伏组件模型参数辨识的有效性和优越性。可见所提ImSOS 算法为准确可靠地辨识光伏组件模型参数提供了一种新的有效方法。
+
+关键词：共生生物搜索算法；准反射学习；元启发式算法；光伏组件模型；参数辨识中图分类号：TM615 doi:10.19734/j.issn.1001-3695.2018.08.0741
+
+# Parameter identification of photovoltaic module models using improved symbiotic organisms search algorithm
+
+Kang Tongat, Yao Jianganga, Jin Minb, Zhu Xiangqiana,Wen Wua (a.ColegeofElectrical&Information Engineering,b.CollgeofComputerScience&Electronic Engineering,Hunan University,Changsha 410082,China)
+
+Abstract:To solve the disadvantagesofthe most photovoltaic (PV)models parameter identification algorithms at present, which have low accuracyand poorreliability,this paper proposed an improved symbiotic organisms search (SOS)algorithm for parameter identification of PV module models.First,to enhance the performance of original SOS,anovel improved SOS algorithm,named as ImSOS,was proposed.In ImSOS,a quasi-reflection-based learning(QRBL）scheme was employedinthepopulation initializationstepoforiginalSOS.Moreover,thestrategyofthe modificationsofbenefitfactors was used in the mutualism phase of SOS.A strategyof narrowing the search range ofrandomly generated coefficients was adopted in the commensalism phase of SOS.And then,the procedures andflowchart of employing the proposed ImSOS for solving the PV module models parameter identification problem based on experimental currnt versus voltage (I-V)data of areal PVmodule was detailed.Finaly,the proposed ImSOS was demonstratedon the parameter identificationof dierent PV module models of the Sharp ND-R250A5PVmodule.Experimental results and comparisons with original SOS and the other seven novel intelligent optimization algorithms implied the effctivenessandsuperiorityof the proposed ImSOS. Therefore,the proposed ImSOS becomes a new efective method to accurately and reliably identify PV module models parameters.
+
+Key words:symbiotic organisms search algorithm；quasi-reflection-based learing;metaheuristic;photovoltaic module models;parameter identification
+
+# 0 引言
+
+能源一直是人类经济与社会发展的基础，特别是进入21世纪以来，我国经济水平的迅速发展使得对电力能源的需求大幅增长。因此，持续快速增长的电力需求与传统化石能源的枯竭之间的矛盾日益凸显，而且出于环境保护和可持续发展的要求，这极大地推动了可再生能源资源的开发与利用[1]，特别是其中的太阳能资源。鉴于其绿色环保、可再生及取之不尽等诸多优势，近年来通过光伏发电系统来利用太阳能资源的方式已在全球范围内引起了极大关注[2]。然而，作为光伏发电系统的核心部分，同时也是最重要的部分，光伏组件可以实现将太阳能直接转换为电能[3]。因此，对光伏组件进行准确地建模与仿真对光伏发电系统的设计计算以及性能优化显得尤为重要。
+
+光伏组件的建模有三个主要过程。首先选择合适的等效电路模型；其次是建立其数学模型表达式；最后确定模型中的未知参数。由于光伏组件一般是由多个光伏电池串并联构成的，而实际中单二极管模型和双二极管模型是光伏电池建模中常采用的两种等效电路模型[4]，所以这两种光伏电池模型也是建立光伏组件模型的基础，而且描述这两种模型的电流一电压(I-V)特性方程是复杂的隐式非线性方程，参数多且求解难度很大[5]。因此，考虑到上述情形，精确地进行光伏组件模型中未知参数的辨识是进行太阳能光伏系统设计与仿真计算、性能优化与评估、故障检测与诊断、最大功率点跟踪控制以及发电输出功率预测的重要基础和关键所在，这是一项至关重要而又非常具有挑战的工作，同时也是当前的热点研究方向之一[6,7]。
+
+近年来，很多学者提出各种方法来解决光伏模型参数辨识问题，主要分为解析法、数值计算方法和元启发式优化方法三大类。文献[4]提出了采用解析法来提取基于实测I-V数据的太阳能电池的单二极管模型和双二极管模型参数；文献[8]提出了先利用泰勒级数展开式将隐式单二极管模型建模成显式解析模型，进而对太阳能电池的两种改进五参数模型进行参数提取的方法。尽管解析法能快速求解，但其求解适应性差，特别是该方法中的近似处理会大大降低求解的准确度。文献[9]提出了采用高斯-赛德尔迭代法来辨识基于单二极管建立的光伏组件(single-diode PVmodule,SDPM)模型参数。尽管数值计算方法能提供准确的结果，但结果的准确程度依赖于初始值的选择。而且上述两类方法都对模型有一定的限制条件(如要求在凸集上连续可微等)，存在不确定收敛、计算量大等缺陷。随着人工智能的蓬勃发展，尤其是各种新颖的元启发式算法的不断涌现，其越来越多的应用于光伏模型的参数辨识问题中并掀起了一股热潮，如遗传算法(geneticalgorithms，GA)[10]、粒子群优化算法(particleswarmoptimization，PSO)及其改进算法[11,i2]等多种元启发式算法[13\~24]。虽然这些算法相比于前两类方法能取得更高的准确度，但仍存在收敛速度慢，容易出现早熟陷入局部最优而影响其求解精度和可靠性，而且这些算法的内部依懒性控制参数较多且选取困难等不足。此外，根据Wolpet与Mcready 提出的没有免费的午餐(nofreelunch,NFL)定理，不存在某个算法能够解决所有问题[25]。而且当前太阳能光伏模型参数辨识问题的研究工作主要针对光伏电池模型参数辨识开展，而对光伏组件模型参数辨识，特别是基于双二极管建立的光伏组件(double-diodePVmodule，DDPM)模型参数辨识的研究鲜见报道。因此，探索为光伏组件模型参数辨识问题寻找新颖的、高精度和可靠性的元启发式算法是一个亟待解决的关键性难题，同时也是工程实践的热点。
+
+共生生物搜索算法(symbiotic organisms search,SOS)[26]是2014年由Cheng和Prayogo 通过模拟自然界中不同生物之间的互利共生、偏利共生和寄生三种主要交互作用方式以提高自身适应环境得以生存的能力而提出的一种新颖的元启发式优化算法。该算法结构简洁，操作简单，而且除了生物种群规模和最大迭代代数两个常用参数外，无须进行繁冗的调参工作，并且优化能力强，一经提出便得到了极大的关注[27-29]。然而，与大多数智能优化算法类似，标准 SOS 算法也容易出现早熟收敛陷入局部最优等问题，特别是在求解高维多峰复杂优化问题时表现得更明显，需要进一步改善其优化性能。
+
+对立学习机制(opposition-based learning,OBL)[30]最早由加拿大滑铁卢大学的Tizhoosh教授于2005年针对机器智能提出的一种新策略，已被广泛应用于提高智能优化算法的寻优精度和加快其收敛速度。然而最近有学者提出了准反射学习机制(quasi-reflection-based learning,QRBL)[31]的概念而且验证了准反射解相对于对立解而言更有可能靠近问题的全局最优解。因此，准反射学习机制已成功应用于一些智能优化算法中来提高它们的优化能力[32,33]。
+
+受到以上启发，针对已有光伏模型参数辨识研究中所存在的问题，本文提出了一种采用改进型SOS算法的光伏组件模型参数辨识方法。首先，为提高标准SOS算法的寻优性能，提出了新的改进型SOS算法，记做ImSOS算法。该算法在标准SOS 算法的生物种群初始化阶段采用准反射学习机制以提高算法的求解精度和加快算法的收敛速度；在互利共生搜索阶段采用改进受益因子策略以使每个生物在它们相互作用中获得相等的部分益处来提高算法的稳定性；在偏利共生搜索阶段采用收缩随机数产生因子区间策略，把搜索范围控制在合理区间来加快算法的收敛速度的同时也保证其求解精度。其次，给出了采用所提ImSOS算法求解基于实验测量I-V 数据的光伏组件模型参数辨识问题的具体步骤及实现流程。最后，利用实际SharpND-R250A5光伏组件进行实验，通过与标准SOS算法以及其他7种新颖智能优化算法进行对比验证，结果证明了所提ImSOS算法在光伏组件模型参数辨识的有效性和优越性。
+
+# 1 光伏组件数学模型
+
+# 1.1 光伏电池模型
+
+近年来，不同的等效电路模型被相继提出来描述光伏电池的电气特性，其中最实用而且应用最广的两种模型分别是单二极管模型和双二极管模型，同时这两种光伏电池模型也是建立光伏组件数学模型的基础。因此接下来先分别介绍描述光伏电池特性的这两种模型。
+
+# 1.1.1单二极管模型
+
+单二极管模型因其能简单和准确地描述光伏电池的静态I-V特性而被广泛地应用。其等效电路模型如图1所示。从图中可以看出，该模型由光生电流源、并联二极管、串联电阻以及并联电阻构成[5，18]。因此，根据基尔霍夫电流定律(Kirchhoff'scurrentlaw,KCL)，可得出图中光伏电池输出电流 $I _ { \mathrm { t } }$ 为
+
+$$
+I _ { \mathrm { t } } { = } I _ { \mathrm { p h } } - I _ { \mathrm { d } } - I _ { \mathrm { s h } }
+$$
+
+其中： $I _ { \mathrm { p h } }$ 为光生电流； ${ \cal I } _ { \mathrm { d } }$ 为流过二极管的电流； $I _ { \mathrm { s h } }$ 为流过并联电阻的电流。此外，肖克莱方程给出了流过二极管的电流$I _ { \mathrm { d } }$ 为
+
+$$
+I _ { \mathrm { d } } { = } I _ { \mathrm { s d } } \left[ \exp { ( { q ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } ) / a k T } ) } - 1 \right]
+$$
+
+其中： $I _ { \mathrm { s d } }$ 为二极管反向饱和电流； $V _ { \mathrm { t } }$ 为光伏电池输出电压；$R _ { \mathrm { s } }$ 为串联电阻； $a$ 为二极管理想因子； $k$ 为波尔兹曼常数（ $1 . 3 8 0 6 5 0 3 \times 1 0 ^ { - 2 3 } \mathrm { J } / \mathrm { K } ) ; q$ 为电子电荷 $( 1 . 6 0 2 1 7 6 4 6 \times 1 0 ^ { - 1 9 } \mathrm { C } )$ $T$ 为光伏电池绝对温度。而且根据基尔霍夫电压定律(Kirchhoff'svoltagelaw，KVL)，可知流过并联电阻的电流 $I _ { \mathrm { s h } }$ 为
+
+$$
+I _ { \mathrm { s h } } { = } \big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } \big ) / R _ { \mathrm { s h } }
+$$
+
+其中： $R _ { \mathrm { s h } }$ 为并联电阻。因此，将式(2)和(3)代入式(1)中，则光伏电池单二极管模型中输出电流和输出电压的关系可改写为
+
+$$
+I _ { \mathrm { t } } { = } I _ { \mathrm { p h } } { - } I _ { \mathrm { s d } } \left[ \exp \left( q \left( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } \right) / a k T \right) - 1 \right] { - } \left( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } \right) / R _ { \mathrm { s h } }
+$$
+
+因此，由式(4)可知，在光伏电池的单二极管模型中待确定的五个未知参数分别为 $I _ { \mathrm { p h } }$ 、 $I _ { \mathrm { s d } }$ 、 $a$ 、 $\textstyle R _ { s }$ 和 $R _ { \mathrm { s h } }$ 。
+
+![](images/48d041be6297785053fc334f43ea81e095aa6ac65d0564c95090d5f82bc2f33c.jpg)  
+图1光伏电池的单二极管模型等效电路图 Fig.1Single-diode model of PV cell
+
+# 1.1.2双二极管模型
+
+在实际的光伏电池建模中，双二极管模型是除了单二极管模型之外应用最广泛的。尽管单二极管模型能对实际光伏电池特性提供令人满意的贴近度，但双二极管模型考虑了耗尽区中复合电流损失的影响，使模型更加逼真并获得更高的准确度。因此，双二极管模型等效电路如图2所示。由图可知，该模型由光生电流源、两个并联二极管、串联电阻以及并联电阻构成[5,18]。同样，根据KCL可得出图中光伏电池输出电流 $\boldsymbol { I _ { \mathrm { t } } }$ 为
+
+$$
+I _ { \mathrm { t } } { = } I _ { \mathrm { p h } } - I _ { \mathrm { d 1 } } - I _ { \mathrm { d 2 } } - I _ { \mathrm { s h } }
+$$
+
+其中： $I _ { \mathrm { d l } }$ 为流过第一个二极管的电流； ${ \cal I } _ { \mathrm { d } 2 }$ 为流过第两个二极管的电流。根据肖克莱方程， $I _ { \mathrm { d l } }$ 和 $I _ { \mathrm { d } 2 }$ 分别为
+
+$$
+I _ { \mathrm { d } 1 } { = } I _ { \mathrm { s d } 1 } \left[ \exp \left( q ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } ) / a _ { \mathrm { l } } k T \right) - 1 \right]
+$$
+
+$$
+I _ { \mathrm { d } 2 } { = } I _ { \mathrm { s d } 2 } \left[ \exp \left( q ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } ) / a _ { 2 } k T \right) - 1 \right]
+$$
+
+其中： $I _ { \mathrm { s d l } }$ 和 $I _ { \mathrm { s d } 2 }$ 分别为第一个和第二个二极管反向饱和电流;$a _ { 1 }$ 和 $a _ { 2 }$ 分别为第一个和第二个二极管理想因子。类似于单二极管模型，光伏电池的双二极管模型中输出电流和输出电压的关系可改写为
+
+$$
+\begin{array} { r } { I _ { \mathrm { t } } { = } I _ { \mathrm { p h } } - I _ { \mathrm { s d l } } \left[ \exp { ( q ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } ) / a _ { \mathrm { 1 } } k T ) } - 1 \right] - } \\ { I _ { \mathrm { s d 2 } } \left[ \exp { ( q ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } ) / a _ { \mathrm { 2 } } k T ) } - 1 \right] - } \\ { ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } ) / R _ { \mathrm { s h } } } \end{array}
+$$
+
+从式(8)中可以看出，光伏电池的双二极管模型中待确定的未知参数有七个，分别为 $I _ { \mathrm { p h } }$ 、Isd1、Isd2、 $a _ { 1 }$ 、a2、 $R _ { \mathrm { s } }$ 和 $R _ { \mathrm { { s h } } }$ 。
+
+![](images/c912c42ec90d7c0a35840b65b0d98cc08caa4ae57d76c611097951eab6d70a3e.jpg)  
+图2光伏电池的双二极管模型等效电路图 Fig.2Double-diode model of PV cell
+
+# 1.2光伏组件模型
+
+在实际应用中，单体的太阳能电池不能直接当作电源使用，而是将多个太阳能电池串联和（或者）并联构成太阳能光伏组件以提高其输出电压和(或者)输出电流[5,19,20]。因此,光伏组件模型的建立是以光伏电池模型为基础的，下面分别介绍两种光伏组件模型，即基于单二极管建立的光伏组件(single-diodePVmodule,SDPM)模型和基于双二极管建立的光伏组件(double-diodePVmodule,DDPM)模型。
+
+# 1.2.1 SDPM模型
+
+当光伏电池电气特性由单二极管模型来描述时，则根据KCL可得出SDPM模型中输出电流和输出电压的关系为
+
+$$
+I _ { \mathrm { t } } { = } I _ { \mathrm { p h } } N _ { \mathrm { p } } - I _ { \mathrm { s d } } N _ { \mathrm { p } } [ \exp ( q \big ( V _ { \mathrm { t } } { + } I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } ) / a N _ { \mathrm { s } } k T ) - 1 ] -
+$$
+
+$$
+\big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \big ) \big / R _ { \mathrm { s h } } N _ { \mathrm { s } } / N _ { \mathrm { p } }
+$$
+
+其中： $N _ { \mathrm { s } }$ 和 $N _ { \mathfrak { p } }$ 分别为光伏电池串联和并联个数。
+
+很显然，由于光伏组件模型是基于光伏电池单二极管模型而建立的，所以在SDPM模型中需要确定五个未知参数，分别为 $I _ { \mathrm { p h } }$ ， $I _ { \mathrm { s d } }$ 、 $\mathbf { \Delta } _ { a }$ 、 $R _ { \mathrm { s } }$ 和 $R _ { \mathrm { s h } }$ 。而生产厂家的数据手册一般不会提供上述参数值，可利用实测I-V数据对这五个参数进行辨识。而且精确地提取这些模型参数值能使模型更好地描述光伏组件的实际电气特性。
+
+# 1.2.2DDPM模型
+
+当光伏电池电气特性由双二极管模型来描述时，则根据KCL可得出DDPM模型中输出电流和输出电压的关系为
+
+$$
+\begin{array} { c } { { I _ { \mathrm { t } } { = } I _ { \mathrm { p h } } N _ { \mathrm { p } } - I _ { \mathrm { s d l } } N _ { \mathrm { p } } [ \exp ( q \big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } ) / a _ { \mathrm { l } } N _ { \mathrm { s } } k T ) - 1 ] - } } \\ { { I _ { \mathrm { s d 2 } } N _ { \mathrm { p } } [ \exp ( q \big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } ) / a _ { \mathrm { 2 } } N _ { \mathrm { s } } k T ) - 1 ] - } } \\ { { \big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \big ) / R _ { \mathrm { s h } } N _ { \mathrm { s } } / N _ { \mathrm { p } } } } \end{array}
+$$
+
+从式(10)可以清楚地发现，当光伏组件模型以基于光伏电池双二极管模型来建立时，则DDPM模型中待确定的未知参数增加至七个，分别为Iph、Isd1、Isd2、a1、a2、 $R _ { \mathrm { s } }$ 和 $R _ { \mathrm { { s h } } }$ 。这些未知的模型参数同样地需要利用实测I-V数据进行辨识，而且当模型参数增加时，其辨识难度更大。因此，准确地辨识这些未知参数以确保实际光伏组件有更好的性能，这在太阳能光伏发电系统的相关研究设计中显得尤为重要。
+
+# 2 标准SOS算法及ImSOS算法
+
+# 2.1标准 SOS 算法
+
+SOS 算法是2014年由Cheng等人[26]提出的一种新颖的元启发式优化算法。该算法源于对自然界生态系统中各生物体之间通过相互作用影响来共同生存繁衍策略的模拟。自然界中各生物体之间最常见的共生关系分为互利共生、偏利共生和寄生三种方式。而SOS算法正是通过简单的数学模型来模拟上述生物体之间相互作用的生存方式实现寻优过程，这样可以用来指导求解优化问题。因而标准 SOS算法的四个主要步骤如下。
+
+# 2.1.1生物种群随机初始化阶段
+
+首先在搜索空间范围内随机初始化 $n$ 个生物如下：
+
+$$
+\pmb { \theta } _ { i } \mathbf { = } l \pmb { b } \mathbf { + } r \pmb { a } \pmb { n } \pmb { d } ( 0 , 1 ) \ast \mathbf { ( } \pmb { u } \pmb { b } - l \pmb { b } )
+$$
+
+按式（11）生成 $n$ 个初始解，其中： $\theta _ { i }$ 表示生态系统中第 $i ( i { = } 1 , 2 , \cdots , n )$ 个生物，且每个生物都是一个 $d$ 维向量;rand(0,1)表示一个向量，且向量中的元素都是[0，1]间的随机数； $u b$ 和 $l b$ 分别为搜索空间范围的上限向量和下限向量。2.1.2互利共生搜索阶段
+
+SOS算法中通过模拟自然界生态系统中如蜜蜂跟花朵之间的互利共生关系形成互利共生搜索阶段。在这个阶段，假设 $\theta _ { i }$ 和 $\theta _ { j }$ 分别表示生态系统中随机选择的第 $i$ 个和第 $\textit { j } ( j$ $\neq i )$ 个生物，则 $\theta _ { i }$ 和 $\theta _ { j }$ 两个生物通过互利共生搜索，使得各自向最优个体学习，分别产生新解 $\theta _ { i \mathrm { - n e w } }$ 和 $\theta _ { j \mathrm { - n e w } }$ 计算如下：
+
+$$
+\theta _ { i \mathrm { - n e w } } = \theta _ { i } + r a n d ( 0 , 1 ) * ( \theta _ { \mathrm { b e s t } } - M V * B F _ { 1 } )
+$$
+
+$$
+\pmb { \theta } _ { j \mathrm { - n e w } } = \pmb { \theta } _ { j } + r a n \pmb { d } ( 0 , 1 ) \ast ( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { M } \pmb { V } \ast \pmb { B } F _ { 2 } )
+$$
+
+其中： $M V$ 、 $B F _ { 1 }$ 和 $B F _ { 2 }$ 可分别表示为
+
+$$
+M V = ( \theta _ { i } + \theta _ { j } ) / 2
+$$
+
+$$
+B F _ { 1 } { = } r o u n d ( 1 { + } r a n d ( 0 , 1 ) )
+$$
+
+$$
+B F _ { 2 } { = } r o u n d ( 1 { + } r a n d ( 0 , 1 ) )
+$$
+
+其中：i $, j \in \{ 1 , 2 , \cdots , n \}$ 且 $j { \neq } i$ ； $\theta _ { \mathrm { { b e s t } } }$ 表示生态系统中当前最优个体（对应当前目标函数值最小的解向量)； $M V$ 为互利向量，表示两个生物体间的关系特征向量；rand(0,1)为[0，1]间的随机数； $B F _ { 1 }$ 和 $B F _ { 2 }$ 都是受益因子，且皆可随机选择1或2，这两个因子表示每个生物从相互作用关系中的受益程度； $( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { M } \pmb { V } * B F _ { 1 } )$ 和 $( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { M } \pmb { V } * \pmb { B } \boldsymbol { F } _ { 2 } )$ 反映了两个生物在互利共生中各自受益来提高它们的生存优势并各自趋向最优个体学习以达到适应环境的能力。在这个阶段， $\theta _ { i }$ 和 $\theta _ { j }$ 两个生物通过上述机制产生的新解能否被接受取决于它们的新解所对应的目标函数值是否比相互作用前它们对应的目标函数值更好。
+
+# 2.1.3偏利共生搜索阶段
+
+SOS算法中通过模拟自然界生态系统中如兰花跟乔木树之间的偏利共生关系建立偏利共生搜索阶段。在这个阶段，生态系统中随机选择的第 $j$ 个生物 $\theta _ { j }$ 在与第 $i$ 个生物 $\theta _ { i }$ 相互作用影响过程中，生物 $\theta _ { i }$ 从中受益，而生物 $\theta _ { j }$ 不受益也不受害。因而产生的新解 $\theta _ { i \mathrm { - n e w } }$ 计算如下：
+
+$$
+\pmb { \theta } _ { i \mathrm { - n e w } } = \pmb { \theta } _ { i } + \pmb { r } \pmb { a } \pmb { n } \pmb { d } ( - 1 , 1 ) \ast ( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { \theta } _ { j } )
+$$
+
+其中：rand(-1,1)表示一个向量，且向量中的元素都是[-1,1]间的随机数； $( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { \theta } _ { j } )$ 表示两个生物在偏利共生中，由生物$\theta _ { j }$ 提供的有益优势来帮助生物 $\theta _ { i }$ 增强其生存优势以不断趋向最优个体。同样在这个阶段，若新解对应的目标函数值优于原生物个体的目标函数值，则接受原生物个体更新产生的新解。
+
+# 2.1.4寄生阶段
+
+寄生关系是指两种不同生物的相互作用对一方有益，对另一方有害。例如疟原虫利用它与按蚊之间的关系来在人类宿主之间传播，当疟原虫在人体内繁衍繁殖时，宿主人类就会遭受疟疾甚至最后有可能死亡。
+
+SOS算法中通过模拟自然界上述这种关系建立寄生阶段。在这个阶段，首先通过复制生物 $\theta _ { i ; }$ 随机选取其中某些维度，替换为搜索空间范围内的随机取值，进而形成一个新个体，叫寄生向量，记做 $P V$ ；然后把从生态系统中随机选择的第jUi$\neq i )$ 个生物 $\theta _ { j }$ 作为宿主，计算寄生向量 $P V$ 和宿主 $\theta _ { j }$ 所对应的目标函数值并进行比较。若寄生向量 $P V$ 所对应的目标函数值更优，则寄生向量 $P V$ 杀死宿主占用其位置进而成为第 $j$ 个生物体，否则宿主 $\theta _ { j }$ 将对其具有免疫功能而存活被保留下来。此外，标准SOS算法的具体实现流程可参考文献[26],这里不再赘述。
+
+# 2.2 ImSOS 算法
+
+如何权衡算法的全局探索能力与局部开发能力决定了算法的寻优性能。通过分析标准SOS算法可发现其有三个方面的不足：a)标准SOS算法在生物种群初始化阶段采用的是随机初始化种群的方式，该种种群初始化方式降低了算法的全局探索能力，最终导致算法早熟收敛而陷入局部最优解；b)标准SOS 算法在互利共生搜索阶段中受益因子的选取方式容易使新解产生于非可行区域，增加了最优生物体与整个生态系统之间的目标函数的偏差，进而降低了算法的稳定性和可靠性；c)标准SOS算法中偏利共生搜索阶段的随机数产生因子区间容易扩大当前生态系统的搜索范围，最终使得算法的收敛速度变慢。
+
+为克服标准SOS算法的缺陷，提出了新的改进型共生生物搜索算法，记做ImSOS算法。该算法采用三个主要策略来改善标准SOS算法的优化性能，很好地平衡了算法的全局探索与局部开发能力。首先，在标准SOS算法的生物种群初始化阶段采用准反射学习机制以提高算法的求解精度和加快算法的收敛速度；然后，在互利共生搜索阶段采用改进受益因子策略以使每个生物在它们相互作用中获得相等的部分益处提高了算法稳定性；最后，在偏利共生搜索阶段采用收缩随机数产生因子区间策略，把搜索范围控制在合理区间，加快了算法的收敛速度的同时也保证了求解精度。具体改进如下。
+
+# 2.2.1采用准反射学习机制的种群初始化
+
+正如上述2.1节中提到的，标准SOS算法中采用的是随机初始化生物种群的方法，然而这种随机初始化种群的方法降低了算法的全局探索能力，因而导致标准SOS算法的收敛精度下降最终很容易陷入局部最优。对此，提出了采用准反射学习机制来增强标准SOS算法的求解质量和收敛速度。
+
+对立学习机制最早由加拿大滑铁卢大学的Tizhoosh[30]于2005 年针对机器智能提出的一种新策略，已被广泛应用于提高智能优化算法的寻优精度和加快其收敛速度，其基本思想是一个候选解的对立解（或称为反向解）比该候选解本身更有可能接近问题的最优解。因此，在对初始候选解进行评价的同时，也对其对立解进行评价，然后择优使用，这样可加快算法的收敛速度，提高找到最优解的几率。
+
+一般而言，基于种群的优化算法首先第一步都需要一些初始解，然后在搜索优化过程中不断提高解的质量以趋向最优解。这个搜索过程会一直重复，直到满足一些预设的准则才会停止。由于对问题的解缺乏一些先验知识，所以在算法初始化阶段多是通过随机产生种群的初始解。然而有学者已经验证了对立解相对于随机产生的近似解而言拥有更高的概率接近问题的全局最优解。最近又有学者提出了准反射学习[31]的概念，而且验证了准反射解相对于对立解而言更有可能靠近问题的全局最优解。
+
+为了更清楚地解释准反射学习的概念，必须先理解准反射学习中用到的准反射数和准反射点的概念。
+
+定义1假设 $x$ 为实数且 $x \in [ a , b ]$ ，则 $x$ 的准反射数 $\overline { { x } } ^ { \mathrm { q r } }$ 表示为： $\overline { { x } } ^ { \mathrm { q r } } = r a n d ( ( a + b ) / 2 , x )$ 。其中 $r a n d ( ( a + b ) / 2 , x )$ 表示在 $( a { + } b ) / 2$ 与 $x$ 之间均匀分布的随机数。
+
+定义2假设 $\pmb { P } = ( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } )$ 为一个 $n$ 维向量空间的点，其中 $x _ { 1 } , x _ { 2 } , \cdots , x _ { n }$ 都属于实数且 $x _ { i } \in [ a _ { i } , b _ { i } ]$ ， $\forall i \in \{ 1 , 2 , \cdots , n \}$ 。则$P$ 的准反射点 $\overline { { \pmb { P } } } ^ { \mathrm { q r } } = ( \overline { { x } } _ { 1 } ^ { \mathrm { q r } } \overline { { x } } _ { 2 } ^ { \mathrm { q r } } , \cdots , \overline { { x } } _ { n } ^ { \mathrm { q r } } )$ ，其中xx,x都可表示为
+
+$$
+\overline { { x } } _ { i } \mathrm { { q r } } = r a n d ( ( a _ { i } + b _ { i } ) / 2 , x _ { i } )
+$$
+
+其中： $r a n d ( ( a _ { i } + b _ { i } ) / 2 , x _ { i } )$ 表示在 $( a _ { i } { + } b _ { i } ) / 2$ 与 $x _ { i }$ 之间均匀分布的随机点。
+
+这样了解了准反射点定义后，那么采用准反射学习的优化可定义如下：
+
+定义3假设 $\pmb { P } = ( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } )$ 为一个 $n$ 维向量空间的点（假定 $P$ 为候选解)， $f ( \cdot )$ 为候选解的目标函数值，此外根据准反射点的定义可知 $P$ 的准反射点为 $\hat { P } ^ { \mathrm { q r } } = ( \overline { { x } } _ { 1 } ^ { \mathrm { q r } } \overline { { x } } _ { 2 } ^ { \mathrm { q r } } , \cdots , \overline { { x } } _ { n } ^ { \mathrm { q r } } )$ 。若$f ( \overline { { P } } ^ { \mathrm { q r } } ) \leq f ( P )$ ，则表示 $\bar { P } ^ { \mathrm { q r } }$ 比 $P$ 具有更优的目标函数值，此时选择 $\bar { P } ^ { \mathrm { q r } }$ 代替 $P$ ；否则保持 $P$ 不变。
+
+为提高标准SOS算法的寻优性能，提出将准反射学习机制引入到标准SOS算法的种群初始化阶段。通过考虑初始解的同时也对其准反射解进行评价，择优使用，这样采用准反射学习机制能够对搜索空间进行充分全面的搜索，使得算法快速收敛的同时又有更高的概率找到接近全局最优解的候选解，提高了算法的求解精度。
+
+# 2.2.2采用改进受益因子策略的互利共生搜索
+
+在互利共生关系里，参与相互作用的两个不同生物将会从它们的交互影响过程中获得部分或者全部益处，因此在标准SOS算法中通过受益因子随机选择1或者2来表征这个特性。显然，若两个生物从相互作用中各自都获得了全部益处，即两个生物的受益因子 $B F _ { 1 } { = } B F _ { 2 } { = } ~ 2$ ，则上述式(12)和(13)方程中的 $M V * B F _ { \mathrm { 1 } }$ 和 $M V * B F _ { 2 }$ 两部分相比在当两个生物的受益因子 $B F _ { 1 } { = } B F _ { 2 } { = } 1$ 时，将会在两个生物之间的关系特征中产生更巨大的多样性，这样直接导致 $( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { M } \pmb { V } * B F _ { 1 } )$ 和$( \pmb { \theta } _ { \mathrm { b e s t } } - \pmb { M } \pmb { V } * \pmb { B } F _ { 2 } )$ 两部分产生很大的多样性，最终结果就是产生的新解 $\theta _ { i \mathrm { - n e w } }$ 和 $\theta _ { j \mathrm { - n e w } }$ 有可能都不在搜索空间范围内。因此，这会使得基于标准差评价的算法的稳定性大大降低，而且算法收敛到全局最优解的速度减慢。对此，提出采用改进受益因子策略的互利共生搜索方式，因而改进受益因子 $B F _ { 1 }$ 和 $B F _ { 2 }$ 如下：
+
+$$
+\begin{array} { c } { { B F _ { 1 } = 1 } } \\ { { B F _ { 2 } = 1 } } \end{array}
+$$
+
+式(19)和(20)中两个生物的受益因子 $B F _ { 1 }$ 和 $B F _ { 2 }$ 都固定取值为1，表征每个生物在它们相互作用中获得相等的部分益处，这样新解都能尽可能在搜索空间范围内产生，提高了算法稳定性的同时也加快了算法收敛到全局最优解的速度。2.2.3采用收缩随机数产生因子区间策略的偏利共生搜索
+
+在标准SOS算法的偏利共生搜索阶段，通过分析新解产生的计算式(17)，可以发现rand(-1,1)这个向量对算法优化过程的收敛速度有着重要的控制作用，该向量中元素的产生区间都是-1\~1间的随机数，这样会导致当前生态系统的搜索范围进一步扩大，最终使得标准SOS算法的收敛速度变慢。为此，提出采用收缩随机数产生因子区间策略的偏利共生搜索如下：
+
+$$
+\pmb { \theta } _ { i \mathrm { - n c w } } = \pmb { \theta } _ { i } + r a n \pmb { d } ( 0 . 5 , 0 . 7 ) * ( \pmb { \theta } _ { \mathrm { b c s t } } - \pmb { \theta } _ { j } )
+$$
+
+其中：rand(0.5,0.7)表示一个向量，且向量中的元素都是[0.5,0.7]间的随机数。这样通过收缩随机数产生因子区间在加快算法收敛速度的同时也保证了算法的求解精度。
+
+# $2 . 2 . 4 ~ \mathrm { I m S O S }$ 算法的具体实现
+
+综上所述，为提高标准SOS算法的优化性能，本文提出了一种新的基于上述三种改善策略的ImSOS 算法。所提ImSOS 算法与标准 SOS 算法一样结构简单、易于理解和实现，而且除了只需设置常规控制参数如种群规模和最大迭代代数外，无须调整任何算法内部依懒性控制参数等诸多优点，方便研究者掌握和应用。所提ImSOS算法的实现伪代码如算法1所示。
+
+# 算法1所提 $\mathrm { I m } \mathrm { { s o s } }$ 算法的实现伪代码
+
+1.设置生物种群规模n、最大迭代代数 $I t _ { \operatorname* { m a x } }$ 和问题维数d；在搜索范围 $[ a _ { j } , b _ { j } ]$ 内随机初始化n个生物种群（也就是初始解集），记作 $ { \mathrm { ~  ~ \cal ~ S ~ } } _ { 0 }$ 9
+
+$/ \ast$ 采用准反射学习机制的种群初始化阶段\*/  
+2. for $i = 1 : n$   
+3. for $j = 1 : d$ （204号  
+4. $\mathbf { M } _ { i , j } = ( a _ { j } + b _ { j } ) / 2$ $/ / \mathbf { M } _ { i , j } \colon$ 搜索范围 $[ a _ { j } , b _ { j } ]$ 的中点  
+5. if $( \mathbf { S } _ { 0 i , j } < \mathbf { M } _ { i , j } )$ （204号  
+6. $\mathrm { Q R S } _ { 0 i , j } = \mathrm { S } _ { 0 i , j } + ( \mathrm { M } _ { i , j } - \mathrm { S } _ { 0 i , j } ) \times r a n d ( 0 , 1 )$   
+$/ / \mathrm { Q R S _ { 0 } }$ 初始解集 ${ \bf \cal S } _ { 0 }$ 对应的准反射解集；rand(0.1):范围[0,1]之间的随机数  
+7. else  
+8. $\mathrm { Q R S } _ { 0 i , j } = \mathbf { M } _ { i , j } + ( \mathbf { S } _ { 0 i , j } - \mathbf { M } _ { i , j } ) \times r a n d ( 0 , 1 )$   
+9. end if  
+10. end for  
+11.end for  
+12.重新从合集 $\{ \mathbf { S } _ { 0 } , \mathbf { Q } \mathbf { R } \mathbf { S } _ { 0 } \}$ 中选择最优的n个解作为初始解集 $S _ { 0 }$   
+13.while (It<=Itmax)  
+14. for $i = 1 : n$   
+15. 确定当前最优目标函数值对应的生物体 $\theta _ { \mathrm { b e s t } }$ （204  
+$/ \ast$ 采用改进受益因子策略的互利共生搜索阶段 $^ { * } I$   
+16. 对生物个体 $\theta _ { i }$ ，从生态系统中随机选择生物 $\theta _ { j } ( j \neq i )$   
+17. $B F _ { 1 } = 1$ （204号  
+18. $B F _ { 2 } = 1$ （204号  
+19. MV=(0+0)/2  
+20. $\theta _ { \scriptscriptstyle { i \mathrm { - } \mathrm { n e w } } } = \dot { \theta } _ { i } + r \dot { a } \eta \dot { d } ( 0 , 1 ) * ( \theta _ { \mathrm { b e s t } } - M V * B F _ { \scriptscriptstyle 1 } )$   
+21. $\theta _ { j \mathrm { - n e w } } = \theta _ { j } + r a n d ( 0 , 1 ) * ( \theta _ { \mathrm { b e s t } } - M V * B F _ { 2 } )$ （204  
+22. 将新解 $\theta _ { i - \mathrm { n e w } }$ 和 $\theta _ { j - \mathrm { n e w } }$ 分别与 $\theta$ 和 $\theta _ { . }$ 进行解的质量的  
+比较评价，分别选择较优解保留  
+$/ \ast$ 采用收缩随机数产生因子区间策略的偏利共生搜索阶段 $^ { * }$
+
+23. 随机选择两个不同生物 $\boldsymbol { \theta }$ 和 $\theta _ { j } ( j \neq i )$   
+24. $\theta _ { i \mathrm { - } \mathrm { n { e w } } } = \theta _ { i } + r a n d ( 0 . 5 , 0 . 7 ) * ( \theta _ { \mathrm { { b e s t } } } - \theta _ { j } )$   
+25. 将新解 $\theta _ { i \mathrm { - n e w } }$ 与 $\theta$ 进行解的质量的比较评价，选择较优解保留$/ \ast$ 寄生阶段\*/  
+26. 复制生物 $\theta _ { i }$ ，随机选取其中某些维度，替换为搜索空间范围内的随机取值，变异得到寄生向量PV  
+27. 从生态系统中随机选择的第j(j≠i)个生物 $\theta$ 作为宿主  
+28. 对寄生向量PV和宿主 $\theta$ 所对应的目标函数值进行比较，  
+选择较优的保留  
+29. end for  
+30. $I t = I t + 1$   
+31.end while  
+32.输出结果并可视化
+
+# 3 光伏组件模型参数辨识的ImSOS算法设计
+
+# 3.1参数辨识目标函数的构建
+
+光伏组件模型参数辨识的目的就是通过实验测的I-V数据来为光伏组件模型中待辨识的参数寻找最优值，从而使得模型能准确地描述光伏组件的实际输出特性，也就是说根据最优参数值确定的模型来计算得到的计算电流值与实验测量电流值之间的误差尽可能小。因此，通过重写光伏组件的SDPM模型的方程式(9)和DDPM模型的方程式(10)来定义误差函数分别如下：
+
+$$
+\left\{ \begin{array} { l } { e ( V _ { \mathrm { t } } , I _ { \mathrm { t } } , \theta ) { = } I _ { \mathrm { p h } } N _ { \mathrm { p } } - I _ { \mathrm { s d } } N _ { \mathrm { p } } \left[ \mathrm { e x p } \big ( \boldsymbol { q } \big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \big ) / a N _ { \mathrm { s } } k T \big ) - 1 \right] - } \\ { \qquad \big ( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \big ) / R _ { \mathrm { s h } } N _ { \mathrm { s } } / N _ { \mathrm { p } } - I _ { \mathrm { t } } } \\ { \theta { = } [ I _ { \mathrm { p h } } , I _ { \mathrm { s d } } , a , R _ { \mathrm { s } } , R _ { \mathrm { s h } } ] } \end{array} \right.
+$$
+
+$$
+\left\{ \begin{array} { l l } { e ( V _ { \mathrm { t } } , I _ { \mathrm { t } } , \theta ) { = } I _ { \mathrm { p h } } N _ { \mathrm { p } } - I _ { \mathrm { s d } 1 } N _ { \mathrm { p } } \left[ \exp \left( q \left( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \right) / a _ { 1 } N _ { \mathrm { s } } k T \right) - 1 \right] - } & \\ { \qquad I _ { \mathrm { s d } 2 } N _ { \mathrm { p } } \left[ \exp \left( q \left( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \right) / a _ { 2 } N _ { \mathrm { s } } k T \right) - 1 \right] - } & \\ { \qquad \left( V _ { \mathrm { t } } + I _ { \mathrm { t } } R _ { \mathrm { s } } N _ { \mathrm { s } } / N _ { \mathrm { p } } \right) / R _ { \mathrm { s h } } N _ { \mathrm { s } } / N _ { \mathrm { p } } - I _ { \mathrm { t } } } & \\ { \theta { = } [ I _ { \mathrm { p h } } , I _ { \mathrm { s d } 1 } , I _ { \mathrm { s d } 2 } , a _ { 1 } , a _ { 2 } , R _ { \mathrm { s } } , R _ { \mathrm { s h } } ] } & \end{array} \right.
+$$
+
+其中： $e ( V _ { \mathrm { t } } , I _ { \mathrm { t } } , \mathbf { \Omega } \theta )$ 为误差函数，表示由每一组测量电压与电流数据值，通过提取的参数值确定的模型来计算得到的计算电流值与实验测量电流值之差； $\theta$ 为解向量，其中元素为光伏组件模型中各待辨识的未知参数。而且当光伏组件的数学模型为 SDPM 模型时， $\theta { = } [ I _ { \mathrm { p h } } , I _ { \mathrm { s d } } , a , R _ { \mathrm { s } } , R _ { \mathrm { s h } } ]$ ；当光伏组件的数学模型为DDPM 模型时， $\theta = [ \ I _ { \mathrm { p h } } , I _ { \mathrm { s d l } } , I _ { \mathrm { s d 2 } } , a _ { 1 } , a _ { 2 } , R _ { \mathrm { s } } , R _ { \mathrm { s h } } ]$ 。因此，进一步构建以均方根误差(root mean square error,RMSE)为光伏组件模型参数辨识问题的目标函数定义如下：
+
+$$
+\mathrm { O F } _ { \mathrm { R M S E } } ( \pmb { \theta } ) = \sqrt { \frac { 1 } { N } \sum _ { i = 1 } ^ { N } ( e _ { i } ( V _ { t } , I _ { t } , \pmb { \theta } ) ) ^ { 2 } }
+$$
+
+其中： $N$ 表示实验测量电压与电流数据对的组数。该目标函数是一个复杂非线性超越函数，其求解难度很大。
+
+本文通过把光伏组件模型参数辨识问题转换为一个优化问题求解，且在搜索范围内不断调整模型参数解向量 $\theta$ 以使目标函数OFRMSE( $\theta$ )最小化。
+
+# 3.2采用 $\mathsf { I m s o s }$ 算法的光伏组件模型参数辨识基本步骤
+
+本节对采用所提ImSOS算法来辨识基于实验测量I-V数据的太阳能光伏组件模型参数的实现过程进行了详细介绍，具体步骤以流程图的形式给出，如图3所示。
+
+# 4 算例分析
+
+为验证本文所提ImSOS算法辨识太阳能光伏组件模型参数的可行性和有效性，现根据文献[7]实际测量得到的SharpND-R250A5光伏组件的I-V数据分别进行了该组件的基于单二极管建立的模型和基于双二极管建立的模型参数辨识研究，即算例1光伏组件的SDPM模型参数辨识和算例2光伏组件的DDPM模型参数辨识研究。该太阳能光伏组件由60 块多晶硅太阳能电池 $( 1 5 6 . 5 \ : \mathrm { m m } \times 1 5 6 . 5 \ : \mathrm { m m } )$ 串联构成，实验中测试温度为 $5 9 ^ { \circ } \mathrm { C }$ ，太阳辐照度为 $1 0 4 0 \mathrm { W / m } ^ { 2 }$ 。在标准测试条件下(太阳辐照度为 $1 0 0 0 \mathrm { W / m } ^ { 2 }$ ，温度为 $2 5 ^ { \circ } \mathrm { C }$ ，该组件的最大功率点电流为8.10A，最大功率点电压为 $3 0 . 9 0 { \mathrm { V } }$ ，短路电流为 $8 . 6 8 \mathrm { A }$ ，开路电压为 $3 7 . 6 0 \mathrm { V }$ 。同时，本文采用了八种当前较新颖的人工智能优化算法与所提ImSOS 算法进行光伏组件模型参数辨识性能对比研究，分别是标准SOS算法[26]、带自适应惯性权值粒子群优化算法 $( \mathrm { P S O } _ { - \mathcal { W } } ) ^ { [ 2 1 ] }$ 、改进和声搜索算法(improved harmony search,IHS)[16]、 $ { \mathbf { M F O ^ { [ 2 2 ] } } }$ 、$\mathrm { { M V O } } ^ { [ 2 3 ] }$ 、樽海鞘群算法(salp swarm algorithm，SSA)[34]、WOA[24]及正弦余弦算法(sine cosine algorithm,SCA)[35]。为体现对比的公平性，本文各算例中所有参与比较的辨识算法均在CPU为Intel(R)Core(TM)i5-2415M、主频为 $2 . 3 0 \ : \mathrm { G H z }$ 、内存为4GB的计算机上采用MATLAB编程实现，而且上述所有算法在各算例中均具有相同的种群规模和最大迭代次数，即算例1中上述所有算法均采用种群规模为10，最大迭代次数为2000；算例2中上述所有算法均采用种群规模为15，最大迭代次数为3000。算例中各算法其他算法内部依赖性控制参数设置见表1。考虑到人工智能优化算法的随机性，对各算例中上述算法均独立运行30次。
+
+开始1设置种群规模n、最大选代代数 $\boldsymbol { I } \boldsymbol { t } _ { \mathrm { m a x } } .$ 、问题维数d；读取N组实验I-V数据中电压值V和电流值It1考虑待辨识的参数变量情况下初始化n个生物种群（也就是初始解集），记作S0。当光伏组件采用SDPM模型时，则该模型待辨识的参数解向量θ=[Ip $\mathbf { \Omega } _ { \mathrm { 1 } } , I _ { \mathrm { s d } } , a , R _ { \mathrm { s } } , R _ { \mathrm { s h } } ]$ ：当采用DDPM模型时，则该模型待辨识的参数解向量θ ${ \bf \Gamma } = [ I _ { \mathrm { p h } } , I _ { \mathrm { s d l } } , I _ { \mathrm { s d 2 } } , a _ { 1 } , a _ { 2 } , R _ { s } , R _ { \mathrm { s h } } ] \circ$ 解向量θ在搜索范围内随机产生。采用准反射学习机制的种群初始化阶段按式 $( 1 8 ) ^ { \vec { r } ^ { e } }$ 生初始解集对应的准反射解集，记作 $\mathrm { Q R S } _ { 0 }$ 根据式(24)的目标函数OFRMSE(θ)来计算初始解集S0中每个解对应的目标函数值和准反射解集QRS0中每个解对应的目标函数值。7重新从初始解集So和准反射解集QRS0中选择最优的n个解作为初始解集S0，即把上步中各目标函数值从小到大排序，选择前n个目标函数值对应的解为最优的n个解。√It =14i=11确定当前最优目标函数值对应的生物体θbest采用改进受益因子策略的互利共生搜索阶段对生物个体θi，从生态系统中随机选择生物θj(j≠i)，两者进入采用改进受益因子策略的互利共生搜索阶段，按式(12)(13)(14)(19)(20)进行更新，产生新解θinew和nw，并分别与θ和θ进行解的质量的比较评价，分别选择较优解保留后进入下一步。It=It+1 i=i+1采用收缩随机数产生因子区间策 1略的偏利共生搜索阶段随机选择两个不同生物θ和θ(j≠i进入采用收缩随机数产生因子区间策略的偏利共生搜索阶段，按式(21)作更新，产生新解θi-New并与θ进行解的质量的比较评价，选择较优解保留后进入下一步。寄生阶段复制生物θi，随机选取其中某些维度，替换为搜索空间范围内的随机取值，变异得到寄生向量PV，把从生态系统中随机选择的第j(j≠i)个生物θ作为宿主，两者进入寄生阶段，对寄生向量PV和宿主θj所对应的目标函数值进行比较，选择较优的保留。1 是i<n？香It<Itmax？是香输出光伏组件模型的最优参数解向量θ和对应的目标函数值OFRMSE1结束
+
+<html><body><table><tr><td>Table1</td><td colspan="2">Innerdependentparametersofvariousalgorithms</td></tr><tr><td>算法</td><td>内部依赖性控制参数</td><td>取值</td></tr><tr><td>ImSOS</td><td>无</td><td>无</td></tr><tr><td>SOS</td><td>无</td><td>无</td></tr><tr><td rowspan="4">PSO-w</td><td>加速常数c1和c2</td><td>C1=C2=2</td></tr><tr><td>最小惯性权重wmin</td><td>0.4</td></tr><tr><td>最大惯性权重wmax</td><td>0.9</td></tr><tr><td>最小速度Vmin</td><td>-10</td></tr><tr><td rowspan="6">IHS</td><td>最大速度vmax</td><td>10</td></tr><tr><td>记忆库取值概率HMCR</td><td>0.95</td></tr><tr><td>音调微调最小概率PARmin</td><td>0.1</td></tr><tr><td>音调微调最大概率PARmax</td><td>0.7</td></tr><tr><td>微调最小步长 bwmin</td><td>1×10-4</td></tr><tr><td>微调最大步长bwmax</td><td>1</td></tr><tr><td rowspan="4">MFO</td><td>对数螺旋形状常数b</td><td>1</td></tr><tr><td>收敛常数r</td><td>[-2, -1]</td></tr><tr><td>随机数t</td><td>[r,-1]</td></tr><tr><td>虫洞存在最小概率WEPmin</td><td>1</td></tr><tr><td>MVO</td><td>虫洞存在最大概率WEPmax</td><td>0.2</td></tr><tr><td rowspan="2">SSA</td><td>局部开发的准确度</td><td>6</td></tr><tr><td>系数c1</td><td>2exp(-(4It/Itmax)2)</td></tr><tr><td rowspan="3">WOA</td><td>系数a</td><td>2- 2It/Itmax</td></tr><tr><td>对数螺旋形状常数b</td><td>1</td></tr><tr><td>收敛常数r</td><td>[-2, -1]</td></tr><tr><td></td><td>随机数t</td><td>[r,-1]</td></tr><tr><td>SCA</td><td>常数a</td><td>0.8</td></tr></table></body></html>
+
+# 4.1算例1光伏组件的SDPM模型参数辨识
+
+本算例中，Sharp ND-R250A5 光伏组件的 SDPM模型需要辨识五个未知参数。该模型的五个未知参数的搜索范围取值分别为： $I _ { \mathrm { p h } } \left( \mathrm { A } \right) \in \left[ 0 , \ 1 0 \right]$ ， $I _ { \mathrm { s d } } ( \mu \mathrm { A } ) \in [ 0 , 1 ]$ ， $a \in [ 1 , 2 ]$ + $R _ { \mathrm { s } }$ (Ω)$\in [ 0 , 2 ]$ ， $R _ { \mathrm { s h } } \left( \Omega \right) \in [ 0 , 1 0 0 ]$ 。实验测量数据由36组电压电流数据构成。根据实验I-V数据进行建模研究，本文采用所提$\mathrm { I m } \mathrm { { S O S } }$ 算法和其他八种算法来辨识 Sharp ND-R250A5 光伏组件的SDPM模型的最优参数。
+
+表2统计了30次独立运行实验中各辨识算法以均方根误差最小化为目标函数OFrMSE 的结果值。其中Best、Mean、Median、Worst及Std分别表示30次独立运行实验所获结果的最优值、平均值、中位值、最差值和标准差。值得注意的是，表中粗体表示的数据为在对比中占优的数据（下同)。由表2可以发现，对于SharpND-R250A5光伏组件的SDPM模型参数辨识结果值，ImSOS算法所得结果的最优值、平均值、中位值、最差值和标准差均优于标准SOS算法及其余七种算法。其中ImSOS算法所得结果的最优值为1.13972181031247e-02，而且ImSOS算法所得结果的标准差为1.141686e-02，低于标准SOS算法及其他对比算法，这明显体现出所提ImSOS算法相对于标准SOS算法在寻优精度和稳定性方面都有所提高，表明算法改进具有一定的有效性，能够精确可靠地辨识光伏组件的SDPM模型参数。
+
+为了更直观地比较ImSOS算法与标准SOS算法及其他七种人工智能优化算法的寻优性能，图4给出了各算法得到的最小适应度值所对应的以均方根误差为目标函数OFRMSE的收敛曲线。从图中可以看出，由于是随机对初始解进行选取，各算法的目标初始值都较大，随着迭代次数增加，ImSOS算法仅在100代左右就快速收敛到一个相对稳定的目标函数值附近，并且在后续的极值搜索优化过程中，能搜寻到比标准SOS算法及其余七种算法更小的目标值。该结果也证明了所提ImSOS算法在种群初始化过程中采用的准反射学习机制能增加算法种群的多样性，提高了全局寻优能力，而在互利共生搜索过程中采用改进受益因子策略和在偏利共生搜索阶段采用收缩随机数产生因子区间策略，使得算法的跳出局部极值能力更强，增强了算法的局部开采能力。因此，算法能很好地平衡全局搜索能力和局部开采能力。可见所提ImSOS算法的寻优能力和收敛性能较其他八种算法更优。
+
+表2算例1中各算法寻优结果的统计值
+
+表1各算法内部依赖性控制参数设置  
+Table 2Using various algorithms   
+
+<html><body><table><tr><td>算法</td><td>Best</td><td>Mean</td><td>Median</td><td>Worst</td><td>Std</td></tr><tr><td>ImSOS 1.13972181031247e-02 1.352685e-021.139722e-02 7.396162e-021.141686e-02</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>SOS 1.13972181031251e-02 2.778745e-021.139722e-021.723234e-014.189177e-02</td><td></td><td></td><td></td><td></td></tr><tr><td>PSO-W</td><td>5.229317e-02</td><td></td><td>1.1807389.166063e-01</td><td>2.108533</td><td>5.454449e-01</td></tr><tr><td>IHS</td><td>2.163625e-02</td><td>3.970194e-013.355801e-01</td><td></td><td>1.151087</td><td>2.669930e-01</td></tr><tr><td>MFO</td><td>1.139864e-02</td><td>9.339897e-019.166063e-01 2.108533</td><td></td><td></td><td>5.780722e-01</td></tr><tr><td>MVO</td><td>1.823445e-02</td><td>2.500029e-012.320250e-015.898403e-011.614256e-01</td><td></td><td></td><td></td></tr><tr><td>SSA</td><td>1.756698e-02</td><td></td><td>2.170548e-011.981524e-014.947760e-011.273422e-01</td><td></td><td></td></tr><tr><td>WOA</td><td>1.204897e-02</td><td>1.169997</td><td>1.279503</td><td>2.108533</td><td>5.921692e-01</td></tr><tr><td>SCA</td><td>7.233619e-02</td><td></td><td>3.048438e-012.266997e-01</td><td>2.108622</td><td>3.834551e-01</td></tr></table></body></html>
+
+表3给出了不同优化算法进行辨识获得的最优参数如 $I _ { \mathrm { p h } }$ （24Isd、a、 $R _ { \mathrm { s } }$ 、 $R _ { \mathrm { s h } }$ 的值及相对应的目标函数OFRMsE值。由表3可以发现，采用ImSOS算法进行SharpND-R250A5光伏组件的SDPM模型参数辨识时得到的最优参数解所对应的目标函数OFRMsE值最小且为1.13972181031247e-02，获得了最高的准确度，胜过其余八种辨识算法，按准确度可依次排序为：ImSOS>SOS>MFO>WOA $>$ SSA>MVO>IHS $>$ PSO- $. w >$ SCA,这体现了 $\mathrm { I m } \mathrm { { S O S } }$ 算法增强了标准SOS算法的寻优能力，使其性能得到提升。同时也表明采用本文所提ImSOS算法可以精确地辨识光伏组件的SDPM模型参数，使得通过所得最优参数解确定的模型很好地描述了实际光伏组件的输出特性。
+
+![](images/66d002fce4de0841ba829e2ec7b5adbd1b5cb4022f2b9d2c128bcd76a1efd786.jpg)  
+图4算例1中各算法的收敛曲线
+
+表3各算法获得光伏组件的SDPM模型参数辨识结果 Table3 Best results of SDPM model for PV module using various algorithms   
+
+<html><body><table><tr><td>算法</td><td>Iph (A)</td><td>Isd (μA)</td><td>a</td><td>Rs(Ω)</td><td>Rsh (Ω)</td><td>OFRMSE</td></tr><tr><td>ImSOS 9.143964</td><td></td><td>1.000000</td><td></td><td>1.206865 9.854653e-03 7.759294e+01</td><td></td><td>1.13972181031247e-02</td></tr><tr><td>SOS</td><td>9.143964</td><td>1.000000</td><td></td><td>1.206865 9.854653e-03 7.759290e+01</td><td></td><td>1.13972181031251e-02</td></tr><tr><td></td><td></td><td></td><td></td><td>PSO-w 9.314662 3.508695e-02 1.000000 1.069221e-02</td><td>1.352126</td><td>5.229317e-02</td></tr><tr><td>IHS</td><td></td><td></td><td></td><td>9.105059 6.277072e-01 1.173231 9.988120e-03 7.263959e+01</td><td></td><td>2.163625e-02</td></tr><tr><td>MFO</td><td>9.142935</td><td>1.000000</td><td></td><td>1.206862 9.855259e-03 1.000000e+02</td><td></td><td>1.139864e-02</td></tr><tr><td>MVO</td><td></td><td></td><td></td><td>9.233459 8.398585e-01 1.194204 9.876043e-03</td><td>3.876607</td><td>1.823445e-02</td></tr><tr><td>SSA</td><td></td><td></td><td></td><td>9.166212 9.975954e-01 1.206567 9.893198e-03 9.762082e+01</td><td></td><td>1.756698e-02</td></tr><tr><td>WOA</td><td></td><td></td><td></td><td>9.144157 9.237400e-01 1.201044 9.886278e-03 3.760251e+01</td><td></td><td>1.204897e-02</td></tr><tr><td>SCA</td><td></td><td></td><td></td><td>9.040952 2.052154e-01 1.099011 1.007876e-02 1.972668e+01</td><td></td><td>7.233619e-02</td></tr></table></body></html>
+
+为了进一步检验本文所提ImSOS算法的光伏组件模型参数辨识质量，将表3中 $\mathrm { I m } \mathrm { S O S }$ 算法辨识得到的最优参数如$I _ { \mathrm { p h } }$ 、 $\boldsymbol { I _ { \mathrm { s d } } }$ 、a、 $R _ { \mathrm { s } }$ 、 $R _ { \mathrm { s h } }$ 的值代入描述光伏组件的SDPM模型特性的方程式(9)，重构出该组件模型在各实验测量电压数据下对应的计算电流数据和计算功率数据并绘制出I-V、功率一电压(P-V)特性，与实验数据进行比较，如图5所示。由图5可知，采用ImSOS算法辨识获得的最优参数重构出光伏组件的SDPM模型的I-V、P-V数据与实验测量的I-V、P-V数据非常接近，几乎难分彼此，这表明本文所提 $\mathrm { I m } \mathrm { S O S }$ 算法获得的优化参数具有较高的准确性，可以精确有效地辨识光伏组件的SDPM模型参数。
+
+# 4.2算例2光伏组件的DDPM模型参数辨识
+
+为进一步验证本文所提ImSOS算法辨识光伏组件模型参数的有效性和优越性，本算例中，模型需辨识的未知参数从算例1的五个增加至七个，其辨识求解难度更大，即 SharpND-R250A5光伏组件的DDPM模型需要辨识七个未知参数。该模型的七个未知参数的搜索范围取值分别为： $I _ { \mathrm { p h } } \ ( \mathbf { A } ) \in [ 0$ 10], Isd1 $( \mu \mathrm { A } ) \in [ 0 , 1 ]$ $I _ { \mathrm { s d } 2 }$ ${ \bf \Gamma } _ { \mathrm { d } 2 } ( \mu \bf { A } ) \in [ 0 , 1 ]$ ， $a _ { 1 } \in [ 1 , 2 ]$ ， $a _ { 2 } \in [ 1 , 2 ]$ $R _ { \mathrm { s } } \left( \Omega \right) \in \left[ 0 , 2 \right]$ $R _ { \mathrm { s h } } \left( \Omega \right) \in \left[ 0 , 1 0 0 \right] .$ 。实验测量I-V数据同算例1。同样采用本文所提 $\mathrm { I m } \mathrm { S O S }$ 算法和上述8种算法来进行 SharpND-R250A5光伏组件的DDPM模型最优参数辨识研究。
+
+在对各辨识算法以均方根误差最小化为目标函数OFRMSE独立运行30次后，并对其结果值分别进行统计分析，如表4所示。
+
+由表4可以清楚地看出，对于SharpND-R250A5光伏组件的DDPM模型参数辨识结果值，ImSOS算法获得的结果的最优值、平均值、中位值、最差值和标准差均优于标准SOS算法及其余七种算法。其中ImSOS算法所得结果的最优值为
+
+1.123868e-02，明显低于标准SOS算法及其他对比算法。特别值得注意的是，ImSOS算法所得结果的标准差为2.977265e-07，远远低于标准SOS算法及其余七种对比算法，由此很好地体现出所提ImSOS算法相对于标准SOS算法在稳定寻优能力和准确性方面都有所提升，表明算法改进具有一定的有效性，在辨识光伏组件的DDPM模型最优参数时具有更为可靠的准确性和稳定性。
+
+![](images/a8517fa259680ba2e7efa40a178d9abb685a6ea1aa2db651e0f927cba8f49213.jpg)  
+Fig. 4 Convergence of various algorithms for case 1   
+图5光伏组件的实验测量数据与 $\mathrm { I m } \mathrm { S O S }$ 算法辨识其 SDPM模型的计算数据对比  
+Fig.5Comparisons between measured data and calculated data by proposed imsos for SDPM model
+
+图6直观地给出了各算法寻优得到的最小适应度值所对应的以均方根误差为目标函数OFRMSE的收敛曲线。从图6中可以发现，各算法的目标初始值较大，随着迭代次数的增加，ImSOS算法仅在200代左右就快速收敛到一个相对稳定的目标函数值附近，并且在后续的极值搜索优化过程中，能搜寻到比标准SOS算法及其他算法更小的目标值。该结果也证明了所提ImSOS算法改善了标准SOS算法的寻优性能，能很好地平衡全局探索能力和局部开采能力。可见所提ImSOS算法的寻优能力和收敛性能较其他八种算法更优。
+
+表5清楚地给出了各优化算法进行辨识获得的最优参数如 $I _ { \mathrm { p h } }$ 、 $\boldsymbol { I _ { \mathrm { s d l } } }$ 、 $\boldsymbol { I _ { \mathrm { s d } 2 } }$ 、a1、a2、 $R _ { \mathrm { s } }$ 、 $R _ { \mathrm { s h } }$ 的值及相对应的目标函数OFRMSE 值。由表5 可知，采用ImSOS 算法进行 SharpND-R250A5光伏组件的DDPM模型参数辨识时得到的最优参数解所对应的目标函数OFrMsE值最小且为1.123868e-02，获得了最高的准确度，明显优于其余八种辨识算法，按准确度可依次排序为： $\mathrm { I m S O S { > } S O S { > } M F O { > } W O A { > } S S A { > } M V O { > } }$ $\mathrm { I H S { > } P S O { - } } w { > } \mathrm { S C A }$ ，这充分体现了ImSOS算法改善了标准SOS算法的寻优能力，特别在本算例中求解问题维数增加时，其性能的提升体现得更加明显。同时也表明采用本文所提ImSOS算法在精确地辨识
+
+光伏组件的DDPM模型参数时具有一定的优越性，使得通过所得最优参数解重构获得的模型与实际光伏组件输出特性很好地吻合。
+
+# 表4算例2中各算法寻优结果的统计值
+
+Table 4Using various algorithms   
+
+<html><body><table><tr><td>算法</td><td>Best</td><td>Mean</td><td>Median</td><td>Worst</td><td>Std</td></tr><tr><td>ImSOS</td><td>1.123868e-02</td><td>1.123881e-02</td><td>1.123868e-02</td><td>1.123986e-02</td><td>2.977265e-07</td></tr><tr><td>SOS</td><td>1.123895e-02</td><td>4.435637e-02</td><td>1.132074e-02</td><td>8.808801e-01</td><td>1.592047e-01</td></tr><tr><td>PSO-w</td><td>2.314774e-02</td><td>1.010029</td><td>9.157699e-01</td><td>2.108533</td><td>4.090412e-01</td></tr><tr><td>IHS</td><td>1.619519e-02</td><td>3.170806e-01</td><td>3.147407e-01</td><td>6.686308e-01</td><td>1.635480e-01</td></tr><tr><td>MFO</td><td>1.133178e-02</td><td>6.149066e-01</td><td>8.808801e-01</td><td>1.227363</td><td>4.702801e-01</td></tr><tr><td>MVO</td><td>1.235726e-02</td><td>1.115238e-01</td><td>7.324502e-02</td><td>3.716043e-01</td><td>1.070155e-01</td></tr><tr><td>SSA</td><td>1.207423e-02</td><td>5.647215e-02</td><td>4.726401e-02</td><td>1.915108e-01</td><td>3.946225e-02</td></tr><tr><td>WOA</td><td>1.168769e-02</td><td>1.453825</td><td>1.277271</td><td>6.671749</td><td>1.888110</td></tr><tr><td>SCA</td><td>4.543367e-02</td><td>1.719073e-01</td><td>1.509657e-01</td><td>9.321523e-01</td><td>1.514787e-01</td></tr></table></body></html>
+
+![](images/c733bed98e0bec60fba065f3e119e0c16b32020a1a977f056226a170976c1707.jpg)  
+图6算例2中各算法的收敛曲线
+
+为了更形象地说明本文所提 $\mathrm { I m } \mathrm { { s o s } }$ 算法的光伏组件模型参数辨识的准确性，将表5中 $\mathrm { I m } \mathrm { { s o s } }$ 算法辨识得到的最优参数如 $I _ { \mathrm { p h } }$ 、Isd1、Isd2、a1、a2、 $R _ { \mathrm { s } }$ 、 $R _ { \mathrm { s h } }$ 的值代入描述光伏组件的DDPM模型特性的方程式(10)，重构出该组件模型在各实验测量电压数据下对应的计算电流数据和计算功率数据并绘制出I-V、P-V特性，与实验数据进行比较，如图7所示。由图7可以直观地看出，采用ImSOS算法辨识的最优参数重构出光伏组件的DDPM模型的I-V、P-V数据与实验测量的I-V、P-V数据同样非常接近，具有很好的吻合度，这表明本文所提 $\mathrm { I m } \mathrm { { s o s } }$ 算法获得的优化参数具有较高的精度，尽管该算例的组件模型中未知参数增多了，辨识难度增大了，同样可以准确有效地辨识出光伏组件的DDPM模型最优参数。
+
+表5各算法获得光伏组件的DDPM模型参数辨识结果
+
+Table5 Best results of DDPM model for PV module using various   
+
+<html><body><table><tr><td colspan="8">algorithms</td></tr><tr><td>算法 Iph (A)</td><td>Isd1 (μA)</td><td>Isd2 (μA)</td><td>a1</td><td>a2</td><td>Rs(Ω)</td><td>Rsh (Ω)</td><td>OFRMSE</td></tr><tr><td></td><td>ImSOS 9.145875 9.212180e-02</td><td>1.000000</td><td></td><td></td><td>1.213483 1.213484 9.824284e-03 1.000000e+02 1.123868e-02</td><td></td><td></td></tr><tr><td>SOS</td><td>9.145883 7.874803e-01 3.053844e-01 1.211853 1.218075 9.824266e-03 9.999999e+01 1.123895e-02</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PSO-w 9.209539</td><td>1.000000</td><td></td><td></td><td></td><td>2.978648e-01 2.000000 1.123047 1.018894e-02</td><td>3.388706</td><td>2.314774e-02</td></tr><tr><td>IHS</td><td>9.164499 7.092563e-01</td><td>1.000000</td><td></td><td></td><td>1.191551 1.384045 9.855943e-03 9.476771e+01 1.619519e-02</td><td></td><td></td></tr><tr><td>MFO9.144779</td><td>1.000000</td><td>1.000000</td><td></td><td></td><td>1.832347 1.207152 9.844784e-03 1.000000e+02 1.133178e-02</td><td></td><td></td></tr><tr><td></td><td>MVO9.150307 9.354702e-01 2.792301e-04 1.201868 1.999662 9.888661e-03 5.756872e+01 1.235726e-02</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SSA</td><td>9.144893 8.465336e-01 3.182345e-01 1.195376 1.526311 9.883436e-03 2.883042e+01 1.207423e-02</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>WOA 9.139977 9.667885e-01 9.925868e-01 1.204515 1.911408 9.848554e-03 9.924384e+01 1.168769e-02</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SCA9.093958 1.795627e-24 6.331248e-01 1.360216 1.173024 9.802448e-03 5.319606e+01 4.543367e-02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 5 结束语
+
+本文提出了一种采用改进型SOS算法的光伏组件模型参数辨识方法。首先，为提高标准SOS算法的寻优能力，提出了新的改进型共生生物搜索算法，记做 $\mathrm { I m } \mathrm { S O S }$ 算法。该算法采用了三个主要策略来改善标准SOS算法的优化性能，很好地平衡了算法的全局探索能力与局部开发能力。该算法在标准SOS算法的生物种群初始化阶段采用了准反射学习机制，提高了算法的求解精度和加快了算法的收敛速度；在互利共生搜索阶段采用了改进受益因子策略以使每个生物在它们相互作用中获得相等的部分益处，提高了算法的稳定性；在偏利共生搜索阶段采用了收缩随机数产生因子区间策略，把搜索范围控制在合理区间，加快了算法的收敛速度的同时也保证了其求解精度。其次，给出了采用所提ImSOS算法求解基于实验测量I-V数据的光伏组件模型参数辨识问题的具体步骤及实现流程。最后，利用所提ImSOS 算法对实际 SharpND-R250A5光伏组件进行了实验验证。通过与标准SOS、PSO- ${ \bf \nabla } \cdot { \bf w }$ 、IHS、MFO、MVO、SSA、WOA和SCA8种新颖智能优化算法进行对比分析，结果证明了所提ImSOS算法增强了标准SOS算法的寻优能力，使其性能得到了提升。同时也表明了所提ImSOS算法在光伏组件的SDPM模型和DDPM模型参数辨识的有效性和优越性，为准确可靠地辨识光伏组件模型参数提供一种新的有效方法，以期为实际中光伏组件的仿真设计、性能评估以及故障检测等方面研究提供有力的支持。
+
+然而本文研究并未考虑不同遮荫等外部因素情况下光伏组件遮挡模型的建立以及模型参数的精确辨识，后期研究将会重点考虑这方面的问题。此外，下一步也可继续探索将本文所提ImSOS 算法推广到其他实际工程优化问题求解的可行性。
+
+![](images/999e4737f6b71e71a4d5eb3f0a9cc6dafd34b4d4219380dd4814ca4e272496ba.jpg)  
+Fig. 6 Convergence of various algorithms for case 2   
+图7光伏组件的实验测量数据与 $\mathrm { I m } \mathrm { S O S }$ 算法辨识其DDPM模型的计算数据对比  
+Fig.7Comparisons between measured data and calculated data by proposed imsos for DDPM model
+
+# 参考文献：
+
+[1]周孝信，陈树勇，鲁宗相，等．能源转型中我国新一代电力系统的技 术特征[J]．中国电机工程学报，2018，38(7):1893-1904.(Zhou Xiaoxin, Chen Shuyong,Lu Zongxiang,et al. Technology features of the new generation power system in China [J].Proceedings of the CSEE, 2018,38(7):1893-1904.)   
+[2]Das UK,TeyKS,Idris MYI,et al.Forecasting of photovoltaic power generation and model optimization [J].Renewable and Sustainable Energy Reviews,2018,81:912-928.   
+[3]Cardenas A A,Carrasco M,Mancilla-David F,et al.Experimental parameter extraction in the single-diode photovoltaic model via a reduced-space search [J].IEEE Trans on Industrial Electronics,2017, 64 (2): 1468-1476.   
+[4] Chan D S H,Phang J C H. Analytical methods for the extraction of solar-cell single-and double-diode model parametersfrom I-V characteristics [J].IEEE Trans on Electron Devices,1987,34 (2): 286-293.   
+[5]Kang Tong,Yao Jiangang,Jin Min,et al.A novel improved cuckoo search algorithm for parameter estimation of photovoltaic (PV) models [J].Energies,2018,11 (5):1060.   
+[6]Jordehi A R.Parameter estimation of solar photovoltaic (PV) cells:a review [J].Renewable and Sustainable Energy Reviews,2016,61: 354-371.   
+[7]NunesHGG,Pombo JA N,Mariano SJP S,et al.A new high performance method for determining the parameters of PV cels and modules based on guaranteed convergence particle swarm optimization [J]. Applied Energy,2018,211: 774-791.   
+[8]Lun Shuxian,Du Cunjiao,Guo Tingting,et al.A new explicit I-V model of a solar cell based on Taylor's series expansion [J].Solar Energy,2013,94:221-23.   
+[9] Shongwe S,Hanif M.Gauss-Seidel iteration based parameter estimation for a single diode model of a PV module [Cl/ Proc of IEEE Electrical Power and Energy Conference.Canada: IEEE Press,2016: 278-284.   
+[10] Jervase JA，Bourdoucen H,Al-Lawati A.Solar cell parameter extraction using genetic algorithms [J]. Measurement Science and Technology,2001,12 (11): 1922-1925.   
+[11] Huang Wei,Jiang Cong,Xue Lingyun,etal. Extracting solarcell model parameters based on chaos particle swarm algorithm [C]//Proc of IEEE International Conference on Electric Information and Control Engineering.2011: 398-402.   
+[12] 杨宏超，程若发，吕彩艳，等．光伏组件内部参数辨识与输出特性研 究[J].电子技术应用,2018,44(1):125-128.(Yang Hongchao,Cheng Ruofa, Lv Caiyan,et al. Study on internal parameter identification and output characteristics of photovoltaic module [J].Application of Electronic Technique,2018,44(1):125-128.)   
+[13]AlHajriMF,El-Naggar KM,AlRashidi MR,et al. Optimal extraction of solarcellparametersusingpaternsarch[J]Renewablenergy 2012,44 (8): 238-245.   
+[14] El-Naggar K M,AlRashidi M R,AlHajri M F,et al. Simulated Annealing algorithm for photovoltaic parameters identification [J]. Solar Energy,2012,86 (1): 266-274.   
+[15]武涛，简献忠，应怀樵，等．自适应差分进化算法在光伏组件模型参 数辨识中的应用[J]．电力科学与工程,2018，34(4):125-128.(Wu Tao,Jian Xianzhong,Ying Huaiqiao,et al.Application of adaptive differential evolution algorithm inparameter identificationof photovoltaic module model[J]. Electric Power Science and Engineering, 2018,34 (4): 125-128.)   
+[16] Askarzadeh A,Rezazadeh A.Parameter identification for solar cell models using harmony search-based algorithms [J]. Solar Energy,2012, 86 (11): 3241-3249.   
+[17] Ma Jieming,Ting T O,Man K L,et al.Parameter estimation of photovoltaic models via cuckoo search [J]. Journal of Applied Mathematics,2013,2013 (2): 1-11.   
+[18] Alireza A,Alireza R.Artificial bee swarm optimization algorithm for parameters identification of solar cell models [J]. Applied Energy, 2013, 102 (2): 943-949.   
+[19] Yuan Xiaofang,Xiang Yongzhong,He Yuqing.Parameter extraction of solar cell models using mutative-scale parallel chaos optimization algorithm [J].Solar Energy,2014,108: 238-251.   
+[20] Yuan Xiaofang,He Yuqing,Liu Liangjiang. Parameter extraction of solar cell models using chaotic asexual reproduction optimization [J]. Neural Computing and Applications,2015,26 (5): 1227-1239.   
+[21] Askarzadeh A, Coelho L D S.Determination of photovoltaic modules parameters at different operating conditions using a novel bird mating optimizer approach [J]. Energy Conversion and Management,2015,89: 608-614.   
+[22] Allam D,Yousri D A,Eteiba MB.Parameters extraction of the three diodemodel for the multi-crystallinesolar cell/module using moth-flame optimization algorithm [J]. Energy Conversion and Management,2016,123: 535-548.   
+[23] AliEE,El-HameedMA,El-FerganyAA,et al.Parameter extraction of photovoltaic generating units using multi-verse optimizer [J]. Sustainable Energy Technologies and Assessments,2016,17: 68-76.   
+[24] Aziz M E A E,Oliva D.Parameter estimation of solar cells diode models by an improved opposition-based whale optimization algorithm [J].Energy Conversion and Management,2018,171: 1843-1859.   
+[25] Wolpert D H, Macready W G.No free lunch theorems for optimization [J].IEEE Trans on Evolutionary Computation,1997,1(1): 67-82.   
+[26] Cheng M Y，Prayogo D. Symbiotic organisms search:a new metaheuristic optimization algorithm [J]. Computers and Structures, 2014,139:98-112.   
+[27] Kavousi-Fard A，Rostami M A，Niknam T. Reliability-oriented reconfiguration of vehicle-to-grid networks [J]. IEEE Transon Industrial Informatics,2015,11 (3): 682-691.   
+[28] Duman S. Symbiotic organisms search algorithm for optimal power flow problem based on valve-point effect and prohibited zones [J]. Neural Computing and Applications,2017,28 (11): 1-15.   
+[29]王艳娇，陶欢欢．基于旋转学习策略的共生生物搜索算法[J].计算 机应用研究,2017,34(9):2614-2617.(Wang Yanjiao,Tao Huanhuan. Symbioticorganismssearch usingrotation-based learning[J]. Application Research of Computers,2017,34 (9): 2614-2617.)   
+[30] Tizhoosh HR.Opposition-based learning:a new scheme for machine intellgence [Cl// Proc of International Conference on Computational Intelligence for Modeling, Control and Automation,and Intermational Conference on Intelligent Agents，Web Technologies and Internet Commerce Vienna,Austria: IEEE Press,2005: 695-701.   
+[31] Ergezer M,Dan S,Du Dawei.Oppositional biogeography based optimization [C]//Proc of IEEE International Conference on Systems, Man and Cybernetics． San Antonio，USA:IEEE Press,2009: 1009-1014.   
+[32] Ergezer M, Simon D.Mathematical and experimental analyses of oppositional algorithms [J]. IEEE Trans on Cybernetics,2014,44(11): 2178-2189.   
+[33] Das S,Bhattacharya A, Chakraborty AK.Quasi-reflected ions motion optimization algorithm for short-term hydrothermal scheduling [J]. Neural Computing and Applications,2018,29 (6): 123-149.   
+[34] Mirjalili S,Gandomi AH, Mirjalili S Z,et al. Salp swarm algoritm: a bio-inspired optimizer for engineering design problems [J].Advances in Engineering Software,2017,114: 163-191.   
+[35] Mirjalili S.SCA:A sine cosine algorithm for solving optimization problems [J]. Knowledge-Based Systems,2016,96:120-133.

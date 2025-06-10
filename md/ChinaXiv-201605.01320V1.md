@@ -1,0 +1,229 @@
+# Y-shaped biotin-conjugated poly (ethylene glycol)-poly (epsilon-caprolactone) copolymer for the targeted delivery of curcumin
+
+Wenxia Zhuab, Zhimei Songc, Peng Weid, Ning MengC, Fangfang Tengab, Fengying Yangc, Na Liuc, Runliang Feng C,\*
+
+bShandongAcademyofedicalSiences,No8877JingshiRod,Jinn5o2,handongProvince,in   
+PRChina   
+atib
+
+# ARTICLE INFO
+
+Article history: Received 24 October 2014 Accepted29November2014 Available online6December 2014
+
+Keywords:   
+Biotin   
+Y-shaped   
+Poly (ethylene glyol)-poly (epsilon  
+caprolactone)   
+Curcumin   
+Copolymer   
+Anticancer
+
+# ABSTRACT
+
+In order to improve curcumin's low water-solubility and selective delivery to cancer,we reported ligandmediated micelles based ona Y-shaped biotin-poly(ethylene glycol)-poly(epsilon-caprolactone $) _ { 2 }$ (biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ ）copolymer. Its structure was characterized by $^ 1 \mathrm { H }$ NMR.The blank and drug-loaded miceles obtained by way of thin-film hydration were characterized by dynamic light scattering,X-ray diffraction,infrared spectroscopy and hemolytic test. Curcumin was loaded into micells with a high encapsulating efficiency $( 9 3 . 8 3 \%$ ).Curcumin'swater-solubilitywas enhanced 17O,4oo times higher than free curcumin. Biotin-PEG- $\cdot \mathsf { P C L } _ { 2 }$ micelles showed slower drug release in vitro than $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles.In vitro cellular uptake and cytotoxicity tests showed that higher dosage of curcumin might overcome the effct of slow release on cytotoxicities because of its higher uptake induced by biotin, resulting in higher anticancer activities against MDA-MB-436 cels.In brief,Y-shaped biotin-PEG- $\mathrm { P C L } _ { 2 }$ is a promising delivery carrier for anticancer drug.
+
+$\circledcirc$ 2014 Elsevier Inc.All rights reserved.
+
+# 1. Introduction
+
+Curcumin,a hydrophobic polyphenol derived from the rhizome of the herb Curcuma longa,has shown health promoting and disease preventingactivity against several diseases including cancer [1].However, several studies have revealed extremely low water-solubility,unstable property,rapid metabolism and poor absorption of this molecule that severely reduces its bioavailability[2,3].To overcome these problems,drug delivery systems (DDS) have been taken into consideration to provide longer circulation times,increased permeability,and resistance toward metabolic presystemic degradation [4,5].It is well known that the main problem of cancer therapy is how to deliver anticancer drug to tumor organ or tissue to improve its therapeutic efficiency and decrease its side-effect.Active target technology has been intensively researched for solving it with significant development [6-10].In this area,some small molecular target compounds,such as folic acid [11],galactose [12],arginine-glycine-aspartic acid (Arg-Gly-Asp,RGD）[13] and forth,have been used to decorate polymeric particle for enhancing curcumin's active targeting property.It is noted that biotin is used widely as a tumor targeting ligand for various anti-cancer drugs [14-2O]. Overexpression of itsreceptor on the surface of different cancer cells can introduce the biotin-conjugated copolymeric drug delivery system into them [20].In our previous research,a Y-shaped methoxy poly(ethylene glycol)-b-poly (epsilon-caprolactone) $\begin{array} { r l } {  { \bigl ( \mathrm { M P E G - P C L } _ { 2 } . } } \end{array}$ ）blockcopolymer can provide a higher encapsulation efficiency for curcumin with sustained release property [21]. So,it is believed that drug delivery system based on Y-shaped biotin-conjugated poly (ethylene glycol)-poly(epsilon-caprolactone) (biotin-PEG- $\mathrm { . P C L } _ { 2 }$ copolymeric micelles cannot onlyafford better encapsulationand release property for curcumin,butalso realize selective delivery of it to cancer cells.
+
+In this study,the biotin- $\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ copolymer was synthesized through O-alkylation,alkaline ring-opening，radical addition, ring-opening polymerization and acylation reaction with monoallyloxy poly(ethylene glycol) ether as raw material.The structure of the copolymer was confirmed by $\mathrm { ^ 1 H }$ NMR spectroscopy. The micelles were prepared by thin-flm hydration with a higher drug loading capacity.We also characterized the micelles in the terms of dynamic light scattering,X-ray diffraction,infrared spectroscopy and hemolytic test. The in vitro cytotoxicity against MDA-MB-436 cellswas evaluated.
+
+# 2.Materialsand experiments
+
+# 2.1.Materials
+
+Curcumin was purchased from Fluka Chemical Company Inc. (Buchs,Switzerland).Monoallyloxy poly (ethylene glycol)(APEG, $ { \mathrm { M n } } = 2 4 0 0$ ）wasprocured from Haian petrochemical factory (Haian, Jiangsu Province,China).epsilon-Caprolactone (ε-CL)was provided by Huayuan polymer Co., Ltd.(Qingdao, Shandong Province,China).Epichlorohydrin purchased from Tianjin Damao Chemical Corp.(Tianjin,China) was used without further purification.Azodiisobutyronitrile（AIBN)was purchased from Fuyu Fine Chemical Co.,Ltd.(Tianjin,China).N-(3-Dimethylaminopropyl)- $\mathsf { N } ^ { \prime }$ -ethylcarbodiimide hydrochloride(EDC）and N-hydroxy succimide(NHS) were bought from Sinopharm Chemical Reagent Co., Ltd.(Shanghai,China).Biotin was purchased from Hongxiang Chemical Engineering Co.，Ltd.(Zhengzhou,China).Methylene dichloride was dried under calcium hydride and distilled before use.All the other chemicals and solvents were of analytical grade orhigher,obtained commercially.
+
+# 2.2.Synthesis of biotin-PEG- ${ \cdot } P C L _ { 2 }$
+
+# 2.2.1. Allyl-PEG- $O H _ { 2 }$
+
+Allyl-PEG- $\boldsymbol { \mathrm { O H } } _ { 2 }$ was prepared according to a procedure about dihydroxy MPEG described previously with a modification [22]. Sodium $( 2 . 3 \mathrm { g } , 1 0 0 \mathrm { m m o l } ) ,$ ）was cut into pieces and added into a mixture of APEG $( 6 0 \mathrm { g } , 2 5 \mathrm { m m o l } )$ ）andtetrahydrofuran $( 2 0 0 \mathrm { m L } )$ The mixture was agitated at $6 0 ^ { \circ } C$ for $^ { 8 \mathrm { h } }$ under nitrogen flow.Then epichlorohydrin( $1 3 . 9 3 { \mathrm { g } }$ ： $1 5 0 \mathrm { m m o l } \$ ）was added dropwise and reacted at the same temperature for another $^ { 1 2 \mathrm { h } }$ 、The solvent and excessive epichlorohydrin were removed by evaporation under vacuum after filtration at room temperature to afford allyl-PEG glycidyl ether.This ether was mixed with $1 0 0 ~ \mathrm { { m L } }$ of $20 \%$ sodium hydroxide solution and heated at $8 0 ^ { \circ } C$ for $2 4 \mathrm { h }$ The mixture was evaporated under vacuum to dry.The residual was redissolved in methylene dichloride and dried with anhydrous sodium sulfate overnight.The most of solvent was removed under vacuum and precipitated in diethyl ether to afford white powder solidas product.
+
+# 2.2.2. $H _ { 2 } N - P E G - ( O H ) _ { 2 }$
+
+$H _ { 2 } N - P E G - ( O H ) _ { 2 }$ was prepared in accordance with a synthetic process for $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { O H } }$ reported in a previous article [23]. Briefly，Ally- $\operatorname { \cdot P E G - O H } _ { 2 }$ ，cystamine hydrochloride,and AIBN were co-dissolved and stirred in anhydrous N,N-dimethyl formamide (DMF)at $6 5 ^ { \circ } \mathsf { C }$ for $2 4 \mathrm { h }$ under nitrogen atmosphere.The solvent was evaporated to dry under vacuum.Potassium carbonate solution was added into the residual to remove excess cystamine hydrochloride and distilled to dry.To the residual methylene chloride wasadded,mixed well and filtrated in turn.After evaporation of the majority of filtrate,diethyl ether was added to afford amino${ \mathsf { P E G } } { - } { \mathsf { O H } } _ { 2 }$ as sediment.
+
+# 2.2.3. Biotin-PEG- $( O H ) _ { 2 }$
+
+Biotin was treated with NHS and EDC in anhydrous DMF at room temperature for $2 4 \mathrm { h }$ [24]. The resulting mixture was added into anhydrous methylene chloride containing $\mathrm { H } _ { 2 } \mathrm { N } { \mathrm { - P E G - } } ( \mathrm { O H } ) _ { 2 }$ and stirred at room temperature for $2 4 \mathrm { h }$ .The solvent was evaporated.The residual was recrystallized from isobutyl alcohol to afford the target product [25].
+
+# 2.2.4. Biotin-PEG- ${ \cdot } P C L _ { 2 }$
+
+Biotin-PEG- $\cdot \mathsf { P C L } _ { 2 }$ was synthesized according to a preparation method reported previously [25,26]. To remove the last traces of Water，the biotin-PEG- $( \mathrm { O H } ) _ { 2 }$ was azeotroped with toluene at $1 2 0 ^ { \circ } \mathsf C$ for $\boldsymbol { 4 \mathrm { h } }$ .The toluene was removed by evaporation. To the residual methylene dichloride,hydrochloride diethyl etherand different weight of ε-CL were added in turn.The reaction mixture was stirred at room temperature for $2 4 \mathrm { h }$ .The resultant mixture was evaporated under vacuum and precipitated in diethyl ether to obtain the biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ copolymer after filtration. The obtained precipitate was vacuum-dried to constant weight and stored ina desiccator before use.
+
+$\mathrm { ^ 1 H }$ NMR spectra of allyl-PEG- $\boldsymbol { \cdot } \boldsymbol { 0 } \mathrm { H } _ { 2 }$ $H _ { 2 } N { \mathrm { - P E G - } } ( { \mathrm { O H } } ) _ { 2 }$ and biotinPEG- $( \mathrm { O H } ) _ { 2 }$ in DMSO- ${ \bf \ddot { d } } _ { 6 }$ were recorded witha 4OoM NMR Bruker AVANCE spectrometer(Bruker BioSpin,Germany)，and $\mathrm { ^ 1 H }$ NMR spectra of biotin- ${ \mathrm { . P E G - P C L } } _ { 2 }$ in $\mathsf { C D C l } _ { 3 }$ were recorded with a $4 0 0 \mathrm { M }$ NMR Bruker AVANCE spectrometer(Bruker BioSpin,Germany).
+
+# 2.3.Preparation of blank and curcumin-loaded micelles
+
+Micelles were prepared by thin-film hydration [27,28]. The known weight of curcumin and biotin-PEG- $\mathrm { P C L } _ { 2 }$ were co-dissolved in acetone,which was evaporated under vacuum at room temperature to obtain a thin layer of uniform flm.The resulting yellowish thin film was hydrated under moderate stirring at $6 5 ^ { \circ } C$ The resulting solution was filtered through a $0 . 2 2 \mu \mathrm { m }$ filter membrane to remove curcumin or some other substances undissolved and used for further analysis or lyophilization.Blank micelles would be formed ina similar manner.
+
+# 2.4.Characterization of micelles
+
+The critical micelle concentration （CMC）of copolymer was determined using a fluorescent spectrophotometer with pyrene as the probe.Equivalent volume of pyrene solution in acetone $( 6 \times 1 0 ^ { - 6 } \mathrm { m o l / L } )$ was added into a series of tubes and evaporated under a nitrogen gas stream. Copolymer solution ( $\mathrm { \nabla } [ 1 0 \mathrm { m L } ]$ ,ranging from $1 \times 1 0 ^ { - 3 }$ to $5 \times 1 0 ^ { - 8 } \mathrm { g / m L }$ ,was added to each tube to achieve a final pyrene concentration of $6 \times 1 0 ^ { - 7 } \mathrm { m o l / L }$ .The fluorescence spectrum was measured usinga fluorescent spectrometer.
+
+To evaluate the safety of the copolymer forintervenous injection, hemolysis testwas performed [29].Briefly,centrifugationat $3 0 0 0 \mathrm { r / }$ min for $2 0 \mathrm { m i n }$ was performed to separate heparinized rat erythrocytes from rat blood.The obtained erythrocytes were washed with physiological saline to achromaticity for supernatant.The purified erythrocytes were mixed with normal saline to afford a suspension of $2 . 5 \% ( \mathsf { V } / \mathsf { V } )$ ,which was added into $4 ~ \mathrm { m L }$ of copolymer solution in normal saline at $3 7 ^ { \circ } \mathsf { C }$ to forma suspension of $1 \% ( \mathsf { V } / \mathsf { V } )$ for erythrocytes.The mixture was shaken in an oscillator $ { \mathrm { ~ \ T ~ } } 3 0 0  { \mathrm { \ r / m i n } }$ $3 7 ^ { \circ } \mathrm { C }$ for $3 0 \mathrm { m i n }$ .The copolymer solution concentrations were 78,156,312, 625,1250,2500,and $5 0 0 0 ~ \mu \mathrm { g / m L } ,$ respectively.Negative $( 0 \% )$ and positive $( 1 0 0 \% )$ control were normal saline and distilled water, respectively.The samples were centrifuged for $2 0 \mathrm { m i n }$ at $3 0 0 0 \mathrm { r / }$ min to remove unbroken erythrocytes and disrupted membranes. The ultraviolet spectrogram of released hemoglobin in the supernatant from 500 to $6 5 0 \mathrm { n m }$ was recorded at a UV-Vis spectrophotometer(T6 New Century,Purkinje General,Peking,China),and the hemolytic percentage of the copolymer was calculated from equation as follow according to peak absorbance at $5 7 6 \mathrm { n m }$ [30].
+
+$$
+( \% ) = \frac { \mathsf { A b s } _ { \mathsf { s a m p l e } } - \mathsf { A b s } _ { \mathsf { n e g a t i v e \ c o n t r o l } } } { \mathsf { A b s } _ { \mathsf { p o s i t i v e \ c o n t r o l } } - \mathsf { A b s } _ { \mathsf { n e g a t i v e \ c o n t r o l } } } \times 1 0 0 \%
+$$
+
+A known volume of curcumin-loaded micelle solution was mixed with ethanol in volumetric flask to dissolve curcumin. Curcumin'samount in micelleswas analyzedby UV-Vis
+
+spectrophotometer at $4 2 5 \mathrm { n m }$ (T6 New Century,Purkinje General, Peking,China). The drug loading (DL）and entrapment efficiency (EE) were calculated based on the following formula [31].
+
+$$
+E E = \mathrm { \frac { w e i g h t ~ o f ~ d r u g ~ i n ~ m i c e l l e s } { w e i g h t ~ o f ~ t h e ~ i n i t i a l ~ d r u g } } \times 1 0 0 \%
+$$
+
+$$
+D L = \frac { \mathrm { w e i g h t ~ o f ~ d r u g ~ i n ~ m i c e l l e s } } { \mathrm { w e i g h t ~ o f ~ m i c e l l e s ~ c o n t a i n i n g ~ d r u g } } \times 1 0 0 \%
+$$
+
+The particle size and zeta potential of curcumin-free and loaded micelles were measured by dynamic light scattering(DLS, Zetasizer ZS9o,Malvern Instruments Ltd.,UK).Transmission electron microscope（TEM,JEM-12OOEX, JEOL,Tokyo,Japan） was used for shape and morphology observation.
+
+The $\mathsf { X }$ -ray diffraction analysis of curcumin,lyophilized curcumin-free and loaded micellar particles were performed by X-ray diffractometer(Bruker D8 Focus,Bruker,Germany）using $\mathtt { C u } \ \mathrm { K } \mathtt { \simeq }$ radiation $( 4 0 \mathrm { k V } , 3 0 \mathrm { m A }$ )
+
+FT-IR spectrum of curcumin,lyophilized curcumin-free and loaded micellar particles were afforded by KBr pellets ona FT-IR spectrometer(Spectrum One,PerkinElmer,USA) ina range from 3900 to $4 0 0 \mathrm { c m } ^ { - 1 }$ ,respectively.
+
+# 2.5.In vitro release of curcumin-loaded micelles
+
+In vitro drug release of curcumin from curcumin-loaded micelles was processed by way of dialysis method reported previously [21,23,32]. Curcumin-loaded micelles solution and control solution in ethanol containing $1 \mathrm { m g }$ of curcumin were added into dialysis bag(Viskas MD25-3.5,Union Carbide Corporation，Bound Brook,NJ,USA）and put into $1 0 0 ~ \mathrm { { m L } }$ of release medium composed of ethanol and physiological saline (40:60 (V/V)）fitting for sink condition，respectively.Then they were continuously shaken in an oscillator $( 1 0 0 \mathrm { r / } \mathrm { m i n } , 3 7 ^ { \circ } \mathrm { C } )$ At definite time intervals, $5 \mathrm { m L }$ of release medium was withdrawn, and the same volume of fresh release medium was added into the release medium.The amount of curcumin's release was determined by UV-Vis spectrophotometer at $4 2 5 \mathrm { n m }$ (T6 New Century,Purkinje General,Peking,China). The experiment was performedintriplicates. Theresultswereexpressedas mean $\pm$ standard deviation (SD).
+
+# 2.6.In vitro MTT cytotoxicity test
+
+MDA-MB-436 cells were obtained from American Type Culture Collection (ATCC,Manassas,VA,USA). DMEM containing $10 \%$ FBS Was used as incubation medium of cells growth in a $5 \% \thinspace { \mathrm { C O } } _ { 2 }$ atmosphere at $3 7 ^ { \circ } \mathsf { C }$ [33]. Cytotoxicities of free curcumin,blank micelles and curcumin-loaded micelles against MDA-MB-436 cells were determined according to a MTT assay.MDA-MB-436 cells were sownwitha density of $5 \times 1 0 ^ { 3 }$ per well and incubated overnight. After eliminating incubation medium, $1 0 0 \mu \mathrm { L }$ of free curcumin, blank or curcumin-loaded biotin- $\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ and $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles $( 0 { - } 4 0 \mu \mathrm { M } )$ in incubation medium were added and continuously incubated for 24 or $4 8 \mathrm { h }$ at $3 7 ^ { \circ } \mathsf { C }$ under the same condition, respectively. $1 0 0 \mu \mathrm { L }$ ofMTT reagent solution $( 5 ~ \mathrm { m g / m L } )$ was transported into the wells and incubated at $3 7 ^ { \circ } \mathsf { C }$ for $^ { 2 \mathrm { h } }$ prior to absorption of the solution,respectively. $1 0 0 \mu \mathrm { L }$ of dimethyl sulfoxide was added to the wells to dissolve formazan formed during the incubation.The absorbance of formazan was measured ata wavelength of $4 9 0 \mathrm { n m }$ in a microplate reader(Model 68O;Bio-Rad Laboratories, Hercules,CA),and cell viability was determined.The experiments wereperformed in triplicates.
+
+# 2.7.In vitro cell uptake
+
+MDA-MB-436 cells were obtained from American Type Culture Collection(ATCC,Manassas,VA,USA).DMEM containing $1 0 \%$ FBS Was used as incubation medium of cells growth in a $5 \% \thinspace { \mathrm { C O } } _ { 2 }$ atmosphereat $3 7 ^ { \circ } \mathsf { C }$ [33].After washed with PBS three times,the same volumes of cell suspensions were incubated with free curcumin, curcumin-loaded micelles at a curcumin concentration of $4 0 \mu \mathrm { M }$ for $^ { 2 \mathrm { h } }$ at $3 7 ^ { \circ } \mathsf C$ 、Ahead of being photographed,the cells were washed with PBS in triplicates in order to detect the intracellular curcumin merely.The excitation and emission wavelengths were $4 0 5 \mathrm { n m }$ and $4 7 0 { - } 6 0 0 \mathrm { n m }$ to observe cellular uptake of curcumin in free curcumin,biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ and $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles by confocal laser scanning microscopy,respectively.The pictures were analyzedby ImageJ1.48V.
+
+# 3.Result and discussion
+
+# 3.1.Structure characterization of biotin- ${ \cdot } P E G { - } P C L _ { 2 }$
+
+Biotin-PEG- $\mathsf { P C L } _ { 2 }$ was prepared according to the synthetic routine in Fig.1.The allyl-PEG- $\mathrm { O H } _ { 2 }$ was obtained through
+
+![](images/4f877026adf5aa633439f30228698c49268489cd740334c7e5e303737b77a351.jpg)  
+Fig.1.Synthesis of biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$
+
+O-alkylation of APEG followed by hydrolytic ring-opening.Then radical addition reaction of allyl-PEG- $\boldsymbol { \mathrm { O H } } _ { 2 }$ with cystamine hydrochlorideafforded $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { O H } _ { 2 } }$ ，which went on with selective N-acylation of biotin under the treatment of NHS and EDC at room temperature to obtain biotin- ${ \mathrm { P E G } } { \mathrm { - } } { \mathrm { O H } } _ { 2 }$ ．At last,biotin-PEG- $\mathrm { . P C L } _ { 2 }$ was synthesized by way of ring-opening polymerization reaction of biotin-PEG- $\mathrm { O H } _ { 2 }$ with ε-CL under the condition of diethyl ether hydrochloride as catalyst.
+
+The relevant $^ 1 \mathrm { H }$ NMR spectrum is listed in Supplementary Information (S 1). In the case of allyl- ${ \mathrm { . P E G } } { \mathrm { - } } { \mathrm { O H } } _ { 2 }$ ,peaksat 5.12-5.26 and 5.82-5.92 (S 1A) were characteristic signals of allyl group [34] that disappeared in the spectrum of $\mathrm { N H } _ { 2 } { \mathrm { - P E G - O H } } _ { 2 }$ (S 1B). At the same time，signals at 3.50,3.34-3.42 and 3.68 shown in S 1A were assigned to $- 0 C H _ { 2 } C H _ { 2 } O -$ ， $_ { \mathrm { H O C H } _ { 2 } - C H O H - C H _ { 2 } - 0 }$ ，and $\mathsf { H O C } H _ { 2 }$ $- \mathrm { C H O H } { - } \mathrm { C H } _ { 2 } { - } 0$ [35],respectively,which were similar to that in ${ \mathrm { N H } } _ { 2 } { \mathrm { - P E G - O H } } _ { 2 }$ .Peaksat 3.94and4.59 in doubleand triple showed the presence of two hydroxyl groups in allyl- ${ \cdot } \mathrm { P E G } { \mathrm { - } } \mathrm { O H } _ { 2 }$ ，respectively [21].Furthermore,a series of new peaks appeared at δ 1.72-1.74, 2.64 and 2.94 in the $\mathrm { ^ 1 H }$ NMR spectrum of $\mathsf { N H } _ { 2 }$ -PEG$\mathrm { O H } _ { 2 }$ ,which were attribute to ${ \mathsf { S } } { \mathsf { - C H } } _ { 2 } C H _ { 2 } { \mathsf { C H } } _ { 2 } { \mathsf { - 0 } }$ 1 ${ \mathsf { S } } { \mathsf { - } } C H _ { 2 } { \mathsf { C } } { \mathsf { H } } _ { 2 } { \mathsf { C } } { \mathsf { H } } _ { 2 } { \mathsf { - } } 0$ and $\mathrm { N H } _ { 2 } C H _ { 2 } C H _ { 2 } { - } S { - } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } { - } 0 ,$ respectively [34,36].
+
+As for biotin- ${ \mathrm { . P E G } } { \mathrm { - } } { \mathrm { O H } } _ { 2 }$ (S 1C),double peaks at 6.44 and 6.38 were characteristic hydrogen peaks of both biotin'sand formed amides.Peaks at 4.59 and 4.29-4.14 indicated that there were two hydroxyl group [21],meaning that the N-acylation was selective with no formation of ester at the terminal hydroxyl of $H _ { 2 } N -$ ${ \mathsf { P E G } } { - } { \mathsf { O H } } _ { 2 }$ .After ring-opening polymerization reaction,the hydroxyl group peaks disappeared (S1D),and new peaks appearing at 1.36-1.42,1.49-1.65,2.29-2.37,and 4.05-4.08 ppm were assigned to the methylene protons of $0 0 C { \mathrm { - } } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } C H _ { 2 } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } \mathrm { O } ,$ $0 0 \mathsf { C } \mathrm { - } \mathsf { C H } _ { 2 }$ $C H _ { 2 } C H _ { 2 } C H _ { 2 } C H _ { 2 } O$ ， $0 0 C { - } C H _ { 2 } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } C \mathrm { H } _ { 2 } O$ and $_ { 0 0 \mathsf { C } - \mathsf { C H } _ { 2 } \mathsf { C H } _ { 2 } }$ $\mathrm { C H } _ { 2 } \mathrm { C H } _ { 2 } C H _ { 2 } O$ in PCL units,respectively,being very similar to the corresponding chemical shifts of PCL in previously reported spectrum [37].The characteristic signal peak of biotin was very weak because of its low content in the biotin-PEG- $\mathsf { P C L } _ { 2 }$ copolymer [38].
+
+# 3.2.Preparation and characterizationofmicelles
+
+In our previous article,we reported that Y-shaped MPEG-PCL [21] could encapsulate curcumin with higher EE than reported linear MPEG-PCL [39]. So we synthesized a Y-shaped biotion-PG$\mathsf { P C L } _ { 2 }$ to study whether if it could show targeting property with high EE.In order to find a suitable formulation for curcumin,we mainly studied effect of length of PCL chain on the EE of curcumin on the basis of fixed PEG chain,temperature and weight ratio of curcumin to copolymer.The results are shown in Table 1.The results indicated that the EE increased from $8 7 . 5 5 \%$ to $9 3 . 8 3 \%$ with the change of weight ratio of PEG to $\mathsf { P C L } _ { 2 }$ from 1:1 to 1:1.5.It is well known thatPEGand PCL are a hydrophilic and hydrophobic chain,respectively.Linear PCL-PEG-PCL can self-assemble into micelles,in which PEG and PCL are shell and core,respectively [4O-42]. So, it was reasonable that biotin-PEG- $\mathsf { P C L } _ { 2 }$ composed of PEG and PCL could also show the same property.The lipophilic curcumin would be encapsulated into lipophilic PCL core through its molecular 翻 ：
+
+interaction with PCLchain.The PEG chain located on the surface of the core strongly interacts with surrounding water to dissolve the drug in water.The longer PCL chain could have stronger affinity with curcumin,resulting in encapsulating a large amount of curcumin into copolymer [43]. So the DL and EE increased with the extension of PCL chain length.However,further extension of PCL chain length could not ulteriorly enhance drug loading.Shown as in Table 1,although the much longer PCL chain could have stronger interaction with curcumin,the EE of curcumin decreased because the water-solubility of biotin-PEG- $\mathrm { P C L } _ { 2 3 }$ was low with further increasing of PCL chain length.In a word,the biotin- $\mathrm { . P E G - P C L } _ { 2 2 }$ copolymer was used in the following research based on it higher DL and EE.
+
+In the study of encapsulating curcumin into the biotin-PEG$\mathsf { P C L } _ { 2 2 }$ copolymer,the solubility of curcumin in aqueous medium was increased to $1 . 8 2 3 \mathrm { m g / m L }$ ，which was $1 . 7 0 4 \times 1 0 ^ { 5 }$ times higher than that of free curcumin [44]. This biotin-PEG- $\mathsf { P C L } _ { 2 2 }$ copolymer's CMC was $1 \times 1 0 ^ { - 5 } \mathrm { g / m L }$ (S 2)，meaning that the copolymeric micelles should show better stability in water.The hemolytic test curve is also shown in S2.It was found that there was no apparent hemolytic activity in the concentration range of copolymer from 78 to $5 0 0 0 \mu \mathrm { g / m L }$ ，among which the hemolysis $( \% )$ was below $2 . 3 4 \%$ $( < 5 \% )$ at $5 7 6 \mathrm { n m }$ [45].
+
+Thezeta potential of curcumin-loaded micelles was $4 . 6 2 \pm 0 . 0 8 ~ \mathrm { m V }$ .The mean particle diameter of curcumin-loaded micelles was $4 9 . 2 8 \pm 1 . 4 6 \mathrm { n m }$ .The shape of curcumin-loaded biotin-PEG- $\mathsf { P C L } _ { 2 }$ micelles was discontinuously globular in the TEM photograph provided in Fig.2.
+
+To prove the existence of drug in micellar curcumin formulation,FT-IR analysis was carried out.FT-IR spectrums of curcumin, curcumin-free and loaded bio-PEG- $\mathrm { . P C L } _ { 2 }$ micelles are listed in S 3. The FT-IR spectrum of blank micelles(S 3B) showed broad bond at $3 4 3 7 \mathrm { c m } ^ { - 1 }$ corresponding to the stretching vibration of hydroxyl.Peaks at $1 7 2 4 \mathrm { c m } ^ { - 1 }$ was attributed to carbonyl's stretching vibration and two peaks at 1196 and $1 2 4 6 \mathrm { c m } ^ { - 1 }$ was due to $c { - } 0$ stretchingvibration.Peaks observed at 11o8 and $9 6 0 \mathrm { c m } ^ { - 1 }$ were due to the stretching vibration of PEG chain's $c { - } 0$ ,and the double peak at 2945 and $2 8 6 6 \mathrm { c m } ^ { - 1 }$ was due to the C-H stretching vibration.However,the peaks at 3437 and $1 7 2 4 \mathrm { c m } ^ { - 1 }$ shifted to 3416 and $1 7 2 6 \mathrm { c m } ^ { - 1 }$ in micellar formulation of curcumin (S 3A), respectively.At the same time,the phenolic $0 { \mathrm { - } } \mathrm { H }$ stretching vibration peak of curcumin (S 3C) at $3 5 1 0 \mathrm { c m } ^ { - 1 }$ also shifted to $3 4 1 6 \mathrm { c m } ^ { - 1 }$ in micellar formulation. These changes confirmed that there was hydrogen bond interaction between drug and copolymer in this formulation [46]. In addition,peaks at $1 6 2 8 \mathrm { c m } ^ { - 1 }$ = $1 6 0 2 \mathrm { c m } ^ { - 1 }$ and $1 5 0 9 \mathrm { c m } ^ { - 1 }$ in curcumin (S 3C) were due to $\mathsf { C } { = } \mathsf { C }$ aryl $\mathsf { C } { \mathop { = } } \mathsf { C }$ and ${ \mathsf { C } } { = } 0 / { \mathsf { C } } { - } { \mathsf { C } } ,$ respectively [47].The similar peaksat 1623,1591 and $1 5 1 5 \mathrm { c m } ^ { - 1 }$ in curcumin-loaded micelles (S 3A） were observed, which were absent in blank micelles (S 3), demonstrating that curcumin was dispersed in this formulation [46].
+
+Table 1 Characteristics of micelles.   
+
+<html><body><table><tr><td>Copolymer</td><td>Weight ratio of PEG to PCL2</td><td>MWa</td><td>PDIa</td><td>EE (%)</td><td>DL (%)</td></tr><tr><td>Biotin-PEG-PCL21</td><td>1:1</td><td>5227</td><td>1.184</td><td>87.55± 4.72</td><td>11.19 ± 0.58</td></tr><tr><td>Biotin-PEG-PCL22</td><td>1:1.5</td><td>6732</td><td>1.104</td><td>93.83±0.26</td><td>11.94± 0.13</td></tr><tr><td>Biotin-PEG-PCL23</td><td>1:2</td><td>8253</td><td>1.197</td><td>76.63± 5.25</td><td>9.74 ± 0.64</td></tr></table></body></html>
+
+PDI:Polydispersity index. a It was determined by gel permeation chromatography.
+
+![](images/4963884936b9b856d2ae880d653fc65856ece656d4c4ffd0e8487bd8575f0e84.jpg)  
+Fig.3.In vitro curcumin release profile from control (A), $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles (B)and biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ micelles (C) solution in $40 \%$ ethanol saline solution at $3 7 ^ { \circ } C$ (dataare presentedas mean $\pm \mathsf { S D }$ （204号 $( n = 3 )$ ）
+
+XRD characterization was employed to comprehend the physical state of curcumin in drug-loaded micelles.The characteristic peaks of curcumin appeared in free curcumin (S 3C),demonstratingits crystalline structure[48,49].Conversely, there were no curcumin's characteristic peaks in drug-loaded micelles(S 3A).This meant that curcumin in micelles was in amorphous,disordered crystalline phase or solid solution state [5O-52].This disordered phase of curcumin in micelles could provide excellent diffusion property through the polymeric framework for the drug molecules, resulting in a sustained release of curcumin from the micelles.
+
+# 3.3.In vitro releaseof CUR-NP
+
+The sustained and controlled release of drug from nanoparticulate micelles is a key of always maintaining its effective concentration for prolonged time in body.In addition，the structure difference between biotin- ${ \mathrm { P E G } } { \mathrm { - P C L } } _ { 2 }$ and $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ might affect the release of curcumin from the corresponding drug-loaded micelles.So,in view of curcumin's low water-solubilityand sink condition,the in vitro release of curcumin from both of drugloaded copolymeric micelles was carried out in ethanol-physiological saline solution (4O:6O(V/V)).The release curves of curcumin control and curcumin-loaded micelles solution are listed in Fig.3. It was found that accumulative release percentage of curcumin from control solution achieved ${ > } 6 0 \%$ at $^ { 1 2 \mathrm { ~ h ~ } }$ During the same time, however,both of drug-loaded micellesonlyafforded about $50 \%$ of curcumin released.The accumulative release percentage of curcumin from drug-loaded biotin- $\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ and $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles was $6 8 . 5 \%$ and $7 4 . 2 \%$ at $3 6 \mathrm { h }$ ，respectively.From the results listed in Fig.3,it was clearly indicated that $\begin{array} { r l } { \mathsf { H } _ { 2 } \mathsf { N } _ { - } \mathsf { P E G } - } \end{array}$ $\mathsf { P C L } _ { 2 }$ micelles provided a faster curcumin release than biotin$\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ micelles in the whole period of release experiment. The possible reason is that the surface of $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles was hydrophilic and easily permeated by water.When these micelles were conjugated with biotin to form biotin-PEG- $\cdot \mathsf { P C L } _ { 2 }$ micelles,surface feature was changed into hydrophobicity and hard to be moist, resulting in the slowing of release [53].
+
+# 3.4.In vitro cytotoxic test
+
+In this study,cytotoxicities of free curcumin, blank and drugloaded micelles were investigated in MDA-MB-436 cells by use of MTT method. Study results are shown in Fig.4. Itwas found that all blank micelles revealed more than $8 5 \%$ cell viability, showing no obvious toxic effect when they were incubated with MDA-MB-436 cells in 24 and $4 8 \mathrm { h }$ All drug-loaded micellesalso did not have evident activities when the concentration of curcumin was below $2 0 \mu \mathrm { M }$ in $2 4 \mathrm { h }$ and $4 8 \mathrm { ~ h ~ }$ [54].Free curcumin showed $5 3 . 8 8 \%$ of cell viability at a concentration of $4 0 \mu \mathrm { M }$ in $2 4 \mathrm { h }$ followed bya decrease to $1 2 . 7 8 \%$ in $4 8 \mathrm { h }$ ，It showed a property of concentrationdependent anticancer activities against MDA-MB-436 cells. Its effect was the highest among all drug formulations. The longer incubation time resulted in the increase of its cytotoxicity.Itwas interesting that curcumin in biotin-PEG- $\mathrm { P C L } _ { 2 }$ micelles displayed similaractivitywith $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles when the concentration of curcumin was at $4 0 \mu \mathrm { M }$ in $2 4 \mathrm { h }$ .However,curcumin in the former micelles became obviously more effective than that in the latter ones at $4 0 \mu \mathrm { M }$ when the incubation time was prolonged to $4 8 \mathrm { h }$ .The survival rate of cancer in the former micellar formulation was only $40 \%$ ，which was lower than that in $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles.
+
+![](images/9dc93c6f3454ce9f2ec1ed9ee407d6554b13e51899540e5e085690ab1462b258.jpg)  
+Fig.4.In vitro cytotoxities of blank $\begin{array} { r } { \mathsf { H } _ { 2 } \mathsf { N } . } \end{array}$ -PEG- $\mathrm { P C L } _ { 2 }$ (A),biotin-PEG- $\mathsf { P C L } _ { 2 }$ (B),micelles and curcumin in control (C), $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ (D)and biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ (E)micelle against MDA-MB-436 cells in $2 4 \mathrm { h }$ and $4 8 \mathrm { h }$ (data are presented as mean $\pm \mathsf { S D }$ （204号 $( n = 3 )$ )
+
+Biotin is a necessary vitamin whose receptor shows overexpression on the surface of cancer cells quickly proliferating [55]. Just like biotin-PEG-PLA,biotin conjugated with $\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ should locate on the surface of micelles formed by the self-assemble of biotin-PEG- $\mathrm { . P C L } _ { 2 }$ in water [56]. It would be helpful for the recognition and incorporation of receptors to this micelles.Then the uptake of curcumin-loaded biotin-PEG- $\mathrm { . P C L } _ { 2 }$ micelles would be promoted. The confocal fluorescent microscopic photographs about cellular uptake of free curcumin and two curcumin-loaded micelles are shown in Fig. 5.To determine mean fluorescent density in each photograph,ImageJ was used.The mean fluorescent density for free curcumin,curcumin-loaded $_ { \mathrm { H } _ { 2 } \mathrm { N P E G - P C L } _ { 2 } }$ andbiotin-PEG- $\cdot \mathsf { P C L } _ { 2 }$ micelles were 0.176,0.0161 and 0.0645.So the fluorescent intensity of curcumin-loaded biotin- $\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ micelles in cancer cells was higher than that of curcumin-loaded $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles,showing that cellularuptake of the former was improved by introduction of biotin into the copolymeric micelles.The uptake of free curcumin was obviously higher than that of drug-loaded micelles,which might be originated from the difference between endocytosis of the nanocarrier and the diffusion of a small-molecule drug [57,58].
+
+![](images/7f7b7460e0a427d39c426e2b6daec4e141dcc3dbac37c0b2cc9ec811eaffcbe7.jpg)  
+Fig. 5.In vitro uptake of curcumin in control (A),biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ (B)and $\mathrm { H } _ { 2 } \mathrm { N } \cdot$ PEG- $\cdot \mathrm { P C L } _ { 2 }$ (C) micelles in MDA-MB-436 cells in $^ { 2 \mathrm { h } }$
+
+For the sake of killing cancer cells,it is important that curcumin in drug-loaded micelles in cells must be firstly released to afford a minimum valid concentration.The uptake of curcuminloaded micelles continuously proceeds during the whole test, but the release of curcumin might be a decisive factor when the concentration of curcumin was in the range of $0 { - } 2 0 \mu \mathrm { M }$ Thein vitro release test results in Section 3.4 demonstrated that curcumin's release from drug-loaded micelles was slower than that from free curcumin control solution,and its release from biotin-PEG- $\mathsf { P C L } _ { 2 }$ micelles was the lowest among the three formulations.This would lead to a lower accumulation of curcumin in cancer cells during the same time.As a result,in the range of $0 { - } 2 0 \mu \mathrm { M } .$ ，controlled release made cytotoxicity of curcumin in micelles very low in $2 4 \mathrm { h }$ and $4 8 \mathrm { h }$
+
+However,the cancer cell selective uptake of curcumin-loaded biotin-PEG- $\mathrm { . P C L } _ { 2 }$ micelles was obviously enhanced,surpassing curcumin's release via the induction of biotin when the concentration of curcumin achieved $4 0 \mu \mathrm { M }$ .Although the release rate of curcumin from biotin-PEG- $\cdot \mathsf { P C L } _ { 2 }$ micelles was always slower than that from $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles,uptake of the former was much higher than the latter.This change induced by biotin greatly enhanced curcumin's concentration in MDA-MB-436 cells,and the release amount of curcumin from micelles without biotin only mildly enhanced at the same time.Asa result,amounts of curcuminreleased in MDA-MB-436 cells from the two drug-loaded micelles were analogous in $2 4 \mathrm { h }$ when the curcumin's concentration was set at $4 0 \mu \mathrm { M }$ ，showing similar cytotoxicities against MDA-MB-436 cells.When the incubation time was extended to $4 8 \mathrm { h }$ ，more and more curcumin in the biotin $\mathsf { P E G \mathrm { - P C L } } _ { 2 }$ micelles werereleased into cancercells,resulting in higher cytotoxic effect than that of the latter.In conclusion, the biotin molecular could improve the cancer cell uptake of drug-loaded micelles,showing better property of cancer cells target at higher dosage of drug for a longincubation time.
+
+# 4. Conclusion
+
+Biotin-PEG- $\cdot \mathsf { P C L } _ { 2 }$ obtained from O-alkylation，alkaline ringopening,radical addition,N-acylation and ring-opening polymerization with APEG as raw material could successfully encapsulate curcumin with higher encapsulating efficiency.It obviously enhanced curcumin's water-solubility and controlled curcumin's releasewhichwasslowerthan $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micelles.Toevaluate biotin's targetingability to cancercell,we studied invitro cytotoxicities ofcurcumin-loaded biotin-PEG- $\mathrm { . P C L } _ { 2 }$ and $_ { \mathrm { H } _ { 2 } \mathrm { N } - \mathrm { P E G } - \mathrm { P C L } _ { 2 } }$ micellesagainstMDA-MB-436 cells.The research results indicated that biotin could promote the uptake of curcumin-loaded micelles, showing betteranticancer activity fora long incubation time.Ina word,the use of Y-type biotin-PEG- $\cdot \mathrm { P C L } _ { 2 }$ polymeric micellesas a novel drug delivery system should be feasible.
+
+# Disclosures
+
+Theauthors report no conflicts of interest in this work.
+
+# Acknowledgments
+
+This work is supported by a Project of Shandong Province Higher Educational Science and Technology Program (J14LM01), Scientific Research Fund of University of Jinan（XKY12o8）and Research Fund for the Doctoral Program of University of Jinan (XBS1203).
+
+# Appendix A.Supplementarymaterial
+
+Supplementarydataassociated with thisarticle can be found,in the online version, at http://dx.doi.org/10.1016/j.jcis.2014.11.073.
+
+# References
+
+[1] C.Yang, X. Su, A. Liu,L. Zhang, A. Yu, Y. Xi, G. Zhai, Curr. Pharm. Des. 19 (2013) 1966. [2] B.B. Aggarwal, B. Sung, Trends Pharmacol. Sci. 3O (2009) 85. [3]P. Anand, A.B. Kunnumakkara,R.A. Newman, B.B. Aggarwal, Mol. Pharm. 4 (2007) 807. [4] S. Bisht, A. Maitra, Curr. Drug Discovery Technol. 6 (20o9)192. [5] M. Gou, K. Men,H. Shi, M. Xiang, J. Zhang, J. Song, J. Long, Y. Wan,F. Luo, X. Zhao, Z. Qian, Nanoscale 3 (2011) 1558. [6] S.Sultana,M.R. Khan,M. Kumar,S.Kumar,M. Ali,J.DrugTargeting 21(2013) 107. [7] U. Kedar,P. Phutane, S. Shidhaye,V. Kadam, Nanomedicine 6 (2010) 714. [8] M. Talekar,J. Kendall, W. Denny, S. Garg, Anticancer Drugs 22 (2011) 949.   
+[9] S.P. Egusquiaguirre,M. Igartua, R.M. Hernandez, J.L. Pedraz, Clin. Transl. Oncol. 14 (2012) 83.   
+[10] V.K. Sharma, A. Jain, V. Soni, Crit. Rev. Ther. Drug Carrier Syst.3O (2013) 535.   
+[11]C.Wang,L. Cheng, Z. Liu, Biomaterials 32(2011) 1110.   
+[12] N. Zhou, X. Zan, Z. Wang, H. Wu, D. Yin, C. Liao, Y. Wan, Carbohydr. Polym. 94 (2013)420.   
+[13]L. Zhao, G. Zhai, J. Control. Release 172 (2013) e102.   
+[14] A. Taheri, R. Dinarvand, F.S. Nouri, M.R. Khorramizadeh,A.T. Borougeni, P. Mansoori, F. Atyabi, Int. J.Nanomed. 6(2011)1863.   
+[15] W. Yang, M. Wang,L. Ma, H. Li, L. Huang, Carbohydr. Polym. 99 (2014) 720.   
+[16] T.Minko,P.V. Paranjpe,B. Qiu, A. Lalloo,R.Won, S. Stein, P.J. Sinko, Cancer Chemother.Pharmacol.50(2002)143.   
+[17] Q. Yao, S.X. Hou, X. Zhang, G. Zhao, X.J. Gou, J.Z. You, Yao xue xue bao, Acta Pharm. Sinica 42 (2007) 557.   
+[18] C. Cheng, H. Wei, B.X. Shi, H. Cheng, C.Li, Z.W. Gu, S.X. Cheng, X.Z. Zhang, R.X. Zhuo, Biomaterials 29 (2008) 497.   
+[19] V.K. Yellepeddi, A. Kumar, S. Palakurthi, Anticancer Res. 29 (20o9) 2933.   
+[20] K.Na, T.Bum Lee, K.H. Park, E.K. Shin, Y.B. Lee,H.K. Choi, Eur. J. Pharm. Sci.: Official J. Eur. Federation Pharm. Sci. 18 (2003) 165.   
+[21] R. Feng,W. Zhu, Z. Song, L. Zhao, G. Zhai, J. Nanoparticle Res. 15 (2013) 1.   
+[22] D.-D. Lu, J.-C. Yuan, L.-G. You, Z.-Q. Lei, J. Macromol. Sci.,Part A: Pure Appl. Chem. 45 (2008) 705.   
+[23] Z. Song,W. Zhu, N. Liu, F. Yang, R. Feng,Int. J. Pharm. 471 (2014) 312.   
+[24] J. Jin, D.Wu, P. Sun,L. Liu,H. Zhao,Macromolecules 44 (2011) 2016.   
+[25] A.K. Salem，S.M. Cannizzaro,M.C.Davies,S.J.B. Tendler, C.J. Roberts,P.M. Williams, K.M. Shakesheff, Biomacromolecules 2 (2001) 575.   
+[26] S.Petrova, R. Riva, C. Jérome,P. Lecomte, R. Mateva,Eur.Polym. J. 45 (2009) 3442.   
+[27] Y.Wang, C. Wang, C. Gong, G. Guo, F. Luo, Z. Qian, Int. J. Pharm. 434 (2012)1.   
+[28] J.S.Lee,J. Feijen, J. Controlled Release: Official J. Controlled Release Soc.161 (2012)473.   
+[29] H. Meng, M. Xue,T. Xia, Z. Ji, D.Y. Tarn, J.I. Zink, A.E. Nel, ACS Nano 5 (2011) 4131.   
+[30] P. Dutta, J. Dey, Int. J. Pharm. 421 (2011) 353.   
+[31] Z. Song,R. Feng,M.Sun, C. Guo, Y. Gao,L. Li, G. Zhai,J. Colloid Interface Sci. 354 (2011) 116.   
+[32] M. Sun, Y. Gao, C. Guo,F. Cao, Z. Song, Y. Xi, A. Yu, A. Li, G. Zhai,J. Nanoparticle Res. 12 (2010)3111.   
+[33] J.H. Kim, Y. Li,M.S. Kim,S.W. Kang,J.H. Jeong, D.S. Lee,Int.J. Pharm. 427(2012) 435.   
+[34] S. Hiki, K. Kataoka, Bioconjugate Chem. 18 (2007) 2191.   
+[35] D.D.Lu,J.C. Yuan, H. Li, Z.-Q. Lei,J. Polym. Sci. Part A: Polym. Chem. 46 (2008) 3802.   
+[36] X. Yang, W. Deng, L. Fu, E. Blanco,J. Gao, D. Quan, X. Shuai, J. Biomed. Mater. Res. Part A 86 (2008) 48.   
+[37] B. Xu,J. Yuan, T. Ding, Q. Gao,Polym. Bull. 64 (2010) 537.   
+[38] R. Gref,P. Couvreur,G. Barratt,E. Mysiakine,Biomaterials 24 (2Oo3)4529.   
+[39] C. Mohanty, S. Acharya, A.K. Mohanty, F. Dilnawaz, S.K. Sahoo, Nanomedicine (London) 5 (2010) 433.   
+[40] R. Li, X. Li, L. Xie, D. Ding, Y. Hu, X. Qian, L. Yu, Y. Ding, X. Jiang, B. Liu, Int. J. Pharm.379 (2009) 158.   
+[41] X. Gao, B. Wang, X. Wei, W. Rao,F. Ai, F. Zhao, K. Men, B. Yang, X. Liu, M. Huang, M. Gou, Z. Qian, N. Huang, Y. Wei, Int. J. Nanomed. 8 (2013) 971.   
+[42] Y. Zhang, R.X. Zhuo, Biomaterials 26 (2005) 6736.   
+[43] Y.-C. Chang, I.-M. Chu, Eur. Polym. J. 44(2008)3922.   
+[44] K. Letchford, R. Liggins,H. Burt, J. Pharm. Sci. 97 (2008) 1179.   
+[45] B.I. Cerda-Cristerna,H. Flores, A. Pozos-Guillén, E. Pérez, C.Sevrin, C. Grandfils, J. Control. Release 153(2011) 269.   
+[46] C. Mohanty, S.K. Sahoo, Biomaterials 31 (2010) 6597.   
+[47] M.M. Yallapu, M. Jaggi, S.C. Chauhan, Colloids Surf. B, Biointerfaces 79 (2010) 113.   
+[48] F. Donsi, Y.Wang, J. Li, Q. Huang, J. Agric. Food Chem. 58 (201O) 2848.   
+[49] F.L. Yen, T.H. Wu, C.W.Tzeng, L.T. Lin, C.C. Lin, J. Agric. Food Chem. 58 (2010) 7376.   
+[50] Y. Zhang, L. Tang,L. Sun,J. Bao, C. Song,L. Huang, K. Liu, Y. Tian, G. Tian, Z. Li, H. Sun,L. Mei, Acta Biomater. 6 (2010) 2045.   
+[51] A. Anitha，S. Maya，N. Deepa，K.P. Chennazhi,S.V. Nair,H. Tamura，R. Jayakumar, Carbohydr. Polym. 83 (2011) 452.   
+[52] A. Anitha, V.G.Deepagan, V.V.D. Rani, D. Menon, S.V. Nair， R. Jayakumar, Carbohydr. Polym. 84 (2011) 1158.   
+[53] L.Bu,L . Gan,X.-Q. Guo, F.-Z. Chen, Q. Song, Z. Qi, X.-J. Gou, S.-X. Hou, Q. Yao, Int. I.Pharm.452(2013)355.   
+[54] S. Kim, S. Cho,} Y. Chu,Macromol. Res.15(2007) 646. [55] Y. Zhong, F. Meng Deng, Z. Zhong, Biomacromolecules 15 (2014) 1955.   
+[56] Patil adhukha Panyam, J. Controlled Release:Official J ControlledRelease 136(2009)21   
+[57]G.Sahay,D.Y Alakhova, A.V. Kabanov, J. Controlled Release 145 (2010) 182.   
+[58]X. Zeng,R. Morgenstern,A.M. Nystrom, Biomaterials35(2014) 1227.

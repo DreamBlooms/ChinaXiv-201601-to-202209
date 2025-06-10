@@ -1,0 +1,317 @@
+# 能力还是热情？广告诉求对消费者品牌认同和购买意向的影响
+
+朱振中」　刘福1 Haipeng (Allan) Chen²(1山东理工大学管理学院，淄博，255000)
+
+(Gatton School of Businessand Economics， University of Kentucky，Lexington KY 40506，United States)
+
+摘要基于自我建构理论和情绪理论，本文探讨了自我建构与广告诉求对品牌认同的交互作用、影响机制及边界条件。通过3个实验，我们发现对于独立自我建构的消费者来说，能力广告诉求更能提高品牌认同感，而对于相依自我建构的消费者来说，热情广告诉求则更有效；同时我们也验证了广告诉求到愉悦感到品牌认同最终到购买意向的因果链模型，并确定了企业类型对该机制的调节作用。
+
+关键词自我建构；能力型/热情型广告诉求；愉悦感；品牌认同；购买意向
+
+分类号B849:C93
+
+# 1引言
+
+# 1.1问题提出
+
+一个品牌该如何通过广告诉求来树立其品牌形象，才能获得消费者的青睐和认同？北京同仁堂作为一家具有350年历史的老字号企业，其“清热利咽，生津润燥”、“万千精华，一克珍萃”等广告突出了其产品的品质和功效，而其《端午·当归》短片广告则讲述了一位职业女性在外独自打拼的故事，强调了情感诉求；在消费级无人机领域充当“领跑者”角色的现代企业大疆，也同时采用了这两类不同的诉求，既有强调其智能配置、持久续航和方便操控等优势的广告，也有鼓励人们“换个角度发现爱”的亲情广告。这两类不同的广告诉求方式从表面上看好像各有千秋，但它们在促进消费者品牌认同和购买意向上的实际效果如何，对哪些类型的企业更有效，产生最佳效果的内在机制是什么，我们却知之甚少。
+
+广告诉求能否成功地塑造品牌形象，与目标消费者的年龄、性别与社会阶层等个人特质有很大关系（Glick&Fiske，1999)。根据自我建构理论，人们在看待自我与他人的关系上，有着根本不同的视角。一般来讲，西方人强调自我与他人的差异，而东方人则强调自我与他人的联系。在西方个人主义文化中，具有独立型自我建构（independent self-construal)的个体更为普遍，而在东方集体主义文化中，具有相依型自我建构（interdependentself-construal）的个体则更为典型。即使在同一文化背景下，人们在相互依赖和独立方面也存在着差异（Aaker＆Lee，2001)。本研究根据刻板印象内容模型将广告诉求分为能力型和热情型，以中国文化为背景，引入自我建构视角对能力/热情广告诉求的有效性开展研究，发现了自我建构与广告诉求对广告有效性的交互作用。在此基础上，引入情绪理论，构建了从能力/热情广告诉求到愉悦感到品牌认同再到购买意向的因果链模型。最后，将企业类型（传统/现代）引入研究框架，确定了广告诉求发挥作用的边界条件。
+
+# 1.2文献回顾
+
+# 1.2.1热情型和能力型广告诉求
+
+当人们需要对其他个体或群体成员的意图和能力做出判断时，刻板印象使他们更容易、有效地加工信息（Hilton& Von Hippel，1996)。根据刻板印象内容模型（Stereotype ContentModel，SCM）（Fiske，Cuddy，Glick，&Xu，2002)，人们往往基于热情和能力两个主要维度来形成对他人的综合判断（Ivens，Leischnig，Muller，&Valta，2015)。热情是衡量他人行为意图的指标，反映着人们形成与维护社会联结的需要，表征为友善、乐于助人、值得信赖、慷慨和交流；能力则用来评价他人实现其意图和目标的程度与可能性，表征为智力、技能、高效率、创造性、自信和聪明（Fiske，2018)。人们会基于热情或能力的刻板印象来快速区分他人，形成对他人热情或能力的感知（Fiske等，2002)。
+
+消费者有时将品牌感知为类似于人类的实体，即他们具有将品牌拟人化的倾向（Aggarwal&McGill，2007)。由于人们与品牌之间的关系与人际关系存在许多相似之处（Fournier，1998)，Kervyn，Fiske和Malone（2012）将反映人际感知的刻板印象内容模型应用到品牌领域，并提出了品牌意向代理框架（Brands as Intentional Agents Framework,BIAF)，该框架强调消费者对品牌感知同样可分为能力感知和热情感知两个维度。Aaker，Vohs 和 Mogilner（2010）对组织外部形象的研究得到类似结论：非盈利组织往往树立一种高热情低能力的形象，而盈利组织则往往树立一种高能力低热情的形象。Bennett 和 Hil（2012）证明了消费者对于热情和能力感知的普遍适用性，并进一步检验了人口统计变量对品牌感知的影响。消费者对热情或能力的判断影响他们的购买意向、忠诚度以及品牌推荐行为（Aaker，Garbinsky 和Vohs，2012)，同时也影响着消费者的品牌态度和购买行为（Ivens等，2015）。因此，企业应尽可能在营销活动中表现出其热情或能力来获得积极的感知，从而获得消费者的信任和忠诚（Malone 和Fiske，2013）。
+
+广告诉求，俗称“卖点”，是广告中突出产品属性的核心信息，用以劝服或打动广告受众。如果消费者对广告诉求总体上持积极态度，他们就更有可能购买该产品（Phelps &Thorson，1991）。学者们围绕广告诉求开展了深入研究，也取得了丰富成果，如庞隽和毕圣（2015）研究了广告诉求和品牌来源国刻板印象对品牌态度的交互影响，李东进和刘建新（2016）则证实，限量稀缺诉求比限时稀缺诉求更能增强消费者的购买意愿，等等。
+
+广告诉求的类型往往影响着消费者的认知和情感行为（Zarantonello，Schmitt，& Jedidi,2014）。企业运用不同的广告诉求，与消费者进行有效沟通（Ruiz&Sicilia，2004），塑造消费者对品牌形象的感知，确立品牌在市场上的相对优势（Shankar，Azar，&Fuller，2008）。关于广告诉求的文献分别从理性和感性诉求（Moore，Harris，& Chen，1995）、强制和建议诉求（Kronrod，Grinsteina，&Wathieu，2012）、功能和体验诉求（Zarantonello，Jedidi,& Schmitt，2013）、可行性和可取性诉求（Kazakova，Cauberghe，Hudders，&Labyt，2016）等多个角度进行了研究，但少有文献从热情和能力诉求的视角展开讨论。参照庞隽和毕圣（2015）以及Puzakova，Kwak 和Bell（2015），本文将广告诉求划分为能力诉求和热情诉求。能力诉求是指在广告信息中展示产品带来的自信、效率、智力、技能和竞争力，以便让消费者感知到其能力，而热情诉求则是通过在广告信息中展现善意、温馨、和蔼和合作性，以便让消费者感知到其热情。
+
+# 1.2.2自我建构理论
+
+自我建构与文化及自我概念密切相关，是指个体对自我与周围环境关系的意识（Markus&Kitayama，1991），是个体理解自我的意义、看待自我与他人关系的方式（Cross，Hardin,&Gercek-swing，2011）。Markus和Kitayama（1991）将自我建构分为独立型自我建构和相依型自我建构。独立型自我代表了一种将自我与社会环境分离、与他人脱离的心理倾向（Kitayama，Markus，Matsumoto，&Norasakkunkit，1997），而相依型自我则代表了一种将自我与他人界限模糊化的心理倾向，相依自我的人并不将自我放在中心，而是聚焦于社会需求以及与他人的关系（Torelli，2006）。在个人主义社会（如西欧、北美），人们更可能接受个人主义的文化价值观，将重点放在他们自己内心的想法与感受上，以内在特征与目标来描述自己，形成独立自我建构。而生活在集体主义社会（如东亚、拉美）的人们更容易接受群体文化价值观，将他人的观点或者自我与他人的关系视为重点，形成相依自我建构（Wang&Wang，2016）。独立型自我建构强调与众不同和个体提升，重视与能力提升相关的活动。相反，相依型自我建构强调社会联系的稳定性和连续性，重视那些促进稳定性与和谐性的活动（Markus&Kitayama，1991）。此外，大量研究证明，独立自我建构和相依自我建构并非完全独立，也可以同时并存于某一个体，只是在某种情境下一种自我建构会占据主导地位（Brewer＆Gardner，1996）。尽管自我建构可能是一个受到文化差异影响的稳定性格特征，它也可以由外部线索临时启动（Ng＆Houston，2006），甚至使一个通常为独立或相依自我建构的个体转换为相反的类型。
+
+消费者活动是人们建构自我概念和创造个人身份的方式之一（Belk，1988；Richins，1994）。与自我建构相关的消费者行为研究，如消费者的认知推理和社会交互（Cross，etal.,2011）、品牌感知、选择和评价（White，Argo，& Sengupta，2013）、脱销情境下相似品的购买决策（李东进，张成虎和马明龙，2016）和非对称定价决策（Chen，Bolton，Ng，Lee，&Wang，2018）等，都得到了非常有价值的结论。在消费者的广告反应方面，学者们进行了大量探索。如，Wang等（2000）显示，强调相依性和团结的连结性广告诉求更受中国人的欢迎，而分离性广告更受美国人的欢迎。Polyorat和Alden（2005）研究了自我建构在比较性/非比较性广告影响消费者态度和购买意向中的调节作用。Chang和Feng（2016）比较了自我建构在历史/个人怀旧诉求与消费关系中的影响。Minton等（2018）则探究了道德/正义广告诉求对伦理消费的影响。他们发现，道德诉求对西方的宗教消费者更有效，而正义诉求对东方的宗教消费者更有效。但目前尚未看到从自我建构的角度来研究热情/能力广告诉求的相关文献。
+
+# 1.2.3品牌认同
+
+消费者品牌认同源于社会认同理论（Lam，Ahearne，Ahearne，Hayati，& Schillewaert,2013)，该理论在多个学科中得到了广泛的应用（Brewer，1991)。根据社会认同理论，不同社会群体中的成员会基于其群体类别来定义其社会身份，而品牌则成为人们获得社会认同的重要线索（Bhattacharya＆ Sen，2003)。消费者品牌认同是消费者自我形象与品牌形象相重叠的程度（Bagozzi&Dholakia，2006)，是消费者对品牌归属感感知、感觉和重视的心理状态，它包括认知、情感与评价三个维度（Lam，etal.，2013)。有大量证据表明，消费者品牌认同是导致重购意向和口碑传播的重要因素（Kuenzel& Halliday，2008)，对正面口碑（Stokburger-Sauer,Ratneshwar，& Sen,2O12）和品牌忠诚产生积极影响（Bhattacharya& Sen，2003)，而品牌忠诚又会提升品牌资产、创造竞争障碍和影响消费者偏好（Torres，Godinho，& Augusto，2017)。
+
+先前研究对于品牌认同的发生提出了有用的见解（Lam，et al.，2013)。导致品牌认同的前因分为两类：认知因素和情感因素。前者包括品牌-自我相似性和品牌身份，如品牌声望和品牌独特性等，后者则包括品牌社会收益和品牌体验（Torres等，2017)。然而，现有文献对于两类因素的相对重要性依然存在争议。如，Stokburger-Sauer等（2012）以及 Torres等（2017）认为情感因素具有更大作用，而Bhattcharya 和 Sen（2003）则强调认知因素的重要性。
+
+# 1.3假设的提出
+
+# 1.3.1广告诉求与自我建构的交互作用
+
+学者们发现，消费者对高热情和高能力的感知可促进认同（Escalas&Bettman，2005），从而产生对一个品牌的普遍喜爱和钦佩，然后转化为对它的好感（Chen，Mathur，&
+
+Maheswaran，2014）。然而，在关于能力和热情的相对重要性上却存在不同认识。消费者由于身份构建和维护的需要，更有可能认同表现出高度热情的品牌（Stokburger-Sauer 等，2012）。Andrei，Zait，Vatamanescu 和 Pinzaru（2017）认为热情感知是最重要的，因为热情影响信任（Malone&Fiske，2013），而信任又是商业交易的载体。Kolbla，Arslanagic-Kalajdzicb，&Diamantopoulos（2018）同样显示，品牌热情是消费者-品牌认同的关键动力，而品牌能力对品牌认同的影响并不显著。相反，另一类观点则认为，能力感知是顾客满意的主要驱动力（Grandey，Fisk，Mattila，Jansen 和 Sideman，2O05），能力是第一重要的，因为人们发现，购买意愿是由能力感知驱动的，而能力感知表明了提供质量的能力（Aaker等，2012）。
+
+本文认为，能力感知或热情感知对品牌认同的作用可能基于消费者的不同个体特征而同时存在。的确，个人主义色彩的广告诉求更容易在面向西方受众的广告中找到，而集体主义色彩的广告诉求更容易在面向东方受众的广告中发现（Han 和 Shavitt，1994）。Zhang 和Gelb（1996）也发现，包含个人主义利益标题的广告对美国消费者更具说服力，而包含群体利益标题的广告对中韩消费者更具说服力。这说明广告主题与文化的匹配会导致更大的说服效果（Wang，Bristol，Mowen，& Chakraborty，2O0O）。Agrawal 和 Maheswaran（2005）则进一步表明，与自我建构类型相匹配的广告诉求更有说服力。
+
+因此，我们认为，能力感知或热情感知对品牌认同的作用取决于消费者的不同自我建构类型。具体来讲，对于独立型自我的消费者来讲，为追求与众不同，他们重视自身能力的提升及相关活动，从而对表征能力的广告表现出更大的认同；而对于相依型自我的消费者来讲，为建立和维护与他人的社会联系，他们高度重视与他人的联系并积极参与相关活动，从而对表征热情的广告表现出更大的认同。基于此，我们提出以下假设：
+
+H1:广告诉求与自我建构类型之间存在交互作用。对于独立自我建构消费者，能力型诉求广告比热情型诉求广告更能引发品牌认同；对于相依自我建构消费者，热情型诉求广告比能力型诉求广告更能引发品牌认同。
+
+# 1.3.2愉悦感的中介效应
+
+自20世纪80年代开始，广告学领域的学者越来越关注情绪在广告诉求中的作用，并得到一个结论，积极的情绪可以提高广告信息的说服力（Holbrook&Batra，1987；Huang，2004)，并促进消费者与品牌的情感联系（Panda，Panda 和Mishra，2013）。积极情绪在热情和能力广告中同等重要。热情诉求可以产生愉悦感（Geuens&DePelsmacker，1998；Fiske，Cuddy,& Glick，2007；Cuddy，Fiske，&Glick，2008)。能力感知也会引发消费者的愉悦感（Grandey，et al.，2005；Cairney，Kwan，Velduizen，Hay，Bray，& Faugh，2012）。处于积极（vs.消极）情绪状态的个体，更有可能对他人产生积极的判断（Mackie&Worth，1989)。而由广告诉求所引起的愉悦感导致对品牌的积极评价（LaTour，Pitts 和Snook-Luther，1990）。同时，愉悦感对消费者满意度产生的正向影响（Mummalaneni，2005)，远超过其他积极情绪（Io,2018），而顾客满意能够显著促进消费者认同（Hultman，Skarmeas，Oghazi,&Beheshti，2015；Su，et al.，2016)。因此，积极情绪可以提高品牌认同（Ahearme，Bhattacharya和Gruen,2005；Su，Swanson，Chinchanachokchai，Hsu和Chen，2016)。所以，我们认为，愉悦感可能在广告诉求与品牌认同之间发挥中介作用。
+
+庞隽和毕圣（2015）发现，诚意/能力广告诉求和来源国刻板印象之间的匹配程度可以导致积极的情绪体验。由此推测，广告诉求与自我建构的匹配同样会带来愉悦的体验。能力型广告诉求更加匹配独立型自我消费者的目标与追求，更容易产生愉悦感进而建立品牌认同；而热情型广告诉求更加匹配相依自我建构消费者的目标与追求，更容易产生愉悦感进而建立品牌认同。因此，提出以下假设：
+
+H2a：愉悦感中介广告诉求与自我建构对品牌认同的交互作用。
+
+以往研究表明，人们选择、使用品牌来反映他们的实际或渴求的身份（Sirgy，1982)。自我-品牌连接是消费者行为中的一个核心概念，是消费者-品牌关系强度的一个关键前因（Aaker，Fournier，&Brasel，2004），也是形成品牌态度和行为的重要动力（Escalas，2004)。一旦顾客认同一个公司，购买该公司的产品成为其一种自我表达的行为（Ahearme，et al.,2005)。因此，我们引入营销者非常关心的一个变量--购买意向--进行分析。消费者的品牌认同会积极影响消费者的判断与行为（Garry，Broderick，&Lahife，2008)，情感认同通过情感价值与社会价值而对购买意向产生影响（McGowan，Shiu，&Hassan，2017）。品牌认同成为解释消费者购买意向最重要前因（Malone和Fiske，2013），而高度的品牌认同将导致强烈的购买意向（Torres，etal.，2017)。因此，结合前述结论我们提出如下假设：
+
+H2b：在自我建构调节作用下，广告诉求通过愉悦感作用于品牌认同，最终导致不同的购买意向。
+
+# 1.3.3企业类型的调节作用
+
+尽管与自我建构匹配的广告诉求能够导致愉悦感和品牌认同，但是情况并非总是如此。这一作用还可能会受到企业类型等现实条件的影响。例如，具有现代形象或传统形象的不同企业，或是当同一企业在不同阶段表现出更加现代化或传统性的特征时，可能与广告诉求产生不匹配，而对品牌认同产生不同的影响。
+
+Mueller（1987）借助广告诉求描述了两种企业类型。其中，传统企业强调对长者智慧和传统的尊重，对这类企业，人类与自然关系的美与善、互动及其密切关系得到重视，回归自然是其聚焦的主题。而现代企业则强调对现代性和年轻一代的崇拜，对现代企业，科技成就与人类优势得到强化，人定胜天是其聚焦的主题。传统企业可以利用广告诉求突出其经典、历史、传奇、悠久、受尊重和怀旧等特征，而现代企业可以利用广告诉求突出其现代、新鲜、改善、进取、先进和预示等特点（Zarantonello 等 2013)。传统式企业在隐喻层面上则象征着平和，而现代化企业在隐喻层面上象征着活力（Cian，Krishna，&Elder2014)。在直觉上，对更为传统和平和的传统企业来讲，热情诉求型广告更容易受到消费者的认同，而对更具活力和创新的现代企业来讲，能力诉求型广告更容易受到消费者的认同，因此我们提出如下假设：
+
+H3a：企业类型调节自我建构与广告诉求对品牌认同的交互作用。具体来说，对于现代企业，独立自我和相依自我的消费者都更加认同采用能力型广告诉求的品牌；而对于传统企业，独立自我和相依自我的消费者都更加认同采用热情型广告诉求的品牌。
+
+H3b：在企业类型调节作用下，广告诉求与自我建构的交互作用通过愉悦感作用于品牌认同，最终导致不同的购买意向。
+
+综上，建立本文的总体研究框架，如图1所示。
+
+![](images/34661f408cbcb1b7270a07b2d43ef269db7facf715a1977d8ff67d339174ce45.jpg)  
+图1研究框架
+
+# 2实验1：广告诉求与自我建构的交互效应
+
+本实验采用2（广告诉求：热情型/能力型） $\times 2$ （自我建构：独立自我/相依自我）的组
+
+间实验设计，主要目的是验证广告诉求和自我建构对品牌认同的交互作用，即 $\mathrm { H } 1$ 。
+
+# （1）实验设计
+
+被试是来自山东某大学的116位在校大学生，其中，女生54名，年龄18\~23 岁 $\scriptstyle \cdot M = 2 0 . 2 4$ $S D = 1 . 6 2 )$ 。本实验选择洗发水作为刺激物，并选择“Pantam”作为虚构品牌，以避免市场上现有洗发水及其品牌形象对实验结果的干扰。
+
+$\textcircled{1}$ 广告诉求的操纵。实验材料采用由文字和图案构成的平面广告形式。为避免广告设计对实验结果产生干扰，热情型和能力型广告采用相同的排版和文字内容篇幅，我们通过设计不同的图案背景和广告词来操纵广告诉求：在能力型广告诉求组，采用强有力的单手握拳图案与深蓝色作为背景，同时配以“防止脱发，去屑止痒，守护头部健康，就在Pantam 洗发水”的广告语；在热情型广告诉求组，采用温馨双手相握图案与温馨色彩作为广告背景，配以广告语“一个亲吻，一个拥抱，守护您的自信，就在Pantam 洗发水”。
+
+$\textcircled{2}$ 变量测量。为适应中国本土文化背景，潘黎和吕巍（2013）将 SCS 修订为中文版自我建构量表（CSC)，本研究采用该量表。量表包含“对我来说，尊重集体的决定是重要的”等10个相依自我题项，和“我的个性特点不受他人约束对我来说很重要”等6个独立自我题项。根据能力型和热情型广告诉求的定义，并借鉴Aaker，Vohs，&Mogilner等（2010)，通过“我觉得这是一个充满活力的产品”等3个题项来测量能力型诉求，通过“我觉得这是一个充满温情的产品”等3个题项来测量热情型诉求。品牌认同的测量借鉴 Tuskej，Golob和Podnar（2013)，包含“我的个人品位和该品牌的品位很相似”等3个题项。自我建构、广告诉求、品牌认同等变量均采用Likert七级量表（ $1 =$ 非常不同意， $\ 7 =$ 非常同意)。
+
+$\textcircled{3}$ 实验程序。为有效避免其他因素的干扰，告知被试需要做2个毫不相关的研究。首先将被试随机分配到能力型或热情型诉求广告组中，并对被试的特质性自我建构进行测量。然后，向被试做出说明：Pantam作为一款新型洗发水品牌，目前正尝试进入市场，在不久的将来大家将看到最新设计的Pantam产品平面广告。接下来，要求被试仔细阅读广告材料，然后填写量表，并收集他们的性别、年龄等人口统计信息。为进一步掩盖实验目的，要求被试写下自己喜爱的5个洗发水品牌。为答谢被试，在实验结束后通过微信向他们发放定额红包。
+
+（2）结果分析
+
+$\textcircled{1}$ 信度检验。采用Cronbach's $\mathfrak { a }$ 系数对能力型诉求、热情型诉求、自我建构以及品牌认同量表进行信度检验，能力型诉求为0.741，热情型诉求为0.753，自我建构为0.752，品牌认同为0.893，均符合分析要求。
+
+$\textcircled{2}$ 操纵检验。以广告诉求为因变量进行方差分析发现，能力型诉求组能力特征的得分高于热情型诉求组能力特征的得分 $( M _ { \mathrm { \widehat { H } } } \Gamma _ { \mathrm { \widehat { H } } } ) _ { \mathrm { \widehat { F } \widehat { H } } } = 5 . 2 8 ,$ $M$ 热情诉求 $\mathtt { \_ } { } 7 5$ ， $F ( 1 , 1 1 4 ) { = } 5 . 4 2$ $p { = } 0 . 0 2 { < } 0 . 0 5$ $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 4 \mathfrak { z }$ ，热情型诉求组热情特征的得分显著高于能力型诉求组热情特征的得分（ $\mathbf { \nabla } \cdot \mathbf { \vec { M } }$ 热情诉求$\scriptstyle = 5 . 0 5$ ， $M$ 能力诉求 $\scriptstyle : = 4 . 3 7$ ， $F$ （1，114） $\scriptstyle = 9 . 8 1$ ， $p { = } 0 . 0 0 2 { < } 0 . 0 1$ ， $\scriptstyle \eta ^ { 2 } = 0 . 0 7$ )，数据结果与预期相一致，这表明对广告诉求的操纵是成功的。
+
+$\textcircled{3}$ 品牌认同。利用 Process model1（Hayes，2017）探讨广告诉求、自我建构以及二者的交互作用与品牌认同的关系。结果表明，广告诉求（ $\scriptstyle b = 0 . 2 3$ ， $\scriptstyle { t = - 2 . 7 2 }$ ， $p { = } 0 . 0 0 7 6 { < } 0 . 0 1 \rangle$ 、自我建构（ $\scriptstyle b = 0 . 5 4$ ， $\scriptstyle t = 4 . 4 0$ ， $p { < } 0 . 0 0 1$ ）以及二者交互作用（ $\scriptstyle b = 0 . 5 6$ ， $\scriptstyle t = - 4 . 7 5$ ， $p { < } 0 . 0 0 1$ ）对品牌认同的作用是显著的。由于本实验的调节变量（自我建构）是一个连续变量，结合Johnson-Neyman 法进行 Floodlight 分析（Spiller，Fitzsimons，Lynch，&Mcclelland，2013），如图2所示。对于独立自我建构消费者（自我建构指数 $< - 0 . 5 0 2 7 \$ )，能力型诉求广告比热情型诉求广告更能引发品牌认同（ $\scriptstyle b = 0 . 4 8$ ， $t { = } { - } 5 . 5 0 8 3$ ， $p { < } 0 . 0 0 1 \rangle$ ；对于相依自我建构消费者（自我建构指数>-0.0607)，热情型诉求广告比能力型诉求广告更能引发品牌认同（ $\scriptstyle b = 0 . 5 4 6 7$ ，$\scriptstyle t = 3 . 1 7 3 8$ ， $p { = } 0 . 0 0 1 9 { < } 0 . 0 1 \rangle$ 。结果验证了 $\mathrm { H } 1$ 。
+
+![](images/e2f7a639cf8cb28a75abae025f3d0f91475ef68364bee1039a5d254d209d11b8.jpg)  
+图2自我建构与广告诉求对品牌认同的交互效应：实验1
+
+（3）追加实验：实验1的刺激物是实用品。为了验证实验1的结果是否适用于不同的产品，使用享乐品——巧克力（虚构品牌为Dimotrol）进行了一个追加实验。本实验借鉴Sui和Han（2007）的人称代词圈点法来进行自我建构的启动，让被试阅读关于旅游故事的材料。实验程序同实验1，得到了相同的结论：广告诉求与自我建构的交互效应显著（ $\cdot F$ （1，（204 $1 2 8 ) = 1 0 . 7 1 9$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 7 )$ 。对于独立自我建构的消费者而言，能力型诉求广告比热情型诉求广告更能引发品牌认同( $M$ 能力诉求=4.41， $M$ 热情诉求 $_ { : = 3 . 8 2 }$ ， $F ( 1 , 1 2 8 ) { = } 6 . 7 5$ $p { = } 0 . 0 1 { < } 0 . 0 5$ ，$\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 5 )$ ；对于相依自我建构的消费者来说，热情型诉求广告比能力型诉求广告更能引发品牌认同（ $M$ 热情诉求=4.40， $M$ 能力诉求 $_ { = 3 . 9 5 }$ ， $F$ （1，128） $\scriptstyle = 4 . 1 1$ ， $\scriptstyle { p = 0 . 0 4 < 0 . 0 5 }$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 3 \mathrm { ; }$ 。追加实验与实验1的结果一致，再一次验证H1，证明结果适用于实用品和享乐品。
+
+# 3 实验2：广告诉求对购买意向的影响：愉悦感、品牌认同的中介效应检验
+
+# （1）实验设计
+
+本实验采用2（广告诉求：热情型/能力型） $\times 2$ （自我建构：独立自我/相依自我）的组间实验设计，主要目的是验证广告诉求（热情/能力）与自我建构通过愉悦感影响品牌认同以及购买意向的因果链，即 H2a、H2b，并再次验证 H1。此外，广告诉求对品牌认同的作用可能是因为受到唤醒（Mehrabian 和Russell，1974）、加工流畅性（庞隽和毕圣，2015）或卷入度（Tuskej，etal.，2013；Stokburger-Sauer，etal.，2012）等其它因素的影响。因此，本实验测量并排除这些因素的影响。
+
+本实验选择牙膏作为刺激物，同样虚构一个品牌名称 MysPlant，并进行自我建构的启动。被试是来自山东某大学的149 位在校大学生(63 名女生;18\~23 岁， $M = 1 9 . 9 2 , S D = 1 . 1 7 \rangle$ 。
+
+$\textcircled{1}$ 广告诉求的操纵。为排除实验1中单手握拳、双手相握图案的不同以及不同颜色的可能干扰，实验2改用新的广告背景。在能力型诉求组，采用强有力的双手握拳图案与白色作为背景，同时配以“天然配方，全方位健齿，专业修复，百年品质保证，捍卫您的口腔健康，就在 MysPlant牙膏”的广告语；在热情型诉求组，采用温馨的双手相握图案与白色为广告背景，配以广告语“一个亲吻，一个拥抱，一生口腔呵护，缩短彼此的距离，分享您的快乐，就在 MysPlant牙膏”。
+
+$\textcircled{2}$ 自我建构的操纵。本实验的自我建构操纵依然采用人称代词圈点法，通过让被试阅读一则网球锦标赛的材料，想象作为一个个体（独立自我建构）或者作为一个团队成员（相依自我建构)参加网球比赛来启动（Lee，Aaker，&Gardner，2000)。启动材料以第一人称“我、我的”或“我们、我们的”来进行陈述。Aaker 和Lee（2001）和李东进等（2016）证明了该启动方法的有效性。
+
+$\textcircled{3}$ 变量测量。愉悦感的测度参照Mehrabian 和Russell（1974）（ $\scriptstyle { \mathfrak { a } } = 0 . 8 2 6 { \mathrm { . } }$ )。热情诉求（ $\scriptstyle \mathtt { q = 0 } . 8 5 8 )$ 、能力诉求（ $\scriptstyle { \mathfrak { a } } = 0 . 7 9 7 .$ ）和品牌认同（ $\mathrm { \Phi } _ { ( a = 0 . 7 5 6 ) } \mathrm { \Phi }$ ）均采用实验1中的量表进行测量，购买意向（ $\scriptstyle \mathtt { q } = 0 . 8 0 6$ ）的测度参考Dodds，Monroe 和Grewal（1991）。
+
+$\textcircled{4}$ 实验程序。为避免被试猜测相关实验目的，实验前依然告知被试需要进行几个不相关的实验。他们被随机分配为4个小组。实验开始首先对被试的情境性自我建构进行操纵：每一组分别阅读一个小故事材料，要求被试回答“阅读上述文章使我想到了我的朋友/家人”等2个题项（ $1 =$ 完全没有， $\ 7 =$ 完全有)。然后，向被试进行说明：MysPlant作为一款新牙膏品牌，目前正在尝试进入市场，在不久的将来大家将看到最新设计的MysPlant牙膏产品平面广告。接下来，要求被试仔细阅读广告，然后填写测量量表。为进一步掩盖实验目的，要求被试写下自己喜爱的5个牙膏品牌。在实验结束后通过微信向他们发放定额红包以示感谢。
+
+（2）结果分析
+
+$\textcircled{1}$ 操纵检验。首先，以广告诉求为因变量进行方差分析发现，能力型诉求组能力特征的得分显著高于热情型诉求组能力特征的得分！ $( M _ { \mathrm { \ A E / } } { \bf { \sigma } } _ { \mathrm { { J } } } { = } 4 . 8 3$ ， $M _ { ☉ } \ L _ { * } = 3 . 7 2$ ， $F$ （1， $1 4 7 ) = 4 1 . 0 9$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 2 2 \rangle$ ，热情型诉求组热情特征的得分显著高于能力型诉求组热情特征的得分( $\mathbf { \mathcal { M } }$ 热情诉求 $\scriptstyle : = 5 . 0 7$ ， $M$ 能力诉 $_ { \mathrm { R } } { = } 3 . 7 2$ ， $F$ （1，147） $\mathtt { \Lambda } = 9 1 . 9 5$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 3 8 \mathrm { \ : ; }$ ，数据结果与预期相一致，说明该实验对广告诉求的操纵是成功的。随后对自我建构进行操纵检验，结果显示：独立自我建构组被试的独立自我倾向显著高于相依自我建构组被试的独立自我倾向（ $\mathbf { \nabla } \cdot \mathbf { \vec { M } }$ 独立自我$\scriptstyle = 5 . 5 0$ ， $M$ 相依自我 $\scriptstyle = 3 . 5 9$ ， $F$ （1，147) $= 1 3 7 . 1 2$ ， $p { < } 0 . 0 0 1$ ， $\eta ^ { 2 } { = } 0 . 4 8 )$ ，相依自我操纵组被试的相依自我倾向显著高于独立自我建构组的相依自我倾向（ $\cdot M \ m \ r { \tt H R E H E } = 5 . 3 1$ ， $M$ 独立自我 $= 3 . 1 8$ ， $F$ （1，147） $= 1 7 1 . 9 0$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } \mathrm { 0 } . 5 3 \AA )$ ，这表明自我建构的操纵也是成功的。
+
+$\textcircled{2}$ 品牌认同。以品牌认同为因变量进行方差分析。结果显示，广告诉求的主效应（ $\cdot$ (1，145) $= 0 . 2 0$ ， $\scriptstyle p = 0 . 6 5 > 0 . 1 0$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 0 0 1 \$ ）和自我建构的主效应 $\left( F \left( 1 , \ 1 4 5 \right) \right. = 0 . 0 9$ ， $\scriptstyle p = 0 . 7 6 > 0 . 1 0$ ，$\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 0 1 \$ )均不显著，但广告诉求与自我建构的交互效应显著 $\left( F \left( 1 , \ 1 4 5 \right) \right. = 1 1 . 2 5$ ， $p { < } 0 . 0 0 1$ ，$\mathfrak { \eta } ^ { 2 } \mathbf { = } \mathbf { 0 . 0 7 } \cdot$ )，如图3所示。对于独立自我建构消费者而言，能力型诉求广告比热情型诉求广告更能引发品牌认同 $( M _ { \mathrm { \ A E / / i F : \cdot } } = 4 . 3 6$ ， $M$ 热情诉求 $_ { : = 3 . 6 5 }$ ， $F \left( 1 , 1 4 5 \right) { = } 7 . 3 7$ ， $p { = } 0 . 0 0 7 { < } 0 . 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 5 )$ ：对于相依自我建构消费者来说，热情型诉求广告比能力型诉求广告更能引发品牌认同（ $\smash { \cdot M _ { ☉ } }$ 情诉求 $\scriptstyle : = 4 . 3 3$ ， $M$ 能力诉求 $_ { : = 3 . 7 9 }$ ， $F$ （1，145） $\mathord { \overline { { = } } } 4 . 1 4$ ， $p { = } 0 . 0 4 { < } 0 . 0 5$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 3 \mathrm { ; }$ )。H1再次得证。
+
+![](images/63d691eb52cfeb5b693512ec30cf1e889233be7f22ec9300646347244b404009.jpg)  
+图3自我建构与广告诉求对品牌认同的交互效应：实验2
+
+$\textcircled{3}$ 购买意向。以购买意向为因变量进行方差分析。结果显示，广告诉求的主效应 $\left( F \left( 1 \right) \right.$ 145) $= 0 . 3 7$ ， $\scriptstyle p = 0 . 5 4 > 0 . 1 0$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 0 3 \mathrm { ) }$ 和自我建构的主效应 $( F \left( 1 , \ 1 4 5 \right) = 0 . 7 7 \$ ， $p { = } 0 . 3 8 { > } 0 . 1 0$ $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 0 5 )$ 均不显著，但广告诉求与自我建构的交互效应显著 $\left( F \left( 1 , \ 1 4 5 \right) \right. = 1 8 . 0 8$ ， $p { < } 0 . 0 0 1$ ，$\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 1 1 \AA )$ 。对于独立自我建构消费者而言，能力型诉求广告比热情型诉求广告更能提高购买意向（ $M$ 能力诉求 $_ { \mathrm { \Omega } = 4 . 4 1 }$ ， $M$ 热情诉求 $_ { : = 3 . 5 5 }$ ， $F$ （1，145) $= 1 2 . 0 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 7 \rangle$ ；对于相依自我建构消费者来说，热情型诉求广告比能力型诉求广告更能提高购买意向（ $\mathbf { \dot { \theta } }$ 热情诉求 $_ { : = 4 . 4 5 }$ ，$M$ 能力诉求 $_ { \mathrm { \Omega } = 3 . 8 1 }$ ， $F$ （1，145) $_ { = 6 . 5 0 }$ ， $p { = } 0 . 0 1 { < } 0 . 0 5$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 4 \rangle$ ，如图4所示。
+
+![](images/49d2d3e1ff3445176758f009608669807091a96fde9a9f1d1cc78b6f55ded53f.jpg)  
+图4自我建构与广告诉求对购买意向的交互效应：实验2
+
+$\textcircled{4}$ 愉悦感的中介效应检验。借鉴Hayes（2017)提出的有调节的中介分析模型(PROCESSModel8）进行Bootstrap 检验，样本量选择5000。在 $9 5 \%$ 置信区间下，以品牌认同为因变量，结果表明广告诉求与自我建构的交互作用影响个体对广告的愉悦感（Patha， $\beta { = } 1 . 4 6$ $\mathrm { L L C I } { = } 0 . 8 6$ ， $\mathrm { U L C I } { = } 2 . 0 6 \$ )，愉悦又能有效影响品牌认同（Pathb， $\scriptstyle { \beta = 0 . 5 5 }$ , $\mathrm { L L C I } { = } 0 . 3 8$ ，$\mathrm { U L C I } { = } 0 . 7 2 \$ )，愉悦感的中介作用显著 $\mathrm { ( L L C I = 0 } . 4 2$ ， $\mathrm { U L C I } { = } 1 . 3 0$ ，不包含0)，效应系数为0.81,这说明愉悦感在广告诉求和自我建构对品牌认同的交互影响中发挥了中介效应，并且在中介效应存在时，直接效应区间包含0（ $\mathrm { . L L C I { = } } { = } { - } 0 . 5 6$ ， $\mathrm { U L C I } { = } 0 . 3 5 \$ ，效应系数为-0.10，说明愉悦感具有完全中介效应，如图5所示，因此H2a得到验证。
+
+![](images/1639a646e48a677797be57b940e8059700c7a3f792f6676a0df7b7d8534be4d2.jpg)
+
+图5有调节的中介效应：实验2
+
+$\textcircled{5}$ 其他可能中介变量的排除。在实验2中，针对被试同时测量了唤醒和加工流畅性两个变量，唤醒的测度来自 Mehrabian 和Russell（1974)，加工流畅性的测度来自Lee 和 Aaker（2004)。分析结果表明，广告诉求和自我建构对唤醒的交互作用不显著 $( F \left( 1 , \ 1 4 3 \right) = 2 . 1 6$ $p { = } 0 . 1 4 4 { > } 0 . 0 5$ ， $\mathsf { \Pi } \mathsf { \Pi } ^ { 2 } \mathsf { = } \mathsf { 0 } . 0 1 4 \mathsf { \Gamma } \$ ，对加工流畅性的交互作用也不显著（ $F$ （1，149） $_ { = 0 . 0 1 5 }$ ，$p { = } 0 . 9 0 4 { > } 0 . 0 5$ ， $\scriptstyle \eta ^ { 2 } = 0 . 0 0 0 1 .$ )。接下来进行中介检验。结果表明，唤醒（ $_ { \cdot } ( \beta = 0 . 0 1$ ; $\mathrm { L L C I = - 0 . 0 5 }$ ，$\mathrm { U L C I = 0 . 0 7 }$ ，包含0）以及加工流畅性（ $_ { \beta = 0 . 0 7 }$ ； $\scriptstyle \mathrm { L L C I = - 0 . 0 3 }$ ， $\mathrm { U L C I = } 0 . 2 4$ ，包含0）的中介效应均不显著。
+
+为排除卷入度作为中介变量的可能解释，进行了一补充实验。在该实验中，同时测量了愉悦感、唤醒、加工流畅性和卷入度等可能的中介变量。卷入度的测度来自 Zaichkowsky(1994)，其他变量的测度同实验2。分析结果显示，广告诉求和自我建构对愉悦的交互作用显著 $( F ( 1 , 1 4 9 ) = 3 4 7 . 8 7 1$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta ^ { 2 } = 0 . 7 0 { \dot { ) } }$ ，而对唤醒 $( F ( 1 , 1 4 9 ) { = } 0 . 6 6 6$ ， $p { = } 0 . 4 1 6 { > } 0 . 0 5$ ，$\scriptstyle \eta ^ { 2 } = 0 . 0 0 4 )$ 、加工流畅性（ $F$ （1，149） $\scriptstyle = 0 . 0 7 8$ ， $\scriptstyle p = 0 . 7 8 0 > 0 . 0 5$ ， $\scriptstyle \eta ^ { 2 } = 0 . 0 0 0 5$ ）以及卷入度（ $F$ （1，149） $= 1 . 1 8 1$ ， $p { = } 0 . 2 7 9 { > } 0 . 0 5$ ， $\eta ^ { 2 } { = } 0 . 0 0 7 8$ ）的交互效应均不显著。中介检验表明，愉悦感的中介效应显著( $\scriptstyle { \beta = 2 . 5 9 }$ $\mathrm { L L C I } { = } 2 . 2 1$ ,ULCI=2.97,不包含0)，而唤醒( $\scriptstyle { \beta = 0 . 0 2 }$ ; LLCI=-0.02,$\mathrm { U L C I = 0 . 0 4 }$ ，包含0）、加工流畅性（ $\scriptstyle | 3 = 0 . 0 1$ ; $\scriptstyle { \mathrm { L L C I } } = - 0 . 0 3$ ， $\mathrm { U L C I = } 0 . 0 3$ ，包含0）以及卷入度（ $\scriptstyle  \{ \beta = 0 . 0 2$ ; $\operatorname { L L C I = - 0 . 0 5 }$ ， $\mathrm { U L C I = } 0 . 0 3$ ，包含0）的中介效应均不显著。由此排除唤醒、加工流畅性以及卷入度等作为中介变量的可能。
+
+$\textcircled{6}$ 因果链中介效应检验。借鉴Hayes（2017）提出的有调节的中介分析模型（PROCESSModel83）进行Bootstrap检验，样本量选择5000。在 $9 5 \%$ 置信区间下，自变量为广告诉求，调节变量为自我建构，愉悦感作为中介变量1，品牌认同作为中介变量2，因变量为购买意向，结果验证了此因果链模型（ $\beta { = } 0 . 2 8$ ; $\mathrm { L L C I = 0 . 1 0 }$ ， $\mathrm { U L C I } { = } 0 . 5 1 \$ )。广告诉求与自我建构的交互作用影响个体对广告的愉悦感（Patha， $\beta { = } 1 . 4 6$ . $\mathrm { L L C I } { = } 0 . 8 6$ ， $\mathrm { U L C I } { = } 2 . 0 6$ )，愉悦感影响品牌认同（Pathb， $\beta { = } 0 . 6 4$ ; $\mathrm { L L C I = 0 . 4 7 }$ ， $\mathrm { U L C I } { = } 0 . 8 0 \$ )，从而促使消费者产生购买意向（Pathc， $\scriptstyle { \beta = 0 . 2 9 }$ ； $\mathrm { L L C I = } 0 . 1 4$ ， $\mathrm { U L C I } { = } 0 . 4 4 \ )$ 。并且在中介效应存在时，直接效应区间包含0中 $\scriptstyle \mathrm { , L L C I = - 0 . 3 6 }$ ， $\mathrm { U L C I } { = } 0 . 2 2 \$ )，效应系数为-0.06，说明愉悦感-品牌认同因果链具有完全中介效应，如图6所示。具体来说，当自我建构为相依自我时，广告诉求到愉悦感到品牌认同再到购买意向的间接效应为负（ $_ { \beta = - 0 . 1 9 }$ ； $\mathrm { L L C I } { = } { - } 0 . 3 4$ ， $\mathrm { U L C I = - 0 . 0 7 }$ )；当自我建构为独立自我时，广告诉求到愉悦感到品牌认同再到购买意向的间接效应为正（ $\scriptstyle { \beta = 0 . 1 7 }$ ； $\mathrm { L L C I } { = } 0 . 0 5$ ，$\mathrm { U L C I } { = } 0 . 3 4 \rangle$ 。H2b得证。
+
+![](images/1f24fd0514915cb28c1ae9379cb402c9a1d7eaec1281ee5574056ee537f3df8a.jpg)  
+图6因果链中介效应：实验2
+
+# 4实验3：企业类型的调节作用
+
+本实验采用2（广告诉求：热情型/能力型） $\times 2$ （自我建构：独立自我/相依自我） $\times 2$ （企业类型：传统/现代）的组间实验设计，主要目的是验证企业类型的调节作用，即 $\mathrm { H } 3 \mathrm { a }$ ；并同时验证加入企业类型后的因果链中介效应，即H3b。被试是来自山东某大学的278位学生（145 名女生；18\~23岁， $M = 1 9 . 9 3$ ， $S D = 0 . 9 8 1$ )。
+
+（1）预实验
+
+正式实验开始前，对实验中涉及到的企业类型进行前测。传统企业被描述为“MysPlant牙膏公司作为传统中医药牙膏的重要代表之一，扎根于以往传统中医药精髓，使用纯天然薄荷及传统天然香料配方，告别现代化学添加剂”，现代企业被描述为“MysPlant牙膏公司作为现代牙膏的推动者之一，没有拘泥于过去的传统配方，而是大胆创新，采用现代独特配方，为现代人设计专业的高效护牙产品”。结果表明，企业类型操纵是有效的（ $M _ { ☉ } { \mathrel { \left/ { \vphantom { \sum _ { i } } } \right. \kern - delimiterspace } } = 7 . 0 4$ ， $M _ { ☉ }$ $\scriptstyle { \mathtt { 4 3 4 } } = 3 . 0 3$ ， $F$ （1， $5 3 { = } 7 3 . 4 6$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 5 8 \mathrm { ) }$ 。
+
+（2）实验设计
+
+$\textcircled{1}$ 广告诉求的操纵。本实验的刺激物同实验2，并采用实验2的方式来操纵广告诉求。$\textcircled{2}$ 自我建构的操纵。本实验的启动同实验2。$\textcircled{3}$ 变量测量。热情诉求（ $\scriptstyle { \mathfrak { a } } = 0 . 8 7 8 { \mathrm { ) } }$ 、能力诉求（ $\scriptstyle { \mathfrak { a } } = 0 . 7 5 8$ ）以及品牌认同（ $\scriptstyle { \mathtt { q } } = 0 . 7 8 4$ ）等变量的测度同实验1，愉悦感（ $\scriptstyle { \mathfrak { a } } = 0 . 8 5 7$ ）和购买意向（ $\scriptstyle { \mathtt { a } } = 0 . 7 7 7$ ）的测度同实验2。$\textcircled{4}$ 实验程序。将被试随机分成8组。其他程序同实验2。
+
+（3）结果分析
+
+$\textcircled{1}$ 操纵检验。通过方差分析发现，对广告诉求的操纵是有效的，能力型诉求组能力特征的得分高于热情型诉求组能力特征的得分！ $( M _ { \mathrm { \ A E / } } ) _ { \mathrm { = } } 5 . 1 6$ ， $M _ { ☉ } = 4 . 3 2$ ， $F$ (1，276) $= 5 8 . 8 4 \$ ， $p$ （204${ < } 0 . 0 0 1$ ， $\scriptstyle \eta ^ { 2 } = 0 . 1 7 .$ )，热情型诉求组热情特征的得分显著高于能力型诉求中热情特征的得分（ $\cdot M$ 热情 $\scriptstyle = 5 . 4 7$ ， $M _ { \ 明 \rangle } = 3 . 6 7$ ， $F$ （1，276) $= 2 2 0 . 5 0$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 4 4 )$ 。
+
+$\textcircled{2}$ 品牌认同。以品牌认同为因变量进行方差分析，结果表明，广告诉求、自我建构与企业类型的交互效应显著 $( F ~ ( 1 , ~ 2 7 0 ) ~ { = } 1 2 . 8 7 8$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 4 6 )$ 。为便于解释，进行分组分析。对于传统企业，广告诉求与自我建构对品牌认同的交互作用显著 $( F ( 1 , 2 7 0 ) { = } 7 . 4 6 \$ $p { = } 0 . 0 0 6 { < } 0 . 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 2 6 \$ 。对于相依自我建构消费者，热情型诉求广告比能力型诉求广告更能引发品牌认同！ $( M \astrosun ) _ { \astrosun } = 5 . 1 5$ ， $M$ 能力诉求 $\scriptstyle : = 4 . 2 7$ ， $F$ （1，270) $_ { = 1 5 . 3 7 }$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 5 3 \AA )$ 对于独立自我消费者，能力型广告诉求与热情型广告诉求对品牌认同的影响不存在显著差异（ $M$ 能力诉求 $\scriptstyle = 4 . 3 9$ ， $M$ 热情诉求 $_ { \mathrm { \ s l { = } } 4 . 4 0 }$ ， $F$ （1，270） $\scriptstyle = 0 . 0 0 1$ ， $p { = } 0 . 9 7 { > } 0 . 1 0$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 0 1 \$ 。也就是说，和实验1和实验2相比，发现不论是相依自我建构还是独立自我建构的消费者，他们对于传统企业都相对更认同热情广告诉求。对于现代企业，虽然广告诉求与自我建构对品牌认同的交互作用显著 $( F \left( 1 , \ 2 7 0 \right) ) = 5 . 0 5$ ， $p { = } 0 . 0 2 { < } 0 . 0 5$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 1 8 \mathrm { ) }$ ，但相依自我被试 $( M _ { ☉ } ) _ { \mathbb { i } \mathbb { F } \mathbb { i } \mathbb { F } \mathbb { i } } . . . \mathrm { ~ } \ V \ S .$ ，$M$ 热情诉求 $\scriptstyle = 4 . 4 3$ ， $F$ （1，270) $= 2 9 . 3 9 \$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 9 8$ ）和独立自我被试（ $( M _ { \mathrm { \ A E \it / 4 3 / i \it { F } 3 / 4 } } = 5 . 3 0$ ，$M$ 热情诉求 $\mathord {  \kern - delimiterspace } 2 4 . 7 7$ ， $F$ （1，270) $= 7 . 1 6$ ， $p { = } 0 . 0 0 7 { < } 0 . 0 1$ ， $\mathfrak { \eta } ^ { 2 } \overline { { = } } 0 . 0 2 5$ ）均对能力型广告诉求品牌有更强的认同。 $\mathrm { H } 3 \mathrm { a }$ 得证。
+
+$\textcircled{3}$ 购买意向。以购买意向为因变量进行方差分析，结果表明，广告诉求、自我建构与企业类型的交互效应显著 $\left( F \ ( 1 , \ 2 7 0 ) \right. \left. = 2 7 . 6 9 \right.$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta ^ { 2 } = 0 . 0 9 )$ )。为便于解释，进行分组分析。对于传统企业，广告诉求与自我建构对购买意向的交互作用显著 $( F \left( 1 , 2 7 0 \right) ) = 1 6 . 7 1$ .$p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 5 )$ 。对于相依自我建构消费者，热情型诉求广告比能力型诉求广告更能引发购买意向 （ $\mathbf { \dot { \theta } }$ 热情诉求 $\phantom { - } = 5 . 2 8$ ， $M$ 能力诉求 $\scriptstyle : = 4 . 1 2$ ， $F$ （1，270) $= 3 2 . 2 9 \$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 1 0 \$ ；对于独立自我消费者，能力型广告诉求与热情型广告诉求对购买意向的影响不存在显著差异（ $M _ { ☉ }$ 力诉求 $\scriptstyle = 4 . 3 2$ ， $M$ 热情诉求 $\scriptstyle : = 4 . 3 9$ ，F（1，270） $= 0 . 1 3$ ， $\scriptstyle p = 0 . 7 1 > 0 . 1 0$ ， $\scriptstyle \eta ^ { 2 } = 0 . 0 0 0 4 )$ 。对于现代企业，虽然广告诉求与自我建构对购买意向的交互作用显著 $( F ( 1 , 2 7 0 ) { = } 1 2 . 1 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 4 )$ ，但相依自我被试（ $( M _ { \mathrm { \ A E \mathcal { I } \mathcal { I } \dot { J } \ F \ddot { 3 } \vec { k } } } = 5 . 7 0$ ， $M$ 热情诉求 $\mathord { \mathrm { : } } = 4 . 2 8$ ， $F$ （1， $2 7 0 ) \ { = } 4 9 . 6 2$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 1 5 )$ 和独立自我被试 $( M _ { ☉ } ) _ { j \downarrow \sqrt { \ast } \prec k } = 5 . 3 7$ ， $M$ 热情诉求 $\scriptstyle \mathbf { \lambda = 4 . 8 9 }$ ， $F$ （1，270) $_ { = 6 . 9 1 }$ ， $p { = } 0 . 0 0 9 { < } 0 . 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 2$ ）均对能力型广告诉求品牌有更强的购买意向。
+
+$\textcircled{4}$ 愉悦感。以愉悦感为因变量进行方差分析，结果表明，广告诉求、自我建构与企业类型的交互效应显著 $( F ~ ( 1 , ~ 2 7 0 ) = 6 . 9 5 1$ ， $p { = } 0 . 0 0 9 { < } 0 . 0 1$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 0 2 5 \mathrm { ) }$ 。为便于解释，进行分组分析。对于传统企业，广告诉求与自我建构对愉悦感的交互作用显著 $( F \left( 1 , \ 2 7 0 \right) = 5 . 7 6$ $p { = } 0 . 0 1 { < } 0 . 0 5$ ， $\mathfrak { n } ^ { 2 } \mathrm { = } 0 . 0 2 0 \AA )$ 。对于相依自我建构消费者，热情型诉求广告比能力型诉求广告更能引发愉悦感！ $( M + H ) _ { 4 } = 4 . 9 9$ ， $M _ { ☉ } \hat { \mathcal { M } } _ { \tilde { \mathbb { F } } \tilde { \ast } \tilde { \ast } } \mathrm { = } 4 . 0 7$ ， ${ \textbf { \textit { F } } } ( 1 , { \textbf { \textit { 2 } } }$ 270） $= 1 4 . 1 6$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 4 9 \rangle$ ；对于独立自我消费者，能力型广告诉求与热情型广告诉求对愉悦感的影响不存在显著差异（ $\mathbf { \dot { \theta } }$ 能力诉求 $\scriptstyle = 4 . 3 0$ ， $M$ 热情诉求 $\scriptstyle = 4 . 2 1$ ， $F$ （1，270） $= 0 . 1 4$ ， $\scriptstyle p = 0 . 7 1 > 0 . 1 0$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 0 5 \mathrm { ) }$ 。对于现代企业，广告诉求与自我建构对愉悦感的交互作用不显著 $( F ( 1 , 2 7 0 ) { = } 1 . 7 1$ ， $\scriptstyle p = 0 . 1 9 > 0 . 0 5$ ， $\scriptstyle \eta ^ { 2 } = 0 . 0 0 6$ )，相依自我被试（ $M$ 能力诉求 $_ { : = 5 . 1 3 }$ ， $M$ 热情诉求 $\mathtt { \Lambda } _ { = 4 . 2 5 }$ ， $F$ （1， $2 7 0 ) = 1 2 . 8 9$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } \mathrm { = } 0 . 0 4 5$ ）和独立自我被试（ $M$ 能力诉求 ${ \it \Omega } = 4 . 8 3 { \it \Omega }$ ， $M$ 热情诉求 $\mathord { \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e \ z e g }$ ， $F$ （1，270） $\mathord { \overline { { = } } } 4 . 1 7$ ， $\scriptstyle { p = 0 . 0 4 < 0 . 0 5 }$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 1 5 \$ ）均对能力型广告诉求品牌产生更强的愉悦感。
+
+$\textcircled{5}$ 因果链中介效应检验。借鉴Hayes（2017）提出的有调节的中介分析模型（PROCESSModel6）进行Bootstrap 检验，样本量选择5000。在 $9 5 \%$ 置信区间下，将广告诉求、自我建构与企业类型三维交互项作为自变量，愉悦感作为中介变量1，品牌认同作为中介变量2，购买意向作为因变量。结果验证了从自变量到愉悦感到品牌认同再到购买意向的因果链模型（ $\scriptstyle \beta = \ - . 0 . 2 8$ ； $\mathrm { L L C I } { = } { - } 0 . 5 7$ ， $\mathrm { U L C I = - 0 . 0 7 } .$ )。广告诉求、自我建构与企业类型的交互作用影响广告的愉悦感（Path a, $\beta { = } { - } 1 . 2 6$ ; LLCI=-2.21, $\scriptstyle { \mathrm { U L C I } } = - 0 . 3 2 ,$ ，愉悦感又能有效影响品牌认同（Pathb， $\scriptstyle \beta = 0 . 2 9$ ; $\mathrm { L L C I = } 0 . 1 9$ ， $\mathrm { U L C I } { = } 0 . 3 9$ )，从而促使消费者产生购买意向（Pathc， $\scriptstyle { \beta = 0 . 7 6 }$ $\mathrm { L L C I } { = } 0 . 7 0$ ， $\mathrm { U L C I } { = } 0 . 8 2 \$ )。直接效应区间不包含0（ $\mathrm { L L C I = } . 0 . 6 5$ ， $\scriptstyle { \mathrm { U L C I } } = - 0 . 2 2 ,$ )，效应系数为-0.44，如图7所示，这表明愉悦感-品牌认同因果链具有部分中介效应。
+
+接下来对传统型和现代型企业分别进行中介效应检验，对于传统企业，广告诉求到愉悦感到品牌认同再到购买意向的间接效应为负（ $\scriptstyle { \beta = - 0 . 1 3 }$ ; $\mathrm { L L C I } { = } { - } 0 . 2 7$ ， $\scriptstyle { \mathrm { U L C I } } = - 0 . 0 2 { \mathrm { ~ } }$ ；对于现代企业，广告诉求到愉悦感到品牌认同再到购买意向的间接效应为正（ $\scriptstyle { \beta = 0 . 1 7 }$ ： $\mathrm { L L C I { = } } 0 . 0 7$ ，$\mathrm { U L C I } { = } 0 . 3 1 \$ )。H3b得证。
+
+![](images/c3b2063b4b98ea4de50ae8b44fbf19665ebb6af601483012ea9ee5c2f0934934.jpg)  
+图7因果链中介效应：实验3
+
+# 5研究结论与讨论
+
+# 5.1研究结论
+
+本文基于自我建构理论，通过3个实验探讨了广告诉求对消费者品牌认同进而对购买意向产生影响的内在机制及边界条件，主要结论如下：
+
+实验1选择实用品作为刺激物，通过对被试自我建构水平的测量，验证了自我建构类型与能力/热情广告诉求对消费者品牌认同的交互作用。实验1的追加实验选择享乐品作为刺激物，并通过自我建构的启动材料得到了一致的结果。实验2采用另一种自我建构启动材料，验证了自我建构与广告诉求对品牌认同及购买意向的交互作用，并确认了自我建构与广告诉求的交互作用通过愉悦感和品牌认同影响购买意向的内在机制。实验3再次验证了广告诉求到愉悦感到品牌认同最终到购买意向的因果链模型，并确定了企业类型的调节作用。
+
+# 5.2理论贡献
+
+本研究的理论贡献主要包括以下三点：（1）补充和完善了广告研究的理论体系。庞隽和毕圣（2015）首次将诚意（即热情）和能力诉求概念引入广告学研究，并巧妙地与高诚意/高能力品牌来源国刻板印象相结合，提出了广告诉求-品牌来源国刻板印象匹配效应，并得到了极具价值的研究结论。以庞隽和毕圣（2015）为基础，本文引入自我建构视角对能力/热情广告诉求的有效性开展研究，并且发现了自我建构与广告诉求对广告有效性的交互作用。由于庞隽和毕圣（2015）中高诚意（vs.高能力）刻板印象的品牌来源国分别是巴西和西班牙（vs.英国和德国），而这些也恰恰是相依（vs.独立）自我的国家（http://geerthofstede.com/countries.html），所以本文的理论将庞隽和毕圣（2015）的研究与自我建构的理论框架相联系，对他们的结论提出了新的可行解释，从而为产生这些结果的机制提供了理论和实证上的支撑。
+
+（2）前文指出，对哪一种广告诉求可以更好地提高品牌认同这一问题，现有文献存在意见分歧，而且对广告中的能力或热情诉求如何影响品牌认同的机制没有给出解释（详见1.3.1节)。因此，本文的另一重要贡献在于，通过引入自我建构这一概念在这该问题上得到了二分法的结论--自我建构会调节广告诉求的影响。具体来说，对于独立自我建构的消费者，能力广告诉求更能提高品牌认同感。而对于相依自我建构的消费者，则热情广告诉求更有效。
+
+其次，在这个基础上，我们将情绪理论引入广告诉求有效性的研究领域，构建了从能力/热情广告诉求到愉悦感到品牌认同再到购买意向这一因果链模型，并且排除了唤醒、加工流畅性以及卷入度等可能的中介作用，从而在理论和实证上对广告诉求如何影响消费决策做出了深入探索，也验证了广告诉求作用于品牌认同进而影响购买意向的内在机制，弥补了现有研究的不足。
+
+再次，将企业类型引入研究框架，确定了广告诉求有效作用的边界条件。研究发现了企业类型对于能力/热情广告诉求效应的调节作用，为主效应及中介机制确定边界条件，在理论和应用领域构建了更为深入清晰的框架。
+
+（3）作为理解自我及其与他人关系的一种基本方式，自我建构可用来解释消费者在诸多方面存在的跨文化差异，因此，本研究的结果将为学者们未来开展广泛的跨文化广告研究提供借鉴。此外，自我建构提供了探讨人们认知风格、社会比较、个人自主感与自我调控的新视角，这为未来基于个体心理特征进行能力/热情以及其它广告诉求有效性的拓展研究奠定了基础。
+
+# 5.3管理启示
+
+首先，针对不同企业类型采用合理的广告策略。对现代企业来说，通过能力型诉求广告来强化其创新和领导形象是最佳选择；而对于传统企业来说，要针对集体主义文化主导的国家和地区，或相依型自我建构消费者群体，开展热情广告宣传。对于现代或传统特征均不鲜明的企业来讲，发布不同诉求类型的广告要有针对性。其次，要加强企业形象的管理。通过调研把握现状，进一步明确企业形象定位，并提供相应的宣传口径。最后，在发布有针对性广告时，可临时性地启动消费者的某种自我类型，以实现与广告诉求类型的有效匹配。
+
+# 5.4研究局限与未来研究方向
+
+本研究尚有一定的局限性：首先，研究是在实验环境下进行的，而作为刺激材料的广告是虚拟设计的，虽然对实验环境进行了严格的控制，对虚构广告进行了操纵检验，但被试在该虚拟环境中的感受与现实环境可能存在不小的差异。其次，所有实验的被试都是大学在校生。尽管实验使用了他们所熟悉的产品，但由于他们年龄、学历、阅历等方面的特殊性，研究结论是否适合其他消费者群体，比如青少年、中老年消费群体等，还需要做进一步的验证。
+
+未来研究可考虑选择具有一般意义特征的消费群体作为样本，在现实环境中开展相关研究，比如在购物场所中通过POP广告形式对打算购买相关产品的顾客进行测试，以提高实验结论的可拓展性。其次，本研究验证了愉悦感在自我建构与广告诉求交互作用于品牌认同的中介效应，未来研究可继续探索崇敬感、心里所有权（刘建新和李东进，2017）等其他可能的内在机制。再次，影响能力/热情广告诉求有效性的因素很复杂，还需要继续探讨影响广告诉求有效性的其他可能因素。如，在刻板印象意义上的男（女）人被视为是有能力的（热情的）（Broverman，Vogel，Broverma，Clarkson，&Rosenkrantz，1972），而金钱观则提高了消费者的能力感知（Aaker，etal.，2010)，从性别或金钱观的视角开展研究，可能呈现出一些有趣的结论。最后，有必要考察（高、低）热情水平与（高、低）能力水平的不同匹配对消费者品牌认同的作用机制。在现实生活中，企业广告诉求同时涉及热情与能力两个维度而形成不同的匹配，它是如何作用于消费者品牌认同的，影响因素又有哪些？这些都将是非常有意义的研究课题。
+
+# 参考文献
+
+Aaker, J.L.,Fourmier,S.,&Brasel,S.A. (2oo4). When good brands do bad.Journal of Consumer Research,31(1), 1-16.   
+Aaker, J. L., Garbinsky,E.N.,& Vohs,K.D.(2O12).Cultivating admiration in brands: Warmth,competence,and landing in the “golden quadrant". Journal of Consumer Psychology, 22(2),191-194.   
+Aaker, J.L.,& Lee,A. Y. (20o1).“T’ seek pleasures and“We”avoid pains: The role of self-regulatory goals in information processing and persuasion. Journal of Consumer Research,28(1),33-49.   
+Aaker,J., Vohs,K.D.,& Mogilner,C.(20lO). Nonprofits are seen as warm and for-profits as competent: Firm stereotypes matter. Journal of Consumer Research, 37(2),224-237.   
+Aggarwal,P.,& Mcgill，A.L.(2O07).Is that car smiling at me? Schema congruity asa basis for evaluating anthropomorphized products.Journal of Consumer Research, 34(4),468-479.   
+Agrawal,N.,& Maheswaran,D. (2Oo5). The efects of self-construaland commitment on persuasion. Journal of Consumer Research,31(4), 841-849.   
+Ahearne,M.，Bhattcharya, C.B.，& Gruen,T. (2Oo5).Antecedents and consequences of customer-company identification: Expanding the role of relationship marketing. Journal of Applied Psychology, 90(3),574-585. Andrei,A.G.， Zait,A.， Vatamanescu,E.M.，& Pinzaru,F.(2017).Word-of-mouth generation and brand communication strategy. Industrial Management & Data Systems,1l7(3), 478-495.   
+Bagozi, R.P.,& Dholakia, U.M. (2O06). Antecedents and purchase consequences of customer participation in small group brand communities. International Journal of Research in Marketing,23(1),45-61.   
+Belk,R.W. (1988).Possessions and the Extended Self. Journal of Consumer Research,15(2),139-168. Bennett,A. M.，& Hill,R.P. (2O12).The universality of warmth and competence:A response to brands as intentional agents.Journal of Consumer Psychology, 22(2),199-204.   
+Bhattacharya,C.B.，& Sen，S.(2Oo3). Consumer-company identification:A framework for understanding consumers' relationships with companies. Journal of Marketing, 67(2),76-88.   
+Brewer,M.B.(1991).The social self:on being the same and different at the same time.Personality and Social Psychology Bulletin,17(5),475-482.   
+Brewer，M.B.，& Gardner, W.(1996).Who isthis"we"? Levels of colective identity and self representations. Journal of Personality and Social Psychology, 71(1),83-93.   
+Broverman,I. K., Vogel,S.R.,Broverma,D.M.,Clarkson,F.E,&Rosenkrantz,P. (1972).Sex role stereotpes: A current appraisal. Journal of Social Issues, 28(2),59-78.   
+Cairney,J.，Kwan，M.Y.，Velduizen，S.,Hay,J.，Bray，S.R.，& Faught, B.E.(2012).Gender,perceived competence and the enjoyment of physical education in children:A longitudinal examination.International Journal of Behavioral Nutrition and Physical Activity, 9(1),26-34.   
+Chang,C.,& Feng,C.(2O16).Bygone eras vs.the good OI' days: How consumption context and self-construal influence nostalgic appeal selection. International Journal of Advertising,35(3),589-615. Chen，H.，Bolton，L.，Ng，S.，Lee，D.，& Wang，D.(2018).Culture，relationship norm，and dual entitlement. Journal of Consumer Research, 45(1),1-20.   
+Chen, C.Y.,Mathur,P.,& Maheswaran,D. (2014).The effects of country-related afect on product evaluations. Journal of Consumer Research, 41(4),1033-1046.   
+Cian,L., Krishna, A.,& Elder,R. S. (2014). This logo moves me: Dynamic imageryfrom static images.Journal of Marketing Research,51(2),184-197.   
+Cross，S.E.，Hardin，E.E.，& Gercek-swing，B. (2O11).The what，how，why，and where of selfconstrual. Personality & Social Psychology Review, 15(2),142-179.   
+Cuddy，A. J. C.,Fiske,S.T.，& Glick,P. (2O08). Warmth and competence as universal dimensions of social perception: the stereotype content model and the bias map.Advances in Experimental Social Psychology, 40(7), 61-149.   
+Dholakia,U. M. (2ooo). Temptation and resistance: An integrated model of consumption impulse formation and enactment. Psychology & Marketing,17(11), 955-982.   
+Dodds,W.B.,Monroe,K.B.,& Grewal,D.(1991).Efects of price,brand,and store information on buyers' product evaluations. Journal of Marketing Research,28(3),307-319.   
+Escalas，J.E. (2004). Narrative processing: Building consumer connections to brands. Journal of Consumer Psychology, 14(1-2),168-180.   
+Escalas，J.，& Bettman,J. (20o5). Self-construal,reference groups,and brand meaning. Journal of Consumer Research,32(3),378-389.   
+Fiske,S.T. (2018). Stereotype content: warmth and competence endure. Curent Directions in Psychological Science,27(2): 67-73.   
+Fiske,S.T., Cuddy，A.J.C.，& Glick,P. (20o7). Universal dimensions of social cognition:Warmth，then competence. Trends in Cognitive Sciences,1l(2),77-83.   
+Fiske,S.T.,Cuddy,A.J. C., Glick,P.,& Xu,J. (2002). A model of (often mixed)stereotype content: Competence and warmth respectively folow from perceived status and competition.Journal of Personality and Social Psychology, 82(6), 878-902.   
+Fournier,S.(1998). Consumers and their brands: Developing relationship theory in consumer research.Journal of Consumer Research, 24(4),343-373.   
+Garry,T.,Broderick,A.J.,& Lahiffe,K.(2O08).Tribal motivation in sponsorshipand its influence on sponsor relationship development and corporate identity. Journal of Marketing Management, 24(9-10), 959-977. Grandey, A.A.,Fisk, G.M., Matila,A. S. Jansen, K.J.,& Sideman,L. A. (2005). Is“service witha smile” enough?Authenticity of positive displays during service encounters. Organizational Behavior & Human Decision Processes, 96(1),38-55.   
+Geuens,M.,& De Pelsmacker,P.(1998). Need for cognition and the moderating role of the intensity of warmth and humorous advertising appeals.In Asia Pacific advances in consumer research, Vol. 3,Ed. K. Hung and K.B. Monroe,74-80.Provo,UT: Association for Consumer Research.   
+Han,S.P.,& Shavitt S.(1994).Persuasion and culture: Advertising appeals in individualistic and collctivistic societies.Journal of Experimental Social Psychology,30(4),326-350.   
+Hayes,A.F. (2017). Introduction to mediation, moderation, and conditional process analysis: A regression-based approach. New York: Guilford Press.   
+Hilton, J.,& Von Hippel, W. (1996). Stereotypes. Annual Review of Psychology,47,237-271.   
+Holbrook,M.B.,& Batra, H. R. (1987). Assessing the role of emotions as mediators of consumer responses to advertising. Journal of Consumer Research,14(3),404-420.   
+Huang,M. H.(2O04). Romantic love and sex: Their relationship and impacts on ad atitudes. Psychology and Marketing,21(1),53-73.   
+Hultman,M.,Skarmeas,D.,Oghazi,P.,& Beheshti, H. M.(2015). Achieving tourist loyalty through destination personality,satisfaction,and identification. Journal of Business Research, 68(11),2227-2231.   
+Io,M. (2018). The relationships between positive emotions, place atachment, and place satisfaction in casino hotels.International Journal of Hospitality & Tourism Administration,19(2),167-186.   
+Ivens,B.S.,Leischnig,A., Muller,B.,& Valta, K. (2015). On the roleof brand stereotypes inshaping consumer response toward brands: An empirical examination of direct and mediating effects of warmth and competence. Psychology & Marketing, 32(8), 808-820.   
+Kazakova, S., Cauberghe,V., Hudders,L.,&Labyt, C. (2016).The impact of media multitasking on the cognitive and attitudinal responses to television commercials: The moderating role of type of advertising appeal. Journal of Advertising, 45(4), 403-416.   
+Kervyn,N.,Fiske,S.T.,& Malone,C.(2O12).Brands as intentional agents framework: How perceived intentions and ability can map brand perception. Journal of Consumer Psychology, 22(2),166-176.   
+Kitayama, S., Markus,H. R., Matsumoto, H.,& Norasakkunkit, V. (1997). Individual and collective processes in theconstruction of the self: Self-enhancement in the United States and self-criticism in Japan.Journal of Personality and Social Psychology, 72(6),1245-1267.   
+Kronrod，A.，Grinstein，A.，& Wathieu,L.(2012). Go green!！ Should environmental messages be so assertive? Journal of Marketing,76(1),95-102.   
+Kolbla,Z., Arslanagic-Kalajdzicb,M.,& Diamantopoulos,A. (2018). Stereotyping global brands: Is warmth more important than competence? Journal of Business Research.   
+Kuenzel,S.,&Halliday,S.V. (2Oo8).Investigating antecedents and consequences of brand identification.Journal of Product & Brand Management, 17(5),293-304.   
+Lam,S.K.，Ahearne,M.，Mullins，R.，Hayati，B.，& Schillewaert,N.(2013).Exploring the dynamics of antecedents to consumer-brand identification with a new brand.Journal of the Academy of Marketing Science,41(2),234-252.   
+LaTour,M. S.，Pits，R.E.，& Snook-Luther, D. C.(199O).Female nudity，arousal,and ad response: An experimental investigation. Journal of Advertising,19(4),51-62.   
+Lee,A.Y.,Aaker, J.L.(20o4). Bringing the frame into focus: The influence of regulatory fit on procesing fluency and persuasion. Journal of Personality and Social Psychology, 86(2): 205-218.   
+Lee,A. Y.,Aaker, J.L.,& Gardner, W.L.(2Ooo).The pleasures and pains of distinct self-construals: The roleof interdependence in regulatory focus. Journal of Personality and Social Psychology, 78(6),1122-1134.   
+Li,D.,& Liu,J. (2O16).The dual mediation model of products' scarcity appeal on consumers'willingness to purchase. Journal of Management Science, 29(3), 81-96.   
+[李东进，刘建新.(2016).产品稀缺诉求影响消费者购买意愿的双中介模型.管理科学,29(3),81-96.] Li, D.,Zhang, C.,& Ma,M. (2O16). Willsimilar products be chosen under the out-of-stock situation? Analysis on the perspective of self-construal. Nankai Business Review, 19(3), 98-109.   
+[李东进，张成虎，马明龙.(2016)．脱销情境下消费者会购买相似品吗——自我建构视角的分析.南开管理评 论,19(3),98-109.]   
+Liu, J.,& Li,D. (2O17). A paratactic and multiple mediating mechanism on the efect of product scarcity appeal on consumer'willingness to purchase.Nankai Business Review, 2O(4),4-15.   
+[刘建新，李东进.(2017).产品稀缺诉求影响消费者购买意愿的并列多重中介机制.南开管理评论，20(4), 4-15.]   
+Mackie，D.M.，& Worth，L.T. (1989).Processng deficits and the mediation of positive affect in persuasion. Journal of Personality and Social Psychology, 57(1),27-40. Malone, C.,& Fiske, S. T. (2O13). The human brand: How we relate to people, products,and companies. San Francisco, United States: Jossey-Bass.   
+Markus，H.R.，& Kitayama，S.(1991).Culture and the self: Implications for cognition，emotion，and motivation. Psychological Review, 98(2),224-253.   
+Mcgowan,M.， Shiu,E.,& Hassan,L. M. (2O17). The influence of social identity on value perceptions and intention. Journal of Consumer Behaviour,16(3),242-253.   
+Mehrabian,A.，& Russel.,J.A. (1974). An approach to environmental psychology. Cambridge， United States: MIT Press .   
+Minton,E.A.,Bret,L.R.,& Upadhyaya, S.(2O18).Religion's influence onconsumer response to moral vs. justice message appeals. International Journal of Consumer Studies, 42(6),768-778.   
+Moore,D.J., Harrs,W.D.，& Chen,H. C.(1995).Affect intensity: An individual difference response to advertising appeals. Journal of Consumer Research, 22(2),154-164.   
+Mueller, B. (1987). Reflections of culture: an analysis of Japanese and American advertising appeals. Journal of Advertising Research, 27(3),51-59.   
+Mummalaneni, V.(2Oo5).An empirical investigation of web site characteristics,consumer emotional states and on-line shopping behaviors.Journal of Business Research,58(4),526-532.   
+Ng,S.，& Houston,M.J.(2O06).Exemplars or beliefs? The impact of self-view on the nature and relative influence of brand associations.Journal of Consumer Research,32(4),519-529.   
+Pan,L.,& Lv, W. (2O13). Application and revision of self-construal scale among working adults. China Journal of Health Psychology,21(5),710-712.   
+[潘黎，吕巍.(2013).自我建构量表在成人中的应用和修订.中国健康心理学杂志,21(5),710-712.]   
+Panda,T. K.,Panda,T.K.,& Mishra, K.(2013). Does emotional appeal work inadvertising? The rationality behind using emotional appeal to create favorable brand atitude.IUP Journal of Brand Management,10(2),7-23. Pang,J.，& Bi,S.(2O15).Effectsof congruencybetween advertising appealand country-of-origin stereotypeon brand attitude. Acta Psychologica Sinica, 47(03), 406-416.   
+[庞隽，毕圣.(2015)．广告诉求-品牌来源国刻板印象匹配度对品牌态度的影响机制.心理学报，47(03), 406-416.]   
+Polyorat, K.& Alden,D.L.(2Oo5).Self-construal and need-for-cognition effects on brand attitudes and purchase intentions in response to comparative advertising in Thailand and the United States. Journal of Advertising, 34(1), 37-48.   
+Puzakova,M., Kwak,H.,& Bell,M. (2O15).Beyond seeing McDonald's Fiesta menu: The role of accent in brand sincerity of ethnic products and brands. Journal of Advertising,44(3),219-231.   
+Ruiz, S.,& Sicilia, M.(2004).The impact of cognitive and/or afective processing styles on consumer response to advertising appeals. Journal of Business Research, 57(6), 657-664.   
+Shankar, V., Azar,P.,& Fuler,M. (2O08). Bran\*eqt: A multicategory brand equity model and its application at allstate. Marketing Science, 27(4), 567-584.   
+Sirgy,M.J. (1982).Self-concept in consumer behavior: A critical review,Journal of Consumer Research, 9(3), 287-300.   
+Spiller,S.A.,Fitzsimons,GJ.,Lynch Jr.,J.G.,&Mcclelland,GH. (2O13).Spotlights,floodlights,andthe magic number zero: Simple effects tests in moderated regression. Journal of Marketing Research, 50(2),277-288. Stokburger-Sauer,N.,Ratneshwar, S.,& Sen, S. (2O12).Drivers of consumer-brand identification. International Journal of Research in Marketing, 29(4), 406-418.   
+Su,L.,Swanson,S.R.,Chinchanachokchai,S.,Hsu, M. K.,& Chen,X. (2O16).Reputation and intentions: The role of satisfaction,identification,and commitment. Journal of Business Research, 69(9),3261-3269. Sui,J.,& Han,S..(2Oo7).Self-construal priming modulates neural substrates of self-awareness.Psychological Science,18(10),861-866.   
+Toreli,C.J. (2O06).Individualityor conformity?The efectof independentand interdependent self-concepts on public judgments.Journal of Consumer Psychology， 16(3),240-248.   
+Torres,P.,Godinho,P.,& Augusto,M. (2O17).Predicting high consumer-brand identification and high repurchase: Necessary and sufficient conditions.Journal of Business Research,79,52-65.   
+Tuskej,U.,Golob,U.,& Podnar,K.(2O13).The role of consumer-brand identification inbuilding brand relationships.Journal ofBusiness Research,66(1),53-59.   
+Wang,C.,Bristol,T.,Mowen,J.,& Chakraborty,G. (2Ooo).Alternative modes of self-construal: Dimensionsof connectedness-separateness and advertising appeals to the cultural and gender-specific self. Journal of Consumer Psychology, 9(2),107-115.   
+Wang,Y.,& Wang,L. (2O16).Self-construaland creativity:The moderator efectof self-esteem.Personality and Individual Differences,99,184-189.   
+Zaichkowsky，J.L.(1994).The personal involvement inventory:Reduction,revision，and application to advertising. Journal ofAdvertising,23(4),59-70.   
+Zarantonello,L.,Jedidi,K.,& Schmitt,B.H. (2Ol3).Functional and experiential routes to persuasion: Ananalysis of advertising in emerging versus developed markets. International Journal of Research in Marketing, $3 { \cal O } ( 1 )$ ， 46-56.   
+Zarantonell,L.,，SchmittB.H.,& Jedidi,K.(2014).How to advertise and build brand knowledge globally? Comparing television advertising appeals across developed and emerging economies.Journal of Advertising Research,54(4),420-434.   
+Zhang,Y.,& Gelb,B.D.(1996).Matching advertising appeals to culture: The influence of products’use conditions.Journal of Advertising,25(3),29-46.
+
+# Warmth or Competence? The Influence of Advertising Appeal and Self-Construal on Consumer-Brand Identification and Purchase Intention
+
+Zhu Zhenzhong1;Liu $\mathrm { F u ^ { 1 } }$ ; Haipeng(Allan) Chen² ( Business School,Shandong University of Technology, Zibo 255ooo,China) (Gatton Schoolof Business and Economics，University of Kentucky，Lexington KY405O6，United States)
+
+Abstract: This paper examines the influence of self-construal on the effectiveness of warm/competent advertising appeals on consumer-brand identification and purchase intention, its underlying mechanism and boundary conditions. Specifically, we propose that a warm (competent) advertising appeal should enhance consumer-brand identification and purchase intention among interdependent (independent) consumers through increased pleasure. In addition, this interaction effect between advertising appeal and self-construal should be mitigated when firm type (modern vs.traditional) is made salient. This is because for modern firms all consumers should prefer a competent advertising appeal, whereas for traditional firms all consumers should prefer a warm advertising appeal, regardless of their self-construal. Three experiments provide empirical support for these predictions,and rule out several rival explanations (including fluency,arousal and involvement).
+
+Study 1 uses a 2 (advertising appeal: warmth/competence） x 2 (self-construal: independent/dependent) between-subject design. A fictitious shampoo brand “Pantam” is selected as the focal stimulus,and the experimental materials are in the form of a print advertisement. In order to minimize the confounds of experimental results by advertising design,both warm and competent ads adopt the same layout and text length. We recruit 116 participants, manipulate the advertising appeal by designing different patterns,backgrounds and ad copies,and measure participants’ self-construal using an existing scale. We confirm the proposed interaction between advertising appeal and self-construal on brand identification. While the results of Study 1 are supportive of our prediction by using a utilitarian product, in a follow-up study we replicate these results using a hedonic product (i.e., chocolate), demonstrating the robustness of our results for different product types.
+
+Study 2 uses a similar between-subject design， using a toothpaste with a fictitious “MysPlant” brand name as the focal stimulus. In order to eliminate the possible confounds in Study 1,a new advertising copy is created. We recruit 149 participants,and manipulate advertising appeal and self-construal. Consistent with our prediction，we confirm the interaction between self-construal and advertising appeal on brand identification and purchase intention. We additionally support the proposed mechanism underlying the interaction efect that is due to an enhanced sense of pleasure,and rule out fluency，arousal,and involvement as possible rival explanations in this and a follow-up study.
+
+Study 3 uses a 2 (advertisement appeal: warmth/competence） x 2 (self-construal: independent/dependent) $\textbf { x } 2$ (firm type: traditional/modern） between-subject design to further test the moderating effect of firm type.Advertising appeal and self-construal are manipulated in similar fashions as in Study 2.The focal stimuli are also similar to those in Study 2.To minimize confounds,we manipulate firm type and verify our manipulation in a pretest. We recruit 278 participants for this study. The results provide support to the moderating effect of firm type and re-confirm the mediation effect of enhanced sense of pleasure. Specifically，we find that for a moder firm all consumers prefer a competent advertising appeal, regardless of teir self-construal. In contrast, for a traditional firm whereas interdependent consumers prefer a warm advertising appeal, independent consumers’ preference for a competent advertising appeal is mitigated and they are indifferent between warm and competent advertising appeals. In addition, these effects are mediated by the sense of pleasure.
+
+Combined, the results from the three experiments (and the replications of Studies 1 and 2) provide strong empirical evidence for the interaction effect between self-construal and advertising appeal on consumer-brand-identification and purchase intention, the moderating effect of the salience of firm type on this interaction effect,and the underlying mechanism due to the sense of pleasure.
+
+Key Words: Self-construal; Competence/Warmth Advertising Appeal； Pleasure；Brand Identification; Purchase intention

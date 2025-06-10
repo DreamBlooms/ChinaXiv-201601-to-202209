@@ -1,0 +1,226 @@
+[
+    {
+        "type": "text",
+        "text": "述评 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大数据 基于高通量测序的抗体组学发展与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张在宝，管茜，张镇海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "南方医科大学器官衰竭防治国家重点实验室//慢性肾病国家临床医学研究中心//南方医院肾内科,广东广州510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：抗体是获得性免疫系统的主要组分，在防御性及致病性免疫反应中起着关键作用。对抗体发生、发展和成熟过程的解析,对研究传染性疾病致病机制、疫苗设计、自免疫疾病发生及进展等有着重要意义。随着高通量测序技术的发展和成熟,抗体研究进人了组学时代。通过对艾滋病患者外周血抗体谱的高通量测序及后续大数据分析挖掘已经在HIV-1广谱抗体研究中取得了丰硕的成果。随着测序技术的进一步发展、测序长度的增加及精度的提高、实验体系的优化、分析流程标准的建立及单细胞抗体测序技术的应用,抗体组学研究前景广阔。本文就抗体组学的技术、发展、应用及问题作简要综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高通量测序；抗体谱；获得性免疫；组学分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Big data: the progress and applications of antibody repertoire sequencing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANGZaibao,GUANQian,ZHANGZhenhai   \nStateKeyboatoryfoOnilesectioalclesechntefdeyieealsionfa   \nSouthern Medical University,Guangzhou 510515 China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Antibody,the major efector inadaptive immunityplays keyroles in protectiveand pathogenic immune responses. Integrativeanalysesofantibodydevelopment,diferentiation,and maturation promotetheresearch inimmune mechanism, vaccine design,and therapies forautoimmune disorders.The development ofnext generationsequencing technologies has enabled large-scale characterization of functional antibody repertoires. With the advantages of next generation sequencing antibodyand antibody repertoire analysis have been sucessfully used in identification of HIV-1-broadly neutralizing antibodies,designofrationalestructure-basedvacine,anddevelopmentof immunology.Withincreasingsequencelengthand precision,improvementof experimental protocolsandbioiformaticsanalyses,anddevelopmentofsinglecellsquencing technology，antibodyrepertoiresequencing will expeditetheresearch inantibody-related immuneresponse，and thus facilitates vaccinedesign for infectious diseases，clinical diagnosisand interferenceofautoimmune diseases.Thisreview introduces the technologies, progresses, applications, and caveats of antibody repertoire sequencing. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: next generation squencing; antibody repertoire; adaptive immune system; bioinformatics analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抗体是指机体的获得性免疫系统在抗原刺激下，由B淋巴细胞经历产生、成熟、增殖、分化并分泌的可与相应抗原发生特异性结合的一类免疫球蛋白[。抗体是由两条完全相同的重链和两条完全相同的轻链由二硫键和非共价键结合[2形成的\"Y\"形对称结构的复合物[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据理化性质和生物学功能不同,抗体分为IgG、IgM、IgA、IgDIgE五类(表1)。IgG抗体占血清Ig总量的 $80 \\%$ ，分为 $\\mathrm { I g G 1 \\_ I g G 2 \\_ I g G 3 \\_ I g G 4 }$ 四个亚类,是机体抗感染的\"主力军\"4-5]。IgG在血清中持续的时间长,半衰期为20\\~23d,是唯一能在母亲妊娠期穿过胎盘的抗体。IgM占血清Ig总量的 $5 \\% { \\sim } 1 0 \\%$ ,是免疫应答中最先分泌的抗体，是机体抗感染的“先头部队”，可用于感染的早期诊断[4-5]。IgA抗体占血清Ig总量的 $10 \\% { \\sim } 1 5 \\%$ ，分为单体型IgA和分泌型IgA。分泌型IgA主要分布于呼吸、消化、生殖等管道的粘膜表面和乳汁、唾液、泪液中，可中和感染因子，参与局部粘膜免疫，是机体抗感染的\"边防军\"4-5]。IgD抗体占血清Ig总量的 $0 . 2 \\%$ ，主要出现在成熟的B淋巴细胞表面上，与B细胞的分化相关[4]。IgE抗体是血清中含量最少的抗体,约占血清Ig总量的$0 . 0 0 3 \\%$ ，主要由粘膜下淋巴组织中的浆细胞分泌，参与超敏反应,与机体抗寄生虫免疫相关[4-5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抗体是B淋巴细胞抗原受体(Bcellantigenreceptor,BCR)的分泌形式，抗体的产生和成熟过程也就是B细胞的产生、发育、增殖和分化的过程[2.3.5]。其重链由V、D、J、C四个基因片段编码的,轻链由V、J、C三个基因片段编码。成熟的B细胞从骨髓释放到外周血中，经过特异性抗原的刺激后会进入淋巴结的生发中心，在生发中心中经过细胞增殖、体细胞超突变、亲和力成熟、抗原受体编辑、种型转化等复杂事件，分化成能分泌特异性抗体的浆细胞和少数的记忆性B细胞[2.3.5]。经过生发中心的体细胞超突变和亲和力成熟过程，进一步增加了抗体谱(Antibodyrepertoire)的多样性,使抗体的数量达到了 $1 0 ^ { 1 3 }$ 的天文数字，并提高了抗体对特异性抗原的亲和力[2.5]",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6db66578888f7bba7a97652761560e74f3f1b325910c1df1d36c1d3a32f1392.jpg",
+        "table_caption": [
+            "表1人抗体的主要理化性质和生物学功能Tab.1Physicochemical property and biological function of human antibodies"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Class</td><td>IgG</td><td>IgM</td><td>IgA</td><td>IgD</td><td>IgE</td></tr><tr><td>Molecular weight (×10)</td><td>150</td><td>950</td><td>160</td><td>184</td><td>190</td></tr><tr><td>High chain</td><td>Y</td><td>μ</td><td>α</td><td>8</td><td></td></tr><tr><td>Isotypes</td><td>4</td><td>2</td><td>2</td><td></td><td></td></tr><tr><td>Constitutes in serum</td><td>~80%</td><td>5%-10%</td><td>10%-15%</td><td>0.2%</td><td>~0.003%</td></tr><tr><td>Functional form</td><td>Monomeric</td><td>Pentameric</td><td>Monomeric/dimeric</td><td>Monomeric</td><td>Monomeric</td></tr><tr><td>Half-life (day)</td><td>23</td><td>10</td><td>6</td><td>3</td><td>2.5</td></tr><tr><td>Function</td><td>Adaptive response anti-infection</td><td>Primary response earlyphase defense</td><td>Mucosal immunity</td><td>Unknown</td><td>Allergies against parasites</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抗体是获得性免疫的主要组分，在防御性及致病性的免疫反应中起关键的作用。通过对抗体发生、发展和成熟过程的解析，促进了对传染性疾病病理机制、疫苗设计、自免疫疾病治疗等免疫学相关的研究。例如，通过对HIV-1缓慢进展患者体内中和广谱抗体产生及成熟通路的解析，以获得具有高效中和效应的HIV-1特异抗体,并开始应用于HIV-1疫苗的研发[3.6-10]。在类风湿性关节炎自免疫疾病中，自身抗体基因IGHV4-34明显富集，可以作为类风湿性关节炎检测的分子标记和免疫治疗的靶点[。通过对抗体发生、发展的深入及全面解析，不仅能增加我们对免疫调节的认识，而且为疾病的治疗和疫苗的研发等临床应用提供新的技术与方案，引领新型治疗性抗体研究的时代",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "低通量测序在抗体研究中的应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着测序技术的发展，抗体组学的研究经历了从低通量到高通量的时代变革。在1990\\~2000年时，主要利用RT-PCR扩增和Sanger测序技术研究少量B细胞的抗体特征[12]。应用这一技术,人们开展了致病病毒如HIV-1、流感病毒的单克隆抗体和自免疫病相关自身抗体的研究。通过抗体测序结合克隆表达，人们获得了第一代HIV-1的广谱抗体如b12、4E10、2G12等抗体[13-17],解析了它们的抗原识别位点，为HIV-1疫苗的研发提供了指导[18-19]。运用这一技术,Wardemann等[20]阐明骨髓中产生自身抗体及多效抗体的B细胞至少经过2步独立的自体耐受性的检测,当这一过程发生异常时会导致产生分泌自身抗体的浆细胞,诱发自身免疫疾病如系统性红斑狼疮和风湿性关节炎[21]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于技术的低通量性，每次实验只能分析几十到几百个B细胞的抗体特性，与抗体谱的巨大数据相比，低通量技术只为我们揭示了冰山的一角。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高通量测序在抗体组学中的应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对免疫系统的认识及对抗体的挖掘及应用需要人们能全面深入的了解抗体谱的整体特征，因通量限制，这个目标是传统技术无法实现的。罗氏454和IlluminaMiseq为代表的下一代测序技术的应用，一次测序即可获得数以百万计的B细胞的抗体可变区域序列。结合分子标记与细胞标记技术，NGS为人们展示了更广阔的抗体谱特性，数据量更加接近人体抗体谱真实数量，使抗体的研究进入了大数据的时代。高通量数据的捕获也使得研究抗体家系及抗体的成熟途径成为现实。以下将从实验的操作、测序平台的选择、数据的分析三个方面详细介绍高通量测序在抗体组学中的进展与应用(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2009年Weinstein等[22首次应用高通量测序技术全面研究了斑马鱼的抗体库特征，揭示不同斑马鱼个体间重链VDJ基因的使用频率存在相似性，促进了高通量测序技术在人抗体组分析中的应用。抗体的高通量测序需要考虑实验设计、重链与轻链配对、数据的分析、挖掘及可视化等问题。近5年高通量测序技术在抗体组学的应用可以分为2个时期：第一个时期为2009\\~2013年，利用抗体可变区与恒定区的混合引物，通过巢式PCR从外周血单个核细胞cDNA中分别扩增抗体重链与轻链基因，然后通过罗氏454测序平台测序(图1A)。应用这一技术从HIV-1患者中分离出了中和力更强的第二代广谱中和抗体，如VRCO1、VRC03、CH103-CH106、CH01-CH04、10E8等。结合结构生物学研究者解析出了HIV-1病毒4个重要的保守表位结构域，分别是CD4结合表位、V1/V2区、V3区、 $\\cdot ^ { \\mathrm { g p 4 1 } }$ 蛋白近膜外周区[23-28]。对这些抗体成熟通路的解析及HIV-1保守表位的分析，可以指导HIV-1疫苗的设计和生产，从而为预防HIV-1提供了新的思路。尽管这些方法发展迅速，但仍存在诸多问题：如混合B细胞样本增加了特异性增殖B细胞克隆分析的难度;设计在V区的正向引物并不能覆盖所有的抗体基因片段，多个正向引物的混合增加了PCR的偏好性;尽管可以从混合的mRNA样本中同时测出抗体的重链与轻链,但失去了体内重链与轻链的配对信息；454测序平台容易引人碱基缺失与插入，增加了后续分析的难度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，新的技术被开发并成功应用到抗体测序中(图1B-D)。DeKosky等2通过物理方法将单个B细胞中的重链与轻链基因连结在一起,实现了内源重链与轻链的配对测序(图1B)。Robinson[30-32]实验室通过细胞标记的方法，在反转录过程中对不同的B细胞cDNA产物5端引入特异性的标记，有利于纠正PCR过程及测序过程中的错误，并保证了内源重链与轻链的配对(图1C)。最近Georgiou[33实验室开发了一套新的低花费、单细胞的油滴PCR技术，既可以保持体内重链与轻链的配对又实现了高通量，每次实验可以分析多达$2 \\times 1 0 ^ { 6 }$ 个B细胞，提高了测序的广度与深度度(图1D)。5'RACE技术的应用,解决了混合引物扩增的偏好性问题，能够更全面的扩增到抗体基因，结合PGM与IlluminaMiSeq平台提高了读段的长度、测序的深度与数据量，更利于抗体组的高通量分析[34]。因此,单细胞测序、重链与轻链配对、5RACE、PGM与IlluminaMiSeq平台应用，将进一步推动抗体组学在抗体生产、自免疫疾病诊断、疫苗生产及癌症相关疾病的研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抗体组学的生物信息分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如何从数据的海洋中挖掘出有用的信息，用于指导抗体的生产和疫苗的设计，是抗体组学工作中面临的巨大挑战。目前抗体分析中常用的软件及工具如图2所示。其中包括的主要步骤如下：对测序得到的原始数据(Rawreads)进行质量控制，滤掉质量低与长度短的读段并获得干净的数据(Cleanreads);利用IgBlast和IMGT对抗体的可变区进行V(D)J生殖系基因定位(VDJannotation)[35-36];根据生殖系基因定位将每个合并的读段剪切至恰好包含整个可变区域；去除冗余数据，对于每个唯一读段(Uniquereads)记录其总数量;系统化注释获得reads的可变区域并提取CDR3区域;分析CDR3区域并获得抗体的家系信息(Clone or lineage);获得每个家系中轻重链可变区域的序列特性，并利用重链和轻链各家系的reads数量进行轻重链配对；对配对好的抗体序列通过实验验证功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用上述分析软件与流程，人们开展了大量的抗体相关工作的分析，促进了数据的分析与挖掘并加快了免疫学的进展。例如我们课题组最近参与的HIV-1中和抗体的研究，通过连续15年样本的大数据量的分析，解析了HIV-1广谱中和抗体VRC01的成熟与变异速率,结合结构生物学的分析，揭示了VRC01抗体的进化机制,对开发HIV-1疫苗具有重大的意义[3]。同时通过对免疫反应中抗体谱数据特征的分析，揭示了年龄、遗传等因素对抗体产生与成熟的影响，为开发相应的针对不同人群的有效疫苗提供了指导[38-39]。然而,相对于高通量数据的快速发展，目前还没有一个统一的分析流程，所有的分析软件主要是借助了一些免费的公用软件，针对抗体分析的专一性软件还没有开发出来。现有的分析流程也存在一些问题，如：IgBlast和IMGT对抗体序列进行比对时，不能纠正序列中的错误,导致比对的不准确性;由于D基因较短,IgBlast和IMGT不能准确地定位D基因；抗体成熟过程中AID酶会引入新的突变，增加了抗体的多样性并提高了抗体的亲和力，然而目前的分析不能区分出AID所介导的突变热点；家系进化树的构建完全依赖于序列相似性，没有考虑原始的生殖基因及AID突变的偏好(Hotspot)，会遗漏掉许多基因并使得进化树不能完全反映细胞内重链与轻链的配对情况。所有这些问题是需要下一步抗体数据分析中得到解决。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "展望 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从以上对抗体组学的发展及应用简述中可以看到，结合高通量测序的抗体组学具有效率高、深度大、基因多样性更丰富、数据反映更准确等优势。最近5年里，高通量测序的抗体组学分析已经成为免疫学的热门方法，促进了包括抗体发生、疫苗研发、肿瘤发生及自免疫疾病等相关免疫学的研究并取得了众多创新性的成果。但到目前为止，抗体组学分析的应用潜力还远未发挥出来，其技术仍受到一些现实条件的约束，如高通量PCR抗体基因扩增技术仍不够完善、测序读段长度与准确性还有待进一步提高、标准的分析流程有待开发完善。随着单细胞分选及测序的应用、PCR扩增基因方法的改善、细胞标记的应用、分析标准的开发，未来抗体组学将在诊断、药理学、疫苗设计及临床应用中发挥前所未有的重大作用，引领新型治疗性抗体研究的时代。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Dorner T,Radbruch A.Antibodies and B cell memory in viral immunity[J].Immunity,2007,27: 384-92.   \n[2]Murphy K.Janeway,s immunobiology[M].2012:127-56.   \n[3]Corti D,Lanzavecchia A. Broadly neutralizing antiviral antibodies [J].Annu Rev Immunol,2013,31:705-42.   \n[4]Lavinder JJ,Wine Y,Giesecke C,et al．Identification and characterization of the constituent human serum antibodies elicited by vaccination[J].PNAS,2014,111(6): 2259-64.   \n[5]Male D,Brostoff J,Roth DB,et al.Immnuology [M].2012: 51-70.   \n[6]Wu XL,Yang ZY,Li YX,et al.Rational design of envelope   \nA: Separated Ig amplification B:Cell barcoding via linkage PCR C: Cell barcoding by forward D:Droplet PCR and reverse primer matrix   \nBulk PBMCs Blymphocytes B lymphocytes Bcell Cell lysis Cellsorting Cell sorting Droplet Bead Single B cells 96 wells with sorted RNA mixcture Cell lysis and mRNA single B cells eand Reverse transcription punfication Cellysis and barcode mRNA mixture addition cDNA mixture Bead with Reverse transcription Pool plates of cell- unique barcode Ig amplification cDNA mixture bacoded cDNA Unpaired Ig library Emulsion-basedlinkage PCR PCR amplification Emo-eed Barcoded Ig sequence VO 小 IgH Paired Ig sequence Forward Reverse Paired Ig sequence YC lgL gLY LnkergH barcode YOC barcodgH lgLLinkergH 中 IgL ↓ 上 Sequencing Sequencing Sequencing Sequencing ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Technicalworkflowforultra-hightroughputantibodyrepertoiresequencing(revisedfromRobinson,015).A:Schaticf thelibrary preparation fordepsequencingusing 454-pyrosequencing.mRNAwas solated from PBMCsand reversetranscribed. Individual PCRreactions were performed fortheIGHand IGLusing family-specific mix primers;B:Cellbarcodingvia linkage PCR.Single Bcelsare isolatedandlysed,thentheirRNAiscapturedbypoly-Tbeads.cDNAsoftheIgHandIgLexpressdby individual Bcelsare then linkedbyemulsiontoRT-PCR,ndthenpooledandsequenced; C:Cellbarcoding byforwardand reverse primer matrix.Single Bcelsaresorted,then V-gene forward primersandC-regionreverse primersareused toadd cel-specificbarcodestoandamplifybyPCR，IgHandIgLcDNAgeneratedfromanindividualBcellSingle-barcoded immunoglobulingenesare then poledand sequenced;D:Microfluidiccombinationof beads withuniquebarcodesand single B cellsinto individual droplets.UsingmicrofluidicssingleBcelsand beadswithuniquebarcodesarecombined in individual droplets, followed by lysis of the B cell,PCR and sequencing. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/341cef689149837d19f605e2106051f20219ab7630993854123b1268c43a680a.jpg",
+        "img_caption": [
+            "图1抗体高通量测序技术流程(修订自Robinson,2015）[12]",
+            "图2抗体组分析的基本流程 Fig.2 Basic workflow for antibody repertoire sequencing projects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "identifies broadly neutralizing human monoclonal antibodies to HIV-1[J]. Science,2010,329: 856-61.   \n[7]Wu XL,Zhou TQ,Zhu J,et al. Focused evolution of HIV-1 neutralizing antibodies revealed by structures and deep sequencing [J].Science,2011,333: 1593-602.   \n[8]Liao HX,Lynch R, Zhou TQ,et al.Co-evolution of a broadly neutralizing HIV-1 antibody and founder virus [J].Nature,2013, 496(7446): 469-76.   \n[9]GaoF,BosignoriM,LiaHX,etal.CooperatioofBceliage in induction of HIV-1-broadly neutralizing antibodies [J]. Cell, 2014,158: 481-91.   \n[10]Mouquet H.Antibody Bcell responses in HIV-1 infection[J]. Trends Immnuol,2014,35(11): 549-61.   \n[11] Doorenspleet ME,Klarenbeek PL,de Hair MJ,et al. Rheumatoid arthritis synovial tissue harbours dominant B-celland plasma-cell clones associated with autoreactivity [J].Ann Rheum Dis,2014,73 (4): 756-62.   \n[12]Robinson WH. Sequencing the functional antibody repertoirediagnostic and therapeutic discovery [J]. Nat Rev Rheumatol, 2015, 11(3): 171-82.   \n[13]Gorny MK, Xu JY, Karwowska S,et al. Repertoire of neutralizing human monoclonal antibodies specific for the V3 domain of HIV-1 gp120.JImmunol,1993,150(2): 635-43.   \n[14] Thali M,Moore JP,Furman C,et al. Characterization of conserved human immunodeficiency virus type 1 gpl20 neutralization epitopes exposed upon gpl20-CD4 binding[J]JVirol,1993,67(7): 3978-88.   \n[15]Burton DR,Barbas CF3rd,Persson MA,et al. A largearrayof human monoclonal antibodies to type 1 human immunodeficiency virus from combinatorial libraries of asymptomatic seropositive individuals [J]. PNAS,1991,88(22): 10134-7.   \n[16]Trkola A,Purtscher M, Muster T,et al. Human monoclonal antibody 2G12 defines a distinctive neutralization epitope on the gp120 glycoprotein of human immunodeficiency virus type 1[J]. J Virol, 1996, 70(2): 1100-8.   \n[17]Buchacher A,Predl R, Strutzenberger K,et al. Generation of human monoclonal antibodies against HIV-1 proteins； electrofusion and Epstein-Barr virus transformation for peripheral blood lymphocyte immortalization [J].AIDS Res Hum Retroviruses,1994,10(4): 359-69.   \n[18]Burton DR,Ahmed R,Barouch DH,et al.A Blueprint for HIV vaccine discovery [J].Cell Host Microbe,2012,12(4): 396-407.   \n[19]HaynesBF,Kelsoe G,Harrison SC，et al.B-cel-lineage immunogen design in vaccine development with HIV-1 as a case study [J]. Nat Biotechnol,2012,30(5): 423-33.   \n[20] Wardemann H, Yurasov S,Schaefer A，et al.Predominant autoantibody production by early human B cell precursors [J]. Science,2003,301(5638): 1374-7.   \n[21]Mefre E,Wardemann H. B-cel tolerance checkpoints in health and autoimmunity [J].Curr Opin Immunol, 2008,20: 632-8.   \n[22] Weinstein JA,Jiang N，White II RA,et al.High-throughput sequencing of the Zebrafish antibody repertoire[J]. Science,2009, 324(5928): 807-10.   \n[23] Scheid JF, Mouquet H, Ueberheide B,etal. Sequence and structural convergence of broad and potent HIV antibodies that mimic CD4 binding[J]. Science,2011,333(6049): 1633-7.   \n[24]Bonsignori M, Wiehe K, Grimm SK,et al.An autoreactive antibody from an SLE/HIV-1 individual broadly neutralizes HIV-1[J].J Clin Invest,2014,124(4): 1835-43.   \n[25]Bonsignori M,Hwang KK,Chen X,et al. Analysis of a clonal lineage of HIV-1 envelope V2/V3conformational epitope-specific broadly neutralizing antibodies and their inferred unmutated common ancestors [J].JVirol,2011,85(19): 9998-10009.   \n[26] Liao HX,Chen X,Munshaw S,et al. Initial antibodies binding to HIV-1 gp41 in acutely infected subjects are polyreactive and highly mutated [J].JExp,2011,208(11): 2237-49.   \n[27] Doria-Rose NA,Schramm CA,Gorman J,et al. Developmental pathway for potent V1V2-directed HIV-neutralizing antibodies [J]. Nature,2014,509(7498): 55-62.   \n[28]Zhu J, ODellS,Ofek G,et al. Somatic populations of PGT135-137 HIV-1-neutralizingantibodiesidentifiedby454pyrosequencing and bioinformatics [J].Front Microbiol,2012,3:315.   \n[29]DeKosky BJ,Ippolito GC,Deschner RP,et al.High-throughput sequencing of the paired human immunoglobulin heavy and light chain repertoire[J].Nat Biotech,2013,31(2):166-9.   \n[30]Tan YC，Konqpachith S，Blum LK，etal.Barcode-enabled sequencing of plasmablast antibody repertoires in rheumatoid arthritis [J].Arthritis Rheumatol,2014,66(10): 2706-15.   \n[31]Tan YC，Blum LK,Konqpachith S,et al.High-throughput sequencing of natively paired antibody chains provides evidence for original antigenic sin shaping the antibody response to influenza vaccination [J].Clin Immunol,2014,151(1): 55-65.   \n[32]Lu DR,Tan YC,Konqpachith S,et al.Identification of functional anti-Staphylococcusaureusantibodiesby sequencingpatient plasmablast antibody repertoires [J]. Clin Immunol,2014,152 (1-2): 77-89.   \n[33] DeKosky BJ,Kojima T,Rodin A,et al. In-depth determination and analysis of the human paired heavy-and light-chain antibody repertoire[J]. Nat Med,2015,21(1): 86-91.   \n[34] He LL,Sok D,Azadnia P,et al. Toward a more accurate view of human B-cell repertoire by next-generation sequencing,unbiased repertoire capture and single-molecule barcoding [J].Sci Rep, 2014,4: 6778.   \n[35] Brochet X,Lefranc MP, Giudicelli V. IMGT/V-QUEST: the highly customized and integrated system for IG and TR standardized V-J and V-D-J sequence analysis [J].Nucleic Acids Res,2O08,36: W503-8.   \n[36] Ye J,Ma N, Madden TL,et al. IgBlast: an immunoglobulin variable domain sequence analysis tool [J]. Nucleic Acids Res,2013,41: W34-40.   \n[37] Wu XL, Zhang ZH, Schramm CA,et al. Maturation and diversity of the VRCO1-antibody lineage over 15 years of chronic HIV -1 infection[J]. Cell,2015 (In press).   \n[38]Wu YC B,Kipling D,Dunn-Walters DK. Age-related changes in human peripheral blood IGH repertoire following vaccination [J]. Frontiers in Immunology,2012,3(193):1-12.   \n[39]Jiang N,He JK,Weinstein JA,etal. Lineage structure of the human antibody repertoire in response to influenza vaccination [J].Sci Transl Med,2013,5(171):171ra19. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 4
+    }
+]

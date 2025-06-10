@@ -1,0 +1,838 @@
+[
+    {
+        "type": "text",
+        "text": "From limited-aperture to full-aperture ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaodong Liu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 100190 Beijing， China. xdliu@amt.ac.cn (XL) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many numerical methods have been proposed in the last 30 years for inverse problems. While very successful in many cases, progress has lagged in other areas of applications which are forced to rely on limited-aperture measurements. In this paper,we introduce some techniques to retrieve the other data that can not be measured directly. We consider the inverse acoustic scattering of time harmonic plane waves and take the scattering amplitude to be the measurements. Assume that the scattering amplitude can only be measured with observation directions restricted in $S _ { 0 } ^ { n - 1 }$ ,which is compactly supported in the unit sphere.Based on the reciprocity relation of the scattering amplitude,we prove a special symmetric structure of the corresponding multi-static response matrix. This will also be verified by numerical examples. Combining this,with the help of the Green's formula for the scattered feld, we introduce an iterative scheme to retrieve approximate full-aperture scattering amplitude. As an application,usig a recently proposed direct sampling method [28],we consider the fast and robust sampling methods with limited-aperture measurements. Some numerical simulations are conducted with noisy data,and the results will further verify the efectiveness and robustness of the proposed data retrieval method and of the sampling method for inverse acoustic scattering problems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Acoustic scattering，scattering amplitude, Multi-Static Response matrix, limited-aperture problem, direct sampling method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AMS subject classifications:35P25,35Q30,45Q05,78A46 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The field of inverse scattering theory has been a large and fast-developing area of applied mathematics for the past thirty years. The aim of research is to detect and identify the unknown objects through the use of acoustic, electromagnetic,or elastic waves. In the past thirty years, many numerical methods have been proposed to solve such kinds of problems ， such as iterative methods,decomposition methods, linear sampling method, factorization method and direct sampling methods; we refer to [5,6, 9,10,11,13,15,17,19,20,21,22, 24, 26,27,28, 38,39] and the references therein for these methods and some other related developments. The reader can also consult the recent monographs and review papers [3,7, 8,18,32, 37] for a survey on the numerical methods. Most of the above research has considered full-aperture inverse scattering problems, i.e., the observation directions span the unit sphere. However, in many cases of practical interest，it is impossble to measure the data in all directions around the objectS, e.g.,underground mineral prospection, mines locating in the battlefield,and anti-submarine detection. Correspondingly, in many studies[1, 4,8,14,16,18,23, 25,34,35,40], various reconstruction algorithms have considered limited-aperture inverse scattering problems. Even if uniqueness of the inverse problems can be proved (see e.g., in [12, 29]), as one would expect, the quality of the reconstructions decreases drastically for this so called limited-aperture problem, and will actually deteriorates as the aperture decreases. Indeed， limited-aperture data can present a severe challenge for the numerical methods. A typical feature of the limited-aperture results is that the \"shadow region\" is highly elongated down range [8, 23]. Physicaly, the information available from the \"shadow region\" is very weak, in particular for high frequency waves[34l. For the two-dimensional problems the numerical experiments of Decomposition Methods in [16, 40] indicate that satisfactory reconstructions need an aperture not smallr than 180 degrees. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All the above research use the limited-aperture data directly for the corresponding inverse problems. Our main contribution in this paper is， based on the model, to introduce some techniques to retrieve the data that can not be measured directly. Thus the limited-aperture problem has actually been changed into the classical full-aperture problem. We take as our model problem the acoustic scattering by time-harmonic plane waves. In this work, the measurements are only taken over a limited range of angles. Contrary to this,as the first step,we use plane waves from all directions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We begin with the formulations of the acoustic scattering problems. Let $k = \\omega / c > 0$ be the wave number of a time harmonic wave where $\\omega > 0$ and $c > 0$ denote the frequency and sound speed，respectively. Let $\\Omega \\subset \\mathbb { R } ^ { n } ( n = 2 , 3 )$ be an open and bounded domain with Lipschitzboundary $\\partial \\Omega$ such that the exterior $\\mathbb { R } ^ { n } \\backslash \\Omega$ is connected. Furthermore, let the incident field $u ^ { i }$ be a plane wave of the form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { i } ( x ) \\ = \\ u ^ { i } ( x ; d ) = e ^ { i k x \\cdot d } , \\quad x \\in \\mathbb { R } ^ { n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $d \\in S ^ { n - 1 }$ denotes the direction of the incident wave and $S ^ { n - 1 } : = \\{ x \\in \\mathbb { R } ^ { n } : | x | = 1 \\}$ is the unit sphere in $\\mathbb { R } ^ { n }$ . Then the scattering problem for the inhomogeneous medium is to find the total field $u = u ^ { i } + u ^ { s }$ such that ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Delta u + k ^ { 2 } ( 1 + q ) u = 0 \\quad \\mathrm { i n ~ } \\mathbb { R } ^ { n } , } \\\\ { \\displaystyle \\operatorname* { l i m } _ { r : = | x | \\to \\infty } r ^ { \\frac { n - 1 } { 2 } } \\left( \\frac { \\partial u ^ { s } } { \\partial r } - i k u ^ { s } \\right) = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $q \\in L ^ { \\infty } ( \\mathbb { R } ^ { n } )$ such that $\\Im ( q ) \\ge 0$ and $q = 0$ in $\\mathbb { R } ^ { n } { \\backslash } \\overline { { \\Omega } }$ , the Sommerfeld radiating condition (1.3)holds uniformly with respect to all directions $\\hat { x } : = x / | x | \\in S ^ { n - 1 }$ .If the scatterer $\\Omega$ is impenetrable, the direct scattering is to find the total field $u = u ^ { i } + u ^ { s }$ such that ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Delta u + k ^ { 2 } u = 0 \\quad \\mathrm { i n ~ } \\mathbb { R } ^ { n } \\backslash \\overline { { \\Omega } } , } \\\\ { \\mathcal { B } ( u ) = 0 \\quad \\mathrm { o n ~ } \\partial \\Omega , } \\\\ { \\displaystyle \\operatorname* { l i m } _ { r : = | x |  \\infty } r ^ { \\frac { n - 1 } { 2 } } ( \\frac { \\partial u ^ { s } } { \\partial r } - i k u ^ { s } ) = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { B }$ denotes one of the following three boundary conditions: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 ) \\mathcal { B } ( u ) : = u \\mathrm { ~ o n ~ } \\partial \\Omega ; \\qquad ( 2 ) \\mathcal { B } ( u ) : = \\frac { \\partial u } { \\partial \\nu } \\mathrm { ~ o n ~ } \\partial \\Omega ; \\qquad ( 3 ) \\mathcal { B } ( u ) : = \\frac { \\partial u } { \\partial \\nu } + \\lambda u \\mathrm { ~ o n ~ } \\partial \\Omega\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "corresponding,respectively, to the case when the scatterer $\\Omega$ is sound-soft, sound-hard, and of impedance type. Here, $\\nu$ is the unit outward normal to $\\partial \\Omega$ and $\\lambda \\in L ^ { \\infty } ( \\partial \\Omega )$ is the (complex valued) impedance function such that $\\Im ( \\lambda ) \\geq 0$ almost everywhere on $\\partial \\Omega$ . Uniqueness of the scattering problems (1.2)-(1.3) and (1.4)-(1.6) can be shown with the help of Green's theorem, Rellich's lemma and unique continuation principle, see e.g.,[12]. The proof of existence can be done by variational approaches (cf. [12,36] for the Dirichlet boundary condition and [7, 33] for other boundary conditions) or by integral equation methods (cf.[12, 30, 31]). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Every radiating solution of the Helmholtz equation has the folowing asymptotic behavior at infinity [18, 28]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { s } ( x ; d ) = { \\frac { e ^ { i { \\frac { \\pi } { 4 } } } } { \\sqrt { 8 k \\pi } } } ( e ^ { - i { \\frac { \\pi } { 4 } } } { \\sqrt { \\frac { k } { 2 \\pi } } } ) ^ { n - 2 } { \\frac { e ^ { i k r } } { r ^ { \\frac { n - 1 } { 2 } } } } \\{ u ^ { \\infty } ( { \\hat { x } } ; d ) + { \\mathcal { O } } ( { \\frac { 1 } { r } } ) \\} \\quad { \\mathrm { a s ~ } } r : = | x |  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "uniformly with respect to all directions $\\hat { x } : = x / | x | \\in S ^ { n - 1 }$ . The complex valued function $u ^ { \\infty } ( { \\hat { x } } ) =$ $u ^ { \\infty } ( \\hat { x } ; d )$ defined on the unit sphere $S ^ { n - 1 }$ is known as the scattering amplitude or far-field pattern with ${ \\hat { x } } \\in S ^ { n - 1 }$ denoting the observation direction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is well known that the scatterer $\\Omega$ can be uniquely determined by the scattering amplitude （20 $u ^ { \\infty } ( \\hat { x } , d )$ for all ${ \\hat { x } } , d \\in S ^ { n - 1 }$ [12].Due to analyticity, for uniqueness it suffices to known the scattering amplitude on a subset $S _ { 0 } ^ { n - 1 } \\subset S ^ { n - 1 }$ with nonempty interior. Unfortunately, the analytic continuation is a strongly ill-posed problem,which is established by the diabolical theorem (see Atkinson [2]). To the author's knowledge,there exists no suffcient numerical method for the analytic continuation in our case. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In section 2, we begin with an introduction of the multistatic response (MSR) matrix, which is the scattering amplitude in the finite case. With the help of the reciprocity relation of the scattering amplitude,we find that the MSR matrix can be regarded as a 2-by-2 block matrix with special symmetric properties. Based on this fact, we are able to retrieve directly and exactly part of the scattering amplitude in special angles. In subsection 2.2, using the Green's formula, we introduce a technique to compute the scattering amplitude in the rest angles. Together with the technique proposed in subsection 2.1,a novel algorithm is proposed to retrieve full-aperture data from limited-aperture data. As an application, in section 3, we introduce some direct sampling indicator functionals for inverse acoustic problems by using only limited-aperture data or retrieved full-aperture data. Some numerical simulations in two dimensions will be presented in section 4 to verify our novel algorithms. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For simplicity, in later sections, we restrict our presentation to the two-dimensional case. The three-dimensional analysis, although more complex, presents essentially no further complications. Actually, allthe results of this paper remain valid in three dimensions after appropriate modifications of the fundamental solution and the radiation condition. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Date retrieval from the model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In $\\mathbb { R } ^ { 2 }$ ， we choose an equidistant set of knots $\\theta _ { i } : = ( i - 1 ) \\pi / m$ ， $i = 1 , 2 , \\ldots , 2 m$ from $[ 0 , 2 \\pi )$ Assume that we have a set of incident plane waves with incident directions ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i } : = ( \\cos \\theta _ { i } , \\sin \\theta _ { i } ) , i = 1 , 2 , \\ldots , 2 m .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The scattering amplitude are measured in different observation directions ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { x } _ { j } : = ( \\cos \\theta _ { j } , \\sin \\theta _ { j } ) , j = 1 , 2 , \\ldots , 2 m .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the finite case we define the multi-static response (MSR) matrix $\\mathbb { F } _ { f u l l } \\in \\mathbb { C } ^ { 2 m \\times 2 m }$ by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbb { F } _ { f u l l } : = \\left( \\begin{array} { c c c c } { u _ { 1 , 1 } ^ { \\infty } } & { u _ { 1 , 2 } ^ { \\infty } } & { \\cdot \\cdot \\cdot } & { u _ { 1 , 2 m } ^ { \\infty } } \\\\ { u _ { 2 , 1 } ^ { \\infty } } & { u _ { 2 , 2 } ^ { \\infty } } & { \\cdot \\cdot \\cdot } & { u _ { 2 , 2 m } ^ { \\infty } } \\\\ { \\vdots } & { \\vdots } & { \\cdot } & { \\vdots } \\\\ { u _ { 2 m , 1 } ^ { \\infty } } & { u _ { 2 m , 2 } ^ { \\infty } } & { \\cdot \\cdot \\cdot } & { u _ { 2 m , 2 m } ^ { \\infty } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $u _ { i , j } ^ { \\infty } = u ^ { \\infty } ( \\hat { x } _ { j } ; d _ { i } )$ for $1 \\leq i , j \\leq 2 m$ corresponding to $2 m$ observation directions ${ \\hat { x } } _ { j }$ and $2 m$ incident directions $d _ { i }$ . The MSR matrix $\\mathbb { F } _ { f u l l }$ given in (2.1） is regarded as the scattering amplitude in full-aperture. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In practical applications, the scattering amplitude can only be measured in a limited-aperture. After a necessary rotation of the coordinate axes, we may make the assumption without loss of generality that we can take the first $l$ columns of $\\mathbb { F } _ { f u l l }$ to obtain ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbb { F } _ { l i m i t } ^ { ( l ) } : = \\left( \\begin{array} { c } { u _ { 1 , 1 } ^ { \\infty } u _ { 1 , 2 } ^ { \\infty } \\cdot \\cdot \\cdot u _ { 1 , l } ^ { \\infty } } \\\\ { u _ { 2 , 1 } ^ { \\infty } u _ { 2 , 2 } ^ { \\infty } \\cdot \\cdot \\cdot u _ { 2 , l } ^ { \\infty } } \\\\ { \\vdots \\quad \\vdots \\quad \\cdot \\cdot \\quad \\vdots } \\\\ { u _ { 2 m , 1 } ^ { \\infty } u _ { 2 m , 2 } ^ { \\infty } \\cdot \\cdot \\cdot u _ { 2 m , l } ^ { \\infty } } \\end{array} \\right) , \\quad 1 \\leq l < 2 m .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In other words,a realistic inverse problem is to reconstruct $\\Omega$ from the matrix $\\mathbb { F } _ { l i m i t } ^ { ( l ) } \\in \\mathbb { C } ^ { 2 m \\times l }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Structure of the MSR matrix and its application ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We want to remark that $\\mathbb { F } _ { f u l l }$ is NOT a symmetric matrix, i.e., $\\mathbb { F } _ { f u l l } \\neq \\mathbb { F } _ { f u l l } ^ { T }$ . Here and throughout the paper we use the superscript $^ { \\dag \\mathfrak { n } } T ^ { \\dag \\mathfrak { n } }$ to denote the transposition of a matrix. We can partition both the rows and columns of the $2 m$ -by- $2 m$ MSR matrix $\\mathbb { F } _ { f u l l }$ to obtain a 2-by-2 block matrix ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbb { F } _ { f u l l } = \\left( \\begin{array} { l l } { \\mathbb { F } _ { 1 1 } } & { \\mathbb { F } _ { 1 2 } } \\\\ { \\mathbb { F } _ { 2 1 } } & { \\mathbb { F } _ { 2 2 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbb { F } _ { i j } \\in \\mathbb { C } ^ { m \\times m } , i , j = 1 , 2$ designates the $( i , j )$ block (submatrix). The following theorem indicates the structures for each submatrix. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.1. ${ \\mathbb K } _ { 1 1 } = { \\mathbb F } _ { 2 2 } ^ { T } , \\quad { \\mathbb F } _ { 1 2 } = { \\mathbb F } _ { 1 2 } ^ { T } \\ u n d \\ { \\mathbb F } _ { 2 1 } = { \\mathbb F } _ { 2 1 } ^ { T } .$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proof.Recall that the scattering amplitude is unchanged if the direction of the incident field and the observation direction are interchanged [12], i.e., ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { \\infty } ( { \\hat { x } } , d ) = u ^ { \\infty } ( - d , - { \\hat { x } } ) , \\quad { \\mathrm { f o r ~ a l l ~ } } { \\hat { x } } , d \\in S ^ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For all $u _ { i , j } ^ { \\infty } \\in \\mathbb { F } _ { 1 1 }$ ,using the reciprocity relation (2.4),we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l } { { u _ { i , j } ^ { \\infty } } } & { { = } } & { { u ^ { \\infty } ( \\hat { x } _ { j } ; d _ { i } ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( - d _ { i } ; - \\hat { x } _ { j } ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( - ( \\cos { \\theta _ { i } } , \\sin { \\theta _ { i } } ) ; - ( \\cos { \\theta _ { j } } , \\sin { \\theta _ { j } } ) ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( ( \\cos ( { \\theta _ { i } } + \\pi ) , \\sin ( { \\theta _ { i } } + \\pi ) ) ; ( \\cos ( { \\theta _ { j } } + \\pi ) , \\sin ( { \\theta _ { j } } + \\pi ) ) ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( ( \\cos { \\theta _ { i + m } } , \\sin { \\theta _ { i + m } } ) ; ( \\cos { \\theta _ { j + m } } , \\sin { \\theta _ { j + m } } ) ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { = } & { { } u _ { j + m , i + m } ^ { \\infty } , \\quad 1 \\leq i , j \\leq m . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus, we have $\\mathbb { F } _ { 1 1 } = \\mathbb { F } _ { 2 2 } ^ { T }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similarly, For all $u _ { i , j + m } ^ { \\infty } \\in \\mathbb { F } _ { 1 2 }$ , using the reciprocity relation (2.4) again, we have ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l c l } { { u _ { i , j + m } ^ { \\infty } } } & { { = } } & { { u ^ { \\infty } ( \\hat { x } _ { j + m } ; d _ { i } ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( - d _ { i } ; - \\hat { x } _ { j + m } ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( - ( \\cos \\theta _ { i } , \\sin \\theta _ { i } ) ; - ( \\cos \\theta _ { j + m } , \\sin \\theta _ { j + m } ) ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( ( \\cos ( \\theta _ { i } + \\pi ) , \\sin ( \\theta _ { i } + \\pi ) ) ; ( \\cos ( \\theta _ { j + m } + \\pi ) , \\sin ( \\theta _ { j + m } + \\pi ) ) ) } } \\\\ { { } } & { { = } } & { { u ^ { \\infty } ( ( \\cos \\theta _ { i + m } , \\sin \\theta _ { i + m } ) ; ( \\cos \\theta _ { j } , \\sin \\theta _ { j } ) ) } } \\\\ { { } } & { { = } } & { { u _ { j , i + m } ^ { \\infty } , \\quad 1 \\le i , j \\le m . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus, we have $\\mathbb { F } _ { 1 2 } = \\mathbb { F } _ { 1 2 } ^ { T }$ . The equality $\\mathbb { F } _ { 2 1 } = \\mathbb { F } _ { 2 1 } ^ { T }$ can be treated analogously. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Clearly, the above results also hold for phaseless MSR matrix. If we set ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widehat { \\mathbb { F } } _ { f u l l } : = \\left( \\begin{array} { l l } { \\mathbb { F } _ { 1 2 } } & { \\mathbb { F } _ { 1 1 } } \\\\ { \\mathbb { F } _ { 2 2 } } & { \\mathbb { F } _ { 2 1 } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "then $\\hat { \\mathbb F } _ { f u l l }$ is symmetric, i.e, $\\widehat { \\mathbb { F } } _ { f u l l } = \\widehat { \\mathbb { F } } _ { f u l l } ^ { T }$ .We want toemphasize again that the MSR matrix $\\mathbb { F } _ { f u l l }$ is NOT symmetric. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As a direct consequence of Theorem 2.1 one has immediately the following technique. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First technique to retrieve new data. All the data $u _ { i , j } ^ { \\infty }$ ， $1 \\leq i \\leq 2 m , l < j \\leq 2 m$ are missed in the measurements. However,by using Theorem 2.1, the following data ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\mathbb { F } } _ { l i m i t } ^ { ( l ) } : = \\left( \\begin{array} { l } { u _ { m + 1 , l + 1 } ^ { \\infty } u _ { m + 1 , l + 2 } ^ { \\infty } \\cdots u _ { m + 1 , 2 m } ^ { \\infty } } \\\\ { u _ { m + 2 , l + 1 } ^ { \\infty } u _ { m + 2 , l + 2 } ^ { \\infty } \\cdots u _ { m + 2 , 2 m } ^ { \\infty } } \\\\ { \\vdots \\qquad \\vdots \\qquad \\ddots \\qquad \\vdots } \\\\ { u _ { m + l , l + 1 } ^ { \\infty } u _ { m + l , l + 2 } ^ { \\infty } \\cdots u _ { m + l , 2 m } ^ { \\infty } } \\end{array} \\right) , \\quad 1 \\leq l < 2 m ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "have actually also be exactly retrieved. Here, we have set $u _ { i , j } ^ { \\infty } : = u _ { i - 2 m , j } ^ { \\infty }$ if $i > 2 m , 1 \\leq j < 2 m$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 Green's formula and its application ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Let $B$ be a bounded domain with connected complement such that ${ \\overline { { \\Omega } } } \\subset B$ and the boundary （204号 $\\partial B$ is of class $C ^ { 2 }$ Let $\\nu$ denote the unit normal vector to the boundary $\\partial B$ directed into the exterior of $B$ . We recall that the fundamental solution $\\Phi ( x , y ) , x \\in \\mathbb { R } ^ { 2 } , x \\neq y$ ,of the Helmholtz equation is given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi ( x , y ) : = \\frac { i } { 4 } H _ { 0 } ^ { ( 1 ) } ( k | x - y | ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { 0 } ^ { ( 1 ) }$ is the Hankel function of the first kind of order zero.Disregarding the scatering objects, the scattered field $\\boldsymbol { u } ^ { s } ( \\cdot ; d )$ is a radiating solution to the Helmholtz equation in $\\mathbb { R } ^ { 2 } \\backslash \\overline { { B } }$ Then we have Green's formula [12] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { s } ( x ; d ) = \\int _ { \\partial B } \\left\\{ u ^ { s } ( y ; d ) \\frac { \\partial \\Phi ( x , y ) } { \\partial \\nu ( y ) } - \\frac { \\partial u ^ { s } ( y ; d ) } { \\partial \\nu ( y ) } \\Phi ( x , y ) \\right\\} d s ( y ) , \\quad x \\in \\mathbb { R } ^ { 2 } \\backslash \\overline { { B } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Letting $x$ tend to the boundary $\\partial B$ , with the help of jump relations,it can be shown that $( \\phi , \\psi ) : =$ $\\begin{array} { r } { \\left. \\left( u ^ { s } , \\frac { \\partial u ^ { s } } { \\partial \\nu } \\right) \\right. _ { \\partial B } \\in H ^ { 1 / 2 } ( \\partial B ) \\times H ^ { - 1 / 2 } ( \\partial B ) } \\end{array}$ must be a solution of the following two boundary integral equations ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\displaystyle \\phi ( x ) = 2 \\int _ { \\partial B } \\left\\{ \\phi ( y ) \\frac { \\partial \\Phi ( x , y ) } { \\partial \\nu ( y ) } - \\psi ( y ) \\Phi ( x , y ) \\right\\} d s ( y ) , \\quad x \\in \\partial B , } \\\\ { \\displaystyle \\psi ( x ) = 2 \\frac { \\partial } { \\partial \\nu ( x ) } \\int _ { \\partial B } \\left\\{ \\phi ( y ) \\frac { \\partial \\Phi ( x , y ) } { \\partial \\nu ( y ) } - \\psi ( y ) \\Phi ( x , y ) \\right\\} d s ( y ) , \\quad x \\in \\partial B . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For later use,we define the space ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW : = \\{ ( \\phi , \\psi ) \\in H ^ { 1 / 2 } ( \\partial B ) \\times H ^ { - 1 / 2 } ( \\partial B ) : ( \\phi , \\psi ) \\mathrm { ~ i s ~ a ~ s o l u t i o n ~ t o ~ } ( 2 . 8 ) - ( 2 . 9 ) . \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the Green's formula (2.7), it is well known that the scattering amplitude $u ^ { \\infty } ( \\cdot ; d )$ has the following form (cf. [18]) ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { \\infty } ( \\hat { x } ; d ) = \\int _ { \\partial B } \\left\\{ u ^ { s } ( y ; d ) \\frac { \\partial e ^ { - i k \\hat { x } \\cdot y } } { \\partial \\nu ( y ) } - \\frac { \\partial u ^ { s } } { \\partial \\nu } ( y ; d ) e ^ { - i k \\hat { x } \\cdot y } \\right\\} d s ( y ) , \\quad \\hat { x } \\in S ^ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\boldsymbol { u ^ { s } } , \\frac { \\partial \\boldsymbol { u ^ { s } } } { \\partial \\nu } \\right) \\Big | _ { \\partial B }$ is independent of the variable $\\hat { x }$ a b $\\left( \\boldsymbol { u ^ { s } } , \\frac { \\partial \\boldsymbol { u ^ { s } } } { \\partial \\nu } \\right) \\Big | _ { \\partial B }$ $S _ { 0 } ^ { 1 }$ （204 an open part of the unit sphere $S ^ { 1 }$ with nonempty interior (open relative to ). If we already knowtescatengamplitude i $S _ { 0 } ^ { 1 }$ $\\left( \\boldsymbol { u ^ { s } } , \\frac { \\partial \\boldsymbol { u ^ { s } } } { \\partial \\nu } \\right) \\Big | _ { \\partial B }$ by solving the following integral equation ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( \\phi ( \\cdot ; d ) , \\psi ( \\cdot ; d ) ) ( \\hat { x } ) = u ^ { \\infty } ( \\hat { x } ; d ) , \\quad \\hat { x } \\in S _ { 0 } ^ { 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $F : W \\to L ^ { 2 } ( S _ { 0 } ^ { 1 } )$ is defined by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( \\phi ( \\cdot ; d ) , \\psi ( \\cdot ; d ) ) ( \\hat { x } ) : = \\int _ { \\partial B } \\left\\{ \\phi ( y ; d ) \\frac { \\partial e ^ { - i k \\hat { x } \\cdot y } } { \\partial \\nu ( y ) } - \\psi ( y ; d ) e ^ { - i k \\hat { x } \\cdot y } \\right\\} d s ( y ) , \\quad \\hat { x } \\in S _ { 0 } ^ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.2. The operator $F : W \\to L ^ { 2 } ( S _ { 0 } ^ { 1 } )$ is compact, injective with dense range in $L ^ { 2 } ( S _ { 0 } ^ { 1 } )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proof. The operator $F$ is certainly compact since its kernel is analytic in both variables. Let $( \\phi , \\psi ) \\in W$ satisfy $F ( \\phi ( \\cdot ; d ) , \\psi ( \\cdot ; d ) ) ( \\hat { x } ) = 0$ in $S _ { 0 } ^ { 1 }$ . By analytic we have ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { \\partial B } \\left\\{ \\phi ( y ; d ) \\frac { \\partial e ^ { - i k \\hat { x } \\cdot y } } { \\partial \\nu ( y ) } - \\psi ( y ; d ) e ^ { - i k \\hat { x } \\cdot y } \\right\\} d s ( y ) = 0 , \\quad \\hat { x } \\in S ^ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note that the left hand side of (2.13) is actually the scattering amplitude of the scattered feld （204号 $w ^ { s }$ given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw ^ { s } ( x ) : = \\int _ { \\partial B } \\left\\{ \\phi ( y ; d ) \\frac { \\partial \\Phi ( x , y ) } { \\partial \\nu ( y ) } - \\psi ( y ; d ) \\Phi ( x , y ) \\right\\} d s ( y ) , \\quad x \\in \\mathbb { R } ^ { 2 } \\backslash \\overline { { B } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By Rellich's lemma, from (2.13) we obtain $w ^ { s }$ vanishes in $\\mathbb { R } ^ { 2 } \\backslash \\overline { { B } }$ . Now, using jump relations yields ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\displaystyle 0 = \\frac 1 2 \\phi ( x ) + \\int _ { \\partial B } \\left\\{ \\phi ( y ) \\frac { \\partial \\Phi ( x , y ) } { \\partial \\nu ( y ) } - \\psi ( y ) \\Phi ( x , y ) \\right\\} d s ( y ) , \\quad x \\in \\partial B , } \\\\ { \\displaystyle 0 = \\frac 1 2 \\psi ( x ) + \\frac { \\partial } { \\partial \\nu ( x ) } \\int _ { \\partial B } \\left\\{ \\phi ( y ) \\frac { \\partial \\Phi ( x , y ) } { \\partial \\nu ( y ) } - \\psi ( y ) \\Phi ( x , y ) \\right\\} d s ( y ) , \\quad x \\in \\partial B . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recall that $( \\phi , \\psi ) \\in W$ ，which implies $( \\phi , \\psi )$ is also a solution of the boundary integral equations (2.8)-(2.9). Hence, $\\phi = \\psi = 0$ and $F$ is injective. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We consider the adjoint $F ^ { * }$ of $F$ and show that it is injective as well which proves the denseness of the range of $F$ . For all $h \\in L ^ { 2 } ( S _ { 0 } ^ { 1 } )$ we extend $h$ by zero in $S ^ { 1 } \\backslash S _ { 0 } ^ { 1 }$ to obtain $h \\in L ^ { 2 } ( S ^ { 1 } )$ . Recall the Herglotz wave function $v _ { h }$ of the form ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { h } ( y ) : = \\int _ { S ^ { 1 } } e ^ { i k y \\cdot \\hat { x } } h ( \\hat { x } ) d s ( \\hat { x } ) , \\quad y \\in \\mathbb { R } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Then we obtain that the adjoint operator $F ^ { * } : L ^ { 2 } ( S _ { 0 } ^ { 1 } )  H ^ { - 1 / 2 } ( \\partial B ) \\times H ^ { 1 / 2 } ( \\partial B )$ is given by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ^ { \\ast } h = \\left( \\frac { \\partial v _ { h } } { \\partial \\nu } , - v _ { h } \\right) \\Big | _ { \\partial B } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Indeed, by interchanging the order of integration, we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { ( F ( \\phi , \\psi ) , h ) _ { L ^ { 2 } ( S _ { 0 } ^ { 1 } ) } } & { = } & { \\displaystyle \\int _ { S _ { 0 } ^ { 1 } } \\int _ { \\partial B } \\left\\{ \\phi ( y ; d ) \\frac { \\partial e ^ { - i k \\hat { x } \\cdot y } } { \\partial \\nu ( y ) } - \\psi ( y ; d ) e ^ { - i k \\hat { x } \\cdot y } \\right\\} d s ( y ) \\overline { { { h ( \\hat { x } ) } } } d s ( \\hat { x } ) } \\\\ & { = } & { \\displaystyle \\int _ { \\partial B } \\left\\{ \\phi ( y ; d ) \\frac { \\partial \\overline { { { v _ { h } ( y ) } } } } { \\partial \\nu ( y ) } - \\psi ( y ; d ) \\overline { { { v _ { h } ( y ) } } } \\right\\} d s ( y ) } \\\\ & { = } & { \\displaystyle \\left. \\left( \\phi , \\psi \\right) , \\left( \\frac { \\partial v _ { h } } { \\partial \\nu } , - v _ { h } \\right) \\right. } \\\\ & { = } & { \\displaystyle \\left. ( \\phi , \\psi ) , F ^ { * } h \\right. , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where the last two equalities are understood in the sense of dual paring $\\langle H ^ { 1 / 2 } ( \\partial B ) \\ \\times$ $H ^ { - 1 / 2 } ( \\partial B ) , H ^ { - 1 / 2 } ( \\partial B ) \\times H ^ { 1 / 2 } ( \\partial B ) \\rangle$ . Here and in the following, $\\overline { z }$ denotes the complex conjugate of $z \\in \\mathbb { C }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We proceed by showing that the adjoint operator $F ^ { * }$ is injective. Let $h \\in L ^ { 2 } ( S _ { 0 } ^ { 1 } )$ be such that $F ^ { * } h = 0$ on $\\partial B$ . Again extending $h$ by zero in $S ^ { 1 } \\backslash S _ { 0 } ^ { 1 }$ to obtain $h \\in L ^ { 2 } ( S ^ { 1 } )$ . We find that the Cauchy data of the Herglotz wave function $v _ { h }$ vanishes on $\\partial B$ . Note that the Herglotz wave function $v _ { h }$ is an entire solution of the Helmhlotz equation in $\\mathbb { R } ^ { 2 }$ . Thus by Holmgren's uniqueness theorem we deduce that $v _ { h }$ vanishes identically in $\\mathbb { R } ^ { 2 }$ . This further implies that $h = 0$ on $\\partial B$ （204 [12] and the proof is finished. □ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Second technique to retrieve new data. As described at the begin of this section, assume that we have $2 m$ equidistantly distributed incident directions in $S ^ { 1 }$ ，and we choose the first $l$ directions as the observation directions in $S _ { 0 } ^ { 1 }$ . Then, practically, we obtain the scattering amplitude as shown in the matrix $\\mathbb { F } _ { l i m i t } ^ { ( l ) }$ .Theorem 2.2 indicated that, for every $d _ { i } \\in S ^ { 1 }$ ，we may find a pair of approximate solution $( \\phi , \\psi )$ of the equations (2.8)-(2.9) and (2.11) by using the Tikhonov regularization. Inserting this into formula (2.10),we then obtain the approximate scattering amplitude in other directions in $S ^ { 1 } \\backslash S _ { 0 } ^ { 1 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 From limited-aperture to full-aperture ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on the two techniques proposed in the previous subsections,we introduce an algorithm to retrieve the scattering amplitudes that cannot be measured. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data retrieval scheme: ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "· Step 1. Collect the limited-aperture scattering amplitude $\\mathbb { F } _ { l i m i t } ^ { ( l ) }$ that be measured directly. Set $s = 0$ , which is the iterative numbers.   \nStep2seda $\\widetilde { \\mathbb { F } } _ { l i m i t } ^ { ( l ) }$ shown i (2.2).   \n· Step 3. Based on the second technique, compute the scattering amplitude in the unavailable observation directions ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { n e w } : = \\{ \\hat { x } _ { l + 1 } , \\hat { x } _ { l + 1 } , \\cdot \\cdot \\cdot \\hat { x } _ { l + t } , \\hat { x } _ { 2 m - s t - t + 1 } , \\hat { x } _ { 2 m - s t - t + 2 } , \\cdot \\cdot \\cdot , \\hat { x } _ { 2 m - s t } \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "That is, we compute in the $2 t$ new directions close to the known directions. If $l + t < m$ set $l = l + t , s = s + 1$ and return to Step 2. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "· Step 4. Using the first technique again to obtain the full-aperture scattering amplitude Fi→f· ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We believe the iterative method used in the scheme will increase the accuracy of the full aperture scattering amplitude $\\mathbb { F } _ { l  f }$ . Clearly, the first technique gives more accurate data than the second one. However, we can only retrieve part of the data based on the first technique. Thus, a good approximate solution of the equations (2.8)-(2.9) and (2.11) from the second technique is highly desired. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We finally remark that we make no use of the boundary conditions or topological properties of the underlying object $\\Omega$ . In other words, the full-aperture data is retrieved without knowing in advance the type of the boundary condition or the number of components. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3Applications to sampling methods for inverse scattering problems ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Recently, in [28],we proposed a novel direct sampling method for inverse acoustic scattering problems based on the following indicator functional ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI ( \\boldsymbol { z } ) : = | \\phi ( \\boldsymbol { z } ; - d ) \\mathbb { F } _ { f u l l } \\phi ^ { T } ( \\boldsymbol { z } ; \\hat { \\boldsymbol { x } } ) | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi ( z ; - d ) : = ( e ^ { - i k z \\cdot d _ { 1 } } , e ^ { - i k z \\cdot d _ { 2 } } , \\cdot \\cdot \\cdot , e ^ { - i k z \\cdot d _ { 2 m } } )$ and $\\phi ( z ; \\hat { x } ) : = \\left( e ^ { i k z \\cdot \\hat { x } _ { 1 } } , e ^ { i k z \\cdot \\hat { x } _ { 2 } } , \\cdot \\cdot \\cdot , e ^ { i k z \\cdot \\hat { x } _ { 2 m } } \\right)$ ： Clearly, only matrix multiplications are involved in the computation, thus it is very fast and robust against measurement noise from the numerical point of view. More importantly, the indicator is independent of any a priori information of the unknown scatterers. Theoretically, the indicator functional $I ( z )$ has a positive lower bound if the sampling point $z$ located inside the scatterer,and decays like the bessel functions as the sampling points away from the boundary of the scatterer. Thus it is expect that the indicator takes its maximum on or near the boundary of the scatterer. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A natural modification of the above sampling method for limited-aperture data is to introduce the following indicator ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { l i m i t } ( z ) : = | \\phi ( z ; - d ) \\mathbb { F } _ { l i m i t } ^ { ( l ) } \\phi _ { l i m i t } ^ { T } ( z ; \\hat { x } ) | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where Φlimit(z;x) := (eikz.r1,eikz.x2,..\\* corresponds to the limited-aperture observation diretiosand $\\mathbb { F } _ { l i m i t } ^ { ( l ) }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Recall the limited-aperture data Flimit Flimit given in (2.5)， which is nearly exactly reconstructed by the known data Flim Define $\\phi _ { l i m i t } ( z ; - d ) : = ( e ^ { - i k z \\cdot d _ { m + 1 } } , e ^ { - i k z \\cdot d _ { m + 2 } } , \\cdot \\cdot \\cdot , e ^ { - i k z \\cdot d _ { m + l } } )$ and $\\phi _ { l i m i t } ( z ; \\hat { x } ) : = \\left( e ^ { i k z \\cdot \\hat { x } _ { l + 1 } } , e ^ { - i k z \\cdot \\hat { x } _ { l + 2 } } , \\cdot \\cdot \\cdot , e ^ { - i k z \\cdot \\hat { x } _ { 2 m } } \\right)$ . Then, based on the first data retrieval technique introduced in subsection 2.1, one may also consider the second indicator ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { l i m i t } ^ { \\prime } ( z ) : = | \\phi ( z ; - d ) | \\mathbb { F } _ { l i m i t } ^ { ( l ) } \\phi _ { l i m i t } ^ { T } ( z ; \\hat { x } ) + \\widetilde { \\phi } _ { l i m i t } ( z ; - d ) \\widetilde { \\mathbb { F } } _ { l i m i t } ^ { ( l ) } \\widetilde { \\phi } ^ { T } ( z ; \\hat { x } ) | ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We expect that the quality of the reconstructions can be improved by using the indicator $I _ { l i m i t } ^ { \\prime } ( z )$ ： Finaly, based on the scheme introduced in the previous section,we also introduce the following indicator ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { f u l l } ( z ) : = | \\phi ( z ; - d ) \\mathbb { F } _ { l \\to f } \\phi ^ { T } ( z ; \\hat { x } ) | ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As will seen in the next section, the quality of the reconstructions indeed improved greatly by using the indicator $I _ { f u l l } ( z )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Numerical examples and discussions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Now we turn to present some numerical examples in two dimensions to illustrate the applicability and effectiveness of our data retrieval techniques and novel sampling methods for inverse problems. Al the programs in our experiments are written in Matlab and run on a Core i5-5200U 2.2GHz PC. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There are totally three groups of numerical tests to be considered, and they are respectively referred to as BlockSymmetric, DataRetrieval and SamplingMethods. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the numerical examples,we consider the scattering of plane waves by a cylinder with a non-convex kite-shaped cross section with boundary $\\partial \\Omega$ illustrated in Figure 1 and described by the parametric representation ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { K i t e } : ~ x ( t ) ~ = ( \\cos t + 0 . 6 5 \\cos 2 t - 0 . 6 5 , 1 . 5 \\sin t ) , ~ 0 \\leq t \\leq 2 \\pi .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A commonly used criterion for judging the quality of a reconstruction method is whether the concave part of the obstacle can be successfully recovered. The typical feature in the limitedaperture problems is that the concave part usually failed to be reconstructed if the the observation angles do not cover the concave part of the obstacle. For the synthetic experiments in this section, we used the boundary integral equation method to compute the scattering amplitudes $u _ { p , q } ^ { \\infty }$ ， $p , q = 1 , 2 , \\cdots , 2 m$ ,for $2 m$ equidistantly distributed incident directions and $2 m$ observation directions. These data are then stored in the matrices $\\mathbb { F } _ { f u l l } \\in \\mathbb { C } ^ { 2 m \\times 2 m }$ . We further perturb the scattering amplitude $u _ { p , q } ^ { \\infty }$ by random noise using ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { u _ { p , q } ^ { \\infty , \\delta } = u _ { p , q } ^ { \\infty } + \\delta ( r _ { 1 } + i r _ { 2 } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b77f05442a1b9d02958fe13c537c030e996fb73765c1eb5bc2651f2e417fbb5b.jpg",
+        "img_caption": [
+            "Figure 1: Kite shaped domain for numerical examples "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { 1 }$ and $r _ { 2 }$ are two pseudo-random values drawn from the standard uniform distribution on the open interval . The value of $\\delta$ used in our code thus presents the absolute error levelicht $\\mathbb { F } _ { f u l l } ^ { \\delta }$ the fullaperture measurements. Let Flimit be the matrix from the first $l$ column of Ffull， and thus denote the limited-aperture data. We have used $4 m$ equidistantly distributed nodes to discrete the boundary $\\partial \\Omega$ of the scatterer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Example BlockSymmetric. This example is designed to verify Theorem 2.1. We set the wave number $k = 1$ and $m = 8$ ， i.e.， the scattering amplitude is collected in 16 observation directions and 16 incident directions. The four block matrices are given as follows. It is easy to check that ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathbb K } _ { 1 1 } = { \\mathbb F } _ { 2 2 } ^ { T } , \\quad { \\mathbb K } _ { 1 2 } = { \\mathbb F } _ { 1 2 } ^ { T } \\quad \\mathrm { ~ a n d ~ } \\quad { \\mathbb K } _ { 2 1 } = { \\mathbb F } _ { 2 1 } ^ { T } .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "-1.6275+0.6022i $- 0 . 7 5 9 1 + 0 . 7 7 6 1 i$ （204 （204号 $0 . 2 5 0 7 + 0 . 5 5 1 3 i$ （204号 （20 $0 . 9 2 9 5 + 0 . 3 7 0 9 i$ -1.1468 + 0.6282i $- 1 . 5 9 2 8 + 0 . 5 1 8 2 i$ （204号 $- 0 . 8 1 2 8 + 0 . 9 6 1 0 i$ 0.4977 + 0.9979i   \nF11 -0.4468 + 0.8344i $- 1 . 1 6 6 9 + 0 . 3 1 8 4 i$ （204号 $- 1 . 5 8 9 7 + 0 . 4 5 8 6 i$ （ -0.8128 + 0.9610i -0.0929+0.8101i $- 0 . 4 3 6 6 + 0 . 5 8 0 9 i$ （20 （204号 $- 1 . 1 6 6 9 + 0 . 3 1 8 4 i$ （ -1.5928 + 0.5182i -1.6275 + 0.6022i $- 1 . 1 4 6 8 + 0 . 6 2 8 ^ { } 2 i$ $- 0 . 4 4 6 8 + 0 . 8 3 4 4 i$ （204号 -0.0929 + 0.8101i   \n（204 $\\mathbb { F } _ { 2 2 }$ -0.7591 ± 0.7761i -1.5928 + 0.5182i $- 1 . 1 6 6 9 + 0 . 3 1 8 4 i$ （204号 -0.4366 + 0.5809i 0.2507 ± 0.5513i $- 0 . 8 1 2 8 + 0 . 9 6 1 0 i$ （204号 $- 1 . 5 8 9 7 + 0 . 4 5 8 6 i$ （ -1.1669 + 0.3184i 0.9295 + 0.3709i （204号 $0 . 4 9 7 7 + 0 . 9 9 7 9 i$ $- 0 . 8 1 2 8 + 0 . 9 6 1 0 i$ （204号 -1.5928 + 0.5182i 1.3970 + 0.0950i $0 . 9 2 9 5 + 0 . 3 7 0 9 i$ （ $0 . 2 5 0 7 + 0 . 5 5 1 3 i$ （204号 -0.7591 + 0.7761i 0.9295 + 0.3709i 0.4875 + 0.0213i （204 $0 . 5 5 7 6 + 0 . 0 7 8 0 i$ （204号 （204号 $0 . 1 6 2 5 + 0 . 7 7 5 8 i$ （204号   \nF12 （20 $0 . 2 5 0 7 + 0 . 5 5 1 3 i$ （20 0.5576 + 0.0780i （204号 $0 . 7 9 2 2 + 0 . 3 2 3 2 i$ （204号 （204号 $0 . 4 3 8 1 + 0 . 9 7 7 8 i$ -0.7591 + 0.7761i 0.1625 + 0.7758i （204号 $0 . 4 3 8 1 + 0 . 9 7 7 8 i$ （204号 （204号 $0 . 1 9 0 5 + 1 . 0 3 7 2 i$ （20 0.0471 + 0.7134i $- 0 . 0 9 2 9 + 0 . 8 1 0 1 i$ （204号 $- 0 . 4 4 6 8 + 0 . 8 3 4 4 i$ -1.1468 + 0.6282i -0.0929+ 0.8101i （204号 $0 . 1 9 0 5 + 1 . 0 3 7 2 i$ $0 . 4 3 8 1 + 0 . 9 7 7 8 i$ （20 $0 . 1 6 2 5 + 0 . 7 7 5 8 i$ （20   \nF21 -0.4468 + 0.8344i （20 $0 . 4 3 8 1 + 0 . 9 7 7 8 i$ （20 $0 . 7 9 2 2 + 0 . 3 2 3 2 i$ （204号 （204号 $0 . 5 5 7 6 + 0 . 0 7 8 0 i$ （204号 （20 $- 1 . 1 4 6 8 + 0 . 6 2 8 2 i$ （204号 （20 $0 . 1 6 2 5 + 0 . 7 7 5 8 i$ （204号 （204号 $0 . 5 5 7 6 + 0 . 0 7 8 0 i$ （204号 （204号 $0 . 4 8 7 5 + 0 . 0 2 1 3 i$ （204号 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Example DataRetrieval. In this example,we tested the validity of algorithm proposed in section 2. The same as the previous example, the underlying sound soft obstacle is a kite shaped domain as shown in (4.1). We took wavenumber $k = 5$ ， and compute the scattering amplitude $u ^ { \\infty } ( \\hat { x } _ { j } , d _ { i } )$ ， $i , j = 1 , 2 , \\cdots , 2 5 6$ ，for 256 incident and observation directions. Assume that the scattering amplitude can only be measured in the first 64 directions, i.e., $\\hat { x } _ { j } = ( \\cos \\theta _ { j } , \\sin \\theta _ { j } )$ （204号 with $\\theta _ { j } \\in [ 0 , \\pi / 2 )$ ， $j = 1 , 2 , \\cdots , 6 4$ . The artificial domain $B$ is chosen to be a ball centered at the origin with radius 5. We have used 64 equidistantly distributed nodes to discrete the boundary $\\partial B$ of the artificial domain $B$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the scattering amplitudes in all observation directions corresponding to two incident directions $d = ( 1 , 0 )$ and $d = ( 0 , 1 )$ with absolute error level $\\delta = 0 . 0 2$ .We note that the data carry a considerable amount of noise since $\\mathbb { F } ( 1 , 3 7 ) = - 0 . 0 1 0 1 + 0 . 4 6 4 9 i$ . As expected, the closer to the measurable directions,the better of the data reconstructions. Considering the severe ill-posedness of data retrieval for analytic functions [2],the reconstructed data can be regarded to be a good approximation of the full-aperture measurements. We have also considered the simplest and most common type of interpolation uses polynomials. Figure 2(a)-(b) show a polynomial $p ( x )$ of degree 16 that fits very well the first 64 data in a least squares sense. However, as shown in Figure 2(a)-(b), the method of polynomial interpolation indeed does not work at all for our data retrieval problems. The corresponding result with $\\delta = 0 . 1$ is shown in Figure 3. Surprisingly, the imaginary part sems very robust to the noise. Such a fact is also observed in the later examples, see Figures 4(b,d) and 5(b,d). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the result with incident direction $d = ( - 0 . 9 8 0 8 , 0 . 1 9 5 1 )$ . We observe that the scattering amplitude are reconstructed very well for the observation angles in $[ \\pi , 2 \\pi )$ . Actually, by symmetric property of the block matrix $\\mathbb { F } _ { 1 2 }$ , these data are the same as the scattering amplitude $u ^ { \\infty } ( \\hat { x } _ { 2 4 9 } , d _ { i } )$ ， $i = 1 , 2 , \\cdots , 1 2 8$ . Here,the observation direction $\\hat { x } _ { 2 4 9 } = ( 0 . 9 8 0 8 , - 0 . 1 9 5 1 )$ is very close to measurement angles in $[ 0 , \\pi / 2 )$ ，thus could be reconstructed well by using the second technique. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For incident angles in $[ \\pi , 3 \\pi / 2 ]$ ， we have obtained nearly exact scattering amplitude for all observation directions. In Figure 5 we show results for two directions $d = ( - 1 , 0 )$ and （204号 $d = ( 0 , - 1 )$ . This further verify the special symmetric structure of the multi-static response matrix. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/552cd64771c968bf45a305ade6794e5187a26ab25c4bd1a9c56993ce759ab4f5.jpg",
+        "img_caption": [
+            "Figure 2: Example DataRetrieval. Comparison between true data and reconstructed data with different incident directions $d = ( 1 , 0 )$ ， $( 0 , 1 )$ . The absolute error level $\\delta = 0 . 0 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Example SamplingMethods.As an application, we consider the numerical methods for inverse acoustic scattering problems by using the limited-aperture data. In the simulations,we used a grid $\\mathcal { G }$ of $1 2 1 \\times 1 2 1$ equally spaced sampling points on some rectangle $[ - 6 , 6 ] \\times [ - 6 , 6 ]$ For each point $z \\in { \\mathcal { G } }$ ，we compute the indicator functionals given in (3.1)-(3.4). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The resulting reconstruction by using the indicator functional $I _ { l i m i t } ( z )$ with limited-aperture $\\mathbb { F } _ { l i m i t } ^ { ( 6 4 ) }$   \nconstructed,but the shadow region is highly elongated down range. This is typical of limited  \naperture results. As shown in Figure 6(b)， the reconstruction is improved a little by using ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8bbed4efc12f666b606ed36171fdf4143e6f71adac38668cb00fb13bce08b06.jpg",
+        "img_caption": [
+            "Figure 3: Example DataRetrieval. Comparison between true data and reconstructed data with different incident directions $d = ( 1 , 0 )$ ， $( 0 , 1 )$ . The absolute error level $\\delta = 0 . 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/047b87f4a74342b8890c4fb5bffea743facd720dd1853e46700a8607570b7103.jpg",
+        "img_caption": [
+            "Figure 4: Example DataRetrieval. Comparison between true data and reconstructed data with different incident directions $d = ( - 0 . 9 8 0 8 , 0 . 1 9 5 1 )$ . (a)-(b), $\\delta = 0 . 0 2$ ; (c)-(d), $\\delta = 0 . 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/90b05839d0cdb6548a93681249832d6afbc523dfbd1c8f57428cef5448feb766.jpg",
+        "img_caption": [
+            "Figure 5: Example DataRetrieval. Comparison between true data and reconstructed data with different incident directions $d = ( - 1 , 0 )$ ， $( 0 , - 1 )$ . The absolute error level $\\delta = 0 . 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "the indicator Ilimit C Combining the retrieved scattering amplitude, the quality of the target reconstruction has been improved greatly by using $I _ { l i m i t } ^ { \\prime }$ and ${ { I } _ { f u l l } }$ ， respectively, as shown in Figure 6(b) and Figure 6(c). In particularly, by using the indicator functional $I _ { f u l l } ( z )$ ，the two wings of the kite appear and the shadow region is reconstructed very well. As a comparison, the result by using the indicator functional $I ( z )$ with full-aperture scattering amplitude measurement $\\mathbb { F } _ { f u l l }$ is shown in Figure 6(d). Considering the severe il-posedness of the data reconstruction of an analytic function and the absolute error level $\\delta = 0 . 1$ ， the target reconstruction given in Figure 6(c) is satisfactory. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5 Concluding remarks ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The limited-aperture problems arise in various areas of practical applications such as radar, remote sensing, geophysics,and nondestructive testing. A typical feature of the numerical method with limited-aperture data is that the illuminated part can be reconstructed well while the shadow domain failed to be recovered. In this paper, based on the mathematical model, we introduce Some data retrieval techniques to approximately reconstruct the missing data that can not be measured directly. Both theoretical foundation and numerical experiments are presented. Using the retrieved full-aperture data, the direct sampling method proposed in a recent paper [28] yields satisfactory reconstruction of underlying objects. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We conclude with some remarks for future work. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· The second technique proposed in subsection 2.2 is to solve an il-posed problem. We have used the Tikhonov regularization with regularization parameter $\\alpha = 1 0 ^ { - 1 0 }$ . As observed in Figures 2 and 3, the retrieved data get worse if the direction is far away from the measurable directions. A fast and stable method for solving the equations (2.8)-(2.9) and (2.11) is highly desired. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Recall the following integral equation of the first kind ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\infty } \\phi = u ^ { \\infty } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where the integral operator $S _ { \\infty } : L ^ { 2 } ( \\partial B ) \\to L ^ { 2 } ( S ^ { 1 } )$ is defined by ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( S _ { \\infty } \\phi ) ( { \\hat { x } } ) : = \\int _ { \\partial B } e ^ { - i k { \\hat { x } } \\cdot y } \\phi ( y ) d s ( y ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The integral equation (5.1） plays an important role in the Kirsch-Kress Decomposition method [19],where the auxiliary surface $\\partial B$ is chosen to be contained in the unknown scatterer $\\Omega$ . To retrieve full-aperture data, one may firstly solve the equation (5.1) by the Tikhonov regularization in $L ^ { 2 } ( S _ { 0 } ^ { 1 } )$ and then insert the solution $\\phi$ into $u ^ { \\infty } ( \\hat { x } ) : = ( S _ { \\infty } \\phi ) ( \\hat { x } )$ to obtain the missed data. Unfortunately, the integral operator $S _ { \\infty }$ has an analytic kernel and therefore equation (5.1） is severely ill-posed. Besides,one has to assume that $B$ is contained in the unknown scatterer $\\Omega$ ，which is not reasonable in many applications. We hope to be able to address this method and report the progress elsewhere in the future. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "· Of great practical importance would be limited-aperture data with not only observation directions,but also the incident directions. In particular,a realistic case is to consider the back-scattering limited-aperture data. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce1a07a31b73746e99b135e27ffe8433fb2e0a08b8337a160174984033d717e4.jpg",
+        "img_caption": [
+            "Figure 6: Example SamplingMethods: Shape and location reconstructions by using different indicators. The absolute error level $\\delta = 0 . 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "· It would be interesting and useful to consider the scattering by buried objects, where the measurements are only available in the upper half space. The data for the inverse problem is available over a limited aperture,which implies that the solution of the inverse problem wil be degraded compared to situations in which data can be gathered on a sphere containing the object. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The research of X. Liu was supported by the NNSF of China under grants 11571355, 61379093 and 91430102. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[1] C.Y. Ahn, K. Jeon, Y.K. Ma and W.K. Park, A study on the topological derivative-based imaging of thin electromagnetic inhomogeneities in limited-aperture problems, Inverse Problems 30, (2014)，105004.   \n[2] D.Atkinson, Analytic extrapolations and inverse problems,Applied Inverse Problems (Lecture Notes in Physics 85) ed P. C. Sabatier, (Berlin: Springer),(1978),111-121.   \n[3] G. Bao,P.Li, J.Lin and F. Triki, Inverse scattering problems with multi-frequencies, Inverse Problems,20,(2015)，093001.   \n[4] G.Bao and J. Liu, Numerical solution of inverse problems with multi-experimental limited aperture data, SIAM J.Sci.Comput. 25, (2003)， 1102-1117.   \n[5] O.Bondarenko and X. Liu, The Factorization Method for inverse obstacle scattering with conductive boundary condition. Inverse problems 29, (2013)， 095021.   \n[6] O.Bondarenko,A. Kirsch and X. Liu, The Factorization method for inverse acoustic scattering in a layered medium. Inverse problems 29, (2013), O45010.   \n[7] F. Cakoni and D. Colton， A Qualitative Approach in Inverse Scattering Theory， AMS Vol.188, Springer-Verlag, 2014.   \n[8] F.Cakoni, D.Colton and P. Monk, The Linear Sampling Method in Inverse Electromagnetic Scattering, CBMS-NSF SIAM Publications 80, 2011.   \n[9] Y. Chen, Inverse scattering via Heisenberg's uncertainty principle, Inuerse Problems 13, (1997), 253-282.   \n10] J. Chen, Z. Chen and G. Huang, Reverse Time Migration for Extended Obstacles: Acoustic Waves， Inverse Problems 29,(2013)， 085005.   \n11] D. Colton and A. Kirsch,A simple method for solving inverse scattering problems in the resonance region. Inuerse Problems 12 (1996),383-393.   \n12] D.Colton and R. Kress, Inverse Acoustic and Electromagnetic Scattering Theory (Third Edition)， Springer, 2013.   \n[13] D. Colton and P. Monk, A novel method for solving the inverse scattering problem for timeharmonic acoustic waves in the resonance region, SIAM J.Appl.Math, 45,(1985),1039-1053.   \n[14] M. Ikehata,E. Niemi and S. Siltanen, Inverse obstacle scattering with limited-aperture data, Inverse Probl. Imaging 1, (2012), 77-94.   \n[15] K. Ito, B. Jin，and J. Zou, A direct sampling method to an inverse medium scattering problem， Inverse Problems 28, (2012), 025003.   \n[16] R. L. OCHS, JR.， The limited aperture problem of inverse acoustic scattering: Dirichlet boundary condtions, SIAM J. APPL. MATH. 47(6), (1987),1320-1341.   \n[17] A. Kirsch, Charaterization of the shape of a scattering obstacle using the spectral data of the far field operator, Inverse Problems 14, (1998),1489-1512.   \n[18] A.Kirsch and N.Grinberg, The Factorization Method for Inverse Problems, Oxford University Press, 2008.   \n[19] A. Kirsch and R, Kress,An optimization method in inverse acoustic scattering, In Brebbia et al., editor, Boundary Elements, IX, Vol3, Fluid Flow and Potential Applications, Springer, (1987), 3-18.   \n[20] A. Kirsch and X. Liu. Direct and inverse acoustic scattering by a mixed-type scatterer. Inverse Problems 29, (2013), 065005.   \n[21] A. Kirsch and X.Liu.A modification of the factorization method for the classical acoustic inverse scattering problems, Inuerse Problems 30, (2014), 035013.   \n[22] A. Kirsch and X. Liu. The factorization method for inverse acoustic scattering by a penetrable anisotropic obstacle. Math. Meth. Appl. Sci.37, (2014)，,1159-1170.   \n[23] J.Li, P.Li, H. Liu and X. Liu, Recovering multiscale buried anomalies in a two-layered medium, Inverse Problems 31, (2015)，105006.   \n[24] J. Li, H. Liu and J. Zou, Locating multiple multiscale acoustic scatterers, SIAM Multiscale Model. Simul., 12, (2014), 927-952.   \n[25] P. Li, Y. Wang, Z. Wang and Y. Zhao, Inverse obstacle scattering for elastic waves, Inverse Problems 32, (2016),115018.   \n[26] X.Liu. The factorization method for cavities. Inverse Problems 30, (20l4), 015006.   \n[27] X. Liu. The factorization method for scatterers with different physical properties. Discrete and Continuous Dynamical Systems - Series S 8, (2015)， 563-577.   \n[28] X. Liu, A novel sampling method for multiple multiscale targets from scattering amplitudes at a fixed frequency, Inverse Problems 33,(2017)， O85011.   \n[29] X. Liu and B. Zhang, A uniqueness result for inverse electromagnetic scattering problem in a two-layered medium, Inverse Problems 26, (2010), 105007.   \n[30] X. Liu and B. Zhang, Direct and inverse scattering problem in a piecewise homogeneous medium. SIAM J. Appl. Math., 70,(2010),3105-3120.   \n[31] X.Liu and B. Zhang, Inverse scattering by an inhomogeneous penetrable obstacle in a piecewise homogeneous medium,Acta Math. Sci. Ser. B Engl. Ed.32, (2012),1281-1297.   \n[32] X. Liu and B. Zhang, Recent progress on the factorization method for inverse acoustic scattering problems (in Chinese)， Sci Sin Math, 45, (2015), 873-890.   \n[33] X. Liu, B. Zhang and G. Hu. Uniqueness in the inverse scattering problem in a piecewise homogeneous medium. Inverse Problems 26,(2010) 015002.   \n[34] R.D.Mager and N. Bleistein，An approach to the limited aperture problem of physical optics far field inverse scattering, Tech. Report Ms-R-7704， University of Denver,Denver, CO, 1977.   \n[35] R.D. Mager and N. Bleistein, An examination of the limited aperture problem of physical optics inverse scattering IEEE Trans,Antennas Propag. 26,(1978) 695-699.   \n[36] W. Mclean, Strongly Eliptic Systems and Boundary Integral Equation, Cambridge University Press, Cambridge, 2000.   \n[37] R. Potthast,A survey on sampling and probe methods for inverse problems, Inverse Problems, 22,(2006), R1-R47.   \n[38] R. Potthast, A study on orthogonality sampling, Inverse Problems 26, (201O), 074075.   \n[39] J. Sun, An eigenvalue method using multiple frequency data for inverse scattering problems, Inverse Problems 28, (2012), 025012.   \n[40] A. Zinn, On an optimisation method for the full and limited-amperture problem in inverse acoustic scattering for a sound-soft obstacle, Inverse Problems 5, (1989), 239-253. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

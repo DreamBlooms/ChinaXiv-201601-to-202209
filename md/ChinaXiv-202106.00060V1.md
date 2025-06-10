@@ -1,0 +1,198 @@
+# 乌梁素海冰封期水温与溶解氧浓度变化研究
+
+翟佳伦，史小红，刘禹，赵胜男，宝文智，李国华(内蒙古农业大学水利与土木建筑工程学院,内蒙古 呼和浩特010018)
+
+摘要：采用Morlet小波分析法对2019年乌梁素海冰下水体的温度、溶解氧(DO)浓度进行趋势分析。结果表明：（1）湖泊水体温度存在分层现象，同时,DO浓度也出现不同程度的分层现象。表层DO浓度近一个月时间内保持不变,中层、底层DO浓度随冰封时间的增长开始出现下降,中层下降速率为 $0 . 3 2 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \cdot \mathrm { d } ^ { - 1 }$ ,底层下降速率为 $0 . 0 5 ~ \mathrm { m g }$ .$\mathrm { L } ^ { - 1 } { \boldsymbol { \cdot } } \mathrm { d } ^ { - 1 } { \mathrm { \Omega } _ { \circ } } ( 2 )$ 表层水温主周期是 $2 5 \mathrm { d } , 1 6 \mathrm { d }$ ，在第一主周期下,周期约为 $1 5 \mathrm { d }$ ;DO浓度主周期是23d,平均周期为 $1 5 \mathrm { d }$ 中层水温主周期是 $^ { 1 4 \mathrm { d } , \mathrm { D O } }$ 浓度主周期是 $1 9 \mathrm { d } , 7 . 5 \mathrm { d }$ ，在第一主周期下，水温平均周期约为9d,DO浓度平均周期为5d;底层水温主周期是 $1 4 \mathrm { d } , 2 . 5 \mathrm { d }$ ,DO浓度主周期是 $2 4 \mathrm { d } , 1 0 \mathrm { d } ,$ 。水温变化周期约为8.5d，DO浓度平均周期7d左右。（3）小波相干谱结果表明：湖泊水体温度与DO浓度存在复杂关系,表层、底层水温与DO浓度呈反相位关系;在2\~4d周期尺度上，中层水温变化要早于DO浓度变化约 $2 { \sim } 4 \mathrm { h }$ 。
+
+关键词：乌梁素海；冰封期；水温；溶解氧；小波变换
+
+溶解氧(DO)能够反映水体污染程度，是水生生物生命活动不可缺少的环境因子，同时也是维系水生生物存活和水生态环境平衡的重要因素[1-3]。溶解氧过高或过低均会对水生生物尤其是鱼类产生不利影响。当水体中溶解氧浓度大于 $1 4 . 4 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ，导致鱼类产生泡病，使鱼体上浮或游动失去平衡；当其浓度在 $1 { \sim } 2 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 时，大部分鱼类的生存会受到威胁，但当其浓度变高后，鱼类可恢复健康;若其浓度小于 $1 \ \mathrm { m g \cdot L ^ { - 1 } }$ ，鱼类则会直接死亡[4]，底泥与水体之间的物质平衡也被打破，有害物质向水体的释放量会增加[5]
+
+湖泊DO变化过程受温度、水生生物呼吸、水汽界面的气体交换、光合作用、沉积物及底栖生物耗氧等多种因素相互影响。一般来说，温度的变化会直接影响水体中DO的含量，特别是表层DO受影响特别明显。Parmar等7利用回归分析讨论了在印度亚穆纳河的拦河坝采样点监测的一些水质参数，发现水温和溶解氧呈负相关。水温的上升会降低氧在水中的溶解度，在 $0 { \sim } 4 0 ~ \mathrm { ^ { \circ } C }$ 之间，温度每上升$1 \mathrm { { ^ { c } } }$ ，氧的溶解度便会降低 $1 . 6 \% { \sim } 2 . 8 \%$ (相当于 $0 . 1 \sim$
+
+$0 . 4 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ),且温度越低升温后溶解度下降越明显，尤其对于一些寒带和温带湖泊而言，水温上升引起的DO下降更为明显[8]。另外，当湖泊表、底水层温度相差较大时，表层DO很难扩散至湖泊底部，再加上底部有机物浓度较高，耗氧快，使得底层出现长时间的缺氧和厌氧状态[9]。Jankowski等[10]基于Zur-ich湖和Greifensee湖1956—2003年夏季水温和DO剖面测量发现，2003年湖表层与底层的温差比1956—2002年平均值高出 $2 . 2 ~ \mathrm { \textdegree C }$ 和 $2 . 1 ^ { \circ } \mathrm { C }$ ，这种极端的温度垂直梯度极大地阻碍了DO的扩散和上下水层交换。而在富营养化浅水湖泊中观测发现，水温和DO分层的现象会导致内源营养盐加速释放，使藻类集中于水体表层，加速水华暴发[]
+
+寒区湖泊具有较长的冰封期，冰盖阻隔了大气与湖水的气体交换，强烈的垂直混合和光合作用受到抑制[12]。水的通气和光合作用产生的氧气供应受到限制时，冰下水体中氧气就会逐渐耗光，造成水质变化并产生负面的生态后果，如冬季鱼类死亡、底栖生物丧失以及厌氧过程的激活与危险化合物的积累[13-15]。在冬季水体DO研究方面,Bai等[16]通过对2011年1月13日至4月25日的Valkea-Kotinen湖冰水温和DO进行Daubechies小波与高斯拟合发现，在4月5日前，水柱上层水温与DO浓度呈正相关关系，且上层水温与DO的相关关系更接近；从融冰开始到冰层破裂，DO浓度随水温升高而降低。李明等用Daubechies小波对寒区湖泊各深度DO进行多尺度分析，通过分析DO数据的低频和高频重构曲线来研究溶解氧的变化，给出有利于数据分析的测量时间间隔。同时，冬季水温分层的现象会逐渐减弱，并随着垂直方向的水温梯度变小，DO较高的表层水体下沉逐渐增强，水温的垂向差异逐渐变小[12]
+
+乌梁素海地处北方寒旱区，每年约有4\~5个月的冰封期。目前，已有学者探究了该水域冰封期DO的动态分布与温度关系。孙标等[18]对2009年乌梁素海总排干沟过饱和溶解氧出现因素进行分析发现，DO浓度在昼间随着光照时间的延伸不断增加，且DO过饱和状态易出现在5月初。宋爽[19]通过对2015一2016年冬季冰下水体D0研究发现，DO浓度与水温均存在明显的分层现象和昼夜变化模式，且随着水深的增加，DO浓度降低。但温度与DO之间的协调变化规律与机制还尚不明确，因此，本文就乌梁素海冰下水体水温与DO浓度变化规律进行研究，以期能更全面地掌握湖泊溶解氧浓度的动态过程以及与温度的关系，对修复富营养化水体有重要意义[20-21] 。
+
+# 1材料及方法
+
+# 1.1 研究区概况
+
+乌梁素海 $( 4 0 ^ { \circ } 3 6 ^ { \prime } { \sim } 4 1 ^ { \circ } 0 3 ^ { \prime } \mathrm { N } , 1 0 8 ^ { \circ } 4 3 ^ { \prime } { \sim } 1 0 8 ^ { \circ } 5 7 ^ { \prime } \mathrm { E } )$ 是中国第八大淡水湖(图1)，位于内蒙古巴彦淖尔市乌拉特前旗境内，黄河河套平原的末端，西临河套灌区，东靠乌拉山西麓，湖区呈南北狭长、东西束窄形态，现有水域面积 $3 2 5 . 3 1 ~ \mathrm { k m } ^ { 2 }$ ,其中芦苇面积为$2 0 2 . 2 \ \mathrm { k m } ^ { 2 }$ ,明水区面积 $1 2 3 . 1 1 ~ \mathrm { k m } ^ { 2 }$ 。水质指标TN、TP、COD等一度达到劣V类，湖泊富营养化严重。富营养化催生了以龙须眼子菜为主的水草疯长，水草的腐烂会使营养物外泄，湖水中分解者在分解营养物质时会消耗大量溶解氧，使得水体总溶解氧下降。
+
+# 1.2数据收集与处理
+
+乌梁素海湖泊L15监测点位于乌梁素海湖区中部，西邻茂盛的水生生物，向东靠近湖岸，属于湖水缓冲区，且水深较浅，与沉积物界面间的物质交换频繁、过程复杂。沉积物的耗氧约占整个水体耗氧的 $9 0 \%$ ,对上覆水体DO含量影响较大。当水体长期缺氧又会使得水体和沉积物环境发生一系列变化，如沉积物-水界面宏观底栖生物消失，微生物代谢对有机质的作用从好氧降解变为厌氧降解。因此选取L15为本次试验监测点，于2019年1月24日0:06分至2月24日23：56对监测点进行长达32d的水温、DO监测(图2)，该阶段属于湖泊冰封稳定期，湖面冰层相对稳定。同时，在2月13—17日有两场降雪，第一场降雪的最大雪厚约为 $5 \mathrm { c m }$ ,第二次降雪的最大雪厚约为 $3 \mathrm { c m }$ (表1)。
+
+![](images/04a5170aa7a5d08c276513e47365f72011f71a8f7761a52441ef60503c390113.jpg)  
+图1研究区概况示意图  
+Fig.1 Overview of the research area
+
+![](images/6b0aced503d3f114284444b192497b51b44364e67f0af25f7bfa8ef6de86c8a7.jpg)  
+图2采样点位置示意图  
+Fig.2 Location diagram of sampling points
+
+依据监测点实际水深，划分为表、中、底等3层。其中，将冰下 $2 0 \ \mathrm { c m }$ 的表层水体划分为表层；湖水-底泥交界处以上约 $1 0 \mathrm { c m }$ 定为底层；中层则根据监测点实际水深的二分之一。本次测量分别在表、中、底3个深度悬挂T-DO探头（深度的零点参考水平是冰层下覆水体)，监测时间间隔为 $1 0 \mathrm { m i n }$ 。采用Morlet小波分析法分析水温与DO浓度变化特征的周期性，根据小波系数的实部、小波方差、小波相干谱等信息揭示乌梁素海冰封期冰下表层水体（0cm）、中层水体（ $6 6 ~ \mathrm { c m }$ ）、底层水体（ $1 3 0 ~ \mathrm { c m } .$ 的水温和溶解氧(DO)浓度的特征规律。
+
+# 2小波变换原理
+
+小波分析广泛应用于多时间尺度变化特征的研究中，其目的是得到发生在不同时间尺度下的局部和瞬态现象的完整表示[22-24]。小波变换(Contin-ueWaveletTransform)包括连续小波变换和离散小波变换。本文所分析的数据是水体温度与溶解氧浓度的时间序列数据，实际工作中，该时间序列的数据常常是离散的，因此小波变换(ContinueWave-letTransform)的离散形式定义为：
+
+$$
+W _ { f } ( a , b ) = | a | ^ { \frac { 1 } { 2 } } \int _ { - \infty } ^ { + \infty } f ( t ) \varphi \Big ( \frac { t - b } { a } \Big ) \mathrm { d } t
+$$
+
+式中： $\mathbf { \Omega } _ { a }$ 为尺度因子; $b$ 为时间因子; $\textstyle \mathbb { W } _ { f } ( a , b )$ 为变换系数。
+
+小波方差定义，将时间域上的关于 $\mathbf { \alpha } _ { a }$ 的所有小波系数的平方进行积分，即为小波方差，它能反映信号波动能量随尺度 $\boldsymbol { a }$ 的分布[25]。小波方差图可用来确定信号中不同尺度扰动的相对强度和存在的主要时间尺度，即主周期。
+
+$$
+V _ { _ { a r } } ( a ) = \int _ { - \infty } ^ { + \infty } \bigl | W _ { f } ( a , b ) \bigr | ^ { 2 } \mathrm { d } b
+$$
+
+小波相干谱可以用来度量时频空间中两个时间序列局部相关的密切程度[26],其原理是通过对两个时间序列采用交叉小波变化（CrossWavelet Sec-trum)的方法进行连续小波变换(CWT)，以此来揭示这两个时间序列共同的高能量区域。其中，时频空间中的两个时间序列局部相关程序需要小波相干谱（WaveletCoherence)衡量。 $X$ 时间序列和 $Y$ 时间序列的小波相干谱函数为：
+
+$$
+R _ { n } ^ { 2 } ( s ) = { \frac { | S { \bigl ( } s ^ { - 1 } W _ { n } ^ { X Y } ( s ) { \bigr ) } | ^ { 2 } } { S { \mathord { ( s ^ { - 1 } | W _ { n } ^ { X } ( s ) | } ^ { 2 } ) } \times S { \bigl ( } s ^ { - 1 } { \big | } W _ { n } ^ { Y } ( s ) { \bigr | } ^ { 2 } { \bigr ) } } }
+$$
+
+式中： $s$ 是平滑器; $s$ 为伸缩尺度; $\smash { W _ { n } ^ { X } ( s ) , \ W _ { n } ^ { Y } ( s ) }$ 分别为 $X , Y$ 的小波变换; $W _ { n } ^ { X Y } \big ( s \big )$ 为交叉小波谱。
+
+# 3 结果分析
+
+# 3.1温度、溶解氧的分布特征
+
+依据所监测的原始数据绘制温度、溶解氧的垂向分布趋势图(图3a、图3b)。由图3可以看出，温度有明显的层化结构，即表-中-底层，冰下表层水体平均水温达 $- 0 . 1 2 \mathrm { ~ } \mathrm { ^ { \circ } C }$ ；中层平均水温达$5 . 7 9 ~ \mathrm { \textdegree C }$ ;底层平均水温达 $6 . 5 7 ~ \mathrm { \textdegree C }$ ;水体整体温度浮动范围在 $- 0 . 1 3 { \sim } 7 . 6 6 ~ \mathrm { ^ { \circ } C }$ 。表层最高水温出现在2月
+
+表1冬季野外观测记录表  
+Tab.1 Winterfieldobservationrecord table   
+
+<html><body><table><tr><td>年份</td><td>冰厚/m</td><td>最大雪厚/cm</td><td>降雪覆盖期</td><td>多云期</td></tr><tr><td rowspan="2">2018—2019</td><td rowspan="2">0.5</td><td rowspan="2">5</td><td>2月13—15日</td><td>2月4—10日</td></tr><tr><td>2月17—20日</td><td>2月13—24日</td></tr></table></body></html>
+
+![](images/d6ee8dd1ffcc1e4570e5132cd9821656d32dd2d183cbf26ac68364f011e7ad31.jpg)  
+图3温度(a)溶解氧(b)剖面结构  
+Fig.3Temperature (a),dissolved oxygen (b) section structure diagram
+
+24日 $1 3 : 0 6 \left( 0 . 3 4 ^ { \circ } \mathrm { C } \right)$ ,最低水温出现在1月24日$0 0 { : 2 6 } \left( - 0 . 1 3 \mathrm { ~ ‰ ~ } \right)$ ;中层最高水温出现在2月7日$1 1 : 3 6 ( 7 . 3 7 \mathrm { ~ \textdegree C } )$ ），最低水温出现在1月25日6：46$( 3 . 5 8 ~ \mathrm { ‰} )$ ；底层最高温度出现在2月7日15：16与$1 5 : 3 6 \left( 7 . 6 6 ~ \mathrm { ^ { \circ } C } \right)$ ，最低水温出现在1月24日00：56$( 5 . 4 7 ~ \mathrm { ‰}$ 。且三层水体温度存在着底层温度偏高、表层温度偏低的分层趋势。
+
+溶解氧剖面(图3b)与水温剖面的分层不一致，DO浓度在不同水深下的分布情况不同。表层DO浓度浮动在 $9 . 1 2 { \sim } 1 2 . 1 1 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ，平均浓度达10.91$\mathrm { m g \cdot L ^ { - 1 } }$ 。中层DO浓度浮动在 $0 . 9 0 { \sim } 1 3 . 4 4 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ，平均浓度达 $7 . 1 4 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 。底层DO浓度浮动在 $0 . 0 4 \sim$ $4 . 7 2 ~ \mathrm { { m g } \cdot \mathrm { { L } ^ { - 1 } } }$ 平均浓度达 $1 . 8 2 ~ \mathrm { m g \cdot L ^ { - 1 } }$ 。由图3可知，上混合层、中间层、下混合层也存在明显分层现象。表层D0浓度近1个月时间内基本保持不变；而中层D0浓度从2月4日8：26开始逐渐下降，由$1 0 . 1 8 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 下降到 $3 . 8 2 ~ \mathrm { m g \cdot L ^ { - 1 } }$ ，下降速率为0.32$\mathrm { m g \cdot L ^ { - 1 } \cdot d ^ { - 1 } }$ 。由于受到大雪覆盖与多云天气的影响，冰下水体对光的透射率下降到 $1 \%$ 左右[19],湖泊水体的光合作用减弱，产氧量低，有机物与生物的呼吸作用占主导地位，DO被大量消耗，中层氧含量发生反转；底层DO浓度由 $1 . 9 3 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 下降到 $1 . 1 1 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ，下降速率为 $0 . 0 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \cdot \mathrm { d } ^ { - 1 }$ 。表层溶解氧浓度浮动幅度较平缓，随着冰封期的时间逐渐增长，中、底层溶解氧下降幅度相对明显。且水体中的DO浓度也出现了分层现象。
+
+# 3.2水温与DO浓度小波变换分析
+
+3.2.1水温的小波变换分析为进一步揭示乌梁素海冰封期水体分层的温度在时间尺度上变化的多样性。采用Morlet小波进行32d尺度的一维连续小波变换获得小波系数实部等值线与小波方差图进行多时间尺度变化分析。由表层水温Morlet小波实部等值线(图4)可知，表层水体温度演变过程存在多时间尺度特征。其中相对比较明显的特征时间尺度为9\~17d、19\~29d,两类尺度的周期变化规律。19\~29d特征时间尺度在2月22日之前存在高-低-高-低的3次震荡，随后呈增强态势；9\~17d尺度以16d为尺度中心，该尺度嵌套于19\~29d尺度周期变化中。另外，通过表层水体温度的小波方差大小的波动，揭示了水温的周期震荡强度。小波方差存在2个较为明显的峰值，依次对应着16d、25d时间尺度。其中最大峰值对应25d的时间尺度，说明25d左右的周期震荡最强，为表层水体温度变化的第一主周期;16d时间尺度对应着第二峰值，为水体温度变化的第二主周期，2个周期的波动控制着表层水体温度在整个时间域内的变化特征，从侧面验证了实部等值线图中振荡周期。
+
+中层的水体温度变化存在多尺度的周期变化规律，其中演变过程较明显的特征时间尺度周期是10\~17d,在该特征时间尺度上，中心时间尺度为14d,水温变化明显，频率快，水温交替变化，具有全局性；而在25\~32d特征时间尺度上水温呈现的是低-高-低的变化，能量波及大，但未形成闭合圆圈，不能作为特征周期进行分析。小波方差大小的波动揭示了中层水温的周期震荡强度。在10\~17d时间尺度下水温浮动较大，中心时间尺度14d是表层温度变化的第一主周期。
+
+底层水温小波实部图等值线显示底层水温存在两类尺度的周期变化规律。1\~6d尺度，以2.5d为震荡中心，水温变化强度较弱，震荡能量平稳; $9 \sim$
+
+![](images/deb0122cf402092c58b2e3d8bb601679d925fe09a06ab4c17048d2f5ce41534e.jpg)  
+图4水体温度的小波系数实部等值线图及小波方差  
+Fig.4 Real part contour map of wavelet coeficient and wavelet square of water temperature   
+图5水体温度的特征时间尺度小波实部过程线  
+Fig.5 Characteristic time scale wavelet real part process line of water body temperature
+
+19d尺度，作为32d内主要周期变化，震荡中心为14d，出现了明显的水温升降交替周期，且在该周期下存在一个高温期。高能量中心集中在2月13—16日之间，时间跨度约3d，边缘闭合程度强，说明该尺度下水体温度有规律的增大，通过小波方差波动图，进一步揭示温度变化的周期震荡强度。小波方差中存在2.5d、14d两个峰值，14d时间尺度为最大峰值，是水温变化第一主周期，第二主周期则为2.5d,第二主周期能量波动小，第一主周期能量波动大；从侧面验证了实部等值线图的震荡周期
+
+根据小波方差检验的结果，绘制水体各层水温的第一主周期小波系数图(图5)。从主周期趋势图中我们发现在特征时间尺度下，表层水体水温存在升高-降低变化特征。在25d特征时间尺度上，水温变化的平均周期为15d左右，大约经历了两个升-降转换期；在小波变换中，不同时间尺度小波系
+
+0.03[（a）表层 d=25 0.80 (b)中层 d=14 0.60 (c)底层 -d=14  
+0.02 0.40 （0.20  
+0.01 0.200.00 0.005 0.20282830400 024680-0.20  
+10.02002 -0.40 2 中 00022222V -0.40  
+-0.04 日期/月-日 -0.80 日期/月-日 -0.60 日期/月-日
+
+数(实部)过程线的过零点对应突变点，其中低频尺度更能反映序列实际变化。中层水体水温在14d特征时间尺度下，3个升-降周期变化，水温变化的周期约为9d;底层水体水温在第一主周期14d尺度上发生3次突变：1月28日（升-降）、2月7日（升-降）、2月15日(升-降)，其变化周期约为 $8 . 5 \textup { d }$ O
+
+3.2.2DO浓度的小波变换分析DO浓度的小波系数实部等值线图反映了序列在不同时间尺度的周期变化、时域分布，以及时间序列的变化趋势（图6)，颜色越蓝表示DO浓度越低。颜色越浅则该时期D0浓度高，零值对应突变点。图6可以发现：表层水体D0浓度存在1类周期变化，19\~26d时间尺度，以23d为震荡中心，振荡能量偏弱。
+
+通过中层D0浓度等值线图可以看到，在6\~11d时间尺度上，DO浓度的变化程度不高，仅小幅变动；而在15\~23d时间尺度上，DO浓度从1月24日至2月24日的32d内，有3个高浓度时期和3个低浓度时期，1月24日前后进入第一个低浓度期，2月18日前后进入最后一个低浓度期。该周期变化下，中层水体DO浓度变化呈现降低-上升-降低-上升-降低-上升的变化过程。在30d时间尺度上，DO浓度出现高低交替的3次震荡，该周期变化主要活跃于1月24日至2月22日。为得到中层水体D0浓度值在时间序列的主周期情况，画出一维连续小波变换系数相应的小波方差图。19d尺度上有一个比较强的波动能量，在7.5d尺度左右有一个较强的波动能量。而时间尺度小于5d的尺度上波动能量相对而言很小。这表明，近32d里，中层水体DO值演变在该尺度上，存在一个19d变换的第一主周期和7.5d变化的第二主周期。
+
+对底层水体DO浓度进行Morlet小波分析，得出乌梁素海底层水体32dDO浓度值的变化情况。在
+
+![](images/8d3fe9f8a1fbffc0d45e7ef0222e1309d626cd45a0c3be619a8e3fe9d2c48935.jpg)  
+图6水体DO浓度的小波系数实部等值线图及小波方差  
+Fig. 6 Real-part contour map and wavelet square of DO concentration in water body
+
+19\~29d时间尺度上，有3个明显的高浓度时期。但在1月29日与2月14日水体D0开始进入低浓度时期。尺度中心为 $2 4 { \mathrm { ~ d ~ } }$ ,在该时间尺度下DO浓度变化呈现交替周期规律，处理该尺度上的小波方差图，底层水体DO浓度值在24d尺度上有强烈的能量波动。而在10d尺度上，能量波动弱，变化不明显。根据底层DO的小波方差图，可以看出底层水体DO浓度值存在2个波峰。24d时间尺度为最大峰值，是DO浓度值变化的第一主周期;而10d则是DO浓度值变化的第二主周期。在整个时间域内，底层水体DO浓度值变化主要受到上述两种周期制约。
+
+根据小波方差检验的结果，绘制水体各层DO浓度变化的第一主周期小波系数图及升高-降低变化特征(图7)。表层DO浓度在23d特征时间尺度上，变化的平均周期为15d左右，大约2个周期的升-降变化；中层DO浓度在8d特征时间尺度下，经历约6个升-降变化，平均周期为5d;从底层水体DO浓度主周期趋势图中我们发现在特征时间尺度24d的变化下，D0存在2次突变，分别是：1月24日至2月1日发生浓度的升高-降低突变，2月9—16日发生第二次突变。同时，底层DO浓度变化的平均周期为7d左右。
+
+# 3.3水温与DO浓度的小波相干谱分析
+
+选取了2019年1月24日至2月24日乌梁素海的L15点冰下表层、中层、低层水体温度和DO浓度值数据，利用小波相干谱绘制温度-DO频谱图。小波相干谱揭示两组信号序列的时频相关性，特别适用于2种过程具有很强的相互作用时的时间序列时频分析。图8是1月24日至2月24日的水温序列和DO浓度序列显示的在2\~8d的周期频段内的小波相干谱。
+
+图8a中显示：表层水体温度与DO浓度序列位相在2月15(图中第22d)—24日期间，在3\~7d的周期区间表现出通过 $9 5 \%$ 的置信度检验的显著共振关系(图中黑粗线圈部分），并且在周期区间内箭头指向基本一致(向左），表明了序列的反相位变化，相关系数达到0.9；图8b显示出，中层水温与DO浓度两序列在2\~4d尺度的显著相关性的特征：即在2月9日（图中第15d)开始呈现出很强的相关关系，相关系数达到0.9，通过 $9 5 \%$ 的置信度检验，随着冰封期的推进，水温位相系统开始超前DO浓度变化。经过计算水温与D0浓度在2月11（图中第18d)一18日(图中第25d)时段及2\~4d的日变化尺度上，水温序列变化超前DO浓度变化约 $2 { \sim } 4 \mathrm { ~ h ~ }$ ;图8c显示，1\~3d周期区间，底层两序列在2月20(图中第28 d)—24日上通过 $9 5 \%$ 置信度的检验，相关系数约为0.8,箭头的方向基本上在 $0 { \sim } 4 5 ^ { \circ }$ ，表明底层水温与DO浓度在2月20—24日上具有很强的负相关关系。整体来看，表、中、底三层的水体温度与DO浓度变化呈现不同规律。
+
+# 4讨论
+
+对于中国北方寒旱区湖泊来说，有无冰封期的DO差异性主要体现在：湖冰下的热分层颠倒，水温较低，空气-水-气体交换、风的混合作用和大气输入基本停止。通过对湖泊冰下水体的DO含量与温度监测发现：底层水温最高、DO含量最低；表层水温最低、DO含量最高。通常来讲，表层温度的下降是由于冰的热量损失，而底层温度的增加则是来自沉积物的热通量变化[16]。由此可知，当水体的初始温度越低，冰下可储存的DO含量就越高。DO垂直方向的分布规律则是表层含量高、底层含量低，在分层湖泊中底层DO含量低的现象是很普遍的，例如美国北部的Erie湖夏季湖底缺氧可追溯千年[27]。冰封期内半数的DO消耗发生在冰期的第一个月内[12],表-中-底的DO含量呈现出由表及底逐渐下降的趋
+
+80 (a)表层 d=23 880 (b)中层 d=8 1.50 (c)底层 d=24  
+0.20 达） 0.20 （）业 0.50  
+0.10 80008 0.00  
+- 0  
+-0.30[ 日期/月-日 -1.00 日期/月-日 -1.50 日期/月-日
+
+![](images/f6a8bec835d154ae084866de5e373fd6ef3decdea66d8bca9abed467bab2695e.jpg)  
+Fig.8 Wavelet coherence spectrum of water temperature and DO concentration changes in surface layer(a), middle layer (b) and botom layer (c)
+
+注：箭头表示两者之间的相位关系， $$ 代表两个时间序列之间的反相位关系，即为负相关； $$ 代笔两个时间序列之间是同相位关系，即为正相关；↑表示后者变化超前者变换 $9 0 ^ { \circ }$ ；√表示后者变化落后前者 $9 0 ^ { \circ }$ 。粗实线区域表示显著性 $\scriptstyle a = 0 . 0 5$ 条件下的红噪声标准谱的检验，小波影响椎(细弧线)以内区域为有效谱值。图8表层(a）中层(b）底层(c)的水温与DO浓度变化的小波相干谱
+
+势，表层水体受光合作用的影响，产生氧气和有机物，使得该层DO含量升高，但部分有机物会沉降至湖泊底部，在其下降过程中不断的被分解，消耗掉底层水体DO，使底层DO含量降低。与此同时，无雪的冰是冬季中进行光合作用的先决条件，但是只要有效光合辐射可用,DO就会产生[28]。因此,我们认为光合作用是受太阳辐射的控制，也受到冰层上积雪存在或缺少的控制。DO含量的垂向变化不仅受到生物化学的控制,更重要的是水温的影响[29],体现在表层温度低 $( \mathbf { \Sigma } - 0 . 1 2 \ \mathrm { ~ \textdegree ~ }$ ）、底层温度高中 $( 6 . 5 7 ~ \mathrm { ‰}$ ，表、底的温差阻碍了水体对流进而波及到中层DO浓度。此外，湖泊又受到气候、地理、富营养化、有机污染物、水文及负荷的输入过程等环境压力的作用，使分层后的DO在表、中和底层的浓度形态与含量发生变化。大气复氧、光合作用等会导致表层DO浓度较大[30]，但随着冰封期冰层的增长以及冰雪覆盖，阻隔大气与水体的气体交换，同时限制表层水体水生生物的光合作用[28],造成在一定时期内DO含量下降。而底层的缺氧现象则是与沉积物、初级生产力、外部输入和磷(P)的释放相关。Zhao等[31在乌梁素海中观察到的沉积物，他们推测,沉积物中释放出 $4 ~ \mathrm { { m g } \cdot \mathrm { { L } ^ { - 1 } } }$ 的P,表明沉积物内积累的磷含量可能高于冬季水柱中的平均磷含量。同时，湖泊分层后底层通常表现为耗氧状态。
+
+正是由于冰下水体水温存在分层，导致DO含量也出现分层，水温增加会使DO浓度降低，水温的降低亦会使DO浓度增加。这一规律说明了水温对于水体中的DO浓度的影响，是一种负相关关系的绝对影响，通过小波相干谱的结果就可以看到，表、底的水体温度和DO浓度的相位关系是负相位关系，相关系数达0.9,表明两者之间存在高强度的负相关关系。并且在水温的控制下物理和生化过程都会对DO浓度造成影响。水温低时，会抑制水中有机物与生物的呼吸作用。使DO含量保持一定程度的稳定；而沉积物-水界面的温度较高，接近乌梁素海地区多年的平均气温，温度的适宜性大大支持了沉积物及底栖生物的耗氧，使DO浓度下降，底层逐渐变成缺氧层。减少的DO会通过扩散作用去影响整个水柱：使中层水温与DO浓度由原来的负相关关系逐渐转变为水温超前DO浓度变化 $2 { \sim } 4 \mathrm { ~ h ~ }$ 。且随着冰封时间的持续，DO浓度会越降越低，冰下水体中缺氧层离湖底的距离也越来越远。
+
+文中仅基于Morlet小波分析了冰封期乌梁素海分层水体温度与DO浓度的演变规律，但关于冰下水体温度与DO浓度之间的深层耦合机理还有待我们利用更长时段的数据来进一步分析和研究。
+
+# 5结论
+
+（1）乌梁素海冰下水体层按水温、DO浓度变化趋势可分为表、中、低三层，表层水体平均水温达$- 0 . 1 2 \mathrm { ~ \textdegree C }$ ;中层平均水温达 $5 . 7 9 \mathrm { ~ \textdegree C }$ ;底层平均水温达$6 . 5 7 ~ \mathrm { \textdegree C }$ 。表层水体DO浓度平均值为 $1 0 . 9 1 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 中层DO浓度平均值为 $7 . 1 4 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ ;底层DO浓度平均值为 $1 . 8 2 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 。自2月4日，D0的消耗增大。水体DO浓度含量亏损未得到补充，整个水柱层的DO含量发生改变。
+
+(2）乌梁素海水体温度与DO浓度变化周期变化呈现高低交替的位相特征，小尺度高低位相变化嵌套于大尺度位相变化中。表层水温变化的主周期是 $2 5 \mathrm { d } , 1 6 \mathrm { d }$ ,在其第一主周期下，大约经历了2个升-降转换期，周期约为 $1 5 \mathrm { d }$ ;DO浓度变化的主周期是23d,同样经历了2个周期的升-降变化，平均周期为15d左右；中层水温变化的主周期是14d,DO浓度变化的主周期是 $1 9 \mathrm { d } , 7 . 5 \mathrm { d }$ ,在第一主周期下，水温3个升-降周期变化，平均周期约为9d,DO浓度经历约6个升-降变化，平均周期为5d;底层水温变化的主周期是 $1 4 ~ \mathrm { d } , 2 . 5 ~ \mathrm { d } , \mathrm { D O }$ 浓度变化是 $2 4 \mathrm { ~ d ~ }$ $1 0 \mathrm { ~ d ~ }$ 。底层水体水温在第一主周期下，水温发生3次突变，变化周期约为 $8 . 5 \mathrm { d } , \mathrm { D O }$ 浓度发生2次突变，平均周期7d左右。除了底层变化周期外，其他T-DO变化周期大致相近。水温高能量区的分布几乎也是DO浓度高能量区的集合，水温的变化对DO的变化有着积极的响应。
+
+(3）温度-DO小波相干谱分析显示，整个水柱三层的水温、DO浓度周期变化不相同。同时，冰封期乌梁素海各水层的温度与DO浓度之间存在复杂的关系：表层水体温度与DO浓度序列位相在3\~7d的周反相位变化，相关系数达到0.9；中层水温与DO浓度两序列在2\~4d尺度在2月9日开始呈现出很强的负相关关系，随着冰封期的推进，水温位相系统开始超前DO浓度变化约 $2 { \sim } 4 \ \mathrm { h } ; 1 { \sim } 3 \ \mathrm { d }$ 周期区间，底层两序列通过 $9 5 \%$ 置信度的检验，相关系数约为0.8，底层水温与DO浓度存在负相关关系。
+
+# 参考文献(References)：
+
+[1] 殷燕,吴志旭,刘明亮,等.千岛湖溶解氧的动态分布特征及其 影响因素分析[J].环境科学,2014,35(7):2539-2546.[Yin Yan, Wu Zhixu,Liu Mingliang,et al.Dynamic distribution characteristics of dissolved oxygen in Qiandaohu lake and its environmental influence factors[J]. Environmental Science,2014,35(7):2539- 2546.]   
+[2] 朱旭旭,高爱国,王世永,等.泉州湾春、夏季表层溶解氧分布特 征及其影响因素分析[J].厦门大学学报(自然科学版),2017, 56(4): 531-539.[Zhu Xuxu,Gao Aiguo,Wang Shiyong,et al. Distributio of dissolved oxygen in the surface water and influencial factors in Quanzhou Bay during spring and summer[J]. Journal of Xiamen University(Natural Science Edition),2017,56(4): 531-539.]   
+[3] He BY,Dai MH, Zhai WD,et al.Hypoxia in the upper reaches of the Pearl River Estuary and its maintenance mechanisms:A synthesis based on multiple year observations during 2Ooo-2008 [J]. Marine Chemistry,2014,167: 13-24.   
+[4]解磊.青岛浮山前分层小水库溶解氧时空变化特征[D].青岛: 青岛大学,2015.[Xie Lei. Spatial and Temporal Variation Characteristics of Dissolved Oxygen in Stratified Small Reservoir in Front of Fushan, Qingdao[D]. Qingdao: Qingdao University,2015.]   
+[5]邓思思.嘉兴平原河网溶解氧平衡研究[D].杭州:浙江大学, 2013.[Deng Sisi. Study on Dissolved Oxygen Balance in River Network of Jiaxing Plain[D]. Hangzhou: Zhejiang University, 2013.]   
+[6]Boehrer B,Schultzm M. Stratification of lakes[J]. Reviews of Geophysics,2008,46(2): 1-27.   
+[7]Parmar K S,Bhardwaj R.Fractal, predictability index and variabilityin trends analysis of river-water dynamics[J].International Journal of River Basin Management,2014,12(4): 285-297.   
+[8]Kalff J.Limnology: Inland Water Ecosystems[M].New Jersey: Prentice Hall, 2002.   
+[9]Foley Brian,Jones ID,Maberly SC,et al.Long-term changes in oxygen depletion in a small temperate lake: Efects of climate change and eutrophication[J]. Blackwell Publishing Ltd, 2012, 57 (2): 278-289.   
+[10]Jankowski T,David M,Livingstone,et al. Consequences of the 2003 European heat wave for lake temperature profiles,thermal stability，and hypolimnetic oxygen depletion: Implications fora warmer world [J]. Limnology and Oceanography,2006,51(2): 815- 819.   
+[11]Huber Veronika,Wagner Carola,Gerten Dieter,et al.To bloom or not to bloom: contrasting responses of cyanobacteria to recent heat waves explained by critical thresholds of abiotic drivers[J]. Oecologa, 2012,169(1): 245-256.   
+[12] Terzhevik A,Golosov S,Palshin N,et al.Some features of the thermal and dissolved oxygen structure in boreal,shallow ice-covered Lake Vendyurskoe,Rusia[J].Aquatic Ecology0,43(3):61 627.   
+[13]Barica J,Mathias JA. Oxygen depletion and winterkill risk in small prairie lakes under extended ice cover[J]. NRC Research Press Ottawa, Canada,1979,36(8): 980-986.   
+[14]Wilhelm Graneli.A comparison of carbon dioxide production and oxygen uptake in sediment cores from four south Swedish lakes[J]. Ecography,1979,2(1): 51-57.   
+[15]Mathias JA,Barica J. Factors controlling oxygen depletion in icecovered lakes[J]. Canadian Journal of Fisheries and Aquatic Sciences,1980,37(2): 185-194.   
+[16]Bai Qinxi,Li Runling,Li Zhijun,et al.Time-series analyses of water temperature and dissolved oxygen concentration in Lake Valkea- Kotinen (Finland) during ice season[J]. Ecological Informatics,2016,36: 181-189.   
+[17] 李明,李润玲,柏钦玺,等.芬兰淡水湖冰下溶解氧浓度变化规 律的离散小波分析[J].数学的实践与认识,2015,45(7):149- 155.[Li Ming,Li Runling,Bai Qinxi,et al. Discrete wavelet analysis of dissolved oxygen concentration variation under ice in a FinnishiFreshwaterLake[J].MathematicsinPractice AndTheory, 2015, 45(7): 149-155.]   
+[18]孙标,李畅游,张生,等.河套灌区总排干沟过饱和溶解氧出现 因素分析[J].环境化学,2009,28(3):449-450.[Sun Biao,Li Changyou, Zhang Sheng,et al.Analysis of factors influencing the occurrence of oversaturated dissolved oxygen in total drainage ditches in Hetaoirigatedarea[J].EnvironmentalCemistry,009, 28(3): 449-450.]   
+[19]宋爽.冰封期乌梁素海光热特性及冰下水体初级生产力研究 [D].呼和浩特:内蒙古农业大学,2019.[Song Shuang.Photothermal Characteristics of Wuliangsuhai And Primary Productivity of Subglacial Water[D].Hohhot: Inner Mongolia Agricultural University,2019.]   
+[20] 曾春芬,黄文钰,王伟霞,等.天目湖溶解氧分布特征及环境影 响因子[J].长江流域资源与环境,2010,19(4):445-451.[Zeng Chunfen, Huang Wenyu,Wang Weixia,et al.Distribution and its influence factors of dissolved oxygen in Tianmuhu Lake[J]. Resources and Environment in the Yangtze Basin,201O,19(4) : 445- 451.]   
+[21]Han H G, Qiao JF, Chen QL, et al. Model predictive control of dissolved oxygen concentration based on a self-organizing RBF neural network[J]. Control Engineering Practice,2O12,20(4) : 465-476.   
+[22] 王文圣,丁晶,李跃清.水文小波分析[M].北京:化学工业出版 社,2005: 1-2O7.[Wang Wensheng,Ding Jing,Li Yueqing.HydrologicWavelet Analysis[M].Beijing:Chemical Industry Press, 2005: 1-207.]   
+[23]Labat D. Cross wavelet analyses of annual continental freshwater dischargeandselectedclimateindices[J].JournalofHydrology 2010,385(1-4): 269-278.   
+[24] 孙卫国,程炳岩.交叉小波变换在区域气候分析中的应用[J].应 用气象学报,2008,19(4): 479-487.[Sun Weiguo,Cheng Bingyan.Application of cross wavelet transformation to analysis on regiona climate variations[J]. Journal of Applied Meteorological Science,2008,19(4): 479-487.]   
+[25] 张蓓蓓,王朋,张辉,等.近63a安康地区降水与太阳黑子活动 的相关性分析[J].干旱区研究,2018,35(6):1336-1343.[Zhang Beibei, Wang Peng,Zhang Hui, et al. Correlation betweensunspot activity and precipitation in the Ankang region in recent 63 years [J]. Arid Zone Research,2018,35(6): 1336-1343.]   
+[26] 王勇,闻德保,刘严萍,等.雾霾天气对GPS天顶对流层延迟与 可降水量影响研究[J].大地测量与地球动力学,2014,34(2): 120-123,127.[Wang Yong,Wen Debao,Liu Yanping,et al. Effects of fog and haze weather on GPS zenith tropospheric delay and precipitable water vapor[J]. Journal of Geodesyand Geodynamics,2014,34(2): 120-123,127.]   
+[27]Zhou Y,Obenour D R, Scavia D,et al. Spatial and temporal trends in Lake Erie Hypoxia,1987-2007[J]. Environmental Science and Technology,2013,47(2): 899-905.   
+[28]Song S,Li C,Shi X,et al.Under-ice metabolism in a shallow lake ina cold and arid climate[J]. Freshwater Biology,2019, 64(1O): 1-11.   
+[29]Ulrike Obertegger,Biel Obrador,Giovanna Flaim.Dissolved oxygen dynamics under ice: Three winters of high-frequency data from Lake Tovel,Italy[J].Water Resources Research,2O17,53(8): 7234-7246.   
+[30]杜彦良,彭文启,刘畅.分层湖库溶解氧时空特性研究进展[J]
+
+水利学报,2019,50(8):990-998.[Du Yanliang,Peng Wenqi,Liu Chang.A review of dissolved oxygen variation and distribution in the stratified lakes or reservoirs[J]. Journal of Hydraulic Engineering,2019,50(8): 990-998.] [31]Zhao Shengnan, Shi Xiaohong,Li Changyou,et al.Diffusion flux of phosphorus nutrients at the sediment-water interface of the Ulansuhai Lake in northern China[J].Water Science and Technology, 1997, 75(6): 1455-1465.
+
+# Change law of water temperature and dissolved oxygen concentration of Wuliangsu Sea in icebound period
+
+ZHAI Jialun， SHI Xiaohong，LIU Yu, ZHAO Shengnan，BAO Wenzhi,LI Guohua (College of Water Conservancy and Civil Engineering,Inner Mongolia Agricultural University, Hohhot O1oO18,Inner Mongolia, China)
+
+Abstract: The wavelet analysis method was used to analyze the trend of temperature and oxygen concentration of a water body under ice in Ulansuhai in 2O19,and the time series was one month: from January24 to February 24,2019.The results showed that the water temperature and oxygen concentration of the lake were stratified.The oxygen concentration in the surface layer did not change. However, the oxygen concentration decreased in the middle $( 0 . 3 2 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \cdot \mathrm { d } ^ { - 1 } )$ and bottom $( 0 . 0 5 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } \cdot \mathrm { d } ^ { - 1 } )$ layer. The main period of static water temperature in the surface layer was $2 5 { \mathrm { ~ d ~ } }$ and $1 6 \mathrm { ~ d ~ }$ .Under the first principal period,the period was about $1 5 { \mathrm { ~ d ~ } }$ ，The main period of static oxygen concentration was $2 3 \mathrm { ~ d ~ }$ ，and the average period was $1 5 \mathrm { ~ d ~ }$ ，The main period of static water temperature in middle layer was $1 4 \mathrm { ~ d ~ }$ ，and the main period of static oxygen concentration was $1 9 \mathrm { ~ d ~ }$ and $7 . 5 \mathrm { ~ d ~ }$ Under the first principal period, the average period of static water temperature was about $9 \textup { d }$ ，and the average period of static oxygen concentration was $5 \mathrm { d }$ . The main period of water temperature in the bottom layer was $1 4 { \mathrm { ~ d ~ } }$ （204号 and $2 . 5 \mathrm { ~ d ~ }$ ，and the oxygen concentration was $2 4 \textup { d }$ and $1 0 \mathrm { d }$ .The period of change in water temperature was about $8 . 5 \mathrm { ~ d ~ }$ ，and the average period of oxygen concentration was about $^ { 7 \mathrm { ~ d ~ } }$ ，The wavelet coherence spectrum results showed that there is a complex relationship between lake water temperature and the oxygen concentration, suggesting the water temperature shows an inverse phase relationship with the oxygen concentration in the surface and bottom layer of the lake.Additionalyon the 2-4 d cycle scale,the change of water temperature in the middle layer was about $2 { - } 4 \mathrm { h }$ ahead of the change in dissolved oxygen concentration.
+
+Keywords: Wuliangsu Sea; icebound period; water temperature； dissolved oxygen; wavelet transform

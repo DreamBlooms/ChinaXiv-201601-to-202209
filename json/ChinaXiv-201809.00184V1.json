@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "工程化P450酶特异性氧化修饰甾体化合物常庆娜」'2，姚明东 $\\mid 1 ^ { , } 2 * *$ ，王颖¹'²，肖文海¹'²，元英进¹'2",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1天津大学系统生物工程教育部重点实验室，天津，300072)(天津化学化工协同创新中心合成生物学平台，天津，300072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：甾体药物是仅次于抗生素的全球第二大类药物，具有抗炎、抗过敏、调节内分泌等重要功效。对甾体母核特定位点进行有效的氧化修饰，是引入药效活性的关键。研究表明，P450酶是催化甾体特异性氧化的一类关键酶家族。目前，电子传递效率和催化特异性是限制P450酶催化功能的重要因素，会导致目标甾体产物产量低、副产物积累严重等问题。因此，本文将围绕提高P450酶的催化效率及特异性方面的研究工作，系统综述工程化P450催化甾体类物质的方法策略和相关研究进展，并对催化甾体化合物的P450酶的设计和优化的未来发展进行展望，为该方面工作的深入研究提供指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：甾体 P450单加氧酶 电子传递 催化特异性中图分类号：Q819 文献标志码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Engineering P45O For Specific Oxidation Of Steroids ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chang Qing-na,YAO Ming-dong\\*\\*,WANG Ying,XIAO Wen-hai,YUAN Ying-jin (KeyLaboratory ofSystems Bioengineering(Ministryof Education),Tianjin University,Tianjin,China) ( SynBio Research Platform,Collaborative Innovation CenterofChemical Science and Engineering,Tianjin,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As the second largest class of drugs in the world, steroidal drugs have important pharmacological activity such as anti-inflammatory, anti-allergic and endocrine regulation. Effective and specific oxidizing steroid nucleus by P450 is the key step to obtain pharmacological activity. As known，electron transport efficiency and catalytic specificity are important factors limiting P450 application, resulting in the low yield of target products and serious accumulation of by-products. Here, recent advances in the methodological strategy of engineering P450 were critically reviewed to improve the catalytic efciency and specificity of steroidal oxidation. And it was also prospected the outlook on how to design and optimize steroidal P45O in the future. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Steroids P450 monooxygenase Electron transportCatalytic specificity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甾体药物是仅次于抗生素的全球第二大类药物。目前全世界生产的甾体药物已有400 多种，截至2017年甾体激素药物全球销售额达到1000亿美元。由于甾体类化合物在免疫应答、性功能、糖代谢、脂肪代谢等方面具有显著的调节功能，因此被广泛用于治疗各类炎症、过敏反应以及呼吸系统、心血管、内分泌、肿瘤等方面的疾病[1]。我国作为甾体激素药物原料及制剂主要生产国，已经把甾体药物新资源开发作为医药行业近期发展的重点方向之一。在合成甾体药物的过程中，对甾体母核特定位点进行氧化修饰，是引入药效活性的关键催化步骤。这一步骤多见于氧化甾环的C1、C9、C11、C16、C17和C19 等[位置，其催化类型包括C-C 键断裂[3,4]以及以羟基化反应为代表的氧化修饰[5]（图1）。羟基化修饰一方面可以增加药物极性，通过提高甾体药物的溶解性而提高血药浓度；另一方面，羟基化对底物起到一定的活化作用，便于诸如糖基化等后续催化反应的进行[]，因此它对甾体药物的活性至关重要。目前，甾体的氧化反应多通过化学修饰或微生物转化实现。与传统化学催化相比，生物催化能耗更低、更加环保[7]；并且生物催化在特定情况下表现出优于化学转化的催化特异性。因此，越来越多的研究者希望利用生物催化的高效和产物特异性优势实现甾体母核的氧化修饰，对生物体内的甾体转化体系进行研究和优化[8]，并且逐步将关键酶体系引入异源模式生物中构建高效的甾体转化体系[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d68d348460a5415e153056958562b4ca16b1ae1a9a989a2a89fdf2ee0c8f19ae.jpg",
+        "img_caption": [
+            "图1常见的甾体母核氧化修饰及参与反应的P450单加氧酶",
+            "Fig.1 Typical steroidal oxidation and the corresponding P450 monooxygenase "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究表明，绝大多数生物体内的甾体修饰都是通过细胞色素P450 单加氧酶（CytochromeP450 monooxygenases）实现的（图1），该酶家族也是甾体化合物氧化反应最重要的催化酶系。该类酶以辅因子NADP(H)作为电子供体，利用血红素铁的氧化能力实现目标单加氧反应。然而，研究者往往难以通过简单表达天然的P450单加氧酶来实现理想的甾体氧化修饰的效果，这是因为P450蛋白通过其N端保守的疏水结构域实现膜定位[10]。同时，由于异源微生物宿主与天然宿主在细胞内微环境及蛋白表达系统上的差异，异源表达的P450 单加氧酶往往由于不能正确地进行蛋白折叠或亚细胞定位，表现出较低的表达水平和催化效率[]。此外，P450 单加氧酶需要电子传递系统辅助，从而实现电子从NADP(H)有效传递至催化中心的亚铁血红素，以完成甾体底物的氧化反应。因此，该蛋白与宿主内源或异源表达的电子传递系统间的相互作用，将直接决定电子传递效率，进而影响P450单加氧酶的催化效率。再加上P450蛋白催化上的特性和甾体底物结构的高度相似性，使得某些P450 单加氧酶在催化甾体底物时表现出较差的专一性[12,13]。因此，如要提高甾体修饰的氧化效率和产物特异性，研发P450 单加氧酶及其电子传递系统的工程化改造策略，具有重要的研究意义和应用价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前主要采用以下策略，解决P450单加氧酶在表达方面的问题（图2，白色部分），即（1）通过对P450酶N端进行改造，改善其在异源宿主中的有效定位表达以及提高可溶性表达水平；（2）伴侣蛋白的辅助表达帮助 P450单加氧酶的正确折叠，保证其催化活性；（3）通过引入定点突变提高 P450单加氧酶的表达水平及催化效率。由于上述工程化P450的方法已在HausjellJ等[14]和 Susan Z等[15]的综述中进行了系统的阐述，这里不再赘述。本文将围绕如何加强电子传递效率来提高催化反应效率，以及如何对P450单加氧酶进行关键结构的优化来提高其催化特异性这两个方面研究工作（图2，橙色部分）进行概括，并详细描述如何通过工程化改造异源表达的P450催化体系，在模式微生物宿主中实现对甾体母核进行高效、特异的氧化修饰，从而为相关工作的开展提供参考指导。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ef642d7892325f2a8cb0566d8969b1fb445c71b5407ed2a2315a9560d0e152c.jpg",
+        "img_caption": [
+            "图2甾体P450催化体系的工程化策略",
+            "Fig.2EngineeringstrategyofP450catalytic system "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.基于电子传递效率提高工程化P450催化留体的效率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "P450 催化功能的实现依赖于氧化酶和还原酶之间特定的电子传递过程[16]。在生物体内P450酶被分为两大类（I类和ⅡI类），I类P450酶定位于原核生物的内膜系统或真核生物的线粒体内膜；ⅡI类P450 蛋白定位于真核生物的内质网膜。这两类P450 酶复合体包含不同的亚基和差异性的电子传递系统（图3A）。I类P450的电子传递体系由含有铁硫簇结构的铁氧化还蛋白（Ferredoxin，Fdx）及与之配对的含有FAD 辅因子的铁氧还蛋白还原酶（Ferredoxinreductase，FdR）组成[17]（图3A），或由黄素氧还蛋白（Flavodoxin，Fld）及与之配对的黄素氧还蛋白还原酶（Flavodoxin reductase，FpR）构成[18]。其中，应用最为广泛的是来源于哺乳动物线粒体的肾上腺皮质铁氧还蛋白（Adrenodoxin，Adx）及铁氧还蛋白还原酶（Adrenodoxinreductase，AdR）。Adx/AdR电子传递体系不仅能够支持不同真核生物来源的线粒体P450 酶系，同样可以与一些原核生物来源的 P450氧化酶发生作用以支持其催化的氧化反应[19]。Ⅱ类P450 的电子传递体系只包含拥有 FAD与FMN 辅基的NADPH-P450 还原酶（Cytochrome P450reductase,CPR）（图3A）。II类P450的氧化酶和还原酶都通过N端的疏水序列锚定在内质网膜，其催化结构域均朝向细胞质一侧。二者之间以分子的随机碰撞的形式发挥相互作用，实现电子的转移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在异源表达P450催化体系时，氧化酶与还原酶往往因为异源表达水平低、活性差、或相互之间协同作用困难等问题，造成电子传递效率偏低，极大地抑制了P450氧化酶的催化效率[10]。为解决上述问题，研究者通常会采取了以下策略（图3），即：（1）为P450氧化酶匹配偶联效率高的氧化还原伴侣；（2）通过调节氧化还原酶及其氧化还原伴侣的比例或表达额外的电子传递体，补充氧化还原力；（3）P450的氧化酶和氧化还原伴侣的人工组装。在此，本文将针对为氧化甾体母核而进行P450催化体系异源构建时遇到的实际问题进行阐述。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/71f3fafc9a1ea5ab981814e2a1b51720cdb1b515576af75c25a7ed514869f29f.jpg",
+        "img_caption": [
+            "图3提高P450电子传递效率的策略",
+            "Fig.3Strategies for improving the efficiency ofP450 electron transport "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.1P450氧化酶与氧化还原伴侣的匹配",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将P450氧化酶及与该酶偶联效率高的氧化还原伴侣在宿主中进行共表达，是提高P450催化体系电子传递效率的有效手段。为实现这一目标，研究者往往选择不同来源的氧化还原伴侣与目标P450氧化酶进行组合筛选（图3B）。而筛选时则首先选择与P450氧化酶属于同一类的电子传递体系。其中对于I类P450氧化酶来说，常用于筛选的除最为常见的Adx/AdR 电子传递体系，还包括来源于恶臭假单胞菌（Pseudomonasputida）的假单孢氧还蛋白（Putidaredoxin，Pdx）/还原酶（Putidaredoxin reductase，PdR）[20]、来源于菠菜线粒体的菠菜铁氧还原蛋白Fdx/还原酶FdR[21和来源于裂殖酵母（Schizosaccharomyces pombe）的 Etp1fd(Ferredoxin domain of electron transfer protein 1） /Arhl （Adrenodoxin reductase homologue 1）等等。其中，Etp1t/Arh1与Adx/AdR高度同源[22]。根据表1中所列的成功提高甾环氧化效率的案例，我们发现在宿主中与异源P450氧化酶偶联效率高的氧化还原伴侣，一般并非其天然匹配的电子传递体系[23]。例如在大肠杆菌（Escherichiacoli）中共表达来源于纤维堆囊菌（Sorangium cellulosum）的CYP260B1、牛源的Adx以及大肠杆菌来源的FpR时，可取得最高的11-脱氧皮质酮C9位羟基化效率[24]。在裂殖酵母中将人源的P450氧化酶分别和来自于大阿米芹、人以及裂殖酵母内源的还原酶进行组合表达筛选，发现人源CYP17和CYP21与裂殖酵母内源CPR 匹配时，表现出最高的催化活性[25]。这可能是由于不同物种来源的同工酶其活性本身就具有较大差异[26-28]，且宿主细胞本身的兼容性也会影响异源基因的表达效果[29]。因此，筛选不同来源的电子传递体系与P450氧化酶进行组合优化是提高电子传递效率的有效手段。例如，在大肠杆菌中表达来源于皮疽诺卡菌（Nocardia farcinica）的CYP154C5时，可通过共表达恶臭假单胞菌来源的Pdx/PdR，实现孕烯醇酮向16α-孕烯醇酮的转化[20]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有趣的是，在某些情况下，P450氧化酶可以从与其不属于同一类的电子传递体系中接受电子。例如，在酵母中将I类P450氧化酶在内质网上进行定位表达后，则接受属于Ⅱ类P450体系的CPR传递的电子[30]。Toshiyuki S等[3u在酿酒酵母中表达来源于大鼠线粒体的CYP27时，将该蛋白的N端的线粒体靶向序列替换为内质网靶向序列，以实现CYP27内质网定位。此时在酵母内源CPR的作用下，成功向CYP27传递电子实现对5β-胆甾烷 $- 3 a , 7 a , 1 2 a .$ -三醇的C27位羟基化修饰。与之类似的是，异源表达的Ⅱ类P450氧化酶有时也可以接受属于I类P450电子传递链递送的电子，甚至能够取得最佳的电子传递效率。例如，在大肠杆菌中表达来源于哺乳动物内质网的CYP21A2时，共表达 Etp1f/Arh1时对甲泼尼龙C21位的羟基化速率是共表达 CPR时的1.92 倍[32]。因此，宿主的内源环境可能直接影响 P450氧化酶与氧化还原伴侣的匹配程度。尽管这其中的决定因素和作用机制尚不清楚，但上述案例提醒我们在匹配P450 氧化酶和氧化还原伴侣时，要考虑与P450氧化酶共定位的异源电子传递体系。而对上述实例机制的进一步解析，将有助于我们设计、构建异源P450催化体系，实现甾体化合物的高效氧化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.2补充氧化还原力",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在前文提到，初始表达的P450氧化酶与还原酶往往因为异源表达水平低、活性差而影响电子传递效率[]。此时需要向体系中补充氧化还原力，以增强电子传递速率，提高P450 氧化酶对甾体底物的催化能力。根据表1中列举的相关甾体P450的成功示例，目前主要采用两种方式是调节P450氧化还原酶体系中蛋白亚基表达水平的配比和额外表达电子传递体（图3C）。这是基于调控电子传递流量的方式提高电子传递效率的策略。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.2.1调节氧化酶及其氧化还原伴侣的比例",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "调节 P450酶系中蛋白亚基表达比例是调控还原力的常用手段（图3C）。例如 Sawada N等[在大肠杆菌中表达来源于茴香霉素的CYP105A1与来源于菠菜的氧还蛋白及其还原酶Fdx/FdR，以实现 $\\mathrm { V D } _ { 2 }$ 到 $\\mathrm { 1 a , 2 5 \\mathrm { - } ( O H ) V D _ { 2 } }$ 的转化。其结果表明，共表达 $4 \\mu \\mathrm { M } \\mathrm { F d } \\mathrm { x } / 0 . 2 \\mu \\mathrm { M }$ FdR时，CYP105A1的催化活性要远远高于共表达 $4 \\mu \\mathrm { M F d x } / 2 \\mu \\mathrm { M F d R }$ 时。Lina S 等[33通过增加Adx 的拷贝数来增强CYP11B1对11-脱氧皮质醇的催化效率。他们发现表达三个拷贝的 Adx比表达单个拷贝的Adx 更利于11-脱氧皮质醇的转化。当Adx的表达量提高了3.3 倍时，产物氢化可的松的产量随之提高了 $30 \\%$ 。由此可见，对于I类P450氧化还原系统来说，若要维持其较高的电子传递效率，则需要较高的氧还原蛋白/氧还原蛋白还原酶的比例，这可能与氧还原蛋白在I类P450 电子传递链中多起到的承上启下的作用相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.2.2表达额外的电子传递体",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表达额外的电子传递体是补充氧化还原力的常用手段。尤其是在构建Ⅱ类P450催化体系时，研究者倾向于额外表达Cyt-b5（细胞色素 B5）（图3C）。例如，Vimercati S等[34将马来源的三种CYP3A家族的P450酶与相同来源的还原蛋白CPR 和Cyt-b5以1:4:1的比例在昆虫细胞中进行异源表达，实现了对睾酮的6位羟基修饰。然而，对于某些P450催化的甾环氧化反应，额外表达Cyt-b5 并不能达到增强其电子传递效率的目的。例如，对于同时具备C17位羟基化和C17-C20 键断裂活性的CYP17A1来说，额外表达Cyt-b5只能增强后者的催化效率[35l。RuchiaD 等l36利用纳米磷脂盘技术（Nanodisc technology）证明了Cyt-b5可以在还原含氧二价铁复合物（oxyferrous complex）形成过氧化中间体（Peroxo-ferric）的过程中额外提供的一份电子，以加速反应中间体活化的效率。在CYP17A1所催化的裂解反应中，Cyt-b5 还原含氧二价铁复合物的速率是CPR蛋白的10 倍[37I。而引入Cyt-b5 后电子传递链的耦合速率是不表达Cyt-b5 时的5倍β3。虽然细胞色素 B5的加入可以有效的加强电子传递效率，但是值得注意的是，SangC等[38在表达CYP2B4 催化甲氧氟烷时曾报道，Cyt-b5的引入会引起CYP2B4催化中心构象的改变，其变化程度与CPR 和Cyt-b5的比例有关。因此，在进行甾体氧化反应时，我们对Cyt-b5 的应用应更加慎重，必要时需调整Cyt-b5 与还原酶的表达比例。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.3P450氧化酶及其氧化还原伴侣的人工组装",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "无论是在真核还是原核生物中，都发现了一种以ⅡI类P450 氧化酶-CPR融合表达形式存在的蛋白。该类蛋白利用天然融合的电子传递链实现更高效的电子传递过程，其电子传递效率优于氧化酶及其氧化还原伴侣独立表达的P450 同工酶。该类蛋白的典型代表是P450 BM3（CYP102A1），其催化脂肪酸羟化的反应速率较真核细胞脂肪酸羟化酶提高了两个数量级以上[39]。因此将 P450氧化酶及与其氧化还原伴侣进行融合表达，是一种通过缩短电子传递空间距离的方式来增强电子传递效率的策略(图3D)。例如，天然融合蛋白中P450 BM3(CYP102A1)的还原酶组分能够与多种亚铁血红素蛋白匹配。SandraO等[40]将来自结核分枝杆菌（Mtb）的CYP130（天然的氧化还原配体未知)与来自巨大芽孢杆菌的P450 BM3（CYP102A1)的NADPH还原酶以Linker连接进行融合表达，发现融合酶以右美沙芬为底物的催化活性比其他非天然氧化还原配偶体重构的CYP130高出 $6 \\%$ 。此外，对于I类P450催化体系来说，构建氧化酶-铁氧还蛋白-铁氧还蛋白还原酶的三重融合蛋白，或融合铁氧还蛋白-铁氧还蛋白还原酶视为一个还原酶单元，也实现了提高电子传递效率的效果。例如，EachanO将来自于恶臭假单胞菌（Pseudomonas putida）的CYPl01A1与同源的氧还蛋白还原酶（PdR）进行融合，以游离的氧还蛋白 (PdX)为电子传递体，提高了樟脑的5位羟基化反应效率，是天然系统的两倍[41]。因此，P450 氧化酶与其氧化还原伴侣的融合表达有助于改善电子传递水平，提高催化效率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于融合表达的有效性，近年来研究人员也尝试对甾体氧化酶与其氧化还原伴侣进行融合表达，然而却难以提高甾体P450 单加氧酶的催化效率。CharlesW 等[42]将牛源的CYP17A与大鼠的P450还原酶进行融合，催化孕烯醇酮的17位羟基化反应。但是与单独表达相比，融合蛋白没有实现催化效率的提高。例如,PatrickJ等[43]将来自枯草芽孢杆菌的黄素氧还蛋白 YkuN与来自大肠杆菌的黄素氧还蛋白还原酶Fpr 融合，分别匹配来自于巨大芽孢杆菌的CYP106A2和牛源的CYP21A2，对底物孕酮进行体外催化修饰。结果显示，YkuN/Fpr 融合体系虽然可以提高其自身与CYP106A2和CYP21A2的偶合效率，但此时催化体系的反应速率仅为YkuN 和Fpr单独表达时的 $3 5 . 1 \\%$ 和 $50 . 0 \\%$ 。StrushkevichN等[44]以3种不同Linker 融合表达的CYP11A1/Adx，发现融合蛋白的 $\\mathbf { k } _ { \\mathrm { c a t } }$ 都远低于单独表达的CYP11A1。通过分析Adx/CYP11A1的复合体结构，他们发现 Adx与CYP11A1之间的电子传递依赖于两者之间特定取向的界面相互作用。因此，当氧还蛋白Adx与氧还蛋白还原酶 AdR 融合后，可能阻碍Adx与CYP11A1之间特定的界面相互作用，从而无法有效的连通 Adx 铁硫簇和CYP11A1亚铁血红素之间的电子传递链。上述实验结果和结构分析表明，对于含有氧还蛋白的I类P450系统，利用其催化甾环的氧化反应时，蛋白融合策略应重点考虑基于界面相互作用的电子传递过程，此时再结合蛋白亚基的相互作用的分析将有助于提高蛋白融合的有效性。例如，来自硫磺矿硫化叶菌（Sulfolobus solfataricus）的增殖细胞核抗原（Proliferating cell nuclear antigens,PCNAs）是一个异源三聚体。Hidehiko H等[45]通过将氧化酶 P450cam、PdX、PdR 分别与PCNAs 的一个亚基融合，利用PCNAs 的自我组装过程引导P450cam、PdX、PdR的界面相互作用，所形成的非共价异源三聚体复合物展现出高效的电子转移速率，其NADPH与 $\\mathrm { O } _ { 2 }$ 消耗速率较P450cam、PdX、PdR独立表达提高了50倍。因此，发展P450氧化酶及其氧化还原伴侣的组装策略，可能是解决目前融合表达难以在甾体P450 催化体系发挥正效果的有效手段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdb0d9774580845d855306e5f00694eda9de179c053c133ca864719a9041c622.jpg",
+        "table_caption": [
+            "表1：调节P450电子传递效率的实例",
+            "Table1Examples of adjusting the electron transport efficiency of P450 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工程化手段</td><td>P450单加氧酶</td><td>还原蛋白/还原酶</td><td>催化反应</td><td>反应场所</td><td>效果</td><td>参考文献</td></tr><tr><td>异源氧化还原酶</td><td>CYP260B1(So ce56)</td><td>Adx(Bovine)Fpr(E.coli)</td><td>11脱氧皮质酮→1/9/11</td><td>大肠杆菌</td><td>C9 位羟化效果优</td><td>[25]</td></tr><tr><td>适配</td><td></td><td></td><td>位羟化</td><td></td><td>于天然氧还伴侣</td><td></td></tr><tr><td rowspan=\"12\">补充氧化还原力</td><td>CYP21A2_Bo</td><td>Etp1fd/Arh1(S.pombe)</td><td>medrane→premedrol</td><td>大肠杆菌</td><td>C21位羟化能力提</td><td>[33]</td></tr><tr><td></td><td></td><td></td><td></td><td>高1.92倍</td><td></td></tr><tr><td>CYP154C5(N.farcinic</td><td>Pdx/PdR(P.putida)</td><td>孕烯醇酮→16 位羟化</td><td>大肠杆菌</td><td>孕烯醇酮的转化速</td><td>[21]</td></tr><tr><td>a)</td><td></td><td>睾酮→16 位羟化</td><td></td><td>率高于睾酮</td><td></td></tr><tr><td>CYP27_Ra</td><td>CPR(S.cerevisiae)</td><td>5β-胆甾烷-3α,7α,12α-三</td><td>酿酒酵母</td><td>C27位羟化能力提</td><td>[32]</td></tr><tr><td></td><td></td><td>醇→27位羟化</td><td></td><td>高5倍</td><td></td></tr><tr><td>CYP17_Hu</td><td>CPR(A.majus、H.sapiens、</td><td>孕酮→17 位羟化</td><td>裂殖酵母</td><td>CPR(S.pombe)显示</td><td>[26]</td></tr><tr><td>CYP21_Hu</td><td>S.pombe)</td><td>孕酮→21位羟化</td><td></td><td>出最高活性</td><td></td></tr><tr><td>CYP105A1(S.griseolu</td><td>Fdx/FdR(spinach)20:1</td><td>VD→25位羟化</td><td>大肠杆菌</td><td>Fdx/FdR 20:1的催</td><td>[22]</td></tr><tr><td>s)</td><td>2:1</td><td></td><td></td><td>化活性更高</td><td></td></tr><tr><td>CYP11B1_Hu</td><td>Adx(Bovine)</td><td>11脱氧皮质醇→11/14</td><td>大肠杆菌</td><td>11位羟化能力提高</td><td>[34]</td></tr><tr><td></td><td>表达三个拷贝数</td><td>位羟化</td><td></td><td>30%</td><td></td></tr><tr><td rowspan=\"8\">融合表达</td><td>CYP3A_Hu</td><td>CPR(马)/Cyt-b5=4:1、1:1、</td><td>睾酮→26 位羟化</td><td>昆虫细胞</td><td>过表达CPR使6羟</td><td>[35]</td></tr><tr><td></td><td>2:1</td><td></td><td></td><td>基睾酮产量远高于</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2羟基睾酮</td><td></td></tr><tr><td>CYP130（Mtb）</td><td>CPR(B.megaterium)</td><td>右美沙芬</td><td>大肠杆菌</td><td>催化活性提高6%</td><td>[41]</td></tr><tr><td>CYP106A2(B.megater</td><td>YkuN(B.subtilis)/FpR</td><td>孕酮→6位羟化</td><td>体外转化</td><td>催化速率为未融合</td><td>[44]</td></tr><tr><td>ium）</td><td>(E.coli)</td><td></td><td></td><td>的35.1%</td><td></td></tr><tr><td>CYP21A1_B0</td><td>YkuN(B.subtilis)/FpR</td><td>孕酮→21位羟化</td><td>体外转化</td><td>催化速率为未融合</td><td>[44]</td></tr><tr><td></td><td>(E.coli)</td><td></td><td></td><td>的50.0%</td><td></td></tr><tr><td rowspan=\"2\">CYP11A1_Hu</td><td></td><td>Adx（Human）</td><td>胆固醇→11位羟化</td><td>体外转化</td><td>催化常数远低于未</td><td>[45]</td></tr><tr><td></td><td></td><td></td><td></td><td>融合</td><td></td></tr><tr><td>CYP101A1(P.putida)</td><td></td><td>PdR(P.putida)</td><td>樟脑→5位羟基化</td><td>大肠杆菌</td><td>催化活性提高2倍</td><td>[42]</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2、提高工程化甾体P450单加氧酶的催化特异性",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由于甾体母核的高度保守性，以及被氧化修饰的官能团的类型相近（主要是甲基和亚甲基），所以多数天然甾体P450 单加氧酶表现出较差的催化特异性[46.47]。例如，CYP106A2 同时具备甾环的C6、C9以及C15位的羟化活性[12]。而CYP27A1可同时羟基化修饰甾环的 C25、C26 和C27位[13]。而在实际应用中，我们需要对甾环特定位点进行氧化修饰，从而发挥催化产物特有的功能活性。为了满足应用的要求，需要对目标P450蛋白进行改造和优化，获得具备优良的催化特异性工程化P450。目前对P450改造和优化的主要策略分为半理性设计和理性设计，非理性设计应用则较为受限。本文将分类进行阐述。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.1基于非理性设计的留体P450单加氧酶定向进化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "对甾体P450的非理性设计，主要是通过易错PCR，对目标甾体P450单加氧酶进行随机突变；再此基础上结合高通量筛选技术，获得能实现预定催化效果的突变体。例如，野生型P450 BM3 不能催化17β-雌二醇。ChaGS 等[48,49]以 P450 BM3 编码基因为模板进行易错 PCR,在随机突变库中发现以大肠杆菌作为宿主细胞突变体R47L/E64G/F81I/F87V/E143G/L188Q/E267V可以实现对 $1 7 \\beta$ -雌二醇C2位的羟基化。但是，目前为止，通过非理性设计优化甾体P450单加氧酶催化特异性的研究成果鲜见报道，并且效率较低，这是因为非理性设计的目标往往聚焦于提高甾体P450单加氧酶的表达水平和催化效率。例如，SchifferL等[33]对人源的CYP11B1进行随机突变，最终筛选出优良的突变体L271M。对于催化11-脱氧皮质醇到氢化可的松的反应，该突变体显示出最高的转化效率。同时，非理性设计往往伴随着的高通量筛选。而大多数甾体生物合成路径的中间体缺乏颜色和特殊的理化性质（如微生物抗性或官能团特异性显色反应），不利于高通量筛选。基于以上限制，非理性设计很少应用于优化甾体P450单加氧酶的催化特异性。因此，研究者多采用半理性或理性设计来实现这一目标。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.2基于半理性设计的留体P450单加氧酶定向进化",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "目前很多甾体P450单加氧酶及其与底物类似物的复合体结构已经被报道，同时由于甾体P450 单加氧酶的结构保守性和结构模拟方法的发展，为P450单加氧酶的结构研究和改造提供了更丰富可靠的结构基础。半理性设计通过对该复合体结构的分析，推测若干影响 P450 单加氧酶催化选择性的位点，进行饱和突变，以期增强对甾环目标位点的特异性氧化。例如，来自纤维堆囊菌的CYP260A1可特异催化C19-甾体（例如雄酮、雄烯二酮）和C21-甾体（例如11-脱氧皮质酮)的C1位，但在体外转化实验中却主要羟基化孕酮的C3和C5位。为增强CYP260A1对 C1位的催化选择性，KhatriY 等[50]通过将 N端截短的CYP260A1的晶体结构与孕酮进行分子对接，模拟该蛋白与底物的复合体结构，初步判定 S225、S275和 S276这三个氨基酸残基与CYP260A1对孕酮的催化选择性直接相关。通过对这三个位置的氨基酸残基进行饱和突变，发现突变体 S276N可将 $1 \\alpha \\cdot$ -羟基-孕酮在总产物中的比例由 $36 \\%$ 提高至 $57 \\%$ 。与非理性设计相比，半理性设计通过降低突变目标选择的随机化程度，减少代为筛选的突变体文库体量，同时避免人力物力的大量消耗。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3基于理性设计的留体P450单加氧酶定向进化",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "理性设计建立在对甾体 P450 单加氧酶的蛋白结构和催化机理充分了解的基础上，以实现对目标蛋白结构的精确调控，从而改变其催化选择性。理性设计中对突变位点的选择方式除分析P450蛋白与甾体底物的复合体结构外，还可通过在具有不同催化选择性的同工酶之间进行同源序列比对，找到潜在的决定选择特异性的位点。例如，在研究CYP17A1催化C17-C20 碳键断裂的底物选择性时，GregoryMC等[511将8种不同脊椎动物来源的CYP17A1进行同源序列对比，发现CYP17A1202位氨基酸残基为天冬酰胺时倾向于催化甾环C3位为羟基的底物（例如，17-羟孕烯醇酮）；而202位氨基酸残基为丝氨酸或苏氨酸时，倾向于催化甾环C3位为酮基的底物（例如，17-羟孕酮）。因此，GregoryMC等推测 202位氨基酸残基决定了CYP17A1的底物选择性，而相应的人源CYP17A1的突变体N202S可实现最适底物由17-羟孕烯醇酮到17-羟孕酮的逆转。SwartAC等[52]通过对18种不同来源的CYP17A1进行序列对比分析，发现具有较强C16位羟化能力的CYP17A1的105位氨基酸残基通常为丙氨酸；而C16位羟化能力较弱的CYP17A1在此处的氨基酸残基通常是亮氨酸。在哺乳动物细胞系COS-1中表达人源CYP17A1A105L进行孕酮的生物转化，产物中17-羟孕酮与16-羟孕酮的比例由表达野生型人源CYP17A1时的4:1提高到9:1。因此，选择催化特异性不同的同工酶进行同源序列比对分析，将某一类催化选择性的保守位点突变为另一类，是不依赖于蛋白复合体结构知识的一种简便有效的改变甾体P450催化选择性的策略。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb04b7c6cee497943e79553a678cd1dad1392fc752fc85daf68e690122d7aaba.jpg",
+        "table_caption": [
+            "表2：提高P450催化特异性的实例",
+            "Table2Examples of improving the catalytic specificityofP450 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设计策略</td><td>P450单加氧酶</td><td>催化反应</td><td>工程化改造</td><td>效果</td><td>参考文献</td></tr><tr><td>调整底物与</td><td>P450BM3</td><td></td><td>R47L/E64G/F81I/F87V/E143G/L</td><td>由不能催化17β-雌二醇(E)</td><td>[49][50]</td></tr><tr><td>活性中心亚</td><td></td><td></td><td>188Q/E267V（非理性设计）</td><td>到可催化生成2-OH-E2</td><td></td></tr><tr><td>铁血红素的</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>相对位置</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/331b414f86c16ded2b803210fa84074e715ff0001df0ba87bf80dbef433c5094.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>CYP11B1</td><td>11 脱氧皮质醇→11/14 位羟基化</td><td>L271M（非理性设计）</td><td>11位羟化选择性提高 23%</td><td>[34]</td></tr><tr><td rowspan=\"5\">调整底物在 催化活性中 心的空间取</td><td>CYP11B1</td><td>11脱氧皮质醇→11/14 位羟基化</td><td>F381A/L382S(半理性设计：酶与 底物复合体结构的分析)</td><td>11位羟化选择性提高1倍</td><td>[33]</td></tr><tr><td>CYP106A2</td><td>孕酮→6羟孕酮、9羟孕</td><td>F165L/A395E/G397V</td><td>9位羟化选择性提高10倍 6位羟化选择性提高10倍</td><td>[15]</td></tr><tr><td></td><td>酮、11羟孕酮、15羟孕 酮</td><td>A243S T89N/A395I</td><td>11位羟化选择性提高3倍</td><td></td></tr><tr><td></td><td></td><td>(半理性设计：酶与底物复合体结</td><td></td><td></td></tr><tr><td colspan=\"3\">构的分析)</td><td></td><td></td></tr><tr><td rowspan=\"6\">向</td><td>CYP260A1</td><td>孕酮（PROG）→1/17</td><td>S276N</td><td>1位羟化选择性提高58%</td><td>[51]</td></tr><tr><td></td><td>位羟基化</td><td>S276I</td><td>17位羟化选择性提高 64%</td><td></td></tr><tr><td></td><td></td><td>（半理性设计：酶与底物复合体 结构的分析)</td><td></td><td></td></tr><tr><td>CYP17A1</td><td>17α-羟孕酮→雄烯二酮</td><td>N202S（理性设计：同工酶蛋白</td><td>转化率提高1倍</td><td>[52]</td></tr><tr><td></td><td></td><td>序列对比)</td><td></td><td></td></tr><tr><td></td><td>CYP260B1</td><td>11脱氧皮质醇→1/9位 羟基化</td><td>T224A（理性设计：酶与底物复</td><td>9位羟化选择性提高15%</td><td>[26]</td></tr><tr><td>调整底物与</td><td>CYP17A1</td><td>孕酮→16/17 位羟化</td><td>合体结构的分析) A105L（理性设计：18种同工酶</td><td>17位羟化选择性提高1.25倍</td><td></td></tr><tr><td>活性中心亚 铁血红素间</td><td></td><td></td><td></td><td></td><td>[53]</td></tr><tr><td>的空间位阻</td><td>CYP3A4</td><td>孕酮→2/6位羟基化、少</td><td>序列对比) I301F/I369F/L482F（理性设计：</td><td>2/6 位羟化能力趋于平衡，其他</td><td>[55]</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，决定甾体P450催化选择性的关键氨基酸残基，大都位于或靠近催化活性中心[53]。对这些氨基酸的突变旨在不危害催化活性的同时，对底物识别位点或底物进出通道进行微调，以期通过调整靶标底物的结合能力或底物在活性中心口袋中的空间取向，改变甾环上靶标位点与活性中心亚铁血红素的距离，获得实际应用所需的催化选择性。根据表2中所列的案例，我们可以将改变催化选择性的策略分为以下三类（图4）：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（1）调整底物与活性中心亚铁血红素间的空间位阻",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，近十年来改变甾体P450单加氧酶催化特异性的成功案例，多发生在甾体母核的A环、C环和D环，而较少发生在B环。这可能是由于在甾体B环与亚铁血红素间的空间位阻较大。这暗示我们可以通过改变特定位点氨基酸残基侧链的长短，通过调整空间位阻改变底物催化位点与P450活性中心亚铁血红素间的相对位置，从而改变目标蛋白的催化选择性。例如，将人源CYP17A1105位氨基酸残基由侧链最小的丙氨酸突变为具有较长侧链的亮氨酸，会增加底物孕酮的C16位与CYP17A1的亚铁血红素间的位阻，从而增加CYP17A1对孕酮C16位催化难度，降低副产物16-羟孕酮的产生。PaoloS等[54依照氨基酸残基到亚铁血红素距离由近到远的顺序，将位于CYP3A4 活性中心具有较小非极性侧链的氨基酸残基依次突变为具有较大非极性侧链的色氨酸或苯丙氨酸，以降低底物孕酮与CYP3A4结合的结合能力。野生型CYP3A4羟化孕酮得到大量的6β羟基孕酮和少量的2β羟基孕酮及其他副产物，然而突变体I301F/I369F/L482F 对孕酮C-2,C-6位羟化能力趋于平衡，其他副产物所占比例也减少了一半。这是由于受大侧链刚性拓扑结构的降低了配体结合的自由度，因此限定了特异性催化位点（图4A）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（2）调整底物与活性中心亚铁血红素的相对位置",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "将关键位点的氨基酸残基突变为含有羟基或较大疏水性侧链的氨基酸，利用氢键或疏水作用调整亚铁血红素中心铁原子与目标催化位点的相对位置。例如，在大肠杆菌中进行17-羟孕酮的C11位羟基化时，熊淑婷等[32]将人源CYP11B1的L382突变为侧链含有羟基的丝氨酸，突变后L382S 可与亚铁血红素的羧基形成新的氢键，使亚铁血红素移向底物的C11位一侧。同时利用临近突变F381A的柔性，增强L382S与亚铁血红素的作用效果（图4B）。与野生型CYP11B1时相比，突变体F381A/L382S 将产物21-脱氧皮质醇在总产物中的所占的比例由$2 6 . 5 \\%$ 提高到 $53 . 5 \\%$ ，转化速率随之提高了 $3 9 . 1 \\%$ 。由此可见，调整甾体底物的催化位点与活性中心亚铁血红素的相对位置，不仅可以加强目标氧化反应的特异性，而且还可同时提高甾体P450单加氧酶的催化效率。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（3）调整底物在催化活性中心的空间取向",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "选择与底物结合相关的氨基酸残基进行突变，通过增强或减弱该氨基酸残基与底物之间的氢键结合或疏水作用，改变甾体底物在P450活性中心的空间取向，以调整目标位点与亚铁血红素的距离，从而调控P450单加氧酶的催化选择性。例如，如图4C 所示，KhatriY等[50]发现孕酮可以以两种不同的空间取向结合于CYP260A1的催化活性中心，即当孕酮C3-和C20-酮基与N端截短的CYP260A1（tCYP260A1）的 S225 和 S276发生氢键相互作用时，底物C1位靠近亚铁血红素，CYP260A1倾向催化孕酮的C1位（空间位置1）；当孕酮C3-和C20-酮基与 tCYP260A1的 S276和 S225 发生氢键相互作用时，底物分子在活性中心的相对空间位置与前者反转，此时C17位靠近亚铁血红素，CYP260A1倾向催化孕酮的C17位（空间位置2）。CYP260A1的突变体 S276N 破坏了野生型蛋白 S276与孕酮C3-酮基的氢键作用，使孕酮不能以稳定的空间位置2结合CYP260A1，因此该突变体催化孕酮生成的产物以1-羟孕酮为主；同理，突变体 S276I不影响孕酮以空间位置2结合CYP260A1（突变体I276可以和底物A环形成疏水作用，弥补该位点与底物C3-酮基间氢键的破坏），但I276较大的疏水侧链会阻碍原本该位点与底物C20-酮基间氢键的形成，使孕酮不能以稳定的空间位置1结合CYP260A1（图4C），因此该突变体催化孕酮生成的产物以17-羟孕酮为主。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/817e2c62b5b5b959990d1979441322c523f76c88d16f80987b92a057ca4f07df.jpg",
+        "img_caption": [
+            "A：CYP3A4催化孕酮得到6β羟孕酮、2β羟孕酮"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/54b7250fe504eecb51932ad6680be310e99066d57a8468526c938da4d779f8bd.jpg",
+        "img_caption": [
+            "B：CYP11B1催化17羟孕酮得到21-脱氧皮质醇"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/02f34401e600514972aae818ab42599e7d0f35af05677c45c923e7b7cd240225.jpg",
+        "img_caption": [
+            "C：CYP260A1催化孕酮得到1-羟孕酮、17-羟孕酮",
+            "图4提高P450氧化特异性的策略",
+            "Fig.4 Strategies for improving P450 catalytic specificity "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3、展望 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "甾体类物质的生物转化研究已有将近70年的历史，使我们已经对甾体生物合成途径和基础酶，尤其是细胞色素P450单加氧酶有了相对成熟的了解。随着科学技术的发展和进步，通过工程化P450 单加氧酶可以有效的提高甾体氧化修饰的效率与选择性。目前的研究发现在天然的P450电子传递链中，电子的利用率受限于电子的能量和电子的供给，往往无法满足催化反应的能量需求。而引入新的电子供给系统，如 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 驱动[55,56]或光驱动[57]的电子供体，有望突破天然P450系统在电子传递上的天花板，同时便于调控电子的供给平衡。此外，新的电子供给系统的还可应用于在P450催化的体外反应中，减少甚至避免昂贵的NAD(P)H等辅因子的消耗[58]。目前上述方法还未在P450单加氧酶催化甾体的反应中得到广泛应用，但是这个方向可能会对甾体化合物的氧化修饰带来全新的突破。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "另外，在甾体实际生广还仔仕三个重要的技木问题：底物浴解度低、专一修饰差和高广物浓度抑制。对于这三个问题，可以借鉴已有的研究手段和技术，利用以下策略加以改善和解决:（1）甾体类化合物在水性介质中溶解度极低，需要添加甲醇[59]、聚乙二醇 400、环糊精、丙二醇[60]等有机溶剂作为助溶剂，以提高可利用的底物浓度。而助溶剂的添加，可能会带来宿主细胞膜受损和P450蛋白变性等负面影响[61]。针对膜系统受损，可进一步调控相关基因（例如脂代谢基因）的表达来提高细胞膜的稳定性。而针对酶变性问题，可采用蛋白突变和重组的手段，获得耐有机溶剂的蛋白突变体。此外，伴随着孕酮[2、氢化可的松[3等甾体类药物中间体从头合成的实现，合成生物学的发展促进甾体类药物生产模式由最初的生物转化逐步向“利用简单碳源，通过人工构建的功能微生物合成”过渡。这种甾体类化合物的重头合成的模式也可以避免上述甾体底物可利用浓度低的问题。（2）构建异源甾体表达路径需涉及多步P450 催化的连续反应。而在实际路径中由于底物的非特异性催化问题造成了复杂的网状催化路径，这使P450 催化选择性问题更为突出，为P450单加氧酶突变设计带来了巨大挑战。在前文中，我们系统描述了如何通过理性设计、半理性设计、非理性设计的手段突变氨基酸残基，解决甾体生产中专一性修饰差的问题。但面对网状的合成路径，我们很难简单寄希望于单纯通过相关P450蛋白的定向进化来解决这一问题。然而，研究发现真核细胞内天然的甾醇或甾体合成路径的各个催化酶往往定位于不同的细胞器。这为我们进行真核底盘细胞的区室化反应组合设计[64]提供了很好的依据。通过对易于产生副产物的反应路径进行区室化反应分割，将有助于提高某些甾体特异性转化的效率。再结合P450单加氧酶的突变设计，对专一性修饰的问题将产生事半功倍的效果。（3）由于目前P450酶催化甾体转化的效率普遍不高，高产物浓度对P450蛋白的抑制作用还没有被凸显，但是产物对关键催化蛋白的负反馈抑制，是产物合成过程中常见的现象。随着研究的深入，当甾体化合物的转化效率会不断提高，届时高浓度产物抑制将必然成为一个阻碍生产的重要问题。对此，我们可以借鉴两相发酵的方法将产物及时转移至有机相，使得产物与反应体系及时隔离[65]；或者通过增强生物体本源的外排系统或引入异源的转运系统[6]，及时将产物排出细胞，避免胞内产物浓度过高，从而解决高浓度产物的抑制问题。另外采用定向进化和理性设计的方法改善和克服宿主或关键酶对高浓度产物抑制作用也将是成为一种有效的策略。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1] 曹飞飞，范永仙，陈小龙.细胞色素P450酶系介导的甾体羟化反应及其在分子水平上的研究进展．国外医药 (抗生素分册),2013,34(4):149-152. Cao FF,Fan Y X,Chen XL. Cytochrome P450 Systerms Mediated Hydroxylation in Steroids and the Development of P450 Systerms Gene. World Notes on Antibiotics, 2013,34(4): 149-152. [2] 胡海峰，李晓敦，朱宝泉．微生物甾体羟化技术及其应用．国外医药(抗生素分册),2006,27(2):76-78. Hu HF,Li XD, Zhu BQ,The steroid hydroxylation technologyof Microbial and its application. World Notes on Antibiotics. 2006,27(2): 76-78. [3]Egorova O V, Gulevskaya S A,Puntus IF,et al. Production of androstenedione using mutants of Mycobacterium sp. Journal of Chemical Technology & Biotechnology,2002,77(2): 141-147. [4] Wrohska N,Brzostek A,Szewczyk R,et al.The Role offadD19 and echA19 in Sterol Side Chain Degradation by Mycobacterium smegmatis. Molecules, 2016,21(5): 598. [5]叶丽，周珮.微生物甾体羟化酶及羟化反应机理研究//全国生化与生物技术药物学术年会,2007. Ye L,Zhou P. Researching on Mechanism of Microbial steroid Hydroxylase and Hydroxylation//National Academic Conference on Biochemical and Biotechnological Drugs,2007. [6] Vanegas KG,LarsenAB,Eichenberger M,et al.Indirect and directroutes to C-glycosylated flavones in Saccharomyces cerevisiae. Microbial Cell Factories,2018,17(1). [7]王鸿，周峰，吴祺豪，等，甾体类化合物生物转化的研究进展．浙江工业大学学报,2015,43(5):556-561. Wang H, Zhou F, Wu Q H,et al. Recent advances in steroid biotransformation. Journal of ZHEJIANG Uinversity of Technology,2015,43(5): 556-561. [8]Petric S,Hakki T,Bermhardt R,etal.Discoveryof a steroid1lα-hydroxylase from Rhizopus oryzae and its biotechnological application. Journal of Biotechnology,2010, 150(3): 428-437. [9]Abdulmughni A,J6zwikI K,Putkaradze N,et al. Characterization of cytochrome P450 CYPl09E1 from Bacilus megaterium as a novel vitamin D3 hydroxylase. Journal of Biotechnology, 2017,243: 38-47. [10]柯霞，孙骏，郑裕国.P450酶系中高效电子传递链的构建及应用．生命的化学,2015,35(6):733-740. Ke X,Sun J,Zheng YG. Constructionand application of the high effcient electron transfer chain for cytochrome P450. Chemistry of Life,2015,35(6): 733-740. [11]Li S,Li Y,Smolke CD.Strategies for microbialsynthesisof high-value phytochemicals.Nature Chemistry,2018, 10(4): 395. [12] Nikolaus J, Nguyen K T, Virus C, et al. Engineering of CYP106A2 for steroid $9 \\alpha \\cdot$ and $\\theta \\beta$ -hydroxylation. Steroids, 2017,120: 41-48. [13]Ehrhardt M,GerberA, Hannemann F,et al.Expression of human CYP27A1 in B. megaterium for the efficient hydroxylation of cholesterol, vitaminD3and 7-dehydrocholesterol. Journal ofBiotechnology,2016,218: 34-40. [14]Hausjell J,Halbwirth H,Spadiut O.Recombinant production of eukaryotic cytochrome P45Os in microbial cell factories.Bioscience Reports,2018,38(2): R20171290. [15] Zelasko S,Palaria A,Das A.Optimizations toachieve high-level expresionofcytochrome P450 proteins using Escherichia coli expression systems. Protein Expression and Purification, 2013, 92(1): 77-87. [16] Omura T, Gotoh O.Evolutionary origin of mitochondrial cytochrome P450.The Journal of Biochemistry,2017, 161(5): 399-407. [17] Omura T. Structural diversity of cytochrome P450 enzyme system.The Journal of Biochemistry,2010,147(3): 297-306. [18]Bakes PJ,Biemann S,BokelA,etal.Designand improvementofartificial redox modules by molecular fusionof flavodoxin and flavodoxin reductase from Escherichia coli. Scientific Reports, 2015, 5(1). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[19]HannemannF,Virus C,Bermhardt R.DesignofanEscherichiacoli system for wholecell mediated steroid synthesis and molecular evolution of steroid hydroxylases. Journal of Biotechnology,2006,124(1): 172-181.   \n[20] Bracco,Paula,Schallmey,et al.Selective steroidoxyfunctionalisation by CYPl54C5,a bacterial;cytochrome P450. Microbial Cell Factories, 2013,12(1):95.   \n[21]Sawada N,Sakaki T,Yoneda S,etal.Conversionof vitamin D3 to1α25-diydroxyvitamin D3by Streptomyces griseolus cytochrome P450SU-1. Biochemical and Biophysical Research Communications,2004,320(1): 156-164. [22]Schiffler B，Bureik M，Reinle W，etal.The adrenodoxin-like ferredoxin of Schizosaccharomycespombe mitochondria. Journal of Inorganic Biochemistry, 2004, 98(7): 1229-1237.   \n[23]Bakkes PJ,Riehm JL,SagadinT,etal.Engineering of versatileredox partner fusions that support monooxygenase activity of functionally diverse cytochrome P450s. Scientific Reports, 2017, 7(1).   \n[24]Litzenburger M,BermhardtR.CYP260Bl actsas 9α -hydroxylase for11-deoxycorticosterone.Steroids,2017,127: 40-45.   \n[25]Neunzig I, Widjaja M,Peters FT,et al. Coexpresion ofCPR from Various Origins Enhances Biotransformation Activity of Human CYPs in S. pombe. Applied Biochemistry and Biotechnology, 2013,170(7): 1751-1766.   \n[26] Chang JJ, Thia C, Lin H Y, et al. Integrating an algal $\\beta$ -carotene hydroxylase gene into a designed carotenoid-biosynthesis pathway increases carotenoid production in yeast. Bioresource Technology,2015,184:2-8.   \n[27] Ding M Z, Yan HF,Li L F,etal.Biosynthesis of Taxadiene in Saccharomyces cerevisiae : selection of geranylgeranyl diphosphate synthase directed by a computer-aided docking strategy.PLoS One,2014,9(10): e109348. [28]Sarria S,Wong B,MartinHG,etal. Microbial SynthesisofPinene.ACS Synthetic Biology,2013,3(7): 466-475. [29] Xie W,Lv X,YeL,etal. Construction of lycopene-overproducing Saccharomycescerevisiaebycombining directed evolution and metabolic engineering. Metabolic Engineering,2015,30: 69-78.   \n[30] Omura T,Gotoh O.Evolutionary origin of mitochondrial cytochrome P450.The Journal of Biochemistry,2017, 161(5): 399-407.   \n[31] Sakaki T, Kominami S,Hayashi K,et al. Molecular enginering studyon electron transfer from NADPH-P450 reductase torat mitochondrial P450c27 in yeast microsomes.Journal of Biological Chemistry，1996，271(42): 26209-26213.   \n[32] Brixius S,Schiffer L,Hannemann F,et al.A CYP21A2 based whole-cellsystem in Escherichia coli for the biotechnological production of premedrol. Microb CellFact, 2015.   \n[33]SchiferL,Anderko S,HoblerA,etal.Arecombinant CYP11B1dependent Escherichiacoli biocatalyst forselective cortisol production and optimization towards a preparative scale.Microbial CellFactories,2015,14(1): 1-12.   \n[34] Vimercati S,Ba Chi M, Zielinski J,etal. Testosterone metabolism of equine single CYPs of the 3A subfamily compared to the human CYP3A4. Toxicology in Vitro,2017, 41: 83-91.   \n[35]SergeevG V,Gilep AA,Usanov SA.The role of cytochrome b5 structural domains in interaction with cytochromes P450.Biochemistry (Mosc),2014, 79(5): 406-416.   \n[36] Duggal R,Liu Y,Gregory M C,et al.Evidence that cytochrome b5acts asa redox donor in CYP17Al mediated androgen synthesis. Biochem Biophys Res Commun,2016, 477(2): 202-208.   \n[37] Duggal R,Denisov IG, Sligar S G. Cytochrome b5 enhances androgen synthesis by rapidly reducing the CYP17A1 oxy-complex in the lyase step. FEBS Lett, 2018.   \n[38]Im S C, WaskellL. The interaction of microsomal cytochrome P450 2B4 with its redox partners, cytochrome P450 reductase and cytochrome b(5).Archives of Biochemistry & Biophysics,2011, 507(1): 144-153.   \n[39] Zhang H,Yokom AL, Cheng S,et al.The ful-length cytochrome P450 enzyme CYP102A1 dimerizes at its reductase domainsand has flexible heme domains for efficient catalysis.The Journal of biological chemistry,2018, 293(20): 7727-7736.   \n[40] Ortega U S,Luirink R A, Geerke DP,et al. Engineering a self-sufficient Mycobacterium tuberculosis CYP130 by gene fusion with the reductase-domainof CYPlO2Al trom Bacills megaterium.Journal of Inorganic Biochemistry, 2018, 180: 47-53.   \n[41] Johnson E O D，Wong L.Partial fusion of a cytochrome P45O system by carboxy-terminal atachment of putidaredoxin reductase to P450cam (CYP101A1). Catalysis Science & Technology,2016, 6(20): 7549-7560.   \n[42]Fisher CW,Shet M S,CaudleDL,etal.High-Level Expression in Escherichia coliof Enzymatically Active Fusion Proteins Containing the Domains of Mammalian Cytochromes P450 and NADPH-P450 Reductase Flavoprotein. Proceedings of the National Academy of Sciences of the United States of America,1992, 89(2):10817-10821.   \n[43]Bakkes PJ,Riehm JL,Sagadin T,etal.Enginering ofversatileredox partner fusions that support monooxygenase activity of functionally diverse cytochrome P450s. Scientific Reports, 2017,7(1).   \n[44] Strushkevich N，Mackenzie F，Cherkesova T,et al.Structural basis for pregnenolone biosynthesis by the mitochondrial monooxygenase system. Proceedings of the National Academy of Sciences of the United States of America,2011,108(25): 10139-10143.   \n[45] Hirakawa H,Nagamune T. Molecular Assembly of P45O with Ferredoxin and Ferredoxin Reductase by Fusion to PCNA.ChemBioChem,2010,11(11): 1517-1520.   \n[46] O'Reilly E,Kohler V, Flitsch $\\mathrm { ~ S ~ L ~ }$ ， et al. Cytochromes P450 as useful biocatalysts: addressing the limitations. Chemical Communications, 2011, 47(9): 2490-2501.   \n[47]Meunier B,de Vissr S P,Shaik S. Mechanism of Oxidation Reactions Catalyzed by Cytochrome P450 Enzymes. Chemical Reviews, 2004,104(9): 3947-3980.   \n[48]van Vugt-Lussnburg BMA,StjerschantzE,Lastdrager J,etal.IdentificationofCritical Residues in Novel Drug Metabolizing Mutants of Cytochrome P450 BM3 Using Random Mutagenesis.Jourmal of Medicinal Chemistry,2007, 50(3): 455-461.   \n[49] Cha G S,Ryu S H, Ahn T, et al. Regioselective hydroxylation of $1 7 ~ \\beta$ -estradiol by mutants of CYP102A1 from Bacillus megaterium. Biotechnology Lettrs, 2014, 36(12): 2501-2506.   \n[50] Khatri Y,Jozwik IK,Ringle M,et al.Structure-Based Engineeringof Steroidogenic CYP260Al for Stereo-and Regioselective Hydroxylation of Progesterone. ACS Chemical Biology,2018,13(4): 1021-1028.   \n[51]Gregory M C, Mak PJ, Khatri Y,et al. Human P450 CYP17A1: Controlof Substrate Preference by Asparagine 202. Biochemistry,2018, 57(5): 764-771.   \n[52]SwartAC,Storbeck K,Swart P.A singleaminoacidresidue,Ala105,confers16α -hydroxylase activityto human cytochrome P450 17α -hydroxylase/17,20 lyase.The Journal of Steroid Biochemistry and Molecular Biology,2010, 119(3-5): 112-120.   \n[53] 陈勇，王淑珍，陈依军．酶的理性设计．药物生物技术,2011,18(6):538-543.   \nChen Y,Wang S Z, Chen Y J. Rational design of enzymes. Pharmaceutical Biotechnology,2011,18(6): 538-543. [54]Schiavini P,Cheong KJ,MoitessierN,etal.Active site crowding ofP4503A4 as a strategy toalteritsselectivity. Chembiochem A European Journal of Chemical Biology,2016,18(3).   \n[55]Cirino PC,ArnoldFH. A Self-Suficient Peroxide-Driven Hydroxylation Biocatalyst.Angewandte Chemie,2003, 42(28): 3299-3301.   \n[56] LiQ,Ogawa J， Shimizu S.Critical Role of the Residue Size at Position 87 in H2O2-Dependent Substrate Hydroxylation Activity and $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ Inactivation of Cytochrome P45oBM-3.Biochemical and Biophysical Research Communications,2001, 280(5): 1258-1261.   \n[57]Jensen K,Jensen PE,Moller BL.Light-drivencytochrome p450hydroxylations.AcsChemical Biology,2011,6(6): 533-539.   \n[58]Shalan H,Kato M, CheruzelL. Keping the spotlight on Cytochrome P450.Biochimica et Biophysica Acta (BBA)- Proteins and Proteomics, 2017.   \n[59] Zehentgruber D,Dragan CA,Bureik M,et al.Challengesof steroid biotransformation with humancytochrome P450 monooxygenase CYP21 using resting cellsof recombinant Schizosaccharomyces pombe.Journal of Biotechnology，2010, 146(4):179-185.   \n[60]Zehentgruber D,Bermhardt R,Bleif R,etal.Towards preparativescale steroid hydroxylation withcytochrome,P450 106A2.2009.   \n[61]Schwaneberg U.Entwicklung einesinvitro cytochrome P450 CYP102 (BM-3） enzym-membran-reaktors: Klonierung，fermentation，reinigung undassyentwicklug zur charakterisierung und gerichteten evolution der monooxygenase P450 BM-3 aus Bacilus megaterium. Herdecke, Germany: GCA. p 84- 85.   \n[62] SzczebaraFM,Chandelier C,Vileret C,etal.Total biosynthesisof hydrocortisone fromasimple carbon source in yeast. Nature Biotechnology,2003,21(2): 143-149.   \n[63]OttR G,AthenstaedtK,HrastnikC,etal.Fluxofsterolintermediates inayeast strain deletedof thelanosterolC-14 demethylase Erg1lp. BBA - Molecular and Cell Biology of Lipids, 2005,1735(2): 111-118.   \n[64] Hammer S K,Avalos JL.Harnessing yeast organelles for metabolic engineering.Nature Chemical Biology,2017, 13(8): 823.   \n[65] 梅兴国，黄伟．红豆杉细胞两相培养生产紫杉醇的研究．生物技术,2000,10(1):10-12.   \nMEI X G，HUANG W. Production of taxol by two -phase culture Taxus cellsuspension. BOTECHNOLOGY, 2000, 10(1):10-12.   \n[66]龙泉鑫，周培富，吴宗辉,等．微生物药物外排泵及其抑制剂研究．药学学报,2008,43(11):1082-1088.   \nLONG QX,ZHOUPF,WUZH,etal.Advances in the studyofthe microbialeflux pumps and its inhibitors development. Acta PharmaceuticaSinica, 2008,43(11):1082-1088. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

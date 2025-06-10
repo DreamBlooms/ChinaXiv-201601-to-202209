@@ -1,0 +1,200 @@
+基础研究
+
+# 基于流形学习的血管内超声图像序列关键帧的提取及应用
+
+毛海群,杨丰',林慕丹'，黄 铮²,崔 凯²，王欣昕i南方医科大学'生物医学工程学院，南方医院心内科，广东广州 510515摘要：目的 以流形学习为基础,提出一种基于血管内超声(IVUS)图像序列的关键帧门控方法,抑制IVUS序列纵切方向上的运动伪影。方法应用流形学习方法中的拉普拉斯特征映射算法，将高维IVUS图像序列降到低维流形中,利用低维特征向量，构建一个距离函数来反映心脏运动规律,将IVUS 图像分为心脏舒张末期和非心脏舒张末期两类,从而提取关键帧,组成门控序列。结果临床采集13组IVUS序列(图像 $9 1 5 { \pm } 1 4 2 \$ 帧,血管长度 $1 5 . 2 4 { \pm } 2 . 3 7 \ \mathrm { m m } ,$ ,计算门控前后图像序列的血管容积、管腔容积和平均斑块负荷。统计实验结果,表明门控序列血管容积、管腔容积显著小于原始序列，门控前后序列的平均斑块负荷差异性不显著,满足临床诊断要求。血管面积方差和管腔面积的方差显著小于原始序列,表明门控序列较原始序列稳定。在IVUS图像序列的纵切图像上,门控序列减少了锯齿形状的运动伪影,与原始序列形状一致，且具有良好的连续性。并将本文方法与已有的提取门控序列方法进行对比。结论 本文方法算法简单稳定,抑制了IVUS图像序列的纵向运动伪影。
+
+关键字：血管内超声成像；门控；关键帧；流形学习
+
+# Key frames extraction and application in intravascular ultrasound pullback sequences based on manifold learning
+
+MAOHaiqun',YANGFeng,LINMudan',HUANGZheng²,CUIKai²,WANGXinin   
+ColegeofiomedicalEngineingSoutheedicaliesityDepartmentofrdiologSouthenedicalnesityfa   
+Hospital, Guangzhou 510515,China
+
+Abstract: Objective We propose an image-based key frames gating method for intravascular ultrasound (IVUS)sequence based n manifold learning to reduce motion artfacts in IVUS longitudinal cuts.Methods We achieved the gating with Laplacia eigenmaps，a manifold learning technique，to determine thelow-dimensional manifold embedded in the high-dimensional image space.Adistance function wasconstructedbythelow-dimensional feature vectors toreflectthe heart movement.The IVUS images wereclasified as end-diastolic and non-end-diastolic based onthedistance function,and the IVUS images colected in end-diastolic stageconstitutes the key frames gating sequences.Result We tested the algorithm on13 in vivo clinical IVUS sequences (images $9 1 5 { \pm } 1 4 2 \$ frames, coronary segments length $1 5 . 2 4 \pm 2 . 3 7 \ \mathrm { m m }$ ）to calculate the vessel volume,lumen volume,andthe mean plaque burdenof theoriginaland gatedsequences.Statistical results showedthatboth the vesel volume and lumen volume measured from the gated sequences were significantly smaler than the original ones, indicatingthatthegated sequences weremore stable; themeanplaqueburdenwascomparablebetweentheoriginaland gated sequences to meet the ned inclinicaldiagnosis and treatment.Inthelongitudinal views,the gated sequences had less saw tooth shapethan the original ones witha similar trend anda good continuity. We alsocompared our method with an existing gating ethod. Conclusion The proposed algorithm is simple and robust,and the gating sequences can efectively reduce motion artifacts in IVUS longitudinal cuts.
+
+Key words: intravascular ultrasound imaging; gating; key frames; manifold learning
+
+冠状动脉粥样硬化是心血管疾病的主要病理基础，血管内超声(intravascularultrasound,IVUS)是一种基于导管的成像技术,实时提供冠脉血管的截面图像[]。图像分辨率高，能准确获取冠状动脉的管壁厚度、管腔形态及动脉粥样硬化斑块成分等信息。在辅助诊断冠脉粥样硬化方面，IVUS已经发展成为传统冠状动脉造影(CAG)非常重要的辅助工具。然而，由心脏运动所引起的运动伪影给IVUS序列血管面积、血管容积、管腔面积、管腔容积、管腔最大最小直径、管腔面积狭窄率、斑块负荷等诊断指标的定量分析带来很大的困难，影响临床冠心病的诊断和治疗[1-3]
+
+运动伪影在IVUS图像序列中表现非常显著，在纵切图上，IVUS图像序列呈锯齿状分布（如图6上部所示）。ECG门控法是传统的抑制运动伪影的方法，分为在线(on-line)门控[4和离线(off-line)门控[5]。在线ECG门控法在每个心动周期的R波处采集图像，需要结合专门的硬件设备，导管介人时间长。离线ECG门控同时采集ECG信号和IVUS图像，医生对照ECG信号从IVUS序列中标记出门控帧,介入时间减少,缺点是难以选择最佳采样点，主观性强。临床上难以同时获得ECG信号和IVUS信号。因此,近年来,研究者们致力于利用IVUS图像序列本身来寻找门控序列，即基于图像的门控法[612]。基于图像的门控法完全利用图像处理技术，提取反映IVUS图像的显著性特征量作为参考点，参考点随着图像序列变化，形成一个类似ECG的时间变化信号。据此将IVUS图像分为心脏舒张末期图像和非心脏舒张末期图像两类，由关键帧组成门控序列。所谓的关键帧定义为心脏舒张末期采集到的IVUS图像。在心动周期中,舒张末期心室进入等容收缩期,心脏运动较慢，超声探头和管腔的相对位移小，此时的IVUS图像具有很好的稳定性和一致性[9.13]。目前已有的基于图像的门控方法有：以像素点局部灰度均值，感兴趣区域(ROI,人工设定)的平均灰度和绝对灰度差[],管腔轮廓线等局部信息作为特征的方法。文献[6]提出的方法对带通滤波器参数敏感,难以提取心律不齐患者的IVUS序列门控帧,文献[7-8]提出的方法都需要精准的边缘检测方法，然而目前尚未存在有效的IVUS图像分割方法，降低了特征精度。文献[9]提出一种基于图像的"理解(Intelligate)"的门控方法,选择图像互相关系数,空频域特征等全局特征作为特征信息，缺点是难以准确选择主要特征。为了降低对特征提取与选择的要求,研究者利用同序列中不同帧之间的非相似性程度作为特征信息[10-12],构造差异矩阵，采用动态规划(dynamic programming,DP),在差异矩阵中搜索一条累计差异值最小的路径，提取出心脏舒张末期门控帧，算法复杂,计算量大。
+
+流形学习是一种非线性降维方法，将高维非线性数据映射到低维流形，同时保持了数据集的固有属性，在图像处理中得到广泛应用[14]。在门控方面,流形学习已用于IVUS心脏门控[15]4D超声[16-17]MRI图像的呼吸门控[17。本文提出一种基于流形学习的关键帧门控方法，在流形学习的指导下，将高维非线性的IVUS数据集降到低维流形中，利用低维流形中的特征向量，构造一个特征明显的距离函数，来反映心脏运动规律，检索距离函数局部最小值，将关键帧从IVUS图像中提取出来，组成门控序列。通过对门控前后序列的血管面积、血管容积、管腔面积、管腔容积、斑块负荷等量化指标的定量比较分析，以及门控前后序列纵切图分布和与已有的方法比较来评价本文算法。
+
+# 1方法
+
+在IVUS图像序列采集过程中，心脏周期性搏动引起超声探头与血管之间的相对位移、短轴方向上的平面振荡、血管尺寸连续变化、冠脉血管部分位置重采样或未采样等，在IVUS纵切图像上产生锯齿形状的运动伪影。但这些变化都是缓慢平滑的，且同一相位处的IVUS图像具有很高的相似性。因此，IVUS图像序列处于一个环绕空间(ambient space)的低维平滑流形上，每一帧图像代表高维空间中的一个样本点。IVUS图像序列具有数据量大、维数高、非线性的特点，一幅图像中包含成千上万的图像特征。心脏运动只需用几个基本参数描述就能实现，有效选择反映心脏运动的特征参数是本文的重要内容。本文采用拉普拉斯特征映射算法(laplacianeigenmap,LE)对IVUS序列图像进行降维，LE算法保持了数据流形内在的几何特性，求解过程可转化为对稀疏矩阵的特征分解问题，计算简单。
+
+# 1.1拉普拉斯特征映射算法
+
+拉普拉斯特征映射算法的基本思想是利用图的谱理论，寻找某种意义上最优地保持局部邻域信息的低维表达，使得在高维空间中距离近的点在映射到低维流形后它们之间的距离仍旧很近[18]。给定高维空间 $\mathfrak { R } ^ { N }$ 中的一组样本点 $X { = } \{ x _ { 1 } , . . . , x _ { n } \}$ ,寻找低维空间 $\Re ^ { t } ( N > > t )$ 中的一组点 $\boldsymbol { \prime } { = } \{ y _ { 1 } , . . . , y _ { n } \}$ ，用低维 $y _ { i }$ 描述高维 $x _ { i \circ }$ LE算法主要由三个步骤组成：
+
+(1)选择邻域，构建局部邻域图 $G$ 。计算每个样本  
+点 $. x _ { i }$ 和其余样本点之间欧氏距离，如果样本点 $x _ { i }$ 和 $| x _ { j } \rrangle$ 是近  
+邻点，则图 $\boxed { G }$ 有边 $x _ { i } x _ { j \circ }$ 可采用以下两种方法确定邻域：$\textcircled { 1 } k - n n$ 算法：如果 $\cdot x _ { j }$ 是 $\cdot x _ { i }$ 的k近邻点或者 $\cdot _ { x _ { i } }$ 是 $\cdot x _ { j }$ 的 $k$ 近  
+邻点，则 $\dot { x } _ { i }$ 和 $\lvert x _ { j }$ 有边连接;$\textcircled { 2 } \varepsilon$ -ball算法：若 $\cdot _ { x _ { i } }$ 与 $x _ { j }$ 的距离小于 $\mathbf { \dot { \varepsilon } } _ { \varepsilon }$ ，则点 $x _ { i }$ 和 $| x _ { j } |$ 有  
+边连接，与 ${ \mathrm { \dot { \boldsymbol { x } } } } _ { \iota }$ 相连接的点都是其近邻点。(2)选择权值W。在邻域关系图 $\overleftarrow { G }$ 中，设置权值，有  
+以下两种方法：$\textcircled{1}$ 高斯核方法 $: W = \left\{ e ^ { - { \frac { \left\| x _ { i } - x _ { j } \right\| ^ { 2 } } { \lambda } } } \right.$ ，xi与xj近邻,其中入，其它  
+为一个调节参数;${ \mathrm { . } } W { = } { \left\{ \begin{array} { l l } { 1 } \\ { 0 } \end{array} \right. }$ ， $x _ { i }$ 与 $x _ { j }$ 近邻$\textcircled{2}$ 简单核方法：，其它(3)特征映射，最小均方误差，计算样本的低维嵌  
+入。为保持数据的局部近邻关系，最小化误差函数：  
+$\operatorname* { m i n } \sum _ { i j } W _ { i j } \cdot \left\| y _ { i } - y _ { j } \right\| ^ { 2 }$ ，其中 $i , j = 1 , 2 , \cdots n$ ， $n$ 为样本点数(1)
+
+在 $\boldsymbol { Y } \boldsymbol { D } \boldsymbol { Y } ^ { T } = \boldsymbol { I }$ 约束下，公式(1)可转化为广义特征值的求解问题
+
+$$
+L Y { = } \lambda D Y
+$$
+
+公式(2)中， $\scriptstyle L = D - W$ 为拉普拉斯矩阵，$D _ { i i } = \sum _ { j } W _ { i j }$ ，Y为L的前 $\mathbf { \dot { \rho } } _ { t } .$ 个不为零的最小广义特征值对应的广义特征向量组成的矩阵。
+
+# 1.2基于LE的IVUS图像序列关键帧提取算法
+
+在LE的指导下，提取原始序列关键帧，主要过程为：(1)坐标转换。将直角坐标下的IVUS图像转换到极坐标下，去除非成像区域信息，减少计算量；(2)LE降维。采用LE算法，将高维的IVUS数据集降到低维流形中，提取低维特征向量；(3)距离函数构造。利用选择的特征向量构造一个距离函数，反映心脏的运动规律;(4)提取关键帧。检索距离函数的局部最小值，将关键帧从IVUS图像中提取出来，组成门控序列。
+
+1.2.1IVUS坐标转换流形学习的第一步是构造邻域距离矩阵，要求对所有的数据进行存储。对于一组像素为 $5 1 2 \times 5 1 2$ ，长度为1024的IVUS图像序列，所占用的内存空间是2GB，这对计算机存储空间和程序运行时间的损耗都是很大的。首先对图像进行坐标转换，将IVUS图像转换到极坐标下存储运算。同一组序列，极坐标下占用的内存为0.7031G，只占直角坐标系下容量的 $3 5 \%$ 。统计直角坐标系和极坐标下LE降维后，其特征向量之间的绝对误差仅是 $0 . 9 \%$ 。因此，对IVUS图像序列进行极坐标转换后，既能保持原有的特质，又能减少计算机负担。图1为IVUS图像坐标转换图，A为直角坐标系下的IVUS图像，B为对应的极坐标图像。
+
+![](images/fa5048bddf71b9bb13f3a339c72ff61cd73872552b2671d5e8fc1baccc84dd23.jpg)  
+图1IVUS图像坐标转换 Fig.1 Coordinate conversion for an IVUS image.
+
+1.2.2LE降维在一组包含多个心动周期，长度为n的IVUS图像序列 $\boldsymbol { | u = } \{ u _ { 1 } , . . . , u _ { n } \}$ 中，对每一帧图像 $u _ { i }$ ，希望寻找一个特征向量 $\cdot \phi _ { i }$ 来描述反映 ${ \mathbf { \nabla } } \cdot u _ { i }$ 的心脏运动规律信息。利用流行学习理论，令原始高维空间 $\dot { x } _ { i } = u _ { i }$ ，低维流形空间 $y _ { i } = \phi _ { i \odot }$ 。高维空间的维数 $N$ 等于整幅图像像素，低维流形的维数为t。这样，流形学习 $m$ 表示为：
+
+$$
+\begin{array} { c c } { { m { : } { \mathfrak R } ^ { N } \to { \mathfrak R } ^ { t } } } & { { , i = 1 , . . . n } } \\ { { u _ { i } \to \phi _ { i } } } & { { } } \end{array}
+$$
+
+在心脏周期中，每一帧图像用一个列向量表示，代表高维空间中的一个点，随着心脏的运动，序列图像沿着高维空间或低维流形周期性地变化。应用流形学习降维最基本的问题是维持局部信息的一致性，使得相似的图像在低维流形中有相邻的分布。心脏运动信息包含在拉普拉斯矩阵L的前t个非零的最小广义特征值所对应的特征向量中。
+
+邻域选择是LE算法的关键内容，目前已有的多数邻域选择算法只适应于数据点分布均匀的流形，对于结构复杂的流形不能自适应的选择合理的邻域，主要依据经验来选择邻域大小。本文采用k-nn邻域算法，选择邻域 $k > n _ { c y c l e } , n _ { c y c l e }$ 为一个心动周期内的IVUS图像帧数。IVUS图像序列的欧氏距离矩阵呈一定的周期性，这个周期就是心脏运动的周期 $| n _ { c y c l e }$ 。图2为同一组IVUS图像序列的前200帧(A)，前1024帧(B)图像的欧氏距离矩阵，灰度值越低，表明图像的距离越近。由患者的心率 $f _ { c }$ 来确定 $\dot { n } _ { c y c l e }$ $f _ { c }$ 选择过程如下：(1)图像 $\operatorname { \mathrm { : } } u _ { \cdot }$ 的欧氏距离函数为 $E _ { i }$ (图2中第行或者第列)，对 $E _ { i }$ 做傅里叶变换，$E _ { i }$ 的幅度谱在正常心率范围内(50-140beats/min)的峰值所对应的频率就是图像 $\mathbf { \bar { \mathcal { u } } } _ { i }$ 估计得到的心率 $f _ { i }$ (2）所有图像估计得到的心率均值即为心率估计值：$f _ { c } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } f _ { i \mathrm { o } }$ 这样,一个心动周期内的IVUS 图像帧数为： $n _ { c y c l e } = r o u n d ( f _ { s a m } / f _ { c } ) , f _ { s a m }$ 为每分钟采集IVUS图像的帧数。
+
+![](images/8c99af67976b144ee8076e920adf368d1da6d1b5e83c7dd955d303f69f4fec42.jpg)  
+图2同一组IVUS序列前200帧(A)，1024帧(B)图像的欧氏距 离矩阵 Fig.2 Visualization of the euclidean distance matrix from the first 200 frames (A) and 1024 frames (B)of an IVUS set.
+
+LE算法的另一个主要内容是低维流形的维数t的确定，目前还没有固定的方法指导低维维数的选择。本文实验表明，对IVUS图像序列LE降维，当t大于4时，对距离函数影响不大，因此本文选择内蕴维数 $\tan \angle 4 = 4 0$
+
+1.2.3构造距离函数利用LE算法对IVUS图像序列降维，IVUS序列在低维流形中的分布主要有两种情况，如图3所示。图3为两组IVUS序列降低到2D、3D空间的分布图，“绿色圆实点"是图像在低维流形中的分布，“黑色六角星符"是文献[6]方法寻找到的关键帧的分布。图3上部虚框内对应的IVUS图像序列血管结构变化大，序列进展方向上出现斑块且血管面积变化大，低维流形中关键帧分布离散；图3下部黑色虚框内对应的IVUS图像序列血管结构变化不明显，无斑块，序列进展方向上血管面积变化小,低维流形中关键帧分布集中。统计13组临床IVUS图像序列，其中10组序列低维分布属第一种情况，另3组序列低维分布属第二种情况可见，在低维流形中，仅用样本点分布的聚类性质很难寻找关键帧。文献15将低维流形中前后帧欧式距离函数的局部极大值作为关键帧所处位置，但欧式距离函数特征不明显，容易漏检或误检关键帧。根据心脏运动的特点，心脏舒张末期的IVUS图像稳定，相邻帧之间的差异性小。本文构造距离函数来提取关键帧，距离函数定义为：
+
+$$
+d ( i ) = w _ { s } \sum _ { s = 1 } ^ { m } d _ { s } ( i - s , i + s ) , i = 1 , \ldots n
+$$
+
+起点 $p _ { s t a r t }$ ;(2)向前搜索局部最小值。以 $p _ { s t a r t }$ 为搜索起点， $\cdot n _ { c y c l e }$ 为搜索步长。round $( 0 . 4 \times n _ { c y c l e } )$ 为窗宽,向前搜索上一个局部最小值点 $p _ { s t a r t - }$ 。再以 $p _ { s t a r t }$ 为新的起点，寻找 $p _ { s t a r t }$ 的上一个局部最小值点 $p _ { s t a r t - 2 }$ ,重复此过程,直到向前搜索完毕；(3)向后搜索局部最小值。类似(2)的方法，以 $p _ { s t a r t }$ 为起点,向后搜索局部最小值点；(4)所有局部最小值点位置上的图像构成关键帧，形成门控序列。
+
+图4中，“星号”点为检索到的距离函数局部最小值，即关键帧图像所在位置
+
+# 2实验结果的讨论和分析
+
+![](images/55e850411e4ab438228c59bdd68957c8ba0c7424a4834f13522f563183121a8f.jpg)  
+图3两组IVUS序列2D、3D低维流形分布 Fig.32D and 3D manifoldof two IVUS sequences.
+
+临床实验数据来源于南方医院7名患者(4男3女，年龄$6 2 { \pm } 9$ 岁，图像 $9 1 5 { \pm } 1 4 2 \$ 帧,血管长度 $2 5 . 2 4 \pm 2 . 3 7 \ \mathrm { m m }$ ，像素$5 1 2 \times 5 1 2 , 2 5 6$ 阶灰度），13组IVUS图像序列。数据采集设备是是波士顿科学公司的iLabTMUltrasoundImagingSystem,超声探头为机械式旋转型，频率 $4 0 \mathrm { M H z }$ ，回撤速度0.5$\mathrm { m m / s }$ ，采样频率为30帧/s。实验平台采用个人计算机(CPU：英特尔第三代酷睿i3-3240 $@$ $3 . 4 0 ~ \mathrm { G H z }$ 双核，4G内存），Matlab2011a编程。
+
+# 2.1IVUS图像序列参数定量分析与比较
+
+临床诊断和治疗冠心病，常用到的诊断指标中，血管容
+
+公式(4)中， $d _ { s } ( i - s , i + s )$ 为降维后图像 $\dot { \boldsymbol { u } } _ { i - s }$ 与 $\dot { u } _ { i + }$ 的欧氏距离，即 $d _ { r } ( i - s , i + s ) = \left\| \phi _ { i + r } - \phi _ { i } \right\|$ $\phi _ { \iota }$ 为原始图像 $u _ { i }$ 在低维流形中的映射， $w _ { s }$ 为权重值，取 $\boldsymbol { w } _ { s } = e ^ { - s ^ { 2 } / ( 2 \delta ^ { 2 } ) }$ e-s²/(28²),6为常数，$m$ 为正整数，取 $m = r o u n d ( \frac { 1 } { 4 } n _ { c y c l e } ) _ { \circ }$ （204号
+
+归一化公式(4),得到最终的距离函数表达式：
+
+$$
+d = \frac { d - \operatorname* { m i n } ( d ) } { \operatorname* { m a x } ( d ) - \operatorname* { m i n } ( d ) }
+$$
+
+在一个心动周期中，当 $u _ { i }$ 处于心脏舒张末期时，距离函数值达到最小。图4为一组长度为1024的IVUS图像序列距离函数曲线，在一定程度上反映了心脏周期性的运动规律。
+
+1.2.4提取关键帧距离函数的局部最小值对应序列图像关键帧的位置，本文采用以下方法寻找距离函数局部最小值：
+
+(1)搜索起始点。以距离函数d的最小值作为搜索积、管腔容积、斑块负荷、面积狭窄率是几个最重要的参数，这些参数的定量计算需要检测外弹力膜(externalelasticmembrane，EEM）界面和管腔内膜(lumen-intima)界面，EEM界面近似为血管壁，管腔内膜界面近似为管腔边界。但目前未存在精准的提取这两个界面的方法，在临床医生的指导下，人工标记这两个界面。EEM界面可近似为椭圆[19],在IVUS图像中标记EEM的八个边界点，最小二乘拟合出椭圆的一般方程，以确定血管面积及血管最大最小直径。管腔内膜界面不能用确定的模型模拟，人工标记管腔边界。管腔中心定义为[20]：
+
+$$
+O _ { I } = [ \bar { \mu } , \bar { \nu } ] = \frac { 1 } { N } { \sum } _ { i = 1 } ^ { N - 1 } [ \mu _ { i } , \nu _ { i } ]
+$$
+
+公式(6)中， $[ \mu _ { i } , \nu _ { i } ]$ 为边界点的坐标， $N$ 为管腔/内膜边界点数,以此来确定管腔面积、最大最小直径。结合
+
+![](images/ab349625305988bf11cb05c3bcd67a89b190ad2f621e6f1ff261fbf37d175913.jpg)  
+图4一组IVUS图像序列距离函数曲线 Fig.4 Distance function of an IVUS sequence.
+
+两界面参数获得斑块负荷等血管参数。原始序列和门控序列血管容积分别定义为：
+
+$$
+\begin{array} { r } { V _ { o V } = 0 . 5 d \sum _ { i = 1 } ^ { L - 1 } ( S _ { o V } ( i ) + S _ { o V } ( i + 1 ) ) } \end{array}
+$$
+
+$$
+\begin{array} { r } { V _ { g V } = 0 . 5 d \sum _ { i = 1 } ^ { l - 1 } { h ( i ) } ( S _ { g V } ( i ) + S _ { g V } ( i + 1 ) ) } \end{array}
+$$
+
+公式(7,8)中， $L ,$ 分别是原始序列和门控序列的帧数， $S _ { o V } ( i ) , S _ { g V } ( i )$ 分别是原始序列和门控序列第帧图像的血管横截面积， $d$ 为一帧图像对应的血管厚度，本文$d = 1 / 6 0 ( m m ) , h ( i )$ 为相邻门控帧之间的帧距。原始序列和门控序列管腔容积的计算类似。
+
+斑块负荷定义为：
+
+$$
+B _ { p } = ( S _ { \nu } - S _ { l } ) / S _ { \nu }
+$$
+
+公式（9）中， $S _ { \nu }$ 为血管横截面积 ${ \mathbf { } } , { S } _ { }$ 为管腔横截面积。
+
+在临床医生的指导下，人工勾画13组IVUS图像序列的EEM界面和管腔内膜界面。计算门控前后序列的血管容积、管腔容积、平均斑块负荷;检验原始序列和门控序列这三个参数的差异显著性;对每一组IVUS原始序列和门控序列的血管横截面积方差、管腔横截面积方差进行右边检验。参数差异显著性检验采用配对秩和检验方法。原始和门控序列血管横截面积方差右边检验方法是：设原始序列和门控序列的血管横截面积序列分别为 $X , Y$ ，方差 $\delta _ { 1 } ^ { 2 } , \delta _ { 2 } ^ { 2 }$ 。做出检验假设，原假设 $\mathrm { H } _ { \mathrm { 0 } }$ $\delta _ { 1 } ^ { 2 } > \delta _ { 2 } ^ { 2 }$ ，备择假设 $\mathrm { H } _ { 1 }$ $\delta _ { 1 } ^ { 2 } \leqslant \delta _ { 2 \mathfrak { c } } ^ { 2 }$ 。先对 $X$ ,Y的分布进行k检验，检验它们是否符合正态分布；若 $X$ ,Y都符合正态分布，再对这两个正态分布的方差进行右边检验 $( F$ 检验)。管腔横截面积方差的右边检验类似。实验统计结果如表1所示，门控序列的血管容积，管腔容积显著小于原始序列。同时，门控前后的平均斑块负荷无显著性差异，说明门控序列保留了原始序列中管腔面积和血管面积的相关信息，符合临床诊断需要。并且，通过原始序列和门控序列的血管横截面积方差、管腔横截面积的方差进行右边检验得出：门控序列的血管面积方差和管腔面积方差小于原始序列，即门控序列的管腔面积及血管面积变化比原始序列小，表明门控序列比原始序列稳定。
+
+图5为一组含有斑块的IVUS序列(No.7)及其门控序列的血管面积，管腔面积变化曲线。红色实线为原始序列血管面积变化曲线，红色虚线为原始序列管腔面积变化曲线，蓝色实线为门控序列血管面积变化曲线，蓝色虚线为门控序列管腔面积变化曲线，蓝色星号对应关键帧血管、管腔面积。门控序列面积变比原始序列平缓，保留了原始序列中的信息，具有更加直观的视觉效果。
+
+综上所述，本文方法提取到的关键帧组成的门控序列的血管容积、管腔容积显著小于原始序列，门控前后序列的平均斑块负荷差异性不显著，满足临床诊断要求。门控序列的血管面积方差和管腔面积的方差显著小于原始序列，表明门控序列较原始序列稳定。
+
+# 2.2IVUS图像序列纵切图
+
+图6为一组IVUS序列在不同的纵切方向上 $( 0 ^ { \circ }$ ，$4 5 ^ { \circ } , 9 0 ^ { \circ } , 1 4 5 ^ { \circ }$ )的纵切图，上部为原始序列，下部为门控序列。图7为四组序列关键帧检索的结果，上部为原始序列，下部为门控序列。从纵切图上观察到：由关键帧所组成的门控序列的管壁、管腔、斑块与原始序列具有高度的相似性，血管内腔和管壁轮廓和斑块比原始序列要平滑，连续性更好，抑制了锯齿状振荡，具有更好的视觉效果。
+
+# 2.3与已有方法比较
+
+文献6提出一种基于IVUS图像序列灰度的门控方法，其3个步骤为：(1)选择每帧图像像素点局部均值为参考点，沿序列形成一维信号簇，通过幅值滤波和光流滤波保留与心脏运动信息相关性很强的一维信号簇；(2)带通滤波一维信号簇，组成一个心动周期剖面图;(3)寻找滤波后的一维信号簇极值，提取关键帧。该方法能快速准确的提取门控序列。本文方法与文献[6]所提出的方法进行比较， $N$ 为实验序列长度，分别统计了两种方法得到的门控序列中关键帧帧数 $( N _ { p } \mathbf { \Omega } _ { N _ { [ 6 ] } } )$ ,关键帧平均距离 $E _ { s e q } ^ { [ 6 ] }$ ,以及关键帧之间的距离占心脏周期的比例分数 $E F _ { s e q } [ 6 ]$ ,结果见表2,可见两种方法得到的门控序列中的总帧数接近， $E _ { s e q } , E F _ { s e q }$ 值较小，说明两种方法检索到的关键帧比较一致。但文献[6」中方法对带通滤波器参数敏感，难以提取心率不齐患者及冠脉血管结构多变的IVUS图像序列的门控帧。
+
+# 3结论
+
+因为门控序列包含了原始序列中的关键信息，提取关键帧门控序列，降低了临床血管数据的分析量，相比于原始序列，门控序列具有更好的视觉效果。本文提出了一种简单的、稳定的基于IVUS图像序列的门控方法。应用流形学习的方法，将高维的IVUS数据降到低维流形中，减少了计算机存储和分析量。以低维流形中的特征分量作为显著性特征，构造距离函数，检索并提取心脏舒张末期的IVUS图像，组成关键帧门控序列。本文算法的优势体现为两方面：(1)存储和计算量减少；(2)对于心率不齐的患者，能准确地寻找门控序列。流形学习中的特征分量含有复杂的运动规律，如图像局部平移、旋转、尺寸变化等运动参数，本文仅针对IVUS图像序列纵向运动伪影的抑制进行研究，对短轴旋转伪影的抑制和补偿有待进一步探讨。
+
+表113组IVUS图像原始序列及关键帧门控序列的血管参数和分析统计 Tab.1 Vascular parameters and statistic analysis on 13 IVUS non-gated versus key-frames gated sequences   
+
+<html><body><table><tr><td rowspan="2">No</td><td rowspan="2">Segment length (frames)</td><td colspan="2">Vessel volume(mm)</td><td colspan="2">Lumen volume(mm)</td><td colspan="2">Mean plaque burden(%)</td><td rowspan="2">Variance test of vessel area</td><td rowspan="2">Variance test of lumen area</td></tr><tr><td>Original</td><td>Gated</td><td>Original</td><td>Gated</td><td>Original</td><td>Gated</td></tr><tr><td>No.1</td><td>891</td><td>175.87</td><td>174.41</td><td>146.56</td><td>143.95</td><td>16.66</td><td>17.46</td><td>H0</td><td>H0</td></tr><tr><td>No.2</td><td>883</td><td>268.37</td><td>265.63</td><td>239.08</td><td>236.50</td><td>10.91</td><td>10.97</td><td>H0</td><td>H0</td></tr><tr><td>No.3</td><td>916</td><td>131.89</td><td>123.62</td><td>118.41</td><td>109.80</td><td>10.22</td><td>11.18</td><td>H0</td><td>H0</td></tr><tr><td>No.4</td><td>711</td><td>194.96</td><td>191.71</td><td>94.83</td><td>94.82</td><td>51.36</td><td>50.54</td><td>H0</td><td>H0</td></tr><tr><td>No.5</td><td>912</td><td>107.28</td><td>103.93</td><td>50.61</td><td>48.85</td><td>52.82</td><td>53.00</td><td>H0</td><td>H0</td></tr><tr><td>No.6</td><td>873</td><td>430.72</td><td>427.64</td><td>270.01</td><td>264.92</td><td>37.31</td><td>38.05</td><td>H0</td><td>H0</td></tr><tr><td>No.7</td><td>915</td><td>133.97</td><td>129.66</td><td>94.10</td><td>90.67</td><td>29.76</td><td>30.07</td><td>H0</td><td>H0</td></tr><tr><td>No.8</td><td>893</td><td>121.52</td><td>119.88</td><td>103.69</td><td>102.18</td><td>14.68</td><td>14.77</td><td>H0</td><td>H0</td></tr><tr><td>No.9</td><td>785</td><td>120.41</td><td>119.45</td><td>81.82</td><td>81.25</td><td>32.05</td><td>31.98</td><td>H0</td><td>H0</td></tr><tr><td>No.10</td><td>933</td><td>196.49</td><td>191.98</td><td>117.21</td><td>117.86</td><td>40.35</td><td>38.61</td><td>H0</td><td>H0</td></tr><tr><td>No.11</td><td>890</td><td>303.50</td><td>296.11</td><td>273.27</td><td>267.41</td><td>9.96</td><td>9.69</td><td>H0</td><td>H0</td></tr><tr><td>No.12</td><td>921</td><td>256.41</td><td>246.32</td><td>215.28</td><td>206.88</td><td>16.04</td><td>16.01</td><td>H0</td><td>H0</td></tr><tr><td>No.13</td><td>748</td><td>107.29</td><td>103.83</td><td>52.89</td><td>51.94</td><td>50.70</td><td>49.98</td><td>H0</td><td>H0</td></tr><tr><td colspan="2">Significant difference test</td><td colspan="2">0.001</td><td colspan="2">0.003</td><td colspan="2">NS</td><td></td><td></td></tr></table></body></html>
+
+Thconfideneeflotisstisdaoteealdd agreaterareofooafoafaled while H1 indicates the opposite conclusion.
+
+![](images/849cf5ada5f81999574e539219df479394f0caa509aa5236d7c2838a03916c43.jpg)  
+图5原始序列和关键帧门控序列血管及管腔面积变化曲线 Fig.5 Vessel and lumen cross-sectional area of an original and key-frames gated set.
+
+# 参考文献：
+
+[1］舍恩豪吉. (美)著,刘茜倩等译.轻松掌握血管内超声[M].北京：人民 军医出版社,2009:1-95. [2] Ciompi F,Gatta C,Pujol O,et al.Reconstruction and analysis of
+
+intravascularultrasoundsequences [J]. NewAdvancesin Biomedical Signal Processing,2011,12(6): 231-50.   
+[3]Rosales M,Radeva P,Rodriguez-Leor O,et al.Modelling of image-catheter motion for 3-D IVUs[J].Med Image Anal,2009,13 (1): 91-104.   
+[4]Bruining N,von Birgelen C,de Feyter PJ,et al. ECG-gated versus nongated three-dimensional intracoronary ultrasound analysis: Implications for volumetric measurements [J]. Cathet Cardiovasc Diagn,1998,43(3): 254-60.   
+[5]de Winter SA，Hamers R，Roelandt JR,et al. Retrospective image-based gating ofintracoronary ultrasound imagesfor improved quantitative analysis: the intelligate method[J].Eur Heart J,2003,24(S): 606.   
+[6]Hernandez-Sabate A，Gil D,Garcia-Barnes JA.Image-Based cardiac phase retrieval in intravascular ultrasound sequences [J]. IEEE Trans Ultrason Ferroelectr Freq Control,2011,58(1): 60-72.   
+[7]Zhu H,Oakeson KD,Friedman MH.Retrieval of cardiac phase from IVUS sequences[J].Medical Imaging Ultrasonic Imaging and Signal Processing,2003,5035(8): 135-46.   
+[8]Nadkarni SK,Boughner D,Fenster A. Image-based cardiac gating forthree-dimensional intravascular ultrasound imaging[J].Biol, 2005,31(1): 53-63.   
+[9]De WA,Hamers R,Degertekin M,et al.A novel retrospective gating method for intracoronary ultrasound images based on image properties[J].Comput Cardiol,2003,30(7): 13-6.   
+[10] O'malley SM. Naghavi M, kakadiaris a.image-based frame gating forcontrast-enhanced IVUSsequences[C]//Proceedingsof International Workshop on Computer Vision for Intravascular and Intracardiac Imaging(CVII),2006:14-21.   
+[11] O'malley SM, Granada JF,Carlier SA,et al. Image-based gating of 171-80.   
+[14] Cayton L.Algorithms for manifold learning[J].Univ.of California at San Diego Tech.Rep,2005(12):1-17.   
+[15]Isguder GG,Unal G,Groher M,et al.Manifold learning for Image-Based gating of intravascular ultrasound(IVUS）pullback sequences[C]//Med Imaging And Augmented Reality,6326,2010: 139-48.   
+[16] Wachinger C,Yigitsoy M,Navab N.Manifold learning for ImageBased breathing gating with application to 4D ultrasound [C]// Medical Image Computing And Computer-assisted Intervention - Miccai 2010,PTII,6362,2010:26-33.   
+[17]Wachinger C,Yigitsoy M,Rijkhorst E.Manifold learning for image-based breathing gating in ultrasound and MRI[J].Med Image Anal,2012,16(4): 806-18.   
+[18]Belkin M,Niyogi P. Laplacian eigenmaps for dimensionality reduction and data representation[J].Neural Comput,20o3,15(6): 1373-96.   
+[19]Rosales M,Radeva P,Rodriguez-Leor O,et al. Modelling of image-catheter motion for 3-D IVUs[J].Med Image Anal, 2009,13 (1): 91-104.   
+[20]Zheng S.Three-Dimensional Reconstruction of vessels from intravascular ultrasound sequence and $\mathbf { \boldsymbol { x } }$ -rayangiograms[C]/ Proceedings of the 2Oo9 2nd international conferenceon biomedical engineering and informatics,VOLS 1-4,20o9: 444-8.
+
+![](images/056954a389ca2f40bd3d5b84b33d62f58c2b6de32733074a6b7ad04a18d8fbb1.jpg)  
+图6同一组序列不同方向 $( 0 ^ { \circ } ( A ) , 4 5 ^ { \circ } ( B ) , 9 0 ^ { \circ } ( C ) , 1 4 5 ^ { \circ } ( D ) \$ 的原始和门控序的纵切图 Fig.6An original IVUS setlongitudinal cuts at different angles $( 0 ^ { \circ } , 4 5 ^ { \circ } , 9 0 ^ { \circ } , 1 4 5 ^ { \circ } )$ and its gated cu
+
+![](images/1a39f899ea362db1bdfe54ce0e4b43a7b4dfbfa1f10ea2025a3dddefd5744a5a.jpg)  
+图74组IVUS原始序列及其门控序列的纵切图 Fig.7Four original IVUS sequences and their longitudinal cuts and gated cuts.
+
+表213本文方法与文献[6]方法对比结果 Tab.2 Comparative results of our method and the method proposed in referencel]   
+
+<html><body><table><tr><td>No</td><td>N</td><td>N[6]</td><td>NP</td><td>Eseq(frames)</td><td>EFseq(%)</td></tr><tr><td>No.1</td><td>958</td><td>28</td><td>28</td><td>1.50±1.17</td><td>4.52±3.45</td></tr><tr><td>No.2</td><td>984</td><td>29</td><td>29</td><td>2.45±1.83</td><td>7.75±5.83</td></tr><tr><td>No.3</td><td>1006</td><td>42</td><td>42</td><td>0.86±0.57</td><td>3.86±2.57</td></tr><tr><td>No.4</td><td>1255</td><td>58</td><td>58</td><td>1.72±1.42</td><td>8.18±6.67</td></tr><tr><td>No.5</td><td>726</td><td>34</td><td>34</td><td>1.00±1.04</td><td>4.50±4.96</td></tr><tr><td>No.6</td><td>743</td><td>43</td><td>42</td><td>3.02±2.95</td><td>12.72±9.94</td></tr><tr><td>No.7</td><td>933</td><td>44</td><td>43</td><td>2.23±1.93</td><td>9.15±7.62</td></tr><tr><td>No.8</td><td>995</td><td>42</td><td>42</td><td>0.93±1.05</td><td>4.48±5.05</td></tr><tr><td>No.9</td><td>845</td><td>40</td><td>40</td><td>0.38±0.54</td><td>1.82±2.62</td></tr><tr><td>No.10</td><td>839</td><td>31</td><td>31</td><td>0.58±1.09</td><td>7.97±3.70</td></tr><tr><td>No.11</td><td>945</td><td>33</td><td>33</td><td>0.58±0.61</td><td>2.04±2.20</td></tr><tr><td>No.12</td><td>912</td><td>44</td><td>43</td><td>3.45±1.38</td><td>4.52±3.52</td></tr><tr><td>No.13</td><td>748</td><td>35</td><td>35</td><td>1.14±1.12</td><td>7.75±5.29</td></tr></table></body></html>
+
+intravascular ultrasound pullback sequences[J].IEEE TransactionsonInformation Technology in Biomedicine,2008,12(3):299-306.[12]孙正.抑制冠状动脉内超声图像序列运动伪影的离线门控方法[J].光电子.激光，2010,21(4)：632-8[13」左明雪.人体解剖生理学[M].2版.北京:高等教育出版社,2009:
+
+(编辑：孙昌朋)

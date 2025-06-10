@@ -1,0 +1,215 @@
+# 高速高负荷压气机叶栅损失特性实验研究
+
+唐雨萌1柳阳威1,2 陆利蓬1,2 陆华伟3(1.北京航空航天大学能源与动力工程学院航空发动机气动热力国家级重点实验室，北京100191;2.先进航空发动机协同创新中心，北京100191；3．大连海事大学轮机工程学院，大连116026)
+
+摘要实验测量了某高速高负荷压气机叶栅两个马赫数（0.5884 和0.5）下 $- 8 ^ { \circ }$ 、 $- 6 ^ { \circ }$ 、 $- 4 ^ { \circ }$ 、 $- 1 . 6 9 ^ { \circ }$ 、 $0 ^ { \circ }$ 、 $2 ^ { \circ }$ 、 $4 ^ { \circ }$ 和$8 ^ { \circ }$ 共8个攻角的栅后流场，分析了其损失特性随着攻角的变化规律。结果表明：设计马赫数0.5884下，该叶栅低总压损失系数对应的攻角范围较小，随着攻角往两端偏离最优攻角，叶栅损失很快就急剧增加；从 $2 ^ { \circ }$ 到 $4 ^ { \circ }$ 攻角，流场结构发生了改变，近叶中区域也开始发生了较大的分离，而近端区的角区分离反而减小，使得总压损失未迅速增加，而是基本不变;随着攻角进一步增大到 $8 ^ { \circ }$ ，发展成了全叶高的大尺度分离流动，尾迹速度亏损急剧增大，总压损失也急剧增大。
+
+关键词高负荷；高速叶栅；压气机；攻角特性；实验研究中图分类号：V231.1 文献标识码：A 文章编号:0253-231X(2017)08-1624-10
+
+# Experimental Investigation of Losses in a High-Speed High-Loading Compressor Cascade
+
+TANG Yu-Meng1 LIU Yang-Wei $^ { 1 , 2 }$ （20 LU Li-Peng $^ { 1 , 2 }$ （204号 LUHua-Wei $^ 3$ （20 (1.National KeyLaboratoryofScienceand TechnologyonAero-EngineAero-Thermodynamics,SchoolofEnergyandPower Engineering,Beihang University，Beijing 100191,China; 2.Collborative Innovation Center of Advanced Aero-Engine，Beijing 10o191, China; 3.Marine Engineering College of Dalian Maritime University，Dalian 116026,China)
+
+AbstractThe flow features behind a high-speed high-loading compressor cascade was measured under two Mach number conditions (0.5884 and O.5） both at 8 incidences $( - 8 ^ { \circ } , \ - 6 ^ { \circ }$ $- 4 ^ { \circ }$ ， $- 1 . 6 9 ^ { \circ }$ ， $0 ^ { \circ }$ ， $2 ^ { \circ }$ ， $4 ^ { \circ }$ and $8 ^ { \circ }$ )，and the total pressure loss coefficient versus incidence angle was analyzed.It is found that the effective operating range is quite small under the design Mach number conditions ( $M a = 0 . 5 8 8 4$ ),the performance deteriorates seriously as the incidence deviates from the design condition.The flow structure changes when the incidence switches from $2 ^ { \circ }$ to $4 ^ { \circ }$ ； considerable separation occurs in the mid-span region and the corner separation decreases reversely, resulting in the nearly invariable loss scale rather than speedy increasing. When the incidence increases to $8 ^ { \circ }$ ， the corner separation no longer stokes in the endwall-cascade corner,but spreads along the spanwise as whole passage stall, with the wake velocity decay and the total pressure losscoefficient increasing dramatically.
+
+Key wordshigh-loading; high-speed cascade; compressor; loss characteristics; experimental investigation
+
+# 0引言
+
+在航空燃气涡轮发动机的研制中，压气机是决定发动机研制成败的关键因素之一[1]。现代战争以及民航运输的需要，对航空发动机的推重比等性能提出了更高的要求。对航空发动机压缩系统而言，采用更少级数、更高负荷及效率、更轻重量及结构紧凑的压气机是发动机设计中持续追求的目标。
+
+静子中三维角区分离流动是压气机内部固有的流动现象，是静子内流动损失和流动堵塞的主要来源，甚至会引起旋转失速和喘振的发生。因此，压气机三维角区分离流动一直以来都是国际研究热点问题，国内外学者在叶栅上开展了很多机理性研究工作。鉴于成本及实验测量精度，现有研究工作多是针对低速叶栅展开，包括机理研究[2-6]和流动控制研究[7-10]等。而随着马赫数的增加，叶栅的有效工作攻角范围急剧缩减，强剪切、强三维性、强非定常性的影响加剧[11]。受工况影响，角区结构也有所变化[12]。针对高速压气机叶栅，目前国内外开展的实验研究还较少[13-15]。经过几十年的研究，人们对三维角区分离流动的机理已经有了较深的认识，但由于其复杂性，目前还无法根据这些机理研究成果实现高负荷叶片中三维角区分离流动的准确预测和有效控制，还需要对机理、预测和控制进行更为深入的研究[16-18]。
+
+本研究针对下一代高负荷压气机静子，采用实验研究的手段，对一高速高负荷压气机叶栅两个马赫数下各8个攻角的流场进行了详细的测量，为开展机理、预测和控制研究建立了实验数据库。论文中重点分析了叶栅损失特性随攻角的变化规律及其内在机理。
+
+# 1 实验装置
+
+# 1.1 实验风洞
+
+叶栅实验在大连海事大学高速叶栅风洞中完成，叶栅风洞如图1所示。该风洞为连续式常温开口射流式风洞，整个实验段由进气段、扩散段、稳流段、收敛段和试验段五个部分组成。实验时，由高压鼓风机产生压缩空气，经水冷后进入分流器，通过进气阀依次流经进气段、扩散段、稳流段、收敛段，最后进入试验段，为试验段提供高速、高压的来流条件。叶栅风洞的有效风口面积为 $1 0 0 \times 2 5 0$ $( \mathrm { m m ^ { 2 } } )$ ）。为了保证气流流动的均匀性，在稳压筒中布置了一层蜂窝和两层旋涡破碎网。试验段无附面层抽吸装置。
+
+![](images/38dd4a769c4bcf7727b5d99895229b455c8a24b59488d2f575812a67f29fd5d5.jpg)  
+图2不同攻角工况调节
+
+![](images/f5ecb031def4932c371ecc9a1e133c221461f6d1087d263c64880391403d3fa7.jpg)  
+图1平面叶栅风洞实验台 Fig.1 Wind tunnel for linear cascade
+
+不同攻角工况的测量通过旋转试验段调节进口气流相对叶栅额线夹角实现，如图2所示。
+
+# 1.2实验叶栅
+
+研究的高速高负荷压气机叶栅的叶型几何示意图如图3所示。该叶栅为典型的高负荷大弯角叶栅，相关设计参数如表1所示。
+
+![](images/656ad0da8986352cb689c5c2dbf2da7e443eaccd1378a85da4f936cf33b91880.jpg)  
+Fig.2 Regulation for different incidence conditions   
+图3叶栅几何Fig. 3 Cascade geometry
+
+# 表1叶栅叶型参数
+
+Table 1 Cascade parameters   
+
+<html><body><table><tr><td>设计马赫数</td><td>0.5884</td><td>D因子</td><td>0.52</td></tr><tr><td>弦长/mm</td><td>55</td><td>进口叶型角</td><td>41.91°</td></tr><tr><td>最大厚度/mm</td><td>3.59</td><td>出口叶型角</td><td>94.85°</td></tr><tr><td>稠度</td><td>1.52</td><td>叶型弯角</td><td>52.94°</td></tr><tr><td>展弦比</td><td>1.82</td><td>叶栅安装角</td><td>21.70°</td></tr></table></body></html>
+
+# 1.3实验方案
+
+针对设计马赫数 $M a = 0 . 5 8 8 4$ 和马赫数 $M a =$ 0.5，分别对 $- 8 ^ { \circ }$ 、 $- 6 ^ { \circ }$ 、 $- 4 ^ { \circ }$ 、 $- 1 . 6 9 ^ { \circ }$ 、 $0 ^ { \circ }$ 、 $2 ^ { \circ }$ 、 $4 ^ { \circ }$ 和$8 ^ { \circ }$ 攻角展开了实验测量。测量了进口截面来流沿展向的总压分布，以及栅后平面总压损失特性。实验时，为了保证栅距方向周期性，周向以栅距为间隔，布置了七个相同的直列叶片，并采用第三个叶片与第四个叶片间叶栅通道的测量结果作为测量值。
+
+测量系统及仪表布置方案如图4所示。
+
+![](images/eda3c309a0ef2e4f0c3cd9b7feb962b57b5d3836f3d9c78d77fcd0056424799e.jpg)  
+图4实验测量系统及测量仪表布置 Fig.4 Measuring system and arrangement of measuring instruments
+
+在进气间采用测压、测温传感器对大气压、大气温度进行了测量；在风洞稳压箱中采用总压探针对进口总压进行了测量；栅前参数的测量截面位于前缘前1倍弦长处；栅后参数的测量截面位于尾缘后$6 0 \%$ 弦长处。来流总压取的是稳压箱中的总压；进口壁面静压由距前缘1倍弦长处的静压孔测得，并通过测量端壁多点的静压取数值平均值；出口壁面静压由距尾缘 $6 0 \%$ 弦长处的静压孔测得，也通过测量多点的静压值取数值平均值；栅后总压、静压、气流角等由五孔探针在尾缘后 $6 0 \%$ 弦长处截面进行了测量，并根据相应校准曲线得到了不同测点总压、静压、速度、气流角等值。实验时，栅后平面测量情况及端壁静压测量布置如图5所示。
+
+![](images/fd71216e451d74d8fe984ec94ce632cd207c4b5920b9f0ad03dec647fb70589d.jpg)  
+图5实验测量装置布置  
+Fig.5 Arrangement of experimental measuring instruments
+
+实验时采用五孔气动探针对叶栅进、出口流场进行了非对向测量，所采用的五孔探针束状探针头为 $2 ~ \mathrm { m m }$ 。实验前，在探针校准风洞中对总压孔及两侧的方向压力孔进行了校准，得出了方向校准系数、总压校准系数和静压校准系数与马赫数及探针角度之间的关系，在实际测量时再通过五孔压力值计算所得的校准系数在校准曲线中插值求得气流角度、来流总压及静压。当来流角度在探针测试范围$( \pm 3 0 ^ { \circ } )$ 以内，可保证相应测量结果的精度。
+
+# 2实验结果及分析
+
+在计算总的攻角特性时，对栅后测量平面相关参数进行了平均以表征测量平面的特性。其中，静压采用了面积平均，总压采用了质量平均。
+
+静压采用面积平均：
+
+$$
+P _ { \mathrm { s , a v g } } = { \frac { 1 } { A } } \int P _ { \mathrm { s } , i } \mathrm { d } A = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } P _ { \mathrm { s } , i } \left| A _ { i } \right| } { \displaystyle \sum _ { i = 1 } ^ { n } \left| A _ { i } \right| } }
+$$
+
+总压采用质量平均：
+
+$$
+P _ { \mathrm { t , a v g } } = { \frac { \displaystyle \int P _ { \mathrm { t } , i } \rho \left| { \vec { v } } \cdot { \mathrm { d } { \vec { A } } } \right| } { \displaystyle \int \rho \left| { \vec { v } } \cdot { \mathrm { d } { \vec { A } } } \right| } } = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } P _ { \mathrm { s } , i } \rho _ { i } \left| { \vec { v } } _ { i } { \vec { A } } _ { i } \right| } { \displaystyle \sum _ { i = 1 } ^ { n } \rho _ { i } \left| { \vec { v } } _ { i } { \vec { A } } _ { i } \right| } }
+$$
+
+叶轮机械内部流动损失从微观上可归结为黏性应力导致的内能增加，损失会使得流动过程中熵增，进而导致效率降低。假设静子叶栅通道中的流动过程为绝能过程，即总温保持不变，在该过程中熵增为：
+
+$$
+\Delta S = - R \ln \left( { \frac { P _ { 2 } ^ { * } } { P _ { 1 } ^ { * } } } \right)
+$$
+
+对其进行泰勒级数展开：
+
+$$
+\Delta S = - R \ln \left( { \frac { P _ { 2 } ^ { * } } { P _ { 1 } ^ { * } } } \right) = - R \biggl [ \left( { \frac { P _ { 2 } ^ { * } } { P _ { 1 } ^ { * } } } - 1 \right)
+$$
+
+$$
+\begin{array} { r } { - \frac { \left( \frac { P _ { 2 } ^ { * } } { P _ { 1 } ^ { * } } - 1 \right) ^ { 2 } } { 2 } + \frac { \left( v \frac { P _ { 2 } ^ { * } } { P _ { 1 } ^ { * } } - 1 \right) ^ { 3 } } { 3 } - \cdot \cdot \cdot \Bigg ] } \end{array}
+$$
+
+当进出口总压相差不大时，可认为：
+
+$$
+\Delta S = R \left( { \frac { P _ { 1 } ^ { * } - P _ { 2 } ^ { * } } { P _ { 1 } ^ { * } } } \right)
+$$
+
+即近似采用总压损失来表征静子叶栅通道中的熵增，进而评估静子叶栅性能。
+
+# 2.1攻角特性
+
+图6给出了两个马赫数工况平均后的栅后测量平面 (叶栅尾缘后 $6 0 \%$ 弦长)相对于来流的总压损失系数随攻角的变化特性。
+
+![](images/b84c7cf27057a754dd68e25716b28d1f9f6d757aedcab218b870d0af124f7a42.jpg)  
+图6总压损失系数攻角特性 Fig.6 Total pressure loss coefficient versus incidence angle
+
+![](images/63ab53ae4a78785898746507b2958dcab036d048cd1c5b89d79c949609246f83.jpg)  
+图7不同攻角总压损失系数沿展向分布 Fig.7 Spanwise profile of pitchwise averaged total pressure loss coefficient under different incidence conditions
+
+在设计马赫数下实验攻角范围内，该叶栅在$- 1 . 6 9 ^ { \circ }$ 攻角时总压损失最低，低总压损失攻角范围较窄；在低总压损失攻角范围外，攻角的增大及减小都使得总压损失急剧上升。随着攻角的增大，气流折转程度增大，叶栅通道内的减速扩压程度也随之增大，叶片表面的附面层流体在强逆压梯度的作用下更易发生分离，分离会造成大的流动损失。在 $2 ^ { \circ }$ 攻角到 $4 ^ { \circ }$ 攻角发展的过程中，总压损失系数没有迅速增加而是基本不变。结合后文流场分析，可发现此时流场结构发生了改变。 $8 ^ { \circ }$ 攻角时叶栅性能完全恶化，总压损失系数急剧增加，静压升系数、落后角急剧减小，叶栅几乎不再扩压。
+
+马赫数0.5时，与设计马赫数相比，在全攻角范围内，总压损失值较设计马赫数时低，且低总压损失对应的攻角范围出现往负攻角拓宽的趋势。马赫数的增加使得负攻角下损失急剧增大。
+
+综合来看，设计马赫数下该叶栅的低总压损失系数区对应的攻角范围较小，在最优攻角附近，随攻角的增大、减小，叶栅性能恶化很快。后期可通过合理引入流动控制手段来降低该叶栅非设计工况下的总压损失，拓宽低总压损失区对应的攻角范围。
+
+# 2.2栅后测量平面损失特性展向分布
+
+图7给出了不同攻角栅后测量平面总压损失系数沿展向的分布（ $\dot { \mathbf { \Phi } } _ { x }$ 轴代表展向， $h$ 为叶高)。受实验测量限制，在靠近端壁的 $2 ~ \mathrm { m m }$ 范围内无法采用五孔探针进行测量。从给出的不同攻角总压损失系数展向分布看，存在两个高总压损失区，分别集中在端壁附近 $3 \%$ 叶高处及 $2 0 \%$ 叶高附近，与三维角区中低速流体团的分布一致。叶中区域的总压损失大小反映了尾迹的掺混损失。
+
+$- 1 . 6 9 ^ { \circ }$ 、 $0 ^ { \circ }$ 、 $2 ^ { \circ }$ 攻角对应的叶中总压损失较小,其中 $- 1 . 6 9 ^ { \circ }$ 攻角时展向两个高总压损失区的损失值相对最小； $0 ^ { \circ }$ 攻角时, $2 0 \%$ 叶高附近区域总压损失较$- 1 . 6 9 ^ { \circ }$ 攻角大，但叶中总压损失略小于 $- 1 . 6 9 ^ { \circ }$ 攻角； $2 ^ { \circ }$ 攻角时，除了在叶中处取得了相对较小的总压损失外，在两个高总压损失区，损失较大，在攻角特性图上也体现出 $2 ^ { \circ }$ 攻角时总压损失值“增大”的波动。从 $2 ^ { \circ }$ 攻角到 $4 ^ { \circ }$ 攻角，叶中区域附近的总压损失明显增大，但两个高总压损失区的损失值有所减小。当攻角从中间攻角往小负攻角变化时，叶中区域尾迹掺混损失增大，使得总压损失值增大。在$- 4 ^ { \circ } , \ - 6 ^ { \circ }$ 攻角时， $2 0 \%$ 叶高附近总压损失相对于较优攻角变化幅度不大，但在端壁附近 $3 \%$ 叶高处总压损失明显增大。 $- 8 ^ { \circ }$ 攻角在整个叶高范围总压损失均有所增大，尤其在端壁附近 $3 \%$ 叶高处最为明显。在 $8 ^ { \circ }$ 攻角时，整个叶栅通道出现分离，叶根处总压损失有所减小， $1 5 \%$ 叶高到叶中区域，总压损失急剧增高，叶栅扩压能力急剧下降。
+
+当气流越过叶栅“喉道”后，受通道扩张影响，开始承受逆压梯度作用，附面层迅速增厚，甚至分离。叶栅压力面相对来说压力和速度变化不大，所形成的附面层较薄，故叶栅尾迹宽度主要反映了叶栅吸力面发展的附面层厚度。偏离最优攻角，叶中区域总压损失明显增大，叶栅附面层流体抵抗逆压梯度的能力不足，尾迹厚度明显变厚。
+
+落后角在一定程度上也能反映出三维角区分离结构对气流偏转的影响，图8给出了设计马赫数下不同攻角栅后测量平面落后角的展向分布。
+
+随着攻角的增大，叶根处气流的偏转程度增大。正攻角时，叶根处气流存在过偏转。在低能流体团堆积造成流动拥堵较大的区域，约 $1 0 \% { \sim } 3 0 \%$ 叶高处，气流存在较大程度的欠偏转。随着攻角的增大，气流最大欠偏转峰值点对应的展向位置增大。在 $2 ^ { \circ }$ 攻角时，低能流体团积聚造成的气流欠偏转效应最为明显。在 $2 ^ { \circ }$ 攻角及之前，叶中未出现二维分离，故叶中落后角较小。从 $2 ^ { \circ }$ 攻角到 $4 ^ { \circ }$ 攻角，叶中区域开始出现大的二维分离，叶中区域落后角急剧增大，由于低能流体团积聚造成的气流欠偏转效应减弱，出现了三维角区分离向二维大分离的转变趋势。 $8 ^ { \circ }$ 攻角时发展到全叶栅通道的分离，落后角沿展向的分布更均匀。
+
+![](images/3b6fc585d14616481c5bc03304be8af2a48f5eda622da152a8b9e01e27c41b2a.jpg)  
+图8不同攻角落后角沿展向分布
+
+Fig.8 Spanwise profile of deviation angle under different incidence conditions
+
+# 2.3栅后测量平面总压损失系数云图
+
+攻角的改变使得叶栅通道内气流偏转角发生了改变，流向及展向的压力梯度也随之发生改变，压力梯度的改变直接影响了叶栅表面及端壁附面层的发展趋势，进而使得低能流体团的位置及发展趋势发生了变化，从总压损失系数云图上可清楚反映出高熵低能流体所在位置及所占据的区域大小。
+
+图9给出了设计马赫数时不同来流攻角栅后测量平面总压损失系数分布（ $\dot { \boldsymbol { y } }$ 轴为周向， $\mathbf { \Psi } _ { t } \mathbf { \Psi } _ { \ }$ 为栅距)。在全攻角范围，均存在较大的角区结构，且随攻角的增大，三维角区呈增大趋势。在小的负攻角和大的正攻角下叶栅性能均急剧恶化，在大的正攻角下性能恶化更为明显。在小负攻角时，栅后测量平面总压损失核心区比较靠近端壁，随着攻角的增大，角区中高损核心区逐渐往远离端壁的方向抬起，直到 $8 ^ { \circ }$ 攻角时，发展为全通道的分离。 $- 8 ^ { \circ } , - 6 ^ { \circ }$ 攻角时，整个损失区高度约占叶高的 $2 5 \%$ ， $- 1 . 6 9 ^ { \circ }$ 和 $0 ^ { \circ }$ 攻角时约占 $3 0 \%$ ， $2 ^ { \circ }$ 攻角增加到 $3 5 \%$ ，当攻角进一步增大，三维角区不再堆聚于端壁处，而是发展为全叶高的大尺度分离流动。 $- 1 . 6 9 ^ { \circ }$ 攻角时，高损核心区总压损失较小，且尾迹区也较窄。从 $- 1 . 6 9 ^ { \circ }$ 攻角到 $- 8 ^ { \circ }$ 攻角，随着攻角的减小，角区中高损核心区损失增大，尾迹对应的损失区宽度也明显增大。从 $- 1 . 6 9 ^ { \circ }$ 攻角到 $2 ^ { \circ }$ 攻角，尾迹宽度无明显变化，角区中高损核心区的损失大小增大，整个损失区所占据的范围变大。 $4 ^ { \circ }$ 攻角时，分离开始往叶中发展，尾迹宽度明显变厚，但高损核心区损失大小及所占比重有所减小。 $8 ^ { \circ }$ 攻角时，整个叶展范围均发生了大分离，高总压损失区贯穿了整个展向高度。
+
+![](images/725c7f5a409f2f9a62abcb0dd6ca4135a33b262c67552ef2c46a2dd4491ba032.jpg)
+
+![](images/16f470f1d0c65071f6f5c920f7790dbec426c10d352ef3433b7ba0de39179e68.jpg)
+
+![](images/2054b2de01af7d541ef6a85c67f3859058f6be93da25f535131acca863644b8d.jpg)  
+图9不同攻角栅后测量平面总压损失系数云图 Fig.9 Contours of exit total pressure loss coefficient under different incidence conditions
+
+# 2.4栅后测量平面损失特性分析
+
+为了进一步分析栅后测量平面的损失特性机理，图10给出了不同攻角栅后测量平面马赫数云图及二次流速度矢量分布情况。
+
+图10中二次流速度矢量分布显示出一个位于端区的逆时针旋向的旋涡结构，即通道涡。在叶栅通道内的流动中，前缘马蹄涡强度、叶栅通道端壁横向压力梯度等，会对通道涡的生成及发展产生影响，其共同作用形成三维角区分离涡系结构。本研究对象叶栅具有较大的叶型弯角，对应的气流偏转角较大，故涡强度、尺度均有较大影响，进而影响整个叶栅通道的流动结构，造成流动状态的改变。当通道涡强度、尺度较大时，会造成很大的总压损失。
+
+![](images/a429ce3b940dea2b5c44507a92cfe6794934ea257d197f963385bb745cb56c5c.jpg)
+
+![](images/651a6e9964a1278a4893a384f64199f7943a504bd6cc048f0930b1ef3b45016b.jpg)  
+图 10 不同攻角栅后测量平面马赫数云图及二次流速度矢量Fig.1O Contours of exit Mach numberand secondary flowvector under different incidence conditions
+
+从图10中通道涡尺度来看，从 $- 8 ^ { \circ }$ 攻角增加到$0 ^ { \circ }$ 攻角，通道涡占据的展向高度由 $2 5 \%$ 叶高左右逐渐降低为 $2 0 \%$ 叶高左右，周向最大宽度约占 $8 0 \%$ 栅距长度。 $2 ^ { \circ }$ 攻角时，通道涡展向最大高度缩减为 $1 5 \%$ 叶高左右，同时伴随着周向宽度的增长，约占整个栅距方向的 $9 0 \% \sim 9 5 \%$ 。随着攻角的增大，通道涡展向尺寸缩减，周向尺寸增大的这种变化趋势与叶栅通道中的分离结构从三维角区分离到三维角区失速的转变有关。实验时，受测试条件的限制，五孔探针无法紧贴端壁测量，故未能给出端壁附近 $2 \%$ 叶高区域二次流速度矢量，无法从该图中观测到紧靠端壁的二次流分布。
+
+从 $2 ^ { \circ }$ 攻角到 $4 ^ { \circ }$ 攻角，通道涡展向增长尺度不大，周向几乎占据整个栅距宽度。当相邻的两个通道涡沿周向各占据一个栅距宽度时，涡之间的相互剪切作用使得整个截面的二次流分布发生了很大的变化，旋涡边缘向叶中拾起，分离结构开始充斥整个叶栅通道，从 $8 ^ { \circ }$ 攻角对应的二次流速度矢量分布图可明显观察到该现象。
+
+从通道涡核心的位置来看，在小负攻角时，通道涡核心比较贴近端壁，随着攻角的增大，气流偏转角增加，叶栅通道中逆压梯度的作用更强，通道涡的核心出现了往上抬升的趋势，叶根区域的低能流体在通道涡的卷吸作用下更多地被带离端壁区，体现在低能流体区域展向高度的增长上。在 $4 ^ { \circ }$ 攻角时叶栅中部流场的恶化程度不及由于通道涡卷吸作用造成的端壁处流场的改善程度，故叶栅通道流动性能得到了短暂的改善，使得 $4 ^ { \circ }$ 攻角相比于 $2 ^ { \circ }$ 攻角总压损失略有减小。随着攻角的进一步增大，卷吸了更多端壁处低能流体的通道涡迅速发展壮大，并向叶中发展，使得叶中的流场急剧恶化，整个叶栅通道总压损失急剧增大。
+
+通过对比栅后测量平面二次流速度矢量图与马赫数云图发现，通道涡的中心位置与马赫数最低的区域并不重合，尤其是小攻角时更为明显。从测量截面马赫数分布来看，在横向压力梯度作用下，端壁横流在角区积聚，使得主流流体绕过积聚的低能流体团，发生与叶中小分离处不一致的气流偏转；吸力面尾缘处越过低能流体团发生局部偏转的气流及压力面附面层在叶栅尾缘处汇合，离开叶片尾缘后向下游发展，卷吸形成轴状的集中脱落涡结构，对应马赫数云图中的低速流体区。鉴于集中脱落涡对栅后测量截面低速区的贡献，可探索合适的能抑制集中脱落涡生成的流动控制方法，以改善损失特性。
+
+叶栅吸力面和压力面表面的附面层在叶栅尾缘处汇合，形成涡流区，产生尾迹涡结构，并在黏性作用下随着旋涡运动将动能耗散为内能。在尾迹中，气流具有较小的总压和速度，其与主流间的速度差会使得气流在尾迹与主流交界处发生掺混，是叶栅通道较大的耗散损失源之一。
+
+为研究尾迹速度亏损对损失特性的影响，图11给出了不同攻角栅后测量平面叶中速度沿周向的变化（ $V$ 为测点速度， $V _ { \mathrm { m f } }$ 为主流速度)。
+
+![](images/17d3dea4109e6cf0467fcf2afbca9f8a7f21db0c6345c9ef32e4c561d5750cc8.jpg)  
+图11栅后测量平面叶中速度沿周向变化 Fig.11 Profile of velocity along pitchwise at mid-span of measured plane
+
+随着攻角的增大，尾迹中最小速度减小，最小速度峰值点对应的周向位置往吸力面侧方向移动。当攻角从 $- 1 . 6 9 ^ { \circ }$ 减小到 $- 8 ^ { \circ }$ ，叶片压力面侧尾迹亏损区增大，吸力面侧尾迹速度变化不大。从 $- 1 . 6 9 ^ { \circ }$ 攻角到 $0 ^ { \circ }$ 攻角，压力面侧尾迹亏损区减小，吸力面侧尾迹速度亏损区明显增大。 $0 ^ { \circ }$ 攻角与 $2 ^ { \circ }$ 攻角相比,吸力面侧尾迹亏损程度相当，但 $2 ^ { \circ }$ 攻角时，对应的压力面侧尾迹的亏损程度较 $0 ^ { \circ }$ 攻角大。 $4 ^ { \circ }$ 攻角和 $8 ^ { \circ }$ 攻角时叶中区域也出现了明显的分离区，表现为尾迹速度亏损区急剧扩大，尾迹中最小速度急剧减小。
+
+# 3结论
+
+1）设计马赫数下，该叶栅低总压损失系数区对应的攻角范围较小；随着攻角往两端偏离最优攻角，叶栅损失很快就急剧增加。
+
+2)随着攻角的增大，三维角区分离呈增大趋势，角区中高损失核心区逐渐往远离端壁的方向抬起;从 $2 ^ { \circ }$ 攻角到 $4 ^ { \circ }$ 攻角，叶栅流场结构发生了改变,由三维角区分离发展到叶中区域出现较大的“二维"分离，而近端区的角区分离反而减小，流场结构的变化使得总压损失系数没有迅速增加，而是基本不变；当攻角增大到 $8 ^ { \circ }$ 时，不再有明显的三维角区，而是出现全叶高分离，叶栅损失急剧增加。
+
+3)随着攻角的增大，叶栅尾迹中最小速度减小;负攻角时，叶片压力面侧尾迹亏损区较大；正攻角时，叶片吸力面侧尾迹亏损区较大；出现全叶高分离后，尾迹速度亏损区急剧扩大，尾迹中最小速度急剧减小。
+
+后期可通过合理引入流动控制手段，如叶根开槽，来降低该叶栅非设计工况下的总压损失，拓宽低总压损失系数对应的攻角范围。
+
+实验测量了某高速高负荷压气机叶栅两个马赫数(0.5884和0.5)下 $- 8 ^ { \circ } \circ _ { \circ } - 6 ^ { \circ } \circ - 4 ^ { \circ } \circ - 1 . 6 9 ^ { \circ } \circ 0 ^ { \circ } \circ 2 ^ { \circ } \circ 4 ^ { \circ }$ 和 $8 ^ { \circ }$ 共8个攻角的栅后流场，得到主要结论如下：
+
+# 参考文献
+
+[1]陈懋章,刘宝杰．大涵道比涡扇发动机风扇/压气机气动设 计技术分析[J].航空学报，2008,29(3):513-526 CHENMaozhang,LIUBaojie.Fan/Compressor Aero Design Technology forHighBypassRatio Turbofan[J].Acta Aeronautica et Astronautica Sinica,20o8,29(3):513-526   
+[2]Gbadebo S A,Three-Dimensional Separations in Compressors [D],Ph.D thesis,United Kingdom:University of Cambridge,2003   
+[3]MA Wei,Ottavy Xavier,LU Lipeng,et al．Experiment Study of Corner Stall in a Linear Compressor Cascade [J]. Chinese Journal of Aeronautics,2011,24(3):235-242   
+[4]雷志军，王明杰，朱俊强．低速压气机叶栅附面层分离的实 验研究[J].工程热物理学报，2008,29(11):1839-1843 LEI Zhijun,WANG Mingjie,ZHU Junqiang.Experimental Investigation on the Suction Surface Boundary Layer Separation ofa Low-Speed Compressor Cascade [J]. Journal of Engineering Thermophysics,2008,29(11):1839- 1843   
+[5] ZHANG Yanfeng,Mahallati Ali,Benner Michael.Experimental and Numerical Investigation of Corner Stall in a Highly-Loaded Compressor Cascade [R].ASME Paper GT2014-27204，2014   
+[6]王子楠，高磊，耿少娟，等.不同端壁间隙下压气机平面叶 栅角区流动的数值模拟和实验研究[J]，工程热物理学报, 2015,36(6):1213-1217 WANG Zinan,GAO Lei,GEN Shaojuan,et al.Numerical and Experimental Investigation on Corner Flow Structure in a Planar Compressor Cascade with Different Clearances [J].Journal of Engineering Thermophysics,2015,36(6): 1213-1217   
+[7]伊卫林,陈志民,马季,等,叶身融合在径向扩压器中的应用 初探[J],工程热物理学报，2015,36(7):1428-1432 YI Weilin,CHEN Zhimin,MA Ji,et al．Investigation on Application of Blended Blade and Endwall Technique on Radial Diffuser [J].Journal of Engineering Thermophysics,2015,36(7):1428-1432   
+[8]陈绍文，郭爽,陈浮,等.高负荷吸附式压气机叶栅开槽方案 实验研究[J],实验流体力学，2010,24(5)：26-30 CHEN Shaowen,GUO Shuang,CHEN Fu,et al.Investigation on Slot Schemes of Highly-Loaded Aspirated Compressor Cascade [J].Journal of Experiments in Fluid Mechanics,2010,24(5):26-30   
+[9]杜鑫，王松涛,王仲奇,等.端弯联合弯叶片对扩压叶栅角区 分离影响研究[J]，工程热物理学报，2012，33(10)：1687- 1690 DU Xin，WANG Songtao，WANG Zhongqi，ZHANG Longxin,et al.Effects of Endbend-Bowed Blade on Corner Separation of a Diffusion Cascade[J].Journal of Engineering Thermophysics,2012,33(10):1687-1690   
+[10] MAO Xiaochen,LIU Bo,ZHANG Guochen.Control of Separations in a Highly-Loaded Axial Compressor Cascade by Tailored Boundary Layer Suction [R].ASME Paper GT2015-42015,2015   
+[11]Denton JD.Loss Mechanisms in Turbomachines [J]. Journal of Turbomachinery,1993,115:621-656   
+[12]Lei V M.,Spakovszky Z S.A Criterion for Axial Compressor Hub-Corner Stall[J].Journal of Turbomachinery, 2008，130:031006   
+[13]Gmelin C,Thiele F,Liesner K,et.al. Investigation of Secondary Flow SuctioninaHigh Speed Compressor Cascade [J].2011,ASME paper No.GT2011-46479   
+[14]Liesner K,Meyer R.Combination of Active and Passive Flow Control in a High Speed Compressor Cascade [R] ASMEPaper GT2014-25662,2014   
+[15]张海灯,吴云,李应红,等.高速压气机叶栅旋涡结构及其流 动损失研究[J].航空学报,2014,35(9)：2438-2450 ZHANG Haideng,WU Yun,LI Yinghong,et al. Investigation of Vortex Structure and FlowLoss ina High-Speed Compressor Cascade [J].Acta Aeronautica et Astronautica Sinica,2014,35(9):2438-2450   
+[16]LIU Yangwei,SUN Jinjing，LU Lipeng，Corner Separation Control by Boundary Layer Suction Applied to a Highly Loaded Axial Compressor Cascade [J].Energies, 2014,7: 7994-8007   
+[17]LIU Yangwei,LULipeng,FANGLe,et al,Modification of Spalart-Allmaras Model with Consideration of Turbulence Energy Backscatter Using Velocity Helicity [J].Physics Letters A,2011,375(24): 2377-2381   
+[18]LIU Yangwei,SUN Jinjing，TANG Yumeng，et al.Effect of Slot at Blade Root on Compressor Cascade Performance under Different Aerodynamic Parameters [J].Applied Science,2016,6(12):421

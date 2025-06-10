@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "刷屏的原理：在线内容的病毒式分享机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘 伟刘昱彤李纯青齐捧虎（西北大学经济管理学院，西安710127）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要通过社交网络发布优质在线内容以引发消费者的主动分享从而使该内容像病毒一样传播开来的营销方式被称为病毒式营销。在线内容的病毒式分享机制主要包括内容特征、心理动机、情绪反应、情境因素以及个体特征这五个方面，可以为品牌和自媒体有效提高在线内容的分享转发率提供系统的理论指导。未来研究需要进一步探索某些具体情绪的作用机制，识别出更多本土背景下的情境因素，关注病毒式营销的效果评估和心理行为后果，并采用更加多样化的研究方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 在线内容；病毒式营销；分享意愿；转发分类号 B849； F713.55",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，刷屏级的营销传播现象越来越多。一些品牌可以在一夜之间就成为人人皆知的“网红”。比如，华为MateX折叠屏手机的新品发布新闻、999 感冒灵发布的暖心广告《有人偷偷爱着你》、网易推出的互动网页游戏《测测你的哲学气质》等优质内容在社交网络上都引发了10万 $^ +$ 的分享转发量。不同于传统的大众传播方式，这种通过在社交网络上发布优质在线内容（包括文章、图片、视频、网页互动游戏和广告等）来引发消费者主动分享从而使该内容像病毒一样传播开来的营销方式被学者们形象地称为病毒式营销（ViralMarketing,Petrescu＆Korgaonkar,2011）。它是在社交网络这一新的媒体环境下产生的一种成本低、传播速度快、高效的营销传播方式，对于品牌（尤其是不知名的、预算少的初创品牌）借助社交网络迅速提高品牌知名度，促进消费者的在线融入行为以及加强消费者和品牌之间的情感联系都有着十分重要的意义。那么，这种刷屏现象形成的背后原理是什么呢？究竟什么样的内容更容易形成病毒式分享？人们又是出于什么原因来分享这些内容？而且，在什么情况下什么样的人更愿意分享呢？这些正是病毒式营销的核心问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在相关理论方面，伴随着社交网络的兴起，病毒式营销近年来开始受到市场营销、消费心理和信息科学等多个领域学者们的关注，逐渐成为一个多学科交叉的前沿热点话题（Berger,2014）。目前，学者们运用不同的理论视角和研究方法已经对病毒式分享过程中的内容特征（黄敏学，雷蕾，朱华伟，2016；范钧，潘健军，2016；Lee＆Hong,2016）、心理动机（Fu,Wu,& Cho,2017; Vries,Peluso,Romani,Leeflang,& Marcati,2017）、情绪反应（Berger,2011；李宏，刘菲菲，2018；Jones,Gillespie,&Libert,2019）、情境因素（Hayes,Shan,& King,2018; Consiglio,Angelis,& Costabile,2018）和个体特征（Teixeira,2012; Yuki,2015）等五方面内容进行了大量研究，形成了丰硕成果。一些学者指出，病毒式营销已经成为营销研究中一个逐渐成熟且至关重要的领域（Berger,2014），是现代营销最为有效的工具之一，代表了线上营销的发展趋势（Petrescu＆Korgaonkar,2011）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，以往研究还不够充分和深入，尚有很大空间值得挖掘。而且，这些研究比较零散和碎片化，缺乏对在线内容的病毒式分享机制进行系统、清晰的总结。另外，以往的研究主要源自国外数据和样本，国内的相关研究才刚刚起步，基于本土特殊情境的病毒式营销研究还十分缺乏。因此，通过系统梳理和述评相关领域的已有文献，本文首次从内容特征、心理动机、情绪反应、情境因素以及个体特征等五个方面较为全面地总结提炼出在线内容的病毒式分享机制的整体理论框架，从而将该领域的已有研究成果和结论全景式地呈现出来，为品牌和自媒体有效提高在线内容的分享转发率提供系统的理论指导。同时，本文也将展望该领域的未来研究方向，以期推动学者们对病毒式营销的关注和进一步研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引发病毒式分享的内容特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "究竟什么样的内容更容易引发病毒式分享呢？这是病毒式营销要回答的首要问题。已有研究发现，容易引发病毒式分享的在线内容一般都具有很高的新奇性、趣味性、实用性以及一些形式方面的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 新奇性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Berger(2014)在其关于口碑和人际沟通的理论综述中认为，从印象管理的角度看，人们总是爱谈论那些他人还不知道的、新发生的、令人意外的、与众不同的事情以衬托自己新潮、前卫、消息灵通以及个性的正面形象。实际上，人们对在线内容的分享也遵循着同样的心理。通过对《纽约时报》上那些被分享最多的文章按照不同主题和属性进行编码和分析，Berger和Milkman（2009）发现新奇的（新鲜、令人意外、有创意、独特的）在线内容很容易被人们主动分享以至于达到病毒式传播的现象，比如耸人听闻的标题文章、突发的重大新闻、令人大开眼界的产品创新介绍以及富有创意的广告等。同样，通过对著名的文章投票评论网站Digg.com上的文章属性进行编码和分析,Wu和Huberman(2007)发现故事的新奇性（novelty）能够吸引人们的集体注意力(collective attention)进而有利于该文章的分享和传播。另外，在针对病毒式广告的专门研究方面，Dobele,Toleman 和Beverland（2005）对本田、宝洁等多个成功的病毒式营销案例进行深入研究后发现，新奇的创意是广告获得病毒式分享的关键。随后，一些学者对此进行了相关的实证研究。比如，Southgate,Westoby 和Page（2010）对Youtube上102个视频广告的属性进行编码并结合其浏览量和分享量数据进行了相关性分析。他们发现，视频广告的新奇性和独特性与消费者对该广告的病毒式分享密切相关。近似地，通过对 Facebook上402个用户的在线调查和结构方程模型分析，Lee 和 Hong（2016)发现广告创意是影响消费者分享和积极态度形成的重要因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 趣味性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从印象管理的角度出发，趣味性强（有趣的、互动的、好玩的、幽默的、滑稽的）的在线内容也很容易被人们主动分享以至于形成病毒式传播，因为分享这样的在线内容可以衬托出分享者本人有趣和幽默的正面形象（Berger,2014）。比如，人们在社交网络上常常分享笑话、可爱有趣的图片、搞笑的视频或广告（如2018年抖音上走红的《第一届文物戏精大会》）以及互动性强的网页游戏等等。Dobele等人（2005）甚至认为病毒式营销中最重要的就是趣味性，因为没有人会讨论和分享无聊的内容，同样也没有人会去理睬无聊的营销方案。针对病毒式广告的一些实证研究也发现，广告的趣味性会显著影响消费者对其的分享意愿。其中，Brown,Bhadury 和 Pope（2010）设计了一个2（喜剧暴力强度：高vs.低） $\\times 2$ （后果严重性：一般vs.严重）的组间实验来验证广告中的喜剧暴力强度（comedic violenceintensity）对广告分享可能性的直接影响以及后果严重性（consequence severity）在这一过程中的调节效应。他们请专业人士按照以上两个维度制作了4个不同版本的视频广告并将131位被试随机分配到各组进行观看。实验结果表明，相比喜剧暴力强度低的广告，喜剧暴力强度高的广告能够带来更高的分享可能性，而且这一效应在后果严重性高的情况下表现得更强。另外，Shen 和Chiou（2016）通过实验验证了广告的互动性（高vs.低）对广告分享意愿的直接作用。作为刺激材料，低互动的广告版本只是图文形式的单方面信息告知，而高互动性的广告版本则加入了邀请消费者参加心理测试和游戏的环节。结果表明，相比互动程度低的广告，互动程度高的广告能够带来更多的趣味性从而引发更高的分享意愿。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 实用性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同样基于印象管理理论，人们也喜欢谈论和分享那些实用性强的事情，因为分享这样的内容可以赋予分享者聪明、睿智、利他、乐于助人的正面形象。而且，实用的内容也具有社会交换价值，人们可以通过分享这些内容来产生互惠（Berger,2014）。比如，人们常常在社交网络上向朋友分享一些对工作生活很实用的忠告、“心灵鸡汤”、小知识、有价值的信息类图表、餐厅评价以及优惠的产品促销信息等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "许多实证研究结果也表明，实用性强、信息量丰富、有价值的在线内容可以引发消费者的主动分享以达到病毒式传播的效果。比如，通过对人们经常分享的文章主题进行焦点小组访谈和内容分析，Phelps 和Lewis（2004）发现人们通过邮件分享最多的话题之一正是那些实用信息和有用的忠告。另外，Lee 和Hong（2016）通过对 Facebook上402个用户的在线调查和结构方程模型分析发现，信息量丰富的广告能帮助消费者做出更理智的判断和购买决策，能更好地满足消费者的功能性需求，因此也更容易形成积极态度并被消费者分享。正如Dobele等人（2005）所说，成功的病毒式营销有赖于消费者在接触广告信息时感受到很有价值并且不假思索地认为它值得分享。值得注意的是，Koch和Benlian（2015）在真实的时尚产品在线购买平台 StyleCrowd上设计了一个3（稀有性：无vs.低vs.高） $\\times 2$ （个性化：无vs.有）的随机田野实验来对比不同类型的促销信息对于消费者病毒式分享行为的影响。119个有效被试被随机分配到6组之中参加了实验。结果表明，相比促销信息的个性化线索，促销信息的稀有性线索通过提升消费者的感知价值能够显著提高消费者对该促销信息的分享和推荐意愿。与此近似，黄敏学等人（2016）设计了一个3（营销刺激：新品宣传刺激vs.低折扣刺激vs.高折扣刺激） $\\times 2$ （关系范式：共有关系vs.交易关系）的实验来探究经济刺激对于消费者分享意愿的影响以及关系范式在这一过程中的调节效应。169名有效被试被随机分配到6组之中并阅读不同版本的促销信息。结果表明，相比共有关系范式，实用的经济刺激对触发交易关系范式下的消费者分享行为更有效。通过以上研究可以看出，当商家发布了具有很高实用价值的广告信息时，这些广告的传播方式就不再像传统路径那样仅依托一个信息源，而是开始借助千千万万个消费者作为传播者，从而像病毒一样在社交网络上快速扩散开来（Petrescu &Korgaonkar,2011）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了以上三个重要的主题型内容特征之外，一些计算机与信息科学领域的学者通过对社交网络平台数据的挖掘和计量分析发现，那些被病毒式分享的在线内容往往具有一些形式方面的特征。比如，包含图片的、具有视觉美感的帖子比纯粹文字型帖子能获得更多分享；竖向图片比横向图片的分享量更高；动画图片、色彩饱和度高的彩色图片、包含人脸的图片能够被更多地分享；包含动物的、经过电脑合成的、有美感的、高清的和性感的图片也更容易被分享（Guerini,Staiano,&Albanese,2014）。另外，基于语言学中的言语行为理论，Ordenes等人（2018）通过机器学习的方式对Facebook 和Twitter两个社交平台上的品牌帖文进行了长达两年以上的文本挖掘和编码，以探究不同语言类型的品牌信息对于消费者分享意愿的影响。经过建模和计量分析，他们发现运用头韵和重复这两种修辞手法的品牌帖文能够获得消费者更多的分享。最新地，Pancer,Chandler,Poole 和Noseworthy（2019）还研究了网帖文本的可读性对于消费者分享意愿的影响。通过抓取一个知名摄影博客为期3年的、4000 个Facebook帖子并对其进行编码、建模和计量分析，他们发现在控制照片特征、故事的效价和其他内容特征的情况下文本可读性显著影响了消费者对网帖信息的分享量。在研究二中，他们设计了一个2（可读性：简单vs.复杂） $\\times 2$ （网帖长度：短vs.长）的组间实验进一步验证可读性对于消费者分享意愿的作用。作者从MTurk上招募了236个被试并将他们随机分配到4组之中阅读不同版本的品牌信息。实验结果表明，相比复杂的文本信息，简单（即高可读性）的文本信息具有更高的信息处理流畅性，因而也更容易被人们分享；而且这一效应在长网帖（vs．短网贴）的情况下更大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，已有研究主要发现那些具有很高的新奇性、趣味性和实用性的在线内容更容易引发病毒式分享。相反，那些老旧、普通、无趣、没有价值的内容根本无法吸引消费者（Phelps＆Lewis,2004）。同时，在线内容的一些形式特征（包括是否包含图片、语言修辞手法、可读性等）也会影响其病毒式传播效果。对于本部分的研究，学者们基于不同的理论视角并运用不同的方法提供了各自的见解，他们的研究发现和结论达成了较高的一致，较为全面和深刻地揭示了引发病毒式分享的内容特征，对于我们日常生活中的刷屏现象具有很强的解释力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2引发病毒式分享的心理动机",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人们为什么要在社交网络上主动分享在线内容？导致病毒式分享的心理动机又是什么呢？已有研究显示，自我强化、社会联结和利他是人们主动分享在线内容的三个主要心理动机。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1自我强化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自我强化需求（need for self-enhancement）是指一种对自我获得良好感觉的基本人类需求，主要表现为表达、维持和改善自我概念、自我形象和自尊。它会驱使人们在社会交往中注重管理自我形象的展示以得到他人的积极认可并创建一个好的印象（De Angelis,Bonezzi,Peluso,Rucker,&Costabile,2012）。基于这一心理动机，人们会乐意在社交网络上分享那些与自我相关的、使他们看起来更好和更特别的内容，以努力塑造一个良好的“虚拟形象”。同时，人们也会将分享特定的在线内容作为“信号”来传递自己的特定身份（Berger,2014）。比如，人们在社交网络上分享那些新奇的、酷的、有趣的、有用的信息都是希望表达和加强相应的自我形象；分享一些专业的评论文章是为了显示他们的特定技能、学识或专长，以展示自己在这方面的“专家身份”。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "许多实证研究显示，自我强化是人们主动分享在线内容的首要动机。通过对582位互联网用户的问卷调查和分析，Ho 和Dempsey（2010）发现个体化（individuation）这一心理动机积极影响人们的在线分享行为。它是指人们希望脱颖而出的意愿强度。也就是说，人们主要希望通过分享在线内容来使自己脱颖而出，展示自我形象并获得更多的关注。Taylor,Strutton 和Thompson（2012）通过对美国615位大学生的在线问卷调查和分析也发现，在线广告满足自我强化需求的程度正向影响消费者分享在线广告的可能性。近似地，综合运用深度访谈和对Facebook用户的在线问卷调查这两种方法，Vries等人（2017)以及Fu等人（2017）也获得了同样的研究结论，即消费者主要出于“自利的”目的来分享在线内容；自我表达（self-expressive）的动机正向影响消费者分享在线内容的意向。其中，自我表达概念的测量项目包括：“它让别人知道我是谁”；“它帮助我来表达我是怎样的人”；“它帮助我向外界传达我是谁”，“它帮助我建构我的身份”，“它帮助我表达我自己”等。另外，通过对Facebook上2000个分享量最高的网帖进行内容分析以及随后的1万份在线问卷调查，Yuki（2015）发现消费者分享在线内容的动机主要是为了获得一种“社交货币”，即获得更多的社会认可和良好的自我形象。最新地，通过对中国四个城市中的421位微信月活跃用户的在线问卷调查，Chu,Lien和Cao（2018）的研究发现中国旅游者的自我强化动机显著影响他们在微信朋友圈中的在线分享行为。可见，虽然以上研究所用的具体概念名称有所不同，但本质上都证实了自我强化是消费者分享在线内容的首要动机。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2社会联结",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "建立和维持社会关系是人类的基本需求。Berger（2014）指出，日常的人际沟通能够使人们彼此保持联系和传达关心，像“社会胶水”一样将人们联系在一起并不断加强人际关系。那么，在社交网络环境中人们同样需要通过相互分享那些共同感兴趣的、情感性的在线内容来加强社会联结（socialbonding），拉近彼此距离，以减少孤独感和社会排斥感。比如，人们在节日里分享转发温馨的问候网帖、将某个内容定向分享给对此感兴趣的个人或社群都是出于加强社会联结的动机。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一些相关实证研究也表明，加强社会联结是人们主动分享在线内容的重要心理动机。通过对人们经常分享的文章主题进行焦点小组访谈和内容分析，Phelps 和Lewis（2004）发现人们通过邮件分享一些内容给特定的朋友主要是出于表达关心和加强彼此社会联结的目的。Libert 和 Tynski（2013）的一项调查研究也表明，强化共同的热情和兴趣（具体测项是“它使我和朋友在一个共同的兴趣点上联系起来”）以及社交（具体测项是“它帮助我和朋友保持社交关系”）是人们分享在线内容的重要原因。另外，通过对40名消费者的深度访谈和605份在线问卷调查，Vries等人（2017）的研究发现社交化（socializing）是人们深度参与内容创造与内容分享的心理动机。其中，社交化的具体测量项目包括：“我可以与和我有同样兴趣的人保持联系”，“我可以认识具有同样兴趣的人”，“它使我感觉和他人保持联系”，“它使我与志同道合的人保持联系”等。近似地，通过综合运用焦点小组访谈和265份在线问卷调查，Fu等人（2017）的研究发现群体性动机（communalmotive）积极影响消费者对在线内容的分享意愿，而这里的群体性动机正是指与他人保持联系（connect）和获得群体快乐（group joy）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3利他",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了以上两个利己动机之外，利他（altruism）也被许多学者认为是驱动人们主动分享在线内容的动机之一。有时人们分享一个内容可能很大程度上是无私的、公益的，是为了帮助别人并提高他人的福利（Berger,2014）。比如，在社交网络上分享一则寻人启事希望有所帮助，分享一个公益项目的信息鼓励他人参与，分享一篇有见地的文章供他人学习，分享一次绝佳的消费体验以奖励表现出色的公司等等。一些相关的实证研究也证实了利他动机的存在。通过对 582位互联网用户的问卷调查和分析，Ho和Dempsey（2010）发现利他动机会积极影响消费者对在线内容的分享意愿。其中，作者将利他动机界定为一种帮助他人的意愿，具体测项包括：“为了帮助他人”和“与他人分享我所拥有的东西”。Libert和 Tynski（2013）的一项调查研究也表明，增加社会效益（具体测项是“它可能对我的朋友有用”、“我愿意帮助这个公益事业”）是人们分享在线内容的一个原因。另外，Fu等人（2017）的研究也发现利他动机可以积极影响消费者对在线内容的分享意愿。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，已有研究主要发现自我强化、社会联结和利他是人们主动分享在线内容的三个重要心理动机。这些研究从心理需求的角度很好地解释了病毒式分享形成的内在原因，并将病毒式营销研究引向了更深入的心理层面。值得注意的是，Berger（2014）坚持认为人们分享在线内容本质上是出于自利（self-serving）的目的，比如上文所述的所有看似出于利他动机的内容分享行为其实都是自利的、出于自我强化动机的，即为了展现分享者热心、乐于助人的自我形象。关于这一点，学者们尚存在争议和不同的理解。但本文认为这三个动机之间不存在绝对的界限，并非完全独立，而是相互交叠的，往往在人们分享一个内容的心理过程中是并存的，只是不同情况下三者所占比例不同而已。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3引发病毒式分享的情绪反应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了前文所述的心理动机，许多学者认为情绪反应也是引发在线内容被病毒式分享的重要原因。根据情绪调节（emotion regulation）理论，当某事引起人们情绪波动时，人们总需要自行管理情绪并通过分享该事情来表达、排解和发泄这一情绪，从而找到一个出口使自己恢复到正常情绪状态（Berger,2014）。同理，当某项在线内容引发消费者的强烈情绪反应时，消费者也会通过在社交网络上主动分享该内容来表达和调节情绪。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "许多实证研究显示，情绪的激烈性（emotional intensity）和情绪唤醒（emotional arousal）与在线内容的病毒式分享密切相关。通过对《纽约时报》上那些被分享最多的文章进行编码、内容分析和随后的实验，Berger 和Milkman（2009）以及Berger（2011）发现在线内容的病毒式传播效果主要由其引发的情绪唤醒程度决定，即高唤醒情绪（无论是积极情绪或消极情绪）会导致内容的病毒式传播。另外，经过对新闻网站上的65000篇文章进行编码和内容分析,Jones,Libert 和 Tynski（2016)提出了“效价—唤醒—支配\"模型（valence-arousal-dominancemodel）来解释情绪对病毒式分享的影响。他们发现，除了情绪唤醒之外，高支配性的情绪（即人们控制程度高的情绪，如钦佩感、受鼓舞等）也是引发在线内容病毒式分享的因素，而且“高唤醒、高支配性”的组合情绪对于在线内容的病毒式分享效果最佳。与此相呼应，通过从新闻网站 rappler.com 和 corriere.it上各抓取 53,226 条和12,437条新闻并结合读者对每个文章的情绪评价进行建模和计量分析，Guerini和 Staiano（2015）发现在线内容的病毒式分享与其所能激发情绪的“效价一唤醒一支配”模型十分匹配。最新地，为了克服传统的李克特量表测量方式的弊端，Jones 等人（2019）专门使用皮肤电位反应（galvanic skinresponse）这一生理测量方式来验证情绪反应与广告的病毒式分享之间的关系。他们分别选取了15个获得高分享量和低分享量的图片广告作为实验组和控制组，并将邀请到的22位被试随机分配到两组中进行观看，并采用 ShimmerGSR装置采集被试的皮肤电反应。实验结果表明，相比获得低分享量的广告组，获得高分享量的广告组的被试明显产生了更高水平的情绪唤醒和皮肤电反应。可见，尽管情绪对在线内容的病毒式分享的具体影响过程是非常复杂的，但总体而言，已有的多数研究主要围绕情绪的效价分类（即积极情绪和消极情绪）来探讨具体的情绪反应对病毒式分享的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1积极情绪反应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对人们经常分享的文章主题进行焦点小组访谈和内容分析，Phelps和Lewis（2004）最早发现消费者通过邮件主动分享一个在线内容往往是因为被该内容激发出了强烈的积极情绪，比如令人愉悦的、温暖的、兴奋的、受鼓舞等情绪。与此相似，Dobele 等人（2005）以及Libert和Tynski（2013）通过对一些成功的病毒式营销案例的深入研究发现，惊喜（surprise）、愉悦（joy）和钦佩（admiration）这样的积极情绪能够促进人们对广告的分享意愿。随后，相关的一些实证研究进一步验证了积极情绪对于在线内容分享意愿的作用。Berger 和Milkman（2009）发现，相比消极情绪，带有积极情绪的在线内容更容易形成病毒式传播，而且敬畏（awe）这种高唤醒的积极情绪是诱发病毒式分享的一种重要情绪。同时，他们还设计了一个单因素的组间实验来验证乐趣（amusement）这一具体的积极情绪与分享意愿的因果关系。以广告故事作为刺激材料，作者将招募到的49位被试随机分配到高乐趣组和低乐趣组开展实验。结果表明，相比低乐趣组，高乐趣组的被试明显具有更高的分享意愿。另外，Eckler和Bolls（2011）设计了一个组内实验来研究视频广告的情绪基调对消费者分享意愿的影响。他们首先在预实验中选出了播放时长相近的12个真实的视频广告并邀请 38 位本科生按照情绪基调对它们进行评分，然后据此分为愉悦、中等、不愉悦三组。随后，作者另外邀请42位本科生分别观看12个视频广告开展主实验。结果表明，相比其他两组，令人愉悦的积极情绪基调能激发出消费者最高的分享意愿。类似地，范钧和潘健军（2016)通过实验也发现剧情式广告中的积极情绪唤醒有助于激发消费者的品牌认同，进而提升其分享意愿。最后，通过393份在线问卷调查和层级回归分析，Cohen（2014）的研究发现电子游戏所带来的愉悦感和积极情绪反应正向影响消费者对其的分享意愿。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2消极情绪反应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对病毒式营销案例的深入研究，Dobele 等人（2005）以及Libert 和 Tynski（2013）发现当在线内容引发消费者强烈的消极情绪反应时（如忧伤、愤怒、焦虑、恐惧和厌恶等），他们同样需要通过分享该内容来发泄和表达情绪。比如，名人去世的消息、虐待动物或儿童的视频、有关人工智能替代人类工作的新闻等会分别引发悲伤、愤怒和忧虑等强烈的消极情绪反应从而导致病毒式分享。相关的一些实证研究也表明，消极情绪反应是引发在线内容病毒式分享的重要原因。Berger和Milkman(2009)通过一个单因素组间实验验证了愤怒（anger)这一具体的消极情绪与分享意愿之间的因果关系。以负面的顾客体验故事作为刺激材料，作者将 45名被试随机分配到高愤怒组和低愤怒组开展实验。结果表明，相比低愤怒组，高愤怒组的被试明显具有更高的分享意愿。通过相似的单因素组间实验设计，Guadagno,Rempala,Murphy 和Okdie（2013）也探索了社交网络上病毒视频的形成原因。他们从Youtube上收集了8个能刺激出各类不同情绪的典型视频并招募了256名本科生参加实验。结果表明，引发厌恶和愤怒两种消极情绪的视频能够显著提升消费者的分享意愿。最新地，经过对新闻网站上的65000篇文章进行编码和内容分析以及随后的问卷调查，Jones 等人（2016）发现虽然负面情绪相比积极情绪较少出现在病毒式营销案例中，但如果广告中忧伤的消极情绪能够最终加入希望和惊喜的情绪时同样有可能引发病毒式分享。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，已有的大量研究发现了“营销刺激—情绪反应—分享行为”这一作用路径，认为情绪唤醒是导致消费者分享在线内容的重要原因，包括许多不同的积极情绪和消极情绪的具体作用机制。这些研究成果通过情绪反应的视角揭示了在线内容被病毒式分享的具体过程，发现了病毒式分享的“情绪中介机制”，这是对病毒式营销理论的重要贡献。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4引发病毒式分享的情境因素",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "事实上，病毒式分享的整个形成过程是非常复杂的（Teixeira,2012）。即使当前文所论述的内容特征、心理动机和情绪反应均符合条件，人们也未必一定会分享某个在线内容。那么，究竟在何种情况下消费者更愿意分享呢？由此，许多研究进一步发现了影响病毒式分享的情境因素，主要包括社会关系强度、消费者品牌关系强度以及其他一些因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1社会关系强度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据 Berger（2014）的观点，人们是否愿意主动分享一项在线内容还取决于内容接收者和内容发送者之间的社会关系强度（social tie strength）。通过对一项真实的病毒式营销活动的实时数据进行计算机仿真研究，Bampo,Ewing,Mather, Stewart 和Wallace（2008）发现社交网络上的社会关系结构对病毒式营销效果确实具有重要影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其中，一些学者的研究支持强关系对病毒式分享的积极作用。比如，通过对病毒式营销案例的深入研究，Dobele等人（2005）最早发现人们对内容发送者的信任度会影响自己对广告的分享意愿。相应地，Cho,Huh和Faber（2014）在真实的营销情境下设计了一项2（发送者信任度：高vs.低） $\\times 2$ （广告商信任度：高vs.低）的田野实验来研究发送者信任度和广告商信任度对于广告态度和分享意愿的影响。通过分析204份有效在线问卷后他们发现，相比低的发送者信任度，消费者对来自高信任度发送者的广告明显具有更高的积极态度和分享意愿，而且发送者信任度甚至可以克服广告商的低信任度进而积极影响消费者的分享意愿。另外，通过设计一项2（社会关系：强vs.弱） $\\times 2$ （互动性：高vs.低）的组间实验，Shen和Chiou（2016）专门研究了社会关系强度在广告互动性对消费者分享意愿影响过程中的调节作用。他们将246名本科生随机分配到各组阅读不同版本的广告信息。实验结果表明，社会关系强度正向调节了广告互动性对分享意愿的影响。最新地，对 Twitter 和 Digg 两家社交网络平台上的内容分享数据进行建模和计量分析，Peng,Agarwal和Hosanagar（2018）发现了社交网络重叠性对内容分享的显著影响，即当内容接收者和内容发送者之间拥有更多的共同关注对象、共同粉丝和共同的相互粉丝时，该接收者分享在线内容的概率更高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然而，也有一些研究得出了相反的结论，认为弱关系更有利于病毒式分享。比如，通过对1116名被访者的在线问卷调查，Bruyn 和Lilien（2008）发现虽然强关系能够显著提升内容接收者对推送内容的关注和兴趣，但是强关系所带来的人口统计特征的相似性对于随后的分享行为却具有负面作用。另外，在移动运营商一项真实的病毒式营销田野实验中，Hinz,Skiera,Barrot 和 Becker（2011）对比了四种不同的病毒式广告播种策略（seeding strategy）的实际效果。通过数据分析，他们发现虽然强关系个体的参与度更高，但弱关系个体事实上对同伴的影响力更大。与此近似，Pescher,Reichhart 和 Spann（2013）也在移动运营商的病毒式营销情境下设计了一个田野实验来探究消费者参与病毒式营销计划的影响因素。该实验在第一阶段向26137名消费者随机发送了不同类型的促销信息请他们分享给朋友，然后一周后再向他们发送包含问卷链接的信息请他们回答。通过对943份有效问卷的数据分析，作者最终发现社会关系强度对于消费者的信息阅读和分享行为具有负向影响，所谓的网络中心度事实上对于消费者没有显著影响。最新地，基于对社交平台Tweeter上的分享转发数据进行建模和计量分析，Shi,Rui和Whinston（2014）的研究发现相比双向关注的强关系，单向关注的弱关系更可能参与到内容分享的社会交换过程中；相比双向关注的粉丝，一个单向关注的粉丝分享在线内容的概率要高出 $3 . 1 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "可见，学者们关于社会关系强度对内容分享行为的具体作用方式尚存在争议，还需要更多的实证研究在不同的情境和条件下来揭示其作用机制。本文认为，虽然强关系对于关注和接收某个在线内容是有利的，但它也会带来人际关系网络重叠和人口统计特征的相似性，从而导致人们不愿意分享该内容以避免与他人分享的内容产生重复。相反，弱关系下彼此之间的关系网络和人口特征都差异较大，对于某个内容的感知新颖度更高，因而更能促进人们的分享行为。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2消费者品牌关系强度",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有关口碑的研究显示，相比纯粹的功能性产品，消费者更愿意对那些能反映自我形象的、自我相关性强的产品（如衣服、轿车）产生积极口碑（Berger,2014）。同样，一些实证研究发现，消费者与某个品牌的关系强度会正向影响消费者对该品牌广告的评价、接受度以及分享意愿。也就是说，相比普通消费者，一个品牌的粉丝更可能分享该品牌的在线内容。比如，Taylor,Struton 和 Thompson（2012）通过对美国615 位大学生的在线问卷调查和结构方程模型分析发现，自我品牌一致性（self-brand congruity）对消费者的广告分享意愿具有显著的正向影响。与此相近，Ketelaar,Janssen,Vergeer,Reijmersdal 和 Jonathan（2O16）在社交网站Hyves上追踪了3个最新的病毒式广告的浏览量和分享量数据，结合所回收的8510份调查问卷进行了数据分析。他们发现，消费者品牌态度对消费者的广告分享行为具有显著的正向影响。另外，Hayes,Shan 和King（2018）通过一个2（品牌关系强度：强vs.弱） $\\times 2$ （人际关系强度：强vs.弱）的在线实验研究了品牌关系强度和人际关系强度对于消费者分享在线视频广告意愿的交互作用。他们在MTurk上招募了405名Facebook用户点击在线链接观看视频广告并参与实验。结果表明，相比品牌关系强度低的消费者，品牌关系强度高的消费者明显具有更高的分享意愿。然而，也有个别研究得出了相反的研究结论。Huang 和Zhou（2016）在其研究1中通过一个2（品牌熟悉度：高vs.低） $\\times 2$ （品牌相关性：高vs.低）的组间实验来研究品牌熟悉度和品牌相关性如何影响消费者的广告分享意愿。他们邀请了122位被试并将它们随机分组观看广告。实验结果非常意外，他们发现品牌熟悉度和品牌相关性对消费者的广告分享意愿均具有负向影响，只有在低品牌熟悉度和低品牌相关性的情况下消费者的广告分享意愿最高。进一步，他们在研究2中通过对3749份优酷网站用户的问卷调查和数据分析再次验证了他们的结论。该研究与其他研究结论差异很大，这说明消费者品牌关系强度对在线内容分享意愿的影响并非是绝对的，还需要进一步考虑不同的情况和条件。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3其他情境因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "除了以上两个主要因素外，还有一些零散的研究陆续发现了影响病毒式分享的更多情境因素。比如，Taylor等人（2012）通过在线问卷调查发现，产品品类卷入度对消费者的广告分享意愿具有显著的正向影响，即消费者对某个产品品类越感兴趣、越关心，越是倾向于分享相关的在线内容。另外，通过对一些病毒式营销案例的深入研究，Libert和Tynski（2013）认为内容的推送时间点也会影响病毒式营销效果。比如，午饭后和下班后这样的“时间窗口”是消费者使用社交网络的活跃时间，因而更可能关注和分享在线内容。而且，许多内容对时效性的要求很高，比如人们只会在某个节日当天分享与该节日有关的内容。最新地，Consiglio等人（2018）通过多个研究发现社会密度会显著影响人们的信息分享意愿。他们首先采集了意大利多个城市的人口密度数据和相应的推特发文总数量，发现城市人口密度和推特信息分享量呈正相关关系。随后，他们设计了单因素的组间实验，将86名大学生随机分配到高密度环境（全部坐在一个能容纳24座教室中）和低密度环境下（分散坐在两个相同的 24座教室）阅读一个文章并回答问题。实验结果表明，相比低密度环境，处于高密度环境的被试具有显著更高的分享意愿。进而，他们通过后续实验发现了自我控制感所发挥的中介作用，即身处高社会密度环境下的消费者更愿意分享在线内容以重建内心的自我控制感。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "另外还有研究显示，内容的获取方式也会显著影响人们的分享意愿。Aral和Walker（2011）通过对9687位Facebook用户的随机田野实验和建模计量分析发现，主动的、个性化定制的推送方式产生了 $9 8 \\%$ 的分享量，而被动接收的、大范围推送的信息产生了 $2 4 6 \\%$ 的分享量，更具有同伴影响力和病毒传播性。值得一提的是，Chen 和 Berger（2016）通过2（内容获取方式：自己发现vs.他人推送） $\\times 2$ （内容特征：高兴趣vs.低兴趣）的实验研究了内容获取方式对于内容分享意愿的影响机制。他们从MTurk上招募到192名被试随机分配到不同的情况下阅读一篇文章。实验结果表明，相比低兴趣的文章，消费者对于高兴趣的文章的分享意愿显著更高，但这一效应在自己发现文章（相比他人发送)的情况下有所减弱。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述，学者们从不同的理论视角出发识别出了影响病毒式分享的许多情境因素，主要包括社会关系强度、消费者品牌关系强度、产品品类卷入度、推送时间、社会密度以及内容获取方式等。这些研究揭示了消费者在线内容分享意愿形成过程中的边界条件和调节效应，使我们更加深入和全面地认识了病毒式分享的形成机制，因而是对该理论体系的重要补充和完善。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5个体特征 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "必须承认的是，即使某个在线内容完美符合病毒式传播的要求，相对来说也只有少数人才会分享。那么，究竟具有什么样个体特征的人更愿意在社交网络上分享在线内容呢？根据Libert和Tynski（2013）的一项调查，近 $1 8 \\%$ 的互联网用户至少一周会分享一次在线内容，其中 $9 \\%$ 的人每天都会分享。许多学者认为，消费者的个体特征会显著影响他们的内容分享意愿，因而企业在开展病毒式营销时需要在初始推送阶段找准目标受众并进行精准推送，将内容发送给那些真正愿意倾听的、感兴趣的“合适的人”，而且要学会识别并借助这些“超级分享者”才能提高病毒式营销的整体成功率（Phelps&Lewis,2004; Teixeira,2012）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "一些实证研究表明，相比分享意愿低的人，那些分享意愿高的人确实在人口统计特征和性格方面具有明显差异。比如，通过对人们经常分享的文章主题进行焦点小组访谈和内容分析，Phelps和Lewis（2004）发现女性比男性更倾向于向朋友分享在线内容。通过393份在线问卷调查和层级回归分析，Cohen（2014）在电子游戏分享的情境下也得出了同样的结论。与此同时，Yuki（2015）针对10083名Facebook用户的大规模问卷调查发现，性别和年龄会对消费者的内容分享偏好产生影响。调查结果表明，男性的分享动机主要是获得“有趣”的形象，而女性的分享动机主要是获得“聪明”的形象；青年人分享内容的动机主要是获得聪明和有趣的个人形象，中年人更喜欢分享那些讲故事的内容，而老年群体则更喜欢分享实用的内容。另外，通过使用眼动仪和表情捕捉系统来分析消费者在观看病毒式广告时的眼球轨迹、表情和行为反应，Teixeira（2012）发现那些性格外向、开放的和自我中心倾向高的人往往更愿意在社交网络上分享更多内容以提高他人对自己的社会地位感知并展现自我形象。事实上，该观点与前文所述的自我强化动机方面的相关研究结论是一致的。综上所述，以上研究发现消费者个体特征也是病毒式分享形成过程中的边界条件，进一步补充和完善了在线内容的病毒式分享机制，而且对企业开展病毒式营销活动中的初始内容播种策略具有很高的参考价值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6总结与讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过系统梳理和述评相关领域较为零散和碎片化的文献，本文首次从内容特征、心理动机、情绪反应、情境因素以及个体特征这五个方面总结提炼出关于在线内容病毒式分享机制的整体理论框架。这五方面的研究分别回答了：“什么样的内容更容易被分享”、“人们为何分享”、“何种情况下人们更愿意分享”以及“什么样的人更愿意分享”这几个在逻辑上层层递进的重要问题，最终共同构成了在线内容的病毒式分享机制的理论体系，如图1所示。其中，内容特征是前置因素；心理动机和情绪反应解释了内容特征对分享意愿的具体作用机制，发挥着中介效应；而情境因素和消费者个体特征则是主作用机制的边界条件，发挥着调节效应。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b7cfb27b1ab18b3891aeb47fe720bea573aeaa1fea454ee97e023b2f8947609.jpg",
+        "img_caption": [
+            "图1在线内容病毒式分享机制的整体理论框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.1对病毒式营销策略的启示",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文所提炼出的整体理论框架能够为品牌和自媒体提高在线内容的分享转发率提供系统的理论指导。一般来说，营销者在开发在线内容时需要自问以下一系列问题：目标消费者会对此感兴趣吗？该内容的主题和形式是否能有效吸引消费者？他们会主动分享该内容吗？该内容是否能很好地满足消费者的相关心理动机？是否能强烈地激发消费者的相关情绪反应？该内容在推送时是否考虑了相关情境因素？是否推送给了合适的人？等等。具体来说，为了使某个在线内容能够尽可能获得病毒式分享效果，该内容的主题最好具有很高的新奇性、趣味性或实用性并满足相关的形式要求；该内容最好能够衬托和展现消费者某方面的积极形象，满足他们自我强化、加强社会联结或者利他的心理动机；该内容最好能够激发出消费者强烈的情绪唤醒；该内容在推送时要充分考虑目标人群的社会关系网络、时间点、推送方式等情境因素，而且尽可能首先推送给那些会对此真正感兴趣的、喜欢分享的“合适的人”。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2对未来研究的展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "虽然学者们在病毒式营销领域已获得丰硕研究成果，但目前该领域仍存在许多值得进一步挖掘和探索的理论问题。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第一，在消费者的情绪反应方面，已有研究大多只是较为笼统地发现了积极或消极情绪对病毒式分享的作用。然而，还有哪些具体情绪会促进消费者对在线内容的分享意愿？其具体的作用机制是怎样的？这些问题仍需要结合不同的情境进一步深入挖掘，从而为病毒式营销者树立更具体的、多样化的情绪刺激目标，以提高病毒式营销的可操作性。比如，已有研究通过内容分析发现敬畏感（Berger&Milkman,2009）和钦佩感（Libert＆ Tynski,2013）可以促进消费者对在线内容的分享意愿，那么其具体的作用机制和背后原理又是什么？另外，根据对现象的观察，那些很酷的产品创新类内容和具有可爱外观造型的产品图片也经常能引发消费者的分享。那么，酷感和感知可爱是否真的能够促进消费者分享意愿？这需要更多的实证研究去探索。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二，在病毒式分享的情境因素方面，学者们对于社会关系强度的作用仍存在争议。有的认为强关系更有利于病毒式分享（Ketelaaretal.,2016），有的则认为弱关系更有利于病毒式分享（Pescher etal.,2013）。那么，这些结论分别是在什么情况下才有效？这一问题还需要更多的实证研究来考虑不同的具体情况，比如社交网络平台的结构特点，或者病毒式传播的不同阶段。目前，学者们正在采用不同的理论视角来努力识别出影响病毒式分享的情境因素，比如产品品类卷入度（Taylor etal.,2012）、内容获取的方式（Chen&Berger,2016）以及环境的社会密度（Consiglio et al.,2018）等，未来国内学者需要对我国本土的病毒式营销案例和消费者行为进行深入研究，进一步提出并验证更多的、影响病毒式分享的情境因素和个体特征。比如，有的消费者不喜欢在微信朋友圈分享内容，却喜欢在微博上分享，这种社交网络平台的结构特点（开放型vs.封闭型）是否会影响消费者分享意愿？而且，在跨文化背景下，同样的在线内容所导致的消费者分享结果可能有所不同。那么，不同国家的文化价值观是否会影响消费者分享在线内容的意愿？",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第三，以往研究更多地在探讨病毒式分享的形成机制，而未来我们也需要对病毒式营销的效果进行评估，开发出一套相关的评估标准以更好地衡量病毒式营销绩效。另外，也需要对消费者分享行为所导致的积极和消极的心理、行为结果进行研究。比如，消费者分享品牌的在线内容是否会拉近与品牌的心理距离？消费者对某一类内容的分享行为是否会降低他对同类型产品的兴趣？经常性的分享是否会对消费者心理健康产生负面效果？而且，病毒式营销也有其弊端，容易产生低俗内容、侵犯消费者隐私的伦理问题，我们该如何进一步规范病毒式营销活动并与其他营销方式发挥协同效应也是值得学者们进一步研究的问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第四，在研究方法方面，病毒式营销领域未来还需要采用多学科交叉的方法来得出更为准确、可靠的研究结论。以往的研究结论大多以分享意愿作为结果变量，但分享意愿未必一定能够转化为实际的分享行为，因而未来需要通过更多的档案数据分析方法和田野实验的方法进一步考察实际分享行为的影响因素。比如，可以通过二手档案数据建立计量模型和质性文本数据挖掘的方式来发现一些变量与内容分享实际结果之间的相关关系；通过实验室实验和田野实验法来探索其具体心理机制并明确因果关系；还可以利用神经科学方法进一步揭示病毒式分享背后的生理和神经机制等。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "范钧,潘健军.(2016).剧情式视频广告中品牌—情节信息对受众传播意愿的影响.营销科学学报,12(2),111 - 123.   \n黄敏学,雷蕾,朱华伟.(2016).谈钱还是谈情：企业如何引导消费者分享自媒体营销.心理学报,48(2),211- 220.   \n李宏，刘菲菲.(2018).基于情绪视角的营销信息分享述评与展望．外国经济与管理,40(9),143－152.   \nAral, S.,& Walker,D. (2O11). Creating social contagion through viral product design: A randomized trial of peer influence in networks. Management Science, 57(9), 1623 - 1639.   \nAshley, C.,& Tuten,T. (2O15).Creative strategies in social media marketing: An exploratory study of branded social content and consumer engagement. Psychology and Marketing, 32(1), 15 - 27.   \nBampo,M.,Ewing,M.T.,Mather,D.R., Stewart,D.,& Wallce,M. (20o8).The effects of the social structure of digital networks on viral marketing performance. Information Systems Research, 19(3), 273 - 290.   \nBerger,J. (2011). Arousal increases social transmisson of information. Psychological Science, 22(7),891- 893.   \nBerger,J.(2O14).Word of mouth and interpersonal communication: A review and directions for future research. Journal of Consumer Psychology, 24(4), 586 - 607.   \nBerger, J., & Milkman, K.L. (20o9).What makes online content viral? Journal of Marketing Research, 49(8), 192 - 205.   \nBerger, J.,& Schwartz, M. (2011).What drives immediate and ongoing word of mouth? Journal of Marketing Research, 48(5),869 - 880.   \nBrown,M.R., Bhadury,R. K.,& Pope,N. K. (2010). The impact of comedic violence on viral advertising effectiveness. Journal of Advertising, 39(1), 49 - 65.   \nBruyn, A. D.,& Lilien, G.L. (20o8). A multi-stage model of word-of-mouth influence through viral marketing. International Journal of Research in Marketing,25(3),151-163.   \nChen, Z.,& Berger, J. (2016). How content acquisition method affects word of mouth. Journal of Consumer Research,43(1), 86 - 101.   \nCho,S.,Huh,J.,& Faber,R.J. (2O14).The influence of sender trust and advertiser trust on multistage effects of viral advertising. Journal of Advertising, 43(1), 100 - 114.   \nChu, S. C.,Lien, C.H. & Cao, Y. (2018). Electronic word-of-mouth (eWOM) on We Chat: Examining the influence of sense of belonging, need for self-enhancement,and consumer engagement on Chinese travellers' eWOM. International Journal of Advertising, 38(1),26 - 49.   \nCohen,E.L. (2014).What makes good games go viral? The role of technology use, eficacy, emotion and enjoyment in players’ decision to share a prosocial digital game. Computers in Human Behavior, 33(4), 321 - 329.   \nConsiglio,I,Angelis,M.E.,& Costabile,M. (2018).The effect of social density on word of mouth.Journal of Consumer Research,45(3), 511 - 528.   \nDe Angelis, M.,Bonezzi, A., Peluso,A. M., Rucker,D.D.,& Costabile,M. (2012). On braggarts and gossips: A self-enhancement account of word-of-mouth generation and transmission. Journal of Marketing Research, 49(4), 551 - 563.   \nDobele,A., & Lindgreen, A. (2Oo7).Why pass on viral messages? Because they connect emotionally. Business Horizons, 50(4),291 - 304.   \nDobele,A., Toleman,D.,& Beverland,M. (20o5).Controlled infection! Spreading the brand message through viral marketing. Business Horizons, 48(2), 143 - 149.   \nEckler,P.,& Bolls,P. (2O11). Spreading the virus: Emotional tone of viral advertising and its effect on forwarding intentions and attitudes. Journal of Interactive Advertising, 11(2),1 - 11.   \nFu,P. W., Wu, C. C.,& Cho, Y.J. (2017). What makes users share content on Facebook? Compatibilityamong psychological incentive, social capital focus, and content type. Computers in Human Behavior, 67(2), 23 - 32.   \nGuerini, M., Staiano, J., & Albanese,D. (2O14). Exploring image virality in google plus. International Conference on Social Computing,10(1),671 - 678.   \nGuadagno,R. E., Rempala,D. M., Murphy, S.,& Okdie, B. M. (2013). What makes a video go viral? An analysis of emotional contagion and Internet memes. Computers in Human Behavior,29(6),2312 - 2319.   \nHayes,J.L., Shan, Y.,& King, K. W.(2O18). The interconnected role of strength of brand and interpersonal relationships and user comment valence on brand video sharing behavior. International Journal of Advertising, 37(1),142 - 164.   \nHinz,O., Skiera,B., Barrot, C.,& Becker,J. U.(2O11). Social contagion: An empirical comparison of seeding strategies for viral marketing. Journal of Marketing, 75(6), 55 - 71.   \nHo, J. Y. C.,& Dempsey, M. (2010). Viral marketing: Motivations to forward online content. Journal of Business Research, 63(9-10),1000 -1006.   \nHuang,J.S.,& Zhou,L.(20l6). Negative effects of brand familiarity and brand relevance on effectiveness of viral advertisements. Social Behavior and Personality: an International Journal, 44(7),1151-1162.   \nJones,J.L.H., Gillespie,M.,& Libert, K. (2019,January). Can biometrics predict a viral marketing campaign? Harvard Business Review, 21 - 25.   \nJones,K.,Libert,K.,& Tynski, K. (2016, May). The Emotional Combinations That Make Stories Go Viral. Harvard Business Review,13 - 16.   \nKetelaar,P.E.,Janssen,L.,Vergeer,M.,Reijmersdal,E.A.V.,&Jonathan,R. (2o16).The success of viralads: Social and atitudinal predictors of consumer pass-on behavior on social network sites. Journal of Business Research,69(7),2603 - 2613.   \nKoch, O.F.,& Benlian,A. (2015). Promotional tactics for online viral marketing campaigns: How scarcity and personalization affect seed stage referrals. Journal of Interactive Marketing,32(11), 37 - 52.   \nLee, J.,& Hong,I. B. (2O16). Predicting positive user responses to social media advertising: The roles of emotional appeal, informativeness,and creativity. International Journal of Information Management,36(3), 360 - 373.   \nLibert,K.,& Tynski, K. (2O13, October). The emotions that make marketing campaigns go viral. Harvard Business Review, 17 - 20.   \nLindgreen,A.,& Vanhamme, J. (2Oo5). Viral marketing: The use of surprise. Advances in Electronic Marketing, 4(7), 122 - 138.   \nOrdenes,FV., Grewal,D.,Ludwig,S., Ruyter, K. D.,Mahr,D., Wetzels,M.,& Kopalle,P. (2018). Cutting through content clutter: How speech and image acts drive consumer sharing of social media brand messages. Journal of Consumer Research. 45(5), 998 - 1012.   \nPancer,E., Chandler,V.,Poole,M.,& Noseworthy,T.J. (2019). How readability shapes social media engagement. Journal of Consumer Psychology, 29(2), 262 - 270.   \nPeng, J.,Agarwal, A.,& Hosanagar, K. (2O18). Network overlap and content sharing on social media platforms. Journal of Marketing Research,14(6), 571- 585.   \nPescher, C., Reichhart,P.,& Spann,M. (2O13). Consumer decision-making processes in mobile viral marketing campaigns. Journal of Interactive Marketing, 28(1), 43 - 54.   \nPetrescu, M.,& Korgaonkar,P. (2O11).Viral advertising: Definitional review and synthesis.Journal of Internet Commerce,10(3),208 - 226.   \nPhelps,J.E.,& Lewis,R. (2Oo4).Viral marketing or electronic word-of-mouth advertising: Examining consumer responses and motivations to pass along email. Journal of Advertising Research,44(4), 333 - 348.   \nShen, G. C.C.,& Chiou, J. S. (2016). Effective marketing communication via social networking site: The moderating role of the social tie. Journal of Business Research, 69(6), 2265 - 2270.   \nShi,Z.,Rui, H.,& Whinston,A.B. (2O14).Content sharing in a social broadcasting environment: Evidence from twitter. MIS Quarterly,38(1),123 -142.   \nSouthgate,D., Westoby,N.,& Page,G. (2010). Creative determinants of viral video viewing. International Journal of Advertising, 29(3), 349 - 368.   \nTaylor,D.G., Struton, D.,& Thompson, K. (2O12). Self-enhancement as a motivation for sharing online advertising. Journal of Interactive Advertising,12(2),13 - 28.   \nTeixeira, T. (2O12, April). The new science of viral ads. Harvard Business Review,23 - 23.   \nVries,L.,Peluso,A.M.,Romani, S.,Leeflang,P.,& Marcati,A. (2O17). Explaining consumer brand-related activities on social media: An investigation of the different roles of self-expresson and socializing motivations. Computers in Human Behavior,75(1O),272 - 282.   \nWu,F.,& Huberman,B.A. (20o7). Novelty and collective attention.Proceedings of the National Academy of Sciences of USA, 104(45), 17599 - 17601.   \nYuki,T. (2015). What makes brands'social content shareable on Facebook? Journal ofAdvertising Research, 55(4), 458 - 470. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A literature review on the factors that make online contents viral ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU Wei; LIU Yutong; LI Chunqing; QI Penghu (School of Economics and Management, Northwest University, Xi'an, 710o27, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Viral marketing refers to the marketing approach through which marketers generate online contents on social networks and atract consumers to share them and make them viral. The paper develops a literature review on the factors that make online contents viral,including content characteristics，psychological motives，emotional responses，situational factors and individual traits.The framework can provide theoretical guidance for brands and We Media to increase sharing rate of their online contents.Future studies should focus on exploring the influential mechanism of specific emotions on sharing intention, identifying more situational factors in the context of Chinese culture, measuring the performance of viral marketing， investigating psychological and behavioral consequences of viral marketing and adopting multiple methods. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: online contents; viral marketing; sharing intention; forwarding ",
+        "page_idx": 15
+    }
+]

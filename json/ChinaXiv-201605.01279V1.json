@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "Peptidyl Aldehyde NK-1.8k Suppresses Enterovirus 71 and Enterovirus 68 Infection by Targeting Protease 3C ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yaxin Wang,a,d Ben Yang,b Yangyang Zhai, Zheng Yin, Yuna Sun,a Zihe Raoa,c,d,e tib Ps Ts Hospital, West China Medical School, Sichuan University, Chengdu, Chinae ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enterovirus (EV)isoneoftheajorcusativeagentsofhand,footandmouthdiseaseinthePacific-Asiaregion.Iparticular, EV71causesseverecentralnervoussysteminfectionsandthefatalityratesfromEV7infectionarehigh.Moreoveranoutbreak ofrespiratoryillessscusedynemergingEV,EV68,recentlyoccuredamongoverl0youngchildrenintheUnitedates andwasalsoasociatedwithneurologicalinfections.Although enterovirushasemergedasaconsiderable globalpublichealth threat,noantiviraldrugforclinicaluseisavailable.Inthepresent work,wescreenedourcompoundlibraryforagentstargeting viral protease and identified a peptidyl aldehyde, $\\mathbf { N K - l . 8 k } ,$ thatinhibits the proliferation of different EV71 strains and one EV68 strain and that had a $5 0 \\%$ effective concentration of ${ \\bf 9 0 n M }$ .Low cytotoxicity $5 0 \\%$ cytotoxic concentration, ${ \\bf \\mu } > 2 0 0 { \\bf \\mu } { \\bf M }$ indicated ahigh selective index of over 2,0oo.We further characterized a single amino acid substitution inside protease 3C $( 3 \\mathbf { C } ^ { \\mathbf { p r o } } )$ ,N69S, which conferred EV7l resistance to $\\mathbf { N K }  – 1 . 8 \\mathbf { k } ,$ possibly by increasing the flexibility of the substrate binding pocket of $3 { \\bf C } ^ { \\bf p r o }$ .The combinationofNK-1.8kandanEV71RNA-dependentRNApolymeraseinhibitororentry inhibitor exhibitedastrong syergistic anti-EV71 effect. Our findings suggest that NK-1.8k could potentiallybe developed foranti-EV therapy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "□ nterovirus (EV) and coxsackievirus(CV),which belong to the Picornaviridae family,are the major causative agents of hand, foot,and mouth disease (HFMD) in the Pacific-Asia region (1). Young children are more susceptible to enterovirus and coxsackievirus infection (2,3),but a recent case study reported that coxsackievirus also causes severe infectious diseases in adults (4).In particular,EV71 causes severe encephalitis,aseptic meningitis, pulmonary edema,acute flaccid paralysis,and myocarditis,which lead to high fatality rates (5,6).Moreover,in August 2014,an emerging EV,EV68,caused mild to severe respiratory illnesses among 1,1l6 young children in the United States and was also associated with neurological infections (7,8). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Both enterovirus and coxsackievirus belong to the Enterovirus genus, family Picornaviridae (9). The EV genome contains a single-stranded positive-sense polyadenylated RNA of approximately7,400 nucleotides (10).Translation of the single open reading frame is initiated by ribosomes that use an internal ribosomal entry site located in the $5 ^ { \\prime }$ untranslated region(UTR) region of the viral genome and gives rise to a polyprotein of approximately 250 kDa (1l-l4).This polyprotein is further processed into four structural proteins(VPl to VP4） to form the viral capsid and seven structural proteins(2A to 2C and 3A to 3D)by two viral proteases (2A and protease 3C $\\big [ 3 \\mathrm { C } ^ { \\mathrm { p r o } } \\big ]$ ),togetherwitha protease precursor,3CD(15). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The most striking variation is that both EV71 and EV68 can infect the central nervous system and cause severe infection and death,but coxsackieviruses cannot.Although EV71 vaccines have been applied to prevent these diseases in clinical trials (l6),no drug is clinicallyavailable to control the deadly symptoms caused byEV71 orEV68 infection(17).Preclinical research has identified large numbers of inhibitors targeting multiple processes of the EV71 replication cycle.For instance,an adenosine nucleoside analog(NITDoo8) inhibitsRNA-dependentRNA polymeraseactivity in EV71(18,19),rupintrivir(AG7088) inhibits the function of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EV71 $3 C ^ { \\mathrm { p r o } }$ (6,20,21),and pleconaril, GPP3,and cyclosporine block the entry of enteroviruses and coxsackieviruses (22-24). However,none of these reported inhibitors have been able to be advanced to clinical therapeutics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,we screened our library containing a number of chemical compounds targeting viral proteases and identified a peptidyl aldehyde,NK- $1 . 8 \\mathrm { k }$ ,that inhibited the proliferation of various strains of EV71,as well as one EV68 strain,in human (RD and 293T) and monkey(Vero) cell lines and that had the best $5 0 \\%$ effective concentration $( \\mathrm { E C } _ { 5 0 } )$ of $9 0 ~ \\mathrm { n M }$ among the compounds tested.We characterized the profile of EV71 resistance to the compound and demonstrated that the amino acid substitution conferring resistance occurs in the viral protease. ThecombinationofNK- $1 . 8 \\mathrm { k }$ andNITD008 or GPP3 exhibited a strong synergistic anti-EV71 effect. Our findings suggest that this compound could potentially be developed for anti-EV therapy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell lines and viruses.African green monkey kidney(Vero) cells (ATCC CCL-81),human rhabdomyosarcoma(RD) cells,and human embryonic kidney 293T cells were grown in Dulbecco's modified Eagle's medium (DMEM;Gibco）supplemented with $1 0 \\%$ fetal bovine serum (FBS; Gibco)at $3 7 ^ { \\circ } \\mathrm { C }$ in a humidified incubator with $5 \\%$ $\\mathrm { C O } _ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmids containing EV71 strain SK-EVo06 (GenBank accession number AB469182.1) and EV71 strain SK-EV006 with a green fluorescent protein(GFP) reporter gene inserted into the genome(EV71-GFP) were donated by Satoshi Koike(Tokyo Metropolitan Institute ofMedical Science) for the initial phenotype screening.A single-round reporter system [the EV71(FY)-Luc pseudotype virus system] with pseudotype EV71 containing plasmids pcDNA6-FY-capsid and pEV71-Luc-replicon lacking the P1 region was kindly supplied by Wenhui Li from the National Institute of Biological Sciences,Beijing,China.Plasmids containing human EV71 strains AnHuil (GenBank accession number GQ994988.1） and BrCr(GenBank accession number U22521)were kindly provided by Bo Zhang and Hualin Wang,respectively,from the Wuhan Institute of Virology. The complete genome of EV68 prototypic strain Fermon CA62-1 (GenBank accession number AY426531) was chemically synthesized and was used to rescue living virus. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inhibitors and reagents.Chemical compounds in our screening library and NITDo08 (25)and GPP3 (23),which were used for the synergy studies,were synthesized. Stock solutions were prepared at a concentration of $1 0 ~ \\mathrm { m M }$ in distilled water with dimethyl sulfoxide (DMSO) (final concentration, $0 . 1 \\%$ [vol/vol]）and before use were diluted to different concentrations with DMEM containing $1 0 \\%$ FBS. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A MEGAscript T7 high-yield transcription kit was purchased from Ambion.The TRIzol reagent and a SuperScript III first-strand synthesis system for reverse transcription-PCR(RT-PCR）were purchased from Invitrogen.A QuantiTect SYBR green RT-PCR kit was purchased from Qiagen.A cell viabilityand proliferation assay(WST-1）was purchased from Roche. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Virus titration.ForEV71-GFP,virus titerswere determined by measuring the level of GFP expression in RD cells infected with EV71-GFP. Briefly,the measurement was performed by seeding $3 \\times 1 0 ^ { 4 } \\mathrm { R D }$ cells per well in 96-well microtiter plates.After overnight culture,EV71-GFP was serially diluted 10-fold with DMEMcontaining $1 0 \\%$ FBS $( 1 0 ^ { - 1 }$ -to ${ { 1 0 } ^ { - 8 } }$ ， fold dilutions)and added to RD cells.The plates were then incubated at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ $\\mathrm { C O } _ { 2 }$ .After 3 to 4 days,the level of GFP expression was monitored using an epifluorescence microscope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For living virus,virus titers were determined by endpoint dilution assays (EPDAs).Briefly,the titers were measured by seeding $3 \\times 1 0 ^ { 4 }$ RD cells per well in 96-well microtiter plates.After overnight culture,virus was serially diluted 10-fold with DMEM containing $1 0 \\%$ FBS $( 1 0 ^ { - 1 } .$ to $1 0 ^ { - 8 }$ -fold dilutions） and added to the RD cells.The plates were then incubated at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ $\\mathrm { C O } _ { 2 }$ .Virus titers were determined after 3 to 4 days.The virus titer,expressed as the $5 0 \\%$ tissue culture infective dose $\\mathrm { ( T C I D } _ { 5 0 } ,$ ),was determined using EPDAs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PreparationofEV71 pseudotype virus.The EV71 pseudotype virus [EV71(FY)-Luc] was produced by using the method developed as previously described (26).Briefly, the plasmid pEV71-Luc subgenomic replicon was linearized through digestion with the SalI restriction enzyme and was used as the template for RNA transcription.The EV71 replicon RNA transcripts were prepared in vitro using Promega MEGAscript kits.The pcDNA6-FY-capsid plasmid was transfected into 293T cells at 60 to $8 0 \\%$ confluence.After $2 4 \\mathrm { h }$ posttransfection (hpi),EV71 subgenomic replicon RNA was then transfected using the Lipofectamine 2oo0 reagent (Invitrogen). The EV71 pseudotype virus was harvested at $2 4 \\mathrm { h }$ after RNA transfection with two freeze-thaw cycles.To quantify the EV71 pseudotype virus,the stocks were serially diluted1O-fold and incubated with RD cells for $2 4 \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ .The cells were then harvested,and the luminescence was detected with a Bright-Glo luciferase (Luc) assay system according to the manufacturer's protocol (Promega).For the inhibition assay,the EV71 pseudotype virus was diluted to give a final concentration of ${ { 1 0 } ^ { 6 } }$ relative luminescence units (RLU) per well in a 96-well plate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phenotype screening.RD cells were seeded at $3 \\times 1 0 ^ { 4 }$ cells per well in 96-well microtiter plates.After overnight culture at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ $\\mathrm { C O } _ { 2 } ,$ RD cells were treated with a gradient of concentrations of different compounds ranging from 0.045 to $1 0 0 ~ \\mu \\mathrm { M }$ .After $^ { 2 \\mathrm { h } }$ ,RD cells were infected with EV71-GFP ata multiplicity of infection(MOI) of 1.At 24 hpi, the level of GFP expression was monitored using an epifluorescence microscope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western blot analysis.RD cells were treated with NK-1.8k at concentrations ranging from 0.05 to $0 . 2 \\mu \\mathrm { M }$ and lysed in a buffer containing (50 mM Tris-HCl, $\\mathrm { p H } 8 . 0$ ， $1 5 0 ~ \\mathrm { m M }$ NaCl, $1 \\%$ NP-40, $0 . 5 \\%$ sodium deoxycholate, $0 . 1 \\%$ sodium dodecyl sulfate [SDS], $2 \\mathrm { m M }$ EDTA, $1 \\mathrm { m M N a V O _ { 4 } } ,$ $1 0 ~ \\mathrm { m M }$ NaF).The level of expression of the EV71 VP1 protein in the lysates was determined bya spectrophotometer.Proteins were separated by SDS-polyacrylamide gel electrophoresis(PAGE) and transferred to a nitrocellulose membrane (Millipore).These membranes were blocked with a $5 \\%$ nonfat dry milk solution in Tris-buffered saline for $^ { 4 \\mathrm { h } }$ ,incubated with specific primary antibodies (catalog number ab36367;Abcam),and then subsequently incubated with secondary antibodies conjugated with horseradish peroxidase (HRP).Proteins were visualized by chemiluminescence using Clarity Western ECL substrate (Bio-Rad). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "qRT-PCR.The reduction in the amount of the viral genome in host cels after treatment with one ofthe test compounds was determined using living EV71 and cells in a quantitative RT-PCR (qRT-PCR)-based assay. Briefly, $1 0 ^ { 5 }$ cells were seeded in each well of 24-well tissue culture plates with complete culture medium,and the plates were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\% \\mathrm { C O } _ { 2 }$ .The medium was then replaced with medium containing EV71 strain A,B, or $\\scriptstyle { \\mathrm { C } } ,$ as well as EV68 strain Fermon CA62-1,at an MOI of1 and compounds serially diluted to concentrations ranging from 0.0039 to $2 \\mu \\mathrm { M }$ in the presence of $1 0 \\%$ FBS and $0 . 5 \\%$ DMSO,respectively.After the cells were treated for $2 4 \\mathrm { h }$ ,totalcellularRNA was extracted with the TRIzol reagent using standard protocols.A quantitative RT-PCR assay (for GADPH[glyceraldehyde-3-phosphate dehydrogenase],the primer sequences were $5 ^ { \\prime }$ -CCCACTCCTCCACCTTTGACG $\\cdot 3 ^ { \\prime }$ [forward primer] and $5 ^ { \\prime }$ -CACCACCCTGTTGCTGTAGCCA- $\\cdot 3 ^ { \\prime }$ [reverse primer])was performed using a QuantiTect SYBR green RT-PCR kit (Qiagen,Valencia, CA) following the manufacturer's protocol.EVs and GADPH transcript levels were determined by the $\\Delta \\Delta C _ { T }$ threshold cycle $( C _ { T } )$ method. The percent inhibition was calculated as follows: $[ 1 ~ -$ (average number of compound-treated cells)/(average number of control cells) $] \\times 1 0 0$ .Each data point represents the average of three replicates in cell culture. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inhibitory effectondifferentcells.In orderto eliminate the differences between cells, the $\\mathrm { E C } _ { 5 0 } s$ for RD,Vero,and 293T cells were determined.RD $\\mathrm { 3 \\times 1 0 ^ { 4 } }$ per well), Vero $( 2 \\times 1 0 ^ { 4 }$ per well),and 293T $\\mathrm { \\Omega } _ { 3 } \\times \\mathrm { 1 0 ^ { 4 } }$ per well) cells were seeded in 96-well plates and cultured at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ $\\mathrm { C O } _ { 2 }$ overnight.Cells were treated with a gradient of dilutions of the different compounds ranging in concentration from 0.003 to $1 0 0 \\mu \\mathrm { M }$ EV71 Fuyang was added to 96-well plates at an MOI of 1.The RNA was detected by qRT-PCR after $2 4 \\mathrm { \\ h p i }$ ,and the $\\mathrm { E C } _ { 5 0 } s$ on different cells were calculated by the use of GraphPad Prism software. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Virus titers in supernatants.The levels of reduction of the virus titers in the supernatants were determined by EPDAs.Briefly,RD cells $( 3 \\times 1 0 ^ { 5 }$ per well) were cultured in a 24-well plate and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ under $5 \\%$ $\\mathrm { C O } _ { 2 }$ . On the following days,RD cells were treated with serially diluted compounds at concentrations ranging from O.0039 to $2 \\mu \\mathrm { M }$ in the presence of $1 0 \\%$ FBS and $0 . 5 \\%$ DMSO.After $^ { 2 \\mathrm { h } }$ ,EV71(Fuyang strain) at an MOI of 1 was used to infect the cells.The viruses in the supernatants of the wells containing each concentration were added to new 96-well plates and diluted from $1 \\stackrel { \\sim } { 0 } ^ { - 1 }$ to $1 0 ^ { - 8 }$ . The cytopathic effect was observed in every well after 72 hpi.The $\\mathrm { T C I D } _ { 5 0 } s$ were calculated by use of the Reed and Muench calculator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cytotoxicity.Cytotoxicity was measured bya WST-1-based cell proliferation assay using a cytotoxicity assay kit according to the manufacturer's protocol (catalog no. 0501594400l; Roche,USA).Briefly,Vero cells （20 $( 2 \\times 1 0 ^ { 4 }$ per well) and 293Tand RD cells $( 3 \\times 1 0 ^ { 4 }$ per well in $1 0 0 \\mu { } 1 1 0 \\%$ FBS-DMEM) were cultured at $3 7 ^ { \\circ } \\mathrm { C }$ under $5 \\%$ （204号 $\\mathrm { C O } _ { 2 }$ in 96-well plates, followed by the addition of $5 0 ~ \\mu \\mathrm { l }$ of a solution containing each of the compounds to be tested at a concentration ranging from 0.78 to $2 0 0 \\mu \\mathrm { M }$ The cells were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { 2 4 \\mathrm { h } , }$ and then $1 0 \\mu \\mathrm { l }$ WST-1 reagent wasadded to each well. The luminescent signals were read at $4 9 0 \\mathrm { n m }$ with a microplate reader (Bio-Rad,USA).The percentage of viable cells after treatment with different concentrations of compound was calculated as follows: percentage of viable cells $= 1 0 0 \\times ( \\mathrm { O D } _ { 4 9 0 }$ of the treated sample/ $\\mathrm { \\Delta O D _ { 4 9 0 } }$ of the cell control sample),where $\\mathrm { O D } _ { 4 9 0 }$ is the optical density (OD)at $4 9 0 \\ \\mathrm { n m }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b5def7ba1c32ed48997f2de846fddd22398b1fe5cb6832975e442af4a21d965.jpg",
+        "img_caption": [
+            "FIG1NK-18dolicacuf-tri.Bocratepetctl tiofolw ${ \\mu \\mathrm { M } } _ { \\cdot } ^ { \\cdot }$ for $2 4 \\mathrm { h }$ or left untreated.DAPI ( $( 4 ^ { \\prime } , 6$ -diamidino-2-phenylindole)was used to visualize thenuclei (top)ofthe host cels,and enhanced GFPwas used to monitorvirusgothtt.(C)Iorf-EtsiseaudCRleefectedi of 1 and treated with NK-1.8k at various concentrations (0.0039 to $2 ~ \\mu \\mathrm { M }$ for $2 4 \\mathrm { ~ h ~ }$ or left untreated.Each point presents the average results from three independent experiments,and error bars represent SEMs ${ \\mathit { \\Phi } } _ { n } = 3 { \\mathit { \\Phi } }$ ).(D) Dose-dependent reduction of EV71 VP1 expresson.The concentration of NK-1.8k in the four lanes was 0.05,0.1,0.15,and $0 . 2 ~ \\mu \\mathrm { M }$ ,from left to right,respectively.The level of GADPH expresion was not affected by treatment with NK-1.8k. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Time-of-addition assay.The time-of-addition effect was examined for NK- $\\cdot 1 . 8 \\mathrm { k } ,$ NITD008,and GPP3.RD cells $( 3 \\times 1 0 ^ { 4 }$ cells per well in 100 $\\mu \\mathrm { l } 1 0 \\%$ FBS-DMEM) were cultured overnight at $3 7 ^ { \\circ } \\mathrm { C }$ under $5 \\%$ $\\mathrm { C O } _ { 2 }$ in 96-well plates.Subsequently,the cells were treated with $0 . 2 \\mu \\mathrm { M }$ NK-1.8k, $2 \\mu \\mathrm { M }$ NITD008,and $1 \\mathrm { p M }$ GPP3 either concurrently with $1 0 0 \\mathrm { T C I D } _ { 5 0 } s$ of EV71(FY)-Luc $( 0 \\mathrm { h } )$ or at intervals of $- 6 , - 4 , - 2 , 0 , 2 , 4 , 6 , 8$ ,and 10 hpi. Another 96-well plate was treated with NK-1.8k $( 0 . 2 ~ \\mu \\mathrm { M } )$ ,NITD008（2 ${ \\mu \\mathrm { M } } .$ ,andGPP3 $( 1 ~ \\mathrm { p M } )$ and infected with EV71(FY)-Luc after $6 \\mathrm { h }$ .After incubationat $3 7 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ ,antiviral activity was determined by measurement of the reduction of luciferase activity compared with the luciferase activity of the control cultures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Selection of drug-resistant virus.RD cells were seeded at $6 \\times 1 0 ^ { 5 }$ cells/well in 6-well plates. On the following day,the medium was removed and replaced with DMEM containing $1 0 \\%$ FBS and $0 . 2 ~ \\mu \\mathrm { M }$ NK-1.8k; $0 . 5 \\%$ DMSO was used as a control.After $^ { 4 \\mathrm { h } }$ ,EV71(Fuyang strain） was used to infect RD cells atan MOIof 0.1.After 3 days,the virus (termed passage 1 virus)was harvested when RD cells reached 70 to $9 0 \\%$ confluence.A fresh 96-well plate was prepared and replaced with $0 . 2 ~ \\mu \\mathrm { M }$ NK1.8k.RD cells were infected with EV71 at an MOI of 0.1,and virus from passage 2 was harvested.After three rounds of passage,the concentration of NK-1.8k was increased to $0 . 4 ~ \\mu \\mathrm { M }$ for another three rounds of passage and then to $0 . 8 ~ \\mu \\mathrm { M }$ for two rounds. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Identification of drug resistance-conferring mutations.For analysis of EV71 RNA resistance-conferring mutations,cellular RNA was extracted with the TRIzol reagent (Invitrogen） according to the manufacturer's instructions.For reverse transcription-PCR,first-strand cDNA was synthesized using a gene-specific primer ( $5 ^ { \\prime }$ -ACCCCCACCAGTCA CATTCACG $\\cdot 3 ^ { \\prime }$ )and the SuperScript III first-strand synthesis system for RT-PCR(Invitrogen) according to the manufacturer's instructions.The protein-coding region of the EV71 genome was amplified by PCR in 5 short fragments: fragment 1 was amplified with primers EV71-718-sense $5 ^ { \\prime }$ -ATCTTGACCCTTAACACAGC- $\\cdot 3 ^ { \\prime }$ ）andEV71-2046-anti( $5 ^ { \\prime }$ -GACC ATTGGGTGTAGTACCC- $\\cdot 3 ^ { \\prime }$ ),fragment 2 was amplified with primers EV71-1975-sense ( $5 ^ { \\prime }$ -CGATCCTGGGCGAAGTGGAC- $\\cdot 3 ^ { \\prime }$ ）and EV71- 3345-anti( $5 ^ { \\prime }$ -TGTTGTCCAAATT TCCCAAG- $3 ^ { \\prime }$ )，fragment3was amplified with primersEV71-3248-sense ( $5 ^ { \\prime }$ -TACCTATTCAAAGCCAA CCC- $\\cdot 3 ^ { \\prime }$ ）andEV71-4643-anti( $5 ^ { \\prime }$ -ATAAAGACATATCCTTGCCG $\\cdot 3 ^ { \\prime }$ ) fragment 4 was amplified with primers EV71-4569-sense ( $5 ^ { \\prime }$ -ACGGCTA CAAGCAACAGGTG $\\cdot 3 ^ { \\prime }$ ）andEV71-6044-anti( $5 ^ { \\prime }$ -TTCCCTCGAAGAT ATCATGG $\\cdot 3 ^ { \\prime }$ ),and fragment 5 was amplified with primers EV71-5972- sense ( $5 ^ { \\prime }$ -GGAAGGCTCAACATCAATGG- $\\cdot 3 ^ { \\prime }$ )andEV71-7345-anti( $5 ^ { \\prime }$ 1 GGGTTGAGGTGTGTATAGCC $\\cdot 3 ^ { \\prime }$ ).The RT-PCR products of the 5 fragments of resistant EV71 or control EV71 were ligated into the TA cloning vector PMD18-T(TaKaRa).For each fragment,multiple individual bacterial colonies were isolated,and the purified plasmid DNA was sequenced.The sequences were aligned using Sequencher (version 5.0) and BioEdit software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sensitivity ofEV71 WT andN69S mutantvirus to NK-1.8k.The recombinant plasmid carrying EV71 (strain Fuyang) with a T7 promoter, a HindIII site before the $5 ^ { \\prime }$ UTR,and an XbaI site in the poly(A) sequence after the $3 ^ { \\prime }$ end was ligated into pcDNA 3.1. The N69S amino acid substitution was generated by using a Fast mutagenesis system kit (Transgen) withforwardprimer $5 ^ { \\prime }$ -ATGAGCAAGGAGTCAGCTTGGAATTAACC $\\mathrm { C } { - } 3 ^ { \\prime }$ and reverse primer $5 ^ { \\prime }$ -CTGACTCCTTGCTCATCCACTAGCTCAA CTG- $\\cdot 3 ^ { \\prime }$ .The full-length RNAs of wild-type(WT) EV71 and the N69S mutant were transcribed from recombinant plasmid linearized with XbaI in vitro usinga RiboMAX large-scale RNA production system (T7 kit; Promega).RD cells were electroporated with $1 0 ~ \\mu \\mathrm { g }$ of WT or mutant genome-length RNA.The WT and mutant viruses were harvested at $2 4 \\mathrm { h }$ posttransfection.RD cells $( 3 \\times 1 0 ^ { 4 }$ cells per well) were seeded ina 96-well plate and cultured at $3 7 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { h }$ .The WTand mutant virus titers were determined by EPDAs as described above.For testing the inhibitory activity of NK-1.8k between the WT and compound-resistant virus, $5 0 0 ~ \\mu \\mathrm { l }$ of the RD cell suspension was immediately seeded in a 24-well plate and the cells were incubated for $2 4 \\mathrm { h }$ . Cells were treated with serial dilutions of NK-1.8k and infected with WT or N69S virus.At $2 4 ~ \\mathrm { { h p i } }$ ，RNAs were extracted and quantify by qRT-PCR. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef79ac78252cf0699fbc6c4d18238b3da691e6ce5d3c888537a18d9b391653c7.jpg",
+        "img_caption": [
+            "FIG2AtiEo ${ \\displaystyle | \\mu \\mathrm { M } } )$ (A),NITD008 $( 2 \\mu \\mathrm { M } )$ (B),and GPP3 $( 1 \\mathrm { p M } )$ (C) at various times of addition.The luciferase levels at $2 4 \\mathrm { h p i }$ were quantified by measuring firefly luciferase atielUb ${ \\mu \\mathrm { M } } _ { \\cdot } ^ { \\cdot }$ ,NITD008 $( 2 \\mu \\mathrm { M } )$ ,and GPP3 $( 1 \\mathrm { p M } )$ or left untreated (control).The luciferase levels were quantified at $2 4 \\mathrm { \\ h p i }$ .Each point represents the average results from three independent experiments,and error bars represent SEMs ${ \\mathit { \\Phi } } _ { n } = 3$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "InteractionofNK-1.8kwithotherinhibitorsofEV71 proliferation. The interaction ofNK-1.8k and the other inhibitors was studied by use of a previously reported protocol and mathematical model,with some modifications (27,28).Briefly,RD cells were seeded at $3 \\times 1 0 ^ { 4 }$ cells per well in 96-well microtiter plates.After an overnight culture at ${ } ^ { 3 7 ^ { \\circ } \\mathrm { C } , }$ a different final concentration of NK-1.8k (0,0.3125,0.0625,0.125,0.25,and 0.5 $\\mu \\mathrm { M }$ )was added to each row of the 96-well plate.Simultaneously,a different final concentration of NITD008 (0,0.0625,0.125,0.25,0.5,1,2,and 4 ${ \\mu \\mathrm { M } } .$ )was added to each column of the plate.RD cells were infected with the EV71 pseudotype virus after treatment with the two inhibitors and incubated for $2 4 \\mathrm { h }$ .The combination of NK-1.8k and GPP3 was tested by the same method,but with some adjustment.The concentrations ofGPP3 used were 0.0005,0.0019,0.0078,0.0312,0.125,0.5,and $2 \\mu \\mathrm { M }$ .Antiviral activities were determined by measuring the reduction of luciferase activity in the cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Differential surface plots at the $9 5 \\%$ confidence interval(CI） were calculated and generated by using the MacSynergy II program for the drug-drug interaction according to the Bliss independence model (28). The combination's effect was determined by subtracting the experimental values from the theoretical additive values (27,28).In the three-dimensional differential surface plot,the peaks above and belowa theoretical plane for additivity represent synergy and antagonism,respectively (27, 28).The data sets were interpreted as follows: volumes of synergy or antagonism with values of $\\mathrm { \\cdot } { } _ { < 2 5 \\mathrm { m M } ^ { 2 } \\mathrm { \\% } }$ are insignificant,those with values of 25 to $5 0 \\ \\mathrm { m M } ^ { 2 } \\%$ are minor but significant, those with values of 5O to 100 $\\mathrm { m M } ^ { 2 } \\%$ are moderate and probably important in vivo,and those with values of $> 1 0 0 \\mathrm { m M } ^ { 2 } \\%$ are strong and likely to be important in vivo. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Protein production.Measurement of the production of EV71 WT, N69S mutant,and C147S mutant $3 C ^ { \\mathrm { p r o } }$ was based on a previously reported protocol (29-32). Briefly,the genomic region that codes for EV71 3C was amplified and cloned into the pET-28a vector (GE Healthcare) using the NdeI and NotI restriction sites.The recombinant plasmids were transformed into Escherichia coli strain BL21(DE3).Kanamycin-resistant colonies were grown in Luria-Bertani medium at $3 7 ^ { \\circ } \\mathrm { C }$ until the $\\mathrm { \\Gamma _ { O D } } _ { 6 0 0 }$ reached 0.8.Isopropyl- $\\cdot \\beta$ -D-1-thiogalactopyranoside was added to a final concentration of $0 . 5 \\mathrm { m M }$ ,and the cultures were grown for an additional $2 0 \\mathrm { ~ h ~ }$ at $1 8 ^ { \\circ } \\mathrm { C }$ . Cells were harvested by centrifugation,resuspended,and homogenized in lysis buffercontaining $5 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { ( p H 7 . 0 ) }$ and200 mM NaCl,using a low-temperature ultra-high-pressure cell disrupter (JNBIO,Guangzhou, China).The lysate was centrifuged at $2 0 { , } 0 0 0 \\times g$ for $3 0 ~ \\mathrm { m i n }$ to remove the cell debris.The supernatant was loaded onto an Ni-nitrilotriacetic acid affnity chromatography column (Qiagen).After washing with $5 0 ~ \\mathrm { m M }$ Tris-HCl $\\mathrm { ( p H ~ 7 . 0 ) }$ ), $2 0 0 ~ \\mathrm { m M }$ NaCl,and $5 0 ~ \\mathrm { m M }$ imidazole, the $3 C ^ { \\mathrm { p r o } }$ protein was washed with $5 0 \\mathrm { m M }$ Tris-HCl $\\left( \\mathrm { p H 7 . 0 } \\right)$ ， $2 0 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l } ,$ and $5 0 0 ~ \\mathrm { m M }$ imidazole.The sample was further purified usinga HiTrap Scolumn(GEHealthcare) witha linear gradient of from 0 mM to $5 0 0 ~ \\mathrm { { m M } ~ N a C l }$ with $5 0 ~ \\mathrm { m M }$ Tris-HCl $\\left( \\mathrm { p H } 7 . 0 \\right)$ and $2 \\mathrm { m M }$ dithiothreitol (DTT).The target proteins were concentrated to $1 2 ~ \\mathrm { m g / m l }$ ina buffer with $2 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { ( p H 7 . 0 ) }$ ）， $5 0 0 \\mathrm { m M N a C l }$ ,and $2 \\mathrm { m M }$ DTT for storage. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In vitro protease activity assay. In the in vitro cleavage assay,the peptide was attached to a fluorescence-quenching pair of peptides,and the fluorogenic peptide NMA-IEALFQGPPK(DNP)FR (where NMA is $N$ -methylanthranyl and DNP is dinitrophenol) was used as the substrate for the enzyme assay (33).The assays were performed with $1 0 0 \\mathrm { - } \\mu \\mathrm { l }$ samples containing $0 . 5 ~ \\mu \\mathrm { M }$ EV71 WT protease or the N69S or Cl47S mutant protease and $2 0 \\mu \\mathrm { M }$ substrate in $5 0 \\mathrm { m M }$ Tris, $\\mathrm { p H } 7 . 0$ ,buffer.The enzymes were preincubated at $3 0 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { m i n }$ prior to the addition of the substrate.The reaction mixture was then incubated for $^ { 2 \\mathrm { ~ h ~ } }$ at $3 0 ^ { \\circ } \\mathrm { C }$ .The reactionwas terminatedby theadditionof acetonitrile at $1 0 \\mathrm { - m i n }$ intervals.The intensity of the OD forNMA and DNP was read at an excitation wavelength $( \\lambda _ { \\mathrm { e x } } )$ of $3 4 0 \\mathrm { n m }$ and an emission wavelength $( \\lambda _ { \\mathrm { { e m } } } )$ of $4 4 0 \\mathrm { n m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f230162e6a19d70197cce26937e5ca61014bed8dfdbc16437d6c3f37bcd675f.jpg",
+        "img_caption": [
+            "FG3Qua EV7straiese EV incubated with $\\mathrm { N K } { - } 1 . 8 \\mathrm { k }$ at the indicated concentrations for $2 4 \\mathrm { h }$ .Cellviability was measured usinga WST-1-based assay.Each point represents the average results from three independent experiments,and error bars represent SEMs $( n = 3$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NK-1.8kis an inhibitorof EV71 infection. Our aim in this work was to find an inhibitor that can inhibit the correct function of viral $3 C ^ { \\mathrm { { p r o } } }$ during the replication of EV71.A quick phenotype screening was performed using a total of 87 protease inhibitor derivatives that were initially assayed for their antiviral activity against EV71 by using RD cells infected with EV71 strain SKEV006 that expressed GFP upon infection (34).Most of the tested compounds exhibited no obvious anti-EV71 effectat a concentration of $2 0 \\mu \\mathrm { M }$ ,and GFP expression remained obvious in infected RD cells.In contrast, treatment with a peptidyl aldehyde,NK-1.8k $N$ -[(S)-3-(4-fluorophenyl)-1-oxo-1-{(S)-1-oxo-3-[(S)-2- oxopiperidin-3-yllpropan-2-ylamino}propan-2-yl]-5-methyl isoxazole-3-carboxamide} (Fig.1A),achieved apparent reductions in the level of expression of the reporter GFP at a concentration of $0 . 0 9 ~ \\mu \\mathrm { M }$ (Fig.1B).NK-1.8k was further shown to cause concentration-dependent protection against EV71 infection by measurement of the level ofGFP expression (Fig. 1B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NK-1.8k is a novel peptidomimetic compound which has structural characteristics that distinguish it from rupintrivir(21) (Fig.1A). NK-1.8k features a six-member-ring lactam coupled with an aldehyde functional group,while rupintrivir has a fivemember-ring lactam coupled with an $\\mathbf { \\alpha } _ { \\alpha , \\beta }$ -unsaturated ester. Moreover,rupintrivir is considered a tripeptidic analogue, whereas NK- $\\cdot 1 . 8 \\mathrm { k }$ is similar to a dipeptide.These features indicate that NK-1.8k has better drug-like properties with a lower molecular weight and fewer hydrogen bond donors and acceptors than rupintrivir (35). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thus further studied the anti-EV71 activity of NK-1.8k by infectingRD cells with EV71 strain SK-EV006.The infected cells were treated with various concentrations ofNK-1.8k for $2 4 \\mathrm { h } ,$ and the remaining levels of EV71 RNA in the cells were determined by qRT-PCR.The results revealed that NK-1.8k showed a concentration-dependent reduction of EV71 RNA in infected cells with an $\\mathrm { E C } _ { 5 0 }$ of $3 4 . 5 ~ \\mathrm { n M }$ (Fig.1C).Moreover,it was observed that the expression of the VPl protein of EV71 (the major component of the viral capsid) but not that ofhost GADPH,a host housekeeping gene,in the infected cells was also decreased by treatment with NK-1.8k (Fig.1D).All these results support the possibility that NK-1.8k has an inhibitory effect on EV71 proliferation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a6f2bbca8e90a2b1125e38106d0b206b48cf83f32003b9abf716677f0e07a80.jpg",
+        "img_caption": [
+            "FIG4Quantifca-ssllri-i(genotype（)viralRilerepresent SEMs ${ \\mathit { \\Phi } } _ { n } = 3$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NK-1.8k impacts EV71 genome replication. Because NK-1.8k is potentiallya protease inhibitor,we first analyzed whether NK$1 . 8 \\mathrm { k }$ affects viral replication but not the entry process.A previously reported pseudotype EV71 system wasused to exclude the possibility of an impact of virus reinfection (36). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We infected RD cells with EV71(FY)-Luc pseudotype virus and then treated the cells with NK-1.8k at a concentration of $0 . 2 \\mu \\mathrm { M }$ 0 NITDoo8 (a reported polymerase inhibitor)(18,19) at a concentration of $\\mathrm { i } \\mathrm { m M }$ ,and GPP3(23)ata concentration of $1 \\mathrm { p M }$ at $^ { - 6 }$ $- 4 , - 2 , 2 , 4 , 6 , 8 .$ and $1 0 \\mathrm { { h p i } }$ ,in which O hpi indicates the time that the inhibitors were supplied immediately after virus infection.The resultsshowed thatthe inhibitionofEV71byNK-1.8k had no dependence on treatment time before $1 0 \\mathrm { { h p i } }$ (Fig. 2A). The treatments with NK-1.8k at $^ { - 6 }$ to 8 hpi displayed the strongest antiviral effect,which is similar to the findings reported for the viral replication inhibitor NITDoo8 (Fig.2B).In sharp contrast,the antiviral effect of GPP3 showed a dramatic decrease from 2 hpi (Fig. 2C). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We next directly transfected EV71 subgenomic replicon RNA lacking theP1 region into RD cells treated with NK- $1 . 8 \\mathrm { k }$ （20 $( 0 . 2 \\mu \\mathrm { M } )$ NITD008 $( 2 \\ \\mu \\mathrm { M } )$ ,and GPP3 $( 1 \\ \\mathrm { p M } )$ . The results showed that NK-1.8k caused the inhibition of EV71 replication to a level similar to the level of inhibition caused by NITDoo8 but distinctly different from that caused by GPP3 (Fig.2D). Because this transfection excluded the region of the genome responsible for the entry step of viral infection,all of these results support the suggestion thatNK-1.8k inhibits EV71 proliferation byaffecting the viral replication stage. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Quantification of the anti-EV71 effect ofNK-1.8k in different cell lines.To assess possible cell type-and species-dependent differences in the anti-EV71 activityofNK-1.8k,itsantiviral effects in RD,293T,and Vero cells were examined (Fig. 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results revealed that NK-1.8k suppresses the viral RNA yield of EV71-infected RD, $2 9 3 \\mathrm { T }$ ,and Vero cells in a dose-dependent fashion.The $\\mathrm { E C } _ { 5 0 } s$ of $\\mathrm { N K - 1 } . 8 \\mathrm { k }$ against EV71 SK-EV006 infection in RD, $2 9 3 \\mathrm { T }$ ,andVero cellswere determined to be 0.108, 0.108 and $2 . 4 1 ~ \\mu \\mathrm { M }$ ,respectively (Fig. 3A,D,and G). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We also measured the reduction of virus titers after treatment with NK-1.8k in EV71-infected RD cells.Consistently, the results indicated that the virus titers in the supernatants were also significantly attenuated by treatment with NK-1.8k (Fig.3B,E,and H). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cytotoxicity of NK-1.8k for RD, $2 9 3 \\mathrm { T }$ ,and Vero cells was also tested.The results revealed that NK-1.8k ata high concentration of $2 0 0 ~ \\mu \\mathrm { M }$ has no obvious toxicity for any of the three cell lines (Fig.3C,F,and I).Taken together, these results indicate that $\\mathrm { N K - 1 } . 8 \\mathrm { k }$ inhibited EV71 with a high potency and the anti-EV71 activity ofNK-1.8k hasa high to satisfactory selectivity index (SI; where SI is equal to $\\mathrm { C C _ { 5 0 } / E C _ { 5 0 } }$ where $\\mathrm { C C } _ { 5 0 }$ is the $5 0 \\%$ cytotoxic concentration) of up to 1,0oo in RD cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NK-1.8k has a broad antiviral effect against multiple EV71 strains and EV68.EV71 is generally characterized as three geno types,i.e., genotypesA,B,and C.Wehypothesized thatNK-1.8k ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e17687011eb23561b3a6a18d5b3b8f58a2517a1fada8225ad55ed1c00131cf8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>location</td><td>3C</td></tr><tr><td rowspan=\"2\">SelA</td><td>Nucleotide</td><td>AAC/AGC</td></tr><tr><td>Amino acid</td><td>N69S</td></tr><tr><td rowspan=\"2\">SelB</td><td>Nucleotide</td><td>AAC/AGC</td></tr><tr><td>Amino acid</td><td>N69S</td></tr><tr><td rowspan=\"2\">SelC</td><td>Nucleotide</td><td>AAC/AGC</td></tr><tr><td>Amino acid</td><td>N69S</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ea9f899aecbcf183227ef439ac4ba8c053030a6fe70f419ff78e8c85dc5b593.jpg",
+        "img_caption": [
+            "FIG 5 Mutation identified in NK-1.8k-resistant EV71.(A) Mutations recovered from resistant viruses were tabulated according to the amino acid positions and the corresponding protein. Sequencing of the complete genomes of 24 viruses from SelA,SelB,and SelC was performed.(B) Sequence chromatograms of the mutations found in resistant viruses.Representative sequencing chromatograms are presented for SelA,SelB,and SelC. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "may have a broad antiviral effect against viruses of all three genotypes.Therefore,we infected RD cells with three different virus strains,including BrCr (genotype A),SK-EVo06 (genotype B), and Fuyang (genotype C),treated them with $\\mathrm { N K } { - } 1 . 8 \\mathrm { k } .$ ,and measured the remaining levels of EV71 RNA inside host cells through a qRT-PCR method.The results showed thatNITDoo8 inhibited the viruses of strains BrCr,SK-EVoo6,and Fuyang with $\\mathrm { E C } _ { 5 0 } s$ of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.105,0.093,and $0 . 1 0 2 \\mu \\mathrm { M }$ ,respectively(Fig. 4A to C).Moreover, we also tested the antiviral effectofNK-1.8k onEV68 strain Fermon CA62-1 and found an $\\mathrm { E C } _ { 5 0 }$ of $0 . 1 5 1 \\mu \\mathrm { M }$ against EV68 infection.All these results suggest that NK-1.8k has a broad range of inhibition and can inhibit different enteroviruses. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Selection and identification of resistant viruses.The NK1.8k-resistant viruses were selected by continuously culturing EV71 for eight rounds in the presence of gradually increasing concentration of NK-1.8k: $0 . 2 ~ \\mu \\mathrm { M }$ (three rounds), $0 . 4 ~ \\mu \\mathrm { M }$ (three rounds),and $0 . 8 \\mu \\mathrm { M }$ (two rounds).Three independent selections (SelA, SelB,and SelC) were performed to test the reproducibility of the resistance results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sequence analyses of the entire genomes of multiple resistant viruses identified a single A-to-G mutationat nucleotide position 5592 of the whole EV71 genome.This mutation translated into a single amino acid replacement of an asparagine residue by a serine residue at position 69 within the $3 C ^ { \\mathrm { { p r o } } }$ polypeptide (Fig. 5A and B).Because $\\mathrm { N K - 1 . 8 k }$ was screened out of the library of compounds targeting the viral protease,this drug resistance is reasonable. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SensitivityofWTEV71and EV71 with the N69S mutation to NK-1.8k.We further examined the fitness and drug resistance of the N69S mutant virus.We first examined the effect of this mutation on viral replication in the absence of the compound.RD cells were transfected with equal amounts ofWTEV71 orEV71 mutant N69S RNA and assayed for virus titers after transfection.The results revealed that the titer of the N69S mutant virus had an apparent decrease in comparison to that of the WT virus,suggesting that the fitness of the N69S mutant virus is inferior to that of the WT virus (Fig. 6A). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next examined the sensitivity of mutant viruses to NK-1.8k inhibition using a qRT-PCR assay. The results showed that the N69S mutation conferred complete resistance to NK- $1 . 8 \\mathrm { k }$ ,butthe WT virus did not show any resistance (Fig. 6B). Collectively,all these results demonstrate that the N69S mutation attenuates the fitness of virus growth but helps the virus to escape inhibition by $\\mathrm { N K - 1 } . 8 \\mathrm { k }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b46b6f3b4abb6b68afa28a577ba49921b7269b678c9a4a7beab3992c7a5f447e.jpg",
+        "img_caption": [
+            "FIG6SesiviVaduantiutK-8k.()esndutaviuss.(B)leead-k at concentrations ranging from 2 to $0 . 0 0 3 9 \\mu \\mathrm { M }$ and infected with the EV71WTor N69S mutant at an MOIof1.The inhibitory activities were determined by qRT-PCR.(C)oteasectiiotutatdutattesisutada proteases were read at a $\\lambda _ { \\mathrm { e x } }$ of $3 4 0 \\mathrm { n m }$ and a $\\lambda _ { \\mathrm { e m } }$ of $4 4 0 \\mathrm { n m }$ every $1 0 \\mathrm { m i n }$ for $1 2 0 \\mathrm { m i n }$ .AU,absorbance units. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/278a0bc5c452fa93af955c1f5a31abc9f8172ef88f5017a97cebb6c19c8ebd0f.jpg",
+        "img_caption": [
+            "FIG7Interact-iofad)thobas-- plus GPP3.(C and D) Differential surface plots at the $9 5 \\%$ confidence interval (CI) were calculated and generated by using the MacSynergy II program for the interactionsoftecombatioNK-1.8kplus8()andNK-1.8kplusP(D).eyxessotevolumsofsyergorantagosin $\\mathrm { m M } ^ { 2 } \\%$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Protease activities of WT and N69S mutant $3 { \\bf C } ^ { \\bf p r o }$ . In order to verify the influence of the EV71N69S amino acid substitution onenzyme activity,the peptide NMA-IEALFQGPPK(DNP)FR was used as the substrate for the protease assay.The OD intensity was read at an $\\lambda _ { \\mathrm { e x } }$ of $3 4 0 \\mathrm { n m }$ and an $\\lambda _ { \\mathrm { e m } }$ of $4 4 0 \\mathrm { n m }$ every $1 0 \\mathrm { m i n }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results determined from the change in the intensity of the OD within $1 2 0 \\mathrm { m i n }$ of exposure demonstrated that the $3 C ^ { \\mathrm { p r o } }$ protease with the N69S mutation retained a low level of protease activity compared to that of the catalyticallydefective mutant with the C147S mutation but that its protease activity was much lower than that of WT $3 C ^ { \\mathrm { p r o } }$ (Fig. 6C). This is consistent with the lower fitness of the virus with the N69S mutation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effects of the combination of NK-1.8k and polymerase and entry inhibitors against EV71 infection.The use of therapies with combinations of drugs with different mechanisms of action has been proven to be an effective approach to the treatment of viral infections,including HIV and hepatitis C virus infections. We reasoned that the use of a combination of entry and polymerase inhibitors of EV71 with NK-1.8k might offer benefits over the use of each single monotherapy.To test this hypothesis,we measured the inhibition of EV71 propagation by NITDo08 and GPP3 in combination with NK-1.8k. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The combinations of NK-1.8k with NITDo08 and with GPP3 were evaluated with the single-round pseudotype EV71 reporter system.The results revealed a concentration-dependent inhibition of EV71 replicationby NK $\\cdot 1 . 8 \\mathrm { k } ,$ NITD008,or GPP3 alone or with any two of these drugs in combination.The combinations of NK-1.8k plus NITD008 (Fig. 7A) and NK-1.8k plus GPP3 (Fig. 7B) at various concentrations resulted in inhibition greater than that achieved with either compound in the combination alone. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The data were further analyzed using a mathematical model, MacSynergy II,to determine whether the effect of the combinations was synergistic,additive,or antagonistic.The results revealed thatthe combinationofNK-1.8kandNITDoo8had antiviral effects that were significantly more potent than the theoretical additive effects above concentrations of $0 . 2 5 ~ \\mu \\mathrm { M }$ for NITD008 and $1 . 9 \\mathrm { p M }$ for GPP3.This finding supports the suggestion that this combination is indeed synergistic (Fig. 7C and D). Because the effects of NK- $\\cdot 1 . 8 \\mathrm { k } ,$ NITD008,and GPP3 on cell viability were previously evaluated to ensure that the inhibition of EV71 was not due to cytotoxicity,it is not surprising that no significant cytotoxicity was observed with the combination of NK$1 . 8 \\mathrm { k }$ and either of the other two compounds (data not shown). Therefore,the observed synergy is indeed specific and does not reflect synergistic toxicity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All picornaviruses,such as EV7l，polioviruses,rhinoviruses (RVs),CVs,and hepatitis A virus,encode a cysteine protease (named $3 C ^ { \\mathrm { p r o } }$ ） that proteolytically processes the polyprotein into functional viral proteins (37).Because the viral protease has strict substrate specificity and lacks homologues in mammalian cells,it is recognized to be the most essential target, together with viral polymerase,for antiviral discovery(38).Therefore,we systematicallyanalyzed the substrate specificity of virus-encoded cysteine proteases and generated a chemical compound library targeting viral cysteine protease activity through a combinational chemistry method. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf42d4ec4f1e3dbab3f4eed07cb1e7fb0262239efd7c5c1802704dab8013a5c.jpg",
+        "img_caption": [
+            "FIG8 N69S may alter the conformation of the active site of EV71 $3 C ^ { \\mathrm { p r o } }$ .The structures of WT EV71 $3 C ^ { \\mathrm { p r o } }$ (PDB accession number 3OSY) (A), the catalytically defective C147A mutant of CVA16 $3 C ^ { \\mathrm { p r o } }$ in complex with a substrate peptide (PDB accession number 3SJ9)(B),EV71 $3 C ^ { \\mathrm { p r o } }$ in complex with rupintrivir (AG7088; PDB accession number 3SJO) (C),and a modeled structure of EV71 $3 C ^ { \\mathrm { p r o } }$ with the N69S mutant (D) were aligned and are presented in the same orientatiooted models.Keyesus9)7delpresetedsolodicsgsetds E71T132reeod aswhitetextwitdackgodereasthoseedsidusespladsdtetititeckgoudTebufretsdg resistance-conferring residue N69. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study,by screening the compounds in our proteasetargeted library,we verified that a peptidyl aldehyde,NK-1.8k, targets the EV7l protease to inhibit the replication of various virus strains.NK-1.8k has no obvious cytotoxicity,even at a high concentration of $2 0 0 \\mu \\mathrm { M }$ ,fordifferent cell lines.Through the screening of drug-resistant viruses,we identified the amino acid substitution N69S on the EV71 protease to be the substitution that confers resistance.Although this substitution attenuated the protease activity of $3 C ^ { \\mathrm { p r o } }$ and the fitness of EV71,it helped the virus to completely escape from NK-1.8k treatment, supporting the suggestion thatNK-1.8k directly inhibits the activity of viral protease itself. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A previous studyidentified several mutations in human rhinoviruses (HRVs) that confer resistance to treatment with rupintrivir, including the T129/130,T131,T143,N165,N130,and L136 mutations (39).By checking the crystal structure of EV71 $3 C ^ { \\mathrm { p r o } }$ (40),the N69S substitution unexpectedly appears to be close to but outside the active site of EV71 $3 C ^ { \\mathrm { p r o } }$ (Fig. 8),which differs from the sites of the rupintrivir resistance-conferring mutations in HRV.The side chain of the N69 residue contacts with nearby residues E71 and T132 via hydrogen bonds and stabilizes the conformation of the active site of EV71 $3 C ^ { \\mathrm { p r o } }$ when the substrate peptide or AG7088 inhibitor binds to $3 C ^ { \\mathrm { p r o } }$ (Fig. 8B and C). The replacement of the residue at this position by a serine residue shortens the side chain and would abolish these contacts (Fig.8D). Interestingly,previous crystallographic work has found that the side chain ofN69 forms an essential hydrogen bond with catalytic residue E71 to stabilize the catalytic triad,and biochemical analysis demonstrated that the interruption of this hydrogen bond by an N-to-S replacement significantly reduces the $K _ { m } / k _ { \\mathrm { c a t } }$ values of EV71 $3 C ^ { \\mathrm { { p r o } } }$ (40). We therefore propose that this amino acid substitution accommodates the higher structural flexibility of the active site of $3 C ^ { \\mathrm { p r o } }$ and allows polypeptide binding in the $3 C ^ { \\mathrm { p r o } }$ active site in the presence of the inhibitor NK-1.8k.Since the residues constituting the active site of $3 C ^ { \\mathrm { p r o } }$ and the N69 residue are strictly conserved between EV71 and EV68 strains (Fig.8E),it is conceivablethat NK-1.8k has a consistent mechanism of inhibition of these two viruses.Determination of the complex crystal structures ofNK- $\\cdot 1 . 8 \\mathrm { k }$ and WT $3 C ^ { \\mathrm { p r o } }$ and of the natural substrate and N69S $3 C ^ { \\mathrm { p r o } }$ is warranted to dissect the precise role of N69 in the function of 3Cpro. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Major Project (973 Program) (grant no.2014CB542800 and 2013CB911100),the National Natural Science Foundation of China(grant no.81330036,81322023,31370733,and 31170678),and the Tsinghua University Initiative Scientific Research Program (grant no.20141080146 and 20131089228). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.Wang Y,QingJ,Sun Y,Rao Z.2014. Suramin inhibits EV71 infection. Antiviral Res 103:1-6.http://dx.doi.org/10.1016/j.antiviral.2013.12.008.   \n2. Chen CY,Chang YC,Huang CC,Lui CC,Lee KW,Huang SC.2001. Acute flaccid paralysis in infants and young children with enterovirus 71 infection: MR imaging findings and clinical correlates.Am JNeuroradiol 22:200-205.   \n3.WangY,Feng Z,YangY,Self S,Gao Y,Longini IM,WakefieldJ,Zhang J,WangL,Chen X,Yao L,Stanaway JD,Wang Z,YangW.2011.Hand, foot,and mouth disease in China: patterns of spread and transmissibility. Epidemiology22:781-792.http://dx.doi.org/10.1097/EDE.0b013e318231d67a.   \n4.Stewart CL,Chu EY,Introcaso CE,Schaffer A,James WD.2013. Coxsackievirus A6-induced hand-foot-mouth disease.JAMA Dermatol 149:1419-1421. http://dx.doi.org/10.1001/jamadermatol.2013.6777.   \n5. Yang Y,Wang H,Gong E,Du J,Zhao X, McNutt MA,Wang S, Zhong Y,Gao Z, ZhengJ.20o9.Neuropathology in 2 cases of fatal enterovirus type 71 infection froma recent epidemic in the People's Republic of China:a histopathologic,immunohistochemical,and reverse transcription polymerase chain reaction study.Hum Pathol 40:1288-1295.http://dx .doi.org/10.1016/j.humpath.2009.01.015.   \n6.ZhangY,Zhu Z,YangW,Ren J,Tan X,WangY,Mao N,Xu S,Zhu S,Cui A, Zhang Y,Yan D,LiQ,Dong X, Zhang J, Zhao Y,Wan J,Feng Z, Sun J,Wang S,Li D,Xu W.20lo.An emerging recombinant human enterovirus 7l responsible for the 2oo8 outbreak of hand foot and mouth disease in Fuyang City of China. Virol J7:94.http://dx.doi.org/10.1186 /1743-422X-7-94.   \n7.Kreuter JD,Barnes A,McCarthy JE,Schwartzman JD,Oberste MS, Rhodes CH,Modlin JF,WrightPF.2011.A fatal central nervous system enterovirus 68 infection.ArchPatholLab Med135:793-796.http://dx.doi .0rg/10.1043/2010-0174-CR.1.   \n8.TokarzR,Firth C,Madhi SA,Howie SR,Wu W,Sall AA,Haq S,Briese T,Lipkin WI.20l2.Worldwide emergence of multiple clades of enterovirus 68.JGen Virol 93:1952-1958.http://dx.doi.org/10.1099/vir.0 .043935-0.   \n9.Sun Y,WangY,Shan C,Chen C,Xu P,Song M, Zhou H,Yang C,Xu W, Shi PY,Zhang B,Lou Z.2012.Enterovirus 71 VPg uridylation uses a two-molecular mechanism of 3D polymerase.JVirol 86:13662-13671. http://dx.doi.org/10.1128/JV1.01712-12. clinical and public health significance.FEMS Microbiol Rev 26:91-107. http://dx.doi.org/10.1111/j.1574-6976.2002.tb00601.x.   \n11. Gamarnik AV, Andino R.1998.Switch from translation to RNA rplication in a positive-stranded RNA virus. Genes Dev12:2293-2304.http://dx .doi.org/10.1101/gad.12.15.2293.   \n12.Hillman BI, Foglia R, Yuan W.20oo. Satelite and defective RNAs of Cryphonectria hypovirus 3-Grand Haven 2,a virus species in the family Hypoviridae with a single open reading frame.Virology 276:181-189. http://dx.doi.org/10.1006/viro.2000.0548.   \n13.Pelletier J,Sonenberg N.1988.Internal initiation of translation of eukaryotic mRNA directed by a sequence derived from poliovirus RNA. Nature 334:320-325.htp://dx.doi.0rg/10.1038/334320a0.   \n14. Chen C,Wang Y,Shan C, Sun Y, Xu P, Zhou H, Yang C,Shi PY, Rao Z,Zhang B,Lou Z. 2013. Crystal structure of enterovirus 71 RNAdependent RNA polymerase complexed with its protein primer VPg: implication for a trans mechanism of $\\mathrm { \\Delta V P g }$ uridylylation.J Virol 87:5755- 5768. http://dx.doi.0rg/10.1128/JV1.02733-12.   \n15.Sun Y,Guo Y,Lou Z.2014. Formation and working mechanism of the picornavirus $\\mathrm { V P g }$ uridylylation complex. Curr Opin Virol 9:24-30. http: //dx.doi.org/10.1016/j.coviro.2014.09.003.   \n16. Zhu FC,Liang ZL,Li XL,Ge HM, Meng FY, Mao QY, Zhang YT,Hu YM, Zhang ZY,Li JX,Gao F,Chen QH,Zhu QY, Chu K,Wu X,Ya X,Guo HJ,Chen XQ,Liu P,Dong YY,LiFX,Shen XL,Wang JZ.2013. Immunogenicity and safety of an enterovirus 71 vaccine in healthy Chinese children and infants:a randomised,double-blind,placebocontrolled phase 2 clinical trial. Lancet 381:1037-1045. http://dx.doi.org /10.1016/S0140-6736(12)61764-4.   \n17.Shang L,Xu M,Yin Z.2013.Antiviral drug discovery for the treatment of enterovirus 71 infections.Antiviral Res 97:183-194. http://dx.doi.org/10 .1016/j.antiviral.2012.12.005.   \n18.Deng CL, Yeo H, Ye HQ,Liu SQ, Shang BD,Gong P,Alonso S, Shi PY, Zhang B. 2014. Inhibition of enterovirus 71 byadenosine analog NITD008.J Virol 88:11915-11923.http://dx.doi.org/10.1128/JVI .01207-14.   \n19. Shang L, Wang Y, Qing J,Shu B,Cao L,Lou Z, Gong P,Sun Y, Yin Z. 2014.An adenosine nucleoside analogue NITDoo8 inhibits EV71 proliferation. Antiviral Res 112:47-58. http://dx.doi.org/10.1016/j.antiviral .2014.10.009.   \n20．Dragovich PS,Prins TJ, Zhou R,Johnson TO,Brown EL,Maldonado FC,Fuhrman SA, Zalman LS,Patick AK,MatthewsDA,Hou X, Meador JW,Ferre RA,Worland ST.2002.Structure-based design, synthesis,and biological evaluation of irreversible human rhinovirus 3C protease inhibitors. Part7.Structure-activity studies of bicyclic 2-pyridonecontaining peptidomimetics. Bioorg Med Chem Lett 12:733-738. http: //dx.doi.0rg/10.1016/S0960-894X(02)00008-2.   \n21.Matthews DA,Dragovich PS,Webber SE,Fuhrman SA,Patick AK, Zalman LS,Hendrickson TF,Love RA,Prins TJ,Marakovits JT,Zhou R,Tikhe J,Ford CE,Meador JW,Ferre RA,Brown EL,Binford SL, Brothers MA,DeLisleDM,WorlandST.999.tructure-assisteddsig of mechanism-based irreversible inhibitors of human rhinovirus 3C protease with potent antiviral activity against multiple rhinovirus serotypes. Proc Natl Acad Sci US A96:11000-11007. htp://dx.doi.org/10.1073/pnas .96.20.11000.   \n22. Tijsma A,Franco D, Tucker S,Hilgenfeld R,Froeyen M, Leyssen P, Neyts J.20l4. The capsid binder vapendavir and the novel protease inhibitor SG85 inhibit enterovirus 71 replication.Antimicrob Agents Chemother 58:6990-6992. http://dx.doi.0rg/10.1128/AAC.03328-14.   \n23.De Colibus L,Wang X,Spyrou JA,KellyJ,Ren J,Grimes J,Puerstinger G, Stonehouse NWalter,HuZ,WangJ,LiX,PengWRol DJ,Fry EE,Rao Z,Stuart DI.20l4.More-powerful virus inhibitors from structure-based analysis of HEV71 capsid-binding molecules.Nat Struct Mol Biol 21:282-288.http://dx.doi.org/10.1038/nsmb.2769.   \n24.Qing J, WangY,SunY,HuangJ,Yan W,Wang J, SuD, NiC,LiJ,Rao Z,Liu L,Lou Z.20l4.Cyclophilin Aassociates with enterovirus-71 virus capsid and plays an essential role in viral infection as an uncoating regulator. PLoS Pathog 10:e1004422. htp://dx.doi.org/10.1371/journal.ppat .1004422.   \n25.Yin Z,Chen YL, Schul W,Wang QY,Gu F,Duraiswamy J, Kondreddi RR,Niyomrattanakit P,Lakshminarayana SB, Goh A, Xu HY, Liu W, Liu B,Lim JY,Ng CY,Qing M, Lim CC,Yip A,Wang G,Chan WL, Tan HP,Lin K, Zhang B, Zou G,Bernard KA, Garrett C, Beltz K,Dong M, Weaver M,HeH,Pichota A,DartoisV,Keller TH,Shi PY.2009.An adenosine nucleoside inhibitor of dengue virus.Proc Natl Acad Sci U S A 106:20435-20439.http://dx.doi.0rg/10.1073/pnas.0907010106.   \n26.Arita M,Wakita T,Shimizu H.2oo8.Characterization of pharmacologically active compounds that inhibit poliovirus and enterovirus 7l infectivity.J Gen Virol 89:2518-2530. http://dx.doi.org/10.1099/vir.0.2008 /002915-0.   \n27.Prichard MN,Shipman C,Jr.1996.Analysis of combinations of antiviral drugs and design of effective multidrug therapies.Antivir Ther1:9-20.   \n28.Prichard MN,Shipman C,Jr.199o.A three-dimensional model to analyze drug-drug interactions. Antiviral Res 14:181-205. http://dx.doi.org /10.1016/0166-3542(90)90001-N.   \n29.Cui S,Wang J,Fan T,Qin B,Guo L,Lei X,WangJ,Wang M, Jin Q. 2011.Crystal structure of human enterovirus 71 3C protease.JMol Biol 408:449-461.http://dx.doi.org/10.1016/j.jmb.2011.03.007.   \n30.Guo Y,WangW,JiW,Deng M,Sun Y,Zhou H,Yang C,Deng F, Wang H,Hu Z,Lou Z,Rao Z.2012. Crimean-Congo hemorrhagic fever virus nucleoprotein reveals endonuclease activity in bunyaviruses.Proc Natl Acad SciU S A 109:5046-5051.http://dx.doi.org/10 .1073/pnas.1200808109.   \n31.LiB,WangQ,Pan X,Fernandez de Castro I,Sun Y,Guo Y,Tao X, Risco C,Sui SF,Lou Z.2O13.Bunyamwera virus possessesa distinct nucleocapsid protein to facilitate genome encapsidation.Proc Natl Acad Sci U S A110:9048-9053.http://dx.doi.0rg/10.1073/pnas.1222552110.   \n32.Zhou H,Sun Y,Guo Y,Lou Z.2Ol3. Structural perspective on the formation of ribonucleoprotein complex in negative-sense singlestranded RNA viruses. Trends Microbiol 21:475-484. http://dx.doi.org /10.1016/j.tim.2013.07.006.   \n33.ShangL,Zhang S,Yang X,Sun J,LiL,Cui Z,He Q,Guo Y,Sun Y,Yin Z.24 November 20l4.Biochemical characterization of recombinant enterovirus 71 3C protease with fluorogenic model peptide substrates and development of a biochemical assay.Antimicrob Agents Chemother http: //dx.doi.0rg/10.1128/AAC.04698-14.   \n34.Yamayoshi S,YamashitaY,LiJ,HanagataN,Minowa T,Takemura T, Koike S.2oo9.Scavenger receptor B2 is a cellular receptor for enterovirus 71. Nat Med 15:798-801. http://dx.doi.org/10.1038/nm.1992.   \n35.Lipinski CA,Lombardo F,Dominy BW,Feeney PJ.20o1.Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings.Adv Drug Deliv Rev 46:3-26. http://dx.doi.0rg/10.1016/S0169-409X(00)00129-0.   \n36.ChenP,Song Z,QiY,FengX,Xu N,SunY,Wu X,Yao X,Mao Q,Li X,DongW,WanX,HuangN,Shen X,Liang Z,LiW.2012.Molecular determinants of enterovirus 71 viral entry:cleft around GLN-172 on VP1 protein interacts with variable region on scavenge receptor B 2.JBiol Chem 287:6406-6420.http://dx.doi.0rg/10.1074/jbc.M111.301622.   \n37.Kuo CJ, Shie JJ,Fang JM,Yen GR,Hsu JT,Liu HG,Tseng SN, Chang SC,Lee CY,Shih SR,LiangPH.2oo8.Design,synthesis,and evaluation of 3C protease inhibitors as anti-enterovirus 7l agents.Bioorg Med Chem 16:7388-7398.http://dx.doi.org/10.1016/j.bmc.2008.06.015.   \n38.Lou Z,Sun Y,Rao Z.20l4. Current progress in antiviral strategies. Trends Pharmacol Sci 35:86-102.http://dx.doi.org/10.1016/j.tips.2013 .11.006.   \n39.Binford SL,WeadyPT,Maldonado F,Brothers MA,Matthews DA, Patick AK.2oo7.In vitro resistance study of rupintrivir,a novel inhibitor of human rhinovirus 3C protease.Antimicrob Agents Chemother 51: 4366-4373.http://dx.doi.0rg/10.1128/AAC.00905-07.   \n40.WangJ,Fan T,Yao X,Wu Z,Guo L,LeiX,WangJ,Wang M,JinQ, Cui S.2011.Crystal structures of enterovirus 71 3C protease complexed with rupintrivir reveal the roles of catalytically important residues.J Virol 85:10021-10030.http://dx.doi.0rg/10.1128/JV1.05107-11. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

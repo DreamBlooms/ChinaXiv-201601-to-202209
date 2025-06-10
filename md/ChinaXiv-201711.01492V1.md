@@ -1,0 +1,275 @@
+胰岛素受体-1在尼罗罗非鱼不同组织中的表达及其对注射葡萄糖的响应刘含亮」王纪亭1\*万文菊²\*孙敏敏」孟　晓」徐蒙蒙1（1.山东农业大学动物科技学院，泰安 271000；2.泰山医学院基础医学部，泰安 271000）
+
+4 摘要：本试验旨在研究胰岛素受体-1（IR-1）在尼罗罗非鱼不同组织中的表达及其对注射葡萄糖  
+5 的响应。利用PCR 扩增的方法从尼罗罗非鱼肌肉中克隆 IR-1的cDNA片段，并通过半定量 PCR  
+6 检测，比较IR-1在肌肉、肝脏和心脏中的表达差异。选取体重约为 $1 0 0 ~ \mathrm { g }$ 的尼罗罗非鱼160 尾，  
+7 随机分2组，每组4个重复，每个重复20尾。试验组腹腔注射葡萄糖（每 $1 0 0 ~ \mathrm { g }$ 体重 $3 0 ~ \mathrm { m g }$ ），  
+8 对照组以相同剂量腹腔注射 $0 . 7 \%$ 的无菌生理盐水。在注射前（ $^ { \mathrm { ~ 0 ~ h ~ } }$ ）和注射后的1、3、6和 $1 2 \mathrm { ~ h ~ }$   
+9 分别进行采样测定，测定血浆葡萄糖和胰岛素含量，并通过实时荧光定量PCR 检测 IR-1在肌肉、  
+10 心脏和肝脏中的mRNA相对表达量。结果显示：1）克隆出的IR-1cDNA片段，其GenBank 登陆  
+11 号为JN967750，大小为 $1 9 7 9 \mathrm { b p }$ ，编码548个氨基酸。序列分析发现，尼罗罗非鱼的IR-1与其他  
+12 物种比较具有很高的保守性，并具有丰富的酪氨酸激酶特征性序列。2)IR-1 在尼罗罗非鱼肌肉、  
+13 心脏和肝脏中均有较高的表达量，其中肝脏和肌肉的表达量基本一致，而心脏中的表达量相对较  
+14 低。3)试验组血浆葡萄糖含量在注射葡萄糖1h后达到最高，并显著高于对照组（ $. P { < } 0 . 0 5 \$ ），而后  
+15 开始下降， $3 \mathrm { h }$ 后恢复到正常水平；试验组血浆胰岛素含量在葡萄糖注射 $3 \mathrm { h }$ 后达到最高，并显著  
+16 高于对照组( $( P { < } 0 . 0 5 )$ ），而后开始下降， $1 2 \mathrm { h }$ 后恢复到正常水平。试验组肌肉和肝脏中IR-1mRNA  
+17 的相对表达量在注射葡萄糖后 $6 \mathrm { n }$ 时达到最高，显著高于对照组（ $. P { < } 0 . 0 5 \$ ），在 $^ { 1 2 \mathrm { ~ h ~ } }$ 时恢复到正  
+18 常水平；试验组心脏中IR-1mRNA 的相对表达量在注射葡萄糖后的 $1 2 \mathrm { ~ h ~ }$ 内没有发生显著变化  
+19 （ $. P { > } 0 . 0 5$ ）。结果表明，注射葡萄糖后即刻升高了尼罗罗非鱼的血浆葡萄糖含量，相对于血浆葡  
+20 萄糖含量的升高，血浆胰岛素含量的升高相对延迟，而肌肉和肝脏中 $I R \mathrm { - } 1 \ \mathrm { m R N A }$ 相对表达量的提  
+21 高又延迟于血浆胰岛素含量的升高，从而加重了尼罗罗非鱼对葡萄糖的代谢负担。
+
+关键词：尼罗罗非鱼；葡萄糖；胰岛素；胰岛素受体-1中图分类号：S963 文献标识码：A 文章编号：
+
+24 胰岛素是糖代谢的核心物质，可以严格控制葡萄糖的利用[。起初的研究认为，鱼类对高碳  
+25 水化合物的低效利用是由于血清中低含量的内源性胰岛素所致[2-4]。但随着胰岛素放射免疫测定方  
+26 法的发展，越来越多的试验结果表明鱼类血清中胰岛素含量相似于甚至高于哺乳类动物[5-6]。有研  
+27 究表明，罗非鱼胰岛素 mRNA在胰岛 ${ \mathfrak { \beta } }$ -细胞的基础表达量是哺乳动物相应表达量的3.7倍[7]。胰  
+28 岛素是依靠与细胞表面特定受体接触而发挥作用的，胰岛素与其受体之间形成二硫键，促使胰岛  
+29 素发挥最大效能[8]。对于鸟类和哺乳动物而言，胰岛素受体能够介导胰岛素对脂肪合成和葡萄糖  
+30 摄取的作用9]，于是，人们进行了胰岛素受体数量及受体与胰岛素亲和力的探讨[10]。胰岛素受体  
+31 的研究多集中在哺乳动物，而在鱼类上的相关研究[1l-13]很少。目前已检测到多种鱼类组织中表达  
+32 胰岛素受体，包括肝脏、骨骼肌、心脏和脂肪组织[13-17]。罗非鱼外周组织（如骨骼肌）也拥有功  
+33 能性胰岛素受体[17-18]。但目前有关鱼类胰岛素受体数量的研究表明，鱼类胰岛素受体数量较哺乳  
+34 动物少得多[19]。Ablett 等[20]认为高糖能促进胰岛素受体数量的增多，也就是说饲料糖水平低，被  
+35 激活的胰岛素受体数量就少。胰岛素受体数量不足也可能是鱼类对糖利用能力较低的原因之一。  
+36 Mommsen 等[21]根据前人研究结果进行推断，鱼类对葡萄糖的低耐受性可能是由于鱼体中胰岛素  
+37 与受体的交互作用不同于哺乳动物的互作系统所致。Ablett 等[20]引进了另一种方法研究胰岛素的  
+38 分泌，研究人员测定了标记胰岛素与肝细胞、肌细胞膜上受体的结合，发现虹胰岛素受体数量  
+39 与胰岛素含量之间有一定相关性。研究发现，虹鳟心肌中胰岛素受体数量与激素含量成反比[22],  
+40 而在脂肪组织、骨骼肌和肝脏中的情况正好相反[23-24]。Planas 等[25]认为胰岛素受体数量与激素含  
+41 量之间的关系可能与组织的功能特征有关。本试验选择尼罗罗非鱼(Oreochromis nilotica)作为试验  
+42 对象，测定其在注射葡萄糖后血浆葡萄糖和胰岛素含量的变化，并以胰岛素受体-1（IR-1）作为研  
+43 究对象，探讨IR-1在尼罗罗非鱼不同组织中的表达及其对注射葡萄糖的响应，为罗非鱼葡萄糖代  
+谢机理提供一定的理论依据。
+
+# 1材料与方法
+
+# 1.1 材料与试剂
+
+试验用尼罗罗非鱼购于当地尼罗罗非鱼养殖场，在山东农业大学水产养殖基地暂养2周后，挑选健康、规格整齐、平均体重为 $\mathrm { 1 0 0 ~ g }$ 左右的鱼作为试验用鱼。试验用葡萄糖购于上海索莱宝生物科技有限公司，将葡萄糖溶于无菌蒸馏水中配制成 $3 0 \mathrm { \ m g / m L }$ 的针剂，置于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱保存备用。
+
+# 1.2 试验设计
+
+将160尾尼罗罗非鱼随机分配到8个水族箱(水族箱水容量为 $0 . 4 \mathrm { m } ^ { 3 } \mathrm { \cdot }$ 中，对照组、试验组各设4个重复，每个水族箱为1个重复，每个水族箱投放罗非鱼20尾。试验鱼饲喂常规的尼罗罗非鱼基础饲料，其组成及营养水平见表1。试验开始时先将2组鱼分别禁食 $2 4 \mathrm { h }$ ，用MS-222（每 $\mathrm { ~ 1 ~ m } ^ { 3 }$ 水 $2 0 \mathrm { g }$ ）麻醉鱼体后，试验组依照每 $1 0 0 \ \mathrm { g }$ 体重 $3 0 \mathrm { m g }$ 的剂量腹腔注射葡萄糖[26]，对照组以相同的剂量腹腔注射 $0 . 7 \%$ 的无菌生理盐水。在注射前 $( 0 \mathrm { h } )$ 和注射后的1、3、6和 $1 2 \mathrm { h }$ 分别进行采样。
+
+每个水族箱每次取样4尾，同样用MS-222麻醉鱼体后，尾静脉采血，血样用肝素抗凝，在4℃下 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 制备血浆，将血浆移入冻存管存于液氮中备用。每次采完血的尼罗罗非鱼，取其肝胰脏、心脏和背部肌肉，并冻存于液氮中备用。
+
+表1基础饲料组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) $\%$   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>小麦粉 Wheat hour</td><td>45.76</td></tr><tr><td>鱼粉 Fish meal</td><td>14.00</td></tr><tr><td>豆粕 Soybean meaI</td><td>18.00</td></tr><tr><td>菜籽粕 Canola meal</td><td>18.00</td></tr><tr><td>大豆油 Soybean oil</td><td>2.00</td></tr><tr><td>磷酸二氢钙 Ca(H2PO4)2</td><td>1.50</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.20</td></tr><tr><td>维生素预混料 Vitamin premix 1</td><td>0.04</td></tr><tr><td>微量元素预混料 Mineral premix 2)</td><td>0.30</td></tr><tr><td>食盐 NaCl</td><td>0.20</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td></tr><tr><td>水分Moisture</td><td>11.46</td></tr><tr><td>粗蛋白质 Crude protein</td><td>30.55</td></tr><tr><td>粗脂肪 Ether extract</td><td>5.72</td></tr><tr><td>粗灰分 Ash</td><td>5.34</td></tr><tr><td>总能Gross energy(MJ/kg)</td><td>17.36</td></tr></table></body></html>
+
+1维生素预混料为每千克饲料提供 The vitamin premix provided the following per kg of the diet：VA10 000 IU,  
+VD3 4 000 IU，VE $1 0 0 ~ \mathrm { { m g } }$ ，VK $1 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 0 \mathrm { m g }$ ， $\mathrm { V B } 6 3 0 ~ \mathrm { m g }$ ，泛酸钙 calcium pantothenate $6 0 \mathrm { m g }$ ，  
+生物素 biotin $4 . 0 \mathrm { m g }$ ，叶酸 folic acid $1 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 6 \ : \mathrm { m g }$ ， $\mathrm { V C } 1 0 0 0 \mathrm { m g }$ ，肌醇inositol $1 2 0 0 \mathrm { m g }$ 。2微量元素预混料为每千克饲料提供 The mineral premix provided the following per $\mathbf { k g }$ of the diet: Fe $3 0 \mathrm { m g }$ ，Cu  
+$1 0 \mathrm { m g }$ ， $\mathrm { M n } 3 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 5 \mathrm { ~ m g }$ ， $\mathbf { M g } 1 . 0 \mathbf { g } .$ 0  
+1.3指标测定  
+1.3.1血浆葡萄糖和胰岛素含量测定血浆中葡萄糖含量在美国贝克曼 $\mathbf { C } \mathbf { x } – 4$ 型自动生化分析仪上测定。胰岛素含量使用R&D
+
+Systems 公司提供的鱼胰岛素测定试剂盒，采用固相夹心法酶联免疫吸附试验(ELISA)测定吸光度（OD）值，由试剂盒中标准物的胰岛素含量与OD值得出标准曲线的回归方程，将样品中胰岛素的OD值代入方程，计算出样品中胰岛素的含量，若是稀释后的样品，再乘以稀释倍数即为样品中胰岛素的实际含量。
+
+# 1.3.2 IR-1的cDNA克隆和序列分析
+
+5 取 $5 0 \mathrm { \sim } 1 0 0 ~ \mathrm { m g }$ 尼罗罗非鱼肌肉组织，加液氮研磨至粉末状，参照 TrizolReagent(Invitrogen 公  
+； 司)说明书的步骤提取总RNA，然后再用该公司提供的DNaseI进行纯化，纯化后的RNA 在  
+7 TaKaRa 公司提供的反转录酶（M-MLVReverse Transcriptase）的作用下进行反转录，参照美国国  
+； 立生物技术信息中心(NCBI)网站公布的虹（GenBank 登录号:AF062496.1）、比目鱼（GenBank  
+） 登录号：AB065096.1）、金鱼（GenBank 登录号:AF218355.1)和银鲑鱼（GenBank 登录号:AF021040.1）  
+） 的基因序列设计引物1和2（表2）；使用天根公司提供的PCR（ $2 \times$ TaqPCR）试剂盒，克隆获得  
+一 尼罗罗非鱼IR-1的序列片段，反应条件为： $9 4  { ^ \circ \mathrm { C } } 5  { \operatorname* { m i n } }$ ，（ $9 4 ^ { \circ } \mathrm { C } 3 0 \mathrm { s }$ ， $5 0 ^ { \circ } \mathrm { C } 3 0 \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C } \mathrm { ~ l ~ m i n }$ ）$\times 3 5$ 个循环， $7 2  { ^ \circ } \mathrm { C } 5  { \mathrm { m i n } }$ ，而后使用MBI公司生产的pTZ-57R/T载体连接试剂盒，将所得片段连入 pTZ-57R/T载体，连接产物转化感受态大肠杆菌 $( E . ~ c o l i ) ~ \mathrm { D H } ~ 5 \mathrm { a }$ ，培养菌液，将鉴定好的菌液寄往北京天根生物工程公司测序。之后根据获得的片段序列设计引物3与锚定引物BRL-A2进行PCR 扩增获得IR-1的3'端序列，同时根据获得的片段序列设计引物6与锚定引物 SmartP1进行PCR 扩增获得 IR-1的 ${ \boldsymbol { 5 } } ^ { \prime }$ 端序列，反应条件均为： $9 4 \ { ^ \circ } \mathrm { C } \ 5 \ \operatorname* { m i n }$ ，（ $9 4 ^ { \circ } \mathrm { C } 3 0 \mathrm { s }$ ， $5 4 ^ { \circ } \mathrm { C }$ 30 s, $7 2 ^ { \circ } \mathrm { C } 1 \operatorname* { m i n }$ ）$\times 3 5$ 个循环， $7 2 ^ { \circ } \mathrm { C } 5 \mathrm { m i n }$ ，同样将所得片段连入pTZ-57R/T载体，培养菌液后测序。使用DNAMAN软件对获得的序列进行比对和分析，进化树由MEGA5.0软件设计而成。
+
+表2cDNA克隆和PCR引物序列  
+Table 2Sequences of primers used in cDNA cloning and PCR   
+
+<html><body><table><tr><td>引物编号 Primer number</td><td>cDNA</td><td>DNA 序列 DNA sequencel</td><td>方向Direction²</td></tr><tr><td>1</td><td>IR-1</td><td>5'-CCDGAYGAVTGGGARGT-3'</td><td>F</td></tr><tr><td>2</td><td>IR-1</td><td>5'-GCCACCATGCAGTTYCT-3'</td><td>R</td></tr><tr><td>3</td><td>IR-1</td><td>5'-CACCCTGGTAGTGATGGA-3'</td><td>F</td></tr><tr><td>4</td><td>BRL-A2</td><td>5-GGCCACGCGTCGACTAGTAC-3'</td><td>R</td></tr><tr><td>5</td><td>SmartP1</td><td>5'-AAGCAGTGGTATCAACGCAGAGT-3'</td><td>F</td></tr><tr><td>6</td><td>IR-1</td><td>5'-CGATTCGTTGACCGTCTTGAC-3'</td><td>R</td></tr><tr><td>7</td><td>IR-1</td><td>5'-CCTGATGAGTGGGAGGT-3'</td><td>F</td></tr><tr><td>8</td><td>IR-1</td><td>5'-GCCACCATGCAGTTCCT-3'</td><td>R</td></tr><tr><td>9</td><td>IR-1</td><td>5'-TCAAGACGGTCAACGAAT-3'</td><td>F</td></tr><tr><td>10</td><td>IR-1</td><td>5'-TCATCAGCTCCATCACTAC-3'</td><td>R</td></tr></table></body></html>
+
+1）由实际 cDNA 序列设计出的核苷酸引物 Nucleotide sequence from the actual cDNA sequence。  
+2F：正向 forward direction；R：反向 reverse direction。
+
+# 1.3.3半定量PCR检测组织中IR-1的表达
+
+采取饲喂常规饲料的尼罗罗非鱼的肌肉、肝脏和心脏，参照 Trizol Reagent(Invitrogen)说明书的步骤，分别从这3种组织中提取总RNA后进行反转录，而后使用天根公司提供的 $2 { \times } \mathrm { T a q }$ PCR反应液进行半定量PCR检测，根据本试验克隆获得的IR-1（GenBank 登录号：JN967750）序列设计引物7和8(表2)用于IR-1表达的检测，PCR反应条件均为： $9 4  { \mathrm { ~ \circ ~ } } _ { \mathrm { C } }  { \mathrm { ~ 5 ~ } }  { \mathrm { m i n } }$ ， $( 9 4 \mathrm { ~ \~ \textdegree ~ } 3 0 \mathrm { ~ s } , \mathrm { ~ } 5 9 \mathrm { ~ \~ \textdegree ~ }$ $3 0 ~ \mathrm { s }$ ， $7 2  { \mathrm { ~ \circ ~ } } _ { \mathrm { C ~ } 1 \operatorname* { m i n } }$ ） $\times 3 6$ 个循环， $7 2  { \mathrm { ~ \circ ~ } }  { \mathrm { ~ C ~ } } 5  { \mathrm { ~ m i n ~ } }$ 。同样，参照 NCBI网站公布的罗非鱼 ${ \beta }$ -肌动蛋白（ $\beta$ -actin）（GenBank 登录号:EF026001.1）序列设计引物11和12(表2)用于 $\beta$ -actin表达的检测，PCR反应条件为： $9 4  { \mathrm { ~ \circ ~ } } _ { \mathrm { C } } 5  { \mathrm { ~ m i n } }$ ， $( 9 4 ~ \mathrm { ~ \textcircled ~ { ~ } } 3 0 ~ \mathrm { s } , ~ 5 9 ~ \mathrm { ~ \textcircled ~ { ~ } } 3 0 ~ \mathrm { s } , ~ 7 2 ~ \mathrm { ~ \textcircled ~ { ~ } } 1 ~ \operatorname* { m i n } ) ~ \times 3 2$ 个循环， $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 5min。最后，通过 $0 . 8 \%$ 琼脂糖凝胶电泳，使用Bio-Rad全自动凝胶成像系统进行照相，测定各组织中各基因的相对表达量。
+
+# 1.3.4实时荧光定量PCR 检测IR-1的表达
+
+取 $1 ~ \mu \ g$ 总RNA，参照TaKaRa 公司反转录酶（M-MLVReverse Transcriptase）的说明书合成cDNA第1链，然后置于 $- 2 0 \mathrm { ~ \textdegree ~ }$ 保存。采用 SYBRGreen I荧光染料在 7500 Real Time PCR System(Bio-Rad)上进行PCR扩增，分别检测注射葡萄糖后1、3、6和 $^ { 1 2 \mathrm { ~ h ~ } }$ 时IR-1在肌肉、心脏和肝脏中的 mRNA 相对表达量。
+
+在8联管(Axygen)中分装以下反应体系： $1 0 ~ \mu \mathrm { L } ~ 2 \times \mathrm { S Y B R } ^ { \textregistered }$ Premix Ex TaqTM， $0 . 4 ~ \mu \mathrm { L }$ （204号 $5 0 { \times } \mathrm { R O X }$ Reference Dye II(TaKaRa), $6 . 8 ~ \mu \mathrm { L } \mathrm { d H } _ { 2 } \mathrm { O }$ ，正、反向引物 $( 1 0 \mu \mathrm { m o l / m L } )$ 各 ${ 0 . 4 \mu \mathrm { L } }$ ，模板 $\operatorname { c D N A } 2 \mu \mathrm { L }$ 0阴性对照则以等量RNase-free 水代替，补充RNase-free 水至 $2 0 ~ \mu \mathrm { L }$ 。根据本试验克隆获得的IR-1（GenBank登录号：JN967750）序列设计引物9和10(表2)用于IR-1mRNA相对表达量的检测，PCR反应条件为：94℃30s， $( 9 4 ~ \mathrm { ~ \textcircled { ~ } { ~ 5 ~ s } , ~ 6 0 ~ \mathrm { ~ \textcircled { ~ } { ~ C ~ } ~ 3 4 ~ s ) ~ \times 4 0 ~ } }$ 个循环，最后在55\~95 $\mathrm { { } ^ { \circ } C }$ 制作熔解曲线。反应完成后，用ABI7500 System分析软件分析结果。
+
+# 1.4 数据统计与分析
+
+试验数据用平均值±标准差表示。目的基因的mRNA相对表达量以尼罗罗非鱼 $\beta$ -actin为内参，以对照组的基因mRNA表达量为基准，应用 $2 ^ {  \triangleup  }$ 方法计算肌肉、肝脏和心脏中IR-1mRNA的相对表达量。采用 SPSS 13.0软件进行数据处理和分析，先对数据进行单因素方差分析(one-wayANOVA)，若组间差异显著，再用Duncan氏法进行多重比较，以 $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+2.1注射葡萄糖后尼罗罗非鱼血浆葡萄糖和胰岛素含量的变化从图1可以看出，与注射前（0h）相比，试验组尼罗罗非鱼在注射葡萄糖1h后血浆葡萄糖含量达到最高，并显著高于对照组（ $. P { < } 0 . 0 5 .$ ），而后开始下降，6h后恢复到正常水平。从图2可以看出，试验组血浆胰岛素含量在注射葡萄糖 $3 \mathrm { h }$ 后达到最高，并显著高于对照组（ $_ { . P < 0 . 0 5 }$ ），而后开始下降，在 $1 2 \mathrm { h }$ 后降低至接近正常水平。
+
+同一时间点数据点标注不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同小写字母表示差异不显著。下图同。
+
+![](images/f715e11b5882c0c024fa20cc111344d884132d9a67a91b654e3933582b48ddd8.jpg)  
+图1注射葡萄糖后尼罗罗非鱼血浆葡萄糖含量的变化
+
+Data points with different letters mean significant difference ( $( P { < } 0 . 0 5 )$ ,while with the same letters mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+![](images/0998e4995ca651da757c510a1ccd74258460f221936b42684efe4d571c3950ff.jpg)  
+Fig.1Changes of plasma glucose content of Nile tilapia after glucose injection   
+图2注射葡萄糖后尼罗罗非鱼血浆胰岛素含量的变化  
+Fig.2Changes of plasma insulin content of Nile tilapia after glucose injection
+
+2.2尼罗罗非鱼IR-1序列片段的克隆
+
+通过PCR 扩增克隆获得了尼罗罗非鱼IR-1的部分cDNA序列（GenBank 登录号:JN967750），经琼脂糖凝胶电泳检测这一序列片段大小为1979bp，由548个氨基酸组成（图3），与所预测的
+
+140 片段大小基本一致。将鉴定好的菌液寄往北京天根生物工程公司测序，用DNAMAN 软件将所得  
+141 片段序列与来源于其他动物的同源序列进行序列比较，发现该片段为所要克隆的目的基因的序列  
+142 片段。  
+Flounder 1 LDRPENCPERMHNLMQMCWQYNPKMRPMF 449  
+Tilapia 1 LDRPENCPERMHSLMQMCWQYNPKMRPTF 449  
+Trout 1 LDRPENCEQRIHNLMSMCWQYNPKMRPTF 449  
+Turbot LDRPENCPERMHSLMQMCWQYNPKMRPMF 449
+
+<html><body><table><tr><td colspan="4">Flounder 1 -K RCSMA TYV SARTMPEEK ADD IPGHV THEI VTAE PPYVLIKW NAPRS PNGLIILY EVFY60</td></tr><tr><td>Tilapia 1</td><td>QK RCSMA TYI SARTMPEEK ADD IPEPV THEI VQGE PPYVLIKWNPPINPNGLIILYEVFY</td><td></td><td>60</td></tr><tr><td>Trout 1</td><td>-QRCSMA TYVSARTMPEEK ADDIVGQVSHEIVLENPDSVHIKWLEPKAPNGMIILYEINY60</td><td></td><td></td></tr><tr><td>Turbot</td><td>-K RCSMA TYV SARTMPEEK ADE IPGPV THEI VTAE APYVLIKWNTPRS PNGLIILY EVFY60</td><td></td><td></td></tr><tr><td></td><td>，*******，***********，* *.****</td><td>***** ***，*****，*</td><td></td></tr><tr><td></td><td>Flounder 1 RK VGDTE VHTTCVSRPAYLKTGGTKLSLVQPGNYS VRVRATSL AGNGS FTE TTYFF MPNP 120</td><td></td><td></td></tr><tr><td>Tilapia 1</td><td>SK VGDSE VHTTCVSRPAYQKLGGTKLS LDQPGNYS VRVRATSL AGNGS FTE IIYFF MPNP120</td><td></td><td></td></tr><tr><td>Trout 1</td><td>RR IGDPE ELHHCVSRKTYAQIGGCRLR VVHPGNYTVKIRATSL AGNGS WTK PTYFF MPDK 120</td><td></td><td></td></tr><tr><td>Turbot</td><td>RK VGDTEVHTACVSRPAYLKLGGTKLSLVQPGNYS VRVRATSL AGNGS FTA TTYFFMPNP120 .*** ****.*．**..*</td><td>.****，*..*********** *****</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Flounder 1 DPGLIWI VIGPVFCF ILLLFVGGGAFWIIKK RQTEGPTGPLIASSNPEYIS ANDVYVPDE 180</td><td></td><td></td></tr><tr><td>Tilapia 1</td><td>DQGLIWI VMG PVICF ILLLLAGGGVFV YFKK RQTEGPLG DLITSPNPE YFS AGDMY VPDE180</td><td></td><td></td></tr><tr><td>Trout 1 Turbot</td><td>DI VSLNI IIGPVICF ILLLFVGGGVFMVYKK KQIEGPTGPLIA SSNPE YLS ASDVY IPDD 180</td><td></td><td></td></tr><tr><td></td><td>DPGLIWI VIGPVICF ILLLFVGGGVFW IFKK KQTEGPTGPLIASSNPEYIS ANDVYVPDE180 * ．*..*** ********** *</td><td>**.* *** * **.* **** ** *.*.**.</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Flounder 1 WE VPREK ITV LRELGQGSFGMVYEGIAKDIV KGDPDTRVAVKT VNESA SLRERIEF LNEA 240</td><td></td><td></td></tr><tr><td>Tilapia 1</td><td> WE VPRDK IAL LRELGQGSFGMV YEGVA KDIV KGDP ETRV AVKT VNESA SLR ERIEF LNEA 240</td><td></td><td></td></tr><tr><td>Trout 1</td><td> WE VAREK INI LKELGQGSF GMV YEGVA KDIV KGEPDTRV AVKT VNESA SLRERIEF LNEA 240</td><td></td><td></td></tr><tr><td>Turbot</td><td>WE VPREK ITVLRELGQGSFGMV YEGIAKDII KGDPDTRV AVKTVNESA SLRERIEF LNEA240 *** *.**.*.*斗．</td><td>*******.****，**.*，************************</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Flounder 1 SV MKAFSCHHVVRLL GVVS KAQPTLVVMELMTHGD LKSYLRNL RPDSE NNP TGRPP PTLK 300</td><td></td><td></td></tr><tr><td>Tilapia 1</td><td> SV MKAFS CHHVVRLL GVVS KGQPTLVVMELMTHGD LKSYLRSL RPDSE NNP SGSPP PTLK 300</td><td></td><td></td></tr><tr><td>Trout 1</td><td> SV MKGFS CHHVVRLL GVVS KGQPTLVVMELMTHGD LKSF LRAL RPDSE SNP QGSPL PHLK 300</td><td></td><td></td></tr><tr><td>Turbot</td><td>SV MKAFS CHHVVRLL GVVS KAQPTLVVMELMTHGD LKSY LRCL RSDSE NNP TGRPP PTLK 300</td><td>******************** ******************** ** *** ** *** * **</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Flounder 1 EM IQMAAEIA DGMAY LNAK KHV HRDLAARNCMVAE DYTV KIGDFGMTRDIYETDYY RKGG 360</td><td></td><td></td></tr><tr><td>Tilapia 1</td><td>DMLQMAA EIA DGMAYLNAK KFV HRDLA ARNCMVAE DFTV KIGDFGMTRGIY ETDYY RKGG360</td><td>EM IQMSG EIA DGMAY LNAK KFV HRDLA ARNCMVAE DNTV KIGY FGMTRDIY ETDYY RKGG 360</td><td></td></tr><tr><td>Trout 1 Turbot</td><td></td><td>EM IQMAA EIA DGMAYLNAK KFV HRDLA ARNCMVAE DFTV KIGDFGMTRDIY ETDYY RKGG360</td><td></td></tr><tr><td></td><td></td><td>**.**，************** *************** ***********************</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Tilapia 1</td><td>Flounder 1 KGLLPVR WMA PESLK DGVF TAHSDCWS FGVVLWEI STLAEQPY QGLSNEQV LKFVM DGGY 420</td><td></td><td></td></tr><tr><td></td><td>KGLLPVR WMA PESLKDGVF TAHSDCWS FGVVLWEI STLAEQPY QGLSNEQV LKFVMEGGF 420</td><td></td><td></td></tr><tr><td>Trout 1</td><td>KG LLPVS GMA SRSLK DGSV TAY SDCWS FGVVLWEV STLAEQPYQGLSNEQV LKFVMDGGY 420</td><td></td><td></td></tr><tr><td>Turbot</td><td>KGLLPVR WMA PESLK DGVF TPHSDCWS FGVVLWEI STLAEQPYQGLSNEQV LKFVMDGGY420</td><td></td><td></td></tr><tr><td></td><td>** **** ** ***** *</td><td>************，*********************，**.</td><td></td></tr></table></body></html>
+
+\*\*\*\*\*\*\*\*\*.\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Flounder:比目鱼；Tilapia:罗非鱼；Trout:鱼；Turbot:大菱鲆。
+
+图中每个字母代表着一种氨基酸，氨基酸的缺口使用"-"代替，完全相同氨基酸的位置使用""进行标示，有2\~3个氨基酸相同的位置使用“"进行标示，预测获得的跨膜螺旋体相近的位置进行下划线标示，具有IR-1的高度
+
+保守残基的序列使用灰色进行强调。
+
+The single-leter code is used for the amino acids. Gaps in the amino acid sequences are indicated with a dash $( - )$ The positions where have the same amino acid are indicated with asterisks $( ^ { * } )$ ,and positions where have 2 to 3 the same amino acids are indicated with a dot (.).The underlined sequences indicate the approximate positions of the predicted membrane-spanning helices. Residues that are highly conserved in all $I R$ -1s are highlighted in gray.
+
+Fig.3Alignment result of $I R \mathrm { - } 1$ amino acid sequences between Nile tilapia and other fish species
+
+# 2.3尼罗罗非鱼IR-1的氨基酸序列分析
+
+通过与其他鱼类比对可以看出，尼罗罗非鱼的IR-1的氨基酸序列具有很高的保守性，具有胰岛素受体的特征性序列（图3），并具有丰富的酪氨酸激酶特征性序列。在系统发育学上，与其他脊椎动物的胰岛素受体相比较（图4），可以看出，尼罗罗非鱼的 IR-1和其他的脊椎动物的胰岛素受体在同一簇上，这些脊椎动物包括比目鱼和大菱鲆，而与其他脊椎动物的非IR-1胰岛素受体类型不在同一簇上；此外，鱼类的胰岛素受体分布在一个簇上，哺乳动物的胰岛素受体分布在一个簇上。
+
+在氨基酸水平上，尼罗罗非鱼的IR-1与比目鱼和大菱鲆的IR-1同源性非常高，分别达到 $8 9 . 9 \%$ 和 $8 9 . 1 \%$ ，与尼罗罗非鱼胰岛素受体-2（IR-2）的同源性为 $7 3 . 0 \%$ ，与哺乳动物胰岛素受体的同源性在 $6 6 . 7 \% { \sim } 6 8 . 8 \%$ （表3）。通过比较鉴定可以得出，罗非鱼IR-1具有第1类别胰岛素受体的保守序列，同时具有胰岛素受体的特征性序列。
+
+尼罗罗非鱼 IR-1 与其他脊椎动物胰岛素受体蛋白质序列的系统发育树。A phylogenetic tree of the proteinsequences of Nile tilapia IR-1 with IRs from other vertebrates.
+
+从 GenBank 获得的序列登录号如下 Sequence acession numbers were obtained from GenBank as follows:Salmon 1 鲑鱼IR-1，AAB94065；Salmon 2 鲑鱼 IR-2，AAB94066；Salmon 3 鲑鱼IR-3，AAB94067；Salmon 4鲑鱼 IR-4 AAB94068；Trout1鳟鱼IR-1，AAC16490；Trout2 鳟鱼 IR-2，ACN85415；Trout 3鱼 IR-3，AAC16492；Trout 4 鱼IR-4AAC16491；Goldfish1金鱼IR-1，AAF32316；Goldfish 2 金鱼 IR-2，AAG48323；Flounder1 比目鱼 IR-1，BAB83667；Flounder2 比目鱼 IR2，BAB83668；Zebrafish 1 斑马鱼IR-1，NP_001136144；Zebrafish 2斑 马鱼IR-2，NP_001116701；Tilapia 2 罗非鱼 IR-2，XP_003448585；Human 1 人IR-1，NP_000199；Human 2人 IR-2，NP_001073285；Cattle 牛IR，XP_00268878；Rat 鼠 IR，NP_058767；Pig 猪IR，XP_003123202；Chicken 鸡 IR，AAD26153；Frog 青蛙 IR，NP_001081702。
+
+![](images/c1cd9b3eb4481ece4ed388321d057a3bf7d133b38c3fef4e7947abba2e6e0388.jpg)  
+图4不同来源 IR-1的聚类分析  
+Fig.4Cluster analysis of IR-1 from different sources
+
+表3在核苷酸和氨基酸水平上IR-1与其他物种的同源性比较 Table 3Homologous comparison of IR-1 between Nile tilapia and other animal species on nucleotide and amino acid levels $\%$ （   
+
+<html><body><table><tr><td>物种 Species</td><td>基因Gene</td><td>氨基酸同源性</td><td>核苷酸同源性</td></tr><tr><td></td><td></td><td>Amino acid homology</td><td>Nucleotide homology</td></tr><tr><td>银鲑鱼 Coho salmon</td><td>IR-1</td><td>45.6</td><td>41.6</td></tr><tr><td>虹 Brown trout</td><td>IR-1</td><td>77.7</td><td>67.4</td></tr><tr><td>虹鳟 Brown trout</td><td>IR-2</td><td>85.3</td><td>68.3</td></tr><tr><td>金鱼Goldfish</td><td>IR-1</td><td>45.3</td><td>37.5</td></tr><tr><td>比目鱼Flounder 比目鱼Flounder</td><td>IR-1</td><td>89.9 73.7</td><td>81.4</td></tr><tr><td>尼罗罗非鱼 Nile tilapia</td><td>IR-2</td><td></td><td>64.3</td></tr><tr><td>大菱鲆 Turbot</td><td>IR-2</td><td>73.0 89.1</td><td>64.4</td></tr><tr><td>蛙Frog</td><td>IR IR</td><td>71.7</td><td>81.0 55.9</td></tr><tr><td>人Human</td><td>IR-1</td><td>68.8</td><td>57.5</td></tr><tr><td>人 Human</td><td>IR-2</td><td>68.8</td><td></td></tr><tr><td>猪Pig</td><td>IR</td><td>69.9</td><td>56.9</td></tr><tr><td>牛Cattle</td><td>IR</td><td>60.7</td><td>58.3</td></tr><tr><td></td><td></td><td></td><td>60.7</td></tr><tr><td>鼠Rat</td><td>IR</td><td>68.6</td><td>60.5</td></tr></table></body></html>
+
+191 2.4尼罗罗非鱼IR-1在不同组织中的表达
+
+192 从在 $2 3 { \sim } 2 5$ ℃的水温中饲养、饲喂常规饲粮的尼罗罗非鱼中采取肌肉、肝脏和心脏，而后  
+193 分别提取总RNA，反转录后通过半定量PCR检测和比较IR-1在这3种组织的表达量，结果（图  
+194 5）显示，IR-1在尼罗罗非鱼的肌肉、心脏和肝脏中均有很高的表达量，由此可以得出尼罗罗非  
+195 鱼的肌肉、心脏和肝脏中都有胰岛素受体的存在，并且对尼罗罗非鱼注射葡萄糖6h后3个组织  
+196 中 IR-1都达到最高表达量，通过后续实时荧光定量PCR的结果来看，IR-1在肝脏和肌肉的表达  
+197 量基本一致，而心脏中的表达量相对较低（图6）。
+
+![](images/847024d9a35e80244b422ca686a040a535906970c6875a51cca63ac4baff87bf.jpg)  
+图5尼罗罗非鱼IR-1在不同组织中的表达
+
+IR-1：胰岛素受体-1 insulin receptor1； $\beta$ -actin: $\beta$ -肌动蛋白；M:肌肉muscle；H:心脏hear；L:肝脏liver。
+
+2.5注射葡糖糖后尼罗罗非鱼不同组织中 $I R \mathrm { - } 1 ~ \mathrm { m R N A }$ 的相对表达量变化
+
+通过实时荧光定量PCR检测尼罗罗非鱼注射葡萄糖后 $1 2 \mathrm { h }$ 内不同组织IR-1mRNA的相对表达量的变化。试验结果（图6）显示，试验组肌肉中 $I R \mathrm { - } 1 ~ \mathrm { m R N A }$ 的相对表达量在注射葡萄糖后 $3  { \mathrm { h } }$ 时有所升高，在 $^ \mathrm { ~ 6 ~ h ~ }$ 时达到最高水平，与对照组差异显著（ $. P { < } 0 . 0 5 )$ ）；与对照组相比，试验组心脏中IR-1mRNA 的相对表达量在注射葡萄糖后的 $^ { 1 2 \mathrm { ~ h ~ } }$ 内没有表现出显著性的变化（ $. P { > } 0 . 0 5 \$ ），但是随时间的延长呈现出了先上升后下降的趋势，在 $^ \mathrm { ~ 6 ~ h ~ }$ 时达到最高水平；试验组肝脏中IR-1mRNA的相对表达量变化与肌肉中十分相似，即在注射葡萄糖后 $^ { 3 \mathrm { ~ h ~ } }$ 时有所升高，在 $6 \mathrm { ~ h ~ }$ 时达到最高水平，与对照组差异显著（ $_ { . } P { < } 0 . 0 5$ ）。
+
+![](images/535350f6a1cc7de3a26abd3edcd327da26ec4bd4139c3456ebc35f355b45d47a.jpg)  
+Fig.5Expression of IR-1 from different tissues of Nile tilapia
+
+![](images/db6eff11471d6d542770305ba4dc772464277de67e02bef047006ab8882ae918.jpg)  
+图6注射葡萄糖后尼罗罗非鱼不同组织中 $I R \mathrm { - } 1 ~ \mathrm { m R N A }$ 的相对表达量变化
+
+Fig.6Changes of IR-1 mRNA relative expression level in diffrent tissues of Nile tilapia after glucose injection
+
+3讨论
+
+3.1尼罗罗非鱼IR-1的基因序列分析
+
+从序列、系统发生学和组织分布来分析，本试验所克隆获得的基因片段属于胰岛素受体家族中的 IR-1。尼罗罗非鱼的 IR-1在序列和结构上与其他鱼类的 IR-1十分相似，其与哺乳动物胰岛素受体的同源性在 $6 6 . 7 \% { \sim } 6 8 . 8 \%$ ，与其他鱼类胰岛素受体的同源性在 $4 5 . 3 \% \sim 8 9 . 9 \%$ 。通过对蛋白质序列分析的结果可以看出，与其他鱼类相比，尼罗罗非鱼的IR-1的蛋白质序列具有很高的保守性，并且胰岛素受体的酪氨酸激酶位点十分丰富。从氨基酸序列的比对结果来看，除了一少部分的氨基酸替代外，本试验从尼罗罗非鱼肌肉中克隆获得的序列具备了IR-1的普遍特征。鱼类胰岛素受体在进化上的这种主要结构的保守性表明，这种高选择压力下的高保守性可能源于需要保持胰岛素受体的一般特征和其信号的传导功能。
+
+本研究利用Chan 等[27克隆大马哈鱼胰岛素受体的引物，获得了2条胰岛素受体的片段，通过序列比对和分析，其中一条与本研究克隆的序列完全相符，而另外一条与Cheng 等[28对莫桑比克罗非鱼克隆的一段胰岛素受体片段（GenBank 登录号：AF493794）完全相符。数据显示本试验克隆出的尼罗罗非鱼IR-1与IR-2只有 $7 3 . 0 \%$ 的同源性，如此低的同源性表明尼罗罗非鱼的胰岛素受体由2个基因来表达，对此本试验可以确定尼罗罗非鱼的胰岛素受体存在着2种亚型。通过氨基酸序列对比发现，IR-1和IR-2与人类胰岛素受体的同源性分别为 $6 8 . 8 \%$ 和 $6 6 . 1 \%$ ，表明在进化的过程中胰岛素受体具有很高的保守性。鱼类胰岛素受体在结构和功能上与人类的胰岛素受体十分相似，因此，其研究结果可直接运用到哺乳动物中[29]。
+
+# 3.2尼罗罗非鱼IR-1的组织表达分布特征
+
+胰岛素受体是一种跨膜糖蛋白，具有典型的变构酶性质，广泛分布于全身各组织细胞膜[30]。
+
+在哺乳动物上，用于胰岛素调节血糖的外周靶细胞的胰岛素受体主要存在于肌肉和脂肪组织内，然而很少有证据证明在鱼体内也同样如此，但是鱼类（包括尼罗罗非鱼）的肌肉和心脏具有功能性的胰岛素受体，这确是一个不争的事实[31]。Mounier 等[32]研究发现，胰岛素受体在哺乳动物的肝脏和脂肪组织中具有很高的表达量，这些组织中的胰岛素受体和胰岛素相互作用，使得葡萄糖维持在一个相对平衡的水平。胰岛素受体在鱼类的各种组织中也都有表达[1]，其中包括肌肉、肝脏、鳃和大脑等组织[3]。本研究结果显示，IR-1在尼罗罗非鱼的肌肉、心脏和肝脏中均有较高的表达量，其中肌肉和肝脏中IR-1的表达量基本一致，而心脏中的表达量相对较低。
+
+# 3.3注射葡萄糖对尼罗罗非鱼IR-1表达的影响
+
+胰岛素作为体内唯一的降糖激素，它的分泌受血糖水平的调节控制，血糖水平升高即引起胰岛β 细胞释放胰岛素入血，到达其主要的靶器官——肝脏、肌肉和脂肪，而胰岛素特异性受体在许多鱼类的肝脏和肌肉中被发现，虽然它们的数量在不同的鱼类中有所差异[34]。Banos 等[35]用含有易消化的膨化小麦饲喂虹鳟，结果发现饲喂高糖饲料（ $3 7 \%$ 的膨化小麦）与低糖饲粮（ $2 1 \%$ 的膨化小麦）的虹鳟均表现出较高的生长率，血浆中的葡萄糖和胰岛素含量升高，同时肌肉中胰岛素受体的数量增加。研究表明，长期摄食不同糖水平饲料的鱼类对外源胰岛素敏感性也不同，这可能是因为长期摄食不同糖水平饲料的鱼类被激活的胰岛素受体数量不同的缘故。同时，影响胰岛素受体数量的因素也可以影响胰岛素受体的亲和力，而无论胰岛素受体数量的降低还是亲和力的降低，均可以降低胰岛素与其受体的结合而引起机体葡萄糖含量的升高[36]。蔡春芳等[37对异育银鲫进行了外源胰岛素敏感性试验，结果表明外源胰岛素具有显著的降血糖作用，异育银鲫对外源胰岛素敏感性强，而且饲料糖水平也影响其敏感性，造成敏感性差异的原因可能与胰岛素受体数量不同有关。不同鱼类胰岛素与其受体的结合力不同，Banos 等[35]研究表明，鲤鱼红肌中胰岛素与其受体的结合力大于虹鳟，同时鱼类不同组织中胰岛素与其受体的结合力也不同，心肌胰岛260 素与其受体的结合力较其他组织高[38]。本研究结果显示，尼罗罗非鱼在注射葡萄糖后的 $1 2 \mathrm { h }$ 内，261 心脏中IR-1mRNA 的相对表达量没有发生显著变化,而肌肉和肝脏中 IR-1mRNA 的相对表达量在262 注射葡萄糖后6h时达到最高，12h时恢复到正常水平。综合以上试验结果，血浆葡萄糖含量在263 注射葡萄糖后1h 时达到最高，而在高血浆葡萄糖含量的刺激下血浆胰岛素含量却在注射葡萄糖264 后 3 h时达到最高，同时基于胰岛素的压力，肌肉和肝脏中的IR-1表达量增多，但是其表达量在265 注射葡萄糖后6h 时才达到最高，胰岛素含量及其受体（IR-1）表达量相对于血浆葡萄糖含量的滞266 后性表明，IR-1在调节尼罗罗非鱼血浆葡萄糖含量上并没有发挥作用，至于胰岛素受体的另一个267 亚型（IR-2）的作用如何，有待于下一步深入研究。
+
+$\textcircled{1}$ 克隆获得的尼罗罗非鱼IR-1基因序列具有很高的保守性，并具有丰富的酪氨酸激酶特征性序列。$\textcircled{2}$ IR-1在尼罗罗非鱼肌肉、心脏和肝脏中均有较高的表达量，肝脏和肌肉中的表达量基本一致，而心脏中的表达量相对较低。$\textcircled{3}$ 注射葡萄糖后尼罗罗非鱼肌肉和肝脏中的IR-1mRNA的相对表达量在注射葡萄糖后6h时达到最高， $1 2 \mathrm { h }$ 时恢复到正常水平。相对于血浆葡萄糖含量，血浆胰岛素含量的升高相对延迟，而肌肉和肝脏中IR-1mRNA的相对表达量的升高又延迟于胰岛素含量的升高，从而加重了罗非鱼对葡萄糖的代谢负担。
+
+=1 少兮义：   
+278 [1]MOMMSEN T P.Paradigms of growth in fish[J].Comparative Biochemistry and Physiology Part   
+279 B:Biochemistry and Molecular Biology,2001,129(2/3):207-219.   
+280 [2]PALMER T N,RYMAN B E.Studies on oral glucose intolerance in fish[J].Journal of Fish   
+281 Biology,1972,4(2):311-319.   
+282 [3]FURUICHI M,YONE Y.Availability of carbohydrate in nutrition of carp and red sea bream[J].The   
+283 Japanese Society of Fisheries Science,1982,48(7):945-948.   
+284 [4] WILSON R P,POE W E.Apparent inability of channel catfish to utilize dietary mono- and   
+285 disaccharides as energy sources[J].The Journal of Nutrition,1987,117(2):280-285.   
+286 [5]HERTZ Y,MADAR Z,HEPHER B,et al.Glucose metabolism in the common carp (Cyprinus carpio   
+287 L.):the effects of cobalt and chromium[J].Aquaculture,1989,76(3/4):255-267.   
+288 [6] NAVARRO I,GUTIERREZ J,PLANAS J.Changes in plasma glucagon,insulin and tissue   
+289 metabolites associated with prolonged fasting in brown trout (Salmo trutta fario) during two different   
+290 seasons of the year[J].Comparative Biochemistry and Physiology Part   
+291 A:Physi0l0gy,1992,102(2):401-407.   
+292 [7]HRYTSENKO O,WRIGHT JR,Jr,POHAJDAK B.Regulation of insulin gene expression and   
+293 insulinproductioninNiletilapia(Oreochromisniloticus)[J].GeneralandComparative   
+294 Endocrinology,2008,155(2):328-340.   
+295 [8]HANKS S K,QUINN A M,HUNTER T.The protein kinase family:conserved features and deduced   
+296 phylogeny of the catalytic domains[J].Science,1988,241(4861):42-52.   
+297 [9] CAMPBELL G R,CAMPBELL J H,MANDERSON J A,et al.Arterial smooth muscle.A   
+298 multifactorial mesenchymal cellJ].Archives of Pathology and Laboratory Medicine,1988,112:977-986.   
+299 [10]GUTIERREZ J,ASGARD T,FABBRI E,et al.Insulin-receptor binding in skeletal muscle of   
+300 trout[J].Fish Physiology and Biochemistry,1991,9(4):351-360.   
+301 [11]CHRISTIANSEN D C,SKARSTEIN L,KLUNGSOYR L.Uptake studies in adipocytes isolated   
+302 from rainbow trout (salmo gairdneri).A comparison with adipocytes from rat and cat[J].Comparative   
+303 Biochemistry and Physiology.A,Comparative Physiology,1985,82(1):201-205.   
+304 [12]CHRISTIANSEN D C,KLUNGSOYR L.Metabolic utilization of nutrients and the effects of
+
+insulininfish[J].ComparativeBiochemistryandPhysiology.B:Comparative Biochemistry,1987,88(3):701-711.   
+[13] CARUSO M A,SHERIDAN M A.The expresson of insulin and insulin receptor mRNAs is regulated by nutritional state and glucose in rainbow trout (Oncorhynchus mykiss)[J].General and Comparative Endocrinology,2012,175(2):321-328.   
+[14]GUTIERREZ J,PARRIZAS M,MAESTRO M A,et al.Insulin and IGF-I binding and tyrosine kinase activity in fish heart[J].Journal of Endocrinology,1995,146:35-44.   
+[15]BANOS N,MOON T W,CASTEJON C,et al.Insulin and insulin-like growth factor-I (IGF-I) binding in fish red muscle:regulation by high insulin levels[J].Regulatory Peptides,1997,68(3):181-187. [16]GREENE M W,CHEN TT.Characterization of teleost insulin receptor family   
+members:I.developmental expression of insulin receptor messenger RNAs in rainbow trout[J].General and Comparative Endocrinology,1999,115(2):254-269.   
+[17]CARUSO M A,BLAUFUSS P C,KITTILSON J D,et al.Isolation and characterization of a mRNA encoding a novel insulin receptor (IR) subtype,IR2.from rainbow trout (Oncorhynchus mykiss) and paterns of expression of the four IR subtypes,IR1-IR4,in tissues and during embryonic   
+development[J].General and Comparative Endocrinology,2010,169(3):258-268.   
+[18]PARRIZAS M,PLANAS J,PLISETSKAYA E M,et al.Insulin binding and receptor tyrosine kinase activity in skeletal muscle of carnivorous and omnivorous fish[J].The American Journal of   
+Physiology,1994,266(6):R1944-R1950.   
+[19]WILSON R P.Utilization of dietary carbohydrate byfish[J].Aquaculture,1994,124(1/2/3/4):67-80. [20]ABLETT R F,TAYLOR M J,SELIVONCHICK D P.The effect of high-protein and high-carbohydrate diets on $[ ^ { 1 2 5 } \mathrm { { I } ] }$ iodoinsulin binding in skeletal muscle plasma membranes and isolated hepatocytes of rainbow trout (Salmo gairdneri)[J].British Journal of Nutrition,1983,50(1):129-139. [21]MOMMSEN T P,PLISETSKAYA E M.Insulin in fish and agnathans:History,structure and metabolic regulation[J].Reviews in Aquatic Science,1991,4:225-259.   
+[22]MOON T W,CASTEJON C,BANOS N,et al.Insulin and IGF-I binding in isolated trout cardiomyocytes[J].General and Comparative Endocrinology,1996,103(3):264-272.   
+[23]PARRIZAS M,BANOS N,BARO J,et al.Up-regulation of insulin binding in fish skeletal muscle by high insulin levels[J].Regulatory Peptides,1994,53(3):211-222.   
+[24]PARRIZAS M,PLISETSKAYA E M,PLANAS J,et al.Abundant insulin-like growth factor-1 (IGF-1) receptor binding in fish skeletal muscle[J].General and Comparative Endocrinology,1995,98(1):16-25. [25]PLANAS J V,MENDEZ E,BANOS N,et al.Insulin and IGF-I receptors in trout adipose tissue are physiologicallyregulatedbycirculatinghormonelevels[J].TheJournalofExperimental Biology,2000,203(7):1153-1159.   
+[26]CARNEIRO N M,NAVARRO I,GUTIERREZ J,et al.Hepatic extraction of circulating insulin and glucagon in brown trout (Salmo truta fario) after glucose and arginine injection[J].Journal of Experimental Zoology,1993,267(4):416-422.   
+[27]CHAN S J,PLISETSKAYA E M,URBINATI E,et al.Expression of multiple insulin and insulin-like growth factor receptor genes in salmon gill cartilage[J].Proceedings of the National Academy of Sciences of the United States of America,1997,94(23):12446-12451.   
+[28] CHENG R S,CHANG K M,WU J L.Different temporal expressions of tilapia (Oreochromis mossambicus） insulin-like growth factor- Iand IGF binding protein-3 after growth hormone induction[J].Marine Biotechnology,2002,4(3):218-225.   
+[29]TOYOSHIMA Y,MONSON C,DUAN C M,et al.The role of insulin receptor signaling in zebrafish embryogenesis[J].Endocrinology,2008,149(12):5996-6005.   
+[30]唐伟,朱剑,武晓泓,等.胰岛素信号传导及其调节机制[J].实用糖尿病杂志,2005,1(3):43-49. [31]WRIGHT JR,Jr,O'HALI W,YANG H,et al.GLUT-4 deficiency and severe peripheral resistance to insulin in the teleost fish tilapia[J].General and Comparative Endocrinology,1998,111(1):20-27. [32]MOUNIER C,POSNER B I.Transcriptional regulation by insulin:from the receptor to the gene[J]. Canadian Journal of Physiology and Pharmacology,2006,84(7):713-724.   
+[33]LEIBUSH B,PARRIZAS M,NAVARRO I,et al.Insulin and insulin-like growth factor- I   
+receptors in fish brain[J].Regulatory Peptides,1996,61(2):155-161.   
+[34] LEGATE N J,BONEN A,MOON T W.Glucose tolerance and peripheral glucose utilization in rainbow trout (Oncorhynchus mykiss),American Eel (Anguilla rostrata),and black bullhead catfish (Ameiurus melas)[J].General and Comparative Endocrinology,2001,122(1):48-59.   
+[35]BANOS N,BARO J,CASTEJON C,et al.Influence of high-carbohydrate enriched diets on plasma insulin levels and insulin and IGF-I receptors in trout[J].Regulatory Peptides,1998,77(1/2/3):55-62. [36]李秀钧.胰岛素抵抗综合征[M].北京:人民卫生出版社,2001:25-41.   
+[37]蔡春芳,王道尊.异育银鲫对糖利用性的研究-外源胰岛素敏感性试验[J].中国水产科   
+学,1999,6(1):62-65.   
+[38]MAESTRO M A,PLANAS J V,MORIYAMA S,et al.Ovarian receptors for insulin and insulin-like growth factorI (IGF-I) and effects of IGF-I on steroid production by isolated follicular layers of the
+
+preovulatory coho salmon ovarian follicle[J].General and Comparative
+
+Expression of Insulin Receptor-1 in Different Tissues of Nile Tilapia and Its Response to Glucose
+
+Injection
+
+LIU Hanliang1 WANG Jiting1\* WAN Wenju2\* SUN Minmin1 MENG Xiaol XU Mengmeng1 (1. College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271000,
+
+China;2.Department of Basic Medicine,Taishan Medical College,Taian 271Ooo, China)
+
+Abstract: This experiment was conducted to determine the expression of insulin receptor (IR)-1 in different tissues of Nile tilapia (Oreochromis nilotica) and its response to glucose injection. A partial cDNA of $I R \mathrm { - } 1$ was cloned from muscle of Nile tilapia by real-time PCR method. The expression differences of $I R \mathrm { - } 1$ in muscle, liver and heart were compared by semi-quantitative PCR detection. A total of 160 Nile tilapia with the body weight about $\mathrm { 1 0 0 ~ g }$ were randomly allotted to 2 groups with 4 replicates per group and 2O fish per replicate. In experimental group, glucose with the dose of $3 0 ~ \mathrm { m g }$ per $\mathrm { 1 0 0 ~ g }$ body weight was injected intraperitoneally into the fish，while the fish in control group were injected with $0 . 7 \%$ sterile saline water as the same dose and method. Samples were collected and measured before injection $( 0 \mathrm { ~ h ) }$ and at 1, 3, 6 and $1 2 \mathrm { ~ h ~ }$ after injection, respectively. The plasma glucose and insulin contents were analyzed,and the relative expresson level of IR-1 mRNA in muscle,heart and liver was measured by quantitative real-time PCR detection. The results show as folows: 1）the cloned partial cDNA of IR-1 (GenBank accession No. was JN967750) was 1 979 bp,and encoded 548 amino acids.Sequence analysis showed that IR-1 of Nile tilapia had high conservation compared with other species,and had a rich tyrosine kinase characteristic sequence.2) The higher expresson level of IR-1 in muscle,heart and liver was found,the IR-1 expression level in liver and muscle was consistent, while that in heart was relatively lower. 3) The maximum plasma glucose content of experimental group was observed at $^ { \textrm { 1 h } }$ after glucose injection which was significantly higher than that of control group $( P { < } 0 . 0 5 )$ and then began to decrease and returned to normal level at $^ { 3 \mathrm { ~ h ~ } }$ after injection; the maximum plasma insulin content of experimental group was observed at $3 \mathrm { h }$ after glucose injection which was significantly higher than that of control group $( P { < } 0 . 0 5 )$ ,and then began to decrease and returned to normal level at 12 h after injection. The relative expression level of IR-1 mRNA in muscle and liver at $6 \textup { h }$ after glucose injection of experimental group was significantly higher than that of control group $( P { < } 0 . 0 5 )$ ,and then to return to normal level at $1 2 \mathrm { h }$ after injection; the relative expression level of IR-1 mRNA in heart had no significant change after glucose injection of experimental group（ $P { > } 0 . 0 5 )$ ）.The results suggest that injecting glucose can instantaneously increase the plasma glucose content of Nile tilapia,but the increase of plasma insulin content is relatively delayed compare with plasma glucose content,and the relative expression level of IR-1 in muscle and liver show a delayed increase relative to plasma insulin content, then the burden of glucose metabolism in Nile tilapia is increased. Kev words: Nile tilania (Oreochromis nilntica): glicose: insulin: insulin recentor-1

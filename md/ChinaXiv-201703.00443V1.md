@@ -1,0 +1,207 @@
+# 一种针对GM型氨压缩机的模拟方法
+
+刘东立1,2 3 3,4 甘智华1,2,5 Dietrich Marc Thummes Guenter
+
+(1.浙江大学制冷与低温研究所，杭州310027;2．浙江省制冷与低温技术重点实验室，杭州310027;3.TransMIT-Centre for Adaptive Cryotechnology and Sensors,Giessen， Germany, D-35392;4.Institute of Applied Physics,University of Giessen,Giessen,Germany,D-35392;5.国家冷冻冷藏设备质量检验中心 (河南)，民权 476800)
+
+摘要采用针阀、流量计、压力表和功率计等组件，对现有的一台商用GM 型氮压缩机进行了实验测试。通过对测得的质量流量、输入电功和进排气压力等数据的分析处理，拟合得到了以压比为自变量的吸气体积流量和烟效率的关系式，提出了确定压缩机内部容积分布的方法。吸气体积流量、烟效率和容积分布三种特性可用于计算GM型氮压缩机在不同工况下的质量流量、输入电功和进排气压力。
+
+关键词低温制冷机；氮压缩机；GM制冷机；GM型脉管制冷机；模拟，中图分类号：TB651 文献标识码：A 文章编号:0253-231X(2017)03-0459-05
+
+# A Simulation Method for GMtyPe Helium Compressors
+
+IU Dong-Li1,2 DIETRICHMarcTHUMMES Guenter3,4 GAN Zhi-Hua1,2,5
+
+(1. Institute of Refrigeration and Crygenics, Zhejiang University， Hangzhou 310027,China; 2. Key Lab. of Ref. & Cryo. Technology of Zhejiang Province， Hangzhou 310027, China; 3.TransMIT-Centre of AdaptiveCryotechnology and Sensors， Giesen D-35392, Germany; 4. Institute of ApplieqPhysics, University of Giessen， Giessen D-35392, Germany;   
+Vational Quality InspeetioDCenter of Refrigeration Equipment (Henan)， Minquan 476800, China)
+
+Abstract A commercialcompressor was measured with a setup which mainly composed of a needle valve, a mas-flow meter; two pressure gauges and a power meter. Based on the measured data of mass flow, input power, discharge and suction pressures,the relationships between suction volume flow, exergetic effciency, and pressure ratio were derived by fiting the data. Meanwhile,a method to evaluate the volume distribution inside the compressor package was proposed. With the determined characteristics of suction volume flow, exergetic eficiemey and volume distribution, the mass fow, electrical input power， discharge and suction pressures of the compressors operating in a GM-type cryocooler can be predicted at various working eonditions.
+
+Key wordscryocoolers; helium compressors;GM cryocoolers; GM-type pulse-tube cryocoolers; simulation
+
+# 0前言
+
+低温真空、小型氮液化器和低温超导等技术的迅猛发展对小型低温制冷机的需求量与日俱增。在这些行业中，得到大批量应用的低温制冷机目前仅有GM制冷机一种。与GM制冷机相比，GM型脉管制冷机具有在低温下无运动部件、结构简单、可靠性高、机械振动和电磁噪声小等突出优点[1]，在对低振动要求极高的应用场合中，可以成为GM制冷机的替代机型。GM型脉管制冷机与GM制冷机(以下统称GM型制冷机)采用相同的压缩机，冷头与压缩机之间采用高低压切换阀连接，冷头气体交变频率通常在 $1 { \sim } 3 ~ \mathrm { H z }$ 之间。相比工作频率在几十甚至上百赫兹的斯特林型制冷机，GM型制冷机能够获得较高的压比，其回热器内气体工质与回热填料之间的换热更加充分，从而更容易获得更低的制冷温度。虽然GM型制冷机已经实现了商业化应用，但其制冷效率仍有待提高[3]。
+
+目前已有较多模拟和实验工作致力于分析GM型脉管制冷机，以求提高其制冷性能。但大多数工作都集中在GM型脉管制冷机的冷头部分，例如，回热器[1,2]，脉管[3,4]和双向进气[5,6]等部件。尽管冷头的优化设计非常重要，但压缩机作为制冷机的核心部件，其性能表现对整机性能的影响是不容忽视的。
+
+Pfotenhauer[7]曾对一台压缩机进行了测试，并以此测试结果作为冷头优化设计的参考，用于确定不同质量流量下对应的冷头所能获得的高压和低压压力。但该研究中未考虑制冷机实际运行时，系统内氮气量分布随制冷温度的变化而变化的因素。
+
+由于制冷机冷头温度下降，冷头中气体密度增大，整机系统中的气体会向冷头富集。因此压缩机中所包含的气体量会随着冷头温度的降低而下降。GM型制冷机在不同温度制冷时，压缩机的工况也会发生变化，对其效率也会有较大影响。
+
+在初期的GM型脉管制冷机模拟方法探究工作中，尚未考虑压缩机的实际性能[8]。本文认为有必要对压缩机的性能进行实验测试，以便发展一种更加符合实际运行的模拟方法。以德国 LeybolaCP4000涡旋式压缩机为例，对压缩机进行实验测试，探求其流量、效率与压力工况的关系、并考虑其内部的容积分布对压缩机系统工况的影响。对这些特性的把握，能够为GM型制冷机的整机建模提供支持，使整机模拟结果更加准确可靠[9,10]。
+
+数据)时，压缩机工作状态不稳定，这与压缩机压比的设计有关。充气压力越大，相同压差下的质量流量越大，这与容积式压缩机的特性相关。吸气腔的容积对压缩机的吸气侧体积流量起决定性所用。因此，系统充气压力上升时，压缩机吸气压力上升，气体密度上升，而对吸气侧体积流量影响较小，因此质量流量也随之上升。图3为实验测得的压缩机在不同充气压力下，输入功与进排气压差之间的变化关系图。输入电功随压差呈线性增长。与质量流量类似，压缩机的输入电功也随充气压力的增加而增大。
+
+压缩机测试系统如图1所示，其中压缩机压包1，水冷器2，油分离器3和油吸附器4都集成组装于压缩机内部，压缩机吸排气口分别通过两根柔性不锈钢波纹管（以下简称波纹管）与测试组件相连。按氮气工质流动方向，测试组件依次包含高压压力表 $\mathrm { { P _ { h } } }$ (Keller LEO2)，调节阀 (Swagelok B-1KS6MM)，质量流量计(HastingsHFM-200）和低压压力表 $\mathrm { { P } _ { l } }$ (KellerLEO2)。压缩机输入功由功率计(MTEPowerManager）监测。应用此测试系统可测得压缩机质量流量、输入电功和进排气压力 (绝对压力)等数据。以上数据分别在充气压力为1.5、1.6和$1 . 7 \mathrm { M P a }$ (文中压力数值均为绝对压力)时测试，以获得压缩机在不同含气量状态下的参数。这个充气压力范围是该压缩机驱动脉管制冷机的常用充气压力范围，具有一定代表性。
+
+图2为实验测得的压缩机在不同充气压力下，输出的质量流量与进排气压差之间的变化关系。图中大部分区域压缩机的质量流量与压差呈线性关系。但当压比过小（小于2.1，对应图中偏左侧的不稳定
+
+# 1压缩机实验测试
+
+6画 版权所有 氮压缩机 低压 高压 不锈钢 不锈钢 软管 软管 P Pn 调节阀 IV4 质量流量计
+
+1、压缩机压包；2、水冷器；3、油分离器；4、油吸附器
+
+![](images/05bf01d44127aa5ff5232a8759603c172e2d2296524df42dcf97ae95afe7f783.jpg)  
+图1压缩机测试实验台  
+Fig.1 Measurement setup for compressors   
+图2质量流量与压差的关系 Fig.2Mass flow vs pressure difference
+
+由测试结果可知，质量流量、输入功的变化与压缩机的充气压力有关。而如前文所述，压缩机内的含气量在制冷机运行时会发生变化。若直接以质量流量或输入功为模拟对象，在制冷机整机模拟中难以体现压缩机含气量变化所带来的影响。因此需要对实验测得数据进行分析转化，以期获得与充气压力无关的关系式。此外，压缩机高低压两侧容积分布会对进排气压力随压差的变化关系产生影响，继而对制冷机系统在不同制冷温度下系统内部气体质量分布产生影响。因此，确定压缩机内部的容积分布对建立整机模型也非常重要。
+
+![](images/f328a00f865d6e60a99f8cb0561eb7e0329e54a839f73f11b0b95e0c2bdf265b.jpg)  
+图3输入电功与压差的关系  
+Fig.3 Input electrical power vs pressurediference
+
+《工程热
+
+# 2吸气体积流量
+
+容积式压缩机的吸气体积流量主要由压缩机的吸气容积决定。然而实际压缩机吸气和压缩过程存在较多因素，如压力损失、气体升温、压缩腔间泄漏和余隙容积等，会导致吸气体积流量随压比的上升而减小[11]。将压缩机的吸气体积流量与压比的关系作为研究对象，假设吸气温度均为 $3 0 0 \mathrm { K }$ ，由相应的吸气压力与氮气物性可计算得到氮气的密度吸气体积流量可由质量流量除以吸气气体密度计算而得，计算结果如图4所示。由图可知，在压缩机稳定工作情况下 (对应压比大于2.1)，吸气体积流量与压比的关系几乎与充气压力无关，吸气体积流量随压比的上升而略有下降。若采用线性拟合，可得吸气体积流量与压比的关系式如下：
+
+$$
+\dot { V } _ { \mathrm { l } } = 0 . 0 0 2 8 0 - 0 . 0 0 0 1 1 P _ { \mathrm { r } }
+$$
+
+其中， $\dot { V _ { \mathrm { l } } }$ 为吸气体积流量，单位为 $\mathrm { m ^ { 3 } / s }$ $P _ { \mathrm { r } }$ 为压比。拟合结果如图4实线所示，适用压比范围为 $2 . 1 { \sim } 3 . 3 \$ 0
+
+在整机模型中，压缩机模型将根据冷头和旋转阀的阻抗，完成流量与压比的调节，以满足吸气体积流量与压比的关系式，例如式 (1)，从而使制冷机系统模拟得到的流量和压力参数符合实际工况。
+
+![](images/1d4b957c7613e3d5a7dc750180fd48d76fde4a5e1f5f4b3dbaf825765790132f.jpg)  
+图4吸气体积流量与压比的关系 Fig.4 Suction volume flow vs pressure ratio
+
+# 3烟效率
+
+CQP是制冷机的重要性能指标，若要模拟制冷机在不同工况下的COP，则需先模拟压缩机在不同工况下的效率。实验中发现压缩机进排气温度与室温几乎相同。根据热力学第一和第二定律，压缩机输出的烟[12]可定义为
+
+$$
+\Delta \dot { E } = \dot { m } \left( \dot { E } _ { \mathrm { h } } - \dot { E } _ { \mathrm { l } } \right)
+$$
+
+其中
+
+$$
+\begin{array} { c } { \dot { E } _ { \mathrm { h } } = h \left( p _ { \mathrm { h } } , T _ { \mathrm { h } } \right) - T _ { 0 } s \left( p _ { \mathrm { h } } , T _ { \mathrm { h } } \right) } \\ { \dot { \mathfrak { C } } _ { \mathrm { v } } ^ { \mathrm { e } } = h \left( p _ { \mathrm { l } } , T _ { \mathrm { l } } \right) - T _ { 0 } s \left( p _ { \mathrm { l } } , T _ { \mathrm { l } } \right) } \end{array}
+$$
+
+m为质量流量， $h \left( p , T \right)$ 为压力 $p$ 和温度 $T$ 对应的氮气的焓值， $s \left( p , T \right)$ 为对应的氮气的熵值。下标 $\mathrm { ~ h ~ }$ 表示高压 (压缩机排气压力)，1表示低压 (压缩机吸气压力)，0表示环境状态。烟效率可表示为
+
+$$
+\eta _ { \mathrm { e x } } = \Delta \dot { E } \Big / \dot { W } _ { \mathrm { e } }
+$$
+
+其中 $\dot { W } _ { \mathrm { e } }$ 为电功。
+
+获得 $\Delta \dot { E }$ 所需要的等温压缩功应与之相同，即
+
+$$
+\dot { W } _ { \mathrm { i t } } = \Delta \dot { E }
+$$
+
+若将氮气视为理想气体，通过热力学推导可得
+
+$$
+\dot { W } _ { \mathrm { i t , i } } = \frac { \dot { m } R T _ { \mathrm { l } } } { M } \ln { \left( \frac { p _ { \mathrm { h } } } { p _ { \mathrm { l } } } \right) }
+$$
+
+由此可知，烟效率应与压比相关。根据实际气体性质计算得到的烟效率与压比的关系如图5所示，可见在稳定工作区间 (对应压比大于2.1)，其效率与吸气体积流量类似，与压比相关而与充气压力无关。
+
+该压缩机的烟效率在稳定工况下基本维持在 $4 4 . 5 \%$ $4 6 . 5 \%$ 之间，较为稳定，可通过线性拟合获得稳定工作区域该压缩机的效率与压比的关系式
+
+$$
+\eta _ { e x } = 0 . 4 8 5 8 1 - 0 . 0 0 8 5 1 P _ { \mathrm { r } }
+$$
+
+拟合结果如图5实线所示，适用压比范围为 $2 . 1 { \sim } 3 . 3 \$ 。由此可在制冷机整机模型中根据式（1）确定的流量和压力，通过式(2)计算得到的烟，再通过式(5)和式（8）来估算压缩机所需的输入电功，最后用整机模型计算得到的制冷量除以该输入电功即可得到制冷机的 COP。
+
+另外从图5中也可以看出，提高氮压缩机烟效率依旧是大有可为的一项长期而艰巨的任务。
+
+![](images/1bd73ea01e2ab6383cb84ef8d18a9bf2ec386e8e1af6fc838afd11de9235c147.jpg)  
+图5烟效率与压比的关系 Fig.5 Exergetic efficiency vs pressure ratio
+
+# 4 容积分布
+
+对于CP4000这类压缩机，其含有压包、水冷换热器、油分离器和吸附器等部件，这些部件都具有一定量的不可忽略的容积，但难以查明其具体数值。因此本文把这些容积简化成为两部分，即高压容积和低压容积，通过对压力参数的分析来确定压缩机内的容积分布。
+
+压缩机的总容积可通过向压缩机充注一定量的气体工质，根据充注前后的压力变化计算得到，CP4000的总容积为 $9 . 2 8 \mathrm { ~ L ~ }$ 。为简化分析，本文做出如下假设，
+
+1)氮气工质为理想气体;
+
+2)高低压容积各自内部压力和温度都是均匀的，且温度与室温相同；
+
+3）忽略压缩腔容积。
+
+根据理想气体状态方程可得
+
+$$
+p _ { \mathrm { h } } V _ { \mathrm { h } } = n _ { \mathrm { h } } R T _ { 0 }
+$$
+
+$$
+p _ { 1 } V _ { 1 } = n _ { 1 } R T _ { 0 }
+$$
+
+$$
+p _ { \mathrm { f } } \left( V _ { \mathrm { h } } + V _ { \mathrm { l } } \right) = \left( n _ { \mathrm { h } } + n _ { \mathrm { l } } \right) R T _ { 0 }
+$$
+
+其中， $V$ 为气体体积， $n$ 为分子量， $R$ 为气体常量，下标f表示与环境温度相同的充气状态。联立式 $( 9 ) { \sim } ( 1 1 )$ ，将高低压力表达为压差的表达式，可得
+
+$$
+p _ { \mathrm { h } } = \frac { V _ { \mathrm { l } } } { V _ { \mathrm { h } } + V _ { \mathrm { l } } } \Delta p + p _ { \mathrm { f } }
+$$
+
+$$
+p _ { \mathrm { l } } = - \frac { V _ { \mathrm { h } } } { V _ { \mathrm { h } } + V _ { \mathrm { l } } } \Delta p + p _ { \mathrm { f } }
+$$
+
+$$
+\Delta p = p _ { \mathrm { h } } - p _ { \mathrm { l } }
+$$
+
+由此可知，高低压力与压差呈线性关系，与图6中实验数据 (点)表现相吻合。若对图6中实验数据进行线性拟合，可得斜率及截距结果表1所示
+
+表1中截距和斜率等数据略有偏差，这与压缩机内部升温有关，充气压力越高，偏差会有所上升。但偏差较小，本文认为可以采用取平均值的方法来确定斜率，并根据斜率在式（12）中的表达式计算压缩机内的容积分布。测试系统中， $V _ { \mathrm { h } }$ 和 $V _ { 1 }$ 各自包含了波纹管的容积，波纹管可近似作为长 $1 0 \mathrm { ~ m ~ }$ ，直径$0 . 0 2 \mathrm { ~ m ~ }$ 的光滑直管。由此计算可得，压缩机内部高压侧容积为4.117L，低压侧容积为 $5 . 1 6 3 \mathrm { L }$ 。
+
+![](images/672b6348f3c2f7a60bc2920e9565a18f3a04462b60fd43c4075ff254275cd532.jpg)  
+图6压力测试与模拟值  
+Fig.6 Measurement and simulation of the pressures
+
+对压缩机测试系统在Sage软件中建立模型，如图7所示。该模型忽略了管径较小的连接管和流量计的影响。压缩机、高压侧容积、高压波纹管、调节阀、低压波纹管和低压侧容积依次连接形成环路。压缩机流量、各部分参数等均按已测定的参数输入。调节阀的开度改变能产生不同的压差，当压差与实验值相同时，所得高压压力和低压压力模拟结果如图6所示，实验与模拟值完全吻合。由此可得，该压缩机的高压容积和低压容积的估算方法足够准确。
+
+# 表1压力线性拟合结果
+
+Table 1 Linear fitting results of pressures   
+
+<html><body><table><tr><td>pf/MPa</td><td>Intercept ph/MPa</td><td>Slope ph</td><td>Intercept p1/MPa</td><td>Slope p1</td></tr><tr><td>1.602</td><td>1.735</td><td>0.524</td><td>1.735</td><td>-0.476</td></tr><tr><td>1.604</td><td>1.618</td><td>0.535</td><td>1.618</td><td>-0.465</td></tr><tr><td>1.504</td><td>1.517</td><td>0.542</td><td>1.517</td><td>-0.458</td></tr></table></body></html>
+
+![](images/264b19aa71e2fd640dc0f54b611a7d04ef3cd4adaaa11c95ec8918595f07b643.jpg)  
+图7压缩机测试系统Sage模型
+
+Fig.7 Sage model of the compressor measurement setup
+
+# 5结论
+
+本文对德国Leybold的CP4000 氮压缩机进行了实验测试，根据测得的数据分析有以下主要结论： X
+
+1）该压缩机可以被简化为吸气体积流量、烟效率和其内部高低压力容积分布三个主要特性组合而成的模型;  
+2)给出了吸气体积流量和烟效率与压比之间的拟合关系式，这两个关系式不受压缩机内含气量的影响；  
+3）压缩机内容积分布对系统的压力工况有较大影响，本文提出了容积分布的估算方法并得到验证。
+
+本文所提出的方法同样适合用于其它压缩机。在该压缩机的模型基础上，可对GM型制冷机进行整机模拟，所得结果将更能反映制冷机的实际性能。
+
+同时，与普冷压缩机相比，氮压缩机效率的提高还有相当大的空间，值得深入研究。
+
+# 参考文献
+
+[1]GAN Zhihua,DONG Wenqing，QIU Liming,et al．A Single-Stage GM-type Pulse Tube Cryocooler Operating at 10.6K[J].Cryogenics,2009,49(5):198-201   
+[2]JU Yonglin,de Waele A TA M.A Computational Model for Two-Stage 4K-pulse Tube Cooler: Part I.TheoreticalModelandNumerical Method[J].Journal of Thermal Science,2001,10(4):342-347 [3] ZHANG Xiaobin,QIU Liming,GAN Zhihua,et al.CFD Study ofa Simple Orifice Pulse Tube Cooler[J].Cryogenics,2007，47(5-6):315-321   
+[4] Liang W,de Waele A T A M.A New Type of Streaming in Pulse Tubes [J].Cryogenics,2007,47(9-10):468-473   
+[5] WANG Chao,Thummes G,Heiden C.Control of DC Gas Flow in a Single-Stage Double-Inlet Pulse Tube Cooler[J]. Cryogenics, 1998(38(8): 843-847   
+[6] ZHU Shaowei, Nogawa M, Inoue T. Analysis of DC Gas Flow in GMType Double Inlet Pulse Tube Refrigerators [J]. Cryogenics, 2009, 49(2): 66-71   
+[7] Pfotenhauer J M, Baik JH. Compressor-Specific Design of Ca Single Stage Pulse Tube Refrigerator [C]//Cryocoolers 11．Keystone,Colorado:Kluwer Academic Publishers, 2002:249-257   
+[8]刘东立，甘智华．单级G-M 型小孔脉管制冷机 Sage 建模 [J].低温工程,2015(05):8-12 LIU Dongli,GAN Zhihua. Simulation of a Single Stage Orifice G-M Type Pulse Tube Cryocooler Based on Sage [J].Cryogenics(in Chinese),2015(05):8-12 [9] LIU Dongli,Dietrich M,Thummes G,et al．Numerical Simulation of a GM-type Pulse Tube Cryocooler System: Part II.Rotary Valve and Cold Head [J].Cryogenics,2017, 81:100-106   
+[10]LIU Dongli,Dietrich M,Thummes G,et al.Numerical Simulation of a GM-type Pulse Tube Cryocooler System: Part I.Characterization of Compressors [J].Cryogenics, 2017,81:8-13   
+[11]Rasmussen B D，Jakobsen A.Review of Compressor Models and Performance Characterizing Variables [C]//Proceedings of 20oo International Compressor Engineering Conference.200o:515-522   
+[12]Klein S,Nellis G.Thermodynamics [M].New York:Cambridge University Press,2012

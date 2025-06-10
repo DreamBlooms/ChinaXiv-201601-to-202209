@@ -1,0 +1,135 @@
+# 土壤因子与华重楼生物量和药效成分含量相关性分析
+
+夏科1，赵志国1，吴巧芬1，李秀娟1，郑文俊²，仇硕1,2\*（1.广西壮族自治区中国科学院广西植物研究所，广西植物功能物质研究与利用重点实验室，广西 桂林541006；2.桂林理工大学 旅游与风景园林学院，广西 桂林541006)
+
+摘要：为了研究土壤因子对华重楼生长和药效成分积累的影响，为人工栽培种植提供理论依据，该文测定了华重楼不同产地土壤成分、样品的生物量和重楼皂苷的含量，分析了土壤因子与华重楼生物量和药效成分的相关性。结果表明：（1）不同产地土壤成分和华重楼产量及其重楼皂苷含量均有差异；（2）相关性分析显示，干重与有机质、全氮、碱解氮显著正相关，重楼皂苷I与有机质和速效磷显著正相关，重楼皂苷Ⅱ与速效磷和速效钾显著正相关，而重楼皂苷VII与土壤各因子的相关性不显著；（3）多元线性回归分析显示，影响干重的主导因子为碱解氮，影响重楼皂苷I的主导因子为有机质，影响重楼皂苷II的主导因子为速效磷，而重楼皂苷ⅡI与碱解氮呈线性负相关。综合分析认为，影响华重楼干重的土壤因子主要是碱解氮，而影响华重楼皂苷含量的土壤因子主要为有机质和速效磷。
+
+关键词：华重楼，土壤因子，产量，重楼皂苷，相关性分析中图分类号：Q945;R284.1 文献标识码：A
+
+# Analysis on correlation between soil factor and the growth and medicinal component of Paris polyphylla var.
+
+# chinensis
+
+XIA $\mathsf { K e } ^ { 1 }$ , ZHAO Zhiguol, WU Qiaofen1,LI Xiujuan1, ZHENG Wenjun², QIU Shuo1.2\* (1.Guangxi Institute of Botany,Guangxi Zhuang Autonomous Region and Chinese AcademyofSciences,Guangxi KeyLaboratoryofFunctional Phytochemicals Research and Utilization,Guilin 541oo6,Guangxi,China; 2. College ofTourism&LandscapeArchitecture,Guilin UniversityofTechnology,Guilin 5410o6,Guangxi,China) Abstract: Inorder to study the effect of soil factors on the the growth and medicinal component of Paris polyphylla var. chinensis,and to provide a support for the artificial cultivation,the biomass and the polyphyllins content of different samples from different origins were determined,and soil composition was measured. Then the correlation between soil factors and the growth ， and medicinal component were analyzed. The results were as follows: (1)There were differences in soil composition in different place,while the yield and polyphyllins content in samples in different place were quite different; (2)Correlation analysis showed that the dry weight was significantly positively correlated with organic matter, total nitrogen,and alkaline nitrogen, the polyphyllin I content was significantly positively related with organic matter and available phosphorus, the polyphyllin II content was significantly positively correlated with available phosphorus and available potassium; (3)Multiple linear regression analysis showed that the dry weight was dominantly affected by alkaline nitrogen,the polyphyllin I was dominantly affected by organic matter，the polyphyllins II was dominantly afected by available phosphorus,and was linear negatively correlated with alkaline nitrogen. In summary, the main soil factors affecting dry weight was alkaline nitrogen, the main soil factors affecting the polyphylin total content was organic matter and available phosphorus.
+
+Keywords: Paris polyphylla var. chinensis, soil factor, yield, polyphylins, correlation analysis
+
+华重楼（Paris polyphylla var.chinensis）为百合科（Liliaceae）重楼属(ParisL.)多年生草本植物，主要分布于云南、贵州、广西以及四川等地，为七叶一枝花变种之一（中国植物志，1978），华重楼与云南重楼为《中国药典》收入的2个重楼属基源植物。华重楼以根茎入药，具有清热解毒、消肿止痛、凉肝定惊之功效，也是云南白药等多种中成药的主要原料（中华人民共和国药典，2020）。现代化学和药理研究表明，华重楼中主要活性成分为重楼皂苷，临床上常用于抗肿瘤、抗菌、止血、镇痛等（刘帅等，2020）。
+
+药用植物的药效成分及其含量是衡量中药质量的重要指标。药效成分多为次级代谢产物，既受自身遗传因素的影响，也受生长环境因素的影响（吴庆生等，2002；卜静等，2012；任平等，2019）。重楼属植物主要药效成分为重楼皂苷，其含量的积累受土壤水分（梁娟等，2014）、环境温度（梁娟等，2016）、光质（李铂等，2019）以及土壤肥力（郑梅霞等，2020）等因素的影响较大，而受经纬度和海拔高低的影响较小。刘哲等（2019）报道了氮、磷、钾配施有利于提高华重楼块茎生物量及总皂苷含量，还发现速效磷和速效钾是影响皂苷含量的主要土壤因子（刘哲等，2020）。近年来，华重楼的人工种植越来越多，各种林下套种、遮阴种植、露天种植均有进行，然而产量和质量差别较大，如皂苷总含量有的高达 $5 . 0 8 \%$ ，有的则达不到《中国药典》规定标准 $0 . 6 \%$ ，甚至某种成分含量很低或者检测不到（刘哲等，2020）。造成这种现象的原因至今未见报道，鉴于此，有关土壤因子等对重楼属植物特别是华重楼和滇重楼的生长及药效成分积累的影响仍需要更多分析。本研究收集广西、湖南等地不同种植环境的华重楼及生长地土壤，调查样品的生长势，测定鲜重和干重；提取重楼皂苷成分并利用高效液相色谱技术（HPLC）检测重楼皂苷I、II、VII含量；同时检测土壤pH、有机质、全氮、全磷、全钾、碱解氮、速效磷及速效钾含量；采用相关性和多元线性回归法分析土壤因子与干重和重楼皂苷含量之间的相关性，进而分析土壤因子对华重楼干重和重楼皂苷含量的影响，结果将为华重楼的人工栽培提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+华重楼的种植地位置及种植方式如下。S1：广西资源两水乡、落叶阔叶林；S2：广西资源瓜里乡、杉木林；S3：广西资源瓜里乡、毛竹林；S4：广西资源梅溪镇、 $7 5 \%$ 的遮阳网；S5：湖南新宁崑山镇、落叶阔叶林；S6：广西那坡龙合乡、落叶阔叶林；S7：广西融水杆洞乡、露地栽培。种植地均为海拔 $6 0 0 { \sim } 1 ~ 3 0 0 ~ \mathrm { m }$ 的高海拔山区，除 S4和 S7外，其余种植地林下郁闭度均在0.7以上。种苗均为根茎分株繁殖苗，种植时间为4a，每个种植地的管理基本保持一致。
+
+# 1.2样品采收及指标测定
+
+每年观察植株长势情况，于种植后第4年的10月份，采用等距取样法采挖根茎，每个种植地选择3个采样点，每个采样点面积为 $1 \mathrm { m } \times 2 \mathrm { m }$ ，每个采样点随机采挖9株，洗净，去根，称取鲜重烘箱烘干至恒重，称干重，并分别检测重楼皂苷I、重楼皂苷ⅡI及重楼皂苷VII
+
+的含量，再计算出三种皂苷的总和，同时分别采挖种植地土壤，进行土壤营养成分分析。
+
+# 1.3重楼皂苷的提取及检测方法
+
+重楼皂苷提取参照2020 年版《中国药典》的提取方法（中华人民共和国药典，2020），取干粉末过三号筛，精密称定 $0 . 5 \ \mathrm { g }$ ，置于具塞锥形瓶中，加入乙醇 $2 5 ~ \mathrm { m L }$ ，称定重量，加热回流 $3 0 \mathrm { m i n }$ 后，放冷，再称定重量，用乙醇补足减失的重量，摇匀，滤过，取续滤液进行 HPLC 检测重楼皂苷I、II、VII成分。高效液相检测方法具体如下：
+
+对照品溶液配制：对照品均由成都恩斯特生物技术有限公司提供，精密称取重楼皂苷I、II、VII各对照品适量，分别加甲醇溶解，配制成含重楼皂苷I $0 . 5 6 3 ~ \mathrm { { m g } { \cdot m L ^ { - 1 } } }$ 、重楼皂苷ⅡI0.506$\mathrm { { m g } { \cdot } \mathrm { { m L } ^ { - 1 } } }$ 、重楼皂苷 $\mathrm { { V I I } 0 . 5 0 7 \ m g { \cdot } m L ^ { - 1 } }$ 的混合对照品溶液。
+
+色谱条件（Wuet al.,2012）：流动相乙腈(A)-水(B)，梯度洗脱( $( 0 { \sim } 4 0 \ \operatorname* { m i n }$ ， $30 \% { \sim } 6 0 \%$ A；$4 0 { \sim } 4 5 ~ \mathrm { m i n }$ ， $6 0 \% { \sim } 9 0 \%$ A； $4 5 { \sim } 5 5 \ \mathrm { m i n }$ ， $90 \%$ A； $5 5 { \sim } 5 6 ~ \mathrm { m i n }$ ， $9 0 \% { \sim } 3 0 \% \mathrm { A }$ ; $5 6 { \sim } 6 4 ~ \mathrm { m i n }$ ， $30 \% \Delta$ 1)；检测波长 $2 0 3 \mathrm { n m }$ ；体积流量 $1 . 0 \mathrm { m L } \cdot \mathrm { m i n } ^ { - 1 }$ ；柱温 $3 5 ~ ^ { \circ } \mathrm { C }$ ；进样量 $1 0 ~ \mu \mathrm { L }$ 。
+
+# 1.4土壤成分检测
+
+土壤 $\mathfrak { p H }$ 值、有机质、全氮、全磷、全钾、碱解氮、速效磷、速效钾含量分别按照林业标准（LY/T 1239-1999; LY/T 1237-1999; LY/T 1228-2015; LY/T 1232-2015; LY/T 1234-2015;LY/T1228-2015；LY/T2445-2015；LY/T2445-2015）进行测定，根据全自动间断化学分析仪（Dechem-TechCleverChem380）分析结果进行统计，每个样品进行3次重复。
+
+# 1.5数据分析
+
+重楼皂苷含量根据外标一点法进行计算，皂苷含量 $( \% ) \ = \ ( A _ { 1 } { \times } C { \times } V { \times } 1 0 0 )$ /（ $. A _ { 2 } \times$ $W \times 1 0 0 0 \rangle$ ），式中： $\scriptstyle A _ { 1 }$ 为样品峰面积； $\mathbf { \nabla } _ { A _ { 2 } }$ 为对照品峰面积； $C$ 为对照品浓度； $V$ 为稀释倍数；W为样品称样量;统计数据使用Excel和SPSS19.0软件处理；品种的聚类分析使用 SPSS19.0软件进行分析；皂苷成分与土壤等相关性分析和多元线性回归法分析使用SPSS19.0软件进行分析。
+
+# 2结果与分析
+
+# 2.1不同种植地土壤条件及华重楼生长情况比较
+
+不同种植地土壤特性及华重楼生长情况见表1和表2。由表1可知，7个样本的pH为$4 . 7 3 \sim 6 . 4 8$ 之间，均为酸性土壤，瓜里乡、崑山镇、龙合乡生长地的有机质含量较丰富，瓜里乡杉木林、梅溪镇、崑山镇、龙合乡土壤全氮含量较丰富，梅溪镇和崑山镇全磷含量较丰富，除两水乡和杆洞乡外，其余种植地碱解氮较丰富含量，梅溪镇速效磷含量较丰富，崑山镇速效钾含量较丰富。由表2看出，S2和 S6鲜重较大，分别为 $ { 1 6 7 . 4 5 \mathrm { g } }$ 和 $\mathrm { 1 7 8 . 4 5 g }$ ，差异不大，但两者的干重分别为 $5 2 . 3 3 \mathrm { g }$ 和 $6 3 . 7 3 \ \mathrm { g }$ ，差异较大（ $( P { < } 0 . 0 5 )$ ），说明 S2 鲜货的含水量比S6高，且S6干重显著高出其他种植地样品 $1 . 2 { \sim } 8 . 6$ 倍；露地种植的S7产量最低，干重仅为 $7 . 4 0 ~ \mathrm { g }$ ，远低于其余样品（ $P { < } 0 . 0 5 )$ ）；同一地区不同生长环境的2个样品，干重存在差异，S2是S3的1.94倍。从表2中还可看出，林下栽培或遮阳种植的样品生长较好，植株比较健壮，而露地种植的样品不仅产量比较低，长势也较差，植株比较弱小，说明光照强度也会影响其生长。
+
+表1土壤特性分析  
+Table1 Analysis of soil characteristics   
+
+<html><body><table><tr><td>编号 No.</td><td>土壤源 Sources of soil</td><td>pH</td><td>有机质 Organic matter （g·kg-1）</td><td>全氮 Total nitrogen （g·kg-1)</td><td>全磷 Total phosphorus （g·kg-1）</td><td>全钾 Total potassium （g·kg1）</td><td>碱解氮 Alkaline nitrogen （mg·kg-1）</td><td>速效磷 Available phosphorus （mg*kg-1）</td><td>速效钾 Available potassium （mg*kg-1）</td></tr><tr><td>S1</td><td>两水阔叶林 Broad-leaf forest in Liangshui</td><td>5.38</td><td>34.9</td><td>1.17</td><td>0.69</td><td>4.82</td><td>113</td><td>11.8</td><td>73.0</td></tr><tr><td>S2</td><td>瓜里杉木林</td><td>6.27</td><td>49.9</td><td>2.06</td><td>0.81</td><td>51.60</td><td>208</td><td>28.5</td><td>99.6</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="10">Cunninghamia lanceolata forest</td></tr><tr><td>S3</td><td>in Guali 瓜里竹林 Bamboo forest in Guali</td><td>4.76</td><td>40.6</td><td>1.42</td><td>0.48</td><td>42.60</td><td>173</td><td>25.8</td><td>83.2</td></tr><tr><td>S4</td><td>梅溪荫棚 Under the shed in Meixi</td><td>5.92</td><td>27.2</td><td>3.56</td><td>1.72</td><td>30.60</td><td>178</td><td>44.3</td><td>69.7</td></tr><tr><td>S5</td><td>崑山阔叶林 Broad-leaf forest in Langshan</td><td>6.48</td><td>58.3</td><td>3.05</td><td>1.84</td><td>34.00</td><td>198</td><td>42.7</td><td>192.3</td></tr><tr><td>S6</td><td>龙合阔叶林 Broad-leaf forest</td><td>4.73</td><td>48.4</td><td>5.04</td><td>1.02</td><td>19.80</td><td>229</td><td>29.9</td><td>102.7</td></tr><tr><td>S7</td><td>in Longhe 杆洞露天 Field in Gandong</td><td>6.40</td><td>13.21</td><td>1.63</td><td>1.32</td><td>43.40</td><td>132</td><td>10.4</td><td>53.6</td></tr></table></body></html>
+
+表2不同地样品生物量及长势  
+Table 2 Biomass and growth of samples from different region:   
+
+<html><body><table><tr><td>编号 No.</td><td>种植地 Cultivation regions</td><td>海拔 Altitude （m）</td><td>鲜重 Fresh weight （g）</td><td>干重 Dry weight （g）</td><td>种植环境 Cultivation environment</td><td>长势情况 Growing</td></tr><tr><td>S1</td><td>广西资源两水 Liangshui, Ziyuan, Guangxi</td><td>894</td><td>165.44±9.87d</td><td>41.11±0.43c</td><td>林下栽培 Understory</td><td>situation 健壮 Strong</td></tr><tr><td>S2</td><td>广西资源瓜里 Guali, Ziyuan, Guangxi</td><td>615</td><td>167.45±19.23ab</td><td>52.33±6.01b</td><td>林下栽培 Understory</td><td>健壮 Strong</td></tr><tr><td>S3</td><td>广西资源瓜里 Guali, Ziyuan, Guangxi</td><td>615</td><td>143.75±18.58bc</td><td>27.44±2.95bc</td><td>林下栽培 Understory</td><td>健壮 Strong</td></tr><tr><td>S4</td><td>广西资源梅溪 Meixi, Ziyuan, Guangxi</td><td>961</td><td>137.17±18.57c</td><td>41.57±2.69c</td><td>遮阳栽培 Sun shade</td><td>健壮 Strong</td></tr><tr><td>S5</td><td>湖南新宁崑山 Langshan, Xinning, Hunan</td><td>601</td><td>137.35±28.69c</td><td>45.78±4.52bc</td><td>林下栽培 Understory</td><td>健壮 Strong</td></tr><tr><td>S6</td><td>广西那坡龙合 Longhe, Napo, Guangxi</td><td>1260</td><td>178.45±10.67a</td><td>63.73±2.32a</td><td>林下栽培 Understory 露地栽培</td><td>健壮 Strong</td></tr><tr><td>S7</td><td>广西融水杆洞 Gandong, Rongshui, Guangxi</td><td>664</td><td>24.43±4.52e</td><td>7.40±1.37e</td><td>Exposed</td><td>弱小 Weak</td></tr></table></body></html>
+
+注：不同小写字母表示显著差异 $\scriptstyle \overbrace { P < 0 . 0 5 ) }$ ； $\scriptstyle n = 3$ 。下同。Note:Different lowercase letters indicate significant differences $( P { < } 0 . 0 5 )$ ： $\scriptstyle n = 3$ .The same below.
+
+# 2.2不同种植地对重楼皂苷I、II、VI含量的影响
+
+样品及混合对照品的离子色谱图见图1，根据各组分的峰面积计算出样品中3种重楼皂苷含量，皂苷含量统计见表3。由表3可知，不同的生长地根茎重楼皂苷I、重楼皂苷ⅡI、重楼皂苷VII以及三种皂苷的总含量均有有差异。从三种皂苷总量看，S2含量最高，达 $1 . 7 7 3 \%$ 与其他样品差异显著（ $\lceil P { < } 0 . 0 5 \rangle$ ），而 S1、S3、S6、S5含量也较高，其中 S5和 S6含量也超过 $1 . 0 0 \%$ ，S1和S3含量分别为 $0 . 8 8 6 \%$ 和 $0 . 9 2 7 \%$ ，均超过《中国药典》规定 $0 . 6 \%$ 的限量标准，而S4和S7含量较低，分别为 $0 . 5 3 6 \%$ 和 $0 . 5 2 0 \%$ ，均未达标。S6和 S5的重楼皂苷I含量较高，分别为 $0 . 6 5 0 \%$ 和 $0 . 5 4 7 \%$ ，高于其他5个样品的重楼皂苷I，而S7未检测到该成分；S5重楼皂苷II含量最高，达到 $0 . 3 8 6 \%$ ，其次是S6的样品，含量为 $0 . 2 4 5 \%$ ，而其他5个样品的重楼皂苷Ⅱ含量不足 $0 . 2 \%$ ；S2 重楼皂苷VII含量最高，达到 $1 . 3 8 7 \%$ ，与其他6个样品差异显著（ $\cdot < 0 . 0 5$ ），而其他6个样品的重楼皂苷VI含量不足 $0 . 5 \%$ 。
+
+![](images/d3fdbee0a72b77e9f5f8bee99814ea5fc4d92e09eb5c2acda665165e3d284705.jpg)  
+图1样品HPLC色谱图
+
+A.空白对照；B.混合对照品；C.样品；1.重楼皂苷VII；2.重楼皂苷II；3.重楼皂苷I。   
+A. Blank control; B.Reference substances; C.Sample; 1. Polyphylin VII; 2.Polyphyllin II; 3.Polyphylin I.
+
+Fig.1 HPLC chromatograms of samples表3华重楼重楼皂苷含量  
+Table 3 The contents of polyphyllins from Paris polyphylla var.chinensis   
+
+<html><body><table><tr><td rowspan="2">编号 No.</td><td colspan="4">重楼皂苷含量 The contents of polyphyllin（%）</td></tr><tr><td>重楼皂苷I Polyphyllin I</td><td>重楼皂苷Ⅱ Polyphyllin II</td><td>重楼皂苷VII PolyphyllinVII</td><td>皂苷总量 Total polyphyllin</td></tr><tr><td>S1</td><td>0.412±0.041bc</td><td>0.181±0.051b</td><td>0.293±0.096b</td><td>0.886±0.162b</td></tr><tr><td>S2</td><td>0.281±0.071c</td><td>0.105±0.020b</td><td>1.387±0.162a</td><td>1.773±0.230a</td></tr><tr><td>S3</td><td>0.381±0.071c</td><td>0.116±0.074b</td><td>0.464±0.097b</td><td>0.927±0.085b</td></tr><tr><td>S4</td><td>0.146±0.051c</td><td>0.097±0.037b</td><td>0.138±0.024b</td><td>0.536±0.109c</td></tr><tr><td>S5</td><td>0.547±0.077ab</td><td>0.386±0.034a</td><td>0.113±0.025b</td><td>1.047±0.055b</td></tr><tr><td>S6</td><td>0.650±0.177a</td><td>0.245±0.051ab</td><td>0.211±0.037b</td><td>1.107±0.160b</td></tr><tr><td>S7</td><td>二</td><td>0.151±0.038c</td><td>0.336±0.058b</td><td>0.520±0.085c</td></tr></table></body></html>
+
+注：一代表未检测出成分。
+
+Note:— indicate no ingredients detected.
+
+# 2.3土壤因子与华重楼干重和皂苷含量之间的相关性分析
+
+将华重楼干重、皂苷I、II、VII、土壤pH、有机质、全氮、全磷、全钾、碱解氮、速效磷、速效钾含量进行相关性分析，结果见表4。由表4可知，干重与碱解氮、全氮及有机质显著正相关，而与土壤 $\mathsf { p H }$ 和全钾呈负相关；此外，干重与重楼皂苷I显著性正相关，而与重楼皂苷VII呈负相关。重楼皂苷I与有机质和速效磷呈显著性正相关，其次是速效钾，而与 $\mathfrak { p H }$ 、全磷和全钾呈负相关。重楼皂苷Ⅱ与速效磷和速效钾显著性正相关，而与全钾和碱解氮呈负相关。重楼皂苷VII与全钾相关性最高，其次是碱解氮、有机质和土壤pH，与全氮、全磷、速效磷、速效钾呈负相关。
+
+以干重 $( Y _ { 1 }$ ）、重楼皂苷I(Y2)、重楼皂苷ⅡI( $\left( Y _ { 3 } \right)$ 及重楼皂苷VII $\cdot Y _ { 4 } )$ 等反应根茎质量的指标为因变量，以 $\mathfrak { p H } \left( X _ { 1 } \right)$ 、有机质 $( X _ { 2 } )$ 、全氮 $( X _ { 3 } )$ 、全磷 $( X _ { 4 } )$ 、全钾 $( X _ { 5 } )$ 、碱解氮 $( X _ { 6 } )$ 、速效磷 $( X _ { 7 } )$ 和速效钾 $( X _ { 8 } )$ 等反应土壤的因子为自变量，进行多元线性逐步回归法分析，分析4个因变量与8个自变量之间的线性关系（表5）。由表5可知，干重 $( Y _ { 1 } )$ 回归方程的决定系数为0.986，与碱解氮 $( X _ { 6 } )$ 呈线性正相关，说明碱解氮是影响华重楼干重的主导因子。重楼皂苷I( $\cdot Y _ { 2 } \cdot$ ）回归方程的决定系数为0.830，与有机质（ $\cdot X _ { 2 }$ ）呈线性正相关，说明有机质是影响重楼皂苷I的主导因子。重楼皂苷ⅡI（ $\begin{array} { r } { Y _ { 3 } \mathrm { . } } \end{array}$ ）回归方程的决定系数为0.982，与速效磷 $( X _ { 7 } )$ 呈线性正相关，而与碱解氮 $( X _ { 6 } )$ 呈线性负相关，说明速效磷是影响重楼皂苷Ⅱ的主导因子。重楼皂苷 $\operatorname { V I I } ( Y _ { 3 } )$ 未拟合出回归方程。
+
+综合相关性分析及多元线性逐步回归分析，影响华重楼干重的主要因子是碱解氮，影响重楼皂苷I的主要因子是有机质，影响重楼皂苷II的主要因子速效磷。因此，影响华重楼生物量和药效品质的主要土壤因子有碱解氮、有机质和速效磷。
+
+# 表4重楼皂苷含量与土壤因子的相关性分析
+
+Table 4 The correlation analysis between the contents of polyphyllins and soil factors   
+
+<html><body><table><tr><td rowspan="2">0 指标 Index</td><td rowspan="2">干重 Dry weight</td><td rowspan="2">重楼皂苷I Polyphyllin I</td><td rowspan="2">重楼皂苷Ⅱ Polyphyllin II</td><td rowspan="2">重楼皂苷VII PolyphyllinVII</td><td rowspan="2">pH</td><td rowspan="2">有机质 Organic matter</td><td rowspan="2">全氮 Total nitrogen</td><td rowspan="2">全磷 Total phosphorus</td><td rowspan="2">全钾 Total potassium</td><td rowspan="2">碱解氮 Alkaline nitrogen</td><td rowspan="2">速效磷 Available phosphorus</td><td rowspan="2">速效钾 Available potassium</td></tr><tr><td></td></tr><tr><td>干重 Dry weight 电1</td><td>1.00</td><td>0.738*</td><td>0.312</td><td>-0.264</td><td>-0.182</td><td>0.755*</td><td>0.785*</td><td>0.143</td><td>-0.132</td><td>0.922**</td><td>0.465</td><td>0.507</td></tr><tr><td>重楼皂苷Ⅱ</td><td></td><td>1.000</td><td>0.652</td><td>-0.183</td><td>-0.508</td><td>0.830*</td><td>0.464</td><td>-0.151</td><td>-0.409</td><td>0.521</td><td>0.725*</td><td>0.636</td></tr><tr><td>Polyphylin II 重楼皂苷VII Polyphyllin</td><td></td><td></td><td>1.000</td><td>-0.460</td><td>0.162</td><td>0.570</td><td>0.363</td><td>0.464</td><td>-0.272</td><td>-0.267</td><td>0.887**</td><td>0.855*</td></tr><tr><td>VII pH</td><td></td><td></td><td></td><td>1.000</td><td>0.197</td><td>0.215</td><td>-0.331</td><td>-0.478</td><td>0.377</td><td>0.220</td><td>-0.323</td><td>-0.117</td></tr><tr><td>有机质 Organic</td><td></td><td></td><td></td><td></td><td>1.000</td><td>-0.126</td><td>-0.194</td><td>0.636</td><td>0.242</td><td>-0.125</td><td>0.110</td><td>0.265</td></tr><tr><td>matter 全氮 Total nitrogen</td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.338</td><td>-0.040</td><td>-0.065</td><td>0.696</td><td>0.797*</td><td>0.821*</td></tr><tr><td>全磷 Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.459</td><td>-0.233</td><td>0.751</td><td>0.568</td><td>0.318</td></tr><tr><td>phosphorus 全钾 Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.000</td><td>0.171</td><td>0.457</td><td>0.431</td></tr><tr><td>potassium 碱解氮 Alkaline</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.225</td><td>-0.048</td><td>0.017</td></tr><tr><td>nitrogen 速效磷</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.660</td><td>0.520</td></tr><tr><td>Available phosphorus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.949**</td></tr><tr><td>速效钾 Available</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>potassium</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>
+
+注：\*表示显著差异 $( P { < } 0 . 0 5 )$ ； $^ { * * }$ 表示极显著差异 $( P { < } 0 . 0 1 )$ ； $\scriptstyle n = 3$ 。
+
+Note: \*indicates significant differences ( $( P { < } 0 . 0 5 )$ ： $^ { * * }$ indicates extremely significant differences ( $\scriptstyle \overbrace { P } < 0 . 0 1 .$ ） $\scriptstyle n = 3$
+
+表5多元线性逐步回归分析  
+Table 5 The analysis of multiple linear regression   
+
+<html><body><table><tr><td rowspan="2">成分 Ingredients</td><td rowspan="2">多元线性回归方程 Multiple linear regression equation</td><td rowspan="2">决定系数 Determination coefficient</td></tr><tr><td>R²</td></tr><tr><td>干重Dry weight</td><td>Y1=-39.268+0.434 X6</td><td>0.986</td></tr><tr><td>重楼皂苷IPolyphyllin I</td><td>Y2=0.041+0.012 X</td><td>0.830</td></tr><tr><td>重楼皂苷IIPolyphyllin II</td><td>Y3=-0.004-0.001 X6+0.011 X7</td><td>0.982</td></tr><tr><td>重楼皂苷VIIPolyphyllin VII</td><td></td><td></td></tr></table></body></html>
+
+注：一代表未拟合出回归方程。 Note:— indicate the regression equation is not fitted.
+
+# 3讨论与结论
+
+土壤因子是生态系统的关键因子，会直接影响中药材生长发育及有效成分的积累（陈文霞和谈献和，2006）。合理的氮磷钾配施不仅可以提高中药材产量和品质，还可以提高肥料利用率，而关于氮磷钾影响华重楼产量和品质的的报道不多，刘哲等（2019）报道了一定比例的氮、磷及钾肥有利于提高华重楼根茎产量及总皂苷含量。本试验调查土壤因子对华重楼产量和药效成分的影响，发现根茎产量主要受碱解氮影响，其次是有机质和全氮，而与土壤pH和钾含量呈负相关，这与苏泽春等（2015）报道影响云南重楼根茎产量的主要影响因子为碱解氮、有机质和全氮的结果一致。研究中还发现，华重楼不同皂苷成分含量差别较大，与土壤因子之间的相关性也不同，其中重楼皂苷I和重楼皂苷Ⅱ主要受速效磷、速效钾和有机质的影响；而重楼皂苷VII与全钾、碱解氮和有机质呈正相关，而与速效磷和速效钾呈负相关。这与前人研究土壤因子与华重楼以及云南重楼中重楼皂苷（I、ⅡI、VII）的相关性不完全一致（杨永红等，2012；刘哲等，2020）。土壤中的有机质在提供氮源的同时也能有效促进土壤中全磷的降解，从而在提高根茎增产和药效积累中起到协同促进作用。由于植物药效成分受自身遗传因素以及小气候环境等各方面的影响，造成这种不一致的原因还值得深入研究。重楼皂苷VII与根茎产量、重楼皂苷I及重楼皂苷Ⅱ均呈负相关，但与全钾含量相关性最高；而根茎产量、重楼皂苷I及重楼皂苷ⅡI与全钾均呈负相关。样品采样地瓜里杉木林皂苷总含量（ $1 . 7 7 3 \%$ ）远高于其他样品的原因主要是重楼皂苷VII含量（ $1 . 3 8 7 \%$ ）较高，这可能与该土壤地全钾含量！ $\left( 5 1 . 6 0 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } \right.$ ）相对较多有关，这说明土壤因子钾也可能在华重楼产量及药效成分积累中具有重要作用。
+
+本研究中土壤 $\mathfrak { p H }$ 对华重楼3种药效成分的影响不显著，也无规律，而云南重楼根茎皂武含量随土壤 $\mathfrak { p H }$ 增加呈现升高的趋势（毛玉东等，2011），说明华重楼与云南重楼对土壤酸碱度的土壤环境需求可能不同。此外，生长地光照、温度、水分等环境条件对华重楼生长及有效成分积累的也有影响。总体上分析，7个不同地区的华重楼药效成分表现为林下 $>$ 遮阳 $>$ 露地，而李海涛等（2014）也认为，当云南重楼林下栽培环境越接近野生环境时，重楼皂苷含量就越高，原因可能是林下富含较多的腐殖叶导致土壤有机质较高，而毛竹林则由于毛竹丰富的根系吸收了很多土壤养分而造成产量和品质降低。因此，根据种植环境及土壤因子的相关性综合分析，人工种植华重楼时，建议选择腐殖质较高的林地种植，建议配合施用腐熟有机肥与磷肥作为基肥改善土壤环境。
+
+# 参考文献：
+
+Chinese Phanmacopoeia Commission, 2020. Pharmacopoeia of the people's republic of china[S] . Beijing:China Med Sci Press．[国家药典委员会，2020．中华人民共和国药典一部[S]．北 京：中国医药科技出版社.]   
+CHEN WX, TAN XH, 2006. Relationships between cultivation of Chinese materia medica and soil factors[J]．ChinJInf TCM，13(12):48-49．[陈文霞，谈献和，2006．中药材栽培 与土壤生态因子的关系［J］．中国中医药信息杂志， $1 3 ( 1 2 ) : 4 8 – 4 9 .$ ]   
+Delectis Florae Reipublicae Popularis Sinicae Agendae Academiae Sinicae Edita,1978.Flora Reipublicae Popularis Sinicae[M].Beijing:Science Press,15:92.[中国科学院中国植物志编 委会，1978．中国植物志［M]．北京：科学出版社，15:92.]   
+LIANG J, GUO ZY, YE Y, 2014. Effects of different soil moisture conditions on photosynthetic characteristics and effective content of saponin of Paris polyphylla[J]. Plant Physiol J, 50(1): 56-60.[梁娟，郭泽宇，叶漪，2014.不同土壤水分条件对七叶一枝花光合特性及有效成 分皂苷含量的影响[J]．植物生理学报，50(1):56-60.]   
+LIANG J, YANG JS, YE Y, 2016． Effects of temperatures on photosynthetic characteristics and saponins of Paris polyphylla[J]．Guihaia,36(3): 323-328.[梁娟，杨家胜，叶漪，2016．温 度对七叶一枝花光合特性及皂苷含量的影响[J].广西植物，36(3):323-328.]   
+LI B, TANG ZS,WANG N, et al., 2019. Effects of different LED light quality on physiological characteristics and component accumulation of Paris polyphylla in Shaanxi Province[J]. Mod Chin Med,21(10):1386-1391.[李铂，唐志书，王楠，等，2019.不同LED光质对陕产重 楼生理特性和成分积累的影响[J].中国现代中药， $2 1 ( 1 0 ) : 1 3 8 6 \mathrm { - } 1 3 9 1 . ]$   
+LI HT,LUO XW, GUAN YH, et al., 2014. Comparison between content of saponins of Paris polyphylla var. yunnanensis in different areas of Yunnan Province [J]. Chin J Chin Mat Med, 39(5):803-806.[李海涛，罗先文，管燕红，等，2014．云南省不同地区滇重楼皂苷含量 的对比及影响因子分析[J]．中国中药杂志，39(5):803-806.]   
+LIU S,LI SS, ZHANG DL, 2020. Polyphyllin VII: pharmacological effects and mechanisms of action[J].Chin Med JRes Prac,34(5): 82-86.[刘帅，李沙沙，张登禄，2020．重楼皂苷VII 药理作用及作用机制的研究进展[J].现代中药研究与实践，34(5):82-86.]   
+LIU Z,YU MJ, XIANG HY, et al., 2020. Study on the correlation between 6 kinds of steroidal saponins of Paris polyphylla and soil nutrients [J]. Chin Tradit Patent Med, 42(11):3079-3084. [刘哲，余孟杰，向海燕，等，2020．七叶一枝花中6种甾体皂苷与土壤肥力的相关性探 究[J]．中成药，42(11): 3079-3084.]   
+MAO YD, LIANG SW, HE ZJ, et al., 2011. Efects of soil pH on growth, nutrient content and total saponin contents of Pairs polyphylla var. yunnanensis [J]. SW Chin J Agric Sci, 24(3): 985-989.[毛玉东，梁社往，何忠俊，等，2011．土壤pH对滇重楼生长、养分含量和总 皂甙含量的影响[J]．西南农业学报，24(3):985-989.]   
+BU J, LI DW, WANG DM, 2012. Correlations between wild Polygonatum odoratum quality and main ecological factors[J]. Chin JAppl Ecol,23(6): 1447-1454.[卜静,李登武,王冬梅,2012. 玉竹品质与主要生态因子的相关性[J]．应用生态学报，23(6):1447-1454.]   
+REN P, FU B,LIU C,et al.， 2019. Correlation between the active components and soil and meteorological factors of Sedum aizoon[J]. Ecol Environ Sci, 28(5): 908-917.[任平，付博, 刘晨，等，2019．景天三七主要活性成分与土壤、气象因子的相关性[J]．生态环境学报, 28(5): 908-917.]   
+SU ZC,WANG ZQ,LI ZG, et al.， 2015. Study on high-yielding and good-quality cultivation techniques for Paris polyphylla var. yunnanensis [J]. Acta Agric Jiangxi, 27(1): 61-65.[苏泽 春，王泽清，李兆光，等，2015．云南重楼的高产优质栽培技术初探[J]．江西农业学报，   
+27(1): 61-65.] WU QS, ZHU RB,WAN ZH, et al.，2002. The correlation between effective components of American ginseng and climatic factors[J].Acta Ecol Sin,22(5): 779-782.[吴庆生，朱仁斌, 宛志沪，等，2002．西洋参有效成分与气候生态因子的关系[J]．生态学报，22(5):779-782.] WU X，WANG L，WANG H, et al.， 2012. Steroidal saponins from Paris polyphylla var. yunnanensis[J].Phytochemistry,(81):133-143. YANG YH, DAI LJ, HE KH，et al., 2012. Relation between soil nutrient of artificially cultivated area and rhizome quality of paris polyphylla var. yunnanensis [J]. J Chin Med Mat, 35(10):   
+1557-1561.[杨永红，戴丽君，何昆鸿，等，2012.土壤营养与人工栽培滇重楼品质相关 性评价[J]．中药材，35(10):1557-1561.] ZHENG MX, CHEN H, SU HL,et al., 2020. Analysis on the correlation between polyphyllin content of different Paris polyphylla Smith var. chinensis and soil nutrients [J]. Fujian Agric Sci Technol,4(8):58-66.[郑梅霞，陈宏，苏海兰，等，2020．不同重楼资源的重楼皂苷含 量比较及与土壤养分的相关性分析[J]．福建农业科技，4(8):58-66.]

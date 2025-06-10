@@ -1,0 +1,577 @@
+[
+    {
+        "type": "text",
+        "text": "网络外包任务的知识需求建模研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马天翼 张朋柱 冯浩垠(上海交通大学安泰经济与管理学院上海 200030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】研究建立网络外包环境下的任务知识需求模型构建方法。【应用背景】将任务所需的知识模型构建方法应用于网络外包平台中，为任务和人才的在线匹配进行服务。【方法】设计专家系统框架，构建任务的描述模型，进而分别基于推理规则和文本分析技术对任务进行解析，以量化方式获取任务的知识需求。【结果】通过案例验证该系统框架的建模方法具有良好的效果，能够准确地获取网络外包任务的知识需求模型。【结论】本研究设计的任务知识需求建模方法能够为网络外包的任务和人才匹配打下基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：知识需求专家系统 推理规则文本分析分类号:G202G35",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自2003年美国学者Chesbrough提出开放式创新概念以来，随着网络通讯设施的迅速发展和信息技术的日新月异，网络环境下的创新外包成为一种新兴模式[1]。网络创新外包能够通过互联网向全社会扩散，让更多的人才能够参与到市场所需的创新工作中。如今，国内外的网络外包服务平台的发展迅速，比如国外的InnoCentive.com、InnovationExchange.com、TopCoder.com等外包网站，有的以技术和知识创新为主，有的以软件定制为主[2]；而国内则有猪八戒威客网、任务中国等网站提供网络化的外包服务[3]。在这种服务模式下，组织通过联系外部的知识和内部的研发，实行开放式创新策略，创造出更多价值的同时进一步促进组织技术的发展，在时间和成本最小化的前提下实现利益最大化。对于网络外包任务来说，涉及的类型多种多样，比如从外包方式角度分为流程外包、产品外包、设计外包等[4，又如从任务目标角度分为问题求解、创意设计、科学研究、咨询服务及软件开发等[5]，而各类外包任务更是覆盖各行各业。各行业领域的技术人才构成了网络创新外包模式中可利用的重要外部创新力量，为各类企业和组织解决创新型的难题提供最有利的外部环境，作为网络外包模式的重要参与者，更高效合理地为企业创造价值。然而，网络外包服务也面临着一系列现实问题，其中如何为大量不同类型的任务和组织高效地找到最合适的人才是当前急需解决的要务7，这就需要根据任务的需求寻找和匹配具备相应知识背景和能力的人才。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文设计专家系统框架，结合基于规则的推理和文本分析技术，以任务和专业知识之间关系的角度分析和探讨网络外包任务所需要的人才应具备的专业背景和知识结构。构建任务描述模型，使网络外包需求能够规范化地表达任务需求；进而通过研究任务与专业知识之间的关联关系，为任务筛选合适的专业课程需求，构建网络外包任务的知识需求模型。本文提供的模型构建方法，为任务-人才的匹配奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 研究背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前对于任务模型领域的研究主要集中在结构化的任务需求领域。例如软件工程中程序需求的确定和产品开发任务中的模块化产品参数的描述。这些任务由于具有特定的结构，可以采用结构化的方式进行描述。而对于非结构化的任务，Duursma等研究任务的基本属性构成以及任务模型构建方法，该任务模型主要探讨任务的基本内容和任务的分解、子任务的描述等方面，采用层次化的结构来描述任务[8]。VanDer Aalst研究了在商业过程分析中任务模型的作用，主要包括模型的设计阶段和商业过程的检测阶段[9]。Traetteberg主要研究工作流的任务模型构建，通过任务模型对工作流进行分解、分析，并提出优化工作流的建议[10]。王楠等提出基于广义知识重构与抽象的模型，该模型结合任务构建的模型对工作流建模的一般过程进行描述，生成工作流简化模型和抽象模型[11]。Eichholz 等研究任务模型的基本定义，并研究在小组合作的基础上任务模型的定义[12]。O'Neill研究任务模型的表述方法，在沟通与合作的模型下对任务描述模型设计一套基本方法[13]。然而，网络外包任务具有多种类、多行业的复杂特征，不同任务之间、不同项目对于相同任务之间的需求差异很大，目前对于任务需求所提出的各类模型并不能全面地表达一个特定的任务，而任务的非结构特征也导致很难用一种固定的结构化模型对任务的需求进行表达。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于任务需求所对应的知识结构方面的相关研究，Winterton等总结知识是学习能力与学习机会交互构造的结果，包括基础理论和概念，以及根据完成特定任务所获得的经验性信息[14]。李梓房在其著书中提出，完成一件任务所需要具备的知识结构由基本理论、基础知识、专业基础知识、专业知识、学科知识、学科前沿知识构成[15]。Johnson 等提出任务知识模型的构建方法和知识分解方法，并使用技术手段进行任务特征的提取[16。目前关于任务的知识需求已有研究主要集中于知识结构的定性表述，而对任务知识需求的自动化推理和量化建模方法较为缺乏，同时对于任务需求与知识的关联关系研究也不够全面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究提出任务描述模型和知识需求的构建方法，主要是为了确定网络外包任务所需要的专业知识背景。任务的知识需求是一个较广泛的概念体现在任务的目标、行业以及描述中，这就需要对网络外包任务的需求以半结构化的形式进行描述，进而以规则推理与文本分析相结合的技术对任务描述模型进行解析，最终以量化的方式获得任务的知识需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3模型构建过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文围绕任务的知识需求模型构建问题设计系统框架如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/df9af68a412e30b1f75803343ae6466338e2938775537dd81c7db16f22920ac7.jpg",
+        "img_caption": [
+            "图1网络外包任务的知识需求建模系统框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "网络外包任务的知识需求包括任务对具备一定专业背景和学过相关专业课程的人才的需求。为解决网络外包任务的知识需求模型构建问题，本文采用专家系统的设计科学研究方法[17]，旨在为发布的任务建立描述模型，进而基于规则推理和文本分析对任务的课程需求进行量化建模，并在此基础上对任务所涉及的专业背景进行解析，建立任务的知识需求模型，从而为网络外包的任务-人才匹配打下基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1任务发布与描述模型构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计系统的任务数据库，结合网络化外包任务的特点并借鉴现有的软件行业需求表述方法，将任务需求进行分段式模型化描述，数据库设计如表1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/df0ef57abb7e9ae5e387c9cb18009843490a113985ee920f406847f4c607718c.jpg",
+        "table_caption": [
+            "表1系统任务数据库设计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>字段名</td><td>简述</td><td>字段用途及主要约束</td></tr><tr><td>Task_ID</td><td>任务ID</td><td></td></tr><tr><td>Task_Name Task_StartDate</td><td>任务名称 任务发布时间</td><td>涵盖任务的基本信息,</td></tr><tr><td>Task_EndDate</td><td>任务结束时间</td><td>其中ID为主键</td></tr><tr><td>Task_Reward</td><td>任务悬赏金额</td><td></td></tr><tr><td>Task_Input</td><td>任务输入条件</td><td>记录任务前提依据的 附件，可为空</td></tr><tr><td>Task_Type</td><td>任务类型</td><td>定义任务涉及的种类 和领域</td></tr><tr><td>Task_Output</td><td>任务目标及产出成果</td><td>定义任务产出产品的 形式</td></tr><tr><td>Task_Executor</td><td>执行者职能</td><td>定义任务执行者的 能力与角色</td></tr><tr><td>Task_Description 任务内容描述</td><td></td><td>文本形式记录任务的 详细需求内容</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "任务发布过程采用人机交互方式，将网络外包任务的详细信息进行分解并依据可选择提示录入至系统，保存至任务数据库。其中，“任务类型”、“任务目标及产出成果\"以及“执行者职能\"以选择的形式录入，需要根据各字段所记录内容的形式来确定选项来源，主要依据如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）任务类型：任务可以按照不同的依据进行分类，如按照行业可以分为化工、计算机、农业、生命科学等；按照企业解决方案分为一般的企业问题解决、开放式创新的速成方法与实践方案和企业战略咨询；而按照学科门类的分类则相对较细，而且涵盖了许多行业分类的信息，有助于分析网络外包任务的专业知识特征，是本文采用的分类方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）任务目标及产出成果：该字段记录了任务产出产品的形式，例如流程型外包是指供应方按需求完成某项流程，产品型外包是指供应方需要生产一个最终的实物产品，设计型外包是指供应方完成某项需求的设计，不同的外包任务类型将产生不同的产出产品，这会对人才的专业选择产生影响；因此，本字段的选项需要结合国内成熟的网络外包服务平台对任务输出形式进行标准化定义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）执行者职能：该字段记录了承做任务的执行者的应当具备的能力，这通常与执行者在工作中所扮演的角色相关，例如计算机类型的任务对执行者职能的要求包括在软件工程师、网站运营经理、系统管理员等岗位中具备经验的人才；因此本字段的选项需要结合权威求职网站对于人才岗位的分类进行规范化描述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合上述依据并考虑到选项来源的权威性和合理性，各选项的来源归纳如表2所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc8d4042e8b8e0532929c490f3accff060dc98000d58ed0071e8e6fd21c746cd.jpg",
+        "table_caption": [
+            "表2任务描述模型的各选项来源"
+        ],
+        "table_footnote": [
+            "$\\textcircled{1}$ http://www.zhubajie.com/. ②http://www.taskcn.com/. ③http://www.51job.com/. "
+        ],
+        "table_body": "<html><body><table><tr><td>任务描述</td><td>主要来源</td><td>选项示例</td></tr><tr><td>任务类型</td><td>我国最新版本的《普通高 等学校本科专业目录和专 业介绍》和《授予博士、 硕士学位和培养研究生的 学科、专业目录》</td><td>管理学科：信息管理、 会计学等；计算机学 科：计算机科学与技 术等</td></tr><tr><td>任务目标及 产出成果</td><td>“猪八戒网\"与\"任务中国\"② 两大网络外包服务平台对 任务的分类</td><td>品牌设计、统计分析、 网站开发等</td></tr><tr><td>执行者职能</td><td>“前程无忧”求职网站中 关于职能的分类</td><td>计算机类：软件工程 师等；会计类：财务 分析员等</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过任务发布形式与数据库设计，系统以半结构化的描述模型表示网络化外包任务的详细需求信息，便于进一步对任务需求进行解析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 基于规则的推理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于网络外包任务的知识需求解析来说，需要对任务描述模型中“任务类型”、“任务目标及产出成果”“执行者职能\"三部分通过选项录入的内容进行推理解析，找出其对应的知识需求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）推理解析的前提是依据相应的推理规则建立规则库。本研究中，规则库的知识来源主要是以本研究团队前期通过文本挖掘研究并构建的\"学科-专业-课程知识库\"和\"专业技能关联知识库\"为基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，“学科-专业-课程知识库\"的构建是基于统计分析的方法归纳和整理各专业方向下各高校开设的共有课程，并结合余弦相似度算法合并授课内容相似的课程，建立专业和课程的关联关系。该知识库结构和关键属性如图2所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd26e6d260dba2302d0e038025afca2beefffda1ffc637bddfdfb0d85eab58a7.jpg",
+        "img_caption": [
+            "图2“学科-专业-课程知识库\"结构与关键属性"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而\"专业技能关联知识库\"的构建则是通过文本聚类的方法对各高校各专业的培养信息文本对象进行分析，按照不同专业领域进行类别的划分，并基于对各聚类结果特征词条的识别归纳每个专业领域类别中的技能指标。该知识库结构和关键属性如图3所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f383d3d62c37a8b36e17dc331064e57ffdc609e164b651456cf03ccb7d37287.jpg",
+        "img_caption": [
+            "图3“专业技能关联知识库\"结构与关键属性"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在上述知识库的基础上，结合人工智能领域常用的知识表达方式—产生式规则表示方法建立本研究的规则库[17]，同一条件下如对应多个规则用\"and\"或\"or\"连接:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "规则库 ${ \\bf R } _ { 1 }$ ：如果 $<$ 前置条件：技能 $>$ 则<后置条件：专业>规则库 ${ \\bf { \\cdot R } } _ { 2 }$ ：如果 $<$ 前置条件：专业 $>$ 则 $<$ 后置条件：课程>(2）结合上述规则库，以正向推理作为控制策略,获取推理结果，正向推理过程可描述如下：{根据需要找到可用规则库R;whileR非空且问题未求解begin 从R中选择一条规则if 该规则的前置条件与问题相符then 将该规则的后置条件作为问题的解else 跳向下一条规则EndEnd}",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在对任务描述模型进行规则推理时，“任务类型”与“执行者职能\"由于已存储任务所需的专业信息，故只需调用规则库 ${ \\bf R } _ { 2 }$ ，而“任务目标及产出成果\"需要先后调用规则库 ${ \\bf R } _ { 1 }$ 和 ${ \\bf R } _ { 2 }$ 分两步推理出对应的课程需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）对上述任务描述模型的三部分进行基于规则的推理后，获取各部分对应的课程知识集合，以标准化向量的形式量化地表达任务T所需要的课程集合$\\mathrm { C _ { \\mathrm { T } } } ,$ ，如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { C } _ { \\mathrm { T } } = \\left\\{ \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { N _ { \\mathrm { l } } } } \\mathbf { N _ { \\mathrm { i } } } \\ \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { N _ { \\mathrm { 2 } } } } \\mathbf { N _ { \\mathrm { i } } } , \\cdots , \\frac { \\mathbf { N _ { \\mathrm { k } } } } { \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { k } } \\mathbf { N _ { \\mathrm { i } } } } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,k是该任务所需课程的种类数， $\\mathrm { \\Delta N _ { i } }$ 表示该任务对于第i种课程的需求次数。对于该课程向量，如果其中某项值较大，说明任务对于该课程的相关程度较大，从而学过该课程的人才可能更适应这项任务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 基于文本分析的解析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管通过规则推理可以细化一个任务的课程知识需求，但现实中的任务仍然十分复杂，需要进一步通过文本分析的方法对“任务内容描述\"文本进行解析，与规则推理互相补充。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）对数据库中的\"任务内容描述\"文本以及\"学科-专业-课程知识库\"中的课程描述文本进行分词处理分词算法采用正向最大匹配法(ForwardMaximumMatching，FMM)，中文语料词典使用搜狗互联网词库①，将文本对象划分为词语、词组的集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）进而采用向量空间模型(Vector Space Model,VSM)这一最常用的文本的数据化表示方法构建文本对象的数据化表示模型[18]，即任务内容描述与课程描述文本均可以用向量 $\\mathrm { V ( d ) { = } ( T _ { 1 } , W _ { 1 } ; ~ T _ { 2 } , W _ { 2 } ; \\cdots ; ~ T _ { n } ~ , W _ { n } ) }$ 的形式表示，其中 $\\mathfrak { n }$ 表示文本中特征词的总数, $\\mathrm { T _ { k } }$ 表示第 $\\mathbf { k }$ 个特征词, $\\mathrm { w _ { k } }$ 为特征词 $\\mathrm { T _ { k } }$ 所对应的权重，衡量该特征词对于文本 $\\textrm { d }$ 的重要程度。特征词权重的计算方法采用 TF-IDF方法[19]，计算公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W _ { i j } = T F _ { i j } \\times I D F _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { W _ { i j } }$ 是文本 ${ \\mathrm { d } } _ { \\mathrm { j } }$ 的向量中词条 $\\mathrm { T _ { i } }$ 的权重, $\\mathrm { T F _ { i j } }$ 是词条 $\\mathrm { T _ { i } }$ 在文本 ${ \\mathrm { d } } _ { \\mathrm { j } }$ 中出现的频率, $\\mathrm { I D F _ { i } }$ 是包含词条 $\\mathrm { T _ { i } }$ 的文本频率的倒数。用向量中权重较高的特征词表示文本的特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）采用余弦相似度公式对任务内容描述文本与课程描述文本进行相似度计算。对于待比较的目标文本，求出特征词的并集并将自己文本中未出现的特征词权重置为0，得到任务内容描述文本向量 $\\mathrm { T _ { i } }$ 与课程描述文本向量 $\\mathrm { C _ { j } } ,$ 其相似度计算公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C o s < T _ { i } , C _ { j } > = \\frac { T _ { i } \\cdot C _ { j } } { \\Vert T _ { i } \\Vert \\times \\Vert C _ { j } \\Vert } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该值越接近1，说明任务与对应课程相似度也越大，通过将任务内容描述与所有课程进行相似度计算，可以得到相应的课程向量。以标准化向量的形式量化地表示任务T与 $\\mathfrak { n }$ 门课程之间的对应关系 ${ \\mathrm { c } } _ { \\mathrm { T } } { } ^ { \\mathrm { , } }$ ， $\\mathrm { { s i m } _ { \\mathrm { i } } }$ 为该任务与第i门课程的相似度，计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { C _ { \\mathrm { { T } } } ^ { \\prime } } = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { \\sin _ { 1 } } { \\ n } , \\frac { \\sin _ { 2 } } { \\ n } , \\cdots , \\frac { \\sin _ { n } } { \\ n } } \\\\ { \\displaystyle \\sum _ { i = 1 } ^ { n } \\ s i m _ { \\mathrm { { i } } } } & { \\displaystyle \\sum _ { i = 1 } ^ { \\infty } \\ s i m _ { \\mathrm { { i } } } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4任务的专业背景分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在通过规则推理和文本分析的解析后得出网络外包任务的课程需求向量，可以解释该任务对于各类课程的需求程度。在此基础上，采用任务与专业相似度计算的方法进一步分析任务需求的专业背景，以完善任务的知识需求模型",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）根据\"学科-专业-课程知识库\"中各专业所对应的课程，结合向量空间模型与 TF-IDF 算法构造各专业的课程向量，将各专业表示为课程及其权重的量化形式。其中，课程的权重通过设计一种频繁值算法而计算得出，该算法公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W _ { i } = f ( w , C _ { i } ) \\times l o g \\frac { N } { \\left| \\left\\{ C _ { j } \\mid f ( w , C _ { j } ) \\geqslant f ( w , C _ { i } ) , j = 1 , 2 , \\cdots , N \\right\\} \\right| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，f(w,Ci)是课程词条w 在相应的专业 $\\mathrm { { C } _ { i } }$ 中的出现频率，N 为专业总数量，|{Cj|f(w,Cj)≥$\\mathrm { f } ( \\mathrm { w } , \\mathrm { C } _ { \\mathrm { i } } ) , \\mathrm { j } { = } 1 , 2 , \\cdots , \\mathrm { N } \\} \\ |$ 是指其他专业中w的频率不小于在专业 $\\mathrm { { C } _ { i } }$ 中 $\\mathbf { w }$ 的频率的所有专业总数，通过公式(5)计算得出的数值即表示课程词条 $\\mathbf { w }$ 在相应专业中的重要程度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）进而将规则推理和文本分析所得到的任务课程需求向量与各专业课程向量进行结合，得到任务与专业之间的相似度如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { s i m } _ { \\mathrm { C , M } } = ( \\mathbf { C } _ { \\mathrm { T } } + \\mathbf { C } _ { \\mathrm { T } } ^ { \\mathrm { , } } ) \\cdot \\mathbf { M }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\mathrm { C _ { T } }$ 为基于规则推理得到的课程向量， $\\mathbf { C } _ { \\mathrm { { T } } } \\mathbf { ; }$ 为基于文本分析得到的课程向量，M为某专业的课程权重向量。通过计算任务与各个专业的相似度，并按照相似度从高到低为专业排序，可以得到与该任务最相似的一个或多个专业。该分析结果可以用来对任务的专业背景进行解释，说明哪类专业下的人才最能够胜任该任务，为任务的课程需求做出补充和完善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5任务知识需求模型的生成",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "系统基于上述对任务的分析处理结果，自动构建网络外包任务的知识需求量化模型，并将结果反馈至人机交互界面供用户查看。模型包括任务的专业背景和相关课程需求及其相应的需求程度，其中任务的课程需求由基于规则推理的课程向量与基于文本分析的课程向量两部分互相补充生成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "任务的知识需求模型表明能够完成该任务的人才应具备的专业知识背景，该模型的建立能够为网络外包模式下任务和人才的匹配问题提供有效的依据和基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4应用案例与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "网络外包任务的知识需求建模专家系统原型的实现环境为 Java 语言下的 Eclipse 平台，使用 SQLServer数据库存储相关信息。本文选取“猪八戒网\"与“任务中国\"两大网络外包网站上共100个成功完成的任务作为研究对象，使用系统对任务的知识需求进行分析和建模。整体样本的建模分析过程与样本任务“某安防视频系统人脸识别算法开发\"的分析结果示例如表3所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0438f56cf32df140a7bbc280da8d2a2d0a22209f0eb8a2b548cfde8316522c44.jpg",
+        "table_caption": [
+            "表3任务的知识需求建模与评估结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>任务的知识需求建模步骤项</td><td>100 个样本任务</td><td>样本任务示例“某安防视频系统人脸识别算法开发”</td></tr><tr><td rowspan=\"2\">任务课程需求向量分析</td><td>规则推理：任务属性课程向量</td><td>规则推理：数据挖掘等</td></tr><tr><td>文本分析：任务描述课程向量</td><td>文本分析：计算机图形学等</td></tr><tr><td>任务专业背景分析</td><td>泛专业类任务 普通专业类任务 精细类任务</td><td>计算机科学、软件工程等</td></tr><tr><td>建模效果评估</td><td>课程需求分析F均值=0.54 专业背景分析F均值=0.68</td><td>课程需求分析F值=0.55 专业背景分析F值=0.73</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1任务信息录入与文本分词",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "100个样本任务涉及到多个行业和类型，通过专家系统原型的人机交互界面进行任务信息的录入和描述模型构建，并对“任务内容描述\"文本内容进行自动分词处理。以“某安防视频系统人脸识别算法开发\"任务为例，任务信息录人与分词过程如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2任务课程需求向量分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过专家系统分别对100个样本任务进行规则推理和文本分析的解析，最终得到各任务的课程需求向量及其权重。样本任务“某安防视频系统人脸识别算法开发\"的课程需求向量如图5所示，其中“任务属性课程向量\"为规则推理结果，“任务描述课程向量\"为文本分析结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "职能选择 行业选择 产品选择 1. 根据算法需求，设计识别算法 算法 需求 设计 识别 算法 系统  \n互联网通信电子 23 根据系统接，算法代码 接行 编试 算 代药 系统 曼接 环计机软件工程师 需究非受控环境下的人脸识别技术，克服姿态（ 墙情 验等 识别境 技术素 克称 姿态 光照软件工程师 Pose)，光照（Illumination)和表情（ 提高 脸 辨识 率 尤其是 抵销 光软应设计程程师 Expression)等环境因素（简称PIE）的影响，提 照 影响 美国 标准 技术 局 推荐ERP实施顾问 高人脸辨识率，尤其是抵销光照的影响。 脸 识别 标准 用尽 可能 少 训练技术开发 图像 实现 高精度 识别 尽可能 实系统集成工程师 根据美国标准技术局（NIST)推荐的人脸识别标准， 现 像 识别 ） 通过 计算机 视觉系统分员 用尽可能少的训练图像实现高精度识别。尽可能实现 领域 图像 降 维 海里 数据 能够系统架构设计师 一像识别（One Shot Face Recognition）。 进行 有效地 识别数据库工程师/管理员计算机辅助设计工程师互联网/电子商务网游 通过计算机视觉领域图像降维，在海量数据下也能够IT-管理 进行有效地识别。田电子/电器/半导体/仪器仪表会计/金融/银行/保险生物/制药/化工田生产/工业  \n提交",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "任务属性课程向量：  \n程序设计原理 0.037191824  \nWeb开发0.045157974  \n软件测试技术 0.047348372  \n图像处理0.034895948  \n计算机图形学 0.096492236  \n数据挖掘0.046045081  \n信息安全0.047437083  \nIT项目监理 0.037294026  \n人工智能0.033890514  \n算法导论 0.071144718  \n系统仿真0.039459934  \n软件项目管理 0.045911471  \n并行计算0.039428919  \n软件工程0.039616756  \n线性代数及其应用 0.042832575  \n积分变换0.042832575  \n数值分析 0.034837771  \n计管间042832575  \n任务描述课程向量：  \n材料力学0.05  \n货币金融学 0.04  \n计算机图形学 0.23  \n计算机网络 0.09  \n面向对象程序设计 0.09  \n热能动力学 0.06  \n软件项目管理 0.11  \n算法导论0.15  \n通信原理0.12  \n信号与系统 0.08",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "技术能力等其他要素提出了更具体的要求和参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4建模效果评估",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在对100个样本任务分别构建知识需求模型后，得到每个任务的专业背景以及课程需求量化模型。进一步对实际中承接任务的人才所具备的专业背景和所学课程进行调研和验证，并以此为依据，采用表示信息获取准确程度的准确率、召回率与F值测度来评估专家系统建模的效果，其中F值为准确率与召回率的调和平均值[20，数值在0-1之间且越高越好。建模评估结果如表4所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 任务专业背景分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在对所有样本任务解析课程需求向量的基础上,系统进一步计算和归纳各任务的专业背景，样本任务“某安防视频系统人脸识别算法开发\"的专业背景分析结果为计算机科学、软件工程等IT类相关专业。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e30c2889c955500af3c21dbfa5d0e6ce506345846eca151d967dafbe3deb23a5.jpg",
+        "table_caption": [
+            "表4任务的知识需求建模评估结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>F值取值范围</td><td>任务的课程需求</td><td>任务的专业背景</td></tr><tr><td><0.5</td><td>12组</td><td>5组</td></tr><tr><td>0.5-0.6</td><td>73组</td><td>41组</td></tr><tr><td>0.6-0.7</td><td>12组</td><td>38组</td></tr><tr><td>>0.7</td><td>3组</td><td>16组</td></tr><tr><td>平均F值</td><td>0.54</td><td>0.68</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在对样本任务的专业背景解析过程中发现，网络外包任务根据专业背景特点的差异可以分为三类：泛专业类任务，对于专业的需求相对分散和简单，如宣传口号设计、数据收集等技术含量较低的任务；普通专业类任务，需求较明显地偏向于某几个专业背景，如网站设计、算法开发等综合技术型任务；精细类任务，需求指向某一个特定专业，如分子检测、细胞培养等专业性极强的任务。通过对网络外包任务的专业背景特征进行解析和分类，有助于更高效、准确地寻找能够胜任的人才，同时也为承接任务的人才的学历水平、",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从结果可以看出，代表准确程度的F值基本都大于0.5，且平均F值处于较高水平，说明通过专家系统解析的任务知识需求与实际承接任务的100组人才的专业背景、所学课程情况比较吻合，因此本研究提出的任务知识需求模型构建方法的准确性和有效性得到保障，同时对知识的需求程度具有量化的效果，为网络外包的任务和人才匹配打下基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文设计专家系统框架，研究建立网络外包的任务知识需求模型构建方法。构建任务的描述模型，在此基础上分别基于推理规则和文本分析技术对任务进行解析，以量化方式获取任务的课程需求向量，同时结合任务的专业相似度构建网络外包任务的知识需求模型。并通过案例验证该建模方法具有良好的效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文所提出的模型构建方法还有待改进之处，如对于推理规则的自动化更新和完善方法以及提升文本分析算法性能的研究等。这些问题在后续的研究中都需要进行深入探讨。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Chesbrough H M.Open Innovation: The New Imperative for Creating and Profiting from Technology [M].Harverd Business School Press,2003.   \n[2] Gassmann O,Enkel E,Chesbrough H. The Future of Open Innovation [J].R&D Management,2010,40(3):213-221.   \n[3]史新．“威客\"模式在国内的发展现状及优化研究[J]．情报 杂志，2009，28(1):156-160.(Shi Xin．A Study on the Development and the Optimization of Witkey Pattern [J]. Journal of Intelligence,2009,28(1):156-160.)   \n[4]Eppinger S D,Chitkara A R.The New Practice of Global Product Development [J].MIT Sloan Management Review, 2006,47(4): 22-30.   \n[5]Lai E L C,Riezman R,Wang P. Outsourcing of Innovation [J].Economic Theory, 2009,38(3): 485-515.   \n[6]刘景江．网络时代的外包模式[J]．中国工业经济,2003(11): 21-26.(Liu Jingjiang. Outsourcing Model in the Networking Times [J]. China Industrial Economy, 2003(11): 21-26.)   \n[7]陈伟，李华．服务外包人才培养模式研究[J].现代管理科 学,2008(1): 96-98.(Chen Wei,Li Hua. Research on Training ModeofServiceOutsourcingTalents[J].Modern Management Science,2008(1): 96-98.)   \n[8]Duursma C，Schrooten R，Amero D. Model Ontology Requirementsfor DomainModel Validation [C].In: Proceedings of the European Symposium on the Validation and Verification of Knowledge Based Systems. 1993: 175-189.   \n[9]Van Der Aalst W M P. Challenges in Business Process Analysis [C].In: Proceedings of the 9th International Conference on Enterprise Information Systems.2007:27-42.   \n[10]Tratteberg H.Modeling Work:Workflow and Task Modeling [A].//Computer-Aided Design of User Interfaces II [M]. Springer Netherlands,1999:275-280.   \n[11] 王楠，孙利，孙善武，等．基于G-KRA 模型框架的工作流 建模[J]．吉林大学学报：理学版，2013，51(2):279-284. (Wang Nan，Sun Li,Sun Shanwu,et al．Formalizing the Workflow Modeling Process Based on G-KRA Model Framework [J]. Journal of Jilin University: Science Edition, 2013,51(2): 279-284.)   \n[12] Eichholz C,Dittmar A,Forbrig P.Using Task Modeling Conceptsfor Achieving Adaptive Workflows[A].// Engineering Human Computer Interaction and Interactive Systems [M]. Springer Berlin Heidelberg,2005: 96-111.   \n[13] O'Neill EJ.Task Model Support for Cooperative Analysis[C]. In: Proceedings of the 1996 Conference on Human Factors in Computing Systems，1996,13(18): 259-260.   \n[14]Winterton J，Deist F D L，Stringfellow E. Typology of Knowledge,Skills and Competences:Clarification of the Concept and Prototype [M]. Luxembourg: Office for Official Publication of the European Communities, 2005.   \n[15]李梓房．知识结构与知识型企业成长[M].北京：经济日报 出版社，2008．(Li Zifang.Knowledge Structure and Development of Knowledge-based Enterprise [M]. Beijing: Economic Daily Press,2008.)   \n[16]Johnson P,Johnson H,Waddington R,et al.Task-Related Knowledge Structures:Analysis,Modelling and Application [C].In: Proceedings of the 4th Conference of the British Computer Society Human-Computer Interaction Specialist Group. 1988:35-62.   \n[17] Mehrabad M S,Brojeny MF.The Development of an Expert System for Effective Selection and Appointment of the Jobs Applicants in Human Resource Management [J]. Computers & Industrial Engineering,2007,53(2): 306-312.   \n[18] Salton G,Wong A,Yang C.A Vector Space Model for Automatic Indexing [J]. Communications of ACM,1975, 18(11): 613-620.   \n[19]罗欣，夏德麟，晏蒲柳．基于词频差异的特征选取及改进 的 TF-IDF 公式[J]．计算机应用，2005，25(9):2031-2033. (Luo Xin,Xia Delin,Yan Puliu.Improved Feature Selection Method and TF-IDF Formula Based on Word Frequency Differentia [J]. ComputerApplications,2005,25(9): 2031-2033.)   \n[20] Van Rijsbergen K. Information Retrieval [M]. ButterworthHeinemann,1979. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "马天翼：系统框架设计，技术方案实施，数据分析，论文撰写及最终版修订;",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "张朋柱：提出研究思路，设计研究方案，论文修订;  \n冯浩垠：系统开发，数据收集。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]马天翼，张朋柱，冯浩垠.skill_rulebase.xlsx.i专业技能关联 知识库\"规则库.   \n[3]马天翼，张朋柱，冯浩垠．word_segment.txt.中文文本分词 语料库.   \n[4]马天翼，张朋柱，冯浩垠.similar_course.xlsx.相似程度高的 课程样例.   \n[5]马天翼，张朋柱，冯浩垠．sample.xlsx.实验任务样本集与F 值记录. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。[1]马天翼，张朋柱，冯浩垠．knowledge_rulebase.xls.o专业课程关联知识库\"规则库.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-10-16   \n收修改稿日期:2015-11-22 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Knowledge Requirement Model for Online Outsourcing Tasks ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ma TianyiZhang PengzhuFeng Haoyin (Antai Collge of Economics & Management, Shanghai Jiaotong University,Shanghai 2Ooo30, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This study aims to build a knowledge requirement model for online outsourcing tasks. [Context] The proposed model could help us find proper personnel for each task. [Methods] We first designed an expert system framework and built a descriptive model for each task.And then, we analyzed the tasks based on inference rules and textanalysis technology，with the purpose of quantifying the knowledge requirement for each task.[Results] The proposed framework successfully established the nowledge requirement model. [Conclusions] The new model laid foundation for the task-talent matching system of online outsourcing services. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Knowledge requirementExpert systemInference ruleText analysis ",
+        "page_idx": 7
+    }
+]

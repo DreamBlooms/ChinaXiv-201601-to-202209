@@ -1,0 +1,193 @@
+# 干旱区盐湖沿岸土壤呼吸特征及其影响因素
+
+李典鹏'，姚美思'，孙涛'，刘隋赞昊}，贾宏涛1,2（1新疆农业大学草业与环境科学学院,新疆乌鲁木齐830052;2新疆土壤与植物生态过程重点实验室,新疆乌鲁木齐830052)
+
+摘要：明确不同生态系统土壤碳排放规律及其影响因素对准确评估全球碳循环具有重要意义。为揭示干旱区典型盐湖沿岸土壤呼吸 $( R _ { s } )$ 、土壤呼吸温度敏感系数( $( Q _ { 1 0 } )$ 变化特征及其影响因素，以新疆干旱区达坂城盐湖和巴里坤湖沿岸土壤为研究对象，在2015—2016 年 $5 \sim 1 0$ 月利用LI-8100土壤碳通量自动测量系统对盐湖沿岸土壤呼吸速率进行测定，分析了土壤呼吸季节性变化特征及其影响因子。结果表明,干旱区盐湖土壤呼吸变幅较大 $( 0 . 0 7 \sim 1 1 . 5 9 \ \mu \mathrm { m o l } \cdot \mathrm {  ~ m ~ } ^ { - 2 } \mathrm {  ~ \cdot ~ s ~ } ^ { - 1 } \mathrm {  ~ \cdot ~ }$ ，平均值为 $2 . 4 5 \ \mu \mathrm { m o l } \cdot \mathrm { \bf ~ m } ^ { - 2 } \cdot \mathrm { \bf ~ s } ^ { - 1 } ,$ 7月土壤呼吸速率最高为 $4 . 6 9 \mathrm { \bf ~ \underline { { { \mu } } } m o l } \mathrm { \bf ~ \cdot ~ m } ^ { - 2 } \mathrm { \bf ~ \cdot ~ s } ^ { - 1 }$ ,10月最低（1.01$\mu \mathrm { m o l } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 } \mathrm { ~ } \mathrm { ~ , ~ }$ ；土壤 $\mathrm { C O } _ { 2 }$ 累积排放量为 $9 . 3 0 \textrm { g } \cdot \textrm { m } ^ { - 2 } \cdot \textrm { d } ^ { - 1 }$ ,7月累积排放量最大为17.82$\textrm { g } \cdot \textrm { m } ^ { - 2 } \cdot \textrm { d } ^ { - 1 }$ 。 $Q _ { 1 0 }$ 呈“降低—增加—降低”趋势,6月最低(2.25)9 月最高(3.52)，平均值为2.79。干旱区盐湖沿岸土壤呼吸受土壤有机碳(SOC） ${ , 5 } \ \mathrm { c m }$ 土壤温度(ST5）、土壤含水量(SM)和土壤盐分 $( S a l t )$ 的共同影响，单因素模型模拟可解释土壤呼吸速率变化的 $4 1 . 7 \% \sim 7 5 . 7 \%$ （ $R ^ { 2 } = 0 . 4 1 7 \sim$ 0.757, $\textstyle P < 0 . 0 5$ ），多因子综合模型拟合结果最佳 $R _ { s } = 0 . 0 0 1 \times S O C + 0 . 0 3 9 \times S M - 0 . 5 3 4 \times S a l t -$ $0 . 1 1 6 \times S T 5 + 5 . 0 6 ( R ^ { 2 } = 0 . 8 0 4 , P = 0 . 0 5 )$ ，且均表明盐分是影响干旱区盐湖沿岸土壤呼吸速率的主要因子。因此，在考虑陆地生态系统碳收支和碳循环时不能忽略干旱区盐湖沿岸土壤碳过程，以及盐分对盐湖生态系统碳排放的影响。
+
+# 关 键 词：碳排放；土壤盐分；达坂城盐湖；巴里坤湖；土壤温度敏感系数文章编号
+
+土壤作为三大圈层间的关键带，其与大气圈净碳交换速率的改变可能会对全球大气 $\mathrm { C O } _ { 2 }$ 浓度产生较大的影响[1]。因此,准确评估不同生态系统土壤碳排放及其影响因素对了解全球碳循环及预测气候变化具有重大意义[2]。土壤储藏了 $1 ~ 5 0 0 \sim 2 ~ 0 0 0$ $\mathrm { P g }$ 有机碳,是大气和陆地生物圈碳的2\~3倍[3],土壤有机碳库轻微的改变都会对大气 $\mathrm { C O } _ { 2 }$ 浓度产生重大影响。有机碳作为可被微生物直接利用的底物[4],是影响土壤碳排放的重要原因。此外,有机碳也受气候、生物和海拔等自然和开垦、放牧等人为因素共同影响;草地、农田、森林和湿地等土壤碳排放及影响因素均有报道[5」，但干旱区盐湖沿岸土壤碳排放的研究相对较少。
+
+盐湖作为一种含盐量高的特殊生态环境类型，主要分布于干旱区和内陆河流域，全球盐湖占陆地水体总面积的 $44 \%$ [6]。中国盐湖主要分布在蒙新和青藏高原盐湖区，新疆属典型的大陆性干旱气候，生态环境脆弱，境内盐湖有100多个，是中国乃至中亚地区典型盐湖分布区[7]。湖泊作为重要的“碳汇”,蒙新湖区湖泊碳平均沉积速率达 $\begin{array} { r } { 8 \sim 1 4 \mathrm { ~ g ~ } \cdot } \end{array}$ （204号$\mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ,其中盐湖碳沉积速率达 $4 . 5 \sim 1 4 . 0 \mathrm { ~ g ~ } \cdot$ （20$\mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 [ 8 ] }$ ;此外,盐湖也是重要的“碳源”,碳排放速率达 $8 0 \ \mathrm { m m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 [ 9 ] }$ ,是干旱区生态系统碳循环重要组成部分。近年来，受人类活动和气候变化的影响，全球盐湖水体面积呈下降趋势，严重影到湖泊生态系统功能[1],但盐湖沿岸土壤碳排放规律及其影响因素仍不明确。
+
+影响土壤呼吸的因素较多[11],BATSON 等[12]研究表明土壤呼吸速率与温度、含水量显著负相关；而在太湖湖滨研究表明，土壤呼吸仅与土壤温度相关,与含水量不存在相关性[13]；干旱区高寒湖泊沿岸土壤呼吸与地上生物量显著正相关[14];而淡水湖博斯腾湖沿岸土壤呼吸与生物量不存在相关性，盐分是影响碳排放的重要因子[15]。滨海盐沼碳排放受土壤温度、含水量、有机质 $\mathrm { \nabla \cdot \ p H }$ 以及氧化还原电位的共同影响[16]。干旱区盐湖与淡水湖和滨海盐沼相比，干旱区盐湖多为封闭型湖泊，沿岸土壤盐分含量高，多为盐生植物。
+
+因此，十旱区盐湖沿岸王壤呼吸可能会与淡水湖沿岸土壤和盐沼存在较大差异；而土壤盐分的动态变化，也可能是影响土壤呼吸的主要因素。因此，本研究以干旱区典型盐湖达坂城盐湖和巴里坤湖沿岸土壤为研究对象，通过对沿岸土壤呼吸速率及环境因子的监测，以期阐明：（1）干旱区典型盐湖土壤呼吸及温度敏感系数( $Q _ { \scriptscriptstyle { 1 0 } }$ )变化特征。（2）影响干旱区盐湖沿岸土壤呼吸速率的主要因子。干旱区盐湖沿岸土壤呼吸及其影响因素的探究，将为进一步评估盐湖对干旱区湖泊生态系统碳循环的贡献提供了理论依据。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+达坂城盐湖( $8 8 ^ { \circ } 0 4 ^ { \prime } \sim 8 8 ^ { \circ } 1 2 ^ { \prime } \mathrm { ~ E } , 4 3 ^ { \circ } 2 3 ^ { \prime } \sim 4 3 ^ { \circ } 2 5 ^ { \prime }$ N)位于乌鲁木齐达坂城区,距乌鲁木齐市约 $7 0 ~ \mathrm { k m }$ 。湖区属中温带大陆性气候，年均气温 $5 . 1 \ { } ^ { \circ } \mathrm { C } \ , 1$ 月平均气温 $- 1 4 . 5 \mathrm { ~ \mathcal { C } ~ } , 7$ 月平均气温 $2 4 . 0 ~ \mathrm { ^ { q } C }$ ，极端高温$4 3 . 4 ~ \mathrm { { ^ { \circ } C } }$ 。多年平均无霜期 $1 6 0 \mathrm { ~ d ~ }$ ,年均日照 $2 8 2 0 \mathrm { ~ h ~ }$ ，年均降雨量 $2 6 1 ~ \mathrm { m m }$ ,年均蒸散发 $2 \ 0 7 4 \ \mathrm { m m }$ 。湖表卤水密度 $1 . 0 7 \ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ， $\mathrm { p H }$ 值为8.38,矿化度68.6$\mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ ，属硫酸钠亚型盐湖。巴里坤湖( $9 2 ^ { \circ } 4 3 ^ { \prime } \sim$ $9 2 ^ { \circ } 5 1 ^ { \prime } \mathrm { ~ E ~ } , 4 3 ^ { \circ } 3 6 ^ { \prime } \sim 4 3 ^ { \circ } 4 3 ^ { \prime } \mathrm { ~ N ~ } )$ 距离巴里坤哈萨克自治县城西北约 $1 8 . 0 ~ \mathrm { k m }$ 。湖区属温带大陆性干旱气候,年平均气温为 $1 . 1 ~ \mathrm { { ^ { c } } }$ ,极端高温 $3 3 . 5 ~ \mathrm { ^ { \circ } C }$ 。平均日照时数 $3 2 1 1 \mathrm { ~ h ~ }$ ,无霜期 $1 0 1 \mathrm { ~ d ~ }$ 。年平均降水量为$2 1 0 ~ \mathrm { m m }$ ,年均蒸发量 $2 \ : 2 5 0 \ : \mathrm { m m }$ 。湖泊表层卤水密度为 $1 . 1 7 \mathrm { ~ g ~ } \cdot \mathrm { c m } ^ { - 3 }$ ， $\mathrm { \ p H }$ 值为7.59,矿化度高达246.6$\mathbf { g } \cdot \mathbf { L } ^ { - 1 }$ ,属硫酸镁亚型盐湖。
+
+# 1.2 方法
+
+1.2.1土壤呼吸及环境因子监测在盐湖沿岸按照植物和土地利用类型(巴里坤湖：苔草、铃铛刺、芨芨草、干涸湖底;达坂城盐湖：小獐毛、鸢尾、芨芨草、黑果枸杞群落和畧荒地)选择监测样地,样地选择原则：（1）所选植物为湖区主要植物类型；（2）所选利用方式为湖区主要的土地利用方式；（3）所选植物类型和利用方式样地均距湖岸小于 $1 ~ \mathrm { k m }$ 。在每块样地内随机选取3块 $1 0 \ \mathrm { m } \times 1 0 \ \mathrm { m }$ 样方，在样方内随机设置内径为 $2 0 \ \mathrm { c m }$ ,高 $1 0 \ \mathrm { c m }$ 的PVC长期固定底座。植被盖度较大的苔草、小獐毛和畧荒地以及无植被的干涸湖底，底座是沿样方对角线进行样方设置;盖度较稀疏的植物群落如铃铛刺，芨芨草、鸢尾、芨芨草和黑果枸杞植物群落，底座则设置在灌丛或草丛间的空地。于试验开始前 $2 4 \mathrm { ~ h ~ }$ ,将底座嵌入土壤中，使上端高出地表约 $5 \ \mathrm { c m }$ ，除去底座内植物和凋落物。土壤呼吸采用土壤碳通量测量系统LI-COR810O（Li-COR,Lincoln,NE,USA）测定。在每个样方底座附近插入3套地温计测定5cm$( S T 5 ) \ . 1 0 \ \mathrm { c m } \left( \ S T 1 0 \right) \ . 1 5 \ \mathrm { c m } \left( \ S T 1 5 \right) \ . 2 0 \ \mathrm { c m } \left( \ S T 2 0 \right)$ 和 $2 5 \ \mathrm { c m } ( \mathit { S T 2 5 } )$ 土壤温度。试验于2015—2016年5$\sim 1 0$ 月进行，每月中下旬选择2～3个相对晴朗的天气在 $1 0 : 0 0 \sim 1 3 : 0 0$ 测定土壤呼吸速率。
+
+1.2.2土壤和植物样 $\frac { a } { \sin a }$ 采集与处理在监测土壤呼吸速率的同时记录土壤 $5 、 1 0 、 1 5 、 2 0 ~ \mathrm { c m }$ 和 $2 5 \ \mathrm { c m }$ 温度，用铝盒采取 $0 \sim 1 0 ~ \mathrm { c m }$ 土壤带回实验室对土壤含水量(Soilmoisture,SM)进行测定，每块样地重复3次。用环刀采取 $0 \sim 2 0 ~ \mathrm { c m }$ 土壤样品对土壤容重(Bulkdensity，BD)进行测定，重复5次。在样方内采取 $0 \sim 2 0 \ \mathrm { c m }$ 土壤带回实验室进行土壤有机碳(Soil organic carbon, $S O C )$ ）、土壤盐分（Salt）、pH和电导率 $( E C )$ 分析。土壤自然风干后去除根系和砾石,研磨过 $1 \ \mathrm { m m }$ 和 $0 . 2 5 ~ \mathrm { m m }$ 标准筛备用。植被调查采用常规方法，草本植物的调查方法如下：在所选样地附近，按一定方向设置 $5 0 \mathrm { ~ m ~ }$ 样线，每隔 $1 0 \mathrm { ~ m ~ }$ 布设一个 $1 \mathrm { ~ m ~ } { \times } 1 \mathrm { ~ m ~ }$ 的样方。灌木和半灌木生物量测定则按一定方向设置 $1 0 0 \mathrm { ~ m ~ }$ 样线，每隔 $1 0 \mathrm { ~ m ~ }$ 布设一个 $5 \mathrm { ~ m ~ } \times 5 \mathrm { ~ m ~ }$ 的样方，对样方内地表活体植物和凋落物进行采集，植物样品带回室内采用烘干法测定其生物量（Biomass，BIO）。
+
+1.2.3测定方法及数据处理土壤含水量和容重采用烘干法( $1 0 5 \mathrm { ~ \textdegree C }$ )测定；土壤有机碳采用重铬酸钾－浓硫酸外加热法测定；土壤pH采用pH计(PHSJ-4F，上海仪电科学仪器股份有限公司）测定(1:5 土水比);土壤盐分采用残渣烘干法测定[17]采用Van'tHoff 模型模拟土壤温度与土壤呼吸速率的关系，见公式(1)：
+
+$$
+R _ { s } = a \times e ^ { b T }
+$$
+
+式中： $R _ { s }$ 表示土壤呼吸速率( $\bf \Pi _ { \mathrm { [ \mu  m o l ] } } \cdot \bf { m } ^ { \nu - 2 } \cdot \bf { s } ^ { \nu - 1 } ,$ ，下同； $T$ 表示土壤温度 $( \mathrm { ^ { \circ } C } )$ 。采用公式(2)计算土壤$\mathrm { C O } _ { 2 }$ 累积排放量：
+
+$$
+F = R _ { s } \times M \times t
+$$
+
+式中： $F$ 为 $\mathbf { \chi } _ { t }$ 时段内土壤 $\mathrm { C O } _ { 2 }$ 的排放量 $\left( \mathbf { g } \cdot \mathbf { \nabla } \mathbf { m } ^ { - 2 } \right.$ ：$\mathbf { d } ^ { - 1 }$ ）； $M$ 为 $\mathrm { C O } _ { 2 }$ 摩尔质量( $( 4 4 \mathrm { ~ g ~ } \cdot \mathrm { ~ m o l } ^ { - 1 }$ ） $\mathbf { \Psi } _ { t } \mathbf { \Psi } _ { t }$ 为时间(s）。采用公式(3)计算土壤呼吸对温度变化敏感程度：
+
+$$
+Q _ { 1 0 } = \mathrm { e } ^ { 1 0 b }
+$$
+
+式中： $Q _ { 1 0 }$ 为土壤呼吸温度敏感系数，即土壤温度升高 $1 0 \ \mathrm { { ^ circ C } }$ 时土壤呼吸速率变化的倍数; $b$ 为Van'tHoff指数模型 $\left( R _ { s } = a \times \mathrm { e } ^ { b T } \right)$ )中的温度反应常数。
+
+采用线性回归模型拟合土壤有机碳（SOC）、5cm土壤温度（ST5）、土壤含水量（SM)和土壤盐分$( S a l t )$ 对土壤呼吸的影响：
+
+$$
+\boldsymbol { R _ { s } } = \boldsymbol { c } + d \times \boldsymbol { X }
+$$
+
+$R _ { s } = c + d \times S O C + f \times S T 5 + g \times S M + h \times S l a t$ (5)式中： $X$ 为土壤和环境因子; $\boldsymbol { a } \mathbin { \lrcorner } \boldsymbol { b } \mathbin { \lrcorner } \boldsymbol { c } \mathbin { \lrcorner } \boldsymbol { d } \mathbin { \lrcorner } \boldsymbol { f } \mathbin { \lrcorner } \boldsymbol { g } \mathbin { \lrcorner } \boldsymbol { h }$ 均为回
+
+归系数。
+
+对所得数据采用Excel2016进行记录和预处理，使用SPSS20.0进行相关分析和回归分析。所有数据统计分析的显著性水平设定为 $\alpha = 0 . 0 5$ ，并用OriginPro 2017绘图。
+
+# 2 结果分析
+
+# 2.1干旱区盐湖沿岸土壤呼吸特征
+
+干旱区沿岸盐湖土壤呼吸速率 $( R _ { s } )$ 介于0.07$\sim 1 1 . \ 5 9 \ \mathrm { \textmu m o l } \ \cdot \ \mathrm { \textmu } ^ { - 2 } \ \cdot \ \mathrm { \texts } ^ { - 1 }$ 之间,变异系数为$9 0 . 6 3 \ \%$ （图1a)，平均值为 $2 . 4 5 ~ { \mu \mathrm { m o l } } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。其中，达坂城盐湖沿岸土壤呼吸速率介于 $0 . 2 3 \sim$ $1 1 . 5 9 ~ \mathrm { \mu m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 之间,变异系数为 $9 3 . 2 5 \%$ ，平均值为 $2 . 4 1 \ \mu \mathrm { m o l } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 。巴里坤湖沿岸土壤呼吸速率为 $0 . 0 7 \sim 7 . 8 1 ~ \mu \mathrm { m o l } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,年平均排放速率 $2 . 4 8 \ \mu \mathrm { m o l } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ,变异系数（88.$04 \%$ )略低于达坂城盐湖(图1b)。盐湖沿岸土壤呼吸均呈单峰曲线变化（图2a），7月达峰值，10月呼吸速率最低。土壤 $\mathrm { C O } _ { 2 }$ 累积排放量同样也呈先增加后下降趋势（图2b），介于 $2 . 7 2 \sim 2 2 . 1 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ：$\mathrm { ~ d ~ } ^ { - 1 }$ 之间。
+
+![](images/31ffd3738456c1c4d9c872e431ab22bd3cf494bcb20a4f66b50be2da0a046d43.jpg)  
+Fig.1Characteristics of soil carbon emission in arid saline lake coastwise soil
+
+![](images/b76d4fcee147e9dd8f0456371c5127dd12c0685e457894ee0e049a4b336ac84f.jpg)  
+图1干旱区盐湖沿岸土壤碳排放特征   
+图2干旱区盐湖沿岸土壤呼吸变化特征   
+Fig.2Variation of arid saline lake coastwise soil respiration
+
+# 2.2干旱区盐湖沿岸土壤环境和生物因素分析
+
+盐湖沿岸土壤 $S O C , B D , B I O , S a l t$ 以及 $\mathrm { \ p H }$ 均存在不同程度的变异（表1）。 $s o c$ 介于 $4 . 4 7 \sim 3 8 . 3 0$ $\mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ ， $B D$ 介于 $0 . 8 4 \sim 1 . 4 7 ~ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ $S a l t$ 介于$0 . 7 0 \% \sim 5$ ， $7 2 \%$ 之间，属强变异水平（ $C V =$ $1 0 0 . 8 3 \%$ ）， $\mathrm { \ p H }$ 介于 $7 . 0 4 \sim 9 . 5 4 \$ ,巴里坤湖沿岸BIO0 $( 1 ~ 8 2 8 . 2 4 ~ \mathrm { ~ g ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } )$ 高于达坂城盐湖 $( 7 6 . 1 6 \mathrm { ~ g ~ } \cdot$ $\mathrm { ~ m ~ } ^ { - 2 }$ )。不同土层土壤温度变化呈双峰曲线（图 $3 \mathrm { a } \sim$ 3e），同一月份ST5高于其他土层,6\~8月达坂城盐湖土壤各层温度均高于巴里坤（7月 $2 5 \ \mathrm { c m }$ 温度除外）。SM量介于 $1 4 . 3 0 \ \% \sim 4 7 . 6 7 \ \%$ ，达坂城盐湖SM呈先降低再增加的趋势，巴里坤湖则呈先增加
+
+后下降的趋势（图3d）。
+
+# 2.3土壤呼吸与环境因子的相关性及其温度敏感系数
+
+2.3.1相关分析盐湖沿岸土壤呼吸速率与 SOC、SM呈显著正相关；与ST5、Salt呈显著负相关，Salt与土壤呼吸相关性较高。 $B D \ 、 S T 1 0 \ 、 S T 1 5 \_ S T 2 0 .$ $S T 2 5 \mathrm { \Omega } _ { \cdot } \mathrm { p H }$ 与土壤呼吸存在一定负相关,但未达显著水平 $\mathrm { ' } P > 0 . 0 5 \mathrm { ) }$ 。干旱区盐湖沿岸土壤 $Q _ { 1 0 }$ 呈明显的“降低一增加一降低”趋势（图4），平均值为2.79。6、7月 $Q _ { 1 0 }$ 最低，说明在该月份土壤呼吸对温度变化的响应程度最低；9月达到最大值，达坂城盐湖和巴里坤湖分别为3.82和3.22。
+
+表1干旱区盐湖沿岸土壤环境和生物基本参数  
+Tab.1Parameters of soil environment and biology factors of arid saline lakes coastwise soil   
+
+<html><body><table><tr><td>盐湖</td><td>特征值</td><td>SOC/g·kg-1</td><td>BD/g·cm-3</td><td>BIO/g·m-²</td><td>Salt/%</td><td>pH值</td></tr><tr><td>达坂城盐湖</td><td>最大值</td><td>10.18</td><td>1.47</td><td>82.68</td><td>2.30</td><td>8.14</td></tr><tr><td></td><td>最小值</td><td>4.47</td><td>1.18</td><td>71.08</td><td>1.05</td><td>7.04</td></tr><tr><td></td><td>中值</td><td>6.52</td><td>1.35</td><td>75.70</td><td>1.52</td><td>7.63</td></tr><tr><td></td><td>平均值</td><td>7.12</td><td>1.35</td><td>76.16</td><td>1.53</td><td>7.57</td></tr><tr><td></td><td>标准差</td><td>2.08</td><td>0.10</td><td>4.00</td><td>0.43</td><td>0.28</td></tr><tr><td></td><td>变异系数／%</td><td>29.18</td><td>7.60</td><td>5.25</td><td>28.38</td><td>3.76</td></tr><tr><td>巴里坤湖</td><td>最大值</td><td>38.30</td><td>1.58</td><td>2209.80</td><td>5.72</td><td>9.54</td></tr><tr><td></td><td>最小值</td><td>8.27</td><td>0.86</td><td>1517.32</td><td>0.70</td><td>8.11</td></tr><tr><td></td><td>中值</td><td>14.30</td><td>1.14</td><td>1792.92</td><td>0.83</td><td>9.03</td></tr><tr><td></td><td>平均值</td><td>21.14</td><td>1.22</td><td>1828.24</td><td>1.91</td><td>8.89</td></tr><tr><td></td><td>标准差</td><td>13.07</td><td>0.27</td><td>269.79</td><td>1.91</td><td>0.53</td></tr><tr><td></td><td>变异系数／%</td><td>61.82</td><td>21.94</td><td>14.76</td><td>100.83</td><td>5.84</td></tr></table></body></html>
+
+注：表中 SOC、BD、BIO 和 Salt分别表示土壤有机碳、土壤容重、地上生物量和土壤盐分，下同
+
+![](images/34152ce14364abed30c5b88cf19542f079fb6ad42b51699c6dae8391eb8649d9.jpg)  
+图3不同土层温度和 $1 0 \ \mathrm { c m }$ 含水量变化  
+Fig.3Variation of soil temperature and $1 0 \ \mathrm { c m }$ soil moisture of different layers
+
+表2土壤呼吸与环境因子的相关分析  
+Tab.2Relationship between soil respiration an environment factor   
+
+<html><body><table><tr><td rowspan="2">指标</td><td rowspan="2">SOC</td><td rowspan="2">BD</td><td colspan="5">ST</td><td rowspan="2">SM</td><td rowspan="2">BIO</td><td rowspan="2">Salt</td><td rowspan="2">pH</td></tr><tr><td>ST5</td><td>ST10</td><td>ST15</td><td>ST20</td><td>ST25</td></tr><tr><td>R</td><td>0.68 *</td><td>-0.33</td><td>-0.68 *</td><td>-0.11</td><td>-0.54</td><td>-0.51</td><td>-0.44</td><td>0.70 *</td><td>0.31</td><td>-0.74 *</td><td>-0.08</td></tr></table></body></html>
+
+注：表中ST5、ST10、ST15 $. { \cal S } T 2 0$ 、ST25和 SM分别表示5、10、1520、25cm土壤温度、土壤含水量；\*表示显著水平 $P < 0 . 0 5$ (双尾检验）
+
+![](images/3c066afcd1554439100566cd9c638cc81b3763d24e35e008ca220e3693966eda.jpg)  
+图4土壤呼吸温度敏感系数( $Q _ { 1 0 }$ )动态变化 Fig.4Variation of temperature sensitivity of soil respiratiol
+
+2.3.2回归分析回归分析表明，盐湖沿岸土壤呼吸速率 $( R _ { s } )$ 与 $. S O C , S M , S T 5$ 和盐分均存在显著的线性关系（图5，表3）。多元回归方程 $( R _ { s } ) = 0 . 0 0 1$ $\times S O C + 0 . 0 3 9 \times S M - 0 . 5 3 4 \times S a l t - 0 . 1 1 6 \times S T 5 +$ 5.06可解释土壤呼吸变化的 $8 0 . 4 \%$ （ $\begin{array} { r } { P = 0 . \ 0 5 ; } \end{array}$ 。通过比较三因子回归与四因子回归模型决定系数$\scriptstyle ( R ^ { 2 } )$ 大小判断该因子对土壤呼吸的影响重要程度。去除方程中SOC、ST5、SM和 $S a l t$ 后， $\left( R ^ { 2 } \right.$ )分别下降了 $0 . 0 2 4 . 0 . 0 2 7 . 0 . 1 0 4$ 和0.269（表3），Salt去除后$\Delta ( R ^ { 2 } )$ 变化最大。
+
+# 3讨论
+
+# 3.1盐湖沿岸土壤呼吸特征
+
+不同湖泊类型沿岸土壤呼吸存在较大差异。本研究表明，干旱区盐湖沿岸土壤呼吸平均速率为$2 . 4 5 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ ,高于同属干旱区盐湖艾比湖（204号 $( 0 . 6 3 \mathrm { \bf \underline { { \ } } { \mu } m o l \cdot \mathrm { \bf \ m } ^ { - 2 } \mathrm { \bf \cdot \ s } ^ { - 1 } }$ ）[18]和淡水湖泊博斯腾湖沿岸土壤 $( 1 . 7 2 \ \mu \mathrm { m o l } \cdot \mathrm { \bf ~ m } ^ { - 2 } \cdot \mathrm { \bf ~ s } ^ { - 1 } )$ [15],低于干旱区高寒湖泊 $( 3 . 5 1 \mathrm { \textmu m o l { } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 } ) ^ { \complement }$ 14]和洞庭湖沿岸土壤[19],略低于青海湖沿岸草甸土壤 $( 2 . 5 0 ~ \mu \mathrm { m o l }$ ：$\mathbf { m } ^ { - 2 } \cdot \mathbf { s } ^ { - 1 }$ )[20],表明湖泊和沿岸植被类型是影响土壤呼吸的重要因素[21]。此外,干旱区盐湖沿岸存在较多的盐生植物，在盐分的胁迫下植物代谢活动较快，这可能会促进土壤 $\mathrm { C O } _ { 2 }$ 的排放。土壤呼吸作为一个主要由生物驱动产生 $\mathrm { C O } _ { 2 }$ 的生物化学过程,受大气、土壤环境以及生物等因素共同控制[21]。巴里坤湖和达坂城盐湖沿岸土壤呼吸也表现出了较为明显的月动态变化，7月呼吸速率最高，5月和10月相对较低，说明土壤呼吸受温度变化的影响较为显著。本研究显示土壤有机碳、土壤温度、土壤含水量以及土壤盐分与土壤呼吸存在显著相关性(表2）。土壤呼吸与有机碳呈显著正相关( $\textstyle P < 0 . 0 5 )$ ，这与艾比湖及其他淡水湖沿岸的研究结果相同[22],洞庭湖和干旱湖泊沿岸土壤有机碳含量高于巴里坤湖和达坂城盐湖[14,19],土壤微生物呼吸底物来源于有机碳，有机碳含量较高的土壤可为微生物提供较多的可利用底物，而在适宜的温度条件下可促进土壤生物活动，从而增加土壤 $\mathrm { C O } _ { 2 }$ 的排放。
+
+![](images/a72d8b90ff736a8592436647f3a2565a329146f859e86fa34b71016f64d66f1e.jpg)  
+图5土壤呼吸( $\mathbf { \nabla } \cdot R _ { s }$ )与环境因子的回归分析  
+Fig.5Regression analysis between soil respiration and environment factors
+
+表3土壤呼吸与环境因子回归方程  
+Tab.3Regression equation of soil respiration rate and environmental factors   
+
+<html><body><table><tr><td>模型</td><td>变量</td><td>拟合方程</td><td>R²</td><td>P</td><td>△(R²)</td></tr><tr><td>1</td><td>SOC</td><td>(Rs）=0.08 × S0C +1.33</td><td>0.456</td><td>0.025</td><td>-</td></tr><tr><td>2</td><td>ST5</td><td>(Rs）=-0.31×ST5+9.97</td><td>0.455</td><td>0.031</td><td>-</td></tr><tr><td>3</td><td>SM</td><td>（R）=0.09×SM+0.21</td><td>0.417</td><td>0.032</td><td>-</td></tr><tr><td>4</td><td>Salt</td><td>Log((Rs)）=-0.25×Salt +0.69</td><td>0.757</td><td>0.000</td><td></td></tr><tr><td>5</td><td>SOC、ST5、SM、Salt</td><td>(Rs）=0.001×S0C +0.039×SM-0.534×Salt -0.116×ST5 +5.06</td><td>0.804</td><td>0.050</td><td>0.000</td></tr><tr><td>6</td><td>SOC、ST5、Salt</td><td>(R）=0.029× S0C-0.135× ST5-0.541× Salt +6.120</td><td>0.780</td><td>0.021</td><td>0.024</td></tr><tr><td>7</td><td>SOC、SM、Salt</td><td>(R）=0.017×S0C +0.047× SM-0.547×Salt +1.934</td><td>0.777</td><td>0.022</td><td>0.027</td></tr><tr><td>8</td><td>ST5、SM、Salt</td><td>(Rs）=0.040 × SM-0.534 × Salt -0.116 × ST5 +5.072</td><td>0.700</td><td>0.016</td><td>0.104</td></tr><tr><td>9</td><td>SOC、ST5、SM</td><td>(Rs) =0.011× SOC-0.148× ST5+ 0.046× SM+4.584</td><td>0.535</td><td>0.177</td><td>0.269</td></tr></table></body></html>
+
+# 3.2土壤温度和土壤含水量对土壤呼吸的影响
+
+土壤温度几乎影响呼吸作用的各个方面，它主要通过影响土壤微生物代谢和植物根系生长来调控土壤 $\mathrm { C O } _ { 2 }$ 的通量，温度在日、季和年际尺度上的变化可解释土壤呼吸的大部分变异[23]。研究表明,干旱区盐湖艾比湖沿岸土壤呼吸与不同土层温度呈显著负相关[24],与本研究结果一致,这是因为在监测时段内，土壤温度过高或过低均会限制土壤微生物活性，从而抑制 $\mathrm { C O } _ { 2 }$ 排放。也有研究表明，由于土壤温度范围和温差相对较小，有利于微生物活动，表现为土壤呼吸与温度呈显著正相关[18];本研究中7月 $5 \ \mathrm { c m }$ 土壤温最高达 $3 5 . 4 ~ \mathrm { ^ { \circ } C }$ （图3），这可能会限制土壤微生物活性和 $\mathrm { C O } _ { 2 }$ 排放。土壤呼吸与温度呈显著线性相关(图5），表明在一定温度范围内，随着土壤温度的升高，土壤呼吸呈线性降低，这与国内外较多研究结果相同[25]。土壤呼吸温度敏感系数（Qio)可反映土壤呼吸对温度变化的响应程度[26]全球土壤 $Q _ { 1 0 }$ 介于 $1 . 3 \sim 8 . 8$ ,平均值为 $2 . 4 ^ { [ 2 7 ] }$ ,干旱区盐湖沿岸土壤 $Q _ { 1 0 }$ 为2.9，与全球 $Q _ { 1 0 }$ 范围相一致。气候类型是影响土壤 $Q _ { 1 0 }$ 的重要因素[28],本研究区属典型大陆性干旱气候，故土壤 $Q _ { 1 0 }$ 与温带地区整体水平相近。而盐湖沿岸土壤 $Q _ { 1 0 }$ 高于我国不同生态系统类型(1.4\~2.8)[29],这可能是因为利用方式和植被类型的不同改变了土壤呼吸速率的响应程度[30]。 $Q _ { 1 0 }$ 与土壤呼吸的变化均呈明显季节变化,但 $Q _ { 1 0 }$ 最值与土壤呼吸速率峰值出现的时间相对不一致。 $Q _ { 1 0 }$ 最小值出现在土壤呼吸速率最高月份前后，最大值出现在呼吸速率最低月份左右（图2），这与 ZHENG等[31]研究结果相同,这可能是因为微生物群落结构对温度变化的响应存在滞后现象。综上可知，盐湖沿岸土壤呼吸对温度变化的敏感性较高，且易受气候环境变化的影响。
+
+土壤水分对植物生长、微生物活动以及土壤氧化还原电位等与土壤呼吸密切相关的因子起着重要的调控作用，也是影响呼吸速率的重要因素之_[32]。但不同研究结果表明,土壤呼吸对水分变化的响应程度不同。干旱区巴音布鲁克天鹅湖土壤呼吸与土壤含水量呈正相关[14];艾比湖沿岸土壤呼吸与土壤含水量显著负相关[24」;博斯腾湖北岸土壤呼吸与土壤含水量不存在显著相关性[33]。但大部分研究表明土壤含水量在永久萎蔫点与田间持水量之间时与土壤呼吸显著正相关[34],这是因为随着含水量的提高，根系和微生物活性都会有所增强，从而促进土壤呼吸。然在干旱区盐湖沿岸不同植物群落下土壤含水量介于 $1 4 . 3 0 \% \sim 4 7 . 6 7 \%$ ,土壤呼吸与含水量呈显著正相关，表明盐湖沿岸土壤含水量可能未大于田间持水量和低于永久萎蔫点。说明在干旱区盐湖沿岸土壤水分对呼吸作用的胁迫相对较小。
+
+# 3.3土壤盐分对土壤呼吸的影响
+
+干旱区盐碱土是内陆生态系统碳循环的重要环节，前人对干旱区盐分与土壤碳通量的关系开展了大量研究。例如,王忠媛等[35]对荒漠盐碱土的研究表明，土壤无机 $\mathrm { C O } _ { 2 }$ 通量是土壤 $\mathrm { C O } _ { 2 }$ 通量的重要组成部分;土壤温度的变化可改变 $\mathrm { C O } _ { 2 }$ 在土壤溶液中的溶解度,进而催生出一个日出夜进的“无机呼吸”过程[36],且无机 $\mathrm { C O } _ { 2 }$ 通量还受土壤 $\mathrm { \ p H }$ 控制[37]；此外，土壤盐分梯度也会显著改变土壤无机 $\mathrm { C O } _ { 2 }$ 通量[38]。本研究虽未对干旱区巴里坤湖和达坂城盐湖沿岸土壤无机 $\mathrm { C O } _ { 2 }$ 和有机 $\mathrm { C O } _ { 2 }$ 通量进行分离，但通过长期观测土壤 $\mathrm { C O } _ { 2 }$ 通量发现,土壤呼吸速率与盐分显著负相关,这与YUAN 等[39]研究结果一致,盐分降低了土壤渗透势，改变了土壤微生物活性和底物的可利用性[40]。HANNA等[41]研究结果表明,土壤盐分含量小于 $0 . 5 \%$ 和大于 $5 \%$ 时碳排放存在阈值。干旱区盐湖沿岸土壤盐分含量介于 $0 . 7 0 \%$ $\sim 5 . 7 2 \ \%$ 间,通过模型模拟和分析可知,盐湖沿岸土壤呼吸速与盐分存在显著负相关，且“Salt-$( R _ { s }$ )"模型可解释土壤呼吸变化的 $7 5 . 7 \%$ ，高于$S O C ( 4 5 . 6 \%$ ） $, S T 5 ( 4 5 . 5 \% )$ 和 $S M ( 4 1 . 7 \% )$ 单因子模型，说明干旱区盐湖土壤盐分含量是影响碳通量的主控因子。通过建立 $S O C , S T 5 , S M$ 和 Salt 与土壤呼吸的关系，结果表明，多元变量模型能解释干旱区盐湖土壤呼吸速率变化的 $8 0 . 4 \%$ （表3），高于单因素线性或对数线性模型结果,这与杨建军等[24]研究结果一致，表明Salt对土壤呼吸影响因素的贡献最大。因此，在考虑干旱区盐湖区生态系统碳循环时，不能忽视盐分对土壤排放的影响。
+
+受SOC、ST5、SM和Salt的影响，四元线性模型（ $\begin{array} { r l } { \left( \boldsymbol { R _ { s } } \right) } & { = 0 . 0 0 1 \times S O C + 0 . 0 3 9 \times S M - 0 . 5 3 4 \times S a l t - } \end{array}$ $0 . 1 1 6 \times S T 5 + 5 . 0 6 )$ 拟合结果最佳，其中盐分对土壤呼吸的影响较大。因此，在考虑干旱区生态系统土壤碳收支时，不能忽视盐分对碳排放的影响。
+
+# 参考文献(References)
+
+[1]BANWART SA,BERNASCONI S M,BLUM W EH,et al.Soil functions in earth's critical zone;Key results and conclusions[J]. Advances in Agronomy,2017,142:1-27.   
+[2]WIESMEIER M,MUNRO S,BARTHOLD F,et al. Carbon storage capacity of semi-arid grassland soils and sequestration potentials in northern China[J].Global Change Biology,2015,21（10）:3836 -3845.   
+[3]GUO L B,GIFFORD R M.Soil carbon stocks and land use change : A meta-analysis[J]. Global Change Biology,2002,8（4）:345- 360.   
+[4］杨帆,黄来明,李德成,等.高寒山区地形序列土壤有机碳和无 机碳垂直分布特征及其影响因素[J].土壤学报,2015,52(6)： 1226-1236.[YANG Fan,HUANG Laiming,LI Decheng,et al. Vertical distributions of soil organic and inorganic carbon and their controls along top sequences in an alpine region[J].Acta Pedologica Sinica,2015,52(6):1226-1236.]   
+[5］高亮,高永,王静,等.土地覆盖类型对科尔沁沙地南缘土壤有 机碳储量的影响[J].中国沙漠,2016,36（5）：1357－1364. [GAO Liang,GAO Yong,WANG Jing,et al. Impact of land cover change on soil carbon storage in the southern Horqin Sandy Land, Inner Mongolia[J].Journal of Desert Research,2016,36（5）: 1357 -1364.]   
+[6]MESSAGER M L,LEHNER B,GRILL G,et al. Estimating the volume and age of water stored in global lakes using a geo-statistical approach[J].Nature Communications,2016,7:13603.   
+[7］马勇刚,黄粤,陈曦,等.新疆积雪覆盖时空变异分析[J].水科 学进展,2013,24(4）:483-489.[MA Yonggang,HUANG Yue, CHEN Xi,et al.Analyzing spatial-temporal variabilityof snow cover in Xinjiang[J].Advances in Water Science,2013,24(4）:483 - 489.]   
+[8]BAUSTIAN M M,STAGG C L,PERRY C L,et al. Relationships between salinity and short-term soil carbon accumulation rates from marsh types across a landscape in the Mississippi River Delta[J]. Wetlands,2017,37(2):1-12.   
+[9]WEN ZD,SONG K S,ZHAO Y,et al. Carbon dioxide and methane supersaturation in lakes of semi-humid/semi-arid region, northeastern China[J].Atmospheric Environment,2016,138:65 -73.   
+[10]WURTSBAUGH W A,MILLER G,NULL S E,et al. Decline of the world's saline lakes[J].Nature Geoscience,2017,1O:816-821.   
+[11]SCHAUFLER G,KITZLER B,SCHINDLBACHER A,et al. Greenhouse gas emissions from European soils under different land use : Effects of soil moisture and temperature[J].European Journal of Soil Science,2010,61(5）:683 -696.   
+[12] BATSON J,NOE G B,HUPP C R,et al. Soil greenhouse gas emis
+
+# 4结论
+
+（1）干旱区盐湖沿岸 $5 \sim 1 0$ 月土壤呼吸月动态变化规律明显，呈先升高再降低的趋势，土壤呼吸平均值为 $2 . 4 5 ~ { \mu \mathrm { m o l } } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ;土壤呼吸温度敏感系数( $\left| Q _ { 1 0 } \right.$ 呈“降低一升高一降低”趋势，6月最低（2.25），9月最高（3.52）。盐湖沿岸土壤呼吸温度敏感系数(2.79)高于全球平均值(2.40），对温度变化的敏感程度较高。
+
+（2）干旱区盐湖土SOC、ST5、SM和 $S a l t$ 与土壤呼吸显著相关( $P < 0 . 0 5 )$ ，除盐分外，单因素模型解释土壤呼吸变化均小于 $5 0 \%$ 。盐湖土壤呼吸同时
+
+sions and carbon budgeting in a short-hydroperiod floodplain wetland[J]. Journal of Geophysical Research Biogeosciences,2015, 120(1) :77 -95.   
+[13］谢艳兵,贾庆宇,周莉,等.盘锦湿地芦苇群落土壤呼吸作用动 态及其影响因子分析[J].气象与环境学报,2006,22（4）：53- 58.[XIE Yanbing,JIA Qingyu,ZHOU Li,et al. Soil respiration and its controlling factors at Phragmites communities wetland in Panjin[J].Journal of Meteorology and Environment,2006,22 (4) :53 -58.]   
+[14］胡保安,贾宏涛,朱新萍,等.新疆巴音布鲁克天鹅湖高寒湿地 土壤呼吸对水分条件的响应[J].环境科学研究,2016,29（7）： 1041-1049.［HU Baoan,JIA Hongtao,ZHU Xinping,et al.Dynamics of soil respiration under diferent water conditions in an alpine wetland of the Xinjiang Bayanbulak Swan Lake[J].Research of Environmental Sciences,2016,29(7）:1041-1049.]   
+[15］王金龙,李艳红,李发东.博斯腾湖人工和天然芦苇湿地土壤 呼吸动态变化规律及其影响因素［J].农业环境科学学报, 2017,36（1）:167 -175.[WANG Jinlong,LI Yanhong,LI Fadong.Dynamics of soil respiration and its influential factors on artificial and natural reed wetlands in Boston Lake[J]. Journal of Agro-Environment Science,2017,36(1):167-175.]   
+[16] GHOSH U,THAPA R,DESUTTER T,et al. Saline-sodic soils: Potential sources of nitrous oxide and carbon dioxide emissions? [J].Pedosphere,2017,27(1） :65-75.   
+[17］鲍士旦.土壤农化分析[M].北京：中国农业出版社,2000. [BAO Shidan.Analysis of soil agrochemical[M].Beijing:China Agriculture Press,2000.]   
+[18］赵明亮,李艳红,李发东.艾比湖湿地典型植物群落入冬期土 壤呼吸日变化特征[J].农业环境科学学报,2015,34（12)： 2432-2438.[ZHAO Mingliang,LI Yanhong,LI Dongfa.Diurnal variation of soil respiration in a typical plant community in the Ebinur Lake wetland during beginning winter[J].Journal of AgroEnvironment Science,2015,34(12）:2432-2438.]   
+[19］唐洁,李志辉,汤玉喜,等.洞庭湖滩地土壤微生物与土壤呼吸 特征分析[J].中南林业科技大学学报,2011,31(4）:20 -24. [TANG Jie,LI Zhihui,TANG Yuxi,et al. Characteristics analyses of soil respiration and microorganisms in beach of Dongting Lake [J]. Journal of CentralSouth UniversityofForestry&Techology, 2011,31(4) :20 -24.]   
+[20］陈骥,曹军骥,魏永林,等.青海湖北岸高寒草甸草原非生长季 土壤呼吸对温度和湿度的响应[J].草业学报,2014,23(6)：78 -86.[CHEN Ji,CAO Junji,WEI Yonglin,et al.Effect of grazing exclusion on soil respiration during the dormant season in alpine meadow grassand ecosystem on the northern shore Qinghai Lake, China[J]. Acta Partaculturae Sinica,2014,23(6):78 -86.]   
+[21]LUO Y,ZHOU X. Soil Respiration and the Environment ［M]. London:Elsevier,2006.   
+[22］秦璐,吕光辉,张雪妮,等.干旱区艾比湖湿地土壤呼吸的空间 异质性[J].干旱区地理,2014,37(4):704-712.[QIN Lu,LV Guanghui,ZHANGXueni,etal.Spatial heterogeneityofoilesiration at Ebinur Lake Wetland Nature Reserve in arid area[J].Arid Land Geography,2014,37(4）:704-712.]   
+[23]ATKIN O K,EDWARDS EJ,LOVEYSBR,et al.Response of root respiration to changes in temperature and its relevance to global warming[J].New Phytologist,2000,147(1）:141-154.   
+[24］杨建军,吕光辉,张燕,等.艾比湖流域不同植物群落土壤呼吸 研究[J].环境科学研究,2009,22（3）：362-370.［YANG Jianjun,LV Guanghui,ZHANG Yan,et al. Soil respiration of different plant communities in Ebinur Lake watershed[J].Research of Environmental Sciences,2009,22(3）:362-370.]   
+[25]RODEGHIERO M,CESCATTI A.Main determinants of forest soil respiration along an elevation/temperature gradient in the Italian Alps[J]. Global Change Biology,2010,11（7）:1024-1041.   
+[26]CHEN B,LIU S,GE J,et al. Annual and seasonal variations of $Q _ { 1 0 }$ ,soil respiration in the sub-alpine forests of the eastern Qinghai-Tibet Plateau,China[J].Soil Biology& Biochemistry,2010, 42(10) :1735 - 1742.   
+[27]DAVIDSON E A,VERCHOTL V,CATTANIO JH,et al. Effects of soil water content on soil respiration in forests and cattle pastures of eastern Amazonia[J].Biogeochemistry,2000,48(1）:53-69.   
+[28］RAICH JW,SCHLESINGER W H.The global carbon dioxide flux in soil respiration and its relationship to vegetation and climate [J].TelusSeries B-chemical& Physical Meteorology,1992,44 (2) :81 -99.   
+[29]PENG S S,PIAO S L,TAO W,et al. Temperature sensitivity of soil respiration in different ecosystems in China[J].Soil Biology & Biochemistry,2009,41(5）:1008-1014.   
+[30] SHI W Y,YAN M J,ZHANG JG,et al.Soil CO $^ 2$ emissions from five different types of land use on the semiarid Loess Plateau of China,with emphasis on the contribution of winter soil respiration [J].Atmospheric Environment,2014,88(5）:74-82.   
+[31]ZHENG Z M,YU G R,FU Y L,et al. Temperature sensitivity of soil respiration is affected by prevailing climatic conditions and soil organic carbon content:A trans-China based case study[J]. Soil Biology& Biochemistry,2009,41（7）:1531-1540.   
+[32]RU J,ZHOU Y,HUI D,et al. Shifts of growing-season precipitation peaks decrease soil respiration in a semiarid grassand[J]. Global Change Biology,2018,24（3）:1001-1011.   
+[33］马蓉.新疆博斯腾湖北岸不同地表条件下土壤呼吸特征研究 [D].乌鲁木齐:新疆大学,2015.［MARong.Research of soil respiration under different surface conditions of the north shore of Bosten Lakein Xinjiang[D].Urumqi：Xinjiang University, 2015.]   
+[34］王新源,李玉霖,赵学勇,等.干旱半干旱区不同环境因素对土 壤呼吸影响研究进展[J].生态学报,2012,32（15）:4890－4901. [WANG Xinyuan,LI Yulin,ZHAO Xueyong,etal. Responsesof soil respiration to different environment factors in semi-arid and arid areas[J].Acta Ecologica Sinica,2012,32(15）:4890 -4901.]   
+[35］王忠媛,王玉刚,谢江波,等.盐土和碱土土壤无机 $\mathrm { C O } _ { 2 }$ 通量的 分离［J].干旱区地理,2013,36（4）:655－661.[WANG Zhongyuan,XIE Jiangbo,WANG Yugang,et al.Differentiating the soil inorganic $\mathrm { C O } _ { 2 }$ flux of saline and alkaline soils[J].Arid Land Geography,2013,36(4）:655- 661.]   
+[36］李彦,王玉刚,唐立松.重新被"激活"的土壤无机碳研究［J] 土壤学报,2016,53（4）:845-849.[LI Yan,WANG Yugang, TANG Lisong.Theefortoe-activate theinorganiccarboninsoil [J].Acta Pedologica Sinica,2016,53(4） :845 -849.]   
+[37］王忠媛,谢江波,王玉刚,等.温度对盐土和碱土土壤无机 $\mathrm { C O } _ { 2 }$ 通量的影响[J].生态学杂志,2013,32（10）：2525－2531. [ WANG Zhongyuan,XIEJiangbo,WANG Yugang,et al.Eectsof temperature on inorganic $\mathrm { C O } _ { 2 }$ flux of saline soil and alkaline soil [J].Chinese Journal of Ecology,2013,32（10）:2525-2531.]   
+[38］王忠媛，谢江波，王玉刚,等.盐碱土土壤无机 $\mathrm { C O } _ { 2 }$ 通量与土壤 盐碱属性的关系[J].生态学杂志，2013，32（10）：2552-2558. [WANG Zhongyuan,XIE Jiangbo,WANG Yugang,et al.Soil inorganic $\mathrm { C O } _ { 2 }$ flux in relation to soil $\mathrm { \ p H }$ and electric conductivity in saline/alkaline soils[J].Chinese Journal of Ecology,2O13,32 （10):2552-2558.]   
+[39]YUAN BC,LI Z Z,LIUH,et al.Microbial biomass and activity in salt affected soils under arid conditions[J].Applied Soil Ecology, 2007,35(2):319 -328.   
+[40]GHOLLARATA M,RAIESIF.The adverse effects of soil salinization on the growthof Trifolium alexandrinumL.and associated microbial and biochemical properties in a soil from Iran[J].Soil Biology&Biochemistry,2007,39（7）:1699-1702.   
+[41]HANNAJ,NEEDELMANB A,MEGONIGAL JP.Salinity influence on methane emissions from tidal marshes[J].Wetlands, 2011,31(5) :831-842.
+
+# Characteristic of soil respiration and its influencing factors on the coastal of saline lake in arid region
+
+LI Dian-peng¹，YAO Mei-si'， SUN Tao'，LIUSUI Yun-hao'， JIA Hong-tao $^ { 1 , 2 }$ (1Collegeof Grasslandand Envronmental Science,XijiangAgricultural UniversityUrumqi 830o52,Xinjiang,hina; 2Xinjiang Key Laboratory of Soil and Plant Ecological Processes,Urumqi 83oo52,Xinjiang,China)
+
+Abstract:Inland water ecosystems can act as greenhouse gas sinks through the photosynthetic uptake of carbon dioxide ( $\mathrm { C O } _ { 2 }$ ）and subsequent storage in long-lived biomass or burial in soils.As one of the most important carbon sinks,thecarbon sedimentationrate of lakes was related tothe“sourceand sink”status of organic carbon content in coastal soils and their carbon emission rates.We investigated the characteristics of soil respiration rate $( R _ { s } )$ ,the temperature sensitivity of soil respiration ( $\cdot Q _ { 1 0 } )$ variability,and its influencing factors in a typical arid saline lake coastal area.In this study,we measured the soil respiration rateusing a Li-81OO automated soil flux system（LICOR,Lincoln,Nebraska,USA）from May to October 2015 and 2016 at Dabancheng and Barkol saline lakes,Xinjiang,China.The dynamics of seasonal soil respiration rate and $Q _ { 1 0 }$ value,the correlation between soil respiration and soil organic carbon（SOC）,bulk density（BD）,soil temperature（ST）,soil moisture（M）,plant biomass （BIO）,and salt and $\mathrm { \ p H }$ were also evaluated.The results showed as follows:(1） the seasonal variation of soil respiration rate ranged from 0.07 to $1 1 . 5 9 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ ,and the monthly mean value was $2 . 4 5 ~ { \mu \mathrm { m o l } } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ： The soil respiration rate peaked once in July with a maximum value of $4 . 6 9 ~ \mu \mathrm { m o l } \cdot \mathrm { ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ , while the lowest respiration rate was in October $( 1 . 0 1 \ \mu \mathrm { m o l } \cdot \textbf { m } ^ { - 2 } \cdot \textbf { s } ^ { - 1 } \cdot$ ).（2）the monthly mean cumulative daily $\mathrm { C O } _ { 2 }$ emission was $9 . 3 0 \mathrm { ~ g ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ d ~ } ^ { - 1 }$ ,July cumulative emission rate reach peak ( $( 1 7 . 8 2 \mathrm { ~ g ~ m ~ } ^ { - 2 } \cdot \mathrm { ~ d ~ } ^ { - 1 } )$ ）.（3）the negative correlation between soil respiration rate,soil temperature ( $5 \ \mathrm { c m }$ ）,and soil salt was significant ( $P ~ < ~ 0 . 0 5$ ）,and there was a positive correlation between soil respiration rate,soil organic carbon,and soil moisture.（4） the $Q _ { 1 0 }$ value presented a single peak trend from July to October,and there was no significant diferences between the saline lakes,with minimum and maximum values of 2.25and3.52 in June and September,respectively.（5）the results of the linear model showed the best fiting model forsoil respirationrateand SOC,ST5,M,andsoil saltcontent.The single-factor model could explain $4 1 . 7 \% - 7 5 . 7 \%$ of soil respiration variability in the saline lakes coastal regions ( $\textit { P } < 0$ ： 05）,and the multifactor synthesis model $R _ { s } = 0 . 0 0 1 \ \times \ \mathrm { S O C } + 0 . 0 3 9 \ \times \ \mathrm { M } - 0 . 5 3 4 \ \times \ \mathrm { S a l t } - 0 . 1 1 6 \ \times \ \mathrm { S T 5 }$ （204 $+ \ 5 . 0 6$ （ $P ~ = ~ 0 . 0 5$ ）could explain $8 0 . 4 ~ \%$ of soil respiration variability.After eliminating SOC,ST5,SM ,and salt,the determinants of the three-factor regression equation $( R ^ { 2 } )$ were reduced to 0. 024,0. 027,0.104,and 0. 269,respectively,indicating thatthecontributionrateof salt was the largestamong thefactorsafecting thesoil respirationrate.Theresults of single-factor and multifactorsynthesis models showedthat soil salt had the greatest influence on soil respiration rate in the saline lakes coastal regions.Therefore,when considering the carbon budget and cycle of terrestrial ecosystems,we cannot ignore the soil carbon processs in saline lakes in arid regions and the effects of soil salt on the carbon emissions from saline lake ecosystems in arid regions.
+
+Key words:Carbon emision；soil salt；Dabancheng saline lake；Barkol saline lakes；temperature sensitive of soil respiration（Q10)

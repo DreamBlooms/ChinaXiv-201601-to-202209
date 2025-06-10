@@ -1,0 +1,154 @@
+# 恩诺沙星对厌氧发酵过程中水解酶活性及沼气产量的影响
+
+张敏 钱金秋1 李忠洲²　刘庆玉1(1．沈阳农业大学工程学院 沈阳110866;2.抚顺出入境检验检疫局 抚顺113006)
+
+摘要兽用抗生素因其具有防病、促生长的作用被广泛应用于畜禽养殖业，而在畜禽粪便发酵生产沼气的过程中，残留在畜禽粪便中的抗生素可能会抑制沼气发酵过程。该文以猪粪和玉米秸秆为原料，采用自行设计的恒温厌氧发酵装置，研究了外源添加恩诺沙星(ENR)对猪粪厌氧发酵过程中水解酶活性及产气量的影响。结果表明，添加 $2 0 \mathrm { m g \cdot k g ^ { - 1 } }$ 、 $6 0 \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ 和 $1 2 0 \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 恩诺沙星条件下，猪粪厌氧发酵初期不同浓度恩诺沙星对纤维素酶和脲酶活性有显著抑制作用 $( P { < } 0 . 0 5 )$ ；厌氧发酵的前 $1 5 \mathrm { ~ d ~ }$ ，添加 $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ 恩诺沙星对蔗糖酶活性有一定的激活作用 $( P { < } 0 . 0 5 )$ ，添加 $6 0 ~ \mathrm { { m g } { \cdot k g } ^ { - 1 } }$ 和 $1 2 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 的恩诺沙星对蔗糖酶活性有抑制作用 $( P { < } 0 . 0 5 )$ ；猪粪厌氧发酵后期，恩诺沙星对纤维素酶、脲酶和蔗糖酶活性影响不显著 $( P { > } 0 . 0 5 )$ 。在发酵产气速率增长期的第5\~11 d 和 21\~31 d,添加 $2 0 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 、 $6 0 \ \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ 和 $1 2 0 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 恩诺沙星对沼气产气速率有明显抑制作用$( P { < } 0 . 0 5 )$ ；而在发酵的第31d后，添加各浓度恩诺沙星对沼气产气速率影响不大。在整个50d的厌氧发酵过程中，与不添加恩诺沙星的对照相比，添加 $2 0 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ 、 $6 0 \mathrm { m g } \mathrm { k g } ^ { - 1 }$ 和 $1 2 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 恩诺沙星处理的总产气量分别减少 $7 . 3 8 \%$ 、 $12 . 0 8 \%$ 和 $1 5 . 7 7 \%$ 。可见，恩诺沙星影响了猪粪厌氧发酵过程中水解酶活性和沼气产气速率及产气量，在厌氧发酵不同阶段，恩诺沙星对不同水解酶活性和产气速率影响也不同。该文研究结果可为无害化处理含恩诺沙星的畜禽粪便及提高厌氧发酵效率提供参考。
+
+关键词畜禽粪便恩诺沙星厌氧发酵水解酶沼气产量 中图分类号：X705 文献标识码：A 文章编号:1671-3990(2016)11-1539-08
+
+# Effect of Enrofloxacin on hydrolytic enzyme activities and biogas production during anaerobic fermentation
+
+ZHANG Min', QIAN Jinqiu',LI Zhongzhou²,LIU Qingyu1 (1. College of Engineering,Shenyang Agricultural University, Shenyang l1O866,China; 2.Fushun Entry-Exit Inspection and Quarantine Bureau, Fushun 1l3oo6,China)
+
+AbstractVeterinary antibiotics are widely usedas feed aditives in domestic animal rearing either to improve growth performanceor to prevent disease infection.A widerangeof antibiotics is excreted unchanged in urine and feces ofanimals, posing potential humanandecological health risks after entering theenvironment.This is confirmed bythepresenceof widespread detectable antibioticconcentrations in surface watersand manure.Antibiotics originating in manure fromlivestock operations areaconcernbecause theyremain bioactive.Anaerobic digestionisoneofthe most promising biotechnologies for the conversionof diverse organic substrates,ranging from high solid fedstocks (animal manure,food waste and municipal solid waste)to municipal and industrial wastewaters andtoenergy-rich biogas.Mostof thebiogas plants in China are unon animal manure toreducebiological oxygen demandand to produce biogas.After ingestion by animals,someofthe compounds areexcreted along with the manure which mayinhibit biogas processwhen manure is usedas substrate in biogas plants.Most studies on antibiotic inhibitionunder anaerobic fermentation have focusedonanimal manure as substrate,showing significant anaerobic fermentation inhibition primarilyat higher antibioticconcentrations typicall found in manure.Anexperiment was therefore designed to studythe effectsofEnrofloxacin (ENR)addition topig manureon hydrolytic enzymeactivities and biogas production in anaerobic fermentation processs with pig manure and corn stalks asraw materials.Theresults showed that pig manure anaerobic fermentation added with $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ ， $6 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ and $1 2 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ENR inhibited cellulose and urease activities at the initial stage of anaerobic fermentation $\left( P < 0 . 0 5 \right)$ ). However,the addition of $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ ENR promoted the activities of sucrose,while the addition of $6 0 ~ \mathrm { { m g } \cdot k g ^ { - 1 } }$ and $1 2 0 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ENR inhibited the activities of sucrase in the first 15 days $( P < 0 . 0 5 )$ .The effects of ENR on cellulase,urease and sucrose activities were not statistically different in the late stage of anaerobic fermentation $( P > 0 . 0 5 ) \$ ).Pig manure-based anaerobic fermentation with $2 0 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ ， $6 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ and $1 2 0 \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ ENR significantly inhibited gas production rate during 5-1l days and 21-31 days $( P < 0 . 0 5 )$ ）of anaerobic fermentation. Compared with control (no ENR application),the gas production rate had no obvious changes in $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ ， $6 0 ~ \mathrm { { m g } \cdot k g ^ { - 1 } }$ and $1 2 0 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ENR treatments after 31 days of anaerobic fermentation. Furthermore, biogas yield decreased by $7 . 3 8 \%$ ， $12 . 0 8 \%$ and $1 5 . 7 7 \%$ ， respectively, in $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ ， $6 0 \ \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ and $1 2 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ ENR treatments during anaerobic fermentation for 5O days.It was obvious thatENR influenced hydrolytic enzyme activities,gas productionrate and biogas productionduring anaerobic fermentation.The effctsof ENRon diferent hydrolytic enzyme activities and gas production rate were alsodiferentat different stages ofanaerobic fermentation.Theresults provided areference forharmlessdisposalof animal manure containing ENR and for improvement of anaerobic fermentation efficiency.
+
+KeyWordsLivestock manure; Enrofloxacin; Anaerobic fermentation; Hydrolytic enzyme activity; Biogas yield
+
+随着集约化养殖业以及配合饲料工业的发展兽用抗生素作为饲料添加剂等越来越被广泛应用于畜禽养殖业中。抗生素通过口服或肌肉注射进入动物体内很少被内脏器官吸收利用，约 $30 \% { \sim } 9 0 \%$ 以原药和代谢产物的形式经动物的粪便和尿液进入生态环境中[1-2]。我国近几年兽用抗生素年均消费已达6000t，大规模使用主要集中在经济发达地区，畜禽养殖粪便中的兽用抗生素残留已经达到比较严重的程度[3]。我国 $80 \%$ 的规模化养殖场缺乏必要的污染治理设施，致使大量畜禽粪污直接排入环境，造成环境污染，据预测2020年中国畜禽粪便每年排放总量将达42.44亿t[4]。沼气技术是处理畜禽粪便的有效途径，沼气技术的核心是厌氧发酵，它可以利用畜禽粪便、农业秸秆、污泥废水等发酵原料生产沼气，从而实现畜禽粪便的减量化、无害化和资源化利用[5-6]。
+
+但是，在现代畜禽养殖业中，兽用抗生素被广泛应用，导致畜禽粪便中含有较高浓度的兽用抗生素残留[7]。在沼气发酵过程中，残留在畜禽粪便中的兽用抗生素可能会影响畜禽粪便沼气发酵系统的稳定和运行效率，使抗生素成为导致沼气发酵系统不稳定和失败的原因之一[8-9]。孙建平等[10]研究发现金霉素会使猪废水厌氧消化产甲烷速率降低 $4 7 . 4 \%$ 潘洪加等[1]研究表明外源添加土霉素对厌氧发酵累积甲烷产量有抑制作用，同对照相比可减少 $4 . 6 \% \sim$ $9 . 4 \%$ ；Alvarez等[12]研究发现土霉素和四环素会抑制猪粪厌氧发酵，可使甲烷产量降低 $56 \% { \sim } 6 2 \%$ 。目前有关四环素类抗生素对厌氧发酵影响研究较多[7],而有关喹诺酮类抗生素对于畜禽粪便厌氧发酵过程中酶活性及沼气产量的影响研究较少。
+
+恩诺沙星(Enrofloxacin)是1987年由德国拜尔公司研制成功并投入使用的第一个动物专用的氟喹诺酮类药物，该药物广泛应用于动物和畜禽养殖业感染性疾病的预防和治疗[13]。近年来我国学者调查发现，氟喹诺酮类抗生素在畜禽粪便中的残留达到了$\mathrm { m g \cdot k g ^ { - 1 } }$ 级[7]，在对我国8个省、市、自治区规模化养殖畜禽粪便调查中发现，恩诺沙星是主要抗生素污染物，在猪粪中含量高达 $3 3 . 2 6 \mathrm { m g \cdot k g ^ { - 1 [ 3 ] } }$ 。厌氧发酵生产沼气是在微生物的作用下逐步进行酶促反应的结果，其中水解是整个发酵过程的开始，水解过程的快慢决定着整个发酵过程的速度，而纤维素酶、脲酶等水解酶活性的高低又决定着水解速度，因而水解酶活性与沼气产量存在着直接关系[14-15]。为此,本文研究了添加不同浓度恩诺沙星对猪粪厌氧发酵过程中纤维素酶、脲酶、蔗糖酶活性及沼气产气速率和产气量的影响，为研究恩诺沙星对畜禽粪便厌氧发酵的影响提供理论依据。
+
+# 1材料与方法
+
+# 1.1 发酵原料
+
+发酵原料玉米秸秆取自沈阳农业大学试验基地，自然风干后剪短至 $3 { \sim } 5 ~ \mathrm { c m }$ ，经粉碎机粉碎成粉末;沼气发酵试验用粪便为采自沈阳农业大学养猪场育成期猪(猪体重 $4 0 { \sim } 8 0 \mathrm { k g } ,$ 收集的新鲜猪粪。猪采食的饲料为传统的玉米-豆粕型日粮(自配饲料不含任何抗生素)，饲养期间不使用任何抗生素兽药。接种物沼液取自沈阳农业大学“中国东北寒冷地区综合能源示范基地"猪粪正常沼气发酵后的沼液，其总固体含量(TS)为 $8 \%$ ，经测定不含恩诺沙星。恩诺沙星购自德国Dr.Ehrenstorfer(纯度 $9 7 \%$ )，用甲醇稀释溶解。
+
+表1试验用厌氧发酵材料的基本性质Table1Basic parameters of experiment materials for anaerobic fermentation  
+
+<html><body><table><tr><td>材料 Material</td><td>全碳 Total C(g·kg-1)</td><td>全氮 TotalN (g:kg-1)</td><td>全钾 Total K(g·kg-1)</td><td>全磷 Total P(g:kg-1)</td><td>碳氮比 C/N</td></tr><tr><td>猪粪 Pig manure</td><td>398.65</td><td>25.32</td><td>15.40</td><td>11.86</td><td>15.74</td></tr><tr><td>玉米秸秆 Corn straw</td><td>388.46</td><td>6.28</td><td>11.83</td><td>1.88</td><td>61.86</td></tr></table></body></html>
+
+# 1.2 试验装置
+
+本试验的装置为自制排水集气法简易发酵装置主要由2.5L发酵瓶、2L集气瓶和2L排水瓶3部分组成。发酵瓶置于 $3 7 \mathrm { ~ \ ^ { \circ } C }$ 恒温水浴锅内，发酵瓶与集气瓶瓶口用胶塞塞紧，各部分用乳胶管连接，所有接□处均用石蜡和凡士林密封。
+
+# 1.3 试验设计
+
+试验中厌氧发酵的猪粪与秸秆比例为 $2 : 1$ ，取新鲜猪粪 $4 0 0 ~ \mathrm { g }$ ，碎秸秆 $2 0 0 ~ \mathrm { g }$ 加入到发酵瓶中，根据两种原料含水率以及 $\mathrm { C / N }$ ，加水调节总固体质量分数为 $8 \%$ 5 $\mathrm { C / N } { = } 2 5 : 1$ ，接种沼液 $30 \%$ (湿重计)。本试验共设置4个处理，添加恩诺沙星的量(占干猪粪的比例)依次为： $0 \mathrm { m g \cdot k g ^ { - 1 } ( C K ) }$ 、 $2 0 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ (T1)、 $6 0 \mathrm { m g \cdot k g ^ { - 1 } }$ (T2)和 $1 2 0 \ \mathrm { \ m g \cdot k g ^ { - 1 } ( T 3 ) }$ ，将恩诺沙星溶液与原料充分混匀装入发酵罐内，密封在暗处进行发酵，每个处理重复3次。
+
+# 1.4 样品采集
+
+分别在沼气发酵的第3d、6d、9d、12d、15d、18d、21d、24d、27d、35d、45d和50d对沼气发酵沼渣沼液混合物进行采样(采样前晃动发酵罐混匀), $4 \mathrm { { ^ \circ C } }$ 冰箱冷藏，用于酶活性的测定。从试验启动的第2d起，每天定时记录日产气量(产气速率)，采用排水法收集沼气，共持续 $5 0 ~ \mathrm { d } _ { \circ }$
+
+# 1.5 样品测定
+
+# 1.5.1 酶活性的测定
+
+水解酶活性测定参照关松荫[1]的方法。纤维素水解酶活性采用比色法测定，以 $2 4 \mathrm { ~ h ~ }$ 后 $\mathrm { ~ 1 ~ g ~ }$ 样品中生成葡萄糖的质量表示 $( \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } } )$ ，脲酶活性采用比色法测定，以 $2 4 \mathrm { h }$ 后 $\mathrm { ~ 1 ~ g ~ }$ 样品中生成 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 的质量表示 $( \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } } )$ ，蔗糖酶活性采用3,5-二硝基水杨酸比色法测定，以 $2 4 \mathrm { ~ h ~ }$ 后 $\mathrm { ~ 1 ~ g ~ }$ 样品中生成葡萄糖的质量表示 $( \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } } )$ 。
+
+# 1.5.2 恩诺沙星浓度的测定
+
+样品恩诺沙星含量测定参照张敏等[17]的方法利用高效液相色谱-荧光检测进行测定。
+
+# 1.6 数据处理
+
+数据采用MicrosoftExcel2003进行处理和制图。
+
+# 2 结果与分析
+
+# 2.1不同浓度恩诺沙星对厌氧发酵过程中纤维素酶活性的影响
+
+纤维素是植物性发酵原料的主要成分，在厌氧发酵过程中，可在纤维素酶作用下水解为纤维二糖，进而水解为葡萄糖，因此纤维素酶活性的变化可以反映发酵过程中碳素物质的降解情况[18]。由图1可以看出，在厌氧发酵过程中纤维素酶活性先升高后降低。在第 $_ { \mathrm { ~ 3 ~ d ~ } }$ ，添加恩诺沙星处理纤维素酶活性显著低于CK对照 $( P { < } 0 . 0 1 )$ ，CK和T1处理在厌氧发酵第9d后纤维素酶活性差异不显著 $( P { > } 0 . 0 5 )$ ，在第21d纤维素酶活性达到最高值，分别为 $6 . 7 3 \ : \mathrm { \ m g { \cdot g } ^ { - 1 } { \cdot d } ^ { - 1 } }$ 和$6 . 8 8 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } }$ 。在发酵前21dT2和T3处理的纤维素酶活性显著低于CK和T1处理 $( P { < } 0 . 0 5 )$ ，表明较高浓度水平的恩诺沙星抑制了厌氧发酵过程中的纤维素酶活性，而T2和T3处理纤维素酶活性于第27d达到最高值，分别为 $5 . 4 1 \ \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } }$ 和 $4 . 3 2 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } }$ ，表明添加中高浓度外源恩诺沙星不仅对纤维素酶活性的最大值具有抑制作用，并且延缓了纤维素酶活性最大值的出现时间。而发酵35d后，T2和T3处理的纤维素酶活性与CK和T1处理差异不显著 $( P { > } 0 . 0 5 )$ 。由于厌氧发酵对抗生素具有降解和去除作用[19-20]，可能是随着恩诺沙星在厌氧发酵过程的不断降解，使得其对纤维素酶的活性抑制有所降低。由以上分析可知，添加外源恩诺沙星使厌氧发酵过程中纤维素酶活性变化趋势发生很大变异，可能是添加恩诺沙星使发酵液中微生物数量和群落结构发生变化，发酵液中水解纤维素相关类群微生物的生长受到影响。
+
+# 2.2 不同浓度恩诺沙星对厌氧发酵过程中脲酶活性的影响
+
+脲酶是氮素循环的一种关键性酶，能促进含氮有机物的水解，测定脲酶活性对于了解沼气发酵液中蛋白质等含氮有机物的分解具有重要意义[21]。由图2可以看出，添加恩诺沙星后的第3d,T1、T2和T3各处理脲酶活性均受到不同程度的抑制，显著低于$\operatorname { C K } ( P { < } 0 . 0 1 )$ ，T1、T2和T3各处理对脲酶活性的抑制率分别为 $3 1 . 5 \%$ 、 $4 0 . 3 \%$ 和 $57 . 7 \%$ 。CK处理的脲酶活性在厌氧发酵的第9d达到最大值 $8 . 8 5 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } }$ ，而T1、T2和T3处理在厌氧发酵的第12d达到最大值，分别为 $6 . 3 8 \mathrm { m g { \cdot } g ^ { - 1 } { \cdot } d ^ { - 1 } }$ 、 $5 . 6 2 \mathrm { m g { \cdot } g ^ { - 1 } }$ d-和 $4 . 8 7 \ : \mathrm { m g { \cdot } g ^ { - 1 } { \cdot } d ^ { - 1 } }$ ，这可能是由于厌氧发酵初期一定浓度的恩诺沙星对微生物产生抑制作用，导致微生物的密度降低，进而分泌脲酶比CK要少。在厌氧发酵第 $3 { \sim } 1 8$ d,T1、T2和T3处理脲酶活性显著低于CK处理 $( P { < } 0 . 0 5 )$ ；第24d开始，T1和T2处理脲酶活性与CK处理差异不显著 $( P { > } 0 . 0 5 )$ ；第27d开始，各处理之间脲酶活性差异均不显著 $( P { > } 0 . 0 5 )$ 。可能是随着恩诺沙星在厌氧发酵过程中的沉积和降解，其对微生物抑制作用减弱，各处理的脲酶活性逐渐恢复到对照水平。
+
+![](images/3c58ff2befe251a853316ccaad44e10aedfcae2f9e15abe3b9434c183b2d2ecf.jpg)  
+图1不同恩诺沙星添加量处理下厌氧发酵过程中纤维素酶活性的变化
+
+![](images/dffbbfce38118c61fd7e2c35b443e90fabf30b8bc7513000f0193f939258c054.jpg)  
+图2不同恩诺沙星添加量处理下厌氧发酵过程中脲酶活性的变化  
+Fig.2Variation of urease activity during anaerobic fermentation under different addition amounts ofEnrofloxacin
+
+# 2.3不同浓度恩诺沙星对厌氧发酵过程中蔗糖酶活性的影响
+
+蔗糖酶是一种重要的水解酶，可以把蔗糖水解为葡萄糖和果糖，以满足微生物生长发育中对碳源和能源的需求[21]。由图3可以看出，CK、T1、T2和T3处理厌氧发酵液中蔗糖酶活性均是先升高后降低。CK和T1处理蔗糖酶活性在厌氧发酵的第12d达到最大值，分别为 $5 6 . 8 2 \ \mathrm { \ m g { \cdot } g ^ { - 1 } { \cdot } d ^ { - 1 } }$ 和 $6 3 . 1 7 ~ \mathrm { m g { \cdot g } ^ { - 1 } { \cdot d } ^ { - 1 } }$ ：，T2和T3处理蔗糖酶活性在第15d分别达到了$5 2 . 6 8 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } }$ 和 $4 9 . 4 7 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot d ^ { - 1 } }$ 的峰值。可见，添加中高浓度的恩诺沙星推迟了蔗糖酶活性峰值到来的时间。从图中可以看出，在第 $3 { \mathord { \sim } } 1 5 \mathrm { ~ d ~ }$ ，T1处理蔗糖酶活性显著高于CK处理 $( P { < } 0 . 0 5 )$ ，表明低浓度的恩诺沙星对厌氧发酵液中蔗糖酶活性有促进作用；而T2和T3处理蔗糖酶活性显著低于CK处理 $( P { < } 0 . 0 5 )$ 5表明高浓度的恩诺沙星对厌氧发酵液中蔗糖酶活性有抑制作用。第21d后各处理之间蔗糖酶活性差异不显著 $( P { > } 0 . 0 5 )$ ，可能是由于随着恩诺沙星的不断降解而对蔗糖酶活性的影响逐渐减弱，同时蔗糖酶活性本身也在减弱，导致差异不显著。
+
+![](images/69a10e15c375a666f66afb2b9064c187f53d4d9ade117d42f448082934436a1b.jpg)  
+Fig.1Variation of cellulase activity during anaerobic fermentation under different addition amounts ofEnrofloxacin CK：不添加恩诺沙星；T1:添加 $2 0 \mathrm { \ m g ^ { \cdot } k g ^ { - 1 } }$ 恩诺沙星；T2: 添加 $6 0 \ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 恩诺沙星;T3：添加 $1 2 0 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 恩诺沙星。下同。 CK:no adding Enrofloxacin; T1:adding $2 0 ~ \mathrm { m g ^ { \cdot } k g ^ { - 1 } }$ Enrofloxacin; T2:adding $6 0 ~ \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ Enrofloxacin；T3:adding $1 2 0 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ Enrofloxacin.The same below.   
+图3不同恩诺沙星添加量处理下厌氧发酵过程中蔗糖酶活性的变化  
+Fig.3Variation of sucrase activity during anaerobic fermentation under differentadditionamountofEnrofloxacin
+
+# 2.4恩诺沙星对沼气产气速率及产气量的影响
+
+产气速率是厌氧发酵条件下发酵原料产生沼气的速度，是衡量原料发酵分解好坏的主要指标之一。从图4可以看出，在发酵产气的过程中，CK、T1、T2和T3处理的沼气产气速率均呈现先增后减的趋势。这可能是因为试验采用猪粪加秸秆的混合式发酵方式，试验开始时发酵原料既有富氮原料，又有富碳原料，富碳原料分解较慢；同时厌氧微生物对环境有一个逐渐适应的过程，随着对环境的逐渐适应，其活性越来越大，所以开始时，秸秆等富碳原料未被分解，产气量较少，后富碳原料被分解，产气量也随之逐渐增加，之后由于原料中大部分有机物被分解，产气量又逐渐减少。CK和T1处理在发酵的第11d日产气速率达到峰值，分别为 $1 \ 1 2 4 \ \mathrm { m L } \cdot \mathrm { d } ^ { - 1 }$ （204号和 $9 1 8 ~ \mathrm { m L } { \cdot } \mathrm { d } ^ { - 1 }$ ，随后开始下降;T2和T3处理在第16d达到峰值，分别为 $8 7 5 ~ \mathrm { m L } { \cdot } \mathrm { d } ^ { - 1 }$ 和 $8 5 2 ~ \mathrm { m L } { \cdot } \mathrm { d } ^ { - 1 }$ ，可见添加中高浓度恩诺沙星推迟了产气高峰到来的时间;所有处理在第1个产气高峰后，发酵液进行充分搅拌,CK处理在发酵的第 $2 8 \mathrm { ~ d ~ }$ 达到最高产气速率，为$1 \ 5 3 6 \ \mathrm { m L } { \cdot } \mathrm { d } ^ { - 1 }$ ,T1、T2和T3处理在发酵的第30d达到最高产气速率，分别为 $1 \ 3 8 6 \ \mathrm { m L } \cdot \mathrm { d } ^ { - 1 }$ / $1 \ 3 7 8 \ \mathrm { m L } \cdot \mathrm { d } ^ { - 1 }$ （20和 $1 \ 3 4 2 \ \mathrm { m L } \cdot \mathrm { d } ^ { - 1 }$ ，之后各处理发酵逐渐平缓下降。在发酵产气速率增长期的第5\~11d和21\~31d,CK处理产气速率显著高于T1、T2 和 T3处理 $( P { < } 0 . 0 5 )$ ，T3处理产气速率最低。结果表明，添加恩诺沙星对厌氧发酵产气速率有明显的抑制作用，而在发酵的第31d后，各处理之间产气速率差异不显著 $( P { > } 0 . 0 5 )$ _，可能是由于随着发酵进行恩诺沙星也不断降解，对厌氧发酵产气速率的抑制作用也在减弱。
+
+![](images/9810b202b1acca7bc9beccb69b30d53933baf785d4d6dd8210bd6a2acdd1cf88.jpg)  
+图4不同恩诺沙星添加量处理对厌氧发酵产气速率的影响  
+Fig.4Effects of different addition amounts of Enrofloxacin on biogas production rate during anaerobic fermentation
+
+累积产气量指厌氧发酵过程中有机物质产气的总量，是衡量厌氧发酵系统与工艺优劣的重要参数。在整个50d的厌氧发酵过程中，CK、T1、T2和T3的总产气量分别为 $3 6 9 8 8 \mathrm { m L }$ 1 $3 4 2 6 0 ~ \mathrm { m L }$ / $3 2 5 1 9 \mathrm { m L }$ 和 $3 1 1 5 6 \mathrm { ~ m L }$ (图5)，可见随着添加恩诺沙星浓度的增加，总产气量下降，同CK对照相比T1、T2和T3各处理产气量分别减少 $7 . 3 8 \%$ 、 $12 . 0 8 \%$ 和 $1 5 . 7 7 \text{‰}$
+
+# 3 结论与讨论
+
+畜禽粪便的厌氧发酵过程，其实是各种各样的酶主导的生物化学反应过程，而这些酶的活性通常会受到各种环境因素的影响，抗生素会通过抑制酶的活性进而影响厌氧发酵的效能。陈智学等[22]研究发现在堆肥的第1d土霉素对纤维素酶活性有抑制作用，第3d土霉素对纤维素酶活性起促进作用，在
+
+![](images/7e063f0cd37194711922c43695246c62c610d73a1df30e6d9ef490aed995a8ba.jpg)  
+图5不同恩诺沙星添加量处理对厌氧发酵产气量的影响 Fig.5Effects of different addition amounts of Enrofloxacin on biogas yield of anaerobic fermentation (
+
+4\~30 d高浓度土霉素对纤维素酶活性有抑制作用;在堆肥的前期，土霉素刺激脲酶活性，随着堆肥时间的延长，土霉素对脲酶活性由刺激变为抑制作用。潘洪加等[11]研究发现厌氧发酵初期土霉素对脲酶活性有一定的促进作用，在厌氧发酵后期，土霉素对脲酶活性转变为抑制作用。张凯煜等[23]研究发现在堆肥前期，土霉素和磺胺二甲嘧啶对脲酶活性无显著影响，而在堆肥后期，抗生素对脲酶活性有抑制作用。金彩霞等[24研究表明第11d之前磺胺间甲氧嘧啶对土壤脲酶活性表现为抑制作用，至第15d之后磺胺间甲氧嘧啶对脲酶活性影响逐渐恢复至对照水平，大都表现为微弱的激活效应，而对土壤蔗糖酶活性的影响表现出“激活-抑制-激活"的规律。姚志鹏等[25]研究发现土霉素对土壤蔗糖酶活性在培养前期具有轻微的抑制作用，但培养后期具有较强的抑制作用；而对土壤脲酶活性的影响则相反，在培养第1d $1 0 0 \ \mathrm { \ m g { \cdot } k g ^ { - 1 } }$ 处理对脲酶具有显著的刺激作用，以后土霉素对脲酶活性影响不明显。国彬等[26]研究发现磺胺类兽药可显著抑制土壤蔗糖酶的活性；土壤脲酶活性的影响表现为，培养前期低浓度时激活，高浓度时抑制，培养后期低、高浓度时均抑制。本研究结果表明，在厌氧发酵初期，不同浓度的恩诺沙星对纤维素酶和脲酶活性有抑制作用;在厌氧发酵的前 $1 5 \mathrm { ~ d ~ }$ ，添加 $2 0 \ \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ 恩诺沙星对蔗糖酶活性有一定的激活作用，添加 $6 0 \ \mathrm { \ m g { \cdot k g } ^ { - 1 } }$ 和$1 2 0 \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ 的恩诺沙星对蔗糖酶活性有抑制作用;在沼气发酵后期，随着恩诺沙星在发酵过程中的不断降解，其对纤维素酶、脲酶和蔗糖酶活性影响不大。本研究发现恩诺沙星在厌氧发酵不同时期对纤维素酶、脲酶和蔗糖酶活性的影响不同，可能因为抗生素影响各类水解酶活性机制不同，也可能与添加抗生素的浓度有关。同时，比较本研究和前人研究文献可以发现，国内外学者研究结果之间存在一定差异，分析原因可能与研究选择的抗生素种类、微生物生长环境等有关。
+
+沼气产气速率及产气量是衡量厌氧发酵系统优劣的重要指标。Beneragama等[27]研究发现土霉素和头孢唑啉对牛粪高温沼气发酵甲烷产量有明显的抑制作用，可使甲烷产量降低 $32 \%$ 。据Massé等[28]发现盘尼西林和四环素可使猪废水厌氧消化的产甲烷速率降低 $3 5 \%$ 和 $2 5 \%$ 。Shi等[29]研究发现四环素和磺胺甲氧嘧啶推迟了猪粪沼气发酵甲烷产生时间， $2 0 \mathrm { ~ d ~ }$ 内甲烷的累积产生量比对照明显降低。Mitchell等[30]研究发现氨苄青霉素在厌氧发酵初期阶段会抑制沼气产气速率，泰乐菌素可降低沼气产气量 $1 0 \% \sim$ $3 8 \%$ 。本研究结果表明，在发酵产气速率增长期的第5\~11d和 $2 2 { \sim } 2 8 \mathrm { ~ d ~ }$ ，添加 $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ 、 $6 0 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ 和$1 2 0 ~ \mathrm { m g ^ { . } k g ^ { - 1 } }$ 的恩诺沙星对沼气产气速率有明显的抑制作用；而在发酵的第31d后，添加各浓度恩诺沙星对沼气产气速率影响不大。在整个50d的厌氧发酵过程中，同CK相比添加 $2 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ 、 $6 0 ~ \mathrm { m g } { \cdot } \mathrm { k g } ^ { - 1 }$ 和$1 2 0 ~ \mathrm { \ m g ^ { . } k g ^ { - 1 } }$ 的恩诺沙星处理总产气量分别减少$7 . 3 8 \%$ 人 $12 . 0 8 \%$ 和 $1 5 . 7 7 \%$ ，该研究与前人的研究结论基本一致。已有文献证明水解酶活性与沼气产量存在着直接关系[14-15]，本试验也表明，沼气发酵过程中，纤维素酶、脲酶和蔗糖酶活性均出现在产气峰值的附近，水解酶活性与沼气产气速率的变化曲线相似。
+
+综上所述，恩诺沙星影响了厌氧发酵过程中水解酶活性和沼气产气速率及产气量，在厌氧发酵不同阶段，恩诺沙星对不同水解酶活性和产气速率影响也不同。在厌氧发酵初期，恩诺沙星对纤维素酶和脲酶活性有抑制作用，且随药物浓度的增高而影响加大，低浓度恩诺沙星对蔗糖酶活性有一定的激活作用，中高浓度恩诺沙星对蔗糖酶活性有抑制作用；在沼气发酵后期，恩诺沙星对纤维素酶、脲酶和蔗糖酶活性无明显影响。在厌氧发酵产气速率增长期(第5\~11d和 $2 2 { \sim } 2 8 \mathrm { d }$ ，恩诺沙星对沼气产气速率有明显抑制作用，在产气下降期(31d后)对沼气产气速率影响不大；在整个 50d的厌氧发酵过程中，恩诺沙星降低了厌氧发酵沼气总产气量，并随着浓度增长而影响加大，恩诺沙星影响下厌氧发酵水解酶活性与沼气产气量呈正相关。沼气发酵这一厌氧生物降解过程极其复杂，沼气发酵是涉及多菌群相互作用的非线性复杂系统，是复杂微生物区系相互制约的动态平衡过程，各种微生物的活动不仅相互作用、相互依赖，而且互为制约，共同影响沼气的产量。沼气发酵过程中微生物群落结构及水解酶活性变化是影响沼气发酵产气效率的关键因素[31-32]。因此，在今后还应加强抗生素对厌氧发酵过程中微生物菌群数量、多样性及其与水解酶活性和沼气产量之间的协同性研究，进一步明确抗生素影响厌氧发酵的机制，为优化畜禽粪便厌氧发酵参数提供理论依据。
+
+# 参考文献 References
+
+[1]Sarmah AK,Meyer MT,Boxall ABA.A global perspective on the use,sales,exposure pathways,occurrence,fate and effects of veterinary antibiotics (VAs) in the environment[J]. Chemosphere,2006,65(5): 725-759   
+[2]Boxall A B,Fogg L A,Blackwel P A，et al.Veterinary medicines in the environment[M]//Reviews of Environmental Contamination and Toxicology.New York:Springer, 2004, 180:1-91   
+[3] Zhao L，Dong Y H，Wang H. Residues of veterinary antibiotics in manures from feedlot livestock in eight provinces of China[J]. Science of the Total Environment, 2010,408(5): 1069-1075   
+[4] 刘辉，王凌云，刘忠珍，等．我国畜禽粪便污染现状与治理 对策[J].广东农业科学,2010,37(6):213-216 Liu H,Wang L Y,Liu Z Z,et al. Pollution condition and cure countermeasures of excrements from livestock and poultry[J]. Guangdong Agricultural Sciences, 2010,37(6): 213-216   
+[5] Zhang PD, Yang YL, Tian Y S,et al.Bioenergy industries development in China: Dilemma and solution[J]. Renewable and Sustainable Energy Reviews,2009,13(9):2571-2579   
+[6]史金才，廖新悌，吴银宝．4种畜禽粪便厌氧发酵产甲烷特 性研究[J]．中国生态农业学报,2010,18(3):632-636 Shi J C,Liao X D,Wu Y B.Methane generation during anaerobic fermentation of four livestock slurries[J]. Chiese Journal of Eco-Agriculture,2010,18(3): 632-636   
+[7]刘锋，廖德润，李可，等．畜禽养殖基地磺胺类喹诺酮类和 大环内酯类抗生素污染特征[J]．农业环境科学学报，2013, 32(4): 847-853 Liu F,Liao DR,Li K,etal.Pollution characteristics of the sulfonamides，quinolones and macrolides in the samples collected from livestock and poultry feedlots[J].Journal of Agro-Environment Science,2013,32(4): 847-853   
+[8]孙建平，郑平，胡宝兰，等．抗生素对猪场废水厌氧生物处 理的影响[J]．太阳能学报,2009,30(6):824-828 Sun JP, Zheng P, Hu B L,et al.Effect of antibiotics on anaerobic digestion of piggery wastewater[J]. Acta Energiae Solaris Sinica,2009,30(6):824-828   
+[9] Chen Y,Cheng JJ,Creamer K S. Inhibition of anaerobic digestion process: A review[J]. Bioresource Technology,2008, 99(10): 4044-4064   
+10] 孙建平，郑平，胡宝兰．金霉素对猪场废水厌氧消化抑制 作用[J]．哈尔滨工业大学学报,2010,42(4):652-655 Sun JP, Zheng P,Hu BL.Inhibitory effect of aureomycin on Harbin Institute of Technology,2010,42(4): 652-655   
+[11]潘洪加，谷洁，史龙翔，等．土霉素对厌氧发酵中酶活 性和甲烷产量的影响[J]．环境科学学报，2015，35(7): 2217-2223 Pan HJ,Gu J, Shi L X,et al. Effects of OTC concentration on methane production and enzyme activities during anaerobic fermentation[J].Acta Scientiae Circumstantiae,2015,35(7): 2217-2223   
+[12] Alvarez JA,Otero L,Lema JM,et al. The effect and fate of antibiotics during the anaerobic digestion of pig manure[J]. Bioresource Technology,2010,101(22): 8581-8586   
+[13]符博敏，岳林，冯丹，等．恩诺沙星与Cu复合污染对白菜 和西红柿根及芽伸长的抑制作用[J].生态毒理学报，2015, 10(5): 157-163 Fu B M, Yue L,Feng D,et al. Inhibitory effect of combined pollution of enrofloxacin and $\mathtt { C u }$ on root and shoot elongation of cabbage and tomato[J]. Asian Journal of Ecotoxicology, 2015,10(5): 157-163   
+[14]牛俊玲，梁丽珍，刘蕾，等．温度对麦秸混合物料厌氧干发 酵中糖类水解酶活性的影响[J]．中国生态农业学报，2013, 21(10): 1271-1276 Niu JL,Liang L Z,Liu L,et al. Effect of temperature on carbohydratehydrolaseactivityduringdryanaerobic fermentation of mixed wheat straw[J]. Chinese Journal of Eco-Agriculture,2013,21(10): 1271-1276   
+[15] 张无敌，宋洪川，尹芳，等．牛粪在沼气发酵过程中的水解 酶酶活变化研究[J]．能源工程,2003(6):21-23 Zhang W D,Song HC, Yin F, et al. Correlation study between biogas output & hydrolase activity during the biogas fermentation of cattle manure[J].Energy Engineering, 2003(6): 21-23   
+[16]关松荫．土壤酶及其研究法[M]．北京：农业出版社，1986: 260-339 Guan S Y. Soil Enzyme and its Research Methods[M]. Beijing: Agricultural Press,1986: 260-339   
+[17] 张敏，刘庆玉，敖永华．高效液相色谱-荧光检测畜禽粪污 中四种氟喹诺酮类抗生素残留[J]．湖北农业科学，2012, 51(3): 602-604 Zhang M, Liu Q Y,Ao Y H. Determination of four kinds of fluoroquinolones antibiotics residues in livesotck feces by highperformanceliquidchromatography-fluorescence detection[J].Hubei Agricultural Sciences，2012,51(3): 602-604   
+[18]牛俊玲，秦莉，郑宾国．鼠李糖脂对餐厨垃圾厌氧发酵过 程中水解酶活性的影响[J]．农业环境科学学报,2015,34(8): 1589-1594 Niu JL,Qin L,Zheng B G. Effect of rhamnolipid on hydrolase activity during anaerobic digestion of kitchen residues[J]. Journal of Agro-Environment Science,2015, 34(8): 1589-1594   
+[19] 陈永山，章海波，骆永明，等．典型规模化养猪场废水中兽 用抗生素污染特征与去除效率研究[J].环境科学学报, 2010,30(11): 2205-2212 wastewater[J]. Acta Scientiae Circumstantiae,20l0, 30(11): 2205-2212   
+[20]童子林，刘元璐，胡真虎，等．四环素类抗生素污染畜禽粪 便的厌氧消化特征[J]．环境科学,2012,33(3):1028-1032 Tong $Z \mathrm { ~ L ~ }$ ,Liu Y L,Hu Z H,et al. Anaerobic digestion of animal manure contaminated by tetracyclines[J]. Environmental Science,2012,33(3):1028-1032   
+[21]陈琳，谷洁，高华，等.Cu对厌氧发酵中水解酶活性及沼气 产量的影响[J]．农业工程学报,2012,28(9):202-207 Chen L,Gu J,Gao H,et al. Effects of Cu on hydrolytic enzyme activities and biogas production during anaerobic fermentation[J]. Transactions of the Chinese Society of Agricultural Engineering,2012,28(9): 202-207   
+[22] 陈智学，谷洁，高华，等．土霉素对堆肥过程中酶活性 和微生物群落代谢的影响[J]．生态学报，2013，33(21): 6957-6966 Chen Z X, Gu J, Gao H, et al. Effect of oxytetraeyeline (OTC) on the activities of enzyme and microbial community metabolic profiles in composting[J].Acta Ecologica Sinica, 2013,33(21):6957-6966   
+[23] 张凯煜，谷洁，赵听，等．土霉素和磺胺二甲嘧啶对堆肥过 程中酶活性及微生物群落功能多样性的影响[J].环境科学 学报,2015,35(12): 3927-3936 Zhang K Y,Gu J, Zhao T, et al. Effects of OTC and $\mathbf { S } \mathbf { M } _ { 2 }$ on the enzyme activities and the functional diversity of microbial community during pig manure composting[J]. Acta Scientiae Circumstantiae,2015,35(12):3927-3936   
+[24]金彩霞，刘军军，陈秋颖，等．兽药磺胺间甲氧嘧啶对土壤 呼吸及酶活性的影响[J]．农业环境科学学报，2010,29(2): 314-318 Jin C X,Liu J J,Chen Q Y,et al. Effects of sulfamonomethoxineonsoil respirationandenzyme activity[J]. Journal of Agro-Environment Science,2010,29(2): 314-318   
+[25] 姚志鹏，李兆君，梁永超，等．土壤酶活性对土壤中土霉素 的动态响应[J]．植物营养与肥料学报,2009,15(3):696-700 Yao Z P, Li Z J,Liang Y C, et al. Dynamic responses of soil enzymatic activities to oxytetracycline in soil[J].Plant Nutrition and Fertilizer Science,2009,15(3):696-700   
+[26] 国彬，姚丽贤，刘忠珍，等．磺胺类兽药对土壤酶活性的影 响[J]．生态环境学报,2011,20(5):970-974 Guo B,Yao L X,Liu Z Z,et al. Impact of sulfonamide veterinary drugs on soil enzymes activity[J]. Ecology and Environmental Sciences,2011,20(5): 970-974   
+[27] Beneragama N,Lateef S A,Iwasaki M,et al.The combined effect of cefazolin and oxytertracycline on biogas production from thermophilic anaerobic digestion of dairy manure[J]. Bioresource Technology,2013,133: 23-30   
+[28] Massé D I, Lu D,Masse L,et al. Effect of antibiotics on psychrophilic anaerobic digestion of swine manure slurry in sequencing batch reactors[J]. Bioresource Technology, 2000, 75(3):205-211   
+[29]Shi JC,Liao X D,Wu Y B,et al.Effect of antibiotics on methane arising from anaerobic digestion of pig manure[J]. Animal Feed Science and Technology,2011，166/167: 457-463   
+[30]Mitchell S M,Ullman JL,Teel AL,et al.The effects of the antibiotics ampicillin,florfenicol,sulfamethazine,and tylosin on biogas production and their degradation efficiency during anaerobic digestion[J].Bioresource Technology,2O13,149: 244-252   
+[31]Zwirglmaier K,Ludwig W,Schleifer K H.Recognition of
+
+individual genes in a single bacterial cell by fluorescence in situ hybridization-ring-fish[J].Molecular Microbiology,2004, 51(1): 89-96 [32]崔晓龙，张无敌，王永霞，等．沼气发酵生态系统的微生物 群落动态研究进展[J].云南大学学报：自然科学版，2013, 35(3):399-406 CuiXL,ZhangWD,WangYX,et al.Research advances in the microbial community dynamics of biogas fermentation ecosystems[J].Journal of Yunnan University:Natural Sciences Edition,2013,35(3):399-406
+
+# 欢迎订阅2017年《华北农学报》
+
+《华北农学报》1986年创刊，由河北、北京、天津、河南、山西、内蒙古六省市区农科院、农学会联合主办，为全国首家跨省、市、区多单位联办的农业学术刊物。本刊立足华北，面向全国和全世界。主要刊载农作物、果树、水产、畜牧、资环、植保等农业基础学科的原创性研究论文、专论、综述、研究简报等，报道农业学术动态。主要服务于农业高等院校师生和农业科研机构的研究人员。
+
+《华北农学报》为中国科学引文数据库核心期刊(CSCD 核心库）、中文核心期刊、中国科技核心期刊、RCCSE 中国核心学术期刊和中国农业核心期刊。在2014年版《中文核心期刊要目总览》综合性农业科学类核心期刊中排名第2位，为我国有影响力的农业学术刊物。《华北农学报》多次荣获国家级及省级奖励：全国优秀科技期刊评比三等奖、全国优秀农业期刊学术类一等奖、首届华北优秀期刊、首届北方十佳期刊、中国北方优秀期刊、河北省荣誉期刊、河北省精品期刊、河北省十佳期刊及河北省优秀期刊等奖项;2011年被评选为"中国精品科技期刊”。
+
+《华北农学报》国内外公开发行，国内统一刊号:CN13-1101/S，国际刊号ISSN1000-7091。双月刊，双月28日出版,国际标准大16开本,240页，每期定价12元，全年72.00元。邮发代号:18-10，国外发行代号:5918。全国各地邮局均可订阅。可随时汇款到编辑部订阅，请注明刊名、份数、姓名、地址、邮编及电话。
+
+欢迎订阅、欢迎投稿。
+
+通信地址：石家庄市和平西路598号《华北农学报》编辑部邮编：050051 电话：0311-87652166E-mail:hbnxb@163.com 网址：http://www.hbnxb.net/

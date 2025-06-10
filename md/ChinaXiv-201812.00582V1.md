@@ -1,0 +1,231 @@
+不同锌源及水平对生长育肥猪生长性能、血清抗氧化指标及微量元素利用的影响牛现绣 杨维仁\*袁学军 张崇玉薛峰程振峰 张本盛（山东农业大学动物科技学院，泰安271018）
+
+摘要：本试验旨在研究饲粮添加低水平蛋氨酸锌（Zn-Met）或硫酸锌（ $\mathrm { Z n S O _ { 4 } }$ ）对生长育肥猪生长性能、血清抗氧化指标和微量元素利用的影响，确定生长育肥猪饲粮中锌的适宜添加量，实现有效利用资源，减少排泄物中锌对环境的影响。选用体重为（ $3 3 . 7 0 { \scriptstyle \pm 2 . 7 6 }$ ）kg的"杜 $\times$ 长 $\times$ 大"生长育肥猪32头，随机分成4组，每组8个重复，每个重复1头猪。对照组饲喂基础饲粮，试验组在基础饲粮中分别添加 40 mg/kg Zn-Met、 $4 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 和 $8 0 ~ \mathrm { m g / k g }$ $\mathrm { Z n S O _ { 4 } }$ （以锌元素计）。预试期7d，正试期 $7 2 \mathrm { d }$ ，分生长期和育肥期2个阶段。结果表明：1）与对照组相比，饲粮添加不同来源和水平锌对生长育肥猪平均日增重、平均日采食量和料重比均无显著影响（ $. { \cal P } { > } 0 . 0 5$ ）。2）与对照组相比，饲粮添加不同来源和水平锌能显著提高生长育肥猪血清总超氧化物歧化酶（T-SOD）、谷胱甘肽过氧化物酶（GSH- $\mathbf { \cdot P x }$ ）及铜锌超氧化物歧化酶( $\mathrm { \ ' { C u } Z n - S O D }$ 活性 $( P { < } 0 . 0 5 )$ ），显著降低血清丙二醛（MDA）含量 $( P { < } 0 . 0 5 )$ $4 0 \mathrm { m g / k g \ Z n - M e t }$ 组血清T-SOD和GSH- $\mathbf { \cdot P x }$ 活性最高，血清MDA含量最低；而血清CuZn-SOD活性随 $\mathrm { { Z n S O _ { 4 } } }$ 添加量的增加而升高，以 $8 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 组最高。3）与对照组相比，饲粮添加 Zn-Met 显著提高锌、铜和锰表观吸收率（ $\scriptstyle P < 0 . 0 5$ ），而饲粮添加 $\mathrm { Z n S O _ { 4 } }$ 只显著提高锌表观吸收率（ $P { < } 0 . 0 5$ ），且随 $\mathrm { { Z n S O _ { 4 } } }$ 添加量的增加而降低； $4 0 \mathrm { m g / k g \ Z n - M e t }$ 组锌表观吸收率最高。综上所述，饲粮添加 $Z { \mathrm { n - M e t } }$ 或 $\mathrm { Z n S O _ { 4 } }$ 没有显著改善生长育肥猪的生长性能，但显著改善了生长育肥猪的血清抗氧化指标和微量元素的表观吸收率；本试验条件下，生长育肥猪饲粮中 $\mathrm { { Z n S O _ { 4 } } }$ 的添加量需低于 $8 0 \mathrm { m g / k g }$ ，而 $4 0 \mathrm { m g / k g \ Z n - M e t }$ 较为适宜。
+
+关键词：有机锌；生长育肥猪；抗氧化；表观吸收率
+
+中图分类号：S828
+
+锌是动物必不可少的的微量元素，也是机体 200多种酶的组成成分，参与多种代谢反应，对动物的生长发育起重要作用[1-4]。自1989年丹麦科学家发现饲粮添加高剂量无机锌对断奶仔猪有减少腹泻、提高日增重的作用以来饲粮中锌的添加量日渐增高。研究表明，相比无机硫酸锌（ $\mathrm { Z n S O _ { 4 } }$ ），氨基酸螯合锌——蛋氨酸锌（Zn-Met）的生物学利用率高、稳定性好、生物效价高，不仅减少环境污染，还能有效促进动物生长[5]。研究发现，生长猪不同阶段对微量元素的需要量随体重增加呈递减趋势，高锌于动物的幼龄阶段使用，其他阶段使用低水平的锌即可满足猪的生长需求、维持血清锌的浓度和稳定性，降低粪便锌的排泄量[7-9]。Gowanlock 等[10]在NRC（2012）标准上减少 $50 \%$ 矿物元素添加量对猪的生长性能和肉品质均无影响。文超越等[1研究发现减少 $30 \%$ 和 $60 \%$ 饲粮中的矿物元素对育肥猪的生长性能和肉品质也无显著影响。目前饲粮高锌使用泛滥，对环境污染的风险越来越大。据日本有关专家推测，如果所有猪粪中的锌停留在土壤中，锌含量将在17年内超标（ $1 2 0 \mathrm { m g / k g } ^ { \cdot }$ ），被污染的土地将不再具有可耕性。鉴于高剂量微量元素添加造成的危害，日本规定在猪不同阶段氧化锌最高添加量为 $1 2 0 ~ \mathrm { m g / k g }$ ，欧盟允许添加量不超过 $2 5 0 ~ \mathrm { m g / k g }$ 。荷兰SFR 饲料研究所对生长猪饲粮中锌的需要推荐量定为 $8 0 \mathrm { m g / k g }$ (包括饲粮原料中的锌和额外添加锌的总和)。但目前有关生长和育肥猪两阶段低锌水平的研究较少。因此，本试验旨在研究低锌水平对生长育肥阶段猪生长性能、血清抗氧化指标和微量元素利用的影响，以期通过有效利用资源、减少排泄和降低对环境的影响，为生长育肥阶段锌的适宜添加提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验设计及饲粮
+
+试验选用体况良好、体重为（ $3 3 . 7 0 { \scriptstyle \pm 2 . 7 6 }$ ） $\mathbf { k g }$ 的“杜 $\mathbf { \nabla } _ { \times }$ 长 $\times$ 大"三元杂交生长育肥猪（去势公猪）32头，随机分成4组，每组8个重复，每个重复1头猪，每头猪单笼饲养。对照组饲喂基础饲粮，试验组在基础饲粮中分别添加 40 mg/kg Zn-Met、 $4 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 和80$\mathrm { m g / k g \ Z n S O _ { 4 } }$ 。基础饲粮根据 NRC（2012）猪营养需要配制，其组成及营养水平见表1。预试期7d，正试期 $7 2 { \mathrm { d } }$ ，其中生长期 $3 2 \mathrm { d }$ 、育肥期 $4 0 \mathrm { d }$ 。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of the basal diet（air-dry basis ） %   
+
+<html><body><table><tr><td>项目Items</td><td colspan="2">试验阶段 Trial stage</td></tr><tr><td></td><td>生长期Growing period</td><td>育肥期Finishing period</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>全株玉米 Whole plant corn</td><td>10.00</td><td>15.00</td></tr><tr><td>玉米Corn</td><td>59.00</td><td>57.71</td></tr><tr><td>豆粕 Soybean meal</td><td>23.39</td><td>20.00</td></tr><tr><td>麸皮Wheat bran</td><td>2.00</td><td>2.00</td></tr><tr><td>大豆油 Soybean oil</td><td>2.50</td><td>2.50</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>磷酸氢钙 CaHPO4</td><td>1.09</td><td>0.98</td></tr><tr><td>石粉 Limestone</td><td>1.09</td><td>0.98</td></tr><tr><td>食盐 NaCl</td><td>0.31</td><td>0.28</td></tr><tr><td>预混料 Premix1)</td><td>0.29</td><td>0.26</td></tr><tr><td>蛋氨酸 Met</td><td>0.09</td><td>0.08</td></tr><tr><td>赖氨酸Lys</td><td>0.16</td><td>0.14</td></tr><tr><td>苏氨酸Thr</td><td>0.08</td><td>0.07</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.88</td><td>13.77</td></tr><tr><td>粗蛋白质CP</td><td>15.94</td><td>14.65</td></tr><tr><td>粗纤维CF</td><td>4.23</td><td>4.89</td></tr><tr><td>钙Ca</td><td>0.50</td><td>0.45</td></tr><tr><td>总磷TP</td><td>0.52</td><td>0.47</td></tr><tr><td>锌 Zn/(mg/kg)</td><td>28.10</td><td>33.38</td></tr></table></body></html>
+
+1)生长阶段预混料为每千克饲粮提供 The premix provided the folowing per kg of the diet for the growing period:VA1300 IU，VD 150 IU，VE11 IU, $\mathrm { V K } 0 . 5 0 \mathrm { m g }$ ，生物素biotin $0 . 0 5 \mathrm { m g }$ ，叶酸 folic acid $0 . 3 0 \mathrm { m g }$ ， 泛酸 pantothenic acid $8 . 0 0 \mathrm { m g }$ ，核黄素 riboflavin $2 . 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } ~ 1 . 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } \ 1 . 0 0 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \ 1 0 . 0 0 \ \mu \mathrm { g }$ ，氯 化胆碱choline chloride $ { 0 . 4 \mathrm { ~ g ~ } }$ ，Cu (as copper sulfate) $4 . 0 0 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate) $6 0 . 0 0 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $2 . 0 0 \mathrm { m g }$ ， I(as potassium iodide) $0 . 1 4 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 2 0 \mathrm { m g }$ 。
+
+育肥阶段预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet for the finishing period: VA 1 300 IU，VD 150 IU，VE 11 IU, $\mathrm { V K } 0 . 5 0 \mathrm { m g }$ ，生物素 biotin $0 . 0 5 \mathrm { m g }$ ，叶酸 folic acid $0 . 3 0 \mathrm { m g }$ ， 泛酸 pantothenic acid $7 . 0 0 \mathrm { m g }$ ，核黄素 riboflavin $2 . 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 0 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } \ 1 . 0 0 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 5 . 0 0 ~ \mu \mathrm { g }$ ，氯化 胆碱 choline chloride $0 . 3 \mathrm { ~ g ~ }$ , Cu (as copper sulfate) $3 . 5 0 \mathrm { m g }$ ,Fe (as ferrous sulfate) $5 0 . 0 0 \mathrm { m g }$ ， Mn (as manganese sulfate) $2 . 0 0 \mathrm { m g }$ ， I(as potassium iodide) $0 . 1 4 ~ \mathrm { m g }$ ， Se (as sodium selenite) $0 . 1 5 \mathrm { m g }$ 。
+
+2)锌为测定值，其余营养水平为计算值。Zn was a measured value,while the others were calculated values.
+
+# 1.2 试验材料
+
+饲料级Zn-Met由山东隆信饲料有限公司提供，含锌量 $1 7 . 2 0 \%$ ；饲料级一水硫酸锌由山东隆信饲料有限公司提供，含锌量 $34 . 5 0 \%$ 。
+
+# 1.3 测定指标与方法
+
+# 1.3.1 生长性能
+
+每周准确记录生长育肥猪的喂料量和余料量，计算每头生长育肥猪的平均日采食量（ADFI）；生长育肥猪每2周空腹称重，计算每头猪的平均日增重（ADG）；根据生长育肥猪ADFI和ADG计算料重比（F/G）。
+
+# 1.3.2 血清抗氧化指标
+
+分别于试验生长期第15天和育肥期第20天，早饲前对32头生长育肥猪前腔静脉采血5mL， $3 0 0 0 \mathrm { r / m i n }$ 、 $4 ^ { \circ } \mathrm { C }$ 离心 $1 0 \mathrm { m i n }$ ，分离血清， $- 2 0 { } ^ { \circ } \mathrm { C }$ 冰箱内保存备测血清抗氧化指标。血清抗氧化指标采用南京建成生物工程研究所生产试剂盒测定，测定指标包括血清丙二醛（MDA）含量、总超氧化物歧化酶（T-SOD）活性、谷胱甘肽过氧化物酶（GSH-Px）活性和铜锌超氧化物歧化酶（CuZn-SOD）活性。
+
+1.3.3 粪中锌、铜、铁、锰含量的测定
+
+试验猪单笼饲养（ $1 . 0 \mathrm { m } { \times } 1 . 2 \mathrm { m }$ ，结合本地试验条件），每天07:00、12:00和17:00各饲喂1次，自由饮水。分别于试验生长期第 $2 8 \sim 3 2$ 天和育肥期第 $3 6 \sim 4 0$ 天采用全收粪法，在06:30—07:00、11:30—12:00、16:30—17:00和21:00—21:304个时间段收集粪便，收集后充分混匀，按粪便总量的 $10 \%$ 取样， $- 2 0 ^ { \circ } \mathrm { C }$ 保存。结束后分别将同一重复的4d粪样充分混合，制成风干样品，用研钵碾碎，过40目孔筛。待测样品使用微波消解仪MARS6（CEM，美国)进行样品前处理，消解溶液用Agilent 7900 电感耦合等离子体质谱仪（ICP-MS）同时测定样品中锌、铜、铁和锰含量。微量元素表观吸收率计算公式如下：
+
+微量元素食入量 $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 采食量 $\times$ 饲粮微量元素含量；
+
+微量元素排出量 $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 粪排出量 $\times$ 粪便微量元素含量；
+
+微量元素表观吸收率 ${ \tt - } 1 0 0 \times $ （微量元素食入量一微量元素排出量）/微量元素食入量。
+
+# 1.4数据处理与分析
+
+试验数据的统计用SAS9.2软件进行单因素方差分析(one-way ANOVA)，用Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1不同锌源及水平对生长育肥猪生长性能的影响
+
+由表2可知，与对照组相比，不同锌源及水平对生长育肥猪生长性能均无显著影响（ $\mathrm { \ P { > } 0 . 0 5 }$ ），饲粮添加Zn-Met提高了生长期猪的ADFI和育肥期猪的ADG（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+# 表2不同锌源及水平对生长育肥猪生长性能的影响
+
+Table 2Effects of different zinc sources and levels on growth performance of growing-finishing pigs
+
+<html><body><table><tr><td rowspan="2">试验阶段 Trial stage</td><td rowspan="2">项目 Items</td><td rowspan="2">对照组 Control group</td><td rowspan="2">40 mg/kg蛋氨酸 锌组 40 mg/kg Zn-Met group</td><td rowspan="2">40 mg/kg硫酸锌 组 40 mg/kg ZnSO4 group</td><td rowspan="2">80 mg/kg硫酸锌 组 80 mg/kg ZnSO4</td><td rowspan="2">P值 P-value</td></tr><tr><td>group</td></tr><tr><td rowspan="8">生长期 Growing period</td><td>始重Initial weight/kg</td><td>32.48±0.53</td><td>34.43±3.15</td><td>34.15±3.58</td><td>33.75±3.79</td><td>0.812</td></tr><tr><td>末重Final weight/kg</td><td>58.75±0.82</td><td>59.95±4.98</td><td>59.45±2.56</td><td>59.88±3.48</td><td>0.953</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>1 701.02±42.70</td><td>1 786.59±42.20</td><td>1 690.76±64.43</td><td>1 721.37±69.79</td><td>0.124</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>729.86±10.49</td><td>709.03±53.40</td><td>702.78±53.29</td><td>725.69±52.77</td><td>0.815</td></tr><tr><td>料重比 F/G 始重Initial</td><td>2.33±0.03</td><td>2.53±0.25</td><td>2.41±0.14</td><td>2.38±0.25</td><td>0.500</td></tr><tr><td>weight/kg</td><td>58.75±0.82</td><td>54.63±3.74</td><td>59.45±2.56</td><td>55.95±5.78</td><td>0.258</td></tr><tr><td>末重Final weight/kg</td><td>87.73±2.41</td><td>86.73±3.67</td><td>91.30±1.27</td><td>86.60±8.06</td><td>0.469</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>2 438.59±228.70</td><td>2 425.57±179.26</td><td>2 297.42±240.93</td><td>2 298.96±190.39</td><td>0.666</td></tr><tr><td></td><td>平均日增重 ADG/(g/d)</td><td>603.65±57.34</td><td>668.75±31.78</td><td>663.54±68.64</td><td>638.54±70.43</td><td>0.421</td></tr><tr><td>料重比F/G</td><td></td><td>4.06±0.45</td><td>3.64±0.42</td><td>3.46±0.12</td><td>3.63±0.52</td><td>0.254</td></tr></table></body></html>
+
+同行数据肩标无字母或相同小写字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with no letter or the same small letter superscripts mean no significant difference （204号 $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2不同锌源及水平对生长育肥猪血清抗氧化指标的影响
+
+由表3可知，与对照组相比，饲粮添加Zn-Met或 $\mathrm { Z n S O _ { 4 } }$ 显著提高生长育肥猪血清T-SOD、GSH- $\mathbf { \cdot P x }$ 及CuZn-SOD活性（ $P { < } 0 . 0 5$ ），显著降低血清MDA含量（ $P { < } 0 . 0 5$ ）。相同添加水平下， $4 0 \mathrm { m g / k g \ Z n - M }$ et组血清T-SOD、GSH-Px和 $\mathrm { { C u Z n } }$ -SOD活性（育肥期除外）显著高于40$\mathrm { m g / k g \ Z n S O _ { 4 } }$ 组（ $_ { \it P \mathrm { < } 0 . 0 5 }$ ），血清MDA含量显著低于 $4 0 ~ \mathrm { m g / k g ~ Z n S O _ { 4 } }$ 组（ $\scriptstyle P < 0 . 0 5 .$ ）；不同添加水平下， $8 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 组血清CuZn-SOD活性显著高于 $4 0 \mathrm { m g / k g \ Z n - M }$ et组（ $\scriptstyle P < 0 . 0 5 .$ ）。$4 0 \mathrm { m g / k g \ Z n - M e }$ t组血清T-SOD和GSH-Px活性最高，血清MDA含量最低；而血清 $\mathrm { { C u Z n } }$ -SOD活性随 $\mathrm { Z n S O _ { 4 } }$ 添加量的增加而升高，以 $8 0 ~ \mathrm { m g / k g ~ Z n S O _ { 4 } }$ 组 $\mathrm { { C u Z n } }$ -SOD活性最高。
+
+# 表3不同锌源及水平对生长育肥猪血清抗氧化指标的影响
+
+Table 3Efects of diferent zinc sources and levels on serum antioxidant indices of growing-finishing pigs
+
+<html><body><table><tr><td rowspan="2">试验阶段 Trial stage</td><td rowspan="2">项目 Items</td><td rowspan="2">对照组 Control group</td><td rowspan="2">40 mg/kg蛋氨酸 锌组 40 mg/kg Zn-Met</td><td rowspan="2">40 mg/kg硫酸锌组 40 mg/kg ZnSO4 group</td><td colspan="3">80 mg/kg硫酸</td></tr><tr><td>锌组 80 mg/kg</td><td></td><td>P值 P-value</td></tr><tr><td rowspan="8">生长期 Growing period</td><td rowspan="8"></td><td>丙二醛 MDA/(nmol/mL)</td><td>group 5.27±0.26a</td><td>3.53±0.38c</td><td>4.39±0.69b</td><td>ZnSO4 group 4.82±0.24b</td><td><0.001</td></tr><tr><td>总超氧化物歧化酶</td><td>90.61±1.29b</td><td>93.32±1.03a</td><td>90.43±1.88b</td><td>93.07±1.99a</td><td>0.001</td></tr><tr><td>T-SOD/(U/mL) 谷胱甘肽过氧化物酶</td><td>2 275.78±52.97b</td><td>2 375.22±68.24a</td><td>2 303.91±40.23b</td><td></td><td>0.003</td></tr><tr><td>GSH-Px/(μmol/L) 铜锌超氧化物歧化酶</td><td>77.25±2.04c</td><td>82.22±1.37b</td><td></td><td>2 321.48±23.57b</td><td></td></tr><tr><td>CuZn-SOD/(U/mL)</td><td>8.82±0.68a</td><td>6.43±0.26c</td><td>79.29±1.81c 7.22±1.07b</td><td>84.67±3.11a</td><td><0.001</td></tr><tr><td>丙二醛 MDA/(nmol/mL) 总超氧化物歧化酶</td><td>84.75±1.59c</td><td>88.60±1.42a</td><td>82.85±1.09d</td><td>7.19±0.63b 87.00±1.19ab</td><td><0.001</td></tr><tr><td>T-SOD/(U/mL) 谷胱甘肽过氧化物酶</td><td></td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>GSH-Px/(μmol/L) 铜锌超氧化物歧化酶</td><td>2 049.78±49.45b 40.04±12.16b</td><td>2 256.45±20.19a 45.95±4.14b</td><td>2 081.25±25.40b 44.12±3.13b</td><td>2 224.22±31.87a 65.22±3.01a</td><td><0.001 <0.001</td></tr></table></body></html>
+
+2.3不同锌源及水平对生长育肥猪微量元素利用的影响
+
+2.3.1不同锌源及水平对生长育肥猪锌表观吸收率的影响
+
+由表4可知，与对照组相比，饲粮添加 Zn-Met或 $\mathrm { { Z n S O _ { 4 } } }$ 显著提高生长育肥猪锌表观吸收率 $( P { < } 0 . 0 5 )$ ，显著降低锌排泄率( $( P { < } 0 . 0 5 )$ )。试验组锌表观吸收率由高到低依次为 $4 0 \mathrm { m g / k g }$ Zn-Met 组、 $4 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 组和 $8 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 组。
+
+表4不同锌源及水平对生长育肥猪锌表观吸收率的影响  
+Table 4Efects of diferent zinc sources and levels on zinc apparent absorptivity of growing-finishing pigs   
+
+<html><body><table><tr><td rowspan="2">试验阶段 Trial stage</td><td rowspan="2">项目 Items</td><td rowspan="2">对照组 Control group</td><td rowspan="2">40 mg/kg蛋氨酸 锌组 40 mg/kg Zn-Met group</td><td rowspan="2"></td><td rowspan="2">40 mg/kg硫酸锌组 40 mg/kg ZnSO4 group</td><td rowspan="2">80 mg/kg硫酸 80 mg/kg ZnSO4 group</td><td rowspan="2">P值 P-value</td></tr><tr><td>锌组</td></tr><tr><td>生长期</td><td></td><td>食入量 Intake/(mg/d)</td><td>45.37±3.12c</td><td>110.56±5.08b</td><td>109.40±2.91b</td><td>168.29±6.25a</td><td><0.001</td></tr><tr><td>Growing</td><td></td><td>排出量 Output/(mg/d) 表观吸收率Apparent</td><td>37.25±2.76d</td><td>64.35±6.26c</td><td>73.33±5.53b</td><td>127.30±4.85a</td><td><0.001</td></tr><tr><td>period</td><td></td><td>absorptivity/%</td><td>17.89±2.39d</td><td>41.88±3.72a</td><td>33.03±3.77b</td><td>24.28±0.02c</td><td><0.001</td></tr><tr><td></td><td></td><td>排泄率 Excretion rate/%</td><td>82.11±2.39a</td><td>58.12±3.72d</td><td>66.97±3.77c</td><td>75.72±0.02b</td><td><0.001</td></tr><tr><td>育肥期</td><td></td><td>食入量 Intake/(mg/d)</td><td>68.23±4.18c</td><td>146.79±2.44b</td><td>142.69±6.00b</td><td>223.31±4.73a</td><td><0.001</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>Finishing</td><td>排出量 Output/(mg/d)</td><td>53.21±3.04c</td><td>105.67±4.23b</td><td>106.09±4.23b</td><td>162.87±7.49a</td><td><0.001</td></tr><tr><td>period</td><td>表观吸收率 Apparent</td><td></td><td>27.99±1.38a</td><td>25.64±1.37b</td><td>24.88±1.09b</td><td></td></tr><tr><td></td><td>absorptivity/%</td><td>21.99±0.46c</td><td></td><td></td><td></td><td><0.001</td></tr><tr><td></td><td>排泄率 Excretion rate/%</td><td>78.01±0.46a</td><td>72.01±1.38c</td><td>74.36±1.37b</td><td>75.12±1.09b</td><td><0.001</td></tr></table></body></html>
+
+2.3.2不同锌源及水平对生长育肥猪铜表观吸收率的影响
+
+由表5可知，与对照组相比，饲粮添加 $\boldsymbol { Z } \mathrm { n } { - } \mathrm { M e t }$ 显著提高生长育肥猪铜表观吸收率（ $. P { < } 0 . 0 5$ ）；而饲粮添加 $\mathrm { { Z n S O _ { 4 } } }$ 除生长期 $4 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 显著提高生长育肥猪铜表观吸收率（ $. P { < } 0 . 0 5$ ）外，其余均显著降低铜表观吸收率（ $\scriptstyle \cdot < 0 . 0 5$ ）。
+
+表5不同锌源及水平对生长育肥猪铜表观吸收率的影响  
+Table 5Effects of diferent zinc sources and levels on copper apparent absorptivity of growing-finishing   
+
+<html><body><table><tr><td colspan="8">pigs</td></tr><tr><td>试验阶段</td><td>项目</td><td>对照组</td><td>40 mg/kg蛋氨酸 锌组</td><td colspan="2">40 mg/kg硫酸锌组 40 mg/kg ZnSO4</td><td colspan="2">80 mg/kg硫酸 锌组 P值</td></tr><tr><td>Trial stage</td><td>Items</td><td>Control group</td><td>40 mg/kg Zn-Met group</td><td>group</td><td></td><td>80 mg/kg ZnSO4 group</td><td>P-value</td></tr><tr><td>生长期</td><td></td><td>食入量 Intake/(mg/d) 排出量 Output/(mg/d)</td><td>20.03±1.38 11.86±0.88ab</td><td>20.70±1.21 9.84±1.41b</td><td>19.30±0.98 10.38±0.61b</td><td>18.08±1.32 13.15±2.33a</td><td>0.056 0.030</td></tr><tr><td>Growing</td><td></td><td>表观吸收率 Apparent</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>period</td><td></td><td>absorptivity/%</td><td>40.79±1.72c</td><td>52.64±4.46a</td><td>46.21±0.79b</td><td>22.29±1.89d</td><td><0.001</td></tr><tr><td></td><td></td><td>排泄率 Excretion rate/%</td><td>59.21±1.72b</td><td>47.36±4.46d</td><td>53.79±0.79c</td><td>77.71±1.89a</td><td><0.001</td></tr><tr><td></td><td></td><td>食入量 Intake/(mg/d)</td><td>25.35±1.60</td><td>24.30±0.56</td><td>24.33±0.63</td><td>23.99±1.45</td><td>0.405</td></tr><tr><td>育肥期</td><td></td><td>排出量 Output/(mg/d)</td><td>14.53±0.99b</td><td>12.08±0.56c</td><td>15.95±0.56a</td><td>15.18±1.12ab</td><td>0.001</td></tr><tr><td>Finishing</td><td>表观吸收率Apparent</td><td></td><td>42.67±1.40b</td><td>50.29±1.82a</td><td>34.39±2.78c</td><td>36.73±2.29c</td><td><0.001</td></tr><tr><td>period</td><td>absorptivity/%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>排泄率 Excretion rate/%</td><td>57.33±1.40b</td><td>49.71±1.82c</td><td>65.61±2.78a</td><td>63.27±2.29a</td><td><0.001</td></tr></table></body></html>
+
+2.3.3不同锌源及水平对生长育肥猪铁表观吸收率的影响
+
+由表6可知，与对照组相比，饲粮添加Zn-Met或 $\mathrm { Z n S O _ { 4 } }$ （育肥期 $8 0 \mathrm { m g / k g }$ 除外）显著降低生长育肥猪铁表观吸收率（ $P { < } 0 . 0 5$ ），试验组铁表观吸收率由高到低依次为 $8 0 ~ \mathrm { m g / k g }$ $\mathrm { Z n S O _ { 4 } }$ 组、 $4 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 组和 $4 0 \mathrm { m g / k g \ Z n - M e t }$ 组。
+
+# 表6不同锌源及水平对生长育肥猪铁表观吸收率影响
+
+Table 6Effects of different zinc sources and levels on iron apparent absorptivity of growing-finishing pigs
+
+<html><body><table><tr><td>试验阶段 Trial stage</td><td>项目 Items</td><td>对照组 Control group</td><td>40 mg/kg蛋氨酸 锌组 40 mg/kg Zn-Met</td><td>40 mg/kg硫酸锌组 40 mg/kg ZnSO4 group</td><td></td><td>80 mg/kg硫酸 锌组 80 mg/kg</td><td>P值 P-value</td></tr><tr><td colspan="2"></td><td>食入量 Intake/(mg/d)</td><td>group 376.11±25.84</td><td>381.60±17.53</td><td>ZnSO4 group 362.32±18.33</td><td>366.80±24.62</td><td>0.605</td></tr><tr><td colspan="2">生长期 Growing</td><td>排出量 Output/(mg/d)</td><td>100.30±7.43b</td><td>118.96±11.56a</td><td>103.63±6.13b</td><td>91.25±4.81b</td><td>0.003</td></tr><tr><td colspan="2">period</td><td>表观吸收率 Apparent absorptivity/%</td><td>73.33±0.77a</td><td>68.87±1.99c</td><td>71.41±0.42b</td><td>75.09±0.71a</td><td><0.001</td></tr><tr><td colspan="2"></td><td>排泄率 Excretion rate/%</td><td>26.67±0.77c</td><td>31.13±1.99a</td><td>28.59±0.42b</td><td>24.91±0.71c</td><td><0.001</td></tr><tr><td colspan="2">育肥期</td><td>食入量Intake/(mg/d)</td><td>499.60±31.44</td><td>478.98±11.01</td><td>473.77±18.33</td><td>472.72±28.50</td><td>0.336</td></tr><tr><td colspan="2">Finishing</td><td>排出量 Output/(mg/d) 表观吸收率 Apparent</td><td>203.77±13.91c</td><td>256.07±11.97a</td><td>224.74±4.48b</td><td>221.54±16.35bc</td><td>0.001</td></tr><tr><td colspan="2">period</td><td>absorptivity/%</td><td>59.21±1.00a</td><td>46.55±1.96c</td><td>52.53±1.86b</td><td>53.15±1.70b</td><td><0.001</td></tr></table></body></html>
+
+2.3.4不同锌源及水平对生长育肥猪锰表观吸收率的影响
+
+由表7可知，与对照组相比，饲粮添加 $\mathrm { \Delta } Z _ { \mathrm { n S O _ { 4 } } }$ 显著降低生长育肥猪锰表观吸收率（ $_ { . P < 0 . 0 5 }$ ），而育肥期饲粮添加Zn-Met显著提高锰表观吸收率（ $P { < } 0 . 0 5$ ）。
+
+# 表7不同锌源及水平对生长育肥猪锰表观吸收率的影响
+
+Table 7Effects of different zinc sources and levels on manganese apparent absorptivity of   
+
+<html><body><table><tr><td colspan="9">growing-finishing pigs</td></tr><tr><td></td><td colspan="3"></td><td colspan="2">40 mg/kg蛋氨酸</td><td colspan="2">80 mg/kg硫酸</td></tr><tr><td>试验阶段 Trial stage</td><td>项目 Items</td><td>对照组 Control group</td><td>锌组 40 mg/kg Zn-Met group</td><td>40 mg/kg硫酸锌组 40 mg/kg ZnSO4 group</td><td>锌组 80 mg/kg ZnSO4 group</td><td></td><td>P值 P-value</td></tr><tr><td></td><td></td><td>食入量 Intake/(mg/d)</td><td>238.06±16.35</td><td>247.13±14.18</td><td>229.32±11.60</td><td>215.99±15.53</td><td>0.056</td></tr><tr><td>生长期</td><td></td><td>排出量 Output/(mg/d)</td><td>119.94±8.88a</td><td>118.91±13.43a</td><td>89.01±5.26b</td><td>107.92±9.48a</td><td>0.002</td></tr><tr><td>Growing period</td><td></td><td>表观吸收率 Apparent absorptivity/%</td><td>53.22±2.82a</td><td>55.83±3.02a</td><td>47.92±6.92bc</td><td>40.96±5.28c</td><td>0.005</td></tr><tr><td></td><td></td><td>排泄率 Excretion rate/%</td><td>46.78±2.82bc</td><td>44.17±3.02c</td><td>52.08±6.92ab</td><td>59.04±5.28a</td><td>0.005</td></tr><tr><td>育肥期</td><td></td><td>食入量 Intake/(mg/d)</td><td>304.28±19.15</td><td>295.21±5.43</td><td>288.38±6.00</td><td>287.91±17.36</td><td>0.326</td></tr><tr><td>Finishing</td><td></td><td>排出量 Output/(mg/d)</td><td>100.20±6.84b</td><td>86.27±4.23c</td><td>114.27±4.23a</td><td>115.61±8.53a</td><td><0.001</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td rowspan="2">period</td><td rowspan="2">表观吸收率 Apparent</td><td colspan="4"></td><td rowspan="2"><0.001</td></tr><tr><td>67.07±0.81b</td><td>70.38±1.29a</td><td>60.37±1.51c</td><td>59.86±1.45c</td></tr><tr><td></td><td>absorptivity/%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>排泄率 Excretion rate/%</td><td>32.93±0.81b</td><td>29.22±1.29c</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>39.63±1.51a</td><td>40.14±1.45a</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+3.1不同锌源及水平对生长育肥猪生长性能和血清抗氧化指标的影响
+
+饲粮锌添加水平对生长育肥猪生长性能影响的报道结果不一。大量研究表明有机锌在一定程度上可提高生长肥育猪的生长性能[12-14]。而在NRC（2012）标准上减少 $50 \%$ 的矿物元素添加量对猪的生长性能和肉品质均无影响[10]，文超越等[11]、刘婉盈等[15]也报道了锌添加水平对生长肥育猪的ADFI、ADG和F/G均无显著影响。这与本试验结果一致，提示我们生长育肥阶段可减少矿物元素锌的添加量，节约饲养成本，提高饲养效率，减少生长育肥期排泄物对环境的压力。本试验亦发现饲粮添加Zn-Met提高生长育肥猪的ADFI和ADG，这可能与锌和唾液蛋白形成味觉素有关，味觉素对口腔黏膜上皮细胞的结构、功能及代谢有重要作用，同时Zn-Met能够减少微量元素的散失，促进动物的生长调节食欲，增加采食[16-19]。
+
+锌是T-SOD和GSH-Px的激活剂，饲粮添加锌能增强T-SOD、GSH-Px活性和清除体内自由基的能力，增强机体的抗氧化系统功能。MDA是脂质氧化产物，经常用作氧化胁迫指标之一[20]。研究表明，饲粮添加锌能提高血清T-SOD、CuZn-SOD和GSH-Px活性，降低血清MDA含量[21-24]。本试验结果表明饲粮添加锌显著改善生长育肥猪血清抗氧化指标，且对于血清抗氧化指标T-SOD和GSH-Px，Zn-Met的作用效果优于 $\mathrm { Z n S O _ { 4 } }$ ，这与赵昕红等[22]、张彩英等[25]、方洛云等[26]和刘婉盈[27]研究结果相一致，在猪体内GSH-Px、T-SOD和MDA共同起作用，通过清除自由基、减少脂质过氧化物的损害，提高猪体的抗氧化能力。
+
+CuZn-SOD是抗氧化代谢防御体系的重要组成成分，锌作为CuZn-SOD的辅助因子，血清CuZn-SOD活性随饲粮锌水平的升高而升高[28-29]。本试验中，饲粮添加Zn-Met或 $\mathrm { Z n S O _ { 4 } }$ 均能显著提高血清CuZn-SOD活性，且随 $\mathrm { Z n S O _ { 4 } }$ 添加量增加而升高， $8 0 ~ \mathrm { m g / k g ~ Z n S O _ { 4 } }$ 组CuZn-SOD活性最高，这与徐振华等[30]对生长肉兔血清CuZn-SOD活性研究结果一致，这表明饲粮添加锌显著改善血清CuZn-SOD活性。而40 mg/kg Zn-Met组血清CuZn-SOD活性低于$8 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ 组，说明饲粮锌添加量可能对血清CuZn-SOD活性的影响更显著。
+
+综上可知，饲粮添加锌对生长育肥猪的生长性能无显著影响，但显著改善了生长育肥猪的抗氧化性能。
+
+3.2不同锌源及水平对生长育肥猪微量元素利用的影响
+
+评估矿物元素的吸收是一个复杂的问题，需考虑多种元素的互作效应。大量研究表明由于其螯合态以及利用氨基酸和小肽的吸收通道途径使有机锌在生物学效价、饲料利用率、稳定性和减少环境污染等方面比无机锌效果要好[31-33]。本研究发现饲粮添加 Zn-Met不仅提高了锌的表观吸收率，铜和锰的表观吸收率也提高，这与有机微量元素比无机微量元素更能有效降低粪便微量元素排泄量的研究结果相一致[34-36]。一般认为，锌、铜在肠黏膜竞争相同键位和共同的代谢渠道，过量的锌降低铜的吸收[37-39]。然而，本试验发现饲粮添加 Zn-Met 不仅提高了铜的表观吸收率，锰的表观吸收率也提高，这说明同 $\mathrm { { Z n S O _ { 4 } } }$ 相比，适宜添加量的Zn-Met可能通过减少肠道内的螯合作用及减少金属离子的互作，间接提高微量元素铜和锰的吸收。
+
+近年来的研究表明锌与铁有协同作用[40-41]，也有研究发现锌和铁在吸收、排泄方面互相拮抗[42-43]。本试验发现饲粮添加锌降低了铁的表观吸收率，可能与铁和锌在经肠道进入细胞的转运过程中存在着竞争受体结合部位或竞争性载体结合蛋白有关[39]。本试验结果显示，饲粮添加 Zn-Met时锌表观吸收率最高，一方面与基础饲粮中锌的存在形式限制了锌的有效吸收有关，另一方面也说明 $Z \mathrm { n }$ -Met 可能通过减少消化内的损失或利用氨基酸吸收途径等方式达到提高其利用率的目的；而 $\mathrm { Z n S O _ { 4 } }$ 添加水平达到 $8 0 ~ \mathrm { m g / k g }$ 时，锌表观吸收率降低，这可能与基础饲粮中的锌与额外添加的 $8 0 \mathrm { m g / k g \ Z n S O _ { 4 } }$ （以锌元素计）已超出了生长育肥猪的需求量，过高含量的锌并不能增加机体的吸收利用，反而增加了机体的代谢负担；故而本试验条件下生长育肥猪中 $\mathrm { { Z n S O _ { 4 } } }$ 的添加量需低于 $8 0 \mathrm { m g / k g }$ ，而 $4 0 \mathrm { m g / k g \ Z n - M e t }$ 较为适宜。
+
+4结论
+
+$\textcircled{1}$ 本试验条件下，饲粮添加不同来源和水平锌对生长育肥猪的生长性能无显著影响，但显著改善生长育肥猪的血清抗氧化指标，以 $4 0 \mathrm { m g / k g \ Z n { - } M e }$ t效果最好。
+
+$\textcircled{2}$ 本试验条件下，饲粮添加Zn-Met显著改善锌、铜和锰表观吸收率，饲粮添加 $\mathrm { Z n S O _ { 4 } }$ 只显著提高锌表观吸收率，且随 $\mathrm { Z n S O _ { 4 } }$ 添加量的增加而降低，以 $4 0 \mathrm { m g / k g \ Z n - M e 1 }$ 组锌表观吸收率最高。
+
+$\textcircled{3}$ 综合生长性能、血清抗氧化指标和微量元素的利用，在本试验条件下， $\mathrm { Z n S O _ { 4 } }$ 添加量需低于 $8 0 \mathrm { m g / k g }$ ，而40 mg/kg Zn-Met较为适宜。
+
+参考文献：
+
+[1]杨凤.动物营养学[M].2版.北京:中国农业出版社,2004.
+
+[2] COUSINS R J,LIUZZI J P,LICHTEN L A.Mammalian zinc transport,trafficking,and signals[J].Journal of Biological Chemistry,2006,281(34):24085-24089.
+
+[3]SU1 ILE N.Mineral nutrition oI Iivestock[M]. WallingIord:CAB1,2010.   
+[4]JAIN R B.Thyroid function and serum copper,selenium,and zinc ingeneral U.S.population[J].Biological Trace Element Research,2014,159(1/2/3):87-98.   
+[5]CAO J,HENRY P R,GUO R,et al.Chemical characteristics and relative bioavailability of supplemental organiczincsourcesforpoultryand ruminants[J].Journal of Animal Science,2000,78(8):2039-2054.   
+[6]杨维仁,魏茂莲,姜淑贞,等.猪微量元素添加量变化规律的研究[J].饲料工业,2014(3):1-4. [7]MAVROMICHALIS I,HANCOCK J D,KIM I H,et al.Effects of omitting vitamin and trace mineral premixes and reducing inorganic phosphorus additions on growth performance,carcass characteristicsandmusclequalityinfinishingpigs[J].JournalofAnimal Science,1999,77(10):2700-2708.   
+[8]SHELTON J L,SOUTHERN L L,LEMIEUX F M,et al.Effects of microbial phytase,low calcium and phosphorus,and removing the dietary trace mineral premix on carcass traits,pork quality,plasma metabolites,and tissue mineral content in growing-finishing pigs[J].Journal of Animal Science,2004,82(9):2630-2639.   
+[9]JAMESWH,PIERCEJL.猪断奶-屠宰的三大问题:生产、健康和环境[J].翟利利,译.养 猪,2011(3):9-11.   
+[10]GOWANLOCK D W,MAHAN D C,JOLLIFF J S,et al.Evaluating the NRC levels of Cu,Fe,Mn and Zn using organic mineralsfor grower-finisher swine[J].Journal of Animal Science,2013,91(12):5680-5686.   
+[11]文超越,李勇,邢伟刚,等.饲粮减少矿物元素对育肥猪生长性能、肉品质、血清生化指标 以及骨骼肌矿物元素含量的影响[J].动物营养学报,2017,29(2):597-604.   
+[12]何正芳.金属(特种氨基酸)络合物对猪禽生产的作用[J].国外畜牧学（猪与 禽）,1993(1):12-15.   
+[13]黄连莹,夏中生,蒋芳,等.饲粮不同锌源对生长育肥猪生产性能的影响[J].畜牧与兽 医,2013,45(10):47-50.   
+[14]詹康,李艳,包文斌,等.复合氨基酸络合铁、锌对肥育猪生产性能和部分血液生化指标的 影响[J].畜牧兽医学报,2014,45(5):769-774.   
+[15]刘婉盈,邓波,徐子伟.不同锌源对生长肥育猪的生产性能和组织锌沉积的影响[C]/中国 畜牧兽医学会动物营养学分会第十一次全国动物营养学术研讨会论文集.长沙:中国畜牧兽医
+
+学会,2012.  
+[16] 朱宇旌,苏欣,李方方,等.包被氧化锌对断奶仔猪生长性能、血清生化指标及营养物质表观消化率的影响[J].动物营养学报,2015,27(6):1779-1786.  
+[17]DAVIS M E,BROWN D C,MAXWELL C V,et al.Effect of phosphorylated mannans andpharmacological additions of zinc oxide on growth and immunocompetence of weanlingpigs[J].Journal of Animal Science,2004,82(2):581-587.  
+[18]李妍,杨维仁,姜洪,等.微量元素的作用及其在养猪生产中的应用[J].中国畜牧兽医文摘,2016(1):227-228.  
+[19]CARLSON M S,BOREN C A,WU C,et al.Evaluation of various inclusion rates of organiczinc either aspolysaccharide or proteinate complex on the growth performance,plasma,andexcretion of nursery pigs[J].Journal of Animal Science,2004,82(5):1359-1366.  
+[20]DOTAN Y,LICHTENBERG D,PINCHUK I.Lipid peroxidation cannot be used as auniversal criterion of oxidative stress[J].Progress in Lipid Research,2004,43(3):200-227.  
+[21]KONDOH M,KAMADA K M,KURONAGA M,et al.Antioxidant property ofmetallothionein in fasted mice[J].Toxicology Letters,2003,143(3):301-306.  
+[22]赵昕红,李德发,田福刚,等.高锌和高铜对仔猪生长性能、免疫功能和抗氧化酶活性的影响[J].中国农业大学学报,1999,4(1):91-96.  
+[23]荔霞,刘永明,齐志明,等.锌对小鼠机体抗氧化酶活性及NO、MDA 含量的影响[J].家畜生态学报,2008,29(5):65-68.  
+[24]秦应和,徐振华,李福昌.日粮锌对肉兔生产性能、机体抗氧化酶和金属硫蛋白-1表达的影响[J].饲料研究,2009(12):57-58.  
+[25] 张彩英,胡国良,郭小权,等.日粮锌源和锌水平对断奶仔猪免疫功能和抗氧化酶活性的影响[J].中国兽医学报,2011,31(9):1354-1357.  
+[26]方洛云,邹晓庭,蒋林树,等.不同锌源对断奶仔猪免疫和抗氧化作用的影响[J].中国兽医学报,2005,25(2):201-203.  
+[27]刘婉盈.不同锌源及水平对肥育猪生长性能、血液指标、组织沉积及胰脏 MTmRNA 表达的影响[D].硕士学位论文.杭州:浙江师范大学,2013.  
+[28]CAO G H,CHEN J D.Effects of dietary zinc on free radical generation,lipidperoxidation,and superoxide dismutase in trained mice[J].Archives of BiochemistryandBiophysics,1991,291(1):147-153.
+
+[29]COUDRAY C,RICHARD M J,LAPORTE F,et al.Superoxide dismutase activity and zinc status:a study in animals and man[J].Journal of Nutritional Medicine,20o9,3(1):13-26.
+
+[30]徐振华,李福昌,秦应和.日粮锌水平对生长肉兔生产性能、血清肝脏抗氧化酶活性和金属硫蛋白-1基因表达的影响[J].动物营养学报,2008,20(3):337-342.
+
+[31] HAHN J D,BAKER D H.Growth and plasma zinc responses of young pigs fed pharmacologic levels of zinc[J].Journal of Animal Science,1993,71(11):3020-3024.
+
+[32] LEE S H,CHOI S C,CHAE B J,et al.Effects of feeding different chelated copper and zinc sources on growth performance and fecal excretions of weanling pigs[J].Asian-Australasian Journal of Animal Sciences,2001,14(11):1616-1620.
+
+[33] LEESON S,CASTON L.Using minimal supplements of trace minerals as a method of reducing trace mineral content of poultry manure[J].Animal Feed Science and Technol0gy,2008,142(3/4):339-347.
+
+[34]ACDA S P,JW J,KIM W T,et al.Influence of a single dose of fe dextran administration with organic trace mineral supplementation on the performance of piglets[J].Asian-Australasian Journal of Animal Sciences,2002,15(10):1469-1474.
+
+[35]贾久满,李成会,朱莲英.养猪场排泄物中微量元素减量排放技术研究[J].黑龙江畜牧兽医,2006(1):41-42.
+
+[36]MATEOS G G,LAZARO R,ASTILLERO JR,et al.Trace minerals:what text books don't tell you[M]//TAYLOR-PICKARD J,TUKER L.Redefining Mineral Nutrition.Nottingham:Nottingham University Press,2005:41-43.
+
+[37]胡向东,洪作鹏,王敏奇.高剂量锌促进猪生长的研究进展[J].中国饲料,2004(7):8-10.
+
+[38] OESTREICHER P,COUSINS R J.Copper and zinc absorption in the rat:mechanism of mutual antagonism[J].Journal of Nutrition,1985,115(2):159-166.
+
+[39]刘丽娟,刘冬生.膳食中微量元素铁、锌、铜吸收利用的相互影响[J].环境卫生学杂志,1990(1):32-34.
+
+[40]PAIK I,LEE H,PARK S.Effects of organic iron supplementation on the performance and iron content in the egg yolk of laying hens[J].The Journal of Poultry Science,2009,46(3):198-202.
+
+[41]SKRIVAN M,SKRIVANOVA V,MAROUNEK M.Effect of various copper supplements to feed of laying hens on cu content in eggs,liver,excreta,soil,and herbage[J].Archivesof Environmental Contamination and Toxicology,2006,50(2):280-283.
+
+[42]姜俊芳,张春善,贾春燕,等.铁与维生素A及其互作效应对肉仔鸡的生产性能、铁、铜、锰、锌表观存留率的影响[J].动物营养学报,2003,15(1):31-37.  
+[43]王丽.锌、铁对高脂老龄大鼠血脂及脂质过氧化的影响[D].硕士学位论文.石家庄:河北医科大学,2004.
+
+Effects of Different Zinc Sources and Levels on Growth Performance,Serum Antioxidant Indices and Utilization of Trace Elements of Growing-Finishing Pigs NIU Xianxiu YANG Weiren\* YUAN Xuejun ZHANG Chongyu XUE Feng CHENG Zhenfeng ZHANG Bensheng (College ofAnimal Science and Technology, Shandong Agricultural University, Tai'an 271018, China)
+
+Abstract: This experiment aimed to evaluate the effects of low levels of zinc methionine (Zn-Met) or zinc sulfate $\mathrm { ( Z n S O _ { 4 } ) }$ ）on growth performance, serum antioxidant indices and utilization of trace elements to determine the appropriate level of zinc in diets for growing-finishing pigs,so that realize the high efficient utilization of resources,and reduce the environmental impact of zinc in excreta. Thirty-two growing-finishing pigs (Duroc×Landrace×Largewhite) with average weight of $( 3 3 . 7 0 { \scriptstyle \pm 2 . 7 6 } )$ $\mathbf { k g }$ were randomly divided into 4 groups with 8 replicates (1 pig per replicate). The control group was fed a basal diet， while experimental groups were fed the basal diets supplemented with $4 0 \ \mathrm { m g / k g \ Z n } .$ -Met, $4 0 ~ \mathrm { m g / k g ~ Z n S O _ { 4 } }$ and $8 0 ~ \mathrm { m g / k g ~ Z n S O _ { 4 } }$ (calculate by zinc), respectively. There was a 72-day experimental period including 2 stages of a growing period and a finishing period after 7-day adaptation. The results showed as follows: 1） compared with the control group, there were no significant differences on average daily gain weight, average daily feed intake and feed to gain ratio of growing-finishing pigs with different zinc sources and levels （204 $( P { > } 0 . 0 5 )$ . 2) Compared with the control group, dietary zinc sources and levels could significantly increase the activity of total superoxide dismutase (T-SOD), glutathion peroxidase (GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ )and copper and zinc superoxide dismutase (CuZn-SOD) $( P { < } 0 . 0 5 )$ ,whereas could remarkably decrease the malondialdehyde (MDA) content $( P { < } 0 . 0 5 )$ in serum of growing-finishing pigs. Besides, group with $4 0 \ \mathrm { m g / k g }$ Zn-Met got the highest activity of T-SOD and GSH- $\mathbf { \cdot P x }$ and the lowest MDA content in serum, while the serum CuZn-SOD activity was increased with the addition of $\mathrm { Z n S O _ { 4 } }$ while was the highest in $8 0 \ \mathrm { m g / k g \ Z n S O _ { 4 } }$ group.3) Compared with the control group, dietary
+
+Zn-Met significantly increased the apparent absorptivity of zine, copper and manganese $( P { < } 0 . 0 5 )$ ， while dietary $\mathrm { Z n S O _ { 4 } }$ only significantly increased the apparent absorptivity of zinc $( P { < } 0 . 0 5 )$ which was decreased with the $\mathrm { Z n S O _ { 4 } }$ addition. Meanwhile, the apparent absorptivity of zinc in the 40 mg/kg Zn-Met group was the highest. It is concluded that both zinc sources and levels can't significantly promote the growth performance，but can significantly improve the serum antioxidant indices and apparent absorptivity of trace elements of growing-finishing pigs. Under this experimental conditions, the suitable $\mathrm { Z n S O _ { 4 } }$ supplementation level for growing-finishing pigs should be below $8 0 \mathrm { m g / k g }$ ,while $4 0 \mathrm { m g / k g } Z \mathrm { n }$ -Met gets a better effect.
+
+Key words: organic zinc; growing-finishing pig; antioxidant; apparent absorptivity
+
+Corresponding author, professor, E-mail: wryang@sdau.edu.cn

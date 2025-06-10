@@ -1,0 +1,720 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮添加壳寡糖对肉鸡肉品质、抗氧化性能、小肠黏膜组织结构及肠道菌群的影响白洁 $^ { 1 , 2 }$ 刘国华1,2\\*年 芳郑爱娟² 蔡辉益² 常文环²（1.甘肃农业大学动物科学技术学院，兰州730070；2.中国农业科学院饲料研究所，农业部生物饲料重点实验室，北京 100081；3.甘肃农业大学理学院，兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮添加壳寡糖（COS）对肉鸡肉品质、抗氧化性能、小肠黏膜组织结构及肠道菌群的影响。选用 300只1日龄健康的爱拔益加（AA）雄性肉鸡，随机分为5 组，每组6个重复，每个重复10 只鸡。空白对照组饲喂不含抗生素的基础饲粮，正对照组饲喂添加 $1 0 0 \\mathrm { m g / k g }$ 金霉素的基础饲粮，试验组分别饲喂添加50、100 和 $1 5 0 ~ \\mathrm { m g / k g }$ COS的基础饲粮。试验期 $4 2 \\mathrm { d }$ 。结果表明，与空白对照组相比：1）饲粮添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ COS显著提高了胸肌和腿肌的红度 $\\left( \\mathbf { a } ^ { * } \\right)$ 值（ $\\scriptstyle \\cdot < 0 . 0 5$ )。2）饲粮添加50 和 $1 0 0 \\mathrm { m g / k g C O S }$ 显著提高了1\\~21日龄血清总超氧化物歧化酶（T-SOD）活性（ $\\scriptstyle \\left. { \\begin{array} { r l } { P < 0 . 0 5 } \\end{array} } \\right.$ ），饲粮添加100 mg/kg COS显著提高了22\\~42 日龄血清总抗氧化能力（T-AOC）和 T-SOD、谷胱甘肽过氧化物酶(GSH- $\\mathbf { \\nabla } \\cdot \\mathrm { P x }$ ）活性（ $\\scriptstyle P < 0 . 0 5 .$ )，饲粮添加 $5 0 \\ \\mathrm { m g / k g }$ COS 显著提高了 22\\~42 日龄血清 T-SOD和GSH $\\mathbf { \\cdot P x }$ 活性（ $\\scriptstyle P < 0 . 0 5$ )。3）饲粮添加 $1 0 0 \\ \\mathrm { m g / k g }$ COS 显著提高了1\\~21 日龄和 22\\~42日龄空肠绒毛高度和绒毛高度/隐窝深度（ $P { < } 0 . 0 5$ )。4）饲粮添加50 和 $1 0 0 ~ \\mathrm { m g / k g }$ COS显著降低了回肠大肠杆菌数量（ $\\cdot P { < } 0 . 0 5$ )。5）饲粮添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ COS 显著提高了肉鸡的平均日增重( $\\scriptstyle P < 0 . 0 5 .$ )。由此可见，饲粮添加COS可提高肉鸡抗氧化性能，改善肉鸡肉品质和肠黏膜组织结构，并在一定程度上改善肠道菌群结构。COS 在肉鸡饲粮中的适宜添加量为 $1 0 0 \\mathrm { m g / k g }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：壳寡糖；肉鸡；抗氧化；小肠黏膜组织结构；肠道菌群中图分类号：S831",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20 世纪50年代初，抗生素作为一种新型饲料添加剂，在疾病防治、促进动物生长、提高饲料转化率等方面起了重要作用[]。但现代养殖业长期使用抗生素，已经产生了耐药性转移、药物残留和食品安全等诸多负面问题。开发无污染、无残留、不产生耐药性、绿色环保的新型饲料添加剂成为当今养殖业发展的必然趋势[2]。壳寡糖(chitosan oligosaccharide,COS)是低聚糖的一种，也是天然糖中唯一大量存在的碱性氨基寡糖，是壳聚糖经酶降解后得到的低分子质量产物，其化学名为β-（1，4）-2-氨基-2-脱氧-D-葡萄糖[3]。研究表明，COS 具有抑菌、抗氧化、增强免疫力、调节体内酸碱平衡等多种生物活性，具有提高动物生长性能、调节肠道微生态、改善肠道组织形态、降血压血脂、增强动物免疫功能、改善动物产品品质等作用[4-5]。已有的报道中，COS 在肉鸡生长性能、免疫性能等方面研究较多，但对于饲粮添加 COS对肉鸡肠道菌群和抗氧化性能等方面研究较少[6-9]。本试验旨在研究饲粮添加COS对肉鸡肉品质、抗氧化性能、肠道黏膜组织结构和肠道菌群的影响，评价其在肉鸡饲粮中添加的有效性，明确COS 在肉鸡饲粮中的适宜添加量，从而为指导COS 在肉鸡生产中的合理应用奠定理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料与试验动物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COS（纯度 $2 8 5 \\%$ ）购于领先生物农业股份有限公司。试验动物为爱拔益加（AA）肉鸡，购于北京华都肉鸡公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验采用单因素完全随机设计，将300只健康的AA雄性肉鸡（1日龄）随机分为5组，每组6个重复，每个重复10只鸡，各重复之间肉鸡体重差异不显著（ $\\cdot P { > } 0 . 0 5$ )。空白对照组饲喂不含抗生素的基础饲粮，正对照组饲喂添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ 金霉素的基础饲粮，试验组分别饲喂添加50、100和150mg/kgCOS的基础饲粮。整个试验过程中，为了保证饲粮营养水平按照COS水平梯度变化，饲粮配制使用的各种原料均为同一批次，试验期42d。参照《爱拔益加饲养手册》推荐的营养水平配制基础饲粮，饲粮为颗粒料，基础饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/52395a6b280a022f438673f901d7f4eec17ec97dfb8208998507d71eae0e665c.jpg",
+        "table_caption": [
+            "Table1 Composition and nutrient levels of basal diets (air-dry "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">basis) %</td></tr><tr><td>项目</td><td>1~21日龄</td><td>22~42日龄</td></tr><tr><td>Items</td><td>1 to 21 days of age</td><td>22 to 42 days of age</td></tr><tr><td>原料Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>56.14</td><td>60.85</td></tr><tr><td>豆油 Soybean oil</td><td>3.99</td><td>5.01</td></tr><tr><td>大豆粕 Soybean meal</td><td>29.98</td><td>20.64</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>3.00</td><td>5.00</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>2.00</td><td>4.00</td></tr><tr><td>食盐 NaCl</td><td>0.35</td><td>0.35</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.94</td><td>1.75</td></tr><tr><td>石粉Limestone</td><td>1.25</td><td>1.10</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys-HCL</td><td>0.22</td><td>0.18</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.19</td><td>0.17</td></tr><tr><td>L-苏氨酸 L-Thr</td><td>0.04</td><td>0.09</td></tr><tr><td>甜菜碱 Betaine</td><td>0.20</td><td>0.20</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.20</td><td>0.16</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/66366fc2bd302b0d0b24d93418368b2dea2838bd7fddb3be77cbeda7124deae4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>预混料 Premix1)</td><td>0.50</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/(kJ/kg)</td><td>12.24</td><td>12.66</td></tr><tr><td>粗蛋白质 CP</td><td>20.00</td><td>18.00</td></tr><tr><td>钙Ca</td><td>1.00</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.45</td><td>0.42</td></tr><tr><td>赖氨酸Lys</td><td>1.25</td><td>1.05</td></tr><tr><td>蛋氨酸Met</td><td>0.50</td><td>0.45</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.88</td><td>0.81</td></tr><tr><td>苏氨酸 Thr</td><td>0.76</td><td>0.72</td></tr><tr><td>色氨酸Try</td><td>0.23</td><td>0.20</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1’预混料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of diets: VA 10 000 IU，VD32 000 IU，VE 20 IU, $\\mathrm { V K } _ { 3 } 2 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 2 . 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 4 . 0 \\ : \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 5 . 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2$ mg, $D$ -泛酸钙 $D$ -calcium pantothenate $1 1 . 0 \\mathrm { m g }$ ，烟酸nicotinic acid $3 5 ~ \\mathrm { m g }$ ，叶酸 folic acid 0.5 mg，生物素 biotin $0 . 1 2 \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \\mathrm { { m g } }$ ， $\\mathtt { C u }$ (as copper sulfate) $8 \\ : \\mathrm { m g }$ ，Zn (as zinc sulfate) $7 8 ~ \\mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 0 \\mathrm { m g }$ ，I(as potassium iodide) $0 . 3 4 \\mathrm { m g }$ ，Se (as sodium selenite) $0 . 1 5 \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2’营养水平值为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验在中国农业科学院南口中试基地进行。试验采用3层笼养，鸡舍光照第1\\~7天为$2 4 \\mathrm { h }$ ，第8天开始为 $2 3 \\mathrm { h }$ 。鸡舍温度第1\\~3天为 $3 3 ^ { \\circ } \\mathrm { C }$ ，从第4天开始逐步降温直至保持25℃。试验期内鸡自由采食，充足饮水。按常规程序进行预防免疫。每天观察试验鸡的精神状态、食欲及粪便情况，记录死亡只数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与指标测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 肉品质 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "pH：用Testo205 型便携式pH计测定屠宰 $4 5 \\mathrm { m i n }$ 后左侧胸肌和腿肌的pH。测定时先用手术刀割一个豁口，然后将电极完全插入肌肉中，同一只鸡的胸肌和腿肌测定3个不同的部位，并保持每个样品的测定部位一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肉色：屠宰 $4 5 ~ \\mathrm { m i n }$ 后用CR-400型全自动色差计测定右侧胸肌和腿肌的亮度 ${ { ( \\mathrm { L } ^ { * } } }$ )、红度（a\\*）和黄度 $( \\boldsymbol { \\mathsf { b } } ^ { * } )$ ，每个样品相同部位测定2次（2次旋转90度)，取平均值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "滴水损失：测完肉色后称取右侧胸肌和腿肌（长和宽大致为5和 $2 \\ \\mathrm { c m }$ ）约 $2 0 \\mathrm { ~ g ~ }$ （记为W1)，置于自封袋中，然后向袋中充入氮气使它膨胀起来，以减少肉样与自封袋内壁的接触，悬置于 $4 ^ { \\circ } \\mathrm { C } .$ 冰箱内， $2 4 \\mathrm { h }$ 后取出肉样，用预先准备好的滤纸轻轻擦去肉样表面的汁液，然后对肉样进行称重(记为W2)。滴水损失的计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "滴水损失 $( \\% ) { = } 1 0 0 { \\times } ( W 2 { - } W 1 ) / W 1$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蒸煮损失：把测定过滴水损失的肉样重新装入自封袋中再次放入 $4 ~ ^ { \\circ } \\mathrm { C }$ 冰箱中，到 $^ { 7 2 \\mathrm { ~ h ~ } }$ 的时取出肉样用预先准备好的滤纸轻轻擦去肉样表面的水分，然后称重(记为W1)，接着将肉样放入自封袋内，抽空自封袋内空气后，置于 $8 0 ~ ^ { \\circ } \\mathrm { C }$ 水浴中 $3 0 \\mathrm { m i n }$ 。从袋中取出肉样，放置于滤纸上 $3 0 ~ \\mathrm { m i n }$ ，冷却至室温，然后用滤纸擦去肉样表面的水分后称重(记为W2)。蒸煮损失的计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蒸煮损失 $( \\% ) { = } 1 0 0 { \\times } ( W 1 { - } W 2 ) / W 1$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 抗氧化性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在试验第21天、42天时，每个重复随机选取1只鸡颈静脉采集血液 $1 0 ~ \\mathrm { m L }$ 于一次性真空采血管中 (内含分离胶与促凝剂)， $3 7 ^ { \\circ } \\mathrm { C }$ 静置1h， $3 5 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 制备血清，用于抗氧化性能的测定。采用黄嘌呤氧化酶法测定血清中总超氧化物歧化酶（total superoxidedismutase,T-SOD）活性，采用硫代巴比妥酸法测定血清中丙二醛（malondialdehyde,MDA）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "含量和总抗氧化能力（total antioxidant capacity,T-AOC)，采用比色法测定血清中谷胱甘肽过氧化物酶（glutathione peroxidase, GSH- $\\mathbf { \\cdot P x }$ ）活性。上述指标测定所用试剂盒均购自南京建成生物工程研究所，测定时按试剂盒说明书进行操作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 小肠黏膜组织结构",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别于21、42日龄清晨饲喂前，每个重复选1只鸡（每组6只鸡)，颈静脉放血处死。迅速打开腹腔，分离空肠，截取 $2 { \\sim } 3 ~ \\mathrm { c m }$ ，迅速浸入生理盐水中漂洗内容物，然后置于 $10 \\%$ 甲醛固定液中。将固定的标本经水洗、脱水、透明等步骤处理，再用石蜡包埋，冷却凝固后，制作厚度 ${ 5 \\mu \\mathrm { m } }$ 的连续切片，苏木精-伊红染色，树脂封片。在石蜡切片中选出典型视野，采用荧光倒置显色镜及显微图像分析系统，测量空肠绒毛高度（villous height,V）和隐窝深度(crypt depth,C)，计算绒毛高度/隐窝深度（V/C)。具体操作方法参照周赵英[1]的试验操作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 肠道菌群分类计数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "于42日龄清晨饲喂前，每个重复随机选取1只鸡（每组6只鸡)，颈静脉放血处死。迅速打开腹腔，将回肠两端结扎，剪断，用酒精棉球消毒结扎端，放入灭菌样品袋中，冰袋降温，4h内进行肠道菌群分类计数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "超净台取 $\\boldsymbol { 0 . 5 \\mathrm { ~ g ~ } }$ 回肠内容物于装有 $4 . 5 ~ \\mathrm { m L }$ 灭菌生理盐水的试管中，用漩涡振荡器震荡$3 { \\sim } 5 \\ \\operatorname* { m i n }$ 至混合均匀，得到 $1 0 ^ { - 1 }$ 倍稀释液，再取稀释菌液 $0 . 5 ~ \\mathrm { m L }$ 加入装有 $4 . 5 ~ \\mathrm { m L }$ 灭菌生理盐水的EP 管中，振荡均匀，得到 $1 0 ^ { - 2 }$ 倍稀释液，重复以上操作将菌液分别稀释至 $1 0 ^ { - 3 }$ 、 $1 0 ^ { - 4 }$ 、$1 0 ^ { - 5 }$ 、 $1 0 ^ { - 6 }$ 、 $1 0 ^ { - 7 }$ 倍稀释液。然后选取3个不同梯度的稀释液，分别在特定的选择培养基上涂布，按相应的时间培养后进行大肠杆菌、乳酸杆菌和双歧杆菌的菌落计数。每个梯度做 3个重复。培养条件见表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2分类培养菌群的条件",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6766e16d2aba5946b2a5f03e09997d2f58979fd78a01e6e4fca297319e1fe468.jpg",
+        "table_caption": [
+            "Table2Conditions forclassification of bacteria "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌种</td><td>稀释梯度</td><td>培养基</td><td>温度</td><td>氧气条件</td><td>时间</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0884864b862144b65b838cc684ee7afa6a2079b70fb3d8de3bc43f873ebb487.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Strain</td><td>Dilution gradient</td><td>Culture medium</td><td>Temperature/℃</td><td>Oxygen condition</td><td>Time/h</td></tr><tr><td>大肠杆菌 Escherichia</td><td>10-3、10-4、10-5</td><td>伊红美蓝琼脂培</td><td>37</td><td>有氧</td><td>24</td></tr><tr><td>coli</td><td></td><td>养基</td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌Lactobacilli</td><td>10-3、10-4、10-5</td><td>乳酸细菌培养基</td><td>37</td><td>无氧</td><td>48</td></tr><tr><td>双歧杆菌Bifidobacteria</td><td>10-3、10-4、10-5</td><td>亚硫酸铋琼脂培</td><td>37</td><td>无氧</td><td>48</td></tr><tr><td></td><td></td><td>养基</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "菌落数计算公式[11]:",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "每克样品的菌落数量 $\\scriptstyle = \\log _ { 1 0 }$ （同一稀释度的菌落平均数 $\\times$ 稀释倍数/样品克数）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.3.5 生长性能",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在试验鸡1和42日龄称重，记录采食量，计算平均日增重、平均日采食量和料重比。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据统计分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用 SPSS19.0软件进行单因素方差分析（one-wayANOVA)，差异显著时采用Duncan氏法进行多重比较。设 $P { < } 0 . 0 5$ 为显著性水平， $0 . 0 5 { < } P { < } 0 . 1 0$ 为趋势性水平。结果采用\"平均值 $\\pm$ 标准差\"表示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1 饲粮添加COS对肉鸡肉品质的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知,饲粮添加COS 对胸肌和腿肌的a\\*值有显著影响( $\\scriptstyle P < 0 . 0 5$ ),50和 $1 0 0 \\mathrm { m g / k g }$ COS 组肉鸡胸肌和腿肌的a\\*值均高于空白对照组，其中 $1 0 0 ~ \\mathrm { { m g / k g } }$ COS 组显著高于空白对照组 （ $\\scriptstyle P < 0 . 0 5 ,$ 。饲粮添加COS对胸肌和腿肌的pH、 $\\boldsymbol { \\mathrm { ~ L ~ } } ^ { * }$ 值、 $\\boldsymbol { \\mathbf { b } } ^ { * }$ 值、滴水损失和蒸煮损失无显著影响（ $P { > } 0 . 0 5 \\$ )，饲粮添加COS有降低腿肌滴水损失的趋势（ $. 0 . 0 5 { < } P { < } 0 . 1 0 \\$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1ceb680b122de8a86df575332b608e2934a79a87fc2e454ec056cd224938fc8.jpg",
+        "table_caption": [
+            "表3饲粮添加壳寡糖对肉鸡肉品质的影响",
+            "Table 3Effects of dietary COS on meat quality of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>正对照组</td><td>空白对照组</td><td>壳寡糖添加水平 COS supplemental level/</td><td></td><td></td><td>P值</td></tr><tr><td rowspan=\"2\">Items</td><td>Positive</td><td>Blank</td><td>（mg/kg）</td><td></td><td></td><td>P-value</td></tr><tr><td>control group</td><td>control</td><td>50</td><td>100</td><td>150</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "% ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/abdf5aadcc4d84704818616830f4cc5e0c5acddb078ea83d34b141883433f910.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">group</td></tr><tr><td>胸肌</td><td>pH</td><td>6.73±0.07</td><td>6.57±0.26</td><td>6.65±0.17</td><td>6.75±0.13</td><td>6.72±0.12</td><td>0.111</td></tr><tr><td>Breast</td><td>亮度 L*</td><td>52.93±2.47</td><td>52.2±1.66</td><td>52.73±4.83</td><td>53.09±2.00</td><td>52.69±2.85</td><td>0.676</td></tr><tr><td>muscle</td><td>红度a*</td><td>5.12±1.01ab</td><td>4.25±0.58b</td><td>5.42±1.10ab</td><td>6.05±1.19a</td><td>4.41±1.05b</td><td>0.042</td></tr><tr><td></td><td>黄度b*</td><td>7.46±2.55</td><td>7.58±2.10</td><td>7.41±1.96</td><td>6.59±1.04</td><td>6.74±0.81</td><td>0.447</td></tr><tr><td></td><td>滴水损失</td><td>2.19±0.59</td><td>2.31±0.61</td><td>1.92±0.35</td><td>1.95±0.73</td><td>2.15±0.43</td><td>0.293</td></tr><tr><td></td><td>Drip loss/% 蒸煮损失</td><td>26.58±3.52</td><td>28.10±1.65</td><td>26.70±5.49</td><td>24.82±1.19</td><td></td><td></td></tr><tr><td></td><td>Cooking loss/%</td><td></td><td></td><td></td><td></td><td>27.44±4.00</td><td>0.163</td></tr><tr><td>腿肌</td><td>pH</td><td>6.50±0.20</td><td>6.42±0.26</td><td>6.47±0.16</td><td>6.52±0.19</td><td>6.41±0.21</td><td>0.425</td></tr><tr><td>Thigh</td><td>亮度L*</td><td>50.9±1.42</td><td>49.92±0.85</td><td>50.32±2.43</td><td>50.44±1.93</td><td>48.50±2.78</td><td>0.100</td></tr><tr><td>muscle</td><td>红度a*</td><td>5.29±0.30ab</td><td>4.17±0.80b</td><td>4.81±0.64ab</td><td>5.89±1.45a</td><td>4.43±0.48b</td><td></td></tr><tr><td></td><td>黄度 b*</td><td>7.14±2.57</td><td>6.85±0.91</td><td>5.83±1.28</td><td>5.36±0.52</td><td>5.14±2.18</td><td>0.046</td></tr><tr><td></td><td>滴水损失</td><td>2.27±0.71</td><td>2.54±0.74</td><td>2.08±0.34</td><td>1.72±0.66</td><td>2.22±0.64</td><td>0.103</td></tr><tr><td></td><td>Drip loss/%</td><td></td><td></td><td></td><td></td><td></td><td>0.053</td></tr><tr><td></td><td>蒸煮损失</td><td>22.35±4.03</td><td>21.97±2.75</td><td>19.11±1.94</td><td>19.24±3.50</td><td></td><td></td></tr><tr><td></td><td>Cooking loss/%</td><td></td><td></td><td></td><td></td><td>21.31±4.65</td><td>0.164</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著1 $. P { > } 0 . 0 5$ )。下表同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮添加COS 对肉鸡血清抗氧化性能的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4 可知，1\\~21日龄，饲粮添加COS 对血清T-SOD 活性有显著影响（ $\\scriptstyle \\cdot < 0 . 0 5 .$ ，50和 $1 0 0 ~ \\mathrm { { m g / k g } }$ COS 组血清 T-SOD 活性显著高于空白对照组（ $\\scriptstyle \\left. { P < 0 . 0 5 } \\right.$ ，而 $1 5 0 ~ \\mathrm { m g / k g }$ COS组与空白对照组无显著差异( $\\cdot P { > } 0 . 0 5 \\$ )。饲粮添加COS 对血清 MDA 含量、T-AOC 和GSH-Px活性无显著影响（ $P { > } 0 . 0 5$ )。22\\~42日龄，饲粮添加COS 对血清MDA含量无显著影响（ $P$ ${ \\tt > } 0 . 0 5 { \\it : }$ )。饲粮添加COS 对血清T-AOC和GSH $\\mathbf { \\nabla } \\cdot \\mathrm { P x }$ 、T-SOD活性有显著影响（ $\\scriptstyle \\cdot < 0 . 0 5$ ），100mg/kg COS 组血清 T-AOC 和 T-SOD、GSH-Px 活性显著高于空白对照组( $\\cdot < 0 . 0 5$ )， $5 0 \\mathrm { m g / k g }$ COS 组血清 T-SOD 和GSH-Px 活性显著高于空白对照组（ $\\scriptstyle P < 0 . 0 5 )$ ，而 $1 5 0 ~ \\mathrm { m g / k g }$ COS组血清T-AOC 和T-SOD、GSH-Px 活性与空白对照组无显著差异（ $P { > } 0 . 0 5 \\$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮添加壳寡糖对肉鸡血清抗氧化性能的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/667446830c1a6fcc0e9ebc25ad83d846f6398cd5fc1d44add0eac740013d6e1b.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary COS on serum antioxidant activity of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\" rowspan=\"2\">项目 Items</td><td rowspan=\"2\">正对照组 Positive control group</td><td rowspan=\"2\">空白对照组 Blank control group</td><td colspan=\"3\">壳寡糖添加水平 COSsupplemental level/</td><td rowspan=\"2\">P值 P-valu e</td></tr><tr><td colspan=\"3\">（mg/kg）</td></tr><tr><td>1~21日 龄</td><td></td><td>丙二醛 MDA/（nmol/mL)</td><td>3.07±0.93</td><td>3.68±0.64</td><td>50 4.48±0.80</td><td>100 4.43±2.18</td><td>150 5.20±0.74</td><td>0.067</td></tr><tr><td>1 to 21 daysof</td><td>总抗氧化能力</td><td></td><td>0.71±0.13</td><td>0.80±0.10</td><td>0.79±0.13</td><td>0.75±0.12</td><td>0.82±0.13</td><td>0.578</td></tr><tr><td>age</td><td>T-AOC/(U/mL) 总超氧化物歧化酶 T-SOD /(U/mL)</td><td></td><td>132.59±15.21a</td><td>107.43±8.60b</td><td>129.75±10.54a</td><td>129.92±11.48a</td><td>98.35±22.96b</td><td>0.006</td></tr><tr><td></td><td>谷胱甘肽过氧化物酶</td><td></td><td>780.31±112.36</td><td>738.64±55.32</td><td>782.20±71.74</td><td>813.61±80.98</td><td>797.91±120.67</td><td>0.258</td></tr><tr><td>22~42</td><td>丙二醛</td><td>GSH-Px/(U/mL)</td><td>3.41±1.99</td><td>3.57±1.20</td><td>2.73±0.67</td><td>3.17±1.45</td><td>4.08±1.32</td><td>0.191</td></tr><tr><td>日龄 22 to 42</td><td>MDA/（nmol/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>days of</td><td></td><td>总抗氧化能力</td><td>0.55±0.20ab</td><td>0.41±0.16b</td><td>0.59±0.15ab</td><td>0.68±0.09a</td><td>0.44±0.12b</td><td>0.037</td></tr><tr><td>age</td><td></td><td>T-AOC/(U/mL) 超氧化物歧化酶</td><td>145.23±21.35a</td><td>112.25±25.63b</td><td>148.83±6.94a</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>T-SOD/(U/mL)</td><td></td><td></td><td></td><td>147.65±14.85a</td><td>124.74±28.63ab</td><td>0.049</td></tr><tr><td></td><td>GSH-Px/(U/mL)</td><td>谷胱甘肽过氧化物酶</td><td>835.08±56.73ab</td><td>782.09±80.32b</td><td>865.44±35.13a</td><td>884.82±43.83a</td><td>777.17±85.7b</td><td>0.026</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3 饲粮添加COS对肉鸡空肠黏膜组织结构的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表5 可知，1\\~21日龄，饲粮添加COS 对空肠黏膜绒毛高度、隐窝深度和绒毛高度/隐窝深度有显著影响 （ $( P { < } 0 . 0 5 )$ ；100和 $1 5 0 \\mathrm { m g / k g C O S }$ 组空肠黏膜绒毛高度显著高于空白对照组（ $P { < } 0 . 0 5 )$ ，但与正对照组相比无显著差异（ $P { > } 0 . 0 5$ ；100 mg/kgCOS 组和正对照组空肠黏膜隐窝深度显著低于空白对照组（ $\\scriptstyle P < 0 . 0 5 .$ ；100 mg/kgCOS组空肠黏膜绒毛高度/隐窝深度显著高于空白对照组（ $( P { < } 0 . 0 5 )$ )，与其他各组无显著差异（ $\\cdot P { > } 0 . 0 5$ )。22\\~42日龄，饲粮添加COS 对空肠黏膜绒毛高度和绒毛高度/隐窝深度有显著影响（ $\\cdot P { < } 0 . 0 5 \\rangle$ ； $1 0 0 \\mathrm { m g / k g }$ COS 组空肠黏膜绒毛高度显著高于空白对照组和 $1 5 0 \\mathrm { m g / k g C O S }$ 组 $\\scriptstyle \\cdot < 0 . 0 5$ )，与正对照组相比无显著差异 （ $\\cdot P { > } 0 . 0 5 )$ ；各组空肠黏膜隐窝深度无显著差异（ $\\cdot P { > } 0 . 0 5 ) .$ ； $1 0 0 \\mathrm { m g / k g }$ COS组空肠黏膜绒毛高度/隐窝深度显著高于空白对照组和 $1 5 0 \\mathrm { m g / k g C O S }$ 组（ $\\scriptstyle P < 0 . 0 5 ,$ ）",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮添加壳寡糖对肉鸡空肠黏膜组织结构的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1038962521eadfb2d699f38d4408b754f8c9192c685baf1badccf11405d45601.jpg",
+        "table_caption": [
+            "Table 5Effects of dietary COS on jejunum mucosal structure of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\"></td><td>正对照组</td><td rowspan=\"2\">空白对照组 Blank control</td><td colspan=\"3\">壳寡糖添加水平 COS supplemental level/</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>Positive control</td><td>（mg/kg） 50</td><td>100</td><td>150</td></tr><tr><td>1~21</td><td>绒毛高度</td><td>group 1.36±0.16ab</td><td>group 1.27±0.14b</td><td>1.50±0.29ab</td><td>1.60±0.09a</td><td>1.57±0.14a</td><td>0.038</td></tr><tr><td>日龄</td><td>Villous height/μm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1 to</td><td>隐窝深度</td><td>0.19±0.03c</td><td>0.25±0.03a</td><td>0.23±0.03ab</td><td>0.21±0.02bc</td><td>0.23±0.02ab</td><td>0.006</td></tr><tr><td>21</td><td>Crypt depth/μm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>days</td><td>绒毛高度/隐窝深度</td><td>7.21±1.88ab</td><td>5.51±1.07b</td><td>6.02±2.28ab</td><td>7.67±0.86a</td><td>6.47±0.82ab</td><td>0.027</td></tr><tr><td>of age 22~42</td><td>V/C</td><td>1.54±0.13ab</td><td>1.50±0.09b</td><td>1.58±0.25ab</td><td>1.74±0.10a</td><td>1.41±0.16b</td><td>0.037</td></tr><tr><td>日龄</td><td>绒毛高度</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>22</td><td>Villous height/μm</td><td></td><td>0.26±0.05</td><td>0.23±0.04</td><td>0.21±0.02</td><td>0.21±0.02</td><td>0.121</td></tr><tr><td>to</td><td>隐窝深度</td><td>0.24±0.03</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42</td><td>Crypt depth/μm</td><td></td><td>5.89±0.92b</td><td></td><td></td><td></td><td></td></tr><tr><td>days</td><td>绒毛高度/隐窝深度</td><td>7.14±0.87ab</td><td></td><td>7.16±1.11ab</td><td>8.17±0.17a</td><td>6.31±1.13b</td><td>0.008</td></tr><tr><td>of age</td><td>V/C</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4饲粮添加COS对肉鸡回肠菌群的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表6可知,饲粮添加COS 对回肠大肠杆菌数量有显著影响( $\\cdot < 0 . 0 5$ ),50和 $1 0 0 \\mathrm { m g / k g }$ COS组回肠大肠杆菌数量显著低于空白对照组（ $\\scriptstyle \\cdot < 0 . 0 5$ )；饲粮添加COS对回肠双歧杆菌和乳酸杆菌数量无显著影响( $. P { > } 0 . 0 5 )$ ，但有提高回肠双歧杆菌数量的趋势 $( 0 . 0 5 { < } P { < } 0 . 1 0 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/afa50793d9f3e0d8e52a9f9054aecfe17edabcae5b1f49568157f80728674e6e.jpg",
+        "table_caption": [
+            "表6饲粮添加壳寡糖对肉鸡回肠菌群的影响",
+            "Table 6Effects of dietary COS on ileum flora of broilers $\\scriptstyle \\log ( \\mathrm { C F U } / \\mathrm { g } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td rowspan=\"2\">正对照组 Positive control group</td><td rowspan=\"2\">空白对照组 Blank control group</td><td colspan=\"3\">壳寡糖添加水平 COS supplemental level/</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>（mg/kg） 50</td><td>100</td><td>150</td></tr><tr><td>大肠杆菌</td><td>5.59±0.16b</td><td>5.87±0.01a</td><td>5.62±0.16b</td><td>5.58±0.05b</td><td>5.73±0.08ab</td><td>0.042</td></tr><tr><td>Escherichiacoli 双歧杆菌</td><td>5.38±0.03</td><td>5.46±0.05</td><td>5.50±0.28</td><td>5.62±0.06</td><td>5.55±0.06</td><td>0.076</td></tr><tr><td>Bifidobacteria</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸杆菌</td><td>5.37±0.14</td><td>5.42±0.07</td><td>5.53±0.55</td><td>5.60±0.10</td><td>5.28±0.03</td><td>0.198</td></tr><tr><td>Lactobacilli</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5饲粮添加COS对肉鸡全期生长性能的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，饲粮添加COS 对肉鸡的平均日增重有显著影响( $\\cdot P { < } 0 . 0 5 \\$ ,100 mg/kg COS组肉鸡的平均日增重显著高于空白对照组（ $\\scriptstyle P < 0 . 0 5 )$ ，与正对照组无显著差异（ $P { > } 0 . 0 5$ ）°饲粮添加COS对肉鸡的平均日采食量和料重比均无显著影响（ $P { > } 0 . 0 5 )$ ，但有降低F/G的趋势（ $0 . 0 5 { < } P { < } 0 . 1 0 \\rangle$ 1",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表7饲粮添加壳寡糖对肉鸡生长性能的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e8a69b23b66750c64ede575cf6176f4aff4b4ad13618fdaf404da1e883e1488.jpg",
+        "table_caption": [
+            "Table 7Effects of dietary COS on growth performance of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>正对照组 Positive control group</td><td>空白对照组 Blank control group</td><td colspan=\"3\">壳寡糖添加水平 COSsupplemental level/ （mg/kg)</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td></td><td></td><td></td><td>50</td><td>100</td><td>150</td></tr><tr><td>平均日采食量 ADFI/g</td><td>78.87±6.45</td><td>75.00±11.75</td><td>78.41±2.95</td><td>78.53±3.27</td><td>82.02±4.97</td><td>0.125</td></tr><tr><td>平均日增重</td><td>70.31±2.09a</td><td>65.91±0.94b</td><td>67.71±3.32ab</td><td>69.74±2.14a</td><td>67.45±2.16ab</td><td>0.025</td></tr><tr><td>ADG/g</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比 F/G</td><td>1.26±0.07</td><td>1.29 ±0.06</td><td>1.31±0.06</td><td>1.26±0.06</td><td>1.36±0.11</td><td>0.051</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1 饲粮添加COS对肉鸡肉品质的影响 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "pH 是影响肉品质的重要因素，能反映出宰后体内糖原降解的速度，pH过高或过低都会对肉品质产生不利影响。据报道，刚屠宰的鸡肉 pH 为 6.0\\~7.0，约1h 后达到最低，为5.4\\~5.6[12]。肉色作为一个重要的肉质性状，是肌肉外观评定的重要指标，它由肌肉中的色素、肌红蛋白和血红蛋白决定[13]。反映肉色的3个指标分别是L\\*、a\\*和b\\*。a\\*值在一定范围内越高表示肉品质越好，新鲜度也越高[12]。系水力是指肌肉组织保持水分的能力。常用滴水损失或失水率来衡量肌肉的系水力，滴水损失和系水力之间呈现负相关[14]。肌肉的滴水损失大，大量液体外流，可溶性营养成分和风味物质损失严重，肌肉变得干硬无味，肉品质降低[15]。蒸煮损失指生肉加工成熟肉过程中由于蒸煮水分损失等原因而发生的质量减少。蒸煮过程水分等的损失影响肌肉的风味、多汁性、嫩度、加工与贮藏功能等，降低了经济效益。本试验结果显示，与空白对照组相比，饲粮添加100 mg/kgCOS 显著提高胸肌和腿肌的a\\*值，腿肌的L\\*值有升高的趋势，腿肌的滴水损失有降低的趋势。李阳[12报道，饲粮中单独添加COS 显著提高肉鸡胸肌和腿肌a\\*值，显著降低腿肌b\\*值，对胸肌和腿肌的pH 和L\\*值无显著影响，与本试验结果较一致，表明饲粮添加COS 在一定程度上改善了肉品质。宋涛[13]报道，当COS 添加量为 $2 0 0 ~ \\mathrm { m g / k g }$ 时可显著降低北京肉鸭肌肉的滴水损失，对肉色和pH的作用效果不明显，但肌肉 $\\mathsf { p H }$ 随着饲粮中COS 添加量的增高而有升高的趋势。本试验中没有发现明显的规律，COS 适宜添加量为 $1 0 0 \\mathrm { m g / k g }$ ，试验结果的不一致可能与试验材料和饲养环境等有关。另外肉品质的影响因素较多，而且各因素之间关系较为复杂，对于COS影响肉品质的作用机理尚不明确，有待进一步研究探索。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮添加COS对肉鸡血清抗氧化性能的影响 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "肉鸡由于其营养及生理特点，体内脂质含量相对较高，故容易发生脂质过氧化反应，产生的过氧化物会对机体产生一定损害。MDA是动物体内脂质过氧化的代谢产物，其含量的高低可间接反映机体受自由基攻击的严重程度，而T-SOD 活性的高低可以间接反映机体清除自由基的能力,MDA含量的测定常与T-SOD 活性相互配合[16]。在机体防御体系中,T-AOC代表体内酶类和非酶类抗氧化物的总体水平，能全面反映动物机体的抗氧化状态。其作用主要是维持内环境活性氧的动态平衡，清除过高的活性氧，使机体处于氧化还原相对稳定的状态[17]。GSH-Px是动物机体内广泛存在的一种过氧化物分解酶，该酶能催化谷胱甘肽（GSH)生成氧化型谷胱甘肽（GSSG)，从而保护细胞膜的结构及功能不受过氧化物的干扰及损害[18]。臧珉等[19]通过经典的芬顿（Fenton）反应方法研究指出，COS 有接近维生素C 的超氧阴离子自由基清除能力，并且COS的T-AOC 为 $1 9 2 . 3 ~ \\mathrm { U / m L }$ ，与抗坏血酸214.7U/mL相差不多，进一步证明COS具有较强的抗氧化性。本试验结果显示，与空白对照组相比，饲粮添加100 mg/kg COS 显著提高了肉鸡 21日龄血清中的T-SOD活性和42 日龄血清中的T-AOC和 T-SOD、GSH-Px 活性，饲粮添加 50 mg/kg COS 显著提高了肉鸡 21 日龄血清中的 T-SOD活性和42日龄血清中的T-SOD 和GSH-Px 活性，但饲粮添加 $1 5 0 \\mathrm { m g / k g }$ COS 时无显著差异。这表明饲粮添加COS 可提高肉鸡的抗氧化性能，但添加量并不是越高越好。此与李阳等[20]的报道基本一致，李阳等[20]认为，饲粮单独添加COS 可显著降低血浆、胸肌和腿肌 MDA含量，显著提高血浆、胸肌和腿肌 T-AOC 及T-SOD 活性，但其试验没有确定COS 的适宜添加量。龙次民等[2I对妊娠后期母猪的研究表明，饲粮中添加COS 可显著提高母猪血清中SOD 活性，同时显著提高新生仔猪血清中GSH-Px的活性。关于COS 的抗氧化机制，李晓晶[22]研究指出，COS 分子结构中的葡萄糖胺链上带有四价铵离子，其提供的单电子对自由基有较好的清除效果，进而提高机体抗氧化性能。也有报道称，COS及其衍生物的总还原能力较强，能有效清除羟基自由基和超氧阴离子[23-24]；也有观点认为，因为COS 能提供正电子与自由基反应，将自由基转化为更为稳定的产物，从而终止自由基链式反应；另外由于COS 分子链短，形成分子内氢键能力较弱，有很多的活性羟基和氨基暴露出来后容易被激活，有利于清除自由基[25]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮添加COS对肉鸡空肠黏膜组织结构的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "小肠是动物机体吸收营养的主要场所，小肠结构的正常与否直接影响营养物质吸收及动物的生长发育。Caspary[26]报道，绒毛高度与小肠和营养物质的接触面积呈正相关，小肠绒毛高度越高，肠上皮细胞数量越多，与营养物质接触面积越大，对养分的吸收能力越强。隐窝的深度与肠道分泌功能呈负相关，隐窝越浅，分泌功能越强，吸收功能也越强，动物生产效率越高[27]。绒毛高度/隐窝深度反映小肠的功能状态，比值越大，黏膜完整性越好，肠道消化吸收能力越强，腹泻率越低，动物体生长发育越快[28]。本试验21和42日龄，饲粮添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ COS 的空肠绒毛高度、绒毛高度/隐窝深度与空白对照组相比都显著升高，隐窝深度显著降低，与王秀武等[29]的研究结果相一致。王秀武等[29]报道，COS 组空肠和回肠绒毛高度均比对照组显著增加，绒毛宽度显著减少。田娟等[30也报道，吉富罗非鱼饲料中添加 $0 . 1 0 { \\sim } 0 . 7 0 \\%$ 的COS 能不同程度提高前肠的绒毛长度、高度和密度。COS对肠道黏膜组织结构的改善可能在于其能阻止病原菌及腐败菌在肠道黏膜上的定植，以促进肠道上皮细胞增殖，有利于动物消化道形态结构正常发育。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4饲粮添加COS对肉鸡回肠菌群的影响 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "动物肠道是重要的消化器官，也是最大的细菌库，肠道中寄生着种类繁多且数量巨大的微生物，正常情况下，各微生物之间比例稳定，与宿主肠道互利共生，形成动态平衡，构成动物体内稳定的微生态系统[31-33]。许多研究表明，寡糖可改善肉鸡的肠道菌群，抑制有害菌的增长并促进有益菌的增长。刘卫东等[34]报道，甘露寡糖能明显降低肠道中大肠杆菌数量，增加乳酸杆菌和双歧杆菌数量。袁缨等[35]报道，基础饲粮中分别添加同一水平的不同寡糖，可通过增加盲肠中乳酸杆菌和双歧杆菌的数量来调节肠道微生态平衡。张厂等[36报道，饲粮中添加果寡糖可显著改善肉鸡肠道微生态环境，显著提高鸡盲肠中乳酸杆菌和双歧杆菌数量，并降低大肠杆菌数量。本试验结果显示，与空白对照组相比，饲粮添加 50 和 $1 0 0 \\mathrm { m g / k g }$ COS 可显著降低回肠大肠杆菌数量，饲粮添加 $1 0 0 ~ \\mathrm { { m g / k g } }$ COS 时回肠双歧杆菌数有升高的趋势，对回肠乳酸杆菌数量无显著影响，这与王秀武等[29的试验结果不太一致，其报道称COS 对大肠杆菌有抑制作用，对双歧杆菌和乳酸杆菌也表现出抑制作用。COS 对家禽肠道菌群的研究较少。连国琦等[37报道，饲粮添加COS 显著增加环江香猪回肠乳酸杆菌数量，显著降低回肠链球菌数量；同时显著增加盲肠双歧杆菌和乳酸杆菌数量，显著降低盲肠大肠杆菌和链球菌数量。徐贵珠[38]对中华绒螯蟹的研究称，不同水平的COS 能显著降低其肠道中大肠杆菌数量，同时增加乳酸杆菌和双歧杆菌数量。COS 对动物肠道微生物区系的调节作用出现不同的结果，可能与COS 的种类、分子质量大小有关。有研究报道，甲壳低聚糖对大肠杆菌的抑制作用与分子质量有关，分子质量过大时抑菌效果下降[39]。总的来说，COS对大肠杆菌有抑制作用，但对乳酸杆菌和双歧杆菌的影响及机理还有待进一步研究探索。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 肉鸡饲粮添加100 mg/kgCOS 可改善肉鸡的肉品质并且提高试验全期的平均日增重，添加50和 $1 0 0 \\mathrm { m g / k g }$ COS 可显著提高肉鸡抗氧化性能。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 肉鸡饲粮添加100 mg/kgCOS 可显著改善空肠黏膜组织结构，减少回肠有害菌数量，并有增加有益菌数量的作用趋势。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 建议 COS 在肉鸡饲粮中的适宜添加量为 $1 0 0 \\mathrm { m g / k g }$ 。参考文献:",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1]王吉潭,李德发,龚利敏,等.半乳甘露寡糖对肉鸡生产性能和免疫机能的影响[J].中国畜牧杂志,2003,39(2):5-7.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[2]陈海燕,张彬,何勇松.壳寡糖的研究进展和应用前景[J].中国畜牧兽医文摘,2007,32(6):17-20.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[3]祁东风,闫冰雪,李海静,等.壳寡糖的生理功能及其在畜禽生产中的应用[J].饲料研究,2016(8):18-21.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4]TOMIDA H,FUJII T,FURUTANI N,et al.Antioxidant properties of some different molecular weight chitosans[J].Carbohydrate Research,2009,344(13):1690-1696. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[5] YEN M T,YANG J H,MAU J L.Antioxidant properties of chitosan from crab shells[J].Carbohydrate Polymers,2008,74(4):840-844. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[6]ZHOU T X,CHEN Y J,YOO J S,et al.Effects of chitooligosaccharide supplementation on performance,bloodcharacteristics,relative organweight,and meatqualityin broiler chickens[J].Poultry Science,2009,88(3):593-600. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7]HUANG R L,DENG Z Y,YANG C B,et al.Dietary oligochitosan supplementation enhances immune status of broilers[J].Journal of the Science of Food and Agriculture,2OO7,87(1):153-159. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[8]闫冰雪.壳寡糖对肉仔鸡生产性能、屠宰性能、免疫指标及骨骼参数的影响[D].硕士学位论文.郑州:河南农业大学,2015.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[9]游金明,瞿明仁,王自蕊,等.壳寡糖与金霉素在肉仔鸡生长性能上的对比效应[J].江西农业",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "大学学报,2008,30(1):94-98.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[10]周赵英.大鲵蛙病毒生物学特性及其感染的病理学研究[D].硕士学位论文.雅安:四川农业大学,2013.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[11] 岳随娟,刘建,龚加顺.普洱茶茶褐素对大鼠肠道菌群的影响[J].茶叶科学,2016,36(3):261-267.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[12]李阳.壳寡糖和干酪乳杆菌对肉鸡肉品质和脂肪代谢的影响及其作用机理[D].硕士学位论文.北京:中国农业科学院,2016.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[13]宋涛.日粮中不同水平壳寡糖对北京鸭生长性能、脂肪沉积以及肉品质的影响[D].硕士学位论文.武汉：华中农业大学,2005.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[14]OTTOG,乔莉娟.猪肉滴水损失不同测定方法的比较以及与猪肉品质和胴体性状的关系[J].中国畜牧兽医,2004,31(11):43.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[15]马彦博,白东英,董淑丽,等.果寡糖对固始鸡生产性能、胴体组成和肉品质的影响[J].中国饲料,2006(20):16-18,21.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16]HALLIWELL B,WHITEMAN M.Measuring reactive species and oxidative damage in vivo and in cell culture:how should you do it and what do the results mean?[J].British Journal of Pharmacology,2004,142(2):231-255. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[17]黄凤华,郑新民,张元珍,等.诊断超声波照射对大鼠睾丸总抗氧化能力、丙二醛及脂质过氧化物酶水平和生殖细胞凋亡的影响[J].武汉大学学报:医学版,2007,28(1):85-88.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[18]寇庆,梁咪娟,陶亮亮.酵母硒对肉鸡组织硒含量及抗氧化能力的影响[J].粮食与饲料工业,2012,12(1):48-50.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[19]臧珉,陈斌.壳寡糖抑菌及抗氧化性的研究[J].中国野生植物资源,2016,35(6):27-30,38.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[20]李阳,常文环,张姝,等.饲粮添加壳寡糖和干酪乳杆菌对肉鸡生长性能、肌肉品质及抗氧化性能的影响[J].动物营养学报,2016,28(5):1450-1461.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[21]龙次民,吴信,范志勇,等.妊娠后期日粮中添加壳寡糖对母猪繁殖性能和母-仔猪抗氧化能力的影响[C]//中国畜牧兽医学会动物营养学分会第七届中国饲料营养学术研讨会论文集.郑州:中国畜牧兽医学会,2014.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[22]李晓晶.壳寡糖对肉仔鸡促生长、免疫调节和抗氧化作用的研究[D].硕士学位论文.北京:中国农业大学,2007.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[23]KIM K W,THOMAS R L.Antioxidative activity of chitosans with varying molecular weights[J].Food Chemistry,2007,101(1):308-313. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[24]FENG T,DU Y,LI J,et al.Antioxidant activity of half N-acetylated water-soluble chitosan in vitro[J].European Food Research and Technology,2007,225(1):133-138. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[25]TAO S,ZHOU D X,XIE JL,et al.Preparation of chitosan oligomers and their antioxidant activity[J].European Food Research and Technology,2007,225(3/4):451-456. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[26] CASPARY W F.Physiology and pathophysiology of intestinal absorption[J].American Journal of Clinical Nutrition,1992,55(1S):299S-308S. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[27]王子旭,佘锐萍,陈越,等.日粮锌硒水平对肉鸡小肠黏膜结构的影响[J].中国兽医科技.2003,33(7):18-21.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[28]赵乾宇.饲养密度对笼养蛋鸡小肠组织结构和盲肠细菌种群的影响[D].硕士学位论文.大庆：黑龙江八一农垦大学，2015",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[29]王秀武,杜昱光,白雪芳,等.壳寡糖对肉仔鸡肠道主要菌群、小肠微绒毛密度、免疫功能及生产性能的影响[J].动物营养学报,2003,15(4):32-35",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[30]田娟,孙立威,文华,等.壳寡糖对吉富罗非鱼幼鱼生长性能、前肠组织结构及肠道主要菌群的影响[J].中国水产科学,2013,20(3):561-568.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[31] STEINHOFF U.Who controls the crowd? New findings and old questions about the intestinal microflora[J].Immunology Letters,2005,99(1):12-16. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[32]杨汝德,李武明,许燕滨.动物和人类的肠道菌群的形成及其意义[J].微生物学杂志,1998(1):52-55.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[33] GOPHNA U,SOMMERFELD K,GOPHNA S,et al.Differences between tissue-associated intestinal microfloras of patients with crohn's disease and ulcerative colitis[J].Journal of Clinical Microbiology,2006,44(11):4136-4141. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[34]刘卫东,宋素芳,程璞.甘露寡糖和益生菌对肉仔鸡生产性能和肠道菌群的影响[J].家畜 生态学报,2011,32(1):32-35. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[35]袁缨,闫际平,陈立华,等.不同寡糖对肉仔鸡肠道主要菌群和免疫器官指数的影响[J].中国饲料,2007(15):15-17.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[36]张厂,胡先勤,郭福有,等.果寡糖对肉鸡生产性能、肠道菌群、消化酶活性及屠宰性能的影响[J].中国家禽,2007,29(15):14-16.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[37]连国琦,周笑犁,孔祥峰,等.壳寡糖对环江香猪生化参数及肠道菌群组成的影响[J].天然产物研究与开发,2012,24(11):1605-1609.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[38]徐贵珠.壳寡糖和茶多糖对中华绒螯蟹生长性能、免疫和抗氧化能力的影响[D].硕士学位论文.雅安：四川农业大学,2014.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[39]夏文水,吴焱楠.甲壳低聚糖功能性质[J].食品与生物技术学报,1996(4):297-302.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Chitosan Oligosaccharide on Meat Quality,Antioxidant Activity, Intestinal Mucosal StructureandIntestinalFlora ofBroilers ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "BAI Jie1.2LIU Guohua1.2\\*NIAN Fang3 ZHENG Aijuan²CAI Huiyi² CHANG Wenhuan² (1. College of Animal Science and Technology, Gansu Agricultural University, Lanzhou 730070, China; 2. Key Laboratory of Feed Biotechnology ofAgricultural Ministry,Feed Research ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Institute, Chinese Academy of Agricultural Science,Beijing 1Ooo81, China; 3.Gansu Agricultural University of Natural Sciences Introduction,Lanzhou 73oO7O, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effect of dietary chitosan oligosaccharide (COS) on meat quality, antioxidant activity, intestinal mucosal structure and intestinal flora of broilers. A total of 30O one-day-old healthy Arbor Acres (AA） male broilers were randomly allotted to 5 groups with 6 replicates per group and 10 birds per replicate. The blank control group was fed a basal diet without any antibiotic,the positive control group was fed the basal diet supplemented with $1 0 0 ~ \\mathrm { { m g / k g } }$ chlortetracycline,and the experimental groups were fed the basal diet supplemented with 50,100 and $1 5 0 ~ \\mathrm { m g / k g }$ COS, respectively. The experiment lasted for 42 days. The results showed as folows，compared with the blank control group: 1） dietary supplemented with 10O mg/kg COS significantly increased the redness $( \\mathrm { a } ^ { * } )$ value of breast muscle and thigh muscle( $\\scriptstyle P < 0 . 0 5 ,$ ）. 2) Dietary supplemented with 50 and 100 mg/kg COS significantly increased the serum total superoxide dismutase (T-SOD) activity during 1 to 21 days of age（ $P <$ 0.05）,dietary supplemented with $1 0 0 \\mathrm { m g / k g }$ of COS significantly increased the total antioxidant capacity (T-AOC), T-SOD activity and glutathione peroxides (GSH-Px) activity in serum during 22 to 42 days of age ( $\\scriptstyle P < 0 . 0 5 .$ , dietary supplemented with $5 0 \\mathrm { m g / k g } \\mathrm { C O S }$ significantly increased serum T-SOD and GSH- $\\mathbf { \\cdot P X }$ activities during 22 to 42 days of age( $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ）．3）Dietary supplemented with $1 0 0 ~ \\mathrm { \\ m g / k g }$ COS significantly increased the villous height and villous height/crypt depth of jejunum during 1 to 21 days of age and 22 to 42 days of age( $\\scriptstyle P < 0 . 0 5$ ）.4) Dietary supplemented with 5O and 100 mg/kg COS significantly decreased the ileal Escherichia coli number ( $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ). 5) Dietary supplemented with $1 0 0 \\mathrm { m g / k g }$ COS significantly increased the average daily gain of broilers( $P { < } 0 . 0 5$ ）. It can be concluded that dietary COS can increase antioxidant activity,improve meat quality and intestinal mucosal structure, and improve the intestinal flora structure to a certain extent of broilers.The optimum supplemental level of COS in diet for broilers is $1 0 0 \\mathrm { m g / k g }$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words: chitosan oligosaccharide; broilers;antioxidation; intestinal mucosal structure; intestinal flora ",
+        "page_idx": 19
+    }
+]

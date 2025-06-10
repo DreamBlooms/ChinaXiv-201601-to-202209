@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "Construction of a chimeric lysin Ply187N-V12C with extended lytic activity against staphylococci and streptococci ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qiuhua Dong,1,2 Jing Wang,² Hang Yang,² Cuihua Wei,² Junping Yu,² Yun Zhang,² Yanling Huang,² Xian-En Zhang3\\* and Hongping Wei2\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Department of Biomedical Engineering,Collegeof Life Science and Technology,Huazhong Universityof   \nScience and Technology，Wuhan 430074, China.   \n2Center for Emerging Infectious Diseases, Key   \nLaboratoryofSpecialPathogensandBiosafety，Wuhan Instituteof Virology,Chinese AcademyofSciences, Wuhan430071,China.   \n3National Laboratoryof Biomacromolecules, Institute of Biophysics,Chinese Academyof Science，Beijing   \n100101, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Developing chimeric lysins with awide lytic spectrum would be important for treating some infections caused by multiple pathogenic bacteria. In the present work,a novel chimeric lysin (Ply187N-V12C) was constructed by fusing the catalytic domain (Ply187N) of the bacteriophage lysin Ply187 with the cell binding domain (146-314aa，V12C)of the lysin PlyV12. The results showed that the chimeric lysin Ply187N-V12C had not only lytic activity similar to Ply187N against staphylococcal strains but also extended its lytic activity to streptococci and enterococci, such as Streptococcus dysgalactiae, Streptococcus agalactiae, Streptococcus pyogenes, Enterococcus faecium and Enterococcus faecalis, which Ply187N could not lyse.Our work demonstrated that generating novel chimeric lysins with an extended lytic spectrum was feasible through fusing a catalytic domain with a cell-binding domain from lysins with lytic spectraacross multiple genera. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is an ever-growing concern over the globe spread of antibiotic resistance among human and animal pathogens (Rice,2oo8).To combat the resistant bacteria, it is well recognized that novel antimicrobials are needed. Among new agents in development,phage lysins seem promising for Gram-positive bacteria because of their high in vitro and in vivo antimicrobial efficiency,low occurrence of resistance,and wide availability from bacteriophages (Nelson etal.,2012；Schmelcher etal.,2012a,b；Shen et al.，2012).In general，phage endolysins of Grampositive bacteria display a two-domain modular structure, which comprises an N-terminal catalytic domain (CD) and a C-terminal cell wall binding domain (CBD) (Nelson et al, 2012;Schmelcher et al.,2012a,b; Shen et al.,2012).Utilizing this property,chimeric lysins witha catalytic domain and a bacterial cell binding domain from different native lysins have been constructed to generate novel lysins to controlpathogenic bacteriainavarietyof environments (Manoharadaset al.， 20o9； Idelevich etal.， 2011; Pastagia etal.，2011；Schmelcher et al.，2012a,b；Mao et al., 2013; Yang et al., 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Most lysins reported so far have a narrow host range similar to that of their phages rendering them generally either species or genus specific.Such specificity can be influenced by its CBD,which is responsible for attaching the enzyme to its specific substrate in the bacterial cell wall via non-covalent binding of carbohydrate ligands (Loessner etal.,2oo2).Although the specificity is generally considered to be an advantage of a lysin since it would be utilized to kill only the pathogenic bacteria with little/no effects on the commensal flora,it may become a limitation for treatingmultiple infections.Therefore,there are needs to develop lysins with a wide,or purposely designed, lytic spectrum against a range of pathogenic bacteria. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Several native lysins have been identified with broad lytic activity more than one genus (Deutsch et al.,2004; Yoong et al.,2004; Son et al., 2012; Gilmer et al., 2013). One of them is lysin PlyV12，which can lyse not only Enterococcus but also several streptococcal and staphylococcal strains (Yoong etal.，2oo4).Recently，another lysin PlySs2 showed lytic activityagainst staphylococci, streptococci and Listeria (Gilmer etal., 2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "While it appears that a CBD is necessary for the lytic activity of some lysins,this is not always the case.A number of enzymes have shown increased lytic activity upon removal of the CBD.One of them is the CD (1-157aa,Ply187N) from the lysin Ply187,which showed much higher activity than the parent full-length Ply187 (Loessner et al.，1999).More interesting，when fusing Ply187N with a SH3b CBD (Mao et al.,2013) or a nonSH3b-like CBD of phiNM3 lysin (Yang et al.,2014), the chimeric lysins showed even higher lytic activity than Ply187N. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present work,a novel chimeric lysin (Ply187NV12C)was constructed by fusing Ply187N with the CBD (146-314aa,V12C)of PlyV12 to test if the lytic specificity of Ply187N would be extended to other genera by adding a CBD from a lysin with broad lytic activity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Constructionandexpression ofthe recombinantproteins ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using the standard genetic engineering methods,five recombinant proteins,i.e.Ply187N,PlyV12 and Ply187NV12C,EGFP-V12C and EGFP,were expressed as shown in Fig.1. It was found that all the proteins could be well expressedby Escherichia coli.After purificationand dialy sis,all the proteins displayed high purities $( > 9 0 \\% )$ in $12 \\%$ SDS-PAGE gel (Fig. 1B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PlyV12CBD canbind with enterococcal，streptococcal andstaphylococcalstrains ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although PlyV12 was first reported as earlyas 2004,its CBD has not been studied.Through blasting the protein sequences in National Center for Biotechnology Information，the C-terminal of PlyV12(146-314aa，V12C)was found homologous to the SH3-5 superfamily，which appears frequently in phage endolysins as CBD.As shown in Fig.2,after incubation with the recombinant protein EGFP-V12C,all the cells of the staphylococcal, streptococcal and enterococcal strainstested were stained with green fluorescence.Under the same exposure time,no fluorescence could be seen after incubating the cels of these strains with EGFP respectively (data not shown)．Furthermore， the cells of Listeria monocytogenes,BacilluscereusandE.colicouldnotbe stained by EGFP-V12C (data not shown).These results confirmed that the V12C fragment was the CBD of PlyV12,and the CBD of PlyV12 had a wide affinity to enterococci, streptococciand staphylococci, covering the host range of PlyV12 reported (Yoong etal.,2004). In the following experiments,only the staphylococcal,streptococcal and enterococcal strains in Table1were used to testthe lyticactivityof the three lysins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LyticactivityofPly187N-V12C,Ply187NandPlyV12 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The lytic spectra of the lysins were screened using the plate lysisassay.Because Ply187Nwas reported specific to Staphylococcusaureus, the lytic activityof the chimeric lysin Ply187N-V12C was tested first on a collection of 24 S.aureus strains including methicillin resistant S.aureus strains and three strains isolated from milk produced by cow with mastitis.As shown in Fig.S1 and Table 1, Ply187N-V12C maintained lytic activity against all the S.aureus strains tested, similar to that of Ply187N. The minimum inhibition concentration(MlC） assayalso showed that Ply187N-V12C had activity same to Ply187N with a MIC value of about $2 . 0 \\mu \\mathrm { M }$ against S.aureus N315. In contrast, the MIC of PlyV12 was about $1 . 0 \\mu \\mathrm { M }$ against S.aureus N315. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4ed659fd3ce04286ed00b613fa0c4283475852546a8a06d20e13bded5812301.jpg",
+        "img_caption": [
+            "Fig.1.Schmaticeprsetati(andpacryidgeectroosisasis(B)oftbntproteAllfotes containaC-ternalHs-tagdforfithromatogaypurificationeproteinsmigrateasexpectedfortheirprdictedolecular weights:Ply187N, $1 8 . 9 \\mathsf { k D a }$ ；PlyV12,35.2kDa;Ply187N-V12C, $3 7 . 2 \\mathsf { k D a }$ ；EGFP-V12C, $4 7 . 9 \\mathsf { k D a }$ and EGFP, $2 9 . 2 \\mathsf { k D a }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c4edcf4a882d811720610a2a9b91501912f6ee437b52fb6dd33d24fa294b50d.jpg",
+        "img_caption": [
+            "Fig.2.Fluorescence images of bacterial cells stained with EGFP-V12C.Bar size: $1 5 \\mu \\mathrm { m }$ . All panels are viewed through a $6 0 \\times$ magnification oil-immersion objective lens.The exposure time is set at $0 . 2 \\mathsf { s }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7618c886fb97053243a7470abf1450765a471b3545887df86f288644faef3d5d.jpg",
+        "img_caption": [
+            "Fig.2.Continued "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further tests were performed to study the lytic activity of the lysins on other bacteria from different genera listed in Table 1. It could be seen from Fig.3 that Ply187N showed lyticactivity just on the staphylococcal strains，while PlyV12 had activity on all the strains (faint zones on Enterococcusfaecium35667andEnterococcusfaecalis MMA1）except Staphylococcus albus 8799by the plate lysisassay. In contrast,Ply187N-V12C showed lytic activity on all the strains except on E.faecium 35667 and E.faecalis MMA1 by the plate lysis assay.However, the microplate assay didshow that Ply187N-V12C had lytic activity on the two enterococci strains，although less active than PlyV12 (Fig.4A and B),which was not consistent with the plate lysis assay.Further MlC tests showed that Ply187N-V12C could inhibit the growth of E.faecium 35667 and E.faecalis MMA1atabout $5 \\mu \\mu$ while PlyV12 at about $3 ~ \\mu \\mu$ ，which confirmed their lytic activity. However,no clear zones could be observed on the plates of Streptococcus suis W1 for all the three lysins at the highest amount of 5oo pmol (data not shown).The microplate assay also confirmed that these three lysins didn't exhibit lytic activity against S.suis W1 (Fig.4C).These results showed that the chimeric lysin Ply187N-V12C had an extended lytic activity not only on streptococci but also on some enterococcal strains compared with Ply187N，which could just workon staphylococci. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using the microplate assay and S.aureus N315 as the test strain， the activity of Ply187N-V12C was found optimumaround ${ \\mathsf { p H } } ~ 9 . 0$ ，which was higher than that of Ply187N $( { \\mathsf { p H } } \\ 6 . 0 { - } { \\mathsf { p H } } \\ 7 . 0 \\$ ）and similarto that of PlyV12 (Fig. 5A).As the concentration of sodium chloride (NaCl) in the lytic buffer increased，the activity of the lysins decreased gradually (Fig.5B).Among the three lysins Ply187N was found most sensitive to the ionic strength changes,while Ply187N-V12C was least sensitive to the ionic strength changes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Developing novel chimeric lysins with a wide lytic spectrum would be important for some diseases caused by multiple bacterial infections. It has been widely recognized that novel chimeric lysins could be generated by swapping CDs and CBDs from different native lysins due to the modular structure of lysins.Because most native lysinsare specific onlyto one certain genus,native lysins with lytic spectra across multiple genera would be unique sources for identifying CDs and CBDs suitable for generating novel chimeric lysins with a wide lytic spectrum. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d3b3e3aeeccd654414e5a855aaf8021ca95086ef2ba18ea9fdd5f5d8f7ececd.jpg",
+        "table_caption": [
+            "Table1.Bacteratrsdinsundteptibiteauredyelatelysissstoecobnatlysins and Ply187N-V12C. "
+        ],
+        "table_footnote": [
+            "a. Lab collection. b.CCTCC:China Center for Type Culture Collection. c.Strains isolated from milk produced by cow with mastitis. d.A clear zone could be observed after overnight incubation at the amount of 5 pmol $( + + + )$ ,50 pmol $( + + )$ ，or 500 pmol $\\left( + \\right)$ .-,no clear zone could be observed at the highest amount (5o0 pmol) tested. e.No clear zone was observed by the plate lysis assay,but lyticactivity was seenby the microplateassay (Fig.4). ATCC,American Typical Culture Center; MRSA,methicillin-resistant S.aureus. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td colspan=\"3\">Susceptibilityd to</td></tr><tr><td></td><td>Strains</td><td>Source</td><td>Ply187N</td><td>PlyV12</td><td>Ply187N-V12C</td></tr><tr><td>Staphylococcus</td><td>S.aureus N315 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM001 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM002 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM005 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM006 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>++</td></tr><tr><td></td><td>S.aureus AM008 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM010 (MRSA)</td><td>a</td><td>+</td><td>+++</td><td>+</td></tr><tr><td></td><td>S.aureus AM014 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM016 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM027 (MRSA)</td><td>a</td><td>+</td><td>++</td><td>++</td></tr><tr><td></td><td>S.aureus AM031 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>++</td></tr><tr><td></td><td>S.aureus AM032 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM037 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM038 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>++</td></tr><tr><td></td><td>S.aureus AM043 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>++</td></tr><tr><td></td><td>S.aureus AM045 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM046 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM048 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>++</td></tr><tr><td></td><td>S.aureus AM054 (MRSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM058 (MSSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AM061 (MSSA)</td><td>a</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus AB9118 (MSSA)</td><td>CCTCCb</td><td>+</td><td>+</td><td>+</td></tr><tr><td></td><td>S.aureus M1</td><td>C</td><td>+</td><td>++</td><td>+</td></tr><tr><td></td><td>S.aureus 391</td><td>C</td><td>+</td><td>++</td><td>+</td></tr><tr><td></td><td>S.aureus 2080</td><td>C</td><td>+</td><td>++</td><td>+</td></tr><tr><td></td><td>S. albus 8799</td><td>ATCC</td><td>+</td><td>1</td><td>+</td></tr><tr><td>Streptococcus</td><td>S.epidermidis XJ9</td><td>a</td><td>+</td><td>+</td><td>++</td></tr><tr><td></td><td>S.dysgalactiae35666</td><td>ATCC</td><td>1</td><td>++</td><td>++</td></tr><tr><td></td><td>S.agalactiae WJ</td><td>C</td><td>1</td><td>++</td><td>+</td></tr><tr><td></td><td>S. suis W1</td><td>a</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Enterococcus</td><td>S. pyogenes 12344</td><td>ATCC</td><td>1</td><td>+++</td><td>+</td></tr><tr><td></td><td>E.faecium 35667</td><td>ATCC</td><td>1</td><td>+/-e</td><td>_e</td></tr><tr><td></td><td>E.faecalis MMA1</td><td>a</td><td>1</td><td>+</td><td></td></tr><tr><td>Others</td><td>L.monocytogenes 19115</td><td>ATCC</td><td>1</td><td>1</td><td>1</td></tr><tr><td></td><td>B.cereus 33018R</td><td>ATCC</td><td>1</td><td>1</td><td>1</td></tr><tr><td></td><td>E. coli TG1</td><td>Invitrogen</td><td>1</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the current study，a novel chimeric lysin Ply187NV12C with an extended lytic spectrum was successfully generated by fusing the CD from a staphylococcal lysin Ply187 with the CBD from a lysin with lytic spectra across multiple genera (PlyV12).Compared with their parental lysins, the activity of Ply187N-V12C was about the same to Ply187N and PlyV12 against staphylococcus,and slightly inferior to PlyV12 against enterococcus. Since S.aureus,Staphylococcusdysgalatiaeand Streptococcus agalactiae are pathogenic bacteria normally found in cow mastitis (Barrett et al.，20o5;Cha et al., 2014)，this chimeric lysin might be useful for treating mastitis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because Ply187N itself showed no activity against nonstaphylococci,it is clear that the binding domain V12C played a critical role on the extended activity of Ply187NV12C against streptococci and enterococci.While in the previous two chimeric lysins consisting of Ply187N(Yang etal.,2014) (Mao etal.,2013),the lytic spectrawere all limited to staphylococcal strains since the CBDs used are specific to Staphylococci. On the other hand, the optimum pH shift and the change of tolerance to the ionic strength indicated that the CBD V12C did not simply provide a binding to the bacterial cell wall but also had subtle impacts on the catalytic activity of Ply187N. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a4e1456bfbbb2055db280980b5eea99f251692a36d5311792a25460639c3c5e.jpg",
+        "img_caption": [
+            "Fig.3.Inhibition zones formed on the platesafter spoting with the three lysinsat diffrent concentrations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The extended activity of Ply187N-V12C against staphylococci, streptococci and enterococci also implies that the peptidoglycan structures in these three genera might share some similarity，which could be cleaved by the CHAP domain,i.e.Ply187N.CHAP isa common domain found in phage endolysins identified，which can either have a D-alanyl-glycyl endopeptidase (cleaves the D-GluL-Lys bond)，or N-acetylmuramoyl-L-alanine amidase (cleaves the MurNAc-L-Ala bond) activity (Bateman and Rawlings,2oo3).Notably，both bonds are conserved in streptococcal and staphylococcal peptidoglycan，which would be the reason why Ply187N-V12C could act on streptococci and staphylococci.However，as one could see from Figs 3 and 4C,both PlyV12 and Ply187N-V12C could not lyse S.suis W1,which the CBD could bind to (Fig.2).These results indicated that S.suis W1 would share a common ligand for the CBD to recognize but might have some different peptidoglycan modifications which render Ply187N inactive.One thing worth to note is that no S.suis strains were tested in the previous study (Yoong et al.,20o4),which makes it hard to tell whether S.suis strains would have some common bonds which PlyV12 could cleave.Further studies are needed to find the peptidoglycan difference between S.suis and other streptococcus to elucidate why Ply187N-V12C could not lyse the S.suis strain.Since there are only limited bond typesinthepeptidoglycan ofbacterialcellwalls (Loessner,2005;Vollmer etal.,2008), itmight be possible to use a few CDs to combine with one CBD with a widebinding spectrum to generate chimeric lysins with predicted lytic spectra. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In conclusion，a novel chimeric lysin Ply187N-V12C withan extended lytic spectrum was successfully generated.Our work demonstrated that fusing a CD with a CBD froma lysin with a lytic spectrum across multiple genera was feasible for generating novel chimeric lysins with an extended lytic spectrum. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f88e711cf1f9437292fc3de1ee0e293faaa2d31244faa65df529c66dd9ccbbc.jpg",
+        "img_caption": [
+            "Fig.4.The lytic activityagainst E.faecium 35667 (A),E.faecalis MMA1(B) and $s .$ suis W1 (C) measured by the microplate assay.The cor centration of the lysins is $2 \\mu \\mu$ in 5mMTris-HCl $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 4 \\right)$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strainsandcultureconditions ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The bacterial strains used for this study are listed in Table 1. All the isolates were identified using an Omilog system (Biolog,USA).All the bacteria strains were culturedin Brain Heart Infusion (BHl, Becton Dickinson and Company, Sparks, MD,USA) at $3 7 ^ { \\circ } \\mathsf { C }$ .Escherichia coli BL21 (DE3) wasused for protein expression and grown in Luria-Bertani (LB)at $3 7 ^ { \\circ } \\mathsf { C }$ 元 Kanamycin $( 5 0 \\mu \\ g \\mathsf { m } \\mathsf { l } ^ { - 1 } )$ was used when necessary. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Expressionand purificationof recombinant proteins ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The DNA fragments encoding the lysin PlyV12 (Genbank accession No.AAT01859.1) and the N-terminal of endolysin ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/05a8429f5966cbf5de97c34811f85733a0a911bcc577bbd73648fe9ab5171976.jpg",
+        "img_caption": [
+            "Fig.4. Continued "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ply187 (Genbank accession No.CAA69022.1)were chemically synthesized by Songon Biotech (Shanghai, China).The gene fragment encoding the putative CBD (amino acid residues 146 to 314,V12C) was derived from the plyV12 gene bypolymerase chain reaction．Plasmids for expressing recombinant proteins Ply187N，PlyV12 and Ply187N-V12C were constructed by cloning the corresponding genes into the plasmid pET28a (Novagen,USA).Plasmids for expressingrecombinantproteinsenhanced green fluorescent protein (EGFP)and EGFP-V12C were purchased from Clontech Laboratories (Los Angeles,USA) or constructed by cloning the corresponding genes into the plasmid pET28a. The plasmids and primers used in this study are listed in Table S1.After confirmation by sequencing，the correct plasmids were transformed into E.coli BL21 (DE3)for expressionoftherecombinantproteinsrespectively. Deoxyribonucleic acid polymerase,restrictionand modificationenzymes were all purchased from New England Biolabs (Beijing，China) and used according to the manufacturer's instructions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For producing the recombinant proteins, the E.coli BL21 (DE3) bacteria were incubated at $3 7 ^ { \\circ } \\mathsf { C }$ to the mid-log phase first, then induced with $0 . 2 \\mathsf { m } \\mathsf { M }$ isopropyl $\\beta$ -D-thiogalactoside and finally incubated at $1 6 ^ { \\circ } \\mathsf { C }$ overnight to allow expression. After collecting by centrifugation at $6 0 0 0 \\ g$ for $1 5 \\mathrm { { m i n } }$ ，cells were lysed via sonication,and the His-tagged proteins were purified by HisTrap FF columns (GE Healthcare，USA) according to thesupplier's instructions．Briefly，columns were washed by $2 0 ~ \\mathsf { m M }$ imidazole after loading the proteins. Then， the target proteins were eluted with $2 5 0 ~ \\mathsf { m M }$ imidazole.Finally,collected fractionswere dialysed against 5 mM Tris-HCl $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 4 \\right)$ ，filter sterilized and stored at $4 ^ { \\circ } \\mathsf { C }$ until used. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cellwall bindingassayand fluorescencemicroscopyof CBDofPlyV12 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cell wall binding activity of EGFP-V12C was observed by fluorescence microscopy (Loessner etal.,2oo2).Briefly, bacteria were harvested with centrifugation ( $1 2 0 0 0 g .$ 5min), then washed and re-suspended with $1 \\times P B \\mathsf { S }$ (pH7.4) for two times and finally re-suspended in $1 \\times P B \\mathsf { S }$ to a concentration of about $1 \\times 1 0 ^ { 7 } \\mathsf { C F U m l } ^ { - 1 }$ .After mixing $2 0 0 \\mu \\mu \\up$ of the cell solution with $1 0 0 \\mu \\mathrm { l }$ of $2 \\mu \\mu$ EGFP-V12C in $1 \\times P B \\mathsf { S }$ buffer, the mixture was incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $3 0 ~ \\mathrm { m i n }$ .Asa control, the cells in another tubewere mixed with EGFP and incubatedat $3 7 ^ { \\circ } \\mathsf { C }$ for $3 0 ~ \\mathrm { m i n }$ .After the incubation,the cells were separated from the supernatants by centrifugation ( $1 2 0 0 0 g$ 5 min)，washed three times with PBST $( 1 \\times \\mathsf { P B S }$ with $0 . 5 \\%$ tween-2O) buffer and re-suspended in $1 \\times P B \\mathsf { S }$ before fluorescencemicroscopy. The fluorescence imageswere obtained using a Delta Vision Personal DV microscope (Applied Precision，USA)witha $6 0 \\times$ magnification oilimmersion objective lens.The exposure time used was set at $0 . 2 \\mathsf { s }$ when capturingall the fluorescence images.Individual images were obtained using suitable filter settings，and colour channels were processed using the image processing software installed with the microscope.In the experiments, EGFP was incubated with the cells of the individual strains, respectively,as the negative control. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Determining lytic activity of recombinant proteins ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The lytic spectra of Ply187N，PlyV12 and Ply187N-V12C were tested using the plate lysis assayas described previously (Mao etal.,2013).Briefly,bacteria strains were grown to mid-log phase and spread on BHl agar plates as a lawn justbefore the test respectively.Then, $1 0 \\mu \\up$ of the lysins with different concentrations (diluted in sterile $5 \\mathsf { m M }$ Tris-HCI buffer, ${ \\mathsf { p H } } 7 . 4 )$ was spotted onto the plates respectively.The spotted plateswereair-dried for1O min ina laminar flow hood and incubated overnight at $3 7 ^ { \\circ } \\mathsf { C }$ Lyticactivitywas indicated bya clear zone formed on each plate. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a83166d967e5ef950ae7795547d8ad048e3706fa52e63c190e21478fb4fe252.jpg",
+        "img_caption": [
+            "Fig.5.The relative activities of the three lysins in $2 0 ~ \\mathsf { m M }$ boric acid and $2 0 ~ \\mathsf { m M }$ phosphoric acid bufferat different pH (A)and in $5 \\mathsf { m M }$ TrisHCI buffer $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 4 \\right)$ with different ionic strength (B).The decrease in $O D _ { 6 0 0 }$ is monitored for $1 \\ h$ afteraddition of lysis buffer or lysins to a $2 ~ \\mu \\mu$ final concentration. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The lytic activities of the proteins were also measured quantitatively using the microplate assays as previously described (Nelson et al.，2oo1)，with some modifications. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Briefly, the enterococcal strains and S.suis W1 were grown to an optical density of O.2 to O.3 at $O D _ { 6 0 0 }$ ，centrifuged,and re-suspended in 5 mMTris-HCl $\\left( \\mathsf { p H 7 . 4 } \\right)$ toafinal $O D _ { 6 0 0 }$ of 1.0. Then, $1 0 0 \\mu \\mathrm { l }$ of the bacterial suspension were mixed with $1 0 0 \\mu \\mu \\up$ of the purified proteins in 96-well plates (Perkin-Elmer, Waltham,MA,USA) to a final concentration of $2 \\mu \\mu$ respectively.The drop of $O D _ { 6 0 0 }$ was monitored at 30s or 1 min intervals bya microplate reader(Synergy H1,BioTek,USA) for $6 0 ~ \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathsf { C }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of ionic strength and pH on the lytic activities were also measured with S.aureus N315 using the microplate assay described above.In the ionic strength assay,concentrated NaCl solutions were diluted using 5 mMTris-HCl buffer $\\left( \\mathsf { p } \\mathsf { H } \\ 7 . 4 \\right)$ to prepare solutions with different NaCl concentrations.A universal buffer described before (Schmitz et al., 2011)was prepared by mixing equal aliquot of $2 0 ~ \\mathsf { m M }$ boric acid and $2 0 ~ \\mathsf { m M }$ phosphoric acid, followed by titration with sodium hydroxide from ${ \\mathsf { p H } } 2$ to 12 for testing the pH effects on the lytic activities.After 60 min incubation,the lytic activity of the lysin under different conditions was calculated using the formula $( \\mathsf { O D 6 0 0 _ { 0 } } \\mathsf { - O D 6 0 0 _ { 6 0 } } ) / \\mathsf { O D 6 0 0 _ { 0 } }$ respectively. Finally, theactivityrelative to the highestactivity $( 1 0 0 \\% )$ was drawn versus different NaCl concentrations or pH values to find the optimum conditions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Minimal inhibitoryconcentration ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The minimum inhibitory concentrations of the three lysins against S.aureus N315 were measured in Mueller-Hinton culture as described before (Becker etal.,2oo9).Twofold serial dilutions of lysins from $5 \\mu \\mathsf { M }$ to $0 . 0 3 1 ~ \\mu \\mathrm { M }$ were mixed with bacteria suspensions (about $1 \\times 1 0 ^ { 5 } \\mathsf { C F U m l ^ { - 1 } }$ diluted fromovernight bacterial culture).Minimum inhibition concentration was defined as the lowest concentration of the lysins producing inhibition of visible growth. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Barrett,D.J.,Healy,A.M.,Leonard,F.C.,and Doherty，M.L (2005)Prevalence of pathogens causing subclinical mastitis in15 dairy herds in the Republic of Ireland.Ir VetJ58: 333-337.   \nBateman,A.,and Rawlings,N.D. (2003) The CHAP domain: alarge family of amidases including GSP amidase and peptidoglycan hydrolases.Trends Biochem Sci 28:234- 237.   \nBecker，S.C.，Dong，S.，Baker，J.R.，Foster-Frey，J., Pritchard，D.G.,and Donovan，D.M.(2009) LysK CHAP endopeptidase domain is required for lysis of live staphylococcalcells.FEMSMicrobiolLett294:52-60.   \nCha,E.,Kristensen,A.R., Hertl, J., Schukken,Y., Tauer,L., Welcome,F.,and Grohn,Y.(2014) Optimal insemination andreplacement decisions to minimize the cost of pathogen-specific clinical mastitis in dairy cows.JDairy Sci 97: 2101-2117.   \nDeutsch，S.-M.，Guezenec，S.，Piot，M.，Foster，S.，and Lortal, S.(20o4) Mur-LH, the broad-spectrum endolysin of Lactobacillus helveticus temperate bacteriophage $\\scriptstyle { \\mathfrak { p } } - 0 3 0 3$ Appl EnvironMicrobiol70:96-103.   \nGilmer,D.B.,Schmitz,J.E.,Euler,C.W.,and Fischetti,V.A. (2013) Novel bacteriophage lysin with broad lytic activity protectsagainstmixedinfectionbyStreptococcus pyogenesand methicilin-resistant Staphylococcusaureus. Antimicrob Agents Chemother 57:2743-2750.   \nIdelevich,E.A.,von Eiff,C.,Friedrich,A.W.,lannelli,D.,Xia, G.,Peters,G.,etal. (2011) In vitro activityagainst Staphylococcus aureus of a novel antimicrobial agent,PRF-119,a recombinant chimeric bacteriophage endolysin.Antimicrob Agents Chemother55:4416-4419.   \nLoessner，M.J.(20o5) Bacteriophage endolysins - current state of research and applications. Curr Opin Microbiol 8: 480-487.   \nLoessner，M.J.，Gaeng，S.，and Scherer，S.(1999) Evidence fora holin-like protein gene fullyembedded out of frame in the endolysin gene of Staphylococcus aureus bacteriophage 187. J Bacteriol 181: 4452- 4460.   \nLoessner, M.J., Kramer,K., Ebel,F.,and Scherer,S.(2002) C-terminal domains of Listeria monocytogenes bacteriophage murein hydrolases determine specific recognition and high-affinity binding to bacterial cell wall carbohydrates.Mol Microbiol 44: 335-349.   \nManoharadas, S.,Witte,A.,and Bläsi, U. (20o9) Antimicrobial activity of a chimeric enzybiotic towards Staphylococcus aureus. J Biotechnol 139: 118-123.   \nMao,J.,Schmelcher，M.,Harty，W.J.,Foster-Frey,J.,and Donovan，D.M.(2013) Chimeric Ply187 endolysin kils Staphylococcus aureus more effectively than the parental enzyme.FEMS Microbiol Lett 342:30-36.   \nNelson，D.，Loomis，L,and Fischeti, V.A.(2001) Preventionand elimination of upper respiratory colonization of mice by group A streptococci by using a bacteriophage lytic enzyme. Proc Natl Acad Sci USA 98: 4107- 4112.   \nNelson,D.C., Schmelcher,M., Rodriguez-Rubio,L., Klumpp, J.,Pritchard, D.G.，Dong, S.,and Donovan, D.M. (2012) Endolysins as antimicrobials.Adv Virus Res 83:299- 365.   \nPastagia,M.,Euler, C.,Chahales,P.， Fuentes-Duculan,J., Krueger,J.G.,and Fischetti,V.A. (2011)A novel chimeric lysin shows superiority to mupirocin for skin decolonization ofmethicilin-resistantand-sensitiveStaphylococcus aureus strains. Antimicrob Agents Chemother 55: 738- 744.   \nRice,L.B. (2oo8) Federal funding for the study of antimicrobial resistance in nosocomial pathogens: no ESKAPE. J Infect Dis 197: 1079-1081.   \nSchmelcher, M., Donovan,D.M.,and Loessner, M.J.(2012a) Bacteriophage endolysins as novel antimicrobials.Future Microbiol7:1147-1171.   \nSchmelcher, M.,Powell,A.M.,Becker, S.C., Camp,M.J.,and Donovan, D.M. (2012b) Chimeric phage lysins act synergistically with lysostaphin to kill mastitis-causing Staphylococcus aureus inmurine mammary glands.Appl Environ Microbiol 78:2297-2305.   \nSchmitz,J.E., Ossiprandi, M.C., Rumah, K.R.,and Fischetti, V.A.(2011) Lytic enzyme discovery through multigenomic sequenceanalysisinClostridium perfringens. Appl Microbiol Biotechnol 89: 1783-1795.   \nShen,Y.，Mitchell,M.S.,Donovan,D.M.，and Nelson,D.C. (2012) 15 Phage-based Enzybiotics，Bacteriophages in Health and Disease: Bacteriophages in Health and Disease:217-239.   \nSon,B.,Yun, J., Lim, J.-A., Shin,H., Heu, S.,and Ryu, S. (2012) Characterization of LysB4，an endolysin from the Bacillus cereus-infecting bacteriophage B4.BMC Microbiol 12: 33-41.   \nVollmer，W.，Blanot，D.，and De Pedro，M.A. (2008) Peptidoglycan structure and architecture.FEMS Microbiol Rev 32: 149-167. Yang,H.,Zhang,Y.,Yu, J., Huang,Y., Zhang,X.-E.,and Wei, H.(2014) Novel chimeric lysin with high-level antimicrobial activityagainstmethicillin-resistantStaphylococcusaureus in vitro and in vivo.Antimicrob Agents Chemother 58: 536-   \n542. Yoong,P.,Schuch,R.,Nelson,D.,and Fischetti,V.A. (2004) Identification of a broadlyactive phage lytic enzyme with lethal activity against antibiotic-resistant Enterococcus faecalisand Enterococcus faecium.JBacteriol186:4808-   \n4812. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article at the publisher's web-site: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.S1. Inhibition zone of S.aureus strains in the plate lysis assay.S.aureus M1，391and2080 are isolated from milk produced by cow with mastitis. Table S1.Plasmids and primers used in this study. ",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "type": "text",
+        "text": "薛飞,王宏建，易敏，等．新型微带反射阵单元的设计及其应用[J]．电波科学学报，2015,30（3)：571-575．doi：10.13443/j.cjors2014062701  \nXUEFei，WAoian，intal.siofelultisoacemostrieflearentnditsaeJournal of Radio Science,2015,30(3):571-575.(in Chinese)．doi:10.13443/j.cjors.2014062701",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新型微带反射阵单元的设计及其应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "薛飞1,2 王宏建易敏刘广1,2（1.中国科学院空间科学与应用研究中心微波遥感技术重点实验室，北京100190;2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要提出了一种单层的具有多谐振结构的微带反射阵单元，利用高频电磁仿真软件AnsoftHFSS对其反射相位特性进行仿真分析，获得了约 ${ 4 3 0 } ^ { \\circ }$ 的反射相位动态范围，并且反射相位曲线的线性度较好.根据此单元设计了一个工作在 $\\mathrm { K u }$ 波段的微带反射阵，用指数渐变槽线(Vivaldi)天线作为该反射阵的馈源.仿真结果表明：在中心频率处增益可达27.1dB,半功率波瓣宽度均为 $4 . 9 6 ^ { \\circ }$ ，在 $1 2 { \\sim } 1 5 . ~ 5 ~ \\mathrm { G H z }$ 的频带内增益波动约 $2 ~ \\mathrm { d B }$ ，具有较宽的频带.将此Vivaldi天线和反射阵天线进行加工测试，得到的测试结果与仿真结果吻合较好.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 微带反射阵；多谐振结构；Vivaldi天线；宽频带中图分类号 $\\mathrm { T N } 8 2 0 . 1 ^ { + } 5$ 文献标志码 A 文章编号 1005-0388(2015)03-0571-05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of a novel multi-resonance microstrip reflectarray element and its application ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XUE Fei1·2 WANG Hongjianl YI Min' LIU Guang1,2 (1.Key Laboratory of Microwave Remote Sensing，National Space Science Center. Chinese Academyof Sciences，Beijing lOol9o，China;2.Universityof Chinese AcademyofSciences，Beijinglooo49，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractA novel single layer microstrip reflectarray element with multi-resonance structure is proposed in this paper. HFSS soft ware is used to analyze the reflect phase for the designed element. About ${ 4 3 0 } ^ { \\circ }$ reflect phase range is obtained with the reflect phase curve nearly linear. A microstrip reflectarray composed of the proposed element is designed for $\\mathrm { K u }$ band and a Vivaldi antenna is used as the feed. The results indicate that the gain reaches 27.1 dB at the center frequency，and the half power beamwidth is $4 . 9 6 ^ { \\circ }$ . The gain changes less than $2 ~ \\mathrm { d B }$ in the range of $1 2 \\sim 1 5 . ~ 5 ~ \\mathrm { { G H z } }$ ，which shows that the reflectarray has wide band. The Vivaldi antenna and the reflectarray is manufactured and tested,and a well coincide is obtained between the simulation results and the test results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words microstrip reflectarray；multi-resonance structure；Vivaldi antenna；wide band ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微带反射阵列天线是一种结合了抛物面反射天线和微带阵列天线优势的天线阵，以重量轻、体积小、价格便宜、易于制造特别是易于和其他物体共形、易与微带电路集成等优点，自1978年提出后就受到了很高的重视并得到快速的发展.与一般抛物面反射天线类似，微带反射阵列天线不需要馈电网络，不存在寄生辐射和阻抗插入损耗，因此辐射效率较高.微带反射阵由馈源和一组具备移相功能的微带辐射单元组成，在馈源的照射下，每一个单元通过自身对入射波的移相功能，使反射波在特定方向上实现同相叠加，从而在该方向发出高增益波束",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的微带反射阵列天线的带宽通常都较窄，它的带宽受到很多因素的影响，比如馈源的带宽、阵元的带宽、不同位置单元的空间相位延迟以及单元间距等1，其中阵元带宽和不同位置单元的空间相位延迟这两个因素最为关键.理想的宽带反射阵单元的反射相位曲线在不同频率处应是相互平行的，并且与入射波的入射角无关，通过合理的选择单元的形式和结构可以得到较为理想的宽带反射阵单元.较大的焦径比可以减小空间相位延迟对带宽带来的影响，但是馈源的照射效率会受到影响，所以在设计反射阵天线时需要折衷考虑.分形天线结构的自相似性使得天线可以多频工作2，增加天线的工作带宽，它的自加载特性也使天线的带宽得到了展宽.将分形技术与微带天线的设计相结合，在移动通信和卫星通信及其他宽频带应用系统中具有很大的应用潜力.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vivaldi天线是由Gibson在1979年提出的一种天线形式3，该天线属于非频变天线，具有超宽的工作频带、良好的辐射定向性、输入阻抗稳定、结构简单、造价低廉、平面易集成等特点.Vivaldi天线由一端较窄的槽线过渡到另一端较宽的槽线构成，槽线过渡呈指数变化规律.由于其平面结构对于反射波的遮挡很小，因此采用该天线作为微带反射阵的馈源，可以很好地解决正馈时的馈源遮挡问题，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了将馈源辐射出来的波转变成一个聚焦波束，从每个反射单元反射出去的波必须有合适的相移.相移补偿有四种典型的方式：一是在微带贴片上加载不同长度的相位延迟线来实现不同的相移4.二是通过改变微带反射单元的尺寸大小来实现相位补偿，通过合理设计每个贴片的尺寸来调节反射波相位以补偿从馈源到每个贴片由于空间距离不同而造成的相位延迟[5].三是将相同的圆极化微带单元旋转不同的角度来实现不同的相移[6.四是通过在贴片或贴片下的地板上加载不同长度的缝隙来实现相位补偿.本文中采用改变反射单元尺寸大小的方法来实现相位补偿",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文章中提出的单层的具有分形结构的多谐振反射阵单元可以在获得线性度较好的反射相位曲线的同时能提供约为 ${ 4 3 0 } ^ { \\circ }$ 的反射相位范围.利用该单元设计了一个微带反射阵，使用Vivaldi天线对其进行馈电，仿真结果表明在中心频率处增益达到了27.1 dB，在 $1 2 { \\sim } 1 5 . ~ 5 ~ \\mathrm { G H z }$ 的频带内，增益波动约2dB.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1微带反射阵的基本原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了在指定方向上将球面波波前转换成平面波波前，阵列单元的反射相位曲线范围不得小于$3 6 0 ^ { \\circ }$ .传统的结构简单的单层单元很难在达到 $3 6 0 ^ { \\circ }$ 相移的同时具有线性度较好的反射相位曲线，尤其在谐振长度附近，反射相位曲线随尺寸变化的斜率较大，导致天线的带宽很窄，同时增加了加工难度.通常来说，可以通过增加介质厚度的方法来平滑反射相位曲线，但是这样会使得反射相位的范围减小从而达不到 $3 6 0 ^ { \\circ }$ 的要求.文献_8中采用多层贴片叠加的结构来获得平滑的并且相移范围大于 $3 6 0 ^ { \\circ }$ 的反射相位曲线，然而多层贴片叠加结构带来的问题是增加了设计复杂度和加工难度，同时加大了天线造价.单层多谐振单元结构9可以很好的满足反射相位曲线的范围要求和线性度要求.文献9采用圆环和圆的组合的方式获得了约为 $3 8 0 ^ { \\circ }$ 的移相范围.本文提出的分形结构就是一种采用多谐振特性的单元，在满足反射相位曲线线性度及范围要求的同时还能提供较宽的带宽.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示的坐标系，根据阵列天线理论，对于辐射方向为 $( \\theta _ { 0 } , \\phi _ { 0 } )$ 的反射阵表面相位分布为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( x _ { i } , y _ { i } ) = - k _ { 0 } \\sin \\theta _ { 0 } \\cos \\phi _ { 0 } x _ { i } -\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { 0 } } \\sin \\theta _ { \\mathrm { 0 } } \\sin \\phi _ { \\mathrm { 0 } } y _ { i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $k _ { \\mathrm { 0 } }$ 为真空中的传播常数； $( x _ { i } , y _ { i } )$ 是第 $i$ 个单元的中心坐标.同时，各阵元的反射相位等于其入射相位加上自身引入的补偿相位，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( x _ { i } , y _ { i } ) = - k _ { 0 } d _ { i } + \\phi _ { \\mathrm { R } } ( x _ { i } , y _ { i } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $d _ { i }$ 代表馈源相位中心到第 $i$ 个贴片单元的距离； $\\phi _ { \\mathrm { { R } } } \\left( x _ { i } , y _ { i } \\right)$ 为第 $i$ 个单元反射系数相位，也就是该单元所需的补偿相位.由式（1）和式（2）可得，各单元所需的移相值为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\phi _ { \\mathrm { R } } ( x _ { i } , y _ { i } ) = k _ { 0 } \\lbrack d _ { i } - ( x _ { i } \\cos \\phi _ { 0 } + } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } \\sin \\phi _ { \\mathrm { 0 } } ) \\sin \\theta _ { \\mathrm { 0 } } ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过式(3)可以计算出各个单元所需补偿的相位，然后根据单元的反射相位曲线得出每个单元的尺寸.",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb499165ad29be90594456313789613468ab1533e596dcd766e89d921b06fa6d.jpg",
+        "img_caption": [
+            "图1微带反射阵列天线原理图[] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2新型分形单元的设计及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文设计的具有宽频带的反射阵单元采用单层多谐振结构，单元结构如图2所示.该单元结构简单，易于工程实现.为了得到较大的相移范围和线性度较好的反射相移曲线，在介质材料和接地板之间增加一层空气层（实际加工测量中采用介电常数接近空气的泡沫材料）.",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/021fdc01322e41a516ca22a5337d4c8a27afc7ea992c4d4f13a7e8ee8f7f6cad.jpg",
+        "img_caption": [
+            "图2单元结构示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该单元具有分形结构，最外边六边形边长为 $\\mathbf { \\alpha } _ { a }$ .介质的介电常数 $\\varepsilon _ { \\mathrm { r } } = 2 , 2$ ，厚度为 $h _ { 1 }$ ，空气层厚度为$h _ { 2 }$ ，介电常数约为1.06.采用文献10」中提出的WGA对单元的反射相位进行分析，得到单元的反射相位曲线.单元工作在 $\\mathrm { K u }$ 波段，栅格周期 $L$ 取为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 3 ~ \\mathrm { m m }$ ，文中采用HFSS对单元的反射相位特性进行仿真分析.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $a$ 从 $1 . 5 ~ \\mathrm { m m }$ 增加到 $6 ~ \\mathrm { m m }$ ,分析不同的 $\\left| h _ { 1 } \\right|$ 和 $h _ { 2 }$ 的值对反射相位的影响.由图3可以看出，当$h _ { 1 } = 0 . \\ 5 \\ \\mathrm { {  m m } }$ 和 $h _ { 1 } = 0 . \\ 7 \\ \\mathrm { m m }$ 时，反射相位曲线的线性度均较好且相位变化范围较大，文章选择 $h _ { 1 } =$ $0 . ~ 5 ~ \\mathrm { m m }$ .图4表明了不同空气层厚度 $h _ { 2 }$ 对单元反射相位曲线的影响，从图中可以看出 $h _ { 2 }$ 对单元反射相位曲线有较大的影响.当 $h _ { 2 } = 0 ~ \\mathrm { m m }$ 时，反射相位几乎没有变化，当 $h _ { \\mathrm { 2 } } = 3 \\ \\mathrm { m m }$ 时反射相位曲线的相位变化范围较大，且线性度最好，故本文选择 $h _ { 2 } = 3$ mm.",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/53b61a2cd87461fc0382e77c5b0706633f9aa3bdbeb3ba928138ec916ded942a.jpg",
+        "img_caption": [
+            "图3介质层厚度对反射相位的影响（ $\\mathbf { \\lambda } _ { h _ { 2 } } = 3 \\mathrm { \\ m m } _ { \\mathrm { \\ell } } ^ { \\mathrm { \\prime } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8453e376df77b912833ba0adbb33fca43450a2b8ad1f5d96fed9d098f101348.jpg",
+        "img_caption": [
+            "图4空气层厚度对反射相位的影响( $\\mathbf { \\dot { \\zeta } } h _ { 1 } = 0 . \\ 5 \\ \\mathbf { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，当 $h _ { 1 } = 0 . \\ 5 \\ \\mathrm { \\ m m } , h _ { 2 } = 3 \\ \\mathrm { \\ m m } .$ 从曲线可以看出，随着单元尺寸 $\\mathbf { \\alpha } _ { a }$ 从 $1 . 5 ~ \\mathrm { m m }$ 到 $6 ~ \\mathrm { m m }$ 变化时，相移范围约为 ${ 4 3 0 } ^ { \\circ }$ ，满足了微带反射阵单元的相移范围不小于 $3 6 0 ^ { \\circ }$ 的要求.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对六边形单元、六边形环单元以及本文提出的具有多谐振结构的单元在中心频率处的反射相位进行了比较，如图5所示.由图中曲线可以看出，本文所设计的结构单元的反射相位变化范围较大并且线性度也较好，",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/104cb31c675ab2449f2238ed568155cb64758e2f356735b429ff98318acc7a3a.jpg",
+        "img_caption": [
+            "图5不同单元结构的反射相位曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3微带反射阵的设计及结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用上文中提出的新型单元，设计了一个工作在 $\\mathrm { K u }$ 波段的微带反射阵列天线来验证文章该单元的有效性，该阵列结构如图6所示.阵列直径 $D =$ $3 2 5 ~ \\mathrm { m m }$ ，介质层厚度 $h _ { 1 } = 0 . \\ 5 \\ \\mathrm { {  m m } , \\varepsilon _ { \\mathrm { { r } } } = 2 . \\ 2 }$ ，泡沫层厚度 $h _ { 2 } = 3 ~ \\mathrm { m m }$ ，介电常数约为 $1 . \\ 0 6 , L = 1 3 \\ \\mathrm { m m }$ ，馈源的相位中心与阵列中心的距离 $F { = } 2 6 0 \\ \\mathrm { m m }$ ，焦径比 $F / D { = } 0 . \\ 8$ ，由于Vivaldi天线的平面结构对反射波的遮挡很小，故本文采用Vivaldi天线作为馈源.该Vivaldi天线的加工样机及实测方向图如图7和图8所示.",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/37e1b2a686ed721cab2087dd6b7b8ff4cab2bce8012ebad287d2adc0c6197514.jpg",
+        "img_caption": [
+            "图6微带反射阵列天线模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计的平面微带反射阵（Vivaldi天线作为其馈源)的仿真方向图如图9所示，可以看到在 $\\mathrm { K u }$ 波段的中心频率处增益可以达到27.1dB，半功率波瓣宽度均为 $4 . 9 6 ^ { \\circ }$ .对于E面 $( y o z$ 面)方向图，副瓣可以达到一 $1 6 ~ \\mathrm { d B }$ ，对于H面（ $\\stackrel { \\cdot } { x } o z$ 面），副瓣约为—20dB.不同频率处的仿真增益方向图如图10所示.可以看到在 $1 2 \\mathrm { \\sim } 1 5 . ~ 5 ~ \\mathrm { G H z }$ 的频带范围内增益波动约$2 ~ \\mathrm { d B }$ ，具有较宽的频带.",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/25bff997365ebfb536d7c03f24a5111844b7438a56d5489f3eda7f6850e58f05.jpg",
+        "img_caption": [
+            "图7 Vivaldi天线的加工样机"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fa4d0bb142b2badda65b9ba2994f584ea8f212fcbb9b33ff18a6c989022ed10.jpg",
+        "img_caption": [
+            "图8Vivaldi天线在中心频率处的实测方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8a531e9de1de224e3e6e3e2efa30ccf97f4cf104c90f8332f88f60c9f6a58b3.jpg",
+        "img_caption": [
+            "图9反射阵在中心频率处仿真的增益方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/754d0c6ead99e7b8a1b6d35956db9fc31542f9e19c96f9cf55fbad61b87f0bde.jpg",
+        "img_caption": [
+            "图10反射阵在不同频率处的仿真增益"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证上述单元及阵列设计的工程可用性，对微带反射阵列天线进行加工，图11给出了该微带反射阵在中心频率处实测的E面和H面方向图.从图中可以看出在该频率处实测方向性系数为27.1dB.E面方向图的半功率波瓣宽度为 $5 . ~ 3 ^ { \\circ } , \\mathrm { H }$ 面为$4 . 9 ^ { \\circ }$ ，与仿真结果的差别主要是由于加工误差和测试误差造成的.此外，较为简易的工装也会使得测试结果变差.但是总体说来与仿真结果吻合较好.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a3a7d8684bbcdadbd5a62813f2d59c3c7b01a97e83085d23e4b767ebda70fc.jpg",
+        "img_caption": [
+            "图11微带反射阵的实测方向图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提出了一种新型的多谐振单元作为平面微带反射阵的阵元，该单元具有宽频带特性，并且为单层结构，结构简单，易于实现.采用该单元设计了一个微带反射阵列天线，使用Vivaldi天线对其进行馈电，仿真结果表明，该反射阵具有较宽的带宽.将该微带反射阵进行加工并在微波暗室中进行测试，测试结果与仿真结果吻合较好.由该单元组成的微带反射阵具有高增益、宽频带、低副瓣的特性，具有较高的工程应用价值.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] POZARD，TARGONSKISD，SYRIGOSHD.De-sign of millimeter wave microstrip reflectarrays[J].IEEE Trans Antennas Propagat，1997，45(2)：287-296.  \n[2] HARAPRASADRV，PURUSHOTTAMY，MIS-RAV C，et al.Microstrip fractal patch antenna formultiband communication [J]. Electronics Letters,2000，36(14)：1179-1180.  \n[3]徐志，刘其中，章传芳，等．改进型vivaldi天线[J]．电波科学学报，2008，23(3)：471-475.XU Zhi，LIU Qizhong，ZHANG Chuanfang，et al.Modified vivaldi antenna [J].Chinese Journal of Ra-dio Science，2008，23(3)：471-475.(in Chinese)  \n[4]JAVOR R D,WU XD,CHANG K. Design and per-formance of a microstrip reflectarray antenna [J].IEEE Trans. Antennas Propagat，1995，43(9）： 932-939.  \n[5]POZAR D M，TARGONSKI S D，POKULS R. Ashaped-beam microstrip patch reflectarray[J]. IEEETrans Antennas Propagat，1999，47(7) :1167-1173.  \n[6]HUANG J,POGORZELSKIR. A Ka-band microstripreflectarray with elements having variable rotation angles[J]． IEEE Trans Antennas Propagat，1998，46(5):650-656.  \n[7］CARRASCO E，BARBA M，ENCINAR JA. Re-flectarray element based on aperture-coupled patcheswith slots and lines of variable length[J].IEEE TransAntennas Propagat,2007，55(3):820-825.  \n[8]ENCINAR J A. Design of two-layer printed reflectar-ray using patches of variable size[J]. IEEE Trans An-tennas Propagat，2001，49(10)：1403-1410.  \n[9] 郑文泉，万国宾，马鑫，等．一种新型单层微带反射阵天线单元的分析[J]．电波科学学报，2013，28(5)：915-919.ZHENG Wenquan，WANGuobin，MA Xin，et al.Anovel single-layer microstrip reflectarray element[J].Chinese Journal of Radio Science，2013，28(5）：915-919.(in Chinese)  \n[10]TSAI F C E，BIALKOWSKI M E. An equivalentwaveguide approach to designing of reflectarrays usingvariable-size microstrip patches [J]. Microw OptTechnol Lett，2002，34(3)：172-175.  \n[11］周丹晨．微带反射阵列天线研究[D]．南京：南京航空航天大学，2011.ZHOU Danchen. Research on Microstrip ReflectarrayAntennas[D]. Nanjing：Nanjing University of Aero-nautics and Astronautics，2oll.(in Chinese)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者简介",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "薛飞（1989一），男，陕西人，中国科学院大学电磁场与微波技术博士生，主要从事星载天线的研究与设计.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "王宏建（1969一），男，河南人，中国科学院空间科学与应用研究中心研究员，主要研究方向为电磁场与微波技术.",
+        "page_idx": 4
+    }
+]

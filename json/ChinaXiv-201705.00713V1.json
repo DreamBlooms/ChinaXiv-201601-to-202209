@@ -1,0 +1,342 @@
+[
+    {
+        "type": "text",
+        "text": "Spike Protein, S,of Human Coronavirus HKU1: Role in Viral Life Cycle and Application in Antibody Detection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHE-MAN CHAN,\\* PATRICK C. Y. WOO,\\*,t,t SUSANNA K. P. LAU,\\*,t,‡ HERMAN TSE,\\*,t,t HONG-LIN CHEN,\\* FENG L1,S BO-JIAN ZHENG,\\*,†,† LING CHEN,S JIAN-DONG HUANG,l AND KWOK-YUNG YUEN\\*,t,†1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Department of Microbiology, The University of Hong Kong, Hong Kong Special Administration   \nRegion,Hong Kong; tState Key Laboratory of Emerging Infectious Diseases,The University of Hong Kong,Hong Kong Special Administration Region, Hong Kong; tResearch Centre of Infection and   \nImmunology,The University of Hong Kong, Hong Kong Special Administration Region, Hong Kong;   \n\\$Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou 501663, China; and //Department of Biochemistry, The University of Hong Kong, Hong Kong Special Administration Region, Hong Kong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We recently described the discovery, genome,clinical features, genotypes and evolution of a novel and global human respiratory virus named human coronavirus HKU1 (HCoVHKU1)which is not yet culturable.We expressed a C-terminal FLAG-tagged CoV-HKU1 spike (S) protein by the Semliki Forest Virus (SFV) system and investigated its maturation profile. Pulse chase labeling revealed that S-FLAG was expressed as highmannose N-glycans of monomers and trimers.It was predominantly cleaved into subdomains S1 and S2 during maturation. S1 was secreted into the medium. Immunofluorescence analysis visualized S along the secretory pathway from endoplasmic reticulum to plasma membrane.Cleavage of S and release of HCoV-HKU1 S pseudotyped virus were inhibited by furin or furin-like enzyme inhibitors.The cell-based expressed fulllength S-FLAG could be recognized by the convalescent serum obtained froma patientwith HCoV-HKU1 pneumonia.The data suggest that the native form of HCoV-HKU1 spike expressed in our system can be used in developing serological diagnostic assayand in understanding the role of S in the viral life cycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:coronavirus HKU1; spike;maturation; glycoprotein; Nglycosylation; furin inhibitor; surface expression; native conformation; life cycle; seroepidemiology;virus maturation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Coronaviruses are enveloped viruses with non-segmented, positive-sense,single-stranded RNA genomes and are divided into 3 distinct groups.Three new types of human coronaviruses(HCoV)have been discovered since the beginning of the millennium.In 2Oo3,the severe acute respiratorysyndrome(SARS) coronavirus(SARS-CoV) was identified and assigned as a split-off from group II CoV (1,2).In 20O4,a group I coronavirus,HCoV-NL63,was discovered ina child with bronchiolitis in the Netherlands (3,4).In 2OO5,another new virus was discovered in an adult patient with acute community acquired pneumonia in Hong Kong.Thisvirus was detected by RT-PCR with conserved primer targeted against the pol gene of coronaviruses from the nasopharyngeal aspirate of this patient.Genomic analysis showed that this novel virus is a group II coronavirus,and the virus was named HCoV-HKU1 (5). Since then,HCoV-HKU1 has been found in many parts of the world and also in other clinical samples in addition to nasopharyngeal specimens(6).Overall these studies suggested that HCoV-HKU1 accounts for a significant proportion of coronavirus infections in hospitalized patients presenting with acute respiratory syndromes (7-10). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genomic analysis of over 22 strains revealed that HCoV-HKU1 exhibits a characteristic coronavirus group II genomic organization with the following gene order: $5 ^ { \\prime }$ 1 replicase, S,E,M, $\\mathbf { N } { - } 3 ^ { \\prime }$ ,short untranslated regions in both $5 ^ { \\prime }$ and $3 ^ { \\prime }$ ends, $5 ^ { \\prime }$ conserved coronavirus core leader sequence,putative transcription regulatory sequences (TRS) upstream of multiple ORFs,possession of hemagglutinin esterase gene (HE) and a conserved pseudoknot in the $3 ^ { \\prime }$ untranslated region.In addition， there are at least 3 genotypes with recombination between the different genotypes (11,12).Multiple-alignment comparison with other group I coronavirus spike proteins demonstrated that the HCoV-HKU1 spike displays strong similarities to a class I virus fusion protein with a potential cleavage site between residues 760 and 761，which may be processed by a membrane bound,calcium-dependent resident Golgi protease such as furin.Unlike the case of SARS-CoV spike (5, 13),the cleavage of S into S1 and S2 fragments by furin might be required forinfection．Generally，coronavirus infection is mediated solely by S,of whichthe subdomains (S1,S2） rearrange during docking with the receptor（14- 16).Despite the high degrees of homology $60 \\%$ to $61 \\%$ amino acid identities) of HCoV-HKU1 S protein with other group II CoV S proteins,HCoV-HKU1 virus has not yet been successfully passaged in cell lines.The tissue tropism, receptor usage during viral entry and its viral life cycle remain poorly understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we expressed the HCoV-HKU1 S in the Semliki Forest Virus (SFV） system (17). The glycosylation status and intracellular distribution ofHCoV-HKU1 S were examined. We demonstrated that HKU1 S is a highmannose N-linked glycoprotein with an estimated molecular weight of ${ \\sim } 1 8 0 \\mathrm { k D a }$ .HCoV-HKU1 S interacted with furinlike enzyme(s) in the Golgi complex during trafficking and was expressed on the cell surface with S1 secreted into the external medium.Inhibition of the cleavage process decreased the release of the pseudotyped virus.Our findings may help to assess the role of S implicated in cell entry or release,and the establishment ofa diagnostic tool for further study of HCoV-HKU1 infection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsand Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmid Construction. Human codon optimized cDNA encoding HCoV-HKU1 S was synthesized by multi-step PCR using overlapping oligonucleotides. This humanized S served as a template for subsequent S fragment amplification.It was then subcloned,with the C-terminal fused in-frame with FLAG sequence,into the BamHI site of pSFV1 vector (kindly provided by Dr. P.Liljestrom), resulting in the pSFV-S-FLAG.BHK-21 cells were transfected with in vitro transcribed capped S-RNA using SpeI linearized pSFV-S-FLAG template (Roche Applied Science, Indianapolis，IN).For production of SFV-carryingS particles,BHK-21 cells were co-transfected with equal amounts of in vitro transcribed capped pSFV1-S-FLAG, pSFV-Helper-S2 and pSFV-C-S219A RNAs(18).After 24 hours,recombinant SFV particles were centrifuged at 50,400 $\\times g$ for4 hours (Beckman rotor JA-21,Fullerton, CA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The synthetic spike gene was also used as a PCR template using a forward primer containing the N-terminal signal sequence with the BamHI site and the Kozak sequence $5 ^ { \\prime }$ -CGCGGATCCCACCATGCTGCTGATCATCTTCATCCTG and a reverse-primer containing Cterminal cytoplasmic domain with EcoRI $5 ^ { \\prime }$ CGGAATTCCTAGTCATCATGGGAGGTCTTGAT t0 generate the full length spike in pcDNA $3 . 1 ( + )$ , pcDNA-S. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell Culture. Transfected BHK-21 cells were grown either at $3 7 ^ { \\circ } \\mathrm { C }$ (for spike protein expression), or $3 3 ^ { \\circ } \\mathrm { C }$ (forin vivo particles packaging), and $5 \\%$ CO2in GMEM medium supplemented with $5 \\%$ fetal calf serum (FCS) (Invitrogen, Carlsbad, CA) $10 \\%$ tryptose-phosphate broth (Sigma, St. Louis,MO).293FT(Invitrogen,Carlsbad,CA) was cultured in DMEM containing $10 \\%$ FCS, $2 0 ~ \\mathrm { m M }$ HEPES. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spike-FLAG Protein Expression.BHK-21 cells were either transfected with in vitro transcribed capped SRNA using a SpeI linearized pSFV-S-FLAG template (Roche Applied Science，Indianapolis,IN） (Liljestrom et al.,1991) or S-carrying pSFV particles.Protein expression from BHK-21 cells was studied at different time periods post-transfection or infection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mouse Immunization with Recombinant Spike DNA，RNA and Protein. Three 6-8 week-old $\\mathrm { B a l b / c }$ mice were primed by intramuscular injection (i.m.) with 100 μg pcDNA-S plasmid DNA on day O followed by intraperitoneal immunization (i.p.）with $2 5 ~ { \\mu \\mathrm { g } }$ of purified spike-FLAG protein in complete Freund's adjuvant (Sigma, St.Louis,MO) on day 14.A booster dose of $1 0 ~ { \\mu \\mathrm { g } }$ of spikeFLAG protein in incomplete Freund's adjuvant (Sigma, St. Louis，MO）wasgiven on day 30. Fifty $\\mu \\mathrm { g }$ in vitro transcribed capped S-FLAG RNA was co-administered during the three courses of immunization to enhance antibody response.Blood was collected on day 56. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pulse-Chase Assay and Immunoprecipitation.At 12 hours post-transfection, $1 \\times 1 0 ^ { 6 }$ BHK-21 cells were starved at $3 7 ^ { \\circ } \\mathrm { C }$ for 3O minutes in methionine- and cysteine-free DMEM (Invitrogen, Carlsbad,CA) and pulselabeled with $1 5 0 ~ \\mathrm { \\textmu C i ~ } [ ^ { 3 5 } \\mathrm { S } ]$ labelled cysteine/methionine per ml(Promix,GEHealthcare）at $3 7 ^ { \\circ } \\mathrm { C }$ for 10 minutes.Cells were then washed with complete GMEM and replaced by incubation with complete GMEM containing $2 \\%$ FCS at $3 7 ^ { \\circ } \\mathrm { C }$ from 3O minutes to 12 hours chase times. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reactions were stopped by rinsing cells with chilled PBS. Cells were lysed and vortexed in $1 \\times$ lysis buffer ( $1 \\%$ NP-40, $5 0 ~ \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } ~ 7 . 5$ ，150 mM NaCl, $2 ~ \\mathrm { m M }$ EDTA） containing $1 \\times$ protease inhibitors cocktail (Roche Applied Science,Indianapolis,IN) and incubated in ice for 5-10 minutes.Nuclei and cellular debris were pelleted at $1 6 { , } 0 0 0 \\times g$ for 2O minutes.Cleared cell lysate and culture medium was incubated overnight with mouse anti-S immune serum (dilution 1:25） and then with protein Gsepharose(GE Healthcare) for 2 hours at $4 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Immunoprecipitated proteins were mixed with sample loading buffer containing no DTT and separated by Tris acetate $3- 8 \\%$ SDS-PAGE gel (Invitrogen, Carlsbad, CA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Images were developed on X-ray Hyperfilm using ECL chemiluminescence substrate (GE Healthcare). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Endoglycosidase H (Endo H) Deglysosylation.Immunoprecipitated protein lysate was mixed in $1 \\times$ glycoprotein denaturing buffer containing $0 . 5 \\%$ SDS and 40 mMDTT(New England Biolabs,Ipswich,MA) and boiled at $1 0 0 ^ { \\circ } \\mathrm { C }$ for 1O minutes.After denaturation,samples were diluted with reactionbufferand incubated with ${ 5 0 0 } \\mathrm { U }$ Endo H(New England Biolabs,Ipswich,MA) for2 hours at $3 7 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Samples were subjected to denaturation prior to Endo H-deglycosylation as described by the supplier (New England BioLabs，Ipswich,MA)．Reaction was stopped with a sample loading buffer containing $4 0 ~ \\mathrm { m M }$ DTT and analysed by SDS-PAGE and X-ray autoradiographyas described above. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Spike Protein Cleavage Inhibition. S-transfected BHK-21 cells were treated with furin inhibitor peptidyl chloromethylketone(dec-RVKR-cmk；Calbiochem，San Diego,CA),labelled,chased for1 hour and processed for immunoprecipitation and SDS-PAGE as described above. Furin in different concentrations $( 2 5 \\mathrm { - } 1 0 0 ~ \\mu \\mathrm { M } )$ was tested and maintained at the same required concentration in all steps.Non dec-RVKR-cmk treated cells were added with DMSO to a final concentration of $0 . 5 \\%$ as control. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence and SubcellularLocalization Analysis. Subconfluent BHK-21 cells were grown on coverslips and infected with SFV particles carrying SFLAG at a multiplicity of infection $( \\mathbf { M O I } ) = 2$ . Cellswere fixed 7 to 2O hours post-infection in PBS containing $4 \\%$ paraformaldehyde for 15 minutes and quenched in $1 \\times \\mathrm { P B S }$ containing $5 0 ~ \\mathrm { \\ m M }$ of $\\mathrm { \\Delta N H _ { 4 } C l }$ for 1O minutes at room temperature.Cells were eitherpermeabilized in PBS $0 . 1 \\%$ Triton X-1OO for 5 minutes for intracellular staining or unpermeabilized for surface staining and blocked for1 hour at room temperature in PBS containing $10 \\%$ goat serum. Cells were incubated for 1 hour with primary antibodies in PBS $5 \\%$ goat serum,washed and stained with fluorescent dye-conjugated secondary antibodies for 3O minutes. Coverslips were then washed and mounted on slides using ProLong Gold antifade reagent (Molecular Probe,Invitrogen, Carlsbad, CA) prior to image capture by laser scanning confocal microscopy with sequential line scanning with 488, 568 and $6 3 8 ~ \\mathrm { n m }$ lasers to separate fluorescence of dyes and serial sections obtained at $0 . 5 ~ \\mu \\mathrm { M }$ increments (BIORAD Radiance 210o,Hercules, CA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Antibodies and serum used in $\\mathrm { I F }$ analysis include mouse anti-HCoV-HKU1-S immune serum (dilution 1:50); goat anti-mouse IgG $( \\mathrm { H } { + } \\mathrm { L } )$ fluorescein isothiocyanate conjugate (dilution 1:1OO）(Invitrogen，Carlsbad,CA); rabbit polyclonal against pan cadherin and calreticulin (dilution 1:50 and 1:10O,respectively）(Abcam)；rabbit polyclonal against giantin (dilution 1:75O）(Covance, Denver，PA)； goat anti-rabbit IgG (H+L） Texas Red conjugate (dilution 1:50) (Abcam, Cambridge, UK). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FACS Analysis (Flow Cytometry). Infected (MOI $= 5$ )anduninfected BHK-21cells were detached with $5 \\mathrm { m M }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EDTA 24 hours post-infection.After washing with PBS, cells were fixed with $4 \\%$ ofPFAfor5 minutes at $4 ^ { \\circ } \\mathrm { C }$ After fixation, cells $( 3 . 0 \\times 1 0 ^ { 5 }$ cells per reaction）were either permeabilized or unpermeabilized and stained with serum and conjugate.Surface or intracellular expressionofHCoVHKU1 S was quantified using a flow cytometer (FACSCa libur)and CellQuest software (both from Becton Dickinson, San Diego, CA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Antibodies and serum used in FACS analysis include anti-HCoV-HKU1-S mouse immune serum (dilution 1:100)；serum sample from recovered patient with HCoVHKU1 infection (dilution 1:5O); goat anti-human IgG (H+L) FITC conjugate (dilution 1:2OO) (Invitrogen, Carlsbad, CA); and FITC-coupled M2 monoclonal antibodies anti-FLAG (dilution 1: 10O) (Sigma, St.Louis,MO). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Production of HCoV-HKU1 Pseudotyped Virus With or Without Furin Inhibitor.Lentivirus-based HCoV-HKU1 S-pseudotypes were generated by co-transfection of pcDNA-S in combination with apHIVbackbone plasmid bearing the GFP reporter gene，pNL4-3-GFP (Zhang et al.,20O4） using Lipofectamine 2OoO agent as suggested by the supplier of 293FT cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For studying the effect of furin inhibitor on pseudotyped virus production, dec-RVKR-cmk at various concentrations, $2 5 \\mathrm { - } 1 0 0 ~ \\mu \\mathrm { M }$ in DMEM was added to complete DMEM medium 6 hours post-transfection.The control without dec-RVKR-cmk treated 293FT was added with DMSO to final $0 . 5 \\%$ to monitor for any inhibitory effect of DMSO on viral production as a compound solvent. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Post-Translational Modification of HCoV-HKU1 S Protein by N-Glycosylation. We expressed S in BHK-21cells as a C-terminal FLAG-tagged fusion using the defective SemlikiForest virus system(SFV)(17).Metabolic labeling and pulse-chase experiments were performed to analyze the maturation profile of S,a protein of 1356 aa residues with 28 potential N-linked glycosylation (18 in S1 ectodomain and 1O in S2 endodomain） sites (Fig.1)(5). Lysate(Fig.1A)and medium(Fig.1B)were subjected to immunoprecipitation by mouse anti-HCoV-HKU1-S immune serum.Separation of proteins was run under nonreducing conditions in $3 \\mathrm { - } 8 \\%$ SDS-PAGE.For pulse-chase experiments,S-FLAG proteinwasreadilydetectedwith the apparent molecular mass of $1 8 0 \\mathrm { k D a }$ as earlyas in O.5 hour chase (Fig.1A).As shown by its sensitivity to Endo $\\mathrm { ~ H ~ }$ deglysosylation,the trimmed $1 5 0 \\mathrm { k D a }$ protein should be $N .$ glycosylated in the ER with high-mannose $N .$ glycans (Fig. 1A,0.5 hour of chase). Throughout O.5 hour to 12 hours post-chase,S remains Endo H sensitive which indicates that uncleaved S had not been converted to complex type $N .$ glycan and had probably remained in the ER compartment (19).In addition，there is an unidentified protein with apparent size of $1 1 0 \\ \\mathrm { k D a }$ at 0.5 hour post-chase which is probably a premature non-full length S expressed and captured during earlyphase of protein synthesis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc30a8694dcf1f6f39829265b2e2a2edd0c5ddf599919a8b44f012440af9878e.jpg",
+        "img_caption": [
+            "Figure1.ImmunoprecipitationofrecombinantHKU1-Sproteinfrom(A)lysateofransfectedBHK-celsand(B)culturemedum.Spikeisan N-linkedglyosylatedproteinichisproceedadcleavedintondSdomains(A)SexpressedBK-cellereeaboicaly labeled12hoursposttrasectioitappedHoVHU-ScodingNAtranscriptandlysedatteindicatedtimuocipiatio wasperformedusingS-antiserum.TheimmunoprecipitatedsamplesweretreatedwithEndoHandsubjectedtoSDSPAGEandanalyedby autoradiography. $( \\stackrel {  } { \\Rightarrow } 1 8 0 ~ \\mathsf { k D a }$ Endo H sensitive S monomer;■110 kDa Endo H resistant S1; +71 kDa S2; \\* Trimeric spike; $\\diamondsuit$ unidentified non-full length spike; N negative control with BHK lysate.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S was cleaved into sub-domains S1 $( 1 1 0 \\mathrm { ~ k D a } )$ and S2 （2号 $( 7 1 \\mathrm { \\ k D a } )$ at 1 hour post-chase (Fig. 1A). The glycosylation patterns of S1 and S2 differed from their precursor.The resistance to Endo Hby S1 revealed that it had matured as a complex N-linked glycan as it was trafficked along the ER to the Golgi complex and was able to be secreted into the mediumat12hours post-chase.S2 was revealed asa hybrid typed N-linked glycan containing minor terminal mannose residues susceptible to Endo H deglycosylation, resulting in a slight mobility shift afterEndo H treatment,and it was not detected in the medium (Fig.1B). The $1 8 0 \\ \\mathrm { k D a }$ uncleaved spike decreased in intensity at 3hours post-chase as itwas cleaved into S1 and S2,but remained detectable till12 hours post-chase.These results indicated that a significant portion ofHCoV-HKU1 Smaturedascleavedformsof S1and S2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The monomeric and trimeric form of S(with molecular mass of ${ > } 5 0 0 ~ \\mathrm { k D a }$ ）canbe detectedas earlyas O.5 hour post-chase (Fig.1A).No dimeric form was observed. The trimeric S dissociated into its constituents when the protein was heat denatured $( 1 0 0 ^ { \\circ } \\mathrm { C } )$ in the presence of SDS/DTT prior to Endo H treatment.This indicated that the trimeric structure assembled as $( \\mathbf { S } 1 - \\mathbf { S } 2 ) _ { 3 }$ could be heat-dissociated and could not be maintained under reducing electrophoretic running conditions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cleavage of HKU1 Spike Is Inhibited by Furin Inhibitor In Vitro. Since the results of time chased immunoprecipitation (Fig.1） and the prediction by bioinformatic analysis suggested a potential furin cleavage site,we attempted to demonstrate that furin or a furin-like enzyme,inherent in the trans Golgi network (TGN),is the host cell protease responsible for the cleavage of the S protein (20,21).Peptidyl chloromethylketone (dec-RVKRcmk),which was shown to be a specific inhibitor of furin activity in cultured cells (21-23),was used in our assays. Our result demonstrated that the cleavage of the spike is mediated by furin-like enzymes (Fig.2A).In addition to the nearly complete inhibition of cleavage into S1 and S2,the furin inhibitor modified the N-linked glycosylation patern which increased the molecular size of S(Fig.2A）and rendered it resistant to Endo H deglycosylation at 3 hours post-chase (Fig. 2B). These findings suggested that the uncleaved S was able to be transported to the Golgi and acquired complex N-linked glycosylation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Subcellular Localization of the Human Coronavirus HKU1 Spike. At 7 hours post-infection (p.i.),when SFV-derived protein expression was still weak,S readily showed an ER and Golgi restricted pattern which overlapped with both the ER and Golgi resident protein calreticulin and giantin，respectively，whileS protein appeared to be more concentrated in the Golgi region (Fig.3A，B). At 12 hours p.i.，in addition to its colocalization with ER and Golgi markers,S was abundantly detected in distinct bright vesicles throughout the cytoplasm and transported to the cell surface (Fig.3C,D) and notably colocalized with plasma membrane marker, pan cadherin，until 24 hours p.i. (Fig.3E). The strong fluorescent signal displayed on the cell surface suggests that the HCoV-HKU1 S is efficiently transported to the cell surface. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FLAG-Tagged HCoV-HKU1 S Is Expressed in Native Form on Cell Surface and Recognized by Convalescent Patient Serum.To ascertain that the recombinant expressed HCoV-HKU1 S acquired the native conformation，we tested if the cell surface expressed SFLAG can be recognized by the convalescent serum of a HCoV-HKU1 infected patient when compared with negative control using flow cytometry (Fig.4).The surface and intracellular recognition signals were scored as geometric mean fluorescence intensity ratio to negative control of 3.21 and 3.73,respectively (Fig.4A,B). The negative control serum was confirmed by ELISA against recombinant Sand nucleocapsid of HCoV-HKU1 (data not shown). Since the C-terminal tagged FLAG epitopes were only recognized by cytoplasmic staining but not on surface staining by monoclonal anti-FLAG antibody,the finding verifies the correct topological expression of S with the ectodomain exposed on the cell surface (Fig.4C,D). Overall these data suggest that the recombinant S expressed under the SFV system in BHK-21 cells acquired a native conformation and orientation which can be recognized by convalescent patient serum. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/abaa7e778bbf85065d0632d7546330aa590ef22d771193bcf9696204d865c704.jpg",
+        "img_caption": [
+            "Figure2.Thespecificfurininbitordec-RVKR-cmkiibitscleavageofHU-spikeandmodifiesitsglycosylationpate.)Sexpred BHK-21 cells were metabolically labeled in culture containing $1 0 0 \\mu \\mathrm { M }$ furin inhibitor,dec-RVKR-cmk.Furin inhibitor was maintained in medium in allsubseqentsteps.Furinibiorratedcelseretenased,ysedndmmunoprecipitatedyntispikemmuneusprevisly described. (B)The corresponding immunoprecipitated samples were subjected to Endo H deglycosylation. $\\Rightarrow 1 8 0$ kDa Endo H sensitive S monomer; ↑200 kDa Endo H resistant S monomer.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concentration Dependent Inhibition of S Cleavage and Release of HCoV-HKU1-S Pseudotyped Virus by Furin Inhibitor, dec-RVKR-cmk. The furin inhibitor inhibited S cleavage and affected the intracellular processing of S (Fig. 2). The extent of such changes in S maturation status induced by cleavage inhibition was demonstrated in association with viral release using a surrogate,the lentiviral based pseudotyped viral particles bearing HCoV-HKU1 S.The pseudotyped virus was titered byp24 measurement (BioMérieux).S-transfected BHK-21 cells were incubated with various concentrations of decRVKR-cmk from $2 5 { \\mathrm { - } } 1 0 0 ~ \\mu \\mathrm { M }$ ，followed by metabolic labeling and harvested by immunoprecipitation with antispike immune serum. The results showed that dec-RVKRcmk inhibited cleavage of S at $7 5 \\mathrm { - } 1 0 0 ~ \\mu \\mathrm { M }$ in S-expressed BHK-21 cells (Fig. 5A).In addition,we observed an inverse relationship between concentrations of dec-RVKR-cmk and viral yield as demonstrated by a $5 0 \\%$ reduction at $2 5 ~ \\mu \\mathrm { M }$ of inhibitor and up to $7 5 \\%$ reduction at a higher concentration from $5 0 { \\mathrm { - } } 1 0 0 ~ { \\mu \\mathrm { M } }$ in 293FT cells (Fig.5B).Although discrepancy in furin inhibitor concentration levelswas observed between the two assays,this could be accounted forby the variation of furin expression and sensitivities to the inhibitor between the two cell lines.The residual p24 detected in supernatant with furin inhibitor at $7 5 \\mathrm { - } 1 0 0 ~ \\mu \\mathrm { M }$ may be due to the presence of self assembled and secreted lentivirus-like particles(VLP) by gag proteins (24). It is conceivable that furin-mediated cleavage of the spike protein affects viral release (Fig. 5B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soonafter the discovery of SARS coronavirus,another two novel human coronaviruses named NL63 and HKU1 were found (8,10,25-27). Within a period of 2 years, HCoV-HKU1 was found to have a wide geographic distribution (8，9，28，29）and shown to be associated mainly with acute respiratory tract diseases.Though most reported cases are mild upper respiratory tract infections, the mortality of those suffering from acute community acquired pneumonia can reach $20 \\%$ . Due to the difficulty of culturing this new virus,the understanding of its virology and disease pathogenesis is still limited.The S of coronaviruses had been described as the key molecule which mediates virus entry through docking to specific cellular receptors(16,30- 33).Moreover, S of SARS-CoV can bind to possible coreceptor(s) such as DC-SIGN on blood circulating dendritic cells which may facilitate viral transmission to target cells (34,35). In this report we used Semliki Forest viral vector,a versatile expression system for the expression of many viral envelope proteins in functional studies.The C-terminal FLAG-tagged recombinant S of HCoV-HKU1 was expressed and studied in terms of its biogenesis,subcellular localization, intracellular processing and trafficking $( 3 6 -$ 40).The findings may provide information for the design of diagnostics,antivirals and vaccination. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b9345ad3e85409c89b089c9c562f4002336ae3c93fe8530e62f64747b787697.jpg",
+        "img_caption": [
+            "Figure3Intra-cellarandsurfacedistributionofHCoV-HKU1-SindicatingrecombinantSlocalizedalongsecretorypathwayfromERto plasmamembraneBHK-21cellsweregrooveightocoverslipsfollowedbyinfectionwithSFV-Spartices.Cellsrefdatdicatd timespost-infectioSexpressoadetectedbyantisikemouseimuneserandFoupldantimouseantibdyCellaers calretculin()(d)tiolile)(dD)i(mrae)Ecaineeedtie rabbitpolycloalantiboiesndsubseqentgoatantiabitojugatdTexaRedatbodie.iglightedSweretrasportedtoace (Fig. 3C). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our work demonstrates that the HCoV-HKU1 S,when expressed alone asamonomeric form,is an N-linked high mannose glycoprotein with an estimated molecular weight of $1 8 0 ~ \\mathrm { k D a }$ ，Deglycosylation with Endo H trimmed down the protein to its theoretical size of $1 5 0 \\mathrm { k D a }$ .Itwasretained in ER until it underwent proteolyic cleavage by inherent trans Golgi proteases，furin-like enzymes to yield the canonical receptor binding S1 $( 1 1 0 ~ \\mathrm { k D a } )$ and transmembrane fusion S2 subunits $( 7 1 ~ \\mathrm { k D a } )$ . This finding suggested that HCoV-HKU1 S resembles other class I viral fusion proteins found in orthomyxoviruses，retrovirusesand filoviruses and coronaviruses. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Only two oligomeric forms of S,monomeric and trimeric,were observed.This is in general agreement with the trimerization model of coronavirus S(15,41,42).The trimeric structure composed as $( \\mathrm { S } 1 { - } \\mathrm { S } 2 ) _ { 3 }$ was found to be heat labile and dissociable in reducing condition.Further Work on heat sensitivity to gradient of reducing conditions may be required to address the cross-linking properties among S1，S2 and S，which constitute the oligomeric structure of S. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When the intracellular processing of S is not interfered with,S is cleaved into subdomains S1 and S2 which are generally resistant to Endo H deglycosylation,indicating that both S1 and S2 mature along the secretory pathway with completion of the N-linked glycosylation pattern which differs from their precursor.S1 is eventually secreted into the medium.Thus the cleaved HCoV-HKU1 S may be the predominant and mature form for the normal viral life cycle. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c9dbf05a51f809b5b01a7721126e296e8ae94396c4ed345c71d1c16d5a3755d.jpg",
+        "img_caption": [
+            "Figure4.RecombinantSpikecanbrecognizedbyconvalescentHKU1patientserumonflowcytometry.SFV-S-FLAGinfectedBK-21cels wereharested20hoursp.ianddetectedwithpatientconvalescentsera(grenline)andsubsequentlybygoatanti-umanlgG-FIC conjugates in both_A and B,with and without permeabilization by $0 . 1 \\%$ Triton X-10o respectively.Asa control, infected cells were stained by mouseanti-AGojgatedoocoalantibdyedlineichogedlyracelaexpressdspke(peabldbut notthesurfacainedSithCterinalaggedFG(o-permeabiled,C).Backgroundsignalontrolaseasuredgaifected elndtadolylet,)aitddintorctedel(neb permeabilized,E and F respectively) and stained with patient sera (green line). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e24c4d0b84b952a0d00c6ebe0aef9e82131097021e90ed0a0deb213f2c76817.jpg",
+        "img_caption": [
+            "Figure5.A.Iibitionofrecombinantspikeproteincleavageisoncentratio-dependentbyafurinibitodec-RVKR-cmk.Sexpred BHK-21cllseratediiotcaboicallbededfoouuopcipiadntid electrophoresedaspreviouslydescribed.FurininibitoratvariousconcentratiosasindicatedasddedintoculturemedumsinltesB. ReleasefHKUpseudotypdviusisffctedbyinterferenceofthefurinematicprocesing.3Fcellserecotransfectedwitial vectorandHCoVU-SbearingplasmidAt6oursostrasfectionfreshmedmotainigvariouscocetratiosofc-k wasreplaced,pseudopdviusipeatantaarfidnditsiedbytelvelofp4at48urspostrasectio. $\\ l ( \\Rightarrow 1 8 0 \\mathsf { k D a }$ uncleaved S;■110 kDa S1; $\\dagger$ 71 kDa S2;N untransfected BHK-21 cells,immunoprecipitation negative control.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The findings of the intracellular localization of S using immunofluorescent analysis and pulse-chase assayare compatible with each other. We showed that S is present along the secretory pathway from ER to the plasma membrane. The pulse chase experiment combined with Endo H sensitivity assay showed that S acquires N-linked glycosylation as soon as it reaches the ER at O.5 hour postchase.Uncleaved S remained in the ER compartment till it had undergone proteolytic cleavage into S1 and S2 by Golgi resident furin-like protease from 1-3 hours post-chase.It occurred with the concomitant trimming of terminal mannose residues and the maturation with the addition of complex N-linked oligosaccharides,which rendered the subdomains Endo H resistant after processing through the secretory compartments.Eventually S1 was transported to the cell surface and secreted,and it could be detected in the culture at 24 hours post-transfection. This observation coincided with the immunofluorescence analysis that demonstrated HCoV-HKU1 S exhibiting an early ER-Golgi restricted pattern at 7 hours p.i. At 12 hours p.i.,we observed punctately stained S scattered within the cytoplasm although S remained partially colocalized with ER and Golgi markers.At 24 hours p.i., the surface staining of S became prominent and S1 could be immunoprecipitated from cell culture medium in pulse-chase assay. These findings demonstrated that the efficient trafficking and surface expression of recombinant HCoV-HKU1 S encoded in a SFV vector. The results are comparable to those of previous studies on SARS-CoV S (37,43) or transmissible gastroenteritis virus （TGEV）S using plasmid expression vectors (44） showing the typical properties of coronavirus S-transfected,which the surface expressed S can trigger fusion adjacent cells resulting syncytia formation.Further, our experiments were not hampered by problems arising from protein overexpression leading to saturation of retention machinery (45). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Coronavirus spike contains multiple conformational epitopeswhich are major inducers of neutralizing antibodies and essential for receptor binding (46-49); in addition it has the least sequence conservation among coronavirus proteins which renders ita specific target used for serodiagnosis(5, 50,51). According to the analysis in Woo's paper (5), HCoV-HKU1 spike scores only $3 0 \\mathrm { - } 3 2 \\%$ amino acid homologies with group 1 coronavirus spike including HCoV-229E and NL-63, $3 3 \\%$ with SARS-CoV (group 2b), $32 \\%$ with IBV(group 3） and $6 0 \\%$ with its same sub-group 2a including HCoV-OC43.HCoV-HKU1 is a newly identified virus,its clinical epidemiology and seroprevalence in our community remains undetermined. Because the virus cannot be cultured, the gold standard usingneutralizing antibody response cannot be performed. ELISA assay using this spike protein would be a robust and economical test.The native surface S expressed in BHK-21 cells can be recognized by convalescent patient serum by flow cytometry.Our result indicates that this cell-based S protein expression system can differentiate false positive antibody detected by ELISA assay using the more cross reactive nucleoprotein as antigen (unpublished data),as well asa tool for future study of the interaction between HCoVHKU1 S and its potential receptor. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The essentiality of proteolytic maturation among group 2CoV S proteins,which are normally cleaved,isstill controversial. Taking the well studied MHV as an example, inhibition of furin cleavage generally decreases cell-cell fusion activity but without any notable effect in viral infectivity and pathogenesis (21, 52-54). However, exogenous treatment with trypsin enhances MHV infectivity (55).In our study of HCoV-HKU1 S,we observed that S matures predominantly in cleaved formwhich is mediated bythe furin-like host protease.This was demonstrated by the direct correlation of S cleavage with the titre of pseudotyped viral release which is dependent on the concentration of furin inhibitor.Therefore the inhibition of cleavage is unlikely to be caused by ubiquitous factor. Further study should address whether the overexpression of furin-like enzymes in cell lines might improve the efficiency of viral isolation from clinical specimens. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Taken together,we have expressed a conformational native C-terminal tagged HCoV-HKU1 S and studied its biogenesis,subcellular localization，proteolytic cleavage and intracellular trafficking.The present study established the intrinsic biochemical properties of this structural protein. These findings will have important bearing on future studies in the exploration of virus-host interaction,identification of receptor and development of an antibody detection test which complements the robust ELISA assay in large-scale sero-epidemiological studies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "27.Kupfer B,Simon A,Jonassen CM,Viazov S,Ditt V, Tillmann RL, Muller A,Matz B,Schildgen O.Two cases of severe obstructive pneumonia associated with an HKU1-like coronavirus.Eur JMed Res 12:134-138,2007.   \n28.Esper F,Weibel C,Ferguson D,Landry ML,Kahn JS.Coronavirus HKU1 infection in the United States. Emerg Infect Dis 12:775-779, 2006.   \n29.Sloots TP,McErlean P, Speicher DJ, Arden KE,Nissen MD,Mackay IM. Evidence of human coronavirus HKU1 and human bocavirus in Australian children.J Clin Virol 35:99-102,2006.   \n30.Delmas B,Gelfi J,L'Haridon R,Vogel LK,Sjostrom H,Noren O, Laude H. Aminopeptidase $\\mathbf { N }$ is a major receptor for the enteropathogenic coronavirus TGEV. Nature 357:417-420,1992.   \n31.Hofmann H,Hattermann K,Marzi A,Gramberg T,Geier M, Krumbiegel M,Kuate S,Uberla K,Niedrig M,Pohlmann S.S protein of severe acute respiratory syndrome-associated coronavirus mediates entry into hepatoma cell lines and is targeted by neutralizing antibodies in infected patients.J Virol 78:6134-6142,2004.   \n32.Williams RK,Jiang GS,Holmes KV.Receptor for mouse hepatitis virus is a member of the carcinoembryonic antigen family of glycoproteins. Proc Natl Acad Sci U S A 88:5533-5536,1991.   \n33.Yeager CL,Ashmun RA,Williams RK,Cardellichio CB, Shapiro LH, Look AT,Holmes KV.Human aminopeptidase N is a receptor for human coronavirus 229E.Nature 357:420-422,1992.   \n34. Shih YP,Chen CY,Liu SJ, Chen KH,Lee YM, Chao YC,Chen YM. Identifying epitopes responsible for neutralizing antibody and DCSIGN binding on the spike glycoprotein of the severe acute respiratory syndrome coronavirus.J Virol 80:10315-10324,2006.   \n35.Yang ZY,Huang Y,Ganesh L, Leung K,Kong WP, Schwartz O, Subbarao K,Nabel GJ. pH-dependent entry of severe acute respiratory syndrome coronavirus is mediated by the spike glycoprotein and enhanced by dendritic cell transfer through DC-SIGN.J Virol 78:5642- 5650,2004.   \n36.Lozach PY,Lortat-Jacob H,de Lacroix de Lavalette A, Staropoli I, Foung S,Amara A,Houles C,Fieschi F,Schwartz O,Virelizier JL, Arenzana-Seisdedos F,Altmeyer R.DC-SIGN and L-SIGN are high affinity binding receptors for hepatitis C virus glycoprotein E2.JBiol Chem 278:20358-20366,2003.   \n37.Nal B,Chan C,Kien F,Siu L,Tse J,Chu K,Kam J,Staropoli I, Crescenzo-Chaigne B,Escriou N,van der Werf S,Yuen KY,Altmeyer R.Differential maturation and subcellular localization of severe acute respiratory syndrome coronavirus surface proteins S,M and E.J Gen Virol 86:1423-1434,2005.   \n38.Percherancier Y,Lagane B,Planchenault T, Staropoli I,Altmeyer R, Virelizier JL,Arenzana-Seisdedos F,Hoessli DC,Bachelerie F.HIV-1 entry into T-cells is not dependent on CD4 and CCR5 localization to sphingolipid-enriched,detergent-resistant,raft membrane domains.J Biol Chem 278:3153-3161,2003.   \n39.Staropoli I, Chanel C, Girard M, Altmeyer R.Processing,stability,and receptor binding properties of oligomeric envelope glycoprotein from a primary HIV-1 isolate.JBiol Chem 275:35137-35145,2000.   \n40.Verrier FC,Charneau P,AltmeyerR,Laurent S,Borman AM,Girard M.Antibodies to several conformation-dependent epitopes of $\\mathrm { g p } 1 2 0 / \\mathrm { g p } 4 1$ inhibit CCR-5-dependent cell-to-cell fusion mediated by the native envelope glycoprotein of a primary macrophage-tropic HIV1 isolate.Proc Natl Acad Sci U S A 94:9326-9331,1997.   \n41.Delmas B,Laude H. Assembly of coronavirus spike protein into trimers and its role in epitope expression.J Virol 64:5367-5375,1990.   \n42.Song HC,Seo MY,Stadler K,Yoo BJ, Choo QL,Coates SR, Uematsu Y,Harada T,Greer CE,Polo JM,Pileri P,Eickmann M,Rappuoli R, Abrignani S,Houghton M,Han JH. Synthesis and characterization ot a native,oligomeric form of recombinant severe acute respiratory syndrome coronavirus spike glycoprotein.J Virol 78:10328-10335, 2004.   \n43.Kam YW,Kien F,Roberts A,Cheung YC,Lamirande EW,Vogel L, Chu SL,Tse J,Guarner J,Zaki SR,Subbarao K,Peiris M,Nal B, Altmeyer R.Antibodies against trimeric S glycoprotein protect hamsters against SARS-CoV challenge despite their capacity to mediate FcgammaRI-dependent entry into B cells in vitro.Vaccine 25:729-740,2007.   \n44.Schwegmann-Wessels C,Ren X,Herrler G. Intracellular transport of the S proteins of coronaviruses.Adv Exp Med Biol 581:271-275, 2006.   \n45.Pulford DJ，Britton P.Intracellular processing of the porcine coronavirus transmissible gastroenteritis virus spike protein expressed by recombinant vaccinia virus.Virology 182:765-773,1991.   \n46.Kubo H, Takase-Yoden S,Taguchi F. Neutralization and fusion inhibition activities of monoclonal antibodies specific for the S1 subunit of the spike protein of neurovirulent murine coronavirus JHMV c1-2 variant.JGen Virol 74 (Pt 7):1421-1425,1993.   \n47.Kubo H, Yamada YK,TaguchiF.Localization of neutralizing epitopes and the receptor-binding site within the amino-terminal 33O amino acids of the murine coronavirus spike protein.J Virol 68:5403-5410, 1994.   \n48.He Y,Lu H, Siddiqui P, Zhou Y, Jiang S.Receptor-binding domain of severe acute respiratory syndrome coronavirus spike protein contains multiple conformation-dependent epitopes that induce highly potent neutralizing antibodies.J Immunol 174:4908-4915,2005.   \n49.Yang ZY,Werner HC,Kong WP,Leung K,Traggiai E,Lanzavecchia A,Nabel GJ.Evasion of antibody neutralization in emerging severe acute respiratory syndrome coronaviruses.Proc Natl Acad Sci U S A 102:797-801, 2005.   \n50.Woo PC,Lau SK,Wong BH, Chan KH,Hui WT,Kwan GS,Peiris JS, Couch RB,Yuen KY.False-positive results in a recombinant severe acute respiratory syndrome-associated coronavirus (SARS-CoV） nucleocapsid enzyme-linked immunosorbent assay due to HCoV-OC43 and HCoV-229E rectified by Western blotting with recombinant SARS-CoV spike polypeptide.J Clin Microbiol 42:5885-5888,2004.   \n51.Maache M,Komurian-Pradel F,Rajoharison A,Perret M,Berland JL, Pouzol S,Bagnaud A,Duverger B,Xu J, Osuna A,Paranhos-Baccala G.False-positive results in a recombinant severe acute respiratory syndrome-associated coronavirus (SARS-CoV） nucleocapsid-based western blot assay were rectified by the use of two subunits (S1 and S2） of spike for detection of antibody to SARS-CoV.Clin Vaccine Immunol 13:409-414,2006.   \n52.Bos EC,Heijnen L,Luytjes W, Spaan WJ.Mutational analysis of the murine coronavirus spike protein: effect on cell-to-cellfusion. Virology 214:453-463, 1995.   \n53.Bos EC,Luytjes W,Spaan WJ. The function of the spike protein of mouse hepatitis virus strain A59 can be studied on virus-like particles: cleavage is not required for infectivity.J Virol 71:9427-9433,1997.   \n54.Hingley ST,Leparc-Goffart I,Seo SH,Tsai JC,Weiss SR.The virulence of mouse hepatitis virus strain A59 is not dependent on efficient spike protein cleavage and cell-to-cellfusion. J Neurovirol 8: 400-410,2002.   \n55.Sturman LS,Ricard CS,Holmes KV.Proteolytic cleavage of the E2 glycoprotein of murine coronavirus: activation of cell-fusing activity of virions by trypsin and separation of two different 9OK cleavage fragments.J Virol 56:904-911,1985. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

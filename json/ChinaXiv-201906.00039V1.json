@@ -1,0 +1,386 @@
+[
+    {
+        "type": "text",
+        "text": "VATOFTHELEXICALTONESINMANDARINCHINESE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiangping Kong1,Ruifeng Zhang Center for Chinese Linguistics, Peking University Department of Chinese Language and Literature,Peking University Joint Research Center for Language and Human Complexity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this research was to investigate the association of vocal attack time(VAT) and tones in speakers of Mandarin Chinese,and to explore how tones initiated at different pitch levels affected VAT. SP and EGG signals were synchronously recorded from 72 young undergraduates or postgraduates (42 females and 30 males） while they were reading aloud a wordlist of 5O disyllabic words at their most comfortable pitch, loudness and rate.VAT measures revealed three findings.（1) Vocal attack time shows no significant difference between the common yangping and the yangping derived from shangsheng. This,from a physiological perspective,supports the argument that the tone sequence 3-3 in Mandarin is indeed converted into 2-3,nothing else.(2) The tones of Mandarin Chinese that start from low pitch levels (35,21） tend to present significantly different VAT values from those that start from high pitch levels (55,51),with mean VATs of the former being much longer than those of the latter. This embodies the nonlinear contra-variant relationship between VAT and FO at vowel onsets.(3） There are deviations or individual differences: a small number of people do not follow this pattern. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUBJECTKEYWORDS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vocal attack time，Lexical tones,Phonation onset,Nonlinear contra-variant relationship ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1VOCALATTACKTIME ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vocal attack time (VAT） is a concept proposed by Baken et al.(1998a, 1998b) based on the time delay between the rise of the sound pressure (SP) and the appearance of an evident electroglottographic (EGG) signal,when SP and EGG signals are recorded simultaneously. In the presence of a trans-glottal airflow, the vocal folds oscillate with small amplitudes before they arrive at the midline of the glottis.On their arriving at the glottal midline with periodic contact achieved and stabilized,the amplitude of their oscillations grows very quickly.Therefore,the SP signal begins its growth to large magnitude well before the vocal-fold contact occurs. However,the EGG signal,as a record of vocal-fold contact area,has nearly no amplitude until the vocal-fold contact is achieved,and only after that does its amplitude grow rapidly. The EGG and SP signals are thus offset with respect to each other,and VAT is taken to be the time lag between the rise of them measured at the onset of phonation. Positive VAT values indicate that the initiation of SP signals leads that of EGG signals while negative ones signify the latter preceding the former. When the two sorts of signals rise at the same point of time,VAT equals zero. So VAT provides a potentially useful measure that varies with vocal attack characteristics. Orlikoff et al. (20o9) for example,have reported negative VATs for all attempts of their subjects to produce a hard glottal attack.A computer program was developed to automatically extract VAT measures from the EGG and SP signals simultaneously recorded,and the validity of this measurement was experimentally demonstrated by Orlikoff et al. (2009).In 2012,Roark et al. proposed a figure of merit (FOM) for VAT measurement，which was actually Pearson's correlation coefficient determined from the amplitude features of SP and EGG signals (Roark et al 2012).VAT measurement has been used for nonlinguistic research by Roark et al. (2012) to acquire normative data of VAT in healthy young adults.In 2O12,VAT was also measured for linguistically constrained voice onsets during the production of the six Cantonese tones (Ma et al. 2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2LEXICALTONESINMANDARINCHINESE ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Asa well-known tone language in Asia,Mandarin Chinese has four distinctive lexical tones:The first one,named yinping,is a high level tone with pitch sustained high on pitch level 5;the second,named yangping,is a mid-rise with pitch climbing fromlevel3up to level 5;the third,shangsheng,isa fall-rise that dips first from level 2 to 1 and then rises to level 4;the last one,qusheng,is a full fall that starts from level 5 and glides all the way down to level 1; the values of these tones areconsequently recorded asyinping(55)，yangping(35)， shangsheng(214), qusheng(51).Because these lexical tones distinguish meanings in Mandarin Chinese, the same morpheme may have different meanings when adopting different pitch contours,for example, $/ \\mathrm { m i } /$ with a fall-rise(214） signifies‘rice’in English,but means ‘honey'when its pitch contour is altered to a full fall (51). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unlike in English where phonemic variation occurs frequently,in Mandarin Chinese there are often occurrences of Tone Sandhi. The fall-rise pitch contour of shangsheng (214) mentioned above is only seen on syllables before pauses or in citation form.However, when two such contours are juxtaposed in speech flow, the first of them is always definitely altered into a mid-rise (35),the pitch contour that yangping always adopts.And furthermore,in flowing speech, the fall-rise of shangsheng preceding yinping，yangping or qusheng is nearly unexceptionally modified into a low-fall (21),with pitch dipping slightly from level 2 to 1.All these have made the original contour of Tone 3(214) very seldom heard in connected speech. There are also occasions when Tone Sandhi is optional. The original tone of -”，a Chinese word that means “one”in English,is 55,a high level pitch pattern, when it is in citation form or at the end of a sentence.But in flowing speech,this pattern can be modified into 35,when it precedes morphemes of qusheng (e.g.“一样 $5 5 { + } 5 1 {  } 3 5 { + } 5 1 ^ { \\cdots }$ , or into 51,when it goes before yinping,yangping or shangsheng (e.g.“一般 $5 5 { + } 5 5 {  } 5 1 { + } 5 5 ^ { , }$ ，“一直 $5 5 { + } 3 5 {  } 5 1 { + } 3 5 ^ { \\circ }$ ，“一起 $5 5 + 2 1 4  5 1 + 2 1 4 \" )$ .But not all Mandarin speakers follow suit, and there are people who still pronounce “一 般”as $5 5 + 5 5$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3PURPOSE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The aforementioned linguistic features of Mandarin tones have rendered the most frequent contours of tones in flowing speech as four types: yinping (55), yangping (35),shangsheng (21) and qusheng (51).By comparing the pitch levels from which they start, it is possible to distinguish the four types as two categories: The first and fourth tones both start with the highest pitch and go to one category, while the second and third tones that start from low levels 3 and 2 go to the other.As is well-known,pitch is a very important perceptual correlate of FO,which is associated with the rate of vocal-fold oscillations.Since the tones with a high-pitch onset have a higher rate of vocal-fold oscillation than those with a low-pitch onset during the initial stage of phonation, they may adopt different mechanisms of laryngeal adjustment,and present dissimilar characteristics of vocal attack. The purpose of the present investigation is to examine the association of VAT and tone in speakers of Mandarin Chinese,and to explore how tones initiated at different pitch levels affect vocal attack time.This is an attempt to measure VAT for linguistically constrained voice onsets. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2METHOD ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1WORDLIST ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three considerations decided which disyllabic words to choose for the present study.(1) The first syllable of the word should start with a head vowel (Chao 1970),namely,no initial consonant or semivowel medial should stand at the beginning,because the computer program designed for VAT extraction only works efficiently on syllables beginning with vowels,and a large part of a Chinese tone contour is spread on the head vowel of a syllable.(2) The three vertex vowels of Mandarin Chinese $\\mathrm { ( / a / \\hbar / i / \\hbar / u / ) }$ should be chosen as the head vowels of the first syllables of words,because they occupy the utmost points on the vowel chart and represent the entire scope of tongue movement during speech.(3) Each final of the first syllable should adopt four distinctive tone patterns (yinping，yangping, shangsheng and qusheng)，with each pattern being further followed by yinping, yangping,shangsheng and qusheng respectively as the second syllables of words. Since VAT measurement would only be taken for the voice onset of the first syllables, there was no requirement on the composition of the second syllables.All these resulted in a wordlist of 50 double-syllable words with /ai/ /an/ /an//au/ /i/ /u/ chosen to be the finals of the first syllables,as is seen Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/933eb95478cc9de67e0bcef8bf999d104a47743cdf52c25982fa3bc9c7004cac.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 1.5O disyllabic words used in the present study "
+        ],
+        "table_body": "<html><body><table><tr><td>vowel of syllable1</td><td>tone combination</td><td>vowel of syllable1</td><td>tone combination</td><td>vowel of syllable1</td><td>tone combination</td><td>vowel of syllable1</td><td>tone combination</td><td>vowel of syllable1</td><td>tone combination</td></tr><tr><td rowspan=\"9\"></td><td>哀歌55+55</td><td rowspan=\"3\"></td><td>矮小214+214</td><td></td><td>屋脊55+214</td><td rowspan=\"3\"></td><td>误差51+55</td><td></td><td>疑点35+214</td></tr><tr><td>哀求55+35</td><td>暖气214+51</td><td></td><td>污垢 55+51</td><td>务实51+35</td><td></td><td>遗憾35+51</td></tr><tr><td>哀苦55+214</td><td>爱惜51+55</td><td></td><td>无边35+55</td><td>物产51+214</td><td></td><td>已经214+55</td></tr><tr><td>哀悼55+51</td><td></td><td>爱情51+35</td><td>无常35+35</td><td></td><td>务必 51+51</td><td></td><td>以为214+35</td></tr><tr><td>挨批35+55</td><td></td><td>碍事51+51</td><td>/u/</td><td>无耻35+214</td><td></td><td>一般55+55</td><td>/i/</td><td>以免214+214</td></tr><tr><td>35+35</td><td>/an/</td><td>安排55+35</td><td></td><td>无故35+51</td><td></td><td>依从 55+35</td><td></td><td>以后214+51</td></tr><tr><td>挨宰35+214</td><td>/an/</td><td>肮脏55+55</td><td></td><td>午餐214+55</td><td>/i/</td><td>依法 55+214</td><td></td><td>异乡51+55</td></tr><tr><td>癌症35+51</td><td>/au/</td><td>凹版 55+214</td><td></td><td>舞池214+35</td><td></td><td>医道 55+51</td><td></td><td>异常 51+35</td></tr><tr><td>矮星214+55</td><td></td><td>乌龟55+55</td><td></td><td>舞蹈214+214</td><td></td><td>疑心35+55</td><td></td><td>意旨51+214</td></tr><tr><td></td><td>蔼然214+35</td><td>/u/</td><td>巫婆55+35</td><td></td><td>舞214+51</td><td>遗传35+35</td><td></td><td>议论 51+51</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2SUBJECTSANDINSTRUMENTATION",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recordings of the wordlist were obtained from 42 females (mean age $\\mathbf { \\Sigma } =$ 24.0 years,standard deviation $( \\mathrm { S D } ) = 2 . 1 \\$ ）and 30 males (mean age $= 2 2 . 7$ years, SD $= 1 . 9 \\dot { }$ ,all of whom were undergraduates or postgraduates in universities.They were able to speak standard Mandarin Chinese and use it freely for daily communication. None of them had any voice or hearing problems,and they were all in sound health at the time of testing.The process of recording was accomplished in the sound-treated booth at the Language Lab of the Chinese Department， Beijing University, where the background noise was below 25dBA. While recording, the Adobe Audition 1.5 was set at the double-channel interface with a sampling rate of $4 4 1 0 0 ~ \\mathrm { { H z } }$ and a resolution of 16 bits for each channel. The electroglottograph (Model 61O3） used for collecting EGG signals and the microphone and sound card (Creative Labs Model No.sblo95） used to gain SP signals were synchronously connected to the personal computer through a sound console (Behringer XENYX502).With their lips about $1 0 \\ \\mathrm { c m }$ away from the microphone, the subjects were asked to read aloud the disyllabic words using their most comfortable pitch, loudness and rate.Each subject read the wordlist twice,and the one reading with better quality was chosen for the present study. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Not counting the 13 bad-quality culls,the total number of speech samples eventually acquired was 3587 with 2095 from females and 1492 from males. Among the 3587 first syllables of words,1036 were spoken with yinping (55),1075 were spoken with yangping (35),640 with shangsheng (21) and 836 with qusheng (51). The original tone contour 214 was absent from the database and the number of shangsheng tokens was smaller than others because of the Tone Sandhi described above: $2 1 4 + 5 5 / 3 5 / 5 1  2 1 + 5 5 / 3 5 / 5 1$ ， $2 1 4 + 2 1 4  3 5 + 2 1 4$ ．Moreover, some subjects produced the first syllable of“一般 $( 5 5 + 5 5 )$ \" as 51,while others did it as 55. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3PARAMETEREXTRACTIONANDDATAPREPROCESSING ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "VAT measures were extracted largely automatically from the EGG and SP signals using the computer program developed by Roark et al (20l2), the process of which consisted of four components.The second component was to automatically identify a 6Oo-millisecond segment of the SP and EGG signals that was centered at the approximate time of vocal onset of the first syllable of the disyllabic word.This was based on two criteria that had to be simultaneously satisfied for the band pass-filtered EGG signal: Local energy had to be greater than $1 5 \\%$ of the maximum energy and local cycle length must have shown less than $1 5 \\%$ variation. However, observation had shown that,for 1O7 speech samples from our database,the 600-millisecond segments thus identified were not centered at the voice onset of the first syllables,but somewhere else,for example at the onset of the second syllables, suggesting that inadequate EGG signal quality of these samples failed the two criteria above. VAT measures of these samples were marked “WS”(wrongly segmented) in the comments column of excel sheets. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From the 3587 VAT values obtained, the 107“WS”measures were first taken away,and the remaining 3480 were divided into two groups:2O25 measures for females,and 1455 measures for males.Each group was then processed separately in the same way: Because of the large number of outliers among VAT values, measures that were beyond $\\pm 2$ standard deviations from the mean VAT were cut out. Eventually,another lOO measures were deleted from the database,and among the 3380 that remained (skewness $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } _ { 1 } _ { 2 } _ { 3 2 }$ , kurtosis $_ { = 3 . 3 9 7 }$ ),VAT ranged from $- 4 0 . 4 ~ \\mathrm { m s }$ to $3 7 . 1 ~ \\mathrm { m s }$ ，the average and standard deviation of it being $- 0 . 3 2 \\mathrm { m s }$ and $7 . 1 6 ~ \\mathrm { m s }$ respectively. SPSS13.0 (SPSS.Inc.USA) was used for all the analyses below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3RESULTS ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Among the preprocessed database,there are looo speech samples,whose first syllables carry mid-rise pitch contours of yangping (35),and of these contours, 195are derived from shangsheng (214） by this pattrn of Tone Sandhi: $2 1 4 + 2 1 4  3 5 + 2 1 4$ .A one-sample $t$ test showed that the VAT values of these 195 derived yangping contours are not significantly different from those of the common yangping contours ( $\\dot { t } _ { ( 1 9 4 ) } = 1 . 4 8 6$ $\\mathfrak { p } = 0 . 1 3 9 > 0 . 0 5$ ). Similarly,there were 43 subjects, who pronounced the first syllable of“一般 $( 5 5 + 5 5 ) ^ { \\prime }$ ’ as 51,a full fall,and according to another one-sample $t$ test, the VAT values of these 43 derived qusheng pitch contours (51） are not significantly different from those of the common qusheng contours either ( $\\stackrel { \\prime } { t } _ { ( 4 2 ) } = 0 . 8 2 2$ ， $\\mathfrak { p } = 0 . 4 1 6 > 0 . 0 5 \\$ . It is therefore reasonable to regard these derived pitch patterns of 35 and 51 as belonging to common yangping and qushengcategories respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since the final data corpus is composed of1961 VAT measures for females, 1419 for males,992 for yingping (55)，1000 for yangping (35) (including 195 derived ones),599 for shangsheng (21) and 789 for qusheng (51) (including 43 derived ones),a two-way analysis of variance with mixed measures on two factors was done with speaker gender (female vs.male) as the between-subject factor and tone(the 4 tones)as the within-subject factor. Results revealed a significant main effect of tone $( \\mathrm { F } _ { ( 2 . 4 4 4 ) } = 3 3 . 5 9$ $\\mathfrak { p } < 0 . 0 5$ $\\begin{array} { r } { \\mathrm { R } ^ { 2 } = 0 . 3 2 4 ; } \\end{array}$ ,a non-significant main effect of gender ( $\\mathrm { F } _ { ( 1 , 7 0 ) } = 0 . 1 7 9$ $\\mathfrak { p } = 0 . 6 7 3 > 0 . 0 5$ $\\mathrm { R } ^ { 2 } = 0 . 0 0 3 \\$ ,and a non-significant tone by gender interaction effect $( \\mathrm { F } _ { ( 2 . 4 4 4 ) } = 0 . 2 6 2$ $\\mathfrak { p } = 0 . 8 1 3 > 0 . 0 5$ ， $\\mathrm { R } ^ { 2 } = 0 . 0 0 4 \\$ ).Means and SDs of VAT calculated among the 72 subjects are listed in Table 2 and plotted in Figure 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/55206154d7f2bae005ad7afff61e2dd17812c27f8e310f5576cf5b17eeed7bdb.jpg",
+        "table_caption": [
+            "Table 2.Means and SDs of VAT of different tones and genders among all the 72 subjects "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Sex</td><td>Mean</td><td>Std.Deviation</td><td>N</td></tr><tr><td rowspan=\"3\">yinping(55)</td><td>female</td><td>-1.602</td><td>5.406</td><td>42</td></tr><tr><td>male</td><td>-1.710</td><td>4.235</td><td>30</td></tr><tr><td>Total</td><td>-1.647</td><td>4.920</td><td>72</td></tr><tr><td rowspan=\"3\">yangping(35)</td><td>female</td><td>1.573</td><td>3.878</td><td>42</td></tr><tr><td>male</td><td>2.176</td><td>3.675</td><td>30</td></tr><tr><td>Total</td><td>1.824</td><td>3.781</td><td>72</td></tr><tr><td rowspan=\"3\">shangsheng(21)</td><td>female</td><td>.903</td><td>4.826</td><td>42</td></tr><tr><td>male</td><td>1.612</td><td>4.812</td><td>30</td></tr><tr><td>Total</td><td>1.198</td><td>4.799</td><td>72</td></tr><tr><td rowspan=\"3\">qusheng(51)</td><td>female</td><td>-2.462</td><td>6.595</td><td>42</td></tr><tr><td>male</td><td>-2.017</td><td>3.576</td><td>30</td></tr><tr><td>Total</td><td>-2.276</td><td>5.512</td><td>72</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/59d73e74b26ec1d101bcf8d076024cffc836a4f6726b20b5b8265922a1407ba1.jpg",
+        "img_caption": [
+            "Figure 1.Means of VAT as a function of tone and gender(72 subjects) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 indicates that the average VATs for three of the four tones are all smaller for females than for males,but those for tonel are not,suggesting the necessity for analyses of simple effect.Thus a paired-samples $t$ test has further shown that, for both males and females,VATs between yinping(55）and yangping (35),shangsheng (21) and qusheng (51) are significantly different from each other (For males:55 vs.35: $t = - 5 . 4 2 1$ 5 $\\mathfrak { p } = 0 . 0 0 { < } 0 . 0 5$ ; 21 vs. 51: $t = 4 . 4 7 9$ 5 $\\mathsf { p } = 0 . 0 0 < 0 . 0 5$ For females: 55 vs.35: $\\ d _ { t } = \\ d _ { - 4 . 5 2 6 }$ + $\\mathfrak { p } = 0 . 0 0 { < } 0 . 0 5$ ; 21 vs. 51: $t = 4 . 2 9 1$ $\\mathbf { p } = 0 . 0 0 <$ 0.05),while those between yangping (35) and shangsheng (21),yinping (55） and qusheng (51) are not (For males: 35 vs.21: $t = 1 . 0 0 7$ $\\mathfrak { p } = 0 . 3 2 2 > 0 . 0 5$ ; 55 vs. 51: t $= 0 . 7 0 2$ $\\mathfrak { p } = 0 . 4 8 8 > 0 . 0 5$ ; For females: 35 vs. 21: $t = 1 . 2 2 2$ $\\mathfrak { p } = 0 . 2 2 9 > 0 . 0 5 ; 5 .$ 5vs. 51: $t = 1 . 3 4$ ， $\\mathfrak { p } = 0 . 1 8 8 > 0 . 0 5$ ).Namely,the means of VAT are much longer for yangping and shangsheng than for yingping and qusheng in both genders.This is why a cluster analysis has put yinping and qusheng into one category, but yangping and shangsheng into another depending on the VAT measures of their voice onsets (see Figure 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c52d9c0de01ada48d6f6797d0b1b12d9041be67f91d35703c97709120436dd6.jpg",
+        "img_caption": [
+            "Figure 2.Result of a hierarchical cluster analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "However,a close inspection on the mean VATs of the four tones (55,35,21, and 51) of each subject can also divide the 72 subjects (including males and females) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "into two groups: 46 of them $( 6 3 . 8 9 \\% )$ ）have mean VATs of both yangpingand shangsheng longer than those of yinping and qusheng (see Figure 3),but 26 of them $( 3 6 . 1 1 \\% )$ display various patterns other than this (see Figure 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e89e6d21eb18e1a921eda8241c4e62cae321ec432bcf10bd08344f14a18e5902.jpg",
+        "img_caption": [
+            "Figure 3.46 of the 72 subjects displayed mean VATs of four tones in the same pattern.Each line indicates the average VATs of one person "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/85ffe1c3081960fe30e2be53efec5011ab1eeaefdf554e5c84aaa18eeb7270b7.jpg",
+        "img_caption": [
+            "Figure 4.26 of the 72 subjects displayed mean VATs of four tones in miscellaneous patterns.Each line indicates the average VATs of one person "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A two-way analysis of variance with mixed measures on two factors test done on the 46 still presents a significant main effect of tone $( \\mathrm { F } _ { ( 3 ) } = 8 7 . 6 4 4 , \\mathrm { P } < 0 . 0 5$ ， $\\mathrm { R } ^ { 2 } = 0 . 6 6 6 )$ , a non-significant main effect of gender $( \\mathrm { F } _ { ( 1 , 4 4 ) } = 2 . 1 6 3$ ， ${ \\tt p } = 0 . 1 4 9 >$ （204号 0.05, $\\begin{array} { r } { \\mathrm { R } ^ { 2 } = 0 . 0 4 7 \\mathrm { , } } \\end{array}$ and a non-significant tone by gender interaction effect $( \\mathrm { F } _ { ( 3 ) } = 0 . 6 3 2$ $\\mathrm { P } = 0 . 5 9 5 > 0 . 0 5$ $\\mathrm { R } ^ { 2 } = 0 . 0 1 4 _ { , }$ ).In Table 3 and Figure 5 are indicated the means and SDs of VAT of the 46 subjects as a function of tone and gender.The exception in Figure 1 no longer shows up in Figure 5, suggesting that individual differences may slightly affect the result of the whole population. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b12d042c9a2761fc3658f81ab9b2705084707eb5e43ed8cdfcb1ea0fed3fad39.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Sex</td><td>Mean</td><td>Std. Deviation</td><td>N</td></tr><tr><td rowspan=\"3\">yinping(55)</td><td>female</td><td>-3.847</td><td>4.641</td><td>26</td></tr><tr><td>male</td><td>-2.992</td><td>3.746</td><td>20</td></tr><tr><td>Total</td><td>-3.475</td><td>4.251</td><td>46</td></tr><tr><td rowspan=\"3\">yangping(35)</td><td>female</td><td>1.199</td><td>4.193</td><td>26</td></tr><tr><td>male</td><td>2.751</td><td>3.147</td><td>20</td></tr><tr><td>Total</td><td>1.874</td><td>3.815</td><td>46</td></tr><tr><td rowspan=\"3\">shangsheng(21)</td><td>female</td><td>.807</td><td>4.781</td><td>26</td></tr><tr><td>male</td><td>2.778</td><td>3.630</td><td>20</td></tr><tr><td>Total</td><td>1.664</td><td>4.386</td><td>46</td></tr><tr><td rowspan=\"3\">qusheng(51)</td><td>female</td><td>-4.839</td><td>4.621</td><td>26</td></tr><tr><td>male</td><td>-2.811</td><td>3.713</td><td>20</td></tr><tr><td>Total</td><td>-3.957</td><td>4.326</td><td>46</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/82d2ba2897a53fbba73bec33d794acf06be83cf0cc5a1d708bb3fa0a82dd3e6e.jpg",
+        "img_caption": [
+            "Table 3.Means and SDs of VAT of different tones and genders among the 46 subjects ",
+            "Figure 5.Means of VAT as a function of tone and gender (46 subjects). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1TONESANDHI ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "One debate concerning tone sandhi in Mandarin Chinese had been whether the tone sequence 3-3 is homophonous with the sequence 2-3. The issue was eventually settled by Wang et al (1967,2006) with a perception experiment. The 130 pairs of test items used in his research were thus designed: The two members of each pair shared the same phonological features except that of pitch contour; In other words,one member carried the tone sequence 2-3 while the other carried 3-3.These items were recorded in random order and then presented randomly for native speakers of Mandarin to listen to and identify whether they were sequences 3-3 or 2-3.None of the listeners were able to present a rate of accuracy over $5 5 \\%$ ,and even the person from whom the test items had been recorded couldn't correctly identify over $60 \\%$ of them，suggesting that the yangping pitch contour (35) derived from shangsheng (214) was perceptually no different from that of the common yangping (35).The result of the first one-sample t test done in the present study supports this argument from the perspective of physiology: VAT values of the second tone derived from the third tone are not significantly different from those of the common second tone,suggesting that all the yangping contours,whether original or derived, share similar laryngeal adjustments at their voice onsets,and therefore display approximate features of vocal attack. In a word, both perception and physiology point to one conclusion: The pitch contour 214 before another 214 is indeed phonemically the same as yangping.The result of the second one-sample $t$ test leads to a similar judgment: The onsets of phonation of all the qusheng contours,whether the original 51 or the ones derived from 55,are physiologically alike,and the two kinds should be perceptually no different. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2VATANDLEXICALTONES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The second finding from the analyses above can be summarized as follows:In a large group of Mandarin speakers,the two lexical tones with high-pitch onsets, yinping (55) and qusheng(51),display smaller VAT values,but the other two with low-pitch onsets,yangping (35) and shangsheng (21), present much larger ones (see tables 1 and 2 and figures 1,2,3 and 5); In other words,a higher rate of vocal-fold oscillation tends to be associated with a shorter VAT value,and vice versa.This negative VAT-FO correlation at the linguistically constrained voice onset is also seen in the three level tones of Cantonese (Ma et al.,20l2):In females,mean VATs of high,mid and low level tones are respectively 0.72 ms,1.70 ms,1.78 ms; In males, mean VATs of high,mid,low level tones,although longer than those in females,are also thus lined up, $3 . 9 9 \\mathrm { { m s } }$ ， $4 . 6 4 \\mathrm { { m s } }$ ， $4 . 6 9 \\mathrm { m s }$ .However, Tables 2 and 3 also indicate counterexamples:For both males and females,mean VATs of shangsheng (21) should always be larger than those of yangping (35),because the former has a lower initial pitch than the latter;but this is actually not the case.These conform to the finding of the VAT study on 5 linguistically unconstrained pitch levels in Mandarin (Zhang et al).In a large group of people,as pitch levels shift from one to five, there is a linear increase of pitch,but a nonlinear decrease of VAT: from Levels Two to Five,each mean value of VAT is not always larger than the one that follows; But, the average VAT at Level One is always the largest among the five pitch levels,and is much larger than that of all the others.Therefore,for both linguistically constrained and unconstrained vocal onsets,VAT and pitch tend to present a nonlinear contra-variant relationship in most mandarin speakers. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3INDIVIDUALDIFFERENCS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "46 of the 72 subjects produced the low-pitch onsets of the second and third tones (35,   \n21) with longer VAT means than they did the high-pitch onsets of the first and fourth ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "tones (55,51),while 26 of them showed inconsistent patterns of VAT means in pronouncing the four. This seems to support the findings by Zhang et al. that as pitch means increase linearly from Levels One to Five,mean VATs decrease nonlinearly in a large group of people but increase nonlinearly in a small group of them,and that different people incline to use different strategies in increasing pitch height. However, among the 26 subjects observed in the present study,mean VATs of four tones are ordered as yangping (35) $1 . 7 3 6 ~ \\mathrm { m s } >$ yinping (55） 1.586ms $>$ qusheng (51) 0.697 ms $>$ shangsheng (21) $0 . 3 7 5 ~ \\mathrm { m s }$ ,and a positive VAT-FO correlation is not seen at the phonation onsets of the four tones.What caused the individual differences needs to be further investigated. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Firstly,vocal attack time,as a measure of phonatory function of the vocal folds, shows no significant difference between the common yangping and the yangping derived from shangsheng，and between the common qusheng and the qusheng derived from yinping.This is physiologically in support of the argument that the tone sequence 3-3 in Mandarin is indeed converted into 2-3,nothing else.Secondly, the tones of Mandarin Chinese that start from low pitch levels (35,21) tend to present significantly different VAT values from those that start from high pitch levels (55, 51), with mean VATs of the former being much longer than those of the latter. This is with the nonlinear contra-variant relationship between VAT and FO at the vowel onsets.Thirdly, there are deviations or individual differences:a small number of people do not follow this pattern. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "NOTES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.This research was funded by the National Social Sciences Foundation of China.   \nGrant No:10&ZD125. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "·BAKENR.J.and OrlikoffR.F.1998a.Vocal fold adduction time estimated from glottographic signals. Presented at: the $2 5 ^ { \\mathrm { t h } }$ Mid-Winter Meeting of the Association for Research in Otolaryngology; February 1998; St. Petersburg, FL. .1998b.Estimating vocal fold adduction time from EGG and acoustic records. In: Schutte HK,Dejonckere P,Leezenberg H, Mondelaers B,HF, eds.Programme and Abstract Book: $2 4 ^ { \\mathrm { t h } }$ IALP Congress,Amsterdam; 1998:15. ·MaE.BakenR.J.and RoarkR.M.2012.Effect of Tones on Vocal Attack Time in ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cantonese Speakers.Journal of Voice,Vol.26, issue.5, pp. 670.el-670.e6.   \n·ROARK R.M.Watson B.C.and Baken R.J.2012.A Figure of Merit for Vocal Attack Time Measurement.Journal of Voice. Vol.26, issue 1, pp.8-11.   \n.Watson B.C.BakenR.J.BrownD.J.etal.2012.Measuresof Vocal Attack Time for Healthy Young Adults.Journal of Voice.Vol.26, issue 1,pp.12-17. ·ORLIKOFF,R.F.Deliyski D.D.Baken R.J.and Watson B.C.2009.Validation of a Glottographic Measure of Vocal Attack.Journal of Voice.Vol 23,issue 2, pp.164-168.   \n■WANG W. S-Y. Li, K.P.1967. Tone 3 in Pekinese.Journal of Speech Hearing Research.10 (3),pp.629-36.   \n_.Peng Gang.2Oo6.Language, Speech and Technology. Shanghai Educational Publishing House.pp.120-121.   \n·CHAO Yuen Ren.1970.A Grammar of Spoken Chinese.University of California Press,Berkeley, Los Angeles,London. pp.18-25.   \n■ZHANG Ruifeng,Baken R.J,Kong Jiangping. Vocal Attack Time of Different Pitch Levels and Vowels in Mandarin.Journal of Voice (in press). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "普通話四聲的VAT研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "孔江平 張銳鋒 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "北京大學中國語言文學系中國語言學研究中心語言與人類複雜系統聯合研究中心",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "提要",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "漢語作為典型的聲調語言，有著四個能區分意義的詞調：陰平(55)，陽平(35)，上聲（214)，去聲（51）。但由於連讀變調，在語流中經常出現的四聲調值爲：陰平（55），陽平（35），上聲（21）和去聲（51）。本文旨在研究漢語普通話者的VAT與聲調的關係，並探索起始於不同音高層級的聲調對VAT的影響情況。我們從72位發音人（男30人和女42人同時錄製了50個雙音節詞的SP和EGG信號，所有發音人均為二十多歲的在校大學生或研究生·單獨樣本的T檢驗表明：陽平及由上聲變來的陽平，去聲及由陰平變來的去聲在VAT值上不存在顯著性差異·這就從生理上支持了兩上聲相連，前上變陽平的觀點·二因素重複測量的方差分析表明：起始於低音高層級的聲調的VAT值與起始於高音高層級的聲調的VAT值存在顯著性差異，前者的VAT值明顯大於後者。但還存在個體差異，72位發音人中有26位不符合這一模式。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "關鍵字",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "聲門碰撞時間 字調 發聲起始 非線性反變關係",
+        "page_idx": 11
+    }
+]

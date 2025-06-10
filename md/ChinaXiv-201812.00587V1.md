@@ -1,0 +1,164 @@
+复合有机微量元素对崇仁麻鸡生长性能和粪便中微量元素含量的影响宋琼莉 陈小连 周泉勇 韦启鹏 刘林秀 邹志恒\* 谢金防\*（江西省农业科学院畜牧兽医研究所，南昌330200）
+
+摘要：本试验旨在研究不同水平复合有机微量元素替代无机微量元素对崇仁麻鸡生长性能和粪便中微量元素含量的影响。选择 28日龄、初始体重相近的崇仁麻鸡 256只（公母各占1/2），随机分为4组，每组4个重复，每个重复16只鸡。I组为对照组（标准水平无机组)，微量元素铁、铜、锰、锌的添加水平分别为80、8、80 和 $6 0 \mathrm { m g / k g }$ （以无机盐形式添加）；$\mathrm { I I } \sim \mathrm { I V }$ 组分别以 $50 \%$ 、 $7 5 \%$ 和 $100 \%$ 复合有机微量元素替代无机微量元素。各组其他营养水平保持一致。预试期7d，正试期 $2 8 \mathrm { d }$ 。结果表明：1）各组崇仁麻鸡的平均日增重、平均日采食量和料重比均无显著差异（ $P { > } 0 . 0 5 \$ )。2）与对照组相比，ⅡI、IⅢ和IⅣ组崇仁麻鸡的血清尿素氮含量显著降低（ $P { < } 0 . 0 5$ ）；III和IV组的血清碱性磷酸酶和 $5 \mathrm { ^ { \prime } - }$ 核苷酸酶活性显著增加（ $P { < } 0 . 0 5$ ）。3）各组崇仁麻鸡粪便中铜和铁含量无显著差异（ $\cdot P { < } 0 . 0 5 )$ 。与对照组相比，I组粪便中锌和锰含量显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。综合各项指标，在不影响肉鸡生长性能的情况下，以饲粮中添加 $50 \%$ 复合有机微量元素替代无机微量元素对减少粪便中铜、铁、锌、锰含量的效果较好。
+
+关键词：微量元素；崇仁麻鸡；生长性能；粪便中图分类号：S816.71；S831 文献标识码：A 文章编号：
+
+微量元素是维持动物健康和正常生理机能所必需的营养物质，在动物体内主要以酶的必需组成成分（辅酶、辅基等）或激活剂等形式参与体内的一系列生理、生化反应，从而影响物质代谢和生长发育[1-2]。为了防止微量元素不足，保证动物健康和正常生长发育，提高动
+
+收稿日期：2017-09-06
+
+基金项目：江西省科技计划（20132BBF60046、20151BBF60063)；国家肉鸡产业技术体系(CARS-41-Z09)；农业部饲料生物技术重点实验室开放课题  
+作者简介：宋琼莉（1975—)，女，江西丰城人，副研究员，学士，从事动物营养和饲料添加剂研究。E-mail: songqiongli1975@126.com  
+\*通信作者：邹志恒，研究员，硕士生导师，E-mail: zouzhihengxms@163.com；谢金防，研究员，硕士生导师，E-mail:xiejfl66@163.com
+
+物的生产性能，畜禽生产中通常在饲粮中添加一定量的微量元素。目前畜禽饲粮中的微量元素（铜、铁、锌和锰）都是以无机盐的形式（如硫酸盐、氧化物和氯化物）添加的。由于无机微量元素价格便宜，为保证足够的营养水平，在生产中出现了过量添加的现象。畜禽对无机微量元素的吸收率较低，没有被吸收的微量元素随粪便排出体外，从而给生态环境带来了较大的影响。研究表明，有机微量元素（氨基酸螯合物和蛋白质螯合物）具有稳定性好、吸收率高、生物学效价高等优点[3-6]。但有关有机微量元素在肉鸡中的应用研究大多是以单一有机微量元素替代相应无机微量元素，而有关复合有机微量元素替代无机微量元素在肉鸡尤其是地方优质肉鸡中的应用研究较少。崇仁麻鸡是江西省优良地方特色品种，被誉为全国十大名鸡之一，2015年获国家地理标志认证，具有抗逆性好、肉质鲜美等优点，但由于其生长速度较慢，严重地制约了崇仁麻鸡的发展。鉴此，本试验旨在以崇仁麻鸡为试验对象，研究不同水平复合有机微量元素替代无机微量元素对崇仁麻鸡生长性能和粪便中微量元素含量的影响，为确定其适宜添加量提供试验依据。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+试验所用无机微量元素均为饲料级，有机微量元素由广州隆达饲料有限公司生产并提供，无机及有机微量元素种类及规格见表1。
+
+表1无机及有机微量元素规格  
+Table 1The specifications of inorganic and organic trace elements   
+
+<html><body><table><tr><td>微量元素</td><td>有机微量元素</td><td>无机微量元素</td></tr><tr><td>Trace element</td><td>Organic trace elements</td><td>Inorganic trace elements</td></tr><tr><td>铜Cu</td><td>蛋氨酸铜(16%)</td><td>五水硫酸铜(25%)</td></tr><tr><td>铁Fe</td><td>甘氨酸亚铁(17%)</td><td>一水硫酸亚铁(32%)</td></tr><tr><td>锌Zn</td><td>蛋氨酸锌(17%)</td><td>一水硫酸锌(35%)</td></tr><tr><td>锰Mn</td><td>蛋氨酸锰(14%)</td><td>一水硫酸锰(32%)</td></tr></table></body></html>
+
+# 1.2 试验设计及基础饲粮
+
+选择28日龄、初始体重相近的崇仁麻鸡256只（公母各占1/2），随机分为4组，每组4个重复，每个重复16只鸡。I组为对照组（标准水平无机组），参照中国《鸡饲养标准》（NY/T
+
+33—2004)，微量元素铁、铜、锰、锌的添加水平分别为80、8、80和 $6 0 \mathrm { m g / k g }$ （以无机盐形式添加）； $\mathbf { \boldsymbol { \mathrm { I I } } } \sim \mathbf { \boldsymbol { \mathrm { I V } } }$ 组分别以 $50 \%$ 、 $7 5 \%$ 和 $100 \%$ 有机微量元素替代无机微量元素。基础饲粮中铁、铜、锰、锌的含量分别为7.93、75.28、30.72和 $2 7 . 3 7 \mathrm { m g / k g }$ 。各组其他营养水平保持一致。基础饲粮组成及营养水平见表2。
+
+# 表2基础饲粮组成及营养水平(风干基础)
+
+Table 2Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米Corn 64.00</td></tr><tr><td>豆粕 Soybean meal 23.00</td></tr><tr><td>鱼粉 Fish meal 5.00</td></tr><tr><td>脂肪粉Fatty powder 3.00</td></tr><tr><td>5.00 预混料 Premix1)</td></tr><tr><td>合计 Total 100.00</td></tr><tr><td>营养水平 Nutrient levels²</td></tr><tr><td>代谢能 ME/(MJ/kg) 12.58</td></tr><tr><td>粗蛋白质 CP 18.96</td></tr><tr><td>钙Ca 0.93</td></tr><tr><td>总磷TP 0.66</td></tr><tr><td>赖氨酸Lys 1.25</td></tr><tr><td>蛋氨酸 Met 0.48</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys 0.66</td></tr><tr><td>色氨酸Try 0.16</td></tr><tr><td>苏氨酸 Thr 0.76</td></tr><tr><td>精氨酸Arg 1.25</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the following per $\mathbf { k g }$ of the diet: VA 12 500 IU，VD 2 500 IU，VE $2 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } \ 8 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 7 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 \ : \mathrm { m g }$
+
+$D$ -泛酸 $D$ -pantothenic acid $2 0 ~ \mathrm { m g }$ ，烟酸niacin $5 0 \mathrm { m g }$ ，生物素 biotin $0 . 1 ~ \mathrm { m g }$ ，叶酸 folic acid$1 . 5 \mathrm { m g }$ ，Se $0 . 1 6 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 6 \ : \mathrm { m g }$ 。
+
+2)代谢能为计算值，其余营养水平为实测值。ME was a calculated value，while the other nutrient levels were measured values.
+
+# 1.3 饲养管理
+
+试验鸡采用网上分栏平养，自然光照和人工光照相结合，自由采食和饮水，每天早、中、晚各投1次料，观察试验鸡群的健康状况、采食、饮水及粪便等。按常规程序进行消毒和免疫。预试期7d，正试期 $2 8 \mathrm { d } .$ 0
+
+# 1.4 测定指标及方法
+
+# 1.4.1 生长性能
+
+试验期间以重复为单位记录各组试验鸡的喂料量、剩料量、初始体重和终末体重，计算各组试验鸡的平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G）。
+
+# 1.4.2 血清生化指标
+
+试验结束时，分别从各组取体重相近的试验鸡6只（公母各3只），翅静脉采血 ${ \boldsymbol { 5 } } \mathrm { m L }$ 分离血清，-20℃保存。血清碱性磷酸酶和 5'-核苷酸酶活性采用 Thermo Multiscan MK3 酶标仪[热电（上海）仪器有限公司]测定，血清尿素氮含量采用PUS-2018型半自动生化分析仪（北京普朗新技术有限公司）测定，试剂盒均购自南京建成生物工程研究所。
+
+# 1.4.3 粪便中微量元素含量
+
+试验结束时停料，空腹24h后开始饲喂，饲喂开始时用铺好塑料薄膜的收粪盘收集粪便。饲喂72h后清理料槽中剩余的饲料，继续空腹 $2 4 \mathrm { h }$ ，此间一直收集粪便。收集完毕，先清理干净粪便上的鸡毛、皮屑和饲料（扣除采食量），然后将粪便充分混合，准确称取150g于（ $6 5 { \pm } 1$ ）℃烘箱烘干，回潮 $2 4 \mathrm { h }$ ，称重，粉碎，制成风干粪样用于微量元素含量的检测。粪样中铁、铜、锰、锌含量采用TAS-986F原子吸收分光光度计（北京普析通用仪器有限公司）测定。
+
+# 1.5 数据处理和分析
+
+采用SPSS16.0统计软件中单因素方差分析（one-wayANOVA）程序进行方差分析，差异显著者进行Duncan氏法多重比较。 $P { < } 0 . 0 5$ 为差异显著，所有结果均以“平均值 $\pm$ 标准差”
+
+表示。
+
+# 2结果
+
+2.1不同水平复合有机微量元素对崇仁麻鸡生长性能的影响由表3可知，各组崇仁麻鸡的平均日增重、平均日采食量和料重比均无显著差异（ $_ { , P > 0 . 0 5 ) }$ 。
+
+# 表3不同水平复合有机微量元素对崇仁麻鸡生长性能的影响
+
+Table 3Effects of complex organic trace elements at different levels on growth performance of   
+
+<html><body><table><tr><td colspan="6">Chongren chickens</td></tr><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td><td>P-value</td></tr><tr><td>平均日增重 ADG/g</td><td>19.11±0.15</td><td>18.93±0.62</td><td>19.23±0.92</td><td>19.49±0.39</td><td>0.602</td></tr><tr><td>平均日采食量 ADFI/g</td><td>94.26±2.57</td><td>95.15±1.90</td><td>93.63±1.46</td><td>93.60±1.59</td><td>0.498</td></tr><tr><td>料重比F/G</td><td>4.93±0.16</td><td>5.03±0.27</td><td>4.87±0.32</td><td>4.80±0.13</td><td>0.805</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with the same or no letter superscripts mean no significant difference （204号 $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2不同水平复合有机微量元素对崇仁麻鸡血清生化指标的影响
+
+由表4可知，与对照组相比，ⅡI、Ⅲ和IⅣ组崇仁麻鸡的血清尿素氮含量分别显著降低了$5 5 . 4 5 \%$ 、 $3 2 . 6 7 \%$ 和43.56 ( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）；ⅢI和IV组的血清碱性磷酸酶活性分别显著增加了 $7 4 . 7 8 \%$ 和 $1 0 7 . 8 8 \%$ （ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），血清5'-核苷酸酶活性分别显著增加了 $91 . 7 6 \%$ 和 $1 6 6 . 4 7 \%$ （ $\scriptstyle \cdot < 0 . 0 5$ ）。
+
+表4不同水平复合有机微量元素对崇仁麻鸡血清生化指标的影响
+
+Table 4Effects of complex organic trace elements at different levels on serum biochemical indexes of Chongren chickens   
+
+<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="6"></td></tr><tr><td>碱性磷酸酶 AKP/（U/L）</td><td>4.41±0.98b</td><td>4.29±1.16b</td><td>7.70±2.50a</td><td>9.16±3.10a</td><td><0.001</td></tr><tr><td>尿素氮 UN/（mmol/L）</td><td>1.01±0.24a</td><td>0.45±0.07c</td><td>0.68±0.12b</td><td>0.57±0.07bc</td><td><0.001</td></tr><tr><td>5'-核苷酸酶 NT5/（U/L)</td><td>1.70±0.86b</td><td>2.83±1.35ab</td><td>3.26±1.41a</td><td>4.53±1.21a</td><td>0.001</td></tr></table></body></html>
+
+2.3不同水平复合有机微量元素对崇仁麻鸡粪便中微量元素含量的影响
+
+由表5可知，各组崇仁麻鸡粪便中的铜和铁含量无显著差异（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )。与对照组相比，ⅡI组粪便中的锌含量显著降低 $2 9 . 2 1 \%$ （ $_ { . P < 0 . 0 5 ) }$ ；锰含量显著降低 $2 5 . 6 2 \%$ ( $_ { . P < 0 . 0 5 } )$ ）
+
+表5不同水平复合有机微量元素对崇仁麻鸡粪便中微量元素含量的影响 （204号 $\mathrm { { m g / k g } }$ Table 5Effects of complex organic trace elements at different levels on trace element contents offecesof Chongrenchickens   
+
+<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>IV组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>Group IV</td><td>P-value</td></tr><tr><td>铜Cu</td><td>85.93±7.01</td><td>64.62±14.48</td><td>80.42±11.15</td><td>75.73±6.55</td><td>0.153</td></tr><tr><td>铁Fe</td><td>945.47±16.87</td><td>852.56±102.62</td><td>902.45±310.62</td><td>1 003.80±20.95</td><td>0.925</td></tr><tr><td>锌Zn</td><td>320.32±21.26a</td><td>226.75±33.31b</td><td>312.68±45.79a</td><td>349.48±25.82a</td><td>0.009</td></tr><tr><td>锰Mn</td><td>406.82±24.64a</td><td>302.63 ±29.79b</td><td>376.88±28.87a</td><td>425.35±44.03a</td><td>0.008</td></tr></table></body></html>
+
+# 3讨论
+
+3.1不同水平复合有机微量元素对崇仁麻鸡生长性能的影响
+
+研究表明，饲粮中添加低剂量有机微量元素替代无机微量元素可维持肉鸡正常的生长需要[2]。胥彩玉等[1]报道，肉仔鸡基础饲粮中用 $50 \%$ 甘氨酸螯合铁、蛋氨酸螯合铜、蛋氨酸螯合锌和蛋氨酸螯合锰替代无机微量元素可提高肉仔鸡的生长性能。陆娟娟等[7研究发现，用不同比例的蛋氨酸螯合物(铜、铁、锌、锰)替代相应无机微量元素可一定程度提高肉鸡的生产性能。本试验结果也表明，饲粮中添加低水平有机微量元素替代无机微量元素对崇仁麻鸡的生长性能无显著影响，与前人研究结果相一致。
+
+3.2不同水平复合有机微量元素对崇仁麻鸡血清生化指标的影响
+
+碱性磷酸酶是动物生长和发育的重要酶，提高血液碱性磷酸酶活性有利于加快动物的生长速度[8-9]。血清尿素氮是反映机体蛋白质和氨基酸代谢的重要指标，血清尿素氮含量低表明机体蛋白质合成率高[10]。5'-核苷酸酶是一种特殊的磷酸水解酶，可作用于磷酸酯键，能分解核酸生成核苷和无机磷酸，为机体提供各种单核苷酸，参与能量代谢及RNA的分解代谢[11-13]。本试验结果表明，饲粮中添加复合有机微量元素替代无机微量元素可显著降低血清尿素氮含量，其中添加 $1 7 5 \%$ 和 $100 \%$ 复合有机微量元素替代无机微量元素可显著提高血清碱性磷酸酶和5"-核苷酸酶活性。这说明饲粮中添加复合有机微量元素能够促进动物机体蛋白质的合成利用，提高动物的生长性能，与肖俊武等[14]研究结果相一致。
+
+3.3不同水平复合有机微量元素对崇仁麻鸡粪便中微量元素含量的影响
+
+当饲粮中微量元素不足时，会影响动物的健康水平和生产性能；微量元素过量时，粪便中过多的微量元素又会增加环境负担。研究表明，降低饲粮中微量元素的添加水平可有效减少粪便中微量元素含量[15-16]。研究也表明，氨基酸螯合物具有较高的生物学效价[17-19]，饲粮中用微量元素氨基酸螯合物替代无机微量元素可以降低微量元素的添加剂量，减少粪便中微量元素的含量[20]。本试验结果表明，饲粮中添加 $50 \%$ 复合有机微量元素替代无机微量元素可显著降低粪便中锌和锰的含量。这说明通过添加高效价的微量元素氨基酸螯合物，降低饲粮中微量元素的添加量，可有效减少粪便中微量元素含量，与前人研究结果基本一致。但本研究中添加 $100 \%$ 复合有机微量元素替代无机微量元素，粪便中铁、锌、锰的含量均有所增加，这说明在饲粮中添加较高水平的复合有机微量元素不仅造成浪费，还会增加粪便中微量元素的含量。可能是由于动物体内某些微量元素过量时，其吸收机制与缺乏时不同，而导致相应元素的利用率降低，具体原因有待进一步研究。
+
+# 4结论
+
+$\textcircled{1}$ 饲粮中添加 $50 \%$ 、 $7 5 \%$ 和 $100 \%$ 复合有机微量元素替代无机微量元素对崇仁麻鸡的生长性能无显著影响。
+
+$\textcircled{2}$ 饲粮中添加 $50 \%$ 、 $7 5 \%$ 和 $100 \%$ 复合有机微量元素替代无机微量元素可显著降低崇仁麻鸡的血清尿素氮含量，添加 $7 5 \%$ 和 $100 \%$ 复合有机微量元素替代无机微量元素可显著增加血清碱性磷酸酶和5'-核苷酸酶活性。
+
+$\textcircled{3}$ 在本试验条件下，饲粮中添加 $50 \%$ 复合有机微量元素替代无机微量元素，可有效降低崇仁麻鸡粪便中微量元素含量。
+
+参考文献:
+
+[1]胥彩玉,胥彩霞,刘国华,等.有机与无机微量元素比例对肉仔鸡生长和组织生化指标的影响
+
+[J].动物营养学报,2015,27(5):1549-1558.  
+[2]蔡超,魏艳红,曲湘勇,等.有机微量元素替代无机微量元素在猪与鸡粪便减排中的研究进展[J].湖南饲料,2015(2):20-23.  
+[3]朱玉琴,索爱萍 $. 0 { \sim } 4$ 周龄肉仔鸡不同锰源锰需要量的研究[J].畜牧兽医学  
+报,1998,29(2):121-127.  
+[4]周锦兰,俞开潮,吴灵英,等.蛋氨酸锌螯合物合成的改进及饲喂肉鸡的生物学效价的对比研究[J].粮食与饲料工业,2002(7):35-36.  
+[5]计峰,罗绪刚,刘彬,等.有机锰对自然饲喂肉仔鸡饲粮中锰吸收的影响[J].安徽农业大学学报,2005,32(2):146-149.  
+[6]孙秋娟,呙于明,张天国,等.羟基蛋氨酸螯合铜/锰/锌对产蛋鸡蛋壳品质、酶活及微量元素沉积的影响[J].中国农业大学学报,2011,16(4):127-133.  
+[7]陆娟娟,崔政安,夏中生,等.氨基酸微量元素螯合物替代无机微量元素对肉鸡饲养效果的影响[J].粮食与饲料工业,2011,12(6):43-46.  
+[8]杨华,傅衍,陈安国,等.猪血液生化指标与生产性能的关系[J].国外畜牧科  
+技,2001,28(1):34-37.  
+[9]胡新旭,周映华,卞巧,等.无抗发酵饲料对生长育肥猪生产性能、血液生化指标和肉品质的影响[J].华中农业大学学报,2015,34(1):72-77.  
+[10]OBIKAONU HO ,OKOLI I C ,OPARA M N,et al.Haematological and serum biochemicalindices of starter broilers fedneem (Azadirachtaindica) leaf meal[J].Journal of Animal FeedResearch,2011,1(4):150-154.  
+[11]张秀明,李健斋,魏明竞,等.现代临床生化检验学[M].北京:人民军医出版  
+社,2001:1260-1264.  
+[12]李晓波,殷莲华,周平.5'-核苷酸酶的研究进展[J].国外医学（生理、病理科学与临床分册）,2004,24(2):122-124.  
+[13]杨仁国,柳枝,黄欣,等.5'-核苷酸酶和碱性磷酸酶联合测定临床意义探讨[J].实验与检验医学,2010,28(3):327.  
+[14]肖俊武,缪军,廖阳华,等.不同形态微量元素对肉鸡生产、屠宰性能和血清酶活性的影响[J].
+
+饲料博览,2013(11):1-5.
+
+[15]BURKETT JL,STALDER K J,POWERS W J,et al.Effect of inorganic and organic trace mineral supplementation on the performance, carcass characteristics,and fecal mineral excretion of phase-fed, grow-finish swine[J].Asian-Australasian Journal of Animal Sciences,2009,22(9):1279-1287.
+
+[16]BUFF C E,ELLERSIECK MR,BROMMELSIEK W A,et al.Comparison of growth performance and zinc absorption, retention,and excretion in weanling pigs fed diets supplemented with zinc-polysaccharide or zinc oxide[J].Journal of Animal Science,20o5,83(10):2380-2386.
+
+[17]王敏奇.氨基酸微量元素螯合物在动物营养中的研究进展[J].生物学通报,2001,36(11):5-8.[18]姚宝强,刘丽.氨基酸微量元素螯合物的研究与应用[J].兽药与饲料添加剂,2008,13(3):19-22.
+
+[19]王金伟,姜亚,张兴,等.氨基酸微量元素螯合物在畜禽营养中的应用[J].饲料博览，2013(2):35-37.
+
+[20]郭福存,宗杨,路璐.有机微量元素对养鸡生产的影响[J].饲料研究,2007(8):42-43.
+
+Effects of Complex Organic Trace Elements on Growth Performance and Trace Element Contents of feces of Chongren Chickens
+
+SONG QiongliCHEN Xiaolian ZHOU QuanyongWEI Qipeng LIU Linxiu ZOU Zhiheng\* XIE Jinfang\* (Institute of Animal Husbandry and Veterinary Science, Jiangxi Academy of Agricultural Sciences, Nanchang 330200, China)
+
+Abstract: This research was conducted to explore the effects of complex organic trace elements at different levels replacing inorganic trace elements on growth performance and trace element contents of feces of Chongren chickens. Two hundred and fifty six 28-day-old Chongren chickens (males and female in half) with similar initial body weight were randomly divided into 4 groups with 4 replicates per group and 16 chickens per replicate. The chickens in control group (group I, standard level inorganic group) were fed the diets supplemented with $8 0 ~ \mathrm { m g / k g }$ Fe, 8 mg/kg Cu, $8 0 \mathrm { m g / k g }$ Mn and $6 0 ~ \mathrm { m g / k g ~ Z n }$ in inorganic salt. The others in groups I to $\mathrm { I V }$ were fed the diets supplemented with complex organic trace elements at $50 \%$ ， $7 5 \%$ and $100 \%$ replacing inorganic trace elements,respectively. The other nutrient levels were the same in all groups. The pre-test lasted for 7 days,and the experiment lasted for 28 days. The results showed as follows: 1) there were no significant differences in average daily gain, average daily feed intake and the ratio of feed to gain of Chongren chickens in all groups $( P { > } 0 . 0 5 )$ .2) Compared with control group,the content of serum urea nitrogen of Chongren chickens in groups I1， Il and $\mathrm { I V }$ was significantly decreased $( P { < } 0 . 0 5 )$ ，and the activities of alkaline phosphatase and $5 ^ { \prime }$ -nucleotidase in serum in groups II and $\mathrm { I V }$ were significantly increased ( $( P { < } 0 . 0 5 )$ .3）There were no significant differences in the contents of Fe and $\mathrm { C u }$ of feces of Chongren chickens in all groups $( P { > } 0 . 0 5 )$ ). Compared with control group, the contents of $Z \mathrm { n }$ and Mn of feces of Group I were significantly decreased （204号 $( P { < } 0 . 0 5 )$ . According to the results， dietary $50 \%$ complex organic trace elements replacing inorganic trace elements can obtain the better efects of decreasing the contents of Cu,Fe, Zn and Mn of feces without affecting growth performance of chickens. Key words: trace element; Chongren chickens; growth performance; feces

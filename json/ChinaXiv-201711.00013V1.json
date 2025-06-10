@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "Spray Characteristics of Biodiesel Fuel in Constant Volume Chamber using Multi-response Optimization Technique ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P. Raghu1\\*, N. Nallusamy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Sri Venkateswara CollgeofEngineering,DepartmentofMechanical Engineering,Sriperumbudur-602117,Tamilnadu, India   \n2.SSNCollgeofEngineering,Departmentof Mechanical Engineering,OMR,Kalavakkam-603110,Tamilnadu,India ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This study discusses about the optimization of spray characteristics of biodiesel fuel in a spray chamber. Three factors namely,fuel injection pressure,fuel temperature and fuel blends were chosen as the influencing factor for the set objective.Four levels were chosen in each factor and spray tip penetration,spray cone angle and Sauter mean diameter (SMD) were taken as the response variables. Experiments were designed by employing design of experiments method and Taguchi fullfactorial array was used to conduct the tests with different levels of the chosen factors. Multi Response Signal to Noise ratio (MRSN) was calculated for the response variables and the optimum combination level of factors was obtained simultaneously using Taguchi's parametric design. Confirmation experiments were conducted for the obtained optimum combination level of factors and the results were compard with the normal operating conditions and significant improvement were observed in the response variables. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Taguchi, Design of experiments, Spray tip penetration, spray cone angle,ANOVA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Taguchi is the developer of the Taguchi method.It is a powerful tool for the design of high quality systems.It provides a simple,efficient and systematic approach to optimize performance,quality and cost. Taguchi design of experiments is most extensively used to determine the parameter values or setting required to achieve the desired function. Taguchi method can also be used to investigate the effects of interactions between the various factors which can be easily missed when using conventional methods.In recent years,the rapid growth of interest in the Taguchi method has led to numerous applications in a world wide range of industries and nations.Some of the literatures covering Taguchi approach are reviewed and presented for knowing its application in engine and manufacturing related work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The simultaneous optimization study on diesel engine design and operating parameters for low exhaust emissions using Taguchi method.A single cylinder, research diesel engine equipped with a high pressure,cam driven, electronic unit injector was used for optimization experiment. The measurements obtained after optimum parameter settings showed that the particulates and $\\mathrm { N O } _ { \\mathrm { x } }$ emissions were significantly reduced. The Taguchi method was used to be a useful technique for the simultaneous optimization of engine parameters and exhaust emissions[1].Taguchi method for optimization of critical peening parameters and this method is used to formulate the experimental layout, to establish the order of predominance among the identified critical parameters and predict the optimal setting for each of the process parameters. The experimental results obtained were confirmed the adequacy and effectiveness of Taguchi approach[2]. To optimize the parameters such as rubber seed biodiesel blend, injection pressure and applied load of the single cylinder diesel engine with respect to specific fuel consumption and brake thermal efficiency through the Taguchi and ANOVA technique method was used.The optimum values of the parameters were found using Signal-Noise ratio.Analysis of variance(ANOVA) was used to investigate the influence of parameters on the response [3]. To optimize three parameters such as blend proportion, injection timing and injection pressure, a simultaneous optimization method called Taguchi was used in their work.This method requires fewer numbers of trails for fixing optimum levels.In addition,An ANOVA was also performed for the parameters to evaluate its percentage contribution over the desired output[4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The spray characteristics of fuel play a vital role in the combustion process,performance and emission characteristics of diesel engine. Generally, small droplet size and large spread area of the fuel blends spray are considered as important factors to improve the atomization ability and to enhance the combustion efficiency. Variation of fuel injection pressure, fuel temperature, type of fuel blends has a considerable effect on spray parameters of fuel.Hence fuel injection pressure, fuel temperature and fuel blends are selected as factors for the present investigation. The higher viscosity causes mixture to burn lean in the engine as fuel moves slowly through fuel filters andfuel lines. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In spray study, the inertia force and air drag force are more important factors compared to the viscous force and surface tension force [5].Droplet size and its distribution follows the vibration and breakup process.The effects of spray flow rate,spray height and inlet temperature on spray cooling were investigated and the corresponding droplet axial velocity and SMD were correlated with mean absolute error of $1 5 \\%$ [6].As the ratio of biodiesel in the blends increased, spray tip penetration increased, but the spray cone angle decreased [7].A reduced fuel viscosity leads to a slim spray that is characterized by a reduced spray width and an increased spray penetration [8].Spray characteristics of the fuel mainly depend on fuel injection pressure,fuel density, fuel viscosity,ambient pressure and temperature [9].The penetrating speed during the initial stage is primarily controlled by the competition between the inertia and surface tension [10]. Atomization and mixing of sprays are key parameters to successfully describe and predict combustion in direct-injection engines [11]. Spray tip penetration (spray length) is the distance between the injector tip and longest spot in the spray image and is obtained using graphical tool of pro analyst software.Spray cone angle is the angle formed by two straight lines drawn from the tip of the injector to the outer periphery of the spray at a distance of one third of the spray length (s) downstream of injector tip and is obtained by drawing appropriate lines in the captured images using graphical tool. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental setup and procedures ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows the experimental setup for investigating the macroscopic spray characteristics of preheated biodiesel.It includes a spray chamber, preheating setup, fuel injection system,high speed video camera and a data acquisition system.Fuel injector is mounted on the top of the spray chamber.The injector is a simple mechanical fuel injector with delivery opening pressure varying from 180-240 bar. Fuel injector was connected to the fuel pump via a high pressure line and fuel pump is operated using an electric motor (O.25HP） for the experiments. The technique used for visualizing the liquid phase penetration is shadowgraphy technique with halogen lamp. The region of the spray has been illuminated by a halogen lamp and light scattered by liquid droplets has been capturedbyhigh speed video camera at the frame rate of 1250 fps with resolution of $( 8 0 0 \\mathrm { x } 6 5 0 )$ using Fastmotion software and further analyzed by ProAnalyst software. The ProAnalyst software was used to calculate the spray tip penetration(S） and spray cone angle $( \\Theta )$ for each frame.The spray characteristics of tested fuel blends for various injection pressures and fuel temperature were measured by applying image processing technique,by frame analysis for some random selected pictures.In order to ensure the repeatability of the experimental results each spray test was repeated four times and the values given in the study are the average of four measurements.Taguchi based design of experiments(DOE) method was employed to design the experiments for spray characteristics of biodiesel fuel. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/023b6d8cfac0d3d71b9c09258f9d7f6fbb9ab6dd931825660b184a4361b6397d.jpg",
+        "img_caption": [
+            "Fig.1Schematic diagram of experimental setup with fuel preheating arrangement "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Selectionoflevelsoffactors ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Factors chosen for the present investigations are not discrete canbemeasured ona scale.To find the effects of fuel injection pressure, fuel temperature and fuel blends on spray tip penetration，spray cone angle and SMD, their levels haven to be chosen from a minimum value to maximum value.For the present work,minimum and maximum value for the factor chosen based on the earlier research work conducted with those factors individually. Any value in between the minimum and maximum can be assumed to increase the levels of factors.For the present work, four levels were chosen for each factor to critically examine the effects of selected factors on the chosen objective as shown in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2e53d60b65fc217c31af9b18a97affe6704161d50f9033269bc91fb8548abbf.jpg",
+        "table_caption": [
+            "Table 1 Selection of factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Factor No</td><td rowspan=\"3\">Factors influencing the objective</td><td colspan=\"4\">Levels of factors</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>1</td><td>Fuel blends</td><td>JB20</td><td>KB20</td><td>JOME</td><td>KOME</td></tr><tr><td>2</td><td>Injection pressure,bar</td><td>180</td><td>200</td><td>220</td><td>240</td></tr><tr><td>3</td><td>Fuel temperature,℃</td><td>50</td><td>60</td><td>70</td><td>80</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Full factorial experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In full factorial experiment for three factors with four levels, the number of experiments to be conducted will be $4 ^ { 3 } = 6 4$ . Selection of full factorial experimental design matrix is shown in Table 2.In the present investigation, degree of freedom for the factors with four levels is 27 (3 $\\times 3 \\times 3 )$ and degrees of freedom for ${ \\mathrm { L } } _ { 6 4 }$ are 63 (number of trails-1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Analysisofdata ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three variables (spray tip penetration, spray cone angle and SMD) were chosen as the responses of the problem.The responses obtained for each trail at different operating conditions were analyzed to get a result for the formulated problem. In the analysis,average values of the responses measured at different operating conditions were considered as the responses for the trail. To optimize the combination of the level of the factors for the formulated problem,Multi Response Signal to Noise ratio (MRSN) was calculated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The procedure employed in the optimization process is describedbelow ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Loss Function ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Loss function is used to calculate the deviation between the experimental value and desired value.For each response variable, the corresponding loss function can be expressed as given below[12].As per the Taguchi's categorization of response variables,smaller the better principle is considered to minimize the spray tip penetration and SMD.For spray cone angle, larger the better principle is considered to maximize it. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For larger the better (Spray cone angle) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i j } = { \\frac { 1 } { n } } { \\sum _ { k = 1 } ^ { n } } { \\frac { 1 } { { y ^ { 2 } } _ { i j k } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For smaller the better (spray tip penetration and SMD) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i j } = \\frac { 1 } { n } { \\sum _ { k = 1 } ^ { n } y } ^ { 2 } { _ { i j k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where n is the number of repeated experiments , $\\mathrm { L _ { i j } }$ is the loss function of the $\\mathrm { i _ { t h } }$ response variable in the ${ \\mathrm { j } _ { \\mathrm { t h } } }$ experiment at the $\\bf k _ { \\mathrm { t h } }$ test. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Normalizing the Loss Function ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since the measured units of the response variables were dissimilar, the loss function was normalized in the range between zero and one.Normalization of loss function was done as follows[12]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For smaller the better (Spray tip penetration and SMD) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i j } = \\frac { \\operatorname* { m i n } L _ { i j } } { L _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the larger the better (Spray cone angle) ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i j } = \\frac { L _ { i j } } { \\operatorname* { m a x } L _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $\\mathrm { S _ { i j } }$ is the normalized loss function for the response variable in $\\mathrm { j _ { t h } }$ experiment, $\\mathrm { L _ { i j } }$ is the loss function for the $\\mathrm { i } _ { \\mathrm { t h } }$ response variable in the ${ \\mathrm { j } _ { \\mathrm { t h } } }$ experiment and $\\mathrm { L } _ { \\mathrm { i } }$ is the average loss function for the $\\mathrm { i } _ { \\mathrm { t h } }$ response variable. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Assigning weighting factor ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In multi response optimization, the relative significance of each response variable on the set objective with respect to others will be fixed by assigning proper weighting factor for each of the normalized quality loss function by including the weighting factor, the total loss function $\\mathrm { ( T L _ { f } ) }$ can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT L _ { j } = \\sum _ { k = 1 } ^ { m } w _ { i } s _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $\\mathbf { W _ { i } }$ is the weighting factor for the $\\mathrm { i _ { t h } }$ response variable and $\\mathbf { m }$ is the number of response.Weighting factors for the response variables are to be determined based on the priorities among the various responses.If equal importance is given to all the response variables, the weighting factors will have equal value such that the sum of the weighting factors is always unity. In an optimization process with three response variables,for the combination O.4,O.3 and O.3, the importance on first response variable is more when compared to the other two. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this way different combination as per the chosen objective can be taken to get optimum combination level of the influencing factors.The most influencing factor in achieving the objective for each permutation of the weighting factor was analyzed through Analysis of Variance (ANOVA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The main objective of the work was to reduce the spray tip penetration with minimum SMD and maximum spray cone angle.Hence higher weighting was assigned to spray tip penetration, when compared to the other two. Initially $0 . 4 ( \\mathrm { w } _ { 1 } )$ ， $0 . 3 ( \\mathrm { w } _ { 2 } )$ and $0 . 3 ( \\mathrm { w } _ { 3 } )$ were assigned as weighting factors for the response variable spray tip penetration, spray cone angle and SMD respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further it was varied to study the effect of weighting factor on the set objective. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MRSN ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In multi Response optimization of Taguchi loss function,Multi Response Signal to Noise ratio (MRSN) has to be maximized by using the formula given below[12] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathit { M R S N } = - 1 0 \\log ( T L _ { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Optimallevelofcombination fortheobtainedMRSN ratio with the assigned weighting factor was determined by following Taguchi parametric design. Variance of the MRSN ratio was analyzed through Analysis of Variance (ANOVA) and the level of importance of each factor on the response variables for the assigned weighting factor was identified from the ANOVA table.This procedure was repeated for different combinations of weighting factors to predict the effect of weighting factor on the set objective. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analysisof variance (ANOVA) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ANOVA is a statistical method used to interpret experimental data and make required decisions and it establishes the comparative significance of factors in terms of their percentage contribution to the response. Since three factors are involved in the present investigation, it is ne cessary to evaluate the significance and percentage contribution of each factor on the reduction of spray tip penetration with less sacrifice on spray cone angle and SMD.This analysis is performed on Signal to Noise ratio to find the contribution of the factors using Minitab-14 software.MSF is equal to ${ \\mathrm { S S } } _ { \\mathrm { f } }$ divided by the number of degree of freedom (DF) associated with the factors. The F-ratio provides a statistical value that can be compared to a probability distribution table for a given confidence level to identify the significant effect of each influencing factor on the responses. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Result and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Confirmation in experiment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Optimumcombination of factor levelsobtained through MRSN ratio and Taguchi parametric design was confirmed through the experiment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MRSN ratio ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the MRSN ratio for the experiments conducted for the weighting factors $\\mathrm { w } _ { 1 } \\mathrm { = } ~ 0 . 4$ ， $\\mathbf { w } _ { 2 } = 0 . 3$ and $\\mathbf { w } _ { 3 } = 0 . 3$ .From the Table 2,thecombination which has the maximum MRSN ratio will be taken as the best combination among 64 in achieving the objective.It can be observed that experiment number(4,4,1) is the best combination among the 64 experiments and Fig.2 shows the main effect plot for MRSN ratio. ANOVA was employedto analyze the MRSNratioobtainedwithdifferent combinations of weighting factors. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/95375f909f29e2a92a91cfbb38ec4187fdf44444284a792f4a0062334f86c6c5.jpg",
+        "table_caption": [
+            "Table2Taguchi full factorial design and MRSN ratio for $\\mathrm { w } _ { 1 } { = } 0 . 4$ $\\mathrm { w } _ { 2 } { = } 0 . 3$ $\\mathrm { w } _ { 3 } { = } 0 . 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Exp No</td><td rowspan=\"2\" colspan=\"2\">full factorial design</td><td rowspan=\"2\"></td><td colspan=\"3\">Loss function (Lij)</td><td rowspan=\"2\" colspan=\"2\">Normalization (Sij)</td><td rowspan=\"2\" colspan=\"4\">Weighting Factor</td><td rowspan=\"2\">Total loss</td><td rowspan=\"2\">function (TLj)</td><td rowspan=\"2\">MRSN ratio</td></tr><tr><td>S</td><td></td><td></td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>2498</td><td>0.004</td><td>113.84</td><td>0.92</td><td>0.76</td><td>0.69</td><td>0.37</td><td>0.22</td><td>0.20</td><td>0.784</td><td>0.9242</td></tr><tr><td>2</td><td>1</td><td>1</td><td>2</td><td>2410.8</td><td>0.004</td><td>111.5</td><td>0.958</td><td>0.71</td><td>0.71</td><td>0.38</td><td>0.21</td><td>0.213</td><td>0.797</td><td>0.90209</td></tr><tr><td>3</td><td>1</td><td>1</td><td>3</td><td>2400</td><td>0.0041</td><td>108.9</td><td>0.963</td><td>0.67</td><td>0.72</td><td>0.38</td><td>0.20</td><td>0.218</td><td>0.906</td><td>0.94297</td></tr><tr><td>4</td><td>1</td><td>1</td><td>4</td><td>2361.9</td><td>0.0040</td><td>107.6</td><td>0.978</td><td>0.65</td><td>0.73</td><td>0.39</td><td>0.19</td><td>0.220</td><td>0.892</td><td>0.92734</td></tr><tr><td>5</td><td>1</td><td>2</td><td>1</td><td>2554.2</td><td>0.006</td><td>102.4</td><td>0.905</td><td>1</td><td>0.77</td><td>0.36</td><td>0.3</td><td>0.232</td><td>0.847</td><td>0.48644</td></tr><tr><td>6</td><td>1</td><td>2</td><td>2</td><td>2475.6</td><td>0.0055</td><td>100.3</td><td>0.933</td><td>0.89</td><td>0.78</td><td>0.37</td><td>0.26</td><td>0.236</td><td>0.833</td><td>0.55987</td></tr><tr><td>7</td><td>1</td><td>2</td><td>3</td><td>2376.5</td><td>0.0051</td><td>98.01</td><td>0.972</td><td>0.82</td><td>0.80</td><td>0.38</td><td>0.24</td><td>0.242</td><td>0.882</td><td>0.55638</td></tr><tr><td>8</td><td>1</td><td>2</td><td>4</td><td>2311.6</td><td>0.0044</td><td>96.7</td><td>1</td><td>0.72</td><td>0.81</td><td>0.4</td><td>0.21</td><td>0.245</td><td>0.871</td><td>0.64244</td></tr><tr><td>9</td><td>1</td><td>3</td><td>1</td><td>3064.7</td><td>0.0051</td><td>93.04</td><td>0.754</td><td>0.82</td><td>0.85</td><td>0.30</td><td>0.24</td><td>0.255</td><td>0.759</td><td>0.9402</td></tr><tr><td>10</td><td>1</td><td>3</td><td>2</td><td>2813.2</td><td>0.0044</td><td>91.18</td><td>0.821</td><td>0.72</td><td>0.86</td><td>0.32</td><td>0.21</td><td>0.260</td><td>0.777</td><td>0.93834</td></tr><tr><td>11</td><td>1</td><td>3</td><td>3</td><td>2764.6</td><td>0.0040</td><td>89.05</td><td>0.836</td><td>0.65</td><td>0.88</td><td>0.33</td><td>0.19</td><td>0.266</td><td>0.824</td><td>0.97734</td></tr><tr><td>12</td><td>1</td><td>3</td><td>4</td><td>2621.4</td><td>0.0037</td><td>86.5</td><td>0.881</td><td>0.60</td><td>0.91</td><td>0.35</td><td>0.18</td><td>0.274</td><td>0.829</td><td>0.91821</td></tr><tr><td>13</td><td>1</td><td>4</td><td>1</td><td>3137.1</td><td>0.0044</td><td>85.2</td><td>0.736</td><td>0.71</td><td>0.92</td><td>0.29</td><td>0.21</td><td>0.27</td><td>0.752</td><td>1.02741</td></tr><tr><td>14</td><td>1</td><td>4</td><td>2</td><td>3047.0</td><td>0.0041</td><td>83.53</td><td>0.758</td><td>0.66</td><td>0.94</td><td>0.30</td><td>0.19</td><td>0.284</td><td>0.762</td><td>1.04510</td></tr><tr><td>15</td><td>1</td><td>4</td><td>3</td><td>2916</td><td>0.0035</td><td>81.28</td><td>0.792</td><td>0.57</td><td>0.97</td><td>0.31</td><td>0.17</td><td>0.292</td><td>0.844</td><td>1.06578</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/16bfbf5c552ce0ad1b7fc8fe6d70b4d62ec17578bf9f86e2255466b2a6fd59c1.jpg",
+        "table_caption": [
+            "Continued Table 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\"></td><td colspan=\"4\">SLOss funetin L SMD</td><td colspan=\"2\"></td><td colspan=\"4\"></td><td colspan=\"2\"></td></tr><tr><td></td><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td>Normalization (Sij)</td><td></td><td></td><td>Weighting Factor</td><td></td><td>Totn (TL)</td><td>MRSN</td></tr><tr><td>16</td><td>1 4</td><td></td><td>4</td><td>2787.8</td><td>0.0034 79.21</td><td>0.829</td><td>0.55</td><td>1</td><td>0.33</td><td>0.16</td><td>0.3</td><td>0.723</td><td>0.97679</td></tr><tr><td>17</td><td>2</td><td>1</td><td>1</td><td>2809</td><td>0.0047 132.5</td><td>0.822</td><td>0.75</td><td>0.59</td><td>0.32</td><td>0.22</td><td>0.179</td><td>0.721</td><td>1.32925</td></tr><tr><td>18</td><td>2 1</td><td></td><td>2</td><td>2652.2 0.004</td><td>122.9</td><td>0.871</td><td>0.70</td><td>0.64</td><td>0.34</td><td>0.21</td><td>0.193</td><td>0.741</td><td>1.22651</td></tr><tr><td>19</td><td>2 1</td><td></td><td>3</td><td>2501 0.004</td><td>116.5</td><td>0.924</td><td>0.66</td><td>0.67</td><td>0.36</td><td>0.19</td><td>0.203</td><td>0.824</td><td>1.11960</td></tr><tr><td>20</td><td>2 1</td><td></td><td>4</td><td>2480. 0.0039</td><td>111.6</td><td>0.932</td><td>0.63</td><td>0.70</td><td>0.37</td><td>0.18</td><td>0.212</td><td>0.806</td><td>1.10663</td></tr><tr><td>21</td><td>2 2</td><td>1</td><td></td><td>2812.1 0.0050</td><td>119.2</td><td>0.822</td><td>0.80</td><td>0.66</td><td>0.32</td><td>0.24</td><td>0.199</td><td>0.773</td><td>1.13264</td></tr><tr><td>22</td><td>2 2</td><td>2</td><td>2603</td><td>0.004</td><td>110.7</td><td>0.888</td><td>0.77</td><td>0.71</td><td>0.35</td><td>0.23</td><td>0.214</td><td>0.795</td><td>0.94908</td></tr><tr><td>23</td><td>2 2</td><td>3</td><td></td><td>2503.0 0.004</td><td>104.8</td><td>0.923</td><td>0.76</td><td>0.75</td><td>0.36</td><td>0.22</td><td>0.226</td><td>0.845</td><td>0.83158</td></tr><tr><td>24</td><td>2 2</td><td>4</td><td></td><td>2428.5 0.0043</td><td>100.4</td><td>0.951</td><td>0.71</td><td>0.78</td><td>0.38</td><td>0.21</td><td>0.236</td><td>0.799</td><td>0.80295</td></tr><tr><td>25</td><td>2 3</td><td>1</td><td></td><td>3170.8 0.0049</td><td>108.3</td><td>0.729</td><td>0.79</td><td>0.73</td><td>0.29</td><td>0.23</td><td>0.219</td><td>0.705</td><td>1.24629</td></tr><tr><td>26</td><td>2 3</td><td>2</td><td>2980</td><td>0.0041</td><td>100.6</td><td>0.775</td><td>0.66</td><td>0.78</td><td>0.31</td><td>0.19</td><td>0.236</td><td>0.709</td><td>1.27478</td></tr><tr><td>27</td><td>2 3</td><td>3</td><td></td><td>2865.4 0.0036</td><td>95.29</td><td>0.806</td><td>0.59</td><td>0.83</td><td>0.32</td><td>0.17</td><td>0.249</td><td>0.597</td><td>1.25013</td></tr><tr><td>28</td><td>2 3</td><td>4</td><td></td><td>2765.7 0.0031</td><td>91.24</td><td>0.835</td><td>0.50</td><td>0.86</td><td>0.33</td><td>0.15</td><td>0.260</td><td>0.581</td><td>1.27951</td></tr><tr><td>29</td><td>2 4</td><td>1</td><td></td><td>3249 0.0042</td><td>102.3</td><td>0.711</td><td>0.68</td><td>0.77</td><td>0.28</td><td>0.20</td><td>0.232</td><td>0.558</td><td>1.41024</td></tr><tr><td>30</td><td>2 4</td><td>2</td><td></td><td>3192.2 0.0038</td><td>92.19</td><td>0.724</td><td>0.62</td><td>0.85</td><td>0.28</td><td>0.18</td><td>0.257</td><td>0.578</td><td>1.34609</td></tr><tr><td>31</td><td>2 4</td><td>3</td><td></td><td>3014.0 0.003</td><td>87.32</td><td>0.766</td><td>0.54</td><td>0.90</td><td>0.30</td><td>0.16</td><td>0.272</td><td>0.818</td><td>1.29628</td></tr><tr><td>32</td><td>2 4</td><td>4</td><td></td><td>2809 0.0029</td><td>83.59</td><td>0.822</td><td>0.48</td><td>0.94</td><td>0.32</td><td>0.14</td><td>0.284</td><td>0.720</td><td>1.20629</td></tr><tr><td>33</td><td>3 1</td><td>1</td><td></td><td>2894.4 0.0047</td><td>151.2</td><td>0.796</td><td>0.75</td><td>0.52</td><td>0.31</td><td>0.22</td><td>0.157</td><td>0.717</td><td>1.52240</td></tr><tr><td>34</td><td>3 1</td><td>2</td><td></td><td>2735.2 0.0048</td><td>138.3</td><td>0.845</td><td>0.78</td><td>0.57</td><td>0.33</td><td>0.23</td><td>0.171</td><td>0.734</td><td>1.28541</td></tr><tr><td>35</td><td>3 1</td><td>3</td><td></td><td>2641.9 0.0046</td><td>128</td><td>0.874</td><td>0.75</td><td>0.61</td><td>0.34</td><td>0.22</td><td>0.185</td><td>0.811</td><td>1.1832</td></tr><tr><td>36</td><td>3 1</td><td>4</td><td></td><td>2520 0.0043</td><td>119.5</td><td>0.917</td><td>0.70</td><td>0.66</td><td>0.36</td><td>0.21</td><td>0.198</td><td>0.748</td><td>1.10086</td></tr><tr><td>37</td><td>3 2</td><td>1</td><td></td><td>3305.1 0.0054</td><td>135.7</td><td>0.699</td><td>0.87</td><td>0.58</td><td>0.27</td><td>0.26</td><td>0.175</td><td>0.672</td><td>1.43900</td></tr><tr><td>38</td><td>3 2</td><td>2</td><td></td><td>2813.2 0.0042</td><td>124.3</td><td>0.821</td><td>0.68</td><td>0.63</td><td>0.32</td><td>0.20</td><td>0.191</td><td>0.733</td><td>1.39136</td></tr><tr><td>39</td><td>3 2</td><td>3</td><td></td><td>2707.1 0.0041</td><td>115.1</td><td>0.853</td><td>0.67</td><td>0.68</td><td>0.34</td><td>0.20</td><td>0.206</td><td>0.727</td><td>1.25112</td></tr><tr><td>40</td><td>3 2</td><td>4</td><td></td><td>2604.0 0.004</td><td>107.5</td><td>0.887</td><td>0.66</td><td>0.73</td><td>0.35</td><td>0.19</td><td>0.220</td><td>0.694</td><td>1.10704</td></tr><tr><td>41</td><td>3 3</td><td>1</td><td></td><td>3514.1 0.0034</td><td>123.4</td><td>0.657</td><td>0.55</td><td>0.64</td><td>0.26</td><td>0.16</td><td>0.192</td><td>0.610</td><td>2.07097</td></tr><tr><td>42</td><td>3 3</td><td>2</td><td></td><td>3390.7 0.0030</td><td>112.9</td><td>0.681</td><td>0.49</td><td>0.70</td><td>0.27</td><td>0.14</td><td>0.210</td><td>0.622</td><td>2.00608</td></tr><tr><td>43</td><td>3 3</td><td>3</td><td>3313</td><td>0.0028</td><td>104.6</td><td>0.69</td><td>0.45</td><td>0.75</td><td>0.27</td><td>0.13</td><td>0.227</td><td>0.673</td><td>1.91873</td></tr><tr><td>44</td><td>3 3</td><td>4</td><td></td><td>3137 0.0025</td><td>97.7</td><td>0.736</td><td>0.40</td><td>0.81</td><td>0.29 0.12</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 3 shows the effect of factors on measured re sponse variables for weighting factor of $\\mathrm { w } _ { 1 } = 0 . 4$ ， $\\mathbf { w } _ { 2 } = \\mathbf { \\Phi }$ 0.3 and $\\mathbf { w } _ { 3 } = 0 . 3$ . Thelevel which has the higher value when compared with other two levels is optimum levels foreach factor.Itis observed that the fourthlevel of fuel blends, injection pressure and first level of fuel temperature with higher value when compared with other levels, and hence the levels(4,4,1) are taken as the optimum for assigned weighting factor of O.4, O.3, 0.3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 4 shows the effect of weighting factor on the optimum combination levels of factors and percentage contribution of level influencing factors on the set objective. It is observed that the weighting factor plays an important role in deciding the contribution of factors on the set objective.As the weighting factor $\\mathbf { w } _ { 1 }$ increases,the percentage contribution of fuel blends on the set objective also increases which ensures the influence of fuel blends in spray tip penetration reduction.For the assigned $\\mathbf { w } _ { 1 }$ the percentage contribution of fuel blends, injection pressure and fuel temperature depends upon the difference between the weighting factors $\\mathbf { w } _ { 2 }$ and $\\mathbf { w } _ { 3 }$ .As the difference between $\\mathbf { w } _ { 2 }$ and $\\mathbf { W } _ { 3 }$ for the same $\\mathbf { w } _ { 1 }$ increases,the percentage contribution of injection pressure and fuel blends increases while for fuel temperature it decreases till $\\mathbf { w } _ { 1 }$ $= 0 . 4$ If $\\mathbf { w } _ { 1 }$ is more than O.4,the increase in difference between $\\mathbf { w } _ { 2 }$ and ${ \\bf w } _ { 3 }$ for same $\\mathbf { w } _ { 1 }$ results in increase in percentage contribution of fuel blends and injection pressure and decrease in percentage contribution of fuel temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ANOVA ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 4 shows the results of ANOVA for the weighting factor of $\\mathbf { w } _ { 1 } = 0 . 4$ ， $\\mathbf { w } _ { 2 } = 0 . 3$ and $\\mathbf { w } _ { 3 } = 0 . 3$ .From the Table 4, the percentage contribution of all the factors on the set objective can be observed.It is observed that fuel blends is the most influencing factor on the set objective since the percentage contribution is higher than the other two. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fuel blends has a significant effect on the chosen objec tive since its contribution is significant and the difference in percentage contribution between fuel injection pres sure and fuel temperature also have some marginal effect as indicated in the ANOVA Table 5. Spray tip penetration depends on the fuel injection pressure and temperature. When compared with fuel blends,fuel injection pressure also has a considerable effect on all the response variables and its influence on the set objective is vital as obtained through ANOVA.It can also be observed that with this combination of weighting factors fuel temperature has least effect on the objective since its percentage contribution is very low when compared with the other two. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6647154a2b303cad09add78d16d2b8e375d6e11b4d86490f50f134117941efb0.jpg",
+        "table_caption": [
+            "Table 4Results of ANOVA for $\\mathrm { w } _ { 1 } { = } 0 . 4$ $\\mathbf { w } _ { 2 } = 0 . 3$ and $\\mathbf { W } _ { 3 } { = } 0 . 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Combination No</td><td colspan=\"3\">Weighting factor</td><td colspan=\"3\">Optimum level of factors</td><td colspan=\"3\">Percentage contribution of factors from the ANOVA table</td></tr><tr><td>W1</td><td>W2</td><td>W3</td><td>Fuel blends</td><td>Injection pressure (bar)</td><td>Fuel</td><td>Fuel blends</td><td>Injection</td><td>Fuel</td></tr><tr><td>1</td><td>0.4</td><td>0.3</td><td>0.3</td><td>4</td><td>4</td><td>temperature (C) 1</td><td>62.73</td><td>pressure (bar) 24.85</td><td>temperature(C) 2.68</td></tr><tr><td>2</td><td>0.4</td><td>0.4</td><td>0.2</td><td>4</td><td>4</td><td>1</td><td>48.94</td><td>40.01</td><td>0.11</td></tr><tr><td>3</td><td>0.5</td><td>0.3</td><td>0.2</td><td>4</td><td>4</td><td>1</td><td>51.16</td><td>37.93</td><td>2.16</td></tr><tr><td>4</td><td>0.5</td><td>0.4</td><td>0.1</td><td>4</td><td>4</td><td>2</td><td>39.065</td><td>51.68</td><td>0.098</td></tr><tr><td>5</td><td>0.6</td><td>0.2</td><td>0.2</td><td>4</td><td>4</td><td>1</td><td>51.44</td><td>34.50</td><td>7.1</td></tr><tr><td>6</td><td>0.6</td><td>0.25</td><td>0.15</td><td>4</td><td>4</td><td>1</td><td>46.16</td><td>42.76</td><td>3.84</td></tr><tr><td>7</td><td>0.6</td><td>0.3</td><td>0.1</td><td>4</td><td>4</td><td>1</td><td>40.86</td><td>49.97</td><td>0.169</td></tr><tr><td>8</td><td>0.7</td><td>0.2</td><td>0.1</td><td>4</td><td>4</td><td>1</td><td>41.18</td><td>47.02</td><td>4.4</td></tr><tr><td>9</td><td>0.8</td><td>0.1</td><td>0.1</td><td>4</td><td>4</td><td>1</td><td>40.38</td><td>42</td><td>11.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the ANOVA analysis Table 5,there is a $\\mathrm { ~ \\bf ~ P ~ }$ value which is computed from F-ratio for each independent parameter in the model, if $\\mathrm { ~ \\bf ~ P ~ }$ value is less than O.O5,the parameters can be considered as statistically highly significant, since ${ \\mathrm { P } } \\mathrm { - }$ value for all the chosen parameters is less than O.O5,they are highly significant at $9 5 \\%$ confidence level.From the analysis it is observed that fuel blends, injection pressure and fuel temperature are all the influencing factor for spray tip penetration，spray cone angle and SMD,since the value of $\\mathrm { \\bf P }$ is zero in all cases. The purpose of analysis of ANOVA is to investigate the percentage contribution of variance over the response factor. Statistically, there is a tool called F-test named after Fischer to check the significance of variance on the output characteristics [13],usually when $\\mathrm { F } { > } 4$ means the change of the design parameters has a significant effect over the output characteristics. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/be02fa3bb5898d84b8abe9ff1f64d613471c7cbaf20e32636189228e0c3ac8e5.jpg",
+        "table_caption": [
+            "Table 3Effects of factor on response variables for $\\mathbf { w } _ { 1 } \\ =$ $0 . 4 , \\mathrm { w } _ { 2 } = 0 . 3$ ， $\\mathbf { W } _ { 3 } = 0 . 3$ （20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Factors</td><td>Level 1</td><td>Level 2</td><td>Level 3</td><td>Level 4</td></tr><tr><td>Fuel blends</td><td>0.869</td><td>1.017</td><td>1.59</td><td>1.80</td></tr><tr><td>Injection pres- sure (bar)</td><td>1.2145</td><td>1.06</td><td>1.582</td><td>1.585</td></tr><tr><td>Fuel tempera- ture (C)</td><td>1.45</td><td>1.40</td><td>1.32</td><td>1.257</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfd5ad5bbfd3cb3926a2b56d5cc0139c6547e6852dbc123a699e075e57c65b2b.jpg",
+        "img_caption": [
+            "Fig.2Main effect plot for MRSN ratio "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Responses variables at optimized condition ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Confirmation experiment was conducted for the obtained optimum combination level and response variables of optimum combination have been compared with the response variables of the experiments conducted with the normal operating condition.(Fuel: KOME，Injection pressure: 24O bar, without preheating). Table 6 shows the response variables at optimized conditions and same is compared with the variables at normal operating condition.It can be observed that spray cone angle is increased and spray tip penetration and SMD decreased as a result of this combined effect.The reason is attributed to improving spray pattern (due to its lower viscosity）and high rate of evaporation due to preheating. One of the optimum combination 4-4-1 is obtained by varying weighting factors and by $\\mathrm { L } _ { 6 4 }$ full factorial design which shows an increase in spray cone angle and decrease in ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SMD and spray tip penetration.The fourth level of injectionpressure and fuelblends and firstlevel of fuel temperature was the optimum combination for lower SMD and spray tip penetration andhigher spray cone angle. This combination increases the spray cone angle by $3 3 \\%$ with $2 . 7 \\%$ and $0 . 8 \\%$ decrease in SMD and spray tip penetration，when compared with the normal operating conditions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This study explores the possibility of utilizing DOE and full factorial experimental design in spray characteristics of biodiesel and attempts to examine the combined effect of three factors on the three variables with the minimum number of experimental work. Experimental results were analyzed through statistical tools and findings of the analysis were used to make necessary decision.In the present work, the optimum combination(4,4, 1) of fuel blends, injection pressure and fuel temperature in reducing SMD and spray tip penetration and increase in spray cone angle was obtained by MRSN.Different weighting factors were assigned to each response variable to calculate the MRSN ratio and the obtained ratio was analyzed through ANOVA method. Fuel injection pressure and fuel blends appears to be most influencing factor in reducing SMD and spray tip penetration of the fuel next to fuel temperature with increase in spray cone angle.The conclusions are drawn with minimum number of experiments which saved time and cost because of the application of Taguchi based DOE. The optimum combination of factors wasarrived aftercritical analysis of response variables with different possible combination of weighting factors.Without Taguchi method considerable experimental work has to carried out to study the effect of factors on the response variable. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7ce6247842b78dd16f97a321efcd990791d70353153cbd2801a2820e3e782fc.jpg",
+        "table_caption": [
+            "Table 5Results ofANOVA for $\\mathrm { w } _ { 1 } { = } 0 . 4$ $\\mathbf { w } _ { 2 } = 0 . 3$ and $\\mathrm { w } _ { 3 } { = } 0 . 3$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Factors</td><td>DF</td><td>Seq SS</td><td>Adj SS</td><td>Adj MS</td><td>F</td><td>P</td><td>% Contribution</td></tr><tr><td>Fuel blends(SSr)</td><td>3</td><td>8.6</td><td>8.66</td><td>2.88</td><td>745.</td><td>0.0</td><td>62.73</td></tr><tr><td>Injection pressure (SSr)</td><td>3</td><td>3.4</td><td>3.42</td><td>1.14</td><td>294.</td><td>0.0</td><td>24.85</td></tr><tr><td>Fuel temperature(SSf)</td><td>3</td><td>0.3</td><td>0.37</td><td>0.12</td><td>32.3</td><td>0.0</td><td>2.68</td></tr><tr><td>Error (SSf)</td><td>27</td><td>0.1</td><td>0.10</td><td>0.00</td><td></td><td></td><td></td></tr><tr><td>Total (SSt)</td><td>63</td><td>13</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/91355fec5442338658490d075894e9ee93b4a2c7c06183ed77938fbb11e6eb74.jpg",
+        "table_caption": [
+            "Table 6Effect of optimization on response variable "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Fuel</td><td colspan=\"3\">Normal operating Condition</td><td colspan=\"4\">Optimized Condition</td><td colspan=\"3\">% Variation of response variables</td></tr><tr><td>S</td><td>Θ</td><td>SMD</td><td>Combination</td><td>S</td><td></td><td>SMD</td><td>S</td><td>Θ</td><td>SMD</td></tr><tr><td>KOME</td><td>63.54</td><td>12.03</td><td>11.08</td><td>4-4-1</td><td>63.0101</td><td>18.01</td><td>10.78</td><td>0.8</td><td>33</td><td>2.7</td></tr><tr><td>Diesel</td><td>55</td><td>12.</td><td>9.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank the management of Sri Venkateswara College ofEngineering and forprovidingus with the necessary experimental setuptoperform thisresearchwork. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]CE.Hunters,TP.Gardner and CE. Zakrajsel \"Simultaneous optimization of diesel engine parameters for low emissions using Taguchi methods,” SAE 902075,1990.   \n[2]M.George,Nisha Pillai,Nisha Shah,\"Optimization of shot peening parameters using Taguchi technique,”Journal of materials processing technology,vol.84,2004, pp.122-129   \n[3]P.Shanmughasundaram,\"Performance of single cylinder CI engine using blends of rubber seed biodiesel-Taguchi method,”UPB,Science Bulletin series D,vol.76,2010, no.4, pp 165-172.   \n[4]R.Karthikeyan， N.Nallusamy, N.Alagumoorthi and V.Ilangovan,“Optimization of engine operating parameters for turpentine mixed diesel fuelled DI diesel engine using Taguchi method,”Modern applied science,vol.4, 2010,no.12,pp.182-191   \n[5]Wei Zeng,Min Xu,Ming Zhang, Yuyin Zhang and JC. David,“Macroscopic characteristics for DI multi-hole spraysusingdimensionlessanalysis,” Experimental thermal and fluid science,vol.40,2012,pp.81-92.   \n[6]VS.Fedir,“A news particle method of stimulating breakup of liquid jets,”Journal of Computational Physics, 231,2011,1650-1674. [7]Wen Long Cheng,Feng Yun Han,Qi Nie Liu,Han Lin Fan,“Spray characteristics and spray cooling heat transfer in the non- boiling regime,”Energy， vol.36,2011, pp.3399-3405. [8] Yuan Gao, Jun Deng,Chunwang Li, Fengling Dang, Zhuo Liao,Zhijun Wu,and Liguang Li,“Experimental studyof spray characteristics of biodiesel based on inedible oil,”Biotechnology Advances, vol.27, 2009, pp. 616- 624. [9]J.Manin M.Bardi,L.M. Picket, R.N. Dahms,J. Coefelein, “Microscopic investigations of the atomization and mixing processes of diesel sprays injected into high pressure and temperature environments,”Fuel,vol.134,2014, pp.531-543.   \n[10] Avinash Kumar Agarwal,Vipul H Chaudhury,“Spray characteristics of biodiesel blends in a high pressure constant volume spray chamber,’Experimental thermal and fluid Science,vol.42,2012, pp.212-218.   \n[11] Gaoming Zhang,David L.S.Hung.“Temporal investigations of transient fuel spray characteristics from a multi hole injector using dimensionless analysis,”Experimental Thermal and Fluid Science,vol.66,2015,pp.150-159.   \n[12] PJ.Rose，Taguchi techniques for quality engineering McGraw-Hill Book company, USA,1998.   \n[13] WH. Yang et al.,“Design optimization of cutting parameters for turning operations based on the Taguchi method,” Journal of Material processing technology, vol. 84, 1998,pp.122-129. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

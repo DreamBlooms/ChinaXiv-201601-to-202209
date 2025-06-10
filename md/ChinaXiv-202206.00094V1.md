@@ -1,0 +1,167 @@
+# 广西植物标本馆馆藏模式标本现状与分析
+
+林春蕊，许为斌，陈海玲，陆昭岑，黄俞淞，刘演（广西壮族自治区 广西植物研究所，广西 桂林 541006)中国科学院
+
+摘要：模式标本是植物分类和命名的依据和凭证，也是植物资源保护与持续利用的重要基本资料。为提高模式标本的管理水平，促进其充分利用和互惠共享，该文对广西植物标本馆（IBK）馆藏模式标本的种类组成、采集地、采集年代及采集人等方面进行了统计和分析。结果表明：（1）本馆完成信息数字化的模式标本共计4645号，5736份，隶属170科619属2128种（含种下等级），馆藏模式标本收集的优势科有樟科、苦苣苔科、茜草科、山茶科、兰科、荨麻科、百合科、猕猴桃科、大戟科、柿科和杜鹃花科等，优势属有秋海棠属、蜘蛛抱蛋属、马兜铃属、紫金牛属和冬青属等；（2）模式标本分别采自中国的20 个省（区、市)以及其它2个国家，模式标本采集较多的省份有广西( $4 8 . 1 9 \%$ ）、海南 $2 4 . 1 4 \%$ 和广东( $1 1 . 6 3 \%$ ）（3）历年模式标本采集高峰期在上世纪30年代和 50年代，模式标本命名高峰期在上世纪80年代，与我国植物分类学的兴起，以及开展《中国植物志》编研等有关，模式标本的橱柜时间（标本采集到命名的时间间隔）平均为21年，橱柜时间最长为82年。该文还对模式标本的馆藏现状及数字化工作进行了讨论和展望。
+
+关键词：广西植物标本馆，模式标本，维管植物，馆藏优势类群，数字化分析
+
+# Statistical analysis of type specimens in the herbarium of Guangxi Institute of Botany
+
+LIN Chunrui, XU Weibin, Chen Hailing, LU Zhaocen, HUANG Yusong, LIU Yan\* (Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Siences, Guilin 541006, Guangxi, China)
+
+Abstract: Type specimens are not onlythe basis and evidenceof plant classification,but also important basic data for the protection and sustainable utilization of plant resources.In order to promote the fullutilization and reciprocal sharing of type specimens in IBK, the species,collecting locality,collecting date and collector of them were counted and analysed respectively.The results were as folows: (1) Based on the digital information of 4 645 collctions and 5 736 herbarium type specimens in IBK,there are 2 128 species of vascular plants among them, which belong to 619 generaand 170 familes (include subspecies,varieties and forms),the dominant families in the collection of type specimens include Lauraceae,Gesneriaceae,Rubiaceae,Theaceae, Orchidaceae, Urticaceae, Liliaceae，Actinidiaceae，Euphorbiaceae，Ebenaceae，Ericaceae，etc.the dominant genera include Begonia, Aspidistra,Aristolochia,Ardisia,Ilex etc; (2)The type specimens were collcted from 20 provinces,autonomous regions, municipalities and special administrative regions of China and 2 other countries.More type specimens were collected from Guangxi $( 4 8 . 1 9 \% )$ ，Hainan $( 2 4 . 1 4 \% )$ and Guangdong $( 1 1 . 6 3 \% )$ ； (3）The type specimen collction reached the peak in the 193Os and 195Os,and the peak of type specimen naming was in the 1980s, which was related to the riseof plant taxonomy in China and the compilation and research of flora of China, the average shelf life for type specimens was 21 years,and the longest shelf time is 82 years.The collction and digitization of type specimens are also discussed and prospected..
+
+Key words: IBK, type specimen, vascular plant, collection dominant groups, digital analysis
+
+广西壮族自治区中国科学院广西植物研究所标本馆（IBK）始建于1935年，即广西植物研究所建立之时，就开始进行植物标本的采集、保藏和研究工作，在经几代植物学家的艰苦创业后，现收藏有国内外维管植物标本50余万份，苔藓植物标本约1万份、大型真菌标本约0.5万份。馆藏标本主要来源于华南、西南地区，同时收藏部分华东、华北及越南和老挝等地植物标本，标本尤以喀斯特植物最为特色。馆藏大量的标本不仅是编研地方和国家等重要生物多样性编目及志书的科学依据，也是广西以及周边乃至东南亚地区研究、保护和可持续利用植物资源的重要基础。
+
+模式标本是植物分类学家从事植物分类研究不可缺少的科学依据。《国际植物命名法规》的一个重要原则是一种植物名称必须具备一个模式（Turland,et al.,2018），植物的名称永远和它的模式相连在一起，即模式是植物的“人事”档案，标本馆是植物的档案馆。对模式标本及相关文献收集管理历来为各国植物学家所重视（王文采，2011；杨永，2012）。自上世纪20年代起，我国学者就着手模式标本的整理，2006年国家标本数字化平台启动模式植物标本数字化工作，迄今已收集了国内10 余家主要标本馆维管植物模式标本数据4万余条，同时收集国外收藏的数据，共获得中国维管植物模式标本数据5万余条（谢丹等，2021）。整理编研出版了一批模式标本的相关文献和书籍（靳淑英，1994—2007；方鼎，2012；中国科学院植物研究所，2015；钱长江等，2017；欧阳学军等，2019；谢丹等，2019），这些工作有效地推动了模式标本数据的信息考证和规范化整理，对于进行专科专属研究、编写植物志、开展植物资源调查研究与保护等都具有重要意义。
+
+模式标本是镇馆之宝。广西植物标本馆馆藏模式标本中，有年代最久远、采集于1886年的宽叶秦岭藤（Biondia hemsleyana），有举世闻名的“活化石”子遗裸子植物银杉（Cathaya argyrophylla）（Chun&Kuang，1958），以及被列为国家重点保护野生植物的模式标本超70种，代表中国南方喀斯特植物多样性显著类群的苦苣苔科植物模式标本140 余种，重要的野生水果种质资源类群猕猴桃科植物模式标本近 60种，等等。此外，标本馆内现还珍藏着秦仁昌、汪发、唐进等前辈在国外拍摄的中国模式标本照片缩微胶片。
+
+生物多样性数字化是现代标本馆的发展方向（马克平，2017；陈建平和许哲平，2021），广西植物标本馆自 2003年起开始数字化建设，为中国数字植物标本馆（CVH）核心共建单位（刘慧圆等，2017），当前馆藏标本 $80 \%$ 以上均完成标本信息数字化并实现网络共享，在国家数字标本馆的网络点击量一直位居全国各标本馆前列。为了方便植物学者的研究工作，加强与国内外各单位的学术交流，提高植物标本的科学管理水平和利用率以及研究价值，该文对广西植物标本馆馆藏模式标本数字化信息进行整理与汇总分析。
+
+# 1材料与方法
+
+广西植物标本馆（IBK）一直注重模式标本及文献资料的收集与保存，馆藏模式标本是单独按系统存放模式库中。1993年在李树刚先生的支持下，钟树华、梁惠芳和覃祖红对馆藏模式标本及文献进行整理汇编，共收集维管束植物112科779种。从2003年至今，在国家科技资源共享服务平台的国家植物标本资源库项目支持下，陆续开展了馆藏标本的数字化与共享工作，为了方便模式标本的管理，又便于科研人员研究参考采用，在2006-2007年开展了馆藏模式标本数字化与共享的专题任务，并聘请毛宗铮先生进行模式标本的考证与清理。但由于馆藏标本体量大，且受当时条件影响，模式文献获取有限，模式标本的整理还待深入持续开展，同时每年不断有新分类群发表使馆藏模式标本不断有新增，因而在2018年再次开展了馆藏模式标本整理与数字化的工作。该文是基于以上工作成果进行模式标本汇总，所统计数据均从广西植物标本馆植物标本信息系统数据库中获得。
+
+馆藏模式标本信息及文献的考证与数字化采用国家标本资源共享平台植物模式标本数字化建设的方法（林祁，2017）。模式标本包含主模式（holotype）、等模式（isotype）、副模式（paratype）、合模式（syntype)和后选模式（lectotype）等，馆藏模式库中的产地模式（topotype）依现行植物法规（Turland et al.,2018）不再列入模式范畴。模式标本信息内容记录详尽、清晰和完整地忠实于标本的原始记录，标本数据记录分为馆代码、标本号、条形码、模式类型、库存、标本状态、采集人/队、采集号、采集日期、国家、省市、区县、地名、生境、经度、纬度、海拔、性状、叶、花、果、科、属、种、定名人、中文名、鉴定人、鉴定日期、备注和历史鉴定信息等字段。当前馆藏模式标本的归柜系统，一直沿用蕨类植物标本采用秦仁昌（1978）的系统、裸子植物标本采用郑万钧（1978）的系统、被子植物标本采用哈钦松系统（双子叶植物1926 年、单子叶植物1934年）归柜放置的，故该文亦采用以上的分类系统进行统计分析。
+
+# 2结果与分析
+
+# 2.1模式标本类群概况
+
+截止到2021年10月，广西植物标本馆标本信息系统数据库已录入4645号5736份模式标本信息，其中蕨类植物模式标本147号158份，份数占全部已录入模式标本总份数的 $2 . 7 5 \%$ ，裸子植物模式标本34号44份，份数占 $0 . 7 7 \%$ ，被子植物模式标本4464号5534份，份数占 $9 6 . 4 8 \%$ ；模式标本为国外采集的有6号7份，来自越南和老挝，其余均为国内采集达4639号5729份，占全部模式标本的 $9 9 . 8 9 \%$ ，国内采集分别来自20个省、自治区、直辖市和特别行政区。
+
+馆藏模式标本分别隶属于170科619属2128种（包含亚种、变种、变型，以下同）。其中蕨类植物模式标本27科50属116种，裸子植物模式标本5科8属17种，被子植物模式标本138科561属1994种（表1）。其中主模式标本（holotype）467份，等模式标本（isotype）1658份。在这些模式标本中，从标本份数来看，有83科标本少于10份，17科标本只有1份；有483属的标本数少于10份，163属的标本只有1份。从物种数量来看，单种科有33 科，占总科数的 $1 9 . 4 1 \%$ ，单种属有310 属，占总属数的 $5 0 . 0 8 \%$ 。
+
+模式标本记录的标本状态分为有花有果、有花无果、无花有果、无花无果、有孢子囊等，已录入模式标本中有5024份标本有花（果/孢子囊），占总模式标本的 $8 7 . 5 9 \%$ ，有花无果的标本最多，共2641份标本，占总模式标本的 $4 6 . 0 4 \%$ 。
+
+# 表1广西植物标本馆馆藏模式标本数量统计
+
+Table1Types of vascular plant samples in IBK   
+
+<html><body><table><tr><td>模式标本类群 Type specimen</td><td>Number</td><td>Num标本份opies</td><td>Families</td><td>Gus</td><td>speies</td></tr><tr><td>蕨类植物Pterilophytes</td><td>147</td><td>158</td><td>27</td><td>50</td><td>116</td></tr><tr><td>裸子植物 Gymnosperms</td><td>34</td><td>44</td><td>5</td><td>8</td><td>17</td></tr><tr><td>被子植物 Angiosperm</td><td>4464</td><td>5 534</td><td>138</td><td>561</td><td>1994</td></tr><tr><td>合计Total</td><td>4 645</td><td>5 736</td><td>170</td><td>619</td><td>2128</td></tr></table></body></html>
+
+蕨类植物模式标本中，从科来统计，以鳞毛蕨科（Dryopteridaceae）（29 种，35份）、水龙骨科（Polypodiaceae）（16种，22份）、金星蕨科（Thelypteridaceae）（6种，9份）、叉蕨科（Aspidiaceae）（6种，7份）、蹄盖蕨科（Athyriaceae）（6种，6份）、铁角蕨科（Aspleniaceae）（5种，7份）、膜蕨科（Hymenophyllaceae（5种，5份）等的标本较多。从属来统计，以耳蕨属（Polystichum）（10种，14份）、复叶耳蕨属（Arachniodes）（10种，10份）、鳞毛蕨属（Dryopteris）（4种，5份）、盾蕨属（Neolepisorus）（4种，5份）、瘤足蕨属（Plagiogyria）（4种，5份）等的标本较多。
+
+裸子植物模式标本中，从科来统计，以松科（Pinaceae）（6种，26份）、苏铁科（Cycadaceae）（6种，11份）等的标本较多。从属来统计，以苏铁属（Cycas）（6种，11份）、买麻藤属（Gnetum）（3种，5份）等的标本较多。
+
+被子植物模式标本中，从科来统计，种类达20种以上的科有32个（图1，豆科（Leguminosae）在哈钦松系统中按 3科排列，在该文按1 科处理），其中樟科（Lauraceae）、苦苣苔科（Gesneriaceae）、茜草科（Rubiaceae）、山茶科（Theaceae）收藏的种类达100种以上；从属来统计，含15个种以上的属有24个（图2），其中杜鹃花属（Rhododendron）、猕猴桃属（Actinidia）、山茶属（Camelia）、蜘蛛抱蛋属（Aspidistra）、冬青属（Ilex）、润楠属（Machilus）收藏的种类均超过35种。这些科、属含种类较多得益于历代植物分类专家尤其是广西植物分类学者的长期深入研究，同时也体现了广西植物研究的优势科属，如樟科、苦苣苔科、茜草科、山茶科、兰科（Orchidaceae）、荨麻科（Urticaceae、百合科（Liliaceae、猕猴桃科（Actinidiaceae）、大戟科（Euphorbiaceae）、柿科（Ebenaceae）、杜鹃花科（Ericaceae）及秋海棠属（Begonia）、蜘蛛抱蛋属、马兜铃属（Aristolochia）、紫金牛属（Ardisia）等均为广西植物标本馆收集和研究的优势类群。
+
+舞 ■份数 Number of copies■种数 Number of species  
+冬青科 Aquifoliaceae 莎草科Crohidaceae 山州  
+蔷薇科 Rosaceae  
+夹竹桃科 Apocynaceae  
+萝蘑科Asclepiadaceae  
+壳斗科Fagaceae  
+豆科Fabaceae  
+大戟科Euphorbiaceae  
+猕猴桃科Actinidiaceae  
+百合科Liliaceae  
+荨麻科Urticaceae  
+杜鹃花科 Ericaceae  
+山茶科 Theaceae  
+茜草科 Rubiaceae  
+苦苣苔科Gesneriaceae  
+樟科 Lauraceae0 100 200 300 400 500数量Number
+
+![](images/9b377a86a1e8fda50e91b7c596d50b902ac13966b5ff938ee3610616f52e0009.jpg)  
+图2广西植物标本馆模式标本植物分类群超过15种的属 Fig.2The genera with more than 15 species of the type specimens in IBK
+
+# 2.2模式标本采集地统计
+
+馆藏中国模式标本采集地分别来自国内 20个省、自治区、直辖市和特别行政区（表2），其中主要采集自广西（ $4 8 . 1 9 \%$ ）、海南（ $2 4 . 1 4 \%$ ）、广东（ $1 1 . 6 3 \%$ ）的模式标本最多，各均超过500号，且这3省区的合计占了总模式标本的 $8 6 . 9 6 \%$ ，其中海南模式标本主要来自保亭黎族苗族自治县、崖州县（现三亚市崖州区）、感恩县（现东方市）、陵水黎族自治县等地，广东省模式标本主要来自信宜县、乳源瑶族自治县、乐昌县、英德县等地。而福建、安徽、重庆、河北、河南、甘肃、辽宁和江苏等省份的模式标本较少，不足10 号。这些省外模式标本中除了广东、海南的标本主要是1946年广州中山大学农林植物研究所（现在的华南植物园）赠送 40000 余份和四川大学在二十世纪 70年代赠送一大批西南标本外，其余各省的标本多是通过交换或赠送而来的。
+
+模式产地为广西的标本约占了馆藏模式标本总数的一半，采集标本号数在广西区内大致分布如图3，其主要来自区内的几个国家级自然保护区，如弄岗自然保护区（龙州县256号317份）、花坪自然保护区（龙胜各族自治县167号238份，临桂县62号90份）、九万山自然保护区（融水苗族自治县190号214份）、猫儿山自然保护区（兴安县110号148份）、大瑶山自然保护区（金秀瑶族自治县100号119份，平南县35号43份）、十万大山自然保护区（上思县67号75份，防城港市31号41份，东兴市15号22份）等，此外百色地区的模式标本也较多，如靖西市（82号132份）、那坡县（53号63份）、隆林各族自治县（57号78份）、田林县（44号55份）、凌云县（44号50份）等，这几个县市所处地理为广西的桂西南喀斯特地区，尤其靖西和那坡地处中越边境喀斯特地区，为全球生物多样性研究热点区域之一（Myers etal.,2000），同时也折射出喀斯特地区丰富的物种多样性。
+
+![](images/eb06245c6217295cb7220f3d8bfa46d152e243387168ec0ddc5b4f2c5fb7ae90.jpg)  
+图3模式产地为广西的馆藏模式标本数量分布图  
+Fig. 3 Distribution of the number of type specimens from Guangxi in IBK
+
+从植物分类群来看，蕨类植物模式标本分别采集自国内10个省、自治区和特别行政区，其中模式标本数大于10号的采集地有海南（54号54份）、广西（28号33份）、广东（19号22份）、云南（14号16 份）、四川（12号12份），而湖南、江西、贵州、香港和福建的模式标本较少，均不超过10份。裸子植物模式标本分别采集自国内5个省、自治区，其中模式标本数最多的是广西（22号31份），主要在苏铁科和松科贡献较大，而广东、湖南、海南、四川的模式标本则不超过5号。被子植物模式标本与馆藏模式标本的比较结果相近。采集自广西（2188号2958份）、海南（1064号1229份）、广东（517号587份）、云南（221号230份）、四川（173号181份）、湖南（140号153份）的模式标本较多，而其余省份、直辖市和特别行政区的模式标本则较少。
+
+# 表2广西植物标本馆馆藏模式标本的分布
+
+Table 2Distribution statistics of type specimens in IBK   
+
+<html><body><table><tr><td>分布地点 Distribution place</td><td>标本份数 Number of</td><td>标本号数 Number of</td></tr><tr><td>中国广西 Guangxi, China</td><td>copies 3 023</td><td>collections 2238</td></tr><tr><td>中国海南 Hainan,China</td><td>1286</td><td>1121</td></tr><tr><td>中国广东 Guangdong, China</td><td>613</td><td>540</td></tr><tr><td>中国云南 Yunnan,China</td><td>246</td><td>235</td></tr><tr><td>中国四川 Sichuan, China</td><td>194</td><td>186</td></tr><tr><td>中国湖南 Hunan,China</td><td>166</td><td>153</td></tr><tr><td>中国贵州Guizhou,China</td><td>73</td><td>61</td></tr><tr><td>中国陕西 Shangxi, China</td><td>28</td><td>21</td></tr><tr><td>中国江西 Jiangxi,China</td><td>24</td><td>20</td></tr><tr><td>中国香港 Hong Kong, China</td><td>18</td><td>16</td></tr><tr><td>中国湖北Hubei,China</td><td>14</td><td>12</td></tr><tr><td>中国浙江 Zhejiang, China</td><td>15</td><td>11</td></tr><tr><td>中国福建Fujian,China</td><td>11</td><td>9</td></tr><tr><td>中国安徽 Anhui, China</td><td>7</td><td>5</td></tr><tr><td>中国河北Hebei, China</td><td>2</td><td>2</td></tr><tr><td>中国河南 Henan, China</td><td>2</td><td>2</td></tr><tr><td>中国甘肃 Ganshu, China</td><td>2</td><td>2</td></tr><tr><td>中国重庆 Chongqing, China</td><td>3</td><td>2</td></tr><tr><td>中国辽宁Liaoning, China</td><td>1</td><td>1</td></tr><tr><td>中国江苏 Jiangshu, China</td><td>1</td><td>1</td></tr><tr><td>越南Vietnam</td><td>6</td><td>5</td></tr><tr><td>老挝Laos</td><td>1</td><td>1</td></tr><tr><td>合计 total</td><td>5 736</td><td>4 644</td></tr></table></body></html>
+
+# 2.3 模式标本采集时间、命名时间与橱柜时间统计
+
+当前，馆藏模式标本采集年代最早的是十八世纪末，英国人A.Henry（采集号5606）于1889年采集自四川省的标本，于1910 年发表为萝摩科 Gongronema hemsleyana Warb.的 isotype，这是当前馆藏标本中保存采集时间最早的标本，也是馆藏新分类群发表时间最早的模式标本。在此期间还有 A.Henry（采集号11 862）于1896 年采集自云南思茅的标本，为夹竹桃科 Aganosma schlechteriana Levl.var.breviloba Tsiang的isotype，这两份模式标本完好保存至今已有130 余年的历史。
+
+广西植物标本馆馆藏模式标本历年采集也大致反映了标本馆采集历史（图4）。采集时间较早的一批馆藏模式标本是在上世纪20年代，主要有1928年间来自广西采集的秦仁昌（30号）标本，以及1927年至1929年期间来自广东和香港采集的蒋英（15号）、左景烈（13号）、陈焕镛（11号）标本。从采集时间显示历年采集的标本数量有两个高峰期，其一是上世纪30年代期间，采集的模式标本达1770号，这期间广西植物研究所刚成立，除了从华南植物所带了一批标本过来之外，还在广西各地展开植物调查采集（李树刚，1985），仅在数年之间采得大量标本，其中不乏些模式标本，采集地主要来自海南（985号）、广东（372号）、广西（325号）等；其二是50年代期间采集的模式标本累计1612号，标本采集地主要来自广西（1108号）、四川（165号）、海南（117号）等，可见采集地来自广西为最多，由于这期间标本馆开展了多项广西植物调查采集研究，主要包括了中兽医药用植物调查和广福林区、十万大山、红水河流域及广西西南部地区等综合考察等，这些调查积累了大量的广西各地植物标本。
+
+此外，近年来随植物资源野外调查的深入，依据形态学和微形态特征的证据，以及借助分子系统学证据促进专科专属的研究，使植物新种仍不断地陆续被发现发表（杜诚等，2021），从2000 年至今，馆藏模式标本累计近400号，采集地来自广西（327号）为最多，其中如苦苣苔科、猕猴桃属、秋海棠属、马兜铃属、蜘蛛抱蛋属等科、属的新分类群不断被发现。
+
+从依托馆藏模式标本，历年发表新分类群的命名数量来看（图4），自1910年以来至今一直有新分类群陆续发表，数量从上世纪30年代以来不断攀升，至50年代时达第一小高峰，至1980年前后达到最多，在1978年到1984年间共发表新分类群达1422种，这期间平均每年发表达 200种以上，这正是得益于我国开展的《中国植物志》编研工作，植物志的编研在50年代后期启动开展，历经艰辛后自1978年起进入高速发展期（中国植物志编辑委员会，1959-2004），期间随编研工作的开展，不仅整理和鉴定了大量的植物标本，解决了些科、属的系统位置或分类问题，还先后发表了许多论著，且与此同时《广西植物志》的编研工作也在1978年正式开始启动，这些工作促使了诸多植物新分类群在这期间被描述发表。
+
+![](images/39bcc939844505caf2cc98e74146a2a3c74ef6a068447714a91b4806e4261d24.jpg)  
+图4广西植物标本馆馆藏模式标本历年采集数量和物种发表命名数量统计 Fig. 4Number of type specimens collected and new taxa published over the years in IBK
+
+一个物种从标本采集到最终被描述发表的时间被称为物种的“shelf life”，即橱柜时间（Fontaine et al.,2012）。对广西植物标本馆馆藏模式标本的橱柜时间进行统计（图5），模式标本的橱柜时间平均为 21年，与 Fontaine 等报道的所有生物类群的平均橱柜时间相一致，比植物的平均橱柜时间（超过30年）则至少缩短了9年。馆藏模式标本仅有 $23 \%$ 在被采集到的5年内得到描述发表，约近 $50 \%$ 的标本在被采集到的20 年内得到描述发表,约 $6 \%$ 的标本的橱柜时间则超过了50年。其中橱柜时间最长为82年,即陈立聊(92623号）于1939年采集自广西凌云县的标本，至2021年描述发表为凹脉锦香草（Phyllagathis impressinerviaY.L.Su,Yan Liu& Ying Liu）的 Paratype（Su etal.,2021；图6），诸如此类，虽然分类学家描述的大多数新物种直接来自野外工作，但标本馆存丰富的植物标本，也是有诸多等待被描述发表新物种的宝藏。
+
+![](images/6c39a9370e95a83fbbbdc704679856a003ff91d3daa7ad84d6100d730a8dc91b.jpg)  
+图5广西植物标本馆馆藏模式标本的橱柜时间统计Fig.5Shelf time of type specimens collected in IBK
+
+![](images/9aa0ac7ada511e68374f9d191511b0b0ed5dab117d7419b88b27903f6a6b5394.jpg)  
+图61939年采集自广西凌云县的标本（陈立卿92623），于2021年被描述发表，其橱柜时间达 82年 Fig. 6Herbarium specimen (IBK) collected in 1939 from Lingyun County, Guangxi, China (Chen Liqing 92623), published 82 years later in 2O21(Paratype of Phyllagathis impressinervia Y.L.Su, YanLiu & Ying Liu). In this example, shelf life was 82 years.
+
+# 2.4模式标本主要采集人（队）与命名人统计
+
+对广西植物标本馆馆藏模式标本的主要采集人进行统计（表3），模式标本数量贡献最大的采集人为黄志（390号），其余为陈少卿（333号）、梁向日（320号）、侯宽昭（291号）等，这批模式标本以来自广东、海南和广西的为较多。从采集年代来看，上世纪30年代主要采集人中，广东和海南的采集除了前面几位之外还有陈念劬、刘心祈、高锡朋，广西的采集人有钟济新，云南的采集人有王启无；50-60 年代主要采集人中，广西的采集人有陈少卿、梁畴芬、李荫昆、李中提、陈照宙、覃浩富、李治基及广福林区采集队，四川的采集人有蒋兴鏖、张秀实等，海南的采集队有吊罗山队和东路队，湖南的采集人有谭沛祥；70 年代末至90年代主要采集人为采集自广西的梁畴芬、李光照和弄岗综考队；2000 年至今主要采集人为采集自广西的刘演和许为斌。
+
+表3广西植物标本馆馆藏模式标本数量在50号以上的采集人统计  
+Table 3Statistics of collectors with more than 5O type specimens in IBK   
+
+<html><body><table><tr><td>TabieS 主要采集时间</td><td>采集人</td><td>模式标本</td><td>主要采集地</td></tr><tr><td>Main collecting year 1929-1937，1956-1957</td><td>Collector 黄志C.Wang</td><td>Type specimens 390</td><td>Main collecting location 广东，海南，广西Guangdong,Hainan,</td></tr><tr><td>1930-1937</td><td>梁向日 X.R.Liang</td><td>320</td><td>Guangxi 广东，广西，海南Guangdong,Guangxi,</td></tr><tr><td></td><td></td><td></td><td>Hainan</td></tr><tr><td>1930-1933 1930-1935</td><td>陈念劬 N.K.Chun 高锡朋 S.P.Ko</td><td>176 151</td><td>广东，海南Guangdong,Hainan 广东，广西，海南Guangdong,Guangxi,</td></tr><tr><td></td><td></td><td></td><td>Hainan</td></tr><tr><td>1933</td><td>曾怀德 W.T. Tsang</td><td>66</td><td>广西，广东Guangdong,Guangxi</td></tr><tr><td>1933-1935</td><td>侯宽昭F.C.How</td><td>291</td><td>广东，海南Guangdong,Hainan</td></tr><tr><td>1935-1936</td><td>刘心祈 S.K.Lau</td><td>176</td><td>广东，海南Guangdong,Hainan</td></tr><tr><td>1935-1955 1939-1940</td><td>钟济新 Chi-Hsin Tsoong</td><td>125</td><td>广西Guangxi</td></tr><tr><td>1942-1943，1956-1958</td><td>王启无C.W.Wang 陈少卿 S.H.Chun</td><td>80 333</td><td>云南 Yunnan 广西，广东，湖南Guangxi,Guangdong,</td></tr><tr><td>1951-1957，1974-1988</td><td></td><td></td><td>Hunan</td></tr><tr><td>1952-1953</td><td>梁畴芬C.F.Liang 蒋兴蘑、张秀实等Xin-Lin</td><td>72 139</td><td>广西Guangxi 四川 Sichuan</td></tr><tr><td>1954-1955</td><td>Jiang, Xui-Shi Zhang 海南吊罗山队 Diao Luoshan</td><td>61</td><td>海南 Hainan</td></tr><tr><td>1954</td><td>collection team 海南东路队 East Road</td><td>51</td><td>海南 Hainan</td></tr><tr><td>1955</td><td>collection team 广福林区采集队Guangfu</td><td></td><td></td></tr><tr><td>1956-1958</td><td>forest zone collection team</td><td>68</td><td>广西 Guangxi</td></tr><tr><td>1956-1957</td><td>李荫昆Yin-Kun Li 覃浩富 Hao-Fu Qin</td><td>101</td><td>广西Guangxi</td></tr><tr><td>1956-1962</td><td>李治基 Zhi-JiLi</td><td>51</td><td>广西Guangxi 广西Guangxi</td></tr><tr><td>1957-1959</td><td></td><td>51</td><td>广西 Guangxi</td></tr><tr><td>1957-1964</td><td>李中提 Zhong-Ti Li</td><td>93</td><td>广西Guangxi</td></tr><tr><td></td><td>陈照宙 Zhao-Zhou Chen</td><td>91</td><td></td></tr><tr><td>1958-1959</td><td>谭沛祥 P.X.Tam</td><td>62</td><td>湖南，广东 Hunan,Guangdong</td></tr><tr><td>1978-1999</td><td>李光照Guang-Zhao Li 弄岗综考队 Nonggang</td><td>76</td><td>广西Guangxi 广西Guangxi</td></tr><tr><td>1979-1980</td><td>collection team</td><td>50</td><td></td></tr><tr><td>2002-2017</td><td>刘演 Yan Liu</td><td>84</td><td>广西Guangxi</td></tr><tr><td>2005-2020</td><td>许为斌 Wei-Bin Xu</td><td>113</td><td>广西Guangxi</td></tr></table></body></html>
+
+依托广西植物标本馆馆藏模式标本，描述发表的物种分类群达2128种，对发表物种的命名人进行统计（表4），参与命名的学者达500多人，约有 $50 \%$ 的人仅参与1种命名，而参与20种以上的命名人约30人。其中发表物种数量最多的是广西植物研究所创建人及我国近代植物分类学奠基者之一的陈焕镛（WY.Chun，274种），其次为美国哈佛大学阿诺德树木园 Merill（E.D.Merr.,151种），以及中国蕨类植物学的奠基人秦仁昌（Ching，98种）。
+
+表4广西植物标本馆馆藏模式标本描述发表30种以上的命名人统计  
+Table 4Statistics of authors who published thirty new taxa or more in IBK   
+
+<html><body><table><tr><td>姓名</td><td>标准拼写 Stand name</td><td>命名种数 No. of new taxa</td><td>馆藏标本类群 Research area</td></tr><tr><td>Name 陈焕镛 Chun Woon-young</td><td>W. Y. Chun</td><td>274</td><td>被子植物</td></tr><tr><td>Merrill, Elmer Drew</td><td>E. D. Merr.</td><td></td><td>Angiosperm 被子植物rm</td></tr><tr><td>秦仁昌Qin RenChang</td><td>Ching</td><td>98</td><td>蕨类植物 Fern</td></tr><tr><td>王文采WangWenCai</td><td>W. T. Wang</td><td></td><td>苦苣苔科，荨麻科 Gesneriaceae, Urticaceae</td></tr><tr><td></td><td></td><td></td><td>华t o South China</td></tr><tr><td>张宏达 Zhang HongDa</td><td>F. C. How H. T. Chang</td><td>84 83</td><td>山茶科，木犀科</td></tr><tr><td>刘演 Liu Yan</td><td>Yan Liu</td><td></td><td>Theaceae, Oleaceae 广西植物 Plants of Guangxi</td></tr><tr><td>蒋英 Jiang Ying</td><td>Tsiang</td><td></td><td>夹竹桃科，萝蘑科，番荔枝科</td></tr><tr><td>罗献瑞 Lo XianRui</td><td>H. S. Lo</td><td>74</td><td>Apocynaceae,Asclepiadaceae,Annonaceae 茜草科，无患子科，防ispermaceae</td></tr><tr><td>吴征镒Wu ZhengYi</td><td>C. Y. Wu</td><td>63</td><td>唇形科，爵床科 Lamiaceae, Acanthaceae</td></tr><tr><td>方文培FangWenPei</td><td>W. P. Fang</td><td></td><td>杜鹃花科 Ericaceae</td></tr><tr><td>李树刚 Li ShuGang</td><td>S. Lee(S. K. Lee)</td><td></td><td>樟科，柿科 Lauraceae, Ebenaceae</td></tr><tr><td>梁畴芬 Liang ChouFen</td><td>C.F. Liang</td><td></td><td>马兜铃科，猕猴桃科 Aristolochiaceae,Actinidiaceae</td></tr><tr><td>黄成就 Huang ChenJiu</td><td>Huang</td><td>39</td><td>壳斗科，芸香科 Fagaceae, Rutaceae</td></tr><tr><td>韦发南 Wei FaNan</td><td>F.N . Wei</td><td></td><td>苏铁科，樟，auraccae</td></tr><tr><td>许为斌 Xu WeiBing</td><td>W. B. Xu</td><td></td><td>苦苣苔科，报春花科 Gesneriaceae, Primulaceae</td></tr><tr><td>汪发绩Wang FaZuan</td><td>Wang</td><td></td><td>百合科，莎草科 Liliaceae, Cyperaceae</td></tr><tr><td>方鼎 Fang Ding</td><td>D.Fang</td><td></td><td>秋海棠科，苦苣苔科，爵床科，姜科 Begoniaceae, Gesneriaceae, Acanthaceae,</td></tr><tr><td>唐进 Tang Jin</td><td>Tang</td><td></td><td>Zingiberaceae 百合科，兰科，莎草科</td></tr><tr><td>谭沛祥 Tan PeiXiang</td><td>Tam</td><td></td><td>Liliaceae, Orchidaceae, Cyperaceae 杜鹃花科</td></tr><tr><td>胡先 Hu XianSu</td><td>Hu</td><td>30</td><td>W本植y物ant</td></tr></table></body></html>
+
+# 4讨论与展望
+
+综上所述，广西植物研究所标本馆馆藏模式标本的类群丰富多种，不仅与国内其他大中型标本馆一样有早期与华南植物园及四川大大学等标本馆交换来的外省市模式标本，更有其他馆所缺乏的独一无二的大量产自广西的新物种植物模式标本，尤其包括近期在区内开展的各个自然保护区的综考和大型的调查如开展的全国第四次中药资源普查、全国第二重点保护植物调查等，以及苦苣苔科、秋海棠科、柿科、蜘蛛抱蛋属、马兜铃属等专项调查采集的大量模式标本。然而，从中也可以看出广西植物研究所标本馆馆藏模式标本及标本的明显不足，即自然保护区以外的范围以及非重点科属（本单位缺乏相关的专家）的采集相对薄弱，应于后续的工作中加以补充，或加强联合外单位的专科专属专家开展调查研究，例如近年在野牡丹科、菊科、安息香科等联合国内分类专家发表了广西相关新分类群，使馆藏模式标本更丰富更具特色。
+
+模式标本是确定植物学名的依据，其妥善保存显得非常重要，但模式标本的整理考证和数字化建设是一个漫长而艰辛的过程。广西标本馆馆藏模式标本在开展模式标本的考证整理中常遇上棘手的问题，如在早期模式标本上标注为 Typus，但却并未指定为何种模式类型的问题较为常见，其次是新分类群列举了多个采集号的标本，但未指定主模式，或同时指定2个以上采集号的标本为模式，需要对这类模式标本做进一步的深入考证工作。如长茎金耳环（Asarum longerhizomatosum C.F.Liang et C.S.Yang）发表时同时指定了张超良001（存北京中医研究院 BCMM）和张超良002（存广西植物研究所IBK）两份标本为模式标本 Type（梁畴芬，1975），此后，Cheng＆Yang（1983），Huang et al.（2003），Jiang et al.（2011）和Deng&Yu（2014）先后对此模式标本进行考证，最终以指定张超良001（北京中医研究院BCMM）为Holotype，可见模式标本的考证并非件易事，因而模式标本数字化建设还需作长期不懈的努力。
+
+标本数字化工作的快速开展和便捷的网络式访问为模式标本信息的收集与整合提供了新的机遇，有效地改变了模式标本信息难以获取的局面（谢丹等，2021）。但是，标本馆在收集模式标本时也面临一些困难，如一些新分类群发表时指定了模式标本的收藏标本馆，但并没能如期把模式标本放入标本馆中保存，而使模式标本长期散落于标本馆外，即学术圈内常说的放入了个假标本馆中，这不仅不利于模式标本的保护，也不利于信息数据的互惠共享。因此，呼吁新分类群发表后尽快把模式标本放入指定标本馆收藏，以保证其妥善永久保存并能充分发挥其科研价值和社会应用价值。
+
+致谢 广西植物研究所韦发南教授为该文提供宝贵建议，在此表示衷心的感谢。
+
+# 参考文献：
+
+CHEN JP,XU ZP,2021.Digitalization construction and sharing development trend of global specimen [J/OL]. Guihaia,https:/ns.cnki.net/kcms/detail/45.1134.Q.20210526.1912.010.html.[陈建平，许哲平，2021..全球 标本数字化建设及共享发展趋势[J/OL]广西植 物:1-15[2022-04-08].http://kns.cnki.net/kcms/detail/45.1134.Q.20210526.1912.010.html.]   
+CHENG CY, YANG CS,1983.A synopsis of the Chinese species of Asarum (Aristolochiaceae)[J]. J Arnold Arboret, 64: 565-597.   
+CHUN WY, KUANG KR,1958. Genus Novum Pinacearum ex Sina Australi et Occidentali [J]. Bot Mag
+
+(USSR) 43(4): 461-470. DENG YF,YU WB,2014. Nomenclatural notes on the name Asarum longerhizomatosum (Aristolochiaceae) [J]. Phytotaxa, 172 (1): 57-58.
+
+DU C,LIU J, YE W,et al.,2021. Annual report of new taxa and new names for Chinese plants in 2020 [J]. Biodivers Sci,29(8):1011-1020.[杜诚，刘军，叶文，等，2021．中国植物新分类群、新名称 2020 年度 报告[J]．生物多样性,29(8):1011-1020.]   
+FANG D,2017. The pictorial collection of type specimens of vascular plants in the herbarium of Guangxi Institute of Chinese Medical & Medicine Sciences (GXMI) [M]. Nanning: Guangxi Science & Technology Publishing House.[方鼎，2012．广西中医药研究院植物标本馆（GXMI）维管植物模式 标本照片集[M]．南宁：广西科学技术出版社.]   
+FLORA REIPUBLICAE POPULARIS SINICAE EDITORIAL COMMITTEE,1959-2004.Flra Reipublicae Popularis Sinicae [M].Beijing: Science Press[中国植物志编辑委员会，1959-2004．中国植物志[M]．北 京：科学出版社.]   
+FONTAINE B,PERRARD A, BOUCHET P, 2012. 21 years of shelf life between discovery and description of new species [J]. Curr Biol, 22: R943-R944.   
+HUANG SM, KELLY LM, GILBERT MG, 2003. Aristolochiaceae[M]/ WU ZY,RAVEN P, HONG DY. Flora of China,5 [M]. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press: 246-269.   
+INSTITUTE OF BOTANY, CHINESE ACADEMY OF SCIENCES, 2015. Type specimens in China Natiomal Herbarium (PE)[M]. Henan Science and Technology Press, Zhengzhou.[中国科学院植物研究所，2015．中 国国家植物标本馆（PE）模式标本集[M]．郑州：河南科学技术出版社.]   
+JIANG N,PENG XM, YU WB,2011. Valid publication of Asarum longirhizomatosum (Aristolochiaceae)[J]. Novon, 21: 190-191.   
+JIN SY,1994-2007.A Catalogue of Type Specimens (Cormophyta) in the Herbaria of China [M]. Science Press, Beijing.[靳淑英,1994-2007．中国高等植物模式标本汇编 [M].北京：科学出版社.]   
+LEE SK,1985.Modern Botanical Explorations in Guangxi,China[J]. Guihaia，5(3):151-156.[李树刚,1985.广 西近代植物调查采集研究简志 [J].广西植物,5(3):151-156.]   
+LIANG CF. (1975) The Aristolochiaceae of Kwangsi Flora[J]. Acta Phytotaxon Sin 13(2): 10-28.[梁畴芬.1975, 广西马兜铃科志 [J]．植物分类学报,13(2):10-28.]   
+LIN Q,YANG ZR, BAO BJ, et al., 2017. Textual research and digitization of plant type specimens: Acase study of the National Herbarium of China[J].E-Sci Technol Appl,8(4): 63-76.[林祁，杨志荣，包伯坚，等，2017. 植物模式标本的考证与数字化：以中国国家植物标本馆为例[J]．科研信息化技术与应用，8(4):63-76.]   
+LIU HY, QIN HN,LI M, 2017. Plant specimen resource sharing platform and specimen digitizationcapacity construction[J].E-sci Technol Appl,8(4):13-23.[刘慧圆，覃海宁，李敏，2017．植物标本资源共享平台与 标本数字化能力建设[J]．科研信息化技术与应用，8(4):13-23.]   
+MA KP,2017. Mapping Asia Plants: a cyberinfrastructure for plant diversity in Asia [J]. Biodivers Sci, 25(1): 1-2. [马克平，2017．亚洲植物多样性数字化计划 [J].生物多样性,25(1):1-2.]   
+MYERS N, MITTERMEIER RA, MITTERMEIER CG, et al.,2000. Biodiversity hotspots for conservation priorities [J]. Nature, 403: 853-858.   
+OU Y, SONG ZQ,FAN ZJ,et al.，2019.Content analysisof holotype specimens collcted from dinghushan national nature reserve of Guangdong, China[J].JTrop Subtrop Bot,27(1): 90-98.[欧阳学军，宋柱秋，范宗 骥,等,2019.广东鼎湖山自然保护区生物主模式标本内容分析[J]．热带亚热带植物学报,27(1):90-98.]   
+QIAN CJ, DU Y, ZHANG HY,et al.,2017. Study on the arrangement of type specimens species of pteridophytes in Guizhou[J].Seed,36(8)：63-68.[钱长江，杜勇，张红艳，等，2017．贵州蕨类植物模式标本种的整理 研究，种子，36(8)：63-68.]   
+SU YL,LIUY,LIUY,2021.Anew species ofPhyllagathis (Melastomataceae,Sonerileae) from Guangxi, China [J]. Phytotaxa, 500(2): 11.   
+TURLAND NJ, WIERSEMA JH, BARRIE FR, et al.,2018. Intermational code of nomenclature for algae, fungi, and plants (Shenzhen Code): Adopted by the Nineteenth International Botanical Congress Shenzhen, China, July 2017. Regnum Vegetabile 159. Glashutten: Koeltz Botanical Books.   
+WANGWT,2011.Significance of herbaria in plant taxonomy[J].Life World,263:1.[王文采，2011.植物标本 馆在植物分类学研究中的重要性[J].生命世界，263：1.]   
+XIE D,LIU HY, QIN HN,2021. New opportunities and challenges in data integration of plant type specimens [J/OL]. Guihaia,htps://ns.cnki.net/kcms/detail/45.1134.Q.20210525.1725.004.html.[谢丹,刘慧圆,覃海宁, 2021.[1]谢丹,刘慧圆,覃海宁.植物模式标本数据整合新的机遇与挑战[J/OL].广西植物:1-8[2022-04-08]. http://kns.cnki.net/kcms/detail/45.1134.Q.20210525.1725.004.html.]   
+XIE D,WANG YQ, ZHANG XS, et al., 2019. A catalogue of plant type specimens and history of plant collecting in Shennongjia National Park[J].Biodivers Sci,27(2): 211-218.[谢丹，王玉琴，张小霜，等，2019．神农架 国家公园植物采集史及模式标本名录 [J].生物多样性,27(2):211-218.]   
+YANGY,2012. Collections of plant type specimens in China [J]. Biodivers Sci,20(4): 512-516.[杨永，2012.我 国植物模式标本的馆藏量 [J].生物多样性，20(4):512-516.]

@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "豆粕酶解发酵物对仔猪生长性能、血清指标及肠道菌群结构的影响赵　娜1,²　杨雪海」陈　芳」郭万正」黄少文」张　巍」李绍章」严念东」魏金涛1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.湖北省农业科学院畜牧兽医研究所，武汉 430064；2.动物胚胎工程及分子育种湖北省重点实验室，武汉 430064)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究豆粕酶解发酵物对仔猪生长性能、血清指标及肠道菌群结构的影响。选用144头49日龄健康的\"杜 $\\mathbf { \\nabla } _ { \\times }$ 长 $\\times$ 大\"三元杂交育肥仔猪，随机分为3组，每组6个重复，每个重复8头猪（公母各占1/2)。阴性对照组饲喂无抗生素添加的基础饲粮，抗生素对照组饲喂基础饲粮 $+ 6 0 ~ \\mathrm { g / t }$ 吉他霉素，试验组饲喂试验饲粮（基础饲粮中 $10 \\%$ 豆粕被豆粕酶解发酵物替代)。试验期为 $^ { 4 2 \\mathrm { ~ d ~ } }$ 。结果表明：1）试验组仔猪的末重、平均日增重、平均日采食量分别比阴性对照组高$5 . 0 6 \\%$ 、 $1 0 . 0 7 \\%$ 、 $5 . 0 3 \\%$ ( $P { < } 0 . 0 5 )$ ，腹泻率比阴性对照组低 $3 9 . 5 9 \\%$ ( $P { < } 0 . 0 5 )$ ，与抗生素对照组相比各指标差异均不显著（ $P { > } 0 . 0 5$ )。2）试验组仔猪血清碱性磷酸酶和谷丙转氨酶活性、总抗氧化能力（T-AOC）、超氧化物歧化酶（SOD)活性均显著高于阴性对照组( $( P { < } 0 . 0 5 )$ ，丙二醛（MDA）含量显著低于阴性对照组（ $( P { < } 0 . 0 5 )$ ；试验组和抗生素对照组仔猪血清指标差异不显著（ $( P { > } 0 . 0 5 )$ 。3）试验组仔猪盲肠、大肠中乳酸杆菌数量显著高于阴性对照组和抗生素对照组（ $P { < } 0 . 0 5 )$ ，十二指肠中总细菌数显著低于阴性对照组和抗生素对照组（ $P { < } 0 . 0 5 )$ 。综上，豆粕酶解发酵物能提高仔猪生产性能，增强机体抗氧化能力，利于乳酸杆菌在肠道内形成优势菌群，降低腹泻率，生产性能达到使用抗生素水平。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：豆粕；酶解发酵；仔猪；抗氧化能力；肠道菌群中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "豆粕在畜禽饲料中应用十分广泛，但豆粕含有胰蛋白酶抑制因子、大豆抗原蛋白及寡糖等抗营养因子，限制了其在幼龄动物中的使用[1-3]。微生物发酵可以将豆粕中大分子抗原蛋白降解为容易被幼龄动物消化吸收的小分子蛋白，将不能消化吸收的植酸磷降解为无机磷，同时产生益生素、乳酸及未知生长因子等，从而提高豆粕的营养价值[4-7]。酶解也是改善豆粕蛋白质特性的一种很好的方法[8]，大豆蛋白酶解物具有比大豆蛋白更丰富的加工特性、营养特性和生理功能[9]。单纯发酵耗时长、损耗大、效率低，单纯酶解工艺虽然耗时短、损耗小、效率高，但是杂菌增殖难以控制，在酶解过程中加入益生菌发酵可以有效地抑制大肠杆菌等杂菌的增殖[10-1]。豆粕经酶解发酵后可产生大量活性益生菌、乳酸、小肽和游离氨基酸等，添加到幼龄动物全价配合饲料中可以替代促生长性抗生素[12]。本试验将木瓜蛋白酶和植物乳杆菌共同作用于豆粕进行酶解和发酵，旨在研究豆粕酶解发酵物对仔猪的生长性能、血清指标及肠道菌群结构的影响，为家畜无抗饲料健康养殖提供有益参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 酶解发酵豆粕的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考魏金涛等[12]的方法，在塑料桶中加入 $1 0 \\mathrm { k g }$ 粒径12目的豆粕，按 $3 0 0 \\mathrm { U / g }$ 添加木瓜蛋白酶、 $2 { \\times } 1 0 ^ { 7 } \\mathrm { C F U / g }$ 接种植物乳杆菌之后加入 $3 7 ^ { \\circ } \\mathrm { C }$ 温水 $3 0 \\mathrm { k g }$ ，搅拌均匀后置于 $3 7 ^ { \\circ } \\mathrm { C }$ 恒温培养箱中酶解发酵 $2 4 \\mathrm { h }$ ，所得豆粕酶解发酵物用于配制饲粮。饲喂用的豆粕酶解发酵物均在配料前1天的07：00和15：00各制备1次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物与饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 试验动物与试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因子完全随机试验设计，按照品种、胎次基本一致的原则，将144头49日龄健康的\"杜×长×大\"三元杂交育肥仔猪随机分为3组，每组6个重复，每个重复8头猪（公母各占1/2）。阴性对照组饲喂基础饲粮，抗生素对照组饲喂基础饲粮 $+ 6 0 \\ { \\mathrm { g / t } }$ 吉他霉素，试验组饲喂试验饲粮（基础饲粮中 $10 \\%$ 豆粕被豆粕酶解发酵物替代)。预试期 $\\mathrm { ~ 7 ~ d ~ }$ ，正试期 $4 2 \\mathrm { d }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验场地采用漏缝地板，猪只自由采食，自由饮水。免疫消毒程序按照猪场常规方法进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮参照NRC（2012）猪的营养需要并结合所在猪场生产实际制定配方，其组成及营养水平见表1。阴性对照组饲粮饲喂前添加自来水做成湿拌料，精确计算水的添加量，保证饲粮中含水量为 $2 8 \\%$ 左右。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/487fec5413d8c8cec46753e0923f928316bb80f1271bae1619908d32f8b12afc.jpg",
+        "table_caption": [
+            "表1饲粮组成及营养水平 (风干基础)",
+            "Table1Composition and nutrient levels ofdiets (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>基础饲粮 Basal diet</td><td>试验饲粮 Experimental diet</td></tr><tr><td>原料Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>71.6</td><td>71.6</td></tr><tr><td>豆粕 Soybean Meal</td><td>20.0</td><td>10.0</td></tr><tr><td>豆粕酶解发酵物 Soybean meal</td><td></td><td>10.0</td></tr><tr><td>enzymatic fermentation productl</td><td></td><td></td></tr><tr><td>豆油Soybean oil</td><td>1.4</td><td>1.4</td></tr><tr><td>麸皮Bran</td><td>3.0</td><td>3.0</td></tr><tr><td>预混料 Premix3)</td><td>4.0</td><td>4.0</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6654327e00f601c7f01f3e18bbf287f39f15b7dcda522881ccb134620d5db8de.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1 以豆粕酶解发酵物风干物质量计。Soybean meal enzymatic fermentation product was air-dried mass. "
+        ],
+        "table_body": "<html><body><table><tr><td>消化能 DE/（MJ/kg)</td><td>13.81</td><td>13.81</td></tr><tr><td>粗蛋白质CP</td><td>15.40</td><td>15.40</td></tr><tr><td>钙Ca</td><td>0.69</td><td>0.69</td></tr><tr><td>总磷TP</td><td>0.53</td><td>0.53</td></tr><tr><td>有效磷AP</td><td>0.31</td><td>0.35</td></tr><tr><td>赖氨酸Lys</td><td>1.10</td><td>1.10</td></tr><tr><td>蛋氨酸Met</td><td>0.32</td><td>0.32</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.73</td><td>0.73</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)预混料为每千克饲粮提供 The premix provided the following per kg of diets :Cu $5 0 \\mathrm { m g }$ ,Fe $1 8 0 \\mathrm { m g }$ $Z n 1 8 0 \\mathrm { m g }$ Mn $2 5 ~ \\mathrm { m g }$ ， $\\mathrm { ~ I ~ 0 . 4 ~ m g }$ ， $\\mathrm { C o } 1 . 0 \\mathrm { m g }$ ， $\\mathrm { S e } \\ 0 . 3 \\ \\mathrm { m g }$ ，氯化胆碱choline chloride $5 0 0 ~ \\mathrm { m g }$ ， $\\mathrm { C a } 5 2 8 0 \\mathrm { m g }$ ， $\\mathrm { ~ P ~ 1 ~ } 8 2 0 ~ \\mathrm { m g }$ ，赖氨酸Lys $3 8 2 0 \\mathrm { m g }$ ，蛋氨酸 Met $7 8 0 \\mathrm { m g }$ ，VA $1 0 0 0 0 \\mathrm { { I U } }$ ， $\\mathrm { V E 8 0 I U }$ ，VD3 1 500 IU, $\\mathrm { V K } 0 . 5 \\ : \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 6 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } \\ 2 0$ mg，烟酸 niacin $2 0 ~ \\mathrm { m g }$ ，泛酸 pantothenic acid $1 8 ~ \\mathrm { m g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）粗蛋白质、钙和总磷为实测值，其余均为计算值。CP,Ca and TP were measured values,while the others were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4样品的采集与制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 血液采集与血清的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在正试期第 42天从每组选取6头猪，抽取颈静脉血静置后 $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { { m i n } }$ ，制备的血清置于一 $7 0 ^ { \\circ } \\mathrm { C }$ 超低温冰箱中保存备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 盲肠内容物的采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在正试期第42天从每组选取6头猪，颈部放血致死，无菌条件下取十二指肠、盲肠和大肠内容物于灭菌的冻存管中，并迅速将冻存管放于充满液氮的液氮罐中，备测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定指标与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 试验仪器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AUY-220 型电子分析天平，日本岛津UV-2550 型紫外可见分光光度计，德国福斯FOSS-2300型全自动凯氏定氮仪，罗氏MODULP-800 全自动生化分析仪，EDC-810 PCR 扩增仪，JY300 水平电泳仪，JY-02S 紫外分析仪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 营养成分的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粗蛋白质含量按照GB/T 6432—1994《饲料中粗蛋白测定方法》进行；小肽含量按照GB/T22492—2008《大豆肽粉》方法进行；水溶性蛋白含量按照NY/T1205—2006《大豆水溶性蛋白含量的测定》方法进行；乳酸杆菌数量的测定采用MRS琼脂培养基计数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 生长性能的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别在试验开始与试验结束时，以个体为单位对所有试验猪进行空腹称重；试验过程中详细观察与记录仔猪健康和生长状况、采食量、腹泻等情况。计算平均日增重、平均日采食量、料重比和腹泻率等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.4 血清指标的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血清生化指标的测定采用罗氏MODULP800全自动生化分析仪测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清中总抗氧化能力（T-AOC）、超氧化物歧化酶（SOD）活性、丙二醛（MDA）含量等测定采用试剂盒法，试剂盒均购自南京建成生物工程研究所。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.5 肠道菌群结构的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用实时荧光定量 PCR 方法[13-14]测定肠道中总细菌数、乳酸杆菌数和大肠杆菌数。引物序列及参数见表2，引物由上海生工生物工程有限公司合成。按照北京天根基因组DNA 提取试剂盒说明书提取肠内容物DNA，通过将含有目的DNA片段的琼脂糖凝胶进行回收，纯化分别获得总细菌、乳酸杆菌和大肠杆菌的标准品，然后将细菌的标准品进行实时荧光定量PCR反应，以不同标准品的拷贝数的对数值为横坐标，以实时荧光定量PCR反应过程中出现荧光信号的初始循环数（Ct）为纵坐标绘制标准曲线。同时，将待测样品进行实时荧光定量PCR反应得到样品的Ct值，并将其和标准曲线进行比较，获得各个样品中细菌数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac089a5ed74ce81881afe33fec87b3667b78e39e4c2084ca48495935579665ec.jpg",
+        "table_caption": [
+            "Table 2Primer sequences and parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>引物序列 Primer sequences (5'—3')</td><td>退火温度Annealing temperature/℃</td><td>片段大小Fragment size/bp</td></tr><tr><td>总细菌 Total bacteria</td><td>F:ACTCCTACGGGAGGCAGCAG R:ATTACCGCGGCTGCTGG</td><td>59.8</td><td>200</td></tr><tr><td>乳酸杆菌</td><td>F:AGCAGTAGGGAATCTTCCA</td><td>62.7</td><td>341</td></tr><tr><td>Lactobacillus</td><td>R:CACCGCTACACATGGAG F:CATGCCGCGTGTATGAAGAA</td><td></td><td></td></tr><tr><td>大肠杆菌E.coli</td><td>R: CGGGTAACGTCAATGAGCAAA</td><td>55.8</td><td>95</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS18.0统计软件进行单因素方差分析（one-way ANOVA)，不同组间的平均值差异用Student-Newman-Keuls(S-N-K)比较[15]。数据结果采用\"平均值 $\\pm$ 标准差\"表示。 $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1豆粕酶解发酵前后营养成分变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表3可知，豆粕酶解发酵前后总能及粗蛋白质、粗脂肪、粗纤维、粗灰分、钙和总磷含量差异不显著（ $( P { > } 0 . 0 5 )$ ；但是豆粕酶解发酵物中的小肽和水溶性蛋白含量比豆粕分别提高了3.56倍和4.76倍（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )，乳酸杆菌数量达到 $6 . 1 4 { \\times } 1 0 ^ { 9 } \\mathrm { C F U / g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8085245d8689c099c001ebfc3012607057a16095366560abc66f142f0983570.jpg",
+        "table_caption": [
+            "表2引物序列及参数",
+            "表3豆粕酶解发酵前后营养成分含量(干物质基础）",
+            "Table 3Nutrient content of soybean meal before and after enzymatic fermentation (DM basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>豆粕Soybean meal</td><td>豆粕酶解发酵物 Soybean meal enzymatic fermentation product</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>18.84±0.21</td><td>18.76±0.14</td></tr><tr><td>粗蛋白质 CP</td><td>50.42±0.23</td><td>50.54±0.32</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a10f9403531fc116eed3419699d59ad7433b5245b45356793bf597c99bfcd26e.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "一表示未检出。表中同行数据肩标字母不同小写表示差异显著（ $P { < } 0 . 0 5 \\$ 。下表同。 一mean not detected.In the same row,values with different smalleter superscripts mean significant diference 4 $_ { ( P < 0 . 0 5 ) }$ . The same as below. "
+        ],
+        "table_body": "<html><body><table><tr><td>小肽Peptides</td><td>2.11±0.04a</td><td>9.63±0.17b</td></tr><tr><td>水溶性蛋白 Water-soluble protein</td><td>3.69±0.02a</td><td>21.26±0.25b</td></tr><tr><td>粗脂肪 EE</td><td>2.12±0.03</td><td>2.15±0.02</td></tr><tr><td>粗纤维CF</td><td>6.88±0.14</td><td>6.27±0.13</td></tr><tr><td>粗灰分Ash</td><td>6.56±0.04</td><td>6.60±0.02</td></tr><tr><td>钙Ca</td><td>0.39±0.04</td><td>0.39±0.03</td></tr><tr><td>总磷TP</td><td>0.67±0.02</td><td>0.68±0.03</td></tr><tr><td>乳酸杆菌 Lactobacillus/(CFU/g)</td><td>1</td><td>6.14x109</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 豆粕酶解发酵物对仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表4可知，试验组仔猪的末重、平均日增重、平均日采食量分别比阴性对照组提高 $5 . 0 6 \\%$ 、$1 0 . 0 7 \\%$ 、 $5 . 0 3 \\%$ ( $( P { < } 0 . 0 5 )$ ，腹泻率比阴性对照组降低 $3 9 . 5 9 \\%$ ( $\\cdot P { < } 0 . 0 5 )$ ；试验组与抗生素对照组相比各指标差异均不显著（ $( P { > } 0 . 0 5 )$ ，但是平均日增重和平均日采食量都有高于抗生素对照组的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a187423f6526b809e03b9f2f59d2e3326aa4e058ee099fe662a895612d3af578.jpg",
+        "table_caption": [
+            "Table 4Growth performance of piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>阴性对照组Negative</td><td>抗生素对照组 Antibiotics</td><td>试验组Test group</td></tr><tr><td>初重Initial weight/kg</td><td>control group 18.45±0.76</td><td>control group 18.39±0.62</td><td>18.43±0.71</td></tr><tr><td></td><td>37.52±1.10a</td><td>39.28±0.89b</td><td>39.42±0.93b</td></tr><tr><td>末重Final weight/kg 平均日增重 ADG/g</td><td>454.05±23.39a</td><td>497.38±20.6b</td><td>499.76±24.47b</td></tr><tr><td>平均日采食量 ADFI/g</td><td>821.36±28.96a</td><td>853.28±32.73b</td><td>862.64±31.54b</td></tr><tr><td>料重比F/G</td><td>1.81±0.09</td><td>1.72±0.11</td><td>1.73±0.12</td></tr><tr><td>腹泻率Diarrhea rate/%</td><td>7.35±0.23a</td><td>5.23±0.33b</td><td>4.44±0.47b</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 豆粕酶解发酵物对仔猪血清指标的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表5可知，试验组仔猪的碱性磷酸酶、谷丙转氨酶活性均显著高于阴性对照组！ $( P { < } 0 . 0 5 )$ ，其他指标差异不显著( $( P { > } 0 . 0 5 )$ ；试验组和抗生素对照组仔猪血清生化指标差异不显著（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc14943b16795cd4a5295c090c599bdb379184eee77e0452a26064edbf0f81ad.jpg",
+        "table_caption": [
+            "表4仔猪生长性能",
+            "表5仔猪血清生化指标",
+            "Table 5Serum biochemical indices of piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>阴性对照组Negative control group</td><td>抗生素对照组 Antibiotics control group</td><td>试验组 Test group</td></tr><tr><td>总蛋白TP/(g/L)</td><td>55.47±2.97</td><td>57.49±3.11</td><td>57.93±2.53</td></tr><tr><td>白蛋白 Albumin/(g/L)</td><td>32.92±0.97</td><td>33.36±0.85</td><td>33.46±1.01</td></tr><tr><td>球蛋白 Globulin/(g/L)</td><td>22.55±1.85</td><td>24.13±1.59</td><td>24.47±1.72</td></tr><tr><td>尿素氮Urea</td><td>4.36±0.16</td><td>4.18±0.23</td><td>4.21±0.19</td></tr><tr><td>nitrogen/(mmol/L) 碱性磷酸酶 Alkaline</td><td>186.21±10.89a</td><td>197.65±12.37ab</td><td>208.41±7.44b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表6可知，试验组仔猪血清T-AOC、SOD 活性、MDA含量与阴性对照组相比均有显著改善（ $. P { < } 0 . 0 5 \\$ )，与抗生素对照组相比差异不显著（ $P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/271140aee7264a161a5f963e12214fb48f27b2f808d28320db9bb0d239b22247.jpg",
+        "table_caption": [
+            "Table 6Serum antioxidant indices of piglets "
+        ],
+        "table_footnote": [
+            "2.4豆粕酶解发酵物对仔猪肠道菌群结构的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>阴性对照组 Negative control group</td><td>抗生素对照组 Antibiotics control group</td><td>试验组Test group</td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td></tr><tr><td>T-AOC/(U/mL)</td><td>0.35±0.11a</td><td>0.84±0.06b</td><td>0.92±0.12b</td></tr><tr><td>超氧化物歧化酶</td><td>73.54±5.41a</td><td>85.27±5.59b</td><td>89.47±7.56b</td></tr><tr><td>SOD/(U/mL)</td><td></td><td></td><td></td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>8.94±0.63a</td><td>4.85±0.39b</td><td>4.37±0.41b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表7可知，试验组仔猪盲肠、大肠中乳酸杆菌数量显著高于阴性对照组和抗生素对照组（ $. P { < } 0 . 0 5 )$ ；豆粕酶解发酵物使肠道各部位食糜中乳酸杆菌数量大幅度提高，且随着肠段后移，乳酸杆菌数量增加幅度越大；试验组仔猪肠道中盲肠、大肠中的大肠杆菌数量有低于抗生素对照组和阴性对照组的趋势（ $P { > } 0 . 0 5 \\$ )。试验组十二指肠中总细菌数比阴性对照组和抗生素对照组低中 $( P { < } 0 . 0 5 )$ ，各组间盲肠、大肠中总细菌数差异不显著（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5415f7931b29b058d5180be30002b3340c70a605b97af658f1a97d6261dc17a2.jpg",
+        "table_caption": [
+            "表6仔猪血清抗氧化指标",
+            "表7仔猪肠道菌群结构",
+            "Table 7 Intestinal microflora structure of piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table7</td><td colspan=\"3\">Orpiglets Ig(CrUrg)</td></tr><tr><td>项目Items</td><td>阴性对照组 Negative control group</td><td>抗生素对照组 Antibiotics control group</td><td>试验组 Test group</td></tr><tr><td>乳酸杆菌Lactobacillus</td><td></td><td></td><td></td></tr><tr><td>十二指肠 Duodenum</td><td>10.18±0.05</td><td>10.16±0.13</td><td>11.28±0.43</td></tr><tr><td>盲肠 Cecum</td><td>11.59±0.24b</td><td>11.48±0.27b</td><td>12.95±0.25a</td></tr><tr><td>大肠 Large intestine</td><td>11.30±0.11b</td><td>11.03±0.45b</td><td>13.98±0.17a</td></tr><tr><td>大肠杆菌 E.coli</td><td></td><td></td><td></td></tr><tr><td>十二指肠 Duodenum</td><td>9.48±0.22</td><td>9.31±0.38</td><td>9.15±0.16</td></tr><tr><td>盲肠 Cecum</td><td>10.40±0.34</td><td>10.12±0.59</td><td>9.03±0.30</td></tr><tr><td>大肠Large intestine</td><td>11.44±0.29</td><td>11.03±0.41</td><td>10.01±0.47</td></tr><tr><td>总细菌数 Total bacteria</td><td></td><td></td><td></td></tr><tr><td>十二指肠 Duodenum</td><td>13.56±0.42a</td><td>13.25±0.13a</td><td>12.05±0.27b</td></tr><tr><td>盲肠Cecum</td><td>13.39±0.86</td><td>13.58±0.35</td><td>13.21±0.38</td></tr><tr><td>大肠Large intestine</td><td>13.54±0.79</td><td>13.44±0.35</td><td>13.56±0.99</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 豆粕酶解发酵物对仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "潘翠玲等[16]发现大豆蛋白酶解物能克服早期断乳应激引起的仔猪食欲下降、腹泻和生长迟滞等不良现象。付晓等[17]报道酶解豆粕组仔猪粗蛋白质、钙和磷消化率均高于对照组。这都说明了豆粕酶解后更容易被仔猪消化吸收。詹等[18]报道豆粕合理的发酵时间为 $7 2 \\mathrm { { h } }$ ，料水比为1：0.7，寡肽和游离氨基酸含量可达 $2 . 4 8 \\%$ 。胡瑞等[19]将豆粕液态发酵最佳发酵时间为 $4 8 \\mathrm { h }$ ，但是加入蛋白酶后发酵豆粕游离氨基酸含量提高了 $0 . 3 6 \\%$ ，大分子蛋白质降解程度显著升高。本研究利用木瓜蛋白酶和植物乳杆菌在液态酶解发酵豆粕 $2 4 \\mathrm { h }$ 后小肽含量达到了 $9 . 6 3 \\%$ ，饲养试验结果表明试验组仔猪的末重、平均日增重、平均日采食量略优于抗生素对照组，和阴性对照组相比提高了 $5 . 0 6 \\%$ 、 $1 0 . 0 7 \\%$ 、 $5 . 0 3 \\%$ 。这主要是由于豆粕酶解发酵后大分子蛋白被分解，提高了部分氨基酸含量，部分抗营养因子被降解[20]，而且豆粕在液态下经植物乳杆菌发酵后产生大量乳酸等，使得所配制饲料具有酸香味，刺激动物食欲。本文中试验组仔猪腹泻率比阴性对照组低 $3 9 . 5 9 \\%$ ，与抗生素对照组差异不显著，据吕刚等[211报道酶解豆粕湿喂仔猪组全期料重比、腹泻指数优于干燥酶解豆粕组。本试验结果说明了豆粕酶解发酵后不经干燥直接配制饲粮，提高了饲粮适口性，有益于动物生产性能的提高，可以实现仔猪饲料中不添加促生长性抗生素。但是中国南方高温季节采用湿的豆粕酶解发酵物一定要防止原料久置变质。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 豆粕酶解发酵物对仔猪血清指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "血清碱性磷酸酶活性高低可以反映动物的生长速度和生产性能[121。本试验中试验组仔猪的碱性磷酸酶、谷丙转氨酶活性均显著高于阴性对照组，说明豆粕酶解发酵物可以促进仔猪蛋白质吸收，提高钙磷利用率，这与生产性能的表现呈一致性。机体内存在的各种抗氧化酶能够互相合作共同构成机体对自由基的第一道防线。血清 MDA含量的高低间接反映机体细胞受自由基攻击的严重程度。本试验中试验组仔猪血清T-AOC、超氧化物歧化酶活性显著高于阴性对照组，MDA含量显著低于阴性对照组，说明豆粕酶解发酵物提高了仔猪机体抗氧化能力，减少自由基对机体的伤害。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 豆粕酶解发酵物对仔猪肠道菌群结构的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "健康仔猪肠道中多种细菌数量都随肠段后移而逐渐增加[22]。乳酸杆菌是猪肠道正常菌群中的重要优势菌。若仔猪发生腹泻，仔猪肠道内优势菌群数量会发生改变，如乳酸杆菌、双歧杆菌数量会降低，大肠杆菌的数量增加[23]。本研究中试验组仔猪盲肠、大肠段乳酸杆菌数量显著高于阴性对照组和抗生素对照组；豆粕酶解发酵物使肠道各部位食糜中乳酸杆菌数量大幅度提高，且随着肠段后移，乳酸杆菌数量增加幅度越大。试验组十二指肠中总细菌数比阴性对照组和抗生素对照组低，且十二指肠段总细菌数低于盲肠、大肠。这主要是由于十二指肠细菌的种类及数量极少，胃酸、胆汁作用及小肠液流量大，蠕动节奏快，细菌在繁殖前即被冲洗到远端回肠及结肠[24]。试验组仔猪肠道中乳酸杆菌为优势菌群，挤占了大肠杆菌的生存空间，使得大肠杆菌数量下降，试验猪只腹泻率降低。本试验中抗生素选用的为目前在家禽和猪饲料中广泛使用的吉他霉素，吉他霉素可以使猪肠道中大肠杆菌数量显著减少，对乳酸杆菌数量却没有显著影响[25]。仔猪肠道菌群由乳酸杆菌、双歧杆菌、小梭菌等厌氧菌以及肠杆菌、肠球菌等需氧菌组成[26]，后期研究中笔者将对仔猪肠道中的双歧杆菌、肠球菌等进行分析定量，更为全面地了解豆粕酶解发酵物对仔猪肠道中菌群结构的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "豆粕酶解发酵物能促进仔猪生长发育，提高生产性能，增强机体抗氧化能力，利于乳酸杆菌 在肠道内形成优势菌群。 参考文献: [1]丁安林,王雁,常汝镇.大豆的抗营养因子及其改良[J].大豆科学,1994,13(1):72-76. [2] DUNSFORD B R,KNABE D A,HAENSLY W E.Effect of dietary soybean meal on the microscopic anatomyofthesmallintestineintheearly-weanedpig[J].JournalofAnimal Science,1989,67(7):1855-1863. [3] WHITE C E,CAMPBELL D R,MCDOWELL L R.Effects of dry mater content on trypsin inhibitors and urease activity in heat treated soya beans fed to weaned piglets[J].Animal Feed Science and Technology,2000,87(1/2):105-115. [4] HOFFMANN E M,MUETZEL S,BECKER K.The fermentation of soybean meal by rumen microbes in vitro reveals different kinetic features for the inactivation and the degradation of trypsin inhibitor protein[J].Animal Feed Science and Technology,2003,106(1/2/3/4):189-197. [5] FENG J,LIU X,XU Z R,et al.The effect of Aspergillus oryzae fermented soybean meal on growth performance,digestibility of dietary components and activities of intestinal enzymes in weaned piglets[J].Animal Feed Science and Technology,2007,134(3/4):295-303. [6] 魏金涛,赵娜,杨雪海,等.发酵饲料对断奶仔猪生产性能、血液生化指标和饲料养分表观消化率 的影响[J].中国粮油学报,2009,24(2):129-133. [7] FERNANDEZ-OROZCO R,FRIAS J,MUNOZ R,et al.Fermentation as a bio-process to obtain functional soybean flours[J].Journal of Agricultural and Food Chemistry,20O7,55(22):8972-8979. [8] 汪建斌,邓勇.Alcalase 碱性蛋白酶对大豆分离蛋白水解作用的研究[J].食品工业科 技,2002,23(1):61-63. [9]陈美珍,余杰,郭慧敏.大豆分离蛋白酶解物清除羟自由基作用的研究[J].食品科 学,2002,23(1):43-47. [10] 杨雪海,赵娜,魏金涛,等.植物乳杆菌对致病性大肠杆菌的抑制效果研究[J].饲料研 究,2011(1):27-28. [11] 杨雪海,李绍章,刘收,等.饲料发酵工艺对益生菌增殖及大肠杆菌数量变化的影响[J].饲料工 业,2011,32(5):30-33. [12] 魏金涛,杨雪海,赵娜,等.不同豆粕酶解发酵物对仔猪生长性能、血液生化指标、抗氧化能力的 影响研究[J].饲料工业,2013,34(18):55-58. [13] QI H W,XIANG Z T,HAN G Q.et al.Effects of diferent dietary protein sources on cecal microflora in rats[J].African Journal of Biotechnology,2011,10(19):3704-3708. [14] 闫学艳,何后军,刘宝生,等.健康与腹泻仔猪肠道菌群多样性差异分析[J].江西农业大学学 报,2015,37(2):302-307. [15] DALLAL G E.Multiple comparison procedures[EB/OL].(2012-05-23)[2016-07-23].http://www.jerrydallal.com/LHSP/MC.HTM. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16] 潘翠玲,陈伟华,邹思湘,等.大豆蛋白酶解物对 21日龄早期断乳仔猪生长性能及内分泌水平的  \n影响[J].南京农业大学学报,2006,29(3):69-72.  \n[17] 付晓,马力周,于俊瑶,等.不同微生物酶解和发酵豆粕对断奶仔猪生产性能和养分消化率的影  \n响[J].中国饲料,2009(14):24-26.  \n[18] 詹潞,柯芙容,陈庆达,等.发酵时间和料水比对豆粕发酵的影响[J].福建农林大学学报:自然科  \n学版,2015,44(2):193-197.  \n[19]胡瑞,陈艳,王之盛,等.复合益生菌发酵豆粕生产工艺参数的优化及酶菌联合发酵对豆粕品质  \n的影响[J].动物营养学报,2013,25(8):1896-1903.  \n[20] 魏金涛,赵娜,李绍章,等.复合酶酶解豆粕营养成分变化规律研究[J].中国粮油学  \n报,2014,29(1):17-20.  \n[21]吕刚,张克英.酶解豆粕替代普通豆粕对 28 日龄断奶仔猪生产性能、腹泻指数影响研究[J].饲  \n料广角,2007(18):38-41.  \n[22] 禹慧明,廖玲,陈平洁,等.断奶仔猪肠道菌群的研究[J].中国微生态学杂志,2000,12(2):81-82.  \n[23]GUTZWILLERA,JOSTM.Pigletdiarrheaandoedemadisease:preventionis  \nbetter[J].Agrarforschung,1998,5(10):459-462.  \n[24] 沈志勇,牛钟相,彭军,等.鸡消化道正常菌群的研究进展[J].动物医学进展,2003,24(6):61-63.  \n[25]易力,汪洋,祖恩普,等.吉他霉素对断乳仔猪肠道菌群的影响[J].安徽农业科  \n学,2006,34(1):54,74.  \n[26] 赵桂英,杨亮宇,段纲,等.断奶仔猪胃肠道正常菌群的数量和分区[J].黑龙江畜牧兽  \n医,2003(9):27-28.Effects of Soybean Enzymatic Fermentation Product on Growth Performance, Serum Indices andIntestinal Microflora Structure of PigletsZHAO $\\mathrm { N a } ^ { 1 , 2 }$ YANG XueHai1 CHEN Fang1GUO Wanzheng1HUANG Shaowen1ZHANGWeilLI Shaozhang1YAN Niandong1WEI Jintao1\\*(1. Institute of Animal Science and Veterinary Medicine, Hubei Academy of Agricultural Sciences,Wuhan 430064, China; 2. Hubei Key Laboratory of Animal Embryo Engineering and MolecularBreeding, Wuhan 430064, China)  \nAbstract: This study was designed to study the effects of soybean enzymatic fermentation product on  \ngrowth performance,serum indices and intestinal microflora structure of piglets. One hundred and",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "forty-four 49-day-old DurocxLandracexYorkshire crossbred fattening piglets were randomly divided into three groups with six replicates and eight pigs in each replicate （male and female each half） .Pigs in negative control (NC) group were fed a basal diet without adding antibiotics,in antibiotics control (AC) group were fed the basal diet supplemented with $6 0 \\ : \\mathrm { g / t }$ kitasamycin, and in test group were fed the test diet ( $10 \\%$ soybean meal was replaced by enzymatic fermentation product in basal diet). The results showed as follows: 1) the final weight,average daily gain and average daily feed intake of pigs in test group were $5 . 0 6 \\%$ ， $1 0 . 0 7 \\%$ and $5 . 0 3 \\%$ higher while diarrhea rate was $3 9 . 5 9 \\%$ lower than those in NC group $( P { < } 0 . 0 5 )$ ， but no significant different with AC group $( P { > } 0 . 0 5 )$ . 2） Serum activities of alkaline phosphatase and alanine aminotransferase，total antioxidant capacity (T-AOC)，and superoxide dismutase (SOD） activity of pigs in test group were significantly higher $( P { < } 0 . 0 5 )$ ，but serum malondialdehyde (MDA） content was significantly lower than those in NC group $( P { < } 0 . 0 5 )$ . Notably, there was no significant difference in serum indices between AC group and test group $( P { > } 0 . 0 5 )$ .3) Compared with NC and AC groups,test group significantly increased the number of Lactobacillus in cecum and large intestine $( P { < } 0 . 0 5 )$ ，but significantly decreased the number of total bacteria in duodenumof pigs $( P { < } 0 . 0 5 )$ . In conclusion, soybean enzymatic fermentation product can improve the growth performance and body's antioxidant capacity of piglets, has beneficial effect on Lactobacillus colonization in gut,and makes the performance reached the antibiotic using level. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: soybean; enzymatic fermentation; piglets; antioxidant capacity; intestinal florai ",
+        "page_idx": 9
+    }
+]

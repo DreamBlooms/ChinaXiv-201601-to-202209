@@ -1,0 +1,194 @@
+# 口喉边界传热下吸湿性颗粒物运动与沉积模拟
+
+陈晓乐，钟文琪\*
+
+(东南大学能源热转换及其过程测控教育部重点实验室，南京 210096)(Tel: 025-83794744,Email: wqzhong@seu.edu.cn)
+
+摘要：本文构建了含呼吸道周边黏液层和组织的口喉呼吸道模型，实现了黏液层上水蒸气组分输运和对流传热、黏液层内汽化潜热和黏液层及呼吸道周边组织内的导热模拟，在 $2 7 . 6 ^ { \circ } \mathrm { C }$ ，相对湿度 $34 . 7 \%$ 空气入口条件下分别模拟了在1)考虑呼吸道、黏液层及组织导热、对流和汽化潜热和2)呼吸道壁面恒定 $3 7 ^ { \circ } \mathrm { C }$ 两种边界条件下的理想口喉模型中多组分吸湿性颗粒物的运动和沉积。结果表明，条件1平均相对湿度较条件2高 $2 . 3 \%$ ，但颗粒物沉积率比条件2小，最大差异可达 $9 \%$ ；颗粒物沉积形式类似，但条件1下沉积的颗粒物平均直径比条件2小 $40 . 7 \%$ ，逃逸颗粒物平均直径小 $14 . 3 \%$ 。
+
+关键词：边界传热；呼吸道；可吸入颗粒物；吸湿性；多组分中图分类号：X503.1 文献标识码：A
+
+# Numerical study of the transport and deposition of hygroscopic particles in a mouth-throat airway with heat-transfer boundary
+
+CHEN Xiao-Le ZHONG Wen-Qi\*(KeyLaboratoryofEnergyeralConversionandControlofinstryofducation,SoutheastUiversityNanjing6,ha）
+
+# Abstract:
+
+A mouth-throat (MT) airway model is constructed, including the airway tissue and mucus layer. It realizes the simulations of the water vapor transport above the mucus layer,calculations of the convection heat-transfer, the latent heat due to evaporation of the mucus and the heat condition within the airway tisse.The transport and deposition of multi-component hygroscopic particles are simulated at $2 7 . 6 ^ { \circ } \mathrm { C }$ and relative humidity (RH) at $34 . 7 \%$ Two types boundary conditions are considered,i.e.，1）considering heat transfer，including the conduction, convection and latent heat generation in the airway,mucus layer and tissue,2) constant temperature of the airway boundary at $3 7 ^ { \circ } \mathrm { C }$ . The simulation results indicate that the average RH of condition 1 is $2 . 3 \%$ higher when compared to that of condition 2.However,the deposition efficiency (DE）of condition 1 is smaler,and the largest DE difference between the two conditions is up to $9 \%$ . The deposition patterns are similar when comparing the two conditions. But the average diameters of deposited and escaped particles of condition l are $40 . 7 \%$ and $1 4 . 3 \%$ smaller than that of condition 2, respectively.
+
+Key words: heat-transfer boundary; airway; inhalable particle; hygroscopicity; multi-component
+
+# 0引言
+
+近年来随着呼吸道内可吸入颗粒物研究的不断深入，研究者越来越关注利用可吸入颗粒物运动和沉积规律尝试实现呼吸道内药物颗粒的靶向投递，其中吸湿性颗粒物相关研究引起了较为广泛的关注。已有研究表明，通过控制吸湿性颗粒物的初始直径，使其在穿过上呼吸道时较少地发生沉积，入肺后呼吸道内湿度明显提高，颗粒物发生吸湿增长，直径和惯性发生明显提高，使颗粒物能够高效地在肺内沉积[1-3]。
+
+由于吸湿性颗粒物的吸湿增长过程易受环境温度和湿度影响[4]，所以准确模拟呼吸道内温度、湿度条件是预测吸湿性可吸入颗粒物运动和沉积的前提条件。然而，在以往的研究中一般使用呼吸道壁面温度为 $3 7 ^ { \circ } \mathrm { C }$ 、相对湿度(Relative Humidity, RH)
+
+为 $9 9 . 5 \%$ 或 $100 \%$ 条件进行研究[5,6]。同时目前的实验中一般采用3D打印和快速成型方法加工呼吸道模型，材料一般为塑料、树脂等，因此难以模仿呼吸道表面黏液输运和组织传热过程[3,7]。但实际过程中，周围环境温度和RH一般低于呼吸道条件，所以在呼吸过程中，呼吸道壁面黏液层及附近组织将与空气进行传热，包括与空气的对流换热、水分蒸发所造成的气化潜热损失和组织内导热[8]。
+
+本文构建了含有黏液层和周边人体组织的理想口喉模型，并在不同传热边界条件下模拟了吸湿性可吸入颗粒物的运动和沉积过程，即在空气 $T =$ $2 7 . 6 ^ { \circ } \mathrm { C }$ ， $R H = 3 4 . 7 \%$ 入口条件下对比了1)考虑组织内导热、黏液层表面对流和水蒸气蒸发造成的汽化潜热损失以及2)呼吸道壁面恒定 $3 7 ^ { \circ } \mathrm { C }$ 两种边界条件下的温度和相对湿度分布以及多组分颗粒物的沉积率和沉积形式。
+
+# 1 控制方程
+
+# 1.1气相
+
+由于口喉模型中存在横截面渐缩，流速逐渐增大，存在层流-湍流捩变和湍流流动，因此气相场流动模拟采用了TransitionSST模型，因篇幅限制不罗列控制方程，细节可参考前人研究[9,10]，在呼吸道内的应用可参考 Zhang 和 Kleinstreuer(2011)工作[]。为分析水蒸气在呼吸道内的分布，采用了干空气和水蒸气两种组分，组分输运模型为[12]:
+
+$$
+\frac { \partial } { \partial t } { \left( \rho Y _ { i } \right) } + \nabla \cdot \left( \rho \vec { \nu } Y _ { i } \right) = - \nabla \cdot \vec { J } _ { i }
+$$
+
+相应能量方程为[12].
+
+$$
+\frac { \partial } { \partial t } ( \rho H ) + \nabla \cdot \left( \rho \vec { \nu } H \right) = \nabla \cdot \left( \frac { k _ { t } } { c _ { p } } \nabla H \right)
+$$
+
+# 1.2颗粒相
+
+颗粒相控制方程主要包含两方面，一方面是运动方程，假设可吸入颗粒物为稀相，忽略颗粒间碰撞，其运动可由牛顿第二定律确定[13,14]：
+
+$$
+m _ { p } \mathrm { d } \vec { u } _ { p } / \mathrm { d } t = \vec { F } _ { D } + m _ { p } ( \rho _ { p } - \rho ) \vec { g } / \rho _ { p }
+$$
+
+另一方面是颗粒物与周围流体中蒸气相互作用方程，该模型假设颗粒物表面有一厚度可忽略的薄层，薄层中气态组分浓度由颗粒物(液滴)表面组分决定。薄层内蒸气成分与周围流体中蒸气成分的传质过程中，可蒸发组分 $e$ 的平均质量通量 $_ { n _ { e } } ^ { - }$ 为[15,16].
+
+$$
+\overline { { n } } _ { e } = \frac { \rho S h \widehat { B } _ { e } C _ { m } } { d _ { p } } \ln \frac { 1 - Y _ { e , \infty } } { 1 - Y _ { e , s u r f } }
+$$
+
+由此可以确定吸湿性颗粒物吸湿增长/蒸发[6,15,16].
+
+$$
+\frac { d m _ { _ { p } } } { d t } = - \sum _ { e = 1 } ^ { k } \int _ { s u r f } n _ { e } d A \approx - \sum _ { e = 1 } ^ { k } ( \overline { { { n } } } _ { e } \cdot A )
+$$
+
+式(4)中颗粒物表面组分 $e$ 的质量分数 $Y _ { e , s u r f }$ 可以由修正的Raoult 定律得到[4,15,16].
+
+$$
+Y _ { e , s u r f } = \gamma _ { e } x _ { e } K _ { e } \frac { P _ { \nu e , s a t } ( T _ { p } ) } { \rho R _ { e } T _ { p } }
+$$
+
+# 1.3固相
+
+固相中仅为热传导过程，其控制方程为：
+
+$$
+\frac { \partial } { \partial t } \big ( \rho h \big ) = \boldsymbol { \nabla } \cdot \big ( k \boldsymbol { \nabla } T \big ) + \boldsymbol { S } _ { h }
+$$
+
+其中热源项 $S _ { h }$ ，即黏液层水蒸气蒸发所吸收的热量，仅存在代表黏液层的网格中。
+
+根据下式可得水蒸气在黏液层上的通量：
+
+$$
+\vec { J } _ { _ { w \nu } } = - \Bigg ( \rho D _ { _ { w \nu , m } } + \frac { \mu _ { t } } { S c _ { t } } \Bigg ) \nabla Y _ { _ { w \nu } } - D _ { _ { T , w \nu } } \frac { \nabla T } { T }
+$$
+
+由此，结合水蒸气气化潜热值可获得 $S _ { h }$ 。
+
+# 2模拟对象与条件
+
+理想口喉模型空腔部分结构与Zhang 等(2006)[17]所提出的相同，口腔入口直径为 $3 0 \mathrm { m m }$ ，喉部出口为 $8 . 5 \mathrm { m m }$ 。 ${ \mathrm { W } } { \mathrm { u } } $ 等(2014)研究指出，受传热影响的呼吸道周围组织厚度约 $0 . 5 \mathrm { m m } ^ { [ 8 ] }$ ，因此在Zhang等(2006)所用模型外增加了总厚度为 $1 \mathrm { m m }$ 的黏液层-组织区域。理想口喉模型结构和网格划分示意图如图1所示，其中流体域采用了Ogrid，进行了边界层加密，保证首层网格 $y ^ { + }$ 值小于1。划分黏液层-组织区域网格时，采用了类似的加密方法，贴近流体的第一层网格厚度为 $1 0 \mu \mathrm { m }$ ，作为黏液层，其余九层网格逐渐增厚，占据 $9 9 0 \mu \mathrm { m }$ ，作为呼吸道周围组织。生成了网格数为61.6万、289.3万和988.5万的三个网格，经网格无关性校验，选择网格数为289.3万的网格，其中流体域和黏液层-组织区域网格数分别为228.7万和60.6万。
+
+在模拟中假设稳态吸气流量为 $2 3 . 6 \mathrm { L } / \mathrm { m i n } ( \$ 入口处雷诺数 $R e = 8 3 2 . 6$ ，出口处 $R e = 2 9 3 8 . 7 \mathrm { ; }$ ，入口处速度分布为层流的抛物面形状，假设壁面 $R H =$ $9 9 . 5 \%$ ，入口空气 $T = 2 7 . 6 ^ { \circ } \mathrm { C }$ ， $R H = 3 4 . 7 \%$ ，首先在1)考虑导热、对流和汽化潜热和2)呼吸道壁面恒定$3 7 ^ { \circ } \mathrm { C }$ 两种条件下开展干空气和水蒸气两种组分气体的流动模拟。
+
+![](images/c85cbf7c22857522de1f45903537d94ee8889581ff90ac383bf94359053b1c57.jpg)  
+图1理想口喉模型与网格划分示意图 Fig.1IdealizedMTairwaymodel and mesh
+
+在流动模拟收敛后(残差 $< 1 0 ^ { - 4 } )$ 在稳态流场下进行吸湿性多组分颗粒物运动和沉积的模拟，颗粒物初始组分为水、酒精、NaC1和荧光剂，质量比为400：100：100：2.5，在低RH条件下，颗粒物将蒸发失去水和酒精成分，形成固体颗粒(仅含NaCl和荧光剂，直径为初始直径的 $4 4 . 3 \%$ ，当颗粒物进入壁面附近的高RH区域时可能发生吸湿增长。如表1所示，每种边界条件进行8组不同颗粒物初始直径的模拟以获得颗粒物沉积率与Stokes数关系。每次颗粒物运动和沉积模拟中在入口处释放10000个颗粒，颗粒物在入口的分布的概率密度正比于当地速度，即为抛物面型，颗粒物初始速度与流速相同。为保证颗粒物吸湿/蒸发模拟的稳定，颗粒物运动的时间步长设定为 $1 0 ^ { - 7 } \mathrm { s }$ 。此外，颗粒物的脉动速度[18]和湍流脉动的近壁面修正[19]由自编UDF完成。
+
+表1吸湿性多组分颗粒物初始直径与Stokes工况表 Table1 Initialdiametersand Stokesnumbers of the multi-component hygroscopic particle   
+
+<html><body><table><tr><td>颗粒物直径dp(um)</td><td>Stokes 数</td></tr><tr><td>2.5</td><td>1.98E-04</td></tr><tr><td>5</td><td>1.24E-03</td></tr><tr><td>7.5</td><td>2.79E-03</td></tr><tr><td>10</td><td>4.96E-03</td></tr><tr><td>11.25</td><td>1.12E-02</td></tr><tr><td>12.5</td><td>1.98E-02</td></tr><tr><td>13.75</td><td>2.51E-02</td></tr><tr><td>15</td><td>3.10E-02</td></tr></table></body></html>
+
+# 3结果与讨论
+
+# 3.1温度与RH分布
+
+由于篇幅限制，在此不详细介绍理想口喉模型内的流场分布，细节可参见前人研究[17]。在图2给出传热边界下(条件1)和恒定壁温(条件2)中平面、出口以及黏液层中的温度分布。从整体中平面和出□温度分布来看(图 2(a))，其分布形式与速度场十分相似，但值的大小相反，这是由于进口空气温度低于呼吸道边界，管流中心速度快的空气未能充分地与呼吸道表面发生热交换。考虑呼吸道表面导热、对流和汽化潜热作用时(图2(b))，能够明显观察到黏液层中温度的不均匀分布，在口咽附近的弯区处由于气流冲刷强化了对流换热和水蒸气蒸发，因此温度较低。在恒定壁温条件下，可以观察到壁面附近温度较条件1偏高(图2(c))，且出口处在黏液层-组织内并无温度梯度。
+
+![](images/ead318bc4db0b3e4c3aba0cee93688b0865a63ff51528feca06367a12940fc4a.jpg)  
+(a)条件1中平面及出口温度分布
+
+![](images/5cbdd434795a729780a45373cd4cb11fb5f0779c812d9f07159332800ce026e1.jpg)  
+(b)条件1黏液层温度分布
+
+![](images/5cc7146621636a5e2b4f864e939b7dce9dfe2badd9d132ca3f7399bac8ac2950.jpg)  
+(d)条件2黏液层温度分布   
+图2边界传热和恒定壁温条件下口喉模型内中的温度分布 Fig.2The temperature distributions of the MT airway for heat-transfer boundary and constant temperature boundary conditions
+
+图3所示为两种条件下理想口喉模型内中平面及出口的RH分布，两者较为接近，但能够发现在口咽处和出口处，条件1下的高RH区域更深入地扩展到管流中部区域，对比两者在流体域内的平均RH可以发现条件1比条件2高 $2 . 3 \%$ 。在前期研究中已经发现，吸湿性颗粒物的增长过程对RH较为敏感，如果扩展到整个呼吸系统，可能带来较大的吸湿性颗粒物沉积差异。
+
+![](images/9125c1054350b30790e767e49c484bea1a6ad7a68c4a6ab4ceb46ed808639aff.jpg)
+
+(a)入口空气 $T = 2 7 . 6 ^ { \circ } \mathrm { C }$ ， $R H = 3 4 . 7 \%$ ，考虑导热、对流和汽化潜热，流体域平均 $R H = 5 6 . 9 \%$
+
+![](images/5e0ab1ea1a6559ceb0c79e79a51f33ec0017565cba6bb46e9f53886da5624315.jpg)  
+图3不同条件下理想口喉模型内中平面及出口的RH分布 Fig.3 RH distributions of the symmetrical plane and outlet of the idealized MT model for different boundary conditions
+
+(b)入口空气 $T { = } 2 7 . 6 ^ { \circ } \mathrm { C }$ $R H = 3 4 . 7 \%$ ，呼吸道壁面恒定 $3 7 ^ { \circ } \mathrm { C }$ 流体域平均 $R H = 5 4 . 6 \%$
+
+# 3.2沉积率
+
+图4所示为两种条件下吸湿性颗粒物沉积率与Stokes数关系，可以发现在条件1下，流体域平均RH 相对较高(见图3(a))，但其沉积率仍低于条件2的结果 $_ { \mathrm { S t = 0 } . 0 2 5 }$ 时，沉积率差异最大约为 $9 \%$ )。这与以往在定温条件下颗粒物吸湿能力与RH正相关有所差异，说明吸湿性颗粒物吸湿增长/蒸发过程可能不仅与RH有关，还与温度有关。因此，简化恒定壁温条件可能对高估吸湿性颗粒物沉积率，同时在此条件下呼吸道内大部分区域RH 尚低于 NaCl吸湿增长的阈值[20,21]，肺内高RH环境的模拟仍有待开展。
+
+![](images/3b5fa68b0298f705935b648661e7ea51fe6ef7f6732104b730f955b07d55d4e2.jpg)  
+图4不同条件下吸湿性可吸入颗粒物沉积率与Stokes数关系
+
+# 3.3 沉积分布
+
+图5所示为两种条件下初始直径 $1 1 . 2 5 \mu \mathrm { m }$ 吸湿性颗粒物的沉积和离开出口时的分布及最终颗粒直径。由于两种条件的差异主要在温度上，所以流场以及颗粒物轨迹基本相近。可以发现，沉积的颗粒物大多集中在咽喉区域的弯曲处，同时颗粒物相对均匀的沉积在了咽喉一周，说明颗粒物一定程度上跟随了二次流的运动，而不是直接受惯性控制碰撞在后侧壁面，这应与颗粒物在入口段低RH区域水和酒精组分蒸发导致颗粒变小有关。同时观察出口处的颗粒物分布，发现大颗粒大多集中在壁面附近，即高RH区域，部分大颗粒被二次流卷吸入气管中部，其余 $R H < 7 0 \%$ (参考图3)区域内颗粒物基本为干颗粒(图5中呈蓝色)。统计图5中的颗粒物直径得知条件1下沉积的颗粒物平均直径为 $6 . 2 0 \mu \mathrm { m }$ ，逃逸的颗粒物平均直径为 $6 . 1 5 \mu \mathrm { m }$ ，条件2下分别为$1 0 . 4 5 \mu \mathrm { m }$ 和 $7 . 1 8 \mu \mathrm { m }$ 。这种差异可能在流场复杂的鼻腔或更大的范围内的呼吸道内变得更加明显
+
+![](images/896a6e39e32930730ab5dd56fa1fd3973448a2cfeea143e17df531dc0db02c40.jpg)  
+Fig.4 Comparison of deposition efficiencyof hygroscopic particles under different boundary conditions   
+图5不同条件下理想口喉模型内初始 $d _ { p } = 1 1 . 2 5 \mu \mathrm { m }$ 吸湿性颗粒物沉积形式和出口分布
+
+Fig.5 Deposition patterns and distributions at the outlet of hygroscopic droplets with initial diameter of $1 1 . 2 5 \mu \mathrm { m }$ in the idealized MT model under different boundary conditions
+
+# 4结论
+
+本文构建了含有黏液层和周边人体组织的理想口喉模型，在 $2 7 . 6 ^ { \circ } \mathrm { C }$ ，相对湿度 $34 . 7 \%$ 空气入口条件下分别模拟了在1)考虑呼吸道、黏液层及组织导热、对流和汽化潜热和2)呼吸道壁面恒定 $3 7 ^ { \circ } \mathrm { C }$ 两种边界条件下开展了多组分吸湿性可吸入颗粒物的运动和沉积模拟，对比分析了理想口喉模型内的温度和RH分布以及颗粒物的沉积率和沉积形式，主要结论如下：
+
+1)当考虑了导热、对流和汽化潜热后，能够明显观察到黏液层内温度低于 $3 7 ^ { \circ } \mathrm { C }$ 和温度的不均匀
+
+分布；
+
+2)条件1下平均RH较条件2高约 $2 \%$ ，但颗粒物沉积率反而较低，最大差异可达 $9 \%$ ，说明颗粒物的吸湿增长不仅与RH相关，还和温度分布有关；
+
+3)两种条件下颗粒物沉积形式相似，但条件2下沉积和逃逸的颗粒物的平均直径比条件1分别高$40 . 7 \%$ 和 $14 . 3 \%$ ，这一差异在复杂流场(如鼻腔)和大范围呼吸道下尚不明确，仍有待开展。
+
+# 主要符号表
+
+# Nomenclature
+
+（204号 $c _ { p }$ （20 比定压热容 $m _ { p }$ （20 颗粒质量 （204 $d _ { p }$ （20 颗粒直径 $P _ { \nu e , s a t } ( T _ { p } )$ （204号 （204号 $T _ { p }$ 下的饱和压力 DT.wv 水蒸气热扩散系数 $S c _ { t }$ （204 Schmidt数 （204号 $\textstyle \bigtriangledown _ { e }$ （20 组分e的质量扩散率 $S h$ （204 Sherwood数 （204号 $\vec { F } _ { D }$ （20 颗粒电力 （204号 $\vec { u } _ { p }$ （204 颗粒速度 $H$ （20 气体焓 $x _ { e }$ （20 组分 $e$ 在溶液中的摩尔分数 $J$ （20 扩散通量 （204 $Y$ （204号 气体质量分数 $k$ （20 导热系数 $\gamma _ { e }$ （204号 组分e在溶液中的活度系数 $k _ { t }$ （204 湍流热导率 $\mu _ { { } _ { t } }$ （204 湍流动力粘度 $K _ { e }$ （204号 组分e的Kelvin效应修正系数 $\rho _ { p }$ （2 颗粒密度
+
+# 参考文献
+
+[1]HINDLEM,LONGESTPW.Evaluationof enhancedcondensational growth (ECG)forcontroledrespiratorydrugdelivery ina mouth-throat and upper tracheobronchial model[J].Pharmaceutical Research,2010,27(9): 1800-1811.   
+[2]LONGESTP W,TIAN G,HINDLEM.Improving thelung deliveryof nasalladministered aerosols during noninvasive ventilation—anapplicationofenhancedcondensational growth (ECG)[J].JoualofAerosolMedicineandPulmonaryDrugDelivery 2011,24(2): 103-118.   
+[3]TIAN G,HNDLEM,LONGESTPW.Targeted lung deliveryof nasalladministeredaerosols[J].Aerosol Scienceand Technology,2014,48(4): 434-449.   
+[4]FENG Y,KLEINSTREUERC,CASTRO N,et al.Computational transport,phasechangeanddeposition analysisof inhaled multicomponentdroplet-vapormixtures inanidealizedhumanupperlungmodel[J].JoualofArosolScience,2016,96:96-123. [5]ZHANG Z,KLEINSTREUER C,HYUNS.Size-change anddepositionofconventional andcompositecigaretesmokeparticles during inhalation in a subject-specific airway model[J]. Journal of Aerosol Science,2012,46: 34-52.   
+[6]FENGY,KLEINTREUERC,ROSTAMIA.Evaporationndcondensationofmulticomponent electronic cigaretedropletsand conventionalcigaretesmokeparticles ianidealizedG-G6triplebifurcatingunit[J].JoualoferosolScience,215,80:58-74. [7]GOLSHAHIL,TIANG,AZIMIM,et al.Theuseofcondensational growthmethods foreficient drug deliverytothelungs during noninvasive ventilation high flow therapy[J].Pharmaceutical Research,2013,30(11): 2917-2930.   
+[8]WUD,TAWHAI MH, HOFFMANEA,etal. A numericalstudyof heat and water vaportransfer in mdct-based human airway models [J].Annals of Biomedical Engineering,2014,42(10): 2117-2131.   
+[9]MENTER FR,LANGTRYR,LIKKI S,etal.Acorelation-based transition model using local variables—Part I:model formulation [J]. Journal of Turbomachinery,2006,128(3): 413-422.   
+[10]MENTERFR,LANGTRYR,VLKER S.Transition modeling for general purpose CFD codes[J].Flow,Turbulenceand Combustion,2006,77(1-4): 277-303.   
+[1] ZHANG Z,KLEINSTREUER C.Laminar-to-turbulent fluid-nanoparticledynamicssimulations:Modelcomparisonsand nanoparticle-depositionapplications[J].InternationalJouralforNmericalMethodsinBiomedicalEnginering，0l12(2): 1930-1950. [12]FENGY,KLEINEUERC.Mcron-particle tasport,interactionsanddepositiointriplelung-airwaybfurcatiosinga novel modeling approach [J]. Journal of Aerosol Science, 2014,71: 1-15.   
+[13] ZHANG Z,KLEINSTREUERC,KIM C.Efects ofcurved inlet tubes onair flowand particle depositioninbifurcating lung models [J]. Journal of Biomechanics, 2001,34(5): 659-669.   
+[14]ZHANG Z,KLEINSTREUER C,KIMC.Gas-solidtwo-phaseflowin atriple bifurcation lung airwaymodel[J].Intemational Journal of Multiphase Flow,2002,28(6): 1021-1046.   
+[15]ZHANGZ,KLEINSTREUER C,KIMCS.sotonic and hypertonic salinedropletdepositioninahumanupper airwaymodel[J]. Journal of Aerosol Medicine,2006,19(2):184-198.   
+[16]ZHANGZ,KLEINSTREUERC,FENGY.Vapordepositionduringcigarete smoke inhalationinasubject-specific humanairway model[J]. Journal of Aerosol Science,2012,53: 40-60.   
+[17]ZHANGY,CHIATL,INLAYWH.Experimental measurementand numerical studyofparticle deposition inhighlyidealized mouth-throat models [J]. Aerosol Science and Technology,2006,40(5): 361-372.   
+[18]GOSMANA,LOANNDESE.Aspectsofcomputersimulationof iquid-fueledcombustors[J].JournalofEnergy1983,7(6): 482-490.   
+[19]WANGY,AMESP.Ontheefectofanisotropyonthetrbulentdispersionanddepositionofsallparticles[J].Inteational Journal of Multiphase Flow, 1999,25(3): 551-558.   
+[20]CRUZCN,PANDISSN.Deliquescenceandhygroscopicgrowthof mixed inorganic-organicatmosphericaerosol[J]. Environmental Science & Technology, 2000,34(20): 4313-4319.   
+[21]TANGI,MUNKELWITH,DAVIS J.Aerosolgrowth studies—IIPreparationand growth measurementsofmonodispersesalt aerosols [J]. Journal of Aerosol Science,1977,8(3): 149-159.
+
+# 附页
+
+第一作者联系方式：  
+陈晓乐，江苏省南京市玄武区四牌楼2号东南大学能源与环境学院，210096  
+手机号码：15380897295  
+邮箱：xlc@seu.edu.cn

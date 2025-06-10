@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201608251732 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨朗生,刘兴良,刘世荣,潘红丽,冯秋红,李迈和.卧龙巴郎山川滇高山栎群落植物生活型海拔梯度特征.生态学报,2017,37(21)：7170-7180.YangLS,iuXaeLcterisftsQefioon Balang Mountain，Wolong Nature Reserve.Acta Ecologica Sinica,2017,37(21):7170-7180.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卧龙巴郎山川滇高山栎群落植物生活型海拔梯度特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨朗生¹，刘兴良²,\\*，刘世荣4,潘红丽²，冯秋红²,李迈和³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1四川农业大学风景园林学院，温江611130  \n2四川省林业科学研究院，四川卧龙森林生态系统定位站，成都610081  \n3 瑞士联邦森林、雪和景观研究院,CH-8903 Birmensdorf,瑞士  \n4中国林业科学研究院森林生态环境与保护研究所,国家林业局森林生态环境重点实验室,北京100091",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：川滇高山栎林隶属于亚高山硬叶栎林类型,是一种广泛分布在横断山地区的特殊植被类型,研究同一群落生活型谱的海拔梯度特征,可以阐明控制群落的重要气候特征以及群落对其气候生境的反映,揭示川滇高山栎种群对空间的利用、群落内部种群间可能产生的竞争及其发展趋势。用环境梯度法,研究卧龙自然保护区巴朗山川滇高山栎群落植物生活型特性随海拔梯度(15个海拔梯度，海拔 $2 2 0 0 { - } 3 6 0 0 \\ \\mathrm { m }$ )的变化。卧龙巴朗山川滇高山栎群落植物生活型以高位芽植物为主，占 $3 6 . 0 1 \\%$ ;地面芽和地下芽植物相当,分别为 $2 5 . 9 2 \\%$ 和 $2 9 . 3 6 \\%$ ,地上芽植物最少,占 $0 . 9 2 \\%$ 。高位芽生活型物种在各个海拔梯度都占重要地位,占巴朗山全部生活型物种的 $2 1 . 7 4 \\% - 5 0 . 0 0 \\%$ ,随海拔的升高逐渐下降;地面芽植物(H)具有随海拔升高先升高后降低的趋势;地下芽植物(G)生活型随海拔的升高而升高;一年生植物(Th)在整个海拔梯度内占 $1 0 . 0 0 \\%$ 以下,随海拔的升高波动不大，即在 $5 . 6 7 \\% - 8 . 9 4 \\%$ 之间。高位芽生活型植物主要以常绿高位芽植物为主,随海拔升高而下降,常绿高位芽植物丰富度呈现随海拔升高逐渐降低的趋势,而且其物种丰富度小于落叶高位芽植物丰富度;在卧龙巴郎山阳坡海拔 $3 3 0 0 \\mathrm { ~ m ~ }$ 以上范围内,大、中高位芽植物仅占 $3 . 0 9 \\% - 4 . 2 6 \\%$ ,说明森林植被特征在逐渐弱化。比较分析了不同类型植物群落植物生活型特征,阐明了川滇高山栎林是区别于其他常绿阔叶林的特殊类型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：川滇高山栎;高位芽植物;地上芽植物;地面芽植物;地下芽植物;一年生植物;卧龙自然保护区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Life-form characteristic of plants in Quercus aquifolioides community along an elevational gradient on Balang Mountain， Wolong Nature Reserve ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Langsheng' ,LIU Xingliang2\\* ,LIU Shirong4,PAN Hongli²,FENG Qiuhong²,LI Maihe ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Landscape Architecture,Sichuan Agricultural University,Wenjiang 611130,China   \n2Sichuan Academy of Forestry,Sichuan Wolong Forest Ecosystem Research Station,Chengdu 610081,China   \n3Swiss Federal Research Institute for Forest，Snow and Landscape WSL,CH-89O3 Birmensdorf,Suitzerland   \n4Instuteofottd   \nState Forestry Administration,Beijing 1Ooo91,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Evergreenoak（Quercus aqufolioides Rehder&E.H.Wilson）forest isatypeof subalpine sclerophyllus forest that is widelydistributed inthesubalpine zoneof the Hengduan Mountainsinsouthwestern China.Inorderto investigatethe responseoftheforest'splantlife-formcharacteristics toclimateenvironment，theadaptabilityof evergrenoak forestto space，and the possiblecompetition among species，we documented the life-form characteristicsof vascular plants from15 different Q. aquifolioides communities along an elevational gradient from 2200 to $3 6 0 0 \\mathrm { ~ m ~ }$ on Balang Mountain，Wolong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nature Reserve,SW China.The plant life forms of the community were mainly composed of Phanerophytes $( 3 6 . 0 1 \\% )$ ， followed by Chamaephytes ( $2 5 . 9 2 \\%$ ）and Geocryptophytes（ $( 2 9 . 3 6 \\% )$ ），and Hemicryptophytes were the least common $( 0 . 9 2 \\% )$ ).Phanerophytes played an important role，accounting for $2 1 . 7 4 \\%$ to $50 \\%$ of all species living on Balang Mountain，although itsprevalencegraduallydecreased with increasingaltitude.Incontrast，Hemicryptophytes initially increased with increasing altitude butthendecreased，and Geocryptophytes increased with altitude.Meanwhile，the proportion of Therophytes fluctuated with increasing altitude，accounting for between $8 . 9 4 \\%$ and $5 . 6 7 \\%$ of the species present.Inaddition，theabundance of theevergreen Phanerophytes plants decreased with increasing altitude，and the richness of evergreen Phanerophyte species was lower than that of deciduous Phanerophytes.At $3 3 0 0 \\mathrm { ~ m ~ }$ ，the Macro- and Mesophanerophytes accounted for only $3 . 0 9 \\%$ and $4 . 2 6 \\%$ of the species present，respectively，this indicated that life-form characteristicsof evergreenoak forest weregradually weakening.Finally，comparativeanalysisof theplantlife-form characteristics of different plant communities indicated that the $Q$ 、aquifolioides forest is different from other special types of evergreen broad-leaved forest. ? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Quercus quifolioides；Phanerophytes；Chamaephytes；Hemicryptophytes；Geocryptophytes；Therophytes; Wolong Nature Reserve ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物生活型是植物对环境条件适应后在其生理、结构、尤其是在外部形态上的一种具体反映[1-2],是群落外貌特征的重要参数之一[3]。相同的生活型反映的是植物对环境具有相同或相似的要求或适应能力[4]，一个地区植物生活型谱的组成与其生态环境的多样性密切相关[5-6],即使在同一个地点,海拔和地形等的差异也会导致群落生活型谱的差异[7],通过生活型谱的比较,可以洞察控制群落的重要气候特征[8],还可以为古植物学的研究提供一定证据[9]。不同地点生活型谱随海拔的升高和纬度的增加,常导致地面芽和地上芽的升高,但一年生种子植物减少[10]。川滇高山栎林是中国植被非常特殊的亚高山硬叶栎林类型,在横断山地区从森林到灌丛连续出现的现象极为罕见,分布海拔可从海拔 $1 9 0 0 \\mathrm { ~ m ~ }$ 分布到海拔 $4 2 0 0 \\ \\mathrm { m } ^ { [ 1 1 - 1 2 ] }$ ,其群落植物生活型及其随海拔梯度特征未见报道,因此,通过对卧龙巴郎山川滇高山栎同一群落生活型谱的海拔梯度特征比较分析,阐明川滇高山栎群落生活型图谱与其他类似地区森林群落的差异,以及控制群落的重要气候特征以及群落对其气候生境的反映,并为揭示川滇高山栎种群对空间的利用、群落内部种群间可能产生的竞争及其发展趋势等提供理论依据[13],从而进一步阐明川滇高山栎林是区别于其他常绿阔叶林的特殊类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卧龙自然保护区位于青藏高原东南缘的邛崃山东坡， $1 0 2 ^ { \\circ } 5 2 ^ { \\prime } - 1 0 3 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E }$ ， $3 0 ^ { \\circ } 4 5 ^ { \\prime } - 3 1 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { N }$ ,以高山峡谷为主要地貌特征。该区具有冬寒夏凉、降水丰富、干湿季节明显的气候特点,在海拔 $2 7 0 0 \\mathrm { ~ m ~ }$ 地带,年平均温度$8 . 4 \\mathrm { ^ { \\circ } C \\ , 1 }$ 月平均气温 $- 1 . 7 \\% , 7$ 月平均气温 $1 7 . 0 \\mathrm { { ^ { \\circ } C } }$ ， $\\mathrm { \\geqslant 0 \\% }$ 活动积温 $4 0 0 0 ^ { \\circ } \\mathrm { C }$ ;年平均降水量 $8 6 1 . 8 ~ \\mathrm { m m }$ ,5-9月降水量达全年降水量的 $6 8 . 1 \\%$ ,年平均相对湿度 $8 0 \\%$ 左右。川滇高山栎灌丛集中分布在巴郎山阳坡海拔$2 7 0 0 { - } 3 3 0 0 \\ \\mathrm { m }$ 地带,下接河谷,上接高山草甸。林下土壤为山地棕土,较干燥,厚度 $5 0 . 0 \\ \\mathrm { c m }$ 左右。灌丛郁闭度0.8,平均高度1.1— $3 . 5 \\mathrm { ~ m ~ }$ ,零星分布灌木有13种,灌木种类以川滇高山栎为优势建群种,伴生种类主要有木帚枸子（Cotoneaster dielsianus）、平枝枸子( $C .$ 、horizontalis）鞘柄菝葜(Smilax stans）红花蔷薇(Rosa moyesii)等;草本植物32 种,盖度0.4,平均高度 $0 . 2 5 \\mathrm { ~ m ~ }$ ,主要种类有糙野青茅（Deyeuxia scabrescens）、双花堇菜（Violabiflora）珠芽蓼（Polygonum viviparum）、乳白香青（Anaphalis lactea）、钉柱委陵菜（Potentilla saundersiana）等;苔藓盖度0.4,厚度 $2 \\ \\mathrm { c m }$ ;枯枝落叶层厚度3.0- ${ \\cdot 6 . 0 \\ \\mathrm { c m } }$ 。主要海拔梯度川滇高山栎群落特征（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 野外样地设置及记录内容",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用样地法和梯度格局法,在川西山地巴郎山阳坡,沿川滇高山栎分布海拔2200— $3 6 0 0 \\mathrm { ~ m ~ }$ 范围,海拔每",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上升 $1 0 0 \\mathrm { ~ m ~ }$ 设置 $1 0 \\ \\mathrm { m } \\times 1 0 \\ \\mathrm { m }$ 样地,重复3次计15个海拔梯度45 块,在每个样地内,调查并记录每种植物名称、胸径、株高、冠幅等指标,同时记录群落类型、物种种类组成及盖度等群落学特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6e20f16d39a15368c417a9889da6a538f66602f7b4996d40fa7f6bfafe53a34.jpg",
+        "table_caption": [
+            "Table1The characteristics of Q.aquifolioides community in the different altitude gradients "
+        ],
+        "table_footnote": [
+            "Al:Altitude；E：Exposure；MH：Mean height；MD：Mean diameter;CD：Canopy density;SE：South east"
+        ],
+        "table_body": "<html><body><table><tr><td>海拔/m Al</td><td>坡度 Slope</td><td>坡向 E</td><td>土壤 Soil</td><td>平均高 MH/m</td><td>平均地径 MD/cm</td><td>郁闭度 CD/%</td><td>枝下高/cm</td><td>立木密度 /（木/hm²）</td></tr><tr><td>2400</td><td>33°30'</td><td>SE</td><td>山地棕壤</td><td>3.81</td><td>5.03</td><td>0.70</td><td>0.41</td><td>1697.0</td></tr><tr><td>2800</td><td>20°40'</td><td>SE</td><td>山地暗棕壤</td><td>2.21</td><td>3.58</td><td>0.85</td><td>0.13</td><td>6618.0</td></tr><tr><td>3200</td><td>35°15'</td><td>SE</td><td>山地棕色暗针叶林土</td><td>1.62</td><td>2.67</td><td>0.75</td><td>0.33</td><td>4613.0</td></tr><tr><td>3600</td><td>40°</td><td>SE35°</td><td>山地棕色暗针叶林土</td><td>1.34</td><td>1.93</td><td>0.80</td><td>0.19</td><td>2617.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 生活型判断及植物名录",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物种类确定和植物种数统计由于低等植物采集和鉴定较为困难,本研究只针对维管束植物。植物名录及物种分布依据《卧龙植被及资源植物》[14]中植物分布的海拔记载进行补充,再通过实地调查植物种类的鉴定,确定每个海拔梯度植物种类和统计植物种数,进行植物名录编制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生活型判断根据丹麦生态学家提出的生活型系统[15],在植物活动处于最低潮的季节,按更新芽距土壤表面的位置对苗端提供保护的程度而划分,根据川西山地自然地理和植物区系特征,把卧龙巴郎山维管植物分为高位芽植物(Ph）、地上芽植物(Ch）、地面芽植物(H)、地下芽植物(G）、一年生植物（Th)等5大类,拟定了卧龙巴朗山川滇高山栎群落植物生活型分类系统(表2）[14]。 “。】",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据处理在Excel2016软件上运行数据处理",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a67dfb9fa1daaec65fcc9331c22fca4265ed648f3aa30cbe88fb59d36749e21e.jpg",
+        "table_caption": [
+            "表1 不同海拔梯度川滇高山栎群落特征",
+            "表2巴朗山川滇高山栎群落植物生活型组成",
+            "Table2The plantlife-form spectrumof vascularbundle plants of Q.aquifolioidescommunityin Balangshanmountain "
+        ],
+        "table_footnote": [
+            "Ph：高位芽植物,Phanerophytes；EMaph：常绿大高位芽植物,Evergreenmacrophanerophytes；DMaph：落叶大高位芽植物,Deciduousmacrophaneropytes;Meph常绿中高位芽植,Evegrenmesophanerophtes;DMeph落叶中高位植,Deciduousesophanerophtes；iph常绿小高位芽植物,Evergreen microphanerophytes；DMiph;落叶小高位芽植物,Deciduous microphanerophytes; $\\mathrm { E N p h }$ ：常绿矮高位芽植物,Evergreennanophanerophyte；ELph落叶矮高位芽植物,DecduousnanophanerophytesELph常绿藤本高位芽植物,Evergrenchamaephtevines；Dlph;落叶藤本高位芽植物,Deciduouschamaephytevines；Ch:地上芽植物,Chamaephytes；H;地面芽植物,Hemicryptophytes;G:地下芽植物,Geocryptophtes；Th:一年生植物,Therophytes"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">生活型及代码 The plant life-form and their code</td><td colspan=\"2\">组成Component</td></tr><tr><td>生活型类群 Group in life-form</td><td>生活型亚类群</td><td>种数 Number of Species</td><td>%</td></tr><tr><td>高位芽植物(Ph)</td><td>Sub-group in life-form 常绿大高位芽植物(EMaph)</td><td>1</td><td>0.23</td></tr><tr><td></td><td>落叶大高位芽植物(DMaph)</td><td>4</td><td>0.92</td></tr><tr><td></td><td>常绿中高位芽植物(EMeph)</td><td>2</td><td>0.45</td></tr><tr><td></td><td>落叶中高位芽植物（DMeph）</td><td></td><td></td></tr><tr><td></td><td></td><td>11</td><td>2.52</td></tr><tr><td></td><td>常绿小高位芽植物(EMiph)</td><td>13</td><td>2.98</td></tr><tr><td></td><td>落叶小高位芽植物(DMiph)</td><td>49</td><td>11.24</td></tr><tr><td></td><td>常绿矮高位芽植物(ENph)</td><td>20</td><td>4.59</td></tr><tr><td></td><td>落叶矮高位芽植物(DNph)</td><td>35</td><td>8.03</td></tr><tr><td></td><td>常绿藤本高位芽植物(ELph)</td><td>4</td><td>0.92</td></tr><tr><td>地上芽植物(Ch)</td><td>落叶藤本高位芽植物(DLph)</td><td>18</td><td>4.13</td></tr><tr><td>地面芽植物(H)</td><td></td><td>4</td><td>0.92</td></tr><tr><td>地下芽植物(G)</td><td></td><td>113</td><td>25.92</td></tr><tr><td>1年生植物(Th)</td><td></td><td>128</td><td>29.36</td></tr><tr><td></td><td></td><td>34</td><td>7.79</td></tr><tr><td>合计 Total</td><td></td><td>436</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1巴郎山川滇高山栎群落植物生活型特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在卧龙巴朗山川滇高山栎群落植物生活型以高位芽植物为主(表2），占 $3 6 . 0 \\%$ ;地面芽和地下芽植物相当，分别为 $2 5 . 9 2 \\%$ 和 $2 9 . 3 6 \\%$ ,地上芽植物最少，占$0 . 9 2 \\%$ 。生活型的大小序列为：高位芽植物型 $>$ 地下芽植物型 $>$ 地面芽植物型 $>$ 一年生植物型 $>$ 地上芽植物型，这种分布特征说明地带性植被仍然以森林植被为优势",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在高位芽植物型的10个亚类群中（图1），以落叶小高位芽植物(DMiph)最多，占卧龙巴朗山全部植物生活型物种的 $1 1 . 2 4 \\%$ ，占高位芽植物型的 $3 2 . 2 1 \\%$ ；落叶矮高位芽植物（ $\\mathrm { { \\Delta D N p h } } { \\bf \\cdot p h } _ { \\mathrm { { \\ell } } } ^ { \\mathrm { { \\ m b } } }$ )次之，占卧龙巴朗山全部植物生活型物种的 $8 . 0 3 \\%$ ,占高位芽植物型的 $2 2 . 2 9 \\%$ ；常绿矮高位芽植物( $\\mathrm { E N p h }$ )和落叶藤本高位芽植物( $\\mathrm { \\Delta D L p h }$ 相当，居第3位，分别占卧龙巴朗山全部植物生活型物种的 $4 . 5 9 \\%$ 和 $4 . 1 3 \\%$ ,分别占高位芽植物型的 $1 2 . 7 4 \\%$ 和$1 1 . 4 6 \\%$ ;落叶中高位芽植物（DMeph）和常绿小高位芽植物(EMiph)也各占卧龙巴朗山全部植物生活型的$2 . 5 2 \\%$ 和 $2 . 9 8 \\%$ ，分别占高位芽植物生活型的 $7 . 0 1 \\%$ 和$8 . 2 8 \\%$ 。 7",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2川滇高山栎群落植物生活型的海拔梯度特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "卧龙巴朗山其生活型物种丰富度对海拔的响应也有差异（表3)，其高位芽生活型物种在各个海拔梯度都占重要地位，占巴朗山全部生活型物种的 $2 1 . 7 4 \\%$ 一$5 0 . 0 0 \\%$ ,随海拔的升高逐渐下降；地上芽植物(Ch)生活型比例很小，没有明显的变化规律;地面芽植物(H)具",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "35.0030.0025.0020.00%15.0010.005.00國0H3S1 qDIg亚类群 Sub-groups",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EMaph:常绿大高位芽植物,Evergreen macrophanerophytes;DMaph;落叶大高位芽植物,Deciduous macrophanerophytes;EMeph：常绿中高位芽植物,Evergreen mesophanerophytes;DMeph;落叶中高位芽植物,Deciduousmesophanerophytes；EMiph：常绿小高位芽植物，Evergreen microphanerophytes；DMiph：落叶小高位芽植物，Deciduous microphanerophytes;ENph：常绿矮高位芽植物,Evergreennanophanerophyte；ELph：落叶矮高位芽植物，Deciduousnanophanerophytes；ELph：常绿藤本高位芽植物，Evergreenchamaephytevines；Dlph：落叶藤本高位芽植物，Deciduouschamaephyte vines",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有随海拔升高先升高后降低的趋势;地下芽植物(G)生活型随海拔的升高而升高；一年生植物(Th)在整个海拔梯度内占 $1 0 . 0 0 \\%$ 以下,随海拔的升高波动不大,即在 $5 . 6 7 \\% - 8 . 9 4 \\%$ 之间。高位芽生活型物种和地面芽植物(H）地下芽植物(G)生活型植物所占百分率在海拔 $2 9 0 0 \\mathrm { ~ m ~ }$ 处交汇（图2）,在此海拔高度以上,高位芽生活型植物所占百分率比地面芽植物(H)、地下芽植物(G)生活型植物所占百分率小,在卧龙巴郎山阳坡海拔$3 4 0 0 ~ \\mathrm { m }$ 以上范围内,大、中高位芽植物生活型仅占 $3 . 0 9 \\% - 4 . 2 6 \\%$ ,可以说明森林植被特征在逐渐弱化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在高位芽植物型的10个亚类群中（图3）,落叶小高位芽植物（DMiph)和落叶矮高位芽植物（ELph）随海拔升高呈现高 $$ 低 $$ 高 $\\stackrel { \\cdot } {  }$ 低 $$ 高 $$ 低的分布格局,在海拔 $2 7 0 0 \\mathrm { ~ m ~ }$ 和 $3 2 0 0 { - } 3 3 0 0 \\mathrm { ~ m }$ 出现峰值;常绿高位芽植物呈现随海拔升高逐渐降低的趋势,而且其物种丰富度小于落叶高位芽植物丰富度,表明落叶树种成分随海拔升高在逐渐增加。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3乔木植物生活型的海拔梯度特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在卧龙巴朗山乔木生活型植物的物种丰富度沿海拔梯度的变化趋势可以看出（图4）,随着海拔的升高，乔木植物的落叶大高位芽植物（DMaph）、落叶中高位芽植物（DMeph)物种丰富度有2个峰值，一个峰值在海拔 $2 4 0 0 { - } 2 5 0 0 \\mathrm { ~ m ~ }$ ,落叶大高位芽植物（DMaph）另一个峰值在海拔 $2 8 0 0 { - } 3 0 0 0 \\mathrm { ~ m ~ }$ ,而落叶中高位芽植物(DMeph)另一个峰值在海拔 $3 0 0 0 \\mathrm { ~ m ~ }$ 左右;常绿大高位芽植物(EMaph)丰富度具有随着海拔的升高先升高后降低，在海拔3100— $3 2 0 0 \\mathrm { ~ m ~ }$ 达到峰值;常绿中高位芽植物(EMeph)物种丰富度随着海拔的升高而降低，且分布在海拔 $2 7 0 0 \\mathrm { ~ m ~ }$ 以下。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9d9ea499462660c5799a6999d6d5844e02ea5320f17d5c1d1d1633451961f92.jpg",
+        "table_caption": [
+            "￥ reirsrnrereerrlssrerrsrelrlrlrreeginillilrrr）",
+            ""
+        ],
+        "table_footnote": [
+            "武",
+            "t "
+        ],
+        "table_body": "<html><body><table><tr><td>海拔</td><td colspan=\"10\">大高位芽植物 中高位芽植物</td><td colspan=\"5\"></td><td colspan=\"5\">地面芽</td></tr><tr><td>Altimdes</td><td colspan=\"3\"></td><td colspan=\"3\"></td><td colspan=\"3\">小高位芽植物</td><td colspan=\"3\">矮高位芽植物</td><td colspan=\"3\">藤本高位芽植物</td><td></td><td>地上芽</td><td></td><td>地下芽</td><td>一年生</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>合计</td><td>植物</td><td>植物</td><td>植物</td><td>植物</td><td>合计</td></tr><tr><td></td><td>0</td><td>3</td><td>3</td><td></td><td></td><td></td><td></td><td>28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>194</td></tr><tr><td>2200</td><td>0</td><td>3</td><td></td><td>2</td><td>8</td><td>10</td><td>6</td><td></td><td>34</td><td>11</td><td>23</td><td>23</td><td>4</td><td>12</td><td>12</td><td>97</td><td>0</td><td>42</td><td>41</td><td>14</td><td></td></tr><tr><td>2300 2400</td><td>0</td><td>4</td><td>3 4</td><td>2</td><td>8</td><td>10</td><td>6</td><td>29</td><td>35</td><td>12</td><td>24</td><td>24</td><td>4</td><td>12</td><td>12</td><td>100</td><td>1</td><td>46</td><td>43</td><td>15</td><td>205</td></tr><tr><td>2500</td><td>0</td><td>4</td><td>4</td><td>1 1</td><td>9 7</td><td>10</td><td>8 5</td><td>28</td><td>36</td><td>12 9</td><td>19</td><td>19</td><td>3</td><td>11</td><td>11</td><td>95</td><td>1</td><td>49</td><td>45</td><td>15</td><td>205 195</td></tr><tr><td>2600</td><td>0</td><td>3</td><td>3</td><td></td><td>7</td><td>8</td><td></td><td>28</td><td>33</td><td></td><td>18</td><td>18</td><td>3</td><td>11</td><td>11</td><td>86</td><td>1</td><td>49</td><td>43</td><td>16</td><td>164</td></tr><tr><td>2700</td><td>0</td><td>3</td><td>3</td><td>1</td><td></td><td>8</td><td>4</td><td>22</td><td>26</td><td>8 6</td><td>18</td><td>18</td><td>3</td><td>7</td><td>7</td><td>73</td><td>0</td><td>43</td><td>38</td><td>10</td><td>132</td></tr><tr><td>2800</td><td>1</td><td>2</td><td>3</td><td>0 0</td><td>2 3</td><td>2</td><td>3 4</td><td>20</td><td>23</td><td></td><td>16</td><td>16</td><td>2</td><td>3</td><td>3 4</td><td>55</td><td>1</td><td>33</td><td>35</td><td>8</td><td>179</td></tr><tr><td>2900</td><td>1</td><td>2</td><td>3</td><td>0</td><td>3</td><td>3 3</td><td>2</td><td>20</td><td>24</td><td>8</td><td>C</td><td></td><td>1</td><td>4</td><td></td><td>55</td><td>1</td><td>50</td><td>57</td><td>16 14</td><td>173</td></tr><tr><td>3000</td><td>1</td><td>2</td><td>3</td><td>0</td><td>3</td><td>3</td><td></td><td>19 18</td><td>21 20</td><td>8 8</td><td>13</td><td></td><td>1 1</td><td>3 2</td><td>3 2</td><td>52</td><td>2</td><td>53 54</td><td>52 53</td><td>13</td><td>171</td></tr><tr><td>3100</td><td>2</td><td>1</td><td>3</td><td>0</td><td>0</td><td>0</td><td>2 1</td><td>13</td><td></td><td>7</td><td>12 12</td><td>12</td><td></td><td></td><td>1</td><td>49</td><td>2</td><td>50</td><td></td><td>9</td><td>156</td></tr><tr><td>3200</td><td>2</td><td>1</td><td>3</td><td>o</td><td>0</td><td>0</td><td>1</td><td>11</td><td>14 12</td><td>7</td><td>13</td><td>12 13</td><td>1 1</td><td>1</td><td></td><td>38 37</td><td>2 2</td><td>51</td><td>57 55</td><td>9</td><td>154</td></tr><tr><td>3300</td><td>1</td><td>2</td><td>3</td><td>0</td><td>0</td><td>0</td><td>1</td><td>12</td><td>13</td><td>7</td><td>8</td><td>8</td><td>0</td><td></td><td></td><td>32</td><td>2</td><td>48</td><td>51</td><td>8</td><td>141</td></tr><tr><td>3400</td><td>1</td><td>1</td><td>2</td><td>0</td><td>1</td><td>1</td><td>5</td><td>7</td><td>12</td><td>9</td><td>11</td><td>11</td><td>0</td><td></td><td>1</td><td>36</td><td>2</td><td>50</td><td>60</td><td>13</td><td>161</td></tr><tr><td>3500</td><td>1</td><td>1</td><td>2</td><td>0</td><td>1</td><td>1</td><td>5</td><td>7</td><td>12</td><td>9</td><td>11</td><td>11</td><td>0</td><td>1</td><td>1</td><td>36</td><td>2</td><td>50</td><td>61</td><td>13</td><td>162</td></tr><tr><td>3600</td><td>1</td><td>1</td><td>2</td><td>0</td><td>1</td><td>1</td><td>5</td><td>6</td><td>11</td><td>9</td><td>11</td><td>11</td><td>0</td><td>1</td><td></td><td>135</td><td>2</td><td>50</td><td>61</td><td>13</td><td>161</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d421b13cceaf2e738b73d0660754a53bfd3ea1b75fb849afefad82e579a3f30c.jpg",
+        "img_caption": [
+            "图2卧龙巴朗山植物生活型的海拔梯度格局 Fig.2The altitudinal gradient pattern of plant life-form of vascular bundle plants on facing-south slope in Balangshan mountain in western Sichuan mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c74c90c066520943b669bd273142e35b9b4df68e58cf606be9beb0b47ac568c.jpg",
+        "img_caption": [
+            "图3巴郎山川滇高山栎群落高位芽植物亚类群海拔梯度特征 Fig.3TheSub-group inplant life-formspectrum of phanerophytesplants of Q. aquifolioidescommunity in Balangshan mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4灌木植物生活型的海拔梯度特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "常绿小高位芽植物（EMiph）、落叶矮高高位芽植物（ $\\mathrm { { D N p h } }$ ）、落常绿藤本高位芽植物(ELph)3种生活型物种丰富度的变化具有类似的变化，即随着海拔的升高而降低（图5);落叶小高位芽植物（DMiph）常绿矮高位芽植物(ENph)两种生活型植物的物种丰富度均呈现先增大后减小再升高的趋势，最高值出现在海拔2300—$2 4 0 0 \\mathrm { ~ m ~ }$ 的地段，偏向于低海拔地区，也即物种丰富度与海拔呈偏峰曲线关系，降到海拔 $2 7 0 0 \\mathrm { ~ m ~ }$ 时，达到最低值，然后升高;落叶藤本高位芽植物(DLph)物种丰富度随海拔的升高而降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5草本植物生活型的海拔梯度特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究表明，卧龙巴郎山川滇高山栎群落草本植物物种丰富度的变化具有减少的趋势，随着海拔的升高，地上芽植物（Ch）、地面芽植物（H）、地下芽植物（G）和年生植物(Th)4 种生活型植物的物种丰富度均呈现先增大 $$ 降低 $$ 增大 $\\stackrel { \\cdot } { \\longrightarrow }$ 降低的趋势，最高值出现在海拔",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/869e5f5f827d72aa203153e70978e58d1d0ce070ffc97319b4701030ca82eaf6.jpg",
+        "img_caption": [
+            "图4巴朗山乔木植物生活型的海拔梯度格局",
+            "Fig.4The altitudinal gradient pattern of tree plant life-form of vascular bundle plants on facing-south slope in Balangshan mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3400— $3 6 0 0 \\mathrm { ~ m ~ }$ 的地段,偏向于高海拔地区(图6)。随着海拔的升高,草本植物所占的比例逐渐上升，而在海拔 $3 0 0 0 \\mathrm { ~ m ~ }$ 以上地区,高山、亚高山草甸开始大量出现,而森林植被和灌丛植被逐渐减少,但还有少部分地段有零星分布的寒温性针叶林或寒温性阔叶灌丛植被。而灌木和乔木植物所占的比例逐渐下降,到了卧龙巴朗山海拔 $3 6 0 0 \\mathrm { ~ m ~ }$ 以上乔木植物所占比例已经降到0。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1862d5d1461674ca5a70a189178540a9fa3156c0019c2a7865954b5f82ab6c98.jpg",
+        "img_caption": [
+            "图5巴朗山川滇高山栎群落灌木植物生活型的海拔梯度格局 Fig.5The altitudinal gradient pattern of shrub plant life-form of Q.aquifolioides community in Balangshan mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0102f8b9f34fe89611dbd9051880e7cf596735079f2b6de2872e8576d0e652e0.jpg",
+        "img_caption": [
+            "图6巴朗山川滇高山栎群落草本植物生活型的海拔梯度格局 Fig.6The altitudinal gradient pattern of herbage plant life-form of Q.aquifolioides community in Balangshan mountain "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1海拔对川滇高山栎群落植物生活型的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在卧龙巴朗山各个海拔梯度内,草本植物种数所占的比例均最高,其次是灌木植物,乔木植物种数所占比例最低。由于卧龙巴郎山海拔跨度大,3种不同生长型植物所占比例沿海拔梯度的变化趋势明显具有差异性,不同生活型植物对海拔的敏感程度不同,因而其生活型物种丰富度可能具有不同的海拔梯度格局[16-17]在海拔 $2 7 0 0 \\mathrm { ~ m ~ }$ 左右的区域,3种生活型植物的比例随海拔升高的变化不大；而在高于 $2 5 0 0 \\mathrm { ~ m ~ }$ 的区域,随着海拔的升高,草本植物所占的比例逐渐上升;常绿大高位芽植物(EMaph)丰富度具有随着海拔的升高先升高后降低,在海拔 $3 1 0 0 { - } 3 2 0 0 \\ \\mathrm { m }$ 达到峰值,主要是该地带阳坡沟槽地段湿度增大,适合冷杉属植物分布和生长,而灌木和乔木植物所占的比例逐渐下降,在海拔 $4 6 0 0 \\mathrm { ~ m ~ }$ 以上地段乔木植物所占比例已经降到 $0 ^ { [ 1 8 ] }$ 。随着海拔梯度的升高,川滇高山栎林高位芽植物的比率下降,地下芽比例少和地面芽植物比率上升的特征与随海拔升高地下芽和地面芽植物比率上升[10]的规律有所不同,而且在不同海拔梯度上生活型谱的组成差异明显,也证实了到高海拔的寒冷地区,多为地面芽的观点[7],可以反映出卧龙地区山地气候的特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2坡向对川滇高山栎群落植物生活型的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "卧龙巴朗山川滇高山栎群落乔木、灌木和草本3种生活型植物,所占比例变化与区域内的植被垂直带谱的变化具有差异。按该区域植被带划分，在海拔 $2 2 0 0 { - } 2 7 0 0 \\ \\mathrm { m }$ 属于适温针林,阴坡分布森林以岷江冷杉、四川红杉组成的山地暗针叶林,在海拔 $2 7 0 0 { - } 3 0 0 0 \\ \\mathrm { m }$ 地带属于典型的寒温性针叶林地带[14],与该地带耐寒性针叶林分布较为一致[19]。但在该地带巴朗山阳坡植被与典型的适温针林在群落组成、结构等均完全不同,属于一种特殊的森林类型-川滇高山栎林,其物种组成具有明显的差异[20-24],在海拔 $3 0 0 0 \\mathrm { ~ m ~ }$ 以上地区,高山、亚高山草甸开始大量出现,而森林植被和灌丛植被逐渐减少,由于沟槽、高大身体的遮阴面等引起的水、热变化，局部地段有寒温性针叶林、桦木林或寒温性阔叶灌丛植被出现[14]。在卧龙巴朗山的川滇高山栎群落一年生植物占总植物生活型的 $5 . 6 7 \\% - 8 . 9 4 \\%$ ,明显高于卧龙地区该类生活型的比例,主要原因是处于高山峡谷阳坡,日照强烈,蒸发量较大，导致水分相对缺乏，从而形成的气候较为干旱,植物多以种子度过不良季节，因而一年生植物占一定优势,不同坡向之间植物种的构成不同,可导致其植被群落特征及植物种生活型谱的差异[25]。因此,巴郎山阳坡随海拔升高,形成草本植物比例逐渐升高而乔木和灌木比例逐渐降低的格局,这与",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其他的研究结果明显不同[16,21,26] 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3川滇高山栎群落植物生活型组成与高山环境的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "卧龙地区属青藏高原气候区的东缘,尽管其水平地带性属于亚热带气候区[27],具有明显垂直气候带谱，因而植物生活型谱与其他亚热带气候区有差异,也和邻近纬度上的亚热带生活型谱不同,其他亚热带气候区的植物生活型谱中,高位芽植物均在 $6 0 \\%$ 以上,如缙云山植物中高位芽植物最多,常绿阔叶林和针阔混交林高位芽比例均占种数的 $8 0 \\%$ 以上,松林坡针叶林高位芽植物多达 $7 4 . 4 7 \\%$ [28],巴朗山阳坡由于日照时间相对较长,温度也相应增高,表现在巴朗山阳坡森林随海拔上升,逐渐退化为高山灌丛和高山草甸,同时,高位芽植物卧龙地区仅占 $2 9 . 6 0 \\%$ ,地下芽植物却高达 $3 3 . 3 5 \\% ^ { [ 2 9 ] }$ ,整个卧龙地区高位植物和地下芽植物种数较多，构成生活型谱的比率大,但滇高山栎群落以高位芽植物占 $3 6 . 0 1 \\%$ ;地面芽和地下芽植物分别为 $2 5 . 9 2 \\%$ 和$2 9 . 3 6 \\%$ ,可以说明该区域组成植被的物种分布与高山环境气候有关,群落所在地大气候及小气候影响群落的物种组成[30],因而影响植物生活型及叶特征[31],导致川滇高山栎群落植物生活型谱与该区域岷江冷杉[32]、珙桐群落[33]、红杉群落[34]等其他森林群落植物生活型谱具有明显不同(表4),可以说明川滇高山栎群落生活型组成具有独特性,反映了对巴郎山阳坡干旱和寒冷地区特殊气候的适应,表明硬叶常绿阔叶林是中国横断山区分布的非常稳定的自然类群[20,23]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4川滇高山栎群落植物生活型组成与地带性植被的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "暖温带森林地面芽植物生活型谱中的比例较稳定,不因为群落类型和水热梯度发生大的波动,显示出强大的地带性约束力,但由于受水热条件的限制和人类活动的影响,暖温带地区一般缺乏大于 $2 5 \\mathrm { ~ m ~ }$ 的大高位芽植物,而且中国暖温带森林地区气候相对温和,地上芽植物比例也很少[4.7,35],而典型热带、亚热带常绿阔叶林的生活型主要以高位芽植物居多,地下芽植物很少[36-37],但卧龙巴朗山川滇高山栎群落维管植物以高位芽植物为优势( $3 6 . 0 2 \\%$ ),比寒温带-暖温带森林针叶林,如俄罗斯平原针-阔林过渡带森林 $( 3 0 . 6 \\%$ )[38]、大兴安岭红皮云杉林 $( 2 9 . 9 \\%$ )[39]、小兴安岭东部森林( $2 9 . 3 \\%$ )[40]、长白山西南坡鱼鳞云杉林 $( 2 5 . 4 \\%$ )[41]高,与暖温带落叶阔叶林东北地区蒙古栎群落( $3 4 . 3 \\%$ )[42]接近，低于秦岭北坡锐齿栎林( $( 5 8 . 7 \\%$ )[43]和河南伏牛山低海拔的铁杉林占 $5 1 . 0 \\% ^ { [ 3 5 ] }$ ,也低于同类地区针叶林,岷江冷杉林， $( 4 2 . 0 \\%$ )[32]、四川红杉林 $( 6 6 \\% ) ^ { [ 3 4 ] } ]$ 和四川卧龙珙桐林( $4 8 \\%$ )[33],远远低于亚热带常绿阔叶林和热带雨林-四川瓦屋山常绿阔叶林 $( 5 9 . 9 \\%$ )[44]、浙江百山祖北坡中山常绿阔叶林占( $( 7 3 . 0 \\% )$ [45]、福建武夷山常绿阔叶林 $\\left( 8 4 . 1 \\% \\right) ^ { [ 4 6 ] }$ 、云南高黎贡山南坡湿性常绿阔叶林（ $4 3 . 8 \\%$ )[47]、云南澜沧江中山湿性常绿阔叶林 $5 5 . 4 \\% ^ { [ 4 8 ] }$ 、云南西双版纳热带雨林 $( 8 6 . 4 \\% - 9 0 . \\ 0 \\% )$ [49]，但高于岷江上流祁连山圆柏林 $( 3 1 . 7 \\% ) [ 5 0 ]$ （表4）。川滇高山栎群落植物地面芽占 $2 5 . 9 2 \\%$ ,比寒温带-暖温带森林、及岷江流域常绿针叶林植物地面芽所占比例低 $[ 4 , 3 2 , 3 5 , 3 8 { - } 4 3 , 5 0 ]$ （表4）,明显高于岷江上游森林(红杉林、珙桐林）、典型常绿阔叶林以及热带雨林[-34,449]。川滇高山栎群落地下芽植物所占比例 $2 9 . 3 6 \\%$ )高于寒温带-暖温带森林 $( 4 . 4 \\% - 2 6 . 4 \\%$ ）、典型常绿阔叶林以及热带雨林( $( 1 . 4 \\% - 1 2 . 5 \\%$ )、岷江上游流域森林(圆柏林、岷江冷杉林和珙桐林) ( $( 1 2 . 3 \\% - 2 2 \\%$ )等森林地下芽所占比例(表4）,卧龙巴朗山群落维管植物以地面芽和地下芽为最多,地上芽植物相对较少,说明了地面芽和地下芽是对冬季酷寒天气适应最成功的生活型,与川滇高山栎群落所处的地理位置、区域干湿季明显、低温的气候特点相一致,其生活型组成的巨大差异表明了川滇高山栎分布地带明显的垂直气候特征。因此,川滇高山栎林发生和发展发育与所处地带冬季寒凉气候条件和高山峡谷特殊地貌特征密切相关,也说明该群落植被属于在垂直气候带谱上发育的具有温带属性的特殊植被类型,也是区别于世界冬雨区(地中海气候)硬叶林的重要标志[20]。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/69ee5459c997e4c9d792fd3f440512b6e210c41373823944bc8d98497c03670b.jpg",
+        "table_caption": [
+            "− .... _-. ： ....... ： Ttaqea ",
+            "rrrilrtrrrerilrrereritrsprrltrglerrsrgirniltt "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地点及森林类型 Location and forest types</td><td colspan=\"2\">地理位置Geographical position</td><td rowspan=\"2\">海拔范围 Altitude range/m</td><td rowspan=\"2\">高位芽 植物(Ph)</td><td rowspan=\"2\">地上芽 地面芽 植物（Ch) 植物(H)</td><td rowspan=\"2\">地下芽 植物(G)</td><td rowspan=\"2\">一年生 植物(Th)</td></tr><tr><td>经度 Longitude</td><td>纬度Latitude</td></tr><tr><td>俄罗斯平原针-阔林过渡带云杉林[38]</td><td></td><td>55°30'—53°50'</td><td></td><td>30.6</td><td>8.6 46.7</td><td>9.3</td><td>4.8</td></tr><tr><td>Ecotone of coniferous and broad-leaved forest in Russia Picea @sperata forest 大兴安岭云杉林[39] Da hinggan mountains Picea asperata forest</td><td>123°20\"—125°07\"</td><td>52°09'—53°23'</td><td>820—1100</td><td>29.9</td><td>7.5 41.6</td><td>20.9</td><td></td></tr><tr><td>小兴安岭东部森林[40]East of Xiao hinggan mountains forest</td><td>129°39'48\"—130°47'36\"</td><td>47°32'21\"—48°23'50\"</td><td>427.2±300</td><td>29.3</td><td>14.6 41.0</td><td>19.7</td><td>4.2</td></tr><tr><td>长白山西南坡鱼鳞云杉林[41]</td><td>127°54'-128°8'</td><td>40°58'—42°06'</td><td>1700—1900</td><td>25.4</td><td>4.4 39.6</td><td>26.4</td><td>3.2</td></tr><tr><td>South eastern part of changbai mountain Picea jezoensis var.microsperma forest 东北地区蒙古栎群落[43]</td><td>122°13'—129°11'</td><td>40°44'—51°05'</td><td>125—840</td><td>34.3</td><td>3.2 32.4</td><td>23.1</td><td>8.9</td></tr><tr><td>North east of China Quercus mongolica forest 秦岭北坡锐齿栎林[42]</td><td>106°04'—110°40'</td><td>33°18'-34°26'</td><td>1400—1800</td><td>58.7</td><td>6.0 28.1</td><td>4.4</td><td>2.8</td></tr><tr><td>Northern part of qinling mountain Quercus acutidentata forest 河南伏牛山铁杉林[35]</td><td>113°30'-113°05'</td><td>32°45'-34°00'</td><td>1700</td><td>51.0</td><td>0.0 32.6</td><td>16.3</td><td></td></tr><tr><td>Funiu mountain in Henan province Tsuga chinensis forest 四川岷江上游祁连山圆柏林[50]</td><td></td><td>32°51'</td><td></td><td></td><td>5 35.2</td><td></td><td></td></tr><tr><td>Upper reaches of minjiang river in Sichuan province Sabina przewalskii forest</td><td>103°33'</td><td></td><td>3350—3561</td><td>31.7</td><td></td><td>12.3</td><td>15.8</td></tr><tr><td>四川岷江冷杉林[32] Sichuan province Abies faxoniana forest</td><td>102°52'-103°24'</td><td>30°45'-31°25'</td><td>2800—3800</td><td>42.0</td><td>0.6 43.8</td><td>9.9</td><td>3.7</td></tr><tr><td>四川卧龙琪桐林[3] Sichuan province Davidia involucrata Baill.forest</td><td>102°52'-103°24'</td><td>30°45'-31°25'</td><td>1525—1670</td><td>48.0</td><td>0.0 20.0</td><td>22.0</td><td>10.0</td></tr><tr><td>四川卧龙红杉林[34] Wolong in Sichuan province Larix mastersiana forest</td><td>102°52'—103°24'</td><td>30°45'--31°25' 30°45'-31°25'</td><td>2300—3000 2000—3600</td><td>66.0 36.0</td><td>1.0 9.0 0.9 25.9</td><td>21.0 29.4</td><td>3.0</td></tr><tr><td>四川卧龙川滇高山栎林 Wolong in Sichuan province Quercus quifolioides forest 四川瓦屋山常绿阔叶林[44]</td><td>102°52'—103°24'</td><td></td><td></td><td></td><td>0.0</td><td></td><td>7.8</td></tr><tr><td>Wawu mountain in Sichuan province evergreen broad-leaf forest</td><td>102°51'—103°20'</td><td>29°31'-29°51'</td><td>1500—2000</td><td>59.9</td><td>17.8</td><td>6.3</td><td>1.8</td></tr><tr><td>浙江百山祖北坡中山常绿阔叶林[45] Northern part of baishanzu mountain in Zhejiang province evergreen broad-leaf forest 福建武夷山常绿阔叶林[46]</td><td>119°11'46\"—119°11'56\"</td><td>27°45'36\"—27°45'44\"</td><td>1450—1600</td><td>73.0</td><td>1.3 12.2</td><td>12.5</td><td>0.9</td></tr><tr><td>Wuyishan mountain in Fujian province evergreen broad-leaf forest 云南高黎贡山南坡湿性常绿阔叶林[47]</td><td>117°27'-117°51'</td><td>27°33'-27°54'</td><td>500-2158</td><td>84.1 .</td><td>5.2 2.5</td><td>5.2</td><td>3.0</td></tr><tr><td>Southern part of Gaoligong mountain in Yunnan province moist evergreen broad-leaved forest</td><td>98°34'-98°50'</td><td>24°56'-26°09'</td><td>2000—3150</td><td>43.8</td><td>19.7 10.2</td><td>2.5</td><td>4.8</td></tr><tr><td>云南澜沧江中山湿性常绿阔叶林[48] Lancangjiang river in Yunnan province mid-montane humid evergreen</td><td>99°07'—100°25'</td><td>23°07'—25°02'</td><td>2600—3050</td><td>55.4</td><td>8.7 13.9</td><td>1.7</td><td>4.3</td></tr><tr><td>broad-leaved forest</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>云南西双版纳热带雨林[49] Xishuangbanna in Yunnan province tropical rain forest</td><td>100°52'—101°28'</td><td>21°38'—22°26'</td><td>983—1380</td><td>86.4—90.0 0.0—1.7</td><td>2.7-4.2</td><td>1.4-3.1</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Mueler-DomboisD,Elenberg H.Aimsand Methodsof Vegetation Ecology.New York：JohnWiley&Sons，1974：139-147.  \n[2]Whittaker R H. Community and Ecosystem. New York: Macmilan Company，1970: 6-17.  \n［3］蒋有绪，郭泉水，马娟.中国森林群落分类及其群落学特征.北京：科学出版社.1998.  \n[4] 高贤明，陈灵芝.植物生活型分类系统的修订及中国暖温带森林植物生活型谱分析.植物学报，1998，40(6)：553-559.  \n[5] Warming E,Graebner P.Lehrbuch derokologischen Pflanzengeographie.Berlin：Gebruder Borntrager，1902：3-7.  \n[6] 郭柯，郑度，李渤生.喀喇昆仑山—昆仑山地区植物的生活型组成.植物生态学报，1998，22（1）51-59  \n［7］江洪.东灵山植物群落生活型谱的比较研究.植物学报，1994，36(11）：884-894.  \n［8］王伯荪.植物群落学实验手册.广州：广东高等教育出版社，1996.  \n[9] MorleyRJ.Origin and Evolution of Tropical Rain Forests.Chichester：John Wiley& Sons，Inc.,2000. gica.c[10] 林鹏.植物群落学.上海：上海科技出版社，1986.[11] 吴征溢.中国植被.北京：科学出版社，1980：27-51，124-125，143-156，356-363.  \n[12]周浙昆.中国栎属的地理分布.中国科学院研究生院学报，1993,10(1):95-108.  \n［13］王伯荪.植物群落学.北京：高等教育出版社，1987.  \n［14］秦自生，虞泽荪，沙世贵.卧龙植被及资源植物.成都：四川科学技术出版社，1987：158-159.  \n[15]Raunkiaer C. The Life Forms of Plants and Statistical Plant Geography. Oxford:Clarendon Press，1934.  \n[16]HamiAC,eotR.AsdfiialoatoinhoaresbelfgKeUgadVegeato4（）:107- 125.  \n[17]WangGouGgL,Zrtsidfespetotithe norther slopes of Qilianshan Mountains，Gansu, China.Plant Ecology,2003，165(2):169-181.  \n［18］刘兴良．川西巴郎山地川滇高山栎林群落生态学的研究[D]．北京：北京林业大学，2006.  \n[19］何飞，冯秋红，潘红丽，樊华，刘兴良，刘世荣.四川卧龙岷江冷杉林分布规律及种群特征.四川林业科技，2015，36(2）：10-14.  \n[20］杨钦周.中国—喜马拉雅地区硬叶栎林的特点与分类.植物生态学与地植物学学报，1990,14（3）：197-211.[21］沈泽昊，方精云，刘增力，伍杰.贡嘎山东坡植被垂直带谱的物种多样性格局分析.植物生态学报，2001,25（6)：721-732.  \n[22］刘兴良，刘世荣，何飞，杨冬生，杨玉坡，马钦彦。中国硬叶常绿高山栎类植物的分类与现代地理分布.四川林业科技，2007，29（3)：1-7.  \n[23］刘兴良，杨冬生，刘世荣，杨玉坡，马钦彦.中国硬叶常绿高山栎类植物的起源与演化.四川林业科技，2008，28（1)：6-12.[24］刘兴良，何飞，樊华，潘红丽，李迈和，刘世荣.卧龙巴郎山川滇高山栎群落植物叶特性海拔梯度特征.生态学报，2013，33（22)：7148-7156.  \n[25］徐长林.坡向对青藏高原东北缘高寒草甸植被构成和养分特征的影响.草业学报，2016,25(4)：26-35.  \n[26] 沈泽昊，刘增力，方精云.贡嘎山海螺沟冷杉群落物种多样性与群落结构随海拔的变化.生物多样性，2004，12（2)：237-244.[27］陈淑全，罗富顺，熊志强.四川气候.成都：四川科学技术出版社，1997.[28］雷泞菲，苏智先，宋会兴，张焱.缙云山常绿阔叶林不同演替阶段植物生活型谱比较研究.应用生态学报，2002，13（3）：267-270.  \n［29］蔡绪慎，黄加福.卧龙植物生活型垂直分布规律初探.西南林学院学报，1990，10(1)：31-40.  \n[30]于顺利，马克平，陈灵芝.蒙古栎群落叶型的分析.应用生态学报，2003，14（1)：151-153.  \n[31] 朱华，王洪，李保贵，许再富．西双版纳热带季雨林的研究.广西植物，1998，18(4)：370-383.  \n［32］《四川森林》编辑委员会.四川森林.北京：中国林业出版社，1992.  \n[33] 钟章成，秦自生，史建慧.四川卧龙地区珙桐群落特征的初步研究.植物生态学与地植物学丛刊，1984，8(4)：253-263.  \n[34］黄金燕，周世强.四川红杉群落特征初步研究.西南林学院学报，1997,17（3）：5-10.  \n[35］朱学文，孙自友，叶永忠，魏志华.河南山地针叶林植物生活型谱的研究.河南科学,2000，18(3）：274-276.  \n[36] 胡舜士.广西常绿阔叶林的群落学特点.植物学报，1979，21(4)：362-370.  \n［37］宋永昌，张绅，刘金林，顾詠洁，王献溥，胡舜士．浙江泰顺县乌岩岭常绿阔叶林的群落分析.植物生态学与地植物学丛刊，1982，6(1) : 14-35.  \n[38］李新荣, $\\Pi \\mathrm { a } _ { \\mathrm { B I O B } } \\mathrm { ~ B ~ H ~ }$ ，俄罗斯平原针—阔林过渡带森林群落组成结构与物种多样性的研究.生物多样性，1999，7（4)：291-296.  \n［39］李晓平，许铁军，魏力.大兴安岭塔河林业局云杉林群落结构及组成特点分析.林业科技情报，2011,43（3）：4-8.  \n[40］董亚杰，王雪峰，翟树臣，赵利群．小兴安岭东北部植被组成的生活型及生活型谱分析.沈阳农业大学学报，1996,27(4)：294-299.  \n[41］陈灵芝.长白山西南坡鱼鳞皮云杉林结构的初步研究.植物生态学与地植物学丛刊，1964，1（1/2)：69-80.[42］赵永华，雷瑞德，贾夏，何兴元，陈玮.秦岭锐齿栎群落数量特征的研究.应用生态学报，2003，14（12)：2123-2128  \n[43] 于顺利，陈灵芝，马克平.东北地区蒙古栎群落生活型谱比较.林业科学，2000，36(3)：118-121  \n[44] 包维楷，刘照光.四川瓦屋山原生和次生常绿阔叶林的群落学特征.应用与环境生物学报，2002，8（2)：120-126.  \n[45] 徐敏.百山祖北坡中山常绿阔叶林群落特征研究［D].杭州：浙江大学，2006.  \n[46] 张艳艳.武夷山自然保护区不同森林群落生态学特征的比较研究[D].福州：福建农林大学，2008.  \n[47] 苏文苹，杜凡，杨宇明，王娟.高黎贡山南段中山湿性常绿阔叶林群落生态特征研究.四川林业科技，2014，35（5）：3-7.  \n[48] 丁涛，杜凡，王娟，杨宇明，和菊，石明.澜沧江自然保护区中山湿性常绿阔叶林生活型特征研究.西南林学院学报，2006，26（2)：19-23.  \n[49］李冬，唐建维，罗成坤，李俊松，刘正安.西双版纳季风常绿阔叶林的群落学特征.山地学报，2006,24（3）：257-267.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dea22a95935224613a4e32460fcd2c86bdfcd71603ccfd19767ef5be26b8a588.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    }
+]

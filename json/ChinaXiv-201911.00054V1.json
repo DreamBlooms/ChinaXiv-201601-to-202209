@@ -1,0 +1,477 @@
+[
+    {
+        "type": "text",
+        "text": "河西走廊东部沙尘暴特征及地面气象因素影响机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李玲萍1²，李岩瑛²，孙占峰²，王荣喆²（1．中国气象局乌鲁木齐沙漠气象研究所,中国气象局树木年轮理化研究重点开放实验室,新疆 乌鲁木齐830002；2．甘肃省武威市气象局，甘肃 武威 733000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用1961—2015 年河西走廊东部民勤、凉州和永昌逐小时沙尘暴资料以及代表站民勤逐日气温、地温、降水、最大冻土深度、积雪日数、积雪深度、平均风速、平均大风日数和近 $1 0 \\mathrm { ~ a ~ }$ 逐小时气温、地温和风速资料，运用常规的气候统计方法，对河西走廊东部沙尘暴特征进行研究，并采用相关系数（Pearson)法进一步分析沙尘暴的影响因素。结果表明：河西走廊东部沙尘暴频次下午到傍晚出现最多，凌晨最少,沙尘暴频次春季上午开始增多，秋、冬季中午开始增多，夏季下午开始增多。河西走廊东部持续 $6 0 \\sim 1 8 0 ~ \\mathrm { { m i n } }$ 沙尘暴频次最多，夏季持续 $1 \\sim 3 0 ~ \\mathrm { m i n }$ 频次最多,长持续时间的沙尘暴上午开始增多,而短时间的沙尘暴基本出现在下午到晚上。沙尘暴频次月、季变化4月和春季出现最多,9月和秋季最少;近55a沙尘暴频次呈减少趋势,主要是由大风日数减少、风速减小,地温、气温升高、降水增多、下垫面生态环境改善等因素造成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：沙尘暴；地面气象要素；河西走廊东部",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙尘天气是指强风从地面卷起大量沙尘，使空气混浊，水平能见度明显下降的天气现象，其可分为浮尘、扬沙、沙尘暴、强沙尘暴和特强沙尘暴5个等级[1-6]。沙尘暴是强风将地面沙尘吹起,使空气很混浊，水平能见度小于 $1 ~ 0 0 0 ~ \\mathrm { { m } }$ 的一种天气现象，是危害极大的灾害性天气，它会给人们的生活及生产带来巨大影响[7-10]。如:20 世纪30 年代发生在美国西南大平原的“黑风暴”，是一场危及人类的生态灾难[11-14],其影响持续了 $1 0 \\mathrm { ~ a ~ }$ ,因“黑风暴”造成的农业荒废延长了美国的经济萧条。中国也是受沙尘暴危害最严重的国家之一，尤其是西北地区，几乎每年都有强沙尘暴发生。甘肃河西走廊（以民勤为中心）是我国三大沙尘暴多发区之一〔15],特别是在河西走廊东部，沙尘暴已经成为春夏季最严重的气象灾害。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于各地沙尘暴的变化特征及其机理分析，许多学者做了大量研究[16-30],中国沙尘暴的多发时间，在一年中主要发生在春季，其次是夏季。在日分布上，王式功等[31]对1994 年4月上旬中国西北地区沙尘暴发生频率日变化的研究结果表明，沙尘暴主要发生在午后到傍晚，占总数的 $6 5 . 4 \\%$ ；清晨到中午,仅占 $3 4 . 6 \\%$ 。付有智等[32]分析指出甘肃河西走廊中部地区，黑风暴大都出现在12：00—22:00。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，利用长时间序列分析河西走廊东部沙尘暴逐时变化特征、沙尘暴不同持续时间日变化特征及其影响因素未见报道，而利用逐小时沙尘暴资料分析沙尘暴时间变化特征对做好沙尘暴短时临近预报预警有很好的参考作用。为此，本文利用河西走廊东部3个自动气象站1961—2015年逐时沙尘暴资料，从一日内不同时次的沙尘暴频次及不同持续时间对沙尘暴日变化特征及影响因素进行了研究，旨在进一步了解河西走廊东部沙尘暴变化机理，为提高本地沙尘暴短时临近预报预警准确率及防灾减灾提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 数据和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1气候背景和地形特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部地理位置处于 $1 0 1 ^ { \\circ } 4 9 ^ { \\prime } \\sim 1 0 4 ^ { \\circ } 4 3 ^ { \\prime } \\mathrm { E } .$ $3 6 ^ { \\circ } 2 9 ^ { \\prime } \\sim 3 9 ^ { \\circ } 2 7 ^ { \\prime } \\mathrm { N }$ ,南靠祁连山脉，北邻腾格里和巴丹吉林两大沙漠,处于河西走廊狭管地形出口处，东西长约 $2 4 0 ~ \\mathrm { k m }$ ，南北宽约 $3 0 0 ~ \\mathrm { k m }$ ，海拔高度从$1 ~ 2 0 0 \\sim 4 ~ 6 0 0 ~ \\mathrm { m }$ ,地势自东而西，由南向北倾斜，依次形成南部祁连山山地，中部走廊平原和北部荒漠3 个地貌单元。地形地貌复杂，境内山地、高山、平原、沙漠、戈壁和冰川等交错分布。它是季风气候与大陆性气候、高原气候与沙漠气候等的共同影响区，是一较典型的气候过渡带和气候变化的敏感区，远离海洋，青藏高原和祁连山脉阻挡了偏南暖湿气流的北上，降水稀少，大陆性干旱气候十分显著，大风、沙尘暴是本地一种危害极大的灾害性天气。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部沙尘暴日数自北向南呈递减趋势（图1），民勤自建站(1953年)以来年平均沙尘暴达25.9d，其他站分别为凉州（1951年)7.7d、永昌(1959 年)3.7d、古浪(1959年)2.5d、乌鞘岭(1951年)1.9d。可以看出南部山区古浪、乌鞘岭出现沙尘暴频次较少，因此，本文选取沙尘暴出现频次较多的民勤、凉州和永昌作为代表站来研究河西走廊东部沙尘暴变化特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4a6c57fba6bef086c014a725d50f1891e9b9af6760fff50b089d4f279648084.jpg",
+        "img_caption": [
+            "Fig.1Terrain features and distribution of sandstorm frequency in Hexi Corridor and its eastern part "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 资料与分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用1961—2015年河西走廊东部民勤、凉州和永昌逐时沙尘暴资料（沙尘暴频次是指3站总频次的平均)以及代表站民勤自动气象站逐日气温、地温、降水、最大冻土深度、积雪日数、积雪深度、平均风速、平均大风日数和近 $1 0 \\mathrm { ~ a ~ }$ 逐小时气温、地温和平均风速资料。运用常规的气候统计方法，对河西走廊东部沙尘暴特征进行了研究，并采用相关系数(Pearson)法进一步分析了沙尘暴的影响机制。气象观测规范规定日界为北京时间 $2 0 : 0 0 ^ { [ 1 ] }$ ,某一次沙尘暴过程跨越20：00，则按2个出现日计算；当某一天沙尘暴过程出现2次或以上，计算沙尘暴年、月日数按一个出现日计算。逐时沙尘暴频次是指某整点到下一整点的沙尘暴频次，记为下一整点沙尘暴频次（如08：05—09：05出现沙尘暴，记为09：00和10：00沙尘暴频次各1次）;沙尘暴持续时间是指将一次沙尘暴事件开始至结束期间的小时数定义为其持续时间，在计算沙尘暴开始时间时，为了与统计逐时沙尘暴频次一致，也把开始时间记为下一整点；当某一天沙尘暴过程出现两次或以上时，逐时沙尘暴频次和沙尘暴持续时间就分开时段统计。冬季定义为前一年12月至当年2月即前一年冬季，春季定义为当年3—5月，夏季定义为当年6一8月，秋季定义为当年9—11月。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2沙尘暴时间变化特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 沙尘暴日变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部年沙尘暴各时次频次表现为双峰形分布（图2），集中出现在中午到晚上（12：00—21：00），占总沙尘频次的 $7 0 . 7 \\%$ ,其频次最多出现在下午到傍晚（14：00—20：00），占总频次的 $5 2 . 4 \\%$ ，凌晨(02：00一05：00)最少，占总频次的 $5 . 5 \\%$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a6b023cd772b08c43f7aa33afbe05efd6ba052ae2fe813a8656eb385f37ad8a.jpg",
+        "img_caption": [
+            "图1河西走廊及河西走廊东部地形特征",
+            "图2河西走廊东部年沙尘暴逐时频次分布 Fig.2Distribution of hourly sandstorm frequency in east Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部沙尘暴频次各季节日变化有所不同（图3）。春季沙尘暴和年沙尘暴各时次频次分布相似，表现为双峰形（图3a），春季沙尘暴频次在11:00 就开始增多,集中出现在11:00—21:00，占总沙尘频次的 $7 3 . 2 \\%$ ,其中频次最多出现在下午到傍晚（15：00—20：00），占总频次的 $4 5 . ~ 4 \\%$ ，凌晨(02：00一05：00）频次最少，占总频次的 $5 . 1 \\%$ 。夏季沙尘暴出现次数较春季少，各时次频次为双峰形分布(图3b），出现时间段较春季推迟，主要出现在傍晚到晚上（18：00—22：00），占总频次的 $4 7 . 5 \\%$ ，凌晨04：00一05：00 频次最少，占总频次的 $2 . 7 \\%$ ，其余时间段频次分布较均匀。秋季沙尘暴最少，各时次频次显示单峰形分布（图3c），主要出现在中午到傍晚（13：00—19：00），占总频次的 $6 4 . 5 \\%$ ,其中14：00—16：00最多，占总频次的 $3 2 . 3 \\%$ ；凌晨02：00一04：00频次最少，占总频次的 $2 . 4 \\%$ 。冬季沙尘暴频次较秋季显著增多，各时次频次分布和秋季相似，显示单峰形分布（图3d)，主要出现在13：00—19：00，占总频次的 $6 7 . 7 \\%$ ，（15:00—17：00)出现频次最多，占总频次的 $3 4 . 8 \\%$ ；出现频次最少的是深夜（23：00—24：00），占总频次的$1 . 5 \\%$ 。说明春、秋、冬季沙尘暴由系统性天气过程引起的较多，天气系统影响的时间与系统移动速度、强度、发生时间有关，而夏季沙尘暴由局地对流不稳",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a1d13c56e92102cffef7cbfcd3e306dc0a652988612667374c84dc34d6c5a19.jpg",
+        "img_caption": [
+            "Fig.3Distribution of hourly sandstorm frequency in east Hexi Corridor in diffrent seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定引起的较多。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2沙尘暴月、季变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部月沙尘暴频次分布显示（图4），沙尘暴频次的峰值出现在4月，出现104次，占总频次的 $1 8 . 2 \\%$ ;其次是3月，出现89次，占总频次的$1 5 . 7 \\%$ ;9月出现频次最少，出现8次，占总频次的$1 . 5 7 \\%$ ,其次出现最少的是10月，出现12次，占总频次的 $2 . 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部季节沙尘暴频次分布显示（图5），沙尘暴频次的峰值出现在春季，出现271次，占总频次的 $4 7 . 5 \\%$ ;其次是夏季，出现142次，占总频次的 $2 4 . 9 \\%$ ;最少的是秋季，出现42次，占总频次的 $7 . 4 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/adabaa6dc0978afefa253c63aa81b295e620c88ebf88256d864307160c8f5f8e.jpg",
+        "img_caption": [
+            "图3河西走廊东部四季逐时沙尘暴频次分布",
+            "图4河西走廊东部月沙尘暴频次分布 Fig.4Distribution of monthly sandstorm frequency in east Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad71321b7067aa96d6b0a67d46fa06576127cee6d9ff18b756a32522d3e56d0e.jpg",
+        "img_caption": [
+            "图5河西走廊东部季节沙尘暴频次分布 Fig.5Distribution of seasonal sandstorm frequency in east Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3沙尘暴年变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "55a来河西走廊东部年沙尘暴频次(图6)均呈明显的下降趋势,气候倾向率为 $3 . 6 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 且通过0.10的信度检验。河西走廊东部年沙尘暴频次的年际波动较大，20世纪70年代开始出现增多趋势,且70 年代频次最多，为18d,90 年代出现明显的直线减少趋势，21世纪的2011—2015年出现频次最少，为1d。其中20 世纪60、70、80 年代为正距平，70年代正距平最大，90年代、2001—2010年、2011—2015 年为负距平,21 世纪的 2011—2015年负距平最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f4435ad21c34810bad0a5c7995aa47c563b9a5019b3f92c44d61dfbab6c1e3.jpg",
+        "img_caption": [
+            "图6河西走廊东部沙尘暴频次年际变化 Fig.6Interannual variation of sandstorm frequency in east Hexi Corridor "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3不同持续时间沙尘暴变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部年沙尘暴(图7)持续 $6 0 \\sim 1 8 0$ $\\operatorname* { m i n }$ 的频次最多，其次是持续 $1 \\sim 3 0 \\ \\operatorname* { m i n } { , } 3 0 \\sim 6 0$ $\\operatorname* { m i n } \\phantom { 0 } { \\phantom { 0 } } _ { \\mathrm { 1 8 0 } } \\sim 3 0 0 \\ \\operatorname* { m i n } \\phantom { 0 } _ { \\mathrm { 1 } } > 3 0 0 \\ \\operatorname* { m i n }$ 的沙尘暴。持续 $1 \\sim$ $3 0 \\ \\mathrm { m i n } \\ . 3 0 \\sim 6 0 \\ \\mathrm { m i n }$ 的沙尘暴集中出现在下午到夜间，持续 $6 0 \\sim 1 8 0 ~ \\operatorname* { m i n } \\phantom { 5 0 0 } . 1 8 0 \\sim 3 0 0 ~ \\operatorname* { m i n }$ 及 $3 0 0 ~ \\mathrm { { m i n } }$ 以上沙尘暴多集中在中午前后到下午。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e7da288306aa17e7b5264632acc0bd570067d0acf9921b252e1811a3acfc3e2.jpg",
+        "img_caption": [
+            "图7河西走廊东部不同持续时间年沙尘暴的日变化Fig.7Daily variation of sandstorm with different durations ineast Hexi Corridor"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部各季节不同持续时间沙尘暴频次有所不同(图8）。春季沙尘暴持续 $6 0 \\sim 1 8 0 ~ \\mathrm { { \\ m i n } }$ 频次最多（图8a），依次为持续 $1 \\sim 3 0 \\ \\operatorname* { m i n } _ { \\cdot } 3 0 \\sim 6 0$ $\\operatorname* { m i n } \\phantom { - } 1 8 0 \\sim 3 0 0 ~ \\operatorname* { m i n } \\phantom { - } \\phantom { - } > 3 0 0 ~ \\operatorname* { m i n }$ 的沙尘暴频次;夏季沙尘暴(图8b)持续 $1 \\sim 3 0 ~ \\mathrm { m i n }$ 频次最多，依次为持续 $6 0 \\sim 1 8 0 \\ \\operatorname* { m i n } _ { \\mathrm { { n } } } \\phantom { \\bigg | } _ { \\mathrm { { , } } } 3 0 \\sim 6 0 \\ \\operatorname* { m i n } _ { \\mathrm { { n } } } 1 8 0 \\sim 3 0 0 \\ \\operatorname* { m i n } _ { \\mathrm { { n } } } \\phantom { \\bigg | } _ { \\mathrm { { , } } } > 3 0 0$ min的沙尘暴频次;秋、冬季沙尘暴(图8c、8d)持续$6 0 \\sim 1 8 0 ~ \\mathrm { { \\ m i n } }$ 的沙尘暴频次最多，依次为持续 $3 0 \\sim$ $6 0 \\ \\operatorname* { m i n } \\mathrm { _ { \\rho } } 1 \\sim 3 0 \\ \\operatorname* { m i n } \\mathrm { _ { \\rho } } 1 8 0 \\sim 3 0 0 \\ \\operatorname* { m i n } \\mathrm { _ { \\rho } } > 3 0 0 \\ \\operatorname* { m i n }$ 的沙尘暴频次。各季节都表现为持续 $1 \\sim 3 0 \\ \\operatorname* { m i n } { , } 3 0 \\sim 6 0$ $\\operatorname* { m i n }$ 沙尘暴集中出现在下午到夜间，持续 $6 0 \\sim 1 8 0$ $\\operatorname* { m i n } \\phantom { 0 } { \\phantom { 0 } } \\sqrt { 8 0 } \\sim 3 0 0 \\ \\operatorname* { m i n }$ 及 $3 0 0 ~ \\mathrm { { m i n } }$ 以上沙尘暴多集中在中午前后到下午。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从不同持续时间沙尘暴变化特征可以看出，年、春、秋、冬季沙尘暴都是持续 $6 0 \\sim 1 8 0 \\ \\mathrm { \\ m i n }$ 频次最多，夏季持续 $1 \\sim 3 0 ~ \\mathrm { m i n }$ 频次最多。长持续时间的沙尘暴各个时段都有出现，集中时段上午开始增多，而短时间的沙尘暴基本出现在下午到晚上。进一步说明春、秋、冬季沙尘暴以及长持续时间沙尘暴多由系统性天气过程引起的，而夏季沙尘暴及短时间沙尘暴多由局地对流不稳定引起，其影响机制及春、夏、秋、冬季沙尘暴影响的异同有待进一步利用Mi-caps资料进行细致分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4沙尘暴影响因素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 沙尘暴日变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从近10a民勤地面气象要素逐时资料（图9）分析看出，地－气温差和平均风速都是中午前后开始出现大幅度上升，峰值出现在午后到傍晚，低点出现在凌晨，而午后湿度迅速减小，这与沙尘暴频次最多出现在下午到傍晚、最少出现在凌晨相吻合，说明午后近地面不均匀增温，产生低层大气层结不稳定和变压梯度，引起低空大气扰动发展，导致动量下传和变压风加大[31],沙尘暴随之增多。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f472093607fbe2cbf4d1f9f1d13986db34c47eff5723c29200a5c16da7b0b1d9.jpg",
+        "img_caption": [
+            "图8河西走廊东部四季沙尘暴不同持续时间频次的日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/759c7e590ac28a112d733a8730c562020878a999168f7aba5f445719cc20b3e9.jpg",
+        "img_caption": [
+            "Fig.8Hourly variation of seasonal sandstorm with different durations in east Hexi Corridor ",
+            "图9近10a民勤地面气象要素逐时变化 Fig.9Hourly variation of surface meteorological factors in Minqin during 2006 -2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进一步用近10a民勤有沙尘暴时当天的逐时地面气象要素，分析平均风速、地-气温差和最小相对湿度各个季节日变化的不同。平均风速日变化显示（图10a），春、冬季沙尘暴午后风速和风速增大幅度都明显大于夏、秋季节，这是春、冬季沙尘暴较多的一个原因，也是春、冬季午后到傍晚出现沙尘暴最多的原因。夏季风速变化幅度较小，最大风速出现在傍晚到晚上，与沙尘暴出现峰值相对应;地－气温差显示（图10b），四季沙尘暴出现时，总体上都是午后地－气温差出现明显增大的现象，与沙尘暴峰值出现在午后到傍晚相吻合，但各个季节反映有差别，夏季午后到夜间地－气温差最大，说明夏季沙尘暴热对流引起的较多；相对湿度显示（图10c），沙尘暴出现时，各个季节都表现为午后湿度迅速减小，与沙尘暴峰值出现在午后到傍晚也相吻合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2沙尘暴月、季变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了解近55a河西走廊东部月、季沙尘暴变化特征，统计分析了河西走廊东部（以沙尘暴最多的民勤站为例)地面气象要素的变化。从地面气象要素的月变化(图11a)可以看出，河西走廊东部大风日数和平均风速3月开始出现增多增大,4月达到峰值，9、10月最低；地－气温差2月开始变为正值，地表温度开始高于低空气温，6月达最大;2月开始地、气温开始上升,3月明显增温，到4月增温幅度达最大，气温的升温幅度明显小于地温的升温幅度，升温差的峰值也是4月，9、10月地、气温明显出现下降，10月达最低，且地温的降温幅度明显大于气温。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "季节变化(图11b)显示，春季大风日数和平均风速都为最大值，夏季次之，秋季最少；地－气温差春季开始变大，夏季最大;地－气温的升温幅度春季最明显，而且地温的升温幅度明显大于气温，秋季地－气温出现降温，而且地温的降温幅度明显大于气温。所以，沙尘暴频次从开春3月开始增多，4月达到最多，四季中春季最多，夏季次之，秋季9月开始呈明显减少趋势，秋季沙尘暴频次最少。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaeed133e09b1bbb6ff29f1384bc8a79d34fc18be077ab7259fe661d6b0f656b.jpg",
+        "img_caption": [
+            "图102006—2016 年民勤沙尘暴当天地面气象要素逐时变化",
+            "Fig.10Hourly variation of surface meteorological factors on sandstorm day in Minqin during 2OO6-2016 ",
+            "图111961—2015年民勤月、季地面气象要素变化",
+            "Fig.11Monthly and seasonal variations of surface meteorological factors in Minqin during 1961-2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "究其原因，春季冷暖空气异常活跃，气旋活动频繁、降雨稀少、天气干燥、地面解冻回暖、裸露地表土质疏松、地表温度明显高于低空气温，易形成干热不稳定的大气层结，加上河西走廊东部被两大沙漠包围,处于河西走廊狭管地形出口处，所以，从天气学和土壤特性的角度分析，春季最易满足沙尘暴产生的3个条件一丰富的沙源、强风和不稳定的空气层结[33];夏季冷空气较弱、植被较好,沙尘暴较春季明显减少，但夏天地面增温迅速，易出现对流不稳定性大风沙尘暴天气，所以，夏季沙尘暴较冬季多；秋季冷空气活动较弱，地面植被较好，对流天气较弱，所以，一年中秋季沙尘暴最少;冬季虽然冷空气活动频繁，但是地表冻结，缺乏沙源，同时地面增温减小，对流性大风沙尘不易出现，所以，冬季沙尘暴较春、夏两季都少。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3沙尘暴年变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为深人分析河西走廊东部年沙尘暴频次减少的原因，采用相关系数法(Pearson)计算了民勤沙尘暴与主要气象因子的相关系数(表1）。由表1可以看出，与年沙尘暴频次相关性最好的是年平均大风频次和年平均风速,为显著正相关,年平均大风频次和年平均风速的气候倾向率分别为 $\\mathbf { - \\ 2 . 9 0 } \\mathrm { ~ d ~ } \\cdot \\mathbf { \\qquad ^ { \\mathbf { \\qquad } } }$ (10a) $^ { - 1 }$ ） $- 0 . 0 6 \\textrm { m } \\cdot \\textrm { s } ^ { - 1 } \\cdot \\textrm { ( } 1 0 \\textrm { a ) } ^ { - 1 }$ ,呈现显著的下降趋势，年沙尘暴频次呈现极显著的减少趋势，所以大风日数和平均风速的减少是沙尘暴减少的主要原因。其次是沙尘暴频次与年平均气温、年平均地温为显著的负相关，平均气温、平均地温气候倾向率分",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "平均风速 一—大风日数 \\*地温升温幅度 一o一地-气温差 气温升温幅度（-s.u）/区‘p/日区 54 3 (a)月 1186420° （-s.w)/区‘P/日区 3 54 (b)季节 2186420°?2 2468 210 2468102100 125 6 7 8 9 10 11 12 春季 夏季秋季 冬季月份 季节",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c2d590307dcccae33c4183a4e87cfaf0b04eba373024c63d719b7440580ca2c.jpg",
+        "table_caption": [
+            "表1河西走廊东部沙尘暴频次与各气象要素相关系数表",
+            "ib.1 Correlation coefficients between sandstorm frequency and meteorological factors in east Hexi Corr "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示通过了 $9 5 \\%$ 信度检验； $^ { * * }$ 表示通过了 $9 9 \\%$ 信度检验。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">气象要素</td><td rowspan=\"2\">年平均 气温</td><td rowspan=\"2\">年平均 地温</td><td rowspan=\"2\">年平均 降水</td><td rowspan=\"2\">年平均 大风频次</td><td rowspan=\"2\">年平均风速</td><td rowspan=\"2\">冬季降水</td><td rowspan=\"2\">冬季冻土</td><td rowspan=\"2\">冬季积雪 日数</td><td rowspan=\"2\">冬季积雪 深度</td></tr><tr><td></td></tr><tr><td>相关系数</td><td>-0.594 **</td><td>0.563 **</td><td>-0.062</td><td>0.713 **</td><td>0.425 **</td><td>-0.193</td><td>0.402 **</td><td>-0.145</td><td>-0.113</td></tr><tr><td>趋势系数</td><td>0.044 **</td><td>0.243 **</td><td>0.268</td><td>-0.290 **</td><td>-0.006 *</td><td>0.036</td><td>0.127</td><td>-0.023</td><td>0.023</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "别为 $0 . 4 4 \\mathrm { ^ { \\circ } C \\cdot ( 1 0 a ) \\ ^ { - 1 } } \\mathrm { . 2 . 4 3 \\mathrm { ^ { \\circ } C \\cdot ( 1 0 a ) \\ ^ { - 1 } } }$ ,均呈显著的上升趋势，所以，地、气温的升高也是沙尘暴减少的主要原因。沙尘暴频次与冬季冻土呈明显的正相关，说明冬季冻土越深沙尘暴频次越多，这是因为沙尘暴日数的变化总与气温的变化相伴，冻深的变化总与气温的变化相伴，表明冻深与沙尘暴的关系在某种程度上反映的是气温与沙尘暴的关系，即冬季气温越低,冻土越深,沙尘暴越多[34],但冻土深度呈增长趋势(未通过信度检验)和气温呈上升趋势有矛盾，需进一步研究。年沙尘暴频次与年平均降水、冬季降水为负相关（未通过信度检验），年平均降水、冬季降水也表现为增长趋势，说明降水越多，下垫面土壤湿度增加，有利于抑制沙尘暴的发生;年沙尘暴频次与冬季积雪深度、积雪日数为负相关（未通过信度检验），说明积雪确实能改善下垫面的生态环境，提高下垫面的粗糙度，对抑制沙尘暴的发生有一定作用，但地表积雪覆盖状况只是影响沙尘天气的其中一个因子[35]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "受气温、地温和平均风速的日变化影响，河西走廊东部沙尘暴日变化中午前后大幅度上升，即峰值出现在午后到傍晚，低值点出现在凌晨。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于春、秋、冬季沙尘暴一般由系统性天气过程引起，而夏季沙尘暴多由局地对流不稳定引起，造成河西走廊东部春、秋、冬季沙尘暴各时次频次增多现象明显早于夏季，且持续 $6 0 \\sim 1 8 0 ~ \\mathrm { { m i n } }$ 频次最多，春季沙尘暴频次上午开始增多，秋、冬季中午开始增多,夏季则下午开始增多,持续 $1 \\sim 3 0 \\ \\mathrm { m i n }$ 的频次最多。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于春季气旋活动频繁，河西走廊东部大风日数和平均风速最大，夏季次之，秋季最少；地气温的升温幅度春季最明显，而且地温的升温幅度大于气温，造成春季裸露地表土质疏松;秋季地、气温出现降温，而且地温的降温幅度明显大于气温。所以，河西走廊东部沙尘暴开春3月出现增多，4月达到最多，四季中春季最多，秋季9月开始出现明显的减少趋势，秋季沙尘暴频次最少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "河西走廊东部沙尘暴频次与年平均大风频次、年平均风速和冬季冻土为显著的正相关，与年平均气温、地温为显著的负相关，与年平均降水、冬季积雪深度、积雪日数为弱的负相关。所以，近55a河西走廊东部沙尘暴频次减少主要是受大风日数减少，风速减小,地、气温升高，降水增多，下垫面生态环境的改善所致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]中国气象局.地面气象观测规范[M].北京：气象出版社, 2003.［China Meteorological Administrator.The Criterion of Surface Meteorological Observation[M].Beijing：Meteorological Press, 2003.]   \n[2]朱炳海,王鹏飞,束家鑫.气象学词典[M].上海:上海辞书出 版社,1985.[Zhu Binghai,Wang Pengfei,Shu Jiaxin.Meteorology Dictionary[M].Shanghai; Shanghai Dictionary Publishing House, 1985.]   \n[3]王式功,王金艳,周自江,等.中国沙尘天气的区域特征[J].地 理学报,2003,58（2）:193-200.[Wang Shigong,Wang Jinyan, Zhou Zijiang,et al.Regional characteristics of dust events in China [J].Acta Geaographica Sinica,2003,58(2）:193-200.]   \n[4]周自江.近45年中国扬沙和沙尘暴天气[J].第四纪研究, 2001,21(1）:9-17.[Zhou Zijiang.Blowing-sand and sandstorm in China in recent 45 years[J].Quaternary Sciences,2001,21 (1):9 -17.)   \n[5]王式功,董光荣,陈惠忠,等.沙尘暴研究的进展[J].中国沙 漠,2000,20（4）:349-358.[Wang Shigong,Dong Guangrong, Chen Huizhong,et al.Advances in studying sand-dust storms of China[J].Journal of Desert Research,2000,20(4）:349-358.]   \n[6]方宗义,朱福康.中国沙尘暴研究[M].北京：气象出版社, 1997:1-1O.[Fang Zongyi,Zhu Fukang.Study on Sandstorm in China[M].Beijing:Meteorological Press,1997:1-10.]   \n[7]张瑞军,何清,孔丹，等.近几年国内沙尘暴研究的初步评述 [J].干旱气象,2007,25(4）:88-94.[Zhang Ruijun,He Qing, Kong Dan,et al.Preliminary summary on sand-dust storm research in recent years in China[J].Arid Meteorology,2007,25(4） :88- 94.]   \n[8]王式功,杨得宝,金炯,等.我国西北地区黑风暴的成因和对策 [J].中国沙漠,1995,15（1）:19-30.[Wang Shigong,Yang Debao,Jin Jong,et al. Study on the formative causes and countermeasures of the catastrophic sandstorm occurred in Northwest China[J]. Journal of Desert Research,1995,15(1）:19 -30.]   \n[9]王汝佛,冯强,尚可政.2010 春季我国一次强沙尘暴过程分析 [J].干旱区地理,2014,37（1）:31－44.[Wang Rufo,Feng Qiang,Shang Kezheng.A severe sand-dust storm over China in the spring of 2010[J].Arid Land Geography,2014,37(1):31 -44.]   \n[10］李岩瑛,杨晓玲,王式功.河西走廊东部近50 a沙尘暴成因、危 害及防御对策[J].中国沙漠,2002,22（3）:283-287.[Li Yanying,Yang Xiaoling,Wang Shigong.Cause,damage and countermeasure of sandstorm in the east of Hexi Corridor during the later 50 years[J]. Journal of Desert Research,2002,22（3）: 283- 287.]   \n[11]Bonnifield M P.The Dust Bowl; Men,Dirt,and Depression[M]. Albuquerque:University of New Mexico Press,979.   \n[12]Howarth W.The okies: Beyond the dust bowl[J]. National Geographic,1984,166(3） :322 -349.   \n[13]Lee JA,Gill TE,Mullgan KR. The 193Os dust bowl:The relative roles of people and the physical environment[J].Geological Society of Abstracts and Programs,1999,31(1) : A11.   \n[14]Stallings F L. Black Sunday: The Great Dust Storm of April 14, 1935[M]. Austin : Eakin Press,2001.   \n[15］钱正安,宋敏红,李万元.近50年来中国北方沙尘暴的分布及 变化趋势分析[J].中国沙漠,2002,22（2）：106－111.[Qian Zheng'an,Song Minhong,Li Wanyuan.Analyses on distributive variation and forecast of sand-dust storms in recent 5O years in North China[J]. Journal of Desert Research,2002,22（2）:106 - 111. ]   \n[16]蒋雨荷,王式功,靳双龙,等.中国北方一次强沙尘暴天气过程 的大气污染效应[J].干旱区研究,2018,35(6):1344-1 351. [Jiang Yuhe,Wang Shigong,Jin Shuanglong,et al.Air pollution in a strong sandstorm in north China[J].Arid Zone Research,2018, 35(6) :1 344 -1 351. ]   \n[17］岳平,牛生杰,刘晓云.“7·12\"特异沙尘暴成因研究[J].干旱 区研究,2005,23（3）:345-349.[Yue Ping,Niu Shengjie,Liu Xiaoyun.Studyontheformation causesof thepeculiar dust storm occurred on July 12,2004[J].Arid Zone Research,2005,23（3）: 345 -349.]   \n[18］许东蓓,杨民,孙兰东,等.西北地区\"4·18\"强沙尘暴、浮尘天 气成因分析[J].甘肃气象,1999,17(2）:6-9.[Xu Dongbei, Yang Min,Sun Landong,et al.An cause analysis on $^ { \\ast } 4 \\cdot 1 8$ ； sandstrom and dust storm in north China[J]. Gansu Meteorology, 1999,17(2) :6 -9. ]   \n[19］徐启运,胡敬松.我国西北地区沙尘暴天气时空分布特征[J]. 应用气象学报,1998,7（4）:479-482.[Xu Qiyun,HuJingsong. Features of spatial and temporal distributions of the dust storms in NorthwestChina[J].Quarterly JourmalofApliedMeteorlogy， 1998,7(4) :479 -482. ]   \n[20］刘洪兰,张强,张俊国,等.1960—2012年河西走廊中部沙尘暴 空间分布特征和变化规律[J].中国沙漠,2014,34（4）:1 102 -1108.[Liu Honglan,Zhang Qiang,Zhang Junguo,et al. Spatial distribution and variation of sand storms in the central Hexi Corridor during 1960-2012[J].Journal of Desert Research,2014,34 (4):1102 -1108.]   \n[21］邱新法,曾燕,缪启龙.我国沙尘暴的时空分布规律及其源地 和移动路径[J].地理学报,2001,58（3）:316-322.[Qiu Xinfa,Zeng Yan,Liao Qilong.Temporal-spatial distribution as well as tracks and source areas of sand-dust storms in China[J].Acta Geographica Sinica,2001,58(3）:316-322.]   \n[22］钱莉,杨金虎,杨晓玲,等.河西走廊东部 $^ { \\ast } 2 0 0 8 \\cdot 5 \\cdot 2 ^ { \\prime }$ 强沙暴 成因分析[J].高原气象,2010,29（3）：719-725.[Qian Li, Yang Jinhu,Yang Xiaoling,et al. Cause analysis of $^ { \\ast } 2 0 0 8 \\cdot 5 \\cdot 2 ^ { \\prime }$ ， strong sandstorm in the eastern of Hexi Corridor[J].Plateau Meteorology,2010,29(3) :719-725.]   \n[23］杨晓玲,丁文魁,王鹤龄,等.河西走廊东部沙尘暴气候特征及 短时预报[J].中国沙漠,2016,36(2）：449-457.[Yang Xiaoling,Ding Wenkui,Wang Heling,et al. Climatic characteristics and short-term forecast of sandstorm in east of Hexi Corridor[J]. Journal of Desert Research,2016,36(2）:449 -457.]   \n[24］江灏,吴虹,尹宪志,等.河西走廊沙尘暴的时空变化特征与其 环流背景[J].高原气象,2004,23（4）:820-826.[Jiang Hao, Wu Hong,Yin Xianzhi,et al.Spatial and temporal change characteristics and circulation background of sandstorm in Gansu Corridor [J].Plateau Meteorology,2004,23（4）:820 -826.]   \n[25］张强,王胜.论特强沙尘暴(黑风)的物理特征及其气候效应 [J].中国沙漠,2005,25（5）:675-681.[Zhang Qiang,Wang Sheng. On physical characteristics of heavy dust storm and its climatic effect[J]. Journal of Desert Research,2005,25（5）:675- 681.]   \n[26]王劲松,李耀辉,康凤琴,等.“4·12\"沙尘暴天气的数值模拟 及诊断分析[J].高原气象,2004,23（1）：89-96.[Wang Jinsong,Li Yaohui,Kang Fengqin,et al.Numerical simulationand diagnose aalysis on\"4 ·12\"sandstorm[J].Plateau Meteorolgy， 2004,23(1) :89-96.]   \n[27］董安祥,白虎志,陆登荣,等．河西走廊强和特强沙尘暴变化趋 势的初步研究[J].高原气象,2003,22（4）:422－425.[Dong Anxiang,Bai Huzhi,Lu Dengrong,et al．Primary study on strong and very strong dust storm trend in Hexi PassgewayJ].Plateau Meteorology,2003,22(4） :422-425.]   \n[28］胡泽勇,黄荣辉,卫国安,等.2000年6月4日沙尘暴过境时敦 煌地面气象要素及地表能量平衡特征的变化[J].大气科学, 2002,26(1):1-7.[Hu Zeyong,Huang Ronghui,WeiGuoan,et al.Variations of surface atmospheric variables and energy budget during a sandstorm passing Dunhuang on June 4 of 2ooo[J].Chinese Journal of Atmospheric Sciences,2002,26(1） :1-7.]   \n[29］牛生杰,岳平,刘晓云,等.2004 年春夏季两次沙尘暴期间地面 气象要素变化特征对比分析〔J].中国沙漠,2007,27（6)： 1 067 -1O71.[Niu Shengjie,Yue Ping,Liu Xiaoyun,et al. Variations of surface meteorological element during twice sandstorms passing Jiuquan on March 28and July12 of 2004[J].Journal of Desert Research,2007,27(6):1 067 -1071.]   \n[30］赵庆云,张武,吕萍,等.河西走廊 $2 0 1 0 \\cdot 4 \\cdot 2 4$ ”特强沙尘暴 特征分析〔J].高原气象,2012,31（3）：688－696.[Zhao Qingyun,Zhang Wu,Lv Ping,et al. Characteristic analysis of the sever dust event occurred in the Hexi Corridor on 24 April 2010. [J].Plateau Meteorology,2012,31(3）:688-696.]   \n[31］王式功,杨德保,周玉素,等.我国西北地区“ $9 4 \\cdot 4 ^ { \\prime }$ 沙尘暴成 因探讨[J].中国沙漠,1995,15（4）:332－334.[Wang Shig",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ong,Yang Debao,Zhou Yusu,et al.Analysis on the formative causes of sand-dust storms in the Northwest China during 3-12 April 1994[J].Journal of Desert Research,1995,15(4）:332-334.] [32]付有智,刘坤训,丁荣,等.甘肃河西黑风成因及预报[J].气 象,1994,20(12）:50-53.[Fu Youzhi,Liu Kunxun,Ding Rong, et al.The causative factors and forecasting of the black storm in HexiCorridor[J].Meteorological Monthly,1994,20（12）:50- 53.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33]高庆先，李令军，张运刚，等.我国春季沙尘暴研究[J].中国环 境科学,2000,20（6）:495-500.[Gao Qingxian,Li Lingjun, Zhang Yungang,et al. Studies on the springtime dust storm of China[J].China Environmental Science,2000,20(6）:495-500.] [34]赵建华，俞亚勋，孙国武.冻土对沙尘暴的影响研究[J].中国 沙漠,2005,25（5）:658-662.[Zhao Jianhua，Yu Yaxun,Sun Guowu.Influence of frozen soil on sandstorm[J].Journal of Desert Research,2005,25(5) :658-662.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[35]李玲萍，陈英,李文莉，等.石羊河流域冬季冻土对沙尘天气的 影响分析[J].土壤通报,2013,44(5）：1 204-1209.[LiLingping,Chen Ying,Li Wenli,et al.Influence of winter maximum frozen soil depth on sand-dust weather days over Shiyang River Basin [J].Chinese Journal of Soil Science,2013,44（5）:1 204- 1 209.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sandstorm and Its Affecting Meteorological Factors in East Hexi Corridor ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LI Ling-ping1,²， LI Yan-ying²， SUN Zhan-feng²， WANG Rong-zhe² (1.InstituteofDesertMeteorology,ChinaMeteorologicalAdministration/KeyLaboratoryofTreeRingPhysicalandChemical Research of China Meteorological Administration,Urumqi 83ooO2,Xinjiang,China; 2.Wuwei Meteorological Bureau, Wuwei 73300o,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Change characteristics and mechanism of sandstorm frequency in east Hexi Corridor during the period of 1961-2015 were analyzed using the meteorological and sandstorm data from Minqin,Liangzhou and Yongchang. The meteorological data,including the monthly air and ground temperature,precipitation,maximum frozen soil depth,snow cover duration and depth,wind speed and gale days,were from representative Minqin Meteorological Station.The results showed that there were the obvious daily,monthly and seasonal variations in sandstorm frequency and occurrence time.Sandstorm occured mainly in April and spring and was the least in September and autumn, and itsoccuring frequency was the highest in the afternoon and evening but the lowest in the early morning.The spring sandstorm frequency began to increase in the morning,the autumn and winter one began to increase at noon, and the summer one began to increase in the afternoon. The sandstorm frequency with $6 0 - 1 8 0 ~ \\mathrm { m i n }$ duration was the highest in east Hexi Corridor,and it with $1 - 3 0 \\ \\mathrm { m i n }$ duration was the highest in summer. The long-duration sandstorm began to increase in the morning,and the short-time one occured mainly in theafternoon and evening.The monthly and seasonal variation of sandstorm frequency was the most significant in April and spring,and it was the lowest in Septemberand autumn.Inrecent 55 years from 1961 to 2O15,the sandstorm frequency was ina decrease trend due to the reduction of gale days and wind speed,increase of ground temperature,air temperature and precipitation,and improvement of ecological environment of underlying surface. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:sandstorm；surface meteorological factor；east Hexi Corridor ",
+        "page_idx": 8
+    }
+]

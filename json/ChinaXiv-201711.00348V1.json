@@ -1,0 +1,364 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲粮中燕麦干草含量对绵羊瘤胃液pH及微生物区系的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 周　瑞」赵生国」 刘立山’王川² 吴建平1\\*（1.甘肃农业大学动物科学技术学院，兰州 730070；2.甘肃农业大学动物医学院，兰州 730070）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "） 1.□ ：：  \n4 摘要：为了研究饲粮燕麦干草含量对绵羊瘤胃液pH及微生物区系的影响。选取9只体况  \n5 和体重[( $7 0 . 3 2 { \\scriptstyle \\pm 2 . 1 4 }$ ）kg]相近、装有永久性瘘管的德国美利奴与蒙古羊杂种公羊，采用3  \n6 $\\times 3$ 拉丁方设计，随机分为3组，每组3只，各组分别采用全株玉米青贮、全株玉米青贮 $^ +$   \n7 燕麦干草（1:1）（混合组）、燕麦干草3种粗饲料。饲粮精粗比 $3 4 . 5 0 : 6 5 . 5 0$ 。进行3期饲  \n8 养试验，每期 $2 0 \\textup d$ ，15d预试期，5d采样期。采集饲喂前（ $\\boldsymbol { \\mathbf { \\rho } } _ { 0 \\mathrm { ~ h ~ } }$ ）和饲喂后1、3、5和7h  \n9 的瘤胃液，测定 $\\mathrm { \\ p H }$ ，采用实时定量PCR方法测定微生物相对含量。结果表明：1）全株玉  \n10 米青贮组的瘤胃液 $\\mathsf { p H }$ 在1、5h均显著低于燕麦干草组（ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ）， $^ { 3 \\mathrm { ~ h ~ } }$ 极显著低于混合组  \n11 （ ${ \\cal P } { < } 0 . 0 1$ ）；2）混合组和燕麦干草组瘤胃液真菌的相对含量在 $^ { \\mathrm { ~ 0 ~ h ~ } }$ 均极显著高于全株玉米  \n12 青贮组（ $P { < } 0 . 0 1$ ），燕麦干草组在 $5 \\mathrm { h }$ 真菌相对含量显著高于全株玉米青贮组（ $. P { < } 0 . 0 5 )$ ）；  \n13 3）混合组原虫的相对含量在1、5h显著低于全株玉米青贮组（ $P { < } 0 . 0 5$ ）；4）饲喂后 $5 \\mathrm { h }$   \n14 混合组和燕麦干草组的纤维分解菌相对含量均较高,其中燕麦干草组黄色瘤胃球菌相对含量  \n15 显著高于全株玉米青贮组（ $P { < } 0 . 0 5 \\$ ），白色瘤胃球菌和产琥珀酸丝状杆菌的相对含量极显著  \n16 高于全株玉米青贮组（ ${ \\scriptstyle - P < 0 . 0 1 }$ ）。综上所述，在精粗比为 $3 4 . 5 0 : 6 5 . 5 0$ 的饲粮中采用全株玉  \n17 米青贮 $+$ 燕麦干草（1:1)的粗饲料，有利于维持绵羊瘤胃内环境的稳态及瘤胃微生物的生长，  \n18 白色瘤胃球菌和产琥珀酸丝状杆菌为优势菌。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：绵羊；粗饲料；瘤胃；微生物区系；实时定量PCR",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "反刍动物可以消化利用粗饲料，是由于其瘤胃内栖息着大量的微生物，这些微生物包括细菌、原虫、古菌和真菌[。这些微生物可以将植物纤维转化为易消化的化合物，然后被宿主进一步吸收利用[2]。经过长期的选择和进化，微生物与宿主间已经形成了相互制约相互依赖的关系，这种关系对于维持反刍动物健康、提高生产性能等起到至关重要的作用[3-5]。其中瘤胃细菌起着重要的作用[6]，种类（50多个种属）和数量（ $1 0 ^ { 1 0 } { \\sim } 1 0 ^ { 1 1 }$ 个 $/ \\mathrm { m L }$ ）也最多[7]。目前，白色瘤胃球菌（Ruminococcus albus,R.albus）、黄色瘤胃球菌（Ruminococcusflavefaciens,R.flavefaciens）和产琥珀酸丝状杆菌（Fibrobacter succinogenes,F.succinogenes）是研究饲粮纤维降解过程中研究最多的菌,也是被公认的瘤胃三大优势纤维分解菌[8]。研究表明绝大部分的瘤胃厌氧真菌都能分解纤维素，都具有高活性的降解植物细胞壁的纤维素酶、木聚糖酶、果胶酶和酯酶[9]。原虫约占到瘤胃内容物总生物量的 $1 / 2 ^ { [ 1 0 ] }$ ，部分纤毛原虫在消化纤维物质的同时还可以使甲烷的产量增加[1]。大量研究表明，瘤胃微生物的组成及丰度受很多因素的影响，如动物个体差异[12]、精粗比[13]和饲粮组成,且饲粮因素最为关键[14-15]。目前，国内已经普遍将玉米青贮和燕麦干草作为反刍动物饲粮中粗纤维的主要来源[16]，但是其在瘤胃内的消化机理及对微生物区系的影响研究报道较少。本试验通过给绵羊饲喂不同燕麦干草含量的粗饲料，采用实时定量PCR技术对瘤胃中真菌、原虫和3种纤维分解菌进行定量研究，为进一步研究饲粮结构对瘤胃微生物区系的影响及提高绵羊对粗饲料利用率提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取9只体况和体重［（ $7 0 . 3 2 { \\scriptstyle \\pm 2 . 1 4 }$ ）kg]相近，装有永久性瘘管的德国美利奴与蒙古羊杂种公羊。粗饲料为全株玉米青贮和燕麦干草，燕麦干草由铆草机成 $3 { \\sim } 5 ~ \\mathrm { c m }$ 长，精饲料由玉米、棉籽粕、菜籽粕、预混料等组成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用 $3 { \\times } 3$ 拉丁方设计，9只羊随机分为3组，每组3只，各组分别采用全株玉米青贮、  \n全株玉米青贮 $^ +$ 燕麦干草（1:1）（混合组）、燕麦干草3种粗饲料。饲粮精粗比 $3 4 . 5 0 : 6 5 . 5 0 .$ 0  \n试验饲粮组成及营养水平见表1。进行3期饲养试验，每期 $2 0 \\mathrm { d }$ ，15d预试期，5d采样期。试验羊单栏饲养，每天分别于 $0 8 : 0 0$ 和 $1 8 : 0 0$ 分2次等量饲喂，自由饮水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平(干物质基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd52b6e2c54be32f44b421169b6c3dc16766c6b6761b62e36e827bb003c5492a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td></tr><tr><td>燕麦干草 Dried oat hay</td><td></td><td>32.75</td><td>65.50</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/73096a9d5899afc2a49d7b0ff6b69b3381fa455aaf3180890914ff76dc6bba48.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>全株玉米青贮 Whole corm silage</td><td>65.50</td><td>32.75</td><td></td></tr><tr><td>玉米Corn</td><td>25.74</td><td>28.67</td><td>30.42</td></tr><tr><td>豆粕 Soybean meal</td><td>2.34</td><td>1.75</td><td>1.18</td></tr><tr><td>菜籽粕Rapeseed meal</td><td>2.34</td><td>1.17</td><td>0.58</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.24</td><td>1.17</td><td>0.58</td></tr><tr><td>石粉 Limestone</td><td>0.58</td><td>0.58</td><td>0.58</td></tr><tr><td>食盐 NaCl</td><td>0.58</td><td>0.58</td><td>0.58</td></tr><tr><td>预混料 Premix1)</td><td>0.58</td><td>0.58</td><td>0.58</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>18.39</td><td>18.29</td><td>18.01</td></tr><tr><td>粗蛋白质 CP</td><td>18.13</td><td>17.84</td><td>17.73</td></tr><tr><td>钙Ca</td><td>0.41</td><td>0.46</td><td>0.39</td></tr><tr><td>总磷TP</td><td>0.27</td><td>0.28</td><td>0.26</td></tr><tr><td>中性洗涤纤维 NDF</td><td>58.12</td><td>63.79</td><td>69.45</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>38.23</td><td>38.52</td><td>38.79</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1预混料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of diets:VA 220 000IU，VD3 72   \n000 IU，VE 2 000 IU, $D .$ 生物素 $D$ -biotin $4 0 \\mathrm { m g }$ ，烟酰胺 nicotinic acid amide $2 0 0 0 \\mathrm { m g }$ ， Mn (as manganese   \nsulfate) $7 1 0 ~ \\mathrm { m g }$ ， Zn (as zinc sulfate) $2 0 0 5 \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 3 0 \\mathrm { m g }$ ，Cu (as copper sulfate) $6 8 0 \\mathrm { m g }$   \nCo (as Cobalt sulfate) $1 2 \\mathrm { m g }$ 。 2）实测值 Measured values。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于每期试验最后1d饲喂前（0h）饲喂的后1、3、5和 $^ { 7 \\mathrm { ~ h ~ } }$ 采集瘤胃液，立即用HI98103型笔式酸度计（北京泰亚赛福有限公司）测定瘤胃液pH，经4层灭菌纱布过滤，滤液装于经高压灭菌的采样管内，-70℃保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3引物设计与合成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据GenBank上白色瘤胃球菌和产琥珀酸丝状杆菌的16SrRNA序列，真菌、原虫的18S rRNA 序列，利用 Primer Premier 3.0（htp://bioinfo.ut.ee/primer3-0.4.0/primer3/）分别设计特异性引物，结果见表2。引物由上海生物工程有限公司合成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2瘤胃微生物实时定量PCR的引物序列",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/55440d500178d49e2280a03beaa7a8d9e8cad0178731a037b7302fde42f43f2e.jpg",
+        "table_caption": [
+            "Table 2Primer sequences of rumen microorganisms for RT-qPCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>引物序列</td><td>退火温度</td><td>扩增片段</td><td>GenBank 登录</td></tr><tr><td>Items</td><td>Primer sequences(5 ‘ -3‘)</td><td>Annealing temperature/℃</td><td>Amplification size/bp</td><td>号GenBank accession No.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/61630f416fb67cbcfcb144155edf0b6b2689484dc702d997f08a900e4c6bf3c5.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\*：细菌16S rDNA为管家基因，引物参考Muyzer 等[17]；\\*\\*：黄色瘤胃球菌引物参考王海荣[18]。 "
+        ],
+        "table_body": "<html><body><table><tr><td>细菌</td><td>CCTACGGGAGGCAGCAG</td><td>60</td><td>181</td><td>*</td></tr><tr><td>Bacterial</td><td>ATTACCGCGGCTGCTGG</td><td></td><td></td><td></td></tr><tr><td>真菌</td><td>TGACTCAACACGGGGAAACT</td><td>60</td><td>105</td><td>JX240418.1</td></tr><tr><td>Fungus</td><td>CCAACTAAGAACGGCCATGC</td><td></td><td></td><td></td></tr><tr><td>原虫</td><td>TGACTCAACACGGGGAAACT</td><td>60</td><td>109</td><td>AJ810076.1</td></tr><tr><td>Protozoa</td><td>TCCACCAACTAAGAACGGCC</td><td></td><td></td><td></td></tr><tr><td>黄色瘤胃球菌</td><td>ATTGTCCCAGTTCAGATTGC</td><td>60</td><td>131</td><td>**</td></tr><tr><td>R.flavefaciens</td><td>GGCGTCCTCATTGCTGTTAG</td><td></td><td></td><td></td></tr><tr><td>白色瘤胃球菌</td><td>ATGCCGCGGTGAATACGTT</td><td>60</td><td>107</td><td>X85098.1</td></tr><tr><td>R.ablus</td><td>TTCGACTGCTTCCTCCTTGC</td><td></td><td></td><td></td></tr><tr><td>产琥珀酸丝状杆菌</td><td>GATGAGCTTGCGTCCGATT</td><td>60</td><td>139</td><td>EU606019.1</td></tr><tr><td>F.succinogenes</td><td>ATTCCCTACTGCTGCCTCC</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "\\*: bacterial 16S rDNA was the reference gene,and the primer was cited from Muyzer, et al[17]; $^ { * * }$ : the primer of R. flavefaciens was cited from Wang[18]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4瘤胃微生物总DNA的提取与样品测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "瘤胃微生物总 DNA 的提取利用天根生化科技(北京)有限公司粪样 DNA 提取试剂盒（DP328）进行。瘤胃微生物定量采用实时定量PCR比较阈值法，目的菌相对含量计算采用 $2 ^ { - \\Delta \\triangle \\ C t }$ 法。PCR反应体系及反应参数参照Roche 试剂盒（Gat.No.06402712001）说明书进行。反应体系（ $2 0 \\mu \\mathrm { L }$ ）为：Master Mix $1 0 \\mu \\mathrm { L }$ ，模板 $2 \\mu \\mathrm { L }$ ( $2 0 ~ \\mathrm { n g }$ ），上、下游引物各 $0 . 6 ~ \\mu \\mathrm { L }$ $\\mathrm { d d H _ { 2 } O 6 . 8 \\mu L }$ 。反应参数为： $9 5 ^ { \\circ } \\mathrm { C }$ 预变性 $1 0 \\mathrm { m i n }$ ; $9 5 ^ { \\circ } \\mathrm { C } .$ 变性 $1 0 \\mathrm { { s } }$ ， $6 0 ^ { \\circ } \\mathrm { C }$ 退火 $1 0 \\mathrm { ~ s ~ }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸15s，40个循环。在延伸期收集荧光信号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据用Excel2010建立数据库，通过SPSS19.0软件中的单因素方差分析对数据进行统计分析和显著性检验，运用LSD法进行多重比较，结果用平均值 $\\pm$ 标准误表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮中燕麦干草含量对绵羊瘤胃液pH的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，3 组瘤胃液pH随时间的推移都呈先降低再升高的趋势，且晨饲前（0h)3 组瘤胃液pH都最高，晨饲后开始下降， $3 \\mathrm { h }$ 下降至最低后开始上升。晨饲前全株玉米青贮组瘤胃液pH最高，且显著高于燕麦干草组（ $. P { < } 0 . 0 5$ ）。饲喂后1和5h，全株玉米青贮组",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/12ab15e9e2eec5a78191db24f3bbb4ba27fbc02038557f606b28b34eca88605c.jpg",
+        "table_caption": [
+            "Table 3Effects of dried oat hay content in diet on rumen fluid $\\mathrm { \\ p H }$ of sheep "
+        ],
+        "table_footnote": [
+            "同行数据肩标无字母或相同字母表示差异不显著（ $\\cdot P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $\\cdot < 0 . 0 5 \\rangle$ ），不同大写字母表示差异极显著（ $P { > } 0 . 0 1$ ）。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>0h</td><td>6.67±0.07a</td><td>6.65±0.07a</td><td>6.39±0.08b</td></tr><tr><td>1h</td><td>5.87±0.07b</td><td>6.10±0.04ab</td><td>6.08±0.07a</td></tr><tr><td>3h</td><td>5.74±0.08Bb</td><td>6.0 8±0.09Aa</td><td>6.02±0.07ABa</td></tr><tr><td>5h</td><td>5.96±0.07b</td><td>6.10±0.03ab</td><td>6.14±0.03a</td></tr><tr><td>7 h</td><td>6.15±0.10</td><td>6.31±0.06</td><td>6.27±0.05</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with no letter or the same letter superscripts mean no significant diference ( $P { > } 0 . 0 5 )$ L while with different small letter superscripts mean significant difference ( $\\scriptstyle P < 0 . 0 5$ ,and with different capital letter superscripts mean significant difference ( ${ \\mathrm { \\Delta } P } { > } 0 . 0 1$ ).The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 饲粮中燕麦干草含量对绵羊瘤胃液真菌、原虫及纤维分解菌相对含量的影响由表4可知，以全株玉米青贮组作为为对照分析燕麦干草含量对绵羊瘤胃液真菌相对含量的影响，混合组、燕麦干草组真菌相对含量随时间的变化有所不同。混合组、燕麦干草组均在 $_ { 0 \\mathrm { h } }$ 真菌的相对含量最高，饲喂后 $3 \\mathrm { h }$ 降至最低。 $_ { 0 \\mathrm { h } }$ 混合组和燕麦干草组的真菌相对含量极显著高于全株玉米青贮组（ $_ { - P < 0 . 0 1 }$ ），喂后1h这2组真菌相对含量下降，混合组显著低于全株玉米青贮组（ $P { < } 0 . 0 5$ ）。喂后 $3  { \\mathrm { h } }$ 混合组和燕麦干草组分别极显著（ $P { < } 0 . 0 1$ ）、显著（ $. P { < } 0 . 0 5$ ）低于全株玉米青贮组。喂后 $5 \\mathrm { h }$ 燕麦干草组真菌相对含量显著高于全株玉米青贮组（ $P { < } 0 . 0 5$ ）。喂后 $^ { 7 \\mathrm { ~ h ~ } }$ 燕麦干草组、混合组与全株玉米青贮组差异不显著显著下降（ $. P { < } 0 . 0 5 )$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa948e5094cc0811a710886b0d1de168177dc6cc50a4bafb6ccaf457206b6427.jpg",
+        "table_caption": [
+            "表4饲粮中燕麦干草含量对绵羊瘤胃液真菌相对含量的影响",
+            "Table 4Effects of dried oat hay content in diet on relative content of fungus in rumen fluid of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>0h</td><td>1.00Bb</td><td>2.95±0.31Aa</td><td>2.65±0.29Aa</td></tr><tr><td>1h</td><td>1.00a</td><td>0.59±0.14b</td><td>0.88±0.18ab</td></tr><tr><td>3h</td><td>1.00Aa</td><td>0.50±0.09Bb</td><td>0.63±0.20ABb</td></tr><tr><td>5h</td><td>1.00b</td><td>1.05±0.23ab</td><td>1.81±0.22a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/370b97fd5692f8608100e3207a0351c747b5caada3b51f7790a29b1eb5085726.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>7h</td><td>1.00ab</td><td>1.14±0.20a</td><td>0.64±0.12b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，以全株玉米青贮组作为对照分析燕麦干草含量对绵羊瘤胃液原虫相对含量的影响，随时间的延长瘤胃液原虫的相对含量变化趋势不同，但混合组和燕麦干草组原虫相对含量都在饲喂后 $^ { 3 \\mathrm { ~ h ~ } }$ 最高。混合组在饲喂后1和 $^ { 5 \\mathrm { ~ h ~ } }$ 显著低于青贮组（ $. P { < } 0 . 0 5$ ）。而燕麦干草组原虫相对含量在喂后0和 $3  { \\mathrm { h } }$ 分别等于、高于全株玉米青贮组外，其他时间点均低于全株玉米青贮组，且7h 降至最低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4403875f3748c9dee79e3bcc9da4da443a77663682262121fbdd477a983d23c.jpg",
+        "table_caption": [
+            "Table 5Effects of dried oat hay content in diet on relative content of protozoa in rumen fluid of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>0h</td><td>1.00</td><td>0.77±0.20</td><td>1.00±0.16</td></tr><tr><td>1h</td><td>1.00a</td><td>0.39±0.05b</td><td>0.84±0.03ab</td></tr><tr><td>3h</td><td>1.00</td><td>1.30±0.25</td><td>1.55±0.24</td></tr><tr><td>5h</td><td>1.00a</td><td>0.52±0.05b</td><td>0.80±0.09ab</td></tr><tr><td>7h</td><td>1.00</td><td>1.02±0.03</td><td>0.46±0.03</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，以全株玉米青贮组作为对照分析燕麦干草含量对绵羊瘤胃液黄色瘤胃球菌相对含量的影响，随时间的延长瘤胃液黄色瘤胃球菌的相对含量呈降低升高再降低的趋势。燕麦干草组在喂后1h极显著低于全株玉米青贮组（ $_ { - P < 0 . 0 1 }$ ），喂后3和 $^ { 7 \\mathrm { ~ h ~ } }$ 显著或极显著低于其他2组（ ${ \\cdot } P { < } 0 . 0 1$ ）。喂后 $^ { 5 \\mathrm { h } }$ 混合组和燕麦干草组黄色瘤胃球菌相对含量均高于全株玉米青贮组，且燕麦干草组显著高于其他2组（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c7e11940a0bb69928fe7fbf4d397b5e8326d27370e6c96e9da8c43d69d41cc7.jpg",
+        "table_caption": [
+            "表5饲粮中燕麦干草含量对绵羊瘤胃液原虫相对含量的影响",
+            "表6饲粮中燕麦干草含量对绵羊瘤胃液黄色瘤胃球菌相对含量的影响",
+            "Table 6Effects of dried oat hay content in diet on relative content of R.flavefaciens in rumen fluid of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>0h</td><td>1.00</td><td>0.90±0.23</td><td>1.26±0.23</td></tr><tr><td>1h</td><td>1.00Aa</td><td>0.81±0.19ABab</td><td>0.46±0.08Bb</td></tr><tr><td>3h</td><td>1.00ABa</td><td>1.20±0.04Aa</td><td>0.22±0.05Bb</td></tr><tr><td>5h</td><td>1.00b</td><td>1.25±0.03b</td><td>2.21±0.27a</td></tr><tr><td>7h</td><td>1.00a</td><td>1.01±0.03a</td><td>0.42±0.07b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，以全株玉米青贮组作为对照分析燕麦干草含量对绵羊瘤胃液白色瘤胃球菌相对含量的影响，混合组和燕麦干草组白色瘤胃球菌相对含量在 $0 { \\sim } 7 \\mathrm { h }$ 均高于全株玉米青贮组，且随时间延长呈先降低后升高再降低的趋势。除喂后1h混合组和燕麦干草组显著高于全株玉米青贮组（ $P { < } 0 . 0 5$ ）外，其他时间均极显著高于全株玉米青贮组（ $P { < } 0 . 0 1$ ）。而且，",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4948843384d52e703095656af64079a79c1ce4bde1e84cbd91b8a224da254861.jpg",
+        "table_caption": [
+            "Table 7Effects of dried oat hay content in diet on relative content of R.albus in rumen fluid of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>0h</td><td>1.00Bb</td><td>2.85±0.34Aa</td><td>3.07±0.34Aa</td></tr><tr><td>1h</td><td>1.00a</td><td>1.98±0.30b</td><td>1.71±0.33b</td></tr><tr><td>3h</td><td>1.00Bb</td><td>3.32±0.33Aa</td><td>3.68±0.34Aa</td></tr><tr><td>5h</td><td>1.00Bc</td><td>2.92±0.30Aa</td><td>4.48±0.38Ab</td></tr><tr><td>7h</td><td>1.00Cc</td><td>2.93±0.32Aa</td><td>1.47±0.29Bb</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，以全株玉米青贮组作为对照分析燕麦干草含量对绵羊瘤胃液产琥珀酸丝状杆菌相对含量的影响，随时间延长产琥珀酸丝状杆菌的相对含量变化不一致。混合组在1h极显著高于全株玉米青贮组和燕麦干草组（ $P { < } 0 . 0 1$ ）。全株玉米青贮组在 $5 \\mathrm { h }$ 极显著低于混合组和燕麦干草组（ $P { < } 0 . 0 1$ ）。混合组在 $5 \\mathrm { h }$ 显著高于燕麦干草组（ $. P { < } 0 . 0 5$ ）。燕麦干草组在 $^ { 7 \\mathrm { h } }$ 时显著高于混合组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f3212802d5b8e51688d78a519cbf7a4020ff4650304aec5c4b845325c82b3aa2.jpg",
+        "table_caption": [
+            "表7饲粮中燕麦干草含量对绵羊瘤胃液白色瘤胃球菌相对含量的影响",
+            "表8饲粮中燕麦干草含量对绵羊瘤胃液产琥珀酸丝状杆菌相对含量的影响",
+            "Table 8Effects of dried oat hay content in diet on relative content of F.succnogenes in rumen fluid of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>全株玉米青贮组 Whole corn silage group</td><td>混合组 Mixed group</td><td>燕麦干草组 Died oat hay group</td></tr><tr><td>0h</td><td>1.00</td><td>1.06±0.20</td><td>1.51±0.28</td></tr><tr><td>1h</td><td>1.00Bb</td><td>1.70±0.27Aa</td><td>0.82±0.14Bb</td></tr><tr><td>3h</td><td>1.00</td><td>1.27±0.30</td><td>1.04±0.32</td></tr><tr><td>5h</td><td>1.00Bc</td><td>3.32±0.45Aa</td><td>2.49±0.39Ab</td></tr><tr><td>7h</td><td>1.00ab</td><td>0.51±0.1b</td><td>1.34±0.24a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮中燕麦干草含量对瘤胃液pH的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液pH是综合反映反刍动物瘤胃发酵水平和内环境的重要指标，可以通过测定瘤胃液pH评定瘤胃发酵[19]。通常瘤胃液 $\\mathsf { p H }$ 维持在 6.0\\~7.0 的范围内[20]。本试验中，瘤胃液 pH维持在5.8\\~6.7之间，3 组瘤胃液pH随时间的延长均呈先降低后升高的变化趋势， $0 \\mathrm { h \\ p H }$ 最高，饲喂后逐渐下降至 $3 \\mathrm { h } \\mathrm { p H }$ 达到最低，该结果与其他研究结果基本一致。王洪亮等[2研究显示，在对肉牛饲喂不同粗饲料后，各组瘤胃液pH均降低，且在 $2 { \\sim } 4 \\mathrm { h }$ 降至最低，采食后8\\~10h又回升至采食前水平，但组间 $\\mathsf { p H }$ 无显著差异。郭勇庆等[22]研究表明，瘤胃发酵",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生理过程的最适pH各不相同，消化纤维素时pH最适范围为6.0\\~6.8，合成蛋白质时pH的最适范围为5.8\\~7.4，产生挥发性脂肪酸（VFA）时pH最适范围为4.2\\~6.6，氨产生最适pH为6.2。瘤胃液pH是食糜中VFA与唾液中缓冲液相互作用以及瘤胃上皮对VFA吸收及随食糜流出等因素综合作用的结果[24]。本试验中，全株玉米青贮组瘤胃液pH在 $_ { 1 \\sim 3 \\mathrm { ~ h ~ } }$ 内略低于6.0，这可能是由于瘤胃微生物消化分解饲粮中碳水化合物产生大量了VFA所致[24]。随着饲粮被消化，唾液等缓冲性物质的增加，使得瘤胃液pH开始缓慢回升。3组瘤胃液 pH差异不显著，说明精料水平在 $30 \\% { \\sim } 5 0 \\%$ 时对瘤胃液pH影响较小[25-26]。但是，混合组和燕麦干草组的瘤胃液 $\\mathsf { p H }$ 高于全株玉米青贮组，可能是由于燕麦干草的结构性碳水化合物含量高于全株玉米青贮，适口性较低，采食速度慢，导致其在瘤胃内降解率、外排速度低，滞留时间长[24]。  \n3.2 饲粮中燕麦干草含量对绵羊瘤胃液真菌、原虫及纤维分解菌相对含量的影响  \n本试验中，混合组和燕麦干草组瘤胃液真菌相对含量在0h极显著高于全株玉米青贮组，饲喂后0\\~3h随着3种瘤胃液细菌相对含量的增加，真菌的含量急剧下降。导致此现象出现的原因可能是真菌更偏向于利用饲粮中的木质素而非纤维素类物质[27]。同时，由于其在瘤胃总微生物所占比例较低，所以对纤维降解的总体贡献要小于瘤胃细菌[28]。早期的研究表明，白色瘤胃球菌和黄色瘤胃球菌能抑制厌氧真菌对玉米茎和纤维素的降解能力[29-30]。本试验中，燕麦干草组在饲喂后5h时真菌和3种纤维分解菌的相对含量均较高，但3种纤维分解菌的相对含量高于真菌，说明瘤胃真菌与细菌存在拮抗作用[31]。Atasoglu等[32]研究认为，不同饲粮类型对瘤胃真菌种群有明显的影响，当饲喂纤维素含量较高的饲粮时，动物瘤胃中的真菌数量要比饲喂低纤维素饲粮动物多。这与本试验中混合组与燕麦干草组真菌在0h的相对含量高于全株玉米青贮组的结果一致。  \nJounay 等[10]研究表明，原虫的主要发酵底物是淀粉和可溶性糖类。本试验中，混合组和燕麦干草组原虫的相对含量除在3h高于全株玉米青贮组外，其他时间点均接近或低于全",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "株工米書组而日低干同水平下²种纤维分解南和直南的相对今是NDr（1）些山燕麦干草的非结构性碳水化合物（non structure carbohydrates,NSC）含量为 $1 3 . 6 \\%$ （干物质基础），低于全株玉米青贮（ $3 4 . 7 \\%$ ）。这表明给绵羊饲喂燕麦干草时，真菌和纤维分解菌起主要作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "产琥珀酸丝状杆菌、黄色瘤胃球菌和白色瘤胃球菌是瘤胄中最主要的纤维分解细菌，它们消化纤维素的能力要强于其他纤维分解菌，在牛瘤胃的总纤维分解菌中所占比例分别为$3 3 . 0 \\%$ 、 $2 . 6 \\%$ 和 $4 6 . 0 \\% ^ { [ 3 3 ] }$ 。本试验中，混合组和燕麦干草组产琥珀酸丝状杆菌和白色瘤胃球菌的相对含量显著高于全株玉米青贮组，表明给绵羊饲喂燕麦干草时，白色瘤胄球菌和产琥珀酸丝状杆菌为优势菌群。这可能是因为白色瘤胄球菌比黄色瘤胄球菌更具有亲和力，附着纤维的能力远高于黄色瘤胃球菌，它们在吸附过程中存在相同的吸附位点和屏障，白色瘤胃球菌可以抢占黄色瘤胃球菌的吸附位点。而黄色瘤胃球菌和产琥珀酸丝状杆菌由于吸附位点不一致，几乎不存在竞争关系，但是，当黄色瘤胃球菌和产琥珀酸丝状杆菌完全定植后，白色瘤胃球菌的吸附会增加黄色瘤胃球菌的脱落[34]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 在精粗比为 $3 4 . 5 0 : 6 5 . 5 0$ 的饲粮中采用全株玉米青贮 $^ +$ 燕麦干草（1:1）的粗饲料，可以使绵羊瘤胃液pH维持在正常范围内，有利于维持瘤胃内环境稳态和瘤胃微生物的生长。$\\textcircled{2}$ 在精粗比为 $3 4 . 5 0 : 6 5 . 5 0$ 的饲粮中采用全株玉米青贮 $+$ 燕麦干草（1:1）的粗饲料，绵羊瘤胃内原虫数量下降，而3种主要的纤维分解菌数量升高，且白色瘤胃球菌和产琥珀酸丝状杆菌为优势菌群。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] HESPELL R B,AKIN D E,DEHORITY B A.Bacteria.fungi and protozoa of the rumen[M]//MACKIE R I,WHITE B A,ISAACSON R E.Gastrointestinal microbiology.New York:Chapman and Hall Press,1997:59-186.   \n[2]MACKIE R IMutualistic fermentative digestion in the gastrointestinal tract:diversity and evolution[J].Integrative and Comparative Biology,2002,42(2):319-326.   \n[3] LEY R E,HAMADY M,LOZUPONE C,et al.Evolution of mammals and their gut microbes[J].Science,2008,320(5883):1647-1651.   \n[4] ZILBER-ROSENBERG I,ROSENBERG E.Role of microorganisms in the evolution of animalsandplants:thehologenometheoryofevolution[J].FEMSMicrobiology Reviews,2008,32(5):723-735.   \n[5]RAWLS J F,SAMUEL B S,GORDON J I.Gnotobiotic zebrafish reveal evolutionarily conserved responses to the gut microbiota[J].Proceedings of the National Academy of Sciences of the United States of America,2004,101(13):4596-4601.   \n[6] 祁茹,林英庭,程明,等.瘤胃微生物区系及其相互关系的研究进展[J].饲料博 览,2011(8):9-13.   \n[7] 薛丰,王洪荣,刘大程,等.瘤胃微生物区系的研究进展[J].畜牧与饲料科 学,2007,28(2):31-33.   \n[8]FORSBERG C W,CHENG K J,WHITE B A.Polysaccharide degradation in the rumen and largeintestine[M]/MACKIER I,WHITE BA,ISAACSON R E.Gastrointestinal microbiology.New York:Chapman and Hall Press,1997:319-379.   \n[9]ORPIN C GJOBLIN K N.The rumen anaerobic fungi[M]/HOBSON P N,STEWART C S.The Rumen microbial ecosystem.London:Blackie Academic&Professional,1997,140-196.   \n[10] JOUNAYJP,USHIDA K.Theroleof protozoa in feed digestion-review[J].Asian-Australasian Journal of Animal Science,1999,12(1):113-128.   \n[11] 付琦,侯先志,高爱武.瘤胃微生物区系及相互关系的研究进展[J].中国奶 牛,2009(5):18-21.   \n[12]YANG S L,MA S C,CHEN J,et al.Bacterial diversity in the rumen of Gayals(Bos frontalis),Swamp buffaloes (Bubalus bubalis) and Holstein cow as revealed by cloned 16S rRNA gene sequences[J].Molecular Biology Reports,2010,37(4):2063-2073.   \n[13]SADET-BOURGETEAU S,MARTIN C,MORGAVI D P.Bacterial diversity dynamics in rumen epithelium of wethers fed forage and mixed concentrate forage diets[J].Veterinary Microbiol0gy,2010,146(1/2):98-104.   \n[14]PITTA D W,PINCHAK W E,DOWD S E.et al.Rumen bacterial diversity dynamics associated with changing from Bermudagrass hay to grazed winter wheat diets[J].Microbial Ecology,2010,59(3):511-522. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15]BELANCHE A,DOREAU M,EDWARDS JE,et al.Shifts in the rumen microbiota due to the type of carbohydrate and level of protein ingested by dairy cattle are associated with changes in rumen fermentation[J].The Journal of Nutrition,2012,142(9):1684-1692. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16]XU J,HOU Y J,YANG H B,et al.Effects of forage sources on rumen fermentationcharacteristics,performance,andmicrobialproteinsynthesisinmidlactationcows[J].Asian-Australasian Journal of Animal Sciences,2014,27(5):667-673.  \n[17]MUYZER G,DE WAAL E C,UITTERLINDEN A G.Profiling of complex microbialpopulations by denaturing gradient gel electrophoresis analysis of polymerase chainreaction-amplifiedgenescodingfor16SrRNA[J].AppliedandEnvironmentalMicrobiol0gy,1993,59(3):695-700.  \n[18]王海荣.不同日粮精粗比及氮源对绵羊瘤胃纤维降解菌群和纤维物质降解的影响[D].博士学位论文.呼和浩特:内蒙古农业大学,2006.  \n[19]KUMAR S,DAGAR S S,SIROHI S K,et al.Microbial profiles,in vitro gas production anddry matter digestibility based on various ratios of roughage to concentrate[J].Annals ofMicrobiol0gy,2013,63(2):541-545.  \n[20]郝正里,刘世民,孟宪政.反刍动物营养学[M].兰州:甘肃民族出版社,1999.  \n[21]王洪亮,孙晓玉,赵福忠.黑龙江省常用粗饲料对肉牛瘤胃内环境的影响研究[J].中国牛业科学,2013,39(2):6-10.  \n[22]郭勇庆,张英杰.瘤胃内环境优化技术及其应用[C]/第四届中国牛业发展大会论文集.南阳:中国畜牧业协会,2009:274-277.  \n[23]冯仰廉.反刍动物营养学[M].北京:科学出版社,2004.  \n[24]张瑛,周建伟,刘浩,等.藏羊瘤胃发酵参数对燕麦干草为饲粮限饲的响应及其氮维持需要量估测[J].动物营养学报,2014,26(2):371-379.  \n[25]米歇尔·瓦提欧.营养与饲喂[M].石燕,施福顺,译.北京:中国农业大学出版社,2004.  \n[26]BARGO F,MULLER L D,DELAHOY J E,et al.Milk response to concentratesupplementation of high producing dairy cows grazing at two pasture allowances[J].Journal",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "of Dairy Science,2002,85(7):1777-1792. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[27] TUYEN V D,CONE J W,BAARS J J P,et al.Fungal strain and incubation period affect chemicalcompositionandnutrientavailabilityofwheatstrawforrumen fermentation[J].Bioresource Technology,2012,111:336-342.   \n[28]AKIN D E.Histological and physical factors afecting digestibility of forages[J].Agronomy Journal,1989,81(1):17-25.   \n[29]ROGER V,GRENET E,JAMOT J,et al.Degradation of maize stem by two rumen fungal species,Piromyces communis and Caecomyces communis,in pure cultures or in association with cellulolytic bacteria[J].Reproduction Nutrition Development,1992,32(4):321-329.   \n[30]BERNALIER A,FONTY G,BONNEMOY F,et al.Degradation and fermentation of cellulose by the rumen anaerobic fungi in axenic cultures or in association with cellulolytic bacteria[J].Current Microbiology,1992,25(3):143-148.   \n[31]DEHORITY B A,TIRABASSO P A.Antibiosis between ruminal bacteria and ruminal fungi[J].Applied and Environmental Microbiology,2000,66(7):2921-2927.   \n[32]ATASOGLU C,WALLACE R J.De novo synthesis of amino acids by the ruminal anaerobic fungi,PiromycescommunisandNeocallimastixfrontalis[J].FEMsMicrobiology Letters,2002,212(2):243-247.   \n[33] KOIKES,KOBAYASHI Y.Fibrolyticrumen bacteria:theirecology and functions[J].Asian-Australasian Journal of Animal Sciences,2009,22(1):131-138.   \n[34]MOSONI P,FONTY GGOUET P.Competition between ruminal cellulolytic bacteria for adhesion to cellulose[J].Current Microbiology,1997,35(1):44-47. Effects of Dried Oat Hay Content in Diet on Rumen Fluid pH and Microflora of Sheep ZHOU Rui1 ZHAO ShengguolLIU Lishan1WANG Chuan²WU Jianping1\\*   \n(1. College of Animal Science & Technology, Gansu Agricultural University,Lanzhou 73oo7o,China; 2.Collgeof Veterinary Medicine, Gansu Agricultural University,Lanzhou 73007o,China)   \nAbstract: In order to investigate the effcts of dried oat hay content in diet on rumen fluid pH and   \nmicroflora of sheep. Nine German merino sheepx ongolian sheep cross breed rams with similar ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "body condition and body weight $[ ( 7 0 . 3 2 \\pm 2 . 1 4 ) \\mathrm { ~ k g } ]$ were used in a replicated $3 { \\times } 3$ Latin square design,and randomly divided into 3 groups with 3 rams per group. Sheep were fed whole corn silage,whole corn silage $^ +$ dried oat hay(1:1) (mixed group) and dried oat hay as roughages,and the dietary concentrate to roughage ratio was $3 4 . 5 0 : 6 5 . 5 0$ . The experimental consisted of 3 periods with $2 0 \\textup d$ per period,and each period had $1 5 { \\mathrm { d } }$ for pre-test and $5 \\mathrm { d }$ for sampling. Rumen fluid was collected before feeding $( 0 \\ \\mathrm { h } )$ and 1, 3, 5 and $^ { 7 \\mathrm { ~ h ~ } }$ after feeding to measure pH, meanwhile, the relative contents of microorganisms with real-time quantitative PCR method. The results showed as follows: 1) ruminal $\\mathrm { p H }$ of whole corn silage group was significantly lower than that of dried oat hay group at 1 and $5 \\mathrm { ~ h ~ }$ 0 $( P { < } 0 . 0 5 )$ , extremely significantly lower than that of mixed group at $^ { 3 \\mathrm { ~ h ~ } }$ （20 （204号 $( P { < } 0 . 0 1 )$ ; 2) the relative content of fungus in rumen fluid of mixed group and dried oat hay group was extremely significantly greater than that of whole corn silage at $0 \\mathrm { h }$ 0 $\\scriptstyle \\overbrace { P \\mathrm { < } 0 . 0 1 } )$ , and dried oat hay group was also significantly higher than whole corn silage group $( P { < } 0 . 0 5 )$ ; 3） the relative content of protozoa in rumen fluid of mixed group was significantly lower than that of whole corn silage group at 1 and $5 \\mathrm { h }$ $( P { < } 0 . 0 5 )$ ; 4) after $5 \\mathrm { h }$ of feeding, the relative contents of cellulolytic bacteria of mixed group and dried oat hay group were relatively high,among which the relative content of Ruminococcus flavefaciens was significantly higher than that of whole corn silage group $( P { < } 0 . 0 5 )$ ， the relative contents of Ruminococcus albus and Fibrobacter succinogenes were extremely significantly higher than those of whole corn silage group $( P { < } 0 . 0 1 )$ .In conclusion, it is benefit for maintain stable ecosystem of rumen and growth of microorganisms that using whole corn silage+dried oat hay (1:1) as roughage in diet with concentrate to roughage ratio of $3 4 . 5 0 : 6 5 . 5 0$ ， and Ruminococcus albus and Fibrobacter succinogenes are dominant bacteria. Key words: sheep: roughage: rumen: microflora: RT-qPCR ",
+        "page_idx": 12
+    }
+]

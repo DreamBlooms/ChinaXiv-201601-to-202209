@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "基于标签簇多构面信任关系的个性化推荐算法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈梅梅 薛康杰 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(东华大学旭日工商管理学院上海 200051)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】在基于多构面信任关系的个性化推荐中，解决构面难以定义以及传统信任强度计算方法的局限所导致的推荐准确性低的问题。【方法】提出一种基于标签簇的多构面信任关系定义的方法，在标签聚类得到的标签簇基础上，引用 TF-IDF 思想及 Pearson 相似度定义簇间和簇内信任关系，构建有利于反映不同构面信任强度的信任张量，并融入基于张量分解模型的个性化推荐算法中。【结果】基于Last.fm数据集的仿真实验表明：从准确率、召回率和F1值各项指标上，本文提出的个性化推荐算法均有良好表现，在F1值上平均提升达 $2 . 2 9 \\%$ 。【局限】仿真实验未针对其他领域的数据集进行进一步验证，如微博、Twitter等。【结论】基于标签簇多构面信任关系的个性化推荐算法通过有效定义并全面、客观地量化用户间信任关系，从而实现推荐准确性的提高，有利于社交网络环境下提供更令用户满意的资源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：个性化推荐UGC 标签 张量分解多构面信任 分类号:F224.39TP391TP181 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UGC(UserGeneratedContent)标签作为Web2.0时代基于互联网的社会环境中随处可得的重要资源，既是大众用户群体智慧的体现[1，也反映了用户兴趣和网络资源特征，成为有效组织用户或资源信息的重要手段。因而，UGC标签不仅起到联系用户和资源的纽带作用，相似的标签一定程度上也反映了用户的某类兴趣以及与这类兴趣对应的资源。同时，在社交网络中的好友关系能够为推荐系统提供诸多有价值的信息，用户会更加信任好友的推荐[1]，较多文献表明基于信任的推荐系统能够提供额外的用户相似信息，提高推荐准确性[2-3]。因而，在个性化推荐算法优化研究中，对社交网络上大量标签信息中反映出来的好友间共同兴趣偏好加以考虑，对改进推荐算法准确性具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于信任关系的研究发现：由于信任网络构成复杂，好友并不等于相似用户且差别较大，因此信任关系不适合单独用于个性化推荐，通常被作为基础推荐系统的补充[4-5]。据此，丁小焕等在张量分解模型的基础上构建整合基于项目信任和基于标签信任的线性模型，提升了推荐准确性[。另外，现有基于信任的推荐系统多只考虑单一方面的用户间信任关系[7]，事实上,无论是线上还是线下好友信任关系多只建立在某些兴趣上，而非好友间的所有兴趣爱好都相似，因此区分各个兴趣面上用户间信任能够更精确地为系统提供额外信息，学术上将这种在不同兴趣面上的信任关系称之为多构面信任关系(Multi-faceted Trust)[8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多构面信任关系在个性化推荐领域已有相关研究,Quinn等通过调查问卷的方式以演员推荐为例，研究基于多构面信任的推荐精确度问题，发现信任风险越高，精确度越低[9]。Peng 等将博客网站中的博文分成6大类，并通过在线实验的方式让用户对每篇博文评分，再通过在线调查得到用户的好友信息，由此得到好友间的多构面信任关系[10]。这类研究通常需要将资源主观划分为多个构面，而在实际的博客型社交网络中，面对大量的不同类型的资源，这种定义方式容易出错，且缺乏合理性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tang等也将所有资源分成若干类别作为构面，根据用户对资源的评分信息构建信任张量[8]，详细阐述了多构面下信任张量的定义过程，构建了基于多构面的用户向量空间模型，即用户在各个构面的评分值作为用户向量，通过余弦相似度计算用户间的信任强度作为权重融人协同过滤算法，并线性整合多构面下基于资源的协同过滤算法，有效提高了预测准确度[1]。其主要不足在于：一方面，其研究的网站本身已将资源划分为不同类别，但对于微博和Twitter等一些没有资源分类的社交网络，还需要解决构面定义的问题;另一方面，余弦相似度计算信任关系存在局限性：属于同一构面的资源理应具有一定相似性，而如果两个用户在同一个构面内对多个资源进行评分，但很少有共同资源评分记录，那么根据余弦相似度计算出的用户间信任关系会趋向更小，且随着资源量的增大趋近于0，这显然与实际不符。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，本文首先提出基于标签簇的用户间多构面信任关系的构建方法以高效地解决构面定义困难的问题，即引用基于标签综合共现的谱聚类，将标签聚类产生的标签簇作为构面定义的依据来构建信任张量，融人基于张量分解模型的个性化推荐算法中；其次通过定义簇间和簇内信任关系以避免余弦相似度计算信任强度的局限；最后，通过仿真检验改进算法的推荐准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2基于标签综合共现的谱聚类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对标签数据进行聚类，一方面能够在张量分解前削弱标签冗余及语义模糊带来的影响，在消除噪音数据的同时凸显语义关系，有利于提升推荐准确性；另一方面聚类得到的标签簇是获得信任构面的重要依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在聚类算法的选择上，Li等提出改进的标签共现结合谱聚类的方法，其将作为谱聚类输入的标签相似度并分为个体共现相似度和群体共现相似度[12]。这种做法的核心思想与李瑞敏等的看法一致，即如果一个项目和一个用户拥有共同的标签越多，那么该用户与该项目之间的关联程度越高[13]。个体共现相似度刻画了两个标签间最根本的联系，而群体相似度增强了标签间的语义关系，可看作是对个体相似度的补充。通过综合共现相似度将个体和群体共现相似度相结合，可以更好地表达标签之间的相似关系。这种方法相比传统聚类方法的优势在于：不用将三元组分割成二元组的形式定义标签的相似度，能够完整地保留用户、标签及资源三者间的语义关系；基于图论的谱聚类算法更有利于发现不规则的簇，从而更好地实现对零散标签的聚类，更好地凸显语义关系，解决标签冗余及语义模糊问题，以提升推荐的准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本文引人基于综合共现的谱聚类方法用于张量分解前的数据预处理，在解决标签冗余问题的同时聚类产生的标签簇也为定义用户间信任关系提供了基础，每个标签簇内的标签之间具有较强的相似性，作为连接用户和资源的特征，这类标签代表了用户喜欢的某种资源主题[14]，也代表了某类用户的某类兴趣。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于标签簇的多构面信任关系定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在通过谱聚类对标签数据进行有效清理并结合改进张量分解模型凸显 $\\angle$ 用户，标签簇，资源 $>$ 三者间的语义关系的基础上，融合社交网络中用户的信任关系信息，将进一步提高推荐的准确性。但是实际上用户间的信任关系通常更多地只是建立在双方某些甚至某个方面的共同爱好上，例如如果两个用户 $\\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 都喜欢听民谣，那么他们之间可能会建立信任关系，但$\\boldsymbol { u } _ { a }$ 可能还喜欢摇滚而 $u _ { b }$ 不喜欢，那么如果基于二者的这种简单的信任关系将所有 $\\boldsymbol { u } _ { a _ { } }$ 喜欢的音乐推荐给$u _ { b }$ 就不合适。相比较基于单一构面的信任关系，通过构建信任张量定义不同构面下的用户间信任关系[8,1]更有利于有效提高推荐的准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但在社交网络中，标签的语义纷繁复杂，要划分出不同构面并将所有标签按照一定的规则分配到这些构面中，仅通过专家或者人工方法很难保证划分的准确性，反而会造成语义错乱。而前文提到通过标签聚类的方式将标签较为准确地自动划分到不同的簇中，且基于综合共现的谱聚类算法较为完整地涵盖了所有用户的兴趣偏好，因此考虑将聚类得到的标签簇作为反映用户不同兴趣的构面，将两两用户间多构面的信任关系扩展到所有用户就形成了三维形式的 $<$ 用户，标签簇，用户 $>$ 信任张量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令信任张量为 $B _ { 1 } \\in { \\pmb R } ^ { | I _ { u } | \\times | I _ { C } | \\times | I _ { u } | }$ ， $\\left. I _ { u } \\right.$ ， $\\left. I _ { C } \\right.$ 分别表示数据集中用户、标签簇的数量；令张量内元素为$h ( u _ { a } , C _ { j } , u _ { b } ) \\in [ 0 , 1 ]$ 表示 $\\boldsymbol { u } _ { a }$ 对 $u _ { b }$ 在 $C _ { j }$ 簇上的信任强度，该值越高说明信任关系越紧密或者说两个用户在同一兴趣构面上的相似度越大，如果 $a = b$ 则$h ( u _ { a } , C _ { j } , u _ { b } ) = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4基于簇间与簇内信任关系的信任张量构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对张量中元素即信任强度的定义是构建多构面信任张量的核心，本文将其分为簇内和簇间信任关系两部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "事实上在AdHoc网络中，有较多成果通过簇间和簇内信任的概念定义网络节点间的信任关系。金瑜等在网络恶意节点过滤技术的研究中，提出基于双层信任模型TLT的簇内和簇间服务信任的概念，并通过线性加权得到网络节点间的综合服务信任关系，据此快速有效地发现恶意节点[15]。Chen 等为了解决移动AdHoc网络中节点动态变化导致的较难建立节点间信任关系的问题，将网络分成多个带簇首的节点簇，首次引人簇内信任的概念为陌生节点提供额外的信任信息[16]。AdHoc 网络节点之间本身存在一定联系，可以通过考察节点间的历史交易行为得到[17]。而社交网络环境下，UGC标签之间不存在直接联系，且同标多义和多标同义的情况普遍存在，不同用户可能使用同一标签簇内的不同标签，也可能使用不同标签簇内但是相同的标签，从而增加了用户间信任关系的复杂性。由此可见，AdHoc网络领域基于节点聚类的节点间信任关系的定义完全不适用于社交网络用户间基于UGC标签的信任关系的定义问题，但是，本文借鉴其思想，提出基于标签簇的簇内和簇间信任关系的概念,作为额外的信任信息相互补充，从而完整全面地表达社交网络用户间信任关系的强度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同于AdHoc网络节点间信任关系的定义，本文关于社交网络用户信任关系是基于标签簇进行定义的，即通过定义在标签簇上的簇内和簇间信任关系度量用户间信任关系的强度，而非度量标签之间关系。同时，基于标签聚类的信任关系定义还有效解决了构面划分的问题，基于标签簇的构面方法具有客观、高效等特点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算信任强度需要解决以下两个关键问题：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "问题1：现有成果大多根据余弦相似度计算表示信任强度的权重[11,18]，假如 $\\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 都使用过某标签簇的标签，且两人使用的标签完全不同，那么即使他们使用过很多这个标签簇的标签，根据余弦相似度，两者的信任度也是0。但聚类后在同一标签簇的标签间有一定的相似性，因而 $\\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 应具有一定的信任强度。由此可以认为单纯通过余弦相似度计算基于标签簇的信任强度会产生度量失真的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因而，通过定义簇间信任关系(Inter-cluster Trust)考虑用户对标签簇整体的标注偏好，有利于判断单个簇上用户间的相关性。TF-IDF(TermFrequency-InverseDocumentFrequency)中的TF思想用于定义词在文章中的出现频率，出现频率越高的词越有可能表达文章内容。本文借鉴 TF思想定义标签簇中的标签在用户所有使用过的标签中的出现频率，出现频率越高，越能够代表标注用户的主要兴趣，即 $\\displaystyle \\frac { d ( u _ { i } , C _ { j } ) } { d ( u _ { i } ) }$ ，分子表示用户 $u _ { i }$ 在标签簇 $C _ { j }$ 中标注的次数，分母表示用户$u _ { i }$ 在所有标签簇中标注的次数。因此对于用户 $\\boldsymbol { u } _ { a _ { } }$ 和$u _ { b }$ 来说，如果他们是好友关系，两人对某一标签簇共同的兴趣程度即为簇间信任关系，可以定义为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI E T _ { C _ { j } } ( u _ { a } , u _ { b } ) = \\frac { d ( u _ { a } , C _ { j } ) } { d ( u _ { a } ) } \\times \\frac { d ( u _ { b } , C _ { j } ) } { d ( u _ { b } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "问题2：簇间信任关系实际上考察的是用户对标签簇的偏好，但是否还需要考察用户对簇内标签的偏好呢?",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实际上仅仅考虑簇间信任关系是不够的。社交网络环境下标签数据的高稀疏性特点难免会影响聚类的效果，除了可以对数据进行清洗降低误差外，也可以通过衡量簇内标签的使用情况辅助判断。即，将簇内信任关系(Intra-cluster Trust)与簇间信任关系结合，同时反映簇内和簇间的用户相似度，这样有利于完整地表达用户之间在不同构面上的信任关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常，在构建标签的向量空间模型(VSM)基础上,利用常见的余弦相似度、Pearson相似度及欧式相似度公式来计算信任强度[8]。但Zhen 等发现在标签系统中,Pearson相似度结合Sigmoid 函数的方法相比其他方法能够获得更加精确的结果[19]，因此本文利用这种方法定义用户 $\\boldsymbol { u } _ { a }$ 和用户 $u _ { b }$ 在 $C _ { j }$ 簇的簇内信任关系，表示如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { C _ { j } } ( u _ { a } , u _ { b } ) = \\frac { \\displaystyle \\sum _ { i _ { k } \\in I } ( \\omega _ { u _ { a } , C _ { j } , i _ { k } } - \\overline { { \\omega } } _ { u _ { a } , C _ { j } } ) ( \\omega _ { u _ { b } , C _ { j } , i _ { k } } - \\overline { { \\omega } } _ { u _ { b } , C _ { j } } ) } { \\displaystyle \\sqrt { \\sum _ { i _ { k } \\in I } ( \\omega _ { u _ { a } , C _ { j } , i _ { k } } - \\overline { { \\omega } } _ { u _ { a } , C _ { j } } ) ^ { 2 } \\sum _ { i _ { k } \\in I } ( \\omega _ { u _ { b } , C _ { j } , i _ { k } } - \\overline { { \\omega } } _ { u _ { b } , C _ { j } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI A T _ { C _ { j } } ( u _ { a } , u _ { b } ) = \\frac { 1 } { 1 + \\exp ( - P _ { C _ { j } } ( u _ { a } , u _ { b } ) ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega _ { u _ { a } , C _ { j } , i _ { k } }$ 和 $\\omega _ { u _ { b } , C _ { j } , i _ { k } }$ 分别表示用户 $\\boldsymbol { u } _ { a }$ 和用户$u _ { b }$ 用 $C _ { j }$ 簇中的标签对 $i _ { k }$ 进行标注的次数; $\\overline { { \\omega } } _ { u _ { a } , C _ { j } }$ 和$\\overline { { \\omega } } _ { u _ { b } , C _ { j } }$ 表示用户 $\\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 在 $C _ { j }$ 簇中标注的平均次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了将处在同一层面但重要程度不同的因素整合起来，通常采用线性相加的方法[11]，本文考虑将簇间和簇内信任关系线性相加，通过参数 $\\alpha \\in [ 0 , 1 ]$ 表达两部分对于信任强度的贡献，即可得到用户间在给定标签簇上的信任关系，即信任张量 $B _ { 1 }$ 中的任意元素可表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ( u _ { a } , C _ { j } , u _ { b } ) = \\alpha I E T _ { C _ { j } } ( u _ { a } , u _ { b } ) + ( 1 - \\alpha ) I A T _ { C _ { j } } ( u _ { a } , u _ { b } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于簇间信任度反映了用户对标签簇的整体偏好，因而，比簇内信任度在计算用户间的信任关系时占据了更加重要的地位。据此初步判断 $\\alpha$ 的取值应大于0.5，该参数的最优取值将通过后续仿真实验得到。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5融合信任张量的个性化推荐算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于张量分解之前进行了标签综合共现谱聚类，将 $<$ 用户，标签，资源 $>$ 三元关系转换成 $<$ 用户，标签簇，资源 $\\mathrm { > }$ 的形式，因此通过计算同一用户对同一资源在同一标签簇中的标注次数，将原先基于 $\\cdot <$ 用户，标签，资源 $>$ 的初始张量进行适应性改变，形成 $<$ 用户，标签簇，资源>初始张量[20]；再运用 HOSVD-HOOI算法对初始张量进行分解[21]，选择保留 $70 \\%$ 的原始信息,从而得到近似张量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于邻域的协同过滤思想是利用相似用户过去的行为预测目标用户的偏好，而研究表明有信任关系的用户更可能在某些兴趣上有相似性[22]，因而用户的好友即可视为相似用户。丁小焕等正是基于上述思想，将好友信息乘以单构面信任强度并融合到推荐算法中[]。因此，本文考虑将信任张量 $B _ { 1 }$ 中的作为好友信息的权重融入原先的张量模型中为目标用户提供额外信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令融合后的张量中的任意元素为@(ui,Cj,),$\\omega ^ { \\prime } ( u _ { i } , C _ { j } , : )$ 则表示张量中的一条纤维，即在 $C _ { j }$ 面， $u _ { i }$ 列上的行向量。于是每个用户在每个构面上对所有资源的最终标注情况可以通过以下公式表达：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega ^ { \\prime } ( u _ { i } , C _ { j } , : ) = \\omega ( u _ { i } , C _ { j } , : ) + \\frac { 1 } { \\left| f r ( u _ { i } ) \\right| } \\sum _ { l \\in f r ( u _ { i } ) } h ( u _ { i } , C _ { j } , u _ { l } ) \\cdot \\omega ( u _ { l } , C _ { j } , : )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $f r ( u _ { i } ) = \\{ l | f _ { i l } = 1 , f _ { i l } \\in F _ { I _ { u } \\times I _ { u } } \\}$ 表示用户 $u _ { i }$ 的好友集合，而 $F _ { I _ { u } \\times I _ { u } }$ 为好友矩阵，其中元素为 $f _ { a b }$ 如果 $\\boldsymbol { u } _ { a }$ 和 $u _ { b }$ 间存在好友关系，则 $f _ { a b } = f _ { b a } = 1$ ，否则为0,另外 $f _ { a a } = 0 \\ ; \\ \\left| f r ( u _ { i } ) \\right|$ 是用户 $u _ { i }$ 的好友数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于信任关系信息适合作为推荐模型的补充，将目标用户 $u _ { i }$ 与其好友在不同构面下的信任强度作为权重 $h ( u _ { i } , C _ { j } , u _ { l } )$ 乘以其在该构面(标签簇)下对所有资源的标注记录 $\\omega ( u _ { i } , C _ { j } , : )$ ，求均值后作为补充信息与自身的标注记录相加得到修正的推荐张量 $B$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从现实使用场景的角度出发，当用户 $u _ { i }$ 点选某个标签 $t _ { j }$ 后，系统会查询 $t _ { j }$ 所属的标签簇 $C _ { j }$ ，再找到该用户张量中目标标签簇 $C _ { j }$ 下 $\\omega ^ { \\prime } ( u _ { i } , C _ { j } , : )$ 最高的 $N$ 个资源，推荐给用户，从而完成推荐。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6 仿真实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6.1 数据集的选择",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文选用的Last.fm数据集自2011年第5届推荐系统国际会议发布以来被广泛应用，其中包括2005年-2011年间1892名用户对17632名歌手的标注和收听的记录，产生标签11946个，标注行为186479次，并且有双向好友关系12717对(即单项关系25434条)。为了提高运行效率对原始数据集进行筛选。首先，为避免冷启动问题，根据只保留用户、标签、资源出现次数较多的记录原则，选出标注次数大于70的用户和歌手；其次，为避免机器人恶意评分影响数据集质量，筛选标注次数小于3000次的用户；最后，筛选出使用次数大于20次的标签以避免标签数据高稀疏性对聚类效果的影响。最终得到的核心子集包括444位用户、275个标签及372位歌手，共37749条有效记录，平均每位用户有4.07个好友。随机选择 $80 \\%$ 的数据作为训练集，剩余的 $20 \\%$ 作为测试集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在训练集中的所有用户都会被随机分配一个自己曾经使用过的标签，通过算法得出每位用户的一个TopN列表，通过与测试集中对应用户标注的资源进行比较得到有效推荐结果，从而计算得到该算法的性能指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.2性能评价指标的选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "推荐准确性是评价推荐算法性能的重要指标，目前较为主流的TopN推荐结果准确性评价指标包括：准确率(Precision)，召回率(Recall)及 $F 1$ 指标，其中前两者相互影响，因此选择使用准确率-召回率曲线来定性地反映准确性的变化趋势；同时 $F 1$ 指标作为两者的调和平均数能够定量地反映算法之间的差距[23],因此还选择 $F 1$ 指标评价系统的准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真实验重复10次，对每个指标求其10次内的均值作为实验结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.3 参数优化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出的推荐算法中有两个主要参数对最终推荐结果有较大影响：类簇个数及 $\\alpha$ 值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "类簇个数对于提高推荐算法的准确率绝对值有一定影响，由于本文研究的目的是为了通过融合多构面信任关系来提升推荐准确性，因此仿真对比实验中应尽可能排除聚类算法带来的差异，所以对比算法均基于同一种谱聚类，且还要保证每个算法中使用相同的类簇个数。对于本文采用的谱聚类，可以通过寻找最优模块度(ModularityMetric)的方法[24确定最佳类簇个数为5类。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算法中的参数 $\\alpha$ 则需要通过仿真实验的方法寻找最优的 $\\alpha$ 值使得推荐准确度达到最高。对 $\\alpha$ 从0到1取0.05为步长，循环构建新的信任张量以及推荐模型并计算不同推荐长度下( $N = \\{ 1 0 , 1 5 , \\cdots , 5 0 \\} \\$ 的 $F 1$ 值,再求此次循环下的 $F 1$ 均值即 $F 1 _ { \\alpha } = \\frac { 1 } { \\left| N \\right| } \\sum _ { n \\in N } F 1 @ n$ 。据此绘制随 $\\alpha$ 变化的 $F 1$ 值变化曲线。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看到，仿真实验证实：簇间信任度较簇内信任度在准确性上更加重要；随着 $\\alpha$ 的增大，簇间信任度的权重增大， $F 1$ 值也随之呈上升趋势，并在$\\alpha = 0 . 8 5$ 时达到最大值。这说明相比传统利用余弦相似度计算信任强度的方法(即 $\\alpha = 0$ 时的公式(4))，改进后的算法能够有效提升推荐准确性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/55c3ea4d51f71062cfb18f5189ef403685b13f035bb7ca5eef945cd683e8520a.jpg",
+        "img_caption": [
+            "图1不同 $\\alpha$ 值在 $F 1$ 指标下的对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.4 对比算法的选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真实验模拟用户通过选择一个过去使用过的标签得到一个TopN列表的场景，对比从Top10到Top50每增加5个推荐资源时不同算法的性能指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "性能的对比和算法的选择原则如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）对比融入用户间信任张量前后算法的推荐准确性，因而选择未加入信任张量的基于综合共现谱聚类的张量分解算法(简称CoSCluTD)，以验证本文提出的基于标签簇多构面信任关系算法Multi-facetedTrust-CoSCluTD算法(简称MFT-CoSCluTD, $\\alpha = 0 . 8 5$ 对推荐准确性的提升作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）为了对比单一构面和多构面信任关系对算法推荐准确性的影响，选择未融合信任张量的基于单一构面信任关系的推荐算法 Simple Trust-CoSCluTD(简称为 ST-CoSCluTD)，即用户 $u _ { i }$ 在任意构面 $C _ { j }$ 上对所有资源的最终标注情况如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega ^ { \\prime } ( u _ { i } , C _ { j } , : ) = \\omega ( u _ { i } , C _ { j } , : ) + \\frac { 1 } { \\big | f r ( u _ { i } ) \\big | } \\sum _ { l \\in f r ( u _ { i } ) } \\omega ( u _ { l } , C _ { j } , : )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.5推荐准确性的对比分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2显示了准确率-召回率曲线的仿真结果，每条曲线代表一种算法在不同 $N$ 上的准确率、召回率变化。当 $N$ 较小时，准确率较高而召回率较低；随着 $N$ 的变大，准确率下降，召回率上升。曲线的形态越靠右上角，说明推荐效果越好。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f983191a8e81477866881fe2f0a088df6c6487310fc988e21e4770a6d0137ead.jpg",
+        "img_caption": [
+            "图2三种算法在准确率召回率曲线上的对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图2可见：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果1:本文提出的MFT-CoSCluTD算法在推荐长度在10到50之间时的准确率和召回率普遍好于另外两种算法；MFT-CoSCluTD相较未融合信任关系的CoSCluTD算法，随着推荐长度逐渐增大，准确率提升趋于稳定，平均准确率相对提升幅度(下同)为$2 . 1 3 \\%$ ，平均召回率提升 $2 . 4 5 \\%$ 。说明多构面信任关系能够较好地识别用户间的兴趣，为推荐系统提供了额外的信息。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果2:没有融合信任关系的CoSCluTD算法相较考虑单一构面信任关系的 ST-CoSCluTD 算法性能反而更好，随着推荐长度的增加差距逐渐减小。这说明：仅通过单一构面并不能合理定义用户间信任关系，错误信息的融人干扰了原先凸显的用户与资源关系，从而导致ST-CoSCluTD算法给用户推荐了更多与兴趣无关的资源；而随着推荐长度的增加更多相关资源的出现削弱了错误信息的影响，使得差距得以减小。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d921a85a6e6194303e3e8c3b4965b1142521e6d9a971ae62f32529e4fc44c6a.jpg",
+        "img_caption": [
+            "图3对比了三种算法在 $F 1$ 指标上的性能。",
+            "图3三种算法在F1指标上的对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图3可得分析结果如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果3:MFT-CoSCluTD与CoSCluTD相比平均准确率相对提升幅度达 $2 . 2 9 \\%$ ，当 $N { = } 5 0$ 时提升幅度最大，达 $3 . 0 6 \\%$ ，算法推荐准确性的优势随推荐长度 $N$ 的增加而略有增加。进一步说明融入多构面信任关系有利于推荐准确性的提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结果4:ST-CoSCluTD与CoSCluTD相比 $F 1$ 平均下降幅度达 $6 . 6 1 \\%$ ，当 $N { = } 1 0$ 时下降幅度最大，达$12 . 8 8 \\%$ 。下降幅度随着推荐长度 $N$ 的增加逐步减小。进一步说明仅考虑单一构面信任关系反而不利于推荐准确性提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "仿真结果发现在 $N { = } 2 0$ 时,MFT-CoSCluTD算法精确度 $F 1$ 能够获得最大值，因此在实际应用中，最理想的推荐长度应为 $N { = } 2 0$ O",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，为了避免仿真结果受标签筛选的影响，本文特在其他筛选条件不变情况下进行了标签出现次数大于8次所得到的核心子集Tag8与Tag20的仿真对比实验，本文提出的MFT-CoSCluTD 性能仍然表现最佳。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了解决UGC标签在张量模型中因标签冗余及语义模糊所导致的准确性下降问题，并希望能够更好地利用信任关系，在通过综合标签共现结合谱聚类解决标签冗余等问题的基础上，提出基于标签簇的信任张量，即利用聚类后的标签簇作为信任构面的定义依据，解决了目前构面定义困难的问题。在信任强度的计算上，将信任关系分为簇间和簇内关系两部分，分别借鉴TF-IDF及Pearson相似度的思想定义信任张量，以此解决余弦相似度计算信任强度存在局限性的问题。最后根据协同过滤的思想将信任张量作为信息补充融人张量分解后的推荐模型中。基于Last.fm数据集的实验表明这种方法能够充分利用标签数据以及好友信息有效地提高推荐准确性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着在线社交网站的普及，基于标签和信任关系的个性化推荐将会受到更加广泛的关注。未来工作将主要集中在根据不同数据集来进一步验证算法有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] AuYeungCM,Iwata T.Strength ofSocial Influence in Trust ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Networks in Product Review Sites[C]//Proceedings of the 4th Interational Conference on Web Search and Data Mining (WSDM 2011),Hong Kong, China.2011: 495-504.   \n[2]Tiroshi A,Berkovsky S,Kaafar M A,et al.Graph-Based Recommendations: Make the Most Out of Social Data[C]// Proceedings of the International Conference on User Modeling,Adaptation,and Personalization. Cham: Springer International Publishing,2014:447-458.   \n[3]Tang J, Hu X,Liu H. Social Recommendation: A Review[J]. Social Network Analysis & Mining,2013,3(4):1113-1133.   \n[4]Tang J，Gao H, Hu X,et al. Context-aware Review Helpfulness Rating Prediction[C]//Proceedings of the 7th ACM Conference on Recommender Systems. 2013: 1-8.   \n[5]Crandall D,Cosley D,Huttenlocher D,et al. Feedback Effects Between Similarity and Social Influence in Online Communities[C]//Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2008:160-168.   \n[6]丁小焕，彭甫谘，王琼，等．融合朋友关系和标签信息的 张量分解推荐算法[J]．计算机应用，2015，35(7)：1979- 1983.(Ding Xiaohuan, Peng Furong，Wang Qiong，et al. Tensor Factorization Recommendation Algorithm Combined with Social Network and Tag Information[J].Journal of Computer Applications,2015,35(7): 1979-1983.)   \n[7]Yin C X, Peng Q K, Chu T. Personal Artist Recommendation via a Listening and Trust Preference Network[J]. Physica A: Statistical Mechanics & Its Applications, 2012,391(5): 1991-1999.   \n[8]Tang J,Gao H,Liu H,et al. eTrust:Understanding Trust Evolution in an Online World[C]//Proceedings of the 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.2012: 253-261.   \n[9]Quinn K, Lewis D, O'Sullivan D,et al. An Analysis of Accuracy Experiments Carried out over of a Multi-faceted Model of Trust[J]. International Journal of Information Security,2009,8(2):103-119.   \n[10] Peng T C, Chou S T. iTrustU: A Blog Recommender System Based on Multi-faceted Trust and Colaborative Filtering[C]// Proceedings of the 2009 ACM Symposium on Applied Computing, Honolulu,Hawaii. ACM,2009:1278-1285.   \n[11] Tang J,Gao H,Liu H. mTrust: Discerning Multi-Faceted Trust in a Connected World[C]/Proceedings of the 5th International Conference on Web Search and Data Mining (WSDM 2012), Seattle, USA.2012: 93-102.   \n[12] Li H Z,Hu X G,Lin Y J,et al. A Social Tag Clustering Method Based on Common Co-occurrence Group Similarity [J].Frontiersof Information Technology & Electronic Engineering,2016,17(2): 122-134.   \n[13]李瑞敏，林鸿飞，闫俊.基于用户-标签-项目语义挖掘的个 性化音乐推荐[J]．计算机研究与发展，2014，51(10): 2270-2276.(Li Ruimin, Lin Hongfei, Yan Jun. Mining Latent SemanticonUser-Tag-ItemforPersonalized Music Recommendation[J]. Journal of Computer Research and Development,2014,51(10): 2270-2276.)   \n[14] Shepitsen A,Gemmell J,Mobasher B,et al. Personalized Recommendation in Social TaggingSystemsUsing Hierarchical Clustering[C]/Proceedings of the 2008 ACM Conference on Recommender Systems,Lausanne, Switzerland. ACM,2008: 259-266.   \n[15]金瑜，古志民，顾进广，等．一种对等网中基于相互信任 的两层信任模型[J]．软件学报,2009,20(7):1909-1920.(Jin Yu,Gu Zhimin, Gu Jinguang,et al. Two-Level Trust Model Based on Mutual Trust in Peer-to-Peer Networks[J].Journal of Software,2009,20(7): 1909-1920.)   \n[16] Chen A,Xu G,Yang Y.A Cluster-Based Trust Model for Mobile Ad Hoc Networks[C]//Proceedings of the 2008 4th International Conference on Wireless Communications, Networking and Mobile Computing.2008: 1-4.   \n[17] Feigenbaum J，Lacy J，Blaze M.Decentralized Trust Management [C]//Proceedings of the IEEE Symposium on Security and Privacy.DOI: 10.1007/978-1-4419-5906-5_1350.   \n[18] Yin C,Chu T.Improving Personal Product Recommendation via Friendships’Expansion[J]．Journal of Computer& Communications,2013,1(5): 1-8.   \n[19] Zhen Y,Li W J,Yeung D Y. TagiCoFi: Tag Informed Collaborative Filtering[C]/Proceedings of the 3rd ACM Conference on Recommender Systems.2009: 69-76.   \n[20] Leginus M, Zemaitis V. Speeding up Tensor Based Recommenders with Clustered Tag Space and Improving Quality of Recommendations with Non-negative Tensor Factorization[D]. Aalborg University,2011.   \n[21]Symeonidis P,Nanopoulos A,Manolopoulos Y.A Unified Framework for Providing Recommendations in Social Tagging Systems Based on Ternary Semantic Analysis[J]. IEEE Transactions on Knowledge & Data Engineering, 2010, 22(2): 179-192.   \n[22] Tang J, Gao H, Hu X,et al.Exploiting Homophily Effect for Trust Prediction [C]//Proceedingsof ACM International Conference on Web Search and Data Mining.2013:53-62.   \n[23]Pazzani M,Billsus D.Learning and Revising User Profiles: The Identification of Interesting Web Sites[J].Machine Learning,1997,27(3):313-331.   \n[24]White S,Smyth P.A Spectral Clustering Approach to Finding Communities in Graph[C]//Proceedings of the 2005 SIAM International Conference on Data Mining,Newport Beach, CA,USA. SIAM,2005:274-285. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:cmm@dhu.edu.cn。  \n[1]薛康杰.train_Tag20.txt.训练数据集.  \n[2]薛康杰.test_Tag20.txt.测试数据集.  \n[3]薛康杰.userfriend.txt.好友关系数据集.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "陈梅梅：提出研究思路和具体研究方案，论文撰写与修改;  \n薛康杰：方法设计与仿真实现，论文撰写与修改。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2017-02-20  \n收修改稿日期:2017-03-31",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Personalized Recommendation Algorithm of Multi-faceted Trust Tensor Based on Tag Clustering ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chen Meimei Xue Kangjie (Glorious Sun School of Business & Management, Donghua University, Shanghai 2Ooo51, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper aims to solve the low accuracy issue facing personalized recommendation algorithm of multi-faceted trust tensor based on tag clustering.[Methods]First，we proposeda new method to calculate multi-faceted trustbased on tag clusters.Then,we introduced the TF-IDFand Pearson similarityto indicate strength of inter-cluster and intra-cluster trust.Finally,we built recommendation mechanism based on tensor decomposition to reflectthe trust intensity from diffrent facets.[Results]We examined the newalgorithm with the Last.fm dataset.The precision,recalland F1 measures were beter than traditional methods. Among them,the F1 measure was increased by $2 . 2 9 \\%$ on average. [Limitations] Our new algorithm needs to be examined with datasets from Weibo or Twitter. [Conclusions] The proposed algorithm could efectively increase the accuracy of recommendation by defining and quantifying trust relationship among users.It improves the user experience of social network systems. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Personalized Recommendation UGC Tag Tensor Decomposition Multi-faceted Trust ",
+        "page_idx": 7
+    }
+]

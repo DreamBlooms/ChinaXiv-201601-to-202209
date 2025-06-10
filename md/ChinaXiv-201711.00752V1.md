@@ -1,0 +1,184 @@
+1 $L$ -组氨酸对肉鸡生长性能、肌肉品质、血浆抗氧化能力和肌肉咪唑二肽含量的影响
+
+2 胡孟 　张海军\*王　晶 齐广海　武书庚  
+3 （中国农业科学院饲料研究所，农业部饲料生物技术重点开放试验室，生物饲料开发国家工4 程研究中心，北京 100081)  
+5 摘要：本试验旨在研究饲粮添加 $L$ 组氨酸对肉鸡生长性能、肌肉品质、血浆抗氧化能力6 和肌肉咪唑二肽含量的影响。选取体重相近、健康的1日龄爱拔益加（AA）肉仔鸡公雏 3007 只，随机分为5组，每组6个重复，每个重复10只鸡。对照组饲喂基础饲粮，试验组饲喂8 在基础饲粮中分别添加 250、500、1000、2000 mg/kg L-组氨酸的试验饲粮。试验期 $4 2 \mathrm { d }$ 。9號 结果表明：1) $L$ 组氨酸降低了肉鸡生长后期（22\~42日龄）的料重比，250 和 $2 0 0 0 \mathrm { m g / k g }$ L0 添加组显著低于对照组（ $. P { < } 0 . 0 5$ ）。2) $L .$ 组氨酸对肌肉全净膛率、胸肌率、腿肌率、腹脂11 率、滴水损失、剪切力和 $\mathsf { p H }$ 无显著影响（ $. P { > } 0 . 0 5$ ）。3） $L$ -组氨酸线性提高了42日龄血浆12 总抗氧化能力及谷胱甘肽过氧化物酶、总超氧化物歧化酶的活性（ $_ { . } P { < } 0 . 0 5$ ）。4) $L$ 组氨酸13 增加了42 日龄肌肉中肌肽和鹅肌肽含量，500、1000 和 $2 0 0 0 \mathrm { m g / k g }$ 添加组肌肽含量分别14 较对照组升高了 $4 0 . 5 8 \%$ 、 $4 2 . 7 5 \%$ 、 $3 3 . 7 0 \%$ （ $P { < } 0 . 0 5 \$ ）， $1 0 0 0 \mathrm { m g / k g }$ 添加组鹅肌肽含量较对15 照组增加了 $3 7 . 8 0 \%$ （ $P { < } 0 . 0 5$ ）；对肌肉中肌肽和鹅肌肽含量进行二次曲线方程拟合表明，L6 $L$ -组氨酸添加量为 $1 2 7 6 \mathrm { m g / k g }$ 时，肌肉咪唑二肽含量最高。可见，饲粮添加 $L$ 组氨酸可提.7 高肉鸡的饲料转化率，改善血浆抗氧化能力，增加肌肉中咪唑二肽含量。本试验条件下，饲18 粮添加 $1 \ 0 0 0 { \sim } 2 \ 0 0 0 \ \mathrm { m g } / \mathrm { k g } L$ -组氨酸较佳。从增加肌肉咪唑二肽含量考虑，饲粮 $L$ 组氨酸适9號 宜添加量为 $1 2 7 6 \mathrm { m g / k g }$ （20  
+20 关键词： $L$ 组氨酸；肉品质；抗氧化能力；咪唑二肽  
+1 中图分类号：S816  
+!2 随着社会快速发展，人民生活水平不断提高，消费者对肉制品的要求不仅局限于营养价！3 值，对肉品的健康特性如抗氧化、抗衰老、维护人体健康等方面提出了更高的要求。因此，
+
+发展功能性肉制品受到广泛关注。咪唑二肽（肌肽和鹅肌肽）是动物体内的一类内源活性物质，在抗氧化、抗衰老、增强肌肉缓冲力、维持机体pH稳定、抗疲劳等方面具有重要作用[1-3]，且最新研究表明肌肽在预防和治疗神经性疾病方面（老年痴呆、帕金森综合征等）也具有一定的药理学作用[4]。肌肽作为一种功能性二肽，可富集在肌肉中，因此，生产富含肌肽等二肽肉制品具有广泛的应用前景。
+
+$L$ 组氨酸是动物体内的一种半必需氨基酸，而在家禽生产中， $L$ -组氨酸作为一种必需氨基酸，参与机体组成，是体内肌源活性肽生成的主要前体物质，在体内主要以肌肽形式发挥作用。 $L$ -组氨酸肉鸡营养需要量为：前期(1\~21日龄) $0 . 3 5 \%$ ，后期（22\~42日龄） $0 . 3 2 \%$ [NRC（1994）]。由于在饲料原料中的含量较高（玉米 $0 . 2 3 \%$ ，豆粕 $1 . 1 \%$ ），常规玉米-豆粕饲粮中 $L$ -组氨酸一般不易缺乏。但为提高功能性活性肽在肌肉中的含量，饲粮仍需额外添加L组氨酸。研究表明，适量添加 $L$ -组氨酸可改善鱼类生长性能[5-6]、增加肌肉肌肽含量[7-8]、提高机体抗氧化能力9]，但在肉鸡生产中的研究较少。因此，本试验旨在研究饲粮添加不同水平 $L$ -组氨酸对肉鸡生长性能、肌肉品质、血浆抗氧化能力和肌肉咪唑二肽含量的影响，以期为其更好地在生产中应用提供参考。
+
+1材料与方法
+
+# 1.1 试验材料
+
+爱拔益加（AA）肉仔鸡：购于北京华都肉鸡公司； $L$ -组氨酸：纯度 $2 9 9 \%$ ，购于河北和美氨基酸有限公司。
+
+# 1.2试验设计与试验饲粮
+
+采用单因子试验设计，选取300只体重相近、健康的1日龄AA肉仔鸡公雏，随机分为5 组（每组6个重复，每个重复10只鸡），分别饲喂基础饲粮中添加0、250、500、1000、$2 \ 0 0 0 \ \mathrm { m g / k g } \ L$ $L$ -组氨酸的试验饲粮，各组1\~21日龄饲粮组氨酸含量实测值分别为 $0 . 4 9 \%$ 、$0 . 5 2 \%$ 、 $0 . 5 8 \%$ 、 $0 . 6 2 \%$ 和 $0 . 7 0 \%$ ，22\~42日龄分别为 $0 . 4 6 \%$ 、 $0 . 5 0 \%$ 、 $0 . 5 2 \%$ 、 $0 . 5 6 \%$ 和 $0 . 7 0 \%$ 。基础饲粮参照美国NRC（1994）和《鸡饲养标准》（NY/T33-2004），结合《AA肉仔鸡饲养手册》配制，其组成及营养水平见表1。试验期 $4 2 { \mathrm { ~ d ~ } }$ 。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of basal diets (air-dry basis)   
+
+<html><body><table><tr><td>1~21日龄</td><td>22~42日龄</td><td>营养水平 Nutrient levels3)</td><td>1~21日龄</td><td>22~42日龄</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td>1~21 days of age</td><td>22~42 days of age</td><td></td><td>1~21 days of age</td><td>22~42 days of age</td></tr><tr><td>玉米Corn</td><td>59.320</td><td>62.227</td><td>代谢能 ME/(MJ/kg)</td><td>12.35</td><td>12.76</td></tr><tr><td>豆粕 Soybean meal</td><td>32.000</td><td>28.560</td><td>粗蛋白质CP</td><td>21.50</td><td>20.01</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.000</td><td>2.000</td><td>钙Ca</td><td>1.00</td><td>0.90</td></tr><tr><td>豆油 Soybean oil</td><td>2.340</td><td>3.358</td><td>有效磷 AP</td><td>0.45</td><td>0.41</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.806</td><td>1.570</td><td>赖氨酸Lys</td><td>1.15 (1.29)</td><td>1 (1.11)</td></tr><tr><td>石粉Limestone</td><td>1.323</td><td>1.220</td><td>蛋氨酸Met</td><td>0.59 (0.67)</td><td>0.5 (0.55)</td></tr><tr><td>食盐 NaCl</td><td>0.300</td><td>0.300</td><td>蛋氨酸+半胱氨酸Met+Cys</td><td>0.86 (0.96)</td><td>0.76 (0.85)</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.305</td><td>0.233</td><td>苏氨酸Thr</td><td>0.75 (0.84)</td><td>0.72(0.80)</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.200</td><td>0.114</td><td>色氨酸Try</td><td>0.22(0.25)</td><td>0.20 (0.22)</td></tr><tr><td>L-苏氨酸 L-Thr</td><td>0.086</td><td>0.098</td><td>组氨酸 His</td><td>0.44(0.49)</td><td>0.42 (0.46)</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.020</td><td>0.020</td><td></td><td></td><td></td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.200</td><td>0.200</td><td></td><td></td><td></td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.100</td><td>0.100</td><td></td><td></td><td></td></tr><tr><td>合计Total</td><td>100.000</td><td>100.000</td><td></td><td></td><td></td></tr></table></body></html>
+
+1)维生素预混料为每千克饲粮提供 Vitamin premix provided the follwing per $\mathrm { k g }$ of diets:VA 12 500 IU,VD32 500 IU, $\mathrm { V K } _ { 3 } 2 . 6 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 5 ~ \mathrm { m g }$ ，VE 30 IU，生物素 biotin $0 . 3 5 ~ \mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 2 \mathrm { m g }$ ，烟酸niacin $5 0 \mathrm { m g }$ 。2)矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kg of diets: $\mathtt { C u }$ （as coppersuloile) $8 ~ \mathrm { m g }$ ， Zn （as zinc suloile） $7 5 \mathrm { m g }$ ，Fe（as ferros suloile） $8 0 ~ \mathrm { m g }$ ，Mn（as manganese suloile） $1 0 0 ~ \mathrm { { m g } }$ Se (as sodium selenite） $0 . 1 5 \mathrm { m g }$ ，I（as potassium iodide） $0 . 3 5 \mathrm { m g }$ 。3)营养水平为计算值，括号内为实测值。Nutrition levels were calculated values,while the values in theparentheses were measured values.
+
+# 1.3 饲养管理
+
+试验期间自由饮食、饮水， $2 4 \mathrm { h }$ 光照。试验前3天室温 $3 3 ^ { \circ } \mathrm { C }$ ，此后每周降低 $2 \ \mathrm { { ^ circ C } }$ ，直到 $2 4 ^ { \circ } \mathrm { C }$ ，并维持 $2 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 。按照《AA肉仔鸡饲养管理指南》操作，正常防疫和消毒，试验鸡舍良好通风。试验过程中，每天08:30 和14:30分别记录鸡舍温度和湿度，清扫卫生。
+
+1.4指标测定与方法
+
+1.4.1 生长性能
+
+分别于 21和 42日龄，以重复为单位，空腹称重鸡只，记录末体重，计算平均日增重（ADG）；试验期间以重复为单位记录耗料量，计算试验1\~21日龄、22\~42日龄、1\~42日龄的平均日采食量（ADFI）、料重比（F/G）。
+
+# 1.4.2屠宰性能和肌肉品质
+
+分别于21和42日龄，每重复选取1只接近平均体重试鸡，记录活重，颈静脉放血致死，称重全净膛、胸肌、腿肌和腹脂。
+
+于42 日龄末，每重复选取1只接近平均体重的试鸡，颈静脉放血致死，完全剥离右侧胸肌，称重，测定肌肉滴水损失、剪切力和 pH。
+
+滴水损失：屠宰后 $4 5 \mathrm { m i n }$ 内，称取剪切纹理相似、形状规则的胸肌约 $3 0 \mathrm { g }$ ，称重 $( W _ { 1 } { \mathrm { \cdot } }$ ），放置于自封袋中，充入氮气使之膨胀，减少肉样与自封袋内壁的接触，用尼龙绳悬吊于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱内，宰后 $2 4 \mathrm { ~ h ~ }$ ，取出肉样用滤纸轻轻拭干表面水分再称重（ $W _ { 2 }$ ）。按以下公式计算滴水损失率：
+
+剪切力：将煮熟的肉样，按肌纤维走向修成2块条形肉样（ $\scriptstyle 2 \cos 2 \cos 1 \cos$ ），测定过程中肌纤维走向与刀口垂直。采用TMS-Pro 嫩度分析仪（弗吉尼亚食品技术有限公司，美国），参数设置为传感器最大负荷 $1 0 0 \mathrm { N }$ ，垂直位移速度 $1 5 0 \mathrm { m m / m i n }$ ，跨度 $6 \mathrm { m m }$ 。每个肉样测试3次，取2块肉样6次测定值的平均值为最终剪切力。
+
+pH 测定：分别于屠宰后的 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ （4℃存放），利用 pH计（CyberScan pH310防水笔型，EUTECH公司，新加坡），将探针刺入待测胸肌约 $1 \ \mathrm { c m }$ 深处，测定 $\mathsf { p H }$ ，分别计为 $\mathrm { \ p H } _ { 4 5 } \mathrm { \ m i n }$ 和 $\mathrm { p H } _ { 2 4 }$ h。测定时，电极头完全包埋在肉样中，每个样品测定3次，取其平均值。
+
+# 1.4.3 血浆抗氧化能力
+
+血浆总抗氧化能力（T-AOC），谷胱甘肽过氧化物酶（GSH-Px）、总超氧化物歧化酶（T-SOD）活性，丙二醛（MDA）含量均采用试剂盒测定，试剂盒购于南京建成生物工程研究所，操作步骤严格按照说明书进行。
+
+# 1.4.4 肌肉肌肽含量
+
+仪器与试剂：高效液相色谱仪（美国AgilentLC-15），肌肽标准品（ $9 8 \%$ ，美国 Sigma）,鹅肌肽标准品（ $9 8 \%$ ，美国 Sigma），匀浆机（海门其林贝尔；QL-901/QL-861），高速冷冻离心机（湖南赫西仪器装备有限公司），甲醇（优级纯）。肌肽标准品的配备：准确称量$1 0 \mathrm { m g }$ 肌肽，用超纯水溶解定容至 $1 0 ~ \mathrm { m L }$ 容量瓶，此时浓度是 $\mathrm { { 1 \ m g / m L } }$ ，为储备液，将此储备液用超纯水稀释成为浓度10、20、50、80、 $1 0 0 ~ \mathrm { \mu g / m L }$ 的标准工作液；鹅肌肽标准品的配备：准确称量 $1 0 ~ \mathrm { m g }$ 鹅肌肽，用超纯水溶解定容至 $1 0 ~ \mathrm { m L }$ 容量瓶，此时浓度是 $\mathrm { { 1 \ m g / m L } }$ 为储备液，将此储备液用超纯水稀释成为浓度10、20、50、80、 $1 0 0 ~ \mathrm { \mu g / m L }$ 的标准工作液。预处理：于42日龄，每重复选取1只接近该重复平均体重的肉鸡，屠宰分离取胸肉， $- 2 0 \mathrm { ~ \textdegree ~ }$ 保存。称取胸肉 $0 . 5 \mathrm { g }$ ，剪碎后加入 $4 . 5 ~ \mathrm { m L }$ 蒸馏水， $4 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液，加入3倍体积的甲醇， $- 2 0 \mathrm { ~ \textdegree C }$ 冷冻 $1 5 \mathrm { m i n }$ ， $1 1 0 0 0 \mathrm { r / m i n }$ 离心，取上清液，稀释10 倍留用。液相色谱条件：以 $4 0 \mathrm { m m o l / L }$ 磷酸氢二钾 ( $\mathrm { \ p H } { = } 6 . 3$ ）为无机相，甲醇为有机相，有机相比例为$34 \%$ ，流速 $0 . 5 ~ \mathrm { m L / m i n }$ ，上样量 $1 0 ~ \mu \mathrm { L }$ ，检测波长 $2 1 0 \mathrm { n m }$ ，在 Aglient NH2（ $2 5 0 \mathrm { m m } { \times } 4 . 6 \mathrm { m m }$ 填料直径 $5 ~ { \mu \mathrm { m } }$ ）色谱柱上分离肌肽和鹅肌肽，肌肽在 $1 3 . 1 \ \mathrm { m i n }$ 出峰，鹅肌肽在 $1 4 . 3 \ \mathrm { m i n }$ 出峰[10]。
+
+# 1.5 数据分析
+
+数据采用 SPSS16.0 软件的one-WayANOVA先进行方差检验，再进行 $F$ 检验和Duncan氏法多重比较，以 $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+# 2.1 $L$ -组氨酸对肉鸡生长性能的影响
+
+表2为饲粮添加 $L$ -组氨酸对肉鸡生长性能的影响。由表可知，生长前期（1\~21日龄），饲粮添加 $L$ -组氨酸对肉鸡的末体重、平均日增重、平均日采食量和料重比均无显著影响（ $. P { > } 0 . 0 5$ ）。生长后期（22\~42日龄）， $L$ 组氨酸可降低肉鸡的料重比，250、2000 mg/kg添加组显著低于对照组( $. P { < } 0 . 0 5 )$ ，且随 $L .$ 组氨酸添加水平的增加，料重比线性降低( $_ { _ { P < 0 . 0 5 ) } }$ ，$L$ -组氨酸对末体重、平均日增重和平均日采食量无显著影响（ $P { > } 0 . 0 5$ ）。生长全期（1\~42日龄）， $L$ -组氨酸对肉鸡的平均日增重、平均日采食量和料重比均无显著影响（ $P { > } 0 . 0 5$ ）。
+
+# 2.2 $L$ -组氨酸对肉鸡屠宰性能的影响
+
+表3为饲粮添加 $L .$ -组氨酸对肉鸡屠宰性能的影响。由表可知， $L .$ -组氨酸对肉鸡21和42日龄全净膛率、胸肌率、腿肌率、腹脂率均无显著影响（ $P { > } 0 . 0 5$ ）。
+
+# 2.3 $L$ -组氨酸对肉鸡肌肉品质的影响
+
+表4为饲粮添加 $L .$ -组氨酸对肉鸡肌肉品质的影响。由表可知， $L$ -组氨酸对肉鸡42日龄肌肉的滴水损失、剪切力和 $\mathsf { p H }$ 无显著影响 ( $. P { > } 0 . 0 5$ ），但随 $L$ -组氨酸添加水平提高，肌肉剪切力呈线性降低趋势（ $\scriptstyle P = 0 . 0 6 1$ ）。
+
+Table 2Effects of $L$ -histidine on growth performance of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">L-组氨酸添加水平 Supplemental level of L-histidine/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="3">P-值 P-value</td></tr><tr><td>0</td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>方差分析 ANOVA</td><td>线性Linear</td><td>二次 Quadratic</td></tr><tr><td>1~21日龄 1 to 21 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>末体重 FBW/g</td><td>948.10</td><td>953.00</td><td>911.70</td><td>932.90</td><td>910.10</td><td>9.320</td><td>0.478</td><td>0.160</td><td>0.926</td></tr><tr><td>平均日增重 ADG/g</td><td>40.67</td><td>41.14</td><td>39.26</td><td>39.65</td><td>38.71</td><td>0.425</td><td>0.364</td><td>0.081</td><td>0.880</td></tr><tr><td>平均日采食量 ADFI/g</td><td>53.92</td><td>54.35</td><td>53.02</td><td>54.80</td><td>52.82</td><td>0.523</td><td>0.741</td><td>0.651</td><td>0.709</td></tr><tr><td>料重比F/G</td><td>1.33</td><td>1.32</td><td>1.35</td><td>1.38</td><td>1.37</td><td>0.009</td><td>0.190</td><td>0.036</td><td>0.746</td></tr><tr><td>22~42 日龄 22 to 42 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>末体重 FBW/g</td><td>2 799.02</td><td>2 932.04</td><td>2 770.11</td><td>2 867.93</td><td>2 776.54</td><td>30.165</td><td>0.393</td><td>0.612</td><td>0.459</td></tr><tr><td>平均日增重 ADG/g</td><td>89.87</td><td>94.67</td><td>91.91</td><td>94.67</td><td>92.08</td><td>1.270</td><td>0.750</td><td>0.640</td><td>0.411</td></tr><tr><td>平均日采食量 ADFI/g</td><td>174.61</td><td>174.74</td><td>172.17</td><td>178.48</td><td>167.68</td><td>1.810</td><td>0.446</td><td>0.438</td><td>0.401</td></tr><tr><td>料重比F/G</td><td>1.98a</td><td>1.85b</td><td>1.91ab</td><td>1.89ab</td><td>1.82b</td><td>0.018</td><td>0.048</td><td>0.022</td><td>0.691</td></tr><tr><td>1~42 日龄 1 to 42 days of age</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>63.97</td><td>66.65</td><td>64.66</td><td>65.87</td><td>63.91</td><td>0.697</td><td>0.691</td><td>0.859</td><td>0.322</td></tr><tr><td>平均日采食量ADFI/g</td><td>109.57</td><td>111.76</td><td>108.72</td><td>111.96</td><td>107.07</td><td>1.216</td><td>0.705</td><td>0.594</td><td>0.461</td></tr><tr><td>料重比F/G</td><td>1.71</td><td>1.68</td><td>1.68</td><td>1.70</td><td>1.68</td><td>0.011</td><td>0.776</td><td>0.487</td><td>0.649</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同字母表示差异显著（ $P { < } 0 . 0 5$ ）。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$
+
+Table 3Effects of $L$ -histidine on carcass performance of broilers   
+%   
+表4 $L$ -组氨酸对肉鸡肌肉品质的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">日龄 Days of</td><td colspan="5">L-组氨酸添加水平Supplemental levelofL-histidine/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="3">P-值 P-value</td></tr><tr><td>age</td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>方差分析ANOVA</td><td>线性 Linear</td><td>二次 Quadratic</td></tr><tr><td>全净膛率</td><td>21</td><td>0 75.20</td><td>74.07</td><td>73.71</td><td>73.93</td><td>73.69</td><td>0.277</td><td>0.421</td><td>0.121</td><td>0.318</td></tr><tr><td>Dressing percentage</td><td>42</td><td>64.75</td><td>65.98</td><td>65.21</td><td>65.67</td><td>65.37</td><td>0.175</td><td>0.225</td><td>0.452</td><td>0.209</td></tr><tr><td>胸肌率</td><td>21</td><td>22.75</td><td>21.48</td><td>22.54</td><td>22.99</td><td>21.96</td><td>0.323</td><td>0.598</td><td>0.974</td><td>0.964</td></tr><tr><td>Breast muscle rate</td><td>42</td><td>33.05</td><td>31.16</td><td>32.45</td><td>33.00</td><td>32.17</td><td>0.242</td><td>0.084</td><td>0.962</td><td>0.480</td></tr><tr><td>腿肌率</td><td>21</td><td>19.19</td><td>19.15</td><td>19.61</td><td>19.21</td><td>19.90</td><td>0.186</td><td>0.670</td><td>0.286</td><td>0.716</td></tr><tr><td>Leg muscle rate</td><td>42</td><td>25.24</td><td>25.10</td><td>25.09</td><td>25.17</td><td>25.40</td><td>0.149</td><td>0.966</td><td>0.722</td><td>0.510</td></tr><tr><td>腹脂率</td><td>21</td><td>1.52</td><td>1.58</td><td>1.52</td><td>1.83</td><td>1.72</td><td>0.054</td><td>0.280</td><td>0.092</td><td>0.988</td></tr><tr><td>Abdominal fat rate</td><td>42</td><td>2.16</td><td>2.25</td><td>2.59</td><td>2.25</td><td>2.36</td><td>0.060</td><td>0.167</td><td>0.311</td><td>0.192</td></tr></table></body></html>
+
+131
+
+Table 4Effects of $L$ -histidine on meat quality of breast muscle of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">L-组氨酸添加水平 Supplemental level of L-histidine/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="3">P-值P-value</td></tr><tr><td>0</td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>方差分析 ANOVA</td><td>线性 Linear</td><td>二次Quadratic</td></tr><tr><td>滴水损失Drip loss/%</td><td>12.49</td><td>10.31</td><td>10.26</td><td>9.48</td><td>11.13</td><td>0.649</td><td>0.678</td><td>0.461</td><td>0.227</td></tr><tr><td>剪切力 Shear force/N</td><td>18.04</td><td>15.38</td><td>16.90</td><td>16.07</td><td>13.40</td><td>0.643</td><td>0.211</td><td>0.061</td><td>0.651</td></tr><tr><td>pH45 min</td><td>6.40</td><td>6.42</td><td>6.44</td><td>6.40</td><td>6.46</td><td>0.017</td><td>0.798</td><td>0.513</td><td>0.936</td></tr><tr><td>pH24h</td><td>6.05</td><td>5.94</td><td>6.00</td><td>6.02</td><td>6.02</td><td>0.020</td><td>0.571</td><td>0.902</td><td>0.325</td></tr></table></body></html>
+
+# 2.4 $L$ -组氨酸对肉鸡血浆抗氧化能力的影响
+
+表5为饲粮添加 $L$ -组氨酸对肉鸡血浆抗氧化能力的影响。由表可知，21日龄时， $L$ 组氨酸线性和二次降低了肉鸡血浆T-AOC（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）；对血浆GSH-Px、T-SOD、MDA含量无显著影响 ( $. P { > } 0 . 0 5 \$ ）。42日龄时， $L$ -组氨酸线性提高了肉鸡血浆T-AOC、GSH- $\mathbf { \cdot P x }$ 和T-SOD含量（ $P { < } 0 . 0 5 \$ ）；对血浆MDA含量无显著影响（ $P { > } 0 . 0 5$ ），随 $L$ -组氨酸添加水平增加，数值上均有所降低。
+
+# 2.5 $L$ -组氨酸对肌肉肌肽、鹅肌肽含量的影响
+
+表6为饲粮添加 $L$ -组氨酸对肉鸡肌肉肌肽、鹅肌肽含量的影响。由表可知， $L$ -组氨酸增加了肉鸡42日龄肌肉中肌肽和鹅肌肽含量，500、1000 和 $2 \ 0 0 0 \ \mathrm { m g / k g }$ 添加组肌肽含量分别升高了 $4 0 . 5 8 \%$ 、 $4 2 . 7 5 \%$ 、 $3 3 . 7 0 \%$ （ $P { < } 0 . 0 5$ ， $1 0 0 0 \mathrm { m g / k g }$ 添加组鹅肌肽含量增加了 $3 7 . 8 0 \%$ （ $P { < } 0 . 0 5$ ）。在本试验条件下，饲粮 $L$ -组氨酸添加水平为 $1 2 8 4 \mathrm { m g / k g }$ 时，肌肉中肌肽含量可达最高，添加水平为 $1 2 7 1 \mathrm { m g / k g }$ 时,胸肌中鹅肌肽含量可最大化,添加水平为 $1 2 7 6 \mathrm { m g / k g }$ 时，咪唑二肽（肌肽和鹅肌肽之和）含量可最大化，三个最佳添加量接近。
+
+# 2.6 饲料效益
+
+表7为饲料添加 $L$ -组氨酸对肉鸡生产成本的影响。由表可知，随 $L$ -组氨酸添加水平的升高，对照组和250、500、1000 和 $2 0 0 0 \mathrm { m g / k g }$ 添加组增重成本分别为4.13、4.18、4.34、4.69、5.21 RMB/kg。
+
+Table 5Effects of $L$ -histidine on plasma antioxidant capacity of broilers   
+表6 $L$ -组氨酸对肉鸡肌肉肌肽和鹅肌肽含量的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">日龄 Days of age</td><td colspan="5">L-组氨酸添加水平 Suppemental level ofL-histidine/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="3">P-值 P-value</td></tr><tr><td>0</td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>方差分析ANOVA</td><td>线性Linear</td><td>二次Quadratic</td></tr><tr><td>总抗氧化能力</td><td>21</td><td>8.20a</td><td>8.34a</td><td>8.54a</td><td>7.23b</td><td>6.47b</td><td>0.190</td><td><0.001</td><td><0.001</td><td>0.006</td></tr><tr><td>T-AOC/(U/mL)</td><td>42</td><td>8.43b</td><td>8.93b</td><td>11.37a</td><td>11.70a</td><td>11.78a</td><td>0.305</td><td><0.001</td><td><0.001</td><td>0.028</td></tr><tr><td>谷胱甘肽过氧化物酶</td><td>21</td><td>716.54</td><td>723.30</td><td>731.57</td><td>678.63</td><td>668.05</td><td>9.826</td><td>0.147</td><td>0.041</td><td>0.229</td></tr><tr><td>GSH-Px/(U/mL)</td><td>42</td><td>689.25b</td><td>739.38b</td><td>854.87a</td><td>898.83a</td><td>890.51a</td><td>17.374</td><td><0.001</td><td><0.001</td><td>0.009</td></tr><tr><td>总超氧化物歧化酶</td><td>21</td><td>75.07</td><td>76.43</td><td>77.68</td><td>75.00</td><td>71.04</td><td>0.900</td><td>0.186</td><td>0.132</td><td>0.054</td></tr><tr><td>T-SOD/(U/mL)</td><td>42</td><td>70.78c</td><td>78.72b</td><td>84.21ab</td><td>87.83a</td><td>89.93a</td><td>1.610</td><td><0.001</td><td><0.001</td><td>0.136</td></tr><tr><td>丙二醛</td><td>21</td><td>3.52</td><td>3.38</td><td>3.28</td><td>3.35</td><td>3.34</td><td>0.073</td><td>0.891</td><td>0.468</td><td>0.504</td></tr><tr><td>MDA/(nmol/mL)</td><td>42</td><td>3.52</td><td>3.48</td><td>3.39</td><td>3.32</td><td>3.30</td><td>0.055</td><td>0.684</td><td>0.150</td><td>0.880</td></tr></table></body></html>
+
+Table 6Effects of $L$ -histidine on carnosine and anserine contents of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">L组氨酸添加水平Supplemental leveofL-hstidine/(mg/kg)</td><td rowspan="2">SEM</td><td colspan="3">P-值 P-value</td></tr><tr><td>0</td><td>250</td><td>500</td><td>1000</td><td>2000</td><td>方差分析 ANOVA</td><td>线性Linear</td><td>二次Quadratic</td></tr><tr><td>肌肽 Carnosine/(mg/g)</td><td>2.76b</td><td>2.94b</td><td>3.88a</td><td>3.94a</td><td>3.69a</td><td>0.124</td><td><0.001</td><td><0.001</td><td>0.031</td></tr><tr><td>鹅肌肽 Anserine/(mg/g)</td><td>6.72b</td><td>7.31b</td><td>7.48b</td><td>9.26a</td><td>8.06ab</td><td>0.282</td><td>0.040</td><td>0.015</td><td>0.356</td></tr><tr><td>二肽 Dipeptide/(mg/g)</td><td>9.48c</td><td>10.24bc</td><td>11.36abc</td><td>13.2a</td><td>11.75ab</td><td>0.349</td><td>0.003</td><td>0.001</td><td>0.120</td></tr><tr><td>回归方程 Regression equation</td><td></td><td></td><td></td><td>P-值 P-value</td><td></td><td></td><td>R²</td><td>最佳剂量Optimal level/(mg/kg)</td><td></td></tr><tr><td>肌肽 Carnosine</td><td>y=-0.857x² +2.201x+2.701</td><td></td><td></td><td><0.001</td><td></td><td></td><td>0.467</td><td>1284</td><td></td></tr><tr><td>鹅肌肽 Anserine</td><td></td><td>y=-1.518x² +3.860x+6.483</td><td></td><td>0.014</td><td></td><td></td><td>0.272</td><td>1271</td><td></td></tr></table></body></html>
+
+Table7Effects of dietary supplementation of $L$ -histidine on production cost of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">L-组氨酸添加水平 Supplemental level of L-histidine/(mg/kg)</td></tr><tr><td>0</td><td>250</td><td>500</td><td>1 000</td><td>2000</td></tr><tr><td>1~21 日龄 1to 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Feed intake/kg</td><td>71.02</td><td>71.74</td><td>69.98</td><td>71.78</td><td>68.64</td></tr><tr><td>饲料单价 Feed price/(RMB/kg)</td><td>2.41</td><td>2.50</td><td>2.59</td><td>2.76</td><td>3.11</td></tr><tr><td>成本 Cost/(RMB/kg)</td><td>171.16</td><td>179.35</td><td>181.25</td><td>198.11</td><td>213.47</td></tr><tr><td>22~42 日龄 22 to 42 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>采食量Feed intake/kg</td><td>203.54</td><td>210.46</td><td>207.36</td><td>209.03</td><td>195.15</td></tr><tr><td>饲料单价 Feed price/(RMB/kg)</td><td>2.41</td><td>2.49</td><td>2.58</td><td>2.76</td><td>3.11</td></tr><tr><td>成本 Cost/(RMB/kg)</td><td>490.53</td><td>524.05</td><td>534.99</td><td>576.92</td><td>606.92</td></tr><tr><td>增重Weight gain/kg</td><td>160.27</td><td>168.24</td><td>164.92</td><td>165.09</td><td>157.37</td></tr><tr><td>增重成本 Weight gain cost/(RMB/kg)</td><td>4.13</td><td>4.18</td><td>4.34</td><td>4.69</td><td>5.21</td></tr></table></body></html>
+
+饲料单价为根据原料市场价格得出计算值。Feed price were calculated values according to market prices of ingredients.
+
+3讨论
+
+3.1 $L$ -组氨酸对肉鸡生长性能的影响
+
+组氨酸为肉鸡的必需氨基酸，NRC（1994）推荐肉鸡1\~21日龄组氨酸需要量为 $0 . 3 5 \%$ 22\~42日龄为 $0 . 3 2 \%$ 。随着现代遗传育种工作的开展，肉鸡的生长性能得到了较大的提升，对营养物质的需求量已发生了较大的变化。Haug 等[]在饲粮添加 $0 . 3 \%$ （20 $L$ 组氨酸，肉鸡28日龄体重降低了 $1 3 . 9 \%$ ，可能是组氨酸过量导致采食量降低，影响了动物生长。Kopec 等[9]在饲粮中添加 $0 . 2 1 7 \%$ （ $L .$ 组氨酸饲喂肉鸡42d，未见体重及饲料转化率发生显著变化。Joonghyuck[12]在肉鸡饲粮中添加富含组氨酸的血粉（ $10 \%$ ）未影响生长性能和料重比。肉鸡品种、饲养管理及饲料中组氨酸与其他氨基酸的比例等的差异，都可影响肉鸡的组氨酸需要量。Zhao 等[13]研究表明，适量添加 $L$ -组氨酸可提高幼年鲤鱼的生长性能和小肠酶的活性。饲粮添加 $0 . 9 5 \%$ （20 $L .$ -组氨酸可显著改善小鲶鱼的生长性能和饲料转化率[14]。另有研究发现,长期摄入低 $L$ -组氨酸食物，动物体蛋白质周转速率显著降低[15]。可见不同水平组氨酸对动物生长性能影响不同，适量组氨酸添加可能提高动物的生长性能，过量时可能降低动物生长性能。本试验结果表明， $L$ -组氨酸对42日龄体重无显著影响，改善了22\~42日龄料重比，其中 $2 0 0 0 \mathrm { m g / k g }$ 添加效果最好，对1\~21日龄及1\~42日龄无显著影响。研究发现过量组氨酸具有毒害作用[3]，在小鼠上的研究表明，组氨酸可降低小鼠的采食量[]。动物采食高组氨酸饲粮后，体内组胺生成增多，组胺为生物体的一种神经递质，其可通过神经系统调节而降低动物采食量。本试验结果表明， $L$ -组氨酸未影响肉鸡的采食，通过增加平均日增重提高饲料转化率。 $L$ -组氨酸含咪唑基，可以和铜、锌等金属离子相结合，促进肠道对铜、锌离子的吸收，通过体内多种铜、锌酶的作用，发挥促进动物生长性能的效果。本试验中添加 $L$ 组氨酸组22\~42日龄平均日增重有所增加，提高了饲料转化率。综合考虑体重和饲料转化率，添加 $2 5 0 \mathrm { m g / k g }$ 较好。Son 等[17]研究报道， $L$ -组氨酸可抑制人小肠上皮细胞氧化应激引起的炎症反应，改善肠道健康。本试验中平均日增重提高是否与肠道功能改善有关，值得进一步研究。
+
+# 3.2 $L$ -组氨酸对肉鸡屠宰性能的影响
+
+当前关于 $L$ -组氨酸对肉鸡屠宰性能影响的文献较少。Kralik 等[18]在饲粮添加不同水平$L$ -组氨酸（ $0 . 1 \%$ 、 $0 . 2 \%$ 、 $0 . 3 \%$ ）未发现肉鸡的屠体、胸肌和腿肌重产生显著变化。Hu 等[19]在肉鸡1\~21日龄饲粮中添加 $0 . 5 \%$ 肌肽显著提高胸肌和腿肌重。有研究表明， $L$ -组氨酸可通过抑制促炎因子的表达改善胰岛素抗性[20]，胰岛素在调节肉鸡蛋白质代谢具有重要作用[2I],因此饲粮添加 $L .$ -组氨酸可能通过影响胰岛素分泌而调节蛋白质合成和肌肉发育。本试验发现， $L .$ 组氨酸未显著影响屠宰性能，与Kralik 等[18]研究结果一致。
+
+# 3.3 $L$ -组氨酸对肉鸡肉品质及血浆抗氧化能力的影响
+
+肉品质为肉鸡生产经济效益的重要指标，良好的肉品质不仅可提高消费者的接受度，还可延长肉制品的货架期和储存时间。剪切力是反映肌肉嫩度的指标，剪切力越小，肌肉越嫩。有研究发现，不同水平 $L$ -组氨酸对肉鸡肌肉的滴水损失、蒸煮损失、剪切力、pH均无显著影响[16]。Thornton 等[22]研究表明，过瘤胃 $L$ -组氨酸添加对牛肉的剪切力无显著影响。钙蛋白酶和钙蛋白酶抑制酶是一对拮抗酶，两者通过调节肌肉中蛋白质的水解改变肌肉的嫩度，其中钙蛋白酶是一种钙依赖性蛋白酶，钙可激活该酶活性，增加肌肉嫩度。Rowe 等[23]发现，体内氧化可抑制钙蛋白酶活化，激活钙蛋白酶抑制酶活性。 $L .$ -组氨酸参与体内氧化还原反应，通过调节钙蛋白酶活性调节肌肉嫩度。肌肽具有调节细胞钙离子通道的作用，组氨酸也可通过肌肽作用间接调节肌肉嫩度。本试验研究表明，饲粮添加 $L$ -组氨酸对肌肉剪切力无显著影响，但试验组剪切力在数值上均小于对照组，可能是 $L$ -组氨酸通过调节体内钙蛋白酶活性起到了一定作用。
+
+L-组氨酸具有较强抗氧化作用。 $L$ -组氨酸抗氧化作用主要通过2种方式实现：一种是与机体内自由基、羰基化蛋白等直接作用实现抗氧化。另一种是通过与促进氧化酶活性发挥的金属离子作用间接实现抗氧化[24]，同时 $L$ -组氨酸也可通过改变抗氧化酶活性影响动物体抗氧化机能。Kopec等[9,25]研究发现， $0 . 1 8 \%$ （204号 $L .$ -组氨酸显著增加火鸡血浆GSH-Px 活性，添加$4 \%$ 富含组氨酸血粉显著增加火鸡血浆 GSH- $\mathbf { \cdot P x }$ 和超氧化物歧化酶（SOD）活性。本试验结果表明，1\~21日龄 $L$ -组氨酸添加极显著降低血浆T-AOC；22\~42日龄 $L$ -组氨酸添加极显著增加血浆T-AOC、GSH $\mathbf { \cdot P x }$ 和 T-SOD 活性。有研究表明，在体外条件下，过量 $L$ -组氨酸具有促氧化作用[26]，1\~21日龄血浆T-AOC 降低，可能是因为饲粮中 $L$ -组氨酸对于1\~21日龄肉鸡是过量，促进了体内氧化；22\~42日龄随肉鸡增长， $L$ -组氨酸在体内抗氧化作用增强，提高了血浆 T-AOC、GSH-Px 和 T-SOD 活性。 $L$ -组氨酸添加可增加体内肌肽含量，肌肽具有清除体内自由基、羰基蛋白等氧化物质，因此血浆抗氧化酶活性增强也可能是体内氧化物质减少，降低了对抗氧化物质的消耗。 $L$ -组氨酸的咪唑基可通过与金属离子螯合，增加小肠对金属离子的吸收[27]，金属离子参与体内多种酶的组成，因此血浆抗氧化酶活性升高也可能与体内金属离子增加而提高抗氧化酶合成量有关。
+
+3.4L-组氨酸对肉鸡肌肉肌肽、鹅肌肽含量的影响
+
+肌肽是一种内源功能性二肽（鹅肌肽为肌肽甲基衍生物），由 $\beta$ -丙氨酸和 $L$ -组氨酸合成，主要存在于动物的骨骼肌和脑中，其次为心脏、肾脏和肝脏中[28]，具有抗氧化、抗衰老、抗疲劳、维持pH稳定等特性，其在治疗白内障、自闭症和帕金森等疾病方面也具有一定的作用[29]。 $L .$ -组氨酸作为肌肽合成前体物，在饲粮中适量添加可增加肌肉中肌肽等二肽含量。Kai 等[30]研究表明，饲粮含2倍 NRC(1994)推荐量的 $L$ -组氨酸时，肉鸡肌肉中肌肽和鹅肌肽含量分别增加了 $7 2 \%$ 、 $1 3 \%$ 。Haug 等[1研究表明，饲粮添加 $0 . 1 \%$ 的 $L$ -组氨酸，肉鸡肌肉中肌肽和鹅肌肽含量分别增加了 $64 \%$ 、 $10 \%$ 。Kopec 等[9]研究表明，饲粮添加 $0 . 1 8 \% L$ 组氨酸，肉鸡肌肉中肌肽和鹅肌肽分别增加了 $3 5 . 2 4 \%$ 、 $2 3 . 3 3 \%$ 。饲粮添加不同水平 $L$ 组氨酸，肌肉中肌肽含量不同，表明可通过添加 $L$ -组氨酸调节肌肉中肌肽含量，实现肌肽含量在肌肉中富集，为消费者提供更优质的功能性肉。但Ogata[31l在鱼饲料中组合添加 $0 . 1 \% \beta$ -丙氨酸和 $0 . 2 5 \% L \cdot$ 组氨酸未发现增加鱼肉中二肽含量，可能因为不同动物对合成二肽的前体物质的敏感性不同，鱼类可能需要更高水平的前体物质。本试验结果表明， $L .$ 组氨酸极显著增加肉鸡肌肉中肌肽含量，显著增加鹅肌肽含量，这与鹅肌肽为肌肽甲基化衍生物的事实一致。
+
+依据饲粮 $L .$ -组氨酸添加水平和肌肉组氨酸二肽含量的的回归关系，为提高肌肉二肽含量，饲粮添加适量 $L$ -组氨酸是必要的，低剂量添加时，随添加水平提高，二肽含量升高。当添加过量时，并不能达到满意的效果，且可能抑制动物采食，降低生长性能。Amend 等[32]报道饲粮缺乏组氨酸时可降低公鸡肌肉和腿肉中肌肽含量，对鹅肌肽含量无影响,可知肉鸡体内肌肽和鹅肌肽合成规律相似，但分解规律不同，肌肽分解对体内组氨酸含量的变化比鹅肌肽更敏感，因此为生产高含量肌肽肉品，在饲粮中额外添加 $L$ -组氨酸是必要的。Drozak等[3发现肉鸡的肌肽合成酶和肌肽氮甲基转移酶等基因可影响体内肌肽的合成和含量变化。 $L$ -组氨酸可通过提高肌肽合成酶基因的表达增加肌肉中肌肽的含量，但其确切的分子机制尚不清楚，有待于进一步深入研究。
+
+4结论
+
+$\textcircled{1}$ 饲粮添加 $L$ -组氨酸可提高肉鸡的饲料转化率，改善血浆抗氧化能力，增加肌肉中咪唑二肽含量。$\textcircled{2}$ 本试验条件下，饲粮添加 $1 \ 0 0 0 { \sim } 2 \ 0 0 0 \ \mathrm { m g / k g } L .$ 组氨酸较佳。$\textcircled{3}$ 从增加肌肉咪唑二肽含量考虑，饲粮 $L$ 组氨酸适宜添加量为 $1 2 7 6 \mathrm { m g / k g }$ 。参考文献:[1]周宏博,申峰,邹朝霞,等.蛋白质氧化羰基化和肌肽的保护作用[J].中国老年学杂志,2003,23(5):310-311.[2] 刘丽,傅伟龙,李文清,等.肌肽的生理功能及其应用[C]//全国反刍动物营养生理生化第三次学术会议论文摘要汇编.长春:中国畜牧兽医学会,2004:2.[3] GUIOTTO A,CALDERAN A,RUZZA P,et al.Carnosine and carnosine-related antioxidants:areview[J].Current Medicinal Chemistry,2005,12(20):2293-2315.[4] PAVLIN M,ROSSETTI G,DE VIVO M,et al.Carnosine and homocarnosine degradationmechanismsbythehuman carnosinase enzyme CN1:insightsfrommultiscalesimulations[J].Biochemistry,2016,55(19):2772-2784.
+
+[5] HAN Y Z,KOSHIO S,ISHIKAWA M,et al.Interactive effects of dietary arginine and histidine on the performances of Japanese flounder Paralichthys olivaceus juveniles[J].Aquaculture,2013,414-415:173-182.
+
+[6] MICHELATO M,ZAMINHAN M,BOSCOLO W R,et al.Dietary histidine requirement of Nile tilapia juveniles based on growth performance,expresson of muscle-growth-related genes and haematological responses[J].Aquaculture,2016,467:63-70.   
+[7]WON PS,HO K C,NYUN N,et al.Effctsof dietary supplementationof histidine, $\beta$ -alanine,magnesium oxide,and blood meal on carnosine and anserine concentrations of broiler breast meat[J].The Journal of Poultry Science,2013,50(3):251-256.   
+[8] KOPEC W,JAMROZ D,WILICZKIEWICZ A,et al.Antioxidation status and histidine dipeptides content in broiler blood and muscles depending on protein sources in feed[J].Journal of Animal Physiology and Animal Nutrition,2013,97(3):586-598.   
+[9] KOPEC W,JAMROZ D,WILICZKIEWICZ A,et al.Influence of different histidine sources and zinc supplementation of broiler diets on dipeptide content and antioxidant status of blood and meat[J].British Poultry Science,2013,54(4):454-465.   
+[10] 曹永梅.营养型鸡精中肌肽、鹅肌肽含量的检测[J].食品工业,2013,34(2):183-185. [11] HAUG A,R©DBOTTEN R,MYDLAND L T,et al.Increased broiler muscle carnosine and anserine following histidine supplementation of commercial broiler feed concentrate[J].Acta Agriculturae Scandinavica,Section A:Animal Science,2008,58(2):71-77.   
+[12] JOONGHYUCK A,NYUN N,KWANGSUK S,et al.Effects of supplementary blood meal on thecontent of carnosineand anserine inbroilermeat[J].TheJournal of Poultry Science,2010,47(4):302-309.   
+[13] ZHAO B,FENG L,LIU Y,et al.Effects of dietary histidine levels on growth performance,body composition and intestinal enzymes activities of juvenile Jian carp(Cyprinus carpio var. Jian)[J].Aquaculture Nutrition,2012,18(2):220-232. [14] FARHAT,KHAN M A.Effects of varying levels of dietary $L$ histidine on growth,feed conversion,protein gain,histidine retention,hematological and body composition in fingerling stinging catfish Heteropneustes fossilis (Bloch)[J].Aquaculture,2013,404-405:130-138.   
+[15] KRIENGSINYOS W,RAFII M,WYKES L J,et al.Long-term efects of histidine depletion on whole-body protein metabolism in healthy adults[J].The Journal of Nutrition,2002,132(11):3340-3348.   
+[16] KASAOKAS,TSUBOYAMA-KASAOKA N,KAWAHARA Y,et al.Histidine supplementation suppresses food intake and fat accumulation in rats[J].Nutrition,2004,20(11/12):991-996.   
+[17] SON D O,SATSU H,SHIMIZU M.Histidine inhibits oxidative stress- and TNF- $\mathfrak { a }$ -induced interleukin-8 secretion in intestinal epithelial cells[J].FEBS Letters,2005,579(21):4671-4677. [18] KRALIK G,KRALIK Z,DJURKIN KUSEC I,et al.Influence of dietary histidine,hybrid line and gender on chicken meat quality and carnosine concentration[J].The Journal of Poultry Science,2015,52(4):295-303.   
+[19] HU X X,HONGTRAKUL K,JI C,et al.Effect of carnosine on growth performance,carcass characteristics,meat quality and oxidative stability in broiler chickens[J].The Journal of Poultry Science,2009,46(4):296-302.   
+[20] FENG R N,NIU Y C,SUN X W,et al.Histidine supplementation improves insulin resistance through suppressed inflammation in obese women with the metabolic syndrome:a randomised controlled trial[J].Diabetologia,2013,56(5):985-994.   
+[21] DUCHENE S,AUDOUIN E,BERRI C.et al.Tissue-specific regulation of S6K1 by insulin in chickens divergently selected for growth[J].General and Comparative Endocrinology,2008,156(1):190-198.   
+[22] THORNTON K J,RICHARD R P,COLLE M J,et al.Effects of dietary potato by-product and rumen-protected histidine on growth,carcass characteristics and quality atributes of beef[J].Meat Science,2015,107:64-74. [23] ROWE L J,MADDOCK K R,LONERGAN S M,et al.Oxidative environments decrease tenderization ofbeefsteaksthrough inactivationof $\mu$ calpain[J].JournalofAnimal Science,2004,82(11):3254-3266.   
+[24] WADE A M,TUCKER H N.Antioxidant characteristics of $L$ -histidine[J].The Journal of Nutritional Biochemistry,1998,9(6):308-315.   
+[25] KOPEC W,WILICZKIEWICZ A,JAMROZ D,et al.Antioxidant status of turkey breast meat and blood after feeding a diet enriched with histidine[J].Poultry Science,2016,95(1):53-61. [26] TANSINI C M,DURIGON K,TESTA C G,et al.Effects of histidine and imidazolelactic acid on various parameters of the oxidative stress in cerebral cortex of young rats[J].International Journal of Developmental Neuroscience,2004,22(2):67-72.   
+[27] VAN WOUWE J P,VELDHUIZEN M.Growth characteristics in laboratory animals fed zinc-deficient,copper-deficient,orhistidine-supplemented diets[J].Biological TraceElement Research,1996,55(1/2):71-77.   
+[28] SUIDASARI S,STAUTEMAS J,URAGAMI S,et al.Carnosine content in skeletal muscle is dependent on vitamin B6 status in rats[J].Frontiers in Nutrition,2016,2:39.   
+[29] PIERROFD,BERTUCCIOLIA,BRESSAN A,et al.Carnosine-based supplement[J].Nutrafoods,2011,10(2/3):43-47.   
+[30] KAI S,WATANABE G,KUBOTA M,et al.Effect of dietary histidine on contents of carnosine and anserine in muscles of broilers[J].Animal Science Journal,2015,86(5):541-546.   
+[31] OGATA H Y.Muscle buffering capacity of yellowtail fed diets supplemented with crystalline histidine[J].Journal of Fish Biology,2002,61(6):1504-1512.   
+[32] AMEND J F,STRUMEYER D H,FISHER H.Effect of dietary histidine on tissue concentrationsofhistidine-containingdipeptidesin adult cockerels[J].The Journalof Nutrition,1979,109(10):1779-1786.   
+[33] DROZAK J,CHROBOK L,POLESZAK O,et al.Molecular identification of carnosine N-methyltransferase as chicken histamine N-methyltransferase-like protein (HNMT-Like)[J].PLoS One,2013,8(5):e64805.   
+Effects of $L$ -Histidine on Growth Performance,Meat Quality, Plasma Antioxidant Capacity and Meat Imidazole Dipeptide Contents of Broilers HU Meng ZHANG Haijun\* WANG Jing QI GuanghaiWU Shugeng\* (Key Laboratory of Feed Biotechnology of Ministry of Agriculture, National Engineering   
+Research Center of Biological Feed,Feed Research Institute,Chinese Academy of Agricultural Science,Beijing 100081, China)
+
+Abstract: This experiment was conducted to study the effects of dietary supplementation of $L$ -histidine on growth performance, meat quality, plasma antioxidant capacity and meat imidazole dipeptide contents of broilers.A total of 30O one-day-old male Arbor Acres (AA） broilers were randomly alotted into 5 groups with 6 replicates per group and 1O broilers per replicate. The control group was fed a basal diet，and the experimental groups were fed the basal diet supplemented with 250, 500,1 000,2 000 mg/kg $L$ -histidine,respectively. The trial lasted for 42 days. The results showed as follows: 1) Feed to gain ratio was decreased by $L$ -histidine of boilers at late growing phase (22 to 42 days of age), and 250 and $2 \mathrm { 0 0 0 m g / k g }$ groups were significantly lower than the control group $( P { < } 0 . 0 5 )$ .2)Dietary $L$ -histidine supplementation had no significant effects on dressing percentage, breast muscle rate, leg muscle rate,abdominal fat rate, drip loss, shear force and $\mathsf { p H }$ of muscle ( $( P { > } 0 . 0 5 )$ . 3） At 42 days of age, total antioxidant capacity, the activities of the glutathione peroxidase and total superoxide dismutase in plasma were increased linearly with the supplemental level of $L$ -histidine in diets（ $( P { < } 0 . 0 5 )$ . 4) At 42 days of age, the contents of carnosine and anserine of muscle were increased by $L$ -histidine supplementation, the content of carnosine was increased by $4 0 . 5 8 \%$ ， $4 2 . 7 5 \%$ and $3 3 . 7 0 \%$ in 500,1 000 and 2 000 mg/kg groups $( P { < } 0 . 0 5 )$ ，respectively,and the content of anserine was increased by $3 7 . 8 0 \%$ in 1 $0 0 0 \mathrm { ~ m g / k g }$ group $( P { < } 0 . 0 5 )$ ；imidazole dipeptide contents reached the highest when the supplemental level of $L$ -histidine was $1 ~ 2 7 6 ~ \mathrm { m g / k g }$ according to quadratic formulas between them. In conclusion, dietary $L$ -histidine supplementation can increase feed conversion rate,improve plasma antioxidant capacity and increase contents of imidazole dipeptides of muscle in broilers, and the proper supplemental level in diet of $L$ -histidine in diet is $1 \ : 0 0 0$ to $2 \mathrm { 0 0 0 m g / k g }$ under the conditions in the current study. Considering imidazole dipeptide contents in muscle,the optimal supplemental level in diet is $1 2 7 6 \mathrm { m g / k g }$ Key words: $L$ -histidine; meat quality; antioxidant capacity; imidazole dipeptide

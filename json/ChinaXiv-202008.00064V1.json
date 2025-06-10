@@ -1,0 +1,456 @@
+[
+    {
+        "type": "text",
+        "text": "母亲消极教养、同伴侵害与FKBP5基因对青少年抑郁的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田相娟 曹衍淼 张文新(山东师范大学心理学院，济南 250014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 累积压力与匹配-不匹配假说均可解释远端和近端逆境对个体抑郁的影响，但鲜有研究考察遗传基因在其中的调节作用。采用问卷法和DNA分型技术，对970 名青少年进行间隔3年的追踪调查。分别以母亲消极教养、同伴侵害为远端和近端压力指标，FKBP5基因多位点累加得分为遗传指标，考察三者对青少年抑郁的交互作用及性别差异。结果发现，在男青少年中， $\\mathrm { E } \\times \\mathrm { E } \\times \\mathrm { G }$ 显著。当累加得分较高、同伴侵害水平较高时，母亲消极教养显著负向预测抑郁，符合匹配-不匹配假说；累加得分较低时，$\\mathbf { E } \\times \\mathbf { E }$ 不显著，但倾向于以累积压力假说的方式发挥作用。女青少年中， $\\mathrm { E } \\times \\mathrm { E } \\times \\mathrm { G }$ 不显著。研究结果提示，在男青少年中，累积压力与匹配-不匹配假说均可阐明抑郁的发生机制，分别适用于携带不同 $F K B P 5$ 基因多位点累加得分的个体。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 母亲消极教养；同伴侵害；FKBP5基因；青少年抑郁；累积压力假说；匹配-不匹配假说",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号B844;B845",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抑郁是青少年期最常见的心理健康问题之一。大量研究显示，压力性生活事件是青少年抑郁的重要预测因素，根据其发生的时间可以划分为远端压力(发生于早期)和近端压力（发生于近期）。远端和近端压力对抑郁发生和发展的影响存在复杂的相互作用。目前，远端和近端压力的相互作用模式可以由两个竞争模型解释：一是以传统精神病理学为基础的累积压力假说（cumulative stress hypothesis）（McEwen,1998; Vinkers et al.,2014），二是以生物进化论为基础的匹配-不匹配假说（match-mismatch hypothesis）（Nederhof,2012; Nederhof et al,2014）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "累积压力假说认为远端不良经历会增加个体对压力的易受性，并且与近端压力以积聚的方式导致个体非稳态负荷增加，如HPA轴等应激系统的磨损，最终提高个体罹患抑郁的风险；反之，当个体面临的总体压力（远端压力和近端压力）较少时，个体的生理、心理社会及认知等功能受损较轻微，罹患抑郁的风险较低（Brown et al.,2008;McEwen,1998;Myers etal.,2015）。譬如，研究发现经历较高水平童年期逆境和成年期压力性生活事件的个体比其他个体表现出更高的抑郁水平（McLaughlin et al.,2010;Power et al.,2013； Shapero et al.,2013）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是，远端压力和近端压力并不必然导致个体的适应不良。匹配-不匹配假说指出，适度的远端压力可以促进适应性表型可塑性的形成，从而促使机体做好充分准备以应对发展过程中再次出现的相似（匹配）压力环境。因此，在个体经历匹配的远端和近端压力时，抑郁水平较低；在压力不匹配的情况下，个体无法利用基于远端环境建立起来的应对策略来面对随后的不同（不匹配）经历，最终导致患抑郁的风险增加（Frankenhuis&DelGiudice,2012;Gluckman etal.,2007; Nederhof et al.,2014; Schmidt,2011）。近期的动物和人类研究均为该假说提供了实证支持（Daskalakis et al.,2012; Santarelli et al.,2014）。例如，研究显示，相比未经历幼年母子分离的大鼠，经历早期母子分离的大鼠在经历近端压力刺激后表现出更好的记忆能力（Zalosnik etal.,2014）。人类研究亦显示，与经历低水平童年逆境的青少年相比，经历高水平童年逆境者在面对高水平近期压力性生活事件后患抑郁的风险更低（Oldehinkel et al., 2014）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述两个模型在远端压力和近端压力以何种方式影响个体罹患抑郁的风险上存在分歧。然而，近期的研究证据显示这两种模型并非完全对立，远端和近端压力以何种方式相互作用依赖于个体先天的遗传素质。Nederhof和 Schmidt（2012）提出了一个整合模型，携带敏感基因型的个体对远端压力更加敏感，进而发展出适应性表型，遵循匹配-不匹配假说的发展模式；反之，携带不敏感基因型的个体因无法发展出适应性的应对策略，当压力水平不断增加时消极影响不断积累，提高了个体罹患抑郁的风险。换言之，累积压力假说与匹配-不匹配假说的适用性依赖于遗传素质。然而，迄今对这一假设的考察和验证仍十分匮乏，且主要来自于动物研究。例如van derDoelen 等（2013）的研究发现，在携带 $5 . H T T + / -$ （与人类5-HTTLPRS等位基因功能相似）的雄性小鼠中，幼年期生活压力与成年期压力以匹配-不匹配的方式影响小鼠的抑郁样行为，而在其他基因型携带者中远端和近端压力的交互作用不显著。据我们所知，目前仅有一项以人类为被试的研究试图检验累积压力与匹配-不匹配模型，该研究以5-HTTLPR基因多态性为遗传指标，分别以童年期虐待、成年期压力性生活事件为远端和近端压力，结果发现三者对抑郁的交互作用不显著（Poweretal.,2013）。导致该研究中 $\\mathrm { ~ E ~ } \\times \\mathrm { ~ E ~ } \\times \\mathrm { ~ G ~ }$ 不显著的原因可能是单个候选基因位点的遗传解释率较低。正如Nederhof和 Schmidt（2012）所指出的，较低的遗传敏感性会降低理论模型的检验力，未来研究需要将多个基因或基因的多个位点纳入累积压力与匹配-不匹配假设的检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在应激和抑郁的发生过程中，HPA 轴系统功能起到重要的作用（Caiet al.,2015;Menke,2019;Normann&Buttenschon,2019）。因此，参与调节 HPA 轴功能的遗传变异可能是调节压力与抑郁关联的重要候选基因。其中，位于染色体 6p21.31的FKBP5(FK506 binding protein5，FK506 结合蛋白5）基因备受关注，该基因可以调控FKBP5蛋白的表达。FKBP5 蛋白能与糖皮质激素受体（Glucocorticoid receptor,GR）结合，竞争性抑制以皮质醇为主要成分的糖皮质激素（Glucocorticoids,GCs）与GR 的结合，因此FKBP5蛋白的过度表达可导致GR 的不敏感以及皮质醇水平的升高（Tyrka et al.,2015;van Bodegom et al.,2017），继而导致 HPA 轴负反馈机制受损（Tyrka et al.,2015）、海马萎缩（Frodl&O'Keane,2013; Sapolsky,2000），最终引发抑郁。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "迄今，有关FKBP5基因与压力性生活事件对抑郁的影响研究主要采用单位点研究范式。但是，单位点与大多数表型之间的相关微乎其微（Nelemansetal.,2019），且单位点 $\\times$ 环境交互研究存在结果难以重复验证的局限性（Duncan＆Keller,2011）。伴随着越来越多的研究显示抑郁具有多基因或多位点遗传基础（Flint&Kendler,2014; Mulins et al.,2015; Stockeret al.,2017），研究者开始尝试采用累加基因/位点得分（cumulative genetic score,CGS）方法来解释相关候选基因对抑郁的累积遗传效应（如 Belsky etal.,2015; Stocker et al.,2017）。大量实证研究证据显示FKBP5基因rs1360780、rs3800373和rs9296158多态性均可以调节个体对环境的敏感性（Lavebratt et al.，2010;Piechaczek et al.，2019；Wang et al.，2018;Zimmermann etal.,2011），它们分别位于第二内含子区域、3'端非翻译区域和第五内含子区域。已有研究表明，包括rs1360780 T、rs3800373C和rs9296158A在内的次要等位基因携带者FKBP5 表达水平较高（Calabro et al.,2019;White et al.,2012），经历逆境后患抑郁的风险更高（Calabro etal.,2019;Wang et al.,2018）。近期神经影像学研究发现，包括FKBP5、CRHR1、NR3C2、NR3C1等在内的10个HPA轴系统基因的累加得分调节青少年面对恐惧-中性面部刺激时的的杏仁核和海马反应，这些反应与抑郁存在密切关联（Pagliaccio et al.,2015）。鉴于此，本研究拟选取FKBP5基因rs1360780、rs3800373 和 rs9296158 多态性考察单基因的多位点遗传效应，探索累积压力假设与匹配-不匹配假设的成立条件是否依赖于个体的遗传素质。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于青少年抑郁的远端和近端压力，大量研究显示，在儿童期，父母与孩子的关系在儿童人际关系中处于主导地位（Furman&Buhrmester,1992;Helsen et al.,2000），父母教养是预测抑郁发生的重要变量（McLeod etal.,2007;Yap& Jorm,2015），低水平的积极或支持性教养以及高水平的消极教养可以预测抑郁风险的增加（Schleider＆Weisz,2017）。进入青少年期，个体的同伴网络不断扩展（Prinstein&LaGreca，2002），与同伴的互动亦更加频繁（Buhrmester＆Furman,1987），且同伴成为个体社会支持和获得归属感的更为重要的对象（Steinberg,2014），由此，同伴侵害是这一时期抑郁发生的重要预测因素（Adrian et al.,2019; Schoeler etal.,2018）。此外，研究表明，与同伴侵害相比，严厉教养对儿童期抑郁的解释率更高（Bilsky,Cole,Dukewich,Martin,& Maxwell,2013; Cole et al.,2015）。基于此，本研究分别以儿童期的母亲消极教养和青少年期的同伴侵害作为远端和近端逆境指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "许多研究显示，遗传基因与环境对抑郁或抑郁相关的神经结构和功能的交互作用存在性别差异（Chang et al.,2017; Pagliaccio et al.,2015；王美萍等,2019）。FKBP5 是孕酮和雄激素受体复合物的伴侣蛋白之一（Zannas&Binder,2013），该基因的表达及其与环境的交互作用可能受性激素影响而存在性别差异。譬如，已有研究表明rs1360780多态性与消极生活经历对抑郁的交互作用仅在男性中显著（Lavebratt etal.,2010）。Comasco 等（2015）的研究亦显示，与女青少年相比，FKBP5基因rs1360780 和rs3800373多态性与早期生活逆境对抑郁的交互作用在男青少年中更显著。此外，先前研究表明，性别与个体经历的消极教养和同伴侵害水平存在紧密关联，与女生相比，男生可能面临更多的消极教养（Keshavarz&Mounts,2017; Tenenbaum&Leaper,2003）和同伴侵害（Crick＆ Bigbee,1998），而且环境变量的变异程度影响基因与环境的交互作用（Belsky&Beaver,2011；王美萍等,2019）。综上，有必要分性别考察FKBP5基因多位点累加得分 $\\cdot \\times$ 母亲消极教养 $. { \\times }$ 同伴侵害的交互作用。鉴于目前为止，尚未有研究考察累积压力假说与匹配-不匹配假说的性别模式，因此，我们在此不对这两种模型的性别差异作出明确假设。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，为探索青少年抑郁的发生机制，本研究拟考察母亲消极教养、同伴侵害以及FKBP5基因多位点累加得分三者对青少年抑郁的交互作用模式（累积压力假说vs.匹配-不匹配假说）。这一研究将累积压力与匹配-不匹配假设扩展到基因多位点遗传研究领域并对性别差异进行探索，将有助于研究者进一步了解青少年抑郁的病理机制，进而为抑郁的干预实践提供更为具体和针对性的建议。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究被试来自一项大型追踪项目。本研究是利用该追踪项目数据库中的被试信息独立开展的遗传研究，旨在考察远端和近端压力对青少年期抑郁的影响，因此采用了间隔三年的追踪研究设计。T1时间点(小学六年级)测评了母亲消极教养和青少年的抑郁症状( $\\mathrm { \\Delta } N = 2 1 1 4$ $M _ { a g e } = 1 2 . 3 1 \\pm 0 . 4 7$ 岁， $5 1 . 7 \\%$ 男生）。T2时间点（初中三年级）再次测评了青少年的抑郁水平并测量了同伴侵害数据，两次测评时间间隔三年，被试流失291人（ $1 3 . 8 \\%$ ）。T2时间点上，流失被试与未流失被试在T1 年龄 $( t _ { ( 2 0 9 1 ) } = 0 . 0 4 , p = 0 . 9 7 )$ 和 T1家庭社会经济地位（SES）得分上 $( t _ { \\ ( 2 1 1 2 ) } = - 0 . 6 9 , p = 0 . 4 9$ ）均无显著差异，但流失被试比未流失被试报告出更高的母亲消极教养 $( t _ { \\left( 2 1 1 2 \\right) } = 2 . 2 3 , p = 0 . 0 3$ ）和抑郁水平 $( t _ { ( 2 1 1 2 ) } = 3 . 7 5 , p < 0 . 0 0 1 )$ ，且流失被试更有可能是男孩 $( \\chi ^ { 2 } = 6 . 1 8 , d f = 1 , p = 0 . 0 1 )$ ）。T1、T2时刻的人口学特征及统计结果见表1。T2 时间点，被试分布在14 所学校的39个班级中。以往研究表明，基因与环境的交互作用达到显著性水平（0.05）时效果量一般在 $0 . 0 1 { \\sim } 0 . 0 2$ （如 Starr etal.,2014；王美萍等，2019），以此范围的效果量为基础，采用G\\*Power3.1.9.2软件进行分析，结果显示若要达到 $80 \\%$ 以上的统计检验力（ $\\mathfrak { a } = 0 . 0 5 \\mathrm { . }$ ），约需要395\\~787名被试。但是，鉴于被试流失问题，本研究具有基因数据的样本仅为970人，其中男生473人（ $4 8 . 8 \\%$ )，平均年龄15.32岁（ $\\langle S D = 0 . 4 7 \\rangle$ 。T2时刻，具有基因数据（ $N = 9 7 0$ ）与没有基因数据的样本（ ${ \\mathrm { . } N } = 8 5 3$ ）在性别上无显著差异$( \\gamma ^ { 2 } = 2 . 7 3 , d f = 1 , p = 0 . 0 9 )$ ，且在年龄、T1SES、T1母亲消极教养、T2 同伴侵害和 T2 抑郁得分上均不存在显著的差异（ $\\vert t \\mathrm { s } \\vert < \\vert 1 . 6 6 \\vert$ $p \\mathrm { s } > 0 . 0 5$ ），但测评基因数据的被试在T1抑郁得分上较低（ $\\stackrel { \\cdot } { t } { } _ { 1 8 2 1 } ) = 2 . 2 3$ ， $p = 0 . 0 3$ ）。本研究仅包含了上述参与基因分型的青少年。本研究经过 $\\times \\times$ 大学伦理委员会审核并获得批准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2481844c13cd61791bf728629afdadaf2cdea3325faf0df05ae457e3336f923b.jpg",
+        "table_caption": [
+            "表1样本特征"
+        ],
+        "table_footnote": [
+            "注：参照已有文献（Akkoyun-Farinez etal.,2018）计算 SES。"
+        ],
+        "table_body": "<html><body><table><tr><td>被试特征</td><td>T1 (N=2114)</td><td>T2 (N=1823)</td><td>差异检验</td></tr><tr><td>性别(男生)</td><td>1092 (51.7%)</td><td>922 (50.6%)</td><td>x² = 0.46,df=1,p = 0.50</td></tr><tr><td>年龄 (岁)</td><td>12.31 ± 0.47</td><td>15.31 ± 0.47</td><td>t(3895）= -0.69,p= 0.99</td></tr><tr><td>SES</td><td>0</td><td>0.005</td><td>t(3935）= -0.69,p=0.85</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究工具",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 青少年抑郁 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用儿童抑郁量表（Children's Depression Inventory,CDI）（Kovacs,1992）测评青少年的抑郁水平。该量表在抑郁的相关研究，尤其是非临床样本研究中得到了广泛的应用并具有良好的信效度（Wu et al.,2012; Zhang et al.,2016）。CDI量表共包含27 个项目，要求被试对近两周内的抑郁水平作出评价（如不高兴、悲观）。问卷采用3点计分，从0到2分别表示“偶尔”、“经常”和“总是”，得分越高，表示抑郁水平越高。本研究中T1、T2 时间点量表的Cronbach's $\\mathfrak { a }$ 系数分别为0.87、0.89,均值分别为 $0 . 1 8 ( S D = 0 . 2 1 ) , 0 . 2 7 ( S D = 0 . 2 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 母亲消极教养 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用中文版本的儿童教养问卷（Child-Rearing Practices Report, CRPR）（Chen et al.,2010）测评母亲的消极教养，问卷由母亲报告。该问卷在中国儿童青少年的相关研究中具有良好的测量学特性（Chen etal.,2002）。母亲消极教养包括“拒绝”（含4个项目，如“我经常忘记应该为孩子做的事情”）和“惩罚”（含7个项目，如“我认为体罚是管教孩子的最好方式”）两个维度。问卷采用5点计分，得分0到4代表从“完全不符合”到“完全符合”，得分越高表明母亲消极教养水平越高。本研究中问卷的Cronbach'sα 系数为0.65，均值为1.17 ( $S D = 0 . 4 4 \\$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 同伴侵害",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用中文修订版的多维同伴侵害量表（Multidimensional Peer Victimization Scale,MPVS;Mynard&Joseph,2000）对青少年的同伴侵害进行测量。该量表具有良好的信效度（纪林芹等，2011），包含“身体侵害”（含3个项目，如“在这一学期，别的同学威胁说要打我”）、“言语侵害”（含3个项目，如“在这一学期，别的同学说过我笨”）和“关系侵害”（含8个项目，如“在这一学期，别的同学挑拨别人不跟我说话”）三个维度。该问卷由青少年自我报告，采用4点计分，从“未发生过”到“经常发生”分别记0\\~3分，得分越高表明青少年受到的侵害越多。本研究中，同伴侵害量表的Cronbach'sα系数为0.92，均值为0.33（ $S D = 0 . 4 1$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 基因检测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用唾液样本提取DNA。利用 Sequenom（San Diego,CA,USA）芯片基质辅助激光解吸/电离飞行时间（MALDI-TOF）质谱平台对rs1360780、rs3800373和 rs9296158 多态性位点进行DNA提取与基因分型。分型结果由MassARRAYRT3.0.0.4软件系统实时读取，并由MassARRAYTyper3.4软件系统完成分析。主要的质控程序包括重复性检查（ $5 \\%$ ）、阴性对照检查和次要等位基因频率检查，基因分型有效率大于 $9 7 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 施测程序",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在数据收集之前向青少年及其父母、学校发放参与本研究的知情同意书，在取得同意后进行了以下测评。首先，在学校配合下，以班级为单位收集青少年的抑郁以及同伴侵害数据，以班级为单位组织青少年的母亲到学校参与问卷调查获得母亲消极教养。其次，在班内经由严格培训的研究生采集青少年的唾液样本，提前请班主任通知每一位参与唾液样本采集的被试在采集前 $3 0 \\mathrm { { m i n } }$ 不要进食、吸烟、饮酒或嚼口香糖。主试与青少年的比例不小于1:8，采集过程约 $3 0 \\mathrm { m i n }$ 。采集完成后，交由某生物科技公司对DNA进行提取、纯化和分型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "运用 SPSS 22.0进行数据处理与分析。采用皮尔逊积差相关考察了研究变量间的相关。相关分析前，对FKBP5基因多态性进行编码处理。鉴于FKBP5基因次要等位基因携带者蛋白表达水平较高（Calabro et al.,2019;White etal.,2012），经历逆境后患抑郁的风险更高，主要等位基因携带者抑郁水平较低（Calabro et al.,2019;Wang et al.,2018），我们推测主要等位基因为保护性的，携带数量越多在经历远端逆境后更可能发展出较多的适应性应激应对策略，与 Nederhof 和 Schmidt（2012）在其整合模型中所指出的敏感个体的特点一致。基于上述分析，并参照已有研究（Kang et al.,2012），我们根据 FKBP5基因三个位点次要等位基因的数量进行编码，rs1360780： $\\mathrm { T } \\mathrm { T } = 0$ ， $\\mathrm { C T } = 1$ ， $\\mathrm { C C } = 2$ ；rs3800373: $\\mathrm { C C } = 0$ ， $\\mathrm { C A } = 1$ $\\mathrm { \\ A A } = 2$ ；rs9296158: $\\mathrm { \\ A A } = 0$ ， $\\mathbf { A } \\mathbf { G } = 1$ ， $\\mathrm { G G } = 2$ ）。通过计算求和获得基因多位点累加得分（男生： $N _ { 0 } = 3 0$ $N _ { 1 } = 1$ ， $N _ { 2 } = 1 1$ $N _ { 3 } = 1 7 1$ ， $N _ { 4 } = 1 1$ $N _ { 5 } = 4 2$ ， $N _ { 6 } = 2 0 7$ ；女生： $N _ { 0 } = 2 0$ $N _ { 1 } = 4 , N _ { 2 }$ $= 9$ $N _ { 3 } = 1 7 0$ $N _ { 4 } = 9$ $N _ { 5 } = 3 8$ $N _ { 6 } = 2 4 7$ ）。得分为1、2和4的被试较少，参照已有研究（Beaver& Belsky,2012; Cicchetti&Rogosch,2012;Wade et al.,2015）将得分为0、1和2的个体合并为一组记为1，得分为3的记为2，得分为4和5的合并为一组记为3，得分为6的记为4。最终获得CGS为1、2、3和4 的男、女被试分别为42/33、171/170、53/47、207/247人，得分越高，表示个体携带基因型的敏感性越高。为检验累积压力假设与匹配-不匹配假设，以性别为分组变量，T2 抑郁为因变量进行分层回归分析，预测变量的具体建模方式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）T1抑郁作为控制变量进入模型第一层；（2）CGS（G）、T1母亲消极教养（E1）、T2 同伴侵害（E2）进入模型第二层；（3） $\\mathbf { G } \\times \\mathbf { E } 1$ 、 $\\mathbf { G } \\times \\mathbf { E } 2$ 和 $\\mathrm { E } 1 \\times \\mathrm { E } 2$ 进入模型第三层；（4）$\\mathrm { E } 1 \\times \\mathrm { E } 2 \\times \\mathrm { G }$ 进入模型第四层。回归分析前，对母亲消极教养和同伴侵害进行了标准化处理，在进行回归分析时采用 Bootstrap 法进行 10000 次随机抽样。为了控制一类错误率，采用Benjamini-Hochberg 程序（1995）对回归分析结果进行多重校正。鉴于被试流失以及分性别统计分析，导致样本量减少，可能降低研究的统计检验力，为检验结果的可靠性，使用内部一致性分析(参见Wang et al.,2020）进一步检验研究结果。此外，以FKBP5基因单位点、FKBP5基因任意两个位点的累加得分为遗传指标考察 $\\mathrm { E } 1 \\times \\mathrm { E } 2 \\times \\mathrm { G }$ 效应，并进行线性基因效应检验，以保证基因多位点累加得分的可靠性（参见曹衍淼，张文新，2019；Stocker et al.,2017）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3研究结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 描述性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FKBP5基因三个位点基因型分布如下：rs1360780： $C C = 5 5 . 9 \\%$ （542人）， $C \\mathrm { T } = 3 8 . 5 \\%$ （374人）， $T \\mathrm { T } = 5 . 6 \\%$ （54人）；rs3800373： $\\mathrm { A A } = 5 6 . 4 \\%$ （547人）， $\\mathrm { C A } = 3 8 . 1 \\%$ (370人）， $C C = 5 . 5 \\%$ （53人）；rs9296158: $\\mathrm { G G } = 4 7 . 3 \\%$ （459人）， $\\mathrm { A G } = 4 4 . 5 \\%$ （432人），$\\mathrm { A A } = 8 . 2 \\%$ （79人）。三个位点的观察值与期望值吻合良好（rs1360780: $\\chi ^ { 2 } = 1 . 0 2$ ,df=2, $p =$ 0.31; rs3800373: $\\chi ^ { 2 } = 0 . 8 8$ $d f = 2$ $p = 0 . 3 5$ ; rs9296158: $\\chi ^ { 2 } = 2 . 6 4$ ， $d f = 2$ $p = 0 . 1 0 \\dot { . }$ ），均符合Hardy-Weinberg平衡定律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "主要研究变量的平均值、标准差及相关分析结果见表2。独立样本 $t$ 检验显示，男青少年的母亲消极教养（ $\\stackrel { \\prime } { \\cdot } t _ { \\mathit { \\Phi } ( 9 6 8 ) } = 3 . 1 7 , p = 0 . 0 0 2$ ）和同伴侵害得分 $( t _ { \\mathit { \\Phi } ( 9 6 8 ) } = 6 . 6 3 , p < 0 . 0 0 1$ ）均显著高于女青少年，在后续分析中依据性别进行分组分析。FKBP5基因多位点累加得分与母亲消极教养、同伴侵害相关均不显著，排除了基因-环境相关的可能性。母亲消极教养、同伴侵害与T1和T2抑郁均呈显著正相关，在后续分析中将T1抑郁作为协变量进行控制。两次测量的抑郁呈显著正相关，配对样本 $t$ 检验显示,T2抑郁显著高于T1抑郁( $\\stackrel { \\prime } { \\phantom { = } } t _ { ( 9 6 9 ) } = - 1 1 . 4 9$ $p < 0 . 0 0 1 \\cdot$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6811c115fa9ab70e4bae6b2be25a07fcdd28faba93921331766c60740228934c.jpg",
+        "table_caption": [
+            "表2各变量间的相关"
+        ],
+        "table_footnote": [
+            "注： $^ { * } p < 0 . 0 5$ ，\\*\\* $\\stackrel { ! } { p } < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ ，下同；对角线之下相关系数是男生的，之上是女生的，/左右分别代表男生和女生的信息。CGS 为cumulative genetic score 的缩写，表示基因多位点累加得分，下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>CGS</td><td>T1 母亲消极教养</td><td>T2 同伴侵害</td><td>T1抑郁</td><td>T2抑郁</td></tr><tr><td>CGS</td><td>1</td><td>0.002</td><td>0.002</td><td>0.04</td><td>0.03</td></tr><tr><td>T1母亲消极教养</td><td>-0.03</td><td>1</td><td>0.11*</td><td>0.24***</td><td>0.19***</td></tr><tr><td>T2 同伴侵害</td><td>0.04</td><td>0.15**</td><td>1</td><td>0.24***</td><td>0.39***</td></tr><tr><td>T1抑郁</td><td>-0.01</td><td>0.12**</td><td>0.34***</td><td>1</td><td>0.48***</td></tr><tr><td>T2抑郁</td><td>0.02</td><td>0.15**</td><td>0.48***</td><td>0.49***</td><td>1</td></tr><tr><td>M</td><td></td><td>1.22/1.13</td><td>0.42/0.25</td><td>0.19/0.17</td><td>0.27/0.26</td></tr><tr><td>SD</td><td></td><td>0.44/0.43</td><td>0.45/0.35</td><td>0.22/0.19</td><td>0.26/0.25</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2FKBP5基因多位点累加得分、母亲消极教养与同伴侵害对青少年抑郁的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如表3和表4所示，在控制T1抑郁后，FKBP5基因多位点累加得分和母亲消极教养的主效应均不显著，同伴侵害显著正向预测男女个体的 T2 抑郁。此外，仅在男青少年中，母亲消极教养 $\\times$ 同伴侵害 $\\mathsf { \\Pi } \\times \\mathsf { C G S }$ 效应显著，具体表现为：在CGS等于4的个体中（高分组），母亲消极教养与同伴侵害的交互作用显著 $( \\beta = - 0 . 1 5 , t = - 2 . 5 0 , p = 0 . 0 1 )$ ），母亲消极教养显著负向预测高同伴侵害条件下个体的抑郁（ $\\langle \\beta = - 0 . 1 3 , t = - 2 . 3 6 , p = 0 . 0 2 \\rangle$ ），对低同伴侵害下个体的抑郁具有边缘显著的正向预测作用！ $\\langle \\beta = 0 . 0 4 , t = 1 . 8 5 , p = 0 . 0 7 \\$ ）（互作用模式详见图1）；符合匹配-不匹配假说。在CGS为！ $1 ~ ( \\beta = 0 . 1 4 , t = 1 . 1 4 , p = 0 . 2 6 ) ~ , ~ 2 ~ ( \\beta = 0 . 0 8 , t = 1 . 2 6 ,$ $p { = } 0 . 2 1$ ）和3( $\\ R = - 0 . 1 6 , t = - 1 . 1 0 , p = 0 . 2 8 )$ ）的个体中，同伴侵害 $\\dot { \\cdot } \\times$ 母亲消极教养均不显著，为使模型更加简洁，将上述个体合并为CGS 低分组（ $\\langle \\beta = 0 . 0 1 , t = 0 . 2 4 , p = 0 . 8 1$ ）进行分析，交互作用的模式见图1；母亲消极教养和同伴侵害倾向于以累积压力假说的方式发挥作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d570709c554046e38b9eba0f96555830daf0be4a8c10939c5a2428da91faab0e.jpg",
+        "table_caption": [
+            "表3FKBP5基因多位点累加得分、母亲消极教养与同伴侵害对男青少年抑郁的影响"
+        ],
+        "table_footnote": [
+            "注：加粗表示经过Benjamini-Hochberg 程序（1995）校正后依然显著的值，下同。a表示采用Bootstrap 方法得到预测变量的 $9 5 \\%$ 置信区间，下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"4\">第一步</td><td colspan=\"4\">第二步</td><td colspan=\"4\">第三步</td><td colspan=\"4\">第四步</td></tr><tr><td>β</td><td>t</td><td>P</td><td>95% CIa</td><td>β</td><td>t</td><td>P</td><td>95% CIa</td><td>β</td><td>t</td><td>P</td><td>95% CIa</td><td>β</td><td>t</td><td>P</td><td>95% CIa</td></tr><tr><td>T1抑郁</td><td>0.49</td><td>12.10</td><td><0.001</td><td>[0.47, 0.69]</td><td>0.36</td><td>9.12</td><td><0.001</td><td>[0.32, 0.55]</td><td>0.36</td><td>9.07</td><td><0.001</td><td>[0.32, 0.55]</td><td>0.37</td><td>9.26</td><td><0.001</td><td>[0.33, 0.55]</td></tr><tr><td>CGS</td><td></td><td></td><td></td><td></td><td>0.01</td><td>0.17</td><td>0.87</td><td>[-0.02, 0.02]</td><td>0.01</td><td>0.24</td><td>0.81</td><td>[-0.01,0.02]</td><td>0.01</td><td>0.31</td><td>0.76</td><td>[-0.01,0.02]</td></tr><tr><td>T1母亲消极教养</td><td></td><td></td><td></td><td></td><td>0.05</td><td>1.40</td><td>0.16</td><td>[-0.01,0.04]</td><td>0.19</td><td>1.63</td><td>0.10</td><td>[-0.01, 0.11]</td><td>0.14</td><td>1.21</td><td>0.23</td><td>[-0.02,0.096]</td></tr><tr><td>T2同伴侵害</td><td></td><td></td><td></td><td></td><td>0.35</td><td>8.74</td><td><0.001</td><td>[0.06, 0.11]</td><td>0.31</td><td>2.67</td><td>0.01</td><td>[0.01, 0.14]</td><td>0.22</td><td>1.80</td><td>0.07</td><td>[-0.004,0.12]</td></tr><tr><td>CGS×T1母亲消极教养</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.13</td><td>-1.12</td><td>0.26</td><td>[-0.03, 0.01]</td><td>-0.07</td><td>-0.61</td><td>0.54</td><td>[-0.03,0.01]</td></tr><tr><td>CGS×T2同伴侵害</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.06</td><td>0.51</td><td>0.61</td><td>[-0.02, 0.02]</td><td>0.16</td><td>1.31</td><td>0.19</td><td>[-0.01,0.03]</td></tr><tr><td>T1母亲消极教养×T2 同伴侵害</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.06</td><td>-1.57</td><td>0.12</td><td>[-0.03,0.01]</td><td>0.32</td><td>2.34</td><td>0.02</td><td>[0.001, 0.12]</td></tr><tr><td>CGS ×T1母亲消极教养×T2同伴侵害</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.41</td><td>-2.93</td><td>0.004</td><td>[-0.04, -0.003]</td></tr><tr><td>R²</td><td></td><td></td><td>0.237***</td><td></td><td></td><td></td><td>0.115***</td><td></td><td></td><td></td><td>0.006</td><td></td><td></td><td></td><td>0.012**</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b225902c7031b7c2d22688bf87a973e78ebe89f24bfafd1a10ec85da4368494e.jpg",
+        "table_caption": [
+            "表4FKBP5基因多位点累加得分、母亲消极教养与同伴侵害对女青少年抑郁的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"5\">第一步</td><td colspan=\"3\">第二步</td><td colspan=\"5\">第三步</td><td colspan=\"3\">第四步</td></tr><tr><td>β</td><td>t</td><td></td><td>95% CIa</td><td>β</td><td>t</td><td>P</td><td>95% CIa</td><td>β</td><td>t</td><td>P</td><td>95% CIa</td><td>β</td><td>t</td><td>P</td><td>95% CIa</td></tr><tr><td>T1抑郁</td><td>0.48</td><td>12.31</td><td><0.001</td><td>[0.51, 0.74]</td><td>0.40</td><td>10.19</td><td><0.001</td><td>[0.40, 0.64]</td><td>0.40</td><td>10.18</td><td><0.001</td><td>[0.40, 0.64]</td><td>0.40</td><td>10.19</td><td><0.001</td><td>[0.40,0.64]</td></tr><tr><td>CGS</td><td></td><td></td><td></td><td></td><td>0.02</td><td>0.48</td><td>0.64</td><td>[-0.01, 0.02]</td><td>0.003</td><td>0.09</td><td>0.93</td><td>[-0.02, 0.02]</td><td>0.01</td><td>0.18</td><td>0.85</td><td>[-0.02, 0.02]</td></tr><tr><td>T1母亲消极教养</td><td></td><td></td><td></td><td></td><td>0.06</td><td>1.62</td><td>0.11</td><td>[-0.004, 0.04]</td><td>0.10</td><td>0.88</td><td>0.38</td><td>[-0.03,0.07]</td><td>0.13</td><td>1.06</td><td>0.29</td><td>[-0.02, 0.09]</td></tr><tr><td>T2同伴侵害</td><td></td><td></td><td></td><td></td><td>0.28</td><td>7.36</td><td><0.001</td><td>[0.05, 0.11]</td><td>0.42</td><td>3.67</td><td><0.001</td><td>[0.04, 0.19]</td><td>0.41</td><td>3.57</td><td><0.001</td><td>[0.04,0.19]</td></tr><tr><td>CGS×T1母亲消极教养</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.03</td><td>-0.25</td><td>0.80</td><td>[-0.02, 0.01]</td><td>-0.05</td><td>-0.45</td><td>0.65</td><td>[-0.03,0.01]</td></tr><tr><td>CGS×T2同伴侵害</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.14</td><td>-1.26</td><td>0.21</td><td>[-0.04, 0.02]</td><td>-0.13</td><td>-1.15</td><td>0.25</td><td>[-0.04, 0.02]</td></tr><tr><td>T1母亲消极教养×T2同伴侵害</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.04</td><td>0.94</td><td>0.35</td><td>[-0.03,0.04]</td><td>0.13</td><td>1.02</td><td>0.31</td><td>[-0.04, 0.13]</td></tr><tr><td>CGS× T1母亲消极教养 ×T2 同伴侵害</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.10</td><td>-0.77</td><td>0.44</td><td>[-0.04, 0.02]</td></tr><tr><td>AR²</td><td></td><td></td><td>0.234***</td><td></td><td></td><td></td><td>0.081***</td><td></td><td></td><td></td><td>0.003</td><td></td><td></td><td></td><td>0.001</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d342363dd15f6aa1195600838fca20d3be68edf911dfae03bc2db5d802b0fb9.jpg",
+        "img_caption": [
+            "图1母亲消极教养与同伴侵害对CGS高分组和低分组男青少年抑郁的交互作用"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3 内部一致性分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为了检验 $\\mathrm { E } 1 \\times \\mathrm { E } 2 \\times \\mathrm { G }$ 结果的稳定性和可靠性，我们采用内部一致性分析方法，把总样本随机分为两个子样本。结果发现，三者交互作用在子样本1( $( \\beta = - 0 . 4 4$ $t = - 1 . 9 9$ $p = 0 . 0 4 8 \\dot { . }$ 0和子样本2（ $\\beta = - 0 . 4 8$ ， $t = - 2 . 7 6$ $p = 0 . 0 0 6$ ）的男青少年中均显著。进一步的分析显示，当CGS 为4时，母亲消极教养和同伴侵害存在显著的交互作用（子样本 $1 : { \\beta } = - 0 . 2 0 , t = - 2 . 2 5 , p$ $= 0 . 0 3$ ；子样本 $2 \\colon \\beta = \\ L - 0 . 1 7 , t = \\ L - 2 . 0 0 , p = 0 . 0 4 8 \\ L )$ ，当同伴侵害水平较高时，母亲消极教养边缘或显著负向预测抑郁（子样本 $1 \\colon \\beta = - 0 . 1 3 , t = - 1 . 8 9 , p = 0 . 0 6$ ；子样本 $2 \\colon \\beta = - 0 . 1 9$ $t = - 2 . 0 3$ $p = 0 . 0 4 5 ^ { \\cdot }$ ）；母亲消极教养和同伴侵害以匹配-不匹配假说的方式影响个体的抑郁。但当同伴侵害水平较低时，母亲消极教养的预测作用不显著（子样本 $1 \\colon \\beta = 0 . 0 6 , t = 1 . 9 8 , p = 0 . 0 5 1$ ，子样本 $2 \\colon \\beta = 0 . 0 4 , t = 1 . 2 9 , p = 0 . 2 0 \\rangle$ 。而当CGS小于4时交互作用不显著（子样本 $1 \\colon \\beta = - 0 . 0 3$ $t = - 0 . 3 4 , p = 0 . 7 4$ ；子样本 $2 \\colon \\beta = 0 . 0 1 , t = 0 . 1 4 , p = 0 . 8 9 \\rangle$ ；交互作用模式倾向于以累积压力假说的方式发挥作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4补充分析",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为了检验基因多位点研究的有效性，本研究进行了补充分析。首先，在控制T1抑郁后，分别对FKBP5基因三个位点的单一效应进行考察，结果发现在男生中 $\\mathrm { ~ E ~ } \\times \\mathrm { ~ E ~ } \\times \\mathrm { ~ G ~ }$ 效应均显著（rs1360780: $\\varDelta R ^ { 2 } = 0 . 0 1 2$ ， $\\beta = - 0 . 3 9$ $t = - 3 . 0 1$ $p = 0 . 0 2$ ; rs3800373: $\\varDelta R ^ { 2 } = 0 . 0 0 8$ ， $\\beta = - 0 . 3 0 , t$ （204$= - 2 . 4 1$ ， $p = 0 . 0 2$ ; rs9296158: $\\varDelta R ^ { 2 } = 0 . 0 0 6$ $\\beta = - 0 . 2 4 , t = - 2 . 1 5 , p = 0 . 0 3$ ）。然后，排除任意一个位点后进行两个位点的累加效应分析，结果显示在男生中 $\\mathrm { E } \\times \\mathrm { E } \\times \\mathrm { G }$ 效应均显著（rs1360780和 rs3800373: $\\varDelta R ^ { 2 } = 0 . 0 0 7$ $\\beta = - 0 . 4 5$ $t = - 2 . 3 1$ $p = 0 . 0 3$ ; rs1360780 和 rs9296158: $\\varDelta R ^ { 2 } = 0 . 0 1 1$ ，$\\beta = - 0 . 3 9$ ， $t = - 2 . 8 0$ 0 $p = 0 . 0 2$ ； rs3800373 和 rs9296158: $\\varDelta R ^ { 2 } = 0 . 0 0 8$ ， $\\beta = - 0 . 3 3$ ， $t = - 2 . 4 7$ ， $p =$ 0.02）。上述分析表明，虽然FKBP5基因单个位点的效应显著，但是并不存在单位点的主导效应，可以进行多位点累加得分分析（Huang＆ Starr,2019;Pearson-Fuhrhop et al,2014;Vrshek-Schallhormet al.,2015）。最后，我们进行线性基因模型检验发现，分解模型比线性基因效应模型的解释率更高，但两个模型间 $R ^ { 2 }$ 改变量并不显著( $\\angle A R ^ { 2 } = 0 . 0 1 4$ $F _ { ^ { ( 1 2 , 4 4 4 ) } } = 2 . 8 1$ ，$p > 0 . 0 5 )$ ），表明本研究中FKBP5基因三个位点没有显著偏离线性基因位点效应假设。因此，按照个体携带的FKBP5基因次要等为基因数量进行线性（0、1、2）编码，并进行单基因多位点累加得分计算是合理的。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究采用纵向研究设计，考察了青少年远端和近端的压力性环境（母亲消极教养和同伴侵害）与FKBP5基因三个位点（rs1360780、rs3800373和rs9296158）的累加得分对青少年抑郁的交互作用，并检验其作用模式符合何种理论模型（累积压力vs.匹配-不匹配）。结果显示，在男生中三者交互作用显著，女生中不显著。在男性青少年群体中，当个体携带较多敏感基因型（ $\\mathrm { C G S } = 4 \\AA$ ）时，母亲消极教养和同伴侵害以匹配-不匹配的方式影响个体抑郁的程度。个体分别经历高水平同伴侵害、低水平母亲消极教养时，抑郁程度较高；而当经历高水平同伴侵害、高水平母亲消极教养时，抑郁水平较低。对携带较少敏感基因型（CGS=1、2和3）的个体而言，母亲消极教养与同伴侵害的交互作用并不显著，但两因素倾向于以累积压力假说的方式影响个体的抑郁，亦即经历的母亲消极教养和同伴侵害水平均较低时个体表现出较低的抑郁水平，均较高时抑郁水平较高。由此，累积压力与匹配-不匹配假说均可解释青少年抑郁的发生机制，分别适用于携带较低和较高FKBP5基因多位点累加得分的个体，但上述结果仅限于男性群体。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "匹配-不匹配假说与累积压力假说的相同点是，两者均关注个体对环境的反应，不同点在于前者认为个体具有较高的可塑性，经历远端逆境后发展出适应性的应激应对策略或行为，而后者指出个体的发展可塑性程度较低，当面对远端逆境时表现出较少的甚至无适应性反应。值得指出的是，累积压力假说与匹配-不匹配假说并非是两个相互对立的理论模型，其成立条件取决于个体携带的遗传基因。即个体的遗传素质在一定程度上决定了远端压力与近端压力对个体的作用模式（Nederhof& Schmidt,2012），本研究结果为此提供了支持。关于遗传基因对个体发展的影响，Belsky及其同事（Belsky et al.,2009;Belsky&Pluess,2013）指出，遗传基因影响个体对环境的敏感性，携带特定遗传基因型的个体更容易受积极和/或消极环境的影响，从而表现出较高的可塑性。Nederhof和Schmidt（2012）亦强调，携带某些遗传基因型（敏感基因型）的个体可能更倾向于对远端环境作出反应，具体而言，远端环境更可能对这些个体进行适应性表型编程（adaptive phenotypic programming），进而引导这些个体朝着适应可预期的（相似的）后续环境的方向发展，而当面对不匹配的近端环境时则表现为适应不良。另一些不携带或携带较少敏感基因型的个体则更可能遵循累积压力假说的发展模式，他们没有或较少受远端环境的适应性编程影响，由此在发展过程中，远端逆境和近端逆境的不利影响不断累积，继而致使非稳态负荷的增加，最终导致个体表现出较高的抑郁水平。本研究结果显示，在男青少年中，当FKBP5基因多位点累加得分较高（敏感性较高）时，母亲消极教养与同伴侵害以匹配-不匹配的方式发挥作用，而当得分较低（敏感性较低）时，两者以累积压力假说的方式发挥作用。本研究结果与Nederhof和Schmidt提出的基因、远端环境、近端环境以整合模型的方式作用于个体发展的理论观点相一致。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "尽管目前极少有研究考察遗传基因在累积压力假说与匹配-不匹配假说中的调节作用，但来自神经生化过程的证据为本研究结果提供了支持。个体的FKBP5基因多位点累加得分越低，FKBP5分泌越多，GR与过多的FKBP5结合降低了其与皮质醇的结合能力，导致GCs浓度升高。伴随着经历高水平消极教养后应激反应中的GCs释放增加，使得个体GCs 浓度过高，导致HPA 轴系统持续亢进、负反馈机制受损（Matosin et al.,2018; Tyrka et al.,2015），海马锥体神经元的树突状形态发生改变（Woolley et al.，1990）。这些生化过程变化都可能导致个体适应性的压力应对策略减少（Criado-Marrero et al.,2018;Matosin et al.,2018），譬如，认知重评、接纳和问题解决等（Aldao & Nolen-Hoeksema,2012; Moritz et al.,2016）。随着时间的推移，当青少年在发展后期再次面对高水平同伴侵害时，由于神经系统功能受损继续加重，个体无法采用适应性的应对策略，导致抑郁水平较高。反之，个体经历的总体逆境水平较低时（低消极教养和低同伴侵害），应激系统受损较小，抑郁水平较低。以上可能是当FKBP5基因多位点累加得分较低时，母亲消极教养和同伴侵害以累积压力假说的方式对青少年抑郁发挥作用的神经生物基础。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在FKBP5基因多位点累加得分较高的青少年中，FKBP5表达水平相对较低，GCs 与GR 充分结合，负反馈机制能够有效抑制皮质醇的释放，从而保障了HPA 轴应激系统正常运行、海马结构和功能正常发展。在这一正常发展条件下，青少年经历母亲消极教养时，更可能发展出适应性的应激应对策略（Kuhnetal.,2015），从而提高个体面对随后不良环境的韧性或抵抗力（Daskalakis et al.,2013;Romeo,2015）。在之后的发展过程中，如果个体经历与母亲消极教养水平相匹配的同伴侵害，个体可以充分利用机体已建立的应对机制作出适应性反应。例如，有研究表明，远端逆境会以适应性的方式塑造个体的认知方式，当再次面对近端压力时，其转换功能表现更好，可以灵活、快速、高效地应对再次出现的不利环境，从而促进个体的积极发展（Mittal etal.,2015）。反之，在不匹配的情况下——譬如本研究中青少年经历低水平母亲消极教养和高水平同伴侵害——个体可能无法从远端逆境中已建立的应对策略获益，甚至有可能因机体反应不当而危害个体发展（Herbisonet al.,2017）。换言之，经历低水平母亲消极教养的青少年，可能没有准备好对高水平的同伴侵害作出适宜的反应，最终导致抑郁水平较高。近期一项MRI研究显示，与远端和近端压力水平匹配的个体相比，环境不匹配者海马体积较小（Paquola et al.,2017），这一海马形态的变化是青少年抑郁的重要预测指标（Raoet al.,2010）。此外，我们的研究发现与同时经历低水平消极教养和低水平同伴侵害的青少年相比，经历高水平母亲消极教养和低水平同伴侵害者抑郁水平较高，但结果呈边缘显著（ $\\beta = 0 . 0 4$ $t = 1 . 8 5$ $p = 0 . 0 7$ ），这在某种程度上也验证了匹配-不匹配假说。Nederhof等（2014）的研究亦发现，经历低水平早期逆境、高水平近期压力的个体比同时经历低水平早期和近期压力者抑郁风险显著更高，而经历高水平早期生活压力者，在经历不同水平近期压力时患抑郁的风险相同。我们推测导致上述研究结果的原因有两个方面：第一，相比极端的压力，个体更容易对轻度或中度的压力（亦即本研究中的低水平而非高水平母亲消极教养）作出适应性反应（Santareli et al.,2014）。第二，与匹配的情况相比，经历远端高水平逆境、近端低水平压力的个体可能比经历低水平远端逆境、高水平近端压力者健康程度下降得更小，即表现出相对较好的发展功能（Frankenhuis&DelGiudice,2012）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "值得指出的是，本研究发现在女青少年中，母亲消极教养、同伴侵害与CGS 三者交互效应不显著。我们推测研究结果可能与以下几个方面的因素有关。首先，激素可能通过调控FKBP5基因的表达进而导致交互效应的性别差异（Hubler& Scammell,2004）。例如 Magee（2005）的研究表明雄性激素可以直接调控FKBP5，这一过程是通过位于FKBP5基因第五个内含子转录起始位点下游 $6 5 ~ \\mathrm { { k b } }$ 的雌激素受体和远端增强子之间的交互作用实现的。由此，激素可能会通过调节FKBP5基因的表达，进而引发 $\\mathrm { ~ E ~ } \\times \\mathrm { ~ E ~ } \\times \\mathrm { ~ G ~ }$ 效应的性别差异。其次，个体对 HPA 轴的敏感性存在性别差异（Hollanders et al.,2017）。例如，有研究表明，在男性中，HPA轴反应在抗抑郁治疗前后存在显著差异（治疗后HPA 轴亢进缓解），可以作为抗抑郁治疗效果的预测指标，而在女性中差异不显著（Binder et al.,2009）。而本研究选取的FKBP5基因的三个位点均对HPA轴功能有重要的调节作用，可能由此导致交互作用结果存在性别特异性。再次，环境变量的变异范围可能影响交互作用的检测结果（王美萍等,2019)。本研究中女青少年样本的母亲消极教养和同伴侵害水平均较低，其变异范围可能不足以识别出显著的 $\\mathrm { E } \\times \\mathrm { E } \\times \\mathrm { G }$ 效应。此外，本研究结果可能还提示影响男性和女性对环境因素反应模式的遗传素质存在差异，FKBP5基因可能与男性对环境的敏感性关联更密切，因而无法揭示两种理论模型在女性抑郁发生中的适用性。事实上，已有研究显示，影响男性和女性环境敏感性的遗传基因存在差异，譬如，Lavebratt 等（2010）的研究发现，FKBP5基因 rs1360780能够调节男性对消极环境的敏感性，但与女性的环境敏感性无关。综上，本研究结果并不意味着累积压力假说和匹配-不匹配假说在女青少年中不适用，未来研究需探究与女性环境敏感性相关的独特基因及其与取值范围较广的的远端逆境和近端逆境的交互作用，深入揭示累积压力假说和匹配-不匹配假说是否受该基因的调节，进一步丰富抑郁发生机制的研究资料，从而为深受抑郁困扰的男女青少年提供全面、及时有效的帮助。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本研究考察了母亲消极教养、同伴侵害与FKBP5基因多位点累加得分对青少年抑郁的交互作用，并对性别差异进行了探讨，是对累积压力假说与匹配-不匹配假说的检验，也是对抑郁发生机制的深入探究。研究表明青少年抑郁的发生机制存在性别差异，且对不同遗传背景的个体而言，远端与近端压力的相互作用模式不同。此外，研究结果强调应重视适应性可塑性表型在抑郁发生机制研究中的重要作用，这在一定程度上为抑郁的病因机制研究开辟了一条新途径。正如Homberg（2012）所言，“抑郁症可能远比研究者预想的更加复杂，固守特定基因位点与压力因素相结合必然导致抑郁这一主流观点，而忽视远端压力对个体发展的适应性，可能是抑郁症病因学研究进展缓慢的重要原因”。此外，本研究对于青少年抑郁的干预实践具有重要的指导意义，提示在抑郁治疗过程中应重视男女个体的遗传背景，并应给予远端和近端逆境同等关注。研究采用单基因多位点的研究视角，进一步为基因与环境交互作用于青少年抑郁提供了可靠的佐证。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "需要指出的是本研究仍存在一些局限：首先，以往研究显示FKBP5基因rs1360780、rs3800373以及rs9296158之间存在连锁不平衡（如Piechaczek etal.,2019），可以进行单倍型分析。尽管如此，本研究未对单倍型进行考察。如前所述，依据 Nederhof和 Schmidt（2012）的整合模型，较高的遗传敏感性是区分累积压力假说与匹配-不匹配假说的重要因素，Power等（2013）的研究亦为此提供了实证支持。值得注意的是，单基因多位点累加效应正是基于复杂心理病理问题的遗传累加性（additive）假设，关注两条染色体上个体携带的敏感等位基因数量，即个体的遗传敏感性高低与心理病理问题的关联；不同的是，单倍型主要关注同一条染色体上相邻位点间的连锁模式与心理病理问题的关联。鉴于本研究的目的，我们未对单倍型进行考察。第二，基于HPA轴系统在个体应激反应和抑郁的发生过程中具有重要调节作用，本研究考察了与HPA轴系统存在密切关联的FKBP5基因三个位点的累加效应，结果发现主效应不显著且三者交互作用解释力较低，表现出“遗失的遗传率（missingheritability）”，即分子遗传学解释的遗传力低于定量遗传学估计的遗传力（Maher,2008）。值得注意的是。这一现象在抑郁等其他心理行为的分子遗传学研究中普遍存在（Dahl et al,2019;Genin,2020;Lopizzo etal.,2015），出现这一问题的原因包括抑郁遗传机制的复杂性、现有研究范式的局限性、DNA 甲基化的作用、多个基因或位点相互之间及其与环境之间存在交互作用等（Lopizzo etal.,2015）。尽管基因-环境交互作用仅解释了 $1 \\%$ 的变异，但对于发展行为遗传学研究的意义仍不可小（Evans,1985;Hasan＆Afzal,2019）。未来研究可通过设计高质量的研究范式，并结合候选基因和全基因组关联研究的方法（Nelemans et al,2019），在坚实的理论指导下进一步深入探索多基因/位点与多环境对抑郁的交互作用。第三，本研究发现在男生中 $\\mathbf { E } \\times \\mathbf { E } \\times \\mathbf { G }$ 的效果量仅为 $1 . 2 \\%$ ，统计检验力水平较低，尽管对结果进行了多重校正，且内部一致性验证分析显示结果较为稳定，但未来研究仍需在其他样本，",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "尤其是更大样本中进行外部验证。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAdrian,M.,Jennes,J.L.,Kuehn,K.S.,Smith,M.R.,& McLaughlin,K.A.(2019).Emotionregulation processes linking peer victimization to anxiety and depresson symptoms in adolescence. Development and Psychopathology,31(3),999-1009.   \nAldao,A.，& Nolen-Hoeksema, S. (2012). When are adaptive strategies most predictive of psychopathology? Journal ofAbnormal Psychology, 121(1),276-281.   \nAkkoyunfarinez,J.,Omorou,A.Y.,Langlois,J.,Spitz,E.,Bohme,P.,Quinet,M.H.,.& Toussint,B. (2018). Measuring adolescents’ weight socioeconomic gradient using parental socioeconomic position. European Journal of Public Health,28(6),1097-1102.   \nBeaver,K.M.,& Belsky,J.(2012). Gene-environment interaction and the intergenerational transmission of parenting: Testing the differential-susceptibility hypothesis. Psychiatric Quarterly, 83(1),29-40.   \nBelsky,J.，& Beaver,K.M. (2011). Cumulative-genetic plasticity, parenting and adolescent self-regulation. Journal ofChild Psychology and Psychiatry,52(5),619-626.   \nBelsky,J.,Jonassaint,C.,Pluess,M., Stanton,M.,Brummett,B.,& Williams,R.(209). Vulnerabilitygenesor plasticity genes? Molecular Psychiatry, 14(8), 746-754.   \nBelsky,J., Newman,D.A.，Widaman,K.F.，Rodkin,P.,Pluess,M.,Fraley,R.C.,.Roisman, G.I. (2015). Diferential susceptibility to efects of maternal sensitivity? A study of candidate plasticity genes. Development and Psychopathology, 27(3),725-746.   \nBelsky,J.，& Pluess,M. (2013). Beyond risk,resilience,and dysregulation: Phenotypic plasticityand human development. Development and Psychopathology, 25(4pt2),1243-1261.   \nBenjamni, Y.,& Hochberg, Y. (1995). Controling the false discovery rate: A practical and powerful approach to multiple testing.Journal of the Royal Statistical Society. Series B (Methodological),57(1),289-300.   \nBilsky,S.A. Cole,D.A,Dukewich,T.L.,Martin,N. C.,& Maxwel, M. A. (2013). Does supportive parenting mitigate the longitudinal effects of peer victimization on depressive thoughts and symptoms in children? Journal of Abnormal Psychology, 122(2),406-419.   \nBinder,E.B.,Küinzel,H.E.,Nickel,T.,Kern,N.,Pfennig,A.,Majer,M.，.Holsboer,F.(2O09).HPA-axis regulation at in-patient admission is associated with antidepressant therapy outcome in male but not in female depressed patients.Psychoneuroendocrinology,34(1), 99-109.   \nBrown,G. W., Craig,T.K.J.,& Haris,T.O. (2oo8).Parental maltreatment and proximal risk factors using the Childhood Experience of Care & Abuse (CECA) instrument: A life-course study of adult chronic depression 5.Journal of Affective Disorders,110(3),222-233.   \nBuhrmester,D.,& Furman, W.(1987).The development of companionship and intimacy. Child Development, 58(4), 1101-1113.   \nCai,L.,Li,R.,Tang, W.J.,Meng, G., Hu,X.Y.,& Wu,T.N. (2015). Antidepressant-like effect of geniposideon chronic unpredictable mild stres-induced depressive rats by regulating the Hypothalamus-Pituitary-Adrenal axis.European Neuropsychopharmacology,25(8),1332-1341.   \nCalabro,M.,Crisafull, C.,Di Nicola,M.,Colombo,R.,Janiri,L.,& Serreti,A. (2019).FKBP5 genevariants may modulate depressive features in bipolar disorder. Neuropsychobiology, 78(2),104-112.   \nCao,Y. M.,& Zhang, W. X. (2019). The influence of dopaminergic genetic variants and maternal parenting on adolescent depressive symptoms: A multilocus genetic study. Acta Psychologica Sinica,51(10),1102-15.   \n曹衍淼，张文新.(2019).多巴胺系统基因与母亲教养行为对青少年抑郁的影响:一项多基因研究．心理学报 51(10), 1102-1115.   \nChang,C.-C.,Chang, H.-A., Fang,W.-H., Chang,T.-C.,& Huang,S.-Y.(2017). Gender-specific association between serotonin transporter polymorphisms (5-HTTLPR and rs25531） and neuroticism，anxiety and depression in well-defined healthy Han Chinese. Journal of Affective Disorders,207,422-428.   \nChen, X.Y., Bian,Y.F.,Xin,T.,Wang,L.,& Silbereisen,R.K. (201).Perceived socialchangeand childrearing attitudes in China. European Psychologist,15(4),260-270.   \nChen,X.Y.,Wang,L. C., Chen,H.,&Liu,M. W. (2002). Noncompliance and child-rearing atitudes as predictors of aggressive behaviour: A longitudinal study in Chinese children. International Journal of Behavioral Development, 26(3),225-233.   \nCicchetti，D.，& Rogosch，F.A.(2012).GenexEnvironment interaction and resilience:Effcts of child maltreatment and serotonin, corticotropin releasing hormone,dopamine,and oxytocin genes. Development and Psychopathology, 24(2), 411-427.   \nCole,D.A.， Sinclair-McBride,K.R.,Zelkowitz,R.，Bilsk,S.A.，Roeder,K.，& Spinelli,T.(2015).Peer victimization and harsh parenting predict cognitive diatheses for depresson in children and adolescents. Journal of Clinical Child & Adolescent Psychology,45(5),668-680.   \nComasco,E., Gustafsson,P.A.,Sydsjo, G.,Agnafors,S.,Aho,N.,& Svedin, C.G. (2015).Psychiatric symptoms in adolescents: FKBP5 genotype—early life adversity interaction effects. European Child & Adolescent Psychiatry, 24(12),1473-1483.   \nCriado-Marrero,M.,Rein,T.,Binder,E.B.,Porter,J.T.,Koren,J.,& Blair,L.J.(2018).Hsp90and fkbp51: Complex regulators of psychiatric diseases.Philosophical Transactions of the Royal Society B Biological Sciences,373(1738),20160532.   \nCrick,N.R.,& Bigbee,M.A. (1998). Relational and overt forms of peer victimization: A multinformant approach.Journal of Consulting and Clinical Psychology, 66,337-347.   \nDahl,A., Cai, N., Ko,A., Laakso,M.,Pajukanta,P. Flint, J.,& Zaitlen, N. (2019). Reverse GWAS: Using genetics to identify and model phenotypic subtypes. PLOS Genetics,15(4): e1008009.   \nDaskalakis,N.P.,Bagot,R. C.,Parker,K.J. Vinkers,C.H.,& de Kloet,E.R.(2013). The three-hit conceptof vulnerabilityandresilience:Towardunderstanding adaptation toearly-lifeadversityoutcome. Psychoneuroendocrinology,38(9),1858-1873.   \nDaskalakis,N.P.,Oitzl, M.S.，Schachinger,H., Champagne,D.L.,& de Kloet,E.R.(2012). Testing the cumulative stress and mismatch hypotheses of psychopathology in a rat model of early-life adversity. Physiology & Behavior,106(5),707-721.   \nDuncan,L.E.,& Keller,M.C.(20l1).A critical review of the first10 years ofcandidate gene-by-environment interaction research in psychiatry. American Journal of Psychiatry, 168(10),1041-1049.   \nEvans,M. G.(1985).A Monte Carlo study of the efects of correlated method variance in moderated multiple regression analysis. Organizational Behavior and Human Decision Processes,36,305-323   \nFlint, J.,& Kendler, K. S. (2014). The genetics of major depression. Neuron, 81(3), 484-503.   \nFrankenhuis,W.E.,& Del Giudice,M. (2012). When do adaptive developmental mechanisms yield maladaptive outcomes? Developmental Psychology, 48(3), 628-642.   \nFrodl,T.,& O'Keane,V.(2013).How does the brain deal with cumulative stress? A review with focus on developmental stress, HPA axis function and hippocampal structure in humans. Neurobiology of Disease, 52, 24-37.   \nFurman，W.，& Buhrmester，D.(1992).Age and sex differences in perceptions of networks of personal relationships.Child Development, 63(1),103-115.   \nGenin,E.(2020). Missing heritability ofcomplex diseases: case solved? Human Genetics,139(1),103-113.   \nGluckman,P.D.,Hanson,M.A.,& Beedle,A.S.(2oo7).Early life events and their consequences for later disease: A life history and evolutionary perspective. American Journal of Human Biology, 19(1),1-19.   \nHasan,A.,& Afzal, M. (2019). Gene and environment interplay in cognition: evidence from twin and molecular studies, future directions and suggestions for effective candidate gene $\\mathbf { x }$ environment (cGxE） research. Multiple Sclerosis&Related Disorders,33,121-130   \nHelsen,M., Vollebergh，W., Meeus，W.，& Meeus,W. (200). Social support from parents and friends and emotional problems in adolescence.Journal of Youth and Adolescence,29(3),319-335.   \nHerbison, C.E.,Allen,K.,Robinson, M.,Newnham,J.,& Pennell C.(2017).The impactof life stress onadult depression and anxiety is dependent on gender and timing of exposure. Development and Psychopathology, 29(4), 1443-1454.   \nHollanders,J.J.,vander Voorn,B.,Rotteveel,J.,&Finken,M.J.J.(2O17).Is HPAaxis reactivity inchildhood gender-specific? A systematic review. Biology of Sex Differences, 8(1),23.   \nHomberg, J. R. (2012). The stress-coping (mis) match hypothesis for nature $\\times$ nurture interactions. Brain Research, 1432,114-121.   \nHuang,M.，& Starr, L.R.(2O19). Interpersonal childhood adversity and stress generation in adolescence: Moderation by HPA axis multilocus genetic variation. Development and Psychopathology, 1-14.   \nHubler,T. R.，& Scammell, J. G. (2004). Intronic hormone response elements mediate regulation of FKBP5 by progestins and glucocorticoids. Cell Stress and Chaperones, 9(3),243-252.   \nJi,L.Q.,Chen,L., Xu,F. Z., Zhao,S.Y.,& Zhang,W.X. (20ll).A longitudinal analysis of the association between peer victimization and paterns of psychosocial adjustment during middle and late childhood. Acta Psychologica Sinica, 43(10), 1151-1162.   \n[纪林芹，陈亮，徐夫真，赵守盈，张文新.(2011).童年中晚期同伴侵害对儿童心理社会适应影响的纵向分 析．心理学报,43(10),1151-1162.]   \nKang,J. I., Chung,H. C.,Jeung,H.-C., Kim,S.J.,An,S.K.,& Namkoong,K. (2012).FKBP5 polymorphisms as vulnerability to anxiety and depression in patients with advanced gastric cancer: A controlled and prospective study.Psychoneuroendocrinology, 37(9),1569-1576.   \nKeshavarz,S.,& Mounts,N.S. (2017).Perceived parenting style of fathers and Iranian adolescents’ self-efficacy: The moderating role of gender and education. The Journal of Genetic Psychology,178(5),281-290.   \nKovacs, M. (1992). Children's depression inventory (CDI) manual. Toronto, Canada: Multi-Health Systems Inc.   \nKuhn,M.,Scharfenort,R.,chumann,D.,Schiele,M.A.,Muinsterkoter,A.L.,Deckert,J.,..Lonsdorf,T.B. (2015).Mismatch or allostatic load? Timing of life adversity diferentially shapes gray matter volume and anxious temperament. Social Cognitive and Affective Neuroscience,11(4),537-547.   \nLavebratt C.， Aberg,E.，Sjoholm,L.K.,& Forsell,Y.(2010).Variations in FKBP5 and BDNF genes are suggestively associated with depresson in a Swedish population-based cohort. Journal of Affective Disorders, 125(1-3), 249-255.   \nLopizzo,N.,ochioChiaveto,L.,Catane,N.,Plazzotta,G.,arazi,F.I.,ariante,C..,..Cattaneo,A.(215). Gene-environment interaction in major depression: Focus on experience-dependent biological systems. Frontiers in Psychiatry, 6, 68.   \nMagee,J.A. (Oo5). Direct,androgen receptor-mediated regulation of the FKBP5 gene via a distal enhancer element. Endocrinology,147(1),590-598.   \nMaher,B. (2008).Personal genomes: The case of the mising heritability. Nature, 456(7218),18-21.   \nMatosin, N., Halldorsdotir,T.,& Binder,E. B.(2018). Understanding the molecular mechanisms underpinning gene by environment interactions in psychiatric disorders: The FKBP5 model. Biological Psychiatry,83(10), 821-830.   \nMcEwen, B. S. (1998). Protective and damaging effcts of stress mediators. New England Journal of Medicine, 338(3), 171-179.   \nMcLaughlin,K.A.,Conron,K.J.,Koenen,K.C.,& Gilman,S.E. (2010).Childhood adversity,adult streful life events,and risk of past-year psychiatric disorder: A test of the stress sensitization hypothesis in a population-based sample of adults.Psychological Medicine,40(10),1647-1658.   \nMcLeod,B.D. Weisz, J.R.，& Wood,J. J. (2oo7).Examining the association betweenparenting and childhood depression: A meta-analysis. Clinical Psychology Review, 27(8), 986-1003.   \nMenke,A. (2019).Is the HPA axis as target for depression outdated, or is there a new hope? Frontiers in Psychiatry,10,1-8   \nMittal,C.,Griskevicius,V.,Simpson,J.A.,Sung,S.,& Young,E.S.(2015).Cognitiveadaptationstotressful environments: When childhood adversity enhances adult executive function. Journal of Personality and Social Psychology, 109(4), 604-621.   \nMoritz,S.,Jahns,A.K.,Schroder,J.,Berger,T.,Lincoln,T.M.,Klein,J.P.,& Goritz,A.S.(2016).More adaptive versus less maladaptive coping: What is more predictive of symptom severity? Development of a new scale to investigate coping profiles across different psychopathological syndromes. Journal of Affective Disorders,191,300-307.   \nMyers,H.F.,Wyatt, G.E.,Ulman,J.B.,Loeb,T.B., Chin,D.,Prause,N.,..Liu,H.(2015). Cumulativeburden of lifetime adversities: Trauma and mental health in low-SES African Americans and Latino/as. Psychological Trauma: Theory,Research, Practice,and Policy,7(3),243-251.   \nMynard,H.，& Joseph，S.(2000). Development of the multidimensional peer-victimization scale. Aggressive Behavior,26,169-178.   \nMullins,N.,Power,R.A.,Fisher,H.L.,Hanscombe,K.B.,Euesden,J.,Iniesta,R.,..Lewis,C.M.(2015). Polygenic interactions with environmental adversity in the aetiology of major depresive disorder. Psychological Medicine, 46(4),759-770.   \nNederhof,E., Ormel,J.,& Oldehinkel,A.J. (2014). Mismatch or cumulative stress: The pathway to depresionis conditional on attention style.Psychological Science,25(3),684-692.   \nNederhof,E.，& Schmidt, M. V. (2012). Mismatch or cumulative stress: Toward an integrated hypothesis of programming effects.Physiology & Behavior,106(5),691-700.   \nNederhof,E.(2012).The mismatch hypothesis of psychiatric disease.Physiology & Behavior,106(5),689-690.   \nNelemans,S.A.,Van Assche,E.,Bijtebier,P.,Colpin,H., VanLeeuwen,K., Verschueren,K.,.. Goosens,L. (2019).Parenting interacts with oxytocin polymorphisms to predict adolescent social anxiety symptom development: A novel polygenic approach. Journal of Abnormal Child Psychology, 47(7),1107-1120.   \nNormann, C.,& Butenschon, H.N. (2019). Gene-environment interactions between HPA-axis genes and stressful life events in depression: A systematic review. Acta Neuropsychiatrica,1-7.   \nOldehinkel,A.J.，Ormel,J.， Verhulst,F.C.，& Nederhof,E. (2014).Childhood adversitiesand adolescent depression: A mater of both risk and resilience.Development and Psychopathology,26(4ptl),1067-1075.   \nPagliaccio,D.,Luby,J.L.,Bogdan,R.,Agrawal,A., Gaffrey,M.S,Belden,A.C.,..Barch,D.M. (2015).HA axis genetic variation, pubertal status,and sex interact to predict amygdala and hippocampus responses to negative emotional faces in school-age children. Neurolmage,109,1-11.   \nPaquola, C.,Bennet,M.R., Hatton,S.N.,Hermens,D.F.,& Lagopoulos,J. (2017). Utility of the cumulative stress and mismatch hypotheses in understanding the neurobiological impacts of childhood abuse and recent stress in youth with emerging mental disorder. Human Brain Mapping,38(5),2709-2721.   \nPearson-Fuhrhop,K.M.,Dunn,E.C., Mortero,S.,Devan,W.J.,Falcone,G.J.,Lee,P.,..Crame,S.C.(2014). Dopamine genetic risk score predicts depressive symptoms in healthy adults and adults with depression. PLoS One, 9(5), e93772.   \nPiechaczek,C.E.,Greimel,E.,Feldmann,L.,Pehl, V.,Agaier,A.-K.,Frey,M.,.Schulte-Korme,G. (2019). Interactions between FKBP5 variation and environmental stressorsin adolescent major depression. Psychoneuroendocrinology, 106,28-37.   \nPower,R.A., Lecky-Thompson,L.,Fisher, H.L., Cohen-Woods,S.,Hosang,G. M.,Uher,R... McGuffin,P. (2013).The interaction between child maltreatment,adult stressul life events and the 5-HTTLPR in major depression.Journal of Psychiatric Research,47(8),1032-1035.   \nPrinstein,M.J.,& La Greca,A.M. (2o02).Peer crowd afiliation and internalizing distress in childhood and adolescence: A longitudinal folow-back study. Journal of Research on Adolescence,12(3),325-351.   \nRao,U.,Chen,L.A.,Bidesi, A.S.,Shad,M. U.,Thomas,M.A.,& Hammen, C.L. (2010). Hippocampalchanges associated with early-life adversity and vulnerability to depression. Biological Psychiatry, 67(4),357-364.   \nRomeo,R.D.(20l5). Perspectives on stress resilience and adolescent neurobehavioral function. Neurobiology of Stress,1,128-133.   \nSantareli,S.,Lesuis,S.L.,Wang, X.D., Wagner,K.V.,Hartmann,J.,Labermaier,C.,..Schmidt,M.V. (2014). Evidencesupportingthematch/mismatchhypothesisofpsychiatricdisorders.European Neuropsychopharmacology, 24(6), 907-918.   \nSapolsky,R.M. (20oo). Glucocorticoids and hippocampal atrophy in neuropsychiatric disorders.Archives of General Psychiatry,57(10),925-935.   \nSchleider,J.L.,& Weisz,J.R.(2017).Family processand youth intermalizing problems: A triadic model of etiology and intervention. Development and Psychopathology,29(1),273-301.   \nSchmidt,M. V. (2011). Animal models for depresson and the mismatch hypothesis of disease. Psychoneuroendocrinology，36(3),330-338.   \nSchoeler,T.,Duncan,L., Cecil, C.M.,Ploubidis,G.B.,&Pingault,J.-B. (2018). Quasi-experimental evidence on short- and long-term consequences of bullying victimization: A meta-analysis. Psychological Bulletin, 144, 1229-1246.   \nShapero,B. G.,Black,S.K.,Liu,R.T.,Klugman,J.,Bender,R.E.，Abramson,L. Y.,& Aloy,L.B. (2013). Stressul life events and depression symptoms: The effect of childhood emotional abuse on stress reactivity. Journal of Clinical Psychology，70(3),209-223.   \nStarr, L.R., Hammen,C., Conway, C.C.,Raposa,E.,& Brennan,P.A. (2014). Sensitizing efect of early adversity on depressive reactions to later proximal stress: Moderation by polymorphisms in serotonin transporter and corticotropin releasing hormone receptor genes in a 2O-year longitudinal study. Development and Psychopathology,26(4pt2),1241-1254.   \nSteinberg,L. (2014). Adolescence. 10th ed. New York,NY: McGrawHill.   \nStocker,C.M.,Masarik,A.S., Widaman,K.F.,Reeb,B.T.,Boardman,J.D.,Smolen,A.,..Conger,K.J. (2017). Parenting and adolescents’psychological adjustment: Longitudinal moderation by adolescents’genetic sensitivity. Development and Psychopathology, 29(4),1289-1304.   \nTenenbaum,H.R.,& Leaper, C.(2Oo3). Parent-child conversations about science: The socialization of gender inequities?Developmental Psychology,39,34-47.   \nTyrka,A.R., Ridout, K.K.,Parade,S.H.,Paquette,A.,Marsit, C.J.,& Seifer,R.(2015). Childhood maltreatment and methylation of FK506 binding protein 5 gene (FKBP5). Development and Psychopathology，27(4pt2), 1637-1645.   \nvan Bodegom，M.，Homberg，J.R.，& Henckens，M.J.A．G.(2017).Modulation ofthe Hypothalamic-Pituitary-Adrenal axis by early life stress exposure.Frontiers in Cellular Neuroscience,19(11), 87.   \nvan der Doelen,R. H.A.,Kozicz,T.,& Homberg,J.R. (2013).Adaptive fitness; early life adversity improves adult stress coping in heterozygous serotonin transporter knockout rats. Molecular Psychiatry，18(12), 1244-1245.   \nVinkers,C.H.,Joels,M.,Milaneschi,Y.,Kahn,R.S.,Penninx,B.W.,&Boks,M.P.(2014).Stress exposure across the life span cumulatively increases depression risk and is moderated by neuroticism. Depression and Anxiety, 31(9), 737-745.   \nVrshek-Schallhorn,S.,Stroud, C.B.,Mineka,S.,Zinbarg,R.E,& Craske,M. G. (2015).Additive geneticrisk from five serotonin system polymorphisms interacts with interpersonal stress to predict depression.Journal of Abnormal Psychology, 124(4),776-790.   \nWade,M.，Moore,C.，Astington,J.W.,Frampton,K.，& Jenkins,J.M.(2015). Cumulative contextual risk, maternal responsivity,and social cognition at18 months.Development and Psychopathology, 27(1),189-203.   \nWang,M.,Tian, X.,& Zhang, W. (2020). Interactions between the combined genotypes of 5-HTTLPR and BDNF Val66Met polymorphisms and parenting on adolescent depressive symptoms: A three-year longitudinal study. Journal of Affective Disorders,265,104-111.   \nWang,M.P., Zheng, X. J., Xia,G. Z.,Liu,D.D., Chen,P.,& Zhang, W. X. (2019). Association between negative life events and early adolescents’depresion: The moderating effects of Catechol-O-methyltransferase (COMT) gene Val158Met polymorphism and parenting behavior. Acta Psychologica Sinica, 51(8), 903-913.   \n[王美萍，郑晓洁，夏桂芝，刘迪迪，陈翩，张文新.(2019).负性生活事件与青少年早期抑郁的关系：COMT 基因Val158Met 多态性与父母教养的调节作用．心理学报,51(8),903-913.]   \nWang, Q., Shelton,R. C.,& Dwivedi, Y.(2018). Interaction between early-life stress and FKBP5 gene variants in major depressve disorder and post-traumatic stress disorder: A systematic review and meta-analysis. Journal of Affective Disorders, 225,422-428.   \nWhite,M.G.,Bogdan,R.,Fisher,P.M.,Munoz,K.E.,Williamson,D.E.,& Hariri,A.R.(2012).FKBP5 and emotional neglect interact to predict individual diferences inamygdala reactivity. Genes,Brain and Behavior, 11(7), 869-878.   \nWoolley，, C. S.，Gould,E.，& McEwen，B.S.(1990). Exposure to excess glucocorticoids alters dendritic morphology of adult hippocampal pyramidal neurons. Brain Research, 531(1-2),225-231.   \nWu,W.,Lu,Y.,Tan,F.,Yao,S.,Steca,P.,Abela,J.R.,&Hankin,B.L. (2012).Assessing measurement invariance of the Children's Depression Inventory in Chinese and Italian primary school student samples. Assessment, 19, 506-516.   \nYap,M.B.H.，& Jorm,A.F.(2015).Parental factors associated with childhood anxiety，depression,and internalizing problems: A systematic review and meta-analysis.Journal of Affective Disorders,175,424-440.   \nZalosnik,M.I.,Pollano,A.,Trujill,V.,Suarez,M.M.,&Durando,P.E.(2014).Effectof maternal separatioand chronic stress on hippocampal-dependent memory in young adult rats: Evidence for the match-mismatch hypothesis. Stress, 17(5),445-450.   \nZanas,A. S.,& Binder, E. B.(2013). Gene-environment interactions at the FKBP5 locus: Sensitive periods, mechanisms and pleiotropism. Genes, Brain and Behavior,13(1),25-37.   \nZhang,L.,Li, Z., Chen,J.,Li,X., Zhang,J.,& Belsky,J. (2016). The BDNF Val66Met polymorphism interacts with maternal parenting influencing adolescent depressive symptoms: Evidence of differential susceptibility model. Journal of Youth and Adolescence, 45(3), 471-483.   \nZimmermann,P.,Bruickl,T.,Nocon,A.,Pfister,H.,Binder,E.B., Uhr,M.,..Ising,M. (2011).Interactionof FKBP5 gene variants and adverse life events in predicting depression onset: Results from a l0-year prospective community study. American Journal of Psychiatry, 168(10), 1107-1116. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The Influence of Maternal Negative Parenting, Peer Victimization and FKBP5 Gene on Adolescent Depressive Symptoms ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "TIAN Xiangjuan; CAO Yanmiao; ZHANG Wenxin ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofPsychology,ShandongNormal University,Jinan25oo14,China, ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Depression is one of the most prevalent mental health problems during adolescence. Research has indicated that distal stress and proximal stress as well as their interaction are important predictors of adolescent depressve symptoms. There are two different hypotheses — cumulative stress hypothesis and match-mismatch hypothesis — to understand the interaction between distal stress and proximal stress. It has been suggested that an individual's genetic susceptibility may determine which of these two hypotheses is relevant, but very little empirical research has considered the impact of genetic predisposition on these issues. Furthermore, recent researchers have paid attention to the cumulative genetic score (CGS) of multiple loci rather than to single polymorphism. The present study was designed to extend prior research by exploring whether the interaction effects of distal maternal negative parenting and proximal peer victimization were consistent with the cumulative stress hypothesis or the match-mismatch hypothesis， for adolescents who carried higher or lower CGS of FKBP5 gene. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In this study, 970 adolescents ( $4 8 . 8 \\%$ male) were followed from Grade6 to Grade 9.At T1 $( M _ { \\mathrm { a g e } } = 1 2 . 3 1$ years, $S D = 0 . 4 7$ ), adolescent depressive symptoms were assessed using Children's Depression Inventory (CDI). Mothers reported their negative parenting via the Chinese version of Child-Rearing Practices Report (CRPR). At T2 $\\langle M _ { \\mathrm { a g e } } = 1 5 . 3 2$ years, $S D = 0 . 4 7$ ), saliva samples of adolescents were collected and genotyped for three FKBP5 gene polymorphisms. Peer victimization and depressive symptoms were tested using Multidimensional Peer Victimization Scale (MPVS) and CDI, respectively. A series of hierarchical regressions and internal replication analyses were conducted to test the three-way interaction among maternal negative parenting, peer victimization and CGS of FKBP5 on depressive symptoms， separately for male and female adolescents. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The results showed that, after T1 depressve symptoms were controlled for, maternal negative parenting, peer victimization and CGS had a significant three-way interaction on male adolescent depressive symptoms at T2. Specifically, among male adolescents who had higher CGS, maternal negative parenting negatively predicted depressive symptoms in the context of higher peer victimization, which fitted beter with the match-mismatch hypothesis.The interaction between negative parenting and peer victimization was not significant among males with lower CGS, but showed a cumulative stress trend.The three-way interaction was not observed among females. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "By examining the interaction effect of maternal negative parenting, peer victimization and CGS on depressive symptoms, the present study highlights the important role of individuals' genetic susceptibility in understanding the distal and proximal stress interactions during adolescence. This underscores the complex environmental and multiple loci underpinnings of depressive symptoms and lends some support for both the cumulative stress and match-mismatch hypotheses on the etiology of depressive symptoms. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Key wordsmaternal negative parenting; peer victimization; FKBP5 gene; adolescent depressive symptoms; cumulative stress hypothesis;match-mismatch hypothesis ",
+        "page_idx": 23
+    }
+]

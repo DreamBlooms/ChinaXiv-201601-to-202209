@@ -1,0 +1,183 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of annealing on Cu precipitates in H ion irradiated Fe",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$0 . 6 \\%$ Cu studied by positron annihilation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shuoxue Jin a, Peng Zhang a, Eryang Lu a, Baoyi Wang ä, Daqing Yuanb, Long Wei a, Xingzhong Cao a, \\*   \na Multi-discipline Research Center, Institute of High Energy Physics, Chinese Academy of Sciences, 100049, Beijing, China bChina Institute of Atomic Energy, Beijing 102413, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fe- $. 0 . 6 \\% \\mathrm { C u }$ alloy was irradiated with H ions to O.1 dpa, and then annealed for 30 min from $1 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ to $5 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ .We focused the evolution of $\\mathrm { C u }$ precipitates in irradiated F $\\mathrm { e { - } 0 . 6 \\% C u }$ alloy after the isochronal annealing from the perspective of positron annihilation. The $\\Delta \\mathbb { W }$ parameters after thermal annealing ( $4 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ and $5 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } ) }$ ）were much larger than that induced by O.1 dpa H irradiation. Annealing could promote the aggregation of the Cu-vacancy complexes，and form the Cu cluster-vacancies complexes. When the vacancy-like defects recovered around $5 0 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ，it meant the formation and growing of the defect-free Cu precipitates. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cu precipitate; H ion irradiation; Positron annihilation; FeCu alloy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In our previous report[1],we studied the correlation between $\\mathrm { C u }$ precipitates and irradiation defects in Fe-Cu alloys.The Cu precipitate was origin from the formation of the Cu-vacancy complexes,and the coarsening depended on the growth of vacancy-like defects. In Zhang et al.[2], we recently published a paper of our results concerning the effect of annealing on $\\mathrm { \\Delta V _ { m } H _ { n } }$ complexes in H ion irradiated $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ alloy. We mainly described the interaction between $\\mathrm { ~ H ~ }$ and vacancy-like defects.However, the ultrafine $\\mathtt { C u }$ precipitate is an origin of the irradiation-induced embrittlement, which is considered as one of the menaces to the reactor safety [3]. It has long been known that the small bcc $\\mathrm { c u }$ precipitates are initially coherent with the bcc Fe matrix [4, 5]. The size and composition of the small $\\mathrm { C u }$ precipitates in both model alloys and steels were extensively examined using atom probe [6-9], small angle neutron scattering [6,10, 11] and transmission electron microscopy (TEM) [4,6,12, 13]. In the present paper, we report a powerful method to examine the evolution of small Cu precipitate which uses the positron as a probe. As well known，positron is not only a sensitive probe for vacancy-like defects. What's more, it could be trapped by nanosize embedded particles (for instance, the Cu precipitates of ${ \\sim } 1 \\ \\mathrm { n m } \\ '$ ) in materials [3,5]. Cu precipitates are easily formed in Fe-Cu alloy during thermal aging and high-energy particle irradiation. Ion beams are very efficient tools for the simulation of the radiations produced in nuclear reactors. Heavy-ion damage took the form of dislocation loops in pure Fe and A533B steel irradiated with the dose of ${ \\sim } 1$ dpa at ${ \\sim } 3 0 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ [14,15]. A large number of tiny dislocation loops appeared in pure Fe irradiated with ${ \\sim } 1 . 4 2$ dpa D ion at room temperature [16].However,once the $\\mathrm { \\Delta D }$ ion irradiation fluence decreases to $1 \\times 1 0 ^ { 1 9 }$ （20 $\\mathrm { D } _ { 2 } { ^ + } / \\mathrm { m } ^ { 2 }$ (\\~0.1 dpa) at room temperature, no obvious dislocation loop formed in the Fe9Cr alloys [17]. In our previous experiment, the Ni-base alloy C-276 was irradiated by ${ \\sim } 1 2 0 \\mathrm { k e V }$ argon ions at room temperature. Compared to the unirradiated sample, there was no obvious change at O.28 dpa in TEM results.Until to the $0 . 8 \\mathrm { d p a }$ , many tiny black spots appeared in the specimen [18].For the Cu precipitate in Fe-Cu alloy, there should be important differences between irradiation microstructural development at room temperature and at elevated temperatures.At elevated irradiation temperature of $3 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ Xu et al. established that ultrafine $\\mathtt { C u }$ precipitates are nucleated before the formation of vacancy clusters [19],and such conclusions are probably not applicable to room temperature irradiations. In the present paper， we discuss the difference for $\\mathrm { C u }$ precipitates between induced by low dose H ion irradiation at room temperature and by thermal aging from the perspective of positron annihilation. The evolution of $\\mathtt { C u }$ precipitates in irradiated $\\mathrm { F e - } 0 . 6 \\% \\mathrm { C u }$ alloy after the isochronal annealing is investigated by the Doppler broadening (DB） spectra based on a slow positron beam. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The model alloy, Fe- $- 0 . 6 \\% \\mathrm { C u }$ alloy, was also melted from Fe $( 9 9 . 9 9 \\%$ purity)and Cu $( 9 9 . 9 9 9 \\%$ purity） in vacuum using a high-frequency induction furnace.The experimental methods and the preparation of the specimen were the same with the previous report [2]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3143f9679425315ec900cc8bf0c8cca2c0afe974c57933dbc653bfdbfe131337.jpg",
+        "img_caption": [
+            "Fig.1. SRIM calculated damage and deposition profiles for H ion irradiated Fe- $0 . 6 \\%$ Cu alloy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The specimen was irradiated with $1 0 0  { \\mathrm { ~ k e V } }  { \\mathrm { ~ H ~ } }$ ions to a dose of O.1 dpa at room temperature,and the current density was ${ \\sim } 2 \\mu \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ . The damage distribution and H atom deposition profiles calculated by SRIM-2O08 are shown in Fig. 1，where the displacement energy was $4 0 \\mathrm { e V . }$ The damage rate is about $5 . 5 \\times 1 0 ^ { - 5 } \\mathrm { d p a / s }$ .The 0.1 dpa irradiated specimen was annealed isochronally for $3 0 ~ \\mathrm { { m i n } }$ in a vacuum of $1 0 ^ { - 5 } \\mathrm { { P a } }$ ，and the annealing temperatures were at $1 5 0 ~ ^ { \\mathrm { o } } \\mathrm { C }$ ， $2 0 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ， $3 0 0 ^ { \\mathrm { ~ o } } \\mathrm { C }$ ， $4 0 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ and $5 0 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ respectively. Positron annihilation DB spectra were performed to characterize the evolution of small Cu precipitates and the vacancy-like defects. S represents the smaller Doppler shift resulting from the annihilation of valence electrons.Thus,compared to a well-annealed sample, the increase in S for the post-irradiated one comes from the annihilation at vacancy-like defects. W comes from the annihilation with $\\mathrm { C u } 3 \\mathrm { d }$ electrons, which is used to estimate the density of Cu atoms around positrons when they are annihilated. The presents of vacancy-like defects and $\\mathrm { C u }$ precipitates are represented by the relative S and W parameter, i.e.，( $\\Delta \\mathrm { S } = \\mathrm { S } _ { \\mathrm { n } } - \\mathrm { S } _ { \\mathrm { \\ell } }$ not irradiated） and $( \\Delta \\mathsf { W } = \\mathsf { W _ { n } } - \\mathsf { W _ { n } }$ ot irradiatede), respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dependence of the $\\Delta \\mathsf { S }$ parameter on positron energy for $\\mathrm { F e - } 0 . 6 \\% \\mathrm { C u }$ alloy irradiated at O.1 dpa indicates that no expected peak formed in Fig. 2a, which is due to the vacancies were occupied by $\\mathrm { ~ H ~ }$ atoms.Alarger number of H atoms deposited at the damage area, and the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes were considered to dominate the microstructure in $\\mathrm { F e - } 0 . 6 \\% \\mathrm { C u }$ alloy after O.1 dpa irradiation.D atoms were trapped by vacancies, which could decrease the S parameter in $\\mathrm { C u }$ ion irradiated W alloy [2O]. Similarly, Troev et al. indicated that the lifetime of vacancies decreased after trapping H atoms [21]. Thus, the formation of the $\\mathrm { { V } _ { m } \\mathrm { { H } _ { n } } }$ complexes would affect the annihilation of positrons with the electrons at vacancy defects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A predicted evident $\\Delta \\mathsf { S }$ peak appeared in the damage region after annealing treatment. Annealing could desorb the H atoms,and residual vacancy defects would increase the $\\Delta \\mathsf { S }$ parameter. Compared to the O.1 dpa specimen，the $\\Delta \\mathsf { S }$ parameter increased after annealing at $1 5 0 ^ { \\circ } \\mathrm { C }$ ，and it continued increasing at $2 0 0 ^ { \\circ } \\mathrm { C }$ (see Fig. 2a). However, the decrease of $\\Delta \\mathsf { S }$ means that a small quantity of vacancy-like defects began to recovery at $3 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ . Ono et al. reported that most of $\\mathrm { ~ D ~ }$ atoms were released at ${ \\sim } 2 0 0$ （204号 $^ \\mathrm { { { \\circ } } } \\mathrm { { C } }$ from an $\\mathrm { ~ D ~ }$ ion irradiated Fe-9Cr-2W ferritic alloy [22]. Thus, most of the H atom can easily escape from vacancy-like defects at ${ \\sim } 2 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ，but most of the vacancy-like defects still stay in the alloys.The evolution of the vacancy-like defect is not influenced by H atoms at above $2 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ The $\\mathrm { ~ H ~ }$ atom desorption indicates that the vacancies and the vacancy clusters were considered to dominate the microstructure after annealing at $2 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ . The rapidly shrinkage of vacancy clusters by dissociating their vacancies at $4 0 0 ^ { \\circ } \\mathrm { C }$ facilitated the $\\Delta \\mathsf { S }$ decrease (see the magenta line in Fig. 2a). The $\\Delta \\mathsf { S }$ parameters continued decreasing during the annealing temperature from $4 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ to $5 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ Ishizaki et al. pointed out that the thermal decomposition of the vacancy-like defects in Fe induced by H ion irradiation finished completely between $3 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ and $4 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ [23]. For the positron energy range above ${ \\sim } 1 2 \\ \\mathrm { k e V } ,$ as shown in Fig. 2a (wine curve), the S parameter in the post-irradiated specimen after annealing at $5 0 0 ^ { \\circ } \\mathrm { C }$ for $0 . 5 \\mathrm { h }$ recovered nearly to the result before irradiation. This means that mostly of the vacancy-like defects were complete disappearance after annealing at $5 0 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition, the dependence of the $\\Delta \\mathsf { S }$ parameter on positron energy in Fig. 2a also shows that the peak in $\\Delta \\mathrm { S - E }$ curve appeared and moved closer to the surface as the annealing temperature increases. The vacancy-like defects gradually recovered with the increasing annealing because of the vacancy dissolution from the vacancy-like defects. Some of the vacancies would anneal out due to occupation of interstitial atoms. However, according to the vacancy migration mechanism, partly of vacancies would migrate towards to surface region and the opposite direction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b716f596bd34184480489dbc95c9a5dc1b042b45f7e627d273af06fcd992d8ac.jpg",
+        "img_caption": [
+            "Fig. 2. △S-E (a) and $\\Delta \\mathrm { W } { \\cdot } \\mathrm { E }$ curves (b) in O.1 dpa H ion irradiated $\\mathrm { F e - } 0 . 6 \\% \\mathrm { C u }$ alloy annealed isochronally, and the annealing temperature were $1 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ $2 0 0 ^ { \\circ } \\mathrm { C }$ $3 0 0 ^ { \\circ } \\mathrm { C }$ ，400 $^ \\mathrm { { { \\circ } } } \\mathrm { { C } }$ and $5 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ , respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2b shows the △W-E(△W parameter-positron energy) curves for $\\mathrm { F e - } 0 . 6 \\mathrm { C u } \\%$ alloy irradiated at O.1 dpa and annealed at different temperatures. The positron is a sensitive tool for detecting the $\\mathtt { C u }$ precipitates，and it is reported that a coherent precipitate only containing five Cu atoms can trap the positron [3]. Slightly increase of the $\\Delta \\mathsf { W }$ parameter was in the O.1 dpa irradiated specimen (see the Fig.2b). The increase of the $\\Delta \\mathsf { W }$ parameter can be observed only when the positrons are annihilated with the Cu core electrons. As we known that vacancies induced by irradiation are trapped by Cu atoms to form Cu-vacancy complexes when they encountered $\\mathtt { C u }$ impurity atoms [19,24]. The Cu-vacancy complexes would move at room temperature according to the vacancy migration mechanism. Subsequently, they lead to the formation of the vacancy clusters surrounded by ultrafine $\\mathrm { C u }$ precipitates (i.e. Cu cluster-vacancies complexes). It is not different from the Cu precipitate formation at elevated irradiation temperature [19]. Once positrons are trapped by vacancy clusters, they are annihilated with the $\\mathrm { C u }$ core electrons. The amplitude of the W parameter is proportional to the $\\mathtt { C u }$ atom coverage fraction of vacancy-like defects [1]. Thus, the increase of the $\\Delta \\mathbf { W }$ parameter in O.1 dpa irradiated $\\mathrm { F e - } 0 . 6 \\% \\mathrm { C u }$ suggests the formation of ultrafine $\\mathrm { C u }$ precipitates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After annealing at $1 5 0 ^ { \\circ } \\mathrm { C }$ and $2 0 0 ^ { \\circ } \\mathrm { C }$ ,the $\\Delta \\mathsf { W }$ parameters decreased sharply, and then they increased with the increasing of annealing temperature $( 3 0 0 ^ { \\circ } \\mathrm { C } )$ ， $4 0 0 ^ { \\circ } \\mathrm { C }$ and $5 0 0 ^ { \\circ } \\mathrm { C } )$ . As we discussed above,the annealing can desorb H atoms and recover vacancy-like defects. And, more remarkable, thermal annealing/aging also enhances the $\\mathrm { C u }$ precipitates [25]. The changes in S and $\\mathbf { W }$ are not independent, and S and W values are in an irrigorous inverse relationship in generally. Thus, the $\\Delta \\mathrm { W }$ parameters for the annealing at $1 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ ， $2 0 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ^ { \\circ } \\mathrm { C }$ were negative due to the observably increase of the $\\Delta \\mathsf { S }$ parameters,and the dependence of the $\\Delta \\mathrm { W }$ parameter on positron energy was also related to the change of the $\\Delta \\mathrm { S - E }$ curves.The $\\mathtt { C u }$ precipitate behavior in Fe-Cu alloy thermally aged at below $3 0 0 ^ { \\circ } \\mathrm { C }$ ,of course,was not obvious.However, with annealing temperature increase to $4 0 0 ^ { \\mathrm { { o } C } }$ and $5 0 0 ^ { \\mathrm { { o } C } }$ ，the $\\Delta \\mathrm { W }$ parameters were larger than that of only irradiated specimen. It means the $\\mathtt { C u }$ precipitate phenomenon has enhanced, which was considered to dominate the microstructure after annealing at $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ and $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ .First, thermal annealing/aging could facilitate the aggregation of the Cu-vacancy complexes，and increase the Cu precipitate size. Second， the recovery/dissociation of the vacancy from vacancy clusters at above $4 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ would increase $\\mathtt { C u }$ atom coverage fraction of vacancy-like defects.Finally, it leads to the formation and growth of Cu precipitates free from vacancies due to the nearly complete recovery of vacancy-like defects at $5 0 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b879e5a106a2403d644b47fc30ede0ff6a308a6d87f206fdc1261c9276f19a0b.jpg",
+        "img_caption": [
+            "Fig. 3.S versus W plots for the irradiated sample annealed at different temperature, and the (S,W) points of unirradiated sample also included. The gather of (S, W) points are marked by ellipses a, b and c,and they represents the gather region of vacancy-like defects at $1 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ $2 0 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ^ { \\circ } \\mathrm { C }$ ,respectively. The surface region of $0 { \\sim } 1 0 ~ \\mathrm { n m }$ was also indicated by the dashed ellipse. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "S-W correlation represents positron annihilation mechanism after trapped (see Fig. 3). We mainly focused the depth range of $1 0 \\ \\mathrm { n m } \\sim 6 1 1 \\ \\mathrm { n m }$ , and neglected the surface region, as indicated by dashed ellipse. Compared to the unirradiated specimen, the slope of 0.1 dpa sample was the same with the unirradiated one (lines 1 and 2). But the range of (S,W) points for O.1 dpa specimen was slightly increasing along with the increasing positron energy,which further means that the ultrafine $\\mathtt { C u }$ precipitates formed by irradiation. With the annealing temperature increasing, all the ranges of (S,W） points for $1 5 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ $2 0 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ^ { \\circ } \\mathrm { C }$ annealing (lines 3,4 and 5) became narrower compared to the unirradiated one. The gather of (S, W) points in the ellipses a, b and c indicated the formation of vacancy clusters,and they were surrounded by ultrafine $\\mathrm { C u }$ precipitates. With the increasing of annealing temperature, the gather region of (S,W） points migrated to the surface region,and rapidly shrinkage of vacancy clusters took place at $4 0 0 ~ ^ { \\mathrm { { o } } } \\mathrm { { C } }$ 、Once the vacancy-like defects has recovered, the ultrafine $\\mathtt { C u }$ precipitates would aggregate together. As the annealing increased from $4 0 0 ^ { \\circ } \\mathrm { C }$ to $5 0 0 ^ { \\circ } \\mathrm { C }$ ,the slope and the range of(S,W） points (line 7) increased obviously,which indicated that $\\mathrm { C u }$ precipitates coarsened further. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Iradiation can lead to the formation of the Cu-vacancy complexes,and their migration and aggregation come to the vacancy clusters surrounded by ultrafine $\\mathtt { C u }$ precipitates. The recovery/annihilation of the vacancy dissolution from vacancy clusters at above $4 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ would enhance the Cu atom coverage fraction of vacancy-like defects,which increased the W parameters. The annealing at $5 0 0 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ would induce to formation and growing of the defect-free Cu precipitates. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Natural Science Foundation of China (91026006,91226103,11475193,11475197,11575205 and 11505192) and Beijing Natural Science Foundation (1164017). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] S.X. Jin, P. Zhang, E. Y.Lu,L. P. Guo, B. Y. Wang, X. Z. Cao, Correlation between Cu precipitates and irradiation defects in Fe-Cu model alloys investigated by positron annihilation spectroscopy,Acta Mater. 103 (2016) 658.   \n[2] P. Zhang, S. X. Jin, E. Y. Lu, B. Y. Wang, Y. N. Zheng, D. Q. Yuan, X. Z. Cao, Effect of annealing on VmHn complexes in hydrogen ion irradiated Fe and Fe$0 . 3 \\% \\mathrm { C u }$ alloys, J. Nucl. Mater. 459 (2015) 301.   \n[3] Y. Nagai, Z. Tang,M. Hassegawa, T. Kanai, M. Saneyasu, Irradiation-induced Cu aggregations in Fe: An origin of embrittlement of reactor pressure vessel steels, Phys.Rev.B 63(2001) 134110.   \n[4] R. Monzen, M. Iguchi, M. L. Jenkins, Structural changes of 9R copper precipitates in an aged Fe-Cu alloy, Phil. Mag. Lett. 80 (2000) 137.   \n[5] Z. Tang, M. Hasegawa, Y. Nagai, M. Saito, Density functional study on metastable bcc copper: Electronic structure and momentum density of positron-electron pairs, Phys.Rev.B 65 (2002) 195108.   \n[6] J. M. Hyde,C. A. English,An Analysis of the Structure of Irradiation induced Cuenriched Clusters in Low and High Nickel Welds,MRS Proceedings 650 (2000) R6.6.   \n[7] T.Tobita, S. Nakagawa, T. Takeuchi, M. Suzuki,N. Ishikawa, Y. Chimi, Y. Saitoh, N.Soneda,K.Nishida, S. Ishino，A. Iwase,Effects of irradiation induced Cu clustering on Vickers hardness and electrical resistivity of Fe-Cu model alloys, J. Nucl. Mater. 452 (2014) 241.   \n[8] J.E. Zelenty, Understanding thermally induced embrittlement in low copper RPV steels utilising atom probe tomography, Mater. Sci. Tech. 31 (2015) 981.   \n[9] P.Auger,P. Pareige,S. Welzel, J. C. Van Duysen， Synthesis of atom probe experiments on irradiation-induced solute segregation in French ferritic pressure vessel steels, J. Nucl. Mater. 280 (2000) 331.   \n[10] Y. S. Han, D.G. Park, S. Kobayashi, Small Angle Neutron Scattering Study of Nano Sized Precipitates in Ferrous Alloys, J. Nanosci. Nanotechno. 15 (2O15) 8608.   \n[11] M.Schober,E.Eidenberger,H.Leitner,P. Staron,D.Reith,R.Podloucky，A critical consideration of magnetism and composition of (bcc) Cu precipitates in (bcc) Fe,Appl.Phys. a-Mater. 99 (2010) 697.   \n[12] S.Lozano-Perez, J.M. Titchmarsh, M. L. Jenkins, Determination of the Fe content of embedded Cu-rich particles in ferritic alloys using energy-filtered TEM, Ultramicroscopy 106 (2006) 75.   \n[13] L. Wang, W. Wang, B. L. Chen, X. Y. Zhou, Z. W. Li, B. X. Zhou, L. M. Wang, High-resolution electron microscopy observation and dislocation reaction mechanism of fivefold twinning in a Cu-rich precipitate in a cold rolled ferritic steel containing copper, Mater. Charact. 95 (2014) 12.   \n[14] S. Xu, Z. Yao,M.L. Jenkins,TEM characterisation of heavy-ion irradiation damage in FeCr alloys, J. Nucl. Mater. 386-88(2009) 161.   \n[15] K. Fujii, K. Fukuya, Characterization of defect clusters in ion-irradiated A533B steel, J. Nucl. Mater. 336 (2005) 323.   \n[16] P.P.Liu, Y.M. Zhu, M. Z. Zhao, S. N. Jiang, C. X. Liu, Y. M. Wang,F.R. Wan, S. Ohnuki,Q. Zhan, The effect of isotope on the dynamic behavior of $< 1 0 0 >$ vacancy-type dislocation loop in deuterium-implanted Fe, Fusion Eng. Des.95 (2015) 20.   \n[17] H. Iwakir, M. Tani, Y. Watanabe,N. Yoshida, Radiation damage and deuterium trapping in deuterium-ion-irradiated Fe-9Cr alloy,J. Nucl. Mater. 444 (2014) 138.   \n[18] S. X. Jin, L. P. Guo, Z. Yang, D. J. Fu, C. S. Liu, W. Xiao, R. Tang, F. H. Liu, Y. X. Qiao, Microstructural evolution in nickel alloy C-276 after $\\mathbf { A r } +$ ion irradiation, Nucl. Instrum. Meth. B 269 (2011) 209.   \n[19] Q. Xu, T. Yoshiie, K. Sato, Dose dependence of Cu precipitate formation in FeCu model alloys irradiated with fission neutrons,Phys. Rev.B 73 (2OO6) 134115.   \n[20] Q. Xu, K. Sato, X. Z. Cao, P. Zhang, B. Y. Wang, T. Yoshiie, H. Watanabe, N. Yoshida, Interaction of deuterium with vacancies induced by ion irradiation in W, Nucl. Instrum. Meth. B 315 (2013) 146.   \n[21] T. Troev, E. Popov,P. Staikov, N. Nankov,T. Yoshiie, Positron simulations of defects in tungsten containing hydrogen and helium, Nucl. Instrum. Meth. B 267 (2009) 535.   \n[22] K. Ono, M.Miyamoto,F. Kudo, Release of deuterium from irradiation damage in Fe-9Cr-2W ferritic alloy irradiated with deuterium ions, J. Nucl. Mater. 452 (2014) 46.   \n[23] T. Ishizaki, Q. Xu, T. Yoshiie, S. Nagata, The recovery of gas-vacancy-complexes in Fe irradiated with high energy H or He ions,Mater. Trans. 45 (2004) 9.   \n[24] Q. Xu, T. Yoshiie, Effects of damage rate on Cu precipitation in Fe-Cu model alloys under neutron irradiation, Philos. Mag. 91 (2O11) 3716.   \n[25] Y.Nagai, M. Hasegawa, Z. Tang,A. Hempel, K. Yubuta, T. Shimamura, Y. Kawazoe，A. Kawai， F. Kano,Positron confinement in ultrafine embedded particles: Quantum-dot-like state in an Fe-Cu alloy,Phys. Rev.B 61 (20OO) 6574. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

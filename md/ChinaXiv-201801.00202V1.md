@@ -1,0 +1,215 @@
+# DOI: 10.5846/stxb201611122308
+
+李建洋,赵月,谢宁栋,王雅琼,冷科明,陈子熙,汪光义.深圳近海表层浮游细菌分布特征及其环境影响因素.生态学报,2017,37（24):8567-8577.LiJY,ZhaoY,iZececin the coastal surface waters of Shenzhen.Acta Ecologica Sinica,2O17,37(24）:8567-8577.
+
+# 深圳近海表层浮游细菌分布特征及其环境影响因素
+
+李建洋1,²，赵月¹，谢宁栋¹，王雅琼¹，冷科明³，陈子熙4，汪光义1，\*
+
+1天津大学环境学院，天津300072  
+2 国家海洋局第三海洋研究所，厦门361005  
+3 深圳市海洋与渔业环境监测站，深圳518067  
+4天津大学化工学院，天津300072
+
+摘要：于2015年3月、5月、8月和10月在深圳市近岸海域(珠江口、深圳湾和大亚湾)采集表层水样,利用流式细胞仪测定总浮游细菌、高DNA含量亚群细菌（HNA）、低DNA 含量亚群细菌(LNA)的丰度,分析它们的时空分布特点,阐释环境因子对浮游细菌时空分布格局的影响。结果表明,珠江口、深圳湾和大亚湾海域表层浮游细菌的平均丰度依次降低,分别为 $3 . 8 2 \times 1 0 ^ { 6 }$ 个/$\mathrm { \ m L } \setminus 7 . 6 7 \times 1 0 ^ { 6 }$ 个 $' _ { \mathrm { m L } }$ 和 $3 . 3 8 \times 1 0 ^ { 6 }$ 个 $\mathrm { ^ { \prime } m L }$ 。珠江口海域浮游细菌丰度由远岸到近岸递增,深圳湾海域湾内各站位浮游细菌丰度差异较小,大亚湾海域浮游细菌丰度空间差异不显著( $\begin{array} { r } { P > 0 . 0 5 \ ' } \end{array}$ )。浮游细菌丰度时间差异主要受温度影响，空间差异主要受营养盐和叶绿素a影响。HNA亚群丰度时空差异性比LNA 亚群的大,HNA 亚群受温度影响显著( $\left( P < 0 . 0 1 \right)$ ），而LNA亚群与温度相关性不显著( $\vert P > 0 . 0 5 )$ 。环境对 HNA和LNA亚群丰度的影响有许多相似之处,但两者对某些环境因子有着不同的响应,说明它们在近海表层生态系统中可能扮演着部分重叠但略有不同的角色。
+
+关键词：深圳;近岸海域;流式细胞技术；浮游细菌;HNA亚群;LNA亚群
+
+# Distribution characteristics of bacterioplankton and effect of environmental factors in the coastal surface waters of Shenzhen
+
+LIJianyang1,²，ZHAO Yue’，XIENingdong1，WANGYaqiong'，LENG Keming³，CHENZixi4, WANG Guangyi1, \*
+
+1 School of Environment Science and Engineering，Tianjin University,Tianjin 3Ooo72,China   
+2Third Institute of Oceanography，State Oceanic Administration,Xiamen 361Oo5,China   
+3Shenzhen Marine and Fisheries Environment Monitoring Station,Shenzhen 518O67,China   
+4School ofChemical Engineeringand Technology，Tianjin University，Tianjin 30o072,China
+
+Abstract：Inmarineecosystems，thedistributionpaternandabundanceof bacterioplanktonaredirectlyrelatedto environmental conditions.Inorderto studytheefectof environmentalfactorsonbacterialabundance,surface watersamples were collcted in March，May，August，and October 2O15 from three coastal regions namely，the Pearl River Estuary, Shenzhen Bayand Daya Bay in Shenzhen，China.The abundance of bacterioplankton，bacteria with high DNA content (HNA subgroup bacteria）and bacteria with low DNA content（LNA subgroup bacteria）inthecoastal watersof Shenzhen were measuredbyflowcytometrytoanalyze their temporal and spatialdistributionpaernandto explore theirresponses to environmental factors.The results showed that theaverage abundance of bacterioplankton in Shenzhen Bay( $7 . 6 7 \times 1 0 ^ { 6 }$ （204号 cells/mL），the Pearl River Estuary ( $3 . 8 2 \times 1 0 ^ { 6 }$ cells/mL），and Daya Bay （ $3 . 3 8 \times 1 0 ^ { 6 }$ cells/mL） had a decreasing trend.
+
+The abundanceof bacterioplankton inthe Pearl River Estuary increased from far coast to nearcoast sites；however,there were no significant differences in abundance among the sites in Shenzhen Bay ( $P > 0 . 0 5$ ）andDayaBay( $P > 0 . 0 5$ ). The temporal variation inbacterioplanktonabundance in the threeregionswasmainlyafected bytemperature，whereasspatial variation was predominantlycontrolledbytheconcentrationof chlorophyllaandnutrient matter，suchasnitrogenand phosphorus.Aditionally,thetemporaland spatial variabilityof HNAsubgroupbacterial abundance wasgreaterthanthatof LNA subgroup bacteria ( $P < 0 . 0 1$ ). The HNA subgroup bacteria was significantly affected by temperature （P < 0.01) whereas LNA subgroup bacteria were not ( $P > 0 . 0 5$ ). The different responses of HNA and LNA subgroup bacteria to certain environmental factors implythat theyplay partially overlapping but slightlydiferent roles in thecoastal ecosystem.
+
+Key Words: Shenzhen；coastal waters； flow cytometry;；bacterioplankton；HNA subgroup bacteria;；LNA subgroupbacteria
+
+近岸海域连接着陆地水域(包括河流、河口等)和大洋,是全球碳循环和存储的重要场所[]。相比于大洋水体,近岸海水接受了大量的陆源营养输入,并且更易受到人类活动的干扰,往往具有更高的初级和次级生产[2]。而浮游细菌作为近海生态系统中主要的分解者和生产者,在海洋营养循环过程中扮演着重要的角色，对于海域生态环境具有显著的调节作用,其丰度的高低直接影响着生态系统的物质转化和能量流动[3]。同时,浮游细菌的丰度也受到诸多环境因素的影响。作为反映水体质量的一项重要指标,浮游细菌的丰度在研究水体污染、富营养化等方面起到重要作用[4]。因此,浮游细菌的丰度是近海生态系统的一项关键参数,研究其时空分布特征以及与环境因子的关系,有助于了解海域生态环境状况,同时促进人们对浮游细菌生态功能的理解。
+
+流式细胞检测技术(flowcytometry，FCM)以效率高、稳定性好等优点,已被广泛应用于海洋微生物的研究,包括浮游细菌丰度的测定[5-8]。根据核酸含量不同,流式细胞仪还可以将经核酸染料染色后的浮游细菌分为两个亚群,即高核酸含量(HNA)亚群和低核酸含量(LNA)亚群[9-12]。研究表明,HNA 亚群和 LNA 亚群在生长速率和细胞活性方面可能存在一定差异[2]。一些研究表明 HNA 亚群的生长速率高于LNA 亚群[13],但 LNA 亚群因其特殊的膜结构和蛋白代谢抗性机制而对某些胁迫环境有着更强的适应力[14-15]。迄今对于这两个亚群在天然水生环境中分布规律和生态功能的研究不多。Li等[13]比较了HNA 亚群与LNA 亚群在北大西洋和地中海东部海域的分布特点,并分析了它们与环境的关系,发现HNA亚群细菌丰度与环境中叶绿素的含量相关性显著,而LNA亚群并没有类似的现象,表明两者对海洋营养循环的贡献是有差异的。Liu 等[16]在海河的研究结果则支持HNA亚群与LNA 亚群在淡水生态系统中也扮演着不同的生态角色。也许这两类细菌在不同的水域和环境条件下会表现出不同的分布特征和生态功能。目前,还没有见到在中国近岸海域开展类似调查研究的报道。
+
+深圳市濒临南海，海岸线长 $2 2 9 . 9 6 ~ \mathrm { k m }$ ,其近岸海域被九龙半岛分隔为东西两部分,其中西部海域包括珠江口和深圳湾,东部海域包括大鹏湾和大亚湾,为研究浮游细菌(包括 HNA亚群和LNA 亚群)在近海生态系统中的分布和功能提供了良好的环境。近年来,深圳市近岸海域尤其是深圳湾和珠江口海域的水体污染问题一直没能得到控制和解决[17]。先后有学者对深圳湾和大鹏湾的浮游细菌丰度进行过研究,结果表明两个海域水体质量差,富营养化严重[1-8]。然而,深圳市近岸各海域污染程度不同,环境因子空间差异显著[19],目前对深圳市近岸海域浮游细菌的整体时空分布格局以及主要环境影响因素尚不清楚。特别是 HNA 亚群和LNA亚群在深圳近海的分布特点和生态功能差异，更是从未被人研究。
+
+本研究使用流式细胞计数方法测定了深圳近海总浮游细菌及HNA、LNA两个亚群的丰度,并通过方差分析方法探讨其时空分布特点,再结合皮尔森相关性分析阐释浮游细菌丰度与各环境因子之间的关系,进而了解浮游细菌在近海生态系统营养循环过程中的作用机理和功能特点,为合理开发、利用以及保护海洋资源提供科学依据。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+# 1.1采样
+
+为研究深圳近岸表层海域总浮游细菌以及HNA、LNA亚群丰度的分布和变化规律,根据深圳海域地理分布特点,分别在珠江口、深圳湾和大亚湾共布设12个采样站位（图1)。于2015年3月、5月、8月和10月在上述站位用采水器采集表层海水,现场测定海水的盐度(Sal）、酸碱度( $\mathrm { \Phi _ { \cdot } \ p H } \rangle$ ）、溶解氧浓度（DO）和温度(Temp)等理化指标。每个站位采集3份平行水样。每份水样取其中 $4 ~ \mathrm { m L }$ 加入到无菌的冻存管中，用最终质量浓度为 $0 . 5 \%$ 的无颗粒戊二醛（经 $0 . 2 2 ~ \mu \mathrm { m }$ 微孔滤膜过滤)固定，充分混匀后用液氮快速冷冻，在 $- 8 0 \%$ 超低温冰箱中保存直至浮游细菌丰度的测定。其余水样用于叶绿素a（Chl-a）、铵盐( $\mathrm { N H } _ { 4 } ^ { + }$ ）、硝酸盐( $\mathrm { N O } _ { 3 } ^ { - } \rangle$ 、亚硝酸盐（NO²）磷酸盐(PO²）、总氮（TN）、总磷(TP)和化学需氧量(COD)等环境参数的测定。（
+
+![](images/2be96ecc3f993876fd6fdd1f4fde4afe5c8ea15c2c287dd5bad588d015fc597a.jpg)  
+图1深圳市近岸海域采样点分布图  
+Fig.1The distribution of sample sites in Shenzhen coastal waters
+
+# 1.2 环境参数的测定
+
+盐度、酸碱度、溶解氧和温度用多参数水质测定仪在采样现场测定;铵盐、硝酸盐、亚硝酸盐、磷酸盐、总氮、总磷和化学需氧量的测定参照《海洋调查规范·第4部分;海水化学要素调查(GB/T12763.4—2007)》进行;Chl-a含量的测定参照《海洋监测规范·第7部分：近海污染生态调查和生物监测（GB17378.7—2007）》进行。
+
+# 1.3浮游细菌丰度的测定
+
+使用流式细胞计数方法测定水样中的总浮游细菌丰度和 HNA、LNA 亚群丰度[11]。将购买的 SYBR GreenI（Invitrogen TM）荧光染料用无颗粒的TE 缓冲液（经 $0 . 2 2 ~ \mu \mathrm { m }$ 微孔滤膜过滤除菌)稀释 500 倍,作为浮游细菌染色的工作液。配制适宜浓度的约 $1 ~ \mu \mathrm { m }$ 粒径的荧光微球悬液（InvitrogenTM），作为流式细胞检测和计数的内参。将冻存的水样融化，涡旋混匀后取 $5 0 ~ \mu \mathrm { L }$ 至流式进样管中,加入 $4 5 0 ~ \mu \mathrm { L }$ 无颗粒的TE 缓冲液将水样稀释10倍,再加 $1 2 . 5 ~ \mu \mathrm { L }$ SYBRGreenI工作液,涡旋混匀后在室温下避光染色 $1 0 ~ \mathrm { m i n }$ 。然后加入 $1 0 ~ \mu \mathrm { L }$ 涡旋混匀的荧光微球悬液,短暂涡旋后在流式细胞仪中进样分析。本实验所使用流式细胞仪为FACSCaliburTM flowcytometer（BD-Biosciences）。该仪器配有氩离子激光器,激发光波长为 $4 8 8 ~ \mathrm { n m }$ ,功率为 $1 5 ~ \mathrm { m W }$ 。
+
+# 1.4数据分析
+
+使用Canoco 5.0软件对不同时空条件下的环境参数进行主成分分析,阐明海域环境特征;使用R软件对浮游细菌丰度(包括总浮游细菌丰度、HNA亚群丰度、LNA亚群丰度)进行双因素方差分析,比较浮游细菌丰度时空分布差异的显著性;使用IBM SPSS Statistics 19.0软件计算浮游细菌丰度（包括总浮游细菌丰度、HNA亚群丰度、LNA亚群丰度)与各项环境参数之间的皮尔森相关性,揭示环境对浮游细菌分布的影响,进而推测HNA亚群和LNA亚群在近岸海域营养循环过程中的功能特点。
+
+# 2结果与分析
+
+# 2.1深圳近岸表层海域环境参数特征
+
+在本次调查中，海域水温变化范围为19.92— $3 1 . 7 4 ^ { \circ } \mathrm { C }$ ,平均水温为 $2 5 . 8 0 \mathrm { ^ { \circ } C }$ ,3月平均水温最低 $( 2 1 . 8 5 ^ { \circ } \mathrm { C }$ ），8月最高( $2 8 . 5 0 ^ { \circ } \mathrm { C }$ )。珠江口、深圳湾和大亚湾海域的平均盐度分别为 $1 3 . 3 6 \text{‰}$ ） $1 8 . 9 9 \text{‰}$ 和 $3 2 . 9 0 \text{‰}$ 。Chl-a含量在8月和10月明显高于3月和5月。除了温度、溶解氧和Chl-a含量外,其他环境参数在三个海域之间的差异显著(表1)。珠江口和深圳湾海域的COD、磷酸盐、亚硝酸盐、硝酸盐和铵盐含量显著高于大亚湾海域（ $\begin{array} { r }  P < 0 . 0 1 \ \end{array}$ ）（表1）。红树林地区（SZW07)的COD、磷酸盐、氨氮以及Chl-a含量均明显高于其他站位。
+
+表1深圳市近岸海域(珠江口、深圳湾和大亚湾)各环境参数平均值  
+Table1TheaverageofenvironmentalparametersinShenzhencoastal waters（PearlRiverEstuary，ShenzhenBayandDaya Bay）   
+
+<html><body><table><tr><td>环境因子 Environmental variables</td><td>珠江口 Pearl River Estuary</td><td>深圳湾 Shenzhen Bay</td><td>● 大亚湾 Daya Bay</td></tr><tr><td>pH</td><td>7.660±0.16(a)</td><td>7.770±0.37(ab)</td><td>7.980±0.09(b)</td></tr><tr><td>SAL/(%)</td><td>13.360±5.42(a)</td><td>18.990±4.63(b)</td><td>32.890±1.39(c)</td></tr><tr><td>DO/(mg/L)</td><td>5.920±1.47(a)</td><td>7.020±3.36(a)</td><td>6.930±0.72(a)</td></tr><tr><td>Temp/(℃)</td><td>25.370±2.39(a)</td><td>26.100±3.30(a)</td><td>25.810±2.56(a)</td></tr><tr><td>COD/(mg/L)</td><td>1.884±0.608(ab)</td><td>3.307±2.503(b)</td><td>0.797±0.247(a)</td></tr><tr><td>PO-/(μg/L)</td><td>67.030±31.07(ab)</td><td>125.300±122.3(b)</td><td>4.870±2.828(a)</td></tr><tr><td>NO2/(mg/L)</td><td>0.224±0.061(b)</td><td>0.214±0.163(b)</td><td>0.028±0.046(a)</td></tr><tr><td>NO3/(mg/L)</td><td>1.458±1.008(b)</td><td>0.869±0.504(b)</td><td>0.069±0.056(a)</td></tr><tr><td>NH4/(mg/L)</td><td>0.602±0.730(ab)</td><td>0.754±0.935(b)</td><td>0.011±0.014(a)</td></tr><tr><td>Chl-a/(μg/L)</td><td>5.030±5.99(a)</td><td>15.480±24.21(a)</td><td>2.140±2.06(a)</td></tr><tr><td>TN/(mg/L)</td><td>2.070±1.02(b)</td><td>2.860±2.27(b)</td><td>0.130±0.05(a)</td></tr><tr><td>TP/(mg/L)</td><td>0.076±0.041(ab)</td><td>0.145±0.142(b)</td><td>0.021±0.014(a)</td></tr><tr><td>DIN/(mg/L)</td><td>2.284±1.410(b)</td><td>1.838±1.153(b)</td><td>0.108±0.039(a)</td></tr><tr><td>DON/(mg/L)</td><td>0.317±0.464(ab)</td><td>1.038±1.543(b)</td><td>0.029±0.029(a)</td></tr></table></body></html>
+
+Sal:度,Salt;解,oeOy水温eaureCh叶绿素looll氮otalrog总alPhosphorus;DIN;溶解性无机氮,Disolved Inorganic Nitrogen;DON;溶解性有机氮,DisolvedOrganic Nitrogen；括号内标注同一字母或有相同字母(例如ab 和a或者ab 和b)的两组平均值差异不显著( $\begin{array} { r } { P > 0 . 0 5 , } \end{array}$ ),标注相邻字母(例如a和b 或者b和c)表示两组平均值差异显著( $\ P < 0 . 0 5 ,$ ，标注相隔字母(例如a和c)表示两组平均值差异极显著( $P < 0 . 0 1$ ）
+
+对4个月份所有站位的环境参数(盐度、酸碱度、溶解氧、温度、铵盐、硝酸盐、亚硝酸盐、磷酸盐、总氮、总磷、化学需氧量和叶绿素a)进行主成分分析(Principal Component Analysis,PCA）,发现珠江口、深圳湾和大亚湾各自表现出独特而鲜明的环境变化特点(图2)。如图2,深圳湾海域不同月份和站位的样品点分布最为分散,其次是珠江口海域,大亚湾海域样品点分布最集中。由此可见,深圳湾海域环境参数的时空变化差异最大,环境梯度特别明显;其次是珠江口海域;而大亚湾海域环境参数的时空变化差异最小,尤其是在5月和8月几乎没有空间差异。
+
+2.2深圳近岸海域总浮游细菌丰度的时空分布
+
+旻深圳市近岸海域表层水体浮游细菌丰度的变化范围为 $1 . 4 1 \times 1 0 ^ { 6 } { \mathrm { - } } 1 . 7 5 \times 1 0 ^ { 7 }$ 个 $/ \mathrm { m L }$ ,最高值出现在深圳湾海域,最低值出现在大亚湾海域。深圳湾、珠江口和大亚湾海域浮游细菌平均丰度依次降低,分别为 $7 . 6 7 \times$ $1 0 ^ { 6 }$ 个 $\mathrm { ^ { \prime } m L } , 3 . 8 2 \times 1 0 ^ { 6 }$ 个 $\mathrm { \dot { \ m L } }$ 和 $3 . 3 8 \times 1 0 ^ { 6 }$ 个 $\mathrm { \dot { \ m L } }$ 。8月浮游细菌平均丰度最高( $\phantom { - } 5 . 8 0 \times 1 0 ^ { 6 }$ 个 $\mathrm { \Delta m L }$ ），3月最低$( 2 . 9 8 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ ）。
+
+深圳市近岸海域浮游细菌时空分布如图3所示。在珠江口海域,ZJK01站位4个月份浮游细菌丰度差异小,然而ZJK03站位4个月份之间浮游细菌丰度差异大,其中8月浮游细菌丰度是3月的2倍。在深圳湾海域,10月浮游细菌丰度从湾外到湾内递增,而其他月份各站位浮游细菌丰度均在 SZW04 最低在湾内差异不大,8月和10月浮游细菌丰度显著高于3月和5月0 $\left( P < 0 . 0 5 \right)$ 。在大亚湾海域,浮游细菌丰度随时间和空间变化幅度较小。
+
+对比3个海域，同一采样时间内深圳湾海域浮游细菌丰度均高于珠江口和大亚湾海域,珠江口海域除了5月外其他月份均高于大亚湾海域(图4）。
+
+# 2.3深圳近岸海域HNA和LNA亚群丰度的时空分布
+
+依据SSC侧向散射角信号和FL1荧光信号观察浮游细菌聚类情况。各海域样品中浮游细菌均被发现有类似分类现象即HNA和LNA细菌亚群明显分开（图5）。
+
+HNA亚群时空分布如图6所示。HNA亚群丰度变化范围为 $5 . 2 0 \times 1 0 ^ { 5 } { \mathrm { - } } 8 . 3 1 \times 1 0 ^ { 6 } 1$ 个 $\mathrm { \dot { \ m L } }$ ,平均值为2.89$\times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 。最高值出现在10月SZW06 站位,最低值出现在3月DYW11站位。深圳湾海域HNA丰度显著高于珠江口和大亚湾海域( $P < 0 . 0 1 { \ : } ,$ ，在珠江口和深圳湾海域8月和10月的HNA丰度均高于3月和5月，而在大亚湾海域5月和8月的HNA丰度高于3月和10月。
+
+![](images/c8280ece22db5caea53c2320956debc9c9fba9e898b12321575df537c68774e0.jpg)  
+图2深圳市近岸海域(珠江口、深圳湾和大亚湾)环境参数主成分分析(PCA)  
+Fig.2Principal Componentanalysis of environmental parameters in the Shenzhen coastal waters （Pearl River Estuary,
+
+Shenzhen Bay and Daya Bay)
+
+红色代表珠江口海域站位;黑色代表深圳湾海域站位;黄色代表 大亚湾海域站位；“●"代表3月；“ $\blacktriangle$ ”代表5月；“"代表8月； “■”代表10月
+
+![](images/99643df3e10ffe0f5bc61e28c1c4f72643a4787154b5056f9b26f6e2d3a2fb90.jpg)  
+图3深圳市近岸海域(珠江口、深圳湾和大亚湾)浮游细菌丰度时间和空间分布情况
+
+Fig.3SpatiomporalVaratiosofteabndanceofbacteroplanktoninShenzencoastalwatersPearlRiverEstuary，ShenenBand Daya Bay)
+
+LNA亚群时空分布如图7所示。LNA亚群丰度范围为 $3 . 7 4 \times 1 0 ^ { 5 } - 1 . 1 3 \times 1 0 ^ { 7 }$ 个 $\mathrm { \Delta m L }$ ,平均值为 $1 . 9 1 \times$ ${ 1 0 } ^ { 6 }$ 个 $' _ { \mathrm { m L } }$ 。最高值出现在10月SZW07站位,最低值出现在3月DYW12站位。
+
+HNA亚群占总浮游细菌的比例为 $2 5 . 9 7 \% - 8 2 . 9 3 \%$ ,最小比例和最大比例均出现在10月份,3月份、5月份和8月份的HNA亚群占比在 $6 0 \%$ 左右波动,空间变化较小。3月份、5月份、8月份和10份月的HNA亚群占总浮游细菌比例分别为 $5 6 . 5 8 \% . 5 8 . 7 1 \% . 6 2 . 3 8 \%$ 和 $6 3 . 6 9 \%$ （图8）。
+
+http://www.ecologica.cn
+
+2.4深圳近岸海域浮游细菌丰度与环境参数的相关性
+
+皮尔森相关分析结果如表2。总浮游细菌丰度与TN、TP、COD、 $\mathrm { N O } _ { 2 } ^ { - }$ 、Chl-a呈极显著正相关 $( P < 0 . 0 1 )$ ，与盐度呈显著负相关( $P _ { \mathrm { \Lambda } } = 0 . 0 1 5 ^ { \cdot }$ ，与 $\mathrm { N H } _ { 4 } ^ { + }$ 呈显著正相关 $\ P = 0 . 0 1 2 )$ 。HNA 和LNA亚群均与COD、 $\mathrm { N O } _ { 2 } ^ { - }$ 、Chl-a $\cdot ^ { \mathrm { T P } }$ 呈极显著正相关( $( P < 0 . 0 1 )$ 。HNA亚群与LNA亚群的明显不同之处在于,HNA亚群与温度和 $\mathrm { N H } _ { 4 } ^ { + }$ 表现出显著正相关而LNA亚群没有，LNA亚群与盐度表现出显著负相关而HNA亚群没有。
+
+# 3讨论
+
+# 3.1环境对浮游细菌丰度的影响
+
+温度是影响浮游细菌生长的重要因素，也是导致浮游细菌丰度时空差异的主要原因。温度通过控制细胞内酶的活性间接影响细菌新陈代谢,在一定温度范围内细菌生长速率与温度呈正相关[18]。同时温度通过影响初级生产者丝状绿藻的生长及其对水体中氮磷元素的去除间接影响浮游细菌的丰度和群落组成[20]。本研究结果表明总浮游细菌丰度与温度呈显著正相关 $\left( r = 0 . 3 5 2 , P = 0 . 0 2 1 \right)$ ,与TN呈显著正相关( $\left( r = 0 . 3 7 9 , P = \right.$ 0.012），与TP呈极显著正相关性 $\stackrel { \prime } { r } = 0 . 5 1 1 , P = 0 )$ ,在营养丰富的地区更益于浮游细菌的生长。
+
+![](images/b631fa8e60781aabe84d2db372ec96306bdc148d8f4140ea90854f511d7f4851.jpg)  
+图4深圳市3个海域(珠江口、深圳湾和大亚湾)浮游细菌平均 丰度比较 Fig.4Comparison of the average abundance of bacterioplankton in the three coastal waters(Pearl River Estuary,Shenzhen Bay and Daya Bay)
+
+![](images/e567fda0122be7b87d3eba1e865f4d2267aac8be5975648438fb14476736ea7a.jpg)  
+图5HNA亚群和LNA亚群的流式细胞仪（FCM)分类 Fig.5Flow cytometry plot of LNA and HNA bacteria
+
+Beads 为荧光微球,作为流式细胞检测和计算的内参;FL1-H(Fluorescence 1- Height)为第1荧光通道的信号曲线高度,反映FL1荧光信号强度;SSC-H(Side Scatter-Height)为侧向散射角的信号曲线高度,反映细胞形态特征,代表细胞的颗粒度
+
+盐度作为表征生态位的指标,其通过改变水体中营养盐水平间接影响生态系统中浮游细菌丰度和组成[21],本研究结果显示盐度与浮游细菌丰度存在显著负相关性 $\left( r = - 0 . 3 6 9 , P = 0 . 0 1 5 \right)$ ,与营养盐浓度呈极显著负相关性。在深圳湾、珠江口、大亚湾海域盐度浓度依次升高,营养盐浓度则依次显著降低,浮游细菌丰度也依次降低。
+
+Chl-a 对深圳近岸海域浮游细菌丰度起到重要作用。Chl-a作为浮游植物现存量的良好指标,可作为研究浮游细菌生长繁殖与浮游植物之间关系的桥梁[2225]。水体中部分溶解性有机物由浮游植物光合作用产出，
+
+![](images/76bd60189fb24942684c84e252faa07601190d914bf5c0a9b5bb7b5e12de4554.jpg)  
+图6深圳市近岸海域(珠江口、深圳湾和大亚湾)HNA亚群细菌丰度时间和空间分布情况
+
+![](images/66354621fb900ce7c9a6b09614f435ed84c61e2692e2ddf22ea4d7640cb4b102.jpg)  
+Fig.6Spatio-TemporalVariatiosoftheabundanceofHAbacteriainShenzhecoastalwaters（PearliverEstuaryShenzenBayand Daya Bay)   
+图7深圳市近岸海域(珠江口、深圳湾和大亚湾)LNA亚群细菌丰度时间和空间分布情况
+
+Fig.7Spatio-Temporal VariationsoftheabundanceofLANbacteriainShenzhencoastal waters（PearlRiverEstuary，ShenzhenBayan Dava Bav)
+
+SZW07站位在十月份LNA亚群丰度为 $1 . 1 3 \times 1 0 ^ { 7 }$ 个 $/ \mathrm { m L }$ ,图中未显示
+
+![](images/ad5e8c4522b8bbb09e9683a6299056989782980aa6d3b2867bda1c8ab13104aa.jpg)  
+图8深圳市近岸海域(珠江口、深圳湾和大亚湾)HNA亚群占浮游细菌的百分比  
+Fig.8ThepercentageofHNAsubgroupbacteriaibacterioplanktoninShenzhencoastal waters（PearlRiverEstuary，ShenzenBayand Daya Bay)
+
+为浮游细菌二次生长提供充足的碳源,同时浮游细菌在生长过程中的代谢产物为浮游植物提供一定的营养[26]。在深圳近岸海域浮游细菌与Chl-a的含量呈极显著正相关,且相关系数较高( $r = 0 . 7 2 1 \$ (表2)，印证了浮游植物与细菌之间的密切关系。Chl-a 含量在深圳湾和珠江口海域比在大亚湾海域明显高,具有较大梯度,结果显示深圳湾和珠江口海域浮游细菌丰度显著高于大亚湾海域(图4)。同时,深圳湾海域LNA 亚群丰度在3个海域中最高,珠江口海域和大亚湾海域无明显高低差异（图7）。
+
+表2深圳市近岸海域(珠江口、深圳湾和大亚湾）浮游细菌、HNA 亚群和LNA亚群丰度与主要环境因子的Pearson相关系数 Table2Pearsoncoelationcoeficentofbacterioplakton，HNAsubgroupbacteriaandLNAsubroupbacteriainabundanceandkey environmental parameters in Shenzhen coastal waters (Pearl River Estuary， Shenzhen Bay and Daya Bay)   
+
+<html><body><table><tr><td rowspan="2">Pearson 相关</td><td colspan="2">浮游细菌 Bacterioplankton</td><td colspan="2">高核酸含量亚群 HNA subgroup</td><td colspan="2">低核酸含量亚群 LNA subgroup</td></tr><tr><td>r</td><td></td><td>r</td><td>P</td><td></td><td>P</td></tr><tr><td>pH</td><td>0.130</td><td>0.406</td><td>0.122</td><td>0.435</td><td>0.103</td><td>0.513</td></tr><tr><td>SAL/(%o)</td><td>-0.369 *</td><td>0.015</td><td>-0.299</td><td>0.051</td><td>-0.345 *</td><td>0.024</td></tr><tr><td>DO/ (mg/L)</td><td>-0.041</td><td>0.796</td><td>0.030</td><td>0.850</td><td>-0.108</td><td>0.491</td></tr><tr><td>Temp/（℃)</td><td>0.352*</td><td>0.021</td><td>0.416 **</td><td>0.006</td><td>0.182</td><td>0.243</td></tr><tr><td>COD/ (mg/L)</td><td>0.633 **</td><td>0</td><td>0.684 **</td><td>0</td><td>0.399 *</td><td>0.026</td></tr><tr><td>NO2/ (mg/L)</td><td>0.651**</td><td>0</td><td>0.502 **</td><td>0.001</td><td>0.636 **</td><td>0</td></tr><tr><td>NH4/ (mg/L)</td><td>0.364 *</td><td>0.017</td><td>0.348 *</td><td>0.022</td><td>0.280</td><td>0.069</td></tr><tr><td>Chl-a/ (g/L)</td><td>0.721**</td><td>0</td><td>0.512 **</td><td>0</td><td>0.752 **</td><td>0</td></tr><tr><td>TN/ (mg/L)</td><td>0.379 *</td><td>0.012</td><td>0.290</td><td>0.059</td><td>0.371 *</td><td>0.014</td></tr><tr><td>TP/ (mg/L)</td><td>0.511 **</td><td>0</td><td>0.472 **</td><td>0.001</td><td>0.411 **</td><td>0.006</td></tr></table></body></html>
+
+\*表示显著相关( $\dot { P } < 0 . 0 5$ 双尾检验)； $\ast \ast { }$ 表示极显著相关( $P < 0 . 0 1$ ,双尾检验)
+
+在海洋生态系统中,尤其是近岸海域,无机营养盐作为一个重要环境因子是导致浮游细菌空间分布格局的主要因素。营养盐的变化对于生态系统中的生物和非生物及其生态功能都有极为重要的影响。实验研究结果表明浮游细菌丰度与 $\mathrm { N H } _ { 4 } ^ { + }$ 呈显著正相关,与TN 呈极显著正相关(表2),由于深圳湾和珠江口海域常年受深圳市陆源排放的影响,水体中 $\mathrm { P O _ { 4 } ^ { - } \setminus N H _ { 4 } ^ { + } \setminus N O _ { 2 } ^ { - } \setminus N O _ { 3 } ^ { - } }$ 等无机营养盐的浓度均高于大亚湾海域,并且两个海域水体流动性弱,营养盐难以扩散,因此湾内浓度高于湾外[27造成深圳湾和珠江口海域浮游细菌丰度高于大亚湾海域（图4),该结论与前人研究结果一致。然而在深圳湾海域,虽然营养盐浓度由湾内到湾外依次递减，但浮游细菌丰度在湾内各站位之间并没有相似的递减规律,反而在 SZW05 站位浮游细菌丰度最高（除10 月份外）（图3)。根据已有研究结果：当营养盐浓度高于一定值后水域富营养化程度严重,浮游生物大量繁殖导致溶解氧含量降低,整个生态环境将发生改变,因此浮游细菌生长繁殖受到严重影响[28-30]。有理由相信深圳湾海域正是由于营养盐浓度过高,造成浮游植物生物量急剧增加,导致溶解氧含量迅速降低的同时,也消耗水体中大量的氮和磷元素，最终导致浮游细菌丰度降低。
+
+3.2环境对HNA 和LNA亚群丰度的影响
+
+时间、空间双因素方差分析结果表明,HNA 亚群丰度随时间和空间变化的差异极显著,且二者对 HNA 亚群丰度时空分布格局的贡献相当。LNA亚群丰度时空分布与HNA不同,LNA 随时间变化差异不显著（F =$1 . 5 0 4 , P = 0 . 2 1 9 )$ ,而空间变化差异极显著( $F = 3 . 2 4 9 , P < 0 . 0 0 0 1 )$ 。无论是时间差异还是空间差异HNA亚群均大于LNA 亚群,在其他海域的研究中也有同样的结论[16]。
+
+本研究表明在深圳市近岸海域,温度是造成 HNA 亚群时间差异的主要因素,营养盐和Chl-a 是影响 HNA亚群空间差异的主要因素;LNA亚群随时间变化差异不显著( $F = 1 . 5 0 4 , P = 0 . 2 1 9 )$ ,而空间差异显著,主要由营养盐和叶Chl-a 控制[16,31-33]。
+
+对比HNA 亚群和LNA亚群与环境因子的相关性,最大的区别是HNA亚群丰度与温度存在极显著正相关 $( r \ = 0 . 4 1 6 , P < 0 . 0 1 )$ ,而LNA亚群丰度与温度相关性不显著 $\left( r = 0 . 1 8 2 , P = 0 . 2 4 3 \right)$ ,表明HNA 和LNA 两个亚群细菌繁殖和生长受温度的影响不同。温度通过控制细胞内酶的活性间接影响细菌生长和繁殖,因此两个细菌亚群内与细胞新陈代谢相关的酶对温度的敏感程度不一样。Shiah 等研究Chesapeake 湾时表明温度高于 $2 0 \%$ 时浮游细菌受温度的影响变小[34]。本研究中水体温度范围为19.92— $3 1 . 7 4 ^ { \circ } \mathrm { C }$ ,在该温度范围内LNA 亚群细胞酶活性接近最高值,新陈代谢受温度的影响不再显著;而对于HNA亚群， $2 0 \%$ 时酶活性没有接近最高值,随着温度的升高酶活性继续提高。皮尔森相关性分析发现总浮游细菌丰度与温度的相关系数( $\mathbf { \sigma } _ { r } = \mathbf { \sigma } $ $0 . 3 5 2 , P < 0 . 0 5 )$ 比 HNA亚群与温度相关系数( $_ {  { r } } = 0 . 4 1 6 , P < 0 . 0 1 )$ 低,也间接表明LNA 亚群受温度因素的影响小。Liu 等关于海河中HNA 和LNA 亚群时空分布的研究[16]表明HNA 和LNA 两个亚群丰度时间差异主要都由温度的控制，与本文结果不同。Liu所研究的地点处于 $3 8 ^ { \circ } \mathrm { N }$ 附近,最低温度低于 $1 0 ^ { \circ } \mathrm { C }$ ,最高温度高于$3 0 \%$ ,温度变化范围大,因此LNA亚群与温度的相关性可以彰显出来。
+
+已有研究表明 HNA 比LNA 亚群更趋向于在营养丰富的环境中生长[35-36]。本实验结果显示,除个别站位LNA 亚群丰度高于HNA 亚群外,大部分营养丰富地区HNA 亚群丰度均高于LNA 亚群,占总浮游细菌的平均比例为 $6 0 . 3 4 \%$ ,表明 HNA亚群是总浮游细菌中的优势群。
+
+# 4结论
+
+综上所述,深圳市近岸海域浮游细菌丰度时间和空间差异均显著,且时间差异主要受温度影响,空间差异主要受营养盐和Chl-a影响。HNA 亚群时间分布格局由温度控制,空间分布格局由营养盐和Chl-a控制;而对于LNA 亚群,时间差异不显著,但空间差异显著且主要由营养盐和Chl-a控制。环境对 HNA 和LNA 亚群丰度的影响有相似之处,但两者对某些环境因子有着不同的响应,这暗示了它们在近海生态系统中扮演着部分重叠但略有不同的生态角色。
+
+致谢：深圳市海洋与渔业环境监测站提供实验室和实验试剂,特此致谢。
+
+# 参考文献（References）：
+
+[1]MallilsKE,EC,weotcteealsaleolApplications，2000，10(4）：1047-1056.  
+[2]FuhnJAFcteroplaoryducttatesaltsfrishntatcClfldand Environmental Microbiology，1980,39(6）：1085-1095.  
+[3]TayloDilleai
+
+http://www.ecologica.cn
+
+[4］王博雯，汤祥明，高光，余多慰,李琳琳,赛·巴雅尔图.博斯腾湖细菌丰度时空分布及其与环境因子的关系.生态学报,2014,34（7)：1812-1821.  
+[5]SosikHOlsonRJ,ArmbrustEVFowcyometryinphytoplanktonresearch//SuggetDJ，rsilO，BorowikaMA，eds.loohllFluorescence in Aquatic Sciences- -Methods and Applications.Netherlands：Springer,2010：171-185.  
+[6]WinderMotosetopktodaiakeompadsatialcertioagpacduaclJournal of Plankton Research,2009,31(11）：1307-1320.  
+[7]XtJlosesalloaEnglish Channel.FEMS Microbiology Ecology，2010,72(2）：165-178.  
+[8]MarieDigaut-JabertFValotDAnprovdptoforforsofoplaouresdaturalplstPart A,2014,85(11) : 962-968.  
+[9]LebarorvaisP，AggeHourtesC，uxFDestheuclecacidotentf dvualbacteralelloutatebetweenactivecellsand inactivecels inaquatic systems？Appliedand Environmental Microbiology，001,67(4):77-172.  
+[10]PrestEIFtctCueergoblcaliingteifast and reproducible flow cytometric method.Water Research,2013,47(19)：7131-7142.  
+[11]Gasol JM,Del GiorgioPA. Usingflow cytometryfor counting natural planktonic bacteria and understan structure of planktonic bacterialcommunities.Scientia Marina，2000,64(2）：197-224.  
+[12]CorzoA，Rodrge-GlveS,LubanL，brinC，angr,MatAtacarinebacterioplanktoubpolatoatedbytheir apparent content of nucleic acids differ in their resp nse to ecological factors.Polar Biology，2005，29(1): 27-39.  
+[13]Li WKW,JletJF,iciePDAdistrbtisiplaoccteriaaiedirRO.LolgdOceaga95,40(8): 1485-1495.  
+[14]SalcherethalerJohTeasoalodasdosiolftfrsaterteladeofRacte‘atlewaves’（LD12).The ISME Journal，2011,5（8）：1242-1252.  
+[15]Fierer N,Schimel JP.Effects of drying-reweting frequency on soil ca onand nitrogen transformations.Soil Biologyand Biochemistry，2002，34(6) : 777-787.  
+[16]LiuJ,HZY,aLL,JY,ar,WngYSatiooalatiosfhndlowcledtetcteiriver.PLoS One,2016,11(4):e0153678.  
+[17］周凯，章洁香，张瑜斌，卢东伟，丁玉静，孙省利.深圳湾浮游细菌生物量的时空分布及其影响因素.热带海洋学报，2013，32（3)：65-71.  
+[18］姜发军，胡章立，胡超群.大鹏湾浮游细菌时空分布与环境因子的关系.热带海洋学报，2011,30(1)：96-100.  
+[19] 谭上进，朱小山，周进，蔡中华.深圳近岸海域环境状况近 10a变化趋势.海洋环境科学，2014，33（1)：154-160.  
+[20] 陈祯，何聘，任丽娟.温度和营养盐水平对淡水浮游细菌群落结构的潜在影响.南京大学学报：自然科学版，2016,52（4）：590-600.  
+[21] 张军晓，李绪录，周毅频，梁佩喜.200—2010年深圳湾及其邻近海域溶解无机氮的时空分布.生态环境学报，2013，223)：475-480.  
+[22] 白洁，时瑶，宋亮，李 .黄海西北部浮游细菌生物量分布特征及其与环境因子的关系.中国海洋大学学报：自然科学版，2009，39(4) : 592-596.  
+[23]YuaXCDGHascetrotland northwestern South China Sea in late summer.Continental Shelf Research,2011,31(11)：1214-1223.  
+[24] Zhou WH,LongA M,JiangT,Chen SY,HuangL M,Huang H,CaiCH,YanY.BacterioplanktondynamicsalongthegradientfromighlyeutrophicPearlRiverEstuarytooligotrophicnorthenSouthChinaSeainwtseason；implicationforanthropogeniciputsMarinePolutionBulletin，2011,62(4): 726-733.Liu HB，Dagg M,CampbellL，Urban-RichicooplanonadbacteroplktoniheisisiiveruenditsdactateEstuaries,2004,27(1)：147-156.  
+[26]倪健斌，张朝霞，柯才焕，等.北部湾夏，冬两季异养细菌的水平分布特征及其影响因子.厦门大学学报：自然科学版，2012,51（3)：144- 150.  
+[27] 史华明，李绪录，石晓勇，张军晓，肖志建.2000—2012年深圳湾及邻近沿岸水域溶解无机磷的来源和时空分布.环境科学学报，2015,35(11) : 3579-3586.  
+28]aaellcaof Rio de Janeiro State.Oecologia Brasiliensis,2001,9(1)：65-76.  
+[29]KarlDM，BjorkmanKM,DoreJE，FujiekiL，HebelDV,HoulihanT,LetelierRM,TupasLM.Ecologicalntrogen-o-posphorusstoichiometryatstationALOHA.Dp SeaResearchPartII:Topical Studies inOceanography,2001,48(8/9)：1529-1566.  
+[30]Benitez-NsonCR.egeocheicalcylingofposphousiarinesystes.EarticeRevis，,5（1/4）：0-15.  
+[31]JochemJ,avreeJ,irstrowhndgangatesfcteagoupsitdetaretctetineGffeicMarine Biology，2004，145(6）：1213-1225.  
+[32]SchteerulfstaoerFObochsBeicactesatifplaoclhigh and lownucleicacid content intheNorth Atlantic Ocean.Systematicand Aplied Microbiology，2011,34(6)：470-475.  
+[33] BouvierT,DelGiAGsolJ.Acaratiesudyoftometricaracteristiofhighdlowucleacidcterioplaolfrom diffrent aquatic ecosystems.Environmental Microbiology，2007,9（8）：2050-2066.  
+[34]ShiahFK,uckloHWmpeaeandubstratereglatifctelbdapructidseifowthateiakeyUSA.Marine Ecology Progress Series，1994，103(3）：297-308.  
+[35]SolicstuloispilstaoitduljValitdoobacteriaontrophic and temporal scales in the midle Adriatic Sea.Aquatic Microbial Ecology,2O09,58(1)：15-29.  
+[36]AndradeL,GozaleAM,RezendeCE,uukiM,VlentiJL,ParaosRitributioofHandNbacterialgroupsinesouthstAtlantic ocean.Brazilian Journalof Microbiology，2O07，38(2）：330-336.

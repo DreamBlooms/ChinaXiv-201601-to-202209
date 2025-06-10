@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201607021365 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高艳娜,戚志伟,仲启铖,樊同,李沙沙,王开运,朱红雨,周婷南.长期模拟升温对崇明东滩湿地土壤微生物生物量的影响.生态学报,2018,38（2)：711-720.  \nGaoYN,QiZoQ,Fan,iS,gKZuHZoespeoflcoalosstteildanginEastern Chongming Island wetlands，China.Acta Ecologica Sinica,2018,38(2）:711-720.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长期模拟升温对崇明东滩湿地土壤微生物生物量的影响 C",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高艳娜1,²，戚志伟1,²，仲启³，樊 同1,²，李沙沙1,2，王开运1,2,\\*，朱红雨1,2，周婷南1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1华东师范大学生态与环境科学学院，上海200241  \n2上海市城市化生态过程与生态恢复重点实验室，上海200241  \n3上海市园林科学规划研究院，上海200232",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以崇明东滩芦苇湿地为对象,采用开顶室生长箱(Open top chambers OTCs)原位模拟大气升温试验,研究了连续升温 8a 对崇明东滩湿地 $_ { 0 - 4 0 \\mathrm { c m } }$ 土层土壤微生物生物量碳氮含量的影响。结果表明;连续升温显著提高了崇明东滩湿地土壤微生物生物量碳氮含量,从土壤表层到深层(0—10，10—20，20—30，30—40cm）,微生物生物量碳分别增加了 $3 9 . 3 2 \\% . 7 0 . 7 9 \\% . 6 5 . 2 0 \\%$ 、$7 4 . 0 9 \\%$ ,微生物生物量氮分别增加了 $6 6 . 4 6 \\% 1 7 8 . 2 7 \\% . 4 7 . 2 4 \\% . 6 4 . 1 1 \\%$ 但升温对土壤微生物生物量的影响因不同土层和不同季节并未表现出统一的规律,长期模拟升温显著提高4月 $0 { \\stackrel { \\textstyle - 2 0 \\mathrm { c m } } { \\textstyle - } }$ 土层和7月 $_ { 0 - 4 0 \\mathrm { c m } }$ 土层微生物生物量碳氮含量,对10月 $_ { 0 - 4 0 \\mathrm { c m } }$ 土层微生物生物量碳含量没有影响,但是显著提高了10 月 $_ { 0 - 4 0 \\mathrm { c m } }$ 土层微生物生物量氮含量,同时,微生物生物量碳氮比在7月也显著提高。相关分析表明：无论在升温条件还是在对照条件下,土壤温度、含水量、总氮与土壤微生物生物量碳氮及微生物生物量碳氮比均无相关关系,升温条件下,有机碳与微生物生物量碳氮含量以及微生物生物量碳氮比呈显著正相关,但是在对照条件下有机碳与微生物生物量碳氮含量以及微生物生物量碳氮比呈显著负相关。因此,土壤有机碳是影响土壤微生物生物量碳氮含量对长期模拟升温响应的重要生态因子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤微生物生物量碳；土壤微生物生物量氮；长期模拟升温;崇明东滩湿地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Responses of soil microbial biomass to long-term simulated warming in Eastern Chongming Island wetlands， China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Yannal’²,QI Zhiwei'²， ZHONG Qicheng³， FAN Tong1²,LI Shasha $^ { 1 , 2 }$ ，WANG Kaiyun1,2,\\*,ZHU Hongyu $^ { 1 , 2 }$ ZHOU Tingnan'.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 College of Ecology and Environment，East China Normal University，Shanghai 200241,China   \n2Shanghia Key Laboratory of Urban Ecology and Restoration，Shanghai 2Oo241,China   \n3Shanghai Academy of Landscape Architecture Science and Planning，Shanghai 2Oo232，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Climate warming is one ofthe main characteristics of global climate change and has a significant impact on the structureandfunctionof terestrial ecosystems.Soilmicroialbomass isacrucialcomponentofsoilecosystemandplaysan importantroleinbiogeochemical cyclesandenergy flowinecosystems.However，soil microbial biomass is highlysensitive to environmental changes，and increaseinairtemperaturewillsignificantlyaffectsoil microbial biomassSeveral studies haveinvestigatedtheefectofwarmingonsoilmicrobialbiomass，butmoststudieshavefocusedontheefectofshort-term simulated warmingonsoil microbial biomassinecosystemssuchas forests，croplands，and grassands，whereas litleis knownabouttheresponseof soil microbial biomass to long-term simulated warmingin wetland ecosystems.Therefore，an in situsimulated warming experiment was conducted in a wetland ecosystemon Eastern Chongming Island，China.Open-top chambers（OTCs）were applied to simulate climate warming.This study investigated the efects of eight years ofcontinuous warmingonsoil microbial biomasscarbonandnitrogencontentsatsoil depthsof O—40cm ina wetlandon Eastern Chongming Island.The results showed thatcontinuous warming significantly increased soil microbial biomass carbon and nitrogen contents.From surface to deep soil layers（0—10,10—20,20—30,and 30—40cm），microbialbiomasscarbon increased by $3 9 . 3 2 \\%$ ， $7 0 . 7 9 \\%$ ， $6 5 . 2 0 \\%$ ，and $7 4 . 0 9 \\%$ ，whereas microbial biomass nitrogen increased by 66.46%, $1 7 8 . 2 7 \\%$ ， $4 7 . 2 4 \\%$ ，and $6 4 . 1 1 \\%$ ，respectively. However， the effect of simulated warming on soil microbial biomass at different soil depthsandindiferent seasons didnotshowauniform trend.Long-termsimulated warmingsignificantly increasedsoil microbial biomasscarbonandnitrogencontentsattheO—20cmsoil depth inAprilandatO40cmsoil depth in July,buthadnoefectonsoil microbial biomasscarbo inOtober,although soilmicrobialbiomassnitrogencontentalso significantly increased at $_ { 0 - 4 0 \\mathrm { c m } }$ soil depth.The ratio of microbial biomass carbon to microbial biomass nitrogen significantly increasedinJuly.Correlationanalysisshowed thatsoil microbialbiomass carbonand nitrogen werenot significantlycorrelatedwith soil temperature，soil water content，and total nitrogenintheOTCandcontrol group.Soil microbial biomasscarbonand nitrogencontentsand theratioof microbial biomasscarbon tomicrobial biomass nitrogen showedapositivecorrelation withthe soilorganiccarbon intheOTC,butshowedanegativecorelation withthesoilorganic carboninthecontrol group.Thus，soil organiccarbonisan important ecological factor afecting theresponsesof soil microbial biomass carbon and nitrogen to long-term simulated warming. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:soil microbial biomass carbon；soil microbial biomass nitrogen；long-term simulated warming；East Chongming Island wetlands ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "全球气候正在逐渐变暖,据IPCC 第五次评估报告预测,从20 世纪初到现在为止,全球平均地表温度升高$0 . 7 4 ^ { \\circ } \\mathrm { C }$ ,至 21世纪末全球平均地表温度可能将升高1.4— $4 . 0 \\%$ 。土壤微生物是土壤中有机物质的分解者和转化者,在土壤生态系统中占有重要地位[2],土壤微生物生物量是指土壤中所有活微生物体内所含有的生物量总量,不仅可以反映微生物群体大小(重量和质量),而且能够反映微生物活性大小[3]。尽管土壤微生物生物量只是土壤有机质中很少的一部分，一般仅占土壤有机质 $1 \\% - 5 \\%$ ,却是土壤中最活跃的有机质组分[4],土壤微生物生物量直接调控土壤有机质的转化过程,其周转速率快,在土壤有机质循环过程中占有关键地位,对于土壤营养物质在陆地生态系统中的循环起着重要作用,土壤微生物生物量还可供植物直接吸收利用，是植物重要的土壤养分“库”和\"源”[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来国内外对土壤微生物生物量的研究主要集中在土壤微生物生物量的季节变化特征[6、与环境因子的关系[7以及不同植物[8]、不同土地利用方式[9]、不同生态系统类型[10]对其的影响。随着气候变化的不断加剧,开始有越来越多的研究关注升温对土壤微生物生物量的影响,温度是影响土壤微生物活性的一个重要因素,温度可以通过控制土壤有机质的分解速率和养分的有效性直接或间接地影响土壤微生物生物量[11],有研究表明土壤微生物生物量对温度变化非常敏感[12],但是,目前有关升温对土壤微生物生物量的影响还没有统一的结论。Rinnan 在芬兰西北部的 Kilpisjarvi样地升温3年后,发现土壤微生物生物量碳氮含量明显降低,升温11年后发现土壤微生物生物量碳氮含量没有明显变化[13],说明升温对土壤微生物生物量的影响可能与升温时间长短有关。升温对土壤微生物生物量的影响还与生态系统类型有关,其影响表现出了显著提高（欧石楠灌丛)[14]、降低(高寒草甸)[15]或者没有影响（温带山地森林)[16]3种不同的结果。Bait通过整合分析认为陆地生态系统的土壤微生物生物量碳比微生物生物量氮对升温更加敏感[17],而Lu等[18]在山毛榉森林进行的模拟升温( $( + 2 . 8 2 ^ { \\circ } \\mathrm { C } \\$ )对土壤微生物生物量碳含量没有影响,却显著降低了土壤微生物生物量氮含量,说明不同生源要素的土壤微生物生物量对升温的响应不同。因此,模拟升温对土壤微生物生物量的影响与处理时间长短、生态系统类型和生源要素类型等因素有关,结果存在一定的不确定性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "湿地生态系统是地球上具有多种功能的独特生态系统,介于陆生生态系统和水生生态系统之间。崇明东滩是长江口地区规模最大、发育最完善的河口潮汐型滩涂湿地,也是上海市的重要生态屏障,此外,崇明东滩湿地具有许多重要的生态学功能,不仅在维持较高的生物多样性、涵养水源等方面发挥着重要作用,而且固碳能力也十分显著[19],因此崇明东滩湿地成为近年来国内湿地研究的热点地区之一。到目前为止,国内外学者关于升温对土壤微生物生物量的影响的研究大多集中于森林、草原以及农田等生态系统[20-22],但就气温升高与湿地土壤微生物生物量关系的研究相对较少,基于长期原位升温试验的研究结果更是鲜见报道,而这对于构建长江口湿地土壤生化过程对气候变暖的响应模型极为重要[23]。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究拟以长江口崇明东滩湿地为对象,采用开顶室生长箱（Open top chambers OTCs）原位模拟大气温度升高,在升温的第8年,监测了升温样方和对照样方在不同月份、不同土层土壤微生物生物量碳氮含量及土壤环境因子的变化特征,在此基础上探讨崇明东滩湿地土壤微生物生物量碳氮含量对长期模拟升温的潜在响应特征,以期为气候变化条件下河口湿地的可持续管理提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区域概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区域位于上海市崇明东滩98大堤和92大堤之间的滩涂湿地 $( 1 2 1 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { E } , 3 1 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { N } )$ ,处于崇明岛的最东端,该区域属于北亚热带海洋气候,年平均气温 $4 5 . 3 ^ { \\circ } \\mathrm { C }$ ,气温最低的1月与最高的7、8月份月平均温度分别为 $2 . 9 ^ { \\circ } \\mathrm { C } \\ . 2 7 . 5 ^ { \\circ } \\mathrm { C }$ ,年均降水量充足,为 $1 1 1 7 . 1 \\mathrm { m m }$ ,年平均日照时数为2104h,地下水位平均为 $- 8 5 . 7 \\mathrm { c m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 样方建设",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2008 年2月,本实验样地选取崇明东滩湿地中地势均匀、植被均一的地块,选取8个样方建立开顶式生长箱,生长箱由厚 $8 \\mathrm { m m }$ 的透明氟化玻璃和不锈钢框架制成,箱体高 $3 . 5 \\mathrm { m }$ ,底面积 $1 2 . 5 \\mathrm { m } ^ { 2 }$ ,为了减少气体交换的干扰,顶部开口略收紧。随机选取其中4个样方作为升温样方（OTC）,同时在每个OTC 旁边设置4个与OTC 底面积相同的对照样方（CK）（图1）,为防止在实验过程中践踏破坏植被和土壤,在各样方之间和样方内部都设置木质或者砖石质步道。样地土壤基本特征见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 环境因子监测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用温湿度传感器（VAISALAHMP45A，Helsinki，Finland）和土壤温度传感器（ENC16/18）分别监测OTC 和 CK 内的 $\\phantom { + } 1 . 2 \\phantom { \\rule { 0.3 em } { 0 ex } }$ 处空气温度、0—5cm土层温度。数据由连接传感器的数据采集系统(LT/WSK-PLC,前景公司，北京)采集并储存。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c60e4679ad3252562ede349f55eea2af18f87e8b16fdd8f22669a8dd6b2545cf.jpg",
+        "table_caption": [
+            "表1升温与对照土壤含水量、有机碳和总氮的季节变化",
+            "Table1Seasonal variationof soil watercontent，soil organiccarbon and totalnitrogen inthe warming groupandcontrol group "
+        ],
+        "table_footnote": [
+            "OTC：开顶室生长箱,Open topchamber;CK：对照,Control "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">S 指标Indicators</td><td colspan=\"2\">4月Apr.</td><td colspan=\"2\">7月July</td><td colspan=\"2\">10月Oct.</td></tr><tr><td>OTC</td><td>CK</td><td>OTC</td><td>CK</td><td>OTC</td><td>CK</td></tr><tr><td>有机碳Organic carbon/(mg/g)</td><td>5.07</td><td>5.54</td><td>7.42</td><td>6.07</td><td>7.31</td><td>4.85</td></tr><tr><td>总氮 Total nitrogen/(mg/g)</td><td>1.51</td><td>1.38</td><td>1.28</td><td>1.19</td><td>1.36</td><td>1.29</td></tr><tr><td>土壤含水量 Soil water conent/%</td><td>37.02</td><td>35.92</td><td>33.49</td><td>36.46</td><td>36.46</td><td>33.30</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 土壤样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于2015年4月10日、7月13日、10月15日进行了3次土壤样品采集,分别在每个样方内随机取4个样点，每个样点用土壤钻采集0—10、10—20、20—30、30— $4 0 \\mathrm { c m }$ 深度的土壤,然后将同一个样方内的土壤样品分",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb47fe4f0849b491a951a0b9f887857d46e8a8eebb19ba32db01c96e659a9bf0.jpg",
+        "img_caption": [
+            "图1研究区域及样方设置格局",
+            "Fig.1The location of the study area and the patters of plots configuration "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "层混匀代表该样方,将采集好的新鲜土壤样品迅速带回实验室,剔除石块、可见动植物残体,然后将鲜土分为两部分，一部分鲜土过 $2 \\mathrm { m m }$ 土壤筛,用于土壤微生物生物量的测定以及土壤含水量的测定,另一部分鲜土放在常温隐蔽处自然风干,研磨并过 $1 \\mathrm { m m }$ 土壤筛,过筛后得到的土壤样品用于测定土壤总有机碳和总氮含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4土壤样品测定方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物生物量碳和氮（MBC 和MBN)的分析方法参照《土壤微生物量测定方法及其应用》中的氯仿熏蒸一 ${ \\bf \\cdot K } _ { 2 } \\mathrm { S 0 } _ { 4 }$ 浸提法[24],用 $0 . 5 \\mathrm { m o l / L }$ （204号 $\\mathrm { K } _ { 2 } \\mathrm { S } 0 _ { 4 }$ 溶液浸提熏蒸和未熏蒸的土壤,浸提液过滤后直接在总有机碳分析仪（Multi N/C 3100 Analytic Jena Co.Ltd.，Germany）上测定,土壤含水量的测定采用烘干法,土壤总有机碳采用重铬酸钾氧化-分光光度法进行测定，土壤总氮的测定采用全自动间断化学分析仪（CleverChem 200,郎诚实业公司,深圳）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本论文中数据均采用 SPSS 17.0统计软件进行单因素方差分析、双因素方差分析和Pearson 相关性分析，统计显著性水平设定为 $a = 0 . 0 5$ ,采用Microsoft Office Excel 2007进行作图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1OTC 的增温效果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图2所示,OTC 内 $1 . 2 \\mathrm { m }$ 处空气年平均温度比对照样方显著增加 $( 1 . 1 1 { \\pm } 0 . 7 ) \\mathrm { ‰ }$ 2月份的月平均空气温度增幅达到最大值,比对照增加 $4 . 2 3 ^ { \\circ } \\mathrm { C }$ ;0- ${ . 5 } \\mathrm { c m }$ 土层温度平均增加 $( 0 . 5 6 { \\pm } 0 . 4 0 ) ^ { \\circ } \\mathrm { C }$ ,但是不显著,在4月份，土壤温度的增幅达到了最大，比对照增加 $1 . 1 6 ^ { \\circ } \\mathrm { C }$ ，上述实验结果表明，OTC处理对空气温度增温效果最显著，且大于对土壤温度的增温效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2长期模拟升温对土壤微生物生物量碳的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由双因素方差分析（表2）,发现升温对 MBC有显著影响,升温和采样时间对 MBC 的交互效应对0—$1 0 \\mathrm { { c m } }$ 土层没有影响;由3个季节平均值的单因素方差分析,发现升温总体上显著升高了 $_ { 0 - 4 0 \\mathrm { c m } }$ 土层的MBC，4个土层的MBC升高幅度分别为 $3 9 . 3 2 \\% . 7 0 . 7 9 \\% . 6 5 . 2 0 \\% . 7 4 . 0 9 \\%$ ,升高幅度最大的土层是第4层，最小的土层是表层;由不同季节不同土层的单因素方差分析,发现升温显著提高4月份 $_ { 0 - 2 0 \\mathrm { c m } }$ 土层和7月份",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6b1f651a2c2ce97cdea0d17263325489487c6eb33563d4f95925bb577d43295.jpg",
+        "img_caption": [
+            "图2增温与对照空气温度与土壤温度的月变化",
+            "Fig.2Monthly changes of air temperature and soil temperature in warming group and control group "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OTC，开顶室生长箱Open top chamber;CK，对照Control ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0—40cm土层的 MBC,升温对10月份0—40cm土层 MBC 没有显著影响（图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/689d1b4878ac6480a4c63ae7895e0257379c73912bcf71d95cdb4e29e45121e9.jpg",
+        "table_caption": [
+            "表2升温与采样时间对土壤微生物生物量碳氮含量和微生物生物量碳氮比的双因素方差分析",
+            "Table2Two-factorANOVAforsoilmcrobialbomasscarbonmicrobialbiomass nitrogeandtheratioofmcrobialbomasscarboto microbial biomass nitrogen to warming and sampling date "
+        ],
+        "table_footnote": [
+            "W:升温,Warming;D:采样时间,Samplingdate;MBC:微生物生物量碳,Microbial biomassC；MBN:微生物生物量氮,Microbial biomass N;IBC/MBN;微生物生物量碳氮比,The ratio of microbial biomass carbon to microbial biomass nitrogen"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标 Indicators</td><td rowspan=\"2\">A 因子 Factors</td><td colspan=\"4\">土层深度 Soil depth</td></tr><tr><td>0—10cm</td><td>10—20cm</td><td>20—30cm</td><td>30—40cm</td></tr><tr><td>MBC</td><td>W</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.005</td></tr><tr><td></td><td>D</td><td><0.001</td><td><0.001</td><td>0.001</td><td>0.103</td></tr><tr><td></td><td>WxD</td><td>0.678</td><td>0.037</td><td>0.001</td><td>0.010</td></tr><tr><td>MBN</td><td>W</td><td><0.001</td><td><0.001</td><td>0.002</td><td><0.001</td></tr><tr><td></td><td>D</td><td>0.002</td><td>0.068</td><td>0.009</td><td>0.035</td></tr><tr><td></td><td>WxD</td><td>0.887</td><td>0.140</td><td>0.801</td><td>0.500</td></tr><tr><td>MBC/MBN</td><td>W</td><td>0.375</td><td>0.006</td><td>0.709</td><td>0.836</td></tr><tr><td></td><td>D</td><td><0.001</td><td><0.001</td><td>0.008</td><td>0.790</td></tr><tr><td></td><td>WxD</td><td>0.693</td><td>0.002</td><td>0.003</td><td>0.052</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3长期模拟升温对土壤微生物生物量氮的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由双因素方差分析（表2）,发现升温对MBN有显著影响,而升温和采样时间的交互效应对 MBN 影响不显著;由3个季节平均值的单因素方差分析,发现升温总体上显著升高了0—40cm土层的 MBN,4个土层的MBN升高幅度分别为 $6 6 . 4 6 \\%$ ） $1 7 8 . 2 7 \\%$ ） $4 7 . 2 4 \\%$ ） $6 4 . 1 1 \\%$ ,升高幅度最大的土层是第2层,最小的土层是第3",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4519086ed7e79210ded95d56a3133b1e73692f693cec47732dcda5e3bcd71af.jpg",
+        "img_caption": [
+            "图30一40cm土层模拟升温对微生物生物量碳的影响",
+            "Fig.3Effects of artificial warming on microbial biomass carbon of O—40cm soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "OTC：开顶室生长箱，Open topchamber;CK;对照,Control ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "层；由不同季节不同土层的单因素方差分析,发现升温显著升高4月份0— $2 0 \\mathrm { c m }$ 土层 MBN,升温也显著提高7月和10月0—40cm土层的 MBN（图4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4长期模拟升温对土壤微生物生物量碳氮比的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由双因素方差分析(表2）,发现升温仅对10—20cm土层微生物生物量碳氮比值有显著影响,升温和采样时间的交互效应对微生物生物量碳氮比值仅在10—20、20—30cm土层呈现显著影响;由3个季节平均值的单因素方差分析，发现升温总体上对0—40cm土层的土壤微生物生物量碳氮比没有显著影响;由不同季节不同土层的单因素方差分析,发现升温对4月份0—40cm土层微生物生物量碳氮比值没有影响,在7月份,升温显著提高 10- $3 0 \\mathrm { c m }$ 土层微生物生物量碳氮比,在10月份,升温显著降低 $1 0 { - } 2 0 \\mathrm { c m }$ 土层微生物生物量碳氮比,",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/18c8272aa815617bf61ed90371c651684e9790950ee560d2a9a9f033f10696e6.jpg",
+        "img_caption": [
+            "图40—40cm土层模拟升温对微生物生物量氮的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Effects of artificial warming on microbial biomass nitrogen of O—40cm soil depth ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OTC：开顶室生长箱，Open topchamber;CK;对照,Control对其他土层没有影响（图5）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5土壤微生物生物量与土壤环境因子的相关性分析",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OTC 和CK土壤 MBC、MBN 与土壤环境因子相关分析表明:在OTC 和CK,土壤温度、土壤含水量、总氮与MBC、MBN 以及土壤微生物生物量碳氮比值无显著相关性,在OTC,有机碳与 MBC、MBN 和土壤微生物生物量碳氮比值呈显著正相关,但是在CK,有机碳与 MBC、MBN 和土壤微生物生物量碳氮比值呈显著负相关（表3）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1长期模拟升温总体上对土壤微生物生物量碳氮含量和微生物生物量碳氮比的影响土壤有机质的有效性会限制土壤微生物生物量,不同基质元素对微生物的有效性不同[25]。多数研究表",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7686bb8a4e9e8690633fb5787bcb0c476e549e2c4d98bd4a81f11b6f4be51d9.jpg",
+        "img_caption": [
+            "图 $\\begin{array} { r l } { 5 } & { { } \\mathbf { 0 } { - } 4 0 \\mathbf { c m } } \\end{array}$ 土层模拟升温对土壤微生物生物量碳氮比的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Effects of artificial warming on the ratio of microbial biomass carbon to microbial biomass nitrogen of $\\mathbf { 0 - 4 0 c m }$ soil depth N OTC，开顶室生长箱 Open top chamber;CK，对照 Control ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3升温与对照土壤微生物生物量碳氮和土壤微生物生物量碳氮比与土壤环境因子的Pearson相关性分析明,升温对土壤微生物生物量没有影响[26],但是本项研究结果表明长期模拟升温总体上显著增加崇明东滩湿地土壤微生物生物量碳氮含量,这与 Bell等[27]的研究结果一致,可能是因为升温加快了土壤中养分的分解速率[28],使得土壤中微生物可利用养分的有效性提高,微生物的生长和繁殖活动增强,从而进一步提高了土壤微生物生物量碳氮含量。本研究结果表明长期模拟升温对土壤微生物生物量碳氮比值没有显著影响，这与$\\mathrm { X u }$ 等[22]研究结果一致。普遍认为,相比深层土壤,升温效应对表层土壤的影响更大[29],本研究结果也发现长期模拟升温对深层土壤微生物生物量氮含量的影响要小于表层。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/287c294bef80501e9d9fe3bd33ca0c94826e29cb2eab67c817eecdb543d21c9c.jpg",
+        "table_caption": [
+            "Table3PearsonCoelatioaalyisoftweesolmcobialomassbocrobaliomasstrognadtheatioofmicoala carbon to microbial biomass nitrogen and soil environment factors in the warming group and control group "
+        ],
+        "table_footnote": [
+            "\\*代表相关性达到显著水平， $\\scriptstyle P < 0 . 0 5$ ， $* *$ 代表相关性达到极显著水平， $P { < } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatments</td><td rowspan=\"2\">指标 Indicators</td><td rowspan=\"2\">土壤温度 Soil temperature 相关系数R²</td><td>土壤含水量 Soil water content</td><td>有机碳 Soil organic carbon</td><td>总氮 Total nitrogen</td></tr><tr><td>相关系数R</td><td>相关系数R²</td><td>相关系数R²</td></tr><tr><td>OTC</td><td>MBC</td><td>Correlation coefficient 0.268</td><td>Correlation coefficient -0.121</td><td>Correlation coefficient 0.748 *</td><td>Correlation coefficient</td></tr><tr><td rowspan=\"5\">CK</td><td>MBN</td><td>0.172</td><td>-0.171</td><td>0.358 *</td><td>0.424 0.489</td></tr><tr><td>MBC/MBN</td><td>0.568</td><td>-0.550</td><td>0.880 **</td><td>-0.453</td></tr><tr><td>MBC</td><td>0.214</td><td>-0.494</td><td>-0.871 **</td><td>0.090</td></tr><tr><td>MBN</td><td>0.231</td><td>-0.291</td><td>-0.515 *</td><td>0.184</td></tr><tr><td>MBC/MBN</td><td>-0.359</td><td>-0.575</td><td>-0.847 **</td><td>0.134</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2长期模拟升温对不同季节、不同土层微生物生物量碳氮含量和微生物生物量碳氮比值的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "双因素方差分析表明,温度和采样时间对深层土壤微生物生物量碳含量存在显著交互作用,但是对各土层微生物生物量氮含量的交互作用不显著,长期模拟升温显著提高了4月0—20cm土层和7月份 $\\mathtt { 0 - 4 0 c m }$ 土层微生物生物量碳氮含量,4月份和7月份分别是植物生长初期、快速生长期,升温加快植物生长速率,根分泌到土壤的营养物质供应增加和细根生长增加,均有益于土壤微生物生长,此外温度升高可以一定程度上提高土壤微生物的活性[30],微生物体在与植物竞争营养物质的过程中,可能得到更多的营养物质[31],从而导致OTC 内土壤微生物生物量升高。长期模拟升温也显著提高了10 月份0—40cm 土层微生物生物量氮含量,可能是因为10月份植物凋落物增多,升温促进了凋落物的分解[32],到土壤的有机质就增多，微生物可利用的营养物质增多，导致土壤微生物生物量较高[33]。土壤微生物生物量碳氮比能够反映土壤微生物群落结构信息[34],本研究结果显示长期模拟升温仅显著提高了7月份10—30cm土层微生物生物量碳氮比值,显著降低了10月份 $1 0 { - } 2 0 \\mathrm { c m }$ 的微生物生物量碳氮比,对4月份没有显著影响,长期模拟升温对不同土层、不同季节微生物生物量碳氮比的影响的差异性可能与土壤中微生物群落结构变化有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3土壤微生物生物量碳氮含量以及微生物生物量碳氮比与环境因子的相关性",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "许多研究表明,土壤微生物生物量碳氮含量与土壤水分存在较高的显著关系[,本研究却表明崇明东滩湿地升温与对照土壤微生物生物量碳氮含量和微生物生物量碳氮比与水分关系很小，同时，土壤温度、土壤总氮也与土壤微生物生物量碳氮含量和微生物生物量碳氮比不存在显著相关性,说明在本研究中崇明东滩湿地土壤温度、土壤含水量和土壤总氮不是影响土壤微生物生物量碳氮含量的限制性因子。另外,本研究表明OTC 组土壤微生物生物量碳氮含量和土壤微生物生物量碳氮比与土壤有机碳呈显著正相关,土壤有机碳含量高,能够为微生物进行繁殖与代谢过程提供足够的营养物质来源以及能量来源[35」,而对照则与之相反,土壤微生物生物量碳氮含量和土壤微生物生物量碳氮比与土壤有机碳呈显著负相关,因此,土壤有机碳是影响崇明东滩湿地土壤微生物生物量碳氮含量的重要因子。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究中,长期模拟升温显著提高崇明东滩湿地土壤微生物生物量碳氮含量,暗示土壤养分循环速率增加,模拟升温对土壤微生物生物量的影响也与月份变化和土壤深度有关,同时,土壤有机碳是影响土壤微生物生物量碳氮含量对长期模拟升温响应的重要生态因子。本研究关于长期模拟升温对崇明东滩湿地土壤微生物生物量碳氮的影响与机制研究还不够透彻,分析土壤微生物生物量对长期模拟升温变化的响应，一方面需要考虑升温对土壤微生物生物量的直接影响,另一方面还需考虑升温可能通过影响土壤微生物群落组成结构、植被以及土壤养分等因素间接地影响土壤微生物生物量,这些过程有可能同时发生、互相作用影响到土壤微生物生物量,从而影响湿地生态系统物质循环,这是科学认识气候变化对湿地生态系统物质循环影响的关键,也是需要进一步深入研究的方向。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]IPCC.Climate change 2O07：the physical science basis.Cambridge：Cambridge University Press，2007.   \n2]Filipeisnaialeet   \n2002，88(2)：169-174. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "KicklighterDWleidon,eloRartonWJalaOE,SyesTelowoundcoseqencesofvegetatiohangeandeirtin models.Ecological Applications，2000，10(2）：470-483.  \n[4] Tate RL III.Soil Microbiology.2nd ed.New York：John Wiley& Sons,Inc.,2000.  \n[5] LundquistEJ,JcoLE,owKHsuCagsibialasduositndlbdrgseincorporation of rye into three Californiaagricultural soils.Soil Biologyand Biochemistry，1999,31(2）：221-236.  \n[6] 张静，马玲，丁新华，陈旭日，马伟.扎龙湿地不同生境土壤微生物生物量碳氮的季节变化.生态学报，2014，34（13）：3712-3719.  \n[7] 赵先丽，周广胜，周莉，吕国红，贾庆宇，谢艳兵.盘锦芦苇湿地土壤微生物生物量C的季节动态.土壤通报，2008，39（1)：43-46.  \n[8] 杨凯，朱教君，张金鑫，闰巧玲.不同林龄落叶松人工林土壤微生物生物量碳氮的季节变化.生态学报，2009，29（10)：5500-5507.  \n[9] 彭佩钦，吴金水，黄道友，汪汉林，唐国勇，黄伟生，朱奇宏.洞庭湖区不同利用方式对土壤微生物生物量碳氮磷的影响.生态学拍2006,26(7): 2261-2267.  \n[10] 吴建国，艾 丽.祁连山3种典型生态系统土壤微生物活性和生物量碳氮含量.植物生态学报，208，32(2)：465-476.  \n[11] LiskiJ，NissA，dasinenO.aticetsiteeoposiofrorcticndratroalforestGlolCngeBiology，2003,9(4):575-584.  \n[12] AlvarezR,SantaatogliOciaRtoferatureolobalossdsetabolicotitisiderfetisystems.Biology and Fertility of Soils，1995，19(2/3）：227-230.  \n[13] RianR,StarkS,laespsesofvgeationdilrobalomitis twaingdsilatedhrboyinbcatJournal of Ecology，2009,97(4）：788-800.  \n[14] Van MeeterenMJM,TeteaA,VanLoonEE,VertratenJM.Microbialdyamicsanditerdeomposiounderachangedlateinutchheathland.Applied Soil Ecology，2008，38(2）：119-127.  \n[15] 李娜，王根绪，高永恒，王俊峰，柳林安.模拟增温对长江源区高寒草甸土壤养分状况和生物学特性的影响研究.土壤学报，2010,47(6):1214-1224.  \n[16] Schindbacher，er，Kuer，KieraB，sis，ZecheisterBlestaExperitalwainfsoclcommunityofatem erate mountain forest soil. Soil Biology and Biochemistry，2011,43(7）:1417-1425.  \n[17] BaiE,LiSL,XuWH,LiWDaWW,JiagP.Aaalyssfexpilwangetsoestialrnosdic.New Phytologist，2013，199(2）:441-451.  \n[18] LuS，WangQKataataSraotoagHSlobalctiinhfrestsderaturalicubtoodioyglobal warming.Pedosphere，2014，24(6）：709-721.  \n[19] McleodE,CuraGL,BouillnS,alR,jork,DuarteC,LovelocCE,hlesingerWH,llanBR.Abueprtforbueabtoward an improved understanding of the role of vegetated coastal habitats in s questering $\\mathrm { C O } _ { 2 }$ .Frontiers in Ecology and the Environment,211,9(10): 552-560.  \n[20]WangXX,DgSK,GQZ,ZoHK,LuSLSuXK,LiYYectsfsor-eandloewagsolutretsobalbiomassandenzeactivitiesinanalpine meadowontheQinghai-TetPlateauofChina.SoilBiologandBiochemistry，2014，76：140-42.  \n[21]LiuY,LiM,ZhengJW,LiLQ,ZhangXH,ZhengJF,PanGX,Yu XY,WangJF.Short-teresponsesof microbialcomityandfunctioning to experimental $\\mathrm { C O } _ { 2 }$ enrichment and warming in a Chinese paddy field. Soil Biology and Biochemistry,2O14,77(7）：58-68.  \n22]XuZF,Hu，iogWanC，CaG,LuQitiallespostxperitalwagintotrstigforestossTibetanPlateau,China:ntrntavalabilits，crobialpropertisndnzectitisApdSlcoloy，,46(2)：9-299.  \n23AlioeeKsisdlrfand Biochemistry，2010,42(10）：1872-1878.  \n[24] 吴金水，林启美，黄巧云，肖和艾.土壤微生物生物量测定方法及其应用.北京：气象出版社，2006.  \n[25] 吴建国，吕佳佳.土壤有机碳和氮分解对温度变化的响应机制.生态学杂志，2008，27（9)：1601-1611.  \n[26] RinnanR，MicelsenAathE,Jasonfteeearsoflateangeipulatiosaltersolicobialutisinbcticatecosystem. Global Change Biology，2007，13（1）: 28-39.  \n[27]Belliooosneaslrooftracellaectitdoalossngdgaddition. Soil Science Society of America Journal,2010,74(3): 820-828.  \n[28] RustadL，CampellJ，MarionGNorbyR，Mitchell，HartleyA，CoelissenJ，GurevichJ.Ameta-analysisftheresosfoilrespirationetrgatiodoodplantohpalosteOol）.  \n[29] 冯瑞芳，杨万勤，张健．森林土壤有机层生化特性及其对气候变化的响应研究进展.应用与环境生物学报，2006，12（5）：734-739.  \n30] 陈华癸.土壤微生物学.上海：上海科学技术出版社，1979：311-314.  \n[31 MichelsenA,GagliaE,hdtIKoasoS,SleeDQuarbyC.ferenialresposesofgrassadadwarfshubtg-eageinSoilicobalss,dctodrtluedlbatolst9(3): 523-538.  \n[32] 张卫建，许泉，王绪奎，卞新民.气温上升对草地土壤微生物群落结构的影响.生态学报，2004，24（8)：1742-1747.  \n[33] DeviNB,YadavaasonaldyaicsinsoilicobialioassC，andPinaixedakforestcossteofaipur，NortastIdia.Applied Soil Ecology，2006，31(3）:220-227.  \n[34] WardeDA.Ctrolsofepoalrabilityofhslcbalas:gobalalessisSlnocstr）：1627- 1637.  \n[35] JiaGM,Cao，WangWangGoaloassdrtsiolaftagsofdfrsucessoZilinnorthwest China.Forest Ecology and Management，2005,217(1）：117-125.",
+        "page_idx": 9
+    }
+]

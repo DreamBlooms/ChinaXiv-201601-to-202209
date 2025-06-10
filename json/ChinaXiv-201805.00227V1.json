@@ -1,0 +1,387 @@
+[
+    {
+        "type": "text",
+        "text": "基于统计差分LPP的多模态间歇过程故障检测 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭金玉，仲璐璐，李元(沈阳化工大学 信息工程学院，沈阳 110142)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:针对工业过程数据存在的非高斯和多模态特性,提出一种基于统计差分LPP的多模态间歇过程故障检测方法。首先将统计模量分析的方法应用到间歇过程训练数据集中，计算统计过程变量的均值和方差，将不等长的批次变成等长的统计量，保证统计模量近似服从高斯分布；然后运用差分算法使多模态变为单模态，最后运用LPP算法进行降维和特征提取，计算样本的T统计量，并利用核密度估计确定控制限。对于新来的测试样本数据统计差分处理后，向LPP模型上进行投影，计算新数据的T统计量并与控制限比较进行故障检测。最后通过半导体过程数据的仿真结果表明，该算法的故障检测效果最好，验证了所提方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多模态间歇过程；统计模量分析；差分算法；局部保持投影算法；故障检测 中图分类号：TP277 doi: 10.3969/j.issn.1001-3695.2017.07.0665 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fault detection of multi-mode batch process based on statistics difference LPP ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guo Jinyu, Zhong Lulu, Li Yuan (College of Information Engineeing,Shenyang UniversityofChemical Technology,Shenyangl10142,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atnon-Gausianand multi-modecharacteristics exist in industrial processdata,this paper proposedafault detectionof multi-modelbatch processmethod basedonstatistics diferenceLPP.Firstly,themethodofstatisticalpattern analysis wasapplid tothebatch processtrainingdataset tocalculate the meanandvarianceofstatistical process varables,and turedtheuneven-lengthbatches intoequal-length statistics.Itcould ensure thatthestatisticspaternapproximatelyobeyedthe Gaussian distribution.Then itused thediference algorithm totransformthemulti-mode intosingle mode.Finaly,itusedthe LPP algorithm to reduce dimension and extract feature,and calculated the $\\mathrm { T } ^ { 2 }$ statistic of the sample.And it used the kernel density estimation to determine thecontrol limit.Thenew test sample data projectedontotheLPP model after statistics difference processing. Then it calculated the $\\mathrm { T } ^ { 2 }$ statistics of the new data and compared them with the control limit for fault detection.Finall,thesimulationresultsofthesemiconductorprocessdatashowthatthisalgorithmhasthebestfaultdetection effect,and demonstrate the effectiveness of the proposed algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:ultimodebatchproces;statisticspatteranalysis; dierencealgorithm;localitypreservingprojectionsalgorithm; fault detection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着现代工业的快速发展，原材料的波动、工作点的调整、产品规格及批次不同等使生产过程的工况频繁发生改变，这就导致了过程变量不完全服从高斯分布，且其均值与协方差结构将随着模态的切换而发生变化。由于传统主成分分析法[1\\~3](principal component analysis,PCA)应用于多模态过程中，其需要数据满足单一分布的基本特点无法满足，同时也缺乏提供非高斯数据特征的能力，所以如果直接将PCA算法应用到间歇过程中并不能得到令人满意的检测结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对工业生产过程中存在的多模态问题，Zhao 等人[45]提出了基于PCA和PLS的多模型方法，该方法通过对过程中的多个模态分別建立局部模型进行故障检测，但该类方法具有一定的局限性，当建立多个子模型之后，需要对实时样本实现在线检测，这时对在线样本的归属划分及其重要，错误的判别会导致模型与检测样本不匹配，产生错误的检测结果。为此，华东理工大学的马贺贺等人[6提出了一种局部近邻标准化数据处理方法(local neighborhood standardization,LNS)，利用每个样本局部近邻的均值和标准差标准化该样本，使数据标准化后尽可能服从单峰分布，并结合PCA算法提出了一种多模态故障检测方法：局部近邻标准化主元分析算法（localneighborhoodstandardization principle component analysis，LNS-PCA)。该算法是将过程中所有模态视为一个统一整体，建立统一的故障检测模型，可以有效避免对实时检测样本归属的判别，但该方法的近邻数 $k$ 的选取对检测结果影响较大，而且该方法根据经验选取的近邻数 $k$ 需要以各个模态过程知识为依托。为了弥补LNS-PCA 算法的不足，Wang 等人[7]提出了一种加权 $\\mathbf { k }$ 近邻标准化PCA（weighted K neighbourhood standardisation PCA，WKNS-PCA）算法，该方法可以在无须确定近邻参数 $k$ 的情况下使多模态过程数据近似服从高斯分布，和LNS-PCA算法相比，该算法更加科学有效，具有更优越的数据处理能力，但以上两种算法都是全局算法，不能保持数据的局部结构。为了保持数据的局部结构，Hu 等人[8]将局部保持投影(localitypreservingprojections，LPP)算法成功应用在统计过程监控中。为了更好地保持数据的局部结构，Cai等人[9提出了正交局部保持投影(orthogonal locality preserving projections,OLPP)，在LPP的基础上增加了一个正交化的约束条件，通过迭代计算得到相互正交的投影方向。在此基础上，Guo 等人[0]提出了一种基于动态多向正交局部保持投影(dynamicmultiwayorthogonallocality preserving projections，DMOLPP）算法用于间歇过程故障检测，该算法将滑动窗口技术与正交局部保持投影相结合，能够在保留原始训练样本特征信息的同时降低数据误差重构方面的难度。然而这些局部算法不能处理数据的多模态问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对数据信息不全面以及多工况所引起的非高斯、多模态等问题，本文尝试将多模态问题转换为单模态问题进行故障检测。为了使数据从多模态变为单模态，并且近似服从高斯分布，在提高不等长间歇过程故障检测性能的同时，降低算法的复杂度，本文结合统计模量分析（statistics pattern analysis,SPA）算法，提出一种基于统计差分 LPP(statistics difference localitypreservingprojections，SDLPP)的多模态间歇过程故障检测方法。其思想是运用SPA算法保证数据近似服从高斯分布，然后利用差分算法，在保持数据内部结构的同时，使多模态数据变为单模态，最后运用LPP算法提取数据特征并保持数据局部结构，从而达到提高多模态间歇过程故障检测性能的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 局部保持投影算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LPP 算法[11\\~14]是一种用于提取数据特征信息的降维方法。它可以很好的保留数据的局部信息，主要考虑的是保持数据中近邻点之间的结构，其本质是对拉普拉斯特征映射的线性逼近。它是LE算法的扩展，且与LE的目标函数相同，但是它使用显式的线性映射。算法的核心是寻找转换矩阵 $\\textbf {  { A } }$ 使一系列的（204 $\\pmb { X } = [ x _ { 1 } \\quad x _ { 2 }$ Λ $\\boldsymbol { x } _ { n } \\mathbf { J } \\in \\mathbf { R } ^ { m \\times n }$ 投影到 $\\pmb { Y } = [ y _ { 1 } ^ { \\phantom { \\dagger } }$ $y _ { 2 }$ Λ $y _ { n } ]$ （20$\\in R ^ { l \\times n } ( l = m )$ 上，即 $y _ { i } = { \\pmb { A } } ^ { T } x _ { i }$ ，使 $\\boldsymbol { \\mathsf { Y } }$ 尽可能代表 $X .$ 。求解 $\\textbf {  { A } }$ 可以通过优化如下最小值问题:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\pmb { a } _ { o p t } = \\arg \\operatorname* { m i n } _ { \\pmb { a } } \\sum _ { i , j } \\big \\| y _ { i } - y _ { j } \\big \\| ^ { 2 } \\pmb { W } _ { \\ast } } \\\\ & { = \\arg \\operatorname* { m i n } _ { \\pmb { a } } \\sum _ { i , j } \\big \\| \\pmb { a } ^ { \\prime } x _ { i } - \\pmb { a } ^ { \\prime } x _ { j } \\big \\| ^ { 2 } \\pmb { W } _ { \\ast } } \\\\ & { = \\arg \\operatorname* { m i n } _ { \\pmb { a } } \\pmb { a } ^ { T } X L X ^ { T } \\pmb { a } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "约束条件为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { a } ^ { T } \\pmb { X } \\pmb { L } \\pmb { X } ^ { T } \\pmb { a } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { L }$ 是Laplacian 矩阵， $\\scriptstyle { L = D - W }$ ， $\\mathbf { \\Delta } _ { W }$ 是定义在数据点上的相似矩阵， $D _ { i i } = \\sum _ { j } W _ { i j }$ ，其计算方式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { W } _ { i j } = \\left\\{ \\begin{array} { l l } { \\exp ( - \\left\\| ~ \\boldsymbol { x } _ { i } - \\boldsymbol { x } _ { j } ~ \\right\\| / t ) , } & { \\boldsymbol { \\mathcal { W } } \\underset { i \\in \\mathcal { X } _ { i } } { \\boxplus } \\boldsymbol { x } _ { i } \\underset { \\mathcal { X } } { \\boxplus } \\boldsymbol { x } _ { j } \\dot { \\mathbb { W } } \\boldsymbol { \\mathcal { Z } } \\underset { \\vec { \\prec } } { \\boxplus } \\boldsymbol { \\mathcal { W } } } \\\\ & { \\underset { \\ b { \\Xi } } { \\boxplus } \\boldsymbol { \\hat { \\mathcal { X } } } _ { j } \\underset { \\mathcal { X } } { \\boxplus } \\boldsymbol { x } _ { i } \\dot { \\mathbb { W } } \\boldsymbol { j } \\underset { \\ b { \\mathcal { P } } } { \\operatorname { j } } \\underset { \\ b { \\Xi } } { \\boxplus } \\boldsymbol { \\mathbb { J } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { W } _ { i j }$ 是加权矩阵， $\\mathbf { \\Phi } _ { t }$ 的设定根据经验选择。求目标函数的最小值可以保证近邻点 $\\mathbf { \\lambda } _ { \\pmb { x } _ { i } }$ 和 $\\boldsymbol { x } _ { j }$ 的投影 $y _ { i }$ 和 $y _ { j }$ 也是近邻点。寻求最佳投影矩阵 $A$ 转换为求广义特征问题的最小特征值所对应的特征向量：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX L X ^ { T } A = \\lambda X D X ^ { T } A\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X L X ^ { T }$ 和 $X D X ^ { T }$ 都是对称且半正定的，因此求矩阵(XDXT)-XLXT的最小特征值对应的特征向量，即得到投影矩阵 $A$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于统计差分LPP的多模态间歇过程故障检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 统计模量分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于统计模量分析[15\\~18]的方法是用统计特征值组成的统计模量矩阵来重新定义和衡量原始间歇过程数据，本文所用到的统计特征包含均值和方差。假定每个批次的均值为 $\\mu$ ，方差为 $\\nu$ ，一个批次所有的统计特征组合成一个 $( 1 \\times 2 m )$ 维的特征向量 $S P = [ \\mu _ { 1 } \\nu _ { 1 } \\mu _ { 2 } \\nu _ { 2 } \\Lambda \\mu _ { m - 1 } \\nu _ { m - 1 } \\mu _ { m } \\nu _ { n } ]$ 。由此可见，最终由所选定的特征值叠加而成的行矢量 $_ { S P }$ 是等长的。而用于建模的统计模量 $s P s$ 则是由 $k$ 个批次叠加在一起所构成的训练矩阵。统计模量 $s P s$ 能够提取间歇过程特征，包括过程的非线性和非高斯性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2差分算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "差分算法能够剔除数据的多模态结构。对数据矩阵$X ( \\boldsymbol { m } \\times \\boldsymbol { n } )$ （ $\\mathbf { \\nabla } _ { m }$ 代表采样次数， $n$ 代表测量变量个数）中第 $i$ 个样本 $X _ { i , n }$ ，找到该样本的最近邻 $X _ { k , n }$ ，然后进行差分运算，计算方式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD X = { X } _ { i , n } - { X } _ { k , n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： ${ \\pmb D } { \\pmb X } ( { \\boldsymbol m } \\times { \\boldsymbol n } )$ 是差分矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过一个人工合成的多模态数值例子比较差分之前和差分之后的结果，验证差分算法可以剔除数据多模态的有效性。数值例子中每个样本有两个变量，第一个变量 $x _ { 1 }$ 服从[0,1]均匀分布，第二个变量 $x _ { 2 }$ 则与变量 $x _ { 1 }$ 线性相关，具体数据来源于式(6)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { _ 2 } = x _ { _ 1 } + n o i s e\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过适当的位置转换，获得2个模态的数值例子。图1是两个模态的400个样本所构成的数据分布散点图。由此可见，所用到的数值例子是多模态的。对该数值例子进行差分运算后得到的数据分布散点图如图2所示。通过图1和2的比较可以很直观地看出，差分算法可以使数据的多模态结构转换为单模态结构，从而验证了该算法的有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fe9317bf980235743fac941127261329aee62b4a7898f9232b65173f10773b3.jpg",
+        "img_caption": [
+            "图1数据分布散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dcb03c296298da534bcfdc4bc4d90ecb3ea65f0df28610fa700fcc4b7f88188.jpg",
+        "img_caption": [
+            "图2差分后的数据分布散点图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于统计差分LPP的多模态间歇过程故障检测 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef586d168e27dceca5cdbd87690fd6ea0b205e27d74ee1bf2678987215dce51.jpg",
+        "img_caption": [
+            "图3LPP算法处理后的数值例子主元图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用LPP算法对上述所提到的数值例子进行处理，得到如图3所示的主元图。由图3的主元图可以看出，经过LPP算法处理后仍然是2个模态的，这就说明了LPP算法无法剔除多模态结构。由于差分算法可以剔除多模态结构，所以将统计模量分析、差分算法和局部保持投影算法相结合，提出了基于统计差分LPP的多模态间歇过程故障检测算法。在保证数据在近似服从高斯分布的条件下，利用差分算法剔除多模态结构，为LPP提供所需要的数据特点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于统计差分LPP的多模态间歇过程故障检测包括建立模型和故障检测两个部分，该算法的整体流程图如图4所示。具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)建立正常状态下的模型(a)收集正常操作时的间歇过程历史数据集 $\\pmb { X } _ { k } ( \\pmb { I } \\times \\pmb { J } \\times \\pmb { d } )$ 其中 $I$ 是批次数， $J$ 是变量数， $d$ 是一个批次过程总的反映时刻数。(b)计算每个批次 $\\pmb { X } _ { k } ( \\pmb { I } \\times \\pmb { J } \\times \\pmb { d } )$ 的均值和方差，得到行矢量 $S P$ ·(c)将 $I$ 个批次数据得到的行矢量 $_ { S P }$ 叠加到一起，得到统计模量 $s P s$ (d)对统计模量 $s P s$ 的每个样本，找到其最近邻，将该样本与其最近邻进行差分运算得到统计差分矩阵 $_ { S D }$ (e)选择合适的参数，运用LPP算法获取投影矩阵 $\\mathbf { \\mathcal { A } }$ ，并计算统计量 $\\mathrm { T } ^ { 2 }$ ，建立正常工况下的LPP模型。(f)利用核密度估计的方法确定统计量 $\\mathrm { T } ^ { 2 }$ 的 $9 5 \\%$ 控制限。b）故障检测(a)新来一个时刻 $k$ 的批次数据 $\\pmb { X } _ { k } ^ { n e w } ( J \\times d )$ ，计算其均值和方差，得到 $S P ^ { n e w }$ (b)_在建模数据中寻找 $S P ^ { n e w }$ 的最近邻样本，将 $S P ^ { n e w }$ 与其最近邻样本进行差分运算，得到统计差分数据矩阵 $S D ^ { n e w }$ (c)新样本的差分矩阵向LPP模型上进行投影，并计算统计量 $\\mathrm { T } ^ { 2 }$ ：(d)通过比较 $\\boldsymbol { X } _ { k } ^ { n e w }$ 的 $\\mathrm { T } ^ { 2 }$ 是否超过控制限来判断当前过程是否正常，如果 $\\boldsymbol { X } _ { k } ^ { n e w }$ 超出控制限则为故障样本，否则 $\\boldsymbol { X } _ { k } ^ { n e w }$ 为正常样本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实例",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所提出算法的有效性，分别将PCA、LPP、DPCA、DLPP、SPCA、SLPP、SDPCA和SDLPP八种算法分别应用于半导体生产过程数据的故障检测中，并进行了对比，进一步阐明 SDLPP 算法在对多模态间歇过程数据进行故障检测时所具有的优越性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "半导体生产过程作为一个完善的工业过程仿真平台，在基于数据驱动的故障检测研究领域得到了广泛的应用。本文应用半导体工业实例—A1 堆腐蚀过程[19\\~22]比较不同的故障检测方法的性能。半导体生产过程是典型的非线性、时变、多阶段和多模态的间歇过程。半导体生产过程数据由108个正常硅片和21个故障硅片构成。由于两个批次过程（第56个正常批次和第12个故障批次）丢失大量的数据，所以实际的批次为107批正常数据和20批故障数据。在该仿真实验中，随机抽取96个正常批次为建模数据，其余11个正常批次为校验数据，故障批次为20个。从21个测量变量中选取17个变量作为检测变量，如表1所示。每个批次是不等长的，持续时间在95-112秒之间变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/980b6c8b0185e94cec8d1ea91ef9ce5de9acd1944e197c4f4e6be1fade8b2110.jpg",
+        "img_caption": [
+            "图4基于统计差分LPP的多模态间歇过程故障检测流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/733e1a246668453a2975460858e9e999972c5c33267875911a1c4036f739ffa9.jpg",
+        "table_caption": [
+            "表1半导体生产过程所用的检测变量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>过程变量</td><td>序号</td><td>过程变量</td></tr><tr><td>1</td><td>BC13流量</td><td>10</td><td>RF 功率</td></tr><tr><td>2</td><td>C12流量</td><td>11</td><td>RF 阻抗</td></tr><tr><td>3</td><td>RF 底部功率</td><td>12</td><td>TCP 调谐</td></tr><tr><td>4</td><td>A检测端点</td><td>13</td><td>TCP 相位误差</td></tr><tr><td>5</td><td>氨压力</td><td>14</td><td>TCP 阻抗</td></tr><tr><td>6</td><td>Helium 压强</td><td>15</td><td>TCP 顶部功率</td></tr><tr><td>7</td><td>RF调谐</td><td>16</td><td>TCP负荷</td></tr><tr><td>8</td><td>RF负荷</td><td>17</td><td>Vat阀门</td></tr><tr><td>9</td><td>相对误差</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正如前面所指出的，半导体生产过程是典型的非线性、时变、多阶段和多模态的间歇过程。1个例子（变量EndPtA）表明了这些特性，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证了SPA算法可以解决生产过程中存在的非高斯问题，将SPA算法应用到半导体不等长多模态间歇过程中所有批次的第2个变量中，如图6所示。由图6可以清楚地看出，原始变量并不服从高斯分布，但经过SPA处理过的原始变量的均值和方差都近似服从高斯分布，这就验证了该算法的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/19d16763886334ebbd69989a53ac5a31038a3307b7f6d887fed3dfbc98f87a25.jpg",
+        "img_caption": [
+            "图5变量EndPtA"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对96个不等长的正常批次数据分别运用PCA、LPP、DPCA、DLPP、SPCA、SLPP、SDPCA和SDLPP方法进行建模，并对11个校验批次和20个故障批次数据进行故障检测。八种算法的主元个数均为16。八种方法的 $\\mathrm { T } ^ { 2 }$ 检测结果如图7所示。图中的虚线是T统计量的 $9 5 \\%$ 控制限。由图7可以看出在主元个数选取条件相同的情况下，运用PCA算法进行故障检测时，校验数据全部检测出来，故障数据有15个没有检测出来。运用LPP算法时，校验数据全部检测出来，故障数据有15个没有检测出来。运用DPCA算法进行检测时，校验数据全部检测出来，故障数据有13个没有检测出来。运用DLPP算法进行检测时，校验数据全部检测出来，故障数据有16个没有检测出来。运用SPCA算法时，校验数据有3个没有检测出来，而故障数据有13个没有检测出来。运用SLPP算法进行检测时，校验数据有3个没有检测出来，而故障数据有5个没有检测出来。运用SDPCA算法时，校验数据全部检测出来，而故障数据有6个没有检测出来。运用SDLPP算法进行检测时，校验数据有1个没有检测出来，故障数据也有1个没有检测出来。与传统LPP算法相比,SLPP算法的检测效果要明显优于传统LPP验证了统计模量分析算法的有效性。与SPCA和SDPCA算法相比，SLPP和SDLPP算法的故障检测性能分别要优于SPCA和SDPCA算法。这是由于SPCA和SDPCA算法提取的是数据的全局特征，而 SLPP和 SDLPP算法提取的是数据的局部特征，提高了故障检测性能。与其余七种算法相比，SDLPP算法的检测效果最佳，验证了SDLPP算法在多模态间歇过程故障检测中的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c4c6425cb493fc6415c5c7201bd10bdf7bfe6215c03344a8aaa59f4f055b214.jpg",
+        "img_caption": [
+            "图6变量分布直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10° 10³ 10000 i r 8 i P @ r a 0 □ P 14 10 □13 10²   \n2 18 10 8 T 10 88 88 17 88 14 9015 □17 108 8 福 20 。 10 4 。 武 2 8 10% 20 40 60 80 100 120 140 10 0 20 40 60 80 100 120 140 10 20 40 60 80 100 120 140 20 40 60 @O 80 100 120 140 Batch Batch Batch Batch （a）PCA （b）LPP (c) DPCA (d) DLPP 20 r 12 0 _) x P 12 1010 r 12 0 □ r 12 10 10 10   \n? 2 10 10 10 47 104 361318 □4 102 1 10 10 17 10² 25820 8 10° 10° 10 10° 20 40 60 80 100 120 140 20 40 60 80 100 120 140 20 40 60 80 100 120 140 0 20 40 60 80 100 120 140 Batch Batch Batch Batch (e) SPCA (f) SLPP (g) SDPCA (h) SDLPP ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2是八种算法对半导体过程数据的具体检测结果统计。由表2可以看出，对多模态过程进行故障检测，SDLPP 算法能保证在最低的漏报率下，误报率相对较低。与其他七种算法相比，SDLPP的故障检测效果最好，验证了该算法的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/769181f54b1ca003144a1635ec2313e481bd7a4cca08ec3e868f27e735f142f6.jpg",
+        "table_caption": [
+            "表2半导体过程数据检测结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>误报率/%</td><td>漏报率/%</td></tr><tr><td>PCA</td><td>0</td><td>75</td></tr><tr><td>LPP</td><td>0</td><td>75</td></tr><tr><td>DPCA</td><td>0</td><td>65</td></tr><tr><td>DLPP</td><td>0</td><td>80</td></tr><tr><td>SPCA</td><td>27</td><td>65</td></tr><tr><td>SLPP</td><td>27</td><td>25</td></tr><tr><td>SDPCA</td><td>0</td><td>30</td></tr><tr><td>SDLPP</td><td>9</td><td>5</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于统计差分LPP的多模态间歇过程故障检测方法，并应用于半导体生产过程中进行过程监控和故障检测。该方法首先将多模态间歇过程的统计模量作为训练集，然后对训练集进行差分处理，对其进行多模态特征分析，最后应用LPP方法对差分后的训练集进行故障检测，有效地解决了数据信息不全面，以及多工况引起的非高斯、多模态的问题。半导体生产过程是一个典型的多模态间歇过程，通过与PCA、LPP、DPCA、DLPP、SPCA、SLPP和SDPCA等方法的仿真研究进行对比，验证了该方法对多模态间歇过程进行故障检测的优越性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]周东华，李钢，李元．数据驱动的工业过程故障检测与诊断技术[M].",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "北京：科学出版社,2011:1-76.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Wold S,Esbensen K,Geladi P. Principal component analysis [J]. Chemometrics and Intelligent Laboratory Systems,1987,2(1//2//3): 37-52.   \n[3] 许仙珍，谢磊，王树青．基于 PCA 混合模型的多工况过程监控[J]．化 工学报,2011,62 (3): 743-752.   \n[4]Zhao Shijian, Zhang Jie,Xu Yongmao.Performance monitoring ofprocesses with multiple modes through multiple PLS models [J]. Journal of Process Control,2006,16 (7): 763-772   \n[5] Zhao Shijian,Zhang Jie,Xu Yongmao.Monitoring of processes with multiple operation modes through multiple principle component analysis models [J]. Industrial& Engineering Chemistry Research,2004,43 (22): 7025-7035.   \n[6]Ma Hehe,Hu Yi,Shi Hongbo.A novel local neighborhood standardization strategy and its application in fault detection of multimode processes [J]. Chemometrics and Intelligent Laboratory Systems,2012,118(7): 287-300.   \n[7]Wang Guozhu,Liu Jianchang, Zhang Yingwei, et al.A novel multi-mode data processing method and its application in industrial process monitoring [J].Journal of Chemometrics.2015,29 (2):126-138.   \n[8]Hu Kunlun,Yuan Jingqi.Multivariate statistical process control based on multiway locality preserving projections [J]. Journal of Process Control, 2008,18 (7): 797-807.   \n[9]Cai Deng,He Xiaofei,Han Jiawei,et al. Orthogonal laplacianfaces for face recognition [J].IEEE Trans on Image Processing,2006,15 (11):3608-3614.   \n[10] Gou Jinyu,Qi Leilei,Li Yuan.Fault detection of batch process using dynamic multi-way orthogonal locality preserving projections [J]. Journal of Computational Information Systems,2015,11 (2): 577-586.   \n[11] He Xiaofei, Yan Shuicheng,Hu Yuxiao,et al. Face recognition using Laplacian faces [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2005,27 (3): 328-340. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[12] Belk M,Niyogi P. Laplacian eigenmaps andspectral techniques for ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "embedding and clustering[C]//Proc of the 14th International Conference on Neural Information Processing Systems: Natural and Syntheti. Cambridge: MIT Press,2001: 585-591.   \n[13] Fadi D,Ammar A.Enhanced and parameterless locality preserving projections for face recognition [J].Neurocomputing,2013,99(1): 448-457.   \n[14] Zheng Heng,Liu Jijian,Wu Chaoxia,etal.A new construction method of neighbor graph for locality preserving projections [J].Journal ofInformation and Computational Science (S1548-7741),2013,10 (5): 1357-1365.   \n[15]郭金玉，赵璐璐，李元．基于统计特征的不等长间歇过程故障诊断研究 [J].计算机应用研究,2014,31(1):128-130.   \n[16]逢玉俊，李娜，李元，等．基于统计模式分析的多变量连续过程故障检 测[J].计算机应用研究,2015,32(7):2060-2064.   \n[17]张成，李元．基于统计模量分析间歇过程故障检测方法研究[J].仪器 仪表学报,2013,34(9):2103-2110.   \n[18]He Fei,Xu Jinwu.A novel process monitoring and fault detection approach based on statistics locality preserving projections [J].Journal of Process Control,2016,37 (5): 46-57.   \n[19]Wise B M,Gallagher NB,Butler SW,et al.A comparison of principal component analysis,multiway principal component analysis,trilinear decomposition and parallel factor analysis for fault detection in a semiconductor etch process [J].Chemomotrics,1999,13 (3-4):379-396.   \n[20] Lee SP,Chao AK,Tsung F, et al.Monitoring batch processes with multiple on-off steps in semiconductor manufacturing [J].Journal of Quality Technology,2011,43 (2): 142-157.   \n[21] He QP,Wang Jin.Fault detection using the k-nearest neighbor rule for semiconductor manufacturing processes [J].IEEE Trans on Semiconductor Manufacturing,2007,20 (4):345-354.   \n[22] Yu Jianbo.Fault detection using principal components based Gaussian mixturemodel forsemiconductormanufacturingprocesses [J]. Semiconductor Manufacturing,2011,24(3): 432-444. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

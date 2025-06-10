@@ -1,0 +1,397 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701030017 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曾宏达,徐涵秋,刘智才,黄向华,肖苏麟.快速城市化地区住宅用地表层土壤有机碳的变异性及其影响因素——以福州南台岛为例.生态学报，2018,38(4):1427-1435.  \nZengHD,XuHQ,uZC,HaXH,XiSVlitflcarbofcoigisidetalsarea:a case study of Nantai Island of Fuzhou City，China.Acta Ecologica Sinica,2O18,38(4):1427-1435.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "快速城市化地区住宅用地表层土壤有机碳的变异性及其影响因素 C",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以福州南台岛为例曾宏达1，²，徐涵秋1，\\*，刘智才¹，黄向华²，肖苏麟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1福州大学环境与资源学院福州大学遥感信息工程研究所，福州350108  \n2 福建师范大学地理科学学院湿润亚热带山地生态国家重点实验室培育基地，福州350007",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在高分辨率影像提取福州市南台岛(仓山区)住宅用地的基础上,从覆盖研究区的 $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ 网格中随机选择 50个样方进行表层土壤取样,进而分析这一快速城市化地区住宅用地表层土壤有机碳密度(Soil organic carbon density，SOCD)的变异特征及其影响因素。结果表明:城市地区住宅用地在剧烈的人类活动干扰下,土壤呈现明显的空间变异特征,其 SOCD平均值为$3 3 . 8 1 4 \\mathrm { { t } / \\mathrm { { h m } } ^ { 2 } }$ ,变异系数达 $7 2 . 8 \\%$ ,其中郊区村镇住宅用地 $_ { 0 - 2 0 \\mathrm { c m } }$ 土层的 SOCD 高于城市居住用地 $7 2 \\%$ ,预示着村镇就地城市化后将造成土壤碳储量的下降;然而,表层土壤有机碳含量与密度在建成时间为0—5年和5—10年的城市住宅小区间无显著差异,只有住宅建成时间达到10—15年才有显著提高。基于湿度、热度、绿化率与物业管理费等因子构建的城市住宅区绿化环境管理质量指标,与城市居住区表层土壤有机碳含量及密度存在显著正相关,与土壤容重呈显著负相关,成为快速城市化地区影响SOCD变异的另一主要因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：快速城市化;住宅用地;土壤有机碳密度;福州",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Variability of soil organic carbon and factors affecting it in residential lands in a rapidly urbanizing area: a case study of Nantai Island of Fuzhou City， China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZENG Hongda1'²， XU Hanqiu1, \\*，LIU Zhicai1， HUANG Xianghua²， XIAO Sulin²1ColegeofU2StateKeyLbaofdubclotofa，lUest",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Humanitytoday is experiencing a dramatic shift tourban living.Land coverage changes to build cities and to support the demands of urbanpopulations themselves driveother types of environmental change.Urban development is associated with physical changes to thelandscape，such as increased impervious surfacearea and thereplacement of natural vegetation with lawns，which can positivelyornegativelyalter soilorganiccarbon（SOC）stocks.However,litleis known aboutthecharacteristicsand potentialdriversofSOC variabilityinurbanareas.Urbanplusruralresidentiallandsareoneof thelargest land use zones ina city and itssuburban area.Therefore，one would expect changes in SOC stocks with the residentiallandusechangessuchasurbanization.In thisstudy，residential land information wasextracted from high resolution imageryof Nantai Islandinthe Cangshan District，Fuzhou City，then5Osoilsampling plotswererandomly selected from residential sites based on a $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ sampling grid covering the island.Variability of soil organic carbon density（SOCD）inresidential sitesanditsaffecting factors wereanalyzed inthisrapidlyurbanizingarea.Theresults indicatedthatbecauseofan intense interference byhumanactivities，soil inurbanresidential areas hasastrong spatial heterogeneity. Average SOCD was $3 3 . 8 1 4 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ ，with a variation coefficient of $7 2 . 8 \\%$ . The SOCD in the surface layer（O一 （204号 $2 0 \\mathrm { c m }$ ）of the rural residential area was $72 \\%$ higher than that of urban residential land，which indicated that SOC stocks declined withthesituurbanization in theruralarea.However，both SOCcontentand densityinthe1O—15 year groupof housing developments were significantly higherthan thoseinthe group with housing developments lessthan 1O years old, althoughthere was no significant diffrencebetween theO—5and 5—1Oyear housingdevelopments.Therecovery of urban residential $\\mathrm { S O C \\ s t o c k }$ ，compared to rural residential，requires longer accumulation time.A composite index developed in this study for urban residential green space management quality，whichcombined humidity，heat，green coverage ratio，and property management fes bya principal component analysis，showedasignificant linear positive corelation with SOC contentand density，andnegativecorrelation with bulk density.Therefore，residential green space management wasanother factoraffecting SOCDvariationinarapidly urbanizing area.Although theconversionofruralresidential intourban residentiallandwill lead to SOCD declines because of thereduction of exogenousorganic material input，the living environmenthas been improved，and themanagementof greenspace alsocontributes to the improvement of urban soil quality. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: rapid urbanization； residential land； soil organic carbon density；Fuzhou City",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "城镇住宅用地仅占地球表面的 $1 \\%$ ,却容纳着超过 $5 0 \\%$ 的全球人口，并且预计大多数未来人口的增长也将集中在城镇地区[1]。全球范围的城镇用地面积不断扩大,其平均扩张速度近乎是城市人口增长速度的两倍[2]。有研究表明,到2030 年时,全球城镇土地面积将会增加到 2000 年3倍,达到 $1 . 2 \\times 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 [ 3 ] }$ 。土壤是陆地生态系统中最大的碳库,其微小的变化都能对全球大气 $\\mathrm { C O } _ { 2 }$ 的浓度产生显著影响。城市化急剧地改变着土地利用类型,对土壤资源的数量、理化性质和生物地球化学循环尤其碳循环产生深刻的影响[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林、农田、草原等土地利用方式转变对土壤碳库及通量影响,已得到较广泛的研究,而由人类活动主导的剧烈环境变化所驱动的土壤环境演化及其生态响应仍是一个尚未系统回答的科学问题,这也是当前全球碳循环研究忽略城市生态系统碳循环的重要原因之一[4-5]。自 2002 年以来,Pouyat 等便较为系统地探索了城乡梯度自然土壤与“人造”土壤的差异及成因,并比较了美国6大城市的土壤碳密度与总储量[6-8]。近10 年来,我国对城市区域土壤碳储量的研究热度不断提高,主要集中在北京[9-10]、杭州[1]、南京[12]、上海[13-14]、重庆[15]等大城市。不少研究表明,随乡村-郊区-城市空间梯度演替,表层土壤有机碳(Soil organic carbon，SOC)储量渐趋增加[67,13.16]。可见,被普遍认为是碳源的城市区域,其土壤可能具有较大的碳吸存潜力[17-18]。然而,因区域差异和土壤的空间异质性,城市 SOC 的研究结果仍存在着较大的不确定性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自 2000 年以来,尤其福州市“十一五\"规划提出“仓山区要依托外延新城区拓展,全面推进南台岛建设”以后,南台岛城市住宅用地的发展迅速,江滨板块、乌龙江板块、奥体板块等随之兴起。从刚需楼盘到中高端产品,从沿江生态住宅到腹地优质配套楼盘,住宅用地多样化特征尽显。随着旧城改造推进及土地出让,未来城市住宅用地面积仍将进一步增加。因此,本文以东南沿海快速城市化地区——福州市南台岛为研究对象,运用野外调查与实测统计数据并结合遥感数据,分析住宅用地表层的土壤有机碳密度（Soil organic carbondensity，SOCD)变异特征及其影响因素,以期为提高城市地区土壤碳库估算精度和提升城市土壤的生态服务提供科学依据,对于了解快速城市化对土壤碳库的影响具有积极意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "福州仓山区地处福州城区南部( $2 5 ^ { \\circ } 1 5 ^ { \\prime } - 2 6 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { N } \\vphantom { 1 1 } . 1 1 8 ^ { \\circ } 0 8 ^ { \\prime } - 1 2 0 ^ { \\circ } 3 1 ^ { \\prime } \\mathrm { E } )$ ,辖整个南台岛,东西长 $2 7 . 3 \\mathrm { k m }$ ，南北宽 $1 0 . 3 \\mathrm { k m }$ ,区域面积 $1 4 2 \\mathrm { k m } ^ { 2 }$ ,加上江心洲地面积逾 $1 5 0 \\mathrm { k m } ^ { 2 }$ 。岛的四周为闽江所环绕。南台岛上有对湖、上渡、仓前、三叉街、下渡、临江、东升、金山共8个街道，建新、盖山、螺洲、城门、仓山共5个镇。人口约762746人（2010年），占福州总人口的 $1 0 . 7 2 \\%$ 。进入21世纪，由于南台岛西部的金山开发进入高潮,整个南台岛逐渐成为福州的重要居住区，2000 年至2010年人口增加了 $5 8 . 1 \\%$ 。境内属南亚热带海洋性季风气候,温暖湿润,年均太阳可照时数为 $4 4 2 5 . 9 \\mathrm { h }$ ,日照年际变化较大;年平均降水量为 $1 3 9 5 . 6 \\mathrm { m m }$ ,降水季节变化明显，主要集中在夏半年(4至9月），占全年降水量的 $7 3 . 6 \\%$ ;而冬半年(10月至翌年3月)的降水量为 $3 6 9 \\mathrm { m m }$ ，占全年降水量的 $2 6 . 4 \\%$ 。年平均降雨日数为142.3d,年平均相对湿度为 $7 9 \\%$ 。 2",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品的采集与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用ENVI5.1遥感软件对SPOT6（2014-03-07)正射级影像进行Pan Sharpening 融合，使其空间分辨率达到 $1 . 5 \\mathrm { m }$ 。在其上采用目视判读法提取研究区住宅用地,并将其细分为城市居住用地和村镇住宅两类（图1）,将村镇住宅（相当土地利用现状分类标准中的农村宅基地[9）和城市用地分类中的3类居住用地合并[20],因为二者在遥感图像上的颜色及纹理十分接近。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在对南台岛SPOT6影像的城市土地利用进行目视解译矢量化和土壤类型图纸矢量化的同时，对整个研究区覆盖 $3 0 \\mathrm { m } \\times 3 0 \\mathrm { m }$ 的网格，根据住宅用地矢量边界提取完全落在住宅用地内的网格，并采用ArcToolbox生成50个随机点，其所对应的网格即为随机选定的野外土壤调查样方。个别采样网格若因表土无法获取则移至最邻近的网格。于2014年7一8月进行野外调查，采用直径为 $5 \\mathrm { c m }$ 的土钻,在样方内的绿地或裸土上采集5个土壤混合样品,5个采样点尽可能均匀分布于样方内。样品分 $_ { 0 - 1 0 , 1 0 - 2 0 \\mathrm { c m } }$ 两个土层采集;同时在3个位置的2个土层各采集3个环刀用于测定土壤容重。在室内采用网格叠加影像目视判读、勾绘,计算出网格不透水面比例（Impervious Surface Percentage，ISP）,并用于计算样方的 SOCD。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/568db295a9923a4d804ee76e128965190c2dbf2c80f59e702b14d0016a70df77.jpg",
+        "img_caption": [
+            "图1福州市南台岛住宅用地及土壤采样点空间分布图 Fig.1 Distribution map of residential land and soil sampling point in NantaiIsland ofFuzhou "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将土壤样品在实验室内风干、过100 目筛后保存备用。 $\\mathrm { \\ p H }$ 值采用 Starter $3 0 0 ~ \\mathrm { p H }$ 计测定。由于土壤样品中相当一部分pH值弱碱性,因此需要去无机碳处理,因此将土样加入1mol/L HCl至无气泡产生后,将烧杯置于 $1 0 5 \\mathrm { ^ \\circ C }$ 的电热板上加热至溶液近干,然后将烧杯移至烘箱中 $1 0 5 \\mathrm { ^ \\circ C }$ 烘干至恒量备用[21]，最后采用碳氮元素分析仪（ELEMEMTAR Vario EL II CN,德国)测定土壤有机碳(SOC）和全氮（Total Nitrogen,TN）含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据整理与分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 ArcGIS 10.3软件上汇总实测的土壤属性及相关地理信息数据库。为探讨城市住宅区管理质量的影响,需要从热度,湿度,绿化率和物业管理水平等4方面获取相应变量。采用同年Landsat 8影像（2014-09-08),经配准与辐射校正后,计算亮温作为“热度\"因子[22],相关研究表明,绿地内林分密度或树冠覆盖比例与热岛强度呈负相关[23-24];采用缨帽变换的方法对 Landsat 8影像计算“湿度\"指数[25],该指数对土壤水分和植物水分都比较敏感[26-27];然后,选择土壤类型为潮土的样方14个,并勾绘其所属住宅小区矢量图斑,用于提取住宅小区平均亮温和湿度指数;住宅小区建成时间、绿化率、物业管理费等数据查自 2014年8月份的福州搜房网（htp://esf.fz.fang.com/map/）。最后采用 SPSS 19.0 对数据的进行描述性统计、主成分分析和方差分析，并采用LSD法进行多重比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳密度(SOCD)通常是指单位面积单位深度土体中土壤有机碳储量。城市区域表层土壤相兰一部分因城市开发,不透水面覆盖而缺失,因此,本研究加入ISP 修正城市区域表层 SOCD 的计算,其公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S O C D } _ { i } = \\sum _ { i = 1 } ^ { k } C _ { i } D _ { i } H _ { i } ( 1 - \\delta ) \\times ( 1 - I ) \\times 1 0 0 \\\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\operatorname { S o C D } _ { i } ( { \\operatorname { t } } / \\mathrm { { h m } } ^ { 2 } )$ )为土壤有机碳密度， $k$ 为土层个数, $C _ { i }$ 为第 $i$ 层土壤有机碳含量( $\\bf ( \\^ { g / k g } )$ ） $D _ { i }$ 为第 $i$ 层土壤容重 $( { \\bf g } / { \\mathrm { c m } ^ { 3 } } ) .$ ）， $H _ { i }$ 为第 $i$ 层土层厚度（cm）， $\\delta$ 为大于 $2 \\mathrm { m m }$ 的石砾所占的百分比 $( \\% ) \\mathbf { \\Psi } , I$ 为样方内不透水面比例（ISP）。本研究分两个厚度均为 $1 0 \\mathrm { { c m } }$ 的土层， $k$ 取 $^ { 2 , H }$ 均为 $1 0 \\mathrm { { c m } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1南台岛住宅用地表层土壤性质的统计特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1随机采样网格土壤有机碳密度、 $\\mathrm { \\ p H }$ 以及不透水面比例分布特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对南台岛住宅用地表层土壤0— $2 0 \\mathrm { c m }$ 网格随机采样样方的相关指标进行K-S正态分布检验表明，原始$\\mathrm { \\ p H }$ 数据以及分别经对数和平方根变换的 SOCD 和ISP 数据均服从正态分布（图2）。南台岛住宅用地 SOCD平均值为 $3 3 . 8 1 4 \\mathrm { { t } / \\mathrm { { h m } } ^ { 2 } }$ ,变异系数(CV)达到 $7 2 . 8 \\%$ ,表明城市区域住宅用地在剧烈的人类活动干扰下,土壤呈现中等程度的空间变异的特征。50个随机样方中,ISP平均为0.22,变幅在0—0.708之间,这代表随机选择的样方表层土壤被不透水面替代而缺失的比例,也表明了加人ISP 参数所进行的城市区域 SOCD 取样符合随机性。土壤 $\\mathrm { \\ p H }$ 值变幅在6.01—8.65 之间,平均值7.41,其中,低于6.5 的仅3个,6.5—7.5的样品数 25 个，大",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4d5c26835f14bcf086ae6707a85135381cfe6aba4f64a0aa462388b0f34b0c3.jpg",
+        "img_caption": [
+            "图2城市住宅用地调查样方土壤有机碳密度， $\\mathbf { p H }$ 和不透水面比例频数分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Frequencydistribution histogramsofsoilorganiccarbon density，pHand impervioussurfacepercentage inurbanresidential survev nlots ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "log(SOCD):Logarithmicsoilorganiccarbondensity对数变换的土壤有机碳密度；sqrt（ISP）：Squarerotconversionof impervioussurfacepercentage，平方根变换的不透水面比例",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于7.5 的土样 22个,因建筑废弃物、水泥、砖块等夹杂其中,土壤基本上呈中性和弱碱性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2城市居住用地与村镇住宅用地间的差异 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究区内的住宅用地包含了城市居住用地土壤与村镇住宅用地,据图斑分类统计,二者面积分别为$2 0 8 0 . 7 8 \\mathrm { h m } ^ { 2 }$ 和 $2 2 7 7 . 6 7 \\mathrm { h m } ^ { 2 }$ （图1）。对比两种住宅用地 SOC及相关指标,村镇住宅表层 $_ { 0 - 2 0 \\mathrm { c m } }$ 的 SOCD（ $4 3 . 4 8 8 \\mathrm { { t } / \\mathrm { { h m } } ^ { 2 } }$ )显著高于城市居住用地 $2 5 . 2 5 6 \\mathrm { { t } / h m } ^ { 2 }$ )（表1）。从SOCD计算参数对比，两种住宅用地平均ISP 无显著差异,虽然城市居住用地表层0— $1 0 \\mathrm { { c m } }$ 和 $1 0 { - } 2 0 \\mathrm { c m }$ 的土壤容重( $\\mathrm { ( 1 . 3 2 8 g / c m ^ { 3 } }$ 和 $1 . 4 5 1 \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ )显著高于村镇住宅 $( 1 . 2 1 9 \\mathrm { { g / c m } ^ { 3 } }$ 和 $1 . 3 3 5 \\mathrm { g / c m } ^ { 3 }$ ),但村镇住宅 SOC 含量在上下两个土层中分别为 $2 6 . 0 0 2 { \\bf g } / { \\bf k g }$ 和$2 1 . 5 4 0 \\mathrm { g / k g }$ ,比城市居住用地分别高出了 $9 8 \\%$ 和 $101 \\%$ ，由此说明,SOC含量的不同决定了两种住宅用地 SOCD的显著差异。相同土层中的碳氮比(C/N)和TN 也表现为村镇住宅显著高于城市居住用地。较高 $\\mathrm { C } / \\mathrm { N }$ 的土壤有着较高的固定外源新N的能力,也是土壤有机质分解速度更慢的主要因素之一[10]。同样为人类活动密集的住宅用地,因环境管理质量的差异,更多的外源有机物质添加到土壤中,以及具有较高的C/N,成为村镇住宅用地SOCD高于城市居住用地的主要原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从变异性角度看，城市居住用地0— $2 0 \\mathrm { c m }$ SOCD 变异性( $6 6 . 6 \\%$ )略高于村镇住宅 $( 6 5 . 7 \\% )$ 。城市居住用地 SOC 含量CV在各指标中最高，上下两个土层分别达到 $7 6 . 7 \\%$ 和 $7 5 . 2 \\%$ ,均高于村镇住宅用地( $7 0 . 7 \\%$ 和$7 2 . 0 \\%$ );全N含量其次,两种住宅用地CV 相近,均在 $5 3 \\%$ 左右。C/N 变异性则相对较低,二者CV 均在 $30 \\%$ 左右;容重和 $\\mathrm { \\ p H }$ 变异最低,CV 均在 $10 \\%$ 左右(表1)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/56149c7ddb30a30bd5ac71c2dc51335d98fad7f499e30f293c1b03e9c1e3a833.jpg",
+        "table_caption": [
+            "表1城市居住用地与村镇住宅用地土壤性质对比",
+            "Table 1The difference of soil properties between urban residential land and rural residential land "
+        ],
+        "table_footnote": [
+            "不同的小写字母表示城市与村镇住宅用地土壤各土层各指标差异显著( $\\mathrm { ( } \\mathrm { L S D } , { \\cal P } { < } 0 . 0 5 \\mathrm { ) }$ ,相同的小写字母表示二者差异不显著;TN：Totalnitrogen;SOC:Soil organic carbon; $\\mathrm { C } / \\mathrm { N }$ :Ratio of SOC to TN；ISP:Impervious surface percentage;SOCD:Soil organic carbon density"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤性质 Soil properties</td><td rowspan=\"2\">土层/cm Soil layer</td><td colspan=\"4\">城市居住用地(n=26) Urban residential</td><td rowspan=\"2\"></td><td colspan=\"3\">村镇住宅用地(n=24) Small town and village</td></tr><tr><td>最小值 Min</td><td>最大值 Max</td><td>均值±标准误 Mean±SE</td><td>变异系数 CV</td><td>最小值 最大值 Max</td><td>均值±标准误 Mean±SE</td><td>变异系数 CV</td></tr><tr><td>pH</td><td>0-10</td><td>6.01</td><td>8.65</td><td>7.340±0.132a</td><td>9.2%</td><td>Min 6.01</td><td>8.35</td><td>7.500±0.134a</td><td>8.6%</td></tr><tr><td></td><td>10—20</td><td>5.53</td><td>8.61</td><td>7.520±0.142a</td><td>9.6%</td><td>5.65</td><td>8.28</td><td>7.510±0.150a</td><td>9.6%</td></tr><tr><td>全氮</td><td>0—10</td><td>0.490</td><td>2.740</td><td>1.178±0.126b</td><td>54.6%</td><td>0.750</td><td>3.910</td><td>1.717±0.190a</td><td>53.1%</td></tr><tr><td>TN/(g/kg)</td><td>10—20</td><td>0.280</td><td>2.667</td><td>0.887±0.093b</td><td>53.7%</td><td>0.350</td><td>2.660</td><td>1.315±0.144a</td><td>52.5%</td></tr><tr><td>土壤有机碳</td><td>0—10</td><td>6.250</td><td>40.230</td><td>13.154±1.979b</td><td>76.7%</td><td>10.330</td><td>65.250</td><td>26.002±3.833a</td><td>70.7%</td></tr><tr><td>S0C/(g/kg)</td><td>10—20</td><td>3.290</td><td>47.660</td><td>10.730±1.582b</td><td>75.2%</td><td>4.930</td><td>58.690</td><td>21.540±3.235a</td><td>72.0%</td></tr><tr><td>碳氮比C/N</td><td>0-10</td><td>5.412</td><td>18.348</td><td>11.169±0.686b</td><td>31.3%</td><td>9.785</td><td>27.885</td><td>15.148±0.970a</td><td>30.7%</td></tr><tr><td></td><td>10—20</td><td>6.133</td><td>24.026</td><td>12.093±0.723b</td><td>30.5%</td><td>10.237</td><td>28.770</td><td>16.383±1.090a</td><td>31.9%</td></tr><tr><td>容重/（g/cm³）</td><td>0- 10</td><td>1.092</td><td>1.450</td><td>1.328±0.028a</td><td>10.8%</td><td>0.924</td><td>1.510</td><td>1.219±0.024b</td><td>9.3%</td></tr><tr><td>Bulk density</td><td>10-20</td><td>1.087</td><td>1.580</td><td>1.451±0.032a</td><td>11.4%</td><td>0.969</td><td>1.547</td><td>1.335±0.033b</td><td>11.8%</td></tr><tr><td>不透水面比例ISP/%</td><td></td><td>0</td><td>70.8</td><td>21.100±4.13a</td><td>99.7%</td><td>0</td><td>71.0</td><td>23.200±4.81a</td><td>105.6%</td></tr><tr><td>土壤有机碳密度 SOCD/ (t/hm²)</td><td>0-20</td><td>6.667</td><td>85.689</td><td>25.256±3.299b</td><td>66.6%</td><td>10967</td><td>104.244</td><td>43.488±5.958a</td><td>65.7%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同建筑时间住宅区SOCD差异",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "福 将土壤类型为潮土的样品根据住宅小区建成时间分0—5a,5—10a,10—15a等3个组（表2）。统计结果表明,福州市仓山区近15年建成的住宅区土壤 $\\mathrm { \\ p H }$ 值以中性和弱碱性为主,且并未随着土壤形成时间增加而显著发生改变;TN和C/N亦呈现不随时间变化而变化的规律。建成时间10—15a住宅区的 SOC含量和密度则显著高于新建10年内的小区,其中,新建5年内的小区 SOC 含量为 $1 2 . 5 2 3 \\mathrm { g / k g }$ ,而10—15a住宅区 SOC 含量 $\\dot { 1 } 4 . 1 2 6 \\mathrm { g / k g } \\dot { , }$ 提高了 $1 2 . 8 \\%$ ,同时,SOCD 也由 $2 0 . 2 0 7 \\mathrm { { t } / \\mathrm { { h m } } ^ { 2 } }$ 增加至 $2 6 . 5 7 8 \\mathrm { { t } / h m } ^ { 2 }$ ,增长了 $3 1 . 5 \\%$ (表2)。然而,相比于建筑时间更早的村镇住宅(表1),城市居住用地土壤碳储量的恢复,还需要更长时间的积累。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2aaafa439d8f91084721dbfc908e8bc78640e7ce459e789cb22b0bff4af25ab.jpg",
+        "table_caption": [
+            "Table 2Comparisons of surfaceO—2Ocm layer soil properties among diferent residential districtage groups（mean±SE "
+        ],
+        "table_footnote": [
+            "同一列不同字母表示不同建筑年份的小区SOCD差异显著( $P { < } 0 . 0 5 )$ （204号"
+        ],
+        "table_body": "<html><body><table><tr><td>小区建成时间 Residential district age/a</td><td>样品数 Number of samples</td><td>pH</td><td>土壤有机碳 Soil organic carbon/</td><td>全氮 Total nitrogen/ （g/kg)</td><td>碳氮比 Ratio of SOC/TN</td><td>土壤有机碳密度 Soil organic carbon density/</td></tr><tr><td>0-5</td><td>4</td><td>7.34±0.10a</td><td>（g/kg) 12.523±2.995b</td><td>1.128±0.175a</td><td>11.11±2.15a</td><td>(t/hm²） 20.207±9.844b</td></tr><tr><td>5-10</td><td>5</td><td>7.43±0.33a</td><td>12.920±3.531b</td><td>1.236±0.251a</td><td>10.46±1.86a</td><td>21.944±8.371b</td></tr><tr><td>10-15</td><td>5</td><td>7.53±0.21a</td><td>14.126±1.849a</td><td>1.240±0.118a</td><td>11.39±1.24a</td><td>26.578±3.989a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3城市住宅区管理与样方土壤性质的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对4个与住宅区绿化环境管理质量的相关指标(热度、湿度、绿化率和物业管理费)进行主成分分析，结果表明,第一主成分(PC1)和第二主成分(PC2)的累积贡献率达 $8 0 . 9 0 \\%$ ,集中了4个指标的大部分特征（表3）。其中PC1贡献率 $6 2 . 7 7 \\%$ ,特征值大于1,综合的信息量最大,湿度指数、绿化率和物业管理费的因子载荷系数分别为0.765,0.779和0.866,与PC1呈正相关关系,亮温的因子载荷系数为-0.754,与PC1为负相关关系（表3）,因此,可选PC1作为解释城市住宅区绿化环境管理质量的综合指标,该指标与园林绿化的面积和质量，以及人工管护的投入密不可分。 ）",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2263eb9c1dbf1ada52bd6d5667de21667f32dd5211cc651e5794518dfd7c0366.jpg",
+        "table_caption": [
+            "表2不同建成时间住宅小区表层0一20cm土壤性质差异",
+            "表3四个指标主成分分析",
+            "Table 3Principal component analysis of four factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标Index</td><td>PC1</td><td>PC2</td><td>PC3</td><td>PC4</td></tr><tr><td>湿度指数Wetness</td><td>0.765</td><td>0.414</td><td>-0.493</td><td>-0.007</td></tr><tr><td>亮温 Bright temperature</td><td>-0.754</td><td>0.577</td><td>0.086</td><td>0.302</td></tr><tr><td>绿化率 Ratio of green coverage</td><td>0.779</td><td>0.409</td><td>0.441</td><td>-0.177</td></tr><tr><td>物业管理费 Property management fees</td><td>0.866</td><td>-0.231</td><td>0.114</td><td>0.428</td></tr><tr><td>特征值Eigenvalues</td><td>2.511</td><td>0.725</td><td>0.458</td><td>0.306</td></tr><tr><td>贡献率 Percent of variance/%</td><td>62.77</td><td>18.13</td><td>11.44</td><td>7.66</td></tr><tr><td>累积贡献率Cumulative/%</td><td>62.77</td><td>80.90</td><td>92.34</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由回归散点图可以看出,代表城市住宅区绿化环境管理质量的PC1与潮土类的城市住宅表层SOC 含量和密度均存在显著的正向回归关系，决定系数 $R ^ { 2 }$ 分别为0.562( $P { < } 0 . 0 1 \\$ ）和0.513( $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ ),而土壤容重则随PC1增加而显著降低( $\\widehat { R } ^ { 2 } = 0 . 4 0 5 , \\widehat { P } { < } 0 . 0 5 )$ ,TN 有随之也有增加的趋势,但线性回归关系不显著（图3）。由此表明,更高质量的绿化环境管理,客观地表现在住宅区环境有着更高的绿化率和湿度,以及更低的地表温度，一定程度将促使 SOC 累积，土壤变得疏松，容重下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1城市地区土壤有机碳变异性及其对区域碳储量预测的指示城市土壤的高空间变异性,不同城市发展阶段和土壤-土地利用背景的差异,城市区域土壤碳储量估算存在较多不确定性。南台岛住宅用地 SOCD变异系数超过 $6 5 \\%$ ,其中城市居住用地 SOCD介于 $6 . 6 6 7 - 8 5 . 6 8 9 \\mathrm { { t } }$ hm²,极值间差异达12倍,变异性大于全N含量,远高于 $\\mathrm { \\ p H }$ 和容重,这与在美国巴尔的摩市和德国的斯图加特市 SOC 储量的早期代表性研究结果相近[6,17]。近年国内的城市土壤碳循环研究中,如北京 $( 6 . 7 - 1 3 0 . 8 \\mathrm { { t } } { \\big / }$ $\\mathrm { { h m } } ^ { 2 }$ )[28]、上海 $( 1 4 . 7 0 { - } 1 1 0 . 6 2 \\mathrm { t / h m } ^ { 2 }$ [14]、重庆（ $1 2 . 8 - 1 5 6 . 5 \\mathrm { t / h m } ^ { 2 } \\times$ [15]城区表层0 $- 2 0 \\mathrm { c m } \\ \\mathrm { S 0 C D }$ 也同样具有较高的变异性,极值间差异亦达到6.7至19.5倍。然而，同为表层0一 $2 0 \\mathrm { c m }$ 的土壤,南台岛城市居住用地SOCD（ $2 5 . 2 5 6 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ )低于美国巴尔的摩 $\\cdot 5 4 . 4 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ )和丹佛市( $4 5 . 5 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ )住宅区草坪[8」,也略低于北京五环内市区 $( 2 9 . 0 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ )和重庆市 $( 2 7 . 3 \\mathrm { t } / \\mathrm { h m } ^ { 2 }$ )的居住绿地[9,15]。其主要原因在于,近15 年城市快速建设过程中,因原",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c86855772d8074499b20a0cffc9fc58bb88bee9eccbd2c1e7d54b68a88ddc9dd.jpg",
+        "img_caption": [
+            "图3城市住宅区绿化环境管理质量综合指标与表层土壤属性的线性关系",
+            "Fig.3Th linearelationshipbetweethecompositeidexofurbanresidential greespace managementqualityandsurfacesoilparaeter "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有植被生态系统及表层土壤被移除或替换,而使得土壤有机质的输入减少;而且,南台岛平原地带多为闽江泥沙淤积,潮土分布广,其结构松散,易漏水漏肥,SOC 累积缓慢;再者,不透水面覆盖下表层土壤消失的假设,也是 SOCD计算结果较低的另一原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "城市中因镶嵌着形状和大小不一的不透水面、绿地和水体,存在十分明显的景观空间异质性,这也深刻影响着土壤空间变异特征与碳库大小。城市空间的快速扩展已使得原来以植被为主的自然景观逐渐被人工不透水建筑物所取代,并对区域乃至全球的生态系统造成了明显的影响[29]。然而,诸多研究对城市地区土壤C和 N 含量的分析仅限于透水表面的土壤,容易得出因人类活动影响引起的城市化导致土壤C和N大量增加的结论[6.16,30]。Raciti 等研究表明纽约市不透水面下土壤C 和 N 含量分别低于其各自相邻的透水面土壤$6 6 \\%$ 和 $9 5 \\%$ [31]。实际上,多数土壤的调查或制图排除了城市地区,或仅有城市公园和其他没有硬覆盖的区域,传统的土壤地图中,城市建筑用地通常是灰色或黑色图斑,城市区域内部土壤的复杂分布特征未能被识别[32]。Aparin 等在对圣彼德堡土壤制图的研究中提出的\"城市化的土壤空间\"是土壤和非土壤组份（被封闭土壤的范围,建筑物下的土壤范围,建筑物本身)按不同比例的组合[3],该观点为引入不透水面比例作为表层SOCD 计算因子,并为今后城市地区土壤碳密度的尺度外推提供了理论基础。此外,高空间变异的城市土壤意味着克里格插值结果存在因空间细节不清晰、精度不足的限制,需要添加辅助信息来改善精度，如山城重庆市便在克里格的基础上加入了地形因子作为辅助,提高了 SOC 的空间预测精度[15]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2村镇就地城市化与人为管理的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究村镇用地 SOCD 是城市居住用地的1.72倍,TN和C/N也均高于城市居住用地,其主要原因在于，村镇用地多数街巷或房前屋后的环境卫生条件较差,生活垃圾杂乱堆放,污水不合理排放等,土壤被人为地输人了大量的外源碳和氮。可见,当村镇土地因城市扩展而快速就地城市化后,初始 SOC 储量将明显下降。相似的趋势有,美国波士顿和锡拉丘兹城市区域 SOC 储量低于其城市化前的1.6倍[17];Liu 等也表明,建筑和道路密度的增加是城市化导致土壤碳损失的主要原因[34]。然而,有更多研究结果表明城乡梯度上城市区域SOC 储量高于郊区。如,美国芝加哥和奥克兰市 SOC 库高于其城市化前 $6 \\%$ 和 $4 \\% ^ { [ 7 ] }$ 。上海城区表层0—$2 0 \\mathrm { { c m } \\ S O C D }$ 是郊外乡村地区的1.26倍[13];河南开封市城市表层( $\\mathrm { \\hbar ) - } 3 0 \\mathrm { c m } \\ \\mathrm { S O C D }$ 是郊区的2.53倍[35]。城市化是增加或减少地区的土壤碳储量之所以存在截然相反的观点,主要由土地利用背景和时间两个关键因素差异的决定。不同利用历史的土地转变为城市住宅用地后,初始碳密度值存在较大区别,城市人工植被种植之后,土壤碳的累积速率也存在很大区别[16];而时间因素,就像农田休耕的初始阶段 SOC 含量下降,延长休耕期将促使土壤碳累积一样[36],不同用地类型开发为城市住宅之后,SOC 恢复到以前水平所需的时间将大不相同[30]。 A",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "虽然城郊的村镇住宅转变为城市居住用地后,将因外源碳输入的减少导致城市 SOCD下降,但较大地改善了居住环境卫生条件,并且,绿地的管理也有助于“人造土壤”的不断改良。孙艳丽等表明,国城市居住绿地因管理水平较高的缘故,碳密度高出开封市居民区绿地2倍多[30]。此外,绿化环境稳定后,较少地扰动也为新建城市住宅区 SOC 的累积创造有利的条件[7]。因此,随着城市化时间的延长,绿化环境越趋于稳定,居住区 SOC 的累积将成为必然。本研究中,年龄为10—15a城市住宅区表层 SOCD 显著高于0—5a 和 5—10a的住宅区。相似的结果还有,巴尔的摩市由耕地转变而来的住宅用地(0—50a)1m土层 SOC 的累积速率达到（204号 $0 . 8 2 \\mathrm { ~ t ~ C ~ h m } ^ { - 2 } \\mathrm { ~ a ~ } ^ { - 1 [ 1 6 ] }$ 。杭州市住宅区土壤 SOC 含量 $( 0 { - } 1 0 \\mathrm { c m } )$ 随着土壤年龄的增加而增加( $R = 0 . 9$ )[37]Huyler 等则认为仅有表层0—15cm的SOCD会随住宅区建立时间的延长而显著提高， $1 5 \\mathrm { c m }$ 以下各土层 SOCD的变化规律并不显著[38]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)仓山区住宅用地土壤有机碳密度平均值为 $3 3 . 8 1 4 \\mathrm { { t } / \\mathrm { { h m } } ^ { 2 } }$ ,变异系数达 $7 2 . 8 \\%$ ,表明城市区域住宅用地在剧烈的人类活动干扰下，土壤呈现中度的空间变异性。其中村镇住宅用地0一 $2 0 \\mathrm { c m }$ 土层土壤有机碳密度高于城市居住用地 $7 2 \\%$ ,更多外源有机物质的输人,以及较高的C/N,都是村镇住宅用地 SOCD高于城市居住用地的主要原因。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)城市居住用地表层土壤有机碳含量与密度在新建0—5a和5—10a的住宅小区间无显著差异,直到住宅建成时间在10—15a才有显著提高,即城市居住用地建成后,土壤需要10年以上时间稳定才出现显著的SOC 累积效应,但pH值,总 $\\mathrm { ~ N ~ }$ 和 $\\textcircled { \\scriptsize { \\mathrm { C } } \\mathrm { { N } } }$ 则无显著变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)采用主成分分析得出的第一主成分,作为代表城市住宅区绿化环境管理质量的综合指标,客观地耦合了湿度、热度、绿化率与物业管理费,并正向影响城市住宅区表层土壤有机碳密度。因此,城市住宅区绿化管理质量也是城市土壤有机碳密度空间变异的另一影响因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SchneiderA,FriedlMA，Potere D.Mappingglobalurbanareasusing MODIS5O0-mdata：new methodsanddatasetsbasedon‘urbanecoregions’.Remote Sensing of Environment，2010,114（8）：1733-1746.2 AngelS,ParentJ,icDleiAotereDhiesiosofoalubexpasio：Estiatesdprojectiosforallo2050.Progress in Planning，2011，75(2）：53-107.  \n[3] SetKC,Ginealp,HutyaLR.Gobalfreastsofubaexpasiotddirectmpactsodivesitydbonoolsrogsfthe National Academy of Sciences of the United States of America,2012,109(40）：16083-16088.  \n[4］张甘霖，朱永官，傅伯杰.城市土壤质量演变及其生态环境效应.生态学报，2003，23（3)：539-546.  \n[5]PicketSA,CadenassML,GroveM,BooeCG,GroffmanP,IrwinE,KaushalSS,MarshallV,cGrathB,NilonCHouyatV,SzlaveczK，TroyA，WarrenP.Urbaeoogicalsystems：ScientificfoundatiosanddecadeofprogressJoualofEnviotalManagement，2011,92（11）：331-362.  \n[6]PouyatfeLlbssall：S107-S118.  \n[7]PuyatVsilsDoabogeyblsiUitateJaliotalQualit1575.  \n[8] PouyatRV,YesilonisID,olubiewskiNE.AcomparisonofsoilorganicarbonstocksbetweenresidentialturfgassndnativesoilUrbanEcosystems，2009,12(1):45-62.  \n[9] 罗上华，毛齐正，马克明，邬建国.北京城市绿地表层土壤碳氮分布特征.生态学报，2014，34（20)：6011-6019.  \n[10] 张廷龙，孙睿，胡波，党一诺，孙亮.北京西北部典型城市化地区不同土地利用类型土壤碳特征分析.北京师范大学学报：自然科学版2010,46(1) : 97-102.  \n[11] 章明奎，周翠.杭州市城市土壤有机碳的积累和特性.土壤通报，2006，37(1)：19-21.  \n[12] 何跃，张甘霖.城市土壤有机碳和黑碳的含量特征与来源分析.土壤学报，2006，43（2)：177-182.  \n[13] 许乃政，张桃林，王兴祥，刘红樱.城市化进程中的土壤有机碳库演变趋势分析.土壤通报，2011,42（3)：659-663.  \n[14] 周睿，潘贤章，解宪丽，王宝良，王昌昆，刘娅，李燕丽.城市化进程对土壤表层有机碳库的影响一 -以上海市为例.土壤通报，2013，44(5) : 1163-1167.  \n[15] LiuY,WangC，YueWZ,HuYY.Storageanddensityofsoilorganiccarboninurbantopsoilofhillcies:acasestudyofChongqingmunicipality of China.Chinese Geographical Science，2013,23(1）：26-34.  \n[16]Rci SM,GrofmanPM,JenkinsJC,PouyatRV,FaheyTJ，Pcket STA，CadenassML.Aceumulaionfcarbonandnitrogeninresidential soils with different land-use histories.Ecosystems,2011,14(2）:287-297. $\\bigcirc$   \n[17] Lorenz K,Lal R.Biogeochemical C and N cycles in urban soils.Environment International,2O09,35（1)：  \n[18] BrownS，MilerE，gerC.Carbseqratitetialiurbnsil/alR,ugustiB,sCarbonSqustratioinUanoNetherlands：Springer,2012：173-196.  \n[19] 国土资源部.GB/T21010—2007 土地利用现状分类.北京：中国标准出版社，2007：  \n[20] 中华人民共和国住房和城乡建设部.GB 50137-2011城市用地分类与规划建设用地标准.北京：中国计划出版社，2012：1-5.  \n[21] 王巧环，任玉芬，孟龄，李虹，傅慧敏，王华锋.元素分析仪同时测定土壤中全氮和有机碳.分析试验室，2013，32（10)：41-45.  \n[22] 徐涵秋．新型Landsat 8卫星影像的反射率和地表温度反演.地球物理学报，2015，58(3)：741-747.  \n[23] 冯义龙，马跃，先旭东.重庆主城核心区地表温度与绿地乔木基干横断面积和相关性研究.西南师范大学学报：自然科学版，2009，34(5): 177-179.  \n[24] 高美蓉，贾宝全，王成，孙朝晖．厦门本岛城市森林树冠覆盖与热岛效应关系.林业科学，2014，50(3)：63-68.  \n[25] Baig MHA，Zhang LF，Shuai T,TongQ X.Derivation of a tasselled ca] ransformation based on Landsat 8 at-satellite reflectance.RemoteSensing Letters，2014,5(5）：423-431.  \n[26] CristEP.ATTseledCapquvaletrasfoatiforacefactordata.RmoteSensingofEviroent985,7）0-306.  \n[27] 刘娟，蔡演军，王瑾.青海湖流域土壤遥感分类.国土资源遥感，2014，26(1)：57-62.  \n[28] LuoSH,MaoQZ,MaKM.ComparisononSoilcarbonstocksbetweenurbanandsuburbantopsoil inBeijing，China.ChineseGeogapicalScience，2014，24(5):551-561.  \n[29] 徐涵秋．城市不透水面与相关城市生态要素关系的定量分析.生态学报，2009，29(5)：2456-2462.  \n[30] Golubiewski NE. Urbanization increas assland carbon poos：efects of landscaping in Colorado's front range.Ecological Applications,2006,16(2):555-571.  \n[31] Raciti SM,HutyraLR,FinziAC.DepletedsolarbonandtrogenoolseneathimpervoussurfacsEvientalPlutio,，64248-251.  \n[32] VasenevVI,togelJJVsenevValentiniR.HowtpoiloganicarbonstocksinglybanedegiosGeodea227:103-115.  \n[33] AparinBF,SukacevaEYPrciplesofsoilmaigofmegaloliswithSt.Petersburgaanexample.EurasianSoilSiene,4,47（)：650- 661.  \n[34] Liu X L, Li T ZhangSR,JiaYX,LiY,XuXX.Theroleoflanduse,constructionandroadonterrestrialcarbonstocks inanewlyurbanizedarea of western Chengdu,China.Landscape and Urban Planning，2016,147：88-95.  \n[35] 孙艳丽，马建华，李灿.开封市不同功能区城市土壤有机碳含量与密度分析.地理科学，2009,29(1)：124-128.  \n[36] OlssonL，ArdoJSolcarbonequestratioindegradedsmiaridgro-cosstes-erilndpotetialsAO：AJoualftheHuanEnvironment，2002，31(6):471-477.  \n[37] 刘兆云，章明奎.城市绿地年龄对土壤有机碳积累的影响.生态学杂志，2010,29(1)：142-145.HuylerA,aelkarroesLencovedtreass,oedteaceolbeesin residential yards.Urban Ecosystems,2014,17(3）：787-805.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

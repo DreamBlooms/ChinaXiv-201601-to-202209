@@ -1,0 +1,661 @@
+[
+    {
+        "type": "text",
+        "text": "基于HBase的BIM模型存储技术研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈远 岳石花",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（郑州大学土木工程学院，郑州450001）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着计算机互联网技术的飞速发展，建筑信息模型技术(BIM)应运而生。BIM作为一种新兴的建筑技术理念,推动着建筑行业发生巨大的变革,同时，大数据、云计算技术也成为当下热门话题。将大数据云计算与 BIM技术相结合,将是未来建筑行业的发展趋势。本文研究如何将 BIM模型存储在基于大数据平台的开源 HBase 数据库中。通过对 BIM模型的开放性标准IFC 的内部结构进行研究及解析,设计出基于IFC 的HBase 数据库的格式，然后开发基于IFC 格式的HBase JAVA API总体类库。最后通过运用 HBaseJAVA API存储示例说明存储的技术方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；IFC；HBase；JAVAAPI；数据存储",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TP311.13 【文献标识码】A 【文章编号】1674-7461(2017)04-0074-08  \n【DOI]10.16670/j.cnki. cn11 -5823/tu.2017.04.14",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统建筑行业数据量多，数据收集困难，数据交换效率低下。建筑信息模型(BIM)是以三维表达技术为基础,集成了工程项目的各种信息，其核心技术是要实现建设项目各个参与方的信息共享与交换,解决以往建筑信息孤岛的问题。IFC 标准作为开放的BIM标准，是一个计算机可以处理的建筑数据表示和交换标准,其目的是支持工程项目全寿命周期内各个阶段信息的共享与交换[1]。IFC 标准是实现不同应用软件之间数据交流与互操作的中间件，它不依赖任何一个具体的信息系统，也不受任何一个或一类软件开发商的控制，并且能够用于描述建筑项目全生命期内不同专业的所有产品数据信息[2]。然而以往的基于IFC文件式的交换方式已经无法满足日益复杂的工程的需求。BIM数据存储技术是建筑行业需要解决的首要问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网、云计算技术的迅速发展，大数据在医疗、卫生、教育、工业行业等行业已经取得了巨大的经济效益，采用大数据技术来辅助现代建筑行业也必将为建筑业带来巨大的影响。将建筑行业与大数据技术相结合，首先要解决的就是如何将建筑数据存储到大数据平台，进而进行建筑数据的管理和分析。HBase数据库作为开源的大数据平台Hadoop的一部分，解决了海量数据的高效存储问题。因此,本文将探讨通过HBaseJavaAPI将基于IFC 格式的BIM模型储存到HBase数据库的具体技术和方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 IFC标准的概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 1 IFC整体框架",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IFC 标准是由国际协作联盟IAI（theInternationalAlliancefor Interope-rability,现名为BuildingSMART)提出，用于解决不同专业之间以及同一专业之间信息交换与共享。IFC标准自底层到上层依次包括：资源层、核心层、共享层和领域层。资源层主要是产品基础信息的定义，例如日期、人员、几何信息、成本信息、材料资源等等。核心层通过引用资源层信息来描述模型的整体框架，然后来描述真实世界中存在的实物及抽象的一些流程。共享层用来解决跨专业领域的信息交互问题，同时细化各系统的组成元素，如门、窗、墙、梁、柱等常用的建筑实体都在该层被定义。领域层是IFC模型体系的最高层，该层主要定义了每个具体领域(建筑领域、结构领域、设备管理领域等)的实体概念。在IFC框架中领域层、共享层、核心层所有的实体都有一个共同的抽象基类IfcRoot，且都具有唯一的标识（GUID）。资源层的实体不能独立存在通常作为上层中实体的属性存在。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2 基于IFC的实体表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "完整的IFC文件模型由类型定义、计算实体属性值的函数和规则、以及常用属性集的预定义组成。类型定义又包括实体类型、选择类型、定义类型和枚举类型四种。其中实体类型是类型定义的核心也是信息交换与共享的载体，其等同于面向对象程序语言中类的概念。类型实体中其他类型的功能主要是作为属性值被实体实例所引用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ">在 IFC 中性文件中,任何实体都是通过属性来表达描述自身的信息。这些属性可以分为直接属性导出属性和反转属性。如图1。在IfcWall实体中直接属性是一些直接信息或指标量如Globalld、Name等。导出属性是指由其他实体来表达的属性,如 OwnerHistory 、ObjectPlacement、Representation等。反转属性是关键字“INVERSE”之后定义的一些属性,通过关联实体来定义实体实例之间“双向的\"一对多或多对多的关联关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 IFC实体分类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IFC 信息交换的载体是实体，实体是IFC信息交换的最小单元。IFC中的实体按是否可以独立交换划分为可独立交换实体和不可独立交换实体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，可独立交换实体都是继承自IfcRoot。将IfcRoot 的派生实体 IfcObject、IfcRelationship 以及IfcPropertyDefinition按照在信息交换中所起到的作用来划分，又可划分为主体实体和辅助实体，如表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/6bd5cc7b809a710b12a2be26e0a5bb09035c6240031a4929307322f3b463d205.jpg",
+        "table_caption": [
+            "表1IFC实体的分类"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类方式</td><td>类别</td><td>说明</td></tr><tr><td>按照是否 可独立交换</td><td>可独立交换</td><td>可独立交换的实体继承自IfcRoot，具 有唯一的ID(GUID)具备全局标识特 性分布在核心层、交互层和领域层。</td></tr><tr><td></td><td>不可独立交换 (资源层实体）</td><td>不可独立交换的实体分布在资源层，又 称为资源实体。不是继承自IfcRoot， 没有GUID，不具备全局标识特性，通常 作为可独立交换实体的属性存在。</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef95ba28b14b9c6f697d61b8e294627baeee1b12660e9fd89481f4f8771cafd6.jpg",
+        "table_caption": [
+            "表2IfcRoot派生实体的分类"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分类方式</td><td>类别</td><td>说明</td></tr><tr><td>按照在信 息交换的 作用分类</td><td>主体实体</td><td>主体实体是指由对象实体(IfcObject)所派 生出来的实体。包括IfcProduct（产品）、If- cProcess（过程）、IfcControl（控制）、IfcRe- source（资源）、IfcActor（角色）、IfcProject (项目)和IfcGroup(分组)及其子类。这些</td></tr><tr><td></td><td>辅助实体</td><td>实体在信息交换中起主导作用。 辅助实体是指在IfcRoot中除去主体实体</td></tr><tr><td></td><td></td><td>（对象实体）以外的实体，包括IfcRelation- ship、IfcPropertyDefinition及其子类,这些 辅助实体对主体实体起到修饰、扩充定义</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 IFC文件的解析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IFC标准是基于EXPRESS语言来描述建筑数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ENTITY IfcWall; ENTITY IfcRoot; GlobalId IfcGloballyUniqueId; OwnerHistory IfcOwnerHistory; Name ： OPTIONAL IfcLabel; Description ：OPTIONAL IfcText; ENTITY IfcObiectDefinition; INVERSE HasAssignments ：SET OF IfcRelAssiqns FOR RelatedObjects; IsDecomposedby :SET OF IfcRelDecomposes FOR Relatingobject; Decomposes SET [0:1] OF IfcRelDecomposes FOR RelatedObjects; HasAssociations :SET OF IfcRelAssociates FOR RelatedObjects; ENTITY IfcObiect; ObjectType ：OPTIONAL IfcLabel; INVERSE IsDefinedBy ：SET OF IfcRelDefines FOR RelatedObjects; ENTITY IfeProduct; ObjectPlacement ：OPTIONAL IfcObiectPlacement; Representation :OPTIONAL IfcProductRepresentation; INVERSE ReferencedBy SET OF IfcRelAssiqnsToProduct FOR RelatingProduct; ENTITY IfcElement; Tag ： OPTIONAL IfcIdentifier; INVERSE HasStructuralMember ： SET OF IfcRelConnectsStructuralElement FOR RelatingElement; FillsVoids ： SET [0:1]OF IfcRelFillsElement FOR RelatedBuildingElement; ConnectedTo ：SET OF IfcRelConnectsElements FOR RelatingElement; HasCoverings :SET OF IfcRelCoversBldqElements FOR RelatingBuildingElement; HasProjections ： SETOF IfcRelProiectsElement FOR RelatingElement; ReferencedInStructures ： SETOF IfcRelReferencedInSpatialStructure FOR RelatedElements; HasPorts ： SET OF IfcRelConnectsPortToElement FOR RelatedElement; HasOpenings ： SET OF IfcRelVoidsElement FOR RelatingBuildingElement; IsConnectionRealization ： SET OF IfcRelConnectsWithRealizingElements FOR RealizingElements; ProvidesBoundaries ： SET OF IfcRelSpaceBoundary FOR RelatedBuildingElement; ConnectedFrom ： SET OF IfcRelConnectsElements FOR RelatedElement; ContainedInStructure ： SET [0:1]OF IfcRelContainedInSpatialStructure FOR RelatedElements; ENTITY IfcBuildingElement; ENTITY IfcWall；   \nEND_ENTITY; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据。EXPRESS是一种面向对象的信息描述性语言，不是编程语言，不能直接用于编程开发。因此需要对IFC模型进行解析，然后才能运用计算机语言如C#、 $\\mathrm { \\Delta C + \\Delta + , J A V A }$ 等来通过编程具体实现所需的功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前用于IFC解析的软件有很多，JotneEPMTechnology 公司的 EDM；基于 $\\mathrm { C } + +$ 的 IfcPlusPlus ;基于.NET平台的xBIMToolKit；基于JAVA的Ifc-ToolsProjcet等。本文采用的是基于Java的IfcTool-sProjcet中的IFCJAVAToolbox工具。该工具可以方便的阅读、编写、修改和添加IFC文件。IFCJA-VAToolbox支持IFC模式中所有实体的直接属性和反转属性。针对IFC中的每个实体，IFCJAVATool-box中都有一个对应的Java类，其核心模型IfcModel为提取和设置IFC 对象的任何显式属性和反转属性提供方法,因此可以实例化并处理任何对象[3]。创建一个IfcModel类作为获取工程的入口类,该类包含了模型中所有的实体。通过ifcModel.readStepFile)对IFC模型的信息进行读取与解析加载。具体的实现方式如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个IFC文件有且仅有一个 IfeProject 对象,它是整个IFC文件的最高级别的实体类型，所以无论是利用IFC 文件临时传递一个零部件、一根杆件，还是装载整个建筑工程,都应该从IfcProject开始，自上而下地逐层定义对象，直到完整表达所要表达的模型信息[4]。通过分析IFC 模型文件,先获得该模型所定义的 IfcProject对象、IfcSite 对象IfcBuilding",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "//定义IfcModel类  \nprivate IfcModel createIfcModel({  \n/创建一个IfcModel实例  \nIfcModelifcModel $\\ c =$ new IfcModel();//从文件系统中加载IFCSTEP文件  \nFile stepFile $\\ c =$ newFile(\"f:\\\\ifcpractise \\\\某教学楼项目.ifc\");  \ntry{ifcModel.readStepFile(stepFile);} catch (Exception e){//TODO Auto-generated catch blocke.printStackTrace();\\~return ifcModel;  \n}",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对象、IfcBuildingStorey对象等以及与所有建筑楼层对象关联的墙（IfcWall）、梁（IfcBeam）、柱（IfcCol-umn）、板（IfcSlab）、楼梯（IfcStair）、窗（IfcWindow）,门(IfcDoor)等结构构件对象，这些结构构件对象是主体建筑的主要构件，也是工程数据交换的核心[5]。对于获取到的对象实体通过IFCJAVA Tool-box 中的 get-methods 和 set-methods 来读取和设置特定的IFC实体的属性。对于IFC实体反转属性可通过各自的get方法获得，不需要 set方法，因为他们是自动解决的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2HBase数据库的概述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1HBase 数据库整体架构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NoSQL(非关系型数据库)是一种新的数据管理专门设计的技术来满足要求的数据不同，它不需要一个预定义的数据模式,这意味着它不仅使IFC 架构中的所有数据定义映射到数据库结构中，而且也可以添加新功能的数据结构实体，这符合IFC的发展模式,不断采用新的建模概念到新的版本中[6]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbb4aaf942881a6e5f26657afe0c22da246b408122b80b81899f1367500d68ae.jpg",
+        "img_caption": [
+            "图2IFC文件的获取与解析",
+            "图3HBase 系统架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBase（HadoopDatabase）作为一种NoSQL数据库是基于GoogleBigTable的开源实现，主要用于存储海量的数据。它是构建在Hadoop中的HDFS之上的分布式的面向列的开源数据库。利用Hadoop中的MapReduce 来处理数据。利用Zookeeper来处理协同服务。HBase的系统架构图如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "客户端Client是整个集群的入口，用户可以直接通过Client操作HBase，使用HBaseRPC（远程调用)机制与HMaster和HRegionServe 通信。Client与HMaster通信是进行管理类的操作，与RegionServe通信是进行数据读写类操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5程序的协调服务 Zookeeper 是集群中的协调者,其主要功能有：保证了集群中任何时候只有一个Master；实时监控RegionServe的上线和下线信息，并通知给Master；存储所有Region 的寻址入口；存储HBase 的 schema 和 table 元数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBase 中主节点HMaster 管理用户对Table的增删改查，管理HRegionServe的负载均衡，调整Re-gion 分布。在Region Split后，负责新Region的分配。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HRegionServe维护Region并往HDFS中书写数据，是HBase 中最核心的模块。管理HBase 中逻辑表的结构，当表的大小超过设计值时，SplitHRe-giono",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. $\\boldsymbol { \\hat { \\mathbf { 2 } } } \\boldsymbol { ) }$ HBase数据库存储模式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从逻辑上看HBase以表的形式存储数据，表由行和列组成，每个列是属于某个列族。在HBase 中并不是每行每列都存储数据，它是一个稀疏的表。在HBase中也不存在null(空记录）。当存在没有数据的情况时，HBase不会存储任何东西。HBase 的逻辑模型如表3所示。关于表中的几个概念的介绍如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）行键（Rowkey）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rowkey是数据行在表里的唯一标识，作为检索记录的主键。Rowkey可以为最大长度不超过64KB的任意字符串，并按照字典序存储。访问HBase 表中的行有三种方式：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·通过单个行键(Rowkey）访问;  \n·通过给定行键的范围访问;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "·全表扫描。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）列族(ColoumFamily）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在HBase表格中列（Coloum）是属于列族（ColoumFamily）的一部分，列族是列的集合，一个列族可以包含多个列，列族支持动态的扩展，在建表时不需要预先定义列的数量以及类型，列中的数据都是以二进制存储，没有数据类型。列可以表示为<列族 $>$ ： $\\angle$ 限定符 $>$ ；这就表明一个列族中所有的列成员都有相同的前缀；例如：列courses：English,列courses:Math,和列courses:History 都是列族courses的成员，“：”是分隔符，用来区分前缀和列名。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）时间戳（Timestamp）与存储单元（Cell）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBase中单元格（Cell）由Rowkey，ColoumFami-ly，Coloum，Timestamp唯一确定，每一个存储单元都保存着同一份数据的多个版本，这些不同的版本通过时间戳来索引。在写入数据时Timestamp可以由HBase自动赋值也可以手动赋值，最终不同的版本按照时间倒序排序，即最新的数据显示在前面。一般系统默认保存3个版本。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d246446e5994baa1c77c44a28b343ca7a70dd79b369c0bb89a109f4fd0fd8b3d.jpg",
+        "table_caption": [
+            "表3HBase 逻辑模型"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">行键 (Rowkey)</td><td rowspan=\"3\">时间戳 （Timestamp)</td><td colspan=\"2\">列族（ColoumFamily）</td></tr><tr><td>Coloum1</td><td>Coloum2</td></tr><tr><td>1</td><td>t3</td><td>Colouml Value3</td><td>Coloum2 Value3</td></tr><tr><td rowspan=\"4\">2</td><td>t2</td><td>Coloum1 Value2</td><td>Coloum2 Value2</td></tr><tr><td>t1</td><td>Colouml Valuel</td><td>Coloum2 Value1</td></tr><tr><td>t2</td><td>Colouml Value5</td><td>Coloum2 Value5</td></tr><tr><td>t1</td><td>Coloum1 Value4</td><td>Coloum2 Value4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 HBaseJAVA API简介",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBaseAPI由多种形式，但由于HBase的开发语言是Java语言，JavaAPI是最有效的访问方式。本文主要研究原生JavaAPI形式。主要介绍五大类:HBaseConfiguration、HBaseAdmin、HTableDescrip-tor、HTable、HBase CRUD Operation 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）HBaseConfiguration",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在使用原生Java客户端前，首先要配置客户端,HBaseConfiguration是用于客户端的配置类，它是每一个HbaseClient都会使用到的对象。可以通过如下代码构建该对象：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Configurationconfig $\\mathbf { \\tau } = \\mathbf { \\tau }$ HBaseConfiguration. create (2)HBaseAdmin ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HBaseAdmin类是HBase数据库的管理入口类，提供一个接口来管理HBase数据库的表信息，并管理表格的元数据。它提供的方法包括：创建表、删除表、修改表、使表有效或无效，以及添加或删除表列族成员等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）HTableDescriptor",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HTableDescriptor主要是对表里的列族进行描述。可以通过如下代码构造该对象：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HTableDescriptort $\\mathbf { \\tau } = \\mathbf { \\tau }$ new HTableDescriptor（tableName) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)HTable ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在HBase中HTable用来封装表格对象，对表格的增删改查操作主要通过它来完成，当构建多个HTable 对象时,HBase 推荐所有的HTable 使用同一个Configuration。这样，HTable之间便可共享HCon-nection 对象、zookeeper信息以及Region地址的缓存信息",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5)HBase CRUD Operation ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2HBase的CRUD操作接口用到了在hbase.cli-ent包下的org.apache.hadoop中的HTable类,它提供了用户所需的所有的存储，从HBase中检索数据以及删除过时的值等功能[7]。对表的创建、删除、显示以及修改等，可以用HBaseAdmin，一旦创建了表，那么可以通过HTable的实例来访问表，每次可以往表里增加数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 单行put 操作向 HBase 中存储数据可以通过如下代码来实现该功能的调用：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Void put(Put put) throws IOException ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这个方法以单个Put或存储在列表中的一组Put对象作为输入参数。创建put实例时，用户需要提供一个行键 row，在HBase中每行数据都有唯一的行键(rowkey）作为标识。创建put 实例后，就可以向该实例添加数据。使用add()方法把数据添加到put 实例中。如果再添加一个时间戳就能形成一个单元格。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 批量put操作",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "批量插入put实例的调用形式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Void put(L $\\mathrm { i s t } < \\mathrm { P u t } >$ puts ）throws IOException ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "批量操作put,用户需要创建一个列表List来存放所有的Put实例，将想要存放的Put实例依次放到列表List上来，最后再执行puts操作，把列表List中的put 实例都更新存放到HBase上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)get方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从客户端API获取已存储数据，使用Get对象，通过HTable.get（Get）来调用。HTable 提供了get（)方法，同时还有与之对应的Get类。get方法分为两类：一类是一次获取一行数据，另一类是一次获取多行数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 单行get操作",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与put操作一样,在检索数据时，要按照一个指定的行键(rowkey)来创建用来get的实例。其调用形式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Result get(Get get) throws IOException ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 批量get操作",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与 put操作一样 get 操作也可以进行批量的操作。其操作流程和思路与put 操作一样,不再赘述。其调用形式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Result[] get(List <Get $>$ gets)throwsIOException ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3)delete方法 $\\textcircled{1}$ 单行delete ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与前面的 get（)方法和 put（)方法一样，用户必须先创建一个Delete实例，然后添加想要删除的数据的详细信息。其调用形式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Void delete(Delete delete)throws IOException ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 批量delete ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于列表List的delete（）调用与基于列表的put（)调用一样需要先创建一个包含Delete实例的列表，对其进行配置，并调用如下方法：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Voiddelete（List $<$ Delete $>$ deletes）throwsIOEx-ception",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3基于HBase数据库的IFC信息存储的方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1基于IFC的HBase 数据库设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据库的设计是API层设计和应用层设计的基础，只有将数据库的表格设计的符合逻辑、符合需求,才能设计合理的 API层和应用层[8]。HBase 数据库接口是为了给上层更好的对其进行数据存取而根据HBase提供的API写的类包，其主要实现了两个部分的功能，一是对数据库表级的操作，二是对数据库中数据存取的操作[9]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IFC 中的实体其属性可以分为直接属性、导出属性和反转属性。在IFC标准中直接属性以字符串形式来直接描述实体的相应属性。IFC中的导出属性对应的是一个IFC实体，将该实体实例的二进制序列化值存储在HBaseTable中。IFC中反转属性可以通过关联相应的IfcRelationship表得到其属性。如表4所示。在IfcProject表中，IfcProject（项目）实体直接属性由 Name、Description、Object Type、Phase、LongName这些属性在表中以字符串的形式直接描述对应的属性值。导出属性如OwnerHistory由IfcOwerHistory实体对象的二进制序列化值来得到其属性值。反转属性如HasAssigenments通过关系实IfcRel Assigns 来描述该属性。要获得HasAssige-nments属性需要先获取IfcRelAssigns及其子类的关系对象，再通过关系对象指向一个具体的相关实例对象。又如HasAssociations通过关联实体IfcRelAs-sociates可以关联构件的材料信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5对于IFC中的可独立交换的实体建立相应的HBase 表格,表中以直接属性、导出属性和反转属性作为列族。对于资源层中的资源实体不用建立相应的表格，其作为可独立交换实体的属性存在。在HBase 数据库中将IFC 可独立交换的实体中的所有主体实体建立一张大表。对于辅助实体即关系实体和类型实体是主体实体的属性的那些类型可以在主体实体表中仅保存其Globalld。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2\"HBaseJAVA API的设计",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了使用户能直接对IFC数据进行编程扩展，需对IFC 数据进行封装,进而提供统一的 API（Ap-plicationProgrammingInterface，应用程序编程接口）,API设计的合理性是数据库扩展的关键[10]本文设计的基于IFC的HBase JAVA API的对象模型主要包含三个基本类：项目类、主体实体类，关系实体类。如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每一个IFC文件有且仅有一个项目类（IfcProject），该类位于信息交换的顶端。项目类（Project)主要存储项目的基本信息。包括项目的名称、项目的编号、项目所处的阶段。项目类所有的属性信息如表4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "API中的主体实体类主要指工程中继承自If-cProduct的物理对象。该对象实体是所有数据存储的依据，也是工程中的主要内容。在IFC标准中建筑产品通过运用实体IfcProduct来定义，IfcProduct表示一个对象描述的几何表示和局部位置[]。该类中包含了项目的场地类、建筑类、楼层类、相关的建筑构件类如墙柱、梁、板、楼梯、屋顶等。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8533d460487d808a6ce8fddcc0bd11943a156074fec23984e4a11495958655f4.jpg",
+        "table_caption": [
+            "表4IfcProject 表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">IfcProject（项目）</td></tr><tr><td>RowKey</td><td></td><td>IfcProject 的 Globalld 值</td></tr><tr><td>TimeStamp</td><td></td><td>时间戳</td></tr><tr><td>列族</td><td>列</td><td>说明</td></tr><tr><td rowspan=\"4\">直接属性 (Direct)</td><td>Name</td><td>名称(字符串)</td></tr><tr><td>Description</td><td>描述(字符串)</td></tr><tr><td>ObjectType</td><td>对象类型(字符串)</td></tr><tr><td>Phase LongName</td><td>工程所处阶段(字符串)</td></tr><tr><td rowspan=\"3\">（Derive）</td><td>导出属性OwnerHistory</td><td>长名(字符串) “IfcOwerHistory”对象实例的二进制</td></tr><tr><td>Representation</td><td>序列化值 “IfcRepresentationContexts”对象实例</td></tr><tr><td>Contexts UnitsInContext</td><td>的二进制序列化值 “IfcUnitsAssigenment”对象实例的二</td></tr><tr><td rowspan=\"4\">(Inverse)</td><td></td><td>进制序列化值 反转属性HasAssigenments 通过一个分配关系IfcRelAssigns分配</td></tr><tr><td>IsDecomposedBy</td><td>其他 IfcObject子类型给这个对象</td></tr><tr><td></td><td>通过关系实体IfcRelDecomposes来允 许这个对象是由其他对象合成</td></tr><tr><td>Deconposes</td><td>通过关系实体IfcRelDecomposes来允 许这个对象是分解的一部分</td></tr><tr><td rowspan=\"2\"></td><td>HasAssociations</td><td>通过关系实体IfcRelAssociates定义在 IFC 资源层概念的关系集。例如分 类、库或文档引用</td></tr><tr><td>IsDefinedBy</td><td>通过关系实体IfcRelDefines进一步定 义对象的类型或属性信息的关系集 （静态或动态的定义）</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd6a6127eb8eb082522eb16b3fd164db06e1f367966529cf8ffaa7c97c855963.jpg",
+        "img_caption": [
+            "图4HBase 数据库API总体框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在主体实体中通过关系实体类可以实现实体与实体、实体与属性之间的定义，对象化的关系类将实体引用保存在自身实例中，这些引用关系在实体中表现为反转属性。因此关系类是连接项目中实体与实体、实体与属性之间的关系的。该类的存在依附于项目类和主体实体类。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3利用HBaseJAVAAPI实现存储的示例",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)连接HBase数据库",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在Java代码中，为了连接到HBase，我们首先创建一个配置(Configuration)对象,使用该对象创建一个HTable 实例。这些配置文件信息包括Zookeeper地址、主机地址等。这个HTable对用于处理所有的客户端API调用。通过语句“Configuration conf $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ HBaseConfiguration.create（）”来获取HBase数据库中的配置信息，默认的构造方式会从 hbase-de-fault.xml和hbase-site.xml 中读取配置,如果class-path中没有这两个文件，需自己配置。通过“connection $\\mathbf { \\tau } = \\mathbf { \\tau }$ ConnectionFactory.createConnection（conf）\"来建立连接。如图5。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "public class HBaseUtil{   \nor:Aixeu private static Connection connection; I 初始化连接 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ HBaseConfiguration.create();//获得配制文件对象 conf.set(\"hbase.zookeeper.quorum\",\"192.168.52.140\")://设置配置参数 connection ConnectionFactory.createConnection(conf);://   \n获得连接对象 C admin=connection.getAdmin(); }catch (IOExceptione){ e.printStackTrace(); } } ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)创建表",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "需要用HTableDescriptor构建一张表,并且使用HColumnDescriptor添加一个或多个列簇，然后调用createTable方法建表。完成之后再在表中添加一些数据。如图6所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)添加数据",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于解析后的IFC文件通过前面所述getCol-lections方法及get-method方法等可以获取到所有实体集合及其属性集合。用Hbase中API代码循环读取这些集合，将读取的到集合对应放入HBase表中。添加数据时创建put对象，利用rowkey 添加一行数据，Put的构造函数都需要指定行键。添加具体数据调用put.add（)方法。所有的数据都被添加之后，我们调用HTable.put（）方法会将数据保存进HBase的table中。也就是说创建Put对象及put.add过程都是在构建一行的数据，创建Put对象时相当于创建了行对象，add的过程就是往目标行里添加cell，直到table.put才将数据插入表格。部分代码如图7所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "//新建一个表的描述   \nHTableDescriptortableDesc=newHTableDescriptor(IfcProject); //在描述里添加列族   \nfor (String columnFamily $\\because$ columnFamilys){   \ntableDesc.addFamily(newHColumnDescriptor(\"Direct\"); tableDesc.addFamily(newHColumnDescriptor(\"Derive \"); tableDesc.addFamily(newHColumnDescriptor(\"Inverse \")); }   \n//根据配置好的描述建表   \nhAdmin.createTable(tableDesc);   \nSystem.out.println(\"创建表 $\" +$ IfcProject+\"成功!\"); Put put=null;   \n//循环读取   \nfor(String str: set){   \n//指定添加行，设置RowKey,该行键为IfcProject的22为GUID值   \nPut put $\\mathbf { \\tau } = \\mathbf { \\tau }$ new Put(Bytes.toBytes(\"0cs8HZC\\$1BhfpOzkrKVrbn \");   \n//往列族Driect中添加数据   \nput.add(Bytes.toBytes(Driect),Bytes.toBytes(Name)，Bytes.toBytes(value));   \nput.add(Bytes.toBytes(Driect),Bytes.toBytes(Description)，Bytes.toBytes(value)); //往列族Derive中添加数据   \nput.add(Bytes.toBytes(Derive),Bytes.toBytes(OwerHistory)，Bytes.toBytes(value)); put.add(Bytes.toBytes(Derive),Bytes.toBytes(UnitsInContext)，Bytes.toBytes(value); //往列族Inverse中添加数据   \nput.add(Bytes.toBytes(Inverse),Bytes.toBytes(HasAssigenments)，Bytes.toBytes(value)); ；   \ntable.put(put);   \ntable.flushCommits();   \ntable.close(); ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文在大数据背景下研究将基于IFC标准的建筑信息模型(BIM)存储到HBase数据库中，并且能实现对建筑数据的添加删除以及存储与查询功能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于HBses数据库的数据存储技术与传统的基于文件、基于关系数据库和基于面向对象的数据库的存储相比，有着很大的优势：1)Hbase数据库能存储海量的数据;2)分布式的存储与计算模式将大大提高运行计算速度；3)具有良好的扩展性能，去掉了关系数据库的关系特性，数据之间是弱关系性，非常容易扩展;4)数据模型灵活，无须事先为要存储的数据建立字段，随时可以存储自定义的数据格式。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "但本文仅仅是实现了基于IFC标准的建筑数据的存储技术。在本文研究的存储技术基础之上还有多项技术有待进一步发展：(1)如何将非结构化的建筑信息如工程施工合同、工程现场照片、工程变更等文件挂接到IFC模型中,进而存储在Hbase 数据库;5(2)在Hbase 数据库上再研究开发图形显示界面与编辑平台，使建筑各个参与方可以在该数据库基础上进行前端的编辑操作，进一步完成建筑信息在大数据平台的共享与交互;2(3)在基于HBase 存储的基础上进一步研究基于 MapReduce 的建筑行业大数据的分析功能,将建筑业与大数据技术真正结合起来。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Liebich T.,Wix J.IFC Technical Guide［EB/OL]2000. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www. buildingsmart-tech. org.  \n［2］李丽娜.基于BIM的建设项目文本信息集成管理研究[D].大连理工大学，2015.  \n［3］姜韶华，李丽娜,戴利人.基于BIM的项目文本信息集成方法研究［J].工程管理学报.2015，29（4）：101-106.  \n［4］董骁.BIM技术在空间结构中的应用与开发［D].上海交通大学，2015.  \n［5］刘照球，李云贵，吕西林,等.建筑结构信息集成的程序实现[J].沈阳建筑大学学报（自然科学版).2009，25(3) : 467-473.  \n[6]MaL.,SacksR.A cloud based BIM platform for informa-tion collaboration[C].International Symposium on Auto-mation and Robotics in Construction,2016.  \n［7］张弛.hbase 数据库访问接口的设计与实现[D].北京大学，2013.  \n［8］陈潇睿.5D模型在建筑管理软件中的设计与实现［D].上海交通大学，2013.  \n［9］孙志佳.基于Hadoop的在线购物原型系统的设计与实现[D].东北大学，2010.  \n［10］林良帆.BIM数据存储与集成管理研究［D].上海交通大学，2013.  \n[11]Ma Z.,Wei Z.,Song W.Application and extension of theIFC standard in construction cost estimating for tenderingin China[J].Automation in Construction.2011，20（2）：196-204.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Research on HBase-based BIM Model Storage Technology ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chen Yuan，Yue Shihua",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(School of Civil Engineering，Zhengzhou University，Zhengzhou 45OoO1，China） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：With the rapid development of computer and Internet technology，building information model (BIM）has emerged.Asa new concept of building technology，BIM has been the driving force of great changes in the construction industry.At the same time，big data and cloud computing technologies have become hot topics.It will be the development trend in future construction industry to combine big dataand cloud computing with BIM technology.This paper presents a research about how to store a BIMmodel in open source HBase database based on big data platform：designing a IFC-based HBase database through the research and parsing of the internal structure of the open standard IFC of BIM model,and then developing IFC-based general library of HBase JAVA API.Finally，the storage method is explained through using the storage example of HBase JAVA API. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM； IFC; JAVA API； Data Storage",
+        "page_idx": 7
+    }
+]

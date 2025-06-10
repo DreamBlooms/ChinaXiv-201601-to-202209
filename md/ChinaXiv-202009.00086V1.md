@@ -1,0 +1,311 @@
+# 认知无线电网络一种自适应切换机制的Markov建模分析
+
+尚梓晗，黎锁平，杨讽，李伟(兰州理工大学理学院，兰州 730050)
+
+摘要：为了提高认知无线电网络(CRNs)的利用率和吞吐量性能，提出了一种新的主用户优先的自适应频谱切换机制。强调主用户的优先地位，并考虑主用户到达率对次用户的通信影响和限制次用户对主用户的干扰功率，次用户以此自适应地决定执行主动切换机制或被动切换机制。在此自适应切换机制下建立了主次用户之间的 MarkoV 链，求出了相应的稳态概率，由稳态概率和不同状态下的吞吐量推导出系统吞吐量和信道利用率的解析表达式。又对次用户之间的通信建立了一个 Markov链，推导出次用户之间传递控制信息的时间。数值结果表明提出的新的自适应切换机制比基于CSMA的接入方法具有更高的系统吞吐量和信道利用率，并且可以求出次用户之间的传递时间。
+
+关键词：CRNs；频谱切换；自适应切换；马尔可夫；系统吞吐量；信道利用率中图分类号：TP393 doi: 10.19734/j.issn.1001-3695.2020.02.0062
+
+Markov modeling analysis of adaptive handoff strategy in cognitive radio networks
+
+Shang Zihan, Li Suoping†, Yang Sa, Li Wei (School of Science,Lanzhou University of Technology,Lanzhou Gansu 73oo50,China)
+
+Abstract: To improve the channel utilization and throughput performance ofcognitiveradio networks (CRNs),this paper proposed anew adaptive spectrum handof strategy，which emphasized the priorityof primaryuser and considered the influenceof the arrival rateof the primaryuser(PU)on thecommunication of thesecondary user(SU)and limited the interference power of the secondaryuser to the primary user,and SUs adapted to areactiveor a proactive handoff strategy accordingly.This adaptive handoff strategy established the Markovchains betweenprimaryand secondary users,and gave thesteady-stateprobabilitiesrespectively.Fromthesteady-stateprobabilityandthroughputunderdifferentstates,derivedthe analyticexpressions of system throughputand channelutilization.And establisheda Markovchain forthe transmission betweensecondary users,derived thetime to transfercontrol information betweensecondaryusers.Numericalresults show thatthe proposedadaptivehandoffstrategyhashigherthroughputand channelutilization than the CSMA-basedrandomacess approaches,and can be used to derive the time to transfer control information between secondary users.
+
+Key words: CRNs;spectrum handoff; adaptive handoff; Markov; system throughput; channel utilization
+
+# 0 引言
+
+随着无线通信网络的高速发展，使用频谱的设备数量快速增长，对频谱带宽的需求也随之增加。由于现有的静态频谱分配方式与对频谱带宽的需求不匹配，所以频谱资源的稀缺性问题也随之出现。事实上，静态的频谱分配方式会使很多得到许可的频谱带宽未被充分使用。
+
+认知无线电网络是解决频谱稀缺问题的一个有效措施。认知无线电网络可以使一个次用户使用暂时未被主用户占用的带宽，这样可以提高有限频谱资源的利用率。次用户可以将信道利用率最大化，而不影响已经建立好的频谱分配方案。
+
+认知无线电网络的管理机制分为三步：频谱检测、频谱共享和频谱切换。频谱检测就是监测频谱使用状态，探测频谱空洞。频谱共享是指可能有多个次用户尝试接入信道。频谱切换是根据频谱特性和用户需求来选择合适频段。其中频谱切换是最主要的一步，它是对暂时未被利用的频谱带宽的动态利用。在信道上，由于主用户的到达，次用户感知周围频谱而决定以何种机制执行切换。事实上，频谱切换是将次用户的持续传输无缝切换到另外一个空闲信道，而不影响次用户的服务质量。在这个过程中，次用户不能对主用户产生
+
+干扰。
+
+频谱切换机制一般分为两类：主动切换机制(proactivehandoff scheme)和被动切换机制(reactive handoff scheme)。主动切换机制是指数据传输的下一个信道在切换触发前已经由主用户的通信模式所决定的机制，这种机制可以避免频谱感知所浪费的时间并且可以有效保持通信的连续性；但由于系统的动态变化，选择的目标信道可能是不正确的。被动切换机制是指数据传输的下一个信道是由切换发生后的瞬时感应所决定的机制，目标信道切换的准确性比较高，但可能会引起通信中断。在主动切换机制中，次用户需要周期性地感知周围频谱，产生频繁的感知和大量的交互信息，故选择合适的感知时间可以减少不必要的感知，提高切换机制的执行效率。在被动切换机制中，次用户通过频谱感知搜索频谱资源，接入可用的空闲信道来继续之前剩余的服务，这里的感知是通信中断后进行的，故如何准确地感知可用的频谱信息是整个切换机制的关键。文献[1]的作者想将主动切换机制和被动切换机制的优点结合起来来避免无用的切换。文献[2]结合主动切换机制和被动切换机制的优点，并取得了一些成果，但这些研究是基于切换发生时信道在一直切换的基础上取得的文献[3]中提出的切换机制用了一个备份信道，但当备份信道荒废时，信道利用率是不足的，这将导致信道资源的浪费。
+
+文献[4,5]研究了主动切换机制。文献[4]提出的主动切换机制是通过选择具有最大空闲时间的信道，使次用户的切换频率最小化。当多个次用户同时实行切换时，对每个次用户生成一个伪随机选择序列，但是这种机制可能对主用户的活动预测不准确。文献[5提出次用户是否转换到一个新的信道取决于切换过程中所消耗的能量。更特别地是，提出的这种机制考虑了主用户的能量状态、切换时间、不完美的感知、切换所需要的能量，以及信道空闲概率来决定是否切换。
+
+文献[6\~8]对被动切换机制进行了研究。文献[6]的作者提出了下一个目标信道选择过程的被动切换方案，下一个信道是根据两个标准选择的：目标信道是空闲或繁忙的预测概率以及忙周期的长度。如果信道空闲或忙周期很短，那么就执行切换。但是这种机制在选择正确目标信道的同时，切换时延也会增加。文献[7]提出了一种被动切换机制，次用户在当前信道上通信就感知到了下一个目标信道的可用性。在提供可靠和及时的频谱传感的同时，采取了中断避免方法提高系统吞吐量，但是切换时延和等待时间也会增加。文献[8]的作者提出的切换机制允许次用户在主用户存在时同时持有多个可用信道，然后次用户在多个信道上通信。这样既可以避免对主用户的有害干扰，又能满足次用户的通信需求。
+
+混合切换机制是将主动切换机制和被动切换机制结合在一起的切换机制。文献[2]提出的混合切换机制虽然将主动切换机制和被动切换机制结合在一起，但由于主用户的到达，次用户一直在切换信道，这将导致大量无用的切换。文献[8]中提出的切换机制在设计过程中忽视了主用户的行为，在次用户的传输过程中，这将导致额外时延、信道利用率不足和无用的切换。文献[9]中次用户通过检测主用户的行为来决定实行何种切换机制，但是并没有提到主用户具体的行为变化。一种混合切换机制被称为“自适应”切换机制，在这种自适应切换机制中，通过持续监测主用户的到达和离开过程而作出信道选择和切换决策。文献[10]提出一种基于主用户到达率的自适应切换机制，次用户根据主用户的到达率选择是停留在当前信道还是实行切换，但是没有提到次用户对主用户的影响以及次用户之间的协作通信。
+
+本文为此提出了一种新的自适应切换机制，在这种自适应切换机制中，主用户的地位是毋庸置疑的，任何次用户到达信道后都不可以打断主用户的数据传输，通过加入干扰温度这一因素，限制次用户的功率以免对主用户的通信造成影响。次用户则根据主用户的到达率选择是停留在当前信道还是实行切换，以及实行何种切换机制。并通过建立Markov链描述系统的动态特性，反映主、次用户的到达或者离去过程，研究该切换机制的性能。
+
+# 1 自适应切换机制的建立
+
+主用户优先的自适应切换机制能使系统的公平性和效率之间达到平衡，在一定程度上避免信道利用率不足。为了提高认知无线电网络的性能，在主用户优先的基础上，再加入主用户到达率和次用户的干扰功率这两项新的参数对系统性能进行研究。通过刻画用户之间的行为和信道传输的状态，本文就主用户和次用户之间的通信提出了一个算法，如图1所示。图中假设认知无线电网络(CRNs)是一个时隙系统，每个时隙有两部分。在每个时隙的第一部分，次用户可以监控主用户的行为。在每个时隙的第二部分，次用户根据主用户行为作出切换选择，即如果没有主用户到达信道，则次用户可以在这个信道上传输和接收数据。如果主用户到达，则次用户会实行适当的移动机制来决定是停留在当前信道还是实行切换。
+
+![](images/b4e1db1271fbe5f5712fbbf25b97374a376ddcc2d1a64c77ccb7c1c6324f27aa.jpg)  
+图1自适应切换机制算法  
+Fig.1Algorithm of adaptive handoff strategy
+
+这样的切换机制其工作原理描述如下：
+
+a)次用户感知周围环境，如果没有主用户到达，则次用户继续数据传输。如果主用户到达，计算次用户对主用户的干扰功率;
+
+b)给出干扰温度界限 $T _ { L } ( f _ { c } )$ 用来限制对主用户接收端引起的干扰：
+
+$$
+T _ { 1 } ( f _ { c } , B ) + \frac { L _ { c } P _ { t } ( f _ { c } , B ) } { K B } \leq T _ { L } ( f _ { c } )
+$$
+
+其中 $T _ { 1 } ( f _ { c } , B )$ 表示在中心频率为 $f _ { c }$ 处，带宽为 $B$ 的频带内的干扰温度； $P _ { t } ( f _ { c } , B )$ 表示在中心频率为 $f _ { c }$ 处，带宽为 $B$ 的次用户发射端平均功率， $K$ 为波兹曼常数，常数 $L _ { c }$ 为衰减因子，用来描述次用户发射端和主用户接收端之间的衰落和路径损耗引起的乘性噪声。对式(1)进行变换，得到次用户发送端的最大传输功率：
+
+$$
+P _ { t } ( f _ { c } , B ) \leq \frac { K B } { L _ { c } } ( T _ { L } ( f _ { c } ) - T _ { 1 } ( f _ { c } , B ) )
+$$
+
+设 $P _ { t \operatorname* { m a x } } ( f _ { c } , B ) = \frac { K B ( T _ { L } ( f _ { c } ) - T _ { 1 } ( f _ { c } , B ) ) } { L _ { c } }$ ，如果次用户的发送功率低于干扰门限 $P _ { t \operatorname* { m a x } } ( f _ { c } , B )$ ，则次用户可以在当前信道上继续数据传输；如果发送功率高于干扰门限 $P _ { t \operatorname* { m a x } } ( f _ { c } , B )$ ，则次用户实行频谱切换。
+
+d)次用户进入到频谱切换机制中，根据主用户以前行为所设置的阈值来决定执行主动切换机制还是被动切换机制；通过能量检测器得到主用户的到达率；假设接收到的信号表达式为
+
+$$
+y ( n ) = s ( n ) + \omega ( n )
+$$
+
+$s ( n )$ 为需要检测的信号， $\omega _ { } ( \boldsymbol n )$ 为加性高斯白噪声样值， $n$ 为样值指数。当主用户没有工作时， $s ( n ) { = } 0$ ，能量探测器判决值为
+
+$$
+M = \sum _ { n = 1 } ^ { N } \lvert y ( n ) \rvert ^ { 2 }
+$$
+
+其中 $N$ 为测量向量的长度。
+
+e）通过将判决值 $M$ 与固定的阈值 $\lambda _ { E }$ 相比较，得到频谱切换决策。这里的阈值 $\lambda _ { E }$ 是根据主用户之前的到达率所设定的，因为当主用户到达其授权信道时，能量探测器感知的能量水平提高，通过多次检测不同主用户到达率时的能量水平，并设置能量阈值。如果主用户到达率小于设置的阈值 $\lambda _ { E }$ ，次用户实行主动切换机制；如果主用户到达率大于阈值 $\lambda _ { E }$ ，次用户实行被动切换机制。
+
+# 2 Markov模型的建立与分析
+
+在本文提出的自适应切换机制中，主用户的优先地位是毋庸置疑的，为了既能描述主用户的优先地位又可以得到不同用户之间的状态，可以用连续时间马尔可夫链(CTMC)对用户之间的联系进行建模分析。图2描述了不同用户之间的协作关系。其中主用户之间可以传递数据信息，次用户之间也可以传递数据信息，但是在主、次用户之间只能传递控制信息。
+
+在动态频谱接入中，次用户机会式地接入未被使用的频谱，主用户享有高优先级队列，次用户享有低优先级队列。次用户不能与主用户同时共享信道。当主用户出现在信道，所有在同一信道上的次用户都应立即停止服务。在这里，每个用户的到达过程和离去过程都服从独立泊松过程。因此，可以把主用户和次用户之间的关系建模为一个连续时间马尔可夫链(CTMCs)。
+
+![](images/7b6f93edb0100d4758e07c6373746d1e1b14dd3528e654ec47671e71fea0d733.jpg)  
+图2协作频谱检测模型
+
+在连续时间马尔可夫链中，多个次用户应用载波侦听多址接入(CSMA)方式尝试接入空闲信道[II]，如果它们的服务请求同时到达信道，会发生碰撞。但是这种情况基本不会发生在独立的泊松过程中。所以，在本文提出的连续时间马尔可夫模型中，忽略次用户的碰撞，假设它们的服务周期开始于不同的时隙。
+
+# 2.1主用户和次用户的Markov模型
+
+# 2.1.1主用户优先无排队的Markov链
+
+首先假设当主用户 $\mathrm { ~ \bf ~ P ~ }$ 出现时，对于次用户而言不存在等待的队列，将这个频谱接入过程建模为一个五状态的连续时间马尔可夫链(记为CTMC-5)，如图3所示。用idle状态表示无用户接入信道，状态 $\varphi$ 表示用户 $\varphi$ 在信道上进行服务，这里 $\varphi \in \{ S _ { 1 } , S _ { 2 } , P \}$ ，状态 $S _ { 1 } S _ { 2 }$ 表示次用户 $S _ { 1 }$ 和 $S _ { 2 }$ 共享信道。
+
+![](images/6684abd23a32f06bb5fa88913c723d593ab9b2c854db05ac81ac5d950d8905b0.jpg)  
+Fig.2Spectrum cooperative detection model   
+图3主用户优先的无排队CTMC-5模型
+
+假设开始时频谱带宽是空闲的，CTMC-5是idle状态，此时次用户尝试接入信道。当次用户 $S _ { 1 }$ 尝试接入信道，CTMC-5以速率 $\lambda _ { s _ { 1 } }$ 到达 $S _ { 1 }$ 状态，如果次用户 $S _ { 1 }$ 在其他用户请求接入信道之前就已经完成了服务，则CTMC-5从 $S _ { 1 }$ 状态以速率$\mu _ { s _ { \parallel } }$ 返回到idle状态。如果次用户 $S _ { 2 }$ 的服务请求在次用户 $S _ { 1 }$ 在完成服务之前到达信道，CTMC-5以速率 $\lambda _ { S _ { 2 } }$ 到达 $S _ { 1 } S _ { 2 }$ 状态，这时两个次用户共享这个信道。一旦次用户 $S _ { 1 }$ (或 $S _ { 2 }$ )服务完成，CTMC-5 以速率 $\mu _ { s _ { 1 } }$ (或 $\mu _ { s _ { 2 } }$ )从 $S _ { 1 } S _ { 2 }$ 状态转移到状态 $S _ { 2 }$ (或$S _ { 1 }$ )。但是CTMC-5在 $S _ { 1 }$ ， $S _ { 2 }$ 和 $S _ { 1 } S _ { 2 }$ 状态，即在任意次用户通信期间，如果主用户出现，次用户会暂停未完成的服务以避免与主用户碰撞，这时主用户接受服务，即CTMC-5以速率$\lambda _ { P }$ 转移到状态 $P$ 。在主用户在信道接受服务期间，任何次用户都没有接入信道的权利。在主用户完成它的服务之后，CTMC-5以速率 $\mu _ { P }$ 转移到闲状态。在这里，为了计算简便，在不同用户之间采用相同的到达率和离开率。
+
+CTMC-5的无穷小生成矩阵如表1所示，流量平衡方程如下：
+
+$$
+\left\{ \begin{array} { l l } { \pi _ { i d t e } ( \lambda _ { P } + \lambda _ { S _ { 1 } } + \lambda _ { S _ { 2 } } ) = \pi _ { P } \mu _ { P } + \pi _ { S _ { 1 } } \mu _ { S _ { 1 } } + \pi _ { S _ { 2 } } \mu , } \\ { \pi _ { S _ { 1 } } ( \lambda _ { P } + \mu _ { S _ { 1 } } + \lambda _ { S _ { 2 } } ) = \pi _ { i d t e } \lambda _ { S _ { 1 } } + \pi _ { S _ { 1 } S _ { 2 } } \mu _ { S _ { 2 } } } \\ { \pi _ { S _ { 2 } } ( \lambda _ { P } + \lambda _ { S _ { 1 } } + \mu _ { S _ { 2 } } ) = \pi _ { i d t e } \lambda _ { S _ { 2 } } + \pi _ { S _ { 1 } S _ { 2 } } \mu _ { S _ { 1 } } } \\ { \pi _ { P } \mu _ { P } = ( \pi _ { i d t e } + \pi _ { S _ { 1 } } + \pi _ { S _ { 2 } } + \pi _ { S _ { 1 } S _ { 2 } } ) \lambda _ { P } } \\ { \pi _ { S _ { 1 } S _ { 2 } } ( \mu _ { S _ { 1 } } + \mu _ { S _ { 2 } } + \lambda _ { P } ) = \pi _ { S _ { 1 } } \lambda _ { S _ { 2 } } + \pi _ { S _ { 2 } } \lambda _ { S _ { 1 } } } \\ { \pi _ { P } + \pi _ { i d t e } + \pi _ { S _ { 1 } } + \pi _ { S _ { 2 } } + \pi _ { S _ { 1 } S _ { 2 } } = 1 } \end{array} \right.
+$$
+
+此处 $\pi _ { i }$ 为状态 $i$ 的稳态概率， $i \in I = \{ i d l e , P , S _ { 1 } , S _ { 2 } , S _ { 1 } S _ { 2 } \}$ 。为方便计算，设 $\lambda _ { P } = \lambda _ { S _ { 1 } } = \lambda _ { S _ { 2 } } = \lambda$ ， $\mu _ { P } = \mu _ { S _ { 1 } } = \mu _ { S _ { 2 } } = \mu$ ，对上述的方程组求解，得到每个用户占用信道的稳态概率：
+
+$$
+\left\{ \begin{array} { l l } { \pi _ { i d t e } = \displaystyle \frac { 2 \lambda ^ { 2 } \mu + 3 \lambda \mu ^ { 2 } + 2 \mu ^ { 3 } } { ( 2 \lambda + \mu ) ( \lambda + \mu ) ( 3 \lambda + 2 \mu ) } } \\ { \pi _ { P } = \displaystyle \frac { \lambda } { \lambda + \mu } } \\ { \pi _ { s _ { 1 } } = \pi _ { s _ { 2 } } = \displaystyle \frac { \lambda \mu ( \lambda + 2 \mu ) } { ( 2 \lambda + \mu ) ( \lambda + \mu ) ( 3 \lambda + 2 \mu ) } } \\ { \pi _ { s _ { 1 } s _ { 2 } } = \displaystyle \frac { 2 \lambda ^ { 2 } \mu } { ( 2 \lambda + \mu ) ( \lambda + \mu ) ( 3 \lambda + 2 \mu ) } } \end{array} \right.
+$$
+
+表1CTMC-5的无穷小生成矩阵  
+Tab.1 The infinitesimal generator matrix for CTMC-5   
+
+<html><body><table><tr><td>states</td><td>idle P</td><td>S</td><td>S</td></tr><tr><td>idle</td><td>-(μp+μs+μs）𝜆p</td><td>2s</td><td>1s2</td></tr><tr><td>P</td><td>μp</td><td>0</td><td>0</td></tr><tr><td>S</td><td>μs1</td><td>λp-(λs+μp+μs）</td><td>0 1s</td></tr><tr><td>S</td><td>μs2</td><td>0</td><td>-(s+μp+μs） 2s</td></tr><tr><td>SS</td><td>0</td><td>μs</td><td>μs -(μp+2s+s）</td></tr></table></body></html>
+
+# 2.1.2主用户优先的有排队的Markov链
+
+在无排队模型中，当主用户出现在频谱带宽时，次用户被迫终止它们的服务。在主用户完成服务后，CTMC-5转移到闲状态。但在系统处于空闲状态和下一个次用户访问频谱之间可能会浪费一些时间间隔。为了提高频谱利用率，考虑由于主用户的存在对次用户的服务请求进行排队。当频谱被次用户占用时，一旦出现主用户，此时次用户中断服务，并将中断的服务缓存在缓存器中。这时通过检测主用户的到达率和次用户的干扰功率，决定次用户是否执行切换以及执行何种切换机制。如果主用户在信道上，此时对次用户新的服务请求进行排队。用两个信道的例子来解释排队方法，如图4所示，图中两个信道上各有一个高优先级队列和一个低优先级队列。主用户占据高优先级队列，次用户占据低优先级队列。当中断发生，即主用户出现在信道上，这时次用户有两个选择，要么停留在当前信道，要么将它的服务转换到其他可用的信道上去。如果停留在当前信道，一个次用户的剩余服务被放置在低优先级队列的头部，在更改信道的情况下，剩余服务被放置在低优先级队列的尾部。当信道空闲时，次用户可以继续它的服务。这种头尾部的布置确保了次用户之间的FCFS。在主用户到达时，释放信道的次用户比其他正在等待的次用户享有更高的优先级，因此，它在低优先级队列的头部。一旦主用户离开信道，在头部的次用户立即接入信道。由文献[11]，S锁的作用是使通信不中断。
+
+![](images/f380b738fd7f5eb3487336501d41ffbfaf7026528a9de2757e226420358bcaa0.jpg)  
+Fig.3The model of primary-prioritized CTMC without queuing   
+图4主用户和次用户的排队行为  
+Fig.4Queuing behaviors of primary and secondary users
+
+考虑到以上因素，本文将有排队的频谱接入过程建模为一个八状态的CTMC，记为CTMC-8。CTMC-8的速率转移图如图5所示。与CTMC-5一样，idle状态表示无用户接入信道，状态 $\varphi$ 表示用户 $\varphi$ 在信道上进行服务，这里 $\varphi \in \{ S _ { 1 } , S _ { 2 } , P \}$ ，状态 $S _ { 1 } S _ { 2 }$ 表示 $S _ { 1 }$ 和 $S _ { 2 }$ 共享信道。在CTMC-8中有三个新增的状态： $( P , S _ { 1 } )$ ， $( P , S _ { 2 } )$ 和 $( P , S _ { 1 } S _ { 2 } )$ 。状态 $( P , \gamma )$ 代表主用户 $P$ 在服务，而在等待的过程；状态 $( P , S _ { 1 } S _ { 2 } )$ 代表主用户 $P$ 在服务中，而次用户 $S _ { 1 }$ 和 $S _ { 2 }$ 都在等待的过程。
+
+![](images/f7005b8e3f568b0348c1f423c2aea9bb9ddb72495b970d08c911d919e41151ac.jpg)  
+图5主用户优先的排队CTMC-8模型
+
+假设第一个状态为idle状态，如果次用户 $S _ { 1 }$ （或 $S _ { 2 }$ )接入信道，则CTMC-8以速率 $\lambda _ { s _ { 1 } }$ (或 $\lambda _ { S _ { 2 } }$ )转移到状态 $( 0 , S _ { 1 } )$ (或状态 $( 0 , S _ { 2 } )$ )；若主用户 $P$ 此时出现在信道上，则CTMC-8以速率 $\lambda _ { P }$ 转移到状态 $( P , S _ { 1 } )$ (或状态 $( P , S _ { 2 } )$ )。如果次用户 $S _ { 1 }$ （或$S _ { 2 }$ )的发射功率低于干扰门限 $P _ { t \operatorname* { m a x } } ( f _ { c } , B )$ ，则次用户 $S _ { \mathrm { 1 } }$ （或 $S _ { 2 }$ ）可以在当前信道上继续数据传输，即系统处于状态 $( P , S _ { 1 } )$ （或状态 $( P , S _ { 2 } )$ )；如果次用户的发射功率高于干扰门限 $P _ { \mathrm { { r m a x } } } ( f _ { c } , B )$ ：则次用户实行频谱切换，系统转移到状态 $( P , 0 )$ 。当CTMC-8在状态 $( P , S _ { 1 } )$ 时，如果此时次用户 $S _ { 2 }$ 接入信道，那么CTMC-8以速率 $\lambda _ { S _ { 2 } }$ 转移到状态 $( P , S _ { 1 } S _ { 2 } )$ 。一旦主用户离开信道，CTMC-8以速率 $\mu _ { P }$ 转移到状态 $( 0 , S _ { 1 } S _ { 2 } )$ ，这时 $S _ { 1 }$ 和 $S _ { 2 }$ 共享频谱宽带。当CTMC-8在状态 $( P , 0 )$ 时，如果次用户 $S _ { 1 }$ （或 $S _ { 2 }$ )尝试接入频谱，同样地，如果次用户 $S _ { 1 }$ （或 $S _ { 2 }$ )的发射功率低于干扰门限 $P _ { t \operatorname* { m a x } } ( f _ { c } , B )$ ，则次用户 $S _ { 1 }$ （或 $S _ { 2 }$ )可以在当前信道上等待，即CTMC-8以速率 $\lambda _ { S _ { 1 } }$ (或 $\lambda _ { S _ { 2 } }$ )分别转移到状态 $( P , S _ { 1 } )$ (或$( P , S _ { 2 } )$ )；如果次用户的发射功率高于干扰门限 $P _ { \mathrm { r m a x } } ( f _ { c } , B )$ ，则次用户实行频谱切换。
+
+CTMC-8的无穷小生成矩阵如表2所示。流量平衡方程为
+
+$$
+\{ \begin{array} { l l } { \pi _ { 0 , 0 } ( \lambda _ { P r } + \lambda _ { s _ { 1 } } + \lambda _ { s _ { 2 } } ) = \pi _ { 0 , s _ { 1 } } \mu _ { s _ { 1 } } + \pi _ { r , 0 } \mu _ { r } + \pi _ { 0 , s _ { 2 } } \mu _ { s _ { 2 } } } \\ { \pi _ { 0 , s _ { 1 } } ( \lambda _ { P r } + \mu _ { s _ { 1 } } + \lambda _ { s _ { 2 } } ) = \pi _ { 0 , s _ { 1 } } \lambda _ { s _ { 1 } } + \pi _ { 0 , s _ { 1 } , s _ { 2 } } \mu _ { s _ { 2 } } + \pi _ { p , s _ { 1 } } \mu _ { p } } \\ { \pi _ { 0 , s _ { 2 } } ( \lambda _ { P r } + \lambda _ { s _ { 1 } } + \mu _ { s _ { 2 } } ) = \pi _ { 0 , s _ { 2 } } \lambda _ { p } + \pi _ { p , s _ { 2 } } \mu _ { p } + \pi _ { 0 , s _ { 2 } } \mu _ { s _ { 1 } } } \\ { \pi _ { P o } ( \lambda _ { s _ { 1 } } + \lambda _ { s _ { 2 } } + \mu _ { p } ) = \pi _ { 0 , s } \lambda _ { p } } \\ { \pi _ { P o } ( \lambda _ { P r } + \lambda _ { s _ { 2 } } ) = \pi _ { 0 , s _ { 1 } } \lambda _ { p } + \pi _ { p , s } \lambda _ { s _ { 1 } } } \\ { \pi _ { P o , s _ { 2 } } ( \mu _ { p } + \lambda _ { s _ { 1 } } ) = \pi _ { 0 , s _ { 2 } } \lambda _ { p } + \pi _ { p , s } \lambda _ { s _ { 2 } } } \\ { \pi _ { P o , s _ { 3 } } \mu _ { p } - \pi _ { 0 , s _ { 3 } } \lambda _ { p } + \pi _ { p , s } \lambda _ { s _ { 2 } } + \pi _ { p , s _ { 3 } } \lambda _ { s _ { 1 } } } \\ { \pi _ { 0 , s _ { 3 } } ( \lambda _ { P r } + \lambda _ { s _ { 1 } } + \mu _ { s _ { 2 } } ) = \pi _ { 0 , s } \lambda _ { s _ { 3 } } + \pi _ { p , s _ { 3 } } \mu _ { p } + \pi _ { 0 , s } \lambda _ { s _ { 1 } } } \\ { \pi _ { 0 , s _ { 2 } } ( \lambda _ { P r , s _ { 1 } } + \lambda _ { s _ { 2 } } ) = \pi _ { 0 , s } \lambda _ { s _ { 2 } } + \pi _ { p , s _ { 1 } } \lambda _ { p } } \\  \pi _ { 0 , s _ { 2 } } ( \lambda _ { P r , s _ { 1 } } + \lambda _ { s _ { 2 } } ) = \pi _ { 0 , s } \lambda _ { s _ { 2 } } + \pi _  \end{array}
+$$
+
+表2CTMC-8的无穷小生成矩阵  
+Tab.2The infinitesimal generator matrix for CTMC-8   
+
+<html><body><table><tr><td>states</td><td>(0.0)</td><td>(P,0)</td><td>(0,S)</td><td>(0,S)</td><td>(P,S)</td><td>(P,S2)</td><td>(0,SS2)</td><td>(P,SS2)</td></tr><tr><td>(0,0)</td><td>-(μp+μs+μs）</td><td>2p</td><td>1s</td><td>1s2</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>(P,0)</td><td>μp</td><td>-(p+μs+μs2)</td><td>0</td><td>0</td><td>2s</td><td>1s2</td><td>0</td><td>0</td></tr><tr><td>(0,S)</td><td>μs</td><td>0</td><td>-(2s+μp+μs2）</td><td>0</td><td>2p</td><td>0</td><td>2s</td><td>0</td></tr><tr><td>(0,S)</td><td>μs2</td><td>0</td><td>0</td><td>-(2s2+μp+μs)</td><td>0</td><td>2p</td><td>2s1</td><td>0</td></tr><tr><td>(P,S)</td><td>0</td><td>0</td><td>μp</td><td>0</td><td>-(𝜆p+μs)</td><td>0</td><td>0</td><td>2s2</td></tr><tr><td>(P,S)</td><td>0</td><td>0</td><td>0</td><td>μp</td><td>0</td><td>-(2p+μs)</td><td>0</td><td></td></tr><tr><td>(0,SS)</td><td>0</td><td>0</td><td>μs2</td><td>μs1</td><td>0</td><td>0</td><td>-(2s+2s+μp)</td><td>p</td></tr><tr><td>(P,S,S2)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>μs2</td><td>μs</td><td>μp</td><td>-(ap+2s+λs）</td></tr></table></body></html>
+
+为求出各状态的稳态概率，设 $\lambda _ { P } = \lambda _ { S _ { 1 } } = \lambda _ { S _ { 2 } } = \lambda$ ，$\mu _ { P } = \mu _ { S _ { 1 } } = \mu _ { S _ { 2 } } = \mu$ 。对上述的方程组求解，可得各状态的稳态概率如下：
+
+$$
+\left\{ \begin{array} { l l } { \pi _ { 0 k } = H ( 2 \lambda \mu ^ { \prime } + \mu ^ { \prime \prime } ) } \\ { \pi _ { 1 k , 0 } = H ( \lambda \mu ^ { \prime } + 3 \lambda ^ { \prime } \mu ^ { \prime \prime } ) } \\ { \pi _ { 0 k , 1 } = H ( \lambda \mu ^ { \prime } + 3 \lambda ^ { \prime } \mu ^ { \prime \prime } ) } \\ { \pi _ { 0 , 0 } = H ( \lambda \mu ^ { \prime } + 3 \lambda ^ { \prime } \mu ^ { \prime \prime } ) } \\ { \pi _ { \lambda ^ { \prime } \nu _ { 0 } } = H \lambda ^ { 2 } ( \lambda \mu ^ { \prime \prime } + 2 \mu ^ { \prime \prime } ) } \\ { \pi _ { \lambda ^ { \prime } \nu _ { 0 } } = H \frac { ( 2 \lambda ^ { \prime } \mu ^ { \prime \prime } + 3 \lambda ^ { \prime } \mu ^ { \prime \prime } ) } { ( \lambda + \mu ) } } \\ { \pi _ { \lambda ^ { \prime } \nu _ { 0 } } - H \frac { ( 2 \lambda ^ { \prime } \mu ^ { \prime \prime } + 3 \lambda ^ { \prime } \mu ^ { \prime \prime } ) } { ( \lambda + \mu ) } } \\ { \pi _ { \lambda ^ { \prime } \nu _ { 0 } } - H \frac { \lambda ^ { \prime } ( \beta \lambda ^ { \prime \prime } + 1 2 \lambda \mu + 5 \mu ^ { \prime } ) } { ( \lambda + \mu ) } } \\ { \pi _ { 0 , \lambda ^ { \prime } } = H \frac { \lambda ^ { 2 } ( \mu ^ { \prime } + 6 \lambda \mu ^ { \prime } + 6 \lambda ^ { 2 } \mu ) } { ( \lambda + \mu ) } } \end{array} \right.
+$$
+
+其中 $H = \left[ ( 2 \lambda ^ { 2 } + 2 \lambda \mu + \mu ^ { 2 } ) ( 3 \lambda ^ { 2 } + 3 \lambda \mu + \mu ^ { 2 } ) \right] ^ { - 1 }$
+
+# 2.2次用户之间马尔可夫模型
+
+图6描述了次用户之间可以通过相互传递控制信息来提高信道的利用率。在本文中不考虑次用户之间的竞争，对次用户之间的协作状态可以建立如下的马尔可夫模型。
+
+设有 $\mid m$ 个次用户，在时刻0有一个已经得到控制信息的次用户与 $m { - } 1$ 个未得到控制信息的次用户。每个次用户如果得到由其他次用户发送的控制信息将永远地处于此状态。假设在任意长时间区间内任意一个得到控制信息的次用户将以概率 $a h + o ( h )$ 发送控制信息给任一指定的未得到信息的次用户，以 $X ( t )$ 计时刻 $\textit { t }$ 次用户中已得到控制信息的个数，则$\{ X ( t ) , \ t \geq 0 \}$ 是一纯生过程，这一过程服从参数 $\lambda _ { n }$ ，那么有
+
+$$
+\lambda _ { n } = \left\{ \begin{array} { c l } { { ( m - n ) n a , } } & { { n = 1 , 2 , \cdots , m - 1 } } \\ { { 0 } } & { { , } } & { { \not \equiv { \bf \cdot } { \bf \dot { E } } } } \end{array} \right.
+$$
+
+![](images/6df09e97b03df017c96b461cb374ca3f00e5cd4254ee8a0c5f86086e156ffb02.jpg)  
+Fig.5The model of primary-prioritized CTMC with queuing   
+图6次用户之间的马尔可夫模型Fig.6The Markov model of SUS
+
+这是因为当有 $n$ 个已得到控制信息的次用户时， $m - n$ 个未得到控制信息的每一个次用户将以速率 $n a$ 得到控制信息。记 $T$ 为信道中所有次用户都得到控制信息的时间， $T _ { i }$ 为从$i$ 个已经得到控制信息的次用户到 $i { + } 1$ 个得到控制信息的时间，则 $T = \sum _ { i = 1 } ^ { m - 1 } T _ { i }$ 。由于 $T _ { i }$ 是相互独立的指数随机变量，其参数分别为 $\lambda _ { i } = ( m - i ) i a$ ， $i = 1 , 2 , \cdots , m - 1$ ，所以 $T$ 的期望和方差分别为
+
+$$
+E T = \sum _ { i = 1 } ^ { m - 1 } E T _ { i } = \frac 1 a \sum _ { i = 1 } ^ { m - 1 } \frac 1 { i ( m - i ) }
+$$
+
+$$
+D T = \sum _ { i = 1 } ^ { m - 1 } D T _ { i } = \frac { 1 } { a ^ { 2 } } { \sum _ { i = 1 } ^ { m - 1 } } \Biggl [ \frac { 1 } { i ( m - i ) } \Biggr ] ^ { 2 }
+$$
+
+对规模合理的次用户们， $\mathbf { \Omega } _ { E T }$ 渐近地为
+
+$$
+E T = { \frac { 1 } { m a } } \sum _ { i = 1 } ^ { m - 1 } ( { \frac { 1 } { m - i } } + { \frac { 1 } { i } } ) \approx { \frac { 1 } { m a } } \int _ { 1 } ^ { m - 1 } ( { \frac { 1 } { m - t } } + { \frac { 1 } { t } } ) d t = { \frac { 2 \ln ( m - 1 ) } { m a } }
+$$
+
+# 3 系统性能分析
+
+# 1）系统吞吐量
+
+在上面的模型中，已经给出了稳态概率的解，了解到 $\pi _ { S _ { i } }$ 是系统在状态 $S _ { i }$ 的稳态概率，因此可以认定它为CTMC在状态 $S _ { i }$ 下预期长期运行的一部分：
+
+$$
+\pi _ { S _ { i } } = \operatorname* { l i m } _ { T  \infty } \frac { 1 } { T } \int _ { 0 } ^ { T } P _ { r } \{ S ( t ) = S _ { i } \} d t
+$$
+
+$S ( t )$ 为CTMC在时刻 $t$ 的状态，如果假设
+
+$$
+S = \operatorname* { l i m } _ { T \to \infty } \frac { 1 } { T } E ( \int _ { 0 } ^ { T } R ( S ( t ) ) d t )
+$$
+
+为长期平均吞吐量， $R ( S ( t ) )$ 是在状态 $S ( t )$ 的吞吐量，有
+
+$$
+S = \operatorname* { l i m } _ { T  \infty } \frac { 1 } { T } \int _ { 0 } ^ { T } E ( R ( S ( t ) ) ) d t = \ \operatorname* { l i m } _ { T  \infty } \frac { 1 } { T } \int _ { 0 } ^ { T } \sum _ { S _ { i } \in S } R ( S _ { i } ) P _ { r } \{ S ( t ) = S _ { i } \} d t =
+$$
+
+$$
+\sum _ { S _ { i } \in S } R ( S _ { i } ) \operatorname* { l i m } _ { T \to \infty } \frac { 1 } { T } \int _ { 0 } ^ { T } P _ { r } \left\{ S ( t ) = S _ { i } \right\} d t = \ \sum _ { S _ { i } \in S } R ( S _ { i } ) \pi _ { S _ { i } }
+$$
+
+对于任意在信道单独工作的主用户 $P$ 和次用户 $\gamma$ ，设最大传输速率分别为 $C _ { 1 } ^ { P }$ 和 $C _ { 1 } ^ { \gamma }$ ：
+
+$$
+C _ { 1 } ^ { \scriptscriptstyle P } = B \log _ { 2 } ( 1 + \frac { E _ { \scriptscriptstyle P } G _ { { P P } } } { n _ { 0 } B } ) , \quad C _ { 1 } ^ { \scriptscriptstyle \gamma } = B \log _ { 2 } ( 1 + \frac { E _ { \scriptscriptstyle \gamma } G _ { { \scriptscriptstyle \gamma } \scriptscriptstyle \gamma } } { n _ { 0 } B } )
+$$
+
+当两个次用户共享信道时，最大传输速率 $C _ { 2 } ^ { \gamma }$ 为
+
+$$
+C _ { 2 } ^ { \gamma } { = } B \log _ { 2 } ( 1 + \frac { E _ { \gamma } G _ { \gamma \gamma } } { n _ { 0 } B + \sum _ { \alpha \neq \gamma } E _ { \alpha } G _ { \alpha \gamma } } )
+$$
+
+其中 $B$ 为通信带宽， $n _ { 0 }$ 为加性白高斯噪声功率， $E _ { P }$ 和 $E _ { \gamma }$ 分别为主用户 $P$ 和次用户 $\gamma$ 的传输功率， $G _ { { \scriptscriptstyle P P } }$ 和 $G _ { \gamma }$ 分别为主用户$P$ 和次用户的信道增益， $G _ { \alpha \gamma }$ 为次用户 $\alpha$ 的发射端到次用户γ的信道增益。所以对于CTMC-5和CTMC-8，可以将系统的平均吞吐量分别表示为 $S _ { 5 }$ 和 $S _ { 8 }$ ：
+
+$$
+S _ { 5 } { = } { \pi } _ { S _ { 1 } } C _ { 1 } ^ { \gamma } + { \pi } _ { S _ { 2 } } C _ { 1 } ^ { \gamma } + { \pi } _ { P } C _ { 1 } ^ { P } + { \pi } _ { S _ { 1 } S _ { 2 } } C _ { 2 } ^ { \gamma }
+$$
+
+$$
+S _ { 8 } { = } { \pi } _ { 0 , S _ { 1 } } C _ { 1 } ^ { \gamma } + { \pi } _ { 0 , S _ { 2 } } C _ { 1 } ^ { \gamma } + { \pi } _ { 0 , S _ { 1 } S _ { 2 } } C _ { 2 } ^ { \gamma } + ( { \pi } _ { P , 0 } + { \pi } _ { P , S _ { 1 } } + { \pi } _ { P , S _ { 2 } } + { \pi } _ { P , S _ { 1 } S _ { 2 } } ) C _ { 1 } ^ { P }
+$$
+
+2）信道利用率
+
+记CTMC-5和CTMC-8的信道利用率分别为 $\eta _ { 5 }$ 和 $\eta _ { \mathrm { { s } } }$ ：
+
+$$
+\eta _ { 5 } = 1 - \pi _ { i d l e } = ~ 1 - \frac { 2 \lambda ^ { 2 } \mu + 3 \lambda \mu ^ { 2 } + 2 \mu ^ { 3 } } { ( 2 \lambda + \mu ) ( \lambda + \mu ) ( 3 \lambda + 2 \mu ) }
+$$
+
+$$
+\eta _ { 8 } { = } 1 - \pi _ { 0 , 0 } { = } ~ 1 - H ( 2 \lambda \mu ^ { 3 } + \mu ^ { 4 } ) { = }
+$$
+
+$$
+1 - \frac { 2 \lambda \mu ^ { 3 } + \mu ^ { 4 } } { ( 2 \lambda ^ { 2 } + 2 \lambda \mu + \mu ^ { 2 } ) ( 3 \lambda ^ { 2 } + 3 \lambda \mu + \mu ^ { 2 } ) }
+$$
+
+# 4 数值结果及其分析
+
+该部分通过Matlab数值模拟对本文提出的方案进行数值分析。本次分析主要针对两个参数，分别是系统吞吐量和信道利用率。首先将本文提出的自适应切换机制的性能指标与CSMA方式进行对比，从而验证本文所提自适应切换机制的优越性。仿真所需参数如表3所示。
+
+因为在多个次用户应用载波侦听多址接入(CSMA)方式尝试接入空闲信道时，如果它们的服务请求同时到达信道，会发生碰撞。在本文提出的自适应切换机制中，假设CRNs是一个时隙系统，用户的服务周期开始于不同的时隙，这样可以有效避免用户之间的碰撞，提高系统性能。而此机制中的CTMC-8方法相较于CTMC-5方法而言，将次用户的服务进行排队，可以有效提高信道利用率，所以CTMC-8方法是优于CTMC-5的。
+
+表3相关系数  
+Tab.3Related parameters   
+
+<html><body><table><tr><td>参数</td><td>数值</td><td>参数</td><td>数值</td></tr><tr><td>主用户数据包长度</td><td>10 Bytes</td><td>次用户传输功率</td><td>10 mW</td></tr><tr><td>此用户数据包长度</td><td>10 Bytes</td><td>传播损耗指数</td><td>3.6</td></tr><tr><td>信道处理时间</td><td>0.05 ms</td><td>主用户离开率</td><td>100 S-1</td></tr><tr><td>授权频谱带宽</td><td>300 KHz</td><td>次用户离开率</td><td>100 S-1</td></tr><tr><td>主用户传输功率</td><td>30mW</td><td>主用户到达率</td><td>100 S-1</td></tr></table></body></html>
+
+图7表示系统吞吐量与次用户到达率的关系。其中，“--”曲线表示CSMA方式的关系曲线，其余两条曲线分别表示CTMC-5和CTMC-8的关系曲线。在CSMA方式中，随着次用户到达率的增大，系统吞吐量在开始时是增大的，但是到达一定程度时系统吞吐量就会持续降低；这是因为在CSMA中，次用户不能同时利用频谱，且容易发生碰撞，造成系统吞吐量降低的后果。而在本文提出的自适应切换机制中，CTMC-5和CTMC-8的曲线随着次用户到达率的增大，系统吞吐量是在增大的，也可以看到CTMC-8的系统吞吐量一直大于CTMC-5的系统吞吐量。这也证明了本文提出的CTMC-8方式的性能是优于CTMC-5方式的。
+
+图8中“--”曲线表示CSMA接入方式信道利用率与次用户到达率的关系，其他两条曲线代表本文提出切换机制的关系曲线。随着次用户到达率的增大，CSMA接入方式和本文提出的自适应切换机制的信道利用率也随之增大。从图8可以看到CTMC-5和CTMC-8的性能比CSMA机制更好。这是因为在CSMA中，次用户不能同时利用频谱资源，这将造成频谱空闲，所以信道利用率不高。在自适应切换机制中，虽然次用户共享信道时存在干扰，但是允许它们之间共享频谱并优化控制它们的到达率，仍然可以获得不错的性能。在图8中也可以看到，CTMC-8比CTMC-5的性能更好。
+
+![](images/406bbf2a64205e11e45bc111d37b63c0963fb12f48021cacb9745a75567c1548.jpg)  
+图7次用户到达率对系统吞吐量的影响
+
+![](images/ba10af17a21e43edc024d1145a6cd91349e1dc29d59abe8cd74a9dc72322e4b7.jpg)  
+Fig.7The impact of SU arrival rate on system throughput   
+图8次用户到达率对信道利用率的影响  
+Fig.8The impact of SU arrival rate on channel utilization
+
+图9表示系统中次用户的个数对它们之间相互传递控制信息时间的影响。随着次用户个数的增大，次用户之间相互传递控制信息的时间开始是增大的。但系统中次用户的个数超过一个值时，次用户之间相互传递控制信息的时间开始随着次用户个数的增大而减少。这也更加证明了本文提出的机制不仅可以使次用户之间传递控制消息，而且能有较高的效率。
+
+![](images/11e77a50676c94f019e5d47ecf9596d203ba049daa1dbdbd8aa43868331a71c5.jpg)  
+图9次用户的个数对次用户之间控制信息时间的影响Fig.9The impact of the number of SU on communication time
+
+图10将CTMC-5和CTMC-8与静态频谱接入方法的信道利用率进行了比较。从图10中可以看到，静态接入方法的信道利用率不足，而CTMC-5和CTMC-8方式的信道利用率明显大于静态访问方法。静态频谱接入方法仅允许主用户使用信道，即使没有主用户到达信道，次用户也不能机会性地使用频谱[12]，这将造成极大的资源浪费。而本文提出的自适应切换机制是一种动态频谱接入方案，此机制允许次用户可以在信道未被主用户占用情况下利用频谱，因此本文提出的自适应切换机制的信道利用率大于静态频谱接入方式。由于CTMC-8方法对次用户的服务进行排队，所以CTMC-8的信道利用率大于CTMC-5。
+
+![](images/aa19fe954fdfaac2f921e99fdf7b639c2215cff29aace114bec11332dc1d0d10.jpg)  
+图10主用户到达率对信道利用率的影响
+
+在图11中，将本文提出的自适应切换机制分别与文献[12]中提出的DFH(动态跳频)、DSA(动态频谱接入)方法的切换时延性能进行了对比。切换时延是指次用户在主用户到达时暂停其正在进行的传输并在另一个可用信道上重新开始传输所需的时间。从图11中可以看出，DFH作为一种被动切换机制具有较大的切换时延，这是由于其频谱感知和频谱切换过程是在主用户到达信道之后执行的。DSA是一种混合切换方法，它是在主用户到达之前进行频谱感知，而在主用户到达之后进行频谱切换，因此其累积的切换时延比DFH 方法的切换时延小。在图11中可以看到CTMC-5和CTMC-8方式的切换时延小于DFH和DSA方法，并且CTMC-8的切换时延是小于CTMC-5的。这是因为本文所提出的自适应切换机制结合主动切换机制和被动切换机制的优点，自适应性强，灵活性高，所以切换时延减小了。
+
+![](images/11a0277c4e776a0f403abb01605fc11a7300170d45710d717d70fb4577c10942.jpg)  
+Fig.1OThe impact ofPU arrival rate on channel utilization   
+图11主用户到达率对切换时延的影响Fig.11The impact of PU arrival rate on handoff delay
+
+# 5 结束语
+
+本文中提出的自适应频谱切换机制考虑了主用户到达率和干扰功率两项参数，突出主用户的优先地位。该切换机制分别在无排队情况和排队情况下将主用户和次用户之间的联系建立连续时间马尔可夫链以及建立次用户之间马尔可夫模型。因此，系统吞吐量和信道利用率都有效提升，并且通信时间明显减少。数值结果也和本文分析的理论结果相一致。未来本文将基于文献[13]-[15]所取得的研究成果，主要研究各种切换机制模型以及用户之间的通信对切换性能的影响。
+
+# 参考文献：
+
+[1]Kumar K,Prakash A,Tripathi R. Spectrum handoff in cognitive radio networks:A classification and comprehensive survey [J].Journal of Network & Computer Applications,2016,61 (8): 161-188.   
+[2]Lala NA,Uddin M, Sheikhc NA.Novel hybrid spectrum handoff for cognitive radio networks [J]. International Journal of Wireless and Microwave Technologies,2013,3 (1): 1-10.   
+[3]Liu Fengnian, Xu Yong,Guo Xing,et al.A spectrum handoff strategy based on channel reservation for cognitive radio network [C]// 2013 Third International Conference on Intelligent System Design and Engineering Applications.IEEE,2013:179-182.   
+[4]Song Yi, Xie Jiang. Common hopping based proactive spectrum handoff incognitive radio ad hoc networks[C]// 2010 IEEE Global Telecommunications Conference GLOBECOM 2010.IEEE,2010:1-5.   
+[5]Usman M,Khan MS,Vu-Van H,et al.Energy-efficient channel handoff for sensor network-assisted cognitive radio network [J]. Sensors,2015, 15 (8): 18012-18039.   
+[6]Tian Jin,Tian Xiao,Qian Liqing.Second users operation strategies based on primary users activities[J]．信息工程期刊：中英文版,2014,4(1): 1-7.   
+[7]Kahraman B,Buzluca F.An efficient and adaptive channel handover procedure for cognitive radio networks [J]. Wireless Communications and Mobile Computing,2015,15 (3): 442-458.   
+[8]Willkomm D,GrossJ, Wolisz A. Reliable link maintenance in cognitive radio systems [C]// First IEEE International Symposium on New Frontiers in Dynamic Spectrum Access Networks,2005. DySPAN 2005. IEEE,2005:371-378.   
+[9]Tayel AF, Rabia S I,Abouelseoud Y.An optimized hybrid approach for spectrum handoff in cognitive radio networks with non-identical channels [J].IEEE transactions on communications,2016,64(11): 4487- 4496.   
+[10] Mir U,Munir A.An adaptive handoff strategy for cognitive radio networks [J].Wireless Networks,2018,24 (6):2077-2092.   
+[11] Kleinrock L,Tobagi FA.Packet Switching in Radio Channels: Part ICarrier Sense Multiple-Access Modes and Their Throughput-Delay Characteristics [J]. IEEE Transactions on Communications,1976,23 (12): 1400-1416.   
+[12] Wang Chungwei,Wang Lichun.Modeling and analysis for proactivedecision spectrum handoff in cognitive radio networks [C]/ IEEE International Conference on Communications,20o9: 13-18.   
+[13] Li Suoping, Sun Hongchun, Dou Zufang,et al. Performance Analysis of Wireless Ad-Hoc Network Based on Bidirectional Full-Duplex and Saturated State [J].IET Communications,2018,12 (12):1422-1430.   
+[14] Li Suoping,Dou Zufang,Wang Fan,et al.Energy Efficiency of Five Broadcast-based ARQ Protocolsin Multi-hop WSNs[J].IET Communications,2019,13 (15): 2243-2253.   
+[15] Li Suoping,Yu Jun,Dou Zufang,et al.Delay Analysis of MSW-ARQ
+
+System Based on Wireless Multimedia Services[J].Multimedia Tools and Applications,2017,76(7):10067-10082. [16]李旭，梁亚楠．无线协同通信协议与应用前景综述[J].无线电通信 技术，2017,43(3):1-7.(Li xu,Liang Yanan.Overview of wireless
+
+cooperative communication protocol and its application prospect [J]. Radio Communications Technology,2017,43 (3):1-7.) [17]李建东，盛敏，李红艳．通信网络基础[M].北京．高等教育出版社， 2011.

@@ -1,0 +1,314 @@
+[
+    {
+        "type": "text",
+        "text": "基于Marc的预制预应力混凝土框架节点有限元分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏余特1 邓思华1 李晨光² 盛伟严1（1.北京建筑大学北京节能减排关键技术协同创新中心，北京100044；2.北京市建筑工程研究院有限责任公司，北京100039)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文采用有限元软件MSC.Marc研究了低周期反复荷载作用下预制预应力混凝土框架节点的抗震性能，并将其分析结果与试验结果进行对比。结果表明：通过比较混凝土开裂情况、试件变形、钢绞线受力、滞回曲线、骨架曲线,MSC.Marc数值模拟结果与试验结果符合较好。验证了使用该种方法模拟节点受力特性具备可行性、可靠性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】MSC.Marc；预制预应力混凝土框架节点；非线性有限元分析；抗震性能 【中图分类号】TU375.4；TU757 【文献标识码】A 【文章编号】1674-7461(2017)05-0071-04 【DOI】10.16670/j.cnki.cn11 -5823/tu.2017.05.12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2装配式混凝土结构的出现带来了一场建筑产业革命，不仅极大地提升了建筑生产工业化程度，提高生产效率,降低劳动强度,加快施工进度，而且能通过降低能耗减轻人类活动对自然环境的压力，有利于保护环境。其中,预制预应力混合节点作为-种低损伤、自复位性能优越的新型干式连接方式,震后易于修复,具有良好的发展应用前景。目前，针对该种节点形式，国内外学者虽已通过部分节点试验分析并总结出了一定的影响规律，但考虑到缺乏相应规范的支撑，以及节点试验工期长，工作量大、成本高等问题，仅凭借试验方法是无法完成该类节点结构性能、构件标准化设计、施工工艺等多方面系统研究工作的。因此，本文采用有限元软件 MSC.Marc 对北京工业大学王冬雁博士的毕业论文[1中无粘结预应力混合节点试验进行数值分析，验证所采用的单元及建模方法能够准确地分析其抗震性能，为后续采用MSC.Marc软件分析不同参数的相关试验提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1有限元模型建立",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 节点设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "该试验共有三个预应力混合节点，预应力筋均布置梁横截面形心处，混凝土强度等级为C55，梁柱拼缝处砂浆强度为 $8 4 . 5 1 \\mathrm { M P a }$ 。柱与梁内角筋为HRB335级，梁柱抗剪箍筋为HPB235级，混合节点梁后穿普通耗能钢筋为HRB400级，预应力钢绞线采用 $1 \\times 7$ 的 $2 \\Phi ^ { \\mathrm { s } } 1 5 . 2$ ,节点的截面尺寸、详细配筋，构造见图1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 单元类型选取 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据试验情况选择分离式[2的方法建立几何模型。混凝土采用8节点六面体单元（7号单元），钢筋采用9号三维Truss桁架单元，同时为简化分析将无粘结预应力钢筋整体划分为一个桁架杆单元。在试验加载到极限状态时，界面缝隙处会出现开口现象。为精确模拟构件间接触面上这种非线性行为，用非线性弹簧(Spring)连接单元来模拟梁柱接触面间的法向与切向的受力特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1e9670f629d6fa3589faa7c8448208ef33353bf214660d9bdbbdee1023ef8f1.jpg",
+        "img_caption": [
+            "图1混合节点配筋"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 本构模型的选取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "混凝土本构选用汪训流等[3开发的一种混凝土本构关系，该混凝土本构的受压单调加载包络线选取Legeron \\* Paultre 模型,可同时考虑构件中纵、横向配筋对混凝土约束效应的影响。在受拉区则采用江见鲸模型[2],模拟混凝土受拉开裂及软化行为,以考虑“受拉刚好效应”。混凝土受拉破坏需在损伤影响中设置，选择“开裂”这种破坏类型，需要定义开裂应力（Critical Stress）、软化模量（SofteningModulus）、混凝土剪力传递系数（ShearRetention）其中软化模量取为弹性模量的 $1 / 1 0 ^ { [ 4 ] }$ ,剪力传递系数取为 $0 . 5 ^ { [ 5 ] }$ ,混凝土受压损伤通过设置极限压应变来体现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "钢筋本构关系选用理想弹塑性模型[6],并根据材料试验结果设置钢筋弹弹性模量 $\\mathrm { { E _ { s } } }$ 为 $2 . 0 6 \\times$ $1 0 ^ { 5 } \\mathrm { \\overline { { M } } P a }$ ,泊松比为0.3。其中输入到本构关系的钢筋应变为非弹性应变，即扣除弹性应变，转换成Marc塑性应力-应变关系，预应力筋则采用线弹性本构关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4弹簧单元与接触体的设定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在拼缝界面处混凝土单元上几何位移相同的节点建立法向与切向弹簧单元，并通过Marc中“table\"模块模拟弹簧切向与法向的非线性力学行为。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将梁柱拼缝处预先判断会产生接触的单元进行定义，并依次设定接触属与接触关系，同时为避免接触体之间穿透现象的发生，选择“touching作为接触类型”，该接触类型主要属于硬接触，在法线方向传递挤压力。接触体设置见图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 加载制度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用低周期反复加载，采用力、位移混合加载方法，即在试件屈服前采用荷载控制加载，试",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "件屈服后采用位移控制加载。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了保证计算的连续性和速度，本文在用MSC.Marc软件模拟低周期反复加载时统一采用位移控制，加载历程见图3。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/da22ce6f63b6a2a17557ae652c0f60932b3613715a146e4ba641e16c7c9f1bd9.jpg",
+        "img_caption": [
+            "图2设置接触体"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b9f093b00756d4c7bad8fe1ce570e625d2b0c47787c3dfce16862e8bdbb19d7.jpg",
+        "img_caption": [
+            "图3加载历程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 6 边界条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "柱端度采用铰接，约束3个三种自由度，同时约束梁侧向平动自由度，避免计算无法收敛。预应力筋采用刚性连接[7],即对预应力筋节点与混凝土单元节点进行拉结，因试验中采用无粘结预应力筋，故预应力钢筋单元与混凝土不需要利用Marc提供的\"Inserts\"技术来设定它们两者间的约束。在实际模型计算时需给预应力施加初始应力。梁两端加载面通过设置附加节点，附加节点与加载面所有节点采用\"link\"模块中2st degree of freedom 连接,约束加载面上所有节点与加载点具有共同Y向平动位移。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2有限元分析结果与试验结果的对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 试件变形及混凝土开裂情况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，随着加载增大，三个混合节点试件开裂后均形成明显的主裂缝，梁发生剥离现象，卸载后裂缝能够闭合，软件模拟效果与实际试验现象较为一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e599dd5ab6f2614ba581960d9a438531aa0558d8dfc9e63f0840a8ed8a724359.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 预应力受力情况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5、6分别为HCB2节点数值模拟结果与试验所得预应力增量-梁端位移角曲线。经分析得知在整个加载过程中预应力筋处在弹性阶段，表明该混合节点具有良好的自复位能力，预应力筋直到节点进人破坏阶段仍发挥作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/832357f028442b477b9052fe1d940b18701d2429a5e5ceec8abc82e0b6ab6cab.jpg",
+        "img_caption": [
+            "图5预应力增量与转角关系曲线模拟值"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea459df1b99b07116c5fc1f6e79c93d359d9fd428d370e1d74e16da4109e6cac.jpg",
+        "img_caption": [
+            "图6预应力增量与转角关系曲线试验值"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 滞回曲线对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图7模拟曲线可看出，加载初期滞回圈面积和耗能较小，而加载后期滞回圈面积和耗能增大，并且在卸载后模拟曲线基本上能够回拢到原点，表明该节点具备自复位性，总体上计算结果与试验结果较为一致，表明采用以上方式建模型和参数设置方式是合理的，模拟结果具备一定的可靠性。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd5080300119b729fab1134cce774c18980032091c8791cacc803b3d4f5af27f.jpg",
+        "img_caption": [
+            "图4试件变形",
+            "图7HCB2节点滞回曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 骨架曲线对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图8为HCB2节点试验与Marc软件模拟所得的荷载-梁端位移角 $( \\% )$ 骨架曲线",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b816f752b59324aa82089da56ce1cb49e9d5f179fef54ecbbb69c7a9c1b6e17.jpg",
+        "img_caption": [
+            "图8 HCB2模拟与试验值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图8可见，节点进入破坏阶段前数值模拟数据与试验数据所得骨架曲线基本一致。节点屈服后，由于梁柱界面处张角不断增大，预应力应力持续增加，承载力呈上升趋势，模拟效果与试验结果分接近。节点进入破坏阶段后两者荷载峰值出现了一定差异，主要是由于软件的局限性无法充分模拟出加载过程中普通耗能钢筋断裂对承载力下降的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用MSC.Marc 软件对预制预应力混合节点进行有限元分析，模拟分析出的混凝土开裂、试件变形、钢绞线受力、滞回曲线、骨架曲线等方面与实际试验结果符合良好。结果表明：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)采用MSC.Marc软件通过合理模拟实际试验的边界条件、加载方式、材料属性、界面混凝土非线性行为，能够较好分析该类节点的受力特性，具备可行性、可靠性;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)可通过MSC.Marc 软件单一改变配筋率、材料属性、初始预应力等不同参数，进一步研究各参数对预制预应力混合节点的影响，为后续系统研究提供支持。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "［1］王冬雁.无粘结预应力装配混凝土节点抗震及震损加固性能研究[D].北京：北京工业大学，2008.  \n[2」江见鲸，陆新征.混凝土结构有限元分析[M」.北京：清华大学出版社，2005.  \n[3」汪训流，陆新征，叶列平.往复荷载下钢筋混凝土柱受力性能的数值模拟[J].工程力学，24（12）：76-81.  \n［4］陆新征，叶列平，缪志伟.建筑抗震弹塑性分析一—原理、模型与在ABAQUS，MSC.MARC和SAP2OOO上的实践[M].北京：中国建筑工业出版社，2009.  \n［5］过镇海，时旭东.钢筋混凝土原理与分析［M].北京：清华大学出版社，2003.  \n［6］江见鲸．关于钢筋混凝土数值分析中的本构关系［J].力学进展，1994，24（1）：117-122.  \n［7］班力壬，刘航，兰春光.后张预应力加固无筋砖墙非线性有限元分析［J].工业建筑，2015，04：168-172$+ 1 7 6$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Marc-Based Finite Element Analysis of the Precast Prestressed Fabricated Concrete Frame Connections ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wei Yutel，Deng Sihua'，Li Chenguang²，Sheng Weiyan (1. The Energy Conservation and Emissions Reduction Critical Technologies Collborative Innovation Center, Beijing University of Civil Engineering and Architecture，Beijing 1OoO44，China ; 2.Beijing Building Construction Research Institute Co.，Ltd.，BeijinglOoo39，China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper applies the finite element software,MSC.Marc,to study the seismic behavior of precast prestressedfabricated concrete frame connections subjected to low cyclicand reciprocal loading，and the finite elementanalysis results are compared with theexperimental results.The comparison shows thatthe numerical simulation results of MSC. Marc，e.g.concrete cracking，specimen deformation，steel strand stress，hysteresis curve and skeletoncurve，are ingood agreement with the experimental results.Itis also proven feasibleandreliable to simulate the mechanical characteristics of the connections by using this method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words:MSC.Marc；Precast Prestressed Fabricated Concrete Frame Connections；Nonlinear Finite Element Analysis；Seismic Behavior ",
+        "page_idx": 3
+    }
+]

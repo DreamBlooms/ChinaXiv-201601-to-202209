@@ -1,0 +1,189 @@
+吴建1,2李小鹏1,2贺志雄」焦金真」谭支良 1\*(1.中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，湖南省畜禽健康养殖工程技术中心，农业部中南动物营养与饲料科学观测实验站，长沙 410125；2.中国科
+
+学院大学，北京 100049)
+
+摘要：本研究旨在研究妊娠后期营养限制对母羊胃肠道葡萄糖转运载体相关基因表达的影响。选取20只同期受孕的湘东黑山羊，随机分为2组，即对照组（自由采食)和限饲组（ $4 0 \%$ 采食量限制)，每组10只。预试期 $1 5 \mathrm { d }$ （妊娠81\~95d)，正试期 39d（妊娠 96\~135d)。正试期结束后，屠宰并采取瘤胃、十二指肠、空肠、回肠以及盲肠的黏膜样品，利用实时定量PCR 技术，检测 $\mathrm { \Delta N a ^ { + } } .$ 葡萄糖共转运载体1(SGLT1)、 $\mathrm { \Delta N a ^ { + } } .$ -葡萄糖共转运载体3(SGLT3)、易化葡萄糖转运载体2(GLUT2)和易化葡萄糖转运载体 5(GLUT5)基因表达量。结果表明：限饲组与对照组相比，SGLT1 基因表达量在瘤胃显著降低 $( P { < } 0 . 0 5 )$ ，在空肠和回肠中有降低趋势(0.05≤P<0.10);GLUT5基因表达量在盲肠显著降低 $( P { < } 0 . 0 5 )$ ；而其他葡萄糖转运载体胃肠道基因表达量在限饲组和对照组差异均不显著 $( P { > } 0 . 0 5 )$ 。由此可见，母羊妊娠后期营养限制对胃肠道中葡萄糖转运载体基因表达有不同程度的影响，进而引起母羊机体内葡萄糖转运的改变。
+
+关键词：妊娠后期；营养限制；山羊；葡萄糖转运载体
+
+中图分类号：S826
+
+碳水化合物是动物维持生长代谢和生产性能不可或缺的营养物质。反刍动物拥有与单胃动物截然不同的复胃生理结构，其体内碳水化合物的利用方式主要分为以下2种：一是碳水化合物在瘤胃内被微生物发酵代谢形成挥发性脂肪酸(volatile fatty acid,VFA)，从而被瘤胃上皮细胞吸收利用；二是碳水化合物在肠道内被降解为小分子的葡萄糖等单糖被肠道上皮细胞收稿日期：2016-08-24基金项目：中科院外籍青年科学家计划（2013Y2GA0010)；国家自然科学基金（31402105）作者简介：吴建（1991-)，男，河北邯郸人，硕士研究生，从事动物营养与饲料学研究。
+
+吸收利用[1。葡萄糖对于反刍动物具有重要的生理功能，是机体主要的供能物质，是合成乳糖的前体物质。因此，葡萄糖在胄肠道中的吸收转运对于维持反刍动物健康，保证生产性能具有重要的意义。相关研究表明，在皱胄中注射葡萄糖或者淀粉可以使葡萄糖转运载体的活性迅速增加[2]。如果长时间的营养限制，动物体内的葡萄糖转运载体表达将做出相应的调整，从而使机体来适应这种低营养状态[3]。然而，目前已有的研究并不能很好地解释反刍动物在营养限制条件下对机体葡萄糖转运的变化。同时，由于我国草原畜牧业受季节性影响严重，放牧家畜从枯草期到返青期失重高达 $3 0 \% \AA ^ { ( 4 ] }$ 。特别是在枯草期，家畜将会受到较严重的低营养水平的限制，这就必然会引起反刍动物在该时期的营养失衡和生产性能的降低[5]。反刍动物的营养代谢紊乱是造成生产性能下降的主要原因，在低营养条件下，对母羊妊娠后期的影响尤为严重，但是这方面的生产实践较多，研究营养对胃肠道葡萄糖转运载体的影响极少。因此，本研究针对在营养物质水平限制条件下，研究妊娠后期浏阳黑山羊胃肠道葡萄糖转运载体基因表达的变化，以期为妊娠期山羊科学合理的饲喂和管理提供一定的理论依据。
+
+1材料与方法
+
+饲养试验于2015年1一6月在中国科学院亚热带农业生态研究所浏阳黑山羊营养代谢技术创新试验基地进行。
+
+# 1.1 试验动物
+
+试验动物均有创新试验基地提供。选择年龄相似 $( 2 . 0 { \pm } 0 . 3 ) \$ 岁]、第2胎次、体况良好、体重相近 $[ ( 2 5 . 0 { \pm } 1 . 0 ) \mathrm { k g } ]$ 、发情期相近的湘东黑山羊母羊60只。采取同期发情、人工授精和B 超检查技术保证母羊同期受孕。从妊娠母羊中选取20只怀有1胎的作为试验对象。
+
+# 1.2 试验设计
+
+采用单因素随机分组试验设计。于妊娠81d将选取的 20只试验母羊随机分配到2组：对照组（自由采食）(control group,CG)、限饲组( $4 0 \%$ 采食量限制)(restricted group,RG)，每组10 只。预试期15d（妊娠81\~95d)，用于适应新环境，期间记录日采食量；正试期为39 d(妊娠 96\~135 d)。
+
+# 1.3 饲养管理
+
+妊娠 $0 { \sim } 8 0 \mathrm { d }$ ，将全部用于试验的母羊集中饲养，自由放牧。妊娠 81\~95d将选取的母羊饲养在通风良好、温度和湿度适宜的单栏畜舍内，记录母羊编号，适应新环境15d。饲喂精粗比为60:40的饲粮，饲粮组成及营养水平见表1，其中粗料为浏阳当地山上的新鲜芒草，粉碎后饲喂。母羊每天在08：30和17：00饲喂，自由饮水。饲喂量随着母羊妊娠日龄的增加而逐步增加，每7d调整1次。调整增加量以对照组自由采食量为基础，但限饲组第1周饲喂量为限饲组适应期的采食量的 $60 \%$ 。
+
+表1饲粮组成及营养水平 (干物质基础)  
+Table1 Composition and nutrient levels of the diet (DM basis) %   
+
+<html><body><table><tr><td>项目Items</td></tr><tr><td>含量Content 原料Ingredients</td></tr><tr><td>芒草 Miscanthus 40.000</td></tr><tr><td>玉米Corn 40.200</td></tr><tr><td>豆粕 Soybean meal 12.390</td></tr><tr><td>脂肪粉 Fat powder 4.800</td></tr><tr><td>碳酸氢钙CaHPO4 0.558</td></tr><tr><td>碳酸钙CaCO3 0.552</td></tr><tr><td>食盐 NaCl 0.270</td></tr><tr><td>预混料 Premix1) 1.200</td></tr><tr><td>合计 Total 100.000</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能ME/(MJ/kg) 12.04</td></tr><tr><td>粗蛋白质 CP 12.63</td></tr><tr><td>钙Ca 0.593</td></tr><tr><td>磷P 0.277</td></tr><tr><td></td></tr></table></body></html>
+
+1每千克预混料含量有 One kg of premix provided the following: $\mathrm { M g } \mathrm { S O } _ { 4 }$ $\mathrm { H } _ { 2 } \mathrm { O }$ （204号 $1 1 9 . 0 \ \mathrm { g }$ $\mathrm { F e S O _ { 4 } }$ 7H20 2.5 g,CuSO4- 5H2O 0.8 g, $\bf { M n S O _ { 4 } }$ ·H2O 3.0 g, $\mathrm { Z n S O _ { 4 } }$ H2O 5.0 g, Na2SeO3 10.0 mg, KI 40.0 mg, $\mathrm { C o C l } _ { 2 }$ ·6H2O 30.0 mg,VA 95 000 IU,VD 17 500 IU,VE 18 000 IU。
+
+2）代谢能为计算值，其余均为测定值。ME was a calculated value,while the others were measured values.
+
+# 1.4样品采集及相关指标的测定
+
+正试期结束后，屠宰采样。每组随机挑选6只母羊进行屠宰，采取颈动脉放血法，待动  
+物停止呼吸后解剖采样。分别采取母羊瘤胃、十二指肠、空肠、回肠、盲肠这5个部位的组  
+织样品，用生理盐水冲洗干净，然后用载玻片将黏膜刮下来，迅速用灭菌过的锡箔纸将黏膜  
+包裹放入液氮保存。待屠宰试验结束后，样品放入-80℃冰箱冻存，以备后续检测使用。检测葡萄糖转运载体相关基因的表达量，第1类是 $\mathrm { { N a ^ { + } } . }$ -葡萄糖共转运载体(SGLTs)基因，  
+包括 $\mathrm { { N a ^ { + } } . }$ 葡萄糖共转运载体1(sodium/glucose cotransporter member1,SGLT1)和 $\mathrm { { N a ^ { + } } . }$ -葡萄糖共
+
+转运载体 3(sodium/glucose cotransporter member 3,SGLT3)，第 2类是易化葡萄糖转运载体(GLUTs)基因，包括易化葡萄糖转运载体 2(facilitated glucose transporter member2,GLUT2)和易化葡萄糖转运载体 5(facilitated glucose transporter member5,GLUT5)。
+
+1.5样品分析
+
+1.5.1 主要仪器
+
+常规手术器械(手术刀、手术剪、手术镊子等)，高压灭菌锅(Tomy SX-500,日本),超净工作台(SW-CJ-IFD,苏净集团安泰空气技术有限公司)，日立冷冻超速离心机(HitachiCR22G II,日本)，中央纯水系统(ELAG LABWater CENTRA200,英国)，超微量紫外分光光度计(NnaoDro ND2000,美国)，实时定量 PCR 仪(Roche Light Cycler 480 II，瑞士),凝胶成像系统(Ultro-Violet，英国)，电泳仪(ECP3000,北京市六一仪器厂)，电泳槽(DYCP-34A，北京市六一仪器厂)。
+
+1.5.2 主要试剂
+
+$0 . 9 \%$ 生理盐水，氯仿，异丙醇，焦碳酸二乙酯（DEPC）水， $7 5 \%$ 乙醇(DEPC 水配制),RNAios Plus(9109，日本 TaKaRa,),反转录试剂盒 PrimeScriptTM RT reagent Kit with gDNAEraser(RR047A，日本 TaKaRa),Premix TaqTM(Ex TaqTM version 2.0 plus dye)(RR902A，日本TaKaRa),SYBR? Premix Ex TaqTM II (RR802A，日本 TaKaRa),溴化 乙 锭(ethidiumbromide,EB), $5 0 \times$ TAE(ST716,碧云天生物技术有限公司)，琼脂糖(GelPilotLEAgarose D40724,德国QIAGEN)。
+
+# 1.5.3总RNA的提取及反转录
+
+使用RNAiosPlus试剂提取总RNA，并且使用超微量紫外分光光度计测定总RNA的纯度和浓度。 $\mathrm { O D } _ { 2 6 0 \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } }$ 在1.8\~2.2的总RNA 纯度较好。将纯度较好的总RNA 经 $1 \%$ 的琼脂糖凝胶电泳后，以28S rRNA和18SrRNA的灰度值比2:1为依据，评判提取RNA的质量。
+
+使用反转录试剂盒对提取的总RNA进行反转录合成cDNA。
+
+# 1.5.4 实时定量PCR
+
+根据 Genbank上的山羊的相关基因序列，以Primer premier 5.0 软件设计葡萄糖转运载体相关基因(SGLT1、SGLT3、GLUT2、GLUT5)的引物,并选取甘油醛-3-磷酸脱氢酶(GAPDH)
+
+作 为 内 参 基 因 用Blast(http://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome)工具进行引物特异性分析。本研究所用引物均由上海生工工程技术服务有限公司合成，引物序列见表2。
+
+表2葡萄糖转运载体相关引物序列  
+Table 2Primers sequence used for PCR of glucose transporters   
+
+<html><body><table><tr><td>基因 Genes</td><td>引物序列 Primer sequences（5’-3')</td><td>产物长度 Product length/bp</td></tr><tr><td>Na+-葡萄糖共</td><td>上游:TGAACATCAACGGCATCATT</td><td rowspan="3">104</td></tr><tr><td>转运载体1</td><td>下游:ACTCCAGCCTCCACAAACAC</td></tr><tr><td>SGLT1</td><td></td></tr><tr><td>Na+-葡萄糖共</td><td></td><td rowspan="3">130</td></tr><tr><td>转运载体3</td><td>上游:ACGACTTGTTCTGCGGTTTG</td></tr><tr><td>SGLT3</td><td>下游：ACGACTTGTTCTGCGGTTTG</td></tr><tr><td>易化葡萄糖转</td><td></td><td rowspan="3">100</td></tr><tr><td>运载体2</td><td>上游:TGTTTCACTGGATGACGGAAT</td></tr><tr><td>GLUT2</td><td>下游:AGCCCAAGAGACTGGTGTTG</td></tr><tr><td>易化葡萄糖转</td><td></td><td rowspan="3">154</td></tr><tr><td>运载体5</td><td>上游:TATGTCAGCATCGCCTGTGT</td></tr><tr><td>GLUT5</td><td>下游：TGAAGTTGGAGAGCCAGTGA</td></tr><tr><td>甘油醛-3-磷酸</td><td></td><td rowspan="3">116</td></tr><tr><td></td><td>上游:TTCCACGGCACAGTCAAG</td></tr><tr><td>脱氢酶 GAPDH</td><td>下游:TACTCAGCACCAGCATCACC</td></tr></table></body></html>
+
+$1 0 \mu \mathrm { L }$ 的实时定量PCR反应体系包括： ${ 5 . 0 \mu \mathrm { L } }$ SYBR?Premix Ex TaqTM II, $0 . 2 \mu \mathrm { L }$ 上游引物 $( 1 0 ~ \mathrm { \mu m o l / L } ) , 0 . 2 ~ \mathrm { \mu L }$ 下游引物 $\mathrm { 1 0 ~ \mu m o l / L } ) , 3 . 6 ~ \mathrm { \mu L }$ RNase Free $\mathrm { \ d H } _ { 2 } \mathrm { O }$ 和 $1 . 0 ~ \mu \mathrm { L }$ cDNA。反应程序：95℃ 5s变性， $6 0 ~ \mathrm { ^ { \circ } C }$ 30s延伸，共40个循环；溶解程序，95℃ 15 s， $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 15 s,95 ℃ 5s。
+
+1.6 数据处理与分析
+
+实时定量PCR 数据采用 $2 ^ {  \triangle \hat { \mathbf { C } } \mathrm { t } }$ 法对基因表达进行相对定量。所有数据采用 SPSS 20.0软件进行独立样本 $t$ 检验法(t-test)验证差异显著性，其中 $P { < } 0 . 0 5$ 表示组间差异显著， $0 . 0 5 \leqslant$ ${ P / } { < 0 . 1 0 }$ 表示有降低或者升高的趋势。结果采用平均值 $\pm$ 标准误表示。
+
+2结果
+
+2.1妊娠后期营养限制对母羊胃肠道中SGLTs基因表达的影响由表3可知，与对照组相比，母羊妊娠后期在营养限制条件下盲肠中的SGLT1基因表达量显著降低 $( P { < } 0 . 0 5 )$ ；而瘤胃、十二指肠、空肠和回肠中 SGLT1基因表达量差异均不显著$( P { > } 0 . 0 5 )$ ，但是在空肠和回肠中SGLT1基因表达量则有降低趋势 $( 0 . 0 5 { \le } P { < } 0 . 1 0 )$ ，较对照组分别降低了 $5 4 . 5 \%$ 和 $6 3 . 7 \%$ 。
+
+表3妊娠后期营养限制对母羊胃肠道中SGLT1基因表达量的影响  
+
+<html><body><table><tr><td>项目Items</td><td>对照组CG</td><td>限饲组RG</td><td>P值 P-value</td></tr><tr><td>瘤胃 Rumen</td><td>1.11±0.33</td><td>1.50±0.42</td><td>0.516</td></tr><tr><td>十二指肠 Duodenum</td><td>4.07±0.99</td><td>3.76±0.43</td><td>0.755</td></tr><tr><td>空肠 Jejunum</td><td>2.64±0.68</td><td>1.20±0.17</td><td>0.068</td></tr><tr><td>回肠Ileum</td><td>5.68±1.70</td><td>2.06±0.76</td><td>0.094</td></tr><tr><td>盲肠 Cecum</td><td>0.80±0.11</td><td>0.39±0.06</td><td>0.012</td></tr></table></body></html>
+
+$0 . 0 5 { \le } P { < } 0 . 1 0$ ：有差异趋势； $P { < } 0 . 0 5$ ：差异显著。下表同。
+
+$0 . 0 5 { \le } P { < } 0 . 1 0$ :tendency of difference; $P { < } 0 . 0 5$ :significant difference.The same as below.
+
+由表4可知，与对照组相比，母羊妊娠后期在营养限制条件下SGLT3基因在胃肠道不同部位的表达量变化均不显著 $( P { > } 0 . 0 5 )$ 。表4妊娠后期营养限制对母羊胃肠道中 SGLT3 基因表达量的影响
+
+Table 3Effect of nutritional restriction during late gestation on expresson level of SGLT1 gene ir gastrointestinal tract of ewes   
+Table 4Effect of nutritional restriction during late gestation on expression level of SGLT3 gene in gastrointestinal tract of ewes   
+
+<html><body><table><tr><td>项目Items</td><td>对照组CG</td><td>限饲组RG</td><td>P值P-value</td></tr><tr><td>瘤胃Rumen</td><td>1.12±0.38</td><td>0.85±0.35</td><td>0.631</td></tr><tr><td>十二指肠 Duodenum</td><td>3.47±1.50</td><td>4.36±1.10</td><td>0.647</td></tr><tr><td>空肠Jejunum</td><td>4.57±2.10</td><td>3.15±0.65</td><td>0.494</td></tr><tr><td>回肠Ileum</td><td>0.98±0.31</td><td>1.05±0.41</td><td>0.899</td></tr><tr><td>盲肠Cecum</td><td>3.37±3.08</td><td>0.48±0.33</td><td>0.254</td></tr></table></body></html>
+
+2.1妊娠后期营养限制对母羊胃肠道中GLUTs基因表达的影响
+
+由表5可知，与对照组相比，母羊妊娠后期在营养限制条件下GLUT2基因表达量在瘤胃、十二指肠、空肠、回肠和盲肠中差异均不显著 $( P { > } 0 . 0 5 )$ ，但在十二指肠略有升高，较对照组提高了 $4 1 . 6 \%$ 。
+
+# 表5妊娠后期营养限制对母羊胃肠道中GLUT2基因表达量的影响
+
+Table 5Effect of nutritional restriction during late gestation on expression level of GLUT2 gene in
+
+<html><body><table><tr><td>项目Items</td><td>对照组CG</td><td>限饲组RG</td><td>P值P-value</td></tr><tr><td>瘤胃 Rumen</td><td>1.00±0.06</td><td>1.20±0.48</td><td>0.740</td></tr><tr><td>十二指肠 Duodenum</td><td>8.90±1.70</td><td>12.60±1.10</td><td>0.118</td></tr><tr><td>空肠 Jejunum</td><td>2.28±1.24</td><td>2.13±0.37</td><td>0.903</td></tr><tr><td>回肠 Ileum</td><td>1.44±0.50</td><td>0.75±0.25</td><td>0.237</td></tr><tr><td>盲肠Cecum</td><td>3.49±3.13</td><td>1.72±1.00</td><td>0.528</td></tr></table></body></html>
+
+由表6可知，与对照组相比，母羊妊娠后期在营养限制条件下GLUT5基因表达量在盲肠中显著降低 $( P { < } 0 . 0 5 )$ ，但在瘤胃、十二指肠、空肠和回肠中变化不显著 $( P 5 0 . 0 5 )$ 。
+
+# 表6妊娠后期营养限制对母羊胃肠道中GLUT5基因表达量的影响
+
+Table 6Effect of nutritional restriction during late gestation on expression level of GLUT5 gene in gastrointestinal tract of ewes   
+
+<html><body><table><tr><td>项目Items</td><td>对照组CG</td><td>限饲组RG</td><td>P值P-value</td></tr><tr><td>瘤胃Rumen</td><td>1.22±0.54</td><td>0.68±0.31</td><td>0.397</td></tr><tr><td>十二指肠 Duodenum</td><td>37.09±3.30</td><td>22.44±6.57</td><td>0.137</td></tr><tr><td>空肠 Jejunum</td><td>4.59±2.13</td><td>5.23±1.72</td><td>0.823</td></tr><tr><td>回肠Ileum</td><td>1.89±0.80</td><td>1.00±0.30</td><td>0.304</td></tr><tr><td>盲肠 Cecum</td><td>3.41±0.80</td><td>0.71±0.17</td><td>0.005</td></tr></table></body></html>
+
+3讨论
+
+根据葡萄糖转运载体转运方式的不同，可分为2个家族：SGLTs 家族和GLUTs 家族[7]。SGLTs 主要在细胞膜的顶端表达，可以转运葡萄糖和半乳糖[8]。而GLUTs 大部分在细胞膜的基底侧表达，可以转运果糖，并且当葡萄糖浓度较低时GLUTs 能够通过负反馈调节机体葡萄糖的平衡[9]。总之，葡萄糖转运载体在动物的生长发育和机体葡萄糖吸收转运中发挥重要作用。
+
+# 3.1 SGLTs家族
+
+据研究表明，无论是蔗糖还是淀粉分解得到的葡萄糖主要是通过 SGLT1进入肠腔上皮细胞[10-1]，而 SGLT1 基因在转录和翻译水平的表达量受采食量和昼夜节律的调节[12]。哺乳动物在刚出生后未断奶这个阶段中，SGLT1 基因在肠道中的表达较强，对己糖的摄取能力强。断奶后，SGLT1基因的表达量明显减少，对己糖的吸收也减少[7]。Bauer等[13]试验研究发现，灌注 $\mathfrak { a }$ -葡萄糖可以使牛和绵羊空肠中的SGLT1活性显著提高，从而显著提高了葡萄糖的吸收效率。也有研究揭示了营养限制仔猪采食量会使得 SGLT1和GLUT2的基因表达量降低[14]。本研究结果显示，与对照组相比，限饲组母羊 SGLT1基因的表达量在空肠和回肠中均有降低趋势，并且SGLT1基因的表达量在盲肠中显著降低。这一结果可能是由于母羊妊娠后期营养限制造成胃肠道内葡萄糖浓度有所降低，从而引起胃肠道中 SGLT1基因表达量的降低，以此满足母羊机体正常需求并避免不必要的体内能量损失和饲粮营养物质的浪费。在人类医学研究中表明，SGLT3 可引起 Na+电流变化，但不参与葡萄糖的转运[5]。而在动物模型中，如小鼠，SGLT3有2个亚型基因组成，包括 mSGLT3a 和 mSGLT3b，目前为止mSGLT3a功能尚不明确，而有研究已证实mSGLT3b可以引起 $\mathrm { \Delta N a ^ { + } }$ 电流变化，但其不转运葡萄糖[16]。由此可知，SGLT3 基因编码的蛋白有可能是感应体，而非转运载体[12]。本研究结果指出，母羊妊娠后期在营养限制条件下，SGLT3 基因表达量在十二指肠升高了25.6%，但在后肠道部位没有升高。这一结果也可能是由于食糜从皱胃中流出，经过的第1段肠道即为十二指肠，SGLT3作为感应体可第一时间感应到胃肠道内葡萄糖的变化，从而引起了其表达量升高。同时也意味着通过判断 SGLT3 基因表达量的变化，机体可以更加精确地感应食糜中的葡萄糖含量，调控机体后肠道部分葡萄糖转运载体和葡萄糖代谢的变化，以避免机体能量不必要的消耗和饲粮中营养成分的丢失。
+
+# 3.2 GLUTs家族
+
+有研究指出 SGLT1和GLUT2不仅是葡萄糖转运载体，也可能是葡萄糖感应受体，它可刺激并引起胃肠激素的分泌[17-20]。当人造糖精刺激刷状缘膜时，可以通过提高GLUT2 基因的表达量来增加葡萄糖的吸收效率[20]。本研究中GLUT2基因表达量未受营养限制的影响，且其在十二指肠中的表达量最高。与本研究结果相似，Yoshikawa 等[1的研究结果也表明，胃肠道前段（瘤胃和十二指肠）是GLUT2发挥作用的主要场所。另外，有研究指出当刷状膜缘 SGLT1活性达到饱和时，GLUT2 能短暂的移动到顶端以节约能量，从而缓解因 SGLT1活性变化而产生的Na+梯度的降低[12]。故本研究结果显示了，营养限制可能引起胃肠道后段（空肠、回肠和盲肠）内葡萄糖浓度降低，从而造成其上皮细胞中 SGLT1活性未达到饱和状态，进而使胃肠道后段中GLUT2基因表达量有所降低。
+
+在细胞模型中，如肠道上皮L型细胞系，在果糖刺激条件下，GLUT5基因的表达量较高[21]，揭示了果糖在肠道中吸收转运可能是通过GLUT5 进行的。这在动物模型进一步得到证实，如敲除GLUT5基因的小鼠无法吸收果糖，说明果糖的吸收转运必须通过GLUT5[22]。鉴于GLUT5基因表达量的升高预示着果糖转运能力的提升，本研究的结果其在十二指肠中表达量最高，可以推断GLUT5 转运果糖的主要场所是十二指肠。同时，本研究结果也揭示了，即使营养水平受到限制，GLUT5 基因在前段肠道中表达量依然较高，故导致GLUT5 基因在盲肠中的表达量显著降低。总之，母羊妊娠后期营养限制将对胃肠道葡萄糖转运载体产生不同程度的影响，故我们可以结合实际生产需求调配最佳的饲粮配方，从而提高其生产性能。
+
+1  
+2 4结论  
+3 母羊妊娠后期营养限制对胃肠道中葡萄糖转运载体基因表达有不同程度的影响，进而引  
+4 起母羊机体内葡萄糖转运的改变。  
+5 参考文献：  
+6 [1]张霞.日粮不同营养水平对绒山羊机体代谢及肠道营养物质感应的影响[D].硕士学位论  
+7 文.呼和浩特:内蒙古农业大学,2014.  
+8 [2]张航,刘强,王聪,等.2-甲基丁酸对犊牛小肠酶活及葡萄糖转运载体基因表达的影响[J].中  
+9 国农业科学,2016,49(5):979-987.  
+0 [3]徐庆,田科雄.反刍动物葡萄糖代谢研究进展[J].饲料博览,2009(8):17-20.  
+1 [4]刘小刚,李大彪,侯先志,等.营养限制及补偿对羔羊小肠黏膜生长发育的影响[J].中国农业  
+2 科学,2011,44(17):3613-3621.  
+3 [5]吴端钦,贺志雄,汤少勋,等.母羊妊娠后期营养限制对羔羊肉质及相关基因表达量的影响  
+4 [J].生命科学研究,2013,17(2):151-155.  
+5 [6]SCHMITTGEN T D,LIVAK K J.Analyzing real-time PCR data by the comparative $C _ { \mathrm { T } }$ （204号  
+6 method[J].Nature Protocols,2008,3(6):1101-1108.  
+7 [7]何莞嫣,粟灵皓,宋卓,等.肠道葡萄糖转运体的研究进展[J].湖南农业科学,2013(7):8-11.  
+8 [8]KELLETT G L,BROT-LAROCHE E,MACE O J,et al.Sugar absorption in the intestine:the  
+9 role of GLUT2[J].Annual Review of Nutrition,2008,28:35-54.  
+0 [9]KALSI K K,BAKER E O,FRASER O.et al.Glucose homeostasis across human airway  
+1 epithelial cell monolayers:role of diffusion,transport and metabolism[J].Pflugers Archiv:European  
+2 Journal of Physiology,2008,457(5):1061-1070.  
+3 [10]WRIGHT E M,LOO D D F,HIRAYAMA B A.Biology of human sodium glucose  
+4 transporters[J].Physiological Reviews,2011,91(2):733-794.
+
+[11]YOSHIKAWA T,INOUE R,MATSUMOTO M,et al.Comparative expression of hexose transporters(SGLT1,GLUT1,GLUT2 and GLUT5） throughout the mouse gastrointestinal tract[J].Histochemistry and Cell Biology,2011,135(2):183-194.
+
+[12]TOLHURST G,REIMANN F,GRIBBLE F M.Intestinal sensing of nutrients[J].Handbook of Experimental Pharmacology,2012,209:309-335.   
+[13]BAUER M L,HARMON D L,MCLEOD K R,et al.Adaptation to small intestinal starch assimilation and glucose transport in ruminants[J].Journal of Animal Science,1995,73(6):1828- 1838.   
+[14]LIU J,LIU Z,GAO L,et al.Nutrient-intake-level-dependent regulation of intestinal developmentinnewbornintrauterinegrowth-restrictedpigletsviaglucagon-like peptide-2[J].Animal,2016,10(10):1645-1654.   
+[15]DIEZ-SAMPEDRO A,HIRAYAMA B A,OSSWALD C,et al.A glucose sensor hiding in a family of transporters[J].Proceedings of the National Academy of Sciences of the United States of America,2003,100(20):11753-11758.   
+[16]DIEZ-SAMPEDRO A,BARCELONA S.Sugar binding residue affects apparent $\mathrm { N a ^ { + } }$ affinity and transport stoichiometry in mouse sodium/glucose cotransporter type 3B[J].Journal of Biological Chemistry,2011,286(10):7975-7982.   
+[17]KELLETT G L.Comment on:Gorboulev et al $\mathrm { . N a ^ { + } }$ -D-glucose cotransporter SGLT1 Is pivotal for intestinal glucose absorption and glucose-dependent incretin secretion.Diabetes 2012;61:187-196[J].Diabetes,2012,61(6):e4.   
+[18]MORIYA R,SHIRAKURA T,ITO J,et al.Activation of sodium-glucose cotransporter 1 ameliorates hyperglycemia by mediating incretin secretion in mice[J].American Journal of Physiology:Endocrinology and Metabolism,2009,297(6):E1358-E1365.   
+[19]CANI P D,HOLST J J,DRUCKER D J, et al.GLUT2 and the incretin receptors are involved in glucose-induced incretin secretion[J].Molecular and Cellular Endocrinology,20o7,276(1/2):18- 23.
+
+[20] MACE O J,SCHINDLER M,PATEL S.The regulation of K-and L-cell activity by GLUT2 and thecalcium-sensingreceptor CasRinratsmall intestine[J].The Journalof Physiology,2012,590(12):2917-2936.
+
+[21]REIMANN F,HABIB A M,TOLHURST G,et al.Glucose sensing in L cels:a primary cell study[J].Cell Metabolism,2009,8(6):532-539.
+
+[22]BARONE S,SINGH A K,ZUO J,et al.Slc2a5 (GLUT5) is essential for the absorption of fructose in the intestine and generation of fructose-induced hypertension[J].The Journal of Biological Chemistry,2009,284:5056-5066.
+
+Effects of Nutritional Restriction during Late Gestation on Gene Expressions of Glucose Transporters in Gastrointestinal Tract of Ewes WU Jian1,2 LI Xiaopeng1,2HE Zhixiong1JIAO Jinzhen1TAN Zhiliang1\* (1. Key Laboratory for Agro-Ecological Processes in Subtropical Region, Hunan Provincial Engineering Research Center for Healthy Livestock and Poultry Production, South-Central   
+Experimental Station of Animal Nutrition and Feed Science in Ministry of Agriculture, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 2. Graduate University of Chinese Academy of Sciences, Beijing 10oo49, China)   
+Abstract: This experiment was conducted to investigate the effects of nutritional restriction during   
+late gestation on gene expressions of glucose transporters in gastrointestinal tract of ewes. Twenty   
+Xiangdong black pregnant goats were chose and randomly assigned to 2 groups:control group   
+(ad libtum) and restricted group ( $40 \%$ restriction of feed intake),and each group had 1O ewes. The   
+pre-trial lasted for 15 d (81 to $9 5 \mathrm { ~ d ~ }$ of gestation),and the trial lasted for 39 d (96 to 135 d of   
+gestation). After the trial, ewes were slaughtered to collected mucosa samples of rumen,   
+duodenum, jejunum, ileum and cecum. Real-time PCR analysis was used to determine the   
+expression levels of sodium/glucose cotransporter member 1 (SGLT1） gene，sodium/glucose   
+cotransporter member 3 (SGLT3)， facilitated glucose transporter member 2(GLUT2） and   
+facilitated glucose transporter member 5 (GLUT5). The results showed as follows: compared with
+
+control group,the expression level of SGLTl gene in rumen of restricted group was significantly decreased $( P { < } 0 . 0 5 )$ ，and there was a decreased tendency for that in jejunum and ileum $( 0 . 0 5 { \le } P { < } 0 . 1 0 )$ . The expression level of GLUT5 gene was significantly decreased in cecum （204号 $( P { < } 0 . 0 5 )$ ; while the expresson levels of other glucose transporter genes in gastrointestinal tracts were not significantly different between restricted group and control group $( P { > } 0 . 0 5 )$ . Collectively, nutritional restriction has different efects on the expressions of glucose transporter genes located on gastrointestinal tracts, thereby leading to the changes of glucose transport. Key words: late gestation; nutritional restriction; goat; glucose transporter

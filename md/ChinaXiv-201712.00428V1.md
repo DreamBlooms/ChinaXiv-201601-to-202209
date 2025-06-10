@@ -1,0 +1,88 @@
+# 临床研究
+
+# 不同类型骨科疾患患者D-二聚体与纤维蛋白原检测
+
+余佩芝，赵丽香
+
+广东药科大学附属第一医院检验科，广东广州510080摘要：目的 分析不同类型骨科疾患患者血浆中D-二聚体与纤维蛋白原的水平，探讨不同类型骨科疾患患者并发血栓性疾病倾向性。方法 对患有不同类型骨科疾患的患者血浆D-二聚体、纤维蛋白原(FIB)及其他凝血指标凝血酶原时间、部分活化凝血活酶时间、凝血酶时间和白细胞、血小板的检测结果进行统计分析。结果 所有病例组D-二聚体升高程度和异常率最高，其次为FIB,其值在各组中从高到低依次为股骨骨折组、胸椎腰椎骨折组、其他骨折组、椎间盘突出组、关节病组，各病例组与健康对照组比较差异有统计学意义 $( P { < } 0 . 0 5 )$ ;D-二聚体异常率股骨骨折组为 $100 \%$ ，胸腰椎骨折组 $94 \%$ ，其他骨折组 $8 8 . 2 3 \%$ ，关节病组 $6 4 . 5 6 \%$ ，椎间盘突出组 $6 2 . 6 3 \%$ 。结论 除了骨折和手术患者D-二聚体升高明显之外,其他各类骨科疾患患者血浆D-二聚体水平和FIB也都普遍升高，提示不同骨科疾患患者都有并发血栓性疾病的倾向，密切观察D-二聚体和FIB水平,警惕深静脉血栓的发生。
+
+关键词：骨科疾患;D-二聚体;纤维蛋白原;深静脉血栓
+
+# Plasma D-dimer and fibrinogen in patients with different types of orthopedic diseases
+
+YU Peizhi, ZHAO Lixiang Departmentoflaboratorysience,theFirstAfliatedHospitalofGuangdongarmaceuticalUniersityGuangzouCia
+
+Abstract: Objective Toanalyzethe levelsofD-dimerandfibrinogen in plasmaof patients withdiferenttypesoforthopedic diseases,andtoexplorethetendencyofpatients withdiferenttypesoforthopedicdisorders complicatedwiththrombotic diseases.Methods The measured resultsof D-dimer,FIB,PT,APTT,TT,WBCandPLTwere compared inpatients with diferent types oforthopedic diseases.Results The measured results and rate ofabnormalityofD-dimer inallgroups were the highest.The secondwasFIB.Fromhighertolower inturn for groupoffemoral fracture,thoracic vertebrandlumbarvertebral fracture,other fracture,cervical vertebraand lumbar disc hernation, thejoint disease.Compared withhealthycontrol group, themeasuredresultsandrateofabnormalityofD-dimerandFIBweresignificantdiferent.TherateofabnormalityofD-dimer in the group of femoral fracture was $1 0 0 \% ,$ thoracic vertebr and lumbar vertebral fracture $9 4 \% ,$ other fracture $8 8 . 2 3 \% ,$ the joint disease $6 4 . 5 6 \%$ , cervical vertebra and lumbar disc herniation $6 2 . 6 3 \%$ . Conclusion In addition to fracture and surgery patients with significant increase inD-dimer, theother types oforthopedic disorders in patients with plasma D-dimer levels and FIB aregenerallyincreased.Itmeansthatpatients withdiferentorthopedicdisordershavethromboticdiseasetendencies,close observation of D-dimer and FIB levels, alert to the occurrence of deep vein thrombosis.
+
+Keyword: orthopedic disorders;D-dimer; fibrinogen; deep vein thrombosis
+
+骨伤科患者易并发血栓性疾病，下肢深静脉血栓(DVT)及肺栓塞是创伤骨科患者易发的并发症[]深静脉血栓的高致残性和肺栓塞的高致死率，使得血栓预防一直成为创伤骨科临床医生所要面临的问题，及时筛查和诊断对预防和治疗血栓性并发症有重大意义。已有研究报道显示[26]，骨折和骨科手术患者血浆中D-二聚体水平普遍升高，D-二聚体检测阴性可作为血栓形成的排除诊断之外，D-二聚体的升高程度与骨折、骨科手术患者DVT的发生率呈正相关，反映D-二聚体对DVT的发生有预测价值，是一个灵敏度高且有效的指标。也有研究显示，骨折部位及损伤程度与D-二聚体水平有密切联系，且D-二聚体浓度和DVT发生率有很强相关性[。那么，除了骨折和手术的患者之外，其他骨科疾患的患者是否也容易发生深静脉血栓，尚少见文献报道，本研究根据病人所患疾病不同将患者分组，对各组的D-二聚体水平、纤维蛋白原以及其他凝血指标等作比较分析，报告如下。
+
+# 1资料与方法
+
+# 1.1 临床资料
+
+研究对象来自我院2015年12月 ${ \sim } 2 0 1 6$ 年12月骨外科和骨内科住院患者，排除患有血液病、肿瘤等疾病的患者。其中股骨骨折71例，胸椎骨折17例,腰椎骨折33例,其他骨折包括肱骨、桡骨、锁骨、胫骨、足骨、镔骨、内踝骨等骨折共68例，关节病79例,腰椎和颈椎等椎间盘突出共93例。对照组：均为来我院进行健康体检者，共46例，男性25例，女性21例，年龄
+
+23\~76岁，平均53岁，均排除患有凝血性疾病、肾脏和肝脏疾病，采血前两周未服用任何抗凝或促凝药物。
+
+# 1.2 方法
+
+1.2.1仪器与试剂D-二聚体、凝血酶原时间(PT）活化的部分凝血活酶时间(APTT）、纤维蛋白原(FIB）凝血酶时间(TT)由法国stago生产的STA-R全自动血凝仪测定，试剂为该公司配套试剂；白细胞由迈瑞-6800全血细胞分析仪测定，试剂为配套试剂；血沉(ESR)用普利生XC-40血沉仪测定。所有操作严格按照仪器和试剂说明书进行。
+
+1.2.2标本采集与测定采集患者静脉血 $1 . 8 ~ \mathrm { m L }$ 于含有 $0 . 2 ~ \mathrm { m L }$ 、109mmol/L枸橡酸钠的抗凝管中，充分混匀， $3 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ,D-二聚体、PT、APTT、FIB、TT都用STA-R血凝仪测定，D-二聚体用免疫比浊法，其它项目用磁珠凝固法;采集EDTA-2K抗凝标本用于测定血常规和血沉。
+
+1.2.3判断标准 D-二聚体 $\mathrm { ( F E U ) } { > } 0 . 5 0 ~ \mu \mathrm { g / m L }$ 为阳性。
+
+# 1.3 统计学处理
+
+采用SPSS19统计软件进行统计，对病例组与对照组的检测值进行两独立样本t检验;各指标阳性率的比较进行x检验， $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1各病例组与对照组各指标检测结果比较
+
+所有病例组的D-二聚体、FIB水平与白细胞都明显高于健康对照组，差异有统计学意义 $_ { ( P < 0 . 0 5 ) }$ ，由高到低依次为股骨骨折组、胸腰椎骨折组、其他骨折组、椎间盘突出组、关节病组，组间比较股骨骨折组与其他各组比较都有显著性差异 $( P { < } 0 . 0 5 )$ ，胸腰椎骨折组与其他骨折组之间差异无统计学意义 $( P { > } 0 . 0 5 )$ ，关节病组与椎间盘突出组之间差异也无统计学意义0 ${ \it P } { > } 0 . 0 5 )$ ，但与其他3组骨折组比较有显著性差异$( P { < } 0 . 0 5 )$ 。所有病例组APTT和TT与对照组比较都不存在统计学差异 $( P { > } 0 . 0 5 )$ 。PT与血小板水平在不同组中表现不一(表1)。
+
+表1各组各指标检测结果的比较 $\left( \bar { x } \pm s \right)$ 一  
+
+<html><body><table><tr><td>组别</td><td>n</td><td>D-DI</td><td>FIB</td><td>PT</td><td>APTT</td><td>TT</td><td>WBC</td><td>PLT</td></tr><tr><td>股骨骨折组</td><td>71</td><td>6.44±6.20*</td><td>4.33±0.93*</td><td>13.35±1.03*</td><td>43.56±38.76</td><td>16.53±1.93</td><td>9.52±3.25*</td><td>279.21±96.23*</td></tr><tr><td>胸、腰椎骨折组</td><td>50</td><td>3.24±2.79*</td><td>4.25±1.24*</td><td>13.60±0.65*</td><td>34.91±3.74</td><td>17.33±1.67</td><td>7.82±2.73*</td><td>244.60±73.98</td></tr><tr><td>其他骨折组</td><td>68</td><td>3.06±4.08*</td><td>4.23±1.02*</td><td>12.91±1.11</td><td>36.43±5.07</td><td>16.53±1.16</td><td>8.16±1.93*</td><td>276.58±73.2*</td></tr><tr><td>关节病组</td><td>79</td><td>1.25±1.54*</td><td>4.11±1.21*</td><td>12.78±0.81</td><td>36.19±4.75</td><td>16.99±1.43</td><td>7.54±2.35*</td><td>291.61±76.46*</td></tr><tr><td>椎间盘突出组</td><td>93</td><td>1.54±2.67*</td><td>3.89±1.12*</td><td>13.12±0.94*</td><td>37.06±4.99</td><td>16.91±1.28</td><td>7.15±1.77*</td><td>239.13±61.07</td></tr><tr><td>对照组</td><td>46</td><td>0.31±0.09</td><td>3.16±0.44</td><td>12.57±0.81</td><td>35.93±2.96</td><td>16.74±1.25</td><td>6.11±1.50</td><td>222.80±42.79</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$
+
+# 2.2各病例组各指标阳性率比较
+
+所有病例组D-二聚体阳性率最高，其次为FIB。股骨骨折组D-二聚体阳性率 $100 \%$ ,FIB阳性率$6 6 . 6 7 \%$ ，为各组中最高，但与胸腰椎骨折组和其他骨折组差异无统计学意义 $( P { > } 0 . 0 5 )$ ，关节病组与椎间盘突出组之间差异无统计学意义 $( P { > } 0 . 0 5 )$ ，但与3组骨折组间差异有统计学意义 $( P { < } 0 . 0 5 )$ 。其他各指标在各组中阳性率表现不一(表2)。
+
+表2各组各指标阳性率的比较 $( \% )$   
+
+<html><body><table><tr><td>组别</td><td>D-DI</td><td>FIB</td><td>PT</td><td>APTT</td><td>TT</td><td>WBC</td><td>PLT</td></tr><tr><td>股骨骨折组</td><td>100</td><td>66.67</td><td>8.33</td><td>4.17</td><td>0</td><td>45.83</td><td>12.5</td></tr><tr><td>胸、腰椎骨折组</td><td>94</td><td>45</td><td>0</td><td>0</td><td>5</td><td>20</td><td>10</td></tr><tr><td>其他骨折组</td><td>88.23*</td><td>61.54*</td><td>3.85</td><td>11.54</td><td>0</td><td>23.08</td><td>11.5</td></tr><tr><td>关节病组</td><td>64.56</td><td>36.11</td><td>2.78</td><td>5.56</td><td>2.78</td><td>22.22</td><td>22.2</td></tr><tr><td>椎间盘突出组</td><td>62.3</td><td>44.26</td><td>3.28</td><td>8.2</td><td>0</td><td>6.56</td><td>3.28</td></tr></table></body></html>
+
+$\scriptstyle { \bar { P } } < 0 . 0 5$ vs关节病组.
+
+# 3讨论
+
+骨科病人并发DVT的高危性越来越受到国内外人们的重视。临床研究表明，各科住院患者DVT发生概率不同，普外科和神经外科为 $1 5 \% { \sim } 4 0 \%$ ，髋、膝关节置换或髋部手术为 $40 \% { \sim } 6 0 \%$ ，严重创伤为$40 \% { \sim } 8 0 \%$ ，脊髓损伤为 $6 0 \% { \sim } 8 0 \% ^ { 8 ] }$ 。也有文献报道，脊髓损伤患者有DVT存在者 $6 7 \% { \sim } 1 0 0 \% ^ { \ [ 9 ] }$ 。亚洲包括中国骨科大手术病人DVT发生率与西方国家相近，为 $4 3 . 2 \% ^ { [ 1 0 ] }$ 。DVT一旦形成,将对人体造成极大的伤害，可致肢体伤残，甚至发生肺栓塞而致猝死。因此，DVT的早期预测和诊断对有效避免血栓性并发症对患者的伤害有重要意义，选择一个快速、灵敏、有效的筛查和预测指标则为关键。那么，除了骨折和手术患者之外，其他骨科疾患的患者是否也存在并发深静脉血栓的倾向性。
+
+目前国内外对DVT的初步筛查中，血浆D-二聚体的检测是首选的筛选指标。虽然D-二聚体对DVT的诊断价值主要在于阴性排除，但已有研究报道D-二聚体检测对创伤骨折患者DVT的预测价值[1-13],认为血浆中D-二聚体水平与DVT发生率呈正相关关系。本研究结果显示，几类骨科疾患病例组D-二聚体水平与对照组比较都有统计学差异，以股骨骨折组D-二聚体水平升高最显著，提示发生DVT的危险性也最大,究其原因,认为是股骨骨折患者的创伤程度最严重，骨折创伤导致血管受损，组织因子进入循环血中以及血管内皮下胶原暴露等启动凝血系统。另外,手术、长期卧床、肢体固定等也是这组患者发生DVT的强危险因素。其他各组D-二聚体水平也都有不同程度的升高，其强度由高到低依次为：胸椎腰椎骨折组、其他骨折组、椎间盘突出组、关节病组。胸椎腰椎骨折组与其他骨折组的D-二聚体水平相近，组间差异无统计学意义，但与股骨骨折组差异有统计学意义；关节病组和椎间盘突出组的D-二聚体水平相近，差异无统计学意义；但与各骨折组、对照组间比较，其D-二聚体水平差异有统计学意义。该结果提示除了骨折患者之外，其他骨科疾患患者的D-二聚体水平也都明显升高，原因可能也与创伤的程度有关，创伤引致的炎症反应及炎性因子释放，活动受限使血流缓慢等都可引起血液高凝状态，导致有发生DVT的倾向。除了骨折和手术患者之外，其他类型骨科疾患患者的DVT发生率还少见文献报道,有待继续探讨。有研究发现，静脉血栓的形成与创伤能量的大小成正相关(相关系数为0.71)[14]，即创伤能量越大，形成血栓的危险性越高。本研究结果也显示，各病例组血浆中纤维蛋白原含量比对照组高，且差异有统计学意义。
+
+综上，不同类型骨科疾患患者血浆中D-二聚体和纤维蛋白原都不同程度升高，存在DVT发生倾向性，危险性大小与疾患的类型、创伤部位和严重程度有关。建议对骨科患者动态监测血凝指标，特别是D-二聚体和纤维蛋白原，可以作为预测DVT的观察指标，尤其是对于D-二聚体测定值明显升高或持续性升高的患者，更要警惕DVT的发生，必为时采取预防措施。
+
+# 参考文献：
+
+[1] Geerts WH,Code KJ, Jay RM, et al. A prospective study of venousthrombolism after major trauma[J].N Engl JMed,1994,331(24):1601-6.  
+[2]赵晨,刘平.骨科手术与D二聚体检测值相关性分析[J].河南外科学杂志,2014,20(1):105-6.  
+[3］戴宏华.D-二聚体升高的临床意义与骨折关系分析[J].中外医学研究,2013,(28):66-7.  
+[4]许海霞，王秀玲．FDP和D二聚体检测在骨折患者中的临床意义[J].中国当代医药,2014,21(8):114-5.  
+[5］熊志刚,张庆怡.骨折患者血浆D-二聚体检测结果分析[J].检验医学与临床,2011,8(19): 2371-2.  
+[6]徐生根,毛兆光,朱慧华,等.骨科大手术前后监测D-二聚体的意义[J].中国中西医结合外科杂志,2009,15(6):636-8.  
+[7]李 恒,张凯,黄津,等.不同部位创伤骨折患者D-二聚体水平的临床意义[J].继续医学教育,2012,26(3):38-40.  
+[8] Gets WH,Pineo GF，Heit JA，et al. Prevention of venousthromboembolism: the seventh ACCP conference on antithromboticand thrombolytic therpy[J].Chest,2004,126(10): 338-400.  
+[9]By A,Ploumis MD.Thromboprophylaxis in patients with acuteacute spinal injuries:an Evidence-Based analysis[J].JBone JointSurg Am,2009,91(12): 2568-76.  
+[10]肖红卫．骨科深静脉血栓形成危险因素及发病机制的研究进展[J].医学信息:上旬刊,2010,23(8):3046-8.  
+[11]Owings JT,Goddelin RC,Anderson JT,et al. Practical utility of theD-demer assay for excluding thromboembolism in severely injuredtraume patients[J].JTrauma,2001,51(3): 425-30.  
+[12]谢 辉,刘会敏,马宏伟.D二聚体及FDP检测在骨折患者的应用价值[J].河南医学研究,2012,21(3):302-3.  
+[13]陆 芸,马宝通,郭若霖,等.骨科创伤患者深静脉血栓危险因素的研究[J].中华骨科杂志,2007,27(9):693-8.  
+[14]王兵,唐锡章，胡 敏,等.创伤能量与大鼠肢体深静脉血栓形成的相关性[J].中国临床康复,2005,9(14):136-7.  
+[15]Eng CW，Wansaicheong G,Goh SK,et al. Exclusion of acutepulmonary embolism: computed tomography pulmonary angiogramor D-dimer[J]. Singapore Med J,2009,50(9): 403-6.  
+[16]邱贵兴.预防骨科大手术后深静脉血栓形成的专家建议[J].继续医学教育,2006,20(12):8-15.

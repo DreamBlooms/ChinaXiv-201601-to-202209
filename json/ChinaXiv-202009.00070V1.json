@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "面向安防监控场景的低分辨率人脸识别算法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卢峰，周 琳 ²†，蔡小辉²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．中国人民解放军 78090 部队，成都 610054;2.西安电子科技大学 综合业务网理论及关键技术国家重点实验室.西安 710071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对安防监控场景中获取的人脸图像质量不佳、细节信息丢失导致的人脸识别准确率低下的问题，提出一种基于超分辨率重建的低分辨率人脸识别算法。该算法包括超分辨率重建和人脸识别两个子网络，分别实现低分辨率人脸图像的超分辨率重建和人脸特征的提取。算法首先通过增加超分辨率重建子网络激活函数前的特征图数量实现广泛激活，保证信息流的有效传递，重建出包含更多细节信息的高分辨率人脸图像；然后在训练时结合图像内容损失和身份损失，在重建图像的同时保留更多身份信息，使得提取到的人脸特征具有更强的辨别性。实验结果表明，算法提升了低分辨率人脸识别的准确率，在监控人脸数据集QMUL-SurFace上的性能优于传统算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：安防监控；超分辨率重建；广泛激活；身份损失 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2020.01.0074 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on low resolution face recognition algorithm for security surveillance scene ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lu Fengl, Zhou Lin²†, Cai Xiaohui² (1. Chinese People's Liberation Army 78090,Chengdu 610054,China;2.State Key Laboratory of Intergrated Services Networks,Xidian University,Xi'an 710071,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe problem of low facerecognitionaccuracy caused by poor image qualityand loss of detailed information offace pictures obtained in security surveillance scene,this paper proposedalow-resolution facerecognition algorithmbasedonsuper-resolutionreconstruction.The algorithm includedtwo sub-networks:super-resolutionreconstruction and facerecognition,which could respectivelyrealize super-resolution reconstructionoflow-resolution face image and extractionofface features.Firstly,thealgorithm increasedthe numberoffeaturemaps before theactivationfunctionofsuperresolution reconstruction sub-network toachieve wide activationand ensureefective transferof information flow,soas to reconstruct high-resolution images containing more effective detailed information.Then,the algorithm combined image content lossand identity loss during training toretain more identity information whilereconstructing image,which could make extracted face features more discriminative.Experimentalresults show that the algorithm improves accuracyof lowresolutionfacerecognitionandhasbeterperformance than traditionalalgorithms onsurveilancefacedataset QMUL-SurFace. Kev words: securitv surveillance: Suner-Resolution reconstruction: wide activation: identitv loss ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会的高速发展，安防技术成为建设智慧城市中不可或缺的一部分。人脸识别技术作为一种最具代表性的生物特征识别技术，由于其部署简单且高效，被广泛应用于安防领域，现有的人脸识别算法在被识别人员主动配合的场景下达到了很高的精度。不同于有约束条件下的人脸识别技术，面向安防监控场景的人脸识别更加关注真实无约束场景下的识别效果[1]，而监控视频捕获到的人脸图像大多是低分辨率的，直接利用现有的人脸识别算法会出现准确率大幅度降低的现象导致无法应用。因此，如何对监控视频中的低分辨率人脸进行快速而准确的身份认证是当前人脸识别领域面临的难题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对低分辨率人脸识别问题，主要有四种解决方法：对数据库中的高分辨率人脸图像进行下采样、将待识别的低分辨率人脸图像和图库中的高分辨率人脸图像同时映射到统一的特征空间再进行识别[2]、提取不受高低分辨率影响的鲁棒特征、对低分辨率人脸图像进行超分辨率重建。其中，下采样方法会造成有用信息的丢失，统一特征空间的方法容易带来噪声，提取分辨率鲁棒特征的方法在分辨率相差较大的情况下效果并不理想，因此采用超分辨率算法对低分辨率人脸图像进行重建从而完成识别是目前主流的解决方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人脸图像的超分辨率算法，被称为“人脸幻想”，最早由Baker[3]提出，他采用贝叶斯公式从高斯和拉普拉斯金字塔中估计出空间梯度分布作为正脸的先验信息来获得高分辨率人脸图像。Wang[4等人通过对训练集的人脸图像进行加权，利用主成分分析(PCA)对输入的低分辨率图像进行重建。Tappen和Liu[5]利用SIFT流来扭曲训练集的高分辨率人脸图像，然后使用贝叶斯框架来重构高分辨率人脸图像。Song[6]等人提出的方法通过CNN生成部分人脸，并通过部分增强式合成细粒度的面部结构。FSRNet7提出人脸超分辨率生成对抗网络使生成的人脸图像更逼真，并引入对抗损失进行端到端的训练。该算法先构建一个粗糙的超分辨率网络以恢复出粗糙的高分辨率图像，然后提取图像特征并计算人脸关键点热图和解析图作为人脸先验信息，最后图像特征和先验信息经过精细的超分辨率解码器恢复出高分辨率图像。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于超分辨率重建的低分辨率人脸识别算法主要分为直接和间接两种方法，直接的方法是将超分辨率重建网络与识别网络衔接在一起进行联合训练，训练时使超分辨率重建网络朝着有利于人脸识别的方向进行参数更新[8]。间接的方法是将超分辨率重建网络和人脸识别网络分开训练。间接的方法简单有效，可以重建出效果逼真的人脸，但重建后的人脸不一定有利于识别，可能会引入其他的噪声。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述问题，本文采用直接的方法，提出一种基于身份保持和超分辨率重建的低分辨率人脸识别网络结构，在网络训练时引入身份损失，使超分辨率重建网络朝着保持身份的方向更新。实验结果表明，本文提出的方法对于低分辨率的人脸识别准确率有很大提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 算法框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "安防监控场景下的低分辨率人脸识别系统流程如图1所示。在图1中，低分辨率图像的人脸检测采用CenterFace[9]算法，虚线框中的内容是整个系统的关键，也是本文算法的主要研究内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/03249093b100b425efa946fd4386f16735a9d77944892a406b654df41fc5a002.jpg",
+        "img_caption": [
+            "图1 安防监控场景下的低分辨率人脸识别系统流程 Fig.1Flow chart of low-resolution face recognition system in security surveillance scene "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文算法主要包括两个子网络，超分辨率重建网络(SRNet)和人脸识别网络(FRNet)，SRNet从低分辨率人脸图片中重建出高分辨率人脸图片，FRNet从重建后的人脸图片中提取出人脸特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1广泛激活的 SRNet",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于深度卷积神经网络的图像超分辨率重建算法的思路是通过卷积和激活函数在低分辨率图像和高分辨率图像之间找到一个最佳的映射函数，通过该映射函数来重建图像。对于单张图像超分辨率重建任务，需要尽可能地从输入的低分辨率图像和卷积得到的特征图中学习到更多的信息，并且使学习到的信息在前向传播的时候尽可能地传递到网络后端即保证信息流的传递。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在超分辨率网络中，ReLU激活函数会阻止信息流的传递，为了降低激活函数对信息流传递的影响，本文将广泛激活的思想应用于超分辨率算法。最直接的广泛激活方法即增加所有特征图的通道数，这种方法会提升网络的性能，但同时也增加了大量的参数。本文在文献[10]的网络结构基础上，采用广泛激活的方式构建超分辨率重建网络，增加激活函数之前的特征图数量，使特征图中包含的信息尽可能多地向网络后端传递，为了避免引入大量参数，在增加激活函数之前的特征图数量的同时降低基础特征图的数量，在实现广泛激活的同时控制参数量的增长。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的SRNet网络结构如图2所示。输入的低分辨率图像首先经过网络的两个分支，将得到的结果进行相同的上采样操作，再对上采样得到的结果直接相加得到重建的高分辨率图像。其中，为了减少网络的参数量，去除了文献[10]的网络结构中一些冗余的卷积层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般的上采样方法有双线性插值、反卷积等等，在超分辨率重建中，如果采用反卷积进行上采样，会引入过多的人工因素，因此本文采用亚像素卷积对特征图进行上采样。用于上采样的插值函数被隐含地包括在卷积层中，可以自动学习得到，提高了效率，避免引入过多的人工因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f264de6cda991e18e53d7dc40f48d3e8d4358f50755820b7cf0f918f4fc5600.jpg",
+        "img_caption": [
+            "图2SRNet 网络结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于批量归一化操作(batch normalization，BN)对特征进行了归一化，限制了网络的灵活性，因此本文的SRNet在采用残差网络进行图像超分辨率重建任务时，移除网络中的BN层，采用权重归一化(weightnormalization，WN)操作来节约计算量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设输出 $y$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = w \\bullet x + b\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $w$ 为 $k$ 维的权重向量， $b$ 是偏置(标量)， $x$ 是 $k$ 维的输入特征向量。权重归一化通过对权重向量的长度和方向进行解耦对权重进行重新参数化，将权重规范在一定范围内，而文献[11]表明，长度和方向解耦可以加快神经网络的收敛，因此权重归一化使得训练可以采用较大的学习率，其过程如公式(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw = \\frac { g } { \\| \\nu \\| } \\nu\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mid \\nu \\mid$ 为 $k$ 维的权重向量， $g$ 是一个标量，是 $ { \\boldsymbol \\nu }$ 的欧几里德范数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基于深度可分离卷积的FRNet ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输入的低分辨率人脸图像经过超分辨率重建得到高分辨率人脸图像后，需要经过人脸识别网络提取出人脸特征，再进行特征比对从而进行人脸身份的验证。本文的FRNet采用文献12]提出的轻量级人脸识别网络MobileFaceNet，以实现快速而准确的人脸识别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前常见的视觉识别网络都会采用全局平均池化层(globalaveragepolling，GAP)，GAP给特征图上的每个神经元赋予同等权重，但特征图的中心区域和边缘区域对应的感受野不同，中心区域的感受野对输出的影响更大，而GAP将特征图上的每个单元视为同等重要，这样做会降低网络的性能。为了改善这一点，MobileFaceNet采用全局逐深度卷积(globaldepthwiseconvolution，GDConv)来代替GAP，使特征图中不同的单元有不同的权重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GDConv采用深度可分离卷积实现，即将普通的卷积运算分解为两步进行：逐深度卷积(depthwiseconvolution)和逐像素卷积(pointwiseconvolution)。普通卷积过程如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf76f5cec14584bd4b66dcf32746b79f8335c8db693fd889cd325e7d842ee33d.jpg",
+        "img_caption": [
+            "Fig.2Network structure of srnet ",
+            "图3普通卷积运算过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Operation process of ordinary convolution假设输入为一个大小为 $6 4 ^ { * } 6 4$ 像素、三通道的彩色图片，经过一个包含4个filter的卷积层，每个filter包含3个大小为 $3 ^ { * } 3$ 的kernel，最终输出与输入尺寸相同的4个特征图，则普通卷积的参数数量为 $4 ^ { * } 3 ^ { * } 3 ^ { * } 3 { = } 1 0 8$ 。相同条件下采用深度可分离卷积的运算过程如图4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9078243ee6b83aef806a5680929fda110033bc87145738c0f6d815a7b2959d2.jpg",
+        "img_caption": [
+            "图4深度可分离卷积的运算过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入图片首先在二维平面内经过第一次卷积运算。得到3个特征图，此时特征图的数量与输入层的深度相同，然后再对这3个特征图进行第二次卷积运算，即在深度方向上进行加权组合，得到最终结果。深度可分离卷积的参数量为$3 ^ { * } 3 ^ { * } 3 + 1 ^ { * } 1 ^ { * } 3 ^ { * } 4 = 3 9$ ，约为普通卷积运算参数数量的1/3。因此，采用深度可分离卷积可以大大减少网络的参数量，提高网络提取特征的速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3联合多种损失的低分辨率人脸识别算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前基于深度学习的单图像超分辨率重建算法大多以主观视觉效果为导向，以峰值信噪比(PSNR)和结构相似度(SSIM)为评价指标。这些超分辨率重建算法在被应用于低分辨率人脸识别任务时，难免会出现在进行超分辨率重建时为了尽可能多地保留图像细节信息从而丢失部分身份信息而导致人脸识别性能受限的情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文为了改善上述情况，在超分辨率重建的过程中保留更多的身份信息，提出一种联合多种损失的低分辨率人脸识别算法。整体网络结构如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在图5中，输入的低分辨率人脸图像(LRFace)经过SRNet得到SRFace，高分辨率人脸图像(HRFace)下采样至SRFace的大小得到MRFace，SRFace和MRFace形成图像内容损失 $L _ { i m a g e }$ ，用于监督SRNet重建出效果更逼真的高分辨率人脸图像。SRFace上采样至HRFace 大小得到ISRFace,ISRFace与HRFace 经过FRNet分别提取得到人脸特征，两个人脸特征之间的距离形成身份损失 $L _ { i d }$ ，用于监督SRNet保留更多的身份信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3037b3eefa4c83779db549bd8b967fb4449315b241af44e8855e0d5bf2f083c.jpg",
+        "img_caption": [
+            "Fig.4Operation process of deep separable convolution ",
+            "图5网络整体结构",
+            "Fig.5Overall structure of network "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与文献[10]相同，本文的图像内容损失采用 $L _ { 1 }$ 损失：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i m a g e } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\left\\| I _ { i } ^ { S R } - I _ { i } ^ { M R } \\right\\| _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $I _ { i } ^ { S R }$ 为 SRFace, $I _ { i } ^ { M R }$ 为MRFace, $n$ 为训练样本的数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "身份损失的作用是在进行人脸超分辨率重建的同时保持身份信息，本文算法采取重建后的人脸图像和高分辨率人脸图像特征之间的余弦距离作为身份损失，如式(4)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i d } = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } g \\left( f _ { i } ^ { I S R } , f _ { i } ^ { H R } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $f _ { i } ^ { I S R } , f _ { i } ^ { H R }$ 分别代表ISRFace与HRFace 的特征向量，$g \\left( \\bullet \\right)$ 为特征之间的余弦距离，计算公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\left( f ^ { I S R } , f ^ { H R } \\right) = 1 - \\frac { f ^ { I S R } \\bullet f ^ { H R } } { \\left\\| f ^ { I S R } \\right\\| _ { 2 } \\left\\| f ^ { H R } \\right\\| _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出的基于联合损失的网络在训练时，固定FRNet的预训练模型参数，只更新SRNet的参数。FRNet部分基于采用CASIA-WebFace[l3] 数据集训练得到的MobileFaceNet模型，SRNet从头开始训练，训练集采用CelebA[I4]数据集，在训练前首先对数据集进行以下预处理操作：采用MTCNN[15]算法对训练集进行人脸检测和对齐，并将图片大小调整至 $1 1 2 ^ { * } 9 6$ 作为高分辨率图像，然后对高分辨率进行4倍、8倍和16倍的随机下采样，分别得到大小为 $2 8 ^ { * } 2 4 , 1 4 ^ { * } 1 2$ 和 $7 ^ { * } 6$ 的人脸图像作为输入的低分辨率人脸图像。在网络训练过程中，SRNet被图像内容损失和身份损失联合监督，以同时实现人脸超分辨率重建和身份保持。联合损失为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } { = } { \\cal L } _ { { \\it i m a g e } } { + } { \\alpha } { \\cal L } _ { { \\it i d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha$ 是身份损失的权重因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验环境介绍 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文模型训练与网络结构实现均采用Pytorch 框架。Pytorch是一个开源的基于Python的可续计算包，常用于机器学习领域，它具有强大的GPU 加速的张量计算(如 NumPy),并且包含自动求导系统。Pytorch框架由于其简洁高效、封装较少、入门简单的优势，目前得到了广泛的应用。具体的软硬件配置情况如下：处理器为 Intel(R)Core(TM)i7-6700 CPU$\\textcircled { a } 3 . 4 \\mathrm { G H z }$ 8 核8G内存；操作系统为64 位的Ubuntul6.04;显卡为NVIDIATITANX，显存12G；开发环境和工具为Anaconda软件，python3.5环境及相关科学计算库。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2超分辨率重建结果与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了说明本文算法的SRNet对于低分辨率人脸图像进行超分辨率重建的效果，选择LFW[16]数据集中的部分人脸进行测试，对选中的人脸图像进行下采样处理作为输入的低分辨率图像。一般来说，超分辨率重建算法的性能主要通过图像像素来反映，而人脸图像的重建还需考虑对能鉴别身份的图像细节信息的保留，因此本文主要从主观视觉效果体现SRNet对于低分辨率人脸图像的重建性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选择双三次插值、文献[10]中的超分辨率算法以及文献[17]中的超分辨率算法从主观视觉效果的角度进行比较，这三种方法分别被命名为Bicubic、EDSR、ESRGAN。其中，Bicubic是传统超分辨率方法中应用较为广泛的方法，EDSR算法和ESRGAN是近年来重建性能较为优异的基于深度学习的超分辨率算法，两者分别利用深度卷积神经网络和生成对抗网络实现超分辨率重建。实验过程中将放大因子设置为4，对比结果如图6所示，HR为原始高分辨率图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图6的结果图可以看出，传统方法Bicubic重建得到的人脸图像仅仅保留了人脸的大致轮廓，面部信息非常模糊;基于深度卷积神经网络的EDSR算法重建得到的人脸图像的五官位置比较明确，但五官部分却存在伪影，出现难以辨别个别人脸图像对应身份的现象；基于生成对抗网络的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ESRGAN算法重建得到的人脸图像局部较为清晰，但仍存在个别图像嘴巴附近的图像细节较为模糊的现象。本文的SRNet重构得到的人脸图像整体边缘轮廓更加清晰，眼睛、眉毛等五官上的细节信息保留更完整，在能表示身份信息的五官局部上的纹理也更加丰富，具有更高的身份辨识度，对低分辨率人脸识别有更好的促进作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea16b4ae9547404212d8ab40a5640abbfcda432ed93810bba29f14995f45d546.jpg",
+        "img_caption": [
+            "图6四倍超分辨率重建结果对比",
+            "Fig.6Comparison of four times super-resolution reconstruction results "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3低分辨率人脸识别结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法对于低分辨人脸识别任务的有效性，本文对LFW[16]数据集进行4倍、8倍和16倍下采样，分别得到 $2 8 ^ { * } 2 4 , \\ 1 4 ^ { * } 1 2$ 和 $7 ^ { * } 6$ 大小的低分辨率人脸图像， $1 1 2 ^ { * } 9 6$ 的原始图像作为高分辨率人脸库图像。广义的人脸识别分为1:1和1:N两种，分别对应人脸验证和人脸识别两种技术，人脸验证是比较当前测试图片与数据库中图像中的人脸是否为同一人，人脸识别是在包含大量人脸图像的数据库中找出和当前测试图片身份相同的人脸。本论文根据LFW[16]数据集的无限制协议，选取数据集中的6000对人脸，测试人脸验证的准确率，并进行10折交叉验证获得人脸验证的平均准确率，以平均准确率作为算法的评价指标。本文将与双三次插值算法和文献[18]中提出的人脸幻想算法TDAE进行比较，在LFW[16]数据集上人脸验证准确率结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fa20a9c6acb2c4a706c6d32cf2f6d495b02ef4c91791500ade28e3c086a9a51.jpg",
+        "table_caption": [
+            "表1LFW数据集人脸验证准确率",
+            "Tab.1 Face verification accuracy ofLFW dataset ",
+            "表2QMUL-SurFace数据集人脸验证结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Approachs</td><td>7*6</td><td>14*12</td><td>16*16</td><td>28*24</td><td>112*96</td></tr><tr><td>Bicubic</td><td>59.53</td><td>82.82</td><td>89.21</td><td>97.68</td><td>99.03</td></tr><tr><td>TDAE</td><td></td><td>-</td><td>71.38</td><td></td><td></td></tr><tr><td>ESRGAN</td><td></td><td></td><td>89.63</td><td></td><td></td></tr><tr><td>本文(0)</td><td>73.13</td><td>92.18</td><td>94.50</td><td>98.55</td><td></td></tr><tr><td>本文(0.5)</td><td>84.57</td><td>94.62</td><td>95.31</td><td>98.73</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在表1中，由于TDAE算法与ESRGAN算法要求输入图片为 $1 6 ^ { * } 1 6$ 大小，为了公平比较，本文将测试集中图片下采样至 $1 6 ^ { * } 1 6$ 大小作为输入的低分辨率图像。在表1中，Ours(0)和Ours(0.5)表示本文的算法，Ours(0)代表仅仅使用图像内容损失函数训练得到的网络，Ours(0.5)表示采用联合损失函数训练得到的网络，括号中的数值表示联合损失函数中身份损失函数的权重。表1中的数据表明，本文提出的低分辨率人脸识别算法在输入图像分辨率较低的情况下，相较于传统图像超分辨率方法Bicubic与基于深度学习的人脸幻想算法TDAE和ESRGAN，准确率得到了很大提升，说明本文算法对于低分辨率人脸识别具有更优异的性能。其中，采用联合损失函数训练得到的网络比采用身份损失函数训练得到的网络的准确率有进一步的提升，并且输入图像分辨率越低，提升越明显，说明在图像内容损失和身份损失加权得到的联合损失函数的监督下，SRNet在对低分辨率人脸图像重建的过程中不仅保留了图像细节信息，还保留了与人脸身份相关的有效信息，因而FRNet可以从SRNet重建后的图像当中提取出辨识度更高的人脸特征，低分辨率人脸识别的性能因此得以提升。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文的低分辨率人脸识别算法在安防监控场景下的实用性，本文选择监控人脸数据集QMUL-SurFace[19]作为测试集，QMUL-SurFace是一个从监控摄像头捕获的、非常具有挑战性的低分辨率人脸数据集。表2列出了本文算法与一些超分辨率算法VDSR[20]、SRResNet[2I]、FSRNet[7]、FSRGAN[7]在QMUL-SurFace[19]数据集上的人脸验证结果，从而评估本文算法在实际安防监控数据的性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6d2dc96c19b38aac740c52ad5ed82fe0fba4a8114a95008b437876a42625efe.jpg",
+        "table_caption": [
+            "Tab.2Face verification results ofQMUL-surface dataset "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Approach</td><td colspan=\"3\">TAR(%)@FAR</td><td rowspan=\"2\">AUC</td><td rowspan=\"2\">Mean Acc/%</td></tr><tr><td>30%</td><td>10%</td><td>1% 0.1%</td></tr><tr><td>VDSR</td><td>61.03</td><td>35.32</td><td>8.89 3.10</td><td>71.02</td><td>65.64</td></tr><tr><td>SRResNet</td><td>61.81</td><td>34.03 8.36</td><td>2.07</td><td>71.00</td><td>65.94</td></tr><tr><td>FSRNet</td><td>59.92</td><td>33.10 7.84</td><td>1.93</td><td>70.09</td><td>64.96</td></tr><tr><td>FSRGAN</td><td>56.03</td><td>30.91 8.45</td><td>2.66</td><td>67.93</td><td>63.06</td></tr><tr><td>本文(0)</td><td>61.15</td><td>35.53 12.63</td><td>5.11</td><td>71.25</td><td>65.43</td></tr><tr><td>本文(0.5)</td><td>61.28</td><td>35.83</td><td>11.49 3.38</td><td>71.37</td><td>65.84</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据QMUL-SurFace[19]的协议，本文采用TAR@FAR、AUC和MeanAcc三个指标共同衡量算法的优劣。其中，TAR和FAR分别表示正确接受率和错误接受率，在人脸验证过程中，测试样本为两张人脸图像，同一人的两张图像称为正样本，不同人的两张图像称为负样本，TAR为正样本被正确识别的比例，即同一人的两张不同图像被判定为属于同一人，FAR为负样本被错认为正样本的比例，即不同人的两张图像被判定为属于同一人。TAR越大越好，FAR越小越好，当判定为同一人的标准降低时，TAR会增大，但FAR也会增大，因此仅仅使用TAR或FAR不能作为人脸识别算法的指标，当固定FAR值考虑TAR的值才是有意义的，因此常采用TAR@FAR作为评价指标， $\\mathrm { T A R } @ \\mathrm { F A R } { = } 0 . 0 0 1$ 表示 $\\operatorname { F A R } { = } 0 . 0 0 1$ 时TAR的值，在相同错误接受比例下的TAR越大，说明该人脸识别算法的鲁棒性越强。AUC是受试者工作特征曲线(ROC)下的面积，常用于衡量分类器的性能，AUC越大，说明人脸识别算法的性能越好。MeanAcc表示人脸验证的平均准确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2中数据可以看出,本文的算法Ours(0)和Ours(0.5)在正确接受率TAR、ROC曲线下面积AUC和人脸验证平均准确率(MeanAcc)指标上基本优于前文所提到的几种算法。采用联合损失函数(即身份损失权重为0.5)训练的模型比仅仅使用图像内容损失函数(即身份损失权重为0)训练得到的模型的MeanAcc和AUC更高，说明在图像内容损失的基础上引入身份损失可以在对监控中的低分辨率进行人脸超分辨率重建时保留更多的身份信息，再一次证明了本文算法以联合损失训练网络的方法对于视频监控中的低分辨率人脸识别性能的提升作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了说明本文算法在实际监控场景下的作用，本文选取UCCS[22]数据集中的样例图片，按图1所示流程进行低分辨率人脸识别，结果如图7所示。分别选取同一身份的人的两张不同图片和不同身份的两人对应的人脸图片，进行人脸检测后得到低分辨率人脸，再进行4倍超分辨率重建和人脸识别，最终分别得到两组图片对应人脸的余弦相似度。身份相同的两张图片的相似度较高，为0.7134，身份不同的两张图片的相似度较低，为0.2698，该结果进一步说明了本文算法在实际监控场景下的实用性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/50069b9981e92feb524ddf89316676542a5797e454e1e172a42d866ab6474721.jpg",
+        "img_caption": [
+            "图7实际监控场景下的低分辨率人脸识别效果 Fig.7 Low-resolution face recognition renderings in actual surveillance scene "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4算法复杂度分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文从人脸图像的超分辨率重建效果和低分辨率人脸识别准确率两方面衡量了算法的性能，而算法的复杂度也是反映算法优劣程度的指标，本文从时间复杂度和空间复杂度两个方面来分析算法的复杂度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于深度学习算法，时间复杂度直接决定了模型的测试时间，在人脸识别实际应用中则影响人脸验证的效率。本文的低分辨率人脸识别算法在2.1节介绍的实验环境中，对于$2 8 ^ { * } 2 4$ 大小的一对人脸图像的测试时间为 $1 2 . 5 \\mathrm { m s }$ ，该时间包括两张人脸图像的超分辨率重建、人脸特征提取及特征比对的时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "深度学习算法通过模型的参数数量来体现空间复杂度，参数量是模型所有带参数的层的权重参数总量，可以通过模型所占存储空间大小来体现。本文算法包括SRNet和FRNet两个模型，所占空间大小分别为198.8M和 $4 . 1 \\mathrm { M }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上数据表明，本文算法以较短的时间和较小的存储空间实现了低分辨率人脸验证，具有运算速度快、模型体积小的优点，有利于向低分辨率人脸识别的实际应用场景进行推广。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文面向安防监控场景，提出了一种包含两个子网络的低分辨率人脸识别算法，该算法同时考虑了超分辨率重建任务中的图像内容损失和人脸识别任务的身份损失，以实现对低分辨率人脸图像进行超分辨率重建时同时保留图像细节和身份信息。在进行超分辨率重建的过程中，将广泛激活的思想用于超分辨率重建网络，增加激活函数之前的特征图数量，从特征图中学习到更多图像的细节信息。实验结果表明，该算法重建出的图像细节真实丰富、边缘清晰，并且在公开的标准数据集和监控人脸数据集的性能良好，相比于已有的超分辨率算法，低分辨率人脸验证准确率有明显提升。不过目前都是对监控视频中的单幅图像进行超分辨率重建，今后的进一步工作重心会将算法应用在监控视频中，充分利用视频帧之间的空时相关性进行视频超分辨率重建以及低分辨率人脸识别，实现多帧视频图像的融合，最后得到重建质量更高的人脸图像，提高低分辨率人脸识别的准确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]刘玮．无约束条件下的人脸识别方法研究[D]．成都：电子科技大 学,2019.(Liu Wei.Research on face recognition under unconstrained condition [D].Chengdu:University of Electronic Scienceand Technology of China,2019.)   \n[2] 张凯兵，郑冬冬，景军锋．低分辨人脸识别综述[J].计算机工程与 应用，2019,55 (22):14-24.(Zhang Kaibing,Zheng Dongdong, Jing Junfeng.Survey of low-resolution face recognition [J]. Computer Engineering and Applications,2019,55 (22):14-24.) International Conference on Automatic Face and Gesture Recognition. Piscataway,NJ: IEEE Press,2000: 83-88   \n[4] Wang Xiaogang，Tang Xiaoou. Hallucinating face byeigentransformation[J]. Systems Man and Cybernetics,2005,35 (3): 425-434.   \n[5] Tappen M F, Liu C.A Bayesian approach to alignment-based image hallucination [C]// Proc of European Conference on Computer Vision. Berlin: Springer, 2012: 236-249.   \n[6]Song Yibing,Zhang Jiawei, He Shengfeng,etal. Learning to hallucinate face images via component generation and enhancement [C]//Proc of the 26th International Joint Conference on Artificial Inteligence.Palo Alto, CA: AAAI Press. 2017: 4537-4543.   \n[7]Chen Yu,Tai Ying,Liu Xiaoming,et al.FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition. Piscataway, NJ: IEEE Press,2018: 2492-2501.   \n[8]刘操钢．基于深度学习的低分辨率人脸识别[D].哈尔滨：哈尔滨 工程大学,2018.(Liu Caogang.Low-resolution face recognition based on deep learning [D]. Harbin: Harbin Engineering University,2018.)   \n[9] Xu Yuanyuan, Yan Wan, Sun Haixin,et al. CenterFace: Joint Face Detection and Alignment Using Face as Point[J].ArXiv Preprint,arXiv: 1911. 03599.2019.   \n[10] Lim B,Son S,Kim H,et al. Enhanced Deep Residual Networks for Single Image Super-Resolution [Cl/ Proc of the IEEE Conference on Computer Vision and Patern Recognition Workshops.Piscataway, NJ: IEEE Press,2017: 136-144.   \n[11] SalimansT,Kingma DP. Weight Normalization:A Simple Reparameterization to Accelerate Training of Deep Neural Networks [C]// In Advances in Neural Information Processing Systems.Cambridge, MA: MIT Press, 2016: 901-909   \n[12] Chen Sheng,Liu Yang,Gao Xiang,et al.MobileFaceNets:Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices [C]// Proc of Chinese Conference on Biometric Recognition. Berlin: Springer, 2018: 428-438.   \n[13] Yi Dong,Lei Zhen,Liao Shengcai, et al. Learning Face Representation from Scratch [J].ArXiv Preprint,arXiv: 1411.7923,2014.   \n[14] Liu Ziwei,Luo Ping,Wang Xiaogang,et al.Deep Learning Face Attributes in the Wild [C]// Proc of the IEEE international conference on computer vision.Piscataway, NJ: IEEE Press,2015: 3730-3738.   \n[15] Zhang Kaipeng,Zhang Zhanpeng,Li Zhifeng,etal. Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks [J]. IEEE Signal Processing Letters,2016,23 (10):1499-1503.   \n[16] Huang GB,MattarM,Berg T,etal. Labeled faces in the wild: Adatabase forstudying face recognition in unconstrained environments,Technical Report O7-49 [R].Amherst: University of Massachusetts,2007.   \n[17] Wang X,Yu K,Wu S,et al.ESRGAN:Enhanced Super-Resolution Generative Adversarial Networks [C]//Proc of the European Conference on Computer Vision. Berlin: Springer, 2018: 63-79.   \n[18] Yu X,Porikli F.Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition.Piscataway,NJ: IEEE Press,2017: 5367-5375.   \n[19] Cheng Z, Zhu X, Gong S,etal. Surveillance Face Recognition Challenge [J].arXiv: Computer Vision and Pattern Recognition,2018.   \n[20] Kim J,LeeJK,Lee KM,etal.Acurate Image Super-esoutionUsing Very Deep Convolutional Networks [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition. Piscataway, NJ: IEEE Press,2016: 1646-1654. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[21] Ledig C,Theis L,Huszar F,et al. Photo-Realistic Single Image SuperResolution Using a Generative Adversarial Network [C]// Proc of the IEEE Conference on Computer Vision and Pattern Recognition. Piscataway,NJ:IEEE Press,2017:4681-4690. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[22] GyuntherM.,Hu,P.,Herrmann C.,et al.Unconstrained face detection and open-set face recognition challenge [C]// Proc of the IEEE International Joint Conference on Biometrics(IJCB) Piscataway,NJ: IEEE Press,2017:697-706. ",
+        "page_idx": 5
+    }
+]

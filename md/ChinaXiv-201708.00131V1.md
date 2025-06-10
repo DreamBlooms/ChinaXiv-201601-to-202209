@@ -1,0 +1,188 @@
+# Disentangling Strong Dynamics through Quantum Interferometry
+
+Hitoshi Murayama, $^ { 1 , 2 , 3 }$ Vikram Rentala $*$ ,4 and Jing Shu $^ { 5 }$ （20 $^ { 1 }$ Department of Physics， University of California， Berkeley 85721， USA （204号 ${ \mathit { \Omega } } ^ { \mathcal { Z } }$ Kavli Institute for the Physics and Mathematics of the Universe (WPI), Todai Institutes for Advanced Study， University of Tokyo，Kashiwa 277-8583， Japan （204号 $^ { 3 }$ Theoretical Physics Group,Lawrence Berkeley National Laboratory， Berkeley， CA 94720, USA 4Department of Physics & Astronomy， Michigan State University， E. Lansing, MI 48824， USA $^ { 5 }$ State Key Laboratory of Theoretical Physics and Kauli Institute for Theoretical Physics China (KITPC), Institute of Theoretical Physics， Chinese Academy of Sciences， Beijing 10o19o， P.R.China
+
+We present a new probe of strongly coupled electroweak symmetry breaking at the 14 TeV LHC by measuring a phase shift in the event distribution of the decay azimuthal angles in massive gauge boson scattering. One generically expects a large phase shift in the longitudinal gauge boson scattering amplitude due to the presence of broad resonances.This phase shift is observable as an interference effect between the strongly interacting longitudinal modes and the transverse modes of the gauge bosons.We find that even very broad resonances of masses up to 90o GeV can be probed at $3 \sigma$ significance with a $\mathrm { 3 0 0 0 ~ f b ^ { - 1 } }$ run of the LHC by using this technique.We also present the estimated reach for a future 5O TeV proton-proton collider.
+
+Introduction.One of the most important goals of the Large Hadron Collider(LHC) is to find the nature of the mechanism of electroweak symmetry breaking (EWSB). The discovery of the 125 GeV Higgs-like object [1,2] is a major milestone in this direction.However,in order to truly understand EWSB,we would like to learn the origin of the longitudinal components of massive electroweak gauge bosons ( $V$ ).Broadly speaking,models of EWSB fall into two categories, those where the longitudinal components of the Vs are a) weakly interacting or b) strongly interacting.The most popular examples in the first category are the Standard Model (SM),with one or more elementary Higgs multiplets [3],and its supersymmetric extensions [4]. In the second category, one or more strongly interacting sectors appear at the TeV scale and are responsible for EWSB.The Higgs-like boson and the longitudinal Vs could arise as pseudo-Nambu-Goldstone bosons (PNGBs） in this scenario [21]. A definite distinction between these two cases at the LHC would be very important and serve as one of the first crucial steps towards a full understanding of EWSB mechanism.
+
+One universal consequence of a strongly coupled EWSB sector is an enhancement of the longitudinal gauge boson scattering amplitude at high energies over the standard model expectation [22]. In order to measure such an effect,one would look for an enhanced rate for total gauge boson scattering at high invariant mass for the gauge boson pair,and then use the polar angle distribution of the gauge boson decay products to measure their longitudinal polarization fraction [23].
+
+In addition to an enhancement of the magnitude of the amplitude,one also expects a large phase shift in the amplitude,as in the case of scattering through a resonance.In this paper,we would like to seek strategies to experimentally probe this phase shift induced as a consequence of strong dynamics. We will use the azimuthal angle correlations of the Vs’ decay products and show that the strong phase shift shows up as a modification to the interference effect between the longitudinal and transverse $V$ polarizations in the azimuthal angle distributions. Thus,the phase shift is turned into an observable that can be used as a complementary probe (in addition to the longitudinal V scattering rate) of EWSB from strong dynamics.
+
+PNGB scattering and parameterization of the phase shift. Pion scattering provides a realistic example of strongly coupled PNGB scattering. By looking at the experimental $\pi \pi$ scattering data [9],we can see that a large phase shift exists in the form-factor of both $\pi \pi  \pi \pi$ and $e ^ { + } e ^ { - } \to \pi \pi$ ．The phase shift $\delta$ in $e ^ { + } e ^ { - } \to \pi \pi$ scattering versus energy $\sqrt { s }$ is shown by the black data points in Fig. 1. We can see that the amplitude undergoes a large phase shift when $\sqrt { s }$ is near the mass of the $\rho$ meson (760 MeV).
+
+The low energy effective theory of pion scattering is described by a chiral Lagrangian. In this description, the scattering amplitude in the isospin $( I )$ and partial wave $( J )$ channel of $\pi \pi  \pi \pi$ is given by,
+
+$$
+\mathcal { M } _ { I J } \propto \sin ( \delta _ { I J } ) e ^ { i \delta _ { I J } } \simeq c _ { I J } \frac { s } { f _ { \pi } ^ { 2 } } e ^ { i s / f _ { \pi } ^ { 2 } } ,
+$$
+
+where $f _ { \pi } = 8 4 ~ \mathrm { M e V }$ is a low-energy constant of chiral perturbation theory (which differs from the physical pion decay constant, $f _ { \pi } ^ { \mathrm { p h y s } } = 9 2 \$ MeV that arises away from the chiral limit),and the last equality follows from the low energy theorem prediction of the behavior of the scattering amplitude with $s$ ，which also determines the constants $c _ { I J }$ .Naive extrapolation of this form of the amplitude violates unitarity for energies $\sqrt { s }$ comparable to the cutoff $4 \pi f _ { \pi }$ of the effective theory. In particular the low energy theory fails to predict a resonant enhancement of the magnitude of the amplitude,as well as the large phase shift expected from the exchange of ( $J = 1$ ） vector-mesonresonances.
+
+![](images/84b5120a92d29287e15f09b1b85ffa60f499e75c4c30ad77cc0a0db308704a68.jpg)  
+FIG.1: The phase shift $\delta$ in $e ^ { + } e ^ { - } \to \pi \pi$ scattering versus energy $\sqrt { s }$ ．The experimental data (black points）are from Ref.[9]． The red solid line is the ansatz in Eq.(3)we have used to fit the phase shift using the parameters $m = 7 6 0$ MeV and $\Gamma = 1 4 0$ MeV.Using dispersion relations we can relate the phase shift to the magnitude of the form factor $| F ( s ) |$ For $P ( s ) = 1$ ，the magnitude is shown by the blue dashed line.
+
+There are several ways to incorporate the effect of the vector resonances into the scattering amplitude calculations of the low energy theory. One approach is to add in a broad vector resonance by hand to the theory. However,we will choose to adopt a different approach that manifestly maintains the unitarity of the amplitude at veryhigh energies and emphasizes the central role of the phase shift.
+
+We will choose to multiply the tree level amplitude (in the $J = 1$ channel) by a complex form factor $F ( s )$ . The entire form factor can then be extracted from its phase by using analyticity arguments to define an Omnes function [8] and assuming no inelastic channels.For a given form factor, $F ( s )$ ，applying the subtracted dispersion relation to $\log ( F ( s ) ) / s$ ，we have
+
+$$
+F ( s ) = P ( s ) \exp [ \frac { 1 } { \pi } \int _ { 0 } ^ { \infty } d s ^ { \prime } \delta ( s ^ { \prime } ) \{ \frac { 1 } { s ^ { \prime } - s - i \epsilon } - \frac { 1 } { s ^ { \prime } } \} ] \ .
+$$
+
+When the phases $\delta \left( s ^ { \prime } \right)$ goes beyond $2 \pi$ (for instance,multipleresonances with additional branches),the additional $2 \pi n$ phase factors can be recast into $P ( s )$ as a polynomial factor with $P ( 0 ) = 1$ ：
+
+For simplicity,we use an ansatz for the phase,
+
+$$
+\delta ( s ) = \left\{ \begin{array} { l l } { \mathrm { A r c T a n } [ s \Gamma / m ( m ^ { 2 } + \Gamma ^ { 2 } - s ) ] , } & { s < m ^ { 2 } } \\ { \mathrm { A r c T a n } [ s \Gamma / m ( m ^ { 2 } + \Gamma ^ { 2 } - s ) ] + \pi , } & { s \geqslant m ^ { 2 } , } \end{array} \right.
+$$
+
+which approaches a constant at high energy according to unitarity. We can see that this ansatz can fit the phase of the $\pi \pi$ scattering data very well, as shown in Fig. 1.
+
+Nevertheless,our parametrization is general and the does not rely on the specific form of strong dynamics. From Eq. (2)，we can construct the full form factor from its phase $\delta ( s )$ ，
+
+$$
+F \left( s \right) = P \left( s \right) \frac { - m ^ { 2 } + i m \Gamma } { s - m ^ { 2 } + i m \Gamma } .
+$$
+
+We can see the behavior of $| F ( s ) |$ in Fig. 1. At small $s$ we are far from the resonance and the form factor is unity. However as we approach the resonance the magnitude of the form factor grows large. For large values of $\sqrt { s }$ beyond the resonance,the form factor falls off rapidly with energy.
+
+Longitudinal weak bosons scattering. In a strongly interacting EWSB theory the longitudinal components of the weak bosons can be approximately regarded as PNGBs,and their interactions can be described at low energies by a chiral Lagrangian. Thus,naive extrapolation of the scattering amplitude would lead to a similar problem of unitarity violation.We can expect a similar resolution to this problem as in the case of pions,where new resonances unitarize the scattering amplitude.
+
+However, there is one key difference between weak boson scattering and pion scattering. Namely,we have already discovered a 125 GeV (Higgs-like） scalar object that couples to weak bosons.The exchange of this scalar object will partially restore unitarity in the longitudinal $V$ scattering amplitude. If the couplings of this scalar object to $V$ s is exactly the Standard Model value, corresponding to a non-composite Higgs boson,then we would have complete unitarity restoration just from exchange of this scalar object.
+
+For composite Higgs models,we can use the generalized Adler-Weinberg sum rule (in the limit of vanishing gauge couplings）[1O] to relate the Higgs coupling to Vs to an integral sum of longitudinal gauge boson scattering cross-sections in various isospin channels,
+
+$$
+1 - a ^ { 2 } = \int _ { 0 } ^ { \infty } \frac { v ^ { 2 } d s } { 6 \pi s } ( 2 \sigma _ { I = 0 } ^ { \mathrm { t o t } } ( s ) + 3 \sigma _ { I = 1 } ^ { \mathrm { t o t } } ( s ) - 5 \sigma _ { I = 2 } ^ { \mathrm { t o t } } ( s ) ) .
+$$
+
+Here, $a$ parameterizes the ratio of the Higgs boson coupling to $V$ s over its SM value. From the latest fits [11] we can see that $0 . 8 < a < 1 . 2$ at the $2 \sigma$ level.
+
+For $a$ not equal to 1,we need additional contributions from strong dynamics to restore unitarity in longitudinal gauge boson scattering. For simplicity,we will also assume vector meson dominance for the remaining partial unitarity restoration,as in the case of pion scattering, restricting the new physics contribution to the $J \ = \ 1$ channel.
+
+We can now parameterize strong dynamics in longitudinal $V$ scattering by introducing a form factor that multiplies the amplitude just as we did in the case of $\pi \pi$ scattering. We will assume the same ansatz for the phase, since it maintains unitarity manifestly. The role of the composite Higgs boson in unitarization can be accounted for without explicitly including the Higgs exchange diagrams. Instead,we note that $J ~ = ~ 1$ ，longitudinal $V$ cross-section must be rescaled by a factor of $1 - a ^ { 2 }$ (compared to the case where no Higgs-like boson is present). Thus,we can simply rescale our form factor from Eq. (4) by $\sqrt { 1 - a ^ { 2 } }$ to account for the presence of the 125 GeV boson.
+
+![](images/5822965f5fe7d36272136bd72bbfe879c27008c863609614d65e5be71f1f989b.jpg)  
+FIG.2: The currently excluded region of form-factor parameters(shaded region) using constraints from CMS searches for （204号 $W ^ { \prime } \to W Z$ resonances [12]. (The ATLAS bound is slightly weaker and is not shown.)
+
+Assuming $a \ = \ 0 . 8$ ，we show the currently excluded region for different form-factor parameters $m$ and $\Gamma$ in Fig.2 using the latest LHC searches for $W ^ { \prime }  W Z$ resonances [12]. This search strategy only probes the enhancement to the total rate for $W Z$ production，or equivalently it isa probe of $| F ( s ) |$ ,but it does not probe thephase shift directly.In addition，the search uses a narrow $W Z$ invariant mass window to suppress backgrounds and is therefore insensitive to very broad resonances $\Gamma / m \gtrsim 2 0 \%$ ，that are characteristic of strong dynamics.
+
+Observation of Longitudinal V scattering.There are two methods to observe $V V$ scattering at the LHC. One is the widely used weak boson fusion process $p p $ $V V j j$ ，where the two forward jets can be used to suppress the large SM backgrounds. The other method is the rescattering process $p p  V V$ ，which is not considered to be a promising channel for most studies due to the large SM backgrounds. However, this channel is not suppressed by the small effective- $V$ luminosity and it also has better access to higher energies of the $V V$ system. Since we are trying to observe the azimuthal angle correlation which arises from a quantum interference term, we do not have to suppress the SM backgrounds and we will consider the rescattering process in this paper.
+
+Angular correlation.Let us consider $W ^ { + } Z$ production from a $u \bar { d }$ initial state.We will considera modification of the SM amplitude of longitudinal $W ^ { + } Z$ production in the （204号 $J = 1$ channel by a complex form-factor ${ \sqrt { 1 - a ^ { 2 } } } F ( s )$ ， where $F ( s )$ is given by the form in Eq. (4).We will study this process at high energies where both the $W ^ { + }$ （204号 and the $Z$ decay leptonically. The kinematic dependence of the production and decay amplitudes are as follows: $\mathcal { M } _ { 1 } : u ( k _ { 1 } , - ) \ d ( k _ { 2 } , + ) \ \to \ W ^ { + } ( q _ { 1 } , \lambda _ { 1 } )$ （204号 $Z ( q _ { 2 } , \lambda _ { 2 } )$ ， $\mathcal { M } _ { 2 } : \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cap \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } : \mathcal { M } _ { \partial } \cup \mathcal _ { \partial } \cup \mathcal { } \mathcal { \Lambda } _ { \partial } \cup \mathcal \mathcal { } \cup \mathcal _ { \Lambda } \cup \mathcal \mathcal { \Lambda } _ { \Lambda \Lambda } \cup \mathcal \mathcal { \Lambda } \cup _ \mathcal { \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda } _ \mathcal  \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda \Lambda$ $W ^ { + } ( q _ { 1 } , \lambda _ { 1 } ) \to \nu ( p _ { 1 } , - ) \ l _ { 1 } ^ { + } ( p _ { 2 } , + )$ and $\mathcal { M } _ { 3 } : Z ( q _ { 2 } , \lambda _ { 2 } ) \to$ $l _ { 2 } ^ { - } \left( p _ { 3 } , h \right) l _ { 3 } ^ { + } \left( p _ { 4 } , - h \right)$ . The parameters in the parentheses are the particle momentum and helicity respectively. The phase space of this process has five independent angles which are defined in the center-of-momentum frame as follows: the production angle $( \Theta )$ , two polar decay angles $( \theta _ { 1 } , \theta _ { 2 } )$ and two azimuthal decay angles $( \phi _ { 1 } , \phi _ { 2 } )$ which can be though of as the rotations of the $W ^ { + } / Z$ decay planes $( \hat { n } _ { W } , \hat { n } _ { Z } )$ about the $W ^ { + } / Z$ momentum axis,and are measured relative to the production plane $\hat { n }$ .The three planes are defined as $\hat { n } \sim k _ { 1 } \times q _ { 1 }$ ， $\hat { n } _ { W } \sim q _ { 1 } \times p _ { 2 }$ （204号 and $\hat { n } _ { Z } ~ \sim ~ p _ { 4 } \times q _ { 2 }$ .All these kinematic variables are presented in Fig. 3.
+
+![](images/e37c4fc0a93da22b09e5f9c8ce2892fb49f9193dcd14ea55fb82f237a469add0.jpg)  
+FIG.3:The kinematics of $W ^ { + } Z$ production and decays.
+
+The phase shift from the strong dynamics only affects the longitudinal-longitudinal combination of $W ^ { + } Z$ modes and shifts the corresponding amplitude by an energy dependent phase, $\delta$ . This phase shift will enter into the azimuthal angle correlation of the $W ^ { + } / Z$ decay as an interference effect between the various polarizations of the vector bosons. To see this, recall that $W ^ { + } / Z$ decay produces an azimuthal angular dependence $\exp ( i s _ { z } \phi )$ in the amplitude,where $s _ { z }$ and $\phi$ are respectively,the spin projection and the azimuthal angle rotation about the $W ^ { + } / Z$ direction. For a given interference term between a general helicity combination $( \lambda _ { 1 } , \lambda _ { 2 } )$ and the (0,O) combination,we find that the relevant terms in the differential cross-section are of the form |a1e𝑖(λ1φ1-X2Φ2) + a2eiδ|² \~ $\cos ( \lambda _ { 1 } \phi _ { 1 } - \lambda _ { 2 } \phi _ { 2 } + \delta ) \supset \sin ( \lambda _ { 1 } \phi _ { 1 } - \lambda _ { 2 } \phi _ { 2 } ) \sin \delta$ [13，14]. Thus,the $\sin ( \lambda _ { 1 } \phi _ { 1 } - \lambda _ { 2 } \phi _ { 2 } )$ modes in the azimuthal angle correlation strongly suggest the existence of strong dynamics.
+
+The production amplitudes can be separated by the different $W ^ { + } Z$ helicity combinations $( \lambda _ { 1 } , \lambda _ { 2 } )$ .Among the nine different helicity combinations,there are three leading contributions from $( - , + )$ ， $( 0 , 0 )$ and $( + , - )$ The four other significant ones are $( - , 0 ) \approx ( 0 , + )$ and $( + , 0 ) \approx ( 0 , - )$ ，all of which have a relative suppression $\sim m _ { W } / \sqrt { s }$ compared to the leading modes.The $( + , + )$ and $( - , - )$ combinations are too small to affect the kinematic distributions. We note that (a): $( - , + ) / ( + , - )$ dominate as $\Theta \to 0$ or $\pi$ because of the $ { \mathrm { ~  ~ t ~ } }$ -channel production. (b):Numerically the difference between $( - , 0 )$ and $( 0 , + )$ or $( + , 0 )$ and $( 0 , - )$ is negligible.We parameterize the production amplitudes as $\mathcal { M } _ { 1 } ( - , + ) \ = \ A$ ， $\mathcal { M } _ { 1 } ( 0 , 0 ) ~ = ~ B e ^ { i \delta }$ ， $\mathcal { M } _ { 1 } ( + , - ) \ = \ C$ ， $\mathcal { M } _ { 1 } ( - , 0 ) ~ = ~ D$ $\mathcal { M } _ { 1 } ( + , 0 ) \ = \ E$ ， $\mathcal { M } _ { 1 } ( 0 , + ) \ = \ F$ and $M _ { 1 } ( 0 , - ) = G$ ： Here,all amplitudes depend on the center-of-mass energy and on $\Theta$ . Similar behavior has been pointed out in $e ^ { + } e ^ { - }  W ^ { + } W ^ { - }$ [15].
+
+The full differential cross-section can be obtained from $\begin{array} { r l } & { \sum _ { h } \left. \sum _ { \lambda _ { 1 } , \lambda _ { 2 } } \mathcal { M } _ { 1 } ^ { \lambda _ { 1 } \lambda _ { 2 } } ( \Theta ) \mathcal { M } _ { 2 } ^ { \lambda _ { 1 } } ( \theta _ { 1 } , \phi _ { 1 } ) \mathcal { M } _ { 3 } ^ { \lambda _ { 2 } } ( h , \theta _ { 2 } , \phi _ { 2 } ) \right. ^ { 2 } } \end{array}$ where the $W ^ { + } , Z$ decay amplitudes are $\mathcal { M } _ { 2 } ^ { \lambda _ { 1 } } ( \theta _ { 1 } , \phi _ { 1 } )$ $= g _ { W } | q _ { 1 } | d _ { \lambda _ { 1 } } ( \theta _ { 1 } ) e ^ { i \lambda _ { 1 } \phi _ { 1 } }$ ， $\mathcal { M } _ { 3 } ^ { \lambda _ { 2 } } ( h , \theta _ { 1 } , \phi _ { 1 } ) = g _ { Z } ^ { h } | q _ { 2 } | d _ { \lambda _ { 2 } } ( \theta _ { 2 } +$ $( h - 1 ) \pi / 2 ) e ^ { - i \lambda _ { 2 } \phi _ { 2 } }$ Here $g _ { Z } ^ { - } \approx - g _ { Z } ^ { + }$ are the couplings of the $Z$ to different lepton helicities. The polar angle dependent function $\begin{array} { r } { d _ { \pm } ( \theta ) = \sqrt { \frac { 1 } { 2 } } ( 1 \pm \cos \theta ) } \end{array}$ ， $d _ { 0 } ( \theta ) = \sin \theta$ ： If we integrate over both polar angles $\theta _ { 1 , 2 }$ ，there is an approximate cancellation in the $\sin ( \phi _ { 1 } + \phi _ { 2 } )$ and $\sin ( \phi _ { 2 } )$ correlation between $\cos \theta _ { 2 } ~ > ~ 0$ and $\cos \theta _ { 2 } ~ < ~ 0$ due to $g _ { Z } ^ { + } \approx - g _ { Z } ^ { - }$ . Therefore,we only integrate the differential cross-section over either $\cos \theta _ { 2 } > 0$ or $< 0$ to obtain:
+
+$$
+\begin{array} { r l } { \frac { ( 2 \pi ) ^ { 2 } d \sigma _ { \pm } } { l \cos \Theta d \phi _ { 1 } d \phi _ { 2 } } } & { = \cfrac { 1 } { 2 } \left[ \left( H ^ { 2 } \pm \frac { 3 \epsilon } { 4 } ( C ^ { 2 } - A ^ { 2 } + G ^ { 2 } - F ^ { 2 } ) \right) + B \sin \delta \left( \frac { 3 \pi } { 6 4 } \left( \pm 4 ( A + C ) - 3 \pi \epsilon ( A - C ) \right) \right) \right. } \\ & { \quad \left. + \frac { 3 \sqrt { 2 } \pi ( E - D ) } { 8 } \sin \phi _ { 1 } \left. + \frac { \pm 4 ( F + G ) - 3 \pi \epsilon ( F - G ) } { 4 \sqrt { 2 } } \sin \phi _ { 2 } \right) + \cdots \right] , } \end{array}
+$$
+
+where $\epsilon = ( ( g _ { Z } ^ { - } ) ^ { 2 } - ( g _ { Z } ^ { + } ) ^ { 2 } ) / ( ( g _ { Z } ^ { - } ) ^ { 2 } + ( g _ { Z } ^ { + } ) ^ { 2 } ) \approx 0 . 2 2$ and the ellipsis refer to the interference terms with $\cos \phi$ -type dependence.The $\sigma _ { \pm }$ stands for $\sigma ( \cos \theta _ { 2 } \geq 0 )$ and $H$ is overall background $H ^ { 2 } = ( A ^ { 2 } + B ^ { 2 } + C ^ { 2 } + D ^ { 2 } + E ^ { 2 } +$ $F ^ { 2 } + G ^ { 2 }$ ）
+
+In Fig.4 we plot the relative coefficients of the different $\sin \phi$ correlations as a function of $\cos \Theta$ for $\sqrt { s } = 1$ TeV using the expressions in Eq. (6). Measuring a non-zero coefficient for any of the $\sin \phi$ modes is a positive indicator of strong dynamics.Integrating over the entire $\cos \Theta$ range would lead to cancellations that would dilute the significance of the probe. Thus,an optimal strategy is to use a maximum likelihood analysis on the measured $d \sigma _ { \pm } / d \cos \Theta d \phi _ { 1 } d \phi _ { 2 }$ distribution in the data to look for all non-zero $\sin ( \lambda _ { 1 } \phi _ { 1 } - \lambda _ { 2 } \phi _ { 2 } )$ coefficients.
+
+Procedure.At the LHC,there are various kinematic ambiguities that must be incorporated into the analysis. We will choose to study only the $\sin \phi _ { 1 }$ mode,which will yield a much more transparent analysis that is robust to the kinematic ambiguities.
+
+We simulate the process $p p  W ^ { + } Z  l ^ { + } \nu l ^ { + } l ^ { - }$ with the form factor ${ \sqrt { 1 - a ^ { 2 } } } F ( s )$ from Eq.(4） multiplying the $J = 1$ channel of the $( 0 , 0 )$ helicity amplitude.We have taken $a = 0 . 8$ asabenchmark,which assumes that such a deviation in Higgs couplings would continue to be allowed with future data from the LHC.We then scan over different form factor parameters $m$ and $\Gamma$ ,which will give rise to different phase shifts. Our event simulation is purely at the parton level which is sufficient for the fully leptonic final state. We used HELAS [16] to calculate the helicity amplitudes for the full process.LHApdf [17] was used to fold in the parton distribution functions for the protons using the pdf set CTEQ6L [18]. An adaptive Monte-Carlo package,BASES [19],was used to perform the integration over phase space and to study differential cross-sections. Our simulation approach to calculation of helicity amplitudes allowed us to insert the form factor specifically into the longitudinal gauge-boson scattering channel.
+
+![](images/66f40c101c9648fd29e585c73497a831e316e923c4946494e4423dc11f27f16a.jpg)  
+FIG.4:The coeffcients of the production amplitudes in front of the azimuthal $\sin \phi$ correlations as a function of scattering angle $\cos \Theta$ at $\sqrt { s } = 1$ TeV from Eq.(6)．The solid blue, green,red and dashed blue,red lines stand for the coefficients in front of $\sin ( \phi _ { 1 } + \phi _ { 2 } )$ （ $\cos \theta _ { 2 } > 0$ ), $\sin \phi _ { 1 }$ ， $\sin \phi _ { 2 }$ （ $\cos \theta _ { 2 } > 0$ ) $\sin ( \phi _ { 1 } + \phi _ { 2 } )$ ( $\cos \theta _ { 2 } < 0 \AA$ ）， $\sin \phi _ { 2 }$ ( $\cos \theta _ { 2 } < 0$ ）respectively.
+
+The cuts used are: 1): $\Delta r > 0 . 4$ separation between leptons; 2): $p _ { T } \ > \ 2 0$ GeV and $| \eta | < 2 . 8$ cuts on the leptons. 3): $Z$ -reconstruction cut: We require that two opposite sign leptons reconstruct to give the Z mass. 4): Missing $E _ { T }$ cut $> 2 0$ GeV.5):Invariant mass cut of the $W / Z$ system between $m \pm \Gamma$ [24].
+
+When we reconstruct the events,there are two misidentification issues that arise that lead to a fourfold ambiguity in the kinematics: a): The $u$ -quark direction is unknown. b): There is a two fold ambiguity in the neutrino momentum along the beam axis.First,consider a misidentification of the $u$ -quark direction.This leads to misidentifying $\Theta \to \pi - \Theta$ ， $\phi _ { 1 }  \pi + \phi _ { 1 }$ ， $\phi _ { 2 }  \pi + \phi _ { 2 }$ . The azimuthal angle correlation, $\sin \phi _ { 1 }$ ,is odd under such a misidentification.Note that from the solid green curve in Fig. 4 the coefficient of $\sin \phi _ { 1 }$ is also approximately odd under $\Theta \to \pi - \Theta$ .Thus, if we study the $\sin \phi _ { 1 }$ mode for either $0 . 1 < \cos \Theta < 0 . 9$ or $- 0 . 9 < \cos \Theta < - 0 . 1$ we find that it is robust to misidentifications of the $u$ -quark direction.
+
+The presence of a false solution for the neutrino momentum would distort the azimuthal angle correlations that we seek for $\phi _ { 1 }$ .However, to study the $\sin \phi _ { 1 }$ mode, we can simply measure the up-down asymmetry with respect to the $\phi _ { 1 } = 0$ (production） plane to find the sizes of such correlations. We will demonstrate that the updown asymmetry is the same for both the true and the false solutions.
+
+For a given $\phi _ { 1 }$ azimuthal angle correlation we have,
+
+$$
+\left. \frac { d \sigma } { d \phi _ { 1 } } \right| _ { \mathrm { c o s } \Theta \gtrless 0 } \simeq A _ { 0 } + A _ { 1 } \cos \phi _ { 1 } + A _ { 2 } \cos 2 \phi _ { 1 } \pm B _ { 1 } \sin \phi _ { 1 } \ .
+$$
+
+We define the events going“above” the plane for $\sin \phi _ { 1 } >$ $0$ and going“below” the plane for $\sin \phi _ { 1 } < 0$ . Therefore, the up-down asymmetry can be defined as
+
+$$
+A S | _ { \cos \Theta \ge 0 } = \frac { N _ { + } - N _ { - } } { N _ { + } + N _ { - } } = \pm \frac { 2 } { \pi } \frac { B _ { 1 } } { A _ { 0 } } \ ,
+$$
+
+where $N _ { + } / N _ { - }$ are the number of up/down events respectively.
+
+The up or down events for $\phi _ { 1 }$ can be defined by the sign of the scalar triple product
+
+$$
+S G N \equiv \mathrm { s g n } ( \hat { n } \cdot p _ { 2 } ) = \mathrm { s g n } ( ( k _ { 1 } \times q _ { 1 } ) . p _ { 2 } ) .
+$$
+
+Fora particular event if $\mathrm { S G N } > 0 ( < 0 )$ then we increment $N ^ { + } ( N ^ { - } )$ .The normal vector to the production plane $\hat { n } = k _ { 1 } \times q _ { 1 } = k _ { 1 } \times ( p _ { 1 } + p _ { 2 } )$ is independent of the $\nu$ momentum along the $u$ -quark direction and hence $S G N$ is insensitive to the difference between the true and false solution.In addition to this, the asymmetry variable has the advantage of being insensitive to a number of cuts such as rapidity and $p _ { T }$ cuts that would otherwise distort the angular distribution.
+
+Results.If the background fluctuation is Gaussian, the statistical significance of the nonzero asymmetry is given
+
+14TeVLHC 50 TeV pp collider   
+
+<html><body><table><tr><td>1/m→</td><td></td><td>0.30.4</td><td>1/m→</td><td>0.20.30.4</td><td></td><td></td></tr><tr><td>m (GeV)</td><td>3.44.8</td><td rowspan="3">2.43.3</td><td>m (GeV)</td><td rowspan="3"></td><td rowspan="3">5.76.79.1</td><td rowspan="3"></td></tr><tr><td>800 900</td><td>1000 1100</td></tr><tr><td>1000</td><td>1.72.4 1200</td></tr></table></body></html>
+
+TABLE I:Table showing the cross-sections (in fb） for the fully-leptonic process $p p  W ^ { \pm } Z  l ^ { \pm } \nu l ^ { + } l ^ { - }$ for different form-factor parameters in a composite Higgs model (assuming $a = 0 . 8$ ）and with the cuts described in the text (including the mass window selection).Cross-sections are shown for the 14 TeV LHC and at a future 50 TeV $p p$ collider.The typical cross-sections are of the order of a few fb.
+
+by,
+
+$$
+S \equiv { \frac { | N ^ { + } - N ^ { - } | } { \sqrt { N } } } = | A S | \sqrt { N } ,
+$$
+
+where $N = N ^ { + } + N ^ { - }$ is the total number of events. As a rule of thumb,we found that choosing an invariant mass window between $m \pm \Gamma$ seemed to optimize the tradeoff between picking up a large $| A S |$ by being close to the resonance,while still keeping a sizeable number of events.
+
+In Tab.I,we show the cross-section for the process under consideration at the 14 TeVLHC and at a future 50 TeV $p p$ collider for different choices of form factors by varying over the parameters $m$ and $\Gamma$
+
+The form factors that we consider lead to typical asymmetries of the order of $5 - 1 0 \%$ .In Tab.II,we show the significance of the asymmetry measurement at the 14 TeV LHC with $\mathrm { 3 0 0 0 ~ f b ^ { - 1 } }$ of data for different choices of form factors by varying over the parameters $m$ and $\Gamma$ We show the results using expected statistics including both the $W ^ { + } Z$ and $W ^ { - } Z$ fully-leptonic modes.
+
+We find that new wide resonances can be probed at the $3 \sigma$ level for masses up to more than 9oo GeV. This further motivates an extended run of the LHC should an excess in $W ^ { \pm } Z$ be discovered.A future 50 TeV protonproton collider could probe resonances up to around 1.2 TeV with the same luminosity. An even higher energy at a future collider would make the $\sin ( \phi _ { 1 } + \phi _ { 2 } )$ interference term the dominant piece and would require a different analysis strategy.
+
+There are several theoretical and analysis issues that could potentially increase these significances in a more sophisticated search and motivates an elaboration of our work.1): In the $\sin \phi _ { 1 }$ mode search,it is possible to open up the hadronic decay modes of the $Z$ with boosted tagging techniques [2O]. 2):In addition,using a multivariate analysis and incorporating the $\sin \phi _ { 2 }$ and $\sin ( \phi _ { 1 } + \phi _ { 2 } )$ modes could also bolster this result. 3): Allowing for $I = 2$ resonances implies that the vector resonance form factor could be scaled by a factor larger than $\sqrt { 1 - a ^ { 2 } }$ 4):Multiple resonances in a narrow mass window could
+
+14TeVLHC 50 TeV pp collider   
+
+<html><body><table><tr><td>Γ/m→</td><td></td><td>0.30.4</td><td>I/m→</td><td>0.20.30.4</td><td></td><td></td></tr><tr><td>m (GeV)</td><td></td><td></td><td>m (GeV)</td><td></td><td></td><td></td></tr><tr><td>800</td><td></td><td>4.44.4</td><td>1000</td><td>4.8</td><td>5.04.9</td><td></td></tr><tr><td>900</td><td></td><td>3.23.2</td><td>1100</td><td></td><td></td><td>3.33.63.6</td></tr><tr><td>1000</td><td></td><td>2.32.3</td><td>1200</td><td>2.42.62.7</td><td></td><td></td></tr></table></body></html>
+
+TABLE II: Table showing the significance of the asymmetry variable,from Eq. (1O),using both the $W ^ { \pm } Z$ fully-leptonic modes for different form-factor parameters in a composite Higgs model (assuming $a = 0 . 8$ ).The results are shown for an integrated luminosity of $3 0 0 0 ~ \mathrm { f b } ^ { - 1 }$ at the14 TeVLHCand ata future 5O TeV pp collider.
+
+also yield an enhancement in the longitudinal scattering cross-section which would show up as the $P ( s )$ factor mentioned earlier.
+
+Conclusions.We have proposed a novel technique to disentangle the dynamics of a strongly coupled EWSB sector by measuring a phase shift in the the decay azimuthal angle correlations in massive gauge boson scattering.Our results show that a simple up-down asymmetry in leptons from $W$ decay in $p p  W ^ { \pm } Z$ is robust to a number of event reconstruction ambiguities and is a good probe of broad resonances from strong dynamics. This strongly motivates a high luminosity run of the 14 TeVLHC.A future 5O TeV pp collider could yield conclusive evidence of resonant behavior in the presence of an excess of $W Z$ events at the LHC.Furthermore,we have outlined several analysis strategies and theoretical issues which would significantly increase the reach of searches based upon this technique and could lead to a promising signal at the next run of the LHC.
+
+Acknowledgments. We would like to thank T. Han, D.Krohn,A.Larkoski,and M.Peskin for useful discussions. H.M. was supported in part by the U.S.DOE under Contract No. DEAC03-76SF00098，by the NSF under Grant No. PHY-1002399,by the JSPS Grant (C) No. 23540289,by the FIRST program Subaru Measurements of Images and Redshifts (SuMIRe),CSTP,and by WPI, MEXT, Japan. V.R. was supported by NSF Grant No. PHY-0855561.
+
+[1] G.Aad et al.[ATLAS Collaboration], Phys.Lett. B 716, 1 (2012).   
+[2] S. Chatrchyan et al.[CMS Collaboration],Phys.Lett.B 716, 30 (2012).   
+[3] G.C.Branco,P.M. Ferreira,L.Lavoura,M.N. Rebelo, M. Sher and J.P. Silva,Phys.Rept.516,1 (2012).   
+[4] S. P. Martin, In $^ *$ Kane,G.L. (ed.): Perspectives on supersymmetryII $^ *$ 1-153.   
+[5] R.Contino,arXiv:1005.4269 [hep-ph].   
+[6] R.Contino,C.Grojean，M.Moretti,F.Piccinini and R.Rattazzi,JHEP 1005,089 (2010).   
+[7] T.Han,D.Krohn,L. T.Wang and W. Zhu, JHEP 1003, 082 (2010).   
+[8] R. Omnes,Nuovo Cim.8,316 (1958).   
+[9] S.D.Protopopescu et al., Phys.Rev.D 7, 1279 (1973).   
+[10] A.Falkowski, S.Rychkov and A.Urbano,JHEP 1204, 073 (2012).   
+[11] P.P.Giardino,K.Kannike,I. Masina,M. Raidal and A.Strumia,arXiv:1303.3570 [hep-ph].   
+[12] ATLAS-CONF-2013-015 and CMS-PAS-EXO-12-025.   
+[13]W.Y.Keung, I. Low and J. Shu,Phys. Rev. Lett.101, 091802 (2008).   
+[14] Q.-H. Cao, C.B. Jackson,W. -Y. Keung, I. Low and J. Shu,Phys.Rev.D 81,015010 (2010).   
+[15] K.Hagiwara et.al., Nucl.Phys.B 282, 253 (1987).   
+[16] H. Murayama, I.Watanabe and K.Hagiwara,KEK-91- 11 (1992).   
+[17] M.R. Whalley，D. Bourilkov and R. C. Group, arXiv:hep-ph/0508110.   
+[18] J.Pumplin，D.R.Stump,J.Huston，H.L．Lai, P.M.Nadolsky and W.K.Tung, JHEP 0207,012 (2002) [arXiv:hep-ph/0201195].   
+[19] S.Kawabata, Comput.Phys.Commun.41,127(1986).   
+[20] Y. Cui, Z. Han and M. D. Schwartz, Phys. Rev. D 83, 074023 (2011).   
+[21] See Ref. [5] and references therein.   
+[22] There could be other non-universal consequences,such as resonances,enhanced di-higgs production rate [6],etc.   
+[23] See Ref.[7] and references therein.   
+[24] In practice this requires looking for a broad excess and placing an invariant mass cut on the WZ.We found that our results were not significantly affected by choosing a different invariant mass cut window,indicating that a precise optimization of this cut may not be very important.

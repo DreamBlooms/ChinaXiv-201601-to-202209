@@ -1,0 +1,226 @@
+# 近25a甘肃省人口分布的时空格局及影响因素
+
+王芳莉¹， 党国锋1,2（1西北师范大学地理与环境科学学院,甘肃兰州730070;2西北师范大学数字国土与GIS 开发应用研究院,甘肃兰州730070)
+
+摘要：人口分布是在一定时间、一定地域范围人口在空间上的表现，它会受社会、经济、自然和政策等多种因素影响，甘肃省人口分布处于不平衡状态。以甘肃省86个县域及嘉峪关市共87个研究单元为对象，常住人口数据为基础，对研究区1990—2015年之间人口的分布特征、密度变化、分布结构指数、基尼系数、重心迁移等时空格局变化进行了分析。以县域为研究单元，选取12个自然和社会经济因素,利用偏最小二乘法(PLS)对影响甘肃省人口分布空间格局的因素进行分析。研究发现：(1)近25a来甘肃省人口空间分布差异显著，形成“东南密集西北稀疏”格局；(2）从人口密度变化来看，相较于1990年,2015年甘肃省87个研究单元中，有67个县域属于增加类型,20个县域属于降低类型；(3）全省人口分布的均衡性发展态势在增强;(4）人口分布的重心逐渐向西北方向迁移；(5）甘肃省人口分布格局的形成受自然因素与社会经济因素的同时影响，但社会经济因素影响最大。
+
+关键 词：人口分布；时空演变；影响因子；偏最小二乘法；甘肃文章编号：
+
+人口分布是人口在空间上的表现[1]。由于受到自然资源、社会经济发展水平、历史背景和人口政策等多种因素的影响，人口分布格局会发生变化[2]。人口增长较慢的地区将导致劳动力的需求不足，经济发展受到限制。人口增长过快的地区，会加大对资源与环境的压力，而这两者都会对地区经济发展造成一定的压力。因此，探究人口分布的时空变化，揭示人口分布的重要影响因素，对把握其中的变化规律，制定合理的人口政策，促进人口合理分配具有重要的指导意义[2-6]。对人口分布时空变化的研究有很多，从国内人口研究来看，对人口分布的研究主要集中在杨强等运用不同研究方法分别对中国人口分布进行研究得出人口空间分布格局未发生明显的转变，但人口分布的均衡性发展性不断增强。杨剑等[对浙江省人口分布探讨,得出人口密度的空间分布具有“点一带一区”特征，人口分布遵循地理学第一定律，存在一定的空间关联。可以看出国内人口研究无论是从方法还是尺度都有很大突破。研究的尺度主要集中在对全国、典型城市群和一些发展较好的省份。然而由于历史、自然环境等因素影响，甘肃省人口分布呈东南密集、西北稀疏的格局，但由于1982年国务院出台的“三西建设”扶贫政策，人才引进政策和经济的发展，甘肃省的人口分布特征出现变化,而现有成果中缺乏对甘肃省人口探讨，因此挖掘和分析甘肃省内人口时空变化特征和规律以及重要的影响因素，对构建合理的人口分布具有十分重要的意义。
+
+本研究以甘肃省86个县域及嘉峪关市共87个研究单元，以1990 年、1995 年、2000 年、2005年、2010年及2015年的常住人口数据，研究了近25a来甘肃省人口分布的时空格局变化，同时选取人均GDP、单位面积粮食产量、地形起伏度等12个指标，利用偏最小二乘法对影响人口分布时空格局的自然和社会经济因子进行分析，揭示了甘肃省人口分布的时空格局变化特征及影响因素。
+
+# 1 研究区概况
+
+甘肃省 $( 9 2 ^ { \circ } 1 3 ^ { \prime } \sim 1 0 8 ^ { \circ } 4 6 ^ { \prime } \mathrm { E } , 3 2 ^ { \circ } 1 1 ^ { \prime } \sim 4 2 ^ { \circ } 5 7 ^ { \prime } \mathrm { N } )$
+
+位于我国西北地区，地处黄土高原、青藏高原和内蒙古高原三大高原的交汇地带。境内地貌类型多样，地形复杂，山脉纵横交错，海拔相差较大。地势自西南向东北倾斜，地形狭长。气候差异大,大部分地区属大陆性很强的温带季风气候。而截至2015年底，全省共14个市（州）87个县（市、区），土地面积为$4 . 5 4 \times 1 0 ^ { 5 } \ \mathrm { k m } ^ { 2 }$ 。全省常住总人口为 $2 . 5 9 \times 1 0 ^ { 7 }$ 人，占全国总人口的 $1 . 8 8 \%$ 0
+
+# 数据来源与研究方法
+
+# 2.1 数据来源
+
+本文所需数据主要来源于1990—2015年《甘肃年鉴》及《甘肃发展年鉴》。文中人口数据统计口径是常住人口数据。说明因合作1998年设市，为了本文便于对比研究，合作市1990 年和1995年的数据取夏河县统计数据代替,未造成数据缺失。
+
+# 2.2 研究方法
+
+2.2.1人 $o$ 密度相对变化率通过计算甘肃省1990—2015年人口密度相对变化率，并将其分类[8-9],来研究全省的人口变化特征。公式如下：
+
+$$
+F _ { j } = \frac { d _ { j ( 2 0 1 5 ) } - d _ { j ( 1 9 9 0 ) } } { D _ { 2 0 1 5 } - D _ { 1 9 9 0 } }
+$$
+
+式中： $F _ { j }$ 表示某研究单元的人口密度变化率； $D _ { 2 0 1 5 }$ 表示甘肃省2015 年人口密度; $D _ { \scriptscriptstyle { 1 9 9 0 } }$ 表示甘肃省1990年人口密度; $d _ { j ( 2 0 1 5 ) }$ 表示某研究单元2015 年人口密度； $d _ { j ( 1 9 9 0 ) }$ 表示某研究单元1990 年人口密度。人口密度变化类型如表1。
+
+表1人口密度变化类型的分类  
+Tab.1 Classification rules for population density changes   
+
+<html><body><table><tr><td>人口密度 变化分类</td><td>快速 降低型</td><td>缓慢 降低型</td><td>缓慢 增加型</td><td>快速 增加型</td></tr><tr><td>分类规则</td><td>Fj<-1</td><td>-1≤Fj<0</td><td>0≤F<1</td><td>Fj>1</td></tr></table></body></html>
+
+2.2.2人 $0$ 分布结构指数研究某个地域人口分布是否均衡和集中一般用不均衡指数和集中指数表示,二者的计算公式分别为[6-7]：
+
+$$
+U = { \sqrt { \frac { \sum _ { \scriptstyle i = 1 } ^ { \scriptstyle n } { \frac { \sqrt { 2 } } } { 2 } } ( x _ { i } - y _ { i } ) ^ { 2 } } { n } }
+$$
+
+$$
+C \ = \ { \frac { 1 } { 2 } } { \sum } _ { i \ = 1 } ^ { n } \ | { \ x } _ { i } \ - { y } _ { i } \ |
+$$
+
+式中： $U$ 表示不均衡指数； $n$ 表示城市个数； $x _ { i }$ 表示 $\mathbf { \chi } _ { i }$ 地区人口与总人口的比值; $y _ { i }$ 为 $i$ 地区土地面积与总土地面积的比值; $C$ 表示集中指数。当 $U$ 和 $C$ 的值越大时，表示人口分布越不均衡;反之，表示越均衡。
+
+2.2.3基尼系数利用人口与面积累积百分比得到甘肃省人口分布洛伦兹曲线，然后计算其所对应的集中化指数，从而得到判断人口和收入分配不均衡的系数[7-9],取值范围为［0,1],其计算公式为[7-9] 。
+
+$$
+G = 1 - \frac { 1 } { n } ( 2 \sum _ { i = 1 } ^ { n - 1 } W _ { i } \ : + \ : 1 )
+$$
+
+2.2.4 重心迁移通过ArcGIS来计算1990—2015年人口分布重心。它既能体现人口分布的中心位置，也能通过对比重心偏移情况的研究来分析人口分布的趋势和时空演变特征[10-12],公式为
+
+$$
+\left\{ \begin{array} { l } { { X = \left. \sum _ { i = 1 } ^ { n } M _ { i } X _ { i } \right/ \sum _ { i = 1 } ^ { n } M _ { i } } } \\ { { } } \\ { { Y = \left. \sum _ { i = 1 } ^ { n } M _ { i } Y _ { i } \right/ \sum _ { i = 1 } ^ { n } M _ { i } } } \end{array} \right.
+$$
+
+式中： $( X , Y )$ 表示区域人口重心; $M _ { i }$ 表示人口数量；$X _ { i }$ 表示统计单元的经度； $Y _ { i }$ 表示统计单元的纬度。当区域人口重心偏离区域几何中心时，表明区域人口空间分布不均衡[10-12] O
+
+2.2.5 偏最小二乘回归法²偏最小二乘(PLS)回归模型在过程中可以同时实现主成分分析、典型相关分析、线性回归分析，而且能够解决变量之间存在的多重共线性以及样本点较少等难题。常用于预测研究人口分布的驱动力分析[13-14]以及生态足迹变化的驱动因素的研究等[15-16]。公式为：
+
+$$
+\begin{array} { c } { { X _ { 0 } ^ { \wedge } = X _ { s } X _ { L } } } \\ { { { } } } \\ { { Y _ { 0 } ^ { \wedge } = X _ { s } Y _ { L } } } \\ { { { } } } \\ { { X _ { s } = X _ { 0 } W } } \end{array}
+$$
+
+式中： $X _ { 0 } ^ { \wedge }$ 表示 $X _ { 0 }$ 的模型估计值， $X _ { 0 }$ 表示原始预测变量 $X$ 的标准化矩阵为 $n \times p , Y _ { 0 } ^ { \Lambda }$ 表示 $Y _ { 0 }$ 的模型估计值， $Y _ { 0 }$ 表示原始响应变量 $Y$ 的标准化矩阵为 $n \times$ 1； $X _ { s }$ 表示预测得分为 $n \times m$ 矩阵, $m$ 表示成分个数； $W$ 表示响应变量权重为 $p \times m$ 矩阵。
+
+PLS回归模型还可以得到两个重要指标 $( \min )$ 和（BETA）,公式为[8-9]
+
+$$
+V I P _ { j } \ = \ \sqrt { p \sum _ { k = 1 } ^ { n _ { c o m p } } ( P V _ { k } \times ( { \ W _ { j k } } / { I I W _ { k } } { I I } ) ^ { 2 } ) / \sum _ { k = 1 } ^ { n _ { c o m p } } P V _ { k } }
+$$
+
+$$
+Y _ { 0 } = X _ { 0 } \times B e t a + R e s
+$$
+
+式中： $V I P$ 表示某个预测变量的重要性; $p$ 表示自变量个数； $n$ 表示预测变量中的样本数; $P V _ { k }$ 表示成分$k$ 对相应变量 $Y$ 的解释能力。一般情况, $V I P _ { j } > 0 . 8$ 时自变量的作用极为重要，介于 $0 . 5 \sim 0 . 8$ 之间的比较重要, $V I P _ { j } < 0 . 5$ 时表示自变量的重要性值不显著[13-14]。Beta 表示回归系数,当某一个影响因子的回归系数绝对值越大，表示影响因子对人口密度变化的影响程度越大。回归系数为负时，表明其两者负相关,反之正则相关[13-14] $R e s$ 表示离差。
+
+![](images/aac7add1beecd47452aea432db477d0e3e3069c4c223e9e3e784d3e492b4090c.jpg)  
+图11990—2015 年甘肃省人口空间分布图  
+Fig.1Spatial distribution of population in Gansu Province from 199O to 2015
+
+# 3人口分布的空间格局变化
+
+# 3.1 人口分布的空间特征
+
+人口密度是人口分布特征最主要的表现形式[17-27]。通过计算得到的87个研究单元人口密度并进行可视化表达（图1），从中可以看出，近25a来，全省人口密度空间分布差异形成“东南密集西北稀疏”格局。人口密度高值区主要分布在陇中黄土高原、陇南北部、陇东及河西走廊东南部，人口密度低值区主要分布在陇南山地南部、甘南高原以及河西走廊西部。此格局的形成与当地的自然环境、社会经济发展水平以及人口政策密切相关。
+
+# 3.2 人口密度变化
+
+1990—2015 年间,全省有67个县域人口密度呈上升态势（表2）,平均增加43.49人· $\mathrm { k m } ^ { - 2 }$ ,占比$7 7 . 0 2 \%$ ，占面积 $74 \%$ 。其中快速增加县域有 43个，增加人数 $3 . 4 3 \times 1 0 ^ { 6 }$ 人，平均增加41.54人·$\mathrm { k m } ^ { - 2 }$ ,占比 $4 9 . 4 3 \%$ ,面积占比 $20 \%$ 。缓慢增加的县域有24个，增加人数达到 $4 . 2 8 \times 1 0 ^ { 5 }$ 人,平均增加1.95人· $\mathrm { k m } ^ { - 2 }$ ,占比 $2 7 . 5 9 \%$ ,面积占 $5 5 \%$ 。从空间分布上看(图2），缓慢增加的县域主要分布在河西走廊的西部地区。快速增加的县域为陇中黄土高原、河西走廊的东部等地区。人口数量减少的县域共20 个,其中人口密度缓慢降低的县域13个，人□数减少 $1 . 6 7 \times 1 0 ^ { 5 }$ 人,平均减少2.09人· $\mathrm { k m } ^ { - 2 }$ ，占比 $1 4 . 9 4 \%$ ,面积占比为 $20 \%$ 。人口密度快速降低的县域共7个，人口数减少 $3 . 4 3 \times 1 0 ^ { 5 }$ 人，平均减少15.7人· $\mathrm { k m } ^ { - 2 }$ ,占比 $8 . 0 4 \%$ ,面积占比 $5 \%$ 。从空间分布上看（图2），甘肃省人口密度快速降低的县域主要分布在甘南高原的西北部地区。缓慢降低的县域主要分布在河西走廊的中部地区、陇南山地的南部地区。整体可以看出，甘肃省县域人口密度变化的差异较为明显，人口增加区占 $7 7 \%$ ，而人口降低区占 $23 \%$ 0
+
+# 表21990—2015 年甘肃省各类型人口密度变化
+
+Tab.2Types of population density changes in   
+
+<html><body><table><tr><td colspan="5">Gansu Province from 1990 to 2015</td></tr><tr><td>人口密度 变化类型</td><td>县数 /个</td><td>占比例 1%</td><td>变化均值 /人·km-²</td><td>面积占比 增减人数 /% /104人</td></tr><tr><td>快速增加</td><td>43</td><td>49.43</td><td>41.54</td><td>20 342.62</td></tr><tr><td>缓慢增加</td><td>24</td><td>27.59</td><td>1.95 55</td><td>42.81</td></tr><tr><td>缓慢降低</td><td>13</td><td>14.94</td><td>-2.09 20</td><td>-16.70</td></tr><tr><td>快速降低</td><td>7</td><td>8.04</td><td>-15.75</td><td>5 -34.31</td></tr></table></body></html>
+
+![](images/01265eef5d5d9f92a2e907d7993035e878b93666747a72972ac6b119d1591eee.jpg)  
+图21990—2015年甘肃省各研究单元人口密度变化类型图
+
+# 3.3人口分布均衡变化特征
+
+从空间上看（图3），25a间甘肃省人口密度基尼系数在 $0 . 3 0 \sim 0 . 4 0$ 之间，而联合国有关组织规定，人口密度的基尼系数大于0.40，表示收入分配和人口空间分布差距较大,处于不均衡状态[7]。因此可以看出甘肃省人口空间分布一直处于极不均匀的状态;从时间上看，全省人口密度基尼系数经历了1990—2000 年缓慢下降和2000—2015 年缓慢上升两个发展阶段。
+
+从图4中可以看出1990—2015 年甘肃省人口分布不均衡指数从0.01765下降到0.01705，人口集中指数从0.56下降到0.42，人口分布的均衡发展状态在增强，这在一定程度上与甘肃省各地区的经济发展密切相关。
+
+![](images/e36952c87fbd937d1c60cfbc9ce5e790930976f9693ee9a11c309ca50b716995.jpg)  
+Fig.2Map of population density change type in each research unit in Gansu Province from 199O to 2015   
+图31990—2015年甘肃省人口密度基尼系数Fig.3 Gini coefficient of population density of GansuProvince from 1990 to 2015
+
+集中指数 $\twoheadleftarrow$ 不均衡指数0.0182 0.60000.0180 0.5750数 0.0178 0.0176 国0.01740.017 20.01700.01680.0166 0.42500.0164 0.40001990 1995200020052010 2015年份
+
+# 3.4 人口的分布重心
+
+1990—2015年甘肃省人口重心始终在兰州市榆中县 $\langle 1 0 4 ^ { \circ } 7 ^ { \prime } \mathrm { E } , 3 5 ^ { \circ } 5 1 ^ { \prime } \mathrm { N } \rangle$ 境内移动，经度移动了$7 . 1 6 ^ { \prime }$ ,纬度移动 $3 . 2 ^ { \prime }$ ,移动幅度较小，且始终偏离甘肃省几何中心 $( 1 0 1 ^ { \circ } 2 ^ { \prime } 1 7 ^ { \prime \prime } \mathrm { E } , 3 7 ^ { \circ } 2 1 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { N } )$ 向西北方向移动的趋势（图5）。得出结果，甘肃省人口空间分布始终处于不平衡的状态，其空间格局未发生较大的转变，人口再分配的活跃程度低。总之，1990—2015 年甘肃人口分布的重心总体自东南向西北转移。
+
+人口重心的迁移受到社会经济发展水平与国家相关政策的影响，与经济、政治重心的转移密切相关［24]。研究发现,近25a来,甘肃省人口分布的重心逐步向西北方向发展，这与20世纪90年代初甘肃省向河西地区移民政策的实施以及河西地区整体经济水平的提高密切相关。
+
+![](images/2671a5568aa7adb188d09c65c76f46121cbcd4c981ef46f8ef9671ddcced75c1.jpg)  
+图41900—2015 年甘肃省人口分布均衡指数Fig.4Population distribution equilibrium indexof Gansu Province from 190O to 2015  
+图51990—2015 年甘肃省人口分布重心迁移轨迹Fig.5Migration path of the population distributioncenter of Gansu Province from 199O to 2015
+
+# 4甘肃省人口分布空间格局驱动力
+
+本文利用偏最小二乘法回归模型进行人口分布
+
+影响因素的分析，进而得到影响人口分布的重要因素。
+
+# 4.1 影响因子
+
+影响甘肃省人口分布的社会、经济、环境等要素关系复杂,因此参考其他研究[13-14,17-20],本研究选择1990一2015年各研究单元人口密度变化作为因变量。因数据的可获取性和甘肃省的区域特征选取了1990—2015年各研究单元12个自然因素、社会经济因素以及1990年的人口密度为初始密度为自变量(表3)。
+
+# 表3甘肃省人口密度变化的影响因子及其作用
+
+Tab.3Influence factors and effects of population density   
+
+<html><body><table><tr><td colspan="5">changein GansuProvince</td></tr><tr><td>类型</td><td>编 号</td><td>影响因子</td><td>单位</td><td>作用</td></tr><tr><td>自然1</td><td></td><td>单位面积粮食产量t·km-2</td><td></td><td>体现各地区自然资源与生 产力</td></tr><tr><td>环境 因素</td><td>2</td><td>地形起伏度</td><td>一</td><td>反映各地区的自然环境</td></tr><tr><td></td><td>3</td><td>多年平均气温</td><td>℃</td><td>反映各地区气候情况</td></tr><tr><td></td><td>4</td><td>多年平均降水</td><td>mm</td><td>反映各地区气候情况</td></tr><tr><td>社会</td><td>5</td><td>人均GDP</td><td>元</td><td>影响当地的经济发展状况</td></tr><tr><td>经济</td><td>6</td><td>农村居民纯收入</td><td>元</td><td>影响当地的经济发展状况</td></tr><tr><td>因素</td><td>7</td><td>城镇居民人均可支</td><td>元</td><td>影响当地的经济发展状况</td></tr><tr><td></td><td>配收入</td><td></td><td></td><td></td></tr><tr><td></td><td>8</td><td>固定投资总额</td><td>104元</td><td>影响当地的经济发展状况</td></tr><tr><td></td><td>9</td><td>地区生产总值</td><td>104元</td><td>影响当地的经济发展状况</td></tr><tr><td></td><td>额</td><td>10 人均社会消费品总</td><td>元</td><td>影响当地的经济发展状况</td></tr><tr><td>人口12 初始人口密度</td><td></td><td>11 在岗职工人数</td><td>人</td><td>影响当地的经济发展状况</td></tr><tr><td>基数</td><td></td><td></td><td></td><td>人·km-²人口密度变化的基础</td></tr></table></body></html>
+
+# 4.2 相关关系
+
+通过对甘肃省各县区1990—2015年人口密度变化与其影响因子PLS回归模型分析，得到各影响因子的重要性值以及回归系数（表4）。
+
+计算结果表明： $V I P > 0 . 8$ 的影响因子有5个，为初始人口密度和社会经济因素（表4）。VIP由高到低排序分别为：初始人口密度，在岗职工人数，人均社会消费品总额，地区生产总值，各县固定投资总额。 $V I P$ 介于 $0 . 5 \sim 0 . 8$ 之间的影响因子有城镇居民人均可支配收入； $V I P$ 小于0.5的影响因子有农村居民纯收入、人均GDP、多年平均降水、多年平均气温、地形起伏度、单位面积粮食产量。从回归系数看，初始人口密度、社会经济因素全部大于0，这说
+
+# 表41990—2015 年甘肃省人口密度变化影响因子的VIP值与BETA值
+
+Tab.4VIP and BETA values of population density change factors in Gansu Province from 199o to 2015   
+
+<html><body><table><tr><td>编号</td><td>影响因子</td><td>VIP</td><td>BETA</td></tr><tr><td>1</td><td>单位面积粮食产量</td><td>0.05</td><td>0.01</td></tr><tr><td>2</td><td>地形起伏度</td><td>0.29</td><td>-0.03</td></tr><tr><td>3</td><td>多年平均气温</td><td>0.28</td><td>0.03</td></tr><tr><td>4</td><td>多年平均降水</td><td>0.05</td><td>0.02</td></tr><tr><td>5</td><td>人均GDP</td><td>0.32</td><td>0.04</td></tr><tr><td>6</td><td>农村居民纯收入</td><td>0.44</td><td>0.05</td></tr><tr><td>7</td><td>城镇居民人均可支配收入</td><td>0.53</td><td>0.06</td></tr><tr><td>8</td><td>固定投资总额</td><td>0.97</td><td>0.11</td></tr><tr><td>9</td><td>地区生产总值</td><td>1.24</td><td>0.14</td></tr><tr><td>10</td><td>人均社会消费品总额</td><td>1.33</td><td>0.15</td></tr><tr><td>11</td><td>在岗职工人数</td><td>1.64</td><td>0.19</td></tr><tr><td>12</td><td>初始人口密度</td><td>2.08</td><td>0.24</td></tr></table></body></html>
+
+明其与1990—2015年人口密度之间呈正相关，即初始人口密度大的地区人口集聚速度越快。社会经济因素是人口密度大小变化的重要影响因素（经济发展好的地区，就业机会多，工资水平高吸引更多的人，再加良好的交通和信息交换，吸引更多外来人口）。这与实际相符，也符合经济的快速发展带动人口集聚的一般认识。然而在自然条件中，地形起伏度的回归系数小于0，这就说明1990一2015年人口密度变化与地形起伏度之间呈负相关，即地形起伏小的地区人口密度大，这一结果也与当地事实相符。在甘肃省地形平缓的地区人口远多于山区，陇东、陇中黄土高原地形相对平坦人口相对较多，而陇南山地南部、甘南州、祁连山区海拔高，地形起伏度大，人口稀疏。而其他因素对人口密度的影响不显著。结果表明，1990 年的初始人口密度、在岗职工人数、人均社会消费品总额、地区生产总值以及固定投资总额是人口分布格局形成的主要驱动因素。
+
+# 5结论
+
+本研究以常住人口数据为基础，通过对人口的空间分布特征、密度变化、均衡特征、重心等进行空间格局变化分析，揭示近25a甘肃省县域人口时空分布的时空格局，并选取12个自然、社会经济指标以及初始人口密度来分析甘肃省人口空间分布的影响因素。得到如下的结论：
+
+（1）甘肃省人口分布的空间特征形成“东南密集西北稀疏”格局。
+
+（2）从人口密度变化来看，相较于1990 年，2015 年全省87个研究单元中，67个县域属于快速增加和缓慢增加类型,20个县域属于快速降低和缓慢降低类型。近25a甘肃省人口分布的均衡性不断增强，且人口重心有向西北方向移动的趋势。
+
+（3）甘肃省人口分布格局的形成受社会经济因素与自然因素的同时作用，但在影响因素中初始人口密度和社会经济因素的影响最大。即初始人口密度大的地区人口增长速度越快,并且较高的经济发展水平是拉动人口迁入的主要驱动力。
+
+参考文献(References）  
+[1］胡焕庸,张善余.中国人口地理[M].上海;华东师范大学出版社,1984.[HU Huanyong,ZHANG Shanyu. The population geogra-phy of China[M].Shanghai; East China Normal University Press,1984.]  
+[2]贾占华,谷国锋.东北地区人口分布的时空演变特征及影响因素[J].经济地理,2016,36（1）:60-68.[JIA Zhanhua,GUGuofeng.The characteristics and influencing factors of time andspace in the population distribution of northeast China［J].Eco-nomic Geography,2016,36(1）:60-68.]  
+[3]胡焕庸.中国人口之分布[J].地理学报,1935,2(1):33-74.[HU Huanyong.Essays on China's population distribution[J].Acta Geographica Sinica,1935,2(1） :33-74.]  
+[4］葛美玲,封志明.基于GIS 的中国 2000 年人口格局:兼与胡焕庸1935 年之研究对比[J].人口研究,2008,32（1)：51-57.[GE Meiling,FENG Zhiming.Reaseach on distribution pattern ofpopulation of China in 2OOo based on GIS:Compared with HuHuanyong's research in 1935[J].Population Resarch,2008,32(1) :51-57.]  
+[5]王静爱.中国人口分布与可持续发展的模式选择[J].北京师范大学学报:社会科学版,1998,（1）:72-80.[WANG Jing'ai.The pattern of China's population distribution and the sustainabledevelopment[J]. Journal of Beijing Normal University:Social Sci-ences,1998,（1) :72 -80.]  
+[6]杨剑,蒲英霞,秦贤宏,等.浙江省人口分布的空间格局及其时空演变[J].中国人口·资源与环境,2010,20(3)：95-99.[YANG Jian,PU Yingxia,Qin Xianhong,etal.Thespatialdistri-bution patern of population and its analysis of the spatiotemporaldynamics in Zhejiang Province[J].China Population,Resourcesand Environment,2010,20(3）:95-99.]  
+[7]杨强,李丽,王运动.1935—2010 年中国人口分布空间格局及其演变特征[J].地理研究.2016,35（8）:1547-1560.[YANGQiang,LI Li,WANG Yundong. Spatial distribution pattern of popu-lation and characteristics ofits evolution in China during 1935-
+
+2010[J].Geographical Research,2016,35（8）:1547-1560.][8］张晶,封志明,杨艳昭.洛伦兹曲线及其在中国耕地、粮食、人口时空演变格局研究中的作用[J].干旱区资源与环境，2007，21（11）:63-67.[ZHANG Jing,FENG Zhiming,YANG Yanzhao.Lorenz curve and its application in the research of spatial-temporalpattern of cultivated land，grain and population in China[J]. Jour-nal of Arid Land Resources and Environment,2007,21（11）:63-67.]
+
+[9]韩嘉福,李洪省,张忠.基于Lorenz 曲线的人口密度地图分级方法[J].地球信息科学学报，2009，11（6）：833-838.［HANJiafu,LI Hongsheng,ZHANG Zhong. Classification method of pop-ulation density map based on Lorenz curve[J].Journal of Geo-In-formation Science,2009,11(6):833-838.]
+
+[10］张慧，建国以来山东省人口分布地域格局及集疏变化分析 [J].经济地理,2012,32（10）:28-35.[ZHANG Hui.Spatio temporal variations of population distribution and population concentration & decentralization with data at county level in recent 60 years in Shandong Province[J].Economic Geography,2O12,32 (10):28 -35.]
+
+[11］徐建华，岳文泽.近20a来中国人口重心与经济重心的演变及 其对比分析[J].地理学报,2001，21（5）：385-389.［XUJianhua,YUE Wenze.Evolvement and comparative analysis of the population center gravity and the economy gravity center in recent twenty years in China［J]．Acta Geographica Sinica,2001,21 (5):385 -389.]
+
+[12］葛美玲，封志明.中国人口分布的密度分级与重心曲线特征分 析[J].地理学报,2009,64（2）:202-210.［GEMeiling,FENG Zhiming.Population distribution of china based on GIS:Classification of population densities and curve of population gravity centers [J].Acta Geographica Sinica,2009,64(2）:202-210.]
+
+[13］王露，封志明,杨艳昭，等.2000—2010年中国不同地区人口密度变化及其影响因素［J].地理学报，2014,69（12）：1790-1798.[WANGLu,FENG Zhiming,YANG Yanzhao，et al.Thechange of population density and its influencing factors from 2000to 2010 in China on county scale[J].Acta Geographica Sinica,2014,69(12):1790-1798.]
+
+[14］于婷婷，宋玉祥,浩飞龙,等.东北三省人口分布空间格局演化及其驱动因素研究［J].地理科学，2017，37（5）：709－717.[YU Tingting,SONG Yuxiang,HAO Feilong,et al. Space patternevolution of population distribution and the driving factors in north-east China[J].Scientia Geographica Sinica,2017,37（5）:709-717.]
+
+[15］杨屹，朱彦臻，张景乾.关中一天水经济区生态足迹变化驱动 因素[J].生态学报,2017,37（21）：1547-1560.［YANGYi, ZHU Yanzhen,ZHANG Jingqian.The driving factors of ecological footprint change in Guanzhong one day water economic zone[J]. ActaEcologica Sinica,2017,37(21）:1547-1560.]
+
+[16］马明德，马学娟，谢应忠,等.宁夏生态足迹影响因子的偏最小 二乘回归分析［J].生态学报，2014，34（3）：682-689.［MA Mingde,MA Xuejuan,XIEYingzhong,etal.Analysis therela-tionship between ecological footprint（EF）of Ningxia and influ-encing factors:Partial least-squares regression（PLS)[J].Acta Ecologica Sinica,2014,34(3):682-689.]
+
+[17］邓楚雄，李民，宾津佑.湖南省人口分布格局时空变化特征及主要影响因素分析[J].经济地理，2017，238（12）：43－50.[DENG Chuxiong,LI Min,BINJinyou.Characteristics of spatialand temporal variation of population distribution pattern in HunanProvince and analysis of main influencing factors[J].EconomicGeography,2017,238（12）:43-50.]
+
+[18］王婧，刘奔腾，李裕瑞.京津冀人口时空变化特征及其影响因 素［J].地理研究,2018,37(9）:1802-1817.［WANG Jing,LIU Benteng,LI Yurui. Characteristics of spatial and temporal variation of population in Beijing,Tianjin and Hebei and its influencing factors[J].Geographical Research,2018,37(9）:1802-1817.]
+
+[19］柏中强，王卷乐，杨雅萍，等.基于乡镇尺度的中国25省区人口分布特征及影响因素［J].地理学报，2015，70（8）：1229-1242.[BAI Zhongqiang，WANG Juanle,YANG Yaping,et al.Characterizing spatial patterns of population distribution at town-shiplevel across the 25 provinces in China[J].Acta GeographicaSinica,2015,70(8):1229-1242.]
+
+[20］潘雯雯.湖北省人口分布的时空格局及影响因素研究[D].武汉：华中师范大学,2014.［PANWenwen.Study on the spatialand temporal pattern and influencing factors of population distribu-tion in Hubei Province[D].Wuhan：Central China Normal Uni-versity,2014.]
+
+[21］王荣,刘世锋.甘肃省县域人口时空格局演化特征分析[J].天水师范学院学报,2016,36（5）：19-26.［WANGRong,LIUShifeng.Analysis on the evolution characteristics of county popula-tion spatio temporal pattern in Gansu Province[J].Journal of Tian-shui Normal University,2016,36(5）:19-26.]
+
+[22］吉亚辉，张岩.2000—2010年甘肃人口分布演变特征分析[J].西北人口,2014,35（6）:104-109.［JI Yahui,ZHANGYan.Characteristics of population distribution and evolution in GansuProvince in the 2000-2010[J].Northwest Population,2014,35(6):104-109.]
+
+[23］张锦宗，朱瑜馨，李生明.ArcGIS 地统计分析在甘肃省人口空间分布研究中的应用[J].西北人口，2010，31（3）：91-94.[ZHANG Jingzong,ZHU Yuxin,LI Shengming.Application of Arc-GIS field statistical analysis in the study of population spatial dis-tribution in Gansu Province[J].Northwest Population,2010,31(3):91-94.]
+
+[24]郭志仪，曹建云.甘肃省人口分布变化及其原因分析[J].西北 人口,2006,27(3）:13-19.[GUO Zhiyi,CAO Jianyun.Analysis on the change of population distribution and its causes in Gansu Province[J].Northwest Population,2006,27(3）:13-19.]
+
+[25］唐嘉韵.甘肃省人口分布的时空格局及其影响因素研究[D]. 武汉：华中师范大学,2015.［TANGJiayun.Study on the spatial and temporal patern of population distribution and its influencing factors in Gansu Province[D].Wuhan：Central China Normal University,2015.]
+
+[26］刘睿文，封志明,杨艳昭,等.基于人口集聚度的中国人口集疏格局[J].地理科学进展，2010，29（10)：1171-1177.[LIURui-wen,FENG Zhiming,YANG Yanzhao,et al.Research on the spa-tial pattern of population agglomeration and dispersion in China[J].Progress in Geography,2010,29(10）:1171-1177.]
+
+[27］马颖忆，陆玉麒,张莉.江苏省人口空间格局变化特征[J].地 理科学进展,2012,31（2）:167-175.[MA Yingyi，LU Yuqi, ZHANG Li.Evolvement of spatial pattern of population with data at county level in Jiangsu Province[J].Progress in Geography,2012, 31(2):167 -175.]
+
+# Spatiotemporal patterns of population distributions and influencing factors over 25 years near Gansu Province
+
+WANG Fang-li1，DANG Guo-feng1,2 (1College of Geographyand Environment Sciences,Northwest Normal University,Lanzhou 730o70,Gansu,China; DigitalLanddvelopentdtionsechstituteofustalUesityzoosui
+
+Abstract：Population distribution isaffected bynatural,social,economic,and political factors,whichare manifestations of the spatial distribution of a population over a certain periodof time.Based on87 research units in 86 counties and Jiayuguan in Gansu Province,China,the distributioncharacteristics,densitychange,distribution structure index,Gini coeficient,and gravitytransfer of the study area from 1990 to 2O15 were analyzed.Considering the county area as the research unit,12 natural and socioeconomic factors were selectedand the factors affecting the spatial pattrns of the population distribution in Gansu Province were analyzed using the partial least squares （PLS) method.The study found as follows:(1） Over the past 25 years,there have been significant diferences in the spatial distribution ofthe population in Gansu Province,which have formed a patern of“sparse in the southeast and northwest".（2）From the perspectiveof population densitychanges,when compared to 1990,among the 87 research units in Gansu Province,67 counties in 2Ol5 belong to the rapid increase and slow increase types and 20 counties belong to the rapid reduction and slowdown types.（3）The development trend of a balanced population distribution for theentire province has increased.（4）Thecenterof gravityof the population distribution has gradually moved inthe northwest direction.（5）The formation of population distribution in Gansu Province is affected by naturaland socioeconomic factors；however,the level of social andeconomic development is the main factoraffecting the population distribution patterns.
+
+Key words:population distribution；spatiotemporal evolution；factor of influence；partial least squares；Gansu

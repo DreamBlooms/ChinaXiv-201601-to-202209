@@ -1,0 +1,193 @@
+# 内蒙古半干旱草原土壤水分对降水格局变化的响应
+
+陈敏玲1,2 张兵伟1,2 任婷婷1 王姗姗1.2 陈世苹1\*
+
+1中国科学院植物研究所植被与环境变化国家重点实验室，北京 100093;中国科学院大学生命科学学院，北京 100049摘要在全球气候变化背景下，未来我国北方半干旱地区的降水格局将呈现出季节与年际间降水波动增强和极端降水事件增加的趋势。水分是半干旱草原的主要限制因子，降水格局变化导致的土壤水分状况的改变必然对生态系统的结构和功能产生显著的影响。该研究选取内蒙古多伦和锡林浩特两个典型半干旱草原群落，通过分析2006-2013年的降水和多层次土壤$_ { ( 0 - 1 0 \ \mathrm { c m } }$ ， $1 0 \ \mathrm { c m }$ ， $2 0 ~ \mathrm { c m }$ ， $3 0 \ \mathrm { c m }$ 和 $1 5 0 ~ \mathrm { c m } ^ { \cdot }$ )含水量连续观测数据，研究降水格局变化对土壤水分状况及其垂直分布的影响，特别是土壤水分对降水事件的脉冲响应过程。结果表明：两个站点的土壤含水量均呈现显著的季节及年际间波动，其中土壤表层$0 { - } 1 0 \mathrm { c m }$ 水分波动更剧烈。锡林浩特 $: 5 0 \mathrm { c m }$ 处土壤含水量波动较大，主要由于春季融雪的影响。年际间多伦和锡林浩特生长季土壤表层 $_ { 0 - 1 0 \mathrm { c m } }$ 土壤含水量与降水量存在显著的正相关关系，下层( $( 1 0 - 5 0 \mathrm { c m } )$ 土壤含水量与降水量相关性不显著。研究发现小至 $2 \mathrm { m m }$ 的降水事件就能够引起两个站点表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量的升高，即该地区有效降水为日降水量 $\cdot > 2 \mathrm { m m }$ 。表层0-10cm土壤含水量对独立降水事件的脉冲响应可通过指数方程很好地拟合。降水事件的大小决定了降水后表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量的最大增量和持续时间，同时这个脉冲响应过程还受到降水前土壤含水量的影响，但该过程中并未发现植被因子(叶面积指数)的显著影响。降水后水分下渗深度及该深度的土壤含水量增量主要由降水事件的大小主导，同时受到降水前土壤含水量的影响。在多伦和锡林浩特，平均每增加 $1 \mathrm { m m }$ 降水，下渗深度分别增加1.06和 $\phantom { - } 0 . 7 9 \mathrm { c m }$ 。由此该文作者认为，在内蒙古半干旱草原，降水事件大小和降水前土壤干湿状况是影响土壤水分对降水响应的主要因素，而植被因子的影响较小。
+
+关键词降水事件；降水格局；脉冲响应；半干旱草原；土壤水分 引用格式：陈敏玲，张兵伟，任婷婷，王姗姗，陈世苹(2016).内蒙古半干旱草原土壤水分对降水格局变化的响应．植物生态学报，40,1-1.do: 10.17521/cjpe.2015.0155
+
+# Responses of soil moisture to precipitation pattern change in semiarid grasslands in Nei Mongol
+
+CHEN Min-Ling12, ZHANG Bing-Wei12, REN Ting-Ting1, WANG Shan-Shan12, and CHEN Shi-Ping1 Stateeyl Life Sciences,University ofChinese Academy of Sciences,Beijing1ooo49,China
+
+# Abstract
+
+AimsUnder global climate change,precipitation patterns were predicted to change with larger seasonal and annual variations and more extreme events in the semiarid regions of northern China. Water availability is one of the key limited factors insemiarid grasslands.Changes in precipitation pattrns will inevitably affect ecosystem structure and function through soil water condition. Our objective was to investigate the response of soil water content to changes of precipitation pattern, specially its pulse response to precipitation events.
+
+MethodsTwo semiarid steppe sites (Duolun and Xilinhot) in Nei Mongol were chosen and meteorological stations were installed to monitor precipitation and soil volumetric water content (VWC) at five soil depths $( 0 { - } 1 0 \mathrm { c m }$ $1 0 \mathrm { c m }$ $2 0 \mathrm { c m }$ ， $3 0 \mathrm { c m }$ $5 0 \mathrm { c m }$ ）from 2006 to 2013. The pulse response of VWC at $0 { - } 1 0 \mathrm { c m }$ to an individual precipitation event was simulated by an exponential equation.
+
+Important findingsSignificant seasonal and inter-annual variations of VWC were observed at the Duolun and Xilinhot sites. VWC at $5 0 \mathrm { c m }$ soil layer in Xilinhot showed an obvious increase during the early spring due to the influences of snow melting. Mean surface ( $_ { [ 0 - 1 0 \mathrm { c m } }$ soil layer) VWC was significantly correlated with annual precipitation across eight years, but $V W C$ in the deeper soil layers $( 1 0 - 5 0 \mathrm { c m } )$ ）were not impacted by precipitation. We also found that the precipitation event larger than $2 ~ \mathrm { m m }$ could induce a significant increase in surface ( $_ { ( 0 - 1 0 \ \mathrm { c m } }$ soil layer）VWC,and could be regarded as an eective precipitation in this region. The maximum increment of surface VWC after the events and lasting time ( $( T _ { \mathrm { l a s t i n g } } )$ were determined by the event size, while showed negatively linear correlations with the initial soil water content before the events.Vegetation development (leaf area index) did not show significant impacts on the responses of surface soil moisture to precipitation pulses.The infiltration depth ofrain water was also determined by rain size and pre-event soil moisture.In average,soil water can infiltrate $1 . 0 6 \mathrm { c m }$ and $0 . 7 9 \mathrm { c m }$ deeper in Duolun and Xilinhot with $1 \mathrm { m m }$ more precipitation,respectively. Therefore, our results suggest that the event size and pre-event soil moisture were the most important factors affecting response patterns of soil moisture to rain events in semiarid ecosystems.
+
+Key wordsprecipitation events; precipitation patterns; pulse responses; semiarid grassand; soil moisture
+
+Citation: ChenML,Zhang BW,RenTT, WangSS,Chen SP(2016). Responsesof soil moisture toprecipitationpatechange i semiarid grassands inNeiMongol. Chinese Journalof Plant Ecology,40,1-1.doi:10.17521/cjpe.2015.0155
+
+降水格局变化是全球气候变化的重要内容，包括降水量的变化、降水季节分布的变化，以及降水间隔的变化。许多大气环流模型都预测未来全球降水格局会发生重大改变(IPCC,2013)。据预测，全球气候变化将导致我国北方地区在未来100年内降水增加 $3 0 { \mathrm { - } } 1 0 0 ~ \mathrm { m m }$ (Ni & Zhang,2000)；同时还伴随着降水间隔增大、小降水事件减少和极端降水事件增加的趋势(Groisman et al.，1999；Easterling et al.,2000;Westraetal.,2014)。降水格局的变化最终会影响生态系统结构和功能(Knapp etal.,2002;Yahdjian& Sala,2006)。
+
+降水对生态系统的影响主要通过土壤水分的变化来实现，土壤水分的变化进一步调控生态系统的结构和功能(Harper et al.,2005;Fay et al.,2011)。Knapp等(2002)对一个北美湿润草原连续4年的降水格局控制实验发现：决定地上净初级生产力的是表层土壤水分的季节变异，而非季节平均值。这种变异主要是由于降水事件的不连续及其后的干旱间隔不一致导致(Huxman et al.，20o4;Williams et al.,2009)。一般情况下，降水发生之后，土壤含水量会快速增加，然后由于植物蒸腾利用及土壤表面蒸发而逐渐降低(Liuetal.,2002)，除非被另一个降水事件所打断，这一过程称为土壤含水量对降水事件的脉冲响应(Huxmanetal.,2004)。目前关于这种间断的降水事件对生态系统过程和功能的影响已有不少研究(Liu et al.，2002；Weltzin & Tissue，2003;Huxman etal.,2004;Pottsetal.,2006;Chen et al.,2009)，但对与之相应的土壤含水量的脉冲响应过程却还很少进行深入的研究，这在机制上限制了我们对生态系统响应过程的理解。
+
+在干旱半干旱地区，水分是主要的限制因子，而降水是这些地区的主要甚至是唯一的水分获得途径。同时干旱半干旱地区的降水格局也表现出降水的季节和年际变异大，小降水事件占主导但对降水总量的贡献小，大降水事件较少但对生态系统的影响大等特征(Huxmanetal.,2004)。在这一地区，草原是主要的植被类型，其面积占陆地自然植被面积的 $32 \%$ (Adams etal.,1990)。在我国，草原占国土面积的 $41 \%$ (陈佐忠和汪诗平,2000)。与其他生态系统相比，半干旱草原生态系统对水分的变化更为敏感(Knapp&Smith，2001)，对资源可利用性的瞬时波动响应更大(Blair,1997)。研究土壤水分对降水格局变化的响应有助于更深入地理解和解释未来降水格局变化对我国干旱半干旱生态系统关键过程的影响。本研究以我国内蒙古半干旱草原多伦和锡林浩特两个研究站点8年(2006-2013)连续观测数据为基础，分析降水格局变化对土壤含水量在不同时间尺度及其垂直分布的影响，以期为理解干旱半干旱生态系统对降水事件的响应提供理论基础。
+
+# 1 研究区域概况
+
+本研究选择了内蒙古锡林郭勒草原的多伦和锡林浩特两个站点。多伦县位于内蒙古锡林郭勒盟东南端，属于中温带半干旱大陆性气候，土壤类型主要是栗钙土。年降水量 $3 8 0 \mathrm { m m }$ (1952-2012年)，其中生长季(5-9月)降水占全年降水量的 $8 8 \%$ ，降水主要发生在6-8月。年平均气温 $2 . 2 \mathrm { ~ \textdegree ~ }$ ，生长季长约150天。本研究所选择的样地位于多伦县十三里滩，该样地于2001年作为长期研究样地围封，围封前为自由放牧草场。植被类型属于典型草原，优势植物主要有冷蒿(Artemisia frigida)和克氏针茅(Stipa krylovii)等。
+
+锡林浩特位于内蒙古高原典型的半干旱草原地区，在多伦县以北约 $2 4 0 ~ \mathrm { k m }$ 处。气候属于温带大陆性半干旱气候，土壤类型主要为栗钙土。放牧和打草是该地区主要的土地利用方式。该站点年降水量$3 3 2 ~ \mathrm { m m }$ (1982-2013年)，其中生长季(5-9月)降水占全年降水量的 $8 3 \%$ ，主要集中在6-8月。年平均气温$0 . 8 2 \mathrm { ~ \textdegree C }$ ，生长季长约150天。本研究选择的样地位于中国科学院内蒙古草原定位研究站羊草样地，该样地于2005年围封并在每年8月中旬左右打草，植被类型为典型草原，优势植物主要有大针茅(Stipagrandis)和羊草(Leymuschinensis)等。样地具体信息参见表1。
+
+# 2 研究方法
+
+# 2.1微气象观测系统
+
+在两个站点各安装了一套自动气象测定系统,包括大气温度和相对湿度探头(HMP45C，CampbellScientific，Logan，USA)测定大气温湿度，土壤温度探头(107,Campbell Scientific,Logan，USA)测定不同深度 $\boldsymbol { 5 } \ \mathrm { c m }$ ， $1 0 \ \mathrm { c m }$ ， $2 0 ~ \mathrm { c m } ,$ 的土壤温度，土壤水分测定探头(CS616,Campbell Scientific,Logan,USA)测定表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量，水分探头(EasyAG50，Campbell Scientific，Logan，USA)测定下层(10cm, $2 0 ~ \mathrm { c m }$ ， $3 0 ~ \mathrm { c m }$ ， $5 0 ~ \mathrm { c m } ,$ 土壤含水量，以及雨量筒(TE525MM，CampbellScientific，Logan，USA)测定降水量，辐射观测系统(CNR-1，Kipp& Zonen,Delft，Netherlands)监测生态系统入射和反射辐射，通过反射辐射与入射辐射的比值计算地表反照率。微气象站配备数据存储器(CR23X,Campbell Scien-tific,Logan,USA)，各观测变量每10s取样一次，储存并输出其 $3 0 ~ \mathrm { m i n }$ 的平均值。由于受雨量筒仪器的测量限制，无法观测冬季降雪量，本研究中冬季(11月到第二年3月)的降雪数据来自 $3 0 ~ \mathrm { k m }$ 外的多伦县气象站和 $1 5 ~ \mathrm { k m }$ 外的中国科学院内蒙古草原定位站气象观测站。
+
+# 2.2土壤容重和叶面积指数的测定
+
+土壤容重采用环刀法测定，分别测定两个站点$0 { \mathrm { - } } 1 0 0 \ { \mathrm { ~ c m } }$ 不同土层 $( 0 - 5 \ \mathrm { ~ c m }$ ， $5 { \mathrm { - } } 1 0 ~ { \mathrm { c m } }$ ， $1 0 { - } 2 0 ~ \mathrm { c m }$ $2 0 { - } 3 0 ~ \mathrm { c m }$ ， $3 0 { \mathrm { - } } 5 0 ~ { \mathrm { c m } }$ ， $5 0 { - } 7 0 ~ \mathrm { c m }$ ， $7 0 { \mathrm { - } } 1 0 0 \ { \mathrm { c m } }$ 的土壤容重(2011年测定)。叶面积指数 $( L A I )$ 采用收割法测定，生长季每月进行1-2次。具体而言，每次在每个样地取4个 $0 . 5 \ : \mathrm { m } \times 0 . 5 \ : \mathrm { m }$ 的样方，将地上部分分种收割，摘取全部绿色叶片，通过叶面积仪(LI-3000A,LI-COR，Lincoln，USA)扫描测定其叶面积，并除以样方面积换算出 $L A I$ (Burba& Verma,2005)。
+
+# 2.3降水事件的提取与参数拟合
+
+根据2006-2013年降水数据，选择独立的降水事件，并对每个降水事件过程中土壤含水量的变化进行参数拟合。本研究中独立降水事件的筛选条件为降水发生在一天 $( 2 4 \mathrm { ~ h } )$ 以内，降水前一天无降水发生，降水后3天内没有别的降水事件干扰。共筛选独立降水事件110个，其中多伦共筛选出59个独立降水事件，降水量变化范围为 $2 . 3 \mathrm { - } 3 9 . 3 \ \mathrm { m m }$ ，平均降水量为 $1 1 . 1 \ \mathrm { m m }$ ；锡林浩特共筛选出51个独立降水事件，降水量变化范围为 $1 . 5 { - } 5 0 . 5 \ \mathrm { m m }$ ，平均降水量为 $1 2 . 4 ~ \mathrm { m m }$ 。
+
+表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量 $( V W C _ { 0 - 1 0 } )$ 的变化过程可以用一个指数方程来模拟(Liuetal.,2002):
+
+其中, $y$ 表示降水发生后不同时间点的 $V W C _ { 0 - 1 0 }$ ， $y _ { 0 }$ 为降水前一天的 $V W C _ { 0 - 1 0 }$ 0 $\cdot V W C _ { \mathrm { P r e } } )$ ， $t$ 为降水发生后的时间， $a$ 和 $| b |$ 为方程参数(图1)。首先通过曲线拟合求出 $a$ 和 $b$ 两个参数，进而计算出降水后 $V W C _ { 0 - 1 0 }$ 能够达到的最大值 $( V W C _ { \operatorname { M a x } } )$ ，最后求出降水后 $V W C _ { 0 - 1 0 }$ 的最大增量 $( \varDelta V W C _ { 0 - 1 0 } )$ ，即 $V W C _ { \mathrm { M a x } }$ 与 $V W C _ { \mathrm { P r e } }$ 之间的差值。同时，求出该脉冲响应过程的持续时间 $T _ { \mathrm { l a s t i n g } }$ (降水后 $V W C _ { 0 - 1 0 }$ 高于 $V W C _ { \mathrm { P r e } }$ 的时间)。
+
+表1多伦和锡林浩特两个研究站点的基本信息  
+Table1 General information ofDuolun and Xilinhot sites   
+
+<html><body><table><tr><td>站点 Site</td><td>经纬度 Longitude and latitude</td><td>海拔 Altitude (m)</td><td>平均年降水量 Mean annual precipitation (mm)</td><td>年平均气温 Mean annual temperature (C）</td><td>土壤类型 Soil type</td><td>群落高度 Plant community height (cm)</td><td>地上生物量 Aboveground biomass (g·m-2)</td><td>优势植物 Dominant species</td><td>土地利用类型 Land use type</td></tr><tr><td>多伦 Duolun</td><td>42.05°N, 116.28°E</td><td>1350</td><td>380</td><td>2.2</td><td>栗钙土 Chestnut soils</td><td>42</td><td>174</td><td>冷蒿 Artemisia frigida 克氏针茅 Stipa krylovii</td><td>2001年围封 Fenced from 2001</td></tr><tr><td>锡林浩特 Xilinhot</td><td>43.55° N, 116.67E</td><td>1250</td><td>332</td><td>0.84</td><td>栗钙土 Chestnut soils</td><td>48</td><td>185</td><td>羊草 Leymus chinensis 大针茅 Stipa grandis</td><td>2005年围封并 打草 Fenced and clipped from</td></tr></table></body></html>
+
+![](images/620eea093604f5040ff54d7c22b9cf975debe455f1116765823e1ec0b1d881a6.jpg)  
+图1表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量 $\cdot V W C _ { 0 - 1 0 }$ $y )$ 对降水事件的脉冲响应模式图(参考Liuetal.,2002)。a和b，方程的参数; $P P T _ { \mathrm { { } } }$ ，降水事件，箭头指示降水事件发生的时间; $T _ { \mathrm { l a s t i n g } }$ ，脉冲响应的持续时间(降水后 $V W C _ { 0 - 1 0 }$ 高于$V W C _ { \mathrm { P r e } }$ 的时间); $\varDelta V W C _ { 0 - 1 0 }$ ，降水后 $V W C _ { 0 - 1 0 }$ 的最大增量; $V W C _ { \mathrm { M a x } } ,$ 降水后$V W C _ { 0 - 1 0 }$ 能够达到的最大值; $V W C _ { \mathrm { P r e } } \left( y _ { 0 } \right)$ ，降水前一天的 $V W C _ { 0 - 1 0 } ,$   
+Fig.1 Conceptual model of the pulse response of surface soil water content $( V W C _ { 0 - 1 0 } , y )$ to precipitation events (refer to Liu et al.,2002). $a$ and $b$ parameters of the equation; $P P T ,$ precipitation event,the arrow indicates the time when $P P T$ occurred; $T _ { \mathrm { l a s t i n g } }$ ，the lasting time of pulse response (the periods of $V W C _ { 0 - 1 0 }$ above $V W C _ { \mathrm { P r e } }$ after the $P P T )$ · $\varDelta V W C _ { 0 - 1 0 } ,$ maximum increment of $V W C _ { 0 - 1 0 }$ after the $P P T$ ： $V W C _ { \operatorname* { M a x } } ,$ maximum $V W C _ { 0 - 1 0 }$ after the PPT; $V W C _ { \mathrm { P r e } }$ $( y _ { 0 } )$ 5 $V W C _ { 0 - 1 0 }$ of the day before the $P P T$
+
+由于水分下渗的滞后性，下层( $1 0 \ \mathrm { c m }$ ， $2 0 \ \mathrm { c m }$ $3 0 \ \mathrm { c m }$ 和 $5 0 ~ \mathrm { c m } ,$ 土壤水分的动态变化过程无法通过上述指数方程拟合。结合已挑选的降水事件，用降水后土壤含水量实际达到的最大值与降水前土壤含水量的差值来确定该层次土壤含水量的最大增量。同时，通过比较不同层次土壤含水量的变化来确定降水后水分的最大下渗深度(Depth)，比如某次降水事件发生后， $1 0 \ \mathrm { c m }$ 和 $2 0 \ \mathrm { c m }$ 深处的土壤含水量分别增加了 $5 \%$ 和 $1 3 \%$ ，而 $3 0 \ \mathrm { c m }$ 和 $5 0 ~ \mathrm { c m }$ 深处的土壤含水量没有增加(有些还存在下降的过程)，就将该降水事件的Depth定为 $2 0 \mathrm { c m }$ 。将降水事件的Depth除以降水事件的大小(PPT)得到单位降水量的入渗深度(Depth/PPT)。
+
+# 2.4 统计分析
+
+本文生长季降水和土壤水分的研究时期是每年的4-10月。表层土壤含水量的脉冲响应过程的拟合和参数计算通过Matlab 7.1(TheMathworks,Natick,USA)来实现。采用多元逐步回归分析表层 $\varDelta V W C _ { 0 - 1 0 }$ 和 $T _ { \mathrm { l a s t i n g } }$ 的影响因子，采用线性回归分析降水事件大小对土壤不同层次 $\varDelta V W C _ { 0 - 1 0 }$ 的影响，采用配对 $t$ 检验比较两个站点不同层次土壤容重的差异，以上分析均通过SAS 9.1.3 (SAS Institute,Cary,USA)来进行。对两个站点之间的 $P P T \mathrm { - } \varDelta V W C _ { 0 - 1 0 }$ 和PPT-$T _ { \mathrm { l a s t i n g } }$ 关系的差异分析使用斜率比较软件Smatr.V2.0(Falsteretal.,2006)进行比较。文中所有作图均通过SigmaPlot 12.5 (Systat Software, San Jose,USA)完成。
+
+# 3 研究结果
+
+# 3.1降水与土壤含水量的季节与年际变化特征
+
+研究期间(2006-2013年)多伦和锡林浩特年降水量分别为 $3 1 0 . 8 ~ \mathrm { \ m m }$ 和 $2 7 4 . 5 \ \mathrm { \ m m }$ ，其中，生长季4-10月降水量分别占年降水总量的 $94 \%$ 和 $9 1 . 6 \%$ （图2)。多伦年平均气温 $2 . 5 \mathrm { ~ \ ^ ~ { ~ } C ~ }$ ，生长季平均气温12.2$\mathrm { { ^ \circ C } }$ ，非生长季平均气温 $- 1 1 \mathrm { ~ \textdegree C }$ ；锡林浩特年平均气温 $1 . 3 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，生长季平均气温 $1 2 . 1 ~ \mathrm { ~ \textdegree ~ }$ ，非生长季平均气温 $- 1 3 . 8 \mathrm { ~ \ ^ ~ { ~ } C ~ }$ (图2A，2B)。与该地区雨热同期相一致的是：两个站点叶面积指数也在7月份(锡林浩特)或8月份(多伦)达到峰值(图2C)。对于生长季降水来说，两个站点均呈现出干旱年份和湿润年份交替的规律。其中，仅多伦2006年生长季降水量 $4 2 3 \mathrm { ~ m m }$ 锡林浩特2012年生长季降水量 $4 1 2 \ \mathrm { m m }$ ，高于两个站点长期生长季降水均值，其余年份均低于长期降水均值(图3)，表明本研究期间处于该地区相对干旱的时期。
+
+伴随着年际间降水量的变化，生长季平均土壤含水量呈现显著的年际间波动(图3)。但只有$V W C _ { 0 - 1 0 }$ 与降水量之间存在显著的正相关关系(图4A,4B)。其中在锡林浩特站点，全年降水量对生长季 $V W C _ { 0 - 1 0 }$ 的解释度为 $6 8 \%$ $( p \ < \ 0 . 0 5 )$ ，高于生长季降水量的 $54 \%$ $( p < 0 . 0 5 )$ （图4B)。 $1 0 { - } 5 0 \mathrm { c m }$ 土层土壤平均含水量的年际变化与降水量的大小均无显著的相关关系 $( p > 0 . 0 5 )$ 。
+
+在生长季，两个站点 $0 { - } 3 0 ~ \mathrm { c m }$ 土层的土壤含水量呈现显著的季节波动，而 $3 0 { - } 5 0 ~ \mathrm { c m }$ 土层的土壤含水量的变化幅度显著低于上层土壤，特别是多伦,$3 0 { - } 5 0 ~ \mathrm { c m }$ 土层的土壤含水量在整个生长季维持相对稳定。在非生长季，两站点各层土壤水分都处于冻结状态(图5)。通过反照率的变化，发现在春季冻融时期(3-4月)锡林浩特冬季积雪覆被程度和时间都明显高于多伦，两个站点土壤含水量的变化显著不同(图5)。春季融雪期间，两个站点 $0 { - } 3 0 \mathrm { c m }$ 土层的土壤含水量均出现了显著升高的过程；但仅锡林浩特$3 0 { \ - } 5 0 \ \mathrm { c m }$ 土层的土壤含水量明显增加，而多伦30-
+
+![](images/ac3c6569599064726e8ed5eeffb58565abe2585f93a515f55c234f5a8f81fadf.jpg)  
+图2多伦(DL)和锡林浩特(XL)两个站点8年(2006-2013年)环境因子和植被因子月均值的动态变化(平均值±标准误差， $n = 8 \dot$ )。A，多伦平均月降水(柱形图)和气温(折线图)的季节变化。B，锡林浩特平均月降水(柱形图)和气温(折线图)的季节变化。C，多伦(DL)和锡林浩特(XL)月平均叶面积指数(LAI)的季节变化。  
+Fig.2Monthly means of environmental and vegetation factors across eight years (2006-2013) atDuolun (DL) and Xilinhot(XL) sites (mean $\pm { \cal S } E$ $n =$ 8).A,Seasonal variations of mean monthly precipitation (bar)and air temperature (line) of Duolun.B,Seasonal variations of mean monthly precipitation(bar) and air temperature (line) of Xilinhot.C,Seasonal variations of mean monthly leaf area index (LAI) atDuolun (DL)and Xilinhot (XL).
+
+$5 0 \mathrm { c m }$ 土层的土壤水分状况并没有发生明显变化。
+
+# 3.2表层土壤含水量对降水事件的响应
+
+结果显示， $2 . 3 ~ \mathrm { m m }$ 和 $1 . 5 ~ \mathrm { m m }$ 的降水事件可分别引起多伦和锡林浩特表层土壤含水量日均值的升高，最大增量为 $0 . 5 \%$ 。多元逐步回归分析表明：在两个站点，降水事件大小 $( P P T )$ 对表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量最大增量 $( \varDelta V W C _ { 0 - 1 0 } )$ 和持续时间 $( T _ { \mathrm { l a s t i n g } } )$ 的变化均有主导作用(表2)。在多伦PPT能够解释 $1 V W C _ { 0 - 1 0 }$
+
+![](images/c445fea84cdcecaefda1767be286f3836ac9299b9f8a5f312a401646c16dfdd8.jpg)  
+图3多伦(A)和锡林浩特(B)两个站点生长季不同土层平均土壤含水量 (点线图)和降水量(柱形图)的年际变化(2006-2013年)。 Fig.3Inter-annual variations of precipitation (bar) and soil water content (VWC) during the growing season at different soil depths (scatters and lines) at the two sites (A,Duolun;B,Xilinhot) from 2006 to 2013.
+
+$7 3 \%$ 的变化 $( p \ < \ 0 . 0 0 1 )$ ，解释 $T _ { \mathrm { l a s t i n g } }$ （204号 $43 \%$ 的变化 $( p \ <$ 0.001)；而在锡林浩特，分别为 $8 5 \%$ $( p \ < \ 0 . 0 0 1 )$ 和$6 5 \%$ $( p < 0 . 0 0 1 )$ (图6A,6B)。随着降水事件的增大,$\varDelta V W C _ { 0 - 1 0 }$ 和 $T _ { \mathrm { l a s t i n g } }$ 都呈显著增加的趋势，但 $\varDelta V W C _ { 0 - 1 0 }$ （204号 $( p = 0 . 9 7 2 )$ 与 $T _ { \mathrm { l a s t i n g } }$ $( p = 0 . 8 5 3 )$ 对PPT的响应在两个站点之间没有显著差异(图6A，6B)。同时 $\varDelta V W C _ { 0 - 1 0 }$ 和 $T _ { \mathrm { l a s t i n g } }$ 在两个站点也都受到了降水前土壤水分状况 $( V W C _ { \mathrm { P r e } } )$ 的负作用，即 $V W C _ { \mathrm { P r e } }$ 越高，降水后$\varDelta V W C _ { 0 - 1 0 } / P P T$ 和 $T _ { \mathrm { l a s t i n g } }$ 越小(图6D,6E)。
+
+# 3.3深层土壤含水量对降水事件的响应
+
+降水后水分会进一步下渗，两个站点降水后水分的最大下渗深度(Depth)与PPT呈显著的正相关关系，PPT分别能够解释多伦和锡林浩特Depth的 $67 \%$ $( p < 0 . 0 0 1 )$ 和 $1 6 3 \%$ 1 $( p < 0 . 0 0 1 )$ (图7A)。降水量平均每增加 $1 ~ \mathrm { m m }$ ，下渗深度在多伦和锡林浩特分别增加$1 . 0 6 \mathrm { c m }$ 和 $\mathrm { 0 . 7 9 c m }$ (图7A)。同时， $V W C _ { \mathrm { P r e } }$ 也是影响土壤水分下渗的重要因素，表现为 $V W C _ { \mathrm { P r e } }$ 越高，单位降水的下渗深度(Depth/PPT)越大 $( p < 0 . 0 1 )$ (图7B)。
+
+表2降水后表层土壤含水量最大增量 八日里(u-iu/大(lastng)H $( \varDelta V W C _ { 0 - 1 0 } )$ 和持续时间 $( T _ { \mathrm { l a s t i n g } } )$ 的多元逐步回归分析结果 Table 2Results of the multiple stepwise regressions on increment of surface soil water content ( $\cdot \varDelta V W C _ { 0 - 1 0 } )$ and lasting time $( T _ { \mathrm { l a s t i n g } } )$ after the precipitation event at the two sites   
+
+<html><body><table><tr><td>因变量 Variable</td><td>站点 Site</td><td>进入变量 Entered variable</td><td>移除变量 Removed variable</td><td>参数估计 Parameter estimate</td><td>偏R² Partial R²</td><td>模型R² Model R²</td><td>P</td></tr><tr><td>AVWC0-10</td><td>多伦 Duolun</td><td>方程截距 Intercept</td><td></td><td>2.32</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>PPT</td><td></td><td>0.38</td><td>0.73</td><td>0.73</td><td><0.001</td></tr><tr><td></td><td></td><td>VWCPre</td><td></td><td>-0.19</td><td>0.06</td><td>0.79</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td>STPre</td><td>-0.08</td><td>0.00</td><td>0.79</td><td>0.282</td></tr><tr><td></td><td>锡林浩特</td><td></td><td>LAI</td><td>1.30</td><td>0.00</td><td>0.79</td><td>0.340</td></tr><tr><td></td><td>Xilinhot</td><td>方程截距 Intercept</td><td></td><td>0.92</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>PPT</td><td></td><td>0.35</td><td>0.52</td><td>0.85</td><td><0.001</td></tr><tr><td></td><td></td><td>VWCPre</td><td></td><td>-0.08</td><td>0.08</td><td>0.01</td><td>0.084</td></tr><tr><td></td><td></td><td></td><td>STPre</td><td>0.01</td><td>0.00</td><td>0.86</td><td>0.820</td></tr><tr><td>Tlasting</td><td>多伦</td><td></td><td>LAI</td><td>0.58</td><td>0.00</td><td>0.86</td><td>0.356</td></tr><tr><td></td><td>Duolun</td><td>方程截距 Intercept</td><td></td><td>11.63</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>PPT</td><td></td><td>0.33</td><td>0.33</td><td>0.33</td><td><0.001</td></tr><tr><td></td><td></td><td>VWCPre</td><td></td><td>-0.42</td><td>0.22</td><td>0.55</td><td><0.001</td></tr><tr><td></td><td></td><td>STPre</td><td></td><td>-0.17</td><td>0.05</td><td>0.60</td><td>0.011</td></tr><tr><td></td><td>锡林浩特</td><td></td><td>LAI</td><td>0.74</td><td>0.00</td><td>0.60</td><td>0.680</td></tr><tr><td></td><td>Xilinhot</td><td>方程截距 Intercept</td><td></td><td>6.53</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>PPT</td><td></td><td>0.31</td><td>0.52</td><td>0.52</td><td><0.001</td></tr><tr><td></td><td></td><td>VWCPre</td><td></td><td>-0.27</td><td>0.08</td><td>0.60</td><td>0.003</td></tr><tr><td></td><td></td><td></td><td>STPre LAI</td><td>-0.00 0.95</td><td>0.00 0.00</td><td>0.60 0.60</td><td>0.997</td></tr></table></body></html>
+
+自变量包括降水事件大小 $( P P T )$ 、降水前土壤含水量( $\cdot \mathit { V W C } _ { \mathrm { P r e } } )$ 、降水前土壤5cm处温度 $( S T _ { \mathrm { P r e } } )$ 和叶面积指数 $( L A I ) _ { \mathfrak { c } }$ The independent variables included the event size $( P P T )$ ,soilwater content before the event $( V W C _ { \mathrm { P r e } } )$ ,soil temperature at $5 \mathrm { c m }$ depth $( S T _ { \mathrm { P r e } } )$ before the event, and leaf area index $( L A I )$
+
+![](images/cecd1d35a97c971f159b83a2383b28c5fa0c82dab5eef7cd533a66a3d2a2f435.jpg)  
+图4多伦(A)和锡林浩特 $\mathbf { \left( B \right) }$ 两个站点降水量与生长季平均表层土壤含 水量 $( V W C _ { 0 - 1 0 } )$ 的关系。GSP，生长季降水量;AP，年降水量。\*, $p < 0 . 0 5 .$ 号 Fig.4Relationships between surface soil water content $( V W C _ { 0 - 1 0 } )$ and precipitation during the growing season at the two sites (A,Duolun;B, Xilinhot). GSP,the growing season precipitation；AP,annual precipitation. \*， $p < 0 . 0 5$
+
+![](images/48e8c509b99fbe2d94c99ecce2f6bb19692f757412853dbd0c2d2e7c575c6a00.jpg)  
+图5多伦(A)和锡林浩特(B)两个站点不同土层日均土壤含水量(VWC)与反照率的动态变化(2006-2013年)。Fig.5Seasonal dynamics of mean daily mean soil water content(VWC) atdifferent soil depths and albedo at the two sites (A,Duolun;B,Xilinhot)from 2006 to 2013.
+
+![](images/95d7e9010520723b627e808e2091c93199e34a938593dad86a800e468ffd1902.jpg)  
+图6多伦(DL)和锡林浩特(XL)两站点降水脉冲响应过程的表层 $0 { \mathrm { - } } 1 0 \ \mathrm { c m }$ 土壤含水量最大增量 $( \varDelta V W C _ { 0 - 1 0 } )$ ，持续时间 $( T _ { \mathrm { l a s t i n g } } )$ 和降水事件大小 $( P P T )$ ，降 水前土壤含水量 $( V W C _ { \mathrm { P r e } } )$ 之间的关系。A, $\varDelta V W C _ { 0 - 1 0 }$ 和PPT的关系。B, $T _ { \mathrm { l a s t i n g } }$ 和PPT的关系。 $\mathbf { C } , \varDelta V W C _ { 0 - 1 0 }$ 和 $V W C _ { \mathrm { P r c } }$ 的关系。 $\mathbf { D }$ $T _ { \mathrm { l a s t i n g } }$ 和 $V W C _ { \mathrm { P r e } }$ 的关系。 $\mathbf { E }$ 单位降水引起的表层土壤水分增量 $( \varDelta V W C _ { 0 - 1 0 } / P P T )$ 和 $V W C _ { \mathrm { P r e } }$ 的关系。 $\ast \ast \ast$ $p < 0 . 0 0 1$ ；\*， $p < 0 . 0 5 0$ #, $p < 0 . 1 0 0$ 。 Fig.6Relationships of the maximum increment of surface $0 { \mathrm { - } } 1 0 ~ \mathrm { c m }$ soil water content $( \varDelta V W C _ { 0 - 1 0 } )$ and lasting time $( T _ { \mathrm { l a s t i n g } } )$ in the pulse response process to precipitation with precipitation event size (PPT) and soil moisture content before precipitation events $\cdot \mathit { V W C } _ { \mathrm { P r e } } )$ at the two sites (DL,Duolun; XL, Xilinhot).A, Relationship between $\varDelta V W C _ { 0 - 1 0 }$ and $P P T$ B,Relationship between $T _ { \mathrm { l a s t i n g } }$ and $P P T$ C, Relationship between $\varDelta V W C _ { 0 - 1 0 }$ and $V W C _ { \mathrm { P r e } }$ .D,Relationship between $T _ { \mathrm { l a s t i n g } }$ and $V W C _ { \mathrm { P r e } }$ .E,Relationship between the maximum increment of $\varDelta V W C _ { 0 - 1 0 }$ induced by $1 \mathrm { m m }$ precipitation and $V W C _ { \mathrm { P r e } }$ $\ast \ast \ast$ $p < 0 . 0 0 1$ ；\* ${ . p < 0 . 0 5 0 }$ ；#, $p$ （20 $< 0 . 1 0 0$ ：
+
+![](images/37a1317fa3277c10e0aafbc2d75d3512e2bd0eeb751e4f8b69d6a7ea804d57c2.jpg)  
+图7多伦(DL)和锡林浩特(XL)两站点降水后土壤水分下渗深度(Depth)与降水事件大小 $( P P T )$ 及降水前土壤含水量 $\cdot \mathit { V W C } _ { \mathrm { P r e } } )$ 的关系。A,Depth与PPT的 关系。B，单位降水入渗深度(Depth/PPT)与 $V W C _ { \mathrm { P r e } }$ 的关系。 $\ast \ast \ast \ast$ $p < 0 . 0 0 1$ $^ { * * }$ $p < 0 . 0 1 0 \circ$ Fig.7Relationships between infiltration depth (Depth) with precipitation event size $( P P T )$ and soil water content before the events ( $| V W C _ { \mathrm { P r e } } )$ at the two sites (DL,Duolun； XL,Xilinhot).A,Relationship between Depth and $P P T .$ B,Relationship between infiltration depth of $1 ~ \mathrm { m m }$ precipitation (Depth/PPT) and $V W C _ { \mathrm { P r e } }$ $\ast \ast \ast$ $p < 0 . 0 0 1$ ；\*\*， $p < 0 . 0 1 0$
+
+分析显示：在多伦和锡林浩特， $P P T$ 分别能解释土壤 $1 0 \mathrm { c m }$ 深处含水量增量的 $54 \%$ $( p < 0 . 0 0 1 )$ 和 $7 2 \%$ $\scriptstyle { \mathcal { P } }$ $\textless 0 . 0 0 1 \textless$ ；解释 $2 0 \ \mathrm { c m }$ 深处土壤含水量增量的 $34 \%$ $( p$ $< 0 . 0 5 )$ 和 $167 \%$ $( p < 0 . 0 0 1 )$ ；两个站点 $3 0 \ \mathrm { c m }$ 深处土壤含水量增量均能被PPT解释 $7 7 \%$ $( p \ : = \ : 0 . 0 0 9 \ : 4$ ， $p =$ 0.0513)(表3)。由于能下渗至 $5 0 \mathrm { c m }$ 处的降水事件在两个站点较少 $( n \leqslant 3 )$ ，故而未作相关分析。尽管在不同层次PPT对土壤含水量增量的解释度在两个站点有所差异，但并未发现两个站点不同层次土壤含水量增量对PPT的响应关系存在显著差别(表3)。
+
+表3不同土层降水后土壤水分增量 $( \boldsymbol { y } , \mathcal { Y } )$ 与降水事件大小 $( x , \mathrm { m m } )$ 的线性回归分析结果(包括回归方程， $R ^ { 2 }$ 和 $\mid p$ 值 Table 3Results of linear regression (including equation, $R ^ { 2 }$ and $p$ value) between precipitation event size (x, mm) and the increment of soil water content (y, $\% )$ at different soil depth   
+
+<html><body><table><tr><td rowspan="2">土层 Soil layer (cm)</td><td colspan="4">多伦 Duolun</td><td colspan="4">锡林浩特 Xilinhot</td></tr><tr><td>方程 Equation</td><td>样本量 No. of samples</td><td>R</td><td>p</td><td>方程 Equation</td><td>样本量 No. of samples</td><td>R</td><td>p</td></tr><tr><td>10</td><td>y= 0.31x-0.37</td><td>40</td><td>0.54</td><td><0.000 1</td><td>y= 0.39x-0.91</td><td>40</td><td>0.72</td><td><0.000 1</td></tr><tr><td>20</td><td>y = 0.20x + 0.44</td><td>14</td><td>0.34</td><td>0.0298</td><td>y=0.34x-3.45</td><td>17</td><td>0.67</td><td><0.000 1</td></tr><tr><td>30</td><td>y= 0.38x-7.56</td><td>7</td><td>0.77</td><td>0.009 4</td><td>y= 0.27x-4.12</td><td>5</td><td>0.77</td><td>0.0513</td></tr></table></body></html>
+
+# 4讨论
+
+# 4.1降水量季节和年际变化对土壤含水量的影响
+
+本研究中，我们发现伴随着降水量的年内年际间变化，各层土壤含水量也呈现出显著的变化，但在年际间只有表层土壤含水量跟降水量呈现出显著的相关关系。这是因为尽管土壤含水量直接决定于降水量，但同时也会受到降水格局变化的影响。以往的研究发现在不改变降水总量的情况下，降水间隔的延长可以显著升高干旱地区的土壤含水量(Heisler-Whiteetal.,2009)，而降低湿润生态系统的土壤含水量(Knapp et al.,2002;Heisler-White et al.,2009)。同时生长季土壤含水量还会受到非生长季降雪的影响，但这个影响在多伦站点并不明显；而在锡林浩特站点，年降水量对生长季土壤含水量的解释度 $( 6 8 \% )$ 显著高于生长季降水量 $( 5 4 \% )$ 。这是由于冬季锡林浩特的大量积雪在春季集中融化，进而对土壤含水量产生相对持久的影响；而多伦由于气温相对较高，很少有雪累积下来，因而冬季降雪对生长季水分状况并没有比较明显的影响。
+
+# 4.2降水事件对土壤含水量的影响
+
+土壤水分变化对降水事件的响应是一个非常复杂的过程，因为该过程不仅受降水事件大小的主导(Heisler-Whiteetal.,2008)，还受到降水强度(Yaseefetal.，2010)、干旱期长短、植被类型和土壤质地(Milleretal.,1983)等的影响。
+
+一般小降水事件发生后，由于植被冠层截留和凋落物层的影响，降水很少能被土壤吸收，那么，多大的降水才能透过冠层和凋落物对土壤和植被生长产生影响呢？这就涉及有效降水的界定。针对不同的研究目的，研究人员得出了不同的有效降水的定义与大小。Coupland (1950)认为对于干旱半干旱地区，大于 $8 { - } 1 0 \ \mathrm { m m }$ 的降水事件才能算作有效降水;但也有一些研究认为小降水事件对干旱生态系统也至关重要(Sala&Lauenroth,1982;Loiketal.,2004;Ryeletal.,2004)。小降水事件可以通过湿润土壤表面及增加大气湿度来缓解植物的干旱胁迫，增加其在干旱环境中的存活几率，进而在大降水事件来临时使其能够迅速激活并生长(Huxman etal.,2004)。在本研究区域，郝彦宾(2006)和苗海霞(2008)分别基于降水对生态系统碳通量和蒸发散的影响认为在内蒙古半干旱草原大于 $3 \mathrm { m m }$ 的降水为有效降水。
+
+本研究发现 $2 . 3 ~ \mathrm { m m }$ 和 $1 . 5 \ \mathrm { m m }$ 的降水就能够促进多伦和锡林浩特表层土壤含水量的增加。因此,我们认为大于 $2 \ \mathrm { m m }$ 的日降水量在内蒙古半干旱草原具有湿润表层土壤的作用，进而可将其作为该地区生态系统的有效降水量，这一结果与Heisler-White等(2008)的研究结果一致。但在分析中我们也发现一些大于 $2 \ \mathrm { m m }$ 的降水有时并未引起土壤含水量的变化，这主要跟降水的强度和发生时间有关。 $2 \mathrm { m m }$ 的降水集中发生和分散发生被冠层截留掉的比例是不一样的。在生长季旺季，植被盖度较高也会截留相对较多的雨水，从而导致降水的有效性降低。大的降水事件能够影响到深层的土壤，本研究中 $3 0 ~ \mathrm { m m }$ (多伦)和 $4 0 ~ \mathrm { m m }$ (锡林浩特)的降水能够下渗到 $5 0 \mathrm { c m }$ 处并对土壤水分产生有效的补给。针对小降水事件减少而大降水事件增加的影响的研究是当前降水格局变化研究的重要内容之一(Knapp etal.，2008)。小降水减少将导致降水间隔增加，而使得表层土壤更加频繁、长期地处于干旱状况，而大降水事件的增加会促进更多水分下渗到深层土壤(Huxman et al.,2004,Thomeyet al.,2011)，这种表层和深层土壤水分不同的变化可能会进一步导致生态系统结构和功能的改变(Huxmanet al.,2004)。在北美一个湿润的高草草原上的研究发现延长降水间隔引起的大降水事件的增加促进了物种的多样性，主要是因为稀有种类的增加(Knappetal.,2002)。研究也发现在干旱半干旱地区，减少小降水事件、增加大降水事件会显著增加土壤水分的可利用性，进而促进生态系统的生产力(Schwinning& Sala,2004;Heisler- White et al.，2009； Thomey et al.,2011;Wilcox et al.，2015)，在湿润地区则相反(Knapp etal.,2002;Heisler-Whiteetal.,2009)。不同的生态系统对降水格局变化响应的差异与植物的根系分布相关。在干旱生态系统植物根系分布较深，而在湿润生态系统根系分布较浅(Schenk & Jackson，2005),深根系统对深层水分的变化响应较强，而浅根植物更容易受到表层干旱的抑制。
+
+本研究表明不同层次土壤含水量的增量与降水强度显著正相关，而干旱期长短也会影响土壤含水量对降水事件的响应。干旱期长短表现在降水前土壤含水量的高低，本研究发现降水前土壤含水量越低，土壤含水量对降水事件的响应就越大(更大的$\varDelta V W C _ { 0 - 1 0 } / P P T )$ 。降水前含水量越高，降水后表层土壤水分增加的潜力也越小，水分下渗的速度和深度就会增加。此外，一个地区的植被类型在水分的再分配和蒸发散的过程中扮演重要角色，进而也会影响到土壤水分的动态(Ryel et al.，2004；Oki &Kanae,2006)。但是在多元逐步回归分析中并未发现植被叶面积指数对土壤水分的脉冲过程的显著影响。研究发现多伦和锡林浩特土壤水分对降水事件的响应没有差异 $( \varDelta V W C _ { 0 - 1 0 }$ 和 $T _ { \mathrm { l a s t i n g } } )$ ），原因可能在于两个地方都是典型草原，拥有相似的植被类型且群落高度和生物量比较接近(表1)，生长季最大 $L A I$ 也很接近(图2C)。与锡林浩特站点相比，多伦单位降水量的增加能够在土壤中下渗更深，这主要跟两个站点的土壤质地、地形和土地利用类型有关。多伦站点地处河滩，土壤容重较大(图8)，且土壤中石砾含量较多，较小的土壤孔隙度会增加土壤水分的下渗深度。同时，相比于地处缓坡 $( 3 ^ { \circ } - 4 ^ { \circ } )$ 且每年打草的锡林浩特站点，多伦站样地为长期围封样地且地势平坦，累积较多的凋落物，也有助于降水时雨水的保持及下渗。
+
+# 5结论
+
+降水量的季节和年际变化显著影响多伦和锡林浩特草原 $0 { - } 3 0 ~ \mathrm { c m }$ 土层的土壤含水量，而对 $3 0 \ \mathrm { c m }$ 以下更深土层土壤含水量的影响较小。在锡林浩特站点， $3 0 { - } 5 0 ~ \mathrm { c m }$ 土层的土壤含水量受春季融雪的影响大。
+
+![](images/205660f58263ce6b080c3488cf9c2c6e010f37dc07fcf3aa083f7c26a40bc36d.jpg)  
+图8多伦(DL)和锡林浩特(XL)两站点土壤容重垂直分布 $( 0 { \mathrm { - } } 1 0 0 \ \mathrm { c m } )$ 。 \*表示两个站点之间存在显著差异 $( p < 0 . 0 5 0 , n = 5 )$ 。 Fig.8Vertical distributions of soil bulk density $( 0 { - } 1 0 0 \ \mathrm { c m } )$ atthetwo sites (DL,Duolun;XL,Xilinhot).\* indicates significant difference between the two sites at $p < 0 . 0 5 0$ 1 $\langle n = 5 \rangle$ ）
+
+多伦和锡林浩特土壤含水量对降水事件的脉冲响应没有显著差异。降水事件大小和降水前土壤水分状况是影响表层土壤含水量对降水事件脉冲响应过程的最重要影响因素，大的降水事件能引起土壤含水量更强脉冲响应(较大的土壤水分增量和响应持续时间)。土壤水分的下渗深度及该深度层次的土壤含水量增量主要由降水事件大小主导，同时受降水前表层土壤含水量的影响。在多伦和锡林浩特,平均每增加 $1 ~ \mathrm { m m }$ 降水，下渗深度分别增加1.06和$0 . 7 9 \ \mathrm { c m }$ 。由此，在内蒙古半干旱草原，降水事件大小和降水前土壤干湿状况是影响土壤水分对降水响应的主要因素，而植被因子的影响相对较小。未来在研究生态系统对降水事件响应的过程中，不仅需要考虑降水事件的大小，而且不能忽略降水前干湿状况即干旱间隔的影响。
+
+基金项目国家自然科学基金面上项目(31170453)和中国科学院战略性先导科技专项-应对气候变化的碳收支认证及相关问题(XDA05050402)。
+
+# 参考文献
+
+AdamsJM,FaureH,FauredenardL,McgladeJM,Woodward FI(199O).Increases in terrestrial carbon storage from the last glacial maximum to the present. Nature,348,711- 714.   
+Blair JM(1997).Fire,N availability,and plant response in grasslands:A test of the transient maxima hypothesis. Ecology,78,2359-2368.   
+Burba GG,Verma SB(2Oo5).Seasonal and interannual variability in evapotranspiration of native tallgrass prairie and cultivated wheat ecosystems.Agricultural and Forest Meteorology,135,190-201.   
+Chen SP,Lin GH, Huang JH, Jenerette GD (2009). Dependence of carbon sequestration on the differential responses of ecosystem photosynthesis and respiration to rain pulses in a semiarid steppe. Global Change Biology,15,2450-2461.   
+Chen ZZ,Wang SP (2000). Typical Steppe Ecosystems of China.Science Press,Beijing.(in Chinese)[陈佐忠，汪诗 平 (2000)．中国典型草原生态系统．科学出版社，北 京]   
+Coupland RT (195O). Ecology of mixed prairie in Canada. Ecological Monograph, 20,271-315.   
+Easterling DR,Meehl GA,Parmesan C, Changnon SA,Karl TR,Mearns LO (2000). Climate extremes: Observations, modeling,and impacts. Science,289,2068-2074.   
+Falster DS,Warton DI,Wright IJ (2OO6). SMATR:Standardised major axis tests and routines,ver 2. O. http://www.bio. mq.edu.au/ecology/SMATR/. Cited 11 Mar. 2006.   
+Fay PA,Blair JM,Smith MD,Nippert JB,Carlisle JD, Knapp AK (2011). Relative effects of precipitation variability and warming on tallgrass prairie ecosystem function. Biogeosciences,8,3053-3068.   
+Groisman PY,Karl TR,Easterling DR,Knight RW, Jamason PF,Hennessy KJ, Suppiah R,Page CM,Wibig J,Fortuniak K, Razuvaev VN, Douglas A,Fprland Eirik, Zhai PM (1999). Changes in the probability of heavy precipitation: Important indicators of climatic change. Climatic Change, 42,243-283.   
+Hao YB (2006). Characteristics of Net Ecosystem Exchange of Carbon Dioxide and Their Driving Factors over a Fenced Leymus chinensis Steppe in Inner Mongolia. PhD dissertation,Institute of Botany,Chinese Academy of Sciences, Beijing.115-117.(in Chinese with English abstract) [郝彦 宾 (2006).内蒙古羊草草原碳通量观测及其驱动机制 分析．博士学位论文，中国科学院植物研究所，北京. 115-117.]   
+Harper CW,Blair JM,Fay PA,Knapp AK,Carlisle JD (2005). Increased rainfall variability and reduced rainfall amount decreases soil $\mathrm { C O } _ { 2 }$ flux in a grassland ecosystem. Global Change Biology,11,322-334.   
+Heisler-White JL, Blair JM, Kelly EF,Harmoney K,Knapp AK (2009). Contingent productivity responses to more extreme rainfall regimes across a grassland biome. Global Change Biology,15,2894-2904.   
+Heisler-White JL，Knapp AK,Kelly EF (2008). Increasing precipitation event size increases aboveground net primary productivity in a semi-arid grassland. Oecologia,158, 129-140.   
+Huxman TE, Snyder KA, Tissue D, Leffler AJ, Ogle K, Pockman WT, Sandquist DR,Potts DL, Schwinning S (2004). Precipitation pulses and carbon fluxes in semiarid and arid ecosystems. Oecologia, 141,254-268.
+
+www.plant-ecology.com
+
+IPCC (Intergovernmental Panel on Climate Change）(2013). Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press, New York.   
+Knapp AK, Beier C, Briske DD, Classen AT,Luo YQ, Reichstein M, Smith MD, Smith SD,Bell JE,Fay PA,Heisler JL,Leavitt SW, Sherry R, Smith B,Weng E (2008). Consequences of more extreme precipitation regimes for terrestrial ecosystems. Bioscience,58,811-821.   
+Knapp AK, Fay PA, Blair JM, Collins SL, Smith MD,Carlisle JD，Harper CW，Danner BT，Lett MS，McCarron JK (2002). Rainfall variability,carbon cycling,and plant species diversity in a mesic grassland. Science, 298,2202- 2205.   
+Knapp AK,Smith MD (2001).Variation among biomes in temporal dynamics of aboveground primary production. Science,291,481-484.   
+Liu XZ, Wan SQ, Su B, Hui DF,Luo YQ (2002). Response of soil $\mathrm { C O } _ { 2 }$ efflux to water manipulation in a tallgrass prairie ecosystem.Plant and Soil,240,213-223.   
+Loik ME,Breshears DD,Lauenroth WK,Belnap J (2004).A multi-scale perspective of water pulses in dryland ecosystems: Climatology and ecohydrology of the western USA. Oecologia,141,269-281.   
+Miao HX (2Oo8). Efects of Cultivation and Grazing on Evapotranspiration of Steppe Ecosystems in Inner Mongolia,China.PhD dissertation, Institute of Botany,Chinese Academy of Sciences,Beijing. 62-74. (in Chinese with English abstract）[苗海霞(2008).开垦和放牧对内蒙古 半干旱草原蒸发散的影响．博士学位论文，中国科学院 植物研究所，北京.62-74.]   
+Miller PC,Poole DK,Miller PM (1983). The Influence of annual precipitation,topography，and vegetative cover on soil moisture and summer drought in Southern California. Oecologia, 56,385-391.   
+Ni J, Zhang XS (2Ooo). Climate variability,ecological gradient and the Northeast China Transect (NECT). Journal of Arid Environments,46,313-325.   
+Oki T,Kanae S (2006). Global hydrological cycles and world water resources. Science, 313,1068-1072.   
+Potts DL,Huxman TE,Cable JM,English NB,Ignace DD, Eilts JA,Mason MJ,Weltzin JF,Williams DG (2006). Antecedent moisture and seasonal precipitation influence the response of canopy-scale carbon and water exchange to rainfall pulses in a semi-arid grassland.New Phytologist, 170,849-860.   
+Ryel RJ, Leffler AJ, Peek MS,Ivans CY, CaldwellMM (2004). Water conservation in Artemisia tridentata through redistribution of precipitation. Oecologia, 141, 335-345.   
+Sala OE,Lauenroth WK(1982). Small rainfall events: An ecological role in semiarid regions. Oecologia, 53,301-304.   
+Cohanb UI Innlcon DR(2nn5） lnhnldiotrihntion of deep roots in relation to climate and soil characteristics. Geoderma,126,129-140.   
+Schwinning S,Sala OE (2OO4).Hierarchy of responses to resource pulses in arid and semi-arid ecosystems. Oecologia, 141,211-220.   
+Thomey ML,Collins SL,Vargas R,Johnson JE,Brown RF, Natvig DO,Friggens MT (2011).Effect of precipitation variability on net primary production and soil respiration in a Chihuahuan Desert grassland. Global Change Biology, 17,1505-1515.   
+Weltzin JF,Tissue DT (2OO3). Resource pulses in arid environments-patterns of rain,patterns of life.New Phytologist, 157,171-173.   
+Westra S,Fowler HJ,Evans JP,AlexanderLV,BergP, JohnsonF,Kendon EJ,Lenderink G,Roberts NM (2014).Future changes to the intensity and frequency of shortduration extreme rainfall. Reviews of Geophysics，52, 522-555.   
+Wilcox KR,von Fischer JC, Muscha JM, Petersen MK, Knapp AK(2O15).Contrasting above- and belowground sensitivity of three great plains grasslands to altered rainfall regimes. Global Change Biology,21,335-344.   
+Williams CA,Hanan N,Scholes RJ,KutschW (2009).Complexity in water and carbon dioxide fluxes following rain pulses in an African savanna. Oecologia,161,469-480.   
+Yahdjian L,Sala OE (2Oo6).Vegetation structure constrains primary production response to water availability in the Patagonian steppe.Ecology, 87,952-962.   
+Yaseef NR,YakirD,Rotenberg E, Schiller G,Cohen S (2010). Ecohydrology of a semi-arid forest: Partitioning among water balance components and its implications for predicted precipitation changes.Ecohydrology,3,143-154.
+
+责任编委：梁存柱责任编辑：王葳

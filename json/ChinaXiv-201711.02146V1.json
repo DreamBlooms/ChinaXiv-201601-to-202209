@@ -1,0 +1,542 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.170279 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵宝泉，王茂文，丁海荣，邢锦城，朱小梅，刘冲，董静，洪立洲．密度和有机肥对苏北滩涂蓖麻群体生长及产量构成的 影响[J]．中国生态农业学报,2017,25(9):1306-1316 Zhao B Q, Wang M W,Ding HR, Xing JC,Zhu X M,Liu C,Dong J,Hong L Z.Effct of organic fertilizer on growth and yieldcomponentsofcastorunderdifferent plantingdensities[J].Chinese JouralofEco-Agriculture,2017,25(9):1306-1316 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "密度和有机肥对苏北滩涂蓖麻群体生长及产量构成的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵宝泉，王茂文，丁海荣，邢锦城，朱小梅，刘冲，董静，洪立洲\\*\\*(江苏沿海地区农业科学研究所/江苏省沿海滩涂农业工程技术研究中心盐城224002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究于2013－2015年连续3年在江苏省大丰市金海农场沿海滩涂试验基地进行蓖麻种植密度和有机肥试验，探讨江苏沿海滩涂连续有机肥施用和种植密度对蓖麻群体生长和产量构成的影响。试验设高(18 000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ )、中(15000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ）、低(12000株 $\\cdot \\mathrm { h m } ^ { - 2 } )$ 3个种植密度与3个有机肥施肥水平 $( 1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 、$6 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { \\cdot } h m } ^ { - 2 } .$ )的田间小区互作试验。在蓖麻各生育期调查地上部干物质积累及其分配、叶面积指数、功能叶叶绿素含量、穗部性状及籽粒产量等指标。研究结果表明，连续3年施用有机肥可明显改善土壤养分状况，中密度下施用 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥使开花期土壤全氮、有效磷、有效钾和有机质含量比不施有机肥处理分别升高 $4 7 . 3 7 \\%$ 、 $1 6 9 . 2 1 \\%$ 、 $54 . 6 5 \\%$ 和 $1 3 . 7 7 \\%$ ，达到显著水平 $( P { < } 0 . 0 5 )$ 。有机肥施用增加了中、低密度下蓖麻生长后期叶面积指数与功能叶叶绿素含量，对群体生长率产生了一定的促进作用，使得中密度群体地上部干物质积累量达到高密度水平。中密度群体增施有机肥还促进了干物质在花后生殖器官中所占比重，且单株有效穗数、单株粒数和百粒重随着有机肥施用量的增加而增加，有效补偿了密度降低带来的蓖麻群体产量降低，最终中密度处理下施用 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥蓖麻获得最高产量 $( 3 ~ 9 4 3 . 7 7 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ，与高密度群体差异不显著 $( P { < } 0 . 0 5 )$ 。由此可见，通过适当降低种植密度并增施有机肥能够有效合理地调控蓖麻群体生长，促进干物质的合理分配和转移，实现了保穗增重增产的目的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蓖麻；有机肥；种植密度；群体生长；产量构成中图分类号：S-3 文献标识码：A 文章编号:1671-3990(2017)09-1306-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of organic fertilizer on growth and yield components of castor under different planting densities ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Baoquan, WANG Maowen, DING Hairong, XING Jincheng, ZHU Xiaomei, LIU Chong,DONG Jing, HONG Lizhou\\*\\* (Instituteof Agricultural Sciences in Coastal AreaofJiangsuProvince/Jiangsu CoastalShoal-based Agricultural Engieering Research Center of Jiangshu Province,Yancheng 224o02,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:A3-year field experiment was conducted from 2013 to 2015during summercastor growing seasons atthecoastland of Jiangsu Province.The aimoftheexperiment wastoanalyse the efects oforganicfertilizerand planting densities on population growth and yield components of castor. The interactive test of three planting densities [18 Oo0 plant $\\cdot \\mathrm { h m } ^ { - 2 }$ (D1), 15 000 plant $\\cdot \\mathrm { h m } ^ { - 2 }$ (D2) and $1 2 \\ 0 0 0 \\ \\mathrm { p l a n t } { \\cdot } \\mathrm { h m } ^ { - 2 } \\left( \\mathrm { D } 3 \\right) ]$ and three organic fertilizer application rates [ $1 2 ~ 0 0 0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } ( \\mathrm { O } 1 \\$ ), $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (O2) and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ( \\mathrm { O } 3 ) ]$ were conducted with a castor cultivar of‘Zibi 8'as tested material. The investigated items included dry mater accumulation and distribution,leaf area index,chlorophyllcontent,spike characters and yield components.The results showedthatthesoilfertilitycouldbeimproved significantlybyusingorganicfertilizerforthree years.Withtheapplication of organic fertilizer of $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ under planting density of 15 Ooo plant $\\cdot \\mathrm { h m } ^ { - 2 } ( \\mathrm { D } 2 \\mathrm { O } 1 )$ ,the contents of soil total nitrogen,available phosphorus, available potassium and organic matter significantly increased by $4 7 . 3 7 \\%$ ， $1 6 9 . 2 1 \\%$ ， $54 . 6 5 \\%$ （20 and $1 3 . 7 7 \\%$ respectively compared with that without organic fertilizer treatment (D2O3).Both leaf area index (LAI) and relativecontentofchlorophyllat the late growth stage was maintained atahigh levelunder planting densitiesof15 00 plant $\\cdot \\mathrm { h } \\mathrm { m } ^ { - 2 }$ and $1 2 ~ 0 0 0 ~ \\mathrm { p l a n t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ with the application of organic fertilizer. Total dry mater production at filling and ripening stages under medium planting density $( 1 5 ~ 0 0 0 ~ \\mathrm { p l a n t } { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ plus $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ organic fertilizer (D2O1） significantly improved to almost similar level to that under high planting density of 18 Ooo plant $\\cdot \\mathrm { h m } ^ { - 2 }$ (D1O1).In addition,the distribution of dry matter in spike and crop growth rate (CGR) under planting density of $1 5 ~ 0 0 0$ plant $\\cdot \\mathrm { h m } ^ { - 2 }$ both improved after anthesis with the application oforganic fertilizer.The efectivepanicles per plant,grain numberper plant and lO-grain weight increased with he increased ateoforganic fertilizerapplication,which efectivelycompensated forlowspikenumberatlower planting density.In this study,the crop yield under medium density (15 Ooo plant-hm-²）with $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ organic fertilizer(D2O1） was $3 ~ 9 4 3 . 7 7 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,which was similar to that under high planting density (DiO1).It was concluded that suitable planting densityincombination withtheapplicationoforganic fertilizer efectivelyimproved population growthandthereasonable distribution ofdry mater,delayed leaf senescence,increased dry mater accumulation and grain yield at mature stageofcaster. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Castor; Organic fertilizer; Planting density; Population growth; Yield components ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "种植密度是影响作物生长发育和产量形成的基础因子。有关密度对蓖麻(RicinuscommunisL.)产量影响的研究报道较多[1-5]，在一定的密度范围内，蓖麻株高、叶面积指数(LAI)和光合净同化率随密度的增大而增加[2]。密度过高,LAI峰值出现时间提前且持续时间降低，不利于光合产物的同化，导致单株果穗数、百粒重和经济产量下降[3]。合理密植有利于协调蓖麻群体与个体之间的矛盾，使得在保证一定群体数量前提下个体发育健壮而不早衰，单位面积穗数和粒重得到协调发展，利于蓖麻高产[4]。江苏沿海滩涂地区蓖麻种植密度一般为12000\\~16000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ，在此基础上继续提高种植密度往往会导致群体营养生长旺盛，通风透光不良，净光合生产能力不足[5]，生殖生长期群体易早衰，群体与个体生长矛盾，往往出现徒长，抗倒伏能力降低[6-7]。密度过小有利于蓖麻单株个体发育，但影响群体功能，最终不利于产量形成[27]。保证群体数量和提高群体质量是蓖麻高产群体构建中必须要解决的两个基本环节，也是难点所在。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前蓖麻大田生产保证群体数量和提高群体质量的手段主要包括打顶整枝、密度调整和水肥调控等[3.8]。采用打顶整枝在一定程度上可以通过人工控制蓖麻分枝数和留果穗数来避免蓖麻生长过旺，促进干物质向籽粒运输，但由于蒴果数和粒数的限制存在单位面积收获籽粒重降低的风险[8],且在农业生产上会增加农民劳动强度，不利于大面积推广；通过株行距配置来调整种植密度仅能在一定程度上调节蓖麻群体通风透光条件，但很难从根本上解决生育前期营养生长旺盛引起群体与个体生长矛盾的问题[3]。肥料的运筹和施用是蓖麻高产群体构建中非常重要的因素[9-10]，前人关于肥料运筹的研究主要集中在N、P、K等矿质营养对蓖麻生长发育的影响上[11-13]。江苏沿海滩涂地区土壤贫瘠，蓖麻生长阶段雨热同季，施用速效肥料调控群体结构存在一定的风险，可能会导致营养生长期枝叶旺长，群体通风透光不良，引起倒伏和贪青晚熟[7,13]。在施用速效肥料的同时配合施用缓释肥料是构建作物高产优化群体较为稳妥的办法[14-16]。有机肥作为优质缓释肥料具有养分缓释、肥效持续时间长的特点，其施用可以改善土壤理化性质、增加土壤有机质含量、提高土壤肥力，提高作物产量[17-18]。调整种植密度、选择适宜施肥策略可能是实现蓖麻增产稳产较为简便可行和低风险的途径之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "有关种植密度与施肥对蓖麻产量互作效应的研究报道很少，且大都集中在种植密度与氮肥的互作上[2.5,19]。密度与氮肥用量在一定范围内呈互补性互作效应，能够调节蓖麻群体的叶面积系数和光合生产率[3]，但过量施用氮肥存在生长前期生长过旺的问题[7]，且氮肥施用因氨挥发损失而易引起利用效率低，大气污染、土壤环境恶化、水体富营养化及农作物品质下降等问题[20-21]。本研究拟通过增施有机肥来培肥地力，探究不同密度下增施有机肥对蓖麻群体叶片功能及群体结构、产量构成指标的影响，以期延长蓖麻群体叶片功能持续期，使蓖麻群体叶面积指数和群体生长率维持在较高水平，增强蓖麻群体物质生产能力，进而获得适宜江苏沿海滩涂地区的蓖麻群体优化结构，为蓖麻高产稳产提供理论和技术依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地基本状况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于苏北滩涂典型围垦区江苏省大丰市金海农场 $( 3 2 ^ { \\circ } 5 9 ^ { \\prime } 3 0 ^ { \\prime \\prime } { \\sim } 3 3 ^ { \\circ } 0 ^ { \\prime } 2 1 ^ { \\prime \\prime } \\mathrm { N } .$ 、 $1 2 0 ^ { \\circ } 4 9 ^ { \\prime } 4 0 \" { \\sim } 1 2 0 ^ { \\circ } 5 1 ^ { \\prime } 4 \" \\mathrm { E } )$ （204号进行，试验地东距黄海约 $4 ~ \\mathrm { k m }$ ，西临大丰麋鹿国家自然保护区，于1999年进行围垦。该地区地处北亚热带季风气候区，年均降水量 $1 0 5 8 . 4 \\ \\mathrm { m m }$ ，主要集中在6—8月份的雨季，年均气温 $1 3 . 5 \\mathrm { ~ \\textdegree C }$ ，无霜期$2 1 2 . 3 \\mathrm { ~ d } _ { \\circ }$ 土壤为冲积盐土类，潮盐土亚类，表层多为中度盐渍化土，土壤略呈碱性, $\\mathrm { p H } 8 . 4$ 左右。试验开始前土壤的基本理化特性见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c81612613ea47a86c392e6301afeaf975a7776f6a0f13beed3a22e08b50d585.jpg",
+        "table_caption": [
+            "表1试验开始前试验田耕层土壤属性",
+            "Table 1Basic nutrient status of plough-layer soil of the tested field before the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层 Soil layer (cm)</td><td>全氮 Total nitrogen (g:kg-1)</td><td>有效磷 Available phosphorus (mg:kg-)</td><td>有效钾 Available potassium (mg:kg-)</td><td>有机质 Organic matter (g:kg-1)</td><td>pH</td><td>电导率 Electrical conductivity (dS·m-1)</td></tr><tr><td>0~15</td><td>0.406</td><td>13.9</td><td>134.7</td><td>7.48</td><td>8.43</td><td>3.19</td></tr><tr><td>15~30</td><td>0.328</td><td>11.7</td><td>127.6</td><td>7.15</td><td>8.47</td><td>3.76</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 田间试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验采取二因素随机区组设计，种植密度设高、中、低3个水平，分别为18000株 $\\cdot \\mathrm { h m } ^ { - 2 } ( \\mathrm { D } 1 )$ /15000株 $\\cdot \\mathrm { h m } ^ { - 2 } ( \\mathrm { D } 2 )$ 和12000株 $\\cdot \\mathrm { h m } ^ { - 2 } ( \\mathrm { D } 3 )$ ；有机肥施用设置3个水平，分别为 $1 2 ~ 0 0 0 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 } ( \\mathrm { O } 1 ) .$ $6 \\ 0 0 0 \\ \\mathrm { k g \\cdot h m ^ { - 2 } } ( \\mathrm { O } 2 )$ 和 $0 \\mathrm { k g \\cdot h m } ^ { - 2 } ( \\mathrm { O } 3 )$ ，共9个处理组合,每处理3次重复，共27个小区，小区面积 $4 ~ { \\mathrm { m } } { \\times } 6 ~ { \\mathrm { m } } { = }$ $2 4 ~ \\mathrm { m } ^ { 2 }$ 。供试蓖麻品种为‘淄蓖8号'，由山东省淄博市农业科学院提供。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自2013年5月至2015年11月连续3个蓖麻生长季进行夏蓖麻冬季休闲定位种植试验。每年小区施用氮肥为尿素 $( \\mathrm { N } ~ 4 6 \\%$ ，用量 $1 5 0 ~ \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，底肥 $9 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 结合花果期追肥 $6 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；磷肥(过磷酸钙）和钾肥（硫酸钾）用量分别为120$\\mathrm { k g } ( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $6 0  { ~ \\mathrm { \\ k g } _ { \\mathrm { ( K _ { 2 } O ) } \\cdot \\mathrm { h m } ^ { - 2 } } }$ ，在蓖麻苗期一次性施入。每年有机肥(腐熟鸡粪，干基养分N、有机质、${ \\bf P } _ { 2 } \\mathrm { O } _ { 5 }$ 和 $\\mathrm { K } _ { 2 } \\mathrm { O }$ 含量分别为 $3 3 . 5 ~ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 、 $3 2 7 . 6 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 、$2 2 . 5 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 和 $1 6 . 7 ~ \\mathrm { g } \\mathrm { \\cdot k g } ^ { - 1 } )$ 在蓖麻现蕾期距蓖麻行间根部 $3 0 \\ \\mathrm { c m }$ 处开沟施入。3年试验期间蓖麻全生育期(4—11月)降水量分别为 $9 9 0 . 7 \\ \\mathrm { m m }$ 、 $1 \\ 0 2 3 . 2 \\ \\mathrm { m m }$ 和$9 8 5 . 6 ~ \\mathrm { \\ m m }$ ，降雨量充足，均无灌溉，播种后喷封闭药预防杂草，其他田间管理措施各处理间均保持一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验采用2015年数据进行统计分析，播种和产量统计截止时间为2015年4月27日和11月10日，籽粒产量实收实测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 土壤养分含量测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蓖麻开花期用土钻分别采集蓖麻株间根部 $3 0 \\ \\mathrm { c m }$ 处田间 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 深土壤样品，每小区3个采集点，同一土层3点土壤样品混合，带回实验室进行土壤养分含量测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 生长指标及产量构成测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "田间定点定株(每小区6株)进行生育期和产量指标调查。分别在蓖麻苗期、现蕾期、开花期、花果期和灌浆成熟期测蓖麻LAI和功能叶叶绿素含量(SPAD)。LAI采用日本美能达公司产手持式SPAD-502型叶绿素计测蓖麻生长点下第3片功能叶叶绿素含量(SPAD值)，每个叶片测10个点，每小区测定6株，并计算功能叶平均SPAD值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在蓖麻成熟期对籽粒产量实收实测，统计各级果穗的穗长、穗数、籽粒数，待籽粒风干后测定百粒重，计算理论产量，同时对小区进行实收测产。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蓖麻各生育期每小区选择有代表性植株3株，分叶、茎、穗，在 $1 0 5 \\ \\mathrm { ^ \\circ C }$ 下杀青， $7 5 \\ \\mathrm { { ^ \\circ C } }$ 烘干后测定干物重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶面积 $\\ c =$ 长×宽 $\\boldsymbol { \\mathbf { \\rho } } _ { \\times k }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $k$ 为蓖麻叶面积矫正系数，展开叶 $k { = } 1 . 6 5 ^ { [ 1 6 ] }$ 0收获指数 $\\mathrm { { \\cdot H _ { I } } , }$ harvest index $) =$ 产量/地上部总干重 (3)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "群体生长率(CGR，crop growth rate, $\\mathbf { k g } { \\cdot } \\mathbf { k g } ^ { - 1 } { \\cdot } \\mathbf { d } ^ { - 1 } ) =$ $\\left( W _ { 2 } - W _ { 1 } \\right) / A \\times \\left( t _ { 2 } - t _ { 1 } \\right)$ (4) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $W _ { 2 }$ 、 $W _ { 1 }$ 分别为 $t _ { 2 }$ 、 $t _ { 1 }$ 测定的干物重, $t _ { 2 }$ 、$t _ { 1 }$ 分别为对应生育期结束和开始日期， $A$ 为土地面积。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全文采用数据除2013年试验开始前土壤养分状况数据外全部为2015年调查数据。利用MicrosoftExcel2010进行数据录入与相关计算，按照二因素随机区组设计，利用SPSS20.0进行数据方差分析和多重比较 $( \\mathrm { L S D } _ { 0 . 0 5 } )$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同种植密度下有机肥对土壤养分状况的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由方差分析结果可以看出(表2)，长期施用有机肥对土壤养分状况有显著的改善作用，试验第3年不同栽培密度蓖麻开花期土壤全氮、有效磷、有效钾和有机质含量均比不施有机肥处理有大幅提升，土壤电导率和 $\\mathsf { p H }$ 呈下降趋势。如中密度高有机肥处理(D2O1)下土壤中全氮、有效磷、有效钾和有机质含量与中密度不施肥处理(D2O3)相比分别提高$47 . 3 7 \\%$ 、 $1 6 9 . 2 1 \\%$ 、 $54 . 6 5 \\%$ 和 $1 3 . 7 7 \\%$ ，达到显著水平 $( P { < } 0 . 0 5 )$ 。在相同有机肥处理下，土壤全氮、有效磷和有效钾随种植密度的降低而呈现出上升的趋势。高密度条件下不施有机肥处理(D1O3)土壤各养分含量均低于其他处理，电导率和 $\\mathsf { p H }$ 值也较高。可见，施入有机肥后有利于盐渍土土壤中碱性物质的中和及水溶性盐含量的下降，从而缓解土壤盐渍化对作物生长的抑制，同时土壤养分含量有不同程度的升高，可以起到培肥地力的作用，有利于促进作物的生长发育。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/71b64cf9a66c4b09eab901af6d5cd4b82542c511729c30e8a14bcdc63b3d5de1.jpg",
+        "table_caption": [
+            "表2试验第3年不同种植密度下增施有机肥对蓖麻开花期土壤化学性状的影响 Table2Soilchemicalpropertiesatfloweringstageofcastorunderdiferenttreatmentsofplantingdensitiesandorganicfertilizer application in the third year of experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>全氮 Total nitrogen (g:kg-1)</td><td>有效磷 Available phosphorus (mg·kg-1)</td><td>有效钾 Available potassium (mg:kg-1)</td><td>有机质 Organic Matter (g·kg-1)</td><td>pH</td><td>电导率 Electrical conductivity (dS·m-1)</td></tr><tr><td>D101</td><td>0.81±0.01c</td><td>48.06±1.91cd</td><td>216.14±8.89cd</td><td>8.55±0.44c</td><td>8.32±0.10f</td><td>2.92±0.17d</td></tr><tr><td>D102</td><td>0.73±0.01d</td><td>46.51±0.96d</td><td>209.02±7.69d</td><td>8.49±0.38c</td><td>8.36±0.12def</td><td>3.02±0.06bcd</td></tr><tr><td>D103</td><td>0.54±0.01g</td><td>19.34±0.59e</td><td>148.32±4.19f</td><td>7.72±0.13e</td><td>8.49±0.08ab</td><td>3.11±0.12ab</td></tr><tr><td>D201</td><td>0.84±0.02b</td><td>50.10±1.73c</td><td>223.63±11.48bc</td><td>8.76±0.54b</td><td>8.33±0.07f</td><td>2.99±0.18cd</td></tr><tr><td>D202</td><td>0.85±0.01b</td><td>53.03±1.44b</td><td>249.51±11.24a</td><td>8.55±0.58c</td><td>8.42±0.12cd</td><td>3.08±0.07abc</td></tr><tr><td>D203</td><td>0.57±0.01f</td><td>18.61±0.59e</td><td>144.60±7.60f</td><td>7.70±0.29e</td><td>8.55±0.06a</td><td>3.14±0.11a</td></tr><tr><td>D301</td><td>0.85±0.01b</td><td>49.84±2.19c</td><td>223.79±7.94bc</td><td>9.29±0.45a</td><td>8.35±0.11ef</td><td>3.02±0.16bcd</td></tr><tr><td>D302</td><td>1.02±0.03a</td><td>66.30±1.84a</td><td>234.37±10.68b</td><td>8.68±0.22bc</td><td>8.41±0.10cde</td><td>3.08±0.14abc</td></tr><tr><td>D303</td><td>0.65±0.01e</td><td>20.39±0.37e</td><td>168.73±12.17e</td><td>7.95±0.14d</td><td>8.47±0.07bc</td><td>3.01±0.12bcd</td></tr><tr><td colspan=\"7\">方差分析ANOVA</td></tr><tr><td>有机肥</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td></tr><tr><td>Organic fertilizer (O) 密度Density (D)</td><td>＊</td><td>＊</td><td>*</td><td>ns</td><td>ns</td><td></td></tr><tr><td>有机肥×密度O×D</td><td>*</td><td>＊</td><td>*</td><td>＊</td><td>ns</td><td>ns ns</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D1、D2 和D3的种植密度分别为18000 株 $\\overline { { \\cdot \\mathrm { h m } ^ { - 2 } } }$ 、15000株 $\\overline { { { \\cdot } { \\mathrm { h m } } ^ { - 2 } } }$ 和 $\\overline { { 1 2 ~ 0 0 0 } }$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantingdtsaslO2 and O3 are 12000,6 000 and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase letters following values in the same column show significant differencesa $5 \\%$ level. \\* and ns represent significance and not significance at $5 \\%$ level, respectively.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同种植密度下增施有机肥对蓖麻群体叶面积指数的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，在保持施肥量不变的情况下，蓖麻生育前期(幼苗期—开花期)LAI 均随着种植密度的增加而增加，到了花果期这种趋势较生育前期有所降低，此时各处理LAI均达到最大值。生育后期(灌浆成熟期)LAI开始下降，中、低密度下LAI下降较为缓慢，而高密度处理LAI下降则较为迅速，此时相同有机肥施用下中、低密度处理蓖麻群体",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LAI均显著高于高密度处理 $( P { < } 0 . 0 5 )$ 。在同一密度下增施有机肥对幼苗期和现蕾期蓖麻LAI无显著影响从开花期开始，有机肥的效应逐步体现，增施有机肥可显著提高各处理蓖麻LAI。 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥施用下中密度处理(D2O1)蓖麻LAI在开花期和花果期均达到了高密度蓖麻LAI相当水平。灌浆成熟期蓖麻LAI与花果期相比均开始下降，不同种植密度下施用有机肥处理可显著缓解LAI的降低，如高、中、低密度下施用 $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥与不施有机肥处理相比LAI分别提高了 $1 7 . 6 5 \\%$ 、 $9 . 6 9 \\%$ 和$20 . 7 1 \\%$ ，达显著水平。方差分析结果显示，种植密度和有机肥相互作用对灌浆成熟期蓖麻LAI影响达到差异显著水平 $( P { < } 0 . 0 5 )$ 。说明有机肥施用可以通过延缓生育后期叶片衰老来使蓖麻维持较高的光合生产能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdccbab1d2c6021e7520ffe01b31bad9786924bef803d73a72c84f39706e9722.jpg",
+        "table_caption": [
+            "表3试验第3年不同种植密度下有机肥对蓖麻各生长阶段叶面积指数的影响 Table3Effectsofdifferenplantingdnsitiesandorganicfertilizatioratesonleafareaindexatdifferent growthstagsofcastori the third year of the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>幼苗期 Seedling stage</td><td>现蕾期 Squaring stage</td><td>开花期 Flowering stage</td><td>花果期 Flowering-fruiting stage</td><td>灌浆成熟期 Grain filing stage</td></tr><tr><td>D101</td><td>0.069±0.002a</td><td>0.385±0.06b</td><td>2.071±0.12a</td><td>2.095±0.09a</td><td>1.343±0.06d</td></tr><tr><td>D102</td><td>0.063±0.005ab</td><td>0.457±0.05a</td><td>2.033±0.06ab</td><td>2.128±0.10a</td><td>1.22±0.07e</td></tr><tr><td>D103</td><td>0.067±0.004a</td><td>0.355±0.05bc</td><td>1.843±0.09bc</td><td>1.823±0.10d</td><td>1.037±0.06f</td></tr><tr><td>D201</td><td>0.054±0.004c</td><td>0.344±0.02bc</td><td>1.899±0.21abc</td><td>2.071±0.09ab</td><td>1.486±0.08bc</td></tr><tr><td>D202</td><td>0.053±0.003c</td><td>0.325±0.02bc</td><td>1.851±0.11bc</td><td>1.958±0.13bc</td><td>1.505±0.05b</td></tr><tr><td>D203</td><td>0.058±0.006bc</td><td>0.296±0.03cd</td><td>1.712±0.13c</td><td>1.749±0.06e</td><td>1.372±0.06cd</td></tr><tr><td>D301</td><td>0.045±0.004d</td><td>0.243±0.05de</td><td>1.733±0.08c</td><td>1.904±0.10c</td><td>1.471±0.12bcd</td></tr><tr><td>D302</td><td>0.044±0.002d</td><td>0.195±0.01e</td><td>1.451±0.09d</td><td>1.83±0.06d</td><td>1.667±0.08a</td></tr><tr><td>D303</td><td>0.043±0.003d</td><td>0.194±0.02e</td><td>1.437±0.06d</td><td>1.63±0.09f</td><td>1.381±0.08bcd</td></tr><tr><td colspan=\"6\">方差分析 ANOVA</td></tr><tr><td>有机肥Organic fertilizer (O)</td><td>ns</td><td>*</td><td>*</td><td>*</td><td>*</td></tr><tr><td>密度Density (D)</td><td>*</td><td>*</td><td>＊</td><td>*</td><td>*</td></tr><tr><td>有机肥×密度O×D</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>*</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "D1、D2 和D3的种植密度分别为18000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 、15000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 和 $1 2 \\ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantissO2 and O3 are 12 000,6 000 and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase letters following values in the same column show significant differencesat $5 \\%$ level.\\* and ns represent significance and not significance at $5 \\%$ level,respectively.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同种植密度下增施有机肥对蓖麻不同生育期功能叶叶绿素含量的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可以看出，在幼苗期和现蕾期蓖麻生长点下第3片功能叶SPAD值各处理间无显著差异。低密度条件下增施 $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理(D302)功能叶SPAD值在各生育期均保持较高水平，在开花期和花果期与不施肥处理对照相比SPAD值分别提高 $2 0 . 0 7 \\%$ 和 $1 1 . 4 4 \\%$ ，说明低密度下施用有机肥有利于功能叶片叶绿素含量的提高，为蓖麻高产奠定基础。灌浆成熟期高密度不施有机肥处理(D1O3)功能叶SPAD 值下降很快且显著低于其他处理，说明高密度不利于叶片灌浆期的优势生长；这一时期增施 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理(D1O1)与不施肥处理(D1O3)对照相比功能叶 SPAD 值上升了 $1 1 . 2 3 \\%$ $( P { < } 0 . 0 5 )$ ，说明施用有机肥有利于延缓叶片衰老，对生育后期干物质积累和籽粒灌浆产生有利影响，利于籽粒产量的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同生长阶段不同种植密度下增施有机肥对蓖麻群体生长率的影响从方差分析结果(表5)可以看出，在幼苗期和现",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蕾期有机肥处理对各密度蓖麻群体生长率(CGR)无显著影响，此时CGR主要受密度影响，且随着密度的增加CGR也有上升的趋势。现蕾期 $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理下，D1与D2和D3处理相比CGR分别提高 $2 8 . 8 7 \\%$ 和 $78 . 0 6 \\%$ ，差异显著 $( P { < } 0 . 0 5 )$ 。开花期蓖麻CGR在全生育期中处于最大值，此时有机肥的效应逐渐体现出来，各密度处理下有机肥施用可显著促进蓖麻CGR的提高。如中密度D2处理下施用$1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥(D2O1)和施用 $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥(D2O2)与不施肥处理(D2O3)相比，CGR分别提高 $3 3 . 1 7 \\%$ 和 $3 1 . 9 7 \\%$ ，达到显著水平 $( P { < } 0 . 0 5 )$ 。开花期施用 $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理下中密度(D202)蓖麻CGR 显著高于高密度(D1O2)处理 $( P { < } 0 . 0 5 )$ ，说明有机肥施用对中密度蓖麻CGR有较好的促进作用。花果期CGR与开花期相比明显降低，有机肥施用有利于促进各密度处理下蓖麻CGR的提高，高浓度 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理下中密度(D2O1)蓖麻CGR可达到与高密度(D1O1)相当水平。灌浆成熟期有机肥施用可显著提高中、低密度下蓖麻CGR，对高密度下CGR 影响不显著。在相同有机肥处理下，",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d066c1cd0c8d3f1bc2fa8677ceeea40effeef79610725b50ce93c6323bbb74f.jpg",
+        "table_caption": [
+            "表4试验第3年不同种植密度下增施有机肥后蓖麻功能叶叶绿素相对含量(SPAD)Table 4Efects ofdiferentplanting dnsitiesandorganicfertilizationratesontherelativecontentofchlorophyll(SPAD)atdif-ferent growth stages of castor in the third year of the experiment"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>幼苗期 Seedling stage</td><td>现蕾期 Squaring stage</td><td>开花期 Flowering stage</td><td>花果期 Flowering-fruiting stage</td><td>灌浆成熟期 Grain filing stage</td></tr><tr><td>D101</td><td>24.50±0.55a</td><td>39.85±1.52a</td><td>42.34±1.05cd</td><td>49.53±2.32bc</td><td>41.79±1.80cd</td></tr><tr><td>D102</td><td>24.67±0.44a</td><td>39.10±1.91a</td><td>41.27±2.28cd</td><td>50.62±3.14bc</td><td>40.39±1.29de</td></tr><tr><td>D103</td><td>23.82±0.27ab</td><td>38.74±3.67a</td><td>40.40±1.16d</td><td>46.42±3.64c</td><td>37.57±1.69e</td></tr><tr><td>D201</td><td>24.18±0.65ab</td><td>41.57±1.41a</td><td>43.53±1.01bc</td><td>50.88±2.59bc</td><td>43.34±1.62bcd</td></tr><tr><td>D202</td><td>24.54±0.57a</td><td>41.39±2.23a</td><td>46.14±3.87b</td><td>50.21±2.97bc</td><td>42.94±2.46bcd</td></tr><tr><td>D203</td><td>24.34±0.32ab</td><td>39.48±0.98a</td><td>42.12±1.92cd</td><td>48.35±1.97bc</td><td>40.32±1.86de</td></tr><tr><td>D301</td><td>24.73±0.89a</td><td>42.21±2.52a</td><td>45.28±2.28b</td><td>51.50±1.88bc</td><td>46.36±1.87ab</td></tr><tr><td>D302</td><td>24.49±0.84a</td><td>42.63±1.97a</td><td>50.62±2.355a</td><td>58.55±3.86a</td><td>48.49±2.78a</td></tr><tr><td>D303</td><td>23.74±0.77ab</td><td>40.62±1.94a</td><td>42.16±1.40cd</td><td>52.54±2.89b</td><td>45.23±2.19abc</td></tr><tr><td colspan=\"8\">方差分析 ANOVA</td></tr><tr><td>有机肥Organic fertilizer (O)</td><td>ns</td><td>ns</td><td>*</td><td>*</td><td>*</td></tr><tr><td>密度 Density (D)</td><td>*</td><td>ns</td><td>*</td><td>*</td><td>*</td></tr><tr><td>有机肥×密度O×D</td><td>*</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D1、D2 和 D3的种植密度分别为18000 株 $\\overline { { \\cdot \\mathrm { h m } ^ { - 2 } } }$ 、15000株 $\\overline { { \\cdot \\mathrm { h m } ^ { - 2 } } }$ 和12000株 $\\overline { { \\cdot \\mathrm { h m } ^ { - 2 } } }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ /$6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantingssO2 and O3 are 12 000,6 000 and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase letters following values in the same column show significant differencesa $5 \\%$ level. \\* and ns represent significance and not significance at $5 \\%$ level, respectively.",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5588871b77897d8808023b1218c82d94d85a2d0ae9929ff398501d8d34b99ef.jpg",
+        "table_caption": [
+            "表5试验第3年不同种植密度下增施有机肥后蓖麻群体生长率 Table5Efects ofdifferent planting densities andorganic fertlizationrates oncrop growthrate atdiferent growth stages of castor in the third year of the experiment $\\mathbf { k g } { \\cdot } \\mathbf { h } \\mathbf { m } ^ { - 2 } { \\cdot } \\mathbf { d } ^ { - 1 }$ （204 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>幼苗期 Seedling stage</td><td>现蕾期 Squaring stage</td><td>开花期 Flowering stage</td><td>花果期 Flowering-fruiting stage</td><td>灌浆成熟期 Grain filing stage</td></tr><tr><td>D101</td><td>6.03±0.49a</td><td>73.45±6.84a</td><td>422.01±21.37a</td><td>188.50±12.13b</td><td>172.85±12.75cd</td></tr><tr><td>D102</td><td>5.62±0.51ab</td><td>67.36±7.73ab</td><td>357.04±32.08b</td><td>222.60±39.63a</td><td>177.88±8.36cd</td></tr><tr><td>D103</td><td>5.37±0.58abc</td><td>61.63±7.49bc</td><td>335.54±24.82bc</td><td>167.76±19.05bc</td><td>172.06±25.18cd</td></tr><tr><td>D201</td><td>4.68±0.38c</td><td>56.49±6.52bc</td><td>405.23±23.13a</td><td>191.10±9.05b</td><td>209.65±17.86a</td></tr><tr><td>D202</td><td>4.89±0.77bc</td><td>52.27±5.15c</td><td>401.56±17.48a</td><td>151.75±4.55c</td><td>199.67±12.48ab</td></tr><tr><td>D203</td><td>4.91±0.41bc</td><td>53.78±7.47c</td><td>304.29±19.67c</td><td>142.69±16.41c</td><td>166.35±5.66d</td></tr><tr><td>D301</td><td>3.38±0.33d</td><td>38.51±4.20d</td><td>320.04±9.98bc</td><td>106.73±17.90d</td><td>188.29±12.48bc</td></tr><tr><td>D302</td><td>3.10±0.24d</td><td>37.83±3.96d</td><td>304.98±138.79c</td><td>111.52±13.58d</td><td>116.71±10.64e</td></tr><tr><td>D303</td><td>3.27±0.37d</td><td>37.56±2.96d</td><td>259.26±29.74d</td><td>101.39±13.76d</td><td>99.62±9.49f</td></tr><tr><td colspan=\"8\">方差分析 ANOVA</td></tr><tr><td>有机肥Organic fertilizer (O)</td><td>ns</td><td>ns</td><td>*</td><td>*</td><td>*</td></tr><tr><td>密度Density (D)</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td></tr><tr><td>有机肥×密度O×D</td><td>ns</td><td>ns</td><td>ns</td><td>*</td><td>*</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "D1、D2 和D3的种植密度分别为18000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 、15000株 $\\overline { { \\cdot \\mathrm { h m } ^ { - 2 } } }$ 和12 000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ /$6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantigO2 and O3 are 12000,6 000 and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase letters following values in the same column show significant differencesa $5 \\%$ level. $^ *$ and ns represent significance and not significance at $5 \\%$ level, respectively.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5不同种植密度下增施有机肥对蓖麻穗部性状和产量构成的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "灌浆成熟期蓖麻中密度15000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 处理CGR均超过高密度18000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 处理CGR，表明有机肥施用对中、低密度蓖麻群体生长后期干物质积累有较大促进作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可见，随种植密度的增加，蓖麻主穗、一级分枝果穗长度和每穗粒数整体呈降低的趋势，不施有机肥高密度处理D1O3与中低密度处理D2O3、D3O3相比，其主穗、一级分枝果穗长度和穗粒数分别下降$1 4 . 2 8 \\%$ 和 $1 9 . 4 8 \\%$ 、 $1 7 . 3 4 \\%$ 和 $2 8 . 8 3 \\%$ ，达到极显著水平。种植密度对二级分支果穗长度和穗粒数影响不显著。高密度条件下施用有机肥处理对蓖麻穗部性状影响不显著，低密度条件下施用 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理(D3O1)下蓖麻主穗、一级分枝和二级分支果穗长度和穗粒数均显著高于不施有机肥处理，说明一定种植密度下施用有机肥处理利于蓖麻单株穗部的优势发育，进而为群体籽粒产量的提高奠定基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表6试验第3年不同种植密度下增施有机肥对蓖麻穗部性状的影响 Table 6Efects of diferent planting densities and organic fertilizationrates on spikecharacters ofcastor inthe third year of the experiment "
+        ],
+        "table_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c75d1fc4d7c1e0b3b20a052b363f448833922cd8cd29a91158766de607ce200c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">处理 Treatment</td><td colspan=\"2\">主穗 Main spike</td><td colspan=\"2\">一级分枝果穗 Primary branch spike</td><td colspan=\"2\">二级分支果穗 Secondary branch spike</td></tr><tr><td>长度 Length (cm)</td><td>穗粒数 Grain number</td><td>长度 Length (cm)</td><td>穗粒数 Grain number</td><td>长度 Length (cm)</td><td>穗粒数 Grain number</td></tr><tr><td>D101</td><td>44.53±1.45d</td><td>71.43±2.72f</td><td>44.03±1.25cd</td><td>76.96±2.89cd</td><td>34.51±1.75bc</td><td>42.69±2.77d</td></tr><tr><td>D102</td><td>46.80±2.52d</td><td>70.57±3.19f</td><td>42.43±1.15de</td><td>73.86±3.43de</td><td>34.13±1.70bc</td><td>42.87±2.79d</td></tr><tr><td>D103</td><td>44.23±1.29d</td><td>72.14±2.72f</td><td>40.01±1.25ef</td><td>68.32±3.06e</td><td>33.47±1.75c</td><td>40.92±2.77d</td></tr><tr><td>D201</td><td>54.07±2.06bc</td><td>96.79±2.54d</td><td>50.73±1.64ab</td><td>99.85±2.98ab</td><td>35.20±1.83bc</td><td>56.31±4.55b</td></tr><tr><td>D202</td><td>54.48±0.86bc</td><td>93.45±1.66d</td><td>49.63±1.38b</td><td>95.14±6.22b</td><td>35.03±1.39bc</td><td>51.67±2.81bc</td></tr><tr><td>D203</td><td>51.60±2.17c</td><td>87.27±2.66e</td><td>39.37±0.74f</td><td>69.67±3.95e</td><td>35.43±0.61bc</td><td>45.76±5.34cd</td></tr><tr><td>D301</td><td>60.47±1.78a</td><td>122.47±2.10a</td><td>53.13±1.55a</td><td>104.72±2.64a</td><td>38.23±0.91a</td><td>64.03±2.69a</td></tr><tr><td>D302</td><td>56.67±1.00b</td><td>108.16±2.86b</td><td>46.03±0.21c</td><td>94.23±1.15b</td><td>36.67±1.29ab</td><td>56.74±5.22b</td></tr><tr><td>D303</td><td>54.93±1.63bc</td><td>101.36±2.10c</td><td>43.10±2.43d</td><td>82.65±4.53c</td><td>35.60±0.63bc</td><td>46.68±1.87cd</td></tr><tr><td colspan=\"7\">方差分析 ANOVA</td></tr><tr><td>有机肥Organic fertilizer (O)</td><td></td><td>*</td><td></td><td>*</td><td>ns</td><td>*</td></tr><tr><td>密度Density (D)</td><td>* *</td><td>*</td><td></td><td>*</td><td>*</td><td>＊</td></tr><tr><td>有机肥×密度0×D</td><td>ns</td><td>*</td><td></td><td>*</td><td>ns</td><td>*</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D1、D2 和D3的种植密度分别为18000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 、 $1 5 ~ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 和12 000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantingiO2 and O3 are 12 000,6 000 and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase letters following values in the same column show significant differencesat $5 \\%$ level.\\* and ns represent significance and not significance at $5 \\%$ level,respectively.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "比较不同处理间的产量构成因素(表7)，在相同有机肥施用量下，蓖麻单株有效穗数、单株粒数、百粒重和单株产量随着种植密度的增加呈下降趋势：施用有机肥可显著增加中、低密度处理下蓖麻单株有效穗数和单株粒数，对高密度条件处理下单株有效穗数和单株粒数却无显著影响 $( P { < } 0 . 0 5 )$ ；高、中、低3种密度处理下施用有机肥可显著提高蓖麻百粒重和单株产量，其中低密度高有机肥处理(D3O1)蓖麻百粒重和单株产量均达到最高，分别为 $3 3 . 7 1 \\ \\mathrm { g }$ 和$3 1 2 . 0 6 \\mathrm { ~ g ~ }$ ·株-，也说明增施有机肥有利于蓖麻单株个体的优势发育。中密度处理下增施有机肥蓖麻收获指数呈上升趋势，如中密度15000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 增施$1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理(D2O1)与不施有机肥处理对照(D2O3)相比，收获指数提高 $1 3 . 7 7 \\%$ ，差异显著 $( P { < } 0 . 0 5 )$ ，说明在一定密度范围内增施有机肥有利于光合同化产物向籽粒的转移。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6试验第3年不同种植密度下增施有机肥对蓖麻地上部干物质累积和分配的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，有机肥施入可显著增加各密度处理下蓖麻地上部干物质的积累，且随着有机肥施入量的增加干物质积累量也呈上升趋势。中密度15 000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 增施 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥(D201)和$6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥(D2O2)处理与高密度18000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 增施同样有机肥处理相比地上部干物质积累无显著差异，也在一定程度上说明有机肥的施入更有利于中低密度蓖麻群体中单株个体的发育，从而弥补密度降低带来的田间干物质损失。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表8方差分析结果可以看出，有机肥和密度互作对开花期干物质在各器官间分配比例无显著影响，说明此时蓖麻干物质的分配不受密度和有机质的影响。在成熟期，茎干物质分配比例有随种植密度的增加而上升的趋势，如 $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/146263251d819443d365e98056cc8e08f33b4d05cb1b80b34f64cbcfa8882f47.jpg",
+        "table_caption": [
+            "表7试验第3年不同种植密度下增施有机肥对蓖麻单株产量构成的影响 Table7Effects of diferent planting densities and organic fertilizationrates on yield components ofcastorin the third year of the experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>单株有效穗数 Effectivespike number</td><td>单株粒数 Grain pumber per</td><td>百粒重 100-kernal weight</td><td>单株产量 Yield per Plant</td><td>收获指数 Harvest index</td></tr><tr><td>D101</td><td>10.08±0.68c</td><td>635.39±26.49d</td><td>30.02±0.29de</td><td>190.73±8.87e</td><td>0.180±0.01bc</td></tr><tr><td>D102</td><td>9.49±0.64c</td><td>623.26±9.02d</td><td>28.83±0.58f</td><td>182.49±5.83e</td><td>0.177±0.01bc</td></tr><tr><td>D103</td><td>9.78±0.57c</td><td>590.96±26.48d</td><td>27.14±0.29g</td><td>160.44±8.27f</td><td>0.167±0.01c</td></tr><tr><td>D201</td><td>11.81±0.59b</td><td>834.08±18.14b</td><td>31.53±0.87bc</td><td>262.92±3.42b</td><td>0.190±0.02ab</td></tr><tr><td>D202</td><td>12.09±0.67b</td><td>784.11±33.09b</td><td>30.50±0.70cd</td><td>239.27±15.54c</td><td>0.183±0.01abc</td></tr><tr><td>D203</td><td>9.94±0.30c</td><td>640.51±46.97d</td><td>28.83±0.67f</td><td>184.89±17.96e</td><td>0.167±0.01c</td></tr><tr><td>D301</td><td>12.01±0.38b</td><td>925.58±25.54a</td><td>33.71±0.95a</td><td>312.06±16.78a</td><td>0.210±0.02a</td></tr><tr><td>D302</td><td>13.15±0.41a</td><td>825.50±35.43b</td><td>32.20±0.70b</td><td>265.84±13.86b</td><td>0.183±0.02abc</td></tr><tr><td>D303</td><td>9.95±0.87c</td><td>712.01±28.78c</td><td>30.40±0.89de</td><td>216.32±5.52d</td><td>0.197±0.02ab</td></tr><tr><td colspan=\"6\">方差分析 ANOVA</td></tr><tr><td>有rtli r (onic</td><td>*</td><td>*</td><td>*</td><td>*</td><td>ns</td></tr><tr><td>密度Density (D)</td><td>ns</td><td>*</td><td>*</td><td>*</td><td>*</td></tr><tr><td>有机肥×密度O×D</td><td>ns</td><td>*</td><td>*</td><td>*</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "D1、D2 和 D3的种植密度分别为 $1 8 ~ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 、 $1 5 ~ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 和 $1 2 \\ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantingdtsaslO2 and O3 are 12000,6 000 and $0 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase letters following values in the same column show significant differencesat $5 \\%$ level.\\* and ns represent significance and not significance at $5 \\%$ level,respectively.",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb92e311dece48f2b65f977430d82fe4220739ea3563bb73d654d3fe89c72d64.jpg",
+        "img_caption": [
+            "图1试验第3年不同种植密度下有机肥施用对蓖麻地上部分干物质积累的影响",
+            "Fig.1Effects of different planting densities and organic fertilization rates on aboveground dry matter of castor in the third yearof the experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "D1、D2和D3 的种植密度分别为18000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 、15000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 和12000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $1 2 0 0 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $6 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。不同小写字母表示在 $5 \\%$ 水平下差异显著。Planting densities of D1,D2 and D3 are 18 000,16 000 and 12 000 plantsper hectare respectively.The application rates of organic fertilizer of O1, O2and O3 are 12 000、 $6 0 0 0$ and $0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lower-case letters show significant differences at $5 \\%$ level.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "理下，高密度18000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 处理(D102)与中密度(D2O2)、低密度(D3O2)处理相比，茎中干物质所占比例分别提高 $9 . 3 \\%$ 和 $1 1 . 4 6 \\%$ ，差异显著 $( P { < } 0 . 0 5 )$ 。中、低密度下有机肥施用可显著提高叶片干物质分配比例，如中密度 $1 2 \\ 0 0 0 \\ \\mathrm { \\ k g { \\cdot h m } ^ { - 2 } }$ 高有机肥处理(D2O1)与不施肥处理(D2O3)相比，叶片干物质分配指数提高 $1 0 . 0 1 \\%$ ，差异显著 $( P { < } 0 . 0 5 )$ 。成熟期茎干物质分配比例与开花期相比呈下降趋势，有机肥的施用降低了各密度处理下茎中干物质分配比例。成熟期有机肥施用可显著增加中密度处理下蓖麻果穗中干物质分配比例，如中密度 $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥处理(D2O2)与不施肥处理(D2O3)相比干物质分配比例提高 $23 . 7 3 \\%$ ，差异显著 $_ { ( P < 0 . 0 5 ) }$ 。说明有机肥施用有利于干物质向生殖器官的转移和分配。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "种植密度和施肥量是作物生长发育和产量形成中最重要的基本栽培因子。前人关于种植密度或者施肥量对蓖麻生长发育和产量的影响做了大量研究[1-5],但大多集中在速效肥料对蓖麻生长发育影响的研究上[8-11,22]，关于种植密度下有机肥施用对蓖麻生长发育的影响鲜有报道。本研究通过种植密度和有机肥互作试验发现，在不施有机肥处理下，蓖麻群体籽粒产量有随种植密度的增加而上升的趋势，但密度过高不利于蓖麻单株个体发育，单株有效穗数、单株粒数、百粒重和单株产量随密度上升呈下降趋势，给蓖麻群体籽粒产量的提高带来不利影响。增施有机肥可以显著提高各密度处理下蓖麻单株百粒重和产量，从而利于蓖麻籽粒产量的提高。有机肥对中、低密度处理下蓖麻单株有效穗数和穗粒数有很好的促进作用，但是对高密度下单株穗粒数影响不显著，从而使得15000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 种植密度下增施$1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥蓖麻籽粒产量达到了高密度18000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 相当水平，说明有机肥施用对蓖麻群体籽粒产量的提高存在一定的“密度效应”，只有在适宜的种植密度下有机肥的效应才能发挥到最佳水平。马德富等[3研究认为，高种植密度条件下蓖麻产量受到抑制的主要原因是养分过多聚集在主穗和一级分枝上，从而导致其他分枝果穗不能成熟而造成空瘪率上升颗粒不饱满。本研究中 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥施用能明显增加蓖麻主穗、一级分枝和二级分枝有效果穗粒数，说明一定浓度有机肥施用可以通过提高蓖麻结实率和降低空瘪率来促进单株籽粒产量的提高。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce3434440c2cfae26a70ee2abdbebfd43ed38002b7465cab68d84e86833703f7.jpg",
+        "table_caption": [
+            "表8试验第3年不同种植密度下增施有机肥对蓖麻开花和成熟期各器官干物质分配的影响 Table8Efectsofdifferent plantingdensitiesandorganicfertilizationrates ondry weightratioofdiferentorgansatflowering and mature stages of castor in the third year of the experiment $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"2\">叶比例Ratio of leaf</td><td colspan=\"2\">茎比例Ratio of stem</td><td colspan=\"2\">果穗比例 Ratio of spike and husk</td></tr><tr><td>开花期 Flowering stage</td><td>成熟期 Maturity stage</td><td>开花期 Flowering stage</td><td>成熟期 Maturity stage</td><td>开花期 Flowering stage</td><td>成熟期 Maturity stage</td></tr><tr><td>D101</td><td>24.32±0.26ab</td><td>27.51±1.10ab</td><td>55.59±1.64a</td><td>41.25±1.24b</td><td>20.09±1.41bc</td><td>31.22±1.42b</td></tr><tr><td>D102</td><td>22.54±0.49bc</td><td>24.78±0.86c</td><td>54.76±1.23a</td><td>42.41±1.23b</td><td>22.70±1.14bc</td><td>32.81±0.63b</td></tr><tr><td>D103</td><td>20.55±1.47c</td><td>26.42±1.51b</td><td>54.37±1.88a</td><td>43.83±1.60a</td><td>25.08±1.38a</td><td>29.75±1.04c</td></tr><tr><td>D201</td><td>26.08±0.56a</td><td>28.37±1.01a</td><td>54.78±1.88a</td><td>39.03±1.81bc</td><td>19.14±1.28c</td><td>32.60±1.55b</td></tr><tr><td>D202</td><td>25.55±0.45ab</td><td>26.86±1.99b</td><td>54.56±0.58a</td><td>38.79±1.60c</td><td>19.89±0.81c</td><td>34.35±0.64a</td></tr><tr><td>D203</td><td>24.45±1.52ab</td><td>25.79±1.86b</td><td>55.02±1.94a</td><td>43.02±1.13ab</td><td>20.73±0.80bc</td><td>31.19±1.21b</td></tr><tr><td>D301</td><td>26.04±1.06a</td><td>28.63±1.27a</td><td>55.07±0.65a</td><td>38.25±1.55c</td><td>18.89±2.02c</td><td>33.12±1.69ab</td></tr><tr><td>D302</td><td>25.54±1.15ab</td><td>26.02±2.45b</td><td>53.57±1.27a</td><td>38.05±0.99c</td><td>20.89±1.22bc</td><td>35.93±1.82a</td></tr><tr><td>D303</td><td>24.21±0.55ab</td><td>25.05±1.59bc</td><td>54.35±1.54a</td><td>41.03±2.19b</td><td>21.44±1.29b</td><td>33.92±2.22ab</td></tr><tr><td colspan=\"7\">方差分析ANOVA</td></tr><tr><td>有机肥 Organic fertilizer (O)</td><td>ns</td><td>*</td><td>ns</td><td>*</td><td>ns</td><td>*</td></tr><tr><td>密度Density (D)</td><td>ns</td><td>ns</td><td>ns</td><td>＊</td><td>ns</td><td>ns</td></tr><tr><td>有机肥×密度O×D</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [
+            "D1、D2 和D3的种植密度分别为18000 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 、 $1 5 ~ 0 0 0$ 株 $\\overline { { \\cdot \\mathrm { h m } ^ { - 2 } } }$ 和 $1 2 \\ 0 0 0$ 株 $\\cdot \\mathrm { h m } ^ { - 2 }$ ;O1、O2和O3的有机肥施用量分别为 $\\overline { { { 1 2 0 0 0 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ $6 ~ 0 0 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $0 \\mathrm { \\ k g ^ { . } h m } ^ { - 2 }$ 。同列数据后不同小写字母表示在 $5 \\%$ 水平下差异显著， $^ *$ 表示在 $5 \\%$ 水平下差异显著，ns表示在 $5 \\%$ 水平下差异不显著PlantingsaslO2 and O3 are 12 000,6 000 and $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ respectively.Different lowercase leters following values in the same column show significant diferenceat $5 \\%$ level.\\* and ns represent significance and not significance at $5 \\%$ level,respectively."
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "施用生物有机肥可以通过增加土壤养分来促进植物生长和提高作物产量[14-16,23]。吕丽媛等[18]研究发现施用有机肥对一定强度盐胁迫下蓖麻幼苗生理生态也有很好的调控作用，利于促进盐碱土上培育蓖麻壮苗。本研究发现连续3年施入腐熟鸡粪后有利于滩涂土壤理化性状的改善，土壤中全氮、有效磷、有效钾和有机质含量均随着肥料的施用而呈现不同程度的上升，土壤pH和电导率呈现下降趋势，说明长期施入腐熟鸡粪后有利于盐渍土土壤中碱性物质的中和及水溶性盐含量的下降，从而缓解土壤盐渍化对蓖麻生长的抑制，同时土壤养分含量有不同程度的升高，可以起到培肥地力的作用，为蓖麻籽粒产量的提高奠定了养分基础。通过方差分析结果可知有机肥对滩涂盐渍化土壤的改良效果与蓖麻种植密度存在相关性，整体表现为中、低种植密度下施用有机肥土壤养分状况优于高密度处理，从土壤改良和地力培肥角度考虑沿海地区蓖麻种植密度不宜过大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作物叶面积指数(LAI)和叶绿素相对含量(SPAD)是用来衡量群体大小和叶片光合能力的重要指标，其大小可用来评价群体光合生产能力。蓖麻获得高产的前提是要保证群体有充足的光合源叶面积和叶片光合生产能力[2]。本研究结果表明，密度过高不利于花果期蓖麻群体LAI和叶片光合生产能力的提高，通过施加有机肥可显著增加各密度处理下蓖麻LAI,其中中密度 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥D2O1处理LAI可达到与高密度D1O1相当水平，说明较低密度处理下增施有机肥蓖麻生长后期LAI有较快增长。灌浆成熟期各处理下蓖麻群体LAI和SPAD值开始出现不同程度下降，中、低密度处理与高密度处理相比LAI和功能叶SPAD下降较慢，说明施用有机肥可以延缓中、低密度蓖麻群体叶片衰老，使得在灌浆成熟期仍有较高光合生产效率和物质生产能力，利于生育后期群体干物质积累和籽粒灌浆，为籽粒产量的提高奠定基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "群体干物质的积累和合理分配是蓖麻产量形成的基础[3]。增加蓖麻种植密度在一定程度上可以提高蓖麻群体干物质的积累量，但是密度过高不利于单株个体干物质积累量的提高，两者之间的矛盾是制约群体干物质积累量增加的重要因素。本研究结果发现增加群体种植密度在一定程度上可以提高蓖麻生育前期地上部蓖麻群体生长率(CGR)和干物质积累量，但是高密度处理不利于开花期后群体干物质的积累，容易引起CGR下降。这可能是由于密度过大使得蓖麻群体前期营养生长旺盛，造成群体和个体生长矛盾，不利于灌浆成熟期光合生产能力和物质生产能力的提高。施用有机肥有效促进了中、低密度处理下灌浆成熟期CGR 和干物质积累量，$1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥施用下高、中密度处理蓖麻群体在成熟期干物质积累量没有显著差异，说明在中密度下施用有机肥使得在生长后期蓖麻群体仍能维持较高的光合和物质生产能力，从而延缓群体的早衰，使得CGR保持与高密度相当的水平，可以达到与高密度下同等的干物质积累效果，实现了在种植密度下降的基础上群体干物质积累量的维持，为提高蓖麻后期的灌浆和高产稳产创造了物质条件。这与任伟等[24在玉米中的研究报道基本一致，说明增施有机肥也可以通过对中、低密度群体物质生长的“前抑后促\"来避免生育前期旺长和后期早衰，从而实现增产的目的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "花后干物质的积累和再分配是影响作物籽粒产量的重要因素。籽粒灌浆物质的来源按照时间先后可分为两部分，一部分来源于开花前生产的暂时储存在营养器官中，于灌浆期间再转移到生殖器官中去的光合产物；另一部分来自于开花后灌浆期间积累的光合同化产物[25]。本研究表明，有机肥施用有利于高密度处理下开花期叶片中干物质积累比例的提高，可能是由于有机肥施用提高了叶片LAI，从而使得叶片具有较强的光合生产能力，而此刻生殖器官刚开始建成，干物质转移效率较低，故叶片光合同化产物暂时储存在叶片中。在成熟期施用有机肥使得中密度处理下蓖麻叶片和果穗中干物质分配比例上升，而茎中干物质积累比例显著下降，可能是由于增施有机肥提高了中密度处理下叶片LAI和SPAD含量，从而使得叶片在生育后期仍具有较强的光合生产能力。茎中干物质比例出现下降，说明有机肥施用促进了干物质从营养器官向生殖器官的转移，从而使得果穗中干物质分配比例上升，为蓖麻籽粒产量的提高奠定了物质基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总体来看，长期施用有机肥处理对沿海滩涂地区地力培肥和蓖麻籽粒产量提高都有一定的促进作用，在中密度种植条件下有机肥效果能够得到较大发挥，通过增加土壤养分、延缓中密度蓖麻群体生长后期叶片的衰老，使得生育后期蓖麻群体仍能维持较高的光合生产和物质生产能力，利于群体干物质生产在后期向生殖器官的转移和积累，最终使得中密度处理下蓖麻成熟期生物量、单株粒数、百粒重得到不同程度的提高，在种植密度降低前提下籽粒产量达到高密度相当水平，同时又避免了高密度群体恶化并倒伏的风险。综合考虑，在本研究条件下施用 $1 2 \\ 0 0 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 有机肥和栽培密度为15000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 中密度条件处理各项群体指标较为理想，最终获得各处理下最高产 $3 ~ 9 4 3 . 7 7 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]蒋小军．不同种植密度对蓖麻生长性状与产量的影响[J]. 现代农业科技,2007,(11):8-13 Jiang X J.Effect of different planting density on growth and yield of castor[J]. Journal of Modern Agricultural Science and Technology,2007,(11): 8-13   \n[2] 田福东，李金芹，张春华，等．密度和肥料对蓖麻光合性能 及产量的影响[J]．吉林农业科学,2000,25(1):29-31 Tian F D,Li JQ, Zhang C H, et al. Influence of density and fertilizer on the photosynthesis characters and output of castor bean[J]. Journal of Jilin Agricultural Science,20oo,25(1):29-31   \n[3]马德富，张春华，包红霞，等．蓖麻不同种植密度对群体生 育动态的影响[J]．中国油料作物学报,1998,20(1):57-59 Ma D F,Zhang C H,Bao H X,et al.Influence of different planting density on growth development of canopy dynamics in castor[J].Chinese Journal of Oil Crop Sciences,1998, 20(1): 57-59   \n[4]张雁萍，陈宓，陈显国，等．不同种植密度对蓖麻生长发育 及产量的影响[J].安徽农业科学，2012，40(19): 10043-10045 Zhang Y P,Chen M,Chen XG,et al.Effects of different planting density on growth and development and yield of castor beans (Ricinus communis L.)[J].Journal of Anhui Agricultural Science,2012,40(19): 10043-10045   \n[5]周桂生，董伟伟，夏玉荣，等．密度和施氮量对沿海滩涂中 度盐碱地蓖麻产量和氮素吸收的影响[J]．中国油料作物学 报,2011,33(3):270-274 ZhouG S,DongWW,XiaYR,etal.Effects of density and nitrogen application amount on yield and nutrient absorption of castor plant grown in saline soil along coastal mudflat[J]. Chinese Journal of Oil Crop Sciences,2011,33(3): 270-274   \n[6]Zhou G S,Ma BL,Li J,et al.Determining salinity threshold level for castor bean emergence and stand establishment[J]. 九[」 版,2011,32(1):30-34 Zhou G S,Li J, Tong C,et al. Growth characteristics and above-ground dry matter accumulation of castor plant grown on medium saline soil[J]. Journal of Yangzhou University: Agricultural and Life Science Edition,2011,32(1):30-34 [8]吴冰冰．磷肥与留果穗数对蓖麻农艺性状及产量的影响[D]. 长春：吉林农业大学,2015 Wu B B. The effects of phosphorus and ear numbers on agronomic and yields traits of castor[D]. Changchun: Jilin Agricultural University,2015 [9] 周桂生，万树文，董伟伟，等．施氮量对蓖麻花后干物质积 累、产量和产量构成的影响[J]．中国油料作物学报，2009, 31(1): 39-43 Zhou G S,Wan S W,Dong W W,et al. Impact of nitrogen application amount on dry matter accumulation,yield and yield components in castor-oil plant[J]. Chinese Journal of Oil Crop Sciences,2009,31(1): 39-43   \n[10]刘冲，洪立洲，王茂文，等．苏北沿海滩涂氮、磷肥对蓖麻 生长及产量的影响[J]．湖北农业科学，2011，50(8): 1540-1543 Liu C,Hong L Z,Wang M W, et al. Effect of fertilizing N and Pon the growth and yield of castor in the coastal area of north Jiangsu Province[J]. Hubei Agricultural Sciences,2011,50(8): 1540-1543   \n[11] Ahmed SR,Khadke K M, Reddy K C,et al. Soil test based optimal fertilizer requirements for attaining different yield targets of castor (Ricinus communis） in dryland alfisols[J]. Indian Journal of Agricultural Sciences,20o1,71(1): 27-30   \n[12] Reddy K R,Matcha S K. Quantifying nitrogen effects on castor bean (Ricinus communis L.) development, growth,and photosynthesis[J]. Industrial Crops and Products,2010,31(1): 185-191   \n[13]王晴晴，田长彦，赵振勇，等．不同施氮量对蓖麻产量和生 物及营养性状的影响[J]．干旱地区农业研究，2014，32(3): 150-154 Wang QQ, Tian C Y, Zhao Z Y,et al. Effects of nitrogen levels on yield and biological and nutritional characters of castor[J]. Agricultural Research in the Arid Areas,2014, 32(3): 150-154   \n[14] 王立刚，李维炯，邱建军，等．生物有机肥对作物生长、土 壤肥力及产量的效应研究[J].土壤肥料,2004,(5):12-16 Wang L G,Li W J, Qiu JJ,et al. Effect of biological organic fertilizer on crop growth,soil fertility and yield[J].Soil and Fertilizer,2004,(5): 12-16   \n[15]田昌，彭建伟，宋海星，等．有机肥化肥配施对冬油菜养分 吸收、籽粒产量和品质的影响[J]．中国土壤与肥料，2012, (4): 70-74 Tian C,Peng J W, Song H X,et al. Effects of organic manure application combined with chemical fertilizers on absorption of nutrient,yield and quality of rapeseed[J]. Soil and Fertilizer Science in China,2012,(4): 70-74   \n[16]王艳博．有机无机肥料配施对作物生长及土壤供氮特性的 影响[D]．南京：南京农业大学,2007:1-54 Wang Y B.Effect of application of organic-inorganic mixed fertilizerson growth of crops and soil nitrogen supply[D]. Nanjing: Nanjing Agricultural University, 2007: 1-54   \n[17]耿泽铭．施用生物有机肥对盐渍土改良效果及玉米产量的 影响[D]．哈尔滨：东北农业大学,2013:55-60 Geng Z M.Use bio-organic fertilizer on saline soil improvement effect and corn yield[D]. Harbin: Northeast Agricultural University,2013:55-60   \n[18]吕丽媛，伍玉鹏，孙振钧，等．有机肥对盐碱土蓖麻苗生长 的调控作用[J]．中国农业大学学报,2013,18(3):73-80 Lü L Y,Wu YP,Sun ZJ,et al. Effect of organic fertilizer on growth of castor bean seedling under saline sodic soil[J]. Journal of China Agricultural University，2013，18(3): 73-80   \n[19]张锡顺，杨建国，徐宁生．密度、施肥、单株有效穗对蓖麻 产量的效应[J]．中国油料作物学报,2006,28(4):487-491 Zhang X S, Yang J G, $\\mathtt { X u } \\mathtt { N } \\mathtt { S }$ .Effect of plant density,fertilizer and the number of effective spikes per plant on yield of castor (Ricinum comununis L.)[J]. Chinese Journal of Oil Crop Sciences,2006,28(4): 487-491   \n[20] Lin D X,Fan X H,Hu F,et al.Ammonia volatilization and nitrogen utilization efficiency in response to urea application in rice fields of the Taihu lake region,China[J].Pedosphere, 2007, 17(5): 639-645   \n[21]王崇力，韩桂琪，徐卫红，等．专用缓释肥的土壤氨挥发特 性及其对辣椒氮磷钾吸收利用的影响[J].中国生态农业学 报,2014,22(2): 143-150 Wang C L,Han G Q,Xu W H,et al. Characteristics of soil ammonia volatilization and the absorption and utilization of nitrogen， phosphorusand potassium of pepperunder slow-release fertilizer application[J]. Chinese Journal of Eco-Agriculture,2014,22(2): 143-150   \n[22]周桂生，张志栋，陆世渊，等．中度盐碱地氮、磷肥对蓖麻 生育特性和产量的影响[J]．干旱地区农业研究,2014,32(6): 100-105 Zhou G S,Zhang Z D,Lu S Y,et al.Effect of nitrogen and phosphorus on growth characteristics and yield of castor in medium saline soil[J].Agricultural Research in the Arid Areas,2014,32(6): 100-105   \n[23]孙瑞莲，朱鲁生，赵秉强，等．长期施肥对土壤微生物的影 响及其在养分调控中的作用[J]．应用生态学报，2004, 15(10): 1907-1910 Sun R L, Zhu L S, Zhao BQ,et al. Effects of long-term fertilization on soil microorganism and its role in adjusting and controlling soil fertility[J]. Chinese Journal of Applied Ecology,2004,15(10): 1907-1910   \n[24]任伟，赵鑫，黄收兵，等．不同密度下增施有机肥对夏玉米 物质生产及产量构成的影响[J]．中国生态农业学报，2014, 22(10): 1146-1155 Ren W, Zhao X,Huang S B,et al. Effects of application of organic fertilizer under different planting densities on dry matter production and yield formation of summer maize[J]. Chinese Journal of Eco-Agriculture,2014,22(10): 1146-1155   \n[25]姜丽娜，刘佩，齐冰玉，等．不同施氮量及种植密度对小麦 开花期氮素积累转运的影响[J]．中国生态农业学报，2016, 24(2): 131-141 Jiang L N,Liu P,QiB Y,etal. Effects of diferent nitrogen application amounts and seedling densities on nitrogen accumulation and transport in winter wheat at anthesis stage[J]. Chinese Journal of Eco-Agricultural,2016,24(2): 131-141 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

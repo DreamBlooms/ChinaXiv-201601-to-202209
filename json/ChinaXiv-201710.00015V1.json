@@ -1,0 +1,728 @@
+[
+    {
+        "type": "text",
+        "text": "大功率半导体激光器散热研究综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邓增¹²沈俊」戴巍」张语\"董学强」陈高飞」李珂」公茂琼1（中国科学院理化技术研究所，北京，100190）（中国科学院大学，北京，100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来，半导体激光器功率不断提高，由之引发的散热问题已成为限制半导体激光器发展的瓶颈。芯片温度升高引起激光器性能下降，要使激光器在大功率条件下依然保持良好特性就必须强化对激光器芯片的散热。通过分析激光器芯片温度对激光器各项性能指标的影响，说明了降低芯片温度对保证激光器正常工作的重要性。鉴于流体侧的对流传热热阻在总热阻起主导作用，重点分析半导体激光器散热结构中流体侧的散热方法，并将其分为传统散热方法和新型散热方法，传统散热方法包括平板热沉散热、大通道水冷等，新型散热方法包括微通道散热、喷雾冷却、射流冲击、热管散热和液态金属散热。总结了各种方法的优缺点，从热流密度和温差两个指标评价各种散热方法，探讨其在激光器散热上的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：激光器；散热；传热热阻；热流密度；温差 中图分类号：TK124TN365 文献标志码：A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review of heat dissipation of high power diode lasers ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deng Zengl,² Shen Jun1 Dai Wei' Zhang $\\mathrm { Y u } ^ { 1 , 2 }$ Dong Xue-Qiang' Chen Gao-Fei' Li $\\mathsf { K e } ^ { 1 }$ Gong Mao-Qiongl lKey Laboratory of Cryogenics,Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, Beijing,100190, China 2University of Chinese Academy of Sciences，Beijing， 100049，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In recent years,heat dissipation problem caused bythe increasing power has limited the development of the diode laser.The riseof temperature willead to the poor performance ofthe diode laser and for the purposeof keeping good performance under the condition of high power the heat disspation of the laser chips must be enhanced. The article pointed out the importance of coling the diode laser by analyzing the influence of temperature on various indicators of laser's performance.The paper focused on the cooling methods offluid for the reason that it played a dominant role.Thecooling methods offluid were divided into two main categories which were the traditional cooling methods and the new cooling methods.The former mainly includes plate heat sink coling and large channel cooling and the later includes micro-channels,spray, jet impingement, heat pipe coling and liquid metal cooling.The merit and demerit of each method were analyzed.Finaly,two indicators including the heat flow densityand temperature diference were considered in order to evaluate the application prospect of various methods on the laser cooling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: the diode laser； heat dissipation；heat resistance；heat flow density； temperature difference",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "半导体激光器因体积小、重量轻、电光转换效率高等优势，已广泛应用于材料加工、医疗、军事、信息等领域。半导体激光器由基本的发光单管组成，由单管组成Bar条，多个Bar条由可以组成叠阵。随着半导体工艺技术的不断进步，功率也不断增高，单管功率最大可达 $2 5 \\mathrm { ~ W ~ }$ ，最大厘米巴条功率已由2000 年的240W功率提高至 $1 0 0 0 \\mathrm { W }$ 左右[1]，而它的尺寸却非常小，单管尺寸一般在（ $3 0 0 { \\sim } 6 0 0 \\ \\times \\$ （800\\~1000） $\\times 1 2 0 ~ { \\mu \\mathrm { m } }$ 范围内。正是由于激光器芯片尺寸小，功率高，激光器工作时产生的废热会引起极大的热流密度。例如：对于尺寸为 $0 . 2 { \\times } 5 { \\times } 0 . 1 \\mathrm { m m }$ 的单管半导体激光器，当单管功率为 $1 0 \\mathrm { W }$ 时，其热流密度达到 $1 0 0 0 \\ \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ ，与太阳表面的热流密度相当，如不设法解决如此高热流密度的散热问题将会对激光器工作造成严重影响。当前，国际上半导体激光器的重大问题是：如何在获得高功率、高可靠性和高能量转换效率的同时，提高光束质量并拥有良好的光谱特性[2]。而这些性能参数与激光器芯片的温度息息相关，若芯片温度升高，不仅会影响这些关键参数，严重时甚至会起激光器腔面的光学灾变，烧毁激光器。因此，本文针对大功率半导体激光器的散热方法进行了总结，并探讨了各种方法的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1芯片温度对激光器性能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 温度对阈值电流的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "半导体激光器的阈值电流是指激光器正常工作时的最小电流。温度对阈值电流的影响主要取决于给定的激光器结构和共振腔的品质，具体如下式[3]所示：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I _ { \\mathrm { t h } } ( \\it { \\Delta T } ) = I _ { \\mathrm { R e f } } e ^ { \\frac { T - T _ { \\mathrm { R e f } } } { T _ { 0 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { 0 }$ 是特征温度， $I _ { \\mathrm { R e f } }$ 是参考温度 $T _ { \\mathrm { R e f } }$ 下的阈值电流。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从上式分析可知随着温度的升高，阈值电流将会增大。显然，为使激光器工作在较低的阈值电压下，就必须提高热沉的散热效率，降低激光器芯片的工作温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2温度对斜率效率的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "激光器的斜率效率是指激光器的驱动电流与发光功率的线性系数。一般来讲，激光器的斜率效率越大，激光器的性能越好，而激光器芯片温度的升高也会使得激光器斜率效率减小。斜率效率的值与温度的关系[4]可以表示为如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { \\mathrm { s l o p e } } ( T ) = \\eta _ { \\mathrm { l e f } } e ^ { - ( \\frac { T - T _ { \\mathrm { R e f } } } { T _ { 0 } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { 0 }$ 是特征温度， $\\eta _ { \\mathrm { R e } f }$ 是参考温度 $T _ { \\mathrm { R e f } }$ 下的斜率效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3温度对发光功率的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式3展示了温度与发光功率的关系，可以看出，对于同一半导体激光器，温度越高，发光功率越小。根据式（1）和式（2)，可以推导出，发光功率与温度的关系如式（3）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { o u t p u t } } ~ = ~ \\eta _ { \\mathrm { R e f } } e ^ { - \\left( \\frac { T - T _ { \\mathrm { r e f } } } { T _ { 0 } } \\right) } \\left( I ~ - ~ I _ { \\mathrm { R e f } } e ^ { \\frac { T - T _ { \\mathrm { R e f } } } { T _ { 0 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4温度对激光器发光波长的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当激光器温度变化时，激光器的发光波长也会随之发生偏移，发光光谱的能带可以用Varshni等式（4）表示[5]，对于 $8 0 8 \\mathrm { n m }$ 的半导体激光器，红外光谱随温度偏移的速率为约 $0 . 2 8 \\mathrm { n m } \\cdot ^ { \\circ } \\mathrm { C } ^ { - 1 }$ ，而对于980nm 的半导体激光器，波长随时间变化的系数约为$0 . 3 2 \\ : \\mathrm { n m } \\cdot \\mathrm { ^ { \\circ } C ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { g } } ( T ) = E _ { \\mathrm { g } } ( 0 ) - { \\frac { \\alpha T ^ { 2 } } { \\beta + T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $E _ { \\mathrm { g } }$ （0）是温度为0K时的带隙基准， $\\alpha$ 是经验常数， $\\beta$ 与德拜温度有关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明：激光器温度的升高会对激光器的工作性能造成严重的影响，因此，设计高效的散热结构对半导体激光器稳定工作极为关键。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2半导体激光器散热分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1半导体激光器传热过程分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "半导体激光器产生的热量主要是通过热沉散出，半导体激光器的热沉包括初级热沉和次级热沉。激光器芯片通过复杂的封装工艺安装在初级热沉上，其间包括多层焊接层（如金锡焊接层、铟焊接层等）及绝缘层（如氮化铝绝缘层)；而次级热沉与冷却介质（如水或空气）直接接触，形成对流传热，作为散热的终端将热量带走。如图1所示，从激光器芯片产生的废热依次通过焊接层、绝缘层、初级热沉、次级热沉后最终通过对流传热的方式散出。半导体激光器封装完成后，激光器芯片温度与冷却流体温度、传热热阻、输出功率的关系式如式（5)[]所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { _ J } } = T _ { \\mathrm { c o o l a n t } } ^ { \\mathrm { } } + R _ { \\mathrm { t h } } ^ { \\mathrm { } } ( I { } _ { 0 } U _ { \\mathrm { _ 0 } } - P _ { \\mathrm { o u t p u t } } ) \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/65f9096b58d31d3612b0c32b29b3001f844d4c9f2a8ba1cea7e54021ba4a01ae.jpg",
+        "img_caption": [
+            "图1半导体激光器热沉散热示意图 Fig.1 heat dissipation of diode lasers "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { \\mathrm { { J } } }$ 表示激光器芯片的最高温度， $T _ { \\mathrm { c o o l a n t } }$ 为冷却流体的温度， $R _ { \\mathrm { t h } }$ 为芯片与冷却流体间的传热热阻，$I _ { 0 }$ ， $U _ { 0 }$ 分别为输入电流和电压， $P _ { \\mathrm { o u t p u t } }$ 为激光器输出功率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从上式（5）可知，在发光功率一定的情况下，要想降低激光器芯片的温度就必须从两个方面着手。一方面是：通过降低冷却流体的温度，增大温差来提高散热热流密度，如采用液氮甚至液氮作为冷却介质。由于激光器在工作过程中如果冷却液温度太低，会引起激光器表面结露，一旦激光器表面结露，不但会引起激光器的出光发生折射，严重时甚至会引起激光器短路，进而烧坏激光器，所以这种方法在应用上有一定的限制。另一方面是：减小激光器芯片与冷却流体间的传热热阻，如镀金刚石膜、在流道内增加扰流结构、采用射流冲击冷却、等方法，相较降低冷却流体温度的方法，减小传热热阻在应用上具有更好的可行性，这也是本文讨论的重点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2半导体激光器散热方法分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "半导体激光器的传热热阻分为固体侧导热热阻和流固界面的对流传热热阻两部分。固体侧的热阻包括热沉自身的热阻、各焊接层热阻、绝缘层热阻以及各层之间的接触热阻。为了减小固体侧的导热热阻，众多学者从提高材料导热性出发，做了许多研究。如：在1997年，顾长志等就用微波等离子体CVD（MWPCCD）方法制备了金刚石膜，其导热系数为 $1 2 { \\sim } 1 4 \\mathrm { W } \\cdot \\mathrm { K } ^ { - 1 } \\cdot \\mathrm { c m } ^ { - 1 }$ ，将其镀在激光器热沉上，通过金刚石膜，将激光器芯片产生的热量迅速扩展到铜热沉表面，再通过铜热沉将热量散出。与传统铜热沉材料相比，热阻降低了 $4 5 \\% \\sim 5 0 \\%$ ，阈值电流明显降低，光输出功率也提高了 $2 5 \\%$ 。以色列学者Y.Tzuk[8等利用高导热的金刚石热沉实现了对输出功率为200W的激光器进行散热，将金刚石热沉作为初级导热材料，置放在用水冷却的铜块中，当激光器的抽运功率为600W时，激光器的发光功率达到 $2 0 0 \\mathrm { W }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管固体侧导热热阻的减小对解决大功率半导体激光器的散热难题很重要，但J.A.Skidmore 等[9]的研究表明，即使在采用硅做热沉材料的情况下，固体侧的导热热阻仅为流体侧对流传热热阻的一半。这说明半导体激光器散热的关键在于强化流体侧传热，减小对流传热热阻。传统的流体侧散热方式有空气对流散热、大通道强制对流散热等，随着激光器功率的增大，传统的散热方式已无法满足散热要求，许多新型的散热方式，如微通道散热、热管散热、喷雾冷却等为实现大热流密度散热提供了可能的途径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2总结了当前这些散热方式所能达到的最大热流密度。从图2可以看出，Silverman等[10]利用镓铟液体金属冲击热表面实现了 $2 0 0 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的热流密度。HirshfeldH等[1]通过微通道实现了热流密度$1 5 0 0 \\ \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的散热。尽管这些散热方式为解决大热流密散热问题提供了思路，但这些方案应用在大功率半导体激光器上时必须考虑芯片与冷却介质之间的温差，从这方面来考虑，Silverman 等的研究尽管实现了大热流密度的散热，但温差也达上百摄氏度，使得这种方式显然无法直接应用到激光器的散热上。因而，寻求高效半导体激光器的散热方法，不仅要满足大热流密度的要求，同时还需要满足合适的温差。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cb4e2836b9eeef92608c19dc2987ad30ff59f63ff45b33f340682706e54e9ed.jpg",
+        "img_caption": [
+            "图2各种散热方法获得的最高热流密度图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3传统流体侧散热方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统散热方法主要有自然对流热沉冷却、大通道内水冷以及半导体冷却等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1自然对流热沉冷却 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的激光器冷却方法是利用高导热性热沉，对激光器芯片的热表面进行扩展，然后通过自然对流的方式将热量带出，以实现对激光器芯片降温的目的。结构如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c4f652f6141a77a438d1d7c03affbc79ae3f655f8013a1ffb6cdb3ff617e6f2.jpg",
+        "img_caption": [
+            "Fig.2 The highest heat flux density obtained by different cooling methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这种平板结构加工方便，装配简单，对热沉材料的导热性能要求高，一般采用铜作为热沉材料，但由于自然对流散热能力有限，所能带走的激光器芯片热量少，散热效果差，这是早期针对小功率半导体激光器设计的散热结构，显然，随着功率不断提高，这种结构已经无法满足大功率需求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2大通道内水冷 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "起初，为了解决激光器热负荷增大的问题，学者们将自然对流风冷改为强迫对流水冷，设计了空腔形式的大通道热沉结构，其实物图如图4所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/68881bc4b3c9120c8b4778dfb8dc1fe7cf8734c3569ac0ef4e0638b4d7ad7fbc.jpg",
+        "img_caption": [
+            "图3单巴条激光器结构图 Fig.3 Structure of single bar diode laser[6] ",
+            "图4大通道热沉结构 Fig.4 Structure of large channel heatsink "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统的大通道热沉的流道结构为空腔形式，H.Kan 等[11]通过优化进水孔的尺寸和空腔结构，实现了激光器光电效率 $51 \\%$ 的转换，实验证明优化后的结构具有较好的散热性能。尽管这种水冷结构相对于传统的固体热沉散热结构可以有效提高散热效率，简单易行，但存在温度分布不均，热流密度不大等缺点。为了解决上述问题，学者们在常规通道内加工一系列强化换热的结构，如肋片、扰流结构等，刘刚[12]等设计了顺排和叉排肋片的热沉水通道结构。文章通过数值模拟得出：在芯片表面热流密度为 $1 0 0 \\mathrm { { W } \\cdot \\mathrm { { c m } ^ { - 2 } } }$ 的条件下，叉排和顺排结构的散热效果均优于传统的空腔结构，但压力损失会有所增加。Heng Zhao[13]等设计了如图5所示的S型不加扰流和加圆柱扰流两种通道结构。对于加圆柱扰流结构，文章通过实验和数值模拟得出 $0 . 1 1 \\mathrm { m L } \\cdot \\mathrm { s } ^ { - 1 }$ 的最佳流速，此时热阻约为 $0 . 1 ~ \\mathrm { K } \\cdot \\mathrm { W } ^ { - 1 }$ 。大通道水冷热沉结构具有加工简单，散热效果好等优点，是目前应用最为广泛的激光器散热形式，但随着近年来激光器的功率不断提高，这种结构也很难满足热流密度进一步提高的散热需要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3be4ba582fb8af4721029109841d48e6fe600b9e3e1ca838cf68ce9d9d469be7.jpg",
+        "img_caption": [
+            "图5HengZhao“S\"型流道热沉结构实物图 Fig.5 Structure of \"S” Channel designed by Zhao[13] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3半导体冷却 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "半导体冷却是一种基于热电制冷原理的散热方式，将半导体制冷芯片的冷端与激光器热沉紧贴，而热端通过对流的方式将热沉导出的热量以及制冷芯片自身产生的热量散出，其散热结构如图6所示。1992年，H.van Tongeren 等[15]就通过在半导体制冷片上施加1A的电流使激光器芯片温度维持在25℃，此时环境温度为 $6 5 ^ { \\circ } \\mathrm { C }$ 。Fareed F.Rasheed 等[16]设计了一种可以利用半导体制冷片来调节激光器波长的散热结构。XingshengLiu等[17]讨论了半导体散热结构的优化，同时提出了一些降低半导体散热热阻的方法。WeiZhang等[18通过增加热端流体流速和增加制冷片的尺寸提高了半导体散热功率。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f46534db696b5795ce0da8a80508326d22c73c9d132da623d84c78805e5a54d.jpg",
+        "img_caption": [
+            "图6半导体散热热沉结构图Fig.6 Structure of diode refrigerator heatsink"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在通过半导体制冷实现散热过程中，半导体制冷芯片只能作为一个散热的载体，而且需要消耗电功，最终热量还是需要通过其它散热方式将热量散出。由于半导体可以简单地通过控制半导体两端的电压来控制半导体制冷量，从而控制激光器芯片的温度，而且结构紧凑，但所能散热的热流密度一般都比较低，一般应用在小功率半导体激光器的散热上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4新型散热方式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "新型散热方式主要包括微通道散热、喷雾冷却、热管散热、射流冲击散热等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1微通道散热 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tuckerman 和Pease[19]发现了微通道内单相水冷的高效散热性能并得到了微通道内的努赛尔数与普朗特数和雷诺数的关联式，如式（6）[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN u ~ \\propto ~ \\left( \\frac { x } { D \\cdot \\mathrm { R e } \\cdot \\mathrm { P r } } \\right) ^ { - 1 / 3 } , \\quad x \\cdot ( D \\cdot \\mathrm { R e } \\mathrm { P r } ) \\ll 0 . 0 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $D$ 是特征尺度， $x$ 是离入口的距离， $R e$ 表示雷诺数， $P r$ 表示普朗特数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "之后，采用微通道单相和气液两相强迫对流散热的热沉结构引起了学者们极大兴趣。对于微通道的定义方式主要有两种，一种是根据尺寸大小来分，主要代表学者是Kandlicar和Grande[20]，具体内容是将水力直径为 $1 0 { \\sim } 2 0 0 \\mu \\mathrm { m }$ 的通道定义为微通道；另一种定义方式是通过浮升力和表面张力的比值来区分微通道和常规通道，以Kew andCornwell等[21]为代表的学者认为：当 $C o$ 数大于等于0.5的通道可以划分为微通道。以Cheng and $\\mathrm { W u } ^ { [ 2 2 ] }$ 为代表的学者认为：当 $B o$ 数小于0.05的通道可以认为是微通道。$C o$ 数和 $B o$ 数的数学表达式如式（5）[22]所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB o _ { \\mathrm { d } } = { \\frac { g ( \\rho _ { \\mathrm { l } } - \\rho _ { \\mathrm { v } } ) D ^ { 2 } } { \\sigma } } = { \\frac { 1 } { C o ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $g$ 表示重力加速度， $\\rho _ { \\mathrm { l } } , ~ \\rho _ { \\mathrm { v } }$ 分别代表液相和气相的密度， $D$ 表示特征尺度， $\\sigma$ 表示表面张力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "关于微通道传热性能的研究很多，从微通道内液体的流动状态来看，将微通道传热研究分为单相传热研究和两相传热研究，不少学者如Kandlicar、Gian Luca Morini等[20,23]对微通道传热研究做了综述性的总结。本文统计了一些有代表性的研究如表1所示，这些研究为微通道散热在激光器上的应用奠定了坚实的基础。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着微通道理论的不断完善以及加工技术的不断进步，越来越多的学者将微通道用到激光器散热上，取得了高效的散热效果。J.A.Skidmore[8等给发光波长为 $8 0 8 \\mathrm { n m }$ 的激光器设计了一种新型微通道散热结构，如图7所示，这种结构可以保证发光功率密度为 $1 5 0 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的激光器正常工作，芯片表面热流密度约为 $1 5 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ ，热阻仅为 $0 . 0 3 2 \\mathrm { K } \\cdot \\mathrm { W } ^ { - 1 }$ 。波兰学者 Anna Kozlowska[42]创新性的设计了一种微管加微通道形式的微通道结构，如图8所示。这种结构以管和通道之间的狭缝作为换热通道，减小了微通道加工难度，并且实验验证了在激光器热流密度为 $3 8 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 条件下，这种结构具有优良的换热性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0153940f97cc8c485ce3eb4c8f8962b4f871ff88365237ea9f3caa6332ef9cf6.jpg",
+        "img_caption": [
+            "图7J.A.Skidmore 等设计的微通道散热结构 Fig.7 Structure of micro-channel heatsink designed by J.A.Skidmore[8] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对微通道结构的设计和优化，PeterLoosen [43]通过设计不同的微通道尺寸结构进行实验，得出如图9所示的热阻与微通道宽度的关系，当宽度在40$\\mu \\mathrm { m }$ 左右时，热阻最小，但由于加工工艺的限制，作者推荐微通道的尺寸为 $1 0 0 ~ { \\mu \\mathrm { m } }$ 以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Lasaliera Wire bonding 8 Cover plate/Heat spreader Micro-channel element B Micro-pipe Outlet port Inlet port Adhesive ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e38ea28557b75642d3949a94a437b6b709f206930e63134ae181119521e2aa5.jpg",
+        "img_caption": [
+            "图8AnnaKozlowsk微通道散热结构 Fig.8 Structure of micro-channel heatsink designed by A K[42] ",
+            "图9热阻与微通道宽度关系图 Fig.9 The relationship of heat resistance varying from the channel width[44] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "也有一大批学者对微通道散热在激光器上的应用做了数值模拟研究。如JosephDix 等[44]设计如图10所示的微通道结构，并对这种结构用数值模拟的方法进行了分析。这种来回折返的微通道结构利用温度为 $2 4 ^ { \\circ } \\mathrm { C }$ ，流速为 $8 . 3 5 \\mathrm { { m } \\cdot \\mathrm { { s } ^ { - 1 } } }$ 的水工质可以稳定的为热流密度为 $6 6 7 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的芯片散热，此时，芯片的平均温度为 $6 7 \\ \\mathrm { ~ \\textdegree ~ }$ 。E.Farsad 等[45,46]设计与JosephDix类似的结构，并采用纳米流体和泡沫金属作为冷却介质进行了散热数值模拟研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Water exit   \nWaterinlet   \nHeat input Internalflow directions   \nInternalflow   \ndirections   \n88888888 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了换热性能外，激光器散热结构的可靠性也尤为重要。Madhav Datta 和 Hae-Won Choi[47]利用HSVRM(high surface to volumeratio microstructure)材料设计了一种新型热沉结构，如图11所示，这种结构稳定可靠，可使激光器稳定运行6个月以上。Haishan Cao等[48设计如图12所示的微通道结构，在热流密度为 $2 0 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的条件下，将激光器芯片的热力学形变从 $0 . 1 1 5 ~ { \\mu \\mathrm { m } }$ 减小到 $0 . 0 4 0 ~ { \\mu \\mathrm { m } }$ ，有效的减轻了由于热力学形变对激光器工作性能的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/263e78005cf831412e71dd86c8a43bc06deea4b4f50ae3c20ac471f3d0d62ee6.jpg",
+        "img_caption": [
+            "图11Madhav Datta 等设计的微结构热沉 Fig.11 Micro-structure heatsink designed by M.D.[47] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d404aae54c4c081bcffb561b4bf1da6b03f9c7bd47067743fdfaed2b3a8acded.jpg",
+        "img_caption": [
+            "图10JosephDix等设计的微通道热沉结构 Fig.10 Structure of micro-channel heatsink designed by $\\mathrm { J . D ^ { [ 4 4 ] } }$ ",
+            "图12HaishanCao 微通道散热结构 Fig.12 Structure of micro-channel heatsink designed by $\\mathrm { J . D ^ { [ 4 8 ] } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微通道在激光器散热应用上展现出了一定的优势，具体表现在：散热效率高、散热结构体积小、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冷却液流量小等。这些优势使得微通道散热技术有望成为解决大功率激光器散热的方案，但微通道内的传热过程尚未完全研究透彻，高效的微通道的散热热沉的设计缺乏系统的理论指导。此外，微通道在实际应用上还有易堵塞问题，一旦微通道被堵，传热效果会立即恶化。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/88857eb348887b65debdc5b01a07b68e2c1dd79d44f6a196939c5454ab7b1312.jpg",
+        "table_caption": [
+            "表1典型微通道传热研究总结",
+            "Table 1 summary of typical research about micro-channel heat transfer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Categories</td><td>Authors</td><td>Channel</td><td>Working</td><td>Tiefereracere</td><td> Hetflux density</td></tr><tr><td></td><td>Tuckerman Pease(1981)[19]</td><td>W=56-60, H=302-320</td><td>Water</td><td>30~180</td><td>181-790</td></tr><tr><td>Ali Kosar</td><td>Liu （2002）[24]</td><td>W-1050</td><td>Water</td><td></td><td>23-35.49</td></tr><tr><td></td><td>（2005）[25</td><td>Dh=99.5</td><td>Water</td><td>5~25</td><td>3.8-167</td></tr><tr><td>Single</td><td>YunhuaGan （2006）[26]</td><td>D=155.3</td><td>Water</td><td>20~50</td><td>104</td></tr><tr><td>Phow</td><td>H.Hirshfeld</td><td>H-2000</td><td>Water</td><td></td><td>1000</td></tr><tr><td></td><td>Brunschwiler （2008）[28]</td><td>Dh=200</td><td>Water</td><td></td><td>537</td></tr><tr><td></td><td>Evan G （2007）[29]</td><td>W=75</td><td>Water</td><td>63</td><td>400</td></tr><tr><td></td><td>Asthana （2010）[30]</td><td>H=195 H-100</td><td>Wwter mixed</td><td>42</td><td>143</td></tr><tr><td></td><td>Silverio （2015）[31]</td><td>W=313 H=57</td><td>HFE7000</td><td>About 60</td><td>26.6</td></tr><tr><td rowspan=\"6\">Two phasws</td><td>Ravigururajan</td><td>Dh=425</td><td>R124</td><td>10-80</td><td>8-65</td></tr><tr><td>Krishnamurthy (1998)[32]</td><td>H-200</td><td>HFE7000</td><td>-</td><td>10-110</td></tr><tr><td>Jaeseon（2008）[34]</td><td>Dh=415.9</td><td>HFE7100</td><td>62.7</td><td>693</td></tr><tr><td>Coursey （2007）[35]</td><td>D-54-72,</td><td>PF5060</td><td></td><td>11-124</td></tr><tr><td>Koscar, Peles（2006）[36]</td><td>W-200,</td><td>R123</td><td>-</td><td>53-196</td></tr><tr><td>Zhang （2011） [37]</td><td>W=800,H=30</td><td>Acetone</td><td></td><td>31.9-36.3</td></tr><tr><td rowspan=\"5\">Both</td><td>Lee（2009）[38]</td><td>Dh=175-416</td><td>HFE7100</td><td></td><td>27-960</td></tr><tr><td>Yan，Lin（1998）[39]</td><td>Dh=200</td><td>R134a</td><td></td><td>0.5-2</td></tr><tr><td>Warrier（2002）[40]</td><td>Dh=750</td><td>FC84</td><td></td><td>5.99</td></tr><tr><td>Sung，Mudawar</td><td>W=1000,</td><td></td><td></td><td></td></tr><tr><td>（2008）[41]</td><td>H=3000 d=0.6</td><td>HEF7100</td><td>20-80</td><td>12-1127</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2喷雾冷却 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相对于前述的微通道散热，喷雾冷却是一种结构更为复杂散热方式，借助高压气体或依赖工质本身压力使液体工质通过雾化喷嘴形成雾状气液两相流体，强制喷射到发热表面，从而实现有效换热的强化。这也是一种实现大热流密度散热行之有效的方法，1992年，美国肯达基州大学的JidongYang等人[49]通过实验验证了喷雾冷却的最高散热热流密度可以达到 $1 0 0 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 。M.R.Pais等[50]研究了表面粗糙度对喷雾冷却换热效率的影响，通过强化表面粗糙度，喷雾冷却的热流密度达到了1200$\\mathrm { w } \\cdot \\mathrm { c m } ^ { - 2 }$ 。Huseyin Bostanci等[51]又进一步在实验条件下实验实现了 $1 1 0 0 \\mathrm { ~ W } \\cdot \\mathrm { c m } ^ { - 2 }$ 热流密度的散热，这时液相流速为 $1 . 6 \\ \\mathrm { c m } \\cdot \\mathrm { s } ^ { - 1 }$ 气相速度为13.8$\\mathrm { c m } \\cdot \\mathrm { s } ^ { - 1 }$ ，压力损失为 $4 8 ~ \\mathrm { { k P a } }$ 。这些研究为喷雾冷却应用于大热流密度的散热提供了依据。目前，喷雾冷却已广泛应用于冶金、化工、核电等领域。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大功率激光器散热属于典型大热流密度散热，喷雾冷却在激光器散热上的应用也逐渐开始引起了研究者的兴趣。2009年美国RINI公司的Saarloos[52]报道了针对 $1 5 0 ~ \\mathrm { k W }$ 的高能激光系统，采用热能存储技术和相变冷却技术进行热管理系统的设计。中国科学技术大学的王亚青等[53]以水为介质，用喷雾冷却的方法实现了热流密度为376$\\mathrm {  ~ W ~ } ^ { } \\cdot \\mathrm { c m } ^ { - 2 }$ 的激光器芯片散热。2010 年陶毓伽[54又对喷雾冷却在激光器上的应用做了比较系统的研究，研究明确了喷雾流量、喷射距离、进口流体温度以及表面活性剂对换热性能的影响，为以后研究者提供了参考依据。武德勇等[55]分别用氨和 R124为工质对喷雾冷却进行了研究，其中，用氨做制冷剂，在冷却器表面温度维持在 $3 7 \\ \\mathrm { { ^ circ C } }$ 时，散热功率密度达到了 $5 1 1 \\mathrm { ~ W } \\cdot \\mathrm { c m } ^ { - 2 }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "传统的喷雾冷却以液滴的气化吸热来实现散热，而日本东北大学的IshimotoJ[5设计了如图13所示的结构，液氮在低温氦气的冷却下，凝固形成固氮颗粒，固氮颗粒冲击被冷却表面，利用固态氮颗粒的升华对热表面冷却。文章用数值模拟的方法证实了固氮比液氮的冷却效果要好，这种区别于传统方式的喷雾技术，在大热流密度散热上有一定的优势，但这种技术结构复杂，在应用上有一定的困难。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "喷雾冷却在激光器散热上的应用还不成熟，喷雾系统的结构也比较复杂，目前国内成功应用的案例还很少。但喷雾冷却是一种可以通过相变实现大热流密度散热的方法，在大热流密度激光器以及电子器件上的应用具有广阔前景。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f123c697b4e74121d9830fd26b28bdc97d7acc51340607f283952f476336420.jpg",
+        "img_caption": [
+            "图13IshimotoJ设计的散热结构 Fig.13 heat dissipation structure designed by Ishimoto $\\mathbf { J } ^ { [ 5 5 ] }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3射流冲击冷却 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "射流冲击是一种利用高速流体冲击换热表面以达到强化换热的散热方式。如前文所述的Silverman[就是利用流速为 $4 \\mathrm { { m } \\cdot \\mathrm { { s } ^ { - 1 } } }$ 的液态金属冲击散热面的方法给粒子加速器实现 $2 0 0 0 \\ \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的高热流密度散热，但其换热温差也达到 $1 0 0 ^ { \\circ } \\mathrm { C }$ ，这显然无法直接应用到激光器的散热上。与Silverman 等人的工作相比，Eric A.Browne 等人[57]的研究更加适合应用在激光器的散热上，他们用温度为 $2 3 ^ { \\circ } \\mathrm { C }$ ，速度高达 $2 0 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 水作为喷射介质，通过射流冲击散热，将热流密度为 $1 1 0 0 \\mathrm { ~ W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的热表面的温度控制在 $5 0 \\ \\mathrm { ^ { \\circ } C }$ 。作者设计的射流冲击喷嘴结构如图14所示，这种采用微电子机械系统加工的精密喷嘴结构紧凑，可靠性好，适合应用在激光器这种微小器件的散热上。此外，射流冲击用到核聚变反应堆，高功率LED灯等的散热上的例子也很多，如BostjanKoncar等[58]用射流冲击的方法给核聚变反应堆的分流偏滤器散热，散热喷嘴结构如图15所示，冷却介质采用氮气，实现了1500$\\mathrm { w } \\cdot \\mathrm { c m } ^ { - 2 }$ 的高热流密度散热，但同时温差也达到上千摄氏度。国内也有大量关于射流冲击散热的研究，马重芳等人[59对多种不同工质进行了微尺度（射流直径小于 $1 \\mathrm { m m }$ ）圆形射流冲击传热规律的实验研究，普适结果表明：驻点换热系数最高，随着径向位置远离驻点，局部换热系数逐渐减小；过增元等[6在对垂直射流冲击传热进行深入研究的基础上，也对倾斜射流冲击传热规律进行了细致的研究，得出了最大传热系数位置与驻点位置的相对关系；宣益民[61用流速为 $1 1 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的水冲击铜块表面，使得热流密度为 $2 7 0 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的铜块表面温度维持在 $7 5 \\ \\mathrm { { ^ \\circ C } }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/eab046a720d60f61071d89d5aad6f39f939c960e0a184ab641d42286dbb1f8c4.jpg",
+        "img_caption": [
+            "图14E.A.Browne 射流冲击喷嘴结构 Fig.14 structure of jet arrays designed byE. A.Browne[57] "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff8791b9fffd6995d35703972aa5f84876cc2fc591860d2fd32780de1b9d87ad.jpg",
+        "img_caption": [
+            "图15BostjanKoncar 射流冲击喷嘴结构 Fig.15 structure of jet arrays designed by Bostjan Koncar [58] "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "射流冲击是一种有效的强化散热手段，这种方式经常被用来实现大热流密度的散热，如核反应堆、粒子加速器等的散热。这种散热方式的不足是需要提供高速冷却流体，造成流体压损大，功耗增大。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/90d3e2306def52f0a7865059636e7dc93f236997623a22e15dd03ad024192b91.jpg",
+        "img_caption": [
+            "图16BoPingXie发明的热管热沉 Fig.16 heat pipe heatsink invented byBo Ping xie[62] "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4热管散热 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "热管也是一种利用相变传热实现高效散热的设备，一些学者将热管散热应用到激光器散热上取得了一些成果。2000年，Bo PingXie[²提出了一种如图16所示的结构用于给激光器散热。之后，宋小鹿等[63]也设计了如图18所示的热管散热结构，实验和数值模拟表明：这种热管热沉结构要比直接用水冷的效果好。纪献兵等[64]又对热管倾斜角和充液率对换热效率的影响进行了研究，在热源功率为 $3 8 0 \\mathrm { W }$ 、热流密度为 $4 4 5 \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的条件下，热管的热阻为 $0 . 0 4 \\mathrm { K } \\cdot \\mathrm { W } ^ { - 1 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/48535350cfebfd5e8e2a7dda1d45dfdc7ed4df850cf2fb41da6ffbc2dcb7b913.jpg",
+        "img_caption": [
+            "图17宋小鹿等设计的热管热沉 图17 heat pipe heatsink invented by Xiaolu Song[63] "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "热管散热在激光器上的应用不是很成熟，激光器正常工作下所能实现的热流密度也不是很高，而且热管散热是一种被动散热，利用热管热沉很难有效控制激光器芯片温度，其在激光器上的应用有待进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.5液态金属冷却 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于液态金属的导热性好，如镓铟合金的导热率约为水的28倍，因而具有优良的对流传热特性。这种优良的传热特性使得液态金属散热广泛应用于电子芯片上，也有学者将其应用到激光器散热上，John Vetrovec[65]创新性的构造了一种液态金属散热结构，如图18所示液态，金属在图示的圆环内旋转运动，并通过热管（图18a）或微通道（图18b）将镓铟合金液态金属的热量带走。实验结果表面：在激光器芯片热流密度为 $1 0 0 0 \\ \\mathrm { W } \\cdot \\mathrm { c m } ^ { - 2 }$ 的条件下，激光器芯片的温升仅为 $2 3 ^ { \\circ } \\mathrm { C }$ ，很好的保证了激光器芯片的正常工作。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "液态金属散热是近年的研究热点，是有望实现激光器大热流密度散热的方案之一，也有一些关于液态金属散热在LED灯、电脑CPU等散热上的应用。实际应用中需要考虑液态金属易氧化性、与材料的兼容性等带来的问题等。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7946aa30988877e3b8c3bb48ae9d529704cda24bf29e4292d5b3f41e9adb3076.jpg",
+        "img_caption": [
+            "图18JohnVetrovec 设计的液态金属散热结构 Fig.18Structure ofliquid metalheatsinkdesigned byJohn "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Vetrovec[66] ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5热流密度与温差综合分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "散热方法所能实现热流密度的大小并不能完全反应散热性能的好坏，从传热关系式（8）出发，单从热流密度的大小来评价散热性能不够全面，要综合反映一种散热方法传热性能的好坏就必须同时考虑温差和热流密度。图19统计了学者们采用不同散热方法所能实现的热流密度与温差的实验结果。",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq \\ = \\ h \\Delta T\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中， $q$ 表示热流密度， $h$ 表示传热系数， $\\Delta T$ 表示传热温差。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/03bb44d899cc96e13e83743ef698c74a220577b89afd38c576f21dbddec582e9.jpg",
+        "img_caption": [
+            "图19不同散热方法所能实现的热流密度与温差的关系图 Fig.19Relationship of heat flux density and temperature difference by means of various methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图19可以看出，对各种方法所能实现的热流密度大致随温差增大而增大。对于半导体激光器热沉散热，冷却介质温度一般为 $2 0 \\ \\mathrm { ^ { \\circ } C }$ ，而激光器芯片的工作温度一般不超过 $6 0 ~ \\mathrm { ^ { \\circ } C }$ ，这就使得半导体激光器的传热温差不超过 $4 0 \\ \\mathrm { ^ \\circ C }$ 。对于传统的大通道水冷散热方法，在这个允许的温差范围内，所能实现的热流密度小；而新型的散热方法包括微通道散热方法、喷雾冷却散热方法以及射流冲击散热方法，均有在小温差下实现高热流密度散热的实验案例，这为大功率半导体激光器散热难题的解决提供了思路。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6总结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "散热已逐渐成为限制激光器功率提高的瓶颈，新型大功率激光器散热方法的研究势在必行。高功率半导体激光器散热难题的解决必须依靠传热学、材料学以及先进制造业三者的结合。尽管材料导热性的提高以及装配工艺的进步对解决大功率半导体激光器的散热难题很重要，但散热的终端必须依赖对流传热，先进的对流散热手段以及在半导体激光器上的合理应用是解决散热问题的重要保障。常规的散热方法，如平板散热、大通道散热等方法在大热流密度的条件下开始显得捉襟见肘。新型散热方法如微通道散热、喷雾冷却等开始展露出优势，为大热流密度散热的实现提供了方案。目前，这些散热方式都还有待进一步研究，如：微通道内传热关联式的统一问题、两相流动稳定性问题、压降问题等，以及喷雾冷却内部强化传热机理等问题，这些都有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]王立军，宁永强，秦莉等．大功率半导体激光器研究进 展[J]．发光学报.2015,36(1):1-19.   \nWang Lijun, Ning Yongqiang, Qin li et al. Development of HighPowerDiodeLaser[J].ChineseJournalof Luminscence.2015, 36(1):1-19.   \n[2] Bachmann F.Goals and Status of the German National Research Initiative BRIOLAS(brilliant diode laser)[J]. Society ofPhoto-Optical Instrumentation Engineers,2007,6456: 1-11. [3] 程东明，杜艳丽，马凤英等.半导体激光器散热技术研 究及进展[J].电子与封装，2007，7（3)：28-29.   \nCheng Dongming，Du Yangli，Ma fengying et al.The Development of Cooling Technology of Diode Lasers [J]. Electronics & Packaging，2007，7（3):28-29.   \n[4] Varshni Y P. Temperature dependence of energy gap in semiconductor[J].Physica，1967，34(1):149-154.   \n[5]顾长志，金曾孙，呂宪义.使用金刚石膜热沉的半导体激 光器特性研究[J].半导体学报.1997，11（18）:841-843. GuChangzhi, Jin Censun， Lv Xianyi． Researchon Characteristics of Diode Laser Using Diamond Film Heatsink [J].Journal of Semiconductors.1997，11（18） :841-843. [6] Liu Xingsheng,Wei Zhao,Lingling Xiong et al. Packaging ofHigh Power Semiconductor Lasers [M].New York: Springer of Congress Control Number. 2014:54-57.   \n[7] Tzuk Y, Tal A,Goldring S.Diamond cooling of high-power diode-pumped solid-state lasers [J]. Journal of Quantum Electronics.2004，40（3） :262-269.   \n[8] Skidmore J A,Freitas B.L,Crawford J et al. Silicon monolithic microchannel-cooled laser diode array [J]. Applied Physics Letters.11，2000:76-83.   \n[9] Silverman I, Yarin AL,Reznik SN et al.High Heat-Flux AcceleratorTargets: Cooling With Liquid MetalJet Impingement [J]. International Journal of Heat Mass Transfer. 2006，49(17-18):2782-2792.   \n[10] Hirshfeld H, Silverman I,Arenshtam A et al. High Heat Flux Cooling of Accelerator Targets With Micro-Channels [J]. Nucl.Instrum.Methods Phys.Res.A,2006,562(2): 903-905. [11] Kan H,Miyajima H, Kanzaki T et al. Two-dimensional high-power laser diode arrays cooled by Funryu heat sink[J]. Advanced High-Power Lasers.3，200o: 66-71.   \n[12]刘刚，唐晓军，赵鸿等.固体激光器新型冷却热沉的设 计和CFD数值研究[J].红外与激光工程.4，2014， 43(4):1111-1116.   \nLiu Gang, Tang Xiaojun, Zhao Hong New Designs and CFD Numerical Simulations for Solid-state Laser Heat Sink [J]. Infrared and Laser Engineering.4,2014，43(4):1111-1116. [13] Zhao Heng,Li Bo,Wang Wenjin et al. Water Cooling Radiator for Solid State Power Supply in Fast-axial-flow CO2 laser[J]. Frontiers of Optoelectronics.1，2015:1-7.   \n[14]高光波，郑四木.热电制冷在激光器冷却系统中的应用 [J].航空精密制造技术.4，2012，2（48）:46-49.   \n[15] Tongeren H V, Thijs PJA. Thermal Aspects of Pump-laser Packaging[R].ElectronicComponentsandlechnology Conference. 1992:848-852.   \n[16] Fareed F，Rasheed，Saad Y et al. Controlling the Wavelength of a High Power Diode LaserUsing Thermoelectric Cooler[J].Iraqi Journal of Physics.11，2012, 10:66-70.   \n[17] Liu Xingsheng et al. Thermal Management Strategies for High Power Semiconductor Pump Laser[R].Inter Society Conference on Thermal Phenomena.2004:493-500.   \n[18] Wei Zhang，Limei Shen，Yaxin Yang et al.Thermal Management for a Micro Semiconductor Laser Based on Thermoelectric cooling [J]．Applied Thermal Engineering.2015:664-673.   \n[19] Tuckerman D B,Pease R F W. High-Performance Heat Sink for VLSI[J]. Electron Device Lett. 1981:126-129.   \n[20] Kandlikar S G, Grande W J.Evolution of Microchannel Flow Passages-Thermohydraulic Performance and Fabrication Technology [J].American Society of Mechanical Engineers Paper. 2002:3-14.   \n[21] Kew P.and Cornwell K. Correlations for the Prediction of Boiling Heat Transfer in Small-Diameter Channels [J]. Apply Thermal. Engineer.1997:705-715.   \n[22] Cheng P. and Wu H. Y. Mesoscale and Microscale Phase-Change Heat Transfer. Advance Heat Transfer. 2006: 461-563.   \n[23] Gian Luca Morini. Single-phase convective heat transfer in microchannels:a reviewofexperimental results[J]. International Journal of Thermal Sciences. 20o4:631-651. [24] Liu TY, LiPL,Liu C W et al.Boiling Flow Characteristics inMicrochannelsWith Very Hydrophobic Surfaceto Super-Hydrophilic Surface[J]. International Journal of Heat Mass Transfer. 2011:126-134.   \n[25]Ali K,Yoav H. Thermal-Hydraulic Performance of MEMS-based Pin Fin Heat Sink [J].Journal of Heat Transfer.8，2006，128（2):121-131.   \n[26]甘云华.硅基微通道内流动与传热的可视化测量及其 规律的研究[D].安徽：中国科学技术大学，2006.   \nGan Yunhua. Visual measurement and Regularity Research on Silicon Microchannel Flow and Heat Transfer [M].   \n[27] Hirshfeld H, Silverman I, Arenshtam A et al. High Heat Flux Cooling of Accelerator Targets With Micro-Channels [J]. Nucleus Instrument Methods Physics Research. 2006,562(2): 903-905.   \n[28] Brunschwiler T.，Michel B.，Rothuizen H.，Kloter U., Wunderle B.and Oppermann H. Forced Convective Interlayer Cooling in Vertically Integrated Packages[R]. Orlando: Proc. ITherm. 2008:1114-1125.   \n[29]Colgan E G. A Practical Implementation of Silicon Microchannel Coolers for High Power Chips [R]. San Jose, CA United States: Proc.21st Annual IEEE Semiconductor Thermal Measurement and Management Symposium.3， 2005: 1-7. [30] Asthana A, Zinovik I,Weinmueller C et al. Significant Nusselt Number Increase in Microchannels With a Segmented Flow of Two Immiscible Liquids: An Experimental Study [J]. International Jouranal of Heat Mass Transfer. 2O11，54： 1456-1464.   \n[31] Silvério V, Cardoso S,Gaspard J,et al. Design,fabrication and test of an integrated multi-microchannel heatsink for electronics cooling [J]. Sensors and Actuators A: Physical.7, 2015 26(3): 2-13.   \n[32] Ravigururajan T S. Impact of Channel Geometry on Twn-Phace Flnw Heat Trancfer Chararterictics nf Refrigerante in Microchannel Heat Exchangers [J]. Journal of Heat Transfer. 1998:485-491.   \n[33] Wang H,Peterson R B.Enhanced Boiling Heat Transfer in Parallel Microchannels with Diffusion Brazed Wire Mesh [J]. IEEETransfer Compound Package Technology. 2010\", 33(4):784-793.   \n[34] Jaeseon L,Issam M. Critical Heat Flux for Subcooled Flow Boiling in Micro-channel Heat Sinks [J]. International Journal of Heat and Mass Transfer.2,2008.   \n[35] Coursey J S，Kim J, Kiger K T. Spray Cooling of High Aspect Ratio Open Microchannels [J]. Journal ofHeat Transfer. 2007:1052-1059.   \n[36] Kosar A,Peles Y. Critical Heat Flux of R-123 in Silicon-Based Microchannels [J].J. Heat Transfer. 2007: 844-851.   \n[37] Zhang W,Liu G,Xu J, Yang Y. Effect ofChannel Surface Wettability and Temperature Gradients on the Boiling Flow Pattern in a Single Microchannel [J] J Micromech. Microeng.2009.   \n[38] Lee J, Mudawar I. Critical Heat Flux for Subcooled Flow Boiling in Micro-Channel Heat Sinks [J]. International Journal of Heat and Mass Transfer. 2009:3341-3352.   \n[39] Yan YY,Lin TF.Evaporation Heat Transfer and Pressure Drop of Refrigerant R-134a in a Small Pipe [J] International Journal of Heat and Mass Transfer.1998:4183-4194.   \n[40] Warrier G R,Dhir VK,Momoda L A.Heat Transfer and PressureDropin NarrowRectangular Channels[J]. Experimental Thermal and Fluid Science.2002: 53-64.   \n[41] Sung MK,Mudawar I. Single-Phase and Two-Phase ybrid Cooling Schemes for High-Heat-Flux Thermal Management of DefenseElectronics[J].ProceedingsofThermal. 2008:121-131.   \n[42] Anna K,Piotr L,Miroslaw S et al.Experimental Study and NumericalModelingofMicro-channelCoolerwith Micro-pipes for High-power Diode Laser Arrays [J]. Applied Thermal Engineering.2015:279-287.   \n[43] Peter L.Cooling and Packaging of High-Power Diode Lasers[J]. High-Power Diode Lasers.1999 ,78 (26) :289-301. [44] Joseph D,Amir J. Fluid and Thermal Analysis of a Microchannel Electronics Cooler Using Computational Fluid Dynamics[J]. Applied Thermal Engineering. 2010: 948-961. [45]Farsad E,Abbasi S P,M S Zabihi et al.Numerical Simulation of Heat Transfer in a Microchannel Heat Sinks Using Nanofluids [J].Heat and Mass Transfer. 2011,47 (4):479-490.   \n[46] Farsad E.Fluid Flow and Heat Transfer in a Novel Microchannel Heat Sink Partially Filled With Metal Foam Medium [J]. J. Thermal Science.6，2014:6(2):3-6.   \n[47] Madhav D，Hae-Won C. Microheat exchanger for cooling high power laser diodes [J].Applied Thermal Engineering.7, 2015:266-273.   \n[48] Cao H, Chen G W. Optimization Design of Microchannel Heatsink Geometry for High Power Laser Mirror [J].Applied Thermal Engineering.2010: 1644-1651.   \n[49] Yang J,Martin R P, Louis C. High Heat Flux Spray Cooling [J].Process of the International Society for Optics and Photonics.1992,1739:29-40.   \n[50] Pais M R, Chow L C, Maheikey E T. Surface Roughness and Its Effects on the Heat Transfer Mechanism in Spray Cooling [J]. Journal of Heat Transfer.1992,114(1) :211-219 [51] Huseyin B,Daniel PR, John P et al. Spray Cooling With AmmoniaonMicrostructuredSurfaces:Performance Enhancementand Hysteresis Effect[J].Journal ofHeat Transfer. 2009，131(7):1-3.   \n[52] Saarloos B A. Thermal Energy Storage Techniques for High Energy Laser[C].Proceedings of the 2oo9 Solid State and Diode Technology Review and Ultrashort Pulse Laser Workshop.2009:806-812.   \n[53]王亚青，刘明侯，刘东等.高功率激光器喷雾冷却的实 验研究[J].强激光与粒子束.2009,21(12):1761-176.   \nWang yaqing,Liu minghou, Liu dong et al. Spray Cooling Experimental StudyofHigh PowerLaser[J].HighPowerLaser and Particle Beams.2009,21(12) :1761-176.   \n[54]陶毓伽.大功率固体激光器冷却研究[D].北京：中国科 学院工程热物理研究所，2010.   \nTao Yuga. Cooing Research for High Power Solid Laser[D]. Institute of Engineering Thermophysics, Chinese Academy of Sciences.5,2010:29-53.   \n[55]武德勇，高松信，曹宏章等.高功率二极管激光器相变 冷却技术[J].强激光与粒子束，2013,25(11):2799-2802. Hou Deyong,Gao Songxin, Cao Hongzhang.Phase Transition Cooling Techniques for High Power Diode Laser [J].High Power Laser and Particle Beams.2013,25(11):2799-2802. [56] Jun I, Ohb U,Daisuke T. Integrated Computational Study of Ultra-high Heat Flux Cooling Using Cryogenic Micro-solid Nitrogen Spray [J].Cryogenics.2012,52(10): 505-517.   \n[57] Eric,Browne A, Gregory et al.Experimental Investigation ofSingle-Phase Microjet Array Heat Transfer[J].Journal of Heat Transfer.2010,132(4):197-204.   \n[58]BostjanK,PrachaiN,Klemen O.Effect of nozzle sizes on jet impingementheat transfer inHe-cooled divertor[J].Applied Thermal Engineering.2010,30(6-7) :697-705. [59] Zhou DW, Ma CF.Local jet impingement boiling heat transfer with R1l3[J].Heat and Mass Transfer. 2004, 40(6):539-549.   \n[60]过增元，黄素逸.场协同原理与强化传热新技术[M].北 京：中国电力出版社,2004:80-98   \nGuo zengyuan,Huan Suyi.Principle of Coupled Fields and New Heat Transfer Enhancement technology [M]. Beijing, China Electric Power Press.2004:80-98.   \n[61]Tie Peng,Li Qing,Xuan Yimin. Investigation on the Submerged Liquid Jet Arrays Impingement Cooling [J]. Applied Thermal Engineering.2011:2757-2763.   \n[62]Bo PX.Heat Pipe Heat Sink for Cooling Ga Laser Diode: United States,9/595,832 [P].6,2000:1-3.   \n[63]宋小鹿，韦光，文建国等.热管在LD端面泵浦固体激 光器散热系统中的应用[J]．上海交通大学学报.2009 (3):397-401.   \nSong Xiaolu,Wei Guang,Wen Jianguo.Application of Heat Pipe in LD End-Pumped Solid-State Lasers Cooling System [J]. School of Technical Physics.2009 (3):397-401.   \n[64]纪献兵，徐进良，薛强.适用于大功率光电芯片散热的 一体化平板热管[J].光电子激光,2012(9)：1669-1675. Ji xianbing,Xu Jinliang,Xue Qiang.Integrated Flat Heat Pipe for Cooling High power Optoelectronic Chip [J].Journal of Optoelectronic Laser,2012 (9) :1669-1675.   \n[65]John V,Feeler R.Progress in the Development of Active Heat Sink for High-Power Laser Diodes [J].Enabling Technologies.2010 :75830K-75830K-8. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,491 @@
+[
+    {
+        "type": "text",
+        "text": "薰衣草秸秆和薰衣草秸秆青贮的瘤胃降解规律比较 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏晨 $^ { 1 , 2 , 3 ^ { * } }$ 游伟1,2.3\\* 谭秀文1,2.3 靳青1,2.3 张相伦1,2.3 刘桂芬1,2.3 赵红波1,2.3张辰3,4 万发春1,2,3,4\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.山东省农业科学院畜牧兽医研究所，济南 250100；2.山东省畜禽疫病防治与繁育重点实验室，济南 250100；3.山东省肉牛生产性能测定中心，济南 250100；4.山东师范大学生命科学学院，济南250014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究薰衣草秸秆和薰衣草秸秆青贮的瘤胃降解特性，比较其瘤胃降解规律的差异。试验选用4头1.5岁、平均体重为（ $4 1 5 { \\pm } 2 0$ ）kg 的装有永久性瘤胃瘘管的利鲁公牛（利木赞牛 $\\times$ 鲁西黄牛)，采用尼龙袋法评定薰衣草秸秆和薰衣草秸秆青贮的干物质（DM）、有机物（OM）、粗蛋白质（CP）和中性洗涤纤维（NDF）的瘤胃降解率和瘤胃降解参数。结果表明：青贮处理显著降低了薰衣草秸秆的OM含量（ $P { < } 0 . 0 5 \\$ )，显著提高了粗脂肪（EE）含量（ $. P { < } 0 . 0 5 )$ )，有提高CP含量（ $\\scriptstyle P = 0 . 0 7$ ）和降低NDF含量（ $\\scriptstyle \\cdot = 0 . 0 8$ ）的趋势，对酸性洗涤纤维（ADF）含量没有显著影响（ $_ { \\cdot P > 0 . 0 5 ) }$ 。青贮处理显著提高了薰衣草秸秆72h DM、OM和NDF 瘤胃降解率（ $_ { . P < 0 . 0 5 ) }$ ，对 $7 2 \\mathrm { { h } }$ CP 瘤胃降解率没有显著影响（ $P { > } 0 . 0 5 )$ 。薰衣草秸秆青贮的DM、OM、CP 和 NDF 有效降解率均显著高于薰衣草秸秆（ $\\scriptstyle \\cdot < 0 . 0 5$ 。青贮处理对薰衣草秸秆DM和OM的快速降解部分（a）比例没有显著影响（ $. P { > } 0 . 0 5 \\ '$ ，显著提高了DM和OM的慢速降解部分（b）和可利用部分（ $a + b$ ）比例（ $P { < } 0 . 0 5 \\$ )，有提高DM慢速降解部分降解速率（c）的趋势（ $\\scriptstyle P = 0 . 0 6 { \\mathrm { , } }$ )。薰衣草秸秆和薰衣草秸秆青贮CP的快速降解部分、慢速降解部分和可利用部分比例差异不显著（ $P { > } 0 . 0 5 \\$ )，薰衣草秸秆青贮CP的慢速降解部分降解速率有增加的趋势（ $\\scriptstyle \\cdot { \\cal P } = 0 . 0 6 )$ 。青贮处理显著提高了薰衣草秸秆NDF的快速降解部分、可利用部分比例和慢速降解部分降解速率（ $. P { < } 0 . 0 5 )$ )，有提高NDF慢速降解部分比例的趋势（ $\\scriptstyle P = 0 . 0 8 { \\mathrm { ~ , ~ } }$ )。由此可见，青贮处理可以改善薰衣草秸秆的品质，提高肉牛对薰衣草秸秆的利用效率，为进一步开发利用薰衣草秸秆资源提供理论参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：薰衣草秸秆；青贮；瘤胄；降解规律 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号： $5 8 1 6 . 5 ^ { + } 3$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在植物学分类上，薰衣草（Lavandula spp.）属于唇形科薰衣草属植物，为一年生或多年生草本或灌木[1。薰衣草主要产于地中海沿岸、欧洲各地及大洋洲列岛，我国于1952年开始从法国引种，主要栽培地区有新疆、陕西、江苏和云南等[2-3]。随着薰衣草产业和旅游经济的发展，我国薰衣草种植面积不断增加，仅新疆伊犁河谷地区的薰衣草种植面积就已经达到 $2 \\ 0 0 0 \\ \\mathrm { h m } ^ { 2 }$ 以上[4]，然而当提取薰衣草精油后，每年会有大量的薰衣草秸秆被废弃，造成资源浪费。如果将薰衣草秸秆作为一种非常规饲料资源，或许可替代某些常规饲料，以缓解反刍动物优质饲草资源短缺的问题。青贮是贮藏粗饲料和改善其品质的有效方法之一，有研究表明，青贮能够改善玉米秸秆和水稻秸秆的营养价值以及提高反刍动物的利用效率[5-7]。李静等[8]报道，利用混合青贮制作技术制作薰衣草秸秆与野干草或小麦秸秆混合青贮，使薰衣草秸秆的营养品质得到了改善。刘建明等研究表明，与玉米青贮相比，薰衣草秸秆与野干草的混合青贮饲喂育肥牛后获得了更高的体增重，可以用作育肥牛粗饲料。目前针对薰衣草秸秆及其青贮的饲料价值评价的报道较少，青贮处理对薰衣草秸秆饲料品质的影响需要进一步研究。因此，本试验旨在利用尼龙袋技术研究薰衣草秸秆和薰衣草秸秆青贮的瘤胃降解特性，比较其瘤胃降解规律的差异，为进一步开发利用薰衣草秸秆资源提供理论参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "提取精油后的薰衣草秸秆采自新疆维吾尔族自治区伊犁河谷伊宁市，初水分含量为$6 5 . 3 7 \\%$ ，一部分晾晒至风干样，未做其他处理；另一部分切割成 $2 { \\sim } 3 ~ \\mathrm { c m }$ 后，直接在青贮袋中压实并密封，青贮处理60d。青贮后的薰衣草秸秆pH在4左右，其自身气味较大，无霉变，略有变色呈淡黄色，茎叶结构保持良好，发酵品质中等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验选用4头1.5岁、平均体重为（ $4 1 5 { \\pm } 2 0$ ）kg 的利鲁公牛（利木赞牛 $\\times$ 鲁西黄牛),饲喂由 $5 5 \\%$ 玉米青贮、 $1 5 \\%$ 羊草、 $30 \\%$ 精料组成的基础饲粮，其中精料组成及营养水平见表1，试验牛饲粮按《肉牛营养需要和饲养标准》配制[10]。每天07:00和17:00 各饲喂1次，自由采食，自由饮水，自由舔食舔砖。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d09d0e66a977db8c8dc1a751d3530ff62c514db811bc2607e49b01009e07632.jpg",
+        "table_caption": [
+            "表1精料组成及营养水平 (风干基础)",
+            "Table1 Composition and nutrient levels of the concentrate (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>70.0</td></tr><tr><td>麸皮Wheat bran</td><td>9.0</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>17.0</td></tr><tr><td>石粉Limestone</td><td>1.0</td></tr><tr><td>小苏打 Sodium bicarbonate</td><td>1.0</td></tr><tr><td>食盐 NaCl</td><td>1.0</td></tr><tr><td>预混料 Premix1)</td><td>1.0</td></tr><tr><td>合计 Total</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>干物质 DM</td><td>91.2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/500e7759a74a928ba6f00eeccc4d9cfa6a2c3e89fa60ec3a4db371cb63d76dfe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粗蛋白质CP</td><td>13.1</td></tr><tr><td>综合净能 NEmf/(MJ/kg)</td><td>7.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)每千克预混料含有 One kilogram of premix contains the following：VA 800 000IU，VD 500 000 IU，VE10000IU，Fe $3 1 7 0 \\mathrm { m g }$ ， $\\mathrm { C u } 3 0 4 0 \\mathrm { m g }$ ，Zn10000 mg， $\\mathrm { M n } 3 0 6 0 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ l ~ } 2 0 \\mathrm { m g }$ ，Se $8 0 ~ \\mathrm { m g }$ ，Co $5 0 \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)综合净能为计算值，根据精料组成与冯仰廉[10]提供的数据估测得到，其 余为实测值。 $\\mathrm { \\Delta N E _ { \\mathrm { m f } } }$ is a calculated value which is estimated according to the concentrate composition and the data of Feng[l0], while the other nutrient levels are measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3试验设计和试验方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本试验采用尼龙袋法，试验前将薰衣草秸秆和薰衣草秸秆青贮样品65℃烘干后粉碎，一部分过 $1 \\mathrm { m m }$ 孔筛，待测常规营养成分；另一部分过 $2 \\mathrm { m m }$ 孔筛，装入自封袋内，保存在清洁干燥处。选择孔径为 $4 0 \\mu \\mathrm { m }$ 的尼龙布，制成 $8 \\mathrm { c m } \\times 1 2 \\mathrm { c m }$ 的尼龙袋，标号后用自来水浸泡冲洗，65℃烘干恒重后备用。称取饲料样品 $2 \\mathrm { g } [ \\$ 干物质（DM）基础]，放入规定尼龙袋内。将2个尼龙袋用橡皮筋固定在一根塑料软管上，塑料软管上端系在尼龙绳上，尼龙绳固定在瘤胄瘘管的外端。早晨饲喂后2h后，将尼龙袋通过瘘管投入牛瘤胄腹囊处，每头牛瘤胃中放7根塑料软管，即每头牛1次投放14个袋，按“同时投入，依次取出”的原则进行培养。培养时间分别为3、6、12、24、36、48和72h，分别于投样后各时间点各取1根塑料软管。饲料样品在尼龙袋中的流失率通过用流水缓慢冲洗尼龙袋及饲料样品 $5 \\mathrm { m i n }$ ，测定65℃烘干恒重损失的部分得到，各时间点取出的尼龙袋用流水缓慢冲洗，直到水澄清为止，一般为 $5 \\mathrm { m i n }$ 。将冲洗干净的尼龙袋放入65℃烘箱中烘至恒重（约48h）取出残余物后磨碎，过 $1 \\mathrm { m m }$ 孔筛，测定DM、有机物（OM）、粗蛋白质（CP）和中性洗涤纤维（NDF）含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 化学分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照AOAC(1990)[1]的方法测定饲料样品DM、OM、粗脂肪（EE）、CP的含量和不同时间点残渣中DM、OM和CP的含量，参照Van Soest等[12]的方法测定饲料样品NDF和中性洗涤纤维（ADF）的含量，测定不同时间点残渣中NDF的含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据计算与统计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参照Orskov等[13]提出的瘤胃动力学数学指数模型计算DM、OM、CP和NDF的降解参数。指数模型如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd p { = } a { + } b ( 1 { - } \\mathrm { e } ^ { - c t } ) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $d p$ 指尼龙袋在瘤胃中滞留t时间后的饲料某一营养成分的降解率； $a$ 为快速降解部分； $b$ 为慢速降解部分； $\\boldsymbol { c }$ 为慢速降解部分降解速率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用以下方程计算瘤胃有效降解率(ED)：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { \\mathrm { E D } = a + b c / \\ ( \\ c + \\mathbf { k } ) } \\ _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：k为瘤胃外流速率，参考Bhargava等[14]将其值设为 $0 . 0 2 \\mathsf { h } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参照NRC[15]中的方程计算瘤胃降解蛋白质（RDP）和瘤胃非降解蛋白质（RUP）比例：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R D P } { = } A { + } B [ k d / ( k d { + } \\mathrm { k } ) ] { \\times } 1 0 0 ;\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R U P } { = } B [ \\mathrm { k } / ( k d { + } \\mathrm { k } ) ] { + } C { \\times } 1 0 0 ~ \\\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $A$ 为CP在瘤胃中的快速降解部分； $B$ 为CP在瘤胃中的潜在降解部分；kd为CP潜在降解部分的降解速率； $C { = } 1 0 0 \\mathrm { - }$ （ $_ { A + B }$ ）； $\\mathbf { k }$ 为瘤胃外流速率，参考Bhargava等[14]将其值设为$0 . 0 2 \\mathsf { h } ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用SAS 9.1[16]中的Non-Linear程序计算快速降解部分（a）、慢速降解部分（b)）、慢速降解部分降解速率（c）、CP在瘤胃中的快速降解部分（A）、CP在瘤胃中的潜在降解部分（B）和CP潜在降解部分的降解速率（kd）的值，采用SAS9.1中Mixed模型的重复测量数据程序分析各时间点营养物质降解率，采用Bonferroni-t检验对营养成分和降解参数进行比较，显著水平为 $\\scriptstyle \\cdot - P < 0 . 0 5$ ， $0 . 0 5 { \\leqslant } P { < } 0 . 1 0$ 表示有显著变化趋势，试验结果以平均值表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 常规营养成分",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，薰衣草秸秆青贮的OM含量为 $9 1 7 . 4 ~ \\mathrm { g / k g ~ D M }$ ，显著低于薰衣草秸秆的941.4g/kg DM( $P { < } 0 . 0 5$ )。薰衣草秸秆青贮的EE 含量为 $5 3 . 4 ~ \\mathrm { g / k g }$ DM，显著高于薰衣草秸秆的 29.1$\\mathbf { g } / \\mathbf { k g } \\mathrm { D M } ( P { > } 0 . 0 5 ) ,$ )。青贮处理有提高薰衣草秸秆CP含量( $\\scriptstyle \\cdot { \\cal P } = 0 . 0 7$ )和降低NDF含量 $\\scriptstyle \\cdot { \\cal P } = 0 . 0 8$ ））的趋势，但是对薰衣草秸秆的ADF含量没有显著影响（ $_ { \\cdot P > 0 . 0 5 ) }$ °",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e1a2b6dc9180dc3b268be145c4680e4717edb9ba092e801038e41d3dbf054a9.jpg",
+        "table_caption": [
+            "表2薰衣草秸秆和薰衣草秸秆青贮的常规营养成分",
+            "Table 2 Common nutrition components of lavender straw and lavender straw silage "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>薰衣草秸秆</td><td>薰衣草秸秆青贮</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Lavender straw</td><td>Lavender straw</td><td></td><td>P-value</td></tr><tr><td></td><td></td><td>silage</td><td></td><td></td></tr><tr><td>干物质DM/(g/kg)</td><td>895.5</td><td>314.4</td><td></td><td></td></tr><tr><td>有机物OM/（g/kg DM)</td><td>941.4a</td><td>917.4b</td><td>6.02</td><td><0.01</td></tr><tr><td>粗脂肪EE/（g/kg DM)</td><td>29.1b</td><td>53.4a</td><td>1.11</td><td><0.01</td></tr><tr><td>粗蛋白质 CP/（g/kg DM)</td><td>95.9</td><td>103.3</td><td>2.13</td><td>0.07</td></tr><tr><td>中性洗涤纤维 NDF/（g/kg DM)</td><td>565.0</td><td>531.8</td><td>7.85</td><td>0.08</td></tr><tr><td>酸性洗涤纤维 ADF/（g/kg DM)</td><td>439.2</td><td>440.1</td><td>4.35</td><td>0.89</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $_ { . P < 0 . 0 5 ) }$ ，相同或无字母表示差异不显著（ $\\scriptstyle \\cdot { \\cal P } > 0 . 0 5 .$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2营养物质降解率及降解参数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，薰衣草秸秆青贮3、6、24、36、48 和 $^ { 7 2 \\mathrm { ~ h ~ } }$ 的DM瘤胃降解率显著高于对应时间点薰衣草秸秆的DM瘤胃降解率( $_ { , P < 0 . 0 5 } )$ ，青贮处理有提高薰衣草秸秆青贮12hDM瘤胃降解率的趋势（ $\\scriptstyle P = 0 . 0 7$ )。青贮处理对薰衣草秸秆DM的快速降解部分比例没有显著影响（ $P { > } 0 . 0 5 \\rangle$ ，但是显著提高了薰衣草秸秆DM慢速降解部分、可利用部分比例和 ED（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ ，有提高薰衣草秸秆DM慢速降解部分降解速率的趋势（ $P { = } 0 . 0 6 )$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表3薰衣草秸秆和薰衣草秸秆青贮DM的瘤胃降解率及降解参数"
+        ],
+        "table_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b288e2c8778be258fb023e7e49e8ec3b7d6e9b289985ce9299d93b0819b26056.jpg",
+        "table_caption": [
+            "Table 3Rumen degradability and degradation parameters ofDM of lavender straw and lavender straw silage "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td>SEM</td><td></td></tr><tr><td>项目</td><td>薰衣草秸秆</td><td>薰衣草秸秆青贮</td><td></td><td>P值</td></tr><tr><td>Items</td><td>Lavender straw</td><td>Lavender straw silage</td><td></td><td>P-value</td></tr><tr><td>时间Time/h</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>25.9b</td><td>28.9a</td><td>1.22</td><td>0.02</td></tr><tr><td>6</td><td>32.7b</td><td>37.7a</td><td>1.35</td><td><0.01</td></tr><tr><td>12</td><td>42.6</td><td>44.8</td><td>2.10</td><td>0.07</td></tr><tr><td>24</td><td>49.8b</td><td>53.5a</td><td>1.23</td><td><0.01</td></tr><tr><td>36</td><td>54.2b</td><td>59.7a</td><td>1.61</td><td><0.01</td></tr><tr><td>48</td><td>56.7b</td><td>62.1a</td><td>2.22</td><td><0.01</td></tr><tr><td>72</td><td>60.7b</td><td>65.2a</td><td>1.93</td><td><0.01</td></tr><tr><td>瘤胃降解参数 Rumen</td><td></td><td></td><td></td><td></td></tr><tr><td>degradation parameters</td><td></td><td></td><td></td><td></td></tr><tr><td>a/%</td><td>2.87</td><td>3.39</td><td>0.53</td><td>0.39</td></tr><tr><td>b/%</td><td>53.0b</td><td>57.1a</td><td>1.30</td><td>0.05</td></tr><tr><td>a+b/%</td><td>55.9b</td><td>60.5a</td><td>0.85</td><td>0.01</td></tr><tr><td>c/ (%/h)</td><td>0.137</td><td>0.142</td><td>0.002</td><td>0.06</td></tr><tr><td>ED/%</td><td>49.1b</td><td>53.4a</td><td>0.70</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a：快速降解部分；b：慢速降解部分； $a + b$ ：可利用部分；c：慢速降解部分降解速率；ED：有效降解率。下表同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a:rapid degradation fraction; b:slow degradation fraction; $a + b$ ：available fraction;c:degradation rate of slow degradation fraction; ED: efficient degradability.The same as below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，薰衣草秸秆青贮各个时间点的OM降解率均显著高于薰衣草秸秆对应时间点的OM降解率（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )。薰衣草秸秆与薰衣草秸秆青贮OM的快速降解部分比例和慢速降解部分降解速率没有显著差异（ $_ { . P > 0 . 0 5 } )$ ，薰衣草秸秆青贮OM的慢速降解部分和可利用部分比例显著高于薰衣草秸秆（ $\\scriptstyle P < 0 . 0 5 .$ )；薰衣草秸秆青贮OM的ED 为 $54 . 8 \\%$ ，显著高于薰衣草秸秆的 $50 . 4 \\%$ （ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table 4Rumen degradability and degradation parameters of OM of lavender straw and lavender straw silage "
+        ],
+        "table_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4864a5d63084ecfd8dbbb7b1f9e12a7bd6422d7fd464f6cc4f58c91dec91456.jpg",
+        "table_caption": [
+            "表4薰衣草秸秆和薰衣草秸秆青贮OM的瘤胃降解率和降解参数"
+        ],
+        "table_footnote": [
+            "瘤胃降解参数Rumen "
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>薰衣草秸秆</td><td>薰衣草秸秆青贮</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Lavender straw</td><td>Lavender straw silage</td><td></td><td>P-value</td></tr><tr><td>时间Time/h</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>27.3b</td><td>30.3a</td><td>1.12</td><td>0.01</td></tr><tr><td>6</td><td>34.1b</td><td>39.2a</td><td>1.67</td><td><0.01</td></tr><tr><td>12</td><td>44.0b</td><td>47.4a</td><td>1.83</td><td><0.01</td></tr><tr><td>24</td><td>50.9b</td><td>54.8a</td><td>1.36</td><td><0.01</td></tr><tr><td>36</td><td>55.3b</td><td>60.4a</td><td>2.10</td><td><0.01</td></tr><tr><td>48</td><td>58.2b</td><td>63.8a</td><td>1.92</td><td><0.01</td></tr><tr><td>72</td><td>62.2b</td><td>67.1a</td><td>1.12</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "degradation parameters ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ddf21464b1c53bf0901cf905ab3d6e617c9a1c05a323614398abdfcc07d6949.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>a/%</td><td>2.87</td><td>2.97</td><td>0.411</td><td>0.82</td></tr><tr><td>b/%</td><td>54.2b</td><td>58.6a</td><td>1.21</td><td>0.01</td></tr><tr><td>a+b/%</td><td>57.1b</td><td>61.6a</td><td>1.08</td><td>0.01</td></tr><tr><td>c/ (%/h)</td><td>0.14</td><td>0.15</td><td>0.01</td><td>0.30</td></tr><tr><td>ED</td><td>50.4b</td><td>54.8a</td><td>0.71</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，青贮处理显著提高了薰衣草秸秆3、12、24和36hCP瘤胃降解率( $_ { . P < 0 . 0 5 ) }$ ，有提高6hCP瘤胃降解率的趋势（ $\\scriptstyle { \\cdot } P = 0 . 0 9 .$ )，但是对薰衣草秸秆48和72hCP瘤胃降解率没有显著影响（ $. P { > } 0 . 0 5 )$ 。薰衣草秸秆和薰衣草秸秆青贮的CP快速降解部分、慢速降解部分和可利用部分比例没有显著差异( $. P { > } 0 . 0 5 )$ ，青贮显著提高了薰衣草秸秆CP的ED( $. P { < } 0 . 0 5 )$ ，有提高慢速降解部分降解速率的趋势（ $\\scriptstyle P = 0 . 0 6 { \\mathrm { : } }$ 。薰衣草秸秆和薰衣草秸秆青贮的RDP和RUP比例没有显著差异（ $\\cdot P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8217adaba6a8a3215687a0323ba3a5495d285912e30760a4f474c39cbd72589.jpg",
+        "table_caption": [
+            "表5薰衣草秸秆和薰衣草秸秆青贮CP的瘤胃降解率和降解参数",
+            "Table 5Rumen degradability and degradation parameters of CP of lavender straw and lavender straw silage "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>薰衣草秸秆</td><td>薰衣草秸秆青贮</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Lavender straw</td><td>Lavender straw</td><td></td><td>P-value</td></tr><tr><td></td><td></td><td> silage</td><td></td><td></td></tr><tr><td>时间 Time/h</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>25.0b</td><td>29.7a</td><td>1.64</td><td>0.01</td></tr><tr><td>6</td><td>34.6</td><td>37.4</td><td>1.61</td><td>0.09</td></tr><tr><td>12</td><td>49.5b</td><td>54.2a</td><td>2.21</td><td>0.04</td></tr><tr><td>24</td><td>62.2b</td><td>65.9a</td><td>1.35</td><td>0.03</td></tr><tr><td>36</td><td>71.3b</td><td>74.9a</td><td>1.49</td><td>0.03</td></tr><tr><td>48</td><td>77.8</td><td>80.2</td><td>1.93</td><td>0.16</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a53fb600acb7c4b5e6297b498cfed4aeb8a23b8d18286a9331f082bf06984d4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>72</td><td>80.4</td><td>82.4</td><td>1.65</td><td>0.23</td></tr><tr><td>瘤胃降解参数 Rumen</td><td></td><td></td><td></td><td></td></tr><tr><td>degradation parameters</td><td></td><td></td><td></td><td></td></tr><tr><td>a/%</td><td>4.32</td><td>5.33</td><td>0.567</td><td>0.17</td></tr><tr><td>b/%</td><td>73.5</td><td>74.6</td><td>1.70</td><td>0.56</td></tr><tr><td>a+b/%</td><td>77.8</td><td>79.2</td><td>0.99</td><td>0.20</td></tr><tr><td>c/ (%/h)</td><td>0.08</td><td>0.09</td><td>0.006</td><td>0.06</td></tr><tr><td>ED/%</td><td>63.1b</td><td>66.1a</td><td>0.79</td><td>0.01</td></tr><tr><td>瘤胃可降解蛋白 RDP/%</td><td>68.8</td><td>70.1</td><td>0.64</td><td>0.13</td></tr><tr><td>瘤胃非降解蛋白RUP/%</td><td>31.2</td><td>29.9</td><td>0.64</td><td>0.13</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，薰衣草秸秆青贮各个时间点的NDF 瘤胃降解率均显著高于薰衣草秸秆对应时间点的NDF瘤胃降解率（ $P { < } 0 . 0 5$ )。薰衣草秸秆青贮的NDF快速降解部分比例和慢速降解部分降解速率显著高于薰衣草秸秆（ $( P { < } 0 . 0 5 )$ )。青贮处理显著提高了薰衣草秸秆NDF 的可利用部分比例（ $_ { . P < 0 . 0 5 ) }$ ，有提高薰衣草秸秆NDF慢速降解部分比例的趋势（ $\\scriptstyle P = 0 . 0 8 { \\mathrm { ~ , ~ } }$ ），同时使NDF的ED从 $3 1 . 4 \\%$ 显著提高至 $3 9 . 8 \\%$ （ $. P { < } 0 . 0 5 \\$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/aab1c61491cf515832c367d69289fdc74b0c49a07e37d1c3bffde964b9b68361.jpg",
+        "table_caption": [
+            "Table 6Rumen degradability and degradation parameters of NDF of lavender straw and lavender straw silage ",
+            "时间Time/h"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\"></td></tr><tr><td>项目</td><td>薰衣草秸秆</td><td>薰衣草秸秆青贮</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Lavender straw</td><td>Lavender straw</td><td></td><td>P-value</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>silage</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4920bd354275fce1d92b6b97fb08ead9a4c8bd9c120780b56f622bdbb79a9ed4.jpg",
+        "table_caption": [
+            "表6薰衣草秸秆和薰衣草秸秆青贮NDF的瘤胃降解率和降解参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>3</td><td>14.8b</td><td>18.9a</td><td>0.97</td><td><0.01</td></tr><tr><td>6</td><td>19.1b</td><td>26.9a</td><td>1.06</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c674d889e512356b896900b9297c8b2d54361c25c609febc1eab5343f6a4e5b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>12</td><td>23.4b</td><td>34.1a</td><td>2.92</td><td><0.01</td></tr><tr><td>24</td><td>27.8b</td><td>39.0a</td><td>2.84</td><td><0.01</td></tr><tr><td>36</td><td>32.9b</td><td>42.5a</td><td>3.01</td><td><0.01</td></tr><tr><td>48</td><td>37.7b</td><td>46.2a</td><td>2.47</td><td><0.01</td></tr><tr><td>72</td><td>43.7b</td><td>50.1a</td><td>2.88</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "瘤胃降解参数Rumen ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "degradation parameters ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/165db325a2b0d7308f6e7f92b7bf1a5e7f85a8968b90e8f660c820da4da025b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>a/%</td><td>2.20b</td><td>5.44a</td><td>0.223</td><td>0.03</td></tr><tr><td>b/%</td><td>39.0</td><td>40.4</td><td>0.71</td><td>0.08</td></tr><tr><td>a+b/%</td><td>41.2b</td><td>45.8a</td><td>1.50</td><td>0.03</td></tr><tr><td>c/ (%/h)</td><td>0.05b</td><td>0.13a</td><td>0.009</td><td><0.01</td></tr><tr><td>ED/%</td><td>31.4b</td><td>39.8a</td><td>0.52</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1 常规营养成分",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "植物秸秆是一类NDF含量相对较高、CP含量相对较低的低营养价值饲料。本试验中，薰衣草秸秆的NDF和CP含量分别为565.0和95.9 g/kgDM，与李静等[8]报道的薰衣草秸秆NDF（575.7g/kgDM）和CP含量（ $8 0 . 4 ~ \\mathrm { g / k g }$ DM）相似，但与刘华等[17]报道的薰衣草秸秆NDF（ $6 3 6 . 0 ~ \\mathrm { g / k g }$ DM）和CP含量（67.0g/kgDM）有较大差异。本试验中，薰衣草秸秆的ADF含量高于李静等[8]报道的薰衣草秸秆ADF含量 $( 3 3 1 . 3 ~ \\mathrm { g / k g }$ DM)，但与刘华等[17]报道的ADF含量（ $4 0 0 . 0 \\mathrm { g / k g }$ DM）相似。这可能与原产地的环境、土壤、温湿等种植条件的变化有关。青贮是在厌氧条件下，通过厌氧微生物（主要是乳酸菌）的繁殖和发酵，降解碳水化合物，产生乳酸等有机酸，降低青贮原料pH，抑制好氧微生物的活动，从而长期保存饲料原料的过程[18]。本试验中，青贮处理使薰衣草秸秆的营养成分发生变化，原因可能是在青贮过程中，微生物会消耗部分碳水化合物，产生菌体蛋白，从而降低了薰衣草秸秆OM和NDF含量，提高了CP含量。与薰衣草秸秆相比，薰衣草秸秆青贮的EE含量显著提高，可能与碳水化合物含量相对降低，同时微生物繁殖时合成有关，该结果与夏科等[19]和张文举等[20]报道的玉米秸秆和玉米秸秆青贮的结果一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2营养物质降解率及降解参数",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "薰衣草秸秆3和 $^ { 7 2 \\mathrm { ~ h ~ } }$ 的DM降解率分别为 $2 5 . 9 \\%$ 和 $60 . 7 \\%$ ，均高于刘华等[17]报道的结果，可能的原因是薰衣草秸秆本身营养成分的差异和不同瘘管动物（牛和羊）的瘤胃发酵状态不同。饲料营养物质包括瘤胃可利用部分和不可利用部分，瘤胃可利用部分包括快速降解部分和慢速降解部分。本试验的结果表明，薰衣草秸秆经过青贮后DM瘤胃降解率有所提高，主要提高了DM中可利用部分和慢速降解部分比例，同时也提高了薰衣草秸秆的 DM慢速降解部分降解速率，这与张佩华等[21]报道的青贮对饲料稻秸秆的结果相似。这说明青贮处理提高了薰衣草秸秆的瘤胃利用程度。在本试验中，薰衣草秸秆的OM瘤胃降解率略高于DM瘤胃降解率，主要与DM中无机物不易被降解有关。青贮提高了薰衣草秸秆的OM瘤胃降解率，同样是由于提高了可利用部分和慢速降解部分比例。刘凯玉等[7报道青贮可以提高水稻秸秆的OM瘤胃降解率，但是主要提高了快速降解部分比例，而非慢速降解部分比例，这可能与不同饲料原料中非结构性碳水化合物、结构性碳水化合物和CP的组成和比例不同有关。从本试验薰衣草秸秆和薰衣草秸秆青贮的CP 和NDF 的降解特性可以看出，青贮后薰衣草秸秆OM的 ED 的提高来源于CP 和 NDF 的ED 的提高。薰衣草秸秆3 和 $7 2 \\mathrm { { h } }$ 的CP瘤胃降解率分别为 $2 5 . 0 \\%$ 和 $80 . 4 \\%$ ，均明显高于刘华等[17]报道的结果，这可能与2个试验DM瘤胃降解率不同的原因相似。青贮处理有效提高了薰衣草秸秆 $3 6 \\mathrm { h }$ 前的CP 瘤胃降解率，对 $4 8 \\mathrm { { h } }$ 后的影响较小，这说明青贮处理有利于薰衣草秸秆CP的前期发酵降解。根据CP 的瘤胃降解参数可知，青贮处理并没有改变薰衣草秸秆CP可利用部分的比例，但是加快了在瘤胃中的发酵速率，提高了CP的ED。该结果可能与青贮过程中薰衣草秸秆CP受微生物发酵作用后结构和组成发生改变有关。夏科等[19]研究表明，玉米秸秆青贮前 72h的CP 瘤胃降解率显著高于玉米秸秆，且提高了可利用部分、快速降解部分的比例和CP 的ED。2个试验结果的差异可能源自薰衣草秸秆与玉米秸秆本身CP结构和青贮条件的不同。饲料中的CP 可分为RDP 和RUP，RDP会被瘤胃微生物降解为小肽、游离氨基酸和氨，部分再被瘤胃微生物合成菌体蛋白，RUP 则直接通过瘤胃进入后部消化道被分解利用[22]。饲料RDP 和RUP比例对饲料营养价值评价和动物需要量测定都具有重要意义。本试验结果表明，青贮对薰衣草秸秆 RDP 和 RUP 比例影响较小。饲料中 NDF 在瘤胃中的降解程度是评价饲料营养价值的重要指标，青贮处理提高了薰衣草秸秆NDF 各个时间点的瘤胃降解率和ED，促进薰衣草秸秆NDF在瘤胃中的发酵，改善了薰衣草秸秆的营养价值，该结果与夏科等[19]在玉米秸秆上的研究结果一致。与薰衣草秸秆相比，薰衣草秸秆青贮的NDF 快速降解部分、慢速降解部分比例和慢速降解部分降解速率均有所提高，可能的原因是青贮可以有效保持秸秆本身的营养成分，纤维素之间的结构疏松，降低了存储中秸秆木质化程度，有利于瘤胃微生物附着，促进 NDF 的快速降解，同时提高了 NDF 的瘤胃降解率[7,23]。此外，刘华等[17研究表明，薰衣草秸秆中含有香草酸、原儿茶酸、阿魏酸和香豆酸等植物酚酸，这些成分可以结合薰衣草秸秆中的碳水化合物或含氮化合物，减少营养物质在瘤胄中的降解。El-Waziry[24]研究表明，青贮理可有效降低植物中酚类物质的含量，并通过体外产气法证明青贮处理提高了含有植物多酚类物质的合欢和滨藜的 NDF 消失率。本试验中青贮处理对薰衣草秸秆饲料价值的改善可能也与青贮过程中薰衣草秸秆中植物酚酸的降解有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对薰衣草秸秆进行青贮处理可以改善其饲料品质，提高薰衣草秸秆DM、OM和 NDF的瘤胃降解率和CP的ED，提高肉牛对薰衣草秸秆的利用效率。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]中国科学院中国植物志编辑委员会.中国植物志第65 卷第2分册[M].北京:科学出版社,1997.  \n[2]陈和平,周贺新,贺瑞振,等.薰衣草在新疆的研究现状及对策[J].农垦科学,2005,27(5) :371-372.  \n[3] 廖祯妮.不同地区薰衣草引种与耐湿热研究[D].硕士学位论文.长沙:湖南农业大学,2014.  \n[4]伊犁州直薰衣草产业发展情况调研报告.薰衣草——伊犁州直的特色产业[R/OL].伊型 州 商 务 预报 .[2013-04-19].htp:/cif.mofcom.gov.cn/site/html/yl/html/1106143/2013/4/19/1366348662954.html.  \n[5]祁宏伟.玉米秸秆及其青贮饲料干物质降解率相关分析[J].吉林畜牧兽医,2005(12):13-14.  \n[6]陶莲,刁其玉.青贮发酵对玉米秸秆品质及菌群构成的影响[J].动物营养学报,2016,28(1) :198-207.  \n[7] 刘凯玉,张永根,辛杭书,等.不同处理水稻秸秆营养成分及其瘤胃降解特性研究[J].中国畜牧杂志,2014,50(7) :57-61,101.  \n[8] 李静,刘建明,杨光维,等.蒸馏提取精油后薰衣草秸秆与野干草、小麦秸制作混合青贮的效果评价[J].中国饲料,2017(12):13-17.  \n[9]刘建明,李静,杨光维,等.两种薰衣草秸秆混合青贮育肥牛试验效果观察[J].饲料博览,2017(5):25-28.  \n[10］冯仰廉.肉牛营养需要和饲养标准[M].北京:中国农业大学出版社,2000.  \n[11]AOAC.Oficial methods of analysis[S].15th ed.Arlington,VA:Association of Official",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Analytical Chemists,1990. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[12]VAN SOEST P J,ROBERTSON J B,LEWIS B A.Methods for dietary fiber,neutral detergent fiber,and nonstarch polysaccharides in relation to animal nutrition[J].Journal of Dairy Science,1991,74(10):3583-3597. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[13]ORSKOV E R,MCDONALD I.The estimation of protein degradability in the rumen fromincubation measurements weighted according to rate of passage[J].The Journal ofAgricultural Science,1979,92(2):499-503.  \n[14]BHARGAVA P K,ORSKOV E R.Manual for the use of nylon bag technique in theevaluation of feedstuffs[M].Aberdeen,Scotland:Rowett Research Institute,1987.  \n[15]NRC.Nutrient requirements of beef catle[S].8th ed.Washington,D.C.:National AcademyPress,2016.  \n[16]SAS.Statistical analysis system,version 9.1[Z].Cary,NC:SAS Institute Inc.,2003.  \n[17]刘华,杨红建,王国庆,等.尼龙袋法评定精油提取前后薰衣草瘤胃降解特性差异[J].中国畜牧兽医,2013,40(11):71-74.  \n[18]孔祥德.秸秆青贮原理及制作技术[J].现代农业科技,2012(7):323-324.  \n[19]夏科,姚庆,李富国,等.奶牛常用粗饲料的瘤胃降解规律[J].动物营养学报,2012,24(4):769-777.  \n[20]张文举,晏向华,龚月生,等.青贮对玉米秸营养价值及其瘤胃有效降解率的影响[J].中国草食动物,2003,23(1):8-9.  \n[21]张佩华,王加启,贺建华,等.青贮对饲料稻秸秆DM和 NDF 瘤胃降解特性的影响[J].草业科学,2008,25(6):80-84.  \n[22］赵广永.反刍动物饲料可利用粗蛋白与可利用氨基酸研究进展[C]//动物生理生化学分会第八次学术会议暨全国反刍动物营养生理生化第三次学术研讨会论文集.长春:中国畜牧兽医学会,2004:213-217.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[23]王寒.玉米秸秆的青贮及水解方法的研究[D].硕士学位论文.天津:天津大学,2011:33-35.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[24]El-WAZIRY A M.Nutritive value assessment of ensiling or mixing acacia and atriplex using invitro gas production technique[J].Research Journal of Agriculture and Biological Sciences,2007,3(6):605-614. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Comparison on Rule of Rumen Degradation between Lavender Straw and Lavender Straw Silage WEI Chen1,2,3\\*YOU Wei1,2.3\\*TAN Xiuwen1,2.3JIN Qing1,2.3ZHANG   \nXianglun1,2.3LIU Guifen $^ { 1 , 2 , 3 }$ ZHAO Hongbo $^ { 1 , 2 , 3 }$ ZHANG Chen3,4WAN Fachun1,2,3,4\\*\\* (1.Institute of Animal Science and Veterinary Medicine, Shandong Academy of Agricultural Sciences, Jinan 250100, China; 2. Shandong Provincial Key Laboratory of Animal Disease   \nControl and Breeding,Jinan 250100,China;3.Shandong Provincial Test Center for Beef Cattle Productivity, Jinan 250100, China; 4. College ofLife Sciences, Shandong Normal University, Jinan 250014, China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The purpose of the study was to investigate the rumen degradation characteristics of lavender straw and lavender straw silage，and compared differences of their rule of rumen degradation. Four 1.5 years permanent cannulated Lilu bulls (Limousin $\\times$ Luxi Yellow Cattle) with average body weight of（ $4 1 5 { \\pm } 2 0$ ）kg were used in the trial. Nylon bag technique was performed to evaluate rumen degradability and degradation parameters of dry mater (DM), organic matter (OM),crude protein (CP) and neutral detergent fiber (NDF) of lavender straw and lavender straw silage.The results showed that ensiling process significantly decreased the OM content of lavender straw $( P { < } 0 . 0 5 )$ ，and significantly increased the ether extract (EE) content $( P { < } 0 . 0 5 )$ ，and tended to increase the CP content ( $\\scriptstyle { ( P = 0 . 0 7 }$ ）and decrease NDF content ( $\\scriptstyle ( P = 0 . 0 8 )$ ), but had no effect on acid washing fiber（ADF） content $( P { > } 0 . 0 5 )$ . Ensiling process significantly increased rumen degradability of DM, OM and NDF at 72 h of lavender straw $( P { < } 0 . 0 5 )$ ，and had no effect on rumen degradability of CP at $^ { 7 2 \\mathrm { ~ h ~ } }$ 1 $\\mathrm { ( } P \\mathrm { > } 0 . 0 5 \\mathrm { ) }$ . The efficient degradability of DM, OM, CP and NDF of lavender straw silage was significantly higher than that of lavender straw ( $( P { < } 0 . 0 5 )$ .Ensiling process did not affect the rapid degradation fraction (a) percentage of DM and OM of lavender straw $( P { > } 0 . 0 5 )$ ,but significantly increased the percentage of slow degradation fraction (b） and available fraction of DM and OM $( P { < } 0 . 0 5 )$ ，and tended to increase the degradation rate of slow degradation fraction (c） of DM( ${ ( P \\mathrm { = } } 0 . 0 6 )$ .There was no difference on the percentage of rapid degradation fraction, slow degradation fraction and available fraction of CP between lavender straw and lavender straw silage $( P { > } 0 . 0 5 )$ ,but the degradation rate of slow degradation fraction of CP was tended to be increased after ensiling process ${ ( P \\mathrm { = } } 0 . 0 6 )$ .Ensiling process significantly increased the rapid degradation fraction, available fraction percentage and degradation rate of slow degradation fraction of NDF of lavender straw $( P { < } 0 . 0 5 )$ , and tended to increase the percentage of slow degradation fraction of NDF $( P { = } 0 . 0 8 )$ . Above all, ensiling process can improve the quality of lavender straw and elevate its utilization efficiency by beef cattle. It will provide reference for further exploitation and use of lavender straw. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: lavender straw; silage; rumen; rule of degradation ",
+        "page_idx": 17
+    }
+]

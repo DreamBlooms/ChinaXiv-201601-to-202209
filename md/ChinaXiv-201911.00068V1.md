@@ -1,0 +1,158 @@
+# 西北干旱区土壤水力参数空间变异与模拟
+
+李祥东1²，邵明安1,2.3，赵春雷3（1．中国科学院水利部水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西 杨凌712100；2．中国科学院大学资源与环境学院,北京100190；3．中国科学院地理科学与资源研究所,北京100101)
+
+摘要：为探明西北干旱区土壤水力参数的空间分布特征,在新疆地区布设107个样点,获取表层( $0 \sim 5 ~ \mathrm { c m } ^ { \cdot }$ Ks(土壤饱和导水率）、FC（田间持水量)和PWP(永久萎蔫系数)数据,采用经典统计学和地统计学分析土壤水力参数的空间变异特征,并利用逐步回归和传递函数方程对Ks、FC 和PWP进行模拟。结果表明：新疆地区Ks、FC 和PWP 平均值分别为 $1 0 . 9 9 9 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 } \cdot 0 . 1 6 2 \ \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ 和 $0 . 0 7 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ ,变异系数为 $3 9 . 8 8 \% \sim 9 6 . 0 7 \%$ ,均表现为中等程度变异。在区域尺度上 $\mathrm { K s , F C }$ 和PWP具有强空间依赖性,变程为 $9 7 \sim 2 9 1 ~ \mathrm { k m }$ 。与经自变量数据转换构建的传递函数方程相比,多元逐步回归方程预测土壤水力参数精度更高，且方程使用更便利。基于土地利用、容重、土壤质地、有机碳含量和坡向的多元逐步回归方程,预测Ks、FC 和PWP的决定系数 $R ^ { 2 }$ 分别为0.290、0.494和0.491，均方根误差(RMSE)分别为 $2 . 5 4 0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ， $0 . 0 3 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 和 $0 . 0 2 3 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 。这些方程的建立,有利于西北干旱区土壤水力参数的快速估算,同时可为该地区的农业灌溉和生态水文模型提供关键参数。
+
+关键词：土壤饱和导水率；田间持水量；永久萎蔫系数；区域尺度；多元逐步回归；新疆
+
+土壤饱和导水率（soil saturated hydraulic conductivity，Ks）、田间持水量（fieldcapacity，FC）和永久萎蔫系数（permanentwiltingpoint，PWP）是土壤重要的水力参数。Ks影响着降水水分入渗和产流模式,进而影响区域水分再分配过程(1-2]。FC 是水分饱和的土壤经重力排水后土壤所能保持的最大含水量,是多数植物可利用土壤水的上限[3-4]。PWP是植物产生永久萎蔫时的土壤含水量，决定了植物可利用土壤水的下限[3-4]。同时 Ks、FC 和PWP 也是生态水文模型中非常重要的敏感性参数，在农业生产实践中决定了农田需水量与灌溉制度(5-6。相关研究表明，Ks、FC和PWP具有较强的空间异质性[7-8]。因此,准确揭示土壤水力参数的空间分布特征在农业、工程以及水利方面具有重要的意义。
+
+目前，已有学者对土壤水力参数的空间异质性进行了大量研究。但是由于取样困难，测定时间长和耗费人力物力较高等原因，以往土壤水力参数的测定研究多集中于小尺度。例如：赵春雷等[2在黄土高原北部六道沟小流域研究了坡面尺度Ks的空间异质性。张川等在桂西北喀斯特地区研究了坡面尺度表层Ks的空间变异。高肖彦等["在科尔沁沙地对比研究了不同试验方法测定FC的差异。Qiao 等["在点尺度上研究了黄土高原关键带深剖面FC 和PWP垂直分布特征。在区域尺度上,Wang等[7]和 Zhao 等[8]采用网格布点取样的方式研究了黄土高原区域尺度Ks的空间分布特征。基于遥感水分数据,杨绍谔等[12]估算了华北及东北地区的土壤FC。以往区域尺度土壤水力参数的研究大多集中于我国东部和中部地区，在我国西北地区则研究较少。
+
+传递函数模型可以根据较容易获得的土壤理化性质快速推算出不易实地测量的土壤参数，因而被广泛用来预测大尺度土壤水力参数的分布。例如，Zhao 等[8基于土壤容重、质地和土壤饱和含水量的传递函数方程，预测了Ks在整个黄土高原的分布特征。利用土壤容重、质地和有机碳的传递函数，Dai等[13]制作了我国大陆地区 $3 0 ^ { \prime \prime } \times 3 0 ^ { \prime \prime } \mathrm { K s , F C }$ 和 PWP等土壤水力参数分布图。传递函数的构建需要以大量实测的土壤水力参数数据作为基础。然而，有关我国西北干旱区土壤水力参数的研究中，存在研究覆盖范围小、采样密度低等问题。此外，传递函数往往具有较强的区域适用性，在其他地区建立的传递函数很难在西北干旱区获得较好的预测结果[4]因此，通过高密度的野外实地采样，获取大量、可靠的实测数据,对于认识西北干旱区土壤特征分布格局、构建适宜本地区的土壤水力参数预测方程是十分必要的。
+
+本研究选取我国新疆地区，采用网格布点的方式，实地测量了新疆地区土壤表层 $0 \sim 5 \ \mathrm { c m \ K s \lrcorner F C }$ 和PWP。采用经典统计学和地统计学理论分析了土壤水力参数在新疆地区的空间分布特征，且基于土壤容重、质地、有机碳等环境变量构建了预测Ks、FC和PWP的传递函数方程，以期为我国西北干旱区土壤水资源的科学管理、土壤水循环模拟与预测提供依据。
+
+# 研究地区与研究方法
+
+# 1.1 研究区概况
+
+研究区位于我国新疆！ $( 3 4 ^ { \circ } 2 2 ^ { \prime } \sim 4 9 ^ { \circ } 3 3 ^ { \prime } \mathrm { ~ N ~ }$ $7 3 ^ { \circ } 2 2 ^ { \prime } \sim 9 6 ^ { \circ } 2 1 ^ { \prime } \mathrm { E } ^ { \prime }$ （图1）。“三山夹两盆"构成了新疆独特的地形特点。从南到北分别是昆仑山、天山和阿尔泰山山脉，以及中间的塔里木盆地和准噶尔盆地。中间的天山山脉把新疆地区分为了南疆与北疆两部分，南疆与北疆地区分别有塔克拉玛干沙漠与古尔班通古特沙漠。新疆地处内陆远离海洋，气候以干旱为主要特征。北疆地区多年平均气温为$- 4 \sim 9 \mathrm { ~ } \mathrm { { ~ \mathcal { C } } }$ ,平均降水量为 $1 5 0 \sim 2 0 0 ~ \mathrm { m m }$ ,潜在蒸发量为 $1 ~ 5 0 0 \sim 2 ~ 3 0 0 ~ \mathrm { m m }$ ;南疆地区多年平均气温为$7 \sim 1 4 ~ \mathrm { { ^ circ C } }$ ,平均降水量为 $2 5 \sim 1 0 0 \ : \mathrm { m m }$ ,潜在蒸散发注：新疆边界地图来源于国家测绘地理信息局国家基础地理信息中心。
+
+![](images/f8efc4627350075650fb6241f87e848d2024c20c2a1e5b98e2137e33298ef35e.jpg)  
+图1新疆地区采样点分布示意图 Fig.1Distribution of the sampling sites in Xinjiang
+
+为 $2 ~ 1 0 0 \sim 3 ~ 4 0 0 ~ \mathrm { \ m m } ^ { \left[ 1 4 - 1 5 \right] }$ 。新疆地区生态环境脆弱，风蚀严重，土壤贫瘠，土壤类型以钙质土和荒漠土为主。天然植被类型主要有山地森林、荒漠灌木林、山地草地与荒漠稀疏草原等。
+
+# 1.2样品采集与分析
+
+2017年8一9月，依托公路网，采用网格法（间距约为 $8 0 \ \mathrm { k m } \times 8 0 \ \mathrm { k m } ,$ 布点取样（图1）。选取的采样点既考虑了随机性，同时也能代表采样点附近的主要地形特征和土地利用类型。利用GPS记录每个点的经纬度和海拔信息，使用罗盘仪测量样点的坡度和坡向。在每个样点用环刀（体积 $1 0 0 ~ \mathrm { { c m } } ^ { 3 }$ )采集表层 $0 \sim 5 ~ \mathrm { c m }$ 原状土壤样品1个;在采样点附近用土钻采集表层 $0 \sim 5 ~ \mathrm { c m }$ 扰动土壤样品3个并混合为1个扰动样品，土样带回实验室分析处理。本研究共布设107个样点，由于部分地区土壤碎石含量高，土壤原状土取样困难以及没有道路到达，因此，沙漠和戈壁地区代表性样点较少。
+
+采集的原状土壤样品用于分析土壤水力参数。Ks 采用上供水恒定水头一维土柱入渗法[2]。FC 与PWP分别对应土壤水势值为-1/3巴和－15巴的土壤含水量(1,13]。土壤含水量与土壤水势之间的关系通过土壤水分特征曲线求得，土壤水分特征曲线采用离心机法测定并用vanGenuchten模型拟合。原状土样经烘箱 $1 0 5 \ \mathrm { ^ \circ C }$ 烘干至恒重后，称重测定计算土壤容重。扰动土壤样品经风干后分别过0.25$\mathbf { m } \mathbf { m }$ 和 $1 \ \mathrm { m m }$ 网筛预处理,用于测定土壤有机碳含量和土壤粒径组成（美国农业部制）。利用重铬酸钾氧化法测定土壤有机质含量，使用激光粒度仪测定土壤粒径组成。采样点处的多年平均降水量、平均气温和干燥度指数等数据来源于中国科学院资源环境科学数据中心。采样点的土地利用组成为：农地27个，林地(包括乔木和灌木林地)28个和草地 52个(图1)。
+
+# 1.3 数据分析方法
+
+经典统计学中主要采用变异系数 $( C v , \ \% )$ 表示空间变量的变异性,其中：
+
+$$
+C v = \frac { S } { \overline { { X } } } \times 1 0 0 \%
+$$
+
+式中： $s$ 为标准偏差； $\overline { { \boldsymbol X } }$ 为平均值。根据变异等级分级， $C v \leqslant 1 0 \%$ 属于弱变异， $1 0 \% < C v \leqslant 1 0 0 \%$ 属于中等变异,Cu >100%属于强变异[1]
+
+地统计学空间变异理论主要基于半方差函数。
+
+半方差 $\gamma ( h )$ 是计算变量在空间位置相隔一定距离下的样本方差值，计算公式为：
+
+$$
+\gamma ( h ) = \frac { 1 } { 2 N ( h ) } { \sum _ { i = 1 } ^ { n } \big [ } Z ( x _ { i } ) - Z ( x _ { i } + h ) { \big ] } ^ { 2 } 
+$$
+
+式中： $h$ 为滞后距离； $n$ 为样点总数； $x _ { i }$ 表示样点位置； $Z ( x _ { i } )$ 为随机变量 $Z$ 在点 $x = x _ { i }$ 处的值; $Z ( x _ { i } +$ $h$ )为相距点 $x _ { i }$ 为 $h$ 远处的值； $N ( h )$ 为滞后距离是 $h$ 时的样本对数。半方差函数反映了变量在空间上的相关性。通过半方差图可以计算出空间变量的块金值 $( C _ { 0 } )$ 、基台值 $( C _ { 0 } + C )$ 和变程（Range）[1-2]。根据 Cambardella 的划分标准[16],空间异质比 $C _ { 0 } /$ $( C _ { 0 } + C ) \leqslant 2 5 \%$ 时表示强的空间依赖性， $2 5 \% < C _ { 0 } /$ $( C _ { 0 } + C ) < 7 5 \%$ 时表示中等空间依赖性, $C _ { 0 } / ( C _ { 0 } +$ C)≥75%时表示弱的空间依赖性[2,7) O
+
+选择海拔、坡向、坡度、容重、黏粒、粉粒、砂粒、有机碳含量、多年平均降雨量、平均气温、干燥度指数和土地利用类型作为环境变量，采用多元逐步回归方程预测土壤水力参数，其中逐步回归变量的选择与移除标准是依据变量引人后显著性 $P$ 值0.05（引入)与0.1（移除）。同时选取与土壤水力参数显著相关的环境变量，自变量经对数、倒数、平方、开方4种常见的数据转换后进行逐步回归分析，构建土壤水力参数传递函数方程。土壤水力参数数据集随机分为 $7 5 \%$ 的训练样本(80个）和 $2 5 \%$ 的验证样本（27个）。利用训练样本构建多元回归方程与传递函数，利用验证样本对所构建的土壤水力参数预测方程进行精度检验。本研究采用决定系数 $( R ^ { 2 } )$ 和均方根误差(RMSE)来评价逐步回归方程和传递函数模型的精度。
+
+# 1.4 数据处理
+
+使用SPSS20.0进行各变量的基本统计分析、Pearson相关分析和逐步回归分析，使用 $\mathrm { G S } + 9 . 0$ 进行土壤水力参数半方差函数计算与拟合，使用Arc-GIS10.6进行土壤水力参数克里格插值及制图。
+
+# 表1土壤水力参数描述性统计特征
+
+Tab.1Descriptive statistic characteristics of soilhydraulic parameters   
+
+<html><body><table><tr><td>土壤水 力参数</td><td>饱和导水率 /(mm·h-1)</td><td>田间持水量 /(g:g-1)</td><td>萎蔫系数 /(g:g-1)</td></tr><tr><td>最小值</td><td>0.060</td><td>0.048</td><td>0.013</td></tr><tr><td>最大值</td><td>62.968</td><td>0.342</td><td>0.174</td></tr><tr><td>平均值</td><td>10.999</td><td>0.162</td><td>0.077</td></tr><tr><td>标准差</td><td>10.567</td><td>0.065</td><td>0.037</td></tr><tr><td>变异系数/%</td><td>96.072</td><td>39.875</td><td>48.139</td></tr><tr><td>偏度</td><td>1.873</td><td>0.824</td><td>1.007</td></tr><tr><td>峰度</td><td>5.370</td><td>0.604</td><td>0.645</td></tr><tr><td>K-S</td><td>0.019</td><td>0.548</td><td>0.107</td></tr><tr><td>分布类型</td><td>对数正态</td><td>正态</td><td>正态</td></tr></table></body></html>
+
+高的砂粒含量和较低的黏粒含量有关(13]。黄土高原地区[7,17]和喀斯特地区[9]表层土壤Ks 分别为$1 3 . 9 0 \sim 4 2 . 0 0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 和 $5 4 9 . 1 7 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ,高于本研究区域。这可能是因为本研究区中沙漠地带无法到达，采样点稀少，因而低估了新疆地区平均Ks。其次陕北黄土高原地区由于本身砂粒含量较高[],因而表层 Ks 大于新疆非沙漠地区[13]。Dai等[13]指出，FC和PWP较高值分布在我国东南部地区，西北干旱半干旱地区FC 和 PWP 较低。 ${ { \mathbb { W } } _ { \mathbf { u } } }$ 等[18]指出，我国最低的FC在新疆南部塔克拉玛干沙漠地区与甘肃北部阿拉善沙漠地区，西北干旱区较低的FC与本地区较高的砂粒含量有关。FC和PWP在美国干旱地区[19]分别为 $0 . 2 1 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 和 $0 . 1 0 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ ，在黄土高原地区[1]分别为 $0 . 2 2 8 \textrm { g } \cdot \textrm { g } ^ { - 1 }$ 和0.130$\mathbf { g } \cdot \mathbf { g } ^ { - 1 }$ ,均显著高于本研究地区,这也与西北地区较高的砂粒含量有关。土壤水力参数Ks、FC和PWP的 $\ b { C v }$ 在 $10 \% \sim 9 0 \%$ ,为中等程度变异。区域尺度上黄土高原地区土壤表层Ks的 $\ b { C v }$ 为 $20 6 \%$ ，为强空间变异[7],FC 和 PWP 为中等程度变异(8,11]。通过偏度、峰度以及单样本K-S检验结果表明，FC和PWP为正态分布，而Ks经底数为10的对数变换后满足正态分布。
+
+# 2.2基于地统计学的土壤水力参数空间变异特征及分布格局
+
+# 2结果与讨论
+
+# 2.1土壤水力参数的基本统计特征
+
+表1显示了土壤水力参数的统计特征值。新疆地区Ks、FC和PWP平均值分别为 $1 0 . 9 9 9 \mathrm { ~ m m } \cdot$ ，$\textrm { h } ^ { - 1 } \cdot 0 . 1 6 2 \textrm { g } \cdot \textrm { g } ^ { - 1 }$ 和 $0 . 0 7 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 。相比于我国东南部地区，新疆地区具有较高的 $\mathrm { K s }$ ,这与本地区较
+
+利用地统计学半方差理论对土壤水力参数的空间变异性进行分析，结果见表2。Ks与PWP的最佳拟合模型为高斯模型，FC最佳拟合模型为指数模型。土壤水力参数具有较小的块金值 $( 0 . 0 0 1 \sim$ 0.051），表明随机因素引起的土壤水力参数变异性较小。Ks、FC和PWP空间异质比分别为 $1 6 . 9 0 \%$ 、$0 . 2 0 \%$ 和 $2 3 . 3 0 \%$ ,均小于 $2 5 \%$ ,表明在新疆地区土壤水力参数具有强的空间依赖性。变程反映空间变量在多远距离范围内具有空间相关性。Ks在97.00$\mathrm { k m }$ 范围内具有空间依赖性。FC与PWP变程分别为 $2 9 1 . 0 0 \ \mathrm { k m }$ 和 $1 3 8 . 6 0 \ \mathrm { k m }$ 。Ks 在黄土高原区域尺度空间异质比为 $4 8 . 6 0 \%$ 为中等空间依赖性,变程为 $6 8 ~ \mathrm { k m } ^ { [ 7 ] }$ 。表明土壤水力参数在新疆地区具有更大的空间相关性。邵明安等[1指出，最佳采样点间距应小于变程的一半，因此，Ks与PWP应缩小采样间距，增加采样点，而FC可以适当增加采样间距，减少采样点数据。
+
+表2土壤水力参数半方差函数模型及其结构参数  
+Tab.2Semivariance model and structural parameters of soil hydraulic parameters   
+
+<html><body><table><tr><td>土壤水力参数</td><td>模型</td><td>块金值</td><td>基台值</td><td>空间异质比/%</td><td>变程/km</td><td>决定系数</td><td>残差平方和</td></tr><tr><td>饱和导水率</td><td>高斯模型</td><td>0.051</td><td>0.305</td><td>16.90</td><td>97.00</td><td>0.555</td><td>0.014</td></tr><tr><td>田间持水量a</td><td>指数模型</td><td>0.001</td><td>0.431</td><td>0.20</td><td>291.00</td><td>0.788</td><td>2.770</td></tr><tr><td>萎蔫系数a</td><td>高斯模型</td><td>0.031</td><td>0.135</td><td>23.30</td><td>138.60</td><td>0.753</td><td>0.182</td></tr></table></body></html>
+
+注：a表示数据扩大了10 倍。
+
+半方差分析表明，Ks、FC和PWP在新疆地区具有明显的空间结构，为直观反映土壤水力参数在新疆地区的空间分布格局，利用基于半方差理论的普通克里格插值法对土壤水力参数进行插值作图（图2）。因新疆沙漠地区以及东部戈壁地区采样点较少，插值结果不具有代表性，因此，对这些地区不考虑。天山东部地区、昆仑山西部地区和阿尔泰山北部地区具有较高的Ks;塔里木盆地边缘、准噶尔盆地边缘和天山中部地区具有较低的Ks。新疆西部和塔里木河流域中上游土壤具有较高的FC 与PWP;伊犁河谷地区以及新疆东北部区域具有较低的FC和PWP值。本研究中新疆地区土壤水力参数分布格局与Dai等[13]研究相比,在高值分布区相对一致，而在低值分布区略有差异。土壤水力特征高值分布区域往往伴有较高的植被盖度，因此，研究土壤水力特征有利于加深西北干旱区植被水分利用过程的认识[20]
+
+# 2.3土壤水力参数与环境变量的相关关系
+
+为探究环境因子对土壤水力参数的影响，利用Pearson相关系数分析环境变量与土壤水力参数的相关性(表3）。Pearson相关分析表明：Ks与海拔、坡向、坡度和砂粒含量呈显著正相关( $\textstyle P < 0 . 0 5 )$ ，与土壤容重、黏粒、粉粒含量和多年平均气温呈显著负相关( $\scriptstyle P < 0 . 0 5 )$ 。砂粒含量是影响土壤饱和导水的最显著因子，Pearson相关系数为0.426。Ks与土壤有机碳含量、多年平均降水和干燥度指数没有明显的相关关系（ $\cdot P > 0 . 0 5 )$ 。FC和PWP与环境因子具有相似的相关关系。坡向、坡度、容重、土壤质地（黏粒、粉粒和砂粒)和有机碳含量显著影响土壤FC和PWP( $P < 0 . 0 1 )$ 。土壤容重与FC和PWP呈显著负相关，Pearson相关系数最大，为-0.686和$- 0 . 5 5 6$ 。气象因子对FC与PWP没有明显的相关性（ $P > 0 . 0 5 )$ 。这与前人研究相一致，土壤容重和质地对土壤水力参数具有显著相关关系[2,7]。Ks与土地利用类型显著相关( $\textstyle P < 0 . 0 1 { \dot { } }$ ），单因素方差分析(ANOVA)表明，农地Ks平均值为 $5 . 3 1 3 ~ \mathrm { m m }$ ：
+
+![](images/b856c92565dc6b65a1701f1a8e9498ee9ce96e0709b7af580a65edd830b77a21.jpg)  
+图2新疆地区土壤水力参数空间分布  
+Fig.2Spatial distribution of soil hydraulic parameters in Xinjiang
+
+表3环境变量描述及其与土壤水力参数的Pearson相关关系  
+.3Descriptions of environmental variablesand the Pearson's correlation coeficients between soil hydraulic parame   
+
+<html><body><table><tr><td rowspan="2">变量</td><td rowspan="2">平均值</td><td rowspan="2">标准差</td><td rowspan="2">变异系数/%</td><td colspan="3">Pearson 相关系数</td></tr><tr><td>饱和导水率</td><td>田间持水量</td><td>萎蔫系数</td></tr><tr><td>海拔a</td><td>1 171.92</td><td>627. 22</td><td>53.52</td><td>0.217 *</td><td>0.115</td><td>0.084</td></tr><tr><td>坡向</td><td>22.67</td><td>66.50</td><td>293.32</td><td>0.305 **</td><td>0.198 **</td><td>0.240 **</td></tr><tr><td>坡度</td><td>1.68</td><td>5.37</td><td>319.01</td><td>0.239 *</td><td>0.306 **</td><td>0.351**</td></tr><tr><td>容重</td><td>1.33</td><td>0.24</td><td>17.73</td><td>-0.333 **</td><td>-0.686 **</td><td>-0.556 **</td></tr><tr><td>黏粒含量</td><td>16.17</td><td>8.45</td><td>52.26</td><td>-0.382 **</td><td>0.293 **</td><td>0.279 **</td></tr><tr><td>粉粒含量</td><td>45.22</td><td>17.78</td><td>39.31</td><td>-0.320 **</td><td>0.587 **</td><td>0.575 **</td></tr><tr><td>砂粒含量a</td><td>38.61</td><td>23.45</td><td>60.75</td><td>0.426 **</td><td>-0.554 **</td><td>-0.541 **</td></tr><tr><td>有机碳含量a</td><td>9.35</td><td>16.92</td><td>180.95</td><td>0.077</td><td>0.439 **</td><td>0.491 **</td></tr><tr><td>多年平均降水量</td><td>142.45</td><td>97.87</td><td>68.71</td><td>0.158</td><td>0.049</td><td>0.155</td></tr><tr><td>多年平均气温</td><td>6.30</td><td>4.17</td><td>66.21</td><td>-0.232 *</td><td>-0.020</td><td>-0.145</td></tr><tr><td>干燥度指数a</td><td>9.01</td><td>6.28</td><td>69.72</td><td>-0.104</td><td>0.023</td><td>-0.081</td></tr><tr><td>土地利用类型</td><td>二</td><td>二</td><td></td><td>0.441 **</td><td>-0.072</td><td>0.006</td></tr></table></body></html>
+
+注：a表示数据进行了以10为底的对数转换; $*$ 表示在0.05水平(双侧)上显著相关；\*\*表示在0.01水平(双侧)上显著相关。
+
+$\ln ^ { - 1 }$ ,显著小于林地和草地( $\textstyle P < 0 . 0 5 )$ 。FC 和 PWP与土地利用类型不相关( $\cdot P > 0 . 0 5 )$ 。环境因子对土壤水力参数的影响因研究地区和研究尺度的不同而有不同的表现。例如陕西六道沟小流域坡面尺度，Ks与土壤有机碳含量没有显著相关关系（ $P >$ 0.05）[2],而在黄土高原区域尺度上则与有机碳含量呈显著负相关,相关系数为 $- 0 . 1 5 ( P < 0 . 0 1 ) ^ { [ 7 ] }$ 。因此，研究土壤水力参数的变异性，必须考虑地理位置与研究尺度特征。
+
+# 2.4土壤水力参数多元逐步回归与传递函数方程拟合
+
+土壤水力参数传统测定方法费时费力，限制了区域尺度上土壤水力参数的相关研究。本研究随机选取 $7 5 \%$ 的样点构建多元逐步回归方程与传递函数，利用剩余 $2 5 \%$ 的样点数据对构建的预测方程进行精度验证(表4和图3）。构建的逐步回归方程对Ks $\mathrm { . F C }$ 和PWP模拟的决定系数 $R ^ { 2 }$ 分别为0.454、0.710和0.571，RMSE分别为 $2 . 5 8 6 \mathrm { { m m } \cdot \mathrm { { h } ^ { - 1 } } }$
+
+表4土壤水力参数模拟的多元线性逐步回归方程、传递函数方程和模型预测精度  
+Tab.4Multiple linear stepwiseregression equationand pedotransfer function equation simulated with soil hydraulic   
+
+<html><body><table><tr><td colspan="6">parameters as well as their prediction accuracies</td></tr><tr><td rowspan="2">模拟方法</td><td rowspan="2">土壤水力参数方程</td><td colspan="2">训练组</td><td colspan="2">验证组</td></tr><tr><td>R²</td><td>RMSE/(mm·h-1, g·g-1)</td><td>R²</td><td>RMSE/(mm·h-1, g·g-1)</td></tr><tr><td>逐步线性 回归方程</td><td>logKs=1.310 +0.164×LU-0.964×BD+0.010×Sand + 1.623 ×10 -³ × SA</td><td>0.454**</td><td>2.586</td><td>0.290 **</td><td>2.540</td></tr><tr><td rowspan="5">传递函数方程</td><td>FC =0.408 -0.165×BD-0.996 ×10-³ × Sand +1.92 × 10 -³ × SOC</td><td>0.710 **</td><td>0.037</td><td>0.494 **</td><td>0.039</td></tr><tr><td>PWP=0.107 +0.787 ×10-³ × Silt -0.056 ×BD+1.316 × 10-²× SOC</td><td>0.571 **</td><td>0.025</td><td>0.491 **</td><td>0.023</td></tr><tr><td>logKs= -5.854 +1.605 × logSand-3.066 ×BD² +0.174× LU +6.678×BD +0.357 ×logSOC +0.023× Clay</td><td>0.607 **</td><td>2.251</td><td>0.269 **</td><td>2.713</td></tr><tr><td>FC =0.459 -0.068 ×BD² -0.018 × Sand0.5 +0.017 × SOC0.5 -0.066 × logSilt</td><td>0.740 **</td><td>0.035</td><td>0.481 **</td><td>0.039</td></tr><tr><td>PWP=0.183 +6.231×10-6× Silt² -0.134×BD0.5 + 0.010 × SOC0.5 +0.182 × Sand -1</td><td>0.621**</td><td>0.024</td><td>0.475 **</td><td>0.024</td></tr></table></body></html>
+
+注：LU为土地利用方式;BD为容重;Sand为砂粒含量;SA为坡向;SOC 为有机碳;Silt为黏粒含量； $* *$ 表示在0.01水平上模型模拟显著。
+
+![](images/31dd3afe5ae799d8ba214d30c0cb2ee34da6d2274cc432d3e39e6a3fc96fe7a2.jpg)  
+图3基于多元线性回归方程和传递函数方程的验证组土壤水力参数实测值与模拟值对比  
+Fig.3Measuredandsimulatedsoil hydraulicparameters basedonthedatasetsvalidatedwithmultiple linearstepwiseregresion and pedotransfer function equation
+
+$0 . 0 3 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 和 $0 . 0 2 5 \textrm { g } \cdot \textrm { g } ^ { - 1 }$ 。构建的传递函数方程对Ks、FC和PWP模拟的决定系数 $R ^ { 2 }$ 分别为0.607、0.740和0.621，RMSE分别为 $2 . 2 5 1 \ \mathrm { m m }$ ·$\textrm { h } ^ { - 1 } \cdot 0 . 0 3 5 \textrm { g } \cdot \textrm { g } ^ { - 1 }$ 和 $0 . 0 2 4 \textbf { g } \cdot \textbf { g } ^ { - 1 }$ 。与FC 和 PWP相比，土壤Ks的预测精度较低，说明土壤Ks受随机因素的影响更大,更具有区域独特性，这与半方差研究中Ks变程较小的结果一致（表2）。与训练组数据相比,验证组的 $R ^ { 2 }$ 具有不同程度的降低。与以往研究不同[21，通过验证组数据发现，逐步回归方程不仅结构简单且对土壤水力参数的预测精度更高，优于自变量经数据转化的传递函数（表4和图3）。预测Ks、FC和PWP的多元逐步线性回归方程验证组决定系数 $R ^ { 2 }$ 分别为0.290、0.494和0.491,RMSE 分别为 $2 . 5 4 0 \ \mathrm { \ m m } \ \cdot \ \mathrm { h } ^ { - 1 } \setminus 0 . \ 0 3 9 \ \mathrm { \ s } \ \cdot \ \mathrm { \ s } ^ { - 1 }$ 和$0 . 0 2 3 \textrm { g } \cdot \textrm { g } ^ { - 1 }$ 。土壤水力参数实测值与模拟值对比研究表明（图3），土壤Ks在较低值时模拟精度较高,在高于 $1 0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 时模拟精度显著降低，在高于 $2 0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 时预测方程会低估 $\mathrm { K s }$ 。多元逐步回归与传递函数对FC 和PWP 的模拟较一致,预测方程对FC 在 $0 . \mathrm { ~ 1 ~ } \sim 0 . \mathrm { ~ 2 ~ } \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 区间以及PWP 在$0 . 0 5 \sim \mathrm { ~ } 0 . 1 0 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ 区间预测精度较高,但在较低值时会高估FC 和PWP,在较高值时会低估FC 和PWP。Zhao 等[8基于黄土高原数据构建的传递方程能够解释Ks变异的 $31 \%$ ,高于本研究预测精度。Ks 预测精度较低与土壤Ks本身较大的变异性有关,例如在喀斯特地区 $^ { ( 9 ) } \mathrm { K s }$ 变异系数为 $9 5 \%$ ,黄土高原北部坡面尺度[2]变异系数为 $58 \%$ ,黄土高原区域尺度变异系数为 $67 \%$ ,本研究Ks变异系数为$9 6 . 0 7 \%$ ,远高于以上地区。此外,考虑到模型的易用性，本研究考虑了12个相对容易获取的潜在影响Ks的因子。然而，由于Ks的影响因素众多且关系复杂，本研究所考虑的因素不足以完整地揭示Ks的全部变异特征，最终导致Ks的精度偏低。王子龙等[22]研究表明,团聚体也对Ks有影响,然而,团聚体测定比较复杂,因此本研究并未考虑。Qiao 等[11]对比分析了现存传递函数对FC和PWP的估计精度，预测 $R ^ { 2 }$ 分别低于0.333和0.321，低于本研究所建立的预测方程。土地利用类型、容重、砂粒含量和坡向是影响Ks最重要的因子。容重、土壤粒径组成（砂粒和粉粒）和有机碳含量是影响FC和PWP最重要的因子。
+
+# 3结论
+
+（1）新疆地区土壤水力参数具有明显的空间变异性，变异程度为中等。Ks、FC和PWP在本地区具有强的空间依赖性,变程为 $9 7 \sim 2 9 1 ~ \mathrm { k m }$ 。(2）土地利用类型、容重和土壤质地是影响Ks变异的最主要因子。土壤容重、质地和有机碳含量对FC和PWP具有重要影响。（3）与经典多元逐步回归方程相比，基于自变量经数据转化构建的传递函数方程较复杂且没有提高模型的模拟精度。多元逐步回归方程能够解释Ks变异的 $2 9 . 0 0 \%$ 。逐步回归方程对FC与PWP模拟效果较好，能够预测FC与PWP变异的 $4 9 . 4 0 \%$ 与 $4 9 . 1 0 \%$ 。
+
+# 参考文献（References）:
+
+[1]邵明安,王全九，黄明斌.土壤物理学[M].北京：高等教育出
+
+版社,2006:228-261.[Shao Ming'an,Wang Quanjiu,Huang Mingbin.Soil Physics[M].Beijing:Higher Education Press,2006： 228 -261. ]   
+[2]赵春雷,邵明安,贾小旭.黄土高原北部坡面尺度土壤饱和导 水率分布与模拟[J].水科学进展,2014,25（6）:806 －815. [ Zhao Chunlei,Shao Ming'an,Jia Xiaoxu.Distribution and simulation of saturated soil hydraulic conductivity at a slope of Northern Loess Plateau[J].Advances in Water Science,2014,25(6）:806 -815.]   
+[3]黄昌勇.土壤学[M].北京:中国农业出版社,2000:60.[Huang Changyong.Pedology[M].Beijing:China Agriculture Press,2000: 60.]   
+[4]Yan N N,Wu BF,Huang HP,et al.Mapping of field capacity and wilting coefficient in China for drought monitoring[C]//Proceedings.2005 IEEE International Geoscience and Remote Sensing Symposium.America:IEEE,2005,4 433-4 435,doi:10.1109/ IGARSS. 2005.1525903.   
+[5]Reynolds C A,Jackson TJ,Rawls W J. Estimating soil water-holding capacities by linking the food and agriculture organization soil map of the world with global pedon databases and continuous pedotransfer functions[J].Water Resources Research,20o,36（12）: 3 653 -3 662.   
+[6]Mohanty M,Sinha N K,Painuli D K,et al. Modelling soil water contents at field capacity and permanent wilting point using artificial neural network for Indian soils[J].National Academy Science Letters,2015,38(5):373 -377.   
+[7]Wang YQ,Shao MA,Liu ZP,et al.Regional-scale variation and distribution paterns of soil saturated hydraulic conductivities in surface and subsurface layers in the loessial soils of China[J]. Journal of Hydrology,2013,487:13-23.   
+[8]Zhao CL,Shao MA,Jia X X,et al. Using pedotransfer functions to estimate soil hydraulic conductivity in the Loess Plateau of China [J].Catena,2016,143:1-6.   
+[9]张川,陈洪松,张伟,等.喀斯特坡面表层土壤含水量、容重和 饱和导水率的空间变异特征[J].应用生态学报,2014,25（6)： 1 585-1 591.[Zhang Chuan,Chen Hongsong,Zhang Wei,et al. Spatial variation characteristics of surface soil water content,bulk density and satureated hydraulic conductivity on Karst slope[J]. Chinese Journal of AppliedEcology,2014,25（6）:1 585- 1 591.]   
+[10］高肖彦,刘廷玺,段利民,等.科尔沁沙丘-草甸田间持水量的 综合测定与影响[J].干旱区研究,2016,33(6)：1336-1344. [Gao Xiaoyan,Liu Tingxi,Duan Limin,et al. Determination and effct of dune-meadow field capacity in the Horqin Sandy Land [J].Arid Zone Research,2016,33(6):1 336-1 344.]   
+[11]Qiao JB,Zhu YJ,Jia X X,et al.Pedotransfer functions for estimating the field capacity and permanent wilting point in the critical zone of the Loess Plateau,China[J]. Journal of Soils & Sediments, 2019,19(1) :140 - 147.   
+[12］杨绍谔,吴炳方,闫娜娜.基于AMSR-E 数据估测华北平原及东 北地区土壤田间持水量[J].土壤通报,2012,43(2）:301-305. [Yang Shao'e,Wu Bingfang,Yan Nana.Estimation of soil field capacity in north China plain and Northeast China based on AMSR-E data[J]. Chinese Journal of Soil Science,2012,43（2）: 301 - 305.]   
+[13]Dai YJ,Shangguan W,Duan Q Y,et al.Development of a China dataset of soil hydraulic parameters using pedotransfer functions for land surface modeling[J].Journal of Hydrometeorology,2015,14 (3):869 -887.   
+[14]Zheng ZY,Ma ZG,Li M X,etal.Regional water budgets and hydroclimatic trend variations in Xinjiang from 1951 to 2000[J]. Climatic Change,2017,144(3）:447 -460.   
+[15]Zhang RP,Liang T G,Guo J,et al.Grassland dynamics in response to climate change and human activities in Xinjiang from 2000 to 2014[J].Scientific Reports,2018,8:2 888,doi:10. 1038/s41598 -018 -21089 -3.   
+[16]Cambardella C A,Moorman TB,Novak JM,et al.Field-scale variabilityof soilpropertiesincentralIowasoilsJ].Soilence Sciety of America Jourmal,1994,58(5）:1 501-1511.   
+[17］甘淼,贾玉华,李同川,等.黄土区坡沟系统容重、饱和导水率 和土壤含水量变化分析[J].干旱区研究,2018,35（2）：315- 324.[Gan Miao,Jia Yuhua,Li Tongchuan,et al.Variation of soil bulk density,saturated hydraulic conductivity and soil moisture content in a slope-gully unit on the Northern Loess Plateau[J].Arid Zone Research,2018,35(2）:315-324.]   
+[18]Wu X T,Lu G H,Wu Z Y,et al.An integration approach for mapping field capacity of China based on multi-source soil datasets [J].Water,2018,10:728,doi:10.3390/w10060728.   
+[19]Santra P,Kumar M,Kumawat R N,et al.Pedotransfer functions to estimate soil water content at field capacity and permanent wilting point in hot arid Western India[J].Journal of Earth System Science,2018,127(3) :35-50.   
+[20］陈亚宁,李卫红,陈亚鹏,等.荒漠河岸林建群植物的水分利用 过程分析[J].干旱区研究,2018,35（1）:130-136.[Chen Yaning,Li Weihong,Chen Yapeng,et al.Water use process of constructive plants in desert riparian forest[J].Arid Zone Research, 2018,35(1) :130 -136.]   
+[21]于冬雪,贾小旭,黄来明,等.黄土区不同土层土壤容重空间变 异与模拟[J].土壤学报,2019,56(1）:55-64.[Yu Dongxue, Jia Xiaoxu,Huang Laiming,etal.Spatial variation of soil bulk density in different soil layers in the loess area and simulation[J].Acta Pedologica Sinica,2019,56(1） :55-64.]   
+[22]王子龙,赵勇钢,赵世伟,等.退耕典型草地土壤饱和导水率及 其影响因素研究[J].草地学报,2016,24(6)：1254-1 262. [Wang Zilong,Zhao Yonggang,Zhao Shiwei,et al. Studyon soil saturated hydraulic conductivity and its influencing factors in typical grassland of farmland conversion[J].Acta Agrestia Sinica, 2016,24(6) :1 254 -1 262.]
+
+# Spatial Variability and Simulation of Soil Hydraulic Parameters in Arid Northwest China
+
+LI Xiang-dong1,2， SHAO Ming-an1,2.3， ZHAO Chun-lei3 (1.State KeyLaboratoryofSoil Erosionand Dryland FarmingontheLoessPlateau,InstituteofSoiland Water Conseruation, Chinese Academy of Sciences and Ministry of Water Resources,Yangling 7121Oo,Shaanxi,China; 2.Collegeof Natural Resourcesand Environment,Universityof Chinese Academyof Sciences,Beijing10o19o,China; 3.KeyLaboratory of Ecosystem Network Observation and Modeling,Instituteof Geographic Sciences and Natural Resources Research,Chinese Academy of Sciences,Beijing 1Oo101,China)
+
+Abstract:Soil saturated hydraulic conductivity（Ks）,field capacity（FC）and permanent witling percentage （PWP）are the important soil hydraulic parameters.These parametersare also the critical factors in bio-hydrologic models.Inorder tounderstand theregional-scale spatial variabilityof thesehydraulic parameters,the Ks,FCand PWP data ( $0 - 5 ~ \mathrm { c m }$ soil layer in depth）were obtained from 1O7 sampling sites in Xinjiang.Both traditional statistics and geostatistics were used to explore the spatial variations of Ks,FCandPWP.Estimations of these parameters were furtherconducted by multiple stepwise regresion（MSR）and pedotransfer functions （PTFs).The results indicated that the mean values of Ks,FC and PWP were $1 0 . 9 9 9 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ $0 . 1 6 2 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ and $0 . 0 7 7 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ respectively.These three hydraulic parameters varied moderately with Cvs of $3 9 . 8 8 \% - 9 6 . 0 7 \%$ ,and had strong spatial correlations in a range of $9 7 - 2 9 1 ~ \mathrm { k m }$ in Xinjiang. MSR performed better than PTFs in estimating soil hydraulic parameters.Basedonthe land use,bulk density,soil texture,soil organiccarbon content and slope aspect,thedetermination coeficients of the MSR models for Ks,FC and PWP wereO.290,0.494 and O.491,and the root mean square errors were $2 . 5 4 0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ $0 . 0 3 9 \mathrm { ~ g ~ } \cdot \mathrm { ~ g ~ } ^ { - 1 }$ and $0 . 0 2 3 \textrm { g } \cdot \textrm { g } ^ { - 1 }$ ,respectively. The development of these equations is beneficial to therapid estimation of soil hydraulic parameters and canthus providethe key parameters for theagricultural irrigation and eco-hydrological models in arid Northwest China.
+
+Key words:soil saturated hydraulic conductivity；field capacity；permanent witling percentage；regional scale; multiple stepwise regression； Xinjiang

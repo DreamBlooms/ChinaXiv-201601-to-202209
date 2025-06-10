@@ -1,0 +1,175 @@
+# S wave meson spectra from the light cone harmonic oscillator model with a consistent hyperfine interaction
+
+Shan-Gui Zhou1,2,3,4,\* and Hans-Christian Pauli $^ { 1 }$ + （204号 $^ { 1 }$ Max-Planck-Institut fir Kernphysik, D-69029 Heidelberg， Germany （2 $\mathcal { Z }$ School of Physics, Peking University， Beijing 100871，China （20 $^ { 3 }$ Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 10o8oCina （20 $^ { 4 }$ Center of Theoretical Nuclear Physics，National Laboratoryof Heavy Ion Acelerator，Lanzhou 730oo0,China (Dated: November 21,2003)
+
+We use a light cone harmonic oscillator model to study S wave meson spectra, namely the pseudoscalar and vector mesons.The model Hamiltonian is a mass squared operator consisting of a central potential (a harmonic oscilator potential) from which a hyperfine interaction is derived. The hyperfine interaction is responsible for the splitting in the pseudoscalar-vector spectra.With 4 parameters for the masss of up/down,strange,charm and bottom quarks,2 for the harmonic oscillator potential and 1 for the hyperfine interaction,the model presents a reasonably good agreement with the data.
+
+PACS numbers:11.10.Ef,12.38.Aw,12.38.Lg,12.39.-x
+
+# I. INTRODUCTION
+
+The effective light cone Hamiltonian,a mass squared operator,consists of a central potential and corresponding fine and hyperfine interactions [1]. With the central(and the confinement） potential approximated by a harmonic oscillator potential and a hyperfine interaction, a Dirac delta interaction,assumed to act on the vector meson only, the model gave an universal description of S wave pseudoscalar and vector meson spectra [2,3]. By introducing a phenomenological spin orbit interaction with one additional parameter,this model was also applied to study P wave $D _ { s }$ mesons [4, 5].
+
+In the model proposed in [2,3],the hyperfine interaction,the Dirac delta interaction,must be renormalized. The renormalization parameter,in fact,is hidden in the renormalization procedure,thus depending on the pseudoscalar sector.In other words,for each sector of pseudoscalar mesons,one has an additional parameter for the renormalization. The situation is certainly not satisfactory.
+
+One knows that the hyperfine interaction is in general [6],
+
+where $V ( r )$ is the central potential in the model Hamiltonian.If $V ( r )$ is the Coulomb potential,one gets for the hyperfine the Dirac delta interaction [6]. If $V ( r )$ isa harmonic oscillator potential,
+
+however,one gets a much simpler hyperfine interaction,
+
+$$
+\begin{array} { r } { V _ { \mathrm { h f } } = \frac { f } { 2 m _ { 1 } m _ { 2 } } \pmb { \sigma } _ { 1 } \pmb { \sigma } _ { 2 } , ~ \pmb { \sigma } _ { 1 } \pmb { \sigma } _ { 2 } = \left\{ \begin{array} { l l } { - 3 , } & { \mathrm { f o r } ~ S = 0 , } \\ { + 1 , } & { \mathrm { f o r } ~ S = 1 . } \end{array} \right. } \end{array}
+$$
+
+The hyperfine interaction acts on both triplet and singlet states.
+
+In the present work,we will use the harmonic oscillator potential as the central potential and the confinement. This potential gives naturally the Anisovich law [7] as shown in [2,3].For the hyperfine interaction,we adopt the more general one as given in (3). In section I the model parameters are determined. The results is given in section II. Finally a summary is presented in section IV.
+
+# II. PARAMETERDETERMINATION
+
+An effective light cone Hamiltonian which is a mass square operator was given in [8, 9],
+
+$$
+H _ { \mathrm { e H C } } \Psi = M ^ { 2 } \Psi ,
+$$
+
+where $M ^ { 2 }$ the mass squared of the meson in question and
+
+$$
+\begin{array} { r } { V _ { \mathrm { h f } } = \frac { \pmb { \nabla } ^ { 2 } V ( r ) } { 6 m _ { 1 } m _ { 2 } } \pmb { \sigma } _ { 1 } \pmb { \sigma } _ { 2 } , } \end{array}
+$$
+
+$$
+\begin{array} { r c l } { { { \cal H } _ { \mathrm { e L C } } } } & { { = } } & { { \left( m _ { 1 } + m _ { 2 } \right) ^ { 2 } + 2 \left( m _ { 1 } + m _ { 2 } \right) { \cal H } , } } \\ { { } } & { { } } & { { } } \\ { { { \cal H } } } & { { = } } & { { \left( - \frac { { \bf V } ^ { 2 } } { 2 m _ { r } } + V ( r ) + V _ { \mathrm { h f } } \right) , } } \\ { { } } & { { } } & { { } } \\ { { { \cal M } ^ { 2 } } } & { { = } } & { { \left( m _ { 1 } + m _ { 2 } \right) ^ { 2 } + 2 \left( m _ { 1 } + m _ { 2 } \right) { \cal E } . } } \end{array}
+$$
+
+$m _ { 1 }$ and $m _ { 2 }$ are the constituent quark masses and $E$ the eigenvalue of $H$ （204号
+
+$$
+\begin{array} { r } { V ( r ) = - a + \frac { 1 } { 2 } f r ^ { 2 } , } \end{array}
+$$
+
+$$
+\begin{array} { r } { E = - a + ( 2 n + \frac { 3 } { 2 } ) \omega , } \end{array}
+$$
+
+with $\omega \equiv \sqrt { f / m _ { r } }$ and $m _ { r } = m _ { 1 } m _ { 2 } / ( m _ { 1 } + m _ { 2 } )$
+
+In order to describe S wave mesons except for those consisting of at least one top quark,we need six parameters if we assume $m _ { u } = m _ { d }$ . The parameters include:
+
+TABLEI:Experimental masses (in GeV)of mesons used to determine the parameters of the light cone harmonic oscillator model.   
+
+<html><body><table><tr><td>T+</td><td>p+</td><td>p+(1450)</td><td>K*+</td><td>D*0</td><td>B*+</td></tr><tr><td>0.1396</td><td>0.7711</td><td>1.465</td><td>0.8917</td><td>2.0067</td><td>5.325</td></tr></table></body></html>
+
+TABLE II:The parameters of the light cone harmonic oscillator model. Masses and $a$ in GeV. $f$ in $\mathrm { G e V ^ { 3 } }$   
+
+<html><body><table><tr><td>mu/d</td><td>ms</td><td>mc</td><td>mb</td><td>a</td><td>f</td></tr><tr><td colspan="6">Without the fudge factor</td></tr><tr><td>0.5115</td><td>0.7035</td><td>1.9211</td><td>5.2628</td><td>0.8599</td><td>0.0368</td></tr><tr><td colspan="6">The fudge factor f* = 0.3</td></tr><tr><td>0.2802</td><td>0.5685</td><td>1.8380</td><td>5.2027</td><td>0.9163</td><td>0.0671</td></tr></table></body></html>
+
+four masses for the up/down，strange,charm and bottom quarks; the depth $a$ and the spring constant $f$ for the harmonic oscillator potential. One can first determine $m \equiv m _ { u / d }$ ， $a$ and $f$ by the following experimentally well determined masses,
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { M _ { \rho ^ { + } ( 2 S ) } ^ { 2 } = 4 m ^ { 2 } + 2 m \left( - 2 a + 3 \omega + \frac { f } { m ^ { 2 } } \right) + 8 m \omega , } } \\ { { } } & { { } } & { { M _ { \rho ^ { + } ( 1 S ) } ^ { 2 } = 4 m ^ { 2 } + 2 m \left( - 2 a + 3 \omega + \frac { f } { m ^ { 2 } } \right) , } } \\ { { } } & { { } } & { { M _ { \pi ^ { + } ( 1 S ) } ^ { 2 } = 4 m ^ { 2 } + 2 m \left( - 2 a + 3 \omega - \frac { 3 f } { m ^ { 2 } } \right) . } } \end{array}
+$$
+
+Three differences are available from the experiment:
+
+$$
+\begin{array} { r l } { { \Delta ^ { 2 } = } } & { { M _ { \rho ^ { + } ( 2 S ) } ^ { 2 } - M _ { \rho ^ { + } ( 1 S ) } ^ { 2 } , } } \\ { { D ^ { 2 } = } } & { { M _ { \rho ^ { + } ( 1 S ) } ^ { 2 } - M _ { \pi ^ { + } ( 1 S ) } ^ { 2 } , } } \\ { { A ^ { 2 } = } } & { { - M _ { \rho ^ { + } ( 1 S ) } ^ { 2 } + \frac { 3 } { 4 } \Delta ^ { 2 } + \frac { 1 } { 4 } D ^ { 2 } . } } \end{array}
+$$
+
+In terms of the model parameters they are:
+
+$$
+\begin{array} { r } { \Delta ^ { 2 } = 8 m \omega , D ^ { 2 } = \frac { 8 f } { m } , A ^ { 2 } = 4 a m - 4 m ^ { 2 } . } \end{array}
+$$
+
+One then has
+
+$$
+\begin{array} { r } { m = \frac { \Delta ^ { 2 } } { 4 D } , ~ a = \frac { A ^ { 2 } D } { \Delta ^ { 2 } } + \frac { \Delta ^ { 2 } } { 4 D } , ~ f = \frac { \Delta ^ { 2 } D } { 3 2 } . } \end{array}
+$$
+
+The mass for the quark $q$ ( $q = s$ ， $c$ and $b$ ）is determined from（7)and (8)with $M$ the mass of the vector meson consisting of $u$ and $q$
+
+In Table I are given the experimental meson masses which are used for fixing the model parameters.It turns out that the parameters thus determined are not reasonable as seen in Table I although those parameters do produce good agreement with the data. Particularly, $m _ { u / d }$ and $m _ { s }$ are too large. The reason for the large $m _ { u / d }$ and $m _ { s }$ is that the hyperfine interaction (3) which is fixed completely by $V ( r )$ is so large.In order to get a reasonable set of constituent quark masses,we introduce a parameter which reduces the hyperfine interaction on purpose.With this additional parameter called the fudge factor, $f ^ { * }$ ，the hyperfine interaction reads,
+
+$$
+\begin{array} { r } { V _ { \mathrm { h f } } = f ^ { * } \frac { f } { 2 m _ { 1 } m _ { 2 } } \pmb { \sigma } _ { 1 } \pmb { \sigma } _ { 2 } . } \end{array}
+$$
+
+TABLE III:S wave spectra for light unflavored mesons. Masses in GeV. The pion mass $m _ { \pi ^ { + } } = 1 3 9 . 5 7 0 1 8 \pm 0 . 0 0 0 3 5$ MeV is accurately known,but only the first 4 digits are used here.
+
+<html><body><table><tr><td></td><td>nExperiment1</td><td>Theory</td><td>nExperiment</td><td></td><td>Theory</td></tr><tr><td colspan="3">1So Singlets π+ 3S1 Triplets p+</td><td colspan="3">10.7711(9)</td></tr><tr><td rowspan="6">1 2</td><td rowspan="10">0.1396(0) 1.300(100) 1.801(13)</td><td>0.1396</td><td rowspan="5">2</td><td rowspan="5">1.465(25)</td><td>0.7711</td></tr><tr><td>0.140²</td><td>0.7682</td></tr><tr><td>0.153</td><td>0.773</td></tr><tr><td>1.2650</td><td>1.4650</td></tr><tr><td>1.223²</td><td>1.465²</td></tr><tr><td>1.30</td><td>1.453</td></tr><tr><td rowspan="5">3 4 一</td><td>1.7950</td><td></td><td rowspan="4">31.700(20)a</td><td>1.9230</td></tr><tr><td>1.739²</td><td></td><td>1.924²</td></tr><tr><td>1.883</td><td></td><td>2.00³</td></tr><tr><td>2.1620</td><td>42.150(17)</td><td>2.2912</td></tr><tr><td>2.3172</td><td></td><td></td><td>2.292²</td></tr></table></body></html>
+
+1Hagiwara et al [1O]； ²Frederico,Pauli and Zhou [3]; $^ 3$ Godfrey and Isgur [11]. $\mathbf { \mu } ^ { u }$ Could be a $\mathcal { D }$ -wave state [7].
+
+We found that $f ^ { * } = 0 . 3$ produces reasonable values for the model parameters as given in Table II.
+
+We note that the fudge factor $f ^ { * }$ accounts for shortcomings of our certainly oversimplified model. This factor is universal in the sense that once fixed,it is valid for all S wave mesons.Furthermore,even with this fudge factor,the number of parameters of the present model is still less than many other models proposed for the description of meson spectra.
+
+# III. RESULTS AND DISCUSSION
+
+The (flavor off-diagonal) S wave meson spectra calculated from the present model are given in Tables II,IV and V. Since one can quite easily calculate these meson spectra from Eqs.(7) and (8）with parameters given in Table II, we do not list theoretical masses for those excitations which are not observed yet.For comparisons,the available data fromHagiwara et al [1O] and other theoretical masses are included in these tables. The agreement between the admittedly simple model and the experiment is generally very good. Particularly, the present model reproduces well the masses for heavier mesons.
+
+# A. Light unflavored(ud) mesons
+
+The S wave $\pi ^ { + }$ and $\rho ^ { + }$ spectra are given in Table III. Masses of both ground states and the first excited triplet state are used to determine the model parameters mu/d; $c$ and $f$ ．There is no confirmed datum for the second excited $\rho ^ { + }$ 1 $\mathrm { ( 3 ^ { 3 } S _ { 1 } ) }$ ).The model prediction is larger than the experimental value for $4 ^ { 3 } \mathrm { S } _ { 1 }$ by about 140 MeV.The
+
+TABLE IV:S wave spectra for strange mesons. Masses in GeV.   
+
+<html><body><table><tr><td></td><td>nExperiment</td><td>Theory</td><td>nExperiment</td><td></td><td>Theory</td></tr><tr><td colspan="3">1So Singlets K+</td><td colspan="3">3S1 Triplets K*+ 0.89166(26)</td></tr><tr><td>2</td><td>0.493677(16) 1.460a</td><td>0.6048 0.494² 0.47³ 1.5480</td><td></td><td>1.629(27)b 1.649² 1.583</td><td>0.8917 0.892² 0.90 1.6808</td></tr></table></body></html>
+
+1Hagiwara et al [1O]; ²Frederico,Pauli and Zhou [3]; 3Godfrey and Isgur [11]. （204号 $\boldsymbol { \mathscr { a } }$ To be confirmed; $^ b J ^ { P }$ not confirmed.
+
+S wave $\pi$ spectrum is reproduced by this model very well. The discrepancies for both $2 ^ { 1 } \mathrm { S } _ { 0 }$ and $3 ^ { 1 } \mathrm { S } _ { 0 }$ are within 50 MeV.In particular, this model reproduces the amazingly large mass difference between $\pi$ and its first excited state.
+
+# B. Strange(us)mesons
+
+The S wave $K ^ { + }$ and $K ^ { * + }$ spectra are given in Table IV. The mass of the ground state of $K ^ { * + }$ is used to determine the mass parameter $m _ { s }$ .There are many ambiguities concerning the quantum number assignment for $K$ and $K ^ { * }$ mesons except for the ground states. The model prediction is larger than the experimental value for the ground state of $K$ ( $\mathrm { 1 ^ { 1 } S _ { 0 } ) }$ by about 100 MeV. Note that in [3],the mass of $1 ^ { 1 } \mathrm { S } _ { 0 }$ was used to determine the renormalization parameter.Both the first and the second excited state of $K$ ( $2 ^ { 1 } \mathrm { S } _ { 0 }$ and $\mathrm { 3 ^ { 1 } S _ { 0 } }$ )are not confirmed. Another unconfirmed resonance with mass $1 . 6 2 9 \pm 0 . 0 2 7$ GeV lying between $2 ^ { 1 } \mathrm { S } _ { 0 }$ and $\mathrm { 3 ^ { 1 } S _ { 0 } }$ was assigned to be a singlet $K$ ．Apparently there is no position for it in the $K$ spectrum if it is an S wave state.However,according to its mass,it might well be the first excited state of $K ^ { * }$ $\left( 2 ^ { 1 } \mathrm { S } _ { 0 } \right)$ ，according to our model.
+
+# C. Heavy mesons
+
+The S wave $u c$ ， $u b$ ， $s c$ ， $s b$ and $c \bar { b }$ meson spectra are given in Table V.No excitations were observed for these mesons.The present model agrees with the experiment for heavy mesons better than for light ones.
+
+The mass of the ground state of $\bar { D } ^ { * 0 }$ is used to determine the mass parameter $m _ { c }$ . No much data are available for $D$ and $D ^ { * }$ mesons. The model prediction for $1 ^ { 1 } \mathrm { S } _ { 0 }$ of $D ^ { 0 }$ is very close to the experimental value, deviating from the experiment by about only 60 MeV.
+
+TABLE V:S wave spectra for heavy mesons.Masses in GeV.   
+
+<html><body><table><tr><td></td><td>nExperiment</td><td>Theory</td><td></td><td>nExperiment</td><td>Theory</td></tr><tr><td colspan="3">1So Singlets D°</td><td colspan="3">3S1 Triplets D*0</td></tr><tr><td></td><td>1.8645(5)</td><td>1.9224 1.869² 1.883</td><td>12.0067(5)</td><td></td><td>2.0067 2.042² 2.043</td></tr><tr><td colspan="3">1So Singlets B+</td><td colspan="3">3S1 Triplets B*+</td></tr><tr><td></td><td>15.2790(5)</td><td>5.2965 5.279² 5.313</td><td>15.3250(6)</td><td></td><td>5.3250 5.325²</td></tr><tr><td colspan="3">1So Singlets Ds</td><td colspan="3">5.373 3S1 Triplets D*</td></tr><tr><td></td><td>1.9685(6)</td><td>2.0201 1.969²</td><td>12.1124(7)</td><td></td><td>2.0655 2.069²</td></tr><tr><td colspan="3">1So Singlets B</td><td colspan="3">2.133</td></tr><tr><td colspan="3">15.3696(24)</td><td></td><td>3S1 Triplets B*0 15.4166(35)</td><td>5.3885 5.3422</td></tr><tr><td></td><td></td><td>一 5.353</td><td></td><td></td><td>5.453</td></tr><tr><td colspan="3">1So Singlets B+ 6.4281</td><td>一</td><td colspan="2">3S1 Triplets B*+</td></tr><tr><td colspan="3">16.4(4)</td><td>1</td><td></td><td>6.4327 6.34582 6.34³</td></tr></table></body></html>
+
+1Hagiwara et al [1O]; ²Frederico,Pauli and Zhou [3]; $^ 3$ Godfrey and Isgur [11].
+
+The mass of the ground state of $B ^ { * + }$ is used to determine the mass parameter $m _ { b }$ .For the ground state of ${ \bar { B } } ^ { + }$ , the present model gives a very good agreement with the data.
+
+No experimental values in the $_ { s c }$ mesons are used to determine the model parameters.The model agrees with the available data of both ground states very well.
+
+No data in $s { \bar { b } }$ mesons are used to determine the model parameters. The model agrees with the experiment very well.The pseudoscalar spectrum was not calculated for $s b$ mesons in [3] because the experimental mass of $1 ^ { 1 } \mathrm { S } _ { 0 }$ is larger than the theoretical value of $\mathrm { 1 ^ { 3 } S _ { 1 } }$ thus the renormalization procedure of [3] could not be realized consistently.
+
+The mass of the ground state of $B _ { c } ^ { + }$ ( $1 ^ { 1 } \mathrm { S } _ { 0 }$ ）caries a large experimental error.The model prediction is within the experimental limit of errors.
+
+# IV. SUMMARY
+
+Inspired by [2,3] and [7],we use a light cone harmonic oscillator model to study S wave meson spectra,namely the pseudoscalar and vector mesons. The model Hamiltonian is a mass squared operator consisting ofa quadratic confinement and a hyperfine interaction.Different from [2,3],the hyperfine interaction which is responsible for the splitting in the pseudoscalar-vector spectra acts on both the singlet and triplet states. The hyperfine interaction is corrected with an universal fudge factor.
+
+With 4 parameters for the masses of up/down, strange, charm and bottom quarks,2 for the harmonic oscillator potential and 1 for the hyperfine interaction,the model presents a reasonably good agreement with the 21 available data points.
+
+useful for the experimentalists when planning an experiment. It's simple, transparent and analytical.
+
+# Acknowledgments
+
+Finally we remark in all modesty that we do not know any other model from the literature which reproduces all know S wave mesons from the lightest ( $\pi$ ）to the heaviest （ $B _ { c }$ ),within the same model and the same few parameters. Right or wrong,this model at the worst is very
+
+S.G.Z. was partly supported by the Major State Basic Research Development Program of China Under Contract Number G2000077407 and the National Natural Science Foundation of China under Grant No.1O025522, 10221003 and 10047001.
+
+[1]S.J.Brodsky,H.C.Pauli and S.S.Pinsky, Phys.Lett. C(Physics Reports) 301(1998) 299-486.   
+[2] T.Frederico,H.C.Pauli,and S.G. Zhou,Phys.Rev.D 66,054007 (2002).   
+[3] T.Frederico,H.C. Pauli,and S.G. Zhou,Phys.Rev.D 66(2002)116011 [arXiv:hep-ph/0210234].   
+[4] S.G. Zhou and H. C.Pauli, $D _ { s J } ^ { * } ( 2 3 1 7 ) ^ { + }$ ：a $P$ state fromthe light cone harmonic oscillator model? arXiv: hep-ph/0310330.   
+[5] S.G. Zhou,Meson spectra from an effective light cone qcd-inspired model,arXiv:hep-ph/O310362.   
+[6] Bjorken and Drell，Relativistic Quantum Mechanics, pp.57, 58 (McGraw-Hill,New York,1964).   
+[7] A.V. Anisovich, V. V. Anisovich,and A. V. Sarantsev, Phys.Rev.D62,051502(R)(2000).   
+[8] H.C.Pauli,Nucl.Phys.B(Proc. Supp.) 90,259 (2000).   
+[9] H. C.Pauli, Succesful renormalization of a QCD-inspired Hamiltonian,arXiv:hep-ph/0310294.   
+'10] K.Hagiwara et al.,Phys. Rev.D 66 (2002) 010001.   
+11] S. Godfrey and N. Isgur,Phys.Rev. D 32 (1985) 189.

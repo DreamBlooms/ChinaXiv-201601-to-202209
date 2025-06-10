@@ -1,0 +1,905 @@
+# Some properties of a hyperbolic model of complex networks for the small parameter
+
+WEIHUA YANG\*   
+Faculty of Science,Beijing University of Technology,Beijing,lOol24,China \*Corresponding author: whyang $@$ bjut.edu.cn JUN DAI   
+Faculty of Science,Beijing University of Technology,Beijing,l0ol24, China
+
+[Received on15 December 2021]
+
+We analyze properties of degree and clustering of a hyperbolic geometric model of complex networks in small parameter case $\tau < 1 , 2 \sigma < 1$ .We find that the probability of $\mathbf { k }$ -degree goes to O and the global clustering coefficient goes to O in probability too as the number of nodes $N \to \infty$ for some specific growth $R ( N )$ of the region radius.Here the scale-free degree is failed and the connection between neighbors are very weak. The transition of properties of the model with the parameter $\sigma$ changes seems to show that the mobility is important to keep society fulland stable communication,otherwise a silence society. Some analysis technique and method are first applied for such model.
+
+Keywords: hyperbolic geometry model; complex network; k-degree; mean degree; clustering
+
+2000MathSubjectClassification:34K30,35K57,35Q80,92D25
+
+# 1.Introduction
+
+Many models of complex networks have been proposed to capture some common properties of real World.Perhaps the most well known is the Barabasi-Albert model of preferential attchment [3], which is based on two generic mechanisms: (i) networks expand continuously by the addition of new vertices,and (ii) new vertices attach preferentially to sites that are already wellconnected. Their model reproduces the observed stationary scale-free distributions and indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems.Another common property of social networks is the cliques form,representing circles of friends or acquaintances in which every member knows every other member. This inherent tendency to cluster is quantified by the clustering coefcient or the global clustering coefficient.Although the Barabasi-Albert model is effective in capturing the scale-free degree sequence, but fails to generate networks with the clustering phenomena. There are growing indications that the tendency for affiliation of neighbors of the node is a manifestation of the network having a geometric structure [11], based upon the notion of a geometric random graph.A statistical mechanical models of complex networks is introduced in[14],and, in particular, it is applied to random geometric graphs in hyperbolic space [12]. The model employs a random mapping of graph nodes to points in a ball centered at the origin in the hyperbolic space $\mathbf { H } ^ { d + 1 }$ , giving these nodes hyperbolic coordinates,and connecting probability aboutthe hyperbolic geometry. Therefore the random geometric graphs in hyperbolic geometry provide extremely promising models for the structure of complex networks.
+
+In [16], we extend the hyperbolic geometric random graph model of Krioukov et al.[12] to arbitrary dimension and considered this model in five regions of the parameter space for any dimension,and we found the power law (scale-free) expected degree distribution for two regions,and for others,the power law disappears and the probability of $\mathbf { k }$ -degree goes to zero. We remain $\tau < 1$ and $2 \sigma < 1$ case no research since the main difculty lies in that the probability of connection between a fixed node $u$ and a random node $\nu$ is mostly contributed by $r _ { \nu } < R - r _ { u } + \omega ( N )$ and the previous explicit formula of hyperbolic distance is powerless to it.
+
+In this article,we continue our study for the remaining parameter region $\tau < 1$ and $2 \sigma < 1$ .We explore the hyperbolic distance formula deeply and overcome some technique diffculty,and got the estimation for the probability integral of connection, hence we may analyze the degree and clustering property of the model. We find that the probability of $\mathbf { k }$ -degree goes to O and the global clustering coefficient goes to O in probability as the number of nodes $N \to \infty$ for some specific growth $R ( N )$ of the region radius. Some analysis method and techniques are first applied for such model. For the clsutering study, we borrow partly some method of Fountoulakis for $\tau < 1 , 2 \sigma > 1$ and $d = 1$ in [4].
+
+In generalization of analysis results in [4,5,16] and this article,for $N$ nodes random geometric graphs $G ( N , \zeta , \tau , \sigma , \nu , d )$ in the hyperbolic ball with the graph Hamilton energy parameter $\tau < 1$ and the rescaling hyperbolic ball radius $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ , we have the classification as follows. There exists the power law of degrees for the $2 \sigma > 1 , d \geqslant 1$ in [5,16]; and there don'texist scale-free degree distributions and the probability of $\mathbf { k }$ -degrees go to zero as $N \to \infty$ for the $2 \sigma \leqslant 1 , d \geqslant 1$ in [16] and this article; the global clustering coefficient will go to some nontrivial constant in probability for the $2 \sigma > 2 , d = 1$ which mean the connection ratio of neighbors are scale-free in probability,and the global clustering coefficient will go to zero in probability as $N \to \infty$ for the $1 < 2 \sigma \leqslant 2 , d = 1$ (we believe that such results are right for $d > 1$ ） in [4];we prove that the global clustering coefficient has the same to-zero tendency in probability for the $\tau < 1 , 2 \sigma < 1 , d \geqslant 1$ in this article,which mean that the connection of neighbors will become less and less possible.We don't study the global clustering coefficient for the $2 \sigma = 1$ case since plenty of computing,but we believe that it is the same to-zero tendency. Altogether, we can see that the density function (1.3) of $2 \sigma = 1$ is exactly a critical probability for the scale-free degree in the random graph and so is $\sigma = 1$ for the clustering as Albert and Barabasi mentioned in [1]. There are also many papers such as [9,10,12] to study the hyperbolic geometric random graph model with numerical method, which approximating results prompt the development of the analysis method.
+
+Why the degree and clustering of networks become more weak for the growing speed of the radius $\begin{array} { r } { \mathcal { R } _ { H } = \mathrm { i n } \frac { N } { \nu } } \end{array}$ as the parameter $\sigma$ become smaller in the hyperbolic geometric random graph model. We mayobserve that the probability of nodes（1.3） staying at the interval $[ r , r + d r ]$ of the small radius $r$ is increasing when the parameter $\sigma$ become smaller,and correspondingly nodes are more likely to stay at te $\begin{array} { r } { r \leqslant \frac { R } { \sqrt { 3 } } } \end{array}$ wich $d = 1$ th parameter become smaller,hence two nodes in this region possibly are closer and easier to connect since the formula (1.2);on the other hand, we can observe that the probability of nodes lying in the $\begin{array} { r } { \dot { r } \leqslant \frac { R } { \sqrt { 3 } } } \end{array}$ with $d = 1$ , the probability of nodes staying at this region is decreasing as the radius growth. Hence the two opposite tendencies interact each other: the willingness of nodes staying at the interval $\left[ r , r + d r \right]$ of the small radius and hence dense as the parameter $\sigma$ become smaller is resisted by the radius growth at the speed $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ , in contrast, the willingness of nodes staying at far region away from the origin as the parameter $\sigma$ become larger are consistent with the influence of the radius growth. Finally there achieves a critical point at $2 \sigma = 1$ for the scale-free degree and at $\sigma = 1$ for the clustering property of networks at the fixed growing speed of $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ ． This phenomenon in the model is more like the principle in human society, the willingness of nodes staying at the interval $[ r , r + d r ]$ of the small radius are representing the willingness of people's immobility and keeping at smallcircle, otherwise mobility.
+
+If people are dislike to move,the communication among people wil become less and less when the society expands as some kind speed of population,and it finally form a silence society,on the contrary, if the likelihood of mobility of people is increasing,the communication among people will become more and more easy and frequent,so mobility makes the society full and stable communication,i.e., the scale-free will occur.
+
+As the above analysis,should the mobility be another generic mechanism for networks,especially social network?
+
+# 1.1 Model Introduction
+
+We analyzed a class of exponential random graph models in [16],in which a random graph $G =$ $G ( N , \zeta , \tau , \sigma , \nu , d )$ with $N$ vertexes,denoting the vertex set by $V _ { N }$ ,has the positive model parameters $\zeta , \sigma , \nu$ ,and $\tau$ ,whose elements are randomly distributed into a ball of radius $R$ centered at the origin in the hyperbolic space $\mathbf { H } ^ { d + 1 }$ , integer $d \geqslant 1$ , with a probability density
+
+$$
+\rho _ { H } ( \vec { x } ) = \rho ( r ) \rho _ { \theta } ( \vec { \theta } ) = \rho ( r ) \rho _ { 1 } ( \theta _ { 1 } ) \cdot \cdot \cdot \rho _ { d } ( \theta _ { d } ) ,
+$$
+
+and the probability of occurrence of an edge between vertices $u$ and $\nu$ is
+
+$$
+p _ { u , \nu } = \frac { 1 } { 1 + e ^ { \frac { d _ { u , \nu } - R } { T } } } .
+$$
+
+Where $\vec { x } = ( r , \vec { \theta } )$ is the spherical coordinates on $\mathbf { H } ^ { d + 1 }$ with the usual coordinates $\vec { \pmb { \theta } } = ( \theta _ { 1 } , \theta _ { 2 } , \cdots , \theta _ { d } )$ on $S ^ { d }$ ， $\theta _ { k } \in [ 0 , \pi )$ for $k = 1 \ldots d - 1$ and $\theta _ { d } \in [ 0 , 2 \pi )$ ,and $r \in [ 0 , R )$ . The density functions $\rho _ { k } ( \theta _ { k } ) =$ $\sin ^ { d - k } \theta _ { k } / I _ { d , k }$ with $\begin{array} { r } { I _ { d , k } = \int _ { 0 } ^ { \pi } \sin ^ { d - k } \theta d \theta } \end{array}$ for $k = 1 \ldots d - 1$ and $\begin{array} { r } { \dot { \rho _ { d } } ( \theta _ { d } ) = \frac { 1 } { 2 \pi } } \end{array}$ ,and
+
+$$
+\rho ( r ) = \frac { \sinh ^ { d } ( \sigma \zeta r ) } { C _ { d } }
+$$
+
+with $\begin{array} { r } { C _ { d } = \int _ { 0 } ^ { R } \sinh ^ { d } ( \sigma \zeta r ) d r } \end{array}$ .The distance function $d _ { u , \nu }$ is the hyperbolic distance between two points $u = ( r _ { u } , \vec { \theta _ { u } } )$ and $\boldsymbol { \nu } = \left( r _ { \nu } , \vec { \theta } _ { \nu } \right)$ ,which is given by the hyperbolic law of cosines
+
+$$
+\cosh \zeta d _ { u , \nu } = \cosh \zeta r _ { u } \cosh \zeta r _ { \nu } - \sinh \zeta r _ { u } \sinh \zeta r _ { \nu } \cos \theta _ { u , \nu } ,
+$$
+
+where $\theta _ { u , \nu }$ is the angular distance,i.e., the relative angle,between $ { \vec { \theta _ { u } } }$ and $ { \vec { \theta } } _ { \nu }$ on $S ^ { d }$ . The parameter $\sigma$ governs the radial node distribution, $\nu$ the node density, $\tau$ the‘temperature', and $- \zeta ^ { 2 }$ governs the curvature of the hyperbolic space respectively. The conditional probability that a node $u$ on the fixed position of the hyperbolic ball connects to a angular random node $\nu$ at fixed radius $r _ { \nu }$ is
+
+$$
+\hat { p } _ { u , \nu } = \int _ { 0 } ^ { \pi } \rho _ { 1 } ( \theta _ { u , \nu } ) p _ { u , \nu } d \theta _ { u , \nu } = \int _ { 0 } ^ { \pi } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } p _ { u , \nu } d \theta _ { u , \nu } ,
+$$
+
+which we call the angular integral. We let $I _ { u , \nu }$ be an indicator random variable which is1 when there is an edge between $u$ and $\nu$ in the graph,and O, otherwise.So the conditional probability that a node $u$ （204号 on the fixed position of the hyperbolic ball connects to a random node $\nu$ is
+
+$$
+\operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = \int _ { 0 } ^ { R } \int _ { 0 } ^ { \pi } \frac { \sin ^ { d - 1 } \theta _ { u , \nu } } { I _ { d , 1 } } p _ { u , \nu } d \theta _ { u , \nu } d r _ { \nu } .
+$$
+
+The integrals in(1.5),( 1.6) are both only dependent on the relative angle $\theta _ { u , \nu }$ ，so the probabilities are both independent of the specific angular position $\theta _ { u }$ . We will omit this specific angular position sometime.The expected degree of the node $u$ on the fixed position is
+
+$$
+\langle k _ { u } \rangle = \langle k ( r _ { u } ) \rangle = ( N - 1 ) \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] .
+$$
+
+If we average the random movement of the node $u$ ,i.e., computing the node expected degree,we get the mean degree
+
+$$
+\langle k \rangle = \int _ { 0 } ^ { R } \langle k ( r _ { u } ) \rangle \rho ( r ) d r .
+$$
+
+We also let $\begin{array} { r } { D _ { u } = \sum _ { \nu \in V _ { N } ^ { u } } I _ { u , \nu } } \end{array}$ is the number of connections to the vertex $u$ , i.e., its degree, where $V _ { N } ^ { u } =$ $V _ { N } \setminus \{ u \}$ .We called the connection number equaling to the positive integer $k$ by $\mathbf { k }$ -degree,and its probability denoted by $\mathrm { P r } [ D _ { u } = k ]$ . Throughout we let $R = R ( N ) \to \infty$ ， ${ \pmb \omega } ( N ) = o ( { \pmb R } ( N ) )  \infty$ ， $o ( 1 ) \to 0$ （204 as $N \to \infty$ and $o _ { p } ( 1 )$ means $ 0$ in probability as $N \to \infty$ ．We also use the Big Theta $\Theta$ notation for some function $f ( x )$ ,i.e., $\Theta ( f ( x ) )$ ,which means, $\exists c _ { 1 } , c _ { 2 } > 0$ s.t.
+
+$$
+c _ { 1 } f ( x ) \leqslant \Theta ( f ( x ) ) \leqslant c _ { 2 } f ( x ) .
+$$
+
+In this article,the function $f ( x )$ is related to $N$ and $N \to \infty$ ，so we always assume Big Theta function $\Theta ( f ( x ) )$ true at $N$ enough large situation. To simplify the notation we will rescale variables as follows
+
+$$
+( \eta , \mathcal { R } _ { H } , \tau ) = \frac { d \zeta } { 2 } \left( r , R , T \right) , \omega _ { 1 } ( N ) = \frac { d \zeta } { 2 } \omega ( N ) .
+$$
+
+There are also some useful computing results: $\begin{array} { r } { C _ { d } = ( 1 + o ( 1 ) ) \frac { e ^ { d \sigma \zeta R } } { \sigma \zeta d 2 ^ { d } } } \end{array}$ o5d2d and
+
+$$
+\int _ { 0 } ^ { r } \frac { \sinh ^ { d } ( \sigma \zeta r ) } { C _ { d } } d r = ( 1 + o ( 1 ) ) e ^ { \sigma d \xi ( r - R ) } = ( 1 + o ( 1 ) ) e ^ { 2 \sigma ( \eta - \mathcal { R } _ { H } ) }
+$$
+
+for $r \gg 1$ ，and $\begin{array} { r } { \rho ( r ) = ( 1 + o ( 1 ) ) \sigma \zeta d \frac { ( e ^ { \frac { 2 \sigma } { d } \eta } - e ^ { - \frac { 2 \sigma } { d } \eta } ) ^ { d } } { e ^ { 2 \sigma \mathcal { R } _ { H } } } } \end{array}$ from [16]. There have some notations about the clustering in the network model:
+
+： $\varLambda ( u , \nu ; w )$ represents the event that the triple $u , \nu , w$ forms an incomplete triangle pivoted at $w$ ,in other words, $u , \nu , w$ forms a path of length 2 with $w$ being the middle vertex. ： $\triangle ( u , \nu , w )$ represents the event that the triple $u , \nu , w$ forms a complete triangle. ： $T = T ( G ) , \Lambda = \Lambda ( G )$ ,the number of complete triangles or incomplete triangles in the graph $G$ respectively.
+
+# 1.2 Mainresults
+
+We study the degree and clustering property of the random graph $G = G ( N , \zeta , \tau , \sigma , \nu , d )$ with $N$ vertexes and parameter $\tau < 1$ and $2 \sigma < 1$ in arbitrary dimensional hyperbolic space $\mathbf { H } ^ { d + 1 }$ . The main results of this article are as follows.
+
+THEOREM1.1 Let $\tau < 1$ ， $2 \sigma < 1$ and $d \geqslant 1$ ,then
+
+$$
+\operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = \int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \Theta ( e ^ { - 2 \sigma \eta _ { u } } )
+$$
+
+for any $r _ { u }$ . Mean degree
+
+$$
+\begin{array} { r } { \langle k \rangle = \Theta \left( ( N - 1 ) \mathcal { R } _ { H } e ^ { - 2 \sigma \mathcal { R } _ { H } } \right) . } \end{array}
+$$
+
+The probability of $\mathbf { k }$ -degree
+
+$$
+\mathrm { P r } [ D _ { u } = k ] \to 0
+$$
+
+as $N \to \infty$ , for any given $k \geqslant 0$ ,if let $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$
+
+THEOREM1.2 Let $\tau < 1$ ， $2 \sigma < 1$ and $d \geqslant 1$ , then
+
+$$
+E ( \Lambda ) = 3 { \binom { N } { 3 } } \Theta \biggl ( e ^ { - 2 \sigma \mathcal { R } _ { H } } \biggr ) .
+$$
+
+There exists the the lower bound estimation and the order estimation for $E ( T )$
+
+$$
+E ( T ) \gtrsim { \binom { N } { 3 } } e ^ { - 3 \sigma \mathcal { R } _ { H } } \mathrm { a n d } E ( T ) = o ( E ( \Lambda ) ) .
+$$
+
+THEOREM 1.3 Let $\tau < 1$ ， $2 \sigma < 1$ and $d \geqslant 1$ Also let $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ . The global clustering coefficient $C _ { 2 } ( G )$ of the graph $G ( N , \zeta , \tau , \sigma , \nu , d )$ will go to zero in probability, i.e.,
+
+$$
+C _ { 2 } ( G ) = \frac { 3 T ( G ) } { \Lambda ( G ) } = \frac { 3 E ( T ) ( 1 + o _ { p } ( 1 ) ) } { E ( \Lambda ) ( 1 + o _ { p } ( 1 ) ) } \stackrel { p } { \longrightarrow } o ,
+$$
+
+as $N \to \infty$
+
+The paper is organized as follows. In Section 1.1 we introduce the model. In Section 2 we give a useful preliminary result. We give some degree estimation and prove Theorem 1.1 in Section 3. We discuss incomplete and complete triangles and prove Theorem 1.2 in Section 4.Finally we estimate the variance and prove Theorem 1.3 in Section 5 and 6.
+
+# 1.3 Simulations
+
+We adopt R software htps://www.r-project.org/ for statistical simulation. According to the law of large numbers in probability theory, we use the mean to approximate the expectation in R program. We simulate the connecting probability of a fixed node in two kinds of dimensions, $\mathbf { k }$ -degree and global clustering coefficient of incomplete and complete triangles. One also can use some usual ComplexNet work s toolkit within Cactus [2] for the simulation.
+
+# 2.Preliminarylemma
+
+The hyperbolic distance $d _ { u , \nu }$ in (1.4) can be explicitly expressed according to the following lemma.
+
+LEMMA 2.1 Let $h , h _ { 1 } : \mathbf { N }  \mathbf { R } ^ { + }$ such that $h ( N ) , h _ { 1 } ( N ) \to \infty$ as $N \to \infty$ .Let $u , \nu$ be two distinct points in $\mathbf { H } ^ { d + 1 }$ with $\theta _ { u , \nu }$ denoting their relative angle. Let also $\widehat { \theta } _ { u , \nu } : = ( e ^ { - 2 \zeta r _ { \nu } } + e ^ { - 2 \zeta r _ { u } } ) ^ { \frac { 1 } { 2 } }$ . If we assume $u , \nu$ with $r _ { u } , r _ { \nu } \geqslant h ( N )$ , then as
+
+$$
+h _ { 1 } ( N ) \widehat { \theta } _ { u , \nu } \leqslant \theta _ { u , \nu } \leqslant \pi ,
+$$
+
+we have
+
+$$
+d _ { u , \nu } = r _ { u } + r _ { \nu } + \frac { 2 } { \zeta } \ln \sin \left( \frac { \theta _ { u , \nu } } { 2 } \right) + O \left( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } \right) ,
+$$
+
+here $\begin{array} { r } { | O \left( \big ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } \big ) ^ { 2 } \right) | \leqslant 3 \pi ^ { 3 } \big ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } \big ) ^ { 2 } } \end{array}$ uniformly for all $u , \nu$ stisfying theaoveconditionNote that wecan take $h _ { 1 } ( N ) = h ( N )$ , for example.
+
+Proof.For $r _ { u } , r _ { \nu } \geqslant h ( N )$ , we have $\widehat { \theta } _ { u , \nu } \leqslant \sqrt { 2 } e ^ { - \zeta h ( N ) }$ . Thus, we may choose $h _ { 1 } ( N )$ to make $h _ { 1 } ( N ) \hat { \theta } _ { u , \nu } <$ $\pi$ ,hence the condition $h _ { 1 } ( N ) \hat { \theta } _ { u , \nu } \leqslant \theta _ { u , \nu } \leqslant \pi$ is well defined. Obviously, we can take $h _ { 1 } ( N ) = h ( N )$ S0 that $h ( N ) \hat { \theta } _ { u , \nu } \ll \pi$ . Next, we prove (2.1). The right-hand side of (1.4)
+
+$$
+\begin{array} { r c l } { \cosh \zeta r _ { u } \cosh \zeta r _ { v } - \sinh \zeta r _ { u } \sinh \zeta r _ { v } \cos \theta _ { u , v } } & { = } & { \displaystyle \frac { e ^ { \zeta ( r _ { u } + r _ { v } ) } \sin ^ { 2 } \theta _ { u , v } } { 2 } \left( 1 + \frac { ( 1 + \cos \theta _ { u , v } ) \hat { \theta } _ { u , v } ^ { 2 } } { 2 } + e ^ { - 2 \zeta ( r _ { u } + r _ { v } ) } \right) } \\ & { = } & { \displaystyle \frac { e ^ { \zeta ( r _ { u } + r _ { v } ) } \sin ^ { 2 } \theta _ { u , v } } { 2 } \left( 1 + O ( ( \frac { \hat { \theta } _ { u , v } } { \theta _ { u , v } } ) ^ { 2 } ) \right) . } \end{array}
+$$
+
+Here, $\begin{array} { r } { 0 < O ( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } ) \leqslant 2 \pi ^ { 2 } ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } } \end{array}$ ,and we also make use of Young's inequality to get
+
+$$
+e ^ { - \zeta ( r _ { u } + r _ { \nu } ) } = e ^ { - 2 \zeta \frac { r _ { u } + r _ { \nu } } { 2 } } \leqslant \frac { 1 } { 2 } ( e ^ { - 2 \zeta r _ { u } } + e ^ { - 2 \zeta r _ { \nu } } ) \leqslant \hat { \theta } _ { u , \nu } ^ { 2 } .
+$$
+
+Thus,
+
+$$
+\begin{array} { r c l } { \displaystyle \cosh \zeta r _ { u } \cosh \zeta r _ { \nu } - \sinh \zeta r _ { u } \sinh \zeta r _ { \nu } \cos \theta _ { u , \nu } } & { \displaystyle \geqslant } & { \displaystyle \frac { 1 } { \pi ^ { 2 } } \left( \frac { \theta _ { u , \nu } } { \theta _ { u , \nu } } \right) ^ { 2 } \left( 1 + { \cal O } ( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } ) \right) , } \end{array}
+$$
+
+so from (1.4), we get
+
+$$
+e ^ { \zeta d _ { u , \nu } } \geqslant \frac { 1 } { \pi ^ { 2 } } ( \frac { \theta _ { u , \nu } } { \hat { \theta } _ { u , \nu } } ) ^ { 2 } \geqslant \frac { 1 } { \pi ^ { 2 } } h _ { 1 } ^ { 2 } ( N ) .
+$$
+
+Furthermore, from (1.4) and (2.2),we have
+
+$$
+\zeta d _ { u , \nu } + \ln ( 1 + e ^ { - 2 \zeta d _ { u , \nu } } ) = \zeta ( r _ { u } + r _ { \nu } ) + \ln \sin ^ { 2 } \frac { \theta _ { u , \nu } } { 2 } + \ln \left( 1 + { \cal O } ( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } ) \right) ,
+$$
+
+and, from (2.3),we have the result
+
+$$
+d _ { u , \nu } = \left( r _ { u } + r _ { \nu } \right) + \frac { 2 } { \zeta } \ln \sin \frac { \theta _ { u , \nu } } { 2 } + O \left( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } \right) ,
+$$
+
+where $\begin{array} { r } { | O \left( \big ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } \big ) ^ { 2 } \right) | \leqslant 3 \pi ^ { 2 } ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } } \end{array}$ Especially, for all $u , \nu$ with $r _ { u } + r _ { \nu } - R \geqslant \omega ( N )$ with ${ \pmb \omega } ( N ) = o ( { \pmb R } ( N ) )  \infty$ as $N \to \infty$ ,we may choose
+
+$$
+\tilde { \theta } _ { u , \nu } = \frac { e ^ { \frac { \zeta } { 2 } ( R - r _ { u } - r _ { \nu } ) } } { \omega ( N ) } ,
+$$
+
+if
+
+$$
+\tilde { \theta } _ { u , \nu } \leqslant \theta _ { u , \nu } \leqslant \pi ,
+$$
+
+then (2.1) is achieved, since $r _ { u } , r _ { \nu } \geqslant \omega ( N )$ and $\tilde { \theta } _ { u , \nu } \geqslant h _ { 1 } ( N ) \hat { \theta } _ { u , \nu }$ ，where $\begin{array} { r } { h _ { 1 } ( N ) = \frac { \frac { \sqrt { 2 } } { 2 } e ^ { \frac { \zeta } { 2 } \omega ( N ) } } { \omega ( N ) } } \end{array}$ , further we have
+
+$$
+\begin{array} { r c l } { e ^ { \frac { d _ { u , \nu } - R } { T } } } & { = } & { e ^ { \frac { r _ { u + r \nu - R + \frac { 2 } { \zeta } } \ln \sin ( \frac { \theta _ { u , \nu } } { 2 } ) + O ( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } ) } { T } } } \\ & { = } & { e ^ { \frac { r _ { u + r \nu - R } } { T } } \sin ^ { \frac { d } { \tau } } ( \frac { \theta _ { u , \nu } } { 2 } ) e ^ { \frac { O ( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } ) } { T } } } \\ & { = } & { C _ { N } e ^ { \frac { \eta _ { u } + \eta _ { \nu } - \mathcal { B } _ { H } } { \tau } } \sin ^ { \frac { d } { \tau } } ( \frac { \theta _ { u , \nu } } { 2 } ) , } \end{array}
+$$
+
+with
+
+$$
+C _ { N } = 1 + \frac { O ( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } ) } { T } ,
+$$
+
+SO
+
+$$
+p _ { u , \nu } = \frac { 1 } { 1 + e ^ { \frac { d _ { u , \nu } - R } { T } } } = \frac { 1 } { 1 + C _ { N } e ^ { \frac { \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } } { \tau } } \sin ^ { \frac { d } { \tau } } \left( \frac { \theta } { 2 } \right) } .
+$$
+
+# 3.Degree estimation
+
+In this section, we prove Theorem 1.1.
+
+3.1The connecting probability with a fixed node for arbitrary dimension We compute $\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ]$ in this subsection.
+
+3.1.1 $\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ]$ on the condition $r _ { u } \geqslant \omega ( N )$ ．As the definition
+
+$$
+\begin{array} { r c l } { \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] } & { = } & { \displaystyle \int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } } \\ & { = } & { \displaystyle \int _ { 0 } ^ { R - r _ { u } + \omega ( N ) } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } + \int _ { R - r _ { u } + \omega ( N ) } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } . } \end{array}
+$$
+
+The second part integral has the estimation from A.2
+
+$$
+\begin{array} { r l l } { \displaystyle \int _ { R - r _ { u } + \omega ( N ) } ^ { R } \hat { p } _ { u , v } \rho ( r _ { v } ) d r _ { v } } & { = } & { \displaystyle \int _ { R - r _ { u } + \omega ( N ) } ^ { R } ( 1 + o ( 1 ) ) \frac { c ^ { * } ( \tau , d ) } { { \cal I } _ { d , 1 } } e ^ { \mathcal { R } _ { H } - \boldsymbol { \eta } _ { u } - \boldsymbol { \eta } _ { v } } \cdot ( 1 + o ( 1 ) ) 2 \sigma \frac { ( e ^ { \frac { 2 \alpha } { d } \boldsymbol { \eta } _ { v } } - e ^ { - 2 \alpha \boldsymbol { \eta } _ { v } } ) } { e ^ { 2 \sigma \mathcal { R } _ { H } } } \times } \\ & { = } & { o ( 1 ) e ^ { - 2 \sigma \boldsymbol { \eta } _ { u } } . } \end{array}
+$$
+
+The primary difficulty is to estimate the first part integral
+
+$$
+\int _ { 0 } ^ { R - r _ { u } + \omega ( N ) } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } ,
+$$
+
+for which we need more fine analysis. We decompose it into two subparts. The first subpart has the estimation
+
+$$
+\begin{array} { r c l } { \int _ { 0 } ^ { R - r _ { u } } \hat { p } _ { u , v } \rho ( r _ { v } ) d r _ { v } } & { = } & { \int _ { 0 } ^ { R - r _ { u } } \int _ { 0 } ^ { \pi } \frac { \rho _ { 1 } ( \theta _ { u , v } ) } { 1 + e ^ { \frac { d \pi _ { v } - R } { T } } } d \theta _ { u , v } \rho ( r _ { v } ) d r _ { v } ( d _ { u , v } \leqslant r _ { u } + r _ { v } \leqslant R ) } \\ & { = } & { \int _ { 0 } ^ { R - r _ { u } } \int _ { 0 } ^ { \pi } \Theta ( 1 ) \rho _ { 1 } ( \theta _ { u , v } ) d \theta _ { u , v } \rho ( r _ { v } ) d r _ { v } } \\ & { = } & { \int _ { 0 } ^ { \mathcal { R } _ { H } - \eta _ { u } } \Theta ( 1 ) ( 1 + o ( 1 ) ) 2 \sigma \frac { ( e ^ { \frac { 2 \sigma } { d } \eta _ { v } } - e ^ { - \frac { 2 \sigma } { d } \eta _ { v } } ) ^ { d } } { e ^ { 2 \sigma \mathcal { R } _ { H } } } d \eta _ { v } } \\ & { = } & { O ( e ^ { - 2 \sigma \eta } ) . } \end{array}
+$$
+
+For second subpart
+
+$$
+\int _ { R - r _ { u } } ^ { R - r _ { u } + \omega ( N ) } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \int _ { R - r _ { u } } ^ { R - r _ { u } + \omega ( N ) } \int _ { 0 } ^ { \pi } \frac { \rho _ { 1 } ( \theta _ { u , \nu } ) } { 1 + e ^ { \frac { d u _ { \nu } - R } { T } } } d \theta _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } ,
+$$
+
+we consider the angular integral $\hat { p } _ { u , \nu }$ at two cases since $R - r _ { u } \leqslant r _ { \nu } \leqslant R - r _ { u } + \omega ( N )$ (1) If $r _ { u } \leqslant R - \omega ( N )$ , it has $r _ { \nu } \geqslant \omega ( N )$ .Together with the premier condition $r _ { u } \geqslant \omega ( N )$ ,we have the explicit distance expression from 2.1
+
+$$
+d _ { u , \nu } = r _ { u } + r _ { \nu } + \frac { 2 } { \zeta } \ln \sin \left( \frac { \theta _ { u , \nu } } { 2 } \right) + O \left( ( \frac { \hat { \theta } _ { u , \nu } } { \theta _ { u , \nu } } ) ^ { 2 } \right) ,
+$$
+
+hence the connection probability
+
+$$
+p _ { u , \nu } = \frac { 1 } { 1 + e ^ { \frac { d _ { u , \nu } - R } { T } } } = \frac { 1 } { 1 + C _ { N } e ^ { \frac { \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } } { \tau } } \sin ^ { \frac { d } { \tau } } \left( \frac { \theta } { 2 } \right) } ,
+$$
+
+for $\tilde { \theta } _ { u , \nu } \leqslant \theta _ { u , \nu } \leqslant \pi$ . So the angular integral
+
+$$
+\begin{array} { r l } { \hat { \rho } _ { \mathrm { i n t } } = } & { \int _ { 0 } ^ { \infty } \rho _ { 1 } ( \theta _ { 1 , n \times n } , \theta _ { 1 } ) \theta _ { 1 } } \\ { = } & { \int _ { 0 } ^ { \infty } \rho _ { 1 } ( \theta _ { 1 , n \times n } , \theta _ { 1 } ) \hat { \rho } _ { \mathrm { i n t } } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } } \\ { = } & { \partial \hat { \rho } _ { 1 } ( \theta _ { 1 , n \times n } , \theta _ { 1 } ) \hat { \rho } _ { 1 } \int _ { 0 } ^ { \infty } \frac { 1 } { \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } } \\ { = } & { \partial \hat { \rho } _ { 1 } ( \cdots \hat { \rho } _ { 1 } + 1 ) \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } } \\ { = } &  \partial \hat { \rho } _ { 1 } ( \cdots \hat { \rho } _ { 1 } ( \theta _ { 1 , n \times n } , \theta _ { 1 } ) + ( 1 + \mathrm { i } \Lambda ) ) \int _ { 0 } ^ { \infty } \frac { 1 } { \hat { \rho } _ { 1 } } \frac { 1 } { \hat { \rho } _ { 1 } } \frac { 1 } { \hat { \rho } _ { 1 } } \frac { 1 } { \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } } \frac { 1 } { \hat { \rho } _ { 1 } \hat { \rho } _ { 1 } } \frac { 1 }  \hat  \ \end{array}
+$$
+
+where $\theta _ { \delta }$ is defined by $\begin{array} { r } { \sin ^ { \frac { d } { \tau } } ( \frac { \theta _ { \delta } } { 2 } ) = \left( e ^ { \frac { \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } } { \tau } } \right) ^ { - 1 } } \end{array}$ (Notice $C _ { N } = 1 + o ( 1 )$ and $e ^ { \frac { \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } } { \tau } } \geqslant 1$ ). The last equality is from the following process. If $\begin{array} { r } { \theta _ { \delta } \leqslant \frac { \pi } { 2 } } \end{array}$ ,then
+
+$$
+\int _ { 0 } ^ { \theta _ { \delta } } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } d \theta = \Theta ( \int _ { 0 } ^ { \theta _ { \delta } } \frac { \theta ^ { d - 1 } } { I _ { d , 1 } } d \theta ) = \Theta ( \theta _ { \delta } ^ { d } ) = \Theta \biggl ( e ^ { - ( \eta _ { u } + \eta _ { v } - \mathcal { R } _ { H } ) } \biggr )
+$$
+
+for $\bigl ( \frac { 2 } { \pi } \frac { \theta _ { \delta } } { 2 } \bigr ) ^ { \frac { d } { \tau } } \leqslant \sin ^ { \frac { d } { \tau } } \bigl ( \frac { \theta _ { \delta } } { 2 } \bigr ) \leqslant \bigl ( \frac { \theta _ { \delta } } { 2 } \bigr ) ^ { \frac { d } { \tau } }$ , and if $\begin{array} { r } { \frac { \pi } { 2 } \leqslant \theta _ { \delta } \leqslant \pi } \end{array}$ ,then
+
+$$
+\int _ { 0 } ^ { \frac { \pi } { 2 } } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } d \theta \leqslant \int _ { 0 } ^ { \theta _ { \delta } } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } d \theta \leqslant \int _ { 0 } ^ { \pi } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } d \theta ,
+$$
+
+so it is obvious Jo $\begin{array} { r } { \int _ { 0 } ^ { \theta _ { \delta } } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } d \theta = \Theta \bigg ( e ^ { - ( \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } ) } \bigg ) } \end{array}$ )andthere alashas $\begin{array} { r } { \int _ { \theta _ { \delta } } ^ { \pi } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } \frac { 1 } { e ^ { \frac { \eta _ { u } + \eta _ { v } - \mathcal { R } _ { H } } { \tau } } \sin ^ { \frac { d } { \tau } } ( \frac { \theta } { 2 } ) } d \theta = } \end{array}$ $O \left( e ^ { - \left( \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } \right) } \right)$ for $0 < \theta _ { \delta } \leqslant \pi$
+
+(2)If $r _ { u } \geqslant R - \omega ( N )$ ，we luckily have the lower bound estimation of the distance from(1.4). Notice $R - 3 \omega ( N ) \leqslant r _ { u } - r _ { \nu } \leqslant d _ { u , \nu } \leqslant r _ { u } + r _ { \nu }$ ，S0 $d _ { u , \nu }  \infty$ as $N \to \infty$ . We extend two sides of the hyperbolic distance formula (1.4) and get
+
+$$
+\begin{array} { r l r } { \frac { e ^ { \zeta d _ { u , v } } ( 1 + e ^ { - 2 \zeta d _ { u , v } } ) } { 2 } } & { = } & { \frac { e ^ { \zeta r _ { u } + \zeta r _ { v } } ( ( 1 - \cos \theta _ { u , v } ) + e ^ { - 2 \zeta r _ { u } } ( 1 + \cos \theta _ { u , v } ) + e ^ { - 2 \zeta r _ { v } } ( 1 + \cos \theta _ { u , v } ) + e ^ { - 2 \zeta ( r _ { u } + r _ { v } ) } ( 1 - \cos \theta _ { u , v } ) ) , } { 4 } } \\ { e ^ { \zeta d _ { u , v } } = ( 1 + e ^ { - 2 \zeta d _ { u , v } } ) ^ { - 1 } e ^ { \zeta r _ { u } + \zeta r _ { v } } ( \sin ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta r _ { u } } \cos ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta r _ { v } } \cos ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta ( r _ { u } + r _ { v } ) } \sin ^ { 2 } \frac { \theta _ { u , v } } { 2 } ) } \end{array}
+$$
+
+$$
+\begin{array} { r c l } { e ^ { \zeta ( d _ { u , v } - R ) } } & { = } & { ( 1 + e ^ { - 2 \zeta d _ { u , v } } ) ^ { - 1 } e ^ { \zeta ( r _ { u } + r _ { v } - R ) } ( \sin ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta r _ { u } } \cos ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta r _ { v } } \cos ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta ( r _ { u } + r _ { v } ) } \sin ^ { 2 } \frac { \theta _ { u , v } } { 2 } ) } \\ & { = } & { ( 1 + o ( 1 ) ) e ^ { \zeta ( r _ { u } + r _ { v } - R ) } ( \sin ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta r _ { u } } \cos ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta r _ { v } } \cos ^ { 2 } \frac { \theta _ { u , v } } { 2 } + e ^ { - 2 \zeta ( r _ { u } + r _ { v } ) } \sin ^ { 2 } \frac { \theta _ { u , v } } { 2 } ) } \end{array}
+$$
+
+Set $\theta _ { \delta }$ as before, i.e., $\sin ^ { 2 } ( \frac { \theta _ { \delta } } { 2 } ) e ^ { \zeta ( r _ { u } + r _ { \nu } - R ) } = 1$ For $0 \leqslant \theta _ { u , \nu } \leqslant \theta _ { \delta }$ we have
+
+$$
+e ^ { \zeta ( d _ { u , \nu } - R ) } \leqslant 4 ( 1 + o ( 1 ) ) ,
+$$
+
+on the other hand, for $0 \leqslant \theta _ { u , \nu } \leqslant \pi$ we have
+
+$$
+e ^ { \frac { d u _ { , \nu } - R } { T } } \geqslant ( 1 + o ( 1 ) ) e ^ { \frac { r u + r _ { \nu } - R } { T } } \sin ^ { \frac { 2 } { \zeta T } } \frac { \theta _ { u , \nu } } { 2 } .
+$$
+
+Hence we have the upper bound estimation
+
+$$
+\begin{array} { r c l } { \hat { p } _ { u , v } } & { = } & { \displaystyle \int _ { 0 } ^ { \pi } \frac { \rho _ { 1 } ( \theta ) } { 1 + e ^ { \frac { d u _ { v } - R } { T } } } d \theta } \\ & { = } & { \displaystyle \int _ { 0 } ^ { \theta _ { \delta } } \frac { \rho _ { 1 } ( \theta ) } { 1 + e ^ { \frac { d u _ { v } - R } { T } } } d \theta + \int _ { \theta _ { \delta } } ^ { \pi } \frac { \rho _ { 1 } ( \theta ) } { 1 + e ^ { \frac { d u _ { v } - R } { T } } } d \theta } \\ & { \leqslant } & { \displaystyle \int _ { 0 } ^ { \theta _ { \delta } } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } d \theta + \int _ { \theta _ { \delta } } ^ { \pi } \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } \frac { 1 } { ( 1 + o ( 1 ) ) e ^ { \frac { \eta _ { u } + \eta _ { v } - \mathcal { R } _ { H } } { \tau } } \sin ^ { \frac { d } { \delta } } ( \frac { \theta } { 2 } ) } d \theta } \\ & { \lesssim } & { e ^ { - ( \eta _ { u } + \eta _ { v } - \mathcal { R } _ { H } ) } , } \end{array}
+$$
+
+and the lower bound estimation
+
+$$
+\hat { p } _ { u , v } = \int _ { 0 } ^ { \pi } \rho _ { 1 } ( \theta ) p _ { u , v } d \theta = \int _ { 0 } ^ { \pi } { \frac { \rho _ { 1 } ( \theta ) } { 1 + e ^ { \frac { d u _ { v } - K } { T } } } } d \theta \geqslant \int _ { 0 } ^ { \theta _ { \delta } } { \frac { \rho _ { 1 } ( \theta ) } { 1 + e ^ { \frac { d u _ { v } - K } { T } } } } d \theta = \Theta ( \int _ { 0 } ^ { \theta _ { \delta } } { \frac { \sin ^ { d - 1 } \theta } { I _ { d , 1 } } } d \theta ) = \Theta \left( e ^ { - ( \pi / 2 ) \pi } \right)
+$$
+
+for the same process as before
+
+Finally from the above two cases we generalize
+
+$$
+\hat { p } _ { u , \nu } = \int _ { 0 } ^ { \pi } \rho _ { 1 } ( \theta ) p _ { u , \nu } d \theta = \Theta \bigg ( e ^ { - ( \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } ) } \bigg ) .
+$$
+
+Further for second subpart (3.5),we have
+
+$$
+\begin{array} { r c l } { \displaystyle \int _ { R - r _ { u } } ^ { R - r _ { u } + \omega ( N ) } \hat { p } _ { u , v } \rho ( r _ { v } ) d r _ { \nu } } & { = } & { \displaystyle \int _ { R - r _ { u } } ^ { R - r _ { u } + \omega ( N ) } \Theta ( e ^ { - ( \eta _ { u } + \eta _ { v } - \mathcal { R } _ { H } ) } ) \rho ( r _ { \nu } ) d r _ { \nu } } \\ & { = } & { \displaystyle \Theta \left( \int _ { R - r _ { u } } ^ { R - r _ { u } + \omega ( N ) } e ^ { - ( \eta _ { u } + \eta _ { v } - \mathcal { R } _ { H } ) } \rho ( r _ { \nu } ) d r _ { \nu } \right) } \\ & { = } & { \displaystyle \Theta \left( e ^ { - 2 \sigma \eta _ { u } } \right) . } \end{array}
+$$
+
+Combining the estimation of two subparts (3.4)(3.5),we have the estimation for the first part integral (3.3)
+
+$$
+\int _ { 0 } ^ { R - r _ { u } + \omega ( N ) } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \Theta \bigg ( e ^ { - 2 \sigma \eta _ { u } } \bigg ) ,
+$$
+
+further together with the estimation of second part integral (3.2), we get
+
+$$
+\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = \int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \Theta \biggl ( e ^ { - 2 \sigma \eta _ { u } } \biggr ) .
+$$
+
+We may see that the connection probability $\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ]$ is mainly contributed by $0 \leqslant r _ { \nu } \leqslant R - r _ { u } +$ $\omega ( N )$ for $r _ { u } > \omega ( N )$ . This property is different from the case of $2 \sigma \geqslant 1$ in [16].
+
+3.1.2 $\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ]$ on the condition $r _ { u } \leqslant \omega ( N )$ .We discompose formula (3.1) into two parts as follows
+
+$$
+\operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = \int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \int _ { 0 } ^ { R - r _ { u } } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } + \int _ { R - r _ { u } } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } .
+$$
+
+For the first part integral, we have the estimation
+
+$$
+\begin{array} { r c l } { \int _ { 0 } ^ { R - r _ { u } } \hat { p } _ { u , v } \rho ( r _ { v } ) d r _ { v } } & { = } & { \int _ { 0 } ^ { R - r _ { u } } \int _ { 0 } ^ { \pi } \frac { \rho _ { 1 } ( \theta _ { u , v } ) } { 1 + e ^ { \frac { d \pi _ { v } - R } { T } } } d \theta _ { u , v } \rho ( r _ { v } ) d r _ { v } ( d _ { u , v } \leqslant r _ { u } + r _ { v } \leqslant R ) } \\ & { = } & { \int _ { 0 } ^ { R - r _ { u } } \int _ { 0 } ^ { \pi } \Theta ( 1 ) \rho _ { 1 } ( \theta _ { u , v } ) d \theta _ { u , v } \rho ( r _ { v } ) d r _ { v } } \\ & { = } & { \int _ { 0 } ^ { \mathcal { R } _ { H } - \eta _ { u } } \Theta ( 1 ) ( 1 + o ( 1 ) ) 2 \sigma \frac { ( e ^ { \frac { 2 \sigma } { d } \eta _ { v } } - e ^ { - \frac { 2 \sigma } { d } \eta _ { v } } ) ^ { d } } { e ^ { 2 \sigma \mathcal { R } _ { H } } } d \eta _ { v } } \\ & { = } & { \Theta ( e ^ { - 2 \sigma \eta _ { u } } ) . } \end{array}
+$$
+
+For second part integral, since $R - 2 \omega ( N ) \leqslant r _ { \nu } - r _ { u } \leqslant d _ { u , \nu } \leqslant r _ { u } + r _ { \nu }$ ,s0 $d _ { u , \nu }  \infty$ as $N \to \infty$ , we use the same analysis as second case in(3.5),there is
+
+$$
+\hat { p } _ { u , \nu } = \Theta \big ( e ^ { - ( \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } ) } \big ) ,
+$$
+
+so the integral
+
+$$
+\begin{array} { r c l } { \displaystyle \int _ { R - r _ { u } } ^ { R } \hat { p } _ { u , v } \rho ( r _ { \nu } ) d r _ { \nu } } & { = } & { \displaystyle \int _ { R - r _ { u } } ^ { R } \int _ { 0 } ^ { \pi } \frac { \rho _ { 1 } ( \theta _ { u , \nu } ) } { 1 + e ^ { \frac { d u _ { \nu } - R } { T } } } d \theta _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } } \\ & { = } & { \displaystyle \int _ { R - r _ { u } } ^ { R } \Theta ( e ^ { - ( \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } ) } ) \rho ( r _ { \nu } ) d r _ { \nu } } \\ & { = } & { \Theta ( e ^ { - 2 \sigma \eta _ { u } } ) . } \end{array}
+$$
+
+Together with two parts,we have
+
+$$
+\operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = \int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \Theta ( e ^ { - 2 \sigma \eta _ { u } } ) .
+$$
+
+3.1.3 $\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ]$ for any $r _ { u }$ From $\ S 3 . 1 . 1$ and $\ S 3 . 1 . 2$ ,we have the first conclusion(1.10) in Theorem 1.1,
+
+$$
+\operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = \int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \rho ( r _ { \nu } ) d r _ { \nu } = \Theta ( e ^ { - 2 \sigma \eta _ { u } } )
+$$
+
+for any $r _ { u }$ .Figure 1 shows the simulation results which is consistent with our analysis. On the other hand, we also get a fact: for $0 \leqslant r _ { \nu } \leqslant R - r _ { u }$ ， $\hat { p } _ { u , \nu } = \Theta ( 1 )$ ; for $R - r _ { u } \leqslant r _ { \nu } \leqslant R$ ， $\hat { p } _ { u , \nu } = \mathbf { \dot { \Theta } } \big ( e ^ { - \left( \eta _ { u } + \eta _ { \nu } - \mathcal { R } _ { H } \right) } \big )$ ，
+
+# 3.2 Mean degree
+
+By the simple computing,we have second conclusion(1.11) in Theorem 1.1,
+
+$$
+\langle k \rangle = ( N - 1 ) \int _ { 0 } ^ { R } \rho ( r ) \Theta ( e ^ { - 2 \sigma \eta _ { u } } ) d r = \Theta \left( ( N - 1 ) \mathcal { R } _ { H } e ^ { - 2 \sigma \mathcal { R } _ { H } } \right) .
+$$
+
+![](images/50666e77eb208e51f5ff733c97934db893ef49388526d0647897796683f05878.jpg)  
+FIG.1.Plot comes from simulation of $\mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ]$ by the law of large numbers.The vertical axis is $\log ( \mathrm { P r } )$ and the abscissa axis is radius $r _ { u }$ . The data points with $\dot { N } = 2 ^ { 1 2 }$ from lower to upper take parameters $d = 3 , 2 \sigma = 1 / 2 , \tau = 1 / 2$ $d = 1 , 2 \sigma =$ $2 / 3 , \tau = 1 / 3$ $d = 1 , 2 \sigma = 1 / 2 , \tau = 1 / 2$ respectively,and $\zeta = 1$ . Comparison of three almost straight lines is consistent with equation (1.10)
+
+# 3.3 The probability of k-degree
+
+Next we analyze the probability of $D _ { u } = k$ ，where $k$ is a positive integer. Let constant $\lambda \in ( 0 , 1 )$ . Then
+
+$$
+\begin{array} { r l } & { \operatorname* { P r } [ D _ { u } = k ] } \\ { = } & { \int _ { \lambda _ { R } } ^ { R } { \binom { N - 1 } { k } } \left( \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] \right) ^ { k } \left( 1 - \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] \right) ^ { N - 1 - k } \rho ( r _ { u } ) d r _ { u } } \\ & { + \int _ { 0 } ^ { \lambda R } { \binom { N - 1 } { k } } \left( \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] \right) ^ { k } \left( 1 - \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] \right) ^ { N - 1 - k } \rho ( r _ { u } ) d r _ { u } } \\ { = } & { \int _ { \lambda _ { R } } ^ { R } { \binom { N - 1 } { k } } \left( \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] \right) ^ { k } \left( 1 - \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } ] \right) ^ { N - 1 - k } \rho ( r _ { u } ) d r _ { u } + o ( 1 ) . } \end{array}
+$$
+
+Now to analyze the first integral, if let $t = \mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } ] = \Theta ( e ^ { - 2 \sigma \eta _ { u } } )$ and we can see $t \to 0$ uniformly for $\lambda R \leqslant r _ { u } \leqslant R$ ,and
+
+$$
+\begin{array} { r c l } { \displaystyle ( 1 - t ) ^ { N - 1 - k } } & { = } & { \displaystyle ( 1 + o ( 1 ) ) \exp [ - ( N - 1 ) t ] \times \exp [ - \frac { N - 1 } { 2 ( 1 - \xi ) ^ { 2 } } t ^ { 2 } ] } \end{array}
+$$
+
+$0 \leqslant \xi \leqslant t , o ( 1 ) = O ( e ^ { - 2 \sigma \lambda \mathcal { R } _ { H } } )$ when $r _ { u } \geqslant \lambda R$ So
+
+$$
+\begin{array} { r l } & { \int _ { \lambda , R } ^ { R } \left( \displaystyle \sum _ { k } ^ { N - 1 } \right) \left( \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) ^ { k } \left( 1 - \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) ^ { N - 1 - k } \rho \left( r _ { u } \right) d r _ { u } } \\ { = } & { \int _ { \lambda , R } ^ { R } \left( \displaystyle \sum _ { k } ^ { n - 1 } \right) \left( \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) ^ { k } \left( 1 + o ( 1 ) \right) \exp \left[ - \left( N - 1 \right) \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right] } \\ & { \times \exp \left[ - \displaystyle \frac { N - 1 } { 2 \left( 1 - \xi \right) ^ { 2 } } \left( \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) ^ { 2 } \right] \rho \left( r _ { u } \right) d r _ { u } } \\ { = } & { \left( 1 + o ( 1 ) \right) \int _ { \lambda , R } ^ { R } \frac { 1 } { k ! } \left( \left( N - 1 \right) \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) ^ { k } \exp \left[ - \left( N - 1 \right) \left( \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) \right] } \\ & { \times \exp \left[ - \displaystyle \frac { N - 1 } { 2 \left( 1 - \xi \right) ^ { 2 } } \left( \operatorname* { P r } [ I _ { u , v } = 1 | r _ { u } ] \right) ^ { 2 } \right] \rho \left( r _ { u } \right) d r _ { u } . } \end{array}
+$$
+
+Since
+
+$$
+( N - 1 ) \Theta ( e ^ { - 2 \sigma \mathcal { R } _ { H } } ) \leqslant ( N - 1 ) \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] = ( N - 1 ) \Theta ( e ^ { - 2 \sigma \eta _ { u } } ) \leqslant ( N - 1 ) \Theta ( e ^ { - 2 \sigma \lambda \mathcal { R } _ { H } } ) ,
+$$
+
+when take $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ , then $\left( N - 1 \right) \mathrm { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] \to \infty$ s $N \to \infty$ , and since $\frac { e ^ { - x } x ^ { k } } { k ! }$ is decreasing to 0 for $x > k$ ,then
+
+$$
+\frac { 1 } { k ! } ( ( N - 1 ) \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] ) ^ { k } \exp [ - ( N - 1 ) ( \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] ) ]  0 .
+$$
+
+So we get
+
+$$
+\int _ { \lambda _ { R } } ^ { R } { \binom { N - 1 } { k } } \left( \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] \right) ^ { k } \left( 1 - \operatorname* { P r } [ I _ { u , \nu } = 1 | r _ { u } , \vec { \theta } _ { u } ] \right) ^ { N - 1 - k } \rho ( r _ { u } ) d r _ { u } \to 0 ,
+$$
+
+as $N \to \infty$ .Finally we have third conclusion in Theorem 1.1,
+
+$$
+\mathrm { P r } [ D _ { u } = k ] \to 0
+$$
+
+as $N \to \infty$ for any given $k \geqslant 0$ . Simulation (figure 2) also shows the same tendency.
+
+# 4.Expectation of incomplete and complete triangles
+
+In this section we will compute longer link and prove Theorem 1.2.
+
+# 4.1Incomplete triangle for the arbitrary dimension
+
+In this subsection,we compute the probability $P ( A , \nu ; w ) )$ of the event $\Lambda ( u , \nu ; w )$ . First we define the angular integral $\hat { p } _ { u , \nu ; w }$ by a conditional probability which describe that nodes $u , \nu$ at the fixed radial coordinate $r _ { u } , r _ { \nu }$ connect to a node $w$ at the fixed radius $r _ { w }$ . We pivoted the radial direction of vertex $w$ as the center axis and the connections of $\{ u , w \}$ and $\{ \nu , w \}$ are independent events,we may compute $\hat { p } _ { u , \nu ; w }$ by integrating over the relative angles $\theta _ { u , w } , \theta _ { \nu , w }$ of $u , \nu$ about $w$ respectively(figure 3).
+
+$$
+\hat { p } _ { u , \nu ; w } = \hat { p } _ { u , w } \hat { p } _ { \nu , w } = \int _ { 0 } ^ { \pi } \int _ { 0 } ^ { \pi } \rho _ { 1 } ( \theta _ { u , w } ) \rho _ { 1 } ( \theta _ { \nu , w } ) p _ { u , w } p _ { \nu , w } d \theta _ { u , w } d \theta _ { \nu , w } .
+$$
+
+![](images/25cd686502c3d989918e5fdf036c176193304808f723f3477b7b5e5564238fde.jpg)  
+FIG.2.Plot of probabilities of node degrees having various values of $k$ ,against the network size $N$ ,for $d = 1$ $\tau = 1 / 2$ $2 \sigma = 1 / 2$ $\nu = 1$ and $\zeta = 1$ .one can see how $\operatorname* { P r } ( k ) \to 0$ for fixed $k$ as $N \to \infty$
+
+![](images/0ff2e9b61bdb1ad63304d1c2689227c43a752e8b610f20e11399d80d84ecbe7d.jpg)  
+FIG.3.Relative angle of the triangle in $d = 1$ and $d = 2$
+
+Notice for $d = 1$ , we have $\begin{array} { r } { \hat { p } _ { u , w } = \int _ { 0 } ^ { \pi } p _ { u , w } \frac { 1 } { \pi } d \theta _ { u , w } } \end{array}$ since the angular symmetry for the hyperbolic distance $d _ { u , w }$ . So we have
+
+$$
+\begin{array} { r c l } { P ( A ( u , v ; w ) ) } & { = } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u , v ; w } \rho ( r _ { u } ) \rho ( r _ { v } ) \rho ( r _ { v } ) d r _ { u } d r _ { v } d r _ { v } } \\ & { = } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u , v } \rho ( r _ { u } ) \rho ( r _ { v } ) \rho ( r _ { v } ) d r _ { u } d r _ { v } d r _ { v } } \\ & { = } & { \int _ { 0 } ^ { R } P ( r _ { v } ) \mathbf { p } _ { \tau } | r _ { u , u } = 1 | r _ { v } | \mathbf { p } | r _ { v , v } = 1 | r _ { v } | d r _ { v } } \\ & { = } & { \int _ { 0 } ^ { R } \Theta \Big ( e ^ { - \mathrm { i } \Phi \eta _ { v } } \Big ) \rho ( r _ { v } ) d r _ { v } } \\ & { = } & { \int _ { 0 } ^ { R _ { u } } \Theta \Big ( e ^ { - \mathrm { i } \Phi \eta _ { v } } \Big ) ( 1 + o ( 1 ) ) 2 \alpha \frac { ( e ^ { \frac { - 2 q } { \hbar } \hbar } - e ^ { - \frac { - \frac { \lambda ^ { 2 } q } { \hbar } \eta _ { v } } } ) ^ { d } } { e ^ { 2 \Phi \theta } } d \eta _ { v } } \\ & { = } & { \Theta \Big ( e ^ { - 2 \sigma \mathcal { A } \eta _ { v } } \Big ) . } \end{array}
+$$
+
+Hence we get the formula (1.12) in Theorem 1.2,
+
+$$
+E ( \Lambda ) = 3 { \binom { N } { 3 } } P ( \Lambda \left( u , \nu ; w \right) ) = 3 { \binom { N } { 3 } } \Theta \left( e ^ { - 2 \sigma \mathcal { R } _ { H } } \right) .
+$$
+
+# 4.2 Complete triangle for the arbitrary dimension
+
+In this subsection,we consider complete triangles and finish the proof of second part in Theorem 1.2. If we choose triangle formed by $( u , \nu , w )$ pivoted at $w$ for $d = 1$ ,there is the similar angular integral definition
+
+$$
+\hat { p } _ { u , \nu , w } = P ( \triangle ( u , \nu , w ) | r _ { u } , r _ { \nu } , r _ { w } ) = \int _ { 0 } ^ { \pi } \int _ { 0 } ^ { \pi } p _ { u , w } p _ { \nu , w } p _ { u , \nu } \frac { 1 } { \pi } \frac { 1 } { \pi } d \theta _ { u , w } d \theta _ { \nu , w } ,
+$$
+
+where $\theta _ { u , \nu } = | \theta _ { u , w } - \theta _ { \nu , w } |$ or $\operatorname* { m i n } \{ \theta _ { u , w } + \theta _ { \nu , w } , 2 \pi - ( \theta _ { u , w } + \theta _ { \nu , w } ) \}$ (refer ro $\mathbf { A }$ in figure 3); for $d > 1$ , the angular integral
+
+$$
+\begin{array} { l } { \dot { \mathfrak { s } } _ { u , v , w } = P ( \triangle ( u , \nu , w ) = 1 | r _ { u } , r _ { v } , r _ { w } ) = \displaystyle \int _ { 0 } ^ { \pi } \int _ { 0 } ^ { \pi } \int _ { 0 } ^ { \pi } p _ { u , w } p _ { v , w } p _ { u , v } \rho _ { 1 } ( \theta _ { u , w } ) \rho _ { 1 } ( \theta _ { v , w } ) \rho _ { 2 } ( \theta _ { v , 2 } ) d \theta _ { u , w } d \theta _ { v , w } d \theta _ { v , 2 } } \end{array}
+$$
+
+where
+
+$$
+\rho _ { 1 } ( \theta _ { 1 } ) = \sin ^ { d - 1 } \theta _ { 1 } / I _ { d , 1 } , \rho _ { 2 } ( \theta _ { 2 } ) = \sin ^ { d - 2 } \theta _ { 2 } / I _ { d , 2 }
+$$
+
+and $\theta _ { \nu , 2 }$ is the angle between uw-plane and $\nu w$ -plane (refer to $\mathbf { B }$ in figure 3). It is obviously $\hat { p } _ { u , \nu , w } \leqslant$ $\hat { p } _ { u , w } \hat { p } _ { \nu , w }$ . The probability of the event $\triangle ( u , \nu , w )$ is
+
+$$
+P ( \triangle ( u , \nu , w ) ) = \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u , \nu , w } \rho ( r _ { u } ) \rho ( r _ { \nu } ) \rho ( r _ { w } ) d r _ { u } d r _ { \nu } d r _ { w } .
+$$
+
+If $r _ { w } > \omega ( N )$ , there is
+
+$$
+\begin{array} { r c l } { P ( \triangle ( u , v , w ) | r _ { w } > \omega ( N ) ) } & { = } & { \displaystyle \int _ { \omega ( N ) } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { n , v , v } \rho ( r _ { u } ) \rho ( r _ { v } ) \rho ( r _ { v } ) d r _ { u } d r _ { v } d r _ { v } } \\ & { \leqslant } & { \displaystyle \int _ { \omega ( N ) } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { n , w } \hat { p } _ { v , w } \rho ( r _ { u } ) \rho ( r _ { v } ) \rho ( r _ { v } ) d r _ { u } d r _ { v } d r _ { v } } \\ & { = } & { \displaystyle \int _ { \omega ( N ) } ^ { R } \rho ( r _ { v } ) \int _ { 0 } ^ { R } \hat { p } _ { n , w } \rho ( r _ { u } ) d r _ { u } \int _ { 0 } ^ { R } \rho ( r _ { v } ) \hat { p } _ { v , v } d r _ { v } d r _ { v } } \\ & { = } & { \displaystyle \int _ { \omega ( N ) } ^ { R } \left( e ^ { - 4 \sigma _ { W } } \right) \rho ( r _ { v } ) d r _ { v } } \\ & { = } & { \displaystyle \Theta \left( \int _ { \omega ( N ) } ^ { \partial u } e ^ { - 4 \sigma _ { W } } \right) \rho ( r _ { w } - \mathbf { \sigma } \mathbf { \bar { \Phi } } ^ { \ast } d r _ { v } - \mathbf { \sigma } \mathbf { \bar { \Phi } } ^ { \ast } d r _ { w } ) } \\ & { = } & { \displaystyle \sigma \left( P ( \mathfrak { A } ( u , v , w ) ) \right) . } \end{array}
+$$
+
+In the following, we consider $P ( \triangle ( u , \nu , w ) | r _ { w } \leqslant \omega ( N ) )$ . We start from the range $\begin{array} { r } { r _ { w } \leqslant \omega ( N ) , r _ { u } , r _ { \nu } \leqslant \frac { R } { 2 } } \end{array}$ and there is $\hat { p } _ { u , \nu , w } = \Theta ( 1 )$ since $p _ { u , w } , p _ { \nu , w } , p _ { u , \nu }$ are $\Theta ( 1 )$ ,s0
+
+$$
+\begin{array} { r l } & { P ( \triangle ( u , v , w ) | r _ { w } \lesssim \omega ( N ) , r _ { w } , r _ { v } \lesssim \frac { R } { 2 } ) } \\ { = } & { \int _ { 0 } ^ { \omega ( N ) } \int _ { 0 } ^ { \frac { \bar { \Omega } ( v ) } { 2 } } \int _ { 0 } ^ { \frac { \bar { \Omega } } { 2 } } \int _ { u _ { v } \omega r } \rho ( r _ { v } ) \rho ( r _ { v } ) \rho ( r _ { v } ) d r _ { v } d r _ { v } d r _ { v } } \\ { = } & { \int _ { 0 } ^ { \omega ( N ) } \int _ { 0 } ^ { \frac { \bar { \Omega } ( v ) } { 2 } } \int _ { 0 } ^ { \frac { \bar { \Omega } } { 2 } } \Theta ( \langle 1 \rangle \rho ( r _ { v } ) \rho ( r _ { v } ) \rho ( r _ { v } ) d r _ { v } d r _ { v } d r _ { v } } \\ { = } & { \Theta \left( \int _ { 0 } ^ { \omega ( N ) } \int _ { 0 } ^ { \frac { \bar { \Omega } } { 2 } } \rho ( r _ { v } ) d r _ { n } \int _ { 0 } ^ { \frac { \bar { \Omega } } { 2 } } \rho ( r _ { v } ) d r _ { v } \rho ( r _ { v } ) d r _ { v } \right) } \\ { = } & { \Theta \left( \int _ { 0 } ^ { \omega ( N ) } e ^ { - 2 v \bar { \alpha } \bar { \nu } _ { v } } \rho ( r _ { v } ) d r _ { v } \right) } \\ { = } & { \Theta \left( e ^ { - 4 v \bar { \alpha } \bar { \nu } _ { v } } e ^ { 2 \varpi \bar { \omega } ( N ) } \right) , } \end{array}
+$$
+
+on theotherhand,we have
+
+$$
+\begin{array} { r l } & { P ( \triangle ( u , v , w ) | r _ { w } \leqslant \omega ( N ) , \frac { R } { 2 } \leqslant r _ { w } \leqslant R , r _ { v } \leqslant \frac { R } { 2 } ) } \\ { = } & { \int _ { 0 } ^ { \omega ( N ) } \int _ { \frac { R } { 2 } } ^ { R } \int _ { 0 } ^ { \frac { R } { 2 } } \hat { \rho } _ { n , v , \varphi } ( r _ { w } ) \rho ( r _ { w } ) \rho ( r _ { w } ) d r _ { n } d r _ { n } d r _ { n } } \\ { \leqslant } & { \int _ { 0 } ^ { \omega ( N ) } \int _ { \frac { R } { 2 } } ^ { R } \int _ { 0 } ^ { \frac { R } { 2 } } \rho ( r _ { v } ) \rho ( r _ { w } ) \rho ( r _ { w } ) d r _ { n } d r _ { n } d r _ { n } } \\ { = } & { \int _ { 0 } ^ { \omega ( N ) } \int _ { \frac { R } { 2 } } ^ { R } \rho ( r _ { n } ) d r _ { n } \int _ { 0 } ^ { \frac { R } { 2 } } \rho ( r _ { v } ) d r _ { v } \rho ( r _ { n } ) d r _ { w } } \\ { \leqslant } & { \int _ { 0 } ^ { \omega ( N ) } e ^ { - \alpha \widetilde { \nu } q _ { n } } \rho ( r _ { w } ) d r _ { w } } \\ { \leqslant } & { e ^ { - 3 \alpha \widetilde { \nu } q _ { n } \varrho _ { v } 2 \varpi ( \omega _ { 1 } ( N ) ) } , } \end{array}
+$$
+
+and
+
+$$
+P ( \triangle ( u , \nu , w ) | r _ { w } \leqslant \omega ( N ) , \frac { R } { 2 } \leqslant r _ { \nu } \leqslant R , r _ { u } \leqslant \frac { R } { 2 } ) \leqslant e ^ { - 3 \sigma \mathcal { R } _ { H } } e ^ { 2 \sigma \omega _ { 1 } ( N ) } ,
+$$
+
+and for the triangle at the below situation,we choose to the triangle pivoting at $\nu$
+
+$$
+\begin{array} { r l } &  \begin{array} { r l } & { D ( \Delta ( \Delta ( \xi , \eta , \psi , \psi , \psi ) ) _ { \Gamma _ { 3 } } , \psi _ { 5 } \leq \omega ; N , \frac { \eta } { 2 } \leq \xi \leq \theta , \eta \leq \theta , } \\ { = } &  \begin{array} { r l } { \int _ { 0 } ^ { \infty } \sqrt { \pi } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { \epsilon } } ^ { \infty } \ f _ { \epsilon , \phi \epsilon , \phi } ( \psi ) ( \hat { \psi } _ { \epsilon } ) \hat { \psi } ( \cdot ) d \eta + d \theta d \theta d \theta d \phi _ { \Gamma _ { 3 } } } \\ { = } & { \begin{array} { r l } { \int _ { 0 } ^ { \infty } \sqrt { \pi } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { \epsilon } } ^ { \infty } \ f _ { \epsilon , \phi \epsilon , \phi } ( \psi ) ( \hat { \psi } _ { \epsilon } ) \hat { \psi } ( \cdot ) d \eta + d \theta d \theta d \phi _ { \Gamma _ { 3 } } } \\ { = } & { \int _ { 0 } ^ { \infty } \sqrt { \pi } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { \epsilon } } ^ { \infty } \ f _ { \epsilon , \phi \epsilon , \phi } ( \psi ) ( \hat { \psi } _ { \epsilon } ) \hat { \psi } ( \cdot ) d \eta + d \theta d \theta d \phi _ { \Gamma _ { 3 } } } \end{array} } \\ { \overset { \mathrm { t r o s s u p . } } { \lesssim } } &  \begin{array} { r l } { \int _ { 0 } ^ { \infty } \sqrt { \pi } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { 3 } } ^ { \infty } \ f _ { \epsilon , \phi \epsilon , \phi } ( \psi ) ( \hat { \psi } _ { \epsilon } ) \hat { \psi } ( \cdot ) d \eta + d \theta d \theta d \phi _ { \Gamma _ { 3 } } } \\ { \leq } & { \begin{array} { r l } { \int _ { 0 } ^ { \infty } \sqrt { \pi } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { 3 } } ^ { \infty } \hat { \psi } ( \hat { \psi } _ { \epsilon } ) d \eta + d \theta d \theta d \phi _ { \Gamma _ { 3 } } } \end{array} } \\ { \lesssim } &  \begin{array} { r l } { \int _ { 0 } ^ { \infty } \sqrt { \pi } \int _ { \xi _ { 3 } } ^ { \infty } \int _ { \xi _ { 3 } } ^ { \infty } \hat { \psi } ( \hat { \psi } _ { \epsilon } ) d \eta + d \theta d \phi _ { \Gamma _ { 3 } } } \\ { \leq } &  \begin{array} { r l }  \end{array} \end{array} \end{array} \end{array} \end{array} \end{array}
+$$
+
+Together (4.4),(4.5),(4.6),and (4.7),we have
+
+$$
+P ( \triangle ( u , \nu , w ) | r _ { w } \leqslant \pmb { \omega } ( N ) ) = o \left( P ( \Lambda ( u , \nu ; w ) ) \right) .
+$$
+
+Hence from (4.3) and (4.8),we have the order estimation(1.13) in Theorem 1.2,
+
+$$
+P ( \triangle ( u , \nu , w ) ) = o ( P ( \Lambda ( u , \nu ; w ) ) ) , E ( T ) = o ( E ( \Lambda ) ) .
+$$
+
+Next, we will give the lower bound estimation for $P ( \triangle ( u , \nu , w ) ) \gtrsim e ^ { - 3 \sigma \mathcal { R } _ { H } }$ , which will deduce the lower bound estimation(1.13) in Theorem 1.2,
+
+$$
+E ( T ) = { \binom { N } { 3 } } P ( \triangle ( u , \nu , w ) ) \gtrsim { \binom { N } { 3 } } e ^ { - 3 \sigma \mathcal { R } _ { H } } .
+$$
+
+From the similar process of (4.4),we get
+
+$$
+\begin{array} { r c l } { P ( \triangle ( u , \nu , w ) | r _ { w } , r _ { u } , r _ { \nu } \leqslant \displaystyle \frac { R } { 2 } ) } & { = } & { \displaystyle \int _ { 0 } ^ { \frac { R } { 2 } } \int _ { 0 } ^ { \frac { R } { 2 } } \int _ { 0 } ^ { \frac { R } { 2 } } \hat { p } _ { u , \nu , w } \rho ( r _ { u } ) \rho ( r _ { \nu } ) \rho ( r _ { w } ) d r _ { u } d r _ { \nu } d r _ { w } } \\ & { = } & { \displaystyle \int _ { 0 } ^ { \frac { R } { 2 } } \int _ { 0 } ^ { \frac { R } { 2 } } \int _ { 0 } ^ { \frac { R } { 2 } } \Theta ( 1 ) \rho ( r _ { \nu } ) \rho ( r _ { u } ) \rho ( r _ { w } ) d r _ { u } d r _ { \nu } d r _ { w } } \\ & { = } & { \Theta \left( e ^ { - 3 \sigma \mathcal { R } _ { H } } \right) , } \end{array}
+$$
+
+on the other hand,we consider
+
+$$
+\begin{array} { r l } &  \begin{array} { r l } & { t ^ { \prime } \geq \delta ( k + \ell ) x _ { 1 } ^ { 0 } } \\ { = } & { \begin{array} { r l } { \rho _ { 1 } ^ { \ell } \geq \sigma _ { 1 } \leq \rho _ { 1 } , } \\ { \rho _ { 1 } ^ { \ell } \leq \sigma _ { 1 } \leq \rho _ { 1 } , } \end{array} } \\ & { = \begin{array} { r l } { \int _ { k } ^ { 1 } \int _ { k } ^ { 1 } \frac { 1 } { k } \hat { \rho } _ { k - \ell } ( x _ { 2 } ) \leq \rho _ { 1 } , } \\ { = } & { \int _ { k } ^ { 1 } \int _ { k } ^ { 1 } \hat { \rho } _ { k } \leq \rho _ { 1 } , } \end{array} } \\ & { = \begin{array} { r l } { \delta ( \int _ { k } ^ { 1 } \frac { 1 } { k } \hat { \rho } _ { k - \ell } ( x _ { 2 } ) \leq \rho _ { 1 } , \rho _ { 1 } \leq \rho _ { 1 } , \rho _ { 1 } \leq \rho _ { 1 } , \rho _ { 1 } \leq \rho _ { 1 } , \rho _ { 1 } \leq \rho _ { 1 } ) } \\ { = } & { \rho _ { 1 } ^ { \ell } \geq \sigma _ { 1 } \leq \rho _ { 1 } , } \end{array} } \\ &  = \begin{array} { r l } { \theta ( \int _ { k } ^ { 1 } [ \int _ { k } ^ { 1 } \delta _ { k } \ e ^ { - \theta _ { 1 } } \delta ( x _ { 2 } ) \delta [ \frac { 1 } { k } ] _ { k } ^ { 2 } \delta _ { k } \rho _ { k - \ell } ( x _ { 2 } ) \delta [ \frac { 1 } { k } ] _ { k } ^ { 2 } ] _ { k } ^ { 2 } ) \leq \theta ( \int _ { k } ^ { 1 } \delta _ { k } \rho _ { k - \ell } ( x _ { 2 } ) \delta [ \frac { 1 } { k } ] _ { k } ^ { 2 } ) \qquad \quad \mathrm { ~ f o r ~ a l l s ~ } \quad \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \leq \rho _ { 1 } \end{array} } \\ &  = \begin{array} { r l }  \theta ( \int _ { k } ^ { 1 } [ \int _ { k } ^ { 1 } [ \int _ { k } ^ { 1 } \hat { \rho } ( x _ { 2 } ) \delta \rho _ { 1 } ( x _ { 2 } ) \delta \rho _ { 1 } + \int _ { k } ^ { 1 } \eta _ { k } \ e ^  - \theta _ { 1 } ( x _ { 2 } ) \delta \end{array} \end{array} \end{array}
+$$
+
+where third equality from last (4.11) involved the below details:
+
+$$
+\int _ { 0 } ^ { R - r _ { w } } \Theta ( 1 ) \rho ( r _ { u } ) d r _ { u } = \Theta \left( \int _ { 0 } ^ { \mathcal { R } _ { H } - \eta _ { w } } \frac { ( e ^ { \frac { 2 \sigma } { d } \eta _ { u } } - e ^ { - \frac { 2 \sigma } { d } \eta _ { u } } ) ^ { d } } { e ^ { 2 \sigma \mathcal { R } _ { H } } } d \eta _ { u } \right) = \Theta \left( e ^ { - 2 \sigma \eta _ { w } } f ( \eta _ { w } ) \right)
+$$
+
+where $\begin{array} { r } { f ( \eta _ { w } ) = e ^ { - 2 \sigma ( \mathcal { R } _ { H } - \eta _ { w } ) } \int _ { 0 } ^ { \mathcal { R } _ { H } - \eta _ { w } } ( e ^ { \frac { 2 \sigma } { d } \eta } - e ^ { - \frac { 2 \sigma } { d } \eta } ) ^ { d } d \eta _ { u } } \end{array}$ and
+
+$$
+\int _ { R - r _ { w } } ^ { \frac { R } { 2 } } \Theta ( e ^ { - ( \eta _ { w } + \eta _ { u } - \mathcal { R } _ { H } ) } ) \rho ( r _ { u } ) d r _ { u } = \Theta \left( \int _ { \mathcal { R } _ { H } - \eta _ { w } } ^ { \frac { \mathcal { R } _ { H } } { 2 } } e ^ { - ( \eta _ { w } + \eta _ { u } - \mathcal { R } _ { H } ) } \frac { ( e ^ { \frac { 2 \sigma } { d } \eta _ { u } } - e ^ { - \frac { 2 \sigma } { d } \eta _ { u } } ) ^ { d } } { e ^ { 2 \sigma \mathcal { R } _ { H } } } d \eta _ { u } \right) = \Theta \left( e ^ { - 2 \sigma \eta _ { w } } \frac { ( e ^ { - \frac { 2 \sigma } { d } \eta _ { w } } - e ^ { - \frac { 2 \sigma } { d } \eta _ { u } } ) ^ { d } } { e ^ { 2 \sigma \mathcal { R } _ { H } } } d \eta _ { u } \right) .
+$$
+
+where $g ( \eta _ { w } ) = e ^ { ( 1 - 2 \sigma ) ( \mathcal { R } _ { H } - \eta _ { w } ) } \int _ { \mathcal { R } _ { H } - \eta _ { w } } ^ { \mathcal { R } _ { H } } e ^ { - \eta _ { u } } ( e ^ { \frac { 2 \sigma } { d } \eta _ { u } } - e ^ { - \frac { 2 \sigma } { d } \eta _ { u } } ) ^ { d } d \eta _ { u }$ (d we can get $f ( \eta _ { w } ) + g ( \eta _ { w } )$ is initially increasing then decreasing when $\eta _ { w }$ varies from $\frac { \mathcal { R } _ { H } } { 2 }$ to $\mathcal { R } _ { H }$ ,so we have $\begin{array} { r } { f ( \eta _ { w } ) + g ( \eta _ { w } ) \geqslant \operatorname* { m i n } \{ f ( \frac { \mathcal { R } _ { H } } { 2 } ) , g ( \mathcal { R } _ { H } ) \} \geqslant c _ { 0 } ( d , \sigma ) } \end{array}$ ，where the constant $c _ { 0 } ( d , \sigma )$ is only depending on $\sigma , d$ for enough large $N$ ,on the other hand,the upper bound of $f ( \eta _ { w } ) + g ( \eta _ { w } )$ is obvious,so we have
+
+$$
+\begin{array} { r } { \int _ { 0 } ^ { R - r _ { w } } \Theta ( 1 ) \rho ( r _ { u } ) d r _ { u } + \int _ { R - r _ { w } } ^ { \frac { R } { 2 } } \Theta ( e ^ { - ( \eta _ { w } + \eta _ { u } - \mathcal { R } _ { H } ) } ) \rho ( r _ { u } ) d r _ { u } = \Theta ( e ^ { - 2 \sigma \eta _ { w } } ) . } \end{array}
+$$
+
+Combining (4.1O) and(4.12),we have
+
+$$
+\int _ { 0 } ^ { R } \int _ { 0 } ^ { \frac { R } { 2 } } \int _ { 0 } ^ { \frac { R } { 2 } } \hat { p } _ { u , \nu , w } \rho ( r _ { u } ) \rho ( r _ { \nu } ) \rho ( r _ { w } ) d r _ { u } d r _ { \nu } d r _ { w } = \Theta \left( e ^ { - 3 \sigma \mathcal { R } _ { H } } \right) ,
+$$
+
+hence $P ( \triangle ( u , \nu , w ) ) \gtrsim e ^ { - 3 \sigma \mathcal { R } _ { H } }$ . Question: $P ( \triangle ( u , \nu , w ) ) = \Theta \left( e ^ { - 3 \sigma \mathcal { R } _ { H } } \right) ?$
+
+![](images/efd67f99baf1d8c0e8a391d4e74cc4b9a6433a1de54fdcf125be1b599036d844.jpg)  
+FIG.4.Two Complete Triangles
+
+# 5.Variance estimation of incomplete and complete triangles
+
+We first estimate $E ( T ^ { 2 } )$ and $E ( \Lambda ^ { 2 } )$ . We need to set out the specific expression $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$
+
+# 5.1 Estimation of $E ( T ^ { 2 } )$
+
+LEMMA 5.1 $E ( T ^ { 2 } ) = ( 1 + o ( 1 ) ) E ^ { 2 } ( T )$
+
+We mark two complete triangle events $\triangle ( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } ) , \triangle ( u _ { 2 } , \nu _ { 2 } ; w _ { 2 } )$ formed by two groups of vertexes $u _ { 1 } , \nu _ { 1 } , w _ { 1 }$ and $u _ { 2 } , \nu _ { 2 } , w _ { 2 }$ respectively.First we have
+
+$$
+E ( T ^ { 2 } ) = E \left[ \left( \sum _ { ( u , v , w ) } \mathbf { 1 } _ { \{ \triangle ( u , v , w ) \} } \right) ^ { 2 } \right] = E ( T ) + \sum _ { ( u _ { 1 } , v _ { 1 } ; w _ { 1 } ) \ne ( u _ { 2 } , v _ { 2 } ; w _ { 2 } ) } E ( \mathbf { 1 } _ { \{ \triangle ( u _ { 1 } , v _ { 1 } ; w _ { 1 } ) \} } \mathbf { 1 } _ { \{ \triangle ( u _ { 2 } , v _ { 2 } ; w _ { 2 } ) \} } ) ,
+$$
+
+for second part events,there are the below three cases (figure 4).
+
+1. $\left\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \right\} \cap \left\{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \right\} = \emptyset .$ （204号   
+2. $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \} , \{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \}$ have only one common vertex.   
+3. $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \} , \{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \}$ have exactly two common vertexes,i.e., they share a same edge.
+
+We denote the event by $T _ { i }$ corresponding i-th case, $i = { 1 , 2 , 3 }$ =   
+For Case 1 (refer to Ain figure 4), there are $\binom { N } { 3 }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 3 }$ possible   
+choice for $\left\{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \right\}$ . So
+
+$$
+E ( T _ { 1 } ) = { \binom { N } { 3 } } { \binom { N - 3 } { 3 } } P ( \triangle ( u _ { 1 } , \nu _ { 1 } , w _ { 1 } ) ) P ( \triangle ( u _ { 2 } , \nu _ { 2 } , w _ { 2 } ) ) = ( 1 + o ( 1 ) ) E ^ { 2 } ( T ) .
+$$
+
+For Case 2 (refer to $\mathbf { B }$ in figure 4), there are $\binom { N } { 3 }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and if $w _ { 1 }$ is common vertex, there leave $\binom { N - 3 } { 2 }$ possible choice for $\left\{ u _ { 2 } , \nu _ { 2 } \right\}$ ：
+
+$$
+\begin{array} { r l } & { P ( \triangle ( u _ { 1 } , \nu _ { 1 } , w _ { 1 } ) , \triangle ( u _ { 2 } , \nu _ { 2 } , w _ { 1 } ) ) } \\ { = } & { \displaystyle \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , \nu _ { 1 } , w _ { 1 } } \hat { p } _ { u _ { 2 } , \nu _ { 2 } , w _ { 1 } } \rho ( r _ { u _ { 1 } } ) \rho ( r _ { \nu _ { 1 } } ) \rho ( r _ { u _ { 2 } } ) \rho ( r _ { \nu _ { 2 } } ) \rho ( r _ { w _ { 1 } } ) d r _ { u _ { 1 } } d r _ { \nu _ { 1 } } d r _ { u _ { 2 } } d r _ { \nu _ { 2 } } d r _ { w _ { 1 } } } \\ { \leqslant } & { \displaystyle \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , \nu _ { 1 } } \hat { p } _ { \nu _ { 1 } , w _ { 1 } } \hat { p } _ { w _ { 1 } , u _ { 2 } } \hat { p } _ { u _ { 2 } , \nu _ { 2 } } \rho ( r _ { u _ { 1 } } ) \rho ( r _ { \nu _ { 1 } } ) \rho ( r _ { w _ { 1 } } ) \rho ( r _ { u _ { 2 } } ) \rho ( r _ { \nu _ { 2 } } ) d r _ { u _ { 1 } } d r _ { \nu _ { 1 } } d r _ { w _ { 1 } } d r _ { w _ { 1 } } d r _ { u _ { 2 } } d r _ { \nu _ { 2 } } } \\ { \leqslant } & { O ( \mathcal { R } _ { H } ^ { 2 } ) e ^ { - 4 \sigma \mathcal { R } _ { H } } , } \end{array}
+$$
+
+so considering the lower bound of $E ( T )$ in (4.9),we have
+
+$$
+\begin{array} { r c l } { E ( T _ { 2 } ) } & { = } & { 3 \binom { N } { 3 } \binom { N - 3 } { 2 } P ( \bigtriangleup ( u _ { 1 } , \nu _ { 1 } , w _ { 1 } ) , \bigtriangleup ( u _ { 2 } , \nu _ { 2 } , w _ { 1 } ) ) } \\ & { \leqslant } & { 3 \binom { N } { 3 } \binom { N - 3 } { 2 } O ( \mathcal { R } _ { H } ^ { 2 } ) e ^ { - 4 \sigma \mathcal { R } _ { H } } } \\ & { = } & { o \left( \binom { N } { 3 } ^ { 2 } e ^ { - 6 \sigma \mathcal { R } _ { H } } \right) } \\ & { = } & { o ( E ^ { 2 } ( T ) ) . } \end{array}
+$$
+
+For Case 3 (refer to $\mathbf { C }$ in figure 4), there are $\binom { N } { 3 }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ ,if $\nu _ { 1 } , w _ { 1 }$ are common vertexes, there leave $\binom { N - 3 } { 1 }$ possible choice for $u _ { 2 }$
+
+$$
+\begin{array} { r l } & { P ( \triangle ( u _ { 1 } , \nu _ { 1 } , w _ { 1 } ) , \triangle ( u _ { 2 } , \nu _ { 1 } , w _ { 1 } ) ) } \\ { \leqslant } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , \nu _ { 1 } } \hat { p } _ { \nu _ { 1 } , u _ { 2 } } \hat { p } _ { u _ { 2 } , w _ { 1 } } \rho ( r _ { u _ { 1 } } ) \rho ( r _ { \nu _ { 1 } } ) \rho ( r _ { \nu _ { 2 } } ) \rho ( r _ { w _ { 1 } } ) d r _ { u _ { 1 } } d r _ { \nu _ { 1 } } d r _ { \nu _ { 2 } } d r _ { w _ { 1 } } } \\ { \leqslant } & { O ( \mathcal { R } _ { H } ^ { 2 } ) e ^ { - 4 \sigma \mathcal { R } _ { H } } , } \end{array}
+$$
+
+SO
+
+$$
+\begin{array} { r c l } { E ( T _ { 3 } ) } & { = } & { 3 \binom { N } { 3 } \binom { N - 3 } { 1 } P ( \triangle ( u _ { 1 } , \nu _ { 1 } , w _ { 1 } ) , \triangle ( u _ { 2 } , \nu _ { 1 } , w _ { 1 } ) ) } \\ & { \leqslant } & { 3 \binom { N } { 3 } \binom { N - 3 } { 1 } O ( \mathcal { R } _ { H } ^ { 2 } ) e ^ { - 4 \sigma \mathcal { R } _ { H } } } \\ & { = } & { o ( E ^ { 2 } ( T ) ) . } \end{array}
+$$
+
+Combining all cases,we get lemma 5.1.
+
+# 5.2 Estimation of $E ( \Lambda ^ { 2 } )$
+
+LEMMA 5.2 $E ( \Lambda ^ { 2 } ) = ( 1 + o ( 1 ) ) E ^ { 2 } ( \Lambda )$ （24
+
+Similar, we have
+
+$$
+E ( \boldsymbol { \Lambda } ^ { 2 } ) = E \left[ \left( \sum _ { ( u , v ; w ) } \mathbf { 1 } _ { \{ \boldsymbol { \Lambda } ( u , v ; w ) \} } \right) ^ { 2 } \right] = E ( \boldsymbol { \Lambda } ) + \sum _ { ( u _ { 1 } , v _ { 1 } ; w _ { 1 } ) \neq ( u _ { 2 } , v _ { 2 } ; w _ { 2 } ) } E ( \mathbf { 1 } _ { \{ \boldsymbol { \Lambda } ( u _ { 1 } , v _ { 1 } ; w _ { 1 } ) \} } \mathbf { 1 } _ { \{ \boldsymbol { \Lambda } ( u _ { 2 } , v _ { 2 } ; w _ { 2 } ) \} } ) .
+$$
+
+We may classify second part events into the following eight cases (figure 5).
+
+1. $\left\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \right\} \cap \left\{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \right\} = 0$ The following case is that $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \} , \{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \}$ have only one common vertex:
+
+2. $w _ { 1 } = w _ { 2 } , \{ u _ { 1 } , \nu _ { 1 } \} \cap \{ u _ { 2 } , \nu _ { 2 } \} = 0 .$   
+3. $u _ { 1 } = u _ { 2 } , \{ \nu _ { 1 } , w _ { 1 } \} \cap \{ \nu _ { 2 } , w _ { 2 } \} = 0 .$
+
+![](images/05fa6c1e45ef134f77533338e458c126261a323a7da7409a880ba6e67f7d4790.jpg)  
+FIG.5.Two Incomplete Triangles
+
+4. $u _ { 1 } = w _ { 2 } , \{ \nu _ { 1 } , w _ { 1 } \} \cap \{ u _ { 2 } , \nu _ { 2 } \} = \emptyset$ The below case that $\left\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \right\}$ ， $\{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \}$ have exactly two common vertexes:
+
+5. $u _ { 1 } = u _ { 2 } , \nu _ { 1 } = \nu _ { 2 } , w _ { 1 } \neq w _ { 2 }$
+
+6. $u _ { 1 } = w _ { 2 } , \nu _ { 1 } = \nu _ { 2 } , w _ { 1 } \neq u _ { 2 }$ 号
+
+7. $u _ { 1 } = u _ { 2 } , w _ { 1 } = w _ { 2 } , \nu _ { 1 } \neq \nu _ { 2 }$
+
+8. $u _ { 1 } = w _ { 2 } , w _ { 1 } = u _ { 2 } , \nu _ { 1 } \neq \nu _ { 2 } .$
+
+We denote the event by $\varLambda _ { i }$ corresponding i-th case, $i = 1 , 2 , \cdots , 8$   
+For case 1 (refer to I in figure 5), there are $3 { \binom { N } { 3 } }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $3 \binom { N - 3 } { 3 }$ （20   
+possible choice for $\left\{ u _ { 2 } , \nu _ { 2 } , w _ { 2 } \right\}$ ，s0
+
+$$
+E ( \Lambda _ { 1 } ) = 9 { \binom { N } { 3 } } { \binom { N - 3 } { 3 } } P ( \Lambda \left( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } \right) ) P ( \Lambda \left( u _ { 2 } , \nu _ { 2 } ; w _ { 2 } \right) ) = ( 1 + o ( 1 ) ) E ^ { 2 } ( \Lambda ) .
+$$
+
+For case 2 (refer to $\mathrm { I I }$ in figure 5), there are $3 { \binom { N } { 3 } }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 2 }$ possible
+
+choice for $\left\{ u _ { 2 } , \nu _ { 2 } \right\}$ ，so
+
+$$
+\begin{array} { r l } & { P ( A ( u _ { 1 } , \nu _ { 1 } ; \nu _ { 1 } ) , A ( u _ { 2 } , \nu _ { 2 } ; w _ { 1 } ) ) } \\ { = } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , w _ { 1 } } \hat { p } _ { u _ { 2 } , w _ { 1 } } \hat { p } _ { t _ { 2 } , w _ { 1 } } \hat { p } _ { t _ { 2 } , w _ { 1 } } \hat { p } ( r _ { u _ { 1 } } ) \rho ( r _ { u _ { 2 } } ) \rho ( r _ { u _ { 2 } } ) \rho ( r _ { v _ { 2 } } ) \rho ( r _ { v _ { 1 } } ) d r _ { u _ { 1 } } d r _ { v _ { 1 } } d r _ { v _ { 2 } } d r _ { v _ { 1 } } } \\ { = } & { \int _ { 0 } ^ { R } \left[ \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , w _ { 1 } } \rho ( r _ { u _ { 1 } } ) d r _ { u _ { 1 } } \int _ { 0 } ^ { R } \hat { p } _ { v _ { 1 } , w _ { 1 } } \rho ( r _ { v _ { 1 } } ) d r _ { v _ { 1 } } \int _ { 0 } ^ { R } \hat { p } _ { u _ { 2 } , w _ { 1 } } \rho ( r _ { u _ { 2 } } ) d r _ { u _ { 2 } } \int _ { 0 } ^ { R } \hat { p } _ { v _ { 2 } , w _ { 1 } } \rho ( r _ { v _ { 2 } } ) d r _ { v _ { 2 } } \right] \rho ( r _ { w _ { 1 } } ) d r } \\ { = } & { \int _ { 0 } ^ { R } \Theta \left( e ^ { - \delta \sigma \eta _ { v _ { 1 } } } \right) \rho ( r _ { v _ { 1 } } ) d r _ { v _ { 1 } } } \\ { = } & { \int _ { 0 } ^ { \delta \pi } \Theta \left( e ^ { - 8 \sigma \eta _ { v _ { 1 } } } \right) ( 1 + o ( 1 ) ) 2 \sigma \frac { \left( e ^ { \frac { 2 \sigma } { \sigma } \eta _ { v _ { 1 } } } - e ^ { - \frac { 2 \sigma } { \sigma } \eta _ { v _ { 1 } } } \right) ^ { d } } { e ^ { 2 \sigma \mathcal { R } } } d \eta _ { v _ { 1 } } } \\ { = } & { \Theta \left( e ^ { - 2 \sigma \mathcal { R } } \alpha \right) , } \end{array}
+$$
+
+and
+
+$$
+E ( \Lambda _ { 2 } ) = 3 { \binom { N } { 3 } } { \binom { N - 3 } { 2 } } \Theta \Big ( e ^ { - 2 \sigma \mathcal { R } _ { H } } \Big ) = o \big ( E ^ { 2 } ( \Lambda ) \big ) .
+$$
+
+For case 3 (refer to $\mathrm { I I I }$ in figure 5), there are $3 { \binom { N } { 3 } }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 2 }$ possible choice for $\left\{ \nu _ { 2 } , w _ { 2 } \right\}$ ， so there are totally $6 { \binom { N } { 3 } } { \binom { N - 3 } { 2 } }$ choices for such case.
+
+$$
+\begin{array} { r l } & { P _ { i } ( \Delta ( \mathbf { u } , x , \mathbf { i } \times \mathbf { j } \times \mathbf { u } ) \varDelta ( \mathbf { i } , x , y _ { \mathrm { t } } ; \mathbf { q } ) ) } \\ { = } &  \int _ { \Omega } ^ { \infty } \int _ { \Omega } ^ { \infty } \int _ { \Omega } ^ { \infty } \int _ { \Omega } ^ { \infty } \int _ { \Omega } ^ { \infty } \int _ { \mathbb { R } _ { \oplus } \cap \mathcal { R } _ { i } \cap \mathcal { R } _ { i } \cap \mathcal { R } _ { i } \cap \mathcal { R } _ { 2 } \cap \mathcal { R } _ { \oplus } \cap \mathcal { R } _ { \oplus } \cap \mathcal { R } _ { i } \cap \rho ( x _ { \mathrm { i } } ) \rho ( F _ { \mathrm { s } , \mathrm { i } } ) \rho ( F _ { \mathrm { s } , \mathrm { i } } ) \rho ( F _ { \mathrm { s } , \mathrm { i } } ) d x _ { \mathrm { t } } d x _ { \mathrm { t } } d x _ { \mathrm { t } } d x _ { \mathrm { t } } d x _ { \mathrm { t } } d x _ { \mathrm { t } } d y _ { \mathrm { s } , \mathrm { i } } d x _ { \mathrm { t } } } \\ { = } & { \int _ { \Omega } ^ { \infty } [ \int _ { \Omega } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _ { 0 } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _ { 0 } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _ { 0 } ^ { \infty } \rho _ { ( F _ { \mathrm { s } , \mathrm { i } } ) } \int _ { 0 } ^ { \infty } \rho _ { ( F _ { \mathrm { s } , \mathrm { i } } ) } \int _ { 0 } ^ { \infty } \langle F _ { \mathrm { s } , \mathrm { i } } \rangle d x _ { \mathrm { t } } ] \rho ( F _ { \mathrm { s } , \mathrm { i } } ) d x _ { \mathrm { t } } ] \rho ( F _ { \mathrm { s } , \mathrm { i } } ) d x _ { \mathrm { t } } ] \rho ( F _ { \mathrm { s } , \mathrm { i } } ) d x _ { \mathrm { t } } d x _ { \mathrm { t } } ] } \\ { = } &  \int _ { 0 } ^ { \infty } [ \int _ { 0 } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _ { 0 } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _ { 0 } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _ { 0 } ^ { \infty } \hat { F } _ { \mathrm { s } , \mathrm { i } \times \Omega } [ \int _  \end{array}
+$$
+
+where we use
+
+$$
+\int _ { 0 } ^ { R } \hat { p } _ { u , \nu } \Theta \left( e ^ { - 2 \sigma \eta _ { \nu } } \right) \rho ( r _ { \nu } ) d r _ { \nu } \leqslant O ( \mathcal { R } _ { H } ) e ^ { - 2 \sigma \mathcal { R } _ { H } } .
+$$
+
+So
+
+$$
+E ( \Lambda _ { 3 } ) = 6 { \binom { N } { 3 } } { \binom { N - 3 } { 2 } } O ( \mathcal { R } _ { H } ^ { 2 } ) e ^ { - 4 \sigma \mathcal { R } _ { H } } = o ( E ^ { 2 } ( \Lambda ) ) .
+$$
+
+For case 4 (refer to $\mathrm { I V }$ in figure 5), there are $3 { \binom { N } { 3 } }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 2 }$
+
+possible choice for $\left\{ u _ { 2 } , \nu _ { 2 } \right\}$ , so there are totally $6 { \binom { N } { 3 } } { \binom { N - 3 } { 2 } }$ choices for such case.
+
+$$
+\begin{array} { r l } & { P ( A ( u _ { 1 : \nu _ { 1 } ; \nu _ { 1 } } , \boldsymbol { w } _ { 1 } ) A \{ u _ { 2 } , \nu _ { 2 } ; u _ { 1 } \} ) } \\ { = } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , u _ { 1 } } \hat { p } _ { v _ { 1 } , u _ { 1 } } \hat { p } _ { u _ { 2 } , u _ { 1 } } \rho ( r _ { u _ { 1 } } ) \rho ( r _ { v _ { 1 } } ) \rho ( r _ { v _ { 2 } } ) \rho ( r _ { u _ { 2 } } ) d r _ { u _ { 1 } } d r _ { v _ { 1 } } d r _ { v _ { 2 } } d r _ { u _ { 2 } } } \\ { = } & { \int _ { 0 } ^ { R } \left[ \int _ { 0 } ^ { R } \hat { p } _ { v _ { 1 } , u _ { 1 } } \rho ( r _ { v _ { 1 } } ) d r _ { v _ { 1 } } \right] \left[ \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , w _ { 1 } } \left[ \int _ { 0 } ^ { R } \hat { p } _ { u _ { 2 } , u _ { 1 } } \rho ( r _ { u _ { 2 } } ) d r _ { u _ { 2 } } \right] \left[ \int _ { 0 } ^ { R } \hat { p } _ { v _ { 2 } , u _ { 1 } } \rho ( r _ { v _ { 2 } } ) d r _ { v _ { 2 } } \right] \rho ( r _ { u _ { 1 } } ) d r _ { u _ { 1 } } \right] } \\ { = } & { \int _ { 0 } ^ { R } \Theta ( e ^ { - 2 \sigma \eta _ { R _ { 1 } } } ) \left[ \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , w _ { 1 } } \Theta ( e ^ { - 2 \sigma \eta _ { R _ { 1 } } } ) \Theta ( e ^ { - 2 \sigma \eta _ { R _ { 1 } } } ) \rho ( r _ { u _ { 1 } } ) d r _ { u _ { 1 } } \right] \rho ( r _ { w _ { 1 } } ) d r _ { w _ { 1 } } } \\ { \leqslant } & { \int _ { 0 } ^ { R } \Theta ( e ^ { - 2 \sigma \eta _ { R _ { 1 } } } ) Q ( e ^ { - 2 \sigma \mathcal { R } _ { H } } ) \partial ( r _ { w _ { 1 } } ) d r _ { v _ { 1 } } } \\ { \leqslant } & { O ( \mathcal { M } _ { H } e ^ { - 4 \sigma \mathcal { R } _ { H } } ) } \end{array}
+$$
+
+where we use
+
+$$
+\int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , w _ { 1 } } \Theta ( e ^ { - 2 \sigma \eta _ { u _ { 1 } } } ) \Theta ( e ^ { - 2 \sigma \eta _ { u _ { 1 } } } ) \ d \rho ( r _ { u _ { 1 } } ) d r _ { u _ { 1 } } \leqslant O ( e ^ { - 2 \sigma \mathcal { R } _ { H } } ) .
+$$
+
+So we have
+
+$$
+E ( \Lambda _ { 4 } ) = 6 { \binom { N } { 3 } } { \binom { N - 3 } { 2 } } O ( \mathcal { R } _ { H } e ^ { - 4 \sigma \mathcal { R } _ { H } } ) = o \left( E ^ { 2 } ( \Lambda ) \right) .
+$$
+
+For case 5 (refer to $\mathrm { \Delta V }$ in figure 5), there are $3 \binom { N } { 3 }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 1 }$ possible choice for $w _ { 2 }$ , so there are totally $3 \binom { N } { 3 } \binom { N - 3 } { 1 }$ choices for such case.
+
+$$
+\begin{array} { r l } & { P ( \Lambda ( u _ { 1 } , v _ { 1 } , \ldots ) _ { n } | \mathcal { A } ( u _ { 1 } , v _ { 1 } ; v _ { 2 } ) ) } \\ { * } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { \infty } \int _ { 0 } ^ { R } \int _ { 0 } ^ { \infty } \hat { p } _ { 1 , v _ { 1 } | \mathcal { B } _ { t _ { 1 } , v _ { 1 } } } \hat { p } _ { i _ { 1 } , v _ { 2 } } ( P ( \boldsymbol { x } _ { 1 } ) , \rho ( \boldsymbol { r } _ { n _ { 1 } } ) \rho ( \boldsymbol { r } _ { n _ { 1 } } ) \rho ( \boldsymbol { r } _ { n _ { 2 } } ) d \boldsymbol { r } _ { n _ { 2 } } d \boldsymbol { r } _ { n _ { 1 } } d \boldsymbol { r } _ { n _ { 1 } } d \boldsymbol { r } _ { n _ { 1 } } } \\ { = } & { \int _ { 0 } ^ { R } [ \int _ { 0 } ^ { R } \hat { p } _ { 1 } ^ { \mathcal { B } _ { 1 } } , \dots [ \int _ { 0 } ^ { R } \hat { p } _ { 1 } , \dots , [ \int _ { 0 } ^ { R } \hat { p } _ { 1 , v _ { 1 } } d ( \int _ { 0 } ^ { R } \hat { p } _ { 1 , v _ { 2 } } \hat { p } ( \boldsymbol { r } _ { n _ { 2 } } ) d \boldsymbol { r } _ { n _ { 2 } } ] d \boldsymbol { r } _ { n _ { 1 } } ] \rho ( \boldsymbol { r } _ { n _ { 1 } } ) d \boldsymbol { r } _ { n _ { 1 } } ] \rho ( \boldsymbol { r } _ { n _ { 1 } } ) d \boldsymbol { r } _ { n _ { 1 } } ] } \\ { = } & { \int _ { 0 } ^ { R } [ \int _ { 0 } ^ { R } \hat { p } _ { 1 } ^ { \mathcal { B } _ { 1 } } , \dots [ \int _ { 0 } ^ { R } \hat { p } _ { 1 , v _ { 1 } } d ( e ^ { - 2 \sigma _ { n _ { 1 } } } \rho ( \boldsymbol { r } _ { n _ { 1 } } ) \rho ( \boldsymbol { r } _ { n _ { 1 } } ) d \boldsymbol { r } _ { n _ { 1 } } ] \rho ( \boldsymbol { r } _ { n _ { 1 } } ) d \boldsymbol { r } _ { n _ { 1 } } ] \rho ( \boldsymbol { r } _ { n _ { 1 } } ) d \boldsymbol { r } _ { n _ { 1 } } } \\ { * } &  \int _ { 0 } ^ { R } [ \int _ { 0 } ^ { R } \hat { p } _ { 1 , v _ { 1 } , \infty } \partial ( \mathcal { B } _ { H } e ^ { - 2 \sigma _ { n _ { 1 } } } ) \rho ( \boldsymbol { r } _ { n _ { 1 } } ) d \boldsymbol { r } _  n _   \end{array}
+$$
+
+So we have
+
+$$
+E ( A _ { 5 } ) = 3 { \binom { N } { 3 } } { \binom { N - 3 } { 1 } } P ( A ( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } ) \Lambda ( u _ { 1 } , \nu _ { 1 } ; w _ { 2 } ) ) \leqslant 3 { \binom { N } { 3 } } { \binom { N - 3 } { 1 } } O ( \mathcal { R } _ { H } ^ { 2 } e ^ { - 4 \sigma \mathcal { R } _ { H } } ) = o \left( E ^ { 2 } ( A ) \right) .
+$$
+
+For case 6 (refer to VI in figure 5),there are $3 { \binom { N } { 3 } }$ possible choice for $\left\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \right\}$ and leave $\binom { N - 3 } { 1 }$ possible choice for $w _ { 2 }$ ， so there are totally $3 \binom { N } { 3 } \binom { N - 3 } { 1 }$ choices for such case.
+
+$$
+( A ( u _ { 1 } , v _ { 1 } ; w _ { 1 } ) A ( u _ { 2 } , v _ { 1 } ; u _ { 1 } ) ) \leqslant \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { v _ { 1 } , v _ { 1 } } \hat { p } _ { v _ { 1 } , u _ { 1 } } \hat { p } _ { u _ { 1 } , u _ { 2 } } \rho ( r _ { n _ { 1 } } ) \rho ( r _ { v _ { 1 } } ) \rho ( r _ { v _ { 1 } } ) \rho ( r _ { u _ { 2 } } ) d r _ { u _ { 2 } } d r _ { u _ { 1 } } d r _ { v _ { 1 } } d r _ { v _ { 1 } } \leqslant O ( \mathcal { R } _ { H } ^ { 2 } e ^ { - 4 \sigma \mathcal { R } _ { H } } )
+$$
+
+So we have
+
+$$
+E ( A _ { 6 } ) = 3 { \binom { N } { 3 } } { \binom { N - 3 } { 1 } } P ( A ( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } ) A ( u _ { 2 } , \nu _ { 1 } ; u _ { 1 } ) ) \leqslant 3 { \binom { N } { 3 } } { \binom { N - 3 } { 1 } } O ( \mathcal { R } _ { H } ^ { 2 } e ^ { - 4 \sigma \mathcal { R } _ { H } } ) = o \left( E ^ { 2 } ( A ) \right) .
+$$
+
+For case 7 (refer to VII in figure 5), there are $3 { \binom { N } { 3 } }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 1 }$ possible choice for $\nu _ { 2 }$ ， so there are totally $3 \binom { N } { 3 } \binom { N - 3 } { 1 }$ choices for such case.
+
+$$
+\begin{array} { r l } & { P ( \boldsymbol { A } ( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } ) \boldsymbol { A } ( u _ { 1 } , \nu _ { 2 } ; w _ { 1 } ) ) } \\ { \leqslant } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { \nu _ { 1 } , w _ { 1 } } \hat { p } _ { \nu _ { 1 } , w _ { 1 } } \hat { p } _ { \nu _ { 2 } , w _ { 1 } } \rho ( r _ { u _ { 1 } } ) \rho ( r _ { \nu _ { 1 } } ) \rho ( r _ { v _ { 2 } } ) \rho ( r _ { w _ { 1 } } ) d r _ { u _ { 1 } } d r _ { \nu _ { 1 } } d r _ { v _ { 2 } } d r _ { w _ { 1 } } } \\ { = } & { \int _ { 0 } ^ { R } \left[ \int _ { 0 } ^ { R } \hat { p } _ { \nu _ { 1 } , w _ { 1 } } \rho ( r _ { \nu _ { 1 } } ) d r _ { \nu _ { 1 } } \right] \left[ \int _ { 0 } ^ { R } \hat { p } _ { u _ { 1 } , w _ { 1 } } \rho ( r _ { u _ { 1 } } ) d r _ { u _ { 1 } } \right] \left[ \int _ { 0 } ^ { R } \hat { p } _ { \nu _ { 2 } , w _ { 1 } } \rho ( r _ { \nu _ { 2 } } ) d r _ { \nu _ { 2 } } \right] \rho ( r _ { w _ { 1 } } ) d r _ { w _ { 1 } } } \\ { = } & { \int _ { 0 } ^ { R } \Theta ( e ^ { - 2 \sigma \eta _ { w _ { 1 } } } ) \Theta ( e ^ { - 2 \sigma \eta _ { w _ { 1 } } } ) \Theta ( e ^ { - 2 \sigma \eta _ { w _ { 1 } } } ) \rho ( r _ { w _ { 1 } } ) d r _ { w _ { 1 } } } \\ { = } & { O ( e ^ { - 2 \sigma \mathcal { R } _ { H } } ) . } \end{array}
+$$
+
+So we have
+
+$$
+( A _ { 7 } ) = 3 { \binom { N } { 3 } } { \binom { N - 3 } { 1 } } P ( A \left( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } \right) A \left( u _ { 1 } , \nu _ { 2 } ; w _ { 1 } \right) ) \leqslant 3 { \binom { N } { 3 } } { \binom { N - 3 } { 1 } } O ( e ^ { - 2 \sigma \mathcal { R } _ { H } } ) = o \left( E ^ { 2 } ( A ) \right) .
+$$
+
+For case 8 (refer to VII in figure 5), there are $3 \binom { N } { 3 }$ possible choice for $\{ u _ { 1 } , \nu _ { 1 } , w _ { 1 } \}$ and leave $\binom { N - 3 } { 1 }$ possible hoice for $\nu _ { 2 }$ , so there are totaly $6 \binom { N } { 3 } \binom { N - \bar { 3 } } { 1 }$ choices for such case.
+
+$$
+\begin{array} { r l } & { P ( \Lambda \left( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } \right) \Lambda \left( w _ { 1 } , \nu _ { 2 } ; u _ { 1 } \right) ) } \\ { \leqslant } & { \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \int _ { 0 } ^ { R } \hat { p } _ { \nu _ { 1 } , w _ { 1 } } \hat { p } _ { w _ { 1 } , u _ { 1 } } \hat { p } _ { u _ { 1 } , \nu _ { 2 } } \rho ( r _ { u _ { 1 } } ) \rho ( r _ { \nu _ { 1 } } ) \rho ( r _ { w _ { 1 } } ) \rho ( r _ { \nu _ { 2 } } ) d r _ { \nu _ { 2 } } d r _ { u _ { 1 } } d r _ { w _ { 1 } } d r _ { \nu _ { 1 } } } \\ { \leqslant } & { O ( \mathcal { R } _ { H } ^ { 2 } e ^ { - 4 \sigma \mathcal { R } _ { H } } ) . } \end{array}
+$$
+
+So we have
+
+$$
+E ( A _ { 8 } ) = 3 \binom { N } { 3 } \binom { N - 3 } { 1 } P ( A ( u _ { 1 } , \nu _ { 1 } ; w _ { 1 } ) A ( w _ { 1 } , \nu _ { 2 } ; u _ { 1 } ) ) \leqslant 6 \binom { N } { 3 } \binom { N - 3 } { 1 } O ( \mathcal { R } _ { H } ^ { 2 } e ^ { - 4 \sigma \mathcal { R } _ { H } } ) = o \left( E ^ { 2 } ( A ) \right)
+$$
+
+Together with all cases,we have lemma 5.2.
+
+# 5.3 Variance and Chebyshev'sinequality
+
+From previous subsections,we have
+
+$$
+D ^ { 2 } ( \Lambda ) = E ( | \Lambda - E ( \Lambda ) | ^ { 2 } ) = E ( \Lambda ^ { 2 } ) - E ^ { 2 } ( \Lambda ) = o ( E ^ { 2 } ( \Lambda ) ) ,
+$$
+
+and
+
+$$
+D ^ { 2 } ( T ) = E ( | T - E ( T ) | ^ { 2 } ) = E ( T ^ { 2 } ) - E ^ { 2 } ( T ) = o ( E ^ { 2 } ( T ) ) ,
+$$
+
+证 $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ . Further by Chebyshev's inequality
+
+$$
+P ( | X - E ( X ) | \geqslant \varepsilon ) \leqslant \frac { D ^ { 2 } ( X ) } { \varepsilon ^ { 2 } } ,
+$$
+
+if we have $\varepsilon E ^ { 2 } ( X )$ in steady of $\varepsilon$ , then we get
+
+$$
+P \left( \left| \frac { \Lambda - E ( \Lambda ) } { E ( \Lambda ) } \right| \geqslant \varepsilon \right) \leqslant o ( 1 ) \varepsilon ,
+$$
+
+![](images/85e988cb5ddac3300f1d1f97a5b609f9912df375c64c6607fc8a9c5a86028def.jpg)  
+FIG.6.Plot of tendency of global clustering coefficient against the network size $N$ ford $= 1$ $2 \sigma = 1 / 2$ $\tau = 1 / 2$ $\nu = 1$ and $\zeta = 1$ One can see the tendency of $C _ { 2 } ( G ) \to 0$ as $N \to \infty$
+
+i.e.,
+
+Similar,
+
+$$
+\begin{array} { l } { { \cal { \Lambda } = E ( \cal { \Lambda } ) ( 1 + o _ { p } ( 1 ) ) . } } \\ { { { } } } \\ { { { \cal { T } } = E ( T ) ( 1 + o _ { p } ( 1 ) ) . } } \end{array}
+$$
+
+# 6.Global clustering coefficient
+
+The global clustering coefficient $C _ { 2 } ( G )$ of a graph $G$ is defined as
+
+$$
+C _ { 2 } ( G ) : = \frac { 3 T ( G ) } { \Lambda ( G ) } .
+$$
+
+So from previous section,we have Theorem 1.3
+
+$$
+C _ { 2 } ( G ) = \frac { 3 T ( G ) } { \Lambda ( G ) } = \frac { 3 E ( T ) ( 1 + o _ { p } ( 1 ) ) } { E ( \Lambda ) ( 1 + o _ { p } ( 1 ) ) } \stackrel { p } { \longrightarrow } o ,
+$$
+
+as $N \to \infty$ . Simulation result (refer to figure 6 ） also supports this conclusion.
+
+# 7.Conclusions
+
+In this article, we give a precise characterization of degree and clustering in the random geometric graph on the hyperbolic ball of any dimension for the small parameter $\tau < 1 , 2 \sigma < 1$ and the given relation of $\begin{array} { r } { \mathcal { R } _ { H } = \ln \frac { N } { \nu } } \end{array}$ . We get the to-zero tendency for the $\mathbf { k }$ -degree and the global clustering coefficient as $N \to \infty$ .Maybe it doesn't meet the desire for the power law of small parameter in the real world, but the interaction between the density parameter $\sigma$ and the region expanding speed is reflected by this article and the previous article [16], which reveal that mobility may has an important significance as a generic mechanism in networks. Some techniques and analysis method are firstly used in this article and we hope that our results and methods may be applied in machine learning since hyperbolic geometry has been widely used in this field for the quasi-isometric embedding proof of Sarkar[8,15].Here we use the global clustering coefcient to describe the clustering phenomenon,and there also other definitions for the clustering tendency,so it is interesting to try other clustering definition for this model.We recently know that Fountoulakis give the finer characterization about clustering in [13].It is a natural step to follow their work for the case $\tau < 1 , 2 \sigma < 1$ . There are many other models of hyperbolic geometry, for example in [6,7],and some researcher advices us that Klein model in [6] is wel-suited for calculation, so it is a good choice to apply our method to such model. We also think that the random geometric graph model on the hyperbolic ball can analyze the social network since there exists some common principle as we mentioned in Introduction.
+
+# Acknowledgment
+
+All authors have read and agreed to the published version of the manuscript.
+
+A.
+
+For $r _ { u } + r _ { \nu } - R \geqslant \omega ( N )$ we divide the integral (1.5) as follows
+
+$$
+\hat { p } _ { u , \nu } = \int _ { 0 } ^ { \pi } \rho _ { 1 } ( \theta ) p _ { u , \nu } d \theta = \int _ { 0 } ^ { \tilde { \theta } _ { u , \nu } } \rho _ { 1 } ( \theta ) p _ { u , \nu } d \theta + \int _ { \tilde { \theta } _ { u , \nu } } ^ { \pi } \rho _ { 1 } ( \theta ) p _ { u , \nu } d \theta .
+$$
+
+For the first part of the integral,
+
+$$
+\int _ { 0 } ^ { \tilde { \theta } _ { u , \nu } } \rho _ { 1 } ( \theta ) p _ { u , \nu } d \theta \leqslant \int _ { 0 } ^ { \tilde { \theta } _ { u , \nu } } \rho _ { 1 } ( \theta ) d \theta \leqslant \frac { \tilde { \theta } _ { u , \nu } ^ { d } } { d I _ { d , 1 } } = \frac { e ^ { \mathcal { R } _ { H } - \eta _ { u } - \eta _ { \nu } } } { d I _ { d , 1 } \omega ^ { d } ( N ) } = o ( e ^ { \mathcal { R } _ { H } - \eta _ { u } - \eta _ { \nu } } ) ,
+$$
+
+and the second part of the integral
+
+$$
+\begin{array} { r l } { \int _ { \Omega _ { h } } ^ { \infty } \rho _ { 1 } ( \vartheta ) \rho _ { N , \omega } d \vartheta } & { = \int _ { \Omega _ { h } } ^ { \infty } \frac { \rho _ { 1 } ( \vartheta ) } { \rho _ { 1 } ( \omega - \omega ) } \frac { \rho _ { 1 } ( \vartheta ) } { \omega _ { \mathrm { i n } } ( \vartheta ) \cdot \frac { \rho _ { 1 } ( \omega ) } { \omega _ { \mathrm { i n } } ( \vartheta ) } + 1 } d \vartheta } \\ & { = \int _ { \omega } ^ { \infty } \frac { \rho _ { 1 } ( \vartheta ) } { \sqrt { \omega _ { \mathrm { i n } } ( \omega - \omega ) } + \frac { \rho _ { 1 } ( \vartheta ) } { \omega _ { \mathrm { i n } } ( \vartheta ) } + 1 } d \vartheta + \omega \varphi _ { \mathrm { i n } } ^ { \mathrm { i n } } \frac { \varphi _ { \mathrm { i n } } ^ { \mathrm { i n } } \cdot \varphi _ { \mathrm { i n } } } { \omega _ { \mathrm { i n } } ( \vartheta ) } } \\ & { = \begin{array} { r l } { \int _ { u } ^ { \infty } \frac { \rho _ { 1 } ( \vartheta ) } { \omega ^ { 1 + \infty } - \omega } \frac { \rho _ { 1 } ( \vartheta ) } { \omega ( \omega ^ { 1 } ) + 1 } \frac { \varphi _ { 1 } ^ { \mathrm { i n } + \infty / 2 } } { \omega _ { \mathrm { i n } } ( \omega ^ { 1 } ) + 1 } d \vartheta + \frac { \varphi _ { 1 } ( \omega ^ { 1 } ) + 1 } { \omega ^ { 1 + \infty / 2 } } d \vartheta + \omega ( \omega ^ { \mathrm { i n } - \hbar \cdot \varphi _ { 1 } } ) } \\ { = } & { \int _ { u } ^ { \infty } \frac { \rho _ { 1 } ( \vartheta ) } { \omega ^ { 1 + \infty } - \omega } \frac { \varphi _ { 1 } ( \omega ) } { \sin ( \omega ^ { 1 } ) + 1 } \frac { 1 } { 1 + \omega ^ { 1 + \infty / 2 } } \frac { \varphi _ { 1 } ^ { \mathrm { i n } } \varphi _ { \mathrm { i n } } } { \omega ^ { 1 + \infty / 2 } + 1 } d \vartheta + \omega ( \omega ^ { \mathrm { i n } - \hbar \cdot \varphi _ { 1 } } ) } \end{array} } \\ &  = \begin{array} { r l } { \int _ { u } ^ { \infty } \frac { \rho _ { 1 } ( \vartheta ) } { \omega ^ { 1 + \infty / 2 } } d \vartheta + \frac { \varphi _ { 1 } ( \omega ) } { \omega ^ { 1 + \infty / 2 } + 1 } d \vartheta } &  \mathrm { i n } \frac { \varphi _ { 1 } ( \omega ) } { \omega ^ { 1 + \infty / 2 } + 1 } \frac { \varphi _ { 1 } ( \omega ) } { \omega ^ { 1 + \infty / 2 } + 1 } \frac { \varphi _ { 1 } ( \omega ) }  \omega ^ \end{array} \end{array}
+$$
+
+adss $\begin{array} { r } { I = \delta \int _ { 0 } ^ { \pi } \frac { \sin ^ { d - 1 } \theta d \theta } { \delta + \sin ^ { \frac { d } { \tau } } ( \frac { \theta } { 2 } ) } = c ^ { * } ( \tau , d ) \delta ^ { \tau } + o ( \delta ^ { \tau } ) } \end{array}$ in the Appndix A.1 of [16] with $\delta = e ^ { \frac { \mathcal { R } _ { H } - \eta _ { u } - \eta _ { \nu } } { \tau } }$ . Finally, we have
+
+$$
+\hat { p } _ { u , \nu } = \int _ { 0 } ^ { \pi } \rho _ { 1 } ( \theta ) p _ { u , \nu } d \theta = ( 1 + o ( 1 ) ) \frac { c ^ { * } ( \tau , d ) } { I _ { d , 1 } } e ^ { \mathcal { R } _ { H } - \eta _ { u } - \eta _ { \nu } } .
+$$
+
+# REFERENCES
+
+1.ALBERT,R AND BARABAsI， A-L. (2002） Statistical mechanicsof complex networks. Reviews ofModern Physics,74,47-97.   
+2.ALLEN,G.，GOODALE，T.，LOFFLER，F.，RIDEOUT,D.，SCHNETTER，E．AND SEIDEL，E.L. (2010)Component specification in the Cactus Framework:The Cactus Configuration Language. 11th IEEE/ACM International Conference on Grid Computing.   
+3.BARABAsI， A.-L. AND ALBERT，R.(1999) Emergence of Scaling in Random Networks. Science,15,509-512.   
+4.CANDELLERO,E.AND FOUNTOULAKIs,N. (2016) Clustering and the hyperbolic geometry of complex networks. Internet Mathematics,12(1),2-53.   
+5.FOUNTOULAKIs，N.(2O15） On a geometrization of the Chung-Lu model for complex networks. Journal ofComplex Networks,3(3),361-387.   
+6.FRANK NIELSEN，R.N.(2010)HyperbolicVoronoiDiagramsMade Easy. 2010 International Conference on Computational Science and Its Applications, IEEE.   
+7．FRANK NIELSEN,R.N. (2021) The hyperbolic Voronoi diagram in arbitrary dimension. arXiv:1210.8234.   
+8.GANEA,O.-E., BECIGNEUL,G.AND HOFMANN,T. (2018) Hyperbolic entailment cones for learming hierarchical embeddings.arXiv:1804.01882.   
+9.IVAN VOITALOV, PIM VAN DER HOORN, M.K.F. P. AND KRIOUKOV, D. (2020) Weighted hypersoft configuration model. Phys.Rev.Research,2,043157.   
+10. KITSAK,M., PAPADOPOLOUs,F. AND KRIOUKOv, D.(2017) Latent Geometry of Bipartite Networks. Phys.Rev.E,95,032309.   
+11. KRIOUKOV, D. (2016) Clustering implies geometry in networks. Phys.Rev.Lett.,116,208302.   
+12. KRIOUKOV, D., PAPADOPOULOS, F., KITSAK, M., VAHDAT, A. AND BOGUNA, M. (2010) Hyperbolic geometry of complex networks. Phys. Rev.E.,82,036106.   
+13.NIKOLAOS FOUNTOULAKIS, PIM VAN DER HOORN, T. M., M. S. (2021) Clustering in a hyperbolic model of complex networks. Electron.J.Probab.,26,1-132.   
+14.PARK, J. AND NEWMAN, M. E. J. (2004) Thestatisticalmechanicsofnetworks. Phys.Rev.E.,70,066117.   
+15.SARKAR， R. (2011） Low distortion delaunayembeddingof treesin hyperbolicplane. International Symposium on Graph Drawing.   
+16.YANG,W.AND RIDEOUT,D.(2020) High Dimensional Hyperbolic Geometry of Complex Networks. Mathematics,8(11),1861.

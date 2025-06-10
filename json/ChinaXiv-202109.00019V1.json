@@ -1,0 +1,623 @@
+[
+    {
+        "type": "text",
+        "text": "Reducing water and nitrogen inputs combined with plastic mulched ridge-furrow irrigation improves soil water and salt status in arid saline areas, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Cheng12,WANG Qingsong1,2,LUO Shuai12,，QUAN Hao12, WANG Naijiang1,2 LUOXiaqi12,ZHANGTbin234DINGDiayanDONGQig \\*,FENG Hao1,2,3,4\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratoryofAgriculturalSoilandWaterEngineeringinAridandSemiaridAreas,MinistryofEducation,Northwest A&FUniversity,Yangling7200,China;   \n2College of Water Resources and Architectural Enginering,Northwest A&F University,Yangling 71210o,China;   \n3 Instituteof Soil and Water Conservation,Northwest A&FUniversity, Yangling 712ioo,China; InstituteofSoiland Water Conservation,ChineseAcademyofSciencesandMinistryof WaterResources,Yangling712100, China;   \n5College of Hydraulic Science and Engineering,Yangzhou University, Yangzhou 225009, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Plastic mulched ridge-furrow irigation is a useful method to improve crop productivity and decrease salt accumulation in arid saline areas. However, inappropriate irigation and fertilizer practices may result in ecological and environmental problems. In order to improve the resource use efficiency in these areas, we investigated the effects of different irrigation amounts (400 (I1),300 (I2) and 20o (I3) mm) and nitrogen application rates (30O (F1) and 150 (F2) $\\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 } )$ on water consumption, salt variation and resource use efficiency of spring maize (Zea mays L.) in the Hetao Irrigation District (HID) of Northwest China in 2O17 and 2O18.Result showed that soil water contents were $0 . 2 \\% 8 . 9 \\%$ and $1 3 . 9 \\% { - } 1 8 . 1 \\%$ lower for I2 and I3 than for I1,respectively,but that was slightly higher for F2 than forF1.Soil salt contents were $7 . 8 \\% - 2 3 . 5 \\%$ and $4 8 . 5 \\% - 4 8 . 9 \\%$ lower for I2 than for I1 and I3,but that was $1 . 6 \\% - 5 . 5 \\%$ higher for F1 than for F2.Less salt leaching at the early growth stage (from sowing to six-leaf stage) and higher salt accumulation at the peak growth stage (from six-leaf to tasseling stage and from grain-filing to maturity stage) resulted in a higher soil salt content for I3 than for I1 and I2.Grain yields for I1 and I2 were significantly higher than that for I3 and irrigation water use efficiency for I2 was $1 4 . 7 \\% - 3 4 . 0 \\%$ higher than that for I1. Compared with F1,F2 increased the partial factor productivity (PFP)of nitrogen fertilizer by more than $80 \\%$ . PFP was not significantly different between I1F2 and I2F2,but significantly higher than those of other treatments. Considering the goal of saving water and nitrogen resources,and ensuring food security， we recommended the combination of I2F2 to ensure the sustainable development of agriculture in the HID and other similar arid saline areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: plastic mulched ridge-furrow irrigation; crop water consumption； soil salt variations;resource use efficiency;Hetao Irrigation District ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil salinity has become an important global environmental problem and poses a major threat to soil health, particularly in irrgated agricultural areas within the arid and semi-arid regions (Wei et al.,2020). Rational utilization of salinized land is of vital importance to ensure food security and to relieve pressures associated with population growth (Cheng et al., 2019). The Hetao Irrigation District (HID) in Northwest China is a typical salinization irrigation district with $1 6 0 ~ \\mathrm { { m m } }$ annual precipitation and about $2 2 4 0 \\mathrm { m m }$ high evaporation per year (Ren et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maize(Zea mays L.） is one of the most important grain crops in the world and is a salt-sensitive species (Maas and Hoffman, 1983). The HID is one of the major spring maize production regions,and the planted maize area accounts for $3 5 . 6 \\%$ of the total arable land area (Li et al.,202O). Irrigation water from the Yellow River is important for spring maize production here. Moreover, excessive irrigation and chemical fertilizer are frequently applied to obtain a high maize yield,which has resulted in various ecological and environmental problems,including excessive water consumption, soil salinity and losses of nitrogen and phosphorus (Sharma et al., 2005; Qadir et al.,2009; Zhao et al., 2014). An additional problem is that the amount of irrigation water diverted from the Yellow River to the HID will be reduced by $20 \\%$ in the future (about $5 { \\times } 1 0 ^ { 9 } \\mathrm { m } ^ { 3 } / \\mathrm { a } _ { , } ^ { \\mathrm { \\prime } }$ due to intensifying demands in the Yellow River basin (Zhang et al., 2016). Therefore, developing efficient water-saving irrigation and nitrogen fertilizer regimes is essential for the sustainability of agriculture,environment and ecosystem in the HID. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plastic mulching is widely used to reduce water evaporation and soil heat loss,to inhibit the movement of salt to the soil surface,and to produce high and stable yields of crops in the HID (Zhang et al.,2011; Liu et al., 2014; Wang et al.,2015). The ridge-furrow mulching system is widely used in arid and semi-arid areas (Li and Gong,2002; Zhou et al., 2009; Liu et al.,2014). Researchers have found that plastic mulched ridge-furrow irrigation can reduce soil evaporation, soil water and nitrogen percolation, increase crop yield and irrigation water use efficiency, and reduce salt accumulation on the surface of ridge compared with traditional flood/border irrigation (Bezborodov et al., 2010; Chen et al., 2015). Compared with micro sprinkler irrigation, plastic mulched ridge-furrow irigation is easy to implement and the application cost is relatively low (Chen and Qi, 2013; Porhemmat et al.,2018). In addition, plastic mulched ridge-furrow irrigation is an effective method for enhancing fertilizer use efficiency (Zhang et al., 2O18). Dong et al. (2018)suggested that plastic mulched ridge-furrow irigation was efective for the crops in the HID,where precipitation is low and evaporation is high. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil water and salt transport processes are highly influenced by the amount of irrigation water applied (Phogat et al.,2018; Yuan et al.,2019). In addition, nitrogen fertilizer significantly affects the transport of soil water and salt (Dong et al., 2O12; Zhang et al.,2O12). Plants cannot fully utilize nutrients in saline environments because soil water and nitrogen absorption processes are greatly altered, thereby affecting plant metabolism (Dong et al.，2012). Thus, nitrogen use efficiency can be greatly affected by soil water and salinity,and proper application of nitrogen fertilizer and irrigation is considered to be one of the most important management practices to improve soil quality and to increase crop yields (Ella and Shalaby,1993; Zhang et al., 2012). Meanwhile,uneven soil water and salt conditions caused by plastic mulched ridge-furrow irrigation is different from other irrigation systems (Guo et al.,2O19). However,there are few data related to the water and salt regulation,and crop responses to different irrigation and fertilizer regimes under plastic mulched ridge-furrow irrigation in the HID. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reducing the application of fertilizer in crops is considered for the food security.For example, nitrogen fertilizer application at about $60 \\%$ of the conventional fertilizer rate was considered to be the best fertilizer strategy for both high grain yield and economic benefits when irigation amount was sufficient (Bu et al., 2014; Mo et al.,2017; Wang et al., 2018). Nitrogen application rate of $1 3 5 { - } 1 8 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ was considered to be the best fertilizer amount for sunflower in the HID (Zeng et al.,2014; Zhao et al., 2014). However, the responses of spring maize growth and grain yield to water consumption and salt variation are stil unknown under the conditions of reducing irrigation amount and nitrogen fertilizer rate.A thorough comparison of reducing irrigation and fertilizer with conventional water and fertilizer application could provide information on the water use efficiency,salt variations and crop yield fluctuation.In this study,we hypothesized that half of the conventional nitrogen application rate (i.e., $1 5 0 \\mathrm { ~ k g ~ N / h m } ^ { 2 } \\gamma$ ）combined with an optimum irrigation amount could not only reduce crop water consumption and periodic fluctuation of soil salt, but also increase water and nitrogen efficiencies in the HID, China.Therefore,the main objectives of this study were to: (1) determine the impacts of irrigation and nitrogen regimes on soil water and crop water consumption characteristics under plastic mulched ridge-furrow irrigation; (2) study soil salt variations under different irrigation amounts and nitrogen application rates； and (3) analyze the interactive effects of water and nitrogen inputs on grain yield, PFP and water use efficiency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Field experiments were conducted at the Shuguang Experimental Station ( $4 0 ^ { \\circ } 4 6 ^ { \\prime } \\mathrm { N }$ ， $1 0 7 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E }$ $1 0 3 9 \\mathrm { m }$ a.s.l.),located in the west of the HID, Inner Mongolia Autonomous Region, China from April to September in 2017 and 2018. The study area belongs to an arid continental climate characterized by a low precipitation and a high evaporation. The mean annual precipitation is 105 mm,of which about $70 \\% 8 0 \\%$ occurs during the period from May to September(Wang et al., 2014).The annual mean temperature is $9 . 1 ^ { \\circ } \\mathrm { C }$ and the potential evaporation is $2 2 4 0 \\ \\mathrm { m m }$ .The annual total sunshine duration ranges from 3100 to $3 3 0 0 \\mathrm { h }$ ,and the groundwater table is about 2.5 m. Soil physical and chemical properties at the study area are summarized in Table 1. Mean air temperature, rainfall and groundwater table during the study period are shown in Figure 1. Rainfall amounts were about 37 and $1 1 0 \\mathrm { m m }$ during the spring maize growing season in 2O17 and 2018,respectively, indicating that 2O17 was a relatively dry year and 2O18 was a normal year (Yu et al., 2020). Distributions of temperature and rainfal differed greatly between the two growing seasons,potentially leading to different results. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9c99f3dfb632323cbd9d945e7e4003c1b6bb59ce1facdb415ee9baf0a1586de.jpg",
+        "table_caption": [
+            "Table1Soil physical and chemical properties of the study area "
+        ],
+        "table_footnote": [
+            "Note: EC,electric conductivity. "
+        ],
+        "table_body": "<html><body><table><tr><td>Demth</td><td>Clay (%)</td><td>Silt (%)</td><td>Sand (%)</td><td>Soil texture</td><td>Bulk density</td><td>Feld gagacty</td><td>(dE/m)</td><td>pH</td></tr><tr><td>0-20</td><td>20.00</td><td>51.49</td><td>28.72</td><td>Silt loam</td><td>1.36</td><td>0.23</td><td>1.15</td><td>8.65</td></tr><tr><td>20-40</td><td>23.85</td><td>50.29</td><td>25.86</td><td>Silt loam</td><td>1.48</td><td>0.24</td><td>2.04</td><td>8.41</td></tr><tr><td>40-60</td><td>21.62</td><td>32.12</td><td>46.26</td><td>Silt loam</td><td>1.39</td><td>0.29</td><td>0.94</td><td>8.55</td></tr><tr><td>60-80</td><td>2.51</td><td>4.24</td><td>93.25</td><td>Sand</td><td>1.44</td><td>0.30</td><td>0.80</td><td>8.68</td></tr><tr><td>80-100</td><td>6.93</td><td>14.67</td><td>78.40</td><td>Sandy loam</td><td>1.47</td><td>0.29</td><td>0.73</td><td>8.65</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and field management ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This experiment used completely randomized block design with six treatments and three replicates.High, moderate and low irrigation amounts were 40o (I1),30o (I2) and $2 0 0 ~ \\mathrm { { m m } }$ (13), respectively. High (F1) and low fertilizer (F2) rates were 300 and $1 5 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ,respectively. The dates and amounts of three irrigations applied in 2017 and 2018 are shown in Table 2. The six treatments were high water and high fertilizer (I1F1),high water and low fertilizer (I1F2), moderate water and high fertilizer (I2F1), moderate water and low fertilizer (I2F2),low water and high fertilizer (I3F1)，and low water and low fertilizer (I3F2).The $3 0 \\mathrm { \\dot { 0 } } \\ \\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ total $\\mathrm { \\Delta N }$ application rate for high fertilizer was conducted as folows.Before sowing,the base fertilizer was used uniformly followed by the rotary tillage. Base fertilizer (total $1 5 0 ~ \\mathrm { \\ k g \\ N / h m } ^ { 2 } )$ applications of diammonium phosphate ( $1 8 . 0 \\%$ N content) and urea ( $4 6 . 4 \\%$ N content） were 600 and $9 1 ~ \\mathrm { k g / h m } ^ { 2 }$ , respectively, before planting and mulching in both years. The remaining $1 5 0 ~ \\mathrm { k g }$ $\\mathrm { N } / \\mathrm { h m } ^ { 2 }$ was evenly applied of urea at the grain-filling stage in both years,and the topdressing was applied through broadcasting followed by the irrigation. The low fertilizer application was total $1 5 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ that was the same with the base fertilizer of high fertilizer application. Irrigation water was obtained from a groundwater wel. The average electrical conductivity (EC) of groundwater was $1 . 7 6 ~ \\mathrm { d S / m }$ . Irrigation water was delivered by a pump equipped with a water meter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fb2e8813f2a13ab7a7ee566190f3c4948cf200e573fa397c07a263465b4e1af.jpg",
+        "img_caption": [
+            "Fig.1Mean air temperature,rainfall(a)and groundwater table (b)during growing seasons in 2017and 2018.V0,sowing stage;V6,six-leaf stage;VT,tasseling stage;R3,grain-filling stage;R6,maturity stage. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24ea7fef7d6ca7455f1922c568d151b592918b64f19d8c56bde0775be6c9d82b.jpg",
+        "table_caption": [
+            "Table 2Irrigation date and amount in the experiment "
+        ],
+        "table_footnote": [
+            "Note:I1,2andIaregatiotreament.V6,six-fstae;V2,twelve-lastage;R1,siingsge;R,ga-ligage "
+        ],
+        "table_body": "<html><body><table><tr><td>Growth stae fspring</td><td>Date in 2017</td><td>Date in 2018</td><td>I1 (mm)</td><td>12 (mm)</td><td>13 (mm)</td></tr><tr><td>V6</td><td>31 May</td><td>28 May</td><td>100</td><td>80</td><td>60</td></tr><tr><td>V12</td><td>2 July</td><td>30 June</td><td>100</td><td>75</td><td>50</td></tr><tr><td>R1</td><td>29 July</td><td>29 July</td><td>100</td><td>75</td><td>50</td></tr><tr><td>R3</td><td>17 August</td><td>18 August</td><td>100</td><td>70</td><td>40</td></tr><tr><td>Total</td><td></td><td></td><td>400</td><td>300</td><td>200</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The experimental field was divided into $1 2 \\mathrm { - m }$ long plots consisting of three ridges and furrows. Ridges were $5 0 ~ \\mathrm { c m }$ wide ( $2 0 \\ \\mathrm { c m }$ high) and furrows were $7 0 \\ \\mathrm { c m }$ wide ( $2 0 \\ \\mathrm { c m }$ deep). After all ridges were mulched with plastic film, two rows of maize were planted on each ridge with $4 0 \\ \\mathrm { c m }$ distance between rows and plants spaced $3 0 \\ \\mathrm { c m }$ apart. Seeds of the maize cultivar \"Ximeng $6 \"$ were planted by hand at a depth of $5 \\mathrm { c m }$ using a manual hole-planting machine on 25 April 2017 and 3 May 2018.Harvest occurred on 10 September 2017 and 11 September 2018.Daily meteorological parameters, including rainfall and temperature， were monitored from the meteorological observation station located approximately $1 5 0 \\mathrm { m }$ from the experiment (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Sampling and measurement ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Soil water and salt ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil water content was measured approximately every $^ \\textrm { \\scriptsize 7 d }$ at 10 and $2 0 \\ \\mathrm { c m }$ depth and at $2 0 \\mathrm { - c m }$ intervals from 20 to $1 2 0 ~ \\mathrm { { c m } }$ depth using a Soil Moisture Profile Measurement System (TRIME-PICO-IPH TDR, Germany) that was installed in the center of the ridge and furrow at each plot. Soil samples were also collected by auger on the top of the ridge and the bottom of the furrow at $1 0 \\mathrm { - c m }$ intervals from O to $2 0 \\ \\mathrm { c m }$ depth and at $2 0 \\mathrm { - c m }$ intervals from 40 to $1 0 0 ~ \\mathrm { c m }$ depth before and after each irrigation event. Soil samples were air-dried and sieved through a $1 \\mathrm { - m m }$ mesh screen for preparing dilute soil extract solutions.We measured soluble salt content $\\mathrm { { ( d S / m ) } }$ （204 with a conductivity meter based on extracts with a 1:5 soil:water ratio $( \\mathrm { E C } _ { 1 : 5 } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { E C } _ { 1 : 5 }$ was converted to salt content $( S _ { t } , \\mathbf { g } / \\mathbf { k g } )$ using the relationship presented by Tong et al. (2015): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { t } \\mathrm { = } 3 . 7 6 5 7 \\times \\mathrm { E C } _ { 1 : 5 } \\mathrm { - } 0 . 2 4 0 5 \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil salt storage (SSS, $\\mathrm { t } / \\mathrm { h m } ^ { 2 } \\mathrm { \\Omega }$ )was calculated as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S S S } = \\sum \\left( S _ { t i } \\times D _ { i } \\times l _ { i } / 1 0 \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { t i }$ is the salt content at the $i$ soil layer $( \\mathbf { g } / \\mathrm { k g } )$ · $D _ { i }$ is the soil bulk density $( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ ; and $l _ { i }$ is the soil depth (cm). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Plant measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ten maize plants were selected in each plot at harvest to determine yield components, including grain yield and thousand kernel weights (TKW). Thirty plants per treatment were sampled owing to three replications. Yield of each treatment was the mean value of three replicates. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Evapotranspiration (ET) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We calculated the water consumption for the whole growing season, i.e., ET (mm) based on the water balance formula: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\mathrm { E T } = \\Delta W + P + I - R - Q ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta W$ is the change in soil water storage (mm); $P$ and $I$ are the rainfall (mm) and irrigation (mm),respectively; $R$ is the surface runoff (mm); and $\\boldsymbol { Q }$ is the soil water exchange at the depth of $1 0 0 \\mathrm { c m }$ , negative values indicate water flow upward from soil deeper than $1 0 0 \\mathrm { c m }$ to above it, and positive values indicate percolation at $1 0 0 ~ \\mathrm { c m }$ depth (mm). $R$ was assumed to be negligible as there was no observed runoff of irrigation water during the two growing seasons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Maize roots are mainly distributed in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth under surface irrigation conditions (Wang et al.,2013),thus the 100-cm soil depth is considered to be the depth at which soil water flows into or out of the root zone. To calculate the soil water flux,we converted the water contents at intervals of $0 \\mathrm { - 1 0 , ~ } 1 0 \\mathrm { - } 2 0 , ~ 2 0 \\mathrm { - } 4 0 , ~ 4 0 \\mathrm { - } 6 0 , ~ 6 0 \\mathrm { - } 8 0 , ~ 8 0 \\mathrm { - } 1 0 0$ and $1 0 0 { - } 1 2 0 ~ \\mathrm { c m }$ to volumetric water content using the bulk densities listed in Table 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil water exchange $( \\boldsymbol { Q } )$ in the $1 0 0 ~ \\mathrm { c m }$ soil depth was determined using Darcy's equation (Ma et al., 2011; Liu et al., 2017): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = - K ( \\theta ) ( \\frac { d \\varphi } { d z } + 1 ) = - K ( \\theta ) ( \\frac { \\varphi _ { 1 1 0 } - \\varphi _ { 9 0 } } { z _ { 1 1 0 } - z _ { 9 0 } } + 1 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( \\theta ) = K _ { \\mathrm { s } } S _ { \\mathrm { e } } ^ { 1 / 2 } ( 1 - ( 1 - S _ { \\mathrm { e } } ^ { 1 / \\mathrm { m } } ) ^ { \\mathrm { m } } ) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { e } } = ( 1 + ( \\mathfrak { a } \\left| \\varphi _ { \\mathrm { m } } \\right| ) ^ { \\mathrm { n } } ) ^ { 1 / \\mathrm { m } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { e } } = { \\frac { \\theta - \\theta _ { \\mathrm { r } } } { \\theta _ { \\mathrm { s } } - \\theta _ { \\mathrm { r } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $K ( \\theta )$ is the unsaturated hydraulic conductivity $( \\mathrm { c m / d } )$ ·， $d$ is the partial derivative; $\\varphi _ { 1 0 0 }$ and $\\varphi _ { 9 0 }$ are the soil matric potentials at $1 1 0 \\ \\mathrm { c m }$ and $9 0 \\ \\mathrm { c m ( k P a ) }$ ,respectively; $Z _ { 1 1 0 }$ and $Z _ { 9 0 }$ are the soil water contents $( \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 } )$ at $1 1 0 \\ \\mathrm { c m }$ and $9 0 ~ \\mathrm { c m }$ ，respectively; $K _ { \\mathrm { s } }$ is the saturated hydraulic conductivity $( K _ { s } { = } 1 9 8 \\ \\mathrm { c m / d } )$ ： $S _ { \\mathrm { e } }$ is the effective saturation; $\\varphi _ { \\mathrm { m } }$ is the pressure head (cm); $\\mathfrak { a }$ ,n and m are the empirical coefficients, which were 0.042, 0.0431 and 2.008,respectively (Dong et al., 2018); $\\theta$ is the measured soil water content $( \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 } )$ $\\theta _ { \\mathrm { r } }$ is the residual soil water content $( \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 } )$ ; and $\\theta _ { \\mathrm { s } }$ is the saturated soil water content $( \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 } )$ ！ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil water content was converted to soil matric potential using Equations 5 and 6. Soil water characteristic curves were regressed using Run-time Enhancement of Trusted Computing software developed by U. S. Salinity Laboratory (htps://www.epa.gov/water-research/retention-curve-retccomputer-program). Soil water exchange was estimated daily using measured and interpolated data. As stated earlier, soil water content was measured approximately every 7 d. There was no great variation for soil water content in the $0 { - } 1 2 0 ~ \\mathrm { c m }$ soil depth because of the low rainfall amounts and the controlled irrigation depths. Therefore,soil water content on days between two measurements was linearly interpolated using the two measured soil water contents (Liu et al., 2017). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Indexcalculation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Water consumption coefficient $( K _ { \\mathrm { w c } } )$ was calculated as the water consumption during a special growth stage $\\left( \\mathrm { E T _ { c s } , m m } \\right)$ divided by ET: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { _ w c } } \\ = \\ { \\frac { \\mathrm { E T _ { c s } } } { \\mathrm { E T } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Salt variation coefficient $( K _ { \\mathrm { v c } } )$ was calculated as the variation of soil salt storage in the $0 { - } 1 0 0$ cm soil depth during a special growth stage $( \\mathrm { S S S } _ { \\mathrm { p } } , \\mathrm { t } / \\mathrm { h m } ^ { 2 } )$ divided by the variation of soil salt storage in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth during the whole growth stage $( \\mathrm { S S S } _ { \\mathrm { w } } , \\mathrm { t } / \\mathrm { h m } ^ { 2 } )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { v c } } = \\frac { \\mathrm { S S S } _ { \\mathrm { p } } } { \\mathrm { S S S } _ { \\mathrm { w } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Positive values of ${ \\mathrm { S S S } } _ { \\mathrm { p } }$ and $\\mathrm { S S S _ { w } }$ mean salt accumulation and negative values mean desalination. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Water use efficiency (WUE, $\\mathbf { k g } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { m m } ) )$ was calculated as grain yield $\\mathrm { ( Y , ~ k g / h m } ^ { 2 \\setminus }$ ）divided by ET (mm): ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { W U E } } = { \\frac { \\mathrm { Y } } { \\mathrm { E T } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Irrigation water use efficiency (IWUE, $\\mathbf { k g } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { m m } ) ,$ ） was calculated as $\\mathrm { ~ Y ~ } ( \\mathrm { k g } / \\mathrm { h m } ^ { 2 } )$ divided by irrigation amount $\\left( \\mathrm { I } , \\mathrm { m m } \\right)$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { I W U E } } = { \\frac { \\mathrm { Y } } { \\mathrm { I } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Partial factor productivity (PFP, $\\bf k g / \\mathrm { k g ) }$ of nitrogen fertilizer was calculated as $\\mathrm { ~ Y ~ } ( \\mathrm { k g } / \\mathrm { h m } ^ { 2 } )$ （204号 divided the total amount of nitrogen fertilizer applied $( \\mathrm { F } , \\mathrm { k g / h m } ^ { 2 } )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P F P } = { \\frac { \\mathrm { Y } } { \\mathrm { F } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of variance (ANOVA) was conducted with SPSS software (IBM, Inc., USA). Multiple comparisons of mean values were performed using Duncan's multiple range test at a significance level of 0.05.All data analysis and graphing were performed using Excel 2016 (Microsoft, Inc., USA) and Sigmaplot v12.0 (Systat Software, Inc., USA). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil water content and crop ET ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Soil water content was higher at the seedling stage than at late growth stage for all treatments (Fig. 2). Soil water content at late growth stage in 2O18 (Fig.2c and d) was higher and fluctuated more than that in 2O17 (Fig. 2a and b) because of higher rainfall during the non-irrigated periods in 2018.Mean soil water contents for I2 and I3 were $8 . 9 \\%$ and $1 8 . 1 \\%$ ,respectively, lower than that for Il in 2017,and $0 . 2 \\%$ and $1 3 . 9 \\%$ lower than that for I1 in 2018,respectively. But soil water content for I2 was higher than that for Il at late growth stage in 2018 (Fig.2c). In addition, soil water content for F2 was slightly higher than that for F1 in the two study years (Fig.2b and d). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/27582dfc4c747095d7cc0c7f203051649b34de7bb76fe1d8417f6de33f3a1349.jpg",
+        "img_caption": [
+            "Fig.2Soil water contents in the $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ soil depth for different irrigation and fertilizer treatments during the growing seasons in 2017 (a and b) and 2018 (c and d) . I1, $4 0 0 \\ \\mathrm { m m }$ irrigation; I2, $3 0 0 ~ \\mathrm { { m m } }$ irrigation; I3, $2 0 0 ~ \\mathrm { { m m } }$ irrigation； F1, $3 0 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ；F2, $1 5 0 ~ \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ . Arrows indicate irrigation dates.Bars indicate standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Seasonal water flux in the $1 0 0 ~ \\mathrm { c m }$ soil depth ranged from $- 1 . 3$ to $3 7 . 9 \\ \\mathrm { m m }$ in 2017 and $- 1 6 . 6$ （204号 to $9 7 . 2 \\mathrm { m m }$ in 2018 (Table 3). The water flux was close to zero for I2F1 and I2F2, indicating 300 mm irrigation amount is enough for the ET of spring maize. Soil water percolation in the $1 0 0 ~ \\mathrm { c m }$ soil depth increased with the increase in irrigation amount. High water percolation amounts for I1 indicated that spring maize was over-irrigation with $4 0 0 \\mathrm { - m m }$ irrigation amount, especially in the relatively normal rainfall in 2O18. Soil water variation from the day before sowing to the day after harvest ranged from 40.9 to $6 3 . 4 ~ \\mathrm { m m }$ in the two growing seasons and decreased with the increase in irrigation amount.ET for Il was significantly higher than those for I2 and I3,and the value for I2 was significantly higher than that for I3,but there was no significant diference in ET between two fertilizer treatments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd23f60159c60493b8f4ab1820a5ff46083b06f19a881129d2ddf8d6b4657921.jpg",
+        "table_caption": [
+            "[able3Water flux,soil water variation and ET in 2O17and 201 "
+        ],
+        "table_footnote": [
+            "Note: I1, $4 0 0 ~ \\mathrm { { m m } }$ irrigation; I2, $3 0 0 ~ \\mathrm { { m m } }$ irrigation; I3, $2 0 0 ~ \\mathrm { { m m } }$ irrigation; F1, $3 0 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ;F2, $1 5 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ .Water flux was the soil water flow at the $1 0 0 ~ \\mathrm { c m }$ depth. Soil water variation is the soil water decreasing in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth during the growth season.ET,evapotranspiration.Valuesfollowedbydiferentlowercase letters withinthesamecolumnaresignificantly different among different treatments in the same year according to Duncan's multiple range test ( $_ { \\it P 1 0 . 0 5 }$ level). "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Treatment</td><td>Irrigation (mm)</td><td>Water flux (mm)</td><td>Soil water variation (mm)</td><td>ET (mm)</td></tr><tr><td>2017</td><td>I1F1</td><td>400</td><td>35.5</td><td>47.2</td><td>449a</td></tr><tr><td></td><td>I1F2</td><td>400</td><td>37.9</td><td>48.6</td><td>448a</td></tr><tr><td></td><td>I2F1</td><td>300</td><td>0.2</td><td>56.9</td><td>394b</td></tr><tr><td></td><td>I2F2</td><td>300</td><td>3.5</td><td>57.2</td><td>391b</td></tr><tr><td></td><td>I3F1</td><td>200</td><td>-1.3</td><td>62.4</td><td>301°</td></tr><tr><td></td><td>I3F2</td><td>200</td><td>-1.3</td><td>63.4</td><td>286℃</td></tr><tr><td>2018</td><td>I1F1</td><td>400</td><td>93.5</td><td>40.9</td><td>460a</td></tr><tr><td></td><td>I1F2</td><td>400</td><td>97.2</td><td>41.8</td><td>457a</td></tr><tr><td></td><td>I2F1</td><td>300</td><td>10.5</td><td>57.8</td><td>460a</td></tr><tr><td></td><td>I2F2</td><td>300</td><td>8.1</td><td>59.1</td><td>463a</td></tr><tr><td></td><td>I3F1</td><td>200</td><td>-16.6</td><td>60.1</td><td>389b</td></tr><tr><td></td><td>I3F2</td><td>200</td><td>-7.1</td><td>57.6</td><td>377b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 Water consumption coefficient $( K _ { \\mathrm { w c } } )$ and soil water exchange $( \\varrho )$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Considering the actual sampling date and maize growth stages, we divided spring maize into four stages: VO-V6 (sowing to six-leaf stages), V6-VT (six-leaf to tasseling stages), VT-R3 (tasseling to grain-filling stages), and R3-R6 (grain-filling to maturity stages). $K _ { \\mathrm { w c } }$ reached the highest value at V6-VT stages, followed the order of $\\mathrm { V 6 - V T { > } R 3 { - } R 6 { > } V T { - } R 3 { > } V 0 { - } V 6 }$ (Table 4). $K _ { \\mathrm { w c } }$ increased with the increase in irrigation amounts and slightly affected by different nitrogen fertilizer rates. In general, $K _ { \\mathrm { w c } }$ was greater for Il and I2 than for I3. In all treatments, the biggest $K _ { \\mathrm { w c } }$ occurred at V6-VT stages, reaching up to 0.36-0.37. $\\boldsymbol { \\mathcal { Q } }$ in the $1 0 0 ~ \\mathrm { c m }$ soil depth varied with the rainfall and irrigation amounts. When the irrigation water amount could not meet the crop water need, shallow groundwater may contribute to the crop growing and make up the shortage of water. In this study, deep percolation for Il was remarkably higher than those for I2 and I3 at VO-V6 stages in 2017 and 2018. The deep percolation amounts for I1 were 24.6 and $2 6 . 4 ~ \\mathrm { m m }$ higher than those for I2 and I3 in 2017, respectively, and 38.3 and $4 6 . 9 \\ \\mathrm { m m }$ higher than those for I2 and I3 in 2018, respectively. During the experiment, the upward flux occurred at V6-VT and R3-R6 stages with ranges from 0.9 to $1 2 . 1 \\ \\mathrm { m m }$ . The upward flux was greater for I3 than forI1 and I2,while $\\boldsymbol { Q }$ for I1 was downward at V6-VT stages in 2018 and at R3-R6 stages in 2017 and 2018. $\\boldsymbol { \\mathcal { Q } }$ for all treatments was downward at VT-R3 stages in the two study years,and the deep percolation amounts for I1F1 and I1F2 were remarkably higher than those of other treatments,especially in 2018 (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0328f9c9b5be50d99e08d92cade6d9a82ab1a8d78e5292be039d088ed05770b8.jpg",
+        "table_caption": [
+            "Table 4Water consumption $( \\mathrm { E T _ { c s } } )$ , soil water exchange $( \\boldsymbol { Q } )$ and water consumption coefficient $( K _ { \\mathrm { w c } } )$ of spring maize during different growth stages in 2O17 and 2018 "
+        ],
+        "table_footnote": [
+            "Note:I1,400 mm irrigation; I2,300 mm irrigation;I3,200 mm irrigation; F1, $\\overrightarrow { 3 0 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 } }$ ；F2, $\\overline { { 1 5 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 } } }$ ; VO, sowing stage;V6, six-leaf stage;VT, tasseling stage;R3,grain-filling stage;R6,maturity stage. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td rowspan=\"2\">Treatment</td><td colspan=\"3\">V0-V6 stages</td><td colspan=\"3\">V6-VT stages</td><td colspan=\"3\">VT-R3 stages</td><td colspan=\"3\">R3-R6 stages</td></tr><tr><td>T</td><td>(mm)</td><td>Kwc</td><td></td><td>(mm)</td><td>Kwc</td><td></td><td>(mm)</td><td>Kwc</td><td></td><td>(mm)</td><td>Kwc</td></tr><tr><td rowspan=\"6\">2017</td><td>I1F1</td><td>63.5</td><td>30.8</td><td>0.141</td><td>166.5</td><td>-1.7</td><td>0.371</td><td>85.8</td><td>5.3</td><td>0.191</td><td>133.2</td><td>1.1</td><td>0.297</td></tr><tr><td>I1F2</td><td>60.4</td><td>30.3</td><td>0.135</td><td>164.1</td><td>-0.9</td><td>0.366</td><td>87.1</td><td>7.2</td><td>0.194</td><td>136.4</td><td>1.4</td><td>0.304</td></tr><tr><td>I2F1</td><td>55.0</td><td>5.2</td><td>0.140</td><td>146.0</td><td>-3.6</td><td>0.370</td><td>72.9</td><td>1.5</td><td>0.185</td><td>120.2</td><td>-2.9</td><td>0.305</td></tr><tr><td>I2F2</td><td>52.1</td><td>6.8</td><td>0.133</td><td>144.8</td><td>-3.0</td><td>0.370</td><td>75.8</td><td>1.4</td><td>0.194</td><td>118.3</td><td>-1.6</td><td>0.303</td></tr><tr><td>I3F1</td><td>41.2</td><td>4.2</td><td>0.137</td><td>112.3</td><td>-6.3</td><td>0.373</td><td>57.2</td><td>1.8</td><td>0.190</td><td>90.3</td><td>-1.1</td><td>0.300</td></tr><tr><td>I3F2</td><td>37.2</td><td>4.0</td><td>0.130</td><td>105.7</td><td>-6.4</td><td>0.370</td><td>55.8</td><td>2.8</td><td>0.195</td><td>87.3</td><td>-1.8</td><td>0.305</td></tr><tr><td rowspan=\"6\">2018</td><td>I1F1</td><td>68.8</td><td>40.9</td><td>0.150</td><td>170.6</td><td>11.3</td><td>0.371</td><td>84.4</td><td>19.3</td><td>0.183</td><td>136.0</td><td>22.0</td><td>0.296</td></tr><tr><td>I1F2</td><td>66.4</td><td>46.0</td><td>0.145</td><td>165.6</td><td>10.4</td><td>0.362</td><td>89.8</td><td>21.9</td><td>0.197</td><td>135.2</td><td>18.9</td><td>0.296</td></tr><tr><td>I2F1</td><td>60.8</td><td>13.3</td><td>0.132</td><td>165.6</td><td>-4.1</td><td>0.360</td><td>92.3</td><td>3.3</td><td>0.201</td><td>141.0</td><td>-2.0</td><td>0.307</td></tr><tr><td>I2F2</td><td>62.3</td><td>11.0</td><td>0.135</td><td>168.9</td><td>-5.2</td><td>0.365</td><td>90.1</td><td>4.4</td><td>0.194</td><td>142.1</td><td>-2.2</td><td>0.307</td></tr><tr><td>I3F1</td><td>55.9</td><td>3.7</td><td>0.144</td><td>141.4</td><td>-12.1</td><td>0.363</td><td>74.9</td><td>0.9</td><td>0.193</td><td>117.0</td><td>-9.1</td><td>0.301</td></tr><tr><td>I3F2</td><td>53.2</td><td>3.4</td><td>0.141</td><td>139.9</td><td>-9.9</td><td>0.371</td><td>71.6</td><td>1.3</td><td>0.190</td><td>112.4</td><td>-2.0</td><td>0.298</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Soil salt content ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because of the short interval between the third and fourth irrigations and more rainfall, soil samples before the fourth irrigation were not collected in 2O18. Soil salt contents for Il and I2 were noticeably lower than that for I3 during the two growing seasons (Fig.3). Soil salt content for I3 fluctuated greatly before and after each irrigation event during the two growing seasons. Mean soil salt contents for I2 were $23 . 5 \\%$ and $4 8 . 5 \\%$ lower than those for Il and I3,respectively, in 2017,and $7 . 8 \\%$ and $4 8 . 9 \\%$ lower in 2018 (Fig. 3a and c). Nitrogen fertilizer application rates had litle influence on soil salt content (Fig. 3b and d). Soil salt contents for F1 were $1 . 6 \\%$ and $5 . 5 \\%$ higher than those for F2 in 2017 and 2018,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/48e3dcb77c6198139167285fe2018ec32de5ed8b7a70af87f46dd297226f5dbc.jpg",
+        "img_caption": [
+            "Fig.3Soil salt contents in the $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ soil depth for different irrigation and fertilizer treatments during the growing seasons in 2017 (a and b) and 2018 (c and d) . I1, $4 0 0 ~ \\mathrm { { m m } }$ irrigation; I2, $3 0 0 ~ \\mathrm { { m m } }$ irrigation; I3, $2 0 0 ~ \\mathrm { { m m } }$ irrigation； F1, $3 0 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ；F2， $1 5 0 ~ \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ . Arrows indicate irrigation dates.Bars indicate standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil desalination mainly occurred at VO-V6 stages, when crop water requirement was minimal and soil was the moistest (Table 5). Values of soil desalination for Il and I2 were remarkably higher than that for I3,but there was little difference between F1 and F2.Soil salt accumulation mainly appeared at V6-R6 stages and salt accumulation for I2 was lower than those for I and I3. The variations of soil salt accumulation in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth were 7.9, 5.4, -2.0, -4.0,23.4 and $2 5 . 2 ~ \\mathrm { t / h m } ^ { 2 }$ for I1F1, I1F2, I2F1,I2F2, I3F1 and I3F2 during the whole growing seasons in 2017, respectively, and O.7, 0.3, $- 5 . 7$ ， $- 6 . 4$ ， 18.4 and $2 0 . 2 ~ \\mathrm { t / h m } ^ { 2 }$ in 2018.Because of the high ${ \\mathrm { S S S } } _ { \\mathrm { p } }$ values for I3F1 and I3F2 at V0-R6 stages, the values of $K _ { \\mathrm { v c } }$ were lower than those of other treatments.While the values of $K _ { \\mathrm { v c } }$ for I1F1 and I1F2 were higher than those of other treatments in 2018,because of the lowest ${ \\mathrm { S S S } } _ { \\mathrm { p } }$ values at V0-R6 stages. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Aboveground dry matter, yield and resource use efficiency ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aboveground dry matter accumulation of spring maize for each irrigation and fertilizer treatment combination during the two growing seasons in 2018 and 2018 was presented in Figure 4.In 2017, mean dry matter accumulation was $0 . 9 \\%$ lower for F1 than for F2.I1 and I2 produced $3 6 . 6 \\%$ and $4 4 . 1 \\%$ ， respectively， greater dry matter accumulation than I3 did. However， there was no difference in dry matter accumulation between the two fertilizer treatments under the same irrigation amount. Dry mater accumulation in 2018 presented the same trend as in 2017,but dry matter accumulation at late growth stage in 2018 was $1 1 . 9 \\%$ higher than that in 2017.Dry matter accumulation for I2F2 was $3 1 . 7 \\% - 4 9 . 2 \\%$ higher than those for I3F1 and I3F2 at late growth stage in 2017 and 2O18. This result indicated that moderate irrigation amount and low fertilizer application rate (I2F2) could satisfy the water and nitrogen demands of spring maize growth. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Results of TKW, grain yield, WUE, IWUE and PFP are shown in Table 6. Grain yields were not significantly different among I1F1, I1F2, I2F1 and I2F2 in 2017 and 2018,but the values were significantly higher than those for I3F1 and I3F2.Grain yields for I1F2,I2F1,I2F2,I3F1 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and I3F2 were $0 . 1 \\% { - 3 6 . 2 \\% }$ lower than that for I1F1 in 2017 and $- 7 . 1 \\% - 1 8 . 1 \\%$ lower in 2018.   \nBut grain yields were not significantly diferent between two fertilizer treatments for Il and I2.   \nGrain yield for I3Fl was significantly higher than that for I3F2 in 2017,but not in 2018.   \nThousand kernel weights for different treatments presented the similar trend as grain yield. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0691e2f9beac43ab772f97c9418f1373ad299c7d88d9c85b192b23957b359600.jpg",
+        "table_caption": [
+            "Table 5Soil salt storage ( $\\mathrm { \\ S S S _ { w } }$ and ${ \\mathrm { S S S } } _ { \\mathrm { p } } ^ { \\mathrm { } }$ ）and salt variation coefficient $( K _ { \\mathrm { v c } } )$ of spring maize during different growth stages in 2017 and 2018 "
+        ],
+        "table_footnote": [
+            "Note: $\\mathrm { S S S _ { w } }$ ,the variation of soil salt storage in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth during the whole growth stage; ${ \\mathrm { S S S } } _ { \\mathrm { p } }$ ,the variation of soil salt storage at a special growth period; $K _ { \\mathrm { v c } }$ was the ratio of $\\mathrm { S S S _ { p } }$ to $\\mathrm { S S S _ { w } }$ ；I1, $4 0 0 \\ \\mathrm { m m }$ irrigation; I2, $3 0 0 ~ \\mathrm { { m m } }$ irrigation; I3, $2 0 0 ~ \\mathrm { { m m } }$ irrigation; F1, $3 0 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ ；F2, $1 5 0 \\ \\mathrm { k g } \\ \\mathrm { N / h m } ^ { 2 }$ .V0,sowing;V6,six-leaf stage;VT,tasseling stage;R3,grain-filling stage;R6, maturity stage. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td rowspan=\"2\">Treatment</td><td>V0-R6 stages</td><td colspan=\"2\">V0-V6 stages</td><td colspan=\"2\">V6-VT stages</td><td colspan=\"2\">VT-R3 stages</td><td colspan=\"2\">R3-R6 stages</td></tr><tr><td></td><td>ss</td><td>Kvc</td><td>ss</td><td>Kvc</td><td>sm</td><td>Kvc</td><td>ss</td><td>Kvc</td></tr><tr><td>2017</td><td>I1F1</td><td>7.9</td><td>-29.5</td><td>-3.7</td><td>12.1</td><td>1.5</td><td>16.3</td><td>2.1</td><td>9.1</td><td>1.1</td></tr><tr><td></td><td>I1F2</td><td>5.4</td><td>-35.1</td><td>-6.5</td><td>11.3</td><td>2.1</td><td>17.7</td><td>3.3</td><td>11.5</td><td>2.1</td></tr><tr><td></td><td>I2F1</td><td>-2.0</td><td>-30.8</td><td>15.4</td><td>9.1</td><td>-4.5</td><td>12.8</td><td>-6.4</td><td>6.9</td><td>-3.4</td></tr><tr><td></td><td>I2F2</td><td>-4.0</td><td>-30.4</td><td>7.6</td><td>8.6</td><td>-2.1</td><td>11.3</td><td>-2.8</td><td>6.6</td><td>-1.6</td></tr><tr><td></td><td>I3F1</td><td>23.4</td><td>-19.6</td><td>-0.8</td><td>13.5</td><td>0.6</td><td>21.1</td><td>0.9</td><td>8.5</td><td>0.4</td></tr><tr><td></td><td>I3F2</td><td>25.2</td><td>-17.8</td><td>-0.7</td><td>12.6</td><td>0.5</td><td>21.0</td><td>0.8</td><td>9.4</td><td>0.4</td></tr><tr><td>2018</td><td>I1F1</td><td>0.7</td><td>-33.5</td><td>-47.9</td><td>11.2</td><td>16.0</td><td>14.6</td><td>20.9</td><td>8.4</td><td>12.0</td></tr><tr><td></td><td>I1F2</td><td>0.3</td><td>-32.2</td><td>-107.3</td><td>10.7</td><td>33.3</td><td>12.9</td><td>40.4</td><td>8.6</td><td>27.9</td></tr><tr><td></td><td>I2F1</td><td>-5.7</td><td>-29.1</td><td>5.1</td><td>7.9</td><td>-1.4</td><td>9.8</td><td>-1.7</td><td>5.7</td><td>-1.0</td></tr><tr><td></td><td>I2F2</td><td>-6.4</td><td>-28.5</td><td>4.5</td><td>7.6</td><td>-1.2</td><td>8.1</td><td>-1.3</td><td>6.4</td><td>-1.0</td></tr><tr><td></td><td>I3F1</td><td>18.4</td><td>-21.4</td><td>-1.2</td><td>12.8</td><td>0.7</td><td>19.6</td><td>1.1</td><td>7.5</td><td>0.4</td></tr><tr><td></td><td>I3F2</td><td>20.2</td><td>-18.1</td><td>-0.9</td><td>11.8</td><td>0.6</td><td>18.8</td><td>0.9</td><td>7.8</td><td>0.4</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/026562311e4cadcb57470c90cc00f3f36e697d83a29d41c1210137af1f3ffbfb.jpg",
+        "img_caption": [
+            "Fig.4Dry matter accumulation for each irrigation and fertilizer treatment combination during the growing seasons in 2017 (a) and 2018 (b). I1, $4 0 0 ~ \\mathrm { { m m } }$ irrigation; I2, $3 0 0 ~ \\mathrm { { m m } }$ irrigation; I3, $2 0 0 ~ \\mathrm { { m m } }$ irrigation; F1, $3 0 0 \\mathrm { k g }$ $\\mathrm { { N / h m } } ^ { 2 }$ ；F2, $1 5 0 \\mathrm { ~ k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ .Bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WUE had no significant difference among different treatments. IWUE ranged from 36.4 to 61.4 $\\mathbf { k g } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { m m } )$ . The highest value of IWUE was found for I3F1. Grain yield was much lower in 2017 than in 2018 due to less rainfall in 2017. Therefore,IWUE was lower in 2017 than in 2018. No significant difference in IWUE was found between two fertilizer treatments. IWUE for I2 was higher than that for I1 in 2017 and significantly higher in 2018.IWUE was $1 4 . 7 \\% - 3 4 . 0 \\%$ higher for I2 than for I1 in 2017 and 2018.Although IWUE was higher for I1，grain yield was significantly lower for I1 than for other treatments.PFP was significantly lower for F1 than for F2 in 2017 and 2018.Compared with F1,F2 increased PFP by more than $80 \\%$ . PFP values for Il and I2 were not significantly different, but the values were significantly higher than for I3 in 2017. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebafe379d602f8a10d5fd51f33bbc03ff6837894936517507241cfd5737f0a80.jpg",
+        "table_caption": [
+            "Table 6Grain yield, water use efficiency (WUE),irigation WUE (IWUE)and partial factor productivity (PFP) of nitrogen fertilizer of spring maize under different irrigation and nitrogen treatments in 2Ol7 and 2018 "
+        ],
+        "table_footnote": [
+            "Note: TKW, thousand kernel weights.I1, $4 0 0 ~ \\mathrm { { m m } }$ irrigation; I2, $3 0 0 ~ \\mathrm { { m m } }$ irrigation; I3, $2 0 0 ~ \\mathrm { { m m } }$ irrigation; F1, $3 0 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ ; F2, $1 5 0 \\mathrm { k g }$ $\\mathrm { { N / h m } } ^ { 2 }$ .Values followedbydiferentlowercaseletters withinthesamecolumnaresignificantlydiffrentamongdiferent treatments in the same year according to Duncan's multiple range test $_ { \\it P 1 0 . 0 5 }$ level). "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Treatment</td><td>TKW (g)</td><td>Grain yield (kg/hm²)</td><td>WUE (kg/(hm²·mm))</td><td>IWUE (kg/(hm²·mm))</td><td>PFP (kg/kg)</td></tr><tr><td>2017</td><td>I1F1</td><td>374.5a</td><td>14,678a</td><td>32.7a</td><td>36.7b</td><td>62.4bc</td></tr><tr><td rowspan=\"10\">2018</td><td>I1F2</td><td>383.1a</td><td>14,689a</td><td>32.8a</td><td>36.7b</td><td>124.9a</td></tr><tr><td>I2F1</td><td>329.5b</td><td>12,718a</td><td>32.3a</td><td>42.4ab</td><td>54.1d</td></tr><tr><td>I2F2</td><td>333.3b</td><td>12,526a</td><td>32.1a</td><td>41.8ab</td><td>106.5a</td></tr><tr><td>I3F1</td><td>309.5b</td><td>10,275b</td><td>34.0a</td><td>51.4a</td><td>43.7d</td></tr><tr><td>I3F2</td><td>274.4°</td><td>9361°</td><td>32.7a</td><td>46.8ab</td><td>79.6b</td></tr><tr><td>I1F1</td><td>377.4a</td><td>14,550a</td><td>31.6a</td><td>36.4°</td><td>61.8c</td></tr><tr><td>I1F2</td><td>383.0a</td><td>15,521a</td><td>34.0a</td><td>38.8℃</td><td>132.0a</td></tr><tr><td>I2F1</td><td>371.8a</td><td>14,646a</td><td>31.9a</td><td>48.8b</td><td>62.3c</td></tr><tr><td>I2F2</td><td>370.6a</td><td>15,589a</td><td>33.6a</td><td>52.0b</td><td>132.6a</td></tr><tr><td>I3F1</td><td>358.4b</td><td>12,272b</td><td>31.5a</td><td>61.4a</td><td>52.2</td></tr><tr><td></td><td>I3F2</td><td>353.8b</td><td>11,930b</td><td>31.6a</td><td>59.7a</td><td>101.4b</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.5Response of maize growth to soil water and salt ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the increment of aboveground dry matter (IAGM) and $K _ { \\mathrm { w c } }$ was linear $( R ^ { 2 } { = } 0 . 9 4$ in 2017 and $R ^ { 2 } { = } 0 . 8 9$ in 2018; $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ ), IAGM increased with increases in $K _ { \\mathrm { w c } }$ (Fig. 5a and b). The highest $K _ { \\mathrm { w c } }$ at V6-VT stages promoted the growth of maize. IAGM decreased with increases in soil salt content, thus the lower soil salt content is beneficial to maize growth (Fig. 5c and d). The relationship between grain yield and soil salt content was confirmed by the linear function ( $R ^ { 2 } { = } 0 . 5 1$ in 2017 and $\\scriptstyle { \\bar { R } } ^ { 2 } = 0 . { \\dot { 7 } } 9$ in 2018; $P { < } 0 . 0 1$ )，i.e.，grain yield decreased with increases in soil salt content (Fig. 6). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1Crop water consumption and soil salt content ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The variations of soil water and salinity are highly influenced by the amount of irrigation applied, N fertilizer amounts also affects the transport of soil water and salt (Bu et al., 2O14; Mo et al., 2017;Phogat et al., 2018; Yuan et al., 2019). The excessive nitrogen fertilizer application or over-irrigation will accelerate farmland salinization and damage water quality,resulting in a series of environmental problems (Sun et al.,2018; Li et al., 2020; Zou et al., 2020). Therefore, proper irrigation and fertilizer management is essential for the sustainable development of irrigation agriculture in the HID. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The distribution of soil water in field crops is mainly affected by irrigation, rainfall, atmospheric conditions and soil types.Due to low rainfall, uneven soil texture and atmospheric conditions in this area, the distribution of soil water is mainly affected by irigation amount (Ren et al.,2Ol6). Soil water changes among different treatments demonstrated that soil water decreased only slightly when irrigation was reduced by $2 5 \\%$ . This may be related to deep percolation under high irrigation amount. Seasonal down-flux in the $1 0 0 ~ \\mathrm { c m }$ soil depth (the positive value of water flux) forI1 was 36.7 and $9 2 . 9 \\mathrm { m m }$ in 2017 and 2018,respectively, but that was close to zero for I2(Table 3). Soil water percolation in the $1 0 0 \\mathrm { c m }$ soil depth for I1 was close to $1 0 0 ~ \\mathrm { { m m } }$ in 2018,thus soil water contents between Il and I2 had little difference. Liu et al. (2017） reported similar results that soil water contents between $80 \\%$ （20 $\\mathrm { E T _ { c } }$ and $1 0 0 \\% \\ \\mathrm { E T _ { c } }$ were much close,and their differences were smaller than those measured at early growth stage. Moreover, rainfall in 2018 was greater than in 2017,reaching up to $1 1 0 ~ \\mathrm { m m }$ during the entire maize growing season， thereby weakening the effects of deficit irrigation on soil water distribution to some extent. In this study, soil water content for F2 was slightly higher than that for F1,which may be related to the high water utilization for F1. The similar result was reported in the study of Xue et al. (2019). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/f754d9a9a34b2b294eb7a4dc289118517549e191049ef596f0ba4996772fbf8b.jpg",
+        "img_caption": [
+            "Fig.5Relationships of water consumption coefficient ( $K _ { \\mathrm { w c } }$ ；a and b) and soil salt content(c and d) with increment of aboveground dry matter (IAGM) in 2017 and 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/c02871ecaf69d449b43557c23a9518b0293d7eeb31186f614bb84cad1921a984.jpg",
+        "img_caption": [
+            "Fig.6Relationship between yield and soil salt content in 2O17 (a) and 2018 (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study, the higher $K _ { \\mathrm { w c } }$ at V6-VT and R3-R6 stages,which occurred at the key water requirement periods of maize (Zhang et al.， 2021)， promoted the rapid plant growth and grain-filling (Ali et al.,2O19). These results were in agreement with findings reported by Li et al. (2020b), who found that irrigation water allocation was higher at the maize growth stages in July and August than at other stages. Zhang et al. (2021) also reported the biggest $K _ { \\mathrm { w c } }$ was obtained at V6-VT stages,which was similar with this result. The main reason for the higher $K _ { \\mathrm { w c } }$ could be attributed to the vigorously vegetative growth and the longest duration of growth at this period. In arid region, irrigation is critical water resource for plant growth and yield production, and is also a major contribution to ET. Owing to the higher deep percolation for I1,the difference of ET between Il and I2 was reduced,ET for I1 and I2 had no significant difference in 2O18.This was consistent with Ning et al. (2O21), who reported that crop evapotranspiration had litle diffrence when irrigation amount ranged from $0 . 8 \\mathrm { E T _ { c } }$ to $1 . 1 \\mathrm { E T _ { c } }$ $\\mathrm { E T _ { c s } }$ values forI1F1, I1F2,I2F1 and I2F2 were much higher than those for I3F1 and I3F2 (Table 4). Thus,maize growth and grain-filling were promoted, consequently produced a higher grain yield for I1F1,I1F2, I2F1 and I2F2. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Salt stress inhibits water uptake and results in the relatively low water consumption (Ben-Asher et al.,2006; Jiang et al., 2010). When irrigation occurs, salts move downward with irrigation water and upward with soil evaporation and plant transpiration. High irigation amounts are more likely to result in a series of environmental problems, such as losses of nitrogen and phosphorus, and groundwater pollution (Sharma et al., 20o5; Qadir et al., 2009). Furthermore,high irrigation amounts may lead to salt rebounding after the irigation events (Mailhol et al.,2Oo7). Previous study has showed that excessive irrigation amounts can result in the significant salt leaching (Feng et al.,2Oo5) from vertical infiltration, and a large portion of water horizontally permeates ridges (Chen and Qi, 2013; Chen et al., 2015). After each irrigation event, a large amount of salt can leach to the deep soil layers (Phogat et al., 2018; Du et al.,2019). After a period of intense evaporation, salt may move upward to the surface soil layer (Devkota et al., 2O15). In addition, shallow groundwater level in this area (Fig. 1b) may result in soil salt rebounding after the large amount of irigation. In this study,both I1 and I2 presented good desalination effects,but soil salt was higher for I1 than for I2,especially in 2O17,this may be related to salt rebounding. Owing to more rainfal during non-irrigation period, soil salt rebounding was alleviated, and there was litle difference in soil salt contents between I1 and I2 in 2018 (Fig.3b). Devkota et al. (2015) reported that reducing irrigation amount was conducive to minimizing secondary soil salinization. In our study, the weak effect of salt leaching accompanying with the large interval of soil sampling after each irrigation event resulted in the noticeably higher soil salt content for I3 than for Il and I2 (Fig. 3a and c). In addition, salt leaching mainly occurred in the furrow and some salt might have conceivably been transported to the ridge through the furrow for $2 0 0 ~ \\mathrm { { m m } }$ irrigation amount. Similar results were also reported (Rajak et al., 2006; Chen and Qi, 2013; Chen et al., 2015; Liu et al.,2016). Thus, high and moderate irrigation amounts produced a lower salt environment, which could be beneficial for the growth of spring maize (Ors and Suarez, 2O17; Yang et al., 2019). Less salt leaching at early stages (Vo-V6) and more salt accumulation in the peak water consumption stages (V6-R3) resulted in the higher soil salt storage for I3 than for I1 and I2（Table 5). At V0-V6 stages, soil desalination was higher for I1F1,I1F2,I2F1 and I2F2 than for I3F1 and I3F2.At V6-R6 stages, soil salt accumulation was lower for I2 than for Il and I3,because of the alleviated salt rebounding for Il and the weak salt leaching for I3 (Chen and Qi,2O13; Devkota et al.，2015). Consequently, $\\mathrm { S S S _ { w } }$ for I2F1 and I2F2 were negative (desalination),and soil salt conditions were superior to other treatments at growth stages. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Crop responses to irrigation and N fertilizer ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Generally, crop yield increases as irigation and nitrogen fertilizer increase, but the yield cannot increase obviously with their further increase (Pena-Haro et al., 2009;Wang et al., 2018). As previously reported, researchers found that maize yield was quadratically correlated to irrigation and fertilizer amounts (Zou et al., 2020; Yan et al., 2021). Excessive nitrogen application may lead to overly strong nutrient uptake, delayed maturity and reduced production (Wang et al., 2018). Appropriate irrigation and reduced fertilizer had negligibly negative effects on grain yields (Jin et al.,2O12; Paredes et al.,2O14). This study found that the aboveground dry matter and grain yield had little differences between F1 and F2,but had much difference under different irrigation amounts. The little difference results between F1 and F2 confirmed our hypothesis that $1 5 0 \\mathrm { ~ k g ~ N ~ }$ $\\mathrm { { N / h m } } ^ { 2 }$ is suficient for spring maize under plastic mulched ridge-furrow irrigation. Dry matter accumulation for I2F2 was higher at late growth stages compared with the other treatments (Figs. 2 and 4). The better plant growth resulted in higher grain yield and IWUE for I2F2 in both years (Zhang et al., 2011), especially in 2018. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Reducing the high irrigation amount by $2 5 \\%$ 0 $3 0 0 ~ \\mathrm { m m } )$ ）and reducing the conventional fertilizer amount by $50 \\%$ 0 $( 1 5 0 \\mathrm { ~ k g } \\mathrm { ~ N } / \\mathrm { h } \\mathrm { m } ^ { 2 } )$ ）increased soil moisture and improved soil salinity under plastic mulched ridge-furrow irrigation. With $3 0 0 ~ \\mathrm { m m }$ irrigation amount and $1 5 0 \\mathrm { \\ k g \\ N / h m } ^ { 2 }$ fertilizer amount achieved a comparable aboveground dry matter and grain yield as conventional management,while saved $2 5 \\%$ water and $50 \\%$ fertilizer. In addtion,reducing water and nitrogen inputs increased the partial factor productivity of nitrogen fertilizer and irrigation water use efficiency. Irrigation water use efficiency for $3 0 0 \\mathrm { m m }$ irrigation amonut was $1 4 . 7 \\% - 3 4 . 0 \\%$ higher than that for high irrigation, and compared with conventional fertilizer, $1 5 0 \\mathrm { ~ k g } \\mathrm { ~ N } / \\mathrm { h m } ^ { 2 }$ increased the partial factor productivity of nitrogen fertilizer by more than $80 \\%$ .Therefore,plastic mulched ridge-furrow irrigation with $3 0 0 \\mathrm { m m }$ irrigation amount and $1 5 0 \\mathrm { k g } \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ fertilizer amount can be applied as a promising approach to improve resource use efficiencies and alleviate soil salinization in the HID. The results of this study provide guidelines for appropriate water and nitrogen management for spring maize production in the HID，especially in terms of comprehensively optimizing crop water consumption, soil salinity and grain yield. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (51879224, 51609237) and the Key Research and Development Projects of Shaanxi Province, China (2019NY-190). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ali S,MaXC,Jia QM,etal.2O19.Supplemental irigationstrategyforimprovinggrain fillng,economicreturn,and production in winter wheat under the ridge and furow rainwater harvesting system.Agricultural Water Management,226: 105842.   \nBen-Asher J,Tsuyuki I,BravdoBA,etal.2Oo6.Irigationof grapevines withsaline water-.Leaf area index,stomatal conductance,transpiration and photosynthesis.Agricultural Water Management, 83(1-2):13-21.   \nBezborodovGA,ShadmanovDK,Mirhashimov RT,etal.2O10.Mulching and waterquality efectsonsoil salinityand sodicitydynamics and cotton productivity in CentralAsia.Agriculture Ecosystems &Environment,138(1-2):95-102.   \nBuLD,LiuJL,ZhuL,etal.20l4.Atainableyieldachievedforplasticfilm-mulched maizeiresponse to nitrogendeficit. European Journal of Agronomy,55(2): 53-62.   \nChenLJ,Feng Q.2013.Soil water and salt distribution under furrowirigation of saline water with plastic mulch on ridge. Journal of Arid Land, 5(1): 60-70.   \nChenLJ,FengQ,LiFR,etal.2O15.Simulationofsoilwaterandsalt transferundermulchedfurrowirrigationwithsaline water. Geoderma,241-242:87-96.   \nCheng ZB,Chen Y,ZhangFH.2019.Efect of cropping systems after abandoned salinized farmland reclamationon soil bacterial communities in arid northwest China.Soil and Tillage Research,187:204-213.   \nDevkotaM,GuptaRK,MartiusC,etal0l5.Soilsalinitymanagementonraisedbeds withdiferentfurrowirrigationmodes in salt-affected lands.Agricultural Water Management,152:243-250.   \nDong HZ,LiWJ,EnejiAE,etal.2O12.Nitrogenrateand plantdensityeffctsonyieldandlate-seasonleafsenescenceof cotton raised on a saline field.Field Crops Research,126:137-144.   \nDongQG,YangYC,ZhangTB,etal.2018.Ipacts ofidge ithplastic mulch-furrowirigationonsoilsalinity,spring ize yield and water use efficiency in an arid saline area.Agricultural Water Management,2O1: 268-277.   \nDuL,Zheng Z,LiT,etal20l9.Efctsofirrigationfrequencyontransportationandaccumulationregularityof greouse soil salt during different growth stages of pepper. Scientia Horticulturae,256:108568.   \nEll MKA,ShalabyEE.993.Cottonresponse toslinitynddierentpotassium-sodumatioiniigationwateJouralof Agronomy and Crop Science,170: 25-31.   \nFeng ZZ,Wang XK,FengZW.2Oo5.SoilNandsalinityleachingaftertheautumirrigationandits impactongroundwaterin Hetao Irrigation District, China. Agricultural Water Management,71(2):131-143.   \nGuo S,Jiang R,QuHC,etal.2019.Fateand transportofurea-Ninarain-fedridge-furowcropsystem withplasticmulch. Soil and Tillage Research,186: 214-223.   \nJiangJ,FengSY,HuoZLetalO1.Efectofgationwithsaliewaterosoilwatersaltdyamicsandaizeyeldinarid   \nJinLB,CuiHY,LiB,tal.12.Efectsofintegatedagronoicaagementpracticesoyieldadrogenfcicyof summer maize in North China.Field Crops Research,134:30-35.   \nLi CJ,XiongYW,Cui Z,etal.202o.Effectofirrigationandfertilizationregimesongrainyield,waterandnitrogen productivityof mulching cultivated maize (Zeamays L.)in the Hetao Irigation Districtof China.Agricultural Water Management, 232: 106065.   \nLiX M,Zhang CL,Huo ZL,etal.22.Asustainable irigation watermanagement framework coupling water-salt processes simulation and uncertain optimization in an arid area.Agricultural Water Management, 231: 105994.   \nLiXY,GongJD.22.Efectsofdiferentridge:furrowratiosandsupplementalirrigationoncropproduction inridge and furrow rainfall harvesting system with mulches. Agricultural Water Management, 54(3): 243-254.   \nLiu HJ,Wang X M,Zhang X,et al.20l7.Evaluationon theresponsesof maize (Zea maysL.)growth,yield and wateruse effciency todrip irrigation waterunder mulch condition inthe Hetao irigation Districtof China.Agricultural Water Management, 179: 144-157.   \nLiu XE,LiXG,HaiL,etal.214.Howeficientisfimfull-mulchedidge-furowcroppig toonserveainfallisoilat rainfed site? Field Crops Research,169:107-115.   \nMaY,Feng SY,HuoZL,etal.2011.ApplicationoftheSWAPmodeltosimulate thefieldwatercycleunderdeficitigation in Beijing,China.Mathematical & Computer Modelling,54(3-4):1044-1052.   \nMaas E,Hoffman G.1983.Salt sensitivity of corn at various growth stages.Irrigation Science,4(1): 45-57.   \nMailholJC,CrevoisierD,TrikiK.2007.Impactof waterapplicationconditionsonnitrogen leachingunder furrowirigation: Experimental and modelling approaches.Agricultural Water Management,87(3): 275-284.   \nMoF,Wang JY,Zhou H,etal.20l7.Ridge-furowplastic-mulchingwithbalancedfertilizationinrainfedmaize(Zea maysL.): An adaptive management in east African Plateau.Agricultural and Forest Meteorology,236: 100-112.   \nNing SR,ZhouBB,ShiJC.2021.Soil water/salt balanceand waterproductivityof typicalirigation schedules forcotton under film mulched drip irrigation in northern Xinjiang. Agricultural Water Management, 245: 106651.   \nOrs S,SuarezDL.2O17Spinach biomass yieldand physiologicalresponse to interactive salinityand water stress.Agricultural Water Management, 190: 31-41.   \nParedes P,de Melo-breuJP,Alves I,etal.2014.Asssing the performanceof theFAOAquaCrop model to estimate maize yields and wateruse under fulland deficit irigation with focus onmodel parameterization.Agricultural Water Management, 144: 81-97.   \nPeia-Haro S,Pulido-Velazquez M,SahuquillA.2O09.Ahydro-economic modelling framework foroptimal managementof groundwater nitrate pollution from agriculture.Journal of Hydrology, 373(1): 193-203.   \nPhogat V,PitT,CoxJW,etal.218.Soil waterandsalinitydyamics undersprinkleririgatedalmond exposedtoavaried salinity stress at different growth stages.Agricultural Water Management, 201: 70-82.   \nPorhemmatJ,NakhaeiM,AltafiDadgarM,etal.2018.Investigating theeectsofrigationmethodsonpotentialgroudwater recharge: A case study of semiarid regions in Iran.Journal of Hydrology, 565: 455-466.   \nQadir M,NobleAD,Qureshi AS,etal.2Oo9.Salt-inducedlandand waterdegradationintheAral Seabasin:achallenge to sustainable agriculture in Central Asia. Natural Resources Forum, 33(2): 134-149.   \nRajak D,Manjunatha MV,RajkumarGR,etal.2O06.Comparative effectsofdripand furrow irrigationontheyield nd water productivityof coton(Gossypium hirsutum L.）inasalineand waterloggedvertisol.Agricultural Water Management, 83(1-2): 30-36.   \nRen D Y, Xu X,Hao YY,et al.2016.Modeling and assessng field irigation wateruse inacanal systemof Hetao,upper Yellow River basin: Application to maize,sunflower and watermelon. Journal of Hydrology,532: 122-139.   \nSharmaBR,Minhas PS,Ragab R.2Oo5.Strategies for managingsaline/alkali waters forsustainable agriculturalproduction. Agricultural Water Management,78(1-2): 136-151.   \nSun M,HuoZL,Zheng YX,etal.2O18.Quantifying long-termresponses ofcrop yieldandnitrate leaching inanintensive farmland using agro-eco-environmental model. Science of The Total Environment,613-614: 1003-1012.   \nTong WJ, Chen XL, Wen X Y,etal.2015.Applyingasalinityresponse functionandzoningsaline landforthreefield crops: a case study inthe Hetao Irrigation District,Inner Mongolia, China.Journal ofIntegrative Agriculture,14(1):178-189.   \nWang H,Wang CB,Zhao XM,etal.2015.Mulching increases water-use eficiencyof peach productionontherainfed semiarid Loess Plateau of China.Agricultural Water Management,154: 20-28.   \nWang HD,WuLF,ChengMH,etal.2O18.Couplingefectsofwaterand fertilizeronyield,waterandfertilizeruseeficiency of drip-fertigated cotton in northern Xinjiang, China.Field Crops Research,219:169-179.   \nWang XM,LiuHJ,ZhangL W,et al.2O14.Climatechange trendanditsefectsonreferenceevapotranspirationatLinhe Station,Hetao Irrigation District.Water Science and Engineering,7(3):250-266.   \nWang ZK,WuPT,ZhaoXN,etal.20l3.Mathematical simulationofsoil evaporationfrom wheat/maize intercroppingfield. Transactions of the Chinese Society of Agricultural Engineering,29(21): 72-81.   \nWeiY,Shi Z,iswasA,etal.020.Updatedinformationonsoilsalinityinatypicaloasisagroecosystemanddesertasis ecotone: Case study conducted along the Tarim River, China.Science of The Total Environment,716:135387.   \nXue G,Liu H,Peng Y,etal.2019.Plasticfilmmulchingcombined ithutrient managementtoimprove wateruse effciency production of rain-fed maize and economic returns in semi-arid regions.Field Crops Research,231: 30-39.   \nYanFL,ZhangFC,FanXK,etal.2021.Determiningirrgatioamountandfertilizationrate tosimultaneouslyoptimizegrain yield,grain nitrogen accumulationand economic benefitof drip-fertigatedspring maize in northwest China.Agricultural Water Management, 243:106440.   \nYangH,DuTS,MaoXM,etal.20l9.Acomprehensive methodofevaluatingthe impactofdroughtandsalt stressontomato growth and fruit quality based on EPIC growth model. Agricultural Water Management, 213: 116-127.   \nYu Q,Wang H,WenP,etal.22o.Asuitablerotationalconservationtillagesystemamelioratessoilphysical propertiesand wheat yield: An1l-year in-situ study inasemi-arid agroecosystem.Soil and Tillge Research,199:104600.   \nYuanCF,FengSY,HuoZL,etal.2019.Efectsofdficitrigationwithsaline wateronsoilwater-saltdistributioandwater use efficiencyof maize for seed production inarid Northwest China.Agricultural Water Management,212: 424-432.   \nZeng W Z,XuC,WuJW,et al.2014.Impactsofsalinityand nitrogenonthe photosyntheticrate and growthofsunflowers (Helianthus annuus L.).Pedosphere,24(5):635-644.   \nZhangDM,LiWJ,XinCS,etal.2012.Lintyieldandnitrogenuseeficiencyoffeld-growncotonvarywithsoilsalinityand nitrogen application rate.Field Crops Research,138: 63-70.   \nZhang HM,XiongYW,Huang GH,etal20l6.Efectsof waterstressonprocessing tomatoes yield,qualityand wateruse eficiency with plastic mulcheddripirrigationinsandysoilof the Hetao IrigationDistrict.Agricultural Water Management, 179:205-214.   \nZhang SL,LiPR,YangXY,et al.2O11.Efectsoftillageand plastic mulchonsoil water,growthand yieldofspring-sown maize. Soil and Tillage Research,1l2(1): 92-97.   \nZhangY,MaQ,LiuDH,etal.2O18.Efectsofdierentfertilizerstrategiesonsoil waterutilizationandmaizeyieldinthe ridge and furowrainfallharvestingsystem in semiaridregionsofChina.Agricultural Water Management,208: 414-421.   \nZhao YG,Pang HC,Wang J,etal.2014.Efectsofstraw mulchand buried strawonsoil moistureandsalinityinrelationto sunflower growth and yield.Field Crops Research,161(1385): 16-25.   \nZhou LM,LiFM,Jin SL,etal2O09.How tworidgesandthe furrow mulched with plastic filmafectsoil water,soil temperature and yield of maize on the semiarid Loess Plateau of China.Field Crops Research,113(1): 41-47.   \nZou HY,FanJL,ZhangFC,etal2020.Optimizationofdripirigationandfertilizationregimes forhigh grainyield,crop waterproductivity and economic benefits of spring maize in Northwest China.Agricultural Water Management,230: 105986. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

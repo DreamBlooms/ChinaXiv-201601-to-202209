@@ -1,0 +1,206 @@
+# 金佛山方竹经营对扁刺考群落物种多样性和优势种种群结构的影响
+
+王静梅，周礼华，黄力，胡四维，靳程，杨永川（重庆大学三峡库区生态环境教育部重点实验室，重庆400045）
+
+摘要：为探讨金佛山方竹经营对扁刺考群落物种多样性和优势种种群结构的影响，该研究以金佛山的扁刺考自然群落和方竹经营群落为研究对象，分析了两类群落的物种组成特征、物种多样性及优势种种群结构。结果表明：（1）两种群落内共记录维管束植物84种，隶属于40科63属，以樟科、蔷薇科、壳斗科、山茶科物种为主；扁刺考为群落优势种，中华木荷和灰柯为次优种，金佛山方竹为灌木层优势种，其群落组成与亚热带其他地区的扁刺栲群落相似。（2）方竹经营群落的灌木层物种丰富度显著低于自然群落，草本层 Shannon-Wiener指数和 Pielou指数均显著低于自然群落。（3)扁刺栲和灰柯在自然群落中为稳定型种群，而在方竹经营群落中为衰退型种群，中华木荷在两类群落中均为衰退型种群。（4）自然群落中扁刺栲、中华木荷、灰柯种群的萌枝率、有萌个体率和幼苗优势度均高于方竹经营群落。综上结果表明，金佛山方竹经营对金佛山扁刺考群落灌木层和草本层物种多样性产生了负面影响，并显著影响扁刺栲群落优势种种群更新和维持。
+
+关键词：方竹经营，扁刺栲，物种多样性，种群结构，金佛山中图分类号：S718.54 文献标志码：A
+
+# Effects of Chimonobambusa utilis management on the species diversity and dominant populations structure of Castanopsis platyacantha
+
+# community in Jinfo Mountain
+
+WANG Jingmei, ZHOU Lihua, HUANG Li, HU Siwei, JIN Cheng, YANG Yongchuan\* ( Key Laboratory of Three Gorges Reservoir Region's Eco-Environment of Ministry of Education, Chongqing University, Chongqing 400045, China）
+
+Abstract: To explore the impact of Chimonobambusa utilis management on species diversity and dominant populations structure of Castanopsis platyacantha community in Jinfo Mountain, the natural and the managed community of Castanopsis platyacantha in Jinfo Mountain were used as the research object to analyze species composition characteristics,species diversity and dominant populations structure in two communities.The results were as follows: (1)A total of 84 vascular plants in the plots werefound,belonging to 40 families and 63 genera, dominated by Lauraceae, Rosaceae, Fagaceae and Theaceae; Castanopsis platyacantha was the dominant species in the community,Schima sinensis and Lithocarpus henryi were the subordinates and Chimonobambusa utilis was the dominant species in the shrub layer, which the species composition of Castanopsis platyacantha community in Jinfo Mountain was similar to other subtropical regions.(2） The species richness of the shrub layer of the managed community was significantly lower than that of the natural community,the Shannon-wiener index and Pielou index of the herb layer was significantly lower than that of the natural community.(3） Dominant tree species Castanopsis platyacantha and Lithocarpus henryi in the natural community were of stable populations, but those were of declining populations in the managed community,and Schima sinensis in two communities appeared to be in decline.(4） The ratio of total sprouts to total individuals,number of multi-stemmed individuals/number of allindividuals and seedling relative dominance value of Castanopsis platyacantha, Schima sinensis and Lithocarpus henryi in the natural community were higher than in the management community. In conclusion,the Chimonobambusa utilis management have a negative impact on the species diversity with the strongest on the shrub and herb layers of Castanopsis platyacantha community in Jinfo Mountain, indicating managed activities significantly affect the renewal and maintenance of the dominant species in Castanopsis platyacantha community.
+
+Keywords: Chimonobambusa utilis management， Castanopsis platyacantha， species diversity， populationsstructure， Jinfo Mountain
+
+物种多样性是生态系统的本质特征，维持群落物种多样性对生态系统稳定具有重要意义（徐炜，2016)。随着人类活动日益频繁，人为干扰已成为影响生物多样性的主要因素（Lefevr et al.,2012; Ribeiro et al.,2016）。近年来，国内外对林木间伐、林业经营、旅游活动等不同形式的人为干扰对植物群落影响的研究广泛（郝建锋等，2016；Utaile etal.,2020；林建勇等，2020），表明不当人为干扰对森林群落结构及物种多样性具有显著的负面影响，不利于森林植物资源的保护及其功能的发挥。因此，研究人为干扰对森林群落物种多样性和种群结构的影响，对指导森林资源保护和林区可持续经营和管理具有重要意义。
+
+亚热带常绿阔叶林是东亚地区最典型的地带性植被类型，发挥着极其重要的生态系统服务功能（宋永昌，2013）。扁刺栲（Castanopsis platyacantha）群落为中国西南山地亚热带常绿阔叶林典型代表群落之一，在重庆、贵州、四川和云南等地广泛分布（宋永昌，2004)。近年来，针对扁刺栲群落的研究主要集中于四川峨眉山、瓦屋山、红灵山，云南乌蒙山等地，研究内容主要集中在其地理分布、群落结构及物种多样性、种群格局等方面（杨一川等，1994；包维楷和刘照光，2002；杜燕等，2019；周杰等，2019）。前人研究表明，小径竹类入侵是扁刺栲群落维持面临的主要问题之一，竹类可通过竹冠层、茎秆、根系、竹叶凋落物等多重因素直接或间接地阻碍林内乔木幼苗幼树的生长，导致森林群落物种组成和多样性的改变（Liet al., 2014; Kong et al., 2017; Qian et al., 2019)。
+
+重庆金佛山分布有十分典型的扁刺栲群落，但目前针对重庆金佛山扁刺栲群落特征研究鲜有报道，仅少量文献粗略记录到其群落分布地（马声远等，1998)。金佛山扁刺栲群落主要分布在东南坡海拔 $1 7 0 0 \sim$ $1 9 0 0 \mathrm { m }$ 范围内，金佛山方竹（Chimonobambusautilis）在林下大面积分布，并在灌木层成为优势种甚至是单优种（易思荣等，2012)。金佛山方竹经营有着悠久的历史，方竹采集和经营管理活动广泛存在。实际上，长期的竹笋采收和竹林管理等活动已经被发现对珙桐（Davidiainvolucrata）这类第三纪子遗植物种群的更新和维持产生了负面影响（Qian etal.,2017)。目前金佛山方竹入侵和人为干扰对扁刺考群落物种组成及其多样性和种群结构产生的影响仍不明确。
+
+该研究对金佛山扁刺考群落进行了全面的调查，并通过对比研究有无方竹经营活动的两类扁刺栲群落的物种组成特征和优势种种群结构，明确金佛山方竹经营对扁刺栲群落物种多样性和种群更新的影响，以期为亚热带山地扁刺考群落的管理和可持续保护提供科学依据。
+
+# 1材料与方法
+
+# 1.1研究区概况
+
+金佛山国家级自然保护区位于中国西南山地，重庆市南川区境内（ $1 0 7 ^ { \circ } 0 0 ^ { \prime }$ 一 $1 0 7 ^ { \circ } 2 0 ^ { \prime }$ E、 $2 8 ^ { \circ } 5 0 ^ { \prime } - 2 9 ^ { \circ } 2 0 ^ { \prime }$ N)。金佛山位于云贵高原向四川盆地的过渡带，最高海拔 $2 2 3 8 \mathrm { m }$ ，海拔高差约 $1 6 0 0 \mathrm { m }$ ，属于典型的喀斯特地貌。该区属于亚热带湿润季风气候，气候垂直变化明显,年均温为 $1 2 . 3 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ,年平均降雨量为 $1 \ 4 3 4 . 3 \ \mathrm { m m }$ （周礼华等，2019)。土壤类型主要为黄壤、黄棕壤、石灰土及少量亚高山草甸土（张治伟等，2017）。主要植被类型为亚热带常绿阔叶林、常绿落叶和阔叶混交林、山地矮林、针叶林、灌丛和草甸等（马声远等，1998)。
+
+# 1.2样地设置与样方调查
+
+于 2018 年11月对金佛山东南坡的扁刺栲群落进行调查。在扁刺栲群落的典型分布区设置6个 $2 0 \times 3 0$ $\mathbf { m }$ 的调查样方，其中 A1-A3 为扁刺考自然群落（无金佛山方竹经营活动)，B1-B3为扁刺栲方竹经营群落（有金佛山方竹经营活动，主要为竹笋采收、竹林间伐、护笋养竹、林下灌丛杂木以及乔木萌枝修剪等人为干扰)，详见表1。对样方内所有高度大于 $1 . 3 \mathrm { m }$ 的木本植物进行每木调查，记录胸径、树高和株数，对$1 . 3 \mathrm { m }$ 以下的个体测量其高度和盖度（Tang&Ohsawa,1997）。植株按照实生个体和萌生个体分别统计（商侃侃等，2018)，另外，记录其幼苗株数、测量高度和盖度。根据样地植被情况，将 $H \geq 5 { \mathrm { ~ m ~ } }$ 的植株划分为乔木层， $1 . 3 \ : \mathrm { m } \leq H < 5 \ : \mathrm { m }$ 的植株划分为灌木层，其余划分为草本层（樊海东等，2019)。野外未识别出的物种拍照记录后采集标本，在室内进行鉴定。
+
+表1重庆金佛山调查样方基本信息  
+
+<html><body><table><tr><td colspan="2">Table 1</td><td colspan="4">Basic information of plots in Jinfo Mountain, Chongqing</td></tr><tr><td>样地编号</td><td>样地面积Plot</td><td>经纬度</td><td>海拔(m)</td><td>坡向</td><td>坡度</td><td>金佛山方竹密度</td></tr><tr><td>Plot ID</td><td>area(m2)</td><td>Latitude and Longitude</td><td>Elevation</td><td>Aspect</td><td>Slope</td><td>The density of Chimonobambusa utilis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>（株/m²）</td></tr><tr><td>A1</td><td>600</td><td>107°11.863'E、2900.328'N</td><td>1897</td><td>S191°</td><td>15°</td><td>0.56</td></tr><tr><td>A2</td><td>600</td><td>107°11.846'E、29°00.280'N</td><td>1904</td><td>ES149°</td><td>10°</td><td><0.10</td></tr><tr><td>A3</td><td>600</td><td>107°11.845'E、29°00.339'N</td><td>1910</td><td>EN37°</td><td>35°</td><td>0.50</td></tr><tr><td>B1</td><td>600</td><td>107°11.740'E、29°00.401'N</td><td>1973</td><td>NE15°</td><td>30°</td><td>1.24</td></tr><tr><td>B2</td><td>600</td><td>107°11.308'E、29°00.213'N</td><td>1987</td><td>WS200°</td><td>5°</td><td>1.40</td></tr><tr><td>B3</td><td>600</td><td>107°11.825'E、29°00.206'N</td><td>1905</td><td>SE168°</td><td>30°</td><td>1.52</td></tr></table></body></html>
+
+# 1.3数据处理
+
+# 1.3.1优势种确定
+
+参考马克平等（1995）、张金屯（2011）的方法，通过计算乔木层、灌木层、草本层各物种的重要值衡量物种优势度，采用优势度分析法确定优势种（Ohsawa,1984）。
+
+乔木层、灌木层重要值 $\mathbf { \Sigma } = \mathbf { \Sigma }$ （相对密度 $^ +$ 相对高度 $^ +$ 相对显著度)/3
+
+$$
+d = { \frac { 1 } { N } } \left\{ \sum _ { i \in T } ( x _ { i } - { \overline { { x } } } ) ^ { 2 } + \sum _ { j \in U } x _ { j } { } ^ { 2 } \right\}
+$$
+
+式（3）中： $N$ 为物种总数， $x _ { i }$ 表示将重要值降序排列后，排在前列的物种的重要值， $x$ 表示以优势种数量确定的优势种理想百分比， $x _ { j }$ 为剩余种的百分比。即如果只有1个优势种，那么优势种的理想百分比为 $100 \%$ ；如果有2个优势种，则理想百分比为 $50 \%$ ；如果有3个优势种，则理想百分比为 $3 3 . 3 \%$ ，依次类推。
+
+# 1.3.2群落多样性的测度
+
+计算不同群落各层次的多样性指数，采用物种丰富度 $R$ 、Shannon-Wiener 指数 $H$ 、Simpson指数 $D$ 、Pielou指数 $E$ （马克平等，1995；张金屯，2011)。
+
+$$
+R = S
+$$
+
+$$
+H = - \sum _ { i = 1 } ^ { s } P _ { i } l n P _ { i }
+$$
+
+$$
+D = \sum _ { i = 1 } ^ { s } { P _ { i } ^ { 2 } }
+$$
+
+$$
+E = H / l n S
+$$
+
+式（4）、（5）、（6)、（7）中： $s$ 为样地内的物种数； $P _ { i } = N _ { i } / N$ ： $N$ 为样地群落物种总重要值； $N _ { i }$ 为第 $i$ 个种的重要值。
+
+# 1.3.3种群结构
+
+根据样地树种分布情况，对乔木优势树种分别进行径级和高度级的划分（Zhuetal.,2010)：（1）径级结构。根据个体大小划分为I级幼苗 $H < 1 . 3 ~ \mathrm { m }$ ；Ⅱ级幼树 $D B H < 5 \ \mathrm { c m }$ 且 $H \ge 1 . 3 \mathrm { m }$ ；IⅢ级中树 $5 \mathrm { c m } \le D B H <$ $1 0 \mathrm { c m }$ ；IV级大树 $1 0 \mathrm { c m } \le { \cal D } B H < 1 5 \mathrm { c m }$ ，V级大树 $D B H \geq 1 5 \mathrm { c m }$ ；（2）高度结构。高度级划分为I级 $H < 1 . 3$ m；Ⅱ级 $1 . 3 ~ \mathrm { m } \le H < 5 ~ \mathrm { m }$ ；Ⅲ级 $5 \mathrm { m } \le H < 1 0 \mathrm { m }$ ；IV级 $1 0 \mathrm { m } \le H < 1 5 \mathrm { m }$ ， $\mathrm { \Delta V }$ 级 $H \geq 1 5 \mathrm { m }$ ；（3）乔木优势种植株按照实生个体和萌生个体分别统计，计算每个乔木优势种的萌枝率 $R S$ 和有萌个体率PMSI(Nanami et al.,2004)；（4）幼苗相对优势度 $R D$ 参考Ohsawa&Kitazawa(2002)的方法进行计算。
+
+$$
+\textstyle R D = { \bigl ( } H _ { i } \times C _ { i } { \bigr ) } { \bigl / } \sum _ { i = 1 } ^ { n } { \bigl ( } H _ { i } \times C _ { i } { \bigr ) }
+$$
+
+式（10）中： $H _ { i }$ 为第 $i$ 种的最大高度 $\mathrm { { ( m ) } }$ ; $C _ { i }$ 为第 $i$ 种的盖度 $( \% )$
+
+采用单因素方差分析（one-Way ANOVA）和最小显著差异法（LSD）检验两类群落各层次物种多样性指数的显著性差异（ $P = 0 . 0 5$ )。
+
+# 2结果与分析
+
+# 2.1扁刺考群落特征
+
+金佛山6个样方共含维管束植物40科63属84种。其中蕨类植物2科3属3种；种子植物包括裸子植物1科1属1种；被子植物37科59属80种，占样地物种数的 $9 5 . 2 4 \%$ ，是群落的主要组成成分。群落物种以樟科和蔷薇科占优势，物种数分别占 $1 0 . 7 1 \% . 9 . 5 2 \%$ ；其次为壳斗科、禾本科、山茶科，分别占 $7 . 1 4 \%$ 、$5 . 9 5 \%$ 、 $5 . 9 5 \%$ ；另外寡种科（1\~2种）有34个科，累计占群落物种数的 $5 7 . 1 6 \%$ ，其中单属单种科占 $2 3 . 8 4 \%$ (表2）。
+
+表2金佛山扁刺考群落物种组成  
+Table 2 Species composition of Castanopsis platyacantha community in Jinfo Mountain   
+
+<html><body><table><tr><td>序号 Number</td><td>科</td><td>属 Genus</td><td>种 Species</td><td>比例</td></tr><tr><td>1</td><td>Family 樟科 Lauraceae</td><td>4</td><td>9</td><td>Proportion (%) 10.71</td></tr><tr><td>2</td><td>蔷薇科 Rosaceae</td><td>4</td><td>8</td><td>9.52</td></tr><tr><td>3</td><td>壳斗科 Fagaceae</td><td>4</td><td>6</td><td>7.14</td></tr><tr><td>4</td><td>禾本科 Poaceae</td><td>4</td><td>5</td><td>5.95</td></tr><tr><td>5</td><td>山茶科 Theaceae</td><td>3</td><td>5</td><td>5.95</td></tr><tr><td>6</td><td>槭树科 Aceraceae</td><td>1</td><td>3</td><td>3.57</td></tr><tr><td>7</td><td>安息香科 Styracaceae</td><td>2</td><td>2</td><td>2.38</td></tr><tr><td>8</td><td>菝葜科 Smilacaceae</td><td>1</td><td>2</td><td>2.38</td></tr><tr><td>9</td><td>百合科 Liliaceae</td><td>2</td><td>2</td><td></td></tr><tr><td>10</td><td>冬青科 Aquifoliaceae</td><td>1</td><td>2</td><td>2.38 2.38</td></tr></table></body></html>
+
+<html><body><table><tr><td>11</td><td>豆科Fabaceae</td><td>2 2</td><td>2.38</td></tr><tr><td>12</td><td>杜鹃花科 Ericaceae</td><td>2 2</td><td>2.38</td></tr><tr><td>13</td><td></td><td>2</td><td>2.38</td></tr><tr><td></td><td>菊科 Compositae</td><td>2</td><td></td></tr><tr><td>14 15</td><td>鳞毛蕨科Dryopteridaceae</td><td>2 2 2</td><td>2.38</td></tr><tr><td>16</td><td>木兰科 Magnoliaceae</td><td>2</td><td>2.38</td></tr><tr><td>17</td><td>木通科 Lardizabalaceae</td><td>1 2</td><td>2.38</td></tr><tr><td></td><td>山矾科 Symplocaceae</td><td>1 2</td><td>2.38</td></tr><tr><td>18</td><td>山茱萸科 Cornaceae</td><td>2 2</td><td>2.38</td></tr><tr><td>19</td><td>卫矛科 Celastraceae</td><td>1 2</td><td>2.38</td></tr><tr><td>20</td><td>小檗科Berberidaceae</td><td>2</td><td>2 2.38</td></tr><tr><td>21</td><td>其他单种单属科 Other single species</td><td>20 20</td><td>23.84</td></tr></table></body></html>
+
+扁刺栲自然群落垂直分层明显，可分为乔木层、灌木层和草本层三层。乔木层高达 $2 6 \mathrm { m }$ ，共计树种13 科21属 26种，以壳斗科（Fagaceae）、山茶科（Theaceae）和樟科（Lauraceae）为主，建群种和优势种为扁刺栲，次优势种和共建种为中华木荷（Schima sinensis）、灰柯（Lithocarpus henryi）、小果冬青（lexmicrococca）、曼青冈（Cyclobalanopsisoxyodon）。灌木层高 $4 . 5 \mathrm { m }$ ，共计12 科18属21种，以禾本科(Poaceae)和壳斗科为主，金佛山方竹占绝对优势，含少量扁刺栲、格药柃（Eurya muricata）、川黔润楠（Machiluschuanchienensis）个体。草本层平均盖度 $2 1 . 6 7 \%$ ，物种丰富，分布较均匀，共计26科42属49 种，含鳞毛蕨科（Dryopteridaceae）、凤仙花科（Balsaminaceae）、壳斗科等植物，由扁刺栲、鳞毛蕨（Dryopteris Adanson）、近轮叶木姜子（Litsea elongata var.subverticilata）、黄金凤（Impatiens siculifer）等物种组成（图1，表3）。
+
+表3扁刺考自然群落各层次主要物种及其重要值（基于A1-A3） Table 3Main species and importance index of different layers in Castanopsis platyacantha natural community (based on A1-A3)   
+
+<html><body><table><tr><td>层次 Layer</td><td>物种</td><td>重要值 Importance index</td></tr><tr><td rowspan="7">乔木层 Tree layer</td><td>Species</td><td>0.29</td></tr><tr><td>扁刺栲 Castanopsisplatyacantha 中华木荷 Schima sinensis</td><td></td></tr><tr><td>灰柯Lithocarpus henryi</td><td>0.10 0.09</td></tr><tr><td>小果冬青 Ilex micrococca</td><td>0.04</td></tr><tr><td>曼青冈Cyclobalanopsis oxyodon</td><td>0.03</td></tr><tr><td>其余 21 种 The 21 remaining species</td><td>0.45</td></tr><tr><td>金佛山方竹 Chimonobambusa utilis</td><td>0.61</td></tr><tr><td>灌木层</td><td>格药柃 Eurya muricata*</td><td>0.04</td></tr><tr><td>Shrub layer</td><td>扁刺栲 Castanopsis platyacantha</td><td>0.03</td></tr><tr><td rowspan="8"></td><td></td><td></td></tr><tr><td>川黔润楠 Machilus chuanchienensis</td><td>0.03</td></tr><tr><td>其余17 种 The 17 remaining species</td><td>0.29</td></tr><tr><td>扁刺栲Castanopsis platyacantha</td><td>0.06</td></tr><tr><td>鳞毛蕨DryopterisAdanson</td><td>0.06</td></tr><tr><td>近轮叶木姜子 Litsea elongatavar.subverticillata</td><td>0.05</td></tr><tr><td>黄金凤Impatiens siculifer</td><td>0.03</td></tr><tr><td>中华木荷 Schima sinensis</td><td>0.04</td></tr></table></body></html>
+
+包括 $H { > } 1 . 3 \mathrm { m }$ 的所有木本植物。Including all woody plants with $H > 1 . 3 \mathrm { m }$
+
+![](images/96e5dbb665908c5858ec6897873a691847a87a38561414a30b3661020f01bb8d.jpg)  
+图1扁刺考自然群落垂直结构  
+Fig.1Height structure of Castanopsis platyacantha natural community
+
+# 2.2金佛山方竹经营对群落物种多样性的影响
+
+方竹经营群落的灌木层物种丰富度显著低于自然群落，草本层 Shannon-Wiener 指数和Pielou指数均显著低于自然群落，Simpson 指数显著高于自然群落（图2），金佛山方竹经营对草本层和灌木层的多样性影响最明显。
+
+![](images/b4206a188a579a39d67100e78d2903489e6df397c3b49a4fc45643aa5eb1bf21.jpg)  
+图2自然群落与方竹经营群落各层物种多样性指数  
+Fig.2Species diversity index of various levels in natural and managed communitie
+
+# 2.3金佛山方竹经营对优势种种群结构的影响
+
+两类扁刺栲群落中乔木层优势种扁刺栲、中华木荷、灰柯的径级结构和高度结构差异明显。自然群落中的扁刺考和灰柯径级结构和高度级结构均较方竹经营群落完整，表现出一定的连续性，并且小径级和小高度级个体数量较多，表明种群有一定的自然更新能力，种群偏向稳定型。灰柯种群高大个体最少，但其幼苗储备居多，有一定种群发展潜力。方竹经营群落中扁刺栲、灰柯以大径级和大高度级的个体为主，种群偏向衰退型。两类群落的中华木荷径级和高度级结构严重缺失，幼苗数量居中，但转化受阻，种群倾向衰退型。
+
+![](images/37668f0b0e45a70526a799ec6ab688b42a8bd7f5b520d6bd69041e4817c8d98a.jpg)  
+图3自然群落与方竹经营群落优势乔木种群径级和高度级结构
+
+A,D.扁刺栲；B,E.中华木荷；C,F.灰柯。   
+A,D.Canopsisplatyacantha;B,E.Schima sinensis;C,F.Lithocarpushenryi.
+
+Fig.3Diameter class and height classtructure of dominant tree species in natural and managed communities
+
+两类群落中扁刺栲、中华木荷、灰柯种群的萌枝率、有萌个体率和幼苗优势度具有明显差异，均表现为自然群落 $>$ 方竹经营群落。表明林下方竹抚育行为对乔木种群萌枝能力和幼苗生长具有负面影响。
+
+表4两类群落乔木优势树种的萌枝率和幼苗优势度  
+ible 4Re-sprouting ratio and seedling relative dominance value of dominal   
+
+<html><body><table><tr><td>物种</td><td>指标</td><td>自然群落 Natural community</td><td>方竹经营群落 Managed community</td></tr><tr><td>Species 扁刺栲</td><td>Index (%)</td><td></td><td></td></tr><tr><td></td><td>RS</td><td>29.55</td><td><0.10</td></tr><tr><td>Castanopsisplatyacantha</td><td>PMSI</td><td>20.45</td><td><0.10</td></tr><tr><td></td><td>RD</td><td>11.93</td><td>0.39</td></tr></table></body></html>
+
+<html><body><table><tr><td>中华木荷</td><td>RS 25.00</td><td><0.10</td></tr><tr><td rowspan="2">Schima sinensis</td><td>PMSI</td><td>8.33 <0.10</td></tr><tr><td>RD 6.51</td><td>1.19</td></tr><tr><td rowspan="2">灰柯</td><td>RS</td><td>77.78 9.09</td></tr><tr><td>PMSI</td><td>22.22 9.09</td></tr><tr><td>Lithocarpushenryi</td><td>RD</td><td>4.70 4.77</td></tr></table></body></html>
+
+注：RS．萌枝率；PMSI．有萌个体率；SRD．幼苗相对优势度。 Note:RS.Ratioof total sprouts to total individuals;PMSI.Number of multi-stemmed individuals/Number of all individuals; SRD. Seedling relative dominance value.
+
+# 3讨论与结论
+
+# 3.1金佛山扁刺栲群落特征
+
+金佛山扁刺栲群落科属和物种组成与亚热带其他地区的扁刺栲群落相似（杨一川等，1994；包维楷和刘照光，2002；梁政等，2018；杜燕等，2019)，均以壳斗科、樟科、蔷薇科、山茶科物种为主。并且我国西南山地扁刺考群落普遍存在小径竹类入侵、成为灌木层优势种的情况。该研究中金佛山方竹在灌木层成为优势种；瓦屋山、峨眉山、红灵山、乌蒙山等地箭竹（Fargesia spathacea）、筇竹（Chimonobambusatumidissinoda）、方竹（Chimonobambusa quadrangularis）等在灌木层成为共优种或单优势种（谷海燕等，2006；杜燕等，2019；周杰等，2019)。在种群结构方面，金佛山自然群落中的扁刺栲种群与红灵山和峨眉山同为稳定型种群，但方竹经营群落的扁刺栲种群与乌蒙山的扁刺考种群同为衰退型种群。金佛山扁刺栲群落的伴生种中华木荷种群为衰退型或严重衰退型种群，不同于乌蒙山、红灵山和峨眉山为增长型或稳定型种群（杜燕等，2019；周杰等，2019)。
+
+对比金佛山、瓦屋山（梁政等，2018）、峨眉山（谷海燕，2006）三地扁刺栲自然群落多样性指数发现，金佛山扁刺栲群落的 Shannon-Wiener 指数和 Pielou 指数略低于瓦屋山和峨眉山，Simpson 指数与瓦屋山相近。梁政等（2018）提到瓦屋山和峨眉山扁刺栲群落自解放初期受破坏后自然恢复期间，基本无进一步的人为干扰，优势树种扁刺栲、中华木荷逐渐恢复优势，群落其他伴生树种如小叶青冈（Cyclobalanopsismyrsinifolia）等逐渐增加，群落恢复相对稳定。而金佛山扁刺栲群落目前受金佛山方竹大面积入侵和人为干扰强烈，影响乔木优势树种更新，群落发展不稳定，因而群落物种多样性较低。
+
+表5金佛山扁刺考群落多样性指数与其他地区的比较  
+Table 5Comparison of diversity index of Castanopsis platyacantha community in Jinfo Mountain to   
+
+<html><body><table><tr><td colspan="4">Otnerzones</td></tr><tr><td>地区</td><td>瓦屋山</td><td>峨眉山</td><td>金佛山</td></tr><tr><td>Site</td><td>Wawu Mountain</td><td>Emei Mountain</td><td>Jinfo Mountain</td></tr><tr><td>经度</td><td>102°51'—103°20'E</td><td>103°15'—103°28'E</td><td>107°00'—107°20'E</td></tr><tr><td>Longitude</td><td></td><td></td><td></td></tr><tr><td>纬度</td><td>29°31' N~29°51' N</td><td>29°31'-29°38' N</td><td>28°50'—29°20' N</td></tr><tr><td>Latitude</td><td></td><td></td><td></td></tr><tr><td>海拔</td><td>1000~2 000</td><td>1 500~2 300</td><td>1 700~2 000</td></tr><tr><td>Elevation (m)</td><td></td><td></td><td></td></tr><tr><td>气候</td><td>中亚热带湿润季风气候</td><td>中亚热带季风气候</td><td>亚热带湿润季风气候</td></tr><tr><td>Climate</td><td>Med-subtropical humid</td><td>Med-subtropical</td><td>Subtropical humid</td></tr><tr><td></td><td>monsoon climate</td><td>monsoon climate</td><td>monsoon climate</td></tr><tr><td>Shannon-Wiener 指数 H</td><td>1.94±0.15</td><td>2.00±0.80</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Simpson指数D</td><td colspan="3">0.31±0.03</td><td>0.30±0.05</td></tr><tr><td>Simpson index D</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>Pielou指数E</td></tr><tr><td>Pielou index E</td><td>0.34±0.02</td><td>0.68±0.14</td><td>0.65±0.09</td></tr><tr><td>参考文献</td><td>梁政，2018</td><td>谷海燕，2006</td><td>该研究</td></tr><tr><td>References</td><td>LIANG Zheng,2018</td><td>GU Hanyan, 2006</td><td>The study</td></tr></table></body></html>
+
+# 3.2方竹经营对群落物种多样性的影响
+
+该研究发现方竹经营对扁刺栲群落物种多样性具有负面效应，高强度的竹笋采收、竹林间伐、方竹抚育行为等方竹经营活动降低了扁刺考群落物种多样性。人为干扰对扁刺栲群落各层的物种多样性影响程度不同，相对而言灌木层和草本层受到的影响更为严重，这与人为干扰的方式与范围、群落的各层次物种组成以及植物生态特性有关（郝建锋，2016)。乔木层整体物种多样性在两类群落中差异并不明显，因为人为干扰主要作用于林下，而对大乔木影响相对较小。方竹经营群落灌木层物种丰富度显著低于自然群落，金佛山方竹的入侵和长期的人为干扰使得方竹经营群落组成单一，物种丰富度低，这与郝建锋（2014）、张潇月等（2019）的研究结果相似。此外，方竹经营群落草本层的物种多样性显著低于自然群落，林下的方竹抚育行为对草本层的多样性影响最大，由于长期开展竹笋采收、抚育、间伐等经营活动，农户定期地选择性林木间伐和人为踩踏对草本层发育均造成严重破坏，影响群落幼苗更新。
+
+# 3.3方竹经营对优势种种群结构的影响
+
+Qian etal.（2017）的研究表明金佛山方竹抚育对珙桐种群更新产生明显的负面影响，该研究发现这种负面效应在扁刺栲群落的优势乔木上同样存在。金佛山方竹经营活动导致扁刺栲群落优势种种群高度结构和径级结构均间断分布，种群内以大径级个体（ $. D B H \ge 1 5 \mathrm { c m }$ ）为主，而缺少幼苗和幼树。从物种看，扁刺栲自然群落中的扁刺栲、灰柯种群偏向稳定型，其萌枝能力与幼苗优势度明显优于方竹经营群落，但幼苗向幼树的转化不足。相反，方竹经营群落的扁刺栲、灰柯种群偏向衰退型，表明方竹经营活动显著影响了扁刺栲群落优势种种群更新和维持。金佛山方竹入侵后与乔木幼苗和幼树竞争资源与养分，密集的竹冠层形成一定光照遮蔽，竹叶凋落物层堆积对种子萌发与幼苗生长产生阻隔，虽然有研究指出，一定程度的荫蔽条件和一定厚度的凋落物与腐殖质层对幼苗的生长有利（Qian etal.,2019)，但是随着幼苗的生长，对光照、营养物质和生长空间等需求的提高，幼苗生长逐渐衰弱，转化受阻（Liet al.,2014;Kong et al.,2017;谢佩耘等，2017;Qian etal.,2019)。另外，方竹笋生产作为金佛山地区的重要经济支柱产业，当地居民每年定期开展方竹经营如林木间伐、护笋养竹等，并选择性地保留了大径级乔木，去除乔木萌枝分枝并剔除林下杂木，人为干扰强烈，这直接造成存在方竹经营活动的扁刺考群落林下乔木幼苗幼树的破坏，不利于森林群落健康发展，这与郝建峰（2015）、林建勇等（2019）对青冈（Cyclobalanopsis glauca）和闽楠（Phoebebournei）群落结构及物种多样性的研究中得出的结论一致。因此，建议对金佛山扁刺栲群落的木本幼苗进行抚育，并且对金佛山方竹林适度间伐，调节林分结构，并降低竹笋经营中的人为干扰，以尽可能地实现经济发展与常绿阔叶林保护并行的双重需求。
+
+# 参考文献
+
+BAO WK, LIU ZG, 2002. Community features of the primary and naturally secondary evergreen broad-leaved forests in Mt. Wawu in Sichuan, China[J]. Chin J Appl Environ Biol,39(2): 120-126.[包维楷，刘照光，2002．四川瓦屋山原生和次生常绿阔叶林的群落学特征[J]．应 用与环境生物学报，39(2)：120-126．]
+
+DU Y,LIU X, Zhang HY, et al.， 2019. Species composition and community structure of thesubtropical evergreen broad-leaved forest in Hongling Mountain， Tianquan County， SichuanProvince,China[J].Plant Sci J,37(5): 583-592.[杜燕，刘鑫，张瀚曰，等，2019．红灵山亚热带常绿阔叶林维管植物组成与群落结构特征[J]．植物科学学报，37(5)：583-592．]
+
+FAN HD, CHEN HY, WU YN, et al., 2019. Community characteristics of main vegetation types on the southern slope of Beishan Mountain in Jinhua, Zhejiang, China[J]. Chin JPlant Ecol, 43(10): 921-928.[樊海东，陈海燕，吴雁南，等，2019.金华北山南坡主要植被类型的群落特征[J].植 物生态学报，43(10)：921-928．]   
+GU HY,LI CH, 2O06. Biodiversity and flora of the mixed evergreen and deciduous broadleaved forest in Emei[J].Bull Bot Res,26(5):618-623.[谷海燕，李策宏．峨眉山常绿落叶阔叶混交 林的生物多样性及植物区系初探[J]．植物研究，26(5)：618-623．]   
+HAO JF, LI Y, QI JQ, et al.,2016. Effects of anthropogenic disturbances on the species diversity and niche of the dominant populations in a Castanopsis fargesii secondary forest community in Bifengxia,Sichuan[J].Acta Ecol Sin,36(23): 7678-7688.[郝建锋，李艳，齐锦秋，等，2016．人 为干扰对碧峰峡栲树次生林群落物种多样性及其优势种群生态位的影响[J]．生态学报， 2016，36(23): 7678-7688.]   
+HAO JF,WANG DY,LI Y,et al.， 2014. Effects of human disturbance on species diversity of Phoebe zhennan community in Jinfengshan Mountain in western Sichuan[J]. Acta Ecol Sin, 34(23):6930-6942.[郝建锋，王德艺，李艳，等，2014．人为干扰对川西金凤山楠木次生林 群落结构和物种多样性的影响[J]．生态学报，34(23)：6930-6942．]   
+HAO JF, ZHANG YB, WANG DY,et al.,2015. Effects of human disturbance on species diversity of Cyclobalanopsis glauca community in Lotus Mountain in Ya'an[J]. Acta Bot Bor-Occid Sin, 35(7):1451-1459.[郝建锋，张逸博，王德艺，等，2015．人为干扰对雅安莲花山青冈次生 林群落结构和物种多样性的影响[J]．西北植物学报，35(7)：1451-1459．]   
+KONG B, CHEN L, KASAHARA Y, et al., 2017. Understory dwarf bamboo affects microbial community structures and soil properties in a Betula ermanii forest in northern Japan[J]. Microbes Environ, 31(2): 103-111.   
+LI QY， ZHANG ZW，TAO JP,et al.，2014. Effect of elevation and canopy condition on morphological traits and leaf fluctuating asymmetry of a bamboo, Chimonobambusa utilis in Jinfo Mountain Nature Reserve, southwest China[J]. Sains Malays, 43(8): 1119-1125.   
+LEFEVR KL, SHARMA S,RODD FH. 2012. Moderate human disturbance of rain forest alters composition of fruiting plant and bird communities[J]. Biotropica, 44(3): 427-436.   
+LIANG Z, MA HY, TU LH, 2018. Species diversity of tree layer in a secondary evergreen broad-leaved forest in the Wawu Mountain[J]. J Sichuan For Sci Technol, 39(2): 85-89.[梁政, 马豪宇，涂利华，2018．瓦屋山常绿阔叶次生林乔木层物种多样性研究．四川林业科技， 39(2): 85-89.]   
+LIN JY,LI J, LI JF. et al.， 2020.Dynamic effects of collection disturbance on the population structure and quantity of Phoebe bournei[J].JFore & Environ, 40(4): 377-385.[林建勇，李娟, 李俊福，等，2020.采集干扰对闽楠种群结构和数量的动态影响[J].森林与环境学报，40(4): 377-385.]   
+LIN JY, TANG FC, HE YM, et al., 2019. Effects of human disturbance on community structure and species diversity of Phoebe bournei community[J]. West China JFor Sci, 48(4): 72-78.[林 建勇，唐复呈，何应明，等，2019．人为干扰对闽楠群落结构及物种多样性的影响[J].西部 林业科学，48(4):72-78．]   
+MA KP,HUANG JH, YU SL,et al.， 1995. Plant community diversity in Dongling Mountain, Beijing, China: II .species richness, evenness and species diversities[J]. Acta Ecol Sin,15(3): 268-277.[马克平，黄建辉，于顺利，等，1995．北京东灵山地区植物群落多样性的研究： Ⅱ丰富度、均匀度和物种多样性指数[J]．生态学报，15(3)：268-277．]   
+MA SY, MA JL，WANG X, et al.， 1998. MT. Jinfo Nature Reserve scientific investigation report[M]. Chongqing: Forestry Bureau of Chongqing Nanchuan: 35-65.[马声远，马建伦，王 霞，等，1998．金佛山自然保护区科学考察集[M]．重庆：重庆南川市林业局：35-65．]   
+NANAMI S, KAWAGUCHI H, TATENO R, et al., 2004. Sprouting traits and population structure of co-occurring Castanopsis species in an evergreen broad-leaved forest in southern China[J]. Ecol Res, 19(3): 341-348.   
+OHSAWA M, 1984. Differentiation of vegetation zones and species strategies in the subalpine region of Mt. Fuji[J]. Plant Ecol, 57(1): 15-52.   
+OHSAWA M, KITAZAWA T. 2002. Pattrns of species diversity in rural herbaceous communities under diferent management regimes, Chiba, central Japan[J]. Biol Conserv,104(2): 239-249.   
+QIAN F, SONG HY, CHEN M, et al., 2019. Multivariate path analysis of the relationships between seedling regeneration and environmental factors beneath a dwarf bamboo understory[J]. Eclo Evol, 9(18): 10277-10290.   
+QIAN SH, TANG CQ, YI S, et al., 2017. Conservation and development in conflict: regeneration of wild Davidia involucrata (Nyssaceae) communities weakened by bamboo management in south-central China[J]. Oryx,52(3): 1-10.   
+RIBEIRO，EMS，SANTOS，BA，ARROYO-RODRIGUEZ，V，et al.，2016.Phylogenetic impoverishment of plant communities following chronic human disturbances in the Brazilian Caatinga[J]. Ecology, 7(6): 1583-1592.   
+SONG YC, 2004. Tentative classification scheme of evergreen broad-leaved forests of China [J]. Chin JPlant Ecol,28(4):435-448.[宋永昌，2004．中国常绿阔叶林分类试行方案[J]．植物生 态学报，28(4):435-448．]   
+SONG YC, 2013. Evergreen broad-leaved forests in China[M]. Beijing: Science Press: 3-177.[宋 永昌，2013．中国常绿阔叶林[M]．北京：科学出版社：3-177．]   
+TANG CQ, OHSAWA M,1997. Zonal transition of evergreen, deciduous,and coniferous forests along the altitudinal gradient on a humid subtropical mountain,Mt. Emei, Sichuan, China[J]. Plant Ecol, 133(1):63-78.   
+UTAILE YU,HELSEN K,AYDAGNEHUM SG, et al.，2020. Typology of the woody plant communitiesofthe Ethiopian Nech Sar National Park and anassessmentof vegetation-environment relationsand human disturbance impacts[J]. Plant Ecol Evol, 153(1):33-44.   
+XIE PY,HE YJ, GAO ML, et al.， 2017. Effect of Chimonobambusa utilis on the number of saplings of Fagus lucida population[J].JTrop Subtrop Bot, 25(3):225-232.[谢佩耘，何跃军, 高明浪，等，2017．金佛山方竹对亮叶水青冈幼树种群数量结构的影响[J]．热带亚热带植 物学报，25(3)：225-232．]   
+XU W, MA ZY, JING X, et al., 2016. Biodiversity and ecosystem multifunctionality: advances and perspectives [J].Biodivers Sci,24(1):55-71.[徐炜，马志远，井新，等，2016．生物多样性与 生态系统多功能性：进展与展望[J]．生物多样性，24(1)：55-71．]   
+YANG YC, ZHUANG P, NI XR. 1994. Ecological studies on the forest community of Castanopsis platyacantha- Schima sinensis on Emei Mountai [J]. Chin JPlant Ecol,18(2): 105-120.[杨一川, 庄平，黎系荣，1994．峨眉山峨眉栲、华木荷群落研究[J]．植物生态学报，18(2)：105-120.]   
+YI SR,HUANG Y, XIAO B, et al., 2012. Preliminary analysis on natural spread ecological effects of Chimonobambusa utilis (Keng) Keng f.[J]. Ecol Sci,31(1): 22-25.[易思荣，黄娅，肖波，等, 2012．金佛山方竹自然扩散生态效应初步分析[J]．生态科学，31(1)：23-26．]   
+ZHANG JT,2011. Quantitative ecology[M].Beijing: Science Press: 19-21.[张金屯，2011．数量 生态学[M]．北京:科学出版社：19-21．]   
+ZHANG XY, QI JQ, ZHANG LY, et al., 2019. Effects of human disturbance on species diversity and soil physical and chemical properties of revetment forest in Wenjiang section of the Jinma River[J].BullBotRes,39(1)：78-86.[张潇月，齐锦秋，张柳桦，等，2019．人为干扰对金 马河温江段护岸林物种多样性和土壤理化性质的影响[J]．植物研究，39(1)：78-86．]   
+ZHANG ZW, XU JJ, YAN HD, et al., 2017. Effects of elevation and lithology on clay mineral composition of soils derived from limestone[J]. Acta Pedol Sin, 54(2): 535-542.[张治伟，许娟 娟，严焕德，等，2017．海拔与岩性变异对石灰岩发育土壤黏土矿物组成的影响[J]．土壤 学报，54(2):535-542．]   
+ZHOU J，PENG MC，WANG CY，et al.， 2019. Community characteristics of Castanopsis platyacantha, Schima scinensis forest in Wumeng Mountain[J]. Guihaia, 39(2): 248-260.[周杰, 彭明春，王崇云，等,2019.乌蒙山峨眉栲、华木荷群落特征研究.广西植物,39(2):248-260.]   
+ZHOU LH, HUANG L, QIAN SH, et al., 2019. Vertical change in air temperature on the west slope of Mt.Jinfo,China[J].Mount Sci,37(6): 818-827.[周礼华，黄力，钱深华，等，2019．金 佛山西坡气温的垂直变化特征[J]．山地学报，37(6)：818-827．]   
+ZHU Y，MI XC,REN HB,et al.， 2010. Density dependence is prevalent in a heterogeneous subtropical forest[J]. Oikos,119(1): 109-119.

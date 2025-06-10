@@ -1,0 +1,144 @@
+# 基础研究
+
+# 氧等离子处理PLLA/BG引导骨再生膜生物相容性
+
+方炜，曾曙光，高文峰南方医科大学附属口腔医院//广东省口腔医院，广东广州510280摘要：目的 制备一种新型的聚乳酸-生物玻璃(Poly-L-Lactic Acid/Bioglas,PLLA/BG)亲水性纳米纤维膜,探讨其作为引导骨再生屏障膜的生物相容性。方法采用氧等离子处理PLLA/BG纳米纤维引导骨再生膜，改善其亲水性能，将人成骨样细胞(MG63)接种于膜表面，通过Hoechst荧光染色观察其在膜表面的生长，计算细胞粘附率及增殖率,检测MG63细胞碱性磷酸酶活性,最后通过扫描电镜观察细胞在膜上生长形态及钙结节形成，分析该膜生物相容性及促成骨性能。结果氧等离子处理的PLLA/BG膜在1、3、6h的细胞粘附率分别为 $( 3 0 . 5 7 0 { \scriptstyle \pm 0 . 9 6 } ) \%$ / $( 4 7 . 2 7 { \pm } 0 . 7 8 ) \%$ 、 $( 6 6 . 7 8 { \pm } 0 . 6 9 ) \%$ ，细胞黏附率高于两组膜( $P <$ 0.01);3组膜的细胞增殖率均随时间延长提高，在不同时间点氧等离子处理的PLLA/BG膜的细胞增殖率高于另外两组( $P <$ 0.01);Hoechst荧光染色中可观察到氧等离子处理的PLLA/BG膜表面早期有更多细胞黏附;碱性磷酸酶活性测定实验结果显示加入BG的复合膜可在早期促进成骨细胞分泌基质，差异具有统计学意义（ $\scriptstyle { \overbrace { P { < } 0 . 0 1 } } ,$ ；扫描电镜下可观察到MG-63细胞呈梭形,黏附于膜表面,与复合膜相互交联,形成钙结节。结论 经氧等离子处理的PLLA/BG复合膜在早期可促进细胞黏附、增殖及促进成骨细胞分泌基质，具有良好的生物相容性和促成骨性能。
+
+关键词：引导骨组织再生；氧等离子；聚乳酸；生物玻璃
+
+# Biocompatibility of poly-L-lactic acid/Bioglass-guided bone regeneration membranes processed with oxygen plasma
+
+FANG Wei, ZENG Shuguang, GAO Wenfeng GuangdongProincialStomatologicalHospitalAfliatedtoSouthernMedicalUniversity,Guangzhou5O28China
+
+Abstract: Objective To prepare and characterize anano-scale fibrous hydrophilic poly-L-lacticacid/Bioglass (PLLA/BG) composite membrane and evaluate its biocompatibilityas a composite membrane for guiding bone regeneration (GBR). Methods PLLA/BG-guided bone regeneration membrane was treated by oxygen plasma to improved its hydrophilicity. The growthof MG-63osteoblastsonthemembrane wasobservedusing Hoechstfluorescence staining,andthebiocompatibilityof the membrane was evaluatedbycalculating thecels adhesionrate and proliferationrate.Osteogenesisof MG-63cells was assessed bydetecting alkaline phosphatase (ALP),and the formationof calcified nodules and cellmorphologychanges were observed using scanning electron microscope (SEM). Results Thecelladhesion rates of PLLA/BG-guided bone regeneration membrane treated with oxygen plasma were $( 3 0 . 5 7 0 { \scriptstyle \pm 0 . 9 6 } ) \%$ ， $( 4 7 . 2 7 { \pm } 0 . 7 8 ) \% ,$ .and $( 6 6 . 7 8 { \pm } 0 . 6 9 ) \%$ at $1 , 3 ,$ and $6 \mathrm { ~ h } ,$ respectively, significantly higher than those on PLLA membrane and untreated PLLA/BG membrane $( P { < } 0 . 0 1 )$ . The cell proliferation rates on the 3 membranes increased with time, but highest on oxygen plasma-treated PLLA/BG membrane $( P { < } 0 . 0 1 )$ . Hoechst fluorescence staining revealed that oxygen plasma treatment of the PLLA/BG membrane promoted celladhesion. The membranes withBioglasspromoted the matrixsecretionof theosteoblasts.UnderSEM,theformationofcalcifiednodulesand spindle-shapedcell morphology were observed on oxygen plasma-treated PLLA/BG membrane. Conclusion Oxygen plasma-treated PLLA/BG composite membrane has good biocompatibilityand can promote adhesion,proliferation and osteogenesis of the osteoblasts.
+
+Key words: guided bone regeneration; oxygen plasma; poly-L-lactic acid; Bioglass
+
+口腔引导骨再生术中屏障膜材料起着关键作用1]。目前，国内外关于膜材料的开发研制、应用等方面仍处于探索中。聚乳酸(Poly-L-Lactic Acid,PLLA)具有良好的生物相容性、无毒、可生物降解等优点，其降解产物偏酸性,易在体内引起无痛性炎症反应[2-5]。生物玻璃是一种能实现特定的生物、生理功能的玻璃。将生物玻璃植入人体骨缺损部位，它能与骨组织直接结合，起到修复骨组织、恢复其功能的作用。生物玻璃降解产物和释放的离子可上调在成骨细胞增殖、代谢和细胞连接等方面发挥重要作用的一些蛋白(骨钙蛋白、骨黏连蛋白、骨桥蛋白等)的基因表达，提高碱性磷酸酶(ALP)活性，促进I型胶原形成,加速成骨过程,较羟基磷灰石有更高成骨率[6-8]。本研究采用聚乳酸与生物玻璃复合(PLLA/BG)，利用了二者各自优势，聚乳酸本身良好机械性能及物理性能，相容性与可降解性良好，良好的抗拉强度及延展度弥补生物玻璃的缺陷，聚乳酸材料表面缺少细胞识别位点，生物玻璃可作为细胞识别位点，增强细胞在其表面上的黏附和增殖，同时生物玻璃可缓冲聚乳酸在降解过程中的酸性产物[9-12]。聚乳酸化学结构缺乏反应官能基因，具有疏水性，对细胞黏附性弱，本实验通过低温等离子技术对聚乳酸表面进行改性，可在不影响聚乳酸自身材料特点的前提下，改善聚乳酸表面的亲水性、黏结性和生物相容性，使细胞更易于黏附与材料表面。
+
+# 1材料和方法
+
+# 1.1主要试剂与仪器
+
+左旋聚乳酸(polylacticacid,PLLA）（医用级，山东岱罡生物工程有限公司);纳米级生物玻璃(华南理工大学提供)；四氢呋喃(分析纯，广州金华大化学试剂有限公司);纤维素半透膜透析袋(上海伯奥生物科技有限公司)；无水氯化钙(分析纯，国药集团化学试剂有限公司)；无水乙醇(分析纯，国药集团化学试剂有限公司)；CellTiter $9 6 ^ { \mathbb { B } } \mathbf { M T S }$ 细胞增殖检测试剂盒(Promage公司，美国);硝基苯磷酸盐片剂(Sigma公司，美国);低温冰箱(Thermo公司,美国);冷冻干燥机(VirtisGenesis公司，美国)；JSM-6330F冷场扫描电镜(中山大学测试中心提供);DG-0I低温等离子体处理仪(苏州奥秘格机电科技有限公司)。
+
+# 1.2 复合膜的制备
+
+取微纳米BG粉末，置于四氢呋喃溶液中，使用超声波震荡对其进行分散，再称取一定量的医用PLLA,使PLLA与BG的质量比为9:1,加入四氢呋喃溶液中，制得含PLLA/BG溶液。将含两者的溶液在 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 水浴中加热回流搅拌 $2 \mathrm { h }$ ,待其溶解,转移至模具中,并迅速放入 $- 2 0 \mathrm { { ^ { \circ } C } }$ 冰箱中，形成凝胶后在凝胶化温度下至少保持 $2 \mathrm { h }$ 。将凝胶转入 $4 \mathrm { { ^ \circ C } }$ 冰箱中进行水置换1d,在冷冻干燥机中( $- 5 5 ~ \mathrm { { ^ circ C } }$ ，气压低于 $5 0 \ \mathrm { P a } ,$ 干燥 $^ { 4 8 \mathrm { ~ h ~ } }$ ，得到PLLA/BG纳米纤维复合膜。将膜材料放入反应瓶中进行等离子体改性。等离子体放电频率为 $1 3 \mathrm { \ M H z , O _ { 2 } }$ 流速为 $5 0 ~ \mathrm { m l / s }$ ，保持体系的压强为 $2 0 \mathrm { P a }$ ，在 $1 0 0 ~ \mathrm { W }$ 放电功率条件下处理，处理时间为 $2 \mathrm { m i n }$ ，得到表面富含氧极性官能团的PLLA/BG复合膜。
+
+# 1.3复合膜的生物相容性
+
+1.3.1复合膜的处理 将3组膜(PLLA膜、PLLA/BG复合膜、氧等离子处理PLLA/BG复合膜)制备成边长$1 \mathrm { c m }$ 、高度 $1 \ \mathrm { m m }$ 的正方形薄片，以及裁制好的边长为 $1 \mathrm { c m }$ 的正方形载玻片均行 $\mathrm { C o } ^ { 6 0 }$ 辐照 $2 4 \mathrm { h }$ 消毒，使用前用紫外线照射 $3 0 \mathrm { m i m }$ 备用。
+
+1.3.2MG63成骨细胞的培养将人成骨样细胞MG63转移至培养瓶，于 $3 7 \ \mathrm { { ^ { \circ } C } } .$ 含 $5 \%$ $\mathrm { C O } _ { 2 }$ 的恒温孵育箱内培养于含 $10 \%$ 胚牛血清、 $. 1 0 0 \mathrm { U / m l }$ 青霉素和 $1 0 0 \mu \mathrm { g / m l }$ 链霉素的DMEM低糖培养基中，待细胞融合至 $8 0 \%$ 后，去除培养基，加入含 $0 . 0 2 \%$ EDTA的 $0 . 2 5 \%$ 胰蛋白酶消化细胞，细胞计数板计数后调整细胞密度，按 $1 { : } 3$ 比例传代培养。
+
+1.3.3 复合膜上MG63细胞细胞黏附率检测 接种 $1 0 0 \mu \mathrm { l }$ 密度为 $1 \times 1 0 ^ { 6 }$ 的细胞悬浮液于24孔板内已预湿的3组膜。接种后 $1 . 3 \sqrt { 6 } \mathrm { h }$ 分别测定实验组和对照组的细胞黏附率，每组每次取出3孔，吸出培养基，计算培养液中的细胞数目(A1)，取出材料后，对该孔贴孔壁细胞消化，计数为A2。按以下公式：
+
+细胞黏附率= $\mathit { \bar { \Psi } } ( \mathrm { A 0 - A 1 - A 2 } ) / \mathrm { A 0 } ] { \times } 1 0 0 \%$ ，其中A0为接种细胞数。
+
+1.3.4复合膜上MG63细胞黏附能力观察 接种 $1 0 0 \mu \mathrm { l }$ 密度为 $5 { \times } 1 0 ^ { 5 }$ 的MG63细胞悬液于24孔板内已预湿的3组膜，分别培养1、3、6h后取出，PBS漂洗，加入 $4 \%$ 多聚甲醛固定 $1 0 ~ \mathrm { { m i n } }$ ，反复PBS 漂洗，滴加 $1 0 ~ \mathrm { \mu g / m l }$ 的Hoechst液体 $3 0 0 ~ \mu \mathrm { l }$ ，于室温孵育 $3 0 ~ \mathrm { m i n }$ ,PBS冲洗，滤纸吸去表面残留PBS液体，立即人荧光显微镜下观察。1.3.5复合膜上MG63细胞增殖率检测 接种 $1 0 0 \mu \mathrm { l }$ 密度为 $5 { \times } 1 0 ^ { 5 }$ 细胞悬浮液，于24孔板内已预湿的3组膜，分别于1、3、5d取出材料，漂洗，移入新24孔板，加入新鲜培养基 $3 0 0 \mu \mathrm { l }$ 后避光加入MTS $6 0 \mu \mathrm { l }$ ，置入 $3 7 ~ \mathrm { ^ { \circ } C }$ 恒温箱孵育 $3 \mathrm { ~ h ~ }$ 后，每孔取2次，每次取 $1 0 0 \mu \mathrm { l }$ 加入96孔板，置于酶标仪内于波长为 $4 9 0 \mathrm { n m }$ 处测量各孔吸光度值。
+
+1.3.6复合膜上MG63细胞碱性磷酸酶(ALP)活性测定接种 $1 0 0 \mu \mathrm { l }$ 密度为 $5 \times 1 0 ^ { 5 }$ 的MG63细胞悬液于24孔板内已预湿的3组膜，置于孵育箱中培养3、7、14d,用PBS荡洗3次，每孔加入 $2 0 0 ~ \mu 1 ~ 1 \%$ Triton X-100,静置于$4 \mathrm { { ^ { \circ } C } }$ 冰箱裂解 $1 0 { \sim } 1 5 \mathrm { ~ h ~ }$ ，每孔取 $3 0 ~ \mu \mathrm { l }$ 加入96孔板中，按照ALP检测试剂盒操作说明依次加入各试剂后，使用酶联免疫检测仪在 $5 2 0 \mathrm { n m }$ 波长下测定各孔吸光值。
+
+1.3.7复合膜上MG63细胞形态观察将预湿氧等离子处理PLLA/BG复合膜置于24孔板内，接种 $1 0 0 \mu \mathrm { l }$ 密度为 $1 \times 1 0 ^ { 4 }$ 的MG63细胞悬液。分别培养3、7d后弃培养基，用 $2 . 5 \%$ 戊二醇 $4 \mathrm { { ^ \circ C } }$ 固定过夜；梯度乙醇溶液逐级脱水；喷金；扫描电子显微镜下观察在样本表面的形态及钙结节形成状态。
+
+# 1.4 统计学分析
+
+使用SPSS19.0软件进行数据分析，所有计量数据均以均数 $\cdot \pm$ 标准差表示，组间比较采用析因方差分析，单因素方差分析，组内多重比较采用SNK方法， $P { \ < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1复合膜上MG63细胞细胞黏附率
+
+随细胞接种时间的延长，3组膜的细胞粘附率均有增高，其中PLLA与未处理PLLA/BG两组膜在3个时
+
+间点的细胞粘附率差异无统计学意义 $( P { > } 0 . 0 5 )$ ，经氧等离子处理的复合膜粘附率高于其他两组，差异均有统计学意义( $P { < } 0 . 0 0 1$ ，表1)。
+
+表13组复合膜上MG63细胞细胞黏附率比较 Tab.1 Comparison of adhesion rates of MG 63 cells on the 3 membranes $( \% )$   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="3">Time</td><td rowspan="2">F</td><td rowspan="2">P</td></tr><tr><td>1h</td><td>3h</td><td>6h</td></tr><tr><td>PLLA</td><td>10.35±0.77</td><td>11.32±0.92</td><td>21.71±0.70</td><td>310.864</td><td>0.000</td></tr><tr><td>PLLA/BG</td><td>11.39±0.55</td><td>11.93±0.74</td><td>21.28±0.90</td><td>279.963</td><td>0.000</td></tr><tr><td>PLLA/BG treated by oxygen plasma</td><td>30.57±0.96*</td><td>47.27±0.78*</td><td>66.78±0.69*</td><td>2448.336</td><td>0.000</td></tr><tr><td>F</td><td>1074.571</td><td>3184.149</td><td>5763.382</td><td></td><td></td></tr><tr><td>P</td><td>0.000</td><td>0.000</td><td>0.000</td><td></td><td></td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs PLLA group and PLLA/BG group.
+
+# 2.2复合膜上MG63细胞黏附能力
+
+在放大倍数为100倍的低倍显微镜下可以看到1h时细胞核开始呈现弥散相对较均匀的蓝色荧光， $3 \mathrm { ~ h ~ }$ 时
+
+荧光量增加，而6h时MG63细胞在各组膜的黏附率均增高，经氧等离子处理的复合膜上荧光量显著增加(图1)。
+
+![](images/fb539de2cd242f26dd27550f9b634c52bfe37095a752bc1a8d3f05038d16e10f.jpg)  
+图1MG63细胞在3组膜上生长荧光图
+
+Fig.1 Fluorescence images of MG 63 cells on the 3 membranes (Original magnification: $\times 1 0 0 \mathrm { \Omega }$ ).A:MG 63cellsonPLLA membrane; B:MG 63cels on PLLA/BG membrane; C: MG 63celsonPLLA/BG membrane treated byoxygen plasma.
+
+# 2.3复合膜上MG63细胞增殖率
+
+随细胞接种时间的延长，3组膜的细胞增殖率均有提高，其中经过氧等离子处理PLLA/BG膜细胞增殖率在3个时间点均高于PLLA膜或未处理PLLA/BG膜，
+
+差异有统计学意义 $( P { < } 0 . 0 1$ ,表2),未处理PLLA/BG膜与PLLA膜细胞增殖率差异不存在统计学意义( $P >$ 0.05,表2)。
+
+表23组膜MG63细胞增殖率比较 Tab.2 Comparison of proliferation rates of MG 63 cells on the 3 membranes   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="3">Time</td><td rowspan="2">F</td><td rowspan="2">P</td></tr><tr><td>1d</td><td>3d</td><td>5d</td></tr><tr><td>PLLA</td><td>0.207±0.008</td><td>0.270±0.007</td><td>0.340±0.004</td><td>4492.037</td><td>0.000</td></tr><tr><td>PLLA/BG</td><td>0.208±0.007</td><td>0.275±0.012</td><td>0.343±0.006</td><td>295.490</td><td>0.000</td></tr><tr><td>PLLA/BG treated by oxygen plasma</td><td>0.423±0.007*</td><td>0.518±0.006*</td><td>0.589±0.006*</td><td>812.086</td><td>0.000</td></tr><tr><td>F</td><td>1380.615</td><td>3194.814</td><td>4386.647</td><td></td><td></td></tr><tr><td>P</td><td>0.000</td><td>0.000</td><td>0.000</td><td></td><td></td></tr></table></body></html>
+
+$^ { \ast } P { < } 0 . 0 5$ Us PLLA group and PLLA/BG group.
+
+# 2.4复合膜上MG63细胞ALP活性
+
+MG63细胞在3组膜上的ALP活性总体趋势呈随时间推移先增高后降低，在第7天达峰值。在第1天加
+
+入BG的两组膜OD值高于PLLA膜 $( P { < } 0 . 0 1$ ，表3)，在另外两个时间点，3组膜OD值差异无统计学意义（ $P >$ 0.05,表3)。
+
+表33组膜MG63细胞ALP活性比较 Tab.3 Comparison of alkaline phosphatase activity of MG 63 cells on the 3 membranes   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="3">Time</td><td rowspan="2">F</td><td rowspan="2">P</td></tr><tr><td>3d</td><td>7d</td><td>14d</td></tr><tr><td>PLLA</td><td>0.620±0.019</td><td>0.681±0.012</td><td>0.598±0.012</td><td>11.433</td><td>0.002</td></tr><tr><td>PLLA/BG</td><td>0.678±0.022*</td><td>0.696±0.020</td><td>0.599±0.011</td><td>10.894</td><td>0.002</td></tr><tr><td>PLLA/BG treated by oxygen plasma</td><td>0.678±0.013*</td><td>0.697±0.012</td><td>0.609±0.020</td><td>6.042</td><td>0.015</td></tr><tr><td>F</td><td>13.407</td><td>1.469</td><td>0.680</td><td></td><td></td></tr><tr><td>P</td><td>0.001</td><td>0.269</td><td>0.525</td><td></td><td></td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ Us PLLA group.
+
+# 2.5复合膜上MG63细胞形态观察
+
+扫描电镜下可见在氧等离子处理PLLA/BG复合膜上培养3d后，MG63细胞呈梭形，黏附于膜表面，开始向各方向伸出伪足，与复合膜相互交联(图2)。经7d培养后，细胞增殖数量增多，呈片状生长趋势,同时钙化结节数量逐渐增多。当细胞生长逐渐汇合为单层后，其增殖速度将减慢，胞体增大，继之会分泌骨细胞外基质。可观察到成骨细胞分泌球形基质，这些球形基质相互融合聚成团状。当成骨细胞在复层生长上有聚集成团的现象，呈集落样生长，集落的中心因细胞相互重叠而使细胞的分界变得很模糊，而外周的细胞可见突起相互交织，并且这些集落在支架材料中是一种立体团块的存在，与此同时，成骨细胞所分泌的基质发生矿化，形成钙化结节(图3)。
+
+# 3讨论
+
+屏障膜材料是引导骨再生技术的核心，理想的屏障材料在具有屏障作用的基础上，应当具备骨引导及骨诱导作用。生物膜本身就是一种载体支架材料,它能促进骨前体细胞的黏附、定植和增殖，从而促进它们分化为具有成骨效能的成骨细胞[13-14]。低温等离子技术可在不影响聚乳酸自身材料特点的前提下，有效改善聚乳酸的亲水性能。因此本研究试图将生物玻璃与聚乳酸复合，利用低温等离子技术，制备一种新型亲水性引导骨再生膜。
+
+在本实验中MG63细胞的黏附率和增殖率结果均表明经氧等离子处理的复合膜具有良好的生物相容性。细胞的黏附是成骨细胞与支架材料相接触的第一步。细胞粘附包括早期细胞外基质蛋白的附着以及晚期的细胞粘附，早期的附着仅仅是物理性吸附，后期才是信号传导通路介导的粘附[15]。在1、3、6h三个时间点的3组膜细胞粘附率比较结果表明，经氧等子处理的PLLA/BG膜表面亲水性改善，在早期促进细胞黏附于复合膜表面，另外两组材料由于聚乳酸本身其疏水性，阻碍细胞与材料表面黏附，导致膜的细胞粘附率低。细胞的另一个生物相容性检测指标是增殖率。MTS法是用比色法在细胞增殖、细胞毒性或化学灵敏性检测中确定活性细胞数目的一种新型甲攒化合物，其优点如下：易于使用，配好MTS液后直接加人到细胞中孵育，然后读取吸光度值，不需洗涤或收获细胞，不需要挥发性有机溶剂来溶解甲化合物[16-17]。实验结果表明各组材料上的D值逐渐增加，保持了正常的分裂增殖速度。经过氧等离子处理PLLA/BG膜的细胞增殖率在3个时间点均优于另外两组材料,这表明经表面改性后的复合膜更适合MG-63细胞的生长。
+
+![](images/18abc5313b418894c228defacff009ff59b249111267342a4816ed8cd5af47e0.jpg)  
+图2第3天MG63细胞在氧等离子处理PLLA/BG复合膜上的生长状况 Fig.2 Scanning electron microscopy of MG 63 cells on PLLA/BG membrane treated by oxygen plasma on the third day. A: $\times 7 5 0$ B: $\times 1 5 0 0$
+
+![](images/e7970aeed52dfedc05014d9c3eeb464ab4da321623d0582f6faa499bd8bbfa9e.jpg)  
+图3第7天MG63细胞在氧等离子处理PLLA/BG复合膜上的生长状况Fig.3 Scanning electron microscopy of MG 63 cells on PLLA/BG membranes treated byoxygen plasma on day 7.A: $\times 7 5 0$ B: $\times 1 5 0 0$ ：
+
+由Hoechst染色染色结果可分析细胞在3组膜上的黏附情况。由于PLLA疏水性，细胞与复合膜间黏附性弱，经过PBS反复漂洗，导致1h和 $3 \mathrm { ~ h ~ }$ 时仅有极少量的细胞黏附在PLLA膜或未处理PLLA/BG膜表面，经过氧等离子处理后复合膜在早期明显促进细胞黏附，从不同时间段Hoechst染色观察结果证明经氧等子处理的PLLA/BG膜表面亲水性改善，利于细胞与材料表面接触，在早期促进更多细胞黏附、定植于材料表面。
+
+ALP的表达被认为是细胞外基质成熟期的早期标志，是反映成骨细胞在体外分化为成熟骨细胞和基质矿化的重要指标[18]。在体外实验中,ALP常在成骨细胞分化及成熟的早期标志，其分泌水平高低与体外矿化能力成正相关。本实验中，在第1天加人BG的两组复合膜表面MG63细胞的ALP活性优于PLLA膜，于第7、14天与PLLA膜无显著差异，提示加入的BG可在早期提高细胞ALP活性，促进成骨细胞分泌基质及矿化，在晚期无明显促进作用，这亦可能与本次实验BG含量较少有关。
+
+扫描电镜下观察MG63培养3d后，MG63细胞扁平黏附于膜表面，呈梭形，伪足伸出，穿过孔隙，与复合膜紧密缠绕，经7d培养后，细胞明显数量增多，呈片状生长。并观察到成骨细胞分泌球形基质，且发生矿化，形成钙化结节。Bellow等研究表明，每一个钙化结节都是有一个能形成结节的成骨细胞经过长达2\~3周的增殖分化而形成的。钙结节是成骨细胞成熟的主要标志，钙化结节的形成是因为成骨细胞的复层生长，必须经过3个时期：成骨细胞快速增殖期、细胞外基质成熟期、基质矿化期，只有进入成熟期后，才有矿化的可能[20]体外培养成骨细胞连续培养的情况下可形成钙化结节，钙化结节是成骨细胞经过一定时期增殖而形成代表成骨细胞增殖分化成熟鉴定成骨细胞形成的重要标志，直接反应成骨细胞诱导基质矿化的能力[21]。
+
+综上所述，本研究所制备的PLLA/BG引导骨再生膜具有良好的生物相容性以及较佳的细胞亲和力，并且可以促进成骨细胞的生物学功能，使成骨细胞较旺盛地分泌细胞基质，可作为引导骨再生屏障膜的备选材料。
+
+# 参考文献：
+
+[1]宿玉成.现代口腔种植学[M].北京:人民卫生出版社,2004:207-16.   
+[2]Marques PA,Gongalves G, Singh MK,et al.Graphene oxide and hydroxyapatite as fillersofpolylactic acid nanocomposites: preparation and characterization[J].J Nanosci Nanotechnol,2012, 12(8): 6686-92.   
+[3]Balakrishnan H,Hassan A,Wahit MU,et al.Novel toughened polylacticacidnanocomposite:Mechanical,thermaland morphological properties[J].Mater Des,2010,31(7): 3289-98.   
+[4]Fujioka-Kobayashi M,Ota MS,Shimoda A,et al.Cholesteryl group- and acryloyl group-bearing pullulan nanogel to deliver BMP2 and FGF18 for bone tissue engineering[J].Biomaterials, 2012,33(30): 7613-20.   
+[5]黄琳惠,麦煜颖,陆建志,等.静电纺丝聚乳酸-羟基乙酸纳米纤维膜与 磷酸钙骨水泥复合物力学性能的研究[J].实用医院临床杂志,2014 (3): 32-4.   
+[6]Moorthi A,Vimalraj S,Avani C,et al. Expression of microRNA-30c and its target genes in human osteoblastic cells by nano-bioglass ceramic-treatment[J].Int JBiol Macromol,2013,56:181-5.   
+[7]Mehdikhani-Nahrkhalaji M,Fathi MH,Mortazavi V,et al. Novel nanocomposite coating for dental implant applications in vitro and in vivo evaluation[J].JMater Sci Mater Med,2012,23(2): 485-95.   
+[8]Shalumon KT, Sowmya S,Sathish D,et al.Effect of incorporation of nanoscale bioactive glass and hydroxyapatite in PCL/chitosan nanofibers for bone and periodontal tissue engineering[J].JBiomed Nanotechnol,2013,9(3): 430-40.   
+[9]Wu J,Xue K,Li H,et al. Improvement of PHBV scaffolds with bioglass for cartilage tissue engineering[J].PLoS One,2O13,8(8): e71563.   
+[10] Leal AI, Caridade SG,Ma J,et al. Asymmetric PDLLA membranes containing Bioglass@ forguided tissue regeneration: characterization and in vitro biological behavior［J].Dent Mater, 2013,29(4):427-36.   
+[11]Yunos DM,Ahmad Z,Salih V,et al．Stratified scaffolds for osteochondral tissue engineering applications: electrospun PDLLA nanofibre coated Bioglass@-derived foams [J].J Biomater Appl, 2013,27(5): 537-51.   
+[12]Liu W, Zhan J, Su Y,et al. Effects of plasma treatment to nanofibers on initial cell adhesion and cell morphology[J]. Colloids Surf B Biointerfaces,2014,113:101-6.   
+[13]Chen JP,Su CH. Surface modification of electrospun PLLA nanofibersbyplasmatreatmentandcationizedgelatin immobilization for cartilage tissue engineering[J].Acta Biomater, 2011,7(1): 234-43.   
+[14]Lu W, Ji K,Kirkham J,et al. Bone tissue engineering by using a combinationofpolymer/Bioglasscompositeswithhuman adipose-derived stem cells [J].Cell Tissue Res,2014，356(1): 97-107.   
+[15]Hynes RO.Integrins:bidirectional, allosteric signaling machines [J]. Cell,2002,110(6): 673-87.   
+[16] Soman G,Yang X, Jiang H,et al. MTS dye based colorimetric CTLL-2 cell proliferation assay for product release and stability monitoring of interleukin-15:assay qualification，standardization and statistical analysis [J].J Immunol Methods,2009,348(1/2): 83-94.   
+[17]Malich G,Markovic B,Winder C.The sensitivity and specificity of the MTS tetrazolium assay for detecting the in vitro cytotoxicity of 20 chemicals using human cell lines[J]. Toxicology,1997,124(3): 179-92.   
+[18] Gori F,Thomas T,Hicok KC,et al.Differentiation of human marrow stromal precursor cells: bone morphogenetic protein-2 increases OSF2/CBFA1，enhances osteoblast commitment，and inhibits late adipocyte maturation[J].J Bone Miner Res,1999,14 (9): 1522-35.   
+[19]Bellows CG,Aubin JE,Heersche JN,et al.Mineralized bone nodules formed in vitro from enzymatically released rat calvaria cell populations[J].Calcif Tissue Int,1986,38(3): 143-54.   
+[20]Collignon H,Davicco MJ,Barlet JP.Isolation of cells from ovine fetal long bone and characterization of their osteoblastic activities during in vitro mineralization[J].Arch Physiol Biochem,1997,105 (2): 158-66.   
+[21]Errico JA，Macneil RL，Takata T,et al.Expression of bone associated marker by tooth root lining cells in situ and vitro[J]. Bone,1997,20(2): 117-26. (编辑.黄开颜)

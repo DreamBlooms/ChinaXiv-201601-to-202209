@@ -1,0 +1,148 @@
+# 基于IFC标准的BIM模型编程语言解析方法研究
+
+陈远康虹张静雅（郑州大学土木工程学院，郑州450001）
+
+【摘要】IFC标准定义了建筑信息模型交换的数据格式,为面向建筑全生命周期的信息交换和共享提供了标准的数据定义和数据模型,是目前对建筑信息描述最全面、最详细的标准，是解决建筑行业BIM软件之间数据交换性和互操作性问题的重要标准。但是IFC基于EXPRESS语言来定义建筑信息交换与共享,EXPRESS 语言本身不是编程语言且不可被计算机编译执行,因此使用计算机编程语言解析和处理基于IFC 标准的 BIM模型,是BIM软件开发的基础和关键技术。本研究利用开源的Java插件,解析基于IFC的BIM模型,生成相对应的IFC实体类,在此基础上,利用Java语言来具体编程实现不同的应用功能,为下一步的基于IFC 标准的土木建筑工程 BIM软件开发奠定了基础。
+
+【关键词】建筑信息模型；BIM；IFC；Java  
+【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)03-0085-05  
+【DO1】10.16670/j.cnki.cn11-5823/tu.2017.03.15
+
+IFC（Industry Foundation Classes）标准是 build-ingSMARTInternational[1]制定和维护的建筑信息模型BIM数据交换标准，从IFC4开始，IFC标准已经被 ISO 国际标准组织接受为 ISO16739。IFC 是一个开放、标准化、支持扩展的通用数据模型标准，已被建设行业接受为国际标准，其目的是使BIM软件在建筑业中的应用具有更好的数据交换性和互操作性。IFC是开放的建筑信息模型数据表达和交换标准，为面向建筑全生命周期的信息交换和共享提供了标准的数据定义和数据模型。IFC基于EX-PRESS语言来定义土木建筑工程领域信息交换与共享的数据表达。EXPRESS语言是描述产品信息模型的标准语言，EXPRESS不是编程语言并且不可以被计算机编译执行，但是可以被JAVA、 $. { \mathrm { C } } + + { \mathrm { } } , { \mathrm { C } } \#$ 等面向对象的编程语言识别和处理。因此，使用计算机编程语言识别和处理土木建筑工程领域基于IFC 标准的数据表达和数据交换，以及IFC标准的计算机编程语言实现方法，是基于IFC标准的土木建筑工程BIM软件开发的基础和关键技术。
+
+# 1 IFC标准概述
+
+开放性的国际标准IFC描述了建筑产品各方面的信息，定义了建筑信息交换的数据格式和建筑物及其附属物的信息交换格式，是目前对建筑信息描述最全面、最详细的标准。从IFC的2X3版本开始，加入了GIS数据信息以及GUID，目前的最新版本是IFC4。IFC 使用EXPRESS语言来描述建筑对象、实例关系、对象属性以及几何、度量等资源。IFC采用STEPPart21文件描述BIM信息，即保存BIM信息的物理文件格式为STEPPart21格式。
+
+当前被广泛支持的IFC2X3版本包含600多个实体定义，300多个类型定义，IFC标准的信息描述由四个层次组成，代表不同的级别，从底层到顶层包括：资源层、核心层、共享层和领域层，如图1所示。位于最底层的资源层用来描述基本属性的实体，包括几何信息资源、成本资源、拓扑资源、几何模型资源、结构荷载资源、几何约束资源等，通常作为上层实体的基础信息定义。核心层定义了模型的核心框架，包括核心资源、控制扩展、产品扩展、过程扩展等。共享层包含最常用的实体以及跨专业交换的信息，包括共享的建筑构件组成部分、共享的管理组成部分、共享的设施组成部分等。领域层包括各领域具体的概念定义，包括建筑领域、结构构件领域、结构分析领域、电气领域等。
+
+![](images/6158db8004bb94ddb497d02af8b44fb5d2c824653d0bbab319bef6cb057b4533.jpg)  
+图1IFC标准信息描述层次
+
+基于IFC 标准的完整 BIM 模型由类型定义、函数、规则和属性集组成。IFC模型的重要组成部分是类型定义，由实体类型、选择类型、枚举类型和定义类型四种类型组成。其中实体类型是IFC模型的核心，是信息交换和共享的载体，而其他类型是以属性值的方式作为实体类型属性的引用。在IFC层次体系中，核心层、共享层和领域层中的所有实体类型有一个共同的抽象基类IfcRoot。IfcRoot是处于顶层的抽象类,它有三个主要的继承类：IfcObject-Definition、IfcPropertyDefinition 以及IfcRelationship。这三个抽象类及其继承类构成了IFC模型的核心，处于核心层。而其他实体则主要由这三个抽象类继续派生，构成了不同领域和专业的实体类型，处于共享层和领域层。IfcObjectDefinition的派生类If-cObject有七个主要的继承类，包括IfcActor、Ifc-Group、IfcProduct、IfcControl、IfcProcess、IfcResource和IfcProject。它们构成了Ifc 模型的核心信息交换实体。IfcPropertyDefinition及其继承类定义了Ifc模型常用的属性信息，并且提供了信息扩展方法。Ifc-Relationship及其继承类为Ifc模型提供了实体与实体之间、实体与属性之间等各种复杂关系的定义。
+
+# 2IFC模型的计算机编程语言解析方法
+
+IFC模型是基于EXPRESS语言描述的开放性的建筑信息数据格式。EXPRESS语言是一种面向对象的、规范化的数据描述语言，重点在数据的描述和定义，EXPRESS语言不是计算机编程语言，不能被计算机编译和执行。因此基于EXPRESS语言的IFC模型需要首先被解析，以生成相对应的IFC实体对象，建立实体对象之间的层次结构关系，并且通过 $\mathrm { C \# } \mathrm { , C + + }$ 或者Java等计算机语言来具体编程实现不同的应用功能。目前基于IFC标准的BIM软件开发有很多,包括IFC 模型浏览器[2]基于 IFC标准的BIM模型格式检查与验证以及基于IFC标准的几何模型的解析[4]等。
+
+有三种主要的解析方法可以将基于EXPRESS语言定义的IFC模型与具体的计算机编程语言进行绑定，以形成可供计算机调用的程序。这三种方法为早绑定、晚绑定和混合绑定。早绑定指在计算机编程语言中为IFC 模型中的每一个实体创建具体的数据结构，并且能够通过编程访问具体的数据。晚绑定指通过EXPRESS数据字典来访问具体的数据，优点是实现简单，缺点为缺乏类型检查以及编程接口API不够友好。混合绑定指结合了两者的特点，但在具体软件开发中使用较少。
+
+由于IFC是开放性的BIM标准，经过多年的发展，出现了许多商品化和开源的IFC开发工具和插件。例如典型的商业化工具平台 EPM Technology,包含的系列IFC开发工具有：EDMdeveloperSeatBasic,EDMdeveloperSeat Professional,EDMmodelMigrato,EDMmodelConverter 等。Eurostep 的 IFC Active Tool-box,以及STEPTools 的 ST－Developer 等。开源的IFC工具箱包括 BIMserver 和IFC Tools Project 等。这些IFC工具及插件提供了较为完整的EXPRESS数据读写及访问功能，能够有效地处理IFC模型数据。通过使用这些工具和插件，使快速开发基于IFC 标准的BIM软件成为可能，研究人员可以较少关注底层解析IFC模型的具体方法，而将大量的精力用在针对解决建筑行业具体问题的软件功能
+
+开发。
+
+本文以其中 IFC Tools Project 为例,探讨基于IFC 标准的 BIM 模型解析方法。IFC ToolsProject[5]提供了一个面向对象的早绑定Java插件，用来解析基于 $\operatorname { I F C } 2 \mathrm { x } 3$ 和IFC4的BIM模型。这个插件可以方便的读取、写入、更改和添加IFC文件，将IFC 实体映射为Java类，并且对应的Java类包含了IFC实体的所有属性，以及支持IFC实体的反转属性。
+
+这个插件主要由三部分组成：
+
+(1)每个IFC实体都有相对应的Java类。每个Java类都提供能够读取和设置对应IFC实体属性的方法，利用这些类的方法可以非常方便的读取和设置包括反转属性在内的所有属性。IFC框架体系中所有实体的继承结构都体现到了相对应的Java 类的继承结构。IFC框架体系中所有定义类型和实体类型都映射为相应的接口。
+
+（2)IFC 文件解析器,可以解析IFC STEP 文件和 IFC Zip 文件。
+
+2(3)核心 IFC 模型 IfcModel,用来读取 IFC 文件,操作 IFC 模型中所包含的 IFC 实体,增加与删除IFC 实体。
+
+， 通过调用IfcModel类的文件读取方法，IFC模型将会被加载到内存并且所有IFC实体将会被初始化，如图2所示。
+
+//创建IfcModel类的对象  
+IfcModel ifcModel $\mathbf { \lambda } = \mathbf { \lambda }$ new IfcModel();  
+//从文件系统装载IFC文件  
+FilestepFile $\mathbf { \lambda } = \mathbf { \lambda }$ newFile("d:\\revitpractice\\example.ifc");  
+tifcModel.readStepFile(stepFile)；  
+}catch（Exception e）{//TODo Auto-generatedcatch blocke.printStackTrace();  
+}
+
+以IFC标准为基础的BIM模型，其空间结构的组织形式包括项目、场地、建筑、楼层、空间等。其中IfcProject是整个模型的根实体，也是IFC 模型解析的起点。图3展示了在Java程序中创建If-cProject类的实例,以及获得所有IFC实体对象的集合。每一个IFC实体的属性，都可以通过相对应的Java类包含的get-和set-方法读取和设置，如图图4所示,IfcWall实体的representation属性可以通过对应的IfcWall 类的getRepresentation（）方法获得。
+
+//创建IfcProject类的对象   
+IfcProject ifcProject $\mathbf { \lambda } = \mathbf { \lambda }$ ifcModel.getIfcProject()；   
+//获得所有IFC实体对象的集合   
+Collection<ClassInterface>ifcobjects $\mathbf { \lambda } = \mathbf { \lambda }$ ifcModel.getIfcobjects()； IfcWall ifcWall $\mathbf { \sigma } = \mathbf { \sigma }$ .；   
+//读取ifcWall的representation属性   
+IfcProductRepresentation representation $\mathbf { \lambda } = \mathbf { \lambda }$ ifcWall.getRepresentation()；
+
+# 3 IFC模型解析实例分析
+
+本文选取的IFC 测试模型为BuildingSMART提供的IFC文件，版本为 $\operatorname { I F C } 2 \mathrm { x } 3$ ，如图5所示。图6为对应的BIM模型。Java开发环境为Java8、EclipseLuna、SWT/JFace、RCP等。IFC测试文件包括Ifc-Window、IfcOpenElement和IfcWall三个实体,每个实体都有自己的属性信息，包括宽度、高度、面积等。测试的目的为解析IFC文件，获取三个实体的物理属性信息，即IfcPhysicalSimpleQuantity实体所包含的数值信息。
+
+so-10303-21;  
+HEADER;  
+FILE_DESCRIPTION ('ViewDefinition [CoordinationView,QuantityTakeOffAddOnView]'）,‘2;1’）；  
+FILE_NAME（'example.ifc²，'2015-01-07T15:18:06’，（'Architect’），（'BuildingDesigner Office'）,‘IFC Engine DLL version1.O2 beta’，'IFC Engine DLL version1.02 beta’,‘The authorising person'）；  
+FILE_SCHEMA（('IFC2X3））；  
+ENDSEC;  
+DATA;  
+$\# 1 =$ IFCPROJECT('2BxD9ZTvnENhRLQgsovhgI'，#2,‘DefaultProject’，'DescriptionofDefaultProject²，\$,\$,\$,（#2O)，#7）；  
+（20 $\# 2 =$ IFCOWNERHISTORY(#3,#6,\$,.ADDED.，\$,\$,\$,1420615086）；  
+$\# 3 =$ IFCPERSONANDORGANIZATION(#4,#5,\$）；  
+#4=IFCPERSON(IDOO1’,'Bonsma,'Peter,\$,\$,\$,\$,\$）；  
+#5=IFCORGANIZATION(\$,’TNO’，‘TNO BuildingInnovation’，\$,\$）；  
+#6 $\mathbf { \sigma } = \mathbf { \sigma }$ IFCAPPLICATION(#5, ${ \mathit { \Omega } } ^ { \prime } 0 . 1 0 ^ { \prime }$ ，'TestApplication’，'TA1001’）；  
+#7 $\mathbf { \sigma } = \mathbf { \sigma }$ IFCUNITASSIGNMENT（（#8,#9,#1O,#11，#15,#16，#17,#18,#19））；  
+#8=IFCSIUNIT $( * ,$ .LENGTHUNIT.，.MILLI.，.METRE.）；  
+（20 $\# 9 =$ IFCSIUNIT(\*,.AREAUNIT.，\$,.SQUARE_METRE.）；  
+$\sharp 1 0 =$ IFCSIUNIT(\*，.VOLUMEUNIT.，\$,.CUBIC_METRE.）；  
+#11 $\mathbf { \tau } = \mathbf { \tau }$ IFCCONVERSIONBASEDUNIT(#12,.PLANEANGLEUNIT.,'DEGREE'，#13)；  
+$\# 1 2 =$ IFCDIMENSIONALEXPONENTS(O,O,O,O,O,0,0）；  
+$\# 1 3 =$ IFCMEASUREWITHUNIT(IFCPLANEANGLEMEASURE(1.745E-2)，#14)；  
+#14 $\mathbf { \tau } = \mathbf { \tau }$ IFCSIUNIT(\*，.PLANEANGLEUNIT.,\$,.RADIAN.）；  
+#15 $\mathbf { \sigma } = \mathbf { \sigma }$ IFCSIUNIT(\*,.SOLIDANGLEUNIT.,\$,.STERADIAN.）；  
+#16 $\mathbf { \sigma } = \mathbf { \sigma }$ IFCSIUNIT(\*，.MASSUNIT.，\$,.GRAM.）；  
+#17 $\mathbf { \sigma } = \mathbf { \sigma }$ IFCSIUNIT(\*，.TIMEUNIT.，\$，.SECOND.）;  
+$\# 1 8 =$ IFCSIUNIT(\*,.THERMODYNAMICTEMPERATUREUNIT.，\$,.DEGREE_CELSIUS.）；  
+$\# 1 9 =$ IFCSIUNIT(\*，.LUMINOUSINTENSITYUNIT.，\$,.LUMEN.）；  
+$\# 2 0 =$ IFCGEOMETRICREPRESENTATIONCONTEXT(\$,‘Mode1’，3,1.OOOE-5,#21，\$）;  
+#21 $\mathbf { \sigma } = \mathbf { \sigma }$ IFCAXIS2PLACEMENT3D（#22,\$,\$）；  
+$\# 2 2 =$ IFCCARTESIANPOINT（(O.，O.，0.））；  
+$\# 2 3 =$ IFCSITE('Og3TWscyX8beYSWxI_ZqQO’，#2,'Default Site’,‘DescriptionofDefault Site²，\$,#24，\$,\$,.ELEMENT.，（24，28，O）,（54,25,0），\$,\$,\$）；  
+$\# 2 4 =$ IFCLOCALPLACEMENT(\$,#25)；  
+$\# 2 5 =$ IFCAXIS2PLACEMENT3D（#26,#27，#28）；  
+$\# 2 6 =$ IFCCARTESIANPOINT（(O.，O.，0.））；
+
+![](images/7fd2d10d265c43905cc94779613a5cbfd190f4598ae0ce219486eef8f2825aff.jpg)  
+图6IFC 测试文件对应的BIM模型  
+图8IFC模型IfcRelDefinesByProperties实体解析方法
+
+如图7所示，在IFC文件的属性信息描述和关联机制中，属性集是通过IfcDefinedByProperties关系实体将 IfcObject与 IfcPropertSetDefinition 描述的属性集信息相关联。IfcPropertSetDefinition有三个派生类实体,其中 IfcElementQuantity 定义了建筑构件的物理属性信息，其通过Quantities属性，包含一个或多个IfcPhysicalQuantity 实体。IfcPhysicalQuantity有两个派生类，其中IfcPhysicalSimpleQuantity实体包含了单个的物理属性值，它有六个派生类实体，每个实体表达一种物理属性。例如IfcQuantity-Length代表构件的长度值，IfcQuantityArea代表构件的面积等。
+
+如图8所示，通过循环和迭代器，读取测试文件中的所有IfcRelDefinesByProperties 实体,判断IFC标准的版本，以及进一步读取相关联的构件实体与属性集信息。
+
+for(Iterator localIterator1=this.ifcModel.getCollection( 获得模型中所有的IfcRelDefinesByProperties IfcRelDefinesByProperties.class).iterator();localIterator1 .hasNext(）;）{ 实体 Object localobject; IfcElementQuantity localIfcElementQuantity; Iterator localIterator2; if（(localObject=(IfcRelDefinesByProperties)localIterator1 next())instanceofIfRelDefinesByProperties.Ifc23){判F版本 if(1(((com.ifctp.ifctoolbox.ifc.IfcRelDefinesByProperties.Ifc2x3)localobject) getRelatingPropertyDefinition() instanceof IfcElementQuantity)) continue; localIfcElementouantity=(IfcElementQuantity)（(IfcRelDefinesByProperties.Ifc2x3)localobject) .getRelatingPropertyDefinition(); 获得RelatingPropertyDefinition for（localIterator2=（(IfcRelDefinesByProperties.Ifc2x3)localobject) .getRelatedobjects().iterator()；localIterator2 属性的值IfcElementQuantity .hasNext(）;){ 获得对应的构件实体 localobject=（Ifcobject)localIterator.next(）： a(localIfcElementQuantity, (IfcobjectDefinition)localobject)； ）
+
+![](images/9bae4b6f39fdc90f243db771b74597af66bc2841bcdcf296fa3199cb47b0c9d3.jpg)  
+图7IFC标准构件实体与属性集的关联机制  
+图9IFC模型IfcElementQuantity实体解析方法  
+图10解析IfcPhysicalSimpleQuantity实体的方法以及读取建筑构件不同物理属性信息
+
+图9展示了通过循环和迭代器解析IFC模型IfcElementQuantity实体的方法。
+
+if(paramIfcElementQuantity.getQuantities(）!=null）{获得Quantities属性的值 for(Iterator localIterator $\mathbf { \lambda } = \mathbf { \lambda }$ paramIfcElementOuantity .getQuantities().iterator()；localIterator.hasNext();){ if((localIfcPhySicalQuantity=（IfcPhysicalQuantity）localIterator .next()）instanceof IfcPhysicalSimpleQuantity){ resolveSimpleQuantity(localIfcPhySicalQuantity, localHashMap); 判断Quantities属性值的类别 } if(!(localIfcPhySicalQuantity instanceof IfcPhysicalComplexQuantity)) continue resolveComplexQuantity(localIfcPhySicalQuantity，localHashMap); 广   
+F
+
+图10展示了通过判断和调用类相对应的方法，解析IfcPhysicalSimpleQuantity实体，以及读取建筑构件不同物理属性信息。
+
+public void resolveSimpleQuantity( IfcPhysicalQuantity paramIfcPhysicalQuantity, HashMap<String，String>paramHashMap){ if((paramIfcPhysicalOuantity=（IfcPhysicalQuantity)paramIfcPhysicalQuantity) instanceof IfcOuantityArea){ 读取建筑构件的面积信 double d1 $\mathbf { \sigma } = \mathbf { \sigma }$ （(IfcOuantityArea)paramIfcPhysicalQuantity) .getAreaValue().getValue()； 息 String str=this.decimalFormat.format(d1)； paramHashMap.put(paramIfcPhysicalQuantity.getName() .getDecodedValue（），str)； return; F if(paramIfcPhysicalQuantity instanceof IfcQuantityCount){ double d1=((IfcQuantityCount)paramIfcPhysicalQuantity) .getcountValue().getValue()； String str=this.decimalFormat.format(d1); 读取建筑构件物理属性通过计 paramHashMap.put(paramIfcPhysicalQuantity.getName() .getDecodedValue()，str)； 算得来的数值信息 return;
+
+通过编程对IFC模型的结构体系进行深入解析，读取IFC实体的数据，并且将数据保存在Java容器中，最后用JavaJFace中的TableViewer将所有建筑构件的物理属性信息显示出来，如图11所示。
+
+![](images/283fadc5433609f6e3cedc1c9d3447a5523d777a980811fdd660eb003bf71f2e.jpg)  
+图11建筑构件的物理属性信息
+
+# 4结论
+
+IFC标准是基于EXPRESS语言描述的一种建筑信息模型数据表达格式。EXPRESS语言不是计算机编程语言，不能被计算机编译和执行。本文利用开源的Java插件，首先解析基于EXPRESS语言的IFC 模型,生成相对应的IFC 实体类,建立实体类之间的层次结构关系，在此基础上，利用Java语言来具体编程实现不同的应用功能。研究人员可以较少关注解析底层IFC标准的具体方法，而将大量的精力用在针对解决建筑行业具体问题的软件功能开发，为下一步的基于IFC标准的土木建筑工程BIM软件开发奠定了基础。
+
+# 参考文献
+
+[1］IndustryFoundation Classes IFC Official Release[R].buildingSMART，http://www.buildingsmart -tech.org，2015.   
+[2]Owolabi,A.,Anumba,C.J.,EI-Hamalawi,A.,Harper, C.，Development of an Industry Foundation Classes Assembly Viewer[J].Journal of Computing in Civil Engineering.2006，20(2）：121-131.   
+[3]Zhang,C.,Beetz,J.,Weise,M.，Model view checking: automated validation for IFCbuilding models［C]．eWork and eBusiness in Architecture，Engineering and Construction ECPPM.2014:123-128.   
+［4］张建平,张洋,张新．基于IFC的BIM三维几何建模及 模型转换[J]．土木建筑工程信息技术,2009,1（1)： 40-50.   
+[5]IFCTools Project，http://www.ifctoolsproject.com/，2016.
+
+# Research on Resolving Method of IFC-based BIM Model Programing Language
+
+Chen Yuan，Kang Hong，Zhang Jingya (School of Civil Engineering，Zhengzhou University，Zhengzhou 45OoO1，China）
+
+Abstract:The IFC standard defines the data format for the exchange of BIM modelsand provides a standard data definitionand data model forthe information exchangeand sharingof the whole building life-cycle.It is the most comprehensiveand detailed standard forbuilding information descriptionand the keyconcern to solvethe data exchange and interoperability isues between BIM software. However，the IFC standard is based on EXPRESS language to define the building information exchange and sharing，andthe EXPRESS language itself is not a programming languagethat failsto becompiledbythecomputer compiling.Therefore,itis the foundationand key technology of BIM software development to use the computer programming language to parse and process the IFC-based BIM model.This research uses the open source Java plug-in to analyse the IFC-based BIM model and generate the corresponding IFC entity class.Based on the resolving of IFC models，diferent software functions can be programmed by using Java language,based on which the next step of IFC-based BIM software development can be realised.
+
+KeyWords:BIM；IFC；Java

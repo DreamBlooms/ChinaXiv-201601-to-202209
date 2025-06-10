@@ -1,0 +1,137 @@
+# 玉米核雄性不育的分子机理研究与应用分析\*
+
+柳双双1,2,3#吴锁伟 $^ { 1 , 2 \# }$ 饶力群1万向元 $^ { 1 , 2 , 3 ^ { * * } }$
+
+（1 湖南农业大学 生物科学技术学院，长沙 410128；2北京科技大学 生物前沿技术与应用研究中心、化学与生物工程学院、平谷生物农业研究院，北京100024；3北京首佳利华科技有限公司主要作物生物育种北京市工程实验室、生物育种北京市国际科技合作基地，北京100192)
+
+摘要玉米细胞核雄性不育突变体是研究花粉发育和减数分裂的理想材料，也是杂种优势利用的重要种质资源。随着分子生物技术的快速发展，部分玉米细胞核雄性不育基因陆续被成功克隆，为其在工程不育化杂交种生产中的应用奠定了基础。本文综述了近年来对玉米细胞核雄性不育的细胞学鉴定、基因克隆和分子机理的研究进展，并对其应用途径和前景进行了分析。
+
+关键词玉米、细胞核雄性不育、基因克隆、分子机理、杂种优势利用
+
+中图分类号 Q785
+
+植物雄性不育（male sterility,MS）是指在高等植物中，雄性器官发育异常，不能产生有功能的雄配子（花粉)，但雌性器官发育正常，能接受正常雄配子而受精结实，并能将该不育性遗传给后代的现象。高等植物的花粉发育，受到大量基因的协同表达调控，其中某个基因的结构或功能发生突变，都可能导致雄性不育现象。目前在玉米中已经发现200多个细胞核雄性不育突变体[I，但是仅有十多个细胞核雄性不育基因被克隆，大部分细胞核雄性不育基因及其作用机制尚不清楚。
+
+玉米是雌雄同株异花作物，拥有独立的雄花器官和非常规律的花粉发育进程，是研究花粉发育和减数分裂的理想材料。花粉发育的整个过程在花药中完成。成熟的玉米花药有4个花粉囊，每个花粉囊都由4层细胞（由外至内分别是表皮层、内皮层、中间层和绒毡层）组成的药室壁和1个药室构成，药室壁包围着花粉母细胞。花粉母细胞经过减数分裂产生小孢子，最终发育成为成熟的花粉粒。玉米花粉发育进程，大概可以分为6-11个不同发育时期，分别是：减数分裂前期（包括花药原基期、前胼抵质期、中胼胝质期）、减数分裂期（包括减数分裂期和四分体期)、单核小孢子期（可细分为前期、中期、后期）、花粉第一次有丝分裂期（或幼龄花粉期）、花粉第二次有丝分裂期（近成熟花粉期）和成熟花粉期[2]。花粉发育是在营养组织（孢子体花药壁组织）和生殖组织（雄配子体）的协同作用下完成的，在此过程中由于任一环节器官发育的异常，都可能导致雄性不育。细胞核雄性不育是由于核基因突变导致的花粉败育现象。玉米参与调控花粉发育的基因预计有33000个以上，影响花粉发育的各个阶段。因此，玉米核雄性不育突变体的发现、细胞学鉴定和基因克隆，有助于解析玉米花粉发育的细胞学和分子遗传学机制。同时，雄性不育应用于玉米杂交制种中，可以免除人工或机械去雄、降低制种成本、提高制种纯度和产量，具有非常重要的应用价值。
+
+# 1.玉米细胞核雄性不育突变体的发现和细胞学分析
+
+自从1921年Eyster首次发现的玉米无花粉型雄性不育突变体ms1以来，已经有超过40个不同的雄性不育突变体被陆续发现、鉴定和命名（表1)，其中除Ms41、Ms42和Ms44 三个显性核不育突变体之外,其它都是隐性核不育突变体 (MaizeGDB,www.maizegdb.org)。近年来，国内外研究者通过辐射诱变、EMS 诱变、转座子插入等途径，又创造出了一批新的玉米隐性核不育突变体[1,3.4]，进一步丰富了玉米细胞核雄性不育基因的种质资源。
+
+表1玉米细胞核雄性不育突变体及其染色体定位  
+Table1 Maize genetic male-sterile mutants and their chromosome locations   
+
+<html><body><table><tr><td>序号</td><td>突变体</td><td>染色体位置</td><td>参考文献</td><td>序号</td><td>突变体</td><td>染色体位置</td><td>参考文献</td></tr><tr><td>No.</td><td>Mutants</td><td>Chr. sites</td><td>References</td><td>No.</td><td>Mutants</td><td>Chr. sites</td><td>References</td></tr><tr><td>1</td><td>ms1</td><td>6L</td><td>[5-7]</td><td>22</td><td>ms26</td><td>1S</td><td>[24,25]</td></tr><tr><td>2</td><td>ms2</td><td>9L</td><td>[5,7]</td><td>23</td><td>ms28</td><td>1S</td><td>[26]</td></tr><tr><td>3</td><td>ms3</td><td>3L</td><td>[8]</td><td>24</td><td>ms29</td><td>10S</td><td>[27]</td></tr><tr><td>4</td><td>ms5</td><td>5L</td><td>[5]</td><td>25</td><td>ms30</td><td>4L</td><td>[28,29]</td></tr><tr><td>5</td><td>ms7</td><td>7L</td><td>[5,9-11]</td><td>26</td><td>ms31</td><td>2L</td><td>[28]</td></tr><tr><td>6</td><td>ms8</td><td>8L</td><td>[5,12-14]</td><td>27</td><td>ms32</td><td>2L</td><td>[30]</td></tr><tr><td>7 8</td><td>ms9</td><td>1S</td><td>[5,9,15]</td><td>28</td><td>ms33</td><td>2L</td><td>[31,32]</td></tr><tr><td></td><td>ms 10/apv1</td><td>10L</td><td>[4,5,9]</td><td>29</td><td>ms34</td><td>7L</td><td>[33]</td></tr><tr><td>9</td><td>ms11</td><td>10L</td><td>[5,9,16]</td><td>30</td><td>ms36</td><td>9L</td><td>[34]</td></tr><tr><td>10</td><td>ms12</td><td>1L</td><td>[5,9]</td><td>31</td><td>ms37</td><td>3L</td><td>[35]</td></tr><tr><td>11</td><td>ms13</td><td>5S</td><td>[5,9,15]</td><td>32</td><td>ms38</td><td>2L</td><td>[36]</td></tr><tr><td>12 13</td><td>ms14</td><td>1S</td><td>[5,9,17]</td><td>33</td><td>Ms41</td><td>4L</td><td>[37]</td></tr><tr><td>14</td><td>ms17</td><td>1S</td><td>[5]</td><td>34</td><td>Ms42</td><td>5S</td><td>[38]</td></tr><tr><td>15</td><td>ms18</td><td>1</td><td>[18]</td><td>35</td><td>ms43</td><td>8</td><td>[26]</td></tr><tr><td></td><td>ms19</td><td>9</td><td>[18]</td><td>36</td><td>Ms44</td><td>4L</td><td>[37,39]</td></tr><tr><td>16</td><td>ms20</td><td>ND</td><td>[18]</td><td>37</td><td>ms45</td><td>9L</td><td>[40]</td></tr><tr><td>17</td><td>ms21</td><td>6</td><td>[19]</td><td>38</td><td>ms47</td><td>10S</td><td>[41]</td></tr><tr><td>18</td><td>ms22/msca1</td><td>7S</td><td>[20,21]</td><td>39</td><td>ms48</td><td>9L</td><td>[42]</td></tr><tr><td>19</td><td>ms23</td><td>8S</td><td>[22]</td><td>40</td><td>ms49</td><td>10</td><td>[43]</td></tr><tr><td>20</td><td>ms24</td><td>10S</td><td>[23]</td><td>41</td><td>ms50</td><td>6L</td><td>[44]</td></tr><tr><td>21</td><td>ms25</td><td>9</td><td>[24]</td><td>42</td><td>ms52</td><td>10</td><td>[45]</td></tr></table></body></html>
+
+目前，已经完成细胞学初步鉴定的玉米细胞核雄性不育突变体包括：ms1、ms2、ms5、ms7、ms8、ms9、ms10/apv1、ms11、ms12、ms13、ms14、ms17、ms22/mscal、ms23、ms25、ms26、ms30、ms32、csmdl、macl、ocl4、ipel等。按照突变体细胞学缺陷发生的花粉发育时期，大致分为如下三类：（1)减数分裂前突变体：包括 $m s \& ^ { [ 5 , 1 2 - 1 4 ] }$ ， $m s 9 ^ { [ 5 , 9 , 1 5 ] }$ ， ms22/msca1[20,21], ms23[22],ms32[30]，ocl4[46]和mac1[47]等。其中，ms8和ms9的花粉母细胞发育异常，它们主要在小孢子发育的早期起作用[5]；在ms23和ms32中，花粉母细胞降解发生在减数分裂初期，绒毡层细胞不能正常分化，导致产生没有功能的 5层细胞的花药壁[22,30]。在ms22/mscal突变体中，花药发育更为极端，花药细胞层分化不正常，伴随着表皮细胞、薄壁细胞和无功能的维管束上有气孔发现[21]。ocl4 突变体显示减数分裂前的花药细胞壁发育异常，在花药壁表皮下存在额外的类似于内皮层的细胞层数，导致部分雄性不育[46]。mac1突变体的花粉囊中，在绒毡层分化前由于孢子细胞分裂增殖过快，含有过量的孢子细胞[47]。（2）减数分裂突变体：包括 $m s 5 ^ { [ 5 ] }$ 、$m s l I ^ { [ 5 , 9 , 1 6 ] }$ 、ms14[5,9,17]和ms17[5]等。其中，ms5、msl1、ms14突变发生在小孢子发育的减数分裂期;ms17突变体影响纺锤体的形成[5]。（3)减数分裂后突变体：包括ms1[5-7],ms2[5,7], $m s 7 ^ { [ 5 , 9 - 1 1 ] }$ ，ms10/apv1[4],ms12[5,9],ms13[5,9,15]，ms25[24]，ms26[24,25]，ms30[28,29,49]，csmd1[48]， ipe1[3]等。其中,ms1的显著特征在于异常加厚的小孢子壁；ms2和ms7的小孢子壁发育较差，绒毡层细胞发育异常；ms10/apvl和ms13的小孢子壁厚度仅相当于正常小孢子壁的一半；ms12小孢子壁发育正常，但是细胞核降解；ms25、ms26突变体的共同特征是花药壁发育异常，小孢子从四分体释放后都快速降解，但是它们的绒毡层细胞表现迥异：ms25绒毡层细胞中聚集大量的脂质体，而 ms26绒毡层细胞表现为高度液泡化。对于ms30花药发育的超微结构观察表明，在花粉发育的前期如减数分裂到四分体时期，ms30不育株花粉发育未见异常。花粉母细胞能完成减数分裂，并形成正常的小孢子，在小孢子继续发育、花粉壁特化的过程中可见明显差异。和可育株花粉壁的连续、厚度均匀相比，不育株花粉外壁的基层形态表现为不连续、不完整，从而导致小孢子内部结构破坏，细胞器和细胞质降解变空，可能是缺少某种结构性功能蛋白质引起的[49]。csmd1突变体表现为减数分裂前的孢子体缺陷和减数分裂后的配子体和孢子体缺陷[48]。ipel突变体表现为异常的花粉外壁发育，IPE1参与调控花药角质层和花粉外壁的形成[3]。
+
+Timofejeva等[对 244个玉米雄性核不育突变体进行了细胞学分析和等位性测验。最后发现了42个新雄性核不育突变体，包括22个减数分裂前突变体、7个减数分裂后突变体和13个减数分裂突变体。同时，等位性测验发现了4个减数分裂前突变体（mscal、ms32、ms8和ocl4）的新等位变异和减数分裂后突变体（ms45）的2个新等位变异。此外，Timofejeva 等[1]将减数分裂前突变体进一步划分为四类：花药特性缺陷型、花药结构缺陷型、花药壁细胞层数缺陷型、细胞壁成熟前降解型（详见表2)，这为玉米花药发育的细胞学分析提供了参考依据。
+
+表2玉米核雄性不育突变体的细胞学分类  
+Table 2 Classification of genetic male-sterile mutants in maize   
+
+<html><body><table><tr><td>类型 (Group)</td><td>表型 （Phenotype)</td><td>突变体 (Mutants)</td></tr><tr><td>1、花药特性</td><td>（1）小花中的花药缺失</td><td>ms-si*355,ems71990</td></tr><tr><td>缺陷型</td><td>（2）花粉囊细胞未分化</td><td>mscal-ems63131,msca1-ms6064</td></tr><tr><td>2、花药结构 缺陷型</td><td>二室花药</td><td>vlo-ems71924,vlo-ems72032</td></tr><tr><td>3、花药壁层 数缺陷型</td><td>（1）细胞层未分化</td><td>ems63089,mtm00-06,tcl1,ems72063</td></tr><tr><td></td><td>（2）下表皮细胞超分化</td><td>ocl4-mtm99-66</td></tr><tr><td rowspan="8">4、细胞壁成 熟前降解型</td><td>（3）中间层细胞超分化</td><td>ems72091</td></tr><tr><td></td><td></td></tr><tr><td>（4）绒毡层细胞超分化 （5）多核绒毡层细胞</td><td>ms*6015,ms32,ms32-ms6066,ms23,ems72063</td></tr><tr><td>4.1花药形态改变</td><td>ems63265,ems71777,RescueMu-E03-23</td></tr><tr><td>（1）性母细胞与绒毡层降解</td><td>ms8,ms8-mtm99-56,RescueMu-A60-22b,ems71884,</td></tr><tr><td>（2）绒毡层液泡化降解</td><td>ems64486 ems71787,RescueMu-P19-47</td></tr><tr><td>（3）绒毡层细胞皱缩降解</td><td></td></tr><tr><td>4.2 功能缺陷</td><td>ems71986,RescueMu-C17-32,RescueMu-A60-35A</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>（1）朕抵质不沉积</td><td>ms10</td></tr></table></body></html>
+
+# 2.玉米细胞核雄性不育基因的克隆与分子机理研究进展
+
+随着分子生物学技术的快速发展和玉米全基因组测序的完成，多种基于DNA序列多态性和 PCR技术的分子标记定位方法，如SSR、Indel、CAPS、SNP等，已经成为基因定位的主要研究方法，并被广泛应用于玉米雄性不育基因的定位克隆研究。
+
+据不完全统计，已完成克隆和功能分析的玉米核不育基因至少有16个（表3）。
+
+（1）本实验室共完成4个玉米核不育基因的图位克隆和功能分析：ms1、ms7、ms30和ms33。其中，ms1基因编码一个LBD类转录因子，参与调控玉米小孢子壁的发育；ms7基因编码一个PHD-finger 类转录因子，是拟南芥Ms1和水稻PTC1的同源基因，参与调控玉米的花粉发育[1]；ms30 基因编码一个GDSL 脂肪酶（GDSL-lipase)，参与调控玉米花药外壁和角质层的脂质代谢[29]；ms33基因编码一个GPAT 蛋白，也参与调控玉米花药外壁的脂质代谢和花药角质层的[32]。
+
+(2)美国斯坦福大学的Walbot实验室共完成3个玉米核不育基因的克隆和功能分析：ms8、ms23 和ms32。其中，ms8基因编码一个β-1,3-半乳糖基转移酶蛋白，可以与阿拉伯半乳糖蛋白（AGP）、生物素2、生物素4、线粒体外膜孔蛋白以及ATP酶复合体第1亚基等蛋白互作，参与花药早期物质合成、绒毡层细胞程序性死亡调控和线粒体代谢等过程[14]。ms23与ms32基因分别编码一个bHLH类转录因子，在减数分裂前期的花药中特异表达，主要调节花粉发育过程中绒毡层细胞和中层细胞的分裂和分化。在ms23和ms32突变体中绒毡层前体细胞不进行分化而是通过平周分裂形成绒毡层以外的其它细胞，这些细胞不断扩张并且液泡化，最终导致花粉母细胞败育[22.30]。
+
+（3)美国杜邦先锋公司共完成5个玉米核不育基因的克隆和功能分析：ms9、ms22、ms26、Ms44 和ms45。其中，ms9基因编码一个植物特异的R2/R3MYB类转录因子[15]，参与调控玉米花粉发育，具体作用分子机制尚不清楚。ms22/msca1基因编码一个谷氧还蛋白（GRX)，ms22突变体缺乏孢原细胞，花药细胞形态分化成类似叶片细胞[20.21]。ms26基因编码一个细胞色素P450 家族蛋白，是拟南芥CYP704B1基因的同源基因，该基因编码的蛋白属于长链脂肪酸@-羟化酶，该酶可以参与合成花粉发育过程所需的孢粉素和一些生物大分子单体物质。因而，ms26 突变后由于长链脂肪酸合成受阻导致花粉外壁无法正常发育[24,25]。ms45 基因编码一个异胡豆苷合成酶类似蛋白，可能参与生物碱合成途径。该基因突变后导致花粉外壁不能正常形成，最终花粉败育[40]。但是，ms45调控花粉发育的分子机制尚不清楚。与上述隐性核雄性不育基因不同的是，Ms44是一个显性核雄性不育基因，编码一个脂质转移蛋白，该基因的突变不仅引起显性核雄性不育，而且可以改善玉米的氮利用率，在玉米生产中具有重要应用价值[39]。
+
+（4）其他实验室完成的4个玉米核不育基因的克隆和功能分析：ocl4、mac1、ipel 和ms10/apvl。法国里昂大学的Rogowsky实验室克隆的ocl4 基因编码一个HD-ZIP 类转录因子，OCL4 调控毛状体的发育和花药细胞壁的分裂和分化[46]。美国加州大学伯克利分校的Cande 实验室克隆的mac1基因编码一个小的分泌蛋白，是拟南芥TPD1和水稻TDL1A的同源基因，主要调控花药发育早期的孢子细胞的分裂增殖[47]。中国农业大学金危危实验室克隆的 ipel 基因编码一个GMC氧化还原酶，与ms26、ms45、apv1共同参与调控花药角质层和花粉外壁的合成[3]。中科院遗传与发育生物学研究所的陈化邦实验室克隆的ms10/apvl与ms26类似，也编码一个细胞色素P450家族蛋白，是拟南芥CYP703B2基因的同源基因，作用机制也与ms26类似，参与合成花粉发育过程所需的孢粉素和一些生物大分子单体物质[4]。
+
+表3已经克隆的玉米核雄性不育基因  
+Table 3 The genic male sterility genes that has been cloned in maize   
+
+<html><body><table><tr><td>序号</td><td>基因名称</td><td>基因模型</td><td>编码蛋白</td><td>参考文献</td></tr><tr><td>No.</td><td>Gene name</td><td>Gene model</td><td>Coded proteins LOB/LBD protein 30</td><td>References [6]</td></tr><tr><td>1</td><td>msl,male sterility1 *</td><td>GRMZM2G180319</td><td></td><td>[11]</td></tr><tr><td>2</td><td>ms7, male sterility7*</td><td>GRMZM5G890224</td><td>PHD-finger protein</td><td>[14]</td></tr><tr><td>3 4</td><td>ms8,male sterility8</td><td>GRMZM2G119265 GRMZM2G308204</td><td>Beta-1,3-galactosyltransferase MYB transcription factor</td><td>[15]</td></tr><tr><td></td><td>ms9,male sterility9 ms22/mscal, male sterile</td><td></td><td></td><td>[21]</td></tr><tr><td>5</td><td>converted antherl</td><td>GRMZM2G442791</td><td>Glutaredoxin</td><td></td></tr><tr><td>6</td><td>ms23, male sterility23</td><td>GRMZM2G021276</td><td>bHLH transcription factor Cytochrome P450</td><td>[22]</td></tr><tr><td>7</td><td>ms26, male sterlity26</td><td>ZEMMB73_004940</td><td>monooxygenase,CYP704B1</td><td>[24]</td></tr><tr><td>8</td><td>ms30, male sterility30*</td><td>GRMZM2G174782</td><td>GDSL esterase/lipase protein</td><td>[29]</td></tr><tr><td>9</td><td>ms32, male sterility32</td><td>GRMZM2G163233</td><td>bHLH transcription factor</td><td>[30]</td></tr><tr><td>10</td><td>ms33, male sterility33 *</td><td>GRMZM2G070304</td><td>GPAT protein</td><td>[32]</td></tr><tr><td>11</td><td>Ms44, male sterility44</td><td>AC225727.3_FGT003</td><td>Type C non-specific lipid transfer protein</td><td>[39]</td></tr><tr><td>12</td><td>ms45, male sterility45</td><td>GRMZM2G139372</td><td>Strictosidin synthase</td><td>[40]</td></tr><tr><td>13</td><td>Ocl4, outer cell layer4</td><td>GRMZM2G123140</td><td>HD-ZIP transcription factor</td><td>[46]</td></tr><tr><td>14</td><td>macl, multiple archesporial</td><td>GRMZM2G027522</td><td>Small secreted protein legend</td><td>[47]</td></tr><tr><td>15</td><td>cells1 ipel, irregular pollen exinel</td><td>GRMZM2G434500</td><td>GMC oxidoreductase</td><td>[3]</td></tr><tr><td>16</td><td>apvl,abnormal pollen vacuolationl</td><td>GRMZM2G830329</td><td>Cytochrome P450 monooxygenase,CYP703A2</td><td>[4]</td></tr></table></body></html>
+
+\*注：ms1、ms7、ms30 和ms33是本实验室克隆的玉米隐性核雄性不育基因。
+
+# 3.玉米细胞核雄性不育基因的应用分析
+
+随着分子生物学的发展，部分细胞核雄性不育基因及其作用分子机理得到解析，为通过转基因的方法恢复和保持细胞核雄性不育系的育性奠定了基础。最先用到的策略是利用诱导型启动子驱动的育性恢复基因（Ms）转化隐性核不育系[50]。诱导性调控元件是能够应答于诱导剂直接或间接激活下游基因表达的DNA序列。当不存在诱导剂时，目标基因（Ms）不能被转录，因此育性恢复基因编码的蛋白质（Ms）以非活性形式存在，转基因植株表现为不育系性状;当存在诱导剂时，目标基因（Ms）被转录激活，因此目标蛋白（Ms）转化为有功能的活性形式，转基因植株表现为雄性可育的保持系性状，可以自交结实。这里的诱导剂可以是化学试剂，如蛋白质、代谢产物、生长调控因子、除草剂等，也可以通过热、冷、盐或毒性元素施加的生理胁迫等，主要取决于所用的诱导性调控元件类型[50,51]。
+
+近年来，美国杜邦先锋公司发明了一种新型杂交种子生产技术体系—SPT（Seed productiontechnology）技术，综合利用了转基因技术、荧光蛋白筛选技术和花粉失活技术策略，有效地解决了玉米隐性核雄性不育系的保持和繁殖问题[52]。其设计思路是利用现代生物技术，将玉米花粉育性恢复基因、花粉自我降解基因和红色荧光蛋白标记基因组合在一起，构建遗传转化载体，通过转基因技术，导入到玉米隐性核雄性不育系中，从而恢复不育系的育性并能有效繁殖，实现一系两用的目的。该转基因株系自交后，产生 $50 \%$ 的不育系种子（非红色荧光种子）和$50 \%$ 的保持系种子（红色荧光种子)，通过机械色选技术有效地将这两部分种子分离，正常颜色种子可以繁殖为不育系，用于玉米杂交育种和杂交制种；红色荧光种子自交产生其本身和正常颜色不育系种子。SPT技术已经在美国产业化应用，其不育系和杂交种产品已经被美国、日本、澳大利亚解除转基因管制[52]。最近，通过显性核不育基因 $M s 4 4$ 的克隆，先锋公司改造了SPT 技术，使其同样能够繁殖和保持显性核雄性不育系，在玉米杂交种生产中具有重要应用价值[39]。
+
+最近，我们实验室在 SPT技术基础上，基于玉米ms7突变体和 ZmMs7基因，研制了一种新型"玉米多控不育"技术体系[I]。利用两个花粉自我降解基因（ZmAA 和Dam）控制转基因花粉不传递，降低基因漂移风险，同时增加了一个除草剂基因（Bar)，有效保障转基因保持系和非转基因不育系制种的高纯度，有望培育出 $100 \%$ 非转基因的玉米多控不育系，建立一套基于多控不育系的高效玉米杂交育种和制种技术体系，提高玉米杂种优势利用率，为我国玉米种业乃至国家粮食安全提供技术支撑。
+
+# 4.结语与展望
+
+玉米细胞核雄性不育材料是一种优异的种质资源，但是由于纯合细胞核雄性不育系通过传统育种方法无法繁殖和保持等问题，这类材料在实际生产上很少利用。随着现代生物技术的快速发展，越来越多玉米细胞核雄性不育基因被成功克隆，为分子设计创制稳定的玉米核雄性不育系奠定了技术基础。需要指出的是，虽然最近玉米细胞核雄性不育基因克隆取得了快速进展，但是相对于模式植物拟南芥和水稻的相关研究而言，玉米细胞核雄性不育基因研究相对薄弱，玉米核雄性不育和花粉发育的分子机理和遗传网络尚待进一步深入研究。可以借助比较基因组学研究和定点突变技术（如CRISPR-Cas9等）[53-55]，利用反向遗传学方法[56]，快速克隆已知的拟南芥和水稻雄性不育相关基因的玉米同源基因，以加快玉米核雄性不育基因调控花粉发育的遗传网络和分子机理的研究。
+
+# 参考文献
+
+[1]Timofejeva L,Skibbe D S,Lee S,etal. Cytological characterization and alelism testing of anther developmental mutants identified in a screen of maize male sterile lines. G3 (Bethesda),2013.3(2): 231-49.   
+[2]Skibbe D S and Schnable P S.Male sterility in maize. Maydica, 2005.50: 367-376.   
+[3]Chen X, Zhang H, Sun H, et al. IRREGULAR POLLEN EXINE1 Is a Novel Factor in Anther Cuticle and Pollen Exine Formation. Plant Physiol, 2017.173(1): 307-325.   
+[4]Somaratne Y, Tian Y, Zhang H, et al. ABNORMAL POLLEN VACUOLATION1 (APV1) is required for male fertility bycontributing toanther cuticleand polln exine formation inmaize.PlantJ,2017: doi: 10.111/tpj.13476.   
+[5]Albertsen M Cand Philips R L. Developmental cytologyof13 genetic male sterile loci in maize. Can JGenet Cytol 1981. 23: 195-208.   
+[6] 万向元,吴锁伟,周岩,等．植物花粉发育调控基因Ms1及其编码蛋白，中国发明专利, ZL201410381072.5,2014 Wan X Y,Wu S W, Zhou Y,et al.The DNA sequence and the coded protein of Msl gene which controls the male fertility of plants. Chinese patent, ZL201410381072.5.2014.   
+[7]Eyster LA. Heritable characters of maize.VII. Male sterile.JHered,1921.12: 138-141.   
+[8]Eyster W H. Heritable characters of maize XXXIX- Male sterile 3.Journal of Heredity,1931.22:117-119.   
+[9]Beadle G W. Genes in maize for pollen sterility. Genetics,1932.17: 413-431.   
+[10] Morton C M,Lawson D L andBedinger P.Morphological study of the maize male sterile mutant ms7. Maydica, 1989. 34: 239-245.   
+[11] Zhang D,WuS,An X,etal.Constructionofa multi-control sterilitysystem foramaize male-sterile line andhybrid seed production based on the ZmMs7 gene encoding a PHD-finger transcription factor. Plant Biotechnol J,2017. doi: https://doi.org/10.1111/pbi.12786.   
+[12] Wang D,Adams CM,Fernandes JF,et al. A low molecular weight proteome comparison of fertile and male sterile 8 anthers of Zea mays.Plant Biotechnol J,2012.10(8): 925-35.   
+[13] Wang D,Oses-Prieto JA,Li K H,et al.The male sterile8 mutation of maize disrupts the temporal progressionof the transcriptome and results in the mis-regulation of metabolic functions. Plant J,2010.63(6): 939-51.   
+[14] Wang D, Skibbe DS and Walbot V. Maize Male sterile 8 (Ms8),a putative $\beta$ -1,3-galactosyltransferase, modulates celldivision,expansion,and diferentiation during early maize anther development.Plant Reprod,2013.26(4): 329-338.   
+[15] Albertsen M,Fox T,Leonard A,et al.Cloning and use of the ms9 gene from maize.US patent US20160024520Al 2016.   
+[16] KellierT,EggerRL,Zhang H,etal. Unresolved isses inpre-meiotic antherdevelopment.Front PlantSci,2014.5: 347.   
+[17] 余自青，吴锁伟，张丹凤，等．玉米隐性核不育突变体ms14的遗传分析与基因定位．中国生物工程杂志， 2016.36(10): 8-14. Yu Z Q,Wu S W,Zhang DF,et al. Genetic Analysis and Gene Mapping of Recessive Genic Male Sterility14 (ms14) mutant in maize. China Biotechnology, 2016. 36(10): 8-14.   
+[18] Eyster W H. Genetics of Zea mays. Bibliographia Genetica, 1934. 11:187-192.   
+[19]Schwartz D.The Interaction of Nuclear and Cytoplasmic Factors in the Inheritanceof Male Sterility in Maize. Genetics,1951. 36(6): 676-96.   
+[20] Albertsen M C,Fox T,TrimnellM,et al. Mscal nucleotide sequences impacting plant male fertilityand method of using same.US patent US20090038027A1.2009.   
+[21] Chaubal R,Anderson JR,TrimnellMR,et al.The transformation of anthers in the mscal mutant of maize.Planta, 2003.216(5): 778-88.   
+[22] Nan G L,Zhai J,Arikit S,et al.MS23,a master basic helix-loop-helix factor,regulates the specificationand development of the tapetum in maize. Development, 2017.144(1): 163-172.   
+[23]Fox T,TrimnellMR and Albertsen M C.Male-sterile mutant ms24 mapped to chormosome 10.Maize Genet Coop Newsletter, 2002. 76: 37.   
+[24]Djukanovic V，Smith J,Lowe K，et al.Male-sterile maize plants produced by targeted mutagenesis of the cytochrome P450-like gene (MS26) using a re-designed I-CreI homing endonuclease. Plant J,2013.76(5): 888-99.   
+[25]Loukides C A, Broadwater A H and Bedinger PA. Two new male-sterile mutants of Zea mays (Poaceae） with abnormal tapetal cell morphology. American Journal of Botany, 1995. 8: 1017-1023.   
+[26] Golubovskaya IN. Mapping of two mei-genes of maize wtih the help of B-A translocations.Soviet Genetics,1987. 23: 473-480.   
+[27] TrimnellM R,Fox T W,and Albertsen M C.New chromosome 10S male-sterile mutant: ms29.Maize Genet Coop Newsletter, 1998. 72: 37.   
+[28]TrimnellMR,Fox T W,and Albertsen M C. New chromosome 2L male-sterile mutants: ms30 and ms31. Maize Genet Coop Newsletter, 1998. 72(38).   
+[29]万向元，吴锁伟，周岩，等.一种玉米花粉减数分裂后发育调控基因Ms30 的 DNA 序列及其编码蛋白， 中国发明专利，ZL201410703778.9，2014 Wan X Y, Wu S W, Xie K, et al. The DNA sequence and the coded protein of a polen post-meiotic developmental gene Ms30 in maize. Chinese patent, ZL201410703778.9, 2014.   
+[30]Moon J,Skibbe D,TimofejevaL,etal.Regulationofcelldivisionsand diferentiationby MALE STERILITY32 is required for anther development in maize. Plant J, 2013. 76(4): 592-602.   
+[31] TrimnellMR,Paterson E,Fox TW,etal. New chromosome 2L male-sterile mutant: ms33 and alleles.Maize Genet Coop Newsletter,1999. 73: 48.   
+[32]万向元，吴锁伟，张丹凤，等.玉米花粉发育调控基因 Ms33 的DNA 序列及其编码蛋白，中国发明专 利，CN201610880590.0，2016 Wan X Y, Wu S W, Zhang D F, et al. The DNA sequence and the coded protein of a polen developmental gene Ms33 in maize. Chinese patent, CN201610880590.0，2016.   
+[33] TrimnellMR,Patterson E,Fox T W,et al. New chromosome 7L male-sterile mutant: ms34. Maize Genet Coop Newsletter, 1999.73: 49.   
+[34] TrimnellMR,Paterson E,Fox T W,etal. New chromosome 9L male-sterile mutants: ms35and ms36.Maize Genet Coop Newsletter,1999. 73: 49.   
+[35]TrimnellMR,Fox TW,and Albertsen M C.New chromosome 7L male-sterile mutant: ms37.Maize Genet Cop Newsletter, 1999. 73: 48.   
+[36] Albertsen M C,Fox TW,and Trimnell M R. Changing a duplicated designation for two diferent male-sterile mutations. Maize Genet Coop Newsletter, 1999.73: 48.   
+[37] Albertsen,M.C.andL.M.Seller,An independent,EMS-induced dominant male sterile that maps similarto Ms41. Maize Genet Coop Newsletter, 1988. 62: 70.   
+[38] Albertsen M C,Fox TW,TrimnellMR, et al. Interval mapping a new dominant male-sterile mutant, Ms42.Maize Genet Coop Newsletter,1993.67: 64.   
+[39]Fox T,DeBruin J, Haug Collet K,et al. A single point mutation in Ms44 results indominant male sterility and improves nitrogen use efficiency in maize. Plant Biotechnol J,2017.15: 942-952.   
+[40] Cigan,A.M.,E. Unger,R.J. Xu,et al.,Phenotypic complementation of ms45 maize requires tapetal expresionof MS45. Sex Plant Reprod, 2001.14: 135-142.   
+[41] TrimnellMR,Fox TW,and Albertsen M C.New chromosome 10 male-sterile mutant: ms47. Maize Genet Coop Newsletter, 2002. 76: 38.   
+[42] TrimnellM R,Fox T W,and Albertsen M C. New chromosome 9L male-sterile mutant: ms48. Maize Genet Coop Newsletter, 2002. 76: 38.   
+[43]TrimnellMR,Fox TW,and Albertsen M C.New chromosome 10 male-sterile mutant: ms49.Maize Genet Coop Newsletter, 2002. 76: 38-39.   
+[44] TrimnellM R,Fox T W,and Albertsen M C.New chromosome 6L male-sterile mutant: ms50. Maize Genet Coop Newsletter, 2002. 76: 39.   
+[45]TrimnellMR,Fox TW,and Albertsen M C.New chromosome 4 male-sterile mutant: ms52. Maize Genet Coop Newsletter, 2004. 78: 27.   
+[46] Vernoud V,Laigle G,RozierF,etal.TheHD-ZIPIVtranscription factor OCL4 is necessry for trichomepattrnng and anther development in maize. Plant J, 2009.59(6): 883-94.   
+[47] Wang C J,Nan G L, Kelliher T,etal. Maize multiplearchesporial cells 1 (mac1),an ortholog of rice TDL1A, modulates cellproliferation and identity in early anther development. Development, 2012.139(14): 2594-603.   
+[48] Wang D, Skibbe D S,and Walbot V.Maize csmdl exhibits pre-meiotic somatic and post-meiotic microspore and somatic defects but sustains anther growth. Sex Plant Reprod,2011. 24(4): 297-306.   
+[49]李竞雄，周洪生，孙荣锦．玉米雄性不育生物学.1998，北京，中国农业出版社.67-154 Li J, Zhou H,and Sun R. Biology of Male Sterility in Maize.1998,Beijing: China Agriculture Press. 67-154.   
+[50] Cigan,A.M.and M.C.Albertsen,Reversible nuclear genetic system for male sterility in transgenic plants.2001: US Patent US6281348B1   
+[51] Albertsen MC,Beach LR,Howard J,etal. Nucleotide sequences mediated male fertility and method of using same. 1995: United States Patent, US005478369A.   
+[52] WuY,Fox TW,TrimnellMR,et al. Development of a novelrecessive genetic male sterilitysystem forhybridseed production in maize and other cross-pollinating crops. Plant Biotechnol J,2016.14(3): 1046-54.   
+[53] Cigan A M,Singh M,Benn G,et al. Targeted mutagenesis of aconserved anther-expresed P450 gene confers male sterility in monocots.Plant Biotechnol J, 2017.15(3): 379-389.   
+[54] Svitashev S,Schwartz C,Lenderts B,et al. Genome editing in maize directed by CRISPR-Cas9 ribonucleoprotein complexes. Nature Communications, 2016. 7: 13274.   
+[55] Gomez JF,Tale B and Wilson Z A. Anther and pollen development: A conserved developmental pathway. JIntegr Plant Biol, 2015. 57(11): 876-91.   
+[56]Fernandez Gomez Jand Wilson ZA.AbarleyPHD finger transcription factor that confers male sterilitybyaffecting tapetal development. Plant Biotechnol J,2014.12(6): 765-777.
+
+# Molecular Mechanism and Application Analysis of Genic Male Sterility in Maize
+
+LIU Shuang-shuang1,2.3 WU Suo-wei1,2 RAO Li-qun1WAN Xiang-yuan1,2,3
+
+(1 College of Bioscience and Biotechnology, Hunan Agricultural University, Changsha 410128, China) (2 Advanced Biotechnology and Application Research Center, Institute of Biology and Agriculture,School of   
+Chemistry and Biological Engineering,University of Science and Technology Beijing,Beijing,10oo24,China.)   
+(3 Beijing Engineering LaboratoryofMain Crop Bio-Tech Breeding,Beijing International Science and Technology Cooperation Base of Bio-Tech Breeding,Beijing SolidwillSci-Tech Co.Ltd., Beijing,100192, China)
+
+Abstract Maize (Zea mays $L .$ ） genic male-sterile mutant has been widely studied for its biological significance on pollen developmental study and commercial value in hybrid vigor utilization. As the development of molecular biotechnology,several genic male-sterile genes has been cloned and characterized in maize,leading to potential use of genetic engineering male-sterility in commercial hybrid seed production. Here, we reviewed the progress of cytological characterization, gene cloning and molecular mechanism of genic male-sterity study in maize, and potential application approaches of genic male-sterile genes in maize hybrid production is discussed.
+
+Key Words Zea mays，Genic male sterility，Gene Cloning，Molecular mechanism，Hybrid vigor utilization

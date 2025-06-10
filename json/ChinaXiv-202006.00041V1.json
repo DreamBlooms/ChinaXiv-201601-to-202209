@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "对威胁刺激的碰撞时间估计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李才文 臧奋英 宇明 傅小兰(中国科学院心理研究所，脑与认知科学国家重点实验室，北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院大学心理学系，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要对靠近运动刺激的碰撞时间(time-to-collision,TTC)估计具有重要的进化意义。为了解释个体如何进行TTC估计，研究者提出了结构主义理论、生态光学理论和tau理论等，也考察了影响TTC 估计的部分因素。近年的研究通过比较个体对威胁刺激和非威胁刺激的TTC 估计，考察了刺激的情绪相关属性对TTC估计的影响。结果表明，相比于自然非威胁刺激(如兔子等图片)，个体会低估自然威胁刺激(如蛇等图片)的 TTC，但这种 TTC 的低估在社会威胁刺激(如愤怒面孔图片)上有时很小甚至不显著。个体低估 TTC 可能存在三种原因：(1)个体对威胁刺激具有特异性反应； (2)威胁刺激具有较高的情绪唤醒度； (3)个体对威胁刺激具有心理距离更近和运动速度更快的知觉偏差。未来研究可以进一步考察在社会威胁刺激上表现出的TTC 低估效应不稳定的原因；探索威胁刺激TTC 估计中的自主生理反应和神经机制；采用虚拟现实技术进行威胁刺激TTC 估计的研究；在实验设计中考虑性别和人格特质等个体因素的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 碰撞时间估计；威胁特异性反应；唤醒度；心理距离；速度知觉",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在车辆行驶过程中，司机需要准确判断周围车辆的行驶状况；在击打迎面飞来的网球时，运动员同样需要精准判断网球的飞行状况。在这些情景当中，不论是为了避免与物体产生触碰，还是希望与之接触，个体都需要实时估计自身与靠近物体发生碰撞的时间(time-to-colision,TTC)。一般而言，个体主要依赖于刺激与个体之间的距离、刺激的运动速度、个体观察刺激的视角及视角变化率等因素对靠近运动刺激的TTC 进行估计(陶维东，陶晓丽，孙弘进，2011)，也就是主要依赖刺激的物理属性进行估计。然而，在与环境互动的过程中，人类时刻面临着不同的威胁，如自然界中的威胁性动物(蜘蛛和蛇)(Basanovic,Dean,Riskind,& MacLeod, 2O17; Hoehl & Pauen, 2017; Sagliano, Cappuccio, Trojan,& Conson, 2014),带有负性情绪面孔(愤怒和恐惧面孔)的他人(Morris et al.,1996; Springer,Rosas,McGetrick,&Bowers,2007)以及社会情境中的一些威胁线索(车辆和手枪)(Han,Gao,Humphreys,& Ge,2008)等。以往研究发现，为了有效应对危险，个体对威胁刺激产生了适应性表征。例如，对威胁刺激具有选择性注意(Arnaudova,Krypotos,Efting,Kindt,& Beckers,2017; Salemink,van den Hout,&Kindt,2007)；提前对威胁刺激做出防御反应准备(de Haan,Smit,Van derStigchel,&Dijkerman,2016)；个体神经系统中存在“恐惧快通路”(Das et al.,2005;LeDoux,2000;Liddellet al.,2005)等。这些经过长期进化而产生的威胁适应性表征为个体的生存提供了保障。那么对靠近威胁刺激的TTC估计是否也会具有类似的适应性表征呢？答案是肯定的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，一些研究开始考察了个体对靠近运动威胁刺激和非威胁刺激的TTC 估计。结果发现，相较于非威胁刺激，被试感觉到威胁刺激会更早地与自身发生碰撞(Brendel,DeLucia,Hecht, Stacy,& Larsen,2O12; DeLucia, Brendel, Hecht, Stacy,& Larsen,2014; Vagnoni,Andreanidou,Lourenco,& Longo,2017; Vagnoni,Lourenco,& Longo,2012,2015)，即个体低估了靠近运动威胁刺激的TTC。这种对靠近威胁刺激的TTC低估效应为个体有效应对面临的危险提供了足够的准备时间，对个体生存和发展具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有研究虽然发现了个体对威胁刺激TTC的低估现象，但我们仍不清楚产生TTC 低估的具体机制是什么。本文基于近年来有关靠近运动威胁刺激的TTC估计研究，梳理了对威胁刺激TTC 产生低估的两种解释，一种解释认为这是个体对威胁刺激的特异性反应；另一种解释认为这是由于威胁刺激的高唤醒度引起。此外，个体对威胁刺激的心理距离和运动速度的知觉偏差也可能导致个体对其TTC产生低估。最后，本文就有关威胁刺激TTC 估计的未来研究提出展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2TTC估计及其经典解释理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 TTC 估计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TTC 是指靠近运动的物体与静止的观察者发生碰撞所需要的时间(DeLucia,Kaiser,Bush,Meyer,& Sweet,2003;DeLucia&Liddell,1998)。TTC估计便是个体对这一时间的主观判断，属于时距知觉。在实验中，研究者一般采用 TTC 判断任务(TTC judgment task)考察个体对靠近运动刺激的TTC估计。在该任务中，研究者通过在计算机屏幕上逐帧放大刺激图片，使其产生靠近被试运动的效果，刺激运动大约1秒后消失，随后，要求被试想象消失的刺激仍然按照之前的速度继续做靠近运动，并在感到刺激与自身发生碰撞的时刻快速做出按键反应，将被试的反应时作为TTC 估计的指标(Brendel etal.,2012; Brendel,Hecht,DeLucia,& Gamer,2014; DeLucia et al., 2O14; Vagnoni, Andreanidou et al., 2O17; Vagnoni,Lourenco et al., 2012,2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2TTC估计的经典解释理论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 TTC 估计的经典解释理论当中，比较具有代表性的是结构主义理论(the constructivistapproaches)、生态光学理论(ecological optics theory)和 tau 理论(the tau hypothesis)。结构主义理论认为，个体利用靠近物体与自身距离的变化和物体的速度变化这两类线索 $\\scriptstyle ( \\mathrm { t = s } / \\mathrm { v } )$ 进行TTC 估计(Smeets,Brenner,Trebuchet,&Mestre,1996；陶维东等,2011)。生态光学理论认为，视觉刺激在我们的视野中以一种光学阵列的方式呈现，当刺激发生运动时，这个光学阵列的结构就会发生变化(Kim,2015)。当刺激靠近时，个体可以直接依据光学阵列的变化做出 TTC估计(McLeod&Ross,1983)。tau 理论认为，人和动物根据 tau 的微分来估计 TTC(Hecht &Savelsbergh,2004;Lee,1976)。该理论是在生态光学理论的基础上发展而来的，其中的 tau是指观察物的视角与视角变化率的比值。在随后的研究中，研究者们对tau理论进行了修正，限定了它所适用的情景条件(Tresilian,1997)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3对威胁刺激的TTC估计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述三种理论的共同之处在于三者都是基于刺激的物理属性来构建理论模型，然而，在碰撞情境下，当靠近运动的刺激威胁人身安全时，个体对该刺激的TTC估计可能会发生偏差。近年来，已经有一些研究考察了个体对不同类型威胁刺激的TTC 估计特点。本节将根据这些研究采用的威胁刺激类型，分别简述自然威胁刺激(威胁动物图片)和社会威胁刺激(愤怒面孔图片)对 TTC 估计的影响(Brendel,2019; Brendel,DeLucia et al.,2012;Brendel,Hechtet al.,2014; DeLucia et al.,2014; Vagnoni et al.,2012,2015)。从实际情况来看，在已有的研究中，一些研究者并未严格区分两类威胁刺激，很多情况下是混合使用的。为了方便结果之间进行比较，以下将作区分介绍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1自然威胁刺激的TTC估计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自然界当中，很多动物(如，蛇和蜘蛛等)会对我们的人身安全产生威胁(Lindner,Miloff,Reuterskiold,Andersson,&Carlbring,2019)。Brendel等人(2012)采用国际情绪图片库(International Affective Pictures System,IAPS)中的人物、物体、蘑菇和植物等图片作为中性刺激，以咆哮的比特犬、张口的蛇和持刀劫持人质的蒙面凶手等图片作为威胁刺激，通过放大刺激图片尺寸使刺激产生靠近运动的效果，要求被试完成TTC判断任务。结果发现，被试对于威胁刺激做出的TTC 估计显著短于中性刺激。采用类似的实验范式，Vagnoni 等人(2012)以蜘蛛和蛇的图片作为威胁刺激，蝴蝶和兔子的图片作为非威胁刺激，要求被试完成TTC 判断任务。结果发现，被试对于威胁刺激TTC的估计显著短于非威胁刺激。后来，DeLucia等人(2014)也采用类似的实验范式考察了个体对威胁场景图片(咆哮的比特犬，蒙面凶手持刀劫持人质的图片)、中性图片(台灯，钟表的图片)和友好图片(男孩，婴儿的图片)TTC估计的特点。结果同样发现，被试对于威胁场景图片的TTC估计显著短于中性和友好图片。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Vagnoni 等人(2015)在后来的一项研究中，依然采用蜘蛛和蛇的图片作为威胁刺激，蝴蝶和兔子的图片作为非威胁刺激，在被试完成TTC 估计的过程中通过ERP技术记录了被试的脑电活动。他们对行为结果的分析仍然发现被试在威胁刺激条件下存在低估TTC的现象。同时，脑电成分的分析结果显示，对于不同类型的刺激，威胁条件下枕叶视觉皮层的P1和前额叶N1的波幅变化显著小于非威胁条件，威胁条件下枕叶N1波幅显著大于非威胁条件;对于不同靠近运动速度条件，顶部N1波幅随着刺激运动速度的增加而增加。他们根据时间阶段(共三个，从刺激出现算起，第一时间段为 $5 0 0 { - } 1 0 0 0 ~ \\mathrm { m s }$ ，第二时间段 $1 0 0 0 \\mathrm { m s } { \\cdot } 1 5 0 0 \\mathrm { m s }$ 第三时间段为1500-2000 ms)、刺激类型和实际 TTC 条件对个体进行 TTC 估计时的脑电频谱活动分析结果显示，相比于非威胁条件，威胁条件下 $\\alpha$ 波 $( 8 - 1 3 \\ : \\mathrm { H z } )$ 存在较强的去同步化(desynchronization)反应,这一去同步化反应在第三时间段有所减弱。同时对 $\\gamma$ 波 $( 7 0 - 1 9 0 \\mathrm { H z } )$ 的分析发现，刺激类型和时间阶段会共同影响这一频段的神经活动，具体表现为，在第二时间段，威胁条件下γ 波表现出较强的去同步化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在早期认知加工和情绪知觉的研究中，P1更多地被认为是源自于视觉皮层的与早期注意分配相关的指标(Baumgartner, Graulty, Hillyard,& Pits,2018; Fu, Caggiano, Greenwood, &Parasuraman,2005; Smith, Cacioppo,Larsen,& Chartrand,2003)。负性或威胁刺激诱发的 P1波幅变化大于正性或非威胁刺激(Carretie,Hinojosa,Martin-Loeches,Mercado,& Tapia, 2004;Delplanque,Lavoie, Hot, Silvert, & Sequeira, 2O04; Venetacci, Johnstone, Kirkby,& Mathews,2018)。因此，在TTC 估计过程中，威胁和非威胁刺激所诱发的P1波幅的差异可能表明，在信息加工的早期，两类刺激就捕获了不同的注意资源，这种在前 $1 0 0 \\mathrm { m s }$ 内就能对两类刺激进行快速区分的能力为个体有效应对环境中的威胁刺激提供了保障。这也说明，情绪在信息加工中的作用可能是将认知资源集中起来有效指导行为反应，使个体能够恰当应对环境中的重要刺激(Zajonc,1980)。在P1之后紧接着会出现一个负向的脑电成分，即 N1，很多情况下,它被认为是对刺激的颜色(Anllo-Vento &Hillyard,1996),位置(Martinez,Teder-Salejarvi,&Hillyard,2007; Martinez et al.,2006)和运动状态(Lorteije,van Wezel,& van der Smagt,2008)敏感的指标。同时，它也跟刺激的情绪属性密切相关，由正性和负性情绪刺激诱发的N1波幅的变化显著大于中性刺激(Gupta,Kujawa,& Vago,2019; Hart,Lucena, Cleary,Belger,&Donkers,2012; Keil, Bradley et al.,2002; Keil,Muller et al.,2001)。因此，在 TTC 估计中，威胁条件下枕叶N1波幅显著大于非威胁条件的现象可能表明，当两类刺激在靠近运动时，个体对刺激运动状态和远近位置变化的感知在信息加工初期就产生了差别，威胁刺激的运动状态可能得到了更多的关注。除了以上单个脑电成分可以反映个体对情绪信息加工的神经活动以外，一些研究者认为，对于不同脑电波同步化和去同步化反应的事件相关分析也可以揭示情绪信息的加工过程与神经活动的关联性（Aftanas,Koshkarov,Pokrovskaja,Lotova,&Mordvintsev, 1996; Aftanas, Varlamov, Pavlov, Makhnev, & Reva, 20o1; Krause, Viemero,Rosenqvist,Sillanmaki,&Astrom,2000)。研究表明，大脑后侧电极记录到的 $\\alpha$ 波段的去同步化反应更多地发生于对刺激的知觉和后期认知加工阶段，与刺激的语义信息有关(Aftanaset al.,2001)，也会受到刺激情绪意义的影响(Krause et al.,2000)。因此，在个体进行 TTC 估计时，威胁条件下 $\\alpha$ 波较强的去同步化反应说明，从威胁刺激被识别到消失，刺激所具有的情绪属性一直在发挥作用，甚至在其消失后，这一影响还在持续。此外，研究也表明，丫波不仅与知觉捆绑和多感觉信息整合相关(Quinn et al.,2014)，也与情绪信息的加工相关。在不同类型情绪刺激中，负性情绪刺激所诱发的γ波活动最强，而且相较于正性情绪刺激，负性情绪刺激在左侧颞叶诱发的 γ 波活动更强(Keil et al.,2001;Muller,Keil,Gruber,&Elbert,1999; Oya,Kawasaki, Howard,& Adolphs,2002)。此外， $\\boldsymbol { \\gamma }$ 波与个体做出行为反应准备密切相关，如在物体靠近运动的过程中做出拦截或者防御反应准备(Billington,Wilkie,Field,& Wann,2011)。因此，在个体进行 TTC 估计的过程中期到做出反应前，威胁条件下 γ波表现出较强的去同步化反应表明，威胁刺激更强烈地诱发了个体对靠近碰撞的反应准备。综合以上对 P1、N1、 $\\alpha$ 波和γ 波的分析可知，个体对威胁和非威胁刺激进行 TTC 估计的过程中，威胁刺激在信息加工的早期就获得了更多的注意资源，当两类刺激被个体识别后，威胁刺激的情绪属性便持续对当前刺激的信息处理过程产生影响，并且这一影响一直持续到刺激消失后的一定时间。最后，在个体做出反应前，威胁刺激还更强烈地诱发了个体对即将发生的碰撞的反应准备。这一系列过程便导致了个体对威胁刺激 TTC 的低估。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上研究从行为反应和神经活动的层面均表明，个体低估了靠近运动自然威胁刺激的TTC。这说明当刺激朝着个体的方向靠近运动时，其情绪相关的属性会导致个体的主观时间知觉发生偏差，使个体较早地做出刺激与自身发生碰撞的判断。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2社会威胁刺激的TTC估计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了自然界中的动物可能对我们人身造成威胁以外，我们所在的社会群体当中也存在一些威胁因素，如，敌人和凶手等。人的不同情绪状态可以通过面部表情表现出来，通过面部表情，我们可以准确判断出对方对我们是否有敌意。愤怒的表情表现了个体被激惹，以及有可能做出攻击行为的信息。因此，很多研究当中将愤怒的面孔表情看作是一种社会威胁刺激(Brendel et al.,2012;DeLucia et al.,2014)。这种社会威胁刺激同样也可能会对 TTC 估计产生影响。Brendel等人(2012)在实验3中采用了愤怒、高兴和中性情绪面孔作为刺激，要求被试完成TTC判断任务，结果发现，被试对于愤怒面孔TTC估计的反应时显著短于其它两类面孔。该研究结果表明，以愤怒面孔为代表的社会威胁刺激也会使得个体低估TTC。然而，DeLucia等人(2014)的研究中，实验1采用 NimStim 面孔表情库中的两个男性模特的愤怒、高兴和中性面孔作为刺激材料。实验2采用国际情绪图片库中的威胁、中性和友好场景图片作为刺激材料。两个实验均要求被试完成TTC 判断任务。结果发现，在实验2中被试对威胁情绪场景图片表现出了TTC的低估，而在实验1中被试并没有对愤怒面孔图片表现出TTC的低估。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，从这两项研究来看，关于个体对社会威胁刺激TTC估计的研究结果并不一致。这种不一致现象，一方面可能是由面孔呈现时长的不同造成。对比这两个研究，二者所采用的面孔材料是相同的(均来自于NimStim 库中的两个男性模特，编号为20 和 23)，但呈现时间不同。在Brendel等人(2012)的研究中面孔呈现时长为 $2 0 0 \\mathrm { m s }$ 和 $8 0 0 \\mathrm { m s }$ ，而在DeLucia 等人(2014)的研究中面孔呈现时长为 $3 0 0 0 \\mathrm { { m s } }$ 。大量ERP研究发现，面孔刺激会在 $1 0 0 \\mathrm { m s } { - 2 0 0 }$ ms 时间窗内，主要在枕叶的视觉皮层诱发一个负的ERP成分，这一成分在 $1 7 0 \\mathrm { m s }$ 左右到达峰值，即N170 成分，它被认为是面孔知觉的特异性成分(Bentin,Allison,Puce,Perez,&McCarthy,1996;Rossion,2014;Rossion et al.,2000)。此外，一项采用脑磁图(Magnetoencephalography,MEG)的研究考察了面孔呈现时间在面孔知觉中的作用，研究结果发现，在呈现 $2 0 0 \\mathrm { m s }$ 时，面孔诱发的脑磁活动最强(Tanskanen,Nasanen, Ojanpaa,& Hari,2007)。这些研究结果说明，人脑对面孔的加工在短时间内就可以完成。较长的呈现时间条件下，被试对于不同面孔情绪信息的注意力会减弱，有可能关注到面孔的其他属性信息，如性别，身份和皮肤纹理等(Fisher,Towler,& Eimer,2016; Schweinberger & Soukup,1998)。此外，较长的呈现时间条件下，被试对面孔的情绪体验可能会受到后期认知评价的调节，从而削减了TTC的低估效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这种不一致现象，另一方面可能是由相同面孔在不同呈现方式下的唤醒度差异造成。在Brendel等人(2012)的研究中面孔通过立体镜大屏幕(对角线视角为78度)呈现，而在DeLucia等人(2014)的研究中面孔采用非立体镜小屏幕(对角线视角为50度)呈现，这样不同方式所呈现面孔的尺寸便存在一定差异。有研究表明，所呈现面孔的尺寸会对面孔情绪唤醒度产生影响，个体评价较大尺寸面孔的唤醒度会显著高于较小尺寸面孔(Codispoti&de Cesarei,2007)。因此，两种呈现方式下情绪唤醒度的差异，有可能导致了被试对相同材料的TTC 估计发生变化。这种唤醒度对TTC 估计产生影响的具体起效机制将在本文4.2节中展开讨论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4低估威胁刺激TTC的原因",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现有研究结果说明个体对威胁刺激的TTC产生了低估。随之而来的问题便是：产生这种效应的原因是什么？本节从个体对威胁刺激的特异性反应，威胁刺激具有较高的唤醒度，以及个体对威胁刺激的心理距离和运动速度的知觉偏差三个方面，讨论个体低估威胁刺激TTC 的可能原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1对威胁刺激的特异性反应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在长期的进化过程中，生物体对威胁刺激产生了特异性反应。大量研究发现，威胁刺激具有知觉显著性(Balaban& Taussig,1994)；个体对威胁刺激存在选择性注意偏向(Sagliano,Trojano,Amoriello,Migliozzi,& D'Olimpio,2014; Salemink et al.,2007)；个体在无意识状态下就可以对威胁刺激做出有效探测(Ohman& Soares,1993)；灵长类动物的神经系统中存在专门对威胁刺激敏感的神经元(VanLeetal.,2013)。因此，从进化意义的角度，TTC 的低估可能来源于个体对威胁刺激的特异性反应，或者也可以说TTC的低估其实是个体对威胁刺激特异性反应的一种表现。实际上，Vagnoni等人(2012)也从进化意义的角度解释了威胁刺激TTC 被低估的原因。他们认为个体低估TTC是为面临威胁时要做战斗还是逃跑(fight or flight)的选择留出了更多的时间。另外，这种进化意义上的解释也可以用来说明，为什么自然威胁刺激的TTC 更容易被低估。在漫长的进化过程中，相比于社会威胁刺激(如持刀的蒙面歹徒)，个体更早地接触自然威胁刺激(如蛇与蜘蛛)，因而，自然威胁刺激更具有进化意义上的显著性，对TTC 估计的影响也会更加深刻。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2威胁刺激的高唤醒度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从刺激的情绪属性来看，相比于中性刺激，威胁刺激一方面具有更低的效价，另一方面具有更高的唤醒度。因此，产生TTC 低估可能也与威胁刺激较高的唤醒度有关。Brendel等人(2014)就刺激的唤醒度对 TTC 估计的影响进行了探讨。他们继续采用之前研究中使用过的威胁刺激，同时在IAPS 库当中选取色情和金钱图片作为非威胁刺激，这类非威胁刺激与威胁刺激具有同等的唤醒度，实验中同样要求被试完成TTC判断任务。结果发现，被试对威胁刺激和非威胁刺激均表现出TTC的低估，甚至对非威胁刺激的TTC估计更短。这项研究表明，个体对威胁刺激产生TTC 低估可能与刺激本身较高的唤醒度有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，如前文所述，用自然威胁刺激(威胁动物图片)作为实验刺激得到的 TTC 低估效应比较稳定，而采用社会威胁刺激(愤怒面孔)作为实验刺激的 TTC 低估效应则不太稳定(Brendel et al.,2012;DeLucia et al.,2014)，这可能也跟社会威胁刺激和自然威胁刺激的情绪唤醒度存在差异有关(DeLucia et al.,2014)。Wangelin，Bradley，Kastner 和 Lang(2012)比较了面孔情绪图片(愤怒、中性和高兴)和自然情绪图片(负性，中性和正性)引起的皮肤导电水平(skin conductance level, SCL)和脑电晚期正成分(late-positive potential,LPP)的特点。SCL 是机体在受到情绪刺激后皮肤导电性发生变化的指标，与刺激的情绪唤醒度密切相关，它会随着刺激唤醒度的增加而升高(易欣，葛列众，刘宏艳,2015;Bradley,Codispoti,Cuthbert,&Lang,2001; Codispoti et al.,2007; Codispoti, Surcineli,& Baldaro,2008)。LPP 成分也与情绪刺激的唤醒度之间存在密切关系(Herbert, Sfarlea,&Blumenthal,2013)，相比于较低唤醒度的中性刺激条件而言，在具有较高唤醒度的情绪刺激条件下，LPP 成分表现出较大的波幅变化(Olofsson,Nordin,Sequeira,&Polich,2008)。Wangelin 等人(2012)这项研究结果发现，相比于愤怒情绪面孔条件，被试在自然负性图片条件下对探测刺激表现出更短的反应时，更高的SCL 和更大的LPP 波幅变化。说明自然负性图片相较于愤怒情绪面孔具有更高的情绪唤醒度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，有研究采用不同唤醒度的负性情绪图片，考察唤醒度在时间知觉中的作用。研究者从IAPS 库中选取高、低唤醒度的厌恶和悲伤图片，高唤醒度的厌恶和恐惧图片，以及相匹配的中性图片。实验中以变化的持续时间给被试呈现图片，要求被试在图片消失后以毫秒级精度输入图片的呈现时长。结果发现，相比于中性图片，被试估计厌恶、悲伤和恐惧图片的呈现时间更长。并且，这一主观时间知觉延长的效应会随着三类情绪图片唤醒度的增加而增加(Gil&Droit-Volet,2012)。这种情绪唤醒度使个体主观时间知觉延长的现象可以通过时间知觉的标量计时模型(scalar expectancy theory)进行解释，该模型认为，我们进行时间判断的过程涉及三个阶段：时钟，记忆和决策(Gibbon,Church,&Meck,1984;Lake,LaBar,&Meck,2016;Lehockey,Winters,Nicolet,Zurlinden,& Everhart,2018)。其中，在时钟阶段，存在一个起搏器发出脉冲，这些脉冲随后被累加器收集。累加器收集的脉冲数量代表了时间的长短。研究者们认为，唤醒度对于时间知觉的作用方式是增加了起搏器发出脉冲的频率，也就是加速生物体的内部时钟(Cheng,Tipples,Narayanan,& Meck,2016; Droit-Volet, 2013; Fayolle, Gil,&Droit-Volet,2015;Lake,Meck,&LaBar,2016)，使累加器收集脉冲的数量增加。这种唤醒度增加起搏器脉冲发放频率的解释也适用于个体对威胁刺激TTC 的低估。类似地，个体对于 TTC 的估计也会存在一个时钟阶段，即从刺激消失后到被试感觉刺激与自身发生碰撞的阶段。这一阶段累加器积累的脉冲数代表了TTC的估计值。相比于非威胁或唤醒度较低的刺激，当威胁刺激出现后，其较高的唤醒度引起起搏器脉冲发放频率增加，生物体内部时钟加快，而当刺激消失后这一影响还会持续存在，从而使TTC 估计的时钟阶段积累脉冲的数量增加，导致个体较早地完成 TTC 估计。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，唤醒度对时间估计的影响也可能与个体内部激素水平有关。已有研究发现，较高唤醒度的刺激可以引起个体外周神经系统和体内激素水平的变化(Hasselmo & Sarter, 2011;Lang&Bradley,2010;LeDoux,2000;Pessoa&McMenamin,2017)，有研究考察了激素水平的变化在时间知觉中的作用。Soares，Atallah 和 Paton(2016)借助光遗传学技术在小鼠进行刺激间隔时间长短估计的过程中，测量了多巴胺能神经元活动的强弱，在随后的实验中通过将兴奋性和抑制性的光遗传蛋白表达在多巴胺能神经元中，对多巴胺的释放进行了操控。结果发现对多巴胺能神经元的抑制降低了小鼠对时间的敏感性。同时，该研究还发现，短暂地激活或者抑制多巴胺能神经元的活动可以有效操纵小鼠对刺激的间隔时间产生低估和高估。另外一项研究通过药物抑制手段，采用局部注射的方式将去甲肾上腺素和多巴胺重摄取抑制剂—诺米芬辛注入前边缘皮层。结果发现，相比于中性刺激条件，诺米芬辛可以有效降低能够诱发焦虑的刺激对时间估计产生的损害(Matthews,He,Buhusi,&Buhusi,2012)。这些研究发现表明，不同情绪唤醒度的刺激对时间知觉的影响通过使个体内部激素水平发生变化的方式实现。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "尽管上述研究说明唤醒度在威胁刺激TTC 的低估效应中扮演着重要作用，但它并非是唯一影响因素，唤醒度无法解释所有的实验结果。事实上，Vagnoni等人(2012)的研究还报告了一个采用情绪启动范式的控制实验。实验中，首先让被试观看威胁或者非威胁刺激1秒，紧接着出现一个靠近运动的蓝色圆盘，要求被试完成对蓝色圆盘的TTC判断任务。实验假设，如果是刺激的唤醒度造成了TTC 的低估，那么在威胁刺激启动的条件下，被试仍然会低估蓝色圆盘的TTC。然而，在两类刺激启动条件下，被试对蓝色圆盘的TTC 估计不存在显著差异。说明威胁刺激TTC 的低估不是唤醒度造成的，而是刺激本身的威胁性起主导作用。不过，这个实验使用的是启动范式，在该范式下，蓝色圆盘出现之前，被试看到的刺激尺寸较小，而刺激的唤醒度与刺激大小存在正相关关系(Codispoti et al.,2007)。因此，在实验最开始刺激诱发的唤醒度不高。另外，实验中图片消失后被试想象的是蓝色圆盘而不是威胁或非威胁刺激的靠近运动，因而情绪唤醒可能会随时间很快消退。因此，这一实验得到的结果可能比较间接。相比较而言，Brendel等人(2014)的研究中，实验3更加直接地探讨了TTC 估计中刺激的唤醒度和效价的作用。他们选取IAPS 库中图片作为刺激，系统地操纵了刺激的唤醒度和效价。唤醒度分为非常低、低、中和高四个水平；效价分为较低、中等和较高三个水平。同时包含一类中性刺激，其唤醒度为非常低水平，效价为中等水平。还包含一类纯色图片作为填充刺激。这些刺激中包含了他们在2012年研究当中使用的刺激。实验任务依然是TTC判断任务。结果显示，刺激的唤醒度和效价的交互作用显著。具体来讲，被试对中等唤醒度高效价刺激的TTC 估计最短，高唤醒度较低效价刺激的TTC 估计次之，对中等和高唤醒度较低效价刺激，中等唤醒度高效价刺激的TTC 估计与纯色刺激不存在显著差异。相比于其它刺激，被试对中性刺激(低唤醒中等效价)的 TTC 估计最长。这说明个体对靠近威胁刺激TTC的低估可能是刺激唤醒度和效价的共同作用所致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3对威胁刺激心理距离和运动速度的知觉偏差",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，个体对威胁刺激心理距离和运动速度的知觉偏差可能会间接影响TTC估计。有研究考察了个体对于环境中威胁性客体的心理距离。实验中，研究者在离被试一定距离的桌子上放置一个活的塔兰图拉(tarantula)毒蜘蛛，要求被试首先估计毒蜘蛛离自己多远，之后评价自己感到威胁还是感到厌恶。结果发现，感到威胁的被试相比于感到厌恶的被试估计毒蜘蛛离自己更近(Cole,Balcetis,& Dunning,2013)。Harber，Yeung 和 Iacovelli(2011)的研究也发现了类似的结果。此外，我们所感知到的自身与其他群体之间的距离也会受到这些群体社会威胁性的影响。Xiao 和Van Bavel(2012)通过三个实验考察个体对其他非所属群体所在地的距离感知。在实验1中要求纽约洋基队粉丝和非洋基队粉丝在洋基队所在球场分别估计洋基队球场离芬威公园(威胁性外群体所在地)和卡姆登公园(中性外群体所在地)的距离；在实验2中要求纽约大学成员和非纽约大学成员分别估计纽约大学离哥伦比亚大学(具有潜在威胁(综合排名优于纽约大学))和亨特大学(不具有潜在威胁(综合排名逊于纽约大学))的距离;在实验3中首先要求纽约大学的本科生阅读积极评价美国人民和消极评价墨西哥移民的描述文字，之后要求他们分别估计纽约到墨西哥和到温哥华(与到墨西哥的距离相似)的距离。结果发现，三个实验中被试估计具有威胁的非所属群体所在地离自己更近。这些研究结果说明，当知觉对象具有威胁时，个体感知到它与自身的空间距离会显著缩短。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "我们对威胁刺激的运动速度知觉也存在一定偏差。Riskind，Kelley，Harman，Moore和 Gaines(1992)提出危害——逼近模型(the harm-looming model)，表明焦虑个体看到威胁刺激时，会感觉到刺激的移动速度更快，并且更倾向于将其运动方向感知为靠近自身。在后来的一项研究中，Riskind，Moore 和Bowley(1995)考察了个体对于所呈现图片中的毒蜘蛛在想象场景中的运动知觉，结果表明，具有蜘蛛恐惧症的个体相较于不具有蜘蛛恐惧症的个体感觉到毒蜘蛛向他们自身运动的速度更快。此外，最近的一项研究考察了不同程度蜘蛛恐惧个体对于蜘蛛和蝴蝶运动速度的感知差异。实验要求高低蜘蛛恐惧的两组被试在靠近和远离运动两种条件下判断蜘蛛和蝴蝶图片配对中的哪一个运动速度最快。结果发现，在配对刺激靠近运动条件下，高蜘蛛恐惧组个体相比于低蜘蛛恐惧组更倾向于认为蜘蛛运动得最快(Basanovic,Dean,Riskind,&MacLeod,2019)。以上研究结果说明，当个体感知到运动的刺激具有威胁时会高估其相对运动速度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "因此，在TTC估计过程中，个体知觉到自身与威胁刺激的空间距离可能显著短于实际距离；同时，个体知觉到威胁刺激的运动速度可能显著快于实际速度。根据我们熟知的物理学公式：时间等于距离除以速度，分子(距离)减小与分母(速度)增加，不管是其中之一发生或者两者同时发生，都可以导致TTC 低估。若是如此，前述的结构主义理论尽管在建立之初没有考虑到情绪因素的作用，却恰好可以解释人们对威胁刺激的TTC低估这一现象。未来研究者可以就此展开实证研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文梳理了TTC概念、TTC估计的实验任务以及经典解释理论，回顾了近年来有关个体对威胁刺激TTC估计的研究。从个体对威胁刺激的特异性反应，威胁刺激的高唤醒度以及个体对威胁刺激的心理距离和运动速度的知觉偏差三个角度分析了个体低估靠近威胁刺激TTC 的原因。然而，目前有关靠近威胁刺激的TTC估计研究中还存在很多未解决的问题，需要未来研究继续探讨。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第一，进一步探索社会威胁刺激TTC低估效应不稳定的原因。如前文所述，威胁动物图片和威胁面孔图片对TTC估计的影响结果不同，这可能跟两类刺激激活了不同的认知加工系统有关(DeLucia et al.,2014;Ohman,1986)。威胁动物图片更多地激活了本能防御系统，这一系统经过长期进化而形成，具有很强的非自主性。然而，威胁面孔图片更多地激活了个体社会防御系统，这一系统受到认知评价的调控，在自动化水平上相较于本能防御系统更弱。此外,Han等人(2008)发现，存在一个独立于恐惧情绪而用于检测与评估威胁刺激的脑网络。因此，威胁刺激的TTC低估效应背后的发生机制可能比较复杂。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第二，结合 SCL 等自主生理反应指标探究唤醒度在威胁刺激TTC 被低估这一过程中的作用。如前文所述，情绪唤醒度可能是造成 TTC 低估的原因之一，而 SCL又与刺激的情绪唤醒度密切相关(易欣等，2015)。个体在进行TTC 估计的过程中，威胁条件下的 SCL 可能显著高于非威胁条件，表现出一种更高的自身激活状态。纳入SCL等生理指标可以为探究唤醒度这一潜在因素的作用提供更直接的证据。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三，关注个体在对靠近威胁刺激进行TTC 估计的过程中，初级视觉皮层、感觉运动皮层、丘脑和杏仁核等区域的激活模式以及这些区域之间的活动关联性。已有研究通过单细胞记录的方式发现，在螃蟹(Oliva,Medan,& Tomsic,2007)、蝗虫(Gray, Blincow,& Robertson,2010)和鸽子(Xiao&Frost,2009)的神经系统中有专门的神经元对 TTC 估计所依赖的视觉信息做出相应的激发反应。采用fMRI技术的研究也发现，人脑中特定的区域与对一般刺激的TTC 估计有关，如 V5/MT-MST 区域(Morrone et al.,2000; Smith,Wall,Williams,& Singh,2006)、感觉运动皮层(Field&Wann,2005)、丘脑和脑岛(Billington et al.,2011)等区域。然而，以往有关威胁刺激TTC 估计的研究大多都停留在行为层面，相关神经元活动和脑基础还没有进一步探讨。未来研究应当结合特定神经元活动与以上相关脑区活动状态，进一步揭示个体对靠近威胁刺激TTC 估计的神经机制。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第四，采用虚拟现实(virtual reality,VR)技术研究对威胁刺激的TTC 估计。以往研究主要通过在平面显示器中放大刺激图片来模拟靠近运动，模拟效果与真实情形并不对等。这使得我们不能轻易将实验室的发现推广到真实情境中。相比之下，采用VR技术创建的实验环境具有三维立体感更强；距离和深度变化较为真实；交互更丰富；被试在实验中的参与度更高等优点(Rolin,Fooken, Spering,& Pai,2019; Scarfe& Glennerster,2015)。此外，VR 环境也适合用于与深度有关的心理距离和运动速度知觉的研究。因此，未来研究可采用VR 技术，进一步探讨在相对真实的环境中，个体对威胁刺激TTC 估计的特点，从而得到生态效度较高的结论。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第五，探讨对威胁刺激进行TTC 估计中个体因素的影响。已有研究表明，在对情绪图片的情绪体验和表情图片的情绪类型识别方面存在性别差异。例如，女性对图片中的负性情绪信息更加敏感，情绪体验更强(Bianchin & Angrili,2012; Brebner,2003;Fischer,Mosquera,van Vianen,& Manstead,2004;Rakison,2009)，同时，在表情图片的情绪类型识别中，女性对负性情绪的识别准确率更高，而男性对正性情绪的识别准确率更高(Connolly,Lefevre,Young,&Lewis,2019)。因此，女性相比于男性可能会更加低估威胁刺激的TTC。与此相类似，不同人格特质，比如情绪敏感性不同的个体，也可能存在威胁刺激 TTC 估计的差异。以往研究更多的关注了外在刺激因素对威胁刺激TTC 估计的影响。在此基础上，探讨性别和人格特质等内在个体因素对威胁刺激 TTC 估计的影响，有助于全面揭示个体对威胁刺激TTC 估计的深层机制。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "陶维东，陶晓丽，孙弘进.(2011)．即将碰撞时间的视觉信息加工研究进展．现代生物医学进展，11(06), 1165-1169+1183.   \n易欣，葛列众，刘宏艳.(2015)．正负性情绪的自主神经反应及应用．心理科学进展,23(1),72-84.   \nAftanas,L.I.,Koshkarov, V.1,Pokrovskaja,V.L.,Lotova,N.V.,& Mordvintsev,Y.N. (1996).Event-related desynchronization (ERD） pattrns to emotion-related feedback stimuli. International Journal of Neuroscience, 87, 151-173.   \nAftanas,L.I.，Varlamov,A.,Pavlov,S.,Makhnev,V.，& Reva,N.(2O01).Event-related synchronization and desynchronization during affectiveprocessing:Emergence of valence-related time-dependent hemispheric asymmetries in theta and upper alpha band. International Journal of Neuroscience,110, 197-219.   \nAnllo-Vento,L.，& Hillyard,S.A.(1996). Selective atention to the color and directionof moving stimuli: Electrophysiological correlates of hierarchical feature selection.Perception & Psychophysics，58(2), 191-206.   \nArnaudova,I., Krypotos,A. M., Efting,M.， Kindt, M.，& Beckers,T. (2017). Moving threat: Attention and distance change interact in threat responding. Emotion,17(2),251-258.   \nBalaban,M.T.,& Taussig,H.N.(994). Salience of fear/threat in the affctive modulationof the human startle blink. Biological Psychology,38(2-3),117131.   \nBasanovic,J.,Dean,L.,Riskind,J.H.,& MacLeod, C.(2O17). Direction of stimulus movement alters fear-linked individual diferences in atentional vigilance to spider stimuli. Behaviour Research and Therapy， 99, 117-123.   \nBasanovic,J.，Dean,L.,Riskind,J. H.，& MacLeod,C.(2019). High spider-fearful and low spider-fearful individuals diferentially perceive the speed of approaching, but not receding,spider stimuli. Cognitive Therapy and Research, 43(2), 514-521.   \nBaumgartner, H. M., Graulty, C.J., Hillyard,S.A.,& Pits,M.A. (2018). Does spatial attention modulate the earliest component of the visual evoked potential? Cognitive Neuroscience,9(1-2),4-19.   \nBentin,S.,Allison,T.,Puce,A.,Perez,E.,&McCarthy,G. (1996).Electrophysiological studiesofface perception in humans. Journal of Cognitive Neuroscience, 8(6), 551-565.   \nBianchin,M.,& Angrili,A. (2012). Gender differences in emotional responses: A psychophysiological study. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Physiology&Behavior,105(4),925-932. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Billington,J.,Wilie,R.M.,Field,D.T.,& Wann,J.P. (21).Neuralprocessngofimminentcollsioinumans. Proceedings of the Royal Society B: Biological Sciences,278(1711),1476-1481.   \nBradley,M. M.,Codispoti,M.,Cuthbert,B.N.,& Lang,P.J.(2001).Emotion and motivation I: Defensiveand appetitive reactions in picture processing. Emotion,1(3),276-298.   \nBrebner, J.(2003). Gender and emotions.Personality and Individual Diffrences,34(3),387-394.   \nBrendel,E.,DeLucia,P.R.,Hecht,H. Stacy,R.L.,&Larsen,J.T. (2O12).Threatening pictures induce shortened time-to-contact estimates. Attention Perception & Psychophysics,74(5),979-987.   \nBrendel,E.,Hecht, H.,DeLucia,P.R.,& Gamer,M. (2014).Emotional efects on time-to-contact judgments: Arousal, threat,and fear of spiders modulate the effect of pictorial content. Experimental Brain Research, 232(7), 2337-2347.   \nBrendel,E. S.(2O19). Safety strategies in time-to-contact estimation (Unpublished doctoral dissertation). der Johannes Gutenberg-Universitat. Mainz.   \nCarretie,L., Hinojosa, J. A.， Martin-Loeches,M.， Mercado,F.，& Tapia, M. (2004). Automatic atention to emotional stimuli: Neural correlates. Human Brain Mapping,22(4),290-299.   \nCheng,R. K.,Tipples,J., Narayanan,N. S.,& Meck, W. H. (2016). Clock speed as a window into dopaminergic control of emotion and time perception. Timing Time Percept, 4(1), 98-121.   \nCodispoti，M.，& de Cesarei，A. (2O07). Arousal and attention: Picture size and emotional reactions. Psychophysiology, 44(5), 680-686.   \nCodispoti,M. Surcinelli,P.,& Baldaro,B.(2O08). Watching emotional movies: Afective reactions and gender diferences. International Journal of Psychophysiology, 69(2), 90-95.   \nCole，S.， Balcetis,E.，& Dunning，D. (2O13). Aective signals of threat increase perceived proximity. Psychological Science, 24(1),34-40.   \nConnolly,H.L.,Lefevre, C.E., Young,A.W.,& Lewis,G.J. (2019).Sex diferences in emotion recognition: Evidence for a small overallfemale superiority on facial disgust. Emotion,19(3), 455-464.   \nDas,P.,Kemp,A.H.,Liddell,B.J.,Brown, K.J.,Olivieri, G.,Peduto,A.,..Wiliams,L. M. (205).Pathways for fear perception: Modulation of amygdala activity by thalamo-cortical systems. Neuroimage, 26(1), 141-148.   \nde Haan，A.M.， Smit, M.，Van der Stigchel, S.，& Dijkerman,H.C.(2016). Approaching threat modulates visuotactile interactions in peripersonal space. Experimental Brain Research,234(7),1875-1884. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Delplanque,S.,Lavoie,M.E.,Hot,P.,Silvert,L.,& Sequeira,H. (2O04). Modulation of cognitive processing by emotional valence studied through event-related potentials in humans.Neuroscience Letters,356(1),1- 4. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DeLucia, P.R., Brendel,E, Hecht, H.,Stacy,R.L.,&Larsen,J.T. (2O14).Threatening scenes but notthreatening faces shorten time-to-contact estimates. Atention Perception & Psychophysics, 76(6),1698-1708.   \nDeLucia,P.R.,Kaiser,M.K.,Bush,J.M.,Meyer,L.E.,& Sweet,B.T.(2003).Information integration in judgements of time to contact. Quarterly Journal of Experimental Psychology Section a: Human Experimental Psychology, 56(7),1165-1189.   \nDeLucia,P.R.，& Liddell, G.W. (1998). Cognitive motion extrapolation and cognitive clocking in prediction motion tasks. Journal of Experimental Psychology: Human Perception and Performance, 24(3), 901- 914.   \nDroit-Volet, S.(2013).Time perception,emotions and mood disorders.Journal of Physiology-Paris,107(4),255- 264.   \nFayolle,S., Gil,S.，& Droit-Volet,S. (2O15).Fear and time: Fear speedsup the intermal clock.Behavioural Processes,120,135-140.   \nField,D.T.,& Wann,J.P. (20o5).Perceiving time tocolisionactivates thesensorimotorcortex. Current Biology, 15(5), 453-458.   \nFischer,A. H., Mosquera,P. M.R., van Vianen,A. E.M.,& Manstead,A. S.R.(2004). Gender and culture differences in emotion. Emotion, 4(1),87-94.   \nFisher,K.,Towler,J.,&Emer,M.(2O16).Facial identityand facial expressionare initially integratedat visual perceptual stages of face processing. Neuropsychologia, 80,115-125.   \nFu,S.M., Caggiano,D. M., Greenwood,P. M.，& Parasuraman,R. (2O05).Event-related potentials reveal dissociable mechanisms for orienting and focusing visuospatial atention. Cognitive Brain Research, 23(2-3), 341-353.   \nGibbon,J., Church,R. M.,& Meck, W. H. (1984). Scalar timing in memory. Annals of the New York Academy of Sciences, 423(MAY), 52-77.   \nGil,S.，& Droit-Volet,S.(O12).Emotional time distortions: The fundamental role of arousal. Cognition & Emotion, 26(5), 847-862.   \nGray,J.R.，Blincow,E.，& Robertson,R.M. (2O10).A pair of motion-sensitive neurons in the locust encode approaches of a looming object. Journal of Comparative Physiology A: Neuroethology， Sensory, ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Neural ,ana Benaviorat rnysiology, 1yo(1∠), y∠ /-938.   \nGupta,R.S.，Kujawa,A.，& Vago,D.R.(2019). The neural chronometry of threat-related atentional bias: Event-related potential (ERP) evidence for early and late stages of selective atentional processing. International Journal of Psychophysiology, 146,20-42.   \nHan,S.H.,Gao,X.C., Humphreys,G.W.，& Ge,J. Q. (2O08).Neural processing of threat cues in social environments. Human Brain Mapping, 29(8), 945-957.   \nHarber,K.D., Yeung,D.,&Iacovelli,A. (2Ol1).Psychosocialresources,threat,and the perceptionofdistanceand height: Support for the resources and perception model. Emotion,1l(5),1080-1090.   \nHart,S.J.，Lucena,N., Cleary，K.M.，Belger, A.，& Donkers,F.C.(2012). Modulation of early and late event-related potentials by emotion. Frontiers in Integrative Neuroscience, 6,102:1-9.   \nHaselmo,M.E.,& Sarter,M. (2O11).Modes and models of forebrain cholinergic neuromodulation of cognition. Neuropsychopharmacology, 36(1),52-73.   \nHecht,H.,&Savelsbergh,G.J.P. (2O04).Theories of time-to-contact judgment.Advances in Psychology,135,1- 11.   \nHerbert,C.,Sfarlea,A.,& Blumenthal,T.(2O13).Your emotionor mine: Labeling feelings alters emotional face perception: An ERP study on automatic and intentional affct labeling. Frontiers in Human Neuroscience, 7, 1-14.   \nHoehl,S.,&Pauen,S. (2o17).Do infantsassociate spiders and snakes with fearful facial expressions?Evolution and Human Behavior, 38(3),404-413.   \nKeil,A.,Bradley,M.M.,Hauk,O.,Rockstroh,B.,Elbert,T.,&Lang,P.J. (2Oo2).Large-scale neural corelatesof affective picture processing. Psychophysiology, 39(5), 641-649.   \nKeil,A.,Muler,M.M.,Gruber,T.,Wienbruch,C.,tolarova,M.,&Elbert,T. (2oo1).Effctsof emotionalarousal in the cerebral hemispheres: A study of oscilatory brain activity and event-related potentials. Clinical Neurophysiology, 112(11),2057-2068.   \nKrause,C.M., Viemero,V.,Rosenqvist,A.,illanmaki,L,&Astrom,T. (2ooo). Relative electroencephalograpic desynchronization and synchronization in humans to emotional film content: An analysis of the 4-6, 6-8, 8-10 and 10-12 Hz frequency bands. Neuroscience Letters, 286(1), 9-12.   \nKim, N. G. (2015). Perceiving time-to-contact under locally impoverished optical flow. Perceptual and Motor Skills,120(3),906-927.   \nLake,J. I., LaBar, K. S.,& Meck, W. H. (2016). Emotional modulation of interval timing and time perception. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Neuroscience&BiobehavioralReviews,64,4O3-420. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lake,J.I.,Meck,W.H.,&LaBar,K.S.(2Ol6).Discriminative fear learners are resilientto temporal distortions during threat anticipation. Timing Time Percept, 4(1),63-78. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lang,P. J.,& Bradley,M.M. (2010).Emotion and the motivational brain. Biological Psychology 84(3),437-450.   \nLeDoux, J.E. (2ooo). Emotion circuits in the brain. Annual Review of Neuroscience, 23(1),155-184.   \nLee,D.N. (1976).A theory of visual control of braking based on information about time-to-colision. Perception, 5(4), 437-459.   \nLehockey,K.A.,Winters,A.R.，Nicoletta,A.J., Zurlinden,T.E.，& Everhart,D.E.(2018). The efectsof emotional states and traits on time perception. Brain informatics,5(2), 9-22.   \nLiddell,B.J.,Brown,K.J., Kemp,A.H.,Barton,M.J.,Das,P.,Peduto,A.,..Williams,L.M. (2O05).Adirect brainstem-amygdala-cortical 'alarm' system for subliminal signals of fear. Neuroimage, 24(1),235-243.   \nLindner,P.,Miloff,A.，Reuterskiold,L.,Andersson,G.，& Carlbring,P.(2O19).What isso frightening about spiders? Self-rated and self-disclosed impact of diferent characteristics and associations with phobia symptoms. Scandinavian Journal of Psychology, 60(1), 1-6.   \nLorteije,J. A. M.，van Wezel,R. J.A.,& van der Smagt,M. J. (2O08). Disentangling neural structures for processing of high- and low-speed visual motion. European Journal of Neuroscience,27(9),2341-2353.   \nMartinez,A.,Teder-Salejarvi,W,&Hillyard,S.A. (2o).Spatialatentionfacilitatesselectionofillusoryobjects: Evidence from event-related brain potentials.Brain Research,l139,143-152.   \nMartinez,A.,Tder-Salejarvi,W.,Vazque,M.,Mololm,S.,Foxe,J.J.,JavittD.C,..Hiyard,S.A.(2006). Objects are highlighted by spatial attention. Journal of Cognitive Neuroscience,18(2),298-310.   \nMathews,A.R.,He,O.H.,Buhusi,M.,& Buhusi, C.V. (2012).Dissociation of the role ofthe prelimbic cortex in interval timing and resource allocation: Beneficial eect of norepinephrine and dopamine reuptake inhibitor nomifensine on anxiety-inducing distraction. Frontiers in Integrative Neuroscience,6,1-12.   \nMcLeod,R. W.,& Ross,H.E. (1983). Optic-flow and cognitive factors intime-to-colision estimates.Perception, 12(4), 417-423.   \nMorris,J. S.,Frith,C.D.,Perret,D.I.,Rowland,D., Young,A.W.,Calder,A.J.,& Dolan,R.J. (1996).A diferential neural response in the human amygdala to fearful and happy facial expressons. Nature, 383(6603), 812-815.   \nMorrone,M.C.,Toseti,M.,Montanaro,D.,Fiorentini,A.,Cioni,G.,&Burr,D.C.(2OO).Acorticalarea that responds specifically to optic flow, revealed by fMRI. Nature Neuroscience,3(12),1322-138.   \nMuller，M.M.，Keil，A.，Gruber，T.，& Elbert，T.(1999).Processing of affective picturesmodulates right-hemispheric gamma band EEG activity. Clinical Neurophysiology, I10(11),1913-1920.   \nOhman，A. (1986).Face the beast and fear the face: Animal and social fears as prototypes for evolutionary analyses of emotion. Psychophysiology, 23(2),123-145.   \nOhman,A.,& Soares, J. J. (1993). On the automatic nature of phobic fear: Conditioned electrodermal responses to masked fear-relevant stimuli. Journal of abnormal psychology,102(1),121-132.   \nOliva,D.,Medan,V.,& Tomsic,D.(2oo7).Escape behavior and neuronal responses tolooming stimuli in thecrab Chasmagnathus granulatus (Decapoda: Grapsidae). Journal of Experimental Biology, 210(5),865-880.   \nOlofsson, J. K.,Nordin,S.,Sequeira,H.,&Polich,J. (2Oo8).Affective picture processing: Anintegrativereview of ERP findings. Biological Psychology,77(3),247-265.   \nOya,H.,Kawasaki,H.,Howard,M.A.,& Adolphs,R. (20O2).Electrophysiological responses in the human amygdala discriminate emotion categories of complex visual stimuli. Journal of Neuroscience, 22(21), 9502-9512.   \nPessoa,L.,&McMenamin,B. (2017). Dynamic networks in the emotional brain. Neuroscientist,23(4),383-396.   \nQuinn,B.T.,Carlson,C.,Doyle,W.,Cash,S.S.,Devinsky,O.,Spence,C.,... Thesen,T. (2014).Intracranial cortical responses during visual-tactile integration in humans. Journal of Neuroscience,34(1),171-181.   \nRakison, D. H. (2Oo9). Does women's greater fear of snakes and spiders originate in infancy? Evolution and Human Behavior, 30(6),438-444.   \nRiskind,J.H.,Kelley,K.,Harman,W.,Moore,R.,& Gaines,H.S.(1992).Theloomingness of danger:Does it discriminate focal phobia and general anxiety from depression? Cognitive Therapy and Research,16(6), 603-622.   \nRiskind,J. H. Moore,R.,& Bowley,L. (1995). The looming of spiders: The fearful perceptual distortionof movement and menace. Behaviour Research and Therapy, 33(2),171-178.   \nRolin,R.A.,，Fooken,J.,Spering,M.,&Pai,D.K.(2019).Perception of looming motion in virtual reality egocentric interception tasks. IEEE Transactions on Visualization and Computer Graphics， 25(10), 3042-3048.   \nRossion, B. (2O14). Understanding face perception by means of human electrophysiology. Trends in Cognitive Sciences, 18(6),310-318.   \nRossion,B.,Gauthier,I.,Tar,M.J.,Despland,P.,Bruyer,R.,Linote,S.,&Crommelinck,M. (2oO).The N170 occipito-temporal component is delayed and enhanced to inverted faces but not to inverted objects: An ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "electrophysiological account of face-specific processes in the human brain. Neuroreport,Il(1),69-74. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Sagliano,L.,Cappucio,A.,Trojan,L.,&Conson,M. (2o14).Approaching threats elicit a freeze-like response in humans. Neuroscience Letters, 561,35-40.   \nSagliano,L., Trojano,L.,Amorielo,K.,Migliozzi,M.,&DOlimpio,F.(2O14).Atentional biases toward threat: The concomitant presence of difficulty of disengagement and atentional avoidance in low trait anxious individuals.Frontiers in Psychology,5,1-7.   \nSalemink,E.,van den Hout,M.A.,& Kindt,M.(2OO7).Selective atention and threat: Quick orienting versus slow disengagement and two versions of the dot probe task. Behaviour Research and Therapy, 45(3),607-615.   \nScarfe,P.,& Glennerster,A. (2O15). Using high-fidelity virtual reality to study perception in freely moving observers. Journal of Vision,15(9),1-11.   \nSchweinberger, S.R.,& Soukup, G.R. (1998). Asymmetric relationships among perceptions of facial identity, emotion,and facial speech. Journal of Experimental Psychology: Human Perception and Performance, 24(6), 1748-1765.   \nSmeets,J.B.J.,Brenner,E.,Trebuchet,S.,& Mestre,D.R.(1996). Is judging time-to-contact based on‘tau'? Perception,25(5),583-590.   \nSmith,A.T., Wal,M.B., Williams,A.L.,& Singh,K.D. (2O6).Sensitivity tooptic flow in humancorticalareas MT and MST. European Journal of Neuroscience, 23(2),561-569.   \nSmith,N. K.，Cacioppo,J. T.,Larsen,J. T.，& Chartrand, T.L. (2O03). May I have your atention,please: Electrocortical responses to positive and negative stimuli. Neuropsychologia, 41(2),171-183.   \nSoares,S.,Atallah,B.V.,& Paton,J.J. (2O16).Midbrain dopamine neurons control judgment of time.Science, 354(6317),1273-1277.   \nSpringer, U. S.，Rosas,A.，McGetrick,J.,& Bowers,D.(2007). Diferences in startle reactivity during the perception of angry and fearful faces. Emotion, 7(3),516-525.   \nTanskanen,T.,Nasanen,R.,Ojanpaa,H.,& Hari,R.(2OO7).Face recognitionand cortical responses: Effect of stimulus duration. Neuroimage, 35(4),1636-1644.   \nTresilian, J.R.(1997).Revised tau hypothesis: A consideration of Wann's (1996) analyses.Journalof Experimental Psychology: Human Perception and Performance,23(4),1272-1281.   \nVagnoni,E.,Andreanidou,V.,Lourenco,S.F.,&Longo,M.R. (2O17).Action ability modulates time-to-collision judgments. Experimental Brain Research, 235(9),2729-2739.   \nVagnoni, E.,Lourenco,S.F.,& Longo, M. R. (20l2). Threat modulates perception of looming visual stimuli. Current Biology, 22(19), R826-R827.   \nVagnoni,E.,Lourenco,S.F.,&Longo,M.R. (2015).Threat modulates neural responses to looming visual stimuli. European Journal of Neuroscience, 42(5),2190-2202.   \nVan Le,Q.,Isbel,L.A.,Matsumoto,J.,Nguyen,M.,Hori,E.,Maior,R.S.，..Nishijo,H.(2013).Pulvinar neurons reveal neurobiological evidence of past selection for rapid detection of snakes.Proceedings of the National Academy of Sciences of the United States of America,110(47),19000-19005.   \nVenetacci,R.,Johnstone,A.,Kirkby,K.C.,& Matthews,A.(018).ERPcorrelatesof attentional processing in spider fear: Evidence of threat-specific hypervigilance.Cognition & Emotion, 32(3),437-449.   \nWangelin,B.C.,Bradley,M.M.,Kastner,A.,&Lang,P.J. (2O12).Affective engagement for facial expressions and emotional scenes: The influence of social anxiety. Biological Psychology,91(1),103-110.   \nXiao,Q.,& Frost,B.J. (2O09).Looming responses of telencephalic neurons in the pigeon are modulated by optic flow.Brain Research,1305,40-46.   \nXiao,Y.J.,&Van Bavel,J.J. (2O12).See your friends close and your enemies closer: Social identityand identity threat shape the representation of physical distance.Personality and Social Psychology Bulltin, 38(7), 959-972.   \nZajonc,R.B.(1980).Feelingand thinking: Preferences need no inferences.American Psychologist,35(2),151- ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "175. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Estimating the time-to-collision with a threatening object ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "LI Caiwen; ZANG Fenying; XUAN Yuming; FU Xiaolan (StateKeyLaboratoryofraindognitiveiene,stitutefsychologyCinesecademyofienceseiinga) (DepartmentofPsychology,University ofChinese AcademyofSciences,Beijing 1ooo49,China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Estimating the time-to-colision (TTC) of approaching objects is crucial for organism survival. Researchers have proposed the constructivist approaches, the ecological optics theory and the tau hypothesis to explain how humans estimate TTC and which factors may affect the estimation. Recently,a few studies examined how the emotional content of stimuli impacts TTC estimation, by comparing TTC judgements between threatening and nonthreatening stimuli. Their findings suggest that natural threatening stimuli (e.g., images of snakes) lead to underestimation of TTC compared to natural nonthreatening stimuli (e.g., images of rabbits). However, other findings suggest that TTC underestimation of social threatening stimuli (e.g. pictures of angry faces) is smaller or absent. Underestimated TTC of threatening stimuli may be due to 1) a specific response to threatening stimuli, 2) high emotional arousal of threatening stimuli,and 3) a perceptual bias causing threatening stimuli to appear closer and move faster than typical. We suggest that future studies should (1) further investigate the reasons why TTC underestimation of social threatening stimuli is smaller or absent, (2) explore the autonomic physiological response patterns and neural correlates of TTC estimation of threatening stimuli, (3) examine TTC estimation of threatening stimuli in virtual reality (VR) environments,and (4) experimentally test the effects of individual differences (e.g., gender and personality traits) on TTC estimation. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Keywords: time-to-collision estimation; threat-specific response; emotional arousal; psychological distance; speed perception ",
+        "page_idx": 20
+    }
+]

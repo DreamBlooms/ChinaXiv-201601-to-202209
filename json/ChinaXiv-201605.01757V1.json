@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "Top quark forward-backward asymmetry at the Tevatron: a comparative study in different new physics models ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao $^ { 1 }$ ， Zhaoxia Heng $^ 2$ ， Lei Wu $^ { 1 }$ ， Jin Min Yang $^ 2$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 }$ College of Physics and Information Engineering, Henan Normal University， Xinxiang 453007, China （204号 $^ 2$ Key Laboratory of Frontiers in Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The top quark forward-backward asymmetry $A _ { F B } ^ { t }$ measured at the Tevatron is above the Standard Model prediction by more than $2 \\sigma$ deviation,which might be a harbinger for new physics. In this work we examine the contribution to $A _ { F B } ^ { t }$ in two diferent new physics models: one is the minimal supersymmetric model without R-parity (RPV-MSSM) which contributes to $A _ { F B } ^ { t }$ via sparticle-mediated $t$ -channel process $d d  t \\bar { t }$ ; the other is the third-generation enhanced left-right model (LR model) which contributes to $A _ { F B } ^ { t }$ via $Z ^ { \\prime }$ -mediated $t$ -channel or $s$ -channel processes. We find that in the parameter space allowed by the $t t$ production rate and the $t t$ invariant mass distribution at the Tevatron, the LR model can enhance $A _ { F B } ^ { t }$ to within the $2 \\sigma$ region of the Tevatron data for the major part of the parameter space, and in optimal case $A _ { F B } ^ { t }$ can reach $1 2 \\%$ （204号 which is slightly below the $1 \\sigma$ lower bound. For the RPV-MSSM, only in a narrow part of the parameter space can the $\\lambda ^ { \\prime \\prime }$ couplings enhance $A _ { F B } ^ { t }$ to within the $2 \\sigma$ region while the $\\lambda ^ { \\prime }$ couplings just produce negative contributions to worsen the fit. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.65.Ha,14.80.Ly,11.30.Hv ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the heaviest fermion with a mass at weak scale, top quark is speculated to be a sensitive probe of new physics beyond the Standard Model (SM) [1]. The precision measurement of its properties, now being performed at the Tevatron and will be continued at the CERN Large Hadron Collider (LHC)， will either unravel or further constrain the new physics related to the top quark. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "So far the production rates of top pair and single top measured at the Tevatron are in good agreement with the SM predictions, but a more than $2 \\sigma$ deviation is reported in the forward-backward asymmetry $A _ { F B } ^ { t }$ in top pair production, which is defined by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { F B } ^ { p \\bar { p } } = \\frac { N _ { t } ( \\cos \\theta > 0 ) - N _ { t } ( \\cos \\theta < 0 ) } { N _ { t } ( \\cos \\theta > 0 ) + N _ { t } ( \\cos \\theta < 0 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\theta$ being the angle between the reconstructed top quark momentum and the proton beam direction in $t t$ rest frame. In the SM, this asymmetry gets dominant contribution from the next-to-leading-order QCD correction and was found to be several percent: $A _ { \\mathrm { F B } } ^ { t } ( \\mathrm { S } M ) =$ $5 . 0 \\pm 1 . 5 \\%$ [2]. Compared with its experimental value $A _ { \\mathrm { F B } } ^ { t } ( \\exp ) = 1 9 . 3 \\pm 6 . 9 \\%$ measured by the CDF and D0 collaborations [3], this SM prediction is below the measured value by more than $2 \\sigma$ deviation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Such a discrepancy might be a new physics footprint in top quark sector and has been studied in several new physics models,where the Kaluza-Klein excitations in extra dimensions [4], the presence of new gauge bosons ( $Z ^ { \\prime }$ ， $W ^ { \\prime }$ , axigluon） [5,6] or new scalars [7] are utilized to try to explain the discrepancy. Noting that the mechanisms proposed in these literatures can also be realized in some popular new physics models, we in this work study the asymmetry $A _ { F B } ^ { t }$ in the supersymmetric models and the left-right models [8]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the minimal supersymmetric standard model (MSSM) [9], the SUSY influence on $t t$ （204 production comes from loop effects, in which the SUSY-QCD effects are dominant over the SUSY-EW effects [10]. But among the SUSY-QCD one-loop diagrams only the box diagrams contribute to the asymmetry $A _ { F B } ^ { t }$ and, consequently, the contribution is negligibly small(see the discussion in [4]). Therefore, in our analysis we consider the R-parity violating MSSM (RPV-MSSM) [11] which allows for tree-level contribution from $t$ -channel process $d d  t \\bar { t }$ by exchanging a color-singlet slepton or a color-triplet squark. For the general left-right models, since the predicted new gauge bosons are usually at TeV scale and unlikely to affect $A _ { F B } ^ { t }$ （204 significantly, we here consider a special left-right model calld the third-generation enhanced left-right model [12]. This model predicts a new gauge boson $Z ^ { \\prime }$ which contributes to $A _ { F B } ^ { t }$ via $t$ -channel or $s$ -channel processes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec. II we describe the calculation of the asymmetry $A _ { F B } ^ { t }$ in the RPV-MSSM and present some numerical results and discussions. In Sec. III we perform similar analysis in the third-generation enhanced left-right model. Finally, some discussions and the conclusion are presented in Sec. IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. $A _ { F B } ^ { t }$ IN $R$ -PARITY VIOLATING MSSM ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the popular MSSM, the invariance of $R$ -parity, defined by $R = ( - 1 ) ^ { 2 S + 3 B + L }$ for a field with spin $S$ ，baryon-number $B$ and lepton-number $L$ , is often imposed on the Lagrangian in order to maintain the separate conservation of $B$ and $L$ .Although $R$ -parity plays a beautiful role in the phenomenology of the MSSM (e.g., forbid proton decay and ensure a perfect candidate for cosmic dark matter), it is, however, not dictated by any fundamental principle such as gauge invariance and there is no compelling theoretical motivation for it. The most general superpotential of the MSSM consistent with the SM gauge symmetry and supersymmetry contains $R$ -violating interactions which are given by [11] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal W } _ { { \\cal R } } = \\frac { 1 } { 2 } \\lambda _ { i j k } L _ { i } L _ { j } E _ { k } ^ { c } + \\lambda _ { i j k } ^ { \\prime } L _ { i } Q _ { j } D _ { k } ^ { c } + \\frac { 1 } { 2 } \\lambda _ { i j k } ^ { \\prime \\prime } \\epsilon ^ { \\alpha \\beta \\gamma } U _ { i \\alpha } ^ { c } D _ { j \\beta } ^ { c } D _ { k \\gamma } ^ { c } + \\mu _ { i } L _ { i } H _ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $i , j , k$ are generation indices, $c$ denotes charge conjugation, $\\alpha$ ， $\\beta$ and $\\gamma$ are the color indices with $\\epsilon ^ { \\alpha \\beta \\gamma }$ being the total antisymmetric tensor, $H _ { 2 }$ is the Higgs-doublet chiral superfield, and $L _ { i } ( Q _ { i } )$ and $E _ { i } ( U _ { i } , D _ { i } )$ are the left-handed lepton (quark) doublet and right-handed lepton (quark） singlet chiral superfields. The dimensionless coefficients $\\lambda _ { i j k }$ (antisymmetric in $i$ and $j$ )and ${ \\lambda } _ { i j k } ^ { \\prime }$ in the superpotential are $L$ -violating couplings, while ${ \\lambda } _ { i j k } ^ { \\prime \\prime }$ (antisymmetric in $j$ and $k$ ）are $B$ -violating couplings. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The expression of $\\mathcal { W } _ { \\mathit { R } }$ implies that both $\\lambda _ { i j k } ^ { \\prime }$ and ${ \\lambda } _ { i j k } ^ { \\prime \\prime }$ can induce new top quark interactions. In terms of the four-component Dirac notation,the interactions involved in top pair production are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } = \\lambda _ { i j k } ^ { \\prime } \\tilde { l } _ { L } ^ { i } \\overline { { { d _ { R } ^ { k } } } } u _ { L } ^ { j } - \\frac { 1 } { 2 } \\lambda _ { i j k } ^ { \\prime \\prime } [ \\tilde { d } _ { R } ^ { k * } \\bar { u } _ { R } ^ { i } d _ { L } ^ { j c } + \\tilde { d } _ { R } ^ { j * } \\bar { u } _ { R } ^ { i } d _ { L } ^ { k c } ] + h . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and these interactions can contribute to the forward-backward asymmetry by the diagrams ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88db62f0709983bb730481f0fedb31fc2c902a01086b0e470635966a4b036728.jpg",
+        "img_caption": [
+            "FIG. 1: Feynman diagrams contributing to $A _ { F B } ^ { t }$ in the RPV-MSSM, where $\\hat { l } _ { L } ^ { i }$ and $\\tilde { d } _ { R } ^ { k }$ denotes a left-handed slepton in $i$ -th generation and right-handed squark in $k$ -th generation，respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd086f5582ec41c206323cbee548db9ee6b516e50349ac17f562b90c1f2fa1b4.jpg",
+        "table_caption": [
+            "TABLE I: The upper bounds on the couplings $\\lambda _ { i 3 1 } ^ { ' }$ ( $i = 1 , 2 , 3 ,$ and $\\lambda _ { 3 1 k } ^ { ^ { \\prime \\prime } }$ $( k = 2 , 3 )$ [14]. ",
+            "shown in Fig.1. The corresponding amplitudes are then given by "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>couplings</td><td>bounds</td><td>sources</td></tr><tr><td>X131</td><td>0.03 mu /(100 GeV)</td><td>Qw(Cs)</td></tr><tr><td>X231</td><td>0.18 ma/(100 6ev)</td><td>Vuq</td></tr><tr><td>X331</td><td>/(100 GeV) 0.26md/</td><td>K→πvv</td></tr><tr><td></td><td>0.97 mdr /(100 GeV)</td><td>R</td></tr><tr><td>X31k</td><td>1.25</td><td>perturbativity</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle M _ { d \\bar { d } \\to t \\bar { t } } ^ { R P V } \\vert _ { \\lambda ^ { \\prime } } ~ = ~ - i \\delta _ { \\alpha \\rho } \\delta _ { \\beta \\sigma } \\vert \\lambda _ { i 3 1 } ^ { ' } \\vert ^ { 2 } \\frac { \\bar { u } ( t ) P _ { R } u ( d ) \\bar { v } ( d ) P _ { L } v ( t ) } { ( p _ { 1 } - p _ { 3 } ) ^ { 2 } - m _ { \\tilde { l } _ { i _ { L } } } ^ { 2 } } , } } } \\\\  { { \\displaystyle M _ { d \\bar { d } \\to t \\bar { t } } ^ { R P V } \\vert _ { \\lambda ^ { \\prime \\prime } } ~ = ~ - i \\varepsilon _ { \\beta \\rho \\lambda } \\varepsilon _ { \\sigma \\alpha \\lambda } \\vert \\lambda _ { 3 1 k } ^ { \\prime \\prime } \\vert ^ { 2 } \\frac { \\bar { u } ( t ) \\gamma _ { \\mu } P _ { R } v ( t ) \\bar { v } ( d ) \\gamma ^ { \\mu } P _ { R } u ( d ) } { 2 [ ( p _ { 1 } - p _ { 4 } ) ^ { 2 } - m _ { \\tilde { d } _ { k R } } ^ { 2 } ] } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $\\alpha$ ， $\\beta$ ， $\\rho$ ， $\\sigma$ and $\\lambda$ being color indices of the quarks and squarks. These amplitudes affects $A _ { F B } ^ { t }$ by interfering with the QCD amplitude $d d \\to g ^ { * } \\to t \\bar { t }$ and also by its own square. In our results presented below, we have included the SM contribution to $A _ { F B } ^ { t }$ and considered only one coupling non-zero each time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SUSY parameters involved in the calculation are the couplings $\\lambda _ { i 3 1 } ^ { \\prime }$ and $\\lambda _ { 3 1 k } ^ { ^ { \\prime \\prime } }$ as well as sparticle masses. So far both theorists and experimentalists have intensively studied the phenomenology of these couplings in various processes [13] and obtained some bounds [14]. In Table I we list the relevant bounds and, as can be seen, in case of heavy squarks, these bounds are quite weak. Note that for $\\lambda _ { 3 1 k } ^ { ^ { \\prime \\prime } }$ we do not use the stringent bound from $n - n$ （2 oscillation [14] because they depend on additional SUSY parameters which are not involved in our processes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Fig.2 we show the dependence of $A _ { F B } ^ { t }$ on the relevant sparticle masss. Here we assume all squarks and sleptons are degenerate and sum over the contributions from different generations. The couplings $\\lambda _ { i 3 1 } ^ { \\prime }$ and $\\lambda _ { 3 1 k } ^ { ^ { \\prime \\prime } }$ are fixed at their maximally allowed values which, as shown in Table I, vary with squark mass. The SM parameters are taken as [15] ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0347e282de8f2eb7259ae881e8ffcba7ce8e72b03d2a15aacebb76537dc343f9.jpg",
+        "img_caption": [
+            "FIG. 2: $A _ { F B } ^ { t }$ versus the sparticle mass in the R-parity violating MSSM. The left (right) panel is induced by $\\lambda _ { i 3 1 } ^ { \\prime }$ （ $\\lambda _ { 3 1 k } ^ { \\prime \\prime }$ ） which are fixed at their maximally allowed values. The SM contribution to （204号 $A _ { F B } ^ { t }$ is also included. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 7 2 . 5 \\mathrm { G e V } , m _ { Z } = 9 1 . 1 9 \\mathrm { G e V } , \\sin \\theta _ { W } = 0 . 2 2 2 8 , \\alpha _ { s } ( m _ { t } ) = 0 . 1 0 9 5 , \\alpha = 1 / 1 2 8 . 3 7 \\mathrm { G e V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 indicates that both $\\lambda _ { i 3 1 } ^ { \\prime }$ and $\\lambda _ { 3 1 k } ^ { \\prime \\prime }$ can give a negative contribution to $A _ { F B } ^ { t }$ and in the worst cases, they decrease $A _ { F B } ^ { t }$ by $2 \\%$ and $5 \\%$ respectively, which are comparable in size with $A _ { F B } ^ { t \\ S M }$ . In a narrow partof the squark mass ( $2 5 0 \\sim 4 0 0 ~ \\mathrm { G }$ eV), the coupling $\\lambda _ { 3 1 k } ^ { ^ { \\prime \\prime } }$ can also give a positive contribution to enhance $A _ { F B } ^ { t }$ to within the $2 \\sigma$ region of the Tevatron data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We note that the scalar-mediated contributions have been analyzed in a model independent way in [7] and the results were presented for color-singlet,-triplet,-sextet and -octet scalar respectively. We checked that our analytic results are in agreement with [7] for the color-singlet and -triplet cases except that our study is restricted in a specified model, the RPV-MSSM. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Before ending this section, we give a comment on $A _ { F B } ^ { t }$ in the top-color assisted technicolor model (TC2)[16]. This model predicts some composite bosons, $\\pi _ { t } ^ { 0 }$ and $\\pi _ { t } ^ { \\pm }$ , with mass at weak scale and having large Yukawa couplings to top quark. As a result， $A _ { F B } ^ { t }$ gets additional contribution from $t$ -channel processes $u \\bar { u } ( c \\bar { c } ) \\to t t$ by exchanging a color-singlet scalar $\\pi _ { t } ^ { 0 }$ ， which is similar to Fig.1 (a) in RPV-MSSM. Noting the up quark content in proton is larger than the down quark content， one may expect a larger efect on $A _ { F B } ^ { t }$ in TC2 model than in RPV-MSSM. This is not true because for $u \\bar { u } \\to t t$ in TC2 model, its contribution is proportional to $u _ { R } - t _ { R }$ mixing which is determined by the triangular texture of the up-type quark mass matrix and turns out to be very small[17]. As to $c \\bar { c } \\to t t$ ,although $c _ { R } - t _ { R }$ mixing may be sizable [17], it actually gives no contribution to $A _ { F B } ^ { t }$ because the distributions of $c$ （204号 and $c$ in proton are approximately same and so the initial state of this process is symmetric under the exchange of $c$ and $c$ . In fact，we numerically calculated all TC2 contributions to $t t$ production at the Tevatron,which include the $s$ -channel processes $g g , b b  \\pi _ { t } ^ { 0 * }  t \\bar { t }$ ， （204号 $t$ -channel processes $b b  t \\bar { t }$ by exchanging $\\pi _ { t } ^ { - }$ and $u \\bar { u } , c \\bar { c } \\to t t$ by exchanging $\\pi _ { t } ^ { 0 }$ ， and we found that TC2 model can change $\\sigma _ { t \\bar { t } }$ by at most 200 fb and $A _ { F B } ^ { t }$ by order of $1 0 ^ { - 4 }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III. （204号 $A _ { F B } ^ { t }$ IN THE THIRD-GENERATION ENHANCED LEFT-RIGHT MODEL ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the third-generation enhanced left-right model [12], the gauge group is $S U ( 3 ) _ { C } \\times$ （204号 $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R } \\times U ( 1 ) _ { B - L }$ with gauge couplings $g _ { 3 }$ ， $g _ { L }$ ， $g _ { R }$ and $g$ ， respectively. This model differs from other left-right models by having right-handed gauge bosons couple predominantly to the third generation fermions. Noting that the right-handed gauge boson $Z _ { R }$ （20 will mix with the standard $Z _ { 0 }$ to form mass eigenstates $Z$ and $Z ^ { \\prime }$ , one can write down the neutral gauge interactions of quarks as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\dot { z } _ { Z } \\ = \\ - \\frac { g _ { L } } { 2 \\cos \\theta _ { W } } \\bar { q } \\gamma ^ { \\mu } ( g _ { V } - g _ { A } \\gamma _ { 5 } ) q ( \\cos \\xi _ { Z } Z _ { \\mu } - \\sin \\xi _ { Z } Z _ { \\mu } ^ { \\prime } ) } \\\\ { + } & { \\displaystyle \\frac { g _ { Y } } { 2 } \\tan \\theta _ { R } ( \\frac 1 3 \\bar { q } _ { L } \\gamma ^ { \\mu } q _ { L } + \\frac 4 3 \\bar { u } _ { R i } \\gamma ^ { \\mu } u _ { R i } - \\frac 2 3 \\bar { d } _ { R i } \\gamma ^ { \\mu } d _ { R i } ) ( \\sin \\xi _ { Z } Z _ { \\mu } + \\cos \\xi _ { Z } Z _ { \\mu } ^ { \\prime } ) } \\\\ { - } & { \\displaystyle \\frac { g _ { Y } } { 2 } ( \\tan \\theta _ { R } + \\cot \\theta _ { R } ) ( \\bar { u } _ { R i } \\gamma ^ { \\mu } V _ { R i \\mathrm { t } i } ^ { \\mu * } V _ { R i j } ^ { u } u _ { R j } - \\bar { d } _ { R i } \\gamma ^ { \\mu } V _ { R b } ^ { d * } V _ { R b j } ^ { d } d _ { R i } ) ( \\sin \\xi _ { Z } Z _ { \\mu } + \\cos \\xi _ { Z } Z _ { \\mu } ^ { \\prime } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\tan { \\theta _ { R } } = g / g _ { R }$ ， $g _ { Y } = g \\cos \\theta _ { R } = g _ { R } \\sin \\theta _ { R }$ ， $\\xi _ { Z }$ is the mixing angle between $Z _ { R }$ and $Z _ { 0 }$ ， and $V _ { R i j } ^ { u , d }$ areunitary matrices whichrotate therighthnded quarks $u _ { R i }$ and $d _ { R i }$ from interaction basis to mass eigenstates. This model also predicts new charged gauge interactions of quarks, but since their effect on $A _ { F B } ^ { t }$ is small,we do not consider them here. Note that in Eq.(7), $q$ and $q _ { L }$ are summed over all quarks, and the repeated generation indices $i$ and $j$ are also summed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Eq.(7) indicates that the $Z ^ { \\prime } { \\bar { u } } _ { i } u _ { j }$ interaction is large when $g _ { R } \\gg g _ { Y }$ or $\\cot { \\theta _ { R } } \\ \\gg \\ 1$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2149217bb239ea9f6b5403ed3c7b8c7825a061cb5a9734169ac5b50d0fa98c77.jpg",
+        "img_caption": [
+            "FIG. 3: Feynman diagrams contributing to $A _ { F B } ^ { t }$ in the third-generation enhanced left-right model "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This feature can be utilized to enhance $A _ { F B } ^ { t }$ by the $t$ -channel process $u \\bar { u } \\to t t$ if $( V _ { R } ^ { u } ) _ { u t }$ is moderately large. In [12], $V _ { R } ^ { d }$ and $V _ { R } ^ { u }$ are assumed to be nearly diagonal to satisfy the severe favor-changing neutral-current (FCNC) constraints. However, as pointed out in [6],a sizable $u _ { R } - t _ { R }$ mixing does not conflict with these constraints given that the other flavor mixings are suppressed. Here we further point out that this pattern of favor mixings does not necessarily require the up-top element in up-type quark mass matrix $M _ { u }$ to be much larger than other off-iagonal elements. For example, assuming $( V _ { R } ^ { u } ) _ { u t } = 0 . 2$ ， $( V _ { R } ^ { u } ) _ { c t } = 0$ and $( V _ { R } ^ { u } ) _ { u c } = 0$ ，we numerically solve te equation $V _ { R } ^ { u \\dagger } M _ { u } ^ { \\dagger } M _ { u } V _ { R } ^ { u } = M _ { d i a g } ^ { 2 }$ with $M _ { d i a g } ^ { 2 } = d i a g \\{ m _ { u } ^ { 2 } , m _ { c } ^ { 2 } , m _ { t } ^ { 2 } \\}$ ，and we find it possible that $( M _ { u } ) _ { c t }$ is several times larger than $( M _ { u } ) _ { u t }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the third-generation enhanced left-right model, beside the dominant QCD contribution （204 $q \\bar { q } \\to g ^ { * } \\to t t$ ， diagrams shown in Fig.3 also contribute to $t t$ production at the Tevatron, and the amplitudes of these new contributions are ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { \\displaystyle I _ { a } ~ = ~ i \\delta _ { \\alpha \\beta } \\delta _ { \\rho \\sigma } \\left( \\frac { e } { 2 c _ { \\alpha } s _ { w } } \\right) ^ { 2 } \\frac { \\bar { u } ( t ) \\gamma _ { \\mu } [ g _ { 2 L } ^ { t } P _ { L } + g _ { Z R } ^ { t } P _ { R } ] v ( t ) \\bar { v } ( t ) \\bar { v } ( g _ { Z L } ^ { u } P _ { L } + g _ { Z R } ^ { u } P _ { R } ] u ( u ) } { \\left( p _ { 1 } + p _ { 2 } \\right) ^ { 2 } - m _ { Z } ^ { 2 } } , } }  \\\\ { { \\displaystyle I _ { b } ~ = ~ i \\delta _ { \\alpha \\beta } \\delta _ { \\rho \\sigma } \\left( \\frac { e } { 2 c _ { \\alpha } s _ { w } } \\right) ^ { 2 } \\frac { \\bar { u } ( t ) \\gamma _ { \\mu } [ g _ { Z ^ { \\prime } L } ^ { t } P _ { L } + g _ { Z ^ { \\prime } R } ^ { t } P _ { R } ] v ( t ) \\bar { v } ( u ) \\gamma ^ { \\mu } [ g _ { Z ^ { \\prime } L } ^ { u } P _ { L } + g _ { Z ^ { \\prime } R } ^ { u } P _ { R } ] u ( u ) } { \\left( p _ { 1 } + p _ { 2 } \\right) ^ { 2 } - m _ { Z ^ { \\prime } } ^ { 2 } - i \\Gamma _ { Z } ^ { t } m _ { Z ^ { \\prime } } } , } } \\\\ { { \\displaystyle I _ { c } ~ = ~ i \\delta _ { \\alpha \\rho } \\delta _ { \\beta \\sigma } \\left( \\frac { e } { 2 c _ { \\alpha } s _ { w } } \\right) ^ { 2 } [ \\xi z _ { \\alpha } s _ { w } ( \\cot \\theta _ { R } + \\tan \\theta _ { R } ) ] ^ { 2 } | V _ { H u } ^ { u } V _ { H u } ^ { u } V _ { H } ^ { u } ] ^ { 2 } \\frac { \\bar { u } ( t ) \\gamma _ { \\mu } P _ { R } u ( u ) \\bar { v } ( u ) \\gamma ^ { \\mu } P _ { R } v } { \\left( p _ { 1 } - p _ { 3 } \\right) ^ { 2 } - m _ { Z } ^ { 2 } } } } \\\\  { \\displaystyle I _ { d } ~ = ~ i \\delta _ { \\alpha \\beta } \\delta _ { \\beta \\sigma } \\left( \\frac { e } { 2 c _ { \\alpha } s _ { w } } \\right) ^ { 2 } [ s _ { w } ( \\cot \\theta _ { R } + \\tan \\theta _ { R } ) ] ^ { 2 } | V _ { H u } ^ { u } V _ { H u } ^ { u } | ^ { 2 } \\frac { \\bar { u } ( t ) \\gamma _ { \\mu } P _ { R } u ( u ) \\bar { v } ^ { \\mu } P _ { R } v ( t ) } { \\left( p _ { 1 } - p _ { 3 } \\right) ^ { 2 } - m _ { Z } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma _ { Z ^ { \\prime } }$ is the $Z ^ { \\prime }$ width obtained by adding all decay channels of $Z ^ { \\prime }$ ， $s _ { w } = \\sin \\theta _ { w }$ ， $c _ { w } =$ $\\cos \\theta _ { w }$ , and the couling coefients $g _ { Z L } ^ { t , u } , g _ { Z R } ^ { t , u } , g _ { Z ^ { \\prime } L } ^ { t , u }$ and $g _ { Z ^ { ' } R } ^ { t , u }$ are defined as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { g _ { Z L } ^ { t , u } = 1 - \\displaystyle \\frac { 4 } { 3 } s _ { w } ^ { 2 } - \\displaystyle \\frac { 1 } { 3 } s _ { w } \\tan \\theta _ { R } \\xi _ { Z } , } } \\\\ { { \\displaystyle g _ { Z R } ^ { u } = - \\frac { 4 } { 3 } s _ { w } ^ { 2 } - \\displaystyle \\frac { 4 } { 3 } s _ { w } \\tan \\theta _ { R } \\xi _ { Z } , } } \\\\ { { \\displaystyle g _ { Z R } ^ { t } = - \\frac { 4 } { 3 } s _ { w } ^ { 2 } - \\displaystyle \\frac { 1 } { 3 } s _ { w } \\tan \\theta _ { R } \\xi _ { Z } + s _ { w } \\cot \\theta _ { R } \\xi _ { Z } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { g _ { Z ^ { \\prime } L } ^ { t , u } = ( 1 - \\displaystyle \\frac { 4 } { 3 } s _ { w } ^ { 2 } ) \\xi _ { Z } + \\displaystyle \\frac { 1 } { 3 } s _ { w } \\tan \\theta _ { R } , } } \\\\ { { \\displaystyle g _ { Z ^ { \\prime } R } ^ { u } = - \\displaystyle \\frac { 4 } { 3 } s _ { w } ^ { 2 } \\xi _ { Z } + \\displaystyle \\frac { 4 } { 3 } s _ { w } \\tan \\theta _ { R } , } } \\\\ { { \\displaystyle g _ { Z ^ { \\prime } R } ^ { t } = - \\displaystyle \\frac { 4 } { 3 } s _ { w } ^ { 2 } \\xi _ { Z } + \\displaystyle \\frac { 1 } { 3 } s _ { w } \\tan \\theta _ { R } \\xi _ { Z } - s _ { w } \\cot \\theta _ { R } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note that among the four amplitudes, only $M _ { c }$ and $M _ { d }$ interfere with the QCD amplitude. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this model the new parameters $\\xi _ { z }$ ，cot0R, $M _ { Z ^ { \\prime } }$ and $( V _ { R } ^ { u } ) _ { u t }$ are involved in our calculation. Constraints on these parameters were discussed in [12],and it was found that （204号 $0 \\leq \\xi _ { z } \\leq 0 . 0 2$ and $\\cot { \\theta _ { R } } \\leq 2 0$ .As for $M _ { Z ^ { \\prime } }$ ，we should note that the constraints from CDF search for $Z ^ { \\prime }$ [18] and from the global fitting of the electroweak precision data [19] are invalid here since these constraints arise mostly from the processes involving the first- or second-generation of fermions. So far the pertinent bound comes from $e ^ { + } e ^ { - } \\to b b$ at LEP-II, which requires $M _ { Z ^ { \\prime } } \\gtrsim 4 6 0$ GeV for $\\cot { \\theta _ { R } } \\ge 1 0$ [12]. In following analysis, without stating explicitly, we include the QCD contribution to $A _ { F B } ^ { t }$ and scan the new free parameters in the following ranges ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\leq M _ { Z ^ { \\prime } } \\leq 2 0 0 0 \\mathrm { G e V } , \\quad 0 \\leq \\xi _ { Z } \\leq 0 . 0 2 , \\quad 1 0 \\leq \\cot \\theta _ { R } \\leq 2 0 , \\quad 0 . 1 \\leq ( V _ { R } ^ { u } ) _ { u t } \\leq 0 . 2\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/36cd642778731db4acaa2ef57630bb98ece30ae421881bd575ec1b850bd0c021.jpg",
+        "img_caption": [
+            "FIG. 4: Scatter plots of $A _ { F B } ^ { t }$ versus $\\cot { \\theta } _ { R }$ and $m _ { Z ^ { ' } }$ for the no-mixing case in the LR model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In our discussion we consider two cases, i.e.，with and without $u _ { R } - t _ { R }$ mixing.For the no-mixing case,new contributions to $A _ { F B } ^ { t }$ only come from diagrams (a) and (b) of Fig.3 and the dependence of $A _ { F B } ^ { t }$ on $\\cot \\theta _ { R }$ and $m _ { Z ^ { ' } }$ are shown in Fig.4. This figure shows that a light $Z ^ { \\prime }$ with relatively small $\\cot \\theta _ { R }$ can enhance $A _ { F B } ^ { t }$ to the $2 \\sigma$ region of its experimental value. This is because small $\\cot \\theta _ { R }$ can enhance $Z ^ { \\prime } \\bar { u } u$ interactions, and a light $Z ^ { \\prime }$ can make the resonance effect of the diagram Fig.3(b) on $t t$ production more significant. Fig.4 also shows that in the no-mixing case, the $Z ^ { \\prime }$ contribution to $A _ { F B } ^ { t }$ can only reach $1 \\%$ . This is due to the smallness of $Z ^ { \\prime } { \\bar { u } } u$ couplings (see Eq.(14) and Eq.(15)) and the absence of the interference of diagram (a) and (b) in Fig.3 with the dominant QCD amplitude. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b470584caa8cf9ad50fa6b784e378351924371fb115fa1d21261c70caa589e42.jpg",
+        "img_caption": [
+            "FIG. 5: Scatter plots of $A _ { F B } ^ { t }$ versus $\\cot \\theta _ { R }$ in the mixing case of the LR model. The left (right panel is without (with） considering the constraints from $\\sigma _ { t \\bar { t } }$ and $M _ { t \\bar { t } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaa298ab6d7b055c617fe48bac73b98d4f2731eb177a680700d8c9c8d79cbad7.jpg",
+        "img_caption": [
+            "FIG. 6: Same as Fig. 5, but projected in $A _ { F B } ^ { t }$ versus $M _ { Z ^ { \\prime } }$ plane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Figs.5 and 6, we show $A _ { F B } ^ { t }$ versus $\\cot \\theta _ { R }$ and $M _ { Z ^ { \\prime } }$ respectively in the mixing case. The left panels of these figures show that the effect of Fig.3 (mainly diagram (d)) is potentially very large, pushing the value of $A _ { F B } ^ { t }$ up to $5 0 \\%$ . In this case, the effects on the total $t t$ （20 production rate and the $t t$ invariant mass distribution are also large and so it is necessary to consider constraints from these observables measured at the Tevatron. Now based on the CDF 4.6 fb $^ - 1$ luminosity data, the measured total crossection is $\\sigma _ { t \\bar { t } } ^ { \\mathrm { e x p } } = 7 . 5 0 \\pm 0 . 3 1 _ { s t a t } \\pm$ （20 $0 . 3 4 _ { s y s t } \\pm 0 . 1 5 _ { t h } ~ p b$ for $m _ { t } = 1 7 2 . 5$ GeV [20]. Combining errors in quadrature, one can get $\\sigma _ { t \\bar { t } } ^ { e x p } = 7 . 5 0 \\pm 0 . 4 8 ~ \\mathrm { p b }$ ， which is in good agreement with the SM prediction $\\sigma _ { t \\bar { t } } = 7 . 5 _ { - 0 . 7 } ^ { + 0 . 5 } \\$ pb [21]. The invariant mass distribution was also measured by CDF,and the results are presented in nine bins of $M _ { t \\bar { t } }$ [22]. When we calculate these observables,we multiply an overall K-factor 1.329 for the dominant tree-level QCD contribution [21]. The right panels of Figs.5 and 6 are then obtained by requiring the total cross section and the differential cross section in each bin to be within the $2 \\sigma$ regions of their experimental values. These results shows that even with the constraints,the third-generation enhanced left-right model can still enhance $A _ { F B } ^ { t }$ to $1 2 \\%$ (well above the $2 \\sigma$ lower bound),but it can not enhance $A _ { F B } ^ { t }$ （20 to within the $1 \\sigma$ region of its experimental value. Note that unlike the no-mixing case, large contribution to $A _ { F B } ^ { t }$ comes from the region where $\\cot \\theta _ { R }$ is large. The reason is that in the mixing case, dominant contribution arises from diagram (d) of Fig.3,and this contribution is proportional to $( \\cot \\theta _ { R } + \\tan \\theta _ { R } ) ^ { : }$ 2 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IV. DISCUSSION AND CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "From our study and the previous works [2, 4-7, 23], we can learn that to make sizable contribution to $A _ { F B } ^ { t }$ , the following two conditions must be satisfied. One is the initial state must be $u u$ and/or $d d$ and in case that only $d d$ initiated contribution is responsible to explain （204号 $A _ { F B } ^ { t }$ , the involved interaction must be strong enough to compensate the suppression of the parton distribution of down quark in proton. The other is the amplitude of the $t t$ production must contain terms proportional to $\\cos \\theta$ with $\\theta$ being the angle between the reconstructed top quark momentum and the proton beam direction in $t t$ rest frame, or in other words, contain terms like $( p _ { u } \\cdot p _ { t } ) ( p _ { \\bar { u } } \\cdot p _ { \\bar { t } } ) - ( p _ { \\bar { u } } \\cdot p _ { t } ) ( p _ { u } \\cdot p _ { \\bar { t } } )$ . This requirement implies that new physics affect $t t$ production through the following ways: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1） Through $s$ -channel process $q \\bar { q }  t \\bar { t }$ by exchanging a gauge boson [4, 5]. If this process interferes with the the $s$ -channel QCD process $q \\bar { q } \\  \\ g ^ { * } \\  \\ t t$ ， the interaction of the gauge boson with $q$ and $t$ must have axi-vectorial component. Examples in this direction are the presence of Kaluza-Klein excitation of gluon in extra dimension [4] or the axigluon [5]. If this process does not interfere with the $s$ -channel process, to affect （204号 $A _ { F B } ^ { t }$ by itself, the interaction must have both vectorial and axi-vectorial component, like what we studied in diagram (b) of Fig.3. From yet known studies we can infer that it seems difficult for the latter case to enhance $A _ { F B } ^ { t }$ significantly without spoiling the constraints from $\\sigma _ { t \\bar { t } }$ and $M _ { t \\bar { t } }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2） Through $t$ -channel process $q \\bar { q }  t t$ by exchanging a vector boson or a scalar [6, 7], which interferes with the QCD process $q \\bar { q } \\to g ^ { * } \\to t t$ .In this way， scalar is less efficiency than vector boson in explaining $A _ { F B } ^ { t }$ given that they have the same coupling strength and mass. This is because for the scalar case, there is a competition between spin correlation and the Rutherfold singularity [7]. Moreover，as shown in [7], the scalar-mediated contributions can be categorized by the transformation property of the scalar under $S U ( 3 ) _ { c }$ .If the scalar is color-triplet or -sextet， there exists large parameter region to explain $A _ { F B } ^ { t }$ within $1 \\sigma$ and at the same time to remain $\\sigma _ { t \\bar { t } }$ within the experimental errors,while for color-singlet or -octet scalar, it is very difficult to produce a large positive contribution to $A _ { F B } ^ { t }$ without spoiling the constraint from $\\sigma _ { t \\bar { t } }$ （20 [7]. In our work,we checked this conclusion for color-singlet and -triplet cases. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From our study, we can also learn that, although the top quark pair productions at the Tevatron and the LHC may be sensitive to new physics, the effcts of new physics (like the popular MSSM or TC2 models) are usually not so large to be well above the experimental and theoretical uncertainties [10]. A complementary or even more sensitive probe for new physics effects in top quark sector is top quark FCNC processes, which are extremely suppressed and unaccessible in the SM but can be greatly enhanced by several orders to reach the observable level in some new physics models like the MSSM [24] or the TC2 model [25]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In summary, we in this work calculated the new physics contribution to the top quark forward-backward asymmetry $A _ { F B } ^ { t }$ at the Tevatron in two different models: the minimal supersymmetric model without R-parity (RPV-MSSM) and the third-generation enhanced left-right model (LR model). We found that in the parameter space allowed by the $t t$ production rate and the $t t$ invariant mass distribution at the Tevatron, the LR model can enhance （204 $A _ { F B } ^ { t }$ to within the $2 \\sigma$ region of the Tevatron data for the major part of the parameter space, and in optimal case $A _ { F B } ^ { t }$ can reach $1 2 \\%$ which is slightly below the $1 \\sigma$ lower bound. For the RPV-MSSM, only in a narrow part of the parameter space can the $\\lambda ^ { \\prime \\prime }$ couplings enhance $A _ { F B } ^ { t }$ to within the $2 \\sigma$ region while the $\\lambda ^ { \\prime }$ couplings just produce negative contributions to worsen the fit. Noting that the R-parity conserving interactions in the MSSM are unlikely to give large enough contribution to $A _ { F B } ^ { t }$ , we conclude that the MSSM with (without） R-parity will be disfavored (favored in case of $\\lambda ^ { \\prime \\prime }$ couplings） if the discrepancy of $A _ { F B } ^ { t }$ persists with more forthcoming data accumulated by the Tevatron. We also checked the top-color assisted technicolor model and found that it gives negligibly small contributions to $A _ { F B } ^ { t }$ and thus unlikely to explain the Tevatron data. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant Nos.10505007,10821504,10725526 and 10635030, by HASTIT under grant No. 2009HASTIT004 and 2010IRTSTHN002,by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] For top quark reviews,see, e.g., W. Bernreuther, J.Phys. G35, 083001,(2008) D. Chakraborty, J. Konigsberg, D. Rainwater， Ann. Rev. Nucl. Part. Sci. 53,301 (2003)； E. H. Simmons, hep-ph/0211335； C.-P. Yuan,hep-ph/0203088；S. Willenbrock, hep-ph/0211067； M. Beneke, et al., hep-ph/0003033; T. Han, arXiv:0804.3178; For model-independent new physics study in top quark, see, e.g., C. T. Hill and S. J. Parke, Phys. Rev. D 49, 4454 (1994); K. Whisnant, et al.,Phys. Rev. D 56, 467 (1997); J. M. Yang, B.-L. Young, Phys. Rev. D 56, 5907 (1997); K. Hikasa, et al. Phys. Rev. D 58,114003 (1998); J. A. Aguilar-Saavedra, arXiv:0811.3842; R.A. Coimbra, et al.,arXiv:0811.1743.   \n[2] L. G. Almeida, G. Sterman and W. Vogelsang, Phys. Rev. D 78, 014008 (2008); S. Dittmaier, P.Uwer and S. Weinzierl, Phys. Rev.Lett. 98, 262002 (2007); M. T. Bowen, S. D. Ellis and D. Rainwater, Phys. Rev. D 73, 014008 (2006); J. H. Kuhn and G. Rodrigo, Phys. Rev. D 59, 054017 (1999); J. H. Kuhn and G. Rodrigo,Phys. Rev.Lett.81, 49 (1998); F. Halzen,P. Hoyer and C. S. Kim, Phys. Lett. B 195,74 (1987). R. W. Brown, D. Sahdev and K. O. Mikaelian, Phys. Rev. Lett. 43,1069 (1979);   \n[3] G. Stricker et al., CDF note 9724(2009); T. Aaltonen et al. [CDF Collaboration], Phys. Rev. Lett.101， 202001 (2008)； V. M. Abazov et al. [D0 Collaboration], Phys. Rev.Lett.100, 142002 (2008).   \n[4] A. Djouadi, G. Moreau, F. Richard and R. K. Singh, arXiv:0906.0604 [hep-ph].   \n[5] P.H. Frampton, J. Shu and K. Wang, arXiv:0911.2955 [hep-ph]. O. Antunano, J. H. Kuhn and G. Rodrigo, Phys. Rev. D 77, 014003 (2008); P. Ferrario and G. Rodrigo, Phys. Rev. D 78,094018 (2008) D. Choudhury, R. M. Godbole, R. K. Singh and K. Wagh, Phys. Lett. B 657, 69 (2007).   \n[6] K. Cheung, W. Y. Keung and T. C. Yuan, arXiv:0908.2589 [hep-ph]. S. Jung, H. Murayama, A. Pierce and J. D. Wels, arXiv:0907.4112 [hep-ph].   \n[7] J. Shu, T. M. P. Tait and K. Wang,arXiv:0911.3237 [hep-ph]. A. Arhrib,R. Benbrik and C. H. Chen, arXiv:0911.4875 [hep-ph]; I. Dorsner, S. Fajfer, J. F. Kamenik and N. Kosnik, arXiv:0912.0972 [hep-ph].   \n[8] R. N. Mohapatra and J. C. Pati, Phys. Rev. D 11, 2558 (1975). G. Senjanovic and R. N. Mohapatra, Phys. Rev. D 12, 1502 (1975).   \n[9] For a review, see, e.g., H. E. Haber and G. L. Kane,Phys. Rept. 117, 75 (1985).   \n[10] Z. Sullivan, Phys. Rev. D 56,451 (1997) S. Alam, et al.， Phys. Rev. D 55,1307 (1997); C. S. Li, et al., Phys. Rev. D52, 5014 (1995); Phys. Lett.B379,135 (1996); Phys. Rev. D52, 1541 (1995); Phys. Rev. D54, 4380 (1996).   \n[11] For some early works on $R$ -violating supersymmetry, see, e.g., L. Hall and M. Suzuki, Nucl. Phys. B 231, 419 (1984); J. Elis et al., Phys. Lett. B 150,142 (1985); G. Ross and J. Valle, Phys. Lett. B 151, 375 (1985); S. Dawson, Nucl. Phys. B 261, 297 (1985); R. Barbieri and A. Masiero, Nucl. Phys. B 267, 679 (1986); H. Dreiner and G.G. Ross, Nucl. Phys. B 365, 597 (1991); J. Butterworth and H. Dreiner, Nucl. Phys. B 397,3 (1993).   \n[12] X. G. He and G. Valencia, Phys. Rev. D 66, 013004 (2002); Phys. Rev. D 68, 033011 (2003).   \n[13] For phenomenology of $R$ -violation ， see, e.g., V. Barger, G. F. Giudice, T. Han, Phys. Rev. D 40, 2978 (1989); K. Agashe, M. Graesser, Phys. Rev. D 54, 4445 (1996); F. Zwirner, Phys. Lett.B 132，103 (1983); R. N. Mohapatra,Phys.Rev. D 34,3457(1986)； M. Hirsch，H. Kleingrothaus, S. G. Kovalenko, Phys. Rev. Lett. 75, 17 (1995); K. S. Babu, R. N. Mohapatra, Phys. Rev. Lett. 75, 2276 (1995); G. Bhattacharyya, D. Choudhury, Mod. Phys. Lett. A10, 1699 (1995); D. E. Kaplan, hep-ph/9703347; G. Bhattacharyya, A. Raychaudhuri,Phys. Rev. D 57, 3837 (1998)； J. M. Yang, B.-L. Young, X. Zhang, Phys. Rev. D 58, 055001 (1998); S. Bar-Shalom, G. Eilam,A. Soni, hep-ph/9812518; J. M. Yang, Eur. Phys. Jour. C 20, 553 (2001); G. Eilam, et al., Phys. Lett.B 510, 227 (2001); G. Bhattacharyya, J. Ellis, K. Sridhar, Phys. Lett. B 355,193 (1995); Z. Heng et al., Phys. Rev. D 79,094029 (2009). J. Erler, J.L. Feng,N. Polonsky, Phys. Rev. Lett. 78,3063 (1997); A. Datta, et al., Phys. Rev. D 56, 3107 (1997); R. J. Oakes et al.，Phys. Rev. D 57, 534 (1998); J. L. Feng, J. F. Gunion, T. Han, Phys. Rev. D 58,071701 (1998); S. Bar-Shalom, G. Eilam,A. Soni,Phys. Rev. Lett.80, 4629 (1998); E. Perez, Y. Sirois, H. Dreiner, hep-ph/9703444; K. Hikasa, et al. Phys. Rev. D 60, 114041 (1999); P.Li, et al., Eur.Phys. Jour. C 51,163 (2007); A. Belyaev, et al., JHEP 0409, 012 (2004)； J. Cao, et al., Phys.Rev. D 79,054003 (2009); arXiv:0908.4556 [hep-ph].   \n[14] For a review of current bounds,see, e.g. M. Chemtob, Prog. Part. Nucl. Phys. 54, 71 (2005); R. Barbier et al., Phys. Rept. 420,1 (2005).   \n[15] C. Amsler et al., Particle Data Group, Phys. Lett. B 667, 1 (2008).   \n[16] C. T. Hill, Phys.Lett. B 345,483 (1995)；K. Lane and E. Eichten,Phys. Lett. B 352, 382 (1995),Phys. Lett. B 433, 96 (1998); W. A. Bardeen, C. T. Hill, M. Lindner,Phys.Rev. D 41,1647 (1990); G. Cvetic, Rev. Mod. Phys. 71, 513 (1999)； E. Malkawi and C. P. Yuan, Phys. Rev. D 61, 015007 (2000), Phys. Lett. B 385,304 (1996)G. Buchalla, G. Burdman, C.T. Hill, D. Kominis, Phys. Rev. D 53,5185 (1996).   \n[17] H. J. He and C. P. Yuan, Phys. Rev. Lett. 83, 28 (1999).   \n[18] M. Cvetic and S. Godfrey, hep-ph/9504216; F. Abe et al. [CDF Collaboration], Phys. Rev. D 51, 949 (1995); M. S. Carena, A. Daleo, B.A. Dobrescu and T. M. P. Tait, Phys. Rev. D 70, 093009 (2004).   \n[19] J. Erler,P. Langacker, S. Munir and E. R. Pena, JHEP 0908, O17 (2009).   \n[20] CDF results from http://www-cdf.fnal.gov/; V. M. Abazov et. al. [Do Collaborations], arXiv: 0903.5525 [hep-ex].   \n[21] M. Cacciari, et. al.， JHEP 0809,127 (2008)； N. Kidonakis and R. Vogt,Phys. Rev. D 78, 074005 (2008); S. Moch and P. Uwer, Phys. Rev. D 78, 034003 (2008).   \n[22] T. Aaltonen et al.[CDF Collaboration], Phys. Rev. Lett.102, 222003 (2009).   \n[23] D. W. Jung,P. Ko, J. S. Lee and S. h. Nam, arXiv:0912.1105 [hep-ph].   \n[24] C.S. Li, R. J. Oakes,J. M. Yang, Phys. Rev. D 49, 293 (1994); G. Couture, C. Hamzaoui, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "H. Konig, Phys. Rev. D 52， 1713 (1995)； J. L. Lopez, D. V. Nanopoulos, R. Rangarajan, Phys. Rev. D 56, 3100 (1997); G. M. de Divitis, R. Petronzio, L. Silvestrini, Nucl. Phys. B 504, 45(1997); C. S. Li, L. L. Yang, L. G. Jin,Phys. Lett. B 599, 92 (2004); D. Delepine, S. Khalil,Phys.Lett. B 599,62 (2004); M. Frank, I. Turan, Phys. Rev. D 74, 073014 (2006); J. M. Yang, C. S. Li, Phys. Rev. D 49, 3412 (1994); J. Guasch, J. Sola, Nucl. Phys. B 562, 3 (1999); J. L. Diaz-Cruz, H.-J. He, C.-P. Yuan Phys. Lett. B 179,530 (2002); J. Liu, C. S. Li, L. L. Yang, L. G. Jin, Nucl. Phys. B 705,3 (2005); J. Guasch et al. Nucl. Phys. Proc. Suppl. 157,152 (2006); G. Eilam, M. Frank, I. Turan, Phys. Rev. D 74, 035012 (2006); D. Lopez-Val, J. Guasch, J. Sola, JHEP 0712, 054 (2007)； J. Cao et al., Phys.Rev. D 75,075021 (2007); Phys. Rev. D 74, 031701 (2006); Nucl. Phys. B 651, 87 (2003). [25] G. Burdman, Phys.Rev. Lett. 83,2888(1999)； X. L. Wang et al., Phys. Rev. D 50, 5781 (1994); J. Cao, et al., Phys. Rev. D 67,071701 (2003); Phys. Rev. D 70,114035 (2004); Eur. Phys. Jour. C 41,381 (2005); Phys. Rev.D 76, 014004 (2007)； H. J. Zhang,Phys.Rev. D 77,057501 (2008)； G. L. Liu,H. J. Zhang, Chin. Phys. C 32, 597 (2008) [arXiv:0708.1553]; G.L. Liu,Chin. Phys.Lett.26,101401 (2009) [arXiv:0903.2619]. ",
+        "page_idx": 14
+    }
+]

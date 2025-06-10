@@ -1,0 +1,179 @@
+# 微生物发酵法生产环磷酸腺苷研究进展
+
+程丽娜1,2,陆海燕1,2,曲淑玲³,张轶群3,丁娟娟1,2,邹少兰1,2\*\*（1天津大学化工学院，天津，3008502系统生物工程教育部重点实验室，天津，300850）(3中国石油大港油田团泊洼开发公司，天津，301607)
+
+摘要环磷酸腺苷（3',5'-cyclic adenosine monophosphate,缩写为cAMP）是普遍存在于生物机体内并起着十分重要作用的生理活性物质，被称为第二信使。cAMP于1957年被首次发现报道，随后因为其在生命活动中的特殊地位和作用而被大量研究，外源性cAMP早在上世纪七十年代就被开发成人类临床药物，在动物生产领域也有极大的潜在应用价值。目前已知临床用cAMP 原料药全部由化学法合成。而微生物发酵法生产菌种则以节杆菌、枯草芽孢杆菌和酵母为代表；运用代谢调控机理和技术，用节杆菌发酵生产cAMP产量报道已达$\ge 7 . 2 3 ~ \mathrm { g / L }$ ，用枯草芽孢杆菌也已达到 $6 { \sim } 7 ~ \mathrm { g / L }$ ，而酵母作为典型的模式生物，虽然cAMP-PKA信号转导途径基础研究历史悠久，但发酵生产cAMP 则近几年才有报道。进一步改造菌株、优化发酵技术提高产量和解决分离提纯问题外，充分发挥微生物发酵法的潜力和优势、弥补化学法合成的不足，是赢得其产业化契机的关键。
+
+关键词：环磷酸腺苷，化学合成，微生物发酵，代谢工程
+
+环式 $_ { 3 } \ ' , 5 \ ' .$ 单磷酸腺嘌呤核苷（ $_ { 3 } , { } _ { 5 } , { } _ $ -cyclic adenosine monophosphate），简称为环磷酸腺苷或环磷腺苷（缩写为cAMP)，是普遍存在于生物机体内并在生物机体的功能调节中起着十分重要作用的生理活性物质，CASNo.60-92-4，分子量329.21，分子式 $\mathrm { C _ { 1 0 } H _ { 1 2 } N _ { 5 } O _ { 6 } P }$ 。
+
+cAMP于1957年被 SuthgerlandEW 和RallTW 首次报道发现[1]，随后他们在分子水平上调查了cAMP与激素作用机制的关系，首次提出激素通过cAMP 对细胞起作用的理论，并称激素为第一信使、cAMP为第二信使[2-3]。Suthgerland EW因此工作而获得1971年诺贝尔生理学-医学奖。在当时和之后几十年，人们从各个方面对cAMP进行了大量的研究：（1）化学、生化、生理、药理；（2）在三大物质代谢进而在细胞周期、内分泌、免疫、癌肿、辐射效应/辐射防护等中的作用；（3）cAMP合成、转运与降解相关基因、蛋白、代谢物等等，发表了大量的文献[4]，出版了数种专集和两种期刊—“AdvancesinCyclic NucleotideResearch”和“Cyclic Nucleotide Research”。
+
+近代科学发展的一个特征是理论研究的突破常在实践上开辟新的应用，并且从理论研究的成果到实践应用之间的时间越来越短。cAMP在生命活动中的地位和作用决定了cAMP必将很快被开发和应用，随之而来的是它的生产。本文在介绍外源性cAMP应用—主要在人类医药临床和动物生产领域—的同时，重点介绍cAMP总体生产现状和微生物发酵法生产研究进展。鉴于目前对微生物发酵液cAMP的分离纯化研发报道很少，且集中在细菌法生产上，故以下没有单列出来介绍。
+
+# 1外源性cAMP应用
+
+cAMP作为“第二信使”的作用和地位被确认后不久，cAMP的药理和临床实验研究就已经开始[5-8]，上世纪70年代相继有四种cAMP类药物进入临床：环磷酸腺苷、双丁酰环磷酸腺苷、环磷酸腺苷葡胺盐和双丁酰环磷酸腺苷葡胺盐[9]。中国药典1977 年版已列入了环磷酸腺苷。第五个产品—环磷酸腺苷葡甲胺类药物心先安，1978年由徐州医学院原制药厂试验室首次合成，经数百例临床应用证明为值得选用的新型治疗药物[10]。历经二、三十年的研发，目前在国家食品药品监督管理总局CFDA网站（www.cfda.gov.cn）登记和公开的cAMP类药物，有两种原料药（环磷腺苷和二丁酰环磷腺苷钙）、基于两种原料药的八种制剂。cAMP类药物已经形成稳定的消费应用市场。另一方面，将cAMP类物质尝试用于畜牧业生产的研究也一直在进行中[I-12]。cAMP类物质被证明具有显著提高畜禽生产性能和改善胴体品质等作用，有望成为非激素类、无残留的新型动物生长调节剂，但cAMP类物质的确切作用机理和使用方法还有待进一步研究和完善。
+
+# 2cAMP生产概述
+
+cAMP 虽然广泛存在于生物体内，但含量极微，一般仅为ATP含量的千分之一；哺乳动物细胞中的cAMP含量以每克湿细胞计算，多在毫微克（ $\mathrm { 1 0 ^ { - 9 } g ) }$ 甚至微微克（ $\mathrm { | 0 ^ { - 1 2 } g ) }$ ，分子水平，且不同物种、同一物种的不同组织间分布很不平衡[11]。相比之下，枣果中cAMP含量是所有已知动植物材料中最高的[13]，因此，有报道进行口服枣环磷酸腺苷糖浆的研发并已经成功商品化[14]。
+
+事实上，与cAMP的药理和临床实验研究同步，cAMP的化学合成法自上世纪 60 年代起已有不少报道，可概括为七种方法，随后不断有改进[15-16]。其中的六种方法以5'-AMP为起始原料，分别以不同的单个有机试剂（如二环己基碳二亚胺DCC、叔丁醇钾、三异丙基苯磺酰氯或三苯基麟,2,2'-吡啶基二硫化物）为环化试剂，以无水吡啶或乙二醇单甲醚等为溶解剂。另一种方法则以ATP 为起始原料，使用 $\mathrm { B a ( O H ) } _ { 2 }$ 催化环化。到目前为止，已知临床用cAMP原料药全部由化学法合成。
+
+# 3cAMP细菌法生产研究进展
+
+以微生物为材料进行cAMP生物合成的研究始于上世纪60年代。日本TOkabayashi、EMasu 等人在调查微生物培养液中嘌呤代谢物时，发现添加D,L-丙氨酸到培养基的情况下，菌株 ATCC14929 菌液中有cAMP 积累，最大浓度达$4 5 0 \mu \mathrm { m o l / L }$ ，该菌株当时鉴定为液化短杆菌Brevibacteriumammoniagenes，最终鉴定为节杆菌Arthrobacter[17]。日本Jiro Ishiyama研究小组则研究和报道了包括微杆菌 Microbacterium No.205(ATCC21376)、棒状杆菌 Corynebacterium No.7(ATCC21374）和节杆菌ArthrobacterNo.11(ATCC21375）在内的多个菌株的cAMP 生产情况[18-19]。菌株 ATCC21376 和ATCC21374从土壤分离得到，在培养基中含有腺嘌呤adenine、次黄嘌呤 hypoxanthine 或腺嘌呤、次黄嘌呤衍生物的情况下胞外大量积累cAMP $( 7 { \sim } 1 2 ~ \mathrm { m m o l / L } )$ ，而没有这些添加物时则基本没有积累； $4 \% \sim 5 \%$ 葡萄糖对cAMP生产最有效，酵母粉和多肽为cAMP生产所必需[18]。进一步对 ATCC21376 进行NTG 诱变，筛选得到的突变菌株在以100 mmol/L5'-单磷酸肌苷(inosine $5 ^ { \prime }$ -monophosphate,简称 IMP)为前体物时最大产量 50\~75mmol/L，同等条件下菌株ATCC21376产量为 $0 . 3 { \sim } 6 \ \mathrm { m m o l / L ^ { [ 1 9 ] } } _ { \odot }$ 0
+
+国内方面的研究以节杆菌为主。河北大学杨秀琴、阚振荣初步鉴定了简单节杆菌菌株 Arthrobacter simplex1.754 有胞外3',5'-cAMP 生产能力[20]；河南科技学院常景玲教授课题组将次黄嘌呤分批添加，使得节杆菌菌株A.sp01发酵生产cAMP的产量最高可达 $7 . 2 3 \ \mathrm { g / L }$ [21],同时研究了A.sp01菌株种子培养基中最佳酵母浸膏的类型和用量[22];而南京工业大学应汉杰教授课题组对节杆菌进行了比较长期、深入而系统的研究，下面分三个方面介绍。
+
+首先是菌种改造。利用 ${ \bf N } + { \bf \Sigma }$ 离子注入法对节杆菌出发菌株NG-1进行诱变，筛选鉴定得到突变菌株A302，用添加了糖酵解抑制剂氟化钠（终浓度 $0 . 4 \ \mathrm { g / L }$ ）的发酵培养基进行评价，其产量提高了 $41 . 7 \%$ ，达到 $9 . 7 8 ~ \mathrm { g / L }$ ；进一步的酶活测定结果显示：cAMP生物合成相关的关键酶（参见图1）催化IMP向XMP转化的
+
+IMP 脱氢酶（IMPdehydrogenase）活性缺陷，而催化PRPP生成PRA的PRPP酰胺转移酶amidotransferase、催化 IMP 向 sAMP 转化的 sAMP合成酶 synthetase和催化从ATP合成cAMP的腺苷酸环化酶（adenylate cyclase)，活性分别提高$6 1 . 5 \%$ 、 $147 \%$ 和 $2 1 . 7 \%$ ；这些酶活结果可能部分解释了突变菌株产量提高的原因[23]。对菌株A302及其应用方法申请了专利保护并获授权（授权号CN102268385B)，菌株保藏编号为CGMCCNo.3584。发展了对节杆菌的分子生物学遗传操作方法：同源重组方法敲除基因[24]；通过穿梭载体过表达嘌呤补救合成途径关键酶—次黄嘌呤磷酸核糖转移酶的编码基因 hgprt 等[25]。
+
+EMP glucose 6-P-glucose HMP 5-P-Ribose pyruvate→TCA PRS1-5 PRPP synthetase De novo synthesis PRPP cAMP ADE4PRPPamidotransferase CYR1adenylate cyclase PRA ATP ADP CAIR GDP ADK1adenylate kinase AMPsAMP sAMP SyE12etase IMP IMD2/3/4 IMP XMP→GMP Salvage pathway adenine hypoxanthine guanine CY2 FCY2 extracellular purine
+
+基于图1所示cAMP合成相关代谢途径的分析，对菌株A302从以下方面进行了代谢调控和发酵优化，以调整代谢流、提高cAMP产量：（1）添加前体物：对比腺嘌呤、腺苷、AMP、ATP、次黄嘌呤、IMP 等，结果显示次黄嘌呤效果最好，最高产量可达 $4 . 0 6 \ \mathrm { g / L }$ ，而不添加任何前体物的对照仅 $0 . 4 3 ~ \mathrm { g / L ^ { [ 2 6 ] } }$ ；(2）添加糖酵解途径抑制剂：在添加25mmol/L次黄嘌呤的发酵培养基中对比评价碘乙酸、柠檬酸和氟化钠的效果，以氟化钠最好，较对照提高1.56倍，达到 $1 0 . 4 2 ~ \mathrm { g / L ^ { [ 2 6 ] } }$ ：(3）添加维生素B1：在含 $8 ~ \mathrm { g / L }$ 次黄嘌呤的发酵培养基中添加维生素B1，使cAMP产量和干细胞量分别提高了 $3 6 . 4 \%$ 和 $41 . 8 \%$ ，达到7.5和 $7 . 8 ~ \mathrm { g } / \mathrm { L } ^ { [ 2 7 ] }$ ；(4）两阶段溶氧控制策略：5L发酵罐中装 $3 \mathrm { L }$ 含 $8 \mathrm { \ g / L }$ 次黄嘌呤的发酵培养基，发酵过程中将溶氧与转速关联控制，最初 $1 8 \mathrm { ~ h ~ }$ 溶氧 $40 \%$ ，以后溶氧维持 $30 \%$ ，结果cAMP浓度可达 $9 . 9 \ : \mathrm { g / L }$ ，cAMP生产速率也有明显提高[28]；（5）基因修饰：过表达节杆菌假定的NAD/NADP 转氢酶β亚基基因（pntB）、6-磷酸葡萄糖酸脱氢酶基因（gnd）和NAD+激酶基因（ppnK），使cAMP产量分别提高了 $1 4 . 7 \%$ 、 $1 3 . 2 \%$ 和 $1 1 . 0 \%$ ，而过表达PRPP转酰胺酶基因（purF）、苹果酸酶( $\mathrm { \Delta N A D ^ { + } } \dot { , }$ 基因（maeA）和琥珀酰辅酶A合成酶β亚基基因（sucC），则对cAMP的积累有不同程度的抑制作用；故推测调控胞内辅酶的形式和水平在cAMP的合成中有着积极的作用[29]。综合前述措施下对菌株生长、底物消耗、代谢物、酶活等系统检测、分析的结果，证明糖酵解途径、TCA循环和磷酸戊糖途径之间的代谢流合理分配是cAMP最优合成的关键所在[23,26-30]。
+
+发酵液中cAMP的分离纯化是生产应用很重要的一环，离子柱吸附是最常用的方法。QianWB等利用cAMP 试剂纯品，研究了阴离子交换树脂上cAMP 吸附的解离常数、pH值影响、热力学和动力学等[31，计算模拟了离子交换床中cMAP吸附的穿透曲线，不同条件的实验结果证明：模型能很好地描述穿透曲线[32]；申请了利用阴离子交换柱吸附发酵液中cAMP 然后洗脱、脱盐、结晶干燥得到纯品的方法（授权号CN102268055B）。
+
+而安徽省皖北药业股份有限公司则研发了用陶瓷膜超滤、氨水调节pH值和上柱-解析、浓缩、抽滤、结晶的分离提纯节杆菌发酵液的方法（见专利CN104788522A，申请日2015年3月26日）。
+
+近年江苏省微生物研究所有限公司报道了利用枯草芽孢杆菌Bacillussubtilis发酵生产cAMP 的研究结果：将磷酸二酯酶同工酶抑制剂西马多丁和氨茶碱联合用于枯草芽孢杆菌菌株Bacillussubtilisjsim-1277的发酵，最多可以增产 $28 \%$ 达到 $9 . 1 4 ~ \mathrm { g / L } ^ { [ 3 3 ] }$ ；在 $2 0 ~ \mathrm { m } ^ { 3 }$ 发酵罐，最佳发酵条件为： $\mathrm { p H } 6 . 7$ ，以葡萄糖为碳源、尿素、酵母粉、豆饼水解液为复合氮源，添加 $\mathrm { 1 ~ g / L ~ K _ { 2 } H P O _ { 4 } }$ 和 $0 . 0 5 \mathrm { g / L N a F }$ ，发酵 $6 2 \mathrm { h }$ ，产 $6 { \sim } 7 ~ \mathrm { g / L }$ cAMP[34]。
+
+综合分析细菌发酵法生产cAMP研究历史，成本和工程放大应该是两大制约因素，添加各种前体物/调节剂在大幅提高产量的同时也带来极大的成本负担。
+
+# 4cAMP酵母法生产研究进展
+
+作为最早实现全基因组测序的微生物菌种和迄今为止分子生物学和遗传学研究最重要模式生物之一的酿酒酵母（Saccharomycescerevisiae)，其cAMP-PKA信号通路及其调控相关的基础研究被大量报道、文献数以千计，但人们一般都集中于胞内cAMP 的信号调控功能，很少关注胞外分泌情况[35-38]。天津大学化工学院马平生教授课题组首先注意到在特定情况下酿酒酵母细胞可以大量积累胞外cAMP，从而首次将其作为一个产品来关注其生产，考察胞外生产水平[39-42]。酿酒酵母胞内cAMP浓度的严格调控在四个层次上进行：cAMP合成（相关代谢途径参见图1）、cAMP 降解、细胞内的区间分布和胞外分泌；其中cAMP的胞外分泌机制至今没有文献报道，而蛋白激酶PKA作为酵母cAMP-PKA信号通路cAMP的目前已知唯一主要靶标，通过包括cAMP合成酶（腺苷酸环化酶）和cAMP 降解酶（磷酸二酯酶）在内的一系列酶蛋白的磷酸化与去磷酸化修饰，从而对cAMP 胞内浓度有着强的反馈抑制作用[35.39]。课题组以前期长期进行酿酒酵母cAMP-PKA信号转导通路研究得到的一系列不同PKA活性水平和磷酸二酯酶活性水平菌株为出发材料，构建得到高产cAMP的菌株[39]；在此基础上再共整合表达嘌呤合成代谢途径转录正调控因子Baslp 和Bas2p，同时相应地优化培养基组分，大幅提高了胞外cAMP水平：在含酵母粉和蛋白陈、葡萄糖的培养基中达到 $4 6 3 3 . 2 \ \mathrm { \mu m o l / L }$ （折合 $1 . 5 3 ~ \mathrm { g / L }$ ）；进一步添加前体物腺嘌呤（见图1)（ $( 0 . 5 \ \mathrm { g / L }$ ）提高产量 $1 4 . 7 \%$ ，为 $5 3 1 4 . 3 \ \mathrm { \mu m o l / L }$ （折合 $1 . 7 5 ~ \mathrm { g / L } ) ~ [ 4 0 ]$ 。而过表达嘌呤合成代谢途径3个关键酶的编码基因—磷酸核糖焦磷酸合成酶基因PRS1 和PRS3、磷酸核糖焦磷酸氨基转移酶ADE4、腺苷酸激酶ADK1（见图1)，则视拷贝数和基因不同而呈现出不同的效果，以高拷贝数质粒YEplac195为载体表达ADK1时，cAMP产量不升反降[41-42]。
+
+值得一提的是：尽管如前所述，cAMP及其合成途径的研究早在上世纪五、六十年代就已经开始，但不同物种间在认识、研究和利用上发展极不平衡，对cAMP信号通路及其调控机制认识、研究的程度制约着对它的利用水平[4,35-38,43]。cAMP 的特殊作用决定了它在任何生物体内的浓度都要受到严格调控，而且此调控首先发生在cAMP相关整体信号通路或信号网络层次，其次才是如图1所示嘌呤核苷酸合成代谢水平；即使是共享如图1所示合成途径的部分甚至全部反应，酵母和细菌在cAMP信号途径及其调控机制和相关代谢途径上都存在巨大差异[4,35-38,43]，这些差异必然导致遗传育种和发酵过程优化措施和效果上的不同[20-30,33.34,40-42]。以酿酒酵母当前深入、大量的 cAMP 相关基础研究成果为指导，目前基于代谢工程理念和技术的菌株进一步改造和发酵过程调控优化还在进行中。作为与人类日常生活极为密切、被人们利用已有相当悠久历史的食品安全性
+
+GRAS微生物，酿酒酵母工业化应用技术成熟、抗逆性强，以其为平台生产cAMP将具有其它微生物所不及的一些特殊优势[40]。
+
+# 5结论和展望
+
+cAMP从被发现起就因为其在生命活动中的特殊地位和作用备受关注。适应临床应用需求的cAMP纯品商品化生产长期以来是化学合成法。生物法生产cAMP 纯品的优势是产品具有生物安全性和生物相容性，使用可再生原料而无需化学合成法里的特殊有机溶剂，可实现资源可持续性利用，低污染和清洁生产。另一方面，目前尚无迹象表明生物法具有明确的对化学合成法的竞争力，商品化含cAMP制品—口服枣环磷酸腺苷糖浆[14]是作为药食同源类保健品研发生产的，从枣果制备cAMP 纯品仍然存在工艺复杂、成本高的问题。微生物发酵法具有其它生物法所不及的优势和潜力，即生产容易放大、产率高、反应周期短、反应产物纯度高、分离提纯容易等，目前报道的cAMP生产水平已经预示了微生物发酵法良好的发展前景，但要上升到对化学合成法的竞争力，必须充分利用和发挥微生物发酵法的优势，还需要进行以下几个方面的研发工作：（1）充分利用当前快速发展的微生物基础和应用研究理论与技术，进一步改造菌株，提高菌株性能，结合发酵过程调控优化和完善发酵工艺来进一步提高产量、降低成本；（2)解决好发酵和cAMP分离纯化的工程化放大、应用问题；（3）开展副产物综合利用，在最大化资源利用、最大限度实现废物零排放的同时降低成本，改善经济性。总而言之，要充分发挥微生物法的潜力和实现产业化，还有较远的一段路要走。
+
+# 参考文献
+
+[1] Suthgerl EW,RallTW.The properties of an adenine ribonucleotide produced with celular particles,ATP,Mg and epinephrine or glucagon.The Journal of the American Chemical Society,1957,79(13): 3608.   
+[2] Haynes RC Jr,Sutherland EW,RallTW.The role of cyclic adenylic acid in hormone action. Recent Progress in Hormone Research,1960,16:121-138.   
+[3] Sutherland EW，Robison GA，Butcher RW. Some aspects of the biological role of adenosine 3', $5 ^ { \prime }$ -monophosphate (cyclic AMP).Circulation,1968,37(2):279-306.   
+[4] Juana M.Gancedo.Biological rolesof cAMP:variations on a theme in the different kingdoms of life. Blological Reviews,2013,88(3):645-668.
+
+[5] Amer MS,Mckinney GR.Cyclic nucleotides as mediators of drug action.Annual Reports in Medicinal Chemistry,1975,10:192-201.
+
+[6] Murad F. Clinical studies and applications ofcyclic nucleotides.Advances in Cyclic Nucleotide& Protein PhosphorylationResearch,1983,3:355-385.
+
+[7] 党立,王希敏,韩利文,等.环磷酸腺苷的临床应用进展.山东科学,2007,20(3):61-64. Dang L,Wang XM,HanL W,et al.Progresses on the clinical application of cAMP.Shandong Science,2007, 20 (3):61-64.
+
+[8]胡晨旭,张晶蓉,黄丽华,等.环磷酸腺苷在肿瘤临床治疗中的应用研究进展.天津药学,2013,25(6):49-52. Hu C X, Zhang JR, Huang L H,et al. The research progress on the clinical treatment of tumor using cyclic adenosine monophosphate (cAMP). Tianjin Pharmacy, 2013,25 (6): 49-52.
+
+[9]赵升皓.心先安作用的分子基础.徐州医学院学报,1984,4(4):3-18.
+
+Zhao SH.The molecluar basis behind the function of Xinxian'an.Xuzhou Medical School Journal 1984,4(4):3-18.
+
+[10] 徐州医学院附属医院内科心血管组．心先安临床应用总结.徐州医学院学报,1984,4(4):43-47. Cardiovascular Medicine group in Xuzhou Medical School Hospital. Clinical application summary of Xinxian'an. Xuzhou Medical School Journal, 1984,4(4):43-47.
+
+[11] 陈邦云,吕继蓉,张克英,等.外源环腺苷酸(cAMP)对营养物质代谢的影响.饲料工业,2003,24(08):21-26. Chen B Y,Lv JR, Zhang K Y,et al.The effct of exogenous cAMP on nutrient metabolism.Feed Industry,2003,24(8):21-26.
+
+[12] 张光磊,欧阳富龙,王勤华,等.二丁酰环腺苷酸的作用及其在猪生产中的应用.猪业科学,2016,03:118-120. Zhang G L,Ouyang F L,Wang Q H, et al. The function of dbcAMP and its application in pig production. Swine Industry Science, 2016,3:118-120.
+
+[13] 刘孟军,王永惠.枣和酸枣等41 种园艺植物 cAMP 含量的研究.河北农业大学学报,1991,14(4):20-23.
+
+Liu M J,Wang Y H. cAMP contents of Zizyphus jujube Mill. Zizyphus spinosus Hu.and other twelve Horticural plants. Journal ofHebei Agricultural University,1991,14(4):20-23.
+
+[14] 毕珣,刘庆春,金峰,等.枣环磷酸腺苷提取液高原应激条件下抗疲劳作用实验研究.中国食物与营养,2015,21(3):81-84.
+
+Bi X,Liu Q C,JinF,et al.Experimental study on the anti-fatigue role of Jujube extract cyclic adenosine monophosphate under plateau stres.Food and Nutrition in China,2015,21(3):81-84.[15] 张今.3',5-环化腺苷 酸合成的改进.医药工业,1979,4:7-10
+
+Zhang J.The improvement of $3 ^ { \circ } , 5 ^ { \circ } -$ cyclic nucleotide synthesis.Pharmaceutical Industry,1979,4:7-10.
+
+[16] 韩文炎,屠宛蓉.环腺苷-3',5'-磷酸(cAMP)合成方法的改进及反应机理初探.河北大学学报(自然科学版),1986,1:54-60.
+
+HanWY,Tu WR.The improvement of3',5'-cAMP synthesis method and its preliminary reaction mechanism study. Journal of Hebei University,1986,1:54-60.
+
+[17] Roberto Gelsomino，Marc Vancanneyt， Jean Swings.Reclassification of Brevibacterium liquefaciens Okabayashi and Masuo 1960 as Arthrobacter nicotianae Giovannozi-Sermanni 1959.International Journal of Systematic and Evolutionary Microbiology,2004,54:615-616.
+
+[18] Ishiyama J, Yokotsuka T, Saito N. Cyclic AMP production by Corynebacterium murisepticum no. 7 (ATCC21374) and Microbacterium sp.no. 205 (ATCC21376).Agricultural and Biological Chemistry，1974, 38:507-514.
+
+[19] Ishiyama J. Isolation of mutants with improved production of cAMP from Microbacterium sp. no.205 (ATCC21376).Applied Microbiology Biotechnology,1990,34:359-363.
+
+[20] 杨秀琴,阐振荣.简单节杆菌(Arthrobacter Simplex1.754)产3',5'-cAMP 的初步研究.河北大学学报(自然科学版),1983,1:97-100.
+
+Yang X Q,Kan ZR.The preliminary study on 3',5'-cAMP production by Arthrobacter Simplex 1.754. Journal of Hebei University,1983,1: 97-100.
+
+[21] 徐晓静,余筱敏,李俊惺,等.添加次黄嘌呤对环磷酸腺苷发酵产苷的影响.河南科技学院学报(自然科学 版),2016,44(03):22-25. Xu X J, Yu X M,Li JX. et al. Effect of hypoxanthine addition content and mode on cyclic adenosine monophosphate production. Journal of Henan Institute of Science and Technology (Natural Science Edition). 2016,44 (3):22-25.
+
+[22] 李俊惺,徐晓静,李会军,等.不同基质酵母浸膏对cAMP 合成菌生长的影响.河南科技学院学报(自然科学 版),2016,44(6):9-12. Li JX,Xu X J,Li HJ,et al.Effect of yeast extract with diffrent substrates on the growth ofcAMP synthesis bacteria. Journal ofHenan Institute of Science and Technology (Natural Science Edition).2016, 44 (6):9-12.
+
+[23] He Song,Xiaochun Chen,Jiaming Cao,et al.Directed breedingof an Arthrobacter mutant for high-yield production of cyclic adenosine monophophate by $\mathrm { N } +$ ion implantation.Radiation Physics and Chemistry, 2010,79:826-830.
+
+[24] 童鹏,李楠,牛欢青,等.大片段两步同源重组敲除节杆菌肌酐酸脱氢酶基因质粒的构建.生物加工过 程,2016,1:14-18,35.
+
+Tong P,LiN,Niu H Q,et al. Construction of the plasmid to knockout the inosine 5'-monophosphate dehydrogenase gene by the large fragment of two-step homologous recombination in Arthrobacter sp. Journal of Bioprocess Engineering,2016,1:14-18,35.
+
+[25] 谢婧婧,丁静静,应汉杰,等.一株过表达次黄嘌呤磷酸核糖转移酶基因的节杆菌及其构建方法与应用.中国：201310248615.1;CN103320373B.2013.06.20.
+
+Xie JJ,Ding JJ,Ying HJ,et al.AArthrobacter strain to overexpress hgprt gene, the method constructed and its application. China patent: 201310248615.1; CN103320373B.2013.06.20.
+
+[26] Chen XC,Song H,Fang T,et al.Enhanced cyclic adenosine monophosphate production by Arthrobacter A302 through rational redistribution of metabolic flux.Bioresource Technology,2010,101(9):3159-3163.
+
+[27] 要世伟,牛欢青,陈勇,等.硫胺素对 Arthrobacter sp.A302 环磷酸腺苷发酵的影响.生物加工过 程,2013,11(6):19-23.
+
+Yao S W,Niu H Q, Chen Y,et al. Effects of thiamin on production of cyclic adenosine monophosphate by Arthrobacter sp.A302.Journal of Bioprocess Engineering,2013,11(6):19-23.
+
+[28]LeiLi,Xiaochun Chen,Jian Cheng,etal.Bi-stage controlofdissolved oxygen toenhance cyclicadenosine monophosphate productionbyArthrobacter A302,Bioprocess and Biosystems Engineering,2012,35:1281-1286.
+
+[29]牛欢青.节杆菌中环磷酸腺苷合成途径的机理解析及调控.南京工业大学"的"学位论文".2014.
+
+Niu H Q.Mechanism analysis and regulation of synthetic pathway of cyclic adenosine monophosphate in Arthrobacter strain. Master thesis,Nanjing University of Technology,2014.
+
+[30] Niu HQ,Chen Y,Yao SW,et al. Metabolic flux analysis of Arthrobacter sp CGMCC3584 for cAMP production based on C-13 tracer experiments and gas chromatography-mass spectrometry，Journal Of Biotechnology,2013,168(4): 355-361.
+
+[31] Qian WB,Lin XQ,Zhu XQ,et al. Studies of equilibrium, kinetics simulationand thermodynamicsof cAMP adsorption onto an anion-exchange resin, Chemical Engineering Journal,2010,165(3): 907-915.
+
+[32] Qian WB,Wu JL,Yang L,et al.Computational simulations of breakthrough curves in cAMP adsorption processes in ion-exchange bed under hydrodynamic flow.Chemical Engineering Journal,2012,197:424-434.
+
+[33] 朱晓宏,朱晓慧,魏薇.磷酸二酯酶抑制剂对枯草芽孢杆菌发酵环磷腺苷的影响.食品与生物技术学 报,2014,33(8):837-840. Zhu XH, Zhu XH, Wei W.Effect of phosphodiesterase inhibitors on adenosine-3',5'-cyclic monophosphate productionby fermentation with Bacillussubtilis.Journal ofFood Science and Biotechnology,2014,33(8): 837- 840.
+
+[34] 朱晓宏,朱晓慧,魏薇.利用枯草芽孢杆菌发酵生产环磷腺苷的工业化试验.食品与生物技术学报，2014,33(11):1228-1231.
+
+Zhu XH,Zhu XH,Wei W.Process of adenosine-3',5'-cyclic monophosphate production by fermentation with Bacillus subtilis.Journal ofFood Science and Biotechnology,2014,33(11):1228-1231.
+
+[35] Jurgen Vandamme,Dries Castermans,Johan M.Thevelein.Molecular mechanisms of feedback inhibition of protein kinase Aon intracellular cAMP accumulation. Cellular Signalling,2012,24(8):1610-1618.
+
+[36]Engelberg D,Perlman R,Levitzki A.Transmembrane signaling in Saccharomyces cerevisiae as a model for signaling in metazoans: state of the art after 25 years.Cellular Signalling,2014,26 (12): 2865-2878.
+
+[37]Marie F, Guillaume D,Francisco TQ,et al. Systematic identification ofsignal integrationby protein kinase A. Proceedings oftheNational Academy ofSciencesofthe United States ofAmerica,2015,112(14):4501-4506.
+
+[38] Sergio PL,Santiago SM,Claudia MA,et al. Complex regulation of Hsfl-Skn7 activities by thecatalytic subunits of PKA in Saccharomyces cerevisiae: experimental and computational evidences.BMC Systems Biology, 2015,9:42
+
+[39] 高文萱.高产cAMP 酿酒酵母菌株的构建.天津大学硕士学位论文.2012. Gao W X. Construction of Saccharomyces cerevisiae strains with high cAMP productivity. Master thesis, Tianjin University, 2012.
+
+[40] 徐欢欢,程丽娜,王凯,等.利用转录调控因子Baslp 和Bas2p 协同作用提高酿酒酵母cAMP 产量的研究. 微生物学通报,2016,43(2):370-378. Xu H H, Cheng L N, Wang K, et al. Reinforced cooperative interaction between Bas1p and Bas2p improves cAMP production by Saccharomyces cerevisiae, Microbiol. China,2016,43 (2): 370-378.
+
+[41] 姬晓兵,王凯,陈洵.过表达嘌呤合成途径关键酶基因对重组酿酒酵母菌株生产cAMP的影响.过程工程学 报,2014,5:853-859.
+
+Ji X B,Wang K,Chen X.Effects of overexpression of key enzyme genes involved in the purine synthesis pathway on cAMP production with recombinant Saccharomyces cerevisiae strain.The Chinese Journal of Process Engineering,2014,5:853-859.
+
+[42] 王凯,姬晓兵,徐欢欢,等.整合过表达嘌呤代谢途径关键酶基因提高酿酒酵母菌株环磷酸腺苷产量.食品与发酵工业,2016,42(8):25-30.
+
+Wang K, Ji X B, Xu H H,et al. Over-expressng key enzyme genes in the purine synthesis pathway by integrating into genome improves cyclic adenosine monophosphate production by Saccharomyces cerevisiae. Food and Fermentation Industries,2016,42(8):25-30.
+
+[43]Matange N. Revisiting bacterial cyclic nucleotide phosphodiesterases: cyclic AMP hydrolysis and beyond.   
+FEMSMicrobiologyLetters,2015,362(22):UNSP fnv183.
+
+# Production of cyclic adenosine monophosphate (cAMP) by microbial
+
+# fermentation-A review
+
+CHENG Li-na1,2,LU Hai-yan1,2, QU Shu-ling³, ZHANG Yi-qun’, DING Juan-juan $^ { 1 , 2 }$ ZOU Shao-lan 1,2
+
+（1 Schoolof Chemical Engineering and Technology，Tianjin University，Tianjin 3oo85o，China） （2 Key Laboratory of Systems Bioengineering，Ministry of Education，Tianjin 30o850，China） （3 PetroChina Dagang Oilfield In Tuanbowa Development Company, Tianjin 30l607, China）
+
+Abstract: 3',5'-cyclic adenosine monophosphate (cAMP)，an important and active compound due to its participation in various physiological actions, acts as a key second messenger. It was first reported in 1957. Since then a lot of research had been carried on it for its numerous functions. Exogenous cAMP was developed as pharmaceuticals early in 197Os and it has also been proved to have a great potential in animal husbandry. Now the known cAMP API (Active Pharmaceutical Ingredient) was all produced by chemical synthesis. On the other hand,the species used by microbial cAMP fermentation research includes Arthrobacter, Bacillus subtilis and yeast. As a result of utilizing metabolic regulation mechanism and technology, the extracelllar cAMP level could reach $\geq 7 . 2 3 \ \mathrm { g / L }$ for Arthrobacter and $6 { \sim } 7 ~ \mathrm { g / L }$ for Bacillus subtilis.High levels of extracellular cAMP production by Saccharomyces cerevisiae were reported in recent years. In order to make full use of microbial fermentation and realize its industrial production, it needs to further improve the performance of fermenting microorganisms and the fermentation technology, solve the scale-up problem and make the process more economic.
+
+Keywords: cAMP, chemical synthesis, microbial fermentation, metabolic engineering

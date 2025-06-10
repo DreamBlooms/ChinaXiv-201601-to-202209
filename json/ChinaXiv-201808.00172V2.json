@@ -1,0 +1,831 @@
+[
+    {
+        "type": "text",
+        "text": "A Phenomenological Model for the Light Curve of Three Quiescent Low-inclination Dwarf Novae and One Pre-cataclysmic Variable ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhibin Dai (戴智斌) $^ { 1 , 2 , 3 , 4 , 5 } \\oplus$ , Paula Szkody $6 \\textcircled { \\mathbb { P } }$ , Mark Kennedy $\\gamma _ { \\oplus }$ , Jie $\\mathrm { \\Delta S u }$ (苏杰） $^ { 1 , 2 , 4 } \\oplus$ , N. Indika Medagangoda8, Edward L. Robinson, Peter M. Garnavich $^ { 1 0 } \\oplus$ ,and L. Malith M. De Silval 1Yunnanbseeseadefe96agagadistcosepbc zhibin_dai $@$ ynao.ac.cn   \n2KeyLaboratoucuedoutetOadf6trt People's Republic of China   \n3KeyLabatooeefes   \nCenterfres Universityodiesqodctepeseba 6 University of Washington, Seattle,WA,98195,USA 7JodrellBankCentreforAstrosishooofyidAtronoheUersityofanchester,anchesterUK Arthur C.Clarke Institute for Modern Technologies,Sri Lanka Received 2018 May 16;revised 2018 August 15;accepted 2018 August 17;published 2018 September 12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We used the light curve code XRBinary to model the quiescent $K 2$ light curves of three low-inclination cataclysmic variables (CVs):1RXS $\\mathrm { J 0 6 3 2 } { + 2 5 3 6 }$ 0 $\\mathrm { J 0 6 3 2 } { + } 2 5 3 6 )$ ,RZLeo,TW Virand the pre-CV WD1144+011.Optimized light curve models were obtained using a nonlinear fiting code NMfit and visualized by Phoebe 2.0.The disk model of ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ shows that one hotspot at the edge of the disk is enough to describe its light curve, while the other two dwarf nova (DN): RZLeo and TW Vir require two hotspots.A typical pre-CV model with a weak irradiation effect for WI $) 1 1 4 4 + 0 1 1$ can explain its single-hump modulation and the newly observed spectrum confirms its previous clasification.The synthetic analyses for the DN clearly indicate that phase zero of the double-hump modulations occurs around the secondary minimum and the primary hump is mainly caused by the hotspot at the edge of the disk.The quiescent disk has a flat temperature distribution with a power index of ${ \\sim } 0 . 1 1$ The disk model of RZLeo implies a truncated disk,supporting its previously speculated classification as an intermediate polar (IP).Except for the IP model of RZLeo,which lacks a component related to the inferred accretion curtain, the models of $5 0 6 3 2 + 2 5 3 6$ , TW Vir and WD $1 1 4 4 + 0 1 1$ are consistent with results from the Gaia mission.The derived masses and radiiof the secondaries of the three DN are consistent with the semi-empirical relations for CV donor stars, while their effective temperatures are higher than the predictions. Irrdiation of the donor stars is investigated to explain this discrepancy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: binaries (including multiple): close- novae,cataclysmic variables - white dwarfs ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dwarf novae (DN) are a subtype of primarily non-magnetic cataclysmic variables (CVs),in which a white dwarf primary accretes matters from a Roche-lobe filling late-type star via the inner (L1) Lagrange point(Warner 2Oo3). An accretion disk can extend to the white dwarf surface via viscous processes between adjacent accretion annuli (e.g.，friction and shear） due to the weak magnetic field of the white dwarf in DN $\\left( B < 1 0 ^ { 6 } \\mathrm { G } \\right)$ Systems in which the magnetic field of the white dwarf is large enough $( 1 0 ^ { 6 } < B \\leqslant 1 0 ^ { 7 } \\check { \\mathrm { G } } )$ for the accretion disk to be disrupted inside the white dwarf magnetosphere and for material to begin to follow the magnetic field lines are called Intermediate Polars (IPs).In the following，we assume that the disk outside of the magnetosphere in an IP is equivalent in structure to the disk in a regular non-magnetic DN.The interaction between the ballistic stream leaving the L1 point and the accretion disk forms a region of energy release at the edge of the disk,which is called a hotspot. The combination of an accretion disk and a hotspot (hereafter just called the disk model) has beenused as the typical accretion model for CVs (e.g., Smak 1970; Warner 2003） and has been quite successful in describing the asymmetrical eclipse profile of several high-inclination CVs during quiescence (e.g., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wood & Crawford1986;Bruch1996).This model can also be used to explain a symmetrical CV eclipse profiles during outburst (e.g.， Kato et al. 2003; Bakowska & Olech 2015), which is caused by the significant flux increase of the disk (i.e., the luminous accretion disk almost overwhelms the relatively faint white dwarf and hotspot). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Several high-inclination CVs in quiescence have been comprehensively studied using this disk model (e.g.,Cook & Waner 1984; Bailey & Cropper 1991; McAllister et al. 2015). Bydetecting variations in the mid-eclipse times,substellar objects have been suggested to exist in several DN (e.g., V2051 Oph, Qian et al. 2015;and EM Cyg,Dai & Qian 2010a). In addition, many synthetic light curve analysis methods (e.g., BINSYN program,Linnell et al. 2O12; Eclipsing Light Curve Code，Orosz & Hauschildt 2OoO；and the cool-disk model, Khruzina 2O11） have been developed to analyze CV eclipse light curves. The irregular eclipse light curves of quiescent CVs are composed of the occultations of multiple components, including the white dwarf, the accretion disk and hotspots (e.g., Smak1994; Feline etal. 2004;Littlefair et al. 2014; McAllister et al.2O15). High-inclination CVs only show a single eclipse in one orbit (i.e.,the secondary eclipse of the red dwarf is invisible；e.g.，Krzeminski 1965;Bailey et al. 1988) because the red dwarf in a CV system is usually regarded to be a very faint component compared with the accretion disk and the white dwarf. This single-eclipse feature implies that CV eclipse light curves cannot reveal full information about the red dwarf companion.Due to the complexity of the quiescent CV eclipse light curves,high time resolution is necessary to decompose all components.However,over $70 \\%$ of CVs with short orbital periods $( < 3 \\mathrm { h r } )$ are fainter than 17 mag in quiescence based on the updated CV catalog (RKcat Edition 7.24，which was first published in Ritter & Kolb 2003). Therefore, the majority of CVs have only low time-resolution photometry comprised of blended flux from many components, which makes modeling these systems difficult. For example, recent discussions concerning two new-found CVs with deep eclipses carried out by Kjurkchieva et al. (2O15）and Kennedy et al.(2O16) have clearly indicated that the model light curves cannot perfectly fit the observed eclipsing light curves during ingress and outside of eclipse.Assuming that a deep eclipse is a common feature of CVs with orbital inclination higher than $8 0 ^ { \\circ }$ the fraction of low-inclination CVs can be simply estimated to be around $90 \\%$ .To determine a general model independent of inclination,it is necessary to consider low-inclination CVs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theunprecedented light curves from the Kepler K2 mission (Howell et al. 2O14)，with nearly continuous photometric coverage for 1-3 months at different pointings (Campaigns) along the ecliptic provide an excellent database to study quiescent CV light curves.K2 Campaign O(K2-CO) was an engineering test in the early stage of the $K 2$ program and only covered ${ \\sim } 3 5$ days because the spacecraft was not in fine point during the beginning of the campaign,while $K 2$ Campaign 1 (K2-C1) covered a complete period of 8O days. In this paper, we focus on the phased light curves of four systems: 1RXS $^ { \\mathrm { J 0 6 3 2 + 2 5 3 6 } }$ (hereafter $\\begin{array} { r } { \\mathbf { J 0 6 3 2 + } 2 5 3 6 \\rangle } \\end{array}$ ）and TWVir, which are both DNs；RZLeo,which is an unusual $\\mathbb { P }$ that also has displayed DN outbursts,making it one of the few systems to be both a magnetic system and a DN;and WD1144 $+ 0 1 1$ ，which is a pre-CV (meaning that the secondary is probably notfillingitsRoche lobe). $\\mathrm { J 0 6 3 2 } + 2 5 3 6$ wasobserved in K2-CO，while TWVir，RZLeo and WD $1 1 4 4 + 0 1 1$ were observed in K2-C1.The phased light curves are investigated in detail using the synthesis methods XRBinary and NMfit described in Section 3.Due to the lack of any eclipse feature, all four objects are likely low-inclination systems.The preset model parameters are discussed in Sections 4and5.The details of the white dwarf accretion structure during quiescence and the physical parameters of the stars in each system are further discussed and visualized in Section 6. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Phased Light Curves ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. (2O16) used the PyKE suite of software tools developed by the Guest Observer Office (Still& Barclay 2012) to extract the $K 2$ light curvesof $\\mathbf { J 0 6 } 3 2 \\substack { + 2 5 3 6 }$ ，RZLeo and WD $1 1 4 4 + 0 1 1$ ,and derive their orbital periods using traditional period finding techniques (e.g.，Lomb-Scargle periodogram, Lomb 1976; Scargle 1982;and phase dispersion minimization, Stellingwerf 1978) and their corresponding phased light curves. Due to the unstable orbital modulations of TW Vir,Dai et al. (2017）applied a phase-correcting method to obtain its orbital period and the phased data from the quiescent data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the continuous $K 2$ data,we attempted to model the mean orbital light curves of each system by using an XRBinary light curve synthesis code that was developed by E.L Robinson.1² The default phase zero of a light curve generated by XRBinary is an inferior conjunction of the Roche-lobe filling secondary (i.e.，the accretion disk around the white dwarf is occulted by the red component),which is in accord with the phases specified in eclipsing CVs. Compared with the typical CV eclipse light curve with a narrow and deep white dwarf eclipse (e.g.， Littlefair et al. 2O14; McAllister et al. 2015),all four light curves derived by Dai et al. (2O16, 2017) only show wide and shallow modulations with an amplitude of several hundredths up to tenths of a magnitude.Note that the phases of the obtained light curves are arbitrary. The three DN $\\mathrm { J 0 6 3 2 + 2 5 3 6 }$ ,RZLeo and TW Vir) light curves clearly show double-hump modulations， with a nearly constant phase difference of ${ \\sim } 0 . 5$ between the two minima dips.This means that the light minima at the lower (primary dip） and higher (secondary dip) flux levels are at phasesO.5 or zero, respectively.In principle,an irradiation effect is significant in CV systems and commonly results in a higher flux level at the phase O.5 dip than at phase zero.However,phase zero of the double-hump modulation cannot be simply identified from this flux difference due to possible changes caused by hotspots on the disk. Therefore，for each DN with a double-hump modulation discussed in this paper, two phased light curves corresponding to phase zero at the primary and secondary dips, respectively，were analyzed to search for a final convergent solution. Since the secondary dip in TW Vir cannot be accurately measured due to large scatter in the data, the primary maximum was set to be at the reference phases 0.75 and O.25, guaranteeing that minima would occur around phases 0.5 and zero. For the pre-CV WD $1 1 4 4 + 0 1 1$ ，phase zero was set to be the minimum of the light curve since the light curve shows a single-hump modulation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The four $K 2$ light curves are expressed in Simple Aperture Photometry flux (i.e.，electrons per second)，while the light curves calculated by XRBinary are given in ergs per second. Hence，the $K 2$ light curves were normalized before the calculations of XRBinary. Since the huge number of data points in the observed light curves (i.e.，the number of data points in the $K 2$ light curves observed in long cadence (LC; 30 minutes sampling） and in short_cadence (SC；1 minutes sampling) are more than $1 0 ^ { 3 }$ and $1 0 ^ { 5 }$ ,respectively） can take a long calculation time with XRBinary，the $K 2$ phased light curves are moderatelybinned withauniformphase resolution 0.01.Dai et al.(2O17) demonstrated that the orbital modulations of the three CVs are stable,and the large-amplitude dispersion of ${ \\sim } 0 . 4 3 \\mathrm { m a g }$ in the phased light curve of RZLeo (Figure 5 ofDai et al.2O16) is only caused by a uniform drift of the system light.Thus,while the phased light curve of TW Vir has the highest stability (Dai et al. 2O17),all four binned and normalized $K 2$ light curves represent their orbital modulations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.SynthesisMethodsfortheLightCurves ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the XRBinary program was initially designed to calculate the light curves of low-mass X-ray binary stars (LMXBs) (Gomez et al. 2015),it can also be used to model low-inclination CVs based on the following two reasons.First, XRBinary sets the primary star as a much smaller sphere than all other dimensions in the binary system and is unresolved by any of the grids used in calculating the light curves.Like the neutron star in LMXBs,the white dwarf in both CVs and preCVs is very small compared with the companion red dwarf. Second,XRBinary simply assumes that the primary star only emits black body radiation.This is a reasonable assumption for low-inclination CVs and pre-CVs because the fluxcontribution from the visible white dwarf is approximately constant. XRBinary may not be appropriate to accurately model complicated eclipse light curves but it should be able to reproduce low-inclination CVlight curves.In fact, XRBinary is a powerful tool to analyze the accretion disk around the central compact star by constructing a complex accretion disk model consisting ofa disk,a disk rim,a disk torusand an inner disk. Rati et al. (2O13） have successfully applied XRBinary to reproduce an ellipsoidal light curve of the CV CXOGBS J174444.7-260330 in a low state. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,a standard CV model (i.e.,a semi-detached close binary system with a Roche-lobe filling red dwarf and,in the case of the 3DN,an accretion disk around the white dwarf) with a set of geometric and physical parameters is applied to model the phased light curves of four low-inclination systems. Based on a complete set of preset parameters，XRBinary calculates a theoretical light curve and a relative measurement of goodness of fit, $\\chi ^ { 2 }$ (i.e., the variance between the calculated andobserved light curves).Taking advantage of the improved Nelder-Mead method (i.e.,Multi-directional Search method (MDS)，Nelder & Mead 1965; Torczon 1989;Geng 2008), which was successfully applied to fit the O-Cs of AMHer (Dai et al.2013) and UZ For (Dai et al. 2010b), we developed a new program called NMfit to carry out a search for the best binary model within a given parameter space.After obtaining the best binary model,NMfit sets a series of small deviations around each of the parameters to test the variations in $\\chi ^ { 2 }$ caused by these deviations.Note that when an adjustable parameter is intentionally set to deviate from its optimal value,then the otherparameters are fixed.Moreover, this optimization method ignores degeneracies between parameters,which is a big issue. Since the best binary model means， the minimal $\\hat { \\chi } ^ { 2 }$ the deviations give rise to an increase of $\\chi ^ { 2 }$ . When $\\chi ^ { 2 }$ increases to $5 \\%$ larger than the minimal value,this tested parameter deviation is arbitrarily regarded as the uncertainty. All of the adjustable parameters are tested one-by-one to estimate their errors.The error estimates based on $\\chi ^ { 2 }$ are only lower limits to the true uncertainties in the derived parameters and the true uncertainties could be quite large because the physics of compact binaries is much more complicated and XRBinary arbitrarily makes many tacit assumptions (e.g.，the disk is modeled as an object with sharp，well-defined edges and surfaces,and the disk surface elements emit and absorb like black bodies). The uniform design proposed by Fang (1980) is used to decide the initial parameter set before the search iterates.A good initial parameter set is crucial for the success of the iterations.In addition,since Phoebel’ is able to calculate and plot an accretion disk around a compact star (Prsa et al.2O16),it was used to visualize the system configuration based on the best-fitting parameters derived by NMfit and XRBinary. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.Model Parameters Preset in XRBinary ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The 23 model parameters that were used to generate the light curves are listed in Table 1,which are divided up into seven fixed parameters and 16 adjustable parameters.Our assump tions for these parameters are as follows. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d916b7f0791ccca70c0aedeb1787e5799112cbe6aec288e8621fa31d129659d.jpg",
+        "table_caption": [
+            "Table 1 All Parameters Used to Calculate Light Curves by Using XRBinary "
+        ],
+        "table_footnote": [
+            "Note. a $R _ { \\mathrm { i n } }$ can be adjustable for IPs due to the disrupted inner disk. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameters</td><td>Values</td><td>Statements</td></tr><tr><td colspan=\"3\">Fixed</td></tr><tr><td>STAR2TILES</td><td>5000</td><td>tiles covering star surface</td></tr><tr><td>DISKTILES</td><td>20,000</td><td>tiles covering disk surface</td></tr><tr><td>BANDPASS (A)</td><td>4200～9000</td><td>bandpass of K2 light curve</td></tr><tr><td>Hpow</td><td>1.1</td><td>power index of Hdisk</td></tr><tr><td>Lwd</td><td>：</td><td>white dwarf luminosity</td></tr><tr><td>Twd</td><td>：</td><td>white dwarf temperature</td></tr><tr><td>Ria</td><td></td><td>inner radius of disk</td></tr><tr><td colspan=\"3\">Adjustable</td></tr><tr><td colspan=\"3\">Components</td></tr><tr><td></td><td>：</td><td>mass ratio</td></tr><tr><td>qorb iorb</td><td>：</td><td>orbital inclination</td></tr><tr><td>Mwd</td><td>：</td><td>white dwarf mass</td></tr><tr><td>Trd</td><td></td><td>red dwarf temperature</td></tr><tr><td>Rout</td><td>：</td><td>outer radius of disk</td></tr><tr><td>Hedge</td><td>：</td><td>Hdisk at the outer edge</td></tr><tr><td>y</td><td>：</td><td>power index of Tdisk</td></tr><tr><td>Ld0</td><td>：</td><td>disk luminosity</td></tr><tr><td colspan=\"3\">Hotspot at the edge of disk</td></tr><tr><td>Tes</td><td></td><td>temperature</td></tr><tr><td>Sesmid</td><td>…</td><td>centering phase</td></tr><tr><td>Seswidth</td><td>···</td><td>full width</td></tr><tr><td colspan=\"3\">Hotspot on the surface of disk</td></tr><tr><td>Sssmin</td><td>：</td><td>lower limitof boundary in‘direction</td></tr><tr><td>Sssmax</td><td>：</td><td>upper limit of boundary in ‘direction</td></tr><tr><td>Rssmin</td><td>：</td><td>lower limit of boundary in radius direction</td></tr><tr><td>Rssmax</td><td>…</td><td>upper limit of boundary in radius direction</td></tr><tr><td>Trsio</td><td>：</td><td>fractional change in Tdisk</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.Although the input and output light curves of XRBinary are normalized, the typical luminosity of the white dwarf can provide an important reference for the system luminosity of the output CV model. Since the mass range for isolated white dwarfs is $0 . 3 M _ { \\odot }$ to $1 . 4 M _ { \\odot }$ and over $30 \\%$ of white dwarfs are centered on ${ \\sim } 0 . 5 6 M _ { \\odot }$ (Berg et al. 1992; Provencal etal.1998),thewhite dwarf masses ofall four objects were searched in this mass range.By using the relation $L _ { \\mathrm { w d } } = 4 \\pi R _ { \\mathrm { w d } } ^ { 2 } \\ \\sigma T _ { \\mathrm { w d } } ^ { 4 }$ , the white dwarf radius $R _ { \\mathrm { w d } }$ .s solely dependent on the white dwarf luminosity $L _ { \\mathrm { w d } }$ and temperature $T _ { \\mathrm { w d } }$ .According to the white dwarf mass-radius relationship,as shown in Figure 1 (e.g.，Wood & Horne 1990; Provencal et al. 1998), $L _ { \\mathrm { w d } }$ can only be determined by $T _ { \\mathrm { w d } }$ for a given $M _ { \\mathrm { w d } }$ . During the iterations of NMfit, $T _ { \\mathrm { w d } }$ calculated from the adjustable parameter $L _ { \\mathrm { w d } }$ is preset to be a fixed parameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.To improve the reliability of the model,a simple disk with minimal free parameters consisting of up to two hotspots (one at the vertical side of the edge of the disk (es) and the other one on the surface of the disk (ss)) is ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b50e907799387d5d81c97b4ef618da5d9abc5accd6ace44ce73d871ccbb7f595.jpg",
+        "img_caption": [
+            "Figure 1.Colormap of the luminosity of the primary white dwarf corresponding to $M _ { \\mathrm { w d } }$ and $T _ { \\mathrm { w d } }$ The dash line represents the typical mass-radius relationship of the whitedarftatadseoeiet marked in red by WDo,WDl and WD2 refer to the models of WD $1 1 4 4 + 0 1 1$ by using the revised model-O,model-1 and model-2,respectively.The left two data points marked by TWand JO6 refer to the models of TW Vir and $5 0 6 3 2 \\substack { + 2 5 3 6 }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "used to describe the low-inclination CV light curves. This CV quiescent disk was assumed to normally extend to the surface of the white dwarf (i.e., $R _ { \\mathrm { i n } } = R _ { \\mathrm { w d } } )$ .Aboundary layer was not considered because it dominates the flux at ultraviolet wavelengths rather than at optical wavelengths.A hotspot on the vertical side of the edge of the disk can be completely described by three parameters:a uniform temperature $T _ { \\mathrm { e s } }$ ，the centering phase $\\zeta _ { \\mathrm { e s m i d } }$ and the full width $\\zeta _ { \\mathrm { e s w i d t h } }$ . Considering that the other hotspot on the disk surface can be visible and modulate the light curves of low-inclination CVs,this hotspot is described using five parameters: $\\zeta _ { \\mathrm { s s m i n } } , \\zeta _ { \\mathrm { s s m a x } }$ $R _ { \\mathrm { s s m i n } }$ ， $R _ { \\mathrm { s s m a x } }$ and $T _ { \\mathrm { r a t i o } }$ .The first four parameters are the boundaries of the hotspot,which are the angles and radii over which the hotspot extends,respectively.The last parameter $T _ { \\mathrm { r a t i o } }$ is a fractional change in $T _ { \\mathrm { d i s k } }$ (i.e., $T _ { \\mathrm { r a t i o } } = T _ { \\mathrm { s s } } / T _ { \\mathrm { d i s k } } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.A different temperature distribution may exist in different quiescent accretion disks.The temperature distribution is assumed to be a power law in disk radius $R _ { \\mathrm { d i s k } }$ ；i.e., （20 $T _ { \\mathrm { d i s k } } \\propto R _ { \\mathrm { d i s k } } ^ { \\xi }$ Fosteadytatedistally $\\xi = - 0 . 7 5$ (Wade & Hubeny 1998).However,subsequent papers suggested that accretion disks in CVs have much flatter temperature profiles with $\\xi > - 0 . 7 5$ (e.g.,Marsh 1999; Orosz & Wade 2OO3).According to the disk instability model (Osaki & Kato 2013a,2013b,2014), the quiescent DN disk is an optically thin and cool disk with a flat radialtemperatureprofile. Observationsofvarious quiescent DN (e.g.，Z Cha，Wood & Crawford 1986; OY Car，Wood et al. 1989;V2051 Oph，Rutkowski et al.2O16) confirm that their disk temperature distributions are much flatter than the prediction of $T _ { \\mathrm { d i s k } } \\propto$ （204号 $R _ { \\mathrm { d i s k } } ^ { - 0 . 7 5 }$ We initially assume $\\xi = - 0 . 1 5$ but allow this value to be adjusted by NMfit. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.The adjustableparameter $L _ { d 0 }$ indicating the disk luminosity is only calculated from the temperature distribution of the disk.This parameter should satisfy a default condition that the temperature at the inner edge of disk (i.e., $T _ { \\mathrm { i n } , }$ cannot be much larger than $1 0 ^ { 4 } \\mathrm { K }$ because the average temperature of observed quiescent disks is below $1 \\bar { 0 } ^ { 4 } \\mathrm { K }$ ，which is consistent with the typical temperature range of an accretion disk (from several ${ { 1 0 } ^ { 3 } }$ to ${ 1 0 } ^ { 4 } \\mathrm { K } )$ predicted by_the limit-cycle oscillation between hot and cold states (Lasota 2001). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.Since both theories and observations suggest that the accretion disk around a white dwarf is geometrically thin (e.g.，Pringle 1991; Frank et al. 1992; Wade & Hubeny 1998；Marsh 1999)，the height of the disk, $H _ { \\mathrm { d i s k } }$ , is assumed to obey a power low with a power index （204号 $H _ { \\mathrm { p o w } } = 1 . 1$ for all four objects，but $H _ { \\mathrm { e d g e } }$ is set to be adjustable. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6.Since the components of the model calculated in XRBinary (e.g.， two component stars， the disk and hotspots on the disk）are independent,we can freely construct the necessary componentsto model the observed light curves.Three types of models,as listed in Table 2,were attempted to verify the necessity of a disk around the white dwarf and the hotspots on the disk. Model-O is a detached binary model without a disk. Model-1 contains an accretion disk with a hotspot at the edge of the disk.Model-2 adds a second hotspot on the disk surface. The relative flux contributions in percentage from the different model components to the synthetic light curves calculated by XRBinary are shown in Figure 2.Their zero points are listed in Table 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.IrradiationEffectCalculatedinNMfit ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The irradiation effectis only calculated by XRBinary when setting the parameter IRRADIATION to ON. Since a luminous secondary may weaken the illumination from the vicinity of the white dwarf and the disk,the parameter IRRADIATION is preset to OFF if the summation of the luminosity of the white ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bae6168a373989506f48d80e4925a71948717b02065a36b541137a6cf840909.jpg",
+        "table_caption": [
+            "Table 2 The Models Used in XRBinary "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Componenta</td><td>Model-0</td><td>Model-1</td><td>Model-2</td></tr><tr><td>White dwarf</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Red dwarf</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Accretion disk</td><td>0</td><td>1</td><td>1</td></tr><tr><td>Hotspot on the disk surface</td><td>0</td><td>0</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note. ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a The component included in the model or not is indicated by“1”or ${ } ^ { \\mathfrak { s } } 0$ ；， respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "dwarf and the disk (i.e., $L _ { \\mathrm { w d } } \\mathrm { + } L _ { d } )$ is smaller than the luminosity of the secondary $L _ { \\mathrm { r d } }$ . Although XRBinary can calculate the heating effect due to the irradiation, the output parameter $T _ { \\mathrm { r d } }$ of XRBinary issimply derived from $L _ { \\mathrm { r d } }$ by using the formula $L _ { \\mathrm { r d } } \\sim 4 \\bar { \\pi } R _ { \\mathrm { r d } } ^ { 2 } \\sigma T _ { \\mathrm { r d } } ^ { 4 } .$ This means that $T _ { \\mathrm { r d } }$ represents the temperature of the secondary averaged over its entire surface,which can be significantly higher than the true night side temperature of the secondary if irradiation in the systems is significant. Here,the night side is the surface of the secondary facing away from the WD and disk,and the day side is the surface facing the WD and disk. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Davey & Smith(1992) found that the size of the irradiation region is usually as large as the entire day side surface of the secondary star. The numericalwork by Kirbiyik(1982) suggested that the difference in the effective temperature between the day and night sides of the secondary is very large. Considering that the typical difference may reach close to $1 0 ^ { 4 } \\mathrm { K }$ (Warner 2OO3),irradiation would be easily observed if this tremendous disparity of the effective temperature exists. Therefore,an estimation of the size of the irradiation region on the surface of the secondary can help to understand the flux contribution from the irradiation region in both CV and pre-CV systems.The effective temperature of the secondary on the night side can be specified by the semi-empirical CV donor sequence (Knigge 2006; Knigge et al. 2011). The derived $T _ { \\mathrm { r d } }$ can be regarded as a lower limit to the effective temperature of the irradiation region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Due to orbital rotation,our viewing angle of the irradiated region can change with the orbital phase.Assuming that the irradiation region on the leading side of the starl4is axisymmetric with the line between the center points of two component stars， the flux ratio should reach a maximum between phases O.5 and O.0; i.e., $F _ { \\mathrm { i r r } } = f _ { 0 . 5 } / f _ { 0 . 0 }$ ,where $\\mathbf { f } _ { 0 . 5 }$ and $\\mathbf { f } _ { 0 . 0 }$ are the irradiation flux at phases O.5 and O.O,respectively. The details of the calculations of $F _ { \\mathrm { i r r } }$ are described in Appendix A.By investigating the variations in $F _ { \\mathrm { i r r } }$ along with a normalized area of the irradiation region (i.e., $S _ { \\mathrm { i r r } } = A _ { \\mathrm { i r r } } / A _ { \\mathrm { s t a r } } .$ where $A _ { \\mathrm { i r r } }$ and $A _ { \\mathrm { s t a r } }$ are the areas of the irradiation region and the whole star,respectively),a relation between $F _ { \\mathrm { i r r } }$ and $S _ { \\mathrm { i r r } }$ based on the physical model derived by XRBinary and NMfit can be estimated and used to compare with the observed flux ratio $F _ { \\mathrm { o b s } }$ betweenphases O.5 and 0.0. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6.Comparisons with Gaia Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the $K 2$ light curves of the four binary systems are from the broad bandpass listed in Table 1,their $K 2$ magnitudes (hereafter $\\mathrm { K p } _ { 2 } ^ { \\cdot }$ ）translated by Dai et al.(2O16)are commonly different from their apparent visual magnitudes.Assuming this magnitude difference to be a systematic error, the calculated magnitudes of the four systems (hereafter $\\mathrm { C K p } _ { 2 } ,$ ）based on the luminosities of the models can be set to be a reference parameter for the comparisons with the results from the Gaia mission (Gaia Collaboration et al. 2O16).Table 4 lists the distances of all four systems based on the absolute stellar parallax in the Gaia database (Gaia Collaboration et al. 2018).15 $\\begin{array} { r } { { \\dot { \\mathrm { C K p } } } _ { 2 } } \\end{array}$ can be estimated from the Gaia distance $D _ { g }$ derived from the Gaia parallax (Luri et al. 2018）and the system luminosity $L _ { \\mathrm { a l l } } .$ ，which is summed for all model components and corresponds to the zero point of the normalized $K 2$ light curves,by using the following formula, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C K p } _ { 2 } = 2 . 5 \\log { \\left[ \\frac { L _ { \\mathrm { b o l 0 } } } { L _ { \\mathrm { a l l } } } \\right] } ~ - ~ B C _ { \\nu } ~ + ~ 5 \\log { \\left[ \\frac { D _ { g } } { 1 0 \\mathrm { p c } } \\right] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $L _ { \\mathrm { b o l 0 } } = 3 . 0 1 2 8 \\times 1 0 ^ { 3 5 } \\mathrm { e r g ~ s } ^ { - 1 }$ 16 and $\\mathbf { B C } _ { \\nu }$ is a bolometric correction of the main sequence star in the typical Johnson-Cousins $\\mathrm { \\Delta V }$ band with the solar $\\log g$ ， $\\mathrm { [ F e / H ] }$ and $[ \\alpha / \\mathrm { F e } ]$ . Note that $\\mathbf { B C } _ { \\nu }$ corresponding to the derived $T _ { \\mathrm { r d } }$ can cause an uncertainty of $\\mathrm { C K p } _ { 2 }$ for CV and pre-CV systems because $\\mathbf { B C } _ { \\nu }$ is improperly used for the white dwarf and disk. This calculated uncertainty may explain the discrepancy between $\\mathrm { C K p } _ { 2 }$ and $\\mathrm { K p } _ { 2 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Considering that $\\mathbf { B C } _ { \\nu }$ is a model-dependent quantity with many observational constraints,several numerous tabulations are provided in the literature.All three popular $\\mathbf { B C } _ { \\nu }$ tables, respectively，proposed by Flower (1996),Bessell et al.(1998) and Casagrande & VandenBerg(2O14) were used to calculate $\\mathrm { C K p } _ { 2 }$ to minimize our errors.The relations of $\\mathbf { B C } _ { \\nu }$ and $T _ { \\mathrm { e f f } }$ plotted in Figure 3 clearly show that the three $\\mathbf { B C } _ { \\nu }$ tabulations significantly differ for cool stars with $T _ { \\mathrm { e f f } } \\leqslant 4 0 0 0 \\mathrm { K }$ Inspection of Figure 3 indicates that $\\mathbf { B C } _ { \\nu }$ of RZLeo，TW Vir and WD $1 1 4 4 + 0 1 1$ are obviously different for each table. Consequently,the difference between the three $\\mathbf { B C } _ { \\nu }$ tabulations for the same $T _ { \\mathrm { e f f } }$ is regarded as the uncertainty of $\\mathbf { B C } _ { \\nu }$ . Compared with the two early $\\mathbf { B C } _ { \\nu }$ tablesofFlower（1996）and Bessell et al. (1998)， the updated $\\mathbf { B C } _ { \\nu }$ given by Casagrande& VandenBerg (2O14) is moderate for cool stars.Therefore, they were used to calculate $\\mathrm { C K p } _ { 2 }$ for all four systems to compare with the $K 2$ magnitudes at the zero point of the normalized $K 2$ light curves (Dai et al. 2O16). The interpolated $\\mathbf { B C } _ { \\nu }$ and the errors used to calculate $\\mathrm { C K p } _ { 2 }$ for all four systems are listed in Table 4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7.Modeling Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7.1.J0632+2536 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This is a poorly studied DN that experienced several DN outbursts in 2009 and 2012 (Korotkiy & Sokolovsky 2012; Masi 2012; Ohshima 2012).Dai et al. (2016) showed its doublehump light curve extracted from the $K 2$ dataarchive and several quiescent spectra with strong double peaked Balmer emission lines obtained from the Large Binocular Telescope (LBT).Based on these spectra and the phased $K 2$ light curve, the secondary of $\\mathbf { J 0 6 } 3 2 + 2 5 3 6$ is thought to be a K5V star and the orbital inclination cannot be lower than $5 0 ^ { \\circ }$ .According to the MK ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "rrrirniirteeieler 9.0 VMMA 4.0 8.0 12.0 16.0 广 Teff(x1000 K)   \n6.0   \n3.0 火   \n0.0   \nHH J0632+2536   \n1.00 T   \nx M 女 Phase = 0.75   \nperirgettteeriteer 15.0 VM 4.0 8.0 12.0 16.0 Teff(x1000 K)   \n10.0   \n5.0 ：   \n0.0 WW   \nxnu przilenon 10 0.80 Phase = 0.75   \nreinittreeler 4.0 8.0 12.0 16.0 Teff ( x1000 K)   \n6.0   \n3.0   \nXnn prziarion 100 0.90 0.0 W Phase= 0.75   \n0.0 0.5 1.0 1.5 2.0 Dh->> ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "spectral classes( $\\mathrm { C o x } 2 0 0 0 )$ ,the initial temperature and mass of the secondary are set to be $4 4 1 0 \\mathrm { K }$ and $0 . 6 7 M _ { \\odot }$ ，respectively. Several high-precision measurements of white dwarf masses in CVs (Knigge 2006; Knigge et al. 2011; Zorotovic et al. 2011) have indicated that the mean CV white dwarf mass is usually larger than that of isolated white dwarfs (Berg et al.1992; Kepler et al.2007).Thus,for ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ ，which lacksan accurate measurement of the white dwarf mass,a mean CV white dwarf mass of $0 . 8 3 M _ { \\odot }$ was preset to be the initial parameter (i.e., $M _ { \\mathrm { w d } } = 0 . 8 3 M _ { \\odot } )$ .Finally,Urban& Sion(2O06)usedIUE spectra of 53 quiescent DN to show that the temperature of a white dwarf, $T _ { \\mathrm { w d } } ,$ in a CV with an orbital period above the period gap is approximately 25,793K(Sion 1999；Urban & Sion 2OO6).We assume this value for the temperature of the white dwarf in $\\mathrm { J 0 6 3 2 + 2 5 3 6 }$ because its orbital period of 0.314478 day (Dai et al. 2016) is above the gap. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A large number of trials calculated using XRBinary and NMfit suggest that a convergent solution using a normal CV configuration cannot be achieved when settng phase zero to the primary dip of the light curve.Hence,phase zero was set for the secondary dip.Model-1 was used to model the phased light curve of $\\mathrm { J 0 6 3 2 } { + 2 5 3 6 }$ At first, four parameters $( M _ { \\mathrm { w d } } , T _ { \\mathrm { w d } }$ mass ratio $q _ { \\mathrm { o r b } }$ and $T _ { \\mathrm { r d } } )$ ）were fixed and the other nine parameters consisting of the orbital inclination $i _ { \\mathrm { o r b } }$ and eight parameters of the accretion disk were set to be adjustable.By using NMfit,a preliminary accretion disk model indicated that the inner radius of the disk is basically close to the white dwarf radius,so we then fixed the parameters $\\xi$ and $R _ { \\mathrm { i n } }$ to derive the uncertainties of the other 11 parameters. Since $\\xi$ isan insensitive parameter,its uncertainty cannot be obtained.By using Phoebe 2.0,a 2D CV configuration at phase O.75 shown in Figure 2 visually indicates that ${ \\bf J } 0 6 3 2 \\substack { + 2 5 3 6 }$ has a large and thick accretion disk with a small hotspot at the edge of the disk. Since the orbital inclination of $\\mathbf { J 0 6 3 2 + } 2 5 3 6$ is not high enough for the white dwarf to be occulted by the secondary,the flux contribution from the white dwarf is constant and does not vary with the orbital period,so this constant flux contribution is simply added to the ellipsoidal modulations caused by the secondary. Compared with the small white dwarf, the top panel ofFigure 2 clearly shows that the large and thick accretion disk can be partially eclipsed around phase zero.Moreover，the hotspot at the edge of the disk,which has a temperature of 6200 $( \\pm 1 0 0 )$ K and has a phase width of O.033(2) at phase 0.844(2), only contributes a maximum of $5 \\%$ of the flux from the whole system. Since $\\mathrm { C K p } _ { 2 }$ of ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ listed in Table 4 is almost equal to the corresponding $\\mathrm { K p } _ { 2 }$ ,the obtained physical model of $\\mathbf { J 0 6 3 2 + } 2 5 3 6$ is compatible with the Gaia distance.However, the $T _ { \\mathrm { e f f } }$ of $\\mathbf { J 0 6 3 2 + 2 5 3 6 }$ shown in the Gaia database is obviously higher than that derived from the LBT spectra (Dai et al.2016) and the derived $T _ { \\mathrm { r d } }$ listed in Table 5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6ff93c9d6479dd54e40b1921927964217ad05b6cb94af3adce5d60c57176983.jpg",
+        "table_caption": [
+            "Table 3 The Zero Points of the Relative Flux Contributions from Different Component "
+        ],
+        "table_footnote": [
+            "Notes. a The relative flux contributions are in percentge. b Only consist of white dwarf and red dwarf. C Starspots on the red dwarf. d Accretion disk without hotspot. "
+        ],
+        "table_body": "<html><body><table><tr><td>Componentsa</td><td>J0632+2536</td><td>RZ Leo</td><td>TWVir</td><td>WD1144+011</td></tr><tr><td>Binaryb</td><td>65.1</td><td>66.5</td><td>20.4</td><td>94.3</td></tr><tr><td>Starspote</td><td></td><td>：</td><td></td><td>1.1</td></tr><tr><td>Diskd</td><td>11.7</td><td>0.0</td><td>63.0</td><td>：</td></tr><tr><td>Hotspotes</td><td>0.0</td><td>0.0</td><td>0.0</td><td>：</td></tr><tr><td>Hotspotss</td><td>：</td><td>2.6</td><td>3.4</td><td>：</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The region where the mass transfer stream intersects the accretion disk (i.e., the hotspot at the edge of the disk) is simply assumed to be a rectangle with a uniform temperature $T _ { \\mathrm { e s } }$ by XRBinary.A mass transfer rate $\\dot { M } _ { \\mathrm { r d } }$ (hereafter,the parameters with the subscript rd related to the secondary star） can be roughly estimated by using the following formula, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { M } _ { \\mathrm { r d } } \\simeq \\frac { L _ { \\mathrm { a c c } } R _ { \\mathrm { o u t } } } { G M _ { \\mathrm { w d } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $L _ { \\mathrm { a c c } }$ is the luminosity of the hotspot at the edge of the disk. The mass transfer rate can be estimated to be $\\dot { M } _ { \\mathrm { r d } } \\sim 2 . 5 ( \\pm 0 . 2 ) \\times 1 0 ^ { - 1 0 } M _ { \\odot } \\ : \\mathrm { y r } ^ { - 1 }$ ，corresponding to a mass loss timescale (i.e., $\\tau _ { \\dot { M } } \\sim M _ { \\mathrm { r d } } / \\dot { M } _ { \\mathrm { r d } } )$ of $2 . 8 \\times 1 0 ^ { 9 }$ year. The top right-hand panel of Figure 4 indicates that $M _ { \\mathrm { { r d } } } = 0 . 7 ( 1 ) M _ { \\odot }$ is closer to the semi-empirical mass-period relation of Warner (2003） than that of Smith & Dhillon(1998).Furthermore, the secondary radius $R _ { \\mathrm { r d } } = 0 . 8 1$ is consistent with the radiusperiod relations shown in the bottom right-hand panel of Figure 4.The thermal (or Kelvin-Helmholtz) timescale of the secondary (i.e., $\\pi _ { \\mathrm { k h } } \\sim G M _ { \\mathrm { r d } } ^ { 2 } / ( L _ { \\mathrm { r d } } R _ { \\mathrm { r d } } ) )$ can be calculated to be $7 . 6 \\times 1 0 ^ { 7 }$ year,as listed in Table 6,which is smaller than the derived $\\tau _ { \\dot { M } }$ . This means that the mass transfer via the L1 point is slow and the secondary is always able to maintain thermal equilibrium. Therefore, the secondary of $\\mathbf { J 0 6 3 2 + } 2 5 3 6$ is almost indistinguishable from an isolated main sequence star of the same mass.The derived mass and radius shown in the bottom left-hand panel of Figure 4 confirm that the secondary of JO632 $+ 2 5 3 6$ is a typical K5V star (Dai et al. 2O16). Inspection of the top panel of Figure 2 indicates that the ellipsoidal modulations of this K5 star dominate the observed double-hump modulations.Although the top left-hand panel of Figure 4 indicates that $T _ { \\mathrm { r d } } = 4 5 4 0 ( 8 0 ) \\mathrm { K }$ is nearly consistent with a normal K5V star based on the MK spectral classes $( \\mathbf { C o x } 2 0 0 0 )$ ,this derived $T _ { \\mathrm { r d } }$ is around $3 5 0 \\mathrm { K }$ higher than the prediction of the semiempirical CV donor sequence (Knigge 2O06; Knigge et al. 2011). The most likely explanation for this discrepancy may be due to irradiation of theK5V star.Since the irradiation effect is not calculated by XRBinary as $L _ { \\mathrm { r d } } > L _ { \\mathrm { w d } } + L _ { d } .$ ，we investigated its strength in more detail. Based on our best-fiting model, the maximal $F _ { \\mathrm { i r r } }$ is around 1.O8,as shown in Figure 5. As long as $20 \\%$ of the irradiation region can be occulted by the disk at phase O.5, the observed flux ratio of ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ (i.e., $F _ { \\mathrm { o b s } } \\sim 0 . 8 7 \\$ ）can be explained.Due to our derived large disk and moderate orbital inclination，a partial eclipse of the irradiation region at phase O.5 can be expected. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7.2. RZ Leo ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. (2O16) confirmed that RZ Leo is a short-period DN withan orbital period of O.O76O3 day,similar to that derived by Patterson et al.(2003）and Kato et al.(2009).Ishioka et al. (2001） and Mennickent et al.（1999) indicated that the secondary of RZLeo should be a normal red dwarf,possibly a main sequence MO star. Although this spectral type cannot be supported by the mass ratio of O.14 derived from its superhump excess of O.033 (Ishioka et al. 2001)，we speculated that RZLeo should consist of a massive white dwarf and a normal red dwarf with a small mass of ${ < } 0 . 2 M _ { \\odot }$ .Thus,we assumed that the initial $M _ { \\mathrm { r d } }$ used in NMfit is $0 . 1 5 M _ { \\odot }$ ，which means $M _ { \\mathrm { w d } } = 1 . 1 M _ { \\odot }$ and $T _ { \\mathrm { r d } } \\sim 3 5 0 0 \\mathrm { K }$ .Szkody et al.(2017）and Dai et al.(2O16) detected a short white dwarf spin period of ${ \\sim } 2 2 0 \\mathrm { s }$ classifying RZLeo as a member of the IP subtype of CVs.From an Ultraviolet (UV） study，Pala et al.(2017) determined that the white dwarf had a temperature of 15,014 $( \\pm 6 3 8 ) \\mathrm { K }$ and contributed $8 3 \\%$ of the UV flux.Since the humps of the model-1 light curve are located exactly at phases $0 . 2 5 \\mathrm { \\bar { / 0 . 7 5 } }$ ,model-2 with an extra hotspot on the surface of disk can be used to describe the ofset secondary hump of RZLeo. For the phased light curve with phase zero at the primary minimum， a convergentsolution wasfound. However, inspection of the bottom left-hand panel of Figure 4 shows that the derived secondary mass and radius obviously deviate from the predicted mass-radius relation of the semi-empirical CV donor sequence (Knigge 2006; Knigge et al. 2011). Based on the MK spectral classes $( \\mathrm { C o x } ~ 2 0 0 0 )$ ,thederivedradiusis significantly smaller than that of a normal isolated main sequence star.Furthermore,the mass and radius also conflict with the semi-empirical mass-period and radius-period relations of CV secondary (Smith & Dhillon 1998;Warner 2003) shown in the two right-hand panels of Figure 4. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa337b411279a9b55f1491654c6d43298dbc437c2a4cc5ed9c0cba10e9016816.jpg",
+        "table_caption": [
+            "Table 4 The Results of Four Systems Estimated From the Gaia Database "
+        ],
+        "table_footnote": [
+            "Notes. a Interpolated bolometric corrections based on $\\mathbf { B C } _ { \\nu }$ tabulations by Casagrande & VandenBerg (2014). b Calculated K2 magnitude by using the distance and LallC Observed K2 magnitude corresponding to $L _ { \\mathrm { a l l } }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Name</td><td>Teff</td><td>Parallax</td><td>Dg</td><td>Lall</td><td>BCa</td><td>CKp2b</td><td>Kp2</td></tr><tr><td></td><td>K</td><td>mas</td><td>pc</td><td>×1032 erg s-1</td><td></td><td>mag</td><td>mag</td></tr><tr><td>J0632+2536</td><td>5255.5</td><td>2.24(5)</td><td>446(±10)</td><td>13.2</td><td>-0.53(4)</td><td>14.67(7)</td><td>14.4</td></tr><tr><td>RZ Leo</td><td>：</td><td>3.6(3)</td><td>278(±23)</td><td>0.2</td><td>-1.4(4)</td><td>19.1(4)</td><td>17.6</td></tr><tr><td>TW Vir</td><td>4850</td><td>2.3(1)</td><td>435(±19)</td><td>5.8</td><td>−1.1(1)</td><td>16.0(2)</td><td>15.9</td></tr><tr><td>WD1144+011</td><td>3657.5</td><td>4.7(1)</td><td>213(±5)</td><td>4.8</td><td>-1.8(7)</td><td>15.5(7)</td><td>16.0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Instead,we created a model with phase zero at the secondary dip of the light curve.Initially,we fixed the inner accretion disk radius to the radius of the white dwarf.However, a convergent solution could not be found.Instead,an accretion disk model with two hotspots and $R _ { \\mathrm { i n } }$ much larger than $R _ { \\mathrm { w d } }$ was found to fit the data reasonable well. $R _ { \\mathrm { i n } } > R _ { \\mathrm { w d } }$ can be interpreted as a truncation of the accretion disk farfrom the WD,consistent with the IP classification of RZ Leo by Szkody et al.(2O17) and Dai et al. (2O16). This means that the physical structure of RZLeo may be more complex than the simple disk model calculated by XRBinary because accretion curtains near the magnetic poles of the white dwarf may be involved.This may be the reason that the best-fiting light curve derived by XRBinary cannot perfectly describe the secondary hump of RZ Leo.Based on this disk model, $\\mathrm { C K p } _ { 2 }$ calculated by using Equation（1）isaround $1 . 5 \\mathrm { m a g }$ larger than $\\mathrm { K p } _ { 2 }$ This discrepancy islikely to be causedbythe lack of an accretion curtain in the disk model. In the future,a complete IP model including the light from an accretion curtain should help correct this difference.In spite of the deviation in the secondary hump and $\\mathrm { C K p } _ { 2 }$ ,limits to two key parameters of the disk( $( R _ { \\mathrm { i n } }$ and $\\xi )$ can be obtained from the double-humped $K 2$ phased light curve. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "According to the typical disk-field interaction models (e.g., Pringle & Rees 1972;Ghosh & Lamb 1978;White & Stella 1988), the corotation radius of a magnetic white dwarf, $R _ { \\mathrm { c o } }$ ,can be calculated using, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { c o } } = f _ { \\mathrm { c o } } M _ { \\mathrm { w d } } ^ { 1 / 3 } P _ { \\mathrm { r o t } } ^ { 2 / 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { \\mathrm { c o } } = ( G M _ { \\odot } / 4 \\pi ^ { 2 } R _ { \\odot } ^ { 3 } ) ^ { 1 / 3 }$ $R _ { \\mathrm { { c o } } }$ and $M _ { \\mathrm { w d } }$ are in solar units, $P _ { \\mathrm { r o t } }$ is the spin period of the magnetic white dwarf in unit of seconds.By using the parameters listed in Table 5 and a spin period of $2 2 0 \\mathrm { s }$ (Dai et al. 2016; Szkody et al. 2017), $R _ { \\mathrm { c o } }$ of RZ Leo can be estimated to be $0 . 0 8 5 R _ { \\odot }$ ，which is17 times larger than $R _ { \\mathrm { w d } } = 0 . 0 0 5 R _ { \\odot }$ . Considering that the accretion process in RZ Leo is steady (Dai et al. 2017), $R _ { \\mathrm { i n } }$ is required to be almost equal to $R _ { \\mathrm { c o } }$ .However, $R _ { \\mathrm { i n } } = 0 . 2 1 1 ( 2 ) R _ { \\odot }$ is much larger than $R _ { \\mathrm { c o } }$ .Ina typical IP(Ghosh &Lamb 1978), $R _ { \\mathrm { c o } }$ is regarded as the inner radius of an unperturbed disk and the transition region of a truncated disk (i.e., located between $R _ { \\mathrm { { c o } } }$ and $R _ { \\mathrm { i n } } \\mathrm { \\Omega }$ ）may be actually invisible in the optical band due to a possible disruption of the accretion flow caused by the magnetosphere of the magnetic white dwarf. Since a hotspot on the disk surface always shows $R _ { \\mathrm { s s m i n } } < R _ { \\mathrm { i n } }$ during the iterations of NMfit, the parameter of $R _ { \\mathrm { s s m i n } }$ is fixed to be equal to $R _ { \\mathrm { i n } }$ . The high effective temperature of this hotspot indicated by $T _ { \\mathrm { r a t i o } } = 7 . 2$ indicates that more than $9 7 \\%$ of the luminosity of the disk is from this slim and extended hotspot. Moreover, this hotspot is regarded to be a plausible second impact region of an inward and overflowing stream striking onto the magnetosphere of the magnetic white dwarf. This region was previously reported in several IP systems (e.g.，EXHya in outburst,Hellier et al.1989;and QZ Vir in quiescence, Shafter & Szkody 1984).Note that all three systems are for an unusually short period (under the gap） IPs. Compared to this hotspot,the other hotspot at the edge of the disk is much smaller and cooler.Both edge and surface hotspots are located at the phases O.723(1）and O.47(2)，respectively. This disk configuration derived in quiescence is consistent with the disk of EX Hya during outburst,with two hotspots at similar phases (Hellier et al. 1989). This disk configuration may be common for $\\mathrm { I P }$ systems.A low-luminosity truncated disk with $L _ { d } =$ $2 . 3 \\times 1 0 ^ { 3 0 }$ erg $\\mathbf { s } ^ { - 1 }$ (i.e., the luminosity contribution of the disk is less than $10 \\%$ of the whole CV system） may be a straightforward conclusion for an $\\mathrm { I P }$ system like RZ Leo due to the lack of a hot inner part of the disk. Compared with the other four sources of light in RZLeo (i.e., the two component starsand two hotspots on the disk)，therelativeflux contributions from this truncated disk shown in Figure 2 are almost negligible (close to zero). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The best-fitting CV model indicates thatRZLeo hasa moderate orbital inclination of $6 1 ^ { \\circ } . 0 ( \\pm 0 ^ { \\circ } . 9 )$ and contains a massive white dwarf and a low mass red dwarf. The mass ratio, $q _ { \\mathrm { o r b } } = 0 . 0 8 0 ( 6 )$ is within the error bar of that estimated from its superhump excess (Ishioka et al. 2OO1).The secondary mass and radius (i.e., $M _ { \\mathrm { r d } } = 0 . 1 0 1 ( 8 ) M _ { \\odot }$ and $R _ { \\mathrm { r d } } = 0 . 1 6 R _ { \\odot } )$ are not only in accord with an isolated red dwarf later than M5V but also support the semi-empirical mass-period and radius-period relations of CV secondaries (Smith $\\&$ Dhillon 1998；Warner 2003).The small mass transfer rate, $\\dot { M } _ { \\mathrm { r d } } \\simeq 3 . 0 1 ( \\pm 0 . 0 7 ) \\times 1 0 ^ { - 1 2 } M _ { \\odot } \\ : \\mathrm { y r } ^ { - 1 }$ calculated by using Equation (2),seems to explain the small and cool hotspot at the edge of the disk that is shown in the disk model. Recently,Dubus et al. (2O18) showed the average mass transfer rates of a sample of ${ \\sim } 1 3 0 \\ \\mathrm { C V s }$ with a parallax distance in the Gaia DR2 catalog.The estimated mass transfer rate ofRZLeo lies ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/90abf287d51eeb75aa2874d1e6f6e8d5fc80c10e8598051f79d1b2a00944f92e.jpg",
+        "img_caption": [
+            "Figure 3.Diagram of bolometriccorrection in $\\mathrm { \\Delta V }$ band $( \\mathbf { B C } _ { \\nu } )$ against the effective temperature of a main sequence star $( T _ { \\mathrm { e f f } } )$ .Three legends of Casagrande14, Bessell98 and Flower96 refer to the $\\mathbf { B C } _ { \\nu }$ tabulations givenby Casagrande& VandenBerg (2O14),Besselletal.(1998)andFlower (1996),respectively.The four dotted lines from left to right denote $T _ { \\mathrm { r d } }$ of WD $1 1 4 4 + 0 1 1$ ,RZ Leo,TW Vir and ${ \\bf J } 0 6 3 2 \\substack { + 2 5 3 6 }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "well within the region where a stable,cool disk exists within the system.This explains a lack of DN outbursts for RZLeo. $\\dot { \\tau _ { M } } \\sim 3 . 4 \\times 1 0 ^ { 1 \\hat { 0 } }$ year calculated from the mass transfer rate is larger than $\\tau _ { \\mathrm { k h } }$ of the secondary.The derived secondary mass and radiusfurtherconfirm thatthe secondaryofRZLeoisin thermal equilibrium， since they are consistent with the mass-radius relation of the isolated main sequence stars shown in the bottom left-hand panel of Figure 4. Since $T _ { \\mathrm { r d } } = 3 7 1 0 ( \\pm 3 0 ) \\mathrm { K }$ suggests a slightly earlier spectral type than M5V,this higher $T _ { \\mathrm { r d } }$ may be attributed to irradiation of the companion. Due to $L _ { \\mathrm { r d } } > L _ { \\mathrm { w d } } + L _ { d } ,$ （204号 the irradiation effect is not calculated by XRBinary.However, the maximal $F _ { \\mathrm { i r r } } \\sim 1 . 5 4$ that is shown in Figure 5 indicates a significant irradiation effect in RZLeo.A prominent irradiation effect can be expected in an $\\mathrm { I P }$ system because the white dwarf primary is not embedded in the truncated thin disk.Furthermore, the small disk of RZLeo implies that the irradiation region is visible at phase O.5 despite the similar orbital inclination to that of ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ 、Although $F _ { \\mathrm { o b s } } \\sim 0 . 9 3$ does not seem to support a large irradiation effect, the presence of an accretion curtain and a brighter second impact region complicate an accurate calculation of the irradiation effect in RZLeo. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7.3.TWVir ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Byusing infrared photometry, the secondary is estimated to be a M3V star with a mass of $0 . 4 3 M _ { \\odot }$ and a radius of $0 . 4 8 R _ { \\odot }$ (Mateo et al. 1985). According to the MK spectral classes (Cox 2OoO), the initial temperature of the secondary was set to be 3367K.Based on the mass ratio of O.44 (Shafter1983), the white dwarf mass of TW Vir is calculated to be $0 . 9 8 M _ { \\odot }$ .Since no accurate white dwarf temperature has been obtained from the UV spectra (C6rdova & Mason 1982；Szkody 1985；Hamilton et al. 20O7),and TW Vir is a long period (above the gap) system with an orbital period of O.182682(3) day derived from the $K 2$ data Dai et al. (2O17),we set the same initial white dwarf temperature as that of $\\mathbf { J 0 6 3 2 + 2 5 3 6 }$ Because the secondary hump of TWViris not locatedatorbital phase O.25 or O.75,model-2 is used for the calculations.Two phased light curves corresponding to phase zero at the primary and at the secondary dips were used to derive two disk models,respectively.In these two disk models, three parameters involving the positions of two hotspots on the disk in $\\zeta$ direction (i.e., $\\zeta _ { \\mathrm { e s m i d } } , \\ \\zeta _ { \\mathrm { s s m i n } }$ and $\\zeta _ { \\mathrm { s s m a x } } )$ show nearly constant phase differences of O.5,while all of the remaining parameters are almost the same.Therefore,both models are not significantly different and the double-hump modulation of TW Vir is mainly caused by the two hotspots on the disk. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Since the $\\chi ^ { 2 }$ of the model based on the phased light curve with phase zero around the secondary dip is slightly smaller than that with phase zero at the primary dip,the primary hump was set to phase at O.75 and the corresponding model is analyzed in the following discussion. The two best-fitting orbital parameters: $q _ { \\mathrm { o r b } } = 0 . 4 1 ( \\pm 0 . 0 5 )$ and $i _ { \\mathrm { o r b } } = 4 4 _ { \\cdot } ^ { \\circ } 3 ( \\pm 0 _ { \\cdot } ^ { \\circ } 5 )$ listed in Table 5 are consistent with the previous results derived from the infrared andUV data(Córdova & Mason 1982;Mateo et al.1985).The derived mass ratio confirms the previous classification of TW Vir as a U Gem type DN (O'Connell 1932) butthederived orbital inclinationis smallerthan that obtained by Hamilton et al. (2O07). The calculated $\\mathrm { C K p } _ { 2 }$ listed in Table 4 suggests that the best-fitting model of TW Vir is consistent with the Gaia distance.The relative flux contributions from the hotspot at the edge of the disk around phase O.75 shown in Figure 2 almost perfectly reproduces the significant primary hump,which lasts for over half of an orbit.Although the other hotspot appearing on the outer radius of the disk coversa long phase width of O.42,the small $T _ { \\mathrm { r a t i o } } ^ { \\mathrm { s s } } = 1 . 2 0$ $( \\pm 0 . 0 2 )$ may explain its small relative flux contributions,as shown in Figure 2.Like RZLeo,the relative flux contribution from the diskis close to zero.The derived mass and radiusof the secondary fits with the semi-empirical secondary massperiod and radius-period relations (Smith & Dhillon 1998; ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/816b8bdabcb68a7a7948c84633c8b4fd5d47354ecadea3af7519145525539da6.jpg",
+        "table_caption": [
+            "Table 5 Photometric Solutions for Three DN "
+        ],
+        "table_footnote": [
+            "α The unit of temperature and luminosity is $1 0 ^ { 3 } \\mathrm { K }$ and $1 0 ^ { 3 2 } \\mathrm { e r g ~ s } ^ { - 1 }$ ,respectively. bThemdelwiupiteosthatthefisicuedia C Calculated by XRBinary. d Fixed in NMfit program. e Insensitive to the observed light curves. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parametera</td><td>J0632+2536</td><td>RZ Leo</td><td>TW Vir</td></tr><tr><td>Model typeb</td><td>Model-1</td><td>Model-2</td><td>Model-2irr</td></tr><tr><td colspan=\"4\">Orbit</td></tr><tr><td>qorb(Mrd/Mwd)</td><td>0.8(1)</td><td>0.080(6)</td><td>0.41(5)</td></tr><tr><td>iorb (degree)</td><td>60.3(5)</td><td>61.0(9)</td><td>44.3(5)</td></tr><tr><td colspan=\"4\">White dwarf</td></tr><tr><td>Mwd(M)</td><td>0.81(8)</td><td>1.26(3)</td><td>1.10(3)</td></tr><tr><td>Rwd(R)</td><td>0.01</td><td>0.005</td><td>0.007</td></tr><tr><td>Twd</td><td>25.4</td><td>15.0</td><td>19.1</td></tr><tr><td>Lwd</td><td>1.5</td><td>0.045</td><td>0.23</td></tr><tr><td colspan=\"4\">Red dwarf</td></tr><tr><td>Mrd(Mo)</td><td>0.7(1)</td><td>0.101(8)</td><td>0.45(6)</td></tr><tr><td>Rrd(R)e</td><td>0.81</td><td>0.16</td><td>0.48</td></tr><tr><td>Trd</td><td>4.54(8)</td><td>3.71(3)</td><td>4.00(4)</td></tr><tr><td>Lrd</td><td>9.6</td><td>0.17</td><td>2.0</td></tr><tr><td colspan=\"4\">Accretion disk</td></tr><tr><td></td><td>0.01d</td><td>0.211(2)</td><td>0.007d</td></tr><tr><td>Rin(R) Rout(R)</td><td>1.22(1)</td><td>0.401(2)</td><td>0.536(3)</td></tr><tr><td>Hedge(Ro)</td><td>0.091(4)</td><td>0.0801(6)</td><td>0.1174(3)</td></tr><tr><td>m</td><td>-0.11e</td><td>-0.12(6)</td><td>-0.11(4)</td></tr><tr><td>Ld</td><td>3.9(3)</td><td>0.00061(6)</td><td>3.36(6)</td></tr><tr><td>Ld</td><td>4.1</td><td>0.023</td><td>4.0</td></tr><tr><td colspan=\"4\">Hotspot at the edge of the disk</td></tr><tr><td>Tes</td><td>6.2(1)</td><td>3.71(2)</td><td>4.80(2)</td></tr><tr><td>Sesmid (phase)</td><td>0.844(2)</td><td>0.723(1)</td><td>0.727(6)</td></tr><tr><td>Seswidth (phase)</td><td>0.033(2)</td><td>0.057(4)</td><td>0.296(3)</td></tr><tr><td colspan=\"4\">Hotspot on the surface of disk</td></tr><tr><td>Sssmin (phase)</td><td>：</td><td>0.38(2)</td><td>0.32(5)</td></tr><tr><td>Sssmax (phase)</td><td>：</td><td>0.56(2)</td><td>0.74(3)</td></tr><tr><td>Rssmin(R)</td><td>：</td><td>0.211e</td><td>0.489(8)</td></tr><tr><td>Rssmax(Ro)</td><td>：</td><td>0.217(5)</td><td>0.536e</td></tr><tr><td>Tra0</td><td>：</td><td>7.2(2)</td><td>1.20(2)</td></tr><tr><td>X</td><td>11.9</td><td>2.3</td><td>0.66</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Notes. ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Warner 2OO3).This indicates that the spectral type of the secondary is close to M2V,which is similar to the result from infrared photometry (Mateo et al. 1985).However,compared with the K5V star of $\\mathrm { J 0 6 3 2 } { + 2 5 3 6 }$ and the M5V star of RZ Leo, the M2Vstar of TWVir never shows large-amplitude ellipsoidal modulations. Instead,it gives rise to a small amplitude second hump in the phased light curve.By using Equation (2), the estimated $\\dot { M } _ { \\mathrm { r d } }$ listed in Table 6 indicates that $\\tau _ { \\dot { M } } \\sim 9 \\ \\tau _ { \\mathrm { k h } }$ ，which is common for most CV secondaries (Patterson 1984).A somewhat oversized secondary of TW Vir relative to an isolated main sequence star of the same mass is not obtained, implying that $\\dot { M } _ { \\mathrm { r d } } ^ { \\mathrm { ~ ~ } }$ may be overestimated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Like ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ ， $T _ { \\mathrm { e f f } } = 4 8 5 0 \\mathrm { K }$ listed in Table 4is higher than the derived $T _ { \\mathrm { r d } } = 4 0 0 0 ( \\pm 4 0 ) \\mathrm { K } .$ ，This may imply that the higher $T _ { \\mathrm { e f f } }$ derived by Gaia is common for DN due to the possible contributions from hotter components in these systems (e.g., the white dwarf and accretion disk). Since $T _ { \\mathrm { r d } }$ is obviously higher than the effective temperature of the M2V star shown in Figure 4,we investigated the irradiation effect of the secondary in this system. Note that TW Vir is the only object with $L _ { \\mathrm { r d } } < L _ { \\mathrm { w d } } + L _ { d } .$ ，Accordingly,the calculation of irradiation was included in XRBinary.However, both light curves calculated with and without irradiation by XRBinary are almost identical. Hence，irradiation in TW Vir may be weak,which isalso demonstrated by $F _ { \\mathrm { o b s } } \\sim 1$ with two minima in the light curve at almost the same flux level. Since $L _ { d }$ calculated froma near-flat temperature distribution with a power index of $- 0 . 1 1 ( \\pm 0 . 0 4 )$ is nearly two times $L _ { \\mathrm { r d } } .$ ，and the total contributions of two hotspots are only $16 \\%$ of $L _ { d }$ ,the weak irradiation effect of the secondary is overpowered in the light curve.Large variations in the disk luminosity may further weaken the ability to detect irradiation. There are,however,two issues which further complicate our conclusions.The first is that the orbital modulation of TW Vir shown in Figure 2 is only extracted from the part of the quiescent light curve around its superoutburst.The second is that the double-hump modulation does not always maintain stability,and the secondary hump has a small amplitude and shows a large scatter in the unbinned light curve (Dai et al. 2O17).Further analysis of its light curves at different times may reveal more details of the irradiation effectin TW Vir. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7891c3f2047861f91874764443ea17ad771fa3fa3f25c99691aab82366cdf34.jpg",
+        "img_caption": [
+            "Figure4F paelthlg dashed and solid lines denote the relationships based on the isolated low-mass stars $( \\mathbf { C o x } \\ 2 0 0 0 )$ ,and the semi-empirical CV donor sequence (Knigge 2006; Knigge etal.)s symbols of the data points are the same as those used in Figure 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e97e07de911b5671cfe85473ec06305d18cd68ba424dd9653d23a368c79160a.jpg",
+        "table_caption": [
+            "Table 6 TheEstimatedParametersof the Secondaries ofFour Systems "
+        ],
+        "table_footnote": [
+            "Notes. a Calculations byusing the parameters listed in Tables 5and 7. b For the model-1. C For the model-2. "
+        ],
+        "table_body": "<html><body><table><tr><td>Namea</td><td>Mrd</td><td>TM</td><td>Tkh</td><td>T M/Tkh</td></tr><tr><td></td><td>10-10Myr-1</td><td>109 year</td><td>109 year</td><td></td></tr><tr><td>J0632+2536</td><td>2.5(±0.2)</td><td>2.8(±0.5)</td><td>0.076</td><td>37</td></tr><tr><td>RZ Leo</td><td>0.0311 (±0.0008)</td><td>32.4(±2.7)</td><td>0.45</td><td>72</td></tr><tr><td>TW Vir</td><td>1.92(±0.05)</td><td>2.3(±0.3)</td><td>0.25</td><td>9</td></tr><tr><td>WD 1144 +011b</td><td>67.8(±16.0)</td><td>0.1(±0.03)</td><td>0.006</td><td>18</td></tr><tr><td>WD 1144 +011</td><td>7.9(±1.8)</td><td>1.0(±0.3)</td><td>0.027</td><td>37</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "7.4.WD1144+011",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This poorly understood variable star is classified asa ${ \\mathrm { D A } } { + } { \\mathrm { d M e } }$ binary from a single optical spectrum obtained by Berg et al. (1992).For comparison with this spectrum obtained over 20 years ago,a new spectrum was taken on 2O17 January 22 by using the BFOSC spectrograph attached to the Xinglong Observatory $2 . 1 6 \\mathrm { m }$ telescope (XL 216,Fan et al. 2016). This is a better optical spectrum that shows some changes from the original. The details concerning our spectrum are presented in Appendix B.A synthetic analysis based on the single-hump light curve extracted by Dai et al. (2O16) can test the possibility of the existence of a disk around the primary white dwarf of WD $1 1 4 4 + 0 1 1$ ．Considering thatW $\\mathrm { \\sqrt { D } } 1 1 4 4 + 0 1 1$ is a long orbital period system with an orbital period of $9 . 8 1 \\mathrm { h r }$ (Dai et al.2O16),the initial parameters of the white dwarf are set to be the same as those of ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ ：Combined with the parameters of a M dwarf,all three models were used to attempt to reproduce the stable single-hump modulation that is apparent in the $K 2$ light curve. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5439107cf87f28b0560c92002a14aa490714fa399eb52f9a2f98e94dbe69c48.jpg",
+        "img_caption": [
+            "Figure 5.Diagram of the flux ratio between phases O.5 and 0.0, $F _ { \\mathrm { i r r } } ,$ changing along with a normalized area of the irradiation region $S _ { \\mathrm { i r r } }$ .The red symbol WD denotes $S _ { \\mathrm { i r r } } \\sim 0 . 0 5$ corresponding to $F _ { \\mathrm { o b s } } = 1 . 0 3$ estimated from the single-hump modulation of WD $1 1 4 4 + 0 1 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7.4.1.ModelWithoutaDisk ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In principle,model-O can only produce ellipsoidal modulation caused by the orbital motion of the Roche-lobe filling secondary. The asymmetry shown in the single-hump modulation of WD $1 1 4 4 + 0 1 1$ cannot be explained by a pure ellipsoidal modulation derived from model-O.Moreover,the irradiation effect in WD $1 1 4 4 + 0 1 1$ that was calculated by XRBinary cannot resolve this problem because its long orbital period may imply a bright secondary like $\\mathbf { J 0 6 } 3 2 + 2 5 3 6$ (i.e., $L _ { \\mathrm { r d } } > L _ { \\mathrm { w d } } )$ . In spite of this,an irradiation region on the surface of the secondary was added to allow for an asymmetrical single-hump modulation (i.e., a bump on the rise to the maximum).We assumed that this irradiation region is a circular bright starspot on the secondary, which can be easily calculated by XRBinary.Since the singlehump modulation of $ { N _ { \\mathrm { D } } } 1 1 4 4 \\substack { + 0 1 1 }$ observed in K2-C1 is very stable (lasting at least a complete campaign periods of ${ \\sim } 3$ months, Dai et al.2O16),a stable region due to irradiation of the secondary maybe moreplausible to explain this long-term steady modulation than a variable starspot on an active M type dwarf. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In XRBinary, a starspot on the secondary can be described by the four parameters (i.e., $\\displaystyle { \\mathcal { P } } ^ { \\mathrm { s p } } , \\phi ^ { \\mathrm { s p } } , R$ $R ^ { \\mathrm { s p } }$ and $\\dot { T } _ { \\mathrm { r a t i o } } ^ { \\mathrm { s p } } ) ^ { 1 7 }$ .For WD1144 $+ 0 1 1$ ,this starspot is asmed tobea hotspot ie, $T _ { \\mathrm { r a t i o } } ^ { \\mathrm { s p } } > 1 \\dot { , }$ ） All of the parameters including four component parameters $( M _ { \\mathrm { w d } } , T _ { \\mathrm { w d } } , q _ { \\mathrm { o r b } }$ and $T _ { \\mathrm { r d } } )$ and four parameters of the starspot were set to be adjustable in NMfit.The derived $M _ { \\mathrm { w d } } = 1 . 1 1 ( 8 ) M _ { \\odot }$ is almost the same as that of TW Vir shown in Figure 1,while $T _ { \\mathrm { w d } } = 2 7 , 1 0 0 K$ suggests a hotter and brighter white dwarf. Compared with the three DN,WD1144+011 is the only object with a slightly cooler M dwarf $( T _ { \\mathrm { r d } } = 3 5 0 0 ( \\pm 1 0 0 ) K )$ than the predicted mass-temperature relation of the semi-empirical CV donor sequence (Knigge 2006; Knigge et al. 2011). This is consistent with $T _ { \\mathrm { e f f } } = 3 6 5 7 . 5 \\mathrm { K }$ shown in the Gaia database. Compared with the higher $T _ { \\mathrm { e f f } }$ of the two DN $\\mathrm { J 0 6 3 2 } { + 2 5 3 6 }$ and TW Vir, this compatible $T _ { \\mathrm { e f f } }$ can be explained by the lack of a disk around the white dwarf. Since the companion star in ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WD $1 1 4 4 + 0 1 1$ is cooler than the secondaries in the other systems discussed here,it has the largest uncertainty in $\\mathbf { B C } _ { \\nu } .$ as shown inFigure 3.This is reflected in the large range of derived $\\mathrm { C K p } _ { 2 }$ 0 $( 1 4 . 8 \\sim 1 6 . 2 \\mathrm { m a g } )$ ),which is consistent with the corresponding $\\mathrm { K p } _ { 2 }$ value listed inTable4.Like TWVir, the ellipsoidal modulations caused by the M star never dominates the orbital modulation. The mass and radius of the secondary deviate from all the mass-radius,mass-period and radius-period relations shown in Figure 4.Note that both semi-empirical mass-period and radius-period relations are only available in the period range of $1 . 3 \\sim 9 \\mathrm { h r }$ (Smith & Dhillon 1998;Warner 2003).With an orbitalperiodof 9.81hr,WD $1 1 4 4 + 0 1 1$ is beyond this period range.The bottom left-hand panel of Figure 4 shows that the inflationof the secondary isabout $38 \\%$ .Besides the known inefficient mechanisms of donor bloating (e.g., tidal deformation, rotational deformation and irradiation of thesecondary) discussed by Knigge et al. (2011),the deviation from thermal equilibrium of the secondary caused by the donor mass loss can result in a large donor inflation of up to $2 0 \\% \\sim 3 0 \\%$ (Patterson 2005;Knigge 2Oo6). However, this mass loss mechanism is still not enough to explain the derived inflated secondary star. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Although both light curves calculated with and without irradiation by XRBinary are almost identical due to $L _ { \\mathrm { r d } } > L _ { \\mathrm { w d } } ,$ （20 the final $\\chi ^ { 2 }$ of model- $\\boldsymbol { . 0 } ^ { \\mathrm { i r r } }$ is slightly smaller than that of modelO.Thus,the best-fitting parameters and their uncertainties listed in Table 7 are calculated using model $\\boldsymbol { \\cdot } 0 ^ { \\mathrm { i r r } }$ .The reproduced light curves and the corresponding 2D pre-CV configuration are shown in the top left-hand and right-hand panelsofFigure 6, respectively. This detached binary configuration with a low inclination of $1 4 ^ { \\circ } . 3 ( \\pm 0 ^ { \\circ } . 4 )$ supports the previous classification of WD $1 1 4 4 + 0 1 1$ as a pre-CV system (i.e.，a ${ \\mathrm { D A } } { + } { \\mathrm { d M e } }$ detached system).Our model also shows that the orbital variation seen in the light curve is dominated by the hotspot on the secondary's surface.Compared with the three DN, the preCV WD $1 1 4 4 + 0 1 1$ is the only object with $F _ { \\mathrm { o b s } } = 1 . 0 3$ larger than 1. Thus， $T _ { \\mathrm { r a t i o } } ^ { \\mathrm { s p } } = 1 . 0 9 7 ( \\pm 0 . 0 0 3 )$ combined with $F _ { \\mathrm { o b s } }$ suggests that the calculated irradiation region may be a good representation of the physical picture of WI $) 1 1 4 4 + 0 1 1$ . The effective temperature of the starspot can be estimated to be around $3 9 0 0 \\mathrm { K }$ based on $T _ { \\mathrm { r a t i o } } ^ { \\mathrm { s p } }$ A relation between $F _ { \\mathrm { i r r } }$ and $S _ { \\mathrm { i r r } }$ shown in Figure 5 indicates weak irradiation in WD $1 1 4 4 + 0 1 1$ ， similar to ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ ，and $S _ { \\mathrm { i r r } } \\sim 0 . 5$ corresponding to ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/03fbb3314b3fe7cecffc746ae3a395fc443e73b95749e8612836b97b0e042678.jpg",
+        "img_caption": [
+            "Figure 6.The phased and binned light curve ofWD $1 1 4 4 + 0 1 1$ superimposed with the best-fiting light curves denoting with the red,black and blue lines calculated bsingt typesfal configurations at phases O.6,O.6 and O.75,respectively.All symbols are the same as that ofFigure 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$F _ { \\mathrm { o b s } } = 1 . 0 3$ is consistent with the size of the starspot calculated from $R ^ { \\mathrm { s p } } = 2 7 _ { \\cdot } ^ { \\circ } 7 ( \\pm 0 _ { \\cdot } ^ { \\circ } 7 )$ .Due to the lack of an accretion disk, this irradiation region is much smaller than the typical size of anirradiation region in a CV (Davey & Smith 1992). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7.4.2.ModelWithaDisk ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Since an extra light source is imperative to explain the asymmetrical single-hump modulation, model-1 and model-2 were investigated.All of the adjustable parameters and their uncertain ties are listed in Table 7. $\\dot { M } _ { \\mathrm { r d } }$ is estimated for both models and is given in Table 6.The white dwarf mass of model-1is smaller than the prediction of the average white dwarf mass in a CV with the same orbital period (Ritter & Burkert 1986; Zorotovic et al.2011). $T _ { \\mathrm { w d } }$ from both of the disk models is consistent with $T _ { \\mathrm { w d } }$ from the non-disk model, suggesting that WD1144+O11 does contain a hot white dwarf. The final $\\chi ^ { 2 }$ of the two disk models are almost the same as that of the non-disk model-O.All three models imply an oversized secondary with generally consistent masses and radii. The top left-hand panel of Figure 4 shows that the secondary of model-1 has an extremely high effective temperature,which is over twice the average effective temperature of an M dwarf. Although the secondaryof model-2 agrees witha G9V star based on the MK spectral classes $( \\mathbf { C o x } \\ 2 0 0 0 )$ ，a spectral type of G9V contradicts with our spectrum. Compared with the Gaia distance of WD1144+011listed in Table 4,both $L _ { \\mathrm { r d } }$ for the model-1 and model-2 are too large.Hence，the consistency of the effective temperature may be only coincidental. To recheck the deviations in $T _ { \\mathrm { r d } }$ in model-1 and model-2, $T _ { \\mathrm { r d } }$ was fixed to be $3 5 0 0 \\mathrm { K }$ in line with the secondary temperature found using model-O. However,no convergent solution could be obtained.In spite of $L _ { \\mathrm { r d } } > L _ { \\mathrm { w d } } + L _ { d } ,$ irradiation was still included in these models. Like model-O, the light curves calculated with and without irradiation for the two disk models only show small discrepancies around phases O.5 and O.O.Both calculated $F _ { \\mathrm { i r r } }$ are far larger than $F _ { \\mathrm { o b s } }$ .This means that the assumed large irradiation of the secondary is not supported by the $K 2$ data.Compared with the pre-CV configuration obtained from model-O, the two models with anaccretion disk are not convincing.As such,our modeling based on the $K 2$ phased light curve provides further evidence for the classification of $\\mathrm { W D } 1 1 4 4 \\mathrm { + } 0 1 1$ as a detached pre-CV system. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f67cf011a40d94a9afdb62d0e5473f084aa034da8901c47f2e691687a358f77.jpg",
+        "table_caption": [
+            "Table 7 ThreePhotometric Solutions for the Pre-CVWD1144+011 ",
+            "Note.All footnotes are the same as those of Table 5. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Parametersa</td><td colspan=\"3\">WD 1144+011</td></tr><tr><td>Model typeb</td><td>Model-0irr</td><td>Model-1</td><td>Model-2</td></tr><tr><td colspan=\"4\">Orbit</td></tr><tr><td>qorb(Mrd/Mwd)</td><td>0.49(2)</td><td>0.99(2)</td><td>0.92(9)</td></tr><tr><td>iorb (degree)</td><td>14.3(4)</td><td>17.7(4)</td><td>26.3(6)</td></tr><tr><td colspan=\"4\">White dwarf</td></tr><tr><td>Mwd(M)</td><td>1.11(8)</td><td>0.68(16)</td><td>0.9(2)</td></tr><tr><td>Rwd(R)</td><td>0.007</td><td>0.012</td><td>0.009</td></tr><tr><td>Twd</td><td>27.1</td><td>27.0</td><td>25.7</td></tr><tr><td>Lwd</td><td>0.91</td><td>2.5</td><td>1.3</td></tr><tr><td colspan=\"4\">Red dwarf</td></tr><tr><td>Mrd(M)</td><td>0.54(4)</td><td>0.67(16)</td><td>0.8(2)</td></tr><tr><td>Rrd(R)</td><td>0.87</td><td>0.97</td><td>1.03</td></tr><tr><td>Trd</td><td>3.5(1)</td><td>7.44(7)</td><td>5.23(6)</td></tr><tr><td>Ld</td><td>4.1</td><td>100.7</td><td>27.7</td></tr><tr><td colspan=\"4\">Bright starspot on the red dwarf</td></tr><tr><td>θSP (degree)</td><td>38(3)</td><td>：</td><td></td></tr><tr><td>P (degree)</td><td>0.2e</td><td>：</td><td>：</td></tr><tr><td>RsP (degree)</td><td>27.7(7)</td><td>：</td><td>：</td></tr><tr><td>T</td><td>1.097(3)</td><td>：</td><td>：</td></tr><tr><td colspan=\"4\">Accretion disk</td></tr><tr><td>Rin(R)</td><td>：</td><td>0.01d</td><td>0.009d</td></tr><tr><td>Rout(R)</td><td>：</td><td>0.597(5)</td><td>0.808(8)</td></tr><tr><td>Hedge(Ro)</td><td>：</td><td>0.363(8)</td><td>0.176(3)</td></tr><tr><td></td><td>：</td><td>-0.11e</td><td>-0.18(4)</td></tr><tr><td>Ldo</td><td>：</td><td>13.7(±2.7)</td><td>13.5(±2.3)</td></tr><tr><td>Ld</td><td>：</td><td>23.0</td><td>19.4</td></tr><tr><td colspan=\"4\">Hotspot at the edge of the disk</td></tr><tr><td>Tes</td><td>：</td><td>6.50(5)</td><td>5.38(7)</td></tr><tr><td>Sesmid (phase)</td><td>：</td><td>0.623(4)</td><td>0.548(8)</td></tr><tr><td>Seswidth (phase)</td><td>：</td><td>0.41(2)</td><td>0.17(1)</td></tr><tr><td colspan=\"4\">Hotspot on the surface of disk</td></tr><tr><td>Sssmin (phase)</td><td>：</td><td>：</td><td>0.129(6)</td></tr><tr><td>Sssmax (phase)</td><td>：</td><td>：</td><td>0.221(2)</td></tr><tr><td>Rssmin(R)</td><td>：</td><td>：</td><td>0.605(1)</td></tr><tr><td>Rssmax(R)</td><td>：</td><td>：</td><td>0.808e</td></tr><tr><td>Tra</td><td>：</td><td>：</td><td>1.90(4)</td></tr><tr><td>X²</td><td>8.6</td><td>7.9</td><td>8.8</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.1.Synthetic Codes ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Based on the light curve synthesis code XRBinary derived byE.L.Robinson,NMfit was developed to analyze the light curves of the four low-inclination systems: ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ RZ Leo, TW Vir and WD $1 1 4 4 + 0 1 1$ . All of the parameters of the best-fitting models and their uncertainties are estimated by NMfit.Additionally,Phoebe 2.O was used to visualize the configuration of each system using each systems’ best-fitting parameters.Since phase zero is hard to identify in any lowinclination CV system with a double-hump modulation due to the lack of a significant eclipse feature,we tested models that had phase zero located at either the primary or secondary minimum, and we chose the model which matched the observed light curve best.Except for $\\mathrm { W D } 1 1 4 4 { + } 0 1 1$ ，which had a single maximum in its phased orbital light curve,the derived CV models of the other three DN indicate that phase zero should be placed at the secondary minimum. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.2.Physical Models ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For ${ \\mathrm { J 0 6 3 2 } } \\substack { + 2 5 3 6 }$ and TWVir, the best-fit disk models show that the primary hump is mostly due to the hotspot at the edge of the disk,which is a key indicator of mass transfer via the L1 point. Another hotspot on the disk surface can explain the phase difference between the two humps of the double-hump modulations. For WD $1 1 4 4 + 0 1 1$ , the bright starspot representing irradiation of the secondary star is responsible for the modulation seen in the optical light curve. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thelackof anaccretioncurtainin thedisk modelofRZLeo implies that this model may not be appropriate fora comparison with the measured distance by Gaia. The derived physical models of the other three binary systems are consistent with the results from Gaia DR2.The flat power law index of the disk found in all three DN models $( \\xi \\sim - 0 . 1 1 )$ is similar to previous observations (e.g.，Wood & Crawford 1986;Wood et al.1989;Rutkowski et al. 2016) and supports the theory that a quiescent CV disk deviates from the temperature distribution of a typical steady-state disk.Alow-luminosity accretion disk model of RZLeo derived from its $K 2$ light curve further confirms that RZLeo is an IP system with two hotspots on a truncated disk.One of the hotspots on the disk surface contributes a significant fraction of the disk luminosity $( > 9 7 \\%$ of $L _ { d } )$ ，and is located at the inner edge rather than the outer edge of the disk.This may be evidence of an impact region between an inward and overflowing stream and the magnetosphere of the magnetic white dwarf. Compared with RZ Leo, the small hotspot of $\\mathbf { J 0 6 } 3 2 + 2 5 3 6$ and two hotspots of TW Vir covering large phase ranges are only small contributors to the disk luminosity.Our spectrum of WD $\\ l _ { 1 } 1 1 4 4 + 0 1 1$ with a relatively flat continuum and $\\mathrm { H } _ { \\alpha }$ emission supports its previous classification as a ${ \\mathrm { D A } } { + } { \\mathrm { d M e } }$ system (Berg et al. 1992). We note that WD $1 1 4 4 + 0 1 1$ shows different flux levels in the continuumand emission lines.The model light curve based on the asymmetrical single-hump modulation requires an extra light source (i.e.,a weak irradiation region of the secondary rather than a large hotspot at the edge of the disk) to explain the modulation of WD1144+011. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "8.3.TheSecondaries ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The estimated $\\dot { M } _ { \\mathrm { r d } }$ for all four objects are within a range of $1 0 ^ { - 9 } \\sim 1 0 ^ { - 1 2 } M _ { \\odot } \\mathrm { y r } ^ { - 1 }$ . Except for the pre-CV WD 1144 $+ 0 1 1$ ，which contains an oversized secondary,the other three DNhave secondaries in thermal equilibrium with masses and radii conforming to the semi-empirical CV donor sequence (Knigge 2006; Knigge et al. 2011) and MK spectral classes (Cox 2000).The derived effective temperatures of all three DN are significantly higher than predicted.Hence,a DN system containing a substantially hotter secondary may be a common feature rather than a peculiarity. This can be attributed to irradiation of the secondary because $T _ { \\mathrm { r d } }$ calculated from $L _ { \\mathrm { r d } }$ is an average parameter that can be increased by irradiation. Compared with $T _ { \\mathrm { e f f } }$ listed in the Gaia catalog, the lower $T _ { \\mathrm { r d } }$ of the two DN ${ \\bf J } 0 6 3 2 \\substack { + 2 5 3 6 }$ and TW Vir may be due to contamination from a hot white dwarf and disk.This is further supported by the $T _ { \\mathrm { r d } }$ of the pre-CV WD1144+011,which is almost consistent with the Gaia $T _ { \\mathrm { e f f } } .$ It should also be noted that the Gaia temperatures are determined from three broad bandpasses (Andrae etal.2O18) and the DR2 release notes urge caution in using them.18 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Although the double-hump modulation of $\\mathbf { J 0 6 3 2 + } 2 5 3 6$ can be explained by the partial occultation of the irradiation region on the surface of the secondary due to a large disk and a moderate orbital inclination,investigation of irradiation in the other two DN implies that the effect of irradiation in a CV systemis complicated and blended with other modulations.The flux contribution from the secondary of TW Vir is the lowest (i.e., $L _ { \\mathrm { r d } } < L _ { \\mathrm { w d } } + L _ { d } )$ among all four objects.Weak irradiation may exist in the DN TW Vir and the pre-CV WD $1 1 4 4 + 0 1 1$ The former can be further tested by additional light curves obtained when the double-hump variation is evident,while the latter can be further checked by taking a time series of spectra over the course of the complete orbital period of $9 . 8 1 \\mathrm { h r }$ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work was partly supported by CAS Light of West China Program， the Chinese Natural Science Foundation(Nos. 11133007 and 11325315)，and the Science Foundation of Yunnan Province (No.2016FB007). P.S.acknowledges support from NSF grant AST-1514737. M.R.K is funded through a Newton International Fellowship provided by the Royal Society. We acknowledge the support of the staff of the Xinglong $2 . 1 6 \\mathrm { m }$ telescope.This work was partially supported by the Open Project Program of the Key Laboratory of Optical Astronomy,National Astronomical Observatories, Chinese Academy of Sciences.We would like to thank the anonymous referee for their comments and suggestions in improving this paper. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Software:IRAF(Tody1986,1993),XRBinary (v2.4),NMfit (vl.0),Phoebe (v2.0, Prsa et al. 2016). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Appendix A ASimpleCalculationfortheIrradiationEffectofthe Secondary in a Low-inclination CV System ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Assuming that the secondary is a sphere and the irradiation region with a higher effective temperature of $T _ { \\mathrm { i r r } }$ is axisymmetric with the line between the center points of the two component stars,the area of the complete irradiation region $S _ { \\mathrm { i r r } }$ can be calculated by the following formula, ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\mathrm { i r r } } = 2 \\pi R _ { \\mathrm { r d } } ^ { 2 } ( 1 - \\cos \\theta ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed59d96b8deaee64b5ae16de5d77918dbbd4978bbc3b8b04720eb5227fdf31be.jpg",
+        "img_caption": [
+            "Figure 7.This sketch displays an irradiation region of the secondary star with a segment shape.The center of the secondary is at O point. The OM line is located on the orbital plane,while the OS line indicates a plane vertical to the line of sight. $\\theta$ is the half of the opening angle of the irradiation region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { r d } }$ and $\\theta$ are the radius of the secondary and the half opening angle of the irradiation region shown in Figure 7, respectively.Therefore, $\\theta$ should be in a range of $0 \\sim \\pi / 2$ .Due to the projection effect (i.e.，the orbital inclination less than $9 0 ^ { \\circ } )$ ,the orbital modulation of the secondary will cause the fraction of the irradiation region seen by an observer to vary over the orbital period. The total flux at an orbital phase $\\phi$ can be described as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\phi } = A _ { \\mathrm { i r r } } ^ { \\prime } ( \\phi ) \\sigma T _ { \\mathrm { i r r } } ^ { 4 } + [ 2 \\pi R _ { \\mathrm { r d } } ^ { 2 } - A _ { \\mathrm { i r r } } ^ { \\prime } ( \\phi ) ] \\sigma T _ { \\mathrm { s t a r } } ^ { 4 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { \\mathrm { i r r } } ^ { \\prime } ( \\phi )$ and $T _ { \\mathrm { s t a r } }$ are the visible area of the irradiation region at the phase $\\phi$ and the effective temperature of the unirradiated part of the secondary，respectively.Note that Equation (5） never considers the occultation of irradiation region by the white dwarf or the disk.In principle, $A _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 0 )$ is the minimum,while $A _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 5 )$ is the maximum.An inspection of Figure 7 indicates that the former can be estimated by the formula, ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 0 ) = \\left\\{ \\begin{array} { l l } { { 2 R _ { \\mathrm { r d } } ^ { 2 } \\int _ { i } ^ { \\theta } \\theta ^ { \\prime } \\cdot \\sin \\psi d \\psi } } & { { \\quad \\theta \\geqslant i } } \\\\ { { 0 } } & { { \\quad \\theta < i } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $i$ and $\\psi$ are the orbital inclination and the second coordinate of the spherical coordinate system,respectively. Moreover, $\\theta ^ { \\prime }$ satisfies the following relation, ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { R _ { \\mathrm { r d } } \\sin \\psi \\cos \\theta ^ { \\prime } } { R _ { \\mathrm { r d } } \\sin i } = \\frac { R _ { \\mathrm { r d } } \\cos \\psi } { R _ { \\mathrm { r d } } \\cos i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "By combining Equations (6) and (7), $A _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 0 )$ can be expressed as, ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 0 ) = \\left\\{ \\begin{array} { l l } { { 2 R _ { \\mathrm { r d } } ^ { 2 } C _ { \\mathrm { i r r } } \\quad } } & { { \\theta \\geqslant i } } \\\\ { { 0 \\qquad } } & { { \\theta < i } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/35f7c83975fe8a7694e45e153559438a4ba7c7c851a84fb762094e1cb08d1111.jpg",
+        "img_caption": [
+            "Figure 8.The optical spectrum of WD $1 1 4 4 + 0 1 1$ covering a wavelength range from $3 9 0 0 \\mathring { \\mathrm { A } }$ to $8 3 0 0 \\mathring { \\mathrm { A } }$ was taken by using the Xinglong $2 . 1 6 \\mathrm { m }$ telescope on 2017 Ianuary 22.The characteristic spectral lines are marked. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { C _ { \\mathrm { i r r } } = \\int _ { i } ^ { \\theta } \\operatorname { a r c c o s } ( \\frac { \\tan i } { \\tan \\psi } ) \\cdot \\sin \\psi \\ d \\psi } \\end{array}$ . Based on $A _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 0 )$ $A _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 5 )$ can be expressed as, ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 5 ) = \\left\\{ \\begin{array} { l l } { A _ { \\mathrm { i r r } } - A _ { \\mathrm { i r r } } ^ { \\prime } ( 0 . 0 ) \\quad } & { \\theta \\geqslant i } \\\\ { A _ { \\mathrm { i r r } } } & { \\theta < i } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Byusing Equation (5),the flux ratio between the phases O.5 and 0.0 (i.e., $F _ { \\mathrm { i r r } } = f _ { 0 . 5 } / f _ { 0 . 0 } )$ can be calculated for a given $\\theta .$ Based on the normalized area of the irradiation region, $S _ { \\mathrm { i r r } } = A _ { \\mathrm { i r r } } / A _ { \\mathrm { s t a r } }$ (i.e., cos $\\theta = 1 - 2 S _ { \\mathrm { i r r } } )$ ， $F _ { \\mathrm { i r r } }$ can be described as, ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { F _ { \\mathrm { i r r } } } \\\\ & { = \\left\\{ \\begin{array} { l l } { \\displaystyle ( \\pi - 2 \\pi S _ { \\mathrm { i r r } } - C _ { \\mathrm { i r r } } ) T _ { \\mathrm { s t a r } } ^ { 4 } + ( 2 \\pi S _ { \\mathrm { i r r } } - C _ { \\mathrm { i r r } } ) T _ { \\mathrm { i r r } } ^ { 4 } } & { \\theta \\geqslant i } \\\\ { \\displaystyle ( \\pi - C _ { \\mathrm { i r r } } ) T _ { \\mathrm { s t a r } } ^ { 4 } + C _ { \\mathrm { i r r } } T _ { \\mathrm { i r r } } ^ { 4 } } & \\\\ { \\displaystyle ( 1 - 2 S _ { \\mathrm { i r r } } ) \\left[ \\frac { T _ { \\mathrm { i r r } } } { T _ { \\mathrm { s t a r } } } \\right] ^ { 4 } - 2 ( 1 + S _ { \\mathrm { i r r } } ) } & { \\theta < i } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The relations of $F _ { \\mathrm { i r r } }$ versus $S _ { \\mathrm { i r r } }$ for the three DN and one pre-CV system discussed here are plotted in Figure 5. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Appendix B A New Observed Optical Spectrum of WD 1144+011 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A 1.8 arcsec slit and the G4 grating with a low resolution of 1953 (i.e., $2 . 9 7 \\mathring { \\mathrm { A } } \\mathrm { ~ p i x e l } ^ { - 1 } .$ ） was used with an exposure time of $1 8 0 0 \\mathrm { s }$ Flux standards and FeAr lamps were used along with IRAFl9 reductions to produce the final calibrated spectrum shown in Figure 8. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This spectrum is dominated by a strong and fairly broad $\\mathrm { H } _ { \\alpha }$ emission line and several molecular absorption bands (e.g., $\\mathrm { M g H } 5 2 1 1 \\mathring \\mathrm { A }$ and $\\mathrm { C a H } 6 3 5 8 \\mathring { \\mathrm { A } } ;$ ,and is similar to the previous spectrum obtained by Berg et al. (1992). Thus,our spectrum supports the previous spectral classification of WD $1 1 4 4 + 0 1 1$ derived by (Berg et al. 1992). An active $\\mathbf { M }$ star can show variable $\\mathrm { H } _ { \\alpha }$ in emission.However, our spectrum shows a flatter blue continuum with a higher red flux level. The measured average equivalent width of $\\mathrm { H } _ { \\alpha }$ is close to $1 0 0 \\mathring { \\mathrm { A } }$ ,although this line is difficult to measure accurately due to the uncertainty of the continuum.It is clear from both our spectrum and that of Berg et al.(1992) that there is no prominent blue continuum from a hotwhite dwarf or disk and thattheBalmer linesare in emission and of variable strength.The changes in flux levels between our spectrum and the spectrum presented in Berg et al. (1992) could be due to phase differences when the two spectra were taken. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ORCIDiDs ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Zhibin Dai (戴智斌) $\\textcircled{1}$ https: //orcid.org/0000-0002-4280-   \n6630   \nPaula Szkody $\\textcircled{1}$ https: //orcid.org/0000-0003-4373-7777   \nMark Kennedy $\\textcircled{1}$ https://orcid.org/0000-0001-6894-6044   \nJie Su (苏杰) $\\textcircled{1}$ https://orcid.0rg/0000-0001-7566-9436   \nPeter M.Garnavich $\\textcircled{1}$ https://orcid.org/0000-0003-4069-2817 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Andrae,R.,Fouesneau,M.,Creevey,O.,etal.2018,A&A,616,A8   \nBailey,J.,& Cropper,M.1991,MNRAS,253,27   \nBailey，J.，Wickramasinghe,D.T.，Hough，J.H.，& Cropper,M.1988,   \nMNRAS, 234, 19   \nBakowska,K.,& Olech,A.2015,AcA,65,351   \nBerg,C.,Wegner,G.,&Foltz,C.B.1992,ApJS,78,409   \nBessell,M.S.,Castelli,F.,&Plez,B.1998,A&A,333,231   \nBruch,A.1996,A&A,312,97   \nCasagrande,L.,&VandenBerg,D.A.2014,MNRAS,444,392   \nCook,M. C., & Waner,B.1984,MNRAS,207,705   \nC6rdova,H.,& Mason,K.O.1982,ApJ,260,716   \nCox,A.N.2Ooo,Allen's Astrophysical Quantities (Springer-Verlag:AIP Press)   \nDai,Z.B.,&Qian,S.B.2010a,PASJ,62,965   \nDai,Z.B.,Qian, S.B.,Fernändez Lajus,E.,& Baume,G.L.201Ob,MNRAS,   \n409,1195   \nDai, Z.B.,Qian,S.B.,&Li,L.J.2013,ApJ,774,153   \nDai,Z.B., Szkody,P., Garnavich,P.M.,& Kennedy,M.R.2016,AJ,152,5   \nDai,Z.B.,Szkody,P.,Taani,A.,Garnavich,P.M.,& Kennedy,M.2017,   \nA&A,606,45   \nDavey,S.,& Smith,R.C.1992,MNRAS,257,476   \nDubus,G., Otulakowska-Hypka,M.,& Lasota,J.-P.2018,arXiv:1805.02110   \nFan,Z.,Wang,H., Jiang,X.,et al. 2016,PASP,128,115005   \nFang,K.T.1980,Acta Mathematice Applicatae Sinica,3,363   \nFeline,W.J.,Dhillon，V.S.，Marsh,T.R.,& Brinkworth,C.S.2004,   \nMNRAS, 355, 1   \nFlower,P.J.1996,ApJ, 469,355   \nFrank,J.,King,A.,& Raine,D.1992,Accretion Power in Astrophysics   \n(Cambridge:Cambridge Univ.Press)   \nGaia Collaboration,Brown,A.G.A.,Vallenari,A.,et al. 2016,A&A,595,2   \nGaia Collaboration,Brown,A.G.A.,Vallenari,A.,et al.2O18,arXiv:1804.   \n09365   \nGeng,Z.J.2008,MsD thesis,Univ.Beijing Jiaotong   \nGhosh,P.,&Lamb,F.1978,ApJL,223,L83   \nGomez,S.,Mason,P.A.,& Robinson,E.L.2015,ApJ,809,9   \nHamilton,R.T.,Urban,J.A., Sion,E.M.,et al.2007,ApJ,667,1139   \nHellier,C.,Mason,K.O.,Smale,A.P.,et al.1989,MNRAS,238,1107   \nHowell, S.B., Sobeck, C.,Haas,M.,et al.2014,PASP,126,398   \nIshioka,R.,Kato,T., Uemura,M.,et al. 2001,PASJ,53,905   \nKato, T., Imada,A.,Uemura,M.,et al.2OO9,PASJ,61,395   \nKato,T., Uemura,M., Kiyota, S., et al. 2003,PASJ,55,489   \nKennedy,M.R., Callanan,P.,Garnavich,P.M.,et al.2016,AJ,152,27   \nKepler, S. O.,Kleinman,S.J., Nitta,A., et al. 2007,MNRAS,375,1315   \nKhruzina, T. S. 2011,ARep, 55,425   \nKirbiyik,H. 1982,MNRAS,200,907   \nKjurkchieva,D.,Khruzina,T.,Dimitrov,D., et al. 2015,A&A,584,40   \nKnigge, C. 2006,MNRAS,373,484   \nKnigge,C.,Baraffe,I.,& Patterson, J. 2011,ApJS,194,28   \nKorotkiy,S.A.,& Sokolovsky,K.V.2012,ATel,3893,1   \nKrzeminski,W.1965,ApJ,142,1051   \nLasota, J. P. 2001,NewAR, 45,449   \nLinnell,A.P.,DeStefano,P.,& Hubeny,I.2012,PASP,124,885   \nLittlefair, S.P.,Dhillon,V.S., Gänsicke,B.T., et al.2014,MNRAS,443,718   \nLomb,N. 1976,Ap&SS,39, 447   \nLuri,X., Brown,A.G.A., Sarro,L.M.,et al.2018,arXiv:1804.09376   \nMarsh,T.R.1999,ASPC,160,3   \nMasi，G. 2012，vsnet-alert, 14171， htp://ooruri.kusastro.kyoto-u.ac.jp/   \nmailarchive/vsnet-alert/14171   \nMateo,M., Szkody,P.,& Bolte,M.1985,PASP,97,45   \nMcAllister,M. J.,Littlefair, S.P.,Baraffe,I.,et al.2015,MNRAS,451,114   \nMennickent,R.E.,Sterken,C.,Gieren,W.,&Unda,E.1999,A&A,352,239   \nNelder,J.A.,&Mead,R.A.1965,CompJ,308,313   \nO'Connell,D.J.K 1932,BHarO,890,18   \nOhshima, T. 2012,vsnet-alert，14175,http://ooruri.kusastro.kyoto-u.ac.jp/   \nmailarchive/vsnet-alert/14175   \nOrosz,J.A.,& Hauschildt,P.H.2000,A&A,364,265   \nOrosz,J.A.,& Wade,R.A.2003,ApJ,593,1032   \nOsaki,Y.,& Kato,T.2013a,PASJ,65,50   \nOsaki, Y.,& Kato,T.2013b,PASJ, 65,95   \nOsaki, Y.,& Kato,T.2014,PASJ,66,15   \nPala,A.F., Gänsicke,B.T., Townsley,D., et al.2017,MNRAS,466,2855   \nPatterson, J. 1984,ApJS, 54,443   \nPatterson, J. 2005,PASP,117,1204   \nPatterson,J.,Thorstensen,J.R.,Kemp,J.,et al.2003,PASP,115,1308   \nPringle, J.E.1991,ARA&A,19,137   \nPringle,J.E.,& Rees,M.J.1972,A&A,21,1   \nProvencal, J.L., Shipman,H.L.,Hoog,E.,& Thejll,P.1998,ApJ,494,759   \nPrsa,A., Conroy,K.E.,Horvat,M.,et al.2016,ApJS,227,29   \nQian, S.B.,Han,Z.T.,Fernandez-Lajus,E.,et al.2015,ApJS,221,17   \nRatti,E.M.,van Grunsven,T.F.J.,Jonker,P.G.,et al.2O13,MNRAS,   \n428, 3543   \nRitter,H.,&Burkert,A.1986,A&A,158,161   \nRitter,H.,&Kolb,U.2003,A&A,404,301   \nRutkowski，A.，Waniak，W.，Preston，G.，& Pych，W.2016，MNRAS,   \n463,3290   \nScargle, J. D. 1982,ApJ,263,835   \nShafter,A.W.1983,PhD thesis,Univ.California   \nShafter,A.W.,& Szkody,P.1984,ApJ,276,305   \nSion, E. M.1999,PASP,111,532   \nSmak,J.1970,AcA,20,311   \nSmak, J. 1994,AcA,44,45   \nSmith,D.A.,& Dhillon,V.S.1998,MNRAS,301,767   \nStellingwerf,R. F.1978,ApJ,224,953   \nStill,M.,& Barclay,T.2O12,PyKE:Reduction and analysis of Kepler Simple   \nAperture Photometry data,Astrophysics Source Code Library,ascl:1208.004   \nSzkody,P.1985,AJ,90,1837   \nSzkody,P.,Mukadam,A.S., Odette,T.,et al.2017,AJ,153,123   \nTody,D.1986,Proc. SPIE, 627,733   \nTody,D.1993,ASPC,52,173   \nTorczon,V.1989,PhD thesis,Univ.Rice   \nUrban,J.A.,& Sion,E.M.2006,ApJ,642,1029   \nWade,R.A.,& Hubeny,I.1998,ApJ,509,350   \nWarner,B.2Oo3,Cataclysmic Variables (Cambridge:Cambridge Univ.Press)   \nWhite,N.E.,& Stella,L.1988,MNRAS,231,325   \nWood,J.H.,& Crawford,C. S.1986,MNRAS,222,645   \nWood, J.H.,& Horne,K.1990,MNRAS,242,606   \nWood,J.H.,Horne,K.,Berriman,G.,& Wade,R.A.1989,ApJ,341,974   \nZorotovic,M.,Schreiber,M.R.,&Gänsicke,B.T.2011,A&A,536,42 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "Neuroanatomical correlates of individual differences in self-awareness of highly practiced visuomotor skills ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjun Li1, 2#, Zhenglong Lin3#, Ran Tao4, Min $\\mathrm { { X u } } ^ { 5 }$ , Shihong $\\mathrm { K o n g ^ { 1 } }$ , Hong-Yan Bi1, 2, and Yang Yang1, 2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1CAS Key Laboratory of Behavioral Science, Center for Brain Science and Learning Difficulties, Institute of Psychology, Chinese Academy of Sciences, Beijing, 100101, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "²Department of Psychology, University of Chinese Academy of Sciences, Beijing   \n100049, China   \n3College of Electronics and Information Engineering, Shenzhen University, Shenzhen   \n518000,People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4Department of Chinese and Bilingual Studies， The Hong Kong Polytechnic University, Hong Kong, China   \n5Center for Brain Disorders and Cognitive Science, Shenzhen University, Shenzhen 518060, China #Junjun Liand Zhenglong Lin contributed equally to this work \\*Please send correspondence to:   \nYang Yang, Ph. D.   \nInstitute of Psychology, Chinese Academy of Sciences   \nBeijing 100101, China   \nEmail: yangyang@psych.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Metacognition refers to the ability to introspect our cognitive ability, which plays an essential role in guiding and optimizing our activities. However, little is known about metacognitive capacity for highly practiced motor behaviors and its neural correlates. Using structural and functional magnetic resonance imaging (MRI), the present study examined the brain substrates underlying individual differences in self-awareness of handwriting in adults, a highly practiced visuomotor skill. Results showed that adult writers generally overestimate their handwriting skill, which is more pronounced in males relative to females. The extent of overestimation of handwriting quality was positively correlated with grey matter volume in the left fusiform gyrus, right middle frontal gyrus and right precuneus.Moreover, the activation of these regions in a handwriting task was not correlation with self-awareness of handwriting, confirming that the identified connection between brain structures and handwriting selfawareness is independent of task performances. The left fusiform gyrus and right middle frontal gyrus are thought to represent domain-specific brain mechanisms for handwriting self-awareness, while the right precuneus is likely to be a domain-general brain mechanism, suggesting that the ability of introspect practiced visuomotor skills relies on both domain-general and domain-specific brain systems. Together, this study is the first to reveal the neuroanatomical correlates of a highly practiced motor behavior, extending our understanding about the neural basisof human metacognition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: self-awareness, handwriting, individual differences, brain structure ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The capacity to introspectively evaluate the success of cognitive processing is conceptualized as metacognition (Nelson, 199O),which is key to guide and optimal everyday activities (Pouget， Drugowitsch，& Kepecs， 2016; Rosen et al.， 2010). Previous studies have demonstrated that metacognition accuracy substantially varies across individuals (Chen et al., 2011； Stephen M. Fleming, Weil, Nagy, Dolan， & Rees, 2010). Previous lesion studies (Stephen M. Fleming et al., 2014; O & Shany-Ur, 2014） and neuroimaging studies (Bang & Fleming, 2018; Stephen M. Fleming, Huijgen, & Dolan, 2012; Stephen M. Fleming et al., 2010; Molenberghs, Trautwein, Bockler， Singer, & Kanske,2016; Morales, Lau, & Fleming, 2018) have greatly investigated the brain correlates of metacognition for perception and memory, and found that distinct brain systems are recruited to support metacognition in humans, mainly including the anterior prefrontal cortex (Allen et al., 2017; Baird, Smallwood, Gorgolewski, & Margulies, 2013; Fandakova et al., 2017; Stephen M. Fleming et al., 2010; Molenberghs et al., 2016) and precuneus (Allen et al.， 2017; Morales et al., 2018; Ye, Zou,Lau, Hu, & Kwok, 2018). However, despite the anterior prefrontal gyrus has been found to commonly engaged in metacognition across perception and memory domains (Fandakova et al.， 2017; Stephen M. Fleming & Dolan, 2012; Vaccaro & Fleming, 2018)， convergent evidence from lesion studies (Stephen M Fleming, Jihye, Golfinos,& Blackmon, 2014) and neuroimaging studies (Baird et al., 2013; McCurdy et al., 2013; Valk, Bernhardt, Böckler, Kanske, & Singer, 2016; Ye et al.,2018） suggests that different types of metacognition rely on dissociable brain systems. It is plausible that both domain-general and domain-specific fashions coexist in the coupling between brain systems and metacognition (Morales et al., 2018; Vaccaro & Fleming, 2018). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although aforementioned studies have greatly revealed the neural substrates of metacognition for perception and memory, our knowledge about the capacity to introspect our motor skill is relatively scarce. Metacognition is also an essential factor of motor learning efficiency (Simon & Bjork，2Oo1)，and it has been found to contribute to sport expertise (Berti et al., 2Oo5). Some studies, however, showed that individuals have poor insight into their motor capacities (Begue et al., 2O18; Fourneret & Jeannerod，1998；West & Stanovich，1997). Neurologically，an fMRI study demonstrated that confidence judgment of visuomotor performance activated the left precuneus and the posterior middle temporal gyrus (Begue et al.， 2018). Another structural MRI study found that metacognitive sensitivity for visuomotor processing involves a distributed brain network, including the right prefrontal cortex, right anterior insula and right fusiform gyrus (Sinanaj, Cojan, & Vuilleumier, 2O15). These studies primarily show that self-awareness of motor skills is associated with prefrontal cortex, sensorimotor and visual networks. However, the motor tasks used previously are completely novel for participants, and thus it remains unknown whether people can accurately introspect the motor skill that has been highly practiced. Despite infant studies shows that metacognition is a genetically inherited capacity in human (Goupil, Romand-Monnier, & Kouider, 2016), learning or experience has been postulated as a vital origin of metacognition (Heyes,Bang,Shea, Frith，& Fleming,2O20). For example, task experience has been found to support the evaluation of sensory evidence during confidence judgment of task performances (Shadlen & Shohamy, 2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Handwriting is a visuomotor skill, and individuals need to go through a long-term period of practice under natural context before becoming a skilled writer (Palmis, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Danna, Velay, & Longcamp,2O17), thus offering a unique opportunity to examine the neural correlatesassociated with metacognition for practiced motorskills. Handwriting requires the retrieval of appropriate visual forms and the execution of specific motor programs. Previous lesion studies (Alexander, Friedman, Loverso,& Fischer, 1992; Anderson, Damasio,& Damasio, 1990; Rapcsak & Beeson, 2004) and neuroimaging studies (Longcamp et al.， 2O14； Planton, Jucla, Roux, & Démonet, 2013;Purcell, Turkeltaub,Eden,& Rapp,2011; Rapp & Dufor, 2011) have illustrated that the left superior frontal sulcus, premotor cortex, inferior/superior parietal sulcus, the fusiform gyrus and cerebellum are implemented in different processig components of handwriting (Planton et al., 2013; Purcell et al., 2011). However, no prior study has examined the neural correlates of handwriting self-awareness in skilled writers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The present study was sought to identify brain structures associated with individual differences in metacognitive judgment of handwriting in adults who have sufficient handwriting experience.Using a voxel based morphometry(VBM) analysis,brain structures related to self-awareness of handwriting quality and speed were explored, which were quantified by the discrepancy between self-report and objective measures. First, given the coupling between brain anatomy and metacognition is in a domainspecific fashion (Morales et al.,2018; Ye et al., 2018), we expected to detect some unique brain regions linked to individual differences in handwriting self-awareness. For example,according to the finding that motor self-awareness relies on the brain regions supporting for the function that is monitored (Berti et al., 2Oo5), visual and motor regions necessary for handwriting are hypothesized to be involved. Second, the anterior and dorsal prefrontal cortex have been implicated to be a domain-general brain mechanism of metacognition (Stephen M. Fleming & Dolan, 2012; Stephen M. Fleming et al., 2O1O),and therefore they would also covaries with the variations of handwriting awareness. Finally, task performance is a critical confounding factor to the connection between metacognition and brain substrates (Stephen M. Fleming et al., 2010; McCurdy et al., 2013). Thus, we conducted a complementary analysis to examine whether the intersubject variations of handwriting self-awareness impact brain activation in a real handwriting task. The rationale is that provided the regions identified bybrain structure-behavior correlation analysisarespecificto metacognition, the activation of these regions during handwriting task would not be correlated with self-awareness scores. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Participants ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fifty-one adults participated in this study (26 males,mean age $\\mathfrak { s } = 2 2 . 2 9 \\$ years). All participants were right-handed as evaluated by a handedness inventory (Snyder & Harris，1993). The participants were physically healthy and reported no history of neurological disease or psychiatric disorder. The study was approved by the ethics committee of the Institute of Psychology, Chinese Academy of Sciences，and the methods were carried out in accordance with the approved guidelines. Prior to the experiment, free and informed consent was obtained from each participant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Behavioral measures of handwriting ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Following previous studies (Lahav, Maeir, & Weintraub, 2O14), both handwriting quality and speed were examined. The material for the evaluation of handwriting quality came from a pen-and-paper copying task, in which participants were required to copy 4O Chinese characters with the speed that they used in daily life. The evaluation was based on six dimensions using a 7-point scale ( $1 =$ very bad and $\\ 7 =$ very good), including stroke form, slant, organization of radicals, neatness, average size and overall appearance (Yang et al., 2O2Ob). The final score was the sum of each dimension. Participants and other thirty-one raters were asked to rate handwriting quality, resulting in subjective and objective scores,respectively. The raters have similar handwriting experiences (14 males， mean age $= \\ 2 4 . 6 1$ years） as the participants, and are thus capable of providing reliable evaluation about handwriting quality. Other raters evaluated twice with an interval of 6 months,and the final objective score was the average score of the twice evaluation. The test-retest reliability is high (Cronbach's Alpha $= 0 . 9 7 8 \\$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For handwriting speed, the subjective measure was also based on a 7-point scale ( $1 =$ very slow and $7 =$ very fast),and the objective performance was derived from the average speed (characters/second) in the pen-and-paper copying task. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Handwriting task during fMRI scan ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to examine whether individual differences in self-awareness of handwriting render on the brain activation during real handwriting. Participants were instructed to perform a copying task. Stimuli include thirty characters and fifteen nonsense symbols. One half characters were of familiar “high frequency\"(15oo times per million) and the other half were of non-familiar“low frequency\"( $\\textless 5$ times per millon). A block design was employed, consisting of six blocks of copying characters (three blocks for high- and low-frequency characters,respectively) and three blocks of drawing symbols, in pseudo-random order. In each trial, a $\" + \"$ symbol was first presented visually and centrally for $0 . 3 \\mathrm { ~ s ~ }$ ，followed by presentation of a character stimulus for 1 s and then a response period of 4.7 s. Three blocks of central fixation ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "each with 12 s duration were also interspersed among the task and control blocks as a \"rest” baseline. Detailed information about the experimental design has been reported previously (Yang et al., 2020a; Yang et al., 2018). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We used a tablet system specially developed for use in fMRI experiments to record behavioral data.The tablet system includes a touch-sensitive surface, a force-sensitive stylus and an adjustable support frame, and is MRI-safe without significantly degrading fMRI data quality (Karimpoor et al., 2O18; Tam, Churchill, Strother, & Graham, 2011). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Imaging acquisition ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Imaging was performed using a 3T MRI system (MAGNETOM Prismafit, Siemens, Erlangen, Germany） at the Beijing MRI Center for Brain Research of the Chinese Academy of Sciences. Functional MRI time series data with blood oxygenation leveldependent (BOLD) contrast were acquired using a two-dimensional, ${ \\mit \\mathrm { T } } 2 ^ { * }$ -weighted, gradient-echo echo planar imaging (EPI) sequence (Moeller et al., 201O) (repetition time $\\mathrm { T R } = 1 0 0 0 ~ \\mathrm { m s }$ ，echo time $\\mathrm { T E } = 3 0 ~ \\mathrm { m s }$ ，slices thickness $= 2 . 2 \\ \\mathrm { m m }$ ，in-plane resolution $= 2 . 2 \\ \\mathrm { m m } \\times 2 . 2 \\ \\mathrm { m m }$ , flip angle $\\theta = 4 5 ^ { \\circ }$ , 64 axial slices). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "High spatial resolution anatomical images were acquired using a three-dimensional T1-weighted, magnetization-prepared rapid acquisition gradient echo (MPRAGE) sequence ( $\\mathrm { T R } = 2 2 0 0 ~ \\mathrm { m s }$ ， $\\mathrm { T E } = 2 . 0 8 ~ \\mathrm { m s }$ ， slice thickness $= 1 ~ \\mathrm { m m }$ ， $\\mathrm { T I } = 1 0 0 0 ~ \\mathrm { m s }$ ,inplane resolution $\\cdot = 1 . 0 \\ : \\mathrm { m m } \\times 1 . 0 \\ : \\mathrm { m m }$ and $\\theta = 8 ^ { \\circ }$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Quantification of self-awareness of handwriting ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "First, we performed multiple linear regression analysis to examined the correlation between self-report scores and objective performances for handwriting quality and speed, respectively. For handwriting quality, raw scores were transformed into corrected self-awareness score using the formula: corrected self-awareness $\\mathbf { \\Sigma } =$ (self - others) /((self $^ +$ others)/2),in order to account for the differences in rating or task performances between participants and raters (Clare, Whitaker, & Nelis, 201O). For handwriting speed, the raw scores of subjective and objective measures are heterogeneous, and the former is rank data and the latter is continuous data. To make the two types of data comparable, the raw scores were firstly normalized into a scale from O to 1, based on min-max normalization approach: $ \\mathrm { ; \\mathrm { \\bf { X } _ { n o r m a l i z e d } = ( \\mathbf { X } { - } \\mathbf { X } _ { m i n i m u m } ) / ( \\mathbf { X } _ { m a x i m u m } { - } \\mathbf { X } _ { m i n i m u m } ) . } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally, self-awareness of handwriting quality and speed was determined by the discrepancy between self-report and others' rating or task performances. Positive score indicates overestimation, and negative score indicates underestimation of handwriting skill. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In-scanner performance during fMRI scan ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For behavioral performances during fMRI scan， only handwriting speed was analyzed. Handwritten outputs were produced by an atypical gesture in the scanner, which were not appropriate for quality evaluation. Following previous studies (S. Roux, Mckeeff, Grosjacques, Afonso, & Kandel, 2O13), both handwriting latency and duration were analyzed. Latency was defined from the onset of response stimuli to the beginning of writing/drawing,and duration was defined from the start of the response (first contact with the tablet) to the end of the last written or drawn stroke of the response. In addition, the correlation between self-awareness scores and handwriting latency/duration was computed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VBM analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Preprocessing. VBM analysis of anatomical data was performed using VBM 8 toolbox(VBM8；http://dbm.neuro.uni-jena.de/vbm/）implementedinSPM8 (http://www.fil.ion.ucl.ac.uk/spm/， Wellcome Department of Cognitive Neurology, University College London， London). Using high-dimensional Diffeomorphic Anatomical Registration (DARTEL） approach, raw T1 images were segmented into grey matter (GM), white matter (WM) and cerebro-spinal fluid (CSF),which were then normalized to the standardized Montreal Neurological Institute (MNI) space with $1 . 5 \\times 1 . 5 { \\times } 1 . 5$ mm resolution. The segmented images were modulated by the Jacobian determinants of the wrap field to preserve the original differences in shape before normalization. Finally, the modulated GM images were spatially smoothed with a 6- mm FWHM isotropic Gaussian kernel. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Whole-brain multivariate regression analysis. The preprocessed GM images were entered into a multiple regression model in SPM8 to examine which brain regions were correlated with the variations of handwriting self-awareness. Scores of handwriting self-awareness (both quality and speed), total intracranial volume, age and sex were entered into the model as regressors. An absolute threshold of O.2 was applied in order to circumvent the possible edge effects among tissue types. The statistical threshold was set at voxelwise $\\mathrm { p } < 0 . 0 0 1$ and $\\mathtt { p } < 0 . 0 5$ family-wise error (FWE) corrected at the cluster level. For illustration, the GM density of each region related to handwriting self-awareness was extracted using the MarsBar toolbox (http://marsbar.sourceforge.net/), which were correlate with self-awareness scores. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Region of interest analysis. Regions of interest (ROIs) analysis was also employed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Four regions found to be commonly related to metacognition in previous studies were selected as ROIs, including the left $\\mathbf { \\tilde { X } } = - 2 0$ ， $\\mathrm { y } = 5 3$ ， $z = 1 2$ ， $\\mathbf { \\tilde { X } } = \\mathbf { - } 1 2$ ， $\\mathrm { y } = 5 4$ ， $z = 1 6$ ） and right anterior prefrontal cortex ( $\\mathbf { \\tilde { X } } = 2 4$ 0 $\\mathrm { y } = 6 5$ ， $z = 1 8$ ）， $( \\mathrm { x } = 3 3 , \\mathrm { y } = 5 0 , \\mathrm { z } = 9 )$ right dorsolateral prefrontal cortex $( \\mathrm { x } { = } 3 6 , \\mathrm { y } { = } 3 9 , \\mathrm { z } { = } 2 1 ) ,$ ）and precuneus $( \\mathbf { x } = 6 , \\mathbf { y } = - 5 7 _ { \\mathrm { ; } }$ $z = 1 8$ ， $( \\mathbf { x } = 8$ ， $\\mathrm { y } = \\mathord { - } 6 4$ ， $z = 2 4$ ） (Stephen M. Fleming et al., 2010; McCurdy et al., 2013). Spherical ROIs were created with 6-mm radius. The GM density was extracted from each ROI, which was correlated with self-awareness scores, after controlling for age and sex. The threshold was set as $\\mathbf { p } < 0 . 0 1 2 5$ ，corresponding to $\\mathtt { p } < 0 . 0 5$ after applying the Bonferroni correction for multiple comparisons. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Brain activation analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Preprocessing. Image preprocessing and statistical analyses were conducted using SPM8(http://www.fl.ion.ucl.ac.uk/spm/， WellcomeDepartmentof Cognitive Neurology, University College London, London). The fMRI time series data were first corrected for head motion, and the corrected images were co-registered to the associated anatomical imaging data. The anatomical images were transformed into Montreal Neurological Institute (MNI） stereotactic space， and the resulting transformation parameters were then applied to yield fMRI time series data to be normalized in MNI space with cubic voxels at $2 \\ \\mathrm { m m } \\ \\times \\ 2 \\ \\mathrm { m m } \\ \\times \\ 2 \\ \\mathrm { m m }$ spatial resolution. These images were then spatially smoothed using an isotropic Gaussian kernel template with $6 \\mathrm { m m }$ full-width at half-maximum. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Whole-brain multivariate regression analysis. The general linear model (GLM) method was used to generate activation maps for high-frequency characters, lowfrequency characters and symbols for each participant. The GLM design matrix included the block design time series convolved with a canonical hemodynamic response function. To minimize residual motion artifacts, head movement parameters (estimated with six degrees of freedom during the motion correction step) were included in the design matrix as nuisance covariates. The data were high-pass filtered at $0 . 0 0 8 ~ \\mathrm { H z }$ ， At the first level, handwriting activation maps reporting the contrast between copying characters and symbols were generated for each participant. The individual activation maps of handwriting were then entered into a multiple regression model to examine the brain activation associated with handwriting self-awareness. Participants’ sex and age were included as covariates. The voxel-wise threshold was set at $\\mathfrak { p } < 0 . 0 0 1$ ,and $\\mathtt { p } < 0 . 0 5$ family-wise error (FWE) corrected at the cluster level. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ROI analysis. Brain regions identified by VBM analysis were selected as ROIs. Mean contrast estimates for participants’ copying characters $>$ symbols contrast images were extracted from each ROl, which were correlated with the scores of handwriting self-awareness. The threshold was set at $\\mathtt { p } < 0 . 0 5$ ， applying Bonferroni correction for multiple comparisons. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Behavioral results ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The mean (standard deviation，SD) raw scores of self-report and others’ rating of handwriting quality were 27.24 (6.10) and 23.96 (4.53),which were significantly correlated, after controlling sex and age ( $\\dot { t } ( 4 7 ) = 4 . 4 4$ ， $p < 0 . 0 0 1$ ） (Figure 1A). The corrected self-awareness score of handwriting quality was O.12 (0.24) (Figure 1B), indicating that participants generally overestimated their handwriting quality $( t ( 5 0 ) =$ 3.56, $p \\ < \\ 0 . 0 0 1 \\$ ). The self-awareness of handwriting quality was not normally distributed as evaluated by the Shapiro-Wilk test ( $\\dot { W } = 0 . 9 3$ ， $p = 0 . 0 0 5 \\mathrm { , }$ ). Finally, males showed a higher level of overestimation of handwriting quality than females ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(t(49)=2.298,p=0.026). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The mean raw scores of self-report and task performance of handwriting speed (character/second) were 4.39 (1.06) and 0.4 (0.07). However, self-report score was not significant correlated with task performance, after controlling sex and age ( $( t ( 4 7 ) =$ 1.41, $p = 0 . 1 6 5 \\mathrm { \\AA }$ ） (Figure 1C). After normalization, self-awareness of handwriting speed was 0.17 (0.3) (Figure 1D), suggesting an overall overestimation of handwriting speed $( t ( 5 0 ) = 4 . 0 7$ ， $p < 0 . 0 0 1$ ). The score of self-awareness of handwriting speed follows a normal distribution ( $\\textstyle W = 0 . 9 9$ ， $p = 0 . 9 9 3$ ). No significant sex difference in handwriting speed was found $( \\mathrm { t } ( 4 9 ) { = } 1 . 0 9 \\$ $\\mathrm { p } { = } 0 . 2 8 1 \\$ ） ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Moreover, we found that the correlation between self-awareness of quality and speed was not significant $( t ( 4 7 ) = 1 . 9 0$ ， $p = 0 . 0 6 3$ ), after controlling sex and age, implying that these two factors are independent. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/26b9182789493813afce7ed4c8434d115dba03a8ee884b70d814e9965eb5f11f.jpg",
+        "img_caption": [
+            "Figure 1. Behavioral performances of handwriting. Scatter plots for the correlation between self-report and others’ rating of handwriting quality (A). Distribution of selfawareness of handwriting quality (B). Scatter plots for the correlation between selfreport and task performance of handwriting speed (C). Distribution of self-awareness of handwriting speed (D). "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "VBM results ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Whole-brain regression analysis indicated that GM volume in left fusiform gyrus (peak at $\\mathbf { \\boldsymbol { x } } = - 3 5$ ， $\\scriptstyle \\mathbf { y } = - 5 7$ ， $z { = } { - } 2 0$ , in MNI) extending to the left cerebellum (Figure 2 A), and the right middle frontal gyrus (peak at $\\scriptstyle \\mathbf { X } = 3 3$ ， $\\scriptstyle { \\mathbf { y } = 2 }$ ， $\\scriptstyle { Z = 5 7 }$ ）(Figure 2 B) were positively correlated with self-awareness of handwriting quality, indicating that more GM volume was associated with greater overestimation. However, no brain regions showed significant correlation with self-awareness of handwriting speed. As behavioral analysis revealed sex differences in handwriting self-awareness, sex differences in GM volume in these two regions were examined, but no significant differences were detected: the left fusiform gyrus ( $\\mathrm { \\ t } ( 4 9 ) = - 1 . 1 4$ ， $\\mathrm { p } \\mathrm { = } 0 . 2 6 1$ ）and the right middle frontal gyrus $( \\mathrm { t } ( 4 9 ) = 0 . 5 6$ ， $\\mathbf { p } = 0 . 5 7 7 )$ ！ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ROI analysis indicated that self-awareness of handwriting quality was significantly associated with the volume of the right precuneus (centered on $\\mathbf { x } = 8$ ， $\\mathrm { y } = \\mathord { - } 6 4$ ， $z = 2 4$ $t ( 4 7 ) = 2 . 8 6$ ， $p = 0 . 0 0 6 \\mathrm { \\mathrm { ) } }$ ，after correction for multiple comparisons across all ROIs (Figure 2 C). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Multiple linear regression analysis indicated a significantly positive correlation of GM volume between the left fusiform gyrus and right middle frontal gyrus ( $\\beta = 0 . 4 1$ ,t(47) $= 2 . 0 8$ ， $p = 0 . 0 4 3$ ), between the left fusiform gyrus and the right precuneus $( \\beta = 0 . 2 6$ $t ( 4 7 ) = 2 . 2 1$ ， $p = 0 . 0 3 2 \\mathrm { , }$ ,as well as between the right middle frontal gyrus and the right precuneus $( \\beta = 0 . 3 2 , t ( 4 7 ) = 4 . 5 0 , p < 0 . 0 0 1 )$ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To further explore the relative contributions of each region to the variations of selfawareness of handwriting quality, a stepwise multiple linear regression analysis was conducted. Self-awareness of handwriting quality was included as the dependent variable,and GM density in the left fusiform gyrus, the right middle frontal gyrus, the right precuneus, sex, age, and total intracranial volume were entered as predictors. The result indicated that GM volume of the left fusiform gyrus (regression coefficient $\\beta = 1 . 2 0$ ， $t ( 4 7 ) = 4 . 6 3$ ， $p < 0 . 0 0 1$ ), GM volume of the right middle frontal gyrus $( \\beta =$ 0.83, $t ( 4 7 ) = 4 . 2 6$ ， $p < 0 . 0 0 1$ ） as well as sex $( \\beta = - 0 . 1 6 , t ( 4 7 ) = - 3 . 6 8 , p < 0 . 0 0 1 )$ （204 significantly contributed to the variations of self-awareness of handwriting quality (adjusted $R ^ { 2 } = 0 . 5 6$ ， $F ( 3 , 4 7 ) = 2 2 . 2 9$ ， $p < 0 . 0 0 1$ ).Furthermore,hierarchical linear regression revealed that GM volume of the left fusiform gyrus explained an additional $1 5 \\%$ variance beyond other predictors (adjusted $R ^ { 2 }$ change $= 0 . 1 5 \\mathrm { \\Omega }$ ）and GM volume of the right middle frontal gyrus explained an additional $16 \\%$ variance beyond other predictors (adjusted $R ^ { 2 }$ change $= 0 . 1 6$ ).However, GM volume of the right precuneus made no additional contribution. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c8180036845c72238705d6e1ae2c75e0e46025e7a1bcd74f2c005ec4828de7d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 VBM analysis results.Axial, sagittal and coronal views of the left fusiform gyrus (A), the right middle frontal gyrus (B) and the right precuneus (C), and their corresponding scatter plots for the correlations between gray matter volume and selfawareness of handwriting quality. $\\mathrm { F u G } =$ fusiform gyrus and $\\mathbf { M F G } =$ middle frontal gyrus. $\\mathrm { L } =$ left, $\\mathrm { R } =$ right. $\\mathbf { G M } =$ grey matter. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Brain activation results ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Brain activation analysis showed that copying characters or symbols recruited a large scale of brain networks, involving the bilateral superior/middle/inferior frontal gyrus, superior/inferior parietal lobule, inferior/middle occipital gyrus, fusiform gyrus and cerebellum (Figure3A). Multiple linearregression analysisof behavioral performances indicated that self-awareness of handwriting speed was not significantly correlated with handwriting performance during fMRI scan: latency (high-frequency characters: $t ( 4 7 ) = 0 . 2 6 , p = 0 . 8 0 0$ ; low frequency characters: $t ( 4 7 ) = - 0 . 2 0 , p = 0 . 8 3 9 )$ （204号 and duration (high-frequency characters: $t ( 4 7 ) = 1 . 0 4$ ， $p \\ = \\ 0 . 3 0 4$ ； low-frequency characters: $t ( 4 7 ) = 1 . 6 8 , p = 0 . 0 9 9 )$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Critically, self-awareness of handwriting quality was not significantly correlated with the activation of the left fusiform gyrus (high-frequency characters: $t ( 4 7 ) = - 0 . 2 0 , p =$ 0.845; low-frequency characters: $t ( 4 7 ) = 0 . 5 3$ ， $p = 0 . 5 9 8 \\$ ),the right middle frontal gyrus (high-frequency characters: $t ( 4 7 ) = 1 . 0 6$ 0 $p = 0 . 2 9 4$ ; low-frequency characters: $t ( 4 7 ) = - 0 . 1 9$ ， $p = 0 . 8 4 9 _ { , } ^ { \\cdot }$ ）and the right precuneus (high-frequency characters: $t ( 4 7 ) =$ -0.31, $p = 0 . 7 6 0$ ; low-frequency characters: $t ( 4 7 ) = - 0 . 7 9$ $\\begin{array} { r } { p = 0 . 4 3 4 ) } \\end{array}$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/707142927487b24a3dc172c5c47cd5aaa3939fe911cb1ff5181e8378c24db366.jpg",
+        "img_caption": [
+            "Figure 3 The results of brain activation during handwriting. Lateral review of the brain activation for high-frequency and low-frequency characters (A). Contrast "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "estimates of the left fusiform gyrus,the right middle frontal gyrus and the right precuneus during handwriting task (B). Scatter plots for the correlation between brain activation and self-awareness scores of handwriting quality. $\\mathrm { H F C } = \\mathrm { h i g h }$ frequency characters and $\\mathrm { L F C } = \\mathrm { l o w }$ frequency characters. $\\mathrm { F u G } =$ fusiform gyrus and $\\mathbf { M F G } =$ middle frontal gyrus. ${ \\mathrm { L } } = \\mathrm { l e f t }$ and $\\mathrm { R } =$ right. $^ { * } P < 0 . 0 5$ ， $^ { * * } P < 0 . 0 1$ ， $^ { * * * } P < 0 . 0 0 1$ ： ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The present study examined the association between brain substrates and individual differences in self-awareness of handwriting,a highly practiced visuomotor skill. Behaviorally, we observed a trend of overestimation of handwriting quality and speed, suggesting that people lack the sufficient insight for their highly practiced motor. At the neural level, GM volume of the left fusiform gyrus, right middle frontal gyrus and right precuneus were found to be positively associated with self-awareness of handwriting quality. Moreover, the examination of brain activation confirmed that the correspondences between brain structures and handwriting self-awarenessare independent of task performance. The fusiform gyrus and premotor regions are thought reflect domain-specific brain substrates of metacognition handwriting, while the precuneus represents a domain-general brain basis. Collectively, this study is the first to identify brain mechanisms of self-awareness of highly practiced motor skills, supporting the view that both domain-general and domain-specific brain systems are recruited to support metacognition (Morales et al., 2018; Vaccaro & Fleming, 2018). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Consistent with previous findings in motor (Bégue et al.，2018） and emotional recognition (Bégue et al., 2019a), we found that participants are prone to overestimate their handwriting quality and speed. This result suggests that even though for a highly practiced motor skill， people still lack the ability to accurately estimate their performances. Moreover, we found that males showed higher level of overestimation of handwriting quality than females, consistent with the Dunning-Kruger effect that argues that unskilled people are likely to overestimate their skills (Kruger & Dunning, 1999).Abundant evidence has showed the reduced handwriting ability in males relative to females (Reilly， Neumann，& Andrews，2019；Reynolds，Scheiber, Hajovsky, Schwartz, & Kaufman, 2015; Yang et al., 2020b). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless, we found that self-report of handwriting speed was not correlated with handwriting speed during copying task. Furthermore, we found that no brain regions were identified to be associated with self-awareness of handwriting speed. One possibility is that self-estimation of handwriting speed might not be reliable. Compared to handwriting quality， less cues are available for assessing our handwriting speed, because far less direct feedback about handwriting speed could be obtained in daily life. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The left fusiform gyrus and right middle frontal gyrus were found to be uniquely associated with handwriting quality, which have not been detected in other domains, suggesting that they might be a domain-specific brain substrates of metacognition for handwriting. Both the fusiform gyrus and the right middle frontal gyrus have been found to be activated in a variety of handwriting tasks (Planton et al., 2O13; Sugihara, Diltz,Averbeck,& Romanski, 2006; Yang et al., 2019),and thus we proposed that the self-awareness of handwriting relies on the shared brain networks supporting the primary function that has to be monitored. This interpretation coincides with previous finding of a lesion study showing that the damage of the right premotor areas lead to impairment in self-awareness of motor acts (Berti et al., 2005). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A prior study showed that confidence judgment of visuomotor processing was related to the GM volume of the right fusiform gyrus (Bégue et al.， 2018). However, we found that the left fusiform gyrus was associated with self-awareness of handwriting quality. Such discrepancy might be due to the difference in stimuli type. Selfawareness of handwriting quality in the present study refers to visual real words, while nonsense visual-spatial stimuli were adopted in Bégue et al., study (2018). Specifically, the peak of the left fusiform gyrus $( \\mathrm { x } { = } { - } 3 5 , \\mathrm { y } { = } { - } 5 7 , \\mathrm { z } { = } { - } 2 0 )$ corresponds to the well-known visual word form area (VWFA) (Cohen et al., 2002; Kronbichler et al.,2004),which is thought to specifically house abstract representations of written letters or words in the long-term memory (Dehaene & Cohen, 2011). Functional specificity of VWFA is tuned by increase of visual word experience (Dehaene et al., 2010). Collectively, it is conjectured that handwriting self-awareness relies on the brain substrates for long-term visual representation of words or letters. This hypothesis is accordance with the notion that self-awareness might be associated with learning and experience (Stephen M. Fleming et al., 2O1O). In addition to visual representation, a recent study has pointed that VWFA connects with both language and attentional networks, and it might serve as a neural interface of multimodal cognitive functions (L. Chen et al.，2019). From the standpoint of functional connectivity， it is plausible that the left fusiform gyrus receives attentional information for performing high-level self-monitoring for visual word production. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The right middle frontal gyrus (peak at $\\scriptstyle \\mathbf { X } = 3 3$ ， $\\scriptstyle \\mathbf { y } = 2$ ， $\\scriptstyle { Z = 5 7 }$ ） was found to be positively correlated with self-awareness of handwriting quality. Such right premotor region has been reported to be activated during handwriting (F. E. Roux et al., 2Oo9), particularly when writing with left hand (F. E. Roux et al., 2009; Sugihara et al., 2006). But its specific role in handwriting remains unclear (Planton et al., 2O13). Presumably， it serves the transformation between orthographic and graphomotor codes,as its left counterpart (F. E. Roux et al., 2009). Our findings suggest that the right premotor area might encode the high-level information for introspective evaluation of handwriting quality. This view is favored by the previous findings indicating that the premotor area involves in self-related evaluation for daily activities, cognition and emotion and social function (O & Shany-Ur, 2O14). In a similar vein, a transcranial direct current stimulation (tDCS) study showed that the perturbation of the right premotor area results in the impairment of self-awareness of motor and cognitive skills (Convento, Romano，Maravita,& Bolognini, 2O18). Specifically, aesthetic evaluation of the appearance of handwritten scripts might be an important aspect of self-awareness of handwriting. This hypothesis is supported by a prior fMRI study indicating that the judgment of beauty for language scripts specifically activated motor areas (Zhang, Lai, He, Zhao,& Lai, 2016). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Finally， ROI analysis also indicated that self-awareness of handwriting quality covaries with GM volume of the right precuneus. The right precuneus has been consistently found to be linked to metacognition for memory (Baird et al.,2013; McCurdy et al.， 2013） and perception (Stephen M. Fleming et al., 2010),emotion recognition (Begue et al.， 2019b) and visuomotor (Sinanaj et al.， 2015)，probably representing a domain-general neural substrates for metacognition (McCurdy et al., 2013). Thus, this result implies that domain-general brain systems are also necessary for developing the metacognitive capacity of practiced visuomotorskills. Functionally, both lesion (Simons,Peers,Mazuz, Berryhill, & Olson, 2010) and fMRI studies (Richter, Cooper, Bays,& Simons,2016) have demonstrated that the right precuneus serves the episodic memory retrieval. In the present study, the episodic memory for handwriting processing is necessarily triggered when participants are required to judge the quality of handwriting. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Limitations and further directions ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A caveat of the present study is that brain-behavioral correlation analysis only revealed covariation between brain structures and self-awareness of handwriting, rather than the causal relationship. Further studies are needed to examine whether these brain regions play a causal role in introspecting handwriting skill. Another limitation of the present study is the lack of direct measure on functional activation for the evaluation of handwriting skill. Thus, it remains unknown that these brain regions showing structural correlation with self-awareness of handwriting would be activated during the handwriting evaluation task, since the relationship between VBM and functional activation is not incompletely one-to-one correspondence (Kanai & Rees， 2011). Finally, participants were required to make an off-line judgment on handwriting performances that could be conceived as a retrospective metacognition for handwriting.Thus,our findings might not be generalized to the prospective metacognition for visuomotor skill. Previous studies have demonstrated the dissociation of brain networks between prospective and retrospective metacognition judgments of memory (Stephen M. Fleming & Dolan, 2012; Modirrousta & Fellows, 2008; Pannu & Kaszniak, 2005). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In the present study, the neuroanatomical substrates of handwriting self-awareness were identified, involving the left fusiform gyrus, right middle frontal gyrus and right precuneus. The fusiform gyrus and right motor regions belong to the neural network of handwriting itself, in accordance with view that self-awareness of motor shares brain networks for the monitored function (Berti et al., 20o5). The precuneus might reflect the requirement of domain-general brain substrate for introspecting handwriting skill. This is the first time to reveal the neuroanatomical correlates of individual differences in self-awareness of a highly practiced visuomotor skill, extending our understanding of the neural basis of metacognition. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "References   \nAlexander, M., Friedman, R., Loverso,F.,& Fischer, R.(1992). Lesion localization of phonological agraphia. Brain and Language, 43(1),83-95.   \nAllen,M., Glen, J. C., Mullensiefen,D., Schwarzkopf,D. S., Fardo,F.,Frank,D.,... Rees, G.(2017). Metacognitive ability correlates with hippocampal and prefrontal microstructure. Neuroimage, 149,415-423.doi:10.1016/j.neuroimage.2017.02.008   \nAnderson, S. W., Damasio,A.R.,& Damasio, H. (1990). Troubled leters but not numbers: Domain specific cognitive impairments following focal damage in frontal cortex. Brain, 113(3), 749- 766.   \nBaird,B., Smallwood,J., Gorgolewski, K.J.,& Margulies,D.S. (2013). Medial and lateral networks in anterior prefrontal cortex support metacognitive ability for memory and perception. Journal of Neuroscience, 33(42), 16657-16665. doi:10.1523/JNEUROSC1.0786-13.2013   \nBang,D.，& Fleming, S.M. (2018). Distinct encoding of decision confidence in human medial prefrontal cortex. Proceedings of the National Academy of Sciences of the United States of America, 115(23), 6082-6087. doi:10.1073/pnas.1800795115   \nBegue,I.,Begue,I., Vaessen, M.,Hofmeister, J.,Pereira,M., Schwartz, S.... Vuileumier,P. (2019a). Confidence of emotion expression recognition recruits brain regions outside the face perception network (Vol. 14, pp. 81-95). OXFORD: OXFORD UNIV PRESS.   \nBegue,1.,Begue,I., Vaessen,.,Hofmeister,J.,Pereira,.,chwartz,S.,Vuilleumier,P.(9b). Confidence of emotion expression recognition recruits brain regions outside the face perception network. Social Cognitive and Affective Neuroscience, 14(1)， 81-95. doi:10.1093/scan/nsy102   \nBegue，I.，Blakemore，R.， Klug, J.，Cojan， Y.， Galli， S.， Berney，A.， ．Vuilleumier, P. (2018). Metacognition of visuomotor decisions in conversion disorder. Neuropsychologia, 114, 251- 265. doi:10.1016/j.neuropsychologia.2018.04.018   \nBerti,A., Bottini, G., Gandola, M.,Pia,L., Smania, N., Stracciari,A....Paulesu,E.(2Oo5). Shared Cortical Anatomy for Motor Awareness and Motor Control. Science, 309(5733), 488-491. doi:10.1126/science.1110625   \nChen，Song，and，Ryota，Kanai,and, ．and. (2011). Relating inter-individual differences in metacognitive performance on different perceptual tasks. Consciousness and Cognition.   \nChen,L.,Wassermann, D.,Abrams, D.A., Kochalka, J., Gallardo-Diez, G.,& Menon, V. (2019). The visual word form area (VWFA) is part of both language and attention circuitry. NATURE COMMUNICATIONS,10(1),5601-5612. doi:10.1038/s41467-019-13634-z   \nClare,L., Whitaker, C. J.，& Nelis, S. M. (2010). Appraisal of Memory Functioning and Memory PerformanceinHealthyAgeingandEarly-StageAlzheimer'sDisease.Aging, Neuropsychology, and Cognition, 17(4), 462-491. doi:10.1080/13825580903581558   \nCohen,L.,Lehéricy, S., Chochon,F.,Lemer, C., Rivaud, S.,& Dehaene, S. (2002). Language-specific tuning of visual cortex? Functional properties of the Visual Word Form Area. Brain, 125(5), 1054-1069.doi:10.1093/brain/awf094   \nConvento, S., Romano,D., Maravita,A.,& Bolognini, N. (2018). Roles of the right temporo-parietal and premotor cortices in self-location and body ownership. European Journal of Neuroscience, 47(11), 1289-1302. doi:10.1111/ejn.13937   \nDehaene, S.,& Cohen,L. (2O11). The unique role of the visual word form area in reading. Trends in cognitive sciences, 15(6), 254-262.   \nDehaene,S.,Pegado,F., Braga,L. W., Ventura,P.,Filho, G.N., Jobert,A.,... Cohen,L. (2010). How Learning to Read Changes the Cortical Networks for Vision and Language. Science, 330(6009),1359-1364. doi:10.1126/science.1194140   \nFandakova, Y., Selmeczy, D., Leckey， S., Grimm, K. J., Wendelken, C., Bunge, S. A., & Gheti, S. (2017). Changes in ventromedial prefrontal and insular cortex support the development of metamemory from childhood into adolescence. Proceedings of the National Academy of Sciences of the United States of America, 114(29),7582-7587. doi:10.1073/pnas.1703079114   \nFleming, S. M.,& Dolan,R.J. (2012). The neural basis of metacognitive ability. Philosophical Transactions: Biological Sciences, 367(1594),1338-1349. doi:10.1098/rstb.2011.0417   \nFleming, S.M.,Fleming, S.M., Ryu,J.,Ryu, J., Golfinos, J. G., Golfinos,J. G.,...Blackmon, K.E. (2014). Domain-specific impairment in metacognitive accuracy following anterior prefrontal lesions. Brain, 137(10),2811-2822. doi:10.1093/brain/awu221   \nFleming,S. M.，Huijgen,J.，& Dolan, R. J. (2012). Prefrontal contributions to metacognition in perceptual decisionmaking.JournalofNeuroscience,32(18)， 6117-6125. doi:10.1523/JNEUROSCI.6489-11.2012   \nFleming, S.M., Jihye,R., Golfinos, J. G.,& Blackmon, K.E. (2014). Domain-specific impairment in metacognitive accuracy following anterior prefrontal lesions. Brain A Journal of Neurology(10),10.   \nFleming, S. M., Weil, R. S., Nagy, Z., Dolan,R. J., & Rees, G. (2010). Relating Introspective Accuracy toIndividual Differencesin BrainStructure.Science, 329(5998)， 1541-1543. doi:10.1126/science.1191883   \nFoureret, P.,& Jeannerod, M. (1998). Limited conscious monitoring of motor performance in normal subjects. Neuropsychologia, 36(11),1133-1140. doi:10.1016/S0028-3932(98)00006-2   \nGoupil,L., Romand-Monnier,M.,& Kouider, S. (2016). Infants ask for help when they know they don't know. Proceedings of the National Academy of Sciences of the United States of America, 113(13),3492-3496. doi:10.1073/pnas.1515129113   \nHeyes,C.,Bang, D., Shea, N.,Frith, C.D.,& Fleming, S. M. (2020). Knowing Ourselves Together: The Cultural Origins of Metacognition. Trends in cognitive sciences， 24(5)， 349-362. doi:10.1016/j.tics.2020.02.007   \nKanai,R.,& Rees, G. (2O11). The structural basis of inter-individual differences in human behaviour and cognition. Nature Reviews Neuroscience, 12(4), 231-242. doi:10.1038/nrn3000   \nKarimpoor, M.,Churchil, N.W., Tam, F., Fischer, C.E., Schweizer, T.A.,& Graham, S.J. (2018). Functional MRI of Handwriting Tasks: A Study of Healthy Young Adults Interacting with a Novel Touch-Sensitive Tablet. Frontiers in Human Neuroscience, 12,30.   \nKronbichler,M., Hutzler,F.,Wimmer, H.,Mair, A., Staffen, W.,& Ladurmer,G. (2004). The visual word form area and the frequency with which words are encountered: evidence from a parametric fMRI study. Neuroimage, 21(3), 946-953. doi:10.1016/j.neuroimage.2003.10.021   \nKruger, J.,& Dunning,D. (199). Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments. Journal of Personality and Social Psychology， 77(6),1121-1134. doi:10.1037/0022-3514.77.6.1121   \nLahav,O., Maeir,A.,& Weintraub, N. (2O14). Gender Diffrences in Students' Self-Awarenessof Their Handwriting Performance. The British Journal of Occupational Therapy， 77(12), 614-618. doi:10.4276/030802214X14176260335309   \nLongcamp,M., Lagarrgue,A., Nazarian, B., Roth, M., Anton, J. L., Alario,F. X., & Velay, J.L. (2014).Functional specificity in the motor system: evidence from coupled fMRI and kinematic recordings during leter and digit writing. Human Brain Mapping, 35(12), 6077- 6087.   \nMcCurdy, L.Y.,Maniscalco,B.,Metcalfe,J.,Liu, K.Y.,de Lange,F.P.,& Lau,H. (2013). Anatomical coupling between distinct metacognitive systems for memory and visual perception. Journal of Neuroscience, 33(5), 1897-1906. doi:10.1523/JNEUROSCI.1890-12.2013   \nModirrousta, M.,& Felows,L.K. (2008). Medial prefrontal cortex plays a critical and selective role in ‘feeling of knowing’ meta-memory judgments. Neuropsychologia, 46(12)， 2958-2965. doi:10.1016/j.neuropsychologia.2008.06.011   \nMoeler,S., Yacoub,E., Olman, C.A.,Auerbach,E.， Strupp,J., Harel, N.,& Ugurbil,K.(2010). Multiband multislice GE-EPI at 7 tesla, with 16-fold acceleration using partial parallel imaging with application to high spatial and temporal whole-brain fMRI. Magnetic Resonance in Medicine, 63(5), 1144-1153.   \nMolenberghs,P., Trautwein,F.-M.,Bockler, A., Singer,T.,& Kanske, P. (2016). Neural corelates of metacognitive ability and of feeling confident: a large-scale fMRI study. Social Cognitive and Affective Neuroscience,11(12),1942-1951. doi:10.1093/scan/nsw093   \nMorales, J., Lau, H.,& Fleming, S. M. (2018). Domain-general and domain-specific paterns of activity supporting metacognition in human prefrontal cortex. Journal of Neuroscience, 38(14), 3534-3546. doi:10.1523/JNEUROSC1.2360-17.2018   \nNelson, T. O.(1990). Metamemory: A Theoretical Framework and New Findings. Psychology of Learning and Motivation - Advances in Research and Theory, 26(C), 125-173. doi:10.1016/S0079-7421(08)60053-5   \nO,& Shany-Ur, T. (2O14). Self-awareness in neurodegenerative disease relies on neural structures mediating reward-driven attention. Brain,137(8),2368-2381. doi:10.1093/brain/awu161   \nPalmis,S., Danna, J.， Velay, J.-L.，& Longcamp,M. (2017). Motor control of handwriting in the developing brain: A review. Cognitive Neuropsychology: Special Issue: Developmental Dysgraphia, 34(3-4), 187-204. doi:10.1080/02643294.2017.1367654   \nPannu, J. K.,& Kaszniak,A. W. (2005). Metamemory Experiments in Neurological Populations: A Review. Neuropsychology Review, 15(3), 105-130. doi:10.1007/s11065-005-7091-6   \nPlanton, S., Jucla, M.,Roux,F.-E.,& Demonet, J.-F. (2013). The “handwriting brain\": a meta-analysis of neuroimaging studies of motor versus orthographic processes. Cortex, 49(10), 2772-2787.   \nPouget,A., Drugowitsch, J.，& Kepecs, A. (2016). Confidence and certainty: Distinct probabilistic quantities for different goals. Nature Neuroscience, 19(3),366-374. doi:10.1038/nn.4240   \nPurcell,J., Turkeltaub, P.E., Eden,G.F.,& Rapp, B. (2011).Examining the central and peripheral processes of written word production through meta-analysis.Frontiers in Psychology, 2.   \nRapcsak,S.Z.,& Beeson,P.M. (20o4). The role of left posterior inferior temporal cortex in spelling. Neurology, 62(12),2221-2229. doi:10.1212/01.WNL.0000130169.60752.C5   \nRapp,B.，& Dufor, O. (2011).The Neurotopography of Writen Word Production: An fMRI Investigation of the Distribution of Sensitivity to Length and Frequency. Journal of Cognitive Neuroscience, 23(12),4067-4081. doi:10.1162/jocn_a_00109   \nReilly,D.， Neumann, D.L., & Andrews, G. (2019). Gender diferences in reading and writing achievement: Evidence from the National Assessment of Educational Progress (NAEP). American Psychologist, 74(4), 445-458.   \nReynolds, M. R., Scheiber, C., Hajovsky, D.B.， Schwartz,B.,& Kaufman,A. S. (2015). Gender differences in academic achievement: Is writing an exception to the gender similarities hypothesis? The Journal of genetic psychology, 176(4),211-234.   \nRichter, F. R., Cooper,R.A., Bays,P. M.,& Simons,J. S. (2016). Distinct neural mechanisms underlie thesuccess, precision， andvividnessofepisodicmemory.eLife,5(2016). doi:10.7554/eLife.18260   \nRosen,H.J.,Alcantar,O.,Rothlind,J.,Sturm, V., Kramer, J. H., Weiner, M.,& Miler,B.L. (2010). Neuroanatomical correlatesof cognitive self-appraisal in neurodegenerative disease. Neuroimage, 49(4),3358-3364. doi:10.1016/j.neuroimage.2009.11.041   \nRoux,F.E., Dufor, O., Giussani, C., Wamain, Y., Draper, L.,Longcamp, M.,& Demonet,J.F. (2009). The graphemic/motor frontal area Exner's area revisited. Annals of Neurology, 66(4), 537-545.   \nRoux,S., Mckeeff, T. J., Grosjacques, G., Afonso, O.,& Kandel, S. (2013). The interaction between central and peripheral processes in handwriting production. Cognition, 127(2),235-241.   \nShadlen，Michael N.，& Shohamy,D. (2016). Decision Making and Sequential Sampling from Memory. Neuron, 90(5), 927-939. doi:10.1016/j.neuron.2016.04.036   \nSimon,D.A.,& Bjork, R.A. (2001). Metacognition in Motor Learning. Journal of Experimental Psychology: Learning， Memory, and Cognition， 27(4)， 907-912. doi:10.1037/0278- 7393.27.4.907   \nSimons, J. S.,Peers,P.V., Mazuz, Y. S., Berryhil, M.E.,& Olson, I. R. (2010). Dissociation Between Memory Accuracy and Memory Confidence Following Bilateral Parietal Lesions. Cerebral Cortex,20(2),479-485. doi:10.1093/cercor/bhp116   \nSinanaj,I., Cojan, Y.,& Vuillumier, P. (2015). Inter-individual variability in metacognitive ability for visuomotor performance and underlying brain structures. Consciousness and Cognition, 36, 327-337. doi:10.1016/j.concog.2015.07.012   \nSnyder, P.J.,& Harris,L.J. (1993). HandednessSex,Familial Sinistrality Effects on Spatial Tasks. Cortex,29(1),115-134.   \nSugihara, T., Diltz, M. D.,Averbeck, B. B.,& Romanski, L. M. (2006). Integration of auditory and visual communication information in the primate ventrolateral prefrontal cortex. Journal of Neuroscience, 26(43),11138-11147.   \nTam,F.,Churchill,N. W., Strother, S. C.,& Graham, S.J. (2011). A new tablet for writing and drawing during functional MRI. Human Brain Mapping, 32(2),240-248.   \nVaccaro,A. G., & Fleming, S. M. (2018). Thinking about thinking: A coordinate-based meta-analysis of neuroimaging studies_of metacognitive judgements (Vol. 2， pp. 2398212818810591). London, England: SAGE Publications.   \nValk, S.L.,Bernhardt, B. C., Böckler, A., Kanske,P.,& Singer, T. (2016). Substrates of metacognition on perception and metacognition on higher-order cognition relate to different subsystems of the mentalizing network. Human Brain Mapping, 37(10), 3388-3399. doi:10.1002/hbm.23247   \nWest,R.F.,& Stanovich, K. E. (1997). The domain specificity and generality of overconfidence: Individual diferences in performance estimation bias. Psychonomic Buletin and Review, 4(3), 387-392. doi:10.3758/BF03210798   \nYang,Y., Tam,F., Graham, S.J., Sun, G.,Li,J., Gu, C.,... Zuo, Z. (2020a). Men and women differ in the neural basis of handwriting. Human Brain Mapping. doi:10.1002/hbm.24968   \nYang,Y., Tam,F., Graham, S.J., Sun, G.,Li,J., Gu, C.,... Zuo, Z. (2020b). Men and women differ in the neural basis of handwriting. Human Brain Mapping.   \nYang, Y., Zhang,J., Meng, Z.-1., Qin,L.,Liu,Y.,&Bi, H.-Y. (2018). Neural corelates of orthographic access in Mandarin Chinese writing: an fMRI study of the word-frequency effect. Frontiers in Behavioral Neuroscience, 12, 288.   \nYang,Y., Zuo, Z., Tam,F., Graham, S.J.,Tao,R., Wang, N.,& Bi, H.-Y. (2019). Brain activation and functional connectivity during Chinese writing: An fMRI study. Journal of Neurolinguistics, 51, 199-211.   \nYe, Q., Zou, F.,Lau, H., Hu, Y.,& Kwok, S. C. (2018). Causal evidence for mnemonic metacognition in human precuneus. Journal of Neuroscience, 38(28),6379-6387. doi:10.1523/JNEUROSCI.0660-18.2018   \nZhang,W., Lai, S., He, X., Zhao, X.,& Lai, S. (2016). Neural correlates for aesthetic appraisal of pictograph and its referent: An fMRI study. Behavioural Brain Research, 305,229. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "We thank all the participants who have participated in this study. This work was supported by National Natural Science Foundation of China (No.31800954) and CAS Key Laboratory of Behavioral Science, Institute of Psychology. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Conflict ofInterest Statement ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest ",
+        "page_idx": 27
+    }
+]

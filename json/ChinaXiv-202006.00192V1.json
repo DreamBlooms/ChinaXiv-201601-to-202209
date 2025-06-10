@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "贺兰山区两次极端暴雨动力作用数值模拟分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈晓娟1,2,3，王咏青'，毛璐2³，紀晓玲2,3，邵建2,3,4（1．南京信息工程大学大气科学学院,江苏 南京210044；2．中国气象局旱区特色农业气象灾害监测预警与风险管理重点实验室,宁夏 银川750002；3．宁夏气象防灾减灾重点实验室,宁夏 银川750002；4．银川市气象局,宁夏 银川750002）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用WRF模式地形敏感性试验,结合气流过山理论,研究了贺兰山地形对2016年8月21日 $\\phantom { - } 2 0 1 8$ 年7月22日贺兰山区两次极端暴雨的动力作用机制,结果显示：贺兰山地形对其迎风坡降水的正贡献可达 $57 \\%$ ，对腾格里沙漠降水的负贡献可达 $6 3 . 6 \\%$ ,对银川平原降水的影响取决于回涌作用;贺兰山强降水主要发生在湿Froude 数在0.48～1的情况下;贺兰山通过地形阻挡使气流绕行,影响中小尺度系统的发生发展,从而影响强降水的落区与强度;贺兰山地形可在迎风坡产生 $- 1 4 \\times 1 0 ^ { - 7 } \\ \\mathrm { g } \\ \\cdot \\ \\mathrm { c m } ^ { - 2 } \\ \\cdot \\ \\mathrm { h P a } ^ { - 1 } \\ \\cdot \\ \\mathrm { s } ^ { - 1 }$ 的水汽辐合中心,地形的辐合抬升加强了迎风坡暖湿气流的抬升,增强了高能高湿层的厚度，从而对迎风坡降水有增强作用;狭管效应和喇叭口地形收缩作用使贺兰山主峰东南侧成为强降水易发区。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：暴雨；动力作用；数值模拟；地形；贺兰山；宁夏 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "暴雨与地形关系密切,研究普遍认为[1-7],山脉的迎风坡及喇叭口地形、狭管地形等对强降水有明显增幅作用。Neiman 等[8]发现,加利福利亚沿岸山脉的爬坡气流强度与降水强度的相关系数最大可达0.94。Oldaker等9的研究显示，山脉对台风 $3 0 \\mathrm { ~ h ~ }$ 累积降水量的贡献可高达 $7 5 \\%$ 。因此,地形作用是山区降水研究中的一个重要课题。贺兰山位于西北地区东部，是我国干旱与半干旱大陆性气候的分界线，其东麓是宁夏暴雨高发区之一，西侧则为干旱少雨的腾格里沙漠。以往，对西北地区暴雨的研究很多[10-14],但对贺兰山地形作用的研究却非常少。陈豫英等[15]曾通过分析欧洲中期天气预报中心数值预报模式物理量场，得出贺兰山地形对其东麓暴雨有增强作用。陶林科等[16]通过降水强度数值模拟,认为贺兰山对银川大暴雨有正贡献。宁贵财等[通过模式去地形试验，得出贺兰山对银川平原的降水有加强作用，对腾格里沙漠东部的降水有削弱作用。但这些研究仅对单个个例进行了分析，且仅做了去地形敏感性试验。因此，地形对贺兰山及其周边降水的影响还缺少系统、深入的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Muhlbauer等[18]认为,地形对暖相降水的增幅取决于山脉的宽度和气流的动力条件。胡伯威[19]指出，地形通过使气流受阻影响大气的垂直运动，从而导致降水的触发、加强和持续等，而Froude数$( F _ { \\mathrm { r } } )$ 决定着山脉阻挡作用的强弱。Smolarkiewicz等[20]结合线性非粘性重力波理论,分析山脉对气流的影响得出，低 $F _ { \\mathrm { r } }$ 数情况下，斜压可以在没有粘性边界层条件下形成垂直方向上的背风涡旋，从而影响降水的强度和分布。郭欣等[2I]的研究证明，湿Froude数 $( F _ { \\mathrm { w } } )$ 可以较好地描述地形的动力抬升和地形重力波对降水系统的影响。但地形对暴雨的影响十分复杂，同样的中尺度地形天气背景不同，对暴雨的作用也可能有所不同[22]。而贺兰山为相对孤立的小山脉，非常适合用数值模式模拟的方法进行地形影响研究。因此，本文利用WRF模式地形敏感性试验，结合气流过山理论对 $\\boldsymbol { F } _ { \\mathrm { w } }$ 数进行分析，探讨贺兰山东麓两次极端暴雨过程中，贺兰山地形对暴雨的动力作用机制，以期为贺兰山及其周围干旱区的暴雨预报提供依据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1过程概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 暴雨概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016年8月21日夜间（以下简称） $^ { \\cdot \\cdot } 8 \\cdot 2 1 ^ { \\prime \\prime }$ ）、2018年7月22日夜间（以下简称 ${ } ^ { \\dots } 7 \\cdot 2 2 ^ { \\prime \\prime }$ )，贺兰山东麓遭遇两次罕见特大暴雨，分别引发超 $5 0 \\mathrm { ~ a ~ }$ 一遇和 $5 0 \\sim 2 0 0$ a一遇洪水，自动站观测到的过程当日20:00到次日08：00的最大 $^ { 1 2 \\mathrm { ~ h ~ } }$ 累计降水量分别达$2 3 8 . 1 \\ \\mathrm { m m }$ 和 $2 7 7 . 6 \\ \\mathrm { m m }$ ,最大洪峰流量达 $4 2 0 \\ \\mathrm { m } ^ { 3 }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ~ s ~ } ^ { - 1 }$ 和 $\\mathrm { ~ 1 ~ 5 0 0 ~ m ^ { 3 } ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ （图1）。从自动站观测记录来看，两次过程暴雨及以上量级的降水均出现在贺兰山东麓的迎风坡上，降水大值带呈“东北一西南”向分布，与贺兰山山脉走向高度一致，特大暴雨出现在贺兰山东南侧，最大降水量、最大小时雨强都出现在喇叭口地形的贺兰山滑雪场( $( 3 8 . 7 ^ { \\circ } \\mathrm { N }$ ，$1 0 5 . 9 7 ^ { \\circ } \\mathrm { E }$ )。其中， $^ { \\cdot } 7 \\cdot 2 2 ^ { \\cdot \\prime }$ 过程的降水范围明显大于 $\" 8 \\cdot 2 1 \"$ 过程，但 $\\cdot _ { 8 } \\cdot _ { 2 1 } \\cdot$ 过程降水时间更集中、雨强更强。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c731680cbddda240e0e7551e700e16af84f0bcf311090866a2b8386d59bd74c.jpg",
+        "img_caption": [
+            "图1贺兰山区两次特大暴雨实况 $^ { 1 2 \\mathrm { ~ h ~ } }$ 累计降水量"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Observed $^ { 1 2 \\mathrm { ~ h ~ } }$ accumulative rainfall of two extreme rainstorms in Helan Mountain ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 环流背景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两次过程都是副高西北侧暴雨型，发生暴雨的夜间，副高在西北地区东部有一次进退， $5 0 0 \\ \\mathrm { { h P a } }$ 有冷空气入侵， $7 0 0 \\ \\mathrm { { h P a } , 8 5 0 \\ \\mathrm { { h P a } } }$ 有低涡或切变线影响西北地区东部，贺兰山区位于 $5 0 0 \\ \\mathrm { { h P a } }$ 副高西北侧西南气流 $\\cdot 7 0 0 \\ \\mathrm { h P a }$ 偏南暖湿气流与 $8 5 0 \\ \\mathrm { h P a }$ 东南暖湿气流叠加区，三股气流将东海、南海洋面上的暖湿空气源源不断地输送到贺兰山附近，为暴雨的产生提供了大量的水汽来源。同时，低层偏南气流将暖湿空气输送到中高层干冷空气的下方，形成了上干冷、下暖湿的不稳定层结。其中， $^ { \\ast } 7 \\cdot 2 2 ^ { \\prime \\prime }$ 过程有台风将洋面上的水汽大量聚集并沿副高边缘向北输送， $8 5 0 ~ \\mathrm { h P a }$ 贺兰山东麓的水汽通量辐合较‘ $\\cdot _ { 8 } \\cdot _ { 2 1 } \\cdot \\cdot$ 中过程高 $5 \\times 1 0 ^ { - 7 } \\ \\mathrm { { g } \\cdot \\ c m ^ { - 2 } \\cdot \\ h P a ^ { - 1 } \\cdot \\ s ^ { - 1 } }$ 以上,因此,强降水范围更大一些。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2地形敏感性试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模式简介与试验方案设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选用WRFV3.9中尺度模式，采用NCEP$\\mathrm { F N L } ( 1 ^ { \\circ } \\times 1 ^ { \\circ } )$ 资料作为初始场和边界条件，逐时加入C 波段多普勒雷达资料同化,时间积分步长 $1 5 \\mathrm { ~ s ~ }$ ，水平网格距 $3 \\ \\mathrm { k m } \\times 3 \\ \\mathrm { k m }$ ,微物理过程采用WSM3类简单冰方案，近地面层采用Monin-Obukhov方案，陆面过程采用Noah方案，不使用积云参数化方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为研究贺兰山地形对暴雨过程的影响机制，在不改变其他参数的前提下，设计了4组敏感性试验(表1)。第一组：去除贺兰山地形影响，将 $3 8 ^ { \\circ } \\sim$ $3 9 . 5 ^ { \\circ } \\mathrm { N } \\ 、 1 0 5 ^ { \\circ } \\sim 1 0 7 ^ { \\circ } \\mathrm { E }$ （贺兰山及其延伸山脉所在区域)地形高度大于 $1 \\ 2 0 0 \\ \\mathrm { m }$ 的部分设置为周围平均地形高度 $1 \\ 2 0 0 \\ \\mathrm { m }$ ;第二组：将该区域地形高度大于$1 \\ 2 0 0 \\ \\mathrm { m }$ 的部分降低 $5 0 \\%$ ;第三组：将该区域地形高度大于 $1 \\ : 2 0 0 \\mathrm { ~ m ~ }$ 的部分升高 $5 0 \\%$ ;第四组：将该区域地形高度大于 $1 \\ 2 0 0 \\ \\mathrm { m }$ 的部分升高1倍。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bbb7daa7d7a2da03603c7072f6a9070b6cecee1d02afc97ae7e5c210140c3c2f.jpg",
+        "table_caption": [
+            "表1地形试验方案",
+            "Tab.1The terrain experiments scheme "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验序号</td><td>试验名称</td><td>方案</td></tr><tr><td>1</td><td>CTRL(控制试验)</td><td>模拟真实地形</td></tr><tr><td>2</td><td>TOPO</td><td>去除贺兰山地形</td></tr><tr><td>3</td><td>TOP0.5</td><td>贺兰山地形高度降低50%</td></tr><tr><td>4</td><td>TOP1.5</td><td>贺兰山地形高度升高50%</td></tr><tr><td>5</td><td>TOP2</td><td>贺兰山地形高度升高1倍</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2控制试验结果检验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比CTRL与实况降水量分布图（图1、图2）可知，模式很好地模拟出了两次过程贺兰山沿山的强",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/206ffb2d5e7ef20efe47422e25cd07fd6309854df03206ebaae786aa3d6e5d89.jpg",
+        "img_caption": [
+            "图2两次过程CTRL12h累计降水量（等值线为地形高度，单位： $\\mathbf { m }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 $^ { 1 2 \\mathrm { ~ h ~ } }$ accumulativerainfall of two rainstorms simulated undercontrol experiment(contours indicate terrin height,uits :r降水范围、与山脉走向一致的强降水带形状，以及强降水中心的位置。同时，模式对降水强度的模拟也与实况基本吻合，特别是对贺兰山沿山大暴雨及以上量级降水的模拟整体效果较好，但对银川平原的降水量模拟偏大。 ${ } ^ { \\dots } 7 \\cdot 2 2 ^ { \\prime \\prime }$ 过程,模式在贺兰山西侧腾格里沙漠模拟出一强降水中心，因腾格里沙漠观测站点稀疏，而该区域位于 $7 0 0 ~ \\mathrm { { h P a } }$ 低涡前部，且模式模拟出的 $7 0 0 ~ \\mathrm { { h P a } }$ 低涡系统位置与实况较为一致，因此，考虑该地区可能有未被观测站点捕捉到的强降水中心。此外，模式对风场和温度场的模拟也与实况整体一致。因此，该模拟场较准确地再现了两次暴雨过程的降水分布特征，并很好地模拟出了两次过程的要素变化，模拟得到的数据用于后续分析研究是可行的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3地形的动力作用分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 地形动力作用机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1湿Froude 数的引入Froude数 $\\boldsymbol { F } _ { \\mathrm { r } }$ 可以定量描述气流过山能力，常被用来表述山脉对空气流的阻挡作用[19-21,23]。有研究表明[18],湿流场的动力特征与干空气条件下的地形动力学理论并不完全一致。本文研究的暴雨过程为湿大气过程,因此，引入湿Froude数 $\\boldsymbol { F } _ { \\mathrm { w } }$ 来分析贺兰山地形的动力作用机制,计算公式[21]为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { w } } = { U } / { \\left( \\boldsymbol { N } _ { \\mathrm { w } } \\cdot \\boldsymbol { h } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $U$ 为平均水平气流速度; $h$ 为地形高度； $N _ { \\mathrm { w } }$ 为湿Brunt-Vaisala频率,由下式[21]得出：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { w } } ^ { 2 } = \\frac { \\mathrm { g } } { \\overline { { T } } } ( T _ { \\mathrm { s } } - T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { g }$ 为重力加速度; $\\mathit { \\Pi } _ { \\overline { { T } } } ^ { - }$ 为平均气温; $ { \\boldsymbol { { \\Gamma } } } _ { \\mathrm { s } }$ 和 $\\boldsymbol { \\mathbf { \\mathit { T } } }$ 分别为湿绝热垂直减温率与实际垂直减温率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2贺兰山地形对过山气流的动力作用机制根据气流过山理论[19,21], $F _ { \\mathrm { w } } < 1$ 时,水平气流速度小于地形重力波传播速度，气流遇山以绕行为主；反之，气流以翻越山脉为主。贺兰山南低北高，整体海拔在 $1 ~ 6 0 0 \\sim 3 ~ 0 0 0 ~ \\mathrm { m }$ ,北段海拔 $2 \\ 0 0 0 \\sim 3 \\ 0 0 0 \\ \\mathrm { m }$ ，主峰海拔 $3 5 5 6 \\mathrm { ~ m ~ }$ ,本文以周边平均海拔 $1 \\ 2 0 0 \\ \\mathrm { m }$ 为基数,对于CTRL,选择山体高度为 $8 0 0 \\ \\mathrm { ~ m ~ } , 1 \\ 8 0 0 \\ \\mathrm { ~ m ~ } ,$ （204号$2 \\ 3 5 6 \\ \\mathrm { m }$ 计算 $F _ { \\mathrm { w 1 } } \\setminus F _ { \\mathrm { w 2 } } \\setminus F _ { \\mathrm { w 3 } }$ ,来判断气流翻越贺兰山南段、贺兰山北段和主峰的能力，改变地形高度的4组敏感性试验,按改变后的相应地形高度计算 $F _ { \\mathrm { w l } }$ 、$F _ { \\mathrm { w } 2 } \\ 、 F _ { \\mathrm { w } 3 }$ 。并根据最大降水出现的高度 $h _ { R \\mathrm { { m a x } } }$ ，代入(1)式计算得到气流抬升到该高度时的 $F _ { \\mathrm { w } R \\mathrm { m a x } }$ 。因贺兰山南北长 $2 2 0 ~ \\mathrm { k m }$ ,东西宽 $2 0 \\sim 4 0 ~ \\mathrm { k m }$ ,属于较窄的山脉，此类山脉山的高度对气流受山脉抬升所能达到的高度起决定作用，气流受山脉拾升高度在静力流下可简单估算为[19]： $\\boldsymbol { H } = \\boldsymbol { U } / N _ { \\mathrm { { w } } }$ 。为方便与强降水出现位置对应，将 $H , h _ { \\tiny { R } \\mathrm { { m a x } } }$ 加上 $1 \\ 2 0 0 \\ \\mathrm { m }$ 的基础地形高度，换算成海拔高度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对比各组数值模拟试验对应的 $\\boldsymbol { F } _ { \\mathrm { w } }$ 等参数数值（表2），可以得到以下结论：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）贺兰山出现强降水时 $0 . 4 8 < F _ { \\mathrm { w } R \\mathrm { m a x } } < 1$ ，即贺兰山强降水主要发生在中 $\\boldsymbol { F _ { \\mathrm { w } } }$ 数情况下，气流具备一定的爬坡能力，但地形阻挡作用仍处于优势地位，受地形抬升作用，在迎风坡产生降水。而两次过程CTRL的 $F _ { \\mathrm { w } 1 }$ 相对较大, $F _ { \\mathrm { w } 2 }$ 相对较低， $F _ { \\mathrm { w } 3 }$ 都小于0.5，说明气流翻越贺兰山南段相对较为容易，但北段不易翻越，特别是贺兰山主峰，两次过程气流都只能绕行。因此，贺兰山北段特别是主峰的阻挡对贺兰山强降水的发生起到了重要作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）真实地形下，贺兰山主峰在次峰的北侧，主峰与次峰之间过渡的山谷最高海拔高度在 $2 2 0 0 \\mathrm { m }$ 左右，而两次过程CTRL的 $H$ 均未达到此高度，但在其附近。因此，气流在两峰之间的山谷堆积，贺兰山主峰阻挡造成的气流辐合，山谷的狭管效应，加上山谷脚下喇叭口地形的收窄汇聚作用，使贺兰山主峰东南侧容易成为强降水中心。而TOP2的最大降水都集中在此区域，也表明此区域更易成为强降水中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9c51e2192dfa5a0ca7aa3168f16251416c4995549b7ae5d64910d5a9ee61e70.jpg",
+        "table_caption": [
+            "表2数值模拟试验参数与强降水出现位置",
+            "Tab.2Numerical simulation parameters and position of heavy rainfall "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>暴雨过程</td><td>试验</td><td>U/(m·s-1)</td><td>Fw1</td><td>Fw2</td><td>Fw3</td><td>H/m</td><td>hRmax/m</td><td>FwRmax</td><td>山区强降水位置</td></tr><tr><td>“8·21”</td><td>TOP0.5</td><td>14.88</td><td>2.818</td><td>1. 253</td><td>0.957</td><td>2 327</td><td>1</td><td>1</td><td>1</td></tr><tr><td></td><td>CTRL</td><td>13.42</td><td>1.207</td><td>0.536</td><td>0.410</td><td>2 165</td><td>2800</td><td>0.60</td><td>主峰南侧迎风坡</td></tr><tr><td></td><td>TOP1.5</td><td>11.65</td><td>0.643</td><td>0.286</td><td>0.218</td><td>1972</td><td>2 600</td><td>0.51</td><td>北段迎风坡</td></tr><tr><td></td><td>TOP2</td><td>10.58</td><td>0.403</td><td>0.179</td><td>0.137</td><td>1 845</td><td>2 600</td><td>0.50</td><td>南北段连接处</td></tr><tr><td>“7 ·22”</td><td>TOP0.5</td><td>10.81</td><td>2.502</td><td>1. 112</td><td>0.850</td><td>2201</td><td>1</td><td>1</td><td>1</td></tr><tr><td></td><td>CTRL</td><td>9.75</td><td>0.802</td><td>0.356</td><td>0.272</td><td>1 841</td><td>2000</td><td>0.80</td><td>南段迎风坡</td></tr><tr><td></td><td>TOP1.5</td><td>9.89</td><td>0.522</td><td>0.232</td><td>0.177</td><td>1 826</td><td>2 200</td><td>0.63</td><td>南北段连接处</td></tr><tr><td></td><td>TOP2</td><td>9.94</td><td>0.359</td><td>0.160</td><td>0.122</td><td>1 775</td><td>2 400</td><td>0.48</td><td>南北段连接处</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）根据Smolarkiewicz 等[23和胡伯威[19」的研究结论，当 $F _ { \\mathrm { r } } < 0 . 6 7$ 时,气流流经山体时会停滞并且有向迎风方向逆转的趋势，从而在山体迎风区一侧形成可向上游扩展的死水区（即回涌）。两次过程均满足 $F _ { \\mathrm { w } 2 } \\setminus F _ { \\mathrm { w } 3 }$ 均小于0.67，但 $^ { \\ast } 7 \\cdot 2 2 ^ { \\prime \\prime }$ 过程的$\\boldsymbol { F } _ { \\mathrm { w } }$ 值更小，山脉阻挡作用更强。分析u（风速的经向分量，几乎正交于贺兰山走向)沿最大降水量所在经度的经向垂直剖面图发现，两次过程在靠近山脉的近地层均有死水区，但‘ $9 \\cdot 2 2 ^ { \\cdot \\cdot }$ 过程的回涌明显强于“ $\\cdot 8 \\cdot 2 1 ^ { \\prime \\prime }$ 过程,贺兰山东麓甚至出现了回流,即 $u / U < 0$ 的区域( $U$ 为平均水平气流速度），并向上游银川平原扩展,使风速辐合区从山脉东麓向上游扩展了一定距离，从而使 $^ { \\cdot } 7 \\cdot 2 2 ^ { \\cdot \\prime }$ 过程的强降水范围也从山脉东麓向上游有所扩展，使‘ $\\cdot _ { 7 } \\cdot 2 2 ^ { \\cdot \\prime }$ 过程的强降水区域较 $\\cdot _ { 8 } \\cdot 2 1$ ”范围更大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2贺兰山地形对中小尺度系统的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取两次暴雨过程最强降水出现时刻的流场（图3），分析地形对中小尺度系统的影响，可以发现：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 $\\mathbf { \\boldsymbol { 8 } } \\cdot \\boldsymbol { 2 1 } ^ { \\prime }$ 过程， $8 5 0 ~ \\mathrm { h P a }$ 东南气流流经贺兰山时受地形阻挡发生绕流，分成南北两支，一支向西北方向绕过贺兰山脉,在贺兰山西北侧形成一中尺度气旋；一支向西南方向绕流，在贺兰山东南侧产生沿着贺兰山脉的中小尺度气旋;回涌作用使低空急流在贺兰山迎风坡一侧中断，贺兰山东麓处于山脉东南侧低空急流左前方的低层风速辐合区，有利于贺兰山东麓降水的加强。而降水量分布图上(图4)的降水落区就位于中尺度气旋的东南部、低空急流的北部，且强降水发生在中尺度气旋东南部、低空急流北部与中小尺度气旋活动区的叠加区域。将贺兰山高度降低后，气流翻越山脉能力增强，山脉西侧因绕流形成的中尺度气旋明显减弱，低空急流中断区域明显缩小，贺兰山东南侧的中小尺度气旋也明显减弱，强降水中心由贺兰山东侧迎风坡移至背风坡区域的腾格里沙漠，TOPO原有中小尺度系统均消失，贺兰山东麓的最大降水量减弱了 $3 5 . 1 \\%$ ,腾格里沙漠东部最大降水量增加了 $6 3 . 6 \\%$ 。而山脉高度增高后的情况恰恰相反，中小尺度系统加强，低空急流中断区增大，强降水中心位于贺兰山主峰与次峰之间喇叭口地形的迎风坡上，且强度增强。TOP2贺兰山东麓的最大降水量增加了 $5 6 . 5 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$^ { \\ast } 7 \\cdot 2 2 ^ { \\prime \\prime }$ 过程， $8 5 0 \\ \\mathrm { h P a }$ 河西有一东北－西南向切变线东移影响宁夏北部。一方面，回涌作用使贺兰山东侧形成向银川平原扩展的风场辐合区，从而对银川平原的降水有正贡献;另一方面，东南气流遇山向南绕流，加强了贺兰山南部到中卫一带切变线的强度，使该处切变线移动缓慢，导致降水持续时间延长，造成累积降水量大。降低地形高度后，贺兰山东侧的辐合区明显缩小，贺兰山南部到中卫一带的切变线移速明显加快，贺兰山以东的降水明显减弱，TOPO 贺兰山区与银川平原的最大降水量分别减少了 $5 7 . 1 \\% . 5 0 \\%$ 。地形高度升高后，贺兰山东侧辐合区扩大，且在山脉东南侧产生沿着山脉的中小尺度系统，切变线移速也更加缓慢，贺兰山以东降水强度明显增强，TOP2贺兰山东麓与银川平原最大降水量分别增加了 $3 8 \\%$ 和 $9 8 \\%$ 。同时， $7 0 0 ~ \\mathrm { { h P a } }$ 上,贺兰山西侧腾格里沙漠有一小低涡， $7 0 0 \\ \\mathrm { { h P a } }$ 南风气流遇主峰阻挡，从主峰东北侧绕流，减少了其与低涡外围气流的汇合程度，使低涡强度减弱，从而对腾格里沙漠东部的降水有削弱作用。山脉高度降低(升高）后，低涡明显加强（减弱），对应的腾格里沙漠的降水中心明显增强（减弱），TOP0 腾格里沙漠东部最大降水增加了 $2 6 \\%$ ,TOP2则减小了 $12 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/07c3b1f56b64b7b32728c243f5a5ad00fe956ca4d849f391032bc58215904d1e.jpg",
+        "img_caption": [
+            "图3“ $8 \\cdot 2 1 ^ { \\cdot }$ (左列) $\\because 2 2 ^ { \\prime \\prime }$ (右列) $8 5 0 ~ \\mathrm { h P a }$ 流场和风速 $> 1 2 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 急流区 Fig.3The simulated flow field and the rapid area with the wind speed $> 1 2 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ at $8 5 0 \\ \\mathrm { h P a }$ （204 of $^ { 4 6 } \\cdot 2 1 ^ { \\prime }$ ’（left）and“7·22”(right） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4fea13680ae3357360c6e91876e6f39604fe22b6517a523ac63515fd1e9aafe.jpg",
+        "img_caption": [
+            "图4 $\\cdot _ { 8 } \\cdot 2 1 ^ { \\prime \\prime }$ （左列）、 $\" 7 \\cdot 2 2 \"$ (右列)敏感性试验累计降水量(等值线为地形高度,单位： $\\mathbf { m }$ ）",
+            "Fig.4The simulated rainfall distribution of $\" 8 \\cdot 2 1 \"$ （left）and“ $7 \\cdot 2 2 ^ { \\prime \\prime }$ (right）(contours indicate terrain height，units :m) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由此可见，贺兰山通过地形阻挡造成低层气流绕流，一方面诱发中小尺度系统的发生，另一方面对低层中小尺度系统的发展、维持产生显著影响，从而影响强降水的落区分布。总的来说，贺兰山地形对山脉东麓迎风坡降水有增加作用，对山脉西侧背风坡腾格里沙漠的降水有削减作用,但与以往研究结论[16-17]不同的是,贺兰山对银川平原的影响两次过程并不一致， $\\cdot _ { 8 } \\cdot _ { 2 1 } \\cdot \\cdot$ 过程银川平原的降水受贺兰山地形影响不大，但对于回涌作用较强的 $^ { \\cdot \\cdot } 7 \\cdot 2 2 ^ { \\cdot \\prime }$ 过程，银川平原的降水量明显随贺兰山高度的增加而加强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3物理量场的反映",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "贺兰山为近南北走向，略呈向东南方向收拢的弧形，对低层东南暖湿气流有明显的阻挡、辐合汇聚作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从散度和垂直速度场上来看（图略），地形的辐合抬升作用不仅使贺兰山东麓迎风坡形成低层散度场上的辐合中心，加强了山脉东麓迎风坡的垂直上升气流强度，有利于山脉东麓的降水强度的增强，同时也在山脉两侧制造出多个低层次级环流，从而使降水持续时间延长。随着贺兰山地形高度的降低，$7 0 0 \\ \\mathrm { { h P a } }$ 以下贺兰山东侧的低层辐合中心消失，贺兰山东麓的上升气流明显减弱，低层的次级环流减弱消失;随着贺兰山高度的增加，贺兰山东侧的上升、下沉气流中心值都明显增加，使次级环流的强度明显加强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水汽通量散度场上（图略），受贺兰山地形阻挡，低层暖湿空气在贺兰山迎风坡大量堆积，在贺兰山东南侧形成与山脉高度呈正比的水汽通量辐合大值区，辐合中心在靠近山顶附近。山体高度降低后，贺兰山东南侧低层水汽通量散度辐合中心明显减弱,两次过程的 TOPO,原来中心值达 $- 9 \\times 1 0 ^ { - 7 }$ 、$- 1 4 \\times 1 0 ^ { - 7 } \\ \\mathrm { g } \\ \\bullet \\ \\mathrm { c m } ^ { - 2 } \\ \\bullet \\ \\mathrm { h P a } ^ { - 1 } \\ \\bullet \\ \\mathrm { s } ^ { - 1 }$ 的水汽辐合中心均消失;地形高度升高后，贺兰山东侧形成一条沿着山体倾斜向上伸展的水汽通量散度辐合带，虽然中心值不强，但水汽通量辐合带紧挨着伸展很高的一条水汽通量辐散带，贺兰山山区处于水汽通量散度梯度密集带中。其中， $^ {  } 8 \\cdot 2 1 ^ { \\prime \\prime }$ 过程，TOP1.5最大水汽通量散度梯度处，0.1个纬距内，水汽通量散度由 $1 4 \\times 1 0 ^ { - 7 } \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ c m ~ } ^ { - 2 } \\cdot \\mathrm { ~ h P a ~ } ^ { - 1 } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 过渡到 $- 7 \\times$ $1 0 ^ { - 7 } \\mathrm { \\ : g \\cdot \\mathrm { c m } ^ { - 2 } \\cdot \\mathrm { h P a } ^ { - 1 } \\cdot \\mathrm { \\ : s } ^ { - 1 } }$ ： $^ { \\ast } 7 \\cdot 2 2 ^ { \\prime \\prime }$ 过程,TOP1.5最大水汽通量散度梯度处，0.1个纬距内，水汽通量散度由 $9 ~ \\times ~ 1 0 ^ { - 7 } ~ \\mathrm { \\bf ~ g } ~ \\cdot ~ \\mathrm { c m } ^ { - 2 } ~ \\cdot ~ \\mathrm { h P a } ^ { - 1 } ~ \\cdot ~ \\mathrm { \\bf ~ s } ^ { - 1 }$ 过渡到（204 $- 1 1 \\times 1 0 ^ { - 7 } \\ \\mathrm { g } \\ \\cdot \\ \\mathrm { c m } ^ { - 2 } \\ \\cdot \\ \\mathrm { h P a } ^ { - 1 } \\ \\cdot \\ \\mathrm { s } ^ { - 1 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假相当位温 $\\theta _ { \\mathrm { s e } }$ 场上， $^ {  } 8 \\cdot 2 1 ^ { \\prime \\prime }$ 过程，低层一直维持高能区，且始终为 $\\theta _ { \\mathrm { s e } }$ 随高度减小的不稳定层结，强降水开始前，为很强的上干冷下暖湿的不稳定层结,21日夜间，低层暖湿气流受贺兰山阻挡不断蓄积，之后随着能量锋区移至贺兰山，受地形强迫抬升影响，高能区向中层扩展，强降水开始，此次过程的高能高湿层相当深厚，整层都达到了 $\\theta _ { \\mathrm { s e } } > 3 3 7 \\textrm { K }$ 。当地形高度降低时，低层的能量蓄积减弱，能量锋区梯度减小， $\\theta _ { \\mathrm { s e } }$ 随高度的变化减小，层结的不稳定性减弱。随着地形高度的升高，低层的能量蓄积增强，能量锋区梯度增加，高能区伸展高度更高， $\\theta _ { \\mathrm { s e } }$ 随高度的变化增加，层结的不稳定性增加。‘ $^ { \\cdot } 7 \\cdot 2 2 ^ { \\cdot \\prime }$ 过程，低层的能量没有 $^ { \\ast } 8 \\cdot 2 1 ^ { \\prime \\prime }$ 过程强,22日夜间，一直维持 $\\theta _ { \\mathrm { s e } }$ 随高度减小的不稳定层结，强降水集中在前、后两个时段，中间有一个能量蓄积期。但地形的影响与“ $\\cdot 8 \\cdot 2 1 ^ { \\prime \\prime }$ 一致，地形高度降低(升高)时，贺兰山东南侧低层的能量蓄积减弱（增强），能量锋区梯度减小（增加）， $\\theta _ { \\mathrm { s e } }$ 随高度的变化减小（增加），层结的位势不稳定性减弱（增加）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）贺兰山两次强暴雨过程，地形对山脉东麓迎风坡降水的正贡献达 $3 5 \\% \\sim 5 7 \\%$ ,对其西侧背风坡腾格里沙漠降水的负贡献达 $2 6 \\% \\sim 6 3 . 6 \\%$ ；但因回涌作用强度不同，对银川平原的影响并不一致，$^ { 6 4 } 8 \\cdot 2 1 ^ { \\cdot }$ ”过程无明显影响， ${ } ^ { \\cdots } 7 \\cdot 2 2 ^ { \\cdots }$ 过程正贡献可达$5 0 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）贺兰山强降水主要发生在 $0 . 4 8 < { \\cal F } _ { \\mathrm { w } } < 1$ 的中 $\\boldsymbol { F _ { \\mathrm { w } } }$ 数情况下，贺兰山主峰在地形阻挡中起关键作用;狭管效应和喇叭口地形的收窄汇聚作用使主峰东南侧成为强降水易发区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）贺兰山通过地形阻挡造成绕流对低层中小尺度低值系统的发展与维持有显著影响，从而影响强降水的落区分布。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）地形的辐合抬升形成了两次强暴雨过程，贺兰山迎风坡强度达 $- 9 \\times 1 0 ^ { - 7 } \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ c m ~ } ^ { - 2 } \\cdot \\mathrm { ~ h P a ~ } ^ { - 1 }$ ：$\\mathrm { ~ s ~ } ^ { - 1 }$ 和 $- 1 4 \\times 1 0 ^ { - 7 } \\ \\mathrm { g } \\ \\cdot \\ \\mathrm { c m } ^ { - 2 } \\ \\cdot \\ \\mathrm { h P a } ^ { - 1 } \\ \\cdot \\ \\mathrm { s } ^ { - 1 }$ 的水汽辐合中心，增加了暖湿气流的抬升高度，增强了高能高湿层的厚度，从而对迎风坡降水有增强作用;同时也在山脉两侧制造出多个低层次级环流，从而使降水持续时间延长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Marqunez J,Lastra J,Garca P.Estimation models for precipitation in mountainous regions:The use of GIS and multivariate analysis [J].Journal ofHydrology,2003,270(1-2）:1-11. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]Weisse A K,Bois P.Topographic effects on statistical characteristics of heavy rainfall and mapping in the French Alps[J]. Journal of Applied Meteorology,2001,40(4）:720 -740.   \n[3]Wotling G,Bouvier Ch,Danloux J,et al. Regionalizationof extreme precipitation distribution using the principal components of the topographical environment[J].Journal of Hydrology,20oo,233:86- 101.   \n[4]Basist A,Bell GD,Meentemeyer V.Statistical relationships between topographyand precipitation patterns[J]. Journal of Climate,1994, 7(9) :1305 - 1315.   \n[5]Milbrandt JA,Yau M K.A mesoscale modeling study of the 1996 saguenay flood[J].Monthly Weather Review,2001,129(6）:1419 - 1440.   \n[6］丁一汇.陶诗言先生在中国暴雨发生条件和机制研究中的贡 献[J].大气科学,2014,38(4）:616-626.[Ding Yihui.Contributions of prof.Tao Shiyan to the study of formation conditions and mechanisms of heavy rainfalls in China[J].Chinese Journal of Atmospheric Sciences,2014,38(4） :616 -626.]   \n[7］吴哲珺,包云轩,朱霆,等.长江流域一次大暴雨过程的低空急 流形成和影响机制分析[J].热带气象学报,2019,35（3）：409 -422.[Wu Zhejun,Bao Yunxuan,Zhu Ting,et al. Study on the mechanism of low-level jet ina heavy rainfall in the Yangtze river basin[J]. Journal of Tropical Meteorology,2019,35（3）:409- 422.]   \n[8]Neiman PJ,Ralph F M,White AB,et al.The statistical relationship between upslope flow and rainfall in California's coastal mountains:Observations during CALJET[J]. Monthly Weather Review,2002,130(6):1468-1492.   \n[9]Oldaker G,Liu L,Lin YL. Influences of Appalachian orography on heavy rainfall and rainfall variability associated with the passage of hurricane Isabel by ensemble simulations[J]. Meteorology and Atmospheric Physics,2019,131(3）:329 -350.   \n[10］丁明月,王俐俐,辛渝,等.WRF 云微物理参数化方案对新疆暴 雨模拟能力的TS 评分分析［J].干旱区研究,2019,36（6）： 1411 -1418.[Ding Mingyue,Wang Lili,Xin Yu,et al.TS score of WRF cloud microphysical parameterization scheme to the simulation capability of precipitation in Xinjiang[J].Arid Zone Research,2019,36(6):1411-1418.]   \n[11］殷田园,殷淑燕,李富民.秦岭南北区域夏季极端降水与西太 平洋副热带高压的关系[J].干旱区研究,2019,36(6）：1379－ 1390.［Yin Tianyuan,Yin Shuyan,Li Fumin.Relationship between the summer extreme precipitation in the south and north of the Qinling mountains and the Western Pacific subtropical high[J].Arid Zone Research 2019,36(6）:1379 -1390.]   \n[12］朱岩,左洪超,王士新，等.2012年7月腾格里沙漠2次暴雨过 程诊断分析[J].干旱区研究,2016,33（2）:327－337.［Zhu Yan,Zuo Hongchao,Wang Shixin,et al.Diagnostic analysisof two rainstorms in the Tengger Desert in July,2O12[J].Arid Zone Research,2016,33(2) :327 -337. ] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13］王荣喆，钱莉，钱沛泉.河西走廊东部暴雨气候特征及天气特征[J].干旱区研究,2015,32（1）：102-107.［WangRongzhe,QianLi,Qian Peiquan.Characteristics of rainstorm climatic condi-tionsin theEasternHexi Corridor[J」.Arid Zone Research,2015,32(1) :102 -107. ]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14］王伏村,吴晓京,付双喜,等.敦煌地区\"6·16\"暴雨的热力和 动力特征[J].干旱区研究,2013,30（1）:56-66.[Wang Fucun,Wu Xiaojing,Fu Shuangxi,et al.Analysis on characteristics of a rainstorm occurred in Dunhuang on June 16,2O11[J].Arid Zone Research,2013,30(1) :56-66.] [15］陈豫英,陈楠,任小芳,等.贺兰山东麓罕见特大暴雨的预报偏 差和可预报性分析[J].气象，2018,44（1）：159-169.［Chen Yuying,Chen Nan,Ren Xiaofang,et al.Analysis on forecast deviation and predictability of a rare severe rainstorm along the eastern Helan Mountain[J].Meteorological Monthly,2018,44（1）:159-   \n169.] [16］陶林科,杨侃,胡文东,等.“7·30”大暴雨的数值模拟及贺兰 山地形影响分析[J].沙漠与绿洲气象,2014,8（4):32－39. [Tao Linke,Yang Kan,Hu Wendong,et al.The contribution of Helan Mountain to the formation of a heavy rainstorm occurred over Yinchuan Plain by numerical simulation[J].Desert and Oasis Meteorology,2014,8（4） :32-39.] [17］宁贵财,尚可政,王式功,等.贺兰山对银川一次致灾暴雨过程 影响的数值模拟[J].中国沙漠,2015,35（2）：464-473.［Ning Guicai,Shang Kezheng,Wang Shigong,et al.Numerical simulation of terrain effects of the Helan Mountain on a rainstorm process in Yinchuan,Ningxia,China[J].Journal of Desert Research,2015,   \n35(2) :464 -473.] [18]Muhlbauer A,Lohmann U.Sensitivity studies of the role of aerosols in warm-phase orographic precipitation in different dynamical flow regimes[J]. Journal of the Atmospheric Sciences,2008,65（8）:   \n2522 - 2542. [19］胡伯威.中尺度地形对大气铅直运动和强降水的影响[J].暴 雨灾害,20(1）:8-23.[Hu Bowei.The mesoscale orographic influence on intense percipitaiton[J].Torrential Rain and Disaster,2000(1):8 -23.] [20]Smolarkiewicz P K,Rotunno R.Low Froude number flow past three-dimensional obstacles.Part I:Baroclinically generated lee vortices[J].Journal of the Atmospheric Sciences,1989,46:1154 - 1164. [21］郭欣,郭学良,付丹红,等.钟形地形动力抬升和重力波传播与 地形云和降水形成关系研究[J].大气科学,2013,37（4）：786 - 800.[Guo Xin,Guo Xueliang,Fu Danhong,et al.Relationship between bell-shaped terrain dynamic forcing,mountain wave propagation,and orographic clouds and precipitation[J]. Chinese Journal of Atmospheric Sciences,2013,37(4） :786 -800.] [22]Romero R,Doswell C A,Ramis C.Mesoscale numerical study of two cases of long-lived quasi-stationary convective systems over Eastern Spain[J].Monthly Weather Review,2000,128:3731-   \n3151. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[J].Journal of the Atmospheric Sciences,1990,47：1498-1511.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Numerical simulation analysis of the dynamic effects of terrain on two extreme rainstorms on Helan Mountain ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHEN Xiao-juan1,2.3, WANG Yong-qing1，MAO Lu2,3， JI Xiao-ling2,3， SHAO Jian2,3,4",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1.SchooloftmosphericSiences,NnjingUiversityfIformationSience&Tchology,ajing04,Jangsu,ia;   \n2.KeyLaboratoryforMeteorologicalDisasteronitoringandEarlyWarningandRiskManagementofCharacteristicAgriculture in Arid Regions,China Meteorological Administration,Yinchuan 75oO2,Ningxia,China;   \n3.Ningxia Key Laboratory for Meteorological Disaster Prevention andReduction,Yinchuan750o02,Ningxia,China;   \n4．Yinchuan Meteorological Bureau,Yinchuan 75ooo2,Ningxia,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Two extreme rainstorms which occurred on 21 August 2016and 22 July2018 on Helan Mountain were simulated anda terrain sensitivity experiment was performed usingthe WRF model.The theory of airflow over relief was used to studythe dynamic efects of mountainous terrain.Results show a positive contribution of the Helan Mountain to rainfall of $57 \\%$ along its east region,whereas a negative contribution to rainfall of approximately $6 3 . 6 \\%$ was calculated in the Tengger Desert to the west of the mountain.The impact of the Helan Mountain on the Yinchuan plain depends on surge.Rainstorms in the Helan Mountain usually have a Wet Froude value between 0.48 and1.The mountain forces the airflowaround itsrelief,which affects the development of meso-and microscale weather systems,and further influences the location and strength of rainstorms.A moisture convergence center with $- 1 4 \\times 1 0 ^ { - 7 } \\mathrm { { g } \\cdot \\mathrm { { c m } ^ { - 2 } \\cdot \\ h P a ^ { - 1 } \\cdot \\mathrm { { s } ^ { - 1 } } } }$ can be produced along the east region of the mountain. The convergence and uplift efect of terrain strengthens moistureconvergence and causes the uplift of warm-wet flows onthe windward slope,enhancing the high-energyand high wet layers,which intensifies rainfall.The narrow pipe ffect and bell mouth terrain-induced contraction contribute to the frequency and rapid development of rainstorms southeast of the main peak. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:rainstorm；dynamic efects；numerical simulation； terrain；Helan Mountain； Ningxia",
+        "page_idx": 8
+    }
+]

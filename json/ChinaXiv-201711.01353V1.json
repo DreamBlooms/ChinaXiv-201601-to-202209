@@ -1,0 +1,682 @@
+[
+    {
+        "type": "text",
+        "text": "玉米型饲粮和小麦型饲粮对肉仔鸡生长性能、肉品质、血浆生化指标和脂质代谢的影响！张亚男 王　晶\\*齐　博 张海军\\*\\*武书庚\\*\\* 齐广海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究玉米型饲粮和小麦型饲粮对肉仔鸡生长性能、肉品质、血浆生化指标和脂质代谢的影响。选取健康的1日龄爱拔益加肉仔鸡公雏180只，随机分成2个组，分别采食玉米型饲粮和小麦型饲粮，每组6个重复，每个重复15只鸡。试验期 $4 2 { \\mathrm { ~ d ~ } }$ 。结果表明：与玉米型饲粮相比，饲喂小麦型饲粮的肉仔鸡，1）生长前期（1\\~21日龄）和全期（1\\~42日龄）平均日增重（ADG）显著增加（ $P { < } 0 . 0 5 )$ ，生长前期死亡率显著降低（ $P { < } 0 . 0 5 \\$ ；2)42日龄的腹脂率显著降低（ $_ { \\cdot } P { < } 0 . 0 5 { \\mathrm { : } }$ )；3）42日龄胸肌肌肉的红度（a\\*） $4 5 \\mathrm { \\ m i n }$ 和 $\\mathbf { a } _ { 2 4 \\mathrm { h } } ^ { * }$ 值显著降低（ $P { < } 0 . 0 5 \\mathrm { : }$ ，亮度（ $\\boldsymbol { \\cdot } \\boldsymbol { \\mathrm { L } } ^ { * }$ ） $4 5 \\mathrm { \\ m i n }$ 值增加（ $\\scriptstyle P = 0 . 0 9 6$ )；4）21和42日龄血浆总胆红素含量显著降低（ $P { < } 0 . 0 5 \\$ )；21日龄血浆总蛋白和白蛋白含量显著增加（ $P { < } 0 . 0 5 \\$ )，21日龄血浆谷氨酸氨基转移酶活性显著降低（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ；42日龄血浆尿酸含量显著增加（ $P { < } 0 . 0 5 \\mathrm { : }$ ；5）21和42日龄血浆甘油三酯含量显著降低( $. P { < } 0 . 0 5 .$ );42日龄血浆总胆固醇含量显著降低( $_ { ( P < 0 . 0 5 ) }$ 。由此可见，本试验条件下，与玉米型饲粮相比，小麦型饲粮改善了肉仔鸡的生长性能、脂质代谢和健康状态，降低了腹脂率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：玉米；小麦；肉仔鸡；生长性能；肉品质；血浆指标 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2016-03-28",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：家禽产业技术体系北京市创新团队项目（CARS-PSTP)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：张亚男(1988-),女,山东德州人，博士研究生，从事单胃动物营养研究。E-mail：zyn3299@126.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*同等贡献作者",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*通信作者：张海军，副研究员，硕士生导师，E-mail：fowlfeed $@$ 163.com；武书庚，研究员，硕士生导师，E-mail:wushugeng@caas.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S831 文献标识码： 文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因具有较好的适口性、营养价值和经济效益，作为主要的能量原料，玉米广泛用于畜牧业。但因养殖量增加、进口限制、种植面积压缩、霉变等，使得我国玉米价格波动较大。肉鸡生产中，饲料成本占 $60 \\%$ 以上，充分利用和开发现有饲料资源，可平衡饲粮、降低成本。小麦淀粉含量较高，欧洲、加拿大和澳大利亚等国广泛用于动物饲料；近年来，我国小麦主产区养殖企业也将小麦作为能量饲料。与玉米相比，小麦的能值较低，粗蛋白质、氨基酸、植酸磷和非淀粉多糖含量均较高。因此，研究多围绕小麦型饲粮中酶制剂的应用，且研究表明酶制剂可提高小麦型饲粮的转化效率[1-2]，促进肉仔鸡的肠道发育[3]，调节肠道内微生物结构[4]，减少肠道食糜黏性，促进动物的生长[5]，因此，小麦型饲粮添加一定的酶制剂已广泛应用于生产中。但关于玉米型饲粮和小麦型饲粮对肉仔鸡肉品质、血浆生化指标和脂质代谢影响的对比研究较少。小麦的粗脂肪和色素含量较低，可能影响肉仔鸡的肉品质和血浆生化指标。因此，本试验观察了玉米型饲粮和小麦型饲粮对肉仔鸡生长性能、肉品质、血浆生化指标和脂质代谢的影响，以期为小麦代替玉米的可行性研究提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计及饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用单因子试验设计，从1日龄爱拔益加（AA）肉仔鸡公雏中选取180只体重约44.03g 的健康肉仔鸡，随机分成2组，分别采食玉米型饲粮和小麦型饲粮，每组6个重复，每个重复15只鸡。试验饲粮配制时，玉米、小麦和豆粕首先分别经锤片式粉碎机粉碎，然后单一原料混合均匀，再将各种原料按比例混合制成均匀的配合粉料，配合饲料再经冷压制粒，以颗粒料形式进行饲喂。4层立体网上养殖。试验饲粮（表1）参照NRC（1994）和《鸡饲养标准》（NY/T33—2004)，结合《AA肉仔鸡饲养管理手册》配制。试验期42d。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平(风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f345f465a5b65b7bad25aacb28d8e3d6c283c786dc2a94975cdba70f8508e9b.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of experimental diets (air-dry basis）% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">1~21日龄</td><td colspan=\"2\">22~42日龄</td></tr><tr><td>项目</td><td colspan=\"2\">1 to 21 days of age</td><td colspan=\"2\">22 to 42 days of age</td></tr><tr><td></td><td>玉米型饲粮</td><td>小麦型饲粮</td><td>玉米型饲粮</td><td>小麦型饲料</td></tr><tr><td>Items</td><td>Corn-type</td><td>Wheat-type</td><td>Corn-type diet</td><td>Wheat-typ</td></tr><tr><td></td><td>diet</td><td>diet</td><td></td><td>diet</td></tr><tr><td>原料Ingredient</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corm</td><td>56.36</td><td></td><td>63.48</td><td></td></tr><tr><td>小麦Wheat</td><td></td><td>63.55</td><td></td><td>73.57</td></tr><tr><td>豆粕 Soybean meal</td><td>36.53</td><td>29.50</td><td>29.23</td><td>19.28</td></tr><tr><td>植物油 Vegetable oil</td><td>3.00</td><td>2.83</td><td>3.50</td><td>3.41</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.24</td><td>1.21</td><td>0.72</td><td>0.68</td></tr><tr><td>石粉 Limestone</td><td>1.61</td><td>1.47</td><td>1.67</td><td>1.41</td></tr><tr><td>食盐NaCl</td><td>0.35</td><td></td><td>0.35</td><td>0.35</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td></td><td></td><td></td><td>0.24</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.28</td><td>0.26</td><td>0.30 0.27</td><td>0.47</td></tr><tr><td>L-苏氨酸 L-Thr</td><td>0.10</td><td></td><td>0.15</td><td>0.21</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.10</td><td>0.12</td><td>0.10</td><td>0.10</td></tr><tr><td>非淀粉多糖酶NSPenzyme</td><td></td><td>0.10</td><td></td><td>0.05</td></tr><tr><td>植酸酶Phytase</td><td></td><td>0.05</td><td></td><td>0.01</td></tr><tr><td>维生素预混料 Vitamin premixl)</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.02</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.02</td><td>0.02 0.20</td><td>0.02 0.20</td><td>0.20</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "营养水平 Nutrients levels3) ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/18b7aecf57099f8535077cb64355f8a9297064bfd02d5fd13c1bc4a281cd98fe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>代谢能 ME/(MJ/kg)</td><td>3 000</td><td>3 000</td><td>3100</td><td>3100</td></tr><tr><td>粗蛋白质CP</td><td>21.00</td><td>21.00</td><td>19.00</td><td>19.03</td></tr><tr><td>钙Ca</td><td>1.00</td><td>1.00</td><td>0.90</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.35</td><td>0.35</td><td>0.25</td><td>0.25</td></tr><tr><td>赖氨酸Lys</td><td>1.15</td><td>1.15</td><td>1.05</td><td>1.05</td></tr><tr><td>蛋氨酸 Met</td><td>0.55</td><td>0.55</td><td>0.48</td><td>0.48</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.81</td><td>0.81</td><td>0.78</td><td>0.78</td></tr><tr><td>苏氨酸 Thr</td><td>0.74</td><td>0.74</td><td>0.70</td><td>0.70</td></tr><tr><td>色氨酸Trp</td><td>0.21</td><td>0.21</td><td>0.18</td><td>0.19</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1’维生素预混料为每千克饲粮提供 Vitamin premix provided the following per $\\mathrm { k g }$ of diets:VA 12 500 IU,VD3 2 500 IU，VE 15 IU, $\\mathrm { V K } _ { 3 } 2 . 6 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 6 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 2 5 \\ : \\mathrm { m g }$ 生物素 biotin $0 . 3 5 ~ \\mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 ~ \\mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 2 ~ \\mathrm { m g }$ ，烟酸niacin $5 0 \\mathrm { m g }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2’矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kg of diets : Cu (as copper sulfate) $8 ~ \\mathrm { m g }$ ，Zn (as zinc sulfate) $7 5 ~ \\mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \\mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ，Se (as sodium selenite) $0 . 1 5 \\mathrm { m g }$ ，I(as potassium iodide) $0 . 3 5 \\mathrm { m g }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）营养水平为计算值。Nutrients levels were calculated values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验期间自由采食、饮水，自然光照加人工补光，光照强度为 $3 0 \\mathrm { l x }$ ，1\\~7日龄每天光照$2 4 \\mathrm { h }$ ，8日龄后每天光照 $2 3 \\mathrm { h }$ 。试验前3d室温 $3 3 ^ { \\circ } \\mathrm { C }$ ，此后每周降低 $2 \\ \\mathrm { ^ { \\circ } C }$ ，直到 $2 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 并维持。按照《AA肉仔鸡饲养管理手册》操作，正常防疫和消毒，试验鸡舍通风良好。试验过程中，每日 $2 4 \\mathrm { ~ h ~ }$ 记录鸡舍温度（23.5\\~24.5 $\\mathrm { { } ^ { \\circ } C }$ ）和湿度（ $5 0 \\% { \\sim } 6 0 \\%$ )，清扫卫生，记录死淘",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鸡数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4指标测定与方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1样品采集制备 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别于21和42日龄，每重复随机选取1只体重接近该重复平均值的肉仔鸡，空腹 $1 2 \\mathrm { h }$ 翅静脉采血 $4 ~ \\mathrm { m L }$ ，抗凝管存放， $3 \\mathrm { \\ : \\ : 0 0 0 \\ : \\ : r / m i n }$ （4℃）离心 $1 0 \\ \\mathrm { m i n }$ ，上清液分装于 $0 . 5 ~ \\mathrm { m L }$ Eppendorf管，-20℃保存，待测血浆生化和脂质代谢指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2指标测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2.1生长性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别于1、21和42日龄，以重复为单位称重鸡只及余料，计算平均体重（BW）、平均日增重（ADG）、平均日采食量（ADFI)、料重比（F/G）和死亡率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2屠宰性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "42 日龄时，每个重复选取1只接近平均体重的肉仔鸡，颈静脉放血屠宰，分离得全净膛、胸肌、腿肌和腹脂并称重，按照全国家禽育种委员会的\"家禽生产性能计算方法\"计算全净膛率、胸肌率、腿肌率和腹脂率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 肌肉品质 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "42 日龄屠宰时，剥离肉仔鸡右侧胸肌，称重，测定肌肉pH、肉色、滴水损失、蒸煮损失和剪切力值，参照 Zhang 等的方法进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "pH 测定：分别于屠宰后 $4 5 \\mathrm { m i n }$ 和 $2 4 \\mathrm { h }$ (4℃存放)，利用 $\\mathrm { \\ p H }$ 计（CyberScan pH310 防水笔型，EUTECH公司，新加坡)，将探针刺入待测胸肌约 $1 \\mathrm { c m }$ 深处，测定 $\\mathrm { \\ p H }$ ，计为 $\\mathrm { p H } _ { 4 5 }$ $\\operatorname* { m i n }$ 和 $\\mathrm { p H } _ { 2 4 \\mathrm { h } }$ 。测定时，电极头完全包埋在肉样中，每个样品测定3次，取平均值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肉色测定：分别于屠宰后 $4 5 \\mathrm { m i n }$ 和 $2 4 \\mathrm { h } ( 4 \\mathrm { ~ \\textbar { ~ C ~ } }$ 存放)测定。采用CIE-Lab 评分，用WSC-S型色差计（上海精密科学仪器有限公司，上海）测定待测胸肌的亮度 ${ \\mathrm { ( L } } ^ { * } { \\mathrm { ) } }$ ）、红度（a\\*）和黄度（b\\*）值。每个样品测定3次，取平均值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "滴水损失：屠宰后 $4 5 \\mathrm { m i n }$ 内，称取剪切纹理相似、形状规则的胸肌约 $3 0 \\mathrm { g }$ ，称重（Wi），放置于自封袋中，充入氮气使之膨胀，减少肉样与自封袋内壁的接触，用尼龙绳悬吊于 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 冰箱内，宰后 $2 4 \\mathrm { h }$ 时，取出肉样用滤纸轻轻拭干表面水分再称重（ $W _ { 2 } ^ { ' }$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "滴水损失率 $( \\% ) \\ = [ ( W _ { 1 } - W _ { 2 } ) / W _ { 1 } ] { \\times } 1 0 0 ,$ 0 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蒸煮损失：测定 $2 4 \\mathrm { ~ h ~ }$ 滴水损失后的肉样，重新置于新自封袋中，务必使肉样表面与塑料袋紧贴。将装有肉样的自封袋放入 $8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 水浴中，加热至样品中心的温度达 $7 5 \\ \\mathrm { ~ \\textdegree ~ }$ ，取出，流水冷却至室温。打开自封袋用滤纸轻拭肉样表面的水分后称重（ $W _ { 3 }$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蒸煮损失率（%）=[（ $W _ { 2 ^ { - } } W _ { 3 }$ ） $/ W _ { 2 } ] { \\times } 1 0 0 \\$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "剪切力：将测完蒸煮损失率的肉样，按肌纤维走向修成2块长宽高分别为 $2 \\mathrm { c m } { \\times } 2 \\mathrm { c m } { \\times } 1$ cm 的条形肉样，测定过程中肌纤维走向与刀口垂直。采用TMS-Pro质构仪（弗吉尼亚食品技术有限公司，美国)，参数设置为传感器最大负荷 $1 0 0 \\mathrm { N }$ ，垂直位移速度 $1 5 0 \\mathrm { m m / m i n }$ ，跨度6mm。每个肉样测试3次，取2块肉样的6次测定值的平均值为最终剪切力值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.4血浆生化与脂质代谢指标 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "血浆谷氨酸氨基转移酶（ALT）、天门冬氨酸氨基转移酶（AST)活性及总胆红素（TBIL）、总蛋白（TP）、白蛋白（ALB）、尿酸（UA）、葡萄糖（GLU）及肌酐（CRE）、甘油三酯（TG）、总胆固醇（TC）、高密度脂蛋白胆固醇（HDL-C）、低密度脂蛋白胆固醇（LDL-C）含量，均采用上海科华生物技术有限公司生产的试剂盒，在CHEM-5 型半自动生化分析仪上测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据以平均值 $\\pm$ 标准差表示。采用SPSS16.0软件的 $t$ 检验对2个组进行方差检验和比较，以 $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 玉米型饲粮和小麦型饲粮对肉仔鸡生长性能的影响由表2可知，21和42日龄，小麦型饲粮肉仔鸡的BW 均高于玉米型饲粮（ $\\scriptstyle P = 0 . 1 0 5$ ，${ \\cal P } { = } 0 . 0 6 5$ )。生长前期（1\\~21日龄)，与玉米型饲粮相比，小麦型饲粮肉仔鸡的 ADG 显著增加（ $. P { < } 0 . 0 5 \\$ )，死亡率显著降低（ $. P { < } 0 . 0 5 )$ ，ADFI有增加趋势（ $\\scriptstyle P = 0 . 0 9 0 { \\mathrm { , } }$ )。生长后期（22\\~42日龄)，虽然小麦型饲粮 ADG 和 ADFI均高于玉米型饲粮，但是2种类型饲粮之间肉仔鸡生长性能未见显著影响（ $. P { > } 0 . 0 5 )$ )。生长全期（1\\~42日龄)，与玉米型饲粮相比，小麦型饲粮肉仔鸡的ADG 显著增加（ $. P { < } 0 . 0 5 )$ ，其他生长性能指标无显著差异（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上结果提示，小麦型饲粮可改善肉仔鸡ADG，其他生长性能指标与玉米型饲粮相当。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2玉米型饲粮和小麦型饲粮对肉仔鸡生长性能的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/69e57b1f3a2750c3057b1999fbb9b5976efd904e2ef83efd1986d10e6f846ae3.jpg",
+        "table_caption": [
+            "Table 2Effects of corn-type diet and wheat-type diet on growth performance of broilers "
+        ],
+        "table_footnote": [
+            "1\\~42 日龄 1 to 42 days of age"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>玉米型饲粮</td><td>小麦型饲粮</td><td>P值</td></tr><tr><td>Items</td><td>Corn-type diet</td><td>Wheat-type diet</td><td>P-value</td></tr><tr><td>21日龄体重 BWof 21days of age/g</td><td>914.33±52.57</td><td>967.73±51.22</td><td>0.105</td></tr><tr><td>42 日龄体重 BW of 42 days of age/g</td><td>2 604.64±156.05</td><td>2 787.48±149.45</td><td>0.065</td></tr><tr><td>1~21 日龄 1 to 21 days of age</td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>40.52±1.98b</td><td>43.77±2.28a</td><td>0.025</td></tr><tr><td>平均日采食量 ADFI/g</td><td>54.23±3.06</td><td>58.98±5.38</td><td>0.090</td></tr><tr><td>料重比F/G</td><td>1.34±0.03</td><td>1.35±0.11</td><td>0.843</td></tr><tr><td>死亡率Mortality/%</td><td>7.58±3.71a</td><td>1.52±3.71b</td><td>0.018</td></tr><tr><td>22~42 日龄 22 to 42 days of age</td><td></td><td></td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>80.07±5.38</td><td>82.66±3.48</td><td>0.184</td></tr><tr><td>平均日采食量 ADFI/g</td><td>153.87±12.06</td><td>161.60±9.35</td><td>0.174</td></tr><tr><td>料重比F/G</td><td>1.92±0.08</td><td>1.98±0.13</td><td>0.388</td></tr><tr><td>死亡率Mortality/%</td><td>1.85±4.54</td><td>5.19±5.69</td><td>0.288</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a11e32de74e9f3124dee0fb214ff05d9aea07e8c424f877093c0b84184181de.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>平均日增重 ADG/g</td><td>58.76±3.30b</td><td>63.02±3.37a</td><td>0.049</td></tr><tr><td>平均日采食量 ADFI/g</td><td>100.15±7.11</td><td>106.80±6.61</td><td>0.123</td></tr><tr><td>料重比F/G</td><td>1.70±0.05</td><td>1.75±0.08</td><td>0.220</td></tr><tr><td>死亡率Mortality/%</td><td>9.09±5.75</td><td>6.06±7.42</td><td>0.448</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5 \\$ )，不同字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ The same as below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2玉米型饲粮和小麦型饲粮对肉仔鸡屠宰性能的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，玉米型饲粮和小麦型饲粮之间肉仔鸡的全净膛率、胸肌率和腿肌率均无显著差异（ $( P { > } 0 . 0 5 )$ ，但42日龄时，小麦型饲粮肉仔鸡的全净膛率、胸肌率比玉米型饲粮分别增加了 $1 . 6 7 \\%$ 和 $8 . 6 4 \\%$ ，21日龄腿肌率增加了 $4 . 9 3 \\%$ 。与玉米型饲粮相比，肉仔鸡腹脂率在小麦型饲粮中降低，21日龄时有所降低（ $\\scriptstyle \\cdot = 0 . 1 0 4 )$ ，42日龄时显著降低（ $P { < } 0 . 0 5$ ）°",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上结果提示，小麦型饲粮可降低肉仔鸡腹脂率，有改善全净膛率、胸肌率的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb7075831fbc6d76b645434420289c65b872517fc2fc840fb16ba6a1025544e4.jpg",
+        "table_caption": [
+            "表3玉米型饲粮和小麦型饲粮对肉仔鸡屠宰性能的影响",
+            "Table 3Effects of corn-type diet and wheat-type diet on slaughter performance of broilers $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>日龄</td><td>玉米型饲粮</td><td>小麦型饲粮</td><td>P值</td></tr><tr><td>Items</td><td>Days of age</td><td>Corn-type diet</td><td>Wheat-type diet</td><td>P-value</td></tr><tr><td>全净膛率</td><td>21</td><td>70.28±2.43</td><td>70.21±1.10</td><td>0.950</td></tr><tr><td>Dressing percentage</td><td>42</td><td>73.78±2.13</td><td>75.01±6.33</td><td>0.667</td></tr><tr><td>胸肌率</td><td>21</td><td>10.65±1.27</td><td>11.02±1.03</td><td>0.590</td></tr><tr><td>Breast muscle rate</td><td>42</td><td>12.85±0.78</td><td>13.96±2.34</td><td>0.313</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9721e2bcf7894cc30d90b369293513b4e430fd41cf96d95c9236ce5a1ae64225.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>腿肌率</td><td>21</td><td>8.92±0.34</td><td>9.36±0.64</td><td>0.170</td></tr><tr><td>Leg muscle rate</td><td>42</td><td>10.49±0.95</td><td>10.38±1.02</td><td>0.845</td></tr><tr><td>腹脂率</td><td>21</td><td>1.49±0.31</td><td>1.09±0.45</td><td>0.104</td></tr><tr><td>Abdominal fat rate</td><td>42</td><td>1.92±0.27a</td><td>0.98±0.14b</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3玉米型饲粮和小麦型饲粮对肉仔鸡肉品质的影响 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，42日龄时，肉仔鸡胸肌滴水损失、蒸煮损失和剪切力在玉米型饲粮和小麦型饲粮之间均无显著差异 （ $( P { > } 0 . 0 5 )$ 。与玉米型饲粮相比，屠宰 $4 5 \\mathrm { m i n }$ 后，小麦型饲粮肉仔鸡胸肌 $\\mathrm { { a } ^ { * } { } _ { 4 5 \\operatorname* { m i n } } }$ 值显著降低（ $P { < } 0 . 0 5 )$ ， ${ \\mathrm { ~ L ~ } } _ { 4 5 \\operatorname* { m i n } } ^ { * }$ 值有增加趋势（ $P { = } 0 . 0 9 6 )$ ；屠宰 $2 4 \\mathrm { h }$ 后，仅胸肌 $\\mathbf { a } _ { ~ 2 4 ~ \\mathrm { h } } ^ { * }$ 值在小麦型饲粮肉仔鸡中显著降低 （ $P { < } 0 . 0 5 )$ ， $\\boldsymbol { \\mathrm { L } } _ { 2 4 \\mathrm { h } } ^ { * }$ 值无显著差异（ $_ { . P > 0 . 0 5 ) }$ ；胸肌肌肉的 $\\mathsf { p H }$ 和 $\\boldsymbol { \\mathsf { b } } _ { 2 4 \\mathrm { h } } ^ { * }$ 值均无显著差异（ $. P { > } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以上结果提示，小麦型饲粮降低了肉仔鸡的肌肉颜色，其他肉品质指标与玉米型饲粮相当。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4玉米型饲粮和小麦型饲粮对肉仔鸡肌肉品质的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3629521f8afa452431e5580ac21b2a01fd9857a03b384aa5168e7fe55988345d.jpg",
+        "table_caption": [
+            "Table 4Effects of corn-type diet and wheat-type diet on meat quality of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>玉米型饲粮</td><td>小麦型饲粮</td><td>P值</td></tr><tr><td>Items</td><td>Corn-type diet</td><td>Wheat-type diet</td><td>P-value</td></tr><tr><td>滴水损失 Drip loss/%</td><td>2.34±0.46</td><td>2.02±0.39</td><td>0.220</td></tr><tr><td>蒸煮损失 Cooking loss/%</td><td>21.47±2.26</td><td>20.54±1.66</td><td>0.440</td></tr><tr><td>剪切力 Shear value/N</td><td>58.21±3.52</td><td>62.64±1.65</td><td>0.180</td></tr><tr><td>pH45 min</td><td>6.58±0.03</td><td>6.59±0.28</td><td>0.910</td></tr><tr><td>红度45 min a*45 min</td><td>6.68±1.07a</td><td>4.30±1.65b</td><td>0.014</td></tr><tr><td>黄度45 minb*45 min</td><td>13.91±2.05</td><td>12.65±1.66</td><td>0.270</td></tr><tr><td>亮度45 min L*45 min</td><td>47.97±2.97</td><td>52.44±5.18</td><td>0.096</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/718f747ff5a9c0c7b363a960523518a4088dcc64e3eb4d72d81c25e5062b5d7e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>pH24 h</td><td>6.02±0.10</td><td>6.07±0.18</td><td>0.580</td></tr><tr><td>红度 24h a24h</td><td>6.29±0.78a</td><td>3.58±0.31b</td><td><0.001</td></tr><tr><td>黄度 24h b*24h</td><td>13.31±1.49</td><td>12.56±1.44</td><td>0.267</td></tr><tr><td>亮度24hL*24h</td><td>55.78±4.80</td><td>56.91±4.75</td><td>0.690</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4玉米型饲粮和小麦型饲粮对肉仔鸡血浆生化指标的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表5 可知，与玉米型饲粮相比，小麦型饲粮 21和42 日龄肉仔鸡血浆 TBIL含量显著降低（ $P { < } 0 . 0 5 )$ ；21日龄血浆TP和ALB含量显著增加（ $. P { < } 0 . 0 5 )$ ；42日龄血浆UA含量显著增加( $. P { < } 0 . 0 5 \\$ )；21日龄血浆ALT活性显著降低（ $_ { \\cdot } P { < } 0 . 0 5 { \\mathrm { : } }$ )；21和42日龄肉仔鸡血浆AST活性及GLU、CRE含量均无显著差异（ $\\scriptstyle \\cdot > 0 . 0 5 .$ ）°",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以上结果提示，小麦型饲粮可降低肉仔鸡血浆TBIL含量和ALT 活性，提高血浆 TP、ALB和UA含量，改善肉仔鸡的健康状态。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表5玉米型饲粮和小麦型饲粮对肉仔鸡血浆生化指标的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "broilers ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e351629425cbc9eee3e3f2cd9b4a380fa030e5de4c18c996d2ada7cb3daec33.jpg",
+        "table_caption": [
+            "Table 5Effects of corn-type diet and wheat-type diet on plasma biochemical parameters of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>日龄</td><td>玉米型饲粮</td><td>小麦型饲粮</td><td>P值</td></tr><tr><td>Items</td><td>Days of age</td><td>Corn-type diet</td><td>Wheat-type diet</td><td>P-value</td></tr><tr><td>总胆红素</td><td>21</td><td>8.20±1.35a</td><td>1.74±0.32b</td><td><0.001</td></tr><tr><td>TBIL/(μmol/L)</td><td>42</td><td>7.18±0.92a</td><td>1.83±0.10b</td><td><0.001</td></tr><tr><td>总蛋白</td><td>21</td><td>28.86±2.83b</td><td>33.18±2.41a</td><td>0.017</td></tr><tr><td>TP/(g/L)</td><td>42</td><td>31.65±3.27</td><td>34.51±3.11</td><td>0.150</td></tr><tr><td>白蛋白</td><td>21</td><td>13.89±0.94b</td><td>16.18±0.66a</td><td><0.001</td></tr><tr><td>ALB/(g/L)</td><td>42</td><td>15.20±1.60</td><td>15.72±1.25</td><td>0.550</td></tr><tr><td>尿酸</td><td>21</td><td>646.0±74.61</td><td>732.0±42.03</td><td>0.137</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/e52a36466797c3ff376efaa4abbba5bba54a0606111dd5caa6796581acdcbc50.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>UA/(umol/L)</td><td>42</td><td>248.0±32.21b</td><td>324.8±43.67a</td><td>0.022</td></tr><tr><td>谷氨酸氨基转移酶</td><td>21</td><td>4.50±0.77a</td><td>3.50±0.77b</td><td>0.049</td></tr><tr><td>ALT/(U/L)</td><td>42</td><td>2.33±0.82</td><td>2.00±0.63</td><td>0.448</td></tr><tr><td>天门冬氨酸氨基转移酶</td><td>21</td><td>279.2±24.54</td><td>270.8±18.06</td><td>0.510</td></tr><tr><td>AST/(U/L)</td><td>42</td><td>392.8±58.85</td><td>342.5±37.49</td><td>0.110</td></tr><tr><td>葡萄糖</td><td>21</td><td>16.00±0.91</td><td>16.90±2.97</td><td>0.500</td></tr><tr><td>GLU/(mmol/L)</td><td>42</td><td>14.48±1.24</td><td>13.73±1.24</td><td>0.320</td></tr><tr><td>肌酐</td><td>21</td><td>36.47±2.67</td><td>35.23±3.60</td><td>0.513</td></tr><tr><td>CRE/(umol/L)</td><td>42</td><td>29.60±3.29</td><td>32.38±4.41</td><td>0.250</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5玉米型饲粮和小麦型饲粮对肉仔鸡血浆脂质代谢指标的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，与玉米型饲粮相比，小麦型饲粮 42 日龄肉仔鸡血浆 TC 含量显著降低  \n(P<0.05)；21和42日龄血浆TG含量显著降低（ $P { < } 0 . 0 5 )$ ；21和42日龄血浆HDL-C和  \nLDL-C含量均无显著差异（ $P { > } 0 . 0 5$ )，但LDL-C含量在21和42日龄均有所降低。以上结果提示，小麦型饲粮可改善肉仔鸡血浆的脂质代谢。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表6玉米型饲粮和小麦型饲粮对肉仔鸡血浆脂质代谢指标的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 6Effects of corn-type diet and wheat-type diet on plasma lipid metabolism parameters of ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7142dd64568865c348d156f7c15e812aa8d795feffd0917a713af568c8c2921.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>broilers</td><td>mmol/L</td><td></td><td></td></tr><tr><td>项目</td><td>日龄</td><td>玉米型饲粮</td><td>小麦型饲粮</td><td>P值</td></tr><tr><td>Items</td><td>Days of age</td><td>Corn-type diet</td><td>Wheat-type diet</td><td>P-value</td></tr><tr><td>总胆固醇</td><td>21</td><td>3.01±0.51</td><td>2.65±0.14</td><td>0.100</td></tr><tr><td>TC</td><td>42</td><td>3.17±0.13a</td><td>2.21±0.15b</td><td><0.001</td></tr><tr><td>甘油三酯</td><td>21</td><td>0.94±0.09a</td><td>0.45±0.04b</td><td><0.001</td></tr><tr><td>TG</td><td>42</td><td>1.25±0.18a</td><td>0.48±0.04b</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/1bf3f204f8c1ecb6ecd3ab2d3410f19a34f27588580e1cdc9f9ef95bbceb2add.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>高密度脂蛋白胆固醇</td><td>21</td><td>2.49±0.37</td><td>2.54±0.34</td><td>0.800</td></tr><tr><td>HDL-C</td><td>42</td><td>1.86±0.44</td><td>1.60±0.21</td><td>0.230</td></tr><tr><td>低密度脂蛋白胆固醇</td><td>21</td><td>0.44±0.06</td><td>0.38±0.08</td><td>0.180</td></tr><tr><td>LDL-C</td><td>42</td><td>0.40±0.15</td><td>0.33±0.11</td><td>0.350</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1玉米型饲粮和小麦型饲粮对肉仔鸡生长性能的影响 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "小麦型饲粮提高了肉仔鸡的BW和ADG，与其采食量增加有关。这与小麦型饲粮改善肠道健康，促进营养物质的消化吸收有关。研究表明，全小麦型饲粮可促进肉仔鸡肌胃的增大和发育[7]，肌胃可促进饲料的磨碎，提高营养物质与酶的接触，增加营养物质的消化吸收和利用率[8-9]，提高能量利用率[10-11]。小麦型饲粮还可通过提高肉仔鸡肠道（十二指肠、空肠、回肠）的发育而促进肉仔鸡的生长[12]。此外，小麦型饲粮降低了肉仔鸡生长前期的死亡率，与肉仔鸡的健康状态紧密相关。生长前期是肉仔鸡器官生长及消化和免疫系统发育的最佳阶段，且本试验血浆生化指标表明，21日龄时，小麦型饲粮肉仔鸡血浆TP 和ALB 含量显著增加，ALT 的活性降低，表明机体的免疫力和肝脏代谢功能较高，组织器官发育健康。动物内脏早期的生长发育可更好地促进动物生长，提高营养的转化效率，全小麦饲喂对肉仔鸡上消化道（胃和胰腺）影响较大[3]，但本试验小麦型饲粮并未改善饲料转化效率，这可能与饲粮的加工和饲喂方式有关。加工过程中，小麦的黏度增加，若制粒不当会影响消化率，产生不利影响，且有研究表明，小麦型饲粮对肉仔鸡肠道发育和促生长作用受饲喂方式显著影响，自由采食并非最佳饲喂方式[13]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2玉米型饲粮和小麦型饲粮对肉仔鸡屠宰性能的影响 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本试验中肉仔鸡的全净膛率、胸肌率和腿肌率在小麦型饲粮组虽未见显著提高，但由于肉仔鸡的体重增加，产量也都增加。小麦型饲粮通过提高营养物质的消化吸收，促进消化器官的生长和增大，促进了肉仔鸡胸肌、腿肌和骨骼的生长[14]。肉仔鸡腹脂率的显著降低，与小麦的脂肪含量较低有关。小麦可显著降低肌肉的脂肪和胆固醇含量[15]，胆固醇的降低可抑制腹部脂肪的沉积[16]，腹脂快速沉积的阶段为 21\\~35日龄，因此，小麦型饲粮显著降低了42日龄肉仔鸡的腹脂率。此外，小麦与玉米相比，含有较高的矿物元素，尤其是锰和锌。锰和锌作为辅酶的调节因子，参与体内的糖代谢和脂肪代谢，研究表明，热中性环境下饲粮添加锰可有效降低肉仔鸡腹脂沉积[17]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3玉米型饲粮和小麦型饲粮对肉仔鸡肉品质的影响 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "研究表明，小麦型饲粮可显著提高肌肉的持水力和剪切力，且因水溶性阿拉伯木聚糖（WSAX）含量的不同而异[15]。本试验中，小麦型饲粮肉仔鸡的滴水损失和蒸煮损失较玉米型饲粮降低，剪切力增加，但差异不显著，这可能与本试验小麦中WSAX的含量较低有关。WSAX含量较低时，小麦可促进肉仔鸡生长但对肉品质影响较小；WSAX含量较高时，促生长作用降低且会影响肉仔鸡的肉品质及其候选基因脂肪酸合成酶和脂蛋白脂肪酶的表达[15]。小麦不含胡萝卜素，色素的含量显著低于玉米，所以饲喂小麦型饲粮的肉仔鸡胸肌肌肉a\\*值显著降低，L\\*值增加，与宋凯等[15]的研究一致。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4玉米型饲粮和小麦型饲粮对肉仔鸡血浆生化指标的影响 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "动物血浆生化指标是反映动物生理机能及代谢状况的重要指标。血浆ALB和UA含量是评价肝脏综合功能的关键指标，且与血浆AST、ALT 的活性共同反映肝脏的脂质沉积[18]。当肝脏细胞受损时，肝细胞内的酶如 AST、ALT 即分泌进入血液，因此，血浆AST、ALT活性的高低是评价肝脏是否受损的重要指标[18]。TP是反映机体蛋白质代谢和机体健康与营养是否正常的重要指标。TBIL 参与肝脏的代谢，血浆中 TBIL 含量升高，表明体内红细胞破坏量较大，肝脏细胞代谢受损。本试验中，血浆TP 和ALB 含量在小麦型饲粮肉仔鸡显著增加，表明肉仔鸡血浆的免疫力得到提高。小麦型饲粮肉仔鸡血浆中 TBIL 含量和 ALT活性的降低，表明肉仔鸡中肝脏代谢功能较强。血浆UA含量是肉仔鸡氨基酸利用率的关键指标，血浆UA含量的增加，表明体内蛋白质分解代谢水平较高[19]。蛋白质的代谢与机体的生理状况、饲粮蛋白质的含量和质量有关。本试验中，血浆UA含量在小麦型饲粮的升高，这可能由于小麦中蛋白质的质量与玉米相比较差，肉仔鸡对小麦型饲粮中氨基酸的利用率比玉米型饲粮降低。本试验中小麦型饲粮肉仔鸡血浆TBIL 含量和ALT 活性的降低，TP、ALB和UA含量的升高，表明肉仔鸡肝脏代谢功能较好，机体更为健康。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.5玉米型饲粮和小麦型饲粮对肉仔鸡脂血浆脂质代谢指标的影响 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "血浆TG 和TC是反映机体脂质代谢的重要生理指标，其含量降低表明脂肪堆积较少。本试验中小麦型饲粮肉仔鸡血浆TG 和TC含量降低，与腹脂率的降低一致。家禽脂肪组织发育、脂肪沉积取决于血浆中TC含量[16]，表明小麦通过降低胆固醇、调节血脂降低脂肪在体内的沉积。这主要是由于小麦中脂肪含量较玉米低，脂肪含量与TC含量密切相关，在一定程度上脂肪的含量决定了TC的含量，但小麦调节肉仔鸡脂质代谢的深入机理需要进一步研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本试验条件下，与玉米型饲粮相比，小麦型饲粮可改善肉仔鸡ADG；降低肉仔鸡腹脂率，有提高胴体产量的作用；改善肌肉颜色；改善血浆生化和脂质代谢指标，调节肉仔鸡的健康状况。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]GAO F,JIANG Y,ZHOU G H,et al.The effects of xylanase supplementationon performance,characteristics of the gastrointestinal tract,blood parameters and gut microflora in broilers fed on wheat-based diets[J].Animal Feed Science and Technology,2008,142(1/2):173-184. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[2]武书庚,齐广海,姚斌,等.木聚糖酶对肉仔鸡生产性能的影响[J].中国饲料,2006,(6):20-22,24.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[3] GABRIEL I,MALLET S,LECONTE M,et al.Effects of whole wheat feeding on the development of the digestive tract of broiler chickens[J].Animal Feed Scienceand Technol0gy,2008,142(1/2):144-162. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[4] 王金全,蔡辉益,周岩华,等.小麦日粮非淀粉多糖和木聚糖酶对肉仔鸡肠道微生物区系的影响[J].畜牧兽医学报,2005,36(10):1014-1020.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[5] STEENFELDT S,MULLERTZ A,JENSENC J F.Enzyme supplementation of wheat-based diets for broilers:1.Effect on growth performance and intestinal viscosity[J].Animal Feed Science and Technology,1998,75(1):27-43. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[6]ZHANG L,YUE H Y,ZHANG H J,et al.Transport stressin broilers: I .Blood metabolism,glycolytic potential,and meat quality[J].Poultry Science,2009,88(10):2033-2041. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7] CUMMING R B.Opportunities for whole grain feeding[C]//Proceedings of the 9th European poultry conference.Glasgow:Worlds Poultry Science Association,1994:219-222. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[8] HETLAND H,SVIHUS B,OLAISEN V.Effect of feeding whole cereals on performance,starch digestibility and duodenal particle size distribution in broiler chickens[J].British Poultry Science,2002,43(3):416-423. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[9] GABRIEL I,MALLET S,LECONTE M,et al.Effects of whole wheat feeding on the development of coccidial infection in broiler chickens[J].Poultry Science,2O03,82(11):1668-1676. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[10] PRESTON C M,MCCRACKEN K J,MCALLISTER A.Effect of diet form and enzyme supplementation on growth,efficiency and energy utilisation of wheat-based dietsfor broilers[J].British Poultry Science,2000,41(3):324-331. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[11] WU Y B,RAVINDRAN V,THOMAS D Get al.Influence of method of whole wheat inclusion and xylanase supplementation on the performance,apparent metabolisable energy,digestive tract measurements and gut morphology of broilers[J].British Poultry Science,2OO4,45(3):385-394. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[12] RAVINDRAN V,WU Y B,THOMAS D G,et al.Influence of whole wheat feeding on the development of gastrointestinal tract and performance of broiler chickens[J].Australian Journal of Agricultural Research,2006,57(1):21-26. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[13] AMERAH A M,RAVINDRAN V.Influence of method of whole-wheat feeding on the performance,digestive tract development and carcass traits of broiler chickens[J].Animal Feed Science and Technology,2008,147(4):326-339. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[14] WU Y B,RAVINDRAN V.Influence of whole wheat inclusion and xylanase supplementation onthe performance,digestive tract measurements and carcass characteristics of broiler chickens[J].Animal Feed Science and Technology,2004,116(1/2):129-139. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[15] 宋凯,单安山.不同小麦日粮对肉仔鸡肉质、脂肪酸合成酶 mRNA与脂蛋白脂肪酶 mRNA表达的影响[J].动物营养学报,2008,20(1):69-74.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16] 施用辉,乐国伟,欧勇,等.肉鸡胆固醇代谢调控研究[J].中国家禽,2001,23(20):9-11.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[17] SANDS J S,SMITH M O.Broilers in heat stress conditions:effects of dietary manganese proteinate or chromium picolinate supplementation[J].The Journal ofApplied Poultry Science,1999,8(3):280-287. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[18] WEST H J.Effect on liver function of acetonaemia and the fat cow syndrome in cattle[J].Research in Veterinary Science,1990,48(2):221-227. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[19]DONSBOUGH A L,POWELL S,WAGUESPACK A,et al.Uric acid,urea,and ammonia concentrations in serum and uric acid concentration in excreta as indicators of amino acid utilization in diets for broilers[J].Poultry Science,2010,89(2):287-294. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[20]尹靖东,齐广海,霍启光.家禽脂类代谢调控机理的研究进展[J].动物营养学报,2000,12(2):1-7.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Effects of Corn-Type diet and Wheat-Type diet on Growth Performance,Meat Quality, Plasma ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Biochemical Parameters andLipid Metabolism ofBroilers ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ZHANG YananWANG Jing\\*QIBo ZHANG Haijun\\*\\*WU Shugeng\\*\\*QI Guanghai (Key Laboratory ofFeed Biotechnology of Ministry ofAgriculture,Feed Research Institute, Chinese Academy ofAgricultural Sciences,Beijing 1Ooo81, China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The current study was to investigate the effects of corn-type diet and wheat-type diet on growth performance,meat quality， plasma biochemical parameters and lipid metabolism of broilers. A total of 180 one-day-old male Arbor Acres broilers were randomly assgned to 2 group which fed with corn-type diet and wheat-type diet, respectively. Each group had 6 replicates with 15 broilers in each replicate.The experiment lasted for 42 days.The results showed that: broilers fed with wheat-type diet compared with corn-type diet,1) the average daily gain (ADG) in starter phase(1 to 21 days of age) and whole phase (1 to 42 days of age) was significantly increased （20 $( P { < } 0 . 0 5 )$ ，and the mortality in starter phase was significantly decreased $( P { < } 0 . 0 5 )$ ；2）the abdominal fat rate was significantly decreased at 42 days of age; 3) the redness $( \\mathrm { a } ^ { * } ) _ { 4 5 \\operatorname* { m i n } }$ and a $\\boldsymbol { ^ { * } } _ { 2 4 \\mathrm { h } }$ （204号 values were significantly decreased $( P { < } 0 . 0 5 )$ ， the lightness $( \\mathrm { L } ^ { * } ) _ { 4 5 \\mathrm { ~ } \\operatorname* { m i n } }$ value was increased $\\scriptstyle ( P = 0 . 0 9 6 )$ ; 4) the plasma total bilirubin content was significantly decreased at 21 and 42 days of age $( P { < } 0 . 0 5 )$ , the contents of total protein and albumin in plasma were significantly increased on at 21 days of age $( P { < } 0 . 0 5 )$ ，the plasma alanine aminotransferase activity was significantly decreased at 21 days of age $( P { < } 0 . 0 5 )$ , the plasma uric acid content was significantly increased on at 42 days of age $( P { < } 0 . 0 5 )$ ; 5） the plasma triglyceride content was significantly decreased at 21 and 42 days of age $( P { < } 0 . 0 5 )$ , the plasma total cholesterol content was significantly decreased at 42 days of age $( P { < } 0 . 0 5 )$ . Therefore, in the current study, compare with corn-type diet, wheat-type diet can improve growth performance, lipid metabolism and healthy, decrease abdominal fat and meat color. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: corn; wheat; broilers; growth performance; meat quality; plasma parameters ",
+        "page_idx": 17
+    }
+]

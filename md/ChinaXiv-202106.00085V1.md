@@ -1,0 +1,183 @@
+# 塔里木河下游输水对荒漠河岸林生态系统水分利用效率的影响
+
+郝海超123，郝兴明1²，成晓丽4，张静静123，范雪²，李远航25
+
+(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.新疆阿克苏绿洲农田生态系统国家野外科学观测研究站,新疆 阿克苏843017；3.中国科学院大学，北京100049；4.太原师范学院,山西 晋中030619；5.新疆师范大学,新疆 乌鲁木齐830054)
+
+摘要：水分利用效率(Water use efficiency,WUE)作为评价植物生长适宜度的综合指标之一，能很好地反映植被对生态输水的响应。通过Slope趋势分析、Pearson相关性分析及栅格时序合成等方法，利用CASA模型估算的净初级生产力（Net primary productivity,NPP)和SEBAL模型估算的实际蒸散发(ET),研究了塔里木河下游WUE的时空变化及其对生态输水的动态响应。结果表明：(1)2001-2018年，塔里木河下游WUE呈显著上升趋势 $( P { < } 0 . 0 5 )$ ，但受NPP的影响大于ET $( \mathrm { C o r } _ { \mathrm { N P P } } { = } 0 . 7 6 { > }$ $\mathrm { C o r } _ { \mathrm { E T } } { = } 0 . 1 0 \$ ，灌丛 $\mathrm { W U E } ( 0 . 4 9 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ 高于胡杨 $( 0 . 3 0 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ 及草本 $( 0 . 2 4 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ WUE空间变化规律为由河道向两侧及由西北向东南呈递减趋势，极显著上升面积占整个研究区的$1 3 . 6 4 \%$ 。(2)各植被WUE随着生态输水量的增加，呈显著上升趋势( $_ { ( P < 0 . 0 5 ) }$ ,灌丛WUE平均每年上升幅度是胡杨和草本WUE上升幅度的15倍，表明灌丛WUE对生态输水的响应更为敏感;各植被WUE与生态输水量、输水持续时间均呈正相关，与输水开始时间呈负相关。年内输水次数与年内WUE、NPP及归一化植被指数(NDVI)呈正相关关系 $( \mathrm { W U E } ; \mathrm { C o r } = 0 . 4 0 7 , \mathrm { N P P } ; \mathrm { C o r } = 0 . 6 0 5 , \mathrm { N D V I } ; \mathrm { C o r } =$ 0.657)。(3)不同植被类型生长的最适温度有所差异,并与WUE、NPP及ET有着密切关系。胡杨年均最适温度 $2 5 . 6 2 ^ { \circ } \mathrm { { C } }$ 灌丛 $2 7 . 0 7 \mathrm { ^ { \circ } C }$ 及草本 $2 3 . 2 2 \mathrm { ^ { \circ } C }$ 。在温度偏差值最小的时间(4一10月)进行最佳的水热组合将更有利于植被生长。(4)塔里木河下游年均WUE与地下水埋深呈较强的负相关关系（ $\scriptstyle \mathrm { C o r = - 0 . 8 1 }$ ),其中草本及灌丛WUE与地下水埋深的相关性高于胡杨 $( | \mathrm { C o r } _ { \# \mathcal { K } \times \mathcal { E } _ { \Psi } ^ { * } } | = - 0 . 7 6 | > | \mathrm { C o r } _ { \# \mathcal { C } } = - 0 . 4 6 | )$ ;各植被年均WUE在地下水埋深 $4 { \sim } 6 \mathrm { m }$ 处存在峰值，超过 $6 \mathrm { m }$ 后，WUE均呈下降趋势。
+
+关键词：塔里木河；生态输水；水分利用效率；地下水埋深；植被类型；最适温度文章编号：
+
+水分利用效率(Wateruseefficiency,WUE)指生态系统每单位水损失所吸收的碳[1],有以 $\mathrm { C O } _ { 2 }$ 同化量与实际蒸腾量之比表示，也有以最终生产力与所消耗总水量之比表示[2]，是研究植物生存、生产力和适应度及碳循环与水循环耦合的重要指标，也是理解陆地生态系统代谢的一个重要参数[3-6]。生态系统WUE作为评价水分亏缺状态下植物生长适宜度的综合指标之一[7],能很好地反映植被对生态输水及地下水埋深的动态响应。遥感技术的发展使得通过遥感获取大尺度的地表能量指标、植被生长参数和水分利用状况等数据已成为可能[8-9]。本研究对2001—2018年塔里木河下游生态输水条件下，不同植被类型WUE时间序列数据展开分析，讨论并回答了各类植被WUE的时空变化规律及其对生态输水、气象要素及地下水埋深的动态响应，为塔里木河下游生态环境保护提供科学数据
+
+# 干旱区地理
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+本文以塔里木河下游( $1 0 ~ \mathrm { k m }$ 缓冲区）为研究区，该区域位于 $8 7 . 4 2 ^ { \circ } { \sim } 8 8 . 5 7 ^ { \circ } \mathrm { E }$ . $3 9 . 3 8 ^ { \circ } { \sim } 4 0 . 6 8 ^ { \circ } \mathrm { N }$ ，呈西北一东南走向，东西宽约 $8 0 ~ \mathrm { k m }$ ，南北长约$1 5 0 ~ \mathrm { k m }$ 。下游区河段(大西海子水库一台特玛湖)总长约 $3 2 0 \mathrm { k m }$ ,总面积约 $4 8 6 1 . 6 6 ~ \mathrm { k m } ^ { 2 }$ ,分为上、中、下段。其中，上段为大西海子水库一英苏断面，中段为英苏断面一阿拉干断面，下段为阿拉干断面一台特玛湖(图1)。主要土壤类型为盐化草甸土、盐土、胡杨林土、沼泽土和风沙土[0],主要植被类型分为乔木、灌丛和草本等，其中乔木主要是胡杨，占总面积的 $6 . 8 5 \%$ ;灌木主要有怪柳、铃铛刺、白刺等，占总面积的 $0 . 8 3 \%$ ;草本植物主要有芦苇、大花罗布麻等，占总面积的 $2 4 . 6 7 \%$ 。至今连续20a的生态输水，对恢复和再生塔里木河下游严重退化的生态系统至关重要。
+
+87°30'E 8800'E 88°30'E75 河流 80E 85E 90°E 95E 2000 大西海水 喀尔达依 40000  
+204 绿河下游 44.24 阿布达勒 格平断面绿洲荒漠 阿拉干过渡带 N.00000 塔里木河下游 N0000克苏河渭干海 孔雀河  
+N004 塔里木河 No04客仕噶尔河， 塔克拉玛干沙漠 依干不及麻  
+350 公 雅河 车尔臣河。 01 400 km 高程/m 高：814891 350 3303M 图例 上0 河流 现水井 台特玛湖 库尔干 3006075E 80E 85E 90E 95E87°30'E 88°00'E 88°30'E
+
+注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)3333号的标准地图制作,底图无修改。
+
+# 1.2数据来源
+
+本文基于CASA模型遥感反演净初级生产力(NPP)的各地表参数由美国NASA网站中的MODIS系列产品估算，考虑了植被的外在气候条件，如气温、降水和太阳辐射量等，此模型广泛应用于区域大尺度植被NPP的估算，被认为是目前估算精度最高的模型之一[];基于SEBAL模型遥感反演实际蒸散发(ET)的输入参数同样是MODIS系列产品及中科院系列气象参数，此理论基础是地表能量平衡原理。各参数的来源及分辨率见表1。
+
+# 1.3研究方法
+
+1.3.1NPP计算 本文利用GEE(Google Earth En-gine)大数据引擎（由Google公司推出的地理信息数据处理以及可视化的综合平台），基于CASA模型估算了中亚地区的植被NPP，输入的主要参数为植被的光合有效辐射(APAR)和光能利用率(ε)。公式如下：
+
+$$
+\mathrm { N P P } ( x , t ) = \mathrm { A P A R } ( x , t ) \times \varepsilon ( x , t )
+$$
+
+式中： $\mathrm { N P P } ( x , t )$ 表示 $\mathbf { \chi } _ { t }$ 月在 $x$ 像元处植被的净第一性生产力; $\mathrm { A P A R } ( x , t )$ 表示 $\mathbf { \chi } _ { t }$ 月在 $x$ 像元处植被的光合有效辐射; $\boldsymbol { \varepsilon } ( \boldsymbol { x } , t )$ 表示 $\mathbf { \chi } _ { t }$ 月在 $x$ 像元处植被的实际光能利用率。
+
+1.3.2ET计算本文基于陆面能量平衡SEBAL模型，通过遥感与气象数据对各能量分量进行估算，得到区域的 $\mathrm { E T } ^ { [ 1 2 ] }$ ,此模型在干旱区遥感ET估算中得到了广泛的应用[13-14]。区域的陆面能量平衡方程为：
+
+$$
+\lambda \mathrm { E T } = R _ { \mathrm { n } } - G - H
+$$
+
+式中：入ET为潜热通量 $\left( \mathbb { W } \cdot \mathbf { m } ^ { - 2 } \right)$ ； $R _ { \mathrm { n } }$ 为净辐射通量（ $\mathbf { \mathbb { W } } \cdot \mathbf { m } ^ { - 2 } ,$ ； $G$ 为土壤热通量 $\left( \mathbb { W } \cdot \mathbf { m } ^ { - 2 } \right) ; H$ 为感热通量（ $\mathrm { W } \cdot \mathrm { m } ^ { - 2 } ,$ ； $\lambda$ 为水的潜热蒸发系数 $\left( \mathbb { W } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { m m } ^ { - 1 } \right)$ ）1.3.3WUE计算WUE采用单位面积上植物每蒸散 $1 \mathrm { m m }$ 水所能固定的有机碳克数来表示( $\cdot \bf { g } \cdot \bf { C } \cdot \mathrm { { m m } ^ { - 1 } }$ .
+
+表1CASA模型和SEBAL模型所需数据产品  
+Tab.1 Data products required for CASAand SEBAL models   
+
+<html><body><table><tr><td>类型</td><td>产品名称</td><td>提供的地表特征参数</td><td>时间分辨率</td><td>空间分辨率</td><td>来源网址</td></tr><tr><td>CASA模型</td><td>MCD15A3H</td><td>光合有效辐射吸收比例(FPAR)</td><td>4d合成</td><td>500 m×500 m</td><td>https://ladsweb.nascom.nasa.gov/search/</td></tr><tr><td></td><td>MCD15A2H</td><td>光合有效辐射吸收比例(FPAR)</td><td>8d合成</td><td>500 m×500 m</td><td>https://ladsweb.nascom.nasa.gov/search/</td></tr><tr><td></td><td>MOD13A1</td><td>归一化植被指数(NDVI)</td><td>16d合成</td><td>500 m×500 m</td><td>https://ladsweb.nascom.nasa.gov/search/</td></tr><tr><td></td><td>T3H(GLDAS)</td><td>气温(TEMc)</td><td>3h</td><td>0.25°x0.25°</td><td>http:/ldas.gsfc.nasa.gov/gldas/0.25</td></tr><tr><td></td><td>TerraClimate</td><td>降水(PRE)</td><td>月</td><td>1/24°~4 km</td><td>https://climatedataguide.ucar.edu</td></tr><tr><td></td><td>TerraClimate</td><td>太阳辐射(SOL)</td><td>月</td><td>1/24°~4 km</td><td>https://climatedataguide.ucar.edu</td></tr><tr><td></td><td>MCD12Q1</td><td>土地利用类型(IGBP)</td><td>96d合成</td><td>500 m×500 m</td><td>https://ladsweb.nascom.nasa.gov/search/</td></tr><tr><td>SEBAL模型</td><td>MOD03</td><td>地理位置场</td><td>1d</td><td>1</td><td>https://ladsweb.modaps.eosdis.nasa.gov</td></tr><tr><td></td><td>MOD021KM</td><td>对地观测数据</td><td>1</td><td>1 km×1 km</td><td>https://ladsweb.modaps.eosdis.nasa.gov</td></tr><tr><td></td><td>中科院数据产品</td><td>土地利用类型25类</td><td>2013年</td><td>30 mx30 m</td><td>http://www.resdc.cn/</td></tr><tr><td></td><td>中科院数据产品</td><td>气温、风速、相对湿度、气压</td><td>一</td><td>一</td><td>http:/cdc.cma gov.cn/home.do</td></tr><tr><td></td><td>ASTER-GDEMV2</td><td>高程(DEM)</td><td>1</td><td>30m</td><td>http://www.gscloud.cn/</td></tr><tr><td>文中2.3部分</td><td>Landsat5\7\8</td><td>归一化植被指数(NDVI)</td><td>16d合成</td><td>30 m×30 m</td><td>https://espa.cr.usgs.gov/index/</td></tr><tr><td></td><td>ERA5</td><td>气温（TEMo)</td><td>月</td><td>0.1°x0.1°</td><td>https://www.ecmwf.int</td></tr></table></body></html>
+
+注：TEMc代表CASA输入温度数据， $\mathrm { T E M _ { 0 } }$ 代表气象分析温度数据。
+
+$\mathbf { m } ^ { - 2 }$ )[15]。定义为单位时间内陆地生态系统总生产力NPP与实际蒸散量ET的比值：
+
+$$
+\mathrm { W U E } = \mathrm { N P P / E T }
+$$
+
+式中：WUE为陆地生态系统水分利用效率( $\cdot \bf { g } C \cdot \bf { m m } ^ { - 1 }$ $\mathbf { m } ^ { - 2 }$ );NPP为陆地生态系统净初级生产力 $\left( \mathbf { g } \mathbf { \Lambda } \mathbf { C } \cdot \mathbf { m } ^ { - 2 } \right)$ ET为单位时间陆面实际蒸散量 $( \mathrm { m m } \cdot \mathrm { m } ^ { - 2 }$ )。
+
+1.3.4WUE趋势通过对2001—2018年塔里木河下游WUE逐年(逐月)栅格的一元线性回归分析，计算WUE的线性回归系数Slope：
+
+$$
+{ \mathrm { S l o p e } } = { \frac { n { \displaystyle \sum _ { j = 1 } ^ { n } j \times P _ { j } } - { \displaystyle \sum _ { j = 1 } ^ { n } j \times \sum _ { j = 1 } ^ { n } P _ { j } } } { n { \displaystyle \sum _ { j = 1 } ^ { n } j ^ { 2 } } - { \displaystyle \left( { \sum _ { j = 1 } ^ { n } j } \right) ^ { 2 } } } }
+$$
+
+式中： $n$ 为时间序列长度 ${ \ ; } j$ 表示时间序列的第 $j$ 年； $P _ { j }$ 表示第 $j$ 年WUE的平均值;Slope是趋势线的线性回归系数。
+
+# 2结果与分析
+
+# 2.1塔里木河下游WUE的时空变化
+
+2001—2018年塔里木河下游WUE呈显著上升趋势 $( P { < } 0 . 0 5 )$ ,平均每年上升 $0 . 0 0 2 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 }$ ，年均值为 $0 . 2 3 \mathrm { ~ g ~ C \cdot m m ^ { - 1 } \cdot m ^ { - 2 } }$ ,18a来WUE年际时序规律与NPP和ET变化规律一致，呈波动上升趋势。其中，NPP年序列呈显著上升趋势( $_ { ( P < 0 . 0 5 ) }$ ,平均每年上升 $0 . 2 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ ,年均值为 $2 0 . 9 8 \mathrm { \ g C ^ { \bullet } m ^ { - 2 } }$ 。ET年序列呈不显著上升趋势,平均每年上升 $0 . 4 1 \ \mathrm { m m } \cdot \mathrm { m } ^ { - 2 }$ ，年均值为 $8 5 . 5 2 ~ \mathrm { m m } \cdot \mathrm { m } ^ { - 2 }$ 。但WUE与NPP的相关性高于与ET相关性( $\mathrm { \Delta C o r _ { N P P } = 0 . 7 6 > C o r _ { E T } = 0 . 1 0 \Omega , }$ ，表明此区域WUE受NPP的影响大于ET(图2a)。对于不同植被类型而言，NPP和WUE由高到低排序为：灌丛>胡杨 $\harpoonright$ 草本。各植被WUE季节变化（植被冬季无生命活动，有值情况是由于波段噪音影响)规律为：秋季 $: >$ 夏季 $>$ 春季，主要受到年内输水季节差异（主要集中在生长季)及NPP(秋 $>$ 夏 $>$ 春）与ET（夏 $>$ 春>秋)的季节差异影响(图2b)。灌丛WUE( $0 . 8 3 \mathrm { g } \mathrm { C } \cdot \mathrm { m m } ^ { - 1 }$ ：$\mathbf { m } ^ { - 2 }$ ）、胡杨WUE $( 1 . 8 2 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 } )$ 和草本WUE$( 0 . 7 0 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ 在11月均为最高值，主要由于11月 $\mathrm { E T } ( 4 . 6 6 ~ \mathrm { m m } \cdot \mathrm { m } ^ { - 2 } )$ 较低，WUE最低值均出现在4月，主要是由于春季NPP最低，且ET较大。灌丛WUE最高值降落点滞后于灌丛NPP最高值降落点1个月，而胡杨与草本WUE最高值降落点滞后于胡杨与草本NPP最高值降落点2个月，主要是由于ET的持续下降及生态输水与植被耗水的时差(图2b)。
+
+在空间分布上，NPP、ET及WUE高值区主要集中在河道两侧及塔里木河下游的上段及中段，主要空间规律为由河道向两侧和由西北向东南呈递减规律(图 $3 \mathrm { a } \mathrm { \sim } \mathrm { c }$ ),其中，缓冲区(河道 $1 ~ \mathrm { k m }$ 处)WUE最高值为 $0 . 2 9 \ \mathrm { g \ C \cdot m m ^ { - 1 } \cdot m ^ { - 2 } }$ ，河道 $4 \mathrm { k m }$ 处WUE最低值为 $0 . 1 7 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 }$ ；塔里木河下游WUE年际上升
+
+(a)NPP、ET及WUE年际变化趋势 (b)不同植被类型NPP、ET及WUE年内变化660550454035302205150 NPPET-WUE 020 0.55 21 UE PP 二草本 2118 24220/dd 0.41x+81.66（P>0.05） 406080 z.w/ 1098.765432 5296 2v=0.002x±0.21（P<0.05） 100 0.25 8AM0.27x+18.30(P0.05) 120 0.200.15140 00.10 0.4160 0.05 1 -3 0.28 0.00 0 6 0.02 3 4 5 6份8 9 10 1112年份
+
+![](images/67c95bfe1a0c73a0105f5b53fbd0d059ff3839f9618d3e779f30b06777930609.jpg)  
+图2NPP、ET及WUE的年际和年内(不同植被类型)变化趋势  
+Fig.2Inter-annual and intra-annual (different vegetation types) trends of NPP,ETand WU   
+图32001—2018生态水分利用效率变化趋势的空间差异性  
+Fig.3Spatial difference of the change trend of ecological water use efficiency from 2Ool to 2018
+
+趋势空间面积大于下降趋势，显著上升趋势主要集中在河道两侧 $1 \mathrm { k m }$ 范围内，主要植被类型为胡杨及部分草本，极显著上升区主要分布在中、上段河流两侧、中段西侧河流两侧和下段台特玛湖东北部及中、上段灌丛植被区，下降区域主要集中在塔里木河下游下段尾闾区(台特玛湖东南部),极显著下降区均集中在大西海子库区周围,极显著上升面积占整个研究区的 $1 3 . 6 4 \%$ 、显著上升 $6 . 1 5 \%$ 、不显著上升$56 . 3 2 \%$ ,极显著下降 $6 . 8 5 \%$ 、显著下降 $1 . 6 0 \%$ 和不显著下降 $1 5 . 4 5 \%$ ,进一步用数据说明生态输水对塔里木河下游生态环境效益持续向好起到关键作用（图3d）。
+
+# 2.2生态输水对塔里木河下游WUE的影响
+
+空间上，胡杨集中在河岸两侧，灌丛分布在河岸两侧及更远的地方；而草本多集中在广阔水域附近，如大西海子水库及台特玛湖水域较为集中，反映了塔里木河下游不同植被类型的空间分布格局，且与上文WUE、WUE趋势及NPP的空间分布规律基本一致，侧面体现出生态输水的空间分配规律（图 $3 \mathrm { a } \mathrm { { \sim } b }$ 和图 $\mathrm { 4 a }$ ）。时间上，2001—2018年(2008年无输水)累计向塔里木河下游生态输水 $7 3 . 7 4 8 2 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 生态输水总量呈显著上升趋势( $( P { < } 0 . 0 5 )$ ,平均每年上升 $0 . 2 9 9 0 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。2001—2018年各植被WUE均呈显著上升趋势 $( P { < } 0 . 0 5 )$ ，其中，胡杨WUE与草本上升趋势一致,平均每年上升 $0 . 0 0 3 \mathrm { ~ g ~ C \cdot m m ^ { - 1 } \cdot m ^ { - 2 } }$ ，但灌丛WUE平均每年上升 $0 . 0 2 \ \mathrm { g \ C \cdot m m ^ { - 1 } \cdot m ^ { - 2 } }$ ，平均每年上升量是胡杨与草本的15倍，灌丛WUE对生态输水的响应更为敏感。总体而言，各植被WUE随着生态输水量的增加而升高(图4b)。
+
+从输水量、输水开始时间及输水持续时间探讨与植被类型WUE的关系，发现胡杨、灌丛及草本WUE与生态输水量、输水持续时间均呈正相关关系（图 $5 \mathrm { a } , \mathrm { b } , \mathrm { c } , \mathrm { g } , \mathrm { h } , \mathrm { i } )$ ，但与输水持续时间的正相关程度高于输水量，而与输水开始时间呈负相关关系（图5d\~f);灌丛WUE与输水量、输水开始时间及输水持续时间的相关性最高，排序规律依次为：灌丛>胡杨 $\mathrm { > }$ 草本，进一步证实上文灌丛WUE对生态输水响应最为敏感。同时得出年际生态输水量持续增加，输水时间持续增长，输水开始时间提前，将有利于塔里木河下游植被类型WUE及NPP上升，促进塔里木河下游生态系统的良性循环。
+
+# 2.3气象要素和地下埋深对塔里木河下游WUE的影响
+
+塔里木河下游植被生长不仅受到水分影响，还受到温度条件的影响。特别是最适温度与生态输水的时间匹配研究(水热同期)，将有利于植被对其WUE的调节，从而促进该区域植被生产力的提升，进而改善生态环境。本文基于栅格计算最大NDVI,与此所对应栅格气温确定为最适温度，通过对比图 $6 \mathrm { { a } \mathrm { { \sim } b } }$ 与图3a\~c发现最适温度及NDVI与WUE、NPP及ET空间分布规律均高度一致。灌丛WUE年际均值与年内月均值均高于胡杨与草本，而草本WUE处于最低值（图2b、图4b），最直观地体现是NDVI由高到低依次为：灌丛（0.287）、胡杨（0.127)及草本（0.103）。17a来年内输水次数与WUE、NPP及NDVI分布规律一致，呈正相关关系（WUE： $\mathrm { C o r } =$ 0.407,NPP: $\mathrm { C o r } { = } 0 . 6 0 5$ ,NDVI: $\mathrm { C o r } { = } 0 . 6 5 7 .$ ，即各月输水次数越多，各植被WUE越高，植被长势越好。胡杨、灌丛、草本最适温度在3—10月均高于 $1 0 \ \%$ ,胡杨年均最适温度 $2 5 . 6 2 \mathrm { ~ \textdegree C }$ 、灌丛 $2 7 . 0 7 \mathrm { ~ \textdegree C }$ 、草本$2 3 . 2 2 \mathrm { ~ \textdegree C }$ ,此状态下植被生长条件最佳，植被长势最好，在温度偏差值最小的季节(4一10月)进行水分补给十分及时，最佳的水热组合将更有利于植被生长(图6c）。
+
+同时，生态输水通过影响地下水埋深间接影响着生态系统水分利用效率。塔里木河下游年际WUE
+
+![](images/9f3972ba48e5c5aac5053db1751b1e4e15f5515b04ba58e56256d1f4940cefd2.jpg)  
+图4生态输水量与不同植被类型水分利用效率年际变化及植被卫星影像 Fig.4 Interannual variations of ecological water conveyance and water use efficiency of different vegetation types,and vegetation satellite image
+
+88 (a)胡杨 0.70 (b)灌丛 0.28 (c)草本.. 0.60 . z-u. 0.26.  
+S . 0.50 . _uu. 0.24 .. .0.40 8 C 0.22 1g . . 名 ·y=3×10-7x+0.3105 /IAM 0.30 ： . IAM 0.20 . y=4x10-8x+0.2278R²=0.0562 0.20 y=10-x+0.4074 0.18 R²=0.0079R²=0.117  
+0.15 0.10 0.16  
+0 5 10 15 0 5 10 15 0 5 10 15输水量 $/ 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ （204 输水量 $/ 1 0 ^ { 8 } { \bf m } ^ { 3 }$ （20 输水量/10m  
+0.40 (d)胡杨 0.70 (e)灌丛 0.35 (f)草本· z-w._. 0.60 · · . m 0.30 ·. [_uuu.0.50 .  
+0.30 0.25. . C 0.40 C ： · .  
+0.25 g · g0.20  
+0.20 y= −100.+0.3358 /INM 0.30 y=-10-4x+0.4785 /HAM 0.15 y=-8x10.0+0.2655R²=0.0103  
+0.15 0.10 0.10  
+0 100 200 300 400 0 100 200 300 400 0 100 200 300 400输水开始时间/d 输水开始时间/d 输水开始时间/d  
+0.40 (g)胡杨 0.70 (h)灌丛 0.35 (i)草本. .. 0.60 5 vu.m 0.300.50 ： ·  
+0.30 . 0.25. 0.40 . ： · . ：  
+0.25 AE . ： 名0.20  
+0.20 - y=6×100x+20.3134 0.30 j=10-x+0.4431 /HAM 0.15 y=4×100x0+0.2485R²=0.0092  
+0.15 0.10 0.10  
+0 100 200 300 400 0 100 200 300 400 0 100 200 300 400输水持续时间/d 输水持续时间/d 输水持续时间/d(c)年内输水次数与NDVI及温度偏差■胡杨温度偏差一灌丛温度偏差■草本温度偏差胡杨最适温度 - 灌丛最适温度--草本最适温度(a)TEM空间分布 (b)NDVI空间分布 -胡杨NDVI 灌丛NDVI -草本NDVI87°30'E 87°55'E 88°20'E 87°30'E 87°55'E 88°20'E 0.5年内输水次数 40 86421086420  
+14545 801000400001131 41540453 44544 N 0.45 35  
+30000035030 18.12 3000007030 85 N,00000 0.20 02 舞4 35330 0.15 10041 0.10 530km 0 30km0.051 23 45678910111287°30'E 87°55'E 88°20'E 87°30'E 87°55'E 88°20'E 月份
+
+与地下水埋深呈较强的负相关( $\mathrm { C o r = - 0 . 8 1 }$ )，随着地下水埋深的增加而呈显著降低趋势，WUE每米降低约 $0 . 0 1 0 \textrm { g C } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 }$ （图7）。草本及灌丛WUE与地下水埋深的相关性高于胡杨 $( \vert \mathrm { C o r } _ { \sharp , \mp \ast , \mathcal { U } _ { \mathrm { i j } \sharp , \mathcal { W } } } = - 0 . 7 6 \vert >$ $| \mathrm { C o r \lrcorner } \rrangle { \operatorname { d } \ o { \hbar } } = - 0 . 4 6 | \$ ),但各植被类型均与地下水埋深呈负相关,均随着地下水埋深的增加而降低。其中，草本及灌丛WUE每米降低 $0 . 0 1 0 \mathrm { ~ g ~ C } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 }$ ，而胡杨WUE每米降低 $0 . 0 0 6 \textrm { g C } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 }$ ,草本及灌木WUE降低程度明显高于胡杨。草本及灌丛WUE和地下水埋深的拟合趋势公式与年平均WUE的拟合公式一致为： $\mathrm { y } = - 0 . 0 1 x + 0 . 3 8$ （ $P { < } 0 . 0 5 )$ ,进一步说明研究水分利用效率受草本及灌丛影响较大且占据
+
+(a)年均WUE与地下水埋深 (b)胡杨WUE与地下水埋深 (c)草本及灌丛WUE与地下水埋深0.38 一年均WUE拟合线 0.38 胡杨WUE拟合线 0.38 -草本及灌丛WUE拟合线838885 8 z_u. 0.3601x3005) y=00640.35(P0.05) 8385 y=−001x0.38（P.05)埋深 埋深 埋深0.22 WUE W 0.22 WUE > 0.22 WUE V0.20 0.20 0.20123456789101112 1 23456789101112 123456789101112地下水埋深/m 地下水埋深/m 地下水埋深/m
+
+主导地位（面积占比： $: S _ { \xrightarrow { \substack { \scriptscriptstyle + \infty } } , \textsc { k } + \textsc { m } , \textsc { k } } = 2 5 . 5 0 \% > S _ { \substack { \scriptscriptstyle + \mathtt { m } + \le 0 } } = 6 . 8 5 \% ,$ 0胡杨、灌丛、草本及年均WUE均在地下水埋深 $4 { \sim } 6 \mathrm { m }$ 处存在峰值，超过 $6 \mathrm { m }$ 后，年均WUE及各植被WUE均呈下降趋势，此拐点与前人研究塔里木河河岸林地下埋深相吻合[16]；但在 $9 \mathrm { m }$ 后存在一个小高峰，主要归因于在干旱缺水情况下，植被将进行自我调节，从而提高水分利用效率[17.18]
+
+# 3讨论与结论
+
+本文估算了2001—2018年塔里木河下游生态系统WUE，定量分析了生态输水对荒漠河岸林生态系统WUE的影响，主要结论如下：
+
+（1）塔里木河下游WUE呈显著上升( $( P { < } 0 . 0 5 )$ 趋势且与NPP和ET变化规律一致，但受NPP的影响大于ET( $\mathrm { C o r _ { N P P } } { = } 0 . 7 6 { > } \mathrm { C o r _ { E T } } { = } 0 . 1 0 \$ ），灌丛WUE（202 $( 0 . 4 9 \mathrm { ~ g ~ C \cdot m m ^ { - 1 } \cdot m ^ { - 2 } } )$ 高于胡杨 $( 0 . 3 0 \mathrm { ~ g ~ C } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 } )$ （204号及草本 $( 0 . 2 4 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ ,WUE季节变化规律为：秋季 $>$ 夏季 $>$ 春季。WUE空间变化规律为由河道向两侧和由西北向东南呈递减趋势,极显著上升面积占整个研究区的 $1 3 . 6 4 \%$ 。
+
+(2）塔里木河下游各植被WUE随生态输水量的增加，呈显著上升趋势 $( P { < } 0 . 0 5 )$ ，灌丛WUE平均每年上升幅度是胡杨和草本WUE上升幅度的15倍，表明灌丛WUE对生态输水的响应更为敏感；胡杨、灌丛及草本WUE与生态输水量、输水持续时间均呈正相关关系，而与输水开始时间呈负相关关系，灌丛WUE与三者的相关性最高。年内输水次数与年内WUE、NPP及NDVI呈正相关关系（WUE：Cor=O.407,NPP:Cor=0.605,NDVI:Cor=0.657)
+
+(3）塔里木河下游年均最适温度、NDVI与WUE、NPP及ET空间分布规律高度一致。不同植被类型生长的最适温度有所差异，并与WUE、NPP及ET有着密切关系。胡杨年均最适温度 $2 5 . 6 2 ~ \mathrm { ^ { \circ } C }$ ）灌丛 $2 7 . 0 7 \mathrm { ~ \textdegree C }$ 及草本 $2 3 . 2 2 ~ \mathrm { ^ { \circ } C }$ 。在温度偏差值最小的时间(4一10月)进行最佳的水热组合将更有利于植被生长。
+
+(4）塔里木河下游WUE与地下水埋深呈较强的负相关关系（ $\mathrm { C o r = - 0 . 8 1 }$ ），WUE每米降低约$0 . 0 1 \ \mathrm { g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 }$ 。草本及灌丛WUE与地下水埋深的相关性高于胡杨(|Cor 草本及灌 $_ { \scriptscriptstyle \perp } = - 0 . 7 6 | > | \mathrm { C o r \ } _ { \scriptscriptstyle \perp } | _ { \scriptscriptstyle \ m + \infty } =$ $- 0 . 4 6 |$ ),胡杨、灌丛、草本及年均WUE在地下水埋深 $4 { \sim } 6 \mathrm { ~ m ~ }$ 处存在峰值,超过 $6 \mathrm { ~ m ~ }$ 后，各类植被年均WUE均呈下降趋势。
+
+塔里木河下游区是极端干旱的内陆河流域生态恢复的样板区，水资源的合理配置对此区域生态恢复至关重要[19-22]。WUE作为评价天然植被水资源利用状况的重要指标[23],对了解该区域退化生态系统恢复以及输水条件下生态系统的动态响应具有重要意义。本文对影响生态系统WUE的自然要素：如生态输水、气象要素、地下水埋深等，进行了系统分析。然而，本文尚未考虑人类活动的影响，如耕地面积、人口数量及废水排放等;其次，本文研究区仅限于塔里木河下游 $1 0 \mathrm { k m }$ 缓冲区，并未考虑与整个塔里木河流域的相关性，如上、中游对下游径流及周边荒漠化状况对WUE的影响等，因此，在以后的研究中应全方位考虑WUE与人类活动要素及更大区域环境要素的关系研究。
+
+# 参考文献(References)
+
+[1]Xu H, Zhang Z, Xiao J,et al.Environmental and canopy stomatal control on ecosystem water use efficiency in a riparian poplar plantation[J].Agricultural and Forest Meteorology,2020,287:107953,
+
+# 干旱区地理
+
+干星 doi: 10.1016/j.agrformet.2020.107953.   
+[2]李机密,黄儒珠,王健,等.陆生植物水分利用效率[J].生态学杂 志,2009,28(8): 1655-1663.[Li Jimi,Huang Ruzhu,Wang Jian, et al.Water use efficiency of terrestrial plants:A review[J]. Chinese Journal of Ecology,28(8): 1655-1663.]   
+[3]Jassal R S,Black TA,Spitlehouse DL,et al. Evapotranspiration and water use efficiency in different-aged Pacific northwest Douglas-fir stands[J].Agricultural and Forest Meteorology,2009,149 (6-7): 1168-1178.   
+[4]Huang M, Piao S, Zeng Z,et al. Seasonal responses of terrestrial ecosystem water-use efficiency to climate change[J]. Global Change Biology,2016,22(6): 2165-2177.   
+[5]ZhangT,PengJ,LiangW,etal.Spatia-temporalpaefwate use efficiency and climate controls in China’s Loess Plateau during 2000—2010[J]. Science of the Total Environment,2016,565: 105-122.   
+[6]Segovia-Cardozo D A,Rodriguez-Sinobas L, Zubelzu S.Water use efficiency of corn among the irrigation districtsacross the Duero River Basin (Spain): Estimation of local crop coefficients by satellite images[J].Agricultural Water Management,2019,212: 241-251.   
+[7]毋海梅,闫浩芳,张川,等.温室滴灌黄瓜产量和水分利用效率 对水分胁迫的响应[J].农业工程学报,2020,36(9):84-93.[Wu Haimei, Yan Haofang, Zhang Chuan, et al. Responses of yield and water use eficiency of drip-irigated cucumber in greenhouse to water stress[J]. Transactions of the Chinese Society of Agricultural Engineering,2020, 36(9): 84-93.]   
+[8]卢玲,李新,黄春林,等.中国西部植被水分利用效率的时空特 征分析[J].冰川冻土,2007,29(5):777-784.[Lu Ling,Li Xin, Huang Chunlin,et al.Analysis of the spatio-temporal characteristics of water use effciency of vegetation in west China[J]. Journal of Glaciology and Geocryology,2007,29(5): 777-784.]   
+[9]郝海超,郝兴明,花顶,等.2000—2018年中亚五国水分利用效 率对气候变化的响应[J].干旱区地理,2021,44(1):1-14.[Hao Haichao,Hao Xingming,Hua Ding,et al.Response of water use eficiency to climate change in five Central Asian countries from 2000 to 2018[J]. Arid Land Geography,2021,44(1): 1-14.]   
+[10] 任强,龙爱华,杨永民,等.近20年塔里木河干流生态环境变化 遥感监测分析[J].水利水电技术,2021,52(3):103-111.[Ren Qiang,Long Aihua,Yang Yongmin,et al.Analysis on remote sensing monitoring of eco-environment variation of main stream basin of Tarim River in recent 2O years[J].Water Resources and Hydropower Engineering,2021,52(3):103-111.]   
+[11] 刘海桂,唐旭利,周国逸,等.1981—2000年广东省净初级生产 力的时空格局[J].生态学报,2007,27(10):4065-4074.[Liu Haigui,Tang Xuli, Zhou Guoyi,etal.Spatial and temporal pattrns of netprimary productivity in thedurationof 1981—200 in Guangdong, China[J]. Acta Ecologica Sinica, 2007,27(10): 4065-4074.]   
+[12] Bastiaanssen W G,Menenti M,Feddes R A,et al.A remote sensing surface energy balance algorithm for land (SEBAL).1.Formulation[J]. Journalof Hydrology,1998,212: 198-212.   
+[13] 翟劭燚,王文种,刘九夫,等.基于Landsat8 辐射模块耦合 SEBAL模型蒸散发估算[J].水力发电,2019,45(1):18-22.[Zhou Shaoyi, Wang Wenzhong,Liu Jiufu,et al.Evapotranspiration estimation adopting SEBAL with a new radiation module based on LANDSAT8 data[J]. Water Power,2019,45(1): 18-22.]   
+[14] 宁亚洲,张福平,冯起,等.基于SEBAL模型的疏勒河流域蒸散 发估算与灌溉效率评价[J].干旱区地理,2020,43(4):928-938. [Ning Yazhou, Zhang Fuping,Feng Qi,et al.Estimation of evapotranspiration in Shule River Basin based on SEBAL model and evaluation on irrigation efficiency[J].Arid Land Geography,2020, 43(4): 928-938.]   
+[15]Adams MA,Turnbull TL, Sprent JI, et al. Legumes are different: Leaf nitrogen,photosynthesis,and water use efficiency[J]. Proc Natl Acad Sci USA,2016,113(15): 4098-4103.   
+[16] 郝兴明,李卫红,陈亚宁.新疆塔里木河下游荒漠河岸(林)植 被合理生态埋深[J].植物生态学报,2008,32(4):838-847. [Hao Xingming,Li Weihong,Chen Yaning.Water table and the desert riparian forest communtty in the lower reaches of Tarm River,China[J]. Acta Phytoecologica Sinica,2008,32(4):838- 847.]   
+[17]王燕凌,刘君,李文兵,等.塔里木河下游刚毛怪柳光合作用、蒸 腾作用及水分利用效率特性研究[J].新疆农业科学,2015,52 (2):292-299.[Wang Yanling,Liu Jun,Li Wenbing,etal.Study on characteristics in photosynthesis, transpiration and water use efficiency of Tamarix hispida Willd.in the lower reaches of the Tarim River[J]. Xinjiang Agricultural Sciences,2015,52(2): 292- 299.]   
+[18] 邹杰,丁建丽,秦艳,等.遥感分析中亚地区生态系统水分利用 效率对干旱的响应[J].农业工程学报,2018(9):145-152.[Zou Jie,Ding Jianli, Qin Yan,et al. Response of water use efficiency of Central Asia ecosystem to drought based on remote sensing data [J].Transactions of the Chinese Societyof Agricultural Engineering, 2018(9): 145-152.]   
+[19] 陈亚宁,李卫红,陈亚鹏,等.科技支撑新疆塔里木河流域生态 修复及可持续管理[J].干旱区地理,2018,41(5):901-907. [Chen Yaning,Li Weihong,Chen Yapeng,et al. Science in supporting the ecological restoration and sustainable development of the Tarim RiverBasin[J].AridLandGeography,2018,41(5):901 907.]   
+[20] 陈亚宁,李卫红,陈亚鹏,等.新疆塔里木河下游断流河道输水 与生态恢复[J].生态学报,2007,27(2): 538-545.[Chen Yaning, Li Weihong, Chen Yapeng,et al. Water conveyance in dried-up riverway and ecological restoration in the lower reaches of Tarim River, China[J]. Acta Ecologica Sinica,2007,27(2): 538-545.]   
+[21] 李均力,肖昊,沈占锋,等.2013—2018年塔里木河下游植被动 态变化及其对生态输水的响应[J].干旱区研究,2020,37(4): 985-992.[Li Junli, Xiao Hao,Shen Zhanfeng,et al.Vegetation changes during the2013—2018 period andits response to ecological water transport in the lower reaches of the Tarim River[J].Arid Zone Research,2020,37(4): 985-992.]   
+[22] 孙天瑶,李雪梅,许民,等.2000—2018年塔里木河流域植被覆 盖时空格局[J].干旱区地理,2020,43(2):415-424.[Sun Tianyao,Li Xuemei, Xu Min,etal.Spatial-temporal variationsof vegetation coverage in the Tarim River Basin from 2OOO to 2018[J].Ar
+
+# Effects of ecological water conveyance on water use efficiency of desert riparian forest ecosystem in the lower reaches of Tarim River
+
+HAO Haichao123， HAO Xingming12， CHENG Xiaoli4,ZHANG Jingjing12， FAN Xue²5， LI Yuanhang²
+
+(1.StateKeyLaboratoryofDesertandOasisEcology,XinjiangItituteofEcologyandGeography,hineseAcadeyofSciences,   
+Urumqi830l1,Xinjiang,China;2.AksuNationalStationofObservationandResearchforOasisAgro-ecosystem,Aksu843017, Xinjiang,China;3.Universityof Chinese AcademyofSciences,Beijing1049,China;4.Taiyuan Normal University, Jinzhong O30619,Shanxi,China; 5.Xinjiang Normal University,Urumqi 830054,Xinjiang,China)
+
+Abstract: Water use efciency(WUE)refers to carbon absorbed per unit of water loss in the ecosystem. It is a comprehensive indicator used in evaluating the suitability of plant growth under water deficit and can wel reflect the response of vegetation to ecological water conveyance.In this paper, the net primary productivity (NPP) estimated using the CASA model and evapotranspiration (ET) estimated using the SEBAL model are used to calculate the ecosystem WUE. Spatiotemporal changes in the ecosystem WUE in the lower reaches of Tarim River, Xinjiang, China are studied using slope trend analysis,Pearson correlation analysis,and grid time sequence synthesis,and the changes were found to be afected by ecological water conveyance, meteorological elements,and groundwater level.The results show the folowing: (1） from 200l to 2018,the WUE in the lower reaches of Tarim River exhibited a significant fluctuation $( P { < } 0 . 0 5 )$ ，whereas, the influence of NPP was greater than that of ET $\mathrm { \Delta C o r _ { N P P } = 0 . 7 6 > C o r _ { E T } = 0 . 1 0 }$ ).TheWUEof shrubs $( 0 . 4 9 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ is higher than that of Populus euphratica $( 0 . 3 0 \mathrm { ~ g } \mathrm { C } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ and herbs $( 0 . 2 4 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m m } ^ { - 1 } { \cdot } \mathrm { m } ^ { - 2 } )$ . The spatial variation of WUE is based on the river channel and shows a decreasing trend to both sides and from northwest to southeast.The extremely significant increase in area accounts for $1 3 . 6 4 \%$ of the entire study area. (2) From 2001 to 2018,the WUE of various vegetations showed a significant upward trend with increasing ecological water conveyance $( P { < } 0 . 0 5 )$ . The average annual increase in the WUE of shrubs was 15 times that of $P .$ euphratica and herbs.The response is also more sensitive. The WUE values of $P .$ euphratica, shrubs,and herbs are positively correlated with ecological water conveyance and the duration of water conveyance and negatively correlated with the start time of water conveyance.The WUE of shrubs has the highest correlation with the three.(3)There is a positive correlation between the number of water conveyance times and WUE,NPP,and normalized difference vegetation index (NDVI) during the year (WUE: Cor=0.407, NPP: $\mathrm { C o r } { = } 0 . 6 0 5$ ,NDVI: $\mathrm { C o r } { = } 0 . 6 5 7 .$ ).Inaddition, the optimum temperature(TEM) and NDVI are related to WUE and NPP,and the spatial distribution ofET is highly consistent.Populus euphratica has an average annual optimum temperature of $2 5 . 6 2 ~ \mathrm { ^ { \circ } C }$ ，shrubs have $2 7 . 0 7 \mathrm { ~ \textdegree C }$ , and herbs have $2 3 . 2 2 \mathrm { ~ \textdegree C }$ .At this time, the best combination of water and heat willbe more conducive to vegetation survival. (4) There is a strong negative correlation between the annual WUE and the groundwater level in the lower reaches of Tarim River ( $\mathrm { C o r } { = } { - } 0 . 8 1 \$ ) and WUE decreased by about $0 . 0 1 \ \mathrm { g } \mathrm { C } \cdot \mathrm { m m } ^ { - 1 } \cdot \mathrm { m } ^ { - 2 }$ every meter. The correlation between the WUE of herbs and shrubs and groundwater level is greater than that of $P .$ euphratica $( | \mathrm { C o r } _ { \mathrm { h e r b s ~ a n d ~ s h r u b s } } = - 0 . 7 6 | > | \mathrm { C o r } _ { P \ e u p h r a t i c a } = - 0 . 4 6 | ]$ ,and the average WUE of $P .$ euphratica, shrubs, herbs,and groundwater level is $4 { - } 6 \mathrm { ~ m ~ }$ ，with a peak at $6 \mathrm { ~ m ~ }$ .Above 6 m, the average annual WUE and WUE of each vegetation show a downward trend.
+
+Key words: Tarim River; ecological water conveyance; water use efficiency； groundwater depth； vegetation type; optimum temperature

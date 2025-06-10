@@ -1,0 +1,195 @@
+# 广西天坑森林物种多样性与土壤酶活性和养分的关系
+
+安小菲1,2.3，余林兰1,2.3，陈 铭1,2.3，刘昕宇1,2.3，黄 贵1,2.3，黄林娟1,2.3，薛跃规1,2,3\*(1．广西师范大学 珍稀濒危动植物生态与环境保护教育部重点实验室，广西 桂林 541006;2.广西师范大学广西漓江流域景观资源保育与可持续利用重点实验室，广西 桂林541006；3．广西师范大学 生命科学学院，广西 桂林 541006)
+
+摘要：研究天坑负地形生境土壤酶活性、养分和木本植物多样性的分布特征和内在联系，为喀斯特地区植物资源的保护与重建提供理论基础。该文以广西大石围天坑群天坑森林为研究区，基于天坑坑内一坑口一坑外群落多样性调查和土壤生境调查，采用相关性分析和冗余分析方法，探究木本植物物种多样性与土壤因子间的耦合关系。结果表明：（1）坑内木本植物有21种31属 20科，坑口木本植物有91种 58属58科，坑外木本植物有47种30 属 30 科，天坑坑内Margalef指数和Patrick指数显著低于天坑坑口和坑外生境，沿天坑坑内—坑口—坑外生境变化，物种分布总体较为均匀，但物种数量增多；（2）天坑坑外土壤全氮含量显著高于坑内和坑口生境，坑内的土壤全镁、土壤全磷和土壤速效磷含量显著高于坑口和坑外生境，坑外的土壤碱性磷酸酶和土壤脲酶活性显著高于坑口和坑内生境，表明天坑坑内土壤磷含量较高，但土壤酶活性总体偏低；（3）物种多样性与土壤养分、土壤酶活性相关性强。综上结果可知，天坑生境对物种多样性、土壤酶活性及土壤养分含量的分布特征影响较大，土壤速效磷、土壤碱性磷酸酶、土壤含水量、土壤脲酶、土壤全镁和土壤全磷是影响天坑森林木本植物物种多样性的关键因子。
+
+关键词：植物多样性，土壤养分，土壤酶活性，天坑森林，土壤磷中图分类号：Q948.1 文献标识码：A 文章编号：202108031
+
+# Relationships between species diversity and soil enzyme activities and nutrient contents in Tiankeng forests, Guangxi
+
+AN Xiaofei1.2.3, YU Linlan1,2.3, CHENMing1,2.3, LIU Xinyu1,2.3, HUANG Gui1,2.3, HUANG Linjuan $^ { 1 , 2 , 3 }$ , XUE Yuegui1,2,3\*   
+(1. Key Laboratory of Ecology of Rare and Endangered Species and Environmental Protection (Guangxi Normal University ),Ministry of Education, Guilin 541006, Guangxi, China; 2. Guangxi Key Laboratory of Landscape Resources Conservation and Sustainable Utilization in   
+Lijiang River Basin, Guilin 541006, Guangxi, China; 3. College ofLife Sciences, Guangxi Normal University, Guilin 541006, Guangxi, China）
+
+Abstract: The distribution characteristics and internal links of soil enzyme activities,nutrient content and woody plant diversity in negative topographic habitats of Tiankeng were studied, which provided a theoretical basis for the protection and reconstruction of plant resources in karst areas.The Tiankeng forests of the Dashiwei Tiankeng group in Guangxi were selected as the object. Based on the community diversity survey and soil habitat survey from the inner and top area to the outer area of Tiankeng,the relationship between species diversity and soil factors of woody plants was explored by correlation analysis and redundancy analysis methods.The results were as follows: (1) There were 21 species,31 genera and 20 families of woody plants in the inside area of Tiankeng, 91 species,58 genera and 58 families of woody plants in the top area of Tiankeng,and 47 species,30 genera and 30 families of woody plants in the outside area of Tiankeng. The Margalef index and Patrick index in the inside area of Tiankeng were significantly lower than those in the top and outside area of Tiankeng, indicating that the individuals of species increased,but the species distribution was steady; (2) The total soil nitrogen content in the outside area of Tiankeng was significantly higher than those in the top and outside area of Tiankeng. The soil total magnesium content, soil phosphorus content and soil available phosphorus content in the inside area of Tiankeng were significantly higher than those in the top and outside area of Tiankeng. The soil alkaline phosphatase content and soil urease activities in the outside area of Tiankeng were significantly higher than those in the top and inside area of Tiankeng. The soil phosphorus content in the Tiankeng was higher,but the soil enzyme activities were lower; (3) The results of Pearson correlation analysis and redundancy analysis showed that species diversity was strongly correlated with soil nutrients and soil enzyme activities.In conclusion,it can be seen that the habitats of the Tiankeng have a great influence on the species diversity,soil enzyme activity and soil nutrient content distribution characteristics.And the soil available phosphorus content, soil alkaline phosphatase activity,soil moisture content, soil urease activity,soil full magnesium content and soil total phosphorus content are the key factors affecting the species diversity of woody plants in the Tiankeng forest.
+
+Key words: plant diversity, soil nutrients, soil enzyme activities,Tiankeng forest, soil phosphorus content
+
+植物与土壤是生态系统的重要组成部分（郭曼等，2010），两者之间相互作用、相互影响，共同维持生态系统稳定（Zhang etal.,2018；廖全兰，2021）。土壤为植被的生长、发育、繁殖过程中提供大量的营养物质和水分，而植被生长反过来又可以影响土壤的结构和理化性质（关松荫，1986；由政，2016）。酶是森林土壤中一切生化代谢过程的主要催化剂，参与土壤物质氧化循环与生物转化的整个过程（陈光升等，2002），在一定程度上表征养分供应能力和植物对营养物质的吸收效果。如碱性磷酸酶、脲酶、蔗糖酶和过氧化氢酶与森林生态系统中土壤元素C、N、P的循环紧密相关（郑鸾和龙翠玲，2020）。受地形地貌、树种、温湿度、土壤等综合因素影响，土壤酶活性在不同的生境具有不同的响应（张或娜，2021）。目前，国内外已有对植物多样性与土壤酶活性和养分之间关系的研究，包括苔原（Iturrate-Garcia et al.,2016；张相昱，2021）、草地（Ljubicic et al.,2014）、高原森林（杨媛媛等，2017）、湿地（肖德荣等，2008）、丘陵（郭曼等，2010）、喀斯特石漠化区（刘子玥等，2021）、热带山地（De Carvalho etal.,2014）等，但对一些特殊负地形生境中的群落研究较少。因此，探讨天坑生境下植物群落与土壤养分、酶活性的关系对特殊生境森林生态系统的保护具有重要作用。
+
+大石围天坑群天坑森林为天坑特殊负地形生境下所形成的森林，主要分布在我国西南地区，为亚热带森林中植被保存较为原始而完整的森林生态系统（林宇，2005；黄林娟等，2021）。天坑负地形生境地势陡峭、地形复杂，造就了天坑独特的地理环境和气候条件，使天坑物种经过长期的适应与进化，形成了独特的植物群落结构（Suetal.,2017；黄林娟等，2021）。有学者已对喀斯特天坑的形态（朱学稳，2018）、形成与演化机制（朱学稳和陈伟海，2006；冯慧哲，2015）、动植物资源（曾小飚等，2013；Huang et al.,2022）和微生物资源（Puetal,2019；江聪等，2019）、物种种间联结性（简小枚等，2018；黄林娟等，2021）、叶功能性状（冯洁等，2021）等方面做了大量的研究工作，但是缺乏对天坑不同生境植被—土壤系统的综合研究。基于此，本文选取大石围天坑群天坑森林为研究对象，沿天坑坑内（天坑森林内部）—坑口（天坑森林边缘）—坑外（天坑周边喀斯特森林）生境梯度开展物种多样性与土壤酶活性、养分的关系研究。主要探究以下几个科学问题：（1）沿天坑不同生境木本植物物种多样性、土壤酶活性和养分含量的分布特征有何差异？（2）木本植物物种多样性—土壤酶活性—土壤养分三者之间存在怎样的内在关系？（3）影响天坑森林木本植物物种多样性的关键土壤因子是什么？旨在从植物群落样方调查的基础上，综合分析天坑生境土壤质量与群落物种多样性的关系，为喀斯特生态脆弱地区植物资源的保护与重建提供理论基础。
+
+# 1材料和方法
+
+# 1.1研究区概况
+
+广西大石围天坑群（ $1 0 6 ^ { \circ } 1 0 ^ { \prime } \mathrm { \_ } 1 0 6 ^ { \circ } 5 1 ^ { \prime } \mathrm { E }$ ， $2 4 ^ { \circ } 3 0 ^ { \prime }$ 一 ${ 2 5 ^ { \circ } 0 3 ^ { \prime } \mathrm { N } } .$ ）位于中国广西壮族自治区乐业县，桂西北高峰深洼带（朱学稳等，2018）。该区域处于暖湿气流交汇处，气候温和湿润，雨热同期，为中亚热带温湿气候；水文条件优越、水利发达；地形地貌复杂，有岩溶地貌形成的石山、天坑、溶洞和岩溶峰丛等；海拔差异较大，土壤以石灰岩风化的石灰土为主（黄林娟等，2021）。大石围天坑群植物群落类型多样，包括常绿落叶阔叶混交林、暖性针叶林、落叶阔叶混交林、季雨林化常绿阔叶林等（林宇，2005；沈利娜等，2020）。天坑独特负地形生境多样，可分为天坑内部、天坑边缘生境和天坑外3种生境，各个生境特征表现为：（1）天坑坑内：由天坑森林内部组成，位于天坑负地形内部下坡坡位，地形较为平坦，有成片土壤分布，岩石裂隙发育，水分条件好，光照条件适中，环境封闭，基本无人类活动干扰。（2）天坑坑口：由天坑森林边缘组成，位于天坑负地形顶部，坡体的上部，土壤浅薄且多分布于岩石裂缝处，水分条件差，光照条件好，环境开放，存在少量人类活动干扰，且是天坑内部森林与天坑外部周边喀斯特森林的一个群落交错区。（3）天坑坑外：由天坑外部地表喀斯特森林组成，位于天坑周边喀斯特石山下坡位，土壤浅薄呈不连续分布，水分条件好，光照条件适中，环境开放，受到人类干扰较大（冯慧喆，2015）。
+
+# 1.2植被调查
+
+2020 年7—11月，在充分踏查了大石围天坑群及其周边喀斯特森林的基础上，在距大石围天坑 $6 \mathrm { k m }$ 范围内选取3个植被完整、群落结构原始的天坑（由近到远依次为苏家天坑、神木天坑和大曹天坑）和1个天坑外部的喀斯特森林为研究区。大曹天坑和苏家天坑均属中型天坑，天坑形态为井筒型，最大深度介于 $9 2 { \sim } 1 6 7 \mathrm { ~ m ~ }$ 之间，口部面积介于 $2 . 3 7 \times$ $1 0 ^ { 4 } { \sim } 2 . 9 9 \times 1 0 ^ { 4 } \mathrm { m }$ ；神木天坑属大型天坑，天坑形态为井筒型，最大深度为 $2 3 4 \mathrm { m }$ ，口部面积为 $7 . 0 9 \times 1 0 ^ { 4 } \mathrm { m }$ ；坑外喀斯特森林为苏家天坑附近的天然次生林，靠近农田，属于天坑外部的地表森林。并依据坑内、坑口和坑外3种生境，各设置4个大小为 $2 0 \mathrm { m } \times 2 0 \mathrm { m }$ 的标准样地，并将每个样地划分为4个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的小样方进行木本植物每木检尺，测量并记录物种种名、胸径（基径/地径）、高度和盖度等，并记录海拔、经纬度、坡度、郁闭度、坡度等生境因子（表1）。
+
+表1三种生境基本概况  
+Table 1 Basic information in three habitats   
+1.3土壤样品采集与测定  
+
+<html><body><table><tr><td>生境</td><td>样地</td><td>取样点</td><td>经纬度</td><td>海拔</td><td>坡度</td><td>坡向</td><td>郁闭度</td><td>干扰程度</td></tr><tr><td>Habitats</td><td>Plots</td><td>Locations</td><td>Latitude and longitude</td><td>Altitute （m）</td><td>Slope</td><td>Aspect</td><td>Canopy density (%)</td><td>Interference level</td></tr><tr><td rowspan="4">坑内 Inside of</td><td>Q1</td><td>大曹天坑 Dacao Tiankeng</td><td>106°30'49.35" E, 24°47'21.07" N</td><td>1150</td><td>45</td><td>S</td><td>70</td><td></td></tr><tr><td>Q2</td><td>大曹天坑 Dacao Tiankeng</td><td>106°30'49.24" E, 24°47'20.17"N</td><td>1 145</td><td>40</td><td>WS</td><td>75</td><td>轻度</td></tr><tr><td>Q3</td><td>大曹天坑 Dacao Tiankeng</td><td>106°30'50.81" E, 24°47'21.02"N</td><td>1135</td><td>35</td><td>WS</td><td>79</td><td>Light</td></tr><tr><td>Q4</td><td>大曹天坑 Dacao Tiankeng</td><td>106°30'50.89"E, 24°47'22.07"N</td><td>1130</td><td>43</td><td>S</td><td>76</td><td></td></tr><tr><td></td><td>Q5</td><td>苏家天坑 Sujia Tiankeng</td><td>106°27'23.67" E, 24°48'17.71"N</td><td>1368</td><td>25</td><td>E</td><td>75</td><td></td></tr><tr><td>坑口 Top of tiankeng</td><td>Q6</td><td>苏家天坑 Sujia Tiankeng 神木天坑</td><td>106°27'25.16" E, 24°48'19.14"N</td><td>1366</td><td>22</td><td>E</td><td>80</td><td>轻度 Light</td></tr><tr><td></td><td>Q7</td><td>Shenmu Tiankeng 神木天坑</td><td>106°27'59.77" E, 24°48'42.92"N 106°27'59.97" E,</td><td>1296</td><td>37</td><td>EN</td><td>80</td><td></td></tr><tr><td></td><td>Q8</td><td>Shenmu Tiankeng 蓝靛瑶</td><td>24°48'42.62"N 106°27'22.64" E,</td><td>1276</td><td>39</td><td>EN</td><td>60</td><td></td></tr><tr><td>坑外</td><td>Q9</td><td>Landianyao forest 蓝靛瑶</td><td>24°48'30.48"N 106°27'22.73" E,</td><td>1322</td><td>31</td><td>S</td><td>72</td><td></td></tr><tr><td>Outside</td><td>Q10</td><td>Landianyao forest</td><td>24°48'31.31"N</td><td>1321</td><td>32</td><td>wS</td><td>75</td><td></td></tr><tr><td></td><td>Q11</td><td></td><td></td><td>1390</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>40</td><td>S</td><td>70</td><td></td></tr><tr><td>tiankeng</td><td></td><td></td><td>106°27'05.70" E,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>中度</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>蓝靛瑶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Middle</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Landianyao</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>24°48'05.79"N</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>forest</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>蓝靛瑶</td><td>106°27'05.32" E,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td></table></body></html>
+
+2020年7月，以梅花五点法在每个样地中设置5个 $2 \mathrm { m } ^ { 2 }$ 采样区，每个采样区中设置3一5个采样点，并结合土壤状况，选取地下 $0 { \sim } 1 5 ~ \mathrm { c m }$ 处的土壤按比例混匀，带回实验室用以土壤指标测量。选取 $2 0 { \sim } 3 0 ~ \mathrm { g }$ 鲜土过 $2 \mathrm { m m }$ （10目）筛后测定土壤酶活性，剩余部分经自然风干，挑出落叶、细根、石头等，研磨过 $0 . 1 2 5 \mathrm { m m }$ （100目）后用以土壤养分测定。土壤养分测定指标包括土壤 $\mathfrak { p H }$ 、土壤含水量（SWC）、土壤有机质（SOM）、土壤全氮（TN）、土壤全磷（TP）、土壤速效磷（AP）、土壤速效钾（AK）、土壤全钙（TCa）、全镁（ $\mathrm { \Delta T M g }$ ），详细方法参考鲍士旦（2006）和王巧环等（2013）。土壤酶活性测定指标包括过氧化氢酶活性（CAT）、碱性磷酸酶活性（ALP）、脲酶活性（URE）和蔗糖酶活性（SAC），详细测定方法参考关松荫（1986）和杨兰芳等（2011）。
+
+# 1.4物种多样性指数计算
+
+本研究选取了5种常用的物种多样性指数，分别为Patrick丰富度指数（S）、Margalef丰富度指数（M）、Simpson 多样性指数（D）、Shannon-Wiener 多样性指数（H）和Pielou's均匀度指数（J），详细计算公式参考张金屯（2004）和Keylock（2005）。
+
+# 1.5数据统计分析
+
+数据的初步处理及物种多样性的计算均在Excel2020中进行。在 SPSS26.0中，采用单因素分析结合最小显著性差异法（LSD）分析天坑3种生境木本植物物种多样性和土壤酶活性、养分的分布差异，并使用Pearson相关性分析物种多样性与土壤酶活性、养分的内在关系。在R4.0.0中，使用“rdacca.hp”包实现冗余分析（RDA）及层次分割理论（Lai etal.,2022），并结合“MASS”包中的逐步回归分析，筛选出影响大石围天坑群木本植物物种多样性的主要土壤因子。所有的图均利用R4.0.0 和Origin 2021进行绘制。
+
+# 2结果与分析
+
+# 2.1天坑不同生境下物种多样性特征
+
+本研究所调查的样地共有木本植物128种 56属55科，其中，天坑坑内有21种 31属20科，天坑坑口有91种58属58科，天坑坑外有47种30属30科。由表2可知，沿三种生境下木本植物多样性表现为，坑内生境的 Margalef 指数和 Patrick 指数显著低于坑口和坑外生境（ $_ { . P < 0 . 0 5 ) }$ ，而 Simpson 指数、Pielou's 指数和 Shannon-Wiener 指数在三种生境中差异均不显著（ $P { > } 0 . 0 5 )$ ），说明天坑不同生境生态因子发生改变，植物对环境生理生态变化的适应能力也会随之改变，从而制约整个植物群落的结构组成及垂直分布。沿着天坑坑内一坑口一坑外生境的变化，物种分布总体上较为均匀，但物种数量增多。
+
+表2不同生境物种多样性指数  
+Table2 Species diversity indexof different habitats   
+
+<html><body><table><tr><td>指标Index</td><td>坑内 Inside of tiankeng</td><td>坑口Top of tiankeng</td><td>坑外 Outside of tiankeng</td></tr><tr><td>Pielou's指数 J</td><td>0.89±0.21a</td><td>0.86±0.02a</td><td>0.85±0.01a</td></tr><tr><td>Simpson 指数 D</td><td>0.78±0.13a</td><td>0.91±0.02a</td><td>0.92±0.01a</td></tr><tr><td>Shannon-Wiener 指数 H</td><td>2.55±0.51a</td><td>2.98±0.12a</td><td>2.86±0.07a</td></tr><tr><td>Margalef指数 M</td><td>3.51±0.34b</td><td>6.33±1.01a</td><td>5.36±0.36a</td></tr><tr><td>Patrick 指数 S</td><td>18.00±2.45b</td><td>32.25±3.10a</td><td>28.75±1.71a</td></tr></table></body></html>
+
+注：同列不同小写字母表示不同生境差异显著 $( P { < } 0 . 0 5 )$ 。下同。
+
+Note: Different lowercase lettrs in the same column indicate significant differences in different habitat $( P { < } 0 . 0 5 )$ The sme below.
+
+# 2.2天坑不同生境下土壤养分和酶活性特征
+
+不同生境土壤养分特征（表3）表明，土壤全氮含量、土壤全磷含量、土壤速效磷含量和土壤全镁含量在三种生境中差异显著。不同生境土壤酶活性特征（图1）表明，坑外生境土壤碱性磷酸酶和脲酶活性显著高于坑内生境，而与坑口生境差异不显著。综上表明，土壤养分含量和土壤酶活性受生境差异影响较大，尽管本研究样地群落多为地带性常绿阔叶物种，但在坑口和坑外生境分布有较多的落叶植物，因而植被类型分布不均匀，使土壤养分含量和土壤酶活性的空间变异较大。整体而言，天坑坑内生境土壤磷含量较高，但土壤酶活性较低。
+
+表3不同生境土壤养分含量特征  
+Table 3 Characteristics of soil nutrient contentindifferent habitats   
+
+<html><body><table><tr><td>指标 Index</td><td>坑内 Inside of tiankeng</td><td>坑口 Top of tiankeng</td><td>坑外 Outside of tiankeng</td></tr><tr><td>有机质 SOM(g:kg-1)</td><td>225.10±9.50a</td><td>126.22±1.84a</td><td>269.22±11.68a</td></tr><tr><td>pH pH value</td><td>6.80±0.51a</td><td>7.02±0.11a</td><td>6.75±0.22a</td></tr><tr><td>含水量 SWC(%)</td><td>0.24±0.02a</td><td>0.28±0.07a</td><td>0.25±0.11a</td></tr><tr><td>全氮 TN(g:kg-1) 全钙</td><td>1.10±0.52b</td><td>0.91±0.39b</td><td>3.63±1.46a</td></tr><tr><td>TCa(g:kg-1) 全镁</td><td>5.35±6.35a</td><td>3.91±1.39a</td><td>3.89±1.55a</td></tr><tr><td>TMg(g:kg-1) 全磷</td><td>4.59±0.31a</td><td>3.20±0.49b</td><td>3.34±0.14b</td></tr><tr><td>TP(g-kg-1)</td><td>1.72±0.38a</td><td>0.79±0.25b</td><td>1.02±0.28b</td></tr><tr><td>速效磷</td><td>11.1±0.11a</td><td></td><td></td></tr><tr><td>AP(mg:kg-1) 速效钾</td><td></td><td>3.11±0.19c</td><td>7.90±0.05b</td></tr></table></body></html>
+
+注：图中不同小写字母表示不同生境差异显著 $( P { < } 0 . 0 5 )$ 。
+
+![](images/f2263a83b26477dafa0e38dfec02c01ca847a7adcfe8619c00fa0a0963667b8a.jpg)  
+图1不同生境土壤酶活性特征
+
+Note: Different lowercase letters in the figure indicate significant differences in different habitat $( P { < } 0 . 0 5 )$
+
+Fig.1 Characteristics of soil enzyme activity in different habitats
+
+# 2.3土壤酶活性与土壤养分的关系
+
+Pearson 相关性分析结果表明（表4），土壤养分和土壤酶活性存在显著相关性。其中，土壤过氧化氢酶活性与土壤含水量呈极显著负相关，脲酶和碱性磷酸酶与土壤全氮呈显著正相关，土壤脲酶与全镁达到显著负相关，土壤脲酶和碱性磷酸酶与全磷呈显著负相关关系，表明大石围天坑群复杂多样的生境会抑制土壤酶对土壤养分的分解，使得该地区土壤养分和土壤酶活性间相关性与其他地区不同，具有明显的空间异质性。
+
+表4土壤养分和土壤酶活性的Pearson相关系数  
+Table 4 Pearson correlation coefficient between soil nutrient contents and soil enzyme   
+
+<html><body><table><tr><td colspan="5">activities</td></tr><tr><td>指标</td><td>脲酶</td><td>蔗糖酶</td><td>碱性磷酸酶</td><td>过氧化氢酶</td></tr><tr><td>Index</td><td>Urease</td><td>Sucrase</td><td>Alkaline phosphatase</td><td>Catalase</td></tr><tr><td>有机质 SOM</td><td>0.283</td><td>0.037</td><td>0.223</td><td>-0.244</td></tr><tr><td>pH值pH</td><td>0.191</td><td>0.196</td><td>0.027</td><td>-0.166</td></tr><tr><td>含水量 sWC</td><td>-0.279</td><td>-0.405</td><td>-0.433</td><td>-0.809 **</td></tr><tr><td>全氮TN</td><td>0.613*</td><td>0.273</td><td>0.578*</td><td>-0.009</td></tr><tr><td>全钙TCa</td><td>0.238</td><td>0.507</td><td>0.207</td><td>0.179</td></tr><tr><td>全镁TMg</td><td>-0.599 *</td><td>-0.362</td><td>-0.487</td><td>-0.151</td></tr><tr><td>全磷TP</td><td>-0.642*</td><td>-0.55</td><td>-0.658*</td><td>-0.455</td></tr><tr><td>速效磷AP</td><td>-0.065</td><td>0.080</td><td>0.014</td><td>0.153</td></tr><tr><td>速效钾AK</td><td>-0.079</td><td>0.050</td><td>-0.183</td><td>-0.398</td></tr></table></body></html>
+
+注： $*$ 表示显著相关 $( P { < } 0 . 0 5 )$ ， $* *$ 表示极显著相关 $( P { < } 0 . 0 1 )$ 。 Note: \* indicates significant correlation $\scriptstyle \overbrace { P \mathrm { < } 0 . 0 5 } \$ ,\*\*indicates extremely significant correlation $( P { < } 0 . 0 1 )$
+
+# 2.4物种多样性与土壤养分和酶活性的关系
+
+RDA分析结果显示（图2），物种多样性与土壤养分、酶活性相关性强。物种多样性指数与土壤因子在前两轴的解释率分别为 $9 9 . 6 1 \%$ 和 $0 . 2 8 \%$ 。Pielou's指数与土壤有机质、过氧化氢酶、速效磷和全镁呈正相关，与土壤全钙呈负相关；Margalef指数、Shannon-Wiener指数、Simpson指数、Patrick指数与土壤蔗糖酶、 $\mathfrak { p H }$ 、含水量、脲酶、碱性磷酸酶呈正相关，而 Shannon-Wiener指数与全氮呈显著负相关；Simpson 指数与土壤全氮、碱性磷酸酶呈正相关。
+
+![](images/7940ed568b5ff89e483a74e9a246fbec73479556cdc7b1a621ceaa5fd3bc779f.jpg)
+
+J.均匀度指数；H.多样性指数；M.丰富度指数；S.丰富度指数；D.多样性指数；SOM.有机质； CAT.过氧化氢酶；SAP.速效磷；TMg.全镁；TCa.全钙；STN.全氮；ALP．碱性磷酸酶；URE．脲 酶；SWC.含水量；SPH.土壤pH；SAC.蔗糖酶；O．坑内； $\bigtriangleup$ .坑口； $\diamond$ .坑外。 J.Pielou's index; H. Shannon-Wiener index; M.Margalef index; S.Simpson index; D.Patrick index; SOM.Soil organic mater content; CAT. Catalase activity; SAP.Soil available phosphorus content; TMg.Total magnesium content;TCa.Total calcium content; STN.Soil total nitrogen content; ALP.Alkaline phosphatase activity; URE. Urease activity; SWC.Soil natural moisture content; SPH.Soil pH value; SAC.Sucrase activity;o.The inside area; $\bigtriangleup$ . The top area; $\diamondsuit$ .The outside area.
+
+图2物种多样性与土壤因子的RDA分析
+
+# Fig.2 RDA analysis of species diversity and soil factors
+
+回归模型结果表明（图3），土壤养分、土壤酶活对大石围天坑群木本植物群落多样性的解释程度从大到小依次为速效磷 $>$ 碱性磷酸酶 $>$ 含水量 $>$ 脲酶 $>$ 全镁 $>$ 全钙 $>$ 过氧化氢酶、蔗糖酶 ${ \tt > p H > }$ 全氮 $>$ 有机质，其中速效磷、碱性磷酸酶分别解释了 $7 5 . 5 \%$ 、 $10 . 5 \%$ 的变化，是影响物种多样性的关键因子。表明土壤养分对群落物种多样性的贡献率较大，而土壤酶活性对植物物种多样性贡献率较小。
+
+![](images/6333889bc20031e68cb504cbb04aaef38ae94e3ea61f148c627b8d076b4d39b1.jpg)  
+图3土壤因子对喀斯特天坑群落物种多样性的解释
+
+Fig.3 Interpretation of soil factors on community species diversity of Karst Tiankeng逐步回归分析结果表明（表5），物种多样性指数与土壤养分、土壤酶活性之间存在显著和极显著回归关系。Patrick 指数受到多因子的影响，随速效磷、碱性磷酸酶、含水量的增加且脲酶减少多样性指数增大；Margalef指数随速效磷、全镁的增加而减小;Shannon-Wiener指数、Simpson 指数分别随全镁、全磷的增加而减小。由此可见，速效磷、碱性磷酸酶、含水量、脲酶、全镁、全磷是影响喀斯特天坑群落物种多样性的最佳土壤变量，是驱动喀斯特天坑群落物种多样性变化的关键因子。
+
+表5天坑森林群落物种多样性与土壤因子的逐步回归分析  
+Table 5 Stepwise multiple regression between species diversity and soil factors in Tianker   
+
+<html><body><table><tr><td>逐步回归方程</td><td>决定系数R²</td><td>F值</td><td>显著性</td></tr><tr><td>Stepwise regression equation</td><td>Determination coefficient</td><td>F-value</td><td>Significant</td></tr><tr><td>S=18.546-14.878SAP+0.529ALP+40.460SWC-0.976URE</td><td>0.936</td><td>41.195</td><td>P<0.01</td></tr><tr><td>M=9.726-2.050SAP-0.849TMg</td><td>0.861</td><td>35.146</td><td>P<0.01</td></tr><tr><td>H=3.943-0.308TMg</td><td>0.386</td><td>7.927</td><td>P<0.05</td></tr><tr><td>D=1.021-0.128STP</td><td>0.352</td><td>6.963</td><td>P<0.05</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1天坑不同生境木本植物物种多样性指数、土壤酶活性及养分的差异
+
+中度干扰假说表明，局部区域物种多样性在中等强度干扰下最高（Markus et al.,2018），本研究结果表明，沿着天坑坑内一坑口一坑外生境的变化，坑外和坑口木本植物Margalef指数和 Patrick 指数均显著高于坑内生境，符合中度干扰假说。原因是坑内生境位于负地形内部，四周险峻的崖壁基本隔绝了人为干扰，坑口生境与坑外生境相连，存在少量的人类活动，且坑外生境经常伴随着人类耕种、放牧等中度干扰（范蓓蓓，2014；冯慧喆，2015；朱学稳等，2018），从而导致物种数量的增多。木本植物 Simpson 指数、Pielou's指数和Shannon-Wiener指数在天坑3种生境中差异不显著，表明天坑内外生境中植物群落可能存在不同的功能群落，因为不同的功能群落在天坑森林水平结构上的圈层分布可以增强群落的稳定，促进物种之间的交流（黄林娟等，2021）。沿着天坑坑内一坑□一坑外生境的变化，物种分布总体上较为均匀，但物种数量增多。
+
+土壤中的酶是表征土壤肥厚或贫瘠的关键活性指标，易受到生境水热条件、土壤生物、树种等多因素的影响，致使土壤中酶活性大小也随生境变化而产生差异（符裕红等，2012）。本研究中土壤脲酶、碱性磷酸酶、蔗糖酶活性在天坑3种不同生境中的变化与木本植物多样性的变化趋势相似，表现为坑内生境土壤脲酶、碱性磷酸酶显著低于坑外生境，因为土壤酶活性可以直接或间接地影响植物对养分的吸收（严思维等，2016；廖全兰，
+
+2021）。坑外生境土壤脲酶活性显著高于坑内和坑口生境，与坑外生境土壤全氮的含量也显著高于坑口和坑内生境结果一致，因为土壤供氮水平可以直接决定土壤脲酶活性（申佳艳等，2018）。坑外生境碱性磷酸酶活性显著高于坑内生境，因为碱性磷酸酶与土壤全氮含量显著正相关，这与坑外土壤全氮含量最高的结果一致。土壤蔗糖酶活性和过氧化氢酶活性在3种生境之间的差异性不显著，可能是因为坑内生境属于负地形、小生境复杂多样、森林郁闭度较高（沈利娜，2020），坑口生境光照辐射范围广，水分蒸发大，坑外生境与坑口生境相连，土层较薄且分布不集中，不同因素对酶的综合作用，致使土壤蔗糖酶和过氧化氢酶活性在3种生境间的差异不显著。
+
+土壤养分状况是植物的生长发育的直接影响因素（薛飞等，2020）。本研究发现天坑坑内生境土壤全磷含量、土壤速效磷含量和土壤全镁含量显著高于坑口、坑外生境，其主要与天坑负地形有关。一方面，天坑负地形土壤汇集效应强（江聪等，2019），为天坑内部积累了大量的养分，而坑口和坑外生境坡度大，土壤流失进入农田、天坑等地势低洼处的速度快，从而引起养分含量低（范蓓蓓，2014）。另一方面，坑内丰富的水热条件促进了土壤的养分循环过程，而坑外受水分胁迫，直接影响植物对土壤养分的归还（郑生猛，2016；廖全兰等，2020）。土壤全氮含量为坑外生境显著高于坑口、坑内，这是因为坑外位于喀斯特石山下坡位，环境开放，干扰较多，促进了凋落物的分解和土壤氮的矿化过程。土壤速效钾含量表现为坑口 $>$ 坑内 $>$ 坑外，土壤速效钾能促进植物进行光合作用（刘玉祯，2020），增强植物的抗胁迫性，这与坑口植物抗干扰能力强特征相一致（黄林娟等，2021）。土壤全钙含量在天坑三种生境差异均不显著，因为喀斯特地区土壤钙含量普遍较高，钙离子（ $\mathrm { C a } ^ { 2 + }$ ）极易与土壤中的有机质络合而成不易分解的化合物，致使养分的释放量也减少（王琪等，2022）。综合可知，不同生境下土壤养分、酶活性和物种多样性的分布差异较大，天坑坑内生境资源较为丰富，但物种种类较少，而坑口和坑外生境受人类干扰较大，环境受到一定的胁迫，但物种数量较多。
+
+# 3.2物种多样性指数-土壤养分-土壤酶活性之间相关性
+
+喀斯特天坑土壤发育于碳酸盐岩石，经过长期的岩溶、冲刷作用，森林土壤酶活性和土壤养分之间存在复杂的内在联系。本研究结果中土壤脲酶与土壤全氮呈显著正相关关系，而与土壤全镁和全磷呈显著负相关关系，土壤碱性磷酸酶与土壤全氮呈显著正相关关系，与土壤全磷呈显著负相关关系，说明在酶活性参与养分循环过程中，土壤氮素能适应生境条件异质而正向释放氮元素，相反，土壤磷素释放量受到生境条件制约。因为土壤全氮含量是土壤中微生物产生的酶数量的间接影响因素（罗攀等，2017），土壤磷素的有效来源只有通过土壤有机质的氧化分解，而有机质又将通过地上枯落物循环分解获得（李海云等，2018）。因此，天坑不同生境凋落物的储量、分解效率及土壤有机质含量将影响土壤磷素的释放量，进而影响土壤酶活性。过氧化氢酶与含水量之间存在极显著负相关性，因为过高的土壤含水量在一定程度上会抑制过氧化氢酶活性，影响土壤呼吸和土壤微生物数量（申佳艳等，2018）。土壤养分有机质、全钙、速效磷和速效钾与土壤酶之间相关性不显著，可能是因为天坑森林内部土壤中大量的养分来源于坑外森林，而通过坑内土壤酶释放的养分较少。坑内负地形结构有利于土壤的汇集，这大大促进了坑外土壤养分在坑内生境的累积，同时，天坑植被多样、地形复杂也会影响土壤酶对土壤养分的分解。
+
+土壤养分、微生物的活性和土壤酶活性之间相互作用，共同影响群落物种的的结构和组成（廖全兰，2021）。本研究结果表明土壤养分（速效磷的解释率为高达 $7 5 . 5 \%$ ）对群落物种多样性的贡献率最大，而土壤酶活性（碱性磷酸酶解释率为 $10 . 5 \%$ ）对植物物种多样性贡献率较小，此结果与宁盼等（2021）的研究结果一致。天坑森林地形复杂、土壤肥厚，是天坑生态系统生物多样性丰富的原因之一（于燕妹等，2021），植物群落物种组成受不同生境条件限制，对环境生理生态变化的适应能力也会随之改变，从而制约整个植物群落的结构组成及垂直分布，使地面的枯落物组成、分解效率等产生差异，影响土壤养分和酶的分布（郑鸾和龙翠玲，2020）。Simpson 指数和Margalef 指数与土壤速效磷表现为负相关，这是由于物种多样性不仅受土壤养分的影响，还受到天坑环境的开放程度有关。开放的环境促进了物种的交流，而封闭的环境加速了物种的灭绝（郑淑华等，2011）。坑外生境和坑口生境相连，环境开放，从而增加了物种丰富度。而坑内物种养分含量高，但受到天坑面积、地形、土壤分布、生物活动等其它综合因素的影响，可被利用的土壤养分（SAP）与植物多样性（S）表现为负相关。
+
+物种多样性与土壤酶活性总体表现为相关性较弱，其原因可能与酶自身特性有关。天坑森林地区坑内生境相比坑口和坑外生境物种相对原始、异质性强，影响土壤酶活性强度（Pu etal.,2019）。天坑坑内生境森林多为常绿落叶阔叶混交林，常绿树种相对较多，而常绿物种的凋落物分解较缓慢，微生物活动小，酶活性低（刘微，2014）。这主要是因为影响天坑森林物种多样性的因素有很多，如天坑特殊负地形、土壤养分、酶活性、群落组成、土壤环境及人为干扰等，不同的因素对物种多样性的作用形式也不同。在西南喀斯特地区中，天坑森林位于一个特殊的巨大负地形中，随着天坑内部土壤有机质、氮、磷含量的增加，植物群落的物种多样性随着土壤肥沃程度的增加而增加，而酶活性极易受空间异质性、水热条件等的综合影响（田静，2019），不同生境中随植被演替、群落结构调整，土壤酶活性均具有不同的响应形式。因此，未来在研究物种多样性和土壤酶活性、土壤养分的关系时，应针对具体的自然环境状况选取对生境具有指示作用的酶，并结合地形结构、群落结构等，以更有有针对性地研究植被与土壤之间的关系。
+
+# 4结论
+
+（1）沿天坑坑内—坑口—坑外生境，物种分布总体上较为均匀，但物种数量增多;（2）天坑坑内生境土壤土壤全磷含量、土壤速效磷含量较高，但土壤碱性磷酸酶和脲酶活性较低；（3）木本植物物种多样性与土壤养分、土壤酶活性相关性强，土壤速效磷、碱性磷酸酶、土壤含水量、脲酶、全镁、全磷是影响喀斯特天坑群落物种多样性的关键因子。
+
+致谢：感谢中国乐业—凤山世界地质公园管理处的工作人员对野外调查工作给予的支持。
+
+# 参考文献：
+
+BAO SD,2006. Soil agricultural chemistry analysis[M]. Beijing: Higher Educ Press.[鲍士旦, 2006．土壤农化分析[M]．北京：高等教育出版社.]   
+CHEN GS, ZHONG ZC, QI DH,2002. Relationship between soil enzymatic activity and fertility of the evergreen broad-leaved forest in the Jinyun mountain [J]. J Sichuan Normal Univ, (1): 19-23.[陈光升，钟章成，齐代华，2002.缙云山常绿阔叶林土壤酶活性与土壤肥力的 关系[J]．四川师范学院学报，(1)：19-23.]   
+DE CARVALHO F, GODOY EL,LISBOA FJG, et al., 2014. Relationship between physical and chemical soil attributes and plant species diversity in tropical mountain ecosystems from Brazil[J]. J Mt Sci, 11: 875-883.   
+FAN BB, 2014. The study on characteristics and succession of karst Tiankeng community in Dashiwei,Guangxi[D].Guilin: Guangxi Normal Univ.[范蓓蓓，2014.广西大石围天坑群 天坑植物群落特征及演替研究[D]．桂林：广西师范大学.]   
+FENG HZ,2015.The study on origion and evolution of karst Tiankeng flora in Dashiwei, Guangxi[D].Guilin:Guangxi Normal Univ.[冯慧喆，2015．广西大石围天坑群植物区系 的起源和演化研究[D]．桂林：广西师范大学.]   
+FENG J, JIANG C, SHUI W, et al., 2021. Functional traits of Fagaceae plants in shady and sunny slopes in karst degraded tiankeng[J].Chin JAppl Ecol,32(7): 2301-2308.[冯洁，江聪，税 伟，等，2021．喀斯特退化天坑阴坡阳坡壳斗科植物的功能性状特征[J]．应用生态学 报，32(7): 2301-2308.]   
+FU YH,HUANG ZS,YU LF,2012. Soil enzyme activities in the type of root underground habitat typical of karst areas[J].Acta Soda Sin,49(6):1202-1209.[符裕红，黄宗胜，喻理飞， 2012.岩溶区典型根系地下生境类型中土壤酶活性研究[J]．土壤学报，49(6)：1202- 1209.]   
+GUAN SY,1986. Soil enzymes and their research methods [M]. Beijing: Agricultural Press. [关松 荫，1986．土壤酶及其研究法[M]．北京：农业出版社.]   
+GUO M, ZHENG FL,WEN X, et al.,2010. Variation of vegetation diversity and its relationship with soil nutrient and enzyme activity in lands of different abandoned years in the Loess hilly-gully region[J].Acta Soda Sinica,47(5): 979-986.[郭曼，郑粉莉，文祥，等，2010. 黄土丘陵区不同退耕年限植被多样性变化及其与土壤养分和酶活性的关系[J]．土壤学 报，47(5): 979-986.]   
+HUANG LJ, YU YM, AN XF, et al., 2021. Interspecific association of main woody plants in tiankeng forests of Dashiwei Tiankeng group, Guangxi [J]. Guihaia, 41(5): 695-706.[黄林娟, 于燕妹，安小菲，等，2021．广西大石围天坑群天坑森林主要木本植物种间关联性研 究[J].广西植物，41(5):695-706.]   
+HUANG LJ, YANG H,AN XF,et al., 2022. Species adundance distribution pattern between Tiankeng forests and non-Tiankeng forests [J]. Diversity,12(2): 64-76.   
+ITURRATE-GARCIA M, O'BRIEN MJ, KHITUN O, et al., 2016. Interactive effects between plant functional types and soil factors on tundra species diversity and community composition[J]. Ecol Evol, 6(22):8126-8137.   
+JIAN XM, SHUI W, CHEN YP, et al., 2018. Interspecific relationships of dominant species in the grassland community of moderately degraded tiankeng of Yunnan, China[J]. Chin J Appl Ecol,29(2):492-500.[简小枚，税伟，陈毅萍，等，2018．云南中度退化的喀斯特天坑 草地植物群落优势种种间关系[J]．应用生态学报，29(2)：492-500.]   
+JIAN XM, SHUI W, WANG YN, et al., 2018. Species diversity and stability of grassland plant community in heavily-degraded karst tiankeng: a case of Zhanyi tiankeng in Yunnan, China[J].Acta Ecol Sin,38(13):4704-4714.[简小枚，税伟，王亚楠，等，2018．重度退 化的喀斯特天坑草地物种多样性及群落稳定性——以云南沾益退化天坑为例[J]．生态 学报，38(13):4704-4714.]   
+JIANG C, SHUI W, JIAN XM, et al.， 2019. Soil microorganism distribution characteristics of talus slope of negative topography in degraded karst tiankeng in southwestern China[J]. Acta Ecol Sin,39(15):5642-5652.[江聪，税伟，简小枚，等，2019．西南喀斯特退化天坑负 地形倒石坡的土壤微生物分布特征[J]．生态学报，39(15)：5642-5652.]   
+KEYLOCK, CJ, 2005. Simpson diversity and the Shannon-Wiener index as special cases of a generalized entropy[J]. Oikos,109(1),203-207.   
+LI HY, ZHANG JG,YAO T,et al.， 2018. Soil nutrients,enzyme activities and ecological stoichiometric characteristics in degraded alpine grasslands[J]. J Soil Water Conserv, 32(5): 287-295.[李海云，张建贵，姚拓，等，2018．退化高寒草地土壤养分、酶活性及生态 化学计量特征[J]．水土保持学报，32(5)：287-295.]   
+LIAO QL, 2O21. Study on soil enzymes and influencing factors in karst forests of diferent terrain in Maolan[D].Guiyang:Guizhou Normal Univ.[廖全兰，2021．茂兰不同地形喀斯特森林 土壤酶及影响因素研究[D]．贵阳：贵州师范大学.]   
+LIAO QL，LONG Cl， XUE F，et al.，2020. Soil enzyme activity and nutrient content characteristics of different topography in Maolan karst forest[J]. JFor Environ, 40(2): 164- 170.[廖全兰，龙翠玲，薛飞，等，2020．茂兰喀斯特森林不同地形土壤酶活性及养分 特征[J]．森林与环境学报，40(2)：164-170.]   
+LAI JS,ZOU Y, ZHANG JL， 2022. Generalizing hierarchical and variation partitioning in multiple regression and canonical analyses using the rdacca.hp R package[J]. Methods Ecol Evol, 13: 782-788.   
+LJUBICIC I，BRITVEC M, JELASKA SD，et al.， 2014. Plant diversity and chemical soil composition of rocky pastures in relation to the sheep grazing intensity on the northern Adriatic islands[J]. Acta Botanica Croatica, 73(2).   
+LUO P, CHEN H, XIAO KC, et al., 2017. Efects of topography, tree species and soil properties on soil enzyme activity in karst regions[J]. Chin JEnviron Sci, 38(6): 2577-2585.[罗攀，陈 浩，肖孔操，等，2017．地形、树种和土壤属性对喀斯特山区土壤胞外酶活性的影响 [J]．环境科学，38(6)：2577-2585.]   
+LIN Y,20o5. Species diversity of karst tiankeng forest in Dashiwei Tiankeng, Guangxi[D]. Guilin: GuangxiNormal University.[林宇，2005．广西大石围天坑群天坑森林物种多样性研究 [D]．桂林：广西师范大学.]   
+LIU W,2014. Leaf N, P stoichiometry and allocation of main deciduous and evergreen tree species in Tiantong national forest park, Zhejiang province, China[D]. Shanghai: East China Normal University.[刘微，2014．天童主要落叶和常绿树种叶片N、P化学计量学及分 配特征研究[D]．上海：华东师范大学.]   
+LIU YZ, 2020.Response of shrub patches characteristics of dominant shrubs to enclosure on eastern Qilian mountain[D].Lanzhou: Gansu Agr Univ.[刘玉祯，2020．祁连山东段优势 灌丛斑块特征对围封的响应[D].兰州：甘肃农业大学.]   
+LIU ZY, WANG YC,LUO PZ, et al., 2021. Coupling relationships between plant diversity and soil characteristics in rocky desertification areas of western Hunan[J]. JFor Environ, 41(5): 471-477.[刘子玥，王祎宸，骆丕昭，等，2021．湘西石漠化地区植物多样性与土壤因 子的耦合关系[J]．森林与环境学报，41(5)：471-477.]   
+MARKUS D, JAN S, MARTIN E, et al.,2018. Decreased wheat grain yield stimulation by free air （20 $\mathrm { C O } _ { 2 }$ enrichment under N deficiency is strongly related to decreased radiation use efficiency enhancement[J]. Eur JAgron,101, 38-48.   
+PU GZ,LV YN,DONG LN,et al.，2019.Profiling the bacterial diversity in a typical karst Tiankeng of China [J]. Biomolecules, 9(5): 187.   
+SU YQ, TANG QM, MO FY, et al., 2017. Karst Tiankengs as refugia for indigenous tree flora amidst a degraded landscape in southwestern China[J]. Sci Rep, 7(1): 4249.   
+SHEN JY,LI XY, YUAN Y, et al., 2018. Response of soil enzymes to different elevations and aspects in Naban basin nature reserve[J].J Soil Water Conserv,25(1): 111-119.[申佳艳，李 小英，袁勇，等，2018．纳板河自然保护区土壤酶对不同海拔、坡向的响应[J．水土 保持研究，25(1)：111-119.]   
+SHEN LN, HOU MF, XU WB,et al., 2020. Research on flora of seed plants in Dashiwei karst tiankeng group of Leye,Guangxi[J].Guihaia,40(6): 751-764.[沈利娜，侯满福，许为斌, 等，2020.广西乐业大石围天坑群种子植物区系研究[J]．广西植物，40(6)：751-764.]   
+TIAN J, 2019. Spatial-temporal distribution and influencing factors of soil enzyme activity in the typical karst fragile ecosystems[D]. Guiyang: Guizhou Normal University.[田静，2019.典 型喀斯特脆弱生态系统土壤酶活性时空分布特征及其影响因素研究[D]．贵阳：贵州师 范大学.]   
+WANG QH, REN YF, MENG L, et al., 2013. Simultaneous determination of total nitrogen and organic carbon in soil with an elemental analyzer[J]. Anal Lab,32(10): 41-45.[王巧环，任 玉芬，孟龄，等，2013．元素分析仪同时测定土壤中全氮和有机碳[J].分析试验室， 32(10): 41-45.]   
+WANG Q, RONG L, WANG MJ, et al., 2022. Response of leaf functional traits of woody plants to degraded karst soil in central Guizhou[J].Earth Environ: 1-9.[王琪，容丽，王梦洁等, 2022．黔中木本植物叶功能性状对退化喀斯特土壤特性的响应[J].地球与环境：1-9.]   
+XIAO DR, TIAN K, ZHANG LQ, 2008. Relationship between plant diversity and soil fertility in Napahai wetland of northwestern Yunnan plateau[J]. Acta Ecol Sin,(7): 3116-3124.[肖德荣, 田昆，张利权，2008．滇西北高原纳帕海湿地植物多样性与土壤肥力的关系[J]．生态 学报，（7)：3116-3124.]   
+XUE F,LONG Cl, LIAO QL,et al.，2020. An analysis of liter, soil, stoichiometry, and soil enzymes in karst forest[J].JFor Environ,40(5): 449-458.[薛飞，龙翠玲，廖全兰，等， 2020．喀斯特森林凋落物对土壤养分及土壤酶的影响[J]．森林与环境学报，40(5): 449-458.]   
+YAN SW, DU K, CHEN AM, et al., 2016. The effects of vegetation type on soil nutrients and enzymes in Jiangjia Gulley with frequent debris flow[J]. J Appl Environ Biol, 22(1): 49-57. [严思维，杜锟，陈爱民，等，2016．蒋家沟泥石流频发区不同植被类型与土壤养分及 酶的关系[J]．应用与环境生物学报，22(1)：49-57.]   
+YANG LF, ZENG Q, LI HB, et al.,2011. Measurement of catalase activity in soil by ultraviolet spectrophotometry[J].Chin JSoil Sci,42(1): 207-210.[杨兰芳，曾巧，李海波，等，2011. 紫外分光光度法测定土壤过氧化氢酶活性[J].土壤通报，42(1)：207-210.]   
+YANG YY, CHEN QB,LI JQ, et al., 2017. Vegetation diversity and soil biological fertility of Pinus armandii in central Yunnan plateau, China[J]. Soils,49 (1): 90-96.[杨媛媛，陈奇伯, 黎建强，等，2017.滇中高原华山松植物多样性与土壤生物肥力特征[J].土壤，49(1): 90-96.]   
+YOU Z, 2016. Changes of plant community characteristics at different succession stage and its influence on soil properties in abandoned cropland[D]. Xianyang: Northwest A & F University.[由政，2016．退耕地不同演替阶段植物群落特征及其对土壤性质的影响[D]. 咸阳：西北农林科技大学.]   
+YU YM, HUANG LJ,XUE YG, 2021. Characteristics of different plant communities in the Dashiwei Tiankeng group, Guangxi, China[J]. JPlant Ecol, 45(1): 96-103.[于燕妹，黄林娟, 薛跃规，2021．广西大石围天坑群不同植物群落的特征[J]．植物生态学报，45(1)：96- 103.]   
+ZENG XB, SU SL, 2013. Survey of amphibian resources in Dashiwei Tiankeng group scenic tourism area, Guangxi[J]. Jiangsu Agric Sci,41(3): 348-350.[曾小飚，苏仕林，2013．广 西大石围天坑群风景旅游区两栖动物资源调查[J].江苏农业科学，41(3)：348-350.]   
+ZHANG JT,2004. Quantitative ecology[M].Beijing: Sci Press.[张金屯，2004．数量生态学[M]. 北京：科学出版社.]   
+ZHANG W, QIAO W J, GAO D X, et al., 2018. Relationship between soil nutrient properties and biological activities along a restoration chrono sequence of Pinus tabulaeformis plantation forests in the Zi-wuling Mountains, China[J]. Catena, 161: 85-95.   
+ZHANG XY,2021. Effects of disturbance on aboveground vegetation diversity and soil in tundra Zone of Changbai Mountain[D].Jilin: Jilin University.[张相昱，2021．人为干扰对长白山 苔原带地上植物多样性和土壤的影响研究[D]．吉林：吉林大学.]   
+ZHANG YN，2021. Effects of diferent vegetation restoration models on plants， soil and microorganisms in the Mashan karst area[D]. Nanning: Guangxi University.[张或娜， 2021. 马山岩溶区不同植被修复模式对植物、土壤及微生物的影响[D]．南宁：广西大学.]   
+ZHENG SH, WANG K, YANG SL, et al.,2011. The concept of land island and its basic theory[J]. Inn Mongolia Grassland Ind,23(1):1-8.[郑淑华，王堃，杨胜利，等，2011．陆岛的概念 及其基本理论[J]．内蒙古草业，23(1)：1-8.]   
+ZHENG L,LONG CL, 2020. Differences of plant diversity and soil physicochemical properties in Maolan karst forest under different topographic conditions[J]. Guihaia, 40(6): 792-801.[郑鸾, 龙翠玲，2020.茂兰喀斯特森林不同地形植物多样性与土壤理化特征研究[J].广西植 物，40(6): 792-801.]   
+ZHENG SM, 2016. The distribution pattern of dominant shrub species in a typical karst area and the environment interpretation[D].Guilin: Guangxi Normal University.[郑生猛，2016．典 型喀斯特灌丛优势种分布格局及环境解释[D]．桂林：广西师范大学.]   
+ZHU XW, CHEN WH,2006. Tiankeng in the karst of China[J]. Carsol Sin,25(8): 7-24.[朱学稳, 陈伟海，2006．中国的喀斯特天坑[J]．中国岩溶，25(8)：7-24.]   
+ZHU XW, ZHANG YH, CHEN WH, et al., 2018. Leye Tiankeng[M]. Nanning: Guangxi Sci Technology Press.[朱学稳，张远海，陈伟海，等，2018．乐业天坑[M]．南宁：广西科 学技术出版社.]

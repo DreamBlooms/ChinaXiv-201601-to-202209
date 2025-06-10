@@ -1,0 +1,163 @@
+# 不同培肥方式对沙质土地区残次林地土壤团聚体组成及稳定性的影响
+
+张露1,2.3，孟婷婷1，胡雅1，魏静
+
+1.自然资源部退化及未利用土地整治工程重点实验室,自然资源部土地工程技术创新中心,陕西 西安710021;2.陕西省土地整治重点实验室,陕西 西安710064；3.渭南市农业技术推广中心,陕西 渭南714000)
+
+摘要：为评价沙质土地区耕地整治中土壤团聚体的稳定性,在陕北榆林靖边县残次林地整治耕地项目区中设立试验田，采用正交试验方案[L9 $\left( 3 ^ { 4 } \right) ]$ ,分析不同肥料类型及施用量对土壤团聚体的影响。结果表明：与不施肥的农田土壤相比,N肥和有机肥配施可以提高水稳性大团聚体的含量,其中,当施用尿素 $4 2 1 . 3 4 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,不施P肥,氯化钾$1 2 5 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,有机肥 $7 . 5 \mathrm { { t } } { \cdot } \mathrm { { h m } } ^ { - 2 } ( \mathrm { { T } } 7 )$ 时， $> 2 ~ \mathrm { m m }$ 的水稳性大团聚体含量分别高于T1(不施N、P、K肥及有机肥）、T2（不施N肥、施用过磷酸钙 $3 3 3 . 3 3 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、氯化钾 $6 2 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、有机肥 $7 . 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ )、T3(不施N肥、施用过磷酸钙 $6 7 5 ~ \mathrm { k g }$ $\mathrm { h m } ^ { - 2 }$ 、氯化钾 $1 2 5 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 }$ 、有机肥 $1 5 ~ { \mathrm { t } } { \cdot } { \mathrm { h m } } ^ { - 2 } ) 4 7 0 . 1 5 \% ~ . 3 6 0 . 2 4 \%$ 和 $2 1 0 . 5 7 \%$ ;对其数量分布、土壤团聚体累计含量为$1 0 \% . 3 0 \% . 6 0 \%$ 时所对应的团聚体直径 $D _ { 1 0 } \sqrt { { \cal D } _ { 3 0 } } \sqrt { { \cal D } _ { 6 0 } }$ (平均重量直径(MWD）几何平均直径(GMD)和土壤结构系数等有显著影响,其中对 $0 . 2 5 { \sim } 2 ~ \mathrm { m m }$ 和 $> 2 ~ \mathrm { m m }$ 的水稳性大团聚体有着明显的促进作用,处理T3、T4（尿素 $1 9 8 . 2 8 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、不施P肥、氯化钾 $6 2 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、有机肥 $1 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ ）、T5（尿素 $1 9 8 . 2 8 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、过磷酸钙 $3 3 3 . 3 3 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、氯化钾 $1 2 5 ~ \mathrm { k g }$ $\mathrm { h m } ^ { - 2 }$ 、不施有机肥）、T6（尿素 $1 9 8 . 2 8 ~ \mathrm { k g \cdot h m } ^ { - 2 }$ 过磷酸钙 $6 7 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、不施K肥、有机肥 $7 . 5 \ \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ ）、T7和T8（尿素$4 2 1 . 3 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、过磷酸钙 $3 3 3 . 3 3 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、不施K肥、有机肥 $1 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ )的土壤结构系数 $( K c t p ) 1 . 5 \mathrm { { \sim } } 0 . 6 7$ ,土壤结构良好。综上,说明N肥和有机肥配施,尤其是当尿素施用量 $4 2 1 . 3 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ （基施 $6 0 \%$ 、追施 $4 0 \%$ ）、氯化钾施用量125$\mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 、有机肥施用量 $7 . 5 \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ 时能改善残次林地新增耕地土壤团聚体的结构,增强土壤团聚体的抗水分侵蚀能力。
+
+关键词：残次林地；水稳定性团聚体；化肥；有机肥；土壤结构
+
+据国土数据统计显示，2016年底全国耕地后备资源总面积为 $5 3 5 . 2 8 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,相比于2003年下降了约 $2 0 0 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,其中，可整治土地 $5 1 6 . 1 8 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 占 $9 6 . 4 \%$ ,而在这些可供开发、整理、复垦的土地中，其资源类型主要是未利用地，即盐碱地、裸地、荒草地和内陆滩涂等，共计约 $4 9 8 . 7 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，占到可整治土地总量的 $9 3 . 2 \% ^ { [ 1 ] }$ 。在我国,耕地后备资源主要集中在经济条件相对落后的中西部区域。据目前整治土地的形式来看，通过田坎、坑塘等一些农用地和未利用地的整治去实现耕地“占补平衡”，已经遇到了资源上的瓶颈，所以扩大补充耕地来源刻不容缓[2]。早在2017年底，自然资源部（原国土资源部)就颁布了相关文件《国土资源部关于改进管理方式切实落实耕地占补平衡的通知》，明确提出园地和残次林地可以作为土地整治的备选资源，该通知打破并扩大了以往土地整治项目的立项范围，首次将残次林地作为新增耕地的整治来源[3-4]。所以，将残次林地整治为耕地意义重大。
+
+但由于残次林地土壤颗粒粗且多为原生矿物，具有养分贫瘠且保肥性差等缺点，将不是宜林区的残次林地复垦为耕地存在光、热资源转化效率低的问题，直接影响作物的生长发育。针对上述问题，残次林地的培肥及方式就显得十分必要。众所周知，农作物在生长发育过程中需要大量的N、P、K矿质元素，这些元素是农作物顺利进行光合作用的物质基础,决定其生长发育状态[5-6]。施肥直接影响着土壤的团聚体状况，其稳定性能改善土壤结构，而良好的土壤团聚状态能有效提升土壤肥力，增加粮食产量，实现农民创收[7-9]。然而，若采用以数量为目标的农业生产方式，大规模使用化学肥料，虽提升农作物产量,但也带来了诸多负面问题[10-13]。因此，合理调配施肥方式，在既提高产量的同时又促进科学发展是目前亟待解决的重要科学问题。
+
+基于此，本文就陕北残次林地整治耕地后的土壤团聚体情况进行分析，探讨促进团聚体组成及稳定性良好的施肥模式，改进残次林地土地整治后的施肥方式，以期转变传统高投人及高消耗的粗放型整治模式，发展当地农业生产的绿色可持续道路，为残次林地整治及后期的土地利用提供参考。
+
+# 研究区概况与方法
+
+# 1.1 研究区概况
+
+研究区域选择在陕北榆林靖边县红墩界镇的  
+残次林地土地整治项目区，地理位置为 $1 0 8 ^ { \circ } 4 7 ^ { \prime } 5 9 ^ { \prime \prime } \sim$ $1 8 ^ { \circ } 4 9 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { E } , 3 7 ^ { \circ } 4 8 ^ { \prime } 1 7 ^ { \prime \prime } { \sim } 3 7 ^ { \circ } 5 2 ^ { \prime } 4 6 ^ { \prime \prime } \mathrm { N }$ （图1），为陕北  
+黄土高原和鄂尔多斯高原外延交界处，是毛乌素沙  
+漠边缘的风沙草滩区。该地势北部偏低南部稍高，  
+平均海拔为 $1 5 0 0 \mathrm { m }$ ;气候类型为半干旱大陆性季风  
+气候，干燥少雨，但雨热同期，年平均降雨量为  
+$4 4 3 . 5 \ \mathrm { m m }$ ;昼夜温差偏大，但通风条件良好，年平均
+
+![](images/87de96a119f1833c9ad4eee77b23b8086602e2c71868d4f74bac1c610d7435c6.jpg)  
+图1研究区位置示意图Fig.1 Diagram of study area
+
+气温 $1 0 \ \mathrm { { ^ { \circ } C } }$ 左右，有效积温 $2 8 0 0 ~ \mathrm { { ^ { c } C } }$ ;光照条件充足，日照平均时数 $2 8 2 8 . 2 \mathrm { h }$ ,年平均无霜期 $1 9 3 { \mathrm { ~ d ~ } }$ 。土地整治项目工程实施前为残次林地，且多数是灌木林地和天然牧草地，土壤多以风积沙土或壤土为主，土壤质地偏沙土和沙壤土，沙粒含量大于 $4 9 \%$ ，黏粒含量小于 $4 0 \%$ ,为中度盐碱化地块，土壤 $\mathrm { \ p H }$ 为8.92,电导率为 $0 . 1 4 ~ \mathrm { d } \mathrm { S } \cdot \mathrm { m } ^ { - 1 }$ ,全盐量 $7 . 5 0 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ，水溶性盐总量 $1 . 9 9 \ \mathrm { g \cdot k g ^ { - 1 } }$ ,全氮含量 $0 . 2 5 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ,有效磷含量 $1 3 . 1 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ,速效钾含量 $8 7 . 8 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ,有机质含量 $3 . 3 9 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ,总体来说,该区有机质和腐殖土含量极低,且易受风蚀和旱灾危害[14]
+
+# 1.2试验设计
+
+在研究区域内，将残次林地整治为耕地，种植制度为一年一季的春玉米，并在已耕种一年后设置试验田，每块试验田面积为 $6 \mathrm { m } ^ { 2 } ( 2 \mathrm { m } \times 3 \mathrm { m } )$ ,种植相同数量的玉米种子，玉米在出苗后根据长势保留2株壮苗。试验处理为不同肥料类型(N、P、K和有机肥），试验水平为肥料的不同用量(不施肥、施当地用肥的一半，施当地用肥量），采用正交试验设计T1\~T99种[L9 $\left( 3 ^ { 4 } \right) _ { . } ^ { . }$ 处理方案，如表1所示，其中N1不施N肥、N2含N量 $9 2 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、N3含N量 $1 9 5 . 5 ~ \mathrm { k g }$ $\mathrm { h m } ^ { - 2 }$ ,P1不施P肥、P2含P量 $4 0 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 }$ 、P3含P量$8 1 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,K1不施K肥、K2含K量 $3 7 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } , \mathrm { K } 3$ 含K量 $7 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ,D1不施D肥、D2有机肥 $7 . 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ 、D3有机肥 $1 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ 。为提高供水效益，采用滴灌进行灌溉，灌溉定额为 $3 0 0 0 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 [ 1 5 ] }$ 。
+
+其中，N肥为尿素 $( \mathrm { N } , 4 6 . 4 \%$ )，P肥为过磷酸钙1 $\mathrm { { ( P _ { 2 } O _ { 5 } } }$ $12 \%$ ，K肥为氯化钾 $( \mathrm { K } _ { 2 } \mathrm { O } , 6 0 \% )$ ，有机肥由牛粪和鸡粪混合堆腐而成。各处理在肥料混合均匀后，在犁地之前进行撒施作为基肥，然后再进行翻耕。将P肥、K肥、有机肥及N肥的 $6 0 \%$ 作为基肥施用，在玉米拔节期,将剩余 $4 0 \%$ 的N肥以追肥的方式施入。田间管理模式同一般大田生产管理
+
+每个处理设计一块试验田，每个处理重复3次，共计27块试验田，其在施肥处理前不具有土壤特征统计学差异性，试验田采取随机布设方式，如图2所示，各试验田间隔 $2 5 \ \mathrm { c m }$ ,在春玉米种植一季结束后的9月份，选择一个晴天正午采用"S"法在各小区耕层$0 { \sim } 2 0 \mathrm { c m }$ 范围内采取原状土样5个，剔除杂质后将这5个土样混合成一个样品,带回室内进行自然风干后备用。土壤团聚体的测定采用Elliott湿筛法进行[16]
+
+# 1.3 研究方法
+
+采用平均重量直径(MWD)和几何平均直径
+
+# 表1正交试验方案
+
+Tab.1 Routine experimental protocol   
+
+<html><body><table><tr><td>试验设计</td><td>N肥</td><td>P肥</td><td>K肥</td><td>有机肥</td><td>试验设计</td><td>N肥</td><td>P肥</td><td>K肥</td><td>有机肥</td></tr><tr><td>T1</td><td>N1</td><td>P1</td><td>K1</td><td>D1</td><td>T6</td><td>N2</td><td>P3</td><td>K1</td><td>D2</td></tr><tr><td>T2</td><td>N1</td><td>P2</td><td>K2</td><td>D2</td><td>T7</td><td>N3</td><td>P1</td><td>K3</td><td>D2</td></tr><tr><td>T3</td><td>N1</td><td>P3</td><td>K3</td><td>D3</td><td>T8</td><td>N3</td><td>P2</td><td>K1</td><td>D3</td></tr><tr><td>T4</td><td>N2</td><td>P1</td><td>K2</td><td>D3</td><td>T9</td><td>N3</td><td>P3</td><td>K2</td><td>D1</td></tr><tr><td>T5</td><td>N2</td><td>P2</td><td>K3</td><td>D1</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+25 cm 2m 兴 ↓ ↑ T1 T3 T4 T5 T6 T7 T8 T2 T93m 25cm √ ↓ → T2 T8 T9 T7 T1 T4 T5 T3 T6 T8 T9 T3 T6 T2 T5 T7 T1 T4
+
+(GMD)来评价试验地的土壤团聚体稳定性情况，计算公式如下：
+
+$$
+\mathrm { M W D } = \sum _ { i = 1 } ^ { n + 1 } \frac { r _ { i - 1 } + r _ { i } } { 2 } \times m _ { i }
+$$
+
+式中： $r _ { i }$ 是第 $i$ 个筛子孔径 $\scriptstyle { \mathrm { ( m m ) } } , r _ { 0 } = r _ { 1 } , r _ { n } = r _ { n + 1 } ; m _ { i }$ 是第 $i$ 个筛子上团聚体的质量百分比 $( \% )$ 。
+
+$$
+\mathrm { \frac { \displaystyle \sum _ { i = 1 } ^ { n } w _ { i } \times \ln { { x } _ { i } } } { \displaystyle \sum _ { G \bf M D = e } ^ { n } w _ { i } } }
+$$
+
+式中： $x _ { i }$ 为团聚体的平均直径( $\mathrm { ( m m ) }$ ） $w _ { i }$ 为第 $i$ 级团聚体的质量百分比 $( \% )$ ○
+
+IlIe等以土壤团聚体质量为背景提出了土壤结构系数 $( K c t p )$ 的概念[17]，即用优良性状团聚体（直径 $0 . 2 5 { \sim } 1 0 ~ \mathrm { m m }$ )的总含量除以性状较差团聚体（直径 $\leqslant 0 . 2 5 ~ \mathrm { m m }$ 或 $\geqslant 1 0 \mathrm { ~ m m } .$ )的总含量。同时，IIeH等提出，当 $K c t p { > } 1 . 5$ 时土壤结构为优; $1 . 5 \mathord { \sim } 0 . 6 7$ 土壤结构为良， $< 0 . 6 7$ 则表明土壤结构状态较差[17]
+
+# 2结果与分析
+
+# 2.1不同施肥方式对林改耕后土壤水稳定性团聚体分布的影响
+
+从不同施肥方式下水稳性团聚体的分布情况可以看出(表2)，与不施肥(T1)相比，试验田经施肥处理(T2\~T9)后基本上均能提高其水稳性大团聚体$0 . 2 5 { \sim } 2 ~ \mathrm { m m }$ 和 ${ > } 2 ~ \mathrm { m m }$ )含量，同时也降低了微团聚体
+
+# 表2不同施肥方式对水稳性团聚体分布的影响
+
+Tab.2 The influence of soil water-stable aggregates distribution under various fertilization regimes $1 \%$   
+
+<html><body><table><tr><td rowspan="2">试验 设计</td><td colspan="2">大团聚体</td><td colspan="2">微团聚体</td></tr><tr><td>>2 mm</td><td>0.25~2 mm</td><td>0.053~0.25 mm</td><td><0.053 mm</td></tr><tr><td>T1</td><td>6.7±1.94d</td><td>21.4±3.35b</td><td>48.7±5.31ab</td><td>23.2±2.16a</td></tr><tr><td>T2</td><td>8.3±3.40d</td><td>20.3±3.03b</td><td>51.2±3.40a</td><td>20.2±4.49ab</td></tr><tr><td>T3</td><td>12.3±3.75d</td><td>33.1±4.84a</td><td>41.7±4.44bc</td><td>12.9±3.24cd</td></tr><tr><td>T4</td><td>23.5±3.21b</td><td>31.4±1.53a</td><td>34.9±3.48cd</td><td>10.2±2.14cd</td></tr><tr><td>T5</td><td>14.6±3.59cd</td><td>29.2±5.78ab</td><td>46.1±2.96ab</td><td>10.1±2.59cd</td></tr><tr><td>T6</td><td>23.5±3.92b</td><td>31.9±4.37a</td><td>36.2±2.83c</td><td>8.4±1.03d</td></tr><tr><td>T7</td><td>38.2±3.38a</td><td>24.6±3.58ab</td><td>27.4±2.77d</td><td>9.8±2.57cd</td></tr><tr><td>T8</td><td>20.9±4.94bc</td><td>26.6±4.38ab</td><td>42.2±2.89bc</td><td>10.3±2.86cd</td></tr><tr><td>T9</td><td>9.6±2.00d</td><td>24.3±2.73ab</td><td>50.7±4.30a</td><td>15.4±3.56bc</td></tr></table></body></html>
+
+注：不同小写字母表示差异性显著 $\scriptstyle \cdot { P < 0 . 0 5 }$ 。下同。
+
+1 $< 0 . 0 5 3 ~ \mathrm { m m }$ 和 $0 . 0 5 3 { \sim } 0 . 2 5 ~ \mathrm { m m }$ )含量。经T7处理后，其水稳性大团聚体含量总和达最高，为 $6 2 . 8 \%$ 。施加N肥后， $> 2 ~ \mathrm { m m }$ 的水稳性团聚体一般显著高于不施用N肥的，其中，T7处理高于T1、T2、T3处理分别为 $4 7 0 . 1 5 \%$ 、 $3 6 0 . 2 4 \%$ 和 $2 1 0 . 5 7 \%$ ；经T3、T4和T6处理后，可提高 $0 . 2 5 { \sim } 2 ~ \mathrm { m m }$ 的水稳性团聚体含量。可见，肥料类型及施肥方式对土壤各级团聚体的分布存在一定的影响。
+
+通过拟合不同处理下水稳性团聚体累计百分比含量下团聚体直径(表3)， $D _ { 1 0 } \lrcorner D _ { 3 0 }$ 和 $D _ { 6 0 }$ 分别表示当土壤团聚体累计含量分别为 $10 \%$ ） $30 \%$ 和 $6 0 \%$ 时所对应的团聚体直径。从表3看出，以 $D _ { 1 0 }$ 来分析，T6、T7和T8处理团聚体直径分别大于T1处理$1 7 7 . 2 2 \%$ 、 $1 6 0 \%$ 和 $1 2 2 . 7 8 \%$ ；以 $D _ { 3 0 }$ 来分析，T7、T6和T8处理团聚体直径分别大于T1处理 $2 6 8 . 0 8 \%$ 、$1 8 1 . 3 5 \%$ 和 $1 2 6 . 1 5 \%$ ；以 $D _ { 6 0 }$ 来分析，T7、T6和T8处理团聚体直径分别大于T1处理 $5 1 7 . 7 8 \%$ 、 $1 8 6 . 7 8 \%$ 和$1 2 9 . 8 6 \%$ 。综合 $D _ { 1 0 } \lrcorner D _ { 3 0 }$ 和 $D _ { 6 0 }$ 可以看出，将N肥和有机肥进行适当比例的配施后，其值均较大。
+
+表3不同施肥方式下水稳定性团聚体 $D _ { 1 0 } , D _ { 3 0 }$ 和 $\pmb { D } _ { 6 0 }$ 值  
+Tab.3Values of ${ D _ { 1 0 } , D _ { 3 0 } }$ and ${ \pmb D } _ { 6 0 }$ of soil water-stable aggregates under various fertilization regimes   
+
+<html><body><table><tr><td>试验设计</td><td>拟合方程</td><td>R</td><td>D10/mm</td><td>D30/mm</td><td>D30/mm</td></tr><tr><td>T1</td><td>y=18.811lnx+85.598</td><td>0.9098</td><td>0.0180</td><td>0.0520</td><td>0.2565</td></tr><tr><td>T2</td><td>y=19.155lnx+84.326</td><td>0.8962</td><td>0.0206</td><td>0.0587</td><td>0.2808</td></tr><tr><td>T3</td><td>y=20.163lnx+81.701</td><td>0.9213</td><td>0.0286</td><td>0.0770</td><td>0.3409</td></tr><tr><td>T4</td><td>y=18.077lnx+65.8</td><td>0.9869</td><td>0.0456</td><td>0.1380</td><td>0.7255</td></tr><tr><td>T5</td><td>y=20.362lnx+75.187</td><td>0.9555</td><td>0.0407</td><td>0.1087</td><td>0.4743</td></tr><tr><td>T6</td><td>y=18.577lnx+65.705</td><td>0.9855</td><td>0.0499</td><td>0.1463</td><td>0.7356</td></tr><tr><td>T7</td><td>y=14.194lnx+53.466</td><td>0.9868</td><td>0.0468</td><td>0.1914</td><td>1.5846</td></tr><tr><td>T8</td><td>y=18.609lnx+69.832</td><td>0.9547</td><td>0.0401</td><td>0.1176</td><td>0.5896</td></tr><tr><td>T9</td><td>y=20.344lnx+76.321</td><td>0.9776</td><td>0.0384</td><td>0.1026</td><td>0.4483</td></tr></table></body></html>
+
+注：x表示团聚体的直径 $( \mathrm { m m } ) ; \boldsymbol { y }$ 表示团聚体累积含量(%)。
+
+# 2.2不同施肥方式对林改耕后团聚体MWD与GMD的影响
+
+图3是不同施肥方式下团聚体平均重量直径和几何平均直径的大小情况，可以看出，土壤团聚体的平均重量直径在施加N肥后显著高于不施加N肥的，MWD的大小顺序为： $\mathrm { T 7 } { \mathrm { > T 4 } } { \mathrm { > T 6 } } { \mathrm { > T 8 } } { \mathrm { > T 5 } } { \mathrm { > T 9 } } { \mathrm { > T } } 3 { \mathrm { > } }$ $\mathrm { T } 2 \mathrm { > T } 1$ ,说明在耕作的土壤中，施肥处理下，尤其是施N肥后的团聚体水稳性最高。经T7处理后，可以显著提高土壤团聚体的水稳定性。几何平均直径大小为： $\mathrm { T 7 } > \mathrm { T 8 } > \mathrm { T 6 } > \mathrm { T 4 } > \mathrm { T 3 } > \mathrm { T 5 } > \mathrm { T 9 } > \mathrm { T 2 } > \mathrm { T 1 }$ ，T7处理的几何平均直径显著高于其他处理，说明土壤在不施P肥且施用一定量的N肥和K肥时的抗水分破坏能力最强。
+
+# 2.3不同施肥方式对林改耕后土壤结构的影响
+
+由各施肥方式的土壤结构系数可知(图4),T3、
+
+![](images/b63eefb23becdda4f7ff88a9c8493886b29e4fc3997d150fe5036b00a0b01b84.jpg)  
+图3不同施肥方式对团聚体平均重量直径(MWD)和几何平均直径(GMD)的影响  
+Fig.3Effect on the meanweight diameter (MWD) and geometric mean diameter(GMD) of soil water-stable aggregates under various fertilization regimes
+
+T4、T5、T6、T7和T8处理的土壤结构系数 $( K c t p )$ 为0.78\~1.25，土壤结构良好，其余处理的Kctp皆小于0.67，则相应施肥方式下的土壤结构表现较差，说明虽然经N肥和有机肥配施后，能在一定程度上提高土壤的结构性能，但Kctp未达到1.5以上，所以还应进一步探索研究使土壤结构为优的施肥方式及用量，找出肥料配比方案。
+
+![](images/509a96e477e52538f81c2c7db06f01d25908d188f2542a6512872dae7ce0ea7f.jpg)  
+图4不同施肥方式下的土壤结构系数Fig.4 Soil structure coefficient $( K c t p )$ under variousfertilization regimes
+
+# 3讨论
+
+综合试验结果可知,当施用尿素量 $4 2 1 . 3 4 ~ \mathrm { k g }$ $\mathrm { h m } ^ { - 2 }$ （基施 $6 0 \%$ 、追施 $4 0 \%$ ),氯化钾量 $1 2 5 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 }$ ，有机肥量 $7 . 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ ,且不施P肥(T7)时对提高项目整治区表层土壤( $0 { \sim } 2 0 ~ \mathrm { c m } )$ 水稳性大团聚体含量效果最好。同时本研究结果也表明，一定量的N肥配施有机肥还可增加土壤结构系数，使土壤结构由较差状态向着良好状态发展。这主要是因为施加有机肥可增强土壤表层的微生物活动，提高团聚体中的微生物群落丰富度[18-19],促进作物根系的生长发育，还能加强土壤中动物的繁殖。所以，施加适宜种类及适量的肥料可使大团聚体内部更加紧密结合以便形成微粒，从而使其结构稳定性增强[20-23]。
+
+施加一定量的N肥和有机肥，是在有效降低氮素流失的情况下，有机碳源也得到了增加，并且本项目中的残次林地经久荒废，无人翻作，通过土地整治为耕地，土壤经过人为耕作后，作物根系的生长发育可以很好的改善周围土壤结构，增加通气、透水性，也有利于土壤中大团聚体的形成。有学者则以 $> 0 . 2 5 ~ \mathrm { m m }$ 的团聚体为指标去评价土壤中团聚体状态的好坏，有研究表明当 $> 0 . 2 5 ~ \mathrm { m m }$ 的水稳性大团聚体含量超过了 $6 0 \%$ 时，此时土壤团聚体状态很好，为优级别，当含量介于 $4 0 \% \sim 6 0 \%$ 时，土壤团聚体状态较好，为良级别，当此含量小于 $4 0 \%$ 时，则此时土壤团聚体的状况较差，为较差级别[17],从这一指标也可看出，T7处理的土壤团聚体状态为最优，其次为T8、T6、T4、T5和T3处理，土壤团聚体状况较差的有T9、T2和T1处理。所以，采用不同种类的肥料及施加不同的用量时，能在一定程度上改变土攘团聚体的组成情况，影响土壤团聚体的稳定性。
+
+本研究中，施用尿素量 $4 2 1 . 3 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ （基施$6 0 \%$ 、追施 $4 0 \%$ ）、过磷酸钙 $3 3 3 . 3 3 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 }$ 、有机肥$1 5 \mathrm { ~ t } \cdot \mathrm { h m } ^ { - 2 }$ 、不施K肥(T8),或施用尿素量 $1 9 8 . 2 8 \mathrm { k g }$ $\mathrm { h m } ^ { - 2 }$ （基施 $6 0 \%$ 、追施 $4 0 \%$ ）、过磷酸钙 $6 7 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 、有机肥 $7 . 5 ~ \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ 、不施K肥(T6)，也可达到使土壤团聚体结构良好的效果。但本研究始于2019年，2020年进行试验田设置研究，目前只有一季的测试数据，有关长期施用会对土壤带来什么影响及施肥差异性的机理还有待进一步研究。
+
+# 4结论
+
+施肥方式可显著影响在沙质土地区的残次林地整治为耕地后土壤水稳性团聚体的分布及其稳定性。选用施肥种类及添加不同的施肥量可增加$D _ { ^ { 1 0 } \setminus } D _ { ^ { 3 0 } \setminus } D _ { ^ { 6 0 } \setminus } \mathrm { M W D }$ 和GMD，同时增大土壤的结构系数，使土壤结构朝着良好的状态发展。本试验得出，在不同的施肥措施中，将一定量的N肥和适量的有机肥进行配施后，可显著提高土壤中水稳性大团聚体含量及各级团聚体的直径，并增大土壤结构系数。所以，合理的选择肥料种类及用量可增加土壤团聚体稳定性，并且有利于土壤结构向着良好的态势发展。
+
+# 参考文献(References):
+
+[1]国土资源部.全国耕地后备资源8000万亩下降3000万亩[N/ OL].央视网,[2016-12-28]. http://news.cctv.com/2016/12/28/ ARTI1dNstGtFmn11IEg2TIkH161228.shtml．[MinistryofLand and Resources of thePeople's Republic of China.The National Reserve Resource of Arable Land Decreased by 3O Million Mu from 80 Million Mu[N/OL]. CCTV,[2016-12-28]. http: /news.cctv. com/2016/12/28/ARTI1dNstGtFmn11IEg2TIkH161228.shtml.]   
+[2]赵亮,李虹晔.新时期实现耕地占补平衡的对策探讨[J].国土资 源,2019,36(8):38-39.[Zhao Liang,Li Hongye.Discussion on countermeasures to realize balance of cultivated land occupation and compensation in the new period[J]. Land & Resources, 2019, 36(8): 38-39.]   
+[3]李全宝.园地和残次林地开发关键问题研究——以江苏省新沂 市为例[J].中国国土资源经济,2019,37(6):53-58.[Li Quanbao.Research on crucial problems of development of garden land and relict forest land: A case study of Xinyi City in Jiangsu Province[J].Natural Resource Economics of China,2019,37(6): 53- 58.]   
+[4]秦川.陕北风沙草滩区残次林地土地整治效应研究[J].农村经 济与科技,2020,31(20): 3-4.[Qin Chuan. Study on the effect of land reclamation of residual forest land in sandy grassland area in northern Shaanxi[J].Rural Economyand Science-Technology, 2020,31(20): 3-4.]   
+[5]罗凡,张厅,龚雪蛟,等.不同施肥方式对茶树新梢氮磷钾含量 及光合生理的影响[J].应用生态学报，2014,25(12):122-129. [Luo Fan,Zhang Ting,Gong Xuejiao,et al.Effects of different fertilization ways on the contentsof N,P,K innewshootsand photo biological charactersof tea tree[J]. Chinese Journal of Applied Ecology,2014,25(12): 122-129.]   
+[6]成臣,吕伟生,朱博,等.秸秆全量还田下磷钾配施对晚粳稻产 量及品质的影响[J].水土保持学报,2020,34(6):244- 251. [Cheng Chen,Lyu Weisheng,Zhu Bo,et al.Effcts of combined application of phosphorus and potassum on japonica rice yield and quality under total crop residue incorporated during the laterice cropping seasons[J]. Journal of Soil and Water Conservation, 2020, 34(6): 244-251.]   
+[7]李春越,常顺,钟凡心,等.种植模式和施肥对黄土旱塬农田土 壤团聚体及其碳分布的影响[J].应用生态学报,2021,32(1): 191-200.[Li Chunyue, Chang Shun, Zhong Fanxin, et al.Effects of fertilization and planting patens onsoil aggregateand carbon distribution infarmlandofthe Loess Plateau,Northwest China[J]. Chinese Journal of Applied Ecology,2021,32(1): 191-200.]   
+[8]曹寒冰,谢钧宇,强久次仁,等.施肥措施对复垦土壤团聚体碳 氮含量和作物产量的影响[J].农业工程学报,2020,36(18): 135-143.[Cao Hanbing,Xie Junyu,QiangJiu Ciren,etal.Effects of fertilization regimes on carbon and nitrogencontents of aggregates and maize yield in reclaimed soils[J]. Transactions of the
+
+Chinese Society of Agricultural Engineering (Transactions of the
+
+CSAE),2020,36(18): 135-143.]   
+[9]王彦锟.培肥措施对新整理黄壤烟田土壤熟化的影响[D].重 庆:西南大学,2O17.[Wang Yankun.Effect of Fertilizer on the Improvement of Newly Consolidated Tobacco Yellow Field[D]. Chongqing: Southwest University,2017.]   
+[10] Porazinska D L, Duncanb L W,Mcsorley R,et al. Nematode communities as indicators of status and processes of a soil ecosystem influenced by agricultural management practices[J]. Applied Soil Ecology,1999,13(1): 69-86.   
+[11] Sarkar S, Singh S R, Singh R P.The effect of organic and inorganic fertilizers on soil physical condition and the productivity of a rice-lentil cropping sequence in India[J]. The Journal of Agricultural Science,2003,140(4): 419-425.   
+[12] 陈红金,刘晓霞,虞轶俊.发达国家化肥减量政策分析及对我国 限量施肥的启示[J].浙江农业科学,2019,60(12):2360-2363. [Chen Hongjin,Liu Xiaoxia,Yu Yijun.Analysis of fertilizer reduction policies in developed countries and its implications on fertilization limitation in China[J]. Journal of Zhejiang Agricultural Sciences,2019,60(12): 2360-2363.]   
+[13]全娇娇.农户化肥使用存在的问题及减量对策[J].农村经济与 科技,2020,31(14): 5-6.[Quan Jiaojiao.Problems in the use of chemical fertilizers for farmers and countermeasures[J]. Rural Economy and Science-Technology,2020,31(14): 5-6.]   
+[14]何振嘉,王启龙.风沙草滩区盐碱地整治对土壤理化性质的影 响[J].土地开发工程研究,2020,5(2):73-78.[He Zhenjia,Wang Qilong.Effects of saline-alkali land regulation on soil physical and chemical properties in sandy beach area[J].Land Development and Engineering Research,2020,5(2): 73-78.]   
+[15]陕西省水资源管理办公室.行业用水定额DB61/T943-2014 [S].陕西省质量监督局,2014.[Water Resources Management Office of Shaanxi Province.Industry Water Quota DB 61/T 943- 2014 [S]. Shaanxi Provincial Bureau of Quality Supervision, 2014.]   
+[16]Elliott E T.Aggregate structure and carbon, nitrogen and phosphorus in native and cultivated soils[J]. Soil Science Society of America Journal,1986,50(3): 627-633.   
+[17]IIeiH E B,ToHapoB B M.ArpoΦH3Hka BbIcIIee O6pBa3OBaHHe [M].PoCTOB-Ha-IOHy: ΦeHHKc,2006.   
+[18]王兴祥,张桃林,鲁如坤.施肥措施对红壤结构的影响[J].中国 生态农业学报,2001,9(3):70-72.[Wang Xingxiang,Zhang Taolin,Lu Rukun.Efectof application offertilizerson soil structure in red soil[J]. Chinese Journal of Eco-Agriculture 2001,9(3): 70-72.]   
+[19]白文娟,徐华勤,章家恩.不同培肥措施对土壤团聚体中微生物 特性的影响[J].生态环境学报,2018,27(1):24-30.[Bai Wenjuan,Xu Huaqin,Zhang Jia'en.Effects of different manure application on the soil microbial biomass properties within diferent soil aggregates[J]. Ecology and Environmental Sciences,2018,27 (1): 24-30.]   
+[20]Cambardella C A,Eliott E T.Particulate soil organic matter across a grassland cultivation sequence[J]. Soil Science Society of America Journal,1992,56(3): 776-783.   
+[21]Sodhia G PS,Beria V,Benbi D K.Soil aggregation and distribution of carbon and nitrogen in different fractions under long-term application of compost in rice-wheat system[J]. Soil & Tillage Research,2009,103(2): 412-418.   
+[22] 李春越,常顺,钟凡心,等.种植模式和施肥对黄土旱塬农田土 壤团聚体及其碳分布的影响[J].应用生态学报,2021,32(1): 191-200.[Li Chunyue,Chang Shun,Zhong Fanxin,et al. Effects of fertilization and planting patterns on soil aggregate and carbon distribution in farmland of the Loess Plateau,Northwest China[J]. Chinese Journal of Applied Ecology,2021,32(1): 191-200.]   
+[23] 曹寒冰,谢钧宇,强久次仁,等.施肥措施对复垦土壤团聚体碳 氮含量和作物产量的影响[J].农业工程学报,2020,39(18): 135-143.[Cao Hanbing,Xie Junyu,Qiangjiu Ciren,et al. Effects of fertilization regimes on carbon and nitrogen contents of aggregates and maize yield in reclaimed soils[J]. Transactions of the Chinese Society of Agricultural Engineering,2020,39(18):135- 143.]
+
+# Effects on soil aggregate composition and stability under various fertilization regimes of defective forest land in a sandy soil area
+
+ZHANG Lu¹23， MENG Tingting'， HU Ya'， WEI Jing'   
+(1. Key Laboratory of Degraded and Unused Land Consolidation Engineering,Land Engineering Technology   
+Innovation Center,Ministry of Natural Resources,Xi'an71OO21,Shaanxi, China; 2.Shaanxi Key Laboratory   
+ofLand Consolidation,Xi'an 71Oo64,Shaanxi, China; 3.Weinan Agricultural Technology Extension Centre, Weinan 714000, Shaanxi, China)
+
+Abstract: To evaluate the stability of soil aggregates in cultivated land improvements in sandy soil areas,an experimental field was set up in the remnant forest land improvement project area of Jingbian County, Yulin, northern Shaanxi, China. The orthogonal experiment scheme $\left[ \mathrm { L } 9 ( 3 ^ { 4 } ) \right]$ was used to analyze the effects of different fertilizer types and application rates on soil aggregates.The results showed that compared to non-fertilized farmland soil,the combined application of N fertilizer and organic fertilizer can increase the content of waterstable macro-aggregates. Among them, the content of water-stable macro-aggregates larger than $2 \ \mathrm { m m }$ was relatively higher when applying the T7 treatment $( 4 2 1 . 3 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ urea, no $\mathrm { \bf P }$ fertilizer, $1 2 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ potassium chloride,and $7 . 5 \ \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ organic fertilizer) than T1 (no N,P,orK fertilizer,and organic fertilizer),T2 (no $\mathrm { \Delta N }$ fertilizer, $3 3 3 . 3 3 \mathrm { ~ k g } \cdot \mathrm { h m } ^ { - 2 }$ superphosphate, $6 2 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ potassium chloride, $7 . 5 ~ \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ organic fertilizer),and T3 (no N fertilizer, $6 7 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ superphosphate, $1 2 5 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ potassium chloride, $1 5 ~ \mathrm { t } { \cdot } \mathrm { h m } ^ { - 2 }$ organic fertilizer). The contents of macro-aggregates over $2 \ \mathrm { m m }$ were $4 7 0 . 1 5 \%$ ， $3 6 0 . 2 4 \%$ and $2 1 0 . 5 7 \%$ ，respectively. The quantity distributions when the cumulative content of soil aggregates were $10 \%$ ， $30 \%$ ， $60 \%$ were $D _ { 1 0 }$ ， $D _ { 3 0 }$ ， $D _ { 6 0 }$ ,respectively. The mean weight diameter,geometric mean diameter,and the soil structure coeficient allhad a significant influence, with water-stable large aggregates ${ > } 2 ~ \mathrm { m m }$ and $0 . 2 5 { - } 2 ~ \mathrm { m m }$ having obvious promoting effects. The soil structure coefficient (Kctp) of T3, T4 ( $1 9 8 . 2 8 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ urea, no $\mathrm { ~ \bf ~ P ~ }$ fertilizer, $6 2 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ potassium chloride, and $1 5 \mathrm { ~ t } \cdot \mathrm { h m } ^ { - 2 }$ organic fertilizer), T5( $1 9 8 . 2 8 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ urea, $3 3 3 . 3 3 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ super phosphate, $1 2 5 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ potassium chloride, no organic fertilizer), T6 ( $( 1 9 8 . 2 8 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ urea, $6 7 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ superphosphate, no K fertilizer, $7 . 5 \ : \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ organic fertilizer), T7 and T8 $( 4 2 1 . 3 4 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ urea, $3 3 3 . 3 3 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ superphosphate, no K fertilizer,and $1 5 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ organic fertilizer)were between 1.5 and O0.67,with a good soil structure.In summary,the combined application of N fertilizer and organic fertilizer, especially with the urea application rate of $4 2 1 . 3 4 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ (basic application $60 \%$ ，topdressing $40 \%$ ), the potassium chloride application rate of $1 2 5 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ ，and the organic fertilizer application rate of $7 . 5 \ \mathrm { t } \cdot \mathrm { h m } ^ { - 2 }$ can improve newly added forest land. The structure of arable soil aggregates enhances the resistance of soil aggregates to water erosion.
+
+Keywords: defective forest land; water-stable aggregates; fertilizer; organic fertilizer; soil structure

@@ -1,0 +1,92 @@
+# 磁尾等离子体片领域研究态势文献计量分析
+
+陈诚周吉蓝利魏韧²刘颖
+
+（1.中国科学院空间科学与应用研究中心北京100190;2.中国科学院文献情报中心北京 100190)
+
+摘要以ISIWeb of Science中SCI-Expanded收录的磁尾等离子体片领域论文为研究对象，分析该领域论文所属国家、机构、学科、期刊等分布状况。
+
+关键词磁尾等离子体片SCIE文献计量 中图分类号G353.12 文献标识码A
+
+文章编号 1002-1965(2014)0064-03
+
+# 0引言
+
+起源于太阳日冕的高速太阳风吹向地球，与其偶极磁场相互作用，在近地空间形成了包裹地球磁层的边界层，被称为磁层顶["]。磁层顶是太阳风和磁层耦合的重要作用区域，研究其位置位形不仅是空间天气预报的重要课题，也为研究其他物理问题奠定了基础。
+
+近年来，在"双星计划”和国家自然科学基金的支持下，我国科学家在太阳风与磁层相互作用研究方面进展迅速，完成了太阳风一磁层一电离层系统的全球三维磁流体力学数值模式，使我国成为国际上少数拥有能自洽描述太阳风一磁层一电离层耦合系统数值能力的国家之一，为建立空间天气端到端的整体数值预报模式奠定了基础[2]
+
+《科学引文索引》（SCIE）是世界公认的自然科学领域最为权威的研究成果检索和评价工具，也是最为权威的论文检索和评价工具。本文通过ISIWebofScience数据库对磁尾等离子体片领域的学术论文进行统计，并运用文献计量学方法进行综合分析，探讨该研究领域发展现状及态势，以期为相关科研发展提供客观依据。
+
+# 1数据来源及分析方法
+
+本文采用的数据库为ISIWebofScience（SCI-EX-PANDED)[3],利用“主题 $\mathbf { \sigma } = \mathbf { \sigma }$ ( " plasma sheet" magneto-tail)”，检索时间范围为 $2 0 0 0 \sim 2 0 1 2$ 年,检索到的有效数据为1184 篇论文。
+
+采用汤森路透公司下属汤森科技信息集团开发的专利数据挖掘和可视化工具ThomsonDataAnalyzer（TDA）[4-5],对数据进行统计分析、趋势分析、国家和机构分析等，利用图表等可视化表达方式展示分析结果。
+
+# 2 结果与分析
+
+2.1论文发布国家分析发表论文的国家主要是指论文中所列的作者单位所属国家。一个国家在特定领域发表论文的数量，可以间接地反映该国家对此领域的关注度和国际竞争力。分析技术领先国家在一个领域的论文发表数量，可以反映该领域的活跃度，从另一个侧面判断当今学科发展的热点问题。
+
+![](images/b822ce336a1c57d143b13a98fbc2358658bcd896e43903d0821793ca4a6c69fe.jpg)  
+图1磁尾等离子体片领域发文量前15位国家的分布示意图
+
+统计 $2 0 0 0 \sim 2 0 1 2$ 年磁尾等离子体片领域论文所属国家，论文数量排名前15位的国家分别为美国（707篇）、日本（260篇）、法国（243篇）、俄罗斯（233篇）、英国(204篇）、德国（196篇）、奥地利（168篇）、中国（132篇）、加拿大（84篇）、瑞典（80篇）、芬兰（51篇）、意大利(35篇）挪威(24篇）、比利时(23篇）、捷克(18篇）、，如图1所示。上述15个国家大致可以划分为四个集团：第一集团为美国，第二集团为日本、法国、俄罗斯、英国和德国，第三集团为奥地利、中国、加拿大、瑞典、芬兰，第四集团为意大利等四国。从发文数量来看，美国遥遥领先于第二集团国家，美国在磁尾等离子体片领域的自主研究能力可见一斑。
+
+分别统计发文量前15位国家 $2 0 0 0 \sim 2 0 1 2$ 年的年度发文量，如图2所示。各集团的发文量在2001\~2006年保持平稳状态，在2007年均呈现下降趋势，在2008年呈现迅速反弹增长，在2010年又呈现下降趋势。
+
+中国在前15位国家中论文量排在第8位，年度发文量呈现逐年递增的趋势，2000～2004年维持在年5篇以内，2005年开始小幅增长，2008年开始大幅增长，之后基本保持平稳状态。
+
+2.2发表论文机构分析作者以及所属研究机构，体现了作者或研究机构对论文的贡献程度。表1给出了 $2 0 0 0 \sim 2 0 1 2$ 年在磁尾等离子体片领域发文量前25位机构的年度发文变化统计。从表1中可以看出，美国加州大学洛杉矶分校和伯克利分校在该研究领域领先于世界其他机构，表明美国加州大学在该研究领域占据重要地位。其次是奥地利科学院、美国霍普金斯大学，中国科学院排在第11位。
+
+![](images/c86b436593d4455234411e2215657da20022e6d9b61d506d4a2a4f87e9dee16c.jpg)  
+图2 $2 0 0 0 \sim 2 0 1 2$ 年发文量前15位国家的论文量年度分布示意图
+
+表12000-2012年磁尾等离子体片发文量前25位机构的年度变化统计表  
+
+<html><body><table><tr><td>机构</td><td></td><td>2000 2001</td><td>2002</td><td>2003</td><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011 2012</td><td>合计</td></tr><tr><td>UNIV CALIF LOS ANGELES</td><td>6</td><td>9</td><td>10</td><td>8</td><td>4</td><td>9</td><td>10</td><td>4 20</td><td>19</td><td>20</td><td>28</td><td>26</td><td>173</td></tr><tr><td>UNIVCALIFBERKELEY</td><td>7</td><td>5</td><td>8</td><td>7</td><td>12</td><td>12</td><td>13</td><td>7 22</td><td>15</td><td>17</td><td>20</td><td>13</td><td>158</td></tr><tr><td>AUSTRIAN ACAD SCI</td><td>1</td><td>2</td><td>4</td><td>4</td><td>4</td><td>15</td><td>18</td><td>14 24</td><td>14</td><td>10</td><td>17</td><td>11</td><td>138</td></tr><tr><td>JOHNS HOPKINSUNIV</td><td>9</td><td>9</td><td>11</td><td>7</td><td>7</td><td>7</td><td>11</td><td>5 14</td><td>9</td><td>13</td><td>17</td><td>6</td><td>125</td></tr><tr><td>UNIVLONDON IMPERIALCOLLSCI TECHNOL&MED</td><td></td><td>1</td><td>2</td><td>9</td><td>16</td><td>16</td><td>13</td><td>10 24</td><td>9</td><td>7</td><td>7</td><td>4</td><td>118</td></tr><tr><td>NASA</td><td>9</td><td>9</td><td>2</td><td>8</td><td>7</td><td>16</td><td>6</td><td>3 12</td><td>10</td><td>8</td><td>10</td><td>7</td><td>107</td></tr><tr><td>UNIVNEWHAMPSHIRE</td><td>1</td><td>2</td><td>4</td><td>4</td><td>12</td><td>9</td><td>10</td><td>4 13</td><td>15</td><td>9</td><td>9</td><td>10</td><td>102</td></tr><tr><td>RUSSIAN ACAD SCI</td><td>9</td><td>7</td><td>11</td><td>8</td><td>4</td><td>8</td><td>6</td><td>4 7</td><td>8</td><td>8</td><td>7</td><td>10</td><td>97</td></tr><tr><td>CNRS</td><td>3</td><td>1</td><td>7</td><td>5</td><td>7</td><td>5</td><td>14</td><td>7 14</td><td></td><td>10 7</td><td>7</td><td>2</td><td>89</td></tr><tr><td>LOSALAMOSNATL LAB</td><td>1</td><td>2</td><td>6</td><td>10</td><td>12</td><td>10</td><td>7</td><td>9 11</td><td>9</td><td>4</td><td>4</td><td>3</td><td>88</td></tr><tr><td>CHINESE ACAD SCI</td><td></td><td>4</td><td></td><td>1</td><td></td><td>5</td><td>4</td><td>11 14</td><td></td><td>6 13</td><td>9</td><td>15</td><td>82</td></tr><tr><td>STPETERSBURG STATEUNIV</td><td>4</td><td>6</td><td></td><td>4</td><td>6</td><td>6</td><td>9</td><td>3 10</td><td></td><td>6 4</td><td>6</td><td>8</td><td>72</td></tr><tr><td>CTRETUDSPATIALERAYONNEMENTS</td><td>2</td><td></td><td>1</td><td>6</td><td>9</td><td>12</td><td>11</td><td>13</td><td>11</td><td>4 4</td><td></td><td>1</td><td>74</td></tr><tr><td>INSTSPACE&ASTRONAUTSCI</td><td>20</td><td>16</td><td>6</td><td>13</td><td>7</td><td>3</td><td>1</td><td>4</td><td>2</td><td>1</td><td></td><td>1</td><td>74</td></tr><tr><td>MAXPLANCK INST EXTRATERRPHYS</td><td>2</td><td>9</td><td>5</td><td>6</td><td>7</td><td>7</td><td>7</td><td>4</td><td>12</td><td>3 5</td><td>2</td><td>2</td><td>71</td></tr><tr><td>SWEDISH INST SPACE PHYS</td><td></td><td>5</td><td></td><td>4</td><td>6</td><td>7</td><td>6</td><td>6</td><td>12</td><td>8 4</td><td>4</td><td>6</td><td>68</td></tr><tr><td>NAGOYA UNIV</td><td>11</td><td>5</td><td>1</td><td>4</td><td>4</td><td>8</td><td>3</td><td>3</td><td>5</td><td>4 11</td><td>3</td><td>4</td><td>66</td></tr><tr><td>TOKYO INST TECHNOL</td><td>2</td><td>3</td><td>4</td><td>8</td><td>6</td><td>7</td><td>12</td><td>3</td><td>6</td><td>1 1</td><td></td><td>2</td><td>55</td></tr><tr><td>KYOTO UNIV</td><td>4</td><td>4</td><td>3</td><td>8</td><td>4</td><td>2</td><td>5</td><td>2 5</td><td></td><td>6 6</td><td>3</td><td>2</td><td>54</td></tr><tr><td>UCL</td><td></td><td>3</td><td>1</td><td>1</td><td>3</td><td>4</td><td>7</td><td>7 16</td><td></td><td>3</td><td>3</td><td></td><td>48</td></tr><tr><td>Japan Aerosp Explorat Agcy</td><td></td><td></td><td></td><td></td><td>3</td><td>5</td><td>7</td><td></td><td>16</td><td>4</td><td>7 4</td><td>3</td><td>49</td></tr><tr><td>UNIV CALGARY</td><td>1</td><td>2</td><td>1</td><td>3</td><td>1</td><td>3</td><td>3</td><td>3</td><td>5</td><td>5 4</td><td>7</td><td>9</td><td>47</td></tr><tr><td>TECHUNIVCAROLOWILHELMINABRAUNSCHWEIG</td><td></td><td></td><td>2</td><td>3</td><td>2</td><td>2</td><td></td><td>1</td><td>6</td><td>6 10</td><td>11</td><td>4</td><td>47</td></tr><tr><td>UNIV IOWA</td><td>2</td><td>11</td><td>8</td><td>9</td><td>4</td><td>4</td><td>3</td><td></td><td>2</td><td>2 1</td><td>2</td><td></td><td>48</td></tr><tr><td>FINNISH METEOROL INST</td><td>2</td><td>1</td><td>2</td><td>3</td><td>2</td><td>6</td><td>4</td><td>6</td><td>7</td><td>2</td><td>6</td><td>2</td><td>43</td></tr></table></body></html>
+
+# 3高引用论文分析
+
+被引频次是衡量研究成果被同行关注程度的重要指标。通常而言，被引频次与科研影响力呈正相关关系。因此，可以说被引频次在很大程度上反映出科学
+
+研究工作的成效。
+
+从 $2 0 0 0 \sim 2 0 1 2$ 年，磁尾等离子体片领域共计发表论文1184篇，累计被引用了4508次。其中高引用的121篇论文（占论文总量的 $10 \%$ ）的引用次数达3980次（占总引用次数的 $8 8 . 3 \%$ ）。
+
+3.1国家分析统计121篇高引用论文作者的所属国家，如图3所示。121篇高引用论文中，美国86篇，远高于日本（38篇）、英国（30篇）、法国（26篇）、德国(26篇)和奥地利(24篇），这反映了 $2 0 0 0 \sim 2 0 1 2$ 年以美国为代表的这6个国家对磁尾等离子体片领域研究的重视程度，以及上述国家在该领域的研究能力。而中国(3篇)排名第12位，这显然与中国在该领域总论文量排名第8位有一定差距。
+
+![](images/a3f53e2a82de6799b16640ba8ee52c9ebf6a791533235cf40bf390a5625fb191.jpg)  
+图3121篇高引用论文的国家分布统计图  
+图42000\~2012年高引用论文排名前12位发文机构的论文量统计图
+
+统计121篇高引用论文所属的前12位发文机构，如图4所示。美国宇航局(22篇)居首位，日本空间与宇航科学研究所（20篇）、美国加州大学伯克利分校（20篇）和英国伦敦帝国学院(20篇）紧随其后，其次是美国加州大学洛杉矶分校（19篇)和美国霍普金斯大学（18 篇）。
+
+25 22 20 20 20 20 19 18 16 16 15 山 G 7 11 10 10 5 0 NASA 5 UNIV CNRS L COLL SCI.. SANGELES HOPKINSUNIV UNIV CALIF BERKELEY AUSTRIAN ACADS UNIV NEW HAMPSHIRE TOKYO INST TECHNOL INST SPACE& ASTRONAUT SCI UNIV CALIF LOSA JOHNSH MAXPLANCK INST EXTRATERR PHYS STPETERSBURGSTATEUI UNIV LONDON IMPERIAL
+
+# （上接第49页）
+
+机构的转制问题，充分发挥“产学研用”资源，理顺市场运作机制，着力培育和扩大市场对科技情报服务的需求；从WO劣势机遇策略出发，政府应当充分认识到科技情报的市场价值，并在政策上给予关注和支持，学术机构则应当注重理论研究对实际工作的指导作用，多开发一些能够辅助科技情报实务工作的信息检索、处理、分析工具或资料管理工具，行业管理部门应当进一步完善行业管理规范，并加强对科技情报专业人员
+
+3.2发表期刊分析统计121篇高引用论文的发文期刊，如图5所示。其中69篇高引用论文发表在JOURNAL OFGEOPHYSICALRESEARCH - SPACEPHYSICS。由此可见，该期刊代表了磁尾等离子体片研究领域的领先水平。
+
+![](images/6dede6c5a86090c9aa96fe5ccaed2b0b53a494acc0edfa58603a9de1b5b66521.jpg)  
+图5高引用论文发表期刊的分布统计图
+
+# 4结论
+
+磁尾等离子体片领域论文在2009年出现产出高峰后近年呈现下降态势，反映了该领域活跃度的变化趋势，同时也与空间科学探测计划有关。论文数量上美、日、俄等国处于领先地位，中国近年来在该领域的论文数量逐年增长。磁尾等离子体片领域论文发表期刊相对集中，相关研究具有很强的专业性。
+
+# 参考文献
+
+[1] 张元东．太阳风暴[M]．北京：气象出版社，2003.   
+[2] 太阳风与磁层相互作用研究成果综述［EB/OL].［2014-03- 10].http://news.sciencenet.cn/htminews/2011/11/255369. shtm.   
+[3] ISIWeb of Science[EB/OL].[2014-03-10].http://www. webofknowledge.com/wos/.   
+[4] Thomson Data Analyzer[EB/OL].[2014-03-10].http://www. thomsonscientific.com.cn/productsservices/TDA/   
+[5] Thomson Data Analyzer［EB/OL].［2014-03-10].http:// thomsonreuters.com/thomson-data-analyzer/.
+
+（责编：刘影梅）
+
+进行持续培训；从ST优势威胁策略看，应加强与国外竞争者的良性交流，充分学习、吸收、融合国际科技情报工作的先进经验，并在此基础上尝试构筑国内科技情报研究机构的核心竞争系统，以此来应对国外竞争者挤占国内市场所带来的威胁，并开拓和争取更广阔的国外市场；从WT劣势威胁策略看，应加快完善行业管理机制、科技情报服务及产品有效评估机制，由此来促进行业的整体规范化水平和转型发展。
+
+(责编：刘武英）

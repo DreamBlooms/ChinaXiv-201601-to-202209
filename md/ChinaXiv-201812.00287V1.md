@@ -1,0 +1,201 @@
+1 饲粮中添加沙棘果渣对育肥羊生长性能、屠宰性能、肉品质及消化道内容物pH的影响  
+2 刁小高 $^ 1$ 郝小燕」　赵俊星」丁　娜」于胜晨」项斌伟²　张文佳² 张建新 1\*  
+3 （1.山西农业大学动物科技学院，太谷 030801；2.山西省右玉县畜牧局，右玉 037200）  
+4 摘要：本试验旨在研究饲粮中添加沙棘果渣（SBP）对育肥羊生长性能、屠宰性能、肉品  
+5 质及消化道内容物pH的影响。选取4月龄、体重 $2 2 \mathrm { k g }$ 左右的杜泊 $\times$ 小尾寒羊杂交公羊 40  
+6 只，采用完全随机分组设计分为4组，各组SBP添加比例分别为0（对照组）、 $7 . 8 \%$ (8SBP  
+7 组)、 $1 6 . 0 \%$ （16SBP组）、 $23 . 5 \%$ （24SBP组），每组10只羊，试验期 $8 0 \mathrm { d }$ ，前 $1 0 \mathrm { d }$ 为预  
+8 试期，后 $7 0 \mathrm { d }$ 为正试期。结果表明：16SBP 和24SBP组平均日增重、干物质采食量均显著  
+9 高于对照组和 8SBP 组（ $\scriptstyle \cdot < 0 . 0 5$ ），各组料重比无显著性差异（ $\scriptstyle \cdot P > 0 . 0 5$ ）；16SBP组的末重  
+0 显著高于对照组和8SBP 组（ $_ { \cdot } P { < } 0 . 0 5 )$ ）;16SBP和24SBP组净肉重显著高于对照组 $. P { < } 0 . 0 5 )$ ：  
+1 24SBP 组肌肉GR 值显著低于对照组和8SBP组（ $. P { < } 0 . 0 5$ ）；16SBP和24SBP组肌肉粗脂肪  
+2 含量显著高于对照组和8SBP组（ $P { < } 0 . 0 5 \$ ）；8SBP和16SBP组肌肉剪切力显著高于对照组  
+3 （ $P { < } 0 . 0 5$ ）；各组的肌肉的 $\mathfrak { p H }$ 、肉色、系水力和熟肉率无显著性差异（ $. P { > } 0 . 0 5$ ）；皱胃液  
+4 及十二指肠和空肠内容物 $\mathfrak { p H }$ 随着 SBP的添加比例的增加而降低,24SBP 组显著低于对照组  
+5 （ $P { < } 0 . 0 5$ ）。综合得出，饲粮中添加 SBP可以提高育肥羊的平均日增重、干物质采食量和  
+6 净肉重等生长性能指标，增加肌肉粗脂肪含量，改善肌肉的嫩度和肠道内环境，SBP可以作  
+7 为育肥羊的新型饲料资源开发应用，且在本试验条件下，饲粮中 SBP的添加比例为 $1 6 \%$ 时  
+8 效果最好。
+
+关键词：沙棘果渣；育肥羊；生长性能；屠宰性能；肉品质；消化道内容物沙棘果渣是加工沙棘产品所产生的副产品，被广泛当作反刍动物的粗饲料来源，其本身具有沙棘果的药用成分，且含有丰富的养分。沙棘（sea buckthom）系胡颓子科，主要分布于我国海拔较高的西北地区。生长在土地贫瘠之地，不仅适应性强，而且果实、茎叶具有丰富的营养价值和药用价值[1]。Kagliwal 等[2]在超临界二氧化碳条件下萃取脱水沙棘果肉和籽实中含有的抗氧化物质，其试验结果表明沙棘果肉和籽实含有大量的维生素E、维生素C、类胡萝卜素以及黄酮类化合物。刘绪川等[3]对沙棘果渣和枝叶进行了毒理试验，结果表明沙棘叶及沙棘制品残渣营养丰富，长期饲喂动物安全可靠无蓄积性毒害，对畜禽的生长性能具有不同程度的促进作用，并且可以提高饲料利用率，同时有降低胆固醇及促进免疫器官生长发育的作用。本试验通过在杜泊 $\times$ 小尾寒羊杂交公羊饲粮中添加不同比例的沙棘果渣（seabuckthorm pomace,SBP），研究其对育肥羊生长性能、屠宰性能、肉品质及消化道内容物 pH的影响，为沙棘果渣在羊生产中的开发应用提供理论依据。
+
+1材料与方法
+
+1.1试验时间和地点本试验于2017年7月至2017年10月在山西省朔州市右玉县祥和岭上试验基地进行。  
+试验历时 $8 0 \mathrm { d }$ ，其中预试期 $1 0 \mathrm { d }$ ，正试期 $7 0 \mathrm { d }$ 。
+
+# 1.2 试验设计与饲粮
+
+试验选用40只4月龄、体重[（ $2 2 . 2 { \scriptstyle \pm 0 . 9 2 }$ ） $\mathbf { \left| k g \right] }$ 相近、健康的杜泊 $\times$ 小尾寒羊杂交公羊为研究对象，采用完全随机分组试验设计，按照沙棘果渣的不同添加比例分为4组：0（对照组）、 $7 . 8 \%$ (8SBP组)、 $1 6 . 0 \%$ （16SBP组）、 $23 . 5 \%$ （24SBP组），每组10只羊。每只羊单栏饲养。试验饲粮参考NRC（2007）体重 $2 0 \mathrm { k g }$ 、日增重 $3 0 0 \mathrm { g / d }$ 的公羊营养需要量自行配制，其中粗饲料为燕麦秸秆、土豆秧。试验饲粮均制成全混合颗粒，试验饲粮组成及营养水平见表1。按照《饲料分析及饲料质量检测技术》[4]方法测定饲粮和沙棘果渣中营养水平。干物质（DM）含量采用105℃烘干至恒重，粗蛋白质（CP）采用凯氏定氮仪进行测量，粗脂肪（EE）含量采用乙醚回流浸提测定。中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量采用Van Soest[5]方法进行测定。总能利用氧弹测热法进行测定。非纤维性碳水化合物（NFC)的计算公式为：NFC（%） $^ { = 1 }$ -(NDF+CP+EE $^ +$ 粗灰分)[6]。
+
+Table 1Ingredients and chemical composition of experimental diets (DM basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>对照 Control</td><td>8SBP</td><td>16SBP</td><td>24SBP</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>沙棘果渣 SBP</td><td></td><td>7.8</td><td>16.0</td><td>23.5</td></tr><tr><td>粉碎玉米 Ground corn</td><td>28.3</td><td>23.5</td><td>22.0</td><td>13.6</td></tr><tr><td>次粉 Wheat middling</td><td>5.0</td><td>5.0</td><td>5.0</td><td>5.0</td></tr><tr><td>麦麸Wheat bran</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.0</td></tr><tr><td>豆粕 Soybean meal</td><td>13.4</td><td>12.3</td><td>12.3</td><td>12.3</td></tr><tr><td>胡麻籽饼 Oil cake of flax seed</td><td>4.7</td><td>4.7</td><td>4.7</td><td>4.7</td></tr><tr><td>燕麦秸 Oat straw</td><td>25.6</td><td>27.7</td><td>21.0</td><td>20.9</td></tr><tr><td>土豆秧 Potato seedling</td><td>15.0</td><td>11.0</td><td>11.0</td><td>12.0</td></tr><tr><td>石粉 Limestone</td><td>0.6</td><td>0.6</td><td>0.6</td><td>0.6</td></tr><tr><td>食盐 NaCl</td><td>2.6</td><td>2.6</td><td>2.6</td><td>2.6</td></tr><tr><td>预混料 Premixl</td><td>1.8</td><td>1.8</td><td>1.8</td><td>1.8</td></tr><tr><td>合计 Total</td><td>100.0</td><td>100.0</td><td>100.0</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质CP</td><td>13.2</td><td>13.2</td><td>13.2</td><td>13.5</td></tr><tr><td>中性洗涤纤维 NDF</td><td>44.1</td><td>41.9</td><td>40.5</td><td>38.7</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>28.4</td><td>28.0</td><td>26.8</td><td>26.9</td></tr><tr><td>粗脂肪 EE</td><td>1.09</td><td>2.29</td><td>2.60</td><td>3.46</td></tr><tr><td>非纤维性碳水化合物 NFC</td><td>39.6</td><td>40.5</td><td>41.2</td><td>42.0</td></tr><tr><td>钙Ca</td><td>0.81</td><td>0.75</td><td>0.81</td><td>0.95</td></tr><tr><td>磷P</td><td>0.64</td><td>0.63</td><td>0.58</td><td>0.58</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>17.7</td><td>17.7</td><td>17.5</td><td>17.8</td></tr></table></body></html>
+
+1每千克预混料中含有 One kilogram of premix contained the following:I 40 mg,Fe 600 mg,Cu 260 mg,Mn750 mg,Zn 680 mg,Se 15mg,Co 10 mg,VA117 000 IU,VE 180 IU。
+
+2）非纤维性碳水化合物为计算值，其余为实测值。NFC was a calculated value,while the others were measured values.
+
+表2沙棘果渣营养水平 (干物质基础)  
+
+<html><body><table><tr><td colspan="2"></td><td colspan="2">Table2</td><td colspan="2">Nutrient levels of SBP (DMbasis)</td><td colspan="4">%</td></tr><tr><td>项目Item</td><td>DM</td><td>OM</td><td>CP</td><td>EE</td><td>NDF</td><td>ADF</td><td>Ash</td><td>Ca</td><td>P</td></tr><tr><td>沙棘果渣 SBP</td><td>90.00</td><td>87.71</td><td>7.81</td><td>9.25</td><td>27.13</td><td>20.88</td><td>2.29</td><td>0.71</td><td>0.43</td></tr></table></body></html>
+
+# 1.3饲养管理
+
+试验前对羊群进行检疫，预试期进行驱虫、防疫，定期消毒，保证羊舍干净。每天08:00和16：00进行饲喂，自由采食和饮水。
+
+1.4样品的采集与测定
+
+1.4.1 生长性能
+
+于正试期第1天对所有试验羊进行空腹称重，作为始重，饲喂期间每隔2周进行空腹称量试验羊的体重。正试期最后1天20：00时对所有试验羊进行禁食禁水 $1 2 \mathrm { h }$ ，次日08：00进行空腹称重，作为末重。准确记录每只试验羊的喂料量、剩料量，计算每只羊的干物质采食量（DMI）、平均日增重（ADG）和料重比。
+
+# 1.4.2 屠宰性能
+
+称量末重后屠宰，屠宰前进行称重，去头、蹄、内脏、剥皮，称量各器官的重量。并进行骨肉分离，分别称量出骨重、净肉重，称重后立即采集肌肉、内脏和睾丸等样品，并准确记录重量。
+
+胴体重 $\ c =$ 宰前活重-头、蹄、尾重；  
+屠宰率 $\scriptstyle : = 1 0 0 \times$ 胴体重/宰前活重；净肉重 $\varXi$ 胴体重-骨重；  
+净肉率 $\scriptstyle : = 1 0 0 \times$ 净肉重/宰前活重;骨肉比 $\circleddash$ 骨重/净肉重。
+
+1.4.3 肉品质
+
+试验羊屠宰时，取左侧背最长肌，测定 $\mathfrak { p H }$ 、GR值、肉色、失水率、熟肉率、剪切力  
+及常规养分。pH：肉样取好后，放置1h，用 $\mathsf { p H }$ 计测定 $\mathfrak { p H } _ { \mathfrak { l } \mathrm { h } }$ ，再将肉样放入 $4 ^ { \circ } \mathrm { C }$ 冰箱熟化 $2 4 \mathrm { h }$ 后测  
+定 $\mathfrak { p H } _ { 2 4 \mathrm { h } }$ 。GR 值：在第12与13肋骨之间，距离背脊中线 $1 1 \mathrm { { c m } }$ 处组织厚，其代表胴体脂肪含量肉色：屠宰现场采用CM-5分光测色仪测定背最长肌的亮度值（ $\boldsymbol { \mathrm { ~ L ~ } ^ { * } }$ ）、红度值（a\*）和  
+黄度值（b\*），取好肉样后，切面暴露 $^ { \textrm { 1 h } }$ ，测定 $\boldsymbol { \mathrm { L } } ^ { * } { } _ { 1 \mathrm { h } }$ 、 $\mathbf { a } _ { \mathrm { ~ 1 ~ h ~ } } ^ { * }$ 和 $\boldsymbol { \ b } _ { \mathrm { ~ 1 ~ h ~ } } ^ { * }$ ，测定3次，取平均值；  
+再将肉样放入 $4 ^ { \circ } \mathrm { C }$ 冰箱熟化 $2 4 \mathrm { h }$ ，测定 $\mathrm { L } ^ { \ast } { _ { 2 4 \mathrm { h } } }$ 、 $\boldsymbol { \mathrm { b } } _ { 2 4 \mathrm { h } } ^ { * }$ 和 $\boldsymbol { \mathrm { b } } _ { 2 4 \mathrm { h } } ^ { * }$ ，测定3次，取平均值。采用 TMS-PRO 质构仪测定失水率和剪切力。按照蒸煮试验相关步骤测定熟肉率。将背  
+最长肌肉切成大小、形状相近，质量在 $5 0 ~ \mathrm { g }$ 左右的肉块，置于 $8 0 ~ ^ { \circ } \mathrm { C }$ 水浴锅中，蒸煮 $3 0 \mathrm { m i n }$   
+冷却至室温，称量肉重，进行计算熟肉率。常规养分：将 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 保存的肌肉样品进行称量，放入冷冻干燥机中 $7 2 \mathrm { { h } }$ ，称量干燥后的
+
+重量，计算其水分含量。按照《饲料分析及饲料质量检测技术》[4测定干燥处理后样品的CP、EE及粗灰分含量。
+
+1.4.4消化道内容物 pH屠宰后取瘤胃液、皱胃液及十二指肠、空肠、回肠内容物，用pH计测定 $\mathfrak { p H }$ 。
+
+# 1.5 数据统计与结果分析
+
+采用 Excel2007软件对试验数据进行初步整理，再采用 SAS9.2软件处理，用 Mixed模型进行统计分析。 $P { < } 0 . 0 5$ 表示差异显著。
+
+2结果
+
+2.1饲粮中添加沙棘果渣对育肥羊生长性能的影响由表3可以看出，试验羊的始重差异不显著（ $\cdot P { > } 0 . 0 5$ ）。16SBP组的末重显著高于对照组和8SBP组（ $\cdot P { < } 0 . 0 5$ ），体重增加量也最大，8SBP组的末重与对照组差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。16SBP 和24SBP组的平均日增重和DMI均显著高于对照组和8SBP 组（ $\cdot < 0 . 0 5$ ），8SBP组与对照组的无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。各组料重比无显著差异（ $\scriptstyle \cdot > 0 . 0 5$ ）。表3沙棘果渣对
+
+# 育肥羊生长性能的影响
+
+Table 3Effects of SBP on growth performance of fattening sheep   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照 Control</td><td>8SBP</td><td>16SBP</td><td>24SBP</td></tr><tr><td>始重IW/kg</td><td>22.52±0.97</td><td>22.71±0.90</td><td>22.43±0.77</td><td>22.23±0.72</td><td>0.84</td></tr><tr><td>末重FW/kg</td><td>38.18±3.85b</td><td>38.83±1.87b</td><td>43.63±0.91a</td><td>41.38±2.30ab</td><td>0.03</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>221.20±11.71b</td><td>221.70±28.14b</td><td>257.30±3.92a</td><td>258.90±21.85a</td><td>0.02</td></tr><tr><td rowspan="2">干物质采量 DMI/（g/d)</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td></tr><tr><td>511.00±73.94b</td><td>548.40±226.78 b</td><td>816.80±95.66a</td><td>828.90±174.96a</td><td><0.01</td></tr><tr><td>料重比F/G</td><td>6.84±0.12</td><td>6.98±0.41</td><td>7.06±0.45</td><td>7.07±0.23</td><td>0.88</td></tr></table></body></html>
+
+同行无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，下表同。
+
+In the same row,values with no letter mean no significant difference $( P > 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference ( $\scriptstyle ( P < 0 . 0 5 )$ .The same as below.
+
+2.2饲粮中添加沙棘果渣对育肥羊屠宰性能的影响
+
+由表4可以看出，16SBP组的宰前活重显著高于对照组（ $\scriptstyle P < 0 . 0 5$ ），16SBP和24SBP组的净肉重显著高于对照组 （ $\cdot P { < } 0 . 0 5$ ），且16SBP组净肉重最大。24SBP组的肌肉GR值显著低于对照组和8SBP组（ $P { < } 0 . 0 5$ ）。胴体重、屠宰率、净肉率、骨重、骨肉比在4组之
+
+Table 4Effects of SBP on slaughter performance of fattening sheep   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照 Control</td><td>8SBP</td><td>16SBP</td><td>24SBP</td></tr><tr><td>宰前活重 SBW/kg</td><td>37.40±2.27b</td><td>37.95±1.39ab</td><td>41.30±1.34 a</td><td>40.60±1.27ab</td><td>0.04</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>18.81±0.47</td><td>19.08±1.29</td><td>19.51±1.62</td><td>20.43±0.74</td><td>0.37</td></tr><tr><td>屠宰率 Dressing percentage/%</td><td>50.37±0.03</td><td>50.24±0.02</td><td>47.25±0.04</td><td>50.33±0.02</td><td>0.42</td></tr><tr><td>净肉重 Net meat weight/kg</td><td>14.18±0.22b</td><td>14.77±0.63ab</td><td>16.00±0.33a</td><td>15.85±0.36a</td><td>0.04</td></tr><tr><td>净肉率 Pure meat percentage/%</td><td>38.03±2.75</td><td>38.99±3.88</td><td>38.75±1.07</td><td>39.04±1.10</td><td>0.96</td></tr><tr><td>骨重Bone weight/kg</td><td>4.21±0.15</td><td>4.17±0.13</td><td>4.25±0.15</td><td>4.00±0.14</td><td>0.56</td></tr><tr><td>骨肉比 Ratio of meat to bone/%</td><td>29.76±1.77</td><td>28.32±2.25</td><td>26.59±1.47</td><td>25.24±1.10</td><td>0.05</td></tr><tr><td>GR 值 GR value/mm</td><td>9.90±0.96a</td><td>9.97±1.00a</td><td>9.10±0.17ab</td><td>7.76±2.30b</td><td>0.02</td></tr></table></body></html>
+
+111 2.3饲粮中添加沙棘果渣对育肥羊肌肉常规养分含量和肉品质的影响
+
+112 由表5可以看出，各试验组在肌肉水分、CP、粗灰分含量上与对照组均无显著性差异  
+113 （ $P { > } 0 . 0 5$ ）。肌肉粗脂肪含量随着 SBP 添加比例的增加而增加，且16SBP和24SBP组显著  
+114 高于对照组和 8SBP组（ $\cdot < 0 . 0 5$ ）。  
+117 由表6可以看出，4组间的肌肉 $\mathfrak { p H } _ { \mathfrak { l } \mathrm { h } }$ 和 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 未见显著差异（ $P { > } 0 . 0 5$ ），且L\*1h、a\*1h  
+118 $\boldsymbol { \mathbf { b } } _ { \mathrm { ~ 1 ~ h ~ } } ^ { * }$ 在各组间也无显著性差异（ $P { > } 0 . 0 5$ ），经 $2 4 \mathrm { h }$ 熟化后， $\boldsymbol { \mathrm { L } } ^ { * } { } _ { 2 4 \mathrm { h } }$ 、 $\mathbf { a } _ { 2 4 \mathrm { h } } ^ { * }$ 和 $\boldsymbol { \ b } _ { \ 2 4 \mathrm { ~ h ~ } } ^ { * }$ 在数值上均  
+119 有提高，但各组间无显著差异（ ${ \cdot } P { > } 0 . 0 5$ ）。各组在肌肉系水力和熟肉率方面无显著性差异  
+120 中 $. { \cal P } { > } 0 . 0 5$ ），但试验组数值上略高于对照组。与对照组相比，8SBP 和16SBP组肌肉剪切力  
+121 显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），24SBP组与对照组差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。  
+25 由表7可以看出，瘤胃液pH随 SBP 添加比例的增加有下降的趋势，但各组之间没有显  
+26 著性差异（ $P { > } 0 . 0 5$ ）；皱胃液 $\mathsf { p H }$ 随着 SBP添加比例的增加而降低，试验组显著低于对照组  
+27 （ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。16SBP和24SBP 组的十二指肠内容物 $\mathfrak { p H }$ 显著低于对照组（ $\cdot < 0 . 0 5$ ）；24SBP  
+28 组的空肠内容物 $\mathsf { p H }$ 显著低于对照组 $( P { < } 0 . 0 5 )$ )。各组回肠内容物 $\mathfrak { p H }$ 没有显著差异( $. P { > } 0 . 0 5 )$ 。
+
+表4沙棘果渣对育肥羊屠宰性能的影响  
+表5沙棘果渣对肌肉常规养分含量的影响  
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照 Control</td><td>8SBP</td><td>16SBP</td><td>24SBP</td></tr><tr><td>水分Moisture</td><td>76.37±2.82</td><td>73.08±1.95</td><td>72.25±2.96</td><td>70.75±6.48</td><td>0.41</td></tr><tr><td>粗蛋白质 CP</td><td>21.03±0.85</td><td>21.42±0.87</td><td>21.63±0.61</td><td>22.20±0.84</td><td>0.40</td></tr><tr><td>粗脂肪 EE</td><td>3.57±0.32b</td><td>3.96±0.14b</td><td>5.54±0.35a</td><td>4.99±0.41a</td><td><0.01</td></tr><tr><td>粗灰分 Ash</td><td>1.36±0.05</td><td>1.40±1.00</td><td>1.36±0.02</td><td>1.39±0.04</td><td>0.72</td></tr></table></body></html>
+
+Table 5Effects of SBP on routine nutrient contents of muscle of fattening sheep %   
+表6沙棘果渣对育肥羊肉品质的影响  
+Table 6Effects of SBP on meat quality of fattening sheep   
+
+<html><body><table><tr><td>项目 Items</td><td colspan="3">组别 Groups</td><td>P值</td></tr><tr><td>对照 Control</td><td>8SBP</td><td>16SBP</td><td>24SBP</td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td>pH1h</td><td>6.63±0.13</td><td>6.59±0.02</td><td>6.53±0.07</td><td>6.67±0.07</td><td>0.26</td></tr><tr><td>pH24 h</td><td>5.65±0.07</td><td>5.54±0.10</td><td>5.66±0.29</td><td>5.60±0.06</td><td>0.78</td></tr><tr><td>L*1h</td><td>30.77±0.61</td><td>31.57±1.76</td><td>31.60±0.48</td><td>29.80±0.49</td><td>0.17</td></tr><tr><td>a*1h</td><td>11.00±1.04</td><td>10.57±0.11</td><td>10.52±1.45</td><td>10.39±0.46</td><td>0.86</td></tr><tr><td>b1h</td><td>8.67±1.06</td><td>8.24±0.53</td><td>8.45±0.96</td><td>8.22±0.91</td><td>0.92</td></tr><tr><td>L*24h</td><td>35.83±1.46</td><td>35.40±2.25</td><td>36.09±0.97</td><td>35.15±0.61</td><td>0.86</td></tr><tr><td>a24 h</td><td>11.85±0.97</td><td>11.10±0.09</td><td>11.38±1.38</td><td>12.12±0.81</td><td>0.57</td></tr><tr><td>b24h</td><td>10.73±0.70</td><td>11.52±0.65</td><td>10.42±0.08</td><td>10.71±0.87</td><td>0.26</td></tr><tr><td>系水力 Water holding capacity/%</td><td>42.24±1.83</td><td>43.08±0.21</td><td>43.28±2.45</td><td>43.26±1.65</td><td>0.87</td></tr><tr><td>熟肉率 Cooked meat rate/%</td><td>60.59±2.42</td><td>62.98±1.59</td><td>67.39±2.11</td><td>65.47±4.61</td><td>0.09</td></tr><tr><td>剪切力 Shear force/N</td><td>37.47±5.21a</td><td>21.68±3.49b</td><td>25.55±1.88b</td><td>36.93±4.17a</td><td><0.01</td></tr></table></body></html>
+
+124 2.4饲粮中添加沙棘果渣对育肥羊消化道内pH的影响
+
+表7沙棘果渣对育肥羊消化道内pH的影响  
+Table 7Effects of SBP on pH in digestive tracts of fattening sheep   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照Control</td><td>8SBP</td><td>16SBP</td><td>24SBP</td></tr><tr><td>瘤胃液 Rumen fluid</td><td>6.89±0.06</td><td>6.69±0.02</td><td>6.71±0.03</td><td>6.48±0.03</td><td>0.06</td></tr><tr><td>皱胃液 Abomasum fluid</td><td>4.50±0.17a</td><td>3.80±0.09b</td><td>3.63±0.22b</td><td>3.54±0.29b</td><td><0.01</td></tr><tr><td>十二指肠内容物 Duodenum content</td><td>6.56±0.04a</td><td>6.32±0.20ab</td><td>6.10±0.18b</td><td>5.94±0.30b</td><td>0.03</td></tr><tr><td>空肠内容物 Jejunum content</td><td>6.78±0.12a</td><td>6.67±0.03ab</td><td>6.63±0.10ab</td><td>6.53±0.03b</td><td>0.02</td></tr><tr><td>回肠内容物 Ileum content</td><td>7.09±0.08</td><td>7.20±0.20</td><td>7.26±0.27</td><td>7.24±0.14</td><td>0.67</td></tr></table></body></html>
+
+3讨论
+
+# 3.1饲粮中添加沙棘果渣对育肥羊生长性能的影响
+
+糟渣类非常规饲料资源已被广泛用于养殖业，据不完全统计我国糟渣类饲料资源总量约16000万t7]，其中果渣类占1/3。果渣类饲料含有大量可消化蛋白质和可消化碳水化合物，是良好的饲料资源。另外，果渣类饲料中富含有益的活性成分，可以提高动物的免疫力。杨志峰等[8]研究表明，饲粮中添加发酵苹果渣使犊牛的平均日增重提高 $1 4 . 1 4 \%$ 。卢珍珍等[9]研究了葡萄渣对羔羊生长性能、屠宰性能和养分消化代谢的影响，并确定了葡萄皮渣的适宜添加比例，其试验结果表明随着葡萄皮渣的添加比例的增加，羔羊的采食量、日增重和胴体脂肪含量均显著提高，羔羊的CP、NDF 和ADF 表观消化率则逐渐降低。本试验中，试验组的末重、DMI和平均日增重高于对照组，其原因是 SBP 具有特殊的果香味和酸性物质，刺激动物的嗅觉，进而提高采食量。另外，SBP的添加降低了饲粮中粗饲料（燕麦秸和土豆秧）的比例，饲粮体积物理特性发生变化；且不易被消化的土豆秧比例降低有利于饲粮在瘤胃中降解，进一步提高动物采食量。
+
+3.2饲粮中添加沙棘果渣对育肥羊屠宰性能的影响
+
+屠宰性能可以直接反映出动物的经济价值，其中胴体重、屠宰率和净肉率等指标是经济收益的重要影响因素[10]。吴华等[1]研究了沙棘果渣对放牧条件下岭南黄鸡肉品质及屠宰率的影响，饲料中添加不同剂量沙棘果渣提高了肌肉CP含量，对屠宰率、全净膛率和水分含量没有显著影响。本试验结果显示，育肥羊饲粮中添加不同比例的 SBP对屠宰率、净肉率和骨肉比没有显著影响。GR 值是反映胴体脂肪含量的指标，GR值越高胴体脂肪的含量越高[12]。陈仁伟[13]研究发现，在饲粮中添加沙葱黄酮可以通过改变动物营养代谢途径，显著提高肉羊生产性能、屠宰率、眼肌面积和GR值。而本研究结果显示，试验羊GR 值随着SBP 的增加而降低，24SBP组最低，即 24SBP 组胴体脂肪含量最低。造成GR 值下降的原因有2个：一是沙棘果渣含有降血糖、降血脂、降低胆固醇的药效成分，从而降低体内脂肪沉积。二是 SBP中某些功能性成分可能改变了动物代谢过程中养分的沉积途径。
+
+# 3.3饲粮中添加沙棘果渣对育肥羊肉品质的影响
+
+肉品质的评定指标包括感官特征、理化特性及营养价值等，这些指标在不同程度上反映着肉的品质[14]。肌肉的常规养分可以客观地评价肉质量，肌肉中的主要化学成分包括水分、蛋白质、脂肪和灰分。有研究表明，动物肌肉组织的化学成分与生长阶段有关，随着年龄和体重的增加，水分含量有所下降，脂肪含量升高，蛋白质含量较稳定[15]。马铁伟等[1]研究表明，饲粮营养水平对湖羊背最长肌常规化学成分含量无显著影响。本研究结果表明，试验组与对照组的肌肉内水分、CP 和粗灰分含量没有显著差异，与前人研究结果一致。肌肉内脂肪含量的与肉的多汁性和风味有密切联系，二者呈现正相关性[17]，16SBP 和 24SBP 组的肌肉 EE 含量显著高于对照组，说明 SBP 的添加增加了脂肪在肌肉内的沉积，其具体的影响机理，需进一步研究。
+
+pH是肉品质的一项重要指标，Watanabe 等[18]认为新鲜的肌肉在衰老的过程中pH 的正常范围在 $5 . 4 { \sim } 7 . 2$ ，新鲜的肌肉pH接近中性，随着时间的推移，肌肉利用糖原产生能量维持一些耗能反应，同时会生产出大量乳酸导致pH下降。本研究中肌肉pH结果均在正常范围内，对照组与试验组没有产生显著性差异，说明 SBP 的添加对肌肉pH没有显著影响。肉色也是评价肉品质的重要指标，肉色主要取决于肌肉中所含的色素物质——肌红蛋白和血红蛋白的含量[19]。在鲜肉的贮藏期间，由于肌红蛋白、氧合肌红蛋白和高铁肌红蛋白的相互转换从而导致了肉色的改变[20]。本试验数据显示，对照组和试验组在L\*、a\*和b\*均无显著差异，并且熟化 $2 4 \mathrm { h }$ 后也无显著差异，说明饲粮中添加 SBP对肉色无显著的影响。肌肉的嫩度是肌肉品质评价的重要感官指标，系水力、剪切力和熟肉率都与肌肉的嫩度有关，有研究报道牛肉的熟肉率与饲粮营养水平有关，随着饲粮营养水平的提高，熟肉率提高、嫩度和肌肉内的脂肪含量增加，从而改善肌肉品质[21]。剪切力越大，肉的嫩度越差。剪切力的大小一定程度上也可以反映出肌肉内脂肪的含量[22]，熟肉率则反映了肌肉蛋白质的保水能力，熟肉率越低说明肌肉的保水性越差。本试验中各组的系水力和熟肉率在统计学上无显著性差异，但随着 SBP 增加，系水力和熟肉率的数值呈现出上升趋势，说明 SBP可能改善了肌肉的保水性；8SBP 和16SBP 组的剪切力显著小于对照组，而 24SBP 组与对照组无显著差异，其原因可能是添加适宜比例的 SBP可以显著降低羊肉的剪切力，改善肉品质，当添加比例过高时效果则不理想，其影响机理还需要进一步研究。
+
+3.4饲粮中添加沙棘果渣对育肥羊消化道内容物pH的影响
+
+畜禽的胃肠道酸碱度是影响消化内环境的重要因子，也是调节体内酸碱平衡和电解质平衡的基础，适宜的酸碱度对于维持消化系统正常的生理功能是十分必要的。瘤胃液的pH 是衡量瘤胃发酵状况的一项重要指标，瘤胃内 $\mathfrak { p H }$ 正常范围在 $5 . 5 \sim 7 . 0$ ， $\mathsf { p H }$ 主要受饲粮结构、唾液分泌、瘤胃发酵产物利用和吸收效率的影响[23]，唾液中的钠、钾及磷酸盐在瘤胃内形成一种缓冲体系，维持瘤胃内的酸碱度。有关研究报道，饲粮性质的变化不会影响瘤胃内pH平均值，但采食后瘤胃内pH随着时间变化而变化[24]。本试验的瘤胃液pH在正常范围内，各组无显著差异，24SBP 组瘤胃液pH在数值上低于对照组。这说明饲粮中 SBP 的添加比例达到 $1 6 . 0 \%$ 时不会对瘤胃的酸碱度造成负面影响，当添加比例达到 $23 . 5 \%$ 时则提高瘤胃酸度。本试验中，尽管 SBP 的添加降低了粗饲料比例，但同时降低了玉米比例，因此饲粮淀粉含量大幅下降。另外，果渣饲料中通常含有较高比例的果胶，果胶对瘤胃内环境的稳定具有调节作用[25-26]。但24SBP 组饲粮可能由于较高含量的 NFC，它在瘤胃内发酵较快，且较低的粗饲料比例可能减少动物的反刍时间，造成瘤胃液pH有所下降。皱胃内pH随生理状态变化而变化，pH正常范围在 $3 { \sim } 4$ 。当动物处于饥饿状态或采食量较低时，pH会升高。当瘤胃产生大量挥发性脂肪酸（VFA）进入皱胃时，刺激皱胃释放更多的盐酸，进一步降低皱胃内的 $\mathsf { p H } ^ { [ 2 7 ] }$ 。本研究皱胃液pH在正常范围内，随 SBP 添加比例的增加而降低，可能是由于饲粮中添加 SBP 后促进饲粮在瘤胃内的降解，VFA产量提高并部分进入皱胃，刺激皱胃壁分泌更多的盐酸，进而使pH降低。
+
+小肠内pH由小肠自身分泌功能和神经体液共同调节。当食糜进入十二指肠，胰腺受神经的调节而分泌胰液进入小肠，中和食糜中的酸性物质，使小肠pH升高。小肠本身分泌各种酶、黏液和碳酸氢根离子混合成小肠液，保护小肠黏膜不受胃酸的侵蚀。十二指肠和空肠内容物的 pH 在 $6 . 3 0 { \sim } 6 . 6 9$ ，空肠后段内容物 $\mathfrak { p H }$ 在 $7 . 2 2 { \sim } 7 . 7 3 ^ { [ 2 8 ] }$ 。本试验组各消化道内容物pH 在正常范围内，十二指肠和空肠内容物的 $\mathfrak { p H }$ 随 SBP 的添加而降低，可见 SBP 可以改变肠道内容物的酸碱度。
+
+4结论
+
+饲粮中添加 SBP可以提高育肥羊的平均日增重、DMI和净肉重等生长性能指标，增加肌肉 EE 含量，改善肌肉的嫩度和肠道内环境，SBP可以作为育肥羊的新型饲料资源开发应用，且在本试验条件下，饲粮中SBP的添加比例为 $1 6 \%$ 时效果最好。参考文献：[1］ 戚晓舟,宋晨光,凌飞,等.不同菌株发酵沙棘果渣、沙棘叶、沙棘籽渣营养成分变化的研究[J].饲料工业,2016,37(7):22-27.[2] KAGLIWAL L D,POL A S,PATIL S C,et al.Antioxidant-rich extract from dehydratedseabuckthorn berriesby supercritical carbon dioxide extraction[J].Food and BioprocessTechnol0gy,2012,5(7):2768-2776.[3] 刘绪川,何国耀,张礼华,等.沙棘叶及沙棘制品残渣毒理学试验和对畜禽生产性能的影响[J].甘肃畜牧兽医,1993(1):1-3.[4] 张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.[5] VAN SOEST P J.Development of a comprehensive system of feed analyses and its applicationto forages[J].Journal of Animal Science,1967,26(1):119-128.
+
+[6] NRC.Nutrient requirements of dairy cattle[S].7th ed.Washington,D.C.:National AcademyPress,2001.  
+[7]杨在宾,刘丽,杜明宏.我国饲料业的发展及饲料资源供求现状浅析[J].饲料工业,2008,29(19):45-49.  
+[8]杨志峰,李作明,李爱华.日粮中添加发酵苹果渣对犊牛生长性能的影响[J].农业科学研究,2016,37(1):93-96.  
+[9]卢珍珍,郑琛,李发弟,等.葡萄渣对羔羊生产性能、屠宰性能和养分消化代谢的影响[J].草业学报,2015,24(4):114-120.  
+[10] 万凡,马涛,马晨,等.不同饲养标准对杜寒杂交肉用绵羊生产和屠宰性能的影响[J].动物营养学报,2016,28(11):3483-3492.  
+[11]吴华,张辉,周移剑.沙棘果渣对放牧肉鸡屠宰性能和肉品质的影响[J].当代畜牧,2009(12):22-24.  
+[12] 刘政.断尾对脂尾型绵羊肉用性能、脂肪沉积及肝脏转录组差异基因表达的影响[D].硕士学位论文.兰州:甘肃农业大学,2015.  
+[13]陈仁伟.沙葱黄酮对肉羊生产性能及其肉品质的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2016.  
+[14] 谷英,孙海洲,桑丹,等.肉品质评定指标及影响因素的研究进展[J].中国畜牧兽医,2013,40(7):100-106.  
+[15]冯仰廉.论生产优质牛肉的科学饲养(续)[J].饲料广角,2001(22):4-7.  
+[16]马铁伟,王强,王锋,等.营养水平对湖羊生长性能、血清生化指标、屠宰性能和肉品质的影响[J].南京农业大学学报,2016,39(6):1003-1009.  
+[17]吴伟,孙飞丹,孙云农.百日龄羔羊肉质分析[J].肉类研究,2000(4):48-49.  
+[18] WATANABE A,DALY C C,DEVINE C E.The effects of the ultimate pH of meat ontenderness changes during ageing[J].Meat Science,1996,42(1):67-78.  
+[19]丁楠,王国春,林雪薇,等.肉羊日粮中添加紫甘蓝和胡萝卜对其肉色及肉质的影响[J].饲料研究,2016(21):32-34,47.  
+[20]VANLACK R L J M,FRANCS F J M.Colour stability of bovine Longissimus and Psoas  
+majormusclesasaffectedbyelectricalstimulationandhotboning[J].Meat  
+Science,1990,28(3):211-221.  
+[21]李石友,徐英,李琦华,等.营养水平对牛肉品质的影响研究[J].中国畜牧兽  
+医,2007,34(11):132-134.  
+[22] 侯鹏霞.滩羊羔羊早期补饲以及不同体重阶段羊肉品质的研究[D].硕士学位论文.银川:  
+宁夏大学,2014.  
+[23] 王艳红.日粮淀粉水平对山羊α-淀粉酶活性及消化道形态的影响[D].硕士学位论文.杨凌:  
+西北农林科技大学,2007.  
+[24]WOODFORD S T,MURPHY M R.Efect of forage physical form on chewing activity,dry  
+matter intake,and rumen function of dairy cows in early lactation[J].Journal of Dairy  
+Science,1988,71(3):674-686.  
+[25] 李巨秀,李志西,杨明泉,等.果渣资源的综合利用[J].西北农林科技大学学报:自然科学  
+版,2002,30(增刊 1):103-106.  
+[26] 刘晶,刘建新.饲料果胶对瘤胃微生物菌群和发酵特性及蛋白质合成的影响[J].中国畜牧  
+杂志,2014,50(23):93-98.  
+[27]陈杰.家畜生理学[M].4版.北京:中国农业出版社,2008.  
+[28] 刘月琴,王宝山,张英杰,等.日粮类型对小尾寒羊小肠消化酶活性影响的研究[J].中国草食  
+动物科学,2004(增刊 1):131-134.  
+Effects of Dietary Supplementation of Sea Buckthorn Pomace on Growth Performance, SlaughterPerformance, Meat Quality,and pH of Digestive Tract Content of Fattning SheepDIAO Xiaogao1HAO Xiaoyan1ZHAO Junxing1DING $\mathrm { { N a ^ { 1 } } }$ YU ShengchenlXIANG Binwei²ZHANG Wenjia²ZAHNG Jianxin1\*(1. College of Animal Science and Technology, Shanxi Agricultural University, Taigu 030801,China; 2. Animal Husbandry Bureau of Youyu County of Shanxi Province， Youyu 037200,China)
+
+Abstract: The purpose of this experiment was to investigate the effects of dietary supplementation
+
+UI sUa UuUAuIUIlI pUIIaCU （oDI ) UI gIUw uI UiMa auguui perivimai cai anty anu the pH of digestive tract content of fattening sheep. Forty Dorper×small tailed Han rams (4 months of age， weighted about $2 2 ~ \mathrm { k g }$ ） were randomly selected and randomly assigned into 4 groups with 10 rams per group according to the supplemental proportions of SBP, which were 0 (control group), $7 . 8 \%$ (8SBP group), $1 6 . 0 \%$ (16SBP group), $23 . 5 \%$ (24SBP group), respectively. The experiment lasted for 80 days with the first 10 days for pretest period and the last 7O days for test period. The results showed as follows: average daily gain and dry matter intake in 16SBP and 24SBP groups were significantly higher than those in control group and 8SBP group $( P { < } 0 . 0 5 )$ ： There was no significant difference in feed conversion rate among groups $( P { > } 0 . 0 5 )$ ). Final weight in l6SBP group was significantly higher than that in control group and 8SBP group $( P { < } 0 . 0 5 )$ . Net meat weight in 16SBP and 24SBP groups was significantly higher than that in control group （204 $( P { < } 0 . 0 5 )$ . 24SBP group had significantly lower GR value in muscle than control group and 8SBP group $( P { < } 0 . 0 5 )$ . Ether extract content in muscle in 16SBP and 24SBP group was significantly higher than that in control group and 8SBP group $( P { < } 0 . 0 5 )$ . Shearing force in muscle in 8SBP and 16SBP groups was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . No significant differences were observed in muscle $\mathfrak { p H }$ , meat color, water holding capacity and cooked meat rate among groups $( P { > } 0 . 0 5 )$ . The $\mathfrak { p H }$ of the abomasum liquid，duodenum content and jejunum content was decreased with the increase of SBP supplemental proportion, and 24SBP group was significantly lower than control group( $P { < } 0 . 0 5$ ）. Therefore, dietary supplementation of SBP can improve growth performance indexes, such as average daily gain, dry mater intake and net meat weight,increase ether extract content in muscle, improve tenderness of muscle and intestinal environment， which suggests that SBP can be used as a new type of feed resource for fattening sheep, and the optimal supplemental proportion in diet is $1 6 . 0 \%$ under the condition of the present experiment.
+
+Key words: sea buckthorn pomace; fattening sheep; growth performance; slaughter performance; meat quality; digestive tract content

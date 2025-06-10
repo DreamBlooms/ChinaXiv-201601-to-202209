@@ -1,0 +1,1317 @@
+[
+    {
+        "type": "text",
+        "text": "Top and Bottom Seesaw from Supersymmetric Strong Dynamics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Csaba Balazs,& Tianjun Li, $\\displaystyle b , c , d$ Fei Wang,e,1 Jin Min Yangb,c ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a School of Physics，Monash University， Melbourne Victoria 380o,Australia   \nbKavli Institute for Theoretical Physics China (KITPC), Institute of Theoretical Physics, Chinese   \nAcademy of Sciences, Beijing 100190, P. R. China   \ncState Key Laboratory of Theoretical Physics， Institute of Theoretical Physics， Chinese Academy of Sciences,Beijing 100190, P.R. China   \n（204 $d$ George P. and Cynthia W. Mitchell Institute for Fundamental Physics and Astronomy， Texas A&M University， College Station,TX 77843,USA   \neSchool of Physics， Zhengzhou University, 450oo0, Zhengzhou P. R. China E-mail: Csaba.Balazs@sci.Monash.edu.au, tli@itp.ac.cn, feiwang@zzu.edu.cn, jmyang@itp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: We propose a top and bottom seesaw model with partial composite top and bottom quarks. Such composite quarks and topcolor gauge bosons are bound states from supersymmetric strong dynamics by Seiberg duality. Supersymmetry breaking also induces the breaking of topcolor into the QCD gauge coupling. The low energy description of our model reduces to a complete non-minimal extension of the top seesaw model with bottom seesaw. The non-minimal nature is crucial for Higgs mixings and the appearance of light Higgs fields. The Higgs fields are bound states of partial composite particles with the lightest one compatible with a 125 GeV Higgs field which was discovered at the LHC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Composite Particles from SUSY Strong Dynamics 3 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Top and Bottom Seesaw 7 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions 16 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5Appendix A: Gap Equation 17 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6Appendix B:Mixing In the Higgs Sector 18 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7Appendix C: Oblique Parameters 20 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Standard Model (SM) of electroweak interactions, based on the spontaneously $S U ( 2 ) _ { L } \\times$ $U ( 1 ) _ { Y }$ gauge symmetry breaking, has been extremely successful in describing phenomena below the electroweak scale. The most important problem in the SM is the source of the electroweak gauge symmetry breaking and the related problem of hierarchical favor structure. It is well known that the top quark is very heavy comparing to the other SM fermions and its value is obtained in an ad hoc manner by adjusting the phenomenologically introduced Yukawa couplings. Besides, the top quark couples more strongly to electroweak symmetry breaking sector than the light quarks and it is possible that some of the electroweak symmetry breaking is due to top sector. The idea of top condensation [1] is an attractive approach to explain these problems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, the minimal top condensation framework predicts a too high top quark mass $m _ { t }$ as well as a high Higgs mass,and then the extreme fine-tuning is needed to trigger the condensation. Also, the Nambu-Jona-Lasinio （NJL） model must be considered as an approximation of some new strong dynamics-the topcolor gauge interactions. One can combine topcolor with technicolor to get a TC2 model [2] in which the electroweak symmetry breaking gets contributions from both the top condensation and the technicolor sectors. The other very interesting scenario is the top seesaw model [3] which naturally predicts the acceptable top quark mass without the need of new electroweak symmetry breaking sector. The UV completion of topcolor needs more matter contents and certain interactions which are put in by hand. We would like to present a model which will give rise to these terms automatically. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is well known that the SM requires the existence of Higgs felds to trigger electroweak gauge symmetry breaking. However, the quantum corrections to Higgs boson masses have quadratic divergences. Thus, the entire SM mass spectrum, which depends on the Vacuum Expectation Value (VEV) of Higgs field, is directly and indirectly sensitive to the cut-off scale of the theory like the Planck scale. This is the gauge hiearchy problem. One natural solution is supersymmetry (SUSY) by adding supersymmetric partners of the SM particles to cancel the quadratic divergences. However, the ATLAS and CMS Collaborations at the LHC have not found any signal of supersymmetric particles (sparticles) yet. Moreover, SUSY can provide a viable dark matter candidate, achieve the gauge coupling unification as well as be an essential ingredient to certain quantum gravity candidate. Thus, it is possible that our Universe could adopt supersymmetry at relatively high scale. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It had been conjectured long time ago that all the building blocks of the SM are composite particles instead of being fundamental particles. The existence of chiral symmetry is essential to guarantee the disappearance of the known fermion masses. However,'t Hooft anomaly matching conditions [4] are very restrictive and hardly can one obtain the realistic composite models. A very interesting progress was achieved by Seiberg who discovered the duality [5] between different SUSY gauge theories. Seiberg duality is highly non-trivial and satisfies the 't Hooft anomaly matching conditions and decoupling conditions as well as the other consistent checks. Besides,new emergent gauge groups and composite fermions appear in certain case of the dual description. We conjecture that the SM particles are composite and such compositeness are the consequences of SUSY strong dynamics and SUSY breaking. The observed small mass terms of the SM fermions are the consequences of the strong dynamics arise from the emergent gauge interactions. Especially, the Higgs boson mass around 125 GeV, which was discovered at the LHC recently [6,7], can be realized as well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Section 2，we discuss the emergent topcolor gauge group and matter contents from SUSY strong dynamics. SUSY is broken by rank conditions in our scenario, which results in the ISS-type metastable vacua [8]. In Section 3, we discuss the complete top and bottom seesaw sector. The composite matter content from Seiberg duality results in partial composite physical top and bottom quarks. Composite multiple Higgs doublets appear in our model at low energy and are fully responsible for electroweak gauge symmetry breaking. Section 4 contains our Conclusions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Composite Particles from SUSY Strong Dynamics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Top quark, which couples more strongly to the electroweak symmetry breaking sector than other light quarks,could be responsible for electroweak symmetry breaking. The idea of top condensation is fairly attractive and gives an explanation on how top quark can participate in the electroweak symmetry breaking mechanism and obtain a dynamically-generated mass term. The UV completion of the top condensation idea suggests the existence of new topcolor gauge interactions. The complete topcolor sector requires new Higgs fields in $( \\mathbf { 3 } , \\mathbf { 3 } )$ （204号 representation to break the topcolor gauge symmetry down to $S U ( 3 ) _ { C }$ . Besides, top seesaw sector requires new vector-like particles. We want to obtain all the required ingredients from SUSY strong dynamics. The most simple setting is the vector-like supersymmetric QCD. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let us consider $S U ( N _ { C } )$ SUSY QCD which has the massive vector-like quarks $Q _ { i }$ and ${ \\tilde { Q } } ^ { i }$ with $i = 1$ ， $2$ ，， $N _ { F }$ , and several $S U ( N _ { C } )$ singlet massive messenger fields $f _ { k }$ and $f _ { k } ( k = 1 , . . . , n _ { I } )$ for gauge mediation. The global favor symmetry is $S U ( N _ { F } ) _ { 1 } \\times S U ( N _ { F } ) _ { 2 } \\times$ $U ( 1 ) _ { V } \\times U ( 1 ) _ { R }$ . We adopt the following superpotential ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = m _ { j } ^ { i } Q _ { i } \\tilde { Q } ^ { j } + \\kappa ^ { i j } \\frac { Q _ { i } \\tilde { Q } ^ { j } \\bar { f } ^ { k } f _ { k } } { M _ { * } } + M _ { 0 } \\bar { f } ^ { k } f _ { k } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the following mass terms ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { j } ^ { i } = m _ { 0 } \\delta _ { j } ^ { i } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "break the flavor symmetry down to $S U ( N _ { F } ) _ { V } \\times U ( 1 ) _ { V }$ and $M _ { * }$ some new mass scale below which non-renormalizable operators of the form in the formula is generated. This superpotential is of the simplified gauge mediation type proposed in Ref. [9]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the Seiberg duality [5], this theory is dual to an $S U ( N _ { F } - N _ { C } )$ gauge theory. We can identify the dual magnetic gauge group as the new topcolor-like $S U ( 3 ) _ { 1 }$ ： Besides, we require that the dual magnetic gauge group be IR-free which sets $N _ { C } + 1 <$ $N _ { F } < 3 / 2 N _ { C }$ ．Thus,the only possible choice is $N _ { C } \\geq 6$ .We chose $N _ { C } = 7$ and $N _ { F } = 1 0$ （204号 in our scenario. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also embed the gauge symmetry $S U ( 3 ) _ { 2 } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ into the $S U ( 6 )$ subgroup of the global symmetry $S U ( 1 0 ) _ { V }$ by assigning ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { Q ^ { T } = ( 3 , 1 ) _ { 0 } , } } & { { Q ^ { D } = ( 1 , 2 ) _ { - 1 / 3 } , Q ^ { S } = ( 1 , 1 ) _ { 2 / 3 } , } } \\\\ { { \\tilde { Q } ^ { T } = ( \\bar { 3 } , 1 ) _ { 0 } , } } & { { \\tilde { Q } ^ { D } = ( 1 , 2 ) _ { 1 / 3 } , \\tilde { Q } ^ { S } = ( 1 , 1 ) _ { - 2 / 3 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We also embedding an additional $U ( 1 ) _ { 1 }$ into $U ( 1 ) _ { V }$ . The purpose of such additional $U ( 1 ) _ { 1 }$ will be clear later.The felds $Q ^ { T }$ and $\\tilde { Q } ^ { T }$ ， etc, are gauge singlets with respect to $U ( 1 ) _ { 1 }$ However, the messenger fields $f _ { k }$ and $\\bar { f } ^ { k }$ carry non-zero $U ( 1 ) _ { 1 }$ charge. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The electric theory is dual to a magnetic $S U ( 3 ) _ { 1 }$ gauge theory with superpotential ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = h T r ( \\tilde { q } \\tilde { M } q ) + h \\Lambda m _ { 0 } T r ( \\tilde { M } ) + \\frac { \\Lambda } { M _ { * } } T r ( \\kappa \\tilde { M } ) \\bar { f } ^ { k } f _ { k } + M _ { 0 } \\bar { f } ^ { k } f _ { k } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the scale is defined as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( - 1 ) ^ { N _ { f } - N _ { c } } \\Lambda ^ { b _ { e } + b _ { m } } = \\Lambda _ { e } ^ { 3 N _ { c } - N _ { f } } \\Lambda _ { m } ^ { 2 N _ { f } - 3 N _ { c } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $b _ { e }$ and $b _ { m }$ are respectively the SUSY QCD beta functions of the electric and magnetic theories with the respectively dynamical transmutation scales $\\Lambda _ { e }$ and $\\Lambda _ { m }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In general, the SUSY breaking requires the presence of R-symmetry [10]. However, an exact R-symmetry forbids gaugino masses which is not acceptable. One possible solution is to explicitly break the R-symmetry by introducing small R-symmetry violation terms which lead to meta-stable vacua. In our scenario, we can see that the first three terms have a $U ( 1 ) _ { R }$ symmetry with $R ( \\tilde { M } ) = 2$ and $R ( \\tilde { q } ) = R ( q ) = R ( f ) = R ( f ) = 0$ . Such an exact $U ( 1 ) _ { R }$ symmetry is obviously broken to an approximate one by the last term. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The magnetic theory requires the existence of meson-like composites to satisfy the anomaly matching conditions. Components of the meson fields $\\tilde { M }$ from $Q ^ { T } , Q ^ { D } , Q ^ { S }$ and $\\tilde { Q } ^ { T } , \\tilde { Q } ^ { D } , \\tilde { Q } _ { S }$ composition can be decomposed in terms of $S U ( 3 ) _ { 2 } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\tilde { Q } ^ { T } Q ^ { T } \\sim ( 8 , 1 ) _ { 0 } \\oplus ( 1 , 1 ) _ { 0 } , } } \\\\ { { \\tilde { Q } ^ { T } Q ^ { D } \\oplus \\tilde { Q } ^ { D } Q ^ { T } \\sim ( 3 , 2 ) _ { 1 / 3 } \\oplus ( \\bar { 3 } , 2 ) _ { - 1 / 3 } , } } \\\\ { { \\tilde { Q } ^ { T } Q ^ { S } \\oplus \\tilde { Q } ^ { S } Q ^ { T } \\sim ( 3 , 1 ) _ { - 2 / 3 } \\oplus ( \\bar { 3 } , 1 ) _ { 2 / 3 } , } } \\\\ { { \\tilde { Q } ^ { D } Q ^ { S } \\oplus \\tilde { Q } ^ { S } Q ^ { D } \\sim ( 1 , 2 ) _ { - 1 } \\oplus ( 1 , 2 ) _ { 1 } , } } \\\\ { { \\tilde { Q } ^ { D } Q ^ { D } \\oplus \\tilde { Q } ^ { S } Q ^ { S } \\sim ( 1 , 3 ) _ { 0 } \\oplus ( 1 , 1 ) _ { 0 } \\oplus ( 1 , 1 ) _ { 0 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similarly, the $( 3 , 6 ) / ( 3 , 6 )$ components of the dual quarks $( 3 , \\overline { { 1 0 } } ) / ( \\bar { 3 } , 1 0 )$ are transformed in terms of $S U ( 3 ) _ { 1 } \\times S U ( 3 ) _ { 2 } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { q ( 3 , \\bar { 6 } ) \\sim ( 3 , \\bar { 3 } , 1 ) _ { 0 } \\oplus ( 3 , 1 , 2 ) _ { 1 / 3 } \\oplus ( 3 , 1 , 1 ) _ { - 2 / 3 } ~ , } } \\\\ { { \\tilde { q } ( \\bar { 3 } , 6 ) \\sim ( \\bar { 3 } , 3 , 1 ) _ { 0 } \\oplus ( \\bar { 3 } , 1 , 2 ) _ { - 1 / 3 } \\oplus ( \\bar { 3 } , 1 , 1 ) _ { 2 / 3 } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus,in our theory we can identify ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { { \\cal T } _ { L } \\equiv \\left( \\displaystyle \\frac { t _ { L } } { b _ { L } } \\right) \\sim ( 3 , 1 , 2 ) _ { 1 / 3 } , } & { { \\cal X } _ { L } ^ { c } \\equiv \\left( \\displaystyle \\frac { \\mathcal { X } _ { L } ^ { c } } { \\omega _ { L } ^ { c } } \\right) \\sim ( \\bar { 3 } , 1 , 2 ) _ { - 1 / 3 } , } & { { \\cal X } _ { L } \\equiv \\left( \\displaystyle \\frac { \\mathcal { X } L } { \\omega _ { L } } \\right) \\sim ( 1 , 3 , 2 ) _ { 1 / 3 } , } \\\\ { { \\cal P } _ { L } ^ { c } \\equiv } & { \\left( \\displaystyle \\frac { \\rho _ { L } ^ { c } } { \\sigma _ { L } ^ { c } } \\right) \\sim ( 1 , \\bar { 3 } , 2 ) _ { - 1 / 3 } , } & { { \\cal b } _ { L } ^ { c } \\sim ( 1 , \\bar { 3 } , 1 ) _ { 2 / 3 } , } & { \\tilde { \\omega } _ { L } \\sim ( 1 , 3 , 1 ) _ { - 2 / 3 } , } \\\\ { \\tilde { \\omega } _ { L } ^ { c } \\sim ( \\bar { 3 } , 1 , 1 ) _ { 2 / 3 } , } & { \\tilde { \\sigma } _ { L } ^ { c } \\sim ( 1 , \\bar { 3 } , 1 ) _ { 2 / 3 } , } & { { \\cal H } _ { 1 } \\sim ( 1 , 1 , 2 ) _ { - 1 } , } & { { \\cal H } _ { 2 } \\sim ( 1 , 1 , 2 ) _ { 1 } , } \\\\ { \\Phi _ { 1 } \\sim ( 3 , \\bar { 3 } , 1 ) _ { 0 } , \\ \\Phi _ { 2 } \\sim ( \\bar { 3 } , 3 , 1 ) _ { 0 } , } & { { \\cal S } ^ { a } \\sim ( 1 , 1 , 1 ) _ { 0 } ^ { a } \\ ( a = 1 , 2 ) . } & { ( 2 . 7 \\mathrm { ~ a ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the dynamical superpotential by Seiberg duality， we can identify the following interactions ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { W \\supset h \\left( \\chi L \\right) ^ { T } \\Phi _ { 1 } \\left( \\begin{array} { c } { \\chi _ { L } ^ { c } } \\\\ { \\omega _ { L } ^ { c } } \\end{array} \\right) + h \\left( \\begin{array} { c } { t _ { L } } \\\\ { b _ { L } } \\end{array} \\right) ^ { T } \\Phi _ { 2 } \\left( \\begin{array} { c } { \\rho _ { L } ^ { c } } \\\\ { \\sigma _ { L } ^ { c } } \\end{array} \\right) + h \\left( \\begin{array} { c } { t _ { L } } \\\\ { b _ { L } } \\end{array} \\right) ^ { T } \\left( \\begin{array} { c } { \\chi _ { L } ^ { c } } \\\\ { \\omega _ { L } ^ { c } } \\end{array} \\right) S _ { a } } \\\\ & { \\quad \\quad + h \\tilde { \\omega } _ { L } ^ { c } \\Phi _ { 1 } \\tilde { \\omega } _ { L } + h \\tilde { \\sigma } _ { L } ^ { c } \\Phi _ { 2 } \\tilde { \\sigma } _ { L } + h \\left( \\begin{array} { c } { t _ { L } } \\\\ { b _ { L } } \\end{array} \\right) H _ { 1 } \\tilde { \\omega } _ { L } ^ { c } + h \\left( \\begin{array} { c } { \\chi _ { L } ^ { c } } \\\\ { \\omega _ { L } ^ { c } } \\end{array} \\right) H _ { 2 } \\tilde { \\sigma } _ { L } + h \\tilde { \\omega } _ { L } \\tilde { \\sigma } _ { L } ^ { c } S _ { a } \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We also introduce the right-handed top quark chiral supermultiplets in terms of gauge group $S U ( 3 ) _ { 2 } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y } \\times U ( 1 ) _ { 1 }$ quantum number ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { L } ^ { c } \\sim ( 1 , \\bar { 3 } , 1 ) _ { ( - 4 / 3 , 1 ) } ~ , ~ P _ { L } \\equiv ( \\rho _ { L } , \\sigma _ { L } ) \\sim ( 1 , 3 , 2 ) _ { ( 1 / 3 , 1 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and possible Higgs sector to completely break $U ( 1 ) _ { 1 }$ at low energy. The necessity of chiral fermions is obvious. SUSY QCD is vector-like and the resulting dual gauge theory is still vector-like. In order to get the chiral fermions,we must introduce by hand at least one chiral component. This fact also appears in the (latticed) extra dimensional interpretation of top seesaw [11]. Localized heavy kink mass terms are necessary to get the localized chiral fermions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Supersymmetry is broken by rank conditions [8]. Neglecting temporarily the contributions of the messenger fields,we can see from the rank conditions ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- F _ { \\tilde { M } _ { i } ^ { j } } ^ { * } = \\lambda \\tilde { q } ^ { i } q _ { j } + \\Lambda \\delta _ { i } ^ { j } m _ { 0 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "that supersymmetry is indeed broken. This is a typical in ISS-like models. The scalar potential is minimized along a classical pseudo-moduli space of vacua which is given by [8] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = \\left( \\begin{array} { c c } { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { \\phi _ { 0 } } } \\end{array} \\right) , q = \\left( \\begin{array} { c } { { q _ { 0 } } } \\\\ { { 0 } } \\end{array} \\right) , \\tilde { q } = \\left( \\begin{array} { c } { { \\tilde { q } _ { 0 } } } \\\\ { { 0 } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq _ { 0 } \\tilde { q } _ { 0 } = m _ { 0 } \\Lambda ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and arbitrary $\\phi _ { 0 }$ . In our scenario, the $q _ { 0 }$ and $\\tilde { q } _ { 0 }$ parts corresponding to the VEVs of $\\Phi _ { 1 }$ and $\\Phi _ { 2 }$ fields within the dual quark decomposition. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Flat pseudo-moduli will in general be lifted by quantum effects. The one-loop stable minimum by Coleman-Weinberg potential [8] is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { 0 } = { \\bf 0 } _ { \\tilde { N } \\times \\tilde { N } } \\ , \\ q _ { 0 } = M _ { 1 } { \\bf 1 } _ { N \\times N } \\ , \\ \\tilde { q } _ { 0 } = M _ { 2 } { \\bf 1 } _ { N \\times N } \\ , M _ { 1 } = M _ { 2 } = \\sqrt { - m _ { 0 } \\Lambda } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $U ( 1 ) _ { R }$ violation terms involving the messengers will shift the minimum of $\\tilde { M }$ through one-loop Coleman-Weinberg potential by an amount ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< \\phi _ { 0 } > = \\Delta \\phi _ { 0 } \\equiv s _ { 1 } \\sim { \\frac { \\lambda ^ { 3 } m _ { 0 } \\Lambda ^ { 4 } } { M M _ { * } ^ { 3 } } } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The lifetime of the metastable vacua requires ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\epsilon | \\sim \\sqrt { \\frac { m _ { 0 } } { \\Lambda _ { m } } } \\ll 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "with the tunneling probability $e ^ { S }$ to exceed the lifetime of our universe $e ^ { 4 0 }$ seconds ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\sim \\epsilon ^ { - \\frac { 4 ( 3 N _ { c } - N _ { f } ) } { N _ { f } - N _ { c } } } > 4 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There are large viable parameter spaces that can satisfy this requirement. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\frac { \\kappa _ { i j } \\Lambda } { M _ { * } } \\bar { f } ^ { k } f _ { k }$ Possible new SUSY breaking minimum can arise through the combination of . For example,apossible newminimum maybe possible if $\\begin{array} { r } { \\bar { f } ^ { k } f _ { k } = \\frac { m M _ { * } } { \\kappa } } \\end{array}$ .However, $m _ { i j }$ and the lifetime (for tunneling to the new possible minimum) of the previous metastable vacuum can be long enough if we set ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { M ^ { 2 } M _ { * } } { \\lambda } } \\gtrsim m \\Lambda ^ { 2 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The F-term of the meson fields induce the scalar mass terms for $T _ { L }$ ， $X _ { L } ^ { c }$ ， $\\tilde { \\sigma } _ { L }$ ，and $\\tilde { \\omega } _ { L } ^ { c }$ from the induced superpotential $\\tilde { q } M q$ . Other soft SUSY masses can be generated through the effective messenger fields ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { m e s s } = M _ { 0 } + \\frac { \\kappa \\Lambda } { M _ { * } } < \\tilde { M } > \\simeq M _ { 0 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { m e s s } = \\kappa _ { i j } \\Lambda \\frac { F _ { \\tilde { M } _ { i } ^ { j } } } { M _ { * } } = \\frac { \\kappa _ { i i } m _ { 0 } \\Lambda ^ { 2 } } { M _ { * } } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thus, we obtain the gaugino masses [12] ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { a } \\simeq \\frac { \\alpha _ { a } } { 4 \\pi } \\sum _ { I } n _ { a } ( I ) \\frac { F _ { M } } { M } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and sfermion masses ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\phi _ { i } } ^ { 2 } \\simeq 2 \\left[ \\sum _ { a } \\left( { \\frac { \\alpha _ { a } } { 4 \\pi } } \\right) ^ { 2 } C _ { a } ( i ) n _ { a } ( I ) \\right] \\left( { \\frac { F _ { M } } { M } } \\right) ^ { 2 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Below the scale $\\sqrt { F }$ which is the typical scalar masses for dual squarks, the SUSY QCD reduce to non-supersymmetric dynamics. The gaugino and remaining sfermions can acquire masses from gauge loops. The matter contents participate in (part of) the following types of interactions $S U ( 3 ) _ { 1 } \\times S U ( 3 ) _ { 2 } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y } \\times U ( 1 ) _ { 1 }$ . Besides, the soft masses of remaining superpartner are controlled by the messenger mass parameter $M$ as well as $F _ { M }$ We will see shortly that the additional $U ( 1 ) _ { 1 }$ coupling as well as one ${ \\mathrm { S U } } ( 3 )$ is nearly strongcoupled， thus dominate the gauge mediation contributions to the soft sfermion masses. Requiring the scale $M$ and $\\sqrt { F _ { M } }$ is comparable to each other and taking into account the messenger species multiplication factor $n _ { a } ( I )$ ，we can easily tune the soft squark and gaugino masses to lie near $\\sqrt { F }$ . Thus，after integrating out the relevant supersymmetry partners,we get at the low energy an $S U ( 3 ) _ { 1 } \\times S U ( 3 ) _ { 2 } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y } \\times U ( 1 ) _ { 1 }$ gauge theory with proper matter contents and interactions. The gauge group of the $S U ( 3 ) _ { 1 }$ is emergent and almost all the matter contents are composite particles. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 Top and Bottom Seesaw ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is well known from the topcolor dynamics that the predicted top quark mass is too high if topcolor is responsible for ful electroweak symmetry breaking. In order to get realistic top quark mass, top seesaw model was proposed by introducing additional vector-like particles besides the topcolor matter content. In our model, partial composite top and bottom quarks will naturally lead to top and bottom seesaw mechanism. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After $\\Phi _ { 1 }$ and $\\Phi _ { 2 }$ respectively acquire VEVs $M _ { 1 }$ and $M _ { 2 }$ ，the $S U ( 3 ) _ { 1 } \\times S U ( 3 ) _ { 2 }$ gauge symmetry is broken down to $S U ( 3 ) _ { C }$ . The theory has a set of massless gluons and massive octet colorons. The remaining QCD coupling is ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { g _ { c } ^ { 2 } } } = { \\frac { 1 } { h _ { 1 } ^ { 2 } } } + { \\frac { 1 } { h _ { 2 } ^ { 2 } } } \\ , \\qquad \\cot \\theta = { \\frac { h _ { 1 } } { h _ { 2 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $h _ { 1 }$ and $h _ { 2 }$ are the gauge couplings for $S U ( 3 ) _ { 1 }$ and $S U ( 3 ) _ { 2 }$ , and the massive colorons acquire masses $M _ { B } ^ { 2 } = ( h _ { 1 } ^ { 2 } + h _ { 2 } ^ { 2 } ) ( M _ { 1 } ^ { 2 } + M _ { 2 } ^ { 2 } )$ （2 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After we integrate out the coloron fields and the sfermions for the third generation quarks,we obtain the effective four-fermion interactions ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } = \\mathcal { L } _ { \\mathrm { k i n e t i c } } - \\left( M _ { 2 } X _ { L } ^ { T } C X _ { L } ^ { c } + M _ { 1 } T _ { L } ^ { T } C P _ { L } ^ { c } + s _ { 1 } T _ { L } ^ { T } C X _ { L } ^ { c } \\right) + \\mathcal { L } _ { \\mathrm { i n t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal { L } } _ { \\mathrm { i n t } } = - \\frac { h _ { 2 } ^ { 2 } } { M _ { B } ^ { 2 } } ( X _ { L } ^ { \\dagger } \\bar { \\sigma } ^ { \\mu } \\frac { M ^ { A } } { 2 } X _ { L } ) ( t _ { L } ^ { c } \\sigma ^ { \\mu } \\frac { M ^ { A } } { 2 } ( t _ { L } ^ { c } ) ^ { \\dagger } ) + ( X _ { L }  P _ { L } , t _ { L } ^ { c }  P _ { L } ^ { c } ) + \\cdots .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After performing the Fierz rearrangement and at the leading order in $1 / N _ { c }$ ，we have ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } _ { i n t } = { \\frac { h _ { 2 } ^ { 2 } } { M _ { B } ^ { 2 } } } \\left[ ( { \\bar { X } } _ { L } t _ { R } ) ( { \\bar { t } } _ { R } X _ { L } ) + ( { \\bar { X } } _ { L } P _ { R } ) ( { \\bar { P } } _ { R } X _ { L } ) + ( { \\bar { P } } _ { L } P _ { R } ) ( { \\bar { P } } _ { R } P _ { L } ) + \\cdot \\cdot \\cdot \\right] ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We can transform the interaction eigenstates to the partial mass eigenstates by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { L } ^ { c }  t _ { L } ^ { c \\prime } = t _ { L } ^ { c } , X _ { L } ^ { c }  X _ { L } ^ { c \\prime } = X _ { L } ^ { c } \\cos \\beta + P _ { L } ^ { c } \\sin \\beta , P _ { L } ^ { c }  P _ { L } ^ { c \\prime } = - X _ { L } ^ { c } \\sin \\beta + P _ { L } ^ { c } \\cos \\beta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tan ( 2 \\beta ) = \\frac { 2 s _ { 1 } M _ { 1 } } { s _ { 1 } ^ { 2 } + M _ { 2 } ^ { 2 } - M _ { 1 } ^ { 2 } } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We define the unitary mixing matrix $\\ddot { T } _ { i } \\equiv N _ { i j } ^ { - 1 } T _ { j }$ with ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\cal T } _ { 1 } \\equiv T _ { L } ^ { \\prime } , \\tilde { T } _ { 2 } \\equiv X _ { L } ^ { \\prime } , \\tilde { T } _ { 3 } \\equiv P _ { L } ^ { \\prime } , T _ { 1 } \\equiv T _ { L } , T _ { 2 } \\equiv X _ { L } , T _ { 3 } \\equiv P _ { L } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Inthis basis,the NJL model takes the form ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { } } & { { = \\mathcal { L } _ { \\mathrm { k i n e t i c } } - ( \\overline { { M } } _ { 1 } \\overline { { X } } _ { L } ^ { \\prime } X _ { R } ^ { \\prime } + \\overline { { M } } _ { 2 } \\overline { { P } } _ { L } ^ { \\prime } P _ { R } ^ { \\prime } ) + { \\frac { h _ { 2 } ^ { 2 } } { M _ { B } ^ { 2 } } } \\left\\{ \\begin{array} { l } { { \\displaystyle \\left[ \\left( \\sum _ { i = 1 } ^ { 3 } N _ { 2 i } \\overline { { \\bar { T } } } _ { i } \\right) t _ { R } ^ { \\prime } \\right] \\left[ \\bar { t } _ { R } ^ { \\prime } \\left( \\sum _ { i = 1 } ^ { 3 } N _ { 2 i } \\overline { { \\bar { T } } } _ { i } \\right) \\right] } } \\\\ { { \\displaystyle + \\left[ \\left( \\sum _ { i = 1 } ^ { 3 } \\sum _ { j = 2 } ^ { 3 } N _ { j i } \\overline { { \\bar { T } } } _ { i } \\right) \\left( - X _ { R } ^ { \\prime } \\sin \\beta + P _ { R } ^ { \\prime } \\cos \\beta \\right) \\right] \\left[ \\left( - \\bar { X } _ { R } ^ { \\prime } \\sin \\beta + \\bar { P } _ { R } ^ { \\prime } \\cos \\beta \\right) \\left( \\sum _ { i = 1 } ^ { 3 } \\sum _ { j = 2 } ^ { 3 } N _ { j i } \\bar { T } _ { i } \\right) \\right]} } \\end{array}  \\right. } } \\\\ { { } } & { { = \\mathcal { L } _ { \\mathrm { k i n e t i c } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with $\\overline { { M } } _ { 1 }$ and $\\overline { { M } } _ { 2 }$ the eigenvalues of the matrix ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { s _ { 1 } ^ { 2 } + M _ { 2 } ^ { 2 } } } & { { s _ { 1 } M _ { 1 } } } \\\\ { { s _ { 1 } M _ { 1 } } } & { { M _ { 1 } ^ { 2 } } } \\end{array} \\right) ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Assume the gauge couplings for $S U ( 3 ) _ { 2 }$ and $U ( 1 ) _ { 1 }$ get strong quickly towards IR and trigger the fermion condensation. The vacuum is tilted by the $U ( 1 ) _ { 1 }$ interactions so that condensation between $\\rho _ { L }$ and $t _ { L } ^ { c }$ is disallowed by the repulsive forces of $U ( 1 ) _ { 1 }$ .From the expansion，we can see that possible types of dynamical condensations for $X _ { L } t _ { R }$ are ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< \\bar { t } _ { L } ^ { \\prime } t _ { R } ^ { \\prime } > , < \\bar { \\chi } _ { L } ^ { \\prime } t _ { R } ^ { \\prime } > , < \\bar { \\rho } _ { L } ^ { \\prime } t _ { R } ^ { \\prime } > ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with corresponding mass gap ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\mu _ { t t } \\bar { t } _ { L } ^ { \\prime } t _ { R } ^ { \\prime } - \\mu _ { \\chi t } \\bar { \\chi } _ { L } ^ { \\prime } t _ { R } ^ { \\prime } - \\mu _ { \\rho t } \\bar { \\rho } _ { L } ^ { \\prime } t _ { R } ^ { \\prime } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "And they have the following relations ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { t t } = \\mu N _ { 2 1 } , \\mu _ { t \\chi } = \\mu N _ { 2 2 } , \\mu _ { t \\rho } = \\mu N _ { 2 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "so that they are not independent. Just as the case for ordinary topcolor, the dynamical mass terms $\\mu$ can be calculated through the gap equations. The relevant diagrams are shown in $\\mathrm { F i g ( 1 ) }$ . Detailed expressions for $\\bar { \\chi } _ { L } ^ { \\prime } t _ { R } ^ { \\prime }$ condensation can be seen in appendix A. From the gap equation, we can get the analytical expressions for the condensation scale $\\mu$ and the effective critical coupling. This approach with mass insertion is an approximation at large $N _ { c }$ expansion. We will deduce more precise forms of the condensation in symmetry broken phase. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similarly, we can get the other condensations ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< \\bar { t } _ { L } ^ { \\prime } \\rho _ { R } ^ { \\prime } > , < \\bar { \\chi } _ { L } ^ { \\prime } \\rho _ { R } ^ { \\prime } > , < \\bar { \\rho } ^ { \\prime } \\rho _ { R } ^ { \\prime } > , \\cdot \\cdot \\cdot\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "to give $< X _ { L } P _ { R } >$ and $< P _ { L } P _ { R } >$ . After all condensation occurs,we get the most general possible mass matrix for top sector ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( t _ { L } \\ , \\chi _ { L } \\ , \\rho _ { L } \\right) \\left( \\begin{array} { c } { { 0 \\ s _ { a } M _ { 1 } } } \\\\ { { \\mu \\ M _ { 2 } \\ \\mu _ { 1 } } } \\\\ { { 0 \\ \\phantom { ^ { 2 } \\mu } 0 \\mu _ { 2 } } } \\end{array} \\right) \\left( \\begin{array} { c } { { t _ { L } ^ { c } } } \\\\ { { \\chi _ { L } ^ { c } } } \\\\ { { \\rho _ { L } ^ { c } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mass eigenvalues and eigenstates can be obtained by the following unitary transformations ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { M } = U _ { L } ^ { \\dagger } \\mathcal { M } _ { \\mathrm { d i a g } } U _ { R } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The analytical expressions are very complicate. Careful analysis indicates that the three mass eigenvalues are of order ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( m _ { \\chi } ) _ { P h y } ^ { 2 } \\equiv \\lambda _ { 2 } ^ { 2 } \\sim M _ { 1 } ^ { 2 } , ( m _ { \\rho } ) _ { P h y } ^ { 2 } \\equiv \\lambda _ { 3 } ^ { 2 } \\sim M _ { 2 } ^ { 2 } , ( m _ { t } ) _ { P h y } ^ { 2 } \\equiv \\lambda _ { 1 } ^ { 2 } \\approx \\frac { s _ { a } ^ { 2 } \\mu ^ { 2 } \\mu _ { 2 } ^ { 2 } } { M _ { 1 } ^ { 2 } M _ { 2 } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "in case $M _ { 2 } = M _ { 1 } \\stackrel { > } { \\sim } s _ { a } \\gg \\mu$ . We will not give the explicit expression of the mass eigenstates for the top quark sector. We just parameterize them as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( t _ { L } ^ { m } , \\chi _ { L } ^ { m } , \\rho _ { L } ^ { m } ) ^ { T } = U _ { i j } ^ { L } ( t _ { L } , \\chi _ { L } , \\rho _ { L } ) ^ { T } ~ , ~ ( t _ { R } ^ { m } , \\chi _ { R } ^ { m } , \\rho _ { R } ^ { m } ) ^ { T } = U _ { i j } ^ { R } ( t _ { L } , \\chi _ { L } , \\rho _ { L } ) ^ { T } ~ , ~ \n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with the lowest mass eigenstates $t _ { L , R } ^ { \\prime \\prime }$ corresponding to the physical top quark. One Higgs doublet field in the multiple-Higgs-doublets are the condensations ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { 1 } \\sim ( \\bar { \\chi } _ { L } t _ { R } , \\bar { \\omega } _ { L } t _ { R } ) = ( ( h _ { 0 } + \\pi _ { t } ^ { 0 } + v _ { h _ { 0 } } ) / \\sqrt { 2 } , \\pi _ { t } ^ { + } ) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and additional two singlets (and triplets) are from the condensations ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal H } _ { 2 } \\sim { \\bar { X } } _ { L } \\otimes P _ { R } = \\Delta _ { 2 } ( { \\bf 3 } ) \\oplus S _ { 2 } ( { \\bf 1 } ) \\ , { \\cal H } _ { 3 } \\sim { \\bar { P } } _ { L } \\otimes P _ { R } = \\Delta _ { 3 } ( { \\bf 3 } ) \\oplus S _ { 3 } ( { \\bf 1 } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We obtain the precise gap equation of this theory in the broken phase [l3] at the cut-off scale $M$ （204号 ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { L } _ { 1 } } & { = - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 1 } } { \\sqrt { 2 } } , \\mathcal { L } _ { 2 } \\frac { \\partial } { \\partial t } \\left( \\begin{array} { l } { \\partial \\varphi _ { 0 } , \\varphi _ { 2 } ; \\mathcal { L } _ { 2 } } \\\\ { \\varphi _ { 1 } , \\varphi _ { 2 } ; \\mathcal { L } _ { 2 } } \\\\ { \\varphi _ { 1 } , \\varphi _ { 2 } ; \\mathcal { L } _ { 2 } } \\end{array} \\right) } \\\\ & { \\quad - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 2 } } { \\sqrt { 2 } } , } \\\\ & { \\quad - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 2 } } { \\sqrt { 2 } } , } \\\\ & { \\quad - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 2 } } { \\sqrt { 2 } } , } \\\\ & { \\quad - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 2 } } { \\sqrt { 2 } } , } \\\\ & { \\quad - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 2 } } { \\sqrt { 2 } } , } \\\\ & { \\quad - \\frac { \\tilde { L } _ { 2 } \\tilde { L } _ { 2 } } { \\sqrt { 2 } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "After we integrate out the heavy fields $\\chi ^ { m } , \\rho ^ { m }$ ， we obtain the low energy effective theory ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } } _ { \\mu } = - \\lambda _ { 1 } \\dot { \\bar { t } } _ { L } ^ { m } \\ell _ { R } ^ { m } + \\frac { h _ { 2 } M } { \\sqrt 2 } U _ { B } ^ { - 1 } \\bar { t } _ { L } ^ { m } U _ { R 1 1 } ^ { - 1 } \\ell _ { R } ^ { m } h _ { 0 } + \\frac { h _ { 2 } M } { \\sqrt 2 M _ { B } } U _ { L 2 1 } ^ { - 1 } \\bar { t } _ { L } ^ { m } U _ { R 3 1 } ^ { - 1 } \\ell _ { R } ^ { m } \\tilde { S } _ { 2 } } }  \\\\ { { \\displaystyle ~ + \\frac { h _ { 2 } M } { \\sqrt 2 M _ { B } } U _ { L 3 1 } ^ { - 1 } \\bar { t } _ { L } ^ { m } U _ { R 3 1 } ^ { - 1 } t _ { R } ^ { m } \\tilde { S } _ { 3 } + \\frac { 1 } { 2 } Z _ { h _ { 0 } } ( \\partial _ { \\mu } h _ { 0 } ) ^ { 2 } + \\frac { 1 } { 2 } \\sum _ { i } \\sum _ { S _ { i } } \\mathcal { S } _ { i } ( \\partial _ { \\mu } S _ { i } ) ^ { 2 } + \\sum _ { i } Z _ { \\Delta i } | \\partial _ { \\mu } \\Delta _ { i } | ^ { 2 } } } \\\\ { { \\displaystyle ~ - \\frac { 1 } { 2 } \\left( M _ { h _ { 0 } } ^ { 2 } h _ { 0 } ^ { 2 } + \\sum _ { i } M _ { S _ { i } } ^ { 2 } S _ { i } ^ { 2 } \\right) - \\sum _ { i } M _ { \\Delta _ { i } } ^ { 2 } | \\Delta _ { i } ^ { 2 } | ^ { 2 } - \\sum _ { i } M _ { i 0 } S _ { i } h _ { 0 } } } \\\\ { { \\displaystyle ~ - \\tilde { M } _ { 2 3 } S _ { 2 } S _ { 3 } - M _ { 2 3 } \\Delta _ { 2 } \\Delta _ { 3 } - V ( h _ { 0 } , S _ { i } , \\Delta _ { i } ) - \\Delta T _ { h _ { 0 } } h _ { 0 } - \\sum _ { i } \\Delta T _ { S _ { i } } S _ { i } , ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The tadpole cancelation condition is ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { h } ^ { 1 / 2 } \\Delta T _ { h _ { 0 } } = Z _ { h } ^ { - 1 / 2 } v _ { h _ { 0 } } M ^ { 2 } + \\delta \\tilde { T } _ { h _ { 0 } } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "with $\\delta \\tilde { T }$ the one-loop tadpole contributions. Through the tadpole cancelation condition we can obtain the exact gap equation ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = \\frac { h _ { 2 } ^ { 2 } M ^ { 2 } N _ { c } } { 8 \\pi ^ { 2 } M _ { B } ^ { 2 } } \\left[ \\sum _ { i = 1 } ^ { 3 } 2 \\Re ( U _ { L 2 i } ^ { - 1 * } U _ { R 1 i } ^ { - 1 } ) \\left( \\lambda _ { i } - \\frac { \\lambda _ { i } ^ { 3 } } { M ^ { 2 } } \\ln \\left( \\frac { M ^ { 2 } + \\lambda _ { i } ^ { 2 } } { \\lambda _ { i } ^ { 2 } } \\right) \\right) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "with the fact that $\\mu = Z _ { h } ^ { - 1 / 2 } h _ { 2 } M v _ { h _ { 0 } } / \\sqrt { 2 } M _ { B }$ . Such form is consistent with the previous large $N _ { c }$ expansion approach with mass insertion. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From the wave function renormalization of the composite Higgs fields,we can get the precise form of the Pagels-Stokar formula ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle v _ { h _ { 0 } } ^ { 2 } = \\frac { \\mu ^ { 2 } M ^ { 2 } N _ { c } } { 8 \\pi ^ { 2 } M _ { B } ^ { 2 } } \\left[ \\sum _ { i = 1 } ^ { 3 } 2 \\left| U _ { L 2 i } ^ { - 1 * } U _ { R 1 i } ^ { - 1 } \\right| ^ { 2 } \\log \\left( \\frac { M ^ { 2 } + \\lambda _ { i } ^ { 2 } } { \\lambda _ { i } ^ { 2 } } \\right) \\right. } \\ ~ } \\\\ { { \\displaystyle \\left. \\qquad + \\sum _ { i = 1 } ^ { 3 } \\sum _ { j = 1 ; i < j } ^ { 3 } \\left( \\left| U _ { L 2 i } ^ { - 1 * } U _ { R 1 j } ^ { - 1 } \\right| ^ { 2 } + \\left| U _ { L 2 j } ^ { - 1 } U _ { R 1 i } ^ { - 1 * } \\right| ^ { 2 } \\right) \\log \\left( \\frac { M ^ { 2 } + \\lambda _ { j } ^ { 2 } } { \\lambda _ { j } ^ { 2 } } \\right) \\ \\right] } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "with other possible Higgs VEVs from bottom sector $v _ { h _ { i } } ^ { 2 } ( i \\neq 0 )$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i } v _ { h _ { i } } ^ { 2 } = v _ { E W } ^ { 2 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The VEV of $S _ { 3 }$ breaks the $U ( 1 ) _ { 1 }$ gauge symmetry completely due to its non-vanishing （204 $U ( 1 ) _ { 1 }$ quantum number. The expression of $S _ { 3 }$ will be given in subsequent Section.Due to the mixing in the Higgs sector, the physical Higgs fields can be obtained by diagonalizing the relevant mass matrix. We will discuss the complete Higgs sector after we include the bottom-type quarks. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Similar setting can be seen for the bottom quark. We rewrite the relevant terms for bottom quarks ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { b _ { L } ^ { c } \\sim ( 1 , \\bar { 3 } , 1 ) _ { ( - 2 / 3 , 0 ) } ~ , ~ \\tilde { \\omega } _ { L } \\sim ( 1 , 3 , 1 ) _ { ( 0 , - 2 / 3 ) } ~ , ~ \\tilde { \\sigma } _ { L } \\sim ( 3 , 1 , 1 ) _ { ( - 1 / 3 , - 1 / 3 ) } , } } \\\\ { { \\tilde { \\omega } _ { L } ^ { c } \\sim ( \\bar { 3 } , 1 , 1 ) _ { ( 1 / 3 , 1 / 3 ) } ~ , ~ \\tilde { \\sigma } _ { L } ^ { c } \\sim ( 1 , \\bar { 3 } , 1 ) _ { ( 0 , 2 / 3 ) } ~ , { \\cal H } _ { 1 } \\sim ( 1 , 1 , 2 ) _ { ( - 1 , 0 ) } , } } \\\\ { { { \\cal H } _ { 2 } \\sim ( 1 , 1 , 2 ) _ { ( 1 , 0 ) } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and the induced interactions ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW \\supseteq h \\tilde { \\omega } _ { L } ^ { c } \\Phi _ { 1 } \\tilde { \\omega } _ { L } + h \\tilde { \\sigma } _ { L } ^ { c } \\Phi _ { 2 } \\tilde { \\sigma } _ { L } + h \\left( \\begin{array} { c } { { t _ { L } } } \\\\ { { b _ { L } } } \\end{array} \\right) H _ { 1 } \\tilde { \\omega } _ { L } ^ { c } + h \\left( \\begin{array} { c } { { \\chi _ { L } ^ { c } } } \\\\ { { \\omega _ { L } ^ { c } } } \\end{array} \\right) H _ { 2 } \\tilde { \\sigma } _ { L } + h \\tilde { \\omega } _ { L } \\tilde { \\sigma } _ { L } ^ { c } S _ { a } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We can see from the identification that the most general bottom quark mass matrix is ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( b _ { L } , \\ \\omega _ { L } , \\ \\sigma _ { L } , \\ \\tilde { \\omega } _ { L } , \\tilde { \\sigma } _ { L } \\right) \\left( \\begin{array} { c c c c c } { { 0 } } & { { s _ { 1 } } } & { { M _ { 1 } } } & { { 0 } } & { { 0 } } \\\\ { { \\tilde { \\mu } } } & { { M _ { 2 } } } & { { \\mu _ { 1 } } } & { { 0 } } & { { \\mu _ { 3 } } } \\\\ { { 0 } } & { { 0 } } & { { \\mu _ { 2 } } } & { { 0 } } & { { \\mu _ { 4 } } } \\\\ { { \\mu _ { 5 } } } & { { 0 } } & { { \\mu _ { 6 } } } & { { M _ { 1 } } } & { { \\mu _ { 7 } + s _ { a } } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { M _ { 2 } } } \\end{array} \\right) \\left( \\begin{array} { c } { { b _ { L } ^ { c } } } \\\\ { { \\omega _ { L } ^ { c } } } \\\\ { { \\sigma _ { L } ^ { c } } } \\\\ { { \\tilde { \\omega } _ { L } ^ { c } } } \\\\ { { \\tilde { \\sigma } _ { L } ^ { c } } } \\\\ { { \\tilde { \\sigma } _ { L } ^ { c } } } \\end{array} \\right) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Similarly, we can diagonalize the mass matrix and obtain the relevant eigenvalues. We note that the determinant of the mass matrix is ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { d e t } M _ { b } = s _ { 1 } \\tilde { \\mu } \\mu _ { 2 } M _ { 1 } M _ { 2 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "which is important to determine the lightest bottom-type quark masses. For $M _ { 2 } = M _ { 1 } \\stackrel { > } { _ \\sim }$ （204号 $s _ { 1 } \\gg \\mu _ { i }$ ，we have the eigenvalues of various mass eigenstate in order ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\tilde { \\lambda } _ { 2 } ^ { 2 } \\equiv \\tilde { m } _ { \\omega _ { m } } ^ { 2 } \\sim M _ { 1 } ^ { 2 } , ~ \\tilde { \\lambda } _ { 3 } ^ { 2 } \\equiv \\tilde { m } _ { \\sigma _ { m } } ^ { 2 } \\sim 2 M _ { 1 } ^ { 2 } , ~ \\tilde { \\lambda } _ { 4 } \\equiv \\tilde { m } _ { \\tilde { \\omega } _ { m } } ^ { 2 } \\sim M _ { 2 } ^ { 2 } / 2 , } } \\\\ { { \\tilde { \\lambda } _ { 5 } ^ { 2 } \\equiv \\tilde { m } _ { \\tilde { \\sigma } _ { m } } ^ { 2 } \\sim M _ { 2 } ^ { 2 } / 2 , ~ \\tilde { \\lambda } _ { 1 } ^ { 2 } \\equiv \\tilde { m } _ { b _ { m } } ^ { 2 } \\sim \\frac { s _ { 1 } ^ { 2 } \\tilde { \\mu } ^ { 2 } \\mu _ { 2 } ^ { 2 } } { M _ { 1 } ^ { 2 } M _ { 2 } ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Here the expression for the lightest bottom-type quark mass is not precise. This formula is used to determine the order of the physical bottom mass.We can also parameterize the mixings in the bottom sector as ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { ( b _ { L } ^ { m } , \\ \\omega _ { L } ^ { m } , \\ \\sigma _ { L } ^ { m } , \\ \\tilde { \\omega } _ { L } ^ { m } , \\tilde { \\sigma } _ { L } ^ { m } ) = Z _ { i j } ^ { L } ( b _ { L } , \\ \\omega _ { L } , \\ \\sigma _ { L } , \\ \\tilde { \\omega } _ { L } , \\tilde { \\sigma } _ { L } ) , } \\\\ { ( b _ { R } ^ { m } , \\ \\omega _ { R } ^ { m } , \\ \\sigma _ { R } ^ { m } , \\ \\tilde { \\omega } _ { R } ^ { m } , \\tilde { \\sigma } _ { R } ^ { m } ) = Z _ { i j } ^ { R } ( b _ { R } , \\ \\omega _ { R } , \\ \\sigma _ { R } , \\ \\tilde { \\omega } _ { R } , \\ \\tilde { \\sigma } _ { R } ) \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We can introduce auxiliary fields in symmetry breaking phase to obtain the precise gap equations ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal E } _ { \\Lambda } ^ { b } = - \\tilde { \\lambda } _ { 1 } \\tilde { b } _ { L } ^ { \\underline { { { m } } } } b _ { R } ^ { \\underline { { { m } } } } - \\tilde { \\lambda } _ { 2 } \\tilde { \\omega } _ { L } ^ { \\underline { { { m } } } } \\omega _ { R } ^ { \\underline { { { m } } } } - \\tilde { \\lambda } _ { 3 } \\tilde { \\sigma } _ { L } ^ { \\underline { { { m } } } } \\tilde { \\sigma } _ { R } ^ { \\underline { { { m } } } } - \\tilde { \\lambda } _ { 3 } \\tilde { \\omega } _ { L } ^ { \\underline { { { m } } } } \\tilde { \\omega } _ { R } ^ { \\underline { { { m } } } } - \\tilde { \\lambda } _ { 5 } \\tilde { \\sigma } _ { L } ^ { \\underline { { { m } } } } \\tilde { \\sigma } _ { R } ^ { \\underline { { { m } } } } - \\frac { h _ { 2 } M } { M _ { B } } \\bar { X } _ { L } b _ { R } \\tilde { H } _ { 1 } } }  \\\\ { { \\displaystyle \\quad \\quad - \\frac { h _ { 2 } M } { \\sqrt { 2 } M _ { B } } \\bar { X } _ { L } P _ { R } ( \\Delta _ { 2 } + S _ { 2 } + v _ { S _ { 2 } } ) - \\frac { h _ { 2 } M } { \\sqrt { 2 } M _ { B } } \\bar { P } _ { L } P _ { R } ( \\Delta _ { 3 } + S _ { 3 } + v _ { S _ { 3 } } ) - \\frac { h _ { 2 } M } { M _ { B } } \\bar { \\omega } _ { L } b _ { R } \\tilde { S } _ { 4 } } }  \\\\ { { \\displaystyle \\quad \\quad - \\frac { h _ { 2 } M } { M _ { B } } \\tilde { \\omega } _ { L } P _ { R } \\tilde { H } _ { 2 } - \\frac { h _ { 2 } M } { M _ { B } } \\bar { X } _ { L } \\tilde { \\sigma } _ { R } \\tilde { H } _ { 3 } - \\frac { h _ { 2 } M } { M _ { B } } \\bar { P } _ { L } \\tilde { \\sigma } _ { R } \\tilde { H } _ { 4 } - \\frac { h _ { 2 } M } { \\sqrt { 2 } M _ { B } } \\tilde { \\omega } _ { L } \\tilde { \\sigma } _ { R } \\tilde { S } _ { 5 } } } \\\\  { \\displaystyle \\quad \\quad - \\frac { h _ { 2 } M } { M _ { B } } \\bar { \\sigma } _ { L } \\tilde { \\sigma } _ { R } \\tilde { S } _ { 6 } - M ^ { 2 } \\left( \\sum _ { i = 1 } ^ { 4 } | \\tilde { H } _ { i } | ^ { 2 } + \\sum _ { i = 2 } ^ { 6 } | \\tilde { S } _ { i } | ^ { 2 } + \\sum _ { i = 2 } ^ { 3 } | \\Delta _ { i } | ^ { 2 } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Again we can integrate out the heavy modes and obtain the low energy effective interactions ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { E } _ { p \\gamma } ^ { \\lambda } = } & { - \\lambda , \\mathcal { R } _ { p \\gamma } ^ { \\lambda \\alpha \\beta \\beta } \\ : \\ : \\ : \\frac { p _ { \\gamma \\beta \\beta \\alpha \\beta } } { \\sqrt { 2 } \\Delta \\alpha _ { p \\gamma } ^ { 2 } } \\ : \\mathcal { L } _ { q \\gamma \\alpha \\beta } ^ { \\lambda \\alpha \\beta } \\ : \\mathcal { R } _ { p \\gamma \\beta } ^ { \\beta \\alpha \\beta } \\mathbb { R } _ { 1  \\ : \\ : \\ : \\forall \\alpha \\beta \\gamma } \\ : \\frac { \\mathcal { L } _ { p \\beta \\alpha \\beta } ^ { \\lambda \\alpha \\beta } } { \\sqrt { 2 } \\Delta \\alpha _ { p \\gamma } ^ { 2 } }  \\mathcal { L } _ { q \\gamma \\alpha \\beta \\gamma } \\frac { 1 } { \\mathcal { L } _ { p \\gamma \\alpha \\beta } ^ { \\beta \\alpha \\beta } }  ^ { \\frac { \\alpha } { \\alpha } } \\mathcal { L } _ { q \\gamma \\gamma \\alpha \\beta } \\Bigg \\rbrace } \\\\ & { + \\mathcal { L } _ { q \\gamma \\alpha \\beta } ^ { \\lambda \\alpha \\beta } \\ : \\mathcal { L } _ { q \\gamma \\alpha \\beta } ^ { \\beta \\gamma \\beta \\alpha } \\Bigg \\lbrace \\mathcal { R } _ { 1  \\ : \\ : \\alpha \\beta \\gamma } ^ { \\beta \\gamma \\beta } \\Bigg \\lbrace - \\frac { \\delta } { \\sqrt { 2 } \\Delta \\alpha _ { p \\gamma } ^ { 2 } } \\Bigg \\rbrace - \\frac { \\delta } { \\sqrt { 2 } \\Delta \\alpha _ { p \\gamma } ^ { 2 } } \\Bigg \\lbrace \\mathcal { L } _ { q \\gamma \\alpha \\beta } ^ { \\gamma \\alpha \\beta } \\Bigg \\rbrace \\mathcal { R } _ { 1  \\ : \\ : \\ : \\forall \\alpha \\beta \\gamma } \\Bigg \\rbrace } \\\\ & { + \\mathcal { L } _ { p \\gamma \\alpha \\beta } ^ { \\lambda \\alpha \\beta } \\Bigg \\lbrace \\mathcal { R } _ { p \\gamma \\alpha \\beta } ^ { \\gamma \\alpha \\beta } \\Bigg \\rvert \\mathcal { R } _ { 1  \\ : \\ : \\ : \\alpha \\beta \\gamma } + \\mathcal { R } _ { p \\gamma \\gamma \\beta \\alpha } ^ { \\gamma \\beta \\gamma \\alpha \\beta } \\Bigg \\rbrace + 2 \\mathcal { L } _ { p \\gamma \\alpha \\beta } ^ { \\lambda \\alpha \\beta } \\int _ { \\alpha \\gamma \\beta } ^ { \\alpha \\beta \\gamma \\alpha } \\Bigg \\lbrace \\mathcal { R } _ { p \\gamma \\beta \\gamma } ^ { \\beta \\gamma \\alpha \\beta } \\Bigg \\lbrace \\mathcal { R } _ { q \\gamma \\gamma \\beta } ^ { \\gamma \\beta \\gamma } \\Bigg \\lbrace \\mathcal { R } _ { q \\gamma \\gamma \\alpha \\beta } ^ { \\gamma \\beta \\gamma } \\Bigg \\rbrace } \\\\ &  + \\mathcal { L } _ { q \\gamma \\alpha \\beta } ^ { \\lambda \\alpha \\beta } \\Bigg \\lbrace \\mathcal { R } _ { p \\gamma \\alpha \\beta } ^ { \\gamma \\beta \\gamma \\alpha \\beta } \\Bigg \\rbrace + \\mathcal { R } _ { p \\gamma \\alpha \\beta \\gamma } ^ { \\beta \\gamma \\alpha \\beta \\gamma \\beta } \\Bigg \\rbrace + \\mathcal { L } _ { q \\gamma \\alpha \\beta } ^ { \\lambda \\alpha \\beta \\gamma \\beta \\alpha \\beta } \\Bigg \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where we use the parameterization ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { H } _ { i } ( i = 1 , 2 , 3 , 4 ) \\sim \\left( \\frac { \\pi _ { b i } ^ { + } } { \\frac { 1 } { \\sqrt { 2 } } ( h _ { i } + \\pi _ { b i } ^ { 0 } + v _ { h _ { i } } ) } \\right) , \\tilde { S } _ { i } ( i = 4 , 5 , 6 ) \\sim \\frac { 1 } { \\sqrt { 2 } } ( S _ { i } + \\tilde { \\pi } _ { S _ { i } } ^ { 0 } + v _ { S _ { i } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The tadpole cancelation conditions ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Z _ { h _ { i } } ^ { 1 / 2 } \\Delta T _ { h _ { i } } = Z _ { h _ { i } } ^ { - 1 / 2 } v _ { h _ { i } } M ^ { 2 } + \\delta \\tilde { T } _ { h _ { i } } = 0 , } \\\\ { Z _ { S _ { i } } ^ { 1 / 2 } \\Delta T _ { S _ { i } } = Z _ { S _ { i } } ^ { - 1 / 2 } v _ { S _ { i } } M ^ { 2 } + \\delta \\tilde { T } _ { S _ { i } } = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "determine the exact gap equations ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { H _ { 1 } } = G _ { 2 1 } ^ { B } , \\mu _ { H _ { 2 } } = G _ { 4 3 } ^ { B } , \\mu _ { H _ { 3 } } = G _ { 2 5 } ^ { B } , \\mu _ { H _ { 4 } } = G _ { 3 5 } ^ { B } , \\mu _ { S _ { 4 } } = G _ { 4 1 } ^ { B } , \\mu _ { S _ { 5 } } = G _ { 4 5 } ^ { B } , \\mu _ { S _ { 6 } } = G _ { 5 5 } ^ { B }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "while $\\mu _ { S _ { 2 } }$ and $\\mu _ { S _ { 3 } }$ are ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { S _ { 2 } } = G _ { 2 3 } ^ { B } + G _ { 2 3 } ^ { T } \\ , \\mu _ { S _ { 3 } } = G _ { 2 3 } ^ { B } + G _ { 3 3 } ^ { T } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Here we use the notation ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { H _ { 1 } } \\equiv \\tilde { \\mu } , ~ \\mu _ { S _ { 2 } } \\equiv \\mu _ { 1 } , ~ \\mu _ { S _ { 3 } } \\equiv \\mu _ { 2 } , ~ \\mu _ { H _ { 3 } } \\equiv \\mu _ { 3 } , ~ \\mu _ { H _ { 4 } } \\equiv \\mu _ { 4 } , ~ \\mu _ { S _ { 4 } } \\equiv \\mu _ { 5 } , ~ \\mu _ { H _ { 2 } } \\equiv \\mu _ { 6 } , ~ \\mu _ { S _ { 5 } } \\equiv \\mu _ { 7 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and define ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { G _ { a b } ^ { B } \\equiv \\displaystyle \\frac { h _ { 2 } ^ { 2 } M ^ { 2 } N _ { c } } { 8 \\pi ^ { 2 } M _ { B } ^ { 2 } } \\left[ \\displaystyle \\sum _ { i = 1 } ^ { 5 } 2 \\Re ( Z _ { L a i } ^ { - 1 * } Z _ { R b i } ^ { - 1 } ) \\left( \\tilde { \\lambda } _ { i } - \\frac { \\tilde { \\lambda } _ { i } ^ { 3 } } { M ^ { 2 } } \\ln \\left( \\frac { M ^ { 2 } + \\tilde { \\lambda } _ { i } ^ { 2 } } { \\tilde { \\lambda } _ { i } ^ { 2 } } \\right) \\right) \\right] ~ , } } \\\\ { { G _ { a b } ^ { T } \\equiv \\displaystyle \\frac { h _ { 2 } ^ { 2 } M ^ { 2 } N _ { c } } { 8 \\pi ^ { 2 } M _ { B } ^ { 2 } } \\left[ \\displaystyle \\sum _ { i = 1 } ^ { 3 } 2 \\Re ( U _ { L a i } ^ { - 1 * } U _ { R b i } ^ { - 1 } ) \\left( \\lambda _ { i } - \\frac { \\lambda _ { i } ^ { 3 } } { M ^ { 2 } } \\ln \\left( \\frac { M ^ { 2 } + \\lambda _ { i } ^ { 2 } } { \\lambda _ { i } ^ { 2 } } \\right) \\right) \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From the wave function normalization, we can get the Pagels-Stokar formula in the bottom sector ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { h _ { 1 } } ^ { 2 } = \\mu _ { H _ { 1 } } ^ { 2 } P _ { 2 1 } ^ { B } \\ , \\ v _ { h _ { 2 } } ^ { 2 } = \\mu _ { H _ { 2 } } ^ { 2 } P _ { 4 3 } ^ { B } \\ , \\ v _ { h _ { 3 } } ^ { 2 } = \\mu _ { H _ { 3 } } ^ { 2 } P _ { 2 5 } ^ { B } \\ , \\ v _ { h _ { 4 } } ^ { 2 } = \\mu _ { H _ { 4 } } ^ { 2 } P _ { 3 5 } ^ { B } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "with the relation $\\sum _ { i = 0 } ^ { 4 } v _ { h _ { i } } ^ { 2 } = v _ { E W } ^ { 2 }$ as well as the Pagels-Stokar formula for $S _ { i }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { v _ { S _ { 2 } } ^ { 2 } = \\mu _ { S _ { 2 } } ^ { 2 } \\left( P _ { 2 3 } ^ { B } + P _ { 2 3 } ^ { T } \\right) , ~ v _ { S _ { 3 } } ^ { 2 } = \\mu _ { S _ { 3 } } ^ { 2 } \\left( P _ { 3 3 } ^ { B } + P _ { 3 3 } ^ { T } \\right) , } \\\\ & { v _ { S _ { 4 } } ^ { 2 } = \\mu _ { S _ { 4 } } ^ { 2 } P _ { 4 1 } ^ { B } , ~ v _ { S _ { 5 } } ^ { 2 } = \\mu _ { S _ { 5 } } ^ { 2 } P _ { 4 5 } ^ { B } , ~ v _ { S _ { 6 } } ^ { 2 } = \\mu _ { S _ { 6 } } ^ { 2 } P _ { 5 5 } ^ { B } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "with $v _ { S _ { 3 } } ^ { 2 }$ the $U ( 1 ) _ { 2 }$ breaking scale and the fact $\\mu _ { S _ { 3 } } = Z _ { S _ { 3 } } ^ { - 1 / 2 } h _ { 2 } M v _ { S _ { 3 } } / \\sqrt { 2 } M _ { B }$ Here, we define ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l }  { \\displaystyle { P _ { \\alpha b } ^ { B } = \\frac { M ^ { 2 } N _ { c } } { 8 \\pi ^ { 2 } M _ { B } ^ { 2 } } [ \\sum _ { i = 1 } ^ { 5 } 2 | Z _ { L a ^ { 2 } } ^ { - 1 * } Z _ { { \\bar { H } } b c k } ^ { - 1 } | ^ { 2 } \\log ( \\frac { M ^ { 2 } + { \\bar { \\lambda } _ { i } ^ { 2 } } } { { \\bar { \\lambda } _ { i } ^ { 2 } } } )  } } \\\\ { { \\displaystyle \\qquad + \\sum _ { i = 1 } ^ { 5 } \\sum _ { \\underline { { \\hat { \\jmath } } } = 1 ; i < j } ^ { 5 } ( | Z _ { L a ^ { 3 } } ^ { - 1 * } Z _ { { \\bar { H } } b j } ^ { - 1 } | ^ { 2 } + | Z _ { L a \\bar { \\jmath } } ^ { - 1 } Z _ { { \\bar { H } } b i } ^ { - 1 } | ^ { 2 } ) \\log ( \\frac { M ^ { 2 } + { \\bar { \\lambda } _ { j } ^ { 2 } } } { { \\bar { \\lambda } _ { j } ^ { 2 } } } ) ] \\ : , } } \\\\ { { \\displaystyle P _ { a b } ^ { T } \\equiv \\frac { M ^ { 2 } N _ { c } } { 8 \\pi ^ { 2 } M _ { B } ^ { 2 } } [ \\sum _ { j = 1 } ^ { 3 } 2 | U _ { L a ^ { 4 } } ^ { - 1 * } U _ { { \\bar { H } } b c k } ^ { - 1 } | ^ { 2 } \\log ( \\frac { M ^ { 2 } + \\lambda _ { j } ^ { 2 } } { \\lambda _ { j } ^ { 2 } } )  } } \\\\ { { \\displaystyle \\qquad + \\sum _ { j = 1 } ^ { 3 } \\sum _ { k = 1 \\jmath \\neq j < k } ^ { 3 } ( | U _ { L a ^ { 4 } } ^ { - 1 * } U _ { { \\bar { H } } b j } ^ { - 1 } | ^ { 2 } + | U _ { L a \\bar { \\jmath } } ^ { - 1 } U _ { { \\bar { H } } b i } ^ { - 1 } | ^ { 2 } ) \\log ( \\frac { M ^ { 2 } + \\lambda _ { j } ^ { 2 } } { \\lambda _ { j } ^ { 2 } } ) \\ : . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The physical Higgs fields can be obtained by diagonalizing the $1 0 \\times 1 0$ mixing mass matrix between $h _ { i } ( i = 0 , \\cdots , 4 )$ and $S _ { j } ( j = 2 , \\cdots , 6 )$ . Each entry can be calculated by the oneloop diagrams in the large $N _ { c }$ fermion bubble approximation.Detailed expressions can be found in appendix B. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "One combination of $\\pi _ { t } ^ { 0 , \\pm }$ and $\\pi _ { b i } ^ { 0 , \\pm }$ willactaswouldeGstoeboshichill be eaten by $W ^ { \\pm }$ and $Z _ { 0 }$ The remaining $\\pi _ { t , b i } ^ { \\pm }$ will combineintomultiplechargedHigg felds $H _ { i } ^ { \\pm }$ while the other combinations of $\\pi _ { b i } ^ { 0 }$ and $\\pi _ { t } ^ { 0 }$ will be the CP-odd Higgs fields $A _ { i } ^ { 0 }$ ， The mixings between triplet Higgs fields will give two mass eigenstates $\\bar { \\Delta } _ { 2 }$ and $\\bar { \\Delta } _ { 3 }$ . There is enough parameter space to tune the lightest Higgs feld to be at 125 GeV. We note that the non-minimal nature is crucial for Higgs mixing and the appearance of light Higgs field. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Quarks of the first two generations transform as $S U ( 3 ) _ { 2 }$ fundamental representations and also carry $U ( 1 ) _ { 1 }$ charges. As $S U ( 3 ) _ { 2 }$ will become strongly coupled,additional $U ( 1 ) _ { 1 }$ interactions can prevent the condensation between the first two generations. This is similar to that of the flavor-universal topcolor model [14]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The most important electroweak precision constraints on top seesaw comes from the electroweak oblique parameters $S$ and $T$ [15]. Minimal Top seesaw model can non-trivially satisfy the $S \\mathrm { ~ - ~ } T$ bounds. We know that the oblique parameter $S$ can be thought of as the measure of the total size of the new sector while $T$ is the measure of the weakisospin breaking induced by it. Just as ordinary extended Top Seesaw model with bottom seesaw, the contributions to the oblique parameters are rather complicate. Detailed analytic expressions for new contributions to $S , T$ parameters can be seen in appendix C.Although the precise values need the detailed numerical studies,we note that the contributions to the $S$ parameter should be very similar to that of the minimal top seesaw model because most new particle contents are vector-like. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The contributions from the multiple Higgs doublets needs the Higgs spectrum as well as the knowledge of the mixings among different Higgs doublets. In general, they should drive the $T$ parameter negative which however being compensated by isospin violating quark sector contributions. We will left the detailed numerical results to subsequence studies. We just anticipate that there are enough parameter space to make our model compatible with $S - T$ bounds. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "There are additional constraints from $Z - b _ { L } - b _ { L }$ coupling. The mixing within the bottom seesaw sector change the vertex by ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta g _ { L } ^ { b } = \\frac { e } { 2 \\sin \\theta \\cos \\theta } \\left( \\sum _ { i = 4 } ^ { 5 } | Z _ { 1 j } | ^ { 2 } \\right) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We can see that $\\Gamma ( Z  b b )$ will decrease with respect to the SM predictions. The updated data on $R _ { b }$ will constrain the mixings within the bottom sector. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We can properly choose the parameter $M _ { 1 } = M _ { 2 } = 2 0$ TeV so that the physical top quark mass is given by ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } ^ { 2 } \\approx \\frac { \\mu ^ { 2 } \\mu _ { 2 } ^ { 2 } s _ { 1 } ^ { 2 } } { M _ { 1 } ^ { 2 } M _ { 2 } ^ { 2 } } \\approx ( 1 7 0 \\mathrm { G e V } ) ^ { 2 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The gap equation depends implicitly on $\\mu$ and $\\mu _ { 2 }$ on the r.h.s and we checked that the following parameters ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 1 } \\simeq 1 8 \\ \\mathrm { T e V } , \\mu _ { 2 } \\simeq 5 . 0 2 \\ \\mathrm { T e V } , \\mu \\simeq 0 . 7 6 \\ \\mathrm { T e V }\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "can satisfy approximately the gap equation ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mu } { \\mu _ { 2 } } \\approx \\frac { U _ { L 3 3 } ^ { - 1 * } U _ { R 3 3 } ^ { - 1 } } { U _ { L 2 3 } ^ { - 1 } U _ { R 1 3 } ^ { - 1 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The mixing matrices can be obtained by diagonalizing the mass matrices ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\left( \\begin{array} { c } { { t _ { L } ^ { m } } } \\\\ { { \\chi _ { L } ^ { m } } } \\\\ { { \\rho _ { L } ^ { m } } } \\end{array} \\right) = \\left( \\begin{array} { c c } { { - 0 . 2 4 7 5 } } & { { 0 . 4 9 4 0 } } & { { - 0 . 8 3 3 5 } } \\\\ { { 0 . 2 2 2 5 } } & { { - 0 . 8 0 8 3 } } & { { - 0 . 5 4 5 1 } } \\\\ { { 0 . 9 4 3 0 } } & { { 0 . 3 2 0 4 } } & { { - 0 . 0 9 0 2 } } \\end{array} \\right) \\left( \\begin{array} { c } { { t _ { L } } } \\\\ { { \\chi _ { L } } } \\\\ { { \\rho _ { L } } } \\end{array} \\right) ~ , } } \\\\ { { \\left( \\begin{array} { c } { { t _ { R } ^ { m } } } \\\\ { { \\chi _ { R } ^ { m } } } \\\\ { { \\rho _ { R } ^ { m } } } \\end{array} \\right) = \\left( \\begin{array} { c c } { { 0 . 9 9 8 8 } } & { { - 0 . 0 4 7 5 } } & { { - 0 . 0 1 3 2 } } \\\\ { { - 0 . 0 3 7 6 6 } } & { { - 0 . 5 6 2 3 } } & { { - 0 . 8 2 6 1 } } \\\\ { { 0 . 0 3 1 8 0 } } & { { 0 . 8 2 5 6 } } & { { - 0 . 5 6 3 4 } } \\end{array} \\right) \\left( \\begin{array} { c } { { t _ { R } } } \\\\ { { \\chi _ { R } } } \\\\ { { \\rho _ { R } } } \\end{array} \\right) ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "with the eigenvalues ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda _ { 1 } \\simeq 0 . 1 7 2 \\ \\mathrm { T e V } , \\lambda _ { 2 } \\simeq 1 3 \\ \\mathrm { T e V } \\ , \\lambda _ { 3 } \\simeq 3 1 . 3 6 \\ \\mathrm { T e V } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The unitary nature of the mixing matrix indicates that the inverse mixing matrix is the form ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { L } ^ { - 1 } = \\left( \\begin{array} { c c c } { { - 0 . 2 4 7 5 } } & { { 0 . 2 2 2 5 } } & { { 0 . 9 4 3 0 } } \\\\ { { 0 . 4 9 4 0 } } & { { - 0 . 8 0 8 3 } } & { { 0 . 3 2 0 4 } } \\\\ { { - 0 . 8 3 3 5 } } & { { - 0 . 5 4 5 1 } } & { { - 0 . 0 9 0 2 } } \\end{array} \\right) , U _ { R } ^ { - 1 } = \\left( \\begin{array} { c c c } { { 0 . 9 9 8 8 } } & { { - 0 . 0 3 7 6 6 } } & { { 0 . 0 3 1 8 0 } } \\\\ { { - 0 . 0 4 7 5 } } & { { - 0 . 5 6 2 3 } } & { { 0 . 8 2 5 6 } } \\\\ { { - 0 . 0 1 3 2 } } & { { - 0 . 8 2 6 1 } } & { { - 0 . 5 6 3 4 } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "From the Pagels-Stokar formula and setting $v _ { t } ^ { 2 } \\simeq ( 2 0 0 \\mathrm { G e V } ) ^ { 2 }$ and $N _ { c } = 3$ ，we obtain the cut-off scale ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM \\simeq 4 0 ~ \\mathrm { T e V } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The coloron mass scale is $M _ { B } \\simeq \\sqrt { 2 } M _ { 1 } \\approx 3 0$ TeV if we assume $h _ { 2 } \\sim \\mathcal { O } ( 1 )$ . The bottom quark sector can be similarly obtained. The lightest bottom-type quark mass is given approximately by ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\lambda } _ { 1 } \\approx { \\frac { \\tilde { \\mu } s _ { 1 } \\mu _ { 2 } } { M _ { 1 } M _ { 2 } } } = 4 . 2 \\ \\mathrm { G e V } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "which is related to the top quark sector through the relation $\\mu / \\widetilde { \\mu } \\equiv \\mathrm { t a n } \\beta _ { 1 } \\approx 4 0$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "As indicated in section 2, most superpartners obtain their masses via gauge mediation. For proper chosen $M$ with $\\sqrt { F _ { M } } / M \\sim \\mathcal { O } ( 1 )$ , the dominant gauge mediated contributions to sfermion masses come from the nearly strong $U ( 1 ) _ { 1 }$ and $S U ( 3 ) _ { 2 }$ gauge interactions. Then from the gauge mediated supersymmetry breaking formula, we can easily set the soft mass parameters to lie near $\\sqrt { F } \\sim 2 0 \\ \\mathrm { T e V }$ . Thus,below $\\sqrt { F }$ after we integrate out the sfermion fields, the low energy effective theory reduce to NJL type top seesaw interactions. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "While the superpartners are lighter than the coloron, their contribution to the fourfermion interactions are subdominant because of the R-parity. Possible four-fermion interactions contributed from superpartners in the low energy can be only generated by sparticle loops which thus amount to the suppression scale of the operators to be $4 \\pi \\times 2 0 \\mathrm { T e V } \\sim$ 200TeV. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In general, the scalar type bound state of the NJL-type condensation has a mass of order $2 \\mu$ with $\\mu$ the corresponding dynamical mass in the gap equation. In our scenario, the lightest scalar states are mixing between various condensation bound states with the lightest bound state as light as $2 \\tilde { \\mu } \\sim \\mathcal { O } ( 1 0 \\ \\mathrm { G e V } )$ , and then can be as light as $\\mathcal { O } ( 1 0 0 ~ \\mathrm { G e V } )$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We should note that quite a bit fine tuning is necessary in our scenario. By introducing the auxiliary fields, dynamical Higgs field wil reappear after renormalization group equation running down to a lower scale. Thus fine tuning problem that is plaguing the ordinary Higgs models will also show up here as long as the cut off scale is not too low. In our scenario, the cut off scale of the NJL type interaction is 4O TeV,thus leads to fine tuning of order ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { \\Lambda } { 4 \\pi m _ { h } } \\right) ^ { 2 } \\sim 6 0 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "As there are much parameter space remaining in our scenario,it may be possible to ameliorate such fine tuning by other choices of parameters. We leave the detailed numerical discussions in our subsequent papers. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We would like to give a brief comment on the status of this model in the LHC era. In the previous choice of the parameter, new fermions will acquire masses of order $M _ { 1 } ^ { 2 }$ and （20 $M _ { 2 } ^ { 2 } \\ \\mathrm { [ } \\sim \\mathcal { O } ( \\mathrm { 1 0 T e V ) ] }$ thus cannot be discovered by LHC. In the low energy，our theory will look like a two Higgs-doublet model with the mixings between top-Higgs and bottom-higgs to give the 125 GeV scalar that was discovered by LHC. The light scalar in our scenario is standard model-like with its couplings to $W , Z$ gauge bosons and photons resembling that of the standard model Higgs field. While the detailed mass paramters of the additional Higgs felds depending on the concrete values of the mixing and Renormalization Group Equation running,a coarse estimation on the tree-level mass of the CP-odd Higgs field is that $M _ { A ^ { 0 } } \\approx 3 5 0 \\mathrm { G e V }$ ; the charged Higgs $H ^ { \\pm }$ have masses $M _ { H ^ { \\pm } } \\approx \\sqrt { M _ { A } ^ { 2 } + m _ { W } ^ { 2 } } \\sim 3 5 9 \\mathrm { G e V }$ the heavy CP-even higgs $H ^ { 0 }$ acquires a mass $m _ { H ^ { 0 } } \\sim M _ { A ^ { 0 } }$ . Our predictions on the Higgs masses are not very sensitive to the UV physics, so it is testable on the LHC. Inspired by this work,a phenomenological low energy top-bottom seesaw model which can explain the LHC discoveries is being studied in our new paper. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The recent discovery of a 125 GeV Higgs-like particle at the LHC pushes us to ask the interesting question whether such scalar is composite or fundamental. On the other hand, top quark, which is much heavier than all the other SM fermions,indicates that it couples more strongly to electroweak symmetry breaking sector. Thus, it is possible that the top sector plays a key role in electroweak symmetry breaking mechanism and related intimately to the intrinsic nature of the Higgs field. Ordinary top seesaw model predicts too heavy Higgs mass and requires new matter contents and interactions that are put in by hand. We propose a typical non-minimal extended top seesaw model (with also bottom seesaw） and accommodate a light composite Higgs feld. The non-minimal nature is crucial for Higgs mixing and the appearance of light Higgs field. Besides, supersymmetric strong dynamics can lead to almost composite top and bottom quark as well as new emergent topcolor gauge interactions. At the same time, supersymmetry breaking condition also leads to topcolor breaking as well. The low energy QCD coupling is partially emergent. This theory also acts as an AdS/CFT dual to a Randall-Sundrum [16] type model which will be given in subsequent studies. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We are very grateful to the referee for enlightenment discussions and comments. Fei Wang and Csaba Balazs acknowledges Kavli Institute of Theoretical Physics China (KITPC) for its excellent research environments during their staying in Beijing. This research was supported by the Australian Research Council under project DP0877916,by the Natural Science Foundation of China under grant numbers 11105124，11075003，10821504, 11075194,and 11135003, by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant number KJCX2.YW.W10, and by the DOE grant DE-FG03-95-Er-40917. ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/d834b673976728bffff0a8c3b544fdbfa9e7fad5f164ab88cbbfbb61066b9f91.jpg",
+        "img_caption": [
+            "Figure 1. The gap equations for quark condensations in the top sector. The red, blue and green crosses denote the $t ^ { \\prime } \\chi ^ { \\prime }$ ， $t ^ { \\prime } t ^ { \\prime }$ and $t ^ { \\prime } \\rho ^ { \\prime }$ condensations, respectively. While black crosses denote all the previous three condensations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5 Appendix A: Gap Equation ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "There are several ways to obtain the mass gap of the dynamical condensations. The condensations can be calculated from the gap equations which are large- $N _ { c }$ Dyson-Schwinger equations expanded up to $\\mathcal { O } ( m _ { \\chi t } ^ { 3 } )$ for the NJL Lagrangian. The relevant diagrams are shown in fig(1). Tedious calculations give the expression for $\\bar { \\chi } _ { L } ^ { \\prime } t _ { R } ^ { \\prime }$ condensation ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } &  \\begin{array} { r l } &  \\mathcal { N } _ { 2 2 } ^ { \\nu \\nu } : \\ \\lesssim \\frac { \\mathcal { N } ^ { 2 } N _ { 2 } } { 4 \\mathcal { E } ^ { 2 } } \\times \\Biggl \\{ \\Lambda _ { 2 2 } ^ { 3 } \\rho \\bigg \\} \\Biggl [ \\mathcal { N } ^ { 2 } - \\bigg ( \\overline { { \\mathcal { M } } } _ { 1 } ^ { 2 \\nu } - \\Lambda _ { 2 4 } \\rho \\overline { { M } } _ { 1 } ^ { \\nu \\nu } \\bigg ) \\ln { \\bigg ( \\frac { \\mathcal { M } _ { 1 } ^ { \\nu \\nu } ( 1 ) } { \\mathcal { M } _ { 1 } ^ { \\nu \\nu } } \\bigg ) } \\\\ & { - ( \\Lambda _ { 2 1 } ^ { \\nu } + \\Lambda _ { 2 2 } ^ { \\nu } + \\Lambda _ { 2 4 } ^ { \\nu } ) \\rho ^ { 2 } \\mathrm { l o s s } \\bigg ( \\frac { \\mathcal { M } ^ { 2 } } { \\mathcal { M } _ { 1 } ^ { \\nu \\nu } } \\bigg ) + \\frac { \\mathcal { N } _ { 2 2 } ^ { \\nu } \\mu ^ { 2 } M _ { 1 } ^ { \\nu \\nu } } { \\mathcal { M } _ { 2 } ^ { 2 } } \\Biggr ) ( \\frac { \\mathcal { N } _ { 2 2 } ^ { \\nu \\nu } ( 1 - M _ { 1 } ^ { \\nu \\nu } ) M _ { 2 } ^ { 2 } } { \\mathcal { M } _ { 2 } ^ { 2 } - M _ { 1 } ^ { \\nu } } \\bigg ) } \\\\ &  + \\Lambda _ { 2 2 } \\mathcal { N } _ { 2 3 } ^ { \\nu } \\mu ^ { 2 } \\Biggr \\{ M ^ { 2 } - \\overline { { \\Lambda _ { 2 } ^ { \\nu } } } _ { 2 } ^ { 2 } \\mathrm { l o s s } \\bigg ( \\frac { \\mathcal { M } ^ { \\nu \\nu } ( 1 - M _ { 2 } ^ { \\nu \\nu } ) } { \\overline { { M } } _ { 2 } ^ { 2 } } \\bigg ) - \\bigg ( \\overline { { \\mathcal { M } } } _ { 2 } ^ { 2 } + \\Lambda _ { 2 2 } \\mu ^ { 2 } \\overline { { M } } _ { 2 } ^ { 2 } \\bigg ) \\log { \\bigg ( \\frac { ( \\mathcal { M } ^ { 2 } - \\mathcal { M } _ { 1 } ^ { \\nu \\nu } ) } { \\mathcal { M } _ { 2 } ^ { 2 } } \\bigg ) } \\\\ &  - \\big ( \\Lambda _ { 2 1 } ^ { 2 } + \\Lambda _ { 2 2 } ^ { 2 } - \\Lambda _ { 2 4 } ^ { 2 \\nu } \\rho ^ { 2 } \\bigg ) \\mathrm { l o s s } \\Bigg ( \\frac { \\mathcal { M } ^ { 2 } } { \\mathcal { M } _ { 1 } ^ { 2 } } \\\\ &  + \\left( \\Lambda _ { 2 1 } ^ { 2 } - \\Lambda _ { 2 2 } ^ { 2 } \\right) \\mathrm { l o s s } \\bigg ( \\frac { \\mathcal { M } _ { 1 } ^ { 2 } } { \\mathcal { M } _ { 1 } ^ { 2 } }  \\mathcal { M } _  2 \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "From this expression, we can easily deduce the analytic expression for the form of effective critical coupling. Similarly, we can get the other condensations ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< \\bar { t } _ { L } ^ { \\prime } \\rho _ { R } ^ { \\prime } > , < \\bar { \\chi } _ { L } ^ { \\prime } \\rho _ { R } ^ { \\prime } > , < \\bar { \\rho } ^ { \\prime } \\rho _ { R } ^ { \\prime } > , \\cdot \\cdot \\cdot\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "to give $< X _ { L } P _ { R } >$ and $< P _ { L } P _ { R } >$ ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6 Appendix B: Mixing In the Higgs Sector ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The CP-even Higgs fields in our scenario are obtained by diagonalize the $1 0 \\times 1 0$ mass matrix. In the fermion bubble approximation, the diagonal entry can be calculated to be ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m _ { h _ { 0 } } ^ { 2 } = \\displaystyle \\frac { M _ { 2 1 } ^ { T } } { Z _ { h _ { 0 } } } ~ , ~ m _ { h _ { 1 } } ^ { 2 } = \\displaystyle \\frac { M _ { 2 1 } ^ { B } } { Z _ { h _ { 1 } } } ~ , ~ m _ { h _ { 2 } } ^ { 2 } = \\displaystyle \\frac { M _ { 4 3 } ^ { B } } { Z _ { h _ { 2 } } } ~ , ~ m _ { h _ { 3 } } ^ { 2 } = \\displaystyle \\frac { M _ { 2 5 } ^ { B } } { Z _ { h _ { 3 } } } ~ , ~ m _ { h _ { 4 } } ^ { 2 } = \\displaystyle \\frac { M _ { 3 5 } ^ { B } } { Z _ { h _ { 4 } } } , } } \\\\ { { m _ { S _ { 2 } } ^ { 2 } = \\displaystyle \\frac { M _ { 2 3 } ^ { T } + M _ { 2 3 } ^ { B } - M ^ { 2 } } { Z _ { S _ { 2 } } } ~ , ~ m _ { S _ { 3 } } ^ { 2 } = \\displaystyle \\frac { M _ { 3 3 } ^ { T } + M _ { 3 3 } ^ { B } - M ^ { 2 } } { Z _ { S _ { 3 } } } , } } \\\\ { { m _ { S _ { 4 } } ^ { 2 } = \\displaystyle \\frac { M _ { 4 1 } ^ { B } } { Z _ { S _ { 4 } } } ~ , ~ m _ { S _ { 5 } } ^ { 2 } = \\displaystyle \\frac { M _ { 4 5 } ^ { B } } { Z _ { S _ { 5 } } } ~ , ~ m _ { S _ { 6 } } ^ { 2 } = \\displaystyle \\frac { M _ { 5 5 } ^ { B } } { Z _ { S _ { 6 } } } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where the wave function renormalizations are ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle Z _ { h _ { 0 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 2 1 } ^ { T } , ~ Z _ { h _ { 1 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 2 1 } ^ { B } , ~ Z _ { h _ { 2 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 4 3 } ^ { B } , ~ Z _ { h _ { 3 } } = \\frac { h ^ { 2 } } { 2 } P _ { 2 5 } ^ { B } , ~ Z _ { h _ { 4 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 3 5 } ^ { B } , , } } \\\\ { { \\displaystyle Z _ { S _ { 2 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } \\left( P _ { 2 3 } ^ { B } + P _ { 2 3 } ^ { T } \\right) , ~ Z _ { S _ { 3 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } \\left( P _ { 3 3 } ^ { B } + P _ { 3 3 } ^ { T } \\right) , } } \\\\ { { \\displaystyle Z _ { S _ { 4 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 4 1 } ^ { B } , ~ Z _ { S _ { 5 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 4 5 } ^ { B } , ~ Z _ { S _ { 6 } } = \\frac { h _ { 2 } ^ { 2 } } { 2 } P _ { 5 5 } ^ { B } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and the definitions for $M _ { a b } ^ { T }$ and $M _ { a b } ^ { B }$ are ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { M _ { \\omega } ^ { \\prime \\prime } = \\{ ( 1 - \\frac { B _ { 2 } ^ { 2 } M _ { 3 } ^ { 2 } \\Lambda _ { \\omega } } { 8 \\omega ^ { 2 } \\omega ^ { 2 } } ) ^ { \\omega } \\frac { \\mathcal { U } _ { 2 } ^ { 2 } M _ { 3 } ^ { 2 } \\mathcal { U } _ { 5 } } { 4 \\omega ^ { 2 } \\omega ^ { 2 } } [ \\frac { 4 \\lambda _ { \\omega } ^ { 2 } } { \\lambda _ { \\omega } ^ { 2 } - \\lambda _ { \\omega } ^ { 2 } } \\frac { \\mathcal { U } _ { 2 } ^ { 2 } M _ { 3 } ^ { 2 } \\mathcal { U } _ { 5 } } { 2 \\omega ^ { 2 } } [ \\frac { 4 \\lambda _ { \\omega } ^ { 2 } } { 4 \\omega ^ { 2 } } ; 0 , \\frac { \\mathcal { U } _ { 2 } ^ { 2 } M _ { 3 } ^ { 2 } \\Lambda _ { \\omega } } { \\lambda _ { \\omega } ^ { 2 } } \\frac { \\mathcal { U } _ { 3 } ^ { 2 } } { 4 } ]   } \\\\ &    + \\underset { \\omega = - \\lambda _ { \\omega } \\omega \\omega } { \\lambda _ { \\omega } } \\frac { \\mathcal { U } _ { 2 } ^ { 2 } M _ { 3 } ^ { 2 } \\Lambda _ { \\omega } ^ { 2 } \\mathcal { U } _ { 5 } ^ { - 1 } M _ { 3 } ^ { 2 } \\Lambda _ { \\omega } ^ { 2 } M _ { 3 } ^ { - 1 } M _ { 3 } ^ { - 1 } M _ { 4 } ^ { - 1 } M _ { 5 } ^ { - 1 } M _ { 4 } ^ { - 1 } M _ { 5 } ^ { - 1 } M _ { 4 } ^ { - 1 } M _ { 4 } ^ { 2 } M _ { 5 } ^ { - 1 } M _ { 4 } ^ { - 2 } M _ { 5 } ^ { - 1 } M _ { 4 } ^ { 2 } M _ { 5 } ^ { - 1 }   } \\\\ &  + \\underset     \\sum _  \\omega = \\lambda _ { \\omega } \\omega \\omega \\backslash \\{ [ \\frac { B _ { 2 } } { \\omega } \\lambda _ { \\omega } ^ { 2 } ] \\Lambda _ { \\omega } ^ { 2 } M _ { 5 } ^ { 2 } \\} ^ { 2 } + [ \\mathcal { C } _ { \\omega } \\lambda _ { \\omega } ^ { 2 } \\mathcal { U } _ { 6 } ] ^ { 2 } \\Bigg [ \\frac { \\lambda _ { \\omega } ^ { 2 } } { \\lambda _ { \\omega } ^ { 2 } - \\lambda _ { \\omega } ^ { 2 } } - \\lambda _ { \\omega } ^ { 2 } [ \\lambda _ { \\omega } ^ { 2 } ] \\frac { \\mathcal { U } _ { 2 } ^ { 2 } } { \\lambda _ { \\omega } ^ { 2 } } - \\lambda _ { \\omega } ^ { 2 } \\ln \\frac { \\mathcal { U } _ { 2 } ^ { 2 } } { \\lambda _ { \\omega } ^ { 2 } } -  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The mixings between the Higgs fields can be calculated accordingly. For simplicity, we can define ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } , \\mathrm { e } } ^ { \\prime \\prime \\prime } } & { = - \\frac { 1 } { 8 } \\frac { \\lambda _ { \\mathrm { e } } ^ { 2 } } { 2 } \\lambda _ { \\mathrm { e } } ^ { 2 } \\lambda _ { \\mathrm { e } } ^ { 2 } \\nu _ { \\mathrm { o } } ( \\frac { \\nu _ { \\mathrm { o } } ^ { 2 } } { 8 } ) ^ { 2 } + \\frac { \\lambda _ { \\mathrm { e } } ^ { 2 } } { 8 } \\frac { \\lambda _ { \\mathrm { e } } ^ { 2 } } { 4 }  \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 } \\otimes \\widetilde { \\mathbf { F } } _ { \\mathrm { o } } ^ { 4 }  + \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 }  \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { e } } ^ { 2 } \\otimes \\widetilde { { \\nu } } _ { \\mathrm { o } } \\widetilde { \\nu } _ { \\mathrm { o } } \\widetilde { \\nu } _ { \\mathrm { o } } \\widetilde { \\nu } _ { \\mathrm { o } } \\widetilde { \\nu } _ { \\mathrm { o } }  } \\\\ & { \\quad + \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 } \\otimes \\widetilde { \\nu } _ { \\mathrm { e } } ^ { 4 }  \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 } \\otimes \\widetilde { \\nu } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } \\overline { { \\nu } } _ { \\mathrm { o } } ^ { \\prime \\prime }  } \\\\ &  \\quad - \\frac { 1 } { 8 } \\frac { \\lambda _ { \\mathrm { e } } { 2 } } { 8 } \\frac { \\lambda _ { \\mathrm { e } } ^ { 2 } } { 4 }  \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 } \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } \\overline { { \\nu } } _ { \\mathrm { e } } ^ { 2 } \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 } \\otimes \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 }  + \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 } \\otimes \\widetilde { \\mathbf { F } } _ { \\mathrm { e } , \\mathrm { i } } ^ { 2 }  \\widetilde { \\mathbf { F } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where the mixing terms between $h _ { i }$ and $h _ { j }$ are ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { M _ { 1 2 } ^ { h h } = \\displaystyle \\frac { F _ { 2 1 , 4 3 } ^ { B B } } { \\sqrt { Z _ { h _ { 1 } } Z _ { h _ { 2 } } } } ~ , M _ { 1 3 } ^ { h h } = \\displaystyle \\frac { F _ { 2 1 , 2 5 } ^ { B B } } { \\sqrt { Z _ { h _ { 1 } } Z _ { h _ { 3 } } } } ~ , M _ { 1 4 } ^ { h h } = \\displaystyle \\frac { F _ { 2 1 , 3 5 } ^ { B B } } { \\sqrt { Z _ { h _ { 1 } } Z _ { h _ { 4 } } } } ~ , } } \\\\ { { M _ { 2 3 } ^ { h h } = \\displaystyle \\frac { F _ { 4 3 , 2 5 } ^ { B B } } { \\sqrt { Z _ { h _ { 2 } } Z _ { h _ { 3 } } } } ~ M _ { 2 4 } ^ { h h } = \\displaystyle \\frac { F _ { 4 3 , 3 5 } ^ { B B } } { \\sqrt { Z _ { h _ { 2 } } Z _ { h _ { 4 } } } } ~ , M _ { 3 4 } ^ { h h } = \\displaystyle \\frac { F _ { 2 5 , 3 5 } ^ { B B } } { \\sqrt { Z _ { h _ { 3 } } Z _ { h _ { 4 } } } } ~ , M _ { 0 i } ^ { h h } = 0 ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "the mixing terms within $S _ { i }$ are ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { M _ { 2 3 } ^ { S S } = \\displaystyle \\frac { F _ { 2 3 , 3 3 } ^ { T T } + F _ { 2 3 , 3 3 } ^ { B B } } { \\sqrt { Z _ { S _ { 2 } } Z _ { S _ { 3 } } } } ~ , M _ { 2 4 } ^ { S S } = \\displaystyle \\frac { F _ { 2 3 , 4 1 } ^ { B B } } { \\sqrt { Z _ { S _ { 2 } } Z _ { S _ { 4 } } } } ~ , M _ { 2 5 } ^ { S S } = \\displaystyle \\frac { F _ { 2 3 , 4 5 } ^ { B B } } { \\sqrt { Z _ { S _ { 2 } } Z _ { S _ { 5 } } } } ~ , } } \\\\ { { M _ { 2 6 } ^ { S S } = \\displaystyle \\frac { F _ { 2 3 , 5 5 } ^ { B B } } { \\sqrt { Z _ { S _ { 2 } } Z _ { S _ { 6 } } } } ~ M _ { 3 4 } ^ { S S } = \\displaystyle \\frac { F _ { 3 3 , 4 1 } ^ { B B } } { \\sqrt { Z _ { S _ { 3 } } Z _ { S _ { 4 } } } } ~ , M _ { 3 5 } ^ { S S } = \\displaystyle \\frac { F _ { 3 3 , 4 5 } ^ { B B } } { \\sqrt { Z _ { S _ { 3 } } Z _ { S _ { 5 } } } } ~ , } } \\\\ { { M _ { 3 6 } ^ { S S } = \\displaystyle \\frac { F _ { 3 3 , 5 5 } ^ { B B } } { \\sqrt { Z _ { S _ { 3 } } Z _ { S _ { 6 } } } } ~ , M _ { 4 5 } ^ { S S } = \\displaystyle \\frac { F _ { 4 1 , 4 5 } ^ { B B } } { \\sqrt { Z _ { S _ { 4 } } Z _ { S _ { 5 } } } } ~ , M _ { 4 6 } ^ { S S } = \\displaystyle \\frac { F _ { 4 1 , 5 5 } ^ { B B } } { \\sqrt { Z _ { S _ { 4 } } Z _ { S _ { 6 } } } } ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "the $h _ { i }$ and $S _ { j }$ mixing terms are ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { \\Delta } \\dot { q } _ { 0 2 } ^ { R , S } = \\frac { \\Gamma _ { 0 2 , 3 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 5 } } , \\ \\mathrm { \\Delta } M _ { 1 0 } ^ { R , S } = \\frac { \\Gamma _ { 0 2 , 0 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 3 } } , \\ \\mathrm { \\Delta } M _ { 1 5 } ^ { R , S } = \\mathcal { M } _ { 1 5 } = \\mathcal { M } _ { 1 6 } = 0 \\ , \\ \\mathcal { M } _ { 1 6 } ^ { R , S } = \\frac { \\Gamma _ { 0 2 , 0 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 4 } } , \\ } \\\\ & { \\mathrm { \\Delta } \\dot { q } _ { 1 1 } ^ { R , S } = \\mathrm { \\Delta } , \\ \\frac { \\Gamma _ { 0 3 , 3 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } } , \\ \\mathrm { \\Delta } M _ { 1 6 } ^ { R , S } = \\frac { \\Gamma _ { 0 3 , 1 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 4 } } , \\ \\mathrm { \\Delta } M _ { 1 6 } ^ { R , S } = \\frac { \\Gamma _ { 0 1 , 8 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 5 } } , \\ \\mathrm { \\Delta } M _ { 1 8 } ^ { R , S } = - \\frac { \\Gamma _ { 0 1 , 3 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 5 } } , } \\\\ & { \\mathrm { \\Delta } \\dot { q } _ { 2 2 } ^ { R , S } = \\frac { \\Gamma _ { 0 6 , 2 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 5 } } , \\ \\mathrm { \\Delta } M _ { 2 5 } ^ { R , S } = \\frac { \\Gamma _ { 0 6 , 0 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 5 } } , \\ \\mathrm { \\Delta } M _ { 2 5 } ^ { R , S } = \\frac { \\Gamma _ { 0 6 , 0 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 5 } } , \\ \\mathrm { \\Delta } M _ { 2 5 } ^ { R , S } = \\frac { \\Gamma _ { 0 6 , 0 5 } ^ { R , 1 5 } } { \\sqrt { 2 } \\kappa _ { 1 2 , 5 } \\Gamma _ { 0 6 } } , \\ } \\\\ &  \\mathrm { \\Delta } \\dot { q } _ { 2 0 } ^ { R , S } = \\frac { \\Gamma _ { 0 6 , 0 5 } ^ { R , 1 5 } }  \\sqrt { 2 } \\kappa _  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "and the relations are ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i j } ^ { h S } = \\frac { { F _ { a b , c d } ^ { T T , B B } } } { \\sqrt { Z _ { h _ { i } } Z _ { S _ { j } } } } \\ , \\ M _ { j i } ^ { h S } = \\frac { { F _ { c d , a b } ^ { T T , B B } } } { \\sqrt { Z _ { S _ { i } } Z _ { h _ { j } } } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "7 Appendix C: Oblique Parameters ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The most important constraints of out model is the oblique parameters. New contributions to the $T$ parameter ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\frac { 4 \\pi } { \\sin ^ { 2 } \\theta \\cos ^ { 2 } \\theta M _ { Z } ^ { 2 } } \\left[ \\Pi _ { 1 1 } \\left| _ { q ^ { 2 } = 0 } - \\Pi _ { 3 3 } \\right| _ { q ^ { 2 } = 0 } \\right] \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "from the quark sector are ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { H } ^ { \\mathrm { T } } = \\displaystyle \\sum _ { \\ell = 1 } ^ { N } \\frac { 1 } { \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } } \\left( \\frac { \\lambda ^ { 2 } } { 2 } \\sum _ { \\ell = 1 } ^ { N } \\left[ \\sum _ { i = 1 } ^ { N } \\frac { \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } } { 2 } \\right] ^ { \\ell } \\left[ \\sum _ { \\ell = 1 } ^ { N } \\frac { \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } } { 2 } \\right] ^ { \\ell } \\right) \\Bigg | \\Delta \\nu _ { \\ell } - \\nu _ { \\ell } \\Bigg | } \\\\ { + } & { \\sum _ { \\ell = 1 } ^ { N } \\frac { 1 } { \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } } \\Bigg [ \\Bigg [ \\sum _ { \\ell = 1 } ^ { N } \\frac { \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } } { 2 } \\Bigg ] \\Bigg [ \\sum _ { \\ell = 1 } ^ { N } \\frac { \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } + \\nu _ { \\ell } ^ { 2 } } { 2 } \\Bigg ] ^ { \\ell } \\Bigg ] ^ { \\ell } \\Delta \\nu _ { \\ell } - \\nu _ { \\ell } \\Bigg | } \\\\ { + } & { \\sum _ { \\ell = 1 } ^ { N } \\Bigg [ \\bigg ( \\sum _ { \\ell = 1 } ^ { N } \\nu _ { \\ell } \\bigg ) \\Delta \\nu _ { \\ell } + \\bigg ( \\sum _ { \\ell = 1 } ^ { N } \\nu _ { \\ell } \\bigg ) \\Bigg ] ^ { \\ell } \\Bigg | \\Delta \\nu _ { \\ell } \\frac { \\nu _ { \\ell } ^ { 2 } } { 2 } } \\\\ { - } & { \\sum _ { \\ell = 1 } ^ { N } \\Bigg [ \\bigg ( \\sum _ { \\ell = 1 } ^ { N } \\nu _ { \\ell } \\bigg ) \\Delta \\nu _ { \\ell } + \\bigg ( \\sum _ { \\ell = 1 } ^ { N } \\nu _ { \\ell } \\bigg ) \\Bigg ] ^ { \\ell } \\Bigg | \\Delta \\nu _ { \\ell } \\frac { \\nu _ { \\ell } ^ { 2 } } { 2 } } \\\\  - \\sum _ { \\ell = 1 } ^ { N } \\bigg ( \\sum _ { \\ell = 1 } ^ { N } \\nu _ { \\ell } \\bigg ) \\Bigg | \\Delta \\nu _ { \\ell } \\frac { \\nu _ { \\ell } ^ { 2 } } { 2 } \\Bigg | \\Delta \\nu _ { \\ell } \\frac { \\nu _ { \\ell } ^ { 2 } } { 2 } \\Bigg | \\Delta \\nu _ { \\ell } \\frac  \\nu _  \\ell  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "here we define ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\cal K } ( a , b ) \\equiv \\frac { 1 } { a ^ { 2 } - b ^ { 2 } } \\left[ \\frac { a ^ { 4 } } { 2 } \\ln \\frac { a ^ { 2 } } { M _ { B } ^ { 2 } } - \\frac { b ^ { 4 } } { 2 } \\ln \\frac { b ^ { 2 } } { M _ { B } ^ { 2 } } - \\frac { 1 } { 4 } a ^ { 4 } + \\frac { 1 } { 4 } b ^ { 4 } \\right] ~ , } } } \\\\ { { { \\displaystyle { \\cal L } ( a , b ) \\equiv \\frac { a b } { a ^ { 2 } - b ^ { 2 } } \\left[ a ^ { 2 } \\ln \\frac { a ^ { 2 } } { M _ { B } ^ { 2 } } - b ^ { 2 } \\ln \\frac { b ^ { 2 } } { M _ { B } ^ { 2 } } - a ^ { 2 } + b ^ { 2 } \\right] ~ . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "New contributions to the oblique $S$ parameter ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = 1 6 \\pi \\left[ \\frac { \\partial } { \\partial q ^ { 2 } } \\Pi _ { 3 3 } \\left| _ { q ^ { 2 } = 0 } - \\frac { \\partial } { \\partial q ^ { 2 } } \\Pi _ { 3 Q } \\right| _ { q ^ { 2 } = 0 } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "from the quark sector are ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\iota _ { 1 , 2 } ^ { \\mathrm { o u t } } } &  = 1 , \\frac { 1 } { 2 } [ \\sum _ { i \\in \\mathcal { I } _ { i } } \\sum _ { j \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _ { \\ell \\in \\mathcal { I } _ { i } } \\sum _  \\ell \\in \\mathcal { I } _ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "withthedefinition ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle P ( a , b ) = \\int _ { 0 } ^ { 1 } x ( x - 1 ) \\ln [ ( a - b ) x + b ] d x ~ , } } \\\\ { { \\displaystyle Q ( a , b ) = \\int _ { 0 } ^ { 1 } \\frac { x ( x - 1 ) } { ( a - b ) x + b } d x ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "which we will not give their tedious analytic expressions. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[1] Y. Nambu, Proc. of 1988 Int. Workshop \"New Trends in Strong Coupling Gauge Theories\", Nagoya, Japan, Aug 24 - 27,(1988). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "W.A.Bardeen,C. T.Hill, M.Lindner, Phys.Rev .D 41:1647(1990). V.A.Miransky, M. Tanabashi,K. Yamawaki,Phys. Lett. B221:177(1989). [2] Christopher T. Hill, Phys. Lett.B 345:483-489(1995). K.Lane,E. Eichten, Phys. Lett.B 352:382(1995). [3] A.Dobrescu, C. T. Hill, Phys.Rev. Lett.81:2634(1998). R.S. Chivukula,A. Dobrescu, H. Georgi, C. T. Hill, Phys. Rev.D 59: 075003(1999). [4] G.'t Hooft, Recent Developments in Gauge Theories,Plenum, New York,1980, p.135. [5]N.Seiberg,Nucl. Phys. 5435(1995）129. N. Seiberg,Int.J. Mod.Phys.A 16（2001) 4365. [6] G. Aad et al. [ATLAS Collaboration], arXiv:1207.7214 [hep-ex]. [7] S. Chatrchyan et al. [CMS Collaboration],arXiv:1207.7235 [hep-ex]. [8] Kenneth Intriligator,Nathan Seiberg,David Shih, JHEP O604:021,2006. [9] Hitoshi Murayama, Yasunori Nomura, Phys. Rev. Lett. 98:151803(2007); Hitoshi Murayama, Yasunori Nomura, Phys. Rev. D 75:095011(2007). [10] A.E. Nelson,N. Seiberg,Nucl. Phys.B 416(1994)46. [11] Hsin-Chia Cheng, Christopher T. Hill, Jing Wang,Phys. Rev. D64(2001)095003. [12] G.F. Giudice and R. Rattazzi, Nucl. Phys. B511, 25(1998). [13] Hong-Jian He, Christopher T.Hill, T. Tait,Phys. Rev. D65:055006(2002). [14] R. S. Chivukula,A.G. Cohen, E.H. Simmons, Phys.Lett.B 380:92(1996); Marko B. Popovic, E. H. Simmons,Phys. Rev. D 58:095007(1998). [15] Michael E. Peskin, Tatsu Takeuchi, Phys.Rev.Lett 65:964(1990); Michael E. Peskin, Tatsu Takeuchi, Phys. Rev. D 46:381(1992). [16] L. Randall, R. Sundrum,Phys. Rev. Lett. 83,337O(1999). ",
+        "page_idx": 23
+    }
+]

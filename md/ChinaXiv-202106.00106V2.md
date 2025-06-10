@@ -1,0 +1,355 @@
+# A fragment of Argoland from East Gondwana in the NE Himalaya
+
+# Jien Zhang1, Wenjiao Xiao1,2, John Wakabayashi³, Brian F. Windley4, Chunming Han1
+
+1 State Key Laboratory of Lithospheric Evolution, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100029 China.   
+2 Xinjiang Research Center for Mineral Resources, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011 China.   
+3 Department of Earth and Environmental Sciences, California State University, Fresno, CA 93740 USA.   
+4 School of Geography, Geology and the Environment, University of Leicester,Leicester LE1 7RH, UK.   
+Corresponding author: Ji'en Zhang (zhangjien@mail.iggcas.ac.cn)
+
+# 15 Key Points:
+
+The Longzi block in the NE Himalaya records Early Cretaceous shortening and Late   
+Jurassic alkali magmatism   
+First geological evidence presents the Longzi block as a westernmost fragment of   
+Argoland from East Gondwana   
+Archipelagic framework since Late Jurassic impacts Mesozoic geodynamics of   
+Neotethyan and Cenozoic collisional processes in East Asia
+
+# Abstract
+
+Previous studies have concluded that a Trans-Tethyan oceanic subduction zone existed prior collsion of India-Eurasian plates, between which the ocean lacked intervening continental slivers.In contrast, we present first geological evidence of Early Cretaceous shortening and Late Jurassic alkali magmatism constraining that the Longzi block, an extensive ( $( > 4 5 0 \mathrm { k m } \mathrm { E } \mathrm { - } \mathrm { W }$ by ca. $1 3 0 \mathrm { k m N - S }$ ) tract of the NE Himalaya is such a continental sliver. The Longzi block records overturned south-vergent folds in Triassic to Lower Cretaceous strata intruded by $1 3 6 { \mathrm { - } } 1 2 3 \ \mathrm { M a }$ mafic, dioritic, and dacite dikes, constraining Early Cretaceous shortening. The shortening demonstrates the NE Himalayan locating in a compressional seting, rather than an extensional Indian passive continental margin at that time. Triassic strata of NW Australian affinity and Late Jurassic rocks sourced from north India record pre-rifting history. Rifting evidence includes $1 5 2 . 8 \mathrm { M a }$ alkali intrusive rocks, a Late Jurassic unconformity,and rapid changes in sediment thickness and apparent water depth of deposition recorded in Upper Jurassic strata. The rifting event is coeval with 152-155 Ma oceanic crust in the NE Indian Ocean and a Late Jurassic submarine escarpment with $1 2 0 0 \mathrm { m }$ of sediments offshore of NW Australia. These data may reflect rifting of the westernmost Argoland continent in NE Himalaya from East Gondwana, followed by collision with a N-dipping Trans-Tethyan intra-oceanic subduction zone in the Early Cretaceous, long before terminal continent-continent colision. The Mesozoic rifting-collision in the Himalayan region unambiguously presents archipelagic paleogeography in eastern Neotethyan, which underwent Cenozoic two-stage Indian-Eurasian collisional processes.
+
+# 1 Introduction
+
+Paleogeography in the Himalayan region, southern Tibet, is crucial to reconstruct Mesozoic geodynamics of Neotethyan regime in East Asia, and collisional processes between the East Gondwana and Eurasian plates (Fig.la) (Jagoutz et al., 2O15; van Hinsbergen et al., 2012, 2019; Yin & Harrison,20oo; Yuan et al., 202O). Three end-member models have been proposed to explain the geologic affinity of the Himalaya as: (1) a continental block separated from Indian plate at $1 1 8 \mathrm { M a }$ (van Hinsbergen et al., 2012, 2019), (2) the northern continental margin of Indian craton (Yin & Harrison,20oo; Zhu et al.,2007),or (3) an accretionary complex created by Neo-Tethys Ocean subduction between $1 3 0 \mathrm { M a }$ and $5 0 \mathrm { { M a } }$ (Ao et al., 2018). The former two models supposed that the Tethyan Himalaya attached to East Gondwana at ca. $1 3 0 \mathrm { M a }$ (Fig. 1c). At this time the Gondwana and Eurasian plates were separated ${ \sim } 8 0 0 0 \mathrm { k m }$ by the Neo-Tethys Ocean (Jagoutz et al., 2015; van Hinsbergen et al., 2019) that was generally assumed to be an 55 entirely oceanic realm, including SSZ-type ophiolites and a Trans-Tethyan intra-oceanic 56 subduction system (including the Zedang arc) (Aitchison et al.,2Oo0; Hebert et al., 2012; 57 McDermid et al., 2002).
+
+![](images/4876ab15d2ebe03c312bd5738ebbbef584561d163bf11c6b1618bcfe64585946.jpg)  
+59 Figure 1. (a) Schematic map of southern Tibet, SE Asia, NW Australia and NE Indian Ocean, 60 showing tectonic units and locations of Late Jurassic oceanic crust. The Argoland-derived 61 fragments in SE Asia, such as Indo-Burma Range, West Sulawesi, SW Borneo, East Java and 62 Woyla arc are presented (Advokaat et al., 2018; Metcalf, 2011; Zahirovic et al.,2016).Base map 63 is from National Oceanic and Atmospheric Administration (2012). (b) Tectonic units developed 64 in south Tibet and the Indo-Myanmar belt, showing the location of NE Himalaya in Fig. 2a. 65 Paleomagnetic data in Cretaceous is from Yuan et al. (202O) and in Triassic is from Klootwijk 66 and Bingham (1980). Locations of amphibolites of metamorphic soles are from Guilmette et al. 67 (2009,2012) and Zhang et al. (2016a). Ages of chert in ophiolitic mélange and interlayered 68 siltstone and chert are from Aitchison et al. (2019), Chen et al., (2019),and Zhang et al. (2018). 69 Paleocurrent directions determined by cross beddings of Late Jurassic and Triassic sediments are 70 from Li et al. (2003), Pan (2018) and Zhang et al. (2019). Late Jurassic angular unconformity in 71 NW Australia is from Gradstern (1992),and in south Tibet is from Garzanti (1999). (c) 72 Generalized plate tectonic reconstruction in East Gondwana in ca. $1 3 0 \mathrm { M a }$ , showing the Longzi 73 block attched northeastern Indian plate and western Australian plate (Harry et al., 2O2O; Zhu et 74 al., 2007). Acronyms: AAP: Argo Abyssal Plain, NCB: North Carnarvon Basin, WFZ: Wallaby 75 fracture zone.
+
+In SE Asia, continental fragments from the Wallaby fracture zone to the Banda region, and Indo-Burma Range,known as the Argoland sliver, had been rifted off of the NW Australia margin (Gibbons et al.,2012, 2015; Hall, 2012; Metcalfe, 2011; Veevers et al.,1991; Zahirovic et al., 2016), beginning at 152-155 Ma based on isotopic and fossil ages and magnetic anomaly from the NE Indian Ocean (Fig.la) (Gibbons et al.,2012; Heine & Muller,2005; Zahirovic et al., 2016). This sliver drifted northwards prior to Early Cretaceous India-Australia separation (Harry et al., 2020).
+
+Triassic sediments in the NE Himalaya share Late Triassic Halobia sp.,and detrital zircons of 1250-900 and 750-450 Ma, and 400-200 Ma-aged magmatic zircons with $\mathtt { \ E H f } ( t )$ values of $- 1 0 - + 1 4$ (Cai et al., 2016; Liu et al., 2020; Wang et al., 2016a) with those from the IndoBurma Range (Yao et al.,2O17), suggesting that they approached each other (Fig.1b). The Late Jurassic separation of the Indo-Burma Range from the NW Australia (Gibbons et al., 2O12, 2015; Metcalfe, 2011; Zahirovic et al., 2016) hints that NE Himalaya should have a similar tectonic history.
+
+Paleomagnetic data suggest that the Tethyan Himalaya was still at the same latitude as Gondwana in the Early Cretaceous (van Hinsbergen et al.,2O19 and references therein), but it cannot negate the possibility of longitudinal separation. To identify such a separation of the NE Himalaya from Gondwana, three diagnostic features are required: (i) Prior to the Late Jurassic, the NE Himalaya was attached to East Gondwana; and it underwent (ii) Late Jurassic extension and (iii) post-rifting and contractional deformation, which was not recorded in the Indian plate, and predated terminal (India-Eurasia) collision.
+
+In the Tethyan Himalaya, ages of deformation in unmetamorphosed strata are generally difficult to constrain because of lack of syn-deformational mineral growth (Searle & Treloar, 2019). In the NE Himalaya, however,Early Cretaceous dikes intrude asymmetric folds (Fig. 2a) helping constrain the age of early-stage deformation. In this paper we report two important findings in the NE Himalaya: (1) Early Cretaceous contractional deformation,and (2) Late Jurassic intrusive alkali mafic-ultramafic rocks, that fulfill diagnostic features (ii) and (iii). Published data demonstrate the feature (i), so we suggest that a westernmost Argoland fragment termed the “Longzi block” docked in the NE Himalaya.
+
+# 2 Geological Setting
+
+107 The Himalaya in south Tibet is characterized by N-dipping tectonic stacks, such as the   
+108 Tethyan and the Greater Himalaya (Yin & Harrison, 2OoO). The Tethyan Himalaya consists of   
+109 Paleozoic-Mesozoic clastics, volcanics and carbonates, covered by Paleocene-Eocene flysch   
+110 (BYGS,2004; Garzanti, 1999). It is bounded to the north by the Indus-Yarlung suture zone, the   
+111 Neo-Tethys Ocean suture zone (Hebert et al., 2Ol2) connecting with eastern margin of the Indo  
+112 Burma Range (Fig. 1b) (Zhang et al.,2O18). To the south, the South Tibet Detachment separates   
+113 the Tethyan Himalaya from the crystalline Greater Himalaya.   
+114 The ${ > } 4 5 0 \mathrm { k m } \ i$ E-W by ca. $1 3 0 \mathrm { k m N - S }$ Longzi region in the NE Tethyan Himalaya (Fig.   
+115 1b), that we term the Longzi block, exposes Late Triassc-Middle Jurassic turbidites, overlain by   
+116 Late Jurassic conglomerates (such as the Weimei Formation), Early Cretaceous to Late   
+117 Cretaceous turbidites,and Eocene olistostromes in the north,and Paleozoic strata that are   
+118 unconformably overlain by Late Triassic coastal eolian dune deposits and Early Cretaceous   
+119 sediments in the south (Fig. 2a) (BYGS,2004; Pan,2018). Some Mid-Late Triassic and Early   
+120 Cretaceous dikes have negative $\varepsilon _ { \mathrm { N d } } ( t )$ (-13.4 - -0.1) and $\varepsilon _ { \mathrm { H f } } ( t )$ (-24.2 - -0.1) (Huang et al., 2018;   
+121 Liu et al., 2020; Wang et al., 2016b; Zhu et al., 2007).
+
+![](images/d2ad121aca28536067bf3eeb6b07b3788abdb7415ab97235204ff17f412d991b.jpg)  
+Figure 2. (a) Geological map of the NE Himalaya (BYGS,2004). The locations of Late Jurassic dikes, dikes with negative $\operatorname { \varepsilon _ { N d } } ( t )$ and $\varepsilon _ { \mathrm { H f } } ( t )$ , and Late Jurassic conglomerate are marked. The paleocurrent directions determined by cross bedding of Late Jurassic quartz sandstone and Triassic turbidite are from Li et al. (2003), Pan (2018) and Zhang et al. (2019). The 145-147 Ma dikes are from Shi et al. (2018) and Zhu et al. (2008). (b) Poles to the north $( L _ { \mathrm { N } } )$ and south $( L \mathrm { s } )$ limbs, east $( L _ { \mathrm { E } } )$ and west $( L _ { \mathrm { W } } )$ -plunge beddings in an anticlinal view and axial surfaces $( A )$ in Triassic, Jurassic and Early Cretaceous strata. The north limbs are normal; some south limbs are normal and others are overturned. Axial surfaces show that these folds strike E-W and have south-vergence.
+
+Late Triassic sediments yield detrital zircons with 125O-90O and $7 5 0 { \mathrm { - } } 4 5 0 \ \mathrm { M a }$ ,and400- $2 0 0 \mathrm { M a }$ magmatic ages with $\mathtt { \ E H f } ( t )$ values of $- 1 0 - + 1 4$ (Cai et al., 2016; Liu et al., 2020; Wang et al., 2016a). These zircons correlate with those from the North Carnarvon Basin, NW Australia (Lewis & Sircombe, 2013). Late Jurassic conglomerates with ENE-directed paleocurrents contain $9 5 \%$ quartzite pebbles, with 550 and $9 5 0 \mathrm { M a }$ detrital zircon peaks, matching the East Indian cratonic basin (Pan,2O18). The Late Jurassic stratigraphy features rapid lateral thickness changes from a few tens to a hundred meters in a continental shelf-slope setting that apparently reflects syn-depositional extension (Garzanti,1999; Yin & Wan,1996). The Early Cretaceous
+
+Jiabula and Lakang Formations contain Valanginian-Albian Olcostephanus cf. schenki, O.   
+madagascriensis, and Proleymerella sp. (BYGS, 2004).
+
+Abundant intrusions and volcanic rocks occur in the NE Himalaya region, including an OIB-affinity trachyandensitic dike and a MORB-affinity diabase in Cona County with zircon UPb ages at $1 4 7 \pm 2$ Ma and $1 4 5 \pm 2 \mathrm { M a }$ , respectively (Shi et al., 2018; Zhu et al., 2008), and gabbroic intrusions, diabase/diorite dikes, basalt,andesite,dacite and rhyolite yielding zircon UPb and Ar-Ar ages of 135.5-118 Ma (Fig. 2a) (Ao et al., 2018; Wang et al.,2016b; Zhu et al., 2008,2013). Some Early Cretaceous mafic rocks have alkali affinity (Zhu et al., 2013),and some have SSZ (supra-subduction zone) affinity (Wang et al., 2O16b), similar to the andesite and silicic intrusions (Ao et al.,2O18). Three mafic-ultramafic rock bodies have been regarded as ophiolites in south Tibet (Fig. 2a)(Ao et al., 2018; Liu et al.,2020). However, we show they intrude sedimentary strata rather than tectonically-emplaced.
+
+# 3 Results
+
+# 3.1 Structural Geology
+
+# 3.1.1 Folding
+
+Triassic, Jurassic and Lower Cretaceous strata of the Longzi block exhibit welldeveloped flexural-slip folds, over a region more than $1 0 0 \mathrm { k m }$ in width from Qiongjie County (South of Zedang city) in the north to Cona County in the south (Fig.2a). High-relief areas, such as the northern NE Himalaya, where strata comprise primarily Triassic and Jurassic rocks, feature widespread isoclinal folds (Fig.3a), overturned folds (Figs.3b, 4, 5a-b) and superimposed folds, which have been stacked by south-vergent thrusts. These folds have amplitudes of tens to hundreds of meters (Figs. 3a-b,4,5a-b). Beds generally maintain thickness, although beds in some limbs are locally boudinaged (Fig. 3c),and some beds are slightly thickened in hinge zone (Fig. 3d), suggesting these folds are parallel to Class-1c folds. Some hinge zones display axial-surface cleavages (Fig. 3d).
+
+![](images/cffd007e2f56711ec22fbd9fb0537cda76e5d7d74b93da1475d0d097abf8e5a2.jpg)  
+Figure 3.Photos showing structures related to folding in NE Himalaya. (a) Isoclinal folds with south-vergence to south of Qiongjie County. Note the houses at the foot of the mountains as scale. (b) South-vergent overturned anticline and syncline to west of the Longzi County strike to E-W and their limbs preserve boudinages (c). (d) Overturned anticline to south of Qiongjie County has overturned south limb and develops axial-surface cleavages dipping north. Its location is marked in Fig. 4c.
+
+![](images/1abb2b648103d916fee172a0d954bda90d5d33df1f4c4e899e6b0323e0de1bfd.jpg)  
+Figure 4. Relationships between folds in Triassic strata and dikes to south of Qiongjie County. (a) Structural map and (b) photo show a NE-striking $1 3 2 \mathrm { M a }$ diabase dike obliquely crosscutting the hinges of overturned syncline and anticline, which strike E-W.The age of the diabase dike is from Zhu et al. (2013). (c) Structural map and photo (d) show a gently north-dipping 123 Ma diabase dike cross-cutting limbs of an overturned anticline and syncline, which have southvergence. The dike age is from BYGS (2004).
+
+![](images/d3b69706de75526a74cff094a8ab21d4b624c16553ddf33a311b3b228193e804.jpg)  
+Figure 5. Relationships between folds in Jurassic and Cretaceous strata and dikes in the NE Himalaya. (a) Structural map and (b) photo show the E-W trending $1 3 3 \mathrm { { M a } }$ mafic dike obliquely cut the hinge of overturned anticline in Jurassic strata to west of Longzi County. The age of mafic dike is from Ao et al. (2018). (c) Structural map and (d) photo showing $1 3 3 \mathrm { M a }$ mafic dikes cross-cutting an open fold in Early Cretaceous Jiabula Formation near Zhegu Co, to south of Qiongjie County. (e) Photo shows the intrusive contact between Early Cretaceous strata and a mafic dike. The ages of the mafic dikes are from Zhu et al. (2O13). The relations demonstrate that the folds predate the intrusion of dikes in the NE Himalaya.
+
+In this paper, we define anticlinal fold limbs as north $( L _ { \mathrm { N } } )$ and south limbs $( L _ { \mathrm { S } } )$ , or east and west limbs as $L _ { \mathrm { E } }$ and $L _ { \mathrm { W } }$ ,respectively (Fig.2b). The axial surfaces $( A )$ are parallel with the axial-surface cleavages, or their orientation is estimated from the intersection of north and south limbs employing the $\beta$ -diagram method.
+
+Folds in Triassic strata have upright north limbs striking $4 5 \AA { - } 1 4 1 { \mathrm { ~ ‰ ~ } }$ ,and dipping northward $2 6 { - } 7 5 ^ { \circ }$ ; upright south limbs strike $5 0 { - } 1 3 7 ^ { \circ }$ and dip southward $6 5 { - } 9 0 { ^ \circ }$ . Overturned south limbs strike $5 0 { - } 1 4 5 ^ { \circ }$ and dip $3 2 { \cdot } 9 0 ^ { \circ }$ northward (Fig. 2b). Axial surfaces of all folds strike $6 0 { - } 1 3 8 ^ { \circ }$ with most $8 0 { - } 1 1 0 ^ { \circ }$ and dip northward $3 0 – 9 0 ^ { \circ }$ (Fig. 2b).
+
+North limbs of folds in Jurassic strata strike $9 0 - 1 4 5 ^ { \circ }$ and dip $0 { - } 7 5 ^ { \circ }$ northward; upright south limbs strike $9 0 – 1 2 6 ^ { \circ }$ and dip $5 0 - 7 5 ^ { \circ }$ southward, and overturned south limbs strike 100- $1 2 5 ^ { \circ }$ and dip $4 8 { - } 8 2 ^ { \circ }$ northward (Fig. 2b). Axial surfaces of these folds strike $9 8 \ – 1 3 4 ^ { \circ }$ with most $1 0 0 { - } 1 1 2 ^ { \circ }$ and dip $4 3 - 9 0 ^ { \circ }$ northward (Fig. 2b).
+
+Bedding in Early Cretaceous strata near Cona County has been transposed by north and south-dipping cleavage. In Zhegu Co some open and overturned folds have hundred-meter amplitudes (Fig. 5c). The open folds have upright north and south limbs striking $6 5 \substack { - 1 1 0 ^ { \circ } }$ and 70- （204号 $1 2 0 ^ { \circ }$ , respectively, and dipping northwards and southwards $2 7 - 5 5 ^ { \circ }$ and $4 5 - 5 5 ^ { \circ }$ , respectively (Fig. 2b). Their axial surfaces strike to $9 1 - 1 0 1 ^ { \circ }$ and with north to south dips of $7 6 { - } 8 5 ^ { \circ }$ (Fig. 2b). The overturned folds have upright north limbs striking $7 0 – 1 2 0 ^ { \circ }$ and dipping $2 4 { - } 5 8 ^ { \circ }$ northward; overturned south limbs strike $8 0 ^ { \circ }$ and dip $6 7 - 7 0 ^ { \circ }$ northward (Fig. 2b). The axial surfaces strike $8 0 - 1 0 0 ^ { \circ }$ and dip $5 0 – 6 0 ^ { \circ }$ northward (Fig. 2b).
+
+In summary,asymmetric folds in the NE Himalaya show south vergence with overturned south limbs and north-dipping axial planes,and E-W-trending axes (Fig. 2b).
+
+3.1.2Field relationships between folds and Early Cretaceous dikes
+
+In the NE Himalaya, abundant gabbroic intrusions, diabase/diorite dikes, basalt, andesite, dacite and rhyolite yield zircon U-Pb and $^ { 3 9 } \mathrm { A r ^ { 4 0 } A r }$ ages of 135.5-118 Ma and crop out in the area from Gyangze-Kangmar in west to Longzi county in east, and from Qiongjie county in north to Cona county in south (Fig.2a) (Ao et al., 2018; Wang et al.,2016b; Zhu et al., 2008,2013). Most mafic rocks have alkali affinity (Zhu et al., 2O13), and a few mafic, andesitic and silicic intrusions have SSZ-affinity (Ao et al., 2018; Wang et al., 2016b).
+
+In Triassic strata south of Qiongjie County, E-W trending hinges of the overturned folds have been obliquely cross-cut by a $1 3 2 \mathrm { M a }$ mafic dike (Zhu et al., 2013), which strikes $4 3 ^ { \circ }$ (Fig. 4a-b); both limbs of asymmetric folds were intruded by a shallowly-dipping $( 1 0 ^ { \circ } )$ and E-W striking $1 2 3 \mathrm { { M a } }$ diorite dike (BYGS, 2004), which is oriented parallel to fold hinges (Fig. 4c-d).
+
+In Jurassic strata west of Longzi County, WNW-ESE to E-W trending hinges and both limbs of asymmetric folds were obliquely cross-cut at low angle by a $1 3 3 \mathrm { M a }$ mafic dike (Ao et al., 2018), which strikes E-W and dips $6 6 ^ { \circ }$ north (Fig. 5a-b). In Cretaceous strata near Zhegu Co, both limbs of an open syncline have been cut by a shallowly-dipping $1 3 3 \mathrm { { M a } }$ diabase dike (Fig. 5c-d) (Zhu et al., 2013).
+
+Above relationships show that Early Cretaceous mafic-felsic dikes intrude the folds, demonstrating that the shortening recorded by these folds predates intrusion.
+
+# 3.2LateJurassic alkali mafic-ultramafic rocks
+
+More than $5 0 \mathrm { k m }$ south of the Indus-Yarlung suture, several-hundred-meter by ten-meter ultramafic-mafic rock bodies crop out within Triassic and Jurassic units in the Mt. Kala, Yumai and Liemai areas (Fig.2a, 6a) (BYGS, 2004). They include serpentinized pyroxenite, gabbro, diabase, and basaltic rocks.Most outcrops are in fault contact with host sediments.However, some massive gabbro and diabase grade into pillow basalt that is interbedded with sedimentary strata (Fig. 6b) or into basaltic dike-like intrusions a few centimeters (Liu et al.,202O) to several meters thick and tens of meters long that cut sedimentary bedding (Fig. 6b-c). Mafic rocks at Mt. Kala locally preserve original intrusive contacts with Triassic sandstone and siltstone (Fig. 6d).
+
+![](images/8b3008912b7ddcda30095b1614bc9efad775db8da58539ae20e7be8059f0c2fe.jpg)  
+Figure 6. Relationships between Late Jurassic mafic-ultramafic rocks and Triassic turbidite in Mt. Kala. The location is marked in Fig.2a. (a) Satellite image of Mt. Kala shows the locations of serpentinite, peridotite, mafic dike and Triassc sandstone and siltstone. The white cover is snow, and satellite image is from Google maps. (b) Thick mafic dike intruding the Triassic sandstone and siltstone. (c) Relationships between serpentinite, peridotite, mafic rocks and Triassic strata. The ultramafic rocks underwent alteration, and local outcrops preserve the intrusive contact between the mafic dikes and the bedding (d). Photo showing location of dated mafic dike sample 16ZN38.
+
+![](images/e2fd38f4dff6c884071eda7d4ed1e084fe58a20f9ebab106fa28519ba40f600d.jpg)  
+Figure 7. (a) $\mathrm { N b } / \mathrm { Y } { - } Z \mathrm { r } / \mathrm { T i O } 2 { \times } 0 . 0 0 0 1$ diagram of the mafic rocks from Mt. Kala (Winchester & Floyd,1977). (b) Primitive mantle-normalized REE patterns and (c) N-MORB-normalized spider diagrams of incompatible elements of mafic rocks in Mt. Kala. Primitive mantle and NMORB values from Sun & McDonough (1989).(d) SIMS baddeleyite U-Pb age of gabbro from Mt. Kala mafic-ultramafic rock body.
+
+The mafic rocks have consistent content of $\mathrm { S i O } _ { 2 }$ 1 $( 4 5 . 4 4 - 4 9 . 6 2 \mathrm { w t \% } )$ ， $\mathrm { T i O } _ { 2 }$ (1.85-2.18 $w t \%$ ), ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ ( $1 4 . 5 7 { - } 1 5 . 3 6 \mathrm { w t \% }$ and $\mathbf { M g O }$ 0 $5 . 3 0 { - } 6 . 8 4 ~ \mathrm { w t \% } )$ (Table S2). They plot in the alkali basalt field on the $\mathrm { N b } / \mathrm { Y } { - } Z \mathrm { r } / \mathrm { T i O } _ { 2 }$ diagram (Fig. 7a). Primitive mantle-normalized diagram of trace elements shows they are enriched in LREEs (Fig.7b) and N-MORB normalized spider diagram of incompatible elements presents that there have no anomalies of high-field strength elements (such as $\mathsf { N b }$ ， Ta) (Fig. 7c). These data suggest that the mafic rocks were products of alkali magmatism.
+
+Zircons from a massive basaltic dike in the Yumai area share similar age populations as those of host Triassic sediments indicative of inherited zircons (Liu et al.,202O). Baddeleyite, in contrast, more likely crystallized in the magma chamber of the mafic rocks. Baddeleyites from a gabbro (sample 16ZN38) at Mt.Kala (Figs. 6a, c) are euhedral with sizes of $4 0 { - } 6 0 ~ \mu \mathrm { m }$ (Fig. S3). They yielded a U-Pb age of $1 5 2 . 8 \pm 4 . 2$ Ma $\mathrm { M S W D } = 1 . 3$ , total 23 grains) (Fig. 7d) dated by Cameca SIMS-1280 at IGGCAS in Beijing (China).
+
+# 4.1 Early Cretaceous contractional deformation
+
+Hinges of folds in Triassic, Jurassic and Early Cretaceous strata in the NE Himalaya trend E-W (Fig 2b), indicating N-S shortening.The hinge and limbs of these folds have been cut by 135-118 Ma dikes of gabbro, basaltic and andesitic,dacite and rhyolite (Figs.3-5) (Chen et al.,2018; Wang et al.,2016b; Zhu et al.,2008,2013), demonstrating that shortening in Longzi area predates these dikes. The folds involving youngest strata are the Valanginian-Albian Jiabula and Lakang Formations, which contain Valanginian-Albian Olcostephanus cf. schenki, $O$ madagascriensis,and Proleymerella sp. (Fig. 2a) (BYGS,2004). These data show that the Longzi block in NE Himalaya underwent contractional deformation during the Early Cretaceous.
+
+Some researchers indirectly assumed a ${ \sim } 1 3 0$ Ma break-up of the northern margin of Indian plate, which contains the Longzi block, based on occurrence of OIB-affinity mafic rocks (Fig. lc) (Zhu et al., 2O13). However, such a scenario should have generated ca. $1 3 0 \mathrm { M a }$ （204号 extensional structures, in contrast with the shortening of that age recorded in the Longzi block.
+
+The Early Cretaceous shortening of Longzi block shows that it was not part of a passive continental margin of East Gondwana that time (Fig. 8). This suggests that the Longzi block had drifted away from East Gondwana continent before the Early Cretaceous (Figs.8, 9c). The contractional deformation, consistent with diagnostic feature iin the Introduction section (Table 1), is not recorded in the northern margin of Indian plate and took place long before the terminal Cenozoic collision between the Indian-Asian plates (Aitchison et al., 20oo; Gibbons et al., 2015; van Hinsbergen et al.,2012; Yin & Harrison, 2000).
+
+120 130 140 150 160Age (Ma) EarlyCretaceous LateJurassic J2 J1 Tr3 Tr2 ★ ★ dikewith negative εNd(t)or $\pmb { \varepsilon } \mathsf { H } ( t )$ K paleocurrent eraaihsrhiepae folded strata   
+1ngggn5gh EarlyCretaceousdikes Contractional NWAustraliaaffinity deformation Weimeiconglomerate:Indian plateaffinity (this study) mafic dike (16ZN38: alkali magmatism, this study) diabase (MORB-type)and trachyandesitic (OIB-type) dike drasticchangesinsedimentation fromoffshoreto deltaictoshelf parallel unconformity angularunconformity SSIZ Zedang-Kohistan-Ladakhmagmaticrocks:   
+Nnneosenieeen intra-oceanic Trans-Tethyanarc SSZ-type Indus-Yarlungophiolite ZS人I amphibolitesatSaga,BainangandLuobusa:metamorphicsole chertandsiltstone RBP chert in ophioiertnditsone   
+uUIpu rrleeet LeH261P Leg765 Aealeit uncanf2rmityandimpidsubsidencewith North Carnarvon Basin subduction Riftingof pre-155Ma: andcollision Argoland East Gondwana-affinity   
+sandstone $\boxed { 1 } \boxed { 1 }$ siltstone and mudstone conglomerate Middle-Late Triasssicdike Late Jurassic dike EarlyCretaceousdike Sparallel/angularunconformity
+
+3 Table 1. Comparison between three theoretical diagnostic features for a Late Mesozoic separated 4 block and facts in NE Himalaya, NE Indian Ocean and NW Australia   
+
+<html><body><table><tr><td>Evidence</td><td></td><td>References</td></tr><tr><td colspan="2">Stage I: Pre-155 Ma: East Gondwana affinity (Feature i)</td><td></td></tr><tr><td>Triassic and Early Cretaceous dikes</td><td>Negative εNd(t) (-13.4 - -0.1) -£Hf(t) (-24.2 - -0.1): a fragment of continental sliver</td><td>[1-3]</td></tr><tr><td rowspan="2">Late Triassic turbidite (NW Australia affinity)</td><td>NW,NE,E-W-directed paleocurrent (crossbedding)</td><td>[4,5]</td></tr><tr><td>peaks of 1250-900 and 750-450 Ma detrital zircons,and 400-200 Ma magmatic zircons with εHf(t) values of -10 -+14 correlate with those from the North Carnarvon Basin,NW Australia</td><td>[2, 6-8]</td></tr><tr><td>Late Jurassic conglomerate (Indian</td><td>NNE-directed paleocurrent (cross bedding) 95% quartzite pebbles and detrital zircon peaks of 55O and 950 Ma</td><td>[9]</td></tr><tr><td>affinity) Paleomagnetism</td><td>Triassic strata (Thakkhola): ca. 29.9oS, close to paleomagnetic</td><td>[10]</td></tr><tr><td>Stage II: 155-152 Ma: Rifting of Argoland</td><td>reference frame of Indian APWP</td><td></td></tr><tr><td colspan="2">Longzi block and</td><td></td></tr><tr><td rowspan="3">TethysHimalaya: (Feature ii) Late Jurassic extension</td><td>152.8Ma alkaline magmatism in Mt.Kala</td><td>This study</td></tr><tr><td>147 Ma trachyandensitic (OIB-type) dike and 145 Ma diabase (MORB- type) dike</td><td>[11, 12]</td></tr><tr><td>Thakkhola Graben and Nyalam: drastic changes in sedimentation from offshore to deltaic to shelf in Late Jurassic</td><td>[13]</td></tr><tr><td>NE Indian Ocean NW Australia</td><td>152-155 Ma (Leg 261,Leg 765,CHRISP) major unconformity (Callovian/Oxfordian); Rapid subsidence during</td><td>[14-16]</td></tr><tr><td rowspan="2"></td><td>the Tithonian (ca.150 Ma)</td><td>[17]</td></tr><tr><td>escarpment was rapidly and locally buried with l200 m sediments by the end of the Callovian</td><td>[18]</td></tr><tr><td colspan="2">Stage II: ca. 130 Ma: Subduction and collision</td><td></td></tr><tr><td rowspan="3">Longzi block: post- rifting and pre-final collisional contractional deformation (Feature iii)</td><td>Contractional deformation: asymmetric folds in Triassic, Jurassic and</td><td>This study</td></tr><tr><td>Early Cretaceous strata, which are cut by Early Cretaceous dikes Early Cretaceous dikes:135-118 Ma</td><td>[3,12,19,</td></tr><tr><td>SSZ-affinity mafic dikes,andesite and silicic intrusions</td><td>20] [3,21]</td></tr><tr><td rowspan="3">Neo-Tethys Ocean (an initiation of subduction)</td><td>SSZ-type ophiolites:119-134 Ma</td><td>[22-25]</td></tr><tr><td>Amphibolites:metamorphic sole:123-135 Ma</td><td>[26-28]</td></tr><tr><td>Zedang/Trans-Tethyan subduction system:133-136 Ma,152-163 Ma</td><td>[29-31]</td></tr></table></body></html>
+
+305 References: (1) Huang et al., 2018; (2) Liu et al., 2020; (3) Wang et al.,2016b; (4) Li et al.,   
+306 2003; (5) Zhang et al., 2019; (6) Cai et al., 2016; (7) Lewis & Sircombe,2013; (8) Wang et al.,   
+307 2016a; (9) Pan,2018; (10) Klootwijk & Bingham,1980; (11) Shi et al.,2018; (12) Zhu et al.,   
+308 2008; (13) Garzanti, 1999; (14) Gibbons et al.,2012; (15) Heine & Mullr,2005; (16) Veevers et   
+309 al.,1991; (17) Gradstein, 1992; (18) Veenstra,1985; (19) Zhu et al.,2009; (20) Chen et al.,   
+310 2018; (21) Ao et al.,2018; (22) Dai et al., 2013; (23) Hebert et al.,2012; (24) Zhang et al.,   
+311 2016b; (25) Xiong et al., 2016; (26) Guilmette et al.,2009; (27) Guilmette et al., 2012; (28)   
+312 Zhang et al., 2016a; (29) Buckman et al.,2018; (30) McDermid et al., 2002; (31) Zhang et al.,   
+313 2014.
+
+# 4.2 Late Jurassic rifting of the Longzi block
+
+316 Geochemistry of mafic-ultramafic rocks in the Longzi block and their intrusive contacts   
+317 with host clastic sediments (Figs. 6b-d, 7b) (also Liu et al.,2020) show they are Late Jurassic
+
+alkali intrusions,rather than ophiolites representing suture zones within the Longzi block (Ao et al., 2018; Liu et al., 2020).
+
+In the Himalaya, the thickness of Late Jurassic strata varies over short distances from a few tens to some hundred meters (Yin & Wan, 1996). They record a transition from offshore shales to local deltaic siliciclastics in the Tithonian-Berriasian; paleo-depth and environments progressively change from shelf to pelagic in the Valanginian-Albian, suggesting development of horst-and-graben structure related to the onset extensional tectonics (Garzanti,1999; Yin & Wan, 1996).
+
+The sedimentary succession and alkali magmatism collectively suggest that Late Jurassic rifting and extension is recorded in the rocks of the Longzi block (Figs. 8, 9b). These features fulfill the diagnostic feature ii mentioned in Introduction section (Table 1).
+
+pre-155Ma A D155\~152 Ma B' G136\~123Ma C' Neo-Tethys Ocean ZTSS Neo-Tethys Ocean Zedang Neo-Tethys Ocean ZTSS subduction zone Longzi Block Longzi Block Argoland Argoland   
+India India rifting B Longzi Block ? North Indian Ocean NCB CHRISP NCB AAP India CHRISP East Gondwana EastGondwana -AAP 以 W Australia B Australia riftingy NCB Australia   
+Gonawana Neo-Tetys Gonawana Argoland Neo-tethys Indian North Argoland Neo-Tethys   
+A Argoland ZTSS A B NCB Longzi ZTSS B' C Ocean Zerdang C NCB Longzi Block AAP AAP Longzi Block   
+☆metamorphic sole sSZ-type ophiolites subduction zone fold AAP:ArgoAbyssalPlain;NCB:NorthCarnarvonBasin fault +rift fossil subduction zone ZTSS:Zedang/Trans-Tethyan subduction system
+
+# 4.3.1 Pre-155 Ma East Gondwana-affinity
+
+Above relationships show that the Longzi block rifted from its host continent in Late Jurassic. The Mid-Late Triassic and Early Cretaceous dikes have negative $\mathtt { \varepsilon _ { N d } } ( t ) ( - 1 3 . 4 \mathrm { - } . 0 . 1 )$ （204号 and $\varepsilon _ { \mathrm { H f } } ( t )$ (-24.2 - -O.1) (Fig. 2a, Table 1), demonstrating that the Longzi block contains a basement of continental sliver, at odds with interpretation of this block as an accretionary complex (Ao et al., 2018).
+
+Cross-bedding in Triassic strata record NW, NE and E-W directed paleocurrent (Figs. 2a, 8) (Li et al., 2003; Zhang et al., 2019). Detrital zircons with 1250-900 and $7 5 0 – 4 5 0 \mathrm { M a }$ ,and 400- $2 0 0 \mathrm { M a }$ magmatic age peaks and $\mathtt { \ E H f } ( t )$ values of $- 1 0 - + 1 4$ correlate with those from the North Carnarvon Basin (Lewis & Sircombe, 2O13), suggesting that the Triassic strata have NW Australia affinity (Table 1) (Cai et al.,2016; Liu et al., 2020; Wang et al., 2016a). The Late Jurassic conglomerates have NNE-directed paleocurrent (based on cross bedding) (Figs. 1b, 8) and Indian-derived $9 5 \%$ quartzite pebbles and detrital zircon peaks of 55O and $9 5 0 \mathrm { M a }$ (Pan, 2018).The above relationships show that the Longzi block in NE Himalaya was attached to East Gondwana before $1 5 5 \mathrm { { M a } }$ , which accords with paleomagnetic data in Triassic strata (Fig. 9a, Table 1) (Klootwijk & Bingham,1980).
+
+# 4.3.2 Late Jurassic breakup from East Gondwana as a westernmost Argoland
+
+The Neo-Tethys Ocean suture zone is represented by the Yarlung belt and eastern IndoBurma Range (Fig. 1b)(Aitchison et al., 2019). Middle Jurassic cherts from Indo-Burma Range ophiolitic melanges (Aitchison et al.,2019; Zhang et al., 2018),and Late Anisian-Carnian chert and siltstone from Zedang City (Chen et al.,2O19) and eastern Indo-Burma Range (Figs.1b, 8) (Zhang et al., 2018) indicate Neotethyan spreading off of East Gondwana before the Middle-Late Triassic; the Longzi block was still attached East Gondwana at this time (Fig. 9a, Table 1).
+
+Early Cretaceous contractional deformation suggests that the Longzi block had drifted away from its host East Gondwana which was a passive continental margin before that time (Fig. 8); Late Jurasic rapid changes of water depth of sedimentation (Yin & Wan,1996) and alkali and MORB-type magmatism (Shi et al., 2018; Zhu et al., 2008 and this study) record extension and the rifting and drifting of the Longzi block between Late Jurassic and Early Cretaceous time (Figs. 8, 9b). Tithonian extension along northern margin of Indian plate (Figs.1b, 8)(Garzanti, 1999; Yin & Wan,1996) and 152-155 Ma NE Indian Ocean crust in the Argo Abyssal Plain and at CHRISP (Figs.1a, 8) (Gibbons et al., 2012; Heine & Muller, 2005; Veevers et al.,1991; Zahirovic et al., 2016) are additional supporting evidence indicating that the Longzi block separated from East Gondwana in the Late Jurassic (Fig. 9b).
+
+The extension and rifting was coeval with the development of an escarpment with 1200 m of sediments offshore of NW Australia that formed by faulting in Callovian to Upper Jurassic time (Table 1) (Gradstein,1992; Veenstra,1985). This faulting was associated with Late Jurassic break-up of the East Gondwana to generate Argoland fragments derived from northwest Australia that dispersed to various locations in SE Asia, such as Indo-Burma Range, West Sulawesi, SW Borneo, East Java and Woyla arc (Fig.la) (Advokaat et al., 2O18; Metcalfe, 2011; Zahirovic et al., 2016). The geologic evidence summarized above fulfills the three diagnostic
+
+features in the Introduction section and suggests that the Longzi block, separated from East Gondwana, was the westernmost Argoland (Fig. 9b).
+
+Our model confirms the Longzi block of the NE Himalaya as a continental sliver. This demonstrates an archipelagic framework between the Indian and Eurasian plates since the Late Jurassic (Fig. 9b), and strengthens the similarity between inferred Neotethyan realm and its unclosed southeastern continuation in the SW Pacific region between SE Asia and Australia (Hall, 2012). It is in contrast to models proposing that the rifting and drifting of Tibetan Himalayan from Indian plate began at $1 1 8 \mathrm { M a }$ (van Hinsbergen et al., 2012,2019; Yuan et al.,2020), or the break-up of Indian-Australian plates at ca. $1 3 0 \mathrm { M a }$ (Fig.1c) (Harry et al., 2020; Zhu et al., 2007). Our model also contrasts with previous models that propose that a single Neo-Tethys Ocean, represented by Yarlung ophiolitic belt, separated the Indian-affinity Tibetan Himalaya from the Eurasian plate (e.g., Yin & Harrison, 20oo; Zhu et al., 2013).
+
+# 4.4Early Cretaceous collision in the NE Himalaya and Effects on East Asia
+
+In the Early Cretaceous, the Longzi block was located at $5 5 . 4 ^ { \circ } \mathrm { S }$ , and remained at a latitude similar to the Indian plate until 118-75 Ma as suggested by paleomagnetic data (Fig. 9c) (van Hinsbergen et al.,2012, 2019; Yuan et al.,2020). The paleolatitude taken in concert with the geological evidence presented herein suggests that the Longzi block was longitudinally separated from the East Gondwana by the North Indian Ocean (Fig. 9c) (Yuan et al., 2020).
+
+Early Cretaceous igneous rocks in the NE Himalaya with SSZ affinity (Wang et al., 2016b), such as some mafic dikes,the andesite and silicic intrusions (Ao et al.,2O18) support a subduction-collision model. The asymmetric folds in the NE Himalaya have southward vergence suggesting they were formed by top-to-south shear (Figs. 2b,3-5). These facts are better explained by collision of the Longzi block with a N-dipping intra-oceanic subduction zone located north of it (Fig. 9c), which would be the Trans-Tethyan subduction zone (Aitchison et al., 2000; Jagoutz et al., 2015) that began at least since l63-152 Ma at the Zedang area, and continued to 133-136 Ma (Figs. 8, 9) (Buckman et al.,2018; McDermid et al.,2002; Zhang et al., 2014).
+
+Such an Early Cretaceous collision triggered an initiation of subduction north of the Trans-Tethyan intra-oceanic arc in the Neo-Tethys Ocean (Fig. 9c). The initial subduction generated the 135-123 Ma metamorphic sole in the Saga and Luobusa areas (Figs. 8, 9c) (Guilmete et al.,2009,2012; Zhang et al.,2016a), and 119-134 Ma supra-subduction zone-type ophiolites along Yarlung ophiolitic belt (Dai et al., 2013; Hebert et al.,2012; Xiong et al., 2016; Zhang et al., 2016b).
+
+The archipelagic configuration containing the Longzi continental sliver, the westernmost fragment of Argoland from ca. 155-152 Ma,and the Early Cretaceous collision between Longzi block and Trans-Tethyan subduction system explain the key features of previous models, and also extends our understanding of the Neotethyan architecture in SE Asia during Late JurassicEarly Cretaceous.
+
+This third continental sliver in NE Himalaya independently collided with Indian and Eurasian plates in Cenozoic, confirming the two-stage Cenozoic Indian-Eurasian collision (Gibbons et al., 2015; Jagoutz et al.,2015; van Hinsbergen et al.,2012,2019; Yuan et al., 2020).
+
+# 5 Conclusions
+
+Based on our detailed field mapping, structural, geochemical and geochronological analyses,integrated with published data, we draw the following conclusions:
+
+(1) The mafic-ultramafic rocks in Mt. Kala intrude Triassic strata, and contain $1 5 2 . 8 \mathrm { M a }$ gabbro and alkaline mafic dikes. Combined with angular unconformity in Thakkhola Graben and Nyalam, these relationships demonstrate Late Jurassic extension in NE Himalaya. This was coeval with the opening of the NE Indian Ocean and the rifting of the NW Australia, suggesting that the Longzi block in NE Himalaya rifted and drifted as a fragment of Argoland from East Gondwana at 155-152 Ma.
+
+(2) In the NE Himalaya, buckle folds in Triassic, Jurassic and Early Cretaceous strata include asymmetric, overturned, isoclinal and open folds that have south vergence with E-Wtrending hinges. These folds were cross-cut by 135-118 Ma dikes, recording Early Cretaceous contractional deformation in southern Tibet.
+
+(3) The Longzi block collided with a Trans-Tethyan oceanic subduction system in the Early Cretaceous,long before final onset of the Indian-Eurasian collision, to generate the southvergence contractional structures in NE Himalaya. This collisional event was approximately coeval with development of metamorphic soles beneath SSZ-type ophiolites to north of the Trans-Tethyan intra-oceanic arc along Yarlung suture zone.
+
+# Acknowledgments
+
+We thank Douwe J.J. van Hinsbergen for constructive discussion on Argoland.Dr. Fulong Cai is thanked for discussion on the tectonic evolution of south Tibet. Dr. Zhenyu Chen and Shuaihua Song are thanked for field assistance. This work has been supported by the Strategic Pririty Research Program (B) of CAS (XDB18030103), the NSFC (41888101) and the National Key R & D Program of China (2017YFC0601206).
+
+# References
+
+Advokaat, E.L., M. L. M. Bongers, A. Rudyawan, M. K. BouDagher-Fadel, C. G. Langereis,   
+and D. J. J. van Hinsbergen (2018), Early Cretaceous origin of the Woyla Arc (Sumatra,   
+450 Indonesia) on the Australian plate, Earth and Planetary Science Letters, 498, 348-361,   
+451 doi:10.1016/j.epsl.2018.07.001   
+452 Aitchison, J. C., et al. (2019), Tectonic Evolution of the Western Margin of the Burma   
+453 Microplate Based on New Fossil and Radiometric Age Constraints, Tectonics,38,1718-1741,   
+454 doi:10.1029/2018tc005049   
+455 Aitchison, J. C., Badengzhu, A. M. Davis, J. Liu, H. Luo, J. G. Malpas, I. R. C. McDermid, H.   
+456 Wu, S. V. Ziabrev, and M.-f. Zhou (2ooo), Remnants of a Cretaceous intra-oceanic subduction   
+457 system within the Yarlung-Zangbo suture (southern Tibet), Earth and Planetary Science Letters.   
+458 183(1), 231-244, doi:10.1016/S0012-821X(00)00287-9   
+459 Ao, S., W. Xiao, B.F. Windley, J. E. Zhang, Z. Zhang,and L. Yang (2018), Components and   
+460 structures of the eastern Tethyan Himalayan Sequence in SW China: Not a passive margin shelf   
+461 but a melange accretionary prism, Geological Journal, 53, 2665-2689, doi:10.1002/gj.3103   
+462 Buckman, S., J. C. Aitchison, A. P. Nutman, V. C. Bennett, W. M. Saktura, J. M. J. Walsh, S.   
+463 Kachovich,and H. Hidaka (2018), The Spongtang Massif in Ladakh, NW Himalaya: An Early   
+464 Cretaceous record of spontaneous, intra-oceanic subduction initiation in the Neotethys,   
+465 Gondwana Research, 63, 226-249, doi:10.1016/j.gr.2018.07.003   
+466 BYGS (2004), Introduction on Geological map of Longzi County (1:250000: Bureau of Yunnan   
+467 Geological Survey). pp270 (in Chinese)   
+468 Cai, F.,L. Ding, A. K. Laskowski, P. Kapp, H. Wang, Q. Xu, and L. Zhang (2016), Late Triassic   
+469 paleogeographic reconstruction along the Neo-Tethyan Ocean margins, southern Tibet, Earth   
+470 and Planetary Science Letters, 435,105-114, doi:10.1016/j.epsl.2015.12.027   
+471 Chen, D. S., H. Luo, X. H. Wang, B. Xu, and A. Matsuoka (2019), Late Anisian radiolarian   
+472 assemblages from the Yarlung-Tsangpo Suture Zone in the Jinlu area, Zedong,southern Tibet:   
+473 Implications for the evolution of Neotethys, Island Arc,28(4), e12302, doi:10.1111/iar.12302   
+474 Chen, S. S., W. M. Fan, R. D. Shi, X. H. Liu, and X. J. Zhou (2018), 118-115 Ma magmatism in   
+475 the Tethyan Himalaya igneous province: Constraints on Early Cretaceous rifting of the northern   
+476 margin of Greater India, Earth and Planetary Science Letters, 491, 21-33,   
+477 doi:10.1016/j.epsl.2018.03.034   
+478 Dai, J. G., C. S. Wang, A. Polat, M. Santosh, Y.L.Li,and Y. K. Ge (2013), Rapid forearc   
+479 spreading between 130 and 12oMa: Evidence from geochronology and geochemistry of the   
+480 Xigaze ophiolite, southern Tibet, Lithos,172-173,1-16, doi:10.1016/j.lithos.2013.03.011   
+481 Garzanti, E. (1999), Stratigraphy and sedimentary history of the Nepal Tethys Himalaya passive   
+482 margin, Journal of Asian Earth Sciences,17(5), 805-827, doi:10.1016/S1367-9120(99)00017-6   
+483 Gibbons, A. D., U. Barckhausen, P. van den Bogaard, K. Hoernle, R. Werner, J. M. Whittaker,   
+484 and R.D.Muller (2Ol2), Constraining the Jurassic extent of Greater India: Tectonic evolution of   
+485 the West Australian margin, Geochemistry, Geophysics, Geosystems, 13(5),   
+486 doi:10.1029/2011gc003919   
+487 Gibbons, A. D., S. Zahirovic,R.D. Muller, J. M. Whittaker, and V. Yatheesh (2015), A tectonic   
+488 model reconciling evidence for the collisions between India, Eurasia and intra-oceanic arcs of the   
+489 central-eastern Tethys, Gondwana Research, 28(2), 451-492, doi:10.1016/j.gr.2015.01.001   
+490 Gradstein,F.M. (1992), Leg 122-123, northwestern Australian margin; A stratigraphic and   
+491 paleogeographic summary, Proceedings of Ocean Drilling Program, Scientific Results, 123, 801-   
+492 816   
+493 Guilmette, C., R. Hebert, J. Dostal, A. Indares, T. Ullrich, E. Bédard, and C. Wang (2012),   
+494 Discovery of a dismembered metamorphic sole in the Saga ophiolitic mélange, South Tibet:   
+495 Assessing an Early Cretaceous disruption of the Neo-Tethyan supra-subduction zone and   
+496 consequences on basin closing, Gondwana Research, 22(2), 398-414,   
+497 doi:10.1016/j.gr.2011.10.012   
+498 Guilmette, C., R. Hebert, C. Wang, and M. Villeneuve (2009), Geochemistry and geochronology   
+499 of the metamorphic sole underlying the Xigaze Ophiolite, Yarlung Zangbo Suture Zone, South   
+500 Tibet, Lithos, 112(1), 149-162, doi:10.1016/j.lithos.2009.05.027   
+501 Hall,R. (2Ol2),Late Jurassic-Cenozoic reconstructions of the Indonesian region and the Indian   
+502 Ocean, Tectonophysics, 570, 1-41   
+503 Harry,D.L., et al. (2020), Evolution of the Southwest Australian Rifted Continental Margin   
+504 During Breakup of East Gondwana: Results From International Ocean Discovery Program   
+505 Expedition 369, Geochemistry, Geophysics, Geosystems, 21(12), e2020GC009144,   
+506 doi:10.1029/2020GC009144   
+507 Hebert, R., R. Bezard, C. Guilmette, J. Dostal, C. S. Wang, and Z. F.Liu (2012), The Indus  
+508 Yarlung Zangbo ophiolites from Nanga Parbat to Namche Barwa syntaxes, southern Tibet: First   
+509 synthesis of petrology, geochemistry, and geochronology with incidences on geodynamic   
+510 reconstructions of Neo-Tethys, Gondwana Research, 22(2), 377-397   
+511 Heine, C.,and R.D. Muller (20o5),Late Jurassc rifting along the Australian North West Shelf:   
+512 margin geometry and spreading ridge configuration, Australian Journal of Earth Sciences, 52(1),   
+513 27-39   
+514 Huang, Y., H. W. Cao, G. M. Li, S. M. Brueckner, Z. Zhang,L. Dong, Z. W. Dai, L. Lu, and Y.   
+515 B. Li (2018), Middle-Late Triassic bimodal intrusive rocks from the Tethyan Himalaya in South   
+516 Tibet: Geochronology, petrogenesis and tectonic implications, Lithos,318-319, 78-90,   
+517 doi:10.1016/j.lithos.2018.08.002   
+518 Jagoutz, O., L. Royden, A. F. Holt, and T. W. Becker (2015), Anomalously fast convergence of   
+519 India and Eurasia caused by double subduction, Nature Geoscience, 8(6), 475-478,   
+520 doi:10.1038/nge02418   
+521 Klootwijk, C. T., and D. K. Bingham (1980), The extent of greater India, I1. Palaeomagnetic   
+522 data from the Tibetan Sedimentary series, Thakkhola region, Nepal Himalaya, Earth and   
+523 Planetary Science Letters,51(2), 381-405, doi:10.1016/0012-821X(80)90219-8   
+524 Lewis, C.,and K. Sircombe (2013), Use of U-Pb geochronology to delineate provenance of   
+525 North West Shelf Sediments, Australia, in West Australian Basins Symposium (WABS) 2013,   
+526 edited by M. Keep and S. J. Moss, Perth Convention & Exhibition Centre, Perth WA, pp. 1-27   
+527 Li, X. H., Q. G. Zeng, and C. S. Wang (20o3), Palaeocurrent data: evidence for the source of the   
+528 Langjiexue Group in southern Tibet, Geological Review, 49(2),132-137 (in Chinese with   
+529 English abstract)   
+530 Liu, Y. M., J. G. Dai, C. S. Wang, H. A. Li, Q. Wang, and L.L. Zhang (2020), Provenance and   
+531 tectonic seting of Upper Triassic turbidites in the eastern Tethyan Himalaya: Implications for   
+532 early-stage evolution of the Neo-Tethys, Earth-Science Reviews, 200, 103030,   
+533 doi:10.1016/j.earscirev.2019.103030   
+534 McDermid, I. R. C., J. C. Aitchison, A. M. Davis,T. M. Harrison, and M. Grove (2002), The   
+535 Zedong terrane: a Late Jurassic intra-oceanic magmatic arc within the Yarlung-Tsangpo suture   
+536 zone, southeastern Tibet, Chemical Geology, 187,267-277   
+537 Metcalfe, I. (2O11), Tectonic framework and Phanerozoic evolution of Sundaland, Gondwana   
+538 Research,19, 3-21   
+539 Pan, W. Y. (2018), The sedimentary features and paleogeographic implication of the Late   
+540 Jurassic quartz sandstones in Tethys Himalaya of southern Tibet. Master degree. China   
+541 University of Geosciences (Beijing).1-66 (in Chinese with English abstract) pp   
+542 Searle,M. P.,and P. J. Treloar (2O19), Introduction to Himalayan tectonics: a modern synthesis,   
+543 Geological Society, London, Special Publications, 483(1), 1-17, doi:10.1144/sp483-2019-20   
+544 Shi, Y. R., C. Y. Hou, J. L. Anderson, T. S. Yang, Y.M. Ma, W. W. Bian, and J. J. Jin (2018),   
+545 Zircon SHRIMP U-Pb age of Late Jurassic OIB-type volcanic rocks from the Tethyan   
+546 Himalaya: constraints on the initial activity time of the Kerguelen mantle plume, Acta   
+547 Geochimica, 37(3), 441-455, doi:10.1007/s11631-017-0239-2   
+548 Sun, S. S., and W.F. McDonough (1989), Chemical and isotopic systematic of oceanic basalt:   
+549 implication for mantle composition and processes, in Magmatism in the Oceanic Basins.   
+550 Geological Society ofLondon, Special publications 42, edited by A. D. Saunders and M. J.   
+551 Norry, pp. 313-346   
+552 Van Hinsbergen, D. J. J.,P. C. Lippert, G. Dupont-Nivet, N. McQuarrie,P. V. Doubrovine, W.   
+553 Spakman,and T. H. Torsvik (2012), Greater India Basin hypothesis and a two-stage Cenozoic   
+554 collision between India and Asia, Proceedings of the National Academy of Sciences,109(20),   
+555 7659-7664,doi:10.1073/pnas.1117262109   
+556 van Hinsbergen, D. J. J., P. C. Lippert, S. Li, W. Huang, E.L. Advokaat, and W. Spakman   
+557 (2019), Reconstructing Greater India: Paleogeographic, kinematic, and geodynamic perspectives,   
+558 Tectonophysics, 760, 69-94, doi:10.1016/j.tecto.2018.04.006   
+559 Veenstra,E. (1985), Rift and drift in the Dampier sub-basin, a seismic and structural   
+560 interpretation, The APPEA Journal, 25(1),177-189, doi:10.1071/AJ84016   
+561 Veevers, J. J., C. M. Powel, and S. R. Roots (1991), Review of seafloor spreading around   
+562 Australia.I. Synthesis of the patterns of spreading, Australian Journal of Earth Sciences, 38(4),   
+563 373-389   
+564 Wang, J. G., F. Y. Wu, E. Garzanti, X. M. Hu, W. Q. Ji, Z. C. Liu, and X. C. Liu (2016a), Upper   
+565 Triassic turbidites of the northern Tethyan Himalaya (Langjiexue Group): The terminal of a   
+566 sediment-routing system sourced in the Gondwanide Orogen, Gondwana Research, 34, 84-98,   
+567 doi:10.1016/j.gr.2016.03.005   
+568 Wang,Y. Y.,L.E. Guo,L. S. Zeng,F. K. Chen, K. J. Hou, Q. Wang,L.H. Zhao, and J. H. Guo   
+569 (2016b), Multiple phases of cretaceous magic magmatism in the Gyangze-Kangma area (Tethyan   
+570 Himalaya) southern Tibet, Acta Petrologica Sinica, 32(12), 3572-3596 (in Chinese with English   
+571 abstract)   
+572 Winchester, J. A., and P.A. Floyd (1977), Geochemical discrimination of different magma series   
+573 and their differentiation products using immobile elements, Chemical Geology,20,325-343   
+574 Xiong, Q., W. L. Griffin, J.-P. Zheng, S. Y. O'Reilly, N. J. Pearson, B. Xu, and E. A. Belousova   
+575 (2016), Southward trench migration at \~130-120 Ma caused accretion of the Neo-Tethyan   
+576 forearc lithosphere in Tibetan ophiolites, Earth and Planetary Science Letters, 438, 57-65,   
+577 doi:10.1016/j.epsl.2016.01.014   
+578 Yao, W., L. Ding, F. L. Cai, H. Q. Wang, Q. Xu, and T. Zaw (2017), Origin and tectonic   
+579 evolution of upper Triassic Turbidites in the Indo-Burma Ranges, West Myanmar,   
+580 Tectonophysics, 721, 90-105   
+581 Yin, A., and T. M. Harrison (20o0), Geologic evolution of the Himalayan-Tibetan orogen,   
+582 Annual Reviews of Earth and Planetary Sciences, 28,211-280   
+583 Yin, J. R., and X. Q. Wan (1996), Jurassic ammonite morphotypes as water-depth indicator of   
+584 Tethys-Himalaya sea, Acta Palaeontologica Sinica, 35(6), 734-751 (in Chinese with English
+
+JoJ abstract) 586 Yuan, J., et al. (2O2O), Rapid drift of the Tethyan Himalaya terrane before two-stage India-Asia 587 collision, National Science Review, doi:10.1o93/nsr/nwaa173 588 Zahirovic, S., K. J. Mathews, N. Flament, R. D. Muller, K. C. Hill, M. Seton, and M. Gurnis 589 (2016), Tectonic evolution and deep mantle structure of the eastern Tethys since the latest 590 Jurassic, Earth-Science Reviews, 162, 293-337, doi:10.1016/j.earscirev.2016.09.005 591 Zhang, B. S., Y. S. Wei, E. Garzanti, C. S. Wang, X. Chen, W. Y. Pan, and Q. S. Liu (2019), 592 Sedimentologic and stratigraphic constraints on the orientation of the Late Triassic northern 593 Indian passive continental margin, Palaeogeography, Palaeoclimatology, Palaeoecology, 533, 594 109234,doi:10.1016/j.palaeo.2019.109234 595 Zhang, C., C. Z. Liu, F. Y. Wu, L.L. Zhang, and W. Q. Ji (2016a), Geochemistry and 596 geochronology of mafic rocks from the Luobusa ophiolite, South Tibet, Lithos,245, 93-108, 597 doi:10.1016/j.lithos.2015.06.031   
+J   
+1 598 Zhang, J. E., W. Xiao, B.F. Windley, J. Wakabayashi, F. Cai, K. Sein, H. Wu, and S. Naing   
+） 599 (2018), Multiple alternating forearc- and backarc-ward migration of magmatism in the Indo  
+。 600 Myanmar Orogenic Belt since the Jurassic: Documentation of the orogenic architecture of 601 eastern Neotethys in SE Asia, Earth-Science Reviews, 185,704-731, 602 doi:10.1016/j.earscirev.2018.07.009   
+。 603 Zhang,L. L., C. Z. Liu,F. Y. Wu, W. Q. Ji, and J. G. Wang (2014), Zedong terrane revisited: An   
+O 604 intra-oceanic arc within Neo-Tethys or a part of the Asian active continental margin?, Journal of 605 Asian Earth Sciences,80, 34-55, doi:10.1016/j.jseaes.2013.10.029 606 Zhang, L. L., C. Z. Liu,F. Y. Wu, C. Zhang, W. Q. Ji,and J. G. Wang (2016b), Sr-Nd-Hf 607 isotopes of the intrusive rocks in the Cretaceous Xigaze ophiolite, southern Tibet: Constraints on 608 its formation seting,Lithos,258-259,133-148, doi:10.1016/j.lithos.2016.04.026   
+： 609 Zhu,D. C., X. X. Mo, G. T. Pan, Z.D. Zhao, G. C. Dong, Y.R. Shi, Z.L. Liao, L. Q. Wang, and 610 C.Y. Zhou (2Oo8), Petrogenesis of the earliest Early Cretaceous mafic rocks from the Cona area 611 of the eastern Tethyan Himalaya in south Tibet: Interaction between the incubating Kerguelen 612 plume and the eastern Greater India lithosphere?, Lithos, 100(1),147-173,   
+5 613 doi:10.1016/j.lithos.2007.06.024 614 Zhu,D. C., G. T. Pan, X. X. Mo, Z. L. Liao, X. S. Jiang, L. Q. Wang, and Z. D. Zhao (2007), 615 Petrogenesis of volcanic rocks in the Sangxiu Formation, central segment of Tethyan Himalaya: 616 A probable example of plume-lithosphere interaction, Journal of Asian Earth Sciences, 29(2), 617 320-335,doi:10.1016/j.jseaes.2005.12.004 618 Zhu,D. C., Y. Xia, B.B. Qiu, Q. Wang,and Z. D. Zhao (2013), Why do we need to propose the 619 Early Cretaceous Comei large igneous province in southeastern Tibet?, Acta Petrologica Sinica, 620 29(11),3659-3670 (in Chinese with English abstract)

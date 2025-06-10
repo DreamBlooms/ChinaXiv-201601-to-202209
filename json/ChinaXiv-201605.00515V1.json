@@ -1,0 +1,585 @@
+[
+    {
+        "type": "text",
+        "text": "Impacts of willow and miscanthus bioenergy buffers on biogeochemical N removal processes along the soilgroundwater continuum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ANDREA FERRARINI1,FLAVIO FORNASIER²,PAOLO SERRA¹,FEDERICO FERRARI, MARCO TREVISAN4 and STEFANO AMADUCCI1   \n1Departmentof SustainableCropProduction,UniversitaCattolicadel Sacro Cuore,via Emilia Parmense 84，Piacenza 29122, Italy,Cosglliceinricouaellonogiaiateaaly srl,ViaGri2dealystecltraldoalstryeitcel Sacro Cuore,via Emilia Parmense 84，Piacenza,29122,Italy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this article,thebelowgroundand aboveground biomassproduction in bioenergy buffers and biogeochemical N removal processes along the soil-groundwater continuum was assessed. In a sandy loam soil with shallow groundwater, bioenergy buffers of miscanthus and willow (5 and $1 0 \\mathrm { ~ m ~ }$ wide) were planted along a ditch of an agricultural field (AF) located in the Po valley (Italy). Mineral $\\mathrm { \\Delta N }$ forms and dissolved organic C (DOC) were monitored monthly over an 18-month period in groundwater before and after the bioenergy bufers.Soil samples were measured for inorganic N,DOC,microbial biomass C(MBC) and N (MBN),and potential nitrate reductase activity (NRA).The results indicated that bioenergy buffers are able to efficiently remove from groundwater the incoming $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ $( 6 2 \\% - 5 \\textrm { m }$ and $8 0 \\% - 1 0 ~ \\mathrm { m } ;$ ） $\\mathsf { N O } _ { 3 } – \\mathsf { N }$ removal rate was higher when nitrate input from AF increased due to N fertilization.Willow performed beter than miscanthus in terms of biomass production $( 1 7 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ ，finerootbiomass $( 5 . 3 ~ \\mathrm { M g ~ h a } ^ { - 1 } )$ and_Nremoval via harvesting $( 7 3 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 } ,$ .The negative nonlinear relationship found between $\\mathsf { N O } _ { 3 ^ { - } } \\mathrm { N }$ and DOC along the soil-groundwater continuum from AF to bioenergy buffers indicates that ${ \\mathrm { D O C } } { \\mathrm { : N O } } _ { 3 } { \\cdot }$ N ratio is an important controlling factor for promoting denitrification in bioenergy buffers.Bioenergy bufers promoted soil microbial functioning as they stimulated plant-microbial linkages by increasing the easily available C sources for microorganisms (as DOC). First, willow and miscanthus promoted high rates of biological removal of nitrate (NRA) along the soil profile. Second,rhizosphere proceses activated the soil microbial community leading to significant increases in MBC and microbial $\\mathrm { \\Delta N }$ immobilization. Herbaceous and woody bioenergy crops have been confirmed as providing good environmental performances when cultivated as bioenergy bufers by mitigating the disservices of agricultural activities such as groundwater N pollution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bioenergy buffers,biomass production, dissolved organic $C ,$ ecological stoichiometry, fine root biomass,groundwa ter quality,miscanthus,nitrate removal, soil microbial biomass,willow ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 15 October 2015;accepted1 December 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the last decade,it has become increasingly important to identify which proportion of the landscape should be occupied by bioenergy cropping systems (Gelfand et al., 2013;Manning et al.,2015).The key question is which land-use strategy can be implemented to avoid land-use conflicts while maximizing yields and ecosystem services provision (Fritsche et al.，2010;Payne,2010;Dale et al.，2011;Popp et al.，2011;Anderson-Teixeira et al., 2012).To solve the so called ‘food,energy and environment trilemma'(Tilman et al.,2oo9),several scenarios in which food and bioenergy cropping systems are spatially mixed within farmlands have been recently proposed (Asbjornsen et al.，2012；Gopalakrishnan et al., 2012; Christen & Dalgaard,2013;Manning et al.,2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Positive impacts on the regulation of climate,water and biodiversity ecosystem services have been reviewed during the transition of cropland to the production of bioenergy feedstock with perennial herbaceous and woody crops (Holland et al.,2015;Milner et al.,2015). The application of spatial multicriteria analysis revealed that a careful allocation of perennial cropping systems into the landscape would foster multiple ecosystem services and mitigate ecosystem disservicesfrom current annual food cropping systems (Powers et al., 2011;Parish etal.,2012;Meehan et al.,2013).Nevertheless,it emerged that the links of bioenergy crops with the provision of ecosystem services are strictly dependent on the spatial allocation of the crops relative to the adjacent land uses as revealed for pest regulation and pollination (Meehan et al.，2012;Werling etal.，2013; Bourke et al.， 2014) and for water quality regulation (Meehan et al.,2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Within this framework,an excellent case study area in which to explore the possibility to optimize land use for food,energy and ecosystem services is the agricultural landscape of Po valley (northern Italy). In the last decades,this area experienced an intensification of the conventional farming systems with the result that several areas suffer from problems of nitrate contamination of surface and groundwater (Capri et al.,20o9).At the EU level,buffer strips have become a widely adopted measure to mitigate such problems of nonpoint source agricultural pollution. The efficiency in removing $\\mathsf { N O } _ { 3 }$ N from groundwater is widely reported in the literature for riparian areas (Sabater et al., 2003; Hickey & Doran, 2004;Mayer et al.,2O07) and for filter strips (van Beek et al.，2007；Zhou et al.，201O).For this reason，buffer strips were made mandatory among member states in order to fulfil the obligations to maintain and improve Good Ecological Statusunder the EU Water Framework Directive (EC 2000/60). In Italy, $5 \\mathrm { - m }$ -wide buffer strips aremandatoryalong watercourses where waterquality status is scarce or bad (Italian Ministerial Decree DM 27417 of 22 December 2011).Within the 2014-2020 Rural DevelopmentProgrammes(RDP) oftheEmiliaRomagna and Lombardy regions,in Italy， two voluntary measures that provide money to farmer to install and maintain herbaceous buffers or woodland buffer strips have been introduced. Nevertheless,some operating spaces are left by these RDP measures for including bioenergy crops in buffer strips.For this reason，the water quality issue seems to offer an opportunity to redesign bioenergy landscapes with buffers for biomass production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this manuscript, bioenergy buffers have been proposed as an alternative land-use scenario for bioenergy production within the intensively managed agricultural landscape of the Po valley. Bioenergy buffers,in our view,are perennial landscape elements consisting of linear narrow bands placed along watercourses and cultivated with perennial herbaceous or woody bioenergy crops.Although extensive knowledge on the ecological functioning of buffer strips with natural vegetation is available for the case study area (Balestrini et al.,2008, 2011)，several research questions on bioenergy buffers relative to their productive performances still have to be explored，as do their role in providing ecosystem services and sustaining soil functioning (such as mitigation of groundwater N pollution and soil microbial CandN cycling).To date, the only literature available on the effectiveness of bioenergy buffers in removing N is modelling studies (Gopalakrishnan et al.,2012;Meehan et al.，2013；Ssegane et al.，2015).Furthermore，there have been no specific studies for bioenergy crops on the role of dissolved organic C(DOC）and belowground biomass as indicators for the activation of the soil microbial community and its implications on N removal processes from soil (e.g. denitrification and microbial N immobilization).To be adopted under different climatic and pedological conditions,there needs to more evidence on the biogeochemical processes involved in N removal in the plant-soil-groundwater system under bioenergy buffers.Within the case study area,an experimental field trial of bioenergy buffers with miscanthus and willow was set up in a sandy loam soil with shallow groundwater. The main objectives of the experiment were as follows: (i) to evaluate bioenergy buffers effectiveness(BSE） in removingNfrom shallow groundwater; (ii) to identify the main biogeochemical processes and key factors governing N removal along the soil-groundwater continuum;and (ii) to quantify root fine biomass，biomass production and plant N removal in bioenergy buffers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Site description and experimental design of bioenergy buffers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiment was located ina typical farm in the north-west of Italy (Fig. 1a) $( 4 5 ^ { \\circ } 3 ^ { \\prime } 3 7 . 8 7 ^ { \\prime \\prime } \\mathrm { N }$ $9 ^ { \\circ } 4 7 ^ { \\prime } 3 0 . 1 9 ^ { \\prime \\prime } \\mathrm { E }$ altitude $4 3 \\mathrm { ~ m ~ a . s . l . } ,$ ！ where the climate is continental with an average annual rainfall of $9 8 0 ~ \\mathrm { m m }$ and rainfall peaks in autumn and spring.The average temperatures during the experiment were 5.5,15.5，15, $2 4 . 4 ~ ^ { \\circ } \\mathrm { C } ,$ respectively, for winter,autumn,spring and summer. The field was flat,rectangular and bordered at one side by a ditch (Fig.1b).It was $2 0 0 \\mathrm { ~ m ~ }$ wide with a $1 8 0 \\mathrm { ~ m ~ }$ long $2 \\%$ slope downward to a 3-m-wide ditch.The water level in the ditch fluctuated from 0.2 to $0 . 9 \\mathrm { ~ m ~ }$ below soil surface (-bss). The field was characterized by a deep sandy aquifer interrupted by a silty clay aquitard (Fig.1c).The local groundwater system showed a prevalent SW-NE direction,and it was perpendicular to the ditch.The agricultural field was cultivated following a common crop rotation for the area: maize (2013)，soybean (2014)and tomato (2015).Maize was fertilized with ${ \\mathrm { K N O } } _ { 3 }$ $( 1 7 0 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 } ;$ .Soybean was irrigated twice in June 2014 (total $6 0 ~ \\mathrm { m m }$ of water) but not fertilized.In May 2015,there was a preplanting fertilization (70,110 and $1 7 0 ~ \\mathrm { k g ~ h a ^ { - 1 } }$ ，respectively for N,P and K),and after planting the tomatoes, there was a biweekly fertirrigation from June to August (18 events; total $2 1 0 ~ \\mathrm { m m }$ water and 50,40 and $1 0 0 ~ \\mathrm { { k g } ~ h a } ^ { - 1 } ,$ ，respectively,of $\\Nu ,$ （20 P and K).According to the USDA Soil Taxonomy (Soil Survey Staff,2014),the soil is Udifluventic Haplustept,the texture is sandy loam,and the content of soil organic C and total $_ \\mathrm { N }$ is low.The main soil physical and chemical characteristics of the soil profile are reported in Table S1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The bioenergy buffers were installed in April 2013,with two buffer widths:the mandatory $5 \\mathrm { ~ m ~ }$ width (as requested by Italian Ministerial Decree DM 27417 of 22 December,2011）and $1 0 \\mathrm { ~ m ~ }$ width.No pest management, irrigation and fertilization were applied.Soil was ploughed at $3 0 \\ \\mathrm { c m }$ depth before the experiment started. The experiment was organized following a randomized block design (RBD) with three replicates (Fig.1b). Bioenergy buffers consisted of miscanthus (Miscanthus $x$ giganteus L.) and willow (Salix matsudana Koidz (hybrid)).The plots hosting the control treatment (hereinafter referred to as‘spontaneous species'）were not planted to enable natural revegetation.The control treatment has been considered as an unsown field margin strip (De Cauwer et al.,20o5) Spontaneous species recorded were $( \\% )$ as follows:Echinochloa crus-galli(L.） Beauv. $( 3 0 \\% )$ ,Sorghumhalepense(L.) Pers. $( 3 0 \\% )$ ,Amaranthusretroflexus L. $( 1 0 \\% )$ ，Convoluulus arvensis L. $( 1 0 \\% )$ ，Cynodon dactylon (L.) Pers. $( 1 0 \\% )$ ）andother species $( 1 0 \\% )$ .Willow bioenergybuffers were planted by stem transplantation (up to $4 0 \\ \\mathrm { c m }$ depth). Plant density was 13.000 plants $\\mathrm { \\ h a } ^ { - 1 }$ ? $( 0 . 6 \\times 1 . 5 \\mathrm { ~ m ~ }$ spacing). The failure of the transplants was nearly zero after establishment.Miscanthus buffers were planted with rhizomes $( 0 . 1 \\mathrm { ~ m ~ }$ depth)with a density of 4 rhizomes $\\mathbf { m } ^ { 2 }$ 0 $0 . 3 6 \\times 0 . 7 \\mathrm { ~ m ~ }$ spacing). Emergence rates for rhizomes in May 2013 ranged from 15 to ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 0 \\%$ due to a severe waterlogging event.New rhizomes were planted in June 2013 to reduce patchiness (in February 2015 patchiness reached values $< 5 \\%$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Groundwater,soil,root and aboveground biomass measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Before bioenergy buffer establishment,a whole soil profile was opened to describe the soil horizons(Table S1) and a geological survey was carried out in order to characterize the local aquifer system. Some preliminary piezometers were installed at 2 and $5 \\mathrm { ~ m ~ }$ depth at random intervals to get information on groundwater hydraulic head and the groundwater table dynamics. This was carried out to spatially design the RBD experimental design.Afterhaving fully characterized the aquifer, the experimental site was equipped in May 2014 with piezometers installed along a series of perpendicular transects from the agricultural field to the ditch (Fig.1b).Each of the transects consisted of three sampling piezometers.Two piezometers were installed within the agricultural field upgradient of each group of experimental blocks,and one was installed immediatelydowngradient of each buffer plot to study the effects of bioenergy buffers on groundwater N coming from the agricultural field (AF).The PVC piezometers were installed at a depth of $1 . 5 { - } 2 \\mathrm { ~ m ~ }$ .Piezometers were $2 . 5 – \\mathrm { m }$ -long,5-cm-diameter PVC pipe and were screened at ${ \\mathrm { 1 - 2 ~ m } }$ -bss.Piezometers were installed by driving into the soil twice a steel corer with an inner removable PVC pipe $5 \\mathrm { c m }$ diameter, $1 \\mathrm { ~ m ~ } \\mathrm { l o n g } )$ usinga hydraulic jackhammer and extracted using a tripod ratchet. The final piezometer was then manually inserted into the soil. This procedure was also used to obtain soil samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/51f3b01924764485385ad6b3bb74ba467edefe25a4bc10d3b76b3db9573dc36b.jpg",
+        "img_caption": [
+            "Fig.1LocalizationofthefieldtrialinNWItaly(a)anddistributionofthenitrate-vulnerablezones(source:ISPRA-Institutefor EnvironmentalProtectiodeseach)feldepemntalsigforegufs(b)ndrticalossctiooftldal representing the shallow groundwater system (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Grounawater sampies were colIectea irom May ∠Ui4 untll August 2015 approximately with a monthly sampling frequency during the 2014 and 2015 growing seasons. Hereinafter, the monitoring season is divided as follows: 2014 growing season (T1:30 May 2014,T2:28 June 2014,T3:1 August 2014,T4: 10 September 2014)，2014 leaching season (T5: 18 December 2014, T6: 4 February 2015) and 2015 growing season (T7:24 April 2015,T8:6 May 2015,T9:2 June 2015, T10:15 July 2015 and T11: 1 August 2015).Groundwater table depth was measured using a sounding probe during each sampling event. Diferences in groundwater table depth in total heads along the piezometer transects were used to determine dominant flow paths of groundwater. Before sampling, the wells were pumped empty and allowed to settle again. Dissolved $\\mathrm { O } _ { 2 }$ (ppm)，groundwater total dissolved solids (ppm),conductivity $( \\mu \\mathrm { { s } ~ c m ^ { - 1 } ) }$ ， $\\mathrm { \\Delta p H }$ and water temperature $( ^ { \\circ } C )$ were measured within each piezometer by inserting a specific multiparameter probe (HI 98196; Hanna Instruments,Padova, Italy).Groundwater was sampled with a slow pumping technique, $0 . 5 – 1 \\mathrm { ~ L ~ }$ was collected from each piezometer,and samples were kept refrigerated during the transport to the laboratory.Samples were then immediately filtered $: 0 . 4 5 \\ \\mu \\mathrm { m }$ cellulose acetate) and kept at $4 ~ ^ { \\circ } \\mathrm { C }$ until analysis.Samples were analysed for $\\mathsf { N O } _ { 3 }$ -N, $\\mathrm { N H } _ { 4 } – \\mathrm { N } .$ ， $\\Nu { \\cal O } _ { 2 }$ -N,TDN (Total Dissolved N),DOC (dissolved organic C)，TDP (total dissolved P), $\\mathrm { P O } _ { 4 } – \\mathrm { P }$ and chlorides (Cl). The sum of ${ \\mathsf { N O } } _ { 3 } – { \\mathsf { N } }$ $\\mathrm { \\Delta N H _ { 4 } - N }$ and $_ { \\mathrm { N O } _ { 2 } - \\mathrm { N } }$ forms the dissolved inorganic N (DIN),and the difference between TDN and DIN is the dissolved organic N (DON). $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ was analysed with dual wavelength UV spectroscopy (275, $2 2 0 ~ \\mathrm { n m } ,$ ）on acidified (HCL 1M) samples and pipetted into 96-well quartz microplates. $\\mathrm { N H _ { 4 } }$ -N, $\\mathsf { N O } _ { 2 } { \\cdot } \\mathsf { N }$ and $\\mathrm { P O } _ { 4 }$ -P were measured through colorimetric reactions based on a 96-well microplate format and read with a microplate reader (Biotek Synergy 2, Winooski,VT,USA). $\\mathrm { N H _ { 4 } }$ -N was measured with Berthelot reaction (Rhine et al.,1998), $\\mathrm { N O } _ { 2 }$ -N with Griess reaction (Griess Reagent Kit G-7921；Molecular Probes Inc., Life Technologies，Monza， Italy）and $\\mathrm { P O } _ { 4 }$ -P with the green malachite method (D'Angelo et al., 2001). TDN and DOC were measured using a TOC-TN analyser (TOC-VCSN Shimadzu). TDP was measured by an inductively coupled plasma atomic emission spectrometry. Chlorides were analysed by ion chromatography using a Dionex DX-120 equipped with an AS22A column and $N a _ { 2 } C O _ { 3 } + N a H C O _ { 3 }$ as eluent. Chlorides were used asa conservative tracer in groundwater to separate between dilution and N removal (Altman & Parizek,1995). TDP and $\\mathrm { P O } _ { 4 }$ -P in most of the groundwater samples were lower than the detection limit,and the data were therefore not included in this manuscript.Buffer strip effectiveness (BSE)in removing N forms in shallow groundwater was calculated using the formula: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Buffer strip effectiveness $( \\mathrm { B S E } ) _ { i } = \\frac { 1 - C _ { i g w , B U F F E R } } { C _ { i g w , a v g , \\mathrm { A F } } } \\times 1 0 0 \\$ where $i$ is the $N _ { i }$ form for which BSE was calculated $( \\mathrm { N O } _ { 3 } – \\mathrm { N } ,$ $\\mathrm { N H _ { 4 } }$ -N, $\\Nu { \\cal O } _ { 2 }$ -N,DIN,TDN and their respective $i / \\mathrm { C l } ^ { - }$ ratios), $\\mathbf { C } _ { i g w , }$ BUFFER is the concentration of the $N i$ form in groundwater after buffer plots,and $\\mathrm { C } _ { i g w , \\ a v g , \\ A G R }$ is the average concentration of the $N i$ form in piezometers installed in the agricultural field (AF). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil was sampled four times in $1 0 \\mathrm { - m }$ -wide buffers with the same procedure used for piezometer installation. There were two soil samplings in the first growing season after buffer establishment (1 July 2013 and 10 February 2014),one at the end of second (4 February 2015) and one in the third season (1 August 2015).At each sampling time, three soil cores were taken from each plot to a depth of $6 0 ~ \\mathrm { c m }$ .For miscanthus and willow four soil, cores were taken in two different sampling positions: two cores in the middle of the plant row and two in the inter-row centre.Four random cores were taken from the spontaneous species plots and from the agricultural field. Each soil core was then divided into four sections (0-10,10-20,20-30 and $3 0 -$ $6 0 ~ \\mathrm { c m }$ depth).The divided soil cores from each plot were immediately bulked in one composite sample in plastic bags according to the respectively depth,stored at $- 1 8 ~ ^ { \\circ } C$ and analysed within a month.Soil samples were analysed for extractable $\\mathsf { N O } _ { 3 }$ -N, $\\mathrm { N O } _ { 2 }$ -N, $\\mathrm { N H _ { 4 } }$ -N，DOC，TDN，microbial biomass C (MBC) and for the two microbial N removal processes in soils: microbial N immobilization (MBN) and potential nitrate reductase activity (NAR),the latter as marker for denitrification. Microbial biomass was determined by the fumigation-extraction technique in fresh soil (Vance et al.,1987).The unfumigated soil extracts were used to measured DOC,TDN,extractable $\\mathsf { N O } _ { 3 }$ -N, $\\mathrm { \\Delta N H _ { 4 }  – N }$ and $\\Nu { \\cal O } _ { 2 }$ -N.As for groundwater samples,DIN and DON were calculated.Extractable mineral N pools were measured with the same microplate-based colorimetric methods adopted for groundwater analysis.For the entire set of soil C and N pools analysed,the values are reported on a stock basis $( \\mathrm { { k g } \\ h a } ^ { - 1 } )$ .Soil nitrate reductase activity (NRA) was measured by soil anaerobic incubation following the modifications of the protocol of Abdelmagid & Tabatabai(1987）introduced by Cheneby et al.(2010).NRA were calculated as $\\mu \\mathrm { g }$ of $\\Nu { \\cal O } _ { 2 }$ -N produced per g of dry soil per day $( \\mu \\mathrm { g \\ N O _ { 2 } \\mathrm { - } N \\ g _ { \\mathrm { s o i l } } \\mathrm { - } 1 \\ \\mathrm { d a y } ^ { \\mathrm { - } 1 } ) }$ . See Supporting Information (Appendix S1） for a detailed description of the procedure adopted for NRA. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil cores for fine root biomass were collected during the last soil sampling (1 August 2015).During this soil sampling, three additionally soil cores were collected for fine root biomass quantification.For miscanthus and willow,soil cores were taken in three different sampling positions following the scheme proposed by Zatta et al. (2014): one next to the plants, one in the middle of the plant row and one in the inter-row centre.From the spontaneous species plots,three cores were taken randomly.All cores were divided into the same four sections as for soil cores (0-10,10-20,20-30 and $3 0 { \\mathrm { - } } 6 0 ~ { \\mathrm { c m } }$ depth).Before root extraction,soil samples were stored at $- 1 8 ~ ^ { \\circ } C$ ，To extract fine roots $( < 2 ~ \\mathrm { m m } )$ ，soil sampleswere immersed in oxalic acid $( 2 \\% )$ for $^ { 2 \\mathrm { ~ h ~ } }$ and then washed in a hydraulic sieving-centrifuge device (Chimento & Amaducci, 2015).Once cleaned,roots were recovered by hand picking from the water using a $2 \\mathrm { - m m }$ -mesh sieve,oven dried at $6 5 ~ ^ { \\circ } C$ for $^ { 4 8 \\mathrm { ~ h ~ } }$ and weighed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Some samples of miscanthus included rhizomes,which were not included in the root biomass sample.The dry root weight was divided by the whole volume of soil samples and reported as $\\mathbf { M } \\mathbf { g }$ of fine roots per hectare $( \\mathrm { M g \\ h a } ^ { - 1 } )$ .Afterweighing, the three replicates were combined by depth for each plot and ground to $1 \\mathrm { m m }$ . The samples were then analysed for N using a CNanalyzer (Vario Max CN Analyzer;Elementar Americas, Inc., Hanau, Germany). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Harvestable biomass from bioenergy buffers was collected in late winter periods every year for miscanthus (1o February 2014 and 15 February 2015) and at the end of 2nd growing season for willow (15 February 2015).Aboveground biomass samples were collected cutting each row of plants along a transect in each plot.Each plant row was weighed in the field and a subsample was taken for fresh weight to dry matter (DM) conversionandCN analysis.Calculations forharvestable biomass $( \\mathrm { M g \\ D M \\ h a } ^ { - 1 } ,$ and $\\Nu$ exportations by harvesting $( \\mathrm { k g ~ N ~ h a } ^ { - 1 } ,$ were performed for each plot as a whole (by averaging the DM values of all plant rows along the buffer transect)and on a plant row basis (DM and $\\mathsf { k g } \\textrm { N h a } ^ { - 1 }$ plant row-1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All the data were analysed using the ‘nlme' package (Pinheiro et al.,2015) of RStudio 0.99.484. For groundwater data (concentration and BSE),a mixed model of repeated-measures ANOVA was used with crop type (CROP),buffer width (WIDTH) and monitoringseason(SEASON）asfixed effects，whereas piezometers (PIEZ)and sampling times(TIME)were crossed within the random effects structure of the model. Significance ofthe fixedeffectswasassessedwith $F$ and $P$ values.Model residuals were checked fornormality by the Kolmogorov-Smirnov test and for homogeneity of variances by the Levene's test for each of the fixed factors.The temporal autoregressive structure (based on moving average residual was used as covariance matrix within the mixed model. This structure obtained the lowest Akaike's information criteria (AIC)values than those obtained for other structure tested (autoregressive tempo ral structure and block diagonal). Significant differences among levels of the fixed factors were identified at the 0.O5 probability level of significance constructing specific contrast matrices based on Tukey's contrasts carried out using the multcomp package of R software (Hothorn et al.,2015). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similar mixed models of repeated ANovA and post hoc analysis were applied to soil variables.Crop type (CROP)，soil depths (DEPTH) and sampling seasons (SEASON) were used as fixed effects,whereas experimental blocks (BLOCK)and SEASON were defined as random effects.For belowground measurements,only CROP and DEPTH as fixed effects were studied,being root biomass sampled only once during the 2015 growing season.To assess differences in harvestable biomass and N exportation，one-way ANovA comparisons for RBD designswere run,with CROP and BLOCK as fixed factors.For these parameters, to assess their differences among plant rows along buffer transect,one-way ANovA comparisons were made separately for miscanthus and willow buffers,with PLANT ROW $( n _ { \\mathrm { r o w s } } = 1 3$ for miscanthus, $n _ { \\mathrm { r o w s } } = 7$ for willow）and BLOCK as main factors.For all these one-way ANovAs,means were compared bythe Tukey's test $( \\alpha = 0 . 0 5 )$ ,afterconfirmation that data were normally distributed and variance was homogeneous. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Additional regression analyses were then performed on soil, root and groundwater data using nlme package of R software. The relationship between the concentration $( \\mathrm { m g ~ L ^ { - 1 } } )$ ofDOC and $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ in groundwater samples and soil extracts was calculated applying a nonlinear regression model $( y = a + b e ^ { - k ( x ) } )$ (Taylor & Townsend,201o). The relationship between groundwater nitrate input entering the buffers and buffer strips effectiveness (BSE) in removing N was calculated by a power function: $y = \\mathrm { a } x ^ { \\mathrm { b } }$ (Mayer et al.，2007).BSE $( \\% )$ in removing $\\mathsf { N O } _ { 3 }$ -N was also plotted against buffer width.A nonlinear regression model $( y = \\mathrm { a } x ^ { \\mathrm { b } } )$ wasused here to obtain information on the optimal buffer width necessary to obtain a given value ofBSE $( 5 0 \\%$ $7 5 \\%$ $9 0 \\%$ and $100 \\%$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nconcentration patternsin groundwater ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The concentrations of $\\mathsf { N O } _ { 3 }$ -N, $\\mathrm { N H _ { 4 } }$ -N,DINand TDN in groundwater were significantly lower after the bioenergy buffers by comparison with the concentration in theagricultural field (AF)(Table 1). In particular, groundwater nitrate had the highest reduction compared to AF $( F = 7 7 . 1 \\$ $P < 0 . 0 0 0 1$ ).ForTDN,thevalues were $F = 4 0 . 1 \\$ 、 $P < 0 . 0 0 0 1$ ．The only mineral $\\mathrm { \\Delta N }$ that resulted slightly increased was $_ { \\mathrm { N O } _ { 2 } - \\mathrm { N } }$ that after bioenergy buffers increased up to $0 . 2 \\ \\mathrm { m g } \\ \\mathrm { N O } _ { 2 } { \\cdot } \\mathrm { N } \\ \\mathrm { L } ^ { - 1 }$ .No significant differences $( F = 1 . 9 \\$ $P = 0 . 5 5$ ）were found in $\\mathrm { C l ^ { - } }$ concentration after bioenergy buffers suggesting that no input of $\\mathrm { C l ^ { - } }$ occurred in the local aquifer system and thus no dilution effects were observed in groundwater before and after bioenergy buffers (Table S2). $\\mathrm { C l ^ { - } / N O _ { 3 } }$ N and Cl/TDN ratios increased in groundwater after bioenergy buffers (data not shown),indicating that for the entire period of monitoring,allN forms were effectively removed from the shallow groundwater. On average, $7 0 \\%$ and $8 5 \\%$ of groundwater TDN was mineral N (DIN)，respectively，in bioenergy buffer and AF.On average,groundwater DIN in AF was formed by $\\mathrm { N O } _ { 3 }$ N $( 6 0 \\% )$ 、 $\\mathrm { \\Delta N H _ { 4 }  – N }$ $( 2 9 \\% )$ and $\\mathsf { N O } _ { 2 }$ -N $( 1 0 \\% )$ ．After the bioenergybuffers, $\\mathrm { N O } _ { 3 }$ -N $( 4 7 \\% )$ was still the main component of groundwater DIN,but the proportion of $\\Nu { \\cal O } _ { 2 }$ N $( 1 4 \\% )$ and $\\mathrm { N H _ { 4 } }$ -N $( 3 8 \\% )$ increased significantly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ concentration in groundwaterafter the bioenergy buffers ranged from $0 . 3 2 \\mathrm { ~ m g ~ N O _ { 3 } - }$ N ${ \\mathrm { L } } ^ { - 1 }$ (or $1 . 4 \\ \\mathrm { m g \\ N O _ { 3 } ^ { - } \\ L ^ { - 1 } } )$ to $1 . 2 7 \\mathrm { ~ m g ~ N O _ { 3 ^ { - } } N \\mathrm { ~ L } ^ { - 1 } }$ $( 5 . 6 ~ \\mathrm { m g }$ $\\mathrm { N O } _ { 3 } ^ { - } \\ \\mathrm { L } ^ { - 1 } )$ .TDN ranged from 1.54 to $2 . 7 7 ~ \\mathrm { m g ~ L } ^ { - 1 }$ . The mean input of $\\mathrm { N O } _ { 3 }$ -NandTDN from theAFwasdifferent when soybean (2014) and tomato (2015) were cultivated.N fertilization during the fertirrigation of tomato affected the concentration of $\\mathrm { N O } _ { 3 }$ -N in groundwater; it was on average $4 . 7 3 ~ \\mathrm { m g } ~ \\mathrm { N O _ { 3 } } \\mathrm { - N }$ 【 ${ \\mathrm { L } } ^ { - 1 }$ $( 2 0 . 9 \\ \\mathrm { m g } \\ \\mathrm { N O } _ { 3 } ^ { - } \\ \\mathrm { L } ^ { - 1 } )$ during the tomato growing season. The maximum $\\mathrm { N O } _ { 3 }$ level of $1 1 . 3 \\mathrm { \\ m g \\ N \\ L ^ { - 1 } }$ $( 5 0 \\mathrm { \\ m g \\ N O _ { 3 } ^ { - } \\ L ^ { - 1 } } ,$ ）indicated in theEUnitratedirective (91/676/EEC) wasnot exceeded. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c60d76dea2afb3d537f210e0ef10e904e66d23c2d51248ebddf122be7345bce7.jpg",
+        "table_caption": [
+            "Table1AverageconcentratiosoftheNforsmeasuredinshallowgroundwaterafterbioenergybufers(B-crop)oftwodiferent widthsadintheagricuturalfield(AF-crop).Valueswithdiferent ters insuperscriptshostatistcallydiferent meansamong crop types across growing seasons (Tukey's HSD test, $\\mathrm { P } < 0 . 0 5 \\rangle$ andwithin $\\mathrm { \\Delta N }$ forms "
+        ],
+        "table_footnote": [
+            "\\*AverageconcentrationofalltepiezometersinstalledinAFalongtheperpendiculartransectstowardsbioenergybuffers(see Fig. 1c, d). $\\dagger$ Values with diferent letters in superscript show statistically different means among crop types (Tukey's LSD test, $P < 0 . 0 5 \\$ ）within averaged values forall seasons. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td colspan=\"2\">NO3-N</td><td colspan=\"2\">NO2-N</td><td colspan=\"2\">NH4-N</td><td colspan=\"2\">DIN</td><td colspan=\"2\">DON</td><td colspan=\"2\">TDN</td></tr><tr><td></td><td></td><td>CROP</td><td>5m</td><td>10 m</td><td>5m</td><td>10 m</td><td>5m</td><td>10 m</td><td>5m</td><td>10 m</td><td>5m</td><td>10 m</td><td>5m</td><td>10 m</td></tr><tr><td>2014</td><td></td><td>Spontaneous spp.</td><td>0.66A</td><td>0.59A</td><td>0.15A</td><td>0.20A</td><td>0.69A</td><td>0.66A</td><td>1.44A</td><td>1.51A</td><td>1.00A</td><td>0.33B</td><td>2.44A</td><td>1.84BC</td></tr><tr><td>growing</td><td>BS</td><td>Miscanthus</td><td>0.58A</td><td>0.49B</td><td>0.15A</td><td>0.21A</td><td>0.80C</td><td>0.67AB</td><td>1.44A</td><td>1.47A</td><td>0.57B</td><td>0.38B</td><td>2.01B</td><td>1.85C</td></tr><tr><td>season</td><td></td><td>Willow</td><td>0.45A</td><td>0.56A</td><td>0.14A</td><td>0.20A</td><td>0.80℃</td><td>0.74BC 1.37D</td><td>1.57A</td><td>1.33A</td><td>0.54B</td><td>0.34B</td><td>2.11B</td><td>1.67C</td></tr><tr><td></td><td></td><td>AFSoybean</td><td colspan=\"3\">1.49C*</td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\">4.11D</td></tr><tr><td>2014</td><td></td><td> Spontaneous spp.</td><td>0.43B</td><td>0.42B</td><td>0.15A</td><td>0.20A</td><td>0.23E</td><td>0.23E</td><td>0.85C</td><td>0.84C 3.01B</td><td>1.29C</td><td>0.99A 0.80A</td><td>2.10B</td><td>1.65C</td></tr><tr><td>leaching</td><td>BS</td><td>Miscanthus</td><td>0.44B</td><td>0.32B</td><td>0.15A</td><td>0.21A</td><td>0.12F</td><td>0.30E</td><td>0.84C</td><td>0.71C</td><td>0.84A</td><td>0.82A</td><td>1.77C</td><td>1.48E</td></tr><tr><td>season</td><td></td><td>Willow</td><td>0.41B</td><td>0.32B</td><td>0.16A</td><td>0.20A</td><td>0.41G</td><td>0.30F</td><td>1.03C</td><td>0.77C</td><td>0.55A0.77A</td><td></td><td>1.58AC</td><td>1.54AC</td></tr><tr><td></td><td>AF Bare soil</td><td></td><td colspan=\"4\">1.90C</td><td colspan=\"2\">0.53D</td><td colspan=\"2\">2.62B</td><td colspan=\"2\">0.83A</td><td colspan=\"2\">3.45D</td></tr><tr><td>2015</td><td></td><td>Spontaneous spp.</td><td>1.27D</td><td>1.19d</td><td>0.15A</td><td>0.20A</td><td>0.54A</td><td>0.49AG</td><td>1.96D1.86D</td><td></td><td></td><td>0.82A0.66A</td><td>2.77A</td><td>2.52A</td></tr><tr><td>growing</td><td>BS</td><td>Miscanthus</td><td>1.14D</td><td>0.95E</td><td>0.15A</td><td>0.18A</td><td>0.57A</td><td>0.51A</td><td>1.86D</td><td>1.65AD</td><td>0.88A</td><td>0.53AB</td><td>2.74A</td><td>2.18B</td></tr><tr><td>season</td><td></td><td>Willow</td><td>1.38D</td><td>0.90E</td><td>0.20A</td><td>0.13A</td><td>0.55A</td><td>0.54A</td><td>2.14B</td><td>1.58A</td><td>0.36B</td><td>0.50B</td><td>2.48AB</td><td>2.08B</td></tr><tr><td></td><td>AF</td><td>Tomato</td><td colspan=\"2\">4.73F</td><td colspan=\"2\">0.14A</td><td colspan=\"2\">0.89C</td><td colspan=\"2\">5.84E</td><td colspan=\"2\">0.43B</td><td colspan=\"2\">6.27F</td></tr><tr><td>All</td><td></td><td>Spontaneous spp.</td><td>0.87A+</td><td>0.85A</td><td>0.15AB</td><td>0.19A</td><td></td><td>0.54A0.50A</td><td>1.56A</td><td>1.55A</td><td>0.97A0.56B</td><td></td><td>2.53A</td><td>2.11B</td></tr><tr><td>seasons</td><td>BS</td><td>Miscanthus</td><td>0.78A</td><td>0.70A</td><td>0.15AB</td><td>0.20A</td><td>0.57A</td><td>0.53A</td><td>1.50A</td><td>1.44A</td><td>0.80A0.50B</td><td></td><td>2.30AB</td><td>1.93BC</td></tr><tr><td></td><td></td><td>Willow</td><td>0.91A</td><td>0.63B</td><td>0.16A</td><td>0.21A</td><td>0.62A</td><td>0.57A</td><td>1.73B</td><td>1.34A</td><td>0.46B</td><td>0.49B</td><td>2.18B</td><td>1.83C</td></tr><tr><td></td><td>AFFood crops</td><td></td><td colspan=\"2\">3.04C</td><td colspan=\"2\">0.12B</td><td colspan=\"2\">1.01B</td><td colspan=\"2\">4.27C</td><td colspan=\"2\">0.71AB</td><td colspan=\"2\">4.87D</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bufferstrip effectiveness(BSE) in removing N from shallow groundwater ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Similar $F$ and $P$ values for BSE in removing $\\Nu$ forms and their respective $\\mathrm { C l ^ { - } / N }$ ratios were observed among the ANOvA factors tested (Table 2).This similarity indicates that $\\mathrm { C l ^ { - } }$ concentration patterns in groundwater did not affected N removal dynamics. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the temporal dynamics of the BSE in removing $\\mathrm { N O } _ { 3 }$ -N(Fig.2a,b) and TDN(Fig.2c,d).No effect of crop types on BSE in removing any of the $\\mathrm { ~ N ~ }$ forms analysed in shallow groundwater was found (Table 2).However,buffer width had a significant effect on $\\mathsf { N O } _ { 3 }$ -Nand TDNremoval rates.Ten-metre-wide buffers(Fig.2a,c） removed significantly more nitrate $( F = 3 1 . 7 ,$ $P < 0 . 0 0 0 1$ ）andTDN $F = 5 . 2$ $P = 0 . 0 1 2$ com pared to $5 \\mathrm { - m }$ -wide buffers (Fig.2b,d).The results of nonlinear regression model (Table S3) confirmed that a significant percentage of variance of BSE in removing ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a7f5e1f7633760ae381a7cd1c520af1f26f8a85635b9ac8d81c501bfca4fc2d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\*Denotes significance at $P < 0 . 0 5$ \\* $P < 0 . 0 1$ \\*\\*\\* P <0.001 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Crop</td><td colspan=\"2\">Width</td><td colspan=\"2\">Season</td><td colspan=\"2\">CxW</td><td colspan=\"2\">CxS</td><td colspan=\"2\">WxS</td><td colspan=\"2\">CxWxS</td></tr><tr><td>N form</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>NO3</td><td>1.8</td><td>ns</td><td>31</td><td>***</td><td>14</td><td>***</td><td>1.6</td><td>ns</td><td>1.4</td><td>ns</td><td>10</td><td>***</td><td>1.2</td><td>ns</td></tr><tr><td>Cl/NO3</td><td>1.5</td><td>ns</td><td>17</td><td>***</td><td>13</td><td>**</td><td>1.1</td><td>ns</td><td>1.4</td><td>ns</td><td>7.8</td><td>***</td><td>1.1</td><td>ns</td></tr><tr><td>NO2</td><td>0.8</td><td>ns</td><td>1.4</td><td>ns</td><td>0.2</td><td>ns</td><td>0.2</td><td>ns</td><td>0.1</td><td>ns</td><td>0.1</td><td>ns</td><td>0.1</td><td>ns</td></tr><tr><td>Cl/NO2</td><td>0.2</td><td>ns</td><td>1.2</td><td>ns</td><td>0.6</td><td>ns</td><td>0.1</td><td>ns</td><td>0.1</td><td>ns</td><td>0.2</td><td>ns</td><td>0.1</td><td>ns</td></tr><tr><td>NH4</td><td>0.6</td><td>ns</td><td>0.1</td><td>ns</td><td>7.4</td><td>***</td><td>0.4</td><td>ns</td><td>1.9</td><td></td><td>0.6</td><td>ns</td><td>0.7</td><td>ns</td></tr><tr><td>Cl/NH4</td><td>0.7</td><td>ns</td><td>0.1</td><td>ns</td><td>7.3</td><td>***</td><td>0.5</td><td>ns</td><td>1.2</td><td></td><td>0.2</td><td>ns</td><td>0.8</td><td>ns</td></tr><tr><td>DIN</td><td>1.4</td><td>ns</td><td>1.4</td><td>ns</td><td>11</td><td>***</td><td>0.6</td><td>ns</td><td>0.6</td><td>ns</td><td>1.7</td><td>ns</td><td>0.4</td><td>ns</td></tr><tr><td>Cl/DIN</td><td>1.1</td><td>ns</td><td>1.2</td><td>ns</td><td>9.8</td><td>***</td><td>0.7</td><td>ns</td><td>0.2</td><td>ns</td><td>1.6</td><td>ns</td><td>0.2</td><td>ns</td></tr><tr><td>TDN</td><td>1.9</td><td>ns</td><td>5.4</td><td></td><td>7.0</td><td>***</td><td>0.1</td><td>ns</td><td>0.6</td><td>ns</td><td>3.1</td><td>*</td><td>1.8</td><td>*</td></tr><tr><td>Cl/TDN</td><td>1.7</td><td>ns</td><td>5.2</td><td></td><td>6.8</td><td>***</td><td>0.1</td><td>ns</td><td>0.5</td><td>ns</td><td>2.4</td><td>*</td><td>1.5</td><td>*</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table2 Results of the mixed model of repeated measures ANOVA used to investigate the effect of crop (C),buffer width(W) and season (S) on buffer strip effectiveness (BSE）in removing from shallow groundwater the different $\\mathrm { ~ N ~ }$ forms.The table presents the Fand P values of the main fixed effect terms and their interactions.All mixed models showed values of adjusted ${ \\mathrm { R } } ^ { 2 }$ (including both fixed and random effects）higher than 0.87 (expect for $\\mathrm { N H _ { 4 } }$ and $\\Nu { \\cal O } _ { 2 }$ that wererespectively 0.56 and 0.45) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ was explained by buffer width. For the entire period of monitoring, $\\mathrm { N O } _ { 3 }$ -Nremoval rate indicates that 50, 75, 90 and $100 \\%$ of BSE could potentially be reached bycreatingbioenergy buffers,respectively,3,9,15 and $2 0 \\mathrm { ~ m ~ }$ wide( $R ^ { 2 } = 0 . 1 8$ $P = 0 . 0 3 1$ ）(Table S3).The highest percentages of variance of BSE explained by buffer width were found in the 2014 leaching season $( R ^ { 2 } = 0 . 8 3$ $P < 0 . 0 0 1$ ） and 2014growing season $( R ^ { 2 } = 0 . 2 9 .$ $P = 0 . 0 0 8 ^ { \\cdot }$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A relevant seasonal pattern of the BSE in removing nitrate was observed (Table 2, Table S3 and Fig.2).During the 2O15 growing season, nitrate removal rates of bioenergy buffers were significantly higher than in 2014 (Table S3).A significant positive relationship between groundwater $\\mathrm { N O } _ { 3 }$ input (mg $\\Nu \\mathrm { O } _ { 3 } ^ { - } \\ \\mathrm { L } ^ { - 1 } )$ and buffer strip effectiveness in removing ${ \\mathrm { N O } } _ { 3 } { } ^ { - }$ (BSE $\\%$ ）was found (Fig.3). Bioenergy buffers exponentially increase their $\\Nu { \\cal O } _ { 3 }$ removal rates when they started to receive more $\\mathrm { N O } _ { 3 }$ in May 2015 after the beginning of NPK fertirrigation of tomato in the adjacent AF.Five-metre-wide buffers (Fig.3a）were found to be more correlated with ${ \\mathsf { N O } } _ { 3 } { } ^ { - }$ input than wider buffers that,on the other hand, showed to have reached their maximum buffering capacity (Fig. 3b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As result of the influence of ${ \\mathrm { N O } } _ { 3 } { } ^ { - }$ input on N removal rate,a significant interaction between buffer width and season was found for $\\mathrm { N O } _ { 3 }$ -N $( F = 1 0 . 3 \\$ $P < 0 . 0 0 0 1$ and TDN $( F = 3 . 1 \\AA$ $P = 0 . 0 2 3 \\mathrm { \\ ' }$ .The most significant effects of buffer width on nitrate removal were observed during the 2014 growing season ${ ' } F = 1 2 . 4 5$ ， $P = 0 . 0 0 1$ ）andin the 2014 leaching season $C F = 1 6 . 2$ 、 $P < 0 . 0 0 0 1 _ { \\cdot }$ ).Based on the model $y = \\mathrm { a } x ^ { \\mathrm { b } } .$ 、 $5 0 \\%$ and $7 5 \\%$ of the BSE in removing $\\mathsf { N O } _ { 3 }$ were estimated to occur during the 2015 growing season in $_ { 1 - \\mathrm { m } }$ and $4 { \\cdot } \\mathrm { m }$ -widebioenergybuffers, respectively (Table S3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Among the other mineral N forms, $\\mathrm { N H _ { 4 } } { - } \\mathrm { N }$ and $_ { \\mathrm { N O } _ { 2 } - \\mathrm { N } }$ removal rates werenot affected asmuch as $\\mathrm { N O } _ { 3 }$ -Nand TDN by buffer width,season and by their interaction. $\\mathrm { N H _ { 4 } } { \\cdot } \\mathrm { N }$ and $_ { \\mathrm { N O } _ { 2 } - \\mathrm { N } }$ had large variances explained by the random factor in mixed model of ANovA (data not shown). On average, $\\mathrm { N H _ { 4 } }$ -N removal rates were $4 4 \\%$ for bioenergy buffers.Nitrite instead showed in $9 2 \\%$ of the cases negative values of BSE indicating that release of nitrite in groundwater by bioenergy buffers prevailed over removal (Table 2).As consequence of the contrasting patterns revealed by $_ { \\mathrm { N O } _ { 2 } - \\mathrm { N } }$ (release）and $\\mathrm { N H _ { 4 }  – N }$ (high variability among replicates)，DIN resulted not significantly affected by crop type，buffer width and bythe interactions of these factors (Table 2).DIN removal by bioenergy buffers ranged from $56 \\%$ in 2014 growing season to $6 9 \\%$ in 2015 growing season. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/02b1efaaebd4b8ce1c62f4116175528a7b7fe206b1200499ad5f6d1cd413e6de.jpg",
+        "img_caption": [
+            "Fig.2 Temporal dynamics of bioenergy buffers effectiveness $( \\mathrm { B S E } \\mathrm { ~ - ~ } \\% )$ in removing $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ （2 $( { \\mathsf { a } } { - } { \\mathsf { b } } )$ and TDN $( { \\bf c } \\mathrm { - } \\mathrm { } \\mathrm { } \\mathrm { } \\mathrm { } \\mathrm { } \\mathrm { } )$ for buffers $5 \\mathrm { ~ m ~ }$ wide (a-c) and $1 0 \\mathrm { ~ m ~ }$ wide (b-d).Error bars show standard error of the mean $\\displaystyle ( n = 3 )$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e8d4c1b54617620915557cd1f83e7df839ee68d5d5fce859920bef4058a2404.jpg",
+        "img_caption": [
+            "Fig.3Relationship between lateral ${ \\mathrm { N O } } _ { 3 } { } ^ { - }$ inputs and buffer strip effectiveness (BSE) in removing ${ \\mathrm { N O } } _ { 3 } { } ^ { - }$ for bioenergy buffers $5 \\mathrm { ~ m ~ }$ wide (a) and $1 0 \\mathrm { ~ m ~ }$ wide (b).Data pointsrepresent meanvalues $( n = 3 )$ of the eleven groundwater sampling events. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/47e803d33ab8319b8b5ae52bd01577156777b5a365e6c67d3984613bb3afb91a.jpg",
+        "img_caption": [
+            "Fig.4 Relationship between the concentration of DOC and ${ \\mathsf { N O } } _ { 3 } { } ^ { - } { \\mathsf { N } }$ in groundwater (black) and soil (gray).The data are grouped for bioenergy buffers (points）and agricultural field (diamonds). The soil dataset (unfumigated samples of soil microbial biomass extraction) was created using the data of the last two sampling seasons $\\begin{array} { r } { ( n = 6 4 , } \\end{array}$ ）that represent the temporal window where groundwater was monitored (samples of $1 0 \\mathrm { ~ m ~ }$ wide buffers, $n = 4 4 .$ ，where soil samples were collected).The results of the regressions model $\\mathrm { ( y ~ \\nearrow ~ \\mathsf { ) } ~ } = \\mathrm { \\mathsf { a } } { + } \\mathsf { b } \\mathrm { e } ^ { - \\mathrm { k } ( \\mathrm { x } ) }$ ）were significant for both dataset: groundwater $( R ^ { 2 } \\colon 0 . 5 8 , ~ P \\colon 0 . 0 2 5$ and soil $( R ^ { 2 } \\colon 0 . 7 4 , P \\colon 0 . 0 1 2 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Groundwater geochemistry and hydrology ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Water table fluctuated along the measuring period following the precipitations pattern (Fig. S1). On average, water table depth ranged between $0 . 9 5 \\mathrm { ~ m ~ }$ - bss in winter and autumn and $0 . 6 2 \\mathrm { ~ m ~ }$ - bss during spring and summer. Water table depth did not differ significantly in AF and bioenergy buffers $( F = 0 . 6 2 6$ $P = 0 . 6 0 8 2 ,$ . Dissolved oxygen in AF resulted significantly higher $( F = 5 . 2 \\$ $P = 0 . 0 3 4 ,$ ） than under bioenergy buffers. Dissolved oxygen in AF was on average 2.74 and $2 . 2 5 ~ \\mathrm { m g ~ L } ^ { - 1 }$ in bioenergy buffers (Table S2). No statistical differences were found instead for dissolved $\\mathrm { O } _ { 2 }$ among bioenergy buffers types.DOC concentration showed an increase along the transect of piezometers towards the ditch (Table S2).Agricultural field showed significantlowerDOClevels(onaverage $1 . 7 1 \\mathrm { ~ m g ~ D O C ~ L ^ { - 1 } } )$ compared to groundwater after bioenergy buffers $( F = 1 1 . 2$ $P = 0 . 0 0 4 ,$ .Willow showed the highest groundwater DOC values (on average $7 . 7 6 ~ \\mathrm { m g ~ D O C ~ L } ^ { - 1 } ,$ ，while no significant differences were found for the same parameter between spontaneous species and miscanthus.Moreover,a significant negative nonlinear relationship was found between groundwater DOC and $\\mathsf { N O } _ { 3 ^ { - } } \\mathrm { N }$ 1 $( P = 0 . 0 2 5$ $R ^ { 2 } = 0 . 5 8 )$ ： Overall， groundwater after bioenergy buffers resulted more C rich and more $\\mathrm { \\Delta N }$ depleted in $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ compared to groundwater coming from AF (Fig.4).A potential decrease in elemental ${ \\mathrm { D O C } } { \\mathrm { : N O } } _ { 3 } .$ N ratio in groundwater under bioenergy buffer was found (Table S2). Under bioenergy buffers,starting from the 2O14 leaching season until the 2015 growing season, elemental ${ \\mathrm { D O C } } { \\mathrm { : N O } } _ { 3 }$ N was below 3 in $9 5 \\%$ of the cases.A significant inverse linear relationship between BSE $( \\% )$ in removingnitrate and elemental ${ \\mathrm { D O C } } { \\mathrm { : N O } } _ { 3 } .$ -Nwas found (Fig.4).Elemental ${ \\mathrm { D O C } } { \\mathrm { : N O } } _ { 3 } .$ -N ratio was also seen to be a significant factor in determining BSE of $5 \\mathrm { - m }$ -widebuffers more than in $1 0 \\mathrm { - m }$ -wide buffers (Fig. S2a). Only during the 2015 growing season was ${ \\mathsf { D O C } } { : } { \\mathsf { N O } } _ { 3 }$ -N ratio significantly correlated with BSE(Fig. S2b） because of the increase in N input from AF. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Impacts of bioenergy buffers on soil C and N cycling ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bioenergy buffers had a significant impact on the stock of several soil N and C pools compared to AF (Table S4 and Fig. 5a-d). Considering the dissolved mineral N forms that were analysed,AF showed lower dissolved inorganic $\\Nu$ (DIN) and $\\mathrm { N H _ { 4 } } { \\cdot } \\mathrm { N }$ in the soil compared to the bioenergy buffers.No effects of crop type and season were found for TDN (Table S4).Only in the third growing season (2015) was a significantly higher TDN stock found in the AF $( F = 6 . 6 5$ 1 $P < 0 . 0 0 0 1$ ).Underthe tomato cultivation,potential leachable $\\mathrm { N O } _ { 3 }$ -Nwashighest $( F = 6 . 0 5 ,$ $P < 0 . 0 0 0 1 _ { \\cdot }$ ）at all soil depths (Fig. 5a),and consequently,TDN was increased along the soil profile Three months after willow buffer establishment，a significant increase in potential leachable $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ along the soil profile was found compared to the other bioenergybuffer types (Fig. 5a).No other significant potential leaching phenomena were found for willow in the following years compared to other bioenergy buffers. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "On average,the proportion of $\\mathrm { N O } _ { 3 }$ -N, $\\mathrm { \\Delta N H _ { 4 } - N }$ and $\\mathsf { N O } _ { 2 }$ -Nin soil DINofAFwas $9 2 \\%$ $6 \\%$ $2 \\%$ ,respectively In comparison with AF,the proportions of $\\Nu { \\cal O } _ { 2 }$ -N $( 9 \\% )$ （204号 and of $\\mathrm { N H _ { 4 } } { \\cdot } \\mathrm { N }$ $( 1 4 \\% )$ in soil DIN of bioenergy buffers were significantly increased and $\\mathrm { N O } _ { 3 ^ { - } } \\mathrm { N }$ was signifi",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) 120 0-10 cm ■10-20 cm ■20-30cm ■30-60 cm (b) 140 0-10 cm ■10-20cm 20-30cm ■30-60cm   \n(-y B) -ON 108 a bb a a bb (e By Nua 1201080 aa a a a a a a ab a a a 60 A ab 60 a bb a ab bb 40 a abb 40 a a b 20 ab 20 b ab ab b ab ab ab C 0 Willow zIpni Viiraraet Willow Zeie Willow naage Willow 0 Willow weea Willow Aa Willow negee Willow oienten Miscanthus Miscanthus Miscanthus Spontaneous spp. Sp Spot 业 Spon Spnte Spontaneous sthus Spontaneous spp. Sp 业 Buffer 1st growing 2nd growing 3rd growing Buffer 1st growing 2nd growing 3rd growing establishment season season season establishment season season season   \n(c) 400 0-10 cm ■10-20 cm 20-30cm ■30-60 cm (d) 400 ■0-10cm ■10-20cm ■20-30 cm ■30-60 cm   \n(e 8x Oog 300 a ba ba ba b b b b 6 ( g Jag 300 bb ba a a a a a b b b ab F a a 200 a a b a a a a a a a 200 b aba ab a a a ab abb abb a b a aba b 100 a b a b b b b b b b b b b b 100 b b a bc bc bc a a a a a C C C C 0 WilloW Z Willow 2e dds Willow oiener 0 Willow Ze Willow ZIPpY Willow neeeae Willow oier F_soybean Spo Spontaneous spp. Miscanthus 业 Miscanthus 业 Spontaneous spp. Miscanthus 业 Sponae Spontaneous spp. Miscanthus 业 Spontaneous spp. Miscanthus 业 Spontaneous spp. Miscanthus 业 Spontaneous s ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "cantly reduced $( 7 7 \\% )$ .Soil TDN pool in bioenergy buffers consisted of a great percentage of $_ \\mathrm { N }$ in a dissolved organic form (DON). DON was significantly higher in bioenergy buffers thatin AF in the top soil layers (O-10, 10-20 and $2 0 { - } 3 0 ~ \\mathrm { c m } ,$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Threeyearsafter bioenergy buffer establishment, DOC resulted the soil C pool mostly affected (in terms of positive stocking) by the crop types (Fig. 5c). Significant effects for crop type $( F = 7 . 4 0 \\$ 、 $P = 0 . 0 0 6 )$ ，soil depth $( F = 5 . 4 0$ 、 $P = 0 . 0 0 2 ,$ ，growing season $( F = 5 . 9 7 ,$ $P = 0 . 0 0 3 ^ { \\cdot }$ ）andtheir interactions were found for DOC (Table S4).Bioenergy buffers soils showed a significant increase in DOC stock compared to AF at all soil depths and for each of the first three growing seasons (Fig. 5c). No differences in these parameters were found among bioenergy buffers indicating a similar trend of increase in DOC stock along the soil profile. The most significant increasesin DOC under bioenergy bufferswere observed in the 20-30 and the $3 0 { \\mathrm { - } } 6 0 ~ { \\mathrm { c m } }$ soil layers. Sim ilarly to what observed in groundwater,a significant negative nonlinear relationship $\\cdot P = 0 . 0 1 2$ $R ^ { 2 } = 0 . 7 4 \\AA ,$ 0 was found in soil between the concentrations of DOC and $\\mathsf { N O } _ { 3 }$ -N (Fig. 4). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The increase in DOC in bioenergy buffers also contributed to an increased C availability for microorganisms.Figure 5d clearly shows how microbial biomass C (MBC） significantly increased along the soil profile in bioenergybufferscomparedto AF $F = 5 . 9 2$ 1 $P = 0 . 0 0 4 )$ 1 After the first period of buffers establishment,significantinteractionsbetween crop and soil depths $( F = 3 . 9 1$ ， $P = 0 . 0 2 9 ^ { \\cdot }$ ）and between crop and growing seasons $( F = 3 . 3 8 \\$ ， $P = 0 . 0 1 3$ ）wereobserved for MBC. Underbioenergybuffers，the $3 0 { \\mathrm { - } } 6 0 ~ \\mathrm { c m }$ soil layer showed the greatest increase in MBC stock ${ \\mathit { \\Omega } } ^ { \\prime } P = 0 . 0 1 3 { \\mathrm { , } }$ 1 compared to AF.A significant increase in microbial biomass N (MBN） stock was also observed in bioenergy buffers compared to AF $( F = 3 . 9 9 \\$ 、 $P = 0 . 0 2 3$ ） (Fig.5b). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b2698f4a8d20e3476c3df06607570f917253332695c0607eed11947a95e97bc.jpg",
+        "img_caption": [
+            "Fig.6Soil nitrate reductase activity (NRA) in bioenergy buffersand inagricultural field at different soil depths.Valuesare reported as average values of the first three growing seasons. Different letters show statistically different means (Tukey's test, $P \\colon 0 . 0 5 )$ within soil depths. ",
+            "Fig.7Finerotbomas (aandrootNstocks(b)inoeneryuffersatdiferentsoildepts.Diferentleterssowstatisticalydif ferent means (Tukey's test, $P \\colon 0 . 0 5 )$ among crop types within the same soil depth interval. (c) Linear relationship between fine root biomass and soil nitrate reductase activity (NRA) in bioenergy buffers in third growing season (2015). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Among bioenergy buffers，spontaneous specieswas seen the treatment with the highest ability to immobilize N in soil microbial biomass at different depths com pared to miscanthus ${ \\mathrm { \\mathit { \\Omega } } } ^ { \\prime } P = 0 . 0 2 8 { \\mathrm { \\rangle } }$ andwillow $( P = 0 . 0 0 3 ^ { \\cdot }$ ） Elemental C:N ratio of microbial biomass was found significantly higher $( F = 2 . 1 1$ 、 $P = 0 . 0 4 7 \\mathrm { . }$ ）in bioenergy buffers (6.01) compared to the AF (4.45). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The rate of biological reduction of nitrate to nitrite (nitrate reductase activity - NRA） was found to be strongly affected by the crop types，soil depths and across different growing seasons (Fig. 6 and Table S4). Bioenergy buffers,in particular willow, supported a soil microbial community able to remove nitrate at higher rates compared to AF since the first periods after crop establishment (Fig. S3). On average, NRA values along the soil profile were 38.1 and $4 3 . 4 ~ \\mu \\mathrm { g }$ N",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a) Fine root biomass (Mg ha-l) (b) Root N stock (kg ha-1) 0.0 0.5 1.0 1.5 2.0 2.5 0 2 4 6 8 10 12 14 16 (c)   \n0-10 cm a b C 0-10 cm a a b (p 60 ● Spontaneous spp. ns ·Miscanthus R²: 0.38 P:0.02 a a   \n10-20 cm ab b Spontaneous spp. 10-20 cm ab b Spontaneous spp. 50 · Willow R2: 0.51 P: 0.01   \n20-30 cm a ■Miscanthus ■Willow 20-30cm ■Willow ■Miscanthus N-ON Bm) 40 30 0   \n30-40 cm b F P 30-40cm b F P 20   \n40-50 cm b Crop (D) 47.2 <0.001 CxS 11.6 <0.001 40-50 cm a a b CxS Cep(D) 331 ≤0.001 9.3 <0.001 NRA 10 0 a b aa 0.0 0.5 1.0 1.5 2.0 2.5   \n50-60cm C 50-60cm Fine root biomass (Mg ha-1) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N O _ { 2 } \\ g _ { s o i l } } ^ { - 1 } \\ \\mathrm { d a y } ^ { - 1 } .$ ,respectively,for miscanthus and willow.These values were significantly higher $( F = 5 6 . 5 0 ,$ $P < 0 . 0 0 0 1 ^ { \\cdot }$ ）than those observed for the spontaneous species $( 3 0 . 3 ~ \\mu \\mathrm { g } ~ \\mathrm { N } { \\cdot } \\mathrm { N O } _ { 2 } ~ \\mathrm { g _ { s o i l } } ^ { - 1 } ~ \\mathrm { d } \\mathrm { a y } ^ { - 1 } )$ and for the AF $( 2 1 . 5 ~ \\mu \\mathrm { g } ~ \\mathrm { N } \\mathrm { - } \\mathrm { N O } _ { 2 } ~ \\mathrm { g _ { s o i l } } ^ { - 1 } ~ \\mathrm { d a y } ^ { - 1 } ;$ ） ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Belowground and aboveground biomass production and $N$ stocks ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "After 3 years from the establishment of bioenergy buffers，fine root biomass $( < 2 ~ \\mathrm { m m } )$ was significantly affected by crop type,soil depths and by the interaction of both factors (Fig.7a). In the whole soil profile $\\left( 0 { - } 6 0 ~ \\mathrm { c m } \\right)$ ，willow showed the significantly highest fine root biomass $( 5 . 3 0 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ ）compared to miscanthus $( 3 . 9 9 ~ \\mathrm { M g ~ h a } ^ { - 1 } )$ ，while the lowest value was found for the spontaneous species $( 2 . 0 3 ~ \\mathrm { M g ~ h a } ^ { - 1 } )$ .On average, $5 9 \\%$ of fine roots in willow and miscanthus were found in the top soil layer $\\left( 0 { - } 3 0 \\ \\mathrm { c m } \\right)$ and $4 1 \\%$ in bottom soil layer $( 3 0 - 6 0 ~ \\mathrm { c m } )$ ．In the spontaneous species，the greatest proportion of fine root biomass $( 7 0 \\% )$ was found in the top layer. Significant linear relationships were found between fine root biomass and soil NRA for miscanthus and willow (Fig. 7c). The crop ranking for fine root biomass (willow $>$ miscanthus $>$ spontaneous species）was the same for soil NRA. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "N root content $( \\mathrm { g } ~ \\mathrm { k g } ^ { - 1 } )$ did not vary significantly among crops $( F = 1 . 6 7 ,$ $P = 0 . 2 1 1$ ）and along the soil profile $( F = 0 . 1 5$ $P = 0 . 9 2 6 \\mathrm { ; }$ . Onaverage,at 0-10,10-20, $2 0 { - } 3 0 ~ \\mathrm { c m }$ and $3 0 { \\mathrm { - } } 6 0 ~ \\mathrm { c m }$ depth root $\\mathrm { \\Delta N }$ content was, respectively, 5.8, 6.1,6.1 and $5 . 9 ~ \\mathrm { k g } \\mathrm { ~ N ~ g } _ { \\mathrm { r o o t } } { } ^ { - 1 }$ . N stock in fine roots was significantly affected by crop types, soil depths and by the interaction of both factors (Fig.7b).Willowshoweda higher root $\\mathrm { \\Delta N }$ stock $( 3 2 . 4 0 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 } )$ along the whole soil profile ( $\\left( 0 { - } 6 0 \\ \\mathrm { c m } \\right)$ compared to miscanthus $( 2 0 . 7 9 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 } .$ ). Spontaneous species instead showed the lowest root $\\mathrm { \\Delta N }$ stock $( 1 2 . 6 7 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 } )$ 1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Harvestable biomass in bioenergy buffers for miscanthus，afterwinterkillingfrost(February)， was $3 . 2 \\pm 0 . 6 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 }$ in the establishment year (2013) and $1 0 . 7 6 \\pm 0 . 5 1 \\mathrm { { \\ M g \\ D M \\ h a } ^ { - 1 } }$ at the second year (2014).Willow,after the first2 yearsrotation cycle,pro duced significantly more than miscanthus $( F = 9 9 . 5 5 , $ $P < 0 . 0 0 0 1$ ）with a harvestable biomass of $3 4 . 1 5 \\pm$ $1 . 7 1 \\mathrm { \\ M g \\ D M \\ h a } ^ { - 1 }$ . N exportations via harvesting were, respectively, $5 . 9 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ in 2013 and $1 6 . 1 ~ \\mathrm { { k g } ~ N \\ h a ^ { - 1 } }$ in 2014 for miscanthus and $7 3 . 7 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ for willow in 2014.By analysing the biomass data of each single row in each plot, it was found that there was an exponential decrease in biomass yield along the buffer transect (Fig. S4).The plant rows closer to the AF showed the highest values in harvestable biomass and N removal in comparison with the plant rows near to the ditch.Harvestable biomass for the $1 0 – \\mathrm { m }$ -widewillow buffers (Fig. S4a) ranged from $4 7 . 4 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 }$ in the plant rows adjacent to the AF to $2 6 . 6 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 }$ in the plant rows near to the ditch.Similarly, $\\mathrm { \\Delta N }$ removal was highest in plant rows adjacent to the AF $\\cdot 1 2 0 . 6 ~ \\mathrm { { k g } ~ N ~ h a } ^ { - 1 } ,$ ）andlowestneartheditch $( 5 1 . 7 8 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 } )$ .The same effect was less evident in miscanthus,and it was limited to the first two rows adjacent to the AF (Fig. S4b). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bioenergy buffers effectiveness(BSE) in removing N and key factors governing BSE ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ourresults clearly indicate bioenergy buffers effectiveness in removing $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ and TDN from shallow groundwater (Fig.2 and Table S3). BSE in removing $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ was $70 \\%$ for miscanthus and $71 \\%$ for willow, respectively (Table S3).These values are in accordance with the $6 0 { - } 7 0 \\%$ range reported at landscape level by Ssegane et al. (2015) and Gopalakrishnan et al. (2012) for buffer strips cultivated with switchgrass，miscanthus and willow. Similar findings were reported also in riparian buffers of Salix spp.(Young & Briggs,2005). No differences between herbaceous and woody crops and between bioenergy crops and spontaneous species on N removal rate were observed (Table 2).This indicates that vegetation types in narrow buffer strips do not remove N from subsurface water flow with significantdifferences (Sabateret al.,20o3;Mayeretal.,2007). Mayer et al. (2oo7) conducted a meta-analysis over 45 published studies on nitrate removal by riparian buffers and found that the mean mass of $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ removed per unit length was not statistically different between forested and herbaceous buffers.Similarly,our results confirmed that DIN was dominantly present as $\\mathsf { N O } _ { 3 }$ and it was removed $9 . 3 8 \\% \\mathrm { m } ^ { - 1 }$ by spontaneous species, $1 0 . 1 2 \\% \\ \\mathrm { m } ^ { - 1 }$ by miscanthus and $9 . 4 3 \\% \\mathrm { m } ^ { - 1 }$ by willow, respectively. These values are in accordance with the mean values found in 14 riparian buffers across Europe (Sabater et al.,20o3).Yet,itis confirmed that from the first periods after establishment bioenergy crops can remove N from groundwater as much as buffers strips with spontaneous species. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Buffer width had a significant effect on $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ and TDN removal rates from shallow groundwater, with 10- m-wide buffers being more effective. Nonetheless, bioenergy buffers that are as wide as national recommendations $( 5 ~ \\mathrm { m } )$ ）suffice to remove more than $5 0 \\%$ of the incoming nitrate in most cases (Table S3). The effect of buffer width in this study was unexpected as in literaturereports have shown significant differenceswhere buffer widths differed by more than $1 0 { - } 2 0 ~ \\mathrm { m }$ (Hickey & Doran，2004;Mayer et al.，2007;Sweeney & Newbold, 2014).In addition,nitrate removal rate was seen to be even higher when nitrate input from AF increased (Fig.3).The results of nonlinear regression (Table S3) suggested that,in linear and straightforward hydrological conditions similar to our case study,a $3 \\mathrm { - m }$ -widebuffer，made of miscanthus or willow,can remove up to $7 5 \\%$ of nitrate during a high N input season. This indicates that no $\\Nu$ saturation effects occurred in our 3-year-old bioenergy buffers,although clear symptoms ofN saturation have been reported in situations with long-term Nloadings (Aber,1992;Hanson et al.，1994; Sabater et al.,2003;Hefting et al.,2006). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Biomass production and plant N removal in bioenergy buffers ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The reasons for which no evidence of N saturation was observed in this study can be found in the aboveground andbelowground biomass dynamics.Biomass production and plant N uptake have been shown to be important $\\mathrm { \\Delta N }$ removal processes in forested (Hefting et al., 2005）and herbaceous buffers (van Beek et al.，2007; Balestrini et al., 2011). In this study,willow buffers per formed very well in terms of biomass production in the first 2-year cycle $( 3 4 . 2 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 } )$ .This value of biomass yield is higher than the mean values reported for Salix spp.in Canada and the United States (Amichev et al.,2014),Europe (Zegada-Lizarazu et al.，201O) and in northern Italy (Rosso et al.，2013). The tolerance of willow to saturated soils and oxygen shortage at deeper soil layers is widely reported (Krasny et al.,1988; Jackson & Attwood，1996;Aronsson & Perttu，2001).Furthermore, lateral N loadings by enriched groundwater significantly affected biomass production along the buffer transect (Fig.S4a)with the first two rows (adjacent to the AF) being the most productive (upto $4 8 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 }$ plant row $^ { - 1 }$ ）and the ones that contributed most to $\\mathrm { \\Delta N }$ removal via uptake and harvesting (Fig. S4). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus biomass production in the first 2 years was 3.2 and $1 0 . 8 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 }$ . These values are lower than those found in field trials with similar stand age in temperate regions; from 15 to $2 0 \\ \\mathrm { M g \\ D M \\ h a } ^ { - 1 }$ (Lewandowski & Heinz，2003；Angelini et al.，2009). For miscanthus,thelow yieldsmighthave beenaffectedby the presence of shallow groundwater (Lewandowski et al., 2003） and by the high soil hydraulic conductivity and sandy loam texture (Table S1).The latter two factors may increase the soil moisture deficit in upper soil layers for relatively long periods during the summer season; previous studies (Heaton et al.，20o4;Monti & Zatta，2009;Mann et al.,2012) have shown miscanthus to be highly productive where water is not limiting, but very sensitive to water shortage. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "By comparison with spontaneous species, both willow and miscanthus had deeper fine root systems (Fig.7a) and higher root N stocks (Fig.7b). The ability of perennial bioenergy crops to penetrate deep-rooting zones (to access nutrients more efficiently）is widely recognized (Rytter,2001;Glover et al.,2010;Ens et al.,2013; Owens et al.,2013;Amichev et al.,2014). The total belowground biomass found in willow can be placed at the highest ranking positions among the willow hybrids studied in Stadnyk (201O) and reviewed in Amichev et al. (2014). After 2 years from planting,miscanthus had a mean belowground biomass of $4 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 }$ between O and $6 0 ~ \\mathrm { c m }$ in depth.At this depth interval, this value is in line with those reported in previous studies carried out on mature stands $( > 3 - 4$ years)in Italy(Monti& Zatta, 2009;Chimento & Amaducci，2015),Europe and USA (Heaton et al.，2004;Amougou et al.，2010;Dohleman et al.,2012；Anderson-Teixeira et al.，2013;Zatta et al., 2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "With regard to root biomass distribution along soil profile,it was observed that willow with $2 . 2 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ and miscanthus with $1 . 6 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ are characterized by an high contribution of fine roots $( 4 1 \\% )$ to whole root biomass at deeper layers $( 3 0 - 6 0 ~ \\mathrm { c m } )$ .Ina 6-year-old multispecies experiment, Chimento $\\&$ Amaducci,2015 found that only $0 . 9 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ $( 1 7 \\% )$ ）and $2 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ $( 2 3 \\% )$ of the whole root mass was allocated respectively by willow and miscanthus at $3 0 { \\mathrm { - } } 6 0 ~ { \\mathrm { c m } }$ depth.These results on rooting patterns clearly indicate how cultivating bioenergy crops along the field margins offers the opportunity to intercept N loads from surrounding agricultural fields at deeper soil layers compared to buffers with spontaneousspecies. Thiswould ultimately increase the environmental performance of bioenergy buffers in term of plant N removal from soil. Furthermore,as root biomass was shown to be a good indicator of soil organic C sequestration (Chimento et al.,2016; Chimento & Amaducci,2015),our results suggest how bioenergy buffers have a higher potential compared to patches of adventitious plants to contribute to C storage and GHG savings in the deep soil layers. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Biogeochemical processes governingN removal in plantsoil-groundwater system ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In addition to the role of vegetation,a series of biogeo chemical processes in soil and groundwater are recognized as being important in determining $\\Nu$ removal in bioenergy 3 buffers.The patterns of dissolved ${ \\mathrm { O } } _ { 2 } , { \\mathrm { p H } } ,$ $\\Nu { \\cal O } _ { 2 }$ -N， $\\mathrm { N O } _ { 3 }$ -N and DOC in groundwater (Table 2, Table S2 and Fig. 4) suggest that denitrification plays a predominant role in the nitrate depletion observed in bioenergy buffers. Suboxic conditions were found in groundwater after the bioenergy buffers (Table S2); such conditions are optimal for denitrification (Vidon & Hill, 2005). There was also a significant increase in the contribution of $\\mathrm { N O } _ { 2 }$ -N to DIN at the expense of $\\mathsf { N O } _ { 3 }$ -Nwhich indicates that a rapid nitrate reduction occurred (Giles et al.，2012；Butterbach-Bahl et al.，2013).The alkaline $\\mathrm { \\Delta p H }$ of groundwater (Table S2) and of soil (Table S1) and the average depth of the groundwater table (Fig. S1) denote the presence of ideal conditions forsoil denitrifying communities (Groffman et al.,1991;Weier et al.,1993; Rich & Myrold,2004). Moreover,an increase in the stock of DOC along the soil profiles of bioenergy buffers (Fig.5c) might have promoted the observed enrichment of DOC in groundwater after the bioenergy buffers (Table S2). DOC levels in groundwater after the bioenergy buffers $( > 5 ~ \\mathrm { m g ~ D O C ~ L ^ { - 1 } } )$ indicated that incoming groundwater found suitable conditions for denitrification under the bioenergy buffers (Cosandey et al.,2003; Gumiero et al.,2011; Senbayram et al., 2012). In comparison with spontaneous species，willow and miscanthus,indeed, promoted an active zone of biological removal of nitrate along the whole soil profile because of their deep and dense root systems as revealed by the positive relation between NRA and fine root biomass (Fig. 7c). High soil moisture in sandy loam soils has been shown to stimulate root exudation of easily available C sources (DOC） for microorganisms, thus triggering microbial activity (Dijkstra & Cheng, 2007). On this regard, the use of DOC and the incoming nitrate,respectively,as donor and electron acceptor by denitrifying microbial communities plays a key role in the nitrate depletion observed in groundwater.A significant exponential negative relationship between DOC and $\\mathrm { N O } _ { 3 }$ -N was found along the groundwater soil continuum from the AF to the bioenergy buffers (Fig. 4). This indicate that the shift in elemental stoichiometry $( \\mathrm { D O C } { : } \\mathrm { N O } _ { 3 } .$ N ratio） promoted the microbial N removal by denitrification in bioenergy buffers by constraining $\\mathrm { \\Delta N }$ accrual in groundwater. The presence of a confining layer at a shallow depth (Fig.1c) forces most of the incoming oxic and enriched nitrate groundwater to flow through the subsurface，DOC rich，soil layer of the bioenergy buffers (Gold et al.，2002).As consequence, the $\\scriptstyle { \\mathrm { D O C } } : { \\mathrm { N O } } _ { 3 ^ { - } }$ N ratio dropped below the range of 3-6 (Table S2) and triggered $\\mathrm { N O } _ { 3 }$ -N removal by denitrification (Taylor & Townsend, 2010),which is in agreement with results available in literature (Groffman et al.,1992; Hedin et al.,1998; Hill & Cardaci,2000; Gold et al.,2002; Cosandey et al.,2003; Senbayram et al.,2012). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The results discussed above indicate that the N removal processes are strictly linked to the increase in DOC in bioenergy buffers.Dissolved organic C compounds are important drivers of denitrification in ripar ian soils (Hill et al.，20oo). Easily available C for microorganisms measured as DOC has been also thought to be the main source of subsoil organic matter (Rumpel & Kogel-Knabner, 2011） and under bioenergy crops could be of relevance due to the their deep-root systems (Agostini et al.， 2015). In fact, the observed increase in soil DOC in willow and miscanthus buffers was found to be significantly correlated to fine root biomass $\\textstyle R ^ { 2 } = 0 . 3 5 ,$ $P = 0 . 0 4 )$ . Through the release of exudates of low molecular weight (the main source of DOC),the root environment (the so called rhizosphere) increases microbial activity through MB utilization of new easily available C sources (Kuzyakov，20o2;Zhu et al.，2014). The dual increase in DOC and MBC observed along the soil profile in our bioenergy buffers as compared to the AF (Fig. 5c, d) revealed that establishment of bioenergy crops with such dense and deeprooting systems triggered the soil microbial community. The activities of soil C,N and P-acquiring enzymes such as $\\beta$ glucosidase, leucine aminopeptidase and alkaline phosphatase havebeen observed to significantly increase under bioenergy buffers at $0 { - } 3 0 ~ \\mathrm { c m }$ depth (A. Ferrarini $\\& \\mathrm { ~ F ~ }$ ，Fornasier,unpublished data). The rhizosphere priming effect promotes N mining from SOM and the mineralized $\\mathrm { \\Delta N }$ is retained by the microbial community through rapid immobilization (Kuzyakov, 2002; Dijkstra et al.，2013；Kuzyakov & Xu，2013;Blagodatskaya et al.,2014; Chen et al.,2014; Zhu et al.,2014). Microbial biomass N, indeed, significantly increased in the top soil layers under the bioenergy buffers by comparison with the AF (Fig. 5b). Microbial N retention was also observed in other perennial agroecosystems (Hargreaves & Hofmockel，2013).However，elemental CN ratio of microbial biomass (MB) along the soil profile did not decrease because of MBN increase.A MB CN ratio around 6 is close to that of the SOM that would be decomposed (SOM CN of 8 at $0 { \\mathrm { - } } 6 0 { \\mathrm { ~ c m } } ^ { \\cdot }$ ）and this highlights how soil microbial biomass should not undergo adjustmentsofmicrobial elementuse efficiency (Mooshammer et al., 2014).As the stoichiometry of the soil resource was balanced with that of the microbial biomass,soil microbes could not excrete $\\mathrm { \\Delta N }$ in excess and thus soil $\\mathrm { \\Delta N }$ is retained and N losses should have been prevented (e.g. during winter period with potential N leaching) (Manzoni et al., 2012; de Vries & Bardgett, 2012). Indeed，potentially leachable nitrate did not increase significantly along the soil profile under the bioenergy buffers compared to the AF after the beginning of the second growing season (2014) (Fig. 5a). Overall, the increase in easily available C for microorganism (DOC),MBC and MBN confirmed the results of Bengtson et al.(2012) and Paterson (2003) of a strong coupling of root C release, SOM cycling and microbial ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In conclusion，herbaceous and woody bioenergy crops have been confirmed as being effective in mitigating shallow groundwater N pollution when cultivated as bioenergy buffers.Up to 50,70 and $90 \\%$ buffer strip effectiveness in removing $_ { \\mathrm { N O } _ { 3 } - \\mathrm { N } }$ could be reached by creating bioenergy buffers 3,9 and $1 5 ~ \\mathrm { m }$ wide,respec tively.The use of ecological stoichiometry $\\mathrm { ( D O C : N O _ { 3 } ) }$ N) revealed that denitrification plays a key role in the nitrate removal observed along the soil-groundwater continuum. Deep-rooting systems of bioenergy crops promoted the activation of soil microbial processes involved in N removal from soil. Our findings also suggest that biomass production and N removal through multiple harvests further contributes to N retention in bioenergy buffers compared to unmanaged buffer strips with spontaneous species. Bioenergy crops placed along watercourses in sandy loam soils with shallow groundwater enhance ecosystem services and sustain soil functioning such as water quality regulation and soil microbial C and N cycling. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge funding from the Italian Ministry of Agriculture to the HEDGE-BIOMASS project.We thank Francesca O'Kane for insightful comments on an earlier version of our manuscript,Luigi Bisi for field maintenance, Luca Poletti for laboratory assistance and field work,Marco Barbieri for the help in the geological survey and Nicola Ballerini for help in the installation of piezometers. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abdelmagid HM,Tabatabai MA (1987) Nitrate reductase activity of soils.Soil Biology and Biochemistry,19,421-427.   \nAber JD (1992) Nitrogen cycling and nitrogen saturation in temperate forest ecosystems.Trendsin Ecology&Evolution,7,220-224.   \nAgostini F,Gregory AS,Richter GM (2015) Carbon sequestration by perennial energy crops:is the jury still out? BioEnergy Research,8,1057-1080.   \nAltman SJ,Parizek RR (1995) Dilution of nonpoint-source nitrate in groundwater. Journal ofEnvironmentQuality,24,707.   \nAmichev BY,Hangs RD,Konecsni SMet al. (2014) Willow short-rotation production systems in Canada and Northern United States:a review.Soil Science Society of America Journal,78,168-182.   \nAmougou N, Bertrand I, Machet J-M,Recous S (201o) Quality and decomposition in soil of rhizome,root and senescent leaf from Miscanthus $\\mathbf { \\boldsymbol { x } }$ giganteus,as affected byharvestdateandN fertilization.Plant andSoil,338,83-97.   \nAnderson-Teixeira KJ,Duval ED,Long SP,Delucia EH (2012) Biofuels on the landscape:is‘land sharing\"preferable to land sparing\"?Ecological Applications, 22,2035-2048.   \nAnderson-Teixeira KJ,Masters MD,Black CK,Zeri M,Hussain MZ,Bernacchi CJ, Delucia EH (2013）Altered belowground carbon cycling following land-use change to perennial bioenergy crops. Ecosystems,16,508-520.   \nAngelini LG,Ceccarini L,Nassi o Di Nasso N,Bonari E (2O09) Comparison of Arundo donax L.and Miscanthus $\\mathbf { \\boldsymbol { x } }$ giganteus in a long-term field experiment in Central Italy:analysis of productive characteristics and energy balance. Biomass and Bioenergy,33,635-643.   \nAronssonP,Perttu K(2o01) Willow vegetation filters for wastewater treatment and soil remediation combined with biomass production.The Forestry Chronicle,77,293-299.   \nAsbjornsen H,Hernandez-Santana V,Liebman M et al.(2012) Targeting perennial vegetation in agricultural landscapes for enhancing ecosystem services.Renewable Agriculture and Food System,29,101-125.   \nBalestrini R,Arese C,Delconte C (2o08) Lacustrine wetland in an agricultural catchment $\\because$ nitrogen removal and related biogeochemical processes.Hydrology and Earth System Sciences,12,539-550.   \nBalestrini R,Arese C,Delconte CA,Loti A,Salerno F(2011) Nitrogenremoval insubsurface water by narrow buer strips in the intensive farming landscape of the Po River watershed,Italy.Ecological Engineering，37,148- 157.   \nVan Beek CL,Heinen M,Clevering OA (2o07) Reduced nitrate concentrations in shallow ground water under a non-fertilised grass buffer strip.Nutrient Cycling in Agroecosystems,79,-91.   \nBengtson P,Barker J, Grayston SJ(2012) Evidence of astrong coupling between root exudation, C and N availability,and stimulated SOM decomposition caused by rhizosphere priming effects. Ecologyand Evolution,2,1843-1852.   \nBlagodatskayaE,homyakovN,achinaO,ogomoloaIagodatskykov Y (2014) Microbial interactions affect sources of priming induced by cellulose.Soil Bologyandiochemistry94.   \nBourke D,Stanley D,ORourke Eet al.(2014) Responseof farmland biodiversity to theintroductionof bioenergy crops: effects of local factors and surrounding landscape context.GCBBioenergy,6,275289.   \nButterbach-Bahl K, Baggs EM, Dannenmann M,Kiese R,Zechmeister-Boltenstern S (2013) Nitrous oxide emissions from soils: how well do we understand the processesand their controls?Philosophical transactionsof theRoyal Society ofLondon. SeriesB,igcals8,   \nCapri E, Civita M,Corniello Aet al. (2oo9)Assessment of nitrate contamination risk: the Italian experience.Journal of Geochemical Exploration,102,71-86.   \nChen R, Senbayram M, Blagodatsky S et al. (2014) Soil $\\mathrm { \\Delta C }$ and N availability determine the priming effect: microbial N mining and stoichiometric decomposition theories.Global Change Biology,20,2356-2367.   \nCheneby D,Bru D,Pascault N,Maron PA,Ranjard L,Philippot L (2010)Role of plant residues in determining temporal patterns of the activity, size,and structureof nitrate reducer communities insoil.Applied and Environmental Microbiology,76,7136-7143.   \nChimento C,Amaducci S (2015) Characterizationof fine root system and potential contribution to soil organic carbon of six perennial bioenergy crops.Biomass and Bioenergy,83,116-122.   \nChimento $C ,$ Almagro M,Amaducci S (2016) Carbon sequestration potential in perennial bioenergy crops: the importance of organic matter inputs and its physical protection. GCB Bioenergy,8,111-121.   \nChristen B,DalgaardT(2013) Buffers forbiomass production intemperate European agriculture: a review and synthesis on function,ecosystem services and implementation.Biomassand Bioenergy,55,53-67.   \nCosandey A-C,Maitre V,Guenat C (2oo3) Temporal denitrification patterns in different horizons of two riparian soils. European Journal of Soil Science,54,25-37.   \nDale VH,EfroymsonRA,KlineKL(2011)Thelanduse-climatechangeenergy nexus.Landscape Ecology,26,755-773.   \nD'Angelo E,CrutchfieldJ, Vandiviere M(2)Rapid,sensitive,microscale determiation of phosphate in waterand soil. Journal of Environmental Quality,30,2206-2209.   \nDe Cauwer B,Reheul D,Nijs I, Milbau A (2oo5) Biodiversity and agro-ecology in field margins.Communications in Agricultural and Applied Biological Sciences,70, 17-49.   \nDijkstraFA,Cheng W(2007)Moisture modulates rhizosphere effects on C decomposition in twodifferent soiltypes.Soil Biologyand Biochemistry,39,2264-2274.   \nDijkstraFA,Carillo Y,PendallE,Morgan JA (213)Rhzosphere priming:atrint perspective.Frontiers in Microbiology,4,216.   \nDohlemanFG,Heaton EA,Arundale RA,Long SP (2012) Seasonal dynamicsof aboveand below-ground biomass and nitrogen partitioning in Miscanthus $\\times$ giganteus and Panicum virgatum across three growing seasons.GCB Bioenergy,4,534-544.   \nEns J,Farrell RE,Belanger N (2013) Early effects of afforestation with willow (Salix purpurea, Hotel') on soil carbon and nutrient availability.Forest,4,137-154.   \nFritsche UR,SimsREH, Monti A (2010) Directand indirect land-use competition issues for energy crops and their sustainable production -an overview. Biofuels, BioproductsandBorefining,4,69704.   \nGelfand I, Sahajpal R, Zhang $\\mid x ,$ Izaurralde RC,Gross KL,Robertson GP (2013) Sustainable bioenergy production from marginal lands in the US Midwest. Nature, 493, 514–517.   \nGiles M,MorleyN,Baggs EM,DaniellTJ(O12)Soilitratereducingprocesss-drivers, mechanisms forspatial variation,and significance for nitrous oxideproduction.Frontiers inicrobiology,,07.   \nGlover JD,Culman SW,DuPont ST et al. (2010) Harvested perennial grassands provide ecological benchmarks foragricultural sustainability.Agriculture,Ecosystems and Eniromnt,7,2. V66Y scape attributes as controls on ground water nitrate removal capacity of riparian zones.Journal of the American Water Resources Association,37,1457-1464.   \nGopalakrishnan G,Cristina Negri M,Salas W (2012)Modeling biogeochemical impacts of bioenergy buffers with perennial grasses for a row-crop field in Ilinois. GCB Bioenergy,4,739-750.   \nGroffman PM,Axelrod EA,Lemunyon JL,Sullivan WM (1991) Denitrification in grass and forest vegetated filter strips.Journalof Environment Quality,20,671-674.   \nGroffman PM, Gold AJ, Simmons RC (1992) Nitrate dynamics in riparian forests: microbial studies.Journal of Environment Quality,21,666-671.   \nGumiero B,Boz B,Cornelio P,Casella S(2Ol1) Shallow groundwater nitrogen and denitrification in a newly afforested,subirrigated riparian bufer.Journal of Applied Ecology,48,1135-1144.   \nHanson GC,Grofman PM,Gold AJ (1994) Symptoms of nitrogen saturation in a riparian wetland.Ecological Applications,4,750-756.   \nHargreaves SK,Hofmockel KS (2013)Physiological shifts in the microbial community drive changes in enzyme activity in a perennial agroecosystem. Biogeochemistry, 117, 67-79.   \nHeaton E,Voigt T,Long SP (2O04)A quantitative review comparing the yields of two candidate C4 perennial biomass crops in relation to nitrogen,temperature and water. Biomass and Bioenergy,27,21-30.   \nHedin LO,von Fischer JC, Ostrom NE,Kennedy BP,Brown MG,Robertson GP (1998)Thermodynamic constraints on nitrogen transformationsand other biogeochemical processes atsoil-stream interfaces.Ecology,79,648-703.   \nHefting MM,ClementJC,BienkowskiPetal.(2o5)Theroleof vegetationadlitter in the nitrogen dynamics of riparian bufer zones in Europe. Ecological Engineering,24, 465-482.   \nHefting M,Beltman B,Karssenberg D,Rebel K,van Riessen M,Spijker M (2006) Water quality dynamics and hydrology in nitrate loaded riparian zones in the Netherlands.Enironmental Pollution,139,143-156.   \nHickey MBC,Doran B(2004)Areview of theeficiency of buffer strips forthe maintenance and enhancement of riparian ecosystems.Water Quality Research Journal of Canada,39,311-317.   \nHill AR, Cardaci M (2Ooo) Denitrification and organic carbon availability in riparian wetland soils and subsurface sediments.Soil Science Society of America Journal, 68, 320-325.   \nHill AR,DevitoKJ,Campagnolo S,SanmugadasK(20oo)Subsurface denitrification ina forest riparian zone: interactions between hydrology and supplies of nitrate and organicbon.ogeohemstry,,.   \nHolland RA,Eigenbrod F,Muggeridge A,Brown G,Clarke D,Taylor G (2015)A synthesis of the ecosystem services impact of second generation bioenergy crop production.Renewable and Sustainable Energy Reviews,46,30-40.   \nHothorn T,Bretz F,Westfall P(2015) Simultaneous inference in general parametric models.Biometrical Journal,50,346-363.   \nJackson MB,Attwood PA (1996) Roots of willow (Salix viminalis L.) show marked tolerance to oxygen shortage in flooded soils and in solution culture.Plant and Soil, 187,37-45.   \nKrasny ME,Zasada JC,Vogt KA (1988)Adventitious rooting of four Salicaceae species in response to a flooding event. Canadian Journal of Botany,66,2597- 2598.   \nKuzyakov Y (20o2) Review: factors affecting rhizosphere priming effects. Journal of Plant NutritionandSoil Science,165,82.   \nKuzyakov Y,Xu X (2013) Competition between roots and microorganisms for nitrogen: mechanisms and ecological relevance. The New phytologist,198,656-669.   \nLewandowski I, Heinz A (20o3) Delayed harvest of miscanthus—influences on biomass quantity and quality and environmental impacts of energy production. European Journal of Agronomy,19,45-63.   \nLewandowski I, Scurlock JMO,Lindvall E, Christou M (2003) The development and current status of perennial rhizomatous grasses as energy crops in the US and Europe.Biomassand Bioenergy,25,35-61.   \nMann JJ, Barney JN,Kyser GB, DiTomaso JM (2012) Root system dynamicsof Miscanthus $\\times$ giganteus and Panicum virgatum in response to rainfed and irrigated conditions inCalifornia.BoEnergy Research,6,78-687.   \nManning P,Taylor G,Hanley ME (2015) Bioenergy,food production and biodiversity-an unlikely alliance? GCB Bioenergy,7,570–576.   \nManzoni S,aylrP,ichter,orporatoA (O2)Environmentalandstocietric controls on microbial carbon-use efficiency in soils.New Phytologist,196,79- 91.   \nMayer PM,Reynolds SK,McCutchen MD,Canfield TJ (2007) Meta-analysis of nitrogenremoval in riparian buffers.Journal of Environmental Quality，36, 117110 midwestern landscapes under contrasting bioenergy scenarios. PLoS ONE,7, e41728.   \nMeehan TD,Graton C,Diehl E et al.(2013)Ecosystem-service tradeoffs associated with switching from annual to perennial energy crops in riparian zones of the US Midwest.PLoS ONE,8,e80093.   \nMilner S,HollandRA,LovettAet al.(2015)Potential impacts on ecosystemsrvices of land use transitions to second-generation bioenergy crops in GB.GCB Bioenergy. doi: 10.111/gcbb.12263.   \nMonti A,Zatta A (2o09)Root distribution and soil moisture retrieval in perennial andannualenergycrops inNorthern Italy.Agriculture,Ecosystems $\\mathcal { E }$ Environment, 132,252–259.   \nMooshammer M,Wanek W, Zechmeister-Boltenstern S,Richter A (2014) Stoichiometric imbalances between terrestrial decomposer communities and their resources: mechanisms and implications of microbial adaptations to their resources.Frontiers in Microbiology,5,22.   \nOwens VN, Viands DR,Mayton HS et al.(2013) Nitrogen use inswitchgrass grown for bioenergyacross the USA.Biomass andBioenergy,58,286-293.   \nParish ES,Hilliard MR,Baskaran LM et al. (2012) Multimetric spatial optimization of switchgrass plantings across a watershed.Biofuels,Bioproducts $\\mathcal { E }$ Biorefining, 6, 58-72.   \nPaterson E(2oo3)Importance of rhizodeposition in the coupling of plant and microbial productivity.European Journal of Soil Science,54,741-750.   \nPayne WA (2010)Are biofuels antithetic to long-term sustainability of soil and water resources?Adances inAgronomy,5,1-46.   \nPinheiro J, Bates D,DebRoy S,Sarkar D, Team RC (2015) nlme: Linear and Nonlinear Mixed Effects Models.R package version 3.1-120.   \nPopp A,Lotze-Campen H, Leimbach M, Knopf B,Beringer T, Bauer N, Bodirsky B (2011) On sustainability of bioenergy production: integrating co-emissions from agricultural intensification. Biomassand Bioenergy,35,47704780.   \nPowers SE,Ascough JC,Nelson RG,Larocque GR (2011） Modeling water and soil quality environmental impacts associated with bioenergy crop production and biomass removal in the Midwest USA.Ecological Modeling，222，2430- 2447.   \nRhine ED,Mulvaney RL,Prat EJ,Sims GK (1998) Improving the berthelot reaction for determining ammonium in soil extracts and water.Soil Science Society of America Journal, 62, 473.   \nRich JJ,Myrold DD (2004) Community composition and activities of denitrifying bacteria fromadjacent agricultural soil,ripariansoil,and creek sedimentinOregon,USA.Soil Biology and Biochemistry,36,1431-1441.   \nRosso L,Faccioto G,Bergante S, Vieto L,Nervo G (20l3) Selection and testingof Populus alba and Salix spp.as bioenergy feedstock: preliminary results.Applied Energy,102, 87-92.   \nRumpel C,Kogel-Knabner I(2011) Deep soil organic matter-a key but poorly understood componentof terrestrial C cycle.Plant and Soil,338,143-158.   \nRyter R (20o1) Biomass production and allocation,including fine-root turnover,and annual N uptake in lysimeter-grown basket willows.Forest Ecology and Management, 140, 177–192.   \nSabater S,Buttrini A,ClementJ-Cetal. (2Oo3)Nitrogenremovalbyriparianbuffers along a european climatic gradient: patterns and factors of variation. Ecosystems, 6,0020-0030.   \nSenbayram M, Chen R, Budai A, Bakken L, Dittert K (2012) N2O emission and the N2O/(N2O+N2) product ratio of denitrification as controlled by available carbon substrates and nitrate concentrations.Agriculture, Ecosystems $\\mathcal { E }$ Environment,147, 4-12.   \nSoil SurveyStaff(2014)KeystoSoilaxonomy2thedn.SoilSurveyStaffWasington, DC.   \nSsegane H,Negri MC,Quinn J, Urgun-Demirtas M (2015)Multifunctional landscapes:site characterization and field-scale design to incorporate biomassproduction into anagricultural system.Biomassand Bioenergy,8o,179-190.   \nStadnyk CN (20io) Root Dynamics and Carbon Accumulation of Six Willow Clones in Saskatchewan.Univ.ofSskatchewan,Saskatoon,SK,Canada,.-98.   \nSweeney BW,Newbold JD (2014) Streamside forest buffer width needed to protect stream water quality,habitat,and organisms:a literature review.JAWRA Journal of theAmerican WaterResourcesAssociation,50,560-584.   \nTaylor PG,Townsend AR (2010) Stoichiometric control of organic carbon-nitrate relationships from soils to the sea.Nature,464,1178-1181.   \nTilman D,SocolowRFoleyJAetal.(OBeneficialbiofuelsthefoodegd environment trilemma.Science (New York,N.Y.),325,270-271.   \nVance ED,Brookes PC,Jenkinson DS (1987)An extraction method for measuring soil microbial biomass C. Soil Bioloou and Biochemistru.19.703-707.   \nVidon P,Hill AR (2oo5) Denitrification and patterns of electron donors and acceptorsin eight riparian zones with contrasting hydrogeology. Biogeochemistry,71, 259-283.   \nde Vries FT,Bardgett RD (2012) Plant-microbial linkages and ecosystem nitrogen retention: lessons for sustainable agriculture.Frontiers in Ecology and the Environment,10, 425-432.   \nWeierKL,Doran JW,Power JF,Walters DT (1993)Denitrification and the dinitrogen/nitrous oxide ratio as affected by soil water,available carbon,and nitrate. Soil Science Society ofAmerica Journal,57,66-72.   \nWerling BP,Dickson TL,Isaacs R,Gaines H, Gratton C,Gross KL (2013) Perennial grasslands enhance biodiversity and multiple ecosystem services in bioenergy landscapes.Proceedings of the National Academy of Sciencesof theUnited States of America,111, 1652-1657.   \nYoung EO,Briggs RD (2005) Shallow ground water nitrate-N and ammonium-N in cropland and riparian buffers.Agriculture,Ecosystems $\\boldsymbol { \\mathscr { E } }$ Environment,,97-09.   \nZatta A, Clifton-Brown J,Robson P,Hastings A,Monti A (2014) Land use change from C3 grassland to C4 Miscanthus: effects on soil carbon content and estimated mitigation benefit after six years. GCB Bioenergy,6,360-370.   \nZegada-Lizarazu W,Elbersen HW,Cosentino SL, Zatta A,Alexopoulou E, Monti A (2010)Agronomic aspects of future energy crops in Europe. Biofuels, Bioproducts and Biorefining,4,674-691.   \nZhou X,Helmers MJ,Asbjornsen H,Kolka R,Tomer MD (2010)Perennial filter strips reduce nitrate levels in soil and shallow groundwater after grassland-tocropland conversion. Journal of Environment Quality,39,2006-2015.   \nZhu B, Gutknecht JLM,Herman DJ,Keck DC,Firestone MK, Cheng W (2014) Rhizosphere priming effects on soil carbon and nitrogen mineralization. Soil Biology and Biochemistry,76,183-192. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure S1.Hydrological features of the field trial.   \nFigure S2.Relationship between elemental ${ \\mathsf { D O C } } { : } { \\mathsf { N O } } _ { 3 }$ -N ratio under bioenergy buffers and buffer strip effectiveness (BSE $\\%$ ）in removing $\\mathsf { N O } _ { 3 }$ -N from groundwater.   \nFigure S3.SoilNO3reductaseactivity(RA)underbioenergybuffersandagriculturalfieldatdiferentsoildepthsacrossthe four samplingseasons:(a)afterbufers establishment(July0l3);(b)endofstgrowingseason(Feb013);(c)endof2ndgrowingseason (Feb 2014); (b) middle of 3rd growing season (Aug 2015).   \nFigure S4.Harvestablebiomass(blacklines)andNremovalviaharvesting(greybars)of willow(a)andmiscanthus (b)fordiferent plant rows along the $1 0 \\mathrm { ~ m ~ }$ wide buffer transects.   \nAppendix S1. Lab protocol adopted for potential soil nitrate reductase activity (NRA).   \nTable S1.Main soil physical and chemical characteristics of the soil horizons.   \nTable S2.Averageconcentrationsof groundwaterchemical speciesafter bioenergy bufers (BS-crop）and inagricultural field (AF-crop).   \nTable S3.Mean values of NO3 removal rate as BSE $( \\% )$ ，BSE per unit length $( \\% \\mathrm { ~ m ~ } ^ { - 1 } .$ ）and mean mass of N removed per unit length $( \\mathrm { m g \\ N O 3 - N \\ L ^ { - 1 } \\ m ^ { - 1 } } )$ for bioenergy buffers across the growing seasons.   \nTable S4.Resultsofthemixedmodelofrepeated measuresANoVAusedtoinvestigate theefectofcrop(C),depth (D)and growing seasons (S) on the stock $( \\mathrm { k g \\ h a } ^ { - 1 } )$ of soil inorganic N forms, C and $\\mathrm { \\Delta N }$ pools of dissolved organic matters (DOM) and microbial biomass (MB) and the effcts on potential soil nitrate reductase activity $( \\hat { \\mathrm { N R A } } - \\mu \\mathrm { g } \\ \\mathrm { N O } _ { 2 } \\mathrm { - N \\ g _ { \\mathrm { s o i l } } \\tilde { \\bar { \\Omega } } ^ { 1 } \\ d a y ^ { - 1 } ) }$ ： ",
+        "page_idx": 15
+    }
+]

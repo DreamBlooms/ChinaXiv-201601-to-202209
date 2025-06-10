@@ -1,0 +1,203 @@
+董金金」　高艳霞」李　妍²　李秋凤」　曹玉凤」　刘　博　许利民4李建国1（1.河北农业大学动物科技学院，保定071001；2.河北农业大学动物医学院，保定071001;3.河北省衡水市农牧局，衡水 053000；4.河北省隆化县农牧局，隆化 068150)
+
+摘要：本试验旨在研究饲粮中添加不同剂量的酵母多糖对哺乳犊牛胃肠道发育及消化酶活性的影响。选择初生重相近的健康中国荷斯坦特牛56头，随机分为4组，每组14头。Ⅰ组（对照组）饲喂基础饲粮，II、II、IV组在饲喂基础饲粮中分别添加1、2、3g/(头·d)酵母多糖。试验期 $6 0 \mathrm { d }$ 。结果表明：1）I、III、IⅣ组犊牛瘤胃淀粉酶、胃蛋白酶、脂肪酶和羧甲基纤维素酶活性高于I组，I组显著高于I组（ $\cdot - 0 . 0 5$ ）；IⅢ组特牛十二指肠淀粉酶、胰蛋白酶、脂肪酶、羧甲基纤维素酶活性显著高于「组（ $P { < } 0 . 0 5$ ）；I组特牛空肠淀粉酶（ $P { < } 0 . 0 5$ ）、胰蛋白酶（ $_ { \cdot  { P } < 0 . 0 1 }$ ）活性显著或极显著高于I组， $\mathrm { I I }$ 、III、IV组空肠脂肪酶、羧甲基纤维素酶活性显著高于I组（ $P { < } 0 . 0 5$ ）。2）IⅢ组犊牛瘤胃乳头长度、宽度和黏膜厚度显著高于I组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）；十二指肠、空肠中段绒毛高度显著高于I组（ $\scriptstyle \cdot P < 0 . 0 5 .$ ），隐窝深度显著低于I组（ $\cdot P { < } 0 . 0 5$ ），绒毛高度/隐窝深度（V/C）显著高于其他各组（ $\scriptstyle P < 0 . 0 5$ ）。由此可见，添加酵母多糖能促进犊牛胃肠道形态发育，提高胃肠道消化酶活性。在本试验条件下，哺乳特牛饲粮中酵母多糖的适宜添加量为2g/(头·d)。
+
+关键词：酵母多糖；哺乳犊牛；胃肠道发育；消化酶活性中图分类号：S823 文献标识码：A 文章编号：
+
+胃肠道是动物对营养物质消化吸收的重要场所，犊牛出生后胃肠道消化机能发育不健全，直接影响犊牛对营养物质的消化吸收和犊牛的生长发育。酵母多糖（yeast polysaccharideYPS）是从酵母细胞壁中提取出来的一种水溶性多糖，包括β-葡聚糖和甘露寡糖（MOS）[],可促进动物胃肠道早期发育，提高消化能力，改善动物对营养物质的消化吸收。因此，研究酵母多糖对哺乳特牛胃肠道发育的作用和机制，对促进特牛生长发育具有重要意义。据报道，酵母多糖作为一种绿色添加剂可以提高动物的生长性能[2-5]。本实验室同期研究中发现，添加1、2、3g(头·d)酵母多糖的犊牛平均日增重（ADG）和干物质采食量（DMI）均高于对照组，其中添加 2g/(头·d)酵母多糖的犊牛 ADG 和 DMI最高，这可能是由于酵母多糖中甘露寡糖与β-葡聚糖共同作用，增加犊牛采食频率，促进动物肠道消化吸收能力，进而提高了采食量和日增重[。犊牛饲粮中添加 $7 5 \mathrm { m g / k g }$ 酵母 $\beta$ -葡聚糖可显著提高干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）和磷（P）的消化率[7]。在肉牛饲粮中添加酵母细胞壁可提高酸性洗涤纤维（ADF）和总磷（TP）的表观消化率[4]。本实验室同期研究中也发现添加1、2、3g/头·d)酵母多糖显著提高了犊牛对DM、CP、EE、中性洗涤纤维（NDF）和ADF 的表观消化率，说明哺乳犊牛饲粮中添加酵母多糖可以促进机体对营养物质的消化代谢[]。关于酵母多糖可促进鸡[8]、猪[9]、鱼[10]肠道发育，增加肠道消化酶分泌[]的研究报道较多，但有关酵母多糖对哺乳犊牛胃肠道发育及酶活性的研究甚少。因此，本试验旨在探究饲粮中添加不同剂量的酵母多糖对哺乳特牛胃肠道发育及消化酶活性的影响，为酵母多糖在哺乳犊牛饲养中的应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料与设计
+
+酵母多糖（福邦牌）由湖北安琪酵母股份有限公司生产，该产品中主要含有 $2 0 . 0 \% \leqslant \beta$ （20葡聚糖 $\leqslant 3 0 . 0 \%$ ， $2 0 . 0 \% \leqslant \alpha \cdot$ 甘露聚糖肽 $\leqslant 3 0 . 0 \%$ ，肽类及蛋白质 $\geqslant 3 0 . 0 \%$ ，几丁质 $\geq 2 . 0 \%$ 纯度 $5 5 0 \%$ 。
+
+试验选择初生重[（ $4 5 . 0 0 { \scriptstyle \pm 5 . 2 9 } \$ ） $\mathbf { k g } ]$ 相近、健康的中国荷斯坦犊牛56头，随机分为4组，每组14头，各组间犊牛平均初生重差异不显著（ $\scriptstyle \cdot > 0 . 0 5$ ）。酵母多糖在各组的添加量分别为0（I组）、1（Ⅱ组）、2（IⅢ组）、 $3 \ : \mathrm { g } / \$ (头·d)（IV组）。试验期 $6 0 \mathrm { d }$ 。
+
+# 1.2 饲养管理
+
+试验犊牛出生后1h内灌服4L初乳，之后安置于犊牛岛，均单笼饲养，自由饮水。试验期间每日每头饲喂牛奶 $4 \mathrm { k g }$ ；1\~6日龄，酵母多糖添加在牛奶中， $7 { \sim } 6 0$ 日龄添加在特牛开食料中。7日龄开始补充犊牛开食料，45日龄开始自由采食苜蓿干草。开食料组成及营养水平见表1。鲜奶和苜蓿的营养水平见表2。
+
+Table 1Composition and nutrient levels of the starter (air-dry basis)   
+
+<html><body><table><tr><td>原料</td><td>含量</td><td>营养水平</td><td>含量Content</td></tr><tr><td>Ingredients</td><td>Content</td><td>Nutrient levels2)</td><td></td></tr><tr><td>玉米Corn</td><td>24.00</td><td>干物质 DM</td><td>89.96</td></tr><tr><td>膨化大豆 Extrude soybean</td><td>22.90</td><td>粗蛋白质 CP</td><td>19.17</td></tr><tr><td>乳清粉 Whey powder</td><td>20.00</td><td>产奶净能 NE/（MJ/kg)</td><td>6.80</td></tr><tr><td>豆粕 Soybean meal</td><td>16.00</td><td>粗脂肪 EE</td><td>2.78</td></tr><tr><td>小麦麸 Wheat bran</td><td>13.00</td><td>粗灰分 Ash</td><td>7.45</td></tr><tr><td>石粉Limestone</td><td>1.80</td><td>中性洗涤纤维 NDF</td><td>15.06</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>酸性洗涤纤维ADF</td><td>6.49</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.80</td><td>钙Ca</td><td>0.77</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>总磷TP</td><td>0.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1预混料为每千克开食料提供 The premix provided the following for per kilogram of the starter: VA15 000 IU，VD 5 000 IU，VE $5 0 \mathrm { m g }$ ，Fe $9 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 1 2 . 5 \mathrm { m g }$ ，Mn 30 mg, $Z n 9 0 { \mathrm { m g } }$ Se $0 . 3 0 \mathrm { m g }$ ， $\mathrm { ~ I ~ l ~ m g ~ }$ ， $\mathrm { C o } 0 . 5 \ : \mathrm { m g }$ 。
+
+2)产奶净能为计算值，其他为实测值。表2同。 $\mathrm { N E } _ { \mathrm { L } }$ was a calculated value, while the others were measured values.The same as Table 2.
+
+表2鲜奶和苜蓿的营养水平 (风干基础)  
+
+<html><body><table><tr><td>营养水平</td><td>鲜奶</td><td>苜蓿</td></tr><tr><td>Nutrient levels</td><td>Milk</td><td>Alfalfa</td></tr><tr><td>干物质 DM</td><td>12.52</td><td>94.00</td></tr><tr><td>粗蛋白质 CP</td><td>3.17</td><td>17.76</td></tr><tr><td>产奶净能 NEL/（MJ/kg)</td><td>11.95</td><td>5.57</td></tr><tr><td>粗脂肪 EE</td><td>3.91</td><td>1.78</td></tr><tr><td>粗灰分 Ash</td><td></td><td>8.50</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">中性洗涤纤维 NDF</td><td>47.87</td></tr><tr><td colspan="2">酸性洗涤纤维 ADF</td><td>36.04</td></tr><tr><td>钙Ca</td><td>0.12</td><td>1.00</td></tr><tr><td>总磷TP</td><td>0.09</td><td>0.27</td></tr></table></body></html>
+
+# 1.3样品采集与处理
+
+# 1.3.1瘤胃及小肠食糜样品采集
+
+各组选取4头接近平均体重、健康状况良好的犊牛，在60日龄颈静脉放血处死，立即剖开腹腔，取出瘤胃和小肠，迅速浸泡于生理盐水中。结扎十二指肠与皱胃连接处，剪断。首先采集瘤胃食糜样品于 $1 0 ~ \mathrm { m L }$ 离心管中，迅速置于液氮中，以备测定瘤胃中食糜的酶活性。除去肠系膜与小肠外部脂肪，将小肠自然平放在瓷盘中，瓷盘下用冰块降温，分别取十二指肠、空肠中部食糜 $\boldsymbol { 1 0 } \mathrm { g }$ 放入EP管中，迅速放入液氮中速冻，以备测定小肠食糜的酶活性。
+
+# 1.3.2 胃肠道组织样品的采集
+
+取瘤胃前背盲囊及十二指肠 $1 0 \mathrm { c m }$ ，空肠中段 $1 0 \mathrm { c m }$ ，用生理盐水冲洗残余内容物后结扎，迅速将样品浸泡在Bouin氏固定液中，用于制作组织切片。
+
+1.4样品的测定
+
+# 1.4.1食糜中酶活性的测定
+
+瘤胃及肠道食糜中淀粉酶、脂肪酶、羧甲基纤维素酶以及瘤胃食糜的胃蛋白酶和肠道食糜的胰蛋白酶采用酶联免疫吸附法（ELISA），按照试剂盒（中生北控生物有限公司，生产批号：201710）说明操作，利用酶标仪（北京普朗新技术有限公司，仪器型号：DNM-9602）进行测定。
+
+# 1.4.2组织切片的制作与测定
+
+瘤胃及肠道组织切片的制作采用石蜡切片法[12]。
+
+观察及测定：在显微镜（ToupCam） $1 0 { \times } 4$ 倍光镜下观察并照相[ToupView（ $\times 8 6$ ）]，用ImageJ软件测量瘤胃乳头长度、宽度以及黏膜厚度，小肠绒毛高度、隐窝深度和黏膜厚度。每个样本观察3个非连续切片，每张切片选取3个视野，每个视野分别测定2\~6组数据。
+
+# 1.5 数据统计与分析
+
+试验数据采用 SPSS19.0统计软件的单因素方差分析进行统计，并作Duncan氏法多重比较。试验结果用平均值 $\pm$ 标准差表示，以 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+2结果
+
+2.1 酵母多糖对哺乳犊牛胃肠道食糜酶活性的影响
+
+2.1.1 酵母多糖对哺乳犊牛瘤胃食糜酶活性的影响
+
+由表3可见，ⅡI、III、IV组瘤胃食糜淀粉酶活性比I组分别提高了 $4 . 3 6 \%$ （ $P { > } 0 . 0 5$ ）、10.48% ( $P { < } 0 . 0 5 \$ ）、 $1 . 8 8 \%$ （ $\cdot P { > } 0 . 0 5 \$ )。III、IV组瘤胃食糜胃蛋白酶活性显著高于I组 $( P { < } 0 . 0 5 )$ ，分别比I组提高了 $2 0 . 0 4 \% . 3 8 . 0 0 \%$ 。III、IV组瘤胃食糜脂肪酶活性分别比I组提高了 $2 0 . 1 2 \%$ ，$3 4 . 7 5 \%$ ( $_ { . P < 0 . 0 5 }$ ）。III、IV组瘤胃食糜羚甲基纤维素酶活性显著高于I组 ${ \cdot } P { < } 0 . 0 5$ ），分别比I组提高了 $9 . 6 1 \%$ 、 $8 . 4 5 \%$ 。
+
+表3酵母多糖对哺乳犊牛瘤胃食糜酶活性的影响  
+Table 3Effects of yeast polysaccharide on enzyme activity in rumen chyme of sucking calves   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>I</td><td>IⅢI</td><td>IV</td></tr><tr><td>淀粉酶</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Amylase/（IU/mL）</td><td>267.83±8.68b</td><td>279.50±9.28ab</td><td>295.89±8.18a</td><td>272.87±10.53ab</td><td>0.010</td></tr><tr><td>胃蛋白酶 Pepsin/ (U/L)</td><td>22.55±1.65c</td><td>24.70±1.26bc</td><td>27.07±1.12b</td><td>31.12±0.94a</td><td>0.038</td></tr><tr><td>脂肪酶</td><td>154.85±10.72c</td><td>164.01±6.97c</td><td>186.00±9.47b</td><td>208.66±5.31a</td><td>0.011</td></tr><tr><td>Lipase/(U/L) 羧甲基纤维素酶</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CMC/ (IU/L)</td><td>377.50±10.11b</td><td>393.59±11.47ab</td><td>413.79±9.76a</td><td>409.39±6.19a</td><td>0.022</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $( P { > } 0 . 0 5 )$ ），不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ .The same as below.
+
+2.1.2 酵母多糖对哺乳犊牛十二指肠食糜酶活性的影响
+
+由表4可知，III、IV组十二指肠食糜淀粉酶活性比I组分别提高了 $3 7 . 9 8 \%$ 、 $2 3 . 9 5 \%$ （ $\cdot P { < } 0 . 0 5 \$ )。ⅡI、IⅢ十二指肠食糜胰蛋白酶活性比I组分别提高了 $2 6 . 1 7 \%$ ， $4 2 . 7 7 \%$ （ $P { < } 0 . 0 1$ ）°ⅡI、IⅢI、IⅣ组十二指肠食糜脂肪酶活性显著高于I组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ），分别比I组提高了 $1 9 . 9 2 \%$ 、$4 2 . 5 2 \%$ 、 $6 9 . 3 3 \%$ 。ⅡI、III、IV组十二指肠食糜羚甲基纤维素酶活性分别比I组提高了 $9 . 4 7 \%$ （ $\cdot P { < } 0 . 0 5$ ）、 $2 6 . 4 3 \%$ （ $_ { \cdot  { P } < 0 . 0 1 }$ ）、 $7 . 7 1 \%$ ( $P { < } 0 . 0 5$ ）。
+
+Table 4Effects of yeast polysaccharide on enzyme activity in the duodenum chyme of sucking calves   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>I</td><td>III</td><td>IV</td></tr><tr><td>淀粉酶 Amylase/(IU/mL)</td><td>214.27±3.06c</td><td>226.38±7.20c</td><td>295.64±4.02a</td><td>265.58±5.97b</td><td>0.011</td></tr><tr><td>胰蛋白酶 Trypsin/（IU/mL）</td><td>1 411.64±40.66Cc</td><td>1 781.07±52.12Bb</td><td>2 015.33±41.66Aa</td><td>1 465.14±59.02Cc</td><td><0.001</td></tr><tr><td>脂肪酶 Lipase/ (U/L)</td><td>123.20±8.23d</td><td>147.74±4.74c</td><td>175.59±10.43b</td><td>208.62±3.49a</td><td>0.040</td></tr><tr><td>羧甲基纤维素酶 CMC/(IU/L)</td><td>140.19±8.17Bc</td><td>153.46±5.37Bb</td><td>177.24±5.89Aa</td><td>151.00±6.48Bb</td><td>0.009</td></tr></table></body></html>
+
+110 2.1.3酵母多糖对哺乳犊牛空肠中段食糜酶活性的影响
+
+111 由表5可见，Ⅲ组空肠中段食糜淀粉酶活性比I组提高了 $1 8 . 7 0 \%$ （ $\scriptstyle P < 0 . 0 5 .$ ）。II、III、  
+112 V组空肠中段食糜胰蛋白酶活性比I组分别提高了 $2 . 1 7 \%$ （ $P { > } 0 . 0 5 \$ ）、 $7 . 1 4 \%$ （ $P { < } 0 . 0 1$ ）、  
+113 $1 . 7 9 \%$ （ $P { > } 0 . 0 5$ ）。ⅡI、III、IⅣ组空肠中段食糜脂肪酶活性比I组提高了 $30 . 3 4 \%$ 、 $6 5 . 5 5 \%$ 、  
+114 $4 7 . 5 7 \%$ （ $_ { . } { \cal P } { < } 0 . 0 5$ ）。ⅡI、IⅢI、IⅣ组空肠中段食糜羧甲基纤维素酶活性高于I组，组比I组  
+115 提高了 $1 6 . 8 8 \%$ （ $_ { . } { \cal P } { < } 0 . 0 5$ ）。
+
+# 表5酵母多糖对哺乳犊牛空肠中段食糜酶活性的影响
+
+表4酵母多糖对哺乳犊牛十二指肠食糜酶活性的影响  
+Table 5Effects of yeast polysaccharide on enzyme activity in chyme of middle section of jejunum of sucking calves   
+
+<html><body><table><tr><td>项目</td><td colspan="3">组别 Groups</td><td>P值</td></tr><tr><td>Items</td><td>I</td><td>II</td><td>III</td><td>IV</td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td>淀粉酶 Amylase/（IU/mL)</td><td>257.02±6.53b</td><td>261.85±6.87b</td><td>305.08±6.87a</td><td>235.08±5.63c</td><td>0.019</td></tr><tr><td>胰蛋白酶 Trypsin/ （IU/mL)</td><td>1 862.52±25.47Bb</td><td>1 902.85±27.76Bb</td><td>1995.56±28.28Aa</td><td>1 895.84±24.23Bb</td><td><0.001</td></tr><tr><td>脂肪酶 Lipase/ (U/L)</td><td>120.51±6.22d</td><td>157.07±8.03c</td><td>199.51±4.03a</td><td>177.84±10.76b</td><td>0.014</td></tr><tr><td>羧甲基纤维素酶 CMC/(IU/L)</td><td>97.30±2.15b</td><td>101.58±3.08b</td><td>117.06±1.98a</td><td>97.64±2.78b</td><td>0.024</td></tr></table></body></html>
+
+119 2.2酵母多糖对哺乳犊牛胃肠道形态结构的影响
+
+120 由表6和图1可见，ⅡI、III、IⅣ组瘤胃乳头长度比I组分别提高了 $1 1 . 5 8 \%$ 、 $2 7 . 5 5 \%$ 、  
+121 $1 5 . 8 6 \%$ （ $\cdot P { < } 0 . 0 1$ ），瘤胃乳头宽度比I组分别提高了 $1 7 . 7 2 \%$ 、 $3 7 . 2 3 \%$ 、 $2 5 . 6 0 \%$ （ $\scriptstyle \cdot { P < 0 . 0 5 } .$ ），  
+122 瘤胃黏膜厚度比I组分别提高了 $8 . 0 8 \%$ （ $P { < } 0 . 0 5$ ）、 $3 0 . 9 3 \%$ ( $P { < } 0 . 0 1$ ）、 $2 6 . 3 8 \%$ （ $_ { \cdot } P { < } 0 . 0 1$ ）。  
+123 ⅡI、III、IV组十二指肠绒毛高度比I组分别提高了 $9 . 7 4 \%$ 、 $2 3 . 9 1 \%$ 、 $1 4 . 6 1 \%$ （ $\cdot P { < } 0 . 0 1$ ），隐  
+124 窝深度比I组分别降低了 $7 . 0 6 \%$ （ $. { \cal P } { > } 0 . 0 5$ ）、 $1 9 . 4 2 \% \%$ （ $. P { < } 0 . 0 5 )$ ）、 $2 6 . 5 6 \%$ （ $\scriptstyle \overbrace { P { < } 0 . 0 5 } ^ { } .$ ），绒  
+125 毛高度/隐窝深度（V/C）显著高于I组 $( P { < } 0 . 0 5$ ， $\mathrm { I V }$ 组最高，III、IⅣ组差异不显著（ $( P { < } 0 . 0 5 )$ 。  
+126 Ⅲ组空肠中段绒毛高度比I组提高了 $2 4 . 5 6 \%$ ( $P { < } 0 . 0 5$ ），隐窝深度比I组降低了 $1 9 . 4 9 \%$   
+127 （P<0.05），V/C也显著高于I组（ $P { < } 0 . 0 5$ ）。
+
+Table 6Effects of yeast polysaccharide on rumen and intestinal morphological development of sucking calves   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="4">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td></td><td>I</td><td>II</td><td>Ⅲ</td><td>IV</td></tr><tr><td rowspan="4">瘤胃前背盲囊</td><td>乳头长度 Papilla length/um</td><td>1 183.56±60.1Cc</td><td>1 320.64±46.06Bb</td><td>1 509.60±40.30Aa</td><td>1 371.23±55.23Bb</td><td>0.003</td></tr><tr><td>乳头宽度</td><td>255.12±18.06c</td><td>300.32±23.73b</td><td>350.09±33.45a</td><td>320.44±25.11a</td><td>0.012</td></tr><tr><td>Papilla width/μm 黏膜厚度</td><td>1 378.82±50.99Bc</td><td>1 490.25±43.48Bb</td><td>1 805.24±60.41Aa</td><td></td><td></td></tr><tr><td>Mucosal thickness/μm 绒毛高度</td><td></td><td></td><td></td><td>1 742.59±48.12Aa</td><td><0.001</td></tr><tr><td>十二指肠中段 Middle section of duodenum</td><td> Vills height/μm</td><td>914.15±20.18Bc</td><td>1 003.19±25.69Ab</td><td>1 132.74±15.63Aa</td><td>1 047.67±26.54Aa</td><td>0.008</td></tr><tr><td rowspan="4">空肠中段</td><td>隐窝深度</td><td>188.50±12.21a</td><td>175.20±14.26a</td><td>151.90±9.54b</td><td>138.43±18.57b</td><td>0.032</td></tr><tr><td>Crypt depth/μm 绒毛高度/隐窝深度 V/C</td><td>4.84±0.65c</td><td>5.73±0.80b</td><td>7.46±0.64a</td><td>7.57±0.43a</td><td>0.020</td></tr><tr><td>绒毛高度</td><td>678.91±17.23b</td><td>715.58±12.32b</td><td>845.63±11.49a</td><td></td><td></td></tr><tr><td> Villus height/μm</td><td></td><td></td><td></td><td>684.06±14.78b</td><td>0.046</td></tr><tr><td rowspan="4">Middle section of jejunum</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>隐窝深度</td><td>186.45±2.65a</td><td>160.04±3.55ab</td><td>150.12±3.12b</td><td>140.01±1.88bc</td><td>0.019</td></tr><tr><td>Crypt depth/μm</td><td></td><td>4.47±0.21b</td><td></td><td></td><td></td></tr><tr><td>绒毛高度/隐窝深度 V/C</td><td>3.64±0.33℃</td><td></td><td>5.63±0.26a</td><td>4.87±0.09b</td><td>0.048</td></tr></table></body></html>
+
+A：瘤胃前背盲囊；B：十二指肠中段；C：空肠中段。
+
+![](images/230bc999867f55361263382f1c26834ac4b9ab83f76ff2a2264da3504a4e2ea0.jpg)  
+图1　酵母多糖对哺乳犊牛瘤胃和小肠形态发育的影响
+
+A: rumen prodorsum blind sac; B: middle section of duodenum; C: middle section of jejunum.
+
+Fig.1Effects of yeast polysaccharide on rumen and intestinal morphological development of sucking calves（ $4 0 \times$ ）
+
+3讨论
+
+3.1酵母多糖对哺乳犊牛胃肠道食糜酶活性的影响
+
+动物消化酶活性的变化直接反映了动物采食性能的变化，消化酶活性的高低直接影响了动物对营养物质吸收和利用的程度。孙洪新[7试验报道，羔羊空肠中淀粉酶活性最大。王宝山[13]研究也表明，小尾寒羊各段小肠中淀粉酶活性不同，淀粉酶活性在空肠段最高，显著高于十二指肠淀粉酶活性。Wu等[14]给鱼饲喂魔芋甘露寡糖和甘露寡糖，提高了小肠中蛋白酶、淀粉酶、脂肪酶活性。邢广林[15]研究发现，肉鸡饲粮中添加甘露寡糖提高了十二指肠消化酶活性，当添加 $0 . 1 \%$ 的甘露寡糖时，十二指肠淀粉酶活性显著高于不添加组。杨敏等[16]的研究结果表明，饲料中添加 $0 . 2 0 \% { \sim } 0 . 5 0 \%$ 的甘露寡糖能提高鳗肠道胰蛋白酶、淀粉酶和脂肪酶活性，说明饲料中适宜浓度的甘露寡糖可以促进欧洲鳗肠道消化酶的分泌，从而促进鳗生长。谭崇桂等[17]在凡纳滨对虾饲料中添加 $0 . 2 \%$ $\beta$ -葡聚糖及 $0 . 4 \%$ 甘露寡糖可显著提高胃蛋白酶和肝胰脏脂肪酶活性。罩志彪[18]在研究 $\beta$ -葡聚糖对奥尼罗非鱼消化酶活性的影响中发现，β-葡聚糖对胃蛋白酶、胰蛋白酶、淀粉酶、脂肪酶及纤维素酶活性有较大的影响，在保证奥尼罗非鱼正常生长发育的同时，能够有效地增强消化酶活性，增强营养物质的消化吸收。而高进[19]在大黄鱼稚鱼饲料中添加酵母细胞壁多糖的研究中发现，酵母细胞壁多糖对肠道胰蛋白酶和淀粉酶活性无显著影响。羧甲基纤维素酶能膨胀纤维素和羧甲基纤维素，并以随机方式内切纤维素聚合体并产生纤维素糊精、纤维素二糖及葡萄糖，羧甲基纤维素酶在纤维素消化过程中起着非常重要的作用[20]。在本试验中，饲粮中添加 $2 \ : \mathrm { g / \Omega }$ （头·d）的酵母多糖可以提高瘤胃酶活性和肠道酶活性，酵母多糖促进了纤维分解菌的增殖与纤维素酶的产生，提高消化酶对淀粉、脂肪和蛋白质的酶解作用，促进胃肠道的形态发育，从而改善瘤胃整体发酵功能。
+
+# 3.2酵母多糖对哺乳犊牛胃肠道形态结构的影响
+
+瘤胃功能的建立是瘤胃内容物经发酵产生的挥发性脂肪酸刺激的结果。Lesmeister 等[21]研究发现，乳头高度、乳头宽度和黏膜厚度是评价瘤胃发育的重要指标。周怪等[22]在酵母β-葡聚糖对犊牛胃肠道的影响研究中得出，瘤胃乳头长度、乳头宽度和黏膜厚度随饲粮中酵母β-葡聚糖含量的增加而增加。本试验也得到相似结果，犊牛饲粮中添加 $2 \ : \mathrm { g / \Omega }$ （头d）的酵母多糖可显著提高瘤胃乳头长度、乳头宽度和黏膜厚度，其原因可能是酵母多糖增加了瘤胃中挥发性脂肪酸的产量，促进了瘤胃功能的早期建立，从而加快了瘤胃的发育。
+
+特牛的小肠在反刍前阶段对营养物质消化吸收方面有重要的作用。小肠的绒毛高度、隐窝深度、黏膜厚度及V/C 是衡量其消化吸收功能的重要指标[23]。绒毛高度和细胞数量呈显著相关关系，且绒毛高度越高，成熟的上皮细胞越多[24]；隐窝深度反映了细胞的成熟率，隐窝深度变深，表明小肠吸收养分功能降低，反之，隐窝变浅，小肠消化吸收功能增强[25];V/C 则是综合反映小肠功能状态的指标，其比值升高表示小肠黏膜的改善和其消化吸收功能的增强[26]。李玉欣等[27]在仔猪饲粮中添加毕赤酵母甘露寡糖，发现空肠绒毛高度显著增加，隐窝深度显著降低，V/C 显著升高。黄俊文等[28]试验研究表明，甘露寡糖对仔猪小肠绒毛高度及V/C 的增加具有显著作用。De Los Santos 等[29]在火鸡饲粮中添加酵母提取的甘露寡糖，十二指肠、空肠的绒毛高度和隐窝深度始终高于不添加组，结果表明补充甘露寡糖可以加速胃肠发育成熟。温若竹[30]的研究发现，在肉鸡饲粮中添加甘露寡糖显著增高了十二指肠的V/C，且空肠V/C 也基本呈升高趋势。Ferket 等[31]研究表明，添加甘露寡糖并不能提高肉仔鸡小肠绒毛高度，但却显著降低了隐窝深度，且与对照组相比，V/C 也显著增加。Muthusamy等[32]添加酵母细胞壁显著提高了肉鸡空肠绒毛高度。此外，给半滑舌鳎稚鱼饲料添加甘露寡糖，其微绒毛高度和皱襞高度显著高于不添加组[33]。在本试验中，添加 $2 \ : \mathrm { g / \Omega }$ （头·d）的酵母多糖的犊牛十二指肠、空肠的绒毛高度与V/C 高于其他组，表明由于绒毛表面积增加从而促进了上皮细胞的成熟，提高了犊牛对营养物质吸收，增加了绒毛尖端消化酶的分泌活动，从而提高消化率[34]，而隐窝深度降低则可以说明酵母多糖提高了小肠的消化吸收能力。
+
+# 4结论
+
+添加酵母多糖能促进特牛胃肠道形态发育，提高胃肠道消化酶活性。在本试验条件下，哺乳犊牛饲粮中酵母多糖的适宜添加量为2g/(头·d)。
+
+参考文献:
+
+[1] 崔艺燕,马现永.酵母多糖的生物学功能及其对仔猪肠道健康的影响[J].动物营养学 报,2018,30(3):857-864.   
+[2] GHOSH T K,HALDAR S,BEDFORD M R,et al.Assessment of yeast cell wall as replacements for antibiotic growth promoters inbroilerdiets:effects on performance,intestinal histo - morphology and humoral immune responses[J].Journal of Animal Physiology and Animal Nutrition,2012,96(2):275-284.   
+[3] WANG X F,TSAI T C,WALK C L,et al.219 Effect of yeast cell wall (YCW) inclusion rate on growth performance in nursery pigs[J].Journal of Animal Science,2017,95(Suppl.2):105.   
+[4] LEI C L,DONG G Z,JIN L,et al.Effects of dietary supplementation of montmorillonite and yeast cell wall on lipopolysaccharide adsorption,nutrient digestibility and growth performance in beef catle[J].Livestock Science,2013,158(1/2/3):57-63.   
+[5] ARAGON S N,RIBEIRO F R B,HOSFORD A D,et al.Influence of yeast cell wall supplementation during the finishing phase on feedlot steerperformance,carcass characteristics,and postmortem tenderness[J].The Professional Animal Scientist,2016,32(2):192-200.   
+[6] 董金金,高艳霞,李妍,等.酵母多糖对哺乳特牛生长性能和血液指标的影响[J].动物营养 学报,2018,30(10):待刊.   
+[7] 孙洪新.羔羊小肠消化酶活性变化规律研究[D].硕士学位论文.保定:河北农业大学,2003.   
+[8]SANTIN E,MAIORKA A,MACARI M,et al.Performance and intestinal mucosa development of broiler chickens fed diets containing Saccharomyces cerevisiae cell wall[J].The Journal of Applied Poultry Research,2001,10(3):236-244.   
+[9]刘金艳,王瑶,毛俊霞,等.日粮添加β-葡聚糖对仔猪生长性能、肠道发育与免疫功能的影 响[J].中国兽医学报,2017,37(11):2197-2205.   
+[10]刘爱君,冷向军,李小勤,等.甘露寡糖对奥尼罗非鱼(Oreochromis niloticus ×O.aureus)生 长、肠道结构和非特异性免疫的影响[J].浙江大学学报（农业与生命科学 版）,2009,35(3):329-336.   
+[11]于艳梅.魔芋甘露寡糖对黄颡鱼的益生功能研究[D].硕士学位论文.武汉:华中农业大 学,2010.   
+[12]曹悼,陈茂生.组织学实验指导[M].北京:北京大学出版社,1993.   
+[13]王宝山.日粮类型对小尾寒羊小肠各段消化酶活性影响的研究[D].硕士学位论文.保定: 河北农业大学,2003.   
+[14] WU Z X,YU Y M,CHEN X,et al.Effect of prebiotic konjac mannanoligosaccharide on growth performances,intestinal microflora,and digestiveenzyme activities inyellow catfish,Pelteobagrus fulvidraco[J].Fish Physiology and Biochemistry,2014,40(3):763-771.   
+[15]邢广林.甘露寡糖、中药和微生态制剂对肉鸡抗病性、消化酶活性及生产性能的影响 [D].硕士学位论文.泰安:山东农业大学,2006.   
+[16]杨敏,黎中宝,卢静,等.甘露寡糖对欧洲鳗(Anguilla anguilla)生长、消化酶活性及非特 异性免疫的影响[J].中国渔业质量与标准,2016,6(6):40-46.   
+[17]谭崇桂,冷向军,李小勤,等.多糖、寡糖、蛋白酶对凡纳滨对虾生长、消化酶活性及血清 非特异性免疫的影响[J].上海海洋大学学报,2013,22(1):93-99.   
+[18]覃志彪.β-葡聚糖对奥尼罗非鱼生长性能、机体营养成分及消化酶活性的影响[D].硕士 学位论文.南宁:广西大学,2012.   
+[19]高进.微生态制剂对大黄鱼(Pseudosciaena crocea)稚鱼生长、存活、消化酶活力及抗胁 迫能力的影响[D].硕士学位论文.青岛:中国海洋大学,2010.   
+[20]孙国强,吕永艳,刘建雷.脂肪酸钙对瘤胃发酵及羧甲基纤维素酶活性的影响[J].中国饲
+
+料,2010(24):31-33.
+
+[21]LESMEISTER K E,TOZER P R,HEINRICHS A J.Development and analysis of a rumentissue sampling procedure[J].Journal of Dairy Science,2004,87(5):1336-1344.  
+[22]周怪,刁其玉,屠焰,等.酵母β-葡聚糖和杆菌肽锌对早期断奶特牛生长性能和胃肠道发育的影响[J].动物营养学报,2011,23(5):813-820.  
+[23]杨倩,毛卫华,赵如茜,等.太湖猪与大白猪小肠发育及其免疫功能形态学比较[J].南京农业大学学报,2001,24(4):75-78.  
+[24]周金星,高登慧,刘培琼,等.不同日龄香猪小肠黏膜形态观察[J].中国兽医杂志,2005,41(12):11-12.  
+[25]杨玉荣,佘锐萍,张日俊,等.大豆活性肽对肉鸡肠道黏膜结构的影响[J].中国畜牧杂志,2006,42(15):13-15,56.  
+[26]陈付菊,陈耀星,王子旭,等.新生特牛小肠黏膜结构的早期发育及上皮内淋巴细胞和杯状细胞的数量变化[J].中国兽医科学,2007,37(6):519-523.  
+[27]李玉欣,张立梅,韩丹丹,等,韩博.毕赤酵母甘露寡糖对断奶仔猪生产性能肠道绒毛和细胞因子的影响[J].中国兽医杂志,2015,51(11):33-35.  
+[28]黄俊文,林映才,冯定远,等.纳豆菌、甘露寡糖对仔猪肠道pH、微生物区系及肠黏膜形态的影响[J].畜牧兽医学报,2005,36(10):1021-1027.  
+[29]DE LOS SANTOS F S,DONOGHUE A M,FARNELL M B,et al.Gastrointestinalmaturation is accelerated in turkey poults supplemented with a mannan-oligosaccharide yeastextract (Alphamune)[J].Poultry Science,2007,86(5):921-930.  
+[30]温若竹.甘露寡糖对肉仔鸡肠道形态及微生物区系的影响[D].硕士学位论文.南京:南京农业大学,2010.  
+[31]FERKETP,PARKS CW,GRIMES J L.Benefitsof dietaryantibioticandmannanoligosaccharide supplementation for poultry[J].Multi,2002:1-23.  
+[32]MUTHUSAMY N,HALDAR S,GHOSH T K,et al.Effects of hydrolysed Saccharomycescerevisiae yeast and yeast cell wall componentson liveperformance,intestinalhisto-morphologyandhumoralimmuneresponseofbroilers[J].BritishPoultry
+
+Science,2011,52(6):694-703.
+
+[33]于朝磊,常青,吕云云.甘露寡糖对半滑舌鳎(Cynoglossus semilaevis Gunther)稚鱼生长、 肠道发育和非特异性免疫水平的影响[J].渔业科学进展,2014,35(6):53-59.   
+[34]GAO J,ZHANG H J,YU S H,et al.Efects of yeast culture in broiler diets on performance and immunomodulatory functions[J].Poultry Science,2008,87(7):1377-1384.   
+Effects of Yeast Polysaccharide on Gastrointestinal Development and Digestive Enzyme Activity of Sucking Calves DONG Jinjin1 GAO YanxialLI Yan² LI Qiufeng1 CAO Yufeng1LIU ${ \mathrm { B o } } ^ { 3 }$ XU Limin4 LI Jianguo1\*   
+(1. College of Animal Science and Technology, Hebei Agricultural University, Baoding 071001, China; 2. College of Veterinary Medicine, Hebei Agricultural University, Baoding 071001, China; 3. Hengshui Bureau of Agriculture and Animal Husbandry, Hengshui O530o0, China; 4. Longhua County Bureau of Agriculture and Animal Husbandry, Longhua O68150, China)   
+Abstract: This experiment was conducted to investigate the effects of different doses of yeast   
+polysaccharide on the gastrointestinal development and digestive enzyme activity of sucking   
+calves. A total of 56 healthy Chinese Holstein calves with a similar born weight were selected and   
+randomly divided into 4 groups, with 14 heads in each group. Calves in group I (control group)   
+were fed the basis diet, and those in groups II， III and $\mathrm { I V }$ were fed the basis diet supplemented   
+with yeast polysaccharide at the dosage of 1, 2,3 g per day per head, respectively. The experiment   
+lasted for 6O days.The results showed as follows: 1) The activity of amylase,pepsin, lipase and   
+carboxymethylcellulase in rumen in groups II , II and IV was higher than that in group I ,and   
+the group III was significantly higher than groupI $_ { ( P < 0 . 0 5 ) }$ . The duodenum activity of amylase,   
+trypsin,lipase and carboxymethylcellulase in group II was significantly higher than that in   
+group I $( P { < } 0 . 0 5 )$ . The jejunum activity of amylase $( P { < } 0 . 0 5 )$ and trypsin $( P { < } 0 . 0 1 )$ in group III
+
+was significantly higher than that in groupI，and the activities of lipase and carboxymethyl cellulose in groups I,III and $\mathrm { I V }$ were significantly higher than those in groupI $( P { < } 0 . 0 5 )$ .2) The rumen papillae length, width and mucosal thickness of calves in group IIl was significantly higher than that in group I $( P { < } 0 . 0 5 )$ ; the villus height of duodenum, jejunum in group III was significantly higher than that in groupI $( P { < } 0 . 0 5 )$ ,crypt depth was significantly lower than that in group I $( P { < } 0 . 0 5 )$ . The villus height/crypt depth value of group II was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ . In conclusion, adding yeast polysaccharides can promote the morphological development of gastrointestinal tract and improve the digestive enzyme activity of calves.Under the conditions of this experiment, the suitable dosage of yeast polysaccharide in sucking calves is $2 { \mathrm { g } }$ per day per head.
+
+Key words: yeast polysaccharide; sucking calves; gastrointestinal development; digestive enzyme activity
+
+\*Corresponding author, professor, E-mail: 1181935094@qq.com (责任编辑陈鑫)

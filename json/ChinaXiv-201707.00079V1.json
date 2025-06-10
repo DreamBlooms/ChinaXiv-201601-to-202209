@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "Comparison of synandrium structure and development in three species from ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Myristicaceae ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gui-Fang Yang1,², Feng-Xia ${ \\mathrm { X u } } ^ { 1 \\ast }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Key Laboratory of Plant Resources Conservation and Sustainable Utilization, South China Botanical Garden, Chinese Academy of Sciences, 723 Xingke Road, Tianhe District, Guangzhou, Guangdong 510650, China 2. University of Chinese Academy of Sciences, Beijing 100049, China \\*Corresponding author: Feng-Xia Xu Email: xfx@scbg.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Species of Myristicaceae have diverse and distinctive synandria morphology and structure, making them an interesting group for androecium evolution research. To clarify the morphology, structure, and origin of the synandrium， scanning electron microscopy and histology were performed on staminate inflorescences and flowers of Horsfieldia pandurifolia， H. tetratepala, and Myristica fragrans at different developmental stages. A whorl of stamen primordia was initiated rapidly around the margin of the floral apex in groups of two in $H .$ pandurifolia and groups of three in M. fragrans. Each stamen primordium grew longitudinally, producing a pair of anther lobes and four microsporangia, accompanying one vascular bundle in $H .$ pandurifolia and M. fragrans. In H. tetratepala, three stamen primordia groups were formed and each group with several anthers was supported by one vascular bundle, indicating a secondary increase of stamen. Three types of synandria origins were observed—in M. fragrans, the central sterile column tissues originated from the elongate receptacle; in H. pandurifolia and $H .$ tetratepala, they were derived from a combination of floral meristem and fused connectives,and a combination of receptacular tissue and stamen groups. The diverse origins of the central sterile column suggest that the synandrium develops differently and independently in different genera and speciesof ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Myristicaceae. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key words: Myristicaceae, Synandrium, Staminate flower, Development, Anatomy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Myristicaceae, a medium-sized family of lowland rainforest trees and shrubs, consists of six South and Central American， five continental African， four Madagascan, and six southeast (including Australasia) Asian genera, for a total of approximately 50O species (Sauquet et al. 2003). This family is classified in the Magnoliales, an order of basal angiosperms (Chatrou 2003; APG 2009). Plants are dioecious and rarely monoecious, and flowers are described as unisexual with a single perianth cycle of two to five lobed tepals (three on average). Female flowers are uniform uni-carpellate and uni-ovulate and display low diversity across the family. Conversely， the androecial characters present substantial variability， and have traditionally been used as the main method of classification and identification (Kuhn and Kubitzki 1993; De Wilde 2014). Male flowers are characterized by the presence of a distinctive androecium composed of a sterile column, and longitudinally oriented anthers fused to this column, forming a synandrium (Wilson and Maculans 1967; Siddiqi and Wilson 1976; Armstrong and Wilson 1978; Armstrong and Tucker 1986; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sauquet 2003). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Studies of androecium development and structure in Myristicaceae have dealt with a relatively small number of species， even though evidence from floral development and anatomy is valuable in determining the origin and evolution of the synandrium. Available information for the development of Myristicaceae synandria to date is restricted to Myristica fragrans and M. malabarica (Armstrong and Tucker 1986), Knema erratica, K. furfuracea, and Horsfieldia tetratepala (Xu and Ronse De Craene 2O10). Findings from those studies suggested that the central sterile columns of these species were derived from receptacular tissue,and that stamen initiation occurred with a low helix, although this cannot be determined with certainty. In addition, anatomical information on the synandrium structure is confined to a few species of Myristica (Wilson and Maculans 1967； Manilal 1983; Armstrong and Tucker 1986; Furness and Rudall 2001), Knema (Siddiqi and Wilson 1976; Sauquet 2003),and Horsfieldia (Armstrong and Wilson 1978). Moreover, the synandria of mauloutchioid genera have been observed and the evolution of androecium characters in Myristicaceae has been discussed by Sauquet (2Oo3). Those studies have provided accurate descriptions of the structure and morphology of the synandrium for species of Myristica, Knema, Horsfieldia,and mauloutchioid genera. However, at present, little information is available on the origin of stamen fusion in this family. It should be noted that the term synandrium has been used in two different ways in previous studies. Some authors (for instance, Sauquet 2Oo3) considered the synandrium as a synonym of the whole androecium when stamens are fused, whereas de Wilde (2014) restricted it to the upper part of the androecium with fused anthers. In the present study，the latter definition was adopted. The term‘stalk’ is used to describe the common stalk below the synandrium, and the term‘central sterile column’ is used to describe the central sterile portion of the synandrium. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Asian Myristica and Horsfieldia represent the two largest genera of Myristicaceae. Myristica species have columnar synandria composed of a solid, cylindrical column, with a sterile apex above the elongate microsporangia （Wilson and Maculans 1967; Armstrong and Tucker 1986). Androecia in Horsfieldia exhibit an array of synandria forms, varying from a broad oval to a laterally flattened, long oval. The columns of the synandrium also display various degrees of fusion and diverse shapes (Armstrong and Wilson 1978). In this study， M. fragrans，H. pandurifolia, and $H .$ tetratepala were chosen as representatives of Myristica and Horsfieldia respectively. In particular, $H .$ pandurifolia was chosen to represent the smallest synandria, while $H .$ tetratepala represents the largest one. In the present study，comparative development and anatomy of the synandria of M. fragrans, H. pandurifolia， and $H .$ tetratepala were investigated to clarify the origin of the synandrium. The issue involving the sequence of stamen initiation was also addressed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Staminate inflorescences at different developmental stages of $H .$ tetratepala were collected from March to June 20l2 in the living collections of the South China Botanical Garden (Guangdong, China). Staminate inflorescences of M. fragrans and H. pandurifolia were collected respectively in March and December 2011, and March and May 2O12, from the Xishuangbanna Tropical Botanical Garden (Yunnan, China). All materials were fixed and stored in FAA ( $70 \\%$ alcohol, formaldehyde,and glacial acetic acid in a ratio of 90: 5: 5). In $H .$ tetratepala and $H .$ pandurifolia, the early-stage staminate inflorescences contain five to eight flower buds at different developmental stages. In M. fragrans, the staminate inflorescences bear five to 1O flower buds at different stages of development. Voucher specimens of $H .$ tetratepala (G.F. Yang 20120425)，H. pandurifolia (G.F. Yang 20120510)， and M. fragrans (Zhou 2011121O） were deposited in the Herbarium of South China Botanical Garden (IBSC). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For anatomical observations of $H .$ pandurifolia, H. tetratepala and M. fragrans mature inflorescences were dissected. Subsequently, the mature flower buds (more than 20 samples per stage) and young inflorescences (about eight to 10 samples) were transferred to $70 \\%$ ethanol, stained with Ehrlich's hematoxylin,dehydrated in an ethanol series, infiltrated with xylene, embedded in paraffin wax, and transversely and longitudinally sectioned at 5- or 7-um thickness using a rotary microtome. Serial sections were examined and photographed under a ZEISS AX1O microscope fitted with a ZEISS AxioCam ERc5s digital camera (Zeiss, Oberkochen, Germany). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For scanning electron microscope (SEM) examination of $H .$ pandurifolia and M. fragrans, fixed staminate inflorescences were carefully dissected under a stereoscopic microscope,and transferred to $2 \\%$ glutaraldehyde in $0 . 2 ~ \\mathrm { M }$ phosphate buffer at pH 7.2-7.4 overnight at $4 ^ { \\circ } \\mathrm { C }$ . Samples (more than five samples per stage) were washed in $0 . 1 \\mathrm { ~ M ~ }$ phosphate buffer, dehydrated through a graded acetone series,and then critical point dried, mounted on stubs, gold-coated in the JFC-160O Auto Fine Coater (JEOL, Tokyo， Japan)，and observed using a JSM-6360LV SEM (JEOL，Tokyo，Japan) operated at $1 5 \\mathrm { k V }$ . All plates were edited using Adobe Photoshop CS4 (brightness: 0 to 50; contrast: -10 to 20). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Horsfieldia pandurifolia (Figs. 1-4) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Synandrium development ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Prior to stamen primordium initiation, the shape of the floral apex becomes tetragonal with a broad flat surface (Fig. 1A). After the expansion of the floral apex, four to six stamen primordia rapidly arise on the margin of the floral apex. It is not possible to determine the exact sequence of each stamen initiation, because they arise more or less simultaneously. However, these stamen primordia appear to be initiated in two groups. A group of early initiated stamen primordia of the same size occupies three sides of the floral apex,and another group of two stamen primordia at an earlier stage of initiation is located on the adjacent side of the floral apex (Fig. 1B). When all of the stamen primordia reach approximately the same size, they form a whorl around the margin of the floral apex with litle available space (Fig.1D). Occasionally, the supernumerary single stamen primordium is observed to differ greatly in size from the neighboring stamen primordia. The supernumerary stamen primordium makes the floral apex oval in shape (Fig.1C, arrowhead). Later in the development cycle, each stamen primordium becomes bilobed (Figs. 1E and 1F,arrowhead) and each anther lobe is subdivided by a longitudinal slit, producing two microsporangia (Fig. 1G). The stamens form a synandrium consisting of a whorl of anthers, which are dithecate and tetrasporangiate (Figs. 1H and 1I). At maturity, the number of anthers varies from four to six (seven anthers were observed only on one occasion) (Figs. 4C-4F), which is also the number of anther primordia (Figs. 2C-2F). The anthers display extrorse dehiscence by slits (Figs.1I, arrowhead,and 4H-4K). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Synandrium anatomy ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "At the early stage of floral apex development, the floral apical meristem comprises parenchyma cells with conspicuous and deeply stained nuclei (Fig. 2A). Shortly after, a large piece of sterile tissue with large cells in the center and anther tissues at the periphery are differentiated synchronously from the enlarged floral apex (Figs.2B-2F,2J-2M). As the central sterile tissue increases radially in size, the marginal anthers grow longitudinally, extending and arching towards the center of the floral apex. As a result, all of these anthers are adnate to the central sterile tissue along their entire length and the central sterile tissue grows a completely solid central sterile column (Figs. 2G-2I). At the meiotic stage, anther lobes have expanded greatly and protrude away from the central sterile column tissue (Figs. 3A-3C), and each anther lobe is composed of a pair of microsporangia that contain enlarged endothecial and binucleate tapetal cells (Figs.3D-3G). Anther lobes form a single locule as the septum between the microsporangia degenerates shortly before anthesis (Figs. 4B4F). At anthesis, two types of cells are observed within the sterile column tissue: enlarged and hollow cells in the central part, which comprise the highest proportion; and much smaller cells at the marginal part, with calcium oxalate crystals accumulating in packages (Figs. 4F and 4G, arrowhead). Scattered calcium oxalate crystals are present on the periphery of the sterile column tissue at the meiotic stage (Fig. 3I, arrowhead), progressively increasing in number toward anthesis (Figs. 4F and 4G, arrowhead). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As the initiation of the stamen primordia progresses,a stalk is formed beneath the stamens (Figs.1C and 2G). This differentiates from the apex of the receptacle and extends to the base of the synandrium (Figs. 1I, 3H, and 4B). The vascular bundles that will serve the androecial organs branch off at the apex of the receptacle and extend up into the apex of the stalk from the early developmental stages (Figs. 2H, 2I, and 3H, thick arrows). As development progresses, the vascular bundles in the stalk extend, but do not enter the central sterile column tissues (Fig 4B, thick arrows). At anthesis, a circle of four to six bundles can be observed in the center of the stalk, corresponding to the four to six anthers respectively (Fig. 4A， thick arrow). The synandrium region is devoid of vasculature throughout its development. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Horsfieldia tetratepala (Figs. 5 and 6) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Synandrium anatomy ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "During the early stages of development, the floral apex is nearly oval in transverse section, and the apical meristem is composed of parenchyma cels with conspicuous nuclei in longitudinal sections (Figs. 5A and 5D). Shortly after the prior stage, the floral apex expands slightly and becomes triangular in shape (Figs. 5B and 5E). When the floral apex becomes nearly round in cross section, several stamen primordia are differentiated around the marginal circumference of the floral apex (Figs. 5C and 5F). Following the differentiation of the stamen primordia,all the stamen primordia expand to form three (Figs. 5J and 5K), occasionally two (Fig. 5L) or four (Fig. 6A)，groups of stamen primordia,opposite the tepals. The stamen primordia groups form a large androecium primordium, which is composed of many layers of densely stained parenchyma cells with conspicuous nuclei (Figs. 5G-5L, and 6A).During the later growth of the stamen primordia groups, both the cells of the epidermal and hypodermal layersofthe androecium primordium remain undifferentiated, whereas the central meristematic cells differentiate into a central sterile tissue with large, loosely arranged cells, which form the central sterile column (Figs. 6B and 6C). As the anther tissues differentiate, a whorl of more than 28 anther lobes is formed around the sterile column tissue (Figs. 6D and 6F). Each anther lobe is composed of a pair of microsporangia, which are sunken in the connective tissues. At the meiotic stage，each microsporangium contains a single pollen mother cell surrounded by a single tapetal layer in transverse section (Fig. 6E). The meiotic division of the pollen mother cells produces free microspores (Fig. 6G)，and the microspores develop into pollen grains at maturity (Fig. 61). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The receptacle differentiates a stout stalk beneath the androecium primordium when the stamen groups are formed (Figs. 5G-5I)，and the stalk grows as development progresses (Figs. 6C，6H，and 6I). The vascular supply to the synandrium arises from a small vascular cylinder, which remains after the perianth traces depart and penetrate into the basal region of the central sterile column tissue through the stalk before the anther tissues differentiate (Fig. 6C， thick arrows). Subsequently, the vascular cylinder branches into two to four vascular bundles, which extend up to the middle region of the central column tissue (Figs. 6D, 6H,and 6I, thick arrows). No vascular bundles are observed in the apical region of the central sterile column tissue. However, the apical region of the central sterile column tissue is divided into three sections by slits (Fig. 6F)，occasionally two or four. Both the number of sections and the number of androecial vascular bundles correspond to the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "number of stamen groups. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Myristica fragrans (Figs. 7 and 8) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Synandrium development ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The androecium is initiated in three groups on the sides of the triangular floral apex,each consisting of two to four stamen primordia. The first group contains three stamen primordia of different sizes,which arise sequentially on one side of the triangular floral apex. Within this group, the first one is located in an alternitepalous position, and the other two stamen primordia are antetepalous (Figs. 7A and 7B). Shortly thereafter, a second group of stamen primordia is rapidly initiated on either side of the floral apex in the same developmental pattern as the first group (Fig. 7C, dots).A third group of stamen primordia appears on the opposite side of the floral apex after the previous two groups of stamen primordia (Figs. 7D and 7E,dots). When the stamen primordia have all been initiated, the three groups of stamen primordia form a single whorl that occupies the entire marginal circumference of the floral apex. The first primordium initiated is easily identified in each group because of its larger size (Fig. 7F, dots). Later in development, a central depression develops in the middle of each stamen primordium and deepens into a narrow slit, forming a bilobed anther. By this time, the stamen primordia are free and are much higher than the floral apex (Fig. 7G). Subsequently, the anthers increase in size longitudinally as the height of the receptacle increases. When a slit is present on each anther lobe, producing two microsporangia, the anthers are adnate to the elongate receptacle, which later becomes the central sterile column (Fig. 7H). At maturity, the androecium is characterized by a whorl of elongate anthers,which are adnate to a sterile column along their entire length, forming a columnar synandrium. Each anther consists of a pair of anther lobes and four microsporangia. Paired microsporangia of the anther lobe differ slightly in length. The apical residuum of the synandrium is convex and somewhat surpasses the anthers in height. A short stalk is developed below the synandrium (Fig. 7I). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Synandrium anatomy ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Only flowers shortly before anthesis and at anthesis were available for study. A whorl of nine to ten protruding anthers is attached to a central sterile column (Figs. 8C and 8E). Each anther lobe is composed of two microsporangia，and paired microsporangia display extrorse dehiscence (Figs. 8D and 8F). In the center of the stalk and the central sterile column, a ring of nine discrete vascular bundles is present independent of the number of anthers shortly before anthesis (Figs. 8A and 8C, thick arrow), while the apical residuum forming the distal end of the column is devoid of vascular bundles (Figs. 8B). These discrete androecial vascular bundles form a more or less continuous circle and remain centrally located within the central sterile column at anthesis (Fig. 8E, thick arrow). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The basic organization of the androecia of $H .$ pandurifolia, H. tetratepala, and M. fragrans, fits the myristicaceous pattern observed in previous studies of Myristicaceae (Siddiqi and Wilson 1976; Armstrong and Wilson 1978; Kuihn and Kubitzki 1993; Sauquet 2003； Xu and Ronse De Craene 2010; De Wilde 2014). However, a number of androecial characters described in this study,including anther number, number of androecial vascular bundles, shape of the synandria,and origin of the sterile column,are highly variable. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "There are some similarities between $H .$ pandurifolia and M. fragrans during the early stages of development of the floral apex and inception pattern of stamen primordia, including a more or less broadly round floral apex with a flat or slightly convex surface, a small number of stamen primordia (two to twelve), and whorled stamen primordia appearing in groups. Of note, in M. fragrans, stamen primordia are not typically trimerous nor helical in their initiation. They appear in three groups sequentially,and each group of stamen primordia arises in rapid sequence. The interval between the initiation of neighboring groups of stamen primordia is much longer than that between the neighboring stamen primordia within each group. Stamen primordia ultimately form a whorled pattern once all of the stamen primordia have been initiated. This developmental pattern does not coincide with that of the Myristica (Armstrong and Tucker 1986) and Knema (Xu and Ronse De Craene 2010) species,in which androecium initiation has a low helix initiation of the first three alternitepalous stamen primordia. In basal angiosperms, changes in floral phyllotaxis are relatively easy because of the lack of synorganization between floral organs (Endress 20o6; Endress and Doyle 2007). In flowers with only a few organs, whorled phyllotaxis appears to provide a more efficient spacing of organs than spiral phyllotaxis, whereas in flowers with numerous organs the reverse is true (Endress and Doyle 2O07). However， no such change occurs in the floral phyllotaxisin Myristicaceae. A whorled phylotaxis, together with a moderate number of organs (two to 12),appears to be a precondition for normalization of stamens that are fused into a synandrium in Myristicaceae. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The number of anthers is variable among Myristicaceae species,and this has been highlighted in previous studies (Siddiqi and Wilson 1976; Armstrong and ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Wilson 1978; Sauquet 2003; Xu and Ronse De Craene 2010). In Horsfieldia, the largest androecia possess 14 to 25 anthers, the smallest possess four to six,and the moderated-sized androecia have seven to 12 (Armstrong and Wilson 1978). Similarly, the number of anthers varies from six to 24 in Knema (Siddiqi and Wilson 1976; Xu and Ronse De Craene 2O1O). Most previous researchers suggested that each anther was composed of a pair of anther lobes and four microsporangia, and the number of vascular bundles supplying the androecium was half the number of anther lobes (Wilson and Maculans 1967; Siddiqi and Wilson 1976; Armstrong and Wilson 1978; Armstrong and Tucker 1986). This is supported by the androecia of M. fragrans and H. pandurifolia,in which the number of anthers ranges from nine to 1O in the former and four to six in the later, corresponding to nine or four to six vascular bundles respectively. In the case of $H .$ tetratepala, the synandrium consists of more than 14 pairs of anther lobes (it is uncertain whether an anther is composed of one or two anther lobes)，which are divided into three groups,and occasionally two or four groups. Each stamen group is supported by one common vascular bundle. The number of androecial vascular bundles corresponds to the number of stamen groups rather than half the number of anther lobes. It has been suggested that the number of stamens increases through the development of stamen groups in $H .$ tetratepala (Xu and Ronse ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "De Craene 2010), which is strongly supported by the histological features described in this study. Armstrong and Wilson (1978) suggested that in Horsfieldia, androecia with the greatest amount of fusion are the most specialized, whereas those most similar to a monadelphous organization are the least specialized, according to synandria forms. However, synandria with partially free filaments (i.e., most similar to a monadelphous organization), were inferred to be secondarily derived within the mauloutchioid clade, based on combined molecular and morphological characters (Sauquet 20o3; Sauquet et al. 2003; Doyle et al. 2o04), while the origin of the synandrium remains ambiguous in myristicoids (comprising 13 genera, such as, Horsfieldia, Myristica, and Knema). In this present study, $H .$ pandurifolia was observed to have eight to 12 protruding and obviously paired anther lobes and a completely fused central sterile column. Conversely, $H .$ tetratepala has more than 28 sunken anther lobes and an incompletely fused central sterile column. It is reasonable to state that the synandrium of the former represents the most specialized types,whereas that in the latter represents the least specialized type, as previously hypothesized for Horsfieldia by Armstrong and Wilson (1978). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Two hypotheses have been suggested for the origin of the synandrium in Myristicaceae. The most common view is that the central sterile column of the synandrium originated from fused filaments (Kühn and Kubitzki 1993;De Wilde 2014). According to Sauquet (2003), the synandrium of Mauloutchia consisted of partially free filaments and the central sterile column was formed by the fused portions of filaments. However, this interpretation questioned whether completely fused filaments became partially free in the derived genus Mauloutchia (Sauquet et al. 2003).The central sterile column was also considered to be an elongation of the common receptacle as in Myristica and Knema (Armstrong and Tucker 1986; Xu and Ronse De Craene 2010). The results of the present study confirm that in M. fragrans, tissue from the elongating receptacle forms the lower stalk, the central sterile column, and the apical portion of the synandrium. As the receptacle elongates, the vascular bundles extend into the upper part of the synandrium, except for the apical portion. None of these sterile tissues are derived from the stamens. Nevertheless, in the case of H. pandurifolia and $H .$ tetratepala, the origin of the central sterile column is clearly distinct from that of the species mentioned above. In H. pandurifolia, calcium oxalate crystals are present in packages at the periphery of the central sterile column tissue. Such crystals have been thought to be commonly located at the connective area of the anther (D'Arcy et al. 1996; Ronse De Craene and Wanntorp 2008), indicating that the marginal portion of the central sterile column tissue could have originated from the fused connective areas. Moreover, the histological features show that the floral apical meristem differentiates into the central sterile tissue at the stage of stamen initiation. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "A slim stalk is present below the synandrium，with androecial vascular bundles branching off into the stalk,which do not enter the synandrium during floral development. These features suggest that in $H .$ pandurifolia, the central sterile column tissues are derived from two tissue types. The peripheral portion of the central sterile column is formed by fused stamens (connectives), while the central portion is derived directly from the floral apical meristem. In $H .$ tetratepala, the central sterile column develops as the receptacle extends and the groups of stamen primordia expand. The androecial vascular bundles extend into the bottom of the synandrium as the stalk elongates,and the upper region of the central sterile column is divided into three sections,and occasionally two or four. Both the number of sections and the number of androecial vascular bundles correspond to the number of stamen groups. It could be inferred that in $H .$ tetratepala， the lower portion of the central sterile column originates from the elongate receptacle, and the upper region is derived directly from groups of fused stamen primordia. The developmental and anatomical features of synandria observed in this study collectively reveal that the central sterile column tissues of the synandrium are derived either from the receptacular tissue, as described in M. fragrans, or from the floral meristem (fused connectives), as in $H .$ pandurifolia, or from a combination of receptacular tissue and fused stamens as in $H .$ tetratepala. This indicates that the origin of the synandrium develops differently and independently in different genera and even different species of Myristicaceae. We cannot conclude that elongation of the receptacle is the single origin of the central sterile column, even if it appears in the genera or species investigated to date. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In M. fragrans and $H .$ pandurifolia, two to 12 stamens arise rapidly in groups rapidly and ultimately form a whorl. Each anther consists of a pair of anther lobes and four microsporangia, accompanying one vascular bundle. In $H .$ tetratepala， three (occasionally, two or four) stamen primordia groups (with several stamens in each group) were observed to develop simultaneously. At maturity, each stamen group with several anthers is supported by one common vascular bundle, indicating a secondary increase of stamens in Horsfieldia. The central sterile column tissues of the synandrium originate from elongating receptacular tissues in M. fragrans, from the floral meristem and fused connectives (stamens） in $H .$ pandurifolia, and from a combination of receptacular tissue and stamens in $H .$ tetratepala. Various origins of the sterile column tissues among M. fragrans, $H .$ pandurifolia, and $H .$ tetratepala suggest that the synandrium developed differently and independentlyin Myristicaceae. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We acknowledge Senior Engineer Xiao-Ying Hu (South China Botanical Garden, Chinese Academy of Sciences) for their support with SEM examination and Shi-Shun Zhou for assisting with material collection. We thank the National Natural Science Foundation of China (NSFC) (Grant No.31270227） and the Knowledge Innovation Program of the Chinese Academy of Sciences (Grant No.KSCX2-EW-J28) for financial support. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "APG.20o9. An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III. Bot. J. Linn Soc. 161(2): 105- 121. doi:10.1111/j.1095-8339.2009.00996.x.   \nArmstrong， J.E.， and Tucker， S.C. 1986. Floral development in Myristica (Myristicaceae).Am.J. Bot. 73(8): 1131-1143．Available from ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Armstrong， J.E.， and Wilson， T.K. 1978. Floral morphology of Horsfieldia (Myristicaceae). Am. J. Bot. 65(4): 441-449． Available from http://www.jstor.0rg/stable/2442701 [accessed April 1978] ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Chatrou, L.W. 2003. Myristicineae, a New Suborder within Magnoliales. Taxon 52(2): 277-279. doi:10.2307/3647396. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "D'Arcy， W.G.， Keating, R.C.， and Buchmann， S.L. 1996. The calcium oxalate package or so-called resorption tissue in some angiosperm anthers. In The anther: form， functions，and phylogeny. Edited by W.G. D'Arcy，and R.C. Keating. Cambridge University Press, New York. pp. 159-191. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "De Wilde, W.J.J.O.2014. Myristicaceae. In Flora Malesiana. Series I-Seed Plants. Vol. 14. Edited by P.F. Stevens. Nationaal Herbarium Nederland, Universiteit Leiden branch press, The Netherlands. pp. 1-622. doi:10.3897/ab.e1141. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Doyle，J.A.， Sauquet,H.， Scharaschkin， T.，and le Thomas，A. 2004. Phylogeny,molecular and fossil dating，and biogeographic history of Annonaceae andMyristicaceae(Magnoliales).Int.J. PlantSci.165(S4):S55-S67.doi:10.1086/421068.",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Endress， P.K. 20o6. Angiosperm floral evolution: morphological developmental framew0rk. Adv. Bot. Res. 44. doi:10.1016/S0065-2296(06)44001-5. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Endress， P.K.，and Doyle， J.A. 2007. Floral phyllotaxis in basal angiosperms:",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "development and evolution. Curr. Opin. Plant Biol. 10(1): 52-57. doi : 10.1016/j.pbi.2006.11.007.   \nFurness, C.A.， and Rudall, P.J. 2001. The Tapetum in Basal Angiosperms: Early Diversity. Int. J. Plant Sci. 162(2): 375-392. doi:10.1086/319580.   \nKühn,U.,and Kubitizki, K. 1993. Myristicaceae. In Flowering Plants- Dicotyledons Volume II, The families and genera of vascular plants. Edited by K. Kubitzki. Springer-Verlag Berlin Heidelberg press, Berlin. pp. 457-467. doi:10.1007/978- 3-662-02899-5_53.   \nManilal, K. S. 1983. Morphology and anatomy of Myristica flowers. Bull Pure Appl Sci. 2B: 7-13.   \nRonse De Craene, L.P.，and Wanntorp, L. 2008. Morphology and anatomy of the flower of Meliosma (Sabiaceae): implications for pollination biology. Plant Syst. Evol. 271(1): 79-91. doi:10.1007/s00606-007-0618-y.   \nSauqueti， H. 20o3. Androecium diversity and evolution in Myristicaceae (Magnoliales), with a description of a new Malagasy genus, Doyleanthus gen. nov. Am. J. Bot. 90(9): 1293-1305. doi:10.3732/ajb.90.9.1293.   \nSauquet, H., Doyle, J.A., Scharaschkin, T., Borsch, T., Hilu, K.W., Chatrou, L.W., and le Thomas, A. 2Oo3. Phylogenetic analysis of Magnoliales and Myristicaceae based on multiple data sets: implications for character evolution. Bot. J. Linn. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Soc. 142(2): 125-186. d0i:10.1046/j.1095-8339.2003.00171.x. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Siddiqi， M.R. and Wilson， T.K. 1976. Floral anatomy of the genus Knema (Myristicaceae). Biologia 22: 127-141. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Xu, F.X.,，and Ronse De Craene, L.P. 2010. Floral ontogeny of Knema and Horsfieldia (Myristicaceae): evidence for a complex androecial evolution. Bot. J. Linn. S0c.164(1):42-52. doi:10.1111/j.1095-8339.2010.01075.x. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Wilson， T.K. and Maculans, L.M. 1967. The morphology of the Myristicaceae. I. Flowers of Myristica fragrans and M. malabarica. Am. J. Bot. 54(2): 214-220. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Availablefromhttp://www.jstor.org/stable/2440800 [accessed February ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "1967] ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c480057f1350e4234a4e6ff1379bb7f142767751b8a8dfa97cd783b1aa49b9e.jpg",
+        "img_caption": [
+            "Fig. 1. Development of staminate flowers (synandria) in Horsfieldia pandurifolia. All "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "tepals are removed. (A) A broad flat floral apex, with a nearly tetragonal shape. (B-D) Floral buds at an early stage of development showing the initiation of stamen primordia around the margin of the floral apex. (B) Note three large stamen primordia (marked with s) and a further two primordia at an early stage of initiation (marked with dots). (C) One stamen primordium (marked with an arrowhead) appears between the previously initiated stamen primordia and the stalk. (D) Five stamen primordia of equal size.(E, F) Floral buds at a later stage showing bilobed stamen primordia; the arrowhead points to the furrow of the stamen primordium. (G) Floral bud at an intermediate stage showing the development of tetra-microsporangiate anthers. (H) Nearly mature floral bud， with six stamens. (I) Mature floral bud showing longitudinally elongate and bulging microsporangia and a slim stalk; the arrowhead points to the slit of the paired microsporangia. Top-down views (A-H); Lateral view (I). f, floral apex; s, stamen; sp, stamen primordium; st, stalk. Scale bars $= 2 0 \\mu \\mathrm { m }$ (A); 50 μm (B-F); 100 μm (G,H); 200 μm (I). ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ebb6c9208919a130a78a1a707038eb63ef2ea5346ecf1a597fdce8aeca782b2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2. Anatomy of staminate flower buds in H. pandurifolia at early stages of (C-F) Slightly older floral buds showing different shapes of androecia; note each stamen is composed of a pair of anther lobes and the number of stamens varies at four (C), five (D), six (E),and eight (F). (G-I) Sections of floral buds at the same stage as (C-F)，showing a longitudinal extension of the anther lobe (marked with s） and transverse expansion of the central sterile column tissue; note the undifferentiated floral apex and the stalk. Thick arrows point to the vascular bundles. (J-M) Detail of anther lobes at early stages of development in transverse sections， showing the development of the anther tissue. (J) Detail of the primary parietal cells and primary sporogenous cell. (K） Detail of the two secondary parietal cells resulting from the periclinal division of the primary parietal cell. (L） Periclinal division of the inner secondary parietal cell (marked with an arrowhead) and the secondary sporogenous cell.(M) Detail of pollen mother cells and anther wall; note, the anther wall is composed of epidermis,endothecium, middle layer, and tapetum. c,central sterile column; e, epidermis; en, endothecium; f, floral apex; ml, middle layer; pmc, pollen mother cell; ppc, primary parietal cell; psc, primary sporogenous cell; s, stamen; sp, stamen primordium; spc, secondary parietal cell; ssc, secondary sporogenous cell; st, stalk; t, tepal; ta, tapetum. Scale bars ${ \\mathop { = } } 5 0 ~ { \\mu \\mathrm { m } }$ (A-M). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/31b4d4ba707d2b1901f15cb97eb3363cd87a695dd0dbc7d2a075e488d285c199.jpg",
+        "img_caption": [
+            "Fig. 3. Anatomy of staminate flower buds in $\\underline { { H } } .$ pandurifolia during the meiotic stage "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "of microsporocyte development. (A-C） Transverse sections of floral buds in the median region of the synandrium, showing enlarged anther lobes at the periphery and sterile column tissue in the center of the synandrium.(D-F) Detail of the anther lobe in (A-C)， respectively， showing thickened and expanded endothecial cells, compressed middle layer cells,and binucleate tapetum cells; note the pollen mother cell develops into a tetrad. (G) Detail of the anther lobe in longitudinal section. (H) Middle longitudinal section of one floral bud， showing microspores in the microsporangium and a stalk below the column; note the vascular bundles constrict before entering the stalk and terminate at the top of the stalk (marked with thick arrows). (I) Detail of cells in the central column tissues, showing the calcium oxalate crystals. The arrowhead points to the positions of calcium oxalate crystals. a, anther lobe;c,central sterile column; e,epidermis; en， endothecium; f, floral apex; m, microspore; ml, middle layer; pmc, pollen mother cell; st, stalk; t, tepal; ta, tapetum; td, tetrad. Scale bars ${ \\mathop { = } } 1 0 0 ~ { \\mu \\mathrm { m } }$ (A-C, H); $5 0 ~ { \\mu \\mathrm { m } }$ (D-G, I). ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/26e2a0c44274577bd4f6245ededfacf8bb10175b712f4641de6412089e2d165d.jpg",
+        "img_caption": [
+            "Fig. 4. Anatomy of staminate flowers in $\\underline { { H } } .$ pandurifolia at anthesis. (A) Cross section "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "of the stalk, showing a circle of five vascular bundles (one is marked with a thick arrow). (B) Longitudinal section of one floral bud, showing vascular bundles in the slim stalk (marked with thick arrows). (C-F) Transverse sections of floral buds in the median region of the synandrium, showing four to seven pairs of protruding anther lobes,respectively; note pollen grains in each locule. The central sterile column tissue consists of enlarged, hollow cells in the center,and smaller cells at the periphery in (F). (G) Detail of the central sterile column tissue showing no vascular bundle. (H-K) Detail of anther lobes; note the microsporangium with free pollen grains and the anther dehiscing extrorsely. Arrowheads point to the positions of calcium oxalate crystals.(H, I) Transverse sections of the anther lobe; note anther wall contains thickened endothecium cells, degenerating middle layer cells, and tapetum cell. (J) Longitudinal section of the anther lobe showing the bi-nucleate pollen grains (marked with an arrow) and remnants of the collapsed tapetum cells (marked with \\*). (K) Transverse section of the anther lobe； note anther wall contains thickened endothecium cells and the microsporangia release free pollen grains. c, central sterile column; en, endothecium; p, pollen grain; s, stamen; st, stalk; ta, tapetum. Scale bars ${ \\mathop { = } } 5 0 \\mu \\mathrm { m }$ (A, G-K); 100 μm (B-F). ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b8779f0a4cc515a82e474055865960395a229fdb56c67c4ec747f819f69d27a.jpg",
+        "img_caption": [
+            "Fig. 5. Anatomy of staminate flower buds in H. tetratepala at an early stage of "
+        ],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "development. Longitudinal (A, B) and transverse sections (D, E) of early buds in the median region of floral primordium; note the floral apex consists of parenchyma cells (marked with arrows) and the nearly round floral apex (D) develops into a triangular apex (E). Longitudinal (C) and transverse sections (F) of slightly older flower buds showing the differentiation of stamen primordia around the margin of the floral apex. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Median (G) and transverse longitudinal (H, I) sections of flower buds at a later stage, showing further expanded stamen primordia and elongated stalk. (J-L） Transverse sections of floral buds at the same stage as in (G-I) in the median region of the androecial primordium, showing the development of three (J,K), or two (L） stamen primordia groups, which are composed of parenchyma cells; note the shape of the tandroecial primordium varies, it is either irregular (J,L), or triangular (K). f, floral apex; sp, stamen primordia; st, stalk; t, tepal. Scale bars $= 5 0 \\mu \\mathrm { m }$ (A-L). ",
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/52bdc75560180e5637c5dbc004b4d066da2807b1aed4e31291a32148f25971e2.jpg",
+        "img_caption": [
+            "Fig. 6. Anatomy of staminate flowers in $\\underline { { H } } .$ tetratepala at meiotic and mature stages. "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(A) Transverse section of a square androecial primordium, with four stamen primordia groups. Transverse (B) and longitudinal (C） sections of floral buds at an intermediate stage of development in the median region of the androecial primordium; note that the further enlarged androecial primordia are differentiated into a central sterile tissue, but still without any differentiation of microsporangia; thick arrows in (C) point to the vascular bundles of the stalk. (D,F) Transverse sections of floral buds at the meiotic stage; note the synandrium consists of anther lobes around the margin of the central sterile column tissue. (D） Section of the basal region of a square synandrium showing four vascular bundles in the centered of the central sterile column tissue (marked with thick arrows). (E）Detail of the anther lobes in (D) showing tapetum cells with large and conspicuous nuclei and the first division of the pollen mother cell. (F） Section of the apical region of the synandrium showing gaps among the central sterile column tissue and the absence of vascular bundles. (G) Detail of anther lobes in (F） showing pollen mother cell, degenerating tapetum cells and free microspores. (H, I) Longitudinal sections of floral buds at maturity; note the vascular bundles extend into the median region of the synandrium (marked with thick arrows). c, central sterile column; f, floral apex; m, microspore; pmc, pollen mother cell; sp, stamen primordia; st, stalk; t, tepal; ta, tapetum. Scale bars $= 5 0 \\mu \\mathrm { m }$ (A-C,E, G); $1 0 0 \\mu \\mathrm { m } ( \\mathrm { D } , \\mathrm { F } , \\mathrm { H } , \\mathrm { I } ) .$ ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/34e9f7da8fb66e1a70e73a7d2d4efc3da65d364cd1fdadd721b3408a1b50b65b.jpg",
+        "img_caption": [
+            "Fig. 7. Development of staminate flowers (synandria) in Myristica fragrans. All of the "
+        ],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "tepals are removed except for (A). (A) Floral apex, with a slightly convex surface. (B) Initiation of the first three stamen primordia (of variable sizes) on one side of the floral apex. (C) Initiation of the second group of stamen primordia (marked with dots) on the other side of the floral apex.(D,E) The third group of stamen primordia appears on the remaining side of the floral apex (marked with dots). (F） Three primordia in each corner (marked with dots) are slightly larger than the others.(G) Each stamen primordium splits into two lobes (marked with an arrowhead); stamen primordia are higher than the floral apex. (H) A longitudinal groove appears on each anther lobe, forming two microsporangia; the floral apex is on the same level as the marginal stamen primordia. (I) Mature floral bud showing a whorl of stamens with elongate microsporangia (one stamen was marked with a black segment),a short stalk,and an undifferentiated floral apex.Lateral views (A, E); top views (B-H). f, floral apex; s, stamen; sp, stamen primordium; st, stalk. Scale bars $= 2 0 ~ { \\mu \\mathrm { m } }$ (A); 50 μm (B,D,E); 100 μm (C,F-H); 200 μm (I). ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3f88dae4cbc2bed49f145185e6fd191ec942effaf9a1430f5105e3ce206f4a5.jpg",
+        "img_caption": [
+            "Fig. 8. Anatomy of staminate flower buds in M. fragrans at maturity. (A) Transverse "
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "section of the stalk, showing a ring of nine discrete vascular bundles in the center (one is marked with a thick arrow). (B) Transverse section of the uppermost apex of the synandrium, without any vascular bundle. (C) Median transverse section of the nearly mature synandrium; note the androecium consists of 1O pairs of anther lobes and a ring of nine discrete vascular bundles in the center (one is marked with thick arrow). ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "(D) Detail of the anther lobes in (C) showing thickened endothecium cells and free pollen grains. (E) Median transverse section of the synandrium at anthesis showing the extrorse dehiscence of anthers and a circle of continuous vascular bundles in the center (one is marked with a thick arrow). (F) Detail of anther lobes in (E); note microsporangia dehisce and release free pollen grains. c, central sterile column; en, endothecium; p, pollen grain. Scale bars ${ \\bf \\tau } = 2 0 0 \\ \\mu \\mathrm { m } \\ ( \\mathrm { A } , \\mathrm { C } , \\mathrm { E } ) ; 1 0 0 \\ \\mu \\mathrm { m } \\ ( \\mathrm { B } , \\mathrm { D } , \\mathrm { F } ) .$ （204号 ",
+        "page_idx": 37
+    }
+]

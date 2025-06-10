@@ -1,0 +1,138 @@
+多不饱和脂肪酸的生物学功能及其在动物生产中的应用张晓图　杜晨红　丁小娟　王世琼　霍倩倩　李　晓　王志祥（河南农业大学牧医工程学院，郑州450002）
+
+摘要：多不饱和脂肪酸(PUFA)是一种重要的营养物质，是细胞膜磷脂的重要组成成分，在生物系统中具有广泛的生物学功能，能够调节机体的脂类代谢、免疫，具有抗癌、预防和治疗心血管疾病，促进机体生长发育以及调控基因的表达等功能。本文就多不饱和脂肪酸的来源及生物学功能进行阐述，并浅谈了多不饱和脂肪酸在动物生产中的应用现状及前景。
+
+关键词：多不饱和脂肪酸；生物学功能；动物生产；应用中图分类号：R151文献标识码：A文章编号：
+
+多不饱和脂肪酸(polyunsaturated fatty acids，PUFA)是机体不可缺少的必需脂肪酸，其生物学功能以及与机体健康的关系成为近几年国际关注和研究的热点。大量研究表明，PUFA不仅在维护生物膜结构和功能、提高机体免疫功能、促进生长发育、调节脂类代谢以及相关基因表达等方面发挥重要作用,还能降低血栓形成、减少心血管疾病发病率、抵抗癌症等[1-3]。近年来，随着生产成本的降低，PUFA在动物生产中的应用受到了人们的重视，对PUFA 的研究逐渐由生长性能、抗氧化能力和免疫机能等表观性能向分子调控机理延伸，更多的PUFA 生长机制相关的深层因素，如调节脂类代谢相关基因表达和抗癌作用机理等被发现，为其在动物生产实践中的应用提供了理论依据。本文就PUFA的来源、生物学功能及其在动物生产中的应用作一综述。
+
+# 1 PUFA的来源
+
+PUFA是指分子结构中含有2个或2个以上双键且碳链长度为 $1 8 \sim 2 2$ 个碳原子的直链脂肪酸,主要包括n-6 系列的亚油酸(linoleic acid,LA,C18:2)和花生四烯酸(arachidonic acid,AA,C20:4),n-3 系列的亚麻酸(linolenic acid,LNA,C18:3)、二十碳五烯酸(eicosapentaenoicacid，EPA，C20:5)和二十二碳六烯酸(docosahexenoic acid，DHA，C22:6)等，LNA 又可收稿日期：2017-03-05作者简介：张晓图（1991—)，女，河南荥阳人，硕士研究生，从事家禽营养学与饲料研究。E-mail: 472713886@qq.com\*通信作者：王志祥，教授，博士生导师，E-mail:wzxhau@aliyun.com
+
+分为 $\mathfrak { a }$ -亚麻酸( $\mathfrak { a }$ -linolenic acid,ALA,C18:3n-3)和 $\gamma \cdot$ 亚麻酸( $\gamma$ -linolenic acid,GLA,C18:3n-6)。其中，LA 和LNA主要存在于植物油中，如大豆油、红花籽油等含有较高的LA，紫苏籽油、亚麻籽油等含有极丰富的ALA，月见草油、聚合草籽油等含有较多的GLA；同时，大多数海里生长的藻类、微生物体内以及低等真菌类均含有较多的 LNA（表1)。AA广泛存在于动物组织中，如许多动物的脑、肝脏、血液磷脂和肾上腺中均含有AA，低等真菌尤其是被孢霉属真菌也含有大量的AA。EPA与DHA主要存在于海洋生物中，如高脂鱼类、海藻等，而在一般陆地植物油和动物油中几乎测不出[4]，部分真菌、贝类和甲壳类也含有较多的 DHA。
+
+表1亚油酸和亚麻酸的主要来源及其含量  
+Table 1 Linoleic acid and linolenic acid contents in main sources[5] %   
+
+<html><body><table><tr><td>项目 Items</td><td>亚油酸 Linoleic acid</td><td>α-亚麻酸 α-linolenic acid</td><td>γ-亚麻酸 γ-linolenic acid</td></tr><tr><td>大豆油 Soybean oil</td><td>50~60</td><td>6.8</td><td></td></tr><tr><td>葵花籽油 Sunflower seed oil</td><td>66</td><td></td><td></td></tr><tr><td>红花籽油 Safflower seed oil</td><td>73</td><td></td><td></td></tr><tr><td>菜籽油 Rapeseed oil</td><td>21</td><td>9~11</td><td></td></tr><tr><td>花生油 Peanut oil</td><td>37.1</td><td>0.1</td><td></td></tr><tr><td>玉米油 Corn oil</td><td>58</td><td>0.6</td><td></td></tr><tr><td>棉籽油 Cottonseed oil</td><td>44.9~55.0</td><td></td><td></td></tr><tr><td>山核桃油 Pecan oil</td><td>64.6</td><td>10.2</td><td></td></tr><tr><td>紫苏籽油 Perilla seed oil</td><td>12.9</td><td>66.7</td><td></td></tr><tr><td>亚麻籽油 Linseed oil</td><td>16</td><td>50~54</td><td></td></tr><tr><td>橄榄油 Olive oil</td><td>8.2</td><td>0.8</td><td></td></tr><tr><td>月见草籽油 Oenothera biennis seed oil</td><td></td><td></td><td>7~11.27</td></tr><tr><td>微孔草籽油 Microula sikkimensis seed oil</td><td></td><td></td><td>7~13</td></tr><tr><td>聚合草籽油 Polymeric grass seed oil</td><td></td><td></td><td>20~26</td></tr><tr><td>玻璃苣籽油 Borago seed oil</td><td></td><td></td><td>15~25</td></tr><tr><td>蓝蓟籽油 Echium vulgare seed oil</td><td></td><td></td><td>6.6~14</td></tr><tr><td>黑穗醋栗(黑加仑)Ribes nigrum</td><td></td><td></td><td>11.71~20</td></tr><tr><td>深黄被孢霉Mortierella isabellina</td><td></td><td></td><td>3~11</td></tr><tr><td>拉曼被孢霉Mortierellaramanniana</td><td></td><td></td><td>7~12</td></tr><tr><td>葡酒色被孢霉Mortierella vinacea</td><td></td><td></td><td>3~11</td></tr><tr><td></td><td></td><td></td><td>20~30</td></tr><tr><td>雅致枝霉 Thamnidiumelegans</td><td></td><td></td><td>21.2</td></tr><tr><td>山茶小克银汉霉 Cunninghamella japonica</td><td></td><td></td><td></td></tr><tr><td>卷枝毛霉 Mucor circinelloides</td><td></td><td></td><td>15~18</td></tr><tr><td>冻土毛霉 Mucor hiemalis</td><td></td><td></td><td>15.4</td></tr></table></body></html>
+
+# 2PUFA的生物学功能
+
+# 2.1 对细胞膜功能的影响
+
+PUFA在所有细胞膜的组成中发挥着重要的作用，能够维持正常膜蛋白功能的稳态和影响细胞膜的流动性，从而调节细胞信号转导过程和在不同细胞类型中的基因表达[]。有结果显示，PUFA能改变细胞膜脂质组成和抑制Caco-2细胞的生长，从而增加细胞膜的流动性，并呈剂量反应[7]。Nair等[8研究表明，n-3 PUFA 能改变膜磷脂脂肪酸组成，从而调节心肌细胞中第二信使的信号转导过程。然而，由于PUFA的不饱和双键易受自由基攻击发生过氧化反应，因此过多的摄入PUFA 会导致体内脂质过氧化增强，降低细胞膜的流动性。Yehuda等[研究发现，LA和ALA本身对神经元膜流动性指数具有影响，能降低神经元膜中的胆固醇（TC）的含量，降低膜的流动性，并增加细胞对损伤和死亡的易感性，从而使细胞难以发挥其正常功能。另有研究表明，DHA 和 EPA可以影响精子细胞的膜结构，使精子质膜呈现良好的流动性，从而参与细胞膜中蛋白质介导的细胞应答，影响脂质介导体的产生、细胞信号转导和基因的表达[10]。
+
+# 2.2 对脂类代谢的影响
+
+n-3PUFA 能抑制脂肪酸合成酶（FAS）、甘油二酯转酰基酶（DGAT）和羟甲基戊二酸单酰辅酶A（HMG-CoA）还原酶的活性，促进脂肪酸的氧化分解而抑制甘油三酯（TG）的合成，下调肝脏中低密度脂蛋白(LDL)受体而抑制 TC 合成并降低 TC 的吸收，从而降低血清中 TG 和 TC 的含量[1-12]。李荣刚等[13]研究表明，饲粮中添加适量的LA 能降低肉兔血清中 TC 和 LDL 的含量。Haug 等[14研究表明，饲粮中添加鱼油可降低血浆中 TG 的含量，同时降低肝脏中TG 和极低密度脂蛋白（VLDL）的合成。此外，PUFA可以刺激过氧化物酶和参与诱导线粒体中的解偶联蛋白(UCP)，增强线粒体中的 $\beta$ -氧化，从而加快血脂的分解和清除，降低体脂沉积[15]。研究发现，饲粮中添加鱼油能诱导过氧化物酶体脂肪酸氧化骨骼肌，且使UCP-3 的含量增加了2倍，从而减少脂肪和蛋白质的沉积[1]。
+
+# 2.3 对基因表达的影响
+
+饲粮中PUFA通过调控机体多种基因的表达，进而影响动物体内的合成代谢过程。固醇调节元件结合蛋白-1c（SREBP-1c）是调控与脂质代谢相关基因表达的关键性核转录因子，主要参与调控肝脏脂肪酸和TG 等的生物合成及代谢，PUFA具有调节 SREBP-1c水平和表达的能力。已有研究证实PUFA可以抑制 SREBP-1c基因的表达，从而抑制肝脏脂肪合成基因的转录和脂质的生物合成，且n-3 PUFA 比n-6 PUFA 的抑制效果更明显[17]。而过量表达SREBP-1c 能促进肝脏脂肪合成基因的表达，却对 TC 合成相关基因没有显著影响[18]。Foretz等[19]研究表明，在分离的肝细胞中过量表达 SREBP-1c 既是影响脂肪酸合成基因表达的主要因素，也是影响胰岛素诱导的葡萄糖激酶基因表达的主要因素。FAS 是具有多种催化功能的大分子蛋白质复合酶系统，能催化乙酰辅酶A和丙二酸单酰辅酶A合成脂肪酸，是肝脏脂肪酸合成的关键限速酶，其对动物脂质代谢相关基因表达的调控机制主要集中在转录水平上，它受 SREBP-1c 的调节, $F A S$ 的表达与 SREBP-1c 的水平是一致的。试验证明，肝脏 SREBP-1c水平的减少导致肝脏FAS 和乙酰CoA羧化酶-1（ACC-1）表达量的降低，从而降低肝脏中的脂质积累[20]。
+
+脂肪组织中的甘油三酯脂肪酶（adipose triglyceride lipase，ATGL）是催化TG第1步水解的重要限速酶，可以使 TG 水解成甘油和游离脂肪酸，CGI-58(comparative geneidentification 58)是ATGL 的活化因子，能增强 ATGL 的活性，而CGI-58 的 N-末端富含色氨酸的结构域对调节CGI-58正确定位和ATGL激活功能是必不可少的，因此二者在脂肪代谢过程中发挥重要的作用[21]。此外，PUFA 通过上调线粒体 UCP-3 的转录，并诱导编码参与脂肪酸氧化的蛋白质的基因，同时下调编码蛋白质的基因的转录，从而增加产热，减少体脂肪沉积，并维持葡萄糖代谢平衡，如图1所示[22-23]。
+
+![](images/fa6ca6f2d010ee3c804871274379963f36aaab3609986c44172c650b7c8ee97a.jpg)
+
+Non-lipid ligands:非脂质配体;Fibrates：贝特类；Thiazol:噻唑烷二酮 thiazolidinediones;PPAR：过氧化物酶体增殖物激活受体 peroxisome proliferator activated receptor；FA-oxidationgenes：FA 氧化基因；UCPs：线粒体解耦联蛋白mitochondrial uncoupling proteins；Thermogenesis:生热;SREBP:固醇反应元件结合蛋白 sterol response element-binding protein;FAS：脂肪酸合成酶 fatty acid synthetase;PUFA:多不饱和脂肪酸 polyunsaturated fatty acids;△-6 and △-5 desaturases:△-6 和△-5 去饱和酶；membrane：膜；PL：磷脂 phospholipids;Fat：脂肪；Glucose uptate：葡萄糖摄取；Insulin resistance：胰岛素抵抗； $^ +$ ：活化或诱导activation or induction；-： 抑制 suppression。
+
+# Fig.1Schematic mechanism of PUFA regulation of fuel partitioning[22]
+
+# 2.4对机体免疫功能的影响
+
+PUFA的免疫调节功能已经在人类医学和动物试验中得到证明。饲粮中添加PUFA可以调节淋巴细胞增殖及细胞膜上受体和分子的表达、抗原呈递和自然杀伤细胞的活性，从而起到对细胞免疫反应的影响。Singer 等[24]试验证明，n-3 PUFA 能减少小鼠淋巴细胞白细胞介素-1（IL-1）和白细胞介素-2（IL-2）的分泌，增加巨噬细胞中的肿瘤坏死因子， $\mathbf { \sigma } \cdot \mathbf { a }$ （TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ））产生、降低自然杀伤（NK)细胞活性，而n-6 PUFA 则增加小鼠中 IL-2的产生，并降低 TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 产生和 NK 细胞活性，这与Chavali 等[25]的研究结果相一致。由此证明，n-3 PUFA具有免疫增强作用，而n-6 PUFA 则有相反的作用。Merzouk 等[2研究表明 EPA 和 DHA 都减少了豆球蛋白A（Con-A）刺激的淋巴细胞的 IL-2分泌，增强了IL-4 的产生，从而抑制T淋巴细胞增殖，降低机体免疫力。此外，n-3PUFA能改变信号传递或细胞因子的基因表达、蛋白质翻译等过程，调节细胞因子的分泌，从而影响机体的免疫功能。Fritsche 等[27研究发现用活的李斯特菌或无菌磷酸盐缓冲液（PBS）感染小鼠，n-3PUFA 饲粮组的小鼠脾脏组织中的IL-2、白细胞介素-12（IL-12）、白细胞介素- $\cdot 1 \beta$ （IL-1β）、干扰素-γ（IFN-γ）的mRNA表达显著下降，而 IL-12 和 IFN-γ 在先天和适应性宿主防御中发挥主要作用，表明n-3 PUFA能有效抵抗宿主感染性疾病。
+
+# 2.5 对癌症的影响
+
+近年来，随着人们生活水平的提高，越来越关注食品安全问题，EPA和DHA作为PUFA的重要组成部分，具有抗癌、抗动脉粥样硬化、降血脂和保护心血管功能等作用，特别是它们对癌症的抑制作用受到了人们的重视。其主要作用机制是抑制AA衍生的花生酸类的生物合成，影响转录因子活性、基因表达和信号转导过程，改变雌激素代谢，调节自由基和活性氧的产生，影响胰岛素的敏感性和细胞膜的流动性[28]。Colas 等[29]通过体外试验发现膳食补充 DHA导致在蒽环类抗生素的反应增强之前减少了肿瘤血管生成，表明DHA 的化学敏感性是通过抑制乳腺肿瘤宿主血管反应的肿瘤来显现的。Bougnoux 等[30]研究表明，乳腺癌患者在接受蒽环类抗生素化疗期间，补充DHA大大增加了接受化疗的转移性乳腺癌患者的存活率，且没有带来任何可检测的毒副作用。另据研究，对甲基胆蒽（MCA）诱发的肉瘤大鼠给予EPA 管饲，可使肿瘤体积缩小，进一步研究发现在肝脏组织中血管内皮生长因子（VEGF）mRNA表达水平显著下降，说明EPA可通过抑制VEGF的表达从而达到抗肿瘤的效应[31]。
+
+# 2.6对心血管疾病的影响
+
+PUFA可以保护动物免受动脉粥样硬化，降低血液中TG含量，抑制血小板凝集和防止血栓形成，从而降低心血管疾病的发生[32]。Renaud 等[33]在法国农民的饮食干预研究中，通过用菜籽油和富含ALA的人造黄油替代黄油来改变脂肪的类型，结果显示血浆脂质和血小板磷脂的 EPA含量显著增加，并且进食2年后血小板聚集显著减少。PUFA对动脉血栓的形成和血小板功能有明显的影响。血小板膜磷脂释放的PUFA经环氧合酶作用可合成血栓素 A（TXA)，具有促进血小板凝集和收缩血管的作用；血管壁膜磷脂释放的PUFA经酶促反应合成的前列环素（PGI)，具有抑制血小板凝集和舒张血管的作用，两者之间平衡具有调节血小板和血管的功能。因此，PUFA具有治疗和预防心血管疾病的作用。
+
+# 2.7 对生长发育的影响
+
+PUFA 能够促进胎儿和婴幼儿的生长发育，脑对胎儿和婴幼儿来说是身体尺寸和重量的主要部分，AA和DHA作为脑中主要的脂肪酸对胎儿的形成及婴幼儿的生长发育至关重要，其缺乏会导致胎儿的脑细胞生长发育缓慢，甚至引起胎儿中枢神经系统发育不全，影响自身代谢。肥胖是现代社会影响人类健康的一个重要因素，在过去20年间，肥胖发生率增加了2倍，且这种趋势在持续上升。而PUFA与肥胖的发生密切相关，由于肥胖与膳食脂肪量和脂肪酸的构成均有关系，因此可以通过改变膳食脂肪酸的组成来减缓肥胖的发生。在动物研究中发现，n-3 PUFA可以改变身体成分和减少体内脂肪的积累，从而保持体重的平衡[34]。同时，在怀孕和哺乳期额外的供应n-3PUFA会增加胎儿的出生体重、促进生长发育、降低在怀孕期间早产的风险和其他并发症[35]。
+
+3PUFA在动物生产中的应用
+
+# 3.1在家禽生产中的应用
+
+PUFA作为一种重要的营养物质，能提高饲料转化率、促进蛋白质合成、减少脂肪沉积、降低料重比、提高家禽肌肉中PUFA的含量、减轻脂质过氧化、改善肉品质，进而提高动物的生长性能。Sanz 等[3在肉鸡饲粮中添加牛油和向日葵油，结果显示，与牛油组相比，向日葵油组肉鸡腹部脂肪沉积显著降低，同时肝脏FAS 活性较低，表明肝脏脂肪合成降低。Lopez-Ferrer 等[37]发现在肉鸡饲粮中添加高水平的鱼油会使鸡腿肉中PUFA 含量增加，尤其是长链n-3PUFA，而饱和脂肪酸（SFA）和单烯脂肪酸含量减少，总n-6PUFA的含量也有轻微改变，这与Hrdinka等[38]的研究结果一致。丁洛阳等[39]的研究结果显示，饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA为3：1和6：1组能显著减少生长期扬州鹅肝脏丙二醛（MDA）、一氧化氮（NO）含量，降低肝细胞膜系结构的损伤，改善其抗氧化能力。PUFA还参与机体的淋巴因子、抗体的分泌及新的免疫细胞的产生，其缺乏可能影响免疫器官的正常发育，对家禽免疫机能的影响至关重要。Hughes 等[40研究表明，由于n-3 PUFA 对 T细胞和脾脏细胞的有丝分裂反应有抑制作用，因此饲粮中添加过量的n-3PUFA会降低机体免疫力。Friedman 等[41研究表明，将不同来源的PUFA添加到肉鸡饲粮中，在第 $1 1 { \sim } 1 4$ 天发现饲粮PUFA水平与肉仔鸡抗体量呈二次线性曲线关系，表明适宜的PUFA添加量能提高机体免疫力，而过高或过低则会抑制免疫反应。
+
+# 3.2 在猪生产中的应用
+
+饲粮中的PUFA经消化吸收后可以不经氢化而直接用于合成体脂肪，因此，在猪饲粮中添加 PUFA可以增加猪肉组织中PUFA的含量，从而降低脂质和肌红蛋白的氧化稳定性，使肌肉的脂肪在贮存、加工过程中易氧化腐败、产生异味，降低肉品质，影响经济效益。而对于妊娠母猪来说，饲粮中的PUFA不仅可以影响母猪体内脂肪酸组成，而且还可以通过影响初乳和常乳中脂肪酸组成进一步影响后代仔猪体组织中脂肪酸组成，为仔猪提供大量的可利用脂肪酸，从而增加对仔猪的能量供应，提高仔猪的成活率和生长率，改善母猪繁殖性能。
+
+Missotten 等[42研究表明，饲粮中富含 n-3 PUFA不仅直接影响猪器官和组织中脂肪酸组成，还可通过间接影响脂肪酸生成酶的表达影响肉中脂肪酸组成。Tilton 等[43]的研究结果显示，与对照组相比，在泌乳期母猪饲粮中添加 $10 \%$ 牛油降低了母猪常乳C10:0、C14:0、C16:0、C16:1和LNA含量，提高C18:0和C18:1含量，进而提高母猪胴体重和仔猪断奶体重。Ci等[44]研究表明，从母猪分娩前7天至断奶饲喂含 $8 \%$ 玉米油的饲粮能显著提高初乳中 ALA的含量，降低C20:3n-6 和 EPA 的含量，其他类型的脂肪酸无显著差异，而LT 肌肉中LA和 C20:2n-6 的含量显著升高，C16:1n-7、C17:1n-7、C20:3n-6、AA 和 DHA的含量降低，与对照组相比，初乳和胸最长肌（LT）肌肉中总PUFA和n-6PUFA含量及 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 均显著升高，而n-3PUFA含量显著降低。此外，PUFA还可以提高母猪的免疫力，通过提高乳汁免疫球蛋白含量来增强仔猪免疫力，从而提高仔猪成活率和初生体重，有效降低仔猪断奶前死亡率。Bontempo 等[45]报道，在母猪妊娠期和哺乳期饲粮中添加共轭亚油酸（CLA）可增加母猪血清和初乳中免疫球蛋白G(IgG)的含量，增强母猪和仔猪免疫力。
+
+# 3.3 在反刍动物中的应用
+
+近年来，越来越多的研究发现将PUFA应用到反刍动物生产中不仅可以通过调控乳中脂肪酸组成来提高反刍动物的泌乳性能，还可以改善肉组织中脂肪酸组成，提高肉品质，从而提高反刍动物产品的营养价值。钟荣珍等[4试验证明将全棉籽添加到奶牛饲粮中能显著提高乳中长链PUFA的含量、优化乳脂的构成、改善乳品质，同时还可提高奶牛的泌乳量和乳脂率。Collins 等[47]在羔羊饲粮中添加亚麻油后极显著降低了肌肉和皮下脂肪中 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ （204号PUFA，而 PUFA/SFA 显著增加。另据研究，在肉牛饲粮中添加亚麻籽可提高肌肉和组织中PUFA 特别是 ALA的含量，降低 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA[48]。此外，由于PUFA 的生物氢化作用和自由脂肪酸对甲烷菌和原虫的毒害作用，反刍动物饲粮中添加PUFA可有效减少瘤胃中甲烷的排放。研究表明，单独添加LA和LNA或二者混合添加均可显著降低甲烷的生成量，且随着LNA含量的增加效果越明显[49]。
+
+# 3.4在水产养殖上的应用
+
+PUFA是鱼类和甲壳类动物的必需脂肪酸，可以通过去饱和作用以及碳链延长作用转化为长链高不饱和脂肪酸，对其生长、发育和生殖发挥着重要作用。Levine 等[50研究表明，PUFA对地蟹的早期发育尤为重要，特别是DHA和EPA，能显著提高幼蟹的成活率和生长速率。Chandge 等[51研究表明，在饲料中添加LA 或 LNA 能提高印度对虾的生长速率、饲料系数、蛋白质效率以及蛋白质利用率等，且2%LNA组的生长速率显著高于1%LNA 组。另有研究表明，n-3PUFA 能够通过改变一些免疫相关基因的表达水平和鱼类的抗病性来调节鱼类的免疫力和疾病抗性[52]。以上研究结果说明，饲料中添加 PUFA 具有促进水产动物生长、提高蛋白质利用率、改善繁殖性能和增强机体免疫力的作用。
+
+# 4小结
+
+PUFA在增强动物的免疫力、提高抗氧化能力、调节脂类代谢、抗癌以及预防心血管疾病等方面具有较高的应用价值。在畜牧生产中，通过对PUFA调控动物脂肪沉积分子生物学机制的研究，可以帮助我们更合理地调控动物营养，提高动物产品的品质，进而获取更多的经济效益。然而，PUFA许多生理功能的作用机制尚不完全清楚，其在动物饲粮中的适宜添加量、不同品种和性别之间以及不同生理发育阶段的饲喂效果是否存在差异等有待深入探讨和解决。
+
+参考文献：
+
+[1] PATTERSON E,WALL R,FITZGERALD G F,et al.Health implications of high dietary Omega-6 polyunsaturated fatty acids[J].Journal of Nutrition and Metabolism,2012,2012:539426. [2]PETRIK M B H,MCENTEE M F,JOHNSON B T,et al.Highly unsaturated (n-3） fatty acids,but not $\mathfrak { a }$ -linolenic,conjugated linoleic or $\gamma$ -linolenic acids,reduce tumorigenesis in Apc $( \mathrm { M i n / + } )$ mice[J].The Journal of Nutrition,2000,130(10):2434-2443.   
+[3]HABERMANN N,SCHON A,LUND E K,et al.Fish fatty acids alter markers of apoptosis in colorectal adenoma and adenocarcinoma cell lines but fish consumption has no impact on apoptosis-induction ex vivo[J].Apoptosis,2010,15(5):621-630.   
+[4] GARG M L,LEITCH J,BLAKE R J,et al.Long-chain n-3 polyunsaturated fatty acid incorporation into human atrium following fish oil supplementation[J].Lipids,2006,41(12):1127-1132.   
+[5]周同永,任飞,邓黎,等.γ-亚麻酸及其生理生化功能研究进展[J].贵州农业科 学,2011,39(3):53-58.   
+[6]DAS U N,Jr.Essential fatty acids:biochemistry,physiology and pathology[J].Biotechnology
+
+Journal,2006,1(4):420-439.
+
+[7]NANO J L,NOBILI C,GIRARD-PIPAU F,et al.Effects of fatty acids on the growth of Caco-2 cells[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,2003,69(4):207-215. [8]NAIR S S D,LEITCH J,GARG M L,et al.N-3 polyunsaturated faty acid supplementation alters inositol phosphate metabolism and protein kinase C activity in adult porcine cardiac myocytes[J].The Journal of Nutritional Biochemistry,2001,12(1):7-13.   
+[9]YEHUDA S,RABINOVITZ S,CARASSO R L,et al.The role of polyunsaturated fatty acids in restoring the aging neuronal membrane[J].Neurobiology of Aging,2002,23(5):843-853. [10] CALDER P C,YAQOOBP.Understandingomega-3polyunsaturatedfatty acids[J].Postgraduate Medicine,2009,121(6):148-157.   
+[11]NESTEL P J.Fish oil and cardiovascular disease:lipids and arterial function[J].American Journal of Clinical Nutrition,2000,71(1):228S-231S.   
+[12]BROUGHTON K S,MORGAN L J.Frequency of (n-3） polyunsaturated fatty acid consumption induces alterations in tissue lipid compoisition and eicosanoid synthesis in CD-1 mice[J].The Jourmal of Nutrition,1994,124(7):1104-1111.   
+[13]李荣刚,麻名文,王春阳,等.日粮添加亚油酸对断奶至2月龄肉兔生长性能、免疫指标及 脂质代谢的影响[J].中国兽医学报,2011,31(11):1676-1680.   
+[14]HAUG A,HOSTMARK A T.Lipoprotein lipases,lipoproteins and tissue lipids in rats fed fish oil or coconut oil[J].The Jourmal of Nutrition,1987,117(6):1011-1017.   
+[15]TAKADA R,SAITOH M,MORI T,et al.Dietary gamma-linolenic acid-enriched oil reduces body fat content and induces liver enzyme activities relating to fatty acid beta-oxidation in rats[J].The Journal of Nutrition,1994,124(4):469-474.   
+[16] BAILLIE R A,TAKADA R,NAKAMURA M,et al.Coordinate induction of peroxisomal acyl-CoA oxidase and UCP-3 by dietary fish oil:a mechanism for decreased body fat deposition [J].Prostaglandins,Leukotrienes and Essential Fatty Acids,1999,60(5/6):351-356.   
+[17]TERAN-GARCIA M,ADAMSON A W,YU G,et al.Polyunsaturated fatty acid suppression of fatty acid synthase (FASN):evidence for dietary modulation of NF-Y binding to the Fasn
+
+promoter by SREBP-1c[J].Biochemical Journal,2007,402(3):591-600.
+
+[18]SHIMANO H,HORTON JD,SHIMOMURA I,et al.Isoform lc of sterol regulatory element binding protein is less active than isoform la in livers of transgenic mice and in cultured cells[J].The Journal of Clinical Investigation,1997,99(5):846-854.
+
+[19]FORETZ M,GUICHARD C,FERRE P,et al.Sterol regulatory element binding protein-1c is a major mediator of insulin action on the hepatic expression of glucokinase and lipogenesisrelated genes[J].Proceedings of the National Academy of Sciences of the United States of America,1999,96(22):12737-12742.   
+[20]HOWELL G,DENG X,YELLATURU C,et al.N-3 polyunsaturated fatty acids suppress insulin-inducedSREBP-1ctranscriptionviareducedtrans-activatingcapacity of LXRα[J].BiochimicaetBiophysica Acta: Molecularand Cell Biology of Lipids,2009,1791(12):1190-1196.   
+[21] GRUBER A,CORNACIU I,LASS A,et al.The N-terminal region of comparative gene identification-58(CGI-58） is important for lipid droplet binding and activation of adipose triglyce-ride lipase[J].Journal of Biological Chemistry,2010,285(16):12289-12298.   
+[22] CLARKE S D.Polyunsaturated fatty acid regulation of gene transcription:a mechanism to improve energy balance and insulin resistance[J].British Journal of Nutrition,20o0,83 Suppl 1:S59-S66.   
+[23]MASCARó C,ACOSTA E,ORTIZ J A,et al.Control of human muscle-type carnitine palmitoyltransferase I gene transcription by peroxisome proliferator-activated receptor[J].Journal of Biological Chemistry,1998,273(15):8560-8563.   
+[24]SINGER P,RICHTER-HEINRICH E.Stress and fatty liver-possible indications for dietary long-chain n-3 fatty acids[J].Medical Hypotheses,1991,36(1):90-94.   
+[25] CHAVALI S R,FORSE R A.Decreased production of interleukin-6 and prostaglandin E2 associated with inhibition of delta-5 desaturation of o-6 fatty acids in mice fed safflower oil diets supplementedwithsesamol[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,1999,61(6):347-352. [26]MERZOUK S A,SAKER M,REGUIG K B,et al.N-3 polyunsaturated fatty acids modulate in-vitro T cell function in type I diabetic patients[J].Lipids,2008,43(6):485-497.   
+[27]FRITSCHE K L,ANDERSON M,FENG C,et al.Consumption of eicosapentaenoic acid and docosahexaenoic acid impair murine interleukin-12 and interferon $\cdot \gamma$ production in vivo[J].The Journal of Infectious Diseases,2000,182(Suppl.1):S54-S61.   
+[28] Larsson S C,Kumlin M,Ingelman-Sundberg M,et al.Dietary long-chain n-3 fatty acids for the prevention of cancer:a review of potential mechanisms[J].American Journal of Clinical Nutrition,2004,79(6):935-945.   
+[29]COLAS S,MAHEO K,DENIS F,et al.Sensitization by dietary docosahexaenoic acid of rat mammary carcinoma to anthracycline:a role for tumor vascularization[J].Clinical Cancer Research,2006,12(19):5879-5886.   
+[30]BOUGNOUX P,HAJJAJI N,MAHEO K,et al.Fatty acids and breast cancer:sensitization to treatments and prevention of metastatic re-growth[J].Progress in Lipid Research,2010,49(1):76-86.   
+[31] JHO D,BABCOCK T A,HELTON W S,et al.Omega-3 fatty acids:implications for the treatment of tumor-associated inflammation[J].The American surgeon,2003,69(1):32-36.   
+[32]FERNANDEZ M L,WEST K L.Mechanisms by which dietary fatty acids modulate plasma lipids[J].Journal of Nutrition,2005,135(9):2075-2078.   
+[33]RENAUD S,NORDOY A.“Small is beautiful” :alpha-linolenic acid and eicosapentaenoic acid in man[J].The Lancet,1983,1(8334):1169.   
+[34]RUZICKOVA J,ROSSMEISL M,PRAZAK T,et al.Omega-3 PUFA of marine origin limit diet-induced obesity inmice by reducing cellularity of adipose tissue[J].Lipids,2004,39(12):1177-1185.   
+[35]DROUILLET P,KAMINSKI M,DE LAUZON-GUILLAIN B,et al.AssOciation between maternal seafood consumption before pregnancy and fetal growth:evidence for an association in overweightwomen.TheEDENmother-childcohort[J].Paediatricand Perinatal Epidemiology,2009,23(1):76-86 [36] SANZ M,LOPEZ-BOTE C J,MENOYO D,et al.Abdominal fat deposition and fatty acid synthesis are lower and $\beta$ oxidation is higher in broiler chickens fed diets containing unsaturated rather than saturated fat[J].The Journal of Nutrition,2000,130(12):3034-3037.   
+[37]LOPEZ-FERRER S,BAUCELLS M D,BARROETA A C,et al.n-3 enrichment of chicken meat.1.Use of very long-chain fatty acids in chicken diets and their influence on meat quality:fish oil[J].Poultry Science,2001,80(6):741-752.   
+[38]HRDINKA C,ZOLLITSCH W,KNAUS W,et al.Effects of dietary fatty acid pattern on melting point and composition of adipose tissuesand intramuscular fat of broiler carcasses[J].Poultry Science,1996,75(2):208-215.   
+[39]丁洛阳,蔡缪荧,王梦芝,等.饲粮 $\mathrm { \omega } _ { \mathrm { \omega } } \mathrm { \omega } _ { \mathrm { 0 } - 3 }$ 多不饱和脂肪酸比例对鹅肝脏过氧化脂质和肝 细胞超微结构的影响[J].动物营养学报,2012,24(10):1976-1982.   
+[40]HUGHES D A,PINDER A C.n-3 polyunsaturated fatty acids inhibit the antigen-presenting function of human monocytes[J].American Journal of Clinical Nutrition,20o0,71(1):357S-360S. [41]FRIEDMAN A,SKLAN D.Effect of dietary fatt acids on antibody production and fatty acid composition of lymphoid organs in broiler chicks[J].Poultry Science,1995,74(9):1463-1469. [42]MISSOTTEN J,DE SMET S,RAES K,et al.Effect of supplementation of the maternal diet with fish oil or linseed oil on fatty-acid composition and expression of $\Delta 5 -$ and $\Delta 6 -$ desaturase in tissues of female piglets[J].Animal,2009,3(8):1196-1204.   
+[43]TILTON S L,MILLER P S,LEWIS A J,et al.Addition of fat to the diets of lactating sows:I.Effects on milk production and composition and carcass composition of the litter at weaning[J].Journal of Animal Science,1999,77(9):2491-2500.   
+[44] CI L,SUN H L,HUANG Y P,et al.Maternal dietary fat affects the LT muscle fatty acid compositionofprogenyatweaningandfinishingstagesinpigs[J].Meat Science,2014,96(3):1141-1146.   
+[45]BONTEMPO V,SCIANNIMANICO D,PASTORELLI G,et al.Dietary conjugated linoleic acid positively affects immunologic variables in lactating sows and piglets[J].The Journal of Nutrition,2004,134(4):817-824. [46]钟荣珍,高艳霞,李秋凤,等.饲粮全棉籽比例对奶牛泌乳性能及乳脂脂肪酸组成的影响 [J].动物营养学报,2012,24(4):762-768.   
+[47]COLLINS C L,DAVIS J J,SINCLAIR A J,et al.Dietary flaxseed improves the fatty acid composition of lamb tissues[J].Asia Pacific Journal of Clinical Nutrition,2004,13(Suppl.1):S52. [48]SCOLLAN N D,DHANOA M S,CHOI N J,et al.Biohydrogenation and digestion of long chain fatty acids in steers fed on different sources of lipid[J].Journal of Agricultural Science,2001,136(5):345-355.   
+[49]张春梅,易贤武,苑志朋,等.添加不同比例的亚油酸和亚麻酸对体外瘤胃发酵和甲烷生 成的影响[J].动物营养学报,2008,20(2):223-227.   
+[50]LEVINE D M,SULKIN S D.Nutritional significance of long-chain polyunsaturated fatty acids to the zoeal development of the brachyuran crab,Eurypanopeus depressus(Smith)[J].Journal of Experimental Marine Biology and Ecology,1984,81(3):211-223.   
+[51] CHANDGE M S,PAULRAJ R.Requirements of linoleic and linolenic acid in the diet of Indian white prawn Penaeus indicus (H Milne Edwards)[J].Indian Journal of Geo-Marine Sciences,1996,27(3):402-406.   
+[52]ZUO R T,AI Q H,MAI K S,et al.Effects of dietary n-3 highly unsaturated fatty acids on growth,nonspecific immunity,expression of some immune related genes and disease resistance of large yellow croaker (Larmichthys crocea) following natural infestation of parasites (Cryptocaryon irritans)[J].Fish & Shelfish Immunol,2012,32(2):249-258.   
+Biological Functions of Polyunsaturated Fatty Acids and Its Application in Animal Production ZHANG Xiaotu DU Chenhong DING Xiaojuan WANG Shiqiong HUO Qianqian LI XiaoWANG Zhixiang\*   
+(College ofAnimal Science and Technology, Henan Agricultural University, Zhengzhou 450002, China)   
+Abstract: Polyunsaturated fatty acids (PUFA) is a kind of important nutrients,and an important component of cell membrane phospholipids. PUFA has extensive biological functions in
+
+biological systems,such as regulating body lipid metabolism, immunity,anti-cancer, prevention and treatment of cardiovascular and cerebrovascular diseases and promoting the growth and regulation of gene expression. In this review, the sources and biological functions of PUFA were elaborated, and the application status and prospect of PUFA in animal production were discussed. Key words: polyunsaturated fatty acids; biological functions; animal production; application \*Corresponding author, professor, E-mail: wzxhau@aliyun.com (责任编辑菅景颖）

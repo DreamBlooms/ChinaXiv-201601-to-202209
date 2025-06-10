@@ -1,0 +1,347 @@
+[
+    {
+        "type": "text",
+        "text": "Pair Production of a 125 GeV Higgs Boson in MSSM and NMSSM at the LHC ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Cao $^ { 1 , 2 }$ ， Zhaoxia Heng $^ { 1 }$ , Liangliang Shang $^ { 1 }$ ， Peihua Wan $^ { 1 }$ , Jin Min Yang $^ 3$ （20 $^ { 1 }$ Department of Physics, Henan Normal University， Xinxiang 453007, China （204号 $^ 2$ Center for High Energy Physics， Peking University, Beijing 100871，China （ $^ 3$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 100190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In light of the recent LHC Higgs search data, we investigate the pair production of a SM-like Higgs boson around 125 GeV in the MSSM and NMSSM. We first scan the parameter space of each model by considering various experimental constraints,and then calculate the Higgs pair production rate in the allowed parameter space. We find that in most cases the dominant contribution to the Higgs pair production comes from the gluon fusion process and the production rate can be greatly enhanced, maximally 1O times larger than the SM prediction (even for a TeV-scale stop the production rate can still be enhanced by a factor of 1.3). We also calculate the $\\chi ^ { 2 }$ value with the current Higgs data and find that in the most favored parameter region the production rate is enhanced by a factor of 1.45 in the MSSM, while in the NMSSM the production rate can be enhanced or suppressed $\\stackrel { \\prime } { \\mathop { \\left( \\sigma _ { S U S Y } \\right) } } / { \\sigma _ { S M } }$ varies from 0.7 to 2.4). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.80.Da,14.80.Ly,12.60.Jv ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the combined data collected at the center-of-mass energies of 7 TeV and 8 TeV, the experimental programme to probe the mechanism of electroweak symmetry breaking at the LHC has recently witnessed the discovery of a new particle around 125 GeV [1]. The properties of this particle, according to the updated analyses of the ATLAS and CMS collaborations at the end of 20l2 [2]， roughly agree with the the Standard Model (SM) prediction and thus it should play a role in both the symmetry breaking and the mass generation. However,the issue of whether this particle is the SM Higgs boson is still open, and indeed there are some motivations, such as the gauge hierarchy problem and the excess in the di-photon channel over the SM prediction [1, 2], to consider new physics interpretation of this boson. Studies in this direction have been performed intensively in low energy supersymmetry (SUSY) and it was found that some SUSY models can naturally provide a 125 GeV Higgs boson [3-5],and fit the data better than the SM [6] (similar studies have also been performed in some non-SUSY models like the little Higgs models and two-Higgs-doublet or Higgs-triplet models [7]). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After the discovery of the Higgs boson, the next important task for the LHC is to test the property of this Higgs boson by measuring all the possible production and decay channels with high luminosity. Among the production channels,the Higgs pair production is a rare process at the LHC. Since it can play an important role for testing the Higgs self-couplings [8,9] (the determination of the Higgs self-couplings is of great importance since it is indispensable to reconstruct the Higgs potential), it will be measured at the LHC with high luminosity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the SM the Higgs pair production at the LHC proceeds by the parton process $g g  h h$ （204 through the heavy quark induced box diagrams and also through the production of an offshell Higgs which subsequently splits into two on-shell Higgs bosons [10,11]. The production rate is rather low for $\\sqrt { s } = 1 4 \\mathrm { T e V }$ ， about 2O fb at leading order [10] and reaching roughly 35 fb after including the next-to-leading order QCD correction [8]. The capability of the LHC to detect this production process was investigated in [12-15]. These analyses showed that for a 125 GeV Higgs boson the most efficient channel is $g g  h h  b \\bar { b } \\gamma \\gamma$ with 6 signal events over 14 background events expected for 600 fb $^ - 1$ integrated luminosity after considering some elaborate cuts [12] (the detection through other channels like $h h  b b W ^ { + } W ^ { - }$ and （204号 $h h  b b \\tau ^ { + } \\tau ^ { - }$ has also been studied recently [13,14]). In principle, the capability can be further improved if the recently developed jet substructure technique [16] is applied for the Higgs tagging. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Higgs pair production at the LHC may also be a sensitive probe for new physics. In supersymmetric models such as the Minimal Supersymmetric Standard Model (MSSM) [17], the pair production of the SM-like Higgs boson receives additional contributions from the loops of the third generation squarks and also from the parton process $b b  H _ { i }  h h$ with （204号 $H _ { i }$ denoting a CP-even non-standard Higgs boson [18,19]. It was found that in some cases (e.g.,a light stop with a large trilinear soft breaking parameter $A _ { t }$ and/or a large $\\tan \\beta$ （20 together with moderately light $H _ { i }$ ), these new contributions may be far dominant over the SM contribution,and as a result, the rate of the pair production may be enhanced by several orders [18,19]. Note that since the experimental constraints (direct or indirect)on the SUSY parameter space have been becoming more and more stringent, the previous MSSM results should be updated by considering the latest constraints. This is one aim of this work. To be specific,we will consider the following new constraints: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "· The currently measured Higgs boson mass $m _ { h } = 1 2 5$ GeV [2]. In SUSY this mass is sensitive to radiative correction and thus the third generation squark sector has been tightly limited.   \n· The LHC search for the third generation squarks [20]. So far although the relevant bounds are rather weak and usually hypothesis-dependent, it becomes more and more clear that a stop lighter than about 2Oo GeV is strongly disfavored.   \n· The observation of $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ by the LHCb [21]. In the MSSM it is well known that the branching ratio of $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ is proportional to $\\tan ^ { 6 } { \\beta / m _ { H } ^ { 4 } }$ for a large $\\tan \\beta$ and a moderately light $H$ [22]. Since the experimental value of $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ coincides well with the SM prediction, $\\tan \\beta$ as a function of $m _ { H }$ has been upper bounded.   \n· The LHC search for a non-standard Higgs boson $H$ through the process $p p  H $ $\\tau ^ { + } \\tau ^ { - }$ [23]. Such the search relies on the enhanced $H b b$ coupling and the nought signal seen by the LHC experiments implies that a broad region in the $\\tan \\beta - m _ { H }$ plane has been ruled out. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "· The global fit of the SUSY predictions on various Higgs signals to the Higgs data reported by the ATLAS and CMS collaborations [24], the dark matter relic density [25] as well as the XENON2012 dark matter search results [26] can also limit SUSY parameters in a complex way. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another motivation of this work comes from the fact that the Next-to-Minimal Supersymmetric Standard Model (NMSSM) [27] is found to be more favored by the Higgs data and the fine-tuning argument [6]. So far the studies on the Higgs pair production in the NMSSM are still absent. So it is necessary to extend the study to the NMSSM. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec. II we briefly introduce the features of the Higgs sector in the MSSM and NMSSM. Then in Sec.II we present our results for the Higgs pair production in both models. Some intuitive understandings on the results are also presented. Finally, we summarize our conclusions in Sec. IV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "II. HIGGS SECTORIN MSSM AND NMSSM ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the most economical realization of SUSY in particle physics, the MSSM [17] has been intensively studied. However, since this model sufers from some problems such as the unnaturalness of $\\mu$ parameter, it is well motivated to go beyond this minimal framework. Among the extensions of the MSSM, the NMSSM as the simplest extension by singlet field [27] has been paid much attention. The differences between the two models come from their superpotentials and soft-breaking terms, which are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { { \\cal W } _ { \\mathrm { M S S M } } = Y _ { u } \\hat { Q } \\cdot \\hat { H } _ { u } \\hat { U } - Y _ { d } \\hat { Q } \\cdot \\hat { H } _ { d } \\hat { D } - Y _ { e } \\hat { L } \\cdot \\hat { H } _ { d } \\hat { E } + \\mu \\hat { H } _ { u } \\cdot \\hat { H } _ { d } , } \\\\ & { { \\cal W } _ { \\mathrm { N M S S M } } = Y _ { u } \\hat { Q } \\cdot \\hat { H } _ { u } \\hat { U } - Y _ { d } \\hat { Q } \\cdot \\hat { H } _ { d } \\hat { D } - Y _ { e } \\hat { L } \\cdot \\hat { H } _ { d } \\hat { E } + \\lambda \\hat { H } _ { u } \\cdot \\hat { H } _ { d } \\hat { S } + \\frac { 1 } { 3 } \\kappa \\hat { S } ^ { 3 } , } \\\\ & { { \\cal V } _ { \\mathrm { s o f t } } ^ { \\mathrm { M S S M } } = \\tilde { m } _ { u } ^ { 2 } | H _ { u } | ^ { 2 } + \\tilde { m } _ { d } ^ { 2 } | H _ { d } | ^ { 2 } + ( B \\mu H _ { u } \\cdot H _ { d } + h . c . ) , } \\\\ & { { \\cal V } _ { \\mathrm { s o f t } } ^ { \\mathrm { N M S S M } } = \\tilde { m } _ { u } ^ { 2 } | H _ { u } | ^ { 2 } + \\tilde { m } _ { d } ^ { 2 } | H _ { d } | ^ { 2 } + \\tilde { m } _ { S } ^ { 2 } | S | ^ { 2 } + ( A _ { \\lambda } \\lambda S H _ { u } \\cdot H _ { d } + \\frac { A _ { \\kappa } } { 3 } \\kappa S ^ { 3 } + h . c . ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here $\\hat { H } _ { i }$ $( i = u , d )$ and $\\hat { S }$ denote gauge doublet and singlet Higgs superfields respectively, （204号 $\\hat { Q }$ ， $\\hat { U }$ ， $\\hat { D }$ ， $\\hat { L }$ and $\\hat { E }$ represent matter superfields with $Y _ { i }$ ? $\\displaystyle ( i = u , d , e )$ being their Yukawa coupling coefficients, $\\tilde { m } _ { i }$ 1 $( i = u , d , S )$ ， $B$ ， $A _ { \\lambda }$ ，and $A _ { \\kappa }$ are all soft-breaking parameters and the dimensionless parameters $\\lambda$ and $\\kappa$ reflect coupling strengthes of Higgs self interactions. Note the $\\mu$ -term in the MSSM is replaced by Higgs self interactions in the NMSSM, so when the singlet field $\\hat { S }$ develops a vacuum expectation value $s$ ，an effective $\\mu$ is generated by μeff = 入s. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Like the general treatment of the multiple-Higgs theory, one can write the Higgs fields in the NMSSM as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { u } = \\left( \\begin{array} { c } { { H _ { u } ^ { + } } } \\\\ { { { v _ { u } } + \\frac { \\phi _ { u } + i \\varphi _ { u } } { \\sqrt { 2 } } } } \\end{array} \\right) , H _ { d } = \\left( \\begin{array} { c } { { { v _ { d } } + \\frac { \\phi _ { d } + i \\varphi _ { d } } { \\sqrt { 2 } } } } \\\\ { { { H _ { d } ^ { - } } } } \\end{array} \\right) , S = s + \\frac { 1 } { \\sqrt { 2 } } \\left( \\sigma + i \\xi \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and diagonalize their mass matrices to get Higgs mass eigenstates: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\left( \\begin{array} { c } { H _ { 1 } } \\\\ { H _ { 2 } } \\\\ { H _ { 3 } } \\end{array} \\right) = U _ { H } \\left( \\begin{array} { c } { \\phi _ { u } } \\\\ { \\phi _ { d } } \\\\ { \\sigma } \\end{array} \\right) , \\ \\left( \\begin{array} { c } { A _ { 1 } } \\\\ { A _ { 2 } } \\\\ { G ^ { 0 } } \\end{array} \\right) = U _ { A } \\left( \\begin{array} { c } { \\varphi _ { u } } \\\\ { \\varphi _ { d } } \\\\ { \\xi } \\end{array} \\right) , \\ \\left( \\begin{array} { c } { H ^ { + } } \\\\ { G ^ { + } } \\end{array} \\right) = U _ { C } \\left( \\begin{array} { c } { H _ { u } ^ { + } } \\\\ { H _ { d } ^ { + } } \\end{array} \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here $H _ { 1 }$ ， $H _ { 2 }$ ， $H _ { 3 }$ with convention $m _ { H _ { 1 } } < m _ { H _ { 2 } } < m _ { H _ { 3 } }$ and $A _ { 1 }$ ， $A _ { 2 }$ with convention $m _ { A _ { 1 } } <$ （20 $m _ { A _ { 2 } }$ denote the physical CP-even and CP-odd Higgs bosons respectively, $G ^ { 0 }$ and $G ^ { + }$ are Goldstone bosons eaten by $Z$ and $W$ bosons respectively, and $H ^ { + }$ is the physical charged Higgs boson. The Higgs sector in the MSSM can be treated in a similar way except that it predicts only two physical CP-even states and one physical CP-odd state, and consequently, the rotation matrices $U _ { H }$ and $U _ { A }$ are reduced to $2 \\times 2$ matrices. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One distinct feature of the MSSM is that $H _ { 1 }$ usually acts as the SM-like Higgs boson (denoted by $h$ hereafter) and its mass is upper bounded by $m _ { Z }$ at tree level. Obviously, to coincide with the LHC discovery of a 125 GeV boson, large radiative correction to $m _ { h }$ is needed,which in turn usually requires the trilinear soft breaking parameter $A _ { t }$ to be large. For example, in the case of large $m _ { A }$ and moderate $\\tan \\beta$ ， $m _ { h }$ is given by [4] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { h } ^ { 2 } \\simeq M _ { Z } ^ { 2 } \\cos ^ { 2 } 2 \\beta + { \\frac { 3 m _ { t } ^ { 4 } } { 4 \\pi ^ { 2 } v ^ { 2 } } } \\left[ \\ln { \\frac { m _ { \\tilde { t } } ^ { 2 } } { m _ { t } ^ { 2 } } } + { \\frac { X _ { t } ^ { 2 } } { m _ { \\tilde { t } } ^ { 2 } } } \\left( 1 - { \\frac { X _ { t } ^ { 2 } } { 1 2 m _ { \\tilde { t } } ^ { 2 } } } \\right) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the first term is the tree-level mass and the last two terms are the dominant corrections from the top-stop sector, $m _ { \\tilde { t } } = \\sqrt { m _ { \\tilde { t } _ { 1 } } m _ { \\tilde { t } _ { 2 } } }$ ( $m _ { \\tilde { t } _ { i } }$ denotes stop mass with convention $m _ { \\tilde { t } _ { 1 } } < m _ { \\tilde { t } _ { 2 } }$ ）） represents the average stop mass scale and $X _ { t } \\equiv A _ { t } - \\mu \\cot \\beta$ . One can easily check that for a 500 GeV and 1 TeV stop, $| A _ { t } |$ should be respectively about 1.8 TeV and 3.5 TeV to give $m _ { h } \\simeq 1 2 5$ GeV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the NMSSM, $m _ { h }$ exhibits at least two new features [3]. One is that it gets additional contribution at tree level so that $m _ { h , t r e e } ^ { 2 } = \\left( m _ { Z } ^ { 2 } - \\lambda ^ { 2 } v ^ { 2 } \\right) \\cos ^ { 2 } 2 \\beta + \\lambda ^ { 2 } v ^ { 2 }$ ,and for $\\lambda \\sim 0 . 7$ and $\\tan \\beta \\sim 1$ ， $m _ { h }$ can reach 125 GeV even without the radiative correction. The other feature is ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/311147cbd319b9bec271d5cb9adc4eef3f646c7f31471f30742e97edf23fa892.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FIG.1: Feynman diagrams for the pair production of the SM-like Higgs boson via gluon fusion in the MSSM and NMSSM with $H _ { I }$ denoting a CP-even Higgs ( $I = 1 , 2$ for the MSSM and $I = 1 , 2 , 3$ （20 for the NMSSM) and $\\tilde { q } _ { i , j }$ ( $i , j = 1 , 2 )$ for a squark. The diagrams with initial gluons or final Higgs bosons interchanged are not shown here. For the quarks and squarks we only consider the third generation due to their large Yukawa couplings. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "that the mixing between the doublet and singlet Higgs fields can significantly alter the mass. To be more explicit, if the state $H _ { 1 }$ is $h$ ， the mixing is to pull down the mass,while if $H _ { 2 }$ acts as $h$ , the mixing will push up the mass. Another remarkable character of the NMSSM is that in the limit of very small $\\lambda$ and $\\kappa$ (but keep $\\mu$ fixed),the singlet field decouples from the theory so that the phenomenology of the NMSSM reduces to the MSSM. So in order to get a Higgs sector significantly different from the MSSM, one should consider a large $\\lambda$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Throughout this work, we require $0 . 5 0 \\leq \\lambda \\leq 0 . 7$ in our discussion of the NMSSM and we consider two scenarios: ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1cf0adf7830be2cb06693cdaee3531ffd1bffc1cfa332f28c037d012c33ff5f.jpg",
+        "img_caption": [
+            "FIG.2: Feynman diagrams for the parton process $b b  h h$ in the MSSM and NMSSM. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· NMSSM1 scenario: $H _ { 1 }$ acts as the SM-like Higgs boson. For this scenario, the additional tree-level contribution to $m _ { h }$ is canceled by the mixing effect, and if the mixing effect is dominant, the parameters in the stop sector will be tightly limited in order to give $m _ { h } \\simeq 1 2 5$ GeV. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· NMSSM2 scenario: $H _ { 2 }$ acts as the SM-like Higgs boson. In this scenario,both the additional tree-level contribution and the mixing efect can push up the mass. So for appropriate values of $\\lambda$ and $\\tan \\beta$ ， $m _ { h }$ can easily reach 125 GeV even without the radiative correction. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "III. CALCULATIONS AND NUMERICAL RESULTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In SUSY the pair production of the SM-like Higgs boson proceeds through the gluon fusion shown in Fig.1 and the $b b$ annihilation shown in Fig.2. These diagrams indicate that the genuine SUSY contribution to the amplitude is of the same perturbation order as the SM contribution. So the SUSY prediction on the production rate may significantly deviate from the SM result. To ensure the correctness of our calculation， we checked that we can reproduce the SM results presented in [10] and the MSSM results in [18]. Since the analytic expressions are quite lengthy, we do not present here their explicit forms. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculation we take $m _ { t } = 1 7 3$ GeV, $m _ { b } = 4 . 2$ GeV, $m _ { Z } = 9 1 . 0$ GeV, $m _ { W } = 8 0 . 0$ GeV and $\\alpha = 1 / 1 2 8$ [28],and use CT10 [29] to generate the parton distribution functions with the renormalization scale $\\mu _ { R }$ and the factorization scale $\\mu _ { F }$ chosen to be $2 m _ { h }$ The collision energy of the LHC is fixed to be 14 TeV. Then we find that for $m _ { h } = 1 2 5$ GeV, the production rate in the SM is 18.7 fb for $g g  h h$ and 0.02 fb for $b { \\bar { b } }  h h$ (the rates change very little when $m _ { h }$ varies from 123 GeV to 127 GeV). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c12edb1e6bc22a12a7fd1a5163ea03101b18f8feb1a85291159b2f9e9feebce.jpg",
+        "img_caption": [
+            "FIG.3: The scatter plots of the surviving samples, showing $\\sigma _ { S U S Y } / \\sigma _ { S M }$ versus the SM-like Higgs boson mass. The plus $\\ ' _ { + } '$ (blue) denote the results with only the gluon fusion contribution,while the circles $\\circ$ (pink) are for the total results. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For each SUSY model we use the package NMSSMTools-3.2.0 [30] to scan over the parameter space and then select the samples which give a SM-like Higgs boson in the range of $1 2 5 \\pm 2$ GeV and also satisfy various experimental constraints, including those listed in Section I. The strategy of our scan is same as in [6] except for three updates. First, since the rare decay $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ has been recently observed with $B r ( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } ) = 3 . 2 _ { - 1 . 2 } ^ { + 1 . 5 } \\times 1 0 ^ { - 9 }$ [21], we use a double-sided limit $0 . 8 \\times 1 0 ^ { - 9 } \\leq B r ( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } ) \\leq 6 . 2 \\times 1 0 ^ { - 9 }$ . Second, for the LHC search of the non-standard Higgs boson, we use the latest experimental data [23]. The third one is that we require stops heavier than 200 GeV [20]. After the scan, we calculate the Higgs pair production rate in the allowed parameter space. We will demonstrate the ratio ${ \\sigma } _ { S U S Y } / { \\sigma } _ { S M }$ for each surviving sample. Of course, such a ratio is less sensitive to higher order QCD corrections. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 3 we show the normalized production rate as a function of the Higgs boson mass for the surviving samples in the MSSM and NMSSM (for the NMSSM we show the results for the NMSSM1 and NMSSM2 scenarios defined in Sec.II). This figure shows two common features for the three scenarios. One is that the production rate can deviate significantly from the SM prediction: in most cases the deviation exceeds $3 0 \\%$ and in some specail cases the production rate can be enhanced by one order. The other feature is that for most cases the dominant contribution to the pair production comes from the gluon fusion, which is reflected by the approximate overlap of $' \\bigcirc$ （pink）with $^ { \\ ' } + \\ '$ (blue). Fig. 3 also exhibits some difference between different scenarios. For example,in the MSSM the $b b$ annihilation contribution can be dominant for some surviving samples,which, however, never occurs in the NMSSM. Another difference is that the NMSSM1 tends to predict a larger production rate than other scenarios. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Now we explain some features of the results in Fig. 3. First, we investigate the cases of the MSSM where the $b b$ annihilation plays the dominant role in the production. We find that they are characterized by a moderately large $\\tan \\beta$ ( $\\tan \\beta \\sim 1 0$ so that the $H b b$ coupling is enhanced), a moderately light $H$ ( $3 0 0 ~ \\mathrm { G e V } \\lesssim m _ { H } \\lesssim 4 0 0 ~ \\mathrm { G e V } )$ and a relatively large $H h h$ （20 coupling. While for the NMSSM scenarios, since we are considering large $\\lambda$ case,only a relatively small $\\tan \\beta$ is allowed so that the $H _ { i } b b$ coupling is never enhanced sufficiently [3]. We also scrutinize the characters of the gluon fusion contribution in the MSSM. As the first step,we compare the sbottom loop contribution with the stop loop. We find that for the surviving samples the former is usually much smaller than the latter. Next we divide the amplitude of Fig. 1 into five parts with $M _ { 1 } , M _ { 2 } , M _ { 3 } , M _ { 4 }$ and $M _ { 5 }$ denoting the contributions from diagrams (1)+(2), (3)+(4),(5)， (6)+(7) and (8)+(9)+(10),respectively. For each of the amplitude, it is UV finite so we can learn its relative size directly. We find that the magnitudes of $M _ { 2 }$ and $M _ { 3 }$ are much larger than the others. This can be understood as follows: among the diagrams in Fig.1,only (3), (4) and (5) involve the chiral flipping of the internal stop,so in the limit $m _ { \\tilde { t } _ { 2 } } , m _ { \\tilde { t } _ { 1 } } \\gg 2 m _ { h }$ the main parts of $M _ { 2 }$ and $M _ { 3 }$ can be written as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal M } \\sim \\alpha _ { s } ^ { 2 } Y _ { t } ^ { 2 } ( c _ { 1 } \\sin ^ { 2 } 2 \\theta _ { t } \\frac { A _ { t } ^ { 2 } } { m _ { \\tilde { t } _ { 1 } } ^ { 2 } } + c _ { 2 } \\frac { A _ { t } ^ { 2 } } { m _ { \\tilde { t } _ { 2 } } ^ { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { t }$ is the top quark Yukawa coupling, $\\theta _ { t }$ and $A _ { t }$ are respectively the chiral mixing angle and the trilinear soft breaking parameter in the stop sector,and $c _ { 1 }$ and $c _ { 2 }$ are $\\mathcal { O } ( 1 )$ COefficients with opposite signs. Since a large $A _ { t }$ is strongly favored to predict $m _ { h } \\sim 1 2 5$ GeV in the MSSM[3]and the othercontributions areusually proportioal to $m _ { t } ^ { 2 } / m _ { \\tilde { t } _ { i } } ^ { 2 }$ or $m _ { h } ^ { 2 } / m _ { \\tilde { t } _ { i } } ^ { 2 }$ （号 one can easily conclude that $M _ { 2 }$ and $M _ { 3 }$ should be most important among the five amplitudes. In fact，we checked that without the strong cancelation between $M _ { 2 }$ and $M _ { 3 }$ ，the production rate can easily exceed 1Oo fb for most surviving samples. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As a proof for the validity of Eq.(8),in Fig. 4 we show $A _ { t } / m _ { \\tilde { t } _ { 1 } }$ versus $m _ { \\tilde { t } _ { 1 } }$ ，where the samples are classified according to the value of $R = \\sigma _ { S U S Y } ( g g \\to h h ) / \\sigma _ { S M } ( g g \\to h h )$ . The left panel indicates that in the MSSM the region characterized by a light $m _ { \\tilde { t } _ { 1 } }$ and a large （204号 $| A _ { t } / m _ { \\tilde { t } _ { 1 } } |$ usually predicts a large $R$ . This can be understood as follows. In the MSSM with a light $\\tilde { t } _ { 1 }$ , the other stop $\\left( \\tilde { t } _ { 2 } \\right)$ must be sufficiently heavy in order to predict $m _ { h } \\sim 1 2 5$ GeV [3]. Then, after expressing $\\sin ^ { 2 } 2 \\theta _ { t }$ in terms of $A _ { t }$ and stop masses, one can find that the first term in Eq.(8) scales like $( A _ { t } / m _ { \\tilde { t } _ { 1 } } ) ^ { 4 } ( m _ { t } ^ { 2 } m _ { \\tilde { t } _ { 1 } } ^ { 2 } / m _ { \\tilde { t } _ { 2 } } ^ { 4 } )$ , and therefore its value grows rapidly with the increase of $| A _ { t } / m _ { \\tilde { t } _ { 1 } } |$ and is unlikely to be canceled out by the second term in Eq.(8). In fact,the upper left region of the panel reflects such a behavior. This panel also indicates that even for $\\tilde { t _ { 1 } }$ and $\\tilde { t } _ { 2 }$ at TeV scale, the production rate in the MSSM may still deviate from its SM prediction by more than $3 0 \\%$ . This is obvious since $| A _ { t } |$ in Eq.(8) is usually larger than stop masses [3]. Finally, we note that for $m _ { \\tilde { t } _ { 1 } } > 1$ TeV,there exist some cases where the deviation is small even for $A _ { t } / m _ { \\tilde { t } _ { 1 } } \\sim 3$ . We checked that these cases actually correspond to a small mass splitting between $\\tilde { t } _ { 1 }$ and $\\tilde { t } _ { 2 }$ . In such a situation, the frst term in Eq.(8) is proportional to $A _ { t } ^ { 2 } / m _ { \\tilde { t } _ { 1 } } ^ { 2 }$ (since $\\theta _ { t } \\simeq \\pi / 4$ ), and its contribution to the rate is severely canceled by the second term. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/10ef2859188af70be413b921eda92ae29e42baa5cb7e9ee6f7bf0e1d849bf40b.jpg",
+        "img_caption": [
+            "FIG. 4: Same as Fig 3, but showing $A _ { t } / m _ { \\tilde { t } _ { 1 } }$ versus $m _ { \\tilde { t } _ { 1 } }$ . The samples are classified according to the value of $R = \\sigma _ { S U S Y } ( g g \\to h h ) / \\sigma _ { S M } ( g g \\to h h )$ with $\\sigma$ denoting the hadronic cross section via gg→hh. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Eq.(8) may also be used to explain the results of the NMSSM1 scenario. In this scenario we checked that the mixing effect on $m _ { h }$ often exceeds the additional tree level contribution (as discussed in Sec. I),and consequently the soft breaking parameters in the stop sector are more tightly limited than the other two scenarios. For example, given the same values of $m _ { \\tilde { t } _ { 1 } }$ and $m _ { \\tilde { t } _ { 2 } }$ for the three scenarios, the NMSSM1 scenario usually prefers a larger $| A _ { t } |$ Consequently, this scenario tends to predict the largest production rate according to Eq.(8). As for the $R$ value in the NMSSM2 scenario, the situation is quite complex because a large $\\lambda$ alone can push the value of $m _ { h }$ up to about 125 GeV and thus the soft breaking parameters in the stop sector are not so constrained by the Higgs mass [3]. But, anyway, this scenario still has the features that $R$ is maximized for a large $A _ { t }$ and a light $\\tilde { t } _ { 1 }$ and that $R$ can deviate sizably from unity for TeV-scale stops. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e16a7b8d1097b36bf72620791ee354389c2395e4ae70ec8b97c16fbaf1bace1.jpg",
+        "img_caption": [
+            "FIG. 5: Same as Fig. 3, but showing $\\sigma _ { S U S Y } / \\sigma _ { S M }$ versus $\\chi ^ { 2 }$ . Here only the samples satisfying 125 （204号 $\\mathrm { G e V } \\le m _ { h } \\le 1 2 6$ GeV are plotted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Finally， we focus on the samples which predict a SM-like Higgs boson in the best fitted mass region, 125 GeV $\\leq m _ { h } \\leq 1 2 6$ GeV [24]. For these samples,we calculate the $\\chi ^ { 2 }$ value with the LHC Higgs data (for details,see [6, 24]) and show its correlation with the normalized rate ${ \\sigma } _ { S U S Y } / { \\sigma } _ { S M }$ in Fig. 5. This figure indicates that in the MSSM and NMSSM2 scenarios, there exist a lot of samples with $\\chi ^ { 2 }$ much smaller than its SM value ( $\\chi _ { S M } ^ { 2 } = 1 6 . 5$ )，which implies that the MSSM and NMSSM2 scenarios may be favored by the current data [6]. In contrast, the NMSSM1 scenario can only slightly improve the fit. From this figure we also see that in the favored parameter space with a small $\\chi ^ { 2 }$ the production rate can sizably deviate from the SM prediction ( in the parameter space with a large $\\chi ^ { 2 }$ the production rate can be several times larger than the SM value). For example,in the low $\\chi ^ { 2 }$ region of the MSSM, the normalized rate is approximately 1.45, while in the NMSSM2 scenario the rate varies from 0.7 to 2.4. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IV. SUMMARY AND CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Recently, the CMS and ATLAS collaborations announced the discovery of a new resonance whose property is in rough agreement with the SM Higgs boson. But the nature of this new state, especially its role in electroweak symmetry breaking, needs to be scrutinized. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "So the most urgent task for the LHC is to test the property of this Higgs-like boson by measuring all the possible production and decay channels with high luminosity. Among the production channels, the Higgs pair production is a rare process at the LHC. Since it can play an important role for testing the Higgs self-couplings, it will be measured at the LHC with high luminosity. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this work we studied the pair production of the SM-like Higgs boson in the popular SUSY models: the MSSM and NMSSM. To make our study realistic, we first scanned the parameter space of each model by considering various experimental constraints. Then we examined the Higgs pair production in the allowed parameter space. We found that for most cases in both models, the dominant contribution to the pair production comes from the gluon fusion process with its rate maximized at a moderately light $\\tilde { t } _ { 1 }$ and a large trilinear soft breaking parameter $A _ { t }$ . The production rate can be sizably enhanced relative to the SM prediction: ${ \\sigma } _ { S U S Y } / { \\sigma } _ { S M }$ can reach 10, and even for a TeV-scale stop it can also exceed 1.3. For each model we also calculated its $\\chi ^ { 2 }$ with current Higgs data and found that in the most favored parameter region the value of $\\sigma _ { S U S Y } / \\sigma _ { S M }$ is approximately 1.45 in the MSSM, while in the NMSSM it varies from O.7 to 2.4. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We thank Jingya Zhu for helpful discussions. This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant No. 10775039, 11075045，11275245，11222548，10821504，11135003 and 11247268,and by the Project of Knowledge Innovation Program (PKIP） of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] G. Aad et al. [ATLAS Collaboration],Phys. Lett. B 716,1 (2012); S. Chatrchyan et al. [CMS Collaboration], Phys. Lett.B 716,30 (2012).   \n[2] The ATLAS Collaboration ATLAS-CONF-2012-170; The CMS Collaboration CMS-PAS-HIG12-045.   \n[3] J. Cao, et al., JHEP 1203,086 (2012); Phys.Lett.B 710,665 (2012); Phys.Lett.B 703, 462 (2011). al., JHEP 1206,128 (2012); M. Carena et al., JHEP 1207,175 (2012); V.Barger,M. Ishida and W.-Y. Keung, arXiv:1207.0779; K. Hagiwara, J. S. Lee, J. Nakamura, arXiv:1207.0802; J. Ke et al.， arXiv:1207.0990; arXiv:1211.2427; T. Li et al.， arXiv:1207.1051; M. R. Buckley and D.Hooper, Phys.Rev. D 86,075008 (2012)； J. F. Gunion,Y. Jiang, S. Kraml, arXiv:1207.1545; H. An, T. Liu, L.-T. Wang, arXiv:1207.2473. Z. Kang et al., Phys. Rev. D 86,095020 (2012); arXiv:1208.2673; D. Chung, A. J. Long and L. -T. Wang,arXiv:1209.1819; G. Bhattacharyya and T. S. Ray, arXiv:1210.0594; G. Belanger et al., arXiv:1210.1976; H. Baer et al.,arXiv:1210.3019； Z. Heng，arXiv:1210.3751； P. M. Ferreira et al.，arXiv:1211.3131; D. Berenstein, T. Liu and E. Perkins, arXiv:1211.4288; K. Cheung, C.-T. Lu and T.-C. Yuan, arXiv:1212.1288; J. Cao et al.,arXiv:1301.4641; T. Liu et al., arXiv:1301.5479.   \n[6] J. Cao, Z. Heng, J. M. Yang and J. Zhu, JHEP 1210, 079 (2012).   \n[7] J. Reuter, M. Tonini, arXiv:1212.5930； X.-F. Han et al., arXiv:1301.0090; L. Wang J. M. Yang,Phys.Rev. D 84, 075024 (2011)； Phys.Rev. D 79, 055013 (2009)； C. Haluch，R. Matheus, Phys. Rev. D 85, 095016 (2012); X.-G. He, B. Ren, J. Tandean, Phys. Rev. D 85, 093019(2012)；A. Arhrib,R. Benbrik, C.-H. Chen,arXiv:1205.5536；E. Cervero and J.-M. Gerard,arXiv:1202.1973; L. Wang, X.-F. Han, JHEP 1205, 088 (2012)； A. Drozd et al., arXiv:1211.3580; S. Chang et al.， arXiv:1210.3439；N. Chen，H.-J. He, JHEP 1204,062 (2012); T. Abe, N. Chen, H.-J. He,arXiv:1207.4103; C. Han et al., arXiv:1212.6728； A. G. Akeroyd，S. Moretti, Phys.Rev.D 86,035015 (2012)；A. Arhrib et al.， JHEP 1204,136 (2012)； L. Wang, X.-F. Han, Phys. Rev. D 86,095007 (2012)； Phys.Rev. D 87,015015 (2013).   \n[8] J. Baglio it al., arXiv:1212.5581; D. Y. Shao, C. S. Li, H. T. Li and J. Wang, arXiv:1301.1245.   \n[9] G.D. Kribs and A. Martin， arXiv:1207.4496； S. Dawson， E. Furlan and I. Lewis, arXiv:1210.6663;M. J. Dolan, C. Englert and M. Spannowsky, arXiv:1210.8166; H. Sun, Y. - J. Zhou and H. Chen, Eur. Phys. J. 72, 2011 (2012); H. Sun and Y.-J. Zhou,arXiv:1211.6201.   \n[10] A. Djouadi, W. Kilian, M. Muhleitner and P. M. Zerwas, Eur. Phys. J. C 10, 45 (1999).   \n[11] T.Plehn,M. Spira and P. M. Zerwas,Nucl. Phys. B 479,46 (1996) [Erratum-ibid.B 531, 655 (1998)}; D. A. Dicus, C. Kao and S. Willenbrock, Phys. Lett. B 203, 457 (1988); ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "E. W. N. Glover and J. J. van der Bij, Nucl. Phys. B 309, 282 (1988). [12] U. Baur, T. Plehn and D. L. Rainwater, Phys. Rev.D 69, 053004 (2004). [13] A. Papaefstathiou, L. L. Yang and J. Zurita, arXiv:209.1489; F. Goertz, A. Papaefstathiou, L. L. Yang and J. Zurita, arXiv:1301.3492. [14] M. J. Dolan, C. Englert and M. Spannowsky,arXiv:1206.5001. [15] N. D. Christensen, T. Han and T.Li, Phys. Rev. D 86,074003 (2012) arXiv:1206.5816 [hepph]; R. Contino et al., JHEP 1208,154 (2012) arXiv:1205.5444 [hep-ph]. [16] J. M. Butterworth,A. R. Davison,M. Rubin and G.P. Salam, Phys.Rev. Lett.100, 242001 (2008). [17] H. E. Haber and G.L. Kane, Phys. Rept. 117, 75 (1985); J. F. Gunion and H. E. Haber, Nucl. Phys.B 272,1 (1986)[Erratum-ibid. B 402,567 (1993)]. [18] A. Belyaev et al., Phys. Rev. D 60, 075008 (1999). [19] E.Asakawa et al., Phys.Rev. D 82,115002 (2010); A. Arhrib et al., JHEP 0908,035 (2009); L. G. Jin et al., Phys. Rev. D 71, 095004 (2005)； A. A. Bendezu and B. A. Kniehl, Phys. Rev. D 64,035006 (2001); C. S. Kim, K. Y. Lee and J. -H. Song, Phys. Rev. D 64, 015009 (2001); R. Lafaye et al., hep-ph/002238; A. Belyaev, M. Drees and J. K. Mizukoshi, Eur. Phys. J. C 17, 337 (2000); S. H. Zhu, C. S. Li and C. S. Gao, Phys. Rev. D 58, 015006 (1998); H. Grosse and Y. Liao,Phys. Rev. D 64, 115007 (2001); J. -J. Liu et al., Phys. Rev. D 70, 015001 (2004); Y.-J. Zhou et al., Phys. Rev. D 68, 093004 (2003); L. Wang and X. -F. Han, Phys. Lett. B 696, 79 (2011); X. -F. Han, L. Wang and J. M. Yang, Nucl. Phys. B 825, 222 (2010); L. Wang et al., Phys.Rev. D 76, 017702 (2007). [20] The ATLAS collaboration ATLAS-CONF-2013-001; The ATLAS Collaboration CMS-PASSUS-12-023. [21] RAaij et al. [LHCb Collaboration], arXiv:1211.2674. [22] C.Bobeth，T. Ewerth，F. Kruger and J. Urban， Phys. Rev.D 64， 074014 (2001) [hep-ph/O104284]； A. J. Buras, P. H. Chankowski, J. Rosiek and L. Slawianowska, Phys. Lett.B 546,96 (2002） [hep-ph/0207241]. [23] The CMS Collaboration CMS-PAS-HIG-11-029. [24] P. P. Giardino et al., Phys. Lett. B 718, 469 (2012); JHEP 1206,117 (2012) [arXiv:1203.4254 [hep-ph]]; J. R. Espinosa et al., JHEP 1205,097 (2012). [25] E. Komatsu et al. [WMAP Collaboration], Astrophys. J. Suppl. 192,18 (2011). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[26] E.Aprile et al. [XENON100 Collaboration], Phys. Rev. Lett.109,181301 (2012).   \n[27] U.Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010); M. Maniatis, Int. J. Mod. Phys. A25 (2010) 3505; J. R. Ellis et al. Phys. Rev. D 39,844 (1989); M. Drees, Int. J. Mod. Phys. A4,3635 (1989); S. F. King, P. L. White,Phys. Rev. D 52, 4183 (1995); B. Ananthanarayan, P.N. Pandita, Phys. Lett.B 353, 70 (1995); B. A. Dobrescu, K.T. Matchev, JHEP0009,031 (2000)； R. Dermisek, J. F.Gunion,Phys.Rev. Lett.95,041801 (2005); G. Hiller，Phys.Rev.D 70,034018(2004)；F. Domingo，U. Ellwanger， JHEP 0712,090 (2007); Z. Heng et al., Phys. Rev. D 77, 095012 (2008); R. N. Hodgkinson, A. Pilaftsis,Phys. Rev. D 76, 015007 (2007); W. Wang et al., Phys. Lett.B 680, 167 (2009).   \n[28] J.Beringer et al.[Particle Data Group Collaboration], Phys. Rev. D 86, O10001 (2012).   \n[29] H. -L. Lai et al., Phys. Rev. D 82, 074024 (2010) arXiv:1007.2241 [hep-ph].   \n[30] U.Ellwanger and C. Hugonie, Comput. Phys. Commun. 175, 290 (2006)；U. Ellwanger, J. F. Gunion and C. Hugonie, JHEP 0502, 066 (2005). ",
+        "page_idx": 14
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抗钠泵 ${ \\bf q } 2$ 亚单位截断性片段多肽抗体的制备与鉴定",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张明娟，张美程，朱参战，张超英，段宗明西安交通大学医学院第二附属医院心内科，陕西 西安 710004摘要：目的采用多肽制备技术和免疫学技术制备抗钠泵α2亚单位截断性片段及其抗体，为检测和研究钠泵α2亚单位的组织学分布及其功能研究提供实验基础。方法根据NCBI-Genebank获得大鼠钠泵α2亚单位M1\\~M2膜外区截断性片段目的多肽(LAAMEDEPSNDN),采用9-氟甲氧基(Fmoc)固相合成法合成目的多肽,并采用碳化二亚胺法制备出多肽与孔戚血蓝素复合物,免疫新西兰大白兔，免疫4次后获得抗血清，测定其效价。随后采用proteinA纯化IgG抗体，并将其用于大鼠主动脉血管平滑肌细胞钠泵α2亚单的组织学检测。结果(1)人工合成的大鼠钠泵α2亚单位截断性片段长13氨基酸残基(LAAMEDEPSNDN-C),理论相对分子质量:1408.48,质谱实测相对分子质量:1407.90;高效色谱分析纯度HPLC纯度 $5 8 5 . 5 \\%$ (2)ELISA法检测免疫后兔子的抗血清效价均大于1:512000,蛋白A亲和纯化获得亲和纯化抗体浓度为 $0 . 9 6 5 ~ \\mathrm { m g / m l }$ ,按照1：1000稀释(终浓度 $1 ~ \\mu \\mathrm { g / m l }$ ),ELISA检测抗体效价为1:256000;(3)该抗体按照1:100\\~1:200稀释可用于免疫细胞学检测。结论成功制备高效价抗钠泵α2亚单位截断性片段抗体可用于钠泵α2亚单位的ELISA和免疫细胞化学实验，为钠泵α2亚单位的组织细胞学检测和功能研究提供新的实验基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：钠泵；钠泵α2亚单位；多肽；抗体",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Preparation and characterization of polyclonal antibodies against rat sodium pump alpha 2 subunit M1-M2 extra membrane fragment ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Mingjuan, ZHANG Meicheng, ZHU Canzhan, ZHANG Chaoying,DUAN Zongming DepartmentofCardiology,SecondAfiliated HospitalofXi'an Jiaotong University,Xi'an71oo04,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTo prepare polyclonalantibodies against sodium pumpalpha2 subunitM1-M2 extramembranefragment (NKAα2 EM1) for studying the pathogenesis of hypertension. Methods According to the GenBank data,the amino acid sequence of NKAα2 EM1 was obtained and the target peptide (LAAMEDEPSNDN) was synthesized using a peptide synthesizer with Fmoc methodand purified with high-performanceliquid chromatography.The synthesized peptide was then coupledtoKLHfor immunizingNew Zealand whiterabbitsfor4timestoobtain theantiserum.TheIgGantibodiesagainst the synthetic peptide, after affinity purification with Protein $\\mathbf { A } ,$ were used for detecting NKAα2 EM1 expression in rat aortic vascularsmoth musclecelsbyenzyme-linked immunosorbent assayand immunocytochemistry (ICC).Results The synthesized peptide fragment，which consisted of13 aminoacid residues including one derivatized cysteine residue in the N-terminal (LAAMEDEPSNDN-C), had a theoretical relative molecular mass of $1 4 0 8 . 4 8 \\mathrm { ~ D ~ }$ with a measured relative molecular mass of $1 4 0 7 . 9 0 \\mathrm { ~ D ~ }$ and a purity exceeding $8 5 . 5 \\%$ . The titer of the antiserum was more than 1:512 000, and the purified IgG antibody concentration was $0 . 9 6 5 ~ \\mathrm { m g / m l }$ after purification with Protein A. At a 1:10oo dilution (final concentration of $1 ~ \\mu \\mathrm { g / m l } ;$ the titer of the purified $\\mathrm { I g G }$ antibody was more than 1: 256 000. The purified IgG antibody could be used at 1:100 to 1:200 dilutions for for immunocytological examination of formalin-fixed cels.Conclusion Theanti-NKAα2 EM1 polyclonal antibodies obtained can be used in ELISA and immunocytochemistry for detecting the sodium pump alpha 2 subunit in formalin-fixed tisse or cels to facilitate investigation of the relationship between sodium pumpand hypertension. Key words: sodium pump; sodium pump alpha 2 subunit M1-M2 extra membrane fragment; peptide; antibody ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钠泵，也称 $\\mathrm { N a ^ { + } / K ^ { + } }$ -ATP酶(Na,K-ATPase,NKA),是由 $\\mathsf { a } , \\mathsf { \\{ }  , \\mathsf { \\{ }  , \\mathsf { \\{ }  ,$ 亚基组成的真核细胞跨膜蛋白[4],不仅是调节细胞膜内外的离子平衡、诱发/维持膜电位的最重要离子泵,也是EGFR/Src-Ras-ERK、PI3K1A-PDK-Akt、mTOR等信号通路中的重要受体[5-8],在维持真核细胞正常电生理功能，参与腺体分泌、神经传导、细胞运动、肌肉收缩、血压调节、生长发育、肿瘤细胞活性等生理病理学过程中不可或缺]。其中,钠泵在高血压的发生中的作用备受关注，尤其是自盐敏感性高血压，也称盐依赖性高血压的概念提出以来，Warderner等提出的高血压病发病的钠泵抑制假说被广泛接受。目前，一般认为：长期高盐饮食会引起机体钠水潴留、血容量增加，导致ACTH分泌增加、血浆内源性洋地黄类物质水平升高，进而抑制钠泵a亚单位的活性，使细胞内Na+浓度升高，增强 $\\mathrm { N a ^ { + } / C a ^ { 2 + } }$ 交换，使 $\\mathrm { C a } ^ { 2 + }$ 大量内流、细胞内 ${ \\mathrm { C a } } ^ { 2 + } .$ 水平升高、信号转导系统激活，血管张力增高，最终形成高血压[12-14]。现已阐明,钠泵α亚单位是包含M1\\~M10共10个穿膜区的10次跨膜蛋白(Mr:112000)，可分为α1、$^  \\mathbf { \\alpha } _  \\mathbf { \\alpha } _ { \\mathbf { \\alpha } } \\mathbf { \\alpha } _  \\mathbf { \\alpha } _ { \\mathbf { \\alpha } } \\mathbf { \\alpha } _ { \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathbf { \\alpha } _ { \\mathbf { \\beta } } \\mathrm { ~ } } } \\mathrm { ~ a 2 ~ } \\alpha 3$ 及α4等多个亚型[1-2],是钠泵催化亚单位和功能的执行者，包含离子结合位点、ATP结合位点及钠泵抑制因子结合位点[3.4,15-16]。而内源性钠泵抑制因子正是通过与钠泵 $\\alpha \\mathrm { . }$ -亚单位结合、抑制钠泵活性[17-18]而导致的细胞膜离子转运和信号转导异常，进而引起正性肌力作用及外周血管的收缩及肾排钠障碍而在高血压发生和发展的中心环节[12.14,19-25]。其中内源性钠泵抑制因子与钠泵α2亚单位的抑制作用尤其重要。因此，深人研究α2-亚单位在高血压发病中的机制、探索高血压防治措施具有重要作用。现已确认，NKAα2亚单位M1\\~M2膜外区(NKA α2 subunit M1-M2 extra membrane fragment,NKAα2EM1)是CTS结合的主要位点[23.26]。本研究拟采用多抗制备技术制备出抗NKAα2EM1抗体，以期为NKAα2亚单位与高血压的研究提供更新的实验基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料和主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1主要实验材料多肽的合成、钥孔血蓝蛋白(keyholelimpethemocyanin,KLH)偶联及多克隆抗体的制备由南京金斯瑞生物科技有限公司完成。二步法免疫组化试剂盒EnVisionTMDetectionKit购自Dako公司产品(丹麦)， $\\mathfrak { a }$ -Actin抗体、HRP标记的羊抗兔抗体购自福州迈新生物技术公司。DMEM细胞培养液购自Gibco公司,优质胎牛血清购自Hyclone公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2主要实验仪器SW-CJ超净工作台(苏州净化设备集团)，HealForceHF90二氧化碳培养箱(力康生物医疗科技控股集团)，LeicaDM3000倒置显微镜(德国Leica)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1抗钠泵α2亚单位截断性片段抗体的制备及纯化(1)抗钠泵a2亚单位截断性片段合成、制备：根据NCBI-Genebank分析大鼠钠泵a2亚单位M1\\~M2膜外区截断性片段多肽(NKAα2EM1)，并在其羧基端添加1个半胱氨酸残基(LAAMEDEPSNDN-C)。采用9-氟甲氧基(Fmoc)固相合成法合成NKAα2EM1，高效液相色谱法(HPLC)进行纯化(色谱条件：HPLC色谱柱为AlltimaTM C18 $4 . 6 \\times 2 5 0 ~ \\mathrm { m m }$ ，溶剂A和B分别为含$0 . 0 5 \\%$ 三氟醋酸的无水乙腈溶液和 $0 . 0 6 5 \\%$ 三氟醋酸的水溶液；检测波长： $2 2 0 ~ \\mathrm { n m } ,$ ，采用电喷雾电离质谱(ESI-MS)进行质谱鉴定。随后，采用碳化二亚胺法(EDCI)将纯化多肽与KLH进行偶联缩合反应，得到Pep-KLH复合物，备用；(2)抗钠泵a2亚单位截断性片段多肽抗体制备：取纯化的多肽溶液与等体积的弗氏完全佐剂混合( $\\mathrm { 1 0 0 \\ : \\mu g / m l }$ )并充分乳化后，采用背部多点注射法免疫新西兰大白兔，免疫抗原量每只约$2 0 0 ~ { \\mu \\ g } _ { \\ast }$ 。两周后采用取多肽溶液与等体积弗氏不完全佐剂混合 $\\mathrm { 1 0 0 \\ : \\mu g / m l } ,$ 加强免疫3次，每次免疫抗原量约$1 0 0 ~ \\mu \\mathrm { g }$ ，每次免疫后7d通过兔耳缘静脉取血进行效价检测。第4次免疫后7d,采用颈动脉放血，收集兔血清；(3)抗体效价检测：按照常规ELISA法用人工合成的大鼠NKAα2EM1多肽包被酶标板( ${ \\mathrm { ~  ~ \\Omega ~ } } ^ { \\mathrm { { ~ \\scriptsize ~ 1 0 0 ~ } \\mu l / \\vec { f } L } }$ ）， $2 \\%$ BSA的封闭液,加入 $1 : 1 0 0 0 0$ 稀释的HRP标记的羊抗兔抗体孵育，TMB显色， $4 5 0 \\mathrm { n m }$ 波长处观测 $\\mathbf { D } _ { 4 5 0 }$ 值。免疫前兔血清作为阴性对照。 $\\mathrm { \\Delta D _ { 4 5 0 } }$ 值为阴性对照的2倍者判断为阳性；(4)采用proteinA亲和层析柱进行抗体纯化：将proteinA亲和层析柱用10倍柱体积的去离子水清洗，再用10倍柱体积的PBS缓冲液 $( 0 . 0 2 \\mathrm { m o l / L } , \\mathrm { p H } 7 . 5 )$ 平衡柱子，然后进行血清样品注入。PBS缓冲液洗脱杂蛋白，用6倍体积的柠檬酸盐缓冲液 $( 0 . 1 \\ \\mathrm { m o l / L } , \\mathrm { p H } \\ 3 . 0 )$ 洗脱收集 $\\mathrm { I g } \\mathrm { G } _ { \\circ }$ BCA法检测收集管内抗体浓度后加入适量叠氮化钠 $( 0 . 0 2 \\%$ )保存。纯化的抗体稀释至终浓度 $1 ~ \\mu \\mathrm { g / m l }$ 后用ELISA检测抗体的效价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2抗钠泵α2亚单位截断性片段多肽抗体的鉴定及应用 (1)大鼠胸主动脉血管平滑肌细胞培养及鉴定按照常规方法分离、培养大鼠胸主动脉血管平滑肌细胞(RASMC)[27]：大鼠取出胸主动脉，剥除血管外膜并刮去内膜层细胞后，将其剪成 $1 . 0 { \\sim } 2 . 0 \\ \\mathrm { m m } ^ { 2 }$ 大小的组织块，按$5 \\ \\mathrm { m m }$ 间距均匀地摆布在培养瓶底，翻转培养瓶静置$3 7 \\ \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 的 $\\mathrm { C O } _ { 2 }$ 培养箱中 $3 \\mathrm { ~ h ~ }$ ，当组织块与培养瓶底壁黏附后，向瓶内沿瓶内壁缓慢加入含 $20 \\%$ 胎牛血清及 $1 0 0 \\mathrm { U / L }$ 青霉素、 $\\mathrm { . 1 0 0 \\ m g / L }$ 链霉素的DMEM培养液刚浸过组织块( $4 ~ \\mathrm { m l }$ 左右),继续静置培养5d,换液，以后每1\\~2d观察1次。当培养液变黄时进行部分换液，当组织块周围外长的细胞相互汇合，铺满整个瓶底时，即可传代培养。将第5代对数生长期的细胞悬液接种到96孔板中，当细胞铺盖孔底 $80 \\%$ 时,倒出培养液， $10 \\%$ 福尔马林固定，备用；(2)RASMC的鉴定及钠泵a2亚单位的表达按照EnVisionTMDetectionKit说明书对培养的RASMC进行免疫细胞化学检测： $3 \\%$ 过氧化氢避光孵育 $1 5 \\mathrm { m i n }$ ;PBS洗 $5 \\ \\mathrm { m i n } { \\times } 3$ 次；采用 $10 \\%$ 脱脂奶进行抗原封闭 $1 0 \\mathrm { m i n }$ ，分别滴加抗平滑肌α肌动蛋白单克隆抗体和按照 $1 : 5 0 , 1 : 1 0 0 , 1 : 2 0 0$ 稀释度稀释的抗NKAα2EM1抗体， $4 ~ \\mathrm { { ^ { \\circ } C } }$ 过夜；PBS洗 $5 \\mathrm { m i n } \\times 3$ 次;滴加 $5 0 ~ \\mu \\mu$ 液（ChemMateTMEnVision_/HRP）,室温孵育 $3 0 ~ \\mathrm { m i n }$ PBS洗 $5 \\operatorname* { m i n } \\times 3$ 次;DAB显色；充分冲洗，苏木素复染，甘油封片，显微镜下观察、拍照，并进行分析。同时，设置空白、阴性、对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1人工合成大鼠钠泵α2亚单位截断性片段及其鉴定合成大鼠钠泵α2亚单位截断性片段氨基酸序列为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LAAMEDEPSNDN-C,共13个氨基酸残基，理论相对分子质量：1408.48,质谱实测相对分子质量：1407.90;高效色谱分析纯度HPLC纯度 ${ \\bf > } 8 5 . 5 \\%$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2抗钠泵α2亚单位截断性片段抗体的纯度及效价检测 采用ELISA法检测免疫前兔抗体效价： $\\scriptstyle < 1 : 1 0 0 0$ 第 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3、4次免疫注射后兔子的抗血清效价均大于1：512000$\\left( \\mathbf { D } _ { 4 5 0 \\mathrm { n m } } \\right)$ 。蛋白A亲和纯化获得亲和纯化抗体 $1 5 ~ \\mathrm { m g }$ ，浓度为 $0 . 9 6 5 ~ \\mathrm { m g / m l }$ ，按照1:1000 稀释(终浓度 $1 ~ \\mu \\mathrm { g / m l }$ 后ELISA检测抗体效价为1:256000(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/79be3cdeb5e2580390d863b5accc0f7af0762f19b133946758eb9785b6fdd519.jpg",
+        "table_caption": [
+            "表1ELISA检测第3、第4次免疫后血清和纯化抗体滴度 Tab.1 ELISA results for antiserumafter 3rdand 4th immunization and the titer of the purified antibodies "
+        ],
+        "table_footnote": [
+            "NC is negative control (Pre-immune serum).Purified antibody starting dilution:1:1 OOo (Equivalent to $1 ~ \\mu \\mathrm { g / m l }$ ).Thetiteristhe highest dilution with S/B (Sample/Blank) $> = 2 . 1$ （204 $\\mathrm { ( D _ { 4 5 0 n m } ) }$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Dilution</td><td>Antiserumafter 3rd immunization</td><td>Antiserumafter 4th immunization</td><td>Purified antibody</td></tr><tr><td>NC</td><td>1:1000</td><td>0.046</td><td>0.046</td><td>0.046</td></tr><tr><td>1</td><td>1:1000</td><td>2.702</td><td>2.689</td><td>2.571</td></tr><tr><td>2</td><td>1:2000</td><td>2.571</td><td>2.613</td><td>2.174</td></tr><tr><td>3</td><td>1:4000</td><td>2.359</td><td>2.309</td><td>2.143</td></tr><tr><td>4</td><td>1:8000</td><td>1.713</td><td>1.895</td><td>1.678</td></tr><tr><td>5</td><td>1:16 000</td><td>1.345</td><td>1.530</td><td>1.635</td></tr><tr><td>6</td><td>1:32 000</td><td>0.833</td><td>1.113</td><td>0.766</td></tr><tr><td>7</td><td>1:64 000</td><td>0.505</td><td>0.628</td><td>0.521</td></tr><tr><td>8</td><td>1:128 000</td><td>0.303</td><td>0.402</td><td>0.277</td></tr><tr><td>9</td><td>1:256 000</td><td>0.169</td><td>0.156</td><td>0.167</td></tr><tr><td>10</td><td>1:512 000</td><td>0.112</td><td>0.151</td><td>0.092</td></tr><tr><td>11</td><td>Blank</td><td>0.047</td><td>0.040</td><td>0.049</td></tr><tr><td>12</td><td>Blank</td><td>0.043</td><td>0.033</td><td></td></tr><tr><td></td><td>Titer</td><td>1:512 000</td><td>1:512000</td><td>0.049 1:256 000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3抗钠泵α2亚单位截断性片段抗体在免疫组织化学中的应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1RASMC的培养及鉴定大鼠胸主动脉组织块在种植培养瓶4\\~6d后，在倒置显微镜下观察到组织块边缘开始有细胞游离出，呈放射状生长，形态多样，呈梭形、星型或不规则形，折光性强，细胞核卵圆形。约7\\~10d后，细胞逐渐交织成网状。大约两周左右时间，细胞铺满组织块之间的空隙。传代后细胞贴壁生长，体积增大、多呈梭形、折光性减弱，对数生长期形成“峰-谷\"状的生长特征(图1A\\~C)。免疫细胞化学染色，证实RASMC稳定表达a-actin(图1D)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2钠泵α2亚单位在RASMC中的表达用不同稀释度的抗钠泵a2亚单位截断性片段抗体进行免疫细胞化学染色，全部细胞的胞质内均可见棕黄色颗粒并呈丝状沿细胞长轴平行排列，细胞核不着色(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { K } ^ { + } , \\mathbf { C T S }$ 和其它配体的结合位点。尽管NKAα亚型的基因在染色体上定位各有不同而形成具有组织、细胞特异性的NKA亚型和相应的生理功能[29-30]。α1亚单位基因定位于1号染色体短臂上，表达于机体所有组织; $a 3$ 亚单位基因定位于19号染色体上，主要分布在骨骼肌和心脏；而α2亚单位基因定位于1号染色体长臂上，除了主要表达于大脑、骨骼肌和心脏等器官外，也表达于动脉血管平滑肌细胞和脂肪细胞等其它组织中。尽管正常情况下，动脉肌源细胞上钠泵α1亚单位较a2亚单位数目多，但是钠泵α2亚单位却在控制动脉血管收缩和血压中发挥作用[13.31]。采用转基因鼠研究证实,钠泵α2亚单位的表达有助于促进DOCA-盐高血压以及哇巴因高血压大鼠的形成。进一步报道证实内源性钠泵抑制因子抑制钠泵2亚单位是盐依赖性高血压发病的中心环节，并在整个高血压病程进展中起着不可或缺的重要作用[12-14,19]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NKAα亚基分为α1 $, 0 2 , 0 3 , 0 4$ 亚型[28],其氨基末端及羧基末端均位于胞内，通过10个跨膜螺旋区定位于质膜上(M1\\~M10)，尽管不同NKA亚型α亚基的相对分子质量稍有差异 $( 1 1 0 { \\sim } 1 1 3 ) { \\times } 1 0 ^ { 3 }$ ，但均包含ATP、 $\\mathrm { { N a } ^ { + } }$ 、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Price等[32运用定点突变证实NKAα2亚基高度保守的M1/M2膜外区片段是CTS的主要结合位点。该作者也证实，NKAα2亚基M1/M2膜外区多肽可有效与哇巴因结合[3]。可见,该位点可作为调节NKA活性的重要靶点。现已证实CTS通过与NKA结合，抑制 $\\mathrm { { N a ^ { + } { - } K ^ { + } } }$ 交换，提高细胞内Na+浓度，继而通过 $\\mathrm { { N a ^ { + } { - } C a ^ { 2 + } } }$ 交换引起内质网 $\\mathrm { C a } ^ { 2 + }$ 释放，提高细胞内 $\\mathrm { C a } ^ { 2 + }$ （ $[ \\mathrm { C a } ^ { 2 + } ] \\mathrm { i }$ )增强心肌的正性肌力，而当 $[ \\mathrm { C a } ^ { 2 + } ] \\mathrm { i }$ 升高超过内质网储存能力时，便产生毒性作用。与NKAα1相比，NKAα2在调节心肌细胞内质网 $\\mathrm { C a } ^ { 2 + }$ 释放中发挥更为重要的作用[34-36]。CTS类药物正是通过抑制NKA增强心肌细胞的正性肌力作用仍被用于心衰的治疗慢，且其正性肌力与毒性作用密切相关。同时，内源性钠泵抑制因子与血管平滑肌细胞钠泵α2亚单位结合、抑制钠泵活性引起的外周动脉血管收缩也是盐依赖性高血压发病的中心环节。近来，已有学者证实抗NKAα1的抗体(SSA78)能够增加 $[ \\mathbf { C a } ^ { 2 + } ] .$ 和正性肌力作用[16.37]。可见,合成钠泵 ${ \\mathfrak { a } } 2$ 亚单位截断性片段(LAAMEDEPSNDN-C）、制备制备相应抗NKAa2EM1抗体，无疑将为进一步研究NKAα2亚基的表达、组织细胞学分布、功能及其在高血压发病及治疗中的作用机制提供了新的方法。因此，该研究拟采用Fmoc多肽合成法合成大鼠钠泵α2亚单位截断性片段(LAAMEDEP-SNDN-C)。而Fmoc多肽合成法是固相多肽合成的首选方法。本研究采用该方法成功合成 $1 5 ~ \\mathrm { m g }$ 大鼠钠泵 $\\mathfrak { a }$ 2亚单位截断性片段(LAAMEDEPSNDN-C)，理论相对分子质量1408.48、实际相对分子质量1407.90、纯度$8 5 . 5 \\%$ ，完全可以满足抗体制备和ELISA实验的需要",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d40cd1269ae7cf934b5f56f3e50f60836ca35648d79a0ab918c5cd9c9b6bc82.jpg",
+        "img_caption": [
+            "图1大鼠胸主动脉血管平滑肌细胞培养及 $\\mathbf { \\Omega } _ { . \\mathrm { a } }$ -actin的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/58a35c5f1ef4e65b9e8c0b9132f7b495ff1351226fdd284271c17fe0a66ac207.jpg",
+        "img_caption": [
+            "Fig.1 Cultured rat aortic vascular smooth muscle cells and their expression of $\\alpha$ -actin.A,B:Cultured rat aortic vascular smooth muscle cells $( \\times 2 0 0 )$ ；C:Negative control of (Immunocytochemistry: $\\times 4 0 0 _ { , } ^ { \\cdot }$ ： $D$ Expression of $\\alpha$ -actin in the cultured cells (Immunocytochemistry: $\\times 4 0 0$ ） ",
+            "图2免疫组化染色检测钠泵α2亚单位在大鼠胸主动脉血管平滑肌细胞中的表达 Fig.2 Expression of sodium pump alpha 2 subunit in cultured rat aortic vascular smooth muscle cells (Immunocytochemistry with EnVisionTM Detection, $\\times 4 0 0$ ).A:Negative control; B-D:Anti-NKAα2EM1 antibody at the dilution of 1:50,1:100,and 1:200, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于多肽分子小,免疫原性弱，因而在多肽抗体制备中，常需与大分子蛋白耦联以增强其免疫原性和抗原性，KLH以其强免疫原性成为多肽抗体制备最为常用的偶联载体之一。因此，该研究采用KLH作为多肽偶联载体，成功获得1:512000的高效价抗NKAα2EM1抗体。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如前所述，α2亚单位主要表达于大脑、骨骼肌和心脏等器官外，也表达于动脉血管平滑肌细胞和脂肪细胞等其它组织中，而钠泵抑制因子对心肌钠泵的抑制而产生的正性肌力作用和对动脉平滑肌细胞钠泵的抑制而导致的外周动脉的收缩在高血压的发生中发挥重要作用[16.31]。而大鼠主动脉和外周小动脉平滑肌细胞具有类似的免疫表型，均表达钠泵α2亚单位。同时，鉴于大鼠胸主动脉血管平滑肌细胞易于分离和培养，因此，该实验采用培养的RASMC验证抗NKAa2EM1抗体的活性。结果证明,采用proteinA纯化后的抗NKAα2EM1抗体( $\\mathrm { ( 1 ~ m g / m l ) }$ ，按照 $1 : 2 0 0$ 稀释后仍能用于免疫细胞化学实验，并能清楚检出福尔马林固定的RASMC中的钠泵 ${ \\mathfrak { a } } 2$ 亚基。说明本研究制备的抗NKAa2EM1抗体能应用免疫细胞化学实验，可用于NKAα2亚基在体内组织细胞学的检测，为进一步阐明钠泵α2亚基在体内组织细胞学定位、表达、功能及其在钠泵相关疾病的发生机制及治疗的研究奠定新的实验基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Mcdonough AA,Velotta JB,Schwinger RH,et al. The cardiac sodium pump: structure and function[J].Basic Res Cardiol,2002, 97(1): I19-24.   \n[2]Toyoshima C,Kanai R,Cornelius F.First crystal structures of $\\mathrm { { N a } ^ { + } }$ 5 $\\mathrm { K ^ { + } }$ -ATPase: new light on the oldest ion pump[J]. Structure,2011,19 (12):1732-8.   \n[3]Scheiner-Bobis G. The Sodium pump.Its molecular properties and mechanics of ion transport[J].Eur J Biochem，2002,269(10): 2424-33.   \n[4]Reyes N, Gadsby DC.Ion permeation through the $\\mathrm { \\Delta N a ^ { + } , K ^ { + } }$ -ATPase [J]. Nature,2006,443(7110): 470-4.   \n[5]Dai HL,Song D,Xu JN, et al. Ammonia-induced Na, K-ATPase/ ouabain-mediated EGF receptor transactivation,MAPK/ERK and PI3K/AKT signaling and ROS formation cause astrocyte swelling [J].Neurochem Int,2013,63(6): 610-25.   \n[6]Gable ME,Abdallah SL,Najjar SM,et al.Digitalis-induced cell signaling by the Sodium pump: on the relation of Src to $\\mathrm { { N a } } ( + ) / \\mathrm { { K } }$ （20 （20 $( + )$ -ATPase [J].Biochem Biophys Res Commun,2014,446(4): 1151-4.   \n[7] Weigand KM,Swarts HG,Fedosova NU,et al. Na,K-ATPase activity modulates Src activation: a role for ATP/ADP ratio [J]. Biochim Biophys Acta,2012,1818(5): 1269-73.   \n[8]Kim SH,Yu HS,Park HG,et al.Intracerebroventricular administration of ouabain，a Na/K-ATPase inhibitor,activates mTOR signal pathways and protein translation in the rat frontal cortex[J].Prog Neuropsychopharmacol Biol Psychiatry,2013,45: 73-82.   \n[9]Miles AJ,Fedosova NU,Hoffmann SV,et al. Stabilisationof Na, K-ATPase structure by the cardiotonic steroid ouabain[J]. Biochem Biophys Res Commun,2013,435(2): 300-5.   \n[10] Laursen M, Yatime L,Nissen P,et al. Crystal structure of the high-affinity $\\mathrm { { N a } ^ { + } }$ $\\mathrm { K ^ { + } }$ -ATPase-ouabain complex with $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ bound in the cation binding site[J].Proc Natl Acad Sci USA,2013,110(27): 10958-63.   \n[11]Oshiro N,Dostanic-Larson I,Neumann JC,etal. The ouabainbinding site of the α2 isoform of Na,K-ATPase plays a role in blood presure regulation during pregnancy[J].Am JHypertens, 2010,23(12): 1279-85.   \n[12]Iwamoto T.Vascular $\\mathrm { { N a \\ ^ { + } / C a ^ { 2 } \\Sigma ^ { + } } }$ exchanger: implications for the pathogenesis and therapy of salt-dependent hypertension[J]. Am J Physiol Regul Integr CompPhysiol,2006,290(3):R536-45.   \n[13]Zhang J,Lee MY,Cavali M,et al. Sodium pump alpha 2 subunits control myogenic tone and blood pressure in mice[J]. J Physiol, 2005,569(1): 243-56.   \n[14]Blaustein MP, Zhang J, Chen L,et al. How does salt retention raise blood pressure?[J].Am JPhysiol Regul Integr Comp Physiol,2006, 290(3): R514-23.   \n[15]Kenan SM, Delisle RK,Welsh WJ,et al. Elucidation of the $\\mathrm { { N a } ^ { + } }$ （204 $\\mathrm { K ^ { + } }$ ATPase digitalis binding site[J].JMol Graph Model,2005,23 (6): 465-75.   \n[16]Xu KY.Dual activity of the H1-H2 domain of the $\\left( \\mathrm { N a } ( + { } ) + { } \\right.$ （204号 （204 $\\mathrm { K } +$ )-ATPase[J].Biochem Biophys Res Commun,2008,377(2): 469-73.   \n[17]Artigas P, Gadsby DC. Ouabain affinity determining residues lie close to the $\\mathrm { N a } / \\mathrm { K }$ pump ion pathway[J]. Proc Natl Acad Sci USA, 2006,103(33): 12613-8.   \n[18]Dostanic-Larson I, Van Huysse JW,Lorenz JN,et al. The highly conserved cardiac glycoside binding site of Na, K-ATPase plays a role in blood pressure regulation[J]. Proc Natl Acad Sci USA,2005, 102(44): 15845-50.   \n[19]Adrogué HJ,Madias NE. Sodium and Potassium in the pathogenesis of hypertension[J].NEnglJMed,2007,356:1966-78.   \n[20]Nesher M,Shpolansky U,Rosen H,et al.The digitalis-like steroid hormones:new mechanisms of action and biological significance [J].Life Sci,2007,80(23): 2093-107.   \n[21]Queiroz-Madeira EP,Lara LS,Wengert MA,et al. $\\mathrm { { N a } ^ { + } }$ -ATPase in spontaneous hypertensive rats: Possible AT(1) receptor target in the developmentofhypertension [J].BiochimBiophysActa: Biomembranes,2010,1798(3): 360-6.   \n[22] Jaitovich A,Bertorello AS. $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { K ^ { \\ast } } .$ ATPase and hypertension[J]. Life Sci,2010,86(3/4): 73-8.   \n[23]Morrill GA，Kostellow AB，Askari A.Caveolin-Na/K-ATPase interactions: role of transmembrane topology in non-genomic steroid signal transduction[J]. Steroids,2012,77(11):1160-8.   \n[24]Reinhard L, Tidow H, Clausen MJ,et al. $\\mathrm { { N a } ( + ) }$ ,K $( + )$ -ATPaseasa docking station: protein-protein complexes of the $\\mathrm { { N a ( + \\infty ) } }$ ，K $( + )$ -ATPase[J].Cell Mol Life Sci,2013,70(2):205-22.   \n[25] Stevens CW. New pathways for an old molecule: the role of the $\\mathrm { { N a } ^ { + } { - } K ^ { + } }$ ATPase pump in peripheral neuropathy[J].J Neurol Sci, 2014,340(1/2): 3-4.   \n[26]Van Huysse JW,Dostanic I,Lingrel JB,et al.Hypertension from chronic central Sodium chloride in mice is mediated by the ouabain-binding site on the Na,K-ATPase α2-isoform[J].Am J Physiol Heart Circ Physiol,2011,301(5):H2147-53.   \n[27]Sreejayan N,Yang X. Isolation and functional studies of rat aortic smooth muscle cells[J].Methods Mol Med,2007,139: 283-92.   \n[28]Morth JP,Poulsen H, Toustrup-Jensen MS,et al. The structure of the $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { ~ K ~ } ^ { + } .$ -ATPase and mapping of isoform differences and disease-related mutations[J].Philos Trans R Soc Lond B Biol Sci, 2009,364(1514): 217-27.   \n[29]Kobayashi E,Tachibana M, Ikadai H,et al.Localization of a $\\mathrm { { N a } ( + ) }$ ， $\\operatorname { K } ( + )$ -ATPase alpha 2 subunit gene,Atpla2,on rat chromosome 13 [J].Mamm Genome,1995,6(12): 889.   \n[30]Lingrel JB,Williams MT, Vorhees CV,et al.Na,K-ATPase and the role of alpha isoforms in behavior[J].JBioenerg Biomembr, 2007, 39(5/6): 385-9.   \n[31] Shelly DA,He S,Moseley A,et al. Na-pump 2-isoform specifically couples to contractility in vascular smooth muscle:evidence from genetargeted neonatal mice[J].Am JPhysiol Cell Physiol, 2004, 286(4): C813-20.   \n[32] Yatime L,Laursen M,Morth JP,et al. Structural insights into the high affinity binding of cardiotonic steroids to the $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { K ^ { + } }$ -ATPase [J].J Struct Biol,2011,174(2): 296-306.   \n[33]张明娟,杨 军,强磊,等.大鼠钠泵α2亚单位 ${ \\bf M } 1 \\sim { \\bf M } 2$ 膜外区多肽体 外活性鉴定[J].生理学报,2008,60(2):205-10.   \n[34]Xu KY,Zhu W, Chen L,et al.Mechanistic distinction between activation and inhibition of $( \\mathrm { N a } ( + ) + \\mathrm { K } ( + ) )$ -ATPase-mediated $\\mathrm { C a } ^ { 2 + }$ influx in cardiomyocytes[J].Biochem Biophys Res Commun,2011, 406(2): 200-3.   \n[35]Xiong C,Li JX,Guo HC,et al. The H-1-H-2 domain of the alpha (1) isoform of $\\mathrm { { N a ^ { + } { - } K ^ { + } } }$ -ATPase is involved in ouabain toxicity in rat ventricular myocytes [J]. Toxicol Appl Pharmacol,2012,262(1): 32-42.   \n[36]Despa S,Lingrel JB,Bers DN. $\\left( + \\right) / \\mathrm { K } ( + )$ -ATPase ${ \\alpha } 2$ -isoform preferentially modulates $\\mathbf { C a } 2 ( + )$ transients and sarcoplasmic reticulum $\\mathbf { C a } 2 ( + )$ release in cardiac myocytes[J].Cardiovasc Res,2012,95 (4): 480-6.   \n[37] Xu KY,Takimoto E, Juang GJ,et al. Evidence that the H1-H2 domain of alphal subunit of $( \\mathrm { N a \\ ^ { + } { + } K ^ { + } } ) ,$ )-ATPase participates in the regulation of cardiac contraction[J].FASEB J,2005,19(1): 53-61. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：黄开颜）",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,150 @@
+变温条件下不同投喂水平对施氏鲟幼鱼消化酶、代谢酶和抗氧化酶活性的影响！
+
+赵志刚　李晋南　徐奇友　罗　亮　王常安　王连生
+
+（中国水产科学研究院黑龙江水产研究所，哈尔滨 150070）摘要：本试验旨在研究变温条件下不同投喂水平对施氏鲟幼鱼消化酶、代谢酶和抗氧化酶活性的影响。试验水温设恒温[（ $2 2 . 0 { \pm } 0 . 1 \$ ） $\mathrm { { } ^ { \circ } C } \mathrm { { } ^ { \circ } }$ 和变温[ $2 2 { \pm } 2$ ） ${ } ^ { \circ } \mathrm { C } ] 2$ 种模式，并根据投喂水平分为6组，分别为恒温 $100 \%$ 饱食组（HW-100 组）、变温 $100 \%$ 饱食组（BW-100 组）、变温 $90 \%$ 饱食组（BW-90组）、变温 $80 \%$ 饱食组（BW-80 组）、变温 $70 \%$ 饱食组（BW-70组）、变温 $6 0 \%$ 饱食组（BW-60 组）。将平均体重为（ $3 4 . 9 { \pm } 0 . 8 \$ ） $\mathrm { \bf ~ g }$ 的施氏鲟幼鱼随机分为6组，每组4个重复，每个重复15尾鱼，养殖周期为42d。结果表明：变温条件下，在 $6 0 \% { \sim } 8 0 \%$ 范围内，随着投喂水平的降低，胃及瓣肠蛋白酶活性均显著升高 $( P { < } 0 . 0 5 )$ 。与 HW-100 组相比，BW-60 组与BW-70 组的胃和瓣肠蛋白酶活性均显著升高 $( P { < } 0 . 0 5 )$ 。变温条件下，十二指肠和瓣肠淀粉酶活性及瓣肠脂肪酶活性均随投喂水平的降低呈先升高后下降的趋势。BW-80 组十二指肠淀粉酶活性显著高于HW-100组及BW-100 组 $( P { < } 0 . 0 5 )$ ，BW-80组和BW-90组瓣肠淀粉酶活性显著高于其他各组 $( P { < } 0 . 0 5 )$ 。所有变温投喂组瓣肠脂肪酶活性14 均显著低于HW-100 组 $( P { < } 0 . 0 5 )$ 。各变温投喂组血清天冬氨酸转氨酶(AST)活性均显著高于HW-10015 组 $( P { < } 0 . 0 5 )$ 。与HW-100 组相比，BW-60 组、BW-70组血清超氧化物歧化酶（SOD）活性显著降低16 （2 $( P { < } 0 . 0 5 )$ 。在变温条件下，在 $60 \% \sim 9 0 \%$ 范围内，鱼体血清总抗氧化能力（T-AOC）和黄嘌呤氧化酶17 （XOD）活性均随着投喂水平的降低整体呈先下降后上升的趋势，且均在投喂水平 $80 \%$ 时降至最18 低值。与HW-100 组相比，BW-60 组、BW-70 组及BW-100 组血清 T-AOC 显著升高 $( P { < } 0 . 0 5 )$ ，且19 BW-60 组和BW-90 组血清XOD 活性显著升高 $( P { < } 0 . 0 5 )$ 。综上所述，在周期性变温条件下，施氏鲟20 幼鱼可通过提高蛋白酶活性，即提高对饲料蛋白质消化效率的方式来补偿其对饲料蛋白质摄入的不21 足。与恒温 $100 \%$ 饱食相比，变温条件下各投喂水平均可提高施氏鲟幼鱼血清 ALT 活性。
+
+关键词：变温；投喂水平；施氏鲟幼鱼；消化酶；代谢酶；抗氧化酶中图分类号：S963 文献标识码：A 文章编号：
+
+水温是鱼类生长过程中的重要环境因子之一，水温与鱼类的生长和摄食密切相关，适宜的水温对于鱼类的行为、生理变化及生长发育等都具有重要的意义[-5]。投喂水平作为养殖过程中的一个重要环节，同样影响着鱼类的消化吸收和生长发育。在自然条件下，由于季节变化、环境改变、种内竞争等方面的原因，鱼类获得食物的量十分不确定，经常因饥饿或摄食不足影响其正常的生长发育。而在养殖条件下，各种环境因素较为稳定，鱼类的生长受投喂水平的影响较大，投喂不当或投喂不及时可能导致鱼类摄食不足，从而影响其存活、生长和发育[。但是过量投喂同样不利于鱼类的生长[7]。目前，关于水温对水生动物影响的研究较多，但多数都是在恒温条件下进行的。而在自然界中，水生动物的生存水温是有周期性变化的，如昼夜变化、季节变化等。已有研究发现，实验室得到的某些水生动物的最适生长温度与野外的试验数据并不一致，可能与恒温条件下得到的结果同野外试际变温情况下存在差异有关8。为此，一些学者对周期性变温对水生生物生长的影响进行了相关方面的研究[9-14]。但在变温条件下不同投喂水平对鱼体相关酶活性影响方面还未见报道。施氏鲟（Acipenser schrenckii Brandt）是我国重要的大型名贵经济鱼类，具有个体大、生长快的特点，其卵制成的鱼子酱具有极高的经济价值[15]。本文以施氏鲟幼鱼为研究对象，在变温条件下研究了不同投喂水平对施氏鲟幼鱼消化酶、代谢酶及抗氧化酶活性的影响，旨在探讨水温变化对鲟科鱼类消化、代谢等酶学方面的影响机制，为施氏鲟工厂化养殖提供理论依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+施氏鲟幼鱼由中国水产科学研究院鲟鱼繁育中心提供。运回后在室内循环水族箱内暂养2周。暂养用水为曝气自来水，暂养期间饱食投喂鲟鱼商品鱼苗种配合饲料，每天换水1/3，水温为(21.0±0.5) ℃。
+
+1.2 试验设计
+
+试验水温设恒温[（ $2 2 . 0 { \pm } 0 . 1 \ \$ ） $\mathrm { { } ^ { \circ } C } \mathrm { { } ^ { \circ } }$ 和变温[(22±2）℃]2种模式，并根据投喂水平分为6组，分别为恒温 $100 \%$ 饱食组（HW-100组）、变温 $100 \%$ 饱食组（BW-100组）、变温 $90 \%$ 饱食组（BW-90组）变温 $80 \%$ 饱食组（BW-80组）、变温 $70 \%$ 饱食组（BW-70组）、变温 $60 \%$ 饱食组（BW-60组)。变温投喂组的温度通过可编程智能温度控制仪进行控制，控制模式为：从06:00最低温度开始逐渐升温，到13:00上升到最高温度，13:00到18:00保持在最高温度；从18:00后开始逐渐降温，到次日01:00逐渐降到最低温度，从01:00到06:00保持最低温度，以24h为单位进行循环。温控系统温度感应元件的灵敏度为 $0 . 1 ~ \mathrm { ^ { \circ } C }$ 。
+
+# 1.3养殖管理
+
+暂养结束后，取健康且规格均匀的个体[平均体重为（34.9±0.8）g]转移至不同温度处理的水族箱中进行养殖试验，每组4个重复，每个重复15尾鱼。试验过程中，每天换水1/3以上，每天3次(08:00、13:00和17:00）投喂鲟鱼商品鱼苗种配合饲料（饲料基本成分见表1)，投喂量按照各组设定的量进行投喂。 $100 \%$ 饱食投喂量的确定方法为，在 $100 \%$ 饱食投喂组中每天进行3次投喂，在每次摄食1h后仍有饲料剩余，此时的摄食量作为该次的 $100 \%$ 饱食投喂量，3次的总摄食量确定为1d的 $100 \%$ 饱食投喂量。根据鱼体摄食情况，各组每7d左右调整1次投喂量。养殖过程中定期清除残饵和粪便。整个试验期间溶解氧浓度 ${ > } 6 . 0 \ \mathrm { m g / L }$ ，光照周期12明（L）:12暗（D）， $\mathrm { p H } 7 . 5 { \pm } 0 . 2 \$ 。养殖周期为42d。
+
+# 表1饲料基本成分(干物质基础)
+
+Table 1Basic composition of the diet (DM basis)   
+
+<html><body><table><tr><td colspan="5"></td></tr><tr><td>项目</td><td>粗蛋白质</td><td>粗脂肪</td><td>粗灰分</td><td>总能 Gross</td></tr><tr><td>Item</td><td>Crude protein/%</td><td>Ether extract/%</td><td>Ash/%</td><td>energy/(kJ/g)</td></tr><tr><td>含量Content</td><td>51.78±0.81</td><td>14.36±0.25</td><td>0.15±0.00</td><td>49.48±0.63</td></tr></table></body></html>
+
+# 1.4血清指标的检测
+
+养殖试验结束后停食 $2 4 \mathrm { ~ h ~ }$ ，从每个重复中随机取鱼5尾，每组20尾。经过麻醉剂（MS-222）麻醉后，用注射器在鱼体臀鳍下方动脉抽血，血液注入离心管中后在 $4 \mathrm { { ^ \circ C } }$ 冷藏，静置分层后用10000r/min离心 $1 0 ~ \mathrm { m i n }$ 至完全分层后取上层血清，置于-80℃冰箱保存待测。测定指标包括丙氨酸转氨酶（ALT）、天冬氨酸转氨酶（AST）、黄嘌呤氧化酶（XOD）、超氧化物歧化酶（SOD）活性及总抗氧化能力（T-AOC)。以上指标均采用南京建成生物工程研究所的试剂盒进行测定，具体方法参照试剂盒所附说明书。
+
+1.5 消化酶活性测定
+
+将取完血的试验鱼在冰盘上迅速解剖，分别取胃、十二指肠和瓣肠，保存于 $- 8 0 \ \mathrm { { ^ \circ C } }$ 冰箱备用。样品测定前在 $4 \mathrm { { ^ \circ C } }$ 冰箱中解冻，用预冷！ $\left( 0 { \sim } 4 \ \mathrm { { ^ circ C } } \right)$ 的 $0 . 8 6 \%$ 生理盐水洗涤，再用滤纸吸去表面水分，分别称重后用9倍质量比的预冷的 $0 . 8 6 \%$ 生理盐水进行稀释，于冰水浴中用高速组织匀浆机匀浆，匀浆液经离心（ $\mathrm { ~ \ : ~ 4 ~ \ : ^ { \circ } C ~ }$ ， $3 5 0 0 \mathrm { r / m i n }$ ， $1 0 \mathrm { m i n }$ ）后，将上清液分装后保存于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ ，作为组织粗酶液用于测定消化酶活性。蛋白酶活性采用福林-酚法测定，淀粉酶和脂肪酶活性均采用南京建成生物工程研究所的试剂盒进行测定，具体方法参照试剂盒的说明书。组织蛋白质含量采用考马斯亮蓝法测定。
+
+# 1.6 统计分析
+
+应用 SPSS 19.0 软件对数据进行统计分析。对数据先进行单因素方差分析(one-way ANOVA),然后进行Duncan氏多重比较检验，试验结果采用平均值±标准差（mean $\pm \mathrm { S D }$ ）表示，以 $P { < } 0 . 0 5$ 作
+
+为差异显著性的标志。
+
+2结果
+
+2.1 蛋白酶活性
+
+各组施氏鲟幼鱼的蛋白酶活性见表2。变温条件下，在 $6 0 \% { \sim } 8 0 \%$ 范围内，随着投喂水平的降低，胃及瓣肠蛋白酶活性均显著升高 $( P { < } 0 . 0 5 )$ 。与HW-100组相比，BW-60组与BW-70组的胃蛋白酶及瓣肠蛋白酶活性显著升高 $( P { < } 0 . 0 5 )$ ，而各变温投喂组十二指肠蛋白酶活性与HW-100组相比差异均不显著 $( P { > } 0 . 0 5 )$ 。
+
+Table 2Protease activity of juvenile Amur sturgeon in different groupsU/mg prot   
+
+<html><body><table><tr><td>组别</td><td>胃</td><td>十二指肠</td><td>瓣肠</td></tr><tr><td>Groups</td><td>Stomach</td><td>Duodenum</td><td>Valvula intestine</td></tr><tr><td>HW-100</td><td>0.60±0.27a</td><td>53.54±3.68ab</td><td>13.12±5.15a</td></tr><tr><td>BW-100</td><td>0.57±0.20a</td><td>59.38±2.53b</td><td>21.04±2.58bc</td></tr><tr><td>BW-90</td><td>0.98±0.49a</td><td>50.11±6.73a</td><td>13.24±4.08a</td></tr><tr><td>BW-80</td><td>0.61±0.16a</td><td>52.06±2.58ab</td><td>16.02±4.39ab</td></tr><tr><td>BW-70</td><td>2.38±0.04b</td><td>54.09±5.04ab</td><td>24.91±0.37c</td></tr><tr><td>BW-60</td><td>3.59±1.50c</td><td>53.18±6.96ab</td><td>25.34±1.24c</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small lettr superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ . The same as below.
+
+# 2.2 淀粉酶活性
+
+各组施氏鲟幼鱼的淀粉酶活性见表3。胃淀粉酶活性各组之间均没有显著差异 $( P { > } 0 . 0 5 )$ 。变温条件下，十二指肠和瓣肠淀粉酶活性均随着投喂水平的降低呈先升高后下降的趋势。BW-80组十二指肠淀粉酶活性显著高于HW-100组及BW-100组 $( P { < } 0 . 0 5 )$ ，与其他组相比差异均不显著 $( P 5 0 . 0 5 )$ 。BW-80组和BW-90组瓣肠淀粉酶活性显著高于其他各组 $( P { < } 0 . 0 5 )$ 。
+
+表2各组施氏鲟幼鱼的蛋白酶活性  
+表3各组施氏鲟幼鱼的淀粉酶活性  
+Table 3Amylase activity of juvenile Amur sturgeon in different groupsU/mg prot   
+
+<html><body><table><tr><td>组别</td><td>胃</td><td>十二指肠</td><td>瓣肠</td></tr><tr><td>Groups</td><td>Stomach</td><td>Duodenum</td><td>Valvula intestine</td></tr></table></body></html>
+
+<html><body><table><tr><td>HW-100</td><td>0.53±0.04</td><td>0.69±0.10a</td><td>0.92±0.12a</td></tr><tr><td>BW-100</td><td>0.57±0.14</td><td>0.65±0.08a</td><td>0.94±0.20a</td></tr><tr><td>BW-90</td><td>0.50±0.09</td><td>0.80±0.19ab</td><td>1.88±0.20b</td></tr><tr><td>BW-80</td><td>0.52±0.03</td><td>1.09±0.22b</td><td>1.71±0.64b</td></tr><tr><td>BW-70</td><td>0.63±0.17</td><td>0.95±0.24ab</td><td>1.02±0.06a</td></tr><tr><td>BW-60</td><td>0.50±0.04</td><td>0.86±0.18ab</td><td>0.73±0.09a</td></tr></table></body></html>
+
+# 2.3 脂肪酶活性
+
+各组施氏鲟幼鱼的脂肪酶活性见表4。胃和十二指肠脂肪酶活性各组之间均没有显著差异$( P { > } 0 . 0 5 )$ 。变温条件下，瓣肠脂肪酶活性随着投喂水平的降低表现出先上升后下降的趋势，所有变温投喂组瓣肠脂肪酶活性均显著低于HW-100 组 $( P { < } 0 . 0 5 )$ 。
+
+表4各组施氏鲟幼鱼的脂肪酶活性  
+Table 4Lipase activity of juvenile Amur sturgeon in different groupsU/g prot   
+
+<html><body><table><tr><td>组别</td><td>胃</td><td>十二指肠</td><td>瓣肠</td></tr><tr><td>Groups</td><td>Stomach</td><td>Duodenum</td><td>Valvula intestine</td></tr><tr><td>HW-100</td><td>33.23±13.97</td><td>55.82±12.72</td><td>138.36±24.66e</td></tr><tr><td>BW-100</td><td>18.82±5.50</td><td>57.61±5.00</td><td>57.48±9.57bc</td></tr><tr><td>BW-90</td><td>29.54±5.96</td><td>57.53±10.99</td><td>106.41±24.01d</td></tr><tr><td>BW-80</td><td>26.95±5.64</td><td>58.37±28.46</td><td>84.56±26.45cd</td></tr><tr><td>BW-70</td><td>24.99±4.63</td><td>54.47±12.23</td><td>51.19±8.44b</td></tr><tr><td>BW-60</td><td>34.67±15.35</td><td>61.99±24.75</td><td>21.23±7.96a</td></tr></table></body></html>
+
+# 2.4血清代谢酶活性和抗氧化指标
+
+各组施氏鲟幼鱼的血清代谢酶活性和抗氧化指标见表5。血清ALT 活性各组之间差异均不显著（204 $( P { > } 0 . 0 5 )$ 。除 BW-70 组外，各变温投喂组血清 AST 活性均显著高于HW-100 组 $( P { < } 0 . 0 5 )$ ，而AST活性在不同变温投喂组之间差异均不显著 $( P 5 0 . 0 5 )$ 。在变温条件下，当投喂水平降低至 $70 \%$ 后，血清 SOD 活性显著降低 $( P { < } 0 . 0 5 )$ 。与 HW-100 组相比，BW-60 组、BW-70 组血清 SOD 活性显著降低（20 $( P { < } 0 . 0 5 )$ ，其他变温投喂组未产生显著变化 $( P 5 0 . 0 5 )$ 。在变温条件下，鱼体血清 T-AOC 和 XOD 活性均随着投喂水平的降低整体呈先下降后上升的趋势，且均在投喂水平 $80 \%$ 时降至最低值。与HW-100 组相比，BW-60 组、BW-70 组及BW-100 组血清T-AOC显著升高 $( P { < } 0 . 0 5 )$ ，且BW-60组和 BW-90 组血清XOD 活性显著升高 $( P { < } 0 . 0 5 )$ 。
+
+Table 5Serum metabolic enzyme activities and antioxidant indices of juvenile Amur sturgeon in   
+
+<html><body><table><tr><td colspan="5">different treatment groups</td></tr><tr><td>组别</td><td>天冬氨酸转氨酶</td><td>超氧化物歧化 丙氨酸转氨酶ALT</td><td>总抗氧化能力</td><td>黄嘌呤氧化酶</td></tr><tr><td>Groups</td><td>AST</td><td>/(U/L)</td><td>酶 SOD T-AOC</td><td>XOD</td></tr><tr><td></td><td>/(U/L)</td><td></td><td>/(U/mL) /(U/mL)</td><td>/(U/L)</td></tr><tr><td>HW-100</td><td>65.28±9.95</td><td>12.32±6.28a</td><td>10.10±1.72b</td><td>20.42±4.40a 12.07±9.37a</td></tr><tr><td>BW-100</td><td>76.17±23.84</td><td>59.93±33.96b</td><td>9.34±0.67b 50.80±20.22bc</td><td>17.97±6.73ab</td></tr><tr><td>BW-90</td><td>42.85±8.82</td><td>50.26±22.48b</td><td>10.12±1.18b 28.48±7.03ab</td><td>30.53±6.28c</td></tr><tr><td>BW-80</td><td>75.53±24.37</td><td>57.97±11.78b</td><td>10.15±0.57b 16.55±4.93a</td><td>9.54±2.84a</td></tr><tr><td>BW-70</td><td>45.64±8.40</td><td>31.83±5.46ab</td><td>5.22±0.30a</td><td>53.92±13.58bc 14.52±5.54a</td></tr><tr><td>BW-60</td><td>52.06±25.91</td><td>47.46±16.29b</td><td>3.99±0.66a</td><td>66.32±32.18c 29.28±11.05bc</td></tr></table></body></html>
+
+3讨论
+
+水温和投喂水平是影响鱼体生长发育的重要因素[16]。作为变温动物，鱼类的消化道温度与水温变化密切相关，环境温度变化直接影响鱼体的消化酶活性，其活性高低决定着鱼体对营养物质消化吸收的能力。关于水温对鲟鱼生长和消化酶活性等的研究[17-22较多，但是在变温模式下对施氏鲟消化酶活性的研究还未见报道。在养殖条件下，投喂量不足会影响鱼类生长[23-24]，过量投喂则增加鱼体胃肠道负担，导致其消化和吸收的效率低下[25]，从而降低饲料的利用率[26]。本试验结果显示，变温条件下，施氏鲟幼鱼胃及瓣肠蛋白酶活性随着投喂水平的降低总体呈显著升高，表明在变温条件下，施氏鲟幼鱼通过增加蛋白酶活性的方式来补偿其对饲料蛋白质摄入的不足，通过该方式可提高鱼体对饲料蛋白质的消化效率。本研究中，在变温条件下，十二指肠和瓣肠淀粉酶活性以及瓣肠脂肪酶活性均随着投喂水平的降低呈先升高后下降的趋势，这表明，在变温条件下当饲料摄入不足时，施氏鲟幼鱼通过增加淀粉酶和脂肪酶活性的方式来补偿其对饲料淀粉和脂肪摄入不足的能力有限，当投喂水平降低至饱食量的 $70 \%$ 时，鱼体对饲料中淀粉和脂肪消化的补偿能力显著降低。本试验结果显示，与恒温 $100 \%$ 饱食组相比，变温 $100 \%$ 饱食组施氏鲟幼鱼的瓣肠脂肪酶活性显著降低，而其瓣肠蛋白酶活性则显著升高，表明变温在一定程度上抑制施氏鲟幼鱼肠道脂肪酶活性的同时可促进肠道蛋白酶活性的升高。
+
+AST 和ALT 作为氨基酸转氨酶，在鱼类的蛋白质合成和分解代谢过程中发挥着重要作用。在肝脏细胞蛋白质代谢过程中，ALT将丙氨酸的氨基转移给 $\mathfrak { a }$ -酮戊二酸，将 $\mathfrak { a }$ -酮戊二酸的羰基转移给丙氨酸，这样丙氨酸就成为丙酮酸， $\scriptstyle { \mathfrak { a } } .$ 酮戊二酸就成为谷氨酸。本研究结果显示，与恒温 $100 \%$ 饱食相比，各变温投喂水平均可提高鱼体血清 ALT 活性，由此推断一定幅度的变温条件可能促进施氏鲟幼鱼机体蛋白质的代谢作用。通常情况下，当鱼类机体内自由基增多时，机体为了抵御外源亲电基团的氧化，通常会增加抗氧化酶活性[22]，而 SOD 是防御生物体内活性氧或自由基伤害的最重要酶类[27]。有研究指出，SOD 活性与生物体免疫水平密切相关[28-29]。本研究中，当投喂水平低于 $80 \%$ 时，施氏鲟幼鱼血清 SOD 活性显著降低，表明在变温条件下当投喂水平不足时，施氏鲟幼鱼机体的免疫防御能力明显降低。T-AOC 是反映机体抗氧化能力的综合指标。研究表明，鱼类抗氧化能力与水温之间具有较高的相关性[30]。本试验结果显示，与恒温 $100 \%$ 饱食相比，变温条件下不同投喂水平施氏鲟幼鱼的血清 T-AOC 普遍增高，说明变温有助于提高施氏鲟幼鱼机体的抗氧化能力。在变温条件下，血清 T-AOC 随着投喂水平的降低整体呈先下降后上升的趋势，可能与摄入饲料不足引起饥饿胁迫后机体的反应程度有关。XOD 是动物机体在受外界胁迫等非正常状态下机体产生自由基的主要催化酶[22]。本研究中，与恒温 $100 \%$ 饱食组相比，变温 $70 \%$ 、 $80 \%$ 和 $100 \%$ 饱食组的血清 XOD 活性均保持在较低水平，表明施氏鲟幼鱼在这3个投喂水平下受到的环境胁迫较小，不足以刺激其血清XOD 活性升高。
+
+4结论
+
+$\textcircled{1}$ 在周期性变温条件下，施氏鲟幼鱼可通过提高蛋白酶活性，即提高对饲料蛋白质消化效率的方式来补偿其对饲料蛋白质摄入的不足。
+
+$\textcircled{2}$ 与恒温 $100 \%$ 饱食相比，变温条件下各投喂水平均可提高施氏鲟幼鱼血清ALT 活性。
+
+参考文献：
+
+[1]黎军胜,李建林,吴婷婷.饲料成分与环境温度对奥尼罗非鱼消化酶活性的影响[J].中国水产科学,2004,11(6):585-588.
+
+[2] ABUCAY J S,MAIR G C,SKIBINSKI D O F,et al.Environmental sex determination:the effect of temperature and salinity on sex ratio in Oreochromis niloticus L.[J].Aquaculture,1999,173(1/2/3/4):219-234.
+
+[3] AZAZA M S,DHRAiEF M N,KRAiEM M M.Effects of water temperature on growth and sex ratio of juvenile Nile Tilapia Oreochromis niloticus (Linnaeus） reared in geothermal waters in southern Tunisia[J].Journal of Thermal Biology,2008,33(2):98-105.
+
+[4] BARAS E,JACOBS B,MELARD C.Effect of water temperature on survival,growth and phenotypic sex of mixed (XX-XY) progenies of Nile tilapia Oreochromis nuoucus[J].Aquacuiture,∠UU1,1y∠(∠/5/4):18/-199.
+
+[5] 袁伦强,谢小军,曹振东,等.温度对瓦氏黄颡鱼仔鱼发育的影响[J].西南师范大学学 报,2005,30(2):312-315.   
+[6] 黄厚见.摄食水平、氨氮胁迫对梭鱼幼鱼生长的影响及其毒理效应研究[D].硕士学位论文.上海: 上海海洋大学,2012.   
+[7]JOBLINGM.Gastrointestinaloverload-aproblem with formulated feeds?[J].Aquaculture,1986,51(3/4):257-263.   
+[8] JENSEN A J.Growth of young migratory brown trout Salmo trutta correlated with water temperature in Norwegian rivers[J].Journal of Animal Ecology,1990,59(2):603-614.   
+[9] BARAS E,PRIGNON CGOHOUNGO G,et al.Phenotypic sex differentiation of blue tilapia under constant and fluctuating thermal regimes and its adaptive and evolutionary implications[J].Journal of Fish Biology,2000,57(1):210-223.   
+[10] SIERRA E,DIAZ F,ESPINA S.Energy budget of Ictalurus punctatus exposed to constant and fluctuating temperatures[J].Rivista Italiana di Acquacoltura,1999,34(3):71-81.   
+[11] PILDITCH C A,GRANT J.Effect of temperature fluctuations and food supply on the growth and metabolismofjuvenileseascallops(Placopectenmagellanicus)[J.Marine Biology,1999,134(2):235-248.   
+[12] MIAO S,TU S C.Modeling effect of thermic amplitude on growing Chinese shrimp,Penaeus chinensis (Osbeck)[J].Ecological Modelling,1996,88(1/2/3):93-100.   
+[13]田相利,董双林,吴立新,等.恒温和变温下中国对虾生长和能量收支的比较[J].生态学 报,2005,25(11):2811-2817.   
+[14] 董云伟,董双林,张美昭,等.变温对刺参幼参生长、呼吸代谢及生化组成的影响[J].水产学 报,2005,29(5):659-665.   
+[15]孙大江,曲秋芝,马国军,等.史氏鲟人工繁殖及养殖技术[M].北京:海洋出版社,2000.   
+[16] BRETT J R.Environmental factors and growth[M]//HOAR W S,RANDALL D J,BRETT J R.Fish Physiology.New York:Academic Press,1979:599-675.   
+[17] 白海文,张颖,李雪,等.温度对施氏鲟幼鱼摄食、生长和肠道消化酶活性的影响[J].中国水产科
+
+学,2012,19(5):799-805.
+
+[18] 宋超,庄平,章龙珍,等.不同温度对西伯利亚鲟幼鱼生长的影响[J].海洋渔业,2014,36(3):239-246.[I9]友丽井,刈晓男,潘鹏,寺.水温对施氏鲟、小体鲟和四伯利亚鲟幼鱼生长的影啊[J.水广字杀志,2014,27(4):15-22.
+
+[20]冯广朋,庄平,章龙珍,等.温度对中华鲟幼鱼血液生化指标的影响[J]).生态学杂 志,2010,29(10):1973-1978.   
+[21]田宏杰,庄平,章龙珍,等.水温对施氏鲟幼鱼消化酶活力的影响[J].中国水产科 学,2007,14(1):126-131.   
+[22] 冯广朋,庄平,章龙珍,等.温度对中华鲟幼鱼代谢酶和抗氧化酶活性的影响[J].水生生物学 报,2012,36(1):137-142.   
+[23] HUNG S S O.LUTES P B.Optimum feeding rate of hatchery-produced juvenile white sturgeon (Acipenser transmontanus):at $2 0 ^ { \circ } \mathrm { C }$ [J].Aquaculture,1987,65(3/4):307-317.   
+[24] HUNG S S O,LUTES PB,CONTE F S,et al.Growth and feed effciency of white sturgeon (Acipenser transmontanus) sub-yearling at different feeding rates[J].Aquaculture,1989,8O(1/2):147-153.   
+[25]FONTAINEP,GARDEUR J N,KESTEMONT P,et al.Influenceoffeeding levelon growth,intraspecific weight variability and sexual growth dimorphism of Eurasian perch Perca fluviatilis L. reared in a recirculation system[J].Aquaculture,1997,157(1/2):1-9.   
+[26]STOREBAKKEN T,AUSTRENG E.Ration level forsalmonids:I .Growth,survival,body composition,and feedconversion in Atlantic salmon fry and fingerlings[J].Aquaculture,1987,60(3/4):189-206.   
+[27] BALLESTRAZZI B,LANARI D,D'AGARO E.Performance,nutrient retention efficiency,total ammonia and reactive phosphorus excretion of growing European sea-bass (Dicentrarchus labrax,L.) as affected by diet processing and feeding level[J].Aquaculture,1998,161(1/2/3/4):55-65.   
+[28] 刘云,孔伟丽,姜国良,等.2 种免疫多糖对刺参组织主要免疫酶活性的影响[J].中国水产科 学,2008,15(5):787-793.   
+[29] ZHANG R Q,CHEN Q X,ZHENG W Z,et al.Inhibition kinetics of green crab (Scylla serrata) alkaline phosphatase activity by dithiothreitol or 2-mercaptoethanol[J].The International Journal of Biochemistry & Cell Biology,2000,32(8):865-872.   
+[30] GIESEG S P,CUDDIHY S,HILL J V,et al.A comparison of plasma vitamin C and E levels in two
+
+Antarctic and two temperate water fish species[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2000,125(3):37l-378.
+
+Effects of Different Ration Levels in Temperature Fluctuation on Digestive Enzyme,Metabolic Enzyme and Antioxidase Activities of Juvenile Amur Sturgeon (Acipenser schrenckii Brandt)
+
+ZHAO Zhigang LI Jinnan XU Qiyou LUO LiangWANG Chang'anWANG Liansheng (Heilongjiang River Fisheries Research Institute, Chinese Academy of Fishery Sciences,Harbin 150070, China)
+
+Abstract: The aim of this study was to investigate the efcts of different ration levels in temperature fluctuation on digestive enzyme, metabolic enzyme and antioxidase activities of juvenile Amur sturgeon (Acipenser schrencki Brandt). Two water temperatures were designed, one was constant temperature （204号 $[ ( 2 2 . 0 { \pm } 0 . 1 ) \ \textrm { \textdegree } ]$ and another was variable temperature $[ ( 2 2 \pm 2 ) \ ^ { \circ } \mathrm { C } ]$ . Six groups according to different ration levels were arranged, and they were constant temperature $100 \%$ satiation group (HW-10O group), variable temperature $100 \%$ satiation group (BW-1OO group)， variable temperature $90 \%$ satiation group (BW-90 group)， variable temperature $80 \%$ satiation group (BW-80 group)，variable temperature $70 \%$ satiation group (BW-7O group） and variable temperature $60 \%$ satiation group (BW-6O group). Juvenile Amur sturgeon with the average body weight of( $3 4 . 9 { \pm } 0 . 8 \$ ） $\mathrm { \bf { g } }$ were randomly divided into 6 groups with 4 replicates per group and 15 fish per replicate. The experiment lasted for 42 days. The results showed as follows: under the condition of temperature fluctuation, during $60 \%$ to $80 \%$ of ration levels,the protease activity of stomach and valvula intestine in was significantly increased with ration level decreasing （2号 $( P { < } 0 . 0 5 )$ . The protease activity of stomach and valvula intestine in BW-6O group and BW-7O group was significantly higher than that in HW-1OO group $( P { < } 0 . 0 5 ) \$ . Under the condition of temperature fluctuation, the amylase activity of duodenum and valvula intestine and the lipase activity of valvula intestine was firstly increased and then declined with ration level decreasing. The amylase activity of duodenum in BW-80 group was significantly higher than that in HW-1OO group and BW-1OO group $( P { < } 0 . 0 5 )$ ,and the amylase activity of valvula intestine in BW-8O group and BW-9O group was significantly higher than that in other groups ( $( P { < } 0 . 0 5 )$ . The lipase activity of valvula intestine in all variable temperature groups was significantly lower than that in HW-1OO group $( P { < } 0 . 0 5 )$ . The serum aspartate aminotransferase (AST)
+
+activity in variable temperature groups was significantly higher than that in HW-1Oo group $( P { < } 0 . 0 5 )$ Compared with HW-1OO group,the serum superoxide dismutase (SOD) activity in BW-6O group and BW-70 group was significantly declined $( P { < } 0 . 0 5 )$ . Under the condition of temperature fluctuation, the serum total antioxidant capacity (T-AOC) and xanthine oxidase (XOD) activity were firstly declined and then rose with ration level decreased from $90 \%$ to $60 \%$ , and the lowest values of them appeared at $80 \%$ ration level. Compared with HW-10O group, the serum T-AOC in BW-6O group,BW-70 group and BW-100 group was significantly increased $( P { < } 0 . 0 5 )$ , and the serum XOD activity in BW-6O group and BW-90 group was significantly increased $( P { < } 0 . 0 5 )$ . In conclusion，under the condition of periodic temperature fluctuation， juvenile Amur sturgeon can compensate the shortage of feed protein by increasing the activity of protease, namely increasing feed protein digestion effciency. All ration level in the temperature fluctuation condition can increase the serum ALT activity of juvenile Amur sturgeon compare with constant temperature $100 \%$ satiation.
+
+Key words: variable temperature; ration level; juvenile Amur sturgeon (Acipenser schrenckii Brandt); digestive enzyme; metabolic enzyme; antioxidase

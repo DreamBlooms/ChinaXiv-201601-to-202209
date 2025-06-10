@@ -1,0 +1,634 @@
+[
+    {
+        "type": "text",
+        "text": "Transcriptome profiling of esophageal squamous cell carcinoma reveals a long noncoding RNA acting as a tumor suppressor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guifeng $\\mathbf { w } \\mathbf { e } \\mathbf { i } ^ { 1 , 2 , * } .$ ，Huaxia ${ \\mathbf L } { \\mathbf u } { \\mathbf O } ^ { 1 , 2 , * }$ ， Yu Sun1,2,\\*， Jiagen $\\mathbf { L } \\bar { \\mathbf { l } } ^ { 3 }$ ， Liqing Tian1，Wei Liu1,2,Lihui Liu1,², Jianjun Luo1, Jie ${ \\mathsf { H } } { \\mathsf { e } } ^ { 3 }$ and Runsheng Chen1,4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatics Laboratoryand CAS KeyLaboratoryof RNA Biology,Institute of Biophysics,Chinese Academyof Sciences,   \nBeijing，China   \n2 Universityof Chinese Academy of Sciences,Beijing,China   \n3Departmentof Thoracic Surgery,Cancer Instituteand Hospital，Chinese Academyof Medical Sciencesand Peking Union   \nMedical College,Beijing,China   \n4 Research Network of Computational Biology, RNCB,Beijing, China   \n\\*These authors have contributed equally to this work   \nCorrespondence to: Runsheng Chen, email: crs@sun5.ibp.ac.cn Jie He,email: prof.hejie@gmail.com   \nKeywords: ESCC, long noncoding RNAs,tumor suppressor,metastasis, Epist   \nReceived: March 16,2015 Accepted: May 02,2015 Published: May 19,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thisisanopen-accessarticedisributedunderthtrmsoftheCreativeCommonsAtributionLicense,whichperitsunrestricteduse distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Esophageal Squamous Cell Carcinoma (EScC) is among the most common malignant cancers worldwide. In the past, extensive efforts have been made to characterize the involvement of protein-coding genes in ESCC tumorigenesis but few for long noncoding RNAs (IncRNAs). To investigate the transcriptome profile and functional relevance of IncRNAs, we performed an integrative analysis of a customized combined IncRNA-mRNA microarray and RNA-seq data on ESCCs and matched normal tissues.We identified numerous IncRNAs that were differentially expressed between the normal and tumor tissues, termed \"ESCC-associated IncRNAs (ESCALs)\",of which,the majority displayed restricted expression pattern. Also,a subset of ESCALs appeared to be associated with ESCC patient survival. Gene set enrichment analysis (GSEA) further suggested that over half of the ESCALs were positively- or negativelyassociated with metastasis. Among these, we identified a novel nuclear-retained IncRNA, named Epist, which is generally highly expressed in esophagus,and which is down-regulated during EScC progression. Epist over-expression and knockdown studies further suggest that Epist inhibits the metastasis,acting as a tumor suppressor in ESCC. Collectively, our analysis of the ESCC transcriptome identified the potential tumor suppressing IncRNA Epist, and provided a foundation for future efforts to identify functional IncRNAs for cancerous therapeutic targeting. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Human esophageal cancer is one of the most deadly cancers,ranking as the sixth leading cause of cancerrelated deaths worldwide [1]. In China,esophageal squamous cell carcinoma (ESCC) is the major subtype of esophageal cancer,accounting for over $90 \\%$ of the cases [2].Despite improvements in diagnostic techniques and therapeutic modalities,ESCC still remains a devastating malignancy, mainly due to the late diagnoses and the aggressive features of the disease.As with other cancers, the pathogenesis of ESCC appears to result from the dysregulation of protein-coding and noncoding genes involved in a number of vital functions such as cell cycle control,cell differentiation,cell migration，invasion and other cancer-related pathways.Recent studies of ESCC cell lines and clinical samples have suggested that epigenetic silencing,e.g.DNA methylation, of key tumor suppressor genes is critical to the initial and progressive steps of ESCC[3,4].However, the detailed mechanisms leading to ESCC have not yet been fully elucidated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Identification of aberrantly expressed coding genes as well as noncoding RNAs may be crucial steps for both the diagnosis of ESCC and subsequent personalized treatment. Recently,a number of protein-coding genes,such as PTK6 and Rab25,have been identified as having tumor suppressor activity through modulating different signaling pathways [5,6].High levels of DNA methylation at the promoter regions of these genes in ESCC cell lines are common observations [3]. Several microRNAs have also been linked to various aspects of ESCC,such as promotion of cell migration and invasion (microRNA-25) or reduction of the cell cycle $( m i R – 2 9 c )$ ，thus being potential biomarkers of this disease [7, 8]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Long noncoding RNAs(lncRNAs) are identified asnon-protein-coding transcripts,which are longer than 200 nt and are often spliced, $_ { 3 } ,$ -polyadenylated and have a 7-methylguanosine cap at $5 ^ { \\circ }$ -terminal. LncRNAs are believed to be implicated in diverse biological processes and disease-related pathways in both vertebrates and invertebrates,controlling the aspects of processes such as cellular proliferation, development, lineage commitment, immune response,pluripotency and differentiation [9-13]. The identification of lncRNAs has expanded our notions of the transcriptome complexity and gene regulatory network.Although many efforts have been made to annotate the lncRNAs encoded in the human genome, the functions of most lncRNAs are still uncertain.And only a few dozen of the lncRNAs have been well characterized to date.For example,HOTAIR [14] and ANRIL [15] facilitate gene repression through recruiting the Polycomb Repressive Complex 2 (PRC2) to change the epigenetic state of their target genes, the megamind and cyrano lincRNAs play essential roles in the organogenesis of zebrafish embryos[11],and the lincRNA,Fendrris involved in the regulatory networks controlling the fate of lateral mesoderm derivatives [16]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent years, accumulating evidence have suggested that an increasing number of reports have shown that lncRNAs play key roles in cancer and diseases [17-20]. Studies have associated the aberrant expression of lncRNAs with the tumor progression or metastasis, for example,PCAT-1 and SChLAP1 in prostate cancer [17,18],HOTAIR in breast [20] and colorectal cancer [21].However, there are still no comprehensive reports focusing on the functional roles of lncRNAs in ESCC. Very recently,an expression profile study on a large cohort ofESCC patients revealed an association between lncRNA expression level alterations and the clinical outcome for ESCC patients [22].Besides,other studies have indicated that lncRNA expression shows higher tissue-specificity than that of protein-coding gene [23], suggesting that lncRNAs may have advantages as biomarkersfor ESCC.Thus identifying ESCC related lncRNAs and their functions might provide valuable insights into the pathogenesis of ESCC as well as potential biomarker candidates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we implemented the integrative analysis of the long noncoding transcriptome of ESCCs and patient-matched normal specimens using a customized microarray and public RNA-seq data, thereby identifying a number of transcripts differentially expressed in normal and tumor tissues. Furthermore, we systematically assessed the tissue specificity of the lncRNA expression and its association with patient survival.Also, the GSEA method was applied to analyze the involvement of the ESCC associated lncRNAs in three biological processes (cell cycle, metastasis and apoptosis). Finally,we experimentally validated the functional role (metastasis) for one of the ESCALs,termed Epist,which acts as a tumor suppressor in ESCC tumorigenicity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The long noncoding transcriptome profile of ESCC ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Esophageal Squamous Cell Carcinoma (ESCC) is one of the most deadly forms of cancer across the world. In order to investigate the relationship between lncRNAs expression and ESCC,we reanalyzed the microarray data from pairs of ESCC and matched surrounding normal tissues of 119 patients [22] in combination with RNA-seq datasets [5,6] (see Materials and Methods for details).We re-annotated the probes in the original microarray data (Figure S1A),and the result being that 11629 lncRNAs were interrogated by one or more unique probes (see Li et al.[22]; Materials and Methods; Table S1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Compared with protein-coding genes, the expression levels of lncRNAs were markedlylower in ESCC tissues 0 $\\dot { p }$ -value $< 2 . 2 \\mathrm { e } { - 1 6 }$ ; Figure 1A). The expression of most $( \\sim 9 0 \\% )$ of the annotated lncRNAs was also extremely low or not detected in the RNA-seq data (GSE29968). Specifically, $12 . 5 8 \\%$ （1745)of the 13870 GENCODE (v19) annotated long noncoding RNAs were detected, and similarly,only $6 . 0 7 \\%$ (498) of 8195 lincRNAs from Cabili et al.[23] were detected.By contrast,approximately $70 \\%$ of the RefSeq genes were robustly detected. These differences are in accordance with previous reports that the expression levels of lncRNAs are generally lower than those of protein-coding genes [23] (Figure 1B-1C). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, the $R a b 2 5$ and PTK6 genes were identified as tumor suppressors in ESCC,and these two genes were markedly down-regulated in ESCC tumorigenesis bothin previous [5,6] and in this study (Figure 1B). Next,we called the aberrantly expressed protein-coding genes across this cohort of ESCC patients (Materials and Methods; Table S2),and Gene Ontology enrichment analysis of protein-coding genes with aberrant expression in ESCC and normal tissues indicated that a number of biological processes were enriched, such as cell cycle, epithelial cell differentiation (Figure S2). Similarly, there were also numerous lncRNAs that were markedly up- or down-regulated during the ESCC progression (Figure 1C).To further investigate this,we integrated the above microarray and RNA-seq data to interrogate the differentially expressed lncRNAs between ESCC and adjacent normal esophageal tissues. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b29c3ed773f129651ebb347784aba3becbfa2e9079863cff5b39706e33b0a39.jpg",
+        "img_caption": [
+            "Figure 1:Transcriptome analysis of long noncoding RNAs in esophageal squamous cell carcinoma (ESCC).A. DistributionoftheexpresionlevelsoflongnncodigRNAs(d)andproteinodiggenes(blue)representedinteombindmcoaay Dashedlines indicates teaveragevalue(.799forcRNAand.963forproteincodinggenes).B,C.Thedensityplotoftheabudance of protein-codinggenesB.andlncRNAsC.(log2-RPKMdeterminedbyCufinks)intheRA-seqdata.Severalrcentlyidentifedtuor suppressorgenes (K6,Rab2)andlcRAstatweredierentiallyexpresedetweenESCCndajacentnoaltisuesareindicated. D.TheCircos plot showing genome-wide diferential expresionoflong noncoding RNAs (930probes）and mRNAs (3220 probes) betweenESCCsandmatcednoaltisus.TheouterandinertracksindicatethelRNAsandmAsspectively(redupgulted; blue,down-regulated).Theheightsofthebars indicatefolddiferences.E.Thebarplotshowsthebiotypefractionofgenome-scale microarrayasedderentiallxprseds(ngitegeiccdig,Antisee,seovrapndothotys). F.Thevolcanoplotsowingallthe IncRAprobesassayedinthemicroarrayandthediferentiallyexpresedlncNAs (ESCAs)are indicatedbytheeddots.(TheaosuggestsEpist).G,H.QuantitativeRT-CRanalysisofsevralselectedESCALsincelines.G. Down-regulatedESCALs(LOC_02538,NR_02438andN33961);H.Up-regulatedESCALs (LOC_004273,EN0000478294 andHOTAIR).Ht-isammrtaliedoalopagealhelialcellie;TE-1C9,KE10dKE4reCcel lines.Error bars,S.E.M. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LncRNAs are differentially expressed in ESCC relative to adjacent normal tissues ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TodeterminehowmanylncRNAswere differentially expressed and have the potential roles during the cancer-related processes, the expression detected at each lncRNA probe was screened by a stringent criterion (asdescribed inMethods).Therefore,of the13589 probes interrogating lncRNAs,930 probes (representing 827 lncRNAs)were considered significantly differentially expressed in the microarray analysis,including 341 and 589 probes showing up-regulated and down-regulated expression, respectively (Figure 1D-1F).The differentially expressed lncRNAs corresponding to these probes were termed as“ESCC associated lncRNAs (ESCALs)\". And most of ESCALs belong to groups on lncRNAs previously annotated“lincRNAs\"and “antisense RNAs\" (Figure 1E).To further confirm the observed differences inexpression,werandomly selectedasubsetofESCALs and used qRT-PCR to determine their expression levels in an immortalized normal esophageal epithelial cell line (Het-1A) and in several ESCC cell lines (Figure 1G-1H). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Besides,we also explored other two public RNAseq data to profile the long noncoding transcriptome of ESCC and adjacent normal tissues (Figure S3A). Given the characteristics of the RNA-seq data,we adopted distinct methods for calling the differentially expressed genes (Document S1 and Figure S3).And the differentially expressed genes called by these two RNA-seq datawere shown in Table S3.Inaddition,we also searched for novel transcripts and fusion transcripts,the methods and results were stated inDocumentS3 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AberrantlyexpressedIncRNAs(ESCALs)across human cancers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next,we asked whether the identified ESCALs have tissue specific expression patterns,or potential to be as biomarkers.To this end we conducted the analysis of comparing the ESCALs with the lncRNAs expression profile in diverse cancers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We interrogated the transcriptional profile among 64 archived human cancers comprising 17 diagnostic subtypes of squamous cell carcinomas (head and neck, lung，except esophagus)，adenocarcinoma as well as sarcomas [19]. Only190 $( \\sim 2 3 \\% )$ out of the 827 ESCALs were expressed as assessed by 3SEQ( $3 ^ { \\prime } { \\mathrm { . } }$ -End Sequencing for Expression Quantification) in these tumor samples,and even a smaller fraction(112, ${ \\sim } 1 3 . 5 \\% )$ of theESCALswere also observed as differentially expressed across the panel of assayed tumor samples (Table S4A-B).One particular case is the lncRNA,MALAT-1 [24],which is generally among the most highly expressed lncRNAs.MALAT1 shows no marked differences in expression between tumors and normal surrounding tissues,suggesting that this lncRNA is not associated with the tumorigenicity of ESCC. The same applies to some other well-characterized lncRNAs, such as ANRIL [15]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wealsointersected the ESCALs withthe LncRNADisease database [25],which has collected and curated hundreds of lncRNAs associated with diverse human diseases.However, only 19 long noncoding RNAs from the LncRNADisease were found among the ESCALs, these includingseveral lncRNAs suchasHOTAIR,PVT1, $H l 9$ and GAS5 that have been reported to be dysregulated in multiple human cancers.Among these, the expression of $H I 9$ and HOTAIR was validated in the Het-1A and ESCC cell linesby qRT-PCR.HOTAIR,binds physically to the chromatin modifying enzymes PRC2 and LSD1 to reprogram the chromatin state and further promote cancer metastasis in breast cancers [2O] and colorectal cancers [21],also exhibits oncogenic activity in ESCC [26]. Interestingly, two long noncoding RNAs associated with barrett’s esophagus or squamous carcinoma,AFAP1-AS1 and UCA1,respectively, were also included. There may be some suggestions that these lncRNAs play the similar functional roles in ESCC tumorigenesis as previously reported (Table S4C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All the results indicated that the majority of ESCALs showed restricted expression patterns to esophagus epithelial cell or esophageal squamous cell carcinomas (ESCC) and there may be other uncharacterized lncRNAs important during the ESCC progression. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LncRNAs expression and ESCC patient survival ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our previous study identified a three-lncRNA signature,which might serve as a new biomarker for the prognosis of ESCC patients [22]. To further explore therelationship between the expression levels of certain lncRNAs and the survival time of ESCC patients,we performed a log-rank survival analysis for every coding and noncoding probe assayed in microarray (Materials and Methods; Table S5).A total of1122 probes showed significant association with ESCC patient survival, including the mRNA,Rab25[6] andlincRNA,HOTAIR [26] previously reported from other groups based on different cohorts of ESCC patients (Figure 2A).Among the 827 ESCALs,41 were significantly (log rank test, $p$ -value $< 0 . 0 5$ ）associated with the survival of ESCC patients. Of which,11 were up-regulated and 30 downregulated in tumor tissues.Figure 2B-2D showed the Kaplan-Meier survival curves across the 119 ESCC patients for the up-regulated HOTAIR and two downregulated ESCALs (linc-TMEM106A and LOC645638). Collectively, this suggests that the expression levels of lncRNAs can also be used for survival prediction of ESCC patients. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Expressionof IncRNAsisassociated with metastasis, cell cycle and apoptosis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is well described that, deregulation of cell cycle, apoptosis and metastasis are critical in tumorigenesis. However, little is known about how and how many lncRNAs are involved in these biological processes.To try to address this question,we applied gene set enrichment analysis(GSEA） to evaluate the potential association of the ESCALs in cancerous biological processes(cell cycle,apoptosis,metastasis),using the relative difference (foldchange） in lncRNA expression ( $\\Delta \\mathrm { E } = \\mathrm { T } \\cdot \\mathrm { N } ,$ and correlation with that of protein-coding genes (Materials and Methods;Table S6).To assess the validity of the predicted functional associations,we examined the enriched gene setsfor the lncRNA,HOTAIR.TheGSEA result showed that HOTAIR positively correlates with the metastasis gene sets(Figure 3A,3C),which is consistent with the known properties of promoting metastasis [20]. Consequently,we found that more than half of the probes representing ESCALs(475 out of 930 probes） were functionally associated with metastasis,and one third associated with cell cycle processes,while only $\\sim 1 5 \\%$ with apoptosis (Figure 3B-3C).Thus,in all ${ \\sim } 8 7 \\%$ of the ESCALs may be involved in one or more cancerous pathways, while ${ \\sim } 1 3 \\%$ of them could not be associated with any of these three biological processes,indicating they may be involved in other processes of tumorigenesis such as tumor growth pathway. Taken together, these results indicate that the ESCALs may play critical roles during the ESCC tumorigenesis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Molecularcharacterization and expression pattern of Epist ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To explore the functional significance of lncRNAs in ESCC，we focused our attention on a number of ESCALs which were relatively highly expressed and forwhich GSEA suggested associations with a specific biological function.For these ESCALs,we calculated a tissue-specificity score and identified one transcript which wassignificantly $> = 2$ -fold) down-regulated in the tumors in almost all patients (107/122, ${ \\sim } 8 8 \\%$ (Figure 4A-4Cand Figure 1F),and which was specifically highly expressed in normal esophagus epithelial cells indicated by the RNAseq data (Figure 4G) and epigenetic landscape [27] (Figure S4).Then we termed this transcript, esophagus epithelial intergenic specific transcript,or Epist.Performance of ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/96f7626e50823ce62d1288448166bcf4fe8e8537dde49df405155867bb955c71.jpg",
+        "img_caption": [
+            "Figure2:Long noncoding RNAs associated with survival timeofESCC patients.A.The workflowof screening the mRNA andlncRNAprobsseexpressnlevelssociatethsurvialtieofCCpatnts,sescedinetods.B,CD)eels showthe Kaplan-Meier survival curves forthree incRNA examplesof them.HOTAIR,linc-TMEM106Aand LOC645638. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$5 \\mathrm { ^ { \\circ } - }$ and $3 ^ { \\circ }$ -RACE and Northern Blot determined Epist as an ${ \\sim } 6 0 0$ nt long transcript,originating from a locus of approximately $1 \\mathrm { k b }$ in chromosome 5.Additionally,3SEQSeq analysis further showed that a poly-A signal occurred at ${ \\sim } 4 . 5 \\mathrm { k b }$ upstream of the neighbouring protein-coding gene,PITX1[19].Although the transcriptional orientation of Epist is the same as its nearby genes,the RACE results and the presences of a poly-A signal indicated that Epist is an independent transcription unit rather than the extension of $5 ^ { \\circ }$ -UTR of PITX1.Also,we used the Cufflinks and Trinity software to assemble the gene structure of Epist. Both the computational and experimental results suggested that Epist is an approximately 6oO-nt transcript consisting of two exons (Figure 4D-4E). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To characterize the functional relevance of Epist, we firstly addressed whether the transcript is indeed noncoding.The computational analysis of coding potential suggested that the Epist sequence has a very low coding potential (Document S2). Secondly, isolation of the nuclear and cytosolic fractions of TE-1 cell showed that the Epist transcript was mainly located in the nucleus (similar to that of U1,Figure 4F). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Further, we examined the expressional relationship between Epist and PITX1.The expression of Epist was highlycorrelated $( \\mathrm { R } { = } 0 . 9 5 )$ with that ofPITX1 across the cohort of ESCC patients (Figure 6A),indicating that there is an underlying connection between Epist and PITX1. However,we observed that knock-down of Epist could not significantly alter the expression of PITX1,and vice versa (Figure 4H-4I).These results showed that Epist does not directly regulate the transcription of PITX1 and vice versa,suggesting that Epist may exert its function in trans. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Epist inhibits migration and invasion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the above GSEA result, genes that are expressionally correlated with Epist are also enriched for functions related to metastasis discovered bythree independent studies (Figure 5A-5B;Materials andMethods;Figure S6A).Also,the previously downregulated gene set of esophageal cancer (MSigDB) was significantly enriched inEpist-positively-associated genes [28] (Figure 5C).To study this further,we performed the transwell migration assays using the KYSE3O cell line, which has a higher expression of Epist than other cell lines (Figure 4C).The results showed thatknock-down of Epist lead to an increased number ofcells migrating through the membrane (Figure 5D).Next,we established a KYSE30 cellline which stably over-expressed the Epist lncRNA (Materials and Methods;Figure S5). Overexpression of Epist in theKYSE30 cells markedlyreduced the effect of the migration as assessed by the transwell migration assay (Figure 5G).Analysis of the expression of EMT marker genes E-cadherin,N-cadherin in mRNA by qRT-PCR and western blot also supported the above results (Figure 5I, 5J).Meanwhile,we also performed the transwell invasion assays in the loss-of-function and gain-of-function of Epist inKYSE3O cells (Materials and Methods).The invaded results were similar to those of transwell migration assays (Figure 5D-5G). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Additionally, it is well-established that TGF- $\\beta$ could promote cancer metastasis through its efforts on the tumor microenvironment [29].Accordingly,we observed that the expression level of Epist was also decreased when the cells was treated by TGF- $\\beta$ (GSE54797) [30] (Figure 5H). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asathird line of investigation, the MTT assay was applied to measure the growth rate ofKYSE3O cells over",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Probes Representing ESCALs Metastasis   \nA B C gebee cromer cell_cycle apoptosis 302 JAEGER_METASTASIS KEGG_Cell_Cycle 春 HOTAIR 75 pos 149 neg 198 51 56 200:d H0rbr grs 338 120 Probes KEGG_Apoptosis 58 30 20 pos 99 neg 43 一Epist   \nRICKMAN_METASTASIS CROMER_METASTASIS pos HNSCC HNSCC neg■ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "expressing Epist. The results showed that over-expressing cell had a lower growth rate than controls (Figure 5K), indicating that Epist inhibited ESCC cell proliferation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Epist functions as a tumor suppressing lncRNA in ESCC ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next,to address how Epist inhibits the ESCC tumorigenesis, we firstly examined the expression between Epist and PITX1 target genes. According to the previous genetic screening report, PITX1 suppresses tumorigenicity by down-regulating the RAS pathway (oncogenic signaling pathway） through RASAL1 [31]. Thus,we calculated the correlation between the expression levels of RASAL1 and Epist in the cohort of 119 ESCC patients.Consequently,we observed that Epist expression positively and significantly correlated with RASAL1 (Figure 6A).Furthermore, siRNA-mediated knock-down of either PITX1 or Epist produced similar effects on the expression level of RASAL1 in TE-1 cell line (Figure ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8253c43e992a1af58821fc703fd2f5a1f62d772cd50a9e140597ba0d5c7cb98d.jpg",
+        "img_caption": [
+            "Figure4:Genomicfeaturesand expressionpatternofEpist.A.,B.,C.The expressionofEpistintumortissuesorcancercel lineswasdeeadmpadtaeoalsoaglieialellpecelyseatar dataased11CCpdtissCImortaldolesogealpielialcelie (Ht-)ndseveralCCcels-1, KYSE510,KE45,E30C109).D.omicaturesofEpistACEandityesultsaresoeSEQPracisro Bruneretal.[19].E.NorthBlotofEpist intotalRNAsfromHet-1Acelsorblankcontrol.F.Cellarfractionationwasperfoed inTE-1cels follwedbyRNAisolationandqT-CR,emonstratesthatEpistisanuclear-retainedlincRNA.GAPDHandACTBare cytoplasmiccontrolandU1serversasthenuclearcontrol.ErorbarsindicateS.E.M.GRNA-sqabundanceestimatesacrospanel ofadultumantisues.Thedatawereretrievedfromhumanbodymapproject.FKM,fragmentsperkilobasesoftranscriptperilion mappedreads.Thedashlinesdenote theesophagealtisses.(HI)siRNA-mediatedknock-downofPTXlandEpist.H.Knockdown ofPITXlshowsnosignificantimpactontheexpressonofEpist.IKnockdownofEpistleads tonoremarkablealterationofPIXl expression. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/baf8d38e4329b34d03d67d663c8fdf4263e952570df5d265ea42ce1d6e2b2e63.jpg",
+        "img_caption": [
+            "Figure 5:Epist inhibitsmigrationand invasion proceses.A.,B.Epist-correlated genesare enrichedinthegenesignatures of metastasis fromJaegeretal.andRickmanetal.C.GSEAresultshows Epist-correlatedgenesenrichedin thegenesetofpreviously identfeddiferetiallyexpredgensinsopausanceDReprestativeimagesoftrasellmgation(top)andinvasionotto) asays insiRNA-mediatedknock-downofEpist.E.Thebarplotshowed thesummaryof tenumberofmigrated(left)andinvaded(right) cels perfeld.FRepresentativeimagesof transwellmigration(top)andinvasion(ight)assys inKYE30celsstablyoverexping Epistorcontrolvectorsequence.G.Thebarplotshowedthesummaryofthenumberofmigrated(left)andinvaded(rigth)cels.HEpist was down-regulated in the TGF- $\\cdot \\beta$ -treated cels (GSE54797).I.,J.The mRNAs I.and protein levels J.of several EMTmarkers (E-cadherin, N-cadherin,Vimentin)aftersiRNA-mediatedlos-of-functionofEpistinKYSE30celline.K.Comparisonofthecellproliferation measured by MTS assay for KYSE3O overexpressing Epist orcontrol vector cellines.All these data show the mean $\\pm \\mathrm { \\ S . D }$ .from three independent assays. Statistical significance was determined by Student's $t$ test. $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6B).PITX1 has also been identified as a suppressor of telomerase reverse transcriptase (TERT) in tumorigenesis [32].Up-regulation of TERT is a key component of the transformation processes in many malignant cancer cells.We therefore examined the expression of TERT in KYSE30 cells after knock-down or over-expression of Epist and found they led to up-regulation and downregulation of TERT level, respectively (Figure 6C-6D). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a29d92647a820181a59389d4fee99ba8908d88fab9a4cd2cfd31aed1bd269135.jpg",
+        "img_caption": [
+            "Figure 6:Epistacts asa tumorsuppressorduring ESCCtumorigenesis.A.Scaterplotshowing theexpressional elationship among Epist,PITX1andRASAL1.RASAL1 isoneof thedownstreamtargetsof PITX1.Theuperrightsquares show the Pearson corelationvaluesbetwenachoter,andlowerleftsquaresshowthescaterplotmatrixndftedexpressionaltrendlinsforthe samecomparisons.Theblack circleandtheredtrianglerepresenttheexpresionscore intumortissuesand matchednormaltissues, respectivelyTedagoalsows teexpressiondistribtionacrossth9SCCpairedtisss.B,C.si-mediatedlooffuctin ofEpistesultsinteexpresioalteratioofX1-trgetgnes,RAAL1inTE-1cell.andTERTinKYE30cellCKE30 stablyoverexpressingpistcellinesowssigniantlyeducedexpressnlevelofRTtancontrol.E.Hatmapoftheieretialy expressed genesrevealedbymicroaraybasedanalysisbetweentheKYSE30celsoverexpressngEpistandcontrolRNAs,icluding95 and9dow-anduprgulatedgnes,espctivelyFevanoplotsosthexprssoalateratiosofallaotatedgse andbluepointspresntteu-ddowrelatedges,esptivelydorespdngalsosdseralpriouslyted cancer-asSociated genes(Up-regulated: FAT3,CALRDown-regulated: VIM,GATA6,DDI3,HERC2,UPP1,10OP,IFI1,HOX2, PTPRM,CAPN12).G.Theselected genesets from theGSEAanalysis.Theyaxis represents te normalized enrichmentscoreand the relative circular area represents the significant level (-loglO(Nominal $p$ -value)). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Besides,we performed the microarray analysis to determine which genes’expression was altered by overexpressing Epist through comparing thegene expression profile between KYSE30-overexpressingEpist cellsand controls,thusidentified 95 and99downregulated and up-regulated genes, respectively (Figure 6E)．Expression levels of several previously reported genes implicated in cancer development and progression were altered,such as DDIT3，GATA6，UPP1,FAT3 (Figure 6F). These genes are involved in tumorigenesis through diverse mechanisms.In addition,the GSEA results also revealed plenty of biological processes were changed upon Epist overexpression (Figure 6G). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Collectively,all these results indicated that Epist acts as a tumor suppressor in ESCC tumorigenesis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Search for novel lincRNA transcripts and gene fusions in ESCC ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In contrast to microarrays,RNA-seq can be employed to identify the novel transcripts across the genome.We used the single-end RNA-seq data (GSE29968) to identify novel lincRNA candidates according to the pipeline described in Materials and Methods (Figure S1B),and identified 31 novel lincRNA candidates (Table S7).The expression profile of these novel lincRNAs across the 3 ESCC paired tissues are given in Table S7. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Also,RNA-seq data can be used to find the gene fusions and hasalready led to the discovery of several gene fusions in some cancers[33], such as the BCR-ABL1 fusion in K562 cell line.We employed the above RNAseq data to detect expressed gene fusions.However, no recurrent gene fusions were identified in these data. The depth of the RNA-seq data we analyzed is comparable to that in a work identifying recurrent rearrangements of CIITA in Hodgkin lymphoma cell lines [34]. On the other hand, gene fusions were neither detected in an analysis on the Sézary syndrome [35].Although we do not observe the gene fusions in ESCC,we still cannot rule out the possibilities that the fusion transcripts exist, such as the heterologous gene linking to an oncogene. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The human genome encodes a large number of lncRNAs that are dynamically expressed across different developmental stages, that show highly tissue-, differentiation- and lineage-specific expression patterns, and that are implicated in diverse biological processes [36].To date,a considerable number of lncRNAs have been identified and demonstrated to play important roles in many human cancers [17,19]. In addition, the progress of high-throughput technology in recent years,such as microarray and RNA-seq,has made it much easier to profile the noncoding transcriptome than before. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LncRNAs are extensively dysregulated in ESCC tumorigenesis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The work presented here investigated the differences in the long noncoding transcriptome profle between the esophageal squamous cell carcinoma and adjacent normal tissue using both microarray and deep RNA-seq data. The study identified several hundred ESCC-associated lncRNAs (ESCALs), the majority of which had previously not been reported to implicate in tumor progression. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Althougha large number of lncRNAs have shown to be involved in diverse biological pathways，the molecularmechanismsbywhichmostlncRNAsactare still not clearly understood. One of the emerging themes of lncRNA is controlling of gene expression. There are a number of lncRNAs reported to play gene regulation roles through recruiting chromatin modifying complexes [37], such asHOTAIR and the PRC2 complex[20] and HOTTIP and the WDR5/MLL complex [38]. Some lncRNAs are also function through guiding transcription factors to their downstream targets,such as Paupar with PAX6 [39] and THRIL with hnRNP-L [40]. In ESCC cancer cell lines,Epist functions as a tumor suppressor via affecting the expression levels of a number of cancer-associated genes (Figure 6E,6F).Although Epist apparently does not affect the expression of PITX1,we have shown that Epist mayregulate the expressionlevels of atleast two genes (RASAL1, TERT), targets ofPITX1.However, we observed the facts that Epistand PITX1 are coordinately activated,perhaps they are co-located and share the upstream regulatory elements, thus co-expressed (Figure 6A).However,we did not detect physical interaction between Epist and PITX1 (data not shown). The detailed molecular mechanisms of Epist exerts are still needed to further investigate. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There are several ESCALs showing fold difference greater than $+ / - 2 0$ . Of which,CASC9 (Homo sapiens cancer susceptibility candidate 9,LINCoo981) has been recently validated in other cohorts of ESCC patients and reported to play the oncogenic roles in ESCC[41]. LOC645638 is another example of ESCAL that was detected down-regulated markedlyinallthree datasets ( ${ \\sim } 5$ fold).Moreover, this lncRNA was significantly associated with the ESCC patient survival (Figure 2D) and,like Epist,was also inferred to have biological relevance to metastasis and cell cycle processes (Table S6).A recent report has shown that LOC645638 (lnc-DC)，which is exclusively expressed in human conventional dendritic cells,promotes the phosphorylation of STAT3 Y705 by preventing STAT3 binding to and dephosphorylation by SHP1 [42].Future studies should be addressed whether this lncRNA has tumor suppressive activity,and if so, whether these mechanisms are important in this aspect. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Inferring the biological functions of lncRNAs with paired tissues data ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One of the major challenges concerning the study of lncRNAs is to determine their biological functions.Here we used the GSEA tool to predict the biological roles for the lncRNAs in ESCC paired tissues data through the “guilt-by-association” method [9]. For this purpose, the fold difference in expression ( $\\Delta \\mathrm { E } = \\mathrm { T } - \\mathrm { N } ,$ in tissues (and not the expression value itself) was assigned to each probed lncRNA and protein-coding gene.Because the genomic landscape in ESCC was similar to that in head and neck squamous cell carcinomas (HNSCC), two metastatic gene signatures applied to HNSCC were used [43].The correlation between lncRNAsand mRNAswas computed based on the fold difference values.The fold difference may reflect transcriptional responses in the generegulatorynetwork.Aberrantly expressed HOTAIR previously reported to promote metastasis,was taken as a positive control [2O]. Our work here is the first report to establish the utility of paired tissues data to infer functional roles of lncRNA in cancerous pathways. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Epist mayplay critical roles in development and differentiation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Recent efforts have shown that lncRNAs have higher tissue-specificity and less conservation than those of protein-coding genes [36]. In accordance with this notion,Epist is highly expressed in the esophagus(and to some extent in the prostate and colon).Epist is also not appreciably conserved in vertebrates,although it appears to be conserved among primates,indicating of a more recent evolution (Figure S7). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Besides,the GSEA results suggested that among the genes,which were positively correlated with Epist in the microarray data, there were significantly enriched for genes belonging to the epithelial differentiation module (Figure S6B).Also, the bivalent domain (a chromatin region markedby both the active mark,H3K4me3 and the repressive mark,H3K27me3）[44] occurs at the promoter regionof Epist and PITX1 in theH1-hESC cell line (ENCODE ChIP-seq data) (Figure S6C).Bivalent domains were proposed to represent a state in which the developmental and differential genes in ES cells are silent while at the same time being kept poised for activation [44].Previously,lncRNAFendrr,which controls the cell fate of lateral mesoderm [16] and in lung development [13],also possesses a bivalent domain in ES cells,and available ChromHMM data also showed signs of the poised promoter state at the Epist locus in diverse cell types.PITX1 has been reported to plays critical roles in specifying hindlimb morphology [45],thus,taken together,we may further postulate that bivalent chromatin marks Epist having essential roles in development and differentiation similarto thoseofPITX1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Further investigation should address the functional significance of other ESCALs in order to elucidate the detailed mechanisms by which they exert. The application of recently developed technologies to capture the chromatin binding profile of ncRNAs on a genome scale,such as chromatin isolation by RNA purification (ChIRP) [46] and RNA antisense purification (RAP) [47], will probably contribute to unveil the detailed molecular mechanisms of how lncRNAs control gene expression and chromatin state. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study on a Chinese patient group has yielded new insights into the pathogenesis of ESCC,providing evidence that long noncoding transcripts may be regulators of tumorigenesis.Further work on the detailed mechanism by which lncRNAs act will be important for understanding how these transcripts may affect disease or cancer states and could provide key insights into therapeutic targeting. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Microarray and RNA-seq data analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The transcriptome profiles for 119 pairs of ESCCs and patient-matched normal tissues,were measured by the combined mRNA $^ +$ lncRNA V2.0 microarray on an Agilent platform.The microarray data had previously been deposited on the Gene Expression Omnibus,under accession number GSE53625.Data processing was similar to our previous work [22]. Briefly, for the noncoding RNA probes,we established a probe map for mapping the probe sequences uniquely to the long noncoding RNA collections (GENCODE v19,UCSC $\\mathrm { N R ^ { * } }$ transcript and Cabili M.N.et al.[23]).Median values were used for multiple probes corresponding to the same noncoding gene. Quantile normalization, and imputation for missing values using a KNN-based method were processed in R.For calling of differentially expressed genes,the fold differences $( > = 2 )$ ,FDR $( < 0 . 0 0 1 )$ and average expression were used (the probed transcripts were discarded, if both normal and tumor values were less than the average value across the samples.The average expression value is 6.799 for lncRNA and 9.963 for protein-coding gene,shown as the dash lines in Figure 1A).For the Gene Ontology enrichment analysis, the DAVID webserver [48] was used. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The methods calling of differentially expressed lncRNAs forRNA-seq data were documented in Document S1.We computed the FPKM value as the expression level. The detailed summary of the high-throughput data is listed in Figure S2. Genome coverage wiggle fles were generated with BEDTools [49]. Additional RNA-seq data from human tissues,cell types and cancer cell types were retrieved from the Illumina Human Body Map Project [23] and the human ENCODE project [50]. To identify the novel lincRNA transcripts,single-exon transcripts were eliminated from the Cufflinks-assembled transcriptome [23].De novo transcriptome assembly was processed by the Trinity software [51]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ESCC cell lines and culture conditions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The ESCC cell lines (KYSE510，KYSE450, KYSE150,KYSE30,EC109 and TE-1) were purchased from Cell Resources Center,IBMS，CAMS/PUMC. The immortalized normal esophageal epithelial cell line Het-1A was purchased from ATCC,not authenticated before use.The STR profile ofKYSE3O cell line was authenticated at GENEWIZ,Beijing.The TE-1 and EC109 cell lines were authenticated by Cell Resources Center, were maintained using standard media and conditions. Specifically,KYSE510,KYSE450,KYSE150,KYSE30, EC109 and TE-1 cells were maintained in RPMI 1640 (Life Technology) supplemented with $10 \\%$ FBS.Het-1A was maintained in BEBM (Lonza).The flasks used to culture Het-1A cells were pre-coated with a mixture of $0 . 0 1 ~ \\mathrm { \\ m g / m L }$ fibronectin, $0 . 0 3 \\mathrm { \\ m g / m L }$ bovine collagen type Iand $0 . 0 1 ~ \\mathrm { m g / m L }$ bovine serum albumin dissolved in culture medium.KYSE30 stably overexpressing Epist or control vector cell lines were generated by transfected lentiviral constructs encoding Epist or blank RNA for 48 h. GFP-positive cells were selected on $2 \\mu \\mathrm { g / m l }$ puromycin for one week. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Transcriptome-wide analysisofKYSE3o cell line overexpressing Epist ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Total RNAs were isolated from the KYSE30 cells overexpressing Epist or control vector using the Trizol (three biological replicates), followed by DNaseI treatment. The quality of RNAs were assessed with Nanodrop 2000.500 ng RNAs were used to generate fluorescence-labelled cDNA for hybridization according to the Agilent standard workflow. The microarray hybridization experiment was performed at the CapitalBio Corporation，Beijing.Arrays were scanned with the Agilent DNAMicroarray Scanner and processed with the Agilent Feature Extraction vlO.7, then quantile normalized using the R limma package. The fold change and twotailed Student's $t$ test were applied for statistical analysis of differentially expressed genes.Heatmap and Scatterplot were drawn with the functions in R.The microarray data have been deposited in the GEO database under accession number GSE64792. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rapid amplification of cDNA ends (RACE), northern blot and quantitative RT-PCR (qRTPCR) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Total RNAs were isolated from the cell lines (Het1A，EC109，KYSE510，KYSE450，TE-1，KYSE30, KYSE15O) with the Trizol reagent (Invitrogen) according to the manufacturer's instructions,and then subjected to DNaseI treatment. $3 ^ { \\circ } \\cdot$ and $5 ^ { \\circ }$ -RACEwereperformed using the RLMRACE kit(Ambion AM1700) and $5 ^ { \\circ }$ 1 RACE System for Rapid Amplification cDNA Ends (Life Technology, 18374-058). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For the qRT-PCRs, the SuperScript III reverse transcriptase was employed to synthetize the first-strand cDNA. qPCR analysis was performed with $0 . 5 ~ \\mu \\mathrm { L }$ cDNA as template in a $2 0 ~ \\mu \\mathrm { L }$ reaction volumes using SYBR green master mixture on the Rotor-Gene? Q real-time cycler (Qiagen).The expression levels were normalized to GAPDH and the relative expression was calculated by the delta-delta Ct method.All analyses shown were carried outonatleast threebiological replicates for each sample; $P$ -valueswerecalculated byStudent'st-test from the biological replicates. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Northern blot was performed as described [52]. All primers used are listed in the Table S8. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Nuclearlocalization ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The nuclear and cytoplasmic fractions of TE-1 cells were isolated with the NE-PER Nuclear and Cytoplasmic Extraction Reagents(Thermo). The total RNA isolated from the subcellular fractions was assessed by qRT-PCR. GAPDH and ACTB serve as the cytosolic controls,and U1 as the nuclear control. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Survival analysis with probed genes for ESCC ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For each probe in the microarray assay,we performed in parallel survival analysis with the expression value(T) of tumor tissues and the difference in expression value between tumor and adjacent normal tissues ( $\\mathrm { \\Delta } \\mathrm { \\Delta } \\mathrm { E } =$ $\\mathrm { ~ T ~ } \\cdot \\mathrm { ~ N ~ }$ ).We labelled the tumor expression or expression difference of each probe as “high” or“low” according to whether the value was higher or lower than the average of $\\mathrm { \\Delta T }$ or $\\Delta \\mathrm { E }$ ，respectively,across the 119 pairs ofESCC samples.The log-rank test was used to measure whether the survival time was significantly different between the \"high”and “low” expression of patient groups,the probe Was included for further consideration if p-values for both $\\mathrm { \\Delta T }$ and $\\Delta \\mathrm { E }$ were less than O.O5.The Kaplan-Meier plots were drawn using the R packages.Clinical information concerning the patients is found in Li et al.[22]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gene set enrichment analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Forthe GSEA[53],folddifference( $\\Delta \\mathrm { E } = \\mathrm { T } \\cdot \\mathrm { N } ,$ of every probe of ESCALs in the microarray across the 119 paired samples was considered as a numeric vector, and all protein-coding genes were ranked by the Pearson metric with our python script. Genes whose correlation was measured by multiple probes were consolidated using the maximum values obtained with these probes. Weemployed the GseaPreRanked tool to identify the enriched gene-set collections in c2.all.v4.0.symbols gmt of MSigDB with a permutation of 10oo.The threshold for the nominal p-value and FDR $\\mathsf { q }$ -valuewere set to O.O1 and O.O5,respectively. For calculating the correlation with metastasis,the three paired gene sets from the MSigDB Chemical and Genetic Perturbations (CGP） categories were taken to represent metastasis gene signature(JAEGER_METASTASIS_UPand_DN [54],RICKMAN_METASTASIS_UP and_DN [55], CROMER_METASTASIS_UP and _DN [56]). The KEGG_CELL_CYCLE and the KEGG_APOPTOSIS get sets were used to assess the associations with cell cycle and apoptosis, respectively. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lentivirus production and purification ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Epist sequence was cloned into the lentivector pCDH-MSCV-MCS-EF1-GFP+PurocDNA Cloning and Expression Vector (SBI CD713B-1). $2 9 3 \\mathrm { T }$ cells were cultured in T-175 flasks at $4 0 \\% { \\sim } 5 0 \\%$ confluence before transfection. Transfection was performed using Lipofectamine 2ooo (Life Technologies).For each flask, $2 0 . 2 5 ~ { \\mu \\mathrm { g } }$ of lentivectors, $1 3 . 2 ~ { \\mu \\mathrm { g } }$ of pMDL- $\\cdot \\mathrm { g } / \\mathrm { p } .$ ， $5 . 1 ~ \\mu \\mathrm { g }$ of RSV-REV and $7 . 1 2 5 ~ { \\mu \\mathrm { g } }$ of VSVG were added to $4 \\mathrm { m l }$ OptiMEM(Life Technologies). $1 0 0 ~ \\mu \\mathrm { l }$ ofLipofectamine 2000 was diluted in $4 ~ \\mathrm { m l }$ OptiMEMand it was added to the plasmid mixture after $5 ~ \\mathrm { m i n }$ .The complete mixture was incubated at room temperature for $2 0 ~ \\mathrm { m i n }$ before beingadded to cells.After $6 \\mathrm { n }$ ，the mediumwas changed to $3 0 \\mathrm { \\ m l \\ D M E M + 2 0 \\% }$ FBS.The medium was collected at $^ { 4 8 \\mathrm { ~ h ~ } }$ and $^ { 7 2 \\mathrm { ~ h ~ } }$ and centrifuged at $3 { , } 0 0 0 ~ \\mathrm { r p m }$ at $4 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 ~ \\mathrm { m i n }$ to pellet the cell debris.The supernatant was filtered through a $0 . 4 5 \\mu \\mathrm { m }$ low protein binding membrane. The virus was ultracentrifuged at $2 0 0 0 0 \\ \\mathrm { g }$ for $2 \\mathrm { ~ h ~ }$ at $4 ^ { \\circ } \\mathrm { C }$ and then resuspended overnight at $4 ^ { \\circ } \\mathrm { C }$ in PBS.Aliquots were stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Transwell migration assay ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For knock-down of Epist,KYSE30 cells were transfected with siRNA，trypsinized after $2 4 \\mathrm { ~ h ~ }$ ，and counted with a Coulter counter. For overexpression of Epist,KYSE30 cells stably expressing Epist or the control vector were trypsinized，and counted with a Coulter counter. 35,Oo0 cells were seeded in the upper chamber of Transwell(Corning 3422) with no serum medium, while $10 \\%$ FBS medium was added to the lower chamber as a chemoattractant.After $2 4 \\mathrm { h }$ incubation at $3 7 ^ { \\circ } \\mathrm { C }$ $5 \\% \\mathrm { C O } _ { 2 }$ atmosphere, the non-migrating cells were gently removed witha cotton swab.Migrated cells located on the lower side of the chamber were stained with crystal violet,air dried and photographed.Migrated cells were eluted with $10 \\%$ acetic acid, and absorbance measured at $5 6 0 \\ \\mathrm { n m }$ using spectrophotometer. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Transwell invasion assay ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We diluted thawed BD Matrigel matrix (BD 356230) into coating buffer(0.01M Tris $\\mathrm { p H } ~ 8 . 0$ ， $0 . 7 \\%$ NaCl) to a final concentration of $2 5 0 ~ \\mu \\mathrm { g / m l }$ ，mix gently and thoroughly, followed by adding $0 . 1 \\mathrm { m l }$ of the diluted Matrigel matrix coating solution into the upper chamber of the Transwell(Corning 3422) and incubating the coated Transwell plate at $3 7 ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ .Any pipets, syringes, or containers that will come in contact with BD Matrigel matrix must be chilled prior to use.Cultured 1oo,OoO cells in the coated upper chamber, the rest operation is same as Transwell migration assay mentioned above. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All the images of Transwell migration and invasion assays were captured using an Olympus microscope imaging systems. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We are very grateful to Dr. Geir Skogerbo and Prof. Zusen Fan for helpful suggestions and critical reading of this manuscript as well as Dr.Dongdong Zhang and other members from Chen lab for discussions about the experiments.We also thank Hanchen Huang for the interpretation of survival analysis result,Fangfang Bu and Xin Tong (Chinese People's Liberation Army (PLA) General Hospital) for help with the images of Transwell assay. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CONFLICTSOFINTEREST ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "No potential conflicts of interest were disclosed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "GRANTSUPPORT ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by grantsfrom Chinese Academy of Science Strategic Project ofLeading Science and Technology (XDA01020402） and the National High Technology Research and Development Program(\"863’Program) of China(2012AA020402 and 2012AA02A202). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": ". Jemal A,Bray F,Center MM,Ferlay J,Ward E and Forman D.Global cancer statistics. CA:a cancer journal for clinicians. 2011; 61:69-90.   \n2. Yang L,Parkin DM,Ferlay J,LiL and Chen Y.Estimates of cancer incidence in China for 20o and projections for 2005.Cancer epidemiology， biomarkers & prevention :a publication of the American Association for Cancer Research,cosponsored by the American Society of Preventive Oncology. 2005; 14:243-250.   \n3 Lima SC, Hernandez-Vargas H, Simao T, Durand G, Kruel CD,Le Calvez-Kelm F,Ribeiro Pinto LF and Herceg Z. Identification of a DNA methylome signature of esophageal squamous cell carcinoma and potential epigenetic biomarkers. Epigenetics : offcial journal of the DNA Methylation Society.2011; 6:1217-1227. Li JS,Ying JM, Wang XW,Wang ZH, Tao Q and Li LL.Promoter methylation of tumor suppressor genes in esophageal squamous cell carcinoma. Chin JCancer. 2013; 32:3-11.   \n5. Ma S,Bao JYJ,Kwan PS, Chan YP,Tong CM,Fu L, Zhang N, Tong AHY, Qin YR, Tsao SW, Chan KW, Lok S and Guan XY. Identification of PTK6, via RNA Sequencing Analysis, as a Suppressor of Esophageal Squamous Cell Carcinoma. Gastroenterology. 2012;143:675-686.e612.   \n6. Tong M, Chan KW, Bao JY, Wong KY, Chen JN, Kwan PS, Tang KH, Fu L,Qin YR,Lok S,Guan XY and Ma S. Rab25 is a tumor suppressor gene with antiangiogenic and anti-invasive activities in esophageal squamous cell carcinoma. Cancer Res.2012; 72:6024-6035.   \n7. Ding DP, Chen ZL, Zhao XH,Wang JW, Sun J,Wang Z, Tan FW, Tan XG, Li BZ, Zhou F, Shao K, Li N, Qiu B and He J. miR-29c induces cell cycle arrest in esophageal squamous cell carcinoma by modulating cyclin E expression. Carcinogenesis.2011; 32:1025-1032.   \n8. Xu X, Chen Z, Zhao X, Wang J, Ding D, Wang Z, Tan F, Tan X, Zhou F, Sun J, Sun N, Gao Y, Shao K,Li N, Qiu B and He J. MicroRNA-25 promotes cell migration and invasion in esophageal squamous cell carcinoma. Biochem Biophys Res Commun. 2012; 421:640-645.   \n9. Guttman M,Amit I, Garber M,French C,Lin MF,Feldser D, Huarte M, Zuk O, Carey BW, Cassady JP, Cabili MN, Jaenisch R, Mikkelsen TS, Jacks T,Hacohen N, Bernstein BE,et al. Chromatin signature reveals over a thousand highly conserved large non-coding RNAs in mammals. Nature. 2009; 458:223-227.   \n10．Klattenhoff CA, Scheuermann JC, Surface LE, Bradley RK, Fields PA, Steinhauser ML,Ding H, Butty VL, Torrey L, Haas S,Abo R, Tabebordbar M, Lee RT,Burge CB and Boyer LA. Braveheart, a long noncoding RNA required for cardiovascular lineage commitment. Cell. 2013; 152:570- 583.   \n11．Ulitsky I, Shkumatava A, Jan CH, Sive H and Bartel DP. Conserved function of lincRNAs in vertebrate embryonic development despite rapid sequence evolution. Cell. 2011; 147:1537-1550.   \n12. Gutman M, Donaghey J, Carey BW, Garber M, Grenier JK, Munson G, Young G, Lucas AB,Ach R, Bruhn L, Yang X,Amit I, Meissner A, Regev A,Rinn JL,Root DE, et al. lincRNAs act in the circuitry controlling pluripotency and differentiation.Nature.2011; 477:295-300.   \n13．Sauvageau M, Goff LA, Lodato S, Bonev B, Groff AF, Gerhardinger C, Sanchez-Gomez DB,Hacisuleyman E,Li E,Spence M,Liapis SC,Mallard W,Morse M, Swerdel MR,D'Ecclessis MF,Moore JC,etal.Multiple knockout mouse models reveal lincRNAs are required for life and brain development. eLife.2013; 2:e01749.   \n14.Rinn JL,Kertesz M, Wang JK, Squazzo SL,Xu X, Brugmann SA, Goodnough LH, Helms JA, Farnham PJ, Segal E and Chang HY.Functional demarcation of active and silent chromatin domains in human HOX loci by noncoding RNAs. Cell.2007; 129:1311-1323.   \n15.Kotake Y, Nakagawa T, Kitagawa K, Suzuki S, Liu N, Kitagawa M and Xiong Y.Long non-coding RNA ANRIL is required for the PRC2 recruitment to and silencing of p15(INK4B） tumor suppressor gene.Oncogene. 2011; 30:1956-1962.   \n16．Grote P,Witler L,Hendrix D, Koch F,Wahrisch S,Beisaw A,Macura K,BlassG,Kellis M,Werber MandHerrmann BG.The Tissue-Specific lncRNA Fendrr Is an Essential Regulator of Heart and Body Wall Development in the Mouse.Developmental cell. 2013; 24:206-214.   \n17．Prensner JR, Iyer MK,Balbin OA,Dhanasekaran SM, Cao Q,Brenner JC,Laxman B,Asangani IA,Grasso CS, Kominsky HD, Cao X,Jing X,Wang X, Siddiqui J, Wei JT, Robinson D, et al. Transcriptome sequencing across a prostate cancer cohort identifies PCAT-1,an unannotated lincRNA implicated in disease progression. Nat Biotechnol. 2011; 29:742-749.   \n18．Prensner JR, Iyer MK, Sahu A,Asangani IA, Cao Q, Patel L,Vergara IA,Davicioni E,Erho N, Ghadessi M, Jenkins RB,Triche TJ,Malik R,Bedenis R,McGregor N,Ma T,et al. The long noncoding RNA SChLAP1 promotes aggressive prostate cancer and antagonizes the SWI/SNF complex. Nat Genet. 2013; 45:1392-1398.   \n19.Brunner AL,Beck AH, Edris B,Sweeney RT,Zhu SX, Li R,Montgomery K,Varma S,Gilks T,Guo X, Foley JW,Witten DM, Giacomini CP,Flynn RA, Pollack JR, Tibshirani R,et al. Transcriptional profiling of lncRNAs and novel transcribed regions across a diverse panel of archived human cancers. Genome Biol. 2012; 13:R75.   \n20.Gupta RA,Shah N, Wang KC, Kim J, Horlings HM, Wong DJ, Tsai MC,Hung T,Argani P,Rinn JL,Wang Y,Brzoska P, Kong B, LiR, West RB,van de Vijver MJ, et al. Long non-coding RNA HOTAIR reprograms chromatin state to promote cancer metastasis. Nature. 2010; 464:1071-1076.   \n21. Kogo R, Shimamura T, Mimori K, Kawahara K, Imoto S,Sudo T, Tanaka F, Shibata K, Suzuki A, Komune S, Miyano S and Mori M. Long noncoding RNA HOTAIR regulates polycomb-dependent chromatin modification and is associated with poor prognosis in colorectal cancers. Cancer Res.2011;71:6320-6326.   \n22.Li J, Chen Z, Tian L, Zhou C, He MY, Gao Y, Wang S, Zhou F, Shi S,Feng X, Sun N,Liu Z, Skogerboe G, Dong J, Yao R, Zhao Y, et al. LncRNA profile study reveals a three-lncRNA signature associated with the survival of patients with oesophageal squamous cell carcinoma. Gut. 2014; 63:1700-1710.   \n23． Cabili MN, Trapnell C,Goff L, Koziol M, Tazon-Vega B,Regev A and Rinn JL. Integrative annotation of human large intergenic noncoding RNAs reveals global properties and specific subclasses. Genes Dev.2011; 25:1915-1927.   \n24.Tano K, Mizuno R,Okada T,Rakwal R, Shibato J, Masuo Y,Ijiri K and Akimitsu N. MALAT-1enhances cell motility of lung adenocarcinoma cells by influencing the expression of motility-related genes.Febs Lett.2010; 584:4575-4580.   \n25. Chen G, Wang Z, Wang D, Qiu C,Liu M, Chen X, Zhang Q, Yan G and Cui Q.LncRNADisease: a database for longnon-coding RNA-associated diseases.Nucleic Acids Res. 2013; 41:D983-986.   \n26. Li X,Wu Z, Mei Q, Guo M,Fu X and Han W. Long noncoding RNA HOTAIR, a driver of malignancy, predicts negative prognosis and exhibits oncogenic activity in oesophageal squamous cell carcinoma. Br JCancer. 2013; 109:2266-2278.   \n27．Kundaje A,Meuleman W, Ernst J,Bilenky M, Yen A, Heravi-Moussavi A, Kheradpour P, Zhang Z, Wang J, Ziler MJ, Amin V,Whitaker JW, Schultz MD,Ward LD,Sarkar A,Quon G,et al. Integrative analysis of 111 reference human epigenomes. Nature.2015; 518:317-330.   \n28.Wang S, Zhan M, Yin J, Abraham JM, Mori Y, Sato F, XuY,Olaru A,Berki AT,LiH,SchulmannK,Kan T, Hamilton JP,Paun B,Yu MM, Jin Z, et al. Transcriptional profiling suggests that Barrett's metaplasia is an early intermediate stage in esophageal adenocarcinogenesis. Oncogene.2006; 25:3346-3356.   \n29.Padua D and Massague J. Roles of $\\mathrm { T G F } \\beta$ in metastasis. Cell Res.2009;19:89-102.   \n30．Yuan JH, Yang F,Wang F,Ma JZ,Guo YJ, Tao QF,Liu F, Pan W, Wang TT, Zhou CC, Wang SB, Wang YZ, Yang Y, Yang N, Zhou WP, Yang GS, et al. A long noncoding RNA activated by TGF- $\\cdot \\beta$ promotes the invasion-metastasis cascade in hepatocellular carcinoma. Cancer cell. 2014; 25:666-681.   \n31. Kolfschoten IG,van Leeuwen B, Berns K, Mullenders J, Beijersbergen RL, Bernards R, Voorhoeve PMand Agami R. A genetic screen identifes PITX1 as a suppressor of RAS activity and tumorigenicity. Cell.2005; 121:849-858.   \n32.Qi DL,Ohhira T,Fujisaki C, Inoue T, Ohta T,Osaki M, Ohshiro E,Seko T,Aoki S, Oshimura M and Kugoh H. Identification of PITX1 as a TERT suppressor gene located on human chromosome 5.Mol Cell Biol.2011; 31:1624-   \n1636.   \n33．Maher CA,Kumar-Sinha C, Cao X,Kalyana-Sundaram S,Han B, Jing X, Sam L, Barrette T, Palanisamy N and Chinnaiyan AM. Transcriptome sequencing to detect gene fusions in cancer. Nature. 2009; 458:97-101.   \n34. Steidl C, Shah SP, Woolcock BW, Rui L, Kawahara M, FarinhaP,Johnson NA,Zhao Y,TeleniusA,Neriah SB, McPherson A,Meissner B, Okoye UC,Diepstra A, van den Berg A, Sun M, et al. MHC class II transactivator CIITA is a recurrent gene fusion partner in lymphoid cancers. Nature.   \n2011; 471:377-381.   \n35．Lee CS, Ungewickell A, Bhaduri A,Qu K,Webster DE, Armstrong R,Weng WK,Aros CJ, Mah A, Chen RO, Lin M, Sundram U, Chang HY,Kretz M, Kim YH and Khavari PA. Transcriptome sequencing in Sezary syndrome identifies Sezary cell and mycosis fungoides-associated lncRNAs and novel transcripts. Blood.2012;120:3288-   \n3297.   \n36.Ulitsky Iand Bartel DP. lincRNAs: Genomics, Evolution, and Mechanisms. Cell.2013; 154:26-46.   \n37.Khalil AM, Guttman M,Huarte M, Garber M, Raj A, Rivea Morales D, Thomas K, Presser A, Bernstein BE, van Oudenaarden A,Regev A,Lander ES and Rinn JL. Many human large intergenic noncoding RNAs associate with chromatin-modifying complexes and affect gene expression. Proceedings of the National Academy of Sciences.2009; 106:11667-11672.   \n38.Wang KC, Yang YW,Liu B, Sanyal A, Corces-Zimmerman R, Chen Y, Lajoie BR, Protacio A,Flynn RA, Gupta RA, Wysocka J, Lei M,Dekker J, Helms JA and Chang HY.A long noncoding RNA maintains active chromatin to coordinate homeotic gene expression. Nature. 2011;   \n472:120-124.   \n39. Vance KW, Sansom SN,Lee S, Chalei V, Kong L, Cooper SE, Oliver PL and Ponting CP. The long non-coding RNA Paupar regulates the expression of both local and distal genes. The EMBO journal. 2014; 33:296-311.   \n40.Li Z, Chao TC, Chang KY,Lin N, Patil VS, Shimizu C, Head SR,Burns JC and Rana TM. The long noncoding RNA THRIL regulates TNFalpha expression through its interaction with hnRNPL. Proceedings of the National Academy of Sciences of the United States of America.   \n2014; 111:1002-1007.   \n41. Hao Y,Wu W, ShiF,Dalmolin RJ, Yan M, Tian F,Chen X, Chen G and Cao W. Prediction of long noncoding RNA functions with co-expression network in esophageal squamous cell carcinoma. BMC Cancer.2015;15:168.   \n42. Wang P, Xue Y, Han Y,Lin L, Wu C, Xu S, Jiang Z, Xu J, Liu Q and Cao X. The STAT3-binding long noncoding RNA lnc-DC controls human dendritic cell differentiation. Science.2014; 344:310-313.   \n43.Song Y,LiL,Ou Y,Gao Z,LiE,LiX, Zhang W,Wang J, Xu L, Zhou Y, Ma X, LiuL, Zhao Z, Huang X,Fan J, Dong L,et al. Identification of genomic alterations in oesophageal squamous cell cancer. Nature. 2014; 509:91-95.   \n44．Bernstein BE,Mikkelsen TS,Xie X,Kamal M, Huebert DJ, Cuff J,Fry B,MeissnerA,Wernig M,Plath K,Jaenisch R, Wagschal A, Feil R, Schreiber SL and Lander ES.A bivalent chromatin structure marks key developmental genes in embryonic stem cells. Cell. 2006;125:315-326.   \n45．Infante CR,Park S,Mihala AG, Kingsley DM and Menke DB. Pitx1 broadly associates with limb enhancers and is enriched on hindlimb cis-regulatory elements.Dev Biol. 2013; 374:234-244.   \n46.Chu C,Qu K, Zhong FL,Artandi SE and Chang HY. Genomic maps of long noncoding RNA occupancy reveal principles of RNA-chromatin interactions.Mol Cell.2011; 44:667-678.   \n47．Engreitz JM,Pandya-Jones A,McDonel P, Shishkin A, Sirokman K, Surka C, Kadri S,Xing J, Goren A, Lander ES, Plath K and Guttman M. The Xist IncRNA exploits three-dimensional genome architecture to spread across the X chromosome. Science.2013;341:1237973.   \n48.Huang da W, Sherman BT and Lempicki RA. Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.Nat Protoc. 2009; 4:44-57.   \n49.Quinlan AR and Hall IM.BEDTools:a flexible suite of utilities for comparing genomic features. Bioinformatics. 2010; 26:841-842.   \n50．Dunham I, Kundaje A,Aldred SF,Collins PJ, Davis CA, Doyle F,Epstein CB, Frietze S,Harrow J, Kaul R,Khatun J, Lajoie BR,Landt SG,Lee BK,Pauli F,Rosenbloom KR, et al.An integrated encyclopedia of DNA elements in the human genome. Nature.2012; 489:57-74.   \n51．Haas BJ,Papanicolaou A,Yassour M, Grabherr M, Blood PD,Bowden J, Couger MB,Eccles D,Li B,Lieber M, Macmanes MD,Ott M, Orvis J, Pochet N, Strozzi F, Weeks N, et al. De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and analysis. Nat Protoc.2013; 8:1494-1512.   \n52. Luo H, Sun Y, Wei G, Luo J, Yang X, Liu W and Chen R. The Functional Characterization of Long Non-coding RNA Lnc_bc060912 in Human Lung Carcinoma Cells. Biochemistry-us.2015; 54;2895-2902.   \n53． Subramanian A, Tamayo P,Mootha VK,Mukherjee S, Ebert BL,Gillette MA,Paulovich A,Pomeroy SL, Golub TR,Lander ES and Mesirov JP.Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences of the United States of America.2005;102:15545-15550.   \n54．Jaeger J, Koczan D, Thiesen HJ, Ibrahim SM, Gross G, Spang R and Kunz M. Gene expression signatures for tumor progression, tumor subtype,and tumor thickness in lasermicrodissected melanoma tissues. Clin Cancer Res.2007; 13:806-815.   \n55． Rickman DS,Millon R,De Reynies A,Thomas E, Wasylyk C, Muller D, Abecassis J and Wasylyk B. Prediction of ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "future metastasis and molecular characterization of head and neck squamous-cell carcinoma based on transcriptome and genome analysis by microarrays. Oncogene.2008; 27:6607-6622. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "56．Cromer A,Carles A,Millon R,Ganguli G,Chalmel F, LemaireF,YoungJ,DembeleD,ThibaultC,MullerD, Poch O,AbecassisJand WasylykB.Identification of genes associated with tumorigenesis and metastatic potential of hypopharyngeal cancer by microarray analysis.Oncogene. 2004;23:2484-2498. ",
+        "page_idx": 15
+    }
+]

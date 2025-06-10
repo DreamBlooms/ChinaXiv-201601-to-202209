@@ -1,0 +1,255 @@
+[
+    {
+        "type": "text",
+        "text": "碘分子鉴频器温度测量系统设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王雪平¹，王继红²，林兆祥’，邵军宜(1.中南民族大学激光光谱实验室湖北武汉430074;2.中国科学院空间科学与应用研究中心,北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：分别设计了基于AD590与 $\\mathrm { P t 1 0 0 0 }$ 的温度测量系统并分析了各自电路特性和电子元器件性能参数对检测精度的影响选取 $\\mathrm { P t 1 0 0 0 }$ 作为探测器制作系统电路。当温度范围在 $2 5 \\sim 4 5 \\mathrm { ~ \\textdegree C }$ 之间时测量误差小于 $0 . 0 1 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：激光雷达；温度测量；AD590；Pt1000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TP273 文献标识码：A 文章编号：1000-9787(2015)10-0063-03",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of iodine discriminator temperature measurement system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Xue-ping1,WANG Ji-hong²,LIN Zhao-xiang' ,SHAO Jun-yil (1.Laboratory of Laser Spectroscopy South-Central University for Nationalities, Wuhan 43oo74,China;2.Center for Space Science and Applied Research， Chinese Academy of Sciences Beijing 10019o ,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Two systems are designed which respectively based on AD59O and $\\mathrm { P t 1 0 0 0 }$ as well as the precision in each system is analyzed according to their circuits and components.High-precision temperature monitoring system by using $\\mathrm { P t 1 0 0 0 }$ is fabricated and the detecting error is less than $0 . 0 1 ^ { \\circ } \\mathrm { C }$ ：   \nKey words:lidar; temperature measurement; AD59o;Pt1000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "激光雷达是一种先进的大气探测手段近年来受到国内外广泛的关注。国内正在研制的众多先进激光雷达中，利用多普勒频移原理构建的高精度测风激光雷达因其对各部件性能的要求极为苛刻，目前尚未业务化运行。1983年Shimizu等人提出利用原子（分子）吸收线具有陡峭边缘的特点做鉴频器实现大气参数的测量，后来She等人采用钡原子滤波器开展了温度剖面和消光系数测量研究。1996年中国海洋大学刘智深采用 $5 3 2 \\mathrm { n m }$ 激光器和碘分子滤波器进行了风剖面的探测。与钡原子滤波器（工作在大约 $9 5 0 \\mathrm { ^ \\circ C }$ )相比碘分子滤波器工作温度较低，更易于实现与控制近年来，许多学者采用碘分子吸收线作为测风激光雷达鉴频器件。根据经典的吸收光谱理论，气体分子吸收谱线的宽度和偏移与其环境的温度和压力密切相关。研究表明:采用碘分子吸收线作为鉴频器件的测风激光雷达系统要实现高精度高稳定测量碘分子吸收池的温控精度通常需要达到0.01C[-2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在众多温度传感器中，因集成温度传感器AD590与$\\mathrm { P t 1 0 0 0 }$ 热敏电阻器都具有测量精度高、测温范围广等优点，在工业生产和生活中得到广泛的应用[3-5]。为了满足“子午工程”北京延庆激光雷达台站高精度测风激光雷达改造的需求，本文根据这两种传感器的特点，开展了相关探温电路设计和误差分析研究最终选取了一种适合高精度测风激光雷达鉴频器的温度测量系统，实现了温度范围在 $2 5 \\sim$ $4 5 ^ { \\circ } \\mathrm { C }$ 之间时测量精度达到 $0 . 0 1 ^ { \\circ } \\mathrm { C }$ 的要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1探温电路分析比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于AD590与 $\\mathrm { P t 1 0 0 0 }$ 温度测量系统整体结构一样，都主要包括信号获取、差分放大、A/D转换等部分对于大部分A/D转换器而言其输入电压幅度为0\\~5V所以首先将获取到的信号经过差分放大到合适的范围再通过A/D转换器转换为数字信号。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 基于AD590 探温电路",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AD590是单片集成两端感温电流源。在 $4 { \\sim } 3 0 ~ \\mathrm { V }$ 的电压范围内，其输出电流与绝对温度成比例，比例系数为$1 \\mu \\mathrm { A } / \\mathrm { K } \\ 0 ^ { \\circ } \\mathrm { C }$ 输出电流为 $2 7 3 \\mu \\mathrm { A }$ 测温范围为 $- 5 5 \\mathrm { \\sim } + 1 5 0 \\mathrm { \\% }$ ，且线性度好 精度高 抗干扰能力强[6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于AD590 探温电路如图1所示,电路可以细分为五部分：供电电路、信号获取电路、电压跟随电路、差分放大电路、A/D转换电路。10V高稳定高精度电压源U1（VRE100CA）为AD590和 $2 . 7 3 { \\mathrm { ~ V ~ } }$ 基准电压电路供电;AD590与 $1 0 \\mathrm { k } \\Omega$ 的电阻器R串联获得与温度呈线性相关的电压信号B温度每变化 $1 ^ { \\circ } \\mathrm { C }$ 电压值变化 $1 0 \\mathrm { m V } ^ { [ 7 ] }$ ;通过线性变阻器RP2分压得到 $2 . 7 3 { \\mathrm { ~ V ~ } }$ 基准电压信号A2.73V基准电压信号相当于AD590在 $0 \\%$ 时与电阻器R串联的电压值 $2 7 3 \\mu \\mathrm { A } \\times 1 0 \\mathrm { k } \\Omega = 2 . 7 3 \\mathrm { V } ;$ 放大器U2（AD8629)内部有两组放大器U2A与U2B其分别作为信号A与B的电压跟随器，将U2出来的两路信号接入到仪表放大器U3（AD621)的正负端经过差分放大10倍( $G = 1 0$ ）得到与温度呈正比的电压信号如果温度变化范围为 $0 \\sim 5 0 \\mathrm { ^ { \\circ } C }$ ,输出电压值变化范围为 $0 \\sim 5 \\mathrm { ~ V ~ }$ 。 $\\mathrm { A / D }$ 转换器U4（MAX7705）将差分放大后的电压信号转换为数字信号。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig 1Temperature measurement system circuit based on AD59( ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 基于 $\\mathrm { P t 1 0 0 0 }$ 探温电路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { P t 1 0 0 0 }$ 热敏电阻器是利用金属 $\\mathrm { \\ P t }$ 的电阻值随温度变化而变化的物理特性而制成的热敏元件其在 $0 \\%$ 时阻值为 $1 0 0 0 \\Omega$ 其温度电阻特性是[8]",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { t } = { \\left\\{ \\begin{array} { l l } { R _ { 0 } { \\left( \\ 1 \\ + A t + B t ^ { 2 } + C { \\left( \\ t - 1 0 0 \\right) } t ^ { 3 } \\right) } t \\in [ - 2 0 0 \\ \\rho ] } \\\\ { R _ { 0 } { \\left( \\ 1 \\ + A t + B t ^ { 2 } \\right) } t \\in \\left( \\ 0 \\ \\beta 5 0 \\right] } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $R _ { t }$ 为 $t ~ { \\mathcal { C } }$ 时的电阻值 ${ \\mathbf { } } , R _ { 0 }$ 为 $0 \\%$ 时的电阻值 $\\mathrm { { . T C R } = }$ 0.003851时的系数值为： $A = 3 . 9 0 8 0 2 \\times 1 0 ^ { - 3 } \\mathrm { { C } ^ { - 1 } } \\ , B$ $- 5 . 8 0 2 \\times 1 0 ^ { - 7 } { \\mathrm { { C } } } ^ { - 2 } \\ , C \\ = \\ - 4 . 2 7 3 5 0 \\times 1 0 ^ { - 1 2 } { \\mathrm { { C } } } ^ { - 4 } \\ { \\mathrm { { c } } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于 $\\mathrm { P t 1 0 0 0 }$ 的温度测量电路如图2所示，也可以分为四部分:供电电路、信号获取电路、差分放大电路、 $\\mathrm { A / D }$ 转换电路。2.5V高稳定高精度电压源U1（VRE3025）为U2提供输入电压，同时为U4提供参考电压；用放大器U2A(AD8629)搭建恒流源电路为 $\\mathrm { P t 1 0 0 0 }$ 提供 $2 . 5 ~ \\mathrm { V } / 1 0 ~ \\mathrm { k } \\Omega =$ $0 . 2 5 \\mathrm { m A }$ 驱动电流;用放大器U2B(AD8629)搭建2.75V基准电压电路 $2 . 7 5 \\mathrm { V }$ 基准电压信号相当于 $\\mathrm { P t 1 0 0 0 }$ 在 $0 \\%$ 时与恒流源串联时的电压值 ${ \\mathrm { ~ ( ~ 1 ~ + 1 0 ) ~ k ~ } \\Omega \\times 0 . 2 5 \\ \\mathrm { m V } = 2 . 7 5 \\ \\mathrm { V } } ;$ （20将 $\\mathrm { P t 1 0 0 0 }$ 与恒流源串联获得的电压信号与U2B出来的信号接入到差分放大器U3(AD621)的正负端经过差分放大后10倍( $G = 1 0$ )得到与温度相关的电压信号如果温度变化范围为 $0 \\sim 1 0 0 \\mathrm { ^ { \\circ } C }$ 电压值大约变化:0\\~1V(0.25mA ×R）。 $\\mathrm { A / D }$ 转换器U4（MAX7705）将差分放大后的电压信号转换为数字信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5490358a5efa89c5349fa28d7d68a8cfedfacb3ac180c92d58923ad45706083.jpg",
+        "img_caption": [
+            "图1基于AD590 温度测量系统电路",
+            "图2基于Pt1000温度测量系统电路",
+            "Fig 2Temperature measurement system circuit based on Pt1000 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "+2.5V -5V 0C时取样支路电压（2.75V） C1_100pF C3 U4 GND1   \n1 AD8629 J 美 #茶 +12V U2A R3 RESET RESET DRDY DRDY GND J10kΩ GND1 AIN2+ AN AIN2- RE 10GND1 25V 5 Rs -12V MX7705   \nGND 86 10kΩ U3 AD521 4 GND ? 100pPF 65 +2.5V 2.5V 三线制Pt1000 GND 1μF I·GNDVRE3025 取样信号 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 探温电路分析选取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了保证探温系统的测量精度和稳定性，这两种系统均选用目前市场上稳定性较佳的电子元器件其中，系统供电电源选用朝阳工业级电源( $\\pm 1 2 \\mathrm { ~ V ~ } \\mathrm { 0 } . 5 \\mathrm { A }$ 和 $5 \\mathrm { V } ~ 2 . 5 \\mathrm { A }$ 电源精度为 $\\pm 0 . 1 \\%$ 纹波系数小于 $1 \\mathrm { m V } )$ ；电阻器RR1R2，R3 RP2均选用军工级电阻器其误差为 $0 . 0 1 \\%$ 温漂系数为 $1 \\times 1 0 ^ { - 6 } / \\mathrm { { ^ { \\circ } C } }$ ;U2 选用亚德诺公司的AD8629芯片，其失调电压为 $1 \\mu \\mathrm { V }$ 、温度漂移为 $2 \\mathrm { n V } / \\mathrm { \\% }$ 其对电路特性的影响小于 $0 . 0 0 0 1 ^ { \\circ } \\mathrm { C }$ ;U3选用仪表放大器AD621其非线性度小于 $1 0 \\times 1 0 ^ { - 6 }$ ,温度漂移为 $1 \\times 1 0 ^ { - 6 } / \\mathrm { { ^ c } }$ ;U4 选用双通道、16位A/D转换芯片MAX7705其非线性误差小于 $0 . 0 0 3 \\%$ ·图2中U1选用APEX公司的高精度的基准电压源芯片VRE100CA其精度为 $0 . 0 1 \\%$ 温度系数为 $1 \\times { 1 0 } ^ { - 6 }$ ;图3中U1选用APEX公司的VRE3025芯片其精度为 $0 . 0 1 \\%$ 最小温度漂移系数为 $0 . 6 \\times 1 0 ^ { - 6 } / \\mathrm { { ^ { \\circ } C } }$ 。根据上述元器件的性能指标分别对图2与图3电路进行了误差分析，计算结果表明，当温度范围在 $2 5 \\sim 4 5 ~ \\mathrm { { ‰ } }$ 之间时，基于AD590与$\\mathrm { P t 1 0 0 0 }$ 探温电路理论上计算误差分别为 $0 . 0 0 5 , 0 . 0 0 2 \\mathrm { ^ { \\circ } C }$ ·且AD590外形相比 $\\mathrm { P t l 0 0 0 }$ 较大在所制作的碘分子恒温槽装置中安装不方便。综上比较最终选取 $\\mathrm { P t 1 0 0 0 }$ 做检测器件制作了探温电路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2软件设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用Mini2440开发板控制MAX7705将模拟信号转换为数字信号。其中,CPU处理器为S3C2440A，主频$4 0 0 \\mathrm { { M H z } }$ 。其GPIO接口CLKOUT0与MAX7705的CLKIN引脚相接通过时钟分频为MAX7705提供 $2 . 4 5 7 6 ~ \\mathrm { M H z }$ 时钟信号;2CSCL12CSDA，NS-SPI,PICLKIMISOMOS引脚分别与 MAX7705的DRDT,RESET,CS,SCLK，DOUTDIN引脚相连,通过对MAX7705寄存器读写操作实现CPU与A/D转换器MAX7705之间的通信MAX7705寄存器设置与读数流程如图3所示。根据MAX7705芯片特性，为其提供5V工作电压和2.5V参考电压。同时采用限幅平均滤波法对数据进行处理采集速率设置为 $1 0 ~ \\mathrm { { S P S } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开始写communication寄存器  \n写communication寄存器 communication寄存器进  \n选定通道1和clock寄存 行读操作（0x08）器进行写操作(0x20）↓ 读communication寄存器（8bits） N  \n写clock寄存器，禁止时钟  \n输出，不采用内部分频器，时钟选1（0x04）DRDY=0  \n写communication寄存器，  \n选定通道1和setup寄存 Y器进行写操作(0x10） 写communication寄存器F 对data寄存器进行读操作  \n写 setup 寄存器,模式0, (0x08)Gain-0，单极性输出， ↓不启用缓冲功能（0x44）读data寄存器(16bits)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了检验所制作的基于 $\\mathrm { P t 1 0 0 0 }$ 的探温系统的探测误差,首先对此系统进行了温度定标实验[9]。用控温仪将碘分子恒温槽温度分别控制在11个温度点（根据“子午工程”北京延庆激光雷达台站高精度测风激光雷达改造的需求:温度控制在 $3 8 . 0 0 ^ { \\circ } \\mathrm { C }$ 左右 因此本文仅对 $2 5 \\sim 4 5 ~ \\mathrm { ^ circ C }$ 之间的数据进行了温度标定和误差分析），待恒温槽温度稳定后，对每组数据进行 $1 0 ~ \\mathrm { m i n }$ 数据采集（采集速率为10 SPS）取这6000次测量结果的平均值整个测试都在温度控制在( $2 5 \\pm 1$ ） $\\mathcal { \\mathrm { C } }$ 的实验室进行。控温仪测量结果与基于 $\\mathrm { P t 1 0 0 0 }$ 探温系统输出结果线性拟合得到温度与电压关系如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/423d44a22617445f09d9c85cd18596a8432f7eaeb03447abd51cff5a86fe7634.jpg",
+        "img_caption": [
+            "图3MAX7705寄存器设置与读数流程图",
+            "图4温度-电压线性拟合曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig 4Linear fitting curve of temperature vs voltage由图4可以看出：基于 $\\mathrm { P t 1 0 0 0 }$ 热敏电阻器温度测量系统所测电压值与实际温度值有较好的线性关系，温度-电压线性拟合方程为： $T \\ = \\ 1 0 2 . 8 3 1 1 4 V _ { \\mathrm { o U T } } + 0 . 0 0 1 6 9 8 { . }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "恒温槽测量误差如图5所示，当温度范围在 $2 5 \\sim 4 5 ~ \\mathrm { ^ circ C }$ 时探温系统的随机误差小于 $0 . 0 0 6 ^ { \\circ } \\mathrm { C }$ 控制系统的稳定性小于 $0 . 0 0 2 ^ { \\circ } \\mathrm { C }$ 说明基于 $\\mathrm { P t 1 0 0 0 }$ 的探温系统精度基本满足要求后续控温电路可以在此测量基础上继续设计进而实现高精度温控，为基于碘分子鉴频器的激光雷达系统提供一个稳定的温度环境。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对基于AD590和 $\\mathrm { P t 1 0 0 0 }$ 的测温电路进行系统设计和误差分析并构建了一种适合高精度测风激光雷达鉴频器的温度测量系统。该系统选用APEX公司的高精度稳压芯片为测温电路提供基准电压，从源头上提高了系统的精度和稳定性； $\\operatorname* { P t } 1 0 0 0$ 采用三线制接法，有效消除了导线电阻与自热效应的影响[10];在信号处理部分，选用差分方式减去在 $0 \\%$ 时的基准信号降低了对A/D转换器的位数要求;其恒流源与A/D转换器共用参考基准，有效消除了参考基准不稳定产生的误差;并在程序中采用限幅平均滤波法有效克服因偶然因素引起的脉冲干扰并对周期性干扰有良好的抑制作用。对于该系统的定标实验结果表明：测量精度达到 $0 . 0 1 ^ { \\circ } \\mathrm { C }$ 对为后续温控系统设计奠定了基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/72d04f1766f4862b28cfc82a2b31b0df56dec9a258954210f582ff92d60b94b5.jpg",
+        "img_caption": [
+            "Fig3Flow chart of MAX77o5 register setting and data read-out 3检测结果 ",
+            "图5温度误差曲线",
+            "Fig 5Temperature error curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]郭金家,刘智深孙大鹏,等.高光谱碘分子和双边缘多普勒测风激光雷达技术比较[J].中国海洋大学学报，2004，34(3):489 -496.  \n[2]刘金涛 陈卫标 宋小全.基于碘分子滤波器的高光谱分辨率激光雷达原理[J].光学学报 $2 0 1 0 , 3 0 ( 6 ) : 1 5 4 8 - 1 5 5 3 .$   \n[3]徐锋.一种基于 $\\mathrm { P t 1 0 0 0 }$ 的高精度电加热控制装置设计[J].电气控制201332(8):20-23.  \n[4]袁开鸿 魏丽君唐冬梅.基于温度传感器 $\\mathrm { P t 1 0 0 0 }$ 的高精度量热仪[J].仪表技术与传感器2014(6)：42-44.  \n[5]席志凤.基于AD590 的嵌入式温度采集及显示系统[J].自动化技术与应用201231(1)：84-86.  \n[6] 谌正艮赵青生廖艳林.AD590设计数字温度计的原理分析与改进[J].大学物理实验 $2 0 1 0 ( 2 ) : 5 3 - 5 5$   \n[7]莫建鹏 於黄忠 麦棣科,等.基于集成温度传感器 AD590 的测温电路设计与实现[J].电子元器件应用20079(2)：26-38.  \n[8]北京赛亿凌科技有限公司.铂电阻温度传感器Datasheet[EB/OL]. $[ 2 0 1 0 7 0 4 ^ { - } 1 0 ]$ . http: $/ /$ www.bjsailing.com.cn/product/images/wendu2.pdf.  \n[9]张瑜张升伟.基于铂电阻传感器的高精度温度检测系统设计[J].传感技术学报 $2 0 1 0 \\ 2 3 ( \\ 3 ) : 3 1 1 - 3 1 4 .$   \n[10］易先军文小玲，刘翠梅.基于铂电阻的温度高精度测量研究[J].传感器与微系统200928(1):49-55.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "王雪平(1989-）女湖北咸宁人硕士研究生研究方向为恒温控制。",
+        "page_idx": 2
+    }
+]

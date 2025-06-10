@@ -1,0 +1,193 @@
+# 两种沙障内蚀积地表形态及其空间格局观测研究
+
+池政'，徐先英1.2.34，刘开琳²，刘虎俊²，李亚琦4，孟瑞玲4，富丽4，李雪宁1，邱晓娜2.3
+
+(1.中国林业科学研究院荒漠化研究所,北京100091；2.甘肃省治沙研究所荒漠化与风沙灾害防治国家重点实验室培育基地，甘肃 兰州730070；3.甘肃民勤荒漠草地生态系统国家野外科学观测研究站，甘肃 武威733000；4.甘肃农业大学林学院，甘肃 兰州730070)
+
+摘要：以腾格里沙漠西缘流动沙丘布设的纤维网沙障(Fibermesh sand barrier,FSB)和土工编织袋沙障(Geotechnical wovenbag sand barrier,GSB)为研究对象,采用三维激光扫描技术并结合传统测量法对沙障内微地貌形态进行测算。结果表明：(1)2种沙障区侵蚀深度、侵蚀量和侵蚀表面积均呈沿主风向逐渐增大的趋势。沙丘中线迎风侧GSB侵蚀深度、侵蚀量和侵蚀面表面积都比FSB大，其中侵蚀深度比后者深 $2 0 \% { \sim } 4 0 \%$ ，侵蚀量高于后者 $45 \% \sim 7 0 \%$ 。(2)2种沙障均在沙丘中南部沙障破损严重，高于其余位置 $30 \% { \sim } 5 0 \%$ ，由于土工编织袋被风掏蚀损坏较大，沙障破损范围和破损程度均高于纤维网沙障。(3)在沙障方格内部侵蚀深度最大值多数不是位于方格中心，其中北一北东—东一南东方位带为侵蚀区即弱堆积区，中心和西部为强堆积区。(4)土工编织袋沙障区的侵蚀深度大于纤维网沙障区，同时后者破损率大大低于前者，因此纤维网阻沙障效果优于土工编织袋。利用三维激光扫描技术进行微地貌形态反演不仅可以准确测量出侵蚀深度，而且可以通过软件操作实现侵蚀量和侵蚀面表面积的计算，为风沙地貌和防沙治沙领域精确研究微地貌提供了新型工具和方法。
+
+关键词：沙障；三维激光扫描技术；蚀积状况；微地貌形态；阻沙效果
+
+# 文章编号：
+
+荒漠化是人类目前面临最严峻的环境问题之_[1-2],是在自然变化和人类活动等多种因素相互作用下发生在干旱半干旱和亚湿润干旱区的土地退化[3-4]。我国沙化土地面积为 $1 . 7 2 \times 1 0 ^ { 6 } \ \mathrm { k m } ^ { 2 }$ ，占国土总面积的 $1 7 . 9 3 \%$ ,是世界上受到荒漠化危害最严重的国家之一[5]。尽管土地荒漠化已经得到遏制并逆转[6-7],但总体上荒漠化形式依然十分严峻,其中风蚀荒漠化是荒漠化治理过程中的重点、难点，防沙治沙工程对遏制荒漠化进程具有重要意义。其中机械沙障治沙8成本相对较低，普适性和研究广泛，是防沙治沙最重要的措施之一。在我国北方干旱荒漠区设置有大量沙障进行防沙治沙，并且众多学者[8-17]对不同类型沙障防治风沙危害技术进行了深入研究，认为明确沙障治沙机理才能最大程度地提高其防沙效益和固沙能力。
+
+风沙地貌形态监测最早从19世纪末就已经开始[18]。从20世纪90年代末以来,基于三维坐标系建立的三维模型应运而生。数字高程模型(Digitalelevationmodel,DEM)为沙丘地貌形态特征提取和数值模拟提供了新方法，其中就有三维激光扫描技术（3Dlaser scanning technology）。三维激光扫描技术又称为"实景复制技术”,主要面向高精度逆向工程的三维建模与重构[19],是20世纪90年代发展起来的一种新兴的数字信息技术[20-21]。随着三维激光扫描技术的完善和发展，其逐渐从古建筑恢复等方面向地学领域[22-24]推广应用，并取得卓有成效的进展。21世纪初开始在风沙地貌[25]和防沙治沙领域[26-27]应用。三维激光扫描技术在风沙地貌和防沙治沙领域的研究刚刚起步，对三维激光扫描仪及其数据处理的探测和研究尚有深入，对该项技术在领域内的应用规范和使用方式仍然没有统一的标准，因此在三维激光扫描技术的研究、数据后处理以及三维激光扫描技术在领域内研究的真实性、可靠性、准确性和适用性等方面仍需要进一步研究和探讨。为此，在腾格里沙漠西缘选取纤维网沙障(Fibermeshsandbarrier,FSB)和土工编织袋沙障(Geotechnicalwovenbagsandbarrier，GSB)2种沙障覆盖区，对其内部微地貌形态进行激光扫描获取点云数据，进行蚀积形态分析，为沙障固沙阻沙能力研究提供科学依据。
+
+# 1 研究区概况
+
+研究区位于甘肃省民勤县时光廊道景区内，该廊道采取“南沙北林"模式保护道路，全长 $2 9 . 5 \mathrm { k m }$ ○研究地点位于廊道西向东 $2 3 . 5 \mathrm { k m }$ 处北侧的沙丘迎风面 $\langle 1 0 3 ^ { \circ } 1 2 ^ { \prime } 4 9 . 5 1 ^ { \prime \prime } \mathrm { E } , 3 8 ^ { \circ } 2 7 ^ { \prime } 5 6 . 2 4 ^ { \prime \prime } \mathrm { N } \rangle$ ，行政区划属甘肃省武威市民勤县南湖镇。研究区地处腾格里沙漠西缘与民勤绿洲交界地带，区内以流动、半固定沙丘与丘间低地为主，人工干预区多固定、半固定沙丘。该区属干旱荒漠区，冬冷夏热、降水稀少、光照充足，昼夜温差大，属温带大陆性沙漠气候。累年年均气温 $9 . 3 8 ~ \mathrm { \textdegree C }$ ,年均降水量 $1 1 3 . 2 \ \mathrm { m m }$ ，年均潜在蒸发量 $2 6 2 3 ~ \mathrm { m m }$ ，为降水量的23.2倍；年均日照时数 $3 0 7 3 . 5 \mathrm { h }$ ,无霜期 $1 6 2 \mathrm { d } _ { \circ }$ 累年年均风速 $2 . 6 \mathrm { { m } \cdot \mathrm { { s } ^ { - 1 } } }$ 近40a极端最大风速 $2 8 . 5 \ \mathrm { m \cdot s ^ { - 1 } }$ （发生在2004年6月19日）,年均最多风向为西北西向，占十六位主风向的 $1 0 . 7 1 \%$ 以上;平均年大风日数 $2 8 . 2 \ : \mathrm { d } ^ { [ 2 8 ] }$ ,沙尘暴日数25.0d，扬沙日数37.5d,浮尘日数 $2 9 . 7 \mathrm { d }$ 。地带性土壤为灰棕漠土[29],隐域性土壤为风沙土。植被以旱生及超旱生性的小乔木、灌木和半灌木为主。
+
+流动沙丘东翼长 $1 0 4 \mathrm { ~ m ~ }$ ,西翼长 $1 1 3 \mathrm { ~ m ~ }$ ，中线长$1 8 \mathrm { ~ m ~ }$ ,迎风坡坡度为 $1 3 ^ { \circ }$ ,背风坡坡度为 $2 9 ^ { \circ }$ 。在修建沙漠公路时沙丘西翼南侧被截断，沙丘形态遭到破坏。迎风面有多种沙障类型覆盖，于2019年春季设置完毕。根据可行性和合理性选取设于沙丘迎风坡中线两侧的纤维网沙障(FSB)和土工编织袋沙障(GSB)作为研究对象(表1)。
+
+# 2数据与方法
+
+# 2.1数据采集
+
+在每种沙障覆盖区内划分3(北一南） $\mathbf { \nabla } \times 3$ （西一东)大网格，共9个区域(图1)，其中FSB覆盖区由北向南、自西向东记A1\~A9区，GSB覆盖区由北向南、自西向东记B1\~B9区。 $\mathrm { a l \sim a 9 }$ 区为FSB区中A1\~A9区内 $1 . 5 ~ \mathrm { m } { \times } 1 . 5 ~ \mathrm { m }$ 方格;b1\~b9区为GSB区中B1\~B9区内 $2 \mathrm { m } { \times } 2 \mathrm { m }$ 方格。
+
+调查试验区风沙蚀积状况。在上述每种沙障的9区中，每区任选3块试验方格作为重复，每格记录北一南和东一西方向中部每隔 $1 0 \mathrm { c m }$ 的风蚀风积数据，记录蚀积度和障高，同时调查沙障的破损范围和破损程度等。
+
+获取试验区地表形态数据。利用RIEGLVZ-2000i三维激光扫描仪对试验区进行扫描。首先选择扫描站点，在站点架设三脚架，放置扫描仪及其配件，更改工作工程名称，设定扫描仪参数(表2)，开始扫描。扫描一站后直接拆卸并移动到下一站架设完成后，扫描仪自动识别新站点。GSB区从西侧中部附近开始，沿顺时针方向随沙障边缘设置站点，环绕一周后，在试验区中部自西向东补测5站，除去废站和尾站共计24站。而FSB区扫描方式进行调整，在试验区内部自西向东设定南北两条扫描站点移动路线，提高了扫描效率，但由于2条移动路线为同向，难以在后期拼接中形成闭环，为保证拼接重叠率和精确度，需将其中1条路线中所有站点
+
+# 表1 沙障基本参数
+
+Tab.1 Basic parameter of sand barriers   
+
+<html><body><table><tr><td>沙障类型</td><td>覆盖面积/m</td><td>沙障网格</td><td>障高/m</td><td>透风率/%</td><td>破损程度</td></tr><tr><td>纤维网沙障(FSB)</td><td>4214.94</td><td>1.5mX1.5m</td><td>0.20</td><td>35~40</td><td>整体完好，西侧存在少数破损。</td></tr><tr><td>土工编织袋沙障(GSB)</td><td>5576.35</td><td>2 m×2 m</td><td>0.13~0.15</td><td>0</td><td>东侧破损较多,破损率达30%~60%;西侧基本完好,有少数破损。</td></tr></table></body></html>
+
+# 干辛区地理
+
+注：FSB为纤维网沙障;GSB为土工编织袋沙障;A1\~A9为FSB区内由北向南、自西向东的区域;B1\~B9为GSB区内由北向南、自西向东的区域。1\~9区为取样区由北向南、自西向东的位置。调查区内虚线为沿北—南和东—西2个方向的调查路线。
+
+![](images/72e0e5899cc3ca61521d7f7d286434ffa59b1aac983fce6d8512891bd69c7aa7.jpg)  
+图1研究区和样地设置示意图  
+Fig.1Sketch map of the study area and sampling plots
+
+# 表2RIEGLVZ-2000i三维激光扫描仪技术参数
+
+Tab.2 Technical parametersofRIEGLVZ-2oooi3DLaser Scanner   
+
+<html><body><table><tr><td>测量程序</td><td>扫描模式</td><td>扫描时长</td><td>图像重叠度</td><td>垂直扫描(线扫描)</td><td></td><td>水平扫描(面扫描）扫描精度(重复精度)</td></tr><tr><td>1200 kHz</td><td>Panorama_15</td><td>315s</td><td>30%**</td><td>100°(+60%-40°)</td><td>360°</td><td>5 mm(3 mm)</td></tr></table></body></html>
+
+注：\*表示仅扫描时长，不含拍摄时长； $* *$ 表示 $3 6 0 ^ { \circ }$ 全景拍摄7幅影像。
+
+逆向拼接。
+
+# 2.2数据处理与分析方法
+
+2.2.1蚀积数据将获取的蚀积数据整理并简单处理后，在Matlab软件中编写三维曲面插值语言并标注最值及坐标信息，为便于观察和分析，特将三维曲面以俯视视角展示成二维图。
+
+2.2.2点云数据拷取扫描仪数据，点云数据处理主要使用RiSCANPRO软件来处理
+
+数据基本处理操作过程：导入数据后检查站点信息，利用Registration工具进行站点自动拼接。通过SelectionMode工具框选极窄区间检查拼接数据精度后利用MultiStationAdjustment方式进行点云精拼(手动拼接)。坐标系转化,利用GeoSys Manager软件构建CGCS200O的Geodetic数据并在RiSCANPRO软件中导入坐标系。显示点云、框选分析区域后创建Polydata，分别利用TerrainFilter和Octree工具去除噪点、抽稀。使用Triangulate创建数字高程模型(DEM)，显示构建DEM模型并导出到GeomagicWrap软件中，利用MeshDoctor中松弛平滑和去除钉状物功能对模型进行优化，导回RiSCANPRO查看影像。
+
+侵蚀深度、蚀积体积和侵蚀面表面积量测：利用SelectionMode工具，对方格进行裁剪，去除沙障部分点云数据，仅保留沙面数据；创建新的Polyda-ta,在ChangeView Type中利用Height进行显示,Cal-culate $\mathrm { M i n / M a x }$ ，从而获取蚀积深度数据。在Planes文件中创建新XY平面，通过调整控件对该平面进行平移旋转后使平面放置在模型之下，并保证平面完全覆盖模型，若稍有空隙可能导致体积和表面积测算出现错误。翻转平面正面向下方可进行下一步操作,使用MeasureVolume&SurfaceArea工具,直接计算体积和表面积。
+
+# 3结果与分析
+
+# 3.1纤维网沙障(FSB)内地表蚀积形态特征
+
+在基于人工测量后拟合曲面数据显示(图2），FSB均呈现四周高中间低的形态。不同位置出现最低值的位置均不同，其中a1区和a3区出现在中部偏北 $2 5 ~ \mathrm { c m }$ 处附近， $\mathrm { \ a 4 }$ 区、a5区和a6区基本位于方格中心，而a7区出现在中部偏西 $1 0 \mathrm { c m }$ 处,a8区位于中部偏南 $2 7 \mathrm { c m }$ 处， $\mathrm { a 9 }$ 区出现在中部偏东 $4 6 \mathrm { c m }$ 处。侵蚀深度最大的是a3区，最低值为 $4 . 9 4 9 \ \mathrm { c m }$ 。观察图中方格侵蚀深度可以看出，侵蚀强度大致呈现北部最强，南部次之，中部最弱。中部a5区堆积状况最明显，最低值为 $4 . 9 5 2 ~ \mathrm { c m }$ 。考虑到西部靠近中线背风一侧，因此侵蚀减弱，发生堆积。北部靠近主风向区，地貌平坦区呈侵蚀加深状况。在南部随地表抬升，侵蚀逐渐加深，且偏向南和东侵蚀，在北和西堆积。但从图中看出，沿主风向没有明显的变化趋势。
+
+![](images/3aa372fb0174c47ce14f74a08d7364c57cab2c14b0adb9fdc892bc30f950c8f4.jpg)  
+图2基于人工测量的纤维网沙障(FSB)区不同位置方格内风沙蚀积状况  
+g.2Wind erosion and deposition in diffrent grids offibermesh sand barrier area based on manual measureme
+
+根据表3看出，侵蚀深度与侵蚀体积和侵蚀面表面积呈正相关。因此后两者也与侵蚀深度有类似的变化趋势。总体表现出南部侵蚀最强，中部堆
+
+积最强的状况。
+
+基于点云数据的蚀积状况分布图显示(图3)，FSB西部即a1区、 $\mathrm { \ a } 4$ 区和a7区侵蚀最低处位于北部和东北部，沙丘中部和东部区侵蚀最强的地区均位于沙障的东侧。侵蚀深度在沙障北和中部相对较小，为 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ ;而在南区相对较大,为 $2 0 { \sim } 3 0 ~ \mathrm { c m }$ 。
+
+表3基于点云数据的沙障方格内蚀积状况  
+Tab.3 Wind erosion and deposition in grids of sand barrier area based on point cloud data   
+
+<html><body><table><tr><td>方格编号</td><td>海拔/m</td><td>深度/m</td><td>表面积/m²</td><td>体积/m</td><td>方格编号</td><td>海拔/m</td><td>深度/m</td><td>表面积/m²</td><td>体积/m²</td></tr><tr><td>a1区</td><td>1328.20</td><td>0.204</td><td>3.180</td><td>0.1024</td><td>b1区</td><td>1322.37</td><td>0.117</td><td>2.745</td><td>0.1771</td></tr><tr><td>a2区</td><td>1327.60</td><td>0.136</td><td>2.945</td><td>0.0939</td><td>b2区</td><td>1324.60</td><td>0.245</td><td>3.280</td><td>0.2299</td></tr><tr><td>a3区</td><td>1326.59</td><td>0.155</td><td>3.635</td><td>0.1099</td><td>b3区</td><td>1326.70</td><td>0.161</td><td>2.590</td><td>0.1444</td></tr><tr><td>a4区</td><td>1329.24</td><td>0.102</td><td>3.360</td><td>0.1282</td><td>b4区</td><td>1322.95</td><td>0.121</td><td>2.745</td><td>0.1327</td></tr><tr><td>a5区</td><td>1328.40</td><td>0.105</td><td>4.190</td><td>0.1168</td><td>b5区</td><td>1325.42</td><td>0.238</td><td>3.220</td><td>0.2477</td></tr><tr><td>a6区</td><td>1326.37</td><td>0.203</td><td>3.905</td><td>0.1030</td><td>b6区</td><td>1328.13</td><td>0.208</td><td>3.535</td><td>0.2690</td></tr><tr><td>a7区</td><td>1329.88</td><td>0.341</td><td>4.365</td><td>0.1470</td><td>b7区</td><td>1326.75</td><td>0.162</td><td>2.580</td><td>0.1900</td></tr><tr><td>a8区</td><td>1328.88</td><td>0.289</td><td>3.695</td><td>0.0973</td><td>b8区</td><td>1326.89</td><td>0.286</td><td>2.670</td><td>0.1344</td></tr><tr><td>a9区</td><td>1325.72</td><td>0.277</td><td>3.225</td><td>0.0855</td><td>b9区</td><td>1329.34</td><td>0.281</td><td>3.190</td><td>0.2524</td></tr></table></body></html>
+
+注：海拔为方格内最低侵蚀深度处的海拔;深度为最低侵蚀深度。
+
+![](images/d275d14b693c233a5394d62f93c5c07c7d41666b35674902e402f405874dff85.jpg)  
+图3基于点云数据的纤维网沙障(FSB)区不同位置方格内风沙蚀积状况  
+ig.3Wind erosion and deposition in different grids of fibermesh sand barrier area based on point cloud
+
+根据侵蚀深度可以看出，呈现从北向南侵蚀逐渐增强的趋势。从西向东在沙丘同一高度范围内侵蚀深度有所减小，这在一定程度上代表沙障区能够起到阻拦风沙的作用。同人工测量数据相比较，点云数据侵蚀深度更大，同时侵蚀部位略有不同，但大体呈中心偏北和东部侵蚀深度最强，中西部堆积状况最明显。
+
+# 3.2土工编织袋沙障(GSB)内地表蚀积形态特征
+
+在GSB人工测量蚀积状况时，由于b7区处于灌丛沙包复杂地貌区，综合考虑其对整体地貌形态展现的影响不大，而且可以根据扫描仪点云数据进行信息补充，因此测量时将该区删去(图4)。GSB基于点云数据的蚀积图中，b4区中部有微小隆起地貌，可能是由于植被生长阻滞沙尘造成在方格内南部和偏东部出现深度较大位置。
+
+GSB全区呈中部侵蚀四周较高的形态，根据图4可以看出，最低值出现在b1区中部偏东北，最低值为 $- 1 2 . 0 2 2 ~ \mathrm { c m }$ ;侵蚀较弱处位于b6区，最低值为$- 5 . 5 2 8 ~ \mathrm { c m }$ 。整体来看，侵蚀最低值出现位置多在中部偏北和偏东部，但b4区和b9区出现在中部偏南 $2 0 { \sim } 2 5 ~ \mathrm { c m }$ 处;b3区出现在方格中心;其余多出现在偏东或偏北 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ 处。考虑到当地除西北风外，主要是东南风，GSB区整体处于沙丘东侧，东南风受到沙丘抬升，风力增强，侵蚀加剧，因此东部靠近中线区域侵蚀深度都偏高。
+
+基于点云数据的蚀积图(图5)中，除b4区中部微地貌状况复杂；其余位置均为方格内北部区出现最低值。这组数据与人工测量数据基本保持一致。侵蚀深度与FSB区相似，北部侵蚀深度较小，为$2 5 { \sim } 3 0 ~ \mathrm { c m }$ ;南部侵蚀深度较大，为 $3 0 { \sim } 3 5 ~ \mathrm { c m }$ 。侵蚀体积量和侵蚀面表面积同样呈自北向南逐渐增大趋势。
+
+![](images/20e52c12dbcca838d71ce46daa2a5405d3bfeb2fb4bd6a7b2da27832f79ff433.jpg)  
+图4基于人工测量的土工编织袋沙障(GSB)区不同位置方格内风沙蚀积状况  
+'ig.4Wind erosionand deposition in diferent grids of geotextile bags sand barrier area based on manual measureme
+
+# 4讨论
+
+本文采用人工测量和点云数据2种方式来表征沙障内地表蚀积形态变化，2种数据结果基本保持一致，但也存在误差。出现以上问题的原因：一是人工测量误差，在人工测量中，卷尺稳定性、人眼真实性、读数准确性和选择测量路线的最优性都存在误差，因此数据可靠性有所降低；二是拟合误差，由于人工测量费时费力，为提高效率只测量每个方格内北一南、东一西2条路线,在后续拟合曲面中明显感受到数据量匮乏，拟合曲面四周形态与实际状况多有不符，因此会出现上述结果而产生出入。由于点云数据采用新型三维激光扫描技术对地貌形态进行精确反演，其精确性高[30],扫描精度为 $5 \mathrm { m m }$ ，重复扫描精度能达到 $3 \mathrm { m m }$ ,相比上述人工测量时产生误差几乎可以忽略不计。扫描仪利用脉冲信号进行工作，不受光线影响，可以逼真地还原地表状态，大大减少人为因素介入产生的误差[26.31]等。故对于两者不一致的地方，我们选择点云数据作为可靠数据源，相对人为因素较小，更接近实际情况
+
+FSB属于透风结构型沙障，是通过改变下垫面的性质，增加地表粗糙度，来实现降低风速，减弱风蚀，从而达到固沙效果。同时，由于沙障的影响，使障内土壤水分的再分配过程产生滞后性，有助于改善生境，固定流沙[9]。这种沙障操作简单，使用寿命长,但极易发生掏蚀和沙埋["]。GSB是一种非透风结构型袋状沙障，是通过改变近地面风速流场，从而导致风速降低，改变风蚀布局[32-33]。其中部易形成稳定凹面，造成风沙流的非堆积搬运地表条件，防风固沙效果非常显著。费用仅为黏土沙障和麦草沙障的 $4 3 . 7 \%$ 和 $5 3 . 7 \% ^ { [ 3 4 ] }$ 。但由于其袋状特性,障体易发生变形扭曲，因此会增加后期管护费用。
+
+![](images/bb948d74486676b130814583c071a21ffa38b058918017a12f7f74262816b3e3.jpg)  
+图5基于点云数据的土工编织袋沙障(GSB)区不同位置方格内风沙蚀积状况  
+Fig.5Winderosionanddeposition in diferent grids of geotextile bags sand barrierarea basedon pointcloud data
+
+根据蚀积图显示，FSB区侵蚀深度、侵蚀量和侵蚀面表面积均呈自北向南逐渐增大的趋势。由于本区主风向为北或北西，再加上风力作用沿沙丘迎风坡抬升而加强[35],风蚀进一步增强，因而沙障内风沙流运动方向是自北向南，造成侵蚀深度、侵蚀量和侵蚀面表面积均呈自北向南逐渐增大的趋势。在中南部区域纤维网破损较多也可以证明这一点。GSB区结果与FSB区基本一致,但侵蚀深度、侵蚀量和侵蚀面表面积都比FSB区大，其中侵蚀深度深 $20 \% { \sim } 4 0 \%$ ,侵蚀量比FSB高 $45 \% \sim 7 0 \%$ 。出现原因可能为GSB处于中线迎风面，这一点可以从沙障区海拔高度自西北向东南逐渐升高得出；而FSB区海拔高度从东向西逐渐减小，处于背风的地貌单
+
+元内。
+
+FSB在A6区、A7区和A9区出现纤维网破损，其中A7区破损较少有2处;A6区和A9区破损8处。其余位置均未出现破损状况，总体完好程度较好，破损范围较小。GSB中B3区、B6区、B8区和B9区土工编织袋破损严重，破损区域占 $30 \% { \sim } 6 0 \%$ ,其中B6区和B9区最严重，可达 $6 0 \%$ 以上。在破损区内，以东西2侧破损最严重，破损率达 $2 5 \% { \sim } 7 0 \%$ 不等。除上述区外其余也都出现沙障破损，但破损程度为$10 \% { \sim } 3 0 \%$ ，不影响沙障防护效能。2种沙障均呈现中南部沙障破损严重，高于其余位置 $30 \% { \sim } 5 0 \%$ ，这与当地主害风向为西北风相一致。另外，GSB破损范围和破损程度均大大高于FSB，土工编织袋由于其张力转化和应力扩散[3,易形成宽平裸露面，极易被风掏蚀损坏。
+
+在三维点云数据处理过程中还存在很多不足之处。例如：第一，在侵蚀量和侵蚀面表面积计算时，需要建立标准面，由于本试验中方格范围较小，构建标准面通常需要包括沙障一同计算，误差才会降低，因此这2项指标并非指单纯侵蚀体积和表面积，还包含有近1/2的沙障体积和表面积，由于构建平面位置基本一致，因此在实验中将此误差忽略不计。第二，在求取沙面高度差时也存在一定误差，因为点云处理软件无法分辨地物，因此沙障和沙面需要通过目视解译的方法来截取，故而会产生误差，在空气中的尘埃粒子若去除不完整也会影响数据精度等。目前利用三维激光扫描技术在风沙地貌和防沙治沙领域开展工作还比较少[37-39],可以为科学研究提供新手段，同时也需将两者进行合理兼容。想要获取更高精度、高效率的试验数据，还需要更深入地研究和探讨。
+
+在本研究中无论是FSB还是GSB方格内侵蚀深度最大值均不是位于方格中心，而是在偏北或偏东区。张登山等4对麦草方格沙障内部蚀积状况曾做过研究，认为在方格内最低侵蚀深度会偏离方格中心，与本研究中的结果较为吻合。同时，他还研究在沙障各种规格中南西—西一北西一北方位带为强堆积区，中心和南部为弱堆积区即侵蚀区。在本文中得出结果为北一北东一东一南东方位带为侵蚀区即弱堆积区，中心和西部为强堆积区，出现与其他研究者不同的结果。可能造成上述结果差异的原因是由于沙丘坡度与走向不一致，以及主风向、沙障规格和人工干预程度不同而存在偏差，导致地貌状况改变所产生对风的影响效能不同，最终导致最低侵蚀深度位置发生不同。上述内容仍然鲜有学者进行研究，对此蚀积规律还需进一步探索和发现。
+
+# 5结论
+
+（1）在中线两侧，2种沙障区侵蚀深度、侵蚀量和侵蚀面表面积均沿主风向呈逐渐增大的趋势。迎风侧GSB侵蚀深度、侵蚀量和侵蚀面表面积都比FSB大，其中侵蚀深度比FSB的值深 $2 0 \% { \sim } 4 0 \%$ ，侵蚀量比FSB高 $45 \% \sim 7 0 \%$ 。
+
+(2）2种沙障均呈现中南部沙障破损严重，高于其余位置 $30 \% { \sim } 5 0 \%$ ,土工编织袋存在风掏蚀损坏，GSB沙障破损范围和破损程度均大大高于FSB。(3）在沙障方格内部侵蚀深度最大值多数不是位于方格中心，其中北一北东一东一南东方位带为侵蚀区即弱堆积区，中心和西部为强堆积区。（4）根据2种沙障蚀积状况进行分析，可以看出GSB沿主风向最低侵蚀深度增大，且侵蚀深度大于FSB，同时FSB破损率大大低于GSB，因此FSB阻沙效果优于GSB。(5）在利用三维激光扫描技术进行微地貌形态反演不仅可以准确测量出侵蚀深度，而且可以通过软件操作实现侵蚀量和侵蚀面表面积的计算，这对风沙地貌和防沙治沙领域精确研究微地貌形态具有重要的应用价值。
+
+致谢：本研究得到中测瑞格测量技术(北京)有限公司部尚发测量员在RIEGLVZ-200Oi三维激光扫描仪操作规范和RiSCANPRO软件使用中的帮助和支持，在此深表感谢。
+
+# 参考文献(References)
+
+[1]白美兰,沈建国,裴浩,等.气候变化对沙漠化影响的评估[J].气 候与环境研究,2002,7(4):457-464.[Bai Meilan, Shen Jianguo, Pei Hao,et al.Assessment of climate change impact on desertifica tion[J]. Climatic and Environmental Research,2OO2,7(4):457-   
+464.] [2] 阿如旱,都来,盛艳,等.基于Logistic回归模型的内蒙古多伦县 土地沙漠化驱动力分析[J].干旱区地理,2019,42(1):137-143. [Aruhan,Du Lai, Sheng Yan,et al.Driving forces on land desertification in Duolun County Inner Mongolia based on Logistic regress model[J].Arid Land Geography,2019,42(1): 137-143.] [3] 吴正.风沙地貌与治沙工程学[M].北京:科学出版社,2003:   
+315-318.[Wu Zheng.Aeolian landforms and sand control engineering[M]. Beijing: Science Press,2003: 315-318.] [4] ZonnIS,Kust G S,Andreeva OV.Desertification paradigm: 40 years of development and global efforts[J].Arid Ecosystems,2017,   
+7(3): 131-141. [5] 刘爱民,慈龙骏.现代荒漠化过程中人为影响的系统分析 以内蒙古自治区乌审旗现代荒漠化过程为例[J].自然资源学 报,1997,12(3): 16-23.[Liu Aimin, Ci Longjun.A systematic analysis of the man- made influence in modern desertification process: Modern desertification process in Wushen,Inner Mongolia[J]. Journal of Natural Resources,1997,12(3): 16-23.] [6] 屠志方，李梦先,孙涛.第五次全国荒漠化和沙化监测结果及分
+
+# 干旱区地理
+
+析[J].林业资源管理,2016(1):1-5,13.[Tu Zhifang,Li Mengxian, Sun Tao.The status and trend analysis of the $5 ^ { \mathrm { t h } }$ China national desertification and sandification[J].Forest Resources Manage ment,2016(1): 1-5,13.]   
+[7]于程.我国荒漠化和沙土化防治对策[J].农业工程,2012,2(2): 69-71.[Yu Cheng. Countermeasures of desertification and land sandification prevention and control in China[J]. Agricultural Engineering,2012,2(2): 69-71.]   
+[8]常兆丰,仲生年,韩福桂,等.粘土沙障及麦草沙障合理间距的 调查研究[J].中国沙漠,200,20(4):11-113.[Chang Zhaofeng, Zhong Shengnian, Han Fugui,et al. Research of the suitable row spacing on clay barriers and straw barriers[J]. Journal of Desert Research,2000,20(4): 111-113.]   
+[9]丁爱强,谢怀慈,徐先英,等.3种不同机械沙障设置后期对沙 丘植被和土壤粒度与水分的影响[J].中国水土保持,2018(5): 59-63,69.[Ding Aiqiang, Xie Huaici, Xu Xianying, et al. Influence of three different mechanical sand barriers to sand dune vegetation,soil particle size and moisture content in late stage[J]. Soil and Water Conservation in China, 2018(5): 59-63,69.]   
+[10] 刘虎俊,王继和,李毅,等.塑料网方格沙障对新月形沙丘迎风 坡的风沙流影响[J].水土保持学报,2011,25(5):26-29,34. [LiuHujun,Wang Jihe,Li Yi,etal.Effectsof plasticcheckerboard sand barier on wind sand flux of leward of crescentic dune [J]. Journal of Soil and Water Conservation,2011,25(5): 26-29, 34.]   
+[11]马全林,王继和,詹科杰,等.塑料方格沙障的固沙原理及其推 广应用前景[J].水土保持学报,2005,19(1):36-39,58.[Ma Quanlin,Wang Jihe,Zhan Kejie,etal. Study on fixing sand principals of plastic checkerboard sand barrier and its potential application[J].Journal of Soil and Water Conservation,2OO5,19(1): 36- 39, 58.]   
+[12]Cheng H, HeW W,Liu C C,et al. Transition model for airflow fields from single plants to multiple plants[J].Agricultural and Forest Meteorology,2019,266-267: 29-42.   
+[13]Guo Z L,LiJF,Chang C P,et al. Logistic growth models for describing the fetch effect of aeoliansand transport[J].Soil and Till age Research,2019,194: 104306,doi:10.1016/j.still.2019.104306.   
+[14] Cheng H, Liu C C,Zou X Y,et al. Wind erosion rate for vegetated soil cover: A prediction model based on surface shear strength[J]. Catena,2020,187:104398,doi:10.1016/j.catena.2019.104398.   
+[15] 李谦,高永,汪季,等.聚乳酸纤维沙障对表层土壤含水量的影 响[J].中国水土保持科学,2012,10(3):69-74.[Li Qian,Gao Yong,Wang Ji, et al. The effect of PLA sand barrier on the moisturecontent of surface soil[J].Scence of Soil and Water Conserva tion, 2012,10(3): 69-74.]   
+[16] 孙涛,王继和,满多清,等.仿真固沙灌木防风积沙效应的风洞 模研空水 +保挂学报 011 5(6).40-54 S. T) Wang Jihe, Man Duoqing,etal. Simulation effect of preventing wind and combating sand of simulated sand-fixing shrub in wind tunnel testing[J]. Journal of Soil and Water Conservation,2011, 25 (6): 49-54.]   
+[17] 赵文玲.新型生物可降解PLA沙袋沙障降解特性及其影响因 子探究[J].水土保持研究,2015,22(6):198-202.[Zhao Wenling. Analysis of degradation characteristic and its effect factors of new biodegradable PLA sand barrier[J].Research of Soil and Water Conservation,2015,22(6): 198-202.]   
+[18]BeadnellHJL. The sand-dunes of the libyan desert: Their origin, form,and rateof movement,considered in relation to the geological and meteorological conditions of the region[J].The Geographical Journal,1910,35(4): 379-392.   
+[19] 郑德华,沈云中,刘春.三维激光扫描仪及其测量误差影响因素 分析[J].测绘工程,2005,14(2):32-34,56.[Zheng Dehua, Shen Yunzhong,Liu Chun.3D laser scanner and its effect factor analysis of surveying eror[J]. Engineering of Surveying and Maping 2005,14(2): 32-34, 56.]   
+[20] 高宝华,蒋理兴,郭连惠,等.地面三维激光扫描仪自检校方法 研究[J].海洋测绘,2012,32(5): 45-48,52.[Gao Baohua,Jiang Lixing,Guo Lianhui,et al. Study on the self-check calibration method of the laser scanner[J]. Hydrographic Surveying and Charting, 2012, 32(5): 45-48, 52.]   
+[21] Heritage G L, Large A R G. Laser scanning for the environmental sciences[M]. Chichester: Wiley-Blackwell,2Oo9:21-34.   
+[22] 马玉凤,严平,时云莹,等.三维激光扫描仪在土壤侵蚀监测中 的应用——以青海省共和盆地威连滩冲沟监测为例[J].水土 保持通报,2010,30(2):177-179.[Ma Yufeng,Yan Ping,Shi Yunying,et al.Application of laser 3Dscanner in soil erosion research: Taking gully erosion monitoring in Weiliantan, Gonghe Basin, Qinghai Province as an example[J]. Bulltin of Soil and Water Conservation,2010,30(2): 177-179.]   
+[23]Bitenc M,Kieffer D S,Khoshelham K.Evaluation of wavelet and non-local mean denoising of terrestrial laser scanning data for smallscale joint roughness estimation[J]. International Archives of the Photogrammetry,Remote Sensing and Spatial Information Sciences, 2016,41: 181-186.   
+[24] Zhu N N,Jia Y H,Luo L. Tunnel point cloud filtering method based on elliptic cylindrical model[J].International Archivesof the Photogrammetry,Remote Sensing and Spatial Information Sciences, 2016,41: 735-740.   
+[25] 潘凯佳,张正傯,梁爱民,等.基于倾斜摄影技术的戈壁灌丛沙 丘形态反演及其对粉尘释放研究的意义[J].中国沙漠,2020, 40(2): 1-9.[Pan Kaijia, Zhang Zhengcai,Liang Aimin,etal.Nebkhas geomorphology in the gobi desert using the unmanned aerial vehele and tilt camera[J]. Journal of Desert Research,2O20,40(2): 1-9.]   
+[26]丁连刚,严平,杜建会,等.基于三维激光扫描技术的草方格沙 障内蚀积形态监测[J].测绘科学,2009,34(2):90-92.[Ding Liangang,Yan Ping,Du Jianhui,et al. Monitoring the state of erosion and deposition in straw checkerboard barriers based on 3D laser scaning technique[J]. Science of Surveying and Mapping, 2009,34(2): 90-92.]   
+[27]王鸿.三维激光扫描技术在机械沙障防沙效益评价中的应用研 究[J].安徽农业科学,2013,41(36): 13992-13993,14005.[Wang Hong.Application of 3D laser scanning technology in the evaluation of the benefits of mechanical sand barriers[J]. Journal of Anhui Agricultural Sciences,2013,41(36): 13992-13993,14005.]   
+[28] 常兆丰,朱淑娟,杜娟,等.民勤绿洲边缘积沙带形成的环境条 件[J].干旱区地理,2019,42(6):1330-1336.[Chang Zhaofeng, Zhu Shujuan,Du Juan,et al. Environmental factors causing the formation of sand-accumulation belt along the oasis fringe in Minqin[J]. Arid Land Geography,2019,42(6): 1330-1336.]   
+[29] 赵鹏,徐先英,屈建军,等.民勤绿洲—荒漠过渡带白刺群落空 间分布及其环境解释[J].干旱区研究,2016,33(5):1003-1011. [Zhao Peng,Xu Xianying,Qu Jianjun,et al. Spatial distribution of Nitraria tangutorum communities and its environmental interpretations in the Minqin oasis-desert ecotone[J].Arid Zone Research, 2016,33(5): 1003-1011.]   
+[30] 崔磊,张凤录.地面三维激光扫描系统内外业一体化研究[J].北 京测绘,2013(1):47-49,90.[Cui Lei, Zhang Fenglu. Study on operational procedures integration of 3D terrestrial laser scanning system[J]. Beijing Surveying and Mapping,2013(1): 47-49, 90.]   
+[31] 代志宇,肖昭然,王力,等.地面三维激光扫描仪测量误差检定 [J].测绘与空间地理信息,2016,39(7):79-81.[Dai Zhiyu,Xiao Zhaoran,Wang Li,et al. Terrestrial 3D laser scanner analysis of surveying eror[J]. Geomaticsand Spatial Information Technology, 2016,39(7): 79-81.]   
+[32] 王艺钊,原伟杰,丁国栋,等.聚乳酸(PLA)沙障凹曲面及沉积物 粒度特征研究[J].干旱区地理,2020,43(3):671-678.[Wang Yizhao,Yuan Weijie,Ding Guodong,et al. Concave surface features and grain-size characteristics in polylactic acid sand barrier[J]. Arid Land Geography,2020,43(3): 671-678.]   
+[33]Jia WR,Zhang CL,Zou X Y,et al.Effects of ridge height and spacing on the near-surface airflow field and on wind erosion of a sandy soil: Results of a wind tunnel study[J]. Soil and Tillage Research,2019,186: 94-104.   
+[34] 陈赞.沙漠公路防风固沙技术应用研究[J].内蒙古公路与运输, 2007(2):7-11,58.[Chen Yun. Research on application of windproof and sand-fixing technology on desert highway[J].Highways and Transportation in Inner Monoglia,2007(2): 7-11,58.]   
+[35] 哈斯,董光荣,王贵勇.腾格里沙漠东南缘沙丘表面气流与坡面 形态的关系[J].中国沙漠,1999,19(1):3-5.[Hasi,Dong Guangrong,Wang Guiyong. Near-surface airflow and slop morphology of dunes in southeastern Tengger Desert[J]. Journal of Desert Research,1999,19(1): 3-5.]   
+[36] 邵介贤,黄健,周伯明,等.土工编织袋在路基工程中应用的研 究[J].公路,2005(7): 82-87.[Shao Jiexian,Huang Jian, Zhou Boming,et al. Study on the application of geotextile bag in roadbed engineering[J]. Highway,2005(7): 82-87.]   
+[37]丁连刚.三维激光扫描技术在风沙科学领域的应用[D].北京: 北京师范大学,2009.[Ding Liangang.Application of 3D scanning technique in monitoring aeolian landforms[D]. Beijing: Beijing Normal University,2009.]   
+[38] 刘宇胜.阿拉善北部戈壁地区新月形沙丘移动规律研究[D].呼 和浩特:内蒙古农业大学,2018.[Liu Yusheng.The study on the law of barchan dunes’movement in the gobi area in northern Alxa [D]. Hohhot: Inner Mongolia Agricultural University,2018.]   
+[39] 张超,高永,党晓宏,等.三维激光扫描技术在水土保持与荒漠 化防治中的研究进展[J].浙江林业科技,2018,38(3):72-76. [Zhang Chao,Gao Yong,Dang Xiaohong,et al.Application of 3D laser scanning technique in soil and water conservation and desertification control[J]. Journal of Zhejiang Forestry Science and Technology,2018,38(3): 72-76.]   
+[40] 张登山,吴汪洋,田丽慧,等.青海湖沙地麦草方格沙障的蚀积 效应与规格选取[J].地理科学,2014,34(5):627-634.[Zhang Dengshan,Wu Wangyang,Tian Lihui,et al. Effects of erosion and deposition and dimensions selection of straw-checkerboard barri
+
+ers in the desert of Qinghai Lake[J]. Scientia Geographica Sinica, 2014,34(5): 627-634.]
+
+# 干旱区地理
+
+# Erosion and deposition status of surface morphology and observational spatial pattern in two sand barriers
+
+CHI Zheng'， XU Xianying¹,234， LIU Kailin²， LIU Hujun²，LI Yaqi4,MENG Ruiling4， FU Li4， LI Xuening'， QIU Xiaona²3
+
+(1.InstituteofesertificationSudies,ChieseAcademyofForestryeijingOO91,Chia;.StateKeyLaboratoreding Base of Desertificationand Aeolian Sand Disaster Combating,Gansu Desert Control Research Institute,Lanzhou 73o7o,Gansu, China;3.Gansu Minqin NationalFieldObservationandResearch StationonEcosystemof Desertification Rangeland,Wuwei 733000,Gansu,China;4.Collge of Forestry,Gansu Agricultural University,Lanzhou 73Oo7o,Gansu, China)
+
+Abstract:Desertification isone of the most severe environmental problems facing human beings，and mechanical sand barriers are a critical measure for sand prevention and control.Taking the plant fibermesh and geotextile bag sand barriers on the migratory dunes at the western edge of the Tengger Desert, northwest China as research objects,thre-dimensional laser scanning technology combined with traditional measurement methods was used to measure the microtopography and morphology within the sand barriers.For the most part, MATLAB and RiSCAN PRO were used to analyze the data,describe the surface erosion morphology changes within the sand barrier,and draw the surface erosion morphology map.The results demonstrated the folowing:(1) The erosion depth,wind erosion amount,and wind erosion surface area of the two kinds of sand barrier all exhibited a gradually increasing trend along the main wind direction.The erosion depth,erosion amount,and surface area of the geotextile bag sand barriers on the ridge's windward side and at the dune's midline were larger than those of the fibermesh sand barriers.The erosion depth of the former was $20 \% - 4 0 \%$ deeper than the latter, and the erosion amount was $45 \% - 7 0 \%$ higher. (2) Both sand barrier types showed signs of severe damage in the central and southern parts of the region,where they were $30 \% - 5 0 \%$ higher than in the other areas.Because the geotextile bags were damaged by wind erosion, the scope and degree of the geotextile sand barier damage were greater than those of the fibermesh sand barier damage. (3)For the most part,the maximum erosion depth in the sand barrier grid was not located at the grid’s center. The $\mathrm { N - N E - E - S E }$ azimuth zone was an erosion and weak deposition Zzone,and the center and west were a strong deposition Zone.(4) The erosion depth of the geotextile sand barrier area was greater than thatof the fibermesh sand barier area,and the damage rate of the fibermesh sand barriers was much lower than that of the geotextile sand barriers.Accordingly,it can be concluded that the fibermesh sand barriers are more durable and effective than the geotextile sand barriers. One previous study found that the maximum erosion depth was not located at the center of the grid. However,the corresponding results on the erosion and accumulation areas difered from the results obtained in this article.The reasons for the difference in results may be the inconsistency in the slope and direction of the dunes as well as deviations in the leading wind direction,sand barier specifications,and degree of manual intervention. Particularly,these may have resulted in different efects on the wind because of changes in the landform conditions,ultimately leading to the occurrence of the lowest erosion depth position.Still，further explorationand discovery are necessary to determine the sand barrier'’ s microtopography and morphological erosion rules.For microtopography and morphology inversion,three-dimensional laser scanning technology and the asociated software can be used not only to accurately measure the erosion depth but also to calculate the amount of erosion and the surface area of the erosion surface, providing a new model for a detailed study of microtopographies in the fields of wind-sand landforms and sand control tools and methods.Additionally, it can provide a scientific basis for research on the sand-fixing and sand-resisting abilities of sand barriers.
+
+Key words: sand barrier； three-dimensional laser scanning technology； erosion and deposition status； micro-to-pography morphology; sand blocking effect

@@ -1,0 +1,375 @@
+[
+    {
+        "type": "text",
+        "text": "具身记忆及其内在机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金雨薇 孙潇 宋耀武(河北大学教育学院，保定071002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要具身记忆研究主要探讨身体及其感觉运动过程在记忆中的作用。操纵或限制身体的物理状态、具身特征或可用性，可以影响记忆的效率、效价和内容。其内在机制可以通过编码特异性原理、启动效应、隐喻表征理论和再激活假说进行解释，但尚未形成统一的模型。基于现有研究与理论的共性，提出具身记忆的感觉运动模拟模型，强调重新激活在具身记忆中的作用，以期在同一框架下说明身体作用于记忆的过程，并进一步指出重新激活的条件。未来亟需在具身记忆的稳定性以及深层机制等方面进行多维度的基础和应用研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词记忆，身体，具身认知，感觉运动模拟模型，编码特异性原理分类号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1、引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自 Ebbinghaus使用实证法研究记忆问题以来，学者们不断改变着看待记忆的方式，从多重储存记忆模型(Atkinson & Shiffrin,1968)再到语义网络模型(Collins &Loftus,1975)，记忆也从离散地储存在大脑中的抽象符号转变为大脑中一些可以相互关联的节点。然而到此，记忆痕迹仍只是根据句法规则操纵的抽象符号的组合，与身体无关。随着 Hamad(1990)指出抽象的符号操作模型不能解释符号系统是如何与世界相连的问题后，认为身体及其活动方式塑造了认知方式的具身观点发展成为认知领域不可忽视的思潮。自此“认知基于身体、源于身体”的观点逐渐成为共识，人们意识到身体可能是塑造诸如记忆等高级认知功能的关键(Cook & Goldin-Meadow,2006; Dutriaux et al.,2019; Glenberg,1997; Harmon-Jones et al., 2015;Mille et al., 2021; Marre et al., 2021; Wilson, 2002)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具身记忆研究主要探讨身体及其感觉运动过程对记忆的作用。Glenberg(1997)强调了运动系统在记忆中的重要性，指出世界是根据功能可见性编码的，而这些功能依赖于有机体的行动能力。此外，Damasio(1989)和Iani 等人(2018)的研究发现信息再认和信息回忆所需的大脑活动多处于感觉和运动区域附近，且前运动皮层是编码情境记忆的关键。后续一系列理论与研究表明记忆与感觉运动系统共享加工资源，并在一定程度上支持行动(Dutriaux &",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gyselinck,2016; Dutriaux et al.,2019; Tucker& Elis,2004;Wilson,2002)。这些结果强有力的证明了记忆并不是简单地储存在我们大脑中的抽象事物，它们来自于包括感觉运动元素在内的近端感觉投射，也就是说，符号只有通过感觉运动经验才能获得意义(Harmad,1990)。从这个新的角度来看，记忆过程不再是完全脱离普通感觉加工的高级认知活动，而是在与环境相互作用中，融合了来自视觉、听觉、行动、空间、情感和语言等方面的多模块成分。这些多模块成分在最初的加工过程中被激活、塑造和强化，并储存在相应的感觉运动通道中，提取时，记忆痕迹在一定程度上激活了与编码时一致的知觉和运动神经系统(Dutriaux et al.,2019; Glenberg,1997; Iani & Bucciareli,2018; Iani, 2019; Matheson & Barsalou,2018)。在日常生活中，也随处可见身体及其感觉运动过程对记忆的作用，如当一个人试图回忆一段经历时，仅仅通过一个与最初经历相关的姿势或动作，便可以使回忆效果更佳(Rand&Wapner,1967;Slowikowski & Motion, 2021)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国外目前围绕具身记忆已经发起了多项研究，其中最早将身体纳入记忆研究的是早期一些以具身化为导向的研究者。在具身认知理论还未出现以前，此类研究者从情境对记忆的研究角度入手，将身体姿势视为一种评估在学习与回忆之间可操纵的内部情境，以研究身体姿势如何构成相关的加工背景，从而影响记忆(Diez-Alamo et al.,2019)。随着具身认知理论的提出，研究者进一步将与情感状态相关的面部和身体姿势转换为与情绪编码无关的空间运动，从隐喻性角度对具身操作对记忆提取的影响做出解释(Casasanto& Dijkstra,2010; Casasanto& de Bruin,2019)。不仅如此，研究者还通过限制或改变运动效应器以干扰运动系统的可用性，反向证明具身操作在记忆中的重要作用(Dutriaux &Gyselinck,2016; Dutriaux et al.,2019;Iani& Bucciarell,2017,2018)。总之，身体在记忆过程中扮演着重要的角色。然而具身记忆的心理过程、身体影响记忆的关键变量等问题还不清楚，都需要更多理论与实证深入探究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "深入探究该话题，一方面，为提升具身认知在高级认知活动中的重要性提供支持；另一方面，也是从记忆研究的功能取向出发，提供人们理解记忆运作机制的新途径(李荆广，郭秀艳，2009; Carava,2021; Hutto& Myin,2017; Hutto & Peeters,2018)。除此之外，具身记忆研究还具有较高的应用价值，通过简单的调整身体姿势与动作，可以帮助人们自主选择回忆内容的积极性，增强记忆质量，调整情绪状态，促进社会适应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究通过文献回顾对具身记忆的实证研究和理论进行梳理，总结提出具身记忆的感觉运动模拟模型，以揭示具身记忆背后的底层逻辑，为其理论发展和实践运用提供理论参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2、具身记忆研究的进展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从离身认知到具身认知，是认知科学在研究范式上的一次重大转变(张博，葛鲁嘉,2017)。以具身化为导向的研究者，逐步从形式化、符号化的表征计算范式转向具体性、体验性和情境性的具身范式。本文将从研究范式的角度入手，展示在具身视角下对记忆的多元化研究，以期为未来具身记忆研究的展开提供可供参考的模板。目前应用于具身记忆研究的实验操作大致可以归纳为三类：第一类是操纵被试的身体物理状态，即编码与提取阶段身体姿势的一致性，主要应用于姿势依赖性记忆效应；第二类是操纵身体的具身特征，即在记忆提取阶段，操纵身体姿势或运动所隐喻的概念表征与提取内容之间的匹配性，主要应用于一致性记忆效应。以上两类以加入或增强具身激活为主，而第三类则是通过限制或改变运动效应器以干扰具身激活，从而反向证明具身对记忆的影响。根据具体的具身操作又可细分为四种实验范式：一是采用与编码阶段一致的身体姿势，通过模拟初始状态以影响记忆检索，本文称之为模拟范式；二是采用具有社会意义的身体姿势或面部表情(例如：和高兴、自豪、精力充沛等积极意义相联结的“直立”与“微笑”，和悲伤、气馁、垂头丧气等消极意义相联结的“蜷曲”与“皱眉”等)，通过启动身体姿势的社会意义以影响记忆内容的检索，本文称之为启动范式；三是采用与情绪效价具有隐喻映射的空间运动表征，如向上和向下的垂直空间运动，从隐喻视角，通过垂直空间运动激活上好下坏的情绪效价从而影响检索内容，本文称之为隐喻范式；四是采用双重任务，在编码或提取阶段执行干扰姿势以阻碍心理模拟，导致具身效应消失，本文称之为反向验证范式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1模拟范式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模拟范式中被试按学习姿势被随机分为两组(例如：坐姿组和站姿组)，分别学习记忆一组材料，在测试阶段，各组被试一半保持相同姿势进行回忆，另一半则采用相反的姿势进行回忆。若学习与测试阶段保持同样姿势时的回忆效果显著优于不一致姿势时的回忆效果，则认为身体姿势会影响记忆的加工与提取。Reed(1931)最早在一项被视为分析情境依赖性记忆的研究中引入了身体姿势的机体变量，但首次尝试并未得到期望的结果。相比之下，Rand和 Wapner(1967)评估姿势状态作为一种情境因素在记忆无意义音节材料中的有效性时发现，当延迟15分钟的再学习阶段的身体姿势与最初学习时的姿势相匹配时，再学习中节省的时间会大大增加。在进一步的复杂运动中，Miles 和Hardman (1998)的研究在休息和通过动感单车进行有氧运动的两种生理状态下进行，并实时监控被试心率。结果发现，在前后心率一致的同一状态下的记忆效果优于前后心率变化的不同状态组。Huff等人(2018)则在程序性任务(学习打结)的背景下选用手势的出现与否作为动作情境，结果发现情境一致性效应。这表明，在学习和测试阶段，运动信息可用性的一致性是程序学习成功的重要因素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上可见，一个经验的记忆痕迹包括获得该经验时的身体姿势。人类可以通过模拟自己在最初编码时的状态，更好的恢复自己的记忆。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2启动范式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "启动范式侧重于在提取阶段执行具有社会意义或情绪表征的具身操作以达成对提取内容的影响。Riskind(1983)率先探究了面部与身体姿势对记忆提取的影响，研究结果表明，微笑和直立姿势有助于找回愉快的经历，而悲伤的面部表情和蜷曲姿势有助于找回不愉快的经历。Veenstra 等人(2016)在验证弯腰姿势如何影响已存在的消极情绪恢复中也发现了弯腰姿势比直立姿势更易引发消极回忆。随后，Dijkstra 等人(2007)将 Riskind 的研究从三个方面进行了拓展，第一，相比于Riskind 考察的一般性机体变量效果，Dijkstra 等人进一步考察了特定活动的姿势效果；第二，新增延迟回忆任务，即在两周后再次进行回忆测试，首次探究了一致性对自传体记忆的长期影响；第三，在被试群体中纳入了老年人群，以评估该效应在纵向发展上是否存在一致性。结果表明，在年轻人和老年人中，当身体姿势与最初的体验一致时，过去的个人生活事件更容易获得。在另一项研究中，Michalak 等人(2014)发现当抑郁症患者以一种消沉的姿势坐着时，他们在一组包含积极的(例如：美丽)和消极的(例如：疲惫)实验材料中会回忆出更多的消极词汇，而直立坐姿的抑郁症患者对积极和消极词汇的记忆水平则更为均衡。同样的，Michalak 等人(2015)发现，通过操纵一组学生的走路方式，使其模仿抑郁的步态或快乐的步态，会使他们对一系列情绪词的回忆产生偏差。以上研究结果说明，与积极和消极情感效价相关的身体行为可以影响情感记忆的检索。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相比模拟法一比一还原编码时身体的状态，启动法则采用部分还原或相似还原的方式，拓展了具身操作作用于记忆的方式，使研究更具灵活性与外部效度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 隐喻范式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "隐喻范式进一步将启动法的研究对象从具有社会意义的姿势与表情拓展至更简洁的空间运动表征——垂直运动。Casasanto 和Dijkstra (2010)第一次使用隐喻的方式来解释身体行为和情感效价之间的一致性效应。在研究中，参与者被随机分配将弹珠从一个纸盒向上或向下移动到另一个纸盒，同时检索积极或消极的自传体记忆。结果发现，在运动方向与记忆效价一致时(向上代表积极；向下代表消极)，检索速度更快。不仅如此，在实验2中，参与者被要求在向上或向下移动弹珠的同时，根据中性效价提示(例如：告诉我昨天发生的事情)检索和复述自传体记忆。结果显示，参与者在向上运动时回忆更偏向于积极，而在向下运动时回忆更偏向于消极。以上结果表明，垂直空间运动行为不仅影响记忆检索的效率，也部分决定了人们检索记忆的情感内容。Seno 等人(2013)扩展了这些发现，他们指出情绪效价对记忆的调节作用的关键是自我运动感知，而不是视觉运动本身。通过观看向上和向下的光栅运动刺激，参与者经历了自我运动感知错觉，即观察者会感知到与所观察的运动刺激相反的自我运动。结果发现，当参与者感知到向上的自我运动时(刺激运动向下)，他们能更频繁地回忆积极的事件。此外，当光栅运动降低到不产生任何投射幻觉的程度时，没有检测到情绪效价的调节。由此可以推断，自我运动知觉可以通过调节人的情绪从而影响记忆检索。Valjamäe和 Seno(2016)通过测试高唤起水平和低唤起水平下的积极、消极和中性情绪图像的记忆识别，进一步验证了这种可能性。在最近的一项研究中,Casasanto 和de Bruin (2019)更是首次证明，心理隐喻可以被策略性激活，以提高人们单词学习的能力。他们将这种与隐喻一致的行为可以提高学习效果的现象称之为心理隐喻的策略性使用——SUMM 效应(the strategic use ofmental metaphor)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4反向验证范式",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mahon 和Caramazza(2008)提出了另一种验证记忆与具身之间关系的思路：运动系统的抑制与损伤会导致记忆效果的下降。换句话说，感知运动模拟可能会被抑制或包含相同感知运动资源的并发任务所阻碍。Dutriaux 和Gyselinck(2016)发现，相比控制组（手放在面前)，采用干扰人工动作(手放在背后)的姿势，会减少对表示可操纵物品的图片和文字的记忆。同样的结果在老年人中得到了复制(Dutriaux et al.,2021)。Dutriaux 等人(2019)在以上两种控制姿势下，进一步通过姿势与语言呈现动作语境来调节运动模拟，进而调节可操作物体的概念记忆。结果发现，当与动作动词相关联时，表示可操作物体词语的记忆会受到干扰姿势的损害，但当与注意动词联系在一起时则不会。除了限制姿势，使用相同感知运动资源的并发任务也会阻碍具身对记忆的促进作用。Iani 和 Bucciareli(2017,2018)在研究演讲者手势是否可以利用听众的运动系统来改善记忆时发现，当听众不进行额外活动时，对伴随演讲者手势的动作短语回忆更好；当听众在编码或提取阶段移动与演讲者一致的运动效应器(即他们的手臂和手)时，演讲伴随手势对记忆的优势效应被阻断；当听众在编码或提取阶段移动与演讲者不同的运动效应器(即他们的腿和脚)时，该优势效应仍存在。由于Iani 和 Bucciarelli(2017,2018)的研究仅通过分别在编码或提取阶段利用无关的运动任务操纵听众运动系统的可用性，使得编码与检索过程的不一致导致研究结果存在替代解释，即动作语境的匹配才是手势对记忆影响的关键。于是，Halvorson 等人(2019)在此基础之上，在编码和提取阶段均加入运动任务以探究该问题。研究发现，手势对记忆的增强效应取决于编码与检索的情境匹配。除此之外，Iani等人(2018)为解开演讲者手势对听众记忆动作短语的促进作用背后的深层次原因，分别对初级运动皮层和前运动皮层进行经颅磁刺激抑制，结果发现，仅在抑制前运动皮层时，促进作用消失。以上研究在行为和生理层面，通过限制运动系统的可用性，反向证明具身操作在记忆加工中的重要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3、具身记忆的内在机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究者在探讨具身操作对记忆作用的同时，也开始关注具身记忆的加工机制，并先后使用以下四种理论来解释具身记忆产生的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1编码特异性原理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "编码特异性原理(the encoding specificity principle)认为如果项目提取的条件与该项目最初编码时的条件相似时，提取效果会更好(Tulving& Thomson,1973)。事实上，复制身体姿势让记忆更容易获取的原因至少有两个：一是针对完全复制，在给定刺激被编码至记忆中时，产生的存储表征既包括刺激的相关特征，也包含刺激被编码时伴随的其他情境线索信息。身体姿势与刺激在编码阶段被绑定存储，从而在复制提取时对记忆产生促进作用，可用于解释姿势依赖性记忆效应和反向验证范式结果；二是针对部分复制，通过重新创造身体环境的特定方面来促进积极和消极的记忆提取，因为积极和消极的生活事件在其中已被经历和编码，例如，与情感效价相关的面部表情或身体姿势一一微笑与皱眉，直立与蜷曲，可用于解释姿势一致性记忆效应。具身认知理论的出现为编码特异性原理的存在提供了一定的依据。Kent和Lamberts(2008)认为，感觉运动模拟模型(the sensorimotor simulation model,SMM)可能揭示了编码特异性原理背后的机制——SMM认为，回忆知觉信息重新激活了编码时负责处理该信息的神经网络。因此，从记忆结构来看，编码时可用的信息在提取时亦可被使用(Martin,2007)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2启动效应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前有关研究中，具身记忆的产生存在三种可能的启动效应，主要用于解释情绪性自传体回忆中的具身记忆现象。一是一致性启动效应，认为人们会倾向于提取与表达行为性质相一致的记忆内容。也就是说，当非语言表达方式是积极时(例如：微笑或直立)，参与者从自己的生活经历中获得愉快记忆的可能性会更大；当非语言表达方式是消极时（例如：皱眉或蜷曲)，参与者提取的记忆将更偏向消极(Riskind,1983)；二是认知启动效应。认知启动认为对表达行为的心理表征与生活经验一并储存在记忆中。个体后期对非语言表达的认知评价或心理表征可以作为认知检索线索来指导记忆(Riskind，1983)。此外，认知启动过程可能在某种程度上独立于个体是否对非语言表达有相应的情感反应，就像“我在笑”这样的对笑脸的评价可能通过认知启动引导人们回忆以前与微笑有关的记忆，或与微笑所暗示的正面评价有关的更广泛的一类记忆(Bower,1981;Isen et al.,1978)；三是情绪启动。情绪启动认为，当情绪材料储存在记忆中时，可能会产生一种情绪(例如：愉快的材料会产生积极的情绪),所以当处于相似的情绪状态时，可以通过启动编码时的情绪状态而使得材料更容易被提取(Bower,1981; Isen et al., 1978; Ross & Atkinson, 2020)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前的研究大多验证了一致性启动效应假说。尽管情绪启动和认知启动都可能产生与一致性启动效应相似的操作效果，却少有研究验证这些可能的替代解释。未来的研究应进一步澄清非语言表达是否会因为它们产生的情绪或心理表征与评价而影响记忆，并说明相关解释之间的联系与区别。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3隐喻表征理论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "隐喻表征理论(metaphor representation theory,Lakoff & Johnson,1980,1999)强调隐喻在人们认识世界中的重要作用，即通过将具体的感觉运动信息图式映射到非感觉运动信息上来表达和理解抽象概念。这种间接表征深受语言文化影响。当人们谈论情感时，经常使用一些表达方式，将积极的情感与空间中的向上运动或位置联系起来(例如：情绪高涨)，而消极的情感与向下的运动或位置联系起来(例如：情绪低落)(Lautenbach et al.,2019)。根据隐喻表征理论，这些语言隐喻对应于“心理隐喻”(Casasanto，2009)。所以，在实验室中调节情感反应的身体姿势往往有向上或向下的运动轨迹，情感面部表情也是如此，微笑使嘴角、眼角、面颊和眉毛肌肉上扬，而皱眉使嘴角和眉毛下垂。根据隐喻理论，微笑和昂首挺胸有助于积极的记忆，并鼓励积极的评价，部分原因是这些身体动作激活了向上的图式表征，而向上的图式恰恰是积极情绪的组成部分。所以，情绪记忆不仅与和积极、消极的情绪状态同时发生的特定身体动作(例如：微笑或皱眉，直立或蜷曲)相互作用，而且还与更系统化的向上和向下的垂直空间运动相互作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4再激活假说",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "再激活假说(reactivation hypothesis)认为，在感知、编码感觉信息时，一些活跃的大脑区域在检索相同的信息时被重新激活(Damasio,1989)。由于储存的信息在编码和检索时被感觉和运动信息丰富，所以储存在运动系统中的运动信息可能已经成为记忆痕迹的一部分。根据再激活假说，在编码时发生的运动过程应该在检索时被重新激活(Nyberg et al.,2001)。已有证据表明姿势可以调节运动信息的使用,特别是,运动想象的表现(Lorey et al.,2009; Sirigu&Duhamel,2001)。Sirigu 和Duhamel(2001)已经证明手放在背后时的运动想象反应速度比手放在桌上时要慢。此外，经颅磁刺激实验表明，与想象动作不一致的姿势会降低运动皮层的兴奋性(Vargas etal.,2004)，而与动作相关的概念涉及运动皮层的自动激活(de Vega,2012)。所以在干扰姿势下，回忆效果会由于运动皮层的激活降低而显著下降，其中限制活动的干扰姿势通过抑制负责运动模拟的大脑区域，从而阻碍具身操作的激活导致记忆痕迹减少(Villatteetal.,2021)，而使用相同效应器的干扰姿势则通过占用相同运动系统，使得记忆无法从编码信息再激活中唤醒(Davis et al.,2020)。近期的文献指出再激活假说中编码时感觉运动活动的再现与具身认知理论中的感觉运动模拟相一致，提取记忆时，不仅激活长期记忆中的概念，亦激活了与该概念相关的感觉运动模式(Dutriaux et al.,2019)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4、具身记忆的现有理论与研究总结",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "编码特异性原理和启动效应可以较好的解释具有经验联结的具身操作在记忆中的作用，其中前者更重视模拟，后者重视认知因素。但两者均难以解释无明显意义联结的具身操作导致的记忆效应差异，隐喻表征理论正好补足了这一空白。再激活假说从生理层面进一步对其机制进行了说明，但目前的研究仅针对可操纵物品的文字、图片或动作短语进行了探究。以上四种解释存在一定的递进性，虽然均得到部分实证研究的支持，但尚未形成统一的模型，无法在同一框架下对具身记忆机制进行说明。遂本研究试图基于已有研究与理论的共性，总结提出具身记忆的心理过程模型，以说明身体是如何作用于记忆的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "信息加工理论认为，记忆过程就是对输入信息的编码、存储和提取过程。现有的具身操作作用于记忆的方式和理论解释视角可归纳为三类：一是编码阶段与提取阶段的具身操作重叠；二是提取阶段具身操作的表征意义与提取内容的重叠；三是控制具身操作以阻碍记忆内容的编码与提取。三者的实质都是影响提取内容最初编码的重新激活，只不过激活程度是从全部，到部分，再到无。鉴于此，作为具身认知主要机制之一的感觉运动模拟模型可以较好的整合现有研究与理论。该模型主要包括4方面的内容：第一，该模型认为心理表征本质上是对先前经验的重新激活；第二，模拟会受到涉及相同感觉通道的并行任务的阻碍；第三，模拟可以离线工作；第四，模拟取决于之前的经验和技能(Dijkstra＆Post,2015;Kormer et al,2015)。根据这一理论，具身记忆的实质可看作是在大脑特定形态区域创建的心理模拟，包含了最初与编码事件相关的感觉运动模式的重新激活，而身体恰恰是重新激活的媒介。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一些神经成像和行为研究已经表明在编码和回忆之间实际发生的是共有的特定形态的激活，也就是说，感觉运动再激活是我们的认知系统能够检索信息记忆痕迹的一个特定组成部分(Dijkstra & Post,2015; Iani,2019)。Clark 等人(1983)和 Schramke 与 Bauer (1997)的研究有力的证实了重新激活的唤醒可能是具身操作对记忆产生影响的根源。在这两个实验中，被试被要求在学习单词列表之前进行锻炼或休息，然后，在回忆测试之前完成一致或相反的活动。结果发现，当进行匹配的活动时，也就是生理唤醒相同时，记忆力会显著提高。此外，Wheeler 等人(2000)发现，检索视觉和听觉信息重新激活了一些最初在感知中被激活的感觉区域：楔前叶和左侧梭状叶皮层。同样的激活在编码和提取空间信息的下顶叶皮层中被检测到(Persson&Nyberg,2000)。这意味着，编码和提取事件时，大脑特定区域共享同样的激活模式。因此，记忆是一个感觉运动模拟过程—一信息检索是通过模拟原始事件，重新激活最初在编码时激活的感觉运动区域。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于此，本研究总结提出具身记忆的感觉运动模拟模型(见图1)，强调重新激活在具身记忆中的作用，以期在同一框架下对具身记忆机制进行统一的说明。具体来说，就是通过操作身体的可用性与物理状态分别作用于编码与提取阶段，或操纵身体的具身特征单独作用于提取阶段，以达成提取阶段对编码过程中人们记录的知觉和运动信息的重新激活，从而促进信息的提取。现有理论可以满足单独路径的解释，其中编码特异性原理和再激活假说是一种直接的在线具身触发，而启动效应和隐喻表征理论属于间接的离线具身触发，但其核心均在于重新激活了最初的编码所涉及的感觉运动区域。所以，具身记忆的感觉运动模拟模型可以较为完整的统合目前的研究与理论解释，说明具身操作作用于记忆的心理过程。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c53a03ff191f4247fa3e2cc03013cad02c7aa7a31d406c5607ae61ed10bcd684.jpg",
+        "img_caption": [
+            "图1具身记忆的感觉运动模拟模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "然而，重新激活是有条件的。具身记忆虽然被大量研究所证实，但并非没有争议。最近Diez-Alamo 等人(2019)为解释 Reed(1931)和 Rand 与 Wapner(1967)在姿势依赖性记忆研究中相互矛盾的结果，复制了该实验，同时进一步排除情绪变量检验姿势一致性记忆效应。然而这两项实验都没有证明具身操作对记忆与动作相关的言语材料有影响。除此之外，Hammond等人(2019)试图复制Miles 和Hardman(1998)的研究，以确定身体活动是否可以作为物体位置记忆的背景线索，也没有发现相同的结果。这些没有被复制的结果反应出有待回答的一个关键问题：记忆在多大程度上依赖于这些感觉运动过程？根据前人的研究，本文发现被试在特定任务或情境中受到具身操纵影响的可能性是由激活水平高低决定的，而激活水平的高低取决于相关的加工任务与所选择的感知运动方式(Chen et al.,2018;Philipp et al.,2020)。基于此，本文归纳出三种主要的约束条件：一是记忆任务：任务的具体性会影响具身操作激活记忆的程度，任务越具体，具身激活在记忆中的效果越低，例如：物体位置记忆任务<概念记忆任务；二是具身操作：相对于简单的、自动的、常规的、认知资源要求较低的具身操作，复杂的、有意的、不熟悉的、认知资源要求较高的具身操作在记忆中的影响越小，例如：太空漫步机运动<动感单车；三是回忆方式：相对于一般性回忆，回忆任务越具体，具身激活在记忆中的效果越低，例如：物体位置回忆任务<自由回忆任务。以上归纳与具身认知研究中发现的“不确定性”会导致更强的具身效应相一致(Plonsky& Erev,2021; Slepian etal.,2011)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究从具身认知视角出发，提出具身记忆的感觉运动模拟模型对现有理论与研究进行统合，指出具身记忆的过程、实质和条件。未来，可以预期通过操纵身体的感觉运动模式模拟再现记忆事件中的体感组成部分，以达成对记忆提取的控制，从而开启下一步的研究方向与问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5、具身记忆研究的局限与展望",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.1具身记忆效应的稳定性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "具身记忆效应十分微妙。实验材料的选择(Marre etal.，2021)、具身启动方式的选择(Casasanto & de Bruin,2019; Quetier et al.,2021)、编码时间的控制(Rand & Wapner,1967)、被试的个体差异(Lomoriello et al.,2021)、情绪变量的有无(Diez-Alamo et al.,2019)等细节变量都可能造成效应的消失或反转。这可能是一些重复性研究往往只注重形合（即认为加入了身体变量就可以探究具身与记忆之间的关系)，而忽略意合（即加入身体变量是为了激活最初编码时的某种形态从而影响记忆结果）所导致的结果。所以，未来需要进一步的工作来确定和验证重新激活条件。鉴于目前对具身记忆研究的边界还不清晰，继续开展重复性研究不可避免，但需注意与原实验的意合，而非形合，使结果更有说服力(Berg,2019)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.2具身记忆效应的深层机制 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前，具身记忆的研究多集中于现象学领域，而有关内在机制的探讨缺乏直接的行为与生理研究的证实。究其原因可能是受限于身体姿势、缺乏核心调节变量、理论不具备可操作性以及研究范式与生理神经研究工具不匹配等等。但掌握了身体作用于记忆的核心在于重新激活这一观点之后，未来也许可以跳出当前的局限探究其深层机制。由于镜像神经元使得个体在观看他人行为时自动激活相同的模拟过程成为可能(Sinigaglia＆Rizzolatti,2011)，那么结合本研究的观点是否可以将三维的个体对自身具身操作的直接激活转换为二维的个体对他人行为的间接激活，从而在一个“安静的”状态下探索身体对记忆的影响。由动到静，既摆脱了身体姿势在研究工具方面的限制，又拓宽了身体的外延，还灵活化了研究角度与方式。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.3具身记忆效应的应用",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "具身记忆研究当前的价值更多体现在理论层面，尽管该效应与身体紧密相关，但实践应用却少之又少，目前仅发现具身记忆效应可以作为一种方法论对个体的词汇记忆产生直接的积极影响(Casasanto&de Bruin,2019;Mehta et al.,2015)。所以，如何有效发挥具身记忆效应的积极作用也值得未来研究关注。根据本研究提出的模型，可以推测通过操纵身体的不同感觉运动模式，能够进一步控制记忆的效价和内容，从而间接调整个体的认知与情绪，最终影响个体的行为将是未来应用研究的主要方向。例如，探索在人际交往中如何利用具身操作调节个体对他人的记忆，从而影响个体对他人的评价和交往方式。又例如，探索在心理干预过程中是否可以通过具身操作诱导来访者转向积极的记忆内容，从而调整情绪状态，促进内心疗愈。这些方向可为社会性研究和心理治疗等领域开辟更多的探索路径。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "李荆广，郭秀艳.(2009)．记忆研究的功能取向.心理科学进展,17(05),923-930.   \n张博，葛鲁嘉.(2017).温和的具身认知：认知科学研究新进路.华侨大学学报(哲学社会科学版),(01),19-28.   \nAtkinson, R. C.,& Shifrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W Spence & J. T. Spence (Eds.)，Psychology of Learning and Motivation (Vol.2， pp. 89-195). New York: Academic Press.   \nBower, G. H. (1981). Mood and memory. American Psychological, 36(2),129-148.   \nBerg, J. (2019). Replication challenges. Science, 365(6457), 957-957.   \nCollins,A. M.,&Loftus,E.F. (1975). Aspreading-activation theory of semantic processing. Psychological Review, 82(6), 407-428.   \nClark,M.S.,Milberg,S.，&Ross J. (1983).Arousal cues arousal-related material in memory: Implications for understanding effects of mood on memory. Journal of Verbal Learning and Verbal Behavior,22(6),633-649.   \nCook,S.W.,& Goldin-Meadow,S. (2006). The role of gesture in learning: Do children use their hands to change their minds?. Journal of Cognition and Development,7(2),211-232.   \nCasasanto,D.(20o9).Embodiment of abstract concepts: good and bad in right- and left-handers.Journal of Experimental Psychology General,138(3),351-367.   \nCasasanto,D.,& Dijkstra K. (2010). Motor action and emotional memory. Cognition,115(1),179-185.   \nChen,Y., Yu, Y., Niu,R.,& Liu, Y. (2O18).Selective effects of postural control on spatial vs.nonspatial working memory: A functional near-infrared spectral imaging study. Frontiers in Human Neuroscience,12, 243.   \nCasasanto,D.,& de Bruin,A. (2019). Metaphors we learn by: Directed motor action improves word learning. Cognition,182,177-183.   \nCarava,M. (2O21). An exploration into enactive forms of forgeting. Phenomenology and the Cognitive Sciences, 20(4), 703-722.   \nDamasio,A.R.(1989). Time-locked multiregional retroactivation: A systems-level proposal for the neural substrates of recall and recognition. Cognition,33(1-2),25-62.   \nDijkstra,K.，Kaschak,M.P.，& Zwaan,R.A. (2OO7). Body posture facilitatesretrieval of autobiographical memories. Cognition,102(1),139-149.   \nde Vega,M. (2O12).Language and action: An approach to embodied cognition. In V. Gyselinck & F. Pazzaglia (Eds.),From Mental Imagery to Spatial Cognition and Language: Essays in Honour of Michel Denis (pp. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "177-199).London: Psychology Press.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dijkstra,K.,& Post,L. (2015).Mechanisms of embodiment.Frontiers in Psychology,6,1525.   \nDutriaux,L.,& Gyselinck,V. (2O16).Learning is beter with the hands free: The role of posture in the memory of manipulable objects. PLoS ONE,1I(7),e0159108.   \nDiez-Alamo，A. M.，Diez,E.，Alonso，M. A.，& Fernandez,A. (2019). Absence of posture-dependent and posture-congruent memory effects on the recall of action sentences. PLoS ONE,14(12), e0226297.   \nDutriaux, L., Dahiez, X., & Gyselinck, V.(2019). How to change your memory of an object with aposture and a verb. Quarterly Journal of Experimental Psychology, 72(5),1112-1118.   \nDutriaux,L.,NicolasS.,& Gyselinck, V.(2021). Aging and posture inthe memory of manipulable objects.Aging Neuropsychology and Cognition. 28(1),26-36.   \nDavis, C.P.,Joergensen,G.H., Boddy,P.,Dowling,C.,& Yee,E. (202O). Making it harder to“see” meaning: The moreyouseesomething， themore itsconceptual representationissusceptibletovisual interference. Psychological Science,31(5), 505-517.   \nGlenberg,A. M. (1997). What memory is for. Behavioral and Brain Sciences,20(1),1-55.   \nHarnad,S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena,42(1-3),335-346.   \nHarmon-Jones,E.,Price,T.F.，& Harmon-Jones,C.(2O15). Supine body posture decreases rationalizations: Testing the action-based model of dissonance. Journal of Experimental Social Psychology,56,228-234.   \nHutto,D.D.,& Myin,E.(2O17).Evolving enactivism: Basic minds meetcontent.Cambridge,MA: The MITPress.   \nHutto,D.D.,& Peeters,A. (2O18).The roots of remembering: Radical enactive recollcting. In K. Michaelian,D. Debus,& D.Perrn (Eds.), New directions in the philosophy of memory (pp.97-118). New York: Routledge.   \nHuff,M., Maurer,A.E.，& Merkt, M. (20l8). Producing gestures establishes a motorcontext for procedural learning tasks.Learning and Instruction,58,245-254.   \nHammond,A. G.， Murphy,E.M.， Silverman,B.M., Bernas,R.S.，& Nardi,D.(2019). No environmental context-ependent effect,but interference,of physical activityonobject location memory. Cognitive Processing, 20(1), 31-43.   \nHalvorson,K.M.,Bushinski,A.,& Hilverman,C.(2O19).The roleof motor context in thebeneficial effectsof hand gesture on memory. Attention,Perception,& Psychophysics,81(7),2354-2364.   \nIsen,A.M.,Shalker,T.E.,Clark,M,&Karp,L. (1978).Afect,accessibilityof material inmemory,andbehavior: A cognitive loop?. Journal of Personality and Social Psychology, 36(1),1-12.   \nIani,F.,& Bucciarell, M. (2017).Mechanisms underlying the beneficial effect of a speaker's gestures on the ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "listener.Journal of Memory and Language,96,11O-121. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Iani,F.,& Bucciareli,M.(2O18).Relevance of the listener's motor system in recaling phrases enacted by the speaker. Memory,26(8),1084-1092.   \nIani,F.,Burin,D.,Salatino,A.,Pia,L.,Ricci,R.,&Bucciarelli,M. (2l8).Thebeneficial effectofaspeaker's gestures on the listener's memory for action phrases: The pivotal role of the listener's premotor cortex. Brain and Language,180-182,8-13.   \nIani,F. (2019). Embodied memories: Reviewing the role of the body in memory processes.Psychonomic Buletin & Review, 26(6), 1747-1766.   \nKent, C.,& Lamberts,K.(2Oo8).The encoding-retrieval relationship:Retrieval as mental simulation.Trends in Cognitive Sciences,12(3), 92-98.   \nKorner,A.,Topolinski,S.,&Strack,F.(2o15). Routes toembodiment. Frontiers inpsychology,6, 940.   \nLakoff,G.,& Johnson,M. (198O). Metaphors we live by. Chicago: University of Chicago Press.   \nLakoff,G.，&Johnson,M. (1999).Philosophy in the flesh: The embodied mind and itschalenge to Western thought. New York: Basic Books.   \nLorey,B.,Bischoff,.,Pilgramm,S.,Stark,R.,Munzert,J.,& Zentgraf,K.(2Oo9).The embodied natureofmotor imagery: The influence of posture and perspective. Experimental Brain Research,194(2),233-243.   \nLautenbach,F., Jeraj,D.,Loeffler, J.,& Musculus,L. (2019). Give me five? Examining the psychophysiological effects of high-fives in athletes.Applied Psychophysiology & Biofeedback,44(3),211-219.   \nLomoriello,A. S.,Mafei, A. Brigadoi, S.，& Sessa,P. (2O21). Altering sensorimotor simulation impacts early stages of facial expression processing depending on individual diferences in alexithymic traits. Brain and Cognition, 148,105678.   \nMiles,C.,& Hardman,E. (1998). State-dependent memory produced by aerobic exercise. Ergonomics, 41(1), 20-28.   \nMartin,A. (20o7). The representation of object concepts in the brain. Annual Review of Psychology,58,25-45.   \nMahon,B.Z.,& Caramazza,A. (2O08).Acritical look at the embodied cognition hypothesis and anew proposal for grounding conceptual content. Journal of Physiology-Paris, 102(1-3),59-70.   \nMichalak,J.,Mischnat,J.,& Teismann,T.(2O14).Sitting posture makes a difference—embodiment effectson depressive memory bias. Clinical Psychology & Psychotherapy,21(6),519-524.   \nMichalak,Johannes,Rohde,Katharina,& Troje,Nikolaus F. (2O15).How we walk affects what we remember: Gait modifications through biofeedback change negative affective memory bias. Journal of Behavior Therapy &   \nMehta,R. K.,Shortz,A.E.，& Benden, M.E.(2015). Standing up for learning: A pilot investigation on the neurocognitive benefits of stand-biased school desks. International Journal of Environmental Research and Public Health,13(1),0059.   \nMatheson, H.E.,& Barsalou,L. W. (2O18).Embodiment and grounding in cognitive neuroscience.In J.T.Wixted & S. Ghet (Eds.)， Stevens’ Handbook of Experimental Psychology and Cognitive Neuroscience (Vol. 3, pp. 1-27). New York: John Wiley & Sons, Inc.   \nMile,J., Brambati,S.M.,Izaute,M.,& Vallet, G.T.(2O21).Low-Resolution Neurocognitive Aging and Cognition: An Embodied Perspective. Frontiers in Systems Neuroscience,15, 687393.   \nMarre,Q.,Huet,N.,& Labeye,E.(2O21).Embodied mental imagery improves memory. Quarterly Journal of Experimental Psychology, 74(8),1396-1405.   \nNyberg,L.,Petersson,K.M.,Nilsson,L.G.,Sandblom,J.,Aberg,C.,&Ingvar,M. (2001).Reactivationof motor brain areas during explicit memory for actions. Neuroimage,14(2), 521-528.   \nPerson, J.,& Nyberg,L. (2ooo). Conjunction analysis ofcortical activations common to encoding and retreval. Microscopy Research and Technique,51(1),39-44.   \nPhilipp,K.,Markus,K.，& Gesa,H. (2O20). Task-dependent recruitment of modality-specific and multimodal regions during conceptual processing. Cerebral Cortex, 30(7), 3938-3959.   \nPlonsky,O.,&Erev,I. (2O21).To predict human choice,consider thecontext.Trends in Cognitive Sciences,25(10), 819-820.   \nQuettier,T. Gambarota,F.,Tsuchiya,N.,& Sessa,P. (2O21).Blocking facial mimicry during binocular rivalry modulates visual awareness of faces with a neutral expression. Scientific Reports,Il(1), 9972.   \nReed,H. J. (1931).The influence of a change of conditions upon the amount recaled. Journal of Experimental Psychology, 14(6), 632-649.   \nRand, G.,& Wapner, S. (1967). Postural status as a factor in memory. Journal of Verbal Learning & Verbal Behavior, 6(2),268-271.   \nRiskind,J. H. (1983). Nonverbal expressons and the accessibilityof life experience memories: A congruence hypothesis. Social Cognition, 51(1),62-86.   \nRoss,P.,& Atkinson,A.P.(2O2O). Expanding simulation models of emotional understanding: The case for diferent modalities， body-statesimulationprominence，and developmental trajectories.Frontiersin Psychology, 11, 309.   \nSchramke,C.J.,& Bauer,R.M. (1997).State-dependent learning in older and younger adults.Psychology& Aging, 12(2),255-262.   \nSirigu,A.,&Duhamel,J. (2ool).Motorand visualimageryas twocomplementary but neurallydissociable mental processes. Journal of Cognitive Neuroscience,13(7),910-919.   \nSlepian,M.L.,Weisbuch,M.,Rule,N. O.,& Ambady,N. (2011).Tough and tender: Embodied categorization of gender. Psychological Science, 22(1),26-28.   \nSinigaglia,C.，& Rizzolatti， G.(2O11). Through the looking glass: Self and others.Consciousness and cognition,20(1), 64-74.   \nSeno,T.,Kawabe,T. Ito,H.,& Sunaga,S. (2O13).Vection modulates emotional valence of autobiographical episodic memories. Cognition,126(1),115-120.   \nSlowikowski,S.,& Motion,J.(2O21). Unlocking meaning of embodied memories from bushfire survivors.The Oral History Review, 48(1),83-99.   \nTulving，E.，& Thomson,D.M.(1973). Encoding specificity and retrieval processs in episodic memory. Psychological Review, 80(5),352-373.   \nTucker,M.,&Elis,R. (2004). Action priming bybriefly presentedobjects.Acta Psychologica,116(2),185-203.   \nVargas,C.D.,Olivier,E.,Craighero,L.,Fadiga,L.,Duhamel,J.R.,&Sirigu,A.(2O4).The influence of hand posture on corticospinal excitability during motor imagery: A transcranial magnetic stimulation study. Cerebral Cortex,14(11),1200-1206.   \nVeenstra,L., Schneider, I. K.,& Koole, S.L. (2016).Embodied mood regulation: The impact of body posture on mood recovery, negative thoughts,and mood-congruent recall. Cognition & Emotion,31(7) 1-16.   \nValjamäe,A.,& Seno,T.(2O16).Modulation of recognition memory for emotional images byvertical vection. Frontiers in Psychology,7,39.   \nVilatte,J.,Taconnat,L.，Bidet-Idei,C.,& Toussaint,L. (2O21).Short-termupper limb immobilization and the embodied view of memory: A pilot study. PLoS ONE, 16(3), e0248239.   \nWheeler， M.E., Petersen,S.E.，& Buckner,R.L.(2000).Memory's echo: Vivid remembering reactivates sensory-specific cortex. Proceedings of the National Academy of Sciences, 97(20),11125-11129.   \nWilson,M. (20o2).Six views of embodied cognition.Psychonomic Bulletin & Review,9(4),625-636. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Embodied memory and its intrinsic mechanism ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "JIN Yuwei, SUN Xiao, SONG Yaowu (SchoolofEducation,HebeiUniversity,BaodingO71oO2,China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The research of embodied memory aims at exploring the role of the body and its sensorimotor processes in memory. The manipulation or restriction of the physical state, embodied characteristics or availability of the body would affect the efficiency，valence and content of memory.The intrinsic mechanisms can be explained by several assumptions,including the encoding specificity principle, the priming effect, the metaphor representation theory and the reactivation hypothesis. However, there is still no a consensus on the mechanisms.Based on the commonness of existing research and theories,the sensorimotor simulation model of embodied memory is proposed. This model emphasizes the role of reactivation in embodied memory to explain the process of the body acting on memory and further points out the conditions of reactivation. More multi-dimensional theoretical and applied work is needed to explore the stability and underlying mechanisms of embodied memory. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: memory, body, embodied cognition,the sensorimotor simulation model, the encoding specificity principle ",
+        "page_idx": 16
+    }
+]

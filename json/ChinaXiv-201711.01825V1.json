@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "1 高效降解游离棉酚并改善棉籽粕营养品质的菌株筛选 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 元秀晔谢全喜　陈　振于佳民 徐海燕谷巍 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （山东宝来利来生物工程股份有限公司，泰安271000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在利用枯草芽孢杆菌和植物乳酸菌发酵棉籽粕，研究其对棉籽粕中游离棉  \n5 酚降解率的影响，并对发酵前后棉籽粕的营养品质指标如活菌数、中性蛋白酶活性、酸溶蛋6 白质含量、pH、游离棉酚含量等进行比较。结果发现：可高效降解棉籽粕中游离棉酚的枯  \n7 草芽孢杆菌菌株为 BLCC1-0039，可有效改善发酵风味的植物乳酸菌菌株为BLCC2-0092。  \n8 综合上述2株益生菌的优点，筛选出最优复配发酵方式为植物乳酸菌 BLCC2-0092与枯草芽9 孢杆菌BLCC1-0039 按照1：1比例接种， $3 7 \\mathrm { ~ \\textdegree C }$ 需氧发酵 $2 4 \\mathrm { ~ h ~ }$ 再厌氧发酵。与空白对照组  \n10 相比，最优复配发酵组各发酵阶段发酵棉籽粕的 $\\mathfrak { p H }$ 显著降低（ $\\cdot P { < } 0 . 0 5 )$ ，厌氧发酵 $7 2 \\mathrm { { h } }$ 时pH 降至5.27；酸溶蛋白质含量显著提高（ $\\cdot P { < } 0 . 0 5 \\$ ，厌氧发酵 $7 2 \\mathrm { { h } }$ 时酸溶蛋白质含量达到$23 . 5 4 \\%$ ；游离棉酚含量显著降低（ $\\cdot P { < } 0 . 0 5 \\rangle$ ，需氧发酵 $2 4 \\mathrm { h }$ 时游离棉酚降解率达到 $5 2 . 1 2 \\%$ ，厌氧发酵 $^ { 7 2 \\mathrm { ~ h ~ } }$ 时游离棉酚降解率达到 $6 1 . 5 8 \\%$ 。由此可知，植物乳酸菌BLCC2-0092与枯草芽孢杆菌 BLCC1-0039 复配发酵可有效降低发酵棉籽粕中的游离棉酚含量并改善其营养品质。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：枯草芽孢杆菌；植物乳酸菌；棉籽粕；游离棉酚；营养品质中图分类号：S436.67 文章编号：A 文献标识码：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国畜牧业的快速发展，饲料的需求量越来越大。棉籽饼（粕）是一种优质的植物性蛋白质饲料，其粗蛋白质含量在 $2 0 \\% \\sim 4 0 \\%$ ，粗纤维含量约为 $1 1 \\%$ ，此外，硫胺素和有机磷含量也比较多[1-21，是畜禽饲粮中非常有价值的一种饲料原料。然而，棉籽饼（粕）中含有棉酚、环丙稀脂肪酸、单宁等有毒物质，制约了其在畜牧业中的应用，其中最主要的是棉酚。棉酚的存在形式有2种，即结合棉酚和游离棉酚。结合棉酚在机体消化系统中不被吸收，可很快随粪便排出体外，毒性很低。游离棉酚分子结构中的活性基团（醛基和羧基）对动物毒性很大，长期饲喂动物过多的含未经脱毒棉籽饼（粕）的饲料，棉酚会在动物体内蓄积，引发中毒，导致动物出现急性呼吸窘迫、厌食乏力等临床症状，甚至死亡等[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "棉籽饼（粕）的主要脱毒方法有物理法、化学法、溶剂浸出法和微生物发酵法[4-7]，最具有应用前景的是微生物发酵法，该法不但能脱除棉籽饼（粕）中的游离棉酚，而且还可以提高棉籽饼（粕）的粗蛋白质含量，并且发酵底物中存留许多酶类、维生素、氨基酸以及一些促生长因子，从而大大改善棉籽饼（粕）的营养价值和饲用价值，提高棉籽饼（粕）的利用率[8]。但不同微生物菌种对棉酚的降解能力有较大的差异，筛选优良的微生物菌种是保证棉籽饼（粕）脱毒效果和营养价值的首要步骤。据报道，芽孢杆菌对棉酚具有较高的降解活性[6.9]，但某些芽孢杆菌在氨基酸代谢中会发生脱羧或脱氨作用，产生刺鼻的氨，影响发酵风味；此外，乳酸菌对棉酚也具有较高的降解活性，其发酵产生大量乳酸和乙酸等挥发性物质，可以改善饲料适口性。本研究旨在利用枯草芽孢杆菌（Bacillus subtilis）和植物乳酸菌（Lactobacillus plantarum）对棉籽粕进行固态发酵，以降低其棉酚含量，提高其营养价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料与试剂",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 发酵原材料及菌株 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验用棉籽粕由新疆泰昆生物集团提供，粉碎过40目筛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "枯草芽孢杆菌菌株：BLCC1-0039、BLCC1-0090、BLCC1-0157和 BLCC1-0169；植物乳杆菌菌株：BLCC2-0015、BLCC2-0092、BLCC2-0111、BLCC2-0112 和 BLCC2-0111。以上菌株均由山东宝来利来生物工程股份有限公司研究院菌种保藏中心保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 培养基",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "酵母膏蛋白陈培养基：葡萄糖 $2 { \\mathrm { ~ g ~ } }$ 、蛋白脉 $\\boldsymbol { 1 0 } \\mathrm { \\ : g }$ 、氯化钠 ${ \\mathfrak { s } } _ { \\mathrm { ~ g ~ } }$ 、酵母膏 $\\boldsymbol { 5 } \\mathrm { \\textrm { g } }$ ，蒸馏水定容至 $1 0 0 0 ~ \\mathrm { { m L } }$ ，调 $\\mathfrak { p H }$ 至7.0，121 $\\mathrm { { } ^ { \\circ } C }$ 灭菌 $2 0 \\mathrm { m i n }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MRS 培养基：葡萄糖 $2 0 \\ \\mathrm { g }$ 、蛋白肤 $\\boldsymbol { 1 0 } \\mathrm { \\ : g }$ 、牛肉膏 $\\textrm { \\tiny 8 g }$ 、酵母膏 ${ 4 \\mathrm { g } }$ 、硫酸镁 $0 . 5 \\mathrm { ~ g ~ }$ 、硫酸 锰 $0 . 3 \\ \\mathrm { g }$ 、柠檬酸铵 $2 { \\mathrm { ~ g ~ } }$ 、乙酸钠 ${ \\mathfrak { s } } _ { \\mathtt { g } }$ 、吐温 $- 8 0 \\mathrm { ~ l ~ m L }$ ，蒸馏水定容至 $1 ~ 0 0 0 ~ \\mathrm { m L }$ ，调 $\\mathsf { p H }$ 至6.0, 121℃灭菌 $2 0 \\mathrm { m i n }$ 。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 化学试剂",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "葡萄糖：山东祥瑞药业有限公司；蛋白脉：北京奥博星生物技术有限责任公司；氯化钠（分析纯)：天津博迪化工股份有限公司；酵母膏、牛肉膏：天津市英博生化试剂有限公司；硫酸镁、硫酸锰：济南汇丰达化工有限公司；柠檬酸铵：上海抚生实业有限公司；乙酸钠：青岛捷世康生物科技有限公司；吐温-80：天津凯通化学试剂有限公司；乙腈、丙酮、甲醇(均为色谱级)：天津市永大化学试剂有限公司；磷酸（分析纯)：天津市凯通化学试剂有限公司；微孔滤膜（直径 $1 3 ~ \\mathrm { m m }$ 、孔径 $0 . 2 2 ~ { \\mu \\mathrm { m } } )$ ：上海安谱有限公司；棉酚标准品[高效液相色谱（HPLC）级]：上海源叶生物科技有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 种子液制备 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取经过2次活化的枯草芽孢杆菌斜面1环（约 $0 . 0 5 \\mathrm { ~ g ~ }$ ）于装有 $1 0 0 ~ \\mathrm { { m L } }$ 酵母膏蛋白陈培养基的 $5 0 0 ~ \\mathrm { m L }$ 三角瓶中，于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 、 $1 8 0 ~ \\mathrm { r / m i n }$ 摇床培养 $2 4 \\mathrm { h }$ ，待用。取经过2次活化的植物乳酸菌斜面1环（约 $0 . 0 5 \\mathrm { g }$ ）于装有 $1 0 0 ~ \\mathrm { { m L } }$ MRS 培养基的 $5 0 0 ~ \\mathrm { m L }$ 三角瓶中， $3 7 \\mathrm { ~ \\textdegree ~ }$ 静置培养 $2 4 \\mathrm { h }$ ，待用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 枯草芽孢杆菌的筛选 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用生料发酵。称取一定量的棉籽粕于 $1 ~ 0 0 0 ~ \\mathrm { { m L } }$ 三角瓶中，料水比为1.0：0.4(g:mL)，装料量为 $\\mathrm { ~ 1 0 0 ~ g / }$ 瓶，按 $2 \\%$ 接种量分别接入培养好的枯草芽孢杆菌种子液中，每个样品设3个平行，以不接种任何菌株的空白料为空白对照，均置于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 培养箱进行需氧发酵，分别于发酵24和 $4 8 \\mathrm { { h } }$ 后取样，测定发酵样的芽孢杆菌活菌数、中性蛋白酶活性、酸溶蛋白质含量及游离棉酚含量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 植物乳酸菌的筛选",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用生料发酵。称取一定量的棉籽粕装袋，料水比为1.0：0.4(g:mL)，装料量为 $\\mathrm { 1 0 0 ~ g / }$ 袋，按 $2 \\%$ 接种量分别接入培养好的植物乳酸菌种子液，密封，每个样品设3个平行，以不接种任何菌株的空白料为空白对照，均置于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 培养箱进行厌氧发酵，分别于发酵24 和$4 8 \\mathrm { ~ h ~ }$ 后取样，测定发酵样的乳酸菌活菌数、pH、酸溶蛋白质含量及游离棉酚含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4枯草芽孢杆菌和植物乳酸菌第1次复配发酵",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用生料发酵。将上述筛选得到的枯草芽孢杆菌和植物乳酸菌进行复配发酵，发酵方式为先需氧 $^ { 7 \\mathrm { ~ h ~ } }$ 再厌氧 $^ { 4 8 \\mathrm { ~ h ~ } }$ 。称取一定量的棉籽粕装袋，料水比为1.0： $0 . 4 ( \\mathrm { g } { : } \\mathrm { m L } )$ ，装料量为$\\mathrm { 1 0 0 ~ g / }$ 袋，按 $2 \\%$ 接种量接种复配菌（枯草芽孢杆菌：植物乳酸菌 $\\stackrel { \\cdot } { = } 1 : 1$ )，每个样品设3个平行，以不接种任何菌株的空白料为空白对照，置于37℃培养箱发酵，分别于厌氧发酵 24和 $4 8 \\mathrm { ~ h ~ }$ 后取样，测定发酵样的乳酸菌和芽孢杆菌活菌数、 $\\mathfrak { p H }$ 、中性蛋白酶活性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 枯草芽孢杆菌和植物乳酸菌第2次复配发酵",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用生料发酵。将上述第1次复配发酵筛选得到的枯草芽孢杆菌和植物乳酸菌进行第 2次复配发酵，发酵方式为先需氧 $2 4 \\mathrm { h }$ 再厌氧 $4 8 \\mathrm { { h } }$ （共计 $7 2 \\mathrm { { h } }$ )。称取一定量的棉籽粕装袋，料水比为1.0： $0 . 4 ( \\mathrm { g } \\mathrm { : m L } )$ ，装料量为 $\\boldsymbol { 1 0 0 } \\ : \\mathrm { g } / \\$ 袋，按 $2 \\%$ 接种量接种复配菌（枯草芽孢杆菌：植物乳酸菌 $= 1 { : } 1 \\dot { : }$ )，每个样品设3个平行，以不接种任何菌株的空白料为空白对照，置于 $3 7 \\mathrm { ~ \\textdegree ~ }$ 培养箱发酵，分别于需氧发酵 $2 4 \\mathrm { ~ h ~ }$ 以及厌氧发酵48、 $^ { 7 2 \\mathrm { ~ h ~ } }$ 后取样，测定发酵样的乳酸菌和芽孢杆菌活菌数、中性蛋白酶活性、 $\\mathfrak { p H }$ 、酸溶蛋白质含量及游离棉酚含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 芽孢秆菌和乳酸菌活菌数的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "准确称取发酵棉籽粕 $\\mathrm { 1 0 . 0 ~ g }$ ，用玻璃珠振荡打散菌群，以便稀释计数。用生理盐水10倍递增稀释，取适当稀释度的样品分别至酵母膏蛋白陈培养基及 MRS 培养基中， $3 7 \\mathrm { ~ \\textdegree ~ }$ 培养 $4 8 \\mathrm { ~ h ~ }$ ，根据菌落数计算样品中芽孢杆菌和乳酸菌活菌数，结果用 $\\mathrm { { C F U } / \\mathrm { { g } } }$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2中性蛋白酶活性的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "准确称取发酵棉籽粕 $1 . 0 \\ \\mathrm { g }$ ，加入8倍体积的磷酸盐缓冲液（ $\\mathsf { p H } 7 . 5 )$ 溶解，充分混匀后离心取上清液，采用福林-酚试剂法测定样品中中性蛋白酶活性。中性蛋白酶活性定义： $\\mathrm { ~ 1 ~ g ~ }$ 固体酶粉（或 $1 ~ \\mathrm { m L }$ 液体酶)，在一定温度和 $\\mathsf { p H }$ 条件下， $1 \\mathrm { m i n }$ 水解酪素产生 $1 \\mu \\ g$ 酪氨酸为1个活性单位，以 $\\mathbf { \\mathrm { U } } / \\mathbf { g }$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 酸溶蛋白质含量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "准确称取 $2 . 0 0 \\mathrm { ~ g ~ }$ 发酵棉籽粕于 $2 5 ~ \\mathrm { m L }$ 具塞试管中，加入 $1 5 \\%$ 三氯乙酸溶液 $1 0 ~ \\mathrm { m L }$ ，混合均匀，静止 $5 ~ \\mathrm { m i n }$ ，定容至 $2 5 ~ \\mathrm { m L }$ ，每隔 $2 ~ \\mathrm { m i n }$ 混匀1次，共计时 $3 0 ~ \\mathrm { m i n }$ 。将溶液定量转移，抽滤，取滤液 $1 0 ~ \\mathrm { m L }$ ，转入消化管中，加入 $3 \\mathrm { { g } }$ 混合催化剂（硫酸钾：无水硫酸铜 $= 1 5 { : } 1 \\$ )，与滤液混合均匀，再加入 $7 { \\sim } 8 \\ \\mathrm { m L }$ 浓硫酸，将消化管置于消化炉中420℃消化，待消化液呈透亮的蓝绿色时，继续消化 $4 0 ~ \\mathrm { m i n }$ ，按照凯氏定氮法测定上清液中可溶性蛋白质含量。另准确称取 $2 . 0 0 \\ \\mathrm { g }$ 发酵棉籽粕，采用凯氏定氮法测定样品中粗蛋白质含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "酸溶蛋白质含量 $( \\% ) =$ （上清液中可溶性蛋白质含量 $\\times 2 5 / 1 0$ ）/样品中粗蛋白质含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 游离棉酚含量的测定[10] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "棉酚标准溶液的配制：准确称取棉酚标准品用乙晴 $. 0 . 2 \\%$ 磷酸（体积比为85:15）溶解得$1 . 2 1 ~ \\mathrm { m g / m L }$ 的标准品贮备液，标准贮备液再用乙腈 $. 0 . 2 \\%$ 磷酸（体积比为85:15）稀释成121$\\mu \\mathrm { g / m L }$ 的标准品工作液。用流动相将标准品工作液逐级稀释得到浓度分别为61.50、20.17、5.04、2.52 和 $1 . 2 1 ~ \\mu \\mathrm { g / m L }$ 的标准工作液，浓度由低至高进样测定，以峰面积和浓度作图，得到标准曲线回归方程为 $Y { = } 0 . 0 0 0 ~ 0 0 5 ~ 4 5 X { + } 0 . 1 6 0 ~ 5 2 5$ （ $R ^ { 2 } { = } 0 . 9 9 9 9 6 5 2 )$ ，线性范围为 $1 . 2 1 \\sim 1 2 1 \\$ μg/mL。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "待测样品游离棉酚的提取：准确称取待测样品 $3 . 0 0 \\mathrm { g }$ ，加入丙酮 $3 0 ~ \\mathrm { m L }$ ，超声提取 $3 0 \\mathrm { m i n }$ $2 5 \\ \\mathrm { { ^ \\circ C } }$ 下 $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { m i n }$ ，重复提取3次，合并上清液。将上清液全部转移至蒸发瓶中，旋转蒸发至干，用乙腈 $. 0 . 2 \\%$ 磷酸（体积比为85:15）溶液溶解，多次超声清洗转移至$2 5 ~ \\mathrm { m L }$ 容量瓶，定容，过 $0 . 2 2 \\mu \\mathrm { m }$ 滤膜后供HPLC 测定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HPLC 法测定游离棉酚含量：色谱条件为色谱柱 Intertsil®ODS-2（ $1 5 0 \\ \\mathrm { m m } { \\times } 4 . 6 \\ \\mathrm { m m }$ ，5$\\mu \\mathrm { m } .$ ，流动相为乙腈 $. 0 . 2 \\%$ 磷酸（体积比为85:15）溶液，流速 $1 . 0 \\ : \\mathrm { m L / m i n }$ ，紫外检测波长235$\\mathrm { n m }$ ，进样量 $2 0 { \\mu \\mathrm { L } }$ ，柱温 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据用 Excel2007进行初步处理后，采用 SPSS13.0软件进行统计分析，采用单因素方差分析（one-wayANOVA）程序进行方差分析，LSD法进行组间多重比较，结果以“平均值 $\\pm$ 标准差\"表示， $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 棉酚标准曲线的绘制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由棉酚标准品的HPLC 色谱图（图1，棉酚标准品浓度 $6 . 1 5 ~ \\mu \\mathrm { g / m L }$ ），可以看出，在5.686min 左右出棉酚色谱峰，且稳定性良好、分离效果好、峰型理想、灵敏度高。由图2可以看出，游离棉酚标准曲线线性吻合良好、定量范围广、定量限低、准确度和灵敏度高，该方法可用于准确测定游离棉酚的含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e9dea1d3c1d0d25b6c387ebedae2031460795b24416d31b959774c22fd4d727.jpg",
+        "img_caption": [
+            "图1棉酚标准品的HPLC色谱图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebe682290a003ab7757a192e59ab629982bbca36e25f65e42a7894b0f8402dd3.jpg",
+        "img_caption": [
+            "Fig.1HPLC chromatogram of standard gossypol ",
+            "图2游离棉酚的标准曲线",
+            "Fig.2Standard curve of free gossypol "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 枯草芽孢杆菌的筛选 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，发酵 $2 4 \\mathrm { ~ h ~ }$ 时，各芽孢杆菌菌株均能够成功发酵棉籽粕，各组发酵棉籽粕中芽孢杆菌活菌数均在几十亿水平，以 BLCC1-0039 和 BLCC1-0157 组较高，显著高于BLCC1-0090 和 BLCC1-0169组 $( P { < } 0 . 0 5 )$ ；发酵棉籽粕酸溶蛋白质含量以BLCC1-0039 组最高，其次是BLCC1-0157组，均显著高于空白对照组 $( P { < } 0 . 0 5 )$ ，其中BLCC1-0039 组的酸溶蛋白质含量较空白对照组高出 $54 . 8 0 \\%$ 。发酵棉籽粕中中性蛋白酶活性以BLCC1-0039组最高，达到 $4 1 1 1 . 4 0 \\mathrm { U / g }$ ，其次是BLCC1-0157 组，二者均显著高于BLCC1-0090 和BLCC1-0169组 $( P { < } 0 . 0 5 )$ ，但二者间差异不显著 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，发酵 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时，各组发酵棉籽粕中芽孢杆菌活菌数均达到几十亿水平及以上，以BLCC1-0039 组最高，BLCC1-0157组次之。与空白对照组相比，各菌株发酵均显著提高了发酵棉籽粕中酸溶蛋白质含量 $( P { < } 0 . 0 5 )$ ，其中以菌株BLCC1-0039 发酵时最高，较空白对照组提高了 $6 9 . 4 3 \\%$ 。发酵棉籽粕中中性蛋白酶活性以BLCC1-0039组最高，达到3983.24$\\mathrm { \\Delta U / g }$ ，其次是BLCC1-0157组，二者均显著高于空白对照组以及BLCC1-0090 和BLCC1-0169组 $( P { < } 0 . 0 5 )$ ，但二者间差异不显著 $( P { > } 0 . 0 5 )$ 。综上可知，枯草芽孢杆菌各菌株发酵棉籽粕均可以提高酸溶蛋白质含量和中性蛋白酶活性，其中以菌株BLCC1-0039 的效果最好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8e002e1b08393cd1fc3832b42691cfb6c4ee2a6415041ae57057d65ca409c67.jpg",
+        "table_caption": [
+            "表1枯草芽孢杆菌发酵对发酵棉籽粕品质的影响",
+            "Table 1Effects of Bacillus subtilis fermentation on fermented cottonseed meal quality "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别 Groups</td><td colspan=\"3\">24 h</td><td colspan=\"3\">48h</td></tr><tr><td>酸溶蛋白质 含 量 Acid-soluble protein</td><td>芽孢杆菌活 菌数Viable count of Bacillus/(×108</td><td>中性蛋白酶活 性 Neutral protease activity/(U/g)</td><td>酸溶蛋白质含 量 Acid-soluble</td><td>芽孢杆菌活 菌数Viable count of</td><td>中性蛋白酶活 性 Neutral protease</td></tr><tr><td>空白对照</td><td>content/% 6.31±1.09a</td><td>CFU/g) 0</td><td>0</td><td>protein content/% 6.45±1.34a</td><td>Bacillus/(×108 CFU/g) 0</td><td>activity/(U/g) 140.96±23.10a</td></tr><tr><td>CK</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BLCC1-0090</td><td>8.28±0.82b</td><td>31.10±2.10a</td><td>1 701.80±34.19a</td><td>15.77±2.01b</td><td>62.00±3.47a</td><td>1</td></tr><tr><td rowspan=\"2\">BLCC1-0039</td><td>13.96±1.11d</td><td>57.00±3.42b</td><td></td><td></td><td></td><td>792.83±45.30b</td></tr><tr><td></td><td></td><td>4</td><td>21.10±1.98d</td><td>117.00±5.98</td><td>3</td></tr><tr><td>BLCC1-0157</td><td>10.72±0.87</td><td>68.00±4.22b</td><td>111.40±63.20c</td><td></td><td></td><td>983.24±73.02c</td></tr><tr><td></td><td></td><td></td><td>3 416.69±34.23c</td><td>18.78±2.34c</td><td>103.00±10.02b</td><td>3</td></tr><tr><td rowspan=\"2\">BLCC1-0169</td><td>9.83±0.34b</td><td>41.40±1.89a</td><td>2</td><td></td><td></td><td>596.15±42.09</td></tr><tr><td></td><td></td><td></td><td>16.73±2.01b</td><td>92.80±8.20b</td><td>2</td></tr><tr><td></td><td></td><td></td><td>626.37±98.18b</td><td></td><td></td><td>323.14±29.40b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small lettr superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，发酵 $2 4 \\mathrm { ~ h ~ }$ 时以BLCC1-0039组发酵棉籽粕游离棉酚含量最低，显著低于其他各组 $( P < 0 . 0 5 )$ ，其游离棉酚降解率达到 $9 3 . 8 9 \\%$ ，其次是BLCC1-0157 组；菌株BLCC1-0039发酵棉籽粕 $4 8 \\mathrm { { h } }$ 时发酵棉籽粕游离棉酚含量最低，显著高于其余3株菌株发酵时 $( P < 0 . 0 5 )$ ，其游离棉酚降解率达到 $9 6 . 6 7 \\%$ 。综合可知，4 株枯草芽孢杆菌中以菌株BLCC1-0039发酵棉籽粕降棉酚效果最好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2枯草芽孢菌发酵对发酵棉籽粕游离棉酚含量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table2Effects of Bacillus subtilis fermentation on free gossypol content of fermented cottonseed meal ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4302c7012626002320ffa23d19f7c092a717ad4effd3ef60e1b8454ac182285.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "游离棉酚降解率=[（空白对照组样品游离棉酚含量-发酵组样品游离棉酚含量）/空白对照组样品游离棉酚含量 $\\lvert \\times 1 0 0$ 。表5同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"7\">组别 Groups</td><td colspan=\"3\">24 h</td><td colspan=\"2\">48h</td></tr><tr><td>游离棉酚含</td><td>游离棉酚降解率 Free</td><td>游离棉酚含</td><td></td><td>游离棉酚降解率 Free</td></tr><tr><td>量Free</td><td> gossypol degrading rate/%</td><td>量Free</td><td></td><td>gossypol degrading rate/%</td></tr><tr><td>gossypol content/(μg/</td><td></td><td>gossypol content/(μg/</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>g</td><td></td><td></td><td>g</td><td></td></tr><tr><td>空白对照 CK</td><td>57.84±2.98c</td><td></td><td>54.62±3.01d</td><td></td></tr><tr><td>BLCC1-0090</td><td>15.81±1.09b</td><td>72.67</td><td>12.02±0.67c</td><td>77.99</td></tr><tr><td>BLCC1-0039</td><td>3.53±0.97a</td><td>93.89</td><td>1.82±0.52a</td><td>96.67</td></tr><tr><td>BLCC1-0157</td><td>10.44±2.10b</td><td>81.95</td><td>6.19±1.29b</td><td>88.67</td></tr><tr><td>BLCC1-0169</td><td>13.78±1.98b</td><td>76.18</td><td>9.64±1.79c</td><td>82.35</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Free gossypol degrading rate=[(sample free gossypol content in CK group-sample free gossypol content in fermentation group)/ sample free gossypol content in CK group] $\\lvert \\times 1 0 0$ .The same as Table 5. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 植物乳酸菌的筛选",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，5个植物乳酸菌发酵组中，发酵 $2 4 \\mathrm { h }$ 时除BLCC2-0112 组发酵棉籽粕中乳酸菌活菌数较低外，其他植物乳酸菌发酵组间差异不显著 $( P { > } 0 . 0 5 )$ ，均在几十亿水平，发酵$4 8 \\mathrm { ~ h ~ }$ 时仍以BLCC2-0112 组发酵棉籽粕中乳酸菌活菌数最低，显著低于其他植物乳酸菌发酵组 $( P { < } 0 . 0 5 )$ ；无论是发酵 $2 4 \\mathrm { h }$ 时还是发酵 $4 8 \\mathrm { ~ h ~ }$ 时，发酵棉籽粕中酸溶蛋白质含量和游离棉酚含量各组间均差异不显著 $( P { > } 0 . 0 5 )$ ；无论是发酵 $2 4 \\mathrm { ~ h ~ }$ 时还是发酵 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时，发酵棉籽粕的pH均以 BLCC2-0092 和BLCC2-0001 组最低，其次为BLCC2-0015 组，这3 组在发酵 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时pH均降至5.00以下，其中BLCC2-0092 组在发酵 $4 8 \\mathrm { { h } }$ 时 $\\mathsf { p H }$ 降至4.67。从降低发酵棉籽粕的 pH来看，5 株植物乳酸菌中以菌株 BLCC2-0092、BLCC2-0001和 BLCC2-0015 发酵棉籽粕较好，最优为菌株BLCC2-0092。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb1006ff4467590bfee2d2edb4ab36c965d5cfc6cadde68fd159c16243bd2a35.jpg",
+        "table_caption": [
+            "表3植物乳酸菌发酵对棉籽粕品质和游离棉酚含量的影响",
+            "Table 3Efects of Lactobacillus plantarum fermentation on quality andfree gossypol content of fermented cottonseed meal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">24 h 酸溶蛋白质</td><td colspan=\"4\">48h</td></tr><tr><td rowspan=\"2\">组别Groups</td><td colspan=\"3\">乳酸菌活菌数 Viable count of</td><td rowspan=\"2\">游离棉酚含量</td><td colspan=\"3\">酸溶蛋白质 乳酸菌活菌数 Viable count of</td><td rowspan=\"2\">游离棉酚含量Frei gossypol</td></tr><tr><td>Lactobacillus /(×108 CFU/g)</td><td>含量 Acid-soluble protein</td><td>pH</td><td>Free gossypol content/(μg/g)</td><td>Lactobacillus /(×108 CFU/g)</td><td>含量 Acid-soluble pH protein</td></tr><tr><td>空白对照</td><td>0</td><td>content/% 6.70±0.39</td><td>6.43±0.15d</td><td>57.04±2.01</td><td>0</td><td>content/% 6.47±0.22</td><td>6.22±0.05d</td><td>54.30±2.10</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab9b8b91b5733075e8bcdcc12c03dbf9dbfaebad3e992877f3bda1d7d9d4cd86.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "181 2.4植物乳酸菌和枯草芽孢杆菌第1次复配发酵"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">CK</td></tr><tr><td>BLCC2-0015</td><td>34.00±1.02b</td><td>6.61±0.11</td><td>5.77±0.10b</td><td>55.22±1.98</td><td>40.00±2.10b</td><td>6.47±0.19</td><td>4.75±0.02a</td><td>54.80±1.78</td></tr><tr><td>BLCC2-0092</td><td>25.00±0.39b</td><td>6.56±0.93</td><td>5.47±0.05a</td><td>56.87±2.19</td><td>29.00±1.98b</td><td>6.37±0.28</td><td>4.67±0.03a</td><td>55.19±2.71</td></tr><tr><td>BLCC2-0001</td><td>34.00±2.01b</td><td>6.77±0.78</td><td>5.49±0.05a</td><td>51.36±2.98</td><td>62.00±4.29</td><td>6.45±0.39</td><td>4.72±0.05a</td><td>56.49±1.69</td></tr><tr><td>BLCC2-0112</td><td>5.80±0.23a</td><td>6.63±0.81</td><td>6.10±0.10</td><td>55.09±3.01</td><td>13.00±1.98a</td><td>6.65±0.78</td><td>5.98±0.04c</td><td>53.12±1.72</td></tr><tr><td>BLCC2-0111</td><td>29.00±2.01b</td><td>6.59±0.18</td><td>5.90±0.05c</td><td>52.42±2.34</td><td>31.00±3.71b</td><td>6.48±0.27</td><td>5.41±0.02b</td><td>50.99±0.99</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "182 由表4可知，棉籽粕由植物乳酸菌和枯草芽孢杆菌复配菌株先需氧发酵7h情况下，再  \n183 厌氧发酵 $2 4 \\mathrm { h }$ 时后各复配菌株发酵组发酵棉籽粕乳酸菌活菌数均达到几十亿水平， $\\mathsf { p H }$ 降至  \n184 6.00以下，厌氧发酵 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时 $\\mathsf { p H }$ 降至5.00以下，说明植物乳酸菌发酵成功；厌氧发酵 $^ { 4 8 \\mathrm { ~ h ~ } }$   \n185 时各复配菌株发酵组发酵棉籽粕芽孢杆菌活菌数与厌氧发酵 $2 4 \\mathrm { ~ h ~ }$ 相比增加了1个数量级，  \n186 但 $4 8 \\mathrm { ~ h ~ }$ 时中性蛋白酶活性最高仅在 $2 0 1 . 1 8 \\mathrm { U / g }$ （枯草芽孢杆菌BLCC1-0039单独发酵 $4 8 \\mathrm { ~ h ~ }$ 后  \n187 中性蛋白酶活性可达到 $3 9 8 3 . 2 4 \\mathrm { U } / \\mathrm { g } \\rangle$ ，说明此条件下不适宜枯草芽孢杆菌生长。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/73de7aa4d464633a05be82298921779856797830bd6fb07815b2d019c86c6516.jpg",
+        "table_caption": [
+            "188 表4植物乳酸菌和枯草芽孢杆菌第1次复配发酵对棉籽粕品质的影响189 Table 4 Effects of compound fermentation （the first time）of Lactobacillus plantarum and190 Bacillus subtilis on fermented cottonseed meal quality"
+        ],
+        "table_footnote": [
+            "2.5 植物乳酸菌和枯草芽孢杆菌第2次复配发酵"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">24 h</td><td colspan=\"4\">48h</td></tr><tr><td rowspan=\"6\">组别Groups</td><td colspan=\"4\">芽孢杆菌</td><td colspan=\"3\">芽孢杆菌</td></tr><tr><td>乳酸菌活菌</td><td>活菌数</td><td></td><td>乳酸菌活菌</td><td>活菌数</td><td>中性蛋白 酶活性</td><td rowspan=\"4\">pH</td></tr><tr><td>数Viable</td><td>Viable</td><td>pH</td><td>数Viable count of</td><td>Viable</td><td>Neutral</td></tr><tr><td>count of Lactobacillusl</td><td>count of Bacillus/(</td><td></td><td>Lactobacillusl</td><td>count of Bacillus/(</td><td>protease</td></tr><tr><td>(x108 CFU/g)</td><td>×108</td><td></td><td>(x10 CFU/g)</td><td>×108</td><td>activity/( U/g)</td></tr><tr><td></td><td></td><td>CFU/g)</td><td>6.51±0.</td><td></td><td>CFU/g)</td><td>6.32±0.</td></tr><tr><td>空白对照CK BLCC2-0092+BLC</td><td>0</td><td>0</td><td>04b 5.82±0.</td><td>0</td><td>0 84.00±4.1</td><td>0 134.90±3.</td><td>04b 4.87±0.</td></tr><tr><td>C1-0039</td><td>30.50±0.39</td><td>8.85±0.37</td><td>03a</td><td>60.30±2.31</td><td>0</td><td>49</td><td>02a</td></tr><tr><td>BLCC2-0015+BLC C1-0039</td><td>24.60±1.23</td><td>5.80±0.45</td><td>5.87±0. 02a</td><td>62.80±3.02</td><td>98.00±5.2 0</td><td>201.18±3. 10</td><td>4.92±0. 03a</td></tr><tr><td>BLCC2-0001+BLC</td><td></td><td></td><td>5.63±0.</td><td></td><td>65.00±5.0</td><td>148.19±5.</td><td>4.79±0.</td></tr><tr><td>C1-0039</td><td>31.70±3.01</td><td>4.60±0.24</td><td>02a</td><td>62.50±2.98</td><td>1</td><td>01</td><td>02a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于第1次设定的复配发酵条件不适宜芽孢杆菌生长，之后改变发酵方式，延长需氧发酵时间至 $2 4 \\mathrm { ~ h ~ }$ ，并选取降解棉酚效果较好的植物乳杆菌BLCC2-0092、BLCC2-0001和枯草芽孢杆菌BLCC1-0039进行第2次复配发酵。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表5可以看出，延长需氧发酵时间至 $2 4 \\mathrm { ~ h ~ }$ 时，各复配菌株发酵组发酵棉籽粕中乳酸菌和芽孢杆菌活菌数均可以达到几十亿水平，中性蛋白酶活性较高，均达到 $2 0 0 0 \\mathrm { U / g }$ 以上。综合各项指标来看，2个复配菌株发酵组中以BLCC2-0092+BLCC1-0039 组最优。与空白对照组相比，BLCC2-0092+BLCC1-0039组各发酵阶段的发酵棉籽粕的 $\\mathsf { p H }$ 均显著降低 $P <$ 0.05)，厌氧发酵 $^ { 7 2 \\mathrm { ~ h ~ } }$ 时pH降至5.27；酸溶蛋白质含量显著提高 $( P { < } 0 . 0 5 )$ ，厌氧发酵 $^ { 7 2 \\mathrm { ~ h ~ } }$ 时酸溶蛋白质含量达到 $23 . 5 4 \\%$ ；游离棉酚含量显著降低 $( P { < } 0 . 0 5 )$ ，需氧发酵 $2 4 \\mathrm { h }$ 时游离棉酚降解率达到 $5 2 . 1 2 \\%$ ，厌氧发酵 $7 2 \\mathrm { { h } }$ 时游离棉酚降解率达到 $6 1 . 5 8 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5植物乳酸菌和枯草芽孢杆菌第2次复配发酵对棉籽粕品质的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b755d7aad33886348ec3a6cac8cebe284d1c91bedc2adec96120e6af84b10e3.jpg",
+        "table_caption": [
+            "Table 5Effects of compound fermentation （the second time） of Lactobacillus plantarum and Bacillus subtilis on fermented cottonseed meal quality "
+        ],
+        "table_footnote": [
+            "3讨论"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别 Groups</td><td rowspan=\"2\">乳酸菌活 菌数 Viable count of Lactobacill us/(x108</td><td rowspan=\"2\">芽孢杆菌 活菌数 Viable count of Bacillus/(×</td><td rowspan=\"2\">中性蛋白酶活 性Neutral protease activity/(U/g)</td><td rowspan=\"2\">pH</td><td rowspan=\"2\">酸溶蛋白质 含量 Acid-solubl</td><td>含量Free</td><td>游离棉酚游离棉酚降解率 Free gossypol</td></tr><tr><td></td><td>gossypoldegrading rate/%</td></tr><tr><td></td><td>CFU/g)</td><td>108CFU/g)</td><td></td><td></td><td></td><td>g</td><td></td></tr><tr><td>需氧发酵 24 h Aerobic fermentation 24 h CK</td><td>0</td><td>0</td><td>0</td><td>6.25±0.03b</td><td>6.47±0.10a</td><td>53.83±1.34b</td><td>0</td></tr><tr><td>BLCC2-0092+ BLCC1-0039</td><td>27.00±1.20</td><td>32.00±1.20</td><td>3301.16±20.10</td><td>5.93±0.02a</td><td>11.55±0.21b</td><td>25.77±0.18a</td><td>52.12</td></tr><tr><td>BLCC2-0001+</td><td>22.17±1.02</td><td>25.00±1.34</td><td>2219.87±10.82</td><td>5.80±0.03a</td><td>10.43±1.10b</td><td>28.29±1.98a</td><td>47.45</td></tr><tr><td>BLCC1-0039 厌氧发酵 48h Anaerobic fermentation 48 h</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CK</td><td>0</td><td>0</td><td>0</td><td>6.03±0.03b</td><td>6.96±0.08a</td><td>50.87±2.76b</td><td>0</td></tr><tr><td>BLCC2-0092+ BLCC1-0039</td><td>20.00±2.18</td><td>13.80±0.92</td><td>2182.95±10.19</td><td>5.62±0.01a</td><td>19.17±0.14b</td><td>23.34±1.01a</td><td>54.12</td></tr><tr><td>BLCC2-0001+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BLCC1-0039 厌氧发酵 72 h Anaerobic fermentation 72 h</td><td>13.10±1.29</td><td>9.80±0.29</td><td>2087.10±21.09</td><td>5.65±0.02a</td><td>16.78±0.27b</td><td>27.15±1.45a</td><td>46.63</td></tr><tr><td>CK</td><td>0</td><td>0</td><td>82.75±8.19</td><td>5.96±0.02b</td><td>7.36±0.21a</td><td>48.52±2.10b</td><td>0</td></tr><tr><td>BLCC2-0092+</td><td>19.00±2.31</td><td>24.00±1.29</td><td>2619.54±10.10</td><td>5.27±0.01a</td><td>23.54±0.24b</td><td></td><td>61.58</td></tr><tr><td>BLCC1-0039 BLCC2-0001+</td><td></td><td></td><td></td><td></td><td></td><td>18.64±0.99a</td><td></td></tr><tr><td>BLCC1-0039 过</td><td>15.96±1.09</td><td>10.09±2.31</td><td>2509.10±20.14</td><td>5.30±0.03a</td><td>19.78±0.74b</td><td>28.19±2.10a</td><td>41.91</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵棉籽饼（粕）脱毒的关键是菌种的选择，不同微生物菌种对棉酚的降解能力不同，筛选优良的微生物菌种是影响棉籽饼（粕）脱毒效果的首要条件。提高微生物发酵棉籽饼（粕)，在使其游离棉酚含量的安全性大大提高的同时，若粗蛋白质含量及其他饲用品质也能得到大幅度的提高，就可以提高其在动物饲粮中的添加量，提高棉籽饼（粕）的利用率[1]；发酵、酶解粕类和植物蛋白质源的主要目的是将其中的大分子蛋白质降解成为小分子蛋白质，甚至降解成多肽和小肽，从而促进蛋白质的合成，促进矿物质元素的吸收利用，提高动物机体的免疫机能以及动物的生长速率和生产性能。研究表明，使用酸溶蛋白质含量指标评价发酵、酶解粕类蛋白质品质，既可以反映其中抗原蛋白质和其他蛋白质抗营养因子被水解的程度，进而揭示该类抗营养因子活性被消除的程度，又可在一定程度上反映肽含量的高低[12-13]；枯草芽孢杆菌是美国食品药物管理局公布的安全菌种[14]，是当今工业酶的主要生产菌种之一，也是工业生产上应用最广泛的菌种之一，其中性蛋白酶活性为枯草芽孢杆菌生长的主要考察指标[15]。据报道，利用枯草芽孢杆菌发酵棉籽粕，特别是加入木瓜蛋白酶后可有效提高棉籽粕的营养价值[16]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前报道的用于棉籽饼（粕）脱毒的菌株种类较少，且主要集中于酵母菌和霉菌，有关天然真菌的脱毒效果也有一些报道[17-18]。而对于降解棉酚的芽孢杆菌，相关研究有枯草芽孢杆菌 $\\mathbf { M } { - } 9 ^ { [ 9 ] }$ 和 $\\mathbf { M } { - } 4 ^ { [ 6 ] }$ ，这2株枯草芽孢杆菌对棉酚具有较高的降解活性，但仍存在一些不足，如：在对棉籽饼（粕）进行发酵脱毒时需要额外加入碳源（蔗糖等)，增加了棉酚降解的成本；菌种的接种量大（ $10 \\%$ )、降解所需时间长（ $6 0 \\mathrm { { h } }$ 以上)。此外，研究发现，蜡样芽孢杆菌 Br 可有效降解棉籽粕中的棉酚，但仅对灭菌后的棉籽粕有效，未灭菌处理的棉籽粕中的微生物反而会抑制蜡样芽孢杆菌Br 的生长[19]。在本研究中，利用枯草芽孢杆菌BLCC1-0039单独发酵棉籽粕， $3 7 \\mathrm { ~ \\textdegree ~ }$ 发酵 $2 4 \\mathrm { ~ h ~ }$ 后游离棉酚降解率达到 $9 3 . 8 9 \\%$ ，此外，中性蛋白酶活性达到 $4 1 1 1 . 4 0 \\mathrm { U / g }$ ，酸溶蛋白质含量达到 $2 1 . 1 0 \\%$ 0",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "虽然作者在文献中未查阅到乳酸菌在降解棉酚方面的相关文章，但是乳酸菌发酵饲料具有气味香、适口性好、饲喂简单方便、消化率高、功效稳定等优势，因此具有良好的生产和应用价值[20]。本研究发现植物乳酸菌不具有降解棉酚的能力，但可以降低发酵棉籽粕的pH，植物乳酸菌 BLCC2-0092发酵 $2 4 \\mathrm { h }$ 时，发酵棉籽粕 $\\mathfrak { p H }$ 降至5.47。因此，利用植物乳酸菌和枯草芽孢杆菌复配发酵棉籽粕，在降低发酵棉籽粕中游离棉酚含量的同时，可以消除枯草芽孢菌在发酵过程中产生的刺鼻的氨味，改善发酵风味，提高饲料营养价值。通过2次复配发酵发现，植物乳酸菌 BLCC2-0092 和枯草芽孢杆菌 BLCC1-0039 按照比例1:1 接种， $3 7 \\mathrm { ~ \\textdegree ~ }$ 需氧发酵 $2 4 \\mathrm { h }$ 再厌氧发酵时效果优于同等条件下需氧发酵7h再厌氧发酵的情况，说明较长的需氧发酵时间有利于枯草芽孢杆菌的生长，而枯草芽孢杆菌的生长对棉酚的降解至关重要，再进行厌氧发酵有利于乳酸菌的生长，乳酸菌的生长会降低发酵料的 $\\mathfrak { p H }$ ，对改善发酵风味至关重要。与空白对照组相比，最优复配发酵组（BLCC2-0092+BLCC1-0039组）各阶段发酵棉籽粕的pH显著降低，厌氧发酵 $7 2 \\mathrm { { h } }$ 时 $\\mathsf { p H }$ 降至5.27，改善了发酵风味，增加了酸香味；酸溶蛋白质含量显著提高，厌氧发酵 $7 2 \\mathrm { { h } }$ 时酸溶蛋白质含量达到 $23 . 5 4 \\%$ ；游离棉酚含量显著降低，需氧发酵 $2 4 \\mathrm { h }$ 时游离棉酚降解率达到 $5 2 . 1 2 \\%$ ，厌氧发酵 $7 2 \\mathrm { { h } }$ 时游离棉酚降解率达到 $6 1 . 5 8 \\%$ 。本研究得出的游离棉酚降解率高于王晓玲等[21利用枯草芽孢杆菌和酿酒酵母复配发酵棉籽粕（ $3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 需氧发酵 $4 8 \\mathrm { ~ h ~ }$ ）所得的游离棉酚降解率（ $4 8 . 5 \\%$ )°",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ （ 利用枯草芽孢杆菌 BLCC1-0039 发酵棉籽粕，可有效降低发酵棉籽粕中的游离棉",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "酚含量，发酵 $2 4 \\mathrm { ~ h ~ }$ 后游离棉酚降解率可达 $9 3 . 8 9 \\%$ ，同时可有效提高发酵棉籽粕中的中性蛋白酶活性和酸溶蛋白质含量。  \n$\\textcircled{2}$ 植物乳酸菌无降解游离棉酚的能力，但可有效降低发酵棉籽粕的pH，植物乳酸菌BLCC2-0092发酵 $4 8 \\mathrm { ~ h ~ }$ 后发酵棉籽粕的pH 降至4.67。  \n$\\textcircled{3}$ 枯草芽孢杆菌和植物乳杆菌复配发酵可有效降低发酵棉籽粕中的游离棉酚含量，并提高发酵棉籽粕中的中性蛋白酶活性和酸溶蛋白质含量，有效降低发酵棉籽粕的pH，增加酸香味。  \n$\\textcircled{4}$ 综合各指标，推荐棉籽粕的最优复配发酵方式为枯草芽孢杆菌 BLCC2-0092 与枯草芽孢杆菌 BLCC1-0039 按照1:1比例接种，37℃时需氧发酵 $2 4 \\mathrm { ~ h ~ }$ 再继续厌氧发酵。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "257 参考文献：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1   \n258 [1] 李佳,袁洪水,朱宝成.棉籽饼中棉酚降解菌株的分离及脱毒效果初探[J].科技传   \n259 播,2010(14):85,91.   \n260 [2] 朱德伟,刘志鹏,蔡国林,等.高效降解棉酚菌种的筛选及棉粕发酵脱毒工艺研究[J].中国油   \n261 脂,2010,35(2):24-28.   \n262 [3] 刘建成,马贵军,蒋粒薪.高效降解棉粕中游离棉酚菌种的筛选[J].饲料工   \n263 业,2012,33(1):29-31.   \n264 [4] YANG X,SUN J Y,GUO J L,et al.Identification and proteomic analysis of a novel   \n265 gossypol-degradingfungalstrain[J].JournaloftheScienceofFoodand   \n266 Agriculture,2012,92(4):943-951.   \n267 [5]WENG X Y,SUN J Y.Biodegradation of free gossypol by a new strain of Candida tropicalis   \n268 undersolidstatefermentation:effectsoffermentationparameters[J].Process   \n269 Biochemistry,2006,41(7):1663-1668.   \n270 [6] 李佳,张爱民,袁洪水,等.棉酚降解菌株的分离及对棉饼的脱毒效果[J].江苏农业科   \n271 学,2012,40(11):220-224.   \n272 [7] 柴秀航,付元元,毕艳兰,等.棉仁中游离棉酚提取工艺的优化[J].中国油   \n273 脂,2014,39(5):61-65.   \n274 [8]DAI C H,ZHANG L P,MA H L,et al.Ultrasound-assisted detoxification of free gossypol from   \n275 cottonseed meal[J].Journal of Food Process Engineering,2017,40(1):e12265.   \n276 [9]张丛,李佳,袁洪水,等.高效降解棉酚菌株的筛选鉴定及毒性试验[J].中国农学通   \n277 报,2012,28(12):112-117.   \n278 [10] 陈来,冷向军,李小勤,等.优化高效液相色谱法测定棉籽粕中游离棉酚的含量[J].动物营   \n279 养学报,2012,24(7):1320-1328.   \n280 [11] 乔晓艳,蔡国林,陆健.微生物发酵改善棉粕饲用品质的研究[J].中国油   \n281 脂,2013,38(5):30-34. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "12 [12]单达聪,王四新,季海峰,等.固态发酵豆粕蛋白质品质评价指标的研究[J].饲料工   \n13 业,2012,33(21):13-16.   \n4 [13]肖志明,李丽蓓,邓涛,等.饲料原料中酸溶蛋白的测定方法研究[J].中国畜牧杂   \n15 志,2016,52(2):72-75.   \n;6 [14]闫亚婷.固态发酵玉米条件的优化及营养物质变化的比较研究[D].硕士学位论文.雅安:   \n17 四川农业大学,2010.   \n8 [15]刘颖,张彬彬,孙冰玉,等.枯草芽孢杆菌高产中性蛋白酶发酵条件的优化[J].食品科   \n19 学,2014,35(13):166-170.   \n10 [16]SUN H,TANG J W,YAO X H,et al.Improvement of the nutritional quality of cottonseed   \n1 meal by Bacillus subtilis and the addition of papain[J].International Journal of Agriculture and Biology,2012,14(4):563-568. [17]VELLAICHAMY M.Detoxification of gossypol in cotonseed meal by pleurotus flabellatus strain M-1 under solid state fermentation[J].Indian Journal of Animal Nutrion,2013. [18]MAGESHWARAN V.Optimization of solid state fermentation proces for gossypol detoxification in heat sterilized coton seed cake by mixed fungal cultures[J].International Journal of Food and Fermentation Technology,2016,6(1):97-102. [19]WANG X,TANG J W,YAO,X H,et al.Effect of Bacillus cereus Br on bacterial community and gossypol content during fermentation in cottonseed meal[J].African Journal of Microbiology Research,2012,6(36):6537-6544. [20]王晓伟,高鹏飞,姚国强,等.乳酸菌发酵饲料的优势及其在畜禽养殖中的应用[J].粮食与 饲料工业,2015,12(7):47-50. [21]王晓玲,刘倩,韩伟,等.棉酚脱除菌株的筛选及棉粕混菌固态发酵研究[J].粮油食品科 技,2016(1):81-85. Screening of High Efficient Free Gossypol-Degrading and Improving Cottonseed Meal Nutritive Quality Stains QI XiuyeXIE Quanxi CHEN Zhen YU Jiamin XUHaiyan GU Wei (Shandong Baolai-Leelai Bioengineering Co., Ltd., Tai'an 27100o, China) Abstract: This experiment was conducted to study the effects of cottnseed meal fermented by Bacillus subtilis and Lactobacillus plantarum on free gossypol degrading rate of cottonseed meal, and to compare the Nutritive Quality indices of cottonseed meal before and after fermentation, such as viable count of bacteria, neutral proteases activity, pH,acid-soluble protein content and gossypol content, etc.The results showed that the Bacillus subtilis BLCC1-0039 had high efficient free gossypol-degrading capacity and the Lactobacillus plantarum BLCC2-0o92 had improving fermentation flavor capacity. Comprehensive the advantages of Bacillus subtilis BLCC1-0039 and Lactobacillus plantarum BLCC2-0o92, the optimal compound fermentation conditions were ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "showed as follows: the inoculative proportion of Bacillus subtilis BLCC1-0039 and Lactobacilus plantarum BLCC2-0092 was 1:1, $2 4 \\mathrm { ~ h ~ }$ for aerobic fermentation and then anaerobic fermentation. Compared with control check group, the $\\mathsf { p H }$ of fermented cottonseed meal in each fermentation stage of optimal compound fermentation group was significantly decreased ( $\\lceil P { < } 0 . 0 5 \\rceil$ ,and the pH after anaerobic fermentation $^ { 7 2 \\mathrm { ~ h ~ } }$ reduced to 5.27； the acid-soluble protein content was significantly $( P { < } 0 . 0 5 )$ ),and the acid-soluble protein content after anaerobic fermentation $^ { 7 2 \\mathrm { ~ h ~ } }$ increased to $23 . 5 4 \\%$ ； the feed gossypol content was significantly decreased $( P { < } 0 . 0 5 )$ ，and the free gossypol degrading rate after aerobic fermentation $2 4 \\mathrm { ~ h ~ }$ and anaerobic fermentation $^ { 7 2 \\mathrm { ~ h ~ } }$ reached to $5 2 . 1 2 \\%$ and $6 1 . 5 8 \\%$ ，respectively. It is concluded that compound fermentation of Bacillus subtilis BLCC1-0039 and Lactobacillus plantarum BLCC2-0092 can eectively degrade the content of free gossypol in cottonseed meal and improve the nutritive quality of cottonseed meal. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: Bacillus subtilis; Lactobacillus plantarum; cotonseed meal; free gossypol; nutritive quality ",
+        "page_idx": 12
+    }
+]

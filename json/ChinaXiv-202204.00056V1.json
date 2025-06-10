@@ -1,0 +1,528 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于脑电微分熵的警觉度估计方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈万，蔡艳平，李爱华，杨梅枝，姜柯(火箭军工程大学,305教研室，西安 710025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为提高人员警觉度实时估计精度，提出了一种基于微分熵(DE)、改进滑动平均和双向二维主成分分析(TD-2DPCA)的警觉度实时估计方法。首先将总频带以某一带宽分解为多个子频带，在每个子频带提取DE；然后结合警觉度的时间动态特征对传统滑动平均方法进行了改进，利用改进滑动平均对 DE 进行了平滑处理；之后利用 TD-2DPCA 对 DE 进行降维，并采用最小二乘支持向量机(LS-SVM)建立特征矩阵与警觉度之间的回归模型，以实现警觉度的实时准确估计。最后利用SEED-VIG数据集进行了实验验证，结果表明，采用改进滑动平均和TD-2DPCA方法对数据进行处理可以提高警觉度估计的精度并降低估计时间；总频带在0-35HZ 以内，分解带宽为1HZ 或 2HZ时，提取的DE进行警觉度估计能够达到最高的估计精度，PearSon 相关系数约为0.91，RMSE 约为0.09，优于现有的警觉度估计方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脑电信号；微分熵；改进滑动平均；双向二维主成分分析 中图分类号：TN911.7 doi:10.19734/j.issn.1001-3695.2022.01.0021 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vigilance estimation based on differential entropy of EEG ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Wan, Cai Yanping†,Li Aihua, Yang Meizhi, Jiang Ke (Room 305,Rocket Force University of Engineering,Xi'an 710025,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To improvethereal-time estimation accuracyof vigilance,this paper developed avigilance estimation method basedondiferential entropy(DE),improved moving average and two-directional two-dimensional principal component analysis (TD-2DPCA).First,itdecomposed the total frequencyband into multiple sub-bands withacertainbandwidth,and extracted DEfrom the sub-band.Thencombined with the temporal dynamic characteristicsof vigilance,it improved the traditional movingaverage andused improved moving average to smooth theDE.Afterthat,itusedTD-2DPCAtoreduce the dimensionalityofDE,and establishedaregression modelbetwee thefeature matrix andvigilance with least squares-support vector machine(LS-SVM) toachieve acuratereal-time estimationof vigilance.Finally,this paperused the SEED-VIG for experimental verification.Theresults show that the improved moving average andTD-2DPCA can improve the accuracyof vigilanceestimationand reduce the estimation time.Using 1HZor2HZ bandwidth to decompose the total frequency band within O-35HZ toextractDEand perform vigilanceestimation,theresult hasthe highestaccuracy.ThePearsoncorrelation coefficient isabout 0.91,and the RMSE is about 0.09,which isbetter thanthe existing vigilance estimationmethods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:EEG signal;dierential entropy；improved movingaverage；two-directional two-dimensional principal component analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "警觉度是指人集中注意力执行某项任务时所表现出的灵敏程度，警觉度越低，人员在执行任务的过程中犯错的概率就会越大[1]。生活中存在大量危险性较高的职业，比如长途客车驾驶员、化工品运输司机、大型设备操作员、飞行员等，都需要人员长时间保持高警觉度状态，一旦人员出现警觉度降低，可能导致灾难性后果[2]。因此，进行人员警觉度的估计已经成为人机交互和主动安全领域的重要研究课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常用于人员警觉度估计的方法有自我估计、眼球追踪测量、脑电图(Electroencephalogram，EEG)测量，其中基于EEG的人员警惕度估计方法表现出更高的准确率和稳定性[3]。EEG信号是记录头皮电位变化的信号，在一定程度上反映了人的认知活动[4]。通常将EEG信号划分为五个频段，分别是$\\delta \\left( { 0 . 5 - 4 } \\mathrm { H Z } \\right)$ 、0(4-8HZ)、 $\\alpha$ (8-14HZ)、 $\\beta$ (14-30HZ)、γ(30-50HZ)，不同实验中划分略有不同[5]。研究表明，昏睡状态下$\\theta$ 和 $\\alpha$ 波的能量会增加， $\\beta$ 和／波的能量会降低[。王恁等[7]采用 $( \\theta + \\alpha ) / \\beta$ 的功率谱密度比值、专注度与放松度的比值和眨眼频率作为疲劳检测特征值，实现了人员疲劳的实时检测，然而该方法只将疲劳状态分为三类，无法实现人员警觉度的准确监测。张朋等[8]在每个通道信号上提取了37个特征，利用随机森林方法实现了人员的疲劳检测，然而该方法没有对提取的特征进行处理，导致特征维度较高，识别精度有限。上述两种方法提取的脑疲劳特征都是来自EEG信号的五个频段信号，无法最大化EEG包含的信息。而采用经验模态分解、小波变换等分解方法对 EEG信号进行分解[9,10]，可以提取出更多有用的特征，但信号分量含义不明显，同时多余的特征也可能对原有特征带来干扰，影响估计结果[1]。同时，人的疲劳状态变化是一个动态过程，不能简单地将人的警觉度划分为几类，因此实现人员警觉度的实时评估，更加贴合实际应用[12]。研究表明[13,14]，采用微分熵(differential entropy,DE)作为警觉度估计特征效果优于传统的脑电特征，因此本文采用DE作为警觉度估计特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在现有研究基础上，本文进一步对人员警觉度估计方法进行了研究。在特征提取上，先将每个通道EEG信号等分为多个子频带，然后在每一个子频带上提取DE，并分析了不同等分方法对警觉度估计的影响，以期找到最优的DE 提取方法，同时与传统特征提取方法进行了对比。在特征平滑上，结合警觉度的时间动态特性，对传统的滑动平均方法进行了改进，提出了变窗口平滑与短时预测相结合的边缘数据平滑方法，提高了边缘数据与整体数据的关联性。在数据降维上，对比分析了传统主成分分析(Principalcomponent analysis，PCA)方法和双向二维主成分分析方法在脑电特征降维中的性能。最终，利用最小二乘支持向量机(Least squares-supportvectormachine，LS-SVM)构建了特征向量与警觉度之间的回归模型，实现了警觉度的准确估计，并结合实例数据进行了实验验证，证明了所提方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1特征提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明，DE在人员警觉度估计中的性能优于传统功率谱密度以及其他时频特征，因此本文采用DE作为警觉度估计的特征值[9-11]。DE 用于描述连续变量的复杂性，其计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD E = - \\int _ { X } f ( x ) \\log ( f ( x ) ) d x\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $f ( x )$ 代表随机变量的概率密度函数。在一个固定的频段内，EEG 信号的分布可以近似为高斯分布 $N ( \\mu , \\sigma ^ { 2 } )$ ，因此其DE 可以简化为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD E = - \\int _ { - \\infty } ^ { + \\infty } \\frac { 1 } { \\sqrt { 2 \\pi \\sigma ^ { 2 } } } e ^ { \\frac { ( x - \\mu ) ^ { 2 } } { 2 \\sigma ^ { 2 } } } \\log \\Biggl ( \\frac { 1 } { \\sqrt { 2 \\pi \\sigma ^ { 2 } } } e ^ { \\frac { ( x - \\mu ) ^ { 2 } } { 2 \\sigma ^ { 2 } } } \\Biggr ) d x = \\frac { 1 } { 2 } \\log ( 2 \\pi e \\sigma ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用两种DE特征提取方法：一是对于每一个通道信号，均在 $\\delta \\left( { 0 . 5 - 4 } \\mathrm { H Z } \\right)$ 、0(4-8HZ)、 $\\alpha$ (8-14HZ)、 $\\beta$ (14-30HZ)、γ(30-50HZ)这五个频段上提取DE；二是对于每一个通道信号，将信号的某一部分频带按照一定的频带宽度进行等分，比如在0-50HZ的频带上，按照2HZ的带宽可以将信号分解为[0,2]、[2,4]、..、[48,50]共25个频带，然后从各个子频带上提取DE。所有DE特征都是采用8秒长无重叠汉宁窗口的短时傅里叶变换来计算的，因此得到的特征矩阵维度为$N \\times M \\times L$ ， $N$ 代表通道数， $M$ 代表划分的子频带的数目， $\\boldsymbol { L }$ 代表整个实验中提取特征的数量，数值上等于EEG信号的长度除以窗口的长度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2特征平滑 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在警觉度估计领域，大部分研究更倾向于将EEG信号映射到静态离散疲劳状态，但实际上人的警觉度变化是一个时间动态过程[8]，因此对提取的特征进行平滑不仅能够避免测量误差带来的影响，而且能够提高特征随时间变化的连续性，从而提高人员警觉度估计的准确率。滑动平均是常见的用于数据平滑的方法，假设窗口长度为 $\\mathbf { \\xi } _ { l }$ 并且为奇数，对于脑电的特征序列 $\\scriptstyle { \\boldsymbol { X } }$ ，其前后特征的权重是相等的，因此有：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { 1 } { l } \\sum _ { j = i - ( l - 1 ) / 2 } ^ { i + ( l - 1 ) / 2 } x _ { j } } & { i = ( l + 1 ) / 2 , . . . , L - ( l - 1 ) / 2 } \\\\ { \\displaystyle x _ { i } } & { e l s e } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $x _ { i }$ 代表原始数据， $z _ { i }$ 代表平滑过后的数据， $\\textbf { \\em L }$ 为待处理数据长度。从式(3)中可以发现，滑动平均无法对 $[ 1 , ( l + 1 ) / 2 - 1 ]$ 和 $[ L - ( l - 1 ) / 2 + 1 , L ]$ 区间的原始数据进行处理，这可能导致平滑后数据在两端出现跳变的情况，会对警觉度估计模型产生较大的影响。人的警觉度变化是一个随时间变化的动态特性，在短期内可以进行估计，基于此对传统滑动平均方法进行了改进：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一步：采用传统滑动平均对数据进行平滑，获得 $z _ { i }$ ：第二步：从 $z _ { ( l + 1 ) / 2 - 1 }$ 开始由后往前采用变窗口计算平滑结果，从 $z _ { L - ( l - 1 ) / 2 + 1 }$ 开始由前往后计算平滑结果：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } = \\left\\{ \\begin{array} { l l } { { \\displaystyle \\frac { 1 } { 2 i - 1 } \\sum _ { j = 1 } ^ { 2 i - 1 } x _ { j } } } & { { j = ( l + 1 ) / 2 - 1 , . . . , s + 1 } } \\\\ { { \\displaystyle \\frac { 1 } { 2 ( L - j ) + 1 } \\sum _ { j = 2 ( L - j ) + 1 } ^ { L } x _ { j } } } & { { j = L - ( l - 1 ) / 2 + 1 , . . . , L - s } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第三步：由于区间[1,s]和 $[ L - s + 1 , L ]$ 对应的窗口太小，求平均后的数据仍不够平滑，因此采用平滑后的数据进行短时预测计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { i } = \\left\\{ \\begin{array} { l l } { z _ { i + 1 } + ( z _ { i + 1 } - z _ { i + n } ) / n } & { \\quad j = 1 , 2 , . . . , s } \\\\ { z _ { i - 1 } + ( z _ { i - 1 } - z _ { i - n } ) / n } & { \\quad j = L - s + 1 , . . . , L } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 和 $n$ 是两个变量，需要根据实际处理的数据进行调整，本文取值均为4。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3特征降维 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过分解每个通道的EEG信号，能够提取更多有用的信息，但多余的信息也可能造成模型训练准确率下降，增加模型训练时间，因此对脑电特征数据进行降维处理有利于提高警觉度估计的准确率，降低估计时间。本文引入了两种降维方法：PCA 和双向二维主成分分析(Two-directionaltwo-dimensionalPCA，TD-2DPCA)[15]，并对两种方法在警觉度估计中的性能进行了对比分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统PCA算法是一种利用正交变换将高维数据映射到低维空间的方法，常被用于脑电数据降维中[16]，能够在一定程度上降低警觉度估计时间，但PCA在对高维数据进行降维时，需要先将高维数据变换为行向量，样本维数比较大。对于 $N \\times M \\times L$ 维的脑电特征，在每个时间窗口提取的EEG特征是一个 $N \\times M$ 维的矩阵，不同行包含的是不同脑区或者不同通道的信息，不同列包含的是不同子频带的信息，而PCA在降维时无法对两个维度的信息进行区分。TD-2DPCA能够直接从两个维度对原有矩阵进行降维，因此在对脑电的通道信息和频带信息进行信息提取时更加灵活，同时TD-2DPCA计算过程中的协方差矩阵维度远低于PCA，运行效率更高，更适合警觉度的实时估计与实际应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 2DPCA中，对于 $M$ 个训练样本 $A _ { i } , i = 1 , 2 , . . . , M$ ，每个样本大小为 $\\scriptstyle n \\times m$ 维，需要将其通过映射矩阵 $\\scriptstyle { \\boldsymbol { X } }$ 投影到主成分空间，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = A _ { i } X i = 1 , 2 , . . . , M\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\pmb { Y } _ { i }$ 代表第 $i$ 个样本投影的结果。投影矩阵 $\\scriptstyle { \\boldsymbol { X } }$ 的选取准则是使得投影后的结果辨识度更高，即散度最大，因此定义式(7)作为投影矩阵 $\\scriptstyle { \\boldsymbol { X } }$ 的目标函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( X ) { = } t r ( S _ { x } ) { = } t r \\{ X ^ { T } E [ ( A { - } E A ) ^ { T } ( A { - } E A ) ] X \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { s } _ { x }$ 代表 $\\boldsymbol { \\mathbf { \\mathit { Y } } }$ 的协方差矩阵， $t r ( S _ { x } )$ 代表协方差矩阵的迹，定义 $\\pmb { G } _ { t } = E [ ( \\pmb { A } - E \\pmb { A } ) ^ { T } ( \\pmb { A } - E \\pmb { A } ) ]$ 为样本的总体散度矩阵，可以发现$\\pmb { G } _ { t }$ 是一个维度为 $\\scriptstyle n \\times m$ 非负定矩阵，对于上述 $\\mathbf { \\Omega } _ { M }$ 个训练样本,$\\pmb { G } _ { t }$ 的计算方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { A } } = \\frac { 1 } { M } \\sum _ { i = 1 } ^ { M } A _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { G } _ { t } = \\frac { 1 } { M } \\sum _ { i = 1 } ^ { M } ( \\pmb { A } _ { i } - \\overline { { \\mathbb { A } } } ) ^ { T } ( \\mathbb { A } _ { i } - \\overline { { \\mathbb { A } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算 $\\mathsf { G } _ { t }$ 的标准特征向量并按照特征值降序排列，由于 $\\mathsf { G } _ { t }$ 是一个维度为 $m \\times m$ 非负定矩阵，其特征向量有 $m$ 个，则投影矩阵的最优解为 ${ \\mathrm { X } } = [ X _ { 1 } , X _ { 2 } , . . . , X _ { d } ]$ ，其中 $X _ { i }$ 为 $\\mathrm { G } _ { t }$ 的第 $\\mathbf { \\chi } _ { i }$ 个标准特征向量。投影结果 $Y = A X$ 的维度为 $\\scriptstyle n \\times d$ ，其中 $^ d$ 的值可以通过需要的信息阈值设置。样本维度从 $\\boldsymbol { n } \\times \\boldsymbol { m }$ 降维到 $\\scriptstyle n \\times d$ ，因此 2DPCA 对矩阵进行了行方向的投影。TD-2DPCA 在2DPCA的基础上，还对矩阵进行了列方向的投影，列方向的投影矩阵 $z$ 求解过程与 $\\scriptstyle { \\boldsymbol { X } }$ 类似，只需要将样本 $A$ 进行转置，其余计算过程相同，最终得到的样本总体散度矩阵为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\pmb { G } } _ { t } = E [ ( \\mathbf { A } - E \\mathbf { A } ) ( \\mathbf { A } - E \\mathbf { A } ) ^ { T } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\hat { \\mathbf { G } } _ { t }$ 是一个维度为 $\\scriptstyle n \\times n$ 非负定矩阵，其特征向量有 $n$ 个，计算其标准特征向量并按特征值降序排列，得到列方向的投影矩阵最优解为 $\\pmb { Z } = [ Z _ { 1 } , Z _ { 2 } , . . . , Z _ { q } ]$ ，将样本 $A$ 在行方向和列方向同时投影，得到最终的投影结果：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { C } = \\pmb { Z } ^ { T } \\pmb { A } \\pmb { X }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此时， $c$ 的维数为 $\\scriptstyle q \\times d$ ，与原矩阵维数 $\\scriptstyle ( n \\times m$ )相比，数据得到有效压缩，并且计算过程中的协方差矩阵维度分别为$\\scriptstyle n \\times n$ 和 $m \\times m$ 为，相比PCA 计算过程中的协方差矩阵维数$( n m ) \\times ( n m )$ ，计算效率得到提高。常用于控制投影结果维度的方法有两种：一是直接设定投影后的维度，即设定选择特征向量的个数；二是根据特征值计算累积贡献率，当累积贡献率第一次大于设定阈值时对应的特征值个数即为投影后的维数。固定投影结果的维数会影响方法的泛化能力，而设置累计贡献率可能出现某一特征值过大导致降维后信息缺失，因此本文将两种方法进行组合，整体上采用累计贡献率保证方法的泛化能力，当降维数据维度低于最小允许维度时，采用固定维度降维。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4最小二乘支持向量机",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SVM在小样本数据的分类和预测中具有较快的运算速度和精度，适合警觉度的实时估计，LS-SVM相对SVM计算更加简单，运行速度更快，因此本文采用LS-SVM建立脑电特征与警觉度之间的回归模型。其中LS-SVM的核函数采用高斯核函数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { g } \\left( \\mathbf { x } , z \\right) = \\exp ( - \\frac { \\left\\| x - z \\right\\| ^ { 2 } } { 2 \\sigma ^ { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sigma$ 代表核函数带宽。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5警觉度估计方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "警觉度估计方法的核心步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stepl：对 $\\mathrm { ~  ~ N ~ }$ 个通道的EEG信号，每个通道信号按固定带宽分解为 $\\mathbf { \\delta M }$ 个分量；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step2：在每个分量上提取微分熵，提取方法为无重叠汉 宁窗的短时傅里叶变换; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step3：采用改进滑动平均和TD-2DPCA对提取的微分熵进行平滑处理和降维；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step4：将处理后的特征输入LS-SVM回归机，获得人员警觉度估计结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文方法的流程图如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d67ab9ee62b44670c93df77b24a51cc30eb070ca8ddca56f965bd2fe1ebd56a.jpg",
+        "img_caption": [
+            "图1警觉度估计方法框图",
+            "Fig.1The framework of the vigilance estimation method "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1脑电数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据集来自上海交通大学仿脑计算与机器智能研究中心公开发表的驾驶疲劳数据集 SEED-VIG[10]。实验在一个虚拟驾驶系统中进行，被试在一个真实的车辆(没有不必要的引擎和其他组件)中进行长时间驾驶，车辆前方有一个同步变换驾驶场景的显示屏，道路主要是单调直道，更容易引发疲劳。一共有23名被试(12名女性，年龄23.3/1.4)参与了实验，所有被试都保证身体健康。大部分实验在13:30左右进行，更容易引发被试疲劳，一次实验持续时间约2小时。实验一共采集了18个通道的脑部EEG信号，电极放置方法为国际10-20系统，如图2所示，分别是FT7、FT8、T7、T8、TP7、TP8、CP1、CPZ、CP2、P1、PZ、P2、PO3、POZ、PO4、O1、OZ、O2，其中CPZ为参考电极，因此数据集中包含了17个通道的EEG信号。此外还记录了7个通道的眼部和前额信号，其中1-4号电极放置位置与传统测量眼电信号方式一样，5-7号电极放置位置为SEED-VIG数据集特有，如图3所示，该信号用于计算眼电信号(Electrooculogram，EOG)，4-7号通道采集的信号也可以视为EOG污染较为严重的EEG信号。为了降低噪声污染，减少运算量，17个通道的EEG信号降采样到200HZ，并进行1-75HZ的带通滤波；7个通道的眼部和前额信号降采样到 $1 2 5 \\mathrm { H Z }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FP1FPZ FP2 AF3 AF4 F7F5F3F1FZF2F4F6F8 DFCS FCFCFCZF2FC4C6 C5C3 C1 CZ C2C4 C6 CP5CP3 CPI 12 CP CP4 CP6 P7 ，P5P3 P1 PZP2 P4P6p8 P07 PO5 PO6PO8 3 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/897bece6cd241f1156d133d62443b8b7d63b4598701d092d596864478c958224.jpg",
+        "img_caption": [
+            "图2国际10-20系统电极放置图",
+            "Fig.2Electrode placement diagram of the International 10-20 system ",
+            "图3SEED-VIG数据集中前额电极放置位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Placement of the forehead electrodes in the SEED-VIG data set实验采用眼球追踪眼镜记录了被试的眨眼和闭眼时间，利用PERCLOS指数进行了被试警觉度标注。PERCLOS 指数计算方法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP E R C L O S = \\frac { b l i n k + C L O S } { t i m e }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：time代表一段时间间隔，SEED-VIG中计算指数的time为8秒，blink代表时间间隔内眨眼时间，CLOS代表时间间隔内闭眼时间。因此PERCLOS指数代表了被试在一段时间内眨眼和闭眼时间的占比，取值范围为[0,1]，PERCLOS指数越大，代表被试警觉度越低，疲劳程度越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于不同数据处理方法的警觉度估计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文中使用到的信号均为17个通道的EEG信号加上4个通道的前额信号，一共21个通道的信号，实验中均在23个被试数据进行了实验验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中对两种平滑方法和两种降维方法的性能进行了对比分析。在0-50HZ频段，以1HZ的频带宽度对信号进行分解，获得50个子频带，然后利用短时傅里叶变换在每个频带上提取DE，短时傅里叶变换中的窗口为8秒长的无重叠汉宁窗。数据集中记录了118分钟的数据，按照上述8秒长窗□进行特征提取，共有885个数据，因此在一个被试上获得的DE特征维度为 $2 1 \\times 5 0 \\times 8 8 5$ ，代表了21个通道，50个频带和885个样本数量。提取的特征分别采用滑动平均、改进滑动平均两种方法进行平滑处理，由于警觉度水平随周期长度的波动通常大于四分钟[17]，因此滑动平均的窗口宽度为4分钟。然后采用两种降维方法对平滑后的特征进行降维，为了保证实验结果具有较高的准确率同时数据被充分降维，经过多次实验实验，将PCA的贡献率设置为0.9，TD-2DPCA在行方向和列方向的贡献率分别设置为0.9和0.85，两种方法的最小允许维度设置为4。最后采用LS-SVM建立特征向量与PERCLOS指数之间的回归模型，其中 $\\gamma$ 和 $\\sigma$ 设置为50000和3000，采用均方根误差和Pearson相关系数估计实验结果：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\sqrt { \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } ( y _ { i } - \\hat { y } _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP e a r s o n _ { i } = \\frac { \\sum y _ { i } \\hat { y } _ { i } - \\cfrac { 1 } { N } \\sum y _ { i } \\sum \\hat { y } _ { i } } { \\sqrt { ( \\sum y _ { i } ^ { 2 } - \\cfrac { 1 } { N } ( \\sum y _ { i } ) ^ { 2 } ) ( \\sum \\hat { y } _ { i } ^ { 2 } - \\cfrac { 1 } { N } ( \\sum \\hat { y } _ { i } ) ^ { 2 } ) } } \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $y _ { i }$ 代表测量的PERCLOS指数， $\\hat { y } _ { i }$ 代表估计值。 $N$ 代表信号采样点数。实验中采用五折交叉验证的方法，即对于每一个被试，将885个数据分为五段，每次采用其中四段作为训练集，剩下一段作为验证集，然后将五次估计结果按原有顺序排列，得到 $\\hat { y } _ { i }$ ，并计算RMSE和Pearson相关系数。数据平滑和降维对警惕度估计的影响如表1所示，表中Pearson相关系数和RMSE是采用23组被试实验后的平均值，时间是23组被试测试完毕所用的时间总和。从表中可以发现，如果直接利用原始特征向量进行警觉度估计，预测结果的Pearson相关系数只有 $6 4 . 0 8 \\%$ ，并且运行的时间最长，不能满足实际要求，而数据经过平滑和降维后，Pearson相关系数都提高到了 $8 5 \\%$ 以上，时间也缩短了一半左右，因此对特征进行平滑和降维有利于警觉度的实时估计；对比传统滑动平均和改进滑动平均的实验结果发现，改进滑动平均方法性能优于传统滑动平均方法，Pearson相关系数提高了约 $2 \\%$ RMSE下降了约 $0 . 5 \\%$ ；数据经过改进滑动平均和TD-2DPCA处理后进行测试，得到的Pearson相关系数最高，为 $8 7 . 8 3 \\%$ 运行时间也最短，RMSE比最低值仅高 $0 . 0 4 \\%$ ，因此相对于PCA降维的方法，TD-2DPCA具有一定的优势，能够应用于脑电特征降维中，并且随着特征维度的增加，TD-2DPCA降维方法的优势会更加明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c963cd4cf7688cc4764e1f9db952ab230118204d4c35c31b836665d41fb3632.jpg",
+        "table_caption": [
+            "表1不同数据处理方法及结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理方法</td><td>Pearson(%)</td><td>RMSE(%)</td><td>时间/s</td></tr><tr><td>未处理</td><td>64.08</td><td>15.31</td><td>185</td></tr><tr><td>滑动平均与PCA</td><td>85.32</td><td>10.90</td><td>96</td></tr><tr><td>滑动平均与TD-2DPCA</td><td>86.02</td><td>11.21</td><td>94</td></tr><tr><td>改进滑动平均与PCA</td><td>87.55</td><td>10.59</td><td>96</td></tr><tr><td>改进滑动平均与TD-2DPCA</td><td>87.83</td><td>10.63</td><td>94</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于不同DE提取方法的警觉度估计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步提高警觉度估计精度，本文对DE的提取方法进行了详细的探究。分别将总频带0-15HZ、 $_ { 0 - 2 0 \\mathrm { H Z } }$ 、0-$2 5 \\mathrm { H } Z$ 、0-30HZ、0-35HZ、0-40HZ、0-45HZ、0-50HZ、4-$2 0 \\mathrm { H } Z$ 、4-25HZ、4-30HZ、4-35HZ、4-40HZ、4-45HZ、4-${ 5 0 } \\mathrm { H } Z$ 、 $8 – 2 5 \\mathrm { H Z }$ 、 $8 – 3 0 \\mathrm { H Z }$ 、 $8 – 3 5 \\mathrm { H Z }$ 、8-40HZ、8-45HZ、8-${ 5 0 } \\mathrm { H } Z$ ，分别以1HZ、2HZ、3HZ、4HZ、5HZ的带宽进行等分，然后从获得的子频带上提取DE。如将0-25HZ 频段以2HZ进行等分，可以获得0-2HZ、2-4HZ，直至 $2 2 { - } 2 4 \\mathrm { H } Z$ 共12个子频带，其他频段的等分方法与之类似。最终一共有105种DE提取方式。特征提取采用短时傅里叶变换，数据平滑采用改进滑动平均方法，数据降维采用TD-2DPCA方法，回归机采用LS-SVM，所有算法的参数设置与第一个实验相同，每次实验均在23个被试数据上了进行测试。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验结果如表2所示。从Pearson相关系数来看，1HZ带宽具有最高的精度，平均数值达到了 $8 7 . 4 5 \\%$ ，从RMSE来看，2HZ带宽具有最高的精度，平均数值在 $9 . 0 7 \\%$ ，表明与基于3-5HZ 带宽的DE 提取方法相比，基于1-2HZ带宽的DE 提取方法在不同总频带上都具有明显的优势。Pearson最大对应的数据为警觉度估计结果的Pearson相关系数最大时对应的RMSE和总频带，RMSE最小对应的数据为警觉度估计结果的RMSE最小时对应的Pearson系数和总频带，纵向对比可以发现，采用1-2HZ带宽进行警觉度估计效果优于其他带宽，并且基于1HZ 带宽的估计结果具有最高的 Pearson精度，为 $91 . 5 0 \\%$ ，基于2HZ带宽的实验结果具有最优的RMSE精度，为 $8 . 6 7 \\% _ { \\textmd { c } }$ 观察五种带宽在Pearson最大或RMSE最小时对应的总频带范围，发现在五种带宽中，最高估计精度对应的总频带范围大多从都是从0HZ开始，20-30HZ结束，这表明0-30HZ的EEG中包含了大部分与警觉度关联的信息，同时进一步表明多余的EEG特征提取会降低警觉度估计精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3展示了所有实验中，估计结果的Pearson相关系数大于0.9时对应的RMSE，以及特征提取中采用的带宽和总频带。从表中可以看出，一共有9种 DE 提取方法能够实现较高精度的警觉度评估，RMSE大部分都处于0.09附近。同时，基于1HZ 带宽的方法有四种，基于2HZ 带宽的方法有 4中，基于3HZ 带宽的方法有1中，基于4HZ和5HZ 带宽的方法无法实现较高精度的警觉度评估。9种DE提取方法中，总频带的范围没有出现大于35HZ 的情况，这表明采用DE 进行警觉度估计时，提取DE的最佳总带宽在0-35HZ以内的范围。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b08c8fc9a7322e4ba88b866045045aacecc56982e5da4395c7f33392d1fc9d57.jpg",
+        "table_caption": [
+            "表2所有实验结果的对比分析",
+            "Tab.2Comparative analysis of all experimental results "
+        ],
+        "table_footnote": [
+            "表3提出方法的估计结果"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">带宽</td><td rowspan=\"2\">平均 (HZ) Pearson(%)RMSE(%)</td><td rowspan=\"2\">平均</td><td colspan=\"2\">Pearson最大</td><td colspan=\"2\">RMSE最小</td></tr><tr><td>Pearson RMSE 总频带 RMSEPearson 总频带 (%)</td><td>(HZ)</td><td>(%)</td><td></td></tr><tr><td>1</td><td>87.45</td><td>10.61</td><td>(%) 91.50 9.07</td><td>0-20</td><td>9.07</td><td>(%) 91.50</td><td>(HZ) 0-20</td></tr><tr><td>2</td><td>86.9</td><td>10.45</td><td>91.11</td><td>8.75 0-30</td><td>8.67</td><td>90.75</td><td>0-35</td></tr><tr><td>3</td><td>86.26</td><td>10.6</td><td>90.41</td><td>9.22 0-25</td><td>9.1</td><td>89.87</td><td>4-20</td></tr><tr><td>4</td><td>85.77</td><td>11.03</td><td>89.91</td><td>9.77 0-25</td><td>9.08</td><td>89.76</td><td>0-15</td></tr><tr><td>5</td><td>85.41</td><td>10.9</td><td>88.25</td><td>9.65 4-25</td><td>9.15</td><td>87.73</td><td>4-20</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/53470bd426a841bf6009a562fd6fef847ce2b7405c14b92b6112081c4f978758.jpg",
+        "table_caption": [
+            "Tab.1Different data processing methods and results ",
+            "Tab.3The estimation results of the proposed method "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>带宽(HZ)</td><td>总频带(HZ)</td><td>Pearson(%)</td><td>RMSE(%)</td></tr><tr><td>1</td><td>0-20</td><td>91.50</td><td>9.07</td></tr><tr><td>1</td><td>4-20</td><td>90.19</td><td>9.11</td></tr><tr><td>1</td><td>0-15</td><td>90.87</td><td>9.35</td></tr><tr><td>1</td><td>0-25</td><td>90.01</td><td>10.09</td></tr><tr><td>2</td><td>0-35</td><td>90.75</td><td>8.67</td></tr><tr><td>2</td><td>0-30</td><td>91.11</td><td>8.75</td></tr><tr><td>2</td><td>0-25</td><td>90.71</td><td>9.25</td></tr><tr><td>2</td><td>0-20</td><td>90.13</td><td>9.28</td></tr><tr><td>3</td><td>0-25</td><td>90.41</td><td>9.22</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4与现有方法对比结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证方法的有效性，与现有的警觉度估计方法进行了对比，结果如表4所示。其中提出方法从2HZ 带宽分解0-35HZ总频带后的分量提取微分熵，五段带方法从五频带中提取微分，文献[12]是从2HZ带宽分解0-50HZ总带宽后的分量提取微分熵。从表4可以看出，提出方法的警觉度估计结果为 $0 . 9 1 / 0 . 0 9 \\$ ，文献中警觉度估计精度最高为 $0 . 8 5 / 0 . 0 9$ ，表明提出方法的性能优于现有方法。同时对比提出方法和五段带方法的估计结果可以发现，在特征提取过程中，将EEG细分后提取特征比从五频带提取特征更有效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4与现有方法对比结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/160b3340a6b79d63e2621f99ba75c3cd9f8f80e2e1e233d1c3f163f8238235d6.jpg",
+        "table_caption": [
+            "Tab.4The comparison results with existing methods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>特征处理</td><td>回归器</td><td>Pearson</td><td>RMSE</td></tr><tr><td>提出方法</td><td>改进滑动平均+TD-2DPCA</td><td>SVM</td><td>0.91</td><td>0.09</td></tr><tr><td>五频带方法</td><td>改进滑动平均+TD-2DPCA</td><td>SVM</td><td>0.89</td><td>0.09</td></tr><tr><td rowspan=\"3\">Zheng等[12]</td><td>滑动平均</td><td>SVM</td><td>0.83</td><td>0.1</td></tr><tr><td>滑动平均</td><td>CCRF</td><td>0.84</td><td>0.1</td></tr><tr><td>滑动平均</td><td>CCNF</td><td>0.85</td><td>0.09</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为提高基于脑电DE特征的警觉度实时估计精度，本文对DE的提取方法，数据的平滑方法和数据的降维方法进行了系统的研究，提出了一种基于改进滑动平均、TD-2DPCA和最优DE提取的警觉度估计方法。首先结合警觉度的时间动态特性，利用变窗口平均和短时预测的方法对传统滑动平均方法进行了改进，提高了边缘数据与整体数据的关联；在数据降维上，引入TD-2DPCA，对比传统PCA方法，运算速度和信息提取能力都有小幅度的提高；最后结合实例数据和改进的方法，详细对比分析了不同总频带和不同分解带宽对警觉度估计的影响，结果发现，总频带在0-35HZ以内，分解带宽在1HZ或2HZ时，警觉度估计的精度较高，Pearson相关系数约为0.91，RMSE约为0.09，并且优于现有方法的估计精度 $0 . 8 5 / 0 . 0 9$ 。下一步将结合迁移学习算法，将提出方法应用于跨被试的警觉度估计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]高春芳，吕宝粮，马家昕．一种用小波包变换提取眼电信号警觉度 特征的方法[J]．中国生物医学工程学报，2012,31(05):641-648. (Gao Chunfang,Lv Baoliang,Ma Jiaxin.A New Method of Extracting Vigilant Feature from Electrooculography Using Wavelet Packet Transform [J].Chinese Journal of Biomedical Engineering,2012,31(05): 641-648)   \n[2]韩明秀，王盛，王煜文，等．基于 EEG 的飞行员脑力疲劳评估研究 进展[J]．载人航天,2021,27(05):639-645.(Han Mingxiu,Wang Sheng,Wang Yuwen,et al.Research progress of pilot’mental fatigue evaluation based on EEG [J].Manned Spaceflight,2021,27 (O5): 639- 645)   \n[3]Quddus A, Zandi A S,Prest L,et al. Using long short term memory and convolutional neural networks for driver drowsiness detection [J]. Accident Analysis and Prevention,2021,156 (1):106107.   \n[4]刘拓，叶阳阳，王坤，等.运动想象脑电信号分类算法的研究进展 [J]．生物医学工程学杂志，2021,38(05):995-1002.(Liu Tuo,Ye Yangyang,Wang Kun,et al.Progress of classification algorithms for motor imagery electroencephalogram signals [J].Journal of Biomedical Engineering,2021,38 (05): 995-1002)   \n[5]张冠华，余旻婧，陈果，等．面向情绪识别的脑电特征研究综述[J]. 中国科学：信息科学,2019,49(09):1097-1118.(Zhang Guanhua,Yu Minjing，Chen Guo,et al.A review of EEG features for emotion recognition [J]. Sci Sin Inform,2019,49 (09): 1097-1118)   \n[6]罗志增，鲁先举，周莹．基于脑功能网络和样本熵的脑电信号特征 提取[J].电子与信息学报,2021,43(02):412-418.(Luo Zhizeng,Lu Xianju,Zhou Ying.EEG Feature Extraction Based on Brain Function Network and Sample Entropy [J]. Journal of Electronics & Information Technology,2021,43 (02): 412-418)   \n[7]王恁，周子敬，赵云芃，等．基于无线脑电信号分析的实时疲劳驾驶 检测与预警研究[J]．太原理工大学学报，2020,51(06):852-859. (Wang Nen, Zhou Zijing, Zhao Yunpeng,et al.Research on real-time fatigue driving detection and early warning based on wireless EEG signal analysis [J].Journal of taiyuan university of technology,2O2o,51 (06): 852-859)   \n[8]张朋，周前祥，于洪强，等．基于 EEG 信号特征的脑力疲劳快速检 测方法研究[J/OL].北京航空航天大学学报：1-10[2021-11-09]. https://doi.org/10.13700/j.bh.1001-5965.2021.0211.(Zhang Peng, Zhou Qianxiang,Yu Hongqiang,et al. Research on fast detection method of mental fatigue based on EEG signal characteristics [J/OL]. Journal of Beijing university of aeronautics and astronautics:1-10 [2021-11-09]. https://doi.org/10．13700/j.bh.1001-5965．2021.0211．https://doi. org/10.13 700/j. bh.1001-5965.2021.0211.)   \n[9] 李端玲，成苈委，于功敬，等．融合小波包和神经网络的脑电信号处 理方法[J].北京邮电大学学报,2021,44(03):94-99.(Li Duanling, Cheng Liwei, Yu Gongjing，et al.An Electroencephalogram Signal Processing Method Fusing Wavelet Packet and Neural Network [J]. Journal of Beijing University of Posts and Telecommunications,2021, 44 (03): 94-99)   \n[10]张学军，景鹏，何涛，等．基于变分模态分解的癫痫脑电信号分类方 法[J].电子学报,2020,48(12): 2469-2475.(Zhang Xuejun,Jing Peng, He Tao,et al.An Epileptic Electroencephalogram Signal Classification Method Based on Variational Mode Decomposition [J]. Acta electronica sinica,2020,48 (12): 2469-2475)   \n[11] Zheng Weilong, Zhu Jiayi,Lu Baoliang.Identifying Stable Paterns over Time for Emotion Recognition from EEG [J]. IEEE Transactions on Affective Computing,2017,10 (3): 417-429.   \n[12] Zheng Weilong,Lu Baoliang.A Multimodal Approach to Estimating Vigilance Using EEG and Forehead EOG [J].Journal of Neural Engineering,2016,14 (2): 026017.   \n[13] Shi Lichen, Jiao Yingying,Lu Baoliang.Differential entropy feature for EEG-based vigilance estimation [C] 2013 35th Annual Intermational Conference of the IEEE Engineering in Medicine and Biology Society (EMBC),2013:6627-6630.   \n[14] Zheng Weilong,Gao Kunpeng,Li Gang,et al.Vigilance Estimation Using a Wearable EOG Device in Real Driving Environment [J]. IEEE Transactions on Intelligent Transportation Systems,2019:1-15.   \n[15] Yang Jian,David Z,Frangi AF,et al. Two-dimensional PCA:a new approach to appearance-based face representation and recognition [J]. IEEE transactions on pattern analysis and machine intelligence,2004, 26 (1): 131-7.   \n[16]白志强，尤文斌，刘晓琦，等．基于GA-BP 网络的脑电与心电融合 疲劳识别算法研究[J].中北大学学报（自然科学版),2021,42(04): $3 7 3 - 3 7 8 + 3 8 4$ (Bai Zhiqiang,You Wenbin,Liu Xiaoqi,et al.Research on Fatigue Recognition Algorithm of EEG and ECG Fusion Based on GA-BP Network [J].Journal of North University of China (Natural Science Edition),2021,42 (04): $3 7 3 - 3 7 8 + 3 8 4$ ）   \n[17] Makeig S, Inlow M. Lapse in alertness: coherence of fluctuations in performance and EEG spectrum [J]. Electroencephalography & Clinical Neurophysiology,1993,86 (1): 23-35. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

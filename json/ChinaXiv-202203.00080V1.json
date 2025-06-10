@@ -1,0 +1,618 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of climate change and land use/cover change on the volume of the Qinghai Lake in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Hongwei1\\*, QI Yuan1,LIAN Xihong², ZHANG Jinlong1, YANG Rui1, ZHANG Meiting ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Key Laboratoryof Remote Sensing of Gansu Province,Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences,Lanzhou 73oooo,China;   \n² School of Resource and Environmental Sciences,Wuhan University, Wuhan 430079,China;   \n3 Qinghai Ecological and Environmental Monitoring Center, Xining 810o07, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Qinghai Lake is the largest saline lake in China.The change in the lake volume is an indicator of the variation in water resources and their response to climate change on the Qinghai-Tibetan Plateau (QTP) in China.The present study quantitatively evaluated the effects of climate change and land use/cover change (LUCC)on the lake volume of the Qinghai Lake in China from 1958 to 2018,which is crucial for water resources management in the Qinghai Lake Basin. To explore the effects of climate change and LUCC on the Qinghai Lake volume,we analyzed the lake level observation data and multi-period land use/land cover (LULC) data by using an improved lake volume estimation method and Integrated Valuation of Ecosystem Services and Trade-offs (InVEST) model. Our results showed that the lake level decreased at the rate of $0 . 0 8 ~ \\mathrm { m } / \\mathrm { a }$ from 1958 to 2004 and increased at the rate of $0 . 1 6 ~ \\mathrm { m } / \\mathrm { a }$ from 2004 to 2018.The lake volume decreased by $1 0 5 . 4 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ from 1958 to 2004,with the rate of $2 . 2 4 \\times 1 0 ^ { 8 }$ $\\mathrm { m } ^ { 3 } / \\mathrm { a }$ ,whereas it increased by $7 4 . 0 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ from 2004 to 2018,with the rate of $4 . 6 6 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 } / \\mathrm { a }$ . Further, the climate of the Qinghai Lake Basin changed from warm-dry to warm-humid.From 1958 to 2018, the increase in precipitation and the decrease in evaporation controlled the change of the lake volume,which were the main climatic factors affecting the lake volume change. From 1977 to 2018,the measured water yield showed an \"increase-decrease-increase\" fluctuation in the Qinghai Lake Basin.The effects of climate change and LUCC on the measured water yield were obviously different.From 1977 to 2018,the contribution rate of LUCC was $- 0 . 7 6 \\%$ and that of climate change was $100 . 7 6 \\%$ ；the corresponding rates were $8 . 5 7 \\%$ and $91 . 4 3 \\%$ from 1977 to 2004,respectively,and $- 4 . 2 5 \\%$ and $1 0 4 . 2 5 \\%$ from 2004 to 2018, respectively. Quantitative analysis of the effects and contribution rates of climate change and LUCC on the Qinghai Lake volume revealed the scientific significance of climate change and LUCC,as wellas their individual and combined effects in the Qinghai Lake Basin and on the QTP.This study can contribute to the water resources management and regional sustainable development of the Qinghai Lake Basin. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:climatechange; land use/coverchange; water yield; ake volume;contribution rate; Qinghai Lake Basin; Qinghai-Tibetan Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:WANG Hongwei,QI Yuan,LIAN Xihong,ZHANG Jinlong,YANG Rui,ZHANG Meiting.2022.Effectsof climatechangeand landuse/cover changeon thevolumeof the Qinghai Lake in China.JournalofAridLand,14(3): 245-261.https://doi.0rg/10.1007/s40333-022-0062-4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lakes and other water resources are extremely sensitive to climate change due to global warming and increasing human activities (Adrian et al.，2OO9). These changes considerably affect the ecological environment protection and resource management (Ma et al., 2O1o; Duan and Xiao, 2015; Satgé et al., 2017; Wang and Qin, 2017; Lehnherr et al., 2018; Qiao et al., 2019; Zhang et al.,2019; Yu et al.,2O21). Over the past few decades, the levels of a large number of lakes around the world have dramatically declined, and even some lakes have dried up because of drought (Li et al.,2006; Sellinger et al.,2008; Satgé et al.,2O17; Tal,2O19), which has adversely afected the security and biodiversity of lake ecosystem (da Costa et al.,2O16).In China,lakes are rich in biodiversity but are unevenly distributed. The distribution pattern of lakes has been investigated in detail in various studies (Zhang et al., 2O19). With climate change due to global warming and rapid economic development, the distribution pattern and area of China's lakes have changed, exhibiting divergent regional trends (Tao et al., 2O2O). Although several detailed surveys have been conducted, the factors responsible for causing these changes remain unknown (Zhang et al., 2019; Tao et al., 2O2O). Diverse factors can drive the changes in each lake either individually in the form of natural factors or in the form of human activities or in combination (Cui and Li, 2016).Variations in the lake volume and lake level are the key indicators of the hydrological effects of climate change and land use/cover change (LUCC) (van der Kamp et al., 2OO8; Luo et al.,2020). Furthermore,considerable attention has been paid to the complexity of the interaction between climate change and land use/land cover (LULC) patterns (Piao et al.,2O1O). In the recent decades,the global climate has changed remarkably (Wang et al.,2O18a), which includes changes in the intensity and frequency of precipitation, wind speed,and air temperature (Mendez-Tejeda et al.,2016). In addition, changes in LULC structures, which directly affect evapotranspiration, soil moisture,and groundwater supply， have led to seasonal or long-term imbalance between the inflow and outflow of the lake,thereby causing fluctuations in the lake volume (Rodriguez-Iturbe, 2000； Zohary and Ostrovsky， 2O11). Hydrological station observation and remote sensing technology are generally used to determine variations in the lake volume (Medina et al., 2010; Duan and Bastiaanssen, 2O13;Wang，202O). Lake volume change is estimated based on the difference between the inflow and outflow of the lake from hydrological station observation data (Méndez-Tejeda et al., 2O16). Advanced remote sensing technology, especially satelite altimetry technology，has been widely used in the lake level monitoring in the regions where the hydrological station data are unavailable (Zhang et al.,2O1la).The variation in the lake volume can be estimated by combining the lake area and water balance equation (Medina et al., 2010; Duan and Bastiaanssen, 2013; Zhang et al.,2018;Wang,2020). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Qinghai-Tibetan Plateau (QTP) is the highest in the world and referred to as \"the roof of the world\" and \"the third pole\". This region is sensitive to global climate change (Yao et al., 2000).The QTP serves the role of \"the world's water tower\" because water resources in this region are present in the forms of glaciers, snowpacks,lakes,and rivers (Xu et al., 2O08). It is the headstream region of many large rivers that nourish hundreds of millions of people throughout Asia (Qiao et al., 2019). There are more than 12OO alpine lakes with an area greater than $1 . 0 0 \\mathrm { k m } ^ { 2 }$ on the QTP (Li et al., 2O19). The variation in the lake volume is of great significance to the hydrological cycle, regional water security, and ecosystem healthy. However, the contributions of driving factors such as precipitation runoff, melt-water runoff,lake surface precipitation,and lake evaporation to the lake volume change vary significantly across different regions (Zhou et al., 2015,2021; Zhong,et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Qinghai Lake is the largest saline lake on the QTP and is also an important ecological security barrier in the northeastern part of the QTP. This lake provides not only a suitable habitat for precious birds, fish,and rare animals in China but also important economic,recreational,and aesthetic values to the human society (Xiao et al.,2O18; Kraemer et al.,2O20). Moreover, the water budget of the Qinghai Lake directly reflects the change in water resources and their response to climate change,and thus,it is an important indicator of the response to climate change. The decline in the lake level is a major ecological and environmental problem in the Qinghai Lake Basin,as the lake's ecosystem is extremely fragile and sensitive to global climate change and human activities (Li et al., 2Oo9). Many studies have investigated the changes in the level, volume, and area of the Qinghai Lake,and the response of the lake to climate change (Li, et al.,2OO6; Jin et al.,2010,2013; Zhu et al.,2014; Cui and Li,2016; Wang et al.,2018b; Zhang et al.,2018; Su et al.,2019;Li et al.,202O). During 1961-2012,the Qinghai Lake level first decreased and then increased,and the change in the lake level was mainly affected by precipitation and evaporation (Cui and Li, 2O16). The change in the lake level was strongly and positively correlated with surface runoff and precipitation and negatively correlated with evaporation. Moreover, water consumption due to human activities had a negligible effect on the decline in the lake level (Li et al.,2006).The changing trend of the lake area was consistent with that of the lake level, in which the lake area continued to decrease from 1986 to 2003 and increase from 2003 to 2017 (Han et al., 2019).During 2OO1-2O16,the lake volume also showed an increasing trend that was driven by increased precipitation and decreased evaporation (Zhang et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, long-term changes in the lake volume and the comprehensive effects of climate change and LUCC on the Qinghai Lake volume have not been investigated yet, which limited the comprehensive evaluation of the Qinghai Lake Basin，eventually afecting the ecological protection and restoration, as wellas the management and sustainable utilization of regional water resources. In the present study, we focused on the changes in the level of the Qinghai Lake and its response to climate change,as well as the changes in the lake volume and lake area. Specifically, we analyzed and discussed the changes in local climate and LULC and their effects on the lake volume in the Qinghai Lake Basin based on the long-term observation data of the lake level and climate,as well as the multi-period LULC data.The main objectives of this study are as follows: (1） analysis of the characteristics of changes in the lake level and lake volume,climate,and LULC from 1958 to 2018 in the Qinghai Lake Basin and (2) quantitative assessment of the contribution rates of climate change and LUCC on the Qinghai Lake volume. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Qinghai Lake is the largest saline lake in China and is located in the northeastern part of the QTP. The maximum depth of the lake is $2 5 . 5 \\mathrm { m }$ ,and its volume is $7 1 6 . 0 0 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ (Zhang et al., 2011b). The Qinghai Lake Basin is located between $3 6 ^ { \\circ } 1 7 ^ { \\prime }  – 3 8 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { N }$ and $9 7 ^ { \\circ } 4 8 ^ { \\prime } - 1 0 1 ^ { \\circ } 1 1 ^ { \\prime } \\mathrm { E }$ ，with an average altitude of $3 7 2 0 \\mathrm { m }$ and an area of $2 9 , 6 7 0 . 7 0 \\mathrm { k m } ^ { 2 }$ . Qinghai Lake is a closed lake,and more than 5O rivers flow into this lake,with the main rivers being Buha River, Shaliu River, Quanji River,Haergai River,and Heima River (Fig.1). The Qinghai Lake Basin is characterized by a typical plateau continental climate，which is affected by the East Asian monsoon，Indian monsoon, and westerly atmospheric flow (Li et al., 2OO6).The basin has low air temperature and less precipitation. East wind or southeast wind prevails in the summer, whereas westerly wind prevails in the winter. The soil types are mountain meadow soil, chestnut soil, and boggy soil.The alpine meadow is the most widely distributed vegetation community in the basin, and the coldand drought-resistant warm grassland communities constitute the vegetation base zone of the basin.The forests and shrubs are distributed sporadically or in bands,with small area. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Meteorological data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Meteorological data from 1958 to 2O18 were obtained from the Gangca, Tianjun, Haiyan, and Gonghe meteorological stations in the four counties surrounding the Qinghai Lake Basin. In addition, the data of meteorological stations around the Qinghai Lake were colected as the input parameters of the Integrated Valuation of Ecosystem Services and Trade-offs (InVEST） model. The observational elements included daily air temperature, precipitation,evaporation,relative humidity，wind speed，and sunshine duration. The dataset was obtained from the China Meteorological Data Service Centre (http://data.cma.cn). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8485da40c4f52eeba44b9704f5305842711697acfcd63a1680e752c8730d609b.jpg",
+        "img_caption": [
+            "Fig.1Overview of the Qinghai Lake Basin.DEM,digital elevation model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Hydrological data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hydrological data were obtained from the hydrological stations, namely Buha River hydrological station, Gangca hydrological station,and Xiashe hydrological station.The observational data of the lake level from 1958 to 2O18 were obtained from the Xiashe hydrological station.The dataset was provided by the Qinghai Hydrology and Water Resources Survey Bureau, China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 Land use/land cover (LULC) data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LULC data of multiple periods were obtained from the Landsat Thematic Mapper (TM), Enhanced Thematic Mapper (ETM),and Operational Land Imager (OLI) images through manual visual interpretation. The images were provided by the United States Geological Survey (https://earthexplorer.usgs.gov). Currently, LULC data in the Qinghai Lake Basin are available for a total of six periods (1977,1987,2000,2004,2010,and 2018) during 1977-2018,with the spatial resolution of $3 0 \\mathrm { ~ m ~ }$ LULC types were divided into cultivated land, grassland,woodland, water bodies,construction land,and unused land,which constituted a total of six first-level categories and the corresponding 2O second-level categories. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 Other data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The lake area data of 13 periods during 1977-2018 were from the lake dataset (1970s-2018) in the study of Zhang et al. (2O19).The dataset was provided by the National Tibetan Plateau Data Centre (http://data.tpdc.ac.cn),with the spatial resolution of $3 0 \\mathrm { ~ m ~ }$ 、Digital elevation model (DEM) data were based on the Shuttle Radar Topography Misson (SRTM) data published by the National Aeronautics and Space Administration (https://srtm.csi.cgiar.org), with a resolution of $3 0 \\mathrm { m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Water yield model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Water yield was simulated using the water yield module of the InVEST model, which calculated the annual water yield based on the Budyko hypothesis of water-energy coupled balance (Budyko, 1974): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { x j } = \\left( 1 - \\frac { \\mathrm { A E T } _ { x j } } { P _ { x } } \\right) \\times P _ { x } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { A E T } _ { x j } } { P _ { x } } = \\frac { 1 + \\omega _ { x } + R _ { x j } } { 1 + \\omega _ { x } R _ { x j } + \\left( 1 / R _ { x j } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { x } = Z { \\times } \\frac { \\mathrm { P A W C } _ { x } } { P _ { x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { x j } = \\frac { k _ { i j } \\times \\mathrm { E T _ { o } } } { P _ { x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { x j }$ is the average annual water yield of grid unit $x$ on LULC type $j$ (mm); $\\mathbf { A E T } _ { x j }$ is the actual evapotranspiration on grid $x$ of LULC type $j$ (mm); $P _ { x }$ is the annual precipitation on grid $x$ (mm); $R _ { x j }$ is the Budyko dryness index of grid unit $x$ on LULC type $j$ ： $\\omega _ { x }$ is the ratio of available water of modified vegetation to expected precipitation; $Z$ is an empirical parameter,and the $Z$ value of the QinghaiLake Basin is 8.5 (Lian et al.,2020); $\\mathrm { P A W C } _ { x }$ is the available water content of vegetation on grid unit $x \\left( \\% \\right)$ · $k _ { i j }$ is the vegetation evapotranspiration coefficient; and $\\mathrm { E T _ { o } }$ is the reference evapotranspiration (mm).Based on the InVEST model, we simulated the water yield of the Qinghai Lake Basin in six periods（1977，1987，2000，2004，2010，and 2018） during 1977-2018. Relevant studies have been performed on the input parameter correction and result verification of the InVEST model (e.g.,Lian et al.,2O2O). In this study, we verified the simulation results based on the water resources data provided by the Bulletin of Qinghai Province Water Resources,China. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Method for estimating the lake volume ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the lake level and lake area was fited by combining the lake area of multi-phase remote sensing interpretation and the mean annual lake level observed by hydrological stations.Based on the fitted lake level-area relationship,we estimated the lake area using the observed lake level data.The variation in the lake volume was estimated using the improved water balance equation of the Qinghai Lake (Zhang et al., 2018). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = { \\mathrm a } H ^ { 2 } + { \\mathrm b } H + { \\mathrm c } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta V = \\frac { 1 } { 3 } \\big ( H _ { 2 } - H _ { 1 } \\big ) \\Bigg [ A _ { 1 } + A _ { 2 } + \\mathrm { a } H _ { 1 } H _ { 2 } + \\frac { 1 } { 2 } \\mathrm { b } \\big ( H _ { 1 } + H _ { 2 } \\big ) + \\mathrm { c } \\Bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the lake area $( \\mathrm { k m } ^ { 2 } )$ ·， $H$ is the lake level $\\mathrm { ( m ) }$ ； a, $\\mathbf { b }$ ,and c are the lake level-area fiting coefficients; $\\Delta V$ is the change value of the lake volume $( \\mathrm { m } ^ { 3 } ) ; H _ { 1 }$ and $H _ { 2 }$ are the lake levels in different periods from 1958 to 2018 (m); and $A _ { 1 }$ and $A _ { 2 }$ are the lake areas in different periods from 1958 to 2018 $( \\mathrm { k m } ^ { 2 } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Contribution rates of climate change and LUCC on the lake volume change ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To quantitatively evaluate the effects of climate change and LUCC on the lake volume change, we determined the influences of climate change and LUCC on the water yield. Diferent scenarios were designed for analyzing the effects of climate change and LUCC on the annual water yield. Specifically, in Scenario 1, the climate data of different years and LULC data of 1977 were used to simulate the water yield of each period.In Scenario 2,the climate data of 1977 and LULC data of different years were used to simulate the water yield of each period. The contribution rates of climate change and LUCC to the water yield were calculated by combining the two scenarios, and the formulas are as follows (Lang et al.,2O17; Yang et al., 2021): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R _ { l } = \\frac { \\Delta l } { \\Delta P + \\Delta l } \\times 1 0 0 \\% \\ , } \\\\ { R _ { p } = \\frac { \\Delta P } { \\Delta P + \\Delta l } \\times 1 0 0 \\% \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { l }$ is the contribution rate of LUCC $( \\% ) ; R _ { p }$ is the contribution rate of climate change $( \\% )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta P$ is the change in the water yield of Scenario 1 $( \\mathbf { m } ^ { 3 } )$ ; and $\\Delta l$ is the change in the water yield of Scenario 2 $( \\mathbf { m } ^ { 3 } )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Mann-Kendall (M-K) test method ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The M-K test method is a nonparametric test approach (Mann,1945; Kendall,1975) that is used to accurately determine the abrupt changes and trends of the overall time series.This method is widely used in time series trend analysis of environmental factors in different research fields, such as hydrology and meteorology (Yue et al., 2O03). In this study, the abrupt change points of climatic factors and lake level were analyzed using the M-K test method. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Changes in the level, area, and volume of the Qinghai Lake ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The changes in the Qinghai Lake level were significant from 1958 to 2018 (Fig.2). Specifically, from 1958 to 2OO4,the lake level continued to decrease,and the diference between the highest 0 $3 1 9 6 . 5 2 \\mathrm { m }$ in 1959)andlowest ( $3 1 9 2 . 8 6 \\mathrm { m }$ in 2004) lake levelswas $3 . 6 6 \\mathrm { ~ m ~ }$ 、After2004,the lake level began increasing and reached $3 1 9 5 . 4 1 \\mathrm { ~ m ~ }$ in 2018,which was $2 . 5 5 \\mathrm { ~ m ~ }$ higher than that in 2004.As shown in Figure 2, the mean annual lake level was $3 1 9 4 . 4 1 \\mathrm { ~ m ~ }$ during the whole study period.According to the M-K test, an abrupt change in the lake level occurred in 2O04. From 1958 to 2OO4, the mean annual lake level was $3 1 9 4 . 5 3 \\mathrm { m }$ ,which decreased significantly at the rate of $0 . 0 8 ~ \\mathrm { { m } / a }$ .From 20O4 to 2018, the lake level increased at the rate of $0 . 1 6 ~ \\mathrm { { m / a } }$ ，with the mean annual lake level of $3 1 9 3 . 9 1 \\mathrm { ~ m ~ }$ .The annual lake level was higher than the mean annual lake level from 1958 to 1979,lower than the mean annual lake level from 1979 to 2014,and again higher than the mean annual lake level from 2015 to 2018. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f5793a855ca1388030faf17286c7cfd81139e7913fb337c4ec1010178859f51.jpg",
+        "img_caption": [
+            "Fig.2Changes in the annual lake level of the Qinghai Lake from 1958 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on the lake area data of 13 periods during 1977-2O18 and the mean annual lake level data in the corresponding years, we fitted the relationship between the lake level and lake area. As shown in Figure 3，the fitting accuracy was high $( R ^ { 2 } { = } 0 . 9 2 5 )$ .Then，according to the fitted relationship between the lake level and lake area, we calculated the lake area of each year from 1958 to 2O18 using the observed mean annual lake level data from the hydrological stations. The analysis showed that the lake area was the largest in 1958( $4 6 2 1 . 9 6 ~ \\mathrm { k m } ^ { 2 }$ .The area continued to shrink from 1958 to 2004 and decreased to $4 1 1 7 . 5 1 \\mathrm { k m } ^ { 2 }$ in 2004,with the decreasing rate of 8.67 $\\mathrm { k m } ^ { 2 } / \\mathrm { a }$ . After 2OO4, the lake area continued to increase at the rate of $1 4 . 5 6 ~ \\mathrm { k m } ^ { 2 } / \\mathrm { a }$ and reached $4 4 8 3 . 4 7 \\mathrm { k m } ^ { 2 }$ in 2018. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Using the lake level and lake area data, we calculated the cumulative and yearly changes in the lake volume from 1958 to 2O18 using the improved calculation method of the lake volume (Eq. 6).From 1958 to 2OO4,the cumulative lake volume changed significantly and decreased by $1 0 5 . 4 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，with the rate of $2 . 2 4 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 } / \\mathrm { a }$ (Fig.4). After 2004, the lake volume began increasing,but it still decreased by $1 . 3 7 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ in 2018 compared with that in 1958; however, it increased by $7 4 . 0 2 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ in 2018 compared with that in 2OO4,with the increasing rate of $4 . 6 6 { \\times } 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { a }$ . The changes in the yearly lake volume fluctuated between $- 1 2 . 3 7 { \\times } 1 0 ^ { 8 }$ and $1 4 . 6 6 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ： The increase in the yearly lake volume was_ the highest during 1967-1968 $( 1 4 . 6 6 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 } )$ ,followed by that during 2017-2018（ $\\cdot 1 4 . 1 1 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } )$ . The decrease in the yearly lake volume was the highest during 1979-1980 $( - 1 2 . 3 7 { \\times } 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 } )$ ，followed by that during 1973-1974 $( - 1 1 . 7 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } )$ ） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f219f85f716bcd03fedc98889eea960cce65ea6a66905edab485c21d66f87693.jpg",
+        "img_caption": [
+            "Fig.3Fitting curve of the relationship between the lake area and lake level of the Qinghai Lake. $A$ ,lakearea; $L$ lake level; $N$ ,the number of years.Shaded areas represent $9 5 \\%$ confidence intervals. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f653cd32e1644fad4c3f71db18f2215d7f4577cfe6b4340fa4d14809a370c681.jpg",
+        "img_caption": [
+            "Fig.4Lake volume change curves of the Qinghai Lake from 1958 to 2018.The cumulative lake volume change is the change in the lake volume in every year relative to the year l958.The yearly lake volume change is the change in the lake volume in every year relative to the previous year. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Climate change in the Qinghai Lake Basin ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The mean annual air temperature in the Qinghai Lake Basin from 1958 to 2O18 was $- 0 . 0 7 2 ^ { \\circ } \\mathrm { C }$ The lowest and highest annual temperature values were $- 1 . 4 4 0 ^ { \\circ } \\mathrm { C }$ (in 1967） and $1 . 4 7 0 ^ { \\circ } \\mathrm { C }$ (in 2016),respectively. The annual temperature increased significantly from 1958 to 2O18,with the rate of $0 . 0 3 0 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ (Fig. 5a).An abrupt change in the annual temperature (M-K test) occurred in 1997.The annual temperature increased from 1958 to 1996 (at the rate of $0 . 0 1 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ ，with the mean annual temperature of $- 0 . 4 6 6 ^ { \\circ } \\mathrm { C }$ .Most of the annual temperature values during 1958-1996 were lower than $- 0 . 0 7 2 ^ { \\circ } \\mathrm { C }$ .The annual temperature increased faster from 1997 to 2O18 (at the rate of $0 . 0 3 9 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ than from 1958 to 1996 (at the rate of $0 . 0 1 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ ，with the mean annual temperature of $0 . 6 2 7 ^ { \\circ } \\mathrm { C }$ .The annual temperature values were all higher than $- 0 . 0 7 2 ^ { \\circ } \\mathbf { C }$ during 1997-2018, except for 2000. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef8581d08bf8ca255eaf17b9a21da4cdacb3c1ca1a9f464088401b6013244cef.jpg",
+        "img_caption": [
+            "Fig.5Changes in the climatic factors of the Qinghai Lake Basin from 1958 to 2018.(a),temperature; (b), precipitation; (c),evaporation; (d),relative humidity;(e),wind speed; (f),sunshine duration. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mean annual precipitation was $3 9 9 . 5 \\ \\mathrm { m m }$ from 1958 to 2018,with the lowest annual precipitation being $2 6 0 . 1 \\ \\mathrm { m m }$ (in 199O) and the highest precipitation being $5 7 2 . 3 ~ \\mathrm { m m }$ (in 2017) (Fig. 5b).The annual precipitation increased from 1958 to 2O18 at a rate of $1 . 5 \\ \\mathrm { m m / a }$ . An abrupt change in the annual precipitation occurred in 2O11. The mean annual precipitation was $3 8 0 . 8 ~ \\mathrm { m m }$ during 1958-2010,with the increasing rate of $0 . 5 ~ \\mathrm { { m m } / a }$ ，whereas it was $4 7 7 . 3 ~ \\mathrm { m m }$ from 2011 to 2018,with an increasing rate of $2 4 . 5 ~ \\mathrm { m m / a }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The mean annual evaporation was $1 3 6 2 . 9 ~ \\mathrm { m m }$ from 1958 to 2018,and the lowest and highest annual evaporation values were $1 1 1 3 . 5 \\mathrm { m m }$ (in 2007) and $1 5 4 4 . 5 \\mathrm { m m }$ (in 1958), respectively (Fig. 5c). The annual evaporation decreased from 1958 to 2O18 at the rate of $3 . 5 \\ \\mathrm { m m / a }$ . An abrupt change in the annual evaporation occurred in 2Oo5.During 1958-2O04,the annual evaporation decreased at the rate of $1 . 0 \\ \\mathrm { m m / a }$ ； it washigher than $1 3 6 2 . 9 \\ \\mathrm { m m }$ during most of the years and the mean annual evaporation was $1 4 0 0 . 2 \\ \\mathrm { m m }$ during this period. The annual evaporation values in all years of 2005-2018（with the exception of 2010) were lower than $1 3 6 2 . 9 ~ \\mathrm { m m }$ ，with the mean annual evaporation of $1 2 2 8 . 5 \\mathrm { m m }$ and the decreasing rate of $3 . 9 \\mathrm { { m m } / \\mathrm { { a } } }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The mean annual relative humidity was $5 3 . 8 6 \\%$ from 1958 to 2018,and the lowest and highest annual relative humidity values were $4 8 . 7 2 \\%$ (in 2013) and $5 9 . 8 0 \\%$ (in 1989), respectively (Fig. 5d). The annual mean relative humidity decreased from 1958 to 2O18 at the rate of $0 . 0 1 \\% \\mathrm { / a }$ .An abrupt change occurred in 2OO4,and the mean annual relative humidity was $5 4 . 2 5 \\%$ from 1958 to 2003 and $5 2 . 6 7 \\%$ from 2004 to 2018. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The mean annual wind speed was $3 . 4 5 \\mathrm { \\ m / s }$ from 1958 to 2018,and the minimum and maximum annual wind speed values were $2 . 7 4 ~ \\mathrm { m / s }$ (in 2017) and $4 . 2 6 ~ \\mathrm { { m / s } }$ (in1969),respectively (Fig. 5e). From 1958 to 2O18, the annual mean wind speed decreased significantly at a rate of $0 . 0 2 ~ \\mathrm { { m } / ( \\mathrm { { s } } { \\cdot } a ) }$ . An abrupt change occurred in 2004.From 1958 to 2003,the mean annual wind speed was $3 . 6 0 ~ \\mathrm { m / s }$ and the decreasing rate was $0 . 0 1 ~ \\mathrm { m / ( s } { \\cdot } \\mathrm { a } )$ ，whereas from 2004 to 2018,the mean annual wind speed was $3 . 0 0 \\mathrm { m / s }$ and the decreasing rate was $0 . 0 3 \\mathrm { m } / ( \\mathrm { s } \\cdot \\mathrm { a } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The mean annual sunshine duration was $2 9 8 5 . 0 \\mathrm { ~ h ~ }$ from 1958 to 2018,and the minimum and maximum annual sunshine duration values were $2 5 8 8 . 6 \\mathrm { ~ h ~ }$ (in 2012） and $3 1 5 4 . 7 \\mathrm { ~ h ~ }$ (in 1982), respectively (Fig. 5f).The annual sunshine duration decreased at the rate of $3 . 2 \\ : \\mathrm { h / a }$ from 1958 to 2018.An abrupt change occurred in 1989.The mean annual sunshine duration was $3 0 3 5 . 9 \\mathrm { h }$ from 1958 to 1988,with the increasing rate of $0 . 4 \\ : \\mathrm { h / a }$ ，whereas it was $2 9 3 2 . 4 \\mathrm { h }$ from 1989 to 2018, with the decreasing rate of $5 . 6 \\mathrm { { h / a } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Because of the enhancement of monsoon and weakening of westerly circulation on the QTP (Li et al.，2O2O)，air temperature and precipitation increased but evaporation and wind speed decreased. The sunshine duration was shortened and relative humidity was decreased. So, the climate in the Qinghai Lake Basin exhibited a warm and humid trend during the study period. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3 LUCC in the QinghaiLake Basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to the six periods of LULC from 1977 to 2018, the main LULC type in the Qinghai Lake Basin was grassland, followed by water bodies and unused land,and the distribution of cultivated land，woodland,and construction land was relatively small (Fig. 6). The areas of moderate coverage grassland (coverage in the range of $20 \\% - 5 0 \\% )$ and low coverage grassland (coverage in the range of $5 \\% - 2 0 \\% )$ ） were larger,whereas the area of high coverage grassland (coverage higher than $5 0 \\%$ ） was relatively small (Table 1).The grassland area decreased from 1977 to 2018;specifically, the area was $1 8 , 8 0 6 . 6 2 ~ \\mathrm { k m } ^ { 2 }$ in 1977,accounting for $6 3 . 3 8 \\%$ of the total basin area,whereas it decreased to $1 8 { , } 5 8 6 . 1 7 \\ \\mathrm { k m } ^ { 2 }$ in 2018,accounting for $6 2 . 6 4 \\%$ of the total basin area. The area of high coverage grassland decreased from 1977 to 2OOO and began increasing in 2OO4. The area of moderate coverage grassland continued to decrease and that of low coverage grassland continued to increase from 1977 to 2018. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lakes were the main water bodies in the Qinghai Lake Basin,whereas graff, bottomland, glaciers,and snow-covered regions accounted for a minority of water bodies. The area of water bodies decreased at first and then increased from 1977 to 2O18.In 1977,the area of water bodies was $5 5 7 4 . 3 8 \\mathrm { k m } ^ { 2 }$ ,accounting for $1 8 . 7 9 \\%$ of the total basin area.In 2OO4, the area of water bodies decreased to the least $( 5 3 2 6 . 4 7 ~ \\mathrm { k m } ^ { 2 } )$ ,accounting for $1 7 . 9 5 \\%$ of the total basin area,and then it increased to $5 4 0 2 . 8 0 ~ \\mathrm { k m } ^ { 2 }$ in 2018,accounting for $1 8 . 2 1 \\%$ of the total basin area. For the water body types,the variation trend for the areas of lakes and graff was consistent with that for the areas of other water body types.The areas of glaciers and snow cover continued to decrease from 1977 to 2O18 (with the exception of 2OoO),whereas the bottmland area first increased and then decreased. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/764143ddeacc2b70af7eac792944ea3689dae1945ca906ff5310d11953e8f37d.jpg",
+        "img_caption": [
+            "Fig.6Spatial distribution of land use/land cover (LULC)of the QinghaiLake Basin in1977(a),1987(b),2000 (c),2004 (d),2010 (e),and 2018 (f) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "With regard to unused land, the areas of wetland and other unused land types were the largest, followed by desert,saline-alkali land,and bare rock,which exhibited the least areas.The area of unused land first increased and then decreased; specifically， it was $4 4 8 8 . 0 8 ~ \\mathrm { { k m } } ^ { 2 }$ in 1977, accounting for $1 5 . 1 3 \\%$ of the total basin area. In 2OO4,the area reached $4 7 5 7 . 1 8 ~ \\mathrm { k m } ^ { 2 }$ ，accounting for $1 6 . 0 3 \\%$ of the total basin area. The area began to decline from 2O1O and decreased to 4680.64 $\\mathrm { k m } ^ { 2 }$ in 2018,accounting for $1 5 . 7 8 \\%$ of the total basin area. In terms of the other types of unused land,their areas continued to increase. The area of desert first increased and then decreased; however, the areas of saline-alkali land and bare rock did not change significantly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Woodland was mainly dominated by shrubland,and the areas of forest land and sparse woods were relatively low.The woodland area first decreased and then increased. In 1977, the woodland area was $4 9 2 . 6 3 ~ \\mathrm { k m } ^ { 2 }$ ，accounting for $1 . 6 6 \\%$ of the total basin area.In 2OoO,the woodland area decreased to $4 7 1 . 3 8 \\mathrm { k m } ^ { 2 }$ ，accounting for $1 . 5 9 \\%$ of the total basin area. The area began increasing in 2004 and reached $4 9 2 . 3 7 \\ \\mathrm { k m } ^ { 2 }$ in 2018.In terms of the types of woodland,the area of shrubland changed significantly but the areas of forest land and sparse woods remained unchanged. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cultivated land was dominated by dry land,and paddy land was scatered. The area of cultivated land continued to increase from 1977 to 2O10,with an area of $3 0 1 . 6 2 \\mathrm { k m } ^ { 2 }$ in 1977 and ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$4 5 3 . 9 2 \\mathrm { k m } ^ { 2 }$ in 2010, accounting for $1 . 0 2 \\%$ and $1 . 5 3 \\%$ of the total basin area, respectively; further, it decreased to $4 5 0 . 5 4 ~ \\mathrm { k m } ^ { 2 }$ in 2018,accounting for $1 . 5 2 \\%$ of the total basin area. Construction land mainly included urban land, rural area,and other built land,among which the rural area had a relatively larger area.The area of construction land continued to increase from $7 . 4 1 ~ \\mathrm { k m } ^ { 2 }$ in 1977 to $5 8 . 2 3 \\mathrm { k m } ^ { 2 }$ in 2018,with an increase of $5 0 . 8 2 \\mathrm { k m } ^ { 2 }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd176006014cd493c32c8e86401dee9089852a1c76f22dbb5ccb87d0e89d3ba7.jpg",
+        "table_caption": [
+            "Table1Areas of the land use/land cover(LULC)types in the Qinghai Lake Basin in1977,1987,2000,2004, 2010,and 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">LULC</td><td colspan=\"6\">Area (km2)</td></tr><tr><td>1977</td><td>1987</td><td>2000</td><td>2004</td><td>2010</td><td>2018</td></tr><tr><td>Cultivated land</td><td>Paddy field</td><td>0.65</td><td>2.25</td><td>0.66</td><td>0.64</td><td>0.62</td><td>0.21</td></tr><tr><td></td><td>Dryland</td><td>300.98</td><td>416.31</td><td>450.74</td><td>453.18</td><td>453.30</td><td>450.33</td></tr><tr><td>Woodland</td><td>Forest land</td><td>64.72</td><td>63.87</td><td>63.09</td><td>62.99</td><td>62.99</td><td>63.89</td></tr><tr><td></td><td>Shrubland</td><td>324.28</td><td>320.42</td><td>306.79</td><td>312.12</td><td>309.03</td><td>332.45</td></tr><tr><td></td><td>Sparse woods</td><td>103.63</td><td>102.22</td><td>101.50</td><td>101.51</td><td>101.51</td><td>96.04</td></tr><tr><td>Grassland</td><td>High coverage grassland</td><td>3409.73</td><td>3307.93</td><td>3216.48</td><td>3249.88</td><td>3255.08</td><td>3540.54</td></tr><tr><td></td><td>Moderate coverage grassland</td><td>8888.12</td><td>8876.67</td><td>8803.46</td><td>8774.94</td><td>8752.46</td><td>8431.20</td></tr><tr><td></td><td>Low coverage grassland</td><td>6508.78</td><td>6501.11</td><td>6579.98</td><td>6604.34</td><td>6612.59</td><td>6614.44</td></tr><tr><td>Water bodies</td><td>Graff</td><td>443.23</td><td>449.55</td><td>443.82</td><td>443.05</td><td>442.69</td><td>455.59</td></tr><tr><td></td><td>Lake</td><td>4468.70</td><td>4346.80</td><td>4306.84</td><td>4277.01</td><td>4330.87</td><td>4528.26</td></tr><tr><td></td><td>Glaciers and snow cover</td><td>450.90</td><td>399.86</td><td>411.39</td><td>370.89</td><td>326.16</td><td>225.48</td></tr><tr><td></td><td>Bottomland</td><td>211.55</td><td>218.16</td><td>222.68</td><td>235.51</td><td>243.08</td><td>193.48</td></tr><tr><td>Construction land</td><td>Urban land</td><td>1.05</td><td>1.89</td><td>3.05</td><td>3.51</td><td>6.47</td><td>12.83</td></tr><tr><td></td><td>Rural area</td><td>6.22</td><td>11.65</td><td>17.87</td><td>23.38</td><td>30.07</td><td>30.01</td></tr><tr><td></td><td>Other built land</td><td>0.14</td><td>0.20</td><td>0.47</td><td>0.62</td><td>1.71</td><td>15.39</td></tr><tr><td>Unused land</td><td>Desert</td><td>499.15</td><td>602.32</td><td>647.75</td><td>640.22</td><td>568.42</td><td>503.03</td></tr><tr><td></td><td>Saline-alkali land</td><td>21.88</td><td>35.10</td><td>40.09</td><td>43.43</td><td>42.05</td><td>21.48</td></tr><tr><td></td><td>Wetland</td><td>2455.20</td><td>2478.85</td><td>2456.61</td><td>2450.53</td><td>2459.48</td><td>2445.39</td></tr><tr><td></td><td>Bare rock</td><td>3.85</td><td>3.85</td><td>3.85</td><td>3.85</td><td>6.20</td><td>4.90</td></tr><tr><td></td><td>Other unused land</td><td>1508.01</td><td>1531.77</td><td>1593.63</td><td>1619.15</td><td>1665.97</td><td>1705.84</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Combined effects of climate change and LUCC on the Qinghai Lake volume ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on multi-period LULC data and meteorological data, we calculated the measured water yield of the Qinghai Lake Basin from 1977 to 2018 using the InVEST model (Fig. 7). The measured water yield showed an \"increase-decrease-increase\" fluctuation in the Qinghai Lake Basin from 1977 to 2018. In 1977, the measured water yield was $1 8 . 1 7 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，which increased to $2 3 . 8 4 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ in 1987 and decreased to $1 9 . 0 3 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ in 20Oo.Further,it increased to $4 5 . 4 5 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ in 2018. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Scenarios 1 and 2 were used to analyze the contributions of climate change and LUCC to the water yield in the Qinghai Lake Basin and quantitatively evaluate the contribution rates of climate change and LUCC to the water yield of the lake volume.A comparison of the water yield under different scenarios with the measured water yield indicated that the water yield under Scenario 1 was close to the measured water yield (Table 2).An obvious difference was observed between the water yield under Scenario 1 and the measured water yield,although the change in the water yield between different years of Scenario 2 was not obvious.The contribution rate of LUCC to the measured water yield was the highest $( 9 . 2 2 \\% )$ from 1977 to 1987，as evident from the contribution rates between adjacent years under different scenarios (Table 2).In the other years, the contribution rate of LUCC was negative,and the lowest rate was $- 2 2 . 1 1 \\%$ from 1987 to 2000. The contribution rate of LUCC was $8 . 5 7 \\%$ from 1977 to 2004 and the contribution of climate change was $9 1 . 4 3 \\%$ . From 2OO4 to 2O18,climate change was the key factor that played a major role,and its contribution rate reached $1 0 4 . 2 5 \\%$ ，whereas that of LUCC was $- 4 . 2 5 \\%$ .From 1977 to 2018, the contribution rate of LUCC was $- 0 . 7 6 \\%$ and that of climate change was $1 0 0 . 7 6 \\%$ （204号 (Table 2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/4360fc8d018c5bd1a0b3e3f595e071b07a4544b54f35aa1329892b7e8226b714.jpg",
+        "img_caption": [
+            "Fig.7Spatial distribution of the measured water yield of the Qinghai Lake Basin in1977(a),1987(b),2000 (c),2004 (d),2010 (e),and 2018 (f) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/a224bbf7e4db7e4aae9da3c57f22c524d545debc045dfb8dbbd88fa96e48b9e4.jpg",
+        "table_caption": [
+            "Table 2Changes of the measured water yield under different scenarios and contribution rates of climate change and land use/cover change (LUCC) to the water yield of the Qinghai Lake Basin in different time periods "
+        ],
+        "table_footnote": [
+            "Note: $R _ { p }$ ,the contribution rate of climate change; $R _ { l }$ ,the contribution rate ofLUCC. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Period</td><td colspan=\"3\">Water yield change (×10 m³)</td><td colspan=\"2\">Contribution rate (%)</td></tr><tr><td>Measured</td><td>Scenario 1</td><td>Scenario 2</td><td>Rp</td><td>R</td></tr><tr><td>1977-1987</td><td>5.67</td><td>5.61</td><td>0.57</td><td>90.78</td><td>9.22</td></tr><tr><td>1987-2000</td><td>-4.81</td><td>-4.97</td><td>0.90</td><td>122.11</td><td>-22.11</td></tr><tr><td>2000-2004</td><td>5.95</td><td>5.87</td><td>-0.86</td><td>117.17</td><td>-17.17</td></tr><tr><td>2004-2010</td><td>3.99</td><td>3.86</td><td>-0.45</td><td>113.20</td><td>-13.20</td></tr><tr><td>2010-2018</td><td>16.48</td><td>16.02</td><td>-0.36</td><td>102.30</td><td>-2.30</td></tr><tr><td>1977-2004</td><td>6.81</td><td>6.51</td><td>0.61</td><td>91.43</td><td>8.57</td></tr><tr><td>2004-2018</td><td>20.47</td><td>19.88</td><td>-0.81</td><td>104.25</td><td>-4.25</td></tr><tr><td>1977-2018</td><td>27.28</td><td>26.39</td><td>-0.20</td><td>100.76</td><td>-0.76</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effects of climate change on the Qinghai Lake volume ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The volume change in the closed-basin lakes is directly related to the balance among precipitation,runoff,and evaporation,and it is mainly controlled by the precipitation and evaporation in the short-term period (van der Kamp et al., 2OO8). In the Qinghai Lake Basin, among the different years,the effects of climatic factors on the lake volume change were the most significant from the 196Os to the 198Os and least significant in the 200Os and 201Os (Table 3). In the 196Os,the precipitation and evaporation had the most significant effect on the lake volume change，with the Pearson correlation coefficients of 0.78 $( P { < } 0 . 0 1 )$ and $- 0 . 6 7$ $( P { < } 0 . 0 1 )$ ， respectively，followed by that in the 198Os，with the Pearson correlation coefficients of 0.69 $( P { < } 0 . 0 5 )$ and $- 0 . 8 8$ $( P { < } 0 . 0 1 )$ ,respectively. These factors were also affected by the mean wind speed and sunshine duration,with the Pearson correlation coefficients of $- 0 . 6 6$ $( P { < } 0 . 0 5 )$ and -0.81 $( P { < } 0 . 0 1 )$ , respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Both the increase in precipitation and the decrease in evaporation affected the lake volume change from 1958 to 2014,and the corresponding Pearson correlation coefficients were 0.67 $( P { < } 0 . 0 1 )$ and $- 0 . 6 4$ $( P { < } 0 . 0 1 )$ ，respectively. The Pearson correlation coefficients of the lake volume change with the mean wind speed and sunshine duration were $- 0 . 3 1$ $( P { < } 0 . 0 5 )$ and $- 0 . 4 5$ （204号 $( P { < } 0 . 0 1 )$ , respectively. The decreases in the mean wind speed and sunshine duration can directly decrease the evaporation rate of the lake surface and indirectly afect the change in the lake volume (Xiao et al., 2O18). Continuous decrease of relative humidity was positively correlated with the change in the lake volume（ $_ { ( r = 0 . 5 6 }$ ， $P { < } 0 . 0 1$ ).Low evaporation from the lake surface leads to less water vapour in the atmosphere， which restrains climate warming (Wang et al., 2017). In the Qinghai Lake Basin,air temperature exhibited no significant relationship with the lake volume change $( r = - 0 . 1 4 )$ . However,an increase in air temperature can lead to an increase in evaporation loss (van der Kamp et al., 2Oo8; Méndez-Tejeda et al., 2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/13003ab574b0982b5a4b9d6be8ab4986925166195e304b2e68af995a5a41cc27.jpg",
+        "table_caption": [
+            "Table 3Pearson correlation coefficients of the lake volume change with different climatic factors in the Qinghai Lake Basin in different time periods "
+        ],
+        "table_footnote": [
+            "Note:\",correlationissignificantattheO.O5level (2-tailed);\\*\\*,correlationissignificantattheO.Ollevel(2-tailed). "
+        ],
+        "table_body": "<html><body><table><tr><td>Climatic factor</td><td>1960s</td><td>1970s</td><td>1980s</td><td>1990s</td><td>2000s</td><td>2010s</td><td>1958-2004</td><td>2004-2018</td><td>1958-2018</td></tr><tr><td>Temperature</td><td>-0.51</td><td>-0.40</td><td>-0.07</td><td>0.18</td><td>0.44</td><td>0.02</td><td>-0.14</td><td>0.11</td><td>0.29*</td></tr><tr><td>Precipitation</td><td>0.78**</td><td>0.67*</td><td>0.69*</td><td>0.63*</td><td>0.50</td><td>0.55</td><td>0.67**</td><td>0.58*</td><td>0.72**</td></tr><tr><td>Evaporation</td><td>-0.67**</td><td>-0.58</td><td>-0.88**</td><td>-0.20</td><td>-0.37</td><td>-0.26</td><td>-0.64**</td><td>-0.08</td><td>-0.66**</td></tr><tr><td>Relative humidity</td><td>0.66*</td><td>0.86**</td><td>0.75*</td><td>0.48</td><td>-0.52</td><td>0.62</td><td>0.56**</td><td>0.49</td><td>0.30*</td></tr><tr><td>Wind speed</td><td>-0.13</td><td>-0.35</td><td>-0.66*</td><td>-0.48</td><td>-0.24</td><td>-0.30</td><td>-0.31*</td><td>-0.35</td><td>-0.55**</td></tr><tr><td>Sunshine duration</td><td>-0.40</td><td>-0.78**</td><td>-0.81**</td><td>-0.26</td><td>-0.56</td><td>-0.27</td><td>-0.45**</td><td>-0.21</td><td>-0.59**</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Precipitation was the main climatic factor for the change in the lake volume from 2OO4 to 2018 0 $_ { ( r = 0 . 5 8 }$ ， $P { < } 0 . 0 5 )$ . Other climatic factors had no significant effects on the change in the lake volume.Lei et al. (2O17) analyzed the seasonal changes in the lake volume of the QTP in the recent years. The lake water budget on the northeastern QTP was mainly controlled by monsoon precipitation (Lei et al.,2O17). In this study,according to the analyses of climatic factors and lake volume change from 1958 to 2O18,the Pearson correlation coefficients for the association of the lake volume change with precipitation and evaporation were 0.72 $( P { < } 0 . 0 1 )$ and $- 0 . 6 6$ $( P { < } 0 . 0 1 )$ ， respectively. The mean wind speed and sunshine duration had significant negative correlations with the lake volume change ( $( r = - 0 . 5 5$ ， $P { < } 0 . 0 1$ ： $r { = } - 0 . 5 9$ ， $P { < } 0 . 0 1$ ,respectively).Air temperature and relative humidity had relatively weak effects on the lake volume change ( $scriptstyle \\left( r = 0 . 2 9 \\right.$ ， $P { < } 0 . 0 5$ ， $r { = } 0 . 3 0$ ， $P { < } 0 . 0 5$ ,respectively). During different time scales, the interaction among key climatic factors such as air temperature, wind speed, relative humidity,and sunshine duration could affect the lake evaporation (Wang et al., 2O17; Xiao et al., 2018). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effects of LUCC and measured water yield change on the Qinghai Lake volume ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LUCC affects infiltration, evaporation, surface runoff, and soil and water conservation because of changing soil conditions and underlying surface type; the influences of these processes on the lake volume are complex (Nosetto et al.， 2005； Odongo et al.， 2019). According to the relationships among the lake area, the measured water yield of different LULC types,and the lake volume change,the measured water yield of different LULC types exhibited obvious differences (Table 4).Because the soil of cultivated land is soft and the root system of plants is shallow, their ability to intercept precipitation is reduced and the crops need to absorb water,resulting in low measured water yield (Lang et al., 2Ol7).A significant correlation was observed between the cultivated land area change and lake volume change ( $( r = - 1 . 0 0$ $P { < } 0 . 0 5 )$ ; however, no significant correlation was observed between the measured water yield and lake volume change. More than $8 5 . 0 0 \\%$ of the woodland is shrubland and sparse woods in this area, which had lower precipitation interception capacity and higher water yield (Lian et al.,2O2O). The lake volume change exhibited no significant correlations with the area and annual water yield of woodland. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffe63d1adbf6f487a11adbd8c1d20c2b1b937afd565603331d203161d8cc6cc6.jpg",
+        "table_caption": [
+            "Table 4Spearman correlation coefficients of the lake volume change with the area and measured water yield of differentLULC types "
+        ],
+        "table_footnote": [
+            "Note:\",correlationissignificantatthe.O5level(2-tailed);\\*,correlationissignificantatthe.Ollevel(2-tailed) "
+        ],
+        "table_body": "<html><body><table><tr><td>LULC</td><td>Area</td><td>Area change</td><td>Measured water yield</td><td>Measured water yield change</td></tr><tr><td>Cultivated land</td><td>0.54</td><td>-1.00*</td><td>0.37</td><td>0.30</td></tr><tr><td>Woodland</td><td>-0.26</td><td>0.80</td><td>0.14</td><td>0.30</td></tr><tr><td>Grassland</td><td>-0.89*</td><td>0.60</td><td>0.71</td><td>0.30</td></tr><tr><td>Water bodies</td><td>-0.43</td><td>0.90*</td><td>0.03</td><td>0.50</td></tr><tr><td>Construction land</td><td>0.89*</td><td>0.70</td><td>0.71</td><td>0.90*</td></tr><tr><td>Unused land</td><td>0.37</td><td>-1.00*</td><td>0.71</td><td>0.50</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The soil of grassland was harder, so it exhibited a stronger ability to intercept precipitation than the soil of cultivated land. Grassland area had a significant correlation with the lake volume change $\\zeta = - 0 . 8 9$ $P { < } 0 . 0 5 )$ ; however, no significant correlation was observed between the measured water yield and lake volume change. Because of the formation of an impervious layer by construction land, precipitation can quickly form runoff on construction land,thereby increasing the measured water yield (Lang et al., 2O17). The area and measured water yield change of construction land were significantly positively correlated with the lake volume change ( $scriptstyle \\overbrace { r = 0 . 8 9 }$ ， $P { < } 0 . 0 5$ ：， $_ { r = 0 . 9 0 }$ $P { < } 0 . 0 5$ ， respectively). Wetland and bare rock were the main types of unused land. Because wetland soil is saturated and the water infiltration of bare rock is low,the water yield in both wetland and bare rock is high.The area change of unused land was negatively correlated with the lake volume change $r = - 1 . 0 0$ ， $P { < } 0 . 0 5 )$ . The measured water yield of unused land exhibited no significant correlation with the lake volume change. Before 2Oo4，grassland degradation was serious because of the effects of population growth, overgrazing, and policies in the Qinghai Lake Basin (Li et al., 2009). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The changing pattern of LULC from 1977 to 2018 was as follows: woodland changed to grassland，grassland changed to cultivated land,and water bodies changed to unused land, resulting in a decrease in the measured water yield. After 2OO4，with the implementation of ecological protection and restoration projects in the Qinghai Lake Basin， the ecological environment has been improved (Lian et al., 2O2O).The changing pattern of LULC was due to the changes from cultivated land to woodland,cultivated land to grassland,and unused land to water bodies,leading to an increase of the measured water yield. In the Qinghai Lake Basin,the conversion of LULC types could result in both positive and negative water yields,and the scale of LULC conversion was small; hence, the overall effect of LUCC remained unclear (Lang et al., 2017). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3 Effects of other factors on the Qinghai Lake volume ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Climate change exerts strong effects on most large lakes (Kraemer et al., 2O2O). Qinghai Lake is located at the intersection of East Asian monsoon, Indian monsoon,and westerly atmospheric flow (Li et al., 2Oo6). The mechanism of the effects of climate change on the lake volume is complex，and the seasonal difference in the lake volume is obvious (Lei et al.，2017). Nevertheless,the contributions of glaciers,snow,and permafrost to the lake volume remain to be further studied. A large area of continuous permafrost was distributed in the Qinghai Lake Basin. However, with global warming, permafrost has been undergoing rapid degradation. Analysis of the ground surface temperature indicated that the warming of the active layer was significant (Li et al.,202O).Li et al. (2O19) estimated that the ground ice reserves of permafrost was $1 6 0 . 0 0 { \\times } 1 0 ^ { 8 }$ $\\mathrm { m } ^ { 3 }$ at the depth of $0 { - } 1 0 \\mathrm { ~ m ~ }$ in the Qinghai Lake Basin,and the volume of water released by the upper layer of permafrost ground ice thawing in the recent ten years was $2 7 . 2 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ The distribution area of glaciers is relatively small in the Qinghai Lake Basin.The estimated glacial ice reserve was $4 9 . 0 0 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ in 2015,and the glacier loss was $2 . 9 4 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ in the past decade (Li et al.,2O19). However, different views exist on glacier meltwater feeding rivers. According to Zhang et al. (2O1lb),the increase in the lake water level in 2O04 could be attributed to the accelerated glacier and snow cover melting in the recent decades. By the study of hydrogen-oxygen isotope change, Jin et al. (2O13) asserted that glacial melting is limited to river recharge.With the aggravation of the lack of water resources in the future,lakes are likely to become an important water resource.The lake levels are stillikely to undergo changes because of climate change and human activities (Kraemer et al.,2O2O),and these factors can increase the risk of water resource crises in China (Tao et al.,2O2O). Therefore,the coupling mechanism of climate change and lake volume should be further studied. Quantitative analyses of the contributions of glaciers, permafrost, snow cover,and precipitation to lake water resources,as well as the risk due to human activities are crucial for the management and sustainable utilization of water resources in the Qinghai Lake Basin. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Based on the lake level data of the Qinghai Lake，we introduced an improved lake volume calculation method to analyze the long-term trends of the lake volume change. By using a combination of the long-term series climatic data and multi-period LULC data, we quantitatively evaluated the contributions of climate change and LUCC to the measured water yield of the Qinghai Lake,which indirectly reflected the effects of climate change and LUCC on the lake volume.The results indicated that the volume of the Qinghai Lake changed significantly from 1958 to 2O18. Specifically, the lake volume decreased by $1 0 5 . 4 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ from 1958 to 2004,at the rate of $2 . 2 4 { \\times } 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { a }$ ，and increased by $7 4 . 0 2 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ from 2004 to 2018,at the rate of $4 . 6 6 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } / \\mathrm { a }$ .The effects of climate change and LUCC on the lake volume of the Qinghai Lake were significantly different. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this study, we quantitatively evaluated the effects of climate change and LUCC on the lake volume change but did not consider the effect of LUCC on climate regulation.In our further study, we will comprehensively consider the coupling effect between climate change and LUCC, the re-change of the lake volume by precipitation, permafrost ground ice,and groundwater, and the prediction study of the lake volume change under the background of global warming. It is our hope that this study can serve as a suitable scientific guide for the sustainable management and development of water resources in the Qinghai Lake Basin as well as on the QTP. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA20100101),the National Key Research and Development Program of China (2019YFC0507404),and the Gansu Province Science Foundation for Youth, China (2OJR5RA543).The authors also thank the anonymous reviewers for their helpful comments. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "AdrianR,OReillyCM,ZagareseH,etal.2009.Lakes assentinelsofclimatechange.LimnolOceanogr,54(6):2283-2297. Budyko MI.1974.Climate and Life. San Diego:Academic Press,1-508. CuiBL,LiXY.2O16.Theimpactofclimate changeson water levelof Qinghai Lake in China overthepast 50 years ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "da Costa MR A,AtaydeJL,Becker V.2016.Efects of water level reductionon the dynamicsof phytoplankton functional groups in tropical semi-arid shallow lakes. Hydrobiologia,778(1): 75-89.   \nDuan AM,XiaoZX.20l5.Doestheclimate warming hiatus exist overthe Tbetan Plateau?ScientificReports,5:137,doi: 10.1038/srep13711.   \nDuan Z,Bastiaanssn WG M.2O13.Estimating water volume variations in lakes andreservoirs from fouroperational satelite altimetry databases and satellite imagery data.Remote Sensing of Environment,134: 403-416.   \nHan W X,Huang CL,Wang YC,et al.2O19.Study on the area variation of Qinghai Lake based on long-term Landsat 5/8 multi-band remote sensing imagery. Advances in Earth Science,34(4): 346-355.(in Chinese)   \nJin D,YouCF,WangY,etal.2O10.HydrologicalandsolutebudgetsofLakeQinghai,theargestlakeontheTbetanPlateau. Quaternary International, 218(1-2): 151-156.   \nJin ZD,ZhangF,Wang HL,etal.2O13.Thereasonsof rising water level inLake Qinghai since 2Oo5.Journalof Earth Environment,4(3):1355-1362.(in Chinese)   \nKendall M G.1975.Rank Correlation Methods.London: Charles Griffin,1-202.   \nKraemerBM,SeimonA,Adrian R,etal.2O2o.Worldwide lake leveltrends andresponses to background climatevariation. Hydrology and Earth System Sciences,24(5):2593-2608.   \nLang YQ,Song W,Zhang Y2017.Responses of the water-yield ecosystem serviceto climate and land use change in Sancha River Basin,China.Physics and Chemistry of the Earth,Parts A/B/C,1O1:102-111.   \nLehnherrI, StLouis VL,Sharp M,et al.2O18.The world's largest High Arctic Lakerespondsrapidlyto climate warming. Nature Communications,9(1): 1290,doi:10.1038/s41467-018-03685-z.   \nLeiYB,YaoTD,Yang K,etal.2Ol7.Lake seasonalityacross the Tibetan Plateauand theirvaryingrelationship withregional mass changes and local hydrology. Geophysical Research Letters,44(2): 892-900.   \nLiL,Shen HY,LiuC H,etal,202.Responseof waterlevelfuctuation tolimate warmingand wettingscenariosandits mechanism on Qinghai Lake.Climate Change Research,16(5): 60O-6O8.(in Chinese)   \nLi X,Gou X H,Wang NL,etal.2019.Tightening ecological management facilitatesgreen development in the Qilian Mountains.Chinese Science Bulletin,64(27): 2928-2937.(in Chinese)   \nLi XD,Long D,Huang Q,et al.2O19.High-temporal-resolution water leveland storage change datasets for lakeson the Tibetan Plateau during 2oo-2O17using multiple altimetric missions and Landsat-derived lake shoreline positions.Earth System Science Data,11(4):1603-1627.   \nLi XY,Xu HY,SunYL,etal.2O6.Lake-levelchangeand waterbalanceanalysis atakeQinghai,West China duringecent decades. Water Resources Management, 21(9): 1505-1516.   \nLi XY,MaYJ,XuHY,etal.2O9.ImpactoflanduseandlandcoverchangeonenvironmentaldegradationinLakeQinghai watershed, northeast Qinghai-Tibet Plateau.Land Degradation & Development,2O(1): 69-83.   \nLian XH,Qi Y,Wang HW,etal.2O2O.Asessingchangesof wateryield inQinghaiLake WatershedofChina.Water2:11, doi:10.3390/w12010011.   \nLuo DL,JinHJ,DuHQ,etal.2020.Variationof alpine lakesfrom1986to2O19 inthe Headwater Areaof theYellowRiver, Tibetan Plateau using Google Earth Engine.Advances in Climate Change Research,11(1):11-21.   \nMaR H,Duan HT,HuCM,etal,2Ol0.Ahalf-centuryof changes inChina'slakes: Global warmingor humaninfluence? Geophysical Research Leters,37(24): L24106,doi: 10.1029/2010GL045514.   \nMann HB.1945. Nonparametric tests against trend. Econometrica,13(3): 245-259.   \nMedina C,Gomez-Enri J，AlonsoJJ,etal.2O10.Water volume variationsin LakeIzabal(Guatemala）from insitu measurementsand ENVISAT Radar Altimeter (RA-2） and Advanced Synthetic Aperture Radar (ASAR）data products. Journal of Hydrology, 382: 34-48.   \nMéndez-TejedaR,RosadoGRivasDV,etal.2Ol6.CimatevariabilityanditsefectsontheincreasedlevelofLakeEnquillo in the Dominican Republic,20oo-2013.Applied Ecology and Environmental Sciences,4(1): 26-36.   \nNosetoMD,JobbagyEGParueloJM.2Oo5.Land-usechangeand waterlosses:thecaseof grassland afforestationacrossa soil textural gradient in central Argentina. Global Change Biology,11(7): 1101-1117.   \nOdongoVO,van OelPR,vander Tol C,etal.2O19.Impact of landuseand land cover transitions and climate on evapotranspiration in the Lake Naivasha Basin,Kenya.Science of the Total Environment, 682:19-30.   \nPiaoSL,Ciais P,Huang Y,etal.2Olo.Theimpactsof climatechangeon waterresourcesandagriculture inChina.Nature, 467(7311): 43-51.   \nQiao BJ,ZhuLP,YangRM.2O19.Temporal-spatial diferences inlake water storagechangesand theirlinks toclimate change throughout the Tibetan Plateau.Remote Sensing of Environment,222:232-243.   \nRodriguez-IturbeI.20.Ecohydrology:A hydrologic perspectiveof climate-soil-vegetation dynamies.WaterResources Research,36(1): 3-9.   \nSatgéF,EspinozaR,ZolaR,etal.2Ol7.Roleof climate variabilityand humanactivityonPoopóLakedroughts between190 and 2015 assessed using remote sensing data.Remote Sensing,9(3): 218,doi:10.3390/rs9030218.   \nSellinger CE,Stow CA,Conrad LamonE,etal.2008.Recent waterlevel declines intheLake Michigan-Huron System. Environmental Science & Technology,42(2): 367-373.   \nSu D S,Hu XQ,WenLJ,etal.2019.Numerical studyontheresponseof the largest lake inChinatoclimatechange. Hydrology and Earth System Sciences,23(4): 2093-2109.   \nTal A.2019.TheimplicationsofclimatechangedrivendepletionofLake Kinneret waterlevels: thecompelingcaseforcmate change-triggered precipitationimpacton Lake Kinneret'slow water levels.Scienceof theTotal Environment,664: 1045-1051.   \nTao SL,Fang JY,Ma SH,et al.2020.Changes inChina'slakes: Climateand human impacts.National Science Review,7: 132-140.   \nvan derKamp G,KeirD,Evans MS.2O08.Long-term water levelchanges inclosed-basinlakesof theCanadianPrairies. Canadian Water Resources Journal, 33(1):23-38.   \nWang BB,MaYM,MaWQ,etal.2Ol7.Physicalcontrolsonhalf-hourly,dailyandmonthlyturbulentfluxandenergybudget overahigh-altitude smallakeonthe TbetanPlateau.Journalof GeophysicalResearch: Atmospheres,22(4):2289-2303.   \nWang D Z.2O20.Remote sensing analysis of water changes in Qinghai Lake in the past 30 yearsbased on GEE.MSc Thesis. Xi'an: Northwest University. (in Chinese)   \nWang L,Henderson M,Liu B H,etal.2O18a.Maximumand minimumsoilsurface temperature trendsover China,1965-2014. Journal of Geophysical Research: Atmospheres,123(4): 2004-2016.   \nWang L S,Chen C,Thomas M,et al.2018b.Increased water storage of LakeQinghai during 2004-2012 from GRACE data, hydrological models,radar altimetryand insitu measurements.Geophysical Journal International,212(l):679-693.   \nWang YJ,Qin DH.2O17.Influenceof climatechange and humanactivityon waterresources inarid region of Northwest China: An overview. Advances in Climate Change Research,8(4): 268-278.   \nXiao K,GrifisTJakerJM,etal.2O18.Evaporationfromatemperateclosed-basin lakeanditsimpactonpresent,past,nd future water level. Journal of Hydrology,561: 59-75.   \nXu XD,LuCGShi XH,et al.2O08.World water tower:Anatmospheric perspective.Geophysical Research Lettrs,35: L20815,doi: 10.1029/2008GL035867.   \nYang J,XieBP,Zhang DG,etal.2021.Climateand landusechange impactson water yield ecosystemservice intheYellow River Basin, China. Environmental Earth Sciences,80:72,doi:10.1007/s12665-020-09277-9.   \nYaoTD,LiuXD,WangNL,etal.2o.Amplitudeofclimaticchanges in Qinghai-Tbetanlateau.Chinese ScienceBulletin, 45(13): 1236-1243.   \nYu Y,Chen X,Malik I,etal.O21.Spatiotemporal changes inwater,landuse,and ecosystemservices in Central Asia considering climate changes and human activities.Journal of Arid Land,13(9): 881-890.   \nYue S,PilonPPhinneyB.2oo3.Canadianstreamflow trenddetection: impactsofserialandcross-corelationHydrological Sciences Journal, 48(1): 51-63.   \nZhang GQ,XieHJ,Kang SC,etal.2O1la.Monitoringlake level changesonthe TibetanPlateauusing ICESat altimetrydata (2003-2009). Remote Sensing of Environment,115(7): 1733-1742.   \nZhang G Q,Xie HJ,Duan SQ,et al.2Ol1b.Water level variationofLake Qinghai from satelite and insitumeasurements under climate change. Journal of Applied Remote Sensing,5(1): 053532,doi: 10.1117/1.3601363.   \nZhang G Q,Yao TD,Chen WF,etal.2O19.Regional diferencesof lake evolution across China during 196Os-2015andits natural and anthropogenic causes.Remote Sensing of Environment,221: 386-404.   \nZhang HY,WuYH,Liu YJ,et al.2O18.Water storage variationof the Qinghai Lake inrecentdecades basedonsatelite observation. Progress in Geography,37(6): 823-832.(in Chinese)   \nZhong XY, Wang L,ZhouJ,et al.2O20.Precipitation dominates long-term water storagechanges in Nam CoLake(Tibetan Plateau)accompaniedbyintensified cryospheremelts revealedbyabasin-widehydrological modellng.Remote Sensing,12: 1926,doi: 10.3390/rs12121926.   \nZhouJ,WangL,Zhang YS,etal.2015.Exploringthe water storagechanges inthelargest lake(SelinCo)overthe Tibetan Plateau during 2003-2012 froma basin-wide hydrological modeling.Water Resources Research,51: 8060-8086.   \nZhouJ,WangL,Zhong XY,etal.2O22.Quantifyingthemajordriversfortheexpanding lakesintheinteriorTibetanPlateau. Science Bulletin,67: 474-478.   \nZhu WB,Jia SF,LvAF.2O14.Monitoringthe fluctuationofLakeQinghai using multi-sourceremote sensing data.Remote Sensing,6(11): 10457-10482.   \nZoharyT,OstrovskyIS.2O11.Ecological impactsof excesive water level fluctuations in stratified freshwaterlakes.Inland Waters,1(1): 47-59. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

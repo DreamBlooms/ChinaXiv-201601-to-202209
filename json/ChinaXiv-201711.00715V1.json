@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "施氮及花后土壤相对含水量对黑粒小麦灌浆期氮素吸收转运及分配的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王美1,2 赵广才1\\*\\* 石书兵2\\*\\* 常旭虹1 王德梅1 杨玉双1郭明明³元　振王　雨¹ 刘孝成²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国农业科学院作物科学研究所/农业部作物生理生态重点实验室北京10081;2.新疆农业大学农学院乌鲁木齐830052;3．徐淮地区连云港农业科学研究所/连云港市农业科学院连云港222006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要以黑粒小麦‘漯珍一号'为供试材料，通过棚下盆栽试验研究了不同施氮量及花后土壤相对含水量对‘漯珍一号'植株氮素吸收、转运、分配以及籽粒蛋白质及其组分含量的影响。结果表明：相同施氮量下，黑小麦籽粒含氮量、蛋白质积累量随水分胁迫加剧而降低；各蛋白质组分含量的变化随施氮量的不同而存在差异，在低氮 $[ \\mathrm { N } _ { 1 } , 1 5 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 条件下，随水分胁迫加剧，清蛋白、球蛋白、醇溶蛋白含量升高，高氮 $[ \\mathsf { N } _ { 3 }$ $3 0 0 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 条件下，清蛋白、球蛋白含量升高，而醇溶蛋白含量降低。相同水分胁迫(土壤相对含水量为$5 5 \\% { \\sim } 6 5 \\% , \\mathrm { W } _ { 2 }$ ；土壤相对含水量为 $3 5 \\% { \\sim } 4 5 \\%$ ， $\\mathrm { ~ W } _ { 3 } .$ 条件下，籽粒氮素含量、籽粒中蛋白质的积累量随施氮量增加而提高，成熟期籽粒氮素含量占总氮素含量的比例下降；而充足供水(土壤相对含水量为 $7 5 \\% { \\sim } 8 5 \\%$ ， $\\mathbf { W } _ { 1 } )$ 时，中氮处理 $[ \\mathrm { N } _ { 2 } , 2 4 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 籽粒蛋白质积累量最高，同时，营养器官贮藏氮素向籽粒的转运量、转运率均达最大值，对籽粒的贡献率也较高。 $\\mathsf { W } _ { 1 }$ 处理时，清蛋白、球蛋白和醇溶蛋白含量随施氮量的增加而提高，麦谷蛋白在 $\\mathbf { N } _ { 2 }$ 处理达最大值；而 $\\mathsf { W } _ { 2 }$ 、 $\\mathrm { \\Delta W } _ { 3 }$ 处理情况下， $\\mathbf { N } _ { 2 }$ 处理小麦中各蛋白质组分含量最高。综上所述，本试验条件下，施氮量及花后土壤相对含水量对黑粒小麦氮代谢具有显著影响，施氮量过高或过低以及水分胁迫均不利于黑粒小麦氮代谢过程的有效进行，综合考虑，花后充足供水 $( \\mathrm { W } _ { 1 } )$ 与中等施氮水平 $( \\Nu _ { 2 } )$ 组合对黑粒小麦氮素吸收、转运和分配具有较好的调控作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词黑粒小麦施氮量土壤相对含水量氮代谢蛋白质组分中图分类号：S512.1;S330 文献标识码：A 文章编号:1671-3990(2016)07-0864-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of nitrogen fertilization and soil relative water content after anthesis on nitrogen absorption and translocation of black wheat ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Mei1,2, ZHAO Guangcail\\*\\*, SHI Shubing2\\* \\*, CHANG Xuhong',WANG Demei, YANG Yushuang1, GUO Mingming³, QI Zhen1,WANG $\\mathrm { Y u } ^ { 1 }$ , LIU Xiaocheng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. Instituteof Crop Science, Chinese Academy ofAgriculture Sciences/Key Laboratory ofCrop Physiological and Ecology, MinistryofAgrculture,Beijng81,China;2.ColegeofAgronoy,XinangAgriculturalUnversity,Urumqi30in; 3.Lianyungang Institute ofAgricultural Scienceof Xuhuai Area/Lianyungang Academyof Agricultural Sciences,Lianyungang 222006,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractBlack wheat variety‘Luozhen l',a colored wheat variety,was higher innutritional valueand exploring potential ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,itslowyieldwas themainlimitingfactorof plantationduetoweak photosyntheticcapacityand matter translocation ability atkeystages of yield forming.Inorderto provide the theory basis for high yieldcultivation of black wheat,a pot experiment wascarredoutto studythe efectof nitrogenrate and soil relative water content afteranthesis onnitrogen absorption and translocation of black wheat‘Luozhen $\\mathbf { \\Omega } _ { 1 } \\mathbf { \\Omega } _ { 2 } ^ { \\prime }$ at the station of the Institute of Crop Science of Chinese Academy of Agricultural Sciences in 2O14-2015.Two factors were set in the experiment, nitrogen fertilization rate $[ 1 5 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (low N level, $\\mathrm { N } _ { 1 } ^ { \\cdot \\cdot }$ ), $2 4 0  { \\mathrm { \\ k g } } (  { \\mathrm { N } } ) \\cdot  { \\mathrm { h m } } ^ { - 2 }$ (middle N level, $\\mathbf { N } _ { 2 } \\mathbf { \\dot { \\Omega } }$ ), $3 3 0 \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ (high $\\mathrm { ~  ~ { ~ N ~ } ~ }$ level, $\\mathbf { N } _ { 3 , } ^ { \\cdot \\mathrm { ~ } }$ ] and soil relative water content after anthesis $[ 7 5 \\% - 8 5 \\%$ (adequate water supply treatment, $\\mathbf { W } _ { 1 , }$ ), $5 5 \\% - 6 5 \\%$ (middle water stress, $\\mathsf { W } _ { 2 }$ )and $3 5 \\% - 4 5 \\%$ (serious water stres,W3)offieldcapacity].Theresultsshowed that grain nitrogencontentand protein accumulationamount declined with decreasing soil relative water content under the same nitrogen fertilizationrate.Protein components contents varied with diferentnitrogen fertilizationratesand soilrelative watercontent.Thecontentsofalbumin,globulinand prolamin increased with declining soil water content in low $\\mathrm { ~ N ~ }$ level $( \\mathsf { N } _ { 1 } )$ . In high $\\mathrm { ~  ~ N ~ }$ level $( \\mathsf { N } _ { 3 } )$ ）treatment,albumin and globulin contents also increased with declining soil water content,while prolamin content decreased. Under soil water stressconditions $( \\mathbb { W } _ { 2 } , \\mathbb { W } _ { 3 } )$ ， nitrogen content,protein accumulation amountin seeds increased and the percentage of grain nitrogen content atmaturity declined with increasing nitrogen fertilization rate. However,under adequate water supply $( \\mathsf { W } _ { 1 } )$ ，protein accumulation amount,nitrogen translocation efficiency fromnutritive organs to grain and nitrogen translocationamount were highest under middle $\\mathrm { ~ N ~ }$ level $( \\Nu _ { 2 } )$ . Albumin, globulin and prolamin contents also increased with increasing nitrogen fertilization rate under $\\mathsf { W } _ { 1 }$ condition,while glutenin reached the highest level in $\\Nu _ { 2 }$ treatment. Under water stressed conditions ( $\\mathrm { ~ W } _ { 2 }$ or $\\aleph _ { 3 , }$ ,all protein components were highest in $\\Nu _ { 2 }$ treatment. It was concluded that there were significant impact of nitrogen rate and soil water content after anthesis on nitrogen metabolism of black wheat‘Luozhen l'.Nitrogen application rate of $2 4 0 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ and adequate water supply were recommended in the experimental condition due to effective nitrogen metabolism process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsBlack wheat;Nitrogen fertilizationrate; Soilrelative water content; Nitrogen metabolism; Protein components ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氮代谢是植物体内最基本的代谢之一，对于小麦(Tricumaestivum)而言亦是如此，氮代谢对小麦产量形成和品质改善具有重要影响。除了品种自身遗传特性外，栽培措施也是影响小麦氮代谢的重要因素[1-5]。许振柱等[研究表明，改善土壤水分状况,可以促进花后营养器官中氮素向籽粒中转运，增加籽粒中总氮素产量和生物产量，同时增加各器官吸收肥料氮的比例。马东辉等7研究认为，同一施氮水平下，花后土壤相对含水量过高或者过低都不利于叶片中游离氨基酸的合成，影响其籽粒的转运，同时也不利于籽粒蛋白质的积累；土壤含水量相同条件下，籽粒蛋白质含量和积累量随施氮量增加而提高，但施氮过多，籽粒蛋白质积累增加幅度会减小。马兴华等8对不同施氮量下灌水量对小麦耗水特性和氮素分配情况研究表明，适量施氮或者在施氮的情况下适量灌水均有利于营养器官中氮素向籽粒转运。同时，施氮量及土壤相对含水量对籽粒各蛋白质组分也存在一定影响[9-12]。黑粒小麦‘漯珍一号’是有色小麦的一种，因其含有较高的蛋白质和氨基酸，且富含多种人体必须的微量元素，如Fe、Zn、Se等[13-14]，具有较高的营养价值和开发潜力而备受研究者的关注[15]。虽然有色小麦营养价值较高，但其产量较低，这主要是因为在产量形成的关键时期，其光合能力和物质转运能力较差导致的[16]。而前人关于施氮量及花后土壤相对含水量对有色小麦氮代谢过程、籽粒蛋白质及其组分含量影响的研究鲜见报道，因此，本试验选取黑粒小麦‘漯珍一号'为材料研究了施氮量和花后土壤相对含水量对其氮素吸收、转运和分配的影响，以期为改善黑粒小麦产量形成关键期的物质转运能力和高产优质栽培提供理论与技术参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2014—2015年在中国农业科学院作物科学研究所旱棚下进行。试验土壤为壤土，养分含量分别为有机质 $9 . 8 4 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮 $0 . 5 8 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ，碱解氮 $9 1 . 9 1 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ，速效磷 $2 1 . 5 5 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } }$ ，速效钾$1 4 6 ~ \\mathrm { m g { \\cdot k g } ^ { - 1 } }$ ， $\\mathfrak { p H }$ 为 $7 . 8 6 _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计及处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试材料为黑粒小麦‘漯珍一号'，采用施氮量(N)和花后控水(W)两因素随机区组设计。花后控水设3个梯度：1)整个生育期充足供水 $( \\mathsf { W } _ { 1 } )$ ，土壤相对含水量为田间持水量的 $7 5 \\% { \\sim } 8 5 \\%$ ；2)中度水分胁迫处理 $( \\mathsf { W } _ { 2 } )$ ，开花前水分处理同 $\\mathsf { W } _ { 1 }$ ，开花到收获土壤相对含水量为田间持水量的 $5 5 \\% { \\sim } 6 5 \\%$ ；3)重度水分胁迫处理 $( \\mathsf { W } _ { 3 } )$ ，开花前水分处理同 $\\mathsf { W } _ { 1 }$ ，开花到收获土壤相对含水量为田间持水量的 $3 5 \\text{‰}$ 水分处理期间，每天称重后按照控水标准补充灌水[17]。设3个施氮量：低氮处理 $( \\mathsf { N } _ { 1 } )$ 为施纯氮 $1 5 0 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，中氮处理 $( \\Nu _ { 2 } )$ 为施纯氮 $2 4 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，高氮处理 $( \\mathsf { N } _ { 3 } )$ 为施纯氮 $3 3 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。所用氮肥为尿素(含氮量 $4 6 \\%$ ）,按照基肥：拔节肥 $. = 5 : 5$ 的比例施入。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在人工防雨棚下进行盆栽试验，以土壤为基质，所用盆直径为 $2 6 ~ \\mathrm { c m }$ ，表面积为 $0 . 0 5 3 \\mathrm { ~ m } ^ { 2 }$ ，每盆土壤干重为 $2 1 \\ \\mathrm { k g }$ ，每盆种15株，到五叶一心时定苗至10 株。各处理设置9个重复，共81盆。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 各器官含氮量的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开花期(即水分处理开始之日且水分处理前)起每7d取样一次，各处理取3个重复共9株，按照茎秆、叶片、穗分样，成熟期按照茎秆、叶片、颖壳 $. +$ 穗轴、籽粒等部位分样，迅速拿回室内，置于烘箱当中, $1 0 5 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 杀青 $3 0 ~ \\mathrm { m i n }$ ，然后调整烘箱温度至 $8 0 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，烘至恒重，取出称重，记录干重。然后用FS-Ⅱ型实验室旋风式粉碎磨将籽粒粉碎，用高速粉碎磨粉碎其余部位样品，称取粉碎后样品[籽粒 $( 0 . 1 0 0 { \\scriptstyle \\pm 0 . 0 0 5 } )$ g,其余部位 $\\left( 0 . 2 0 0 { \\scriptstyle \\pm 0 . 0 0 5 } \\right) \\ \\mathrm { g } ]$ 。加入催化剂(质量比为$1 0 : 1$ 的硫酸钾和硫酸铜的混合物)，加浓硫酸 $6 ~ \\mathrm { m L }$ 在消煮炉上 $4 2 0 \\ \\mathrm { ~ \\textdegree ~ }$ 加热至消解完全，用上海晟升公司的K1302凯氏定氮仪测定含氮量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "籽粒蛋白质含量 $( \\% ) { = }$ 籽粒含氮量 $( \\% ) \\times 5 . 7$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 籽粒蛋白质组分的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取成熟期籽粒，各处理3个重复，每个重复取一盆，剥出籽粒，置于烘箱当中， $1 0 5 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 杀青 $3 0 ~ \\mathrm { m i n }$ 然后调整烘箱温度至 $8 0 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，烘至恒重，取出后用FS-Ⅱ型实验室旋风式粉碎磨将其粉碎，用于蛋白质组分的提取、测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "籽粒蛋白质组分的提取采用连续提取法提取，称取粉碎后的籽粒样品 $\\boldsymbol { 0 . 5 \\mathrm { ~ g ~ } }$ （用精度为 $_ { 0 . 0 0 1 \\mathrm { ~ g ~ } }$ 的天平称取)，置于 $1 0 ~ \\mathrm { m L }$ 离心管中，按照清蛋白、球蛋白、醇溶蛋白和麦谷蛋白的提取顺序，所用提取液分别为蒸馏水、 $2 \\%$ 氯化钠溶液、 $70 \\%$ 的无水乙醇溶液以及 $0 . 5 \\%$ 的氢氧化钾溶液进行提取。提取步骤为：往样品中加入 $5 ~ \\mathrm { m L }$ 提取液，用玻璃棒不断搅拌，直到完全被搅碎，再置于振荡器上震荡(首次 $3 0 \\ \\mathrm { { m i n } }$ 之后每次 $2 0 \\ \\mathrm { m i n }$ ，计时器计时，然后转入离心机中4000转 $\\cdot \\operatorname* { m i n } ^ { - 1 }$ 的速度离心 $5 \\ \\mathrm { m i n }$ ，将上清液转移到具塞玻璃管中保存，然后重复上述步骤反复再提取3次，将4次提取液混合摇匀后，待测。测定步骤为：吸取各组分提取液 $5 \\ \\mathrm { m L }$ ，然后按照1.3.1中的方法进行测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 氮素相关指标的计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各器官氮素积累量(mg·plant-1) $\\vDash$ 含氮量 $( \\mathrm { m g \\cdot g ^ { - 1 } } ) \\times$ 各器官干物质重(mg·plant-1) (2)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开花期营养器官氮素积累量(mg·plant-) $\\vDash$ 开花 期茎、叶、穗氮素积累量(mg·plant-1) (3) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开花前贮藏氮素转运量(mg·plant-1) $\\vDash$ 开花期单株氮素积累量-成熟期单株非籽粒部分(茎、叶、穗轴 $^ +$ 颖壳)氮素积累量 (4)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开花前贮藏氮素转运率 $\\dot { \\bf \\theta } =$ 开花前贮藏氮素转运量/开花期单株氮素积累量 $\\times 1 0 0 \\%$ (5)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "开花前积累氮素对籽粒的贡献率 $\\dot { \\bf \\theta } =$ 开花前贮藏 氮素转运量/成熟期籽粒全氮量 $\\times 1 0 0 \\%$ (6) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "成熟期籽粒氮素积累量(mg·plant-') $\\vDash$ 成熟期籽粒含氮量 $\\times$ 成熟期籽粒重量 $( \\mathrm { m g \\cdot p l a n t ^ { - 1 } } ) ,$ (7)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "成熟期营养器官氮素积累量 $( \\mathbf { m g \\cdot p l a n t } ^ { - 1 } ) { = } .$ 成熟期茎、叶、穗氮素积累量(mg·plant-1) (8)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据处理及分析用MicrosoftExcel2013及DPS15.10统计分析软件进行，采用LSR法进行多重比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1施氮量及花后土壤相对含水量对黑粒小麦花后籽粒蛋白质积累量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，随着生育进程推进，各处理籽粒蛋白质积累量均不断增加，在花后 $3 5 \\mathrm { ~ d ~ }$ 达到最大值，但处理间存在差异。同一施氮量下，花后 $7 { \\sim } 2 1 \\mathrm { ~ d ~ }$ ，随着水分胁迫加剧，籽粒蛋白质积累量增加；花后 $2 8 \\mathrm { ~ d ~ }$ 之后，随着水分胁迫加剧，籽粒蛋白质积累量反而下降，且差异显著。同一灌水量条件下，在花后 $7 { \\sim } 1 4 \\mathrm { ~ d ~ }$ 时， $\\mathbf { N } _ { 2 }$ 和 ${ \\bf N } _ { 3 }$ 处理籽粒蛋白质积累量均大于 $\\mathbf { N } _ { 1 }$ 处理但处理间差异不显著；花后 21d 时，灌水量为 $\\mathsf { W } _ { 1 }$ 和 $\\mathsf { W } _ { 2 }$ 条件下, $\\mathbf { N } _ { 1 }$ 和 ${ \\bf N } _ { 3 }$ 处理蛋白质积累量高于 $\\mathbf { N } _ { 2 }$ 处理，灌水量为 $\\mathrm { w } _ { 3 }$ 时，随施氮量增加籽粒蛋白质积累量有所提高，但各处理间差异未达显著水平；花后28d时，在灌水量 $\\mathsf { W } _ { 1 }$ 时，蛋白质积累量表现为 $\\mathrm { N } _ { 2 } >$ ${ \\bf N } _ { 1 } { > } { \\bf N } _ { 3 }$ ，灌水量为 $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { W } _ { 3 }$ 时，蛋白质积累量表现为${ \\bf N } _ { 1 } \\approx { \\bf N } _ { 3 } { \\mathrm { > N } } _ { 2 }$ ，各处理差异不显著；花后35d时，灌水量 $\\mathsf { W } _ { 1 }$ 时，蛋白质积累量仍表现为 $N _ { 2 } { > } N _ { 1 } { > } N _ { 3 }$ ，而灌水量为 $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { ~ W } _ { 3 }$ 时，随着施氮量的增加，籽粒蛋白质积累量显著增加。说明在灌浆后期，中度和重度水分胁迫条件下，增加施氮量能够显著提高籽粒蛋白质积累量，而水分充足条件下，中等施氮量能够有效提高蛋白质积累量，施氮量过低或者过高均不利于籽粒蛋白质的积累。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9422bdfb630da4cd1cac47bda53a0fd82e306f30ec5c1abf939692bfbfbf70af.jpg",
+        "table_caption": [
+            "表1施氮量及花后土壤相对含水量对黑粒小麦籽粒花后蛋白质积累量的影响 able1Efectsofnitrogenrateandsoilrelative watercontentafteranthesisonproteinaccmulationamountoflack wheat grains at different times after anthesis mg·plant-1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土增对含水量 watercontent</td><td rowspan=\"2\">施氮量 Nitrogen</td><td colspan=\"5\">花后天数 Days after anthesis (d)</td></tr><tr><td>7</td><td>14</td><td>21</td><td>28</td><td>35</td></tr><tr><td>W1</td><td>N1</td><td>0.37±0.028e</td><td>1.90±0.046b</td><td>3.28±0.166cde</td><td>5.12±0.540ab</td><td>5.51±0.089ab</td></tr><tr><td rowspan=\"4\">W2</td><td>N2</td><td>0.63±0.046cd</td><td>2.50±0.183b</td><td>2.99±0.077e</td><td>5.47±0.407a</td><td>5.72±0.236a</td></tr><tr><td>N</td><td>0.62±0.058d</td><td>2.06±0.570b</td><td>3.14±0.083de</td><td>4.72±0.552ab</td><td>5.32±0.183bcd</td></tr><tr><td>N1</td><td>0.62±0.034d</td><td>1.96±0.037b</td><td>3.58±0.266bc</td><td>5.29±0.259ab</td><td>5.31±0.090bcd</td></tr><tr><td>N2</td><td>0.55±0.048d</td><td>2.19±0.207b</td><td>3.37±0.481cde</td><td>4.57±0.347b</td><td>5.37±0.239abcd</td></tr><tr><td rowspan=\"4\">W3</td><td>N</td><td>0.60±0.051d</td><td>2.11±0.542b</td><td>3.56±0.209bc</td><td>5.25±0.558ab</td><td>5.50±0.199abc</td></tr><tr><td>N1</td><td>0.72±0.041bc</td><td>2.11±0.127b</td><td>3.40±0.239cd</td><td>4.96±0.744ab</td><td>5.12±0.088d</td></tr><tr><td>N2</td><td>0.85±0.096a</td><td>2.27±0.082ab</td><td>3.91±0.200ab</td><td>4.75±0.235ab</td><td>5.14±0.203cd</td></tr><tr><td>N3</td><td>0.74±0.041b</td><td>2.72±0.090a</td><td>3.99±0.097a</td><td>4.96±0.131ab</td><td>5.35±0.341bcd</td></tr><tr><td></td><td colspan=\"6\">平均值 Average</td></tr><tr><td rowspan=\"4\">土壤相对含水量 Soil relative water content</td><td>W1</td><td>0.54±0.017b</td><td>2.00±0.243a</td><td>3.14±0.074c</td><td>5.10±0.138a</td><td>5.52±0.082a</td></tr><tr><td>W2</td><td>0.59±0.011b</td><td>2.09±0.205a</td><td>3.50±0.157b</td><td>5.03±0.380a</td><td>5.39±0.024a</td></tr><tr><td>W3</td><td>0.77±0.035a</td><td>2.37±0.075a</td><td>3.77±0.117a</td><td>4.89±0.359a</td><td>5.20±0.101b</td></tr><tr><td>N1</td><td>0.57±0.023a</td><td>1.99±0.044b</td><td>3.42±0.056a</td><td>5.12±0.346a</td><td>5.31±0.028a</td></tr><tr><td rowspan=\"3\">施氮量 Nitrogen rate</td><td>N2</td><td>0.67±0.060a</td><td>2.17±0.098a</td><td>3.42±0.225a</td><td>4.93±0.150a</td><td>5.41±0.158a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N3</td><td>0.65±0.043a</td><td>2.30±0.016a</td><td>3.56±0.093a</td><td>4.97±0.115a</td><td>5.39±0.120a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { W } _ { 1 }$ ：整个生育期充足供水，土壤相对含水量为田间持水量的 $7 5 \\% { \\sim } 8 5 \\%$ · $\\mathsf { W } _ { 2 }$ ：中度水分胁迫，开花前水分处理同 $\\mathsf { W } _ { 1 }$ ，开花到收获土壤相对 含水量为田间持水量的 $5 5 \\% { \\sim } 6 5 \\%$ ${ \\sf W } _ { 3 }$ ：重度水分胁迫处理，开花前水分处理同 $\\mathsf { W } _ { 1 }$ ，开花到收获土壤相对含水量为田间持水量的 $3 5 \\% { \\sim } 4 5 \\% _ { \\odot }$ （2 $\\mathbf { N } _ { 1 }$ ：低氮处理，施纯氮 $1 5 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathbf { N } _ { 2 }$ ：中氮处理，施纯氮 $2 4 0 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathbf { N } _ { 3 }$ ：高氮处理，施纯氮 $3 3 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。同列不同字母表示处理间差异在 $5 \\%$ 水平显著。下同。 $\\mathsf { W } _ { 1 }$ : sufficient water supply during the growth period,soil relative water content is $7 5 \\% - 8 5 \\%$ of field capacity; $\\mathsf { W } _ { 2 }$ : medium water stress,soil relative water content is $5 5 \\% - 6 5 \\%$ of field capacity after anthesis; $\\mathrm { W } _ { 3 }$ : serious water stress,soil relative water content is $3 5 \\% - 4 5 \\%$ of field capacity after anthesis. $\\mathbf { N } _ { 1 }$ : low nitrogen treatment with nitrogen rate of $1 5 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathbf { N } _ { 2 }$ : medium nitrogen treatment with nitrogen rate of $2 4 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ . $\\mathbf { N } _ { 3 }$ : high nitrogen treatment with nitrogen rate of $3 3 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ . Different lettrs following values within the same column mean significant difference among different treatments at $5 \\%$ level. The same below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2施氮量及花后土壤相对含水量对黑粒小麦成熟期各器官氮素积累量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "施氮量及花后土壤相对含水量显著影响黑粒小麦成熟期籽粒及营养器官中氮素的积累量(表2)。从籽粒来看，同一施氮水平下，花后土壤相对含水量显著影响其氮素积累量，随着水分胁迫的加剧，氮素积累量随之下降，表现为 $\\mathrm { W } _ { 1 } { > } \\mathrm { W } _ { 2 } { > } \\mathrm { W } _ { 3 }$ ，籽粒氮素在植株总氮素含量中所占比例变化情况同籽粒氮素积累量变化；同一土壤相对含水量条件下，随着施氮量的增加，籽粒氮素积累量随之增加，而其所占植株总氮素比例随之下降，表明增加施氮量能够提高籽粒中氮素的积累量，但施氮量过高不利于氮素向籽粒中的转运。从成熟期营养器官来看，同一施氮量条件下，随着水分胁迫的加剧，茎鞘中氮素积累量随之下降，叶片、穗轴 $^ +$ 颖壳中的氮素积累量反而提高，而占总氮素比例均随之提高，说明水分胁迫不利于营养器官中氮素向籽粒中的转运；同一土壤相对含水量来看，各营养器官中氮素积累量均随施氮量的增加而增加，其占总氮素比例也随之增加，表明施氮过多使得氮素在营养器官中的积累量增加，而不利于其向籽粒中的转移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3施氮量及花后土壤相对含水量对黑粒小麦开花前贮藏氮素向籽粒转运的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3所示，本试验条件下，施氮量及花后土壤相对含水量均对黑粒小麦花后营养器官氮素向籽粒的转运具有显著的调控作用。黑粒小麦籽粒氮素的$6 8 . 6 \\% { \\sim } 8 9 . 3 \\%$ 来自于花前营养器官贮藏氮素的转运，施氮量及花后土壤相对含水量对营养器官贮藏氮素向籽粒的转运量、转运率均在灌水量 $\\mathsf { W } _ { 1 }$ 和施氮量$\\mathbf { N } _ { 2 }$ 处理时达最大值，同时转运氮素对籽粒的贡献率也相对较高，说明 $\\mathsf { W } _ { 1 } \\mathsf { N } _ { 2 }$ 水氮组合最有利于营养器官贮藏氮素向籽粒中转运。转运氮素对籽粒的贡献率，在水氮组合为 $\\mathrm { W } _ { 3 } \\mathrm { N } _ { 3 }$ 时达最大值，说明在重度水分胁迫时，高施氮量能够保证营养器官氮素较多的向籽粒中转运，但是由于重度水分胁迫下，营养器官中总氮素积累量相对较低，导致其转运量和转运率低于正常供水和中度水分胁迫处理。同一施氮处理间比较，施氮量为 $\\mathbf { N } _ { 1 }$ 时，营养器官贮藏氮素转运量与转运率随着水分胁迫的加剧先升高后降低，表现为 $\\mathrm { W } _ { 2 } { > } \\mathrm { W } _ { 1 } { > } \\mathrm { W } _ { 3 }$ ，表明施氮量较低时适度水分胁迫有利于营养器官贮藏氮素向籽粒的转运；施氮量为$\\mathbf { N } _ { 2 }$ 、 ${ \\bf N } _ { 3 }$ 时，营养器官贮藏氮素转运量与转运率均随着水分胁迫的加剧不断下降，表现为 $\\mathrm { W } _ { 1 } { > } \\mathrm { W } _ { 2 } { > } \\mathrm { W } _ { 3 } ,$ 0同一土壤相对含水量时，随着施氮量的增加，营养",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5db7639ef4c33e794735ae8fae9d2fa00982c04b48efbe62edc583c30912c211.jpg",
+        "table_caption": [
+            "表2不同施氮量及开花后土壤相对含水量对黑粒小麦成熟期各器官氮素积累量及比例的影响 Table2Nitrogencontentsandpercentagesofdiferentorgansinblack wheatunderdiferentnitrogenratesandsoilrelative water contents after anthesis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土壤相对 含水量 Soil relative</td><td rowspan=\"2\">施氮量 Nitrogen</td><td colspan=\"2\">籽粒 Grain</td><td colspan=\"2\">茎鞘 Stem and sheath</td><td colspan=\"2\">叶片 Leaf</td><td colspan=\"2\">穗轴+颖壳 Spike axis and husk</td></tr><tr><td>数量Amount (mg·plant-1)</td><td>比例Ratio (%)</td><td>数量Amount (mg:plant-1)</td><td>比例Ratio (%)</td><td>数量Amount (mg:plant-1)</td><td>比例Ratio (%)</td><td>数量Amount (mg:plant-1)</td><td>比例Ratio (%)</td></tr><tr><td>W1</td><td>N</td><td>94.90±1.411a 76.90±1.208a 1147±1.302b</td><td></td><td></td><td>9.29±0.959c</td><td>11.80±0.313cd</td><td>9.56±0.119d</td><td>5.25±0.318f</td><td>4.25±0.271e</td></tr><tr><td rowspan=\"5\">W2</td><td>N2</td><td>88.86±3.433bc 74.14±0.296bc 13.01±0.186a 10.86±0.272b 11.03±0.616d</td><td></td><td></td><td></td><td></td><td>9.21±0.563d</td><td>6.96±0.768cd</td><td>5.80±0.430c</td></tr><tr><td>N</td><td>91.58±2.628b 73.57±0.655bc 13.62±0.399a 10.95±0.093b 13.16±0.600ab 10.59±0.680c</td><td></td><td></td><td></td><td></td><td></td><td>6.09±0.298e</td><td>4.90±0.204d</td></tr><tr><td>N</td><td>89.95±2.303b 74.73±0.542b 11.40±0.581b</td><td></td><td></td><td>9.47±0.415c 11.92±0.287cd</td><td></td><td></td><td></td><td>9.91±0.432cd 7.10±0.108bcd 5.90±0.092bc</td></tr><tr><td>N2</td><td>86.50±0.725c 73.17±0.560cd 11.05±1.086b</td><td></td><td></td><td>9.34±0.772cde13.42±0.605ab 11.35±0.518b 7.26±0.266bc</td><td></td><td></td><td></td><td>6.14±0.257bc</td></tr><tr><td>N</td><td>96.57±0.267a 74.24±1.006bc 13.24±1.011a 10.17±0.669bc 12.63±0.700bc</td><td></td><td></td><td></td><td></td><td></td><td>9.70±0.435d 7.66±0.115ab</td><td>5.89±0.114bc</td></tr><tr><td rowspan=\"3\">W3</td><td>N</td><td>78.52±0.710de 71.95±0.650d 10.62±0.691b</td><td></td><td></td><td>9.73±0.561c 13.08±0.520ab 11.99±0.415ab 6.91±0.348cd</td><td></td><td></td><td></td><td>6.33±0.373ab</td></tr><tr><td>N</td><td>75.94±0.988e 69.02±1.309e 13.83±1.275a</td><td></td><td></td><td>12.56±1.088a 13.77±0.511a</td><td></td><td>12.51±0.396a</td><td>6.51±0.287de</td><td>5.92±0.268bc</td></tr><tr><td>N</td><td>81.49±3.374d 69.98±0.820e 13.01±0.476a</td><td></td><td></td><td>11.19±0.691b 14.01±0.412a</td><td></td><td>12.04±0.063ab 7.91±0.160a</td><td></td><td>6.80±0.083a</td></tr><tr><td colspan=\"10\"></td></tr><tr><td rowspan=\"5\">土壤相对含 水量 Soil relative</td><td>W1</td><td></td><td></td><td></td><td>74.87±0.277a 91.78±1.135a 10.36±0.435b 12.70±0.540a 9.79±0.287b</td><td>平均值 Average</td><td>12.00±0.288b</td><td>4.98±0.044c</td><td>6.10±0.062c</td></tr><tr><td>W2</td><td></td><td></td><td></td><td>74.04±0.449b 91.01±0.544a9.66±0.257c 11.90±0.348b 10.32±0.329b</td><td></td><td>12.66±0.433b</td><td>5.98±0.137b</td><td>7.34±0.156a</td></tr><tr><td>W3</td><td>70.31±0.765c 78.65±1.684b 11.16±0.522a 12.49±0.466a 12.18±0.234a</td><td></td><td></td><td></td><td></td><td>13.62±0.180a</td><td>6.35±0.069a</td><td>7.11±0.034b</td></tr><tr><td>N</td><td>74.53±0.542a 87.79±1.448b</td><td></td><td>9.50±0.304b 11.16±0.400b 10.49±0.246b</td><td></td><td></td><td>12.27±0.159b</td><td>5.49±0.158a</td><td>6.42±0.162b</td></tr><tr><td>N</td><td>72.11±0.667b 83.77±1.415c 10.92±0.541a 12.63±0.535a 11.02±0.359a</td><td></td><td></td><td></td><td></td><td></td><td>12.74±0.380ab 5.95±0.261a</td><td>6.91±0.368ab</td></tr><tr><td>Nitrogen rate</td><td>N3</td><td>72.60±0.333b 89.88±0.742a 10.77±0.411a</td><td></td><td></td><td></td><td>13.29±0.582a 10.78±0.064ab 13.27±0.137a</td><td></td><td>5.86±0.070a</td><td>7.22±0.013a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/acc16b638637e3970450b01bd509524cba9873a5c8d9e8e6beec06b8d26a9b53.jpg",
+        "table_caption": [
+            "表3不同施氮量及开花后土壤相对含水量对黑粒小麦花后营养器官氮素向籽粒的转运 Table3Nitrogen translationfromvegetativeorgans tograinafteranthesis inblack wheatunderdifferent nitrogenrates andsoil relative water contents after anthesis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td></td><td></td></tr><tr><td>W1</td><td>N1</td><td>93.63±1.054de</td><td>28.52±1.754f</td><td>94.90±1.411ab</td><td>65.11±1.469c</td><td>69.5±0.017bc</td><td>68.6±0.021e</td></tr><tr><td rowspan=\"3\"></td><td>N2</td><td>111.99±1.627a</td><td>30.41±1.056ef</td><td>92.19±3.699bc</td><td>80.99±2.442a</td><td>72.3±0.012a</td><td>87.8±0.013a</td></tr><tr><td>N</td><td>112.51±2.215a</td><td>30.61±0.485e</td><td>91.58±2.628bc</td><td>79.63±1.740a</td><td>70.8±0.002ab</td><td>87.0±0.030ab</td></tr><tr><td>N1</td><td>104.11±1.661bc</td><td>31.00±0.440de</td><td>89.95±2.303cd</td><td>73.69±1.722b</td><td>70.8±0.006ab</td><td>82.0±0.040bc</td></tr><tr><td rowspan=\"5\">W3</td><td>N2</td><td>105.37±1.111b</td><td>31.73±1.139cde</td><td>86.50±0.725d</td><td>73.65±0.501b</td><td>69.9±0.008abc</td><td>85.1±0.012ab</td></tr><tr><td>N3</td><td>103.53±2.946bc</td><td>32.88±1.671bcd</td><td>96.57±0.267a</td><td>70.00±4.370b</td><td>67.6±0.024cd</td><td>72.5±0.043de</td></tr><tr><td>N1</td><td>91.61±2.712e</td><td>33.53±0.872abc</td><td>78.52±0.710ef</td><td>61.00±3.518c</td><td>66.6±0.019d</td><td>77.7±0.046cd</td></tr><tr><td>N2</td><td>98.41±1.996cd</td><td>34.10±1.640ab</td><td>75.94±0.988f</td><td>64.31±3.010c</td><td>65.3±0.020d</td><td>84.6±0.031ab</td></tr><tr><td>N3</td><td>107.65±1.711ab</td><td>34.94±0.500a</td><td>81.49±3.374e</td><td>72.71±1.507b</td><td>67.5±0.005cd</td><td>89.3±0.018a</td></tr><tr><td></td><td colspan=\"8\">平均值 Average</td></tr><tr><td rowspan=\"6\">土壤相对含 水量 Soil relative water content</td><td>W1</td><td>106.04±0.982a</td><td>30.80±0.214c</td><td>92.89±1.982a</td><td>75.24±0.858a</td><td>0.71±0.002a</td><td>0.81±0.020a</td></tr><tr><td>W2</td><td>104.34±1.802a</td><td>31.89±0.636b</td><td>91.01±0.544a</td><td>72.45±1.871a</td><td>0.69±0.008a</td><td>0.80±0.023a</td></tr><tr><td>W3</td><td>99.22±1.644b</td><td>33.22±0.519a</td><td>78.65±1.684b</td><td>66.01±1.947b</td><td>0.66±0.010b</td><td>0.84±0.022a</td></tr><tr><td>N1</td><td>96.45±1.266b</td><td>29.85±0.532c</td><td>87.79±1.448b</td><td>66.60±0.752b</td><td>0.69±0.001a</td><td>0.76±0.020b</td></tr><tr><td>N2</td><td>105.26±1.053a</td><td>32.28±0.667b</td><td>84.88±0.979c</td><td>72.98±1.494a</td><td>0.69±0.009a</td><td>0.86±0.009a</td></tr><tr><td>N3</td><td>107.89±1.312a</td><td>33.78±0.596a</td><td>89.88±0.742a</td><td>74.11±1.831a</td><td>0.69±0.009a</td><td>0.83±0.026a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "器官中贮藏氮素的转运量、转运率及对籽粒的贡献率均表现出先升高再下降的趋势，且 $\\mathrm { W } _ { 2 } { > } \\mathrm { W } _ { 3 } { > } \\mathrm { W } _ { 1 }$ 这表明，施氮量的增加显著增强了贮藏氮素向籽粒的转运能力，但施氮过高，同样不利于贮藏氮素向籽粒的转运。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4施氮量及花后土壤相对含水量对黑粒小麦籽粒蛋白质及其组分含量和所占比例的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4所示，施氮量和花后土壤相对含水量显著影响黑粒小麦籽粒中总蛋白的含量。同一水分处理下，籽粒中总蛋白含量随施氮量的增加而显著增加。在低施氮量条件下，水分胁迫处理总蛋白含量显著高于充足供水处理；中等施氮量条件下，水分胁迫处理籽粒总蛋白含量均低于充足供水处理，但处理间差异不显著；高施氮量下，随水分胁迫加剧，籽粒总蛋白出现先升高后降低的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "施氮量及花后土壤相对含水量对各蛋白质组分含量影响显著(表4)。花后土壤相对含水量对籽粒清蛋白、球蛋白含量有显著影响，对醇溶蛋白和麦谷蛋白含量无显著影响。施氮量除对醇溶蛋白无显著影响，对其余蛋白质组分含量均影响显著。同一施氮水平来看，花后土壤相对含水量显著影响清蛋白、球蛋白和醇溶蛋白含量，在施氮量为$\\Nu _ { 1 } , \\Nu _ { 2 }$ 时其含量随水分胁迫加剧而升高，当施氮量为 ${ \\bf N } _ { 3 }$ 时，清蛋白与球蛋白含量随水分胁迫加剧而上升，而醇溶蛋白反而下降；花后土壤相对含水量对麦谷蛋白含量有一定的影响，但处理间差异不显著。同一控水条件下，不同施氮量显著影响各蛋白质组分的含量。土壤相对含水量为 $\\mathsf { W } _ { 1 }$ 时，清蛋白、球蛋白、醇溶蛋白含量随施氮量的增加而提高，麦谷蛋白在施氮量为 $\\mathbf { N } _ { 2 }$ 时达最大值；而土壤相对含水量为 $\\mathsf { W } _ { 2 } , \\mathsf { W } _ { 3 }$ 时，中等施氮量 $\\mathbf { N } _ { 2 }$ 时各蛋白质组分含量达最高，这表明在水分胁迫条件下，施氮量过高或者过低均不利于各蛋白质组分含量的提高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2555f5ba49e952ac598a11c1ed062703a18e625c15732ac76b0ccb4d2ca8e4a5.jpg",
+        "table_caption": [
+            "表4不同施氮量及花后土壤相对含水量对黑粒小麦籽粒蛋白质及其组分含量的影响Table4Efectsof nitrogenrateandsoilrelative watercontentafteranthesisoncontentsofproteinanditscomponents inblackwheat grain"
+        ],
+        "table_footnote": [
+            "同列相同品种中不同字母表示处理间差异在 $5 \\%$ 水平显著。Values with different lettrs within the same column and variety mean significant difference among different treatments at $5 \\%$ level "
+        ],
+        "table_body": "<html><body><table><tr><td>相水</td><td>施氨量</td><td></td><td></td><td></td><td></td><td></td><td></td><td>To</td></tr><tr><td>W1</td><td>N</td><td>28.36±0.831e</td><td>13.13±0.666d</td><td>47.73±1.065bcd 70.11±0.374c</td><td></td><td>117.83±0.782c</td><td>1.47±0.039bcd</td><td>161.39±2.283e</td></tr><tr><td></td><td>N</td><td>31.00±0.176d</td><td>13.87±0.390d</td><td>40.98±2.356d</td><td>85.12±1.246a</td><td>126.09±3.55b</td><td>2.08±0.094a</td><td>181.69±2.869c</td></tr><tr><td></td><td>N</td><td>31.21±0.040cd</td><td>16.39±0.170bc</td><td>55.95±0.971ab</td><td>67.59±0.251c</td><td>123.55±0.736bc 1.21±0.025d</td><td></td><td>190.02±1.243b</td></tr><tr><td>W2</td><td>N</td><td>32.52±0.541b</td><td>14.64±0.498cd</td><td>50.97±6.264abc 74.16±6.929bc</td><td></td><td>125.13±0.814b 1.48±0.299bcd</td><td></td><td>172.73±4.014d</td></tr><tr><td></td><td>N2</td><td>32.36±1.180bc</td><td>17.84±2.583b</td><td>46.06±8.725cd</td><td>80.51±4.898ab</td><td>126.57±3.850b 1.80±0.405ab</td><td></td><td>180.57±1.630c</td></tr><tr><td></td><td>N3</td><td>32.28±1.180bcd 14.97±0.136cd</td><td></td><td>48.93±0.928bcd 80.07±0.440ab</td><td></td><td>129.01±0.742b 1.64±0.037bc</td><td></td><td>200.12±0.985a</td></tr><tr><td>W3</td><td>N1</td><td>32.32±0.074bc</td><td></td><td>16.58±1.454bc 53.13±8.881abc 73.35±7.082bc</td><td></td><td>126.48±4.430b 1.42±0.398bcd</td><td></td><td>172.02±0.961d</td></tr><tr><td></td><td>N2</td><td>35.66±1.393a</td><td>17.01±0.635b</td><td>59.45±5.186a</td><td>78.36±2.538ab</td><td>137.80±6.746a</td><td>1.32±0.100cd</td><td>179.20±1.580c</td></tr><tr><td></td><td>N3</td><td>32.52±0.315b</td><td>20.08±1.222a</td><td>47.83±2.300bcd 78.09±6.099ab</td><td></td><td>125.92±3.860b</td><td>1.64±0.201bc</td><td>188.81±2.123b</td></tr><tr><td></td><td></td><td colspan=\"7\">平均值 Average</td></tr><tr><td>土壤相对含水量 Soil relative water content</td><td>W1</td><td>30.19±0.341b</td><td>14.46±0.055c</td><td>48.22±0.109a</td><td>74.27±0.585a</td><td>122.49±0.694c</td><td>1.59±0.010a</td><td>177.70±1.466b</td></tr><tr><td></td><td>W2</td><td>32.39±0.931a</td><td>15.82±0.787b</td><td>48.65±3.269a</td><td>78.25±2.353a</td><td>126.90±1.416b 1.64±0.157a</td><td></td><td>184.47±1.745a</td></tr><tr><td></td><td>W3</td><td>33.50±0.442a</td><td>17.89±0.100a</td><td>53.47±4.523a</td><td>76.60±3.619a</td><td>130.07±1.487a</td><td>1.46±0.201a</td><td>180.01±0.359b</td></tr><tr><td>施氮量 Nitrogen rate</td><td>N1</td><td>31.07±0.376c</td><td>14.78±0.329b</td><td>50.61±1.055a</td><td>72.54±0.485b</td><td>123.14±1.378b</td><td>1.46±0.038b</td><td>168.71±0.490c</td></tr><tr><td></td><td>N2</td><td>33.01±0.604a</td><td>16.24±0.842a</td><td>48.83±2.606a</td><td>81.33±1.109a</td><td>130.16±1.805a</td><td>1.73±0.131a</td><td>180.49±1.124b</td></tr><tr><td></td><td>N3</td><td>32.00±0.304b</td><td>17.15±0.419a</td><td>50.91±0.955a</td><td>75.25±2.208b</td><td>126.16±1.256b</td><td>1.50±0.074b</td><td>192.99±0.566a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分析表5可以看出，施氮及花后土壤相对含水量互作对各蛋白质组分在总蛋白中所占比例均有影响。花后土壤相对含水量显著影响球蛋白和麦谷蛋白及贮藏蛋白所占比例，而施氮量对球蛋白、醇溶蛋白和麦谷蛋白所占比例均有显著影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1施氮量及花后土壤相对含水量对黑粒小麦氮素积累、转运及分配的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "施氮量与花后土壤相对含水量对小麦花后氮素的积累及分配具有调节作用，且二者具有显著的互作效应。前人研究表明[18]，籽粒中蛋白质含量的提高，主要依赖于籽粒积累氮素能力的提高，以及营养器官氮素积累量对籽粒贡献率的增加。郑志松等[19]研究认为，施氮量和灌水量对小麦籽粒蛋白质含量具有显著影响，而干旱胁迫会影响肥效，只有在水分供应合理的情况下，肥效才能得以发挥[20]。段文学等[21]研究结果显示，在 $0 { \\sim } 1 5 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 施氮量范围内，增加施氮量能够显著提高各生育时期植株氮素积累量、成熟期籽粒氮素积累量、花后氮素吸收率以及花前营养器官氮素转运量；而施氮量大于$1 5 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时，继续增加施氮量对各项指标无促进作用，同时降低了成熟期籽粒氮素积累量和分配比例。马兴华等[8研究指出，在不施氮水平下，小麦营养器官氮素转运量对籽粒的贡献率随灌水量增加呈现先增后降趋势，而施氮水平下，营养器官贮藏氮素对籽粒贡献率则随灌水量增加而提高，各水分处理营养器官贮藏氮素对籽粒贡献率也随施氮量增加而提高，这说明合理肥水条件能够提高营养器官贮藏氮素对籽粒的贡献率。本试验结果表明，黑粒小麦在灌浆后期，中度 $( \\mathsf { W } _ { 2 } )$ 和重度 $( \\mathbb { W } _ { 3 } )$ 水分胁迫条件下，增加施氮量能够显著提高籽粒蛋白质积累量，而水分充足 $( \\mathsf { W } _ { 1 } )$ 条件下，中等施氮量能够有效提高蛋白质积累量，施氮量过低或者过高均不利于籽粒蛋白质的积累；同一施氮处理时，水分胁迫使得籽粒蛋白质积累量下降，这可能是由于水分胁迫影响了营养器官氮素向籽粒的转运，从而降低了籽粒自身氮素积累能力[18]。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6569517594c2feafc1e099c7fd0a8d374492735ad0f489d5c4127a4e397c0a8b.jpg",
+        "table_caption": [
+            "表5施氮及花后土壤相对含水量对黑粒小麦籽粒各蛋白质组分占总蛋白比例的影响 Table5Eectsofnitrogenrateandsoilrelativewatercontentafternthesisonpercentagesofproteincomponentstototalproteinin black wheat $\\%$ （20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土壤相对含水量 Soil relative watercontent</td><td>施氮量 Nitrogen</td><td>清蛋白 Albumin</td><td>球蛋白 Globulin</td><td>醇溶蛋白 Gliadin</td><td>麦谷蛋白 Gliutenin</td><td>贮藏蛋白 Gluten protein</td><td>清蛋白+球蛋白 Alb+Glo</td></tr><tr><td>W1</td><td>N1</td><td>17.57±0.731abc</td><td>8.13±0.331d</td><td>29.57±0.367ab</td><td>43.44±0.740bc</td><td>73.02±0.579a</td><td>25.71±0.699c</td></tr><tr><td></td><td>N2</td><td>17.95±0.333ab</td><td>8.03±0.221d</td><td>23.71±0.829c</td><td>49.28±0.478a</td><td>73.00±0.363a</td><td>25.97±0.486c</td></tr><tr><td></td><td>N3</td><td>18.14±0.124a</td><td>9.53±0.150bc</td><td>32.53±0.395a</td><td>39.30±0.364cd</td><td>71.82±0.173ab</td><td>27.67±0.272ab</td></tr><tr><td>W2</td><td>N1</td><td>17.91±0.506ab</td><td>8.06±0.253d</td><td>28.07±3.625abc</td><td>40.81±3.743bcd</td><td>68.88±1.298bc</td><td>25.97±0.679c</td></tr><tr><td></td><td>N2</td><td>17.92±0.586ab</td><td>9.88±1.379ab</td><td>25.53±5.039bc</td><td>44.58±2.403b</td><td>70.11±2.644ab</td><td>27.79±1.164a</td></tr><tr><td></td><td>N3</td><td>18.01±0.621ab</td><td>8.35±0.123d</td><td>27.30±0.295bc</td><td>44.68±0.531b</td><td>71.99±0.239ab</td><td>26.36±0.543bc</td></tr><tr><td>W3</td><td>N1</td><td>17.01±0.144c</td><td>8.73±0.816cd</td><td>27.94±4.524abc</td><td>38.61±3.881d</td><td>66.55±1.932c</td><td>25.73±0.945c</td></tr><tr><td></td><td>N2</td><td>17.82±0.689abc</td><td>8.50±0.347cd</td><td>29.72±2.741ab</td><td>39.16±1.401d</td><td>68.87±3.716bc</td><td>26.32±0.956bc</td></tr><tr><td></td><td>N3</td><td>17.22±0.287bc</td><td>10.64±0.696a</td><td>25.34±1.295bc</td><td>41.35±3.093bcd</td><td>66.69±1.832c</td><td>27.86±0.721a</td></tr><tr><td></td><td></td><td colspan=\"6\">平均值 Average</td></tr><tr><td>土壤相对含水量 Soil relative</td><td>W1</td><td>17.89±0.178a</td><td>8.57±0.026b</td><td>28.60±0.089a</td><td>44.01±0.240a</td><td>72.61±0.323a</td><td>26.46±0.163a</td></tr><tr><td>water content</td><td>W2</td><td>17.95±0.483a</td><td>8.76±0.483ab</td><td>26.97±1.660a</td><td>43.36±1.528ab</td><td>70.33±0.434b</td><td>26.71±0.712a</td></tr><tr><td></td><td>W3</td><td>17.35±0.251a</td><td>9.29±0.028a</td><td>27.67±2.429a</td><td>39.71±1.819b</td><td>67.37±0.907c</td><td>26.64±0.224a</td></tr><tr><td>施氮量</td><td>N1</td><td>17.50±0.312a</td><td>8.31±0.213b</td><td>28.53±0.277a</td><td>40.95±0.249b</td><td>69.48±0.250a</td><td>25.80±0.422b</td></tr><tr><td>Nitrogen rate</td><td>N2</td><td>17.90±0.201a</td><td>8.80±0.516ab</td><td>26.32±1.493b</td><td>44.34±0.954a</td><td>70.66±1.293a</td><td>26.70±0.327ab</td></tr><tr><td></td><td>N3</td><td>17.79±0.154a</td><td>9.51±0.231a</td><td>28.39±0.532a</td><td>41.78±1.123b</td><td>70.17±0.593a</td><td>27.30±0.355a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "小麦自开花后，营养器官中的氮素不断进行转运和分配，主要是不断向籽粒中输送。籽粒中 $60 \\%$ 以上的氮素来自于花前营养器官积累氮素的再转运[22-23]。在水分逆境下，小麦开花前贮存在营养器官中氮素的转运量和转运率降低，从而减少了籽粒氮素积累量和籽粒产量[24]，改善土壤水分状况可促进氮素自营养器官向籽粒的转移，增加总氮素产量[25]。本试验结果表明，增加施氮量能够提高黑粒小麦籽粒中氮素的积累量，但施氮量过高不利于氮素向籽粒中的转运。同一施氮水平，随着水分胁迫的加剧，成熟期茎鞘中氮素积累量随之下降，叶片、穗轴 $^ +$ 颖壳中的氮素积累量反而提高，而占总氮素比例均随之提高。这是由于水分胁迫，使得黑粒小麦植株早衰，导致营养器官中氮素转运量和转运率下降，从而造成氮素损失；同一控水条件，各营养器官中氮素积累量均随施氮量的增加而提高，其占总氮素比例也随之增加。综上所述，水分胁迫阻碍了营养器官贮藏氮素向籽粒的转运，施氮量的增加显著增强了贮藏氮素向籽粒的转运能力，但施氮过高，同样不利于贮藏氮素向籽粒的转运。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2施氮量及花后土壤相对含水量对黑粒小麦籽粒蛋白质及其组分含量的影响施氮量及土壤相对含水量对小麦籽粒蛋白质及其组分含量有一定的影响，前人已对其进行了较多研究，而所得观点不尽一致。赵俊晔等[26-27]研究认为施氮能够显著提高籽粒蛋白质及其组分含量，且随着施氮量的增加，各组分含量均增加。石玉等[28]则认为，不同品种间各蛋白质组分含量对施氮量的反应存在差异，其研究结果显示，强筋小麦‘济麦20'和中筋小麦‘泰山23'的籽粒蛋白质及其组分含量随施氮量增加均先增后降，而弱筋小麦‘宁麦9号随施氮量增加籽粒各蛋白质组分含量显著提高。赵广才等[29-31]则认为，不同蛋白质组分对施氮量的变化反应并不一致。不同水分处理以及水氮互作对籽粒蛋白质及其组分含量的影响前人已进行较多研究[12,25.32-35]，其结果不尽相同，这表明籽粒蛋白质及其组分含量对水分及氮肥的敏感程度不同，并且品种间存在差异。本试验结果表明，黑粒小麦籽粒中总蛋白质含量在同一水分处理下随施氮量增加而提高，但施氮量较高时，随水分胁迫加剧，籽粒总蛋白质含量下降。同一施氮水平时，控水显著影响清蛋白、球蛋白和醇溶蛋白含量，对麦谷蛋白的影响未达显著水平；在同一控水条件下，施氮量对各组分含量影响达显著水平，正常供水 $( \\mathsf { W } _ { 1 } )$ 条件下,清蛋白、球蛋白、醇溶蛋白含量随施氮量的增加而提高，水分胁迫 $( \\mathbb { W } _ { 2 } , \\ \\mathbb { W } _ { 3 } )$ 条件下，中等施氮水平时 $( \\mathsf { N } _ { 2 } )$ （204号各组分含量最高，说明在水分胁迫条件下，施氮量过高或者过低均不利于各蛋白质组分含量的提高。施氮及花后控水对各蛋白质组分在总蛋白中所占比例均无显著影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与普通小麦相同，施氮量、花后土壤相对含水量及其互作对黑粒小麦漯珍一号'氮素积累、转运与分配及其蛋白质组分含量等均存在一定的影响。施氮量较低时，水分胁迫能够适当提高籽粒总蛋白的含量，而在施氮量适中或者较高时，水分胁迫均会阻碍籽粒中总蛋白含量的增加。在本试验条件下，充足水分供应 $( \\mathsf { W } _ { 1 } )$ 和中等施氮水平 $( \\Nu _ { 2 } )$ 能够较好地调控黑粒小麦的氮代谢过程，因此综合考虑各因素，最优肥水组合为 $\\mathrm { W } _ { 1 } \\mathrm { N } _ { 2 }$ 。鉴于本试验采用盆栽方式，根系对深层土壤水分的吸收和利用与大田环境存在一定的差异，因此，试验结果的进一步推广与应用，仍需通过大田试验进行验证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]赵广才，常旭虹，陈新民，等．不同施肥灌水处理对不同小麦品种产量和品质的影响[J]．植物遗传资源学报，2007,",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhao G C,Chang X H,Chen X M,et al.Effect of the treatment of nitrogen and irrigation on grain yield and quality in different wheat varieties[J].Journal of Plant Genetic Resources,2007,8(4): 447-450 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2] 王德梅，于振文，张永丽，等．不同灌水处理条件下不同小 麦品种氮素积累、分配与转移的差异[J]．植物营养与肥料 学报,2010,16(5): 1041-1048 Wang D M,Yu ZW, Zhang YL,et al.Changes in nitrogen accumulation,distribution,translocation and nitrogen use efficiency in different wheat cultivars under different irrigation conditions[J].Plant Nutrition and Fertilizer Science 2010,16(5): 1041-1048 [3] Flowers M,Weisz R,Heiniger R,et al.In-season optimization and site-specific nitrogen management for soft red winter wheat[J]. Agronomy Journal,2002,96(1): 124-134 [4] Xu Z Z,Yu Z W,Wang D,et al.Nitrogen accumulation and translocation for winter wheat under different irrigation regimes[J]. Journal of Agronomy and Corp Science, 2005, 191(6): 439-449 [5]王小纯，王晓航，熊淑萍，等．不同供氮水平下小麦品种的 氮效率差异及其氮代谢特征[J]．中国农业科学，2015, 48(13): 2569-2579 Wang X C，Wang X H,Xiong S P,et al. Differences in nitrogen efficiency and nitrogen metabolism of wheat varieties under different nitrogen levels[J]. Scientia Agricultura Sinica,2015,48(13): 2569-2579   \n[6] 许振柱，于振文，王东，等．灌溉量对小麦氮素吸收和运转 的影响[J]．作物学报,2004,30(10):1002-1007 Xu Z Z,Yu Z W,Wang D,et al. Effects of irrigation amount on absorbability and translocation of nitrogen in winter wheat[J].Acta Agronomica Sinica,2004,30(10): 1002-1007   \n[7]马东辉，王月福，赵长星，等．施氮量和花后土壤含水量对 小麦氮代谢特性和子粒蛋白质含量的影响[J]．植物营养与 肥料学报,2008,14(6):1035-1041 Ma D H,Wang Y F,Zhao C X,et al.Effects of nitrogen fertilizer rate and post-anthesis soil water content on characteristics of nitrogen metabolism and grain protein content in wheat[J].Plant Nutrition and Fertilizer Science, 2008,14(6): 1035-1041   \n[8]马兴华，王东，于振文，等．不同施氮量下灌水量对小麦耗 水特性和氮素分配的影响[J]．生态学报，2010，30(8): 1955-1965 Ma XH,Wang D,Yu Z W,et al. Effect of irrigation regimes on water consumption characteristics and nitrogen distribution in wheat at different nitrogen applications[J].Acta Ecologica Sinica,2010,30(8):1955-1965 [9]赵广才，万富世，常旭虹，等．灌水对强筋小麦籽粒产量和 蛋白质含量及其稳定性的影响[J]．作物学报，2008，34(7): 1247-1252 Zhao G C,Wan F S,Chang XH,et al. Effects of irrigation on yield and protein content of grains and their stability in strong-gluten wheat[J]. Acta Agronomica Sinica, 20o8,34(7): 1247-1252   \n[10]马少康，赵广才，常旭虹，等．不同水、氮处理对济麦 20 815-820 Ma SK,Zhao G C,Chang X H,et al.Effects of water and nitrogen treatment on yield and protein quality in strong gluten wheat Jimai 2O[J].Acta Agriculturae Nucleatae Sinica, 2010,24(4): 815-820   \n[11]王美，赵广才，石书兵，等．施氮量对不同粒色小麦花后光 合特性及成熟期氮素分配和籽粒蛋白质组分的影响[J]．麦 类作物学报,2015,35(6): 829-835 Wang M, Zhao G C, Shi S B,et al. Effect of nitrogen rate on photosynthesis after anthesis, nitrogen distribution and content of protein and its component in maturity stage in wheat with diferent seed color[J]. Journal of Triticeae Crops, 2015,35(6): 829-835   \n[12]丰明，赵广才，常旭虹，等．不同灌水处理对彩色小麦籽粒 产量和品质的影响[J]．麦类作物学报,2009,29(3):460-463 Feng M, Zhao G C, Chang X H,et al. Effect of irrigation on grain yield and quality of wheat cultivars with different grain colors[J]. Journal of Triticeae Crops,2009,29(3): 460-463   \n[13]陈志成．小麦新资源与特色营养食品[J]．粮食加工，2008, 33(4): 15-18 Chen Z C.New resources and distinctive nutrition food of wheat[J]. Grain Processing,2008,33(4): 15-18   \n[14]孙群，孙宝启，王建华．黑粒小麦子粒色素性质的研究[J]. 种子,2004,23(6): 18-20 Sun Q, Sun B Q,WANG JH. Characters of seed pigment of black kernel wheat[J]. Seed,2004,23(6):18-20   \n[15]苏东民，齐兵建，赵仁勇，等．漯珍一号黑小麦营养成分的 初步评价[J]．粮食与饲料工业,2000(8):1-2 Su D M, QiB J, Zhao R Y,et al.Preliminary evaluation for nutritional compositions of black wheat Luozhen No.1[J]. Cereal& Feed Industry,2000(8):1-2   \n[16]吕强，熊瑛，马超，等．彩色小麦与普通小麦产量形成差异 及其生理基础研究[J]．作物杂志,2008(1):41-43 Lü Q,Xiong Y,Ma C,et al. Studies on differences and physiological basis of yield formation between color wheat and general wheat[J]. Corps,2008(1): 41-43   \n[17］徐莹．氮肥及花后水分胁迫对冬小麦干物质积累和氮素转 运的影响[D]．北京：中国科学院大学,2013 Xu Y.Post-anthesis dry matter and nitrogen dynamics in winter wheat as affected by nitrogen supply and water deficit[D]. Beijing: University of Chinese Academy of Sciences,2013   \n[18]Triboi E,Triboi-Blondel A M.Productivity and grain or seed composition: A new approach to an old problem-invited paper[J]. European Journal of Agronomy,2002,16(3): 163-186   \n[19]郑志松，王晨阳，牛俊义，等．水肥耦合对冬小麦籽粒蛋白 质及氨基酸含量的影响[J].中国生态农业学报,2011,19(4) 788-793 Zheng Z S,Wang CY,Niu JY,et al. Effects of irrigation and fertilization coupling on protein and amino acids contents in grains of winter wheat[J]. Chinese Journal of Eco-Agriculture. 2011, 19(4): 788-793   \n[20] 翟丙年，李生秀．水氮配合对冬小麦产量和品质的影响[J].   \n[21]段文学，于振文，张永丽，等．施氮量对旱地小麦氮素吸收 转运和土壤硝态氮含量的影响[J]．中国农业科学，2012, 45(15): 3040-3048 Duan W X, Yu Z W, Zhang Y L,et al. Effects of nitrogen fertilizer application rate on nitrogen absorption, translocation and nitrate nitrogen content in soil of dryland wheat[J]. Scientia Agricultura Sinica,2012,45(15): 3040-3048   \n[22]杨晓亚，于振文，许振柱．灌水量和灌水时期对小麦耗水 特性和氮素积累分配的影响[J]．生态学报，2009,29(2): 846-853 Yang X Y, Yu Z W, Xu Z Z. Effects of irrigation regimes on water consumption characteristics and nitrogen accumulation and allocation in wheat[J].Acta Ecologica Sinica,20o9,29(2): 846-853   \n[23]张永丽，于振文．灌水量对小麦氮素吸收、分配、利用及产 量与品质的影响[J]．作物学报,2008,34(5):870-878 Zhang Y L, Yu Z W. Effects of irrigation amount on nitrogen uptake,distribution,use,and grain yield and quality in wheat[J]. Acta Agronomica Sinica, 2008,34(5): 870-878   \n[24]范雪梅，戴廷波，姜东，等．花后干旱与渍水下氮素供应对 小麦碳氮运转的影响[J]．水土保持学报,2004,18(6):63-67 Fan X M, Dai TB,Jiang D,et al. Effects of nitrogen rates on carbon and nitrogen assimilate translocation in wheat grown under drought and waterlogging from anthesis to maturity[J]. Journal of Soil and Water Conservation,2004, 18(6): 63-67   \n[25]赵广才，何中虎，刘利华，等．肥水调控对强筋小麦中优 9507 品质与产量协同提高的研究[J]．中国农业科学，2004, 37(3): 351-356 Zhao G C,He Z H, Liu L H,et al. Study on the co-enhancing regulating effect of fertilization and watering on the main qualityand yield in Zhongyou 9507 high gluten wheat[J]. Scientia Agriculture Sinica,2004,37(3):351-356   \n[26]赵俊晔，于振文．施氮量对小麦强势和弱势籽粒氮素代谢 及蛋白质合成的影响[J]．中国农业科学，2005，38(8): 1547-1554 Zhao JY,Yu Z W.Effects of nitrogen fertilizer rate on nitrogen metabolism and protein synthesis of superior and inferior wheat kernel[J].Scientia Agriculture Sinica,2005, 38(8): 1547-1554   \n[27]郭明明，赵广才，郭文善，等．施氮量与行距对冬小麦品质 性状的调控效应[J]．中国生态农业学报，2015，23(6): 668-675 Guo M M, Zhao G C, Guo W S,et al.Effects of nitrogen rate and row spacing on winter wheat grain quality[J]. Chinese Journal of Eco-Agriculture,2015,23(6): 668-675   \n[28]石玉，张永丽，于振文．施氮量对不同品质类型小麦子粒 蛋白质组分含量及加工品质的影响[J]．植物营养与肥料学 报,2010,16(1):33-40 Shi Y,Zhang YL,Yu Z W.Effects of nitrogen fertilization on protein components contents and processing quality of different wheat genotypes[J].Plant Nutrition Fertilizer Science,2010,16(1):33-40   \n[29]赵广才，常旭虹，杨玉双，等．施氮量和比例对冬小麦产量 和蛋白质组分的影响[J]．麦类作物学报，2009，29(2): 294-298 Zhao G C,Chang XH,Yang Y S,et al.Grain yield and protein components responding to the amount and rate of nitrogen application in winter wheat[J]. Journal of Triticeae Crops,2009,29(2):294-298   \n[30]池忠志，赵广才，郑家国，等．施氮量对不同品种小麦籽粒 蛋白组分和加工品质的影响[J]．西南农业学报,2010,23(2): 427-431 Chi Z Z,Zhao G C,Zheng JG,et al.Effects of nitrogen application amount on protein components in grain of different varieties wheat[J]. Southwest China Journal of Agricultural Sciences,2010,23(2):427-431   \n[31]王月福，于振文，李尚霞，等．施氮量对小麦籽粒蛋白质组 分含量及加工品质的影响[J]．中国农业科学，2002，35(9): 1071-1078 Wang Y F,Yu Z W,Li S X,et al.Effects of nitrogen application amount on content of protein components and processing quality of wheat grain[J].Scientia Agricultura Sinica,2002,35(9):1071-1078   \n[32]赵广才，常旭虹，刘利华，等．不同灌水处理对强筋小麦籽 粒产量和蛋白质组分含量的影响[J].作物学报，2007, 33(11): 1828-1833 Zhao G C,Chang XH,LiuLH,et al.Grain yield and protein components responses to irrigation in strong gluten wheat[J]. ActaAgronomica Sinica,2007,33(11):1828-1833   \n[33]李秋霞，王晨阳，马冬云，等．灌水及施氮对高产区小麦产 量及品质性状的影响[J]．麦类作物学报，2014，34(1): 102-107 LiQX,Wang CY,MaDY,etal.Effects of irrigation and nitrogen application on grain yield,protein content and quality traits of winter wheat in high-yielding area[J].Journal of Triticeae Crops,2014,34(1):102-107   \n[34]王小燕，于振文．水氮互作对小麦籽粒蛋白质组分和品质 的影响[J]．麦类作物学报,2009,29(4):632-638 WangX Y,Yu Z W.Effect of interactions between water management and nitrogen fertilizer on wheat processing quality and protein fractions[J]. Journal of Triticeae Crops, 2009,29(4):632-638 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

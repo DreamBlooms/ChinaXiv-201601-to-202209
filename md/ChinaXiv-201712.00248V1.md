@@ -1,0 +1,128 @@
+# 基础研究
+
+# 雌激素通过调节AKT信号通路活性抑制肝癌细胞的侵袭和转移
+
+田长印},张 欣',赵文学',党双锁',靳耀锋²,纪泛扑1,3  
+西安交通大学第二附属医院'感染科，2病理科,陕西西安 710004;陕西省肝脾疾病临床医学研究中心,陕西  
+西安 710004
+
+摘要：目的 探讨雌激素对MHCC97H肝癌细胞侵袭转移的作用及其相应机制。方法 利用划痕试验检测雌激素对MHCC97H肝癌细胞迁移能力的影响。Transwell小室法检测雌激素对MHCC97H肝癌细胞侵袭能力的影响。利用Westermblottng法检测雌激素对MHCC97H肝癌细胞中MMP-2和MMP-9表达水平的影响。检测雌激素对MHCC97H肝癌细胞中AKT和p-AKT蛋白表达水平的影响。结果雌激素能够有效抑制MHCC97H肝癌细胞的迁移和侵袭能力,随着浓度的升高抑制能力逐渐增强， $0 . 1 \ \mu \mathrm { m o l / L }$ 和 $1 \ \mu \mathrm { m o l / L }$ 浓度组MHCC97H肝癌细胞穿过基质胶到达小室底端的细胞数目分别为对照组的 $( 6 8 . 9 9 \pm 1 5 . 7 4 ) \%$ 和 $( 3 4 . 2 8 { \pm } 8 . 1 7 ) \% ( P { < } 0 . 0 5 )$ 。雌激素能够有效抑制MHCC97H肝癌细胞中MMP-2和MMP-9的表达,当浓度为 $1 \ \mu \mathrm { m o l / L }$ 时,差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。雌激素能够有效抑制MHCC97H肝癌细胞AKT的磷酸化水平，当浓度为 $1 \ \mu \mathrm { m o l / L }$ 时,磷酸化水平为对照组的 $( 9 0 { \pm } 2 ) \% ( P { < } 0 . 0 5 )$ 。结论雌激素能够有效抑制MHCC97H肝癌细胞的迁移和侵袭，这种作用可能部分与调节AKT信号通路的活性进一步调节MMP-2和MMP-9的表达有关。然而,需要进一步的深入研究以证实这种作用关系。
+
+关键词：雌激素；MHCC97H细胞；侵袭;AKT信号通路;基质金属蛋白酶
+
+# Oestrogen inhibits invasion and metastasis of hepatocellular carcinoma MHCC97H cells by regulating the activity of AKT signaling pathway
+
+TIAN Changyin1,ZHANG Xin1,ZHAO Wenxue1,DANG Shuangsuo1, JIN Yaofeng2, JIFanpu1,3   
+Deprteeptfodfledialfoiyi   
+3Shaanxi Provincial Clinical Research Center for Hepaticand Splenic Diseases,Xi'an71Oo04,China
+
+Abstract:Objective To explore the inhibitory effectof estrogen against metastasisof human hepatocellular carcinoma MHCC97H cels and explore the molecular mechanism.Methods The inhibitory efect of estrogen on the migration and invasion of MHCC97H cels was evaluated with wound healing assay and Transwell assay. Western blotting was used for investigating the expreionofMMP-2,MMP-9,AKTand p-AKTinthecells reated with estrogen.Results Estrogen treatment significantly inhibited the migration and invasion of MHCC97H cels in a dose-dependent manner. Estrogen significantly down-regulated the protein expresions of MMP-2 and MMP-9 and lowered the phosphorylation level of AKT. Conclusion The anti-metastatic effect of estrogen involves inhibitionof MMP-2and MMP-9 in MHCC97H cels probably by regulating AKT signal pathway.
+
+Key words: estrogen; MHCC97H cells; invasion; AKT signal pathway; metalloproteinase!
+
+肝细胞癌(Hepatocellularcarcinoma,HCC)是世界上最常见的恶性肿瘤，我国是原发性肝癌的高发国家，2015年新发HCC病例数达46.6万，在所有新发肿瘤中，仅次于肺癌、胃癌和食道癌,排第4位。肿瘤发生率存在性别差异是HCC一个显著的流行病学特点，HCC多发于男性，男女比例在国内为 $2 . 8 { \sim } 6 . 4 { : } 1$ ，同时女性患者通常肿瘤结节数较少，肿瘤较小，且较少出现血管浸润，患者预后较好，存活时间较男性HCC患者延长[1-2]Naugler等[3]的研究显示雌激素可抑制Kupffer细胞产生白介素-6,抑制STAT3信号通路的活化与女性患者HCC发生风险降低有关，而且切除卵巢后化学药物诱导大鼠HCC成瘤率和肺转移率增高、肝肿瘤平均直径明显增大[4]。研究还显示HCC患者血清雌激素水平较低,肝癌组织中雌激素受体表达与肿瘤的分期有关[5-7]，而且雌激素可通过与其受体结合抑制NF-KB活性，从而控制肿瘤的生长[6.8]
+
+近年来虽然HCC的治疗不断发展，但由于高侵袭和高复发的特点，总体治疗效果较差。干扰素诱导跨膜蛋白3(IFITM3）沉默信息调节因子3(SIRT3)与肝细胞癌的增殖和侵袭密切相关[9-10],基质金属蛋白酶(Matrixmetalloproteinases，MMPs)被认为是促使肿瘤细胞完成侵袭转移过程的关键性分子，其中最具有代表性的是MMP-2和MMP-9，其与HCC的发生发展及预后密切相关[1-12]。AKT信号通路在HCC发生发展过程中发挥重要作用，包括肝癌细胞凋亡、增殖、化疗耐药、侵袭转移过程等[13-16]。AKT信号通路能够通过调节MMP-9的表达发挥调节HCC侵袭转移的作用[1]。雌激素是否通过调节AKT信号通路活性抑制肝癌细胞侵袭转移尚不清楚。本研究拟观察雌激素是否通过调节AKT信号通路活性抑制肝癌细胞侵袭转移能力。
+
+# 1材料和方法
+
+# 1.1 材料
+
+人肝细胞癌MHCC97H细胞株由本实验室保有。DMEM和胎牛血清购自Hyclone公司。AKT和p-AKT购于cellsignal公司,beta-actin 购自 Santa-crus公司。17- $\cdot \beta$ 雌二醇(Estradiol)为Sigma公司产品。
+
+# 1.2 细胞培养与干预
+
+MHCC97H肝癌细胞使用含有 $10 \%$ 胎牛血清的DMEM培养基培养，当细胞融合率达到 $70 \% { \sim } 8 0 \%$ 时进行传代，传代间隔约为 $2 { \sim } 3 \ \mathrm { d } _ { \circ }$ 17 $\cdot \beta$ -雌二醇采用二甲基亚砜(DMSO)溶解，DMSO的最终浓度 ${ < 0 . 1 \% }$ ,其后用PBS稀释至工作浓度。待MHCC97H细胞长到融合后，PBS洗涤3次，加入无血清DMEM培养基培养 $2 4 \mathrm { h }$ ，之后按照实验要求加入雌激素，PBS(对照)。雌激素的浓度均为0、0.1和 $1 \ \mu \mathrm { m o l / L }$ ,处理时间为 $2 4 \mathrm { h }$ 。其后提取总蛋白进行免疫印迹分析。
+
+# 1.3细胞侵袭试验
+
+取对数生长期MHCC97H肝癌细胞，胰酶常规消化后利用血清浓度为 $2 \%$ 的培养基制成 $5 \times 1 0 ^ { 5 }$ 细胞 $\prime \mathrm { m L }$ 的细胞悬液，在Transwell小室上室中加入含有不同浓度雌激素的细胞悬液 $0 . 4 ~ \mathrm { m L }$ ，下室中加入血清浓度为$10 \%$ 的常规培养基。 $2 4 \mathrm { h }$ 后取出小室对细胞进行固定，用棉签去除上室中残留细胞并对小室底部细胞进行固定、染色和拍照，并在显微镜下进行计数。
+
+# 1.4 划痕实验
+
+取对数生长期MHCC97H细胞，以合适的密度将细胞接种于6孔板，使用含 $2 \%$ 血清的DMEM培养基，置于 $3 7 \ \mathrm { { ^ circ C } }$ 孵箱中培养。待培养细胞生长至汇合 $80 \%$ 时，用 $2 0 0 { \mu \mathrm { L } }$ tip枪头在细胞表面制造“伤口”,加入不同浓度雌激素进行培养(0.0.1和 $1 \ \mathrm { \textmu m o l { } / L } \$ ，分别在其后0和 $2 4 \mathrm { h }$ 后，用倒置显微镜观察，拍照记录伤口间距离。
+
+# 1.5免疫印迹试验
+
+雌激素处理MHCC97H细胞 $2 4 \mathrm { ~ h ~ }$ ，常规消化细胞后冰PBS洗涤2次，加入裂解液裂解细胞，离心提取蛋白。利用BCA蛋白定量试剂盒检测蛋白浓度，并根据蛋白提取物浓度确定上样量。每次试验之前将蛋白煮沸变性、然后在SDS凝胶中每孔加入等量蛋白，根据目的蛋白分子量调整电泳时间和电压，电泳结束后转膜，将PVDF膜置于 $5 \%$ 脱脂牛奶中封闭 $^ { \textrm { 1 h } }$ 。根据抗体说明书配置一抗浓度，然后将膜封闭于含有各种抗体的溶液中， $4 ^ { \circ } \mathrm { C }$ 摇床过夜。次日PBST洗膜3次，然后常温封闭相应二抗 $^ { \mathrm { ~ 1 ~ h ~ } }$ 再次用PBST洗涤3次，最后一次用PBS洗涤，洗涤时间均为 $1 5 \mathrm { m i n }$ 。最后利用成像系统对结果图像进行采集，并对数据进行分析。
+
+# 1.6统计学分析
+
+所有数据以均数 $\cdot \pm \mathrm { \lambda }$ 标准差表示，组间均数比较采用单因素方差分析或 $\mathbf { \Phi } _ { t }$ 检验。取 $P { < } 0 . 0 5$ 为差异具有统计学意义，本实验数据用SPSS17.0统计软件进行分析处理。
+
+# 2结果
+
+# 2.1雌激素对MHCC97H肝癌细胞迁移的影响
+
+MHCC97H肝癌细胞具有较强的迁移能力，我们实验结果显示在划痕 $2 4 \mathrm { h }$ 后MHCC97H肝癌细胞的划痕能够愈合 $5 0 \%$ 左右，但是在雌激素干预后，MHCC97H肝癌细胞划痕的愈合速度明显减慢，随着浓度的升高，这种作用变得更加明显(图1)。
+
+# 2.2雌激素对MHCC97H肝癌细胞侵袭的影响
+
+MHCC97H肝癌细胞的侵袭能力较强，但在雌激素干预后，MHCC97H肝癌细胞的侵袭能力受到明显抑制，穿过基质胶到达小室底端的肝癌细胞数量明显减少，随着雌激素浓度的增加，穿过基质胶到达小室底端的MHCC97H肝癌细胞的数目逐渐减少， $0 . 1 \ \mu \mathrm { m o l / L }$ 和$1 \ \mu \mathrm { m o l / L }$ 浓度组MHCC97H肝癌细胞穿过基质胶到达小室底端的细胞数目，分别为对照组的 $( 6 8 . 9 9 \pm 1 5 . 7 4 ) \%$ 和 $( 3 4 . 2 8 { \pm } 8 . 1 7 ) \% ( P { < } 0 . 0 5 )$ U
+
+# 2.3雌激素对MHCC97H肝癌细胞中MMP-2和MMP-9表达的影响
+
+MMP-2和MMP-9在肝癌的侵袭转移过程中发挥重要作用。在雌激素干预后，MHCC97H肝癌细胞中，MMP-2和MMP-9的蛋白表达水平明显降低，当浓度达到 $1 \mu \mathrm { m o l / L }$ 时，差异具有统计学意义 $( P { < } 0 . 0 5 )$ 0
+
+# 2.4雌激素对MHCC97H肝癌细胞中AKT信号通路活性的影响
+
+AKT信号通路能够通过调节MMP-2和MMP-9等的表达与活性，调节肿瘤细胞的侵袭转移，而AKT的磷酸化水平能够反映AKT信号通路的活性。我们的结果显示，在雌激素作用后AKT的磷酸化水平明显降低，当浓度达到 $1 \ \mu \mathrm { m o l / L }$ 时，磷酸化水平降低为对照组的$( 9 0 \pm 2 ) \%$ ，差异有统计学意义 $( P { < } 0 . 0 5 )$ 。
+
+![](images/5fc8316d22d6b8fbd74525d5cd85bcacf10ae7486e22ea97ebc25192de75813b.jpg)  
+图1雌激素干预对MHCC97H细胞划痕愈合的影响
+
+![](images/4e5dd7a1e93faf33dc6cf9c032d51b64cb465097e00409bc227a2c5aba843708.jpg)  
+1 μmol/L
+
+Fig.1 Effect of estrogen on wound healing of MHCC97H cells (Original magnification: $\times$ 20).A:Migration of MHCC97H cells after estrogen treatment; B:Compared with the control cells，estrogen-treated MHCC97H cellsshowedsignificantlydecreased migration distance. $^ { * } P { < } 0 . 0 5$
+
+心 福 赶
+
+![](images/c9923c5aebec5bb9fb525527f0635b406304b242193d626f49c36f2ccd2ccab6.jpg)  
+图2雌激素对MHCC97H细胞侵袭转移能力的影响 Fig.2Inhibitory effect of estrogen on invasion of MHCC97H cells.A: Cells penetrating the matrigel to arrive at the bottom of the chamber (× 40O);B: Percentage of cells reaching the bottom of the chamber in different groups. $^ { * } P { < } 0 . 0 5$
+
+![](images/653ab30b1dc134ff85a2069d75c88989108109ed558b41af28f585b69cc5d98b.jpg)  
+图3雌激素对MHCC97H细胞中MMP-2和MMP-9蛋白表达水平的影响 Fig.3Inhibitory effectofestrogen on expressionsofMMP-2andMMP-9 proteins inMHCC97Hcels.A: Westernblottingof MMP-2 and MMP-9incells treated with estrogen; B: Relative expression level of MMP-2 and MMP-9. $^ { * } P { < } 0 . 0 5$ Us control.
+
+![](images/5120305030bd385e9b16e91e76323f42cee64dcf35981bd0f72dbdc6165dd27e.jpg)  
+图4雌激素对AKT信号通路活性的影响  
+Fig.4Effectof estrogen onactivityofAKTsignal pathway.A: Western bloting of protein expressionsof p-AKTincels treated with estrogen; B: Relative expression of p-AKT. $^ { * } P { < } 0 . 0 5$ Us control.
+
+# 3讨论
+
+肝细胞癌恶性程度较高且治疗选择有限，流行病学研究发现HCC在男性中的发病率远高于女性，且预后较差[1-2.8.18]。男性患者中慢性肝病发展为肝硬化的进程也较为迅速，且肝硬化导致的肝癌多发生于男性和绝经后女性患者[19]。进一步研究显示雌激素可抑制炎症诱导的HCC的发生，从而降低女性患者发生HCC风险，通过抑制NF-KB活性控制肿瘤生长[3.6.8]。这些研究结果提示，雌激素在HCC的发生发展过程中发挥重要作用。
+
+肝细胞癌的发生发展是多种因素共同作用的结果，累及到多个信号通路包括STAT3,NF-KB，Wnt/$\beta \mathrm { . }$ catenin,JNK等信号通路[3.6.8.0-22]。肿瘤细胞的侵袭转移过程也极为复杂，许多分子参与其中。在这个过程中肿瘤细胞需要从原发部位脱离，经过诸多环节最终到达转移位点。肿瘤细胞完成这一过程，需要获得特别的性能，这些新特性的获得能够帮助它们从原发肿瘤脱离、迁移进入周围组织、进入循环系统、到达远处并最终在到达部位形成新的肿瘤病灶。MMPs是促使肿瘤细胞完成侵袭转移过程的关键性分子，其中MMP-2和MMP-9与HCC的发生发展及预后密切相关[1-12]。AKT信号通路在HCC发生发展过程中发挥重要作用，该通路可通过调节MMP-9的表达抑制肝癌细胞侵袭转移[17]研究还发现PTEN能够通过调节AKT信号通路进一步调节MMP-2和MMP-9的表达,抑制HCC的侵袭转移[23]。此外，在乳腺癌相关的研究中显示，雌激素能够通过调节AKT信号通路的活性，发挥其在乳腺癌发生发展中的作用[24-25]。雌激素对肝癌细胞侵袭转移的影响是否与AKT信号通路活性有关尚未见有文献报道。因此，我们假设雌激素有可能通过调节AKT信号通路活性抑制肝癌细胞侵袭转移。
+
+已有文献报道17-β雌二醇能够抑制心肌细胞中MMP-9的表达[26,同时临床研究也显示肝癌组织中高表达MMP-9与肿瘤的侵袭转移有关，伴有门静脉癌栓形成HCC患者MMP-9的表达水平明显高于不伴有门静脉转移的HCC患者6。我们的结果显示雌激素可抑制MHCC97H肝癌细胞的迁移和侵袭转移能力，且随着雌激素浓度的增加抑制作用增强，这些结果进一步支持雌激素对HCC发生发展的保护作用，与以前报道的文献一致[36,8]。我们的结果还显示雌激素干预后，MHCC97H肝癌细胞MMP-2和MMP-9的蛋白表达水平明显降低，伴随有AKT磷酸化水平的明显降低。这些结果证实了我们的假设，支持雌激素抑制肝癌的发生发展，至少部分通过调节AKT信号通路活性。
+
+综上所述，我们的研究存在一些局限性，如选择单一的肝癌细胞株进行体外实验,仅有2个雌激素干预浓度，没有动物实验，没有肝癌患者的临床分期和预后的相关研究结果等。但是，我们的研究结果提示雌激素能够有效抑制MHCC97H肝癌细胞的侵袭转移，其可能部分通过调节AKT信号通路的活性进一步调节MMP-2和MMP-9的表达，这有待进一步的研究。
+
+# 参考文献：
+
+[1]Chen W, Zheng R,Baade PD,et al. Cancer statistics in China,2015 [J].CA Cancer J Clin,2016, 66(2): 115-32.   
+[2]Li T,Qin LX,Gong X,et al. Clinical characteristics,outcome,and risk factors for early and late intrahepatic recurrence of female patients after curative resection of hepatocellular carcinoma [J]. Surgery,2014,156(3): 651-60.   
+[3]Naugler WE,Sakurai T,Kim S,et al.Gender disparity in liver cancer due to sex differences in MyD88-dependent IL-6 production [J]. Science,2007,317(5834): 121-4.   
+[4]王永仓,许戈良,英卫东,等.生理性雌激素对大鼠肝癌生成的保护作 用[J].中华实验外科杂志,2011,28(7):1105-6.   
+[5]El MahdyKorah T,Abd Elfatah Badr E,Mohamed Emara M,et al. Relation between sex hormones and hepatocellular carcinoma [J]. Andrologia,2016,48(9): 948-55.   
+[6]Sheng ML,Xu GL, Zhang CH, et al. Aberrant estrogen receptor alphaexpressioncorrelateswithhepatocellularcarcinoma metastasis and its mechanisms [J].Hepatogastroenterology,2014, 61(129): 146-50.   
+[7]Kim JH,Choi YK,Byun JK,et al.Estrogen-related receptor $\gamma$ is upregulated in liver cancer and its inhibition suppresses liver cancer cell proliferation via induction of p21 and p27[J].Exp Mol Med, 2016,48: e213.   
+[8]Xu HW,Wei YN,Zhang Y,et al. Oestrogen attenuates tumour progression in hepatocellular carcinoma[J]. JPathol, 2012, 228(2): 216-29.   
+[9］吴荣寿,邬林泉,李科浩,等.沉默干扰素诱导跨膜蛋白3可抑制肝癌 细胞HepG2增殖和侵袭[J].南方医科大学学报,2016,36(2):244-9.   
+[10]陶 颖,陈 娟.沉默信息调节因子3对肝癌细胞增殖的影响[J].南方 医科大学学报,2016,36(2):195-9.   
+[11] Asha Nair S,Karunagaran D,Nair MB,et al. Changes in matrix metalloproteinases and their endogenous inhibitors during tumor progression in the uterine cervix [J].JCancer Res Clin Oncol, 2003, 129(2): 123-31.   
+[12] Chen KL, Zhang S,Ji YY,et al. Baicalein inhibits the invasion and metastaticcapabilitiesof hepatocellular carcinoma cellsvia down-regulation of the ERK pathway [J].PLoS One,2013,8(9): e72927.   
+[13] Sui Y, Zheng X, Zhao D. Rab31 promoted hepatocellular carcinoma (HCC) progression via inhibition of cell apoptosis induced by PI3K/ AKT/Bcl-2/BAX pathway[J]. Tumour Biol,2015,36(11): 8661-70.   
+[14]Gedaly R,Angulo P,Hundley J,et al. PKI-587 and sorafenib targetingPI3K/AKT/mTORandRas/Raf/MAPKpathways synergistically inhibit HCC cell proliferation[J]. J Surg Res,2012, 176(2): 542-8.   
+[15] Ma S,Lee TK, Zheng BJ, et al. $\mathrm { C D } 1 3 3 + \mathrm { H C C }$ cancer stem cells confer chemoresistance by preferential expression of the Akt/PKB survival pathway[J]. Oncogene, 2008,27(12): 1749-58.   
+[16]Carr BI,Wang Z,Wang M,et al. c-Met-Akt pathway-mediated enhancement of inhibitory c-Raf phosphorylation is involved in vitamin K1 and sorafenib synergy on HCC growth inhibition[J]. Cancer Biol Ther,2011,12(6): 531-8.   
+[17] Chen JS,Wang Q,Fu XH, et al. Involvement of PI3K/PTEN/AKT/ mTOR pathway in invasion and metastasis in hepatocellular carcinoma: Association with MMP-9[J]. Hepatol Res,2009,39(2): 177-86.   
+[18]Singal AG,El-Serag HB.Hepatocelularcarcinoma from epidemiology toprevention: translating knowledge into practice[J].Clin Gastroenterol Hepatol, 2015,13(12): 2140-51.   
+[19] ShimizuI Impactofoestrogens onthe progressionof liverdisease [J].Liver Int,2003,23(1): 63-9.   
+[20]谢海亮,蒋晗,吴福生. $\mathrm { { W n t / \beta } }$ -catenin信号通路在肝细胞癌中的促进 作用[J].南方医科大学学报,2014,34(6):913-6.   
+[21] Maeda S,Kamata H,Luo JL,et al. IKKbeta couples hepatocyte death to cytokine-driven compensatory proliferation that promotes chemical hepatocarcinogenesis [J]. Cell,2005,121(7): 977-90.   
+[22] Sakurai T, Maeda S,Chang L,et al. Loss of hepatic NF-kappa B activity enhances chemical hepatocarcinogenesis through sustained c-Jun N-terminal kinase 1 activation [J]. Proc Natl Acad Sci USA, 2006,103(28): 10544-51.   
+[23]Tian T,Nan KJ,Guo H,et al.PTEN inhibits the migration and invasion of HepG2 cells by coordinately decreasing MMP expression via the PI3K/Akt pathway[J]. Oncol Rep,2010,23(6): 1593-600.   
+[24] Ray S, Darbre PD. Crosstalk with insulin and dependence on PI3K/ Akt/mTOR rather than MAPK pathways in upregulation of basal growth following long-term oestrogen deprivation in three human breast cancer cellines[J].Horm Mol Biol Clin Investig,2011,5 (2): 53-65.   
+[25] Seow HF,Yip WK,Loh HW,et al. Immunohistochemical detection of phospho-Akt， phospho-BAD，HER2 and oestrogen receptors alpha and beta in Malaysian breast cancer patients [J].Pathol Oncol Res, 2010,16(2): 239-48.   
+[26] Lee JY,Choi HY,Na WH,et al.17β-estradiol inhibits MMP-9 and SUR1/TrpM4 expression and activation and thereby attenuates BSCB disruption/hemorrhage after spinal cord injury in male rats [J].Endocrinology,2015,156(5): 1838-50. (纻辑摇)

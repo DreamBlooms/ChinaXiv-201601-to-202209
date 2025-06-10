@@ -1,0 +1,238 @@
+# 评论文本对酒店满意度的影响：基于情感分析的方法
+
+吴维芳　高宝俊　杨海霞 孙含琳(武汉大学经济与管理学院 武汉 430072)
+
+摘要：【目的】通过对评论文本进行文本分析，研究影响酒店用户满意度的因素，为酒店管理者提供建议。【方法】利用Word2Vec对Tripadvisor.com酒店评论进行特征抽取和降维，结合情感分析技术，提取每类特征对应的情感，构建计量经济模型分析酒店特征评价与用户满意度的关系。【结果】研究结果表明:(1)评论文本的情感表达越积极满意度越高，但这种影响并非线性的，而是呈现"U"形的;(2)用户评论文本中提到的特征类别数越多，该用户越有可能倾向不满意;(3)消费者对豪华型酒店和经济型酒店特征类别的关注存在显著差异，消费者对前者更关注员工服务，对后者更注重清洁度;(4)对豪华型酒店，消费者满意度受到网络(Intemet)这个特征维度的显著影响，而对于经济型酒店该维度的影响则不显著。【局限】样本的选择不够全面，未来可爬取多个城市数据进行更全面分析。【结论】从评论文本角度建立了酒店特征与消费者满意度的联系，为酒店在线口碑研究提供了理论依据。
+
+关键词:评论文本酒店特征情感分析消费者满意度分类号：F59 G350
+
+# 1引言
+
+随着Web2.0时代的到来和电子商务的迅猛发展在社交媒体网站上用户生成内容(UserGeneratedContent)已经成为消费者和商家的主要信息来源。在线评论不仅能帮助潜在消费者做出购买决策，还能帮助相关管理者提高其产品或服务的质量。很多研究表明在线评论影响销量和消费者购买决策[1-2]，如在线影评与票房收入有显著相关关系，在线书评对书籍销量有积极影响。而在线评论不仅有数值属性[3-4](NumericalAttribute)，如：有用性投票、星级评分、评论数量；还有文本属性[5](Text Attribute)，如：可读性、评论文本字数、客观性、可信度等，这些因素均可能对消费者购买意愿产生影响。然而很多学者研究对象是在线评论的数值评分[6-7]，只有少量学者研究了文本内容对在线评论的影响[8-9]。
+
+相关经济学和市场理论[10]证明产品和服务有多维属性，由于消费者的偏好不同，对酒店功能和服务的预期也不同。即用户参考酒店评论进行决策时，会依其偏好，只关注或更加关注某些方面的特征。其中文献[9]考虑了多维特征对酒店经济效应的影响，也有学者尝试对产品和服务的特征赋予不同的重要程度。因此只考虑数值评分不足以对用户生成内容得到全面和精确的评估。
+
+考虑到用户生成的内容一一即文本评论包含更多更可靠的信息，这些信息在旅游网站的星级评分中无法反映出来，此外用户关心的一些特征维度可能未体现在网站的定量打分体系中，因此本文基于在线评论文本进行研究。通过对消费者的评论文本进行文本挖掘，从用户生成内容得到顾客真正关心的维度，更能反映对酒店的真实意见。鉴于此，本文结合自然语言处理、机器学习和情感分析技术过滤保留在线评论中最有价值的信息。利用Word2Vec对爬取的所有酒店评论文本进行skip-gram训练，对关键词的语义距离进行聚类分析，然后把每条评论分成一个个评价单元，用机器学习方法对评价单元进行训练，得到每个评价单元属于某一主题特征；接着对其进行情感倾向和强度识别分析[11]，以此得到每个评价单元的特征对应的情感分数；最后汇总每条评论中提到各类主题特征的情感分数，构建计量经济模型，分析酒店特征的情感倾向与消费者满意度的关系，能够识别酒店特征的重要程度；此外，按照酒店星级，将酒店分为豪华型酒店和经济型酒店，分析消费者对不同档次酒店特征的偏好。
+
+# 2相关研究
+
+# 2.1 酒店特征对消费者满意度的影响
+
+基于在线评论文本研究酒店特征对消费者满意度的影响程度，现有研究主要采用以下方法：领域专家意见、语法研究方法、以及模型分析法。
+
+最直观的方法是根据相关领域专家的认知意见对酒店特征进行识别并评价，但是专家意见无法代表广大顾客的真实体验，另外专家意见带有很强的主观性难免会受到诸多偏见的影响[12-13]。语法研究方法是指:被越多的形容词修饰的特征词，可推测这些特征越重要。通过句法依存关系，确定修饰特征词的形容词个数，然后聚类形容词识别特征的重要度[14-15]。文献[16]利用多变量回归识别“特征-观点对"的重要性，将其作为自变量，星级评分作为因变量，计算每个特征的重要度。但这个回归方法存在一定问题，因为有研究证明一星级评论比五星级评论往往能给用户带来更多的有用信息[2]。文献[17]采用计量模型研究特征的情感对消费者意愿的影响，但该方法在分析特征的情感时，只考虑情感极性，未考虑情感强度。文献[18]改善了文献[19]对在线评论意见挖掘的范式，对最常见名词运用一组过滤器，通过NLP技术自动识别产品特征属性，并发现特征属性的近义词。王伟等[20]对亚马逊386款数码相机的评论数据，结合情感分析和计量模型，分析用户购买意愿与产品特征评价的关系。本文借鉴王伟等[20]的思路，结合酒店特征情感和计量模型，分析消费者满意度与酒店特征评价的关系。
+
+# 2.2 情感分析
+
+情感分析作为当前自然语言处理领域中最为活跃的研究之一[21]，是指对在线评论文本进行情感分析,判断文本的情感极性是积极、消极还是中立，或识别用户的观点是"赞同"还是"反对”。该技术被广泛用于预测产品销量、政治投票、票房收入、股票波动等，如文献[22]运用评论对产品和商家进行排名，文献[23]将Twitter情感分析用于预测选举结果，文献[24-25]运用推特数据、电影评论以及博客文本进行情感分析，预测电影票房收人。情感分析涉及多种技术，如自然语言处理、信息抽取、机器学习等。特征情感预测模型代表工作是Liu等[19的研究，他们首先识别出评论文本中的产品特征属性，然后针对每个特征属性，得到文本中的正向情感和负向情感内容，最后输出特征属性及其对应的情感极性。Li等[26]和Blair-Goldensohn等[27]为当地服务行业如餐馆和酒店构建了意见总结系统，通过频繁名词方法挖掘服务相关的特征如Service、Value，然后汇总每个特征的情感分数。本文情感分析方法借鉴前人采用基于情感词典的方法计算情感指标[28-31]，得到特征对应的情感分数，旨在为后面计量模型作进一步分析。
+
+# 3 研究方法
+
+本文研究包括文本语料预处理、Word2Vec、基于监督学习方法的特征分类、情感分析和有序逻辑回归模型。笔者采用Word2Vec工具，将词映射到K维向量空间，向量空间上的相似度可以用来表示文本语义上的相似度[32]
+
+首先根据Word2Vec得到评论语料可以分为7大类特征维度，接着进行特征识别，即得到每个短分句所属的特征类别，然后通过情感分析技术计算其情感分数，最后归类汇总是指根据评论(Reviewid)汇总每条评论在不同特征类别的情感分数。在特征识别阶段，主要根据特征词进行人工标记，但同时结合领域知识判断属于哪个大类，“thefoodwasgreat"由每个类别出现的特征词可标记为"Food"维度，而存在少量短分句表意模糊需要结合酒店领域知识判断，如"Ithink theroomisfairlyclean"则标记为"Cleanliness"维度。本文研究框架如图1所示。
+
+# 3.1数据
+
+2013年10月1日，笔者利用火车头采集器LocoySpider (http://www.locoy.com)采集 Tripadvisor.com在2012年1月1日-2013年9月30日LasVegas城市所有酒店的在线评论，Tripadvisor.com 在线评论详情页如图2所示，采集包括在Location、Rooms、Value、Cleanliness、SleepQuality等5个维度的星级打分(OriginalMultipleRating)，评论的ID、总体评分(Rating)，以及评论的标题、文本(Review Text)。经过清洗得到217518条英文酒店评论，针对LasVegas 的所有在线评论(217518条评论，约4000万个单词)进行Word2Vec分析，训练得到每个词的向量。在计量模型中随机选取5124条评论，其中豪华型酒店2625条，经济型酒店2499条。
+
+![](images/d69e1ad677be4bcaea40aa84960d23c71e1417c27b225f304d551018781348ff.jpg)  
+图1本文研究框架
+
+Rating "Solid valueoff the OOOOOReviewed November 18,2012 Reviewtext flipper95 One night at this time share hotel, overalla good stayand Twouldnt New York City, New York hesitate to return. Level Contributor The place is new, the room (a mini suite) was very comfortable. Like   
+322 reviews another HGV location I stayed at, the bedding and furnishings, while absolutely fine, were not the same quality youd get at a Hilton Hotel, sd   
+207 hotel reviews just be aware for your inner prince/princess.   
+126 helpful votes This property is a non casino and is smoke free, very family friendly apparently as there were allsorts of game rooms and amenities for families. I heard the little one in the adjacent room a few times as well Reviewer'sinformation sound insulation is not the best but wasnt a big problem for me). The biggest draw back of this property is that its pretty far from the strip though you can go to second tier casino next door (the original Las Vegas Hiiton) or hop the monorail. the heart of the strip is a few miles away however so its best to have a car or be prepared to go by taxi, bus etc. Stayed November 2012, traveled solo Original multiple rating Oooooalue 00000 OoOOOocation OOOOCleanliness ooOoOleepQuality
+
+# 3.2 预处理
+
+对于英文文本语料，处理步骤如下。
+
+(1）单词词根化、统一小写;(2）去停用词，如连接词、介词、人称代词"and,in,you”等;(3）移除与情感、酒店特征无关的单词，如酒店评论文本中的"hotel,any"等。
+
+# 3.3基于Word2Vec的酒店特征词聚类
+
+(1)Duan 等[33]提取频繁出现的名词作为酒店候选特征，本文通过对文本语料分析初步得到酒店评论中的高频名词，词云图如图3所示，发现用户对早餐(breakfast)、自助餐(buffet)、清洁度(clean)、无线网络(wireless)、房间(room)、价值(worth)、位置(location)等比较关心。
+
+mee helpprice Clean beuabreakfast friend wireless val Worthdirti continent 店 smell carpet ac locat view ree money comfort good denmi smalldesk courteous quickratepolit high dlay neat front varieti cheap
+
+(2）除去高频词中的噪音，根据文献[18]过滤高频词噪音的方法，采用极大似然比测试每一个已识别的名词，计算其在相关类别评论(如酒店评论)和非相关类别评论(如书籍评论)的相对频率差异。似然比较低的名词被认为是不相关的，过滤掉。由于似然比是渐进分布，阈值设置高于 $\mathrm { p } { = } . 0 5$ 水平的名词作为候选产品特征，同时人工编译一组不相关的名词，比如命名实体hotel、酒店品牌Hilton，然后从候选名词中去掉这些不相关的名词。最后一共得到55个酒店特征名词。
+
+(3）采用Word2Vec工具对包含40953696个词的酒店评论文本训练(threads $= 3$ ，vectors $= 1 0 0$ ，window $_ { \scriptscriptstyle { r = 1 2 } }$ ）得到每个词的词向量，然后抽取步骤(2)中 55个酒店特征名词向量表示，将词向量之间的欧几里得距离定义为词之间的相似度，通过K-means聚类算法将获取的词向量进行聚类。
+
+![](images/f4346e7c37a61f48d139b27b5cbe9bc6b18946d4f4142efdc5be708bf11e1b97.jpg)  
+图2Tripadvisor.com 在线评论  
+图3评论语料高频名词词云图  
+图4Silhouette Coefficient 结果
+
+采用轮廓系数(Silhouette Coefficient)考察簇的分离情况和簇的紧凑情况以评估聚类质量。将聚类类别K设置为从2到15，重复执行50次，得到结果如图4和图5所示。
+
+![](images/e6083743d75cc8f16acea53e6169846a3953b6d79b78a4c7c5b09a9c79b4a6e4.jpg)  
+图5最优K聚类效果图 $( \mathrm { K } { = } 7 )$ （204号  
+图6酒店特征聚类结果
+
+从图4可以明显看到在 $\scriptstyle 1 = 7$ 时达到顶峰，根据SilhouetteCoefficient的定义，值较大时的K较优。最后将数据从100维降低到2维平面，并绘制聚类效果。通过文本聚类分析，可以将酒店特征分为7类：Food（餐饮）、Facility（设施）、Staff（员工服务）、Cleanliness(清洁度)、Location(位置)、Value(物有所值)、Internet(网络)。聚类结果如图6所示。
+
+6   
+5- Value Internet Staff Food Lodation...Cleanliness.....F-acility   
+2   
+1- pp TP dist hclust (\*,“complete")
+
+# 3.4基于机器学习的特征分类
+
+与本文类似的文献[16,33]，前者将酒店评论分成句子，然后运用NaiveBayes选择名词作为训练特征将每个句子划分到 5 个维度，其准确率(Accuracy)达到$68 \%$ ；后者将餐馆评论划分成句子，然后运用SupportVectorMachine将句子分到食品、服务、价格、氛围、叙事类和其他6个维度，其中食物是准确率(Precision)最高维度，达到 $8 1 . 4 3 \%$ ，叙事类最低为 $4 9 . 1 5 \%$ ，平均准确率为 $70 . 3 4 \%$ ○
+
+根据前一步，已经将顾客关注的特征分为Food(餐饮)、Facility(设施)、Staff(员工服务)、Cleanliness(清洁度)、Location(位置)、Value(物有所值)、Internet(网络)等7大类，借鉴文献[16,33]，首先根据标点符号“，、、！、?"等将每条评论划分成短分句，然后去掉完全没有出现积极或消极情感词的客观句，如"wewentup to theroom"，接着去掉未包含酒店特征词的句子,如"other complaintsare minor”。最后得到约10万条意见单元，其平均字数为6。评价单元示例如表1所示。
+
+表1评价单元示例  
+
+<html><body><table><tr><td>reviewid</td><td>Opinion Unit</td><td>Word_count</td><td>Label</td></tr><tr><td>155764734</td><td>the rooms were a great size and layout</td><td>8</td><td>Facility</td></tr><tr><td>155344163</td><td>it is fairly clean</td><td>4</td><td>Cleanliness</td></tr><tr><td>117415795</td><td>the food was great</td><td>2</td><td>Food</td></tr><tr><td>117474538</td><td>the location at the cosmo is great</td><td>7</td><td>Location</td></tr><tr><td>117490549</td><td>food amazing</td><td>2</td><td>Food</td></tr><tr><td>118435844</td><td>great value for the money</td><td>5</td><td>Value</td></tr><tr><td>118683963</td><td>internet is free and fast</td><td>5</td><td>Internet</td></tr><tr><td>143482015</td><td>staff was very friendly and helpful</td><td>6</td><td>Staff</td></tr></table></body></html>
+
+使用机器学习方法，旨在得到每个短句所属的特征类别。由于不确定哪种分类器更适合本文数据集，故分别使用MultinomialNaive Bayes 和 Support VectorMachines两种分类器进行分类。结果如表2所示，表明SVM更适合本文的特征分类，每个类别的分类准确率(Precision)均高于 Multinomial Naive Bayes，且平均准确率为 $80 \%$ ，比文献[16,33]分类效果好，故后续采用SVM对所有评价单元进行分类。
+
+表2基于机器学习的特征分类效果比较  
+
+<html><body><table><tr><td rowspan="2">特征</td><td colspan="2">Naive Bayes</td><td colspan="2"> SVM</td></tr><tr><td>Precision</td><td>Recall</td><td>Precision</td><td>Recall</td></tr><tr><td>Cleanliness</td><td>74%</td><td>78%</td><td>75%</td><td>77%</td></tr><tr><td>Facility</td><td>78%</td><td>64%</td><td>82%</td><td>82%</td></tr><tr><td>Food</td><td>87%</td><td>83%</td><td>86%</td><td>83%</td></tr><tr><td>Internet</td><td>73%</td><td>88%</td><td>74%</td><td>86%</td></tr><tr><td>Location</td><td>65%</td><td>84%</td><td>69%</td><td>85%</td></tr><tr><td>Staff</td><td>88%</td><td>85%</td><td>87%</td><td>87%</td></tr><tr><td>Value</td><td>80%</td><td>80%</td><td>80%</td><td>81%</td></tr><tr><td>Total</td><td>Accuracy</td><td>79%</td><td>Accuracy</td><td>80%</td></tr></table></body></html>
+
+# 3.5基于词典的情感分析
+
+运用基于情感词典方法计算每个短句的情感。在情感分数的计算中，情感词典的选择至关重要，因为同一情感词在不同的场景下的意思表达可能不一致[28]。本文选择的情感词典来自于文献[19]。以往研究中通常只标记情感词和短语，并未考虑到情感转换器，而这种方法并不科学。本文借鉴Ding等[29基于语料的方法,考虑了情感转换器，也称效价转换器[30-31]，是由一些可以改变情感倾向的词和短语构成。典型的否定转换器，如：不(not)，决不(never)，没有(none)，没有人(nobody)，没有哪个地方(nowhere)，也不(neither)，以及不能(cannot)等。“这个酒店的位置非常棒 $[ + 1 ] ^ { , }$ ，由于否定词"不”，将句子变成"这个酒店的位置不是非常棒[-1]”。这一步对计算所得的情感分数，使用意见加总器计算出每条评论里每个短句的情感分数。假设句子 $s _ { i }$ 含有一系列情感转换词 $\{ { W _ { i 1 } } ^ { n } , { W _ { i 2 } } ^ { n } , \cdots \quad { W _ { i j } } ^ { n } \}$ ，以及一系列情感极性词 $\{ W _ { i 1 } ^ { ~ p } , W _ { i 2 } ^ { ~ p } , \cdots W _ { i j } ^ { ~ p } \}$ 。对于句子 $s _ { i }$ 中的特征Senti由下面加总函数决定:
+
+$$
+\begin{array} { c } { { W _ { n e g } = \sum W _ { i j } ^ { ~ n } \mathrm { m o d } 2 } } \\ { { C _ { i } = \sum W _ { i j } ^ { ~ p } ( - 1 ) ^ { 2 + W _ { n e g } } } } \end{array}
+$$
+
+$$
+S e n t i _ { i } = { C _ { i } } / { \sqrt { w o r d \_ c o u n t _ { i } } }
+$$
+
+由公式(1)至公式(3)可以得到每个评价单元的情感分数，文献[16，33]指出每个评价单元非常短小，所得情感分数就是消费者对相应酒店特征的意见看法。最后，根据每条评论，汇总每类特征的情感分数，得到评论特征情感矩阵，由此得到每条评论中对Food（餐饮）、Facility（设施）、Staff（员工服务）、Cleanliness(清洁度)、Location(位置)、Value（物有所值)、Intermet(网络)这7个维度的情感分数。
+
+# 4实验与结果分析
+
+本文基于在线评论文本进行研究，之所以不选择网站提供的数值型星级打分而是选择文本型的评论内容，是因为笔者认为用户生成的内容一一即文本评论包含更多更可靠的信息，这些信息在旅游网站的星级评分中是无法反应出来的，另外用户关心的一些特征维度可能在网站的定量打分体系中未体现。由于本研究的因变量是有序变量，其满意度水平从1到5依次增大，代表满意度由弱到强，因此选择有序逻辑回归(OrdinalLogistic Regression)方法建立回归模型[34]
+
+# 4.1模型变量的描述性统计分析
+
+从表3描述性统计结果分析，新维度下顾客对每个维度的情感表达有正有负，其中对设施(Facility)这个维度其最小值为-4.65，最大值为11.1，不管是从消极情感的强度还是积极情感的强度，其绝对值均是7个维度中最大的，表明情感最强烈；其次是人员服务(Staff)这个维度，其最小值为-4.02，最大值为8.17，情感强烈程度仅次于设施(Facility)维度。而对于原始维度Location、Rooms、Value、Cleanliness、SleepQuality,这些维度的打分从1到5，平均值比较接近，维度间可能存在较强相关性，而且这些数据都存在一定的缺失，数据并不完整。
+
+# 4.2原始与重新生成的酒店特征维度相关系数对比分析
+
+对选取的5214条评论进行情感分析，对新生成的各个维度进行相关性考察，如表4所示。
+
+表5表明网站原始的5个维度之间相关系数是显著的，说明彼此是相关的。原始5个维度相关系数最小的为0.43，最大的达到0.73。这种高度的相关性及显著性说明这个评价模型在维度的划分上不够合理，存在一定的问题，不能够真实准确地反映顾客对酒店某些方面的实际态度。而新维度两两之间相关系数比较小，最大也只有0.22。除了网络(Internet)与位置(Location)相关系数为负数，其他维度之间的相关系数均为正数，说明消费者对某个维度感受会受到其他维度的正向影响。因此，为了研究不同特征对酒店总体满意度的影响，利用新维度下的数据是合理的。
+
+表3变量的描述性统计分析结果  
+
+<html><body><table><tr><td>Statistic</td><td>N</td><td>Mean St.Dev. Min</td><td>Pctl (25)</td><td>Median</td><td></td><td>Pctl Max (75)</td></tr><tr><td>food_senti</td><td>5124</td><td>0.21 0.44</td><td>-1.64</td><td>0</td><td>0</td><td>0.39</td><td>3.05</td></tr><tr><td>facilities_senti</td><td>5124</td><td>0.6 1.05</td><td>-4.65</td><td>0</td><td>0.41</td><td>1.12</td><td>11.1</td></tr><tr><td>value_senti</td><td>5124</td><td>0.11 0.45</td><td>-2.52</td><td>0</td><td>0</td><td>0.22</td><td>3.78</td></tr><tr><td>staff_senti</td><td>5124</td><td>0.35 0.73</td><td>-4.02</td><td>0</td><td>0.12</td><td>0.71</td><td>8.17</td></tr><tr><td>cleanliness_senti</td><td>5124</td><td>0.2 0.56</td><td>-2.8</td><td>0</td><td>0</td><td>0.41</td><td>4.16</td></tr><tr><td>location_senti</td><td>5124</td><td>0.21 0.38</td><td>-1.45</td><td>0</td><td>0</td><td>0.38</td><td>2.77</td></tr><tr><td>internet_senti</td><td>5124</td><td>0.05 0.28</td><td>-1.74</td><td>0</td><td>0</td><td>0</td><td>4.49</td></tr><tr><td>location</td><td>4310</td><td>4.31 0.96</td><td>1</td><td>3</td><td>4</td><td>5</td><td>5</td></tr><tr><td>rooms</td><td>4356</td><td>3.96 1.17</td><td>1</td><td>3</td><td>4</td><td>5</td><td>5</td></tr><tr><td>value</td><td>4862</td><td>3.87 1.21</td><td>1</td><td>3</td><td>4</td><td>5</td><td>5</td></tr><tr><td>cleanliness</td><td>4842</td><td>3.94 1.21</td><td>1</td><td>3</td><td>4</td><td>5</td><td>5</td></tr><tr><td>sleepquality</td><td>4074</td><td>4.03 1.18</td><td>1</td><td>3</td><td>4</td><td>5</td><td>5</td></tr><tr><td>ave_sentiment</td><td>5124</td><td>0.24 0.26</td><td>-1.53</td><td>0.08</td><td>0.23</td><td>0.39</td><td>2.29</td></tr><tr><td>AvgRating</td><td>5124</td><td>3.78 1.22</td><td>1</td><td>3</td><td>4</td><td>5</td><td>5</td></tr></table></body></html>
+
+表4新维度下的相关系数表  
+
+<html><body><table><tr><td></td><td>Food Facilitity</td><td></td><td>Value</td><td> Staff</td><td>Clean</td><td>Location</td><td>Internet</td></tr><tr><td>Food</td><td>1</td><td>0.18</td><td>0.09</td><td>0.13</td><td>0.14</td><td>0.09</td><td>0.07</td></tr><tr><td>Facilitity</td><td></td><td>1</td><td>0.06</td><td>0.22</td><td>0.15</td><td>0.18</td><td>0.07</td></tr><tr><td>Value</td><td></td><td></td><td>1</td><td>0.10</td><td>0.13</td><td>0.04</td><td>0.11</td></tr><tr><td>Staff</td><td></td><td></td><td></td><td>1</td><td>0.16</td><td>0.12</td><td>0.08</td></tr><tr><td>Cleanliness</td><td></td><td></td><td></td><td></td><td>1</td><td>0.06</td><td>0.11</td></tr><tr><td>Location</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>-0.003*</td></tr><tr><td>Internet</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+表5原始维度的相关系数表  
+
+<html><body><table><tr><td></td><td>Location</td><td>Rooms</td><td>Value</td><td>Clean</td><td> SleepQuality</td></tr><tr><td>Location</td><td>1</td><td>0.61***</td><td>0.43**</td><td>0.49***</td><td>0.53***</td></tr><tr><td>Rooms</td><td></td><td>1</td><td>0.57***</td><td>0.73***</td><td>0.72***</td></tr><tr><td>Value</td><td></td><td></td><td>1</td><td>0.62***</td><td>0.61***</td></tr><tr><td>Cleanliness</td><td></td><td></td><td></td><td>1</td><td>0.65***</td></tr><tr><td>SleepQuality</td><td></td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+# 4.3酒店特征情感对满意度的影响
+
+对酒店特征的研究颇多，经典理论SERVQUAL模型[35往往问项过多、理论性太强，随着点评网站和旅游网站的兴起，传统问卷不再是获取数据的必经途径。有不少学者对酒店特征进行了相关研究，如Liu等[36对酒店清洁度、位置、房间、服务、睡眠质量、物有所值等维度进行研究；文献[33]研究酒店的服务、餐饮、设施、卫生、位置、价格等维度对酒店满意度的影响；熊伟等[37研究酒店的房间、网络、餐饮、选址等因素对酒店综合满意度的影响。文献[38]表明价值、房间和服务是顾客对酒店最关注的因素，而文献[37]指出消费者对不同档次的酒店偏好不同，豪华型酒店的消费者对网络要求严格，而经济型酒店的客人对牙膏、牙刷等基本清洁服务有比较高的要求。从整体上看，关于酒店满意度的研究已经比较深入，但资料数据主要是通过调查问卷或采集数值评分，未从用户生成的文本内容挖掘消费者的真实想法。针对此,本文对专业且大型的旅游点评网的网友评论进行整理分析，总结出消费者对酒店特征关注偏好以及其偏好评价对酒店满意度的影响，以期对酒店满意度研究提供一定参考。
+
+本文计量模型中，模型(1)将顾客总体满意度作为因变量，人员服务(staff_senti)、餐饮(food_senti)、清洁度（cleanliness_senti）、设施（facility_senti）、位置(location_senti)、价格(value_senti)作为影响总体满意度的自变量，并控制了酒店个体的固定效应。
+
+有研究表明，在不同档次的酒店中，顾客对不同档次酒店的体验和偏好不同[39]。为了考察顾客对不同档次酒店各维度的关注情况，笔者按照酒店星级将酒店分为豪华型和经济型：其中星级水平大于等于4的为豪华型酒店，星级水平小于等于3的为经济型酒店。模型(2)和模型(3)分别对豪华型和经济型数据进行回归和对比分析。
+
+从消费者在评论文本提到的特征类别数和总体情感表达进行研究，模型(4)以顾客总体满意度作为因变量，评论文本提到的特征类别数(Num_of_feature)、总体情感表达(ave_sentiment)以及总体情感强度(sentiment^2)作为自变量，回归输出结果如表6所示。
+
+表6回归模型结果  
+
+<html><body><table><tr><td colspan="5">Dependent variable: as.factor(AvgRating)</td></tr><tr><td></td><td colspan="4"></td></tr><tr><td></td><td>(1) 2.0906***</td><td>(2)</td><td>(3) 2.3932***</td><td>(4)</td></tr><tr><td>y≥2</td><td></td><td>1.8908***</td><td></td><td>2.1126***</td></tr><tr><td></td><td>-0.0571</td><td>(0.0747)</td><td>(0.0925)</td><td>(0.0600)</td></tr><tr><td>y≥3</td><td>1.0706***</td><td>0.8228***</td><td>1.3668***</td><td>0.9845***</td></tr><tr><td></td><td>-0.0438</td><td>(0.0589)</td><td>(0.0686)</td><td>(0.0457)</td></tr><tr><td>y≥4</td><td>-0.2140***</td><td>-0.7763***</td><td>0.3546***</td><td>-0.4444***</td></tr><tr><td></td><td>-0.0402 -1.6895***</td><td>(0.0577)</td><td>(0.0605)</td><td>(0.0429)</td></tr><tr><td>y≥5</td><td></td><td>-2.5997***</td><td>-0.9835***</td><td>-1.9997***</td></tr><tr><td>food_senti</td><td>-0.0456</td><td>(0.0735) 0.4529***</td><td>(0.0626)</td><td>(0.0494)</td></tr><tr><td></td><td>0.3006***</td><td></td><td>0.4552***</td><td></td></tr><tr><td></td><td>-0.0626</td><td>(0.0786) 0.5666***</td><td>(0.1131)</td><td></td></tr><tr><td>facility_senti</td><td>0.6049***</td><td></td><td>0.4389***</td><td></td></tr><tr><td></td><td>-0.0296</td><td>(0.0415) 0.5665***</td><td>(0.0440)</td><td></td></tr><tr><td>value_senti</td><td>0.3540***</td><td>(0.0724)</td><td>0.6579***</td><td></td></tr><tr><td>staff_senti</td><td>-0.0599 0.7608***</td><td>0.8931***</td><td>(0.1231)</td><td></td></tr><tr><td></td><td></td><td></td><td>0.7486***</td><td></td></tr><tr><td></td><td>-0.0424</td><td>(0.0592) 0.6457***</td><td>(0.0651)</td><td></td></tr><tr><td>cleanliness_senti</td><td>0.4665***</td><td></td><td>0.7906***</td><td></td></tr><tr><td>location_senti</td><td>-0.0499</td><td>(0.0604)</td><td>(0.1069)</td><td></td></tr><tr><td></td><td>0.5236***</td><td>0.4926***</td><td>0.3709**</td><td></td></tr><tr><td></td><td>-0.0731</td><td>(0.0984)</td><td>(0.1138)</td><td></td></tr><tr><td>internet_senti</td><td>0.0624</td><td>0.3743***</td><td>-0.1412</td><td></td></tr><tr><td></td><td>-0.0964</td><td>(0.1049)</td><td>(0.3502)</td><td></td></tr><tr><td>ave_sentiment</td><td></td><td></td><td></td><td>6.7401***</td></tr><tr><td></td><td></td><td></td><td></td><td>(0.1954)</td></tr><tr><td>sentiment^2</td><td></td><td></td><td></td><td>-3.7624***</td></tr><tr><td>Num_of_feature</td><td></td><td></td><td></td><td>(0.2259) -0.0802***</td></tr><tr><td></td><td></td><td></td><td></td><td>(0.0178)</td></tr><tr><td>Observations</td><td>5,124</td><td>2,625</td><td>2,499</td><td>5,124</td></tr><tr><td>R²</td><td>0.2571</td><td>0.3437</td><td>0.2087</td><td>0.3229</td></tr><tr><td>chi² (df = 7)</td><td></td><td>1424.3920***1037.0600*** 538.1301*** 1863.1670**</td><td></td><td></td></tr></table></body></html>
+
+(注： $\mathsf { \Pi } _ { \mathtt { p } < 0 . 1 } ^ { * }$ $\mathsf { \Pi } ^ { * * } \mathsf { p } ^ { < 0 . 0 5 }$ ;\*\*\*p<0.01)
+
+表6中模型的回归结果，模型(1)表明涉及设施(Facility)、人员服务(Staff)、位置(Location)、清洁度(Clean)、食物(Food)、价格(Value)等特征维度，消费者的满意度受到这些维度情感的正向影响，其中人员服务(Staff)特征维度的系数为(0.7608, $\mathsf { p } { = } { - } 0 . 0 4 2 4 )$ ，其优势比 OR(Odd Ratio)=2.139988；设施(Facility)这个特征维度的系数为(0.6049, $\mathrm { p } { = } { - } 0 . 0 2 9 6 \$ ，其优势比 $\mathrm { O R } =$ 1.831069。优势比表明自变量增加一个单位，变量对发生概率的影响程度。由上述系数表明人员服务明显比其他特征维度的优势比大，表明酒店提供的人员服务质量对顾客评分的影响最大，其次是设施。而其中网络(Internet)对满意度的影响不显著，可能是网络这个维度概念在酒店出现得比较晚，不如其他维度广为熟知，可能对满意度有一定影响但只有少数消费者有意识在评论中对该维度表达。
+
+通过模型(2)和模型(3)对比发现，对于豪华型酒店，人员服务(Staff)对消费者满意度影响最大，其系数为(0.8931, $\mathtt { p } { = } 0 . 0 5 9 2$ ， $\mathrm { O R } { = } 2 . 4 4 2 6 9$ ，而对于经济型酒店，虽然该维度对用户满意度影响很大，但其系数为(0.7486, $\scriptstyle \mathtt { p } = 0 . 0 6 5 1$ ， $\mathrm { O R } { = } 2 . 1 1 4 0 3 8$ ，表明人员服务对消费者满意度影响方面，经济型酒店低于豪华型酒店。对经济型酒店，最影响消费者满意度的是酒店的清洁程度(Cleanliness)，经济型酒店越干净整洁，顾客越容易满意。而且，网络(Internet)这个特征维度对不同档次酒店的满意度影响不同，对于豪华型酒店，网络覆盖程度、易用程度对消费者满意度有正向影响，可能选择豪华型酒店的消费者更多是商务出行的用户，由于办公需求，满意度明显受到网络好坏的影响。而对经济型酒店，网络特征维度对满意度则没有显著影响。
+
+对于模型(4)，顾客的极度满意情绪或不满情绪在评论文本中得到体现，故分析评论文本的内容至关重要。其中文本中的情感表达与满意度感知方向一致，情感表达越正向，满意度越高，而情感表达的强度对满意度的影响是非正向的。另外，评论文本中提到的特征数量越多，满意度越低。由此表明，在评论文本中提到的特征维度数量越少，用户满意度越高。
+
+# 5结语
+
+通过对Tripadvisor.com酒店原始维度评价体系进行分析，表明该网站所划分的"位置、房间、价格、睡眠质量、清洁度"各维度相关性较高，另外还存在消费者在评分时不能确定某种感受属于哪一个维度，消费者想评价的特征又没有相应的维度可以评价，这从侧面反映对定量的星级评论进行研究时存在不真实、不完整、不准确的问题。
+
+通过对评论文本进行宏观和微观的文本分析，并结合情感分析技术，建立有序逻辑回归模型，发现对酒店总体满意度影响最大的是设施，如房间大小、卧室舒适程度、阳台布局、游泳池等，其次是人员服务。对酒店档次进行分类后发现，入住豪华型酒店消费者满意度明显受到网络维度的影响，WiFi、Internet的连接和易用程度对满意度的影响较大。同时选择豪华型酒店的顾客最关注酒店的人员服务，而对经济型酒店消费者满意度影响最大的清洁程度。本文的研究结果有助于酒店管理者以最低成本投入换来最高的总体满意度：酒店重心应放在设施和服务这两个维度上，致力于为顾客留下美好的第一印象和最后印象；豪华型酒店应该意识到网络这个维度对消费者满意度有着显著影响，经济型酒店则需要保证酒店的清洁度，注意卫生管理。通过对酒店评论文本分析，不同类型酒店的管理者可以用更少的投入获得更显著的回报，这对酒店的长远发展具有重要战略意义。
+
+本文的不足之处在于：样本的选择不够全面。笔者在获取酒店文本评论时，只面向一个城市，而有研究表明顾客在不同的城市选择酒店时关注点也是不同的，比如顾客评论伦敦酒店清洁度时，Bug(虫子)可能是高频词，而本文分析的拉斯维加斯酒店语料中该词几乎没有出现，由于特定地理气候，影响消费者对满意度感知的特征因素往往不相同。未来研究可从多个城市收集样本进行全面的对比分析。
+
+# 参考文献：
+
+[1] Duan W,Gu B,Whinston AB.Do Online Reviews Matter?- AnEmpirical Investigation of Panel Data[J].Decision Support Systems,2008,45(4):1007-1016.   
+[2] ChevalierJA,Mayzlin D.The Effect of Word of Mouth on Sales: Online Book Reviews[J].Journal of Marketing Research,2004,43(3):345-354.   
+[3] 江晓东．什么样的产品评论最有用？一 一在线评论数量特 征和文本特征对其有用性的影响研究[J].外国经济与管 理,2015,37(4):41-55.(Jiang Xiaodong.What is the Most HelpfulProductReview?——The EffectofOnline Reviews' Quantitative and Textual Features on Its Helpfulness[J]. Foreign Economies and Management,2015,37(4):41-55.)   
+[4] 李爱国，邓召惠，毛冰洁．在线负面评论对体验型产品销 量的影响—基于商家回复视角[J]．商业研究，2016(7): 138-144.(Li Aiguo,Deng Zhaohui,Mao Bingjie.Impact of Online Negative Reviews on Experiential Product SalesBasedonMerchantReplies[J].CommercialResearch, 2016(7): 138-144.)   
+[5]闫强，孟跃．在线评论的感知有用性影响因素—基于在 线影评的实证研究[J]．中国管理科学，2013，21(S1): 126-131.（Yan Qiang， Meng Yue.Factors Affecting the Perceived Usefulness of Online Reviews-—An Empirical Study Based on Online Film Reviews[J].Chinese Journal of Management Science,2013,21(S1): 126-131.)   
+[6]高宝俊，孙含琳，王寒凝．在线评论对酒店订满率的影响 研究[J]．旅游学刊,2016,31(4):109-117.(Gao Baojun, Sun Hanlin，Wang Hanning. Influence of Online Reviews on Hotels’Full-occupancy Rates[J]. Tourism Tribune,2016, 31(4): 109-117.)   
+[7]Banerjee S, Chua A Y K. In Search of Patterns Among Travellers’HotelRatingsinTripAdvisor[J].Tourism Management, 2016,53:125-131.   
+[8]Sonnier G P, McAlister L, Rutz O J. A Dynamic Model of the Effect of Online Communicationson Firm Sales[J]. Marketing Science, 2011,30(4): 702-716.   
+[9]Ghose A, Ipeirotis PG, LiB. Examining the Impact of Search Engine Ranking and Personalization on Consumer Behavior: Combining Bayesian Modeling with Randomized Field Experiments[OL]. http://people.stern.nyu.edu/bli/wise2011 SearchDesign.pdf.   
+[10] Jerdee T H,Rosen B.Effects of Opportunity to Communicate and Visibility of Individual Decisions on Behavior in the Common Interest[J]. Journal of Applied Psychology,1974, 59(6): 712-716.   
+[11]Kanayama H, Nasukawa T. Unsupervised Lexicon Induction forClause-level Detectionof Evaluations[J]. Natural Language Engineering,2012,18(1): 83-107.   
+[12] Darby M R,Karni E.Free Competition and the Optimal Amount of Fraud[J]. The Journal of Law and Economics, 1973, 16(1): 67-88.   
+[13]Liu J,Cao Y,Lin C Y,et al.Low-Quality Product Review Detection in Opinion Summarization[C]// Proceedings of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning,Prague,Czech Republic.2007: 334-342.   
+[14]Eirinaki M,Pisal S,Singh J.Feature-based Opinion Mining and Ranking[J]. Journal of Computer & System Sciences, 2012, 78(4): 1175-1184.   
+[15] Abbasi A,Chen H, Salem A. Sentiment Analysis in Multiple Languages:Feature Selection for Opinion Classification in Web Forums[J]. ACM Transactions on Information Systems, 2008, 26(3). Article No. 12.   
+[16] Ganu G, Kakodkar Y, Marian A. Improving the Quality of Predictions Using Textual Information in Online User Reviews[J]. Information Systems,2013,38(1): 1-15.   
+[17] Archak N,Ghose A,Ipeirotis PG. Deriving the Pricing Power of Product Features by Mining Consumer Reviews[J]. Management Science,2011, 57(8): 1485-1509.   
+[18] Mai F. Essays in Business Analytics[D].University of Cincinnati, 2015.   
+[19] Hu M,Liu B.Mining and Summarizing Customer Reviews [C]// Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Seattle,Washington,USA.2004:168-177.   
+[20]王伟，王洪伟．特征观点对购买意愿的影响：在线评论的 情感分析方法[J]．系统工程理论与实践，2016，36(1): 63-76.(WangWei，Wang Hongwei.The Influenceof Aspect-based Opinions on User's Purchase Intention Using SentimentAnalysisofOnlineReviews[J].Systems Engineering—Theory&Practice,2016,36(1): 63-76.)   
+[21]Das A,Bandyopadhyay S,Gambäck B. Sentiment Analysis: What is the End User's Requirement?[C]//Proceedings of the 2nd International Conference on Web Intelligence,Mining and Semantics.ACM,2012.Article No. 35.   
+[22] McGlohon M,Glance N S,Reiter Z. Star Quality: Aggregating Reviews to Rank Products and Merchants[C]// Proceedings of the International Conference on Weblogs and Social Media,Washington,DC, USA.2010.   
+[23] Tumasjan A，Sprenger T O,Sandner P G,et al.Election Forecasts With Twitter: How 140 Characters Reflect the Political Landscape[J]. Social Science Computer Review, 2011,29(4): 402-418.   
+[24] Asur S,Huberman B A.Predicting the Future with Social Media[C]//ProceedingsoftheWebIntelligenceand Intelligent Agent Technology (WI-IAT).2010: 492- 499.   
+[25] Schramek D，Leibbrandt A，Sigl V,et al. Osteoclast Differentiation Factor RANKL Controls Development of Progestin-drivenMammaryCancer[J]. Nature, 2010, 468(7320): 98-102.   
+[26] LiF,Liu N, Jin H, et al. Incorporating Reviewer and Product Information for Review Rating Prediction[C]// Proceedings of the International Joint Conference on Artificial Intelligence. AAAI Press,2011: 1820-1825.   
+[27] Blair-Goldensohn S,Hannan K,McDonald R,et al. Building a Sentiment Summarizer for Local Service Reviews[C]// Proceedings of the WWW2008 Workshop: NLP in the Information Explosion Era.2008:339-348.   
+[28]Loughran T,McDonald B.When is a Liability Not a Liability? Textual Analysis,Dictionaries,and 1O-Ks[J].The Journal of the American Finance Association,2011,41(1): 57-59.   
+[29] Ding X,Liu B,Yu P S.A Holistic Lexicon-based Approach to OpinionMining[C]//ProceedingsoftheInternational Conference on Web Search and Web Data Mining,Palo Alto, California,USA.2008:231-240.   
+[30] Polanyi L，Zaenen A．Contextual Valence Shifters[A]/ Computing Attitude and Affect in Text: Theory and Applications[M]. Springer Netherlands,2006:1-10.   
+[31] Morante R,Schrauwen S,Daelemans W. Annotation of Negation Cues and Their Scope[R]. University of Antwerp, 2011.   
+[32]Mikolov T,Sutskever I，Chen K，et al．Distributed RepresentationsofWordsandPhrasesandTheir Compositionality[J].AdvancesinNeuralInformation Processing Systems,2013,26: 3111-3119.   
+[33]Duan W,Yu Y,Cao Q,et al. Exploring the Impact of Social Media on Hotel Service Performance:A Sentimental Analysis Approach[J].Cornell Hospitality Quarterly,2016,109(3): 527-538.   
+[34]Liao TF. Interpreting Probability Models $\because$ Logit, Probit, and Other Generalized Linear Models[M]. Sage Pubn Inc,1994.   
+[35]袁文平，韩晶晶．SERVQUAL 模型应用研究——以武汉某 大酒店为例[J]．今日财富：金融发展与监管，2011(9): 203-205.(Yuan Wenping,Han Jingjing. The Application of SERVQUAL Model—A Case Study of a Hotel in Wuhan[J]. Wealth Today: Financial Development and Supervision, 2011(9): 203-205.)   
+[36]Liu S,Law R,Rong J,et al.Analyzing Changes in Hotel Customers’Expectations by Trip Mode[J].International Journal of Hospitality Management,2013,34(1): 359-371.   
+[37] 熊伟，许俊华．基于内容分析法的我国经济型酒店服务质 量评价研究——兼与高星级酒店相对比[J].北京第二外国 语学院学报,2010,32(11): 57-67.(Xiong Wei, Xu Junhua.A Evaluation on Service Quality of Economic Hotel in China: A Content Analysis of Guest Comments on Website[J]. Journal of Beijing International Studies University，, 2010,32(11): 57-67.)   
+[38]Tsaur S H,Lin Y C.Promoting Service Quality in Tourist Hotels: The Role of HRM Practices and Service Behavior[J]. Tourism Management, 2004,25(4): 471-481.   
+[39]Pine R,Phillips P.Performance Comparisons of Hotels in China[J]. International Journal of Hospitality Management, 2005,24(1): 57-73.
+
+# 作者贡献声明：
+
+吴维芳：设计研究方案，进行数据分析，论文撰写及最终版本修订;
+
+高宝俊：提出研究思路，采集、清洗数据，提出论文修改建议;  
+杨海霞：分析数据，提出论文修改建议;  
+孙含琳：采集、清洗数据。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+[1]吴维芳，高宝俊，孙含琳.LasVegas.csv.拉斯维加斯酒店的评论数据.  
+[2]吴维芳，高宝俊，杨海霞．HotelText_word2vec.bin．评论语料的词向量表示数据，  
+[3]吴维芳，高宝俊，杨海霞.aspect-sentimentsumscore.RData．评论的特征情感矩阵数据.
+
+# 支撑数据：
+
+收稿日期:2016-12-05   
+收修改稿日期:2017-03-08
+
+支撑数据由作者自存储,E-mail:weifang@whu.edu.cn。
+
+# The Impacts of Reviews on Hotel Satisfaction: A Sentiment Analysis Method
+
+Wu WeifangGao BaojunYang HaixiaSun Hanlin (Economics and Management School, Wuhan University, Wuhan 43o072, China)
+
+Abstract:[Objective] This paper analyzes the online hotel reviews to identify the factors influencing thecustomer's satisfaction,and then provides suggestion to the management.[Methods]First,we extracted features and reduced dimensionality of travelers’comments from Tripadvisor.com with the helpof Word2Vec technique.Secondly，we extracted the characteristics ofeach type ofthecorresponding emotion basedonsentiment analysis technology.Finaly, we constructedan econometric model to analyze thecorrelation between the hotel reviewsand users’satisfaction. [Results] We found that positive reviewers were generallysatisfied with the hotel service,however, there was no linear relations between the two factors.The more feature categories mentioned by the user in comments,the more likely he orshe was notsatisfied.Theconsumers paid more atentiontothe staffofthe luxuryhotels,whilecared thecleanline of the economic ones.Consumers'atitudes towards luxury hotels were significantly affected by the Internet, which posed less obvious influences to the economic ones.[Limitations] The sample was not comprehensive,and more studies are needed to analyze data from multiple cities.[Conclusions] This study lays theoretical foundation for the online word-of-mouth research from the perspective of user generated contents.
+
+Keywords: Comment TextHotel FeaturesSentiment AnalysisConsumer Satisfaction

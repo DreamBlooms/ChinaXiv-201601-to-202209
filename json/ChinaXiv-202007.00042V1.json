@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "伽马噪窄线赛弗特1型星系的长期红外光变和颜色变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毛李胜",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(云南师范大学物理与电子信息学院，云南 昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：一些窄线赛弗特1型星系被发现具有GeV伽马射线辐射(伽马噪)而受到持续关注。截至目前，文献共报道22个伽马噪窄线赛弗特1型星系，另有3个高置信度候选体。利用广域红外巡天探测器(Wide-field Infrared Survey Explorer，WISE)数据平台，获取了这些源W1 $( 3 . 4 ~ \\mu \\mathrm { m } )$ 和 $\\ \" \\mathbb { W } 2 \\ ( 4 . \\ 6 \\ \\mathrm { ~ \\mu ~ m } )$ 两个红外波段的同时性测光数据(2010年1月至2019年12月)。采用参数V和标准额外方差 $\\sigma _ { N X V } ^ { 2 }$ 方法，分析了它们的长期光变现象。结果表明24个源表现出长期亮度(W1星等)变化，17个源表现出长期颜色(W1-W2)变化。通过研究颜色与星等的相关性，发现7个源表现出变亮变红现象(redder-when-brighter，RWB)，4个源表现出变亮变蓝现象(bluer-when-brighter,BWB)。最后简要讨论了颜色变化的可能解释和暗示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：赛弗特星系；伽马射线；红外光变；统计中图分类号：P157 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相对类星体而言，赛弗特(Seyfert)星系是一种低光度活动星系核，绝对星等$M _ { _ B } > - 2 1 . 5 1 + 5 \\log h _ { \\mathrm { 0 } }$ ，容易观测到其寄主星系[。根据发射线性质，它们可分为两个子类：赛弗特1型星系和赛弗特2型星系[2。前者的光谱中存在宽的允许线，半峰全宽( $F$ WHM)可达 $1 0 ^ { 4 } k m \\cdot s ^ { - 1 }$ ，而后者的允许线宽度和禁线宽度差不多，一般在 $5 0 0 - 1 0 0 0 k m \\cdot s ^ { - 1 }$ 。在活动星系核统一模型中，两者的中心引擎结构是相同的，观测性质的不同是由倾角效应导致的。赛弗特2型星系观测视角大，导致宽线区辐射被视线上的更外层的光学厚尘埃环遮蔽[3-4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "窄线赛弗特1型星系(narrow-line Seyfert1galaxies，NLS1s)是一类性质非常独特的赛弗特星系。文[5]给出了最初定义：NLS1s具有相对窄的 ${ { H } _ { \\beta } }$ 发射线线宽（204 $( F W H M < 2 0 0 0 k m \\cdot s ^ { - 1 } )$ 和较弱的禁线 $( [ O I I I ] \\lambda 5 0 0 7 / H _ { \\beta } < 3 )$ ；FeⅡ发射线强；软X射线谱陡。一般认为，NLS1s具有相对较小的中心黑洞质量和较高的爱丁顿比[6-9]。绝大部分NLS1s是射电宁静的(射电噪度 $R < 1 0 ^ { ' }$ ，仅有约 $7 \\%$ 表现为射电噪( $R > 1 0 )$ ，约 $2 . 5 \\%$ 表现为射电甚噪( $\\cdot R > 1 0 0 ) ^ { [ 1 0 - 1 2 ] }$ 。最近十多年来，费米大面积空间望远镜(Fermi/LAT)发现的伽马噪窄线赛弗特1型星系(Y-NLS1s)受到了天文界的广泛和持续关注，直接表明这些NLS1s中存在相对论性喷流。Y-NLS1s可能具有类似于耀变体(Blazars)的观测特征，例如致密射电核、非常高的亮温度、快速大幅光变、平的射电谱以及双峰结构的宽波段能谱分布[13-16]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "截至目前，Y-NLS1s的数量较少，但系统地研究它们的观测和统计性质对于理解喷流形成,吸积盘-冕-喷流关联性，伽马射线辐射机制和区域,星系演化等诸多方面意义重大[14]在本文中，基于目前最大的Y-NLS1s样本，我们系统地研究它们的长期红外亮度和颜色变化，以期获取红外波段辐射的有用线索。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1样本和数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1样本",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文[13]收集了目前已知的所有Y-NLS1s，包括22个源。另外，文[17]给出了3个另外的高置信度Y-NLS1s候选体。上述25个源作为我们的分析样本。表1的(2)-(5)列给出了具体信息，包括源名，度为单位的赤经和赤纬，以及红移z。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2WISE巡天",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "广域红外巡天探测器(Wide-field Infrared Survey Explorer，WISE)是美国宇航局在2009年12月发射的空间望远镜，旨在以红外线绘制整个天空的图像[18]。WISE搭载了一台40厘米口径的红外望远镜，工作在3.4,4.6,12和22微米波段(分别称为W1,W2,W3和W4波段)，空间分辨率为6.1，6.4，6.5和12角秒。2010年9月30日前，WISE在W1-W4或W1-W3波段开展全天区扫描，随后仅在W1和W2波段进行一项名为近地天体广域红外巡天探索(Near-EarthObject Wide-field Infrared Survey Explorer，NEOWISE)的任务，直到2011年2月进入休眠期。2013年10月，WISE重新被启用，继续在W1和W2波段进行NEOWISE-R任务，直至现在[19-20]。WISE每6个月完成一次全天区巡天任务；在大约1天时间内，绕其轨道运行15次，因而可得到目标源包含多个测光数据点(典型值12个)的天量级光变曲线[21]。相比于以前的InfraredAstronomical Satellite(IRAS)，WISE的灵敏度提高了100倍，提供了前所未有的机遇来研究活动星系核的红外性质[22]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3光变曲线 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用NASA/IPAC Infrared Science Archive(IRSA)'，采用3角秒的搜索半径，我们首先获取了25个源2010年1月-2019年12月的W1和W2波段测光数据。需要强调的是，W3和W4波段的测光数据相对少很多，且测光精度也相对较差，因此没有包含在下面的分析当中。然后，我们对数据进行了必要的筛选，剔除了不良数据，采用的标准如下：nb ${ \\leqslant } 2$ ， $\\mathrm { \\ n a = 0 }$ ，moon_masked $=$ 4 $\\mathrm { { \\bar { 0 0 } } } ^ { \\prime }$ ，cc_flags ${ \\bf \\pi } _ { \\bf 5 } = { \\bf \\pi } ^ { \\bullet } 0 0 ^ { \\bf \\pi } { \\bf \\pi } ^ { \\bf 5 }$ ，wlsat $= 0$ ，w2sat $_ { . = 0 }$ ，wlsnr ${ \\geqslant } 7$ ，w2snr $\\geqslant 5$ ，wlrchi $2 { < } 1 0$ ，w2rchi $2 { \\langle 1 0 \\rangle }$ ，qual_frame>0，qi_fact>0，saa_sep>0，sso_flag $= 0$ 。另外，还剔除了仅有W1或W2星等上限的数据点以及星等误差(wlsigmpro，w2sigmpro)超过0.2 mag的数据点。测光数据质量的详情可参考WISE官方文档。最后，我们得到了25个源的W1和W2波段同时性光变曲线。所有源在WISE巡天中被观测了13-15次(见表1的列6)，每个观测窗口(Epoch)平均包含14组W1/W2测光数据，平均观测时长约1.3天。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为讨论Y-NLS1s的长期红外亮度和颜色变化，我们对每个观测窗口的数据进行了如下方式的加权平均[23]。一组时间序列数据 $x _ { 1 } , x _ { 2 } . . . x _ { N }$ ，误差为 $\\sigma _ { 1 } , \\sigma _ { 2 } . . . \\sigma _ { N }$ 。参数 $x$ 的加权平均值 $\\overline { { x } } _ { w t d }$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\boldsymbol { x } } } _ { w t d } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } \\omega _ { i } \\boldsymbol { x } _ { i } } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\omega _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "权重 $\\omega _ { i } = \\frac { 1 } { \\sigma _ { i } ^ { 2 } }$ 。 （204号 $\\overline { { x } } _ { w t d }$ 的标准误差 $\\sigma _ { \\bar { x } _ { w t d } }$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\overline { { x } } _ { w t d } } = \\sqrt { \\frac { 1 } { N - 1 } [ \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } \\omega _ { i } x _ { i } ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\omega _ { i } } - ( \\overline { { x } } _ { w t d } ) ^ { 2 } ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用公式(1)和(2)，计算单个源每个Epoch对应的加权平均W1星等及其标准误差，加权平均颜色(W1-W2)及其标准误差(表2给出两个源的数据作为示例)，从而得到了源的W1星等和颜色(W1-W2)长期变化曲线。图1给出了PMN $0 9 4 8 \\substack { + 0 0 2 2 }$ 的所有Epoch光变曲线(蓝色点W1星等，红色点W2星等)，平均后的W1星等光变曲线，平均后的颜色(W1-W2)变化曲线作为示例。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f214fe1f95b936be864bf571006aef99f042719a2b64e349be87986d89c3271a.jpg",
+        "img_caption": [
+            "1PMN $\\mathrm { J 0 9 4 8 + 0 0 2 2 }$ 每个观测窗口(Epoch)的W1/W2光变曲线；Epoch平均后的W1星等和颜色(W1-W2)长",
+            "Fig.1 The W1/W2 light curves of PMN $\\mathrm { J 0 9 4 8 + 0 0 2 2 }$ during all epochs；the epoch-averaged long-term variation curves of the W1 magnitude and the color of (W1-W2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "变化曲线",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法和结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们利用两种方法探讨了样本源是否表现出长期的亮度变化和颜色变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1参数V ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文[24]定义了衡量光变概率的参数V，被广泛用于各种光变研究中。参数 $V$ 由光变曲线的卡方值导出",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\sum _ { i = 1 } ^ { N _ { o b } } \\frac { ( y _ { i } - \\overline { { y } } ) ^ { 2 } } { \\sigma _ { e r r , i } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $y _ { i }$ 为观测星等(颜色)， $\\sigma _ { e r r , i }$ 为星等(颜色)误差， $\\bar { y }$ 为平均星等(颜色)， $N _ { o b }$ 为数据点个数。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = - \\mathrm { l o g } [ 1 - \\Gamma ( \\frac { N _ { o b } - 1 } { 2 } , \\frac { \\chi ^ { 2 } } { 2 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\Gamma$ 为不完全伽马函数[25]。 $V$ 值越大，光变的概率越高。历史文献中常采用的标准为V >1.3,即光变概率高于95%[26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c251b2d412370d9dfbf14fac5b51ba34a55c83245cb7e85ccd1f163f2b89250c.jpg",
+        "table_caption": [
+            "表1样本和光变分析结果",
+            "Tab.1 The sample and the results of variability analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Tab.TTnesampTe andthe results OT VarTabl1lty analysls</td></tr><tr><td>序号</td><td>源名</td><td></td><td>赤经 赤纬</td><td>红移z</td><td>观测窗口数目</td><td>亮度变化</td><td>颜色变化</td></tr><tr><td>(1)</td><td>(2)</td><td>(3）</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8）</td></tr><tr><td>1</td><td>SDSS J003159.85+093618.4</td><td>7. 999</td><td>9.605</td><td>0.221</td><td>15</td><td>Yes</td><td>Yes</td></tr><tr><td>2</td><td>1H 0323+342</td><td>51. 172</td><td>34.179</td><td>0.061</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>3</td><td>SBS 0846+513†</td><td>132. 492</td><td>51. 141</td><td>0.584</td><td>13</td><td>Yes</td><td>Yes</td></tr><tr><td>4</td><td>SDSS J090113.23+465734.7</td><td>135.305</td><td>46.960</td><td>0.430</td><td>13</td><td>Yes</td><td>No</td></tr><tr><td>5</td><td>NVSS J093241+530633+</td><td>143.171</td><td>53.109</td><td>0.597</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>6</td><td>GB6 J0937+5008*</td><td>144. 301</td><td>50.148</td><td>0.275</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>7</td><td>SDSS J094635.06+101706.1</td><td>146. 646</td><td>10.285</td><td>1.004</td><td>14</td><td>Yes</td><td>No</td></tr><tr><td>8</td><td>PMN J0948+0022+</td><td>147. 239</td><td>0.374</td><td>0.585</td><td>13</td><td>Yes</td><td>Yes</td></tr><tr><td>9</td><td>NVSS J095820+322401</td><td>149.587</td><td>32. 401</td><td>0.531</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>10</td><td>SDSS J110223.38+223920.7</td><td>165. 597</td><td>22. 656</td><td>0.453</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>11</td><td>SDSS J122222.55+041315.7</td><td>185. 594</td><td>4.221</td><td>0.966</td><td>14</td><td>Yes</td><td>No</td></tr><tr><td>12</td><td>SDSS J122844.81+501751. 2</td><td>187. 187</td><td>50.298</td><td>0.262</td><td>14</td><td>Yes</td><td>No</td></tr><tr><td>13</td><td>SDSS J123220.11+495721.8</td><td>188. 084</td><td>49.956</td><td>0.262</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>14</td><td>SDSS J124634.65+023809.0</td><td>191. 644</td><td>2.636</td><td>0.363</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>15</td><td>SDSS J130522.75+511640.3</td><td>196.345</td><td>51. 278</td><td>0.788</td><td>14</td><td>Yes</td><td>No</td></tr><tr><td>16</td><td>3C 286</td><td>202.785</td><td>30.509</td><td>0.850</td><td>14</td><td>No</td><td>No</td></tr><tr><td>17</td><td>NVSS J142106+385522+</td><td>215. 275</td><td>38.923</td><td>0.489</td><td>15</td><td>Yes</td><td>No</td></tr><tr><td>18</td><td>SDSS J144318.56+472556.7</td><td>220.827</td><td>47. 432</td><td>0.705</td><td>14</td><td>Yes</td><td>No</td></tr><tr><td>19</td><td>PKS 1502+036</td><td>226. 277</td><td>3.442</td><td>0.409</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>20</td><td>TXS 1518+423</td><td>230.165</td><td>42.186</td><td>0.484</td><td>15</td><td>Yes</td><td>Yes</td></tr><tr><td>21</td><td>SDSS J164100.10+345452.7</td><td>250.250</td><td>34.915</td><td>0.164</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>22</td><td>FBQSJ1644+2619</td><td>251. 177</td><td>26.320</td><td>0.145</td><td>14</td><td>Yes</td><td>Yes</td></tr><tr><td>23</td><td>PKS 2004-447</td><td>301.980</td><td>-44. 579</td><td>0.240</td><td>13</td><td>Yes</td><td>Yes</td></tr><tr><td>24</td><td>PMN J2118+0013</td><td>319.573</td><td>0.221</td><td>0.463</td><td>13</td><td>Yes</td><td>Yes</td></tr><tr><td>25</td><td>SDSS J211852.96-073227.5</td><td>319. 721</td><td>-7. 541</td><td>0.260</td><td>14</td><td>Yes</td><td>Yes</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2标准额外方差 $\\sigma _ { N X V } ^ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "标准额外方差(the normalized excess variance， $\\sigma _ { N X V } ^ { 2 }$ )常用来衡量光变幅度，“额外”表示从总方差中去除观测误差带来的方差[27]。具体定义如下",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { _ { N X V } } ^ { 2 } = \\frac { 1 } { N _ { o b } \\overline { { y } } ^ { 2 } } \\sum _ { i = 1 } ^ { N _ { o b } } [ ( y _ { i } - \\overline { { y } } ) ^ { 2 } - \\sigma _ { e r r , i } ^ { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\sigma _ { N X V } ^ { 2 }$ 的误差为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne r r ( \\sigma _ { N X V } ^ { 2 } ) = \\frac { S _ { D } } { \\overline { { y } } ^ { 2 } N _ { o b } ^ { 1 / 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { D } ^ { 2 } = \\frac { 1 } { N _ { o b } } { \\sum _ { i = 1 } ^ { N _ { o b } } \\{ { [ ( y _ { i } - \\overline { { y } } ) ^ { 2 } - \\sigma _ { e r r , i } ^ { 2 } ] - \\sigma _ { \\scriptscriptstyle { N X V } } ^ { 2 } \\overline { { y } } ^ { 2 } } \\} ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "观测数据的误差较大时， $e r r ( \\sigma _ { N X V } ^ { 2 } )$ 可能大于 $\\sigma _ { N X V } ^ { 2 }$ 。根据文［26]，我们定义（204 $\\Delta = \\sigma _ { { } _ { N X V } } ^ { 2 } - e r r ( \\sigma _ { { } _ { N X V } } ^ { 2 } )$ 。如 $\\Delta > 0$ ，表明经误差修正后的光变幅度大于零。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用上述两种方法，我们研究了样本源的长期亮度和颜色变化。如W1星等(颜色W1-W2)变化曲线同时满足 $V > 1 . 3$ 和 $\\Delta > 0$ ，则被认为表现出统计意义上显著的亮度(颜色)变化。结果发现：(1)除3C 286外，其他Y-NLS1s都表现出长期亮度变化；(2)17个x-NLS1s表现出长期颜色变化。具体结果见表1的列(7)和(8)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用WISE研究红外颜色变化的优势体现在W1和W2两个波段的观测是同时性的。为进一步了解样本源的长期颜色变化，我们构建了它们的颜色-星等图，W1星等作为横坐标，颜色(W1-W2)作为纵坐标。考虑亮度和颜色变化分析的结果，只对17个既表现出长期亮度变化又表现出长期颜色变化的Y-NLS1s构建颜色-星等图。采用加权最小二乘法，拟合了颜色-星等散点图： $( W 1 - W 2 ) = A \\cdot W 1 + B$ ， $A$ 为斜率， $B$ 为截距，既考虑颜色的误差又考虑星等的误差[25]。表3的列(3)-(6)给出了17个源的线性拟合结果。最佳拟合直线的斜率 $A$ 可用来衡量谱形变化，图2给出了 $A$ 的分布情况。另外，我们计算了W1星等和颜色(W1-W2)之间的相关系数和偶然概率。考虑到数据分布的非正态性，采用斯皮尔曼等级相关系数来描述两者之间的相关性。计算结果列在表3的列(7)和(8)，前者列出斯皮尔曼等级相关系数 $r _ { s }$ ，后者列出偶然概率 $p$ 。类似于文[28]，我们表征颜色变化趋势如下：(1)如 $A > 0$ ， $r _ { s } > 0 . 5$ ，$p < 0 . 0 5$ ，则源表现出变亮变蓝(bluer-when-brighter,BWB)趋势；(2)如 $A < 0$ ， $r _ { s } < - 0 . 5$ ，$p < 0 . 0 5$ ，则源表现出变亮变红(redder-when-brighter，RWB)趋势。按照此判断标准，4个Y-NLS1s表现出显著的BWB趋势(图3)，7个Y-NLS1s表现出显著的RWB趋势(图4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/67e63b63bc13e16f0b41bbc86d44762f12a8a2c2451dc72ab6a8eed138180f54.jpg",
+        "img_caption": [
+            "图2最佳拟合直线的斜率(A)的分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/79841fe15a00c8265f5f392d8cdd66364a72b6388fd6e4076b0d3d78a9af99b0.jpg",
+        "img_caption": [
+            "Fig.2 The distribution of the slope of best fit line (A) ",
+            "图34个Y-NLS1s的变亮变蓝现象 Fig.3 BWB trends for 4 Y-NLS1s "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c1f5fdea6dea77d999a425dadee1f2de4186492bcb7876a92338a8fc60ac220.jpg",
+        "img_caption": [
+            "图47个Y-NLS1s的变亮变红现象 Fig.4 RWB trends for 7 Y-NLS1s "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2长期光变曲线数据。(1)源的名称； (2)观测窗口序号； (3)开始约化儒略日； (4)结束约化儒略日；(5)观测时长；(6)测光点个数；(7)平均W1星等；(8)平均W1星等的标准误差；(9)平均颜色(W1-W2)； (1O)平均颜色(W1-W2)的标准误差。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tab.2 The data of long-term light curves.(1)source name; (2)the serial number of observational epochs; (3) the beginning MJD;(4) the ending MJD;(5) the duration time; (6)the number of photometric data points;(7)the average W1 magnitude;(8) the standard error of the average W1 magnitude;(9) the average color W1-W2;(1O)the standard error of the average color W1-W2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/be714930c6e45e152372466111ceba52ff1c261c26e5d05390675907799f55bc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Name (1)</td><td>No. (2)</td><td>MJD1 (3）</td><td>MJD2 (4)</td><td>△t (5)</td><td>Nob (6)</td><td>W1 (7）</td><td>01</td><td>W1-W2</td><td>0 (W1-W2)</td></tr><tr><td>SDSS J003159.85+093618.4</td><td>1</td><td>55378.87002</td><td>55379.72993</td><td>0.86</td><td>9</td><td>14.855</td><td>0.026</td><td>1.252</td><td>0.034</td></tr><tr><td></td><td>2</td><td>55557.74387</td><td>55558.73583</td><td>0.99</td><td>11</td><td>14.822</td><td>0.035</td><td>1.135</td><td>0.065</td></tr><tr><td></td><td>3</td><td>56655.44236</td><td>56656.43076</td><td>0.99</td><td>11</td><td>14.337</td><td>0.032</td><td>1.045</td><td>0.049</td></tr><tr><td></td><td>4</td><td>56843.36991</td><td>56844.48832</td><td>1. 12</td><td>12</td><td>14.430</td><td>0.019</td><td>1. 174</td><td>0.035</td></tr><tr><td></td><td>5</td><td>57022.46688</td><td>57023.32106</td><td>0.85</td><td>10</td><td>14.344</td><td>0.024</td><td>1. 048</td><td>0.041</td></tr><tr><td></td><td>6</td><td>57205.21781</td><td>57206.20213</td><td>0.98</td><td>11</td><td>14.553</td><td>0.028</td><td>1.202</td><td>0.031</td></tr><tr><td></td><td>7</td><td>57381.55958</td><td>57382.54302</td><td>0.98</td><td>10</td><td>14.557</td><td>0.033</td><td>1. 168</td><td>0.044</td></tr><tr><td></td><td>8</td><td>57572.23797</td><td>57573.22064</td><td>0.98</td><td>11</td><td>14.575</td><td>0.034</td><td>1.143</td><td>0.043</td></tr><tr><td></td><td>9</td><td>57740.75946</td><td>57741. 61097</td><td>0.85</td><td>11</td><td>14. 547</td><td>0.033</td><td>1. 118</td><td>0.041</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b81e3a0622e3c665f40d07e25b0c719517128704601ea05ad2020df1d803348.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>10</td><td>57936.38729</td><td>57937.36931</td><td>0.98</td><td>11</td><td>14.553</td><td>0.030</td><td>1.061</td><td>0.052</td></tr><tr><td></td><td>11</td><td>58101.39723</td><td>58102.37913</td><td>0.98</td><td>13</td><td>14. 657</td><td>0.029</td><td>1. 129</td><td>0.040</td></tr><tr><td></td><td>12</td><td>58300.58144</td><td>58301.56296</td><td>0.98</td><td>10</td><td>14. 489</td><td>0.024</td><td>1. 044</td><td>0.055</td></tr><tr><td></td><td>13</td><td>58462.11437</td><td>58463.09589</td><td>0.98</td><td>12</td><td>14. 702</td><td>0.027</td><td>1. 192</td><td>0.038</td></tr><tr><td></td><td>14</td><td>58667.76717</td><td>58668.74843</td><td>0.98</td><td>12</td><td>14. 799</td><td>0.032</td><td>1. 150</td><td>0.050</td></tr><tr><td></td><td>15</td><td>58829.24517</td><td>58830.22644</td><td>0.98</td><td>11</td><td>14. 731</td><td>0.033</td><td>1. 128</td><td>0.055</td></tr><tr><td>1H 0323+342</td><td>1</td><td>55237.59762</td><td>55238.59009</td><td>0.99</td><td>12</td><td>10.930</td><td>0.004</td><td>0.961</td><td>0.006</td></tr><tr><td></td><td>2</td><td>55427.94941</td><td>55428.94163</td><td>0.99</td><td>12</td><td>10.579</td><td>0.012</td><td>0.962</td><td>0.010</td></tr><tr><td></td><td>3</td><td>56702.35038</td><td>56703.33840</td><td>0.99</td><td>12</td><td>10. 779</td><td>0.009</td><td>0.945</td><td>0.004</td></tr><tr><td></td><td>4</td><td>56892.90342</td><td>56893.89016</td><td>0.99</td><td>12</td><td>10.734</td><td>0.006</td><td>0.941</td><td>0.008</td></tr><tr><td></td><td>5</td><td>57061.49425</td><td>57062.47959</td><td>0.99</td><td>12</td><td>10.606</td><td>0.008</td><td>0.909</td><td>0.005</td></tr><tr><td></td><td>6</td><td>57254.68065</td><td>57255.79588</td><td>1. 12</td><td>14</td><td>10.721</td><td>0.008</td><td>0.924</td><td>0.005</td></tr><tr><td></td><td>7</td><td>57421.02901</td><td>57422.01232</td><td>0.98</td><td>12</td><td>10.680</td><td>0.013</td><td>0.936</td><td>0.005</td></tr><tr><td></td><td>8</td><td>57618.88168</td><td>57619.86435</td><td>0.98</td><td>11</td><td>10.662</td><td>0.008</td><td>0.912</td><td>0.008</td></tr><tr><td></td><td>9</td><td>57784.90554</td><td>57785.75692</td><td>0.85</td><td>10</td><td>10.670</td><td>0.010</td><td>0.965</td><td>0.008</td></tr><tr><td></td><td>10</td><td>57986.01132</td><td>57986.99335</td><td>0.98</td><td>11</td><td>10.795</td><td>0.006</td><td>0.932</td><td>0.008</td></tr><tr><td></td><td>11</td><td>58142.11335</td><td>58142. 96473</td><td>0.85</td><td>10</td><td>10.803</td><td>0.006</td><td>0.953</td><td>0.008</td></tr><tr><td></td><td>12</td><td>58350.04976</td><td>58351.16218</td><td>1. 11</td><td>13</td><td>10.879</td><td>0.005</td><td>0.956</td><td>0.007</td></tr><tr><td></td><td>13</td><td>58508.96498</td><td>58509.94651</td><td>0.98</td><td>13</td><td>10.991</td><td>0.006</td><td>0.997</td><td>0.008</td></tr><tr><td></td><td>14</td><td>58714.33992</td><td>58715.19041</td><td>0.85</td><td>10</td><td>10.990</td><td>0.003</td><td>0.993</td><td>0.005</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3分析结果.(1)源的名称;(2)观测窗口数目;(3)最佳拟合斜率;(4)最佳拟合斜率的误差;(5)最佳拟合截距;(6)最佳拟合截距的误差;(7)斯皮尔曼等级相关系数;(8)偶然概率p值；(9)注解：BWB表示源变亮变蓝，RWB表示源变亮变红.  \nTab.3 The analysis results.(1)source name;(2)the total number of observationalepochs;(3)the best-fit slope;(4) the uncertainty of the best-fit slope; (5)thebest-fit intercept; (6)the uncertainty of the best-fit intercept； (7)Spearman rankcorrelation coefficient, $\\boldsymbol { \\mathsf { r } } _ { \\mathsf { s } }$ ；(8) the probability of no correlation,p； (9)Note:“BWB”and “RWB”denote the trends of bluer-when-brighter and  \nredder-when-brighter,respectively.",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e7d892543ace9664a58984361f5964c0369d1d955f1db17f703a66e5688cb79.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Name</td><td>Nep</td><td>A</td><td>0A</td><td>B</td><td>0B</td><td>rs</td><td>p</td><td>Note</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8）</td><td>(9)</td></tr><tr><td>SDSS J003159.85+093618.4</td><td>15</td><td>2.62E-01</td><td>7.36E-02</td><td>-2.68E+00</td><td>1.07E+00</td><td>0.54</td><td>3.78E-02</td><td>BWB</td></tr><tr><td>1H 0323+342</td><td>14</td><td>1. 73E-01</td><td>1. 34E-02</td><td>-9.19E-01</td><td>1. 46E-01</td><td>0.53</td><td>5.14E-02</td><td>1</td></tr><tr><td>SBS 0846+513</td><td>13</td><td>-5.10E-02</td><td>8.60E-03</td><td>1.62E+00</td><td>1.14E-01</td><td>-0.77</td><td>1.87E-03</td><td>RWB</td></tr><tr><td>NVSS J093241+530633</td><td>14</td><td>-8.10E-02</td><td>1.96E-02</td><td>2.17E+00</td><td>2.76E-01</td><td>-0.76</td><td>1. 51E-03</td><td>RWB</td></tr><tr><td>GB6 J0937+5008</td><td>14</td><td>2.25E-03</td><td>8.02E-03</td><td>1.08E+00</td><td>1. 02E-01</td><td>0.23</td><td>4.27E-01</td><td>1</td></tr><tr><td>PMN J0948+0022</td><td>13</td><td>-6.80E-02</td><td>1.60E-02</td><td>1.96E+00</td><td>2.10E-01</td><td>-0.57</td><td>3.98E-02</td><td>RWB</td></tr><tr><td>NVSS J095820+322401</td><td>14</td><td>-2.83E-01</td><td>4.83E-02</td><td>4.45E+00</td><td>6.08E-01</td><td>-0.90</td><td>9.56E-06</td><td>RWB</td></tr><tr><td>SDSS J110223.38+223920.7</td><td>14</td><td>3.48E-01</td><td>9.60E-02</td><td>-3.51E+00</td><td>1.27E+00</td><td>0.63</td><td>1.50E-02</td><td>BWB</td></tr><tr><td>SDSS J123220.11+495721.8</td><td>14</td><td>1. 19E-01</td><td>2.41E-02</td><td>-5.90E-01</td><td>3.24E-01</td><td>0.69</td><td>6.22E-03</td><td>BWB</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/42d16aee538bfe71c8d16cfbd24aa7727252c92e7740853045aa7575c8f71430.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SDSS J124634.65+023809.0</td><td>14</td><td>4.46E-01</td><td>9.76E-02</td><td>-5.26E+00</td><td>1.36E+00</td><td>0.74</td><td>2.68E-03</td><td>BWB</td></tr><tr><td>PKS 1502+036</td><td>14</td><td>-1.28E-01</td><td>4. 17E-02</td><td>2.68E+00</td><td>5.85E-01</td><td>-0.66</td><td>1.02E-02</td><td>RWB</td></tr><tr><td>TXS 1518+423</td><td>15</td><td>-2. 47E-01</td><td>1.40E-02</td><td>4.21E+00</td><td>1.95E-01</td><td>-0.84</td><td>7.21E-05</td><td>RWB</td></tr><tr><td>SDSS J164100.10+345452.7</td><td>14</td><td>2.05E-01</td><td>2.78E-02</td><td>-1.80E+00</td><td>3.52E-01</td><td>0.20</td><td>5.03E-01</td><td>一</td></tr><tr><td>FBQSJ1644+2619</td><td>14</td><td>-2.43E-02</td><td>1.18E-02</td><td>1.28E+00</td><td>1.54E-01</td><td>-0.32</td><td>2.67E-01</td><td>/</td></tr><tr><td>PKS 2004-447</td><td>13</td><td>4.63E-02</td><td>4.39E-02</td><td>4.15E-01</td><td>5.91E-01</td><td>0.20</td><td>5.17E-01</td><td></td></tr><tr><td>PMN J2118+0013</td><td>13</td><td>7.26E-02</td><td>2.45E-02</td><td>4.97E-02</td><td>3.47E-01</td><td>0.12</td><td>6.94E-01</td><td></td></tr><tr><td>SDSS J211852.96-073227.5</td><td>14</td><td>-1.02E-01</td><td>2.40E-02</td><td>2.31E+00</td><td>3.24E-01</td><td>-0.70</td><td>5.21E-03</td><td>RWB</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "活动星系核的红外波段辐射可能包括多种成分，既有热致辐射，也有非热致辐射，各种成分的贡献比很大程度依赖于类型和波段。活动星系核中，尘埃环吸收来自吸积盘的紫外/光学辐射后将能量以红外辐射的形式释放出来，辐射的波长由尘埃温度来决定。尘埃环的温度最高在1500开左右，辐射峰值大约在几个微米处[2。除尘埃环外，寄主星系以及喷流同步辐射(对于射电噪活动星系核)的贡献也应适时考虑[30]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "文［31]利用WISE巡天的W1/W2波段数据，研究了492个探测到射电辐射的NLS1s的长期中红外颜色(W1-W2)变化，发现 $6 9 \\%$ 的源表现出大于 $1 \\sigma$ 的颜色变化。在这些源中， $2 7 \\%$ 表现出RWB趋势，42%表现出BWB趋势。在双成分(活动星系核辐射 $^ { \\cdot } +$ 寄主星系辐射)框架下，文中给出了RWB和BWB趋势的可能解释。当活动星系核辐射主导的情况下（明亮状态)，倾向于表现出RWB趋势，而当活动星系核的辐射和寄主星系的辐射可以比较时(暗弱状态)，倾向于表现出BWB趋势。在此工作中，我们聚焦于其中更为特殊的Y-NLS1s子类，研究了它们的长期亮度和颜色变化。需要指出的是：(1)9个列入文[31]的Y-NLS1s全部包含在我们的分析样本中(表1的源名用“†”标记)。对于其中的8个源，我们的分析结果与文[31]得到的结果完全一致(SBS$0 8 4 6 + 5 1 3$ ，NVSS $\\mathrm { { J 0 9 3 2 4 1 + 5 3 0 6 3 3 } }$ ，PMN $\\mathrm { J 0 9 4 8 ^ { + } 0 0 2 2 }$ ，PKS $1 5 0 2 + 0 3 6$ ，TXS $1 5 1 8 \\substack { + 4 2 3 }$ 和SDSSJ211852.96-073227.5表现出显著的RWB趋势，GB6 $\\mathrm { J 0 9 3 7 + 5 0 0 8 }$ 和PMN $\\mathrm { J 2 1 1 8 ^ { + } 0 0 1 3 }$ 未表现显著的RWB或BWB趋势）。文［31]认为NVSS $\\mathrm { J 1 4 2 1 0 6 + 3 8 5 5 2 2 }$ 表现出长期的RWB趋势，而根据我们的分析，这个源表现出显著的长期亮度变化但却未表现出显著的长期颜色变化，因而我们未对其进行颜色-星等的线性拟合和相关分析。(2)我们利用截至2019年12月的WISE观测数据，每个源的观测窗口数比文[31]多2-5个。此文的分析结果表明Y-NLS1s也同时存在RWB和BWB变化趋势，其中 $6 8 \\% ( 1 7 / 2 5 )$ 的源表现出统计上显著的长期颜色(W1-W2)变化，与文[31]的结果吻合。在这些源中， $4 1 \\% ( 7 / 1 7 )$ 表现出RWB趋势， $2 4 \\% ( 4 / 1 7 )$ 表现出BWB趋势，暗示Y-NLS1s更倾向于表现出RWB变化趋势。这可能是由于Y-NLS1s存在明显的喷流辐射且吸积率更高更容易主导整体辐射所导致的。需要强调的是，目前已知的Y-NLS1s样本小，文中的分析比较仅提供了Y-NLS1s红外辐射的些许“线索”，我们的猜想有待将来更大样本分析的验证。另外，结合其他手段(例如快速光变和能谱拟合)能更好地探索/定量得出不同成分在红外辐射中的贡献比例。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢审稿人提出的宝贵建议。感谢芬兰图尔库大学Suvendu Rakshit博士的热心帮助。感谢广域红外巡天探测器(WISE)提供的数据。WISE由美国宇航局提供资助，加州大学洛杉矶分校和加州理工学院喷气推动实验室合作实施。本论文得到国家天文科学数据中心、中国科学院天文科学数据中心、中国虚拟天文台、国家天文台-阿里云天文大数据联合研究中心提供的数据资源和技术支持。国家天文科学数据中心是由科技部、财政部认定的国家科技资源共享服务平台，属于基础支撑与条件保障类国家科技创新基地，依托单位是中国科学院国家天文台。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献:   \n[1]PETERSONB M.An Introduction to Active Galactic Nuclei[M].London: Cambridge UniversityPres,1997: 21-23   \n[2] KHACHIKIANE,WEEDMANDW.AnatlasofSeyfert galaxies[J].The Astrophysical Journal,1974,192:581-589   \n[3]NETZERHRevisiting theUnifiedModelofActiveGalactic[J].AnnualReviewofAstronomyandAstrophysics,015,53:365-408   \n[4]URRYCM,PADOVANIPUnifiedSchemesforRadio-LoudActiveGalactic Nuclei[J].PublicationsoftheAstronomicalSocietyof   \nthe Pacific,1995,107: 803-845   \n[5]OSTERBROCKDE，OGGEW.espctraofao-lneeyfrtglaies[J].hestropsicalJual985,976   \n[6]MATHURS.Narrow-lineSeyfert1galaxiesandtheevolutionofgalaxiesandativegalaxies[J]. Monthly NoticesoftheRoyal   \nAstronomical Society,2000,314(4): 17-20   \n[7] COLIN S,KAWAGUCHIT.Super-Eddingtonacretionrates in NarowLine Seyfert1galaxies[J].AstronomyandAstrophsics,   \n2004,426: 797-808   \n[8] KOMOSSA S, XU D. Narrow-Line Seyfert 1 Galaxies and the $\\bf { M } _ { B H ^ { - } } \\sigma$ Relation[J]. The Astrophysical Journal Letters,2OO7,667(1):   \n33-36   \n[9]PETERSONBM,MCHARDYIM,WILKESBJ,etal.X-RayandOptical VariabilityinNGC4051andtheNatureofNarrow-Lie   \nSeyfert1Galaxies[J].TheAstrophysicalJoural,2,542,161   \n[10]ZHOUH,WANGT,YUANW,etal.AComprehensive Studyof2Oo0NarowLineeyfert1GalaxiesfromtheSloanDigitalSky   \nSurvey.I. The Sample[J]. The Astrophysical Journal Supplement,2006,166(1):128-153   \n[11] YUANW,ZHOU HY,KOMOSSA S,etal.APopulationof Radio-Loud Narow-Line Seyfert1Galaxieswith Blazar-Like   \nProperties?[J]. The Astrophysical Journal,2008,685(2): 801-827   \n[12]KOMOSSAS,VOGEW,XUD,etal.adio-loudNarrow-LineTypeQuasars[J].heAstronomicalJoumal0,(2):   \n531-545   \n[13]PAIYAVS.Gamma-rayemitingnarow-lineSeyfert1galaxies:Past,present,andfuture[J].JournalofAstrophsicsnd   \nAstronomy,2019,40(5): 39   \n[14]D'AMMANDOFRelativistic Jets in Gamma-Ray-Emiting Narrow-Line Seyfert1Galaxies[J].Galaxies,219,7(4): 87   \n[15]ACKERMANNM, AJELLOM,ATWOODWB,etal.The ThirdCatalogof Active Galactic Nuclei DetectedbytheFermi Large   \nArea Telescope[J].The AstrophysicalJournal,2015,10(1):14   \n[16]PALIYAVS,STALINCS,RavikumarCD.FermiMonitoringofRadio-LoudNarrow-LineSeyfert1Galaxies[J].TheAstroomical   \nJournal,2015,149(2): 41   \n[17]LAHTEENMAKIA,JARVELAE,RAMAKRISHNANV,etal.Radiojetsandgamma-rayemision inradio-silentaow-line   \nSeyfert 1 galaxies[J]. Astronomy and Astrophysics,018, 614: 1   \n[18]WRIGHTEL,EISENHARDTPRM,MAINZERAK,etal.TheWide-fieldInfraredSurveyExplorer(WISE): MisionDesciption   \nand Initial On-orbit Performance[J].The Astronomical Journal,201,140(6):1868-1881   \n[19] MAINZER A,BAUERJ, GRAVT,etal.Preliminary Results from NEOWISE:AnEnhancement tothe Wide-field Infrared Survey   \nExplorer for Solar System Science[J].The Astrophysical Journal,2O11,731(1): 53   \n[20]MAINZER A,BAUERJ,CUTRIR M,etal.Iitial Performanceof theNEOWISEReactivation Mission[J].The Astrophysical   \nJournal,2014,792(1): 30   \n[21]JIANGN,ZHOUHHOLC,etalRapdInfraredVarbiltyfTreeRadio-oudNarrow-leSeyfert1Galaxies: AViewfromthe   \nWide-field Infrared Survey Explorer[J].The Astrophysical Jourmal Letters,2O12,759(2): 31   \n[22]ASSEFRJ,STERND,NOROTG,etal.The WISEAGNCatalog[J].TheAstrophysicalJoural Supplement,2018,4:23   \n[23]BEVINGTONPR.DataReductionandError Analysis forthePhysicalSciences.NewYork: McGraw-Hill1969:57-58   \n[24]MCLAUGHLINMA,MATTOXJR,CORDESJM,etal.Variabilityof CGRO/EGRETGamma-RaySources[J].The Astrophysical   \nJournal,1996,473: 763-772   \n[25]PRESS WH,TEUKOLSKYSA,VETTERLING WT,etal.Numerical Recipes:The Artof ScientificComputing[M].London:   \nCambridge University Press,1992:209-213,660-664   \n[26] SANCHEZP,LIRAP,CARTERR,etal.Near-infrared VariabilityofObscuredandUnobscuredX-Ray-selectedAGNs inthe   \nCOSMOS Field[J]. The Astrophysical Journal,2017,849(2):110   \n[27] VAUGHANS,EDELSONR,WARWICKRS,etal.OncharacterizingthevariabiltpropertiesofX-raylightcurvesfroactive   \ngalaxies[J].Monthly Notices of the Royal Astronomical Society,2003,345(4):1271-1284   \n[28]ANJUMA,STALINCS,RAKSHIS,etal.Mid-infraredvariabilityofgamma-rayemitingblazars[J].MonthlyNoticesof the   \nRoyal Astronomical Society,2020,494(1): 764-774   \n[29]FRITZJ,FRANCESCHINIA,HATZIMNAOGLOUE.Revisting theinfraredspectraofactivegalactic nuclei withanewtorus   \nemission model[J].Monthly Notices of the Royal Astronomical Society,2006,366(3):767-786   \n[30]CACCIANIGAA,ANTONS,BALLOL,etal.WISEcoloursandstarformationinthehostgalaxiesofradio-loudnarow-line   \nSeyfert1[J].Monthly Notices of the Royal Astronomical Society,2015,451(2):1795-1805   \n[31]RAKSHTS,JOHOA,SAICS,etal.WISEiewofarrow-lneeyfertgalaxies:d-infrardcolouradblty]   \nMonthly Notices of the Royal Astronomical Society,2019,483(2): 2362-2370 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Long-term Infrared Brightness and Color Variabilities of Y -ray-loud Narrow-line Seyfert 1 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Galaxies ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mao Lisheng ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(ScholofPicsdEtroioraionaalUesityuingoinail:olsg@dc ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The detection of GeV $\\gamma$ -rays from some narrow-line Seyfert 1 galaxies ( $\\overbrace { \\boldsymbol { \\gamma } }$ -ray-loud NLS1s） has received increasing attention.Up to now,the literature has reported $2 2 ~ \\eta$ -ray-loud NLS1s and another 3 high-confidence candidates. Using the data platform of Wide-field Infrared Survey Explorer (WISE),we derived the simultaneous photometric data in the W1 ( $( 3 . 4 ~ \\mu \\mathrm { m } )$ and W2( $( 4 . 6 ~ \\mu \\mathrm { m } )$ bands (from January 2O1O to December 2O19) for these sources.Then we analyzed theirlng-termvariabilityviatheparameter $V$ and the normalized excess variance $\\sigma _ { N X V } ^ { 2 }$ （204号 methods. It was found that 24 sources showed long-term brightness (W1 magnitude) variabilities, and 17 sources showed long-term color(W1-W2） variabilities.When studying the correlation between color and magnitude,we found that 7 sources showed a redder-when-brighter (RWB) trend,and 4 sources showed a trend of bluer-when-brighter (BWB). Finally,the possble causes of color changes and implication are briefly discussed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: Seyfert galaxy; Gamma-ray; Infrared variability; Statistical ",
+        "page_idx": 10
+    }
+]

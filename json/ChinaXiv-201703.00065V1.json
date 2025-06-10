@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201603280561 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜会超，刘宁，高继庆，苏博，李佳蕙，何健龙，刘爱英.烟台四十里湾浮游动物群落特征及与环境因子的关系.生态学报,2017,37（4)：1318-1327.  \nJiangHC,LJJoelseaiosiActa Ecologica Sinica,2017,37(4):1318-1327.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "烟台四十里湾浮游动物群落特征及与环境因子的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜会超¹，\\*，刘宁²，高继庆'，苏博1，李佳蕙'，何健龙'，刘爱英'",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1山东省海洋资源与环境研究院山东省海洋生态修复重点实验室，烟台264006  \n2 烟台市芝罡区渔业技术推广站，烟台264001",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：2009年3月—2010年12月在烟台四十里湾海域对浮游动物群落结构及其环境因子进行了连续 20个航次的综合调查，记录到浮游动物8大类共计64种(类)。浮游动物主要类群为桡足类和浮游幼虫,分别发现22种、18类,占总种(类)数 $34 \\%$ 、$28 \\%$ ;其次为水水母类,发现13 种,占 $2 0 \\%$ ;毛颚动物和栉水母类各发现1种。浮游动物的优势种为中华哲水蚤( $Y = 0 . 1 8 3$ ）、腹针胸刺水蚤 ( $Y { = } 0 . 0 7 8$ )、强壮箭虫( $Y { = } 0 . 0 7 8$ )和洪氏纺锤水蚤( $Y = 0 . 0 2 6$ )。浮游动物的生态类型主要为温带近岸种和广布性种。四十里湾海域浮游动物群落结构的季节变化较为明显,春、夏、秋、冬四季之间群落结构有显著性差异( $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ，同一季节内群落结构相似度较高，达 $5 5 \\%$ 以上。浮游动物丰度中位值在5月份达到最高（546.3个 $\\mathbf { \\langle } m ^ { 3 }$ );种类数、多样性指数中位值均在8月达到最高,分别为18种、3.20;浮游动物生物量呈现出双峰变化模型,5月份达到第1峰值（中位值 $8 7 0 . 4 ~ \\mathrm { m g / m } ^ { 3 }$ ),10月份为第2峰值(中位值 $3 6 2 . 0 ~ \\mathrm { m g / m } ^ { 3 }$ )。浮游动物种类数高值区主要分布在养马岛北部海域,而丰度高值区主要分布在近岸尤其是辛安河口海域。浮游动物种类数及多样性指数与水温、化学需氧量、硅酸盐显著正相关( $\\scriptstyle P < 0 . 0 1 \\$ ),与盐度、溶解氧、无机氮显著负相关( $\\scriptstyle P < 0 . 0 1$ );水温和盐度是影响浮游动物分布的主要环境因子,其次是硅酸盐、叶绿素a和化学需氧量,活性磷酸盐、溶解氧、透明度以及无机氮对浮游动物分布的影响较小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：四十里湾；浮游动物；环境因子；典范对应分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zooplankton community structure in Sishili Bay and its relationship with environmental factors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Huichaol,\\*，LIU Ning²，GAO Jiqing¹，SU Bo’，LI Jiahui $^ 1$ ，HE Jianlong¹，LIU Aiying1 1ShandongMineoceEontesechsiuteogKeyboatofolocalestotYt 2 Zhifu Fishery Technical Extension Station,Yantai 2640o1,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Coastal watersare ecosystems of great human and ecological interest，where complex processs occur.The interactionof physical（e.g.，coastal curents，upwellng，tides，andadvection），chemical（variable chemical properties including nutrient inputs），andecological（e.g.，biological productionand itsdynamics，andprey/predator interactions） proceses inducehigh spatialandtemporalvariabilityinthe water.This variabilitydetermines theabundanceand structure of differentbiologicalcommunities presentincoastal waters,inparticular zooplankton，whichareatthelowerlevelsof the oceanic food chain.Tounderstand coastal zooplankton communitystructureand explore itsrelationship with various environmentalfactors，azooplanktonsurvey wasconducted in SishiliBay.Fifteensampling stations werechosen to study water temperature，salinity，transparency，DO,COD，inorganic nitrogen，phosphorus，silicate，and Chl a from March 2009 to December 2010.Sampling and testing methods folowed those of the Specifications for Oceanographic Surveys and ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Specifications for Marine Monitoring.Therelationshipsbetween zooplankton communitiesand various environmental factors were conducted by Pearson corelation analysisand canonical correspondence analysis（CCA).Atotal of 64 zooplankton species，belonging to8taxonomic groups，were recorded in Sishili Bayover the studyperiod.Copepodsand zooplankton larvae were the main taxonomic groups， accounting for $34 \\%$ and $28 \\%$ of total species，respectively，followed by Hydromedusa，accounting for $20 \\%$ . Only one species each of Ctenophora and Chaetognatha were identified.The dominant species，which exhibited significant seasonal variability ( $\\textstyle P < 0 . 0 5 ~ ,$ ，were Calanus sinicus（ $Y = 0 . 1 8 3$ ），Centropages abdominalis ( $Y { = } 0 . 0 7 8$ ），Sagitta crassa( $Y { = } 0 . 0 7 8$ ），and Acartia hongi( $Y = 0 . 0 2 6$ ).The ecological type of zooplankton in SishiliBaywas primarily temperatecoastalandwidespread species.Fourzooplankton community structure types were observed fromthe clusterdendrogram.Similarseasonal variations inthezoplanktoncommunitywere observed in 2009 and 2010.Thezoplanktoncommunityhad highstabilityandreproducibilityand similarityindiferent monthsofthesameseason reached more than $5 5 \\%$ . The median total zooplankton abundance in Sishili Bay from 2O09 to 2O1O ranged from 40.5 individuals/ $\\mathbf { \\dot { m } } ^ { 3 }$ to 546.3 individuals/ $\\mathbf { \\dot { m } } ^ { 3 }$ ，with highest median abundances observed in May. The highest median values of zooplankton speciesandforthe diversity index wererecorded inAugust.Thezooplankton biomass exhibitedasignificant seasonal difference ( $P { < } 0 . 0 5$ ).The zooplankton biomass revealed an obvious bimodal annual variation trend and reached a maxima peak in May and a minor peak in October，with median biomass of $8 7 0 . 4 ~ \\mathrm { m g / m } ^ { 3 }$ and $3 6 2 . 0 ~ \\mathrm { m g / m } ^ { 3 }$ ，respectively. The stations with high zooplanktonspecies were mainlydistributed in thenorthernareaof Yangma Island，whereas he inshorearea，especially the Xinan River mouth，exhibited the highest zoplankton biomassIn present study，water temperature，COD，andsilicates revealeda significant positive relationship with zooplankton speciesand the diversity index,whereassalinity，DO,and inorganic nitrogenexhibited a significantnegativerelationshipwith them.Canonical correspondenceanalysis（CCA）indicated that water temperatureandsalinityaccountedfor most of the zooplankton species variation，followed bysilicates，Chl $a$ ，and COD，whereas phosphorus，DO， transparency，and inorganic nitrogen exhibited a weak influence on zooplankton community distribution. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Sishili Bay；zooplankton community；environmental factors；CCA ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海洋浮游动物作为海洋生态系统物质循环和能量流动的重要环节,在调节海洋初级生产力及鱼类资源量方面扮演关键角色[1]。浮游动物中大部分种类是经济鱼类的优良饵料,而作为消费者则以藻类、细菌和其它浮游生物为食,在水生食物链中占有重要的地位[2-3]。因此,浮游动物群落结构的改变会导致生态系统的营养结构及其营养路径的改变,从而对渔业生产造成影响。在海洋生态系统中,相对于其它高级动物而言,浮游动物由于具有繁殖快、分布广、其种类与数量分布易受环境变化影响等特点,国际上常将其作为反映海洋环境变化的指示生物[4-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近岸海域浮游动物种类繁多、环境因子复杂多变,水域中的浮游动物群落同时受周围多种环境因素（如物理、化学和生物等)的影响[6。近几十年来,很多学者在黄渤海进行了大量的调查研究[7-1],发现莱州湾、胶州湾等受人类活动影响较大的典型海湾生态系统均处于不稳定状态。烟台四十里湾位于山东省烟台市莱山区,是北黄海的一个重要浅海养殖海区,是一耳状半封闭式海湾,沿岸有辛安河等多条河流注人[]。近年来，受人类活动(航运、排污、海水养殖等)影响,该海域环境质量下降,生态系统出现了不稳定性。相对于其它海湾较为系统和连续的研究过程[7-10],烟台四十里湾生态系统尤其是浮游动物群落结构的相关研究则鲜有报道。本文选取四十里湾海域,进行了两年20个航次的连续调查,较全面、系统地阐明近岸浮游动物的群落结构特征,探讨浮游动物群落演替的驱动因子,为深入研究海洋生态系统动态变化机制提供基础资料和理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 采样区域、时间与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "调查区域为烟台四十里湾海域,采样站位布设如图1所示,共设15个采样站位。于2009年3—12月和2010 年3—12月对该海域进行两年共20个月（航次)的水质及浮游动物连续调查。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "浮游动物采集方法及样品处理等均按《海洋调查规范》[12]进行，用浅I浮游生物网自底至表层作垂直拖网采集，样品经 $5 \\%$ 甲醛溶液固定后实验室进行分类、鉴定、计数（不包括夜光虫)。各监测站位同步调查水温（WT）、盐度（Salinity）、透明度（Transparency）、溶解氧（DO）、化学耗氧量（COD）、无机氮（DIN）、活性磷酸盐（DIP）、硅酸盐(DISi）、叶绿素(Chla)等环境参数,所有操作均按照《海洋监测规范》[13]进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0af5bd640620f2f41372809db4452932c72525d1161780bd4678b08c29413dc9.jpg",
+        "img_caption": [
+            "图1 四十里湾站位示意图",
+            "Fig.1Sampling stations in Sishili Bay "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "浮游动物丰度以每立方米出现的个体数表示 $( \\uparrow ^ { \\cdot } / \\mathrm { m } ^ { 3 }$ ）优势种以优势度指数( $Y { > } 0 . 0 2 { \\rangle }$ 判断，其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { Y } = \\left( \\begin{array} { l } { \\boldsymbol { n } _ { i } / N } \\end{array} \\right) \\times \\boldsymbol { f } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物种多样性指数的计算采用Shannon-Winner指数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { \\prime } = - \\sum _ { i = 1 } ^ { s } P _ { i } \\log _ { 2 } P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $n _ { i }$ 为第 $i$ 种的个体数 ${ \\mathcal { I } } _ { i }$ 为该种在各站位中出现的频率， $N$ 为所有物种的总个体数,S为样品中的种类总数， ${ \\boldsymbol { P } } _ { i }$ 为第 $i$ 种的个体数与样品中的总个体数的比值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多元统计方法包括聚类分析和典范对应分析(CCA)等,均是基于种类数据和环境数据集合的排序方法，已广泛应用于海洋生态群落结构分析中。本文选取水温、盐度、透明度（Transparency）、溶解氧、化学耗氧量、无机氮、活性磷酸盐、硅酸盐、叶绿素9个指标分析其对浮游动物群落结构的影响。CCA分析中,浮游动物主要选取海区常见种,剔除出现频率小于 $2 0 \\%$ 的物种，物种及环境数据均经平方根转换。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全部数据的统计分析用 STATISTICA6.0软件完成,群落结构聚类分析使用PRIMER6.0软件,典范对应分析采用CANOCO4.5软件完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1浮游动物种类组成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次调查共鉴定浮游动物64种(类),分属8大类。以桡足类和浮游幼虫居多,分别为22种、18类,占总种(类)数 $34 \\%$ $2 8 \\%$ 。其次为水水母类,鉴定13种，占 $20 \\%$ 。被囊动物、端足类、枝角类分别为4种、3种、2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "种,占总种数 $6 \\% . 5 \\% , 3 \\%$ ，毛颚动物和栉水母类各记录到1种。浮游动物的优势种为中华哲水蚤（ $Y =$ 0.183）腹针胸刺水蚤( $Y { = } 0 . 0 7 8 \\$ ）、强壮箭虫( $Y = 0 . 0 7 8 \\AA ^ { \\cdot }$ )和洪氏纺锤水蚤( $Y = 0 . 0 2 6 ^ { \\cdot }$ )。浮游动物的生态类型与黄海浮游动物种类组成的生态特点一致,主要以温带近岸种和广布性种为主（表1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3130719c890ed4a8884d3947275d226303cf6354d62035d191d3631d64f1955f.jpg",
+        "table_caption": [
+            "表12009一2010年四十里湾浮游动物种类列表",
+            "Table 1Species list of zooplankton collected in Sishili Bay from 2oo9 to 201 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">ppeer Zooprunn</td></tr><tr><td>物种</td><td>缩略词</td><td>春</td><td>夏</td><td>秋</td><td>冬</td><td>丰度</td><td>出现频率/% Occurrence</td><td>优势度</td></tr><tr><td>Species</td><td>Abbreviate</td><td>Spring</td><td>Summer</td><td>Autumn </td><td>Winter</td><td>abundance/ （个/m3）</td><td>frequency</td><td>Dominant</td></tr><tr><td>毛鄂动物 Chaetognatha</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>强壮箭虫 Sagita crassa</td><td>SCRA</td><td>+</td><td>+</td><td>+</td><td>+</td><td>22.717</td><td>100</td><td>0.078</td></tr><tr><td>水水母类 Hydromedusa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>贝氏真囊水母 Euphysora bigelowi</td><td>EBIG</td><td></td><td>+</td><td></td><td></td><td>0.074</td><td>10</td><td><0.02</td></tr><tr><td>八斑芮氏水母 Rathkea octopunctata</td><td>ROCT</td><td></td><td>+</td><td></td><td></td><td>0.069</td><td>10</td><td><0.02</td></tr><tr><td>半球杯水母 Phialidium hemisphaericum</td><td>PHEM</td><td></td><td>+</td><td>+</td><td></td><td>0.019</td><td>15</td><td><0.02</td></tr><tr><td>带拟杯水母 Phialucium taeniogonia</td><td>PTAE</td><td></td><td>+</td><td>+</td><td></td><td>0.023</td><td>10</td><td><0.02</td></tr><tr><td>钩手水母 Gonionemus vertens</td><td>GVER</td><td>+</td><td></td><td>+</td><td></td><td>3.331</td><td>15</td><td><0.02</td></tr><tr><td>四枝管水母 Proboscidactyla flavicirrata</td><td>PFLA</td><td></td><td></td><td>+</td><td>+</td><td>0.033</td><td>20</td><td><0.02</td></tr><tr><td>罗氏水母 Lovenella assimilis</td><td>LASS</td><td></td><td>+</td><td>+</td><td></td><td>0.037</td><td>15</td><td><0.02</td></tr><tr><td>绿杯水母 Phialidium virens</td><td>PVIR</td><td></td><td>+</td><td>+</td><td></td><td>0.311</td><td>20</td><td><0.02</td></tr><tr><td>盘形杯水母 Phialidium discoida</td><td>PDIS</td><td></td><td>+</td><td>+</td><td>+</td><td>0.897</td><td>35</td><td><0.02</td></tr><tr><td>双叉薮枝水母 Obelia dichotoma</td><td>ODIC</td><td>+</td><td></td><td>+</td><td></td><td>2.989</td><td>15</td><td><0.02</td></tr><tr><td>水水母类 Hydromedusae</td><td>HYSP</td><td>+</td><td>+</td><td>+</td><td></td><td>4.427</td><td>55</td><td><0.02</td></tr><tr><td>薮枝螺水母 Obelia sp.</td><td>OBSP</td><td>+</td><td>+</td><td>+</td><td>+</td><td>10.705</td><td>55</td><td>0.020</td></tr><tr><td>锡兰和平水母 Eirene ceylonesis</td><td>ECEY</td><td></td><td></td><td>+</td><td></td><td>0.006</td><td>10</td><td><0.02</td></tr><tr><td>栉水母类 Ctenophora</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>球形侧腕水母Pleurobrachia globosa</td><td>PGLO</td><td></td><td></td><td>+</td><td>+</td><td>2.195</td><td>25</td><td><0.02</td></tr><tr><td>桡足类 Copepoda 背针胸刺水蚤 Centropages dorsispinatus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>刺尾歪水蚤 Tortanus spinicaudatus</td><td>CDOR</td><td>+</td><td></td><td>+</td><td></td><td>0.112</td><td>25</td><td><0.02</td></tr><tr><td>拟长腹剑水蚤Oithona similes</td><td>TSPI OSIM</td><td>+</td><td>+</td><td></td><td></td><td>0.018</td><td>10</td><td><0.02 <0.02</td></tr><tr><td>短角长腹剑水蚤Oithona brevicornis</td><td>OBRE</td><td>+</td><td>+ +</td><td>+</td><td></td><td>1.061</td><td>25</td><td></td></tr><tr><td>巨大怪水蚤 Monstrilloida grandis</td><td>MGRA</td><td></td><td>+</td><td>+</td><td>+</td><td>1.040</td><td>75</td><td><0.02</td></tr><tr><td>克氏纺锤水蚤 Acartia clausi</td><td>AGIE</td><td>+</td><td></td><td></td><td>+</td><td>0.052</td><td>25</td><td><0.02</td></tr><tr><td>腹针胸刺水蚤 Centropages abdominalis</td><td></td><td></td><td>+</td><td>+</td><td>+</td><td>2.820</td><td>40</td><td><0.02</td></tr><tr><td>小毛猛水蚤 Microsetella noruegica</td><td>CABD</td><td>+</td><td>+</td><td>+</td><td>+</td><td>45.873</td><td>50</td><td>0.078</td></tr><tr><td></td><td>MNOR TFOR</td><td>+</td><td>+</td><td>+</td><td>+</td><td>0.820</td><td>85</td><td><0.02</td></tr><tr><td>钳状歪水蚤 Tortanus forcipatus 强额拟哲水蚤 Parvocalanus crassirostris</td><td>PCRA</td><td>+</td><td>+</td><td>+</td><td></td><td>0.045</td><td>10</td><td><0.02</td></tr><tr><td>近缘大眼水蚤Corycaeus affinis</td><td>CAFF</td><td>+</td><td>+ +</td><td>+</td><td></td><td>0.180</td><td>40</td><td><0.02</td></tr><tr><td>瘦尾简角水蚤 Pontellopsis tenuicauda</td><td>PTEN</td><td></td><td></td><td>+</td><td>+</td><td>0.800</td><td>85</td><td><0.02 <0.02</td></tr><tr><td>瘦尾胸刺水蚤 Centropages tenuiremes</td><td>CTEN</td><td>+</td><td>+</td><td></td><td></td><td>0.014</td><td>10</td><td></td></tr><tr><td>圆唇角水蚤Labidocera rotunda</td><td>LROT</td><td></td><td></td><td></td><td></td><td>0.306</td><td>10</td><td><0.02</td></tr><tr><td>洪氏纺锤水蚤 Acartia hongi</td><td></td><td></td><td>+</td><td>+</td><td>+</td><td>2.081</td><td>60</td><td><0.02</td></tr><tr><td></td><td>AHON</td><td>+</td><td>+</td><td>+</td><td></td><td>15.466</td><td>50</td><td>0.026</td></tr><tr><td>太平洋纺锤水蚤 Acartia pacifica</td><td>APAC</td><td>+</td><td>+</td><td>+</td><td></td><td>0.131</td><td>25</td><td><0.02</td></tr><tr><td>太平洋真宽水蚤 Eurytemora pacifica</td><td>EPAC</td><td>+</td><td>+</td><td></td><td></td><td>10.331</td><td>35</td><td><0.02</td></tr><tr><td>汤氏长足水蚤Calanopia thompsoni</td><td>CTHO</td><td>+</td><td>+</td><td>+</td><td>+</td><td>4.637</td><td>70</td><td><0.02</td></tr><tr><td>拟长腹剑水蚤Oithona similis</td><td>OSIM</td><td></td><td>+</td><td>+</td><td>+</td><td>0.786</td><td>45</td><td><0.02</td></tr><tr><td>小拟哲水蚤 Paracalanus parus</td><td>PPAR</td><td>+</td><td>+</td><td>+</td><td>+</td><td>3.180</td><td>100</td><td><0.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e971f4c0b77ea1be4b5894965c7c73d40c414a8672b3d354248bc461a0e20dcd.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">续表</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>出现频率/%</td><td></td></tr><tr><td></td><td>缩略</td><td>春</td><td>Smer</td><td>Am</td><td>Wter</td><td></td><td>frequency</td><td>优势度</td></tr><tr><td>真刺唇角水蚤 Labidocera euchaeta</td><td>LEUC</td><td></td><td>+</td><td>+</td><td>+</td><td>（个/m³） 0.337</td><td>45</td><td><0.02</td></tr><tr><td>中华哲水蚤 Calanus sinicus</td><td>CSIN</td><td>+</td><td>+</td><td>+</td><td>+</td><td>53.628</td><td>100</td><td>0.183</td></tr><tr><td>浮游幼虫 Pelagic larva</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>阿利玛幼体 Squillidae alima larva</td><td>SQUL</td><td></td><td>+</td><td></td><td></td><td>0.449</td><td>20</td><td><0.02</td></tr><tr><td>磁蟹泽状幼体 Porcellana zoea larva</td><td>PORL</td><td></td><td>+</td><td>+</td><td></td><td>0.137</td><td>25</td><td><0.02</td></tr><tr><td>等足类幼体 Isopoda larva</td><td>ISOL</td><td></td><td>+</td><td></td><td>+</td><td>0.009</td><td>10</td><td><0.02</td></tr><tr><td>短尾类幼体 Brachyura larva</td><td>BRAL</td><td>+</td><td>+</td><td>+</td><td></td><td>70.370</td><td>70</td><td>0.168</td></tr><tr><td>多毛类幼体 Polychaeta larva</td><td>POLL</td><td>+</td><td>+</td><td>+</td><td>+</td><td>2.095</td><td>95</td><td><0.02</td></tr><tr><td>腹足类幼体 Gastropoda larva</td><td>GASL</td><td>+</td><td>+</td><td></td><td></td><td>0.145</td><td>30</td><td><0.02</td></tr><tr><td>海胆长腕幼虫 Echinoidea larva</td><td>ECHL</td><td>+</td><td>+</td><td>+</td><td>+</td><td>0.626</td><td>40</td><td><0.02</td></tr><tr><td>海蛇尾长腕幼虫 Ophiuroidea larva</td><td>OPHL</td><td>+</td><td>+</td><td></td><td></td><td>4.639</td><td>20</td><td><0.02</td></tr><tr><td>棘皮动物耳状幼体 Auricularia larva</td><td>AURL</td><td>+</td><td>+</td><td></td><td></td><td>0.169</td><td>25</td><td><0.02</td></tr><tr><td>桡足类幼体 Copepodid larva</td><td>COPL</td><td>+</td><td>+</td><td>+</td><td>+</td><td>1.454</td><td>90</td><td><0.02</td></tr><tr><td>蛇尾长腕幼虫 Ophiuroidea larva</td><td>OPHL</td><td></td><td>+</td><td>+</td><td></td><td>1.035</td><td>30</td><td><0.02</td></tr><tr><td>双壳类壳顶幼虫 Bivalvia larva</td><td>BIVL</td><td>+</td><td>+</td><td>+</td><td>+</td><td>0.626</td><td>70</td><td><0.02</td></tr><tr><td>藤壶六肢幼虫 Balanidae sp larva</td><td>BALL</td><td>+</td><td>+</td><td>+</td><td></td><td>0.179</td><td>50</td><td><0.02</td></tr><tr><td>幼螺 Nail</td><td>NAIL</td><td></td><td>+</td><td>+</td><td>+</td><td>0.092</td><td>20</td><td><0.02</td></tr><tr><td>鱼卵Fish egg</td><td>FISE</td><td>+</td><td>+</td><td></td><td></td><td>0.567</td><td>40</td><td><0.02</td></tr><tr><td>仔稚鱼Fish larva</td><td>FISL</td><td>+</td><td>+</td><td>+</td><td></td><td>0.405</td><td>50</td><td><0.02</td></tr><tr><td>长尾类幼体 Maeruran larva</td><td>MAEL</td><td>+</td><td>+</td><td>+</td><td>+</td><td>5.100</td><td>75</td><td><0.02</td></tr><tr><td>帚毛虫幼体 Actinotrocha larva</td><td>ACTL</td><td></td><td>+</td><td>+</td><td></td><td>0.017</td><td>10</td><td><0.02</td></tr><tr><td>端足类 Amphipoda</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>钩虾 Gammarid sp.</td><td>GASP</td><td></td><td>+</td><td>+</td><td>+</td><td>0.654</td><td>35</td><td><0.02</td></tr><tr><td>麦秆虫 Caprellidae</td><td>SSHR</td><td></td><td>+</td><td>+</td><td></td><td>0.125</td><td>35</td><td><0.02</td></tr><tr><td>细长脚虫戎 Themisto gracilipes</td><td>TGRA</td><td>+</td><td>+</td><td>+</td><td>+</td><td>0.222</td><td>45</td><td><0.02</td></tr><tr><td>被囊动物 Tunicate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>软拟海樽 Dolioletta gegenbauri</td><td>DGEG</td><td></td><td></td><td>+</td><td></td><td>1.067</td><td>10</td><td><0.02</td></tr><tr><td>异体住囊虫 Oikopleura dioica</td><td>ODIO</td><td></td><td>+</td><td>+</td><td>+</td><td>3.773</td><td>65</td><td><0.02</td></tr><tr><td>长尾住囊虫 Oikopleura longicauda</td><td>OLON</td><td></td><td>+</td><td>+</td><td></td><td>0.441</td><td>15</td><td><0.02</td></tr><tr><td>住囊虫 Oikopleura sp.</td><td>OISP</td><td>+</td><td></td><td></td><td></td><td></td><td>15</td><td><0.02</td></tr><tr><td></td><td></td><td></td><td>+</td><td>+</td><td></td><td>2.972</td><td></td><td></td></tr><tr><td>枝角类 Cladocera</td><td>ETER</td><td>+</td><td>+</td><td>+</td><td></td><td></td><td></td><td></td></tr><tr><td>肥胖三角泽 Evadne tergestina</td><td></td><td></td><td></td><td></td><td></td><td>1.860</td><td>40</td><td><0.02</td></tr><tr><td>鸟喙尖头泽Penilia avirostris</td><td>PAVI</td><td></td><td>+</td><td>+</td><td></td><td>1.838</td><td>25</td><td><0.02</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2浮游动物群落季节波动",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "浮游动物种类数呈现出明显季节波动，波动类型为单峰型,3—5月份种类比较少,6月份开始增多，8月份达到全年的最高值,从9月份开始浮游动物种类数逐渐下降，12月浮游动物种类中位值仅为8种（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "浮游动物丰度的季节变化较为剧烈,变化类型为双峰型。3月份丰度较低,随着水温的升高,浮游动物开始大量繁殖,5月份浮游动物丰度中位值达到一年当中的最高值(546.3 个 $/ \\mathrm { m } ^ { 3 }$ ),6月有所回落，7月份达到次高峰(312.4个) $/ \\mathrm { m } ^ { 3 }$ ),8—12月生物丰度维持在较低水平（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "浮游动物生物量呈现出明显的双峰型，3月份生物量较低( $2 1 6 . 1 ~ \\mathrm { m g / m ^ { 3 } }$ )，4月份开始升高，5月份生物量中位值达到最高( $5 4 6 . 3 ~ \\mathrm { m g / m } ^ { 3 }$ ),6—7月生物量迅速下降,8月份中位值降到最低值 $( 3 7 . 1 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ),10月份中位值达到全年次高峰( $3 6 2 . 0 ~ \\mathrm { m g / m } ^ { 3 }$ ),11—12月生物量逐渐下降（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/108ee1fc06c1b58769b1e06de3f1326a006e000a9462762a21db08b716b13b16.jpg",
+        "img_caption": [
+            "图2四十里湾浮游动物群落季节(种类数、丰度、生物量、多样性指数)动态变化",
+            "Fig.2Zooplankton community variation in Sishili Bay including species，abundance,biomass，diversity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3浮游动物群落水平分布",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "浮游动物种类数由岸及远递增,近岸浮游动物种类数较低且各月份之间的波动较小,养马岛北部种类较丰富,且各月份之间波动较为剧烈。浮游动物丰度分布与种类数分布相反,由岸及远递减,近岸海域尤其是辛安河口,浮游动物丰度最高，且各月份之间的波动最为剧烈，北部离岸海域丰度较低且各月份之间的波动较小。浮游动物多样性指数高值区主要分布在养马岛周边海域,辛安河口及北部离岸海域浮游动物多样性指数相对较低且各月份之间波动较为剧烈（图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4浮游动物群落聚类分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对四十里湾海域两年20个月份浮游动物群落组成进行MDS及聚类分析,结果如图4所示，以 $5 5 \\%$ 相似度为依据,各月份的浮游动物群落可以明显的划分为四大类型;以3、4月份样品为代表的冬季群落类型（I)，以5.6月份样品为代表的春季群落类型(II),以7、8、9、10月份样品为代表的夏季群落类型(II),以11、12月份样品为代表的秋季群落类型(IV)。四十里湾浮游动物群落结构呈现出非常明显的季节变化特征,这种季节变化特征并未随着监测年份的不同而变动,具有良好的稳定性与重现性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5浮游动物群落结构与环境因子关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "浮游动物种类数、丰度、生物量以及多样性指数与水温、盐度、营养盐、叶绿素a等9项理化因子相关性见表2。浮游动物种类数及多样性指数与水温、化学需氧量、硅酸盐显著正相关( $P { < } 0 . 0 1$ ),与盐度、溶解氧、无机氮、活性磷酸盐显著负相关( $\\scriptstyle \\cdot { P < 0 . 0 5 } )$ ,与叶绿素无显著相关性( $P { > } 0 . 0 5 )$ ;浮游动物生物量与活性磷酸盐显著负相关( $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ , ~ } }$ )，与盐度显著正相关( $P { < } 0 . 0 5 )$ ，与其他参数无显著相关性( $P { > } 0 . 0 5 \\mathrm { ) }$ );浮游动物丰度与所选化学参数无显著相关性( $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对四十里湾环境因子与浮游动物进行CCA分析发现,水温和盐度是影响浮游动物分布的主要环境因子，其次是硅酸盐、叶绿素a和化学需氧量,活性磷酸盐、溶解氧、透明度以及无机氮对浮游动物分布的影响较小（图5）。不同浮游动物对环境的要求不一样,雌蟹泽状幼体、短尾类幼体、鱼卵等浮游幼虫多分布在水温较高、盐度较低的区域,而腹针胸刺水蚤、细长脚虫戎、太平洋真宽水蚤多分布在低温高盐区,真刺唇角水蚤、异",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "体住囊虫等与硅酸盐呈现出较强的正相关（图5）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1浮游动物种类组成",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本次调查共发现浮游动物64种(类),分属8大类,桡足类为四十里湾海域的主要类群。张武昌[14]等调查1998—1999 年渤海浮游动物群落组成时发现桡足类是渤海浮游动物的主要类群， $\\mathrm { C h e n } ^ { [ 1 5 ] }$ 等在分析黄海、东海浮游动物时空分布时也报道过桡足类的优势地位,本次调查与上述报道相一致。四十里湾浮游动物的主要优势种为中华哲水蚤、腹针胸刺水蚤、强壮箭虫和洪氏纺锤水蚤,均为黄渤海常见种。张武昌[14]分析1998—1999年春秋两季渤海浮游动物样品时发现,洪氏纺锤水蚤和腹针胸刺水蚤是春季优势种;朱延忠[16]和姜强[17]等分析 2006—2007年北黄海大中型浮游动物群落组成时发现克氏纺锤水蚤、中华哲水蚤、腹针胸刺水蚤、强壮箭虫为北黄海优势种,本次调查与上述报道基本相符,浮游动物优势种未见明显改变。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/31d41468a9226d6b5f9dada5764c169980b5a67bc4e9c0bdb5982af866f9c2cc.jpg",
+        "table_caption": [
+            "表2浮游动物各项指标与环境因子的相关性",
+            "Table 2Pearson correlations of main environmental factors and parameters of zooplankton community "
+        ],
+        "table_footnote": [
+            "$\\ast 0 . 0 5$ 显著水平(双尾)； $* * 0 . 0 1$ 显著水平(双尾) "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">理化因子 Environment factors</td><td colspan=\"2\">种类数 Number of species</td><td colspan=\"2\">丰度 Abundance</td><td colspan=\"2\">生物量 Biomass</td><td colspan=\"2\">多样性指数 Diversity index</td></tr><tr><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td><td>R</td><td>P</td></tr><tr><td>水温WT</td><td>0.519</td><td>0.000 **</td><td>-0.002</td><td>0.975</td><td>0.101</td><td>0.186</td><td>0.611</td><td>0.000 **</td></tr><tr><td>盐度 Salinity</td><td>-0.409</td><td>0.000 **</td><td>0.115</td><td>0.129</td><td>0.193</td><td>0.011*</td><td>-0.256</td><td>0.001**</td></tr><tr><td>透明度 Transparency</td><td>0.149</td><td>0.050</td><td>-0.028</td><td>0.713</td><td>0.136</td><td>0.074</td><td>0.286</td><td>0.000 **</td></tr><tr><td>溶解氧DO</td><td>-0.328</td><td>0.000 **</td><td>0.056</td><td>0.464</td><td>-0.128</td><td>0.093</td><td>-0.341</td><td>0.000 **</td></tr><tr><td>化学需氧量COD</td><td>0.232</td><td>0.002 **</td><td>-0.018</td><td>0.819</td><td>0.090</td><td>0.238</td><td>0.362</td><td>0.000 **</td></tr><tr><td>无机氮DIN</td><td>-0.428</td><td>0.000 **</td><td>0.067</td><td>0.379</td><td>-0.041</td><td>0.589</td><td>-0.488</td><td>0.000 **</td></tr><tr><td>活性磷酸盐 DIP</td><td>-0.257</td><td>0.001**</td><td>0.020</td><td>0.790</td><td>-0.222</td><td>0.003 **</td><td>-0.249</td><td>0.001**</td></tr><tr><td>硅酸盐 DISi</td><td>0.173</td><td>0.022 *</td><td>-0.098</td><td>0.197</td><td>-0.149</td><td>0.050</td><td>0.247</td><td>0.001**</td></tr><tr><td>叶绿素a Chl a</td><td>0.136</td><td>0.074</td><td>-0.018</td><td>0.815</td><td>0.020</td><td>0.789</td><td>0.074</td><td>0.333</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2浮游动物季节变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本次调查发现浮游动物的群落结构呈现出明显的季节变化特征,不同季节浮游动物的群落结构差异较大,四十里湾浮游动物群落结构明显地划分为春、夏、秋、冬四种类型。3—5月份由于表层水温升高,光度增强,营养盐类丰富,浮游植物主要是硅藻迅速繁殖,数量激增,而浮游动物由于水温适宜和饵料充足也开始大量繁殖[2],浮游动物的丰度、生物量在5月份达到最高值;之后,随着牧食压力的增加,浮游动物生物量开始逐渐下降,在8—9月份,随着浮游植物的再次爆发,浮游动物生物量也达到了年度第2峰值。11—12月,随着气温的逐渐下降,浮游动物种类及生物量均下降到较低水平。从2009—2010连续2a的监测结果看,浮游动物群落结构的季节分布特征较为稳定,Fabrizio[18]等在对亚得里亚海进行长达30a的调查研究后发现,浮游动物的季节分布特性具有较好的稳定性。本次调查结果也证实了这一点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3环境因子对浮游动物的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近岸海域中浮游动物种类繁多、环境因子复杂多变,水域中的浮游动物群落同时受周围多种环境因素（如物理、化学和生物等)的影响,其中,温度、盐度是影响浮游动物分布最重要因子[19-21]。不同浮游动物对温度与盐度变化的耐受力存在差异,其种类组成和数量分布会随着温度、盐度的变化而在分布上有所差异[2]。本次调查发现,浮游动物丰度高值区主要分布在近岸高温低盐海域。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "温度直接影响浮游动物的体温,决定生物体新陈代谢强度,影响有机体生长、发育、繁殖[2-24]。金琼贝 等[25]曾报道过,室内条件下( $3 0 \\ \\mathrm { { ^ circ C } }$ 以下)枝角类、桡足类、无节幼体数量会随水温的升高而增多;姜会超[26]等 种类数年度均值annual means forspecies;种类数年度方差anual standard deviation forspecies；丰度年度均值annual means forabundance;丰 度年度方差 annual standard deviation for abundance;多样性指数年度均值 annual means for $H ^ { \\prime }$ ;多样性指数年度方差 annual standard deviation for $H ^ { \\prime }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b54df26ad4beeb75415fe1dc16af6589871be7e33d23ec12e70f9db26d292ce5.jpg",
+        "img_caption": [
+            "图3浮游动物群落水平分布",
+            "Fig.3Horizontal distribution of zooplankton community "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在研究莱州湾金城海域浮游动物群落结构时发现，在2.2— $2 7 . 4 \\mathrm { ^ { \\circ } C }$ 范围内，浮游动物的种类与水温呈极显著的正相关性( $P { < } 0 . 0 1 \\rangle$ )。CCA分析发现,盐度是继水温影响浮游动物群落结构的另一重要因素，盐度与大部分物种的分布呈负相关,辛安河口低盐区的浮游动物丰度明显高于其他区域。李开枝等[27-28]对珠江口及邻近海域浮游动物群落研究表明,盐度是影响珠江口浮游动物群落分布的重要环境因子;Mouny 等[29]对英吉利海峡",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/34f6cc95a5445f04c86bb38679d3a27a897c8f0dd751f62e738bd10f02a08da7.jpg",
+        "img_caption": [
+            "Fig.4Cluster dendrogramand MDSof zooplankton community in 20 sampling months in Sishili Bay 2009—2010 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "塞纳河口（Seine estuary）以及徐兆礼[30-31]对长江口浮游动物的研究都进一步表明了盐度对浮游动物分布的重要性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "除温度和盐度外，硅酸盐、叶绿素a、COD等对浮游动物的影响也比较大，硅酸盐、叶绿素a $\\phantom { + } \\cdot \\phantom { + } \\mathrm { c o D }$ 与大部分浮游动物分布呈显著正相关。本文调查发现，在四十里湾海域，作为浮游生物生长所必需的营养盐（无机氮、活性磷酸盐)与浮游动物的相关性较弱，一方面可能是因为营养盐对浮游动物的影响主要通过浮游植物来间接产生，其影响并非简单的线性关系；另一方面可能与四十里湾近岸海域营养盐偏高、氮磷比失衡以及人类活动扰动较大有关[11,32]。CCA 结果显示,本文所选环境因子对于解释浮游动物物种变量的累计贡献率仅为49.$1 \\%$ ，说明除环境因子外，浮游动物群落分布还受浮游植物分布、鱼类捕食压力、水产养殖活动等其他多方面的影响，想要进一步探讨浮游动物群落结构的变化机理，不仅要在时间与空间上进行大尺度调查研究，更需对影响浮游动物群落变化的内生动力与外部环境上做进一步的考量。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/cda27eacad84887b77087d3192c6dc97a2acbba8c57961dae4fea48d5da0afd7.jpg",
+        "img_caption": [
+            "图42009—2010年四十里湾海域20个月份浮游动物群落MDS及聚类树状图",
+            "图5浮游动物群落分布与环境因子典范对应分析 Fig.5CCA of the zooplankton community and associated environmental factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]HsiaoSH,abK,angHHangJSZoplaktoaemblagsascaoofeasoagesinaterasesintheboatebetween the East China Sea and the Taiwan Strait.Hydrobiologia,2011,666(1)：317-330.  \n［2］郑重，李少菁，许振祖.海洋浮游生物学.北京：海洋出版社，1984：139-491.  \n[3]BarssMA，FrasHGGgpresurefcopepsoeoplaostckofeentralNrthSaetherlandsJoualofSRearh,1984，18(1-2):120-142.  \n[4]FerdousZ，MuktadirAKM.Areview：potentialityofoplanktonasbioindicator.AmericanJoualofApledSieces，2,6（1）:1815-1819.  \n[5]BonnetDFridCSevencopepodspeisosideredasidicatorsofwaterassifuenceadchangesesultsfrNortumberladoastalstation. Journal of Marine Science，2004,61(4)：485-491.  \n[6]DavidV,SutourB，ChardyP,LeconteM.Long-temhangesf thezplanktonvariabilitinaturbideviroent：theGirodestuay（France）.Estuarine，Coastal and Shelf Science，2005,64(2-3）：171-184.  \n[7］刘爱英，宋秀凯，刘丽娟，任利华，靳洋，刘义豪，王文杰，姜芳,姜会超.夏季莱州湾浮游动物群落特征.海洋科学，2012，36(10)：61-67  \n［8］孙松，李超伦，张光涛，孙晓霞，杨波.胶州湾浮游动物群落长期变化.海洋与湖沼，2011,42（5）：625-631.  \n［9］金显仕，邓景耀.莱州湾渔业资源群落结构和生物多样性的变化.生物多样性，2000，8（1)：65-72.  \n［10］孙松，周克，杨波，张永山，吉鹏.胶州湾浮游动物生态学研究I.种类组成.海洋与湖沼，2008，39（1）：1-7.  \n[11］蒋金杰，刘东艳，邸宝平,董志军，王玉珏，王跃启，石雅君.烟台四十里湾浮游植物群落的季节变化及其对环境的指示意义.海洋学报,2011,33(6)：151-164.  \n[12］国家质检总局，国家标准化管理委员会.GB/T12763.6-200 海洋调查规范第6部分：海洋生物调查.北京：中国标准出版社，2007.  \n[13］国家质检总局，国家标准化管理委员会.GB 17378.4-2007 海洋监测规范第4部分：海水分析.北京：中国标准出版社，2008.  \n[14］张武昌，王克，高尚武，王荣.渤海春季和秋季的浮游动物.海洋与湖沼，2002，33(6)：630-639.  \n[15]ChenHJQ,LGXSpatialandtpalVratiosofacandesplakoouitinheangSea（YeladEastChina Sea in summer and winter. Acta Oceanologica Sinica,201,30(2）：84-95.  \n［16］朱延忠.夏、冬季北黄海大中型浮游动物群落生态学研究[D].青岛：中国海洋大学，2008.  \n［17］姜强.春、秋季北黄海大中型浮游动物群落生态学研究[D].青岛：中国海洋大学，2010.  \n[18]AubryFBoaiiG,AciFastia,ciF,CatiE,DeLaaiA,ugeiA,doC，SoalG.Plakosinthe northerAdriatic Sea：paternsandchangesoverthelast3Oyears.Estuarine,CoastalandShelfScience,2O12,115：125-137.  \n[19]JinBS,FuCZ,ZogJS,LiB,ChenJK，WuJH.ishutlizationofasaltmarshintertidalcrekintheYangtzeRiverestuayina.Estuarine，Coastal and Shelf Science，2007，73(3-4)：844-852.  \n[20]FroenoplakouitucturedassinouthcatpoarilyenodtarysaiefScience，2004,60(1)：125-132.  \n[21]MarqesSeiteoUqs,rdal.Zaktodhoplakouitsiperateaaiand temporal paterns. Journal of Plankton Research,2006,28（3）：297-312.  \n[22]EllottA.Acomparisonof thermal polygons forBritish freshwater teleosts.Freshwater Forum，1995,5（3）：178-184.  \n[23]DevrekerusiS，eurontLfectsfloohllocetratodmpeaueraohpductiodilongicornis（Copepoda，Calanoida）intheEastenEnglishChannel.JoumalofExperimentalMarineBiologyandEcology，2Oo5，318（2）：145- 162.  \n[24]Lenzowraripiespofedusa.The Biological Bulletin，2005，209(1）：75-85.  \n[25］金琼贝，盛连喜，张然.温度对浮游动物群落的影响.东北师大学报：自然科学版，1991，（4)：103-111.  \n［26］姜会超，陈海刚，宋秀凯，刘宁，何健龙，程玲，王月霞.莱州湾金城海域浮游动物群落结构及与环境因子的关系.生态学报，2015，35(22)： 7308-7319.  \n[27]LiKZ,nuagL,YSatialtealatosfsaktoineearliveetaryinasaostaand Shelf Science，2006，67(4):543-552.  \n[28］李开枝，尹健强，黄良民，谭烨辉，许战洲.珠江口浮游动物的群落动态及数量变化.热带海洋学报，2005,24（5）：60-68.  \n[29Mouyuiiotaofplaiucureiearygiseleacta2002，25(1):13-22.  \n[30］徐兆礼.长江口邻近水域浮游动物群落特征及变动趋势.生态学杂志，2005，24（7)：780-784.  \n[31］徐兆礼.中国海洋浮游动物研究的新进展.厦门大学学报：自然科学版，2006,45（Z2）：16-23.  \n[32］孙珊,李佳蕙，靳洋，马元庆，白艳艳，汤宪春，刘义豪，秦华伟.烟台四十里湾海域营养盐和沉积物-水界面交换通量.海洋环境科学，2012，31(2)：195-200.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

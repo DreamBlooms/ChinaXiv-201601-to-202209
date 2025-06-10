@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "miR-101对结直肠癌细胞SW620生物学特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘 燕¹，陆滟霞²,周 敏²,郑 林²,李学农²  \n1川北医学院病理学系,四川 南充 637000;南方医科大学病理学系//广东省分子肿瘤病理学重点实验室,广东  \n广州510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨miR-101对结直肠癌细胞SW620增殖、凋亡及细胞周期的影响。方法利用CCK8法、平板克隆形成实验、细胞周期、细胞凋亡方法分别检测 $\\mathrm { S W 6 2 0 _ { \\cdot } G V 2 0 9  – S W 6 2 0 _ { \\cdot } m i r 1 0 1  – S W 6 2 0 3 }$ 组细胞的生物学特性。结果CCK8比色法结果显示SW620各组细胞生长时间水平差异具有显著性( $F { = } 4 1 5 2 , P { < } 0 . 0 0 1 ,$ ，细胞增殖能力组间有显著性差异（ $F { = } 1 0 2 2 0$ $P { < } 0 . 0 0 1$ )。平板克隆实验的结果为SW620空白对照组、GV209-SW620对照组和mir101-SW620组的克隆形成率分别为： $4 4 . 3 3 \\% , 4 8 . 1 7 \\%$ /$3 5 . 1 7 \\%$ 。SW6203组细胞间的克隆形成能力差异具有统计学意义（ $F { = } 7 3 . 0 1 5 , P { < } 0 . 0 0 1 )$ 。细胞周期分析发现SW620各组细胞间其 $\\mathbf { G } _ { 1 } , \\mathbf { S } , \\mathbf { G } _ { 2 } / \\mathbf { M }$ 期存在着统计学差异（ $\\scriptstyle { F = 4 5 . 9 7 4 }$ ， $\\scriptstyle P = 0 . 0 1 9$ $F { = } 1 2 2 . 1 3 9$ ， $\\scriptstyle P = 0 . 0 0 0$ $F { = } 1 1 5 . 1 7 1$ ， $\\scriptstyle P = 0 . 0 0 0 .$ ）。除了SW620和GV209-SW620的 $\\mathbf { G } _ { 2 }$ 期分布无统计学差异外（ $\\scriptstyle P = 0 . 4 4 1$ )，其余各组 $\\mathbf { G } _ { 1 } , \\mathbf { G } _ { 2 } / \\mathbf { M }$ 期均有统计学差异（ $( P { < } 0 . 0 1 )$ ；与SW620和GV209-SW620相比,mir101-SW620组出现了明显的 $\\mathbf { G } _ { 1 }$ 和 $\\mathrm { { G } } _ { 2 } / \\mathrm { { M } }$ 期周期阻滞。细胞凋亡实验发现SW620细胞各组细胞凋亡率差异有统计学意义（ $F { = } 6 1 1 5 , P { < } 0 . 0 0 1 ,$ ),各组进行两两比较，均有统计学差异 $( P { < } 0 . 0 1 )$ 。与SW620空白细胞组、GV209-SW620对照组相比,miR-101过表达组细胞凋亡率增加 $( P { < } 0 . 0 5 )$ 。结论miR-101能够抑制结直肠癌细胞SW620的增殖，细胞Gi和 ${ \\bf G } _ { 2 } /$ M期周期阻滞及促进细胞凋亡。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：结直肠癌;miR-101;SW620;增殖;凋亡;细胞周期;生物学特性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of miR-101 on biological characteristics of colorectal cancer cell line SW620 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Yan’,LUYanxia²,ZHUMin²,ZHENGLin,LI Xuenong² Departmentooticalacptof of Basic Medical Sciences,KeyLaboratoryofMoleculeTumor PathologyofGuangdongProvince,Guangzhou510515,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveToinvestigatetheefectofiR-101onbiologicalehaviorsofcolorectalcancercellineSW620.Methods CCK-8 metd,cloyfrmationassaycellcyceaalysisadapoosisalysiswreapledtssstheeectsof11 oncellproliferationinvasionandapoptosisofSW620cells.ResultsOver-expressnofiR-101inW620celssigicantly suppresedthecellproliferationandatenuated thecolony-forming abilityofthecels.Flowcytometryshowed thatover-expreion ofmR-101inSW620cellscausedobviouscellcyclearestiG2/MandG1phases,andsignificantly increasedthecell apoptosis rate.Conclusion Over-expressnofiR-101can inibit the proliferation,causecellcycle arrst and promote apoptosis of colorectal cancer SW620 cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: colorectal cancer cells; miR-101; SW620 cells; proliferation; apoptosis; cell cycle ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MicroRNAs(miRNAs）是一类长度约18-22核苷酸的非编码小分子RNA家族，在转录后水平，通过碱基互补方式与靶向蛋白编码基因mRNA的3UTR结合，调控靶基因的表达，引起其降解或抑制其翻译；发挥着类似于癌或者抑癌基因的作用[1-5]。miRNAs调控着人类基因组中约1/3的蛋白编码基因，包括细胞增殖、分化、代谢、周期、调亡及个体的发育等在内生命活动[67]。miR-101属于miRNAs家族,存在于多种细胞中。成熟的miR-101有21个bp,在各个物种中,具有高度保守的成熟序列。研究表明，miR-101在多种实体肿瘤中如乳腺癌、前列腺癌、肺癌、垂体腺瘤、肝癌、胃癌、食管癌、卵巢上皮癌、胎儿型横纹肌肉瘤、胰腺癌、骨肉瘤等表达水平下调[5.8-19]。miR-101可能参与肿瘤的发生、转移与侵袭等过程;并与患者的临床病理特征、生存预后及靶向治疗有关[6-17]。在实体肿瘤中,miR-101可能起着抑制肿瘤发生发展的作用2。研究表明miR-101和其靶基因在肿瘤细胞的增殖、分化、细胞周期、凋亡、迁移、侵袭转移以及其他过程中起着着一定的作用[1-2]。miR-101可抑制肝癌细胞的增殖;克隆形成及细胞周期的转录因子[4-5]。研究发现,miR-101可抑制胃癌细胞的迁移，增殖能力[21]。在肺癌细胞中,miR-101通过靶向调控CXCL12的表达而抑制肺癌细胞的增殖，迁移并促进肿瘤细胞凋亡[22]。在胰腺癌中,miR-101通过靶向作用于HMGA2而抑制EMT过程[18]。在骨肉瘤细胞中，miR-101靶向抑制c-FOS抑制肿瘤细胞的增殖、迁移和侵袭能力[19]。而本课题组前期研究发现,miR-101在低转移的SW480中表达较高，而在高转移SW620细胞中表达较低，成功构建稳定过表达miR-101的细胞株SW620,并发现在结直肠癌细胞株中miR-101可靶向调控RACl表达[23]。miR-101可调控多种肿瘤细胞的生物学行为，而其对结直肠癌细胞SW620的生物学特性的影响的研究甚少，值得我们探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 细胞株 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结直肠癌细胞株SW620由本实验保存。稳定过表达miR-101细胞株miR101-SW620及其阴性对照GV209-SW620由本课题组前期构建[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RPMI1640培养基和胎牛血清均购自Hyclone。CCK8试剂盒(日本同仁)购买于北京智杰方远科技有限公司,细胞周期试剂盒、细胞凋亡试剂盒均购买于南京凯基生物科技发展有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3CCK-8细胞增殖实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取生长状态良好的细胞，消化后计数接种于96孔板中，每孔细胞2000个，每孔体积为 $1 0 0 ~ \\mu \\mathrm { L }$ ,每组设置3个复孔。待细胞贴壁后，使用CCK-8试剂检测每一组的A值，以确保每孔细胞数比较一致。然后在每天同一时间点每孔加入 $1 0 ~ \\mu \\mathrm { L }$ CCK-8试剂后 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育$^ { 2 \\mathrm { ~ h ~ } }$ ，以blank对照孔进行调零，使用GloMaxTM96MicroplateLuminometer发光检测仪测量其 $A$ 值，用相对应的A值表示该组细胞增殖能力的大小。每组取3孔的平均值，并绘制增殖曲线，重复实验3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4平板克隆形成实验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取生长状态良好的细胞，用PBS液洗3次，然后用胰酶消化，反复吹打细胞悬液，制成单细胞悬液进行细胞计数，以每孔200个细胞密度接种于6孔板内，细胞培养21d后，取出6孔板，吸去培养液，用PBS洗3次，空气干燥后用多聚甲醛固定 $1 5 \\mathrm { m i n }$ 。然后使用苏木素染色$2 0 \\mathrm { m i n }$ 后用流水缓慢洗去染液，于空气干燥后肉眼计数其形成的克隆数(在显微镜下其细胞数目 $\\geqslant 5 0$ 个细胞作为一个克隆)。按照公式平板克隆的形成率 $\\dot { \\bf \\Phi } = \\dot { \\bf \\Phi }$ 形成克隆数目/接种的细胞数目 $\\times 1 0 0 \\%$ 分别计算其克隆形成率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 细胞周期分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取状态良好的细胞接种于6孔板内待细胞密度在$80 \\%$ 以上时，弃去6孔板内的培养基，用预冷的PBS清洗2次，然后加入胰酶消化，待细胞收缩变圆的时候终止消化,轻柔吹打细胞使其成为单细胞悬液后将其加入$1 . 5 \\mathrm { m L E P }$ 管中， $2 0 0 0 \\mathrm { r / m i n }$ ,离心 $5 \\mathrm { m i n }$ ，尽量将PBS去除。然后每个EP管中加入 $70 \\%$ 冰乙醇 ${ 5 0 0 \\mu \\mathrm { L } }$ 固定细胞，置于 $4 \\mathrm { { ^ \\circ C } }$ 中过夜。第2天拿出EP管，于室温下$1 0 0 0 ~ \\mathrm { r / m i n }$ ,离心 $5 \\mathrm { m i n }$ ，然后PBS清洗2次后，然后加入 $1 0 0 ~ \\mu \\mathrm { L }$ RNaseA,置于 $3 7 \\mathrm { ~ \\textdegree C }$ 水浴 $3 0 ~ \\mathrm { m i n }$ 后，再加$4 0 0 ~  { \\mu \\mathrm { L } }$ 的PI,将其混和均匀， $4 ^ { \\circ } \\mathrm { C }$ 避光 $3 0 ~ \\mathrm { m i n }$ 。使用流式细胞仪上机检测，记录激发波长 $4 8 8 ~ \\mathrm { n m }$ 处红色荧光，每组设3个复孔。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6细胞凋亡实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取生长状态良好的细胞，接种于6孔板内，待细胞密度约 $80 \\%$ 时，然后吸去6孔板内的培养基，冷PBS洗2次，然后用不含EDTA的胰酶进行消化细胞，收集细胞放置于EP管内，用PBS洗涤细胞2次（ $ { \\mathrm { ? 2 0 0 0 ~ r / m i n } }$ 离心$5 \\mathrm { m i n }$ 收集 $1 { \\sim } 5 { \\times } 1 0 ^ { 5 }$ 细胞,然后加入 $5 0 0 ~ \\mu \\mathrm { L } \\left. 1 \\times \\right.$ BindingBuffer悬浮细胞,然后加入 $1 ~ \\mu \\mathrm { L }$ AnneXinV-PE,轻轻地混匀后于 $4 \\mathrm { { ^ \\circ C } }$ 避光反应 $1 5 \\mathrm { m i n }$ ，加入 ${ 5 \\mu \\mathrm { L } }$ 7AAD,再次混匀，于 $4 ^ { \\circ } \\mathrm { C }$ 避光孵 $1 5 \\mathrm { m i n } , 1 \\mathrm { h }$ 内使用流式细胞仪检测细胞凋亡的情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS13.0统计软件进行数据分析。CCK8及细胞周期分析值比较采用析因分析和单因素方差分析，多重比较方差齐时采用LSD法、方差不齐时用DunnettT法。 $P { < } 0 . 0 5$ 时，差异有统计学差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1CCK-8细胞增殖测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用CCK-8法检测过表达miR-101后SW620各组细胞的体外增殖能力的变化，并绘制生长曲线(表1，图1)。析因方差分析结果显示：SW620细胞各组生长时间水平具有显著性差异 $( F { = } 4 1 5 2 , P { < } 0 . 0 0 1 )$ ,组间具有显著性差异( $F { = } 1 0 2 2 0$ ， $P { < } 0 . 0 0 1 \\$ ），时间与组间交互效应有显著性差异 $( F { = } 1 8 2 5 , P { < } 0 . 0 0 0 )$ 。以上结果表明,与空白组、对照组相比，miR101-SW620组的增殖速度明显降低，提示miR-101能抑制SW620细胞的体外增殖能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2平板克隆形成实验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用平板克隆形成实验检测过表达miR-101后细胞体外增殖能力的变化。平板克隆实验的结果为SW620空白对照组、GV209-SW620对照组和miR101-SW620组的克隆形成率分别为： $4 4 . 3 3 \\%$ 、 $4 8 . 1 7 \\%$ 、$3 5 . 1 7 \\%$ 。单因素方差分析结果显示SW6203组细胞间的克隆形成能力差异具有统计学意义 $( F { = } 7 3 . 0 1 5 , P { < }$ 0.001,图2)。与SW620空白对照组、GV209-SW620对照组相比,过表达miR-101组细胞克隆形成率明显降低，表明过表达miR-101后，可能抑制结直肠癌细胞SW620的增殖能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/17073f5e9bb51df072b8d5cf8bf234733e1700649b80ea4fb1e4a0d443d77be1.jpg",
+        "table_caption": [
+            "表1CCK-8增殖实验检测miR-101对SW620细胞增殖的影响 Tab.1 The effevtion of overexpression miR-101 on SW620 by CCK8 assays "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>SW620</td><td>GV209-SW620</td><td>mir101-SW620</td><td>F</td><td>P</td></tr><tr><td>Day 1</td><td>0.0167±0.0012</td><td>0.017±0.0017</td><td>0.0173±0.0012</td><td>0.176</td><td>0.842</td></tr><tr><td>Day 2</td><td>0.0403±0.0042</td><td>0.0367±0.0021</td><td>0.0223±0.0015</td><td>33.391</td><td>0.001</td></tr><tr><td>Day 3</td><td>0.0717±0.0055</td><td>0.0553±0.0032</td><td>0.0233±0.0021</td><td>120.896</td><td>0.000</td></tr><tr><td>Day 4</td><td>0.3507±0.026</td><td>0.13±0.02</td><td>0.074±0.0036</td><td>176.123</td><td>0.000</td></tr><tr><td>Day 5</td><td>0.839±0.022</td><td>0.1993±0.0047</td><td>0.1173±0.0078</td><td>2547</td><td>0.000</td></tr><tr><td>Day 6</td><td>0.9683±0.0255</td><td>0.2227±0.0078</td><td>0.126±0.0115</td><td>2267</td><td>0.000</td></tr><tr><td>Day 7</td><td>1.4553±0.0085</td><td>0.2893±0.0031</td><td>0.172±0.004</td><td>46390</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4c88eb90c270c664b2f3b63c216bad87291c90330ce30a959573b9c9793af2a.jpg",
+        "img_caption": [
+            "图1miR-101过表达处理后SW620细胞的体外增殖 情况 Fig.1 In vitro proliferation of SW620 cells with miR-101 over-expression. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3细胞周期分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用流式细胞仪技术检测分析过表达miR-101后对结直肠癌细胞SW620的细胞周期进程的影响(表2，图3)。细胞周期分析发现SW620各组细胞间其$\\mathbf { G } _ { 1 } , \\mathbf { S } , \\mathbf { G } _ { 2 } / \\mathbf { M }$ 期存在着统计学差异( $F { = } 4 5 . 9 7 4 , P { = } 0 . 0 1 9$ ·$F { = } 1 2 2 . 1 3 9 , P { = } 0 . 0 0 0 ; F { = } 1 1 5 . 1 7 1 , P { = } 0 . 0 0 0 ) ,$ 。除了SW620和GV209-SW620的 $\\mathbf { G } _ { 2 }$ 期分布无统计学差异外( $P =$ 0.441)，其余各组 $\\mathbf { G } _ { 1 } , \\mathbf { G } _ { 2 } / \\mathbf { M }$ 期存在着统计学差异( $\\scriptstyle { \\mathcal { P } } <$ 0.01);与SW620和GV209-SW620相比,mir101-SW620组出现了明显的 $\\mathbf { G } _ { 1 }$ 和 $\\mathrm { ~ G } _ { 2 } / \\mathrm { M }$ 期周期阻滞",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4细胞凋亡实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "流式细胞仪检测过表达miR-101后SW620各组细胞凋亡的情况（图4)。细胞凋亡实验发现SW620、GV209-SW620、miR101-SW620细胞各组细胞凋亡率分别为 $( 0 . 0 2 1 7 { \\scriptstyle \\pm 0 . 0 0 1 6 } )$ 、 $\\mathrm { 0 . 0 2 7 0 { \\pm } 0 . 0 0 1 8 } \\mathrm { , }$ ）、 $( 0 . 0 9 9 9 \\pm$ 0.0015);差异有统计学意义 $( F { = } 6 1 1 5 , P { < } 0 . 0 0 1 ,$ )，各组进行两两比较，均有统计学差异 $( P { < } 0 . 0 1 )$ 。与SW620空白细胞组、GV209-SW620对照组相比，miR-101过表达组细胞调亡率增加 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "miR-101在乳腺癌、前列腺癌、肺癌、垂体腺瘤、肝癌、胃癌、食管癌、卵巢上皮癌、胎儿型横纹肌肉瘤、胰腺癌、骨肉瘤、胆囊癌等多种实体肿瘤中表达水平下调，表明其可能与肿瘤的发生、转移、侵袭等过程相关,具有抑制肿瘤发生的作用[5.821.24]。Wang等[25]的研究表明，在胃癌细胞及其组织中miR-101的表达均下调，并且与肿瘤的生长、侵袭和转移密切相关。有研究表明miR-101下调EZH2的表达抑制食管癌细胞的增殖、迁移能力、促进肿瘤细胞凋亡；通过靶向作用于CXCR7而抑制乳腺癌细胞的增殖、侵袭能力，通过调控血管内皮生长因子C抑制肝癌细胞的迁移和侵袭[5.14,26]。本课题组在前期研究中利用慢病毒GV209-mir101载体及其阴性对照载体转染结直肠癌细胞株SW620，从而实现了miR-101的长期稳定表达，成功构建稳定过表达miR-101的细胞株SW620，为进一步研究miR-101对结直肠癌细胞生物学特性的影响提供了基础[23]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究通过CCK8细胞增殖实验、平板克隆实验发现miR-101可能抑制结直肠癌细胞的增殖。Strillaccia等[27]研究发现,miR-101在结肠癌患者的癌组织标本中表达明显低于其癌旁组织，高表达miR-101后可抑制结肠癌细胞的远处转移。Lin等[28]发现miR-101通过靶向作用于Rac1抑制甲状腺乳头状癌细胞的生长，本课题组前期研究发现，在结直肠癌细胞株中miR-101可靶向调RAC1的表达[23]，表明miR-101可能靶向调控RAC1抑制结直肠癌细胞的生长，和Lin等的研究结果一致。这提示miR-101可能发挥着抑制结直肠癌发生的作用，其具体机制值得我们进一步探讨。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d6d3b09b31545fbac86c0d3e23d6e627a88b06a7ba0b7281cc736c887e90f9b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aad8fa402965f2a7d5aa500b144828e336ca88f2cacea89237af863f745714df.jpg",
+        "img_caption": [
+            "图 $2 \\ \\operatorname* { m i R } \\mathrm { - } 1 0 1$ 对SW620细胞平板克隆形成 能力的影响 Fig.2 Effect of miR-101 over-expression on plate colony formation of SW620 cells).A: SW620;B:GV209-SW620;C:mir101-SW620; D: Comparison of plate colony formation efficency among the 3 groups( $^ { * } P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/edad119da425ef575b3b719e9765691840593a04245f5411614c76bf21b0630f.jpg",
+        "table_caption": [
+            "表2流式细胞仪分析过表达miR-101后对结直肠癌细胞SW620各组细胞周期的影响 Tab.2 The efection to colorectal cancer cell cycle with overexpression miR-101 in SW620 by flow cyl "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cycle</td><td>SW620</td><td>GV209-SW620</td><td>mir101-SW620</td><td>F</td><td>P</td></tr><tr><td>G</td><td>0.3789±0.0089</td><td>0.4096±0.0081</td><td>0.4328±0.0008</td><td>45.947</td><td>0.000</td></tr><tr><td>S</td><td>0.5121±0.0063</td><td>0.4815±0.0109</td><td>0.4031±0.0087</td><td>122.139</td><td>0.000</td></tr><tr><td>G</td><td>0.1090±0.0044</td><td>0.1055±0.0023</td><td>0.1635±0.0076</td><td>115.171</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "细胞周期结果表明，miR-101可调控结直肠癌细胞周期,使其细胞出现了 $\\mathbf { G } _ { 1 }$ 和 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期周期阻滞。 $\\mathbf { G } _ { 1 }$ 期周期阻滞表明细胞的增殖速度减慢，提示miR-101可能抑制结直肠癌细胞的增殖。放射治疗是治疗肿瘤病人的重要方式之一，而其效果如何，与肿瘤细胞周期分布密不可分，通常认为 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期对放疗最为敏感， $\\mathbf { G } _ { 1 }$ 次之，S期最不敏感。细胞发生 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期阻滞时将无法完成其DNA损伤修复，从而引起 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期阻滞延长，细胞的增殖能力下降，导致细胞增殖死亡[29]转移是结直肠癌患者死亡的主要原因，放射治疗对发生转移的患者具有一定的作用。过表达miR-101后细胞出现了明显的 $\\mathbf { G } _ { 2 } / \\mathbf { M }$ 期周期阻滞，表明miR-101可能增加结直肠癌细胞的放疗敏感性，其是否能增强结直肠癌患者对放疗的敏感性，延长患者预后值得我们进一步探讨。细胞凋亡实验表明，miR-101可能促进结直肠癌细胞的凋亡。研究表明在食管癌、卵巢上皮癌、胎儿型横纹肌肉瘤、肝癌及侵袭性子宫内膜癌等肿瘤细胞中，miR-101通过下调EZH2的表达而抑制肿瘤细胞的增殖、迁移能力，促进细胞凋亡，并可以促进肿瘤细胞对化疗药物的敏感性[14-16,30-31]。 miR-101是否能增强结直肠癌对化疗敏感性及其及其分子机制，值得进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究通过CCK-8增殖实验、平板克隆形式实验，细胞周期和凋亡实验，发现了miR-101可能抑制结直肠癌细胞SW620的增殖、细胞 $\\mathbf { G } _ { 1 } , \\mathbf { G } _ { 2 } / \\mathbf { M }$ 周期阻滞，促进细胞凋亡。有文献报道miR-101并可通过调控PI3K/AKT/mTOR信号通路抑制胃癌细胞的细胞活力、克隆形成、迁移侵袭能力并促进肿瘤细胞的凋亡[32]。Bao等[24]发现miR-101通过调控MAPK/Erk及Smad信号通路抑制胆囊癌的转移和侵袭。Chandramouli等[27.33]发现在结直肠癌细胞中，miR-101可在转录后水平调控EP4受体和Cox-2的表达从而调节肿瘤的发生发展。在结直肠癌细胞中,miR-101的缺失可以通过 $\\mathrm { { W n t / \\beta } }$ -catenin信号通路促进结直肠癌细胞的恶变[34]。而我们在前期研究发现miR-101可靶向调控结直肠癌细胞株RACl的表达，本研究发现miR-101可能抑制结直肠癌细胞的生物学行为[23]。这表明miR-101可能通过靶向调控RAC1的表达参与调控结直肠癌细胞的生物学行为，抑制结直肠癌的发生发展及浸润转移。RAC1是癌基因，与肿瘤的发生、转移、侵袭、细胞凋亡、周期调控和肿瘤新生血管的形成密切相关，参与PI3K-Rac1-JNK、NF-kB-JNK等信号通路[35-38]。为进一步探讨miR-101在结直肠癌的发生发展、浸润转移的分子机制及靶向治疗制提供了一定的理论依据。而在临床应用中，miR-101是否可能增强结直肠癌患者对放化疗的敏感性，并成为结直肠癌患者靶向治疗及预后的生物学指标值得进一步探讨。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d526a99444d8de5d53852f108f925414af0e8ab34e9df041caacaa60df094e3.jpg",
+        "img_caption": [
+            "图3流式细胞仪分析过表达miR-101后对结直肠癌细胞SW620周期的影响 Fig.3Flow cytometry for analyzing the effect of miR-101over-expresson oncellcyclesof SW620cels.A:SW620; B: GV209-SW620; C: mir101-SW620; D: Comparison of cellcycle distribution among the 3 groups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8ce5eeadd00f439e6725af180b1af2cc0da6023236afe604568453434b21bd5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Bartel DP. MicroRNAs:genomics,biogenesis,mechanism，and function[J].Cell,2004,116(2): 281-97.   \n[2]Esquela-Kerscher A, Slack FJ. Oncomirs-microRNAs with a role in cancer[J].Nat Rev Cancer,2006,6(4): 259-69.   \n[3]Manikandan J,Aarthi JJ,Kumar SD,et al. Oncomirs: the potential role of non-coding microRNAs in understanding cancer [J]. Bioinformation,2008,2(8): 330-4.   \n[4]YiH,Hua-Chien C,Chao-Wei C,et al.Identification of atwo-layer regulatory network of proliferation-related microRNAs inhepatoma cells[J].Nucleic Acids Res,2012,40(20):10478-93.   \n[5]Liu ZY,Wang JJ,Mao YQ，et al. MicroRNA-101 suppresses migration and invasion via targeting vascular endothelial growth factor-C in hepatocellular carcinoma cells[J]. Oncol Lett,2016,11 (1,A): 433-8.   \n[6]Lim LP,Glasner ME,Yekta S,et al.Vertebrate MicroRNA genes[J]. Science,2003,299(5612):1540.   \n[7]Silahtaroglu A,JSJ.MicroRNAs,epigenetics and disease[J].Essays Biochem,2010,48(1): 165-85.   \n[8]Iorio MV,Ferracin M,Liu CG,et al.MicroRNA gene expression deregulation in human breast cancer[J].Cancer Res,2Oo5,65(16): 7065-70.   \n[9]Mattie MD,Benz CC,Bowers J,et al.Optimized high-throughput microRNA expressionprofilingprovidesnovelbiomarker assessment of clinical prostate and breast cancer biopsies[J].Mol Cancer, 2006,5: 24.   \n[10] Yanaihara N,Caplen N,Bowman E,et al. Unique microRNA molecular profiles in lung cancer diagnosis and prognosis [J]. Cancer Cell,2006,9(3): 189-98.   \n[11]Bottoni A,Zatelli MC，Ferracin M,et al.Identification of differentially expressed microRNAs by microarray:a possible role for microRNA genes in pituitary adenomas[J].JCell Physiol, 200, 210(2): 370-7.   \n[12]Su H, Yang JR,Xu T,et al.MicroRNA-101,down-regulated in hepatocellular carcinoma，promotes apoptosisandsuppreses tumorigenicity[J]. Cancer Res,2009,69(3): 1135-42.   \n[13]He XP,ShaoY,Li XL,etal.DowregulationofmiR-10ligati cancer correlates with cyclooxygenase-2 overexpression and tumor growth[J].FEBS J,2012,279(22): 4201-12.   \n[14] Chen L,Fei H, Li QZ,et al. miR-1O1 suppresses tumor proliferation and migration，and inducesapoptosis by targeting EZH2 in esophageal cancer cells[J].Int J Clin Exp Pathol,2014,7(10): 6543-50.   \n[15] Liu L, Guo JF, Yu LL,et al. miR-10l regulates expresson of EZH2 and contributes to progression of and cisplatin resistance in epithelial ovarian cancer[J]. Tumor Biology,2014,35(12):12619- 26.   \n[16] Vella S,Pomella S,Leoncini PP,et al.MicroRNA-1O1 is repressed by EZH2 and its restoration inhibits tumorigenic features in embryonal rhabdomyosarcoma[J]. Clin Epigenetics,2015,7(1): 82.   \n[17] Caponi S,Funel N,Frampton AE,et al. The good,the bad and the ugly:a tale of miR-101，miR-21 and miR-155 in pancreatic intraductal papilary mucinous neoplasms[J]. Ann Oncol, 2013,24 (3): 734-41.   \n[18] Jiang W,Gu W, Qiu R,et al. miRNA-101 suppresses epithelialto-mesenchymal transition by targeting HMGA2 in pancreatic cancer cells[J]. Anticancer Agents Med Chem,2016,16(4): 432-9.   \n[19] Wang ZL, He RZ, Xia HS,et al. MicroRNA-101 has a suppressive role in osteosarcoma cells through the targeting of c-FOS[J].Exp Ther Med,2016,11(4): 1293-9.   \n[20]Friedman JM,Jones PA，Liang G.The tumor suppressor microRNA-1O1 becomes an epigenetic player by targeting the polycomb group protein EZH2 in cancer[J]. Cell Cycle,2009,8 (15): 2313-4.   \n[21]Liu HT, Xing AY, Chen X,et al. MicroRNA-27b,microRNA-101 andmicroRNA-128inhibit angiogenesis by down-regulating vascular endothelial growth factor C expression in gastric cancers [J]. Oncotarget,2015,6(35): 37467-79.   \n[22]Zhang J, Liu J,Liu Y,et al. miR-1Ol represses lung cancerby inhibiting interaction of fibroblasts and cancer cells by downregulating CXCL12[J].Biomed Pharmacother,2015,74: 215-21.   \n[23]刘 燕,陆滟霞,周 敏,等.稳定过表达mir-101结直肠癌细胞株的建 立及其靶基因的鉴定[J].南方医科大学学报,2014,43(7):928-33.   \n[24]Bao RF, Shu YJ, Hu YP et al. miR-101 targeting ZFX suppresses tumor proliferation and metastasis by regulating the MAPK/Erk and smad pathways in gallbladder carcinoma[J].Oncotarget, 2016 Mar 8.doi: 10.18632/oncotarget.7970.[Epub ahead of print].   \n[25] Wang HJ,Ruan HJ, He XJ,et al. MicroRNA-1O1 is down-regulated ingastric cancer and involved in cell migration and invasion[J].Eur JCancer,2010,46(12):2295-303.   \n[26]Li JT,Jia LT,Liu NN,et al.MiRNA-1O1 inhibits breastcancer growth and metastasis by targeting CX chemokine receptor 7[J]. Oncotarget,2015,6(31):30818-30.   \n[27]Strillacci A,Griffoni C, Sansone P,et al. MiR-1O1 downregulation is involved in cyclooxygenase-2 overexpression in human colon cancer cells[J].Exp Cell Res,2009,315:1439-47.   \n[28] Lin XJ,Guan HY,Hai L,et al. miR1O1 inhibits cell proliferation by targeting Racl in papillary thyroid carcinoma[J].Biomed Rep, 2014,2(1): 122-6.   \n[29] Gupta VK,Park JO,Jaskowiak NT,et al. Combined gene therapy and ionizing radiat ion is a novel approach to treat human esophageal adenocarcinoma[J].Ann Surg Oncol, 20o2,9(5): 500-4.   \n[30]Xu LB,Beckebaum S,Iacob S,et al.MicroRNA-1O1 inhibits human hepatocellularcarcinoma progression through EZH2 downregulation and increased cytostatic drug sensitivity [J].J Hepatol,2014,60(3): 590-8.   \n[31]Konno Y, Dong PX,Xiong Y,et al. MicroRNA-101 targets EZH2, MCL-1 and FOS to suppress proliferation,invasion and stem cell-like phenotype of aggressive endometrial cancer cells [J]. Oncotarget,2014,5(15): 6049-62.   \n[32]Riquelme I, Tapia O,Leal P,et al. miR-101-2,miR-125b-2 and miR-45la act as potential tumor suppressors in gastric cancer through regulation of the PI3K/AKT/mTOR pathway [J].Cell Oncol,2016,39(1): 23-33.   \n[33] Chandramouli A,Onyeagucha BC,Mercado-Pimentel ME,et al. MicroRNA-101(miR-101)post-transcriptionally regulates the expression ofEP4 receptor in colon cancers[J].Cancer Biol Ther, 2012,13(3): 175-83.   \n[34]Strillacci A,Griffoni C, Sansone P,et al. MiR-1O1 downregulation is involved in cyclooxygenase-2 overexpression in human colon cancer cells[J].Exp Cell Res,2009,315(8):1439-47.   \n[35] Sanliongiu S,Luleci G,Thomas KW. Simultaneous inhibition of Racl and IKK pathways sensitizes lung cancer cells to TNFalphamediated apoptosis[J].Cancer Gene Ther, 2001,8(11): 897-905.   \n[36]Hahn A,Barth H,Kress M,et al.Role of Rac and Cdc42 in lysoohosphatidicacid-mediated cyclo-oxygenase-2 gene expression [J].BiochemJ,2002,362(Pt1):33-40.   \n[37]Chan AY,Coniglio SJ, Chuang YY,et al. Roles of the Racl and Rac3 GTPases in human tumor cell invasion[J]. Oncogene,2O05,24 (53): 7821-9.   \n[38]Xuan YH,Chi LS,Tian HS,et al. The activation of the NF-kappa B-JNK pathway is independent of the PI3K-Racl-JNK pathway involved in the bFGF-regulated human fibroblast cell migration[J]. JDermatol Sci,2016,82(1): 28-37. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（编辑：孙昌朋）",
+        "page_idx": 6
+    }
+]

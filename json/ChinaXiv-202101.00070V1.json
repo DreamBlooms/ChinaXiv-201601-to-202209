@@ -1,0 +1,740 @@
+[
+    {
+        "type": "text",
+        "text": "The Unmanned Aerial Vehicle Routing Problem with Recharging ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huiting Mao, Jianmai Shi, Zhongbao Zhou and Long Zheng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract—The applicationofUnmanned aerial vehicles (UAVs) in both civilian and military domains is drawing increasing attention recently.This paper investigates a newroutingproblem ofsmall UAVs for information collection,where UAVscan be rechargedatplatforms(ground vehicles orstations) distributed in the area.Different from the previous works on UAV routing,the UAVs are allowed to partially recharge their batteries according to the requirement in the following route.A mixed integer nonlinear programming model is developed to formulate the problem,where both the overall time for completing all targets' observationand the numberofUAVsare minimized.Animproved adaptive large neighborhood search （ALNS）algorithm with simulated annealing criterion is designed,and a recharging platform insertion heuristic is developed to determine the recharging strategyand construct feasible solutions.To verify the effectiveness of the proposed ALNS algorithm，a set of new benchmark instances are designed based on the well-known Solomon dataset and solved.The computational results are compared with those obtained by the antcolony optimization and variableneighborhood search,which showsthatALNS performs significantlybetter and stable.Furthermore,analysisofthe experimental results indicates that many advantages can be obtained through introducing the recharging strategy for small UAVs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Index Terms—Unmanned aerial vehicle,routing，heuristic, recharging ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "operations. Small UAVs can fly at low altitude and hover over the targets to collect accurate information，and also the advantagesin miniaturization， strong concealment, easy maintenance and low cost facilitate their application on Intelligence, Surveillance and Reconnaissance (ISR）missions [6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Due to the limited capacity of battery power, the small UAVs endurance range isrelatively small,which is viewed asa main barrier of their application on more ISR missions in large areas. Especially when the small UAV has to travel in a large area, the UAV need to recharge its battery during the flying route. Many researches focused on extending the endurance range of small UAVs have been conducted, e.g. new energy supported design and the solar power system [7],automated battery swapping and recharging [8],and efficient power allocation [9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to cope with the limitation of UAV's endurance,we proposed a new application mode of small UAVs,where their battery can be recharged at some platforms distributed in the area.Recently, dynamic wireless charging (DWC) technology [10] is applied as a novel way of recharging electric vehicles, and the battery of EVs can be recharged remotely while itis staying around the infrastructure equipped with DWC.With the miniaturization and intelligence of wireless charging equipment. fast wireless charging devices can be installed on many stations and ground vehicles,which make them act as recharging platforms for small UAVs.When the battery power of small UAV is insufficient, it can visit the near recharging platform to recharge the battery and then continue to carry out the mission. In this case,the routing ofUAVs should consider the decisions on the selection of recharging platform and the recharging level of the battery. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I．INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S MALL Unmanned aerial vehicles (UAVs) or drones play an increasing role in both civilian and military areas,for instance,agriculture monitoring，disaster relief,battlefield reconnaissance，border patrol and logistic delivery.In the civilian applications,UAVs showed great market potential which leads to significant cost savings in the last-mile package delivery，information collection，wild search & rescue,and agriculture monitoring etc [1].Many companies around the World includingUPS[2],DHL [3],Alibaba[4] and Amazon [5] have adopted UAVs in the“last-mile-delivery”so as to reduce the logistics cost and increase the distribution efficiency. Since UAVs can access targets in dangerous environment without losses of human lives,they are widely used in military ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The UAV routing problem with recharging has some similarity to the electric vehicle routing problem (EVRP） in commercial field[11].An important characteristic ofEVRP is that EVs need to visit the recharging station during the route to extend the endurance range and complete all the delivery tasks. The main difference is that the EVs do not consume the battery power when waiting and serving customers,while small UAVs consumebatterypower when waitingandcollecting information above the target, and the power consumption speed is usually faster when UAV is collecting information due to additional power consumption by carried sensors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we investigated the UAV routing problem with recharging and established amixed integernonlinear programming (MINLP) model to formulate the problem.An improvedadaptivelargeneighborhoodsearch(ALNS) embedded with a recharging platform insertion strategy is proposed to find the global better solutions for the problem. Moreover, we designed a set of benchmark instances based on the dataset in [12],and the performance of the proposed ALNS algorithmis tested.Also,the performance and efficiency of the ALNS algorithm is compared with the ant colony optimization (ACO）and variable neighborhood search（VNS） algorithms. Computational results show that the ALNS can achieve much better solutions in shorter computation time for most of the instances. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The reminder of this paper is organized as follows:In the second section,related literatures are reviewed.In the third section,the problemisillustrated and formulatedasa MINLP model.To find the feasible solution in a short time for large instances,an improved ALNS algorithm is proposed in Section IV.The performance of the ALNS algorithm is tested by newly designed benchmark dataset in the 5th section.Finally，the whole work is summarized and future directions are discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II．LITERATUREREVIEW ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this section,the two streams of relevant literatures are reviewed, which are the UAV routing problem and the EVRP. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UAV routing problems have been investigated in the Military and Civilian application domains. Shetty et al.[13] proposed a tactical routing problem of a team of UAVs to conduct attacking mission based on the priorities of targets,where the UAV can carry ammunition to attack different targets. Ceccarelli et al. [14] investigated a micro UAV routing problem for reconnaissance and carried on the simulation experiments for finding the robust solution in the presence of randomly perturbed wind.Mufalli et al.[15] considered the simultaneous sensors selection and routing ofUAVs where the loads are the influencing factors of endurance range and a new mathematical model is constructed to solve the problem.Avellar et al. [16] routed a group of UAVs for area coverage to optimize the minimum coverage time,where intelligence collection can be carried out in the fixed area and the specified time windows of targets are taken into consideration.Evers et al.[17] studied the routing problem of multiple UAVs for reconnaissance mission, taking the uncertainty in the fuel usage into account. Mahmud and Cho [18] investigated the UAV routing problem where UAVs need to avoid being predicted by the enemy，and Vanegas et al.[19] considered the routing problem of UAVs in the environmental uncertainty.In civilian application,UAVs can be used for logistics delivery [2O],medical material transportation [21],efficient road detection and tracking [22] and disaster relief operations [23]. Kevin et al. [24] investigated the vehicle routing problem for drone delivery scenarios which minimizes both the cost and the overall delivery time considering an energy consumption model. Sawadsitang et al. [25] proposed the joint ground and aerial delivery service optimizationandplanningframeworkconsideringthe uncertainty of drone package delivery. To solve the problem, they formulated a three-stage stochastic integer programming model with a decomposition method.In the work [26],the UAVs were used for dynamic wildfire tracking since the UAVs can work in hazardous fire tracking instead of humans,and a distributed control framework was proposed for the UAV team. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, due to the endurance range of small UAV, the radius of its endurance range is restricted, which greatly limited their applications in large areas.To overcome this difficulty, Liu et al. [6] and Luo et al. [2O] proposed a novel two-echelon ground vehicle （GV） and UAV cooperated routing problem (2E-GUCRP) for ISR missions,where the GV serves as the mobile platform carrying the UAVs and recharging the UAV's battery.In this new mode, UAV can enlarge its endurance range through multiple starting on the GVs.In recently years,the application of UAVs in the civilian operation is drawing increasing attention,many commercial logistic companies used UAVs for the ‘last-mile-delivery’ to save the cost for logistic distribution.Chiang et al. [27] proposed a GV and UAV cooperated system where GVs are the mobile platform for UAVs to start and land on,and both of them can deliver the packages during the route. To overcome the limited endurance range of the small UAVs， Sungwoo and Ilkyeong [28] investigated a truck-drone system,where a fixed drone station is built to collect drones and recharging equipments, and a truck is employed to connect the station and the logistics distribution center. Liu et al. [29] designed a Simulated Annealing algorithm (SA) to solve the 2E-GUCRP problem for package delivery.In these studies,with the assistance of ground vehicles the endurance range of UAV is effectively extended. However, UAV can only visit targets which are restricted by the path of GV. To extend the endurance range and release the UAV's dependence on GV, Coelho et al. [3O] designed a two-level routing problem model, where the UAV can be recharged at a given recharging station to complete the tour. Li et al. [31] proposed a mission planning method which considered both the routing of UAVs and recharging stations location,and assumed the recharging procedure takes a fixed time. Ribeiro et al. [32] studied the application of UAVs for belt conveyor inspection system in the mining industry where UAVs are restricted to be fully charged at the recharging station. To extend the UAV mission coverage, Noureddine et al. [33] utilized the public land transport vehicle carrying the UAV during part of its route for saving the energy consumption, and the recharging power is set to a fixed parameter. Yu et al. [34] studied the UAV route planning by allowing it to visit the fixed recharging stations and the unmanned ground vehicles (UGVs) serve as mobile stations ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The routing problem with recharging is also studied in the EVRP.Schneider et al.[12] studied the EVRP with Time Windows (EVRPTW),where the full fast recharging strategy is applied. They designed a metaheuristic through integrating the VNS algorithm with Tabu search,which is tested by instances generated from the Solomon dataset.Ding et al.[35] studied the EVRP where the partial recharging for electric vehicles (EVs) is allowed and the capacity of the recharging station is taken into consideration.Keskin and Catay [36] investigated the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EVRPTW in which EVs are also allowed partially recharged. More works on EVRP can be found in the comprehensive review by [37]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the related literature presented above,we can see that it is an important research topic to investigate different recharging strategies for enlarging the endurance of UAV. The mode of UAVs recharged by smart wireless recharging platformsisanewresearch area,and more efficient modelsand algorithms are required. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III.PROBLEMFORMULATION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The initial motivation of the UAV routing problem with recharging is from an application of reconnaissance missions in battlefield,where multiple smallUAVs start from the base and collect information at a set of targets.There are a certain number of ground (combat） vehicles distributed in the battlefield,which are configured with fast wireless charging devices and act as recharging platforms ofUAVs.Before the UAV's battery powers off,it can fly to any of these platforms for recharging and then continue to visit the following targets. Fig.1 presents an illustrative example of the problem. The different battery icons denote the power level of the UAV's battery after visiting each target.The UAV start from the unique basewitha fully charged battery,and after visiting target T3, the battery power cannot support it to visit the next target T4, and therefore the UAV finds the nearby recharging platform P2 for recharging its battery partially.After recharging,the UAV continues its tour for visiting T4 and T5,and then flies back to the base. Furthermore,the UAV is allowed to visit recharging platforms more than once. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce52a748a6d0c81a017d7c8082b9dea113f5bd9b779edaefa81bfd5e83c75583.jpg",
+        "img_caption": [
+            "Fig.1 An illustrative example of the UAV routing problem with recharging "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although the UAV routing problem with recharging is initially inspired form a military application,there are also many potential applications in civil area,e.g.information collection in wild areas,wild search & rescue,and agriculture monitoring etc.The main factors and constraints in problem are as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)UAVs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Small UAV is driven by the lithium battery whose capacity is limited. The battery consumption is mainly divided into three parts.Firstly,UAV consumes power during the flight between targets visited, and the speed of battery power consumption is related with the flying speed and distance. Secondly,when the UAV is collecting the information at a target, the sensors on the ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UAV start to work and consume battery power. The consumption rate is related to the accuracy and duration of reconnaissance at the target.At other times,the sensoris turned off and does not consume battery power.However, the power consumption is still existed when the UAV is hovering above the target and waiting，which is the third part.In this paper, UAVs start from the base and must return to it after finishing all the reconnaissance missions within the specified time. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）Recharging platform ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Many ground vehicles in the battlefield are equipped with wireless charging devices,which can recharge the UAVs quickly. The recharging level of the UAV's battery is related to the recharging time. The location of these platforms and the base are known. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3） Targets",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A set of targets are located at different positions in the area, and each target can only be detected in a specified time window. IftheUAVarrivesearlier thanthe earlieststarttime,theUAV needs to hover over the target and wait. The time windows and the location information of all the targets are given before the mission planning period. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objective of the problem is to minimize the total mission time and the number of UAVs utilized through optimizing the flight routes for reconnaissance and recharging. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The notations applied in the following model formulation are summarized in TABLEI: ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/09cba4f4bb203d16939d458d826e09f30a70aa832ff96af82ddef7e04e79e1b7.jpg",
+        "table_caption": [
+            "TABLEI NOTATIONS USED IN THE FOLLOWING MODEL "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Sets</td></tr><tr><td>V</td><td>set of targets;</td></tr><tr><td>F</td><td>set of recharging platforms and their copies;</td></tr><tr><td>{0}</td><td>the starting base;</td></tr><tr><td>{n+1}</td><td>the ending base;</td></tr><tr><td>V0</td><td>set of targets,recharging platforms and the starting base,V°=VUFU{0} ;</td></tr><tr><td>V\"+1</td><td>set of targets,recharging platforms and ending base,</td></tr><tr><td>V</td><td>V\"+ =VUFU{n+1} ;</td></tr><tr><td>Parameters</td><td>set of all vertices;</td></tr><tr><td></td><td></td></tr><tr><td>dij</td><td>the travel distance between node i and j ;</td></tr><tr><td>t</td><td>the travel time between node i and j;</td></tr><tr><td>g</td><td>the battery charge rate;</td></tr><tr><td>Si</td><td>the reconnaissance time of target i; the earliest starting time of reconnaissance at target</td></tr><tr><td>ei</td><td>i；</td></tr><tr><td></td><td>the latest starting time of reconnaissance at target i;</td></tr><tr><td>Q</td><td>the capacity of the UAV's battery;</td></tr><tr><td>a</td><td>the weight coefficient of unit UAV;</td></tr><tr><td>β</td><td>the weight coefficient of total reconnaissance time, and α+β=1;</td></tr><tr><td>Cd</td><td>the power consuming rate of UAV for travelling;</td></tr><tr><td>Cr</td><td>the power consuming rate of UAV for reconnaissance;</td></tr><tr><td>cw</td><td>the power consuming rate of UAV for waiting;</td></tr><tr><td>Cuav</td><td>fixed cost of a UAV;</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdb1d7663eef7454c23ea56557d511c9d1c2d294695f8438e8d86bd16f4e51ad.jpg",
+        "table_caption": [
+            "Decision variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ui</td><td>the starting time of reconnaissance target i,i∈V ;</td></tr><tr><td>yi</td><td>the remaining power level when the UAV arrives at the nodei,i∈V;</td></tr><tr><td>qi</td><td>the recharging quantity at recharging platform i, i∈F;</td></tr><tr><td>Y</td><td>the power level when the UAV leaves the recharging platformi，i∈F;</td></tr><tr><td></td><td>the waiting time of theUAVat targeti,i∈V ;</td></tr><tr><td>Xi</td><td>1,if a UAV travels from node i to node j ; otherwise O;</td></tr><tr><td>Zi</td><td>1,if the recharging platform i is selected for recharging;otherwise O;</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mathematical model of the UAV routing problem is formulatedasfollows : ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Pi = \\alpha \\cdot c _ { _ { u a v } } \\sum _ { j \\in V _ { 1 } \\bigcup F } x _ { 0 j } + \\beta \\cdot \\left\\{ \\sum _ { i , j \\in V } x _ { i j } t _ { i j } + \\sum _ { i \\in F } z _ { i } q _ { i } g + \\sum _ { i \\in V _ { 1 } } \\delta _ { i } + \\sum _ { i \\in V _ { 1 } } s _ { i } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad \\sum _ { j = 1 } ^ { n } \\omega _ { j } ^ { \\top } = \\frac { 1 } { 2 \\omega _ { j } ^ { \\top } } , } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad }  \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad }  \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad }  \\\\ & & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad }  \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ &  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Objective（1） is to minimize a weighted sum of the total number of UAVs and the overall time for completing all targets reconnaissance mission，where the weighted coefficients are determined by the planner.Constraint(2) ensures each target is visited only once,while constraint (3) handles the connectivity between the nodes(targets and rechargingplatforms). Constraint (4） guarantees that the number of outgoing arcs equals to the number of incoming arcs at each vertex. Constraints(5) and (6) enforce the feasibility of the time flow. Constraint(7) ensures the time windows of the targets and base. Constraints (8) and (9) balance the residual battery level after a visit to a target or a recharging platform and ensure that it is always non-negative.Constraint (1O） determines the battery level after recharging at a recharging platform. Constraint (11) makes sure that the battery level at recharging platform is restricted to the UAV recharging capability. Constraints (12)- (14) define the decision variables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the model, the UAV's battery is allowed to be recharged partially,and thus only required battery power for the following route would be recharged so as to save time and energy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV．ADAPTIVELARGENEIGHBORHOOD SEARCHALGORITHM ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section,an improved adaptive large neighborhood search (ALNS) algorithm embedded with a recharging platform insertion heuristic is proposed. The ALNS framework was firstly proposed by Pisinger and Ropke [38-4O],and has been widely used for solving the VRP [41-43] and EVRP [44-45]. The basic idea of ALNS is to employ different combinations of destroy and repair operators to obtain new neighborhood solutions while the utilizing probability of each operator is adaptively updated based on its weight whichis related to its performance in the search process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/db5ade21472f468bb5f538398a4da71209d57b27e17eb75b46ece6b2b3f05685.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Algorithm 1: Themain procedure of the improved ALNS algorithm with simulated annealing</td></tr><tr><td colspan=\"2\">Input: a set of destroy and repair operators (D and R), the cooling rate h</td></tr><tr><td colspan=\"2\">Output: the best solution 亚best</td></tr><tr><td colspan=\"2\">1 Using the two-stage constructive heuristic to construct an initial feasible solution 亚current ， Ψbest ← 亚current;</td></tr><tr><td colspan=\"2\">2 Initialize probability Pd for each destroy operator d ∈ D and</td></tr><tr><td colspan=\"2\">probability Pt for each repair operator 𝑟 ∈ R in the iteration round t;</td></tr><tr><td colspan=\"2\">3 Let j be the counter initialized as j ←1 and T be the temperature;</td></tr><tr><td colspan=\"2\">4 while the marimum number of iterations is not reached do</td></tr><tr><td>5</td><td>Remove all the platforms in the current feasible solution 亚current;</td></tr><tr><td>6</td><td>Select a destroy operator d*, remove targets and obtain the solution βnew ;</td></tr><tr><td>7</td><td>Select a repair operator 𝑟*, insert the removed targets into the solution βnew to generate the new NC solution βnew ;</td></tr><tr><td>8</td><td>Using recharging platform insertion heuristic to fix the NC routes and construct the new feasible solution 亚new;</td></tr><tr><td>9</td><td>if c(亚new)<c(亚current) then</td></tr><tr><td>10</td><td>Yeurrent ← Ψnew ;</td></tr><tr><td>11</td><td>end</td></tr><tr><td>12</td><td>else</td></tr><tr><td>13</td><td>Let u ← e-(c(亚new)-c(亚current))/T;</td></tr><tr><td>14</td><td>end</td></tr><tr><td>15</td><td>Generate a random number δ ∈ [0,1];</td></tr><tr><td>16 17</td><td>if δ<v then</td></tr><tr><td>18</td><td>Yeurrent ← 亚new; end</td></tr><tr><td>19</td><td>if c(亚eurrent)< c(Ψbest) then</td></tr><tr><td></td><td></td></tr><tr><td>20</td><td>亚best ← Vcurrent;</td></tr><tr><td>21</td><td>end</td></tr><tr><td>22</td><td>T ← hT and let j ← j+1;</td></tr><tr><td></td><td></td></tr><tr><td>23</td><td>Update the probabilities of each operator ;</td></tr><tr><td>24 end</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section, a two-stage constructive heuristic is used to generate an initial feasible solution for the problem.First, the nearest neighborhood heuristic is utilized to construct a solution without regarding the battery capacity constraint. In this stage, each UAV's route satisfies the constraints on time window, while the battery capacity may be not enough to support the UAV to complete the flight of the route.Thus,in the second stage,a recharging platform insertion heuristic is designed to optimize where to recharge the UAV and how much energy should be recharged, so as to make the route feasible.The detail process of the insertion heuristic is described in the following Subsection A. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the search process of ALNS,any change on the targets in a route could affect the recharging decisions.In order to improve the search efficiency, the destroyand repair operations in ALNS are conducted on the Non-Charged (NC） solution where all the recharging platforms are removed from the UAVs routes.When a NC solution is generated after the destroy and repair operations,the recharging platform insertion heuristic is employed to make it feasible.Thus,each neighborhood search operation follows a rule of‘Search Firstly,and Insertion Afterwards'.The new feasible solution is accepted with the SA criterion and the main procedure of the ALNS is shown in Algorithm 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.Recharging platform insertion heuristic ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Due to the battery capacity, the endurance range of UAV is limited. If the total energy consumption of UAV exceeds its battery capacity，it has to visit a recharging platform for recharging so as to visit the following targets. A recharging platform insertion heuristic isproposed to optimize the recharging decisions on where and how much to recharge. The main steps of the recharging platform insertion heuristic are shown in Algorithm 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8af86d2030f1f5001cd79ece41bb443672dd6fb0765e37b11798d6db7a15a90d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Algorithm 2: The procedure of the recharging platform insertion heuristic</td></tr><tr><td colspan=\"2\">Input:An infeasible NC solution o</td></tr><tr><td colspan=\"2\">Output: A feasible solution 亚fea</td></tr><tr><td colspan=\"2\">1 Let Vmeisitd←andfindalltefeasibleroutes∈;</td></tr><tr><td colspan=\"2\">2 for Yin E do</td></tr><tr><td>3</td><td>Find all the feasible insertion places and denoted as a set IIinset;</td></tr><tr><td>4</td><td>Let i be the counter and initialized as i ← 1;</td></tr><tr><td>5</td><td>for i∈ IIinset do</td></tr><tr><td>6</td><td>Insert the nearest accessible recharging platform in the</td></tr><tr><td>7</td><td>corresponding places;</td></tr><tr><td>8</td><td>Determine the recharging level qi;</td></tr><tr><td>9</td><td>Check the time windows;</td></tr><tr><td>10</td><td>if the time windows are violated then</td></tr><tr><td></td><td>Remove the time-violated target from the route and obtain</td></tr><tr><td>11</td><td>the current feasible route eur; Add the removed targets into the set Vuvisited,</td></tr><tr><td>12</td><td></td></tr><tr><td>13</td><td>end</td></tr><tr><td>14</td><td>if the route Ycur satisfies the criterion of acceptance then</td></tr><tr><td>15</td><td>Yin ←γeur; Add the removed targets in Vunvisited into Vunvisited,</td></tr><tr><td>16</td><td></td></tr><tr><td>17</td><td>end i←i+1;</td></tr><tr><td>18</td><td></td></tr><tr><td>一 19 end</td><td>end</td></tr><tr><td colspan=\"2\">20 while Vunvsited  Φ do</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>21</td><td>Utilize the nearest neighborhood heuristic to form NC routes for</td></tr><tr><td></td><td>targets in Vunvisited,</td></tr><tr><td>22</td><td>Repeat line 1-19;</td></tr><tr><td colspan=\"2\">23 end</td></tr><tr><td colspan=\"2\">24 return 亚fea</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Algorithm 2,the insertion position of recharging platform is firstly optimized. For an NC route where the total travel distance violates the maximum battery capacity, the UAV starts from the base and travels along the route until the target that cannot be visited within the left battery level.Then find the nearest recharging platform which it could reach by the current battery power,and insert it after the current target.To find the best inserting position of the recharging platform,all possible insertions between adjacent targets are compared. Considering the two routes (a) and (b) in Fig.2 as an example,route(a) and route(b） are the two different feasible routes after inserting recharging platforms into the same NC route at different insertion places.Although UAV in route (b） need to be recharged twice,the total time is alittle shorter than that of route (a) due to the distribution of recharging platforms.In this condition,we would choose route(b) instead of (a). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f8b0430eb0022af897516312734079e01a5378a75860660321a5bd25797cdad.jpg",
+        "img_caption": [
+            "Fig.2.An illustration for different insertion places of recharging platforms ",
+            "Fig.3.Check the time windows "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After the insertion position of the recharging platform is determined, the UAV can be partially recharged and the recharging level is determined by the required battery power of the subsequent route.After the recharging level at each recharging platform is known, the time windows of the targets after the recharging platform are influenced and the feasibility should be checked again.If there are targets whose time windows are not satisfied, they shouldbe removed into the list of $V ^ { u n v i s i t }$ . As shown in Fig. 3,after inserting P4 between target 3 and target 4, the time windows of target 4is violated due to the long recharging time at P4.Thus,target 4 needs to be removed from the route. For the targets in $V ^ { u n v i s i t }$ , we iteratively use the two-stage constructive heuristic until a feasible solution is generated.Finally,many feasible routes will be generated based on the same NC route after inserting recharging platforms in different positions,and the best route will be accepted which keeps more targets and consumes shorter time for completing the route in the second place. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "P4 insert   \n100% 80% 65% 40% 15%-65% 55% 45% 20% 0%   \n△ →1 →② → →P4 4 5 ® → 0 20-80 130-190 180-240 270-330 340-400 480-540 600 remove 100% 80% 65% 40% 15%-50% ★ 45% 20% 0% △ →0 2 0 →P4 6 → → 0 20-80 130-190 180-240 340-400 480-540 600 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B.Neighborhood Structures ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Given an initial feasible solution,remove all the platforms and generate a NC solution. The neighborhood search is applied through different destroy and repair operators on the NC solution.Firstly,a removal operator is selected and a certain number of targets are removed based on the corresponding removal rule.Then, an insertion operator is conducted to repair the destroyed NC solution through inserting the removed targets into the current solution. Finally， the recharging platform insertion heuristic is used to insert the recharging platforms in the NC solution and generate a feasible solution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）Removal operators ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The destroy mechanism of the proposed ALNS framework consists of different removal operators.And nine removal operators are adapted,which are grouped into two types: Route Removal(RR) and TargetsRemoval(TR).InRR,aUAVroute is selected and removed.In TR,a subset of $\\lambda$ targets are selected and moved into the removal list $\\varsigma$ . The value of parameter $\\lambda$ is determined according to the overall number of targets $n _ { c }$ ,and here it is generated between $\\underline { n } _ { c }$ and $\\overline { { n _ { c } } }$ following the uniform distribution.All removal operators are introduced below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Random Route Removal A route is randomly chosen from the set of all routes,in which all the targets are removed and added into the removal list $\\varsigma$ . The randomly choosing strategy can extend the search range in the solution space and increase the probability of finding the global optimum. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Shortest Route Removal This operator chooses the shortest route in the current solution and removes all the targets in this selected route.The purpose of this operator is to maximize the utility of the UAV and reduce the number ofUAVs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Random Target Removal A set of $\\lambda$ targets are randomly removed from different routes in the current solution.The goal of random selection is also to diversify and enlarge the search range in the solution space. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Worst-Distance Target Removal The worst distance targets are selected one by one and removed from the current solution. Here the distance of a target means a sum of the distance from the current target to its preceding target and the distance from the current target to its succeeding target in the route. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Worst-Time Target Removal This operator calculates,for eachtargeti,thedifference betweenreconnaissance start time and the corresponding earliest start time $e _ { i }$ ,and then iteratively removes the target with the largest difference.The purpose is to avoid long wait or delayed reconnaissance starting time in order to satisfying the time windows of more targets to the maximum extent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Modified Shaw Removal The idea of this operator is to remove a set of targets according to a specified rule.This operator is adapted from the Shaw Removal which was proposed by Shaw (1998).The difference of general rule between the modified and the origin Shaw Removal is that UAVs routing do not consider the load capacity but consider the reconnaissance time since the reconnaissance duration effect the power consumption.Thus，operator starts by removing a node $i$ randomly. Let $l _ { i j } = - 1$ if the target $i$ and target $j$ are both detected by the same UAV in the same route, otherwise （20 $l _ { i j } = 1$ （20 and selects a node $j ^ { \\ast } = \\arg \\operatorname* { m i n } \\{ \\Phi _ { 1 } d _ { i j } + \\Phi _ { 2 } \\left| e _ { i } - e _ { j } \\right| + \\Phi _ { 3 } l _ { i j } + \\Phi _ { 4 } \\left| \\mathbf { s } _ { i } - \\mathbf { s } _ { j } \\right| \\}$ ，where $\\Phi _ { 1 } - \\Phi _ { 4 }$ are the weights parameters. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proximity-based Target Removal In this operator, the first target is randomly selected,and then the nearest target to the former selected one is selected.In each selection,we always select the target nearest to the former one.According to this strategy,a set of $\\lambda$ targets are selected one by one and removed. The working way of the operator is illustrated in Fig. 4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/991f8a1603b8967eee0704166190d1f8047e7e15fc54b1fbbf3e776c95aca990.jpg",
+        "img_caption": [
+            "Fig.4.Proximity-based target removal "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef2a7c95728f4b05a9a77b5bd416fddc7d1e4dada869164ab69aef1755e2a99b.jpg",
+        "img_caption": [
+            "Fig.5.Zone removal "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Time-based Target Removal Similar to the Proximitybased TargetRemoval, this operator selects a number of targets with proximate time windows and removes them from the current solution. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Zone Removal The operator firstly randomly defines an area with a predefined size in the Cartesian coordinate system and randomlyselects $\\lambda$ targets to remove which are located in the area.If there are less than $\\lambda$ targets in the selected area, then reselects an area with the same size,and continue the same procedure until $\\lambda$ nodes are removed.As Fig.5 presents,the green rectangular box represents the selected area and then randomly selects target T4,T5,T6,T7 and T9 in the area to remove.The pseudocode of zone removal is given in Algorithm 3. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9467b5235ad2af09323ffa4ea57301514bad243dde9aff6ddeac8026afa1366f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Algorithm3:The pseudocode of zoneremoval</td></tr><tr><td>Input:An infeasible NC solution o,numbers of targets to be</td><td>removed λ</td></tr><tr><td></td><td>Output:A destroyed solution 1,removal list to be repaired s 1 Let S ←Φ and initialize number of removed targets current as</td></tr><tr><td>Acur←入;</td><td></td></tr><tr><td>the area;</td><td>2 Randomly define an area and calculate the number of targets m in</td></tr><tr><td></td><td>3ifm<入curthen</td></tr><tr><td>4</td><td>Remove all the m targets in the area from its routes and add the</td></tr><tr><td></td><td>removed targets into list s;</td></tr><tr><td>5 end</td><td></td></tr><tr><td>6else</td><td></td></tr><tr><td>7</td><td>Randomly remove Xcur targets in the area from its routes and add</td></tr><tr><td></td><td>the removed targets into list s;</td></tr><tr><td>8end</td><td></td></tr><tr><td></td><td>9while the number of removed targetsn in the list S is less than Xdo</td></tr><tr><td>10</td><td>Letλcur←(λ-n);</td></tr><tr><td>11</td><td>Repeat line 2-8;</td></tr><tr><td>12 end</td><td></td></tr><tr><td></td><td></td></tr><tr><td>13 return 1,S</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）Insertion operator ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Five insertion operators are introduced,which are used for inserting the removed targets back into the routes to generate a new NC solution. In the inserting process, the constraints on time windows must be satisfied, while the battery capacity is not considered. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Greedy Insertion The operator calculates the insertion cost of each removed target in the best insertion position，and repeatedly inserts the node with the least insertion cost in its best feasible position of the current solution.The insertion cost hereiscalculatedasthe increaseddistance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regret-2 Insertion Let $\\Delta f _ { i }$ represent the difference in the objective function value after inserting target $i$ in the current solution. Let $i ^ { * } = \\arg \\operatorname* { m a x } _ { i \\in \\varsigma } \\{ \\Delta \\mathrm { f } _ { i 2 } - \\Delta \\mathrm { f } _ { i 1 } \\}$ ，where $\\Delta f _ { i 1 }$ isthe difference after inserting target $i$ in the best feasible insertion place and $\\Delta f _ { i 2 }$ is the difference after inserting target $i$ in the second-best insertion place. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regret-3 Insertion Similar to the Regret-2 Insertion operator, $\\Delta f _ { i }$ representsthesamemeaning.Let $i ^ { * } = \\arg \\operatorname* { m a x } _ { i \\in \\varsigma } \\{ \\Delta \\mathrm { f } _ { i 3 } - \\Delta \\mathrm { f } _ { i 1 } \\}$ ，where $\\Delta f _ { i 1 }$ isthe difference after inserting the target $i$ in the best feasible insertion place and $\\Delta f _ { i 3 }$ is the difference after inserting the target $i$ in the third-best insertion place. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Time-based Insertion The idea of this operator originates from the Greedy Insertion,the unique difference between the two operator is the calculation of the insertion cost.The operator defines the insertion cost as the change in the finish time of the route. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zone Insertion The operator selects the removed targets by the criterion of the Time-based Insertion operator above.The unique difference is that it only considers the routes ina specific zone, instead of investigatingall routes in the current destroyed solution. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$C$ ：Adaptive adjustment of the operators'weight ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The selection of the removal and insertion operators is governed by a roulette-wheel mechanism.If we have k operators with weights $w _ { i }$ ， $i \\in \\{ 1 , 2 , . . . , \\mathrm { k } \\}$ and we choose the operator $j$ with probability ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { j } ^ { s e l e c t } \\frac { w _ { j } } { \\displaystyle \\sum _ { i = 1 } ^ { k } w _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "At the beginning,all removal or insertion operators have the same probability.Thus,in this paper,there are nine removal operators and five insertion operators,the initial weight of each removal operator and insertion operator is set to $1 / 9$ and 1/5, respectively.During the searching process, they are updates as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } ^ { t + 1 } = w _ { i } ^ { t } ( 1 - r ) + r \\cdot \\pi _ { i } / \\omega _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $w _ { i } ^ { t + 1 }$ is the wight of operator $i$ in iteration round $t + 1$ ， $\\boldsymbol { r }$ is the roulette-wheel parameter, $\\pi _ { i }$ is the score of the operator $i$ and $\\omega _ { i }$ is the number of times it was used during the last $N _ { { \\scriptscriptstyle W } }$ iterations.If a new global best solution is obtained, the score $\\pi _ { i }$ of the operator $i$ is increased by $\\sigma _ { 1 }$ .If the new feasible solution is not a global best solution but better than the current solution, the score $\\pi _ { i }$ is increased by $\\sigma _ { 2 }$ . If the solution is worse than the current solution but can be accepted within a certain probability, the score $\\pi _ { i }$ is increased by $\\sigma _ { 3 }$ . Thus,the score $\\pi _ { i }$ of operator $i$ is determined by the sum of $\\sigma _ { 1 }$ ， $\\sigma _ { 2 } , \\sigma _ { 3 }$ obtained in each iteration. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$D$ Acceptance and stopping criteria ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The simulated annealing strategy is adopted as an acceptance criterion in the framework of ALNS algorithm.During the searching process, $\\Psi _ { b e s t }$ is the global best solution, $\\Psi _ { c u r r e n t }$ is the current solution before the iteration begins,and $\\Psi _ { n e w }$ is the new feasible solution after the iteration.Let $c ( \\Psi )$ denotes the objective function value of solution $\\Psi$ ，a solution $\\Psi _ { n e w }$ is always accepted if $c ( \\Psi _ { n e w } ) < c ( \\Psi _ { c u r r e n t } )$ ，and accepted with probability $e ^ { - ( c ( \\Psi _ { n e w } ) - c ( \\Psi _ { c u r r e n t } ) ) / T }$ .If $c ( \\Psi _ { n e w } ) > c ( \\Psi _ { c u r r e n t } )$ ，where $T$ （204号 denotesthe temperature. In the iteration process， the temperature is gradually decreased at a constant rate of $h T$ ， where $0 < h < 1$ is a constant parameter.The algorithm returns the global best solution after the maximum number of iterations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V．COMPUTATIONALEXPERIMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As it is the first work to investigate UAV routing problem with recharging，there is no benchmark dataset exists.To analyze the performance of the proposed ALNS algorithm, we designed a new set of benchmark instances based on the wellknown Solomon dataset. All the algorithms were programmed with Visual $^ { C + + }$ ,and all experiments are conducted on a laptop withIntel Core i5 processor(3GHz) and 8GB RAM.The data set in the following subsections are presented in the supplement[53]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A.Experiment design ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A set of 56 large instances are designed,and there are 100 targets and 21 recharging platforms in each instance.The distribution of targets and recharging platforms is referred the data set in[12],which is designed based on the Solomon dataset These instances can be divided into 3 classes according to the geographical distribution of targets: Random distribution (R), clustered distribution (C) and a mixture of both (RC).Further, the instances with narrow time windows are classified in group R1,C1 and RC1,while the ones with wide time windows are classified in group R2,C2 andRC2.The detail information for all nodes in the 56 instances can be found in the supplement. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The battery capacity of UAV is a constant and is set as 150. Depending on different conditions， the batterypower consumption rate is set to 1 when UAV is flying en-route,and is set to O.5 when it is hovering above targets and waiting.When the UAV is collecting information on a target, it consumes more battery power than any time during the travelling and the energy consumption rate is set to 2.Besides, the average velocity of UAV is set to 1 and the inverse recharging rate is set to 0.33 which means that a complete recharging from zero battery level requires 50 minutes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "B.Algorithm performance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To analyze the performance of ALNS,itis compared with two widelyused metaheuristics for routingproblems,which are the ant colony optimization（ACO）algorithm and the variable neighborhood search(VNS) algorithm.ACO is firstlyproposed byDorigo et al.[46] and were widely used to solve the VRP and EVRP [47-49]. VNS performs local search on large neighborhoods and its effectiveness is also verified by former works [12，5O-51].In this experiment，we applied the framework of ACO and traditional VNS from the work [52]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "All the 56 instances are solved by ALNS,ACO and VNS respectively.In TABLE II-IV, the objective function value of best solution in1O runs are reported.Furthermore,we calculate the relative gaps between ALNS and ACO（ $\\Delta _ { 1 } \\%$ )for the objective function value, where $\\Delta _ { 1 } \\mathcal { H } = \\left( O b j . A L N S - O b j . A C O \\right) / O b j . A L N S$ ，and the gaps between ALNS and VNS （ （204号 $\\Delta _ { 2 } \\%$ （204 ）， where $\\Delta _ { 2 } \\% { = } \\big ( O b j . A L N S { - } O b j . \\mathrm { V N S } \\big ) \\big / O b j . A L N S$ . Thus,a negative value of $\\Delta _ { 1 } \\% / \\Delta _ { 2 } \\%$ means relative improvement obtained by ALNS. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/390cbe0b904a46345d98d38f5cbaa235eb029909858737eefb0ec2d3135fff26.jpg",
+        "table_caption": [
+            "TABLEII THERESULTS OFRTYPEINSTANCESUNDERDIFFERENTMETHODS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Inst.</td><td colspan=\"3\">Objective</td><td rowspan=\"2\">△%</td><td rowspan=\"2\">△%</td></tr><tr><td>ALNS</td><td>ACO</td><td>VNS</td></tr><tr><td>R101</td><td>2268.48</td><td>2956.03</td><td>2926.82</td><td>-23.59</td><td>-22.49</td></tr><tr><td>R102</td><td>2027.17</td><td>2755.44</td><td>2631.63</td><td>-26.43</td><td>-22.97</td></tr><tr><td>R103</td><td>1780.75</td><td>2302.98</td><td>2318.19</td><td>-22.68</td><td>-23.18</td></tr><tr><td>R104</td><td>1557.14</td><td>1969.71</td><td>1916.42</td><td>-20.95</td><td>-18.75</td></tr><tr><td>R105</td><td>1823.43</td><td>2318.40</td><td>2250.37</td><td>-21.35</td><td>-18.97</td></tr><tr><td>R106</td><td>1789.65</td><td>2216.38</td><td>2292.68</td><td>-19.25</td><td>-21.94</td></tr><tr><td>R107</td><td>1663.56</td><td>2184.44</td><td>2143.02</td><td>-23.85</td><td>-22.37</td></tr><tr><td>R108</td><td>1580.92</td><td>1793.02</td><td>1795.81</td><td>-11.83</td><td>-11.97</td></tr><tr><td>R109</td><td>1745.17</td><td>2115.57</td><td>2132.72</td><td>-17.51</td><td>-18.17</td></tr><tr><td>R110</td><td>1559.72</td><td>1949.06</td><td>1863.35</td><td>-19.98</td><td>-16.30</td></tr><tr><td>R111</td><td>1598.49</td><td>2010.06</td><td>1933.80</td><td>-20.48</td><td>-17.34</td></tr><tr><td>R112</td><td>1522.88</td><td>1687.59</td><td>1599.38</td><td>-9.76</td><td>-4.78</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>-19.81</td><td>-18.27</td></tr><tr><td>R201</td><td>864.59</td><td>1155.83</td><td>1296.84</td><td>-25.20</td><td>-33.33</td></tr><tr><td>R202</td><td>781.24</td><td>1209.12</td><td>1272.52</td><td>-35.39</td><td>-38.61</td></tr><tr><td>R203</td><td>741.97</td><td>1107.75</td><td>1121.97</td><td>-33.02</td><td>-33.87</td></tr><tr><td>R204</td><td>702.30</td><td>906.33</td><td>985.42</td><td>-22.51</td><td>-28.73</td></tr><tr><td>R205</td><td>800.17</td><td>968.27</td><td>1003.73</td><td>-17.36</td><td>-20.28</td></tr><tr><td>R206</td><td>757.01</td><td>1108.67</td><td>1004.70</td><td>-31.72</td><td>-24.65</td></tr><tr><td>R207</td><td>715.33</td><td>942.56</td><td>968.66</td><td>-24.11</td><td>-26.15</td></tr><tr><td>R208</td><td>706.93</td><td>837.72</td><td>844.08</td><td>-15.61</td><td>-16.25</td></tr><tr><td>R209</td><td>750.02</td><td>981.09</td><td>929.40</td><td>-23.55</td><td>-19.30</td></tr><tr><td>R210</td><td>749.06</td><td>1085.46</td><td>976.31</td><td>-30.99</td><td>-23.28</td></tr><tr><td>R211</td><td>755.92</td><td>848.93</td><td>844.52</td><td>-10.96</td><td>-10.49</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>-24.58</td><td>-24.99</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b77dff8cf39fb7e4b277cab5be39ec624c5f858ae8d5da386efd7915191348f.jpg",
+        "table_caption": [
+            "TABLEIII THERESULTS OFCTYPEINSTANCESUNDERDIFFERENTMETHODS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Inst.</td><td colspan=\"3\"></td><td rowspan=\"2\">△%</td><td rowspan=\"2\">△%</td></tr><tr><td>ALNS</td><td>Obictive</td><td>VNS</td></tr><tr><td>C101</td><td>1402.02</td><td>1621.00</td><td>1746.16</td><td>-13.51</td><td>-19.71</td></tr><tr><td>C102</td><td>1350.14</td><td>1844.74</td><td>1675.53</td><td>-26.81</td><td>-19.42</td></tr><tr><td>C103</td><td>1277.20</td><td>1744.82</td><td>1670.86</td><td>-26.80</td><td>-23.56</td></tr><tr><td>C104</td><td>1192.49</td><td>1450.37</td><td>1306.90</td><td>-17.78</td><td>-8.75</td></tr><tr><td>C105</td><td>1275.09</td><td>1415.71</td><td>1524.82</td><td>-9.93</td><td>-16.38</td></tr><tr><td>C106</td><td>1262.51</td><td>1413.80</td><td>1408.24</td><td>-10.70</td><td>-10.35</td></tr><tr><td>C107</td><td>1196.36</td><td>1357.22</td><td>1423.80</td><td>-11.85</td><td>-15.97</td></tr><tr><td>C108</td><td>1198.96</td><td>1267.97</td><td>1404.42</td><td>-5.44</td><td>-14.63</td></tr><tr><td>C109</td><td>1138.29</td><td>1219.00</td><td>1334.79</td><td>-6.62</td><td>-14.72</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>-14.38</td><td>-15.94</td></tr><tr><td>C201</td><td>381.28</td><td>468.33</td><td>602.79</td><td>-18.59</td><td>-36.75</td></tr><tr><td>C202</td><td>382.64</td><td>472.10</td><td>548.81</td><td>-18.95</td><td>-30.28</td></tr><tr><td>C203</td><td>377.88</td><td>483.49</td><td>563.14</td><td>-21.84</td><td>-32.90</td></tr><tr><td>C204</td><td>360.83</td><td>397.35</td><td>437.16</td><td>-9.19</td><td>-17.46</td></tr><tr><td>C205</td><td>371.66</td><td>388.31</td><td>484.85</td><td>-4.29</td><td>-23.35</td></tr><tr><td>C206</td><td>363.27</td><td>386.11</td><td>401.39</td><td>-5.92</td><td>-9.50</td></tr><tr><td>C207</td><td>365.47</td><td>393.93</td><td>468.23</td><td>-7.22</td><td>-21.95</td></tr><tr><td>C208</td><td>365.39</td><td>389.16</td><td>398.28</td><td>-6.11</td><td>-8.26</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>-11.51</td><td>-22.56</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $2 3 \\mathrm { ~ R ~ }$ type instances can be further divided into two classes，noted as R1 and R2.Targets in R1 instances have narrow time windows,while targets in R2 instances have wide time windows.The computational results in TABLE II show that the ALNS algorithm can achieve better solutions than other algorithms for all the R instances.Furthermore,the value of objective function for all R1 instances are reduced by an average of $1 9 . 8 1 \\%$ to ACO and an average of $1 8 . 2 7 \\%$ to VNS, while the value of objective function for all R2 instances the instances are reduced by an average of $2 4 . 5 8 \\%$ to ACO and an average of $2 4 . 9 9 \\%$ to VNS. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There are also two classes of instances in the C type and RC type data set respectively,which are noted as C1/RC1 and C2/RC2. TABLE III reports all the computational results of C type instances,and TABLE IV reports the results of RC type instances.It can be found that the ALNS algorithm performs better than ACO and VNS for all C and RC instances.Generally speaking,the results for C2 and RC2 instances are also better compared to those of C1 and RC1 respectively. Therefore,it shows that the ALNS algorithm works better for instances with wide time window,and the ALNS algorithm can efficiently enlarge the search space in the situation with loose constraints on time window. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4818a2707c8056e46e223be68fbd8c6f8521286e12c106145aee2b3bd4863c5d.jpg",
+        "table_caption": [
+            "TABLEIV THERESULTS OFRCTYPE INSTANCESUNDERDIFFERENTMETHODS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Inst.</td><td colspan=\"3\">Objective</td><td rowspan=\"2\">△%</td><td rowspan=\"2\">△%</td></tr><tr><td>ALNS</td><td>ACO</td><td>VNS</td></tr><tr><td>RC101</td><td>2333.83</td><td>2856.69</td><td>2869.70</td><td>-18.30</td><td>-18.67</td></tr><tr><td>RC102</td><td>2233.72</td><td>2778.83</td><td>2662.54</td><td>-19.62</td><td>-16.11</td></tr><tr><td>RC103</td><td>2055.01</td><td>2507.59</td><td>2396.11</td><td>-18.05</td><td>-14.24</td></tr><tr><td>RC104</td><td>1787.31</td><td>2032.21</td><td>1969.86</td><td>-12.05</td><td>-9.27</td></tr><tr><td>RC105</td><td>2185.81</td><td>2605.71</td><td>2594.42</td><td>-16.12</td><td>-15.75</td></tr><tr><td>RC106</td><td>2047.81</td><td>2400.05</td><td>2372.10</td><td>-14.68</td><td>-13.67</td></tr><tr><td>RC107</td><td>1861.90</td><td>2132.97</td><td>2019.12</td><td>-12.71</td><td>-7.79</td></tr><tr><td>RC108</td><td>1734.64</td><td>1970.73</td><td>1787.89</td><td>-11.98</td><td>-2.98</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>-15.44</td><td>-12.31</td></tr><tr><td>RC201</td><td>557.43</td><td>865.43</td><td>788.91</td><td>-35.59</td><td>-29.34</td></tr><tr><td>RC202</td><td>475.83</td><td>827.74</td><td>789.15</td><td>-42.52</td><td>-39.70</td></tr><tr><td>RC203</td><td>430.69</td><td>679.95</td><td>736.78</td><td>-36.66</td><td>-41.54</td></tr><tr><td>RC204</td><td>379.19</td><td>500.88</td><td>558.89</td><td>-24.30</td><td>-32.15</td></tr><tr><td>RC205</td><td>459.21</td><td>722.68</td><td>739.63</td><td>-36.46</td><td>-37.91</td></tr><tr><td>RC206</td><td>429.98</td><td>601.60</td><td>598.37</td><td>-28.53</td><td>-28.14</td></tr><tr><td>RC207</td><td>400.72</td><td>580.31</td><td>560.59</td><td>-30.95</td><td>-28.52</td></tr><tr><td>RC208</td><td>338.62</td><td>449.39</td><td>419.52</td><td>-24.65</td><td>-19.28</td></tr><tr><td>Average</td><td></td><td></td><td></td><td>-32.46</td><td>-32.07</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results verify that the performance of ALNS has significant superiority for solving the URP-RC problem.The ALNS obtained the best solution in all 56 instances.As for the fixed cost of vehicles, the ALNS always reached the minimum which contributes to the best solution in a great measure. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C. Analysis on the impact of the recharging strategy ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An important characteristic of the investigated problem is allowing the UAV to be recharged in the route，which is expected to expand the endurance range of UAV and improve the routing efficiency with lower cost. To analyze the impact of recharging strategy, the ALNS algorithm is used to solve all the instances with recharging(URP-RC) and without recharging (URP).We analyzed the number of UAVs $\\mathrm { ( m ) }$ ,total mission completing time(TT） and the objective function value (Obj) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "respectively.ALNS is run 1O times for each instance,and the best solutions for all instances are reported in TABLE V-VII. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From the computational results,it can be seen that the number ofUAVs forURP-RC is much less than that forURP. For the R1 and RC1 type instances,the total completing time for URP-RC is also less than that for URP,while for the other instances,the URP mode can complete the task in much less time.That is because the UAVs in URP-RC have to visit multiple recharging platforms in the routes for most of the situations,which consume much additional time.Usually, the UVAs are critical resources in both military and civil application,and its cost are relatively higher than the routing cost.The number of UAVs is greatly reduced in URP-RC which causes the objective function value is smaller in general.And the results of RC type instances in TABLE VII shows that URPRC performs better for each aspect of the objective than URP. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1172e043151b6115e7311b1fab2d370f4a21d8f13efe424d5bbbc4b11bbe38c.jpg",
+        "table_caption": [
+            "TABLEV THERESULTS OFRTYPE INSTANCES BETWEENURP-RC AND URP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Inst.</td><td colspan=\"3\">URP-RC</td><td colspan=\"3\">URP</td></tr><tr><td>m</td><td>TT</td><td>Obj</td><td>m</td><td>TT</td><td>Obj</td></tr><tr><td>R101</td><td>20</td><td>2757.78</td><td>2378.89</td><td>35</td><td>2831.96</td><td>3165.98</td></tr><tr><td>R102</td><td>19</td><td>2364.90</td><td>2132.45</td><td>32</td><td>2461.78</td><td>2830.89</td></tr><tr><td>R103</td><td>17</td><td>2139.18</td><td>1919.59</td><td>30</td><td>2146.56</td><td>2573.28</td></tr><tr><td>R104</td><td>16</td><td>1877.20</td><td>1738.60</td><td>29</td><td>1934.60</td><td>2417.30</td></tr><tr><td>R105</td><td>17</td><td>2038.62</td><td>1869.31</td><td>31</td><td>2276.36</td><td>2688.18</td></tr><tr><td>R106</td><td>17</td><td>1931.54</td><td>1815.77</td><td>29</td><td>2142.44</td><td>2521.22</td></tr><tr><td>R107</td><td>16</td><td>1969.50</td><td>1784.75</td><td>29</td><td>2035.20</td><td>2467.60</td></tr><tr><td>R108</td><td>15</td><td>1921.74</td><td>1710.87</td><td>28</td><td>1919.48</td><td>2359.74</td></tr><tr><td>R109</td><td>16</td><td>1940.00</td><td>1770.00</td><td>29</td><td>2044.30</td><td>2472.15</td></tr><tr><td>R110</td><td>15</td><td>1863.86</td><td>1681.93</td><td>28</td><td>1937.58</td><td>2368.79</td></tr><tr><td>R111</td><td>16</td><td>1916.68</td><td>1758.34</td><td>29</td><td>1984.68</td><td>2442.34</td></tr><tr><td>R112</td><td>15</td><td>1677.68</td><td>1588.84</td><td>28</td><td>1869.66</td><td>2334.83</td></tr><tr><td>R201</td><td>9</td><td>904.74</td><td>902.37</td><td>19</td><td>663.34</td><td>1281.67</td></tr><tr><td>R202</td><td>9</td><td>821.40</td><td>860.70</td><td>18</td><td>469.38</td><td>1134.69</td></tr><tr><td>R203</td><td>8</td><td>736.68</td><td>768.34</td><td>18</td><td>383.98</td><td>1091.99</td></tr><tr><td>R204</td><td>8</td><td>671.36</td><td>735.68</td><td>17</td><td>370.60</td><td>1035.30</td></tr><tr><td>R205</td><td>9</td><td>725.58</td><td>812.79</td><td>17</td><td>393.14</td><td>1046.57</td></tr><tr><td>R206</td><td>8</td><td>714.76</td><td>757.38</td><td>18</td><td>374.66</td><td>1087.33</td></tr><tr><td>R207</td><td>8</td><td>678.68</td><td>739.34</td><td>17</td><td>352.08</td><td>1026.04</td></tr><tr><td>R208</td><td>8</td><td>637.84</td><td>718.92</td><td>17</td><td>326.10</td><td>1013.05</td></tr><tr><td>R209</td><td>8</td><td>700.04</td><td>750.02</td><td>17</td><td>346.58</td><td>1023.29</td></tr><tr><td>R210</td><td>9</td><td>757.94</td><td>828.97</td><td>17</td><td>363.70</td><td>1031.85</td></tr><tr><td>R211</td><td>8</td><td>711.84</td><td>755.92</td><td>17</td><td>347.08</td><td>1023.54</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/eaddf61f50c7f2c6d02cb148c55d6b360b33acd4e04b13143d110da24da473dd.jpg",
+        "table_caption": [
+            "TABLEVI THERESULTS OFCTYPE INSTANCESBETWEENURP-RC ANDURP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Inst.</td><td colspan=\"3\">URP-RC</td><td colspan=\"3\">URP</td></tr><tr><td>m</td><td>TT</td><td>Obj</td><td>m</td><td>TT</td><td>Obj</td></tr><tr><td>C101</td><td>16</td><td>1265.20</td><td>1432.60</td><td>34</td><td>590.26</td><td>1995.13</td></tr><tr><td>C102</td><td>16</td><td>1185.14</td><td>1392.57</td><td>34</td><td>498.62</td><td>1949.31</td></tr><tr><td>C103</td><td>15</td><td>1196.60</td><td>1348.30</td><td>33</td><td>469.40</td><td>1884.70</td></tr><tr><td>C104</td><td>15</td><td>1032.52</td><td>1266.26</td><td>33</td><td>460.42</td><td>1880.21</td></tr><tr><td>C105</td><td>15</td><td>1089.52</td><td>1294.76</td><td>34</td><td>504.06</td><td>1952.03</td></tr><tr><td>C106</td><td>16</td><td>1049.12</td><td>1324.56</td><td>34</td><td>509.76</td><td>1954.88</td></tr><tr><td>C107</td><td>15</td><td>1100.66</td><td>1300.33</td><td>34</td><td>468.62</td><td>1934.31</td></tr><tr><td>C108</td><td>14</td><td>1013.96</td><td>1206.98</td><td>34</td><td>481.62</td><td>1940.81</td></tr><tr><td>C109</td><td>14</td><td>1040.26</td><td>1220.13</td><td>33</td><td>460.00</td><td>1880.00</td></tr><tr><td>C201</td><td>6</td><td>285.66</td><td>442.83</td><td>10</td><td>126.58</td><td>563.29</td></tr><tr><td>C202</td><td>6</td><td>233.06</td><td>416.53</td><td>10</td><td>97.76</td><td>548.88</td></tr><tr><td>C203</td><td>5</td><td>255.76</td><td>377.88</td><td>10</td><td>78.18</td><td>539.09</td></tr><tr><td>C204</td><td>5</td><td>257.16</td><td>378.58</td><td>10</td><td>77.50</td><td>538.75</td></tr><tr><td>C205</td><td>5</td><td>271.46</td><td>385.73</td><td>10</td><td>91.24</td><td>545.62</td></tr><tr><td>C206</td><td>5</td><td>241.04</td><td>370.52</td><td>10</td><td>70.80</td><td>535.40</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/078107b0bae1f88cff068adf76dd5a4e2c29a6e10c6fdf3a74ca41ec018c37c0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C207</td><td>5</td><td>247.16</td><td>373.58</td><td>10</td><td>74.36</td><td>537.18</td></tr><tr><td>C208</td><td>5</td><td>241.82</td><td>370.91</td><td>9</td><td>71.72</td><td>485.86</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From TABLE V-VII,we can see that URP-RC obtained better solution with much lesser number ofUAVs and smaller objective function values for all the instances compared to URP. Therefore, the recharging strategy does improve the efficiency and reduce the costofUAVs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$D$ Sensitivity analysis on the battery capacity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The battery capacity plays a key role in the UAV routing problem.In order to analyze the impact of different battery capacities,we vary the value of battery capacity from 120 to 300 while the value of other parameters keep unchanged. The number ofUAVs (m) and the overall mission time(TT)are calculated under different battery capacities respectively by ALNS.Also,we compared the impact of battery capacities between URP-RC and URP.The results for R101 instance are reported in Fig.6.The experimental results on other instances are similar,and the parallel analysis on the other instances are omitted here. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/44fde37f0eb297e9163d1cce6a7141a27e42000bc2ec2cb79f544fd072597df0.jpg",
+        "table_caption": [
+            "TABLEVII THERESULTS OFRCTYPE INSTANCESBETWEENURP-RCANDURP "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Inst.</td><td colspan=\"3\">URP-RC</td><td colspan=\"3\">URP</td></tr><tr><td>m</td><td>TT</td><td>Obj</td><td>m</td><td>TT</td><td>Obj</td></tr><tr><td>RC101</td><td>20</td><td>3086.26</td><td>2801.74</td><td>41</td><td>3646.58</td><td>3873.29</td></tr><tr><td>RC102</td><td>19</td><td>2836.84</td><td>2559.44</td><td>39</td><td>3410.76</td><td>3655.38</td></tr><tr><td>RC103</td><td>18</td><td>2492.08</td><td>2536.54</td><td>37</td><td>3171.60</td><td>3435.80</td></tr><tr><td>RC104</td><td>15</td><td>2203.28</td><td>2231.74</td><td>37</td><td>3075.14</td><td>3387.57</td></tr><tr><td>RC105</td><td>20</td><td>2675.84</td><td>2665.50</td><td>38</td><td>3318.66</td><td>3559.33</td></tr><tr><td>RC106</td><td>19</td><td>2527.52</td><td>2527.76</td><td>38</td><td>3259.80</td><td>3529.90</td></tr><tr><td>RC107</td><td>16</td><td>2318.62</td><td>2150.62</td><td>37</td><td>3171.94</td><td>3435.97</td></tr><tr><td>RC108</td><td>15</td><td>2154.04</td><td>2056.74</td><td>37</td><td>3100.46</td><td>3400.23</td></tr><tr><td>RC201</td><td>5</td><td>755.06</td><td>660.02</td><td>8</td><td>586.24</td><td>693.12</td></tr><tr><td>RC202</td><td>4</td><td>635.46</td><td>581.48</td><td>8</td><td>463.18</td><td>631.59</td></tr><tr><td>RC203</td><td>4</td><td>501.52</td><td>507.82</td><td>8</td><td>405.58</td><td>602.79</td></tr><tr><td>RC204</td><td>4</td><td>397.42</td><td>363.34</td><td>7</td><td>302.74</td><td>501.37</td></tr><tr><td>RC205</td><td>5</td><td>554.12</td><td>517.18</td><td>8</td><td>420.44</td><td>610.22</td></tr><tr><td>RC206</td><td>4</td><td>528.28</td><td>484.68</td><td>7</td><td>410.08</td><td>555.04</td></tr><tr><td>RC207</td><td>4</td><td>467.96</td><td>456.04</td><td>7</td><td>300.22</td><td>500.11</td></tr><tr><td>RC208</td><td>4</td><td>383.68</td><td>338.62</td><td>6</td><td>248.86</td><td>424.43</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "From Fig. 6(a),it can be observed that the number of UAVs decreases sharply with the increase of battery capacity in URP and comparatively decreases gently in URP-RC. When the battery capacity is 120, the deviation of the number ofUAVs between URP-RC and URP reaches 3O which verifies that URP-RC can significantly reduce the fixed cost of UAVs especially for the small UAVs with short endurance range.With the increase ofbattery capacity, the deviation between URP-RC and URP becomes small and reaches O when the capacity is 300. That is because the UAVs can complete the task without recharging when the battery capacity is large enough.Similarly, the results in Fig.6(b) showed that the overall mission time decreases as the battery capacity increases,and becomes the same for both URP-RC and URP when the battery capacity is large enough. Since the targets have specific time windows in both URP-RC and URP,when the UAV arrives earlier than the earliest reconnaissance start time,ithas to wait for some time. Therefore,the relatively deviation of the overall mission time betweenURP-RCandURPis smaller than thatfor thenumber of UAVs in Fig. 6(a). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results in Fig.6 confirm that the battery capacity does has an important impact on the routing ofUAVs,and indicate that recharging is efficient to improve small UAVs’ routing performance when the battery capacity is not large enough. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ea57579538af647125f071ddb080e50bf6c3e4f474fe925356eabd8ed894967.jpg",
+        "img_caption": [
+            "Fig.6.The results forRiO1 instance under different battery capacities.(a) The number of UAVs under different battery capacities.(b) Total mission time under different battery capacities. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VI．CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To promote the utilization of small UAVs,we investigated a UAV routing problem with recharging to extend the endurance range of small UAVs,where the recharging platforms are fixed and UAV can fly to these recharging platforms to recharge its battery in the route.To solve this problem,a mixed integer nonlinear programming model is established and an improved ALNS algorithm embedded with a recharging platform insertion heuristic is designed.Furthermore,we create a set of benchmark instances based on the well-known Solomon dataset and the experiment results showed that the proposed ALNS performs significantly better than the ACO and VNS algorithm. Besides, the advantage of recharging strategy is verified and the sensitivity analysis on the battery capacity shows that the battery capacity effect both the number of UAVs and the objectivevaluesin URP-RC andURP. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To extend the proposed study,future research directions can be taken into consideration for the problem in a dynamic environment where the recharging platforms are mobile and has time windows as well. In many practical applications,the recharging platforms are mobile,such as public transport, which has recharging capacity and time window.Thus,it is a meaningful and valuable extension in the model development. Another meaningful extension is studying new algorithms to solve this problem more efficiently and quickly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Otto A,Agatz N,Campbell J,et al. Optimization approaches for civil applications of unmanned aerial vehicles (UAVs） or aerial drones:A survey[J].Networks,2018,72(4):411-458.   \n[2] Kastrenakes,J. (2O17). UPS has a delivery truck that can launch a drone. http://www.theverage.com/2017/2/21/14691062/ups-drone-delivery-trucktest-completed-video/. [Online;accessed 19-July-2018].   \n[3] Aufgebauer,K. (2O16).The future has landed,thanks to delivery drones. http://goglobal.dhl-usa.com/blog/shipping/the-future-has-landed-thanksto-delivery-drones/.[Online;accessed 20-July-2018].   \n[4]Lin. J. (2018).Meet China's growing fleet of automated delivery drones. http://www.popsci.com/china-drone-deliveries/.[Online; accessed 19- August-2018].   \n[5] Johnson.L. (2O17).9 things you need to know about the Amazon Prime Air drone delivery service. http://www.digitalspy.com/tech/feature/a820748/amazon-prime-air-dronedelivery-service/.[Online; last accessed 18-Nov-2020].   \n[6] Yao Liu,Zhihao Luo,Zhong Liu, Jianmai Shi,Guangquan Chen. Cooperative Routing Problem for Ground Vehicle and Unmanned Aerial Vehicle:TheApplicationonIntelligence, Surveillanceand Reconnaissance Missions[J].IEEE Access,2019,7(1): 63504-63518.   \n[7] Scott Morton,Ruben D'Sa,Nikolaos Papanikolopoulos.Solar powered UAV: Design and experiments[C]//IEEE/RSJ International Conference on Intelligent Robots & Systems.IEEE,2015.   \n[8] Toksoz T,Redding J,Michini M,et al.Automated Battery Swap and RechargetoEnablePersistent UAVMissions[C]// AIAA Infotech @ Aerospace Conference.2011.   \n[9] Hosseini S,Dai R,Mesbahi M. Optimal path planning and power allocation fora long endurance solar-powered UAV[C]//American Control Conference (ACC),IEEE,2013, pp:2588-2593.   \n[10] llhoe H,Young JJ,Young D K,et al. System Optimization for Dynamic Wireless Charging Electric Vehicles Operating in a Multiple-Route Environment[J]. IEEE Transactions on Intelligent Transportation Systems, 2018,19(6): 1709-1726.   \n[11] Erdelic,Tomislav; Caric,Tonci.A Survey on the Electric Vehicle Routing Problem:Variants and Solution Approaches[J]. Journal of Advanced Transportation,2019(54):1-48.   \n[12] Schneider,M.，Stenger,A.,& Goeke,D.The electric vehicle-routing problem with time windows and recharging stations[J]. Transportation Science,48(4) (2014) 500-520.   \n[13] Shetty VK, Sudit M,Nagi R.Priority-based assignment and routing of a fleet of unmanned combat aerial vehicles [J].Computers & Operations Research,2008,35 (6): 1813-1828.   \n[14]Ceccareli N,Enright JJ, Frazzoli E,et al. Micro_UAVPath Planning for Reconnaissance in Wind[C]// American Control Conference.IEEE,2007.   \n[15] Mufalli F,Batta R,Nagi R. Simultaneous sensor selection and routing of unmanned aerial vehicles for complex mission plans [J].Computers & Operations Research,2012,39 (11): 2787-2799.   \n[16] Avellar Gustavo,Pereira Guilherme,Pimenta Luciano et.al.Multi-UAV Routing for Area Coverage and Remote Sensing with Minimum Time[J]. Sensors,2015,15(11):27783-27803.   \n[17] Evers L,Dollevoet T,Barros A I,Monsuur H. Robust UAV mission planning [J].Annals of Operations Research,2014,222 (1): 293-315.   \n[18] Mahmud I, Cho Y Z. Detection Avoidance and Priority-Aware Target Tracking for UAV Group Reconnaissance Operations[J]. Journal of intellgent & robotic systems: Theory & applications,2018,92: pp.381- 392.   \n[19] Vanegas,F.；Gonzalez,F.Enabling uav navigation with sensor and environmental uncertainty in cluttered and gps-denied environments[J]. Sensors 2016,16(5):666.   \n[20] Zhihao Luo, Zhong Liu,Jianmai Shi. A two-echelon cooperated routing problem for a ground vehicle and its carried unmanned aerial vehicle[J]. Sensors,2017,17(5):1144.   \n[21] J.E. Scott and C.H. Scott. Models for drone delivery of medications and other healthcare items.International Journal of Healthcare Information Systems and Informatics (IJHISI),2018,13(3):20-34.   \n[22] Zhou H,Kong H,Wei L,et al.Eficient Road Detection and Tracking for UnmannedAerial Vehicle[J]. IEEE TransactionsonIntelligent Transnortation Svstems. 2015.16(1):297-309.   \n[23] B.Rabta, C.Wankmuller,and G.Reiner.A drone fleet model for last-mile distribution in disaster relief operations[J].International Journal of Disaster Risk Reduction,2018,28:107-112.   \n[24] K.Dorling,J. Heinrichs,G.G.Messier and S.Magierowski,\"Vehicle Routing Problems forDrone Delivery[J].\"IEEETransactionsonSystems, Man,and Cybernetics: Systems,vol.47,no.1, pp.70-85,Jan.2017. DOI: 10.1109/TSMC.2016.2582745   \n[25]Sawadsitang SNiyatoD,TanPS,etal.Joint Groundand AerialPackage Delivery Services:A Stochastic Optimization Approach[J]. IEEE Transactions on Intelligent Transportation Systems,20i8,PP:1-14.   \n[26]PhamHX,LaHM,Feil-SeiferD,etal.ADistributed ControlFramework of Multiple Unmanned Aerial Vehicles for Dynamic Wildfire Tracking[J]. IEEE Transactions on Systems Man & Cybernetics Systems,2018:1-12.   \n[27] Chiang W C,Li Y,Shang J,etal. Impact of drone delivery on sustainability andcost:Realizing the UAVpotential_through vehicle_routing optimization[J].Applied Energy,2019,242(PT.1-1284):1164-1175.   \n[28]S.KimandI.Moon,\"TravelingSalesmanProblemWithaDrone Station[J],\" IEEE Transactions on Systems,Man,and Cybernetics: Systems, vol. 49, no. pp. 42-52，Jan．2019．DOI: 10.1109/TSMC.2018.2867496   \n[29] Yao.Liu,Zhong.Liu,Jinamai. Shi,G.Wu and W.Pedrycz,\"Two-Echelon Routing Problem for Parcel Delivery by Cooperated Truck and Drone[J],\" in IEEE Transactions on Systems,Man,and Cybernetics: Systems, doi: 10.1109/TSMC.2020.2968839.   \n[30] Coelho B N,Coelho VN, Coelho IM, et al. A multi-objective green UAV routing problem[J]. Computers & Operations Research,2017,88:306-315.   \n[31]LiB,PatankarS,ordanB,etal,PaingLargeScaleeachd Rescue using Team of UAVsand Charging Stations\\*\",2018 IEEE International Symposium on Safety， Security，and Rescue Robotics (SSRR),Philadelphia,PA,2018,pp.1-8.   \n[32] Ribeiro RG,JuniorJRC,CotaLP,et al.Unmanned Aerial Vehicle Location Routing Problem with Charging Stations for_Belt Conveyor Inspection System in the Mining Industry[J].IEEE Transactions on Intelligent Transportation Systems,2019,PP(99):1-10.   \n[33] N.Lasla,H. Ghazzai,H. Menouar and Y. Massoud,\"Exploiting Land Transport to Improve the UAV's Performances for Longer Mission Coverage inSmart Cities,\"2019IEEE 89th VehicularTechnology Conference (VTC2019-Spring), KualaLumpur,Malaysia,2019, pp.1-7.   \n[34] Yu K, Budhiraja A K,Tokekar P.Algorithms for Routing of Unmanned Aerial Vehicles with Mobile Recharging Stations[J]. Proceedings-IEEE International Conference on Robotics and Automation,2018:5720-5725.   \n[35] Ding N, Batta R,Kwon C.Conflict-free electric vehicle routing problem with capacitated charging stations and partial recharge[M]//Technical Report. Department of Industrialand Systems Engineering, University at Buffalo,US and Department of_Industrial and Management Systems Engineering,University of South Florida, US,2015.   \n[36] Keskin M, Catay B. Partial recharge strategies for the electric vehicle routing_problem with time windows. Transportation Research Part C, 2016,65:111-127.   \n[37]Erdelic,Tomislav;Caric,Tonci.ASurveyontheElectric VehicleRouting Problem: Variants and Solution Approaches[J]. Journal of Advanced Transportation, 2019.   \n[38] Pisinger,D,Ropke,S.2005.A General Heuristicfor VehicleRouting Problems. Technical Report, DIKU - Department of Computer Science, University of Copenhagen. http://www.diku.dk/hjemmesider/ansatte/sropke/Papers/GeneraiVRP_Te chRep.pdf (04.11.12).   \n[39]Pisinger,D.,Ropke,S.,2007.A general heuristic forvehiclerouting problems[J]. Computers& Operations Research 34 (8),2403-2435.   \n[40] Ropke,S. Pisinger,D.,2006a. Anadaptive large neighborhood search heuristic for the pickup_and delivery problem with time windows[J]. Transportation Science 40(4),455-472.   \n[41] Demir E,Bekta T,Laporte G.An adaptive large neighborhood search heuristic for the Pollution-Routing Problem[J].European Journal of Operational Research,2012,223(2):346-359.   \n[42] Emeg Ugur，Catay，Bulent，Bozkaya Burcin. An Adaptive Large Neighborhood Search for an E-grocery Delivery Routing Problem[J]. Computers & Operations Research,2015: S0305054815002683.   \n[43] Sacramento D,Pisinger D,Ropke S.An adaptive large neighborhood search metaheuristic for the vehicle routing problem with drones[J]. Transportation Research,2019,102(MAY):289-315.   \n[44] Keskin M,Laporte G, Catay B.Electric vehicle routing problem with timedependent waiting timesatrecharging stations[J]. Computers& Operations Research,2019,107:77-94.   \n[45]Hiermann,Gerhard,Puchinger,Jakob,Ropke,Stefan,etal.The Electric Fleet Size and Mix Vehicle Routing Problem with Time Windows and Recharging Stations[J]. European Journal of Operational Research,2016, 252 (3):995-1018.   \n[46] Dorigo,M.,Maniezzo,V.,Colorni,A.,Ant system: optimization by a colony of cooperating agents.IEEE Transactions on Systems,Mans,and Cybernetics,1996,vol.1,no.26,pp.29-41.   \n[47] Yu B,Yang ZZ,Yao B.An improved ant colony optimization for vehicle routing problem[J].European Journal of Operational Research,2Oo9,vol. 196, no. 1,pp. 171-176.   \n[48] Ding Q,Hu X, Sun L,et al.An improved ant colony optimization and its application tovehicleroutingproblem with timewindows[J]. Neurocomputing,2012,vol.98,pp.101-107.   \n[49] Zhang S,Gajpal Y,Appadoo S S,et al.Electric vehicle routing problem withrechargingstationsforminimizing energy consumption[J]. International journal of production economics,2018,203:404-413.   \n[50]D.C.Paraskevopoulos,P.P.Repoussis,C.D.Tarantilis,G.Ioannou,G.P. Prastacos.A reactive variable neighborhood tabu search for the heterogeneous fleet vehicle routing problem with time windows[J]. Journal of Heuristics,2008,vol.14,no.5,pp.425-455.   \n[51]M.Bruglieri,F.Pezzell,O.Pisacane,and S.Suraci,‘A variable neighborhood search branching for the electric vehicle routing problem with time windows[J],\"Electron. Notes Discrete Math.,2015,vol.47, no. 15,pp.221-228.   \n[52] Huiting Mao,Jianmai Shi,Yuzhen Zhou,et al.The electric vehicle routing problem with time windows and multiple recharging options[J]. IEEE Access,2020,PP (99):1-1.   \n[53]Huiting Mao,Jianmai Shi.Experimental data set for UAV routing with recharging. https://www.researchgate.net/publication/346048168_Experimental_data _set_for_UAV_routing_with_recharging ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

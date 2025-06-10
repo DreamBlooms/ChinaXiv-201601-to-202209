@@ -1,0 +1,236 @@
+# 封禁对沙化土地居民生计及活动影响研究
+
+池虹，罗永忠（甘肃农业大学林学院，甘肃 兰州730070)
+
+摘要：为探讨封禁保护区建立对不同生态系统类型下沙化土地居民生活影响，通过调查问卷和访谈方法，对2017年甘肃省封禁保护试点县玛曲、民勤和山丹的封禁区(项目区)和未封禁区（对照区)家庭年均毛收入、恩格尔系数和收入结构指数等经济指标，资源依赖度、人数活动影响指数和生态意识敏感度等生态指标进行分析。结果表明：经济指标家庭年均毛收入和收入结构指数均呈现玛曲<民勤<山丹的特征；恩格尔系数表现相反，玛曲、民勤和山丹分别为（项目区0.35、对照区0.33）(项目区0.34、对照区0.29)和(项目区0.30、对照区0.26)，恩格尔系数和家庭年均毛收入呈显著负相关，相关系数分别为（项目区-0.946、对照区-0.923）（项目区-0.894、对照区-0.927）（项目区-0.901、对照区-0.961);生态指标资源依赖度和人类活动指数为玛曲>山丹>民勤，生态意识敏感度指标呈现玛曲<民勤<山丹的特征。经济指标恩格尔系数和民勤的收入结构指数为项目区>对照区,家庭年均毛收入和玛曲及山丹的收入结构指数为项目区<对照区，除恩格尔系数外均形成显著差异（ $\left( P < 0 . 0 5 \right)$ ；生态指标资源依赖度、人类活动指数和生态意识敏感度均为项目区>对照区，且均形成显著差异( $P < 0 . 0 5 )$ 。从整体看，对照区较项目区生态及经济状态较好，但项目区生态破坏的趋势得到一定程度的遏制，收入结构由单一向多样转变。该结论为指导沙化封禁保护区经济增长方式转变、合理区划及区域可持续发展提供依据。
+
+关键词：封禁；沙化土地；恩格尔系数；资源依赖度文章编号：
+
+土地沙化是指在干旱、半干旱和部分半湿润地区，具有一定沙质基础和干旱、大风动力条件下，由于过度人为活动与环境、资源不相协调所产生的一种以风沙活动为主要标志的土地退化过程[1]。是中国西北地区所面临的最为严重的环境问题之一[2],在半干旱区土地沙漠化研究领域已经引起学者们的广泛关注[3]。甘肃省地处西北内陆腹地,沙化土地面积为 $1 \ 2 1 7 . 0 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，占全省国土面积的 $2 8 . 6 \% ^ { [ 4 ] }$ U2002年前后国家在草原破坏严重的地区实施禁牧政策5，封禁保护作为防沙治沙的一项重要措施和自然修复手段，在我国防治沙治规划中占有十分重要的地位和作用[。国家林业局于2013年启动实施了沙化土地封禁保护区试点项目，截止2017年6月，先后在内蒙古、西藏、陕西、甘肃、青海、宁夏、新疆7个省（区)的71个县开展了试点建设[]；截止2018年5月，甘肃省先后设立19个封禁保护区[8]
+
+随着封禁保护试点工作的不断推进，封禁保护产生的生态、社会和经济效益，成为人们关注的热点。众多学者就生态保护绩效评价的指标体系、方法和结论进行了研究。WACKERNAGEL和REES[9]提出的生态足迹能全面评价人类活动的生态影响，并得到了广泛的应用。HUBER等"将多学科的方法综合应用于瑞士的生态服务价值支付(PaymentofEcologicalServicevalue,PES)项目效果评价。王效科等[在效益分类基础上，探讨了效益评价指标筛选的原则和方法。韦惠兰等2从保护生态和经济发展角度出发分析了秦岭自然保护区生态变化趋势，得出应分阶段实现能源多样化，满足家庭燃
+
+# 干吴区地理
+
+料需求的结论。杜敏等[3]研究了呼伦贝尔沙地封禁保护措施的成效,表明封禁区内的荒漠一绿洲生态系统更趋平衡和稳定。然而，封禁一方面达到了保护生态的效果，但同时对当地居民的生活和生产方式会产生一定程度的正面和负面的影响，目前，封禁对当地居民生计及活动影响研究还较少。
+
+玛曲县位于青藏高原东部边缘，是黄河上游重要的"蓄水池"和"水源补给区”[14-15]；民勤县是甘肃乃至全国受荒漠化危害最为严重的地区之一[16]；山丹县地处河西走廊中部，位于农牧交错带，被称为“甘凉咽喉、走廊蜂腰”。为缓解甘肃省沙化土地面积大、程度重的问题，2017年财政部和国家林业局在甘肃省玛曲、民勤和山丹启动了封禁保护试点县建设工作。目前，对这三个重要区域沙化封禁保护下居民生计及活动等社会经济效益影响研究尚未见报道。通过问卷调查和座谈方法，对甘肃省玛曲县、民勤县和山丹县封禁保护项目区及周边对照区家庭年均毛收人、恩格尔系数、收入结构指数、资源依赖度、人数活动影响指数及生态意识敏感度等指标进行了对比分析，明确封禁对居民生计及活动等社会经济效益影响，为封禁保护试点项目提供实证依据。
+
+# 1研究区概况
+
+根据我国第5次全国荒漠化和沙化监测报告，截至2014年，全国沙化面积 $1 7 2 1 1 . 7 5 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，占国土总面积的 $1 7 . 9 3 \%$ ，甘肃省沙化土地面积居全国前5位[17]。选取甘肃省封禁保护区中的玛曲县昂格布国家沙化土地封禁保护区、民勤县青土湖上八浪井国家沙化土地封禁保护区和山丹县东乐南滩国家沙化土地封禁保护区为研究区域(图1a)。
+
+玛曲县地处青藏高原东端，海拔 $3 \ 3 0 0 \sim 4 \ 8 0 0$ $\mathrm { ~ m ~ }$ ,气候高寒湿润型,年平均气温 $1 . 2 ^ { \circ } \mathrm { C }$ ,年平均降水量 $6 1 5 . 5 ~ \mathrm { m m }$ 。玛曲县沙化土地总面积为8154.1$\mathrm { { h m } } ^ { 2 }$ ,已占全县土地总面积的 $1 . 5 3 \%$ 。玛曲封禁区(项目区)为欧拉乡、尼玛镇和河曲马场，四至界线地理坐标为：东北角 $1 0 2 ^ { \circ } 1 2 ^ { \prime \circ } 0 8 ^ { \prime \prime } \mathrm { E } / 3 3 ^ { \circ } 5 4 ^ { \prime \circ } 0 6 ^ { \prime \prime } \mathrm { N }$ ；西南角 $1 0 1 ^ { \circ } 5 1 ^ { \prime \circ } 0 9 ^ { \prime \prime } \mathrm { E } / 3 4 ^ { \circ } 1 5 ^ { \prime } 0 0 ^ { \prime \prime } \mathrm { N }$ ；西北角 $1 0 1 ^ { \circ } 5 2 ^ { \prime \circ } 0 2 ^ { \prime \prime } \mathrm { E }$ $/ 3 4 ^ { \circ } 2 2 ^ { \prime \circ } 0 2 ^ { \prime \prime } \mathrm { N }$ ;东南角 $1 0 2 ^ { \circ } 0 8 ^ { \prime \circ } 0 0 ^ { \prime \prime } \mathrm { E } / 3 3 ^ { \circ } 5 1 ^ { \prime \circ } 0 6 ^ { \prime \prime } \mathrm { N } _ { \circ }$ 玛曲未封禁区(对照区)选取曼日玛乡和欧拉秀玛乡（图1b)。民勤县地处甘肃省河西走廊东北部，平均海拔 $1 3 6 7 \mathrm { m }$ ,年均气温 $7 . 8 ~ \mathrm { ^ { \circ } C }$ ,年平均降水量110$\mathbf { m } \mathbf { m }$ 左右。民勤县沙化土地总面积 $1 0 0 0 0 \mathrm { h m } ^ { 2 }$ ，沙化土地集中连片，属于典型的干旱荒漠区。民勤封禁区（项目区）为民勤绿洲北线的青土湖，坐标为：$1 0 3 ^ { \circ } 4 8 ^ { \prime } 5 3 . 1 1 ^ { \prime \prime } { \sim } 1 0 3 ^ { \circ } 5 5 ^ { \prime } 1 1 . 8 4 ^ { \prime \prime } \mathrm { E } .$ ， $3 9 ^ { \circ } 0 9 ^ { \prime } 2 8 . 9 6 ^ { \prime \prime } \sim$ $3 9 ^ { \circ } 1 7 ^ { \prime } 2 9 . 7 6 ^ { \prime \prime } \mathrm { N }$ 。民勤未封禁区(对照区)选取红沙梁镇，大滩镇和东湖镇(图1c)。山丹县地处河西走廊中部，海拔 $1 \ 5 5 0 { \sim } 4 \ 4 4 0 \ \mathrm { m }$ ,年均气温 $5 . 9 ~ \mathrm { ^ { \circ } C }$ ,年均降雨量 $1 6 2 . 9 ~ \mathrm { m m }$ ,属大陆性高寒半千旱气候。山丹县沙化土地总面积为 $1 0 \ 1 1 5 . 7 2 \ \mathrm { h m } ^ { 2 }$ ,沙化土地集中连片，属于我国西北地区重要的沙尘源区和沙尘暴路径区。山丹封禁区(项目区)为山丹县东乐镇和清泉镇，坐标为： $1 0 0 ^ { \circ } 4 7 ^ { \prime } 4 0 ^ { \prime \prime } \sim 1 0 1 ^ { \circ } 0 0 ^ { \prime } 5 8 ^ { \prime \prime } \mathrm { E }$ ， $3 8 ^ { \circ } 4 2 ^ { \prime }$ $1 4 ^ { \prime \prime } \sim 3 8 ^ { \circ } 4 8 ^ { \prime } 3 2 ^ { \prime \prime } \mathrm { N } .$ 。山丹未封禁区(对照区)选取陈户镇和位奇镇(图1d)。
+
+![](images/20606abbfe461a2153e10b4bec821c8227c91477042083253ebcd8b82ef66bab.jpg)  
+图1研究区域位置示意图  
+Fig.1 Schematic diagram of location of study area
+
+# 2数据来源及研究方法
+
+# 2.1数据来源
+
+研究数据基于对玛曲、民勤和山丹封禁区（项目区)和未封禁区(对照区），采用随机抽样的方式调查获得。本次实地调查中，问卷总数是378份，有效问卷是372份，有效率为 $9 8 . 4 1 \%$ ,其中项目区总的问卷是236份，有效问卷是232份，问卷有效率为$9 8 . 3 1 \%$ ;对照区总的问卷是142份，有效问卷是140份，问卷有效率为 $9 8 . 5 9 \%$ ,问卷数量及有效性符合调查计划，达到预期目标(表1)。
+
+表1调查问卷数量及有效率  
+Tab.1 Quantity and efficiency of questionnaire   
+
+<html><body><table><tr><td rowspan="3">县名</td><td colspan="2">问卷总数</td><td colspan="2">有效问卷</td><td colspan="2">问卷有效率</td></tr><tr><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td></tr><tr><td>玛曲</td><td>75</td><td>36</td><td>72</td><td>35</td><td>96.00%</td><td>97.22%</td></tr><tr><td>民勤</td><td>80</td><td>48</td><td>79</td><td>48</td><td>98.75%</td><td>100.00%</td></tr><tr><td>山丹</td><td>81</td><td>58</td><td>81</td><td>57</td><td>100.00%</td><td>98.28%</td></tr></table></body></html>
+
+# 2.2 研究方法
+
+本次研究分别于2018年7月～2019年4月前后6次到玛曲、民勤、山丹至沙化封禁保护项目区及周边对照区，采用调查问卷及座谈方式获取数据，通过家庭年均毛收人[18]、恩格尔系数[19]、收入结构指数[20-21]等经济指标和资源依赖度[22-23]、人类活动影响指数[24-25]、生态意识敏感度[12]等生态指标，反映封禁对沙化区居民的生计及活动影响。
+
+2.2.1 家庭年均毛收入家庭年均毛收入 $\ c =$ 沙漠资源收入 $. +$ 田间经济作物 $^ { \circ } +$ 畜牧养殖 $\cdot ^ { + }$ 打工 $+$ 个体经营
+
+家庭年均毛收人主要描述研究区居民一年的家庭收入情况，它体现出越是低收人家庭居民生活状况越贫困；相反则居民生活越富裕。
+
+2.2.2恩格尔系数恩格尔系数是指家庭生活消费总额中食品支出部分所占的比例，即：
+
+恩格尔系数 $\ c =$ 食品支出 $\times 1 0 0 \%$ 生活消费总支出
+
+描述家庭贫困(富裕)相对程度，它与家庭指标生产资料、收人水平等体现家庭发展水平指标具有明显负相关，而与人类沙漠活动强度呈正相关。
+
+# 2.2.3收入结构指数家庭收入结构指数定义为：
+
+式中： $m$ 为家庭产业(收入)类别总数; $m = 5$ (沙漠资源收入、田间经济作物、畜牧养殖、打工、个体经营); $h _ { k }$ 为第 $k$ 类收入占家庭总收入的比例;系数 $\textstyle \bigcirc _ { k }$ 表示第 $k$ 类收入的权重，它的赋值如下：
+
+L $+ 1$ ，对应的产业明显有利于保护;={0，与保护的关系不太明显;-1，对应的产业明显不利于保护。
+
+收入结构指数的理论取值区间为 $( - 1 , + 1 )$ ，取值为正表明收入结构的变化在生物多样性保护的意义上呈积极态势，为负意味相反趋势。
+
+2.2.4资源依赖度资源依赖度是指家庭收入中直接来源于沙漠部分所占的比例。来源于项目区沙漠的收人包括家庭从沙漠获取的燃料、家庭修建所需木材及取沙取土等折算的货币形式，还包括家庭养殖中由沙漠和天然草场获取的收入部分，即：
+
+资源依赖度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 来源于沙资源的收入 $\times 1 0 0 \%$
+
+资源依赖度的理论取值区间为 $( 0 , 1 )$ ,其值越靠近1，反映出居民生产活动对沙漠系统的依赖性越高，对保护生态环境越不利。
+
+2.2.5人类活动影响指数人类活动影响指数 $( E I )$ 是指从样本区家庭及其成员从事各项活动的影响范围和影响强度类活动对环境的影响力，即：
+
+$$
+E I = \frac { 1 } { S } \sum _ { k = 1 } ^ { n } \varepsilon _ { k } S _ { k }
+$$
+
+式中： $s$ 表示可用于生产、生活等活动的区域总面积，一般假设为常数;变量 $S _ { k }$ 表示家庭从事第 $k$ 类
+
+# 干旱区地理
+
+活动的实际区域面积，诸 $S _ { k }$ 之和等于S;假设共有 $n$ 种人类活动( $\scriptstyle n = 3$ ，沙漠资源收入、田间经济作物、畜牧养殖);系数 $\boldsymbol { \varepsilon } _ { k }$ 形容第 $k$ 类活动对该区域的影响强度，取影响因子 $\boldsymbol { \varepsilon } _ { k }$ 的值界定在0到1，此时影响指数 $E I$ 的理论取值区间为(0，1)，其值越接近1，反映出从事各项活动的影响范围与影响强度对生态环境的影响越大。
+
+2.2.6生态意识敏感度针对个体的生态意识敏感度(CBI)指标用于衡量社区成员在项目影响下的意识、行为的转变趋势。假设关注项目影响的 $m$ 个方面， $m { = } 2$ （意识、行为），并从这些方面考虑样本区个体具有的积极性的转化；用 $\boldsymbol { \theta } _ { k }$ 表示项目的第 $k$ 个影响方面涉及到的总人数,将分子 $\theta _ { k } ^ { R E S }$ 解释为有效参与了第 $k$ 次项目活动的样本区居民人数，则 $C B I$ 可定义为：
+
+$$
+\mathit { C B I } = \frac { 1 } { m } \sum _ { k = 1 } ^ { m } \frac { \theta _ { k } ^ { \mathit { R E S } } } { \theta _ { k } }
+$$
+
+生态意识敏感度指样本区居民对项目的平均参与率，既从意识和行为的角度考虑了个体发展，也从居民参与方面体现了项目可能取得的具有社会和生态意义的效果，其取值区间(0,1)，其值越靠近1，表示保护活动平均参与率越高，生态意识敏感度越高，反之亦然
+
+# 3结果与分析
+
+# 3.1经济特征指标
+
+3.1.1家庭年均毛收入变化项目区和对照区家庭年均毛收入均呈现玛曲 $<$ 民勤<山丹的特征（图2a)，玛曲、民勤和山丹项目区家庭年均毛收入分别为41324元、47846元和51962元，对照区分别为59687元、69265元和72671元，项目区家庭年均毛收入相对于对照区分别下降了 $3 0 . 7 7 \% . 3 0 . 9 2 \%$ 和$2 8 . 5 0 \%$ ，下降幅度较大,平均降幅达 $3 0 \%$ ,项目区与对照区家庭年均毛收入均形成显著差异( $( P { < } 0 . 0 5 )$ （图2b）。
+
+3.1.2恩格尔系数变化玛曲、民勤和山丹项目区恩格尔系数分别为0.35、0.34和0.30，平均值为0.33，对照区分别为0.33、0.29和0.26，平均值为0.29，且呈现玛曲 $>$ 民勤 $\vartriangleright$ 山丹的特征（图 $3 \mathrm { a }$ )。项目区平均恩格尔系数比对照区上升了 $1 3 . 7 9 \%$ 。如图3b所示，除玛曲项目区与对照区差异不显著之外，民勤和山丹项目区与对照区均形成显著差异( $\scriptstyle \left( P < 0 . 0 5 \right)$ ）。
+
+3.1.3收入结构指数变化在三个试点县的项目区和对照区均表现出山丹的收入结构指数最大，民勤次之，而玛曲最小的特点。玛曲、民勤和山丹项目区收入结构指数分别为0.023、0.113和0.121，对照区分别为 $0 . 0 3 8 \ 、 0 . 0 8 3$ 和0.153（图4a），民勤项目区收入结构指数高于对照区 $3 6 . 1 4 \%$ ,玛曲和山丹项目区分别低于对照区 $3 9 . 4 7 \%$ 和 $2 0 . 9 2 \%$ 。项目区平均收入结构指数为0.086，对照区平均值为0.091，项目区收入结构指数低于对照区且差异显著 $( P { < } 0 . 0 5 )$ （图4b）。
+
+# 3.2生态特征指标
+
+3.2.1资源依赖度变化如图5a所示，玛曲县项目区资源依赖度为0.82，比对照区增加了 $2 6 . 1 5 \%$ ，民勤县和山丹县分别为0.62和0.78，比对照区增加了$1 9 5 . 2 4 \%$ 和 $1 4 3 . 7 5 \%$ 。各县区呈现玛曲 $>$ 山丹 $\mathrm { > }$ 民勤的特征，三个试点县项目区资源依赖度均比对照区
+
+80000 (a) 72 671 90000 (b) □项目区对照区平均值  
+70000 80000 a  
+50000 \*59687 69265 51 9667 208 ? 元70000 m 中b aH C aH 中 b H Hb 工 出47 846  
+40000 41324 47 044 面  
+30000←项目区 家 H  
+20000 \*对照区 20000 彩  
+10000 10 000 20 0玛曲 民勤 山丹 均值 玛曲 民勤 山丹
+
+![](images/c16ffc1d6e3f558d9914c84313337bbe16dfba526cc652d3bff77f09683a71da.jpg)  
+Fig.3Changes of Engel coefficient between closed protected project areas and control areas
+
+![](images/559309523b5197d1f6b46d90e3d374a42cd7996148de304c5d21bc3fc0e310ff.jpg)  
+图3封禁保护项目区与对照区恩格尔系数变化  
+图4封禁保护项目区与对照区收人结构指数变化  
+Fig.4 Change of income structure index between closed protected project areas and control areas   
+图5封禁保护项目区与对照区资源依赖度变化  
+Fig.5Changes in resource dependence between closed protected project areas and control areas
+
+(a) (b) □项目区口对照区平均值0.90 0.90 a86858 082 0.78 0.740.62 a雨 b面海限 0.50 b0.39 H0.40 雨C0.30 0.32 0.30 c0.20 \*0.21 ←项目区 0.200.10 1\*1对照区 0.100.00 0.00玛曲 民勤 山丹 均值 玛曲 民勤 山丹
+
+均显著增加(图5b)。
+
+3.2.2人类活动影响指数变化三个试点县项目区和对照区人类活动影响指数均呈现民勤<山丹<玛曲的特征，玛曲、民勤和山丹项目区人类活动影响指数分别为0.483、0.316和0.373，对照组分别为0.447、0.285和0.326（图6a），三县项目区人类活动影响指数分别高于对照区 $8 . 0 5 \%$ 、 $1 0 . 8 8 \%$ 和$1 4 . 4 2 \%$ 。项目区平均人类活动影响指数为0.391，对照区平均值为0.353，如图6b所示，项目区人类活动影响指数高于对照区且差异显著( $( P { < } 0 . 0 5 )$ 03.2.3生态意识敏感度变化玛曲、民勤和山丹项目区生态意识敏感度分别为0.093、0.145和0.157，对照区分别为0.086、0.104和0.125（图 $7 \mathrm { a }$ )，民勤生态意识敏感度变化最大(增幅 $3 9 . 4 2 \%$ )，山丹次之(增幅 $2 5 . 6 0 \%$ )，玛曲最小(增幅 $8 . 1 4 \%$ )。项目区平均生态意识敏感度(0.137)比对照区(0.105)上升了$3 0 . 4 8 \%$ 。如图7b所示，三个试点县项目区的生态意识敏感度均与对照区形成显著差异 $( P { < } 0 . 0 5 )$ 。
+
+![](images/87035f5ef9e89a7bd408cb2bb130fd8bee31538cc8f28b9cc9401413d7384264.jpg)  
+图6封禁保护项目区与对照区人类活动影响指数变化  
+Fig.6Change of human activity impact index between closed protected project areas and control areas
+
+![](images/4604dc0a9136c09bc7b6b3ead0496f179ee4b6ab6d818afc9f5f213d88905d50.jpg)  
+图7封禁保护项目区与对照区生态意识敏感度变化  
+Fig.7 Changes of ecological awareness sensitivity between closed protected project areas and control areas
+
+# 4讨论与结论
+
+# 4.1讨论
+
+4.1.1经济特征指标研究中家庭年均毛收入和收入结构指数均呈现玛曲 $<$ 民勤<山丹的特征，恩格尔系数则正好相反，山丹最小，民勤次之，玛曲最大。主要原因是玛曲没有耕地为纯牧业县，经济收入主要来源为畜牧业来源较单一；民勤收人来源较多样，外出打工与自主经营的人较多，但天气干旱少雨，影响经济作物与粮食收人；山丹位于农牧交错带，收入结构多样，雨水集中，农牧业发展形成优势，替代生计多样，居民家庭较富裕。
+
+玛曲、民勤和山丹的项目区和对照区的恩格尔系数与家庭年均毛收入均呈显著的负相关(表2)，相关系数分别（项目区-0.946、对照区-0.923）（项目区-0.894、对照区-0.927）、（项目区-0.901、对照区-0.961)。结论符合钱纳里和赛尔昆[26]的研究结果。
+
+表2恩格尔系数和家庭年均毛收入相关系数  
+[ab.2 Correlation coefficient between Engel coeficient and annual average gross income of fami   
+
+<html><body><table><tr><td rowspan="3"></td><td colspan="4">玛曲</td><td colspan="4">民勤</td><td colspan="4">山丹</td></tr><tr><td colspan="2">恩格尔系数</td><td colspan="2">家庭年均毛收入</td><td colspan="2">恩格尔系数</td><td colspan="2">家庭年均毛收入</td><td colspan="2">恩格尔系数</td><td colspan="2">家庭年均毛收入</td></tr><tr><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td><td>项目区</td><td>对照区</td></tr><tr><td>恩格尔系数</td><td>1</td><td>1</td><td>-0.946</td><td>-0.923</td><td>1</td><td>1</td><td>-0.894</td><td>-0.927</td><td>1</td><td>1</td><td>-0.901</td><td>-0.961</td></tr><tr><td>家庭年均毛收入</td><td>-0.946</td><td>-0.923</td><td>1</td><td>1</td><td>-0.894</td><td>-0.927</td><td>1</td><td>1</td><td>-0.901</td><td>-0.961</td><td>1</td><td>1</td></tr></table></body></html>
+
+三个试点县的家庭年均毛收人及玛曲、山丹的收入结构指数均呈现项目区<对照区的特征。因为三个试点县的项目区建立围栏，加强人工巡察后，很大程度地减少了项目区放牧数量，控制了采药与取石。这些地区主要的收入来源较对照区被大幅度限制，收入来源减少，家庭年均毛收入和收入结构指数下降。这与朱洪革等[27]全面停伐政策实施对林区居民家庭收入存在消极影响的研究结论一致。而民勤封禁后外出打工的人数上升，打工收入也构成了家庭收人的主要来源，故民勤的收人结构指数表现出项目区大于对照区的特征。
+
+三个试点县的恩格尔系数与民勤的收人结构指数呈现项目区>对照区的特征。三个试点县的项目区都是沙化严重，相对贫困的乡镇，粮食种植困难，食品支出较大，经济生活相对单一无序，而对照区大多临近县镇，其经济多为自主经营、外出打工和种植经济作物，收入结构多样家庭相对富裕，恩格尔系数均高于对照区，与吴蓓蓓等[28在不同收入组的家庭中食物的消费水平和消费结构存在显著差异的结论一致。
+
+4.1.2生态特征指标三个试点县的资源依赖度和人类活动影响指数呈现玛曲 $>$ 山丹 $>$ 民勤的特征。究其原因是玛曲为纯牧业县，草地是玛曲县主要的生态系统类型，占到玛曲县土地面积的 $7 0 \%$ 以上。该县主要的生产和生活均依赖于草地，故对资源的依赖度极高。同时该县主要收入来源为畜牧业，由于过度放牧、樵采等高强度的人类活动，对天然草场影响大，不利于玛曲生态环境保护；山丹位于农牧交错带，是生态系统较为脆弱地带，农业和牧业是当地主要经济元素，对于草场和农田有较大依赖和影响；民勤经济有农业、林业和畜牧业，但封禁后外出打工人数快速上升，对于资源依赖，尤其是对于沙漠资源的依赖度相对其他县较小，对环境影响也较小，有利于民勤自然资源恢复和再生，这与段伟等2家庭收人越高的农户对自然资源的依赖度越低和魏建兵等[30]人类合理活动会减少对环境的影响，有利于恢复生态环境的结论一致。
+
+生态意识敏感度呈现玛曲<民勤<山丹的特征，主要原因是玛曲当地大多为藏民，以游牧为主，通讯与语言交流不便，环境情况宣传无法准确传输给当地牧民，牧民对环境意识和参与行为不强；民勤居民生活环境较集中，组织环境宣传活动较多，易传达，政府奖惩制度的实施，对居民认识环境的意识和行为具有很大影响；山丹位于农牧交错带，环境宣传活动比较到位，政策制度相对完善，从意识和制度方面引导和约束居民，对山丹生态环境起到了保护作用。这与王学婷等[31]环境处罚制度对农村居民参与治理有促进作用的结论一致。
+
+三个试点县的资源依赖度、人类活动影响指数和生态意识敏感度均呈现项目区 $>$ 对照区的特征。三个试点县的项目区均位于大片沙地集中连片分布、沙化危害最为严重地区，这些集中沙地的形成一方面是由于气候干旱少雨引起的,另一方面由于居民对自然资源掠夺无度，农业生产及畜牧活动频繁而引起的。同时，建立了沙化封禁保护区后，政府的大力宣传和居民意识的转变都对生态环境形成了有利影响。这与许增巍等[32]政府应加大对环境治理中新型模式的引导，建立有效的自利性激励机制，确保农户利益与生态环境的有利转变，提高农户环境认知水平的研究一致，但对于对照区环境宣传有所忽视，居民对于环境治理意识不高。因此，只有在家庭生活状况得到改善的前提下，才能提高居民的环保意识使其行为规范化，进而合理处理经济发展与保护环境的关系[33],收入结构多样化与资源依赖存在互补关系[34],多样的经济收入结构，才能降低居民对资源依赖。管晓丹等[35]提出的人类活动对地球的影响越来越明显，政府的宣传和公众的环保意识都会促进生态的良好发展。
+
+# 4.2结论
+
+玛曲、民勤和山丹的家庭年均毛收入、收入结构指数均呈现玛曲<民勤<山丹的特征，恩格尔系数则正好相反；资源依赖度和人类活动影响指数呈现玛曲 $>$ 山丹 $>$ 民勤的特征，生态意识敏感度均呈现玛曲<民勤<山丹的特征。
+
+三个试点县的家庭年均毛收入（项目区67207元、对照区47044元)项目区<对照区，恩格尔系数（项目区0.33、对照区0.29)呈现项目区 $>$ 对照区的特征；资源依赖度(项目区0.74、对照区0.39）、人类活动影响指数(项目区0.391、对照区0.353)和生态意识敏感度(项目区0.137、对照区0.105)均呈现项目区>对照区的特征。总之，对照区较项目区生态及经济状态较好，但项目区生态破坏的趋势也得到一
+
+# 干吴区地理
+
+定程度的遏制，收人结构由单一向多样转变，居民的环境保护意识有所提高。该结论为指导沙化封禁保护区经济增长方式转变、合理区划保护区范围及维持区域可持续发展提供实证依据， 入日
+
+参考文献(References)   
+[1]王新源,王存禄,玉霖,等.高寒生态区沙漠化调查研究方案初 探—以玛曲县为例[J].中国水土保持,2018(9):38-41. [WANG Xinyuan,WANG Cunlu,YU Lin, etal.Preliminary study on the investigation and research program of desertification in alpine ecology area: Taking Maqu County as an example[J]. China Soil and Water Conservation, 2018(9): 38-41.]   
+[2]韦惠兰,杨新宇.沙化土地封禁保护区农户经济行为对生态环 境的影响分析——基于甘肃省沙化土地封禁保护项目区的实 证研究[J].山东农业大学学报(社会科学版),2017,19(3): 24- 30,119.[WEI Huilan,YANG Xinyu.Analysis of the impact of farmers’economic behavior on ecologicalenvironment in sandy land conserved protected area: An empirical study based on the sandification land blocking and protection project area of Gansu Province[J]. Journal of Shandong Agricultural University (Social Science Edition),2017,19(3): 24-30,119.]   
+[3]陈长委,伍永秋,谭利华,等.青藏铁路错那湖段沙漠化土地变 化及成因分析[J].干旱区地理,2019,42(4):885-892.[CHEN Changwei,WU Yongqiu,TAN Lihua,et al.Desertified land change and its causes in Co Nag Lake region along Qinghai Tibet Railway[J].Arid Land Geography,2019,42(4): 885-892.]   
+[4]韦惠兰,周夏伟.封禁保护区农户对沙化土地治理的认知度及 影响因素实证分析——基于甘肃省659个农户调查数据的对 比研究[J].干旱区资源与环境,2017,31(7):33-37.[WEI Huilan,ZHOU Xiawei.An empirical analysis of farmers’cognition and influence factors on sandy land management in banned protected areas: A comparative study based on survey data of 659 farmers in Gansu Province[J]. Journal of Arid Land Resources and Environment,2017,31(7): 33-37.]   
+[5]周立华,侯彩霞.北方农牧交错区草原利用与禁牧政策的关键 问题研究[J].干旱区地理,2019,42(2):354-362.[ZHOU Lihua, HOU Caixia. Key problems of grassand utilization and the graze ban policy in farming-pastoral ecotone of northern China[J]. Arid Land Geography,2019,42(2): 354-362.]   
+[6]陈俊松,文毅,储小院.不同封禁保护措施对沙化土地含水率、 粒径的影响研究[J].林业调查规划,2018,43(5):36-39,44. [CHEN Junsong,WEN Yi,CHU Xiaoyuan.Study on the influence of different enclosure protection measures on the moisture content and particle size of desertified land[J]. Forest Investigation Planning, 2018,43(5): 36-39,44.]   
+[7]加强沙化土地封禁保护修复 筑牢沙区生态安全屏障[EB/OL]. 中国林业网,2017,http://www.forestry.gov.cn/main/3957/content-988433.html.[Strengthen the protection and restoration of
+
+the sand land and build up the ecological security barrier in the
+
+sand area[EB/OL]. China forestry network,2O17,htp: //www.forestry. gov.cn/main/3957/content-988433. html.]   
+[8]国家治沙办检查我省国家沙化土地封禁保护区建设工作[EB/ OL].甘肃林业网,2018,htp:/lycy.gansu.gov.cn/content/2018- 05/66087. html.[Inspection on the construction of the national desertified land closed and forbidden reserve in our province by the State Desertification Control Office[EB/OL].Gansu Forestry Network,2018,http://lycy.gansu.gov.cn/content/2018-05/66087. html.]   
+[9]WACHERNAGEL M,REES W E. Our ecological footprint: Reducing human impact on the earth[M]. Gabriola island: New Society Publishers,1996.   
+[10]HUBER R, BRINER S, PERINGER A,et al. Modeling social-ecological feedback effects in the implementation of payments for environmental services in pasture-woodlands[J]. Ecology and Society. 2013,18(2): 41.   
+[11]王效科,杨宁,吴凡,等.生态效益及其评价:II、评价内容与评 价指标筛选[J/OL].生态学报,2019,(15):1-8.[WANG Xiaoke, YANG Ning,WU Fan,et al.Ecological benefits and their evaluation: II. Evaluation content and evaluation index screening[J/OL]. Acta Ecologica Sinica. 2019,(15): 1-8.]   
+[12] 韦惠兰,杨凯凯.秦岭自然保护区保护成效评估[J].生态经济 (学术版),2013(1): 374-379,383.[WEI Huilan,YANG Kaikai. Evaluation of the protection ffct of Qinling Nature Reserve[J]. Ecological Economy(Academic Edition),2013(1): 374-379,383.]   
+[13] 杜敏,景璐,胡新培,等.呼伦贝尔沙地封禁保护措施成效的研 究[J].林业科技通讯,2016,(1):13-15.[DU Min, JING Lu,HU Xinpei,et al. Study on the effect of closure and protection measures in Hulunbuir sandy land[J]. Forestry Science and Technology communication,2016,(1): 13-15.]   
+[14] 陈文业,张瑾,戚登臣,等.黄河首曲—玛曲县高寒草甸沙化动 态演变趋势及其驱动因子定量分析[J].草业学报,2013,22(2): 11-21. [CHEN Wenye, ZHANG Jin,QI Dengchen, et al. Quantitative analysis of the dynamic evolution trend and driving factors of alpine meadow desertification in Maqu County,the first bend of the Yellow River[J].JourmalofGrasandIndustry2013,2(): 11-21.]   
+[15] 胡梦珺,潘宁惠,左海玲,等.基于R S和GIS的玛曲高原土地沙 漠化时空演变研究[J].生态学报,2017,37(3):922-931.[HU Mengjun,PAN Ninghui, ZUO Hailing,et al. Temporal and spatial evolution of land desertification in Maqu Plateau Based on RS and GIS[J]. Journal of ecology,2017,37(3): 922-931.]   
+[16] 魏书威,李妹,元宝,等.甘肃省民勤县大型真菌及黏菌多样性 调查[J].干旱区资源与环境,2019,33(9):140-144.[WEI Shuwei,LI Shu, ZHEN Bao,et al. Study on the diversity of macrofungi and myxobacteria in minqin county of Gansu Province[J]. Journal of Arid Land Resources and Environment, 2019,33(9): 140-144.]   
+[17]艾力.影响农户生态环境预期的因素分析——以甘肃省封禁保 护区为例[J].农业展望,2017,13(7):33-36.[AILi.Analysis of
+
+factors affecting farmers'ecological environment expectation: Taking Gansu Province's banned protected area as an example[J].Agricultural Outlook,2017,13(7): 33-36.]
+
+[18]郭彪,杨易.中国城镇居民家庭收入结构与住房不平等研究 基于CFPS的实证分析[J].武汉理工大学学报(社会科学 版),2019,32(5):70-76.[GUO Biao,YANG Yi.A study on the family income structure and housing inequality of urban residents in China:An empirical analysis based on CFPS[J]. Journal of Wuhan University of science and Technology (Social Science Edition),2019,32(5): 70-76.]
+
+[19]陈梦根.地区收入、食品价格与恩格尔系数[J].统计研究,2019,36(6):28-41.[CHEN Menggen.Regional income,food price andngel coefficient[J]. Statistical Research,2019,36(6): 28-41.]
+
+[20]韩蕾.家庭收入结构对我国居民消费的影响[J].商业经济研究,2019,(1O): 49-52.[HAN Lei. The impact of family income struc-ture on China's residents'consumption[J].Commercial EconomicResearch,2019,(10):49-52.]
+
+[21]王君丽.资源型地区的产业结构调整与经济增长[D].太原：山 西大学,2O14.[WANG Junli.Industrial structure adjustment and economic growth in resource-based areas[D]. Taiyuan:Shanxi University,2014.]
+
+[22]谌妍,熊康宁,周建平,等.保护地周边社区自然资源依赖度研 究——以梵净山世界自然遗产提名地为例[C]//中国城市规划 学会,杭州市人民政府.共享与品质—2018中国城市规划年 会论文集(9城市文化遗产保护).中国城市规划学会，杭州市 人民政府,2018:13.[ZHAN Yan, XIONG Kangning,ZHOU Jianping,et al.Research on natural resource dependence of surrounding communities in protected areas:Taking Fanjingshan World Natural Heritage Nominees asan example[C]// China Urban Planning Society,Hangzhou Municipal People's Government. Sharing and Quality: 2O18 Proceedings of the Annual Conference of China Urban Planning (O9 Urban Cultural Heritage Protection).China Urban Planning Society,Hangzhou Municipal People's Government, 2018: 13.]
+
+[23]王会,赵亚文，温亚利.基于要素报酬的农户自然资源依赖度评 价研究——以云南省六个自然保护区为例[J].中国人口·资源 与环境,2017,27(12):146-156.[WANG Hui, ZHAO Yawen, WENYali.Study on the evaluation of natural resource dependence of farmers based on factor remuneration: A case study of six nature reserves in Yunnan Province[J]. China Population,Resources& Environment,2017,27(12): 146-156.]
+
+[24] 张艳婷.人类活动对半干旱区气候变化的影响[D].兰州:兰州 大学,2018.[ZHANG Yanting.The impact of human activities on climate change in semi-arid areas [D]. Lanzhou: Lanzhou University,2018.]
+
+[25]张洪云,臧淑英,张玉红,等.人类土地利用活动对自然保护区 影响研究:以黑龙江省为例[J].环境科学与技术,2015,38(11): 271-276. [ZHANG Hongyun,ZANG Shuying,ZHANG Yuhong, et al.Study on the impact of human land use activities on nature reserves:A case study of Heilongjiang Province [J].Environmental Science and Technology,2015,38(11): 271-276.]
+
+[26]霍利斯·钱纳里,莫伊思·赛尔昆.发展的型式:1950—1970[M]李新华等译.北京:经济科学出版社,1988.[CHANNERYHol-lis,SELKUNMois. Type of development:1950—1970 [M]. LI Xi-nhua, etc.Beijing: Economic Science Press,1988.]
+
+[27]朱洪革,张少鹏,胡琴心.全面停伐政策对国有林区居民家庭收 入的影响[J].林业经济问题,2019,39(5):457-464.[ZHU Hongge,ZHANG Shaopeng,HU Qinxin. The impact of comprehensive cutting cessation policy on household income of state-owned forest residents[J]. Forestry Economic Issues,2019,39(5):457-464.]
+
+[28]吴蓓蓓,陈永福,易福金.城镇家庭收入分布变动对其食物消费 的影响——兼论与静态模拟结果的比较[J].农业现代化研究 2019,40(2): 264-272.[WU Beibei,CHEN Yongfu,YI Fujin. The impact of income distribution change of urban families on their food consumption: Also on the comparison with the results of static simulation[J].Agricultural Modernization Research,2O19,40 (2) : 264-272.]
+
+[29]段伟,任艳梅,冯翼,等.基于生计资本的农户自然资源依赖研 究——以湖北省保护区为例[J].农业经济问题,2015,(8):74- 82.[DUANWei,REN Yanmei,FENG Yi,etal. Study on the natu ral resource dependence of farmers based on livelihood capital: Taking Hubei protected area as an example[J].Agricultural Economics Issues,2015,(8): 74-82.]
+
+[30] 魏建兵,肖笃宁,解伏菊.人类活动对生态环境的影响评价与调 控原则[J].地理科学进展,2006,25(2):36-45.[WEIJianbing, XIAO Yining,XIE Fuju.Evaluation and regulation of human activities on ecological environment[J].Progress in Geography,2006, 25(2): 36-45.]
+
+[31]王学婷,张俊飚,何可,等.农村居民生活垃圾合作治理参与行 为研究:基于心理感知和环境干预的分析[J].长江流域资源与 环境,2019,28(2):459-468.[WANG Xueting,ZHANG Junxi,HE Ke,et al.Study on the participation behavior of rural residents' collaborative governance in rural areas: analysis based on psycho logical perception and environmental intervention[J].Resources and Environment in the Yangtze River Basin,2019,28(2):459- 468.]
+
+[32]许增巍,姚顺波,苗珊珊.意愿与行为的悖离:农村生活垃圾集 中处理农户支付意愿与支付行为影响因素研究[J].干旱区资 源与环境,2016,30(2):1-6.[XU Zengqi,YAO Shunbo,MIAO Shanshan.The deviation of will and behavior:A study on the factors affecting farmers’willingness to pay and payment behavior in rural domestic waste[J]. Journal of Arid Land Resources and Environment, 2016,30(2): 1-6.]
+
+[33]周毅,陈绍刚.中国城镇居民消费结构及新恩格尔系数模型分析[J].现代商贸工业,2019,40(17):9-12.[ZHOUYi,CHEN Sha-ogang.Analysis of Chinese urban residents’consumption struc-ture and new Engel's coeffcient model[J].Modern Business &Trade,2019,40(17): 9-12.]
+
+# 干旱区地理
+
+[34] 周晓博,魏玮,董璐.资源依赖对地区经济增长的影响—基于 经济周期和产业结构视角的分析[J].现代财经(天津财经大学 学报),2017,37(7):102-113.[ZHOU Xiaobo,WEI Wei,DONG Lu.The impactof resource dependence on regional economic growth:Based on the analysis of economic cycle and industrial structure[J].Modern Finance and Economics (Journal of Tianjin
+
+University of Finance and Economics),2017,37(7):102-113.] [35]管晓丹,程善俊,郭瑞霞,等.干旱半干旱区土壤湿度数值模拟 研究进展[J].干旱气象,2014,32(1):135-141.[GUANXiaodan, CHENG Shanjun, GUO Ruixia, et al. Research progress on numerical simulation of soil moisture in arid and semi-arid areas[J]. Journal of Arid Meteorology,2014,32(1): 135-141.]
+
+# Impact of land closure on livelihood and activities of people living in the desertified land
+
+CHI Hong， LUO Yong-zhong (CollegeofForestry,GansuAgricultural University,Lanzhou 73oo70,Gansu,China)
+
+Abstract:To explore the impact of theestablishmentof the closed nature reserveonthe lifeof theresidents of sandy land under diferent ecosystem types,questionnairesand interviews were used.This study analyzes diferent economic indicators such as the average annual gross income,Engel coeficient,and income structure index,and other ecological indicators such as resource dependence,population activity impact index,and ecological awareness sensitivity ofthe closedand closed restricted area (project area)and unsealed restricted area (control area)families in Maqu,Minqin,and Shandan pilot counties,Gansu Province,China, which were under closed protection in 2017. Results reveal thatthe average annual gross income and income structure index of the economic indicators show the characteristics of Maqu $<$ Minqin $<$ Shandan. However,opposite behavior is observed with the Engel coefficient of the counties which areO.35and O.33 for Maqu,0.34and 0.29 for Minqin,and O.30and0.26 for Shandan inthe project areaand in thecontrol area,respectively.The Engelcoefficient is negatively correlated with the average anual gross incomeof thefamily with correlation coeffcientsof 0.946and O.923 for Maqu,0.894 and 0.927 for Minqin,and O.90l and O.961 for Shandan in the project area and control area,respectively.Theecological index resource dependence and human activity index are of the order Maqu $>$ Shandan $>$ Minqin,and the ecological awareness sensitivity index shows the characteristics of Maqu $<$ Minqin $<$ Shandan. The economic index Engel coefficient and the income structure index of Minqin are project area $>$ control area,while the average annual gross income of families and the income structure index of Maqu and Shandan are project area $<$ control area. Except for the Engel coefficient, significant differences ( $P$ <0.05）are observed. The resource dependence, human activity index,and ecological awareness sensitivityof ecological indicatorsarehigherinthe projectareathanin thecontrol area with significant differences of $P$ <0.05.On the whole, the ecological and economic status of the control area is beter than thatof the projectarea.However,the trend of ecological damage inthe project area has beenrestrained to a certain extent,and the income structure has changed from single to diverse.The conclusion provides abasis for guiding the transformation of economic growth mode,rational division,and regional sustainable development of the closed and forbidden desertification reserve.
+
+Key words: prohibition; desertified land; Engel coeficient; resource dependence

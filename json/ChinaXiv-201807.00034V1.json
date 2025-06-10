@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "Precipitation amount and frequency affect seedling emergence and growth of Reaumuria soongarica in northwestern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SHAN Lishan1,2\\*, ZHAO Wenzhi1, LI $\\mathrm { Y i } ^ { 2 }$ , ZHANG Zhengzhong², XIE Tingting² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Northwest Institute of Eco-Environment and Resources,Chinese Academy of Sciences,Lanzhou 73Ooo,China:   \n²College of Forestry,Gansu Agricultural University,Lanzhou 73oo70, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Climate change is shifting the amount and frequency of precipitation in many regions, which is expected to affect seedling recruitment across ecosystems. However,the combined effects of precipitation amount and frequency on seedling recruitment remain largely unknown. An understanding of the effects of precipitation amount and frequency and their interaction on seedling emergence and growth of typical desert plants is vital for managing populations of desert plants.We conducted two experiments to study the effects of variation in precipitation on Reaumuria soongarica (Pall.） Maxim. First， greenhouse experiments were conducted to examine the effects of three precipitation amount treatments (ambient, $+ 3 0 \\%$ and $- 3 0 \\% )$ and two precipitation frequency treatments (ambient and $- 5 0 \\% )$ on seedling emergence. Second,the morphological responses of R. soongarica to changes in precipitation amount and frequency were tested in a controled field experiment. Stage-specific changes in growth were monitored by sampling in different growth seasons. Our results showed that precipitation amount significantly affected germination, seedling emergence,and growth of R. soongarica, and there was a larger effect with decreased precipitation frequency compared with ambient. Germination and seedling emergence increased as precipitation increased under the same frequency of precipitation. The highest emergence percentage was obtained with a $30 \\%$ increase in precipitation amount and a $50 \\%$ reduction in precipitation frequency. Compared with ambient precipitation，a $30 \\%$ increase in precipitation amount increased above- and below-ground biomass accumulation of R. soongarica during the growth season. A decrease of $30 \\%$ in precipitation amount also resulted in an increase in below-ground biomass and root/shoot ratio in the early stages of the growth season,however,above- and below-ground biomass showed the opposite results at the end of the growth season, with larger effects on above-ground than below-ground biomass under decreased precipitation frequency. When precipitation frequency decreased by $50 \\%$ ，values of all growth traits increased for a given amount of precipitation. We concluded that precipitation frequency may be as important as precipitation amount to seedling emergence and growth of R. soongarica,and that understanding the effects of precipitation variability on seedling recruitment requires the integration of both precipitation amount and frequency.In particular, the combination of a $30 \\%$ increase in precipitation amount and $50 \\%$ reduction in precipitation frequency increased the emergence and growth of seedlings, suggesting that alteration of amount and frequency of precipitation caused by climate change may have significant effects on seedling recruitment of R. soongarica. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: precipitation patterns; seedling emergence; biomass; root/shoot ratio; seedling recruitment ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Climate change has altered current precipitation pattrns, leading to more extreme precipitation events and prolonged drought conditions (Diffenbaugh and Field, 2Ol3;Westra et al.,2014), especially in dryland areas (Miranda et al.,2O11).These conditions also affect local hydrological processes,which ultimately afect soil water availability to plants (Craine et al.,2O12; Zhang et al.,2013； Shi et al.,2O14). However, the influence of precipitation amount and frequency on desert vegetation and how plants respond to changes in precipitation are still unclear. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The regeneration stage is important for plants to complete their life history. Seed germination, emergence,and seedling establishment are the core of population regeneration (Fay and Schultz, 2009;Dalgleish et al.， 2O1O). Seedling emergence and growth are sensitive to precipitation amount and frequency (Dalgleish et al.,2010; Zeppel et al.,2014; Zhu et al., 2014; Gao et al., 2015).Previous research has shown that increasing the amount of precipitation enhances seed germination (Torres-Martinez et al., 2017),seedling emergence (Robinson and Gross,2010), and growth (Schneider et al.，2014； Didiano et al.，2O16). Similar positive relationships between precipitation and seedling emergence and growth were reported for the sandy desert shrub Artemisia sphaerocephala in the Ordos Plateau, China (Yang et al. 2O12),and for the dune grass Leymus secalinus in the Mu Us Sandy Land, China (Zhu et al., 2O14). Some studies have determined that precipitation frequency was also a key factor affecting seedling emergence and growth (Schneider et al., 2014; Gao et al.,2015; Gibson-Forty et al., 2016); both processes were reduced as precipitation frequency decreased (Zhu et al., 2O14). Additionally, some studies have demonstrated that shifts in precipitation patterns can have different and potentially greater ecological consequences on plants than changes in the amount of precipitation (Reyer et al., 2013; Robinson et al.,2O13),especially in desert ecosystems.Thus, it is necessary to explore the effects of the amount and frequency of precipitation and their interaction. However, current studies on this topic have focused on plants in grassland and forest ecosystems (Dalgleish et al.,2010; Schneider et al.,2O14;Didiano et al.，2Ol6),while no studies have been conducted in desert ecosystems where plants are especially sensitive to moisture changes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic plasticity of plants is the capacity for a given genotype to express different phenotypes under heterogeneous environments (Geange et al.， 2017).Biomass allocation plasticity is a component of phenotypic plasticity，which is a mechanism for dealing with unpredictable environments.A recent study reported that altered precipitation trends,with less frequent and larger precipitation events,are expected to increase in the future (Yue et al., 2013). Such events willikely impact biomass accumulation and allocation (Hoover et al., 2O14; Knapp et al.,2015; Wilcox et al.,2O15).Previous studies showed increased biomass accumulation with increasing precipitation variability (Wang et al., 2012; Kang et al., 2013;Li et al., 2014), while other studies showed an opposite response (Gherardi and Sala,2O15).Furthermore,the influence of precipitation on biomass accumulation and allocation is typically documented by single-pulsed events in precipitation pattrns in grassland ecosystems, while fewer studies in desert ecosystems manipulate precipitation patterns (such as amount and frequency) to illuminate how a series of pulse events affect desert plants (Thomey et al.,2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reaumuria soongarica (Pall.) Maxim., an extreme xerophytic and salt-tolerant semi-shrub and a constructive and dominant species of desert shrub vegetation, is widely distributed in the desert regions including areas with sand dunes and the Gobi desert of Central Asia (Shi et al.,2013). This species has played a major role in reducing effects of desertification and over-grazing,and may be considered as a keystone species and indicator of Gobi desert community (Ma et al., 2007). Furthermore,R. soongarica is recognized as an important forage species and major source of salt for livestock (Yang et al., 2O15). Previous studies on this species have mainly focused on its morphology and anatomy (Liu et al.,2007; Wang et al., 2O11a), genetic diversity (Yang et al., 2015)，stress-resistance mechanisms (Xu et al.， 201O)，and adaptive strategies to desiccation (Wang et al., 2O11b). Despite some demonstrated the links between seed germination and the seedling emergence with changes in water availability in R. soongarica, the relationships among seedling emergence, growth,and seedling recruitment in this species with precipitation variability are not entirely understood.We hypothesized that the projected variation in precipitation amount and frequency caused by climate change will alter seedling emergence and growth of $R$ soongarica seedlings,and thus having important impacts on seedling recruitment of this species. We aimed to answer the following questions:（1） how do $R .$ ，soongarica seedling emergence and growth respond to altered rainfall events? (2） can less-frequent and larger precipitation events enhance seedling emergence and growth of $R .$ . soongarica and thus promoting seedling recruitment? and (3) which trait of this species,i.e.,seedling emergence, germination index, vigor index,relative growth rate，above- and below-ground biomass,or root-shoot ratio,is mostly impacted by the changes in precipitation patterns? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Experimental site and seed collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted throughout the 2O14 growth season of $R$ ，soongarica at the Linze Inland River Basin Research Station, Chinese Academy of Sciences at the southern edge of the Badain Jaran Desert $( 3 9 ^ { \\circ } 1 9 ^ { \\prime } - 3 9 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { N }$ ， $1 0 0 ^ { \\circ } 0 2 ^ { \\prime } { - } 1 0 0 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { E } )$ ，the third largest desert by area in China. The area has a temperate arid desert climate with average annual precipitation of $1 1 7 ~ \\mathrm { m m }$ and mean annual evaporative demand $> 2 3 9 0 \\ \\mathrm { m m }$ ； and over $80 \\%$ of the precipitation occurs between May and September. From 2O05 to 2015, precipitation amount and frequency decreased, and exhibited substantial inter-annual fluctuations (Fig.1). During the growth seasons (from May to October) from 2O05 to 2O15,the mean annual number of rainy days was $3 1 \\mathrm { ~ d ~ }$ ，with a mean interval between precipitation events of 5.9 d (Fig. 2). Annual average temperature was $7 . 6 ^ { \\circ } \\mathrm { C }$ with a maximum of $3 9 ^ { \\circ } \\mathrm { C }$ and a minimum of $- 2 7 ^ { \\circ } \\mathrm { C }$ . The frost-free period lasted about $1 6 5 { \\mathrm { ~ d } } .$ During the growth season in 2O14,the monthly mean temperature was $1 8 . 2 ^ { \\circ } \\mathrm { C }$ and the total rainfall amount was $9 8 . 6 \\ \\mathrm { m m }$ ，based on meteorological records of the Linze Inland River Basin Research Station. Capsules of $R$ 、soongarica were collected in October 2O13 from natural populations of plants in the Gobi desert near the station.In the laboratory, the capsules were laid open at room temperature for about 4 weeks for natural air drying and after-ripening.Thereafter, the capsules were manually shaken to obtain seeds. Seeds were then stored in a closed cotton bag at $- 1 8 ^ { \\circ } \\mathrm { C }$ until further use. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e9bc8694fa987375f334677171c37407262dde803c043c162d0a313589be717.jpg",
+        "img_caption": [
+            "Fig.1Variations in annual precipitation amount (a)and number of events (b) from 2005 to 2015at the Linze Inland River Basin Research Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two experiments were conducted in this study. One was set on seedling emergence,and the other was set on subsequent seedling growth. Treatments described below were applied to both experiments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Experiments on seedling emergence were conducted in a non-heated greenhouse. Initially, 360 healthy and average-sized seeds were selected,and soaked in water for $2 4 \\mathrm { ~ h ~ }$ at $2 5 ^ { \\circ } \\mathrm { C }$ to break dormancy.Plastic pots (heightxtop diameterxbottom diameter $= 2 0 \\ \\mathrm { c m } { \\times } 2 5 \\ \\mathrm { c m } { \\times } 1 8 \\ \\mathrm { c m } )$ were filled with native soil to within $1 \\ \\mathrm { c m }$ of the top.Twenty seeds were placed in each pot and 3 pots (replicates） were considered as one treatment. Emergence was recorded daily and was defined as the presence of two leaves $5 \\mathrm { m m }$ above the soil surface.A few seedlings emerged during the $1 ^ { \\mathrm { s t } }$ to $6 ^ { \\mathrm { { t h } } }$ day, while the majority of seedlings emerged on the $7 ^ { \\mathrm { t h } }$ day. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We employed a fully factorial,randomized,complete block design to examine the effects of precipitation amount and frequency on seedling growth. Eighteen plots in total were demarcated across approximately $4 8 ~ \\mathrm { m } ^ { 2 }$ $( 6 \\mathrm { m } { \\times } 8 \\mathrm { m } )$ at the study site in May 2014 (Fig.2). Each plot ( $( 1 \\mathrm { m } { \\times } 1 \\mathrm { m } )$ （204号 was situated at least $0 . 2 \\mathrm { ~ m ~ }$ away from the other plots in the same block.Impermeable plastic film buried to $1 \\mathrm { ~ m ~ }$ depth was used to avoid seepage between neighboring experimental plots. Seeds were soaked in water at $2 5 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ to break their innate dormancy on 2O May 2O14.Eighty seeds were sown at a depth of $0 . 5 \\mathrm { - } 1 . 0 \\mathrm { c m }$ in a grid pattern spaced $0 . 2 { \\mathrm { ~ m ~ } }$ apart in each pot, with 5 seeds sown at every junction in the grid. After emergence,5O seedlings were retained in each plot, and simulated precipitation started after 1 month. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Natural precipitation was diverted by shelters constructed with a sloping wooden roof and covered with a transparent sheet of polycarbonate ( $( 1 . 1 \\ \\mathrm { m } { \\times } 1 . 1 \\ \\mathrm { m } )$ . The plastic sheeting was transparent and did not affect illumination. Shelters were deployed over allblocks when each time rain was forecasted from 1 July to 31 October, 2O14,and placed at a minimum height of $0 . 5 \\mathrm { ~ m ~ }$ to allow near-surface air exchange,thus there was no greenhouse efect in the plots. Shelters were removed on days without rain to minimize shelter effects on other environmental variables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7199835f4202c848180b480fe781d8fdd69e961ff84c35715361a05964d41583.jpg",
+        "img_caption": [
+            "Fig.2 Diagram of experimental design for the seedling growth study. W,ambient precipitation amount; $\\mathrm { W } +$ $30 \\%$ increase in precipitation amount； W-, $30 \\%$ decrease in precipitation amount; T, ambient precipitation frequency (watering 6 times per month)； T-, $50 \\%$ decrease in precipitation frequency (watering 3 times per month). Black dots represent the random distribution of seedlings. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Precipitation pattern ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The average annual precipitation in this region was $1 1 7 \\ \\mathrm { m m }$ during 1967-2008 based on the records of the Linze Inland River Basin Research Station. In our study area,the inter-annual variation in the amount of precipitation over 5O years was between $- 2 9 \\%$ and $+ 3 6 \\%$ . For this reason，we used a $30 \\%$ alteration in precipitation amount in our experiment. A precipitation gradient was established, i.e., $70 \\%$ （ $30 \\%$ decrease in average), $100 \\%$ (ambient), and $130 \\%$ 0 $30 \\%$ （204号 increase in average),which were designated as W-,W,and $\\mathrm { W } +$ ,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the current prediction in climate change,a $50 \\%$ increase in the length of the interval between precipitation events (i.e., precipitation frequency will be reduced by half) can be expected (IPCC, 2O14). The climate in Badain Jaran Desert has also changed tremendously over the past 5O years, particularly in terms of precipitation patterns (Ma et al., 2O11). Climate change models forecast the reductions in annual precipitation and an increased prevalence of extreme events in the region, including longer intervals between precipitation events and fewer rainy days (Yue et al., 2O13). According to meteorological records at the Linze Inland River Basin Research ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Station,the mean monthly frequency of precipitation during the growth season in our study area is 5.9 events (31 total events during the growth season from May to October). Thus, for each precipitation, there were two treatments: (1） ambient (6 times per month during the growth season),which was designated as ${ \\mathrm { ~ T } } _ { \\mathbf { \\Omega } }$ ，and(2) 3 times per month,which was designated as T-. In each month, simulated precipitation was evenly distributed among precipitation events. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We observed that seeds of $R$ ， soongarica germinated in May,and that duration of germination was one month (Zeng et al., 2004). Thus,average precipitation in May from 1967 to 2008 was regarded as ambient precipitation in the sedling emergence experiment (Table 1). The amount of ambient precipitation used each month for seedling growth was based on the average monthly precipitation from July to October (1967-2O08), corresponding to the main growth season of $R$ soongarica (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Shelters were arranged to collct natural precipitation for irrigation near the test sample. Irrigation was applied from 19:0O to 20:0o (LST) with a modified sprinkler irrigation system, using simulated precipitation amount and frequency for the different treatments (Table 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/938acc3fc9bb807f47eda728f5f8a456dc84754a110a2d57fa8b9e744bc7e863.jpg",
+        "table_caption": [
+            "Table1 Total amount of precipitation event (treatments) in the R.soongarica seedling emergence and growth experiments at two frequency levels "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Time</td><td rowspan=\"2\">% change</td><td rowspan=\"2\">Total monthly amount (mm)</td><td colspan=\"2\">Event size (mm) for each precipitation frequency</td></tr><tr><td>Six times per month</td><td>Three times per month</td></tr><tr><td>Seeding emergence</td><td></td><td>+30%</td><td>16.38</td><td>2.73</td><td>5.46</td></tr><tr><td rowspan=\"10\"></td><td>May</td><td>0%</td><td>12.60</td><td>2.10</td><td>4.20</td></tr><tr><td></td><td>-30%</td><td>8.82</td><td>1.47</td><td>2.94</td></tr><tr><td>July</td><td>+30%</td><td>41.20</td><td>6.87</td><td>13.73</td></tr><tr><td></td><td>0%</td><td>31.70</td><td>5.28</td><td>10.57</td></tr><tr><td></td><td>-30%</td><td>22.20</td><td>3.70</td><td>7.40</td></tr><tr><td>August</td><td>+30%</td><td>33.93</td><td>5.66</td><td>11.31</td></tr><tr><td></td><td>0%</td><td>26.10</td><td>4.35</td><td>8.70</td></tr><tr><td></td><td>-30%</td><td>18.27</td><td>3.05</td><td>6.09</td></tr><tr><td>September</td><td>+30%</td><td>27.64</td><td>4.61</td><td>9.21</td></tr><tr><td rowspan=\"3\"></td><td>0%</td><td>21.26</td><td>3.54</td><td>7.09</td></tr><tr><td>-30%</td><td>14.88</td><td>2.48</td><td>4.96</td></tr><tr><td></td><td>+30%</td><td>8.97</td><td>1.50</td><td>2.99</td></tr><tr><td rowspan=\"2\">October</td><td>0%</td><td>6.90</td><td>1.15</td><td>2.30</td></tr><tr><td>-30%</td><td>4.83</td><td>0.81</td><td>1.61</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Seedling emergence and growth measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Seedling emergence was monitored daily,and emergence was recorded every day starting on 10 May. This part of the experiment was terminated when total number of sedlings remained constant. Next, soil was removed from the pots,and the number of germinated seeds was checked carefully. We used the following four indices to describe seedling emergence: (1) emergence rate, or the speed of sedling emergence， shown mainly as the slope of the dynamic curves representing seedling emergence over time; (2） percentage of seedling emergence，or the percentage of seedlings that emerged from the soil surface compared with the total number of seeds in the experiment; (3） germination index (GI); and (4) vigor index (VI). GI and VI were calculated by Equations 1 and 2 of Boscagli and Sette (2OO1), respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { G I } } = \\sum { \\frac { G t } { D t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $G t$ is the number of seeds germinated on day $t$ and $D t$ is the number of germination days of $G t$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\boldsymbol { V } } \\mathbf { \\boldsymbol { I } } = \\mathbf { \\boldsymbol { G } } \\mathbf { \\boldsymbol { I } } \\times \\mathbf { \\boldsymbol { S } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $S$ is the average total length of seedling (cm),measured with Vernier calipers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the effects of changes in precipitation patterns on $R$ . soongarica seedlings during the growth season, we destructively sampled the plots 4 times,on 25 of July, August, September, and October, respectively. During each sampling event, we harvested 18 saplings (1 plant from each plot)，with 72 saplings assessed in total. Before sampling，we recorded stem length,and canopy and branch diameters with a band tape and Vernier calipers. We carefully excavated the complete root system using a traditional method known as the skeleton method (Bohm,1979). The procedure was as follows: after the specimen was selected, a trench (lengthxwidthxdepth $_ { = 0 . 5 }$ （204号 $\\mathrm { m } { \\times } 0 . 3 \\ \\mathrm { m } { \\times } 0 . 6 \\ \\mathrm { m } \\$ ） was dug at a distance on the north side of the plant,so that the excavated roots were not exposed to direct sunlight. Then, the root system was exposed. The soil from the plant side of the trench was removed downward carefully from the surface with a smallshovel, until the whole root system was exposed. All plant material was then taken to the laboratory. Soil adhering to the root was brushed offand the above-ground and below-ground parts of the plants were separated. The 2 sections were separately placed in an oven at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $2 \\mathrm { ~ h ~ }$ and then maintained at $6 0 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { ~ h ~ }$ ，after which the biomass was weighed using an analytical balance (above- and below-ground biomass). We calculated root/shoot ratio based on the above- and below-ground biomass.The relative growth rates (RGR) were calculated using Equation 3 of Poorter (1999): ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R G R } = \\frac { \\ln W _ { 2 } - \\ln W _ { 1 } } { \\Delta _ { t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { 1 }$ is the initial biomass(g), $W _ { 2 }$ is the final biomass $( \\mathbf { g } )$ , and $\\Delta _ { t }$ is the time interval between the two measurements. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Data in all figures are expressed as arithmetic mean $\\pm \\mathrm { S E }$ . Differences among treatments for aboveand below-ground biomass, root/shoot ratio,seedling emergence percentage,GI,VI, and RGR were analyzed using two-way or one-way ANOVA. Multiple comparisons were used directly to determine differences between treatments when ANOVA showed significant effects. Tukey's honestly significant difference(HSD) tests at $P { < } 0 . 0 5$ level were used to determine which sample means differed from each other. All analyses were conducted using SPSS version 15.0 for Windows (SPSS Inc., Chicago, USA). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Seedling emergence ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cumulative seedling emergence at both precipitation frequencies was higher in $\\mathbf { W } +$ than in W or W- during the $2 8 { \\mathrm { ~ d ~ } }$ experiment (Fig. 3). The highest emergence,at about $70 \\%$ ，was observed in $\\mathrm { W } +$ at the frequency of 3 times per month $( \\mathrm { W } \\mathrm { + T } \\mathrm { - } )$ . In this precipitation pattern，cumulative seedling emergence quickly reached $3 8 . 3 3 \\%$ on the $8 ^ { \\mathrm { { t h } } }$ day after sowing,resulting in a steep germination curve. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The two-way ANOVA showed that final seedling emergence percentage was significantly affected by precipitation amount ( $_ { ( P < 0 . 0 5 }$ ； Table 2),but not by the frequency of precipitation or their interaction. Seedling emergence in $\\mathbf { W } +$ was significantly higher than that in W or W（204号 $( P { < } 0 . 0 5$ ； Fig.3)，but it was not significantly different between $\\mathbf { W }$ and W- $( P { > } 0 . 0 5$ ； Fig. 3). Seedling emergence percentage increased by an average of $4 5 . 7 \\%$ in $\\mathrm { W } +$ over that in W. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GI and VI were significantly affected by precipitation amount ( $P { < } 0 . 0 0 1$ ; Table 2). Both indices increased as precipitation increased under the same precipitation frequency (Fig. 4). GI and VI in $\\mathrm { W } +$ were significantly higher than in W or W- ( $_ { \\it P < 0 . 0 5 }$ ; Fig. 5), but they were not significantly different between W and W- ( $\\cdot P { > } 0 . 0 5$ ; Fig. 4). Under the decreased precipitation frequency, the largest GI and $\\mathrm { v I }$ were obtained with $\\mathrm { W } +$ ，with values of 1.57 $( \\pm 0 . 0 3 3 )$ and 7.54 $( \\pm 0 . 3 6 )$ ， respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4d3e2b229ffa00ae6a997045bc3b26f41f6847463ad0441f08f37ef388d4c28.jpg",
+        "img_caption": [
+            "Fig.3Cumulative seedling emergence of $R$ 、soongarica under three levels of precipitation amount.(a) ambient precipitation frequency (watering 6 times per month); (b) $50 \\%$ decrease in precipitation frequency (watering 3 times per month).W,ambient precipitation amount; $\\mathrm { W } +$ $30 \\%$ increase in precipitation amount; W-, $30 \\%$ decrease in precipitation amount.Bars indicate standard errors.The abbreviations are the same as in Figures 4-7. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ceaaef0fd5379f826301e58d9b919f968a24a2679300ff1dc1cbbca53ccc4ae6.jpg",
+        "img_caption": [
+            "Fig.4Effects of precipitation amounts and frequencies on germination index (a)and vigor index(b)of $R$ soongarica. Bars with the same lowercase letters for each panel indicate non-significant diferences among precipitation amounts within each frequency (Duncan's multiple range test, $P { < } 0 . 0 5 )$ .T,ambient precipitation frequency (watering 6 times per month); T-, $50 \\%$ decrease in precipitation frequency (watering 3 times per month). The abbreviations are the same as in Figures 5-7.Bars indicate standard errors, $\\scriptstyle n = 3$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/67255cba1f10b8e1ae9d280e6c861d98f80f111a7d5f9841f6e5a0714056b198.jpg",
+        "table_caption": [
+            "Table2Results ( $F$ -values） based on two-way ANOVA of the effects of precipitation amount and frequency on seedling emergence and growth characteristics "
+        ],
+        "table_footnote": [
+            "Note: $P$ -values in brackets.\\*,\\*\\* and \\*indicate significances at $P { < } 0 . 0 5$ $\\overline { { P { < } 0 . 0 1 } }$ and $P { < } 0 . 0 0 1$ levels,respectively. $\\scriptstyle n = 3$ （24 "
+        ],
+        "table_body": "<html><body><table><tr><td>Source of variation</td><td>Precipitation amount</td><td>Precipitation frequency</td><td>Precipitatin amount</td></tr><tr><td>Seedling emergence percentage</td><td>13.690 (0.001)*</td><td>1.306 (0.275)</td><td>0.048 (0.953)</td></tr><tr><td>Germination index (GI)</td><td>24.356 (0.000)**</td><td>0.846 (0.426)</td><td>1.025 (0.547)</td></tr><tr><td>Vigor index (VI)</td><td>15.956 (0.000)**</td><td>0.542 (0.359)</td><td>0.872 (0.478)</td></tr><tr><td>Above-ground biomass</td><td>3.801 (0.029)*</td><td>1.601 (0.212)</td><td>0.580 (0.564)</td></tr><tr><td>Below-ground biomass</td><td>2.920 (0.041)*</td><td>0.689 (0.410)</td><td>0.379 (0.687)</td></tr><tr><td>Root/shoot ratio</td><td>15.676 (0.000)***</td><td>2.422 (0.126)</td><td>2.569 (0.087)</td></tr><tr><td>Relative growth rate (RGR)</td><td>13.578 (0.001)*</td><td>9.562 (0.001)*</td><td>19.586 (0.000)**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Growth ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Above- and below-ground biomass were affected by precipitation amount ( $P { < } 0 . 0 5$ ； Table 2). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Above- and below-ground biomass increased in $\\mathrm { W } +$ at both frequency levels (Fig. 5). The highest above-ground biomass was obtained in $\\mathbf { W } +$ at the frequency of 3 times per month among the sampled growth stages $( \\mathrm { W } \\mathrm { + T } \\mathrm { - } )$ (Fig. 5a). Early in the growth season (July)，below-ground biomass in W- was significantly higher than that in W at both frequency levels ( $_ { ( P < 0 . 0 5 }$ ; Fig. 5b). Compared with W, W- resulted in an increase in, or the same amount of, below-ground biomass in the middle of the growth season (August and September), followed by a decrease toward the end (October) (Fig.5b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2360c1d19ad89e6fd4ca6daca5927d5ae66bd5134b20baed2e76fa3a9868b262.jpg",
+        "img_caption": [
+            "Fig.5Dynamics of the above-ground biomass (a) and below-ground biomass (b） of $R$ ，soongarica seedlings under different precipitation amounts across the growth season.Different lowercase lettrs are significantly different $( P { < } 0 . 0 5 )$ based on single-factor analysis of variance (ANOVA) under the same precipitation frequency. Bars indicate standard errors, $\\scriptstyle n = 3$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Root/shoot ratio was affected by precipitation amount ( ${ \\scriptstyle \\overset { \\prime } { P } \\underset { \\mathrm { \\ell } } { < 0 . 0 0 1 } }$ ； Table 2). Compared with ambient precipitation, it significantly increased in W- at the same frequency levels in July and August.In September and October,root/shoot ratio was significantly increased in W- compared with W with a frequency of T, but was the same in W- and W with a frequency of T- (Fig. 6). The highest root/shoot ratio was obtained with W- and T (Fig. 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RGR was affected by the amount and frequency of precipitation,and their interaction $( P { < } 0 . 0 5$ Table 2).The RGR of the above-ground, below-ground,and total biomass increased significantly asprecipitation amount increased under the same precipitation frequency‘ $( P { < } 0 . 0 5$ ； Fig. 7). Compared with ambient precipitation,RGR of above-ground, below-ground,and total biomass increased by an average of $5 2 . 8 8 \\%$ $( \\pm 6 . 3 6 \\% )$ ， $2 6 . 0 0 \\%$ $( \\pm 4 . 3 9 \\% )$ ，and $4 1 . 9 3 \\%$ $( \\pm 4 . 9 8 \\% )$ ， respectively， in $\\mathrm { W } +$ .These increases were highly significant when precipitation frequency decreased from 6 to 3 times per month,i.e., RGR for the three biomass parameters increased by $9 5 . 3 0 \\%$ （204号 $( \\pm 7 . 5 2 \\% )$ ， $3 3 . 5 1 \\%$ （204 $( \\pm 2 . 6 7 \\% )$ ,and $7 0 . 1 2 \\%$ （2 $( \\pm 6 . 5 8 \\% )$ , respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/53daad6c89a7b3ad8118bfd92c5d27b76503aef9810dbcffcbd7949b72c2986a.jpg",
+        "img_caption": [
+            "Fig.6Dynamics of the root/shoot ratio of $R$ ，soongarica seedlings under different precipitation amount across the growth season.Different lowercase letters are significantly different $_ { ( P < 0 . 0 5 ) }$ based on single-factor analysis of variance (ANOVA)among diferent precipitation amounts for the same precipitation frequency. Bars indicate standard errors, $\\scriptstyle n = 3$ ",
+            "Fig.7Effects of precipitation amount and frequency on(a) relative growth rate of above-ground biomass,(b) below-ground biomass，and (c） total biomass of $R$ ，soongarica seedlings.Different lowercase letters are significantly different $( P { < } 0 . 0 5 )$ based on single-factor analysis of variance (ANOVA） among different precipitation amounts for the same precipitation frequency. Bars indicate standard errors, $\\scriptstyle n = 3$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a)W-W W+ (b) a (c) a a 0.0030 a b 0.008 0.006 Prerreeinegr iernieieneeler LI1! C b a b 0.005 8 0.006 b a C 0.004 C b Y a C T C 0.004 0.003 b 0.002 0.002 0.001 0.000 0.000 T T T T- T TPricipation frequency (times per month) Pricipation frequency (times per month) Pricipation frequency (times per mc ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 Germination and seedling emergence ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Germination and seedling emergence can be altered by changes in water availability in arid and semi-arid areas,with rainfall constituting the primary water source for germination and seedling emergence in these regions (Li et al.,2O12; Funk et al.,2O14). Global climate change is gradually altering precipitation paterns,with less frequent and larger precipitation events predicted for the future (Diffenbaugh and Giorgi， 2O12).Previous studies have indicated that increased precipitation amount results in the promotion of germination and seedling emergence of some desert plants (Yang et al.， 2012； Zhu et al.， 2014). In our study，germination and seedling emergence of $R .$ .soongarica were affected by changes in precipitation amount (Table 2),and this effect was stronger when precipitation frequency decreased from 6 to 3 times per month. Similar results have been reported for herbs at the northern edge of the Great Plains in Canada (Ambrose and Wilson,2003) and at Shapotou in northwestern China (Tobe et al., 2005). These observations support the well-defined positive relationship between germination and seedling emergence and precipitation amount, which is due to the increase in soil moisture after high precipitation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "With a $30 \\%$ decrease in precipitation amount, germination and seedling emergence of $R$ （ soongarica decreased (Figs. 3 and 4), indicating that a decrease in precipitation amount may have intensified the loss of soil moisture,causing drought stress and decreasing reproductive sucess. These results were consistent with those of Gomez-Aparicio et al. (2OO8) and Hovenden et al. (2008).Heavier precipitation events have been predicted to increase during summers in this region(Yue et al., 2Ol3). R. soongarica germinates in the summer, and seedling emergence would be expected to increase and improve reproductive success with greater precipitation in a future climate. However, germination and seedling emergence may be determined mainly by additional precipitation in late spring and evenness of precipitation distribution rather than precipitation amount alone (Barchuk et al., 2Oo5). Therefore, it is critical to increase our understanding of the effects of varying precipitation patterns on germination and seedling emergence. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Germination and seedling emergence were also affected by precipitation frequency (Schneider et al.,2014; Gao et al.，2015; Gibsonforty et al.，2016). Zhu et al. (2014) demonstrated that germination and seedling emergence of the dune grass Leymus secalinus increased as precipitation frequency increased with the same precipitation amount. A similar positive relationship between seedling emergence and frequency of precipitation was reported for the annual plants Bassia dasyphylla and Agriophyllum squarrosum，while a lower precipitation frequency was favored by Aristida adscensionis (Tobe et al.， 2Oo5). We found that seedling emergence in $R$ ， soongarica increased when precipitation frequency decreased under the same precipitation amount (Fig. 3). Maximum emergence $( 7 0 \\% )$ was obtained when precipitation was increased by $30 \\%$ and the precipitation frequency was decreased. The possible reason for this discrepancy is species-specific effects of changes in precipitation frequency. This may be related to the high water requirement of seed germination in $R$ ， soongarica (Zeng et al.， 2004)； rain events characterized by lower frequency and higher amount may be just enough to meet the high water requirement. Precipitation patterns in arid areas may be more unpredictable in the future than at present (Zhu et al.,2O14). Therefore, in the future, less frequent precipitation events with higher amounts will enhance seedling emergence of this species. Our results suggest that the effects of changing precipitation patters on seeding emergence are complex， and require considerable changes in magnitude of both the amount and frequency of precipitation to enable a prediction of how population regeneration will respond to variable precipitation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Growth and allocation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plasticity in plant performance (such as biomass, root/shoot ratio,and relative growth rate) under changing precipitation patterns exhibits short-term adaptation, and promotes long-term evolution (Matesanz et al.,2010; Nicotra et al., 2010; Didiano et al.,2016). In our study,seedling growth and biomass accumulation were explained more by the amount than by the frequency of precipitation (Table 2); increased precipitation amount significantly increased plant growth and biomass accumulation (Fig. 5).However, the $30 \\%$ decrease in ambient precipitation resulted in an increase in below-ground biomass and root/shoot ratio at both frequency levels during the early growth season (Fig.5). This indicated that the roots may respond quickly to precipitation pattern changes during water stress at the early stage growth season. At the end of growth season, a $30 \\%$ decrease in ambient precipitation decreased above- and below-ground biomass,while root/shoot ratio was significantly increased under ambient frequency,and it was the same under decreased precipitation frequency. This indicated that long-term reduction of precipitation inhibited aboveand below-ground biomass accumulation, with larger effects on above-ground than below-ground biomass under decreased precipitation frequency. Our results revealed that growth and biomass allocation exhibited strong plasticity in response to variability in the amount of precipitation, which enhanced the ability of plants to survive and reproduce in unpredictable environments of arid regions，and support the well-defined positive relationship of vegetation response to precipitation (Ponce-Campos et al., 2013; Yue et al.,2016). However, White et al. (2000) found that additional precipitation either did not affect or might decrease biomass.The possible reason for this discrepancy is that the water gradients used in their studies did not differ enough to reflect the differences. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Our results showed that decreased precipitation frequency increased plant growth and biomass accumulation under the same precipitation amount at the end of growth season. The highest above- and below-ground biomass and RGR were observed with a $30 \\%$ increase in precipitation amount and a $50 \\%$ decrease in precipitation frequency (less frequent but larger-volume individual precipitation event). This finding is consistent with results obtained for other plants in arid and semi-arid regions (Heisler-White et al.,2OO9). Water infiltration of soil is greater and high soil moisture persists longer under this precipitation pattern than at others,especially at deeper soil depths where evaporation is low (Schwinning and Sala, 2OO4). Therefore, plants, especially desert plants with deeper roots,have more access to water resources that promote growth. This could explain why some desert plants,many of which have deep root systems,showed the greatest response to low frequency and high precipitation events. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "R.soongarica is a typical constructive xerophytic species, in which water stress is the limiting factor to survival and growth (Yang et al.， 2O15). In this experiment, we created larger precipitation events by decreasing precipitation frequency for a given precipitation amount, which provided more biologically-available water and improved the survival and establishment of $R .$ soongarica seedlings more effectively than more frequent events.As a result, water was available to $R$ . soongarica seedlings across the soil profile from the top to deep layers, improving seedling establishment. Thus, precipitation frequency plays an ecologically important role in successful seedling establishment of $R$ . soongarica by advancing seedling growth,which will be important for future climate change scenarios. These results indicate that we should compare interactive effects of precipitation amount and frequency on plant growth rather than a single parameter of water availability (often mean precipitation amount)， when attempting to describe the effects of climate-driven changes in precipitation patterns to plant regeneration (Schneider et al., 2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This study demonstrates that seedling emergence of $R$ . soongarica adapted to a combination of a $30 \\%$ increase in precipitation amount and a $50 \\%$ reduction in precipitation frequency in late spring. Increased precipitation enhanced seedling emergence and growth in $R$ ，soongarica,with larger effects at a lower frequency than ambient. Increased precipitation amount enhanced plant growth and biomass accumulation. However, a $30 \\%$ decrease in ambient precipitation resulted in an increase in below-ground biomass and root/shoot ratio at the early stage of growth. At the end of growth season, a $30 \\%$ decrease in ambient precipitation decreased above- and below-ground biomass while root/shoot ratio was significantly increased under ambient frequency,and it was the same under decreased precipitation frequency. When precipitation frequency was decreased by $50 \\%$ , values of all growth traits increased under the same amount of precipitation. Our results suggested that precipitation frequency may be as important as precipitation amount to seedling emergence and growth of $R$ ， soongarica. Therefore,understanding the effects of precipitation variability on seedling recruitment requires the integration of both precipitation amount and frequency. The plastic response of $R .$ soongarica growth to precipitation pulses exhibited a strong adaptation to the present-day unpredictable environment and may continue to do so under increased unpredictability of future climate change. Therefore， climate change-induced precipitation variability may have profound effects on seedling emergence and growth of $R .$ soongarica. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Natural Science Foundation of China (31560135,41361100), ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and the Gansu Science and Technology Support Program (1604FKCAO88).The authors are very grateful to the anonymous reviewers and editors for their critical review and comments which helped to improve and clarify the manuscript. We thank Dr. John Hugh SNYDER for language assistance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ambrose L G,WsonSD.zUus.Emergence ot tne introduced grass Agropyron cristatum and tne native grass Bouteloua gracilis in a mixed-grass prairie restoration. Restoration Ecology,1l(1): 110-115.   \nBarchukAH,Valiente-BanuetA,DiazMP.2Oo5.Effectofshrubsandseasonalvariabilityofrainfallontheestablishmentof Aspidosperma quebracho-blanco in two edaphically contrasting environments. Austral Ecology,30(6): 695-705.   \nBohm W.1979.Methods of Studying Root Systems.New York: Springer-Verlag, 6-8.   \nBoscagli A,Sette B.2O01.Seed germinationenhancementin Satureja montanaL.sp.Montana.Seed Science and Techology, 29(2): 347-355.   \nCore Writing Team,PachauriRK,MeyerLA.2014.Climate Change 2O14: Synthesis Report.Contributionof Working Groups I, I and II ttheFifth AssssmentReportofthe ItergovermentalPanelon Climate Change.GenevaSwitzerland: ICC, 408.   \nCraine JM,NippertJB,ElmoreAJ,etal.2012.Timingofclimatevariabilityand graland productivity.Proceedingsof the National Academy of Sciences of the United States of America,109(9): 3401-3405.   \nDalgleishHJ,KoonsDN,AdlerPB.2Oo.Canife-hstorytraitspredicttheresponseofforbpopulations tochangesclimate variability? Journal of Ecology,98(1): 209-217.   \nDidiano TJ,Johnson MTJ,Duval TP.2016.Disentangling the effctsof precipitationamount and frequencyonthe performance of 14 grassland species.PLoS ONE,11(9): e0162310.   \nDifenbaugh N S,Giorgi F.2012.Climate change hotspots in the CMIP5 global climate model ensemble. Climatic Change, 114(3-4): 813-822.   \nDifenbaughNS,FieldCB.2013.Changesinecologicallycriticalterrestrialclimateconditions.Science,341(6145):86-492.   \nFayPA,SchultzMJ.2O09.Germinatio,survival,andgrowthof grassandforbsdlings:efectsofsoilmoisturevrability. Acta Oecologica,35(5): 679-684.   \nFunk FA,Loydi A,PeterG2014.Efectsofbiological soilcrustsand droughtonemergenceand survivalofaPatagonian perennial grass in the Monte of Argentina. Journal of Arid Land,6(6): 735-741.   \nGao R R,Yang XJ,Liu GFetal.2O15.Effectsofrainfallpater on the growthad fecundityofadominant dune anual ina semi-arid ecosystem.Plant and Soil,389(1-2): 335-347.   \nGeange SR,Briceno VF,Aitken NC,etal.2O17.Phenotypic plasticityand wateravailability:responses of alpine herb species along an elevation gradient. Climate Change Responses, 4: 5.   \nGherardiLA,Sala OE.2Ol5.Enhanced precipitationvariabilitydecreases gra-andincreasesshrub-productivity.Proceedings of the National Academy of Sciences of the United States of America,112(41): 12735-12740.   \nGibson-FortyEVJ,BarnettKL,Tissue DT,et al.2016.Reducingrainfallamount hasagreater negative effectonthe productivity of grassland plant species than reducing rainfall frequency.Functional Plant Biology,43(4):380-391.   \nG6mez-AparicioL,Perez-Ramos IM,Mendoza I,etal2oo8.Oakseedling survival and growth along resource gradients in Mediterranean forests:implications forregeneration in current and future environmental scenarios.Oikos，117(11): 1683-1699.   \nHeisler-WhiteJLlairJM,KellyEF,etal.O9.Contingentproductivityesponses tore extremerinfallegimsacoss a grassland biome. Global Change Biology,15(12): 2894-2904.   \nHooverDL,Knapp AK,Smith MD.2014. Resistance and resilienceof a grassand ecosystem to climate extremes.Ecology, 95(9): 2646-2656.   \nHovenden MJ,NewtonPCD,WillsKE,etal.2O08.Influenceof warmingonsoilwaterpotentialcontrolssedlingmortality in perennial but not annual species in a temperate grassland. New Phytologist,18o(1): 143-152.   \nKang MY,DaiC,JiWYetal.23.Biomassanditsalocatioinelationtmperature,precipitatio,andslutritsin Inner Mongolia grasslands, China.PLoS ONE,8(7): e69561.   \nKnapp AK,CarrollCJW,DentonEM,etal.2O15.Diferentialsensitivitytoregional-scale drought insixcentral US grasslands. Oecologia,177(4): 949-957.   \nLi X H,Jiang D M,Alamusa,et al.2012.Comparison of sed germinationof four Artemisia Species (Asteraceae）in northeastern Inner Mongolia,China. Journal of Arid Land,4(1): 36-42. accumuiauon and paruuoning in seaungs oItne rnzomatous perennial grass Leymus cninensts.PLos UNE,y(8): eluso33.   \nLiuYB,WangGiuJ,etal.7.Aatomcalopologicaldmetabolicclimationinesurrectionplanteuria soongorica during dehydration and rehydration.Journal of Arid Environments,7O(2):183-194.   \nMa JY,Chen K,XiaDS,etal.2Oo7.Variationin foliarstablecarbonisotopeamong populationsofadesert plant,Reaumuria soongorica (pal.) maxim.in different environments.Journal of Arid Environments,69(3): 365-374.   \nMa N,WangNA,ZhuJF,et al.2Ol1.Climatechangearound the badain jarandesert inrecent 5Oyears.Journal of Desert Research,31(6): 1541-1547.(in Chinese)   \nMatesanz S,Gianoli E,ValadaresF.2O10.Globalchange and theevolutionof phenotypic plasticity inplants.Annalsof the New York Academy of Sciences,1206: 35-55.   \nMirandaJD,ArmasC,PadillaFM,etal.2O11.Climaticchangeandrainfallpatterns:Effectsonsemi-arid plantcommunities of the Iberian Southeast. Journal of Arid Environments,75(12): 1302-1309.   \nNicotra AB,AtkinOK,Bonser SP,etal.2Ol0.Plant phenotypic plasticity inachanging climate.Trendsin Plant Science, 15(12): 684-692.   \nPonce-Campos GE,Moran MS,Huete A,etal.20l3.Ecosystemresilience despite large-scalealtered hydroclimaticconditions. Nature,494(7437): 349-352.   \nPoorterL.199.Growth responses of 15rain-forest tree species toalight gradient: the relative importance of morphological and physiological traits.Functional Ecology,13(3): 396-410.   \nReyer CPO,Leuzinger S,Rammig A,et al.2013.A plant's perspective of extremes: terestrial plant responses tochanging climatic variability. Global Change Biology,19(1): 75-89.   \nRobinson TMP,GrossKL.2Ol0.The impactof altered precipitation variabilityonannual weed species.American Jouralof Botany,97(10): 1625-1629.   \nRobinson TMP,LaPierreKJ,Vadeboncoeur MA,etal.2O13.Seasonal,not annual precipitation drivescommunity productivity across ecosystems. Oikos,122(5): 727-738.   \nSchneider AC,LeeTD,KreiserMA,etal.2014.Comparativeand interactive efectsof reduced precipitation frequencyand volume on the growth and functionof two perennial grassand species.International Journal of Plant Sciences,175(6): 702-712.   \nSchwining S,SalaOE.2004.Hierarchyofresponses toresource pulses inaridand semi-arid ecosystems.Oecologia,141(2): 211-220.   \nShiY,YanX,ZhaoS,etal.2Ol3.Transcriptomicaalsisofatertiaryrelictplant,xtreme xerophteReaumurisogorica to identify genes related to drought adaptation.PLoS ONE,8(5): e63993.   \nShi Z,TomeyML,MowllW,etal.214.Differential effctsof extreme droughtonproductionandrespiration:synthesisand modeling analysis.Biogeosciences,11(3): 621-633.   \nThomeyML,ColinsSL,VargasR,etal.20l1.Efectof precipitationvariabilityonnetprimaryproductionandsoil respiration in a Chihuahuan Desert grassland. Global Change Biology,17(4): 15o5-1515.   \nTobe K,Zhang LP,Omasa K.2Oo5.Seed germination and sedling emergence of threeannuals growing on desert sand dunes in China.Annals of Botany,95(4): 649-659.   \nTorres-Martinez L，Weldy P,Levy M,etal.2O0l7．Spatiotemporal heterogeneityin precipitation paternsexplain population-level germination strategies in an edaphic specialist. Annals of Botany,119(2): 253-265.   \nWang KB,LiJP,Shangguan ZP,o2.Biomass componentsandenvironmentalcontrolsiningxiagrassands.Joualof Integrative Agriculture,11(12): 2079-2087.   \nWang XH, XiaoHL,ChenGX,etal.20lla.IsolationofhighqualityRNAfrom Reaumuriasoongorica,adesert plantrich in secondary metabolites.Molecular Biotechnology,48(2):165-172.   \nWang XH,Zhang T, Wen ZN,et al.20l1b.Thechromosome number,karyotypeand genome sizeof thedesert plant diploid Reaumuria soongorica (Pall.) Maxim.Plant Cell Reports,30(6): 955-964.   \nWestra S,FowlerHJ,EvasJP,etal.2O14.Futurechangestotheintensityandfrequencyofshort-durationextremeainfll. Reviews of Geophysics,52(3): 522-555.   \nWhite TA,CambellBD,KempPD,etal.oo.Sensitivityofthre grassandcommunitiestosimulated extreme tepature and rainfal events. Global Change Biology, 6(6): 671-684.   \nWilcoxKR,VonFischerJC,MuschaJM,etal.2O15.Contrasting above-andbelowgroundsensitivityof three GreatPlains grasslands to altered rainfallregimes. Global Change Biology,21(1): 335-344.   \nXu DH,SuPX,Zhang RY,etal.2O10.Photosynthetic parameters andcarbon reservesof aresurectionplant Reaumuria soongorica during dehydration and rehydration.Plant Growth Regulation,6O(3):183-190.   \nYangJY,CushmanSA,SongXM,etal.2O15.GeneticdiversityanddriversofgeneticdifferentiationofReaumuria soongorica of the Inner Mongolia plateau in China.Plant Ecology,216(7): 925-937.   \nYang XJ,BaskinCC,BaskinJM,etal.2012.Seed mucilage improves seedling emergenceofasanddesertshrub.PLoSONE, 7(4): e34597.   \nYueTX,ZhaoN,RamseyRD,etal.2O13.Climatechange trendinchina,withimprovedaccuracy.ClimaticChange,0(1-2): 137-151.   \nYueXF,ZhangTH,ZhaoXY,etal.2O16.EfectsofranfallpaternsonannualplantsinHorqinandyLand,InnerMogolia of China. Journal of AridLand,8(3): 389-398.   \nZeng YJ,Wang YR,Zhuang G H,et al.2O04.Seed germination responsesof Reaumuria soongoricaand Zygophyllum xanthoxylum to drought stress and sowing depth.Acta Ecologica Sinica,24(8):1629-1634.(in Chinese)   \nZeppel MJB,WilksJV,Lewis JD.20l4.Impacts of extreme precipitationand seasonal changes in precipitationon plants. Biogeosciences,11(11):3083-3093.   \nZhangYG,MoranMS,NearingMA,etal.2Ol3.Extremeprecipitationpaernsandreductionsof terestrialecosystem production across biomes. Journal of Geophysical Research-Biogeosciences,118(1):148-157.   \nZhu YJ,YangXJ,BaskinCC,etal.2Ol4.Effectsofamountand frequencyof precipitationandsandburialonseed germination,seedling emergenceandsurvivalofthedune grassLeymus secalinus insemiaridChina.PlantandSoil,374(1-2): 399-409. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

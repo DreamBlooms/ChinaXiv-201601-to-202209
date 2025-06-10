@@ -1,0 +1,552 @@
+[
+    {
+        "type": "text",
+        "text": "Porous titania/carbon hybrid microspheres templated by in situ formed polystyrene colloids ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ting Chengab, Guoqiang ZhangC, Yonggao Xiaa, Zaicheng SunC, Zhaohui Yangd, Rui Liue, Ying Xiaoa, Xiaoyan Wangaf, Meimei Wangab,Jianzhen Banag, Liangtao Yangag, Qing Jia, Bao Qiua, Guoxin Chena, Huifeng Chena, Yichao Lina, Xiaoying Peia, Qiang Wud,Jian-Qiang Mengf, Zhaoping Liua, Liang Chena, Tonghu Xiaob, Ling-Dong Sune, Chun-Hua Yané, Hans Jurgen Butth, Ya-Jun Cheng a\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "i   \nbFacultyofMaterials ScienceandChemicalEngineering,Ningbo UniversityNingbo,Zhejiang Province315211,PCina   \nChgch   \nChangchun 130033,PR China   \ndSoochow University,CenterforSoft Condensed Mater Physics&Interdisciplinary Research,Suzhou 215oo6,PR China   \nBeingNtioe   \nandBioinorganicChemistry,CollgeofhemistryndolecularEngineering,PekingUniversityBeijing871,ina   \nfStateKeyLaboratoryofSeparationMembranesandMembranerocees,ianjinolytechnicUniversityianjin00387ina   \ngNano ScienceandTechnology Institute,UniversityofScience and TechnologyofChina,Suzhou 215123,PR China   \nh Max-Planck Institute for Polymer Research,Ackermannweg 10,D-55128 Mainz,Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GRAPHICALABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lierarchical porous $\\mathrm { T i O } _ { 2 } /$ carbon hybrid microspheres have been synthesized,using insituformed polystyrenecoloidsastemplatingagentandcarbon ourceunder solvothermal reaction. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b7ffc6279b700278debd1b223d05a348db8a9b5a43947164eb25d50b9f6adf5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A new strategy to synthesize hierarchical,porous titania/carbon $( \\mathrm { T i O } _ { 2 } / C )$ hybrid microspheres via solvothermal reaction in N,N'-dimethylformamide(DMF) has been developed.In situ formed polystyrene (PS) colloids have been used as templating agent and carbon source,through which $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres with a diameter of ca. $1 \\mu \\mathrm { m }$ are built by packed $\\mathrm { T i O } _ { 2 }$ nanoparticles of tens of nanometers.The $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres are converted to $\\mathrm { T i O } _ { 2 } / C$ microspheres with different amounts of carbon under controlled calcination condition.The mechanism investigation unveils that the introduction of concentrated HCl creates surface tension between PS and DMF,leading to the formation of PS coloids in solution.The solvothermal treatment further promotes the formation of PS colloids and integration of the titania ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nTitania/carbon hybrid   \nMicrosphere ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nanoparticles within the PS colloids.The morphology,crystallinity,nature and content of carbon,UV-Vis absorption,carbon doping,pore size distribution,pore volume,and BET surface area of the $\\mathrm { T i O } _ { 2 }$ microspheres with different amounts of carbon have been measured.The applications of the $\\mathrm { T i O } _ { 2 } / C$ hybrid microspheres as photo catalyst for water splitting and lithium-ion battery anode have been demonstrated.Superior photo catalytic activity for hydrogen conversion under both full spectrum and visible light illumination compared to commercial P25 has been observed for the $\\mathrm { T i O } _ { 2 } / C$ microspheres with $2 \\mathrm { w t \\% }$ of carbon.Besides,the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $8 \\mathrm { w t \\% }$ of carbon as lithium-ion battery anode showed a much higher capacity than the bare $\\mathrm { T i O } _ { 2 }$ microsphere anode.The origin for the enhanced performance as photo catalyst and lithium-ion battery anode is discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T i O } _ { 2 }$ has broad applications in coating,dye-sensitized solar cells,photocatalysis,lithium ion batteries,and sensors due to its abundance,low toxicity,and unique electrochemical properties [1-7].Crystallinity,morphology and surface coating of $\\mathrm { T i O } _ { 2 }$ play important roles in the performance of the devices [8-14]. Recently hierarchical architectures composed of both nano-sized primary structures and micrometer scale secondary aggregates attracted considerable attention.While the nanostructures offer high specific surface area,short charge carrier transportation routes and high electrochemical reactivity; the micrometer-scale aggregates provide high tap density and good bulk structure stability [15-17]. In addition to a control of the morphology,compositing $\\mathrm { T i O } _ { 2 }$ with carbon is an effective strategy to modify the absorption wavelength， optimize fundamental electrochemical process，and improve intrinsic electron conductivity of $\\mathrm { T i O } _ { 2 }$ [18-24]. Combining these two strategies is essential to achieve good overall performance in photocatalysis and lithium-ion batteries. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Numerous strategies have been developed to synthesize hierarchical $\\mathrm { T i O } _ { 2 }$ microspheres including hard/soft template,emulsification,and template free reaction[15,25-4O]. Solid polymer beads suchas polystyrene (PS)or poly (methyl methacrylate)(PMMA) have been extensively used as templates to synthesize porous $\\mathrm { T i O } _ { 2 }$ [15,25,30,32,40-42]. However,severe drawbacks remain with this strategy.First,synthesis of well-defined polymer beads is required,which significantly limits the feasibility of this strategy. Second,a two-phase reaction feature dominates when PS and PMMA solids are used as scaffolds to soak the precursor of $\\mathrm { T i O } _ { 2 }$ [43].It makes it very difficult to control the interaction between the liquid $\\mathrm { T i O } _ { 2 }$ sol-gel precursor solution and solid plastic matrix. Regarding the emulsification method,the synthesized $\\mathrm { T i O } _ { 2 }$ microspheres are mainly decorated with small molecule surfactant, which can hardly be converted to surface carbon coating [15,28,29,31,37]. Besides small surfactants，amphiphilic block copolymers or hydrophilic polymers are also used as templating agents [26,44-49]. However,due to the aliphatic nature of the polymer chains,the content of carbon formed after calcination is rather limited,leadingto insufficient carbon coating.Furthermore, some of the amphiphilic block copolymers are quite expensive and therefore inconvenient to access.The template free reaction isalso reported to generate $\\mathrm { T i O } _ { 2 }$ microspheres under certain conditions, but template free implies that the synthesized $\\mathrm { T i O } _ { 2 }$ microspheres lack carbon coating [15,35,50]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we report a new approach to synthesize hierarchical, porous $\\mathrm { T i O } _ { 2 }$ microspheres with controlled carbon content. In situ formed PS colloids are used as both,templating agent and carbon source.As shown in Scheme 1，PS is first dissolved in N,N'- dimethyl formamide(DMF),followed byaddition of concentrated HCl.PS colloids are formed in solution due to the interfacial tension introduced by the concentrated HCl.By using titanium tetraisopropoxide(TTIP) as precursor and further solvothermal treatment, $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ hybrid microspheres are synthesized.Via calcination in argon, $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres are synthesized.Furthermore, by treating the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with consecutive heat in air at moderate temperature $( 3 0 0 ^ { \\circ } \\mathsf C )$ for different time range (0.5- $1 . 5 \\mathrm { h } \\rangle$ ,the contents of carbon within the $\\mathrm { T i O } _ { 2 }$ microspheres are systematically tuned. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bycomparing our strategywith the previously reported strategies based on the PS templates,one significant difference remains. With our strategy,it is the insitu formed PS colloids rather than the simple solid PS matrix acting as the template.This particular feature circumvents the typical two-phase reaction process associated with the solidPS templates.It offers delicate control over morphologyand significant expansion of the templating capability of PS. Besides，with our strategy no preliminary synthesis of welldefined polymer beads is required.Despite of the above advantages,to our best knowledge,the dissolved PS has been rarely used as templating agent for the synthesis of nanostructured metal oxides compared to the intensivelyutilized hydrophilic polymer templates.The reason may lie in the fact that itis intuitivelyassumed that the hydrophobic chemically inert PS does not possess strong interactions with hydrophilic reactive metal oxide precursors. The dissolved PS is regarded as unlikely to exercise as a good templating agent [25,51]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals and materials addressed in this work were used as received without further purification.DMF ofanalytical gradeand concentrated HCl $( 3 7 \\% )$ were received from Sinopharm Group Co., Ltd.Titanium tetraisopropoxide（TTIP, $9 7 \\%$ ）was purchased from Alfa Aesar.Si（1OO) wafers(Shanghai JunHe Electronic Materials Co.,Ltd.)were used as substrates for spin coating the PS solutions after solvothermal treatment.Polystyrene from Sigma Aldrich was used (average molecularweight $M _ { w }$ of 192,000). $\\mathrm { T i O } _ { 2 }$ nanoparticles (P25）were purchased from Evonik Industries AG.Amphiphilic block copolymer of polystyrene-block-poly (ethylene oxide）(PS$b$ -PEO)was synthesized in house via a sequential anionic polymerization. The number average molecular weight was $6 . 2 \\mathrm { k g / m o l }$ for PS and $1 8 . 6 \\mathrm { k g / m o l }$ for PEO with a polydispersity of 1.04. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typical sample preparation procedure was as following. $_ { 0 - 1 . 6 \\mathrm { g } }$ PS was dissolved in $1 0 { \\mathrm { g } }$ of DMF under continuous stirring.Thereafter,concentrated HCl (from $_ { 0 \\mathrm { { g } } }$ to $0 . 8 { \\bf g } ^ { \\cdot }$ ）andTTIP（from $_ { 0 \\mathrm { g } }$ to $0 . 8 { \\mathrm { g } } { \\dot { } }$ ）wereaddedand the solutionwasstirred further foraround $1 0 \\mathrm { m i n }$ .In the case PS- $\\cdot b$ -PEO was used as a co-templating agent, from $_ { 0 \\mathrm { g } }$ to $_ { 1 \\mathrm { ~ g ~ } }$ of PS-b-PEO was added.The solution was transferred to a Teflon-lined stainless steel autoclave and heated at $1 1 0 ^ { \\circ } { \\mathsf { C } }$ for $^ { 4 \\mathrm { h } }$ with a ramp rate of $5 \\mathrm { { K / m i n } }$ starting from room temperature.After the solvothermal treatment was finished, the autoclave was cooled down to room temperature in muffle furnace.The white precipitates formed were centrifuged and washed with ethanol for three times.Then the precipitates were dried at $8 0 ^ { \\circ } C$ in vacuum for $2 4 \\mathrm { h }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e73a725bdb76ecc7d0e0bc663d53d0842257856bb43fdef3c6f050caed4865d.jpg",
+        "img_caption": [
+            "Scheme1.Solvothermalsynthesisofhierarchical $\\mathrm { T i O } _ { 2 }$ microspheres templatedby insitu formed polystyrene colloids. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thecalcinationinairwas conducted in muffle furnaceat $5 0 0 ^ { \\circ } \\mathsf C$ for $^ { 3 \\mathrm { h } }$ with a ramp rate of $5 \\mathrm { K / m i n }$ from room temperature, followed by natural cooling to room temperature in the furnace. Calcination in argon was carried out in a tube furnace using the same protocol.To partially remove carbon coating，the $\\mathrm { T i O } _ { 2 } ,$ carbon hybridswere further heated in air in muffle furnace at $3 0 0 ^ { \\circ } { \\mathsf C }$ for $0 . 5 \\mathrm { h }$ and $1 . 5 \\mathrm { h }$ respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Field emission scanning electron microscopy(FESEM） images were obtained in a Hitachi S48oo scanning electron microscope (Tokyo,Japan) atanaccelerating voltage of $4 \\kappa \\nu .$ The sample powder was put on a conductive tape and sputtered with gold before imaging. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transmission electron microscopy(TEM） experiment of the one-step calcination samples were conducted by putting a drop ofaqueous suspension containing $\\mathrm { T i O } _ { 2 }$ ona carbon-supported copper grid and measured with an FEI Tecnai F2O TEM(Oregon,USA) with a $2 0 0  { \\mathrm { k V } }$ field emission gun. The as-prepared and tandem calcination samples were further examined bya TEM(21ooF,JEOL, Japan) operated at $2 0 0  { \\mathrm { k V } }$ using the identical sample preparation protocol. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The crystallographic phases of the powders were characterized byX-ray diffraction(XRD)(Bruker AXS D8 Advance, $\\lambda = 1 . 5 4 1 \\mathrm { \\AA } ,$ （20 $2 . 2 \\mathrm { k W } )$ with $2 \\theta$ ranged from $5 ^ { \\circ }$ to $9 0 ^ { \\circ }$ .Thecontent of the carbon coated on the $\\mathrm { T i O } _ { 2 }$ surface was determined by thermo gravimetric analyzer(TGA,Mettler Toledo,Switzerland) with the temperature range between $5 0 ^ { \\circ } \\mathsf C$ and $8 0 0 ^ { \\circ } \\mathsf C$ at a ramp rate of $2 0 \\mathrm { K / m i n }$ X-ray photoelectron spectroscopy(XPS）measurement was carried out with an ESCALAB 25oXi spectrometer,using focused mono chromatized Al $\\mathsf { K } \\mathsf { \\ P }$ radiation $hbar \\nu = 1 4 8 6 . 6 \\mathrm { e V } ;$ atroom temperature.Nitrogen adsorption-desorption isotherms were measured with an ASAP $2 0 2 0 \\mathrm { M }$ apparatus at $7 7 . 3 \\mathrm { K } .$ In a general procedure,the dry sample( $\\left( c a , 2 0 0 \\mathrm { m g } \\right)$ was loaded into the glassanalysis tube.Then the glass tube was fixed to the degas port.The heating and evacuation procedure includes two stages.The temperature was firstly increased to $9 0 ^ { \\circ } C$ with a ramp rate of $1 0 \\mathrm { K / m i n }$ and then held for $3 0 \\mathrm { m i n }$ .Thereafter,the temperature was increased to $2 0 0 ^ { \\circ } \\mathsf C$ and held for $^ { 8 \\mathrm { { h } } }$ until the outgas rate was less than $5 \\mu \\mathrm { m } \\ \\mathrm { H g }$ .The sample was then backfilled with $\\mathsf { N } _ { 2 }$ before transferred to the analysis port. $\\mathsf { N } _ { 2 }$ adsorption-desorption isotherm was measured at $7 7 . 3 \\mathrm { K }$ and the range of relative pressures was set between O and 1.0.The BET surface area was calculated over the range of relative pressures between O.05 and O.20. Raman spectroscopy was recordedwith Renishaw (inVia-reflex). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The UV-Vis Measurements were carried out using Lambda 950. The Sample preparation was as following. $\\mathsf { B a S O _ { 4 } }$ was used as substrate by putting certain amount of $\\mathsf { B a S O } _ { 4 }$ at the bottom of sample vial and pressing it into plates.Thereafter,around $5 0 \\mathrm { m g }$ of the samples were put on the surface of $\\mathsf { B a S O _ { 4 } }$ and pressed into plate as well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The photoluminescence experiment was carried out on Perkin Elmer LS55 Fluorescence Spectrometer using a $3 5 0 \\mathrm { n m }$ laser as the excitation source and an emission range of between $4 0 0 \\mathrm { n m }$ and $7 5 0 \\mathrm { n m }$ .Each data point isaveraged based on five scans.Identical amount of samples were used to measure the intensity of the photoluminescence. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tap densities of the $\\mathrm { T i O } _ { 2 }$ powder and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrids were measured according to GB/T 5162-2006. Similar amount of $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ powders were put in two graduates of $1 \\mathrm { m l }$ separately. The graduates were vibrated manually for more than 3ooO times until no volume change was observed by naked eyes.The final volume was measured and the corresponding densities of the powders were calculated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Small-angle X-ray scattering(SAXS） measurements were performed on a Ganesha 3OOXL SAXS-WAXS system (SAXS LAB ApS, Copenhagen/Denmark).The $\\mathsf { X }$ -ray radiation was produced at $5 0 \\mathrm { k V } / 0 . 6 \\mathrm { m A }$ from a Cu anode with a wavelength $\\lambda = 0 . 1 5 4 \\mathrm { n m }$ The sample-to-detector distance was $4 0 6 \\mathrm { m m }$ .The sample powder was put into a glass capillary which functioned as a holder and allowed X-ray transmission (SAXS) experiments.The 2D SAXS data were radially averaged and presented in logarithmic scattering intensity versus the magnitude of the scattering vector, $q = 4 \\pi * \\sin ( \\Theta ) / \\lambda$ ,where $2 \\Theta$ is the scattering angle.The SAXS data werefittedusingSASfitsoftware. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Photo catalytic activity measurementswere carried out according to the following procedure. $5 0 \\mathrm { m g }$ of $\\mathrm { T i O } _ { 2 }$ or $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ powders were placed under dark condition and dispersed into an aqueous methanol solution $: 1 2 0 \\mathrm { m l } , 2 5 \\mathrm { v o l } . \\% \\rangle$ inaclosed gas circulation system (Perfect Light Company Labsolar-II(AG)).The UV-Vis light irradiationswereobtained froma 3oo W Xe lamp(Perfect Light Company Solaredge 7oo) without and with a UVCUT- $4 2 0 \\mathrm { n m }$ filter (CE Aulight Inc.).The evolved gases were detected in situ by using an online gas chromatograph （GC-2014C,Shimadzu） equipped witha thermal conductivity detector (TCD). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical performance of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ powders as lithium ion battery anodes was measured as following.2o32-type coin cells were employed to evaluate the electrochemical performance of the $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ anodes.A slurry mixture was prepared by dispersingactive material, Super Pand poly (vinylidene fluoride) (PVDF) (mass ratio:8:1:1) in N-methyl Pyrrolidone.The electrodes were prepared by spreading the slurrymixture ona piece of copper foil,followedbydryingat $8 0 ^ { \\circ } C$ overnight. The copper foil was pressed,cut into appropriate dimension,and dried in over at $8 0 ^ { \\circ } C$ further for $\\boldsymbol { 4 \\mathrm { h } }$ .Lithium foil was used as the counter electrode.Electrolyte from Shanshan Tech Co.,Ltd was used;where $1 . 0 \\mathrm { M }$ （ $\\mathrm { L i P F } _ { 6 }$ was dissolved in a mixture of ethylene carbonate (EC) and diethyl carbonate (DMC) $( 1 { : } 2 \\ v / \\ v )$ . The rate performance was measured at the current density sequence of O.1 C, $0 . 2 \\mathsf { C } ,$ $0 . 5 \\mathsf { C } , \\ 1 . 0 \\mathsf { C } , \\ 2 . 0 \\mathsf { C } , \\ 5 . 0 \\mathsf { C }$ ，and $0 . 1 \\mathsf { C }$ in the voltage range between $3 . 0 \\mathrm { V }$ and $_ { 0 . 0 0 5 \\mathrm { V } }$ (vs. $\\mathrm { L i / L i ^ { + } } )$ ）(five cycles each current density, $1 { \\mathsf { C } } = 3 3 5 { \\mathrm { m A h } } / { \\mathrm { g } } ; $ .The cyclic measurement was carried out at a current density of $_ { 0 . 2 \\mathsf { C } }$ in the voltage range of $3 . 0 - 0 . 0 0 5 \\mathrm { V }$ (vs. $\\mathrm { L i } / \\mathrm { L i } ^ { + } )$ for 5O rounds.The specific capacity was calculated on the basis of only the active material.The lithiation process was defined as discharging and delithiation process was defined as charging. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cyclic voltammetry(CV） test was performed on CHI 1040B potentiostat/galvanostat analyzer(Shanghai Chenhua instrument Co.,Ltd) at a scanning rate of $0 . 1 \\mathrm { m V } / s$ from $_ { 0 . 0 0 5 \\mathrm { V } }$ to $3  { \\mathrm { V } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical impedance spectroscopy (EIS）measurement was conducted on an Autolab modular electrochemical system (Autolab PGSTAT3O2N）over a frequency range of $1 0 0 \\mathrm { k H z }$ to ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 1 \\mathrm { H z }$ after the lithium-ion battery devices were cycled for three rounds at $0 . 2 \\mathsf { C }$ 0 $1 { \\mathsf { C } } = 3 3 5 { \\mathsf { m A } } / { \\mathsf { g } } ,$ 一 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Resultsand discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The concentration of PS is critical for the formation of $\\mathrm { T i O } _ { 2 }$ microspheres (Fig.1).With the PS mass concentration of $0 \\mathrm { w t \\% }$ and $4 \\mu \\nu \\%$ ，only $\\mathrm { T i O } _ { 2 }$ nanoparticles with the average size below $1 0 0 \\mathrm { n m }$ are obtained (Fig.1a and b).However,with the PS mass concentration increased to $8 \\mathrm { w t \\% }$ $\\mathrm { T i O } _ { 2 }$ microspheres with the average size of ca $1 \\mu \\mathrm { m }$ are generated (Fig.1c). High magnification SEM image shows that the $\\mathrm { T i O } _ { 2 }$ microspheresare actually formed by the close-packing of $\\mathrm { T i O } _ { 2 }$ nanoparticles with the size of tens of nanometers (inset of Fig.1c).With the PS mass concentration further increased to $1 6 \\mathrm { w t } \\%$ ， $\\mathrm { T i O } _ { 2 }$ microspheres still exist and the average size does not change significantly (Fig.1d). It seems that the surface of the microspheres is smoother and the nanoparticles are better packed than the microspheres in Fig.1c,implyinga better templating effect with increased PS concentration.The increasing PS amount introduces more interfacial tension between the dissolved PS and solvent.As a result,a phase transition occurs andPS colloids are formed in solution to reduce the interfacial tension.The formed PS colloids act as template for the integration of titania nanoparticles under solvothermal treatment.As a result, $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ hybrid microspheres are formed,which are converted to $\\mathrm { T i O } _ { 2 }$ microspheres via calcination in air. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The role of concentrated HCl on the formation of $\\mathrm { T i O } _ { 2 }$ microspheres is further studied.Fig.2a shows that without HCl, $\\mathrm { T i O } _ { 2 }$ nanoparticles instead of microspheresare formed.However,when the HCl concentration is increased to 2 wt% or $4 \\mathrm { w t \\% }$ ，micrometer sized $\\mathrm { T i O } _ { 2 }$ spheres are formed (Fig.2b and c).When further increasing the HCl concentration to $8 \\mathrm { w t \\% }$ ,the microspheres disappear and $\\mathrm { T i O } _ { 2 }$ nanoparticles are observed again (Fig. 2d).The results show that the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres are only formed within limited concentration range of the concentrated HCl. In case of insufficient amount of HCl,the interfacial tension between the dissolved PS and solvent is not large enough to induce the formation of PS colloids.As a result,only nanoparticles from the sol-gel reaction of TTIP are obtained.In case of too high amount of HCl, the originally dissolved PS likely precipitates from the solution and still only $\\mathrm { T i O } _ { 2 }$ nanoparticlesare formed,due to high surface tension between PS and solvent. Therefore,stable PS colloids only exist within a certain concentration range of the concentrated HCl. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To better understand the morphology change of pure PS in solution with increasing HCl concentration,we spin coat the stock solutions before and after solvothermal treatment on Si substrate. Regarding the samples before calcination,only very fewparticles areobserved without concentrated HCl (Fig.3a).Nevertheless, with $2 \\mathrm { w t \\% }$ and $4 \\mathrm { w t } . \\%$ of concentrated HCl, particles are formed, which are supposed to be PS(Fig.3b and c).With the HCl concentration further increased to $8 \\mathrm { w t \\% }$ ，particlesare still visible,but lamellae like structuresappear (Fig.3d), implyinga morphology transition from particles to large sized lamellae in solution due to increased surface tension.The results prove that the pure PS does really form colloids in solution with certain amount of concentrated HCl.The morphologies of PS after solvothermal treatment are shown in Fig. S1,where a similar trend of morphology evolution against the mass concentration of the concentrated HCl isobserved.Furthermore,it can be seen that with solvothermal treatment the sizes of the PS particlesare increased to a scale comparable to the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres.The results indicate that the solvothermal treatment promotes the growth of the preliminary formed PS colloids. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The impact of solvothermal treatment on the $\\mathrm { T i O } _ { 2 }$ microspheres is investigated by applying different solvothermal reaction time (from O to $^ { 8 \\mathrm { h } }$ ).Without solvothermal treatment,bulk lamellae like structures are formed.Only few particles are observed (Fig. 4a). With the solvothermal treatment of $^ { 2 \\mathrm { h } }$ ， $\\mathrm { T i O } _ { 2 }$ microspheres are dominantly formed (Fig.4b).Extending the solvothermal reaction time to $^ { 4 \\mathrm { h } }$ and $^ { 8 \\mathrm { h } }$ ， $\\mathrm { T i O } _ { 2 }$ microspheres were still observed and the morphologies did not change significantly (Fig.4c and d). The results show that the solvothermal treatment is critical for the formation of the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres.It promotes the integration of $\\mathrm { T i O } _ { 2 }$ nanoparticles into the PS colloids.The integration of $\\mathrm { T i O } _ { 2 }$ nanoparticles conversely stabilizes the PS colloids because permanent continuous Ti-O network within the PS colloids is formed as the sol-gel reaction proceeds. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/730ff050967f31454f054e8cf0740cfd167a82f52aa40e5963eedf70ce1b8f03.jpg",
+        "img_caption": [
+            "Fig.1.SEMimagesof $\\mathrm { T i O } _ { 2 }$ templated by diferent mass concentrations of PS:O wt%(a),4 wt%(b),8 wt%(c),and 16 wt%(d) with $2 \\mathrm { w t \\% }$ of concentrated HCl and 8 wt% of TTIl with respect to the mass of DMF.Insets: structure details of the $\\mathrm { T i O } _ { 2 }$ microspheres. Scale bars in image a, b: $2 0 0 \\mathrm { n m }$ ,scale bars in image c,d: $3 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9033164e6c2680541db8abdb173849fa39dc4d98be4f9e4da8ab4b6078e93b9.jpg",
+        "img_caption": [
+            "Fig.2.SEM images of $\\mathrm { T i O } _ { 2 }$ synthesizeditescaed:())t)dd)if with respect to the mass of DMF were present. Scale bars in image a,d: $2 0 0 \\mathrm { n m }$ ,scale bars in image b, ${ \\mathfrak { c } } { : } 3 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3cb121acc40e4bf0b5c9df680fc18c4e9d270628197a41d151493e3e2598e891.jpg",
+        "img_caption": [
+            "Fig (c),and 8 wt%(d)and 1O wt% of PS with respect to the mass of DMF.Scale bars in image a-d: $3 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further support the interpretation,an amphiphilic diblock copolymer of polystyrene-block-poly (ethylene oxide) (PS-b-PEO) was used as a co-templating agent of PS.Fig.5 shows that with the PS- $\\cdot b$ -PEO mass concentration of $0 \\mathrm { w t \\% }$ and $0 . 3 \\mathrm { w t \\% }$ ,the surface of some $\\mathrm { T i O } _ { 2 }$ microspheres are quite rough,where titania nanoparticles are loosely packed (Fig.5a and b). Nevertheless,when increasing the PS-b-PEO mass concentration to $0 . 4 \\mathrm { w t \\% }$ and $0 . 8 \\mathrm { w t \\% }$ ,the titania nanoparticles are packed tightly and the surface of the microspheres become quite smooth.Additionally,it is found that when only PS- $\\cdot b$ -PEO isused, $\\mathrm { T i O } _ { 2 }$ nanoparticles instead of microspheres are formed (Fig. S2).The results confirm the synergistic effect of PS and PS-b-PEO on the morphology control of the $\\mathrm { T i O } _ { 2 }$ microspheres.PS- $\\cdot b$ -PEO enhances the formation of $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ hybrid spheres in the following ways.First, the PEO block of PS- $. b .$ -PEO is an excellent absorber for the titania nanoparticles even under ambient conditions [14]. Second,PS- $\\cdot b$ -PEOcan be homogeneously dispersed in the PS homopolymer matrix via a swelling process [52].Third,under solvothermal treatment,the PS block of PS-b-PEO also adsorbs titania nanoparticles as the homopolymer PS does. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The impact of calcination treatment on the morphology,crystallinity,and carbon content of the $\\mathrm { T i O } _ { 2 }$ microspheres has been systematically investigated.Fig.6 shows that the shape of the microspheres is still retained after calcination,indicating good structure stability of the microspheres.After calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ ，the average diameter of the microspheres decreases from $1 . 2 \\mu \\mathrm { m } \\pm 0 . 1 \\mu \\mathrm { m }$ toca. $0 . 9 3 \\pm 0 . 0 9 \\mu \\mathrm { m }$ (Fig.6a and b).The size reduction originates from the simultaneous carbonization of PS and sintering of the titania species.By further treating the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with heating in air at $3 0 0 ^ { \\circ } \\mathsf C$ for $0 . 5 \\mathrm { h }$ and $1 . 5 \\mathrm { h }$ ,theaverages diameters of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres areslightly increased toaround $1 . 1 \\mu \\mathrm { m }$ (Fig. 6c and d). The microspheres expand when the carbon inside the microspheres is converted to gas during calcination in air.With calcination in air at $5 0 0 ^ { \\circ } \\mathsf C$ for $^ { 3 \\mathrm { h } }$ ，theaverage size significantly decreases to $0 . 7 7 \\pm 0 . 0 3 ~ \\mu \\mathrm { m }$ (Fig.6e). The complete removal of PS is accompanied with the sintering of the titania species,leading to a shrinking. Finally,the tap densities of the bare $\\mathrm { T i O } _ { 2 }$ (only calcination in air) and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres(only calcination in argon） are $1 . 3 2 { \\mathrm { g } } / { \\mathrm { } }$ $\\mathrm { c m } ^ { 3 }$ and $0 . 8 7 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ respectively,which are quite high compared to normal nanostructured $\\mathrm { T i O } _ { 2 }$ [53]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4b51cb4b0b4ba7e3dca15e117db4972ea9fdbfb18c00484e8374e58746c017e.jpg",
+        "img_caption": [
+            "Fig.4.SEMimages of $\\mathrm { T i O } _ { 2 }$ synthesized with different solvothermal reaction time: O h(a). $^ { 2 \\mathrm { h } }$ (b),4 h(c),and 8 h(d) at $1 1 0 ^ { \\circ } { \\mathsf { C } }$ with 2 wt% of conc.HCl,10 wt% of PS and8 wt of TTIP with respect to the mass of DMF.Scale bars in image a-d: $3 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/10cda45009524fa5c1f60fd847fb4fd88380d7042c7e0b4e290857359444b8ff.jpg",
+        "img_caption": [
+            "Fig.5.SEMimagesof $\\mathrm { T i O } _ { 2 }$ microspheres co-templated by $1 0 \\mathrm { { w t \\% } }$ of PS and diferent mass concentrations of PS-b-PEO:0wt%(a),0.3 wt%(b),0.4 wt%(c),and O.8 wt%(d)with $2 \\mathrm { w t \\% }$ of conc.HCl and 8 wt% of TTIP with respect to DMF. Scale bars in image a-d: $3 0 0 \\mathrm { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The TEM results reveal morphology details and local crystallization of the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres (Fig.7). Local crystallizationis hardlyobserved by high resolution TEM(HRTEM) in the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres.But the selected area diffraction(SAED) pattern shows that $\\mathrm { T i O } _ { 2 }$ of anatase exists (Fig.7a and b) It suggests a very poor crystallization of $\\mathrm { T i O } _ { 2 }$ within the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres. After calcination，voids were observed in the TEM images (Fig.7c,e,g,andi).Crystal plane of(1O1) of anatase is observed by the HRTEM images and ring-like scattering features are exhibited in the SAED patterns,indicating the formation of polycrystalline $\\mathrm { T i O } _ { 2 }$ (Fig.7d,f,h,and j).Besides the typical (1O1) crystal plane,the high reactive(Oo1）crystal plane is also observed by the HRTEM images (Fig.S3)[54,55]. During solvothermal reaction, small amount of amine is in situ formed via the slight decomposition of DMF.The amine acts as capping agent to stabilize the(001) facet through intermolecular interactions.As a result, the (001) facet is retained after solvothermal reaction [56,57]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bd024e04363daa900dc72859f2d485e0a4f436eff8f97dc6db13c8174820268.jpg",
+        "img_caption": [
+            "Fig.6. SEM images of theas-prepared $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres (a), and $\\mathrm { T i O } _ { 2 } / C$ hybrid microspheres.Sample details: (b) calcination inargon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C ,$ (c) tandem calcinationinargonfor3hat $5 0 0 ^ { \\circ } { \\mathsf { C } }$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C$ (d) tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } C$ ,and (e) calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C .$ Scale bars in image a-c: $3 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "No clear peaks are observed in the XRD data of the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres (Fig.8).The results indicate that the solvothermal treatment only promotes the formation of $\\mathrm { T i O } _ { 2 }$ microspheres, while it does not contribute to the crystallization of $\\mathrm { T i O } _ { 2 }$ .Italso indicates that crystallization only happens in small local area of the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres as observed by the SAED(Fig.7b).After calcination in argon,characteristic scattering peaksare observed, which indicates that the amorphous $\\mathrm { T i O } _ { 2 }$ is converted to anatase. The average size of the nanocrystals is calculated to be ca. $8 \\mathrm { n m }$ according to the Debye-Scherrer equation based on the(1O1) peak. With consecutive heating in air at $3 0 0 ^ { \\circ } \\mathsf C$ for $0 . 5 \\mathrm { h }$ ,the width of the (101) peak is significantly narrowed with the average crystal size increased to $1 2 \\mathrm { n m }$ .When the heating time is further extended to $1 . 5 \\mathrm { h }$ ,the crystal size does not change significantly.The scattering signal of the(Oo1） crystalline plane is cancelled according to the X-ray extinction rule of the body centered feature of the $\\mathrm { T i O } _ { 2 }$ anatase phase.Therefore,even though the (Oo1)plane is observed by TEM,no corresponding diffraction peak can be exhibited by XRD. The XRD profile of the bare $\\mathrm { T i O } _ { 2 }$ microspheres obtained by calcination in air possesses the most narrow(1O1) peak with the average crystal size of $2 8 \\mathrm { n m }$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The content and nature of carbon within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres under different calcination conditions are investigated by TGA(Fig.8b)and Raman spectroscopy(Fig.8c). After calcination in argon at $5 0 0 ^ { \\circ } \\mathsf C$ for $^ { 3 \\mathrm { h } }$ ，around $8 \\mathrm { w t \\% }$ of carbon exists within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres.By further treatment with heating in air at $3 0 0 ^ { \\circ } \\mathsf C$ for $0 . 5 \\mathrm { h }$ and $1 . 5 \\mathrm { h }$ ,the carbon content is decreased to $4 \\mu \\nu \\%$ and $2 \\mathrm { w t \\% }$ respectively.The Raman spectroscopy data show clearD band and G band within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with8 wt $\\%$ of carbon,which indicates the presence of both disordered carbon（D band) and graphite-like carbon（G band) originated from the decomposition of PS [58,59].After further heat treatment in air at $3 0 0 ^ { \\circ } \\mathsf C$ for $0 . 5 \\mathrm { h }$ ，only very weak D band and G band are observed because carbon is partially removed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The UV-Vis spectra study the light absorption behavior of the $\\mathrm { T i O } _ { 2 }$ microspheres with different carbon contents (Fig.8d).With ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f7d4a2251cdd8432bb457ce54b6b5428b59564aab837f1ba7bf2fd140dbd1e9.jpg",
+        "img_caption": [
+            "Fig.7.TEM(a,c,e,g,and i) and HRTEM(b,d,f,h,and j) images of the $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres.Sample details:(a,b) as-prepared $\\mathrm { T i O } _ { 2 } / \\mathrm { P S }$ microspheres,(c,d) calcination in argon for3 h at $5 0 0 ^ { \\circ } \\mathsf C ,$ (e,f) tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathrm { C }$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C$ $( \\mathbf { g } , \\mathbf { h } )$ tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C ,$ and (i,j) calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ Inset in image i: magnified image of the $\\mathrm { T i O } _ { 2 }$ microsphere; insets in image b,d,f,h,and j: selected area electron diffraction (SAED)patterns.Scale bars in image a,c,e,g,and i: $2 0 0 \\mathrm { n m }$ ,scale bars in image b,d,f,h,and j: $1 0 \\mathrm { n m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$8 \\mathrm { w t \\% }$ of carbon,significant visible light absorption is observed due to the presence of decent amount of carbon.With the carbon content reduced to $4 \\mathrm { w t \\% }$ and $2 \\mathrm { w t } . \\%$ ,absorption in the visible light range is still present with the absorption threshold at $4 5 4 \\mathrm { n m }$ and $4 0 2 { \\mathrm { n m } }$ respectively [6O]. It is important to note that the bare $\\mathrm { T i O } _ { 2 }$ microspheres do not exhibit meaningful absorption in the visible light range with the absorption threshold at $3 9 7 { \\mathrm { n m } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The XPS experiment is applied to examine carbon doping within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres (Fig.9).To make a comparison, both, the bare $\\mathrm { T i O } _ { 2 }$ microspheres $0 \\mathrm { { w t \\% } }$ of carbon,calcination in air）and $\\mathrm { T i O } _ { 2 }$ carbon microspheres( $8 \\mathrm { w t \\% }$ of carbon,calcination in argon) are measured by XPS with the same protocol.The high resolution and survey profiles of Ti2p,O1s,and C1s of both bare $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres show very similar results.The peaks located at $4 5 8 . 6 \\mathrm { e V }$ and $4 6 4 . 3 \\mathrm { e V }$ correspond to the binding energies of Ti $2 { \\tt p } 3 / 2$ and Ti 2p1/2 (Fig. 9a), indicating the presence of $\\mathrm { T i } ^ { 4 + }$ in $\\mathrm { T i O } _ { 2 }$ .Furthermore,the existence of the symmetric Ti 2p peaks implies the formation of stoichiometric $\\mathrm { T i O } _ { 2 }$ without defects [61]. Regarding the O1s profile,peaks located at $5 2 9 . 9 \\mathrm { e V }$ and $5 3 1 . 2 \\mathrm { e V }$ are presented(Fig.9b),which are ascribed to the Ti-O bond (lattice oxygen)and possible hydroxyl group adsorbed on the $\\mathrm { T i O } _ { 2 }$ surface [59].The C1s profiles of both bare $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres exhibit similar patterns,where a primary peak is located at $2 8 4 . 8 \\mathrm { e V }$ .The presence of carbon on the bare $\\mathrm { T i O } _ { 2 }$ microsphere is ascribed to the adventitious carbon adsorbed on the $\\mathrm { T i O } _ { 2 }$ surface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because the C1s peak of the graphite-like carbon located at $2 8 5 . 0 \\mathrm { e V }$ may overlap with the peak at $2 8 4 . 8 \\mathrm { e V }$ ,it is hard to distinguish the existence of the graphite-like carbon within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrids by analyzing this major peak.However,a very small peak located at $2 9 0 . 9 \\mathrm { e V }$ may indicate the presence of graphite-like carbon within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres [61]. The absence of the peak located at $2 8 2 . 0 \\mathrm { e V }$ indicates that no carbon substitutes oxygen in the $\\mathrm { T i O } _ { 2 }$ lattice to form Ti-C bond [62]. By combing the color change phenomenon (Fig. S4),Raman,UV-Vis,and XPS results,it is reasonable to conclude that the doped carbon may be homogeneously distributed in the interstitial sites of the $\\mathrm { T i O } _ { 2 }$ lattice [60]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The pore size distribution,pore volume,and Brunauer-Emmet t-Teller(BET) surfacearea of the $\\mathrm { T i O } _ { 2 }$ microspheres with different carbon contents are further characterized (Fig.1O). The $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres obtained by calcination inargon exhibita bimodal pore size distribution with the pore sizes of $5 0 \\mathrm { n m }$ and $1 1 0 \\mathrm { n m }$ respectively(Fig.1Oa).When further heating treatment in air is applied,the pores with the size of $5 0 \\mathrm { n m }$ disappear and only the pores with the size of $1 1 0 \\mathrm { n m }$ are left. It is reasonable to conclude that the pores of $5 0 \\mathrm { n m }$ originate from the in situ formed carbon; while the pores of $1 1 0 \\mathrm { n m }$ can be ascribed to the voids among the $\\mathrm { T i O } _ { 2 }$ nanoparticles.Compared to $\\mathrm { T i O } _ { 2 } / \\mathrm { C } ,$ the bare $\\mathrm { T i O } _ { 2 }$ microspheres only show very small portion of pores due to the complete removal of PS and significant densification of the $\\mathrm { T i O } _ { 2 }$ nanoparticles.The bare $\\mathrm { T i O } _ { 2 }$ microspheres exhibit a low pore volume of ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8be4f3e15ec10cab6f1d6164474976715b64c125f6a8d708a5ecd9346dc445fc.jpg",
+        "img_caption": [
+            "Fig.8.XRD(a), TGA (b),Raman(c),and UV-Vis (d) spectra of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres.Sample details:blue (as-prepared $\\mathrm { T i O _ { 2 } / P S }$ microspheres), black (calcination in argon for 3h at $5 0 0 ^ { \\circ } { \\mathrm { C } } _ { \\cdot }$ ),red (tandem calcination in argon for 3 h at $5 0 0 ^ { \\circ } C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathrm { C } _ { \\cdot }$ ,green (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathrm { C } \\cdot$ ,and purple (calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathrm { C } }$ ).(For interpretationofthereferences tocolour inthis figure legend,thereader is referred totheweb versionof this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 2 \\mathrm { m } ^ { 3 } / \\mathrm { g }$ ，while the $\\mathrm { T i O } _ { 2 } / C$ microspheres obtained by calcination in argon possess the pore volume of around $0 . 1 8 \\mathrm { m } ^ { 3 } / \\mathrm { g }$ (Fig. 10b). The BET surface area of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres is $1 3 0 \\mathrm { m } ^ { 2 } / \\mathrm { g } ,$ which is slightly decreased to $9 0 ~ \\mathrm { m } ^ { 2 } / \\mathrm { g }$ and $7 0 \\mathrm { m } ^ { 2 } / \\mathrm { g }$ after further heating treatment in air.Compared to the $\\mathrm { T i O } _ { 2 } / C$ microspheres,the bare $\\mathrm { T i O } _ { 2 }$ microspheres only have a very low BET surface area of $1 2 { \\mathrm { m } } ^ { 2 } / { \\mathrm { g } }$ (Fig.10c). It is worth pointing out that it is common to present individual data point of the specific surface area without error bars [6,63,64]. Furthermore,because the composite after calcinationis very homogeneous,it is reasonable to assume that the structure inhomogeneity within the bulk is minimized as shown in the low magnification SEM image (Fig. S5).Therefore,based on the above considerations,it can be concluded that the specific surface area data exhibited by Fig.1Oc is representative. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Small angle X-ray scattering(SAXS) is further applied to investigate the characteristic structures within the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ nanohybrids. The SAXS data provide average structure information within the bulk in a statistical way [65-67].Based on the SAXS data (Fig.11), the existence of the small $\\mathrm { T i O } _ { 2 }$ nanoparticles is confirmed. According to the fitting model,the derived average particle size within the sample calcined inargon is ca. $6 . 4 \\ \\mathrm { n m }$ ,which originates from the primary $\\mathrm { T i O } _ { 2 }$ particles.Regarding the samples with further heat treatment in air following calcination in argon, the average sizes of the primary particlesare slightly increased to around $7 . 6 \\mathrm { n m }$ .However,the average particle size within the $\\mathrm { T i O } _ { 2 }$ microspheres calcined in air is slightly decreased to $5 . 4 \\mathrm { n m }$ ，which is supposed to be due to the densification process of the titania species during calcination. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The application of the $\\mathrm { T i O } _ { 2 }$ microspheres as photo catalyst for water splitting has been demonstrated under full spectrum (Fig.12a）and visible light illumination (Fig.12b). Compared to the commercial P25 $\\mathrm { T i O } _ { 2 }$ nanoparticles (dark cyan), the bare $\\mathrm { T i O } _ { 2 }$ microspheres show moderate photo catalysis performance(purple).It is supposed to be the consequence of low specific surface areaand lack of heterojunction due to the existence of pure anatase[68].With $2 \\mathrm { w t \\% }$ of carbon,the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres exhibit enhanced photo catalytic performance(green). Itis impressive that the performance is even superior to the commercial P25 considering that no highly active heterojunction existing in the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres. The improved property originates from the combined effects of increased specific surface area and pore volume, improved crystallization,existence of high active（Oo1）crystal plane，and enhanced light absorption [55,68]. With further increased carbon content to $4 \\mu \\nu \\%$ ,thephoto catalyticperformance starts to decrease (red).The $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $8 \\mathrm { w t \\% }$ of carbon show the lowest hydrogen conversion efficiency(black).The excessive amount of carbon not only blocks the absorption of light by $\\mathrm { T i O } _ { 2 }$ ,butalso inhibits the transportation of electrons and holes from $\\mathrm { T i O } _ { 2 }$ to water [69,7O].Therefore,an optimized carbon content value exists regarding the photo catalytic performance.Furthermore, the bare $\\mathrm { T i O } _ { 2 }$ microspheres exhibit negligible photo catalytic performance under visible light illumination due to very weak visible light absorptionas confirmed by UV-Vis (dark,Fig.12b).With slightly increased carbon content to $2 \\mathrm { w t \\% }$ (green),distinct visible light the catalytic performance is observed due to increased specific surface area and pore volume,existence of high active(001) crystal plane,and enhanced visible light absorption.But with further increasing carbon content to $4 \\mu \\nu \\%$ (red),the efficiency is inversely decreased.With the carbon content of $8 \\mathrm { w t \\% }$ (black), negligible visible light catalytic performance is observed again.The results imply that the excessive amount of carbon also significantly inhibits the photo catalysis process under visible light illumination.According to the photoluminescence spectroscopy (Fig.S6), all of the four samples exhibit similar photoluminescence patterns. It implies that the incorporation of carbon does not modify the principle photoluminescence mechanism of the $\\mathrm { T i O } _ { 2 }$ significantly. The multiple peaks by Gaussian fitting indicate that the peaks are located at $4 6 0 \\mathrm { n m }$ ， $4 8 6 \\mathrm { n m }$ ， $4 9 9 \\mathrm { n m }$ ， $5 2 9 \\mathrm { n m }$ ， $5 4 1 ~ \\mathrm { n m }$ ，and $6 1 8 \\mathrm { n m }$ .Whilethepeak located at $4 9 9 \\mathrm { n m }$ is ascribed to the state transition within the $\\mathrm { T i O } _ { 2 }$ lattice,the emission at $4 6 0 \\mathrm { n m }$ $4 8 6 \\mathrm { n m }$ $5 2 9 \\mathrm { n m }$ $5 4 1 ~ \\mathrm { n m }$ ,and $6 1 8 \\mathrm { n m }$ are related to the oxygen vacancies of the $\\mathrm { T i O } _ { 2 }$ [71,72]. Besides the position of the peaks,the intensities of the photoluminescence vary with respect to the carbon content. The bare $\\mathrm { T i O } _ { 2 }$ microspheres exhibit the strongest photoluminescence because the absence of carbon effectively limits the energy dissipation from the excited states.It agrees well with the negligible photo catalytic performance of the bare $\\mathrm { T i O } _ { 2 }$ microspheres. With incorporation of carbon,the intensity of the photoluminescence is decreased because the carbon matrix acts as a potential energy dissipation medium for the excited states of $\\mathrm { T i O } _ { 2 }$ .Nevertheless,the relative high photoluminescence of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres containing $2 \\mathrm { w t \\% }$ of carbon compared to other $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ samples implies that the superior outstanding photo catalytic performance may originate from the high specific surface areaand enhanced light absorption.It is not only determined by the intrinsic charge separation process. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bc9c980dbc63d6063aa9feba136f70a326d89e14834672c551234ad5ac64bac.jpg",
+        "img_caption": [
+            "Fig.9.XPS spectra of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres and bare $\\mathrm { T i O } _ { 2 }$ microspheres (a: Ti2p,b: O1s,c: C1s and d: survey). $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres:calcination in argon for $^ { 3 \\mathrm { h } }$ a $5 0 0 ^ { \\circ } \\mathsf C$ (with 8 wt% of carbon by mass).Bare $\\mathrm { T i O } _ { 2 }$ microspheres:calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ (O wt% of carbon by mass). Dotted lines in image b: Gaussian fitting curves "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb4cb8c67fae4fe330f783cb6743b2ee9a6a0a126a424629b4d2e6fee07f888c.jpg",
+        "img_caption": [
+            "Fig.10.Pore size distribution (a), $\\mathsf { N } _ { 2 }$ sorption isotherm (b),and BET surface area (c) of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres.Sample details: black (calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf { C } }$ ,8 wt% of carbon by mass),red (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } C$ and in air for O.5 h at $3 0 0 ^ { \\circ } \\mathsf C$ $4 \\mathrm { w t \\% }$ of carbon by mass),green (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } { \\mathsf C }$ ,2 wt% of carbon by mass),and purple (calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf { C } }$ $0 \\mathrm { \\Delta w t \\% }$ of carbon by mass). (For interpretation of the references to colour in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf9d6ebdd9330ae829ed374837c81cf23617d192082d3f7896b8fd179cfc6edd.jpg",
+        "img_caption": [
+            "Fig.11.Integrated SAXS data(points) with model fits(lines)of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres.Sample details:black (calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ 8wt% of carbon by mass),red (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } { \\mathsf C }$ ,4 wt% of carbon by mass),green (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C$ $2 \\mathrm { w t \\% }$ of carbon by mass),and purple (calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf { C } }$ ,O wt% of carbon by mass).(For interpretation of the references to colour in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Besides acting as photo catalyst in the water splitting experiment, the application of the $\\mathrm { T i O } _ { 2 }$ microspheres as lithium-ion batteryanode has also been investigated.The discharge/charge curves at $_ { 0 . 2 \\mathsf { C } }$ 0 $\\mathrm { ' } 1 { \\mathsf C } = 3 3 5 \\mathrm { m A h / g } )$ of the $\\mathrm { T i O } _ { 2 }$ microspheres and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres are displayed in Fig.13.Because the carbon content is varied among the samples,the discharge/charge voltage range is set between $3  { \\mathrm { V } }$ and $0 . 0 0 5 \\mathrm { V }$ to count the contribution from the carbon as well. Compared to the initial discharge capacity of the bare $\\mathrm { T i O } _ { 2 }$ microspheres $( 1 7 0 \\mathrm { m A h / g }$ ,Fig.13a), the initial discharge capacity of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microsphere with $8 \\mathrm { w t \\% }$ of carbon is more than doubled to $3 8 1 \\mathrm { m A h / g }$ (Fig. 13b). With decreasing carbon content, the initial discharge capacity is slightly reduced to $3 0 0 \\mathrm { m A h / g }$ 0 $4 \\nu \\tau \\%$ of carbon,Fig.13c）and $2 3 4 \\mathrm { m A h / g }$ 1 $( 2 \\mathrm { w t \\% }$ of carbon,Fig. 13d).While the initial charge capacity of the bare $\\mathrm { T i O } _ { 2 }$ microsphere is only $8 5 \\mathrm { m A h / g }$ ,the initial charge capacity of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres with $8 \\mathrm { w t \\% }$ of carbon is almost two and a half times of the $\\mathrm { T i O } _ { 2 }$ microsphere $( 2 0 4 \\mathrm { m A h / g ) }$ . The initial charge capacities of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with decreased carbon content are $1 5 6 \\mathrm { m A h / g }$ $4 \\mu \\%$ of carbon) and $1 2 7 \\mathrm { m A h / g }$ $( 2 \\mathrm { w t \\% }$ of carbon） respectively.Compared to the initial coulombic efficiency of bare $\\mathrm { T i O } _ { 2 }$ microspheres $( 5 0 \\% )$ ,the coulombic efficiencies of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres are slightly improved(from $5 2 \\%$ to $54 \\%$ ). The second discharge/charge capacities of the $\\mathrm { T i O } _ { 2 }$ microsphere are decreased to $8 1 \\mathrm { \\ m A h / g }$ .But the second discharge/charge capacities of the $\\mathrm { T i O } _ { 2 } / C$ microspheres with $8 \\mathrm { w t \\% }$ of carbon are still $2 3 7 \\mathrm { m A h / g }$ and $2 0 7 \\mathrm { m A h / g }$ respectively. Correspondingly, the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $4 \\mathrm { w t \\% }$ and $2 \\mathrm { w t \\% }$ of carbonstill exhibit better performance than the bare $\\mathrm { T i O } _ { 2 }$ microspheres.The fifth discharge/charge capacities of both the $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres do not change significantly with respect to each 2nd cycle.Even though the 5Oth discharge/charge capacities of the $\\mathrm { T i O } _ { 2 }$ microspheres are slightly increased to $1 0 0 \\mathrm { m A h / g }$ ，the 5Oth discharge/charge capacities of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $8 \\mathrm { w t \\% }$ of carbon are still two times of the $\\mathrm { T i O } _ { 2 }$ spheres (c $a . 2 0 0 \\mathrm { m A h / g ) }$ . The $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $4 \\mathrm { w t \\% }$ of carbon show slightly better capacities than the bare $\\mathrm { T i O } _ { 2 }$ ；while the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $2 \\mathrm { w t \\% }$ of carbon exhibit similar capacities to the bare $\\mathrm { T i O } _ { 2 }$ . It is also found that along with increased cycles,the discharge plateau of $\\mathrm { T i O } _ { 2 }$ is gradually weakened,which is confirmed by the cyclic voltammetry test (Fig.14). The cyclic voltammetry test indicates the formation of solid electrolyte interface（SEI） during the first cycle.Besides,the anodic peak of $\\mathrm { T i O } _ { 2 }$ is dramatically weakened after the first cycle. It implies that the structure/crystallinity of $\\mathrm { T i O } _ { 2 }$ have been modified after cycling test. The discharge/charge results indicate that the capacities are increased with increasing amount of carbon. Considering that the capacity is more than doubled with only $8 \\mathrm { w t \\% }$ of carbon,itisreasonable to say that the increased capacity isnot only contributed by the carbon itself,but also from the $\\mathrm { T i O } _ { 2 }$ [26,73,74].The presence of carbon effectively improves the electrochemical property of the $\\mathrm { T i O } _ { 2 }$ nanoparticles.On the one hand,the specific surface area and pore volume of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres are dramatically increased compared to the bare $\\mathrm { T i O } _ { 2 }$ microspheres.On the other hand, the existence of carbon is supposed to improve the electron conductivity of $\\mathrm { T i O } _ { 2 }$ ,leadingto betterelectrochemical kinetics than the bare $\\mathrm { T i O } _ { 2 }$ .Compared to the reported electrochemical performance of the $\\mathrm { T i O } _ { 2 }$ LIB anode,the capacity is lower in thevoltage range between $3 . 0 \\mathrm { V }$ and $1 . 0 \\mathrm { V }$ [75]. It indicates that only partial lithiation of $\\mathrm { T i O } _ { 2 }$ happens during the discharging process. It is probably due to the fact that no anisotropic low-dimensional $\\mathrm { T i O } _ { 2 }$ nanostructures are present in the hybrid microspheres.Instead,only solid $\\mathrm { T i O } _ { 2 }$ nanoparticles exist,which may lead to inferior lithiation/delithiation kinetics. Furthermore,there is no essential porosity within the $\\mathrm { T i O } _ { 2 }$ framework,which also limits the electrochemical performance of $\\mathrm { T i O } _ { 2 }$ [1,75,76].Fig.15a to 15d exhibit the detailed cyclic performance of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres with different carbon contents. The figures show that the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with 8 wt% of carbon possess the most stable cyclic performance compared to other samples.The results suggest the carbon matrix helps to stabilize the hierarchical structures and corresponding electrochemical performance.The rate performance of the $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres are exhibited in Fig.15e.At different rates,the discharge/charge capacities of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres are higher than the capacities of the bare $\\mathrm { T i O } _ { 2 }$ microspheres due to high specific surface area and improved electron conductivity.However, the difference is narrowed with increasing rate,which is almost minimized at $5 \\mathsf { C } \\left( c a . 4 0 \\mathsf { m A h / g } \\right)$ .The capacities of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ and $\\mathrm { T i O } _ { 2 }$ microspheres are recovered to ca. $2 1 3 \\mathrm { m A h / g }$ and $1 3 7 \\mathrm { m A h } / \\$ $\\mathbf { g }$ at O.1 C respectively,indicating a good structure stability of both the $\\mathrm { T i O } _ { 2 }$ and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres during repeated charge and discharge processes. The electrochemical impedance spectroscopy (EIS)measurement shows that the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybridanode possesses smaller charge transfer resistance compared to the bare $\\mathrm { T i O } _ { 2 }$ anode (Fig.16).Particularly, the $\\mathrm { T i O } _ { 2 } / C$ anode with $8 \\mathrm { w t \\% }$ of carbon exhibits the smallest charge transfer resistance compared with the samples with lower carbon contents( $4 . 6 \\Omega$ vs. ca. $3 7 \\Omega$ ).TheEIS results further prove that the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid anodeswith higher carbon content exhibit better rate performance. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c10ff51a4d50facf89478099cd31b7e25d5322d4619cefc93e4490b986c661f.jpg",
+        "img_caption": [
+            "Fig.12.Hydrogen evolution curves under UV(a) and visible light (UV cut at $4 2 0 \\mathrm { n m }$ ,b) using the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres as photo catalysts.Sample details are for black (calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ $8 \\mathrm { w t \\% }$ of carbon by mass),red (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C$ 4 wt%of carbon by mass). green (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C ,$ （2 $2 \\mathrm { w t \\% }$ of carbon by mass),purple (calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C ,$ （2 $0 \\mathrm { w t \\% }$ of carbon by mass),and dark cyan (commercial P25 $\\mathrm { T i O } _ { 2 }$ nanoparticles). (Forinterpretationofthereferences tocolourinthisfgurelegend,tereaderiseferedtothewebversionf tis article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f777e7f58bcf866c63592c0b0e9c6f38bf5c5ee1da047d1797ad4fb2c400194.jpg",
+        "img_caption": [
+            "Fig.13. Discharge-charge curves of the $\\mathrm { T i O } _ { 2 }$ (a) and $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ (b,c,and d)hybrid microspheresaslithium-ionbateryanodes.Sampledetailsarea: (calcinationinair for $^ { 3 \\mathrm { h } }$ a $5 0 0 ^ { \\circ } { \\mathsf { C } }$ ,0 wt% of carbon by mass),b: (calcination in argon for $^ { 3 \\mathrm { h } }$ a $5 0 0 ^ { \\circ } \\mathsf C$ 8 wt% of carbon by mass),c: (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C$ ,4 wt% of carbon by mass),and d: (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } \\mathsf C$ 2 wt% of carbon by mass). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1532409089a3c5b8d33f715a0d734014752620d5a8f2af3e810cb4a470839459.jpg",
+        "img_caption": [
+            "Fig.14. Cyclic voltammetry profiles of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres as lithium-ion batteryanodes with diferent carbon contents.Sample detailsarea: (calcination in argonfor $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf { C } }$ $8 \\%$ of carbon by mass),b: (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } { \\mathsf C }$ ,4 wt% of carbon by mass),c:(tandem calcination in argon for $^ { 3 \\mathrm { h } }$ a $5 0 0 ^ { \\circ } { \\mathsf C }$ and in air for $1 . 5 \\mathrm { h }$ a $3 0 0 ^ { \\circ } { \\mathsf C }$ ,2 wt% of carbon by mass),and d: (calcination in air for $^ { 3 \\mathrm { h } }$ a $5 0 0 ^ { \\circ } { \\mathsf { C } }$ ,0 wt% of carbon by mass). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/989919efae6009d1957a3ed57de4a971e1e162602e334ecfc1f789f72afd9fdb.jpg",
+        "img_caption": [
+            "Fig.15.Cyclic (a-d) and rate (e) performance of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microsphere lithium-ion batery anodes with diferent carbon contents.Figure details: image a & black symbols in image e (calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathrm { C } }$ ,8 wt% of carbon by mass),image b&red symbols in image e(tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } { \\mathsf C }$ ,4 wt% of carbon by mass),image c& green symbols in imagee(tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } { \\mathsf C }$ 2 wt% of carbon by mass),and image d& purple symbols in image e (calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } C$ $0 \\mathrm { w t \\% }$ of carbon by mass).Open symbols:discharge,solid symbols:charge. Blue sari article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b90b0105a107e1e4d32e50be4987c8e7c08977f34c1b7f1b9c995ab4e5c457d.jpg",
+        "img_caption": [
+            "Fig.16.Experimental (symbol) and fitted (line) electrochemical impedance spectroscopy of the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres as lithium-ion batteryanodes.Sample details are black (calcination in argon for $^ { 3 \\mathrm { ~ h ~ } }$ at $5 0 0 ^ { \\circ } C$ ,8 wt% of carbon by mass), red (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ and in air for $0 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } C$ ,4wt $\\%$ of carbon by mass),green (tandem calcination in argon for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } { \\mathsf C }$ and in air for $1 . 5 \\mathrm { h }$ at $3 0 0 ^ { \\circ } { \\mathsf C }$ ,2 wt% of carbon by mass),and purple (calcination in air for $^ { 3 \\mathrm { h } }$ at $5 0 0 ^ { \\circ } \\mathsf C$ ,O wt% of carbon by mass). (For interpretation of the references to colour in this figure legend,the reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A new strategy to the solvothermal synthesis of hierarchical porous $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microspheres has been developed.Unlike conventional hydrophilic polymer templating agent,the in situ formed hydrophobic polystyrene colloids are employed as a templating agent and carbon source in this work.It circumvents the pre-synthesis of well-defined polystyrene beads and two-phase templating reaction process.The carbon content is systematically tuned between O wt $\\%$ and $8 \\mathrm { w t \\% }$ by modifying the calcination protocol.Enhanced visible light absorption is achieved with the incorporation of carbon within the $\\mathrm { T i O } _ { 2 }$ microspheres.Significantly increased specific surface area and pore volume portion are also observed in the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres.The $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres with $2 \\mathrm { w t \\% }$ of carbon exhibit outstanding photo catalytic performance under full spectrum and visible light illumination,which is superior to the commercial $\\mathsf { P } 2 5 \\ \\mathrm { T i O } _ { 2 }$ nanoparticles [13]. It is the combined effects of increased surface area and pore volume, improved crystallization,existence of high active（Oo1） crystal plane,and enhanced lightabsorption.Besides the photo catalytic water splitting experiment, the lithium-ion battery test shows that the $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ hybrid microsphere anodes exhibit better performance compared to the bare $\\mathrm { T i O } _ { 2 }$ microspheres due to increased surface area and improved electron conductivity from the in situ formed carbon [73]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The results reported in this work prove the new concept that hydrophobic polymers can also be utilized as a templating agent to synthesize hierarchical $\\mathrm { T i O } _ { 2 }$ microspheres via the in situ formed PS colloid process.It has greatly expanded the scope of the potential templating systems for the synthesis of inorganic functional materials.Future studies on the templating capability of different hydrophobic templating polymers,synthesis and application of otherinorganic functional materials are in progress and will be addressed in future publications. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This research is funded by the Natural Science Foundation of China (51103172)，the Zhejiang Non-profit Technology Applied Research Program (2013C33190), the open project of the Beijing National Laboratory for Molecular Science (20140138),and the ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "External Cooperation Program of Chinese Academy of Sciences (174433KYSB20150013）and Ningbo Key Laboratoryof Polymer Materials.S.X.acknowledges the China Scholarship Council (CSC) and P.M-B acknowledges funding by the Center for NanoScience (CeNS）Munich.Help with the synthesis of block copolymer of PS-b-PEO from Thomas Wagner，and Jurgen Thiel is greatly appreciated. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix A.Supplementarymaterial ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Supplementary dataassociated with thisarticle canbe found,in the online version, at http://dx.doi.org/10.1016/j.jcis.2016.02.032. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] Z.H. Chen, I. Belharouak, Y.K. Sun, K. Amine, Titanium-based anode materials for safe lithium-ion batteries, Adv. Funct. Mater. 23 (2013) 959-969. [2] X.B. Chen, C.Li, M. Gratzel, R. Kostecki, S.S. Mao, Nanomaterials for renewable energy production and storage, Chem. Soc. Rev. 41 (2012) 7909-7937.   \n[3] T. Froschl, U. Hormann, P. Kubiak, G. Kucerova, M. Pfanzelt, C.K. Weiss,RJ. Behm,N. Husing, U. Kaiser, K. Landfester,M. Wohlfahrt-Mehrens,High surface area crystalline titanium dioxide:potential and limits in electrochemical energy storage and catalysis, Chem. Soc. Rev. 41 (2012) 5313-5360.   \n[4]Y.Bai,I.Mora-Sero,F.De Angelis,J.Bisquert,P.Wang, Titanium dioxide nanomaterials for photovoltaic applications, Chem. Rev. 114(2014) 10095- 10130.   \n[5] J. Bai, B. Zhou, Titanium dioxide nanomaterials for sensor applications, Chem. Rev. 114 (2014) 10131-10176.   \n[6] E.Madej, F. La Mantia, W. Schuhmann, E. Ventosa, Impact of the specific surface area on the memory effect in li-ion batteries: The case of anatase $\\mathrm { T i O } _ { 2 }$ Adv. Energy Mater. 4 (2014).   \n[7] M. Rawole, M.A. Niedermeier, G. Kaune, J._Perlich, P. Lellg, M. Memesa, Y.J. Cheng,J.S. Gutmann, P. Muller-Buschbaum, Fabrication and characterization of nanostructured titania films with integrated function from inorganic-organic hybrid materials, Chem. Soc. Rev. 41 (2012) 5131-5142.   \n[8] M.Wagemaker, F.M. Mulder, Properties and promises of nanosized insertion materials for li-ion batteries, Acc.Chem. Res.46 (2013) 1206-1215. [9] S. Xin, Y.G. Guo,L.J. Wan, Nanocarbon networks for advanced rechargeable lithium batteries, Acc. Chem. Res. 45 (2012)1759-1769.   \n[10] D. Grosso,F. Ribot, C. Boissiere,C. Sanchez,Molecular and supramolecular dynamics of hybrid organic-inorganic interfaces for the rational construction of advanced hybrid nanomaterials, Chem. Soc. Rev. 40 (2011) 829-848.   \n[11] C. Sanchez, P. Belleville, M. Popall,L. Nicole, Applications of advanced hybrid organic-inorganic nanomaterials: from laboratory to market, Chem. Soc. Rev. 40 (2011) 696-753.   \n[12] F.De Angelis, C. Di Valentin, S. Fantacci, A. Vittadini, A. Selloni, Theoretical studies on anatase and less common $\\mathrm { T i O } _ { 2 }$ phases: Bulk,surfaces,and nanomaterials, Chem. Rev. 114 (2014) 9708-9753.   \n[13] J.C. Bear, V. Gomez, N.S. Kefallinos, J.D. McGettrick, A.R. Barron, C.W. Dunnill, Anatase/rutile bi-phasic titanium dioxide nanoparticles for photocatalytic applications_enhanced by nitrogen_doping and platinum nano-islands, J. Colloid Interface Sci. 460 (2015) 29-35.   \n[14] Y.J. Cheng, J.S. Gutmann, Morphology phase diagram of ultrathin anatase $\\mathrm { T i O } _ { 2 }$ fims templated by a single PS-b-PEO block copolymer, J. Am. Chem. Soc. 128 (2006) 4658-4674.   \n[15] D.H. Chen, R.A. Caruso, Recent progress in the synthesis of spherical titania nanostructures and their applications,Adv. Funct.Mater.23(2013) 1356-1374.   \n[16] P.G. Bruce,B. Scrosati, J.M. Tarascon, Nanomaterials for rechargeable lithium batteries, Angew. Chem. Int. Ed. 47 (2008) 2930-2946.   \n[17] H.-E. Wang,J. Jin, Y. Cai,J.-M. Xu, D.-S. Chen, X.-F. Zheng, Z. Deng, Y.Li,I. Bello, B.-L. Su, Facile and fast synthesis of porous $\\mathrm { T i O } _ { 2 }$ spheres for use in lithium ion batteries, J. Colloid Interface Sci. 417 (2014) 144-151.   \n[18]Y. Qu，X. Duan，Progress，challenge and perspective of heterogeneous photocatalysts, Chem. Soc. Rev. 42 (2013) 2568-2580.   \n[19] Z.-Y. Zhou,N. Tian, J.-T. Li, I.Broadwel, S.-G. Sun,Nanomaterials of high surface energy with exceptional properties in catalysis and energy storage, Chem. Soc.Rev. 40 (2011) 4167-4185.   \n[20] J. Cao,L. Wang, X.M. He,M. Fang,J. Gao,J.J. Li,L.F.Deng, H. Chen, G.Y. Tian,J.L. Wang， S.S. Fan， In situ preparednano-crystalline $\\mathrm { T i O } _ { 2 } \\cdot$ -poly(methyl methacrylate） hybrid enhanced composite _polymer electrolyte for Li-ion batteries,J. Mater. Chem.A1(2013) 5955-5961.   \n[21] K. Hemalatha, A.S. Prakash, K. Guruprakash, M. Jayakumar $\\mathrm { T i O } _ { 2 }$ coated carbon nanotubes for electrochemical energy storage,J. Mater. Chem. A 2(2014) 1757-1766.   \n[22] J. Zhang,F.-X. Xiao, G. Xiao, B.Liu,Self-assembly of a Ag nanoparticle-modified and graphene-wrapped $\\mathrm { T i O } _ { 2 }$ nanobelt ternary heterostructure: surface charge tuning toward efficient photocatalysis, Nanoscale 6 (2014) 11293-11302.   \n[23] C.Lin,Y. Song,L. Cao，S. Chen,Effective photocatalysis of functional nanocomposites based on carbon and $\\mathrm { T i O } _ { 2 }$ nanoparticles, Nanoscale 5 (2013) 4986-4992.   \n[24] Z. Zhang, W. Yang, X. Zou, F. Xu, X. Wang, B. Zhang, J. Tang, One-pot, Solvothermal synthesis of $\\mathrm { T i O } _ { 2 }$ graphene composite nanosheets, J.Colloid Interface Sci.386 (2012) 198-204.   \n[25] Y.D. Liu,J. Goebl, Y.D.Yin,Templated synthesis of nanostructured materials, Chem. Soc.Rev.42 (2013) 2610-2653.   \n[26] B. Liu,LM. Liu, X.F.Lang, H.Y. Wang, X.W. Lou,E.S.Aydil,Doping high-surfacearea mesoporous $\\mathrm { T i O } _ { 2 }$ microspheres withcarbonatefor visible ight hydrogen production, Energy Environ. Sci. 7 (2014) 2592-2597.   \n[27] Y. Ren, Z. Ma, P.G. Bruce, Ordered mesoporous metal oxides: synthesis and applications, Chem. Soc. Rev. 41 (2012) 4909-4927.   \n[28] J.S. Chen, Y.N. Liang, Y.M. Li QY Yan, X. Hu, $\\mathrm { H } _ { 2 } \\mathrm { O } \\cdot$ -EG-assisted synthesis of uniform urchinlike rutile $\\mathrm { T i O } _ { 2 }$ with superior lithium storage properties, ACS Appl. Mater. Interfaces 5 (2013) 9998-10003. [29] D.H. Chen, L. Cao,F.Z. Huang, P. Imperia, Y.B. Cheng, R.A. Caruso, Synthesis of monodisperse mesoporous titania beads with_ controllable diameter，high surface areas, and variable pore diameters $1 4 - 2 3 ~ \\mathrm { n m }$ ), J. Am. Chem. Soc.132 (2010) 4438-4444. [30] P. Lu, Y.N. Xia, Novel nanostructures of rutile fabricated by templating against yarnsof polystyrenenanofibrilsand theircatalyticapplications,ACS Appl. Mater. Interfaces 5 (2013) 6391-6399.   \n[31]D.H. Chen, F.Z. Huang, Y.B. Cheng, RA. Caruso, Mesoporous anatase $\\mathrm { T i O } _ { 2 }$ beads with high surface areas and controllable pore sizes: A superior candidate for high-performance dye-sensitized solar cels,Adv. Mater. 21 (2009）2206- 2210. [32] U. Meyer, A. Larsson, H.P. Hentze, R.A. Caruso, Templating of porous polymeric beads to form porous silica and titania spheres, Adv. Mater. 14 (2o02) 1768- 1772.   \n[33] Z.Y. Wang,L. Zhou, X.W. Lou, Metal oxide holow nanostructures for lithiumion batteries, Adv. Mater. 24 (2012) 1903-1911.   \n[34] J. Hu, M. Chen, X.S.Fang, LW. Wu, Fabrication and application of inorganic hollow spheres, Chem. Soc. Rev. 40 (2011) 5472-5491.   \n■[35] J.Y. Liao, B.X. Lei, D.B. Kuang, C.Y. Su, Tri-functional hierarchical $\\mathrm { T i O } _ { 2 }$ spheres consisting of anatase_nanorods and nanoparticles for high efficiency dyesensitized solar cels, Energy Environ. Sci. 4 (2011) 4079-4085.   \n[36] J.S. Chen, Y.L. Tan, C.M. Li, Y.L. Cheah, D.Y. Luan, S. Madhavi,F.Y.C. Boey, LA. Archer, X.W.Lou, Constructing hierarchical spheres from large ultrathin anatase $\\mathrm { T i O } _ { 2 }$ nanosheets with nearly $100 \\%$ exposed (001) facets for fast reversible lithium storage, J. Am. Chem.Soc.132 (2010) 6124-6130.   \n[37] Z.Q. Sun, J.H. Kim, Y. Zhao,F. Bijarbooneh, V. Malgras,Y. Lee, Y.M. Kang, S.X. Dou, Rational design_of 3Ddendritic $\\mathrm { T i O } _ { 2 }$ nanostructures with favorable architectures,J. Am. Chem. Soc. 133 (2011) 19314-19317.   \n[38] D. Fattakhova-Rohlfing，_A. Zaleska，T._Bein, Three-dimensional titanium dioxide nanomaterials, Chem. Rev. 114 (2014) 9487-9558.   \n[39] ZJag,WWeDahSXieer-ded doped yolk-shell mesoporous $\\mathrm { T i O } _ { 2 }$ hollow microspheres with enhanced visible light photocatalytic activity, Nanoscale 7 (2015) 784-797.   \n[40] W.Li, Z.X. Wu, J.X. Wang_A.A. Elzatahry, D.Y. Zhao,A_perspective on mesoporous $\\mathrm { T i O } _ { 2 }$ materials, Chem. Mater. 26 (2014) 287-298.   \n[41] Z.Jin,F.Wang,JX Wang,J.C.Yu,J.F.Wang, Metalnanocrystal-embedded hollow mesoporous $\\mathrm { T i O } _ { 2 }$ . and $\\boldsymbol { Z } \\boldsymbol { \\mathrm { r } } \\boldsymbol { \\mathrm { O } } _ { 2 }$ microspherespreparedwith_polystyrene nanospheres as carriers and templates,Adv.Funct. Mater.23(2013)2137-2144.   \n[42]G. Kaune,M. Memesa，R. Meier, MA. Ruderer, A. Diethert, S.V. Roth，M. D'Acunzi, J.S. Gutmann, P. Muiller-Buschbaum, Hierarchically structured titania films prepared by polymer/colloidal templating, ACS Appl. Mater. Interfaces 1 (2009) 2862-2869.   \n[43] F. Cesano,D.Pellerej, D.Scarano, G.Ricchiardi, A. Zecchina, Radially organized pillars in $\\mathrm { T i O } _ { 2 }$ and in $\\mathrm { T i O } _ { 2 } / \\mathrm { C }$ microspheres: Synthesis,characterization and photocatalytic tests, J. Photochem. Photobiol., A 242 (2012) 51-58.   \n[44] Y. Ma, G. Ji, B. Ding, JY. Lee, Facile solvothermal synthesis of anatase $\\mathrm { T i O } _ { 2 }$ microspheres_with adjustable mesoporosity for_the reversible storage of lithium ions, J. Mater. Chem. 22 (2012)24380-24385.   \n[45]F.H. Schacher,P.A. Rupar,I. Manners，Functionalblock_copolymers: nanostructured materials with emerging applications, Angew. Chem. Int. Ed. 51 (2012) 7898-7921.   \n[46]D.Chen,S.Park,JT.Chen,E.Redston,T.PRusel,Asimpleouteforthe preparation of mesoporous nanostructures using block copolymers, ACS Nano 3 (2009) 2827-2833. [47] Y. Zhang, H. Tan, H. Li, Y.Q. Liu, F.C. Kartawidjaja, Z.C. Yang, J. Wang, Hybrid titania microspheres of novel superstructures templated by block copolymers, Chem. Mater. 23 (2011) 2745-2752.   \n[48] M.D.Ye,D.J.Zheng,M.Y.Wang,C. Chen, W.M._Liao,C.J. Lin, Z.Q.Lin, Hierarchically structured microspheres for high-efficiency rutile $\\mathrm { T i O } _ { 2 }$ -based dye-sensitized solar cels,ACS Appl. Mater. Interfaces 6 (2014) 2900-908.   \n[49]M.C. Orilall,U. Wiesner, Block copolymer based composition and morphology control in nanostructured hybrid materials for energy conversion and storage: Solar cells,batteries,and fuel cells, Chem. Soc. Rev. 40 (2011) 520-535.   \n[50] D.Li, Q.Qin, X.C.Duan, J.Q. Yang, W.Guo,W.J. Zheng, General one-pot template-free hydrothermal method to metal oxide hollow spheres and their photocatalytic_activities and lithium storageproperties，ACS ApplMater Interfaces 5 (2013) 9095-9100.   \n[51] Y.F.Li, Z.Q. Sun,J.H. Zhang, K. Zhang, Y.F. Wang, Z.H. Wang, X.L. Chen,S.J. Zhu, 3.Yang，Polystyrene@ $\\bar { \\nu } \\mathrm { T i O } _ { 2 }$ core-shell microsphere_colloidal_crystals_and nonspherical macro-porousmaterials,J.Coloid Interface Sci.325 (2008) 567-572.   \n[52] J. Perlich,L. Schulz, M.M. Abu Kashem, Y.J. Cheng,M. Memesa,J.S. Gutmann,S. V. Roth,P. Muler-Buschbaum, Modification of the morphology of P(S-b-EO) templated thin $\\mathrm { T i O } _ { 2 }$ films by swelling with PS homopolymer, Langmuir 23 (2007) 10299-10306.   \n[53] M.Saito, Y. Nakano, M. Takagi, N. Honda,A. Tasaka, M. Inaba, Improvement of tap density of $\\mathrm { T i O } _ { 2 } ( \\mathrm { B } )$ powder as high potential negative electrode for lithium ion batteries, J. Power Sources 244 (2013) 50-55.   \n[54] N. Sutradhar, A.K. Biswas, S.K. Pahari, B. Ganguly, A.B. Panda, Fluoride free synthesis of anatase $\\mathrm { T i O } _ { 2 }$ nanocrystals_ with exposed active {001} facets, Chem. Commun. 50 (2014) 11529-11532.   \n[55] Z. Zhao, Z. Sun, H. Zhao,M. Zheng,P. Du, J. Zhao,H. Fan, Phase controlof hierarchically structured mesoporous anatase $\\mathrm { T i O } _ { 2 }$ microspheres covered with {001} facets, J. Mater. Chem. 22 (2012) 21965-21971.   \n[56] N. Roy, Y. Sohn,D. Pradhan, Synergy of low-energy {101} and high-energy {001} $\\mathrm { T i O } _ { 2 }$ crystal facets for enhanced photocatalysis，ACS Nano 7 (2013) 2532-2540.   \n[57] L. Yu, X.F. Yang, J. He, Y. He, D.S. Wang, A fluorine free method to synthesize nitrogen and_lanthanum_co-doped $\\mathrm { T i O } _ { 2 }$ nanocrystals_with exposed {001] facets for enhancing visible-light photocatalytic activity, J. Mol. Catai. A - Chem. 399 (2015) 42-47.   \n[58] J. Lee, Y.S. Jung, S.C. Warren, M. Kamperman, S.M. Oh, F.J. DiSalvo, U. Wiesner, Direct access to mesoporous crystalline $\\mathrm { T i O } _ { 2 } /$ carbon composites with large and uniform_ pores_for_use asanode materials in lithium ion batteries, Macromol. Chem. Phys.212 (2011) 383-390.   \n[59] L Zhang, M.S. Tse, O.K. Tan, Y.X. Wang, M.D. Han, Facile fabrication and characterization of multi-type carbon-doped $\\mathrm { T i O } _ { 2 }$ for visible light-activated photocatalytic mineralization of gaseous toluene,J. Mater. Chem. A1 (2013) 4497-4507.   \n[60] J. Liu, Q. Zhang, J. Yang, H. Ma, M.O. Tade, S. Wang, J. Liu, Facile synthesis of carbon-doped mesoporous anatase $\\mathrm { T i O } _ { 2 }$ for the enhanced visible-light driven photocatalysis, Chem. Commun. 50 (2014) 13971-13974.   \n[61] S.K.Parayil,H.S. Kibombo,C.M. Wu,R.Peng,J. Baltrusaitis,R.T._Koodali, Enhanced photocatalytic_ water spliting activity of_carbon-modified $\\mathrm { T i O } _ { 2 }$ composite_materials_synthesized by_a green synthetic approach, Int. J. Hydrogen Energy 37 (2012) 8257-8267.   \n[62] D.E. Gu,Y. Lu, B.C. Yang, Y.D. Hu, Facile preparation of micro-mesoporous carbon-doped $\\mathrm { T i O } _ { 2 }$ photocatalysts with anatase crystalline walls under template-free condition, Chem. Commun. (2008) 2453-2455.   \n[63] B. Choudhury,S. Bayan, A. Choudhury, P. Chakraborty, Narrowing of band gap and effective charge_carrier separation_in oxygen deficient $\\mathrm { T i O } _ { 2 }$ nanotubes with improved visible light photocatalytic activity,J. Coloid Interface Sci. 465 (2016) 1-10.   \n[64] M.W. Shah, Y. Zhu, X. Fan, J. Zhao, Y.Li, S. Asim, C. Wang, Facile synthesis of defective $\\mathrm { T i O } _ { 2 - x }$ nanocrystals with high surface area and tailoring bandgap for visible-light photocatalysis, Sci. Rep.5 (2015).   \n[65] Y. Xiao, X. Wang, Y. Xia, Y. Yao, E. Metwali, Q. Zhang, R. Liu, B. Qiu, M. Rasool, Z. Liu,J-Q. Meng, L-D.Sun,C.-H. Yan,P. Muller-Buschbaum, Y.-J. Cheng, Green facile scalable synthesis of titania/carbon nanocomposites: new use of old dental resins, ACS Appl. Mater. Interfaces 6 (2014) 18461-18468.   \n[66] Y. Yao,E. Metwali, MA. Niedermeier,M. Opel, C.Lin,J. Ning, J. Perlich, S.V. Roth,P. Muller-Buschbaum, Nano- and microstructures of magnetic fieldguided maghemite nanoparticles in diblock copolymer films, ACS Appl. Mater. Interfaces 6 (2014) 5244-5254.   \n[67] X. Wang,J-Q. Meng, M. Wang, Y. Xiao,R. Liu, Y. Xia, Y. Yao, E. Metwali, Q. Zhang,B. Qiu, Z. Liu, J. Pan, L.-D. Sun, C.-H. Yan, P. Muller-Buschbaum, Y.-J. Cheng,Facile scalable synthesis of $\\mathrm { T i O } _ { 2 }$ carbon nanohybrids with ultrasmall （204号 $\\mathrm { T i O } _ { 2 }$ nanoparticles homogeneously embedded in carbon matrix,ACs Appl. Mater. Interfaces 7 (2015) 24247-24255.   \n[68] Y.J. Wang, Q.S. Wang, X.Y. Zhan, F.M. Wang, M. Safdar,J. He, Visible light driven type Il heterostructures_and their enhanced photocatalysis properties:a review, Nanoscale 5 (2013) 8326-8339.   \n[69] J.Schneider, M. Matsuoka, M. Takeuchi, J. Zhang, Y. Horiuchi, M. Anpo, D.W. Bahnemann, Understanding $\\mathrm { T i O } _ { 2 }$ photocatalysis: Mechanisms and materials, Chem. Rev. 114 (2014)9919-9986.   \n[70]G.Z. Zhang,F.Teng,C.H.Zhao,LL.Chen,P.ZhangY.Q.Wang,C.S.Gong,Z.X. Zhang,E.Q. Xie, Enhanced photocatalytic activity of $\\mathrm { T i O } _ { 2 } /$ carbon@TiO2 coreshell nanocomposite prepared by two-step hydrothermal method, Appl. Surf. Sci. 311 (2014) 384-390.   \n[71] N.D. Abazovic, M.I. Comor, M.D. Dramicanin, D.J Jovanovic, S.P.Ahrenkiel,J.M. Nedeljkovic, Photoluminescence_of anatase and rutile $\\mathrm { T i O } _ { 2 }$ particles, J. Phys. Chem. B 110 (2006) 25366-25370.   \n[72]S.Mathew, A.K. Prasad,T. Benoy，P.P.Rakesh, M._Hari, T.M._Libish，P. Radhakrishnan, V.P.N. Nampoori, C.P.G. Vallabhan, \"UV-Visible photoluminescence of $\\mathrm { T i O } _ { 2 }$ nanoparticles prepared by hydrothermal method, j. Fluoresc.22 (2012) 1563-1569.   \n[73] J Jin,S.-Z. Huang,J. Liu, Y.Li,D.-S.Chen, H.-E. Wang,Y.Yu,L-H.Chen,B.-L. Su, Design_of new anode materials_based on_hierarchical, three dimensional ordered macro-mesoporous $\\mathrm { T i O } _ { 2 }$ for high performance lithium ion batteries,J. Mater. Chem. A 2 (2014) 9699-9708.   \n[74] T.Lan,Y. Liu,J. Dou, Z. Hong, M. Wei, Hierarchically porous $\\mathrm { T i O } _ { 2 }$ microspheres as a high performance anode for lithium-ion batteries, J. Mater. Chem. A 2 (2014) 1102-1106.   \n[75] H.B. Wu, J.S. Chen, H.H. Hng, X.W. Lou, Nanostructured metal oxide-based materials as advanced anodes for lithium-ion batteries, Nanoscale 4 (2012) 2526-2542.   \n[76] J.Wang, Y. Zhou, Y. Hu, R. O'Hayre, Z. Shao, Facile synthesis of nanocrystalline （20 $\\mathrm { T i O } _ { 2 }$ mesoporous microspheres for lithium-ion bateries,J. Phys. Chem. C 115 (2011) 2529-2536. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

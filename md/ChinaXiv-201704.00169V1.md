@@ -1,0 +1,159 @@
+# DOI:10.5846/stxb201605251009
+
+石龙宇,赵会兵,郑拴宁,于天舒,董仁才.城乡交错带景感生态规划的基本思路与实现.生态学报,2017,37(6):2126-2133.ShiLY,ZaoHgSugC.“se”olicallgfbauaotoctaocaca)：2126-2133.
+
+# 城乡交错带景感生态规划的基本思路与实现
+
+石龙宇}，赵会兵1,²，郑拴宁¹，于天舒¹,²，董仁才³，\*
+
+1中国科学院城市环境研究所，厦门361021  
+2中国科学院大学，北京100049  
+3中国科学院生态环境研究中心城市与区域生态国家重点实验室，北京100085
+
+摘要;传统城市规划方法多集中在城市用地、人口规模和交通优先等方面,而较少关注城市环境质量和环境福利。要构筑一个与未来居民生活品质相适应的城市形态,城市生态规划就必须考虑更多样化的数据基础和可获得性的技术,尤其是居民对这些规划的实际感受,合理和科学的规划需要综合分析城市生态系统,包括自然和人为因素。一个新的概念和理论“景感生态学”能够将城市规划蓝图与人类感知相耦合。景感生态规划理应包括人类对规划的各种感知需求,包括视觉、听觉、味觉、嗅觉和触觉等。本文秉承景感生态学的基本理论，以西集镇为执行案例,探索性地针对城乡交错带开展景感生态规划,以阐明将居民感觉信息融入生态规划过程的挑战性和重要性。
+
+关键词：生态规划;物联网；景感生态学；可持续发展；城乡交错带
+
+# “ Landsenses” ecological planning for urban-rural ecotones
+
+SHI Longyu’，ZHAO Huibing1,²，ZHENG Shuanning¹，YU Tianshu1,²,DONG Rencai³
+
+1InstituteofUrbanEnvironment，CAS，Xiamen361021，China   
+2University ofChineseAcademyofSciences，Beijing1OoO49，China   
+3StateKeyLaboratoryofUbanndRegionalEcolog，ResearchCenterforEco-EnviromentalSciences，ChineseAcdemyofSciences，Beijing 100085，China
+
+Abstract：Traditional methodsof urban planning focus primarilyonurban land use，population size，andtransportation priorities，and often fail toconsider theenvironmental qualityand welfareof urban systems.Development offormats hat improvethefuturequalityof lifeforurbanresidentsrequires the incorporationof availabledataandtechnologies，and especiallyresidents‘actual experiences，intourban planning frameworks.Moreover，rational，scientificplaning is dependentoncomprehensiveanalyses of urban ecosystems，including both naturaland human factors.A novelconceptand theory，“landsenses ecology”，canasisturban planners in integrating human experiences into urban-planning frameworks by incorporating information deriving from direct sensory experience，including vision，hearing，taste，smell，andtouch, into planning frameworks.Based onthe framework of landsenses ecology，and using the town of Xiji asacase study，we constructeda provisionallandsenses planfortheurban-ruralecotone,in which weaddressdthe importanceandchallenges of incorporating sense-based information into the ecological planning process.
+
+KeyWords：ecological planning；Internetof Things；landsenses ecology；sustainabledevelopment；urban-rural ecotone
+
+2008 年是人类发展史上具有里程碑式的一年，首次实现了超过一半以上的世界人口生活在城市,意味着人类从此进入“城市型社会”[1]。随着城市化发展,城市土地利用演化过程、景观格局的变化和相关规划的方法和形式也逐渐发生了变化,这已被许多研究者广泛地研究[2-4]。随着生态文明建设的推进，自然和社会科学家都将必须面对一个巨大的挑战,那就是如何界定人在生态系统,尤其是城市生态系统中的角色[5]。城市规划者和管理者也都将面临前所未有的挑战;即在支撑一定城市人口并改善他们福祉的同时,如何保持生态系统功能的可持续发展。当前的城市规划技术体系和现代社会的实际需求之间存在巨大错位，如城市规划过程中多样化数据的采集和处理,因缺失生态信息而最终导致规划蓝图和人们的实际感受大相径庭。
+
+规划师及城市管理者都必须积极应对未来人口的生活方式变化和人口流动性对城市发展所带来的多样化问题[6]。规划师、研究人员和政策制定者都在面对人类活动引发的全球环境变化这一共同挑战,而城市生态规划又更加强调社会、经济、文化、资源和环境等的“和谐发展”,这将意味着需要海量的多样化数据资源收集方法和创新性的规划理论与方法支撑规划师的规划思路与方法。城市可持续发展始终应该以人为核心,因此可持续性城市规划必须追求创造一个环境、经济和公平的未来,并能为下一代创造美好的生存空间。
+
+目前的生态规划信息包括了精确的科学知识,例如物种组成、多样性指数、栖息地条件和特征,以及种群大小等[7。然而,生态学家已经开始意识到在研究城市生态系统动态过程中,将人类融入生态过程来研究人类和生态过程的关系更为重要。学者赵景柱在首次提出景感生态学概念、迷码数据和趋善化模型的基础上，进一步阐明了景感生态规划、建设和管理的框架。景感生态学是指以可持续发展为目标,基于生态学的基本原理,从自然要素、物理感知、心理感知、社会经济、过程与风险等相关方面,研究土地利用规划、建设与管理的科学[8]。
+
+“景感"是一种包含了物联网、地理信息系统、模型库和专家系统等的技术体系,能在一定程度上确保规划或设计师更明确的遵循自然法则。随着科学技术的发展,环境信息感知与融合已无处不在，人们不仅能够通过个体感知获得生态信息,也能通过公众参与式的社会尺度传感器网络获得所处环境的环境质量信息及其发育演化过程[9,10]
+
+本文以位于京津冀生态关键区域的典型城乡交错带—北京市通州区西集镇为研究对象,以城乡交错带生态文明建设和生态保护为最终目标,以景感生态学的基本理论与框架作为基本指导,提出了城乡交错带景感生态规划的基本思路,并结合西集镇的生态发育现状提出了西集镇景感生态规划的基本实施过程。研究内容强调将生态信息融入城市规划过程的重要性,并揭示驱动生态感知信息应用的挑战性,为典型城乡交错带生态文明建设及可持续发展提供了新的辅助决策依据。
+
+# 1规划区及项目背景
+
+北京市通州区西集镇位于北京市东南部，距通州区卫星城约 $2 1 \mathrm { k m }$ ,距北京市区东四环约 $2 5 \mathrm { k m }$ ,镇域面积$9 5 . 2 9 \mathrm { k m } ^ { 2 }$ ，下辖57个行政村。西集镇地处潮白河现代冲击平原,地势平坦,水源充足,并有京杭大运河环绕镇域,是一个拥有2000年历史,挟京津冀咽喉要道的古老乡镇。因处于中国大运河及京津冀大都市地区的关键节点,使该研究区域更加呈现出独特的生态背景及文化底蕴,但随着北京市行政中心的外迁等城镇化进程加快,西集镇如何在快速城市化过程中保持其生态品味的可持续发展、经济地位的逐步提升,居民可享受的生态福利可持续则显得尤为重要。通州是北京参与京津冀、环渤海区域合作的重要枢纽,西集镇地理位置紧邻津、冀。镇域境内有京沈高速公路,自西向北穿过西集中央,镇西部是103 国道,规划七环路从镇域的东南部穿过。西集镇林木覆盖率高于通州区其他乡镇,居于首位,且三面环水拥有湿地资源,北运河和潮白河的风光优美宜人,为西集打造生态宜居城镇提供了良好的生态保障。通州区2012年乡镇功能定位的专项研究中西集镇属区域经济发展支撑区,倡导发展生态休闲小镇。另外第一产业丰富的果品种植采摘已初具规模,尤其樱桃果园质量较高,为旅游业结合农业发展打下了良好基础[1]。
+
+通过分析现有资源,明确西集最主要的特色是生态资源、运河资源、运河文化、大面积果园,在运河文化的开发中，要注意与通州新城的差异性，不要建设与新城类似项目。由于中国人口老龄化不断加快，且现代城市居民对养生旅游越来越感兴趣，故将西集镇产业发展定位为“运河养生，悠享西集”。利用丰富的农业资源和深厚的运河文化底蕴，依托便捷的交通，以生态环境为本底、运河文化为底蕴、运河景观带为联接，打造西集“运河文化、生态养生、养老度假、农旅体验”等特色，建设集观光旅游、创意体验、休闲度假功能为一体的生态休闲小镇，形成生态宜居的悠享度假胜地。
+
+2015年7月，时任中共北京市委书记郭金龙在市委十一届七次全会上宣布将北京市行政副中心迁往通州，并强调要加快市行政副中心的规划建设，2017年取得明显成效，这给西集镇提供了前所未有的发展机遇和挑战。机遇在于随着北京市行政副中心的外迁，通州区政府行政中心也将进一步外迁至潞城镇，而现在的潞城镇政府将进一步迁移至西集镇，西集镇将无疑成为整个过程中的受益者,但这也对西集镇的生态环境保护和生态福祉可持续发展带来了巨大的挑战。当地政府期望依托紧邻北京和天津两城的优势,努力打造一个美丽的、生态的、宜居的、就业理想且和谐的区域。各级政府承诺将整合运河遗产保护以及运河的功能延续、城市建设、历史和文化的展览以及环境保护等工作。运河两岸的地方政府想要促进环境保护,并使遗产型景区从生态、经济和社会发展中为周边居民提供更为多元化的生态及社会福利，并同时提升居民的生活环境品质和生存质量。
+
+![](images/903fc88055cc2874fc72ccacead65a687ee13cf0673d990b1356b8e33ef6278d.jpg)  
+图1 研究区域区位图  
+Fig.1 Location of study area
+
+# 2基于景感生态学的规划原则
+
+# 2.1我国城市需要新的生态规划理念
+
+我国现在处在一个特殊的生态系统保育期,这对生态规划和生态系统管理都提供了机会和挑战。目前生态城市规划与建设的指导方针着重强调能源、水、大气、声音、光和热环境、绿地、废物管理和处置,以及使用绿色建材等。但是很难将这些原则付诸于实践,而且规划者难以依靠现有制度有效获得如此综合的信息,就更难以规划一个智慧的未来。例如,那些体现城市居民生活方式及偏好、社会公平和社会满意度等的相关信息不容易收集到。这恰恰又是规划者们所需要并应该融入规划过程的人类感觉信息。
+
+在中国,城市规划者和设计者需要从蓬勃发展的城市中得到更多的“混合型数据"或称之为“迷码数据”。这些数据应该包括实验、观测、监测、推演、遥感解译、统计、经验、替代、问卷调查和心理数据等。景感生态学是以可持续发展为目标研究土地利用规划、建设与管理，在充分应用生态学基本原理基础上，综合分析自然要素、物理感知、心理感知、社会经济、过程与风险等[8]。
+
+# 2.2充实规划过程中的生态信息量
+
+景观规划倡导在规划过程中充分考虑社会与环境的规划理念。这使得生态规划更加注重于人与自然间的协调性,也需要更多的数据收集和分析方法[13]。城市规划方面的数据形式逐步延伸,从早期的模拟数据到精确科学的观测数据,乃至“大数据”。城市生态和环境规划数据有很多类型和来源,从而形成了多种多样的数据。近年来,城市规划领域强调采用4V数据,即：Volume（大量）、Velocity（高速）、Variety（多样性)和Value（价值）[9]。这需要更多的努力去测量或甄别每个生态因子,也需要采用多种方法对同一目标进行观察和监测,实现长周期监测统计数据,从而对同一对象或现象从不同的角度进行耦合分析。并且开展深入的数据挖掘[13]。
+
+城市景感生态规划的详细数据模型如图2所示。传统景观生态规划方法包括基于景观生态学方法的景观生态适宜性和生态敏感性分析等，而景感生态规划则是随着物联网技术的发展，环境信息采集的便捷化，以及人们对环境体验的要求的提升，将人融入环境本身，在传统景观规划的基础上更多的关注人与环境的多元化互动关系，需要更多关于环境及人类行为的实时信息作为规划及决策基础。
+
+# 2.3充分利用居民的感觉数据
+
+人是城市生态系统中最复杂的对象，而城市可持续发展的目标又是极其广泛的，导致城市的规划、建设和管理的数据规模是相当巨大的，而且对于数据的输人和处理速度的要求也非常高。城市区域人口极其稠密，每天都有大量个体在城市内部活动和工作,这些动态数据表征着大量城市综合体的生态系统状态信息,也隐喻着城市生态系统中的成分以及关系的复杂性,进一步反映了人的活动和环境问题之间丝丝缕缕的关系[14]。
+
+![](images/b08448cdde92f11273b3063fc9f065dd39a5bdbaf950c37d149668dc93ec5615.jpg)  
+图2基于景感的城市生态规划数据模式  
+Fig.2Urban ecological planning data model based on landsenses
+
+与此同时,这些数据在结构、组织、维度和粒度上有着巨大的差异；一些数据可以蕴含城市生活信息，一些数据蕴含生活质量信息，更有一些数据可以用来分析和解决“城市病”。可持续发展的城市建设需要进一步提高和丰富关于城市生态系统的数据类型。未来新的城市形态发展将在关注传统而简单的人与自然关系,提升到更加注重以人为本的发展模式,尤其是关注人类的情感(快乐、满足),活动(偶然性活动和基本活动)和人类本身（个人和群体）。
+
+研究表明,在有利益相关者知识的参与基础上,通过共同思考与合作学习的规划方式更有助于战略综合规划[15]。换句话说,参与规划过程的利益相关者能将他们共同感知目标融入规划。利益相关者的参与意愿源于他们的情感,例如到绿色空间的距离与安全感。规划者可以很容易从利益相关者的感官数据中来获得新的想法,我们应该充分利用城市居民的感官数据,因为这些人才是在生态规划中的真正利益相关者。
+
+# 2.4充分利用环境物联网
+
+物联网提供了一种通过数字化研究和分析城市生态问题的机遇，特别是对更深层次的问题,如城市可持续发展问题[16]。例如,智能手机和可佩戴式电子计算设备用来跟踪人类的行为、位置,甚至身体的生理状况的改变,并能用于记录和分析的数据,这些新的数据形式奠定了面向人群开展可持续性数据分析与规划的重要基础。
+
+在数字城市和智慧城市的建设过程中,城市的信息基础设施在提供信息服务基础上也积累了大量的城市动态数据。城市环境数据对城市规划而言是特别重要的,这些数据包括大气、土壤、声音、风和其他环境元素。因此环境物联网通过在线、实时、远程监测信息的方法实现了采集、传递、管理、模拟和预测,从而为可持续发展城市的规划、建设与管理提供技术支持。随着信息技术的收集和处理方法的提高,以及观测和传感装置的发展,现代科技已经逐渐演变成可从各种来源获取多源数据,多种目标和多种功能地充分支持城市规划。
+
+# 3城乡交错带景感生态规划的基本思路与实现
+
+基于景感生态学思想和以上的分析,我们探索性地开展了城乡交错带的典型区域——北京市通州区西集镇景感生态规划,从前期的多源化感知数据的处理,生态、经济等权益主体的全面制衡等过程明确了城乡交错带景感生态规划的基本思路,并在西集镇进行了落地实施。
+
+# 3.1城乡交错带的感知数据处理
+
+城乡交错带是兼具城市和乡村的土地利用性质的城市与乡村地区的过渡地带,又称城市边缘地区。城乡交错带尤其是指接近城市并具有某些城市化特征的乡村地带，主要依靠交通干线联结,构成城乡联系密切的区域。城乡交错带的景感生态规划以增强人与自然之间和谐度为目标,因此,规划者更需要充分理解自然和人之间的感应。景感生态规划中的环境感知信息首先必须包括传统规划方面的资料,例如对水环境质量、噪声频率、物种组成和种群规模等。其次,也应包括个人感觉和心理反应,如皮肤感觉、文化差异、视觉效果和人际关系。感觉是具有感知能力器官的一种生理能力。一般来说,优秀的生态规划应该要满足视觉、听觉、味觉、嗅觉和触觉这五个基本方面。在本研究景感生态规划的方法中,源于人的感觉数据将被视为第一手资料。基于景感生态学概念的规划内容和方法已分类在表1中列出。
+
+表1景感生态学规划内容与方法  
+Table 1 Planning content and method based on the concept of landsenses ecology   
+
+<html><body><table><tr><td>感觉类型 Sense type</td><td>Table ahnngconrentandhcthod bascdon 感官 Sense organ</td><td>oneeptorTandscnscsctorogy 规划类别 Planning category</td><td>规划内容 Planning content and method</td></tr><tr><td>视觉美感</td><td>眼睛</td><td>景观格局</td><td>景观格局优化</td></tr><tr><td>Sense of beauty</td><td></td><td>建筑风格</td><td>建筑色彩规划</td></tr><tr><td rowspan="6"></td><td rowspan="6"></td><td>植物造景</td><td>植物配置设计</td></tr><tr><td>文化遗产</td><td>古建古宅保护</td></tr><tr><td>教育宣传</td><td>物联科技展示</td></tr><tr><td>环卫环保</td><td>水体表面清洁、垃圾与固废处理</td></tr><tr><td>光环境</td><td>玻璃幕墙与夜景照明设计</td></tr><tr><td>噪声控制</td><td>绿化隔离带设计</td></tr><tr><td>Sense of hearing</td><td>耳朵</td><td>自然声营造</td><td>泉、瀑、蛙等自然声景观构筑</td></tr><tr><td>味感</td><td>嘴巴</td><td>游憩娱乐</td><td>农家餐饮娱乐</td></tr><tr><td>Sense of taste</td><td></td><td>农业景观</td><td>采摘农业、现代农业</td></tr><tr><td rowspan="2">嗅感</td><td rowspan="2">鼻子</td><td>景点配置</td><td>生态系统供给服务设计</td></tr><tr><td>植物配置</td><td>亲泥土气息设计</td></tr><tr><td>Sense of smell</td><td></td><td>异味</td><td>亲花香配置</td></tr><tr><td></td><td></td><td>臭水处理</td><td>可亲水设计</td></tr><tr><td>触感</td><td>皮肤</td><td>建筑材质</td><td>现场体验设计、亲水设计</td></tr><tr><td>Sense of touch</td><td>四肢</td><td>步道设计</td><td>慢行系统</td></tr><tr><td>风感</td><td>皮肤</td><td>小气候</td><td>通风廊道</td></tr><tr><td>Sense of wind</td><td>心</td><td>温湿度</td><td>可视性</td></tr><tr><td>心理感应</td><td></td><td>可达性</td><td>绿色廊道格局</td></tr><tr><td rowspan="4">Psychological reactions</td><td rowspan="4"></td><td>透视性</td><td>场景觉察</td></tr><tr><td>传统文化</td><td>文化认同</td></tr><tr><td>神圣感</td><td>皇城文化</td></tr><tr><td>安全感</td><td>景观色彩</td></tr><tr><td>方位感</td><td>大脑</td><td>地标建筑</td><td>符号系统、景观雕塑</td></tr><tr><td>Direction sense</td><td></td><td>视觉轴线</td><td>视觉轴线设计</td></tr></table></body></html>
+
+在这一景感规划中有八个类型的感觉,包括美感、听觉、味觉、嗅觉、触觉、风感、方向感和心理反应。规划者研究制定了一套适宜的方案将其进行有效组合。例如,修建一条生态走廊意味着可以让人产生生理和心理上两种满足感,即可降低热岛感觉，又提高了绿地的可达性。通过建筑物色彩和自然声音营造使人有贴近自然过程和贴近生活的感觉。建筑物周边的绿化带规划既可以减少噪音污染，又可以增加氧气供给、固氮和其他生态功能。
+
+景感规划师要依据城市居民的生活环境做出判定,但关键问题是如何确定在什么地方干什么。因此,本研究将每种感知形式的数据集以地图专题图层的形式进行表达,并用GIS（Geographic Information Systems）来进行空间分析。例如,GIS 可以帮助分析声景观格局、生物物理环境和人类感觉之间的相互作用。微气候空
+
+http://www.ecologica.cn
+
+间格局设计和规划的目标应让人感觉到舒适的风、温度、湿度、降水、自然通风和周围环境的可见性。这些对于创造一个宜居环境、城市形态和建筑设计是非常重要的[17],具体与景感规划专项对应的GIS图层如图3所示。
+
+# 3.2综合权衡利益相关者的感受
+
+在生态规划过程中，利益相关者的参与被视为是掌握本土知识的基本条件。西集镇作为城乡交错带的典型区域，其景感生态规划需要考虑各方面利益相关者的感受。尤其要考虑以下四个方面：(1)京津冀一体化整体战略;(2)连通京津冀的关键生态节点；(3)统筹生产-生活-生态和谐的“三生空间”；(4)保护历史文脉携同产业创新发展。另外一个重要方面是也要考虑平衡城乡居民之间的不公平，并全面平衡土地资源和环境效益的关系。规划还应顾及当地政府和企业在生态建设过程中的经济利益。在贯彻京津冀一体化发展愿景的前提下，与当地政府和开发企业充分沟通，尤其是分析潜在生态收益需求,确定其对规划方案的感受,如风险性、敏感度、性能、可达性、脆弱性及其他指标,最终综合各方面利益相关者的感觉形成景感生态规划方案。
+
+![](images/70980d278af48df74ff441e19a4b9f4a40626ebc918e037179afebd7dc7a1751.jpg)  
+图3西集镇景感生态规划数据流程图  
+Fig.3Landsenses planning information flowchart of Xiji town
+
+# 3.3基于景感生态学的生态基础设施规划
+
+在生态规划的过程中，GIS 制图和情景设计工具能有助于规划团队将利益相关者视角和专家知识有机结合起来。规划方案选择项和草案源自并服从于公众参与者对美的感知，因为其中蕴含着很重要的对规划区当地的生态知识或经验。如对该地区文化遗产保护必须尊重原有建筑风格,将维持被列入大运河世界文化遗产清单中重要景点的原貌。规划建设河流生态廊道来加强城市和农村生态系统的美感,实现控制水流、为野生动物提供栖息地,并为公民提供休闲空间[18]。
+
+通过将延芳淀湿地规划为具备地下及地表径流湿地和生态池塘的景观来提升水环境功能。通过全区域贯通的生态水系网络建设,保障研究区域居民的水生态观感及触感等的生态福利不收影响，同时还可以提高水质，消除水体中的异味。
+
+营造绿色缓冲区以减少来自交通干道的噪音污染[19]。如在居民点附近营造15 米宽曲线绿化带和 200米环形绿化带,并通过交通沿线绿化带进一步形成的林网,使村庄进一步被森林所包围。构筑这样林网能有效保护居住区和农田,减少夏季和冬季大风的损害。
+
+在对生物多样性影响的评估中,对各种影响因素比较分析,同时使森林、草地和湿地能营造出哺乳动物、鸟类、两栖动物和昆虫等发出的不同级别声音的环境[20]。
+
+3.4西集镇—城乡交错带典型区域的景感生态规划
+
+通过对西集镇目前土地利用类型的全面分析,本研究认为西集镇作为行政副中心外迁的直接受益者，作为未来城乡交错带受城市化扰动较大的关键性区域,土地利用格局的景感生态功能尚存在明显的缺陷,突出表现在;规划区受道路、堤岸切割,由于道路等级较高,占规划区面积比例较大,造成全局性生态空间的分隔;生态用地所占比大,但景观类型单一,生态系统服务种类少,综合生态效益不高;以公益林和果园为主的种植模式下,树种较为单一,生物多样化程度较低,生态脆弱性高;北运河、潮白河、滨河岸带及规划区内水网作为重要的生态空间没有得到很好的利用,景感生态服务功能几近丧失。基于上述分析,本研究以景感生态学基本理论框架为基础，以积极应对北京城市副中心外迁所带来的生态扰动为方向,以构建 ECO-TOWN 为基本目标（E—Ecological：生态文明小镇;C—Collaborative：协同共融小镇;O—Opportunity：创业创新小镇;TOWN—TomorrowofWelfareNode：生态—未来福利新节点），编制了西集镇一城乡交错带典型区域的景感生态规划实施方案，由于北运河和潮白河在规划区的特殊地位和作用，结合规划区已有生态系统现状，将湿地、防护林地和河流作为规划区的生态保护核心，重点保护和建设。规划方案形成了6大生态功能区块，即包括：(I)中部生态产业与人居发展区；(II)北部现代农业与高端服务业发展区；(III)南部森林保育与现代农业发展区;(IV)北运河文化景观保护发展区；（V)延芳淀湿地保育与创意休闲发展区;(VI)潮白河滨河岸线保育与休闲农业发展区(图4）。
+
+![](images/5eb54847a09840ebc5ea6299bb918509b55413d9c600e62efc6fc05b9bb2c73a.jpg)  
+图4西集景感生态规划图  
+Fig.4Landsenses ecological plan map of Xiji town
+
+# 4结论
+
+在所有学科之中,生态学是尤其适合链接科学、艺术与人文,并把人和土地连接起来[21]。为了保护中国大运河及历史古镇,把地理学、生物学、生态学、水文学以及环境经济和社会科学领域的数据全面集成到生态规划过程中至关重要。更重要的是,那些源于人类感知的多样化数据对生态和可持续发展城市规划具有巨大潜力。
+
+景感生态学方法可以帮助生态规划师理解原住民和他们的感受、想法和意见。将感知数据融入规划过程,既不会降低设计的艺术性,也不会影响企业的经济效益。为了能够为城市区域提供更全面的感知信息,需要付出更多努力来生产那些规划师真正需要的信息[22]。此外,GIS 制图和情景规划工具的有效组合也使规划团队能将专家知识和利益相关者的感知融人到城乡交错带典型区域的景感生态规划过程中。景感生态规划的落地实施是一个逐级细化和逐步落实的过程，“景感”的理念应该贯穿于最初的概念规划，中期的控制规划,以及后期的详细规划和实施方案等环节。本文主要针对城乡交错带的景感生态规划的概念规划和控制性规划提出了具体的落地方案,在后续相关理念的具体执行过程中,还需要不断地将“景感”的理念融入具体方案的实施落地过程中。
+
+# 参考文献（References）：
+
+[1]ZhaoJ,DiD,inTangLapdubstoolicalfctsdstaabliostructioineInteatioaJoalfSustainable Development & World Ecology，2010,17(4）：271-272.  
+[2]BoedhhartonoAK,EndamanaD,Ruiz-PerezM,SayerJ.LandscapescenarisvisuaizedbyBakaandAkaPygmiesintheCongBasin.International Journal of Sustainable Development & World Ecology，2015,22(4）：279-291.  
+3]SllngsbsptiablInternational Journal of Sustainable Development & World Ecology，2015,22(4）:346-357.  
+[4]WuG,GaY，WangY,WangYY,XuD.Landuse/landcovangesandtheirdrivingforcesaroudwelandsinangri-LaCotyProvince，China.International Journal of Sustainable Development& World Ecology，2015,22(2）:110-116.  
+[5]AlbertiM.Advancesinurbancolog：integratinghumansandcologicalproceses inurbanecosystems.NewYork：Springe08.  
+[6] SteinerF.Frontiers inurbanecological designand planning research.Landscape and Urban Planning，2014，125：304-311.  
+[7] Yli-PelkoenVNielaJnkingologicalndsocialsstesincitisurbanplanginFladascaseodiversity&oseatio2005，14(8):1947-1967.  
+[8]ZhaoJZ,LiuX,DongRC，ShaoGF.LandsensesoandcologicalplaingtowardsustainabledevelopentIteratioalJoualfSustainable Development & World Ecology，2016,  
+[9］涂子沛.大数据：正在到来的数据革命.2版.桂林：广西师范大学出版社，2013.  
+[10]LiCM,hD,WuDuXDDsigfEstemforaturereseves：cseudyangi-LaoutyYuanProa.International Journal of Sustainable Development & World Ecology，2015,22(2)：184-188.  
+[11］吕棕.京郊小城镇特色旅游规划策略初探—以通州区西集镇为例//2014中国城市规划年会.城乡治理与规划改革——2014中国城市规划年会论文集.海口：中国城市规划学会，2014-09-13.  
+[12]WuD,ZhaoCL,MaoSX,LiuM,LiB,TangLNStategimeasuresforrapidresorationforXiangheSegmentofChina'sGrandCanal.International Journal of Sustainable Development & World Ecology，2016,23(4)：358-364.  
+[13]Yi-PelenV,elaUseofolcalifoatioibaplag：Experiecsfroeelsiimetropolitaa,adUbaecosystems，2006,9(3）:211-226.  
+[14] DongRC,LigaYtosderaeongeatifuenvironent-acastudyofShangri-LaoutyYunanProvince，China.InteratioalJoualofustainableDvelopent&Worldcolog，2015，22(2): 178-183.  
+[15]ElbakidzeM,wonL，AnderssnK,AxelsonR,AngelstaP，teist，eiebS，lter,elboC.Isspatialcollaborative learning proces?Acase study fromarural-urban gradient inSweden.Land UsePolicy,2O15,48：270-285.  
+[16] ZhaoJZ，ZhengXC，DongRC，ShaoGF.Theplaning，construction，andmanagementtowardsustainablecitiesinChinaneedstheEnvironmental InternetofThings.InternationalJournalof SustainableDevelopment&WorldEcology，O13,2O(3）：195-198.  
+[17] ShahrestaniM,YaoRM,uoZW,urkbeylerE,DaviesH.AfeldudyofurbanmicrocimatesinLndonRenewableEnergy5,7-9.  
+[18]TangL,WangH,WangLYiuQYLanscapateiztoforXiangheSgmntfCina'sGandCanalIteatialfSustainable Development & World Ecology，2016,23(4）：305-311.  
+[19]DongRC，YuTS，MaH，RenY.SoundscapeplaningfortheXianghesegmentofChina’sGrandCanalbasedonlandsensesecology.International Journal of Sustainable Development & World Ecology，2016,23(3）：343-350.  
+[20] Marler P,Slabbekoorn H.Nature's music：the science of birdsong.San Diego,CA：Elsevier Academic Press,2004.  
+[21] SwansonFJ.Confluenceofarts，humanities，andscienceatsitesoflong-termecologicalinquiry.Ecosphere,20l5,6(8）：1-23.  
+[22］董仁才，苟亚青，刘昕.基于市政综合监管信息的城市生态系统复杂性分析.生态学报，2013，33（8)：2350-2357.

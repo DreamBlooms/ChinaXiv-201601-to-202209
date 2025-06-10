@@ -1,0 +1,302 @@
+# 靶向技术创新网络演化测度方法研究
+
+翟东升王猛张杰孙武(北京工业大学经济管理学院北京 100124)
+
+摘要：【目的】利用专利数据对靶向技术创新网络进行量化分析，从多个视角对技术创新网络的演化过程进行测度分析。【方法】以靶向技术创新网络为研究对象，从德温特专利数据库中检索靶向技术专利数据，利用动态网络分析方法与专利数据相结合，将动态网络分析指标应用到技术创新网络分析中，构建基于专利动态网络的技术创新演化测度体系。【结果】分析技术创新网络的4个测度对象，根据网络指标的变化从微观层次展现靶向技术的发展演化趋势和技术热点。【局限】技术创新网络评价测度指标不够丰富，对指标的研究不够深人。【结论】该方法能够有效全面地测度技术创新网络演化趋势和技术热点。
+
+关键词：技术创新网络 动态网络专利网络演化分类号:F204 G306
+
+# 1引言
+
+随着研发活动的全球化和网络化，越来越多的创新主体开始借助创新网络进行技术创新，由不同创新主体合作形成的技术创新网络是当前技术创新过程的重要组织形式[1]，技术创新网络随着主体节点数量和节点间关系的变化而发生演化，对技术创新网络演化的测度也就成为当前重要的研究方向之一[2]。专利作为技术创新网络的主要输出，涵盖了广泛的技术领域，包含发明人、专利权人、IPC等多种属性，在某种程度上代表了技术创新的最新水平。因此，通过对专利内容进行分析能够反映技术创新活动的特征，而动态网络分析方法因其具有特殊的测度指标以及能够对变化的网络进行测度，在对技术创新网络的测度方面具有优势。
+
+本文使用动态网络分析工具将动态网络分析方法和专利信息分析相结合，构建多种关系的专利数据元矩阵，并在此基础上，基于动态网络的特有指标，构建基于专利的技术创新网络测度指标体系，从多个角度对技术创新网络的演化过程进行分析。
+
+# 2 研究现状
+
+目前，技术创新网络的研究已成为技术创新研究的重点内容，国内外学者从不同方面对技术创新网络进行研究，主要集中在技术创新网络结构以及技术创新网络演化方面的研究。Koka等[3从外部资源变化和环境的不确定性两个维度，将网络演化分为网络扩张、网络收缩、网络加强和网络动荡4种模式，并从网络层和组织层对网络的变化进行描述。Rose等4明确了创新的含义和属性，并在此基础上提出测度创新的两个框架，通过综合分析两个框架，在基础投资和无形资产两个角度实现了对技术创新演化的测度。Dudzeviciute等[5]在系统分析创新活动和专利、研发支出之间关系的基础上，认为研发支出和专利可以作为测度创新活动的关键要素。蒋军锋等[2]从网络嵌入性的测度出发，引入时间刻画，得出技术创新网络结构特征的演变方程，从而描述技术创新网络的演变过程。彭盾利用"复杂网络"研究网络中节点的度分布，进而研究创新网络的结构演变。
+
+近年来有学者将专利信息应用于技术创新网络中，最初的分析主要集中在网络层次静态的分析。Chang等指出，利用专利进行创新网络分析是一种先进专利分析技术。Morescalchi等8研究了以发明者为节点的技术创新网络的演化，利用欧洲专利局的专利数据对经济合作与发展组织成员国之间形成的4种网络(专利引用网络、共同发明网络、研发实验室的分布网络以及发明家流动网络)进行分析，研究地域距离和边界对国家之间联系的影响。王燕玲[9构建基于专利分析的行业技术创新网络活动特征的专利分析框架，为行业技术创新研究提供信息。刘晓燕等[10]利用专利技术生命周期理论对技术创新网络演化动力进行研究。 $\mathrm { { W u } ^ { [ 1 1 ] } }$ 构建基于关键字的加权网络，并结合网络分析和层次分析等方法分析生物燃料领域技术创新网络演化。李英敏[12]利用社会网络分析方法对技术领域专利权人的合作现状和网络个体演化特征进行研究，并利用专利耦合方法研究某技术领域的技术特性。Ribeiro等[13]基于专利数据绘制全球知识流动网络，提出一种新的方法描述"跨越国界"的全球技术创新网络。刘凤朝等[14]建立"时间-领域"分析框架，并使用专利数据分析美国国家技术创新网络的结构演变。以上这些学者从专利信息的角度，对技术创新网络进行阶段性分析，并从宏观角度对专利技术创新网络的演化进行实证研究，但还未从微观的角度动态研究网络节点的演化过程。
+
+对于动态网络分析方法在技术创新网络演化测度中的应用，国内也有初步的探索。刘彤等[15]构造具有多重属性节点的专利网络，利用动态网络分析方法对专利网络的演化和动态特征进行分析，并以纳米技术领域专利作为切入点，进行实证研究。翟东升等1使用动态网络分析方法，结合专利摘要中的字段分析国内LTETDD产业现状。李登杰等[17基于动态网络分析方法，构建技术创新网络演化的测度框架，为技术创新网络的演化测度提供一个新的视角。但现有视角所涉及的指标仍较为单一，指标算法以单一层面为主，对专利信息的挖掘不够深入，在理解、认识复杂创新网络时具有明显的不足。
+
+本文整合专利分析方法和动态网络分析方法，构建专利动态评价指标，并加入认知需求、能力、中心性等特色指标，构建技术创新网络演化测度模型，从指标变化的角度研究技术发展变化的过程，并使用ORA的可视化工具对动态网络指标进行分析，实现从多个视角对靶向技术创新网络的演化进行分析和刻画。
+
+# 3基于专利的技术创新网络演化测度体系研究
+
+# 3.1技术创新网络演化影响因素
+
+技术创新网络由核心网络、辅助网络及外围支撑网络构成[18]，企业、大学、研究机构以及政府之间的正式和非正式的信息交流促进创新的产生与发展，技术创新主体通过网络间核心技术信息的交流，从而将技术功能市场化，技术进步带动技术创新网络演化，这种技术间的交流是区域性的[19]，随时间而不断演进的，因此，影响技术创新网络的因素有技术创新主体、技术创新领域核心技术、技术创新领域热点技术功能、技术创新区域及时间。
+
+# (1)技术创新主体
+
+技术创新主体是企业，企业的研发活动是技术创新的动力，企业是市场经济活动的主体，是联系科技与市场的纽带，它不仅是技术的需求者和应用者，也应是技术的供给者，因而企业应该是技术创新的主体，企业作为专利权人进行专利活动，体现了企业技术创新的主体性。而大学与研究机构是技术的研发者，其研发活动为企业服务，但如果科研机构掌握了技术领域内的核心技术，那么其也可能成为技术创新网络的主体。
+
+# (2)技术创新领域核心技术
+
+技术是创新的载体，新技术的成功研发是创新产生的基础，因此，核心技术影响着创新的发展方向,对核心技术的识别就显得尤为重要。
+
+# (3）技术创新领域热点技术功能
+
+技术功能是体现该技术可以完成哪些具体事项的指标，是专利技术能否市场化的基础。技术创新的最终成果体现在产品上，产品所具有的功能又与技术功能密切相关，因此技术功能也是技术创新的影响因素。
+
+# (4）技术创新区域
+
+技术创新活动不是单个企业，或者研究机构来完成的，它是一个区域性的行为活动，因此技术创新区域也是技术创新的影响因素。
+
+# (5）时间
+
+技术创新网络中的成员为了维持和扩展自身的生存空间，节点间关系随时间会不断调整，导致技术创新网络中的技术创新主体、核心技术、热点技术功能、创新区域随时间也在不断演变。
+
+专利数据提供了丰富的标准化信息。创新主体在技术领域取得创新性的突破，会通过专利寻求对技术创新的保护。因此专利和技术创新关联密切，技术领域的创新，会首先体现在专利上。专利文档中包含发明、发明人、申请人、申请时间和地区等详细信息，这些专利文档随着时间的推移，成为专利信息的时间序列。因此，专利信息能够反映技术创新活动，专利权人能够代表技术创新主体，专利信息的IPC分类号能够代表技术创新领域，专利功能能够代表创新技术功能，专利申请地能够代表技术创新区域，专利公开日或申请日能够表示技术创新的时间轴[5]。因此，利用专利信息的内容能够对技术创新网络进行测度。
+
+# 3.2基于专利的动态网络元矩阵构建
+
+动态网络分析可以认为是SNA(SocialNetworkAnalysis)和DNA(DynamicNetwork Analysis)理论和方法的延伸，是认知科学、社会网络、多智能体三者的结合。动态网络指标是基于社会网络指标发展而来，包含常规的度、中心性等社会网络指标，并在此基础上拓展了大量指标，丰富了动态网络分析方法，基于这些指标，动态网络分析方法能够解决更多的问题。专利活动属于技术创新活动，它由企业、大学、科研院所及研发个体来完成，因此可以将专利活动看成是由企业、大学或科研院所及研发个体所构成的组织活动，李登杰等[17]使用动态网络分析对组织活动进行计算，计算的方法就是构建元矩阵。
+
+动态网络分析的基础是元矩阵，元矩阵中的实体包含人、知识/资源、任务/事件和组织，实体之间的对应关系构建了相互联系的网络。在动态网络中，节点类包括：主体(Agent)，在网络中起到主导地位的决策者；资源(Resource)，网络用来完成任务的材料或者产品；知识(Knowledge)，表示主体具有认知性能力和技能；任务(Task)，表示主体或者组织的任务或者目标;组织(Organization)，表示具有共同任务的主体的集合;地点(Location)，可以是任务发生的地点也可以是主体所在的地点；时间(Time)，表示任务发生的时间[20]。元矩阵的构成根据本体类的定义不同，其含义也各有不同，本文根据专利信息的本体类构建专利信息元矩阵，用以对专利信息进行分析研究。
+
+专利信息的本体类包含专利权人、IPC、专利功能、专利申请国及专利申请时间，根据专利数据的本体类可以构成一个元矩阵，如表1所示：
+
+表1专利数据元矩阵  
+
+<html><body><table><tr><td>本体类 本体类</td><td>专利权人(主体)</td><td>专利 IPC(知识)</td><td>专利功能(任务)</td><td>申请国(地点)</td><td>申请年(时间)</td></tr><tr><td>专利权人</td><td>技术创新主体</td><td>技术创新领域核心技术</td><td>技术创新领域核心技术功能</td><td>技术创新区域分布</td><td>技术创新过程</td></tr></table></body></html>
+
+结合技术创新网络相关理论，专利权人 $\times$ 专利权人矩阵就构成了技术创新主体网络，专利权人 $\times \mathrm { I P C }$ 矩阵就构成了创新领域技术网络，专利权人 $\times$ 技术功能矩阵就构成了创新领域技术功能网络，专利权人 $\times$ 地点矩阵就构成了区域分布网络，将网络加上时间轴就构成了时间序列。本文利用构建好的专利信息元矩阵对专利数据进行多模分析，利用专利信息对技术创新网络进行测度。
+
+# 3.3动态网络分析中的重要指标
+
+动态网络指标是基于社会网络指标发展而来，包含常规的度、中心性等社会网络指标，并在此基础上拓展了大量指标。动态网络所包含的特色指标数量较多，本文从ORAUser's Guide[21]中摘取以下指标：认知需求(Cognitive Demand)、权威中心性(AuthorityCentrality)、亲密中心性(ClosenessCentrality)、能力(Capabilities)、人力成本(PersonnelCost)、完全度中心性(Total Degree Centrality)、技术独特性(CorrelationDistinctiveness)、技术相似性(Correlation Similarity)和入(出)度中心性(In/Out Degree Centrality)，构建了基于专利的技术创新网络测度指标体系，指标含义如表2所示。
+
+# 3.4技术创新网络测度模型
+
+利用动态网络评价指标构建技术创新网络演化的测度模型，识别专利创新网络的变化，分别对技术创新主体、技术创新领域核心技术、技术创新领域热点技术功能及技术创新区域进行测度，如表3所示。
+
+利用每个组件的认知需求、亲密中心性、权威中心性、能力、人力成本等指标测度行业技术创新主体;利用完全度中心性、认知独特性、认知相似性测度行业技术创新领域核心技术；利用完全度中心性、认知独特性、认知相似性测度行业技术创新领域热点技术功能；利用入度中心性测度技术创新区域分布。
+
+表2动态指标内容  
+
+<html><body><table><tr><td>动态网 络指标</td><td>指标含义</td><td>公式</td><td>公式符号含义</td></tr><tr><td>认知 需求</td><td>识别网络中潜在领导者的指标。该实体 连接最多的人、组织、任务以及事件</td><td>5 PC=Xli +X2i + X3i + X4i + X5si</td><td>Xli、X2i、X3i、X4i、X5i分别表示：创新主体i有 关联的其他创新主体、具有的技术功能、技术功 能相似性、技术独特性和与其他创新主体的依赖 程度</td></tr><tr><td>权威 中心性</td><td>测度节点在网络中的中心性，权威中心性 高的节点发出很多连接，与其连接的节 点也有很多连接</td><td>Xi Ax 入</td><td>Xi表示网络中第i个顶点的权值，A表示网络的 邻接矩阵,入是表示比例的常数</td></tr><tr><td>亲密 中心性</td><td>以距离为概念计算一个节点的中心程度</td><td>Cc(ni)=[∑d(ni,nj)]</td><td>d(ni,nj)为点i和点j之间的最短路径,g是节点数 量，考察创新主体与其他创新主体之间的距离</td></tr><tr><td>能力</td><td>用来探究实体与其他实体的关联程度， 描述实体与其他实体的合作能力</td><td>1 PCi=1 1+e-(RDi-0.5）x10</td><td>i为节点,RD为网络中每个实体的出度中心性</td></tr><tr><td>人力 成本</td><td>主体所拥有的知识、资源及任务的总和, 代表实体在组织中所拥有的成本</td><td>人力成本表示技术创新主体所拥有的 技术合作者、技术及技术功能的总和</td><td></td></tr><tr><td>完全度</td><td>节点的入度中心性和出度中心性之和</td><td>节点的入度中心性和出度中心性之和</td><td></td></tr><tr><td>中心性 技术</td><td></td><td>∑∑（(PTx PT））</td><td>i表示节点,j表示与节点i不同的节点,PT表示</td></tr><tr><td>独特性</td><td>两个主体之间知识的互补程度</td><td>T TD(i,j)</td><td>技术矩阵,T表示技术</td></tr><tr><td>技术 相似性</td><td>两个主体之间知识的相似程度</td><td>(PT,t × PTj,)) F TR(i.i)</td><td>F 表示技术功能</td></tr><tr><td>中心性</td><td>入度为有向网络中连接到某个节点的连 人(出)度接数量，出度为有向网络中从某个节点</td><td>∑x(i,j) ∑x(j)</td><td>i为矩阵的行,j为矩阵的列，m为矩阵的行数,n 为矩阵的列数</td></tr></table></body></html>
+
+表3技术创新网络评价指标体系  
+
+<html><body><table><tr><td>技术创新网 络测度对象</td><td>动态网络指标</td><td>专利动态网络指标内容</td><td>技术创新网络分析内容</td></tr><tr><td rowspan="5">技术创新主体</td><td>认知需求</td><td>技术领域中的潜在领导者，拥有关键技术 及关键技术功能</td><td>技术创新网络中占据主导地位的创新主体</td></tr><tr><td>权威中心性</td><td>专利合作网络中处于核心位置的专利权人</td><td>技术创新网络中处于核心位置的创新主体</td></tr><tr><td>亲密中心性</td><td>专利权人在网络中与其他节点的距离，以距离 为概念计算一个节点的中心程度</td><td>测度创新主体与其他主体亲密程度</td></tr><tr><td>能力</td><td>专利权人与其他专利权人的关联程度,</td><td>测度创新主体与其他创新主体的关联程度，</td></tr><tr><td>人力成本</td><td>表示专利权人的合作能力 专利权人所拥有的技术、专利技术功能</td><td>创新主体的合作能力 创新主体所拥有的创新技术及技术功能</td></tr><tr><td rowspan="3">技术创新领域 核心技术</td><td>完全度中心性</td><td>IPC的入度中心性和出度中心性之和</td><td>测度创新领域核心技术</td></tr><tr><td>技术独特性</td><td>专利权人与其他专利权人IPC的相异程度</td><td>创新主体对技术的相异程度</td></tr><tr><td>技术相似性</td><td>专利权人与其他专利权人IPC 的相似程度</td><td>创新主体对技术的相似程度</td></tr><tr><td rowspan="2">技术创新领域 热点技术功能</td><td>完全度中心性</td><td>技术功能的入度中心性和出度中心性之和</td><td>测度创新领域热点技术功能</td></tr><tr><td>技术独特性</td><td>专利权人与其他专利权人技术功能的相异程度</td><td>创新主体对技术功能的相异程度</td></tr><tr><td>技术创新 区域分布</td><td>入度中心性</td><td>专利申请国的入度中心性</td><td>测度技术创新区域</td></tr></table></body></html>
+
+# 4靶向技术创新网络演化的实证研究
+
+对靶向技术进行详细分解，尽可能列举与生物医药技术主题相关的关键词，从技术领域、技术问题、技术效果和技术手段4个方面组合检索要素，并通过检索结果对检索表达式进行反复修正，最终确定检索表达式为：TS $\scriptstyle  =  \begin{array} { l } { } \\ { } \end{array} $ (targeted AND ("drug delivery” OR“drugrelease"))，以德温特(DII)数据库作为数据源，日期跨度为2006年1月-2014年12月，最终检索得到678 条专利数据，对不相关的专利进行剔除，保留了645条专利数据。通过基于脚本的清洗策略和循环清洗策略对专利数据进行清洗，基于脚本的清洗策略主要解决字段内容相对复杂，结合定义规则进行信息抽取的模式识别方法，运用正则表达式构造识别拆分点;循环清洗策略主要用于简单字段的拆分与抽取。两种清洗策略流程如图1和图2所示：
+
+![](images/a2a3ecfea4df0c58652f67db9e961aa605032cc945d87079677376d1727e2607.jpg)  
+图1脚本清洗策略处理流程
+
+![](images/334f0cb2955acb3fcbc2ae6d4f2062ca618e1a162339866abb1cd00c06658709.jpg)  
+图2循环清洗策略处理流程
+
+# 4.1技术创新主体演化分析
+
+(1）创新主体认知需求
+
+如表4所示，指标值越大，说明该专利权人的研发团队实力越强，该专利权人就可能成为该技术领域的潜在领导者。
+
+表4认知需求指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012 年-2014年</td></tr><tr><td>马萨诸塞州科技研究所</td><td>0.026</td><td>百特医疗用品公司</td><td>0.033</td><td>蔚蓝制药公司</td><td>0.035</td></tr><tr><td>史克必成公司</td><td>0.024</td><td>巴克斯特国际公司</td><td>0.033</td><td>Insert 治疗公司</td><td>0.026</td></tr><tr><td>天佑国际控股有限公司</td><td>0.023</td><td>NAL 制药有限公司</td><td>0.023</td><td>科尼克飞利浦电子公司</td><td>0.015</td></tr><tr><td>Crowiey M M</td><td>0.023</td><td>泰科医疗集团</td><td>0.023</td><td>Anpac 科技有限公司</td><td>0.017</td></tr><tr><td>Keen JM</td><td>0.023</td><td>Bio-Bedst 公司</td><td>0.021</td><td>BioKier公司</td><td>0.017</td></tr></table></body></html>
+
+每个阶段认知需求指标排名靠前的企业都有所不同，并且指标值在各个阶段也都较小(0.05以下)，这说明在靶向技术领域还未出现绝对的领导型企业或者机构。但目前蔚蓝制药公司、Insert治疗公司等企业认知需求较高，说明其拥有较强的研发团队及核心的专利技术，在未来几年的时间内可能成为靶向技术领域的领导者，同时，认知需求指标值有逐年增长的趋势，各阶段最大值由0.026增加到0.036，这说明靶向技术领域的潜在领导者在不久的将来即会出现，当认知需求指标达到0.2时，说明靶向技术领域的领导主体已经出现。
+
+# (2）权威中心性
+
+创新主体权威中心性体现了技术合作领域强强联合的一种趋势，该指标越大，说明该专利权人在合作网络中的地位越高，与其合作的创新主体也具有较高的中心性。
+
+由表5的指标变化可以看出，网络中心节点在每个阶段都有所不同，说明网络中心位置也在不断变化，在2006年-2008年期间，权威中心性高的企业是天佑国际控股有限公司，到了2009 年-2011年，权威中心性指标高的是BernaiJJ等研发个体，到了2012 年-2014 年，蔚蓝制药公司则较为突出，说明这些企业在不同阶段研发范围及合作情况都较广。权威中心性的指标值都集中在0.4以上，说明网络的中心态势较高，技术创新主体之间的交流较为密切。
+
+表5权威中心性指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008 年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012 年-2014年</td></tr><tr><td>天佑国际控股有限公司</td><td>0.522</td><td>Bernai J J, et al</td><td>0.471</td><td>蔚蓝制药公司</td><td>0.620</td></tr><tr><td>Auxilum 制药公司</td><td>0.522</td><td>Lucas G</td><td>0.471</td><td>Fetzer O S</td><td>0.565</td></tr><tr><td>Crowiey MM</td><td>0.522</td><td>CHIMERA 制药公司</td><td>0.471</td><td>Crawford TC</td><td>0.490</td></tr><tr><td>Keen J M</td><td>0.522</td><td>Biazquez A, et al</td><td>0.471</td><td>Reiter LA</td><td>0.490</td></tr><tr><td>Koieng JJ</td><td>0.522</td><td>Castro A, et al</td><td>0.471</td><td>Insert 治疗公司</td><td>0.411</td></tr></table></body></html>
+
+(3）亲密中心性
+
+亲密中心性用以计算一个创新主体在技术创新网络中的中心程度，测度创新主体与其他创新主体在网络中的距离。
+
+如表6所示，在不同阶段指标值高的企业也不相同，这些企业的研发团队之间的合作较为密切，其技术研发依靠其他人的程度较小，共同申请的专利数量较多。从指标值来看，各阶段的指标值相对较小，而上面得到权威中心性指标又较高，这说明目前靶向技术分布较为分散。
+
+表6亲密中心性指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012 年-2014年</td></tr><tr><td>NAT技术研究有限公司</td><td>0.01</td><td>DAVOLTERRA公司</td><td>0.03</td><td>蔚蓝制药公司</td><td>0.01</td></tr><tr><td>新德里大学</td><td>0.01</td><td>巴黎公共援助医院</td><td>0.03</td><td>Fetzer O S</td><td>0.01</td></tr><tr><td>Chaudhuri A</td><td>0.01</td><td>巴黎大学</td><td>0.03</td><td>Crawford TC</td><td>0.01</td></tr><tr><td>Krishnan A</td><td>0.01</td><td>Andremont A</td><td>0.03</td><td>Hwang J</td><td>0.01</td></tr><tr><td>Kumar V V</td><td>0.01</td><td>Keen JM</td><td>0.03</td><td>Insert 治疗公司</td><td>0.01</td></tr></table></body></html>
+
+# (4)能力
+
+能力表示网络中节点之间的关联程度，在本文所构建的专利信息元矩阵中，包含合作网络、技术网络、功能网络，因此能力指标能够衡量专利权人的合作团队实力及研发能力。
+
+如表7所示，这些企业与其他的权利权人联系密切，合作伙伴以及技术研发能力突出。由表7可以看到，排名靠前的技术创新主体的能力指标值都接近1,这说明这些主体在靶向技术领域拥有较为庞大的研发团队。
+
+表7能力指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012 年-2014年</td></tr><tr><td>马萨诸塞州科技研究所</td><td>0.993</td><td>百特医疗用品公司</td><td>0.993</td><td>蔚蓝制药公司</td><td>0.994</td></tr><tr><td>雅培公司</td><td>0.5</td><td>NAL 制药有限公司</td><td>0.9</td><td>Insert 治疗公司</td><td>0.968</td></tr><tr><td>Auxilum 制药公司</td><td>0.5</td><td>泰科医疗集团</td><td>0.816</td><td>Eliasof S</td><td>0.86</td></tr><tr><td>Burke S E</td><td>0.5</td><td>韦恩州立大学</td><td>0.649</td><td>BioKier公司</td><td>0.446</td></tr><tr><td>ChoiDKM</td><td>0.5</td><td>DAVOLTERRA公司</td><td>0.608</td><td>澳大利亚墨尔本大学</td><td>0.43</td></tr></table></body></html>
+
+# (5）人力成本
+
+人力成本指标表示与创新主体相连接的合作者、技术及技术功能的总和。在本文的专利元矩阵中某个
+
+创新主体的人力成本值高，则表示该创新主体所申请专利涉及的技术领域广，所拥有的研发人员多。
+
+从表8可以看出，各个阶段中人力成本较高的企
+
+业变化较大。整体来看，指标值在2009 年-2011年达到最高，在2012年-2014年明显下降，企业排名变化
+
+也比较大。可以看出，这些公司在靶向技术领域的研发人员流动性比较大。
+
+表8人力成本指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008 年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012年-2014年</td></tr><tr><td>Auxilum 制药公司</td><td>0.024</td><td>DAVOLTERRA公司</td><td>0.054</td><td>蔚蓝制药公司</td><td>0.02</td></tr><tr><td>马萨诸塞州科技研究所</td><td>0.024</td><td>百特医疗用品公司</td><td>0.05</td><td>Fetzer O S</td><td>0.014</td></tr><tr><td>雅培公司</td><td>0.02</td><td>犹他大学</td><td>0.05</td><td>Crawford T C</td><td>0.012</td></tr><tr><td>Crowley MM</td><td>0.02</td><td>CHIMERA制药公司</td><td>0.044</td><td>Insert 治疗公司</td><td>0.01</td></tr><tr><td>Keen JM</td><td>0.02</td><td>Bae Y H</td><td>0.044</td><td>Kipke D R</td><td>0.01</td></tr></table></body></html>
+
+# 4.2技术创新领域核心技术分析
+
+技术网络的演化情况如图3所示(实心点代表专利权人，空心点为专利IPC)。2006年-2008年，热点技术领域较多，主要技术领域集中在A61K-047/34、A61K-031/568等领域，其含义为以所用的非有效成分为特征的医用配制品、含有机有效成分的医药配制品;2009年-2011年，由于专利申请量减少，热点技术的研发活动相应减少;2012年-2014年，热点技术领域又增多，主要有 A61P-035/00、C08B-037/16 等，其含义为抗肿瘤药、多糖类及其衍生物。
+
+![](images/5866168b933e9dd135540ee151a32b07e2e7259a8cb17bdcd18bac1404ac0e95.jpg)  
+图3技术网络演化过程
+
+(1)完全度中心性
+
+完全度中心性表示节点入度和出度中心性之和,技术创新网络中可用它衡量核心技术。完全度中心性指标值越高，说明该技术领域是热点技术领域，
+
+如表9所示，从2008年开始，排名靠前的热点技术领域指标值越来越大，2012年-2014年，A61P-35/00的值达到0.489，说明靶向技术领域的研究热点逐年集中，技术也越来越成熟。其中A61K代表医用配制品、A61P代表化合物或药物制剂的特定治疗活性,A61M代表将介质输人人体内或输到人体上的器械。
+
+表9完全度中心性指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009年-2011年</td><td colspan="2">2012年-2014年</td></tr><tr><td>A61K-009/14</td><td>0.035</td><td>A61P-035/00</td><td>0.406</td><td>A61P-035/00</td><td>0.489</td></tr><tr><td>A61P-035/00</td><td>0.0348</td><td>A61K-47/32</td><td>0.319</td><td>A61K-47/48</td><td>0.469</td></tr><tr><td>A61K-047</td><td>0.0306</td><td>A61K-38/00</td><td>0.304</td><td>A61K-009/14</td><td>0.278</td></tr><tr><td>A61K-000/00</td><td>0.0261</td><td>A61K-009/127</td><td>0.281</td><td>A61K-49/00</td><td>0.268</td></tr><tr><td>A61K-039</td><td>0.0246</td><td>A61K-31/00</td><td>0.228</td><td>A61M-37/00</td><td>0.189</td></tr></table></body></html>
+
+(2)技术独特性
+
+技术独特性指标用来测量两个创新主体之间的技术互补程度，在技术创新网络中表示专利权人和其他专利权人所研究的技术领域的相异程度，技术独特性指标越高，说明创新主体的正在研发新的技术领域积极创新。
+
+如表10所示，这些专利权人研发的技术领域相对独特，具有创新性。这些创新主体研究的技术领域相对于其他创新主体相异程度较高，正在谋求技术突破，积极创新。
+
+表10技术独特性指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012 年-2014年</td></tr><tr><td>史克必成公司</td><td>0.105</td><td>百特医疗用品公司</td><td>0.132</td><td>蔚蓝制药公司</td><td>0.119</td></tr><tr><td>马萨诸塞州科技研究所</td><td>0.086</td><td>NAL 制药有限公司</td><td>0.1</td><td>Insert 治疗公司</td><td>0.106</td></tr><tr><td>罗曼公司</td><td>0.082</td><td>柯惠医疗</td><td>0.097</td><td>BAKER股份公司</td><td>0.085</td></tr><tr><td>Auxilum 制药公司</td><td>0.079</td><td>泰科医疗集团</td><td>0.097</td><td>STARPAARM公司 A公司</td><td>0.063</td></tr><tr><td>SYNTHONICS 公司</td><td>0.07</td><td>韦恩州立大学</td><td>0.079</td><td>澳大利亚墨尔本大学</td><td>0.065</td></tr></table></body></html>
+
+# (3）技术相似性
+
+技术相似性指标用来测量两个创新主体之间技术的相似性，在专利信息元矩阵中表示专利权人和其他专利权人所研究的技术领域的相异程度，技术相似性指标越高，说明创新主体与其他创新主体研究的技术领域越相似，可能存在专利侵权或者竞争
+
+的关系。
+
+如表11所示，这些创新主体的技术领域与其他创新主体相似性较高，可能存在竞争关系或者侵权问题。从指标值来看，与技术独特性指标相比，指标值稍小，说明靶向技术领域技术发展尚未成熟，企业之间相似的技术较少。
+
+表11技术相似性指标  
+
+<html><body><table><tr><td colspan="2">2006 年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012年-2014年</td></tr><tr><td>CHIMERACORE公司</td><td>0.061</td><td>桑迪亚集团</td><td>0.065</td><td>复旦大学</td><td>0.073</td></tr><tr><td>CHIMEROS公司</td><td>0.061</td><td>墨西哥大学</td><td>0.065</td><td>乔治亚州立大学</td><td>0.072</td></tr><tr><td>德克萨斯大学</td><td>0.061</td><td>山陶克公司</td><td>0.063</td><td>波士顿儿童医院</td><td>0.068</td></tr><tr><td>特拉维夫大学</td><td>0.058</td><td>詹森生物科技有限公司</td><td>0.063</td><td>马萨诸塞州科技研究所</td><td>0.068</td></tr><tr><td>DAVOLTERRA公司</td><td>0.052</td><td>巴黎公共援助医院</td><td>0.059</td><td>PCI公司</td><td>0.061</td></tr></table></body></html>
+
+# 4.3 技术功能演化分析
+
+技术功能网络的演化过程如图4所示(实心点代表专利权人，空心点为技术功能)。2006年-2008 年阶段的网络结构大多为多个创新主体连接一个技术功能,技术创新主体多而技术功能少;2009年-2011年，创新主体和技术功能都有所减少;2012年-2014年，创新主体和技术功能的数量都有明显增加，说明这个阶段的技术有所突破，取得的技术功能数量明显增多。
+
+![](images/485400e572b7b7738948c7c201af7044a2c1c09596d3fdf6d3b80aba4abdcbb3.jpg)  
+图4技术功能网络演化过程
+
+(1)完全度中心性
+
+如表12所示，技术的应用成果在2006年-2008年，主要集中在医用设备及药物传递等方面；2009年-2011年，主要集中在医用药物的制备等方面;2012年-2014年，主要集中在治疗特殊疾病以及传递药物至病变细胞或组织。
+
+表12完全度中心性指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012年-2014年</td></tr><tr><td>生产目标基因</td><td>0.034</td><td>接种疫苗、治疗、成像</td><td>0.086</td><td>治疗或预防肿瘤</td><td>0.048</td></tr><tr><td>生物医学设备或组织</td><td>0.031</td><td>消除抗革兰氏阴性细菌</td><td>0.076</td><td>治疗疾病癌症、过敏</td><td>0.042</td></tr><tr><td>定向细胞传递药物</td><td>0.028</td><td>核壳粒子形式的胶囊</td><td>0.076</td><td>传递单体药物</td><td>0.042</td></tr><tr><td>生产热熔挤压层压板</td><td>0.025</td><td>具有生物活性的羧酸</td><td>0.067</td><td>传递药物至脑脊液</td><td>0.042</td></tr><tr><td>减少感染和促进愈合</td><td>0.022</td><td>传送药物至特定细胞</td><td>0.067</td><td>治疗实体肿瘤</td><td>0.042</td></tr></table></body></html>
+
+# (2)技术独特性
+
+如表13所示，科尼克飞利浦电子公司的技术独特
+
+性排名靠前且稳定。这些创新主体的技术应用成果相较于其他创新主体具有差异性，具备一定的竞争优势。
+
+表13技术独特性指标  
+
+<html><body><table><tr><td colspan="2">2006年-2008年</td><td colspan="2">2009 年-2011年</td><td colspan="2">2012年-2014年</td></tr><tr><td>马萨诸塞州科技研究所</td><td>0.037</td><td>NANODEX公司</td><td>0.035</td><td>科尼克飞利浦电子公司</td><td>0.029</td></tr><tr><td>科尼克飞利浦电子公司</td><td>0.022</td><td>科尼克飞利浦电子公司</td><td>0.034</td><td>蔚蓝制药公司</td><td>0.027</td></tr><tr><td>西北大学</td><td>0.022</td><td>埃默里大学</td><td>0.034</td><td>Chen Z</td><td>0.024</td></tr><tr><td>美敦力公司</td><td>0.022</td><td>马萨诸塞州科技研究所</td><td>0.034</td><td>爱惜康公司</td><td>0.023</td></tr><tr><td>Rutten JJG</td><td>0.022</td><td>美国医疗卫生服务部</td><td>0.034</td><td>ANPAC 生物医学公司</td><td>0.023</td></tr></table></body></html>
+
+# 4.4 创新区域演化分析
+
+入度为有向网络中连接到某个节点的连接数量，专利申请国作为节点，测度专利申请国家的入度中心性指标，刻画和描述专利权人的区域分布。指标值越大代表该区域专利权人数量越多。
+
+如表14所示，从专利权人的区域分布情况来看，虽然靶向技术领域的专利权人的国家分布比较分散，但美国的指标值明显高于其他国家，并且稳居第一,可见美国在靶向技术领域的创新能力远远大于其他国家。
+
+表14入度中心性指标  
+
+<html><body><table><tr><td>2006 年-2008年</td><td></td><td>2009 年-2011年</td><td>2012 年-2014年</td><td></td></tr><tr><td>US</td><td>0.081</td><td>US</td><td>0.052</td><td>US 0.082</td></tr><tr><td>CA</td><td>0.015</td><td>CA</td><td>0.012 CA</td><td>0.015</td></tr><tr><td>KR</td><td>0.006</td><td>KR</td><td>0.004</td><td>CN 0.008</td></tr><tr><td>WOUS</td><td>0.005</td><td>WOUS</td><td>0.003 KR</td><td>0.008</td></tr><tr><td>EP</td><td>0.004</td><td>EP</td><td>0.003</td><td>EP 0.007</td></tr></table></body></html>
+
+从以上的分析中可以看出，在靶向技术领域内，由专利构建的创新网络发生了变化，表现为在不同的测度指标视角下，一些关键节点渐渐移出了关键位置，同时一些节点的重要性逐渐增加，渐渐成为关键节点：
+
+(1）在对技术创新主体演化的测度中，创新网络的变化反映了在靶向技术领域中技术创新主体及创新能力是在不停变化和更迭的。在不同的测度指标下，一些关键节点变化比较大，说明靶向技术领域的创新主体及其创新能力在不断变化。蔚蓝制药公司和Insert治疗公司在各种测度视角下，随着时间的变迁逐渐处于关键位置，成为主要专利权人，综合来看，其技术创新能力要强于其他专利权人。
+
+(2)在对技术创新领域核心技术的测度中，从各时间段的排序情况看，靶向技术核心技术领域发生了一定的变化，其中 A61P-035/00 排名比较稳定且位列第一，是近几年靶向技术创新领域的研发热点，同时A61K-47/48排名提升，成为新的研发热点。从独特性和相似性指标来看各个阶段的专利权人排名变化较大，且技术独特性指标值相比技术相似性指标值稍大。这说明靶向技术领域技术发展尚未成熟，各个企业正在积极寻求创新。
+
+(3）在对技术功能的测度中，从各阶段的排序情况看，靶向技术领域技术功能变化较大，从指标值来看，各个阶段每种技术功能的指标值都在0.01以上,这说明靶向技术领域的技术所治疗的疾病或者技术功能比较分散，技术应用较为广泛，在技术功能独特性的分析指标中可以看出，科尼克飞利浦电子公司排名比较靠前且稳定，具有独特的技术功能，具备较强的竞争优势。
+
+(4）在对技术创新区域演化的测度中，从各个阶段的排名可以看出，美国在靶向技术领域专利数量最多，其次是加拿大，值得注意的是，近几年中国取代韩国成为专利申请数量排名第三的国家，说明中国在靶向技术领域的创新能力增强，但和美国相比还是有较大的差距，整体来看，核心节点变化不大。
+
+# 4.5小结
+
+本文使用靶向技术领域2006年-2014年之间的专利数据进行实证分析，从分析结果可以看出：国内缺少核心技术，也没有形成具有优势的技术产业。从指标分析可以看出，目前全球研发的靶向技术已经从靶向传递药物技术及生产特定药物技术发展到治疗特定疾病技术，而国内大多停留在药物生产阶段，从动态网络指标值上可以看出，排在前列的都是国外企业，说明国内企业核心技术相比于国外处于落后的地位，技术创新也比不上国外的企业；技术创新由高校及科研院所主导，未形成以企业为核心网络的技术创新网络。从中美技术比较可以看出，国内在靶向技术领域的技术创新主体以高校为主，并不是企业，因此在靶向技术领域尚未形成良好的技术发展模式。
+
+# 5结语
+
+专利文献作为科技创新成果的重要载体，能够充分记录技术发明的成果，揭示技术发展的过程，利用专利信息又可以对技术创新网络的演化进行测度，为企业和政府提供决策支持。本文构建基于专利动态网络的技术创新网络测度模型，丰富了技术创新网络的测度方法。由于动态网络所包含的指标较多，行业技术创新网络演化的测度根据分析者的主观需求选择不同的测度指标与分析组合。
+
+对策建议：企业应该加强核心技术的研发投入，确立自身的技术优势。本文经过知识网络的分析以及指标分析发现，在2006年-2008年期间，核心技术领域涉及的 IPC 主要有 A61K-009/14(细粒状、粉末)、A61P-035/00(抗肿瘤药物)、A61K-047(以所用的非有效成分为特征的医用配制品)等，在2009年-2011年期间核心技术领域主要集中在A61P-035/00(抗肿瘤药物)、A61K-47/32(高分子化合物)、A61K-38/00(含肽的医药配置品)等，在2012年-2014年，核心技术领域主要集中在A61P-035/00(抗肿瘤药物)、A61K-47/48(非有效成分被化学键键合到有效成分上)、A61K-009/14(细粒状、粉末)等，从研发热点上可以看出，在靶向给药系统中，每个环节都是至关重要的，各个国家都在加大不同技术环节的研发，对中国企业而言，这既是机遇又是挑战，在任何一个环节形成自己的核心；主动建立企业间技术创新联盟。根据靶向技术合作网络及指标分析可以看出，国内靶向技术领域研发型技术合作程度低，产业集中低。这样就使得国内专利产品转化率低，因此，需要建立产学研企业联盟，加大专利技术产品转化力度，从而促进企业良性发展，提高企业的效益；合理布局，正确选择投资技术。经过分析可以看出目前全球靶向技术涉及的疾病较多，包括载体及制剂的种类也较多，有些技术虽然发展多年，但仍未有所突破，因此这样的技术投资风险加大。而有些技术投资风险小，同时又可以发展成为自身的技术优势,对于这样的技术应该大力发展。
+
+本文利用靶向技术领域对基于专利动态网络的技术创新网络测度体系进行实证研究，验证其可行性。但研究中仍存在一些不足和有待完善的地方：
+
+(1）构建的专利信息元矩阵还不够全面，应该深度挖掘专利信息的各个字段，建立信息全面的专利信息元矩阵。(2）构建的基于专利网络的技术创新网络测度评价指标不够丰富，动态网络特有评价指标的数量很多，未能更多地将其应用在技术创新网络的测度中。
+
+# 参考文献：
+
+[1]石乘齐，党兴华.技术创新网络演化研究述评及展望[J]．科 技进步与对策，2013,30(7):156-160.(Shi Chengqi,Dang Xinghua.Evolution of the Innovation Network:ALiterature Review and an Agenda for Future Research [J].Science & Technology Progress and Policy,2013,30(7):156-160.)
+
+[2]蒋军锋，党兴华，薛伟贤．技术创新网络结构演变模型: 基于网络嵌入性视角的分析[J]．系统工程，2007，25(2): 11-17.(Jiang Junfeng，Dang Xinghua，Xue Weixian．A Evolutionary Model for Techno-innovation Network Structure: Analysis from the Viewpoint of the Embeddedness of Network[J].Systems Engineering,2007,25(2):11-17.)   
+[3]Koka B R,Prescott JE.The Evolution of Interfirm Networks: Environment Effects on Patterns of Network Change [J]. Academy of Management Review,2006,31(3): 721-737.   
+[4]Rose S, Shipp S,Lal B,et al. Frameworks for Measuring Innovation: Initial Approaches [M]. htp://www.studymode. com/essays/Frameworks-For-Measuring-Innovation-1425052. html.   
+[5]Dudzeviciute G, Tvaronaviciene M. Measurement Framework of Innovation Activity: Theoretical Approaches’Analysis [J]. Journal of Security & Sustainability Issues,2011,1(1): 63-75.   
+[6]彭盾．复杂网络视角下的高技术企业技术创新网络演化研 究[D]．长沙：湖南大学，2010.(Peng Dun．Research on Evolution of Techno-innovation Network in High-tech Industry—Application of Complex Networks [D]. Changsha: Hunan University,2010.)   
+[7]Chang P L,Wu C C,Leu H J. Using Patent Analyses to Monitor the Technological Trends in an Emerging Field of Technology:A Case of Carbon Nanotube Field Emission Display [J]. Scientometrics,2010,82(1): 5-19.   
+[8]Morescalchi A,Pammolli F,Penner O,et al. The Evolution of Networks of Innovators Within and Across Borders: Evidence from Patent Data [J].Research Policy,2015,44(3): 651-668.   
+[9]王燕玲．基于专利分析的行业技术创新研究：分析框架[J]. 科学学研究，2009，27(4):622-628．（Wang Yanling. Technology Innovation Research in Particular Technology Area on the Basis of Patent Analysis:Analysis Framework [J]. Studies of Science of Science,2009,27(4): 622-628.)   
+[10] 刘晓燕，阮平南，李非凡．基于专利的技术创新网络演化 动力挖掘[J]．中国科技论坛，2014(3):136-141．(Liu Xiaoyan,Ruan Pingnan,Li Feifan. Driving Forces of the Technological Innovation Network Evolution Based on Patent [J].Forum on Science and Technology in China, 2014(3): 136-141.)   
+[11] Wu C C. Constructing a Weighted Keyword-based Patent Network Approach to Identify Technological Trends and Evolution in a Field of Green Energy: A Case of Biofuels [J]. Quality & Quantity,2016,50(1): 1-23.   
+[121李茧敏基干专利分析的全球创新网络演化研空——以平
+
+板显示技术领域为例[D].大连：大连理工大学，2013.(Li Yingmin. The Research on the Evolutionary of Global Innovation Network Based on Patent Analysis—Case of Panel Display Technology Field [D]. Dalian: Dalian University of Technology, 2013.)   
+[13]Ribeiro L C,Kruss G, Britto G,et al.A Methodology for Unveiling Global Innovation Networks: Patent Citations as Clues to Cross Border Knowledge Flows [J]. Scientometrics, 2014,101(1): 1-23.   
+[14]刘凤朝，傅瑶，孙玉涛．基于专利的美国技术创新领域分 布结构演变[J]．科学学研究，2013,31(7):1086-1092.(Liu Fengzhao,Fu Yao,Sun Yutao．The Distribution Structure Evolution of the US Technological Innovation Based on the Patent Output [J]. Studies of Science of Science,2013,31(7): 1086-1092.)   
+[15]刘彤，郭鲁钢，杨冠灿．基于动态网络分析的专利合作网 络演化分析——以纳米技术为例[J]．情报杂志，2014, 33(11): 88-93. (Liu Tong， Guo Lugang， Yang Guancan. Evolution of Patent Cooperation Network Based on Dynamic Network Analysis: Taking Nano Technology as an Example [J]. Journal of Intelligence,2014,33(11): 88-93.)   
+[16] 翟东升，孙武，张杰．基于动态网络分析的LTE TDD 技术 专利分析[J]．情报杂志，2014，33(7):63-69.(Zhai Dongsheng,Sun Wu, Zhang Jie.LTE TDD Technology Patent Analysis Based on the Dynamic Network Analysis [J]. Journal of Intelligence,2014,33(7): 63-69.)   
+[17] 李登杰，翟东升，冯秀珍，等．基于动态网络的中药制剂 技术创新网络演化研究[J]．情报学报，2015，34(11): 1164-1172.(Li Dengjie,Zhai Dongsheng，Feng Xiuzhen, et al.Study of the Evolution of Technology Innovation Network in TCM Technology Based on Dynamic Network [J]. Journal of the China Society for Scientific and Technical Information,2015,34(11): 1164-1172.)   
+[18]武建龙，王宏起．基于专利的高新技术企业集群创新网络 结构分析方法及实证[J]．中国科技论坛，2010(8)：74-80. (Wu Jianlong，Wang Hongqi. Research on Innovation Network Architecture of High Technology Enterprises Cluster Based on Patent Analysis [J].Forum on Science and Technology in China,2010(8): 74-80.)   
+[19]孙耀吾．基于技术标准的高技术企业技术创新网络研究 [D]．长沙：湖南大学,2007.(Sun Yaowu.The Research on Technological Innovation Network of High-Tech Enterprises [D]. Changsha: Hunan University, 2007.)   
+[20]Carley K M.Dynamic Network Analysis [M].Alphascript Publishing,2003:1-13.
+
+[21]Carley K M,RemingaJ,Storrick J,et al.ORAUser's Guide [C].In:Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.2009.
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 作者贡献声明：
+
+# 支撑数据：
+
+翟东升：提出研究思路，设计研究方案;  
+王猛：采集、清洗数据，进行实验，起草论文;  
+张杰：设计研究方案;  
+孙武，王猛：论文最终版本修订。支撑数据见期刊网络版http://www.infotech.ac.cn。  
+[1]王猛.Patent.xlsx.靶向技术专利数据.
+
+收稿日期:2016-06-21  
+收修改稿日期:2016-10-16
+
+# Measuring Technological Innovation Network Evolution of Targeting Technology
+
+Zhai DongshengWang MengZhang JieSun Wu (School of Economics and Management, Beijing University of Technology,Beijing 100124, China)
+
+Abstract:[Objective]This paper aims to quantitatively analyze the targeting technological innovation network with patent data,and then measure its evolution from diferent perspectives.[Methods] First, we colected patent dataof targeting technology from the Derwent Innovations Index Database.Second,we applied the patent dynamic network analysis index to the technological inovation network analysis.Finall, we built the evolution measurement system based on the technological innovation network.[Results]We analyzed the four measurements of the technological innovation network and then presented the developmentsand technology hot-spots.[Limitations] More in-depth researchis needed to expand the evaluation index of the technological inovation network.[Conclusions]The proposed method could effectively measure the trends of technological innovation network evolution.
+
+Keywords: Technology innovation network Dynamic networkPatentNetwork evolution

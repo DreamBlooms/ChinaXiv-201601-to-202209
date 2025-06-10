@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "2000—2015年伊犁河谷植被覆盖时空变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙国军¹，李卫红²，朱成刚²，崔东³，刘海军³(1 甘肃政法大学环境法学院,甘肃 兰州730070；2中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;3伊犁师范大学生物与地理科学学院,新疆 伊宁835000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用2000—2015年的EOS／MODIS数据，采用趋势分析、Hurst指数、变异系数法对伊犁河谷植被时空变化及未来趋势进行分析，结果显示：空间分布上，伊犁河谷植被覆盖度呈北部、南部、东部偏高，西部、中部偏低的分布特征；时间变化上，2000—2015年，伊犁河谷植被覆盖度波动减小，减速为 $6 . 2 5 \\% \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 }$ ;区域分布上，伊犁河谷植被表现为低波动变化，波动程度中等以及下占$7 3 . 1 6 \\%$ ，波动程度高的区域占 $2 6 . 8 4 \\%$ 。未来预测表明，伊犁河谷植被覆盖呈退化趋势，其中，持续退化的面积占 $5 7 . 5 5 \\%$ ,持续改善的面积占 $1 3 . 5 1 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：伊犁河谷；时空变化；植被覆盖；趋势分析文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被是陆地生态系统最重要的组成部分，是评估气候和陆地生态系统相互作用的关键指标。植被类型、数量、质量的时空变化特征，不同程度的反映了地表植被的变化过程[]。同时,排除人类活动干扰的情况下，在一定程度上反映了本地区气候变化状况，这在干旱、半干旱地区尤其高度敏感。植被覆盖度作为评估植被生长状况的综合性指标，是指一定的研究区域内，植被地上部分(包括叶、茎、枝)的垂直投影面积占这一研究区总面积的百分比，它不仅是地表植被群落生长态势重要的参考指标，同时，其时空变化对生态环境演变起到重要的指示作用，是全球环境变化的一个关键组成部分，在大气圈、水圈、土壤圈、生物圈中占据着重要的作用[2-3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度测量的方法主要包括目估法、样方法、样带法、样点法，这些方法的主要缺点是主观性太强，成本高，提取大范围内植被覆盖度受限4。遥感技术因其能在大范围内检测植被覆盖度而得到广泛应用。其中，利用植被指数近似的估算植被覆盖成为有效的方法。归一化植被指数(NDVI可以在较大尺度上客观反映植被覆盖的信息，最为常用的表征植被状况的指标[5]。近30a来，国内外众多学者利用长序列的NDVI数据，从全球、大洲、国家和地区尺度对地表植被覆盖的变化进行了深入研究[6-10]。已有研究指出,北半球中纬度地区植被覆盖呈现增加的趋势[1],中亚植被覆盖变化趋势以持续性增加为主[12],中国西北干旱区植被覆盖整体增加[13],新疆植被覆盖变化微弱减小[9],这些研究成果从宏观尺度上很好地揭示了植被覆盖总体变化特征，由于植被覆盖受到自然和人为因素的共同作用，其空间分布上具有显著的差异性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆位于中国西北部，欧亚大陆腹地，地处丝绸之路核心地带，战略地位十分重要，是联系中国与亚欧诸国的重要纽带。伊犁河谷是新疆西部重要的生态屏障，也是新疆主要的农业和畜牧业基地。近年来，由于全球气候变化和人类活动的不断加剧，该地区植被覆盖发生了巨大变化。目前，利用遥感数据对伊犁河谷植被覆盖做了大量的研究，闰俊杰等[14利用2000—2010年的MODIS／NDVI的数据分析发现，伊犁河谷植被覆盖整体下降趋势明显。王倩等[15]利用2000—2013年的MODIS／NDVI的数据，结合同期气温和降水数据，研究发现气候暖干化是植被退化的主要原因。王洪亮等[利用2000一2014年MODIS／NDVI的数据，研究发现15a年伊犁河谷植被覆盖经历了“先衰退后缓慢恢复”",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "过程。这些研究主要针对伊犁河谷NDVI均值分析，不能具体反映某些区域植被覆盖的动态变化，针对伊犁河谷植被覆盖变化趋势预测较少。基于此,选取EOS／MODIS数据集,通过趋势分析、Hurst指数、变异系数等多种方法对伊犁河谷植被的时空变化、趋势变化进行研究，为更好认识伊犁河谷生态环境状况和变化趋势，制定相应的生态保护对策提供科学支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "伊犁河谷 $( 4 2 ^ { \\circ } 1 4 ^ { \\prime } 1 6 ^ { \\prime \\prime } { \\sim } 4 4 ^ { \\circ } 5 0 ^ { \\prime } 3 0 ^ { \\prime \\prime } \\mathrm { N }$ $8 0 ^ { \\circ } 0 9 ^ { \\prime } 4 2 ^ { \\prime \\prime } .$ ）$8 4 ^ { \\circ } 5 6 ^ { \\prime } 5 6 ^ { \\prime \\prime } \\mathrm { E }$ )地处中国天山山脉西部地区，东部与塔城地区、巴音郭楞蒙古自治州相连，南部与阿克苏相邻，西部与哈萨克斯坦共和国接壤，北部与博尔塔拉蒙古自治州相邻。其东西距离约为 $3 6 0 \\mathrm { k m }$ ，南北距离约为 $2 7 5 ~ \\mathrm { k m }$ ,国土面积为 $5 . 5 3 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 。多年平均气温在 $3 . 5 \\sim 9 . 8 { \\mathrm { ~ } } ^ { \\circ } { \\mathrm { C } }$ 之间，多年平均降水量在224.4\\~504.5 mm之间变化[17]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "伊犁河谷包含昭苏县、特克斯县、新源县、巩留县、尼勒克县、察布查尔锡伯族自治县、伊宁县、霍城县、伊宁市8县1市(图1)。伊犁河谷天然草地面积约为 $3 . 7 1 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占新疆草地的 $6 . 3 8 \\%$ 。草地类型多样，主要包括山地草甸、高寒草甸、温性草原、温性草甸草原、温性荒漠草原、温性荒漠和热性灌草丛等[14]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感数据来源于美国国家航空局NASA的EOS／MODIS数据中MODISA1数据产品，该产品空间和时间分辨率分别为 $5 0 0 \\mathrm { ~ m ~ }$ 和16d，时间序列",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "80E 81E 82E 83E 84E 85E霍城县 伊宁县  \n44N 伊宁市 尼勒克县 44N察布查尔锡伯族自治县 巩留县 新源县  \n43N 43N特克斯县 图例昭苏县 DEM/m0 80km 高：6301  \n42N L 低：478 42N80E 81E 82E 83E 84E 85E",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为2000年1月 $\\sim 2 0 1 5$ 年12月，每年23期数据，共计368期。首先利用MRT工具对所下载数据进行批量的拼接，投影和格式转换，获取质量可靠的数据集。然后利用伊犁河谷行政区划图，对数据集进行裁剪，在ArcGIS10.0中将DN值转换为[-1,1]之间的NDVI标准值,最后利用最大合成法[18],提取每月的最大NDVI值。之后，以一年内各个月NDVI数据为基础数据源，提取该年的月最大NDVI,该年的月最大NDVI值代表当年植被生长的最好状况，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1植被覆盖年际变化趋势分析",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns l o p e = \\frac { \\displaystyle { n \\times \\sum _ { i = 1 } ^ { n } i \\times N D V I _ { i } } - \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } N D V I _ { i } } { \\displaystyle { n \\times \\sum _ { i = 1 } ^ { n } i ^ { 2 } } - \\left( \\sum _ { i = 1 } ^ { n } i \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $i$ 为年份，取值范围为 $( 1 \\sim 1 6 )$ ； $N D W _ { i }$ 为第 $i$ 年最大植被覆盖度；slope为斜率，表示 $N D W$ 在研究时段内增加或者减小的趋势。当 $s l o p e > 0$ ，表明研究时段内NDVI呈增加趋势，说明植被朝着向好的趋势方向发展；当 $s l o p e < 0$ ,表明研究时段内NDVI呈减小趋势,说明植被朝着退化的趋势方向发展[1,19]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Hurst指数Hurst指数又称R/S分析法，它是基于长时间序列的记忆分析方法，实际上是重新标度的极差分析。该理论首先由英国水文学家Hurst于1951年提出，由于该方法可反映变量将来对现有状态的持续性，因此，在水文学、气候学、地质学等多个学科领域应用较为广泛[20]。其计算过程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "给定时间序列 $\\left\\{ \\xi ( t ) , t = 1 , 2 , \\cdots , n \\right\\}$ ,对于任意的正整数 $\\tau$ ,定义均值序列：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\xi \\rangle _ { \\tau } = \\frac { 1 } { \\tau } \\underset { t = 1 } { \\overset { \\tau } { \\sum } } \\xi ( t ) , t = 1 , 2 , \\cdots , n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\left. \\xi \\right. _ { \\tau }$ 为 $\\tau$ 时段内 $N D V I$ 的平均值; $\\tau$ 为研究时段； $\\mathbf { \\chi } _ { t }$ 为年份，取值范围为( $( 1 \\sim 1 6 )$ ; $\\xi ( t )$ 为第 $\\mathbf { \\chi } _ { t }$ 年的NDVI值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "累计离差：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX \\big ( t , \\tau \\big ) = \\sum _ { u = 1 } ^ { t } \\big ( \\xi \\big ( u \\big ) - \\big \\langle \\xi \\big \\rangle _ { \\tau } \\big ) , 1 \\leqslant t \\leqslant \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $X ( t , \\tau )$ 为 $\\mathbf { \\chi } _ { t }$ 年内累计离差; $u$ 为年份，取值范围为 $( 1 \\sim 1 6 )$ ; $\\xi ( u )$ 为第 $\\boldsymbol { u }$ 年的NDVI的值;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "极差：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( \\tau ) = \\operatorname* { m a x } _ { 1 \\leqslant t \\leqslant \\tau } X ( t , \\tau ) - \\operatorname* { m i n } _ { 1 \\leqslant t \\leqslant \\tau } X ( t , \\tau ) = 1 , 2 , \\cdots , n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $R ( \\tau )$ 为 $\\tau$ 时段内极差; $\\operatorname* { m a x } _ { 1 \\leqslant t \\leqslant \\tau } X \\big ( t , \\tau \\big )$ 为 $\\tau$ 时段",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内 NDVI最大值, $\\operatorname* { m i n } _ { 1 \\leqslant t \\leqslant \\tau } X \\big ( t , \\tau \\big )$ 为 $\\tau$ 时段内NDVI最小值； $\\mathbf { \\chi } _ { t }$ 为年份，取值范围为( $( 1 \\sim 1 6 )$ ； $\\tau$ 为年份，取值范围为 $( 1 \\sim 1 6 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准差：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( \\tau ) = \\left[ \\frac { 1 } { \\tau } \\sum _ { t = 1 } ^ { \\tau } \\Bigl ( \\xi \\bigl ( t \\bigr ) - \\bigl \\langle \\xi \\bigr \\rangle _ { \\tau } \\Bigr ) ^ { 2 } \\right] ^ { \\frac { 1 } { 2 } } \\tau = 1 , 2 , \\cdots , n\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $S ( \\tau )$ 为研究 $\\tau$ 时段NDVI的标准差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hurst指数：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { R ( \\tau ) } { S ( \\tau ) } \\infty ( \\tau ) ^ { H }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若存在公式(6),则说明时间序列 $\\{ \\xi ( t ) \\}$ 存在Hurst现象， $H$ 值即为Hurst指数。对公式(6)两边取对数 $\\mathrm { ~ \\bar { \\Phi } ~ } ] _ { \\mathrm { n } } ( R / S ) , \\ln ( \\tau ) \\mathrm { ~ \\bar { \\Phi } ~ }$ ,可通过最小二乘法拟合，得到 $H$ 值。不同的 $H$ 值对应不同的时间序列趋势变化[21]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1当 $0 < H < 0 . 5$ 时，说明未来变化趋势与过去相反，即具有反持续性， $H$ 值越接近于0,其反持续性越强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)当 $H = 0 . 5$ 时，说明时间是随机序列，是完全独立的。表明未来趋势变化与过去无关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3当 $0 . 5 < H < 1$ 时，说明未来变化趋势与过去变化趋势一致， $H$ 值越接近于1,持续性越强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3NDVI年际变化的空间差异分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC V = { \\frac { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } { \\frac { \\left( x _ { i } - { \\overline { { x } } } \\right) ^ { 2 } } { n } } } } } { \\overline { { x } } } \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中;i为年份,取值范围为 $( 1 \\sim 1 6 ) ; n$ 取值为16; $x _ { i }$ 为第 $i$ 年的NDVI值; $\\mathbf { \\Pi } _ { x } ^ { - }$ 为 $1 6 \\mathrm { ~ a ~ }$ 内NDVI平均值。 $C V$ 表示植被变异系数，它是度量植被空间变异程度大小的统计指标，其值越大，表明植被指数空间分布越离散，植被空间变化波动性越大，对应植被变化时序越不稳定；相反，其值越小，表明植被指数分布越集中，时序较为稳定[22]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1伊犁河谷植被覆盖度的空间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据研究区2000—2015年NDVI的平均值，参考张宝庆等[23]、张宏斌等[24]对NDVI与植被覆盖之间关系的划分标准，即，当NDVI值介于 $( 0 . 0 \\sim 0 . 4 ]$ 时，表明植被状况较差;当NDVI值介于 $( 0 . 4 \\sim 0 . 6 ]$ 之间，表明植被处于良好状态，为中等水平；当NDVI值介于( $( 0 . 6 \\sim 1 . 0 ] \\$ 之间,表明植被处于较好状态，对",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/99d29ed1448ca1cece58ce94ba5ddc006cf91c6eb2e01e411ce50acb85cd610a.jpg",
+        "img_caption": [
+            "图22000—2015年伊犁河谷NDVI平均值空间分布Fig.2 Spatial distribution of mean $N D W I$ in Ili RiverValley from 2000 to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表12000—2015年伊犁河谷NDVI平均值分级统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/411e023e3022d7e12a02e121ccabfc55ad04a8e1e1718f81f139fd885586abfd.jpg",
+        "table_caption": [
+            "Tab.1 Classification statistics of mean NDVI in IliRiver Valleyfrom 20o0 to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分级范围</td><td>面积/km²</td><td>百分比/%</td><td>累计百分比/%</td></tr><tr><td>0.0~0.4</td><td>6 382.44</td><td>12.75</td><td>12.75</td></tr><tr><td>0.4~ 0.6</td><td>8 065.37</td><td>16.11</td><td>28.86</td></tr><tr><td>0.6~ 1.0</td><td>35 606.51</td><td>71.14</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NDVI平均值进行分级（图2)，统计结果见表1。伊犁河谷植被状况较差的区域面积为 $6 \\ 3 8 2 . 4 4 \\ \\mathrm { k m } ^ { 2 }$ ，占总面积的 $1 2 . 7 5 \\%$ ,主要分布在伊犁河谷温性荒漠草原区，海拔高于 $3 5 0 0 \\mathrm { m }$ 的北天山、中天山、南天山等地区[14.25];植被处于中等状态的面积为 $8 \\ 0 6 5 . 3 7 ~ \\mathrm { k m } ^ { 2 }$ 占总面积的 $1 6 . 1 1 \\%$ ，主要分在温性草原区；植被处于较好状态的面积为 $3 4 \\ 6 0 6 . 4 9 \\ \\mathrm { k m } ^ { 2 }$ ，占总面积的$7 1 . 1 4 \\%$ ,主要分布在昭苏县、特克斯县、巩留县、新源县、尼勒克县、伊宁县、霍城县海拔在2000\\~2500$\\mathrm { ~ m ~ }$ 范围内。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "伊犁河谷NDVI空间分布上具有明显的规律变化特征，即，植被覆盖度呈北部、南部和东部偏高，西部、中部偏低的空间分布。伊犁河谷东、南、北均为高山环绕，成喇叭口形状，向西面敞开。因受到来自大西洋和北冰洋的西风环流的影响，自西向东，随海拔升高，形成较为典型的地形雨。河谷区降水少，年平均降水量在 $2 0 0 \\sim 3 0 0 \\mathrm { m m }$ ,山区降水量在 $6 0 0 \\sim 8 0 0 ~ \\mathrm { m }$ ，甚至更多。因此，中西部低海拔区植被稀疏，而北部、东部、南部海拔较高的山谷地带,植被丰富[25-26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2伊犁河谷植被覆盖度的时间分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1伊犁河谷NDVI时间变化特征 对过去16a伊犁河谷NDVI的时间变化分析表明，2000—2015年伊犁河谷NDVI呈波动减小趋势（图3），逐年ND$\\boldsymbol { { W } }$ 平均值在 $0 . 5 8 \\mathrm { \\sim } 0 . 6 8$ 之间波动变化，减速为$6 . 2 5 \\% \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 }$ 。NDVI最小值出现在2014年，其对应的NDVI值为0.58,NDVI最大值出现在2003年，其对应的NDVI值为 $0 . 6 8$ 。16a来，伊犁河谷植被NDVI变化可以分为5个上升阶段和4个下降阶段，其中，2003年、2007年、2010年、2013年、2015年出现波峰，而2000年、2006年、2008年、2012年和2014年出现波谷。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6fa0bf622e2e1a11655eec7a239b54fc789c5facdd6eb5a90cc0db93c598c03.jpg",
+        "img_caption": [
+            "Fig.3Annual variation of rainfall,temperature and NDVI in Ili River Valley from 2OoO to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水热条件的年际变化是影响植被NDVI变化的重要因素。逐年NDVI与年均气温和降水趋势变化表明，降水的波动与NDVI的波动基本一致，年降水量越少，植被覆盖度越低。水资源短缺的干旱区，水分是植被生长的主要限制因子，植被对降水年际变化的敏感性更强[25]；温度的波动与NDVI的波动步调相反。气温升高加速潜在的蒸散发，加速土壤水分流失，使得植被生长受到潜在胁迫，生长发育速度受限，阻碍植被的生长。除此之外，人为因素的干扰也是NDVI减少的重要原因。伊犁河谷草地因过渡超载放牧加速草地退化。统计表明，2001—2015年，15a内伊犁河谷牲畜存栏量增长了$1 9 . 4 3 \\%$ ，严重超载；土地利用类型呈现较大的变化，耕地、建设用地增加，林地、草地及未利用土地持续减少，其中，1990—2014年， $2 5 \\mathrm { ~ a ~ }$ 内耕地增长高达$5 9 . 3 0 \\%$ ,草地以 $1 0 4 . 6 9 \\mathrm { k m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 的速度递减[27]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2伊犁河谷NDVI的区域分异特征依据刘洋等[9对NDVI值的变异系数 $( C V )$ 值划分标准，对研究区NDVI进行5个等级的划分（图4)，统计结果见表2。图4和表2表明，2000—2015年伊犁河谷植被整体表现为低波动变化趋势。其中，波动程度中等及以下占 $7 3 . 1 6 \\%$ ，主要分布在伊犁河谷山区，植被类型为山地草甸、高寒草甸和原始森林。高寒草甸和原始森林受到人类活动干扰较小，变异程度最小，山地草甸是夏牧场，受到人类干扰大，过渡超载放牧致使草地退化，因此，植被覆盖波动变化大25；波动程度高的区域占 $2 6 . 8 4 \\%$ ，主要分布在海拔高度在$0 { \\sim } 1 ~ 5 0 0 ~ \\mathrm { m }$ 之间的巩乃斯河、特克斯河、伊犁河周边区，以及山体的阳坡。这些区域植被变化较大的原因是，2000年以来，巩乃斯河、特克斯河、伊犁河周边区域土地资源被大量的开垦，造成变化波动大。阳坡地区，因受到降雨不稳定性的影响，植被变化也较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1c03c9f722aeb1f940accff723dff4d78667d367d35286408ef38b74f7219d6.jpg",
+        "img_caption": [
+            "图32000—2015年伊犁河谷的年降水量、气温、NDVI变化",
+            "图42000—2015年伊犁河谷年均NDVI变异程度Fig.4Annual variations of NDVIinIli River Valley from2000 to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6803aaf93256878ae5294f21c4ca37fb65e52abaa0c7bda5380a645f035c629.jpg",
+        "table_caption": [
+            "表22000—2015伊犁河谷NDVI变异系数",
+            "Tab.2Coefficient of variation of NDVIin Ili River Valley from 2000 to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>CV</td><td>变异程度</td><td>百分比/%</td><td>累计百分比/%</td></tr><tr><td>0.00~ 0.05</td><td>低波动变化</td><td>26.83</td><td>26.83</td></tr><tr><td>0.05~0.10</td><td>相对低的波动变化</td><td>30.78</td><td>57.61</td></tr><tr><td>0.10~0.15</td><td>中等波动变化</td><td>15.55</td><td>73.16</td></tr><tr><td>0.15~ 0.20</td><td>相对高的波动变化</td><td>11.25</td><td>84.41</td></tr><tr><td>>0.20</td><td>高波动变化</td><td>15.59</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3伊犁河谷植被覆盖度的变化趋势分析在像元尺度上统计分析伊犁河谷地区2000—2015年植被NDVI变化趋势,结合Slope指数和显著性检验，绘",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf71c526ad73136eb820913fc54fc429382cf16f0ff9a91949dcb250da3b93a2.jpg",
+        "img_caption": [
+            "图52000—2015年伊犁河谷植被覆盖变化趋势及显著性水平"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表32000—2015年伊犁河谷植被显著性水平及其比例",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b06a2301c38bff0730738fdbb273a527cc254f0f24786ed36f04107cdb61f8f1.jpg",
+        "table_caption": [
+            "Tab.3Significance level and proportion of vegetation in Ili River Valley from 2000 to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变化类型</td><td>slope</td><td>显著性水平</td><td>百分比/%</td></tr><tr><td>极显著性增大</td><td>>0</td><td>极显著性(P<0.01)</td><td>3.28</td></tr><tr><td>显著性增大</td><td>>0</td><td>显著性(P<0.05)</td><td>2.14</td></tr><tr><td>不显著性增大</td><td>>0</td><td>不显著</td><td>17.68</td></tr><tr><td>极显著性减小</td><td><0</td><td>极显著性(P<0.01)</td><td>22.31</td></tr><tr><td>显著性减小</td><td><0</td><td>显著性(P<0.05)</td><td>14.65</td></tr><tr><td>不显著性减小</td><td><0</td><td>不显著</td><td>39.94</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "制植被覆盖变化显著性水平(图5),统计结果见表3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伊犁河谷植被整体呈退化趋势。植被减少的面积占 $7 6 . 9 0 \\%$ ，主要分布在霍城县、伊宁县、巩留县、新源县、特克斯县和昭苏县高海拔地区。植被增加的面积占 $2 3 . 1 0 \\%$ ,主要分布在察布查尔县、伊宁县和伊宁市南北低缓山坡地带。主要原因为2000年以来伊犁河谷南岸、北岸大渠的修建和使用，低缓山坡地春、秋草牧场开垦为耕地、果园等农业用地，人工植被的增加是引起这些地区植被极显",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "著性增大的主要原因[25]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于Hurst分析法，按照 $\\mathrm { H u r s t } { > } 0 . 5$ （植被未来变化趋势与过去相反)和 $\\mathrm { H u r s t } { < } 0 . 5$ (植被未来变化趋势与过去一致)的标准[21],得到2000—2015年伊犁河谷NDVI的Hurst指数空间分布图，为了预测未来变化的持续性和反向持续特征，将 Slope 指数和Hurst指数进行叠加，得到植被覆盖未来变化趋势图(图6)，统计结果见表4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伊犁河谷植被覆盖变化趋势较为复杂，空间上，植被覆盖持续性和反向持续性变化相间分布明显。Hurst指数 $< 0 . 5$ 的像元占 $2 8 . 9 0 \\%$ ， $> 0 . 5$ 的占$7 1 . 1 0 \\%$ ，说明伊犁河谷植被覆盖未来变化趋势与过去变化趋势一致，而相反趋势变化不明显(图6)。伊型河谷地区植被持续退化的面积占 $5 7 . 5 5 \\%$ ,主要分布在北天山，中天山和南天山高海拔区，行政隶属于霍城县、伊宁县、巩留县、新源县、特克斯县和昭苏县的高山地区。降水减少和气温升高对森林、草原的生长产生较强的抑制作用，导致植被覆盖降",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3b18a0f69da83851c08f0635f92fc60dc034c18402bdc8dd7c44dced35f7a61.jpg",
+        "img_caption": [
+            "Fig.5Trendofvegetationcoverchangesand significancelevelofvegetationcoverchangesinIiRiverValleyfrom2O00 to 20 ",
+            "图6伊犁河谷植被Hurst指数、植被未来趋势",
+            "Fig.6Hurst vegetation index and future vegetation trend in Ili River Valley "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4伊犁河谷植被未来趋势变化面积比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/43780a79246741736b12f01f7053ad56d6d2656a1995346d0ae85819a5ab8f1b.jpg",
+        "table_caption": [
+            "Tab.4 Area ratio of future trend change of vegetation in Ili River Valley "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变化类型</td><td>slope</td><td>Hurst指数</td><td>百分比/%</td><td>累计百分比/%</td></tr><tr><td>改善-退化</td><td>>0</td><td>0.0<H<0.5</td><td>9.59</td><td>9.59</td></tr><tr><td>持续改善</td><td>>0</td><td>0.5<H<1.0</td><td>13.51</td><td>23.10</td></tr><tr><td>退化-改善</td><td><0</td><td>0.0<H<0.5</td><td>19.35</td><td>42.45</td></tr><tr><td>持续退化</td><td><0</td><td>0.5<H<1.0</td><td>57.55</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "低[28]；持续改善的面积占 $1 3 . 5 1 \\%$ ,主要分布在伊犁河流域新开垦地区，近 $1 0 \\mathrm { a }$ 来，伊犁河南岸和中天山西端的乌孙山北麓的倾斜平原区，人工复垦导致植被盖度增大[29]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文选用2000—2015年的空间分辨率 $5 0 0 \\mathrm { ~ m ~ }$ EOS／MODIS数据，通过最大合成法对伊型河谷植被的时空变化、趋势变化分析研究，主要结论如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）伊犁河谷植被覆盖度呈北部、南部、东部偏高，西部、中部偏低的空间分布特征。伊犁河谷植被状况较差的面积为 $6 \\ 3 8 2 . 4 4 \\ \\mathrm { k m } ^ { 2 }$ ，占总面积的$1 2 . 7 5 \\%$ ,植被状况较好的面积为 $3 4 6 0 6 . 4 9 \\mathrm { k m } ^ { 2 }$ ，占总面积的 $7 1 . 1 4 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）伊犁河谷NDVI时间变化特征表明，伊犁河谷植被NDVI呈波动减小趋势，NDVI逐年平均值在$0 . 5 8 \\sim 0 . 6 8 \\$ 之间波动变化,减速为 $6 . 2 5 \\% \\cdot ( 1 0 \\mathrm { ~ a } ) ^ { - 1 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）伊犁河谷NDVI的区域分异分析表明，伊犁河谷植被整体表现为低波动变化趋势。其中，波动程度中等以及下占 $7 3 . 1 6 \\%$ ，波动程度高的区域占$2 6 . 8 4 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）伊犁河谷NDVI的趋势分析表明，伊犁河谷植被整体呈退化趋势。植被增加的面积占 $2 3 . 1 0 \\%$ ，其中,极显著性增大的占 $3 . 2 8 \\%$ 。植被减少的面积占 $7 6 . 9 0 \\%$ ,其中,极显著性减小的占 $2 2 . 3 1 \\%$ ○",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）伊型河谷Hurst指数研究表明，伊型河谷植被整体保持现有的变化趋势。持续退化的面积占$5 7 . 5 5 \\%$ ,持续改善的面积占 $1 3 . 5 1 \\%$ 。未来变化趋势与过去变化趋势一致占 $7 1 . 1 0 \\%$ ，与过去变化趋势不一致占 $2 8 . 9 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] LI Z,CHEN Y N,LI W H,et al.Potential impacts of climate change on vegetation dynamics in Central Asia[J]. Journal of Geo",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "physical Research Atmospheres,2015,120(9): 2045-2057.   \n[2]穆少杰,李建龙,陈奕兆,等.2001—2010年内蒙古植被覆盖度 时空变化特征[J].地理学报,2012,67(9):1255-1268.[MU Shaojie,LI Jianlong,CHEN Yizhao,etal. Spatial differences of variations of vegetation coverage in Inner Mongolia during 2OO1—2010 [J].Acta Geographica Sinica,2012,67(9): 1255-1268.]   \n[3]PENG J, LIU Y H, SHEN H, et al.Vegetation coverage change and associated driving forces in mountain areas of northwestern Yunnan, China using RS and GIS[J]. Environmental Monitoring and Assessment, 2012, 184(8): 4787 - 4798.   \n[4]李苗苗,吴炳方,颜长珍,等.密云水库上游植被覆盖度的遥感 估算[J].资源科学,2004,26(4):153-159.[LI Miaomiao,WU Bingfang,YAN Changzhen,et al. Estimation of vegetation fraction in the upper basin of Miyun Reservoir by remote sensing[J]. Resources Science,2004,26(4): 153- 159.]   \n[5]PARUELO JM, EPSTEIN H E,BURKE W L IC.ANPP estimates from NDVI for the central grassland region of the United States[J]. Ecology,1997,78(3): 953-958.   \n[6]ZOUNGRANA J B,CONRAD C,THIEL M,et al. MODIS NDVI trends and fractional land cover change for improved assessments of vegetation degradation in Burkina Faso,West Africa[J]. Journal of Arid Environments,2018,153: 66- 75.   \n[7]LIN Q H, SUN LR, WANG X Z,et al. Spatio-temporal variation of vegetation NDVIin China from 2001 to 2011[J].Advanced Materials Research,2012,610- 613: 3752-3755.   \n[8]CHEN Y L, LONG B J,PAN X B,et al. Differences between MODIS NDVI and AVHRR NDVI in monitoring grasslands change[J]. Journal of Remote Sensing,2011,15(4): 831- 845.   \n[9]刘洋,李诚志,刘志辉,等.1982—2013年基于GIMMS-NDVI的 新疆植被覆盖时空变化[J].生态学报,2016,36(19):6198- 6208.[LIU Yang,LI Chengzhi, LIU Zhihui,et al. Assessment of spatio-temporal variations in vegetation cover in Xinjiang from 1982 to 2013 based on GIMMS-NDVI[J].Acta Ecologica Sinica, 2016,36(19): 6198- 6208.]   \n[10] 赵安周,刘宪锋,朱秀芳,等.2000—2014年黄土高原植被覆盖 时空变化特征及其归因[J].中国环境科学,2016,36(5):1568- 1578.[ZHAO Anzhou,LIU Xianfeng, ZHU Xiufang,et al. Spatiotemporal analyses and associated driving forces of vegetation coverage change in the Loess Plateau[J]. China Environmental Science,2016,36(5): 1568- 1578.]   \n[11] TUCKER C J, SLAYBACK D A,PINZON JE,et al. Higher northern latitude normalized difference vegetation index and growing season trends from 1982 to 1999[J]. International Journal of Biometeorology,2001,45(4): 184- 190.   \n[12]邓兴耀,姚俊强,刘志辉.基于GIMMS NDVI的中亚干旱区植 被覆盖时空变化[J].干旱区研究,2017,34(1):10-19.[DENG ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Xingyao,YAO Junqiang，LIU Zhihui.Spatiotemporal dynamic change of vegetation coverage in arid regions in Central Asia based on GIMMSNDVI[J].Arid Zone Research,2017,34(1):10- 19.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13] 刘宪锋,任志远.西北地区植被覆盖变化及其与气候因子的关 系[J].中国农业科学,2012,45(10):1954-1963.[LIU Xianfeng, REN Zhiyuan. Vegetation coverage change and its relationship with climate factors in northwest China[J].Scientia Agricultura Sinica,2012,45(10): 1954-1963.] [14]闫俊杰,乔木,周宏飞,等.基于MODIS／NDVI的新疆伊犁河 谷植被变化[J].干旱区地理,2013,36(3):512-519.[YAN Junjie, QIAO Mu, ZHOU Hongfei, et al. Vegetation dynamics in Ili River Valley of Xinjiang based on MODIS/NDVI[J].Arid Land Geography,2013,36(3): 512-519.] [15] 王倩,杨太保,杨雪梅.伊犁河流域归一化植被指数的时空变化 及其对气候的季节响应[J.兰州大学学报(自然科学版),   \n2016,52(4): 466-474.[WANG Qian,YANG Taibao, YANG Xuemei.The spatio-temporal changes of normalized diffrence vegetation index and its response to seasonal climate in Ili River Basin [J]. Journal of Lanzhou University: Natural Sciences,2016,52(4):   \n466 - 474.] [16] 王洪亮,冯爱萍,高彦华,等.伊犁河流域最大植被覆盖度的时 空动态变化[J].环境科学与技术,2018,41(6):161－167. [WANG Hongliang, FENG Aiping, GAO Yanhua, et al. Temporalspatial dynamic change on maximum vegetation coverage degree of Ili River Basin[J]. Environmental Science & Technology,2018,   \n41(6): 161 - 167. ] [17]SUN G J,LI WH,ZHU CG,et al. Spatial variability of soil carbon to nitrogen ratio and its driving factors in Ili River Vally,Xinjiang,northwest China[J]. Chinese Geographical Science,27(4):   \n529 -538. [18]张建亮,刘方正,崔国发,等.长白山国家级自然保护区植被时 空变化及其驱动因子[J].生态学报,2016,36(12):3525－3536. [ ZHANG Jianliang,LIU Fangzheng,CUIGuofa,et al. Spatio-temporal variation of vegetation and analysis of its driving factors in Changbai Mountain National Nature Reserve[J]. Acta Ecologica Sinica,2016,36(12): 3525-3536.] [19]SUN J,CHENG GW,LIWP,et al.On the variation of NDVI with the principal climatic elements in the Tibetan Plateau[J]. Remote Sensing, 2013,5(4): 1894- 1911. [20]CAO L,XU JH, CHEN Y N,et al. Understanding the dynamic coupling between vegetation cover and climatic factors in a semiarid region: Acase studyofInner Mongolia,China[J]. Ecohydrology   \n2013, 6(6): 917-926. [21] 李双双,延军平,万佳.近10年陕甘宁黄土高原区植被覆盖时 空变化特征[J].地理学报,2012,67(7):960-970.[LI Shuangshuang,YAN Junping,WAN Jia. The spatial-temporal changes of vegetation restoration on Loess Plateau in Shanxi-Gansu-Ningxia region[J].Acta Geographica Sinica,2012,67(7): 960-970.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22] 毛德华,王宗明,罗玲,等.基于MODIS和AVHRR数据源的东 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "北地区植被NDVI变化及其与气温和降水间的相关分析[J].遥 感技术与应用,2012,27(1):77-85.[MA0 Dehua,WANG Zongming,LUO Ling,et al. Correlation analysis between NDVI and climate in northeast China based on AVHRR and GIMMS data sources[J].Remote Sensing Technology & Application,2012,27(1):   \n77-85.] [23] 张宝庆,吴普特,赵西宁.近30a黄土高原植被覆盖时空演变监 测与分析[J].农业工程学报,2011,27(4):287－293.[ZHANG Baoqing, WU Pute, ZHAO Xining. Detecting and analysis of spatial and emporal variation of vegetation cover in theLoessPlateau during 1982—2009[J]. Transactionsof the Chinese Society of Agricultural Engineering,2011,27(4): 287-293.] [24] 张宏斌,唐华俊,杨桂霞,等.2000—2008年内蒙古草原MODIS NDVI时空特征变化[J].农业工程学报,2009,25(9):168－175. [ZHANG Hongbin,TANG Huajun, YANG Guixia,et al. Changes of spatial-temporal characteristics based on MODIS NDVI data in Inner Mongolia grassland from 2OoO to 20o8[J]. Transactions of the Chinese Society of Agricultural Engineering，2009,25(9):   \n168 - 175.] [25] 刘芳,张红旗,董光龙,等.伊犁河谷草地植被NDVI变化及其 降水敏感性特征[J].资源科学,2014,36(8):1724-1731.[LIU Fang, ZHANG Hongqi, DONG Guanglong,et al. Vegetation dynamics and precipitation sensitivity in Yili Valley grassand[J]. Re sources Science,2014,36(8): 1724-1731.] [26] 孙国军,李卫红,朱成刚,等.新疆伊犁河谷表层土壤容重的空 间变异性分析[J].资源科学,2016,38(7):1222-1228.[SUN Guojun,LI Weihong,ZHU Chenggang, et al.Spatial variation analysisof topsoilbulk density intheYili Valley,Xinjiang[J]. Resources Science,2016,38(7): 1222-1228.] [27] 汪洋,靳瑰丽,李卫红,等.伊犁河谷土地利用变化对生态服务 价值的影响[J].环境与可持续发展,2017,42(2):151－155. [WANG Yang,JINGuili,LI Weihong, et al.The spatial coupling of land use/cover change and its environmental effects on Ili Valley[J].Environment and Sustainable Development,2017,42(2):   \n151 - 155.] [28] 陈秀妍,付碧宏,时丕龙,等.2000—2016年中亚天山植被变化 及气候分异研究[J].干旱区地理,2019,42(1):162－171. [CHEN Xiuyan,FU Bihong,SHI Pilong,et al.Vegetation dynamics in response to climate change in Tianshan, Central Asia from   \n2000 to 2016[J]. Arid Land Geography,2019,42(1): 162-171.] [29] 靳建辉,李志忠,马鹏,等.新疆伊犁河谷新垦绿洲土壤主要养 分含量特征[J].亚热带资源与环境学报,2011,6(1):39 －44. [JIN Jianhui,LI Zhizhong,MA Peng,etal.Organic matter, total nitrogen and total phosphorus features of oasissoil ina newly reclamatedarea of Yili Valley,Xinjiang Province[J].Journal of Subtropical Resources and Environment, 2011,6(1): 39 - 44.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Spatial-temporal characteristics of vegetation cover in Ili River Valley from 20o0 to 2015 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SUN Guo-jun'， LI Wei-hong²， ZHU Cheng-gang²， CUI dong³， LIU Hai-jun³ (1SchoolofEnvironmentalLaw,Gansu UniversityofPolitical ScienceandLaw,Lanzhou 730o70,Gansu,China; 2State KeyLaboratoryofDesertandOasis Ecology,Xinjiang InstituteofEcologyandGeography,ChineseAcademyof Sciences,Urumqi 83oo11,Xinjiang, China; 3College ofBiological and Geographical Science, Yili Normal University;Yining 835ooo,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ii River Valley is the main agricultural and animal husbandry base.Meanwhile,it is also one of he most serious soil erosion areas in Xinjiang,China.Vegetationis the most important component of terestrial ecosystems and a key indicator for assessing the interaction between climate and the terrestrial ecosystems.The study of vegetation cover change is of great significance in preventing soil erosion and improving ecological environment.Based on the EOS/MODIS data from 2000 to 2015,the degree of vegetation coverage and its spatial change characteristics during 2OOO to 2O15 was analyzed.Trend analysis method was used to analyze vegetation cover change during 2OO0 to 2015.The Hurst index was used to predict the future change of vegetation cover. Coeficient of variation method wasused to analyze the dispersion degree and fluctuation of vegetation spatial distribution.The resultsshowedas follow: (1) Spatial distribution paternof highvegetationcoverage in IliRiver Valley was distributed inthe north,south,andeast,whiletheregionoflowvegetationcoverage is distributed nthe west and middle.The ratio of vegetation area in poor, medium,and good condition accounted for $1 2 . 7 5 \\%$ ， $1 6 . 1 1 \\%$ ， and $7 1 . 1 4 \\%$ of the total area, respectively. (2) Affected by natural factors such as temperature rise, precipitation decrease,and human factors such as overgrazing,the average NDVI in Ili River Vallyfluctuated between 0.58 and 0.68,and the vegetation cover has a decreasing trend of fluctuation with the rate of $6 . 2 5 ~ \\% \\cdot ( 1 0 ~ \\mathrm { a } ) ^ { - 1 }$ . (3) Generally speaking,there was arelativelylow vegetationchange trend in Ii River Valley.Regions with low fluctuation degree accounted for $7 3 . 1 6 \\%$ ,which were mainly distributed in the mountainous area of Ili River Valley. The vegetation types were mountain meadow,alpine meadow,and primitive forest.Regions with high fluctuation degree accounted for $2 6 . 8 4 \\%$ ,which were mainly distributed in the altitudes ( $\\mathrm { 0 - 1 } 5 0 0 \\mathrm { m } )$ of Tekes River,KunesRiver, Ili River,and the sunny slope of mountain body. (4) The vegetation coverageof Ii River Valley willdecrease in future.The area of vegetation decreased accounting for $7 6 . 9 0 \\%$ ，which was mainly distributed in high altitude areas of Huocheng County,Yining County,Gongliu County,Xinyuan County,Tekes County,and Zhaosu County.The areaof vegetation increased and accounted for $2 3 . 1 0 \\%$ , which was mainly distributed in the low and gentle slopes of Qapqal County, Yining County,and Yining City. (5)The change trend of vegetation cover in Ili River Valley was more complex.The areasof continuous degradation and improvement of vegetation cover were obviously distributed in spatial distribution.The area of continuous degradation of vegetation accounted for $5 7 . 5 5 \\%$ ,which was mainly distributed in the higher altitude areas of the north Tianshan Mountains,the middle Tianshan Mountains,and the south Tianshan Mountains.The area of continuous improvement of vegetation accounted for $1 3 . 5 1 \\%$ ，which was mainly distributed in the newly reclaimed areas of the Ii River valley.Resultsof this study would provideascientific support for betterunderstanding the status of ecological environment and the vegetation change trend in Ii River Valley and also for formulating the corresponding ecological protection countermeasures in future. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ii River Valley； spatiotemporal variation; vegetation cover; trend analysis ",
+        "page_idx": 7
+    }
+]

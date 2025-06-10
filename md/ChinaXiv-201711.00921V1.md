@@ -1,0 +1,210 @@
+# 育成期京红1号母鸡饲粮赖氨酸需要量研究
+
+王晓翠　武书庚\* 宋　丹　齐广海　王　晶　张海军\*　岳洪源(中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，生物饲料开发国家工
+
+程研究中心，北京 100081)
+
+摘要：本试验旨在研究育成期京红1号商品代母鸡的饲粮赖氨酸（Lys）需要量。选取 450只8周龄京红1号商品代母鸡，随机分成5组，每组6个重复，每个重复15只鸡。分别饲喂Lys 水平为 $0 . 5 6 \%$ 、 $0 . 6 2 \%$ 、 $0 . 6 8 \%$ 、 $0 . 7 4 \%$ 和 $0 . 8 0 \%$ 的饲粮，试验期为9周。结果表明：随饲粮Lys 水平的增加，9\~17周龄京红1号母鸡的平均日增重（ADG）和群体均匀度均呈显著先升高再降低的二次曲线关系（ $\scriptstyle P < 0 . 0 5 .$ ），料重比（F/G）呈显著先降低再升高的二次曲线关系（ $P { < } 0 . 0 5 \$ ）； $0 . 6 2 \%$ Lys 组的 ADG 显著高于 $0 . 5 6 \%$ 和 $0 . 8 0 \% \mathrm { L y s }$ 组（ $P { < } 0 . 0 5 \$ ），F/G却显著低于以上2组（ $P { < } 0 . 0 5 { \mathrm { : } }$ ， $0 . 6 8 \%$ Lys 组的群体均匀度显著高于 $0 . 5 6 \%$ 和 $0 . 8 0 \% \mathrm { J y s }$ 组（ $P { < } 0 . 0 5 \$ )。17周龄京红1号母鸡的体重、胸宽和胫长随饲粮Lys 水平的增加均呈显著先升高再降低的二次曲线关系（ $P { < } 0 . 0 5 )$ ； $0 . 6 8 \%$ Lys 组的体重、胸宽和胫长均显著高于 $0 . 7 4 \%$ 和0.80%Lys组（ $P { < } 0 . 0 5$ ）。17周龄京红1号母鸡的卵巢重量、卵巢指数、输卵管重量、输卵管指数及输卵管长度随饲粮Lys水平的增加呈显著先升高再降低的二次曲线关系( $( P { < } 0 . 0 5 )$ ;0.68%Lys 组的生殖器官发育指标均显著高于其他组（ $P { < } 0 . 0 5$ ）。随饲粮Lys 水平的增加，17周龄京红1号母鸡的卵巢中各级卵泡数均呈显著先增加后降低的二次曲线关系( $_ { . } { \cal P } { < } 0 . 0 5 )$ ：0.68%Lys组的总卵泡数、初级卵泡数、次级卵泡数和小黄卵泡数均显著高于其他组( $\cdot P { < } 0 . 0 5 )$ 。根据17周龄京红1号母鸡的卵巢重、卵巢指数、总卵泡数、初级卵泡数和次级卵泡数各自拟合二次曲线，得出饲粮Lys 需要量分别为 $0 . 6 5 \%$ 、 $0 . 6 5 \%$ 、 $0 . 6 4 \%$ 、 $0 . 6 4 \%$ 和 $0 . 6 4 \%$ 。综上所述，推荐9\~17周龄京红1号母鸡饲粮Lys 需要量为 $0 . 6 4 \% { \sim } 0 . 6 5 \%$ 。
+
+关键词：赖氨酸；育成期；京红1号母鸡；生殖器官发育中图分类号： $\mathsf { S 8 3 1 . 4 ^ { + } 1 }$ 文献标识码： 文章编号：
+
+京红1号蛋鸡是我国自主培育的优良褐壳产蛋鸡配套系，具有实用性好、适应性强、开产早、产蛋高峰期长且耗料低等特点。育成期是母鸡骨骼、体尺、输卵管和卵巢发育的重要阶段，控制该阶段母鸡的饲粮营养水平，可保证母鸡骨骼和体尺的良好发育，实现体成熟和性成熟的同步，保持较好的均匀度，进而保证产蛋期的高产和蛋品质。作为蛋禽玉米-豆粕型饲粮的第二限制性氨基酸，赖氨酸（Lys）是“理想蛋白质"的参比氨基酸[，参与蛋禽体蛋白质合成，促进生长发育。盲目引用饲养标准配制育成期母鸡饲粮，可能会影响其生长发育和产蛋期的产蛋性能，且造成饲粮的浪费；而饲粮合理的Lys 水平可提高饲粮的营养效率，减少排泄量，且有助于降低饲养成本，提高生产效益[]。目前关于京红1号蛋鸡氨基酸需要量的研究主要集中在产蛋高峰期[3-4]和育雏期的饲粮蛋氨酸（Met）需要量[5-6]。现有饲养标准对育成期褐壳蛋鸡饲粮Lys 的推荐值不尽相同，NRC（1994）[7]的推荐值为 $0 . 5 6 \%$ (6\~12周），鸡饲养标准（NY/T33－2004）[8的推荐值为 $0 . 6 8 \%$ （9\~18周），加拿大《实用家禽营养》中对褐壳产蛋鸡的推荐值为 $0 . 7 5 \%$ （10\~16周），海兰公司对产蛋鸡的推荐值为 $0 . 6 6 \%$ （13\~15周），峪口禽业对产蛋鸡的推荐值为 $0 . 7 0 \%$ （8\~15周），罗曼公司对商品蛋鸡的推荐值为 $0 . 6 5 \%$ （9\~15 周）。不同品种褐壳母鸡育成期的最佳Lys 需要量亦不同，当前关于育成期京红1号母鸡饲粮Lys 需要量的报道较少。综合各标准对育成期母鸡饲粮Lys 的推荐值，本研究在 $0 . 5 6 \% { \sim } 0 . 8 0 \%$ 区间内设置5个饲粮Lys水平，研究其对育成期京红1号母鸡生长性能、胸宽、胫长、生殖器官发育、卵泡数及血浆生殖激素含量的影响，探讨育成期京红1号母鸡的Lys 需要量，为实际生产中京红1号商品母鸡饲粮Lys 适宜添加量提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验动物与试验设计
+
+试验用 $L$ -Lys·盐酸盐（纯度 $9 8 . 5 \%$ ）由EvonikDegussa公司提供。选用450只8周龄、体重相近[( $5 6 4 . 8 0 { \scriptstyle \pm 6 . 8 0 } ^ { \cdot }$ ）g]的健康京红1号母鸡，随机分为5个组，每组6个重复，每个重复15只鸡。分别饲喂Lys水平为 $0 . 5 6 \%$ 、 $0 . 6 2 \%$ 、 $0 . 6 8 \%$ 、 $0 . 7 4 \%$ 和 $0 . 8 0 \%$ 的饲粮，试验饲粮组成及营养水平见表1。试验期为9周。
+
+# 1.2 试验饲粮与饲养管理
+
+参照 NRC（1994）[7]和《鸡饲养标准》（NY/T33—2004）[8]，结合京红蛋鸡饲养手册配制等氮、等能的5种试验饲粮。所有试验饲粮采取多点取样法，各取 $5 0 0 \mathrm { g }$ 于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存待分析。试验饲粮中粗蛋白质（CP）含量参照GB/T6432—1994标准测定，钙（Ca）含量参照GB/T13885—2003标准测定，磷（P）含量参照GB/T6437—2002标准测定，蛋氨酸、Lys 和苏氨酸（Thr）含量参照GB/T18246—2000 标准测定。
+
+采用3层立体蛋鸡笼( $4 0 \mathrm { c m } { \times } 3 7 \mathrm { c m } { \times } 4 0 \mathrm { c m }$ 饲养，饲养期内自由采食和饮水。每天07:00、13:00 和17:00 各喂料1次，每天监测鸡群健康状况，记录死淘鸡数并究其原因。自然光照结合人工补光，光照周期16L:8D，饲养期内常规免疫。自然通风结合纵向负压通风，每周带鸡消毒1次，每天清粪2次。
+
+表1试验饲粮组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) 9   
+
+<html><body><table><tr><td colspan="6"></td></tr><tr><td>项目Items</td><td>0.56</td><td>0.62</td><td>赖氨酸水平Lys level/% 0.68</td><td>0.74</td><td>0.80</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corm</td><td>67.000</td><td>67.000</td><td>67.000</td><td>67.000</td><td>67.000</td></tr><tr><td>豆粕 Soybean meal</td><td>7.260</td><td>7.260</td><td>7.260</td><td>7.260</td><td>7.260</td></tr><tr><td>花生饼 Peanut cake</td><td>6.200</td><td>6.200</td><td>6.090</td><td>5.850</td><td>5.850</td></tr><tr><td>小麦Wheat</td><td>3.000</td><td>3.000</td><td>3.000</td><td>3.000</td><td>3.000</td></tr><tr><td>小麦麸 Wheat bran</td><td>6.000</td><td>6.000</td><td>6.000</td><td>6.000</td><td>6.000</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>5.000</td><td>5.000</td><td>5.000</td><td>5.000</td><td>5.000</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.400</td><td>1.400</td><td>1.400</td><td>1.400</td><td>1.400</td></tr><tr><td>石粉 Limestone</td><td>1.800</td><td>1.800</td><td>1.800</td><td>1.800</td><td>1.800</td></tr><tr><td>豆油 Soybean oil</td><td>0.280</td><td>0.280</td><td>0.280</td><td>0.280</td><td>0.280</td></tr><tr><td>预混料 Premix1)</td><td>0.400</td><td>0.400</td><td>0.400</td><td>0.400</td><td>0.400</td></tr><tr><td>食盐 NaCl</td><td>0.300</td><td>0.300</td><td>0.300</td><td>0.300</td><td>0.300</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCL</td><td></td><td>0.051</td><td>0.105</td><td>0.209</td><td>0.310</td></tr><tr><td>沸石粉 Zeolite</td><td>1.244</td><td>1.193</td><td>1.249</td><td>1.385</td><td>1.284</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.116</td><td>0.116</td><td>0.116</td><td>0.116</td><td>0.116</td></tr><tr><td>合计Total</td><td>100.000</td><td>100.000</td><td>100.000</td><td>100.000</td><td>100.000</td></tr></table></body></html>
+
+营养水平 Nutrient levels2)
+
+<html><body><table><tr><td>代谢能 ME/(MJ/kg)</td><td>11.740</td><td>11.740</td><td>11.740</td><td>11.740</td><td>11.740</td></tr><tr><td>粗蛋白质CP</td><td>15.500</td><td>15.500</td><td>15.500</td><td>15.500</td><td>15.600</td></tr><tr><td>钙Ca</td><td>0.980</td><td>0.980</td><td>0.980</td><td>0.980</td><td>0.980</td></tr><tr><td>总磷TP</td><td>0.570</td><td>0.570</td><td>0.570</td><td>0.570</td><td>0.570</td></tr><tr><td>有效磷 AP</td><td>0.380</td><td>0.380</td><td>0.380</td><td>0.380</td><td>0.380</td></tr><tr><td>赖氨酸Lys</td><td>0.562</td><td>0.622</td><td>0.681</td><td>0.743</td><td>0.802</td></tr><tr><td>蛋氨酸Met</td><td>0.274</td><td>0.274</td><td>0.273</td><td>0.272</td><td>0.272</td></tr><tr><td>苏氨酸Thr</td><td>0.525</td><td>0.525</td><td>0.523</td><td>0.520</td><td>0.520</td></tr><tr><td>色氨酸Trp</td><td>0.154</td><td>0.154</td><td>0.154</td><td>0.153</td><td>0.153</td></tr><tr><td>苏氨酸/赖氨酸 Thr/Lys</td><td>0.880</td><td>0.830</td><td>0.760</td><td>0.680</td><td>0.620</td></tr><tr><td>蛋氨酸/赖氨酸Met/Lys</td><td>0.450</td><td>0.420</td><td>0.400</td><td>0.360</td><td>0.320</td></tr><tr><td>游离棉酚 Free gossypol/(mg/kg)</td><td>30.000</td><td>30.000</td><td>30.000</td><td>30.000</td><td>30.000</td></tr></table></body></html>
+
+1’预混料为每千克饲粮提供 Premix provided the following per $\mathbf { k g }$ of diets:VA 12 500 IU,VD3 4 125 IU，VE 15 IU，VK $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 6  { \mathrm { m g } }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 8 ~ \mathrm { m g }$ ，烟酸niacin $3 2 . 5 ~ \mathrm { m g }$ ，核黄素riboflavin $8 . 5 ~ \mathrm { m g }$ ，硫胺素 thiamine $2 . 5 ~ \mathrm { m g }$ ，泛酸钙 calcium pantothenate $5 0 \mathrm { m g }$ ，生物素biotin $2 \ : \mathrm { m g }$ ，吡哆醇 pyridoxine $8 \ : \mathrm { m g }$ ，叶酸 folic acid $2 . 5 ~ \mathrm { m g }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { M n } 6 5 \mathrm { m g }$ ，Fe 60mg， Cu $1 5 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 ~ \mathrm { m g }$ ， $\mathrm { Z n 6 6 ~ m g }$ ，胆碱choline $6 0 0 \mathrm { { m g } }$ ，植酸酶 phytase $6 0 0 ~ \mathrm { { m g } }$ 。
+
+2’代谢能、有效磷和色氨酸为计算值，其余为实测值。ME，AP and Trp were calculated values,whiletheothersweremeasuredvalues.
+
+# 1.3 检测指标和方法
+
+# 1.3.1 生长性能
+
+试验开始前（8周龄）试验鸡逐只称重，试验结束时（17周龄）以重复为单位称量试验鸡重，每周末 20:00 统计当周耗料量，计算平均日增重（average daily gain，ADG）、平均日采食量（average daily fed intake，ADFI）和料重比（feed/gain，F/G）；17周龄时所有试验鸡逐只称量体重（bodyweight，BW），计算群体均匀度（community evenness）。
+
+群体均匀度 $_ { \mathrm { = } 1 0 0 \times ( }$ 标准体重 $\pm 1 0 \%$ 范围内的鸡数)/每个重复鸡数。
+
+# 1.3.2 胫长及胸宽
+
+于17周龄末，每重复选取2只接近平均体重的试验鸡，称重，颈静脉采血，屠宰，测定全净膛重、胫长和胸宽。
+
+# 1.3.3 血浆激素含量
+
+于17周龄末，每重复选取2只接近平均体重的试验鸡，颈静脉采血 $3 \mathrm { m L }$ 于肝素钠抗凝管， $3 5 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，制备血浆， $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。血浆促卵泡素(FSH)和促黄体素(LH)含量采用激素放射性免疫法（RIA）试剂盒（购自南京建成生物工程研究所）测定。
+
+# 1.3.4 生殖器官发育
+
+于17周龄末，每重复选取2只接近平均体重的试验鸡，颈静脉采血，屠宰，取卵巢和输卵管，称重，测输卵管长度；计算卵巢指数、输卵管指数。
+
+卵巢指数 $( \% ) \ = 1 0 0 \times$ （卵巢重/活体重）;
+
+输卵管指数 $( \% ) = 1 0 0 \times$ （输卵管重/活体重）。
+
+卵泡计数：取卵巢置 $4 \%$ 多聚甲醛溶液，固定 $2 4 \mathrm { h }$ ，制备石蜡组织切片，苏木精-伊红(HE)染色。每个样本最大平面位置处连续切片30张，取第5、15和25张切片，光学显微镜下观察卵泡并计数。
+
+卵泡周围的卵泡细胞为单层记为初级卵泡，由单层变为多层的颗粒细胞记为次级卵泡。每个样本3张切片共计数 300个（每张切片100个）初级卵泡和次级卵泡细胞核直径，得出初级卵泡细胞核直径为（ $2 0 . 4 5 { \scriptstyle \pm 4 . 2 1 }$ ） $\mu \mathrm { m }$ ，次级卵泡细胞核直径为‘ $( 9 7 . 6 7 { \pm } 0 . 5 4 ) \$ ） $\mu \mathrm { m }$ 。由于卵泡平均细胞核直径大小与切片厚度之间的关系，一个卵泡可在两张或两张以上相邻的切片上被重复计数，因此从切片平面观察到的卵泡数往往多于卵巢实际存在的卵泡数。按照Abercrobies 导出的卵泡中卵母细胞核直径与切片厚度之间的关系公式 $P { = } A { \times } M /$ （ $\cdot ( M { + } L )$ ，得出本试验的初级和次级卵泡参数；根据该公式求出每个卵巢切片的初级和次级卵泡总数及萎缩次级卵泡，并计算次级卵泡的萎缩率[9。其中， $P =$ 卵巢上初级或次级卵泡总数， $\scriptstyle A =$ 所查切片平均每张的卵泡数 $\times$ 切片总数， $M =$ 每张切片的厚度， $L =$ 初级或次级卵泡卵母细胞核的平均直径。
+
+# 1.4 数据统计与分析
+
+试验结果以"平均值 $\pm$ 标准差"表示，采用 SPSS19.0软件中的单因素方差分析（one-wayANOVA）程序对数据进行方差分析；当方差分析具有显著性时，处理间均值采用Duncan氏法进行多重比较。饲粮Lys 的剂量效应采用正交多项式中的线性和二次多项式进行比较，以 $P { < } 0 . 0 5$ 为差异显著性标准。通过回归曲线估计拟合二次曲线，根据二次方程计算需要量，其中 $Y$ 为评价指标； $X$ 为饲粮Lys 水平； $R ^ { 2 }$ 为相关系数；获得显著性二次效应时，再按Neter等[10]推荐方法求出获得最大二次效应时Lys 需要量 $\scriptstyle x ( \mathrm { m a x } ) = - b / 2 a$ ，该值乘以 $9 5 \%$ 即为Lys需要量。
+
+# 2结果与分析
+
+2.1饲粮Lys水平对育成期京红1号母鸡生长性能的影响
+
+表2为饲粮Lys水平对 $9 \sim 1 7$ 周龄京红1号母鸡生长性能的影响。由表可知，饲粮Lys 水平对 $9 \mathrm { \sim } 1 7$ 周龄京红1号母鸡的 ADFI无显著影响（ $. P { > } 0 . 0 5 )$ ，各组的ADFI在 $6 8 . 0 9 \sim 7 2 . 1 7 \mathrm { ~ g ~ }$ 之间；但饲粮 Lys 水平显著影响该生长期内母鸡的 ADG、F/G 和17周龄母鸡的群体均匀度（ $P { < } 0 . 0 5 \$ )。随饲粮Lys水平的增加，各组母鸡的ADG 和群体均匀度均呈显著先升高再降低的二次曲线关系（ $. P { < } 0 . 0 5 \$ )，而F/G呈显著先降低再升高的二次曲线关系（ $. P { < } 0 . 0 5$ )。其中，$0 . 6 2 \% \mathrm { L y s }$ 组的 ADG 显著高于 $0 . 5 6 \%$ 、 $0 . 7 4 \%$ 和 $0 . 8 0 \%$ Lys组（ $P { < } 0 . 0 5 )$ ； $0 . 6 8 \% \mathrm { L y s }$ 组群体均匀度显著高于 $0 . 5 6 \%$ 和 $0 . 8 0 \% \mathrm { L y s }$ 组 $( P { < } 0 . 0 5 )$ ； $0 . 6 2 \%$ Lys 组的F/G显著低于 $0 . 5 6 \%$ 和 $0 . 8 0 \%$ Lys组（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ )。综上，饲粮Lys 水平显著影响9\~17周龄京红1号母鸡的 ADG、F/G 和群体均匀度（ $P { < } 0 . 0 5 \ '$ )，这些生长性能指标与饲粮Lys水平之间呈显著二次曲线关系（ $P { < } 0 . 0 5 )$ 。
+
+表 2饲粮Lys 水平对9\~17周龄京红1号母鸡生长性能的影响
+
+17 weeks
+
+Table 2Effects of dietary Lys level on growth performance of Jinghong pullets aged from 9 to   
+
+<html><body><table><tr><td colspan="3"></td><td rowspan="2"></td><td rowspan="2">群体均匀度</td></tr><tr><td>赖氨酸水平</td><td>平均日增重</td><td>平均日采食量</td></tr><tr><td>Lys level/%</td><td>ADG/g</td><td>ADFI/g</td><td>料重比F/G</td><td>Community evenness/%</td></tr><tr><td>0.56</td><td>13.66±0.66b</td><td>71.23±2.56</td><td>5.22±0.17ab</td><td>80.88±7.25bc</td></tr><tr><td>0.62</td><td>14.54±0.93a</td><td>69.66±1.21</td><td>4.81±0.31c</td><td>95.01±6.33ab</td></tr><tr><td>0.68</td><td>13.86±0.32ab</td><td>68.09±4.67</td><td>4.91±0.32bc</td><td>96.18±4.95a</td></tr></table></body></html>
+
+<html><body><table><tr><td>0.74</td><td>13.39±0.25b</td><td>68.74±3.30</td><td>5.13±0.18abc</td><td>95.33±6.55ab</td></tr><tr><td>0.80</td><td>13.42±0.15b</td><td>72.17±2.85</td><td>5.37±0.18a</td><td>75.88±8.56c</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td>0.020</td><td>0.246</td><td>0.010</td><td>0.04</td></tr><tr><td>线性Linear</td><td>0.117</td><td>0.833</td><td>0.080</td><td>0.150</td></tr><tr><td>二次曲线Quadratic</td><td>0.049</td><td>0.090</td><td>0.002</td><td>0.028</td></tr></table></body></html>
+
+同列数据肩标相同或无字母表示差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ )，不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。
+
+In the same column,values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ , while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2饲粮Lys水平对育成期京红1号母鸡胫长和胸宽的影响
+
+表3为饲粮Lys水平对17周龄京红1号母鸡胫长和胸宽的影响。由表可知，饲粮Lys 水平对17周龄京红1号母鸡的全净膛重无显著影响（ $. P { > } 0 . 0 5 .$ )，而对17周龄母鸡的体重、胸宽和胫长有显著影响 （ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { }$ )。随饲粮Lys 水平的增加，17周龄母鸡的体重、胸宽和胫长均呈显著先升高再降低的二次曲线关系（ $\scriptstyle \cdot P < 0 . 0 5 { \mathrm { . } }$ )。其中， $0 . 6 2 \%$ 和 $0 . 6 8 \% \mathrm { L y s }$ 组的母鸡体重显著高于其他组( $( P { < } 0 . 0 5 )$ ； $0 . 6 8 \%$ Lys 组的胸宽显著高于 $0 . 7 4 \%$ 和 $0 . 8 0 \%$ Lys组（ $P { < } 0 . 0 5 \$ ； $0 . 6 8 \%$ Lys组的胫长显著高于其他组（ $. P { < } 0 . 0 5 \$ )。综上，饲粮Lys水平显著影响17周龄京红1号母鸡的体重、胸宽和胫长（ $. P { < } 0 . 0 5 ^ { \cdot }$ )，这些指标与饲粮Lys水平呈显著先升高再降低的二次曲线关系（ $. P { < } 0 . 0 5 )$ 。
+
+Table 3Effects of dietary Lys level on tibia length and chest width of Jinghong pullets aged at
+
+表3饲粮Lys水平对17周龄京红1号母鸡胫长和胸宽的影响  
+
+<html><body><table><tr><td colspan="5">17 weeks</td></tr><tr><td colspan="5">全净膛重</td></tr><tr><td colspan="4">赖氨酸水平</td><td>胫长 Tibia</td></tr><tr><td></td><td>体重 Body weight/g</td><td>Eviscerated carcass</td><td>胸宽 Chest</td><td></td></tr><tr><td>Lys level/%</td><td></td><td></td><td>width/cm</td><td>length/cm</td></tr><tr><td colspan="5"></td></tr><tr><td colspan="5">weight/g</td></tr><tr><td>0.56</td><td>1 412.80±46.87b</td><td>955.60±18.03</td><td>7.58±0.26abc</td><td>9.22±0.11c</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>0.62</td><td>1 488.60±45.94a</td><td>996.60±33.09</td><td>7.81±0.44ab</td><td>9.36±0.21b</td></tr><tr><td>0.68</td><td>1 463.00±21.83a</td><td>978.40±11.46</td><td>7.94±0.19a</td><td>9.54±0.06a</td></tr><tr><td>0.74</td><td>1 419.80±11.82b</td><td>962.80±42.93</td><td>7.43±0.18bc</td><td>9.42±0.07b</td></tr><tr><td>0.80</td><td>1 385.00±20.89b</td><td>948.60±52.42</td><td>7.27±0.39c</td><td>9.34±0.11b</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td>0.001</td><td>0.238</td><td>0.016</td><td><0.001</td></tr><tr><td>线性 Linear</td><td>0.054</td><td>0.346</td><td>0.034</td><td>0.017</td></tr><tr><td>二次曲线Quadratic</td><td><0.001</td><td>0.081</td><td>0.011</td><td><0.001</td></tr></table></body></html>
+
+2.3饲粮Lys 水平对17周龄京红1号母鸡生殖器官发育的影响
+
+表4为饲粮Lys水平对17周龄京红1号母鸡生殖器官发育的影响。由表可知，饲粮Lys水平显著影响17周龄京红1号母鸡的卵巢重、卵巢指数、输卵管重、输卵管指数及输卵管长（ $. P { < } 0 . 0 5$ ）。随饲粮Lys水平的增加，母鸡的各项生殖器官发育指标均呈显著先升高再降低的二次曲线关系（ $P { < } 0 . 0 5$ ）， $0 . 6 8 \%$ Lys 组的生殖器官发育指标均显著高于其他组（ $P { < } 0 . 0 5 \$ )。从生殖器官发育指标来看，育成期京红1号母鸡的饲粮Lys适宜水平为 $0 . 6 8 \%$ 。综上，饲粮Lys水平显著影响17 周龄京红1号母鸡的生殖器官发育指标（ $P { < } 0 . 0 5$ ），生殖器官发育指标与饲粮Lys 水平之间呈显著先升高再降低的二次曲线关系（ $_ { _ { P < 0 . 0 5 } }$ ）。
+
+表4饲粮Lys 水平对17周龄京红1号母鸡生殖器官发育的影响
+
+Table 4Effects of dietary Lys level on reproductive organs development of Jinghong pullets   
+aged at17weeks   
+
+<html><body><table><tr><td></td><td>卵巢重 Ovary</td><td>卵巢指数</td><td>输卵管重</td><td>输卵管指数</td><td>输卵管长</td></tr><tr><td>赖氨酸水平</td><td></td><td></td><td>Fallopian tube</td><td>Fallopian tube</td><td>Fallopian tube</td></tr><tr><td>Lys level/%</td><td>weight/g</td><td>Ovary index/%</td><td>weight/g</td><td>index/%</td><td>length/cm</td></tr><tr><td>0.56</td><td>0.77±0.31c</td><td>0.05±0.02c</td><td>12.24±0.48c</td><td>0.87±0.03c</td><td>19.94±6.15d</td></tr><tr><td>0.62</td><td>1.42±0.36b</td><td>0.10±0.03b</td><td>13.61±0.97bc</td><td>1.01±0.11b</td><td>38.20±4.91b</td></tr><tr><td>0.68</td><td>2.44±0.40a</td><td>0.17±0.03a</td><td>17.37±1.99a</td><td>1.19±0.14a</td><td>47.30±7.88a</td></tr><tr><td>0.74</td><td>1.37±0.26b</td><td>0.10±0.02b</td><td>14.50±1.40b</td><td>1.02±0.10b</td><td>31.18±9.51bc</td></tr><tr><td>0.80</td><td>0.95±0.13c</td><td>0.06±0.01c</td><td>13.99±1.41bc</td><td>0.91±0.05bc</td><td>25.22±2.86cd</td></tr></table></body></html>
+
+$P$ 值 $P _ { \ l }$ -value
+
+<html><body><table><tr><td>赖氨酸Lys</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>线性Linear</td><td>0.101</td><td>0.061</td><td>0.072</td><td>0.058</td><td>0.081</td></tr><tr><td>二次曲线Quadratic</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.002</td><td>0.006</td></tr></table></body></html>
+
+2.4饲粮Lys水平对17周龄京红1号母鸡卵泡数及血浆激素含量的影响
+
+根据卵母细胞直径与切片厚度之间的关系公式 $P { = } A { \times } M / ( M { + } L )$ ，本试验得出初级卵泡的参数为0.2268，次级卵泡的参数为0.0579，而实际的卵泡数即查得的卵泡数乘以相应参数。表5为饲粮Lys水平对17周龄京红1号母鸡卵泡数及血浆激素含量的影响。由表可知，饲粮Lys 水平显著影响17周龄京红1号母鸡的总卵泡数、初级卵泡数、次级卵泡数、大黄卵泡数、小黄卵泡数及次级卵泡萎缩率（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。随饲粮Lys 水平的增加，母鸡卵巢中各级卵泡数均呈显著先增加后降低的二次曲线关系（ $P { < } 0 . 0 5$ ）。其中， $0 . 6 8 \% \mathrm { L y s }$ 组母鸡的总卵泡数、初级卵泡数、次级卵泡数和小黄卵泡数均为最高值，显著高于其他组（ $_ { . } P { < } 0 . 0 5 )$ ；$0 . 6 2 \%$ 和 $0 . 6 8 \% \mathrm { L y s }$ 组的大黄卵泡数显著高于其他组（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ）； $0 . 8 0 \% \mathrm { { L y s } }$ 组的次级卵泡萎缩率显著低于其他组（ $P { < } 0 . 0 5$ ）。饲粮Lys水平对17周龄京红1号母鸡的血浆FSH和LH含量无显著影响（ $. P { > } 0 . 0 5$ ），但 $0 . 6 8 \% \mathrm { L y s }$ 组的血浆FSH含量相对于其他组有提高趋势（ $P$ $= 0 . 0 8$ ）。综上，饲粮Lys 水平显著影响17周龄京红1号母鸡的卵泡数量（ $P { < } 0 . 0 5$ ），卵泡数量与饲粮Lys水平之间呈显著先升高再降低的二次曲线关系（ $P { < } 0 . 0 5$ ）。
+
+2.5根据二次回归模型估测9\~17周龄京红1号母鸡饲粮Lys 需要量
+
+表6为根据二次回归模型估测的9\~17周龄京红1号母鸡饲粮Lys 需要量。由表可知，根据17周龄京红1号母鸡的卵巢重、卵巢指数、总卵泡数、初级卵泡数和次级卵泡数各自拟合二次曲线，得出饲粮Lys 需要量分别为 $0 . 6 5 \%$ 、 $0 . 6 5 \%$ 、 $0 . 6 4 \%$ 、 $0 . 6 4 \%$ 和 $0 . 6 4 \%$ 。综上，以卵巢重、卵巢指数、总卵泡数、初级卵泡数和次级卵泡数作为评价指标，得出9\~17周龄京红1号母鸡饲粮Lys需要量为 $0 . 6 4 \% { \sim } 0 . 6 5 \%$ 。
+
+表6根据二次回归模型估测9\~17周龄京红1号母鸡饲粮Lys 需要量
+
+Table 6Diet Lys requirements of Jinghong pullets aged from 9 to 17 weeks estimated based on quadratic regression model
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td>Quadratic regression equation</td><td></td><td>Lys requirement/%</td><td>P-value</td></tr><tr><td>卵巢重 Ovary weight/g</td><td>Y=-83.889X²+114.629X-37.165</td><td>0.63</td><td>0.65</td><td><0.001</td></tr><tr><td>卵巢指数 Ovary index/%</td><td>Y=-5.884X²+8.026X-2.598</td><td>0.65</td><td>0.65</td><td><0.001</td></tr><tr><td>总卵泡数 Total follicles numbers/个</td><td>Y=-1 061 408.8X2+1 425 939.34X-429 620.73</td><td>0.84</td><td>0.64</td><td><0.001</td></tr><tr><td>初级卵泡数 Primary follicles numbers/个</td><td>Y=-955 703.99X2+1284 631.31X-387 711.73</td><td>0.84</td><td>0.64</td><td><0.001</td></tr><tr><td></td><td>次级卵泡数 Secondary follicles numbers/个 Y=-105 704.84X²+141 308.031X-41 908.994</td><td>0.86</td><td>0.64</td><td><0.001</td></tr></table></body></html>
+
+3讨论
+
+育成期母鸡的氨基酸需要量主要受品种和饲养管理等因素的影响。现有蛋鸡饲养标准中，不同品种褐壳蛋鸡的Lys 推荐量亦不相同，饲粮Lys 推荐量在 $0 . 5 6 \% { \sim } 0 . 7 5 \%$ 之间。因此，有必要针对育成期（9\~17周龄）京红1号母鸡的Lys 需要量进行研究。当前，剂量反应法广泛应用于蛋鸡氨基酸需要量的研究[11-12],此法是根据饲粮氨基酸含量与敏感指标的直接关系从而确定动物的氨基酸需要量，具有易于操作、便于分析等优点。因此，本研究采取剂量反应法，用二次曲线回归模型拟合育成期京红1号母鸡的Lys 需要量。
+
+3.1饲粮Lys水平对9\~17周龄京红1号母鸡生长性能、胸宽和胫长的影响
+
+Lys 是家禽的必需氨基酸，属于第二限制氨基酸，饲粮中适宜水平的Lys 可提高家禽的ADG、降低 ADFI和F/G，促进生长[13]；而随饲粮Lys 水平的升高，料蛋比呈先下降后上升的趋势，适宜水平的 Lys 可显著改善料蛋比[4]。本研究显示，饲粮适宜水平的 Lys（ $0 . 6 2 \% 8 8 \%$ ）可提高9\~17周龄京红1号母鸡的 ADG、降低 ADFI和F/G，与以上研究结果相似。鸡的产道由2个耻骨组成，胫长不达标表明耻骨发育不好，耻骨发育不好导致产道狭窄，产蛋时易引起脱肛；其次，骨内钙储备少，易导致蛋壳品质变差。因此，后备母鸡的鸡群群体均匀度、体重和胫长直接影响产蛋期的生产性能和蛋壳品质[15]，群体均匀度好表明该阶段母鸡的内脏器官、肌肉、骨骼等指标发育协调一致，为产蛋期生产性能的发挥创造了基础条件。本研究发现，当饲粮中Lys 水平超过 $0 . 7 4 \%$ 时，9\~17周龄京红1号母鸡的ADG 和群体均匀度降低，F/G 升高，抑制了母鸡的生长；可能是因为Lys 含量过高时会抑制胱氨酸的吸收，降低氨基酸的表观消化率，从而影响生长性能[1]。本试验也表明，9\~17周龄京红1号母鸡饲粮中补充 $0 . 6 2 \% { \sim } 0 . 6 8 \% \mathrm { J s }$ 可获得满意的群体均匀度、体重、胸宽和胫长，为蛋鸡的适时开产、迎接和维持产蛋高峰期提供前期保证。
+
+表5饲粮Lys水平对17周龄京红1号母鸡卵泡数（个）和血浆激素含量的影响   
+Table5EffectsofdietaryLyslevelontefollcles numbersandhormonescontents inplasmaofJinghongpuletsagedat17weeks   
+
+<html><body><table><tr><td>赖氨酸水平</td><td>总卵泡数 Total</td><td>初级卵泡数</td><td>次级卵泡数</td><td>大黄卵泡数</td><td>小黄卵泡数</td><td>次级卵泡萎缩率</td><td>促卵泡素</td><td>促黄体素</td></tr><tr><td>Lys level/%</td><td>follicles numbers</td><td>Primary follicles</td><td> Secondary</td><td>Rhubarb follicles</td><td> Small yellow</td><td> Secondary</td><td>FSH/(mIU/mL)</td><td>LH/(mIU/mL)</td></tr><tr><td></td><td></td><td>numbers</td><td>follicles numbers</td><td>numbers</td><td>follicle numbers</td><td> follicle atrophy</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>rate/%</td><td></td><td></td></tr><tr><td>0.56</td><td>36 297.12±1073.90d</td><td>32 248.48±953.93d</td><td>4 048.64±119.98d</td><td>4.69±0.21c</td><td>6.27±0.15e</td><td>5.15±0.37a</td><td>2.46±0.68</td><td>2.31±0.40</td></tr><tr><td>0.62</td><td>44 251.20±1 301.09b</td><td>39 247.00±1 154.18b</td><td>5 004.20±146.91b</td><td>6.10±0.20a</td><td>8.58±0.47c</td><td>4.39±0.41bc</td><td>2.46±1.01</td><td>2.40±0.85</td></tr><tr><td>0.68</td><td>53 016.64±1 531.28a</td><td>47 403.52±1 369.15a</td><td>5 613.12±162.13a</td><td>6.21±0.21a</td><td>11.43±0.69a</td><td>4.76±0.29ab</td><td>2.79±0.40</td><td>2.58±0.87</td></tr><tr><td>0.74</td><td>40 288.40±1 093.11c</td><td>35 906.20±1 056.02c</td><td>4 322.20±127.09c</td><td>5.67±0.31b</td><td>10.01±0.35b</td><td>4.21±0.13c</td><td>2.57±0.53</td><td>2.51±0.73</td></tr><tr><td>0.80</td><td>32 844.16±1 093.03e</td><td>29 228.48±972.66e</td><td>3 615.68±120.37e</td><td>4.78±0.17c</td><td>7.34±0.15d</td><td>3.58±0.33d</td><td>2.40±0.54</td><td>2.80±0.50</td></tr><tr><td>P值 P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.080</td><td>0.100</td></tr><tr><td>线性Linear</td><td>0.071</td><td>0.061</td><td>0.081</td><td>0.053</td><td>0.058</td><td>0.078</td><td>0.100</td><td>0.151</td></tr><tr><td>二次曲线Quadratic</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.001</td><td><0.001</td><td><0.001</td><td>0.356</td><td>0.367</td></tr></table></body></html>
+
+3.2饲粮Lys 水平对17周龄京红1号母鸡生殖器官发育的影响
+
+母鸡的生殖系统包括卵巢和输卵管，卵巢上聚集着数量庞大的卵泡，卵泡的生长发育与产蛋性能紧密相关[17]；育成期是母鸡卵巢和输卵管发育的主要阶段，此2项指标常用来检测生殖器官的发育状况[18]。饲粮营养素水平显著影响肉种鸡卵巢形态[19]，且前期研究证实饲粮中适宜蛋氨酸水平可促进育成期京红1 号母鸡的卵巢和输卵管等生殖器官的发育[20]。本研究中，饲粮Lys水平为 $0 . 6 2 \% { \sim } 0 . 7 4 \%$ 可提高17周龄京红1号母鸡的卵巢重和指数、输卵管指数及长度；原因可能是饲粮营养水平影响了生殖轴的发育，生殖轴的分泌物进而影响卵巢和输卵管的发育和功能，卵巢质量的增加系因优势卵泡数量增多所致[21-22]，但饲粮 Lys水平影响后备母鸡生殖器官发育的具体作用机制还需进行系统研究。
+
+3.3饲粮Lys水平对17周龄京红1号母鸡血浆激素含量及卵泡数的影响
+
+营养对繁殖的影响通过激素作为一种营养信号在卵巢水平上直接发挥作用[23]；育成期是后备母鸡逐渐性成熟的阶段，其体内FSH和LH的分泌量增加，进而调节卵泡生长和发育。FSH主要作用于卵巢的颗粒细胞，促进氨基酸进入颗粒细胞，加快蛋白质的生物合成，继而促进卵泡的发育成熟及卵巢颗粒细胞的增大和增殖；当卵泡生长到一定阶段，FSH 能促进有腔卵泡的颗粒细胞生成LH的受体，诱导LH的分泌，LH与FSH协同促进卵泡生长、发育和成熟[24]。饲粮营养素的摄入量会影响育成鸡的性成熟，改善卵母细胞的质量，继而影响产蛋早期的产蛋量和蛋重，而新培育品种育成期母鸡的营养需要量成为研究热点[23.25]。本研究表明，饲粮中适宜Lys 水平（ $0 . 6 8 \%$ ）可提高血浆中 FSH 和LH含量，与丁阳等[25]的研究结果一致，说明饲粮Lys 可能通过促性腺激素的分泌调控母鸡的生殖性能。许多研究显示，饲粮中适宜Lys 水平可显著提高蛋鸡的产蛋率[1,4,26]；而卵泡的发育及排卵与家禽生殖性能密切相关。本研究结果显示，饲粮适宜Lys 水平（ $0 . 6 2 \% { \sim } 0 . 6 8 \%$ ）可增加17周龄京红1号母鸡卵泡数量，降低次级卵泡萎缩率，原因可能是适宜的Lys 水平使饲粮氨基酸比例更合理，提高了蛋白质利用率，进而促进血液中氨基酸进入卵巢颗粒细胞，增强蛋白质合成，最终促进了卵泡的生长和发育，提高了卵泡数量。此外，饲粮Lys 是否通过改变育成期母鸡卵巢上的促卵泡素受体（FSHR）和促黄体素受体（LHR）mRNA的表达量进而影响卵泡发育及排卵，亦需在后续试验中进行研究。
+
+4结论
+
+根据9\~17周龄京红1号母鸡卵巢重、卵巢指数、总卵泡数、初级卵泡数和次级卵泡数各自拟合二次曲线，得出饲粮Lys 需要量分别为 $0 . 6 5 \%$ 、 $0 . 6 5 \%$ 、 $0 . 6 4 \%$ 、 $0 . 6 4 \%$ 和 $0 . 6 4 \%$ 。因此，以卵巢重、卵巢指数、总卵泡数、初级卵泡数和次级卵泡数为评价指标时，推荐 9\~17周龄京红1号母鸡饲粮Lys 需要量为 $0 . 6 4 \% { \sim } 0 . 6 5 \%$ 。
+
+参考文献：  
+[1] SILVA E P,MALHEIROS E B,SAKOMURA N K,et al.Lysine requirements of layinghens[J].Livestock Science,2015,173:69-77.  
+[2] BAILLEUL P JD,BERNIER J F,VAN MILGEN J,et al.The utilization of prediction modelsto optimize farm animal production systems:the case of a growing pig model[M]//MCNAMARA JP,FRANCE J,BEEVER D E.Modelling Nutrient Utilization in Farm Animals.Wallingford:CABInternational,2000:379-392.  
+[3] 梁中军,韩雪娇,马秋刚,等.饲粮含硫氨基酸水平对京红蛋鸡产蛋高峰期生产性能的影响[J].动物营养学报,2015,27(12):3720-3725.  
+[4] 付国强,计成,马秋刚,等.日粮蛋氨酸和赖氨酸水平对产蛋高峰期京红蛋种鸡生产和繁殖性能的影响[J].中国畜牧杂志,2013,49(1):31-35.  
+[5] 宋丹,岳洪源,陈秀丽,等.0\~4 周龄京红蛋鸡饲粮蛋氨酸需要量研究[J].中国农业科学,2014,47(12):2446-2454.  
+[6] 宋丹,李连彬,周梁,等.5\~8 周龄京红蛋鸡饲粮蛋氨酸需要量的研究[J].畜牧兽医学报,2014,45(11):1799-1808.  
+[7] NRC.Nutrient requirements of poultry[M].9th rev. ed.Washington D.C.:National AcademyPress,1994:3-15.  
+[8] 中华人民共和国农业部.NY/T33-2004 鸡饲养标准[S].北京:中国农业出版社,2004.  
+[9] 耿建军.不同日龄蛋鸡卵泡发育、血清FSH和 $\mathrm { E } _ { 2 }$ 值变化规律以及转化生长因子 $\beta _ { 1 } ( \mathrm { T G H } \beta _ { 1 } )$ （204在卵巢和输卵管表达规律的研究[D].硕士学位论文.太古:山西农业大学,2003.  
+[10] NETER J,WASSERMANN W.Applied linearstatistical models:regression,analysisofvariance,and experimental designs[M].Homewood,IL:lnwin,1974:273-296.
+
+[11] DA SILVA J H V,ALBINO L F T,ROSTAGNO H S,et al.Requirement of lysine for rearing egg-type pullets from 7 to 12 weeks of age[J].Revista Brasileira de Zootecnia,2000,29(6):1786-1794.(in Portuguese).
+
+[12] DA SILVA J H V,ALBINO L F T,ROSTAGNO H S,et al.Requirement of lysine for rearing egg-type pullets from 13 to 20 weeks of age[J].Revista Brasileira de Zootecnia,2000,29(6):1795-1802.(in Portuguese).
+
+[13] 张婷.饲粮赖氨酸对笼养蛋雏鸭生长性能及生化指标的影响[D].硕士学位论文.哈尔滨:东北农业大学,2014.
+
+[14] FIGUEIREDO G O,BERTECHINI A G,FASSANI E J,et al.Performance and egg quality of laying hens fed with dietary levels of digestible lysine and threonine[J].Arquivo Brasileiro De Medicina Veterinaria E Zootecnia,2012,64(3):743-750.
+
+[15] BISH C L,BEANE W L,RUSZLER P L,et al.Body weight influence on egg production[J].Poultry Science,1985,64(12):2259-2262.
+
+[16] 呙于明.家禽营养与饲料[M].北京:中国农业大学出版社,1997.
+
+[17] 蔡娟,顾欢,常玲玲,等.大豆黄酮在蛋鸡饲料中的安全性评价:生产性能、蛋品质和繁殖器官发育[J].动物营养学报，2013,25(3):635-642.
+
+[18] ROZENBOIM I,SNAPIR N,ARNON E,et al.Precocious puberty in tamoxifen treated cockerelshypothalamic gonadotrophin-releasinghormone-Iandplasma luteinising hormone,prolactin,growth hormone and testosterone[J].British Poultry Science,1993,34(3):533-542.
+
+[19] RENEMA R A,ROBINSON F E,PROUDMAN J,et al.Effects of body weight and feed allcation during sexual maturation in broiler breeder hens.2.ovarian morphology and plasma hormone profiles[J].Poultry Science,1999,78(5):629-639.
+
+[20] 宋丹.0\~17 周龄京红蛋鸡饲粮蛋氨酸需要量研究[D].硕士学位论文.杨凌:西北农林科技大学,2014.
+
+[21] ETCHES R J.Reproduction in poultry[M].Wallingford,Oxon:CABI Publishing,1995:493-530.
+
+[22] 马维英,王爽,黄江南,等.饲粮胆碱添加水平对产蛋期绍兴鸭产蛋性能、蛋品质、生殖器官发育的影响[J].动物营养学报,2013,25(6):1307-1314.
+
+[23] 井文倩.赖氨酸对新西兰兔生长和繁殖性能的影响及其分子机制初探[D].博士学位论文泰安：山东农业大学,2007.
+
+[24] YOSHIMURA K,KAJI H,KAMIDONO S,et al.Fasting increases the expression of basic fibroblast growth factor (FGF-2) messenger ribonucleic acid in rat hypothalamus[J].Hormone and Metabolic Research,1995,27(8):363-366.
+
+[25] 丁阳,卜星晨,袁超,等.日粮赖氨酸水平对绿壳蛋种鸡生产性能和血清激素及卵巢FSH 和LH受体mRNA表达的影响[J].中国畜牧杂志,2016,52(3):36-41.
+
+[26] BOUYEH M,GEVORGIAN O X.Influence of different levels of lysine,methionine and protein on the performance of laying hens after peak[J].Journal of Animal and Veterinary Advance,2011,10(4):532-537.
+
+Dietary Lysine Requirement of Jinghong Pullets during the Growing Period WANG XiaocuiWU Shugeng\* SONG Dan QI GuanghaiWANG Jing ZHANG Haijun\* YUE Hongyuan
+
+(National Engineering Research Center of Biological Feed, Key Laboratory of Feed Biotechnology of Ministry ofAgriculture, Feed Research Institute, Chinese Academy of Agricultural Sciences,Beijing 1Oo081, China)
+
+Abstract: This study was conducted to investigate the dietary lysine (Lys) requirement of Jinghong commercial pullts during the growing period. Four hundred and fifty 8-week-old Jinghong commercial pullets were randomly divided into 5 groups with 6 replicates per group and 15 pullets per replicate. The levels of Lys in diets were $0 . 5 6 \%$ ， $0 . 6 2 \%$ ， $0 . 6 8 \%$ ， $0 . 7 4 \%$ and $0 . 8 0 \%$ ， respectively. The test lasted for 9 weeks. The results showed that the average daily gain (ADG) and community evenness of Jinghong pullets aged from 9 to 17 weeks were quadratically significantly increased and then decreased with increasing dietary Lys levels $( P { < } 0 . 0 5 )$ ，while the ratio of feed to gain (F/G) was quadratically significantly decreased and then increased $( P { < } 0 . 0 5 )$ ADG in $0 . 6 2 \%$ Lys group was significantly higher than that in $0 . 5 6 \%$ and $0 . 8 0 \%$ Lys groups （2 $( P { < } 0 . 0 5 )$ ， while the F/G in $0 . 6 2 \%$ Lys group was significantly lower than that in $0 . 5 6 \%$ and $0 . 8 0 \%$ （204号 Lys groups $( P { < } 0 . 0 5 )$ . The community evenness in $0 . 6 8 \%$ Lys group was significantly higher than that in $0 . 5 6 \%$ and $0 . 8 0 \%$ Lys groups ( $( P { < } 0 . 0 5 )$ . The body weight, chest width and tibia length of Jinghong pullets at 17 weeks were quadratically significantly increased and then decreased with increasing dietary Lys levels $( P { < } 0 . 0 5 )$ , and the body weight, chest width and tibia length in $0 . 6 8 \%$ Lys group were significantly higher than those in $0 . 7 4 \%$ and $0 . 8 0 \%$ Lys groups $( P { < } 0 . 0 5 )$ .The ovary weight, ovary index, fallopian tube weight, fallopian tube index and fallopian tube length of Jinghong pullets at 17 weeks were quadratically significantly increased and then decreased with increasing dietary Lys levels $( P { < } 0 . 0 5 )$ ,and the reproductive organs development indexes in $0 . 6 8 \%$ Lys group were significantly higher than those in the other groups ( $( P { < } 0 . 0 5 )$ . The follicle numbers in ovary of Jinghong pullets at 17 weeks were quadratically significantly increased and then decreased with increasing dietary Lys levels $( P { < } 0 . 0 5 )$ ， and the total follicles numbers,primary follicles numbers,secondary follicles numbers and small yellow follicle numbers in $0 . 6 8 \%$ Lys group were significantly higher than those in the other groups $( P { < } 0 . 0 5 )$ . According to the quadratic regression analysis based on ovary weight, ovary index,the total follicles numbers, primary folicles numbers，secondary follicles numbers，the optimal dietary Lys levels for Jinghong pullets at 17 weeks were $0 . 6 5 \%$ ， $0 . 6 5 \%$ ， $0 . 6 4 \%$ ， $0 . 6 4 \%$ and $0 . 6 4 \%$ , respectively. These studies indicate that the dietary Lys requirement of Jinghong pullets aged from 9 to 17 weeks is （204号 $0 . 6 4 \%$ to $0 . 6 5 \%$ ：
+
+Key words: lysine; growing period; Jinghong pullets; reproduction organs development

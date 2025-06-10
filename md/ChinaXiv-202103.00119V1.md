@@ -1,0 +1,349 @@
+# 需求和接受的授权型领导匹配对下属工作结果的影响：情绪耗竭的中介作用\*
+
+宋琪 陈扬
+
+(西南财经大学工商管理学院，成都 611130)
+
+摘 要 基于人-环境匹配理论和压力认知交互作用理论，本文探讨了下属需求和接受的授权型领导匹配性对下属态度、行为和绩效的影响及情绪耗竭的中介作用。本文分别通过对150位领导与150位下属(研究1)、50位领导与243位下属(研究2)的配对样本开展两项多时点、多来源的问卷数据收集，并采用跨层次多项式回归和响应面分析方法得出以下结论:(1)下属需求和接受的授权型领导失配会导致下属情绪耗竭;(2)相对于授权不足，领导的过度授权更会导致下属情绪耗竭；(3)下属需求和接受的授权型领导匹配性通过作用于下属情绪耗竭进而影响下属对领导的满意度、组织公民行为和工作绩效。
+
+关键词 需求的授权型领导，接受的授权型领导，供给-需求补偿性匹配，情绪耗竭
+
+分类号B849
+
+# 1问题提出
+
+在当前VUCA时代，组织愈加注重扁平化组织结构和实施员工自我管理。在此情况下，授权型领导因能提升员工的自我管理和自我领导能力，颇受学者关注(Gavin,2019)。现有研究大多聚焦授权型领导的积极效应，认为授权型领导可通过促进员工心理授权感知、内在动机和自我效能感，进而激发积极的工作结果(Tang etal.,2020)。近来，少量研究却逐渐发现，授权型领导也存在消极面，如会增加工作压力、引起角色模糊和耗散情绪资源等(Cheong et al.,2016; Humborstad & Kuvaas,2013; Krasikova et al.,2019)。这些关于授权型领导作用的不一致研究结论，不仅困扰着理论界，也让管理者无所适从。
+
+上述不一致的研究结论充分说明授权型领导的有效性是存在边界的。下属作为领导行为的对象，对授权型领导是否能取得预期成效起着关键的作用。正如Uhl-Bien 等(2014)所强调，领导过程是双向的，领导行为的有效性是领导和下属相互作用的结果。因此，本文采用领导-下属双边视角来洞悉授权型领导有效性的作用边界，这对于深化授权理论和指导管理者有效授权均大有裨益。此外，鉴于心理需求的满足攸关个体有效性，下属接受的领导授权是否契合其对授权的心理需求极有可能会影响授权成效(Deci& Ryan，2000;Lorinkova et al.,2013)。因此我们有必要结合新的理论视角，将下属需求和接受的授权型领导同时纳入研究范畴，以深入探讨领导授权对下属工作结果的影响效应。
+
+供给-需求补偿性匹配作为人-环境匹配理论(Person-environment fit theory)的重要子类型,关注个体心理需求是否被环境供给所满足的影响，其中环境供给包括薪资、认可、社会关系等(Kristof-Brown & Guay,2011)。近来,Tepper 等(2018)基于该匹配类型，将领导行为架构为一类可满足下属心理需求的环境供给。授权型领导作为重要的领导行为类型，亦是可被用来满足下属自主等心理需求的环境供给。鉴于性格、能力和目标导向等方面的个体差异，授权型领导的需求因人而异。本文通过整合 Zhang 和 Bartol(2010)关于授权型领导的定义，将下属需求的授权型领导界定为下属对领导授权行为的需求程度，具体行为包括增强工作意义、传递信心、促进决策参与和强化自主权。从上述定义可看出，下属需求和接受的授权型领导(即感知的领导授权行为供给)是两个相关但不等同的概念。下属接受的授权型领导并不总是契合下属的需求，而且在多数情况下，两者是存在差异的，会存在授权过度(接受〉需求)和授权不足(接受<需求)的情形(Vogel et al.,2020)。因此，本文基于供给-需求补偿性匹配框架，探讨下属需求和接受的授权型领导不同组合对下属工作结果的差异化影响，旨在进一步明晰授权型领导对下属的复杂影响效应。
+
+那么,需求和接受的授权型领导匹配性(以下简称授权型领导匹配性)是如何对下属工作结果产生影响的？人-环境匹配理论指出个体感知的供需失配会引发一系列消极后果，但未阐述该影响展开的具体过程。鉴于该传导机制的澄清是我们理解和解构授权型领导匹配性影响效应的关键所在，本文进一步整合压力认知交互作用理论(The transactional model of stress)以洞悉该内部作用机制的黑箱。压力认知交互作用理论指出，压力源自个体基于自身状况对外部环境的评估，是个体和环境相互作用的结果(Lazarus&Folkman,1984)。基于该理论的观点，下属需求和接受的授权型领导失配表征了个体评估其理想状态(desired states)与环境现状(actual states)存在差距，这作为压力源极可能通过耗损下属资源引发情绪耗竭这一典型的压力反应，最终对下属对领导的满意度、组织公民行为和工作绩效产生消极影响(Lazarus,1993;Lazarus & Folkman,1984)。为了更细微地勾画该影响过程，本文进一步探讨了授权过度和授权不足这两种失配情形对下属情绪耗竭和最终工作结果的不对称影响，具体模型如图1所示。
+
+综上，本文整合人-环境匹配理论和压力认知交互作用理论，先后通过对150 份(研究1)
+
+和 243 份上下级配对样本(研究2)开展两项多时点、多来源的数据收集，并采用跨层次多项式回归和响应面分析方法，旨在探讨授权型领导匹配性对下属对领导的满意度、组织公民行为和工作绩效的影响及情绪耗竭在其中的中介作用。与以往多数研究仅从领导这一单边视角出发探讨其授权行为对下属的积极影响不同，我们采取“领导-下属"双边视角，指出授权型领导对下属的影响仅是下属接受的领导授权行为的函数，而这个函数的效价，取决于下属对授权型领导的需求水平，该研究在理论上有利于完善授权型领导有效性边界研究，深化授权理论的发展，在实践上为管理者有效授权提供指导。
+
+![](images/791fb9313e60c9c9eb02c613154d45342576843f3eab2772b78b80b9f2a3eea0.jpg)  
+图1理论模型
+
+# 1.1 理论基础
+
+# 1.1.1人-环境匹配理论
+
+本文首先基于人-环境匹配理论来探讨授权型领导匹配性效应。人-环境匹配理论根据内涵可分为附助性匹配和补偿性匹配，其中附助性匹配是指个体和其所处环境的特征一致时所达成的匹配(如价值观一致性、性格相似性等)，具体包括个人-上级匹配、个体-团队匹配等。补偿性匹配包括需求-能力匹配和供给-需求匹配，前者是指个体的知识、技能和能力可满足工作的要求，而后者是指个体的心理需求可被环境的供给所满足(Kristof-Brown& Guay,2011)。供给-需求匹配作为雇佣关系中最重要的匹配类型，对员工的态度、行为和绩效具有十分关键的影响(Cao& Hamori,2020)。鉴于授权型领导作为一项重要的环境供给，且本文关注的是下属对授权型领导的心理需求在多大程度上被领导的授权行为供给所满足的影响效应，本文将聚焦于供给-需求补偿性匹配这一类型。
+
+在供给-需求补偿性匹配框架下，个体会将其对授权型领导的心理需求和从环境接受的供给进行对比，在此基础上形成四种不同的组合：低水平匹配、授权不足、高水平匹配和授权过度(如图 2 所示)。其中，授权不足是指个体接受的授权尚未满足其需求，而授权过度则是指个体接受的授权超过其需求。供需匹配框架的核心原则是个体的工作结果取决于个体感知的供需匹配度，感知的供需失配会通过一系列复杂影响机制对个体工作结果产生消极影响，但人-环境匹配理论尚未明晰该内部传导的具体机制。
+
+![](images/858ea588f373ebaf14ca3a9c8e0b54ce1cde4def54f92ff58b480d20753aa52a.jpg)  
+图2下属需求和接受的授权型领导组合情况
+
+# 1.1.2压力认知交互作用理论
+
+本文进一步通过整合压力认知交互作用理论以洞悉该传导机制。压力认知交互作用理论指出，压力源自个体和环境相互作用的结果，个体基于自身状况对环境的认知评价是压力产生的关键(Lazarus&Folkman,1984)。Lazarus (1993)进一步指出压力是失衡的人-环境关系。因此，个体感知自身理想状况与外部环境现状存在差距是典型的压力源(Gabriel et al.,2014)。这一压力源极有可能通过耗损个体的资源引发情绪耗竭这一压力反应，进而对个体工作结果产生消极影响(Edwards,1996)。本文通过将压力认知交互作用理论应用到供需匹配这一人-环境关系中，以洞悉授权型领导供需匹配性对下属影响的作用机制。具体地，在供需匹配中，失衡的人-环境关系分为环境供给大于个体需求和环境供给小于个体需求两种情形。供需匹配理论指出个体会基于自身资源和能力等状况形成对外部环境事物的心理需求程度(Edwards,1996)。压力认知交互作用理论指出，当个体感知外部环境供给大于自身需求时，个体会做出应对外部环境超出个体的资源和能力水平的评价，此时压力便会产生。在应对该压力环境的过程中，个体资源会不断耗损从而引发情绪耗竭(Lazarus＆Folkman,1984)。而当个体感知外部环境供给小于自身需求时，个体会经历由心理需求未满足这一负面体验所引起的消极情绪，应对消极情绪也会消耗个体的资源从而增大情绪耗竭出现的可能性(Lazarus,1993)。综上，基于压力认知交互作用理论，本文将下属需求(理想)和接受(现实)的授权型领导失配界定为压力源，并通过引入情绪耗竭这一中介机制以洞悉该压力源对下属工作结果的影响过程。
+
+# 1.2授权型领导匹配性与下属情绪耗竭
+
+(1）需求和接受的授权型领导匹配与失配
+
+基于压力认知交互作用理论，我们预测下属需求和接受的授权型领导失配会引发下属的情绪耗竭。本文从过度授权和授权不足这两种情形来论证该假设。过度授权表征了下属感知其接受的授权型领导超出自身需求这一失衡的人-环境关系情形。Lazarus 和Folkman (1984)指出，个体会基于自身资源和能力等状况对外部坏境进行评估，当个体评估应对外部坏境超出自身资源和能力时，压力就会产生。结合到本文情境，下属基于自身资源能力状况形成对领导授权的心理需求水平。在过度授权时，下属承担了超出其资源和能力范围之外的领导授权行为。为了应对该压力情形，下属所开展的工作任务的深度和广度都大为增加，这极有可能引发双重任务加工效应和角色压力损耗效应，进而增大情绪耗竭出现的可能性。具体地双重任务加工效应是指个体同时开展多个任务会引起认知干扰和认知转换，这两个过程均会消耗资源。在过度授权时，下属承担了过多的工作任务，不仅要自行制定决策，还得负责决策实施，多个任务的并行开展会引发双重任务加工效应，引发情绪耗竭(Rubinstein et al.,2001)。另一方面，权力和责任相伴相生，自主权和不确定性亦相伴相随。在下属感知领导过度授权时，卜属需要承担与权力相对等的工作责任，这些超出其承受范围的责任便会被解读为工作负担，造成下属角色过载(彭坚，王震,2018)。同时，授权型领导通过鼓励下属自我领导和自我管理，促进了下属角色转换，但这也无形中也增加了下属的角色模糊，当下属接受的领导授权超出其需求时，下属体验的不确定性便会加剧升级(Martin et al.,2013)。角色过载和角色模糊不仅会吞噬下属现有资源，还要求下属不断投入时间、精力等能源性资源予以应对，进而加速下属资源损耗，久而久之出现情绪耗竭便是必然现象。
+
+授权不足表征了下属感知其接受的授权型领导不足以满足其需求这一失衡的人-环境关系情形。现有研究发现，心理需求未满足这一负面体验会通过引发消极情绪损耗个体的生理和心理资源，进而增大情绪耗竭出现的可能性(Lazarus，1993)。当外部资源供给不能满足个体需求时，个体体验到的消极情绪会消耗个体的生理资源。如Oishi 等(2017)研究显示当人体大脑没有被感知到有意义的东西刺激时(授权型领导的一个重要维度是增强下属的工作意义)，大脑的愉悦中心会产生消极情绪，从而耗损个体的生理资源。此外,Burke 和Greenglass(1993)研究还发现当个体感知到组织没有满足其自主和自我实现等需求时，个体会经历沮丧等消极情绪，这会耗损个体的心理资源。最后，Vogel等(2020)的研究则直接为上文论述提供了支持，他们发现当个体对工作意义的需求未得到满足时，个体会体验到情绪耗竭和疲惫
+
+感。综上，本文提出：
+
+H1：下属需求和接受的授权型领导越不匹配，下属越会体验到情绪耗竭。
+
+(2）授权不足和授权过度对情绪耗竭的不对称效应
+
+本文认为在不匹配的情况下，授权不足和授权过度对下属情绪耗竭具有不对称的影响。具体地，相对于不足，授权过度这一压力情形对下属情绪耗竭的影响更明显。基于压力认知交互作用的观点，个体会根据应对外部环境所需消耗的资源来评估外部环境的压力程度。当应对外部环境需要消耗个体更多的时间和精力等资源时，个体会将其评估为更有压力的，并由此体验到更高水平的情绪耗竭(Lazarus，1991)。因此，本文通过对比下属应对授权过度和授权不足这两种压力情形对下属资源损耗程度的差异来论证该假设。具体地，在过度授权情形下，下属感知到领导给予的授权超出了自身的能力范围，此时下属承担的工作任务深度和广度都大幅增加，这要求下属投入更多的时间和精力等资源来并行开展多个任务，这一过程还会产生认知干扰和任务转换成本，损耗个体的资源(Langfred&Moye,2004)。此外，领导授权行为会增加下属感知的不确定性，下属需要花费额外的时间和精力来适应角色转换和理顺任务结构，此时下属体验的不确定性也会耗损个体的认知和情绪资源。进一步地，现有授权型领导研究相继指出，领导授权只有在契合下属预期和偏好时，才能取得预期成效，反之则会被解读为自由放任等消极领导方式，使授权型领导过程失效(Wong&Giessner,2018)。
+
+相反，在授权不足情形下，下属感知到领导在管理过程中更多的是采取下达命令和提供指挥的方式，如为下属制定目标计划并理清任务结构间的关系。此时，下属仅需按部就班地完成领导下达的指示，承担的工作任务数量和复杂性都相对减少，从而减少了多个任务并行加工引起的资源损耗。此外，授权不足尽管不利于激发下属的自主性动机，但是领导会给予下属具体的指示和命令，这使得下属在工作中体验的不确定性较低，从而资源耗损的程度相对于授权过度会有所下降。通过对比授权不足和过度所消耗的个体资源差异程度可知，下属会将授权过度评估为更有压力的，因此这一情形对下属情绪耗竭的正向影响也更为明显。综上，本文提出:
+
+H2：在失配的情况下，与授权不足相比，授权过度更易引起下属情绪耗竭。
+
+# 1.3下属情绪耗竭的中介作用
+
+情绪耗竭是指个体认知、情绪和生理资源处于耗竭的状态(Grant et al.,2014)。现有研究表明，情绪耗竭对个体的态度、行为和绩效都有重要的影响(Matta et al.,2017)。本文重点关注授权型领导匹配性通过情绪耗竭对领导的满意度、组织公民行为和工作绩效这三个结果变量的影响。本文之所以选择这三个结果变量，是因为其不仅是人-环境匹配理论和压力理论关注的核心结果变量，同时也会对个体和组织有效性产生重要影响(Bliese etal,2017; Tepperet al., 2018)。
+
+根据压力认知交互作用理论，个体经历的压力会通过引起情绪耗竭对个体工作结果产生消极影响(Lazarus,1993)。具体地，鉴于下属所拥有的资源是有限的，下属在经历因授权型领导供需失配所引致的情绪耗竭后，下属可供用来投入在工作中的时间、精力等资源会减少，而这类资源的投入是提高工作绩效的保障，因此，经历情绪耗竭后的下属工作绩效也会相应降低。与此同时，当下属因需求和接受的领导授权失衡而体验情绪耗竭后，个体会将这种消极体验归咎于领导授权不当、领导无方，对领导的满意度会降低。最后，充沛的资源也是个体实施组织公民行为这一角色外行为的前提和保障。经历情绪耗竭的下属会减少实施组织公民行为这类主动性行为的可能性。综合H1和H2，本文提出:
+
+H3：下属需求和接受的授权型领导匹配性通过情绪耗竭影响下属(3a)对领导的满意度、(3b)组织公民行为和(3c)工作绩效。
+
+# 1.4研究概览
+
+本文先后通过对150 位领导-150位下属(研究1)和 50 位领导-243位下属的配对样本(研究2)，开展了两项多时点、多来源的问卷数据收集来验证所提假设，该研究设计有利于提升本文的外部效度和证明研究结论的可复制性。此外，鉴于研究1仅用部分题项来测度核心构念授权型领导，研究2进一步用完整量表对其进行测度，以提高研究结论的严谨性。最后，研究1中下属自评的变量均来自同一时间点，可能会存在反向因果关系。为了提高研究结论的可信度，我们增加了研究2并在间隔的时间点分别收集自变量和中介变量来检验所提核心假设(即H1和H2)，有利于更好地进行因果关系推断。
+
+# 2研究1
+
+# 2.1研究方法
+
+# 2.1.1样本与数据收集
+
+本研究在12家大中型金融保险、通讯和咨询行业的企业，开展了为期二轮、中间间隔半个月的问卷数据收集。具体地，我们委托每个公司的人力资源经理在公司内部群发送了邀请信和说明书(含收集流程、样本要求、完全匿名、学术目的和自愿参与等信息)，最终150对上下级愿意参与本次调研且样本内部不存在人员重叠。第一阶段，我们邀请150位下属评估其需求和接受的授权型领导、情绪耗竭、对领导的满意度和人口统计变量。半个月后，我们邀请150位领导评估下属的工作绩效、组织公民行为和自身人口统计变量。所有领导和
+
+下属均提供了有效的问卷。
+
+领导样本特征：男性占比 $5 2 . 0 \%$ ；年龄均值为 $3 4 . 1 7 ( S D = 6 . 0 6 )$ ；学历专科和本科分别占比 $2 6 . 0 \%$ 和 $7 4 . 0 \%$ ；平均工作年限为 $6 . 8 4 ( S D = 3 . 7 5 )$ 。下属样本特征：男性占比 $5 4 . 0 \%$ ；年龄均值为 $2 9 . 8 6 ( S D = 5 . 2 4 )$ ；学历专科和本科分别占比 $5 0 . 7 \%$ 和 $4 5 . 3 \%$ ；平均工作年限和与现有领导共事年限分别为 $3 . 7 2 ( S D = 2 . 7 4 )$ 和2.8 $5 ( S D = 1 . 6 2 )$ 。
+
+# 2.1.2变量测量
+
+本文使用西方成熟量表对各个变量进行测度，并采用"翻译-回译"的方法进行中文量表的确定。除非特别说明，各变量采用Likert-7量表进行评分( $1 =$ 非常不同意, $7 =$ 非常同意)。
+
+授权型领导。本研究使用 Zhang 和 Bartol (2010)开发的四维度授权型领导量表中每个维度因子载荷最高的题项来测量该构念，包括“领导帮助我理解我的目标与所在团队目标的关联性"(增强工作意义)、“领导让我参与制定一些决策"(促进决策参与)、“领导相信我能够处理困难的任务"(传递信心)和"领导允许我按照自己的方式开展工作"(强化自主权)。本文关注的是下属感知的授权型领导供需匹配性的影响效应，因此我们邀请下属评估对以上四类授权型领导行为的需求(具体为：您认为领导在多大程度上实施以下行为是合适的)和接受程度(具体为：请您根据实际情况，评估领导在多大程度上实施以下行为)( $1 =$ 从不， $7 =$ 总是)(需求的授权型领导:Cronbach's $\mathtt { a } = 0 . 9 0$ ；接受的授权型领导:Cronbach's $\alpha = 0 . 8 1$ ）
+
+情绪耗竭。本文采用 Watkins 等(2014)开发的三题项量表，样题如"经常一整天的工作下来，我感到筋疲力尽"(Cronbach's $\mathtt { a } = 0 . 9 3$ ）
+
+对领导的满意度。本文采用Janssen (2001)开发的三题项量表。下属被邀请评估其对“与领导之间的协作"等方面的满意度(Cronbach's $\mathfrak { a } = 0 . 9 0 \$ ）
+
+组织公民行为。本文采用Podsakoff等(1990）开发的针对组织的组织公民行为五题项量表，由领导评价。样题如"该员工会主动加班以更好地完成工作"(Cronbach's $\mathfrak { a } = 0 . 9 1$ ）
+
+工作绩效。本文采用Bala和Venkatesh(2016)开发的四题项量表，由领导评价。样题如"该员工能成功地履行全部工作职责"(Cronbach's $\mathbf { \boldsymbol { a } } = 0 . 8 9$ ）
+
+# 2.1.3分析策略
+
+(1）跨层次响应面分析(Multilevel response surface analyses)
+
+鉴于领导-下属嵌套在不同的公司，本研究采用ICC1的方法分解模型内生变量的方差以核实进行跨层次分析的必要性(Bliese&Hanges,2004)。结果显示，情绪耗竭 $( \mathrm { I C C 1 } = 0 . 1 1$ $p =$ 0.007)、对领导的满意度 $( \mathrm { I C C 1 } = 0 . 1 0$ $p = 0 . 0 1 2 )$ 和组织公民行为 $\mathrm { ( I C C 1 = 0 . 0 9 }$ $p = 0 . 0 1 6 )$ 均具有显著的组间差异，但工作绩效的组间差异不显著 $\mathrm { ( I C C 1 } = 0 . 0 2$ $p = 0 . 2 7 0 \AA$ 。鉴于授权型领导匹配性对情绪耗竭的影响是关注的核心，根据 $\mathrm { w } _ { \mathrm { u } }$ 和Kwok (2012)的建议，如重点关注的内生变量在组间的方差存在显著差异，则有必要进行跨层次分析。因此，本文在Mplus 8.2中采用"Type $\mathbf { \Sigma } = \mathbf { \Sigma }$ Twolevel"和"Estimator $\mathbf { \Sigma } = \mathbf { \Sigma }$ MLR"命令进行回归分析验证所提模型(Muthen& Muthen,2019)。在分析中，我们采取不在组织层面加入预测变量，而让该层次内生变量截距项的方差进行随机效应估计来控制所有内生变量在组织层面方差的影响(Bryk&Raudenbush,1992)。
+
+具体地，本研究架构了如下多项式回归模型:
+
+其中 $N$ 代表需求的授权型领导， $R$ 代表接受的授权型领导， $N ^ { 2 } , N { \times } R$ 和 $R ^ { 2 }$ 为三个二次项。为了减少乘积项构建过程中存在的多重共线性和便于结果的阐述，我们用总均值中心化后的 $N$ 和 $R$ 来构建乘积项(Carter&Mossholder,2015)。此外，我们使用回归系数 $b _ { 0 } . b _ { 5 }$ 来绘制三维响应面，其中下属需求和接受的授权型领导分别坐落在底面的 $\boldsymbol { \mathrm { \Sigma } } _ { \mathrm { X } }$ 轴和Y轴，下属情绪耗竭为Z轴。
+
+根据Edwards 和Cable (2009)，为了验证H1，需计算不一致线 $( N = - R )$ 的曲率 $( b _ { 3 } - b _ { 4 } +$ $b _ { 5 } )$ 。当上述曲率为正显著时，代表下属需求和接受的授权型领导越不匹配，下属情绪耗竭越高。
+
+本文采用 Cole 等(2013)提出的计算侧向位移量(Lateral shift quantity $\mathit { \Pi } = \ [ b _ { 2 } - b _ { I } ) / [ 2 \times ( b _ { 3 }$ $\left. - b _ { 4 } + b _ { 5 } ) \right] ,$ )的方法来验证H2。侧向位移量可以说明响应面沿着不一致线的位移量和方向。如果侧向位移量为正显著则代表情绪耗竭在授权过度 $( N \ < \ R )$ 区域的值高于其在授权不足 $( N >$ $R _ { , } ^ { \prime }$ 区域的值，则H2 得到支持。本文在RStudio 中采用Bootstrapping 法检验侧向位移量的显著性。
+
+(2）块变量分析(Block variable approach)
+
+本文使用 Edwards 和Cable (2009)提出的块变量分析法进行中介效应检验。具体地，我们首先生成一个区集变量来表示下属需求和接受的授权型领导匹配性，具体做法是将五项式 $N , R , N ^ { 2 } , N { \times } R$ 和 $R ^ { 2 }$ 原始数值分别乘以在多项式回归中各自的回归系数。然后对模型重新进行回归分析得出：1)匹配性对情绪耗竭的路径系数a;2)控制了匹配性后，情绪耗竭对三个结果变量的路径系数b；3)控制了情绪耗竭后，匹配性对三个结果变量的路径系数c'。最后,计算中介效应值 $( \mathrm { a } \times \mathrm { b } )$ 并采用Bootstrapping方法以检验其统计显著性。
+
+# 2.2研究结果
+
+# 2.2.1验证性因子分析(Confirmatory factoranalyses,CFA)
+
+我们使用Mplus 8.2进行CFA 以检验模型所涉及变量间的区分效度。鉴于需求和接受的授权型领导各个测量题项是相同的，我们在分析时让其对应题项间的残差相关(Tepper et al.,2018)。结果显示本研究所提出的六因子模型对数据的拟合指数很好 $( \chi ^ { 2 } _ { ( 2 1 1 ) } = 3 7 8 . 9 5$ $p < 0 . 0 0 1$ $\mathrm { C F I } = 0 . 9 4 , \mathrm { T L I } = 0 . 9 2 , \mathrm { R M S E A } = 0 . 0 7 , \mathrm { S R M R } = 0 . 0 5 )$ ，且显著优于其他备择模型(all $p \mathrm { s } \ [ \Delta \chi ^ { 2 } ]$ $\phantom { - } < 0 . 0 0 1 \phantom { - }$ )，这说明各变量间的区分效度较好。
+
+# 2.2.2描述性统计分析
+
+表1汇报了本研究所涉及变量的均值、标准差和相关系数。鉴于下属需求和接受的授权型领导相关系数较高，根据专家Edwards的建议，如果两构念对应因子间相关系数 $( r _ { j } )$ 的 $9 5 \%$ CI不包含1，则说明两构念在统计上是可区分的、独立的变量。此外如果两构念在散点图上的得分并未集中在 $\mathbf { Y } = \mathbf { X }$ 线一侧，则进一步表明开展匹配性研究是有理论价值的。在本研究中: $r$ 增强工作意义 $= 0 . 6 1$ ， $9 5 \%$ CI [0.45, 0.74]; $r$ 传递工作信心 $= 0 . 6 0$ $9 5 \%$ CI [0.48, 0.70]; $r$ 促进决策参与 $= 0 . 5 6$ $9 5 \%$ CI [0.42, 0.67]; $r$ 给予自主权 $= 0 . 6 4$ $9 5 \%$ CI[0.52,0.74]，均未包含1。此外，我们还绘制了需求和接受的授权型领导得分散点图，图形显示下属得分较为均匀地分布在 $\mathbf { Y } = \mathbf { X }$ 线的两侧。
+
+表1各变量的均值、标准差和相关系数(研究1)  
+
+<html><body><table><tr><td>变量</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.需求的授权型领导</td><td>5.30</td><td>0.94</td><td>(0.90)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.接受的授权型领导</td><td>5.34</td><td>0.79</td><td>0.76**</td><td>(0.81)</td><td></td><td></td><td></td><td></td></tr><tr><td>3.情绪耗竭</td><td>3.94</td><td>1.32</td><td>-0.25**</td><td>-0.19*</td><td>(0.93)</td><td></td><td></td><td></td></tr><tr><td>4.对领导的满意度</td><td>5.37</td><td>0.94</td><td>0.68**</td><td>0.62**</td><td>-0.35**</td><td>(0.90)</td><td></td><td></td></tr><tr><td>5.组织公民行为</td><td>5.53</td><td>0.94</td><td>-0.03</td><td>-0.13</td><td>-0.23**</td><td>-0.11</td><td>(0.89)</td><td></td></tr><tr><td>6.工作绩效</td><td>5.50</td><td>0.88</td><td>0.53**</td><td>0.63**</td><td>-0.28**</td><td>0.68**</td><td>-0.13</td><td>(0.91)</td></tr></table></body></html>
+
+注：个体层 $N = 1 5 0$ ；信度系数标注在对角线括号内; $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ 。
+
+# 2.2.3假设检验
+
+我们首先开展了两项前置性检验，以核实使用多项式回归和响应面分析的必要性和适用性。首先，本文对比了三个二次项加进去后对情绪耗竭解释力的改善程度，从表2可知，三个二次项的 $F _ { ( 3 , ~ 1 4 4 ) } = 5 . 4 6$ $( p = 0 . 0 0 1 )$ ，这说明进行多项式回归是有必要的。其次，根据Edwards 和Parry(1993)，如若假设结果变量的最大值出现在不一致线 $( N = - R )$ 上，则响应面第一主轴不能沿不一致线发生偏转或平移。具体地，我们首先计算驻点 $( N _ { 0 } , R _ { 0 } )$ 和第一主轴的截距 $\left( p _ { 1 0 } \right)$ 和斜率 $( p _ { 1 1 } )$ ， $p _ { 1 1 }$ 是否与-1有显著差异可用来判断响应面是否沿不一致线发生偏转,而 $- p _ { 1 0 } / ( p _ { 1 1 } + 1 )$ 是否与0有显著差异可用来判断响应面是否沿不一致线发生平移。 $p _ { 1 1 }$ 和$- p _ { 1 0 } / ( p _ { 1 1 } + 1 )$ 的显著性水平采用Bootstrapping 法进行检测。结果显示， $\begin{array} { r } { p _ { 1 1 } = - 1 . 1 6 , 9 5 \% \mathrm { C I } [ - 2 . 2 0 , } \end{array}$ 0.74]，包括-1。 $- p _ { 1 0 } / ( p _ { 1 1 } + 1 ) = - 1 . 6 1$ $9 5 \%$ CI[-88.92,95.29]，包括0。上述结果说明第一主轴并未沿不一致线发生偏转或平移。
+
+(1）匹配性效应检验
+
+H1 预测下属需求和接受的授权型领导失配会导致下属情绪耗竭。从表2可知，不一致线的曲率正显著(曲率 $= 1 . 1 5$ $p = 0 . 0 0 7 \mathrm { \Omega }$ ),H1 得到支持。如图3所示，响应曲面沿着不一致线（20 $( N = - R )$ 的曲面向下弯曲，这说明需求和接受的授权型领导越不匹配，下属情绪耗竭越高。
+
+H2 预测相对于授权不足，授权过度越会引致下属情绪耗竭。从表2可知，侧向位移量 $\mathbf { \bar { \rho } } = \mathbf { \rho }$ 0.31, $9 5 \%$ CI[0.05,0.82]，不包括0,H2得到支持。图3直观呈现了该效应，在不一致线左侧区域(授权过度: $N < R )$ 情绪耗竭的值要大于右侧区域(授权不足: $N > R )$ 。
+
+表2跨层次多项式回归结果(研究1)  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="2">情绪耗竭</td></tr><tr><td>M1</td><td>M2</td></tr><tr><td>bo常量</td><td>3.95** (0.08)</td><td>4.05***(0.07)</td></tr><tr><td>bi需求的授权型领导 (N)</td><td>-0.33 (0.18)</td><td>-0.58*** (0.14)</td></tr><tr><td>b2接受的授权型领导 (R)</td><td>-0.03 (0.15)</td><td>0.14 (0.21)</td></tr><tr><td>b N²</td><td></td><td>0.16 (0.13)</td></tr><tr><td>b4 NR</td><td></td><td>-0.73** (0.23)</td></tr><tr><td>b5R²</td><td></td><td>0.27*(0.13)</td></tr><tr><td>三个二阶项的F值(N²,NR,R²)</td><td></td><td>5.46**</td></tr><tr><td>Pseudo-R²</td><td>0.06</td><td>0.16**</td></tr><tr><td>△Pseudo-R²</td><td></td><td>0.10**</td></tr><tr><td>响应面分析</td><td></td><td></td></tr><tr><td>驻点坐标 (No,Ro)</td><td></td><td>(-0.58,-1.05)</td></tr><tr><td>第一主轴 R=P10+p1IN</td><td></td><td>R=-1.16 -1.72N</td></tr><tr><td>-p10/(p11+1)</td><td></td><td>-1.61</td></tr><tr><td>侧向位移量 (b2-bi)/[2x(b3-b4+ b5)]</td><td></td><td>0.31*</td></tr><tr><td>不一致线 (N=-R)</td><td></td><td></td></tr><tr><td>斜率 (b1-b2)</td><td></td><td>-0.72*(0.32)</td></tr><tr><td>曲率 (b3-b4+bs)</td><td></td><td>1.15** (0.42)</td></tr><tr><td>一致线 (N=R)</td><td></td><td></td></tr><tr><td>斜率 (bi+b2)</td><td></td><td>-0.45**(0.16)</td></tr><tr><td>曲率 (b3+b4+b5)</td><td></td><td></td></tr><tr><td></td><td></td><td>-0.31***(0.08)</td></tr></table></body></html>
+
+注：个体层 $N = 1 5 0$ ，组织层 $N = 1 2$ ；表中系数为非标准化系数(括号内为标准误); $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ，\*\*\*p <0.001。
+
+![](images/1731306df4b816de20457ceec8598cfb18d4bb99dc91ec84e3ca9dd3524b8c22.jpg)  
+图3授权型领导匹配性对下属情绪耗竭的影响(研究1)
+
+(2）中介效应检验
+
+H3 预测，授权型领导匹配性通过下属情绪耗竭对下属(a)对领导的满意度、(b)组织公民行为和(c)工作绩效产生影响。如表3所示，授权型领导匹配性这一区集变量与下属情绪耗竭显著正相关 $( b = 0 . 9 2 , p < 0 . 0 0 1 )$ ；下属情绪耗竭负显著影响下属对领导的满意度 $( b = - 0 . 1 1 , p$ $= 0 . 0 0 4 )$ 、组织公民行为( $\cdot b = - 0 . 1 4$ $p = 0 . 0 0 2 )$ 和工作绩效 $( b = - 0 . 1 0 , p = 0 . 0 1 1 )$ 。进一步地，授权型领导匹配性通过情绪耗竭对下属：(1)对领导的满意度的中介效应为-0.10, $9 5 \%$ CI [-0.20,$- 0 . 0 3 ]$ ； (2)组织公民行为的中介效应为-0.13, $9 5 \%$ CI[-0.25, $- 0 . 0 4 ]$ ;(3)工作绩效的中介效应为-0.10, $9 5 \%$ C $\mathrm { ~ I ~ } [ - 0 . 2 0 , - 0 . 0 2 ]$ 。以上三个置信区间均未含 $0 , { \mathrm { H } } 3 { \mathrm { a } } $ 、H3b 和 H3c 均得到支持。
+
+表3中介效应检验(研究1)  
+
+<html><body><table><tr><td rowspan="2">变量</td><td rowspan="2">中介变量 情绪耗竭</td><td colspan="3">结果变量</td></tr><tr><td>对领导的满意度</td><td>组织公民行为</td><td>工作绩效</td></tr><tr><td>授权型领导匹配性区集变量(匹配性)</td><td>0.92***(0.18)</td><td>0.90***(0.08)</td><td>1.06***(0.25)</td><td>0.95***(0.09)</td></tr><tr><td>情绪耗竭</td><td></td><td>-0.11**(0.04)</td><td>-0.14**(0.05)</td><td>-0.10*(0.04)</td></tr><tr><td></td><td colspan="3">中介路径效应</td></tr><tr><td>中介路径</td><td>效应值</td><td></td><td>95% CI</td></tr><tr><td>匹配性→情绪耗竭一对领导的满意度</td><td>-0.10*</td><td></td><td>[-0.20,-0.03]</td></tr><tr><td>匹配性→情绪耗竭一组织公民行为</td><td>-0.13*</td><td></td><td>[-0.25,-0.04]</td></tr><tr><td>匹配性→情绪耗竭→工作绩效</td><td>-0.10*</td><td></td><td>[-0.20,-0.02]</td></tr></table></body></html>
+
+注：个体层 $N = 1 5 0$ ，组织层 $N = 1 2$ ；表中系数为非标准化系数(括号内为标准误); $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ ， $^ { * * * } p$ $< 0 . 0 0 1$ 。
+
+# 3研究2
+
+# 3.1研究方法
+
+# 3.1.1样本与数据收集
+
+本研究委托一家全国性专业数据调查公司(已于 2016 年初完成了新三板挂牌)协助进行被试招募工作。具体地，该公司向其旗下数据库位于西部某省近 200个团队发送了邀请信和说明书(含收集流程、样本要求、匿名填写、学术目的和自愿参与等信息)，最终来自38 家制造和服务企业的50位团队领导及其253名下属愿意参与本次调研(每个团队含4\~10名成员)。作者团队逐一与这些被试联系，以确保被试知晓该调查的学术目的和自愿参与意愿。所有被试均表示已知情且愿意全程配合。为了验证模型所提因果关系，我们进行了为期两轮、中间间隔半个月的数据收集。第一阶段邀请下属评估其需求和接受的授权型领导、心理压力、心理授权和人口统计变量信息。第二阶段邀请下属评估其情绪耗竭和对领导的满意度，邀请团队领导评估下属工作绩效和组织公民行为并填写自身人口统计变量和团队基本信息。所有发放问卷均全部回收。
+
+本文首先采用注意力检测题项检验回收问卷有效性，如"该题请选择·比较同意”，回答不合要求及整页漏选的问卷将被剔除(Lee etal.,2019)，我们共剔除无效问卷10份，最终得到有效下属问卷 243份(有效率为 $9 6 . 0 \%$ ），有效领导问卷50份(有效率为 $100 \%$ ）
+
+领导样本特征：男性占比 $4 5 . 7 \%$ ；年龄以中青年为止，位于31\~40 岁的占比高达 $6 1 . 3 \%$ 学历基本为专科 $( 3 2 . 9 \% )$ 和本科 $( 6 3 . 0 \% )$ ；平均工作年限为 $6 . 6 3 ( S D = 2 . 2 3 )$ 。下属样本特征：男性占比 $5 1 . 4 \%$ ；年龄段主要位于21\~40岁(其中21\~30 岁占比 $4 6 . 5 \%$ ;31\~40岁占比 $4 2 . 0 \% )$ ：学历基本为专科 $( 5 4 . 3 \% )$ 和本科 $( 4 0 . 3 \% )$ ；平均工作年限和与现有领导共事年限分别为3.72$\langle S D = 2 . 6 3 \rangle$ 和2.7 $7 7 ( S D = 2 . 1 9 )$ 。经检测，最终243位下属和最初253位下属在人口统计变量上并不存在显著差异 $( p = 0 . 7 6 2 { \sim } 0 . 9 6 3 )$ ，这说明不存在样本损耗偏差。
+
+# 3.1.2变量测量
+
+本研究所使用的量表和量表确定流程均与研究1 维持一致，出于内容精简性考虑，该部分仅呈现两个研究不一致的信息。除非特别说明，各关键变量均采用Likert-5量表进行评分 $1 =$ 非常不同意, $5 =$ 非常同意)。
+
+授权型领导。本研究使用Zhang 和Bartol(2010)开发的授权型领导完整量表( $1 =$ 从不，$5 =$ 总是)。授权型领导二阶因子结构模型拟合指数较好(需求的授权型领导: $\chi ^ { 2 } _ { ( 5 0 ) } = 1 0 4 . 2 5 , p$ $\textless 0 . 0 0 1$ $\mathrm { C F I } = 0 . 9 5$ ， $\mathrm { T L I } = 0 . 9 4$ ; RMSEA $= 0 . 0 7$ ; SRMR $= 0 . 0 5$ ；接受的授权型领导： $\chi ^ { 2 } { } _ { ( 5 0 ) } =$ （204号73.70, $p = 0 . 0 1 6$ ， $\mathrm { C F I } = 0 . 9 8$ $\mathrm { T L I } = 0 . 9 7$ ; RMSEA $= 0 . 0 4$ ， $\operatorname { S R M R } = 0 . 0 4 ,$ ，这支持我们将授权型领导架构为二阶变量(需求的授权型领导：Cronbach's $\textbf { \em a } = \ 0 . 9 0$ ；接受的授权型领导：Cronbach's $\alpha = 0 . 8 8 \$ ）
+
+情绪耗竭、对领导的满意度、组织公民行为和工作绩效各量表在本研究的Cronbach's α依次为0.94、0.82、0.80和0.80。
+
+控制变量。Edwards (1996)指出感知的供需失配作为压力源，可能会伴随着个体心理压力，进而对情绪耗竭产生影响。因此本文将心理压力作为控制变量，以更好地析出感知的授权型领导供需匹配性对情绪耗竭的影响。本文使用 Motowidlo 等(1986)开发的四题项量表。样题如"我在工作中感受到很大的压力"(Cronbach's $\mathbf { \boldsymbol { a } } = 0 . 8 7$ )。此外，现有研究发现，员工对授权的主观心理体验(即心理授权)会影响授权成效(Zhang&Bartol,2010)。因此，本研究将心理授权作为控制变量，并使用 Spreitzer (1995)开发的量表进行测度。鉴于问卷长度过长会降低填写质量，我们仅选取该构念每个维度因子载荷最高的题项来进行测度(Cronbach's ${ \mathfrak { a } } =$ 0.76)。出于理论因素考虑，本文将心理压力和心理授权作为控制变量，但它们加入与否并不会显著地改变模型结果。
+
+# 3.1.3分析策略
+
+鉴于243位下属嵌套在50个团队，而团队进一步嵌套在38个组织中，本文采用ICC1的方法检测跨层次分析的必要性。结果显示，情绪耗竭(团队: $\mathrm { I C C 1 } = 0 . 5 4 , p < 0 . 0 0 1$ ；组织: ICC1$= 0 . 5 1$ $p < 0 . 0 0 1 \AA .$ )、对领导的满意度(团队: $\mathrm { I C C 1 } = 0 . 3 1$ ， $p < 0 . 0 0 1$ ；组织: $\mathrm { I C C 1 } = 0 . 2 3$ ， $p <$ 0.001)、组织公民行为(团队: $\mathrm { I C C 1 } = 0 . 4 7$ $p < 0 . 0 0 1$ ；组织: $\mathrm { I C C 1 } = 0 . 3 5$ $p < 0 . 0 0 1 \$ )和工作绩效（团队： $\mathrm { I C C 1 } = 0 . 5 2 , p < 0 . 0 0 1$ ；组织： $\mathbf { I C C 1 } = 0 . 4 7 , p < 0 . 0 0 1 )$ 均在团队和组织层面存在显著的组间方差差异。本文在Mplus8.2中采用"Type $\mathbf { \Sigma } = \mathbf { \Sigma }$ Threelevel"和"Estimator $\mathbf { \Sigma } =$ MLR"命令进行跨层次多项式回归和响应面分析来验证所提模型。此外，因为需求和接受的授权型领导在团队层面存在显著的方差(需求的授权型领导: $\mathrm { I C C 1 } = 0 . 6 1$ $p < 0 . 0 0 1$ ；接受的授权型领导： $\mathbf { I C C l } =$ 0.55, $p \ < \ 0 . 0 0 1 \$ )，本文对自变量进行组均值中心化，并将自变量的组均值置于团队层截距方程式以控制其在团队层面的效应(Hofmann&Gavin,1998)。其余分析方法和研究1保持一致。
+
+本研究的多项式回归模型如下：
+
+下属情绪耗竭 $= b _ { 0 } + b _ { 0 1 }$ 心理压力 $+ b _ { 0 2 }$ 心理授权 $+ b _ { 1 } N + b _ { 2 } R + b _ { 3 } N ^ { 2 } + b _ { 4 } N { \times } R + b _ { 5 } R ^ { 2 }$
+
+# 3.2研究结果
+
+# 3.2.1验证性因子分析
+
+为了优化样本量和所估计系数间的比率，本文采用Landis 等(2000)提出的平衡题项打包技术。对于单维构念，根据题项因子载荷高低进行迭代配对，最终生成2个潜因子。对于多维构念，将每个维度打包成一个潜因子。结果显示六因子假设模型与数据间的拟合指数很好
+
+$( \chi ^ { 2 } ( 8 5 ) = 1 7 6 . 2 5$ ， $p < 0 . 0 0 1$ · $\mathrm { C F I } = 0 . 9 5$ ， $\mathrm { T L I } = 0 . 9 3$ ,RMSEA $= 0 . 0 7$ ， SRMR $= 0 . 0 6$ ，且显著优于其他备择模型 $( p ~ [ \Delta \chi ^ { 2 } ] = 0 . 0 1 9 { \sim } 0 . 0 0 1 ) ^ { 2 }$ 。
+
+# 3.2.2样本的描述性统计
+
+各变量的均值、标准差和相关系数见表4。在本研究中： $r$ 增强工作意义 $= 0 . 6 4$ $9 5 \%$ CI [0.54,0.73]; $r$ 传递工作信心 $= 0 . 6 9$ ， $9 5 \%$ CI [0.60, 0.77]; $r$ 促进决策参与 $= 0 . 7 6$ ， $9 5 \%$ CI [0.69, 0.82]; $r$ 给予自主权 $\ c =$ 0.72, $9 5 \%$ CI[0.64，0.78]，均未含1。此外，需求和接受的授权型领导得分散点图分布显示,下属得分较为均匀的分布在 $\mathbf { Y } = \mathbf { X }$ 线的两侧。
+
+表4各变量的均值、标准差和相关系数(研究2)  
+
+<html><body><table><tr><td>变量</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>1.心理压力</td><td>3.16</td><td>0.87</td><td>(0.87)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.心理授权</td><td>4.12</td><td>0.59</td><td>0.03</td><td>(0.76)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.需求的授权型领导</td><td>3.97</td><td>0.61</td><td>-0.10</td><td>0.57**</td><td>(0.90)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.接受的授权型领导</td><td>3.87</td><td>0.58</td><td>-0.08</td><td>0.54**</td><td>0.85**</td><td>(0.88)</td><td></td><td></td><td></td><td></td></tr><tr><td>5.情绪耗竭</td><td>2.30</td><td>1.08</td><td>0.13*</td><td>-0.35**</td><td>-0.21**</td><td>-0.12</td><td>(0.94)</td><td></td><td></td><td></td></tr><tr><td>6.对领导的满意度</td><td>4.04</td><td>0.61</td><td>-0.12</td><td>0.28**</td><td>0.43**</td><td>0.37**</td><td>-0.20**</td><td>(0.82)</td><td></td><td></td></tr><tr><td>7.组织公民行为</td><td>4.06</td><td>0.59</td><td>0.00</td><td>0.22**</td><td>0.13*</td><td>0.13*</td><td>-0.24**</td><td>0.17**</td><td>(0.80)</td><td></td></tr><tr><td>8.工作绩效</td><td>4.22</td><td>0.59</td><td>0.01</td><td>0.22**</td><td>0.12</td><td>0.11</td><td>-0.28**</td><td>0.17**</td><td>0.68**</td><td>(0.80)</td></tr></table></body></html>
+
+注：个体层 $N = 2 4 3$ ；信度系数标注在对角线括号内; $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ 。
+
+# 3.2.3假设检验
+
+从表5可知，三个二次项的 $F _ { \mathrm { \ ( 3 , 2 3 5 ) } } = 9 . 1 8$ （20 $( p < 0 . 0 0 1 )$ 。此外， $p _ { 1 1 } = - 0 . 6 7$ ， $9 5 \%$ CI [-1.27,0.30]，包括-1。 $- p _ { 1 0 } / ( p _ { 1 1 } + 1 ) = 9 . 6 2$ $9 5 \%$ CI[-69.26,78.37]，包括0。
+
+(1）匹配性效应检验
+
+从表5可知，不一致线 $( N = - R )$ 的曲率正显著(曲率 $= 5 . 7 3$ $p = 0 . 0 0 3 \mathrm { \cdot }$ ，因此H1得到支持。如图4所示，沿着不一致线的曲面向下弯曲，这说明需求和接受的授权型领导越不匹配,下属情绪耗竭越高。侧向位移量 $= 0 . 0 7$ $9 5 \%$ CI[0.01,0.15]，不包括0，因此H2 得到支持。如图4所示，在不一致线左侧区域(授权过度: $N < R )$ 情绪耗竭的值要大于右侧区域(授权不足:$N > R )$ 。
+
+表5跨层次多项式回归(研究2)  
+
+<html><body><table><tr><td rowspan="3">变量</td><td colspan="2">情绪耗竭</td></tr><tr><td>M1</td><td>M2</td></tr><tr><td>bo常量</td><td>4.43*** (0.75)</td><td>4.11*** (0.79)</td></tr><tr><td>bo1心理压力</td><td>0.08 (0.07)</td><td>0.09 (0.07)</td></tr></table></body></html>
+
+2本研究汇报的是个体水平的CFA分析结果。考虑到模型数据结构的嵌套性，我们将自变量设为个体层面、其他变量设为多层面进行多层次CFA分析，结果如下： $\chi ^ { 2 } ( 1 1 3 ) = 1 2 1 . 6 0$ ， $p = 0 . 2 7 4$ ：， $\mathrm { C F I } = 0 . 9 9$ ， $\mathrm { T L I } = 0 . 9 9$ RMSEA ${ \bf \varepsilon } = 0 . 0 2$ , SRMR $_ { \uparrow \cdot \nmid \ast } = 0 . 0 6$ ,SRMR $_ { \mathrm { E I } \mathrm { B } } . = 0 . 1 0$ , SRMR $\mathfrak { H A } = 0 . 0 5$ 。
+
+<html><body><table><tr><td>bo2心理授权</td><td>-0.12 (0.19)</td><td>-0.05 (0.18)</td></tr><tr><td>bi需求的授权型领导 (N)</td><td>-0.22 (0.18)</td><td>-0.36* (0.17)</td></tr><tr><td>b接受的授权型领导 (R)</td><td>0.28 (0.17)</td><td>0.42* (0.21)</td></tr><tr><td>bN²</td><td></td><td>2.06** (0.73)</td></tr><tr><td>b4 NR</td><td></td><td>-2.73** (0.96)</td></tr><tr><td>b5 R²</td><td></td><td>0.95 (0.53)</td></tr><tr><td>三个二阶项的F值(N²,NR,R²)</td><td></td><td>9.18***</td></tr><tr><td>Pseudo-R²</td><td>0.03</td><td>0.14</td></tr><tr><td>△Pseudo-R²</td><td></td><td>0.10***</td></tr><tr><td>响应面分析</td><td></td><td></td></tr><tr><td>驻点坐标 (No,Ro)</td><td></td><td>(-1.38,-2.21)</td></tr><tr><td>第一主轴R=p10+p1IN</td><td></td><td>R=-3.14-0.67N</td></tr><tr><td>-p10/(p11+1)</td><td></td><td>9.62</td></tr><tr><td>侧向位移量 (b2-b1)/[2x(b3-b4+ bs)]</td><td></td><td>0.07*</td></tr><tr><td>不一致线 (N=-R)</td><td></td><td></td></tr><tr><td>斜率 (bi-b2)</td><td></td><td>-0.78*(0.35)</td></tr><tr><td>曲率 (b3-b4+b5)</td><td></td><td>5.73** (1.91)</td></tr><tr><td>一致线 (N=R)</td><td></td><td></td></tr><tr><td>斜率 (bi+b2)</td><td></td><td>0.06 (0.15)</td></tr><tr><td>曲率 (b3+b4+b5)</td><td></td><td></td></tr><tr><td></td><td></td><td>0.27 (0.18)</td></tr></table></body></html>
+
+注：个体层 $N = 2 4 3$ ，团队层 $\cdot N = 5 0$ ，组织层 $N = 3 8$ ；表中系数为非标准化系数(括号内为标准误)；表格仅汇报的是个体层的回归分析结果; $^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 。
+
+![](images/b5e02b35b9e07d7eedb4ea87c4367f0b8e17f71fa9bc2c3594164c98e3d9ad97.jpg)  
+图4 授权型领导匹配性对情绪耗竭的影响(研究 2)
+
+(2）中介效应检验
+
+从表6可知，授权型领导匹配性与情绪耗竭显著正相关 $\mathit { \Delta } b = 1 . 0 0$ ， $p = 0 . 0 0 2 \mathrm { ; }$ ；情绪耗竭负显著影响下属：对领导的满意度 $( b = - 0 . 1 4 , p = 0 . 0 2 2 )$ 、组织公民行为 $( b = - 0 . 1 1$ ， $p = 0 . 0 0 7 \mathrm { , }$ 和工作绩效 $( b = - 0 . 1 2$ $p = 0 . 0 1 4 )$ 。进一步地，授权型领导匹配性通过情绪耗竭对下属：(1)对领导的满意度的中介效应为-0.14, $9 5 \%$ CI[-0.32，-0.01]；(2)组织公民行为的中介效应为-0.11, $9 5 \%$ CI[-0.23,-0.02];(3)工作绩效的中介效应为-0.12, $9 5 \%$ CI[-0.26,-0.02]。以上三个置信区间均不含0，因此H3a、H3b 和H3c均得到支持。
+
+表6中介效应检验(研究2)  
+
+<html><body><table><tr><td rowspan="2">变量</td><td>中介变量</td><td colspan="3">结果变量</td></tr><tr><td>情绪耗竭</td><td>对领导的满意度</td><td>组织公民行为</td><td>工作绩效</td></tr><tr><td>心理压力</td><td>0.09 (0.07)</td><td>-0.01 (0.05)</td><td>-0.01 (0.05)</td><td>0.03 (0.04)</td></tr><tr><td>心理授权</td><td>-0.05 (0.16)</td><td>0.06 (0.10)</td><td>0.01 (0.06)</td><td>0.08 (0.06)</td></tr><tr><td>授权型领导匹配性区集变量(匹配性)</td><td>1.00**(0.32)</td><td>1.00***(0.23)</td><td>1.00 (0.51)</td><td>1.00 (0.53)</td></tr><tr><td>情绪耗竭</td><td></td><td>-0.14*(0.06)</td><td>-0.11**(0.04)</td><td>-0.12*(0.05)</td></tr><tr><td colspan="5">中介路径效应</td></tr><tr><td>中介路径</td><td colspan="2">效应值</td><td colspan="2">95% CI</td></tr><tr><td>匹配性→情绪耗竭一对领导的满意度</td><td colspan="2">-0.14*</td><td colspan="2">[-0.32,-0.01]</td></tr><tr><td>匹配性一情绪耗竭一组织公民行为</td><td colspan="2">-0.11*</td><td colspan="2">[-0.23,-0.02]</td></tr><tr><td>匹配性→情绪耗竭→工作绩效</td><td colspan="2">-0.12*</td><td colspan="2">[-0.26,-0.02]</td></tr></table></body></html>
+
+注：个体层 $N = 2 4 3$ ，团队层 $N = 5 0$ ，组织层 $N = 3 8$ ；表中系数为非标准化系数(括号内为标准误); $^ { * } p < 0 . 0 5$ ，\*\*$p < 0 . 0 1$ ， $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 4结论与讨论
+
+# 4.1主要结论
+
+本文通过整合人-环境匹配理论和压力认知交互作用理论，探讨了需求和接受的授权型领导匹配性对下属对领导的满意度、组织公民行为和工作绩效的影响机制。通过对150 份(研究1)和 243份(研究2)领导-下属多阶段配对数据进行跨层次多项式回归和响应面分析，结果表明：1)下属需求和接受的授权型领导失配会导致下属情绪耗竭;2)相对于授权不足，领导过度授权更易导致下属情绪耗竭；3)下属需求和接受的授权型领导匹配性通过下属情绪耗竭进而对下属对领导的满意度、组织公民行为和工作绩效产生影响。
+
+# 4.2理论意义
+
+本文具有一系列的理论意义。首先，在授权型领导的影响方面，现有研究尚且存在积极效应论和消极效应论这两种截然不同的观点，因此我们亟需进一步完善授权型领导有效性边界的相关见解。本文基于人-环境匹配理论，采取领导-下属双边视角，将下属需求和接受的授权型领导同时纳入研究范畴，通过分析两因素的不同组合对下属情绪耗竭的差异化影响，揭示了下属对授权型领导的需求是授权型领导积极效应的边界，这不仅回应了现有学者强调领导力有效性的研究需采取“领导-下属"双边视角以更好地勾画出领导力作用过程全貌的呼吁(Uhl-Bien et al.,2014)，同时也印证了Follett (1920)关于领导哲学的经典思想，即领导过程是以领导者与下属的相互影响为基础，而不单单是领导者对下属自上而下的影响过程。
+
+因此，如果下属是授权的对象，他们的需求理应被考虑，否则不能称之为有效的授权。进一步地，本文也启发后续领导力研究，领导方式有效性的探讨可采用领导-下属双边视角，以更全面地洞悉领导方式对下属的影响。
+
+其次，本文证实了授权过度相对于授权不足更易引起下属情绪耗竭，这打破了现有研究大多认为授权型领导是万能药，在任何情况下都多多益善的论断，也和前述研究指出授权型领导存在"过犹不及"效应相呼应(Lee et al.,2017)。同时，这也说明授权型领导本身没有好坏之分，其作用效果在很大程度上取决于领导授权得当且有度，不考虑下属需求一味授权反倒会起到适得其反、得不偿失的效果。
+
+最后，本文通过整合压力认知交互作用理论到人-环境匹配理论中，探讨了情绪耗竭在传导授权型领导匹配性对下属工作结果影响的中介作用。这一中介机制的明晰，有利于我们深入理解感知授权型领导供需失配这一压力源是"如何"以及"为何"对下属工作结果产生影响的。从另外一个视角来说，本文也利于拓展情绪耗竭的相关研究。现有关于员工情绪耗竭的研究大多是从领导或者下属单一视角切入，甚少有研究从领导-下属双边视角切入来探讨情绪耗竭的影响因素。本文通过引入压力认知交互作用理论，证实了授权型领导供需失配会引致个体情绪耗竭，这也利于完善情绪耗竭的因果关系网。
+
+# 4.3实践意义
+
+本文对管理者也有一定的启发。首先，本文发现需求和接受的授权型领导失配会引起下属情绪耗竭。这启示领导者要根据下属个性、能力、目标和所处情境评估下属对授权型领导的需求，在此基础上采取定制化、自助式的授权管理，确保授权得当，过少和过度都是次优选择。尤其是在当下工作场所员工愈加多样化的情境下，更要注重这种领导方式的针对性，不可一刀切。
+
+其次，本文发现相对于授权不足，领导过度授权更会引发下属情绪耗竭。这给管理者启示，授权并不是在任何情况下都是多多益善，当下属还没有做好准备承接领导给予的授权时，领导不应该单方面过度授权，否则会引起适得其反的作用，加剧下属的情绪耗竭，所以管理者应该要循序渐进，按需授权。
+
+最后，管理者还需有动态管理的意识，因为下属的需求会随着情境、任务和能力等进行变化和调整，并非一成不变。所以管理者要定期审视授权是否得当，毕竟，过度授权和授权不足，长期以往都不利于员工和组织的发展。
+
+# 4.4不足与展望
+
+本文也存在一系列不足，需要后续研究进一步完善。首先，本文通过将压力认知交互作用理论整合到人-环境匹配理论中，探讨了情绪耗竭这一路径在传导感知授权型领导供需匹配性到工作结果中的中介作用。后续研究亦可整合其他理论视角探讨另外的中介机制。例如，可整合需求理论，探讨授权型领导匹配性是如何通过影响员工的自主、关系和成就需求进而影响工作结果，以上探讨有利于丰富授权型领导匹配性研究(Deci&Ryan,2000)。
+
+其次，本文所研究的变量均受到下属人格等个体差异影响，这些变量很有可能作为解释文章结果的第三变量。我们未将其纳入研究模型并检验这些变量加入后本文所提假设是否依然成立，这是本文存在的不足之处(Lietal.,2020)。后续采取相同范式开展的研究可考虑控制与所研究模型相关的个体差异变量，以排除所提因果关系外的其他解释。
+
+最后，虽然本文采用两个多来源、多阶段的独立样本验证了模型，可在一定程度上克服同源偏差和利于进行因果关系推断，但是该研究方法还是存在一定的局限，如两个研究均只收集了两个时间点的数据。为了排除反向因果关系的干扰，我们采用比较假设模型和反向因果关系模型的 AIC(Akaike's Information Criterion)和 BIC(Bayesian Information Criterion)值大小来进行判断。根据 Kline (2011),AIC 和 BIC 值越小，模型对数据的拟合越好，也越容易被复制。在本文中，两个研究假设模型的 AIC 和 BIC 值 $[ \mathrm { A I C } = 1 5 2 4 . 1 9$ ， $\mathrm { B I C } = 1 6 5 6 . 6 6$ (研究1);$\mathrm { A I C } \ = \ 1 6 6 1 . 9 0$ ， $\mathrm { B I C } ~ = ~ 1 8 8 5 . 4 6$ (研究 2)]均比反向因果关系的模型 $\mathrm { \Delta [ A I C ~ = ~ } 3 3 3 4 . 2 0$ ，BIC $\mathbf { \sigma } = \mathbf { \sigma }$ （204号3532.90 (研究1); $\mathrm { A I C } = 3 1 4 2 . 4 6 , \mathrm { B I C } = 3 4 0 7 . 9 4$ (研究2)]更低，这为本文所提假设的方向提供了支持。尽管如此，我们还是不能彻底排除反向因果关系的可能性，后续研究可采取三阶段数据收集或填密的实验设计来进一步验证本文所提模型。
+
+# 参考文献
+
+Bala,H.,& Venkatesh,V.(2O16).Adaptation to information technology:A holistic nomological network from implementation to job outcomes. Management Science,62(1),156-179.   
+Bliese,P.D.,& Hanges,P.J.(2OO4).Being both too liberal and too conservative: The perils of treating grouped dataas though they were independent. Organizational Research Methods,7(4),400-417.   
+Bliese,P.D.,Edwards,J.R.,&Sonnentag,S.(2O17).Stressand well-being at work: Acenturyof empirical trends reflecting theoretical and societal influences. Journal of Applied Psychology,1O2(3),389-402.   
+Bryk,A. S.,& Raudenbush,S.W.(1992). Hierarchical linear models: Applications and data analysis methods. Newbury Park, CA, US: Sage.   
+Burke,R.J.,& GreenglassE. (1993). Work stress,role conflict, social support,and psychological burnout among teachers.Psychological Reports,73(2),371-380.   
+Cao,J.,& Hamori,M.(2O2O).How can employers benefit most from developmental job experiences? The needs-supplies fit perspective.Journal of Applied Psychology,105(4),422-432.   
+Carter,M.Z.,& Mossolder, K.W.(2O15). Are we on the same page? The performance effects of congruence CiwctIS nuugy，ivU   
+Cheong,M., Spain,S.M., Yammarino,F.J.,& Yun,S. (2016). Two faces of empowering leadership: Enabling and burdening. The Leadership Quarterly,27(4), 602-616.   
+Cole,M. S., Carter, M. Z.，& Zhang,Z. (2013).Leader-team congruence in power distance values and team effectiveness: The mediating role of procedural justice climate. Journal of Applied Psychology，98(6), 962-973.   
+Deci,E.L.,& Ryan,R.M.(2Ooo).Self-determination theory and the facilitation of intrinsic motivation,social development, and well-being. American Psychologist, 55(1), 68-78.   
+Edwards,J.R. (1996). An examination of competing versions of the person-environment fit approach to stress. Academy of Management Journal,39(2),292-339.   
+Edwards,J.R.,& Cable, D.M. (2009). The value of value congruence.Journal of Applied Psychology,94(3), 654-677.   
+Edwards,J.R.，& Parry,M.E.(1993). On the use of polynomial regression equations as an alternative to difference scores in organizational research. Academy of Management Journal,36(6),1577-1613.   
+Follett, M.P.(192O). The new state.New York: Longmans, Green and Co..   
+Gabriel,A. S., DiefendorffJ. M., Chandler, M. M.，Moran, C.M.,& Greguras, G. J. (2014). The dynamic relationships of work affect and job satisfaction with perceptions of fit. Personnel Psychology，67(2), 389-420.   
+Gavin,M. (2O19).7 ways to empower your employees. Harvard Business Review. Retrieved from https://online.hbs.edu/blog/post/how-to-empower-employees.   
+Grant,A.M.,Berg,J.M.，& Cable,D.M.(2014).Job titles as identity badges: How self-reflective titles can reduce emotional exhaustion. Academy of Management Journal,57(4),1201-1225.   
+Hofmann,D.A.，& Gavin,M.B.(1998).Centering decisions in hierarchical linear models: Implications for research in organizations. Journal of Management,24(5),623-641.   
+Humborstad, S. I. W.,& Kuvaas, B. (2013). Mutuality in leader-subordinate empowerment expectation: Its impact on role ambiguity and intrinsic motivation. The Leadership Quarterly,24(2),363-377.   
+Janssen,O. (2Ool).Fairness perceptions as a moderator in the curvilinear relationships between job demands,and job performance and job satisfaction. Academy of Management Journal, 44(5),1039-1050.   
+Kline,R.B. (2O11). Principles and practice of structural equation modeling. New York: Guilford.   
+Krasikova,D., Heydarifard,Z.,& Werland,T. (2O19,July). Energizing and exhausting efects of empowerment: A within-person study of empowering leadership.Paper presented at the Annual Meeting of the Academy of Management. Briarcliff Manor, NY.   
+Kristof-Brown,A.,& Guay,R.P. (2011).Person-environment fit. In S. Zedeck (Ed.),APA handbook of industrial and organizational psychology， maintaining， expanding， and contracting the organization (pp. 3-50). Washington, DC: American Psychological Association.   
+Landis,R. S., Beal, D. J.,& Tesluk, P.E. (2Ooo). Acomparison of approaches to forming composite measures in structural equation models. Organizational Research Methods,3(2),186-207.   
+Langfred, C. W.,& Moye,N.A. (2004). Efects of task autonomy on performance: an extended model considering motivational, informational,and structural mechanisms. Journal of Applied Psychology,89(6), 934-945.   
+Lazarus,R. S. (1991). Progress on a cognitive-motivational-relational theory of emotion. American Psychologist, 46,819-834.   
+Lazarus,R. S. (1993). From psychological stress to the emotions: A historyof changing outlooks. Annual Review of Psychology,44,1-21.   
+Lazarus, R.,& Folkman, S.(1984). Stress, appraisal, and coping. New York: Springer.   
+Lee,H.W.,Bradburn,J.，Johnson,R.E.,Lin,S.H.J.,& Chang,C.H.D.(2019).The benefits of receiving gratitude for helpers: A daily investigation of proactive and reactive helping at work.Journal of Applied Psychology,104(2),197-213.   
+Lee,S.,Cheong，M.，Kim,M.，& Yun,S.(2017). Never too much? The curvilinear relationship between empowering leadership and task performance. Group & Organization Management, 42(1),11-38.   
+Li, W. D.,Li,S.Feng,J.J, Wang,M., Zhang,H.,Frese,M.,& Wu, C.-H. (202O). Can becoming a leader change your personality? An investigation with two longitudinal studies from a role-based perspective.Journal of Applied Psychology. https://doi.org/10.1037/apl0000808.   
+Lorinkova,N.M.,Pearsall,M.J.,&Sims Jr,H.P.(2O13).Examining thediffrential longitudinalperformanceof directive versus empowering leadership in teams. Academy of Management Journal,56(2),573-596.   
+Martin,S.L.,Liao, H.,& Campbel, E. M. (2013). Directive versus empowering leadership: A field experiment comparing impacts on task proficiency and proactivity. Academy of Management Journal, 56(5),372-1395.   
+Matta,F. K.,Scott, B.A.,Colquitt,J.A.,Koopman,J.,& Passntino,L. G (2017). Isconsistentlyunfairbeter than sporadically fair? An investigation of justice variability and stress.Academy of Management Journal,60(2),743-770.   
+Motowidlo,S.J.,Packard, J. S.,& Manning, M. R. (1986). Occupational stress: Itscauses and consequences for job performance. Journal of Applied Psychology,71(4),618-629.   
+Muthén,L. K.,& Muthén,B. O.(2019).Mplus user's guide (8th ed.). Los Angeles,CA: Muthén & Muthén   
+Oishi,Y., Xu, Q., Wang,L.,Zhang,B.J.,Takahashi, K., Takata, Y...Lazarus,M. (2017). Slow-wave sleepis controlled by a subset of nucleus accumbens core neurons in mice. Nature Communications,8,734-746.   
+Peng,J.，& Wang, Z. (2O18). Being a prototypic follower: Burdening or enabling? The paradoxical effect of followership prototype. Acta Psychologica Sinica, 50(2),216-225.   
+[彭坚，王震.(2018)．做上司的"意中人"：负担还是赋能？追随原型-特质匹配的双刃剑效应．心理学报， 50(2),216-225.]   
+Podsakoff,P.M., MacKenzie,S.B.,Moorman,R.H.,&Fettr,R.(199o). Transformational leader behaviors and their effects on folowers’ trust in leader,satisfaction，and organizational citizenship behaviors.The Leadership Quarterly,1(2),107-142.   
+Rubinstein,J.S.，Meyer,D.E.，& Evans,J.E.(2001).Executive control of cognitive processes in task switching. Journal of Experimental Psychology, 27(4),763-797.   
+Spreitzer, G. M. (1995). Psychological empowerment in the workplace: Dimensions, measurement, and validation. Academy of Management Journal, 38(5),1442-1465.   
+Tang, G., Chen, Y.，van Knippenberg,D.,& Yu, B. Antecedents and consequences of empowering leadership: Leader power distance, leader perception of team capability, and team innovation. Journal of Organizational Behavior. 41(6),551-566.   
+Tepper,B.J., Dimotakis,N.，Lambert,L. S.，Koopman,J.,Matta,F.K.，Man Park,H.,& Goo,W.(2018). Examining follwer responses to transformational leadership from a dynamic，person-environment fit perspective. Academy of Management Journal, 61(4),1343-1368.   
+Uhl-Bien,M.,RiggioR.E.Lowe,K.B.,&Carsten,M.K.(014).Followershiptheory:Areviewandsearch agenda. The Leadership Quarterly,25(1),83-104.   
+Vogel,R.M.,Rodel,J.B.,& Sabey,T.B.(2O2).Meaningfulness misfit: Consequencesof daily meaningful work neds-supplies incongruence for daily engagement. Journal of Applied Psychology,105(7),760-770.   
+Watkins,M.B.,Ren,R., Umphress,E.E.,Boswell, W.R.,Triana,M.D.C.,& Zardkoohi,A. (2014).Compasion organizing: Employees’ satisfaction with corporate philanthropic disaster response and reduced job strain. Journal of Occupational & Organizational Psychology,88(2), 436-458.   
+Wong，S.I.，& Giessner, S.R.(2018). The thin line between empowering and laisez-faire leadership: An
+
+expectancy-match perspective.Journal ofManagement,44(2),757-783.
+
+Wu,J.Y.，& Kwok,O.M.(2012).Using SEM to analyze complex survey data: A comparison between design-based single-level and model-based multilevel approaches. Structural Equation Modeling:A Multidisciplinary Journal,19(1),16-35.   
+Zhang,X.,& Bartol, K.M. (2Ol0). Linking empowering leadership and employee creativity: The influence of psychological empowerment， intrinsic motivation， and creative processengagement. Academyof Management Journal,53(1),107-128.
+
+# The impact of the fit between needed and received empowering leadership on followers' job-related outcomes: The mediating role of emotional exhaustion
+
+Song Qi, Chen Yang
+
+(School of Business Administration,Southwestern UniversityofFinance andEconomics,Chengdu6113o,China)
+
+# Abstract
+
+Recent research has paid increasing attention to the consequences of empowering leadership. The majority of them has devoted considerable efforts in identifying the bright side of empowering leadership，arguing that it enables followers to develop their self-management capacity and can be effective in driving positive job-related outcomes. According to the double-edge-sword effect perspective, empowering leadership may have negative side,and this has attracted growing research interest, thus making the question of when empowering leadership hinders its proposed effect on followers a particularly important one.Leadership iswidely understood as a relational process and its efectiveness depends not only on the behaviors of actors (i.e.，leaders themselves） but also on the perceptions of receivers (i.e.， their followers). Accordingly, this paper takes both leaders and followers into consideration with an expectation of providing a deeper insight into the influence of empowering leadership. Drawing on the theory of person-environment fit, we examine the impact of leaders’ empowering behaviors that are needed and received by followers on their job-related outcomes. Specifically，the misfit between empowering leadership needed and received by folowers can be appraised as a stressor for them, as such a misfit represents the discrepancy between followers' preferred states (i.e., needed) and actual states (i.e.，received).Based on the transactional model of stress，we proposed that perceived misfit between empowering leadership needed and received (as a stressor) is likely to induce emotional exhaustion (as a strain) which will in turns have ramifications for followers' job-related outcomes,including lower satisfaction toward leaders,less organizational citizenship behaviors，and poorer job performance.We also hypothesized that followers’emotional exhaustion will be higher when they experience excessive empowerment compared with the situation when they face deficient empowerment.
+
+We tested our proposed model in two multi-wave,multi-source surveys. In Study 1,we invited 15O leader-follower dyads from 12 companies in China to participate in our study. In this study,data were collected in two waves to minimize common method bias. At wave 1,all followers were invited to assess their empowering leadership that they needed and received, emotional exhaustion,satisfaction toward their leaders,as wel as demographics.Half a month later,at wave 2,alleaders were invited to provide their demographics and assess their follower's organizational citizenship behavior and job performance. All the participants provided valid responses and the final sample thus includes 15O unique leader-follower dyads. In Study 2,we collected data from 253 folowers and 50 leaders from 38 companies in China to replicate the results analyzed in Study 1 in terms of two-wave data collection. At wave 1,allfollowers were invited to assess their empowering leadership needed and received，psychological stress, psychological empowerment, and demographics. Half a month later, at wave 2,all the followers were invited to evaluate their emotional exhaustion and satisfaction towards leaders,their 50 leaders were invited to provide their demographics and assess their organizational citizenship behavior and job performance. 243 followers provided valid responses and thus the final sample includes 243 leader-follower dyads.
+
+Given that the data structure in these two studies were non-independent, we conducted multilevel polynomial regression and response surface modeling using the software of Mplus 8.2. We also employed the block variable approach to calculate the indirect efects. Besides,we tested the significance of the indirect effects with the Monte Carlo simulation procedure in RStudio.The results of data analyses showed that: (a) the misfit between needed and received empowering leadership was positively and significantly related to followers’ emotional exhaustion; (b) compared with deficient empowerment, folowers’ emotional exhaustion was higher when they received excessive empowerment; and (c) followers’ emotional exhaustion mediated the misfit of needed and received empowering leadership on followers’ satisfaction with their leaders, organizational citizenship behavior,and job performance.
+
+Our study provides several theoretical and practical implications. First， we employed a relational perspective and took both leaders and followers into consideration to investigate the impacts of empowering leadership on followers’ job-related outcomes.This helps paint a more complete picture of the consequences of empowering leadership. Second,by drawing on the theory of person-environment fit together with the transactional model of stress,we investigated the effects of the needed and received empowering leadership on followers' job-related outcomes and its underlying mechanisms. Third，the asymmetry efects of excessive versus deficient empowerment on followers’ emotional exhaustion revealed that in line with the“too much of a good thing” effect, empowering leadership is not a panacea. Overall, we shed valuable insights into the literature on empowerment by demonstrating that there is no optimal amount of empowerment. The consequences associated with a certain amount of empowerment differ among individuals. Our findings also offer important practical insights to leaders on how to leverage the benefits of empowering leadership.
+
+Key words needed empowering leadership,received empowering leadership, needs-supplies fit, emotional exhaustion

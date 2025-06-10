@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠湖泊形态初步研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵力强，张律吕，王乃昂，张德忠，牛震敏(兰州大学资源环境学院,兰州大学干旱区与沙漠研究中心,甘肃兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：湖泊形态是湖泊研究的基础,巴丹吉林沙漠湖泊受到各界广泛关注,却缺乏湖泊形态方面的研究。本文采用超声波测深仪与RTK-GPS 测量系统相结合的方式,对巴丹吉林沙漠10个面积较大的湖泊进行了深度测量,得到了完整的湖泊形态数据。其中湖泊规模方面,布尔德以最大的湖泊面积与最小的湖泊最大深度区别于其余湖泊;湖泊形态方面,10个湖泊整体具有干旱区湖泊独有的浅水平底湖泊的特征。由于内生钙华与深处流动性沙漠的原因,利用湖泊周边地形估算湖泊容积的方法对于巴丹吉林沙漠湖泊并不适用。为此，利用测量数据,提出了估算巴丹吉林沙漠湖泊容积的经验公式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：湖泊形态；深度测量；湖泊容积估算；巴丹吉林沙漠 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "巴丹吉林沙漠位于内蒙古阿拉善高原西部，总面积达 $5 . 2 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,是中国第二大沙漠[1]。区内夏季平均气温 $2 5 . 3 ~ \\mathrm { { ‰ } }$ ,冬季平均气温 $9 . 1 ~ \\mathrm { { ^ { 9 } C } }$ ，平均气温年较差达 $3 4 . 4 ~ \\mathrm { ^ { 9 } C }$ 。沙漠南缘年降水量为$9 0 . 1 \\sim 1 1 5 . 4 ~ \\mathrm { m m }$ ,北缘仅 $3 5 . 2 \\sim 4 2 . 9 ~ \\mathrm { m m }$ ,区域多年平均约 $7 6 . 9 \\ \\mathrm { m m } ^ { [ 2 - 3 ] }$ 。与世界上其他沙漠显著不同的是，巴丹吉林沙漠中不仅广布高大的沙山，并存有大量常年积水的湖泊。沙山间110余个常年积水湖泊从矿化度为 $1 . 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 左右的微咸水湖到矿化度超过 $3 0 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ L ~ } ^ { - 1 }$ 的盐湖不一而足[4-6]。湖泊水量平衡的研究发现这些湖泊主要的补给来源为地下水,是典型的地下水补给型湖泊[7-8],湖泊面积一般小于 $1 ~ \\mathrm { k m } ^ { 2 }$ ;特别是在沙漠的东南部,湖泊分布密度在所有的沙漠中是最大的，且依一定的方向展布[9-10]  \n。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "20 世纪60 年代以来，巴丹吉林沙漠逐渐受到国内外相关研究者的关注(11-12],近 20 多年更是成为研究的热点[6-7,13-23]。其中作为圈层之间连接的纽带，有大量的研究集中在巴丹吉林沙漠湖泊[24-31]。湖泊的形态对湖泊的物理、化学和生物学过程有重要的影响，是泊研究最重要的基础数据之一。然而，除 Arp 等[32]在1998 年研究巴丹吉林沙漠腹地诺尔图湖泊中的钙华时对湖泊深度进行了测量,以及 2012 年陈添斐等[26在苏木·巴润吉林湖泊北部作的一条控制性剖面线之外，目前对于巴丹吉林沙漠湖泊形态学方面的研究还很缺乏。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自2009年以来，兰州大学干旱区与沙漠研究中心持续对巴丹吉林沙漠进行了多角度、长时间的综合考察，并在典型区域建立了无人自动气象站和涡度相关系统进行定位观测[7,33-34]。为了使有关湖泊水量及能量平衡的研究工作能够更加深入的开展，诸如湖泊面积、湖泊容积、平均水深、最大水深等重要的湖泊形态资料必不可少。巴丹吉林沙漠属于流动性沙漠，其地貌形态均受到风沙活动的控制，沙漠中湖泊的水下地形是否也有规律可寻？本文基于此，使用RTK-GPS 测量系统和超声波测深仪对巴丹吉林沙漠中10个较大湖泊（包括拥有定位观测的湖泊)进行深度测量，得到了完整的湖泊形态数据。以此探索湖泊形态的变化规律，以求通过较为易得的数据来估算湖泊容积等重要的湖泊形态参数，为推广单个湖泊的研究用于整个沙漠范围内湖泊研究提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 湖泊的选择 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究一共选取了巴丹吉林沙漠10个常年积水湖泊作为研究对象（图1）。湖泊的面积是选择研究湖泊的首要考虑因素。沙漠中7个面积大于$1 ~ \\mathrm { k m } ^ { 2 }$ 的湖泊全部在列:伊和吉格德、呼和吉林、车日格勒、音德尔图、苏木·巴润吉林、诺尔图（东）、布尔德，还包括部分面积不足 $1 ~ \\mathrm { k m } ^ { 2 }$ 的湖泊：呼都格吉林、位于湖泊群北部的乌尔塔·布拉格以及巴丹吉林庙所在地——苏木吉林。根据张振瑜等[31关于巴丹吉林沙漠东南部湖泊群2010年总面积的计算结果，10个所选湖泊的总面积约占巴丹吉林沙漠湖泊总面积的 $40 \\%$ 以上。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9221e03c4c558905d8299c1974b26016a9b779b1f15e5948454e80beaf6a1dca.jpg",
+        "img_caption": [
+            "图1湖泊位置示意图",
+            "Fig.1The locations of studied lakes "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 湖泊边界的获取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "湖泊边界采用GPS测点结合GoogleEarth影像目视解译的方式进行提取，所使用的影像成像时间为2016年5月23日，影像级别19，空间分辨率0.3m[35-36] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3水下地形调查与数据处理方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016年6月与2017年6月，分2次测得湖泊深度数据。测量采用中海达HD370 超声波测深仪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该测深仪采用 $2 0 0 ~ \\mathrm { k H z }$ 高频换能器，测量深度范围为 $0 . 3 \\sim 6 0 0 \\mathrm { ~ m ~ }$ ,测深精度 $\\pm 1 0 \\ \\mathrm { m m } + 0 . \\ 1 \\%$ 深度值,分辨率 $1 ~ \\mathrm { c m }$ ,最大采样率为30次 $\\mathbf { \\nabla } \\cdot \\mathbf { s } ^ { - 1 }$ 。测深点定位数据由三鼎T20RTK测量系统测得。该仪器动态测量平面精度为 $\\pm 1 ~ \\mathrm { c m } + 1 \\times 1 0 ^ { - 6 } ~ \\mathrm { D }$ ,高程精度： $\\pm 2$ （204号$\\mathrm { c m } + 1 \\times 1 0 ^ { - 6 }$ D(D表示被测点间的距离）。定位数据采用WGS-84 坐标,记录间隔为 $2 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测量时测深仪和GPS采用船舷安装方式，选择在清晨静风时进行测量。主测线经纬向布设，呈网格状，测线间距大致 $1 5 0 \\mathrm { ~ m ~ }$ ，在水下地形复杂的地方适当加密测线。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测深仪的工作原理是通过测量探头与湖底之间超声波的双程走时，与超声声速相乘并除以2，计算探头与湖底之间的距离。由于超声声速与湖水温度、水质等因素有关[37]，因此在测量时需要对每个湖泊的实际声速进行现场校正。具体校正值依据测深仪测量深度和实测水深对比计算得到（表1）。应",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1各湖泊测量时实际使用的超声声速",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc83ce86e4b0edb7179060c2df76e9f5c03f13d0103fc71645f7f0cfe02a353c.jpg",
+        "table_caption": [
+            "Tab.1Actual ultrasonic sound velocity used in measuring thestudieslakes ",
+            "表2湖泊的形态参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>湖泊名称</td><td>超声声速/(m·s-1)</td><td>深度点数</td></tr><tr><td>布尔德</td><td>1 561</td><td>4 425</td></tr><tr><td>车日格勒</td><td>1 695</td><td>8323</td></tr><tr><td>呼都格吉林</td><td>1 728</td><td>5192</td></tr><tr><td>呼和吉林</td><td>1 670</td><td>13 943</td></tr><tr><td>诺尔图东</td><td>1 678</td><td>16 710</td></tr><tr><td>苏木巴润吉林</td><td>1 673</td><td>10 740</td></tr><tr><td>苏木吉林</td><td>1 656</td><td>10 109</td></tr><tr><td>乌尔塔布拉格</td><td>1 671</td><td>6 857</td></tr><tr><td>伊和吉格德</td><td>1 758</td><td>9 119</td></tr><tr><td>音德尔图</td><td>1 701</td><td>17 613</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该说明的是，在深度测量期间，湖水温度存在明显的分层现象[26-27],湖泊不同位置的超声声速可能会存在差异，最终增加了湖泊深度数据的测量误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将提取的湖泊边界点的水深值设为 $0 \\mathrm { ~ m ~ }$ ，并与测深仪测得的水深数据合并，最终得到有效的湖泊深度点数（表1）。湖泊深度数据使用Surfer14软件经过克里金插值成栅格数据，变换投影为A-sia NorthAlbersEqual Area Conic后,计算其容积与分层面积。湖泊湖面面积与湖岸线长度在ArcGIS10.3中通过对湖泊边界在等面积与等距投影下计算求得。除此之外，还计算了一系列湖泊形态指标(表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0691aa8efe433f1ee30c3b4caa50364c33c0cbac034f01db5c88df81b2fc576c.jpg",
+        "table_caption": [
+            "Tab.2Morphometric descriptors of 10 lakes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>湖泊形态参数</td><td>湖泊面积</td><td>湖泊容积</td><td>湖泊最大深度</td><td>湖泊平均深度</td><td>岸线发育因子</td><td>湖泊深度比</td><td>相对水深比</td></tr><tr><td>字母缩写</td><td>A</td><td>V</td><td>Zmax</td><td>Zmean</td><td>DL</td><td>Z mean/Zmax</td><td>Z,</td></tr><tr><td>单位</td><td>m</td><td>m</td><td>m</td><td>m</td><td></td><td></td><td>%</td></tr><tr><td>平均值</td><td>1.07 × 106</td><td>6.03 ×106</td><td>8.70</td><td>5.45</td><td>1.25</td><td>0.61</td><td>0.79</td></tr><tr><td>中值</td><td>1.07 ×106</td><td>4.82 ×106</td><td>7.65</td><td>4.37</td><td>1. 14</td><td>0.60</td><td>0.80</td></tr><tr><td>最小值</td><td>4.37 ×105</td><td>1.89 ×106</td><td>3.60</td><td>2.10</td><td>1.03</td><td>0.47</td><td>0.22</td></tr><tr><td>最大值</td><td>2.15 ×106</td><td>1.78 ×107</td><td>16.80</td><td>12.36</td><td>1.60</td><td>0.74</td><td>1.24</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在展示研究结果之前，首先需要明确的问题是，湖泊形态在自然界是一个动态变化的过程：湖泊面积存在季节间与年际的变化[38]；同时，身处流动性沙漠之中，大量碎屑物质的输入、湖泊自身的扰动及再平衡作用均会对水下地形产生影响。除此之外，在数据的处理上，目视解译得到湖泊边界所使用的影像拍摄的时间与野外量测的时间不尽相同，导致了结果中湖泊边缘水下地形与真实情况存在一定的差异。总的来说，本文在一定的精度要求下，提供了直观的巴丹吉林沙漠10个较大规模湖泊近期的形态特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 湖泊的规模 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 个湖泊面积的平均值为 $1 . 0 7 \\times 1 0 ^ { 6 } ~ \\mathrm { m } ^ { 2 }$ ,中值为 $1 . 0 8 \\times 1 0 ^ { 6 } \\mathrm { ~ m } ^ { 2 }$ ,面积最小的湖泊是呼都格吉林0 $4 . 3 7 \\times 1 0 ^ { 5 } \\ \\mathrm { m } ^ { 2 }$ ），面积最大的湖泊是布尔德 $( 2 . 1 5 \\times$ $1 0 ^ { 6 } ~ \\mathrm { m } ^ { 2 }$ );10 个湖泊容积的平均值为 $6 . 0 3 \\times 1 0 ^ { 6 } ~ \\mathrm { m } ^ { 3 }$ ，中值为 $4 . 8 2 \\times 1 0 ^ { 6 } ~ \\mathrm { m } ^ { 3 }$ ,容积最小的湖泊是乌尔塔·布拉格 $( 1 . 8 9 \\times 1 0 ^ { 6 } ~ \\mathrm { m } ^ { 3 } \\cdot$ ),容积最大的湖泊是诺尔图（东） $( 1 . 7 8 \\times 1 0 ^ { 7 } ~ \\mathrm { m } ^ { 3 } )$ );10 个湖泊最大深度的平均值为 $8 . 7 0 \\mathrm { ~ m ~ }$ ,中值为 $7 . 6 5 \\mathrm { ~ m ~ }$ ,最大深度最小的湖泊是布尔德 $\\left( 3 . 6 0 \\mathrm { ~ m ~ } \\right)$ ，最大深度最大的湖泊是诺尔图（东） $^ { ( 1 6 . 8 0 \\mathrm { ~ m ~ } ) }$ );10 个湖泊平均深度的平均值为$5 . 4 5 \\mathrm { ~ m ~ }$ ,中值为 $4 . 3 7 \\mathrm { ~ m ~ }$ ,平均深度最小的湖泊是布尔德 $( 2 . 1 0 \\mathrm { ~ m } )$ ,平均深度最大的湖泊是诺尔图（东）中 $^ { ( 1 2 . 3 6 \\mathrm { ~ m } ) }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用幂函数拟合的方法，分析了湖泊面积$( A )$ 、湖泊容积 $( V )$ 与湖泊最大水深( $\\left| Z _ { \\mathrm { m a x } } \\right| ,$ )之间的关系（图2)。发现在三次拟合过程中，布尔德湖泊均贡献了最大残差，以其最大湖泊面积与最小湖泊最大深度的特征区别于其他9个湖泊。又因为布尔德位于沙漠东缘，在空间上远离其余9个湖泊，推测其形成演化过程与其余湖泊不同。去除布尔德之后，对上述3个湖泊规模参数进行拟合，结果分别是：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = 1 . 3 8 \\times 1 0 ^ { - 1 3 } \\times A ^ { 3 . 2 6 } , \\gamma ^ { 2 } = 0 . 8 7 , n = 9\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { \\mathrm { m a x } } = 1 . 4 7 \\times 1 0 ^ { - 4 } \\times A ^ { 0 . 8 0 } , \\gamma ^ { 2 } = 0 . 5 4 , n = 9\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { _ { \\mathrm { m a x } } } = 0 . 0 0 7 \\ 0 \\times V ^ { 0 . 4 6 } , \\gamma ^ { 2 } = 0 . 9 0 , n = 9\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除布尔德以外的9个湖泊，大体上呈现出了“湖泊面积越大，湖泊最大深度越大，湖泊容积越大”的两两正相关关系。湖泊平均深度( $ { \\left( Z _ { \\mathrm { m e a n } } \\right) }$ 与湖泊最大深度 $( Z _ { \\mathrm { m a x } } )$ 之间也进行了拟合，它们的关系是：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/41f05e9c126f859f921adf4e80f1527094411a9708a29296b8e94cd133823536.jpg",
+        "img_caption": [
+            "图2湖泊面积、湖泊容积与湖泊最大深度之间的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { _ { \\mathrm { m e a n } } } = 0 . 3 6 \\times Z _ { _ { \\mathrm { m a x } } } ^ { 1 . 2 4 } , \\gamma ^ { 2 } = 0 . 9 0 , n = 9\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 湖泊的形态 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据野外测得的湖泊水深数据，本文绘制了10个湖泊的周边地形( $5 0 \\%$ 湖泊等效直径范围）、水下地形图与深度面积曲线图（图3～5），并统计了湖泊形态参数的分布（图6）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "岸线发育因子度量了湖岸线的不规则程度，由实际湖岸线长度除以与该湖泊面积相等的圆的周长",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2535edc67b7c0dfce24c67056f59105c1ddc44309cee485e57e9977928fad33.jpg",
+        "img_caption": [
+            "Fig.2Relationship between area,maximum depth and volume of the 1O lakes ",
+            "图3湖泊周边地形、水下地形与深度面积曲线(一)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Peripheral terrain,underwater topography and water depth-area curves of the 1O lakes（1) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe00726d4d87adfa552c29055306f3f00ec89fd43591366e07e87f5ae0adc1ea.jpg",
+        "img_caption": [
+            "图4湖泊周边地形、水下地形与深度面积曲线(二)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Peripheral terrain,underwater topography and water depth-area curves of the 1O lakes（2) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/440917fe1c8f8db92d113258f33c6653e84ef71646bdfef132891d90e658e515.jpg",
+        "img_caption": [
+            "图5湖泊周边地形、水下地形与深度面积曲线(三)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Peripheral terrain,underwater topography and water depth-area curves of the 1O lakes（3) ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/860ca47bbcf669fa3f6f76ef7283e13cdc2a7174ac4660312d1ffd33ece7920c.jpg",
+        "img_caption": [
+            "图6岸线发育因子、湖泊深度比、相对水深比统计",
+            "Fig.6Statistic results of shoreline development, $Z _ { \\mathrm { m e a n } } / Z _ { \\mathrm { m a x } }$ ratio and relative water depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "得到。湖岸线发育越不规则，湖泊内部物理、化学和生物学性质的多样性就越强，在具体研究时就需要更多的样点。10个湖泊的岸线发育因子大多接近于1，有4个湖泊的岸线形状偏离于圆形（图6），它们分别是布尔德（1.35）、伊和吉格德（1.43）、苏木吉林(1.58)与音德尔图(1.60）。布尔德近东西向，长轴约 $3 ~ \\mathrm { k m }$ ,南北向短轴约 $1 ~ \\mathrm { k m }$ ,呈长条形。伊和吉格德与音德尔图相似，湖泊整体形状呈圆形，伊和吉格德东南部有半岛伸入湖泊，音德尔图西南部有半岛伸入湖泊，导致2个湖泊的岸线变成凹形，如同“胚胎”一般。苏木吉林长轴顺着沙山的走向呈约$3 0 ^ { \\circ }$ 夹角，达 $1 . 5 ~ \\mathrm { k m }$ ,短轴约 $0 . 5 \\ \\mathrm { k m }$ ,在西南部存在深度不到 $2 \\mathrm { ~ m ~ }$ 的浅滩把湖泊分为了两部分，浅滩周围岸线向湖泊内部的凹陷，增加了湖岸线的不规则程度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "湖泊深度比是湖泊平均深度与最大深度的比值，其较小时反映了凹形的湖盆形态，较大时则说明湖泊具有平底浅水湖的特征，椭圆形湖盆的深度比为0.66，正弦曲线形湖盆的深度比为0.35；湖泊相对水深比是指最大深度与平均直径的比值，大型浅水湖泊具有较低的相对水深比（ $\\angle 2 \\% .$ ），而小型深水水体具有较高的相对水深比。10个湖泊的深度比集中于 $0 . 5 5 \\sim 0 . 7 0$ ,没有偏向0与1两侧,湖盆大体上处于锥形与平底浅水湖泊的中间状态。受湖岸线发育不规则的影响，苏木吉林(0.56）、伊和吉格德(0.53）、音德尔图（0.47）的湖泊深度比较低，苏木吉林与音德尔图的湖泊深度比也受2个深度不同的湖盆中心的影响。10个湖泊的相对水深比均小于 $2 \\%$ ,其中布尔德最低，仅 $0 . 2 2 \\%$ ,是典型的浅水平底湖泊，湖底受风浪的影响较强。结合湖泊深度面积曲线图，除布尔德较其他9个湖泊水下坡度明显要缓很多，以及音德尔图因受南部较浅湖盆的影响，深度面积曲线接近直线以外。其他8个湖泊的深度面积曲线线形相似，整条曲线随湖泊深度的增加可大致分为三部分，首先是坡度较缓的边滩，其次为较为陡峭的坡地，最后是平坦的湖底，呈现出了“S”形曲线特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3湖泊容积估算的经验公式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将单个湖泊的研究成果推广到整个区域，关键湖泊形态参数诸如湖泊容积的数据必不可少。然而，目前没有精确获取水下地形数据的遥感方法，野外实测费时费力，有必要建立经验公式以估算关键湖泊形态参数。为了服务于大尺度湖沼学研究，国际上已经存在了一些估算湖泊容积的方法。Hakanson与 Peters(39]研究了瑞典的冰蚀湖发现,湖泊面积与湖泊汇水盆地的最大坡度能很好地反演湖泊容积。然而,Sobek 等[40]认为,该方法中湖泊汇水盆地的最大坡度数据较难获取，改用湖泊 $5 0 \\mathrm { ~ m ~ }$ 缓冲区内最大坡度与湖泊面积来估算湖泊最大水深和湖泊容积。Heathcote 等[41]则认为， $2 5 \\%$ 湖泊等效直径缓冲区内的高程变化与湖泊面积能最好地估计湖泊的平均水深与容积一一将周围地形特征的选取范围与湖泊的规模相联系。在北美洲,Oliver 等[42]采用湖泊 $1 0 0 \\mathrm { ~ m ~ }$ 缓冲区的最大坡度与湖泊面积,估算了美国17个州的湖泊水深，并指出湖泊周边地形、湖泊的面积、区域的沉积过程与湖泊水深紧密相关，而这种关系存在区域性，不能在估算中利用某一区域得到的关系来以一概全。值得注意的是，以上研究涉及的对象均是冰蚀湖泊，建立相关模型均是基于湖泊水下地形为周围地形的延伸的假设。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相似的,郑瑞兰[43]曾模拟巴丹吉林沙漠湖泊洼地湖面以上部分等高面面积与高程之间的关系，由此反推湖泊最大水深，其出发点也是基于湖泊周边地形与湖泊水下地形之间存在连续性。然而，所研究的10个湖泊其周边 $5 0 \\%$ 湖泊等效直径缓冲区内地形与湖泊水下地形并无明显的联系（图3～图5）。巴丹吉林沙漠湖泊与冰蚀湖具有明显的差异。Wang 等[44]利用年代学、地貌学与风场证据指出，巴丹吉林沙漠周边Hoffmann[45]所区分的“狭长形湖泊”属于风蚀湖，而其余“椭圆形湖泊”存在为风蚀湖的可能性。在沙漠中，湖盆由风沙活动形成，这是较为合理的解释。组成湖泊的第二要素水未出现之前，如今的湖泊水下地形与周边地形为连续的风沙地貌。湖泊形成后，风沙活动持续改造着湖泊周边地形，而水面以下的地形在沉积过程中发生着不同特征、不同方向的变化,这种地形变化的速度远高于冰蚀湖。除此之外，巴丹吉林沙漠湖泊钙华广泛分布[8,46-47],在野外调查的过程中也发现了钙华陡岸与湖泊底部的钙质凸起（图7），部分凸起因高出水面而形成小岛。这些内生硬质物质在湖岸和湖底的广泛分布与身处流动性沙漠的特殊地理位置，共同增加了巴丹吉林沙漠湖泊形态的多样性，并使其有别于其周边地形。因此，使用周边地形数据来估算巴丹吉林沙漠湖泊容积与水深是不适用的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利用岩芯中 $^ { 2 1 0 } \\mathrm { P b } _ { \\mathrm { u n s } }$ 与 $^ { 1 3 7 } \\mathrm { C s }$ 变化可以对湖泊的沉积速率进行研究[48],Liu等[49]使用该方法得到巴丹吉林沙漠中双海子的沉积速率为 $0 . 2 1 \\ \\mathrm { c m } \\cdot \\mathrm { a } ^ { - 1 }$ ，音德尔图的沉积速率为 $0 . 1 6 \\ \\mathrm { c m } \\cdot \\mathrm { a } ^ { - 1 }$ ,而对于这种沉积速率的差别并没有较多的讨论。在相同的大环境下，巴丹吉林沙漠湖泊之间的沉积速率在本文被粗略认为是相近的。湖泊沉积过程中另一项关键因素是时间。杨小平[50 曾用湖泊矿化度的累积来验证高湖面年代的准确性，反过来说，湖泊矿化度的大小可以在一定程度上衡量湖泊接受沉积的时间。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，湖泊起源与局地沉积过程共同控制了巴丹吉林沙漠湖泊形态，在估算湖泊容积与深度时需要考虑这两方面的因素。因此，本文选取湖泊规模参数中的湖泊面积（A）、湖泊形态参数中的岸线发育指数 $( D L )$ 以及代表湖泊年代的水体矿化度（TDS)来估算湖泊容积 $( V )$ ,其中布尔德缺少无水体矿化度数据,且其在地理位置上远离其他湖泊，在湖泊规模特征上区别于其他湖泊，因而未纳入计算。水体矿化度数据由2015年夏野外采集水样在实验室分析阴阳离子浓度获得（图3～5）。这四者多元线性回归的结果为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln ( V ) = - 3 . 7 0 + 1 . 5 5 \\ln ( A ) - 1 . 2 5 \\ln ( D _ { L } ) -\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 3 7 \\mathrm { l n ( T D S ) } , \\gamma ^ { 2 } = 0 . 9 3 , n = 9\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "诚然，该模型使用的样本量过少，且样本也没有覆盖巴丹吉林沙漠面积较小的湖泊，但其从湖泊形成机制的视角估算巴丹吉林沙漠湖泊容积的方法，为今后的研究提供了参考。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3077dcbe7aa1e28388dc99401cf6a3635d6585eb7662a339c94e10854909f3c.jpg",
+        "img_caption": [
+            "图7诺尔图(东)湖底柱状钙华凸起Fig.7Columnar travertine in the east Nuoertu Lake"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）在湖泊规模方面，布尔德以最大的湖泊面积与最小的湖泊最大深度区别于其他湖泊，其余9个湖泊的湖泊面积、湖泊容积、湖泊最大深度以及湖泊平均深度之间存在一定的关系。(2）湖泊形态除布尔德、伊和吉格德、苏木吉林与音德尔图外，其他湖泊的岸线形状接近圆形。10个湖泊的形态基本具有干旱区湖泊独有的浅水平底湖泊的形态特征。(3）受内生钙华与深处沙漠的影响，湖泊周边地形不能用来估算湖泊容积。在估算巴丹吉林沙漠湖泊容积时，应从湖泊水下地形形成的机制出发，特殊的湖泊起源与局地沉积过程是需要考虑的重要因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]朱金峰,王乃昂,陈红宝,等.基于遥感的巴丹吉林沙漠范围与 面积分析[J].地理科学进展,2010,29(9）：1087-1094.[Zhu Jinfeng,Wang Nai'ang,Chen Hongbao,et al.Study on the boundary and area of Badain Jaran Desert based on remote sensing imagery[J].Progress in Geography,2010,29(9）:1087 -1 094.]   \n[2]马宁,王乃昂,朱金峰,等.巴丹吉林沙漠周边地区近50a来气 候变化[J].中国沙漠,2011,31(6):1541-1547.[Ma Ning， Wang Nai'ang,Zhu Jinfeng,et al. Climate change around the Badain Jaran Desert in recent 5O years[J].Journal of Desert Research,2011,31(6):1 541-1547.]   \n[3]马宁,王乃昂,李卓仑,等.1960—2009 年巴丹吉林沙漠南北缘 气候变化分析[J].干旱区研究，2011，28（2）：242-250.[Ma Ning,Wang Nai'ang,Li Zhuolun,et al.Analysis on climate change in the northern and southern marginal zones of the Badain Juran Desert during the period 1960- 2009[J].Arid Zone Research, 2011,28(2):242-250.]   \n[4]陆莹,王乃昂,李卓仑,等.巴丹吉林沙漠湖泊水化学空间分带 性与湖泊面积的等级关系［J].地理研究，2011,30（11）：2083 -2 091.[Lu Ying,Wang Nai'ang,Li Zhuolun,et al.Research on the relationship between lake hydro-chemical characteristics and its area in the Badain Jaran Desert[J].Geographical Research,2011, 30(11) :2 083-2 091.]   \n[5]陆莹,王乃昂,李贵鹏,等.巴丹吉林沙漠湖泊水化学空间分布 特征[J].湖泊科学,2010,22（5）:774-782.[Lu Ying,Wang Nai'ang,Li Guipeng,et al. Spatial distribution of lakes hydrochemical types in Badain Jaran Desert[J].Journal of Lake Sciences.2010,22(5) :774-782.]   \n[6]王乃昂,宁凯,李卓仑,等.巴丹吉林沙漠全新世的高湖面与泛 湖期[J].中国科学：地球科学,2016,46(8)：1106-1115. [Wang Nai'ang,Ning Kai,Li Zhuolun,et al. Holocene high lakelevels and pan-lake period on Badain Jaran Desert[J].Science China:Earth Sciences,2016,59(8):1106-1115.] [7]马宁,王乃昂,赵力强,等.巴丹吉林沙漠腹地降水事件后的沙 山蒸发观测[J].科学通报,2014,59（7）:615-622.[Ma Ning， Wang Nai'ang,Zhao Liqiang,et al. Observation of mega-dune evaporationaftervarious rain events in the hinterland of Badain Jaran Desert,China[J]. Chinese Science Bulletin,2014,59(2）:162 -   \n170.] [8]吴月,王乃昂,赵力强,等.巴丹吉林沙漠诺尔图湖泊水化学特 征与补给来源[J].科学通报,2014,59（12）:1140－1 147. [ Wu Yue,Wang Nai'ang,Zhao Liqiang,et al. Hydrochemical characteristicsand recharge sources of Lake Nuoertu in the Badain Jaran Desert[J].Chinese Science Bulletin,2014,59（12）:1 140 -1 147. ] [9]Dong ZB,Qian G Q,Luo W Y,et al. Geomorphological hierarchies for complex mega-dunes and their implications for mega-dune evolution in the Badain Jaran Desert[J].Geomorphology,2009,106 (3/4):180-185. [10]吴正.中国沙漠及其治理[M].北京：科学出版社,2009;568-   \n573.[Wu Zheng. Desert in China and Their Management[M]. Beijing:Science Press,2009:568-573.] [11］楼桐茂.甘肃民勤至巴丹吉林庙间沙漠成因及其改造利用：治 沙研究（第三号)[M].北京:科学出版社,1962:90-95.[Luo Tongmao.The Formationand Utilizationof the Desert between Minqin and Badain Monastery.Research of Desert Control( Series   \n3）[M]. Beijing:Science Press,1962:90 -95.] [12］孙培善,孙德钦.内蒙古高原西部水文地质初步研究：治沙研 究（第六号）[M].北京：科学出版社,1964:245－317.[Sun Peishan,Sun Deqin.The Hydrological Geology of the Western Inner Mongolia.Researchof Desert Control（Series 6）[M].Beijing: Science Press,1964:245 -317.] [13］王涛.巴丹吉林沙漠形成演变的若干问题[J].中国沙漠,   \n1990,10(1):29-40.[Wang Tao.Formation and evolution of Badain Jaran Sandy Desert,China[J]. Journal of Desert Research,   \n1990,10(1) :29 -40.] [14］阎满存,王光谦,李保生,等.巴丹吉林沙漠高大沙山的形成发 育研究〔J].地理学报,2001,56(1）:83-91.[Yan Mancun, Wang Guangqian,Li Baosheng,et al.Formation and growth of high megadunes in Badain Jaran Desert[J].Acta Geograohica Sinica,   \n2001,56(1) :83 -91. ] [15]Jakel D.The Badain Jaran Desert:Its origin and development[J]. Geowissenschaften,1996,14:272 -274. [16]Yang X,Willims MA J.The ion chemistry of lakes and late Holocene desiccation in the Badain Jaran Desert,Inner Mongolia,China[J]. Catena,2003,51:45 -60. [17]Chen JS,LiL,Wang JY,et al.Groundwater maintainsdune landscape:A remote water source helps giant sand dunes to stand their ground in awindy desert[J].Nature,2004,432(7 016）:59 -460. [18]Dong Z B,Wang T,Wang X M. Geomorphology of the megadunes in the Badain Jaran Desert[J]. Geomorphology,2004,60（1/2）：   \n191 - 203. [19]陆莎,左洪超,郭阳,等.荒漠下垫面陆面过程模式中重要参数 的修正及模拟效果分析[J].干旱区研究,2017,34（3）：551-   \n563.[Lu Sha,Zuo Hongchao,Guo Yang,et al.Modification and simulation of key parameters in Land surface processin desert underlying surface[J].Arid Zone Research,2017,34（3）:551 - 563.]   \n[20]Gates JB,Edmunds W M,Darling W G,et al. Conceptual model ofrecharge to Southeastern Badain Jaran Desert groundwater and lakes from environmentaltracers[J].Applied Geochemistry,2008, 23(12) :3 519 -3 534.   \n[21]YangX P,Ma N N,Dong JF,et al.Recharge to the inter-dune lakes and Holoceneclimatic changes in the Badain Jaran Desert, Western China[J]. Quaternary Research,2010,73(1） :10-19.   \n[22]王旭升,胡晓农,金晓媚,等.巴丹吉林沙漠地下水与湖泊的相 互作用[J].地学前缘,2014,21（4）:91-99.[Wang Xusheng, Hu Xiaonong,Jin Xiaomei,etal.Interactions between groundwater and lakes in Badain Jaran Desert[J].Earth Science Fronties, 2014,21(4) :91 -99.]   \n[23]董光荣,高全洲,邹学勇,等.晚更新世以来巴丹吉林沙漠南缘 气候变化[J].科学通报,1995,40（13）:1215-1218.[Dong Guangrong,Gao Quanzhou,Zou Xueyong et al. Climate change of south margin in Badan Jilin desert since Late Pleistocene[J].Chinese Science Bulletin,1995,40(13）:1 215-1 218.]   \n[24]Li Z,Wei Z,Dong S,et al. The paleoenvironmental significance of spatial distributions of grain size in groundwater-recharged lakes :A case study in the hinterland of the Badain Jaran Desert,Northwest China[J].Earth Surface Processes and Landforms,2018,43（2）: 362 -372.   \n[25]李卓仑,马素辉,王乃昂,等.巴丹吉林沙漠盐湖面积变化对湖 泊边缘表层沉积物盐类矿物组合影响[J].盐湖研究,2015,23 (4）:8-14.[Li Zhuolun,Ma Suhui,Wang Nai'ang et al.Impacts of salt lakes area changes in Badain Jaran Desert on saline minerals assemblages[J]. Journal of Salt Lake Research,2015,23（4）:8- 14.]   \n[26］陈添斐,王旭升,胡晓农,等.巴丹吉林沙漠盐湖跃层对地下淡 水排泄的指示作用[J].湖泊科学,2015,27（1)：183－189. [Chen Tianfei, Wang Xusheng,Hu Xiaonong,et al. Clines in salt lakes in the Badain Jaran Desert and their significances in indicating fresh groundwater discharge[J].Journal of Lake Science, 2015,27(1) :183-189.]   \n[27］邵天杰,赵景波,董治宝.巴丹吉林沙漠湖泊及地下水化学特 征[J].地理学报,2011,66(5）:662-672.[Shao Tianjie,Zhao Jingbo,Dong Zhibao.Water chemistry of the lakes and groundwater in the Badain Jaran Desert[J].Acta Geograohica Sinica,2011,66 (5):662 -672.]   \n[28］卢彦斌,RioualP,杨小平.巴丹吉林沙漠湖泊表层硅藻分布的 初步研究[J].第四季研究,2010,30(3）:625-627.［Lu Yanbin,Rioual P,Yang Xiaoping.An assessment of Diatom presence/ absence in the lakes of the Badain Jaran Desert[J].Quaternary Sciences,2010,30(3) :625 -627.]   \n[29]Liu C,Liu J,Wang X S,et al. Analysis of groundwater-lake interaction by distributed temperature sensing in Badain Jaran Desert, Northwest China[J].Hydrological Processes,2016,30（9）:1 330 -1 341.   \n[30] Zhang K,Cai D,Ao Y,et al.Local circulation maintains the coexistence of lake-dune pattern in the Badain Jaran Desert[J].Scientific Reports,2017,7:40 238.   \n[31］张振瑜,王乃昂,马宁,等.近40 a巴丹吉林沙漠腹地湖泊面积 变化及其影响因素[J].中国沙漠,2012,32(6)：1743-1750. [ Zhang Zhenyu,Wang Nai'ang,Ma Ning,et al.Lakes area change in Badain Jaran Desert hinterlandand its influence factors during the recent 40 years[J]. Journal of Desert Research,2012,32(6）: 1 743 -1 750.]   \n[32]ArpG,Hofman J,ReitnerJ.Microbial fabric formationinspring mounds（“Microbialites”）of alkaline salt lakes in the Badain Jaran Sand Sea,PR China[J].Palaios,1998,13(6):581-592.   \n[33］马宁,王乃昂.巴丹吉林沙漠腹地湖泊水面蒸发模拟的特殊性 〔J].干旱区研究,2016,33（6):1141-1149.[Ma Ning,Wang Nai'ang.On the simulation of evaporation from lake surface in the hinter land of the Badain Jaran Desert[J].Arid Zone Research, 2016,33(6) :1 141 -1 149.]   \n[34］胡文峰,王乃昂,赵力强,等.巴丹吉林沙漠典型湖泊湖气界面 水一热交换特征[J].地理科学进展,2015,34（8）:1061- 1 071.[Hu Wenfeng,Wang Nai'ang,Zhao Liqiang,et al. Waterheat exchange over a typical lake in BadanJaran Desert,China[J]. Progress in Geography,2015,34(8）:1061-1 071.]   \n[35］刘东,施昆.利用Google Earth 影像辅助大比例尺地形图测量 的方法[J].测绘通报,2013（1）:68-69.[Liu Dong,Shi Kun. The mapping method of large scale topographic map using Google Earthimage[Jlletiofurveyigndappin,（）6 -69.]   \n[36］汪敬忠,吴敬禄,曾海鳌,等.内蒙古主要湖泊水资源及其变化 分析[J].干旱区研究,2015,32（1）:7-14.[Wang Jingzhong， Wu Jinglu,Zeng Haiao,et al. Changes of water resources of the main lakes in Inner Mongolia[J].Arid Zone Research,2015,32 (1):7 -14.]   \n[37］张维.三维浅海环境下全海深声速剖面快速反演研究〔D].哈 尔滨：哈尔滨工程大学,2013.[Zhang Wei.Inversion of Sound Speed Profile in Three-dimensional Shallow Water[D].Harbin： Harbin Engineering University,2013.]   \n[38］朱金峰,王乃昂,李卓仑,等.巴丹吉林沙漠湖泊季节变化的遥 感监测[J].湖泊科学,2011,23（4）:657-664.[Zhu Jinfeng， Wang Nai'ang,Li Zhuolun,etal.RS-based monitoring seasonal changes of lake in Badain Jaran Desert[J]. Journal of Lake Sciences,2011,23(4) :657 -664.]   \n[39]Hackanson L,Peters R H.Predictive Limnology: Methods for Predictive Modeling〔M].Amsterdam：SPB Academic Publishing, 1995 :1 - 464.   \n[40]Sobek S,Nisell J,Folster J.Predicting the volume and depth of lakes from map-derived parameters[J].Inland Waters,2011,1: 177 - 184.   \n[41]Heathcote A J,Giorgio PA,Prairie Y T.Predicting bathymetric features of lakes from the topography of their surrounding landscape [J].Canadian Journal of Fisheries and Aquatic Sciences,2015,72 (5):643 -650.   \n[42]Oliver SK,Soranno PA,EmiFC,et al.Prediction of lake depth across a 17-state region in the United States[J].Inland Waters, 2016,6(3) :314 -324.   \n[43］郑瑞兰.巴丹吉林沙漠湖泊面积与水位的非线性关系模拟研 究[D].北京:中国地质大学,2016.[Zheng Ruilan.An Investigation on the Non-linear Relationship between the Water Level and Lake Area in the Badain Jaran DesertD]. Beijing:China University of Geosciences,2016.] [44]WangZT,Chen TY,LiuSW,etal.Aeolian origin of interdune lakes in the Badain Jaran Desert,China[J].Arabian Journal of Geosciences,2016,9(3) :190. [45]Hoffmann J.The lakes in the SE part of Badain Jaran Shamo,their limnology and geochemistry[J].Teowissenscchaften Weinheim,   \n1996,14:275 - 278. [46］曹乐,聂振龙,刘学全,等.巴丹吉林沙漠湖泊钙华的水化学成 因[J].中国沙漠,2017,37（5）：1026-1034.[Cao Le，Nie Zhenlong,Liu Xuequan,et al.Hydrochemical cause of lake's tufa inBadain Jaran Desert[J].Journal of Desert Research,2O17,37 (5):1026-1034.] [47]陈建生，赵霞,汪集肠，等.巴丹吉林沙漠湖泊钙华与根状结核 的发现对研究湖泊水补给的意义[J].中国岩溶,2004,23（4）：   \n21-26.[Chen Jiansheng,Zhao Xia,Wang Jiyang,et al. Meaning of the discovery of lacustrine tufa and root-shaped nodule in Badain Jaran Desert for the study on lake recharge[J].Carsologica Sinica, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2014，23(4):459-460.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[48］胡菊芳，沙占江,马玉军，等.青海湖布哈河口沉积物粒度特征 及其环境意义[J].干旱区研究，2017，34（2）：445-451.〔Hu Jufang,Sha Zhanjiang,Ma Yujun,etal.Characteristics of grain size and their environmental significance of sediments at the Buha Estuary of the Qinghai Lake[J].Arid Zone Research,2017,34（2）: 445 -451.]   \n[49]Liu S,Narentuya,Xia B,et al. Using $^ { 2 1 0 } \\mathrm { P b }$ uns and $^ { 1 3 7 }$ Cs to date recent sediment cores from the Badain Jaran Desert,Inner Mongolia,China[J].Quaternary Geochronology,2012,12（Suppl.C）:30 -39.   \n[50］杨小平.巴丹吉林沙漠腹地湖泊的水化学特征及其全新世以 来的演变[J].第四纪研究，2002,22（2）：97-104.［Yang Xiaoping.Water chemistry of the lakes in the Badain Jaran Desert and their holocene evolutions[J].Quaternary Sciences,2O02,22 (2):97 -104.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Morphology of the Lakes in the Badain Jaran Desert ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Li-qiang， ZHANG Lv-lv， WANG Nai-ang， ZHANG De-zhong， NIU Zheng-min (Colege of Earth and Enwironmental Sciences/Research Center for Arid Area and Desert,Lanzhou University, Lanzhou 730000,Gansu,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Lake morphometry is of fundamental importance for understanding the lake ecosystems,but it was previouslyneglected in researching the lakes in the Badain Jaran Desert.Here,a bathymetry surveyof1O large lakes inthe desert was carried out using the ultra-sonic depth finder and RTK-GPS measurement system.Bathymetries was used to chart the relative hypsographic curves.Moreover,the morphometric parameters were calculated using thedetailed lake depth data.In the lake size aspect,the Buerde Lake was distinguished from the remaining lakes because of its largest water area but the smallst maximum depth.However,the other9lakes were similar in their water areas,volumes,maximum depths and mean depths.In the lake shape aspect,the shorelines of the lakes were closed to circles expect the Buerde Lake,Yihejigede Lake,SumujilinLake and Yindeertu Lake.Allthe lakes could be considered as the shallow lakes.The method that the peripheral terrain is used to estimate the lakevolumes is unsuitable for researching the lakes inthe Badain Jaran Desert due to the location of the lakes andthe endogenous travertine.Therefore,a mechanism-based empirical formula was presented in this study for estimating the volumes of the lakes in the Badain Jaran Desert in the future. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:lake morphometry； lake depth measurement； lake volume estimation； Badain Jaran Desert",
+        "page_idx": 10
+    }
+]

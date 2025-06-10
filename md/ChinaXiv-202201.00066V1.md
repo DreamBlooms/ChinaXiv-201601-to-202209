@@ -1,0 +1,275 @@
+# 基于地点依恋和消费者厌腻理论的社区消费者研究
+
+张莎」徐梦晨² 蒋佩琦」 赵红1,2('中国科学院大学经济与管理学院，北京100190)(中国科学院大学中丹学院，北京100190)
+
+摘要随着传统购物中心发展日渐成熟，加之疫情之下人们消费半径缩短，社区商业越来越受到资本的青睐和政府的重视。然而，社区商业尤其是社区消费者研究尚未进入主流营销学者、消费者行为学者的研究视野，社区消费者的特质并不清晰。基于此，本文深入挖掘了“社区”这一核心词，系统刻画了社区消费者六大特征，并重点围绕如何提升社区消费者地点依恋以及缓解社区消费者厌腻两大角度，提出了研究构想及理论建构。本文提出的10 个命题将有助于推动社区消费者和社区商业理论研究开展，同时也将丰富地点依恋理论和消费者厌腻理论的应用场景，最终为解决社区商业营销实践中的困惑提供指导。
+
+关键词社区消费者，地点依恋，消费者厌腻，社区商业，线下社区
+
+# 1问题提出
+
+社区商业通常是指满足社区居民日常物质生活和精神生活所需的商品和服务的属地型商业(沈萌萌,2003)，包括社区生鲜(如钱大妈)、社区便利店(如好邻居便利店)、教育培训(如励步英语)、生活服务(如福奈特、链家)等多种业态。2020 年突发的新冠疫情进一步促进了社区商业的发展：一公里以外的消费骤然停滞，传统商场购物中心、娱乐休闲、酒店等行业均受到前所未有的重创(中国民商,2020)；而与之形成鲜明对比的是，开在“回家路上”的社区商业显现出了蓬勃的生命力。例如，盒马鲜生社区店同比 2019 年逆势增长2倍以上(王成荣，王春娟,2020)；罗森社区便利店的销量与2019 年相比增长了 $70 \% { \sim } 8 0 \%$ (张晟,2020)。伴随消费者对社区商业的依赖性显著增加，国内社区商业市场规模已达万亿级别，2020 年约为13.5万亿元(中国社区商业发展新趋势,2020)。事实上，欧美国家也呈现出类似趋势，根据eMarketer(2021)调查， $50 \%$ 受访者(欧洲消费者)称与疫情前相比，他们更愿意在更近的社区商店购买。尽管如此，社区商业仍未在大部分社区消费者心中形成积极印象。
+
+中国社区商业工作委员会调查显示消费者对社区周边商业比较满意和很满意的只占 $4 5 . 4 6 \%$ 引自王成荣，王春娟,2020)，还存在商业功能欠缺、品牌连锁化率低、品牌形象落后等问题，通常给消费者“脏乱差”“档次低”的印象(胡璇卿,2020)。而对社区消费者心理和特质了解不够深刻，使得一些知名社区品牌，如最早入局社区商业的永辉社区mini 店闭店 88家，亏损1.3亿，从社区商业的战场上“败下阵来”(亿欧网,2020)。或许，正如便利蜂高管所言：“所有人都意识到社区是一个不可失去的场景，但具体怎么做没人知道。”
+
+现有社区消费者研究带有强烈的社会学、经济学色彩，尚未进入主流营销学者的研究视野，与营销学、消费者行为学、心理学相关的文献极为稀少。为数不多的社区消费者研究主要聚焦社区消费者接纳社区商业的动机(如 Anic&Radas,2016)，并没有深入挖掘社区消费者的特质，研究视角和一般消费者研究区别不大。例如，Bates 和Robb(2008)发现与服务黑人的社区便利店相比，服务于白人消费者的社区便利店利润更低，更可能倒闭。可见，现有社区消费者研究没有抓住“社区”这个关键词展开，无法深刻、全面地认识社区消费者的特质。
+
+基于此，本文首先从挖掘社区消费者特征出发，提出社区消费者的六大特征：距离近、会员办理意愿高、口碑影响大、易厌腻、易产生地点依恋、家庭型消费为主。在这六大特征中，本文认为社区消费者易产生地点依恋和易厌腻两大特征是深层次的核心和本质。社区消费者与社区商家距离近，消费频率高，这可能是一把“双刃剑"：一方面，在频繁的互动中可能增加社区消费者对社区商家的熟悉感，而熟悉感是产生积极情感，包括形成地点依恋的重要来源(Fang etal.,2007)。另一方面，高频次的重复消费也可能产生负向影响，即消费者厌腻。以上两种对立的机制可能触发社区消费者复杂的认知和情绪反应，进而影响社区消费者复购行为。为此，本文围绕“如何提升社区消费者地点依恋”以及“如何缓解社区消费者厌腻”二元视角提出了研究构想及理论建构。
+
+地点依恋(Place Attachment Theory)是指个人与某个特定场所之间建立的情感联系(Hidalgo &Hernandez,2001)。地点依恋过去常常被用于探究个人与家庭、社区、城市、地区、国家之间的情感联系(Lewicka,2011)，例如，Hidalgo 和 Hermandez(2001)发现，西班牙不同地区人们的地点依恋程度不同并且依恋程度随着性别和年龄变化。Borghini 等(2021)学者在 Joumal of Consumer Research 最新研究中倡导研究消费者对零售环境产生的地点依恋。现有地点依恋文献集中在地点依恋的形成机制，强调企业创造与目标消费者身份相匹配的物理环境，以及促进消费者之间或消费者与员工之间的社会交往可以提升地点依恋(Brocato et al.,2015)，但较少关注地点依恋具体提升策略的有效性。这正是本文的重点。本文将探讨一系列地点依恋提升策略，包括社区品牌命名(含有vs.不含有“家"字)策略、服务人员形象策略(温暖vs.能力)、附加服务策略(提供vs.不提供)、会员活动策略（体验类vs.物质类)。
+
+消费者厌腻是渴望刺激的心理与缺乏刺激间的冲突而导致的一种不愉悦感(Eastwood etal.,2007)，是重复消费中享乐适应的必然结果。高频次消费不仅可能产生地点依恋，也可能导致消费者厌腻。类似地，现有关于消费者厌腻的文献通常聚焦于厌腻感产生的后果(如消费者通常通过多样化寻求来降低厌腻感)，而对于减少厌腻感的具体策略较少涉及。基于此，本文从资源禀赋因素(异业联盟)情境因素(可分享优惠券)等角度提出了降低厌腻感策略的相关研究假设。
+
+# 2国内外研究现状述评
+
+# 2.1社区商业概念界定及社区消费者研究
+
+社区商业是以一定地域居住区为载体，以区域内的社区群众为主要服务对象，以便民、利民为宗旨，以提升居民综合生活质量为目标，通过多种商业业种、商业业态和商业功能的集聚，提供日常物质生活和精神生活需要的商品和服务的属地型商业(沈萌萌,2003)。在国外文献中，“社区”与“邻里”一词的概念较为贴近。邻里商业区(Neighborhood Business District)是指位于居民区中或者附近用于购物、社交、娱乐、消遣的空间(Mehta&Mahato,2019)。此外，与“社区商业”相近的另一个术语是“主街”(Main Street,Mehta& Mahato,2019)，它视觉表现为一条或一组主要的零售街道，包含多种商业功能。“主街”主要响应本地消费者需求，为社区居民提供服务(Talen&Jeong,2019)。
+
+目前关于社区商业的研究主要集中在三方面：(1)基于社会经济视角，如探讨社区商业的历史演变、社区商业的社会经济影响。例如，Yancey 和 Ericksen(1979)发现成功的社区商业会带来积极利益，可促进社会互动和社区稳定；而购物中心和线上购物平台(如亚马逊)对这种相互联系所起的作用要小得多(Talen&Jeong,2019)。(2)基于企业视角，如企业与所在社区的互惠关系和企业社会责任、社区便利店研究、社区门店选址、社区O2O等。例如，Niehm 等(2008)发现承担企业社会责任有助于提升社区商家绩效，但社区商家承担的社会责任并不是越多越好。(3)基于社区消费者视角，如消费者接纳社区商业的动机等，以下将以本部分内容为重点展开论述。
+
+社区消费者接纳社区商业的动机。社区商业能够提供购物和社交互动的场所。社交联系和互动(Arnold& Reynolds,2003; Baker & Wakefield, 2012; Moore & Homer, 2000)、感官刺激(Huang et al.,2019; Inman,2001)以及其他休闲活动(Guiry et al.,2006; Hightower Jr et al.,2002)是消费者最基本和重要的动机。除了购买商品和服务外，人们去购物也是为了四处看看、观察、闲逛或与朋友见面。由于社区商业区是居民区的核心，社区商业会产生多样且复杂的邻里活动。人们可能会在此与邻居或店主交谈与熟络，有利于营造场所感(A Sense of Place)，并有助于居民产生社区身份(An Identity ofthe Neighborhood)，因此，Pendola 和 Gen (2008)发现拥有(vs.没有)社区商业区的社区消费者通常具有更高的社区认同感。但由于商场购物中心有更多选择，社区居民有时会选择绕过社区商业区去更远的地点购物(Artz& Stone,2006;Lichter&Brown,2011)。但社交互动带来的高水平的社区依恋感有助于消费者克服对本地社区的不满，选择更近的社区商业而不是更远的商业中心(Sanders etal.,2017)。Anic 和 Radas (2016)也发现即使距离相对远的购物场所价格更低，消费者也会选择就近购买商品。然而，值得注意的是，社交互动并不一定是越多越好，关系过于密切也可能对商业活动产生不利影响(Boschma,2004,2005;Uzzi,1997)，因为部分消费者可能具有社交回避动机。
+
+社区消费者具有地理邻近性特征。地理邻近性对社区消费者偏好具有重要影响(Hamrick&Hopkins,2012;Meyners et al.,2017)。Meyners 等人(2017)发现物理距离维度比性别和年龄更重要。因为地理邻近性最有可能刺激社会邻近性，人们认为地理上的近距离有利于社会互动和建立信任(Boschma,2005)。邻里间互相信任和交流的倾向可以促进社会学习(SocialLearming)过程进而间接影响产品销售额(Lee ＆ Bell,2013)。由于地理邻近性可能诱发消费者之间同质性感知，Meyners 等人(2017)发现地理邻近的消费者撰写的在线评论更具影响力，并且客户愿意为这些评论的产品付出更高的价格。
+
+基于以上文献梳理，不难发现，社区消费者及社区商业的研究尚未进入主流营销学者的研究视野，与营销学、消费者行为学、心理学相关的文献极为稀少，远远落后于社区商业发展实践。同时，现有研究缺乏对社区消费者特质的了解，社区消费者画像不清晰。过去关于社区消费者的研究结论呈现碎片化，研究角度和一般消费者研究区别不大。也就是说，现有社区消费者研究没有抓住“社区”的这个关键词展开，导致社区商家无法从研究结论中获得有效的指导，从而无法正确认识社区消费者。基于此，本文从挖掘社区消费者的本质特征出发，抓住社区商业具有消费场景单一，重复性消费等主要特征，找出了两个与社区消费者密切相关的理论：地点依恋理论和消费者厌腻理论。
+
+# 2.2与社区消费者相关的理论
+
+# 2.2.1地点依恋理论
+
+地点依恋定义。地点依恋(Place Attachment)是指个人与某个特定地方或场所之间建立的情感联系(Hidalgo&Hernandez,2001)，由人们在某地或环境长时间的体验中感知到的物理意义、社会意义、历史意义以及文化意义所构成(Low & Altman,1992; Scannell& Gifford,2010; Tuan,1977)。在过往的研究中，地点依恋常常被用于探究个人与家庭、社区、城市、地区、国家、甚至整个大洲之间的情感联系(Lewicka,2011)，但事实上人们对零售环境之间也会产生地点依恋(Debenedeti et al., 2014)。然而，现有研究却较少关注这一点(Borghini et al.,2021; Brocato et al.,2015;Debenedeti et al.,2014;Rosenbaum et al., 2007; Styven et al., 2020 除外)。
+
+地点依恋有助于提高消费者的复购率，甚至成为门店的代言人，吸引更多他们的朋友前来体验与消费(Park&MacInnis,2006)。现有研究发现随着依恋程度的提升，消费者更容易原谅品牌的错误，同时对竞争品牌的抗拒程度也随之升高 (Park&MacInnis,2006)。同时，Debenedeti 等人(2014)还发现地点依恋能够激发消费者的三种行为：自愿行为(Volunteering)、过度回报行为(Over-Reciprocation)以及代言人行为(Ambassadorship)。
+
+地点依恋vs.品牌依恋。国内外探讨消费者依恋有关的文献不少，大都集中在品牌依恋上(BrandAttachment，如 Fournier,1998; Thomson,2006; Thomson et al.2005；姜岩，董大海,2008)。品牌依恋是消费者与品牌之间产生的一种强烈的认知和情感联结，有助于消费者塑造自身形象(Park et al.2006)，是一个独特且重要的营销构念（具体内容参考 Chaudhuri& Holbrook,2001;Dick& Basu,1994;Park et al.2006,2010; Reinartz& Kumar,2002; Thomson et al.2005)。而地点依恋是消费者对某个特定的地点或零售环境产生的依恋(Kleine&Baker,2004)。相比之下，品牌依恋的内涵更加广泛，消费者对于同一品牌下的不同门店产生的依恋程度可能不同。例如，Brocato 等人(2015)的调查发现，某品牌健身房的会员会舍近求远前往他喜欢但更远的同一品牌健身房运动。从本质上看，品牌依恋的消费者更在意品牌所提供的有形产品，而地点依恋的消费者更在意的是地点或零售环境内成员之间的社会交往以及物理空间环境与其自身形象之间的关联程度。当然提供的产品或服务的质量也是产生地点依恋的前提之一(Brocato et al.,2015)。
+
+地点依恋的形成。现有文献表明，地点依恋形成可能来源于时间和非时间两大维度。时间维度是指，消费者对零售环境的情感和认知，即消费者与零售环境的互动，会随着时间的推移不断加深(Brocato et al.,2015)。非时间维度是指，企业可以通过创造与目标消费者身份匹配的零售环境以及促进消费者之间或消费者与员工之间的社会交往提升地点依恋(Brocato et al.,2015)。
+
+零售空间环境与地点依恋。Brocato 等人(2015)强调，零售环境的装修并非越奢侈越好，而应当从目标消费者出发，构建与目标消费者自我概念(Self-Concept)相符或一致的物理环境(即地点认同)，才有助于消费者产生地点依恋。当消费者的自我形象(Self-Image)与零售环境相匹配，零售环境将成为个体自我认同的一部分(Jorgensen& Stedman,2001)，他或她能通过这个地点或环境来表达自我，或作为自身形象的传播工具(Sirgy et al.,2000)，此时，他或她对该地点或环境的依恋就产生或增加了。其次，若某零售环境能满足消费者更多的需求，消费者对该零售环境可能产生功能性依恋(Milligan,1998;Stokols& Shumaker,1981)。最后，提升零售环境的独特性有助于增强消费者的地点依恋(Gustafson, 2001)。
+
+社会交往与地点依恋。多项社会互动研究指出，与他人的社会联系是消费者产生地点依恋的重要来源之一(Guest&Lee,1983; Pretty et al.,2003)。Debenedeti 等人(2014)认为交往中产生的熟悉感(Familiarity)、真实感(Authenticity)以及安全感(Security)有助于形成地点依恋。其次，增加消费者在零售空间的回忆(如开展活动)有助于促进消费者的地点认同，因为由参与体验产生的回忆有助于消费者产生对零售环境的归属感并增强他们的自我认同，进而导致对零售环境的认同。同时，在零售空间的成员之间创造共同且难忘的回忆也有助于强化成员之间的情感联系，促进社会联系(Gustafson,2001)。最后，零售环境(包括员工)通过情感支持或陪伴补偿人们心中的孤独感，也是消费者对零售环境产生地点依恋的原因之一(Rosenbaum et al.,2007)。
+
+# 2.2.2消费者厌腻理论
+
+心理学中将消费者厌腻感(Customer Satiation)描述为因渴望刺激的心理与缺乏刺激间的冲突而导致的一种不愉悦感(Eastwood et al.,2007)。该定义强调了厌腻是消费者个体情绪动态冲突的结果。因此，消费者厌腻是指消费者对重复消费同一产品或服务的效用感、享乐感或满意度显著下降，负面感知逐步抑制正面感知的主观情绪体验(Redden,2008,2015)。按照属性不同，可以将厌腻感划分为感官厌腻(Sensory-Specific Satiation)和非感官厌腻(Nonsensory-Specific Satiation)。感官厌腻是指个体能够实际接触到的产品属性，这种属性能够持续影响消费者行为，如口味、触感等；非感官属性例如产品的品牌、口碑等属性(Inman,2001; Redden,2008)。有关研究表明，消费者对产品的感官属性更为敏感，因此对感官属性的厌腻速度更快，更容易引发消费者的多样化寻求(Inman,2001)。在餐饮消费的研究文献中，Line 等人(2016)将消费者厌腻划分为食物厌腻、服务厌腻和环境厌腻。Ha和 Jang(2013)则将消费者厌腻划分为用餐体验的总体厌腻和餐厅属性厌腻(包括食物属性厌腻、服务属性厌腻和环境属性厌腻)。餐饮消费中的厌腻类型均属于感官厌腻的范畴。按照知觉状态，可以将厌腻感划分为实际厌腻感(Actual Satiety)和未来厌腻感(Future Satiety)。实际厌腻感是指消费者当前能够感知到的厌腻。未来厌腻感是指消费者根据过去经验，预见自身将会产生厌腻。当消费者预见到厌腻感将会发生时，他们会选择在预期中保持前瞻性(如减少消费量或控制消费周期等)，避免因消费量过多而导致未来厌腻感的产生(Kahnx et al.,1997)。
+
+享乐适应理论(Hedonic Adaptation)可以解释消费者厌腻的形成。该理论描述了感官适应过程，在此过程中新体验导致的情感唤醒，会在个体反复接受刺激后回落到基准水平，即消费者由于重复接触而逐渐减少对产品情感反应的过程(Coombs&Avrunin,1977)。当消费者越来越多地获得产品或服务带来的享乐收益时,他们先会对其进行适应，继而产生厌腻感；当给定产品或服务的感知利益降低到一定水平时，他们会开始寻求享乐刺激的替代手段(Line et al.,2016; Park& Jang,2014)。可见，厌腻感是重复消费中享乐适应的必然结果。由于享乐适应，即使接触到的是高质量的服务或产品，厌腻也不可避免 (Park& Jang,2014)。
+
+消费者通常会通过多样化寻求来消除厌腻感。消费周期的控制即降低消费频率或增加消费间隔也将有助于缓解厌腻(Galak et al.,2013)，这是因为通过控制消费频率，增加消费的时间间隔，有助于使个体恢复享乐适应水平，从而对享乐价值具有补益作用(Sheldon& Lyubomirsky,2012)。此外，在消费过程中接受干扰也可以降低厌腻感，增加整体享乐价值(Galak et al.,2013;Nelson＆ Meyvis,2008;Nelson et al.,2009)。例如，在较长的时间段内设置更多的活动将有助于个体感知更高的刺激，使享乐价值增加；但若是在较短的时间段内设置更多的活动，则会导致个体享乐价值降低，厌腻速度加快，厌腻感增加(Etkin& Mogilner,2016)。
+
+# 3研究构想
+
+本文首先从挖掘“社区”消费者特征出发，提出社区消费者的一般特征(距离近、易厌腻等)；然后，依据两大主线，即如何提升社区消费者地点依恋以及如何缓解社区消费者厌腻策略角度，提出了研究构想。
+
+# 3.1研究模块一：社区消费者一般特质研究
+
+本体安全感理论(Sense of Ontological Security Theory)认为当消费者正常和预期的生活被打乱时，他们会产生本体上的不安全感、不确定感或焦虑感，该构念反映了消费者对个人生活感到安全和可预测的程度(Cannon et al.,2019; Kinnvall& Mitzen,2018; Rossdale,2015)。这些威胁可能导致消费者产生认知反应和行为反应以补偿本体安全感的缺失(Campbell et al.,2020)。疫情使消费者的健康受到威胁(Huckins et al.,2020)，人们开始担忧自己可能会感染新冠病毒(Gruchola& Slawek-Czochra,2021)，对新冠病毒的恐惧甚至超越了癌症(Somashekhar et al.,2020)，这说明消费者正常和预期的生活被打乱。根据本体安全感理论，疫情破坏了消费者的本体安全感，消费者会通过认知反应和行为反应补偿本体安全感的缺失。受到新冠威胁的消费者已经产生了“旅行恐惧”(TravelFear, Zheng etal, 2021），这种恐惧心理激活了消费者的行为免疫系统(Neuberg et al.,2011)。为了避免感染可能，消费者可能选择通过主动缩短购物活动范围半径，以减少接触不安全流动因素(如未被确诊的新冠感染者)的可能性。根据 eMarketer(2021)调查， $50 \%$ 受访者称与新冠疫情前相比，他们现在更愿意在较近的社区商店购物。因此，我们提出：
+
+命题1：与疫情前相比，疫情之后消费者购物半径缩短。
+
+结合相关文献，本文提出与商场消费者相比，社区消费者具有如下一般特征：首先，地理邻近性是线下社区的典型特征。由于地理位置接近，消费者对社区商家感知的风险更小，因为一旦出现问题，消费者很容易退换(Edwards et al.,2009)。Benedikctus 等人(2007)提出距离近的社区商家在线上也更受信任。由此，我们预期社区消费者会员办理意愿更高。同时，Meyners 等人(2017)发现地理距离较近的点评产生的影响力更大，这意味着邻里之间的口碑传播对社区消费者购买决策影响可能更大，因此，我们预期社区消费者受邻里口碑影响较大。同时，地理邻近性还可能提高消费频率和重复消费占比，根据消费者厌腻理论，社区消费者比商场消费者更容易产生厌腻感。
+
+然而，由于高频购物的需要，社区消费者与社区商家在频繁的交流中可能变得熟悉。熟悉感更有能产生积极的情感联系(Fang et al.,2007)。因此，根据地点依恋理论，我们预期社区消费者更有可能对社区(vs.商场)商家产生依恋。同时，社区商业被描绘为开在“回家路上”、“有家的温度”(腾讯网,2020)，“回家”的感知可能让社区消费者对与“家”相关的因素更加敏感，如购买家庭装奶粉（儿童奶粉搭配老人奶粉)或亲子装等。因此，我们预期家庭型消费可能是社区消费者的主要消费特征之一。
+
+命题2：与商场消费者相比，社区消费者具有(a)距离更近，(b)会员办理意愿更高，(c)口碑影响更大，(d)更容易厌腻，(e)更容易产生地点依恋，(f)家庭型消费为主等六大特征。
+
+在以上六大特征中，社区消费者厌腻和地点依恋是核心和本质，且与心理学更相关，因此，本文着重选择这两个维度提出研究构想。
+
+# 3.2研究模块二：社区消费者地点依恋提升策略研究
+
+品牌名称是品牌的重要组成要素，品牌命名是企业重要决策之一。营销学和消费者行为学文献均发现品牌名称在某种程度上直接影响消费者的购买偏好。例如，Wu等人(2019)发现中国消费者更偏向语义命名的汽车(如日产的楼兰)，而非兼顾语音语义命名的汽车(如大众的途锐)，但高端车型最好采用字母组合命名(如马自达的CX-7)。Wang 等(2019)发现中国消费者进行财务投资决策时，与非中字头的股票相比，更倾向于购买含有“中字头"的股票，这种效应被称为母国命名效应(Home-NameEffect)。并进一步发现中字头的股票更能引起个体股民的心理认同(Psychological Identification)，进而提升他或她们对中字头股票的持有意愿；个体股民的自我提升动机(Self-Enhancement Motive)会强化对中字股的心理认同和持有意愿。社区商业被描绘为开在“回家路上”、“有家的温度”(腾讯网，2020)，离家近是社区商业的一大典型特征。用类似于Wang 等学者(2019)的逻辑，本文提出相比不含有“家”字的社区品牌(例如“房天下”），社区品牌名称中含有“家”字(例如“链家”、“我爱我家”)或家元素(如“好邻居”便利店)，社区消费者更容易产生积极的情感回应和购买意向。
+
+根据环境心理学，店铺环境，包括有吸引力的招牌、布置、好的灯光、色彩和舒适的氛围都是塑造消费者体验的刺激物，随着时间流逝在消费者记忆里形成印记(Lund&Marinova,2014)。根据地点依恋理论，那些能为消费者带来熟悉、真实和家的感觉的店铺更能产生地点依恋。本文提出品牌名称中含有“家”字的社区品牌，帮助社区消费者建立与社区商家的紧密联系(如强化了社区和家园的价值观)，会给消费者带来亲近和熟悉的感知，社区消费者进而更容易对该店铺产生依恋。地点依恋对购买意向具有正影响(Brocato etal.,2015)。因此，我们提出：
+
+命题3_1：社区消费者对社区商家品牌名称中含有(vs.不含有)“家"字的社区品牌购买意向更高。
+
+命题3_2：地点依恋是社区品牌命名类型和购买意向的中介变量，即消费者对品牌名称中含有(vs.不含有)“家”字的社区品牌购买意向更高是因为前者更容易让社区消费者产生地点依恋。
+
+当进驻社区的品牌已经家喻户晓(如盒马鲜生)，消费者倾向于利用他们过去的经验作为购买决策的主要依据(Edwards etal.,2009)。此时，社区品牌名称中是否含有“家”字/元素，对消费者的影响不大。相反，当消费者不熟悉某社区品牌(即初创社区品牌)，品牌名称更大可能在消费者潜意识里影响其决策。即如前所述，社区品牌命名里含有“家”字，感知更加信任和熟悉，地点依恋更高，从而购买意向更高。
+
+命题3_3：品牌知名度调节社区品牌命名类型(含有“家”字vs.不含“家”字)对消费者购买意向的影响。具体而言，如果品牌进驻社区时品牌知名度低，消费者对品牌名称中含有(vs.不含有)“家"字的社区品牌购买意向更高；但如果品牌进驻社区时品牌知名度高，品牌名称中含有(vs.不含)“家"字对消费者购买意向的影响无明显差异。
+
+当管理者想要创造地点依恋时，不仅是物理环境方面，他们必须考虑整个“场所”，其中包括能够增强消费者对公司的依恋强度的社交元素。本文注意到不少社区商家利用门店资源提供一些针对社区消费者的免费增值服务。例如，链家提供免费复印打印、应急上网、应急拨打电话等服务。京东 7鲜社区超市提供代收快递等服务。这些服务可以通过很小的成本让消费者受益(Mahar et äal.,2014)。提供附加服务的社区门店为消费者提供了更多的功能性便利，有利于消费者对零售环境产生功能性依恋(Functional Atachment, Rosenbaum et al.,2007)。通过与其他零售环境的比较，若某零售环境能满足消费者更多的需求，消费者则更容易对该零售环境产生依赖，降低对其他零售环境的可替代性感知，进而对该零售环境产生依恋(Miligan,1998; Stokols& Shumaker,1981)。因此，我们提出：
+
+命题4：社区消费者对提供(vs.不提供)附加功能性服务的社区商家产生地点依恋更高，进而产生更高的购买意向。
+
+社交互动是消费者对零售环境产生地点依恋的主要原因之一。本研究认为服务人员与社区消费者的互动影响社区消费者的地点依恋，进而影响其购买意向。研究表明，人们经常从温暖(Warmth)和能力(Competence)两个维度来感知和评价他人(陈增祥，杨光玉,2017)。温暖和能力分别反映了人们在社会交往当中对他人意图和动机的不同感知。具体而言，温暖以考虑他人为导向，具有善良、值得信赖、有耐心、友好以及真诚的特征；而能力更多的是彰显自己、实施自己的意图以对他人施加影响，具有能力、技能、智慧和自信的特征(陈增祥，杨光玉,2017)。
+
+本文认为社区商家服务人员展示温暖(vs.能力)的形象，更有助于产生地点依恋，进而对社区商家销售额提升更大。根据地点依恋理论，积极的情感联系是产生地点依恋的基础。社区是一个以“熟人关系”维系的小型社会，本文认为推销人员展示温暖的形象更有助于在交往中产生熟悉感、真实感和安全感(Debenedeti etal.,2014)，进而增加地点依恋。同时，温暖的形象更有利于在零售环境中与员工或其他消费者形成的“商业友谊”，补偿消费者心中的孤独感(Rosenbaum etal.,2007)，从而产生地点依恋。相反，社区商家销售人员展示能力的形象，反而可能增加距离感，降低情感联系，进而减少地点依恋。此外，从产品属性来看，社区商家为居民提供的生活必需品(如生鲜、粮油)大都属于低卷入度商品，相应的，这些产品信息与温暖感知更匹配(Aaker et al.,2000; Xu etal.,2013)。从权利感视角来看，相对于充满权力竞争的职场而言，拥有和睦邻里关系的社区处于一个低权力环境。而低权力(Low-Power State)的信息接收者更容易被温暖信息说服(Dubois et al.,2016)，因此社区居民可能更容易被温暖的信息说服。Guentuerkuen 等人(2020)发现服务人员展示热情温暖的形象更有助于企业与消费者建立牢固的情感关系，产生复购和促进消费者的口碑传播(Huang&Ha,2020)。Chang等人(2019)在研究移动社交广告叙事形象时发现，以第一人称叙事(First-Person Narration)并结合温暖的品牌形象能在社交媒体上获得更多的喜爱。因此，我们提出：
+
+命题5：社区消费者对服务人员展现温暖(vs.能力)形象的社区商家产生地点依恋更高，进而产生更高的购买意向。
+
+社交互动是消费者对零售环境产生地点依恋的主要原因之一，本文认为这种互动不仅局限在零售环境内。Brocato 等人(2015)认为消费者与员工之间社会联系(SocialBonds)对地点依恋的影响尤为重要，加强零售环境中成员(员工、消费者)之间的社会联系有助于形成消费者的地点依恋；同时他们还进一步地指出在消费者与员工之间创造共同且难忘的回忆有助于强化他们的社会联系。这种回忆可以通过开展一些有趣的活动来创造。例如，某知名茶饮品牌小程序页面组织(小范围)会员露营报名。本文提出与物质类的会员活动(如满减、打折、赠品)相比，开展体验类的会员活动(如外出郊游、野炊、桌游)，更有助于社区消费者与员工或其他消费者产生互动和创造难忘的回忆，进而提升社区消费者的地点依恋。积极心理学研究发现，物质产品容易产生享乐适应，购买体验产品比物质产品更让人快乐(Dhar&Wertenbroch,2000)。甚至我们预期，无论社区消费者是否真正参与，知晓该类活动都有可能增加社区消费者对社区商家的真诚感知，进而产生地点依恋。因此，我们提出：
+
+命题6：体验类(vs.物质类)的会员活动更有助于社区消费者对社区商家产生地点依恋，进而产生更高的购买意向。
+
+# 3.3研究模块三：社区消费者厌腻缓解策略研究
+
+高频消费不仅可能产生地点依恋，也可能导致消费者厌腻。社区消费者很可能预想到厌腻感将会发生，因此保持前瞻性(如减少消费量或控制消费周期等)，避免因消费量过多而导致未来厌腻的产生(Kahnx etal.,1997)。本研究认为未来厌腻感是消费者不愿意办理会员的原因之一，并提出社区商家间开展会员异业联盟能够缓解消费者的厌腻感。
+
+异业联盟(Cross-Industry Alliance)是指两个或多个不同行业的企业在面向相同消费者群体时，通过资源共享结成长期或短期的战略联盟以实现合作共赢的一种企业战略(Ruekert& Rao,1994;Simonin&Ruth,1998；张千帆等,2018)。其表现形式多种多样，既包括集合产品优势的品牌联盟，也包括捆绑产品的联合促销(Rao et al.,1999)。本文主要探讨社区商家间开展会员相关的异业联盟，即会员异业联盟(如会员积分联盟，消费者在某社区A便利店办理的会员可以在同社区的B餐厅消费积分并兑换)对社区消费者未来厌腻感的影响。根据消费者厌腻理论，当消费者产生消极的厌腻情绪(Redden,2008,2015)时，通常会采取多样化寻求来降低厌腻(Kahnx etal.,1997)。通过将不同的产品或服务结合，会员异业(vs.非异业)联盟能够满足消费者的多样性寻求(Menon&Kahn,1995)，降低可预见的享乐适应状态(Sheldon&Lyubomirsky,2012)，缓解消费者对单一产品或服务的未来厌腻感(Nelson& Meyvis,2008; Nelson et al.,2009)。因此，我们推断：
+
+命题7：社区消费者对会员异业联盟(vs.非异业联盟)的厌腻感更低，会员办理意愿更强。
+
+由于社区消费者具有复购率较高的特征，更容易产生厌腻，因此社区商家更需要快速推出新产品以满足不断变化的消费者需求。麦当劳、赛百味和达美乐披萨每年都会持续性研发新产品(Gielens& Steenkamp,2007)。成功的新产品是企业绩效的重要驱动因素(Emst et al.,2011; Pauwels et al.,2017),企业 $2 2 \% { \sim } 4 9 \%$ 的销售额和 $40 \%$ 的利润都是由新产品贡献。本文提出社区商家应推出丰富(vs.单一)的产品线以降低消费者厌腻。一方面，企业通过丰富产品线，提供多样性选择来满足消费者的新颖性追求动机，降低消费者对店铺的厌腻速度(Lineet al.,2016)。另一方面，新增的产品类别通过降低消费者对原类别中产品或服务的重复消费几率，从而使消费者对原类别的厌腻速度变慢(Redden,2008)。但是，也有研究表明，产品的类别越多，消费者就越倾向于体验各类别的消费刺激，而不是仅仅关注某个单一类别(Redden,2008)，这也可能导致对原类别产品的厌腻速度加快，使得在不同类别间的多样化寻求程度越高。因此，我们推断：
+
+命题8_1：丰富(vs.单一)的产品线，能够降低社区消费者对社区商家的厌腻感。
+
+命题8_2：新增产品类别数量与消费者对原类别产品的厌腻感呈U型关系。
+
+可分享优惠券(ShareableCoupon)是一种特别的营销策略，指消费者得到的优惠券不仅可以自己使用，还可以分享给亲人朋友使用，两者获得同样的优惠。Hanson 和 Yuan(2018)发现相比传统不可分享优惠券，可分享优惠券会让消费者感知被赋权，因此消费者会产生更高的购买意向。本文提出可分享优惠券可以降低消费者厌腻感。一方面，由于可分享优惠券现在尚未全面流行，相比于传统优惠券，可分享优惠券能为消费者带来更多的差异化体验，关注差异化有助于降低厌腻速度(Redden,2008)。另一方面，将优惠券分享给街坊邻居有助于塑造友好、关心他人和尊重他人的形象，消费者能够提升自我形象(Seo& Scammon,2014)。这个过程可以帮助消费者产生良好的记忆，愉悦的记忆能够缓解厌腻感造成的负面影响(Galak et al.,2009)。综上，可分享优惠券能够缓解消费者因为享乐适应而产生的厌腻。因此，我们推断：
+
+命题9:社区消费者对可分享优惠券(vs.传统优惠券)的厌腻程度更低，购买意愿更高。
+
+2030 年中国城镇化率将突破 $70 \%$ ，届时将形成2万个以上的新兴社区(中投顾问,2016)。与商业格局稳定的老旧社区不同，新兴社区的消费者尚未形成社区品牌偏好，可能为社区品牌提供巨大的发展空间。伴随着社区商业红利的进一步释放，未来将有更多的初创社区品牌出现。那么，知名度相对较低的初创品牌应选择入驻新兴社区抢占先机还是选择老旧社区步步为营？已有研究尚不能回答该问题。
+
+最佳刺激水平理论(Optimum Stimulation Level Theory,OSL)认为出于维持最佳刺激水平的需要，消费者会产生多样化寻求(Variety-Seeking)行为(Gu et al.,2016; McAlister,1982)以将获得的刺激保持在最愉快的水平上(Gu et al.,2016)。多样化寻求是指个体在选择商品或服务时寻求多样性的趋势，是消费者缓解或防止厌腻、寻求新奇、展现选择自由及追求效用最大化心理的行为表现(Givon,1984;Levav& Zhu,2009;Ratner＆ Kahn,2002；张燚等,2020)，OSL 理论是解释消费者多样化寻求倾向的核心(McAlister,1982; Raju,1980；于洪彦等,2008)。根据 OSL 理论，刺激的来源有多种，针对传统零售店铺，产品和环境变化是消费者获得刺激的主要来源(于洪彦等,2008)；并且，该理论表明处于中间状态的刺激水平会被感知为最令人满意的刺激水平，过高或过低的刺激水平都会导致消费者的不满。例如，当消费者感到厌倦时，他们就会通过改变自己常规性的购买行为来产生新的刺激；当刺激超过最佳时，消费者就会减少对新事物的探索(Gu etal.,2016；于洪彦等,2008)。
+
+将上述逻辑延伸至社区商业领域，由于居民在社区的消费频率高，在重复消费的过程中，老旧社区的居民容易对现有的社区品牌产生厌腻，此时他们心理的刺激水平低于最佳水平，容易产生多样化寻求行为，因而知名度低的社区品牌有更大被光顾的机会；然而，在新兴社区中，由于新环境以及新品牌等各种刺激，此时社区消费者心理的刺激水平高于最佳水平，因此他们可能会为了规避风险，更加倾向于选择知名度高的品牌。因此，我们推断：
+
+命题10_1：老旧社区(vs.新兴社区)的消费者厌腻水平更高。
+
+命题10_2：知名度低(vs.高)的社区品牌开在老旧社区(vs.新兴社区)对销售额的提升更大。
+
+# 4理论建构
+
+新冠疫情催生了社区商业的兴盛，国家也提倡大力发展线下经济实体，然而，社区消费者及线下社区的研究和相关理论暂缺，甚至出现了部分社区商业难以为继而倒闭的现象。本研究主要基于营销、消费者行为学、心理学、环境心理学等领域的研究成果，深入刻画了社区消费者特征，重点围绕如何提升社区消费者地点依恋以及缓解社区消费者厌腻两大视角，探讨了社区商业繁荣之道。本文构建的理论框架如图1所示，主要理论观点如下：
+
+![](images/2da1b053adc2ce0482d439760217fd7cb8eb28f114833cca1f8d05ed1cadc6e4.jpg)  
+图1理论建构概念框架图
+
+首先，现有社区消费者研究主要集中在社区消费者接纳社区商业的动机(如Anic& Rada,2016)及地理邻近性特征(如Lee＆ Bel,2013)，研究角度和一般消费者研究差别不大，缺乏对社区消费者特质的了解，社区消费者画像不清晰。本研究深入挖掘了“社区”这一核心词，构建了社区消费者一般特征，即与商场消费者相比，社区消费者具有距离更近、会员办理意愿更高、口碑影响更大、更容易厌腻、更容易产生依恋、家庭型消费为主等六大特质。这些结论将为社区消费者特质研究提供新的知识和框架。
+
+其次，在营销学和消费者行为学文献中，关于品牌依恋的文章非常多，Borghini 等人（2021）提倡营销学者们关注地点依恋相关研究。在过往的地点依恋研究中，地点依恋常常被用于探究个人与家庭、社区、城市、地区、国家、甚至整个大洲之间的情感联系(Lewicka,2011)，却较少关注地点依恋对消费者与零售空间之间关系的影响(Borghini et al.,2021; Brocato et al.,2015; Debenedeti et al,2014; Rosenbaum et al.2007; Styven et al.,2020 除外)。在系统回顾了地点依恋的概念、地点依恋与品牌依恋的差异、地点依恋形成机制及影响的基础上，本研究推论社区消费者对社区商家品牌名称中含有(vs.不含有)“家”字的社区品牌，对服务人员表现出温暖(vs.能力)形象的社区商家，对提供(vs.不提供)附加服务，对组织体验类(vs.物质类)会员活动的社区商家产生更高的购买意向，而更高购买意向产生的原因是因为前者能够产生更高的地点依恋。本研究对部分上述关系的边界条件进行了探讨。预期结论将较大地推动地点依恋相关理论研究。
+
+最后，基于消费者厌腻理论，本研究推论社区消费者对采用会员异业联盟(vs.非异业联盟)，丰富(vs.单一)产品线，可分享(vs.不可分享)优惠券的社区商家的购买意愿更高，而更高购买意向产生的原因是因为前者能够更有效的缓解消费者厌腻。本研究对部分上述关系的边界条件进行了讨论。在本研究中，我们探索了资源禀赋因素(多行业异业联盟)、情境因素(可分享优惠券的社交体验)和产品因素对消费者厌腻的影响，丰富了消费者厌腻理论研究。
+
+本文对企业营销实践具有重要价值，能够帮助社区商家更深刻地理解社区消费者心理与行为特质。一方面，地点依恋对线下实体商业十分重要，尤其是那些难以在价格上与大企业竞争的小企业，如社区商家。这些社区商家可以通过在零售环境中营造良好的社交氛围或塑造与消费者形象一致的物理环境来获得消费者的青睐，从而增加社区消费者地点依恋。例如，选择含有“家”字的社区品牌名称，雇佣有亲和力的店员，提供温情服务，组织体验类会员活动等。另一方面，缓解社区消费者厌腻是社区商业实践面临的重要挑战。会员异业联盟、丰富产品线、可分享优惠券等预期可降低社区消费者厌腻感。
+
+# 参考文献
+
+陈增祥，杨光玉.(2017).哪种品牌拟人化形象更受偏爱——归属需要的调节效应及边界．南开管理评论,20(03),135- 143.   
+胡璇卿.2021-09-14 取自 http://news.winshang.com/html/067/0293.html   
+姜岩，董大海.(2008)．品牌依恋的概念架构及其理论发展．心理科学进展,16(04),606-617.   
+沈萌萌.(2003,4月).社区商业的理论与模式．城市问题,(02),40-44.   
+腾讯网.2021-09-14 取自 https://new.qq.com/omn/20200505/20200505A03VTC00.html   
+王成荣，王春娟.(2020,6月).“后新冠时代"加快智慧型社区商业服务体系建设的思考．商业经济研究,(12),5-9. 于洪彦，袁平，刘艳彬.(2008).网络中选择环境对多样化寻求行为的影响研究．南开管理评论,11(03),31-38. 亿欧网.2021-09-14 取自 https://baijiahao.baidu.com/s?id=1680943251426528853&wfr=spider&for=pc   
+中国民商.2021-09-14 取自 https://xw.qq.com/cmsid/20200422A0Q7WE00   
+中国社区商业发展新趋势.2021-09-14取自   
+https://baijiahao.baidu.com/s?id=1654707685063672128&wfr=spider&for=pc   
+张千帆，王程珏，张亚军.(2018).异业合作与口碑传播：客户体验及产品创新度的影响——以"互联网+"背景下的企业 合作为例．管理评论,30(09),132-142.   
+张晟.2021-09-14取自https://www.sohu.com/a/401240352_505889   
+中投顾问.2021-09-14 取自 https://www.sohu.com/a/119896670_393779   
+张燚，周月娇，刘进平，蒋慧.(2020).顾客多忠诚与新店铺寻求的融合行为研究——基于纵向追踪与深度访谈的混合 方法．南开管理评论,23(05),100-111.   
+Aaker,J.L.,Brumbaugh,A.M.,&Grier,S.A.(2oo).Nontarget marketsandviewer distinctiveness: The impactoftarget marketing on advertising attitudes. Journal of Consumer Psychology, 9(3),127-140.   
+Anic,I.-D.,&Radas,S. (2O16).Boundaries fortheretail geographical market and factors influencing shoppersmobility. Journal ofConsumer Affairs,50(2),315-341.   
+Arnold,M. J.,& Reynolds, K.E. (2003). Hedonic shopping motivations. Journal of Retailing, 79(2),77-95.   
+Artz,G.M.,&Stone,K.E.(oo6).Analyzing theimpactofWal-Martsupercenters onlocalfoodstore sales.American Journal of Agricultural Economics,88(5),1296-1303.   
+Baker, J.,& Wakefield,K.L. (20l2). Howconsumer shopping orientation influences perceived crowding, excitement,and stress at the mall. Journal of the Academy of Marketing Science, 40(6),791-806.   
+Bates,T.,&Robb,A. (2oo8). Analysis ofyoung neighborhoodfirmsserving urbanminorityclients.JournalofEconomics and Business,60(1),139-148.   
+Benedikctus,R.L.,BradyM.K.,Darke,P.R.,& Voorhees,C.M. (2Oo7).Consumertrust in multiplechannels:Newevidence and directions for future research.In Brick &mortar shopping in the 21stcentury (pp.107-127). New York: Lawrence Erlbaum Associates.   
+Borghini,S.，Sherry,J.F.,&Joy,A.(2O21).Atachment toanddetachmentfrom favoritestores:Anaffordancetheory perspective. Journal of Consumer Research, 47(6), 890-913.   
+Boschma R. A. (2004,June). Does Geographical Proximity Favour Innovation? Paper presented at the meeting of the 4th Congress on Proximity Economics,Marseilles,France.   
+Boschma, R.A. (20o5). Proximity and innovation: A critical assessment. Regional Studies,39(1), 61-74.   
+Brocato,E.D.,Baker,J.,& Voohees,C.M. (2O15).Creating consumer atachment toretail service firms through senseof place. Journal of the Academy of Marketing Science, 43(2),200-220.   
+Campbell, M.C.,Inman,J.J.,Kirmani,A.,&Price,L.L. (220).Intimesof trouble: Aframework forunderstanding consumers'responses to threats.Journal of Consumer Research,47(3),311-326.   
+Cannon, C.,Goldsmith,K.,&Roux, C.(2019).Aself-regulatory model ofresourcescarcity.JournalofConsumer Psychology 29(1), 104-127.   
+Chang,Y.,Li,Y.,Yan,J.,&Kumar,V. (2019). Gettng more likes: The impactof narrtive person and brand mageon customer-brand interactions. Journal of the Academy of Marketing Science,47(6),1027-1045.   
+Chaudhuri,A.,& Holbrook,M.B. (2Ool).Thechainof effects frombrandtrustand brand affct to brand performance:The role of brand loyalty. Journal of Marketing, 65(2), 81-93.   
+Coombs,C.H,&Avrunin,G.S. (1977).Single-peaked functionsand thetheoryof preference.Psychological Review,84(2), 216.   
+Debenedet,A.,Oppewal, H.,& Arsel, Z. (2014). lace Atachment incommercial setings:Agift economy perspective. Journal of Consumer Research,40(5), 904-923.   
+Dhar,R.，& Wertenbroch,K. (20o0). Consumer Choice between Hedonic and Utilitarian Goods.Journal of Marketing Research,37(1), 60-71.   
+Dick,A.S.,& Basu, K. (1994). Customer loyalty: Toward an integrated conceptual framework. Journal ofthe Academyof Marketing Science,22(2),99-113.   
+Dubois,D.,Rucker,D.D.,& Galinsky,A.D.(2016). Dynamics ofcommunicator and audience power: The persuasiveness of competence versus warmth. Journal of Consumer Research, 43(1), 68-85.   
+Eastwood,J.D.,Cavaliere,C.,Falman,S.A,&Eastwood,A.E. ().Adesirefordesires:Boredomanditsrelationto alexithymia.Personality and Individual Differences,42(6),1035-1045.   
+Edwards,S.M.,Le,J.K.,&Ferle, C.L. (20o9). Does place mater when shoppng online? Perceptions ofsimilarityand familiarity as indicators of psychological distance. Journal of Interactive Advertising,10(1),35-50.   
+eMarketer.Retrieved September 14, 2021,from htps://www.emarketer.com/content/western-europe-retail-trends-2021   
+Ernst, H., Hoyer, W.D., Kraft,M.,& Krieger,K. (2011).Customerrelationshipmanagementandcompanyperformance The mediating role of new product performance. Journal ofthe Academy of Marketing Science,39(2),290-306.   
+Etkin,J.,& oger,C.(16).Does varietyamongactiviis increasehapne?Jouralofonsumer Research,43(2), 210-229.   
+Fang,X.,Singh,S.,&Ahluwalia,R. (2Oo7).Anexaminationofdierentexplanations for themere exposure effect.Journal of Consumer Research,34(1), 97-103.   
+Fournier,S. (1998).Consumersandtheir brands: Developingrelationshiptheory inconsumer research.JournalofConsumer Research,24(4),343-373.   
+Galak,J.,Kruger,J.,&Loewenstein,G. (Ol3).Slowdown! Insensitivitytoateofconsumptionleads tovoidablesatiation. Journal of Consumer Research,39(5), 993-1009.   
+Galak, J.,Redden,J.P.,& Kruger,J.(o9). Varietyamnesia: Recalingpastvarietycanacceleraterecoveryfromsatiation. Journal of Consumer Research,36(4), 575-584.   
+Gielens,K.,& Steenkamp,J.-B.E.M. (20o7). Drivers ofconsumer acceptance of new packaged goods: An investigation across products and countries. International Journal of Research in Marketing,24(2), 97-111.   
+Givon, M. (1984). Variety seeking through brand switching. Marketing Science,3(1),1-22.   
+Gruchola,M.,& Slawek-Czochra,M.(021).ThecultureoffearofinhabitantsofEUcountries intheirreactionto theCOVID19 pandemic -A study based on the reports of the Eurobarometer. Safety Science,135,105140.   
+Gu, R.,Oh,L.-B.，& Wang,K. (2016). Multi-homingon SNSs: Therole of optimum stimulation level and perceived complementarity in need gratification. Information & Management, 53(6),752-766.   
+Guentuerkuen,P.,Haumann,T.，& Mikolon,S.(2O20).Disentangling the diferential rolesof warmth and competence judgments in customer-service provider relationships. Journal of Service Research,23(4), 476-503.   
+Guest, A.M.,&L,B.A. (1983).Sentiment and evaluationas ecological variables.Sociological Perspectives,26(2),159 184.   
+Guiry,M.,Magi,A.W.,&Lutz,R.J. (Oo6).Defiing and measuringrecreationalshopperidentity.Journalof theAcademy of Marketing Science, 34(1), 74-83.   
+Gustafson,P. (2Ool).Rootsandroutes:Exploring therelationship between place attachment and mobility.Enviroment and Behavior,33(5), 667-686.   
+Ha,J.,&Jang,S.S.(2013).Atributes,consequences,andconsumervalues: Ameans-end chain approachacrossstaurant segments. International Journal ofContemporary Hospitality Management, 25(3),383-409.   
+Hamrick,K.S.,& Hopkins,D.(20l2).The timecostof access to food-Distance tothe grocerystoreas measured in miutes. International Journal of Time Use Research,9(1),28-58.   
+Hanson,S.,&Yuan,H.(2Ol8).Friends withbenefits:Socialcouponsasastrategytoenhancecustomers'socialempowerment. Journal of the Academy of Marketing Science,46(4),768-787.   
+Hidalgo,M.C.,&Hernandez,B.(2ool).Place atachment: Conceptualand empirical questions.JournalofEnvironmental Psychology,21(3),273-281.   
+HightowerJr,R.,Bady,M.K.,&Baker,T.L. (2OO2).Investigating theroleofthe physical environmentihedonicservice consumption: An exploratory study of sporting events. Journal of Business Research,55(9), 697-707.   
+Huang,R.,&Ha,S.(2O20).Theefects ofwarmth-orientedandcompetence-orientedservicerecovery messages onobservers on online platforms.Journal of Business Research,121,616-627.   
+Huang, X.,Dong,P.,& Zhang,M. (o19). Crush onyou: Romantic crushes increase consumers'preferences forstrong sensory stimuli. Journal of Consumer Research, 46(1),53-68.   
+Huckins,J.F.,dSiva,A.W.,Wang,W,Hedund,E.ogers,C.,epalS.K.,..Campbel,A.T. (22).Mentaealthand behavior ofcollge students during the earlyphases of the covid-19 pandemic:Longitudinal smartphone and ecological momentaryassessmentstudy.JournalofMedicalInternetResearch，2(6)， Articlee20185. https://preprints.jmir.org/preprint/20185   
+Inman,J.J.(2ool).eoleofsnsoryspecificatietyinarbute-evelvaietyseking.JournalofosumerResearch,8(1), 105-120.   
+Jorgensen,B.S.,& Stedman,R.C.(2Ool).Senseof placeasanatude:Lakeshoreowners atitudes toward their properties. Journal of Environmental Psychology,21(3),233-248.   
+Kahnx,B.,Ratner,R.,& Kahneman,D.(997).Patersofhdonicconsumption overtime.Marketing Leters,8(1),85-96.   
+Kinvall,C.,&Mitzen,J. (218).Ontologicalsecurityandconflict: The dynamicsofcrisisandtheconstitutionofcommunity. Journal of International Relations and Development,21(4),825-835.   
+Kleine,S.S., & Baker, S.M. (2004). An integrativereviewof material possesson attachment.Academy ofMarketing Science Review, 1(1), 1-39.   
+Lee,J.Y.，&Bell,D.R.(20l3).Neighborhood social capital and social learming for experience atributesof products. Marketing Science,32(6), 960-976.   
+Levav, J.,& Zhu,R. (20o9).Seeking freedom through variety. Journal of Consumer Research,36(4),600-610.   
+Lewicka,M. (2O11).Place atachment: How far have we come in the last40years?Journalof Environmental Psychology, 31(3),207-230.   
+Lichter,D.T.,& Brown,D.L.(20l1).Rural America inanurbansociety: Changing spatial and social boundaries.Annual Review of Sociology, 37, 565-592.   
+Line,N.D.,Hanks,L,& Kim,W.G.(2o16).Hedonic adaptationand satiation: Understanding switching behavior in the restaurant industry. International Journal of Hospitality Management, 52,143-153.   
+Low,S.,&Altman,I.(992).Placeatachment: Aconceptual inquiry.InI. Alhman& S.Low(Eds),Place attachment,New York: Plenum.   
+Lund,D.J.,&Marinova,D. (2O14).Managingrevenue acrossretailchannels:The interplayofservice performanceanddirect marketing. Journal of Marketing, 78(5), 99-118.   
+Mahar,S.,Wright,P.D.Bretthauer,K.M.,&HillR.P.(2O14).Optimizing marketercostsandconsumerbenefitsacross clicks and bricks. Journal of the Academy of Marketing Science, 42(6), 619-641.   
+McAlister,L. (1982).Adynamic atribute satiation model of variety-seking bhavior.Journalof Consumer Research,9(2), 141-150.   
+Mehta,V.,& Mahato,B. (2019).Measuring therobustness of neighbourhood business districts.Journalof Urban Design, 24(1),99-118.   
+Menon,S.,& Kahn,B.E.(1995).Theimpactofcontexton varietyseking in productchoices.JournalofConsumer Research, 22(3),285-295.   
+Meyners,J.,Barrot, C.,Becker,J.U.,&Goldenberg,J.(O17).Theroleofmerecloseess: Howgeographic proximityafects social influence. Journal of Marketing,81(5), 49-66.   
+Milligan,M.J. (1998).Interactional past and potential: The socialconstructionof placeattachment.Symbolic Interaction, 21(1), 1-33.   
+Moore,D.J.,& Homer,P.M. (20o0).Dimensionsof temperament: Aect intensity and consumer lifestyles.Journalof Consumer Psychology, 9(4),231-242.   
+Nelson,L.D.,& Meyvis,T. (2008). Interupted consumption: Disrupting adaptation to hedonic experiences.Journal of Marketing Research,45(6), 654-664.   
+Nelson,L.D.,Meyis,T.,&Galak,J.(o09).Enhancingthetelevision-viewingexperience throughcommercialinteptios. Journal of Consumer Research,36(2),160-172.   
+Neuberg,S.L., Kenrick,D.T.，& Schaler, M. (2011). Human threat management systems: Self-protection and disease avoidance. Neuroscience & Biobehavioral Reviews,35(4),1042-1051.   
+Niehm,L.S.winney,J,&iler,N.J.(o8).Communitysciaresponsibilityanditsonseuencesforfilyss performance. Journal of Smal Business Management, 46(3), 331-350.   
+Park,C.W.,&MacInis,D.J.(2Oo6).What’sinand whatsout:Questionsontheboundariesoftheatitudeconstruct.Journal ofConsumer Research,33(1),16-18.   
+Park,C.W.,MacInnis,D.J.&Prester,J.(2Oo6).Beyondatitudes: Attachmentandconsumerbehavior.Seoul National Journal,12(2),-36.   
+Park,C.W.,acnnis,D.J.,Priester,J.,isingerich,A.B.&acobuci,D.(o0).Brandatachmentandbrandaude strength: Conceptual and empirical diffrentiationof twocritical brand equitydrivers.JournalofMarketing,74(6),1-17.   
+Park,J.-Y.,&Jang,S.S.(O14).Revisitandsatiation paters: Areyourrestaurantcustomerssatiated? Interational Joural of Hospitality Management,38,20-29.   
+Pauwels,K.,Silva-Risso,J.Srinivasan,S.,&Hanssens,D.M.(20l7).New products,sales promotions,andfirmvalue:The case of the automobile industry. Journal of Marketing, 68(10),142-156.   
+Pendola,R.,&Gen,S.(2o08).Does Main Street promote senseofcommunity?AcomparisonofSanFrancisconeighborhoods. Environment and Behavior, 40(4), 545-574.   
+Prety, G.H.,Chipuer,H.M.,&Bramston,P.(Oo3).Senseofplace amongstadolescentsandadults intworuralAustralian towns:The discriminating features of place atachment,sense of community and place dependence in relation to place identity. Journal ofEnvironmental Psychology,23(3),273-287.   
+Raju,P.S.(980).Optimumstiulationlevel:Itselatiosiptopersonalitymogapicsndexploratoryhavior.Joual of Consumer Research, 7(3), 272-282.   
+Rao,A. R.,Qu,L.,&Ruekert,R.W.(199).Signalingunobservable productquality throughabrandall.JournalofMarketing Research,36(2),258-268.   
+Ratner, R.K.,& Kahn,B.E. (2oo2).The impactof private versus publicconsumption on variety-seeking behavior. Journal of Consumer Research,29(2),246-257.   
+Redden,J. P. (20o8).Reducing satiation:Theroleofcategorization level. JournalofConsumer Research,34(5),624634.   
+Reden,J.P. (2O15).Desire overtime: The multi-faceted nature of satiation.In W.Hofmann &L.F.Nordgren (Eds.)The psychology of desire (pp. 82-103). New York: Guilford Press.   
+Reinartz, W.,&Kumar, V. (2002).The mismanagementof customer loyalty. Harvard Business Review,80(7),86-94.   
+Rosenbaum,M.S.,Ward,J.,Walker,B.A.,&Ostrom,A.L. (2O7).Acupofcofee withadashoflove: Aninvestigatioof commercial social support and third-place attachment. Journal of Service Research,10(1), 43-59.   
+Rossdale,C.(20l5).Enclosingcritique:The imitsofontologicalsecurity.InternationalPolitical Sociology,9(4),6986.   
+Ruekert,R. W.,&Rao,A. (1994).Brand allances assignals ofproduct qualityloan Management Review,36(1),87-97.   
+Sanders,S.R.,Erickson,L.D.,CallV.R.,&McKnight,M.L. (2017).Middle-aged andolderadulthealthcareselection: Health care bypass behavior in rural communities in Montana. Journal of Applied Gerontology,36(4), 41-461.   
+Sceannell,L.,&Gifford,R.(Ol0).Definngplaceattchment:Aripartiteorganizing framework.Jouralofnvronmetal Psychology,30(1),1-10.   
+Seo,J.Y.,&Scammon,D.L.(014).Does feling holierthanothers predict gooddeeds?Self-construal,self-enhancement and helping behavior. Journal of Consumer Marketing, 31(6/7), 441-451.   
+Sheldon,K.M.,&Lyubomirsky,S.(2012).Thechallengeoftaying happier:Testing the hedonicdaptation preventionmodel. Personality and Social Psychology Bulletin,38(5), 670-680.   
+Simonin,B.L.,&RuthJ.A.(998).Iscompany knownbythecompanyitkeeps?Asessing the spillovereffectsofbrand allances on consumer brand attitudes. Journal of Marketing Research,35(1),30-42.   
+Sirgy,M.J.,Grewal,D.,&angebrg,T. (o).Retaileviroment,self-congruitydrtailpatroage:Anintegatie model and a research agenda.Journal of Business Research,49(2),127-138.   
+Somashekhar,S.P.,namdar,.B.,Manjiri,S.,Talwar,S.,Acharya,R.P.,Ashwin,K.R..Kumar,C.R. (22).imally invasive surgery and surgical smoke,decoding fear and ensuring safety: Adaptations and safety modifications during COVID pandemic. Indian Journal of Gynecologic Oncology,18(3),1-12.   
+Stokols,D.,&umaker,S.A.(91).eopleinplaces:atransactionalviewofsetings.InJHarvey(Ed.),Cognitioncial behavior and environment (pp. 441-448). Hillsdale,NJ: Erlbaum.   
+Styven,M.E.,Mariani,M.M.,& Strandberg,C.(202).Thisismyhometown!Theroleofplaceattachment,congruity,nd self-expressivenessonresidents'itentio toshareaplace brand message online.JournalofAdvertising,49(5),540-556.   
+Talen,E., &Jeong,H. (2O19).DoestheclaicAmericanmain streetstillexist?Anexploratorylook.JournalofUrban Design, 24(1), 78-98.   
+Thomson,M. (2Oo6). Human brands: Investigating antecedents toconsumers’strong atachments tocelebrities.Journalof Marketing,70(3),104-119.   
+Thomson,M.,MacInnis,D.J.,&Park,C.W. (2Oo5).The tiesthatbind: Measuringthestrengthofconsumers'emotional attachments to brands.Journal of Consumer Psychology,15(1),77-91.   
+Tuan,Y.-F. (1977).Space and place: The perspective of experience.Minneapolis,MN: UniversityofMinnesota Press.   
+Uzzi,B.(1997).Socialstructureandcompetitionininterfirmnetworks:TheparadoxofembeddednessAdministrativeScience Quarterly,42,35-67.   
+Wang,H.,Yuan,H.,Li,X.,&Li,H. (2019).The impactof psychological identificationwith home-name stocksonivestor behavior: Anempiricaland experimental investigation.Journalof theAcademyofMarketing Science,47(6),109-1130.   
+Wu,F.,Sun,Q.,Grewal,R.,&Li,S.(O19).Brandname typesandconsumer demand:Evidence fromchina’sautomobile market.Journal ofMarketingResearch,56(1),158-175.   
+Xu,H.,Leung,A.,&Yan,R.-N.(ol3).Itisnicetobeimportant,butitismoreimportanttbenice: Countryof-origin's perceived warmth in product failures.Journal of Consumer Behaviour,12(4),285-292.   
+Yancey,W.L.,&Ericksen,E.P.(1979).The antecedentsofcommunity:Theeconomicand institutional structureofurban neighborhoods.American Sociological Review,44,253-262.   
+Zheng,D.,Luo,Q.,&Ritchie,B.W.(2021).Afraid totravelafterCOVID-19?Self-protection,copingandresilienceagainst pandemic travel fear. Tourism Management, 83,104261.
+
+# Understanding local community customers: Perspectives from place attachment and customer satiation
+
+ZHANG Shal, XU Mengchen², JIANG Peiqi1, ZHAO Hong1,2 ( School of Economicsand Management, University of ChineseAcademy ofSciences,Beijing 10o90,China) (Sino-Danish College, University of Chinese Academy ofSciences,Beijing 1Ooo9o, China)
+
+Abstract: Because of both the decline of traditional shopping centers or malls and the diminishing of customer shopping radius caused by COVID-19, local neighborhood businesses have begun attracting increased patronage from customers, more capital investments,and enhanced atention from policymakers. Research on local neighborhood businesses and the local community customers is lacking in mainstream marketing literature though. To address this gap,the current study seeks to provide a clear definition and conceptualization of "local community,” which then informs a six-dimensional characterization of local community customers.Two characteristics appear particularly relevant: place atachment proneness and customer satiation pronenes. In reviewing these characteristics,this study ofers a series of propositions and a theoretical framework, which can help increase local community customers’ place attachment to local neighborhood stores and reduce their satiation due to repeated purchases. On the basis of the propositions, researchers can pursue greater insights into local community customers and local neighborhood commerce, while also expanding place atachment and customer satiation theories.Finally，local neighborhood companies can use the proposed framework to predict and satisfy customers’needs,and develop more effective, actionable marketing strategies.
+
+Key words: Local Community Customer, Place Attachment, Customer Satiation, Local Neighborhood Business, Offline Community

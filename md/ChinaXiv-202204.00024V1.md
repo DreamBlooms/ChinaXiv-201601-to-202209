@@ -1,0 +1,152 @@
+# 观察免疫过程中大鼠尿蛋白组的动态变化
+
+王云龙’高友鹤\*（北京师范大学基因工程药物及生物技术北京市重点实验室 北京100875）
+
+# 摘要:
+
+[目的]通过对大鼠注射牛血清白蛋白和氢氧化铝佐剂，观察尿液蛋白质组中免疫系统的变化。
+
+[方法]本研究对大鼠大腿肌肉注射牛血清白蛋白和氢氧化铝佐剂，收集尿液，通过液相色谱联用质谱（LC-MS/MS）鉴定差异蛋白，使用IPA软件对差异蛋白进行生物学通路的分析，观察大鼠尿蛋白中免疫系统的变化情况。
+
+[结果]15只大鼠分别肌肉注射生理盐水、氢氧化铝佐剂、牛血清白蛋白、氢氧化铝佐剂和牛血清白蛋白（BSA）混合物，构建对照组、佐剂组、BSA组、混合组模型。不同组别之间两两比较差异蛋白得到相关生物学通路，发现尿液中可以观察到佐剂帮助牛血清白蛋白更早的激发免疫系统发生反应。并且在尿液中还观察到混合组先后激发炎症反应、T细胞活化、抗原提呈细胞相关、B细胞相关等免疫相关通路。
+
+[讨论]我们可以在早期从尿液蛋白质组中观察到免疫系统的变化，这为以后免疫系统的研究，甚至加快疫苗的研发提供一些新的线索和依据。
+
+关键词：蛋白质组学；尿液；免疫
+
+To observe the dynamic changes of the urinary proteome in rats
+
+# during immunization
+
+Yunlong Wangl Youhe Gao\*
+
+(Gene Engineering Drug and Biotechnology Beijing Key Laboratory, Beijing Normal
+
+University, Beijing 100875, China)
+
+# Abstract:
+
+[Objective] The changes in the immune system in urine proteome were observed by injecting bovine serum albumin and aluminum hydroxide adjuvant into rats.
+
+[Methods] In this study, bovine serum albumin and aluminum hydroxide adjuvant were injected into rat thigh muscle, urine was collected, differential proteins were identified by liquid chromatography-mass spectrometry (LC-MS / MS)， and biological pathways of differential proteins were analyzed by IPA software to observe the changes of the immune system in rat urinary protein.
+
+[Results] Fifteen rats were intramuscularly injected with normal saline, aluminum hydroxide adjuvant, bovine serum albumin， aluminum hydroxide adjuvant, and bovine serum albumin (BSA) mixture to construct the models of the control group, adjuvant group,BSA group,and mixed group. Comparing the different proteins between different groups to get the relevant biological pathways, it was found that adjuvants can be observed in urine to help bovine serum albumin stimulate the immune system to respond earlier. It was also observed in urine that the mixed group successively stimulated immune-related pathways such as inflammatory response, T cell activation, antigen-presenting cell-related pathways,and B cell-related pathways.
+
+[Discussion] We can observe the changes in the immune system from urine proteome in the early stage, which provides some new clues and a basis for future research on the immune system and even accelerates the research and development of a vaccine.
+
+Keywords: Proteomics; Urine; Immune
+
+# 1引言
+
+尿液由于不属于体液，容易成为我们经常忽视的生物信息的聚集体。尿液由于不受稳态机制的调控，因而可以富集许多变化，是一个富含变化信息的地方，有利于我们研究和发现早期生物标志物【】。在正常生理状态下，人体的尿液蛋白质是比较稳定的，如果这些稳定的蛋白质在某些条件下发生了较大的变化，那么这些蛋白质就可以视为良好的生物标志物【2〗。此外，尿液还具有无创、大量、连续收集的优点。因此，我们认为尿液是寻找和研究生物标志物的理想样本。
+
+在我们已有的研究中，无论是对星状细胞瘤【4】、胰腺癌【5】、膀胱癌【等肿瘤模型的研究，还是通过腹腔注射不同种类的细菌【研究，我们都在尿液中发现了明显的差异蛋白，并且我们还进一步在尿里观察到每次免疫系统的状态都不一样，免疫系统都会发生不同的变化。早在二千年前希腊名医希波克拉底就宣称“人类最好的医生是自己”，这为我们指出人类医学应该从外界干预性治疗向人体自身免疫研究方向转变【8】。因此在尿液里寻找免疫系统最基本的东西，探索尿液中与免疫系统相关的蛋白变化，探索发生区别的差别。这是在尿蛋白领域的一种新的尝试与探索。
+
+在本次研究中，我们分别使用生理盐水、氢氧化铝佐剂、牛血清白蛋白、牛血清白蛋白与氢氧化铝佐剂混合物进行大鼠肌肉注射，并且在注射后的第1、3、5、7、14天收集尿液。将收集到的尿液进行提蛋白、酶切、质谱分析，观察不同的时间点各组蛋白变化、生物学通路情况，为从尿蛋白研究免疫系统提供线索，为加快疫苗的研发提供线索和依据。
+
+# 2 材料与方法
+
+# 2.1实验动物及模型构建
+
+15只 $1 5 0 \mathrm { g }$ 的雄性Wistar大鼠购自北京维通利华实验动物技术有限公司，分别分为3只生理盐水组、4只氢氧化铝佐剂组、4只牛血清白蛋白组、4只牛血清白蛋白与氢氧化铝佐剂混合组。牛血清白蛋白组按照4mg的剂量对大鼠进行注射，混合组按照牛血清白蛋白与氢氧化铝佐剂1:1等量配制溶液注射，氢氧化铝佐剂组注射等量的氢氧化铝佐剂，生理盐水组注射等量的生理盐水。各组统一采用大鼠右侧大腿肌肉注射的方法进行注射。期间按照12小时正常光暗循环、温度为 $( 2 2 ^ { \circ } \mathrm { C } \pm 1 ^ { \circ } \mathrm { C } )$ 、湿度为 $( 6 5 \% - 7 0 \% )$ 的标准条件进行饲养。每天进行一次尿液收集，在注射后第1、3、5、7、14天对大鼠收集到的尿液提取蛋白，进行酶切。所有实验操作符合动物伦理审查标准。动物许可证为 SCXK（京）2016-0006。所有实验均经北京协和医学院基础医学研究所机构动物护理使用与福利委员会批准（动物福利保障编号：ACUC-A02-2014-007）
+
+# 2.2尿液收集及样品处理
+
+# (1） 尿液收集
+
+我们对大鼠进行肌肉注射后，在接下来的一周内连续每天收集一次尿液，之后在第14天继续收集一次尿液。每只大鼠在代谢笼中过夜收集尿液10小时，期间不提供水和食物。第二天早上将收集到的尿液立即放置于 $- 8 0 ^ { \circ } \mathrm { C }$ 条件下进行保存，最终选取第1、3、5、7、14天的尿样进行后续实验。
+
+# (2） 尿蛋白提取和酶切
+
+尿蛋白提取：尿液按照 $1 2 0 0 0 \mathrm { g }$ ，40min， $\mathrm { 4 ^ { \circ } C }$ 的条件离心取上清；将上清液每管 $5 0 0 \mathrm { u l }$ 转移到新的EP管里，按照上清：乙醇 $= 1$ ：3的比例加入预冷乙醇，搅拌均匀；在 $- 2 0 ^ { \circ } \mathrm { C }$ 条件下过夜 $\mathrm { 1 2 h }$ ；第二天将溶液混匀，按照 $1 2 0 0 0 \mathrm { g }$ ，30min， $\mathrm { 4 ^ { \circ } C }$ 条件离心弃上清、留沉淀，倒扣滤纸，吹风机冷风吹干；加入裂解液37.5ul,用枪头吹匀直到无沉淀为止，按照 $1 2 0 0 0 \mathrm { g }$ ，30 min， $\mathrm { 4 ^ { \circ } C }$ 条件离心，取上清液，放入新EP管中分装、 $- 8 0 ^ { \circ } \mathrm { C }$ 条件保存。复溶后，采用Bradford 法测定蛋白质浓度。
+
+尿蛋白酶切：使用 FASP方法进行尿蛋白酶解【9】。100ug 尿蛋白加入到10kD超滤管（Pall，PortWashington，NY，USA）的滤膜上，使用UA 溶液（8mol/L尿素，0.1mol/L Tris-HCl,pH8.5）和25mmol/L NH4HCO3溶液分别洗涤两次，按照胰酶：蛋白为1：50的比例加入胰蛋白酶（TrypsinGold,Promega，Fitchburg，WI,USA）进行消化， $3 7 ^ { \circ } \mathrm { C }$ 水浴过夜。过夜后离心收集多肽通过HLB固相萃取柱（Waters,Milford,MA）进行除盐处理，用真空干燥抽干，存入 $- 8 0 ^ { \circ } \mathrm { C }$ 保存。
+
+(3） LC-MS/MS串联质谱分析酶切后的样品 $0 . 1 \%$ 甲酸水
+
+溶，并稀释到 $0 . 5 \mu \mathrm { ~ g / ~ \mu ~ L ~ }$ ，取每个样品制备混合多肽样，使用高pH反相肽段分离试剂盒(Thermo Fisher Scientific)进行分离。将混合多肽样品加于色谱柱上，用乙腈浓度梯度递增的溶液进行洗脱，通过离心收集十份流出液，使用真空干燥仪抽干后用 $0 . 1 \%$ 甲酸水复溶。使用iRT合成多肽（Biognosis公司），以10：1的体积比例加入到十个组分和每个样品中。使用EASY-nLC1200超高效液相色谱串联Orbitrap Fusion Lumos 高分辨质谱仪对10个分级组分进行数据采集。将溶于 $0 . 1 \%$ 甲酸水中的肽段装载至预柱（75$\mu _ { \mathrm { { I I } } } \times 2 \mathrm { { c m } }$ ， $3 \mu _ { \mathrm { { I I } } }$ ，C18，100A°），将洗脱液装载至反相分析柱（ $5 0 \mu \mathrm { m } \times 2 5 0 \mathrm { m m }$ ， $2 \mu \mathrm { m }$ ，C18， $\boldsymbol { 1 0 0 } \boldsymbol { \mathrm { A } } ^ { \circ }$ ），洗脱梯度 $4 \% - 3 5 \%$ 流动相B（ $8 0 \%$ 乙腈$+ 0 . \ 1 \%$ 甲酸 $+ 2 0 \%$ 水，流速为300nL/min），90min。为实现全自动、灵敏的信号处理，在所有样品中使用校准试剂盒（iRT kit,Biognosys,Switzerland），浓度为 $1 { : } 2 0 \mathrm { v } / \mathrm { v }$ 。以DDA-MS 模式分析10个组分，参数设置如下：喷雾电压$2 . 4 \mathrm { k V }$ ，Orbitrap的一级分辨率为60000、扫描范围为 $3 5 0 \mathrm { - } 1 5 5 0 \mathrm { m / z }$ ，二级扫描范围为 $2 0 0 { - } 2 0 0 0 \mathrm { m / z }$ ，分辨率为30000，筛选窗口为2Da，碰撞能量为 $3 0 \%$ HCD）。AGC目标为5e4，最大进样时间为30ms。raw文件通过PD（ProteomeDiscoverer 2.1，Thermo Fisher Scientific 公司）软件建库和分析。
+
+(4） 质谱数据处理
+
+将PD搜库结果用于建立DIA采集方法，根据 $\mathrm { m / z }$ 分布密度计算窗口宽度和数量。将单个多肽样品进行DIA模式采集质谱数据。使用 Spectronaut X 软件对质谱数据进行处理和分析。导入每个样本DIA采集的raw文件进行搜库。高度可信蛋白标准为肽段qvalue<0.01，采用二级肽段所有碎片离子峰面积进行蛋白定量。
+
+# (5） 统计学分析
+
+对质谱鉴定结果进行缺失值填充（KNN方法）【10】和CV值筛选（CV<0.3）【】，每两组数据之间的比较采用独立样本t检验。为尽量减少大鼠生长发育本身对于尿蛋白的影响，我们采用相邻时间点的比较方法，即第4周与第0周比较、第8周与第4周比较、第12周与第8周比较、第16周与第12周比较、第18周与第16周比较的方法，筛选差异蛋白标准为：两组之间变化倍数$\operatorname { F C } { \geqslant } 1 . 5$ 或 $\mathrm { F C } { \leqslant } 0 . 6 7$ ， $\mathrm { P } { < } 0 . \ : 0 5$ 。
+
+(6） 差异蛋白功能注释
+
+将筛选到的差异蛋白用DAVID数据库（https://david.ncifcrf.gov/）【l2】和IPA 软件(Ingenuity Systems，Mountain View，CA，USA)进行功能富集分析,均采用 $\mathrm { P } { < } 0 . 0 5$ 的显著性阈值。
+
+# 3实验结果
+
+# 3.1尿液蛋白质组变化分析
+
+(1） 非监督聚类结果分析
+
+![](images/1f87f1845a4d098c14efc6b3bf5d71a8fe1c96bd905cb738dc0e6967a9517f41.jpg)  
+Figure1.4组尿蛋白非监督聚类结果图
+
+为了直观地观察4组模型中尿蛋白组的区别情况，我们对4组尿蛋白组各个时间点整体进行了非监督聚类观察结果。非监督聚类结果如图1所示，其中A、B、C、D分别代表氢氧化铝佐剂（佐剂）组、牛血清白蛋白（BSA）组、生理盐水（对照）组、牛血清白蛋白和氢氧化铝佐剂混合（混合）组。组别之后的数字，例如B-4-1代表4号大鼠第1天，其余同理。根据4组整体的非监督聚类结果，我们大致可以看出生理盐水组更贴近于牛血清白蛋白组，加入佐剂后的氢氧化铝佐剂组和混合组则掺杂在一起，并且与生理盐水组和牛血清白蛋白组显著分开。这一结果提示我们佐剂可能在激发免疫系统发生变化方面发挥了一定的作用。
+
+![](images/e1c147379a46480dca3227f73205735190e6dd6ac40c6db1ed69ac2a32e734e6.jpg)  
+Figure 2.佐剂组与对照组尿蛋白非监督聚类结果图Figure3.BSA组与对照组尿蛋白非监督聚类结果图
+
+![](images/e13c374a22bb3fe95da7061499fd71979e776807a01300c0a6f308388daf2752.jpg)  
+Figure 4.混合组与对照组尿蛋白非监督聚类结果图Figure 5.佐剂组与BSA组尿蛋白非监督聚类结果图
+
+![](images/6863ea5c3dea4f533b327c8f00e67c13215dfe76783295b361513050f0705046.jpg)
+
+![](images/29cf2b113d2802d69455d0ab95a4ff0deca20210c925f23c7ccf79b9c14bdd85.jpg)  
+Figure 6.佐剂组与混合组尿蛋白非监督聚类结果图Figure7.BSA组与混合组尿蛋白非监督聚类结果图在4组尿蛋白非监督聚类的基础上，我们为更好地观察到各组尿蛋白之间整体差异情况，继续按照两组之间两两比较的方式进行非监督聚类，结果如图
+
+2-7所示，编号同上。如图2-4所示，我们的对照组与其他三个组的比较结果可以看出，对照组整体趋势是区别与各实验组，但可能由于对照组样本比较少的缘由，区别显示的并不直观。正如我们之前提到的，4组整体的尿蛋白非监督聚类结果显示，加入佐剂后影响较大，两两比较的结果也相吻合。如图5与图7所示，无论是纯氢氧化铝佐剂的佐剂组还是氢氧化铝佐剂与牛血清白蛋白混合的混合组，与牛血清白蛋白组非监督聚类结果都可以清楚分成两组。然而如图6所示，佐剂组与混合组相比较时，则互相掺杂在一起，聚类结果并不明显。
+
+(2） 差异蛋白和生物学通路分析
+
+我们分别比较了佐剂组与对照组、BSA组与对照组、混合组与BSA组、混合组与对照组的差异蛋白情况，如表1所示。并进一步利用差异蛋白通过IngenuityPathwayAnalysis软件进行分析，整理了不同时间点不同组比较的IPA通路情况，如表2所示。
+
+为了直观的看出佐剂对免疫系统起到的作用，我们首先观察了混合组与BSA组比较的结果，来探究加入佐剂后的混合组与单纯的BSA组差别在哪里。如表2混合组与BSA组结果所示，在注射后第1天，尿蛋白当中就出现了如Acute Phase Response Signaling、 Airway Pathology in Chronic ObstructivePulmonary Disease、 IL-12 Signaling and Production in Macrophages、FerroptosisSignaling Pathway、 Granulocyte Adhesion and Diapedesis、 Production of NitricOxide and Reactive Oxygen Species in Macrophages 等与炎症相关的通路，并且还有Glutathione Biosynthesis、Inflammasome pathway 等于免疫系统有关的通路。在第 3天，Ferroptosis Signaling Pathway、Acute Phase ResponseSignaling、Glutathione Biosynthesis、 Airway Pathology in Chronic ObstructivePulmonary Disease、 Phagosome Maturation、Inflammasome pathway 这些与免疫系统以及炎症反应相关的通路仍旧存在。但是，在我们的佐剂组还有BSA组的第1、3天，并没有出现明显的与免疫系统或者是炎症相关的通路。到了第5天，我们观察到IL-1Signaling 等通路的出现，白介素-1的出现，与刺激APC 和T细胞的活化，促进B细胞增殖和分泌抗体有密切的联系。而在这个时间节点，BSA组仍旧没有出现明显的免疫系统相关的通路，佐剂组开始出现Inflammasome pathway于炎症反应相关的通路，7天之后佐剂组和BSA组开始出现 Acute Phase Response Signaling、Glutathione Biosynthesis、FerroptosisSignalingPathway、Inflammasome pathway 等于炎症反应和免疫系统相关的通路。在最后第14天，我们可以观察到，在混合组与BSA组的比较中，IL-1Signaling、IL-12 Signaling and Production in Macrophages 这些与B 细胞相关的通路已经出现。佐剂组中仍旧是Acute Phase Response Signaling、Inflammasomepathway这些与炎症相关的通路，这可能与佐剂组无法刺激特异性免疫产生抗体有关。BSA 组中出现 Altered T Cell and B Cell Signaling in Rheumatoid Arthritis等与T细胞和B细胞相关通路。通过这三组的比较我们不难看出，加入佐剂后的混合组与BSA组比较，在一天之后就可以在尿蛋白中观察到与免疫系统还有炎症反应相关的通路变化，并且在五天之后到第14天开始出现抗原提呈细胞、T细胞、B细胞相关的通路。而与之对应的佐剂组和BSA组在7天之后才开始出现炎症相关通路，并且到第14天，佐剂组未曾出现与B细胞相关的通路变化。这不难看出，当在BSA中加入氢氧化铝佐剂后，在尿中可以观察到佐剂帮助更早的激发免疫系统发生反应。
+
+此外，我们还观察了尿蛋白中混合组与对照组相比各时间点的变化，我们
+
+发现在第1天，就可以观察到 IL-17A Signaling in Fibroblasts、DifferentialRegulation of Cytokine Production in Intestinal Epithelial Cells by IL-17A and IL-17F、Ferroptosis Signaling Pathway、 Acute Phase Response  
+Signaling、Inflammasome pathway 等与炎症相关的通路。在第3天，IL-8Signaling、 T Cell Receptor Signaling、 Thl and Th2 Activation Pathway、 Th2Pathway等与T细胞激活增殖的通路开始出现。7-14天之后，可以观察到IL-12Signalingand Production inMacrophag与抗原提呈细胞、B细胞相关的通路发生变化。这一结果显示，我们在尿液中可以观察到疫苗激发免疫系统的过程，及其相关的生物学通路变化情况。
+
+总的来说，我们本次实验的结果在尿液中观察到了免疫系统一系列的变化。这为以后免疫系统的研究开辟了新思路，尿蛋白可以在早期观察到免疫原性引起的免疫系统的变化，这可以为之后加快疫苗的研发提供一些新的线索和依据。
+
+Table1．.不同组别不同时间点差异蛋白情况  
+
+<html><body><table><tr><td>时间点</td><td>组别</td><td>差异蛋白个数</td></tr><tr><td rowspan="4">1</td><td>佐剂组与对照组</td><td>28</td></tr><tr><td>BSA 组与对照组</td><td>41</td></tr><tr><td>混合组与BSA组</td><td>65</td></tr><tr><td>混合组与对照组</td><td>48</td></tr><tr><td rowspan="4">3</td><td>佐剂组与对照组</td><td>40</td></tr><tr><td>BSA组与对照组</td><td>16</td></tr><tr><td>混合组与BSA组</td><td>43</td></tr><tr><td>混合组与对照组</td><td>30</td></tr><tr><td rowspan="4">5</td><td>佐剂组与对照组</td><td>53</td></tr><tr><td>BSA组与对照组</td><td>8</td></tr><tr><td>混合组与BSA组</td><td>64</td></tr><tr><td>混合组与对照组</td><td>44</td></tr><tr><td rowspan="4">7</td><td>佐剂组与对照组</td><td>42</td></tr><tr><td>BSA组与对照组</td><td>8</td></tr><tr><td>混合组与BSA组</td><td>23</td></tr><tr><td>混合组与对照组</td><td>53</td></tr><tr><td rowspan="4">14</td><td>佐剂组与对照组</td><td>15</td></tr><tr><td>BSA组与对照组</td><td>15</td></tr><tr><td>混合组与BSA组</td><td>52</td></tr><tr><td>混合组与对照组</td><td>54</td></tr></table></body></html>
+
+Table2．不同组别大鼠IPA通路  
+
+<html><body><table><tr><td colspan="5">Ingenuity Canonical Pathways</td></tr><tr><td></td><td>佐剂组与对照组</td><td>BSA组与对照组</td><td>混合组与BSA组</td><td>混合组与对照组</td></tr><tr><td rowspan="6">1</td><td>Telomerase Signaling</td><td>CLEAR Signaling Pathway</td><td>LXR/RXR Activation</td><td>SPINK1 Pancreatic Cancer Pathway</td></tr><tr><td>CLEAR Signaling Pathway</td><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>Acute Phase Response Signaling</td><td>Melanoma Signaling</td></tr><tr><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>Complement System</td><td>FXR/RXR Activation</td><td>Ephrin A Signaling</td></tr><tr><td>EGF Signaling</td><td>Melanoma Signaling</td><td>Y-glutamyl Cycle</td><td>IL-17A Signaling in Fibroblasts</td></tr><tr><td>ERK5 Signaling</td><td>Endometrial Cancer Signaling</td><td>Airway Pathology in Chronic Obstructive Pulmonary Disease</td><td>Antiproliferative Role of TOB in T Cell Signaling</td></tr></table></body></html>
+
+<html><body><table><tr><td>Caveolar-mediated Endocytosis Signaling</td><td>Remodeling of Epithelial Adherens Junctions</td><td>Glutathione Biosynthesis</td><td>Synaptogenesis Signaling Pathway</td></tr><tr><td>Macropinocytosis Signaling</td><td>Thyroid Cancer Signaling</td><td>Phenylalanine Degradation I (Aerobic)</td><td>Glutathione-mediated Detoxification</td></tr><tr><td>Regulation of Cellular Mechanics by Calpain Protease</td><td></td><td>Role of Osteoblasts, Osteoclasts and Chondrocytes in</td><td>Apelin Liver Signaling Pathway</td></tr><tr><td>ERBB Signaling</td><td></td><td>Rheumatoid Arthritis Lysine Degradation II</td><td>FAK Signaling</td></tr><tr><td>Non-Small Cell Lung Cancer Signaling</td><td></td><td>Lysine Degradation V</td><td>Differential Regulation of Cytokine Production in Intestinal Epithelial Cells</td></tr><tr><td>Neuroprotective Role of THOP1 in Alzheimer's Disease</td><td></td><td>Rapoport-Luebering Glycolytic Shunt</td><td>by IL-17A and IL-17F Inflammasome pathway</td></tr><tr><td>Bladder Cancer Signaling</td><td></td><td>Prostanoid Biosynthesis</td><td>Ephrin Receptor Signaling</td></tr><tr><td>Neuregulin Signaling</td><td></td><td>Atherosclerosis Signaling</td><td>Acute Phase Response Signaling</td></tr><tr><td>Glioma Signaling</td><td></td><td>IL-12 Signaling and Production in Macrophages</td><td>Ferroptosis Signaling Pathway</td></tr><tr><td>Pancreatic Adenocarcinoma Signaling</td><td></td><td>Ferroptosis Signaling Pathway</td><td>FXR/RXR Activation</td></tr><tr><td>Iron homeostasis signaling pathway</td><td></td><td>D-myo-inositol (1,3,4)-trisphosphate Biosynthesis</td><td>LXR/RXR Activation</td></tr><tr><td>STAT3 Pathway</td><td></td><td>Inflammasome pathway</td><td>Airway Pathology in Chronic Obstructive Pulmonary Disease</td></tr><tr><td>NAD Signaling Pathway</td><td></td><td>Granulocyte Adhesion and Diapedesis</td><td>Glutathione Biosynthesis</td></tr><tr><td>Epithelial Adherens Junction Signaling</td><td></td><td>Superpathway of D- myo-inositol (1,4,5)- trisphosphate Metabolism</td><td>γ-glutamyl Cycle</td></tr><tr><td></td><td></td><td>Production of Nitric Oxide and Reactive Oxygen Species in Macrophages</td><td></td></tr><tr><td></td><td></td><td>Apelin Liver Signaling Pathway Clathrin-mediated</td><td></td></tr><tr><td></td><td></td><td>Endocytosis Signaling</td><td></td></tr><tr><td></td><td></td><td>Hepatic Fibrosis / Hepatic Stellate Cell Activation</td><td></td></tr><tr><td>Acyl-CoAHydrolysis</td><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>LXR/RXR Activation</td><td>Noradrenaline and Adrenaline Degradation</td></tr><tr><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>CLEAR Signaling Pathway</td><td>FXR/RXR Activation</td><td>Ethanol Degradation II</td></tr><tr><td>Melanoma Signaling</td><td></td><td>Ferroptosis Signaling Pathway</td><td>Glucocorticoid Receptor Signaling</td></tr><tr><td>Stearate Biosynthesis I (Animals)</td><td></td><td>Acute Phase Response Signaling</td><td>RHOGDI Signaling</td></tr><tr><td>Endometrial Cancer Signaling</td><td></td><td>Glutathione Biosynthesis</td><td>Glutathione Redox Reactions I</td></tr></table></body></html>
+
+<html><body><table><tr><td>Remodeling of Epithelial Adherens</td><td>Airway Pathology in Chronic Obstructive</td><td>IL-8 Signaling</td></tr><tr><td>Junctions Thyroid Cancer Signaling</td><td>Pulmonary Disease Phagosome Maturation</td><td>Glycolysis I</td></tr><tr><td>Regulation Of The Epithelial Mesenchymal</td><td>Prostanoid Biosynthesis</td><td>Gluconeogenesis I</td></tr><tr><td>Transition In Development Pathway Sumoylation Pathway</td><td> γ-glutamyl Cycle</td><td>Tryptophan Degradation X (Mammalian, via</td></tr><tr><td>Neuroprotective Role of THOP1 in</td><td>Inflammasome pathway</td><td>Tryptamine) T Cell Receptor Signaling</td></tr><tr><td>Alzheimer's Disease Bladder Cancer Signaling</td><td>Role of Osteoblasts, Osteoclasts and Chondrocytes in</td><td>Regulation of the Epithelial-Mesenchymal Transition Pathway</td></tr><tr><td>Gα12/13 Signaling</td><td>Rheumatoid Arthritis Apelin Liver Signaling Pathway</td><td>Methylglyoxal Degradation</td></tr><tr><td></td><td>CLEAR Signaling Pathway</td><td>IⅢI Tumoricidal Function of Hepatic Natural Killer Cells</td></tr><tr><td></td><td></td><td>Androgen Biosynthesis</td></tr><tr><td></td><td></td><td> WNT/β-catenin Signaling</td></tr><tr><td></td><td></td><td> Inflammasome pathway</td></tr><tr><td></td><td></td><td>Germ Cell-Sertoli Cell Junction Signaling</td></tr><tr><td></td><td></td><td>Epithelial Adherens Junction Signaling</td></tr><tr><td></td><td></td><td>Thl and Th2 Activation Pathway</td></tr><tr><td></td><td></td><td>HOTAIR Regulatory Pathway</td></tr><tr><td></td><td></td><td>Glucocorticoid Biosynthesis</td></tr><tr><td></td><td></td><td>Mineralocorticoid Biosynthesis</td></tr><tr><td></td><td></td><td>Xenobiotic Metabolism General Signaling Pathway</td></tr><tr><td></td><td></td><td>Y-glutamyl Cycle</td></tr><tr><td></td><td></td><td> STAT3 Pathway</td></tr><tr><td></td><td></td><td>Gα12/13 Signaling</td></tr><tr><td></td><td></td><td>Ferroptosis Signaling Pathway</td></tr><tr><td></td><td></td><td>Th2 Pathway</td></tr><tr><td></td><td></td><td> Atherosclerosis Signaling</td></tr><tr><td></td><td></td><td>Pulmonary Fibrosis Idiopathic Signaling</td></tr><tr><td></td><td></td><td>Pathway NRF2-mediated Oxidative</td></tr><tr><td></td><td></td><td>Stress Response D-glucuronate Degradation 1</td></tr><tr><td></td><td></td><td>Glutathione Biosynthesis Regulation Of The</td></tr><tr><td></td><td>Hepatic Fibrosis /Hepatic</td><td>Epithelial Mesenchymal Transition By Growth Factors Pathway</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="4">Phagosome Maturation</td></tr><tr><td>Acyl-CoA Hydrolysis</td><td>Aryl Hydrocarbon Receptor Signaling</td><td>γ-glutamyl Cycle</td><td>Antiproliferative Role of TOB in T Cell Signaling</td></tr><tr><td>Inflammasome pathway</td><td>CLEAR Signaling Pathway</td><td>LXR/RXR Activation</td><td>Glutathione-mediated Detoxification</td></tr><tr><td>CLEAR Signaling Pathway</td><td></td><td>FXR/RXR Activation</td><td>Glycolysis I</td></tr><tr><td>Apelin Liver Signaling Pathway</td><td></td><td>Ferroptosis Signaling Pathway</td><td>Apelin Liver Signaling Pathway</td></tr><tr><td>Antiproliferative Role of TOB in T Cell Signaling</td><td></td><td>Acute Phase Response Signaling</td><td>Gluconeogenesis I</td></tr><tr><td>Melanoma Signaling</td><td></td><td>Glutathione</td><td>Ephrin Receptor Signaling</td></tr><tr><td>SPINK1 Pancreatic Cancer Pathway</td><td></td><td>Biosynthesis Ephrin Receptor</td><td>Glucocorticoid Receptor</td></tr><tr><td>Endometrial Cancer</td><td></td><td>Signaling Phenylalanine</td><td>Signaling Dermatan Sulfate</td></tr><tr><td> Signaling</td><td></td><td>Degradation I</td><td>Degradation (Metazoa)</td></tr><tr><td>Stearate Biosynthesis I (Animals)</td><td></td><td>(Aerobic) Lysine Degradation II</td><td>Inflammasome pathway</td></tr><tr><td>Remodeling of Epithelial Adherens</td><td></td><td>Lysine Degradation V</td><td>Chondroitin Sulfate Degradation (Metazoa)</td></tr><tr><td>Junctions Thyroid Cancer Signaling BAG2 Signaling Pathway</td><td></td><td>Rapoport-Luebering Glycolytic Shunt Tryptophan</td><td>Acyl-CoA Hydrolysis γ-glutamyl Cycle</td></tr><tr><td></td><td></td><td>Degradation to 2- amino-3- carboxymuconate Semialdehyde</td><td></td></tr><tr><td></td><td></td><td>IL-1 Signaling</td><td> Phagosome Maturation</td></tr><tr><td></td><td></td><td>NAD biosynthesis II (from tryptophan)</td><td>Ferroptosis Signaling Pathway</td></tr><tr><td></td><td></td><td>Acyl-CoA Hydrolysis Leukotriene</td><td>FXR/RXR Activation Neuroprotective Role of</td></tr><tr><td></td><td></td><td>Biosynthesis</td><td>THOP1 in Alzheimer's Disease</td></tr><tr><td></td><td></td><td>Chondroitin Sulfate Degradation</td><td>Phenylalanine Degradation I (Aerobic)</td></tr><tr><td></td><td></td><td>(Metazoa) Phagosome</td><td>CLEAR Signaling Pathway</td></tr><tr><td></td><td></td><td>Maturation D-myo-inositol</td><td>SPINK1 Pancreatic Cancer</td></tr><tr><td></td><td></td><td>(1,3,4)-trisphosphate Biosynthesis</td><td>Pathway</td></tr><tr><td></td><td></td><td>Dermatan Sulfate Degradation (Metazoa)</td><td></td></tr><tr><td></td><td></td><td>Inflammasome pathway</td><td></td></tr><tr><td></td><td></td><td>Superpathway of D- myo-inositol (1,4,5)-</td><td></td></tr><tr><td></td><td></td><td>trisphosphate Metabolism</td><td></td></tr><tr><td></td><td></td><td>Apelin Liver Signaling Pathway</td><td></td></tr><tr><td>Y-glutamyl Cycle</td><td>Role of OCT4 in</td><td>Gluconeogenesis I</td><td></td></tr><tr><td></td><td>Mammalian</td><td>γ-glutamyl Cycle</td><td>Ephrin Receptor Signaling</td></tr><tr><td></td><td>Embryonic Stem Cell</td><td></td><td></td></tr><tr><td></td><td>Pluripotency</td><td></td><td></td></tr><tr><td>CLEAR Signaling Pathway</td><td>BEX2 Signaling Pathway</td><td>LXR/RXR Activation</td><td>Apelin Liver Signaling Pathway</td></tr></table></body></html>
+
+<html><body><table><tr><td>Glutathione Biosynthesis</td><td>VDR/RXR Activation</td><td>Acute Phase Response Signaling</td><td>PPARα/RXRα Activation</td></tr><tr><td>Neuroprotective Role ofTHOP1 in Alzheimer's Disease</td><td>Altered T Cell and B Cell Signaling in Rheumatoid Arthritis</td><td>SPINK1 Pancreatic Cancer Pathway</td><td>Hepatic Fibrosis /Hepatic Stellate Cell Activation</td></tr><tr><td>Ferroptosis Signaling Pathway</td><td>Airway Pathology in Chronic Obstructive</td><td>Glutathione Biosynthesis</td><td>Hepatic Fibrosis Signaling Pathway</td></tr><tr><td>Acyl-CoA Hydrolysis</td><td>Pulmonary Disease LXR/RXR Activation</td><td>Phenylalanine Degradation I</td><td>Inflammasome pathway</td></tr><tr><td>Inflammasome pathway</td><td>FXR/RXR Activation</td><td>(Aerobic) FXR/RXR Activation</td><td>Acyl-CoAHydrolysis</td></tr><tr><td>Apelin Liver Signaling Pathway</td><td>HOTAIR Regulatory Pathway</td><td>Ferroptosis Signaling Pathway</td><td>Phagosome Maturation</td></tr><tr><td>Glutathione Redox Reactions I</td><td>Tumor Microenvironment</td><td>Hepatic Fibrosis / Hepatic Stellate Cell</td><td>Iron homeostasis signaling pathway</td></tr><tr><td>Glutathione-mediated Detoxification</td><td>Pathway Acute Phase Response Signaling</td><td>Activation Ephrin Receptor Signaling</td><td>Y-glutamyl Cycle</td></tr><tr><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>Role of Osteoblasts, Osteoclasts and Chondrocytes in Rheumatoid Arthritis</td><td>Inflammasome pathway</td><td>Neuroprotective Role of THOP1 in Alzheimer's Disease</td></tr><tr><td>Melanoma Signaling SPINK1 Pancreatic</td><td>Osteoarthritis Pathway</td><td>NRF2-mediated Oxidative Stress Response</td><td>Phenylalanine Degradation I(Aerobic)</td></tr><tr><td>Cancer Pathway Endometrial Cancer Signaling</td><td></td><td>Apelin Liver Signaling Pathway Glutathione Redox Reactions I</td><td>Glutathione Biosynthesis SPINK1 Pancreatic Cancer Pathway</td></tr><tr><td>Stearate Biosynthesis I (Animals)</td><td></td><td>Glutathione-mediated Detoxification</td><td>Production of Nitric Oxide and Reactive Oxygen Species in Macrophages</td></tr><tr><td>Remodeling of Epithelial Adherens Junctions</td><td></td><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>Ferroptosis Signaling Pathway</td></tr><tr><td></td><td></td><td>Serotonin Receptor Signaling</td><td>IL-12 Signaling and</td></tr><tr><td></td><td></td><td>Ephrin A Signaling</td><td>Production in Macrophages Atherosclerosis Signaling</td></tr><tr><td></td><td></td><td>Hepatic Fibrosis Signaling Pathway</td><td>Dermatan Sulfate Degradation (Metazoa)</td></tr><tr><td></td><td></td><td>Cancer Drug Resistance By Drug</td><td>Chondroitin Sulfate Degradation (Metazoa)</td></tr><tr><td></td><td></td><td>Efflux</td><td>Clathrin-mediated</td></tr><tr><td></td><td></td><td></td><td>Endocytosis Signaling CLEAR Signaling Pathway</td></tr><tr><td></td><td></td><td></td><td>FXR/RXR Activation</td></tr><tr><td></td><td></td><td></td><td>LXR/RXR Activation</td></tr><tr><td></td><td></td><td></td><td>Acute Phase Response Signaling</td></tr><tr><td>Germ Cell-Sertoli Cell Junction Signaling</td><td>Role of OCT4 in Mammalian</td><td>LXR/RXR Activation</td><td>PPARα/RXRα Activation</td></tr><tr><td>Acute Phase Response</td><td>Embryonic Stem Cell Pluripotency VDR/RXR Activation</td><td></td><td></td></tr><tr><td>Signaling γ-glutamyl Cycle</td><td>BEX2 Signaling</td><td>Acute Phase Response Signaling FXR/RXR Activation</td><td>Hepatic Fibrosis /Hepatic Stellate Cell Activation Apelin Liver Signaling</td></tr><tr><td>Inflammasome</td><td>Pathway Altered T Cell and B</td><td>Clathrin-mediated</td><td>Pathway Superpathway of D-myo-</td></tr><tr><td>pathway</td><td>Cell Signaling in</td><td>Endocytosis</td><td>inositol (1,4,5)-</td></tr><tr><td>CLEAR Signaling</td><td>Rheumatoid Arthritis HOTAIR Regulatory</td><td>Signaling Atherosclerosis</td><td>trisphosphate Metabolism Germ Cell-Sertoli Cell</td></tr></table></body></html>
+
+<html><body><table><tr><td>Pathway</td><td>Pathway</td><td>Signaling</td><td>Junction Signaling</td></tr><tr><td>Apelin Liver Signaling Pathway</td><td>Tumor Microenvironment Pathway</td><td>IL-12 Signaling and Production in Macrophages</td><td>D-myo-inositol (1,3,4)- trisphosphate Biosynthesis</td></tr><tr><td>Glutathione Redox Reactions I</td><td>Role of Osteoblasts, Osteoclasts and Chondrocytes in</td><td>Chondroitin Sulfate Degradation (Metazoa)</td><td>Dermatan Sulfate Degradation (Metazoa)</td></tr><tr><td>Glutathione-mediated Detoxification</td><td>Rheumatoid Arthritis Osteoarthritis Pathway</td><td>Production of Nitric Oxide and Reactive Oxygen Species in</td><td>Chondroitin Sulfate Degradation (Metazoa)</td></tr><tr><td>Antiproliferative Role of TOB in T Cell Signaling</td><td>Hepatic Fibrosis Signaling Pathway</td><td>Macrophages Dermatan Sulfate Degradation (Metazoa)</td><td>Acyl-CoAHydrolysis</td></tr><tr><td>Melanoma Signaling</td><td></td><td>Neuroprotective Role of THOP1 in Alzheimer'sDisease</td><td>Iron homeostasis signaling pathway</td></tr><tr><td>SPINK1 Pancreatic Cancer Pathway</td><td></td><td>Coagulation System</td><td>Ferroptosis Signaling Pathway</td></tr><tr><td>Endometrial Cancer Signaling</td><td></td><td>Complement System</td><td>Regulation of Actin-based Motility by Rho</td></tr><tr><td>Remodeling of Epithelial Adherens Junctions</td><td></td><td>Ephrin Receptor Signaling</td><td>Rapoport-Luebering Glycolytic Shunt</td></tr><tr><td>Thyroid Cancer Signaling</td><td></td><td>IL-1 Signaling</td><td>Glioma Invasiveness Signaling</td></tr><tr><td>BAG2 Signaling Pathway</td><td></td><td>CLEAR Signaling Pathway</td><td>Hepatic Fibrosis Signaling Pathway</td></tr><tr><td></td><td></td><td>Iron homeostasis signaling pathway</td><td>Coagulation System</td></tr><tr><td></td><td></td><td>Germ Cell-Sertoli Cell Junction</td><td>IL-12 Signaling and Production in Macrophages</td></tr><tr><td></td><td></td><td>Signaling</td><td>Atherosclerosis Signaling</td></tr><tr><td></td><td></td><td></td><td>Neuroprotective Role of THOP1 in Alzheimer's</td></tr><tr><td></td><td></td><td></td><td>Disease Clathrin-mediated Endocytosis Signaling</td></tr><tr><td></td><td></td><td></td><td>Production of Nitric Oxide and Reactive Oxygen</td></tr><tr><td></td><td></td><td></td><td>Species in Macrophages FXR/RXR Activation</td></tr><tr><td></td><td></td><td></td><td>LXR/RXR Activation</td></tr><tr><td></td><td></td><td></td><td>Acute Phase Response</td></tr><tr><td></td><td></td><td></td><td>Signaling</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]井健,高友鹤.尿液作为新型生物标志物来源的探索[J].生物化学与生物物理进展,2016,43(11):1019- 1028.DOI:10.16476/j.pibb.2016.0192.   
+[2] Sun W, Chen Y,LiF X,et al. Dynamic urinary proteomic analysis reveals stable proteins to be potential biomarkers.Proteom Clin Appl,2009,3(3):370-382   
+[3]郁宇航，秦伟伟，高友鹤.尿液蛋白生物标志物验证时要考虑的因素［J].中国科学：生命科 学,2018,48(02) :171-187.   
+[4] Yuhang Huan,Weiwei Qin,Youhe Gao.Factors to consider in the verification of urinary biomarkers[J].Science China(Life Sciences),2018,61(10):1283-1290.   
+[5] Tomasz P Radonl, Nathalie JMassat. Identification of a three-biomarker panel in urine for early detection of pancreatic adenocarcinoma[J]. Clin Cancer Res. 2015 August 1; 21(15): 3512- 3521.   
+[6] Virginia Urquidi1,Mandy Netherton. Urinary mRNA biomarker panel for the detection of urothelial carcinoma[J]. Oncotarget,2016. Vol. 7, No. 25.   
+[7]孟文书,张亚萌,华元瑞,江奕瑾,孔嘉文,高友鹤.不同微生物大鼠腹腔注射模型尿液蛋白组学的比较[J].生 物工程学报,2021,37(01):276-289.DOI:10.13345/j.cjb.200214.   
+[8]人类最好的医生是自己——浅谈免疫球蛋白与人体健康[J].中国免疫学杂志,2016,32(12):1889-1890. [9] Wisniewski, J.R.， et al.，Universal sample preparation method for proteome analysis. Nat Methods,2009. 6(5): p. 359-62.   
+[10] Armitage，E.G.， et al.， Missng value imputation strategies for metabolomics data. Electrophoresis,2015.36(24): p.3050-60.   
+[11] Wang， S., et al.， NAguideR: performing and prioritizing missing value imputations for consistent bottom-up proteomic analyses. Nucleic Acids Res, 2020. 48(14): p. e83.   
+[12] Huang da, W., B.T. Sherman, and R.A. Lempicki, Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.Nat Protoc, 2009. 4(1): p. 44- 57. 作者贡献声明： 王云龙、高友鹤：提出研究思路，设计研究方案;   
+王云龙：进行实验；   
+王云龙：分析数据；   
+王云龙：论文起草；   
+高友鹤：论文最终版本修订。

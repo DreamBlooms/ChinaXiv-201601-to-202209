@@ -1,0 +1,182 @@
+# DOI:10.5846/stxb201612192613
+
+周芸芸,薛亚东,张宇,余辉亮,杨林森,蒋军,张于光.基于微卫星DNA 的神农架川金丝猴遗传结构研究.生态学报,2018,38(4):1401-1410. ZhouYY,XueD,ZagY,uHangLSngJZangYGenettructureofthegoldensubosedmokeyineitioal Natural Reserve based on microsatellite DNA markers.Acta Ecologica Sinica,2018,38(4）:1401-1410.
+
+# 基于微卫星DNA的神农架川金丝猴遗传结构研究
+
+周芸芸²，薛亚东²,张宇²，余辉亮³，杨林森³，蒋军³，张于光²，\*
+
+1湖南人文科技学院，娄底417000  
+2 中国林业科学研究院森林生态环境与保护研究所,国家林业局森林生态环境重点实验室,北京100091  
+3 湖北神农架金丝猴保育生物学湖北省重点实验室，十堰442411
+
+摘要：川金丝猴（Rhinopithecus roxellna）是我国特有珍稀濒危物种，了解其种群遗传结构和关键影响因素,对该物种的保护具有重要意义。以我国分布最东端的湖北神农架川金丝猴种群为研究对象,基于非损伤性DNA 技术和微卫星DNA 遗传标记等分子生物学方法及景观遗传参数,探讨了神农架川金丝猴的遗传多样性和遗传结构，旨在为川金丝猴的研究及川金丝猴种群的可持续发展提供理论基础。利用12个多态性微卫星位点,在455份川金丝猴粪便样品中,共检测到62个微卫星等位基因;共鉴定出316个不同川金丝猴个体;种群的平均期望杂合度、平均观察杂合度和多态性信息含量分别为0.626、0.559和0.650;群体间的Nei's遗传距离为0.046—0.139,分化系数为0.015—0.046。结果表明与其他地区川金丝猴种群相比,神农架川金丝猴种群具有较低的遗传多样性水平,种群内部存在遗传分化趋势;结合景观参数分析表明地理距离不是影响神农架川金丝猴群体间遗传距离的主要因素,而生境中的灌丛和草地以及人类活动干扰可能是影响川金丝猴遗传交流的主要因素。
+
+关键词：神农架保护区；川金丝猴;遗传结构;微卫星标记;遗传景观学
+
+# Genetic structure of the golden snub-nosed monkey in Shennongjia National Natural Reserve based on microsatellite DNA markers
+
+ZHOU Yunyun1,²,XUE Yadong²， ZHANG Yu²， YU Huiliang， YANG Linsen³， JIANG $\mathrm { J u n } ^ { 3 }$ ， ZHANG Yuguang2,
+
+1 Hunan University of Humanities，Science and Technology,Loudi 417ooo, China   
+2nstuteofFestolttdroteoebtofrestodotoftateestto Chinese Academy of Forestry，Beijing 100091，China   
+3KeylaboratoryofoserationgfoheogjaGlenoney，HbeiProceheogjiaForestDistrict，nina
+
+Abstract:The golden snub-nosed monkey（Rhinopithecus roxellana）is an endemic and extremely endangered species in China.Understanding the population genetic structureof the golden snub-nosed monkeyandthe keyfactors afecting，itis veryimportantfortheprotectionof thisspecies.Thegoldensnub-nosedmonkeypopulation intheShennongjiaNational Nature Reserveisan isolated population in theeasternmostpartof China.Itisreported thatoutof three populations (Qinglin，Sichuan-Gansu，and Shennongjia），the Shennongjia population isthesmalest，and hasthelowestgenetic diversity.However，studieshaveshown thatthis population plays an important role inthe genetic evolutionof the species. Therefore，protectionofthe goldensnub-nosed monkey intheShennongjia National Nature Reserveisvery important.Inthis study，genetic structureandgenetic diversityof thegoldensnub-nosed monkeypopulation inthe Shennongjia National Nature Reserve were studied using molecular biology techniques and landscape genetics methods.These findings would providea foundation for the sustainable developmentofpopulations andfurther researchon thegolden snub-nosed monkey.
+
+Twelve selected polymorphicmicrosatelitelci wereused.Atotalof455fecal samples werecollected from11sites where themonkeys often appearin four maindistributionareas inthe Shennongjia National NatureReserve.There were62aleles detected，and the numberof aleles identified perlocus rangedfrom fourtoseven.Thecollected fecal samples belongedto 316individual golden snub-nosed monkey.Thedistributionof high-frequencyaleles ineach locus folowed similar trends among different golden snub-nosed monkey groupsand study sites；however，thedistributionof low-frequency aleles was different. The frequency of alleles less than O.1 accounted for $2 1 . 5 3 \% - 4 3 . 5 6 \%$ in different groups and different sites. The mean observed heterozygosity( $( H _ { 0 }$ ），mean expected heterozygosity( $\cdot H _ { \mathrm { { E } } }$ ），and mean polymorphism information content （PIC）of the population in Shennongjia were O.626,0.559，and 0.650；the range of $H _ { \mathrm { o } }$ ， $H _ { \mathrm { E } }$ ， and PIC among four groups in the Shennongjia National Nature Reservewere 0.578—0.639，0.515—0.610，and0.600—0.641，respectively. Diferences in genetic diversityvaluesamong groups and sites were not significant.Compared withthe Qinglin and SichuanGansu populations，genetic diversityof the Shennongjia golden snub-nosed monkey was low.Nei'sgenetic distance of four populations ranged from 0.046 to O.139，and their $\boldsymbol { F } _ { \mathrm { s T } }$ value ranged from 0.015 to 0.046. Genetic difference between the Dalongtan and Jinhouling groups was the greatest，and that between the Jinhouling and Qianjiaping groups was the lowest. Theisolation-by-distance model showed thatthegeneticdistanceatdiferent studysites wasnotsignificantlyassociated with geographicdistance.Information from GIS（Geographic Information System）indicates that the main factors influencingthe geneticdistributionof thegoldensnub-nosed monkeyinthe Shenongjia National NatureReserve were the interference from human activities and their fragmented habitatssuchasshrubs，graslandandroadinthehabitat，nottheir geographical distances.
+
+Key Words: Shennongjia Nature Reserve；golden snub-nosed monkey（Rhinopithecus roxellana）；genetic structure; microsatellite marker； landscape genetics
+
+川金丝猴（Rhinopithecus roxellana)是我国特有珍稀濒危动物,为国家I级重点保护野生动物,由于人类活动干扰、生境退化等原因,川金丝猴种群已被隔离分布在秦岭、四川-甘肃和湖北神农架等3个独立分布区[1-3]。神农架川金丝猴种群是分布在最东端,种群数量最少,已有研究显示该种群在遗传进化史上具有重要的地位[4-7],3 个川金丝猴地理种群中,神农架种群与其它两个种群间的遗传距离最大[4-5,8-9]。因此,对神农架川金丝猴种群的研究和保护具有重要的意义。
+
+生境破碎化容易导致种群相互分割,基因交流受阻,给珍稀濒危的小种群带来明显的负面影响[9]。大量研究表明,受生境隔离影响的的小种群,种群数量加速下降,受遗传漂变、近交繁殖影响促使种群的遗传多样性水平降低[10-14]。近年来,在保护遗传学研究的基础上,结合物种的生境和景观研究方法,形成了景观遗传学研究,定量确定生境景观特征对种群遗传结构与遗传多样性的影响研究[15-19]。我国学者对大熊猫（Ailuropoda melanoleuca）[20-22、朱鹦（Nipponia nippon）[23-24]、滇金丝猴（Rhinopithecus bieti ）[25-26]和藏羚羊（Pantholops hodgsonii）[27-28]等动物已有相关研究。
+
+目前,神农架自然保护区的川金丝猴种群主要集中分布在大龙潭、千家坪和金猴岭3个区域,另外还有1个人工补食群体,该群共有川金丝猴近80只,包括6个一雄多雌家庭单元和1个全雄单元,这是为该川金丝猴种群复壮及保护提供种质资源,神农架自然保护区以人工补食的方法对川金丝猴进行招引试验而形成,相对稳定活动于大龙潭区域[29-30]。本研究试图分析神农架自然保护区川金丝猴的遗传多样性,掌握不同群体间的基因流状况,探讨阻碍种群间遗传交流的主要景观和生境因素,为神农架川金丝猴的保护和制定合理可行的保护管理措施提供科学依据。
+
+# 1材料和方法
+
+# 1.1 研究材料
+
+湖北神农架自然保护区的川金丝猴种群集中分布在千家坪、金猴岭和大龙潭等3个区域,本研究选择在川金丝猴的活动频繁区域采集粪便样品。采集样品时,使用一次性无菌塑料手套,尽量收集新鲜的川金丝猴表层粪便样品。将样品装入含硅胶的 $1 5 \mathrm { m L }$ 收集管中,尽快保存在 $- 2 0 \%$ 冰柜。同时记录取样时间、GPS位点、采集地点生境描述等信息。
+
+于2013年11月至 2014年12月期间,共采集到川金丝猴粪便样品455份,分属于11个川金丝猴主要活动点（图1）。其中：大龙潭川金丝猴群体样品 203份（DLT-1猴群 65份、DLT-2猴群40份、DLT-3猴群 73份、DLT-4猴群25 份）,金猴岭川金丝猴群体样品102份（JHL-1猴群36份、JHL-2猴群 40份、JHL-3猴群15份、JHL-4猴群11份),千家坪川金丝猴群体样品75份(QJP-1猴群和QJP-2猴群分别有18 和57份),大龙潭川金丝猴人工补食群体样品75份。
+
+![](images/57076e8ab04cf07de639ca7422b217fcb203e07e73d829335faa9c08c2304246.jpg)  
+图1川金丝猴粪便样品采集点分布图  
+Fig.1The sampling location of golden snub-nosed monkey fecal samples
+
+DLT:大龙潭群体,DalongtangroupthatincludedDLT-1,DLT-2,DT-3,D-4;DLT-R:大龙潭人工补食群,theprovioedgroupofDL;QJP: 千家坪群体,QiajapinggroupthaicludedQJ-andQP-;J金猴群体,JoulinggroupthaticludedJH-1,J-2,J--4
+
+1.2粪便DNA的提取和微卫星DNA位点筛选
+
+采用 QIAamp DNA Stool试剂盒(Qiagen)提取川金丝猴粪便 DNA,具体的操作方法参照试剂盒说明书。提取的粪便 DNA 保存于 $- 2 0 \mathrm { { ^ { \circ } C } }$ 冰箱。
+
+在已有文献中选取32个多态性较高的川金丝猴微卫星位点[8-9,31],通过预实验筛选后,得到12个多态性较高、在粪便样品中能较稳定扩增的微卫星位点进行后续研究。选择的微卫星位点分别为：D1S1656、D1S533、D3S1768、D6S1056、D6S474、D6S493、D7S794、D10S1432、D10S676、D17S1290、D3S1766、D9S905。
+
+1.3微卫星DNA位点PCR 扩增和基因分型
+
+微卫星DNA位点的PCR 扩增体系为： $1 \times$ PCR buffer（含 $\mathrm { \ M g C l } _ { 2 }$ ),0.2mmol/L dNTPs, $1 \mu \mathrm { m o l / L }$ 的正向荧光标记引物和 $1 \mu \mathrm { m o l / L }$ 反向引物， $2 \mu \mathrm { g }$ BSA,0.6UHotMasterTM聚合酶和 $1 0 { - } 2 0 \mathrm { n g }$ 的基因组DNA 模板。PCR 扩增条件为： $9 4 ^ { \circ } \mathrm { C }$ 热启动 $5 \mathrm { m i n s } ; 9 4 \mathrm { ^ { \circ } C }$ 变性15s、退火温度 50- ${ \cdot 6 0 } ^ { \circ } \mathrm { C }$ ， $3 0 \mathrm { s } \vphantom { 3 } . 7 2 \mathrm { ^ { \circ } C }$ 延伸45s(35个循环)；最后 $7 2 \%$ 延伸 $1 0 \mathrm { { m i n s } }$ ;扩增结束后保存在 $4 ^ { \circ } \mathrm { C }$ 。每次扩增过程中设定阴性对照,每个样品扩增3次。
+
+PCR 扩增产物在ABI-3730XL遗传分析仪上进行分型分析,由Genemapper V4.0 分析软件输出分型结果,并辅以人工核对和校正。最后,采用Bellmain 等[32]微卫星基因分型的标准确定杂合位点与纯合位点。
+
+# 1.4 数据分析
+
+用 MicrocheckerV2.2.3软件[33]检测每个位点是否存在无效等位基因或等位基因缺失等情况;由 CervusV3.0 软件[34-35]计算微卫星位点的无亲缘关系个体间具有相同基因型的概率(PID值)和全同胞个体间具有相同基因型的概率(PIDsib 值)。对微卫星分型结果进行个体识别,将所有微卫星位点的基因型都相同、或者只有一个位点上的基因型不相同的样品判断为一个个体[32]。分别计算微卫星位点的等位基因数 $( k )$ 、观察杂合度 $( H _ { \mathrm { o } }$ ）、期望杂合度 $( H _ { \mathrm { E } } )$ 和多态性信息含量（PIC）。用GenepopV4.0软件[36]检验每个位点是否符合哈温平衡（Hardy-Weinberg Equilibrium）。用MSA软件[37]计算川金丝猴群体间的遗传距离;由 Fstat $2 . 9 . 3 . 2 ^ { [ 3 8 ] }$ 计算群体间的遗传分化系数( $\cdot \ : F _ { \mathrm { s T } } )$ 和近交系数 $\big ( F _ { \mathrm { I S } } \big )$ ;根据遗传分化系数[39]计算群体间基因流 $(  { N _ { \mathrm { e } } } ^ { } \mathrm { m } )$
+
+利用已有的神农架川金丝猴生境数据，在ArcGIS9.3软件计算各样品采集点间的地理距离；结合遗传分化系数( $( F _ { \mathrm { S T } } )$ )和群体间的地理距离来计算地理距离和遗传距离的关系[40],进行距离隔离模型检验;在 IBD1.52软件[41]中对地理和遗传距离两者的进行相关性检验,并检验其显著度。（
+
+# 2结果与分析
+
+# 2.1川金丝猴的个体识别
+
+结果显示在12个微卫星位点上未发现无效等位基和等位基因缺失的情况,所有微卫星位点累计没有亲缘关系的个体间有相同基因型的概率(PID值)为 $2 . 9 6 \times 1 0 ^ { - 1 0 }$ ,同胞个体间有相同基因型的概率(PIDsib 值）为$9 . 3 8 \times 1 0 ^ { - 5 }$ 。个体识别分析中,为保证个体识别的准确性,累计微卫星位点的PIDsib 值应该小于 $0 . 0 1 ^ { [ 4 2 ] }$ ，所以将扩增成功位点少于10个的样品排除。在455 份粪便样品中共鉴定316个不同的个体,其中大龙潭群体154个个体（DLT-1:53个、DLT-2:23个、DLT-3:60个、DLT-4:18个);金猴岭群体 52个（JHL-1:19个、JHL-2:19个、JHL-3:9个、JHL-4:5个);千家坪群体 57个（QJP-1:10个、QJP-2:47个),大龙潭人工补食群体 56个（DLT-R）。
+
+# 2.2种群遗传多样性
+
+本研究共检测到62个等位基因,每个微卫星位点有4—7个不等,平均等位基因数目为5.17。等位基因频率分布不均,各群体间、各猴群间的优势等位基因相对集中,其分布基本一致。所检测到的等位基因中,有22 个等位基因的频率低于0.1，占总数的 $3 5 . 4 8 \%$ ,频率低于0.1的等位基因分别均占到了种群的 $2 1 . 5 3 \%$ 一$4 3 . 5 6 \%$ 。 AIC
+
+神农架川金丝猴种群的平均期望杂合度、平均观察杂合度和多态性信息含量分别为0.626、0.559 和0.650,4个群体中的微卫星位点期望杂合度为0.578—0.639、平均观察杂合度为0.515—0.610、多态性信息含量为 $0 . 6 0 0 { \scriptstyle - 0 . 6 4 1 }$ （表1）。所有猴群的平均期望杂合度为0.528—0.635、平均观察杂合度为0.520—0.618、平均多态性信息含量为0.552—0.681,群体间、猴群间各多样性指数差异不明显。
+
+# 2.3种群遗传结构
+
+神农架川金丝猴4个群体中,大龙潭人工补食群体与大龙潭群体、千家坪群体和金猴岭群体的Nei's遗传距离分别为0.089、0.105、0.139,大龙潭群体与千家坪群体、金猴岭群体的遗传距离分别为0.067和0.059,千家坪群体与金猴岭群体的遗传距离为0.046。11个猴群相互间的 Nei's遗传距离见表2。
+
+神农架川金丝猴整体的 $F _ { \mathrm { s r } }$ 分化系数为0.042。4个群体之间的的分化系数为0.015—0.046,遗传差异最大的是大龙潭人工补食群体和金猴岭群体,最小的是金猴岭群体和千家坪群体。11个猴群相互间的 $F _ { \mathrm { s r } }$ 值见表3。基于12个微卫星位点,11个猴群间 Nem值为2.697—21.010,推算出猴群的基因流为8.020。
+
+神农架川金丝猴群体整体 $F _ { \mathrm { r s } }$ 近交系数为0.063,11个猴群的近交系数为 -0.048—0.095。
+
+WATI⊥AXQHV relrerairrrnreiernirrrrrlersrrrsrer grrnrierlnrerrrr 1   
+  
+egogeeee   
+
+<html><body><table><tr><td rowspan="2">位点 Locus</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">DLT-R</td><td colspan="3">QJP</td><td colspan="3">JHL</td><td colspan="3">整体 Total</td><td colspan="3"></td></tr><tr><td>H</td><td>HE</td><td></td><td>PIC</td><td>Ho</td><td>HE</td><td>k</td><td>PIC</td><td>Ho</td><td>HE</td><td>k</td><td>PIC</td><td>H</td><td>HE</td><td>k</td><td>PIC</td><td>H</td><td>HE</td><td>k</td><td>PIC</td></tr><tr><td>D1S1656</td><td>0.531</td><td>0.575</td><td>6</td><td></td><td>0.5760.518</td><td>0.616</td><td>5</td><td>0.622</td><td>0.491</td><td>0.578</td><td>5</td><td>0.584</td><td>0.423</td><td>0.652</td><td>6</td><td></td><td>0.6600.495 *</td><td>0.633</td><td>6</td><td>0.614</td><td></td></tr><tr><td>D1S533</td><td></td><td>0.597 0.578</td><td>4</td><td>0.580</td><td>0.571</td><td>0.477</td><td></td><td></td><td>0.481</td><td>0.582</td><td>0.579</td><td>4</td><td>0.585</td><td>0.519</td><td>0.575</td><td>4</td><td>0.581</td><td>0.528</td><td>0.569</td><td>4</td><td>0.571</td></tr><tr><td>D3S1768</td><td></td><td>0.484 0.544</td><td>4</td><td></td><td>0.5500.411</td><td></td><td>0.366</td><td></td><td>0.369</td><td>0.189</td><td>0.218</td><td>3</td><td>0.119</td><td>0.365</td><td>0.360</td><td>4</td><td>0.364</td><td>0.382</td><td>0.430</td><td>4</td><td>0.433</td></tr><tr><td>D6S1056</td><td></td><td>0.445* 0.573</td><td>4</td><td>0.573</td><td>0.607</td><td>0.566</td><td></td><td></td><td>0.571</td><td>0.500</td><td>0.685</td><td></td><td>0.694</td><td>0.614</td><td>0.673</td><td>4</td><td>0.682 0.548</td><td></td><td>0.658</td><td>4</td><td>0.659</td></tr><tr><td>D6S474</td><td></td><td>0.582 0.628</td><td>5</td><td>0.629</td><td>0.696</td><td>0.602</td><td></td><td></td><td>0.607</td><td>0.542</td><td>0.676</td><td>5</td><td>0.685</td><td>0.760</td><td>0.631</td><td>5</td><td>0.6360.627</td><td></td><td>0.646</td><td>5</td><td>0.647</td></tr><tr><td>D6S493</td><td></td><td>0.630 0.778</td><td>5</td><td>0.780</td><td>0.750</td><td>0.743</td><td></td><td></td><td>0.750</td><td>0.561</td><td>0.744</td><td>5</td><td>0.753</td><td>0.569</td><td>0.755</td><td>5</td><td>0.765</td><td>0.629</td><td>0.773</td><td>5</td><td>0.774</td></tr><tr><td>D7S794</td><td>0.500</td><td>0.510</td><td>5</td><td>0.510</td><td>0.350</td><td>0.428</td><td></td><td>3</td><td>0.6370.526</td><td></td><td>0.629</td><td></td><td>0.637</td><td>0.647</td><td>0.663</td><td>5</td><td>0.670</td><td>0.467</td><td>0.520</td><td>5</td><td>0.600</td></tr><tr><td>D10S1432</td><td>0.694</td><td>0.788</td><td>7</td><td>0.791</td><td>0.625</td><td>0.668</td><td></td><td></td><td>0.674</td><td>0.607</td><td>0.790</td><td></td><td>0.798</td><td>0.676</td><td>0.785</td><td>7</td><td>0.797</td><td>0.662</td><td>0.728</td><td>7</td><td>0.780</td></tr><tr><td>D10S676</td><td>0.529</td><td>0.675</td><td>4</td><td>0.676</td><td>0.696</td><td>0.591</td><td></td><td></td><td>0.595</td><td>0.586</td><td>0.709</td><td>5</td><td>0.739</td><td>0.442* 0.641</td><td></td><td>4</td><td>0.650</td><td>0.530</td><td>0.607</td><td>5</td><td>0.707</td></tr><tr><td>D17S1290</td><td>0.830</td><td>0.778</td><td>6</td><td>0.781</td><td>0.839</td><td>0.742</td><td></td><td>4</td><td>0.748</td><td>0.6790.762</td><td></td><td></td><td>0.770</td><td>0.750</td><td>0.727</td><td>5</td><td>0.7340.792</td><td></td><td>0.777</td><td>6</td><td>0.779</td></tr><tr><td>D3S1766</td><td>0.477</td><td>0.455</td><td>5</td><td>0.454</td><td>0.643</td><td>0.513</td><td></td><td>4</td><td>0.517</td><td>0.393</td><td>0.352</td><td></td><td>0.355</td><td>0.408</td><td>0.432</td><td>5</td><td>0.436</td><td>0.481</td><td>0.453</td><td>5</td><td>0.452</td></tr><tr><td>D9S905</td><td></td><td>0.547* 0.784</td><td>6</td><td>0.788</td><td>0.607</td><td>0.623</td><td></td><td>4</td><td>0.629</td><td>0.526</td><td>0.651</td><td></td><td>0.723</td><td>0.571</td><td>0.684</td><td>5</td><td>0.6940.564 *</td><td></td><td>0.723</td><td>6</td><td>0.785</td></tr><tr><td>平均 Mean</td><td></td><td>0.570 0.639</td><td></td><td>5.083 0.641</td><td></td><td>0.610</td><td>0.578</td><td>3.583 0.600</td><td></td><td>0.515</td><td>0.615</td><td>5.000 0.620</td><td></td><td>0.562</td><td>0.631</td><td></td><td>4.917 0.639</td><td>0.559</td><td>0.626</td><td>5.167</td><td>0.650</td></tr></table></body></html>
+
+Table 2Nei's genetic distance of golden snub-nosed monkeys in 11 study sites   
+表311个川金丝猴猴群的 $F _ { \mathrm { S T } }$ 值  
+
+<html><body><table><tr><td>猴群</td><td rowspan="3">DLT-1</td><td rowspan="3">DLT-2</td><td rowspan="3">DLT-3</td><td rowspan="3">DLT-4</td><td rowspan="3">DLT-R</td><td rowspan="3">QJP-1</td><td rowspan="3">QJP-2</td><td rowspan="3">JHL-1</td><td rowspan="3">JHL-2</td><td rowspan="3">JHL-3</td></tr><tr><td>Monkeys in study sites</td></tr><tr><td>DLT-2</td></tr><tr><td>DLT-3</td><td>0.037 0.083</td><td>0.115</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DLT-4</td><td>0.053</td><td>0.059</td><td>0.167</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DLT-R</td><td>0.129</td><td>0.140</td><td>0.270</td><td>0.106</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>QJP-1</td><td>0.174</td><td>0.158</td><td>0.183</td><td>0.163</td><td>0.145</td><td></td><td></td><td></td><td></td></tr><tr><td>QJP-2</td><td>0.135</td><td>0.133</td><td>0.120</td><td>0.113</td><td>0.126</td><td>0.130</td><td></td><td></td><td></td></tr><tr><td>JHL-1</td><td>0.160</td><td>0.136</td><td>0.112</td><td>0.258</td><td>0.217</td><td>0.163</td><td>0.114</td><td></td><td></td></tr><tr><td>JHL-2</td><td>0.189</td><td>0.109</td><td>0.076</td><td>0.170</td><td>0.200</td><td>0.196</td><td>0.132</td><td>0.095</td><td></td></tr><tr><td>JHL-3</td><td>0.142</td><td>0.207</td><td>0.114</td><td>0. 243</td><td>0.291</td><td>0.268</td><td>0.171</td><td>0.158 0.104</td><td></td></tr><tr><td>JHL-4</td><td>0.085</td><td>0.233</td><td>0.242</td><td>0.263</td><td>0.276</td><td>0.242</td><td>0.168</td><td>0.246 0.213</td><td>0.101</td></tr></table></body></html>
+
+表211个猴群的Nei's遗传距离  
+Table 3 $\boldsymbol { F } _ { \mathrm { S T } }$ value of golden snub-nosed monkeys in 11 study sites   
+
+<html><body><table><tr><td>猴群 Monkeys in study sites</td><td>DLT-1</td><td>DLT-2</td><td>DLT-3</td><td>DLT-4</td><td>DLT-R QJP-1</td><td>QJP-2</td><td>JHL-1</td><td>JHL-2</td><td></td><td>JHL-3</td></tr><tr><td>DLT-2</td><td>0.012</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DLT-3</td><td>0.023</td><td>0.032</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DLT-4</td><td>0.017</td><td>0.018</td><td>0.041</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DLT-R</td><td>0.038</td><td>0.043</td><td>0.067</td><td>0.032</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>QJP-1</td><td>0.059</td><td>0.048</td><td>0.057</td><td>0.048</td><td>0.045</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>QJP-2</td><td>0.039</td><td>0.032</td><td>0.035</td><td>0.035</td><td>0.053 0.025</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>JHL-1</td><td>0.049</td><td>0.053</td><td>0.070</td><td>0.077</td><td>0.071 0.035</td><td>0.027</td><td></td><td></td><td></td><td></td></tr><tr><td>JHL-2</td><td>0.061</td><td>0.073</td><td>0.039</td><td>0.071</td><td>0.049 0.034</td><td>0.026</td><td></td><td>0.039</td><td></td><td></td></tr><tr><td>JHL-3</td><td>0.046</td><td>0.059</td><td>0.032</td><td>0.067</td><td>0.080 0.057</td><td>0.045</td><td></td><td>0.057</td><td>0.030</td><td></td></tr><tr><td>JHL-4</td><td>0.028</td><td>0.031</td><td>0.044</td><td>0.040</td><td>0.085 0.053</td><td>0.048</td><td></td><td>0.087</td><td>0.063</td><td>0.024</td></tr></table></body></html>
+
+# 2.4 景观遗传分析
+
+用ArcGIS软件集成的神农架川金丝猴适宜栖息地分层图可看出（图2）,川金丝猴喜欢活动在以巴山冷杉为主的针叶林、以桦树为主的落叶阔叶林、以华山松为主的针阔叶混交林、以杨树为主的阔叶林和其他林地内有一定面积的灌丛、草地、耕地、建筑用地,且林区内穿插一条公路[43]。
+
+结合遗传距离和地理距离,检验了神农架金丝猴是否符合距离隔离模型,结果显示,川金丝猴的遗传距离与地理距离相关程度不显著( $\stackrel { \prime } { r } = 0 . 2 1 4 , P = 0 . 1 1 5 )$ （图3）。以基因流水平与地理距离为参数的相关性分析结果表明,居群间的地理距离和它们之间的基因流水平也没有显著的关系 $\left( r = 0 . 1 3 7 , P = 0 . 3 2 0 \right)$ （图3）。
+
+# 3讨论
+
+遗传多样性是种群在进化过程中应对环境变化所必需的物质基础,遗传多样性对维持物种的适应性和进化潜力具有重要的意义。神农架川金丝猴种群是分布在我国最东端的一个孤立种群,而且种群数量相对最少,明确该种群的遗传结构和关键的生境影响因素,对于该种群的保护和管理具有重要的意义。本研究中神农架川金丝猴遗传多样性指数 $( H _ { \mathrm { o } } { : } 0 . 5 5 9 ; H _ { \mathrm { E } } { : } 0 . 6 2 6 )$ ,与Chang 等[9]研究中神农架川金丝猴(样品量为153)遗传多样性水平相当 $\left( H _ { \mathrm { o } } : 0 . 5 9 1 ; H _ { \mathrm { E } } : 0 . 5 8 9 \right)$ 。在相同的微卫星位点上,与分布在其他两个地理区域的川金丝猴相比，神农架遗传多样性水平偏低，这与先前对川金丝猴种群遗传多样性研究结果致[89,4]。
+
+等位基因的丢失是造成物种遗传多样性降低和发生遗传漂变的重要因素,本研究中的12个微卫星位点
+
+![](images/5a2f93437466729f61e1db3c17bd59d7d032b2c5f2378cb8e28223627907d07a.jpg)  
+Fig.2Layered graph of suitable habitatfor golden snub-nosed monkey in Shennongjia National Nature Reserve
+
+![](images/12b9659df8acfddba121def9825578d5078649dd67206ad27b15dabf7c1d86d6.jpg)  
+图2神农架川金丝猴适宜栖息地分层图  
+图3神农架川金丝猴的遗传距离和基因流与地理距离相关性分析
+
+Fig.3Corelationanalysisof golden monkeyin Senongia NationalNatureResevebetweegenetic distance with geographicdistance and between gene flow level with geographic distance
+
+的等位基因分布不均,低频率等位基因(等位基因频率小于0.1)占有较高的比例,其中低频率等位基因比例在居群中高达 $4 3 . 5 6 \%$ 。频率低的稀有等位基因是进化积累的结果,这些低频率的等位基因可能随着遗传漂变,在未来种群发展中存在较大的等位基因丢失风险,进而可能导致基因减少、杂合度降低,可能进一步导致种群的生存力下降。与大的种群相比较,小种群对遗传漂变的影响敏感得多。具有适合度的等位基因可能会被丢失,而适合度较差的等位基因却可能得以保留,从而导致近交衰退和个体适合度的下降,进而削弱了种群的适应性进化潜力[",因此，这些低频率等位基因是濒危小种群遗传多样性保护中需要重点关注的。神农架川金丝猴种群存在一定比例的低频率等位基因,这极有可能使该种群本有的较低遗传多样性水平进一步恶化。
+
+基于微卫星标记评估遗传多样性水平的相关研究显示,当不同群体间存在遗传差异,合为一个整体时,遗传多样性水平会受到影响而增加[45]。有研究显示分布在秦岭的大熊猫群体 $( H _ { \mathrm { o } } : 0 . 5 2 5 ; H _ { \mathrm { E } } : 0 . 4 8 6 )$ ）、岷山大熊猫群体 $\left( H _ { \mathrm { o } } : 0 . 5 6 1 ; H _ { \mathrm { E } } : 0 . 5 5 9 \right)$ 、凉山大熊猫群体 $( H _ { \mathrm { o } } : 0 . 4 2 5 ; H _ { \mathrm { E } } : 0 . 3 6 6 )$ 、相岭大熊猫群体( $H _ { 0 }$ : 0.635 ; $H _ { \mathrm { E } }$ ：0.685)的遗传多样性水平比大熊猫种群 $( H _ { \mathrm { o } } { : } 0 . 5 6 5 ; H _ { \mathrm { E } } { : } 0 . 6 4 2 )$ 的整体遗传多样性水平较低[46]。神农架川金丝猴种群的遗传多样性水平与各群体相当,种群的遗传分化系数( $F _ { \mathrm { S T } }$ 值)为0.042,神农架群体之间分化程度较低,川金丝猴种群的遗传多样性水平受各群体间遗传差异影响不大。当在具备一定基因流的前提下,种群内部群体间的遗传结构差异会影响种群遗传多样性水平的高低。仰鼻猴属物种具有重层社会体系，一般具有稳定的社会结构和社群,同时也会发生多个社群的分离聚合现象[4748]。神农架川金丝猴社会结构相对稳定，研究发现群体间、猴群间具有一定的基因流,可能群体间存在聚合的机会。基于目前神农架川金丝猴种群内部群体间遗传差异不大的情况下,建议考虑与其他川金丝猴种群进行交换和交流,增加大龙潭人工补食群体的遗传差异和数量,合理人工补食群群体中雌雄比例和年龄组成,使该群体保持较高的适应性和进化潜力，并建立适当的生态廊道，增加神农架川金丝猴群体间基因交流。
+
+结合地理信息数据分析表明,11个川金丝猴猴群相互之间的遗传差异与其地理距离相关性不显著,而灌丛和草地及人类干扰可能使川金丝猴的扩散受到影响,使得神农架川金丝猴种群内具有遗传分化趋势现象。大龙潭群体中,DLT-3猴群与大龙潭其他的猴群(DLT-1、DLT-2、DLT-4)间的 Nei's遗传距离分别为0.083、0.115和0.167,比其中的其他两两猴群间遗传距离都大,DLT-3猴群活动区域周边为灌丛,在川金丝猴野外活动区域的研究中显示它们很少在草地或者灌木丛活动[4],因此,灌丛的分布可能对 DLT-3猴群与其他群体交流产生阻碍,该居群近交系数较大,应该尽可能的为该猴群建立适当的生态廊道,以增加猴群间的交流。研究结果还发现,千家坪的猴群(QJP-1、QJP-2)与金猴岭的猴群中 JHL-1、JHL-2 的遗传距离,比千家坪的猴群(QJP-1、QJP-2)与金猴岭的猴群中 JHL-3、JHL-4 的遗传距离要大,金猴岭内部 JHL-1猴群与JHL-4猴群的遗传距离最大,大龙潭地区除人工补食群体外的其他猴群与千家坪猴群和金猴岭的猴群有一定的遗传距离,这些说明可能横穿林区的旅游公路对川金丝猴的扩散有一定阻碍的作用。根据川金丝猴养育基地的工作人员观察,因夏季属于旅游高峰期,川金丝猴在夏季基本不会到公路上活动,更不会穿越公路，只有在冬季至早春时期才会有川金丝猴在公路两侧活动[50]。因此,公路建设与存在所带来的环境污染、噪音干扰等可能使得川金丝猴的扩散受到一定阻碍。控制保护区区域内公路的车流量与通行时间,在大龙潭区域内和金猴岭区域内破碎化的川金丝猴适宜栖息地间建立生态廊道,扩大和提高川金丝猴适宜栖息地的面积和质量,这些将对于保护和增加神农架金丝猴种群间的基因交流具有重要意义。
+
+# 参考文献（References）：
+
+[1]LiBG,anRLOadCE.EictiofuosedokysininadigthestyearsIteatialJoualofPrao,23(6) : 1227- 1244.  
+2 张荣祖，陈立伟，瞿文元，柯利思.中国灵长类生物地理与自然保护：过去、现在与未来.北京：中国林业出版社，2002.  
+3 全国强，谢家骅.金丝猴研究.上海：上海科技教育出版社，2002.LuoMF,LiuZ,nHJao,istorcalggaicispesaloftedeuosokey（inopitsoel）deinfluence of climatic oscillations.American Journal of Primatology，2012,74(2）：91-101.  
+[5] LuoMF,PanHJ.CIDBvarationdtrasspeisoloismineodsosdmokey（opitecusroxelln）eScience Bulletin，2013,58(18）：2119-2127.  
+[6]PanD,HuHX,MengSJ,enJ,uYX,ZangY.Aighpolyorpismlevelinopthesroxelna.InteratoaalfPrimatology，2009，30(2）：337-351.  
+[7]Song XY,ZhangP,HuangK,ChenD,GuoST,QiXG,HeG,PanRL,LiBG.Theinfluenceofposiveseletionandrans-speciesevolutiononDPB,diversityinthegoldensnub-nosed monkeys（Rhinopithecus roxelana).Primates，2O16,57(4）：489-499.
+
+http://www.ecologica.cn
+
+[8］潘登，李英，胡鸿兴，蒙世杰，门正明，符云新，张亚平.川金丝猴群体的微卫星多态性研究.科学通报，200，50(22)：2489-2494.  
+[9]ChangZF,uoFYangigZF,i,VintLHeepopulatioliedlosfgeeiityasmalland isolated populationof Sichuansnub-nosedmonkeys（Rhinopithecusroxelana).Genetica，2012,140(4/6)：05-114.  
+[10]SommerS.Teimportaceofiuegevarabity（M）evolutioaryolondoservatioFrotiesinZg5，：16.  
+[1]Ouborg，PertoldiC,oescckeVjaRK，HedrickWonservatiogeneticsirasitiontooservatogenoicsesinGenetics，2010,26(4):177-187.  
+[12]Rivera-OrtF，AglarR，rzendiMDC，QuesdaOyaK.abitatfrmenationdgneticbilityf etrapodlaAnimal Conservation，2015,18（3）：249-258.  
+[13]Goossens B, Sharma R,Othman N,Kun-Rodrigues C, Sakong R,Ancrenaz M,Ambu L N, Jue N K, $0 ^ { \prime }$ Neill R J,Bruford M W, Chikhi L.Habitatfrgmetatiodgeticditituralopuiosfteeaelepntiplcatiosforoseatioolaloatio2016,196:80-92.  
+[14]程宏毅，鲍毅新，陈良，胡知渊，葛宝明.黑麂（Muntiacus crinjrons）栖息地片断化对种群基因流的影响．生态学报，2008，28（3）：1109- 1119.  
+[15]Bowlby HD，Fleming IA，Gibson AJF.Aplying landscapegenetics toevaluatethreatsafecting endangered Atlanti almonpopulations,Conservation Genetics，2016,17(4）: 823-838.  
+16]elfeedeefduoei，2015,16(1):209-221.  
+[17]EdelhoffH,Fickel J,Epps C,ZachosFE，Balkenhol N. Effectsof landscape fragmentation yersity and population structure of Reddeer（Cerus elaphus）in northern Germany.Mammalian Biology- Zeitschrift fur Säugetierkunde,2O16,81(S1）：5-5.  
+[18]MucciN,ArrendalJ，Asorge H,BaileyM，BodnerM,Delibes M，FerrndoA,FourmierP,FourmierC,GodoyJA，HajkovaP,HauerS,HegbergetTM,HeideckeD,KirjavainenH,KruegerHH,KvaloyK,LfontaineL,LanszkiJ,LemarchandC,LiukkoUM,LockeV,Ludwig G,MadsenAB,MercierL,OzisJ,PaunovicM,ertoldiC,PiizA,PrigioniC,Santos-Reis,LuisTS,tebergT,chidH,SuchentrunkF,ubrJbeg,nkeandiE.Geticdiversiyndlndseapgeeticructurefer（Lutratra）osinEurope.Conservation Genetics，2010,11(2）：583-599.  
+[19]Liu ZJ,LiuGJ,RoosC,WangZM,XiangZF,ZuPF,WangBS,RenBP,ShiFL,PanHJ,LiM.Implicationsofgeneticsandctprotected areas for conservation of 5 endangered primates in China. Conservation Biology，2015,29(6）:1508-1517.  
+[20]ZhuLFZangSGuXDWeiFWigantgeetousdsatildisofiantdoupingfrgtedasouthwest China. Molecular Ecology，2011,20(6):1122-1132.  
+[21]ZhuLF,HuYB,QiDW, Wu H,Zhan XJ,Zhang ZJ,Bruford M W, WangJL,Yang XY,Gu X D,ZhangL,Zhang B W,Zhang S N,WeiFW.GeneticconsequenesofhistoricalanthopogenicandecologicaleventsongantpandasEcology013，94（0）:346-235.  
+[22]Hu Y D,Pang HZ,LiDS,LingSS,LanD,WangY,ZuY,LiDY, Wei RP,ZhangHM, WangC D.Analysis of thecytochrome $c$ oxidasesubunit 1（COX1） gene reveals the unique evolution of the giant panda. Gene,2016,592(2）: 303-307.  
+[23]HeLetelti,Nipponia nippon. Conservation Genetics，2006,7(1）:157-160.  
+[24]ZhangBangSG，Xiajoristoopatibitomplexvariatioinedangedrestedbisiponiponandcrreintroduction.Biochemical Genetics，2006,44(3/4）：110-120.  
+[25]Liu ZJ,RenBP,WuRD,ZhaoL,HaoYL,WangBS,WeiFW,LongYC,LiM.TheefetoflandscapefeaturesonpopulationgeneticstructureinYnsdmokeys（optuset）plisopncgticdsotiuityleularEol（）3831-3846.26 薛亚东，李丽，李迪强，吴巩胜，周跃，吕玺喜.基于景观遗传学的滇金丝猴栖息地连接度分析.生态学报，2011,31（20)：5886-5893.271 AhmadK,KuarV,JoshiBD,aaM,igamP,anAA，GoalSPGentdiverstyofthebetanantelope（Pantholopshdgoi)popultionofLadakh,India,itsrelationshipwithotherpopultionsandconservationimplications.BMCResearchNotes，21,9:47.28 FourcadeY，RichardsonDS,KeissO,BudkaM，GreenRE,FokinS，ScondiJ.CocrakeconservationgeneticsataEuropeanaletheimpact of biogeographical and anthropological processes.Biological Conservation，2016,198：210-219.  
+[29] 杨敬元，廖明尧，余辉亮，姚辉.神农架金丝猴保护与研究现状.世界科技研究与发展，2008，30(4)：418-421.  
+[30]YaH,XfdCgJ,uFalespalirovsiepShennongjia Nature Reserve,China.American Journal of Primatology，2011,73（12）：1280-188.  
+[31]HaoY,uZJWReB,WeiFioacerocosteltelfraoeRhinopithecus roxellana.Conservation Genetics,2007,8(5）：1021-1024.  
+[32]BeleainE,wensonJE,TallonD,runbergS,aberletPEstimatigpopulatioizeoflusiveaialsithDfrotectedfeces：four methods for brown bears.Conservation Biology，2005,19(1）：150-161.  
+[33]VanOoseroutC，HutchonW，WilsShiple.MCCKE：sofarefordentifgandcoetiggnotgsimicrosatellite data.Molecular Ecology Notes，2004,4(3）：535-538.  
+[34] MarshallTC，SlateJ，KruukLEB,PembertonJM.Statistcalconfidenceforlikeliood-basedpaterityinferenceinaturalpoplatinMolecular Ecology，1998,7(5）: 639-655.  
+[35] Kalinowski ST，TaperML，MarshallC.RevisinghowthecomputerprogramCERVUSaccommodatesgenotypingerrorincreasessuccespaternity assignment.Molecular Ecology，2007,16(5）：1099-1106.  
+[36] RoussetF.GENEPOPO：acompletere-iplementationoftheGEPOPoftwareforWindowsandLinx.MolecularEcologyResource,8,8(1)：103-106.  
+[37] DieringerD，SchlotererC.MCROSAELIEANALYER（MSA）：aplatfoindependentanalysistolforlargemicrosateliteataets.Molecular Ecology Notes，2003,3（1）：167-169.  
+[38] Goudet J.FSTAprogamtstateandtestgediverstiesadiatiiices(vrsi2.9.3)E/0214-1tp:www2.unil.Ch/popgen/softwares/fstat.htm.  
+[39]WightSEolutideeefopuatiosueVaralityindAogturalpulatiag：UniveiofCPress，1978.  
+[40] RousetF.Getreatodtiaffowfraisseroaiostas9944）8.  
+[41] BohonakAJ.IBD（isolationbydistance）：aprogramforanalysesof isolationbydistance.JoualofHeredity，OO2,93（2）：5-154.  
+[42] WaitsJL,LebergPL.asesaocatedwitolationetiationusingolelartgingAnalCoservatiooo,（3）：9-199.  
+[43] 朱兆泉，宋朝枢.神农架自然保护区科学考察集.北京：中国林业出版社，1999.  
+[44] GuoST,JiWH,Li,ngHL,LiBG.eatigSsteof eScanSb-osedkey（optcusroxelln)AmJoulof Primatology，2010,72(1）：25-32.  
+[45] 方盛国.大熊猫保护遗传学.北京：科学出版社，2008.  
+[46] Zhang BW,LiM,ZhangZJ,GosssB,ZuLF,ZhangN,HuJC,BrufordMW,WeiFWGeneticviabilityandpopulationistoftegiant panda，puting an end to the“evolutionary dead end ？ Molecular Biology and Evolution，2007,24（8）:1801-1810.  
+［47］北京大学心理学系灵长类动物研究小组，湖北省神农架国家级自然保护区科考站.金丝猴的社会：野外研究.北京：北京大学出版社，2000.  
+[48] Qi X G,GarberPA,JiWH,HuangZP,HuangK,ZhangP,GuoST,Wang X W,HeG,ZhangP,LiBG.Satelte telemetryandsocialmodeling ofer new insights into the origin of primate multilevel societies.Nature Communications，2014,5:5296.  
+[49] LiYM.Theetoffostutingaueicansbdokey（opsoxel）ojaauee,China.Primates，2004,45(1）：69-72  
+[50］寇学永，娄会娟，罗莉.公路路线改扩建对神农架金丝猴的影响：酒壶坪至大界岭公路.环境科学与技术，2015,（S1)：491-494，518-518. A1 O

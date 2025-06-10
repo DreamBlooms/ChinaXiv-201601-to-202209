@@ -1,0 +1,605 @@
+[
+    {
+        "type": "text",
+        "text": "Original Contribution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pro-inflammatory Macrophages suppress PPARy activity in Adipocytes via S-nitrosylation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ruiying Yina, Li Fanga, Yingjia Lia, Peng Xueb, Yazi Lib, Youfei Guan℃, Yongsheng Changd, Chang Chen b.\\*, Nanping Wang a,c\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Institute of Cardiovascular Science and Diabetes Center,Peking University,Beijing 1Oo191,China   \nbInstituteofopsics,inesecademyofiencesBeijingin   \n‘ The Advanced Institute for Medical Sciences,Dalian Medical University,Dalian 116o44,China   \ndNationalLbotofdicallecularostituteofsicedicalieceCsecadefdicalecedekinUodicl   \nCollege,Beijing100005,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 8 May 2015   \nReceived in revised form   \n23 September 2015   \nAccepted 10 October 2015   \nAvailableonline22 October 2015 Keywords:   \nPPARY   \nS-nitrosylation   \nMacrophage   \nAdipose tissue   \nInsulin resistance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peroxisome proliferator-activated receptor-γ(PPARy) isa ligand-activated nuclear receptor and plays an essential role in insulin signaling.Macrophage infltration into adipose tissue is a character of metabolic inflammation and closely related to insulin resistance in type 2 diabetes.The mechanism by which proinflammatory macrophages cause insulin resistance remains to be elucidated. Here we showed that coculture with macrophages significantly suppressed the transcriptional activity of PPARy on its target genes in 3T3-L1 preadipocytes and diabetic primaryadipocytes,depending on inducible nitric oxide synthase (iNOS).We further showed that PPARy underwent S-nitrosylation in response to nitrosative stres.Mass-spectrometry and site-directed mutagenesis revealed that S-nitrosylation at cysteine 168 was responsible for the impairment of PPARy function. Extended exposure to NO instigated the proteasome-dependent degradation of PARy.Consistently,in vivo evidence revealed an association of the decreased PPARy protein level with increased macrophage infiltration in visceral adipose tissue (VAT)of obese diabetic db/db mice.Together,our results demonstrated that pro-inflammatory macrophages suppressed PPARy activity in adipocytes via S-nitrosylation,suggesting a novel mechanism linking metabolic inflammation with insulin resistance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Adipose tissue is an important organ that maintains the homeostasis of glucose and lipid metabolism. In addition to the function as an energy storage tissue,adipose tissue secrets a series ofadipokines includingadiponectin to regulate glucose and lipid metabolism in other insulin sensitive tissues such as liver and skeletal muscles[1].In obesityand other metabolic disorders,the uptake of excessive nutrients and energy causes a metabolic surplus,leading to a chronic low-grade inflammation status called metabolic inflammation or meta-inflammation [2]. In adipose tissues of obese and diabetic animals and patients,the metabolic inflammation is featured with the infiltration and activation of macrophages,impaired insulin sensitivity and dysfunctional secretion of adipokines [3-5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peroxisome proliferator-activated receptor-γ (PPARy),a member of nuclear receptor superfamily,is highly expressed inadipose tissues.PPARy isa master regulator of glucose and lipid metabolism [6,7].PPARy heterodimerizes with retinoid X receptor- $\\mathbf { \\nabla } \\cdot \\mathbf { \\vec { \\mathbf { u } } }$ binds to specific PPAR-responsive elements(PPRE）in the target genes,and leads to their transcriptional activations upon the ligand binding[8]. Thiazolidinediones（TZDs） including rosiglitazone and pioglitazone are synthetic ligands selective for PPARy and have been widely used in the treatment of type 2 diabetes mellitus as insulin sensitizers [9,1O]. The insulin sensitizing effects of TZDs are predominantly mediated by the actions of PPARy in adipose tissues viaat least the two mechanisms:1) promoting the uptake of glucose and free fatty acids for adipogenesis,and therefore decreasing their levels in circulation;aP2 (fatty acidbinding protein 4,FABP4）[11]，stearoyl-CoA desaturase (SCD1) [12],acyl-CoA synthetase,and perilipin [13] are among the PPARy target genes responsible for this mechanism;2) inducing the expression of adipokine genes such as adiponectin to improve the insulin signaling in other organs [14,15]. In expanding adipose tissue,monocytes and macrophages are recruited and activated, exhibiting pro-inflammatory features.These pro-inflammatory (classically activated）macrophages release a series of pro-inflammatory factors like TNFα,IL- $1 \\beta$ ,IL-6 and nitric oxide(NO). Among them,excessive NO derived from inducible NO synthase (iNOS）acts with reactive oxidative species(ROS）to produce a nitrosative stress [16] which may impair adipocyte function [17,18].Nitrosative stress can trigger a redox sensitive process called protein S-nitrosylation [19], i.e. the reaction of thiols at the cysteine residues in the substrate proteins with NO or NO-derived species,forming -SNO group[2O]. S-nitrosylation is an important mechanism by which NO exerts its physiological and pathological functions [21,22].Previous studies indicated that macrophages inhibited adipocyte differentiation viaa paracrine action[23].In addition，NO donor blunted PPARy activity in 3T3-L1 preadipocytes [24].However, the molecular mechanism by which NO suppresses PPARy function remains unknown. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we found that pro-inflammatory macrophages instigated the S-nitrosylationofPPARyinadipocytesand impaired the transcriptional activity and protein stability of PPARy. This finding suggested a novel mechanism linking metabolic inflammation with insulin resistance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Research Designand Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Reagents and Chemicals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polyclonal rabbit anti-PPARy antibodyand horseradish peroxidase (HRP)-conjugated goat anti-rabbit secondaryantibody were from Santa Cruz Biotechnology(Santa Cruz,CA,USA).Rat monoclonal anti-F4/8O antibody was from Abcam (Cambridge，MA, USA).S-Nitrosoglutathione (GSNO）was synthesized with glutathione(GSH) and sodium nitrite.Rosiglitazone,MG132,lipopolysaccharide(LPS), $1 4 0 0 \\mathsf { W }$ ，ethylene diamine tetraacetic acid (EDTA),isopropyl $\\beta$ -D-1-thiogalactopyranoside (IPTG),sodium ascorbate， N-acetylcysteine(NAC)， neocuproine， methylmethanethiosulfonate (MMTS),dithiothreitol (DTT)，biotin-maleimide, streptavidin-agarose,protein $\\mathsf { A } / \\mathsf { G }$ agarose,insulin,3-isobutyl-1- methylxanthine (IBMX)，dexamethasone，and Oil Red O were purchased from Sigma (St. Louis,MO,USA).MTS solution was purchased from Promega (San Luis Obispo,CA,USA).Restriction endonucleases and other modifying enzymes were purchased from New England Biolads (Ipswich,MA,USA). $0 . 4 \\mu \\mathrm { m }$ TranswellM Permeable Support was purchased from Corning(Tewksbury, MA, USA). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Animal Procedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Male Sprague-Dawley rats at 6 weeks age and male $d b / m$ or db/ db mice at 5 or 16 weeks age were used.Experiments were conducted in accordance with the National Institutes of Health (NIH) Guide for the Care and Use of Laboratory Animals with the approval by the institutional committee. Rats and mice were euthanized by terminal bleeding under anesthesia (pentobarbital sodium, $6 0 \\mathrm { m g } / \\mathrm { k g } )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Cell culture ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3T3-L1,Raw264.7 and HeLa cell lines were grown in Dulbecco's modified Eagle's medium (DMEM） supplemented with $1 0 \\%$ fetal bovine serum (FBS） and antibiotics.Primary preadipocytes were isolated from rat epididymal adipose tissue and grown in $1 { : } 1 \\ \\mathsf { F } 1 2 /$ DMEM supplemented with $10 \\%$ FBS.In the co-culture system, Raw264.7 cells were washed after indicated treatments and seeded in the upper chamber,while 3T3-L1 cells or differentiated primarypreadipocytes (hereinafter referred to as primaryadipocytes）were grown in the lower chamber. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Plasmids Construction and Transfection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PPRE-TK-Luc,pRSV-gal and CMX-mPPARy1 encodinga murine PPARy1 were described [25]. Site-directed mutations were generated using QuikChangeLightning Site-Directed Mutagenesis Kit (Agilent Technologies)，with primers containing -GCC-(coding alanine) mutation instead of original -TGC- (coding cysteine). GSTPPARy was constructed through subcloning of the mouse PPARy1 coding region from CMX-mPPARy1 into pGEX-6 P-1 vector.PlasmidsweretransfectedusingLipofectamine2Ooo(Life Technologies). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Adenoviral Infection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3T3-L1 or HeLa cells were co-infected with Ad-VP-PPARy or AdPPARy that encodes mouse or human PPARy1,and Ad-tTA that encodesa tetracycline-responsive transactivator(a tet-off system) as described [25].Then cells were maintained in the presence or absence of tetracycline $( 0 . 1 \\mu \\mathrm { g } / \\mathrm { m L } )$ for the indicated time. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Detection of S-nitrosylation by irreversible biotinylation proce dure (IBP) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IBP was performed as previously described [26].Briefly,cells were homogenized in RIPA lysis buffer.After centrifugation,MMTS $( 2 0 \\mathrm { m M } )$ was added to the supernatant and incubated at $5 0 ^ { \\circ } \\mathsf C$ for $3 0 \\mathrm { m i n }$ to block free thiols.After acetone precipitation and centrifugation,the pellet was recovered in HENS buffer containing $0 . 2 \\mathrm { m M }$ biotin-maleimide with $1 0 \\mathrm { m M }$ ascorbate and incubated at $3 7 ^ { \\circ } \\mathsf { C }$ for $^ { 1 \\mathrm { h } }$ .Then,excess biotin-maleimide was removed by icecold acetone precipitation.The samples were recovered and boiled in HENS buffer containing $2 0 0 \\mathrm { m M }$ DTT for $1 5 \\mathrm { m i n }$ to reduce potential intermolecular disulfide bonds.After neutralization,the biotinylated protein was purified with streptavidin-agarose and eluted with HENS buffer. Samples were analyzed with Western blotting to detect S-nitrosylated PPARy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.7.Western blotting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein samples were separated on $10 \\%$ sodium dodecyl sulfate polyacrylamide gels electrophoresis(SDS-PAGE)and transferred to polyvinylidene difluoride (PVDF） membranes.The membranes wereblockedwith $5 \\%$ non-fatmilkin Tris-buffered saline-Tween $( 0 . 2 \\% )$ (TBS-T) for $^ { 1 \\mathrm { h } }$ ,incubated overnightwithprimaryantibody ofPPARy(1:1ooO dilutionin blocking buffer) and then horseradish peroxidase (HRP)-conjugated secondaryantibody.After visualizing withenhancedchemiluminescence(ECL） reagent, autoradiographs were scanned or exposed to X-ray films and quantified for band intensities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.8.Quantitative reverse-transcriptase-PCR(qRT-PCR) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was isolated from cells or tissues with Trizol Reagent (Life Technologies）and reverse transcribed by using M-MLV transcriptase and random primers.qPCR was performed with the GoTaqqPCR Master Mix (Promega） and specific primers(sequences in Supplementary Table 1）in the Stratagene Mx3000P qPCRSystem(Agilent Technologies). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.9.Chromatin Immunoprecipatation (ChiP) Assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cells were cross-linked with $1 \\%$ formaldehyde for $1 0 \\mathrm { m i n }$ harvested and subjected to sonication (25 W, $1 5 s \\times 3$ .The sheared chromatin was then immunoprecipitated with anti-PPARy antibody or control IgG ( $2 \\mu \\mathrm { g }$ for each sample) and pulled-down by protein $\\mathsf { A } / \\mathsf { G }$ agarose beads.After washing and eluting，immunocomplexes were reversed in $6 5 ^ { \\circ } C$ 、DNA was purified by using the QIAquick?PCR purification kit (QIAGEN),followed by qPCRwith the primers(Supplementary Table 1) flanking the putative PPRE motifs in $a P 2$ and adiponectin promoter regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d3116a4c2ba576e08c2744d08a0b0ef268d544412d0adb8ac645936e2ac2317.jpg",
+        "img_caption": [
+            "Fig.1.Repression of $\\mathsf { P P A R } _ { \\mathbb { Y } }$ target genes in3T3-L1 cels by NO derived from Raw264.7 macrophages.Raw264.7cells were stimulated with LPS $\\mathrm { \\langle 1 0 0 ~ n g / m L }$ ,16 h),with or without $1 4 0 0 \\mathrm { W }$ pretreatment ( $1 0 ~ \\mu \\mathrm { M }$ 2 h).3T3-L1 cells were co-cultured with Raw264.7 cells for $^ { 4 \\mathrm { h } }$ and then treated with rosiglitazone (RSG, $1 0 \\mu \\mathrm { M }$ 24 h)or DMSO (A). ThemRNAlevelsfSiw647els)ndpocti()P2(D)ndPR(E)-Lellerealdbysing-Ctaea $\\pm { \\mathsf { S E M } }$ from 3 independent experiments. Statistical comparisons were made with two-way ANOVA. $\\mathbf { ^ * p } < 0 . 0 5$ $\\mathfrak { ^ { * * } p } < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.10.Expression and purification of recombinant PPARy protein ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BL21（入DE3）cells were transformed with GST-mPPARy1 and induced to express recombinant PPARy by IPTG （ $\\mathrm { : } 0 . 5 \\mathrm { m M }$ ， $1 6 ^ { \\circ } \\mathsf C$ $1 6 \\mathrm { { h } \\mathrm { { \\dot { \\Omega } } } }$ ).Cellswere harvested in TBSbuffer containing DTT $( 5 \\mathrm { m M } )$ _， phenylmethylsulfonyl fluoride $( 1 ~ \\mathrm { m M } )$ and EDTA $( 1 ~ \\mathrm { m M } )$ .After centrifuging,the supernatant was sonicated and loaded to the glutathione-Sepharose column (National Engineering Research Center for Biomaterials,NERCB).The column was Washed with TBS for three times and the protein was eluted with TBS buffer containing GSH $( 2 0 ~ \\mathrm { m M } )$ .Thepurified proteinwasdialyzed against TBS buffer containing DTT $( 2 5 \\mu \\mathrm { M } )$ to remove GSH and maintain the activity of the protein. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.11.Mass spectrometry determination of S-nitrosylated sites ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Purifed GST-mPPARy1 protein $( 2 0 0 \\mu \\mathrm { g } )$ was treated with 1 mM GSNO for $3 0 \\mathrm { m i n }$ at room temperature.S-nitrosylated proteinswere blockedbyMMTSand labeledbybiotin-maleimideas described in IBP.Biotinylated proteins were then trypsinized (using a 1:5O ratio of protein:trypsin） in solution for $^ { 1 6 \\mathrm { ~ h ~ } }$ and purified with streptavidin-agarose for liquid chromatography with tandem mass spectrometry (LC-MS/MS）analysis.Peptideswere separatedbytheNanoLC1DPlussystem(RP-C18, $0 . 1 5 \\ : \\mathrm { m m } \\times 2 . 5 \\ : \\mathrm { m m }$ trapping columns and $0 . 0 7 5 \\ : \\mathrm { m m } \\times 2 0 0 \\ : \\mathrm { m m }$ analytical columns）at a flow rate of $3 0 0 ~ \\mathrm { { n L / m i n } }$ Eluting peptide cations were ionized by nanospray and analyzed bya LTQ-Orbitrap XL mass spectrometer (Thermo Scientific).A survey full scan followed by 10 CID events was used.Dynamic exclusion for selected precursor ions was set at $1 2 0 s$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MS/MS spectra were searched against UniProt mouse proteome database(Release 2O13_O6）using SequestHT.Database searches were performed with the following parameters:precursor mass tolerance $1 0 \\ : \\mathrm { p p m }$ ；MS/MS mass tolerance $0 . 8 \\mathsf { D } \\mathsf { a }$ ；two missed cleavage for trypsinized peptides;variable modifications oxidation $( \\mathrm { M } , + 1 5 . 9 9 4 9 \\mathrm { D a }$ ),methylthio（C $\\zeta , + 4 5 . 9 8 7 7 \\mathrm { D a }$ ),biotin-maleimide （2 $( \\mathsf { C } , + 4 5 1 . 1 8 8 9 \\mathsf { D a } )$ .The results were filtered for a $1 \\%$ false discovery rate(FDR）at the PSM level utilizing the percolator-based algorithm [27]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3674a7b7df474e97b25b79f48b02f2ed35ab379d1c5afa55b04d5d8bf226dd1f.jpg",
+        "img_caption": [
+            "Fig.2. Suppression of $\\mathsf { P P A R } _ { \\mathsf { Y } }$ transcriptional activity by GSNO.(A-D)After pretreatment with GSNO(1mM,4h),3T3-L1cels were stimulated with RSG( $1 0 \\mu \\mathrm { M } ,$ 24 h). The mRNA levels of adiponectin, $a P 2$ ,perilipinand $P P A R _ { \\Upsilon }$ wereanalyzed withqRT-PCR.(E)HeLacels were infected with Ad-PPARy in the presence or absence of tetracycline(Tc,1 $\\mu \\mathrm { g } / \\mathrm { m L }$ ,tet-off) and then transfected with PPRE-TK-Luc and pRSV- $\\cdot \\beta$ -gal. Cells were exposed to GSNO(4 h)and stimulated with RSG (24 h).Bar graph represents the luciferase activity after normalization to $\\beta$ -galactosidaseactivity. $\\mathbf { ^ * p } < 0 . 0 5$ = $\\mathfrak { s } \\mathfrak { s } _ { \\mathtt { p } } < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.12.Isolation of rat primary preadipocytes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Epididymal fat pads of Sprague-Dawleyrats,or 5-week old db/ mor db/db mice were isolated,washed in phenol red-free DMEM, and cut into pieces less than $1 \\mathrm { m m } ^ { 3 }$ Collagenase( $\\mathrm { 1 \\ m g / m L ) }$ was usedto digest the tissue ina shakingwater baths ( $3 7 ^ { \\circ } \\mathsf C$ ，40 min, $1 2 0 ~ \\mathrm { r p m } )$ .The mixture wasdiluted with phenol red-free DMEM $( 5 \\mathrm { m L } )$ andfiltratedwitha1oO-meshcellcribble.After standing for $1 0 \\mathrm { m i n }$ ，the suspensions below the float were transferred.The floating components were washed with phenol red-free DMEM for three times.The lower suspensions were collected and filtrated with a 4oo-mesh cellcribble.Then,the irrelevant components were removed through pre-centrifuge ( $1 6 0 \\mathrm { g } , 5 \\mathrm { m i n } ^ { \\cdot }$ ).After centrifuge at $8 0 0 { \\mathrm { g } }$ for $1 0 \\mathrm { m i n }$ ，preadipocytes were obtained,resuspended and cultured in F12/DMEM(1:1) containing $10 \\%$ FBS. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.13.Adipocyte differentiation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After confluence,primary preadipocytes were kept for another 2 days and then treated with adipocyte differentiation media （ $1 ~ { \\mu \\mathrm { M } }$ dexamethasone, $0 . 5 \\mathrm { m M }$ IBMX, $1 0 ~ \\mathrm { \\mu g / m L }$ insulin in complete F12/DMEM media).After3 days,cells were switched to the maturation media( $1 0 ~ \\mu \\mathrm { g / m L }$ insulin in complete F12/DMEM media)for 2 days.Then,the media were half-changed with F12/ DMEM every 2 days thereafter. Adipogenic differentiation was evaluated with Oil Red O staining.Briefly,cells were fixed with $4 \\%$ paraformaldehyde（PFA）for $3 0 \\mathrm { m i n }$ ，washed,and then stained with fresh Oil Red O( $( 0 . 3 \\%$ in $60 \\%$ isopropanol） for $^ { \\textrm { 1 h } }$ Stained cells were photographed by Leica DMI 30ooB system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.14.Immunohistochemistry Staining ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Paraffin sections from epididymal fat tissue were dewaxed and pretreated with $3 \\% \\mathrm { H } _ { 2 } 0 _ { 2 }$ in methanol to inactivated endogenous peroxidase.Afterantigen retrieval in EDTA( $\\mathrm { \\tt { p H } } 8 . 0 \\mathrm { \\mathrm { \\AA } }$ ）buffer,tissue sections were blocked by goat serum ( $1 0 \\% )$ for $^ { 1 \\mathrm { h } }$ and incubated with the rat antibody against F4/80 at $4 ^ { \\circ } C$ overnight.Then the sections Were incubated with HRP-conjugated goat anti-rat IgG antibody, developed with $^ { 3 , 3 ^ { \\prime } }$ -diaminobenzidine（DAB）chromogen substrate and counterstained with hematoxylin.Images were capturedbyLeica DM30o0system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/086087fcdaf5cc1171bd3f802a5995ff66b141c434c72ca80cb10dfe76014058.jpg",
+        "img_caption": [
+            "Fig. 3. Decrease of the $\\mathsf { P P A R } _ { \\mathsf { Y } }$ DNA binding by GSNO.3T3-L1_cells were treated with GSNO (1 mM,4h)and then stimulated with RSG ( $1 0 ~ { \\mu \\mathrm { M } } ,$ 24 h). ChIP assays wel berformedwith $\\mathsf { P P A R } _ { \\mathsf { Y } }$ antibody and primers flanking the PPRE motifs in the $a P 2$ and adiponectin promoter regions.PCR amplification products of $a P 2$ (A)and adiponecti (B)promoter were resolved on agarose gel. Relative enrichment of $\\mathsf { P P A R } _ { \\mathbb { Y } }$ was expressed by fold change above input group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4522be48ba970fbde989fcf9ad71a207f7e5556d5ebc9f611c9cf6426974dea1.jpg",
+        "img_caption": [
+            "Fig.4. Detection of S-nitrosylation of $\\mathsf { P P A R } _ { \\mathsf { Y } }$ with IBP.(A)3T3-L1 cells were co-cultured with the LPS pretreated Raw264.7(with or without 1400 W) for $\\boldsymbol { 4 \\mathrm { h } }$ Total protein were extracted from 3T3-L1 cells and subjected to IBP detection of S-nitrosylated $\\mathsf { P P A R } _ { \\mathsf { Y } }$ (B) 3T3-L1 cells were infected with Ad-VP-PPARy for $2 4 \\mathrm { h }$ and exposed to GSN (1 mM for $^ { 4 \\mathrm { h } }$ )with or without NAC pretreatment ( $1 0 ~ \\mathrm { m M } ,$ 2 h).The bar graphs are mean $\\pm { \\sf S E M }$ of 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.15．MTS Assay ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Raw264.7 cells,3T3-L1 cells or HeLa cellswere seeded in 96- well plate with $5 { * 1 0 } ^ { 3 }$ cells per well. After 1400 W or GSNO treatment for indicated times,MTS solution was added to the medium and cells were incubated for 1 hour. Cell viability was assessedby OD valuesat $4 9 0 \\mathrm { n m }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.16.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Quantitative results were expressed as means $\\pm$ SEM.Student's t test between two groups or one/two-way ANOvA followed by Tukey's test(multigroup comparisons）were used to analyze the statistical differences (GraphPad Prism,version 6.O,GraphPad). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathtt { p } < 0 . 0 5$ was considered significant.Non-quantitative results were representative of at least 3 independent experiments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.Macrophages-derived NO suppressed PPARytarget genes in preadipocytes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to examine the crosstalk between the pro-inflammatory macrophages and adipocytes,we co-cultured 3T3-L1 preadipocyte with Raw264.7,a macrophage cell line (Fig.1A).Prior to the co-culture,Raw264.7 were stimulated with LPS to induce the expression of iNOS (Fig.1B). Incubation with the LPS",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DBD LBD  \nPARγ1 (2)  \nluman 109 (137) IECRVCGD----HACEGCKG----DRCDLNCRI----NKCQYCRFQKCLA---\\~QGCQF  \n'at 137（(107) IECRVCGD----HACEGCKG----DRCDLNCRI---NKCQYCRFQKCLA---QGCQF  \nIouse 107 (137) IECRVCGD----HACEGCKG----DRCDLNCRI---NKCQYCRFQKCLA--QGCQF109 168(139) (198)  \nB ITMS, CID@35.00, $z = + 3$ ,Mono m/z=980.45856 Da,MH+=2939.36112 Da,Match Tol.=0.8 Da y12 y11y10y7 y6y5 y3 y2ys+ 1173.9 TQLYNRPHEEPS SNSLMAIECBiotin-MR400 y2+ 1042.6 y>+-HO,b10+729.5 b162+ 1268.7 b9 b16b17 b20949.8y3+858.3y112+836.8 bg+1139.9100 y-. 18828 1672.0y10+-HO y12\\* b17+364.5 1556.6 1801.4 1968.7Lu 上 1400 600 800 1000 1200 1400 1600 1800 2000m/zITMS,CID@35.00, $z = + 2$ ,Mono m/z=861.91638 Da,MH+=1722.82549 Da,Match Tol $^ { - 0 . 8 }$ Day11y10y9y8 y6y5y4 y2400 85.5 CBiotin-M LAVGMSHNAI R300 b3 b5 b8b9b10b11  \n[sjuno] y6+697.6 y10+1055.9y2+ b+y2-HO 492.2 739 4g7\\*-H0 9846 1256.6 14b100100 22 473.6/ 610.5 765.5 86.0 118 b2-. 1364.8 1548400 600 800 1000 1200 1400 1600m/zCSequence sites Charge Calc. Measured △MMH+ [Da] MH+ [Da] [ppm]TQLYNRPHEEPSNSLMAIECBiotin-R Cys109 3 2939.360 2939.361 0.43CBiotin-mLAVGMSHNAIR Cys168 2 1722.824 1722.826 0.98D WT C168A WT C109A 2C-AGSNO + 一 + + 一 + +SNO-PPARγ =Input PPARγ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "stimulated Raw264.7 significantly suppressed the induction of PPARy target genes adiponectinand aP2 by rosiglitazone in 3T3-L1 cells (Fig.1C-D).Pretreatment of Raw264.7 with $1 4 0 0 \\mathsf { W } ,$ a selective inhibitor of iNOS,attenuated the suppressive effects of the Raw264.7 on the PPARy target genes.The treatment with 1400 W did not affect cell viability (Supplementary Fig. 1A). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3356a43e7af50f4fc8f10006017caa20d0c3e1799a64e407f8fb0aa6ca8013f1.jpg",
+        "img_caption": [
+            "Fig.6.Mutation of Cys168 reduced the suppression of $\\mathsf { P P A R } _ { \\mathbb { Y } }$ activity by GSNO. Wild type(WT) or mutant $\\mathsf { P P A R } _ { \\mathsf { Y } }$ (C168A) was co-transfected into HeLa cells with PPRE-TK-Luc.After $2 4 \\mathrm { h }$ ，cells were pretreated with GSNO for $^ { 4 \\mathrm { h } }$ and then stimulated with RSG for $2 4 \\mathrm { h }$ .Relative luciferase activities were shown as the fold induction. $\\mathfrak { s } \\mathfrak { s } _ { \\mathtt { p } } < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Interestingly, co-culture with Raw264.7 macrophages did not reduce the expression level of PPARy in 3T3-L1 cells (Fig.1E). These results suggested that pro-inflammatory macrophage-derived NO suppressed the induction of PPARy target genes in preadipocytes, likely via a negative regulation of the transactivation capacity of PPARy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.NO donor negatively regulated PPARy transcriptional activity ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To examine the suppressive effects of NO on PPARy transcriptional activity,3T3-L1 cells were treated with NO donor GSNO (1 mM,4h).In Fig.2A-C,qRT-PCR showed that the induction of adiponectin,aP2 and perilipin mRNA by rosiglitazone were significantly decreased by GSNO.GSNO had little effect on PPARy gene expression (Fig. 2D) and cell viability (Supplementary Fig.1B).Next,we performed luciferase reporter assay to examine the regulation of PPARy transcriptional activity by GSNO.HeLa cells were used because it lacks endogenous PPARy expression [28].After adenovirus-mediated overexpression of PPARy,cells were transfected with PPRE-TK-Luc and treated with GSNO.GSNO did not decrease HeLa cells viability significantly (Supplementary Fig.1C).As shown in Fig.2E,GSNO decreased the reporteractivity and the activation by rosiglitazone,indicating that the transactivation capacity of PPARy was compromised by the NO donor. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChIP assay was performed to explore whether the suppression of PPARy activity by NO was due to a decreased binding to the promoters of its target genes.As shown in Fig.3,GSNO significantly reduced the rosiglitazone-stimulated enrichment of PPARy on the cognate DNA elements within the murine aP2 and adiponectin promoter regions.Thus,inhibition of the PPARy DNAbinding capacity by NO might account for the suppression of PPARy activity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.PPARywasmodulatedbyS-nitrosylation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We examined whether NO negatively regulated PPARy activity by S-nitrosylation. IBP showed that co-culture with LPS-stimulated Raw264.7 macrophage increased S-nitrosylation of PPARy in 3T3- L1 cells. The iNOS inhibitor 1400 W reduced the PPARy ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "S-nitrosylation (Fig.4A). Similarly, GSNO treatment also increased PPARy S-nitrosylation. NAC,a compound known to promote denitrosylation， abrogated the GSNO-inducedS-nitrosylation (Fig. 4B). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Examination of the protein sequence of PPARy1 revealed 10 cysteine residues,which are conserved among human,mouse and rat (Fig. 5A).Nine of ten cysteine residues locate in the DNAbinding domain (DBD) of PPARy1.LC-MS/MS was used to identify the specific cysteine residues undergoing S-nitrosylation.Biotinmaleimide modified cysteines represented S-nitrosylated sites.As shown in Fig. 5B-C,Cys109 and Cys168 were found to be S-nitrosylated on mouse PPARy1by GSNO invitro.To furthervalidate whether these sites were S-nitrosylated in vivo,CMX-mPPARy1 with Cys109 or(and) Cys168 changed to alanine(C109A,C168A and2C-A)were constructed and transfected into HeLacells.IBP showed that the mutationat Cys168 but not Cys109 abolished the nitrosylation by GSNO (Fig. 5D). It was suggested that S-nitrosylation modified PPARy predominantly at Cys168 in vivo. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.S-nitrosylation diminished the transcriptional activity of PPARy ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To investigate the functionality of the PPARy S-nitrosylation, luciferase reporter assay was performed with wild type or the C168A mutant PPARy transfection. As shown in Fig. 6,GSNO decreased the reporter activity of wild type PPARy under basal and rosiglitazone-stimulated conditions.However, the suppressive effect of GSNO was not observed on the PPARy mutant (C168A). Hence，the inhibitory effect of GSNO on PPARy transcriptional activitywas largelyattributed to S-nitrosylationat Cys168. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5.Prolonged exposure to GSNOdecreasedPPARystability and blockedadipogenic differentiation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the chronic effect of PPARy S-nitrosylation,3T3-L1 cells were treated with GSNO for up to $2 4 \\mathrm { h }$ .Western blotting showed that the protein level of PPARy was decreased significantly in 3T3-L1 cells that Were exposed to GSNO for more than $^ { 1 2 \\mathrm { ~ h ~ } }$ (Fig.7A). Prolonged treatment with GSNO slightly decreased cell viability, but the difference was not statistical significant (Supplementary Fig.1B).NAC treatment before GSNO rescued the decrease of PPARy protein (Fig.7B).Pretreatment with MG132,a proteasome inhibitor,partially prevented the decrease of PPARy (Fig.7C).The lysosome inhibitor $\\mathsf { N H } _ { 4 } \\mathsf { C l }$ did not alleviated PPARy decline significantly (Fig. 7D).The results suggested the proteasome-dependent degradation might account for the impaired PPARy stability. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Since PPARy isan essential transcription regulator foradipogenesis,we examined the potential effect of GSNO on adipogenic differentiation.Primary preadipocyte was induced with insulin, IBMXand dexamethasone for8 days in the presence orabsence of GSNO. Oil red O staining showed that GSNO abrogated adipogenic differentiation (Fig.7E).Similarly, GSNO largely inhibited the rosiglitazone-stimulatedadipogenesis in 3T3-L1 cells (Fig.7F).Taken together, these results suggested that prolonged exposure to GSNO further impaired PPARy protein stability and its adipogenic activity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6.Macrophage infiltration and suppression ofPPARyactivityin visceral adipose tissue(VAT) of db/db mice ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Given the in vitro results that macrophages stimulated the S-nitrosylation and the exposure to nitrosative stress led to the impaired activityand degradation of PPARy,we further examined the relationship between pro-inflammatory macrophages and PPARy in visceral adipose tissue(VAT) obese diabetic db/db mice. Immunostaining of F4/8O revealed severe macrophage infiltration in db/db mice (Fig. 8A). Meanwhile,gene expression of iNOS was increased in db/db mice while the PPARy target gene adiponectin were decreased (Fig.8B).In primaryadipocytes from VAT of db/db mice,adiponectin and aP2 were also reduced by LPS-stimulated Raw264.7 macrophages in an iNOS-dependent manner (Supplementary Fig.2A-B). Immunoblotting showed that PPARy protein level was greatly decreased whereas the mRNA level was not reduced in VAT from db/db mice compared with those from $\\mathsf { d b } / \\mathsf { m }$ mice(Fig.8B,C).These results suggest a close link between the pro-inflammatory macrophage-derived nitrosative stress and impaired PPARy function in diabetes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ea89ebc4823ece3151a091fbf16df38ff5c0449c28e093ea213752523ee3c28.jpg",
+        "img_caption": [
+            "FigEte analyzed by Western blotting using antibodies against PPARy and $\\mathbf { \\alpha } \\propto$ -tubulin.(B) 3T3-L1 cells were pretreated with NAC ( $1 0 \\mathrm { m M }$ 2 h)and then GSNO (1 mM,12h).PPARγ protein level was analyzed.(C) After pre-treatment with or without MG132( ${ \\bf \\dot { \\theta } } _ { 1 0 \\ \\mu \\mathrm { M } , \\ 2 \\ \\mathrm { h } } ^ { * }$ ,3T3-L1 cells were exposed to GSNO for indicated times and analyzed for $\\mathsf { P P A R } _ { \\mathbb { Y } }$ protein expression.(D)3T3-L1 cells were treated with MG132(10 M) or (and) $\\mathsf { N H } _ { 4 } \\mathsf { C l }$ $\\mathrm { 2 0 ~ m M }$ for2h before GSNO(1 mM,12h) treatment.PPAR protein level was detected. (ERatepiddlpoell $( 1 0 ~ \\mu \\mathrm { M } )$ or DMSOfor3dasitoiotSdaypretreamenteiognicdierentitiasedithOiRedaigaleba $2 0 0 \\mu \\mathrm { m }$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4．Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we found that pro-inflammatory macrophages negatively regulated the transcriptional activityand protein stability of PPARy inadipocytes.The S-nitrosylation of $\\mathsf { P P A R } \\mathsf { \\Psi }$ at the cysteine 168 residue via the iNOS-derived NO mediated this effect.PPARy S-nitrosylation impaired its bindingabilityto the promoters of target genes and，hence， the ligand induced expression. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In obese adipose tissue,iNOS-derived NO is an inflammatory mediator secreted by pro-inflammatory macrophages that impairs local adipocyte function [3,29]. Increased iNOS expression [30] or plasma NO metabolites [31,32] correlated with obesity in obese mouse models or individuals.Here we reported that NO from macrophage iNOS reduced PPARy activity and adiponectin eXpression in adipocytes (Fig.1C).This result provides new evidence that macrophage-derived NO is a culprit for adipocyte dysfunction in obese diabetes.Further study revealed that NO-induced increased S-nitrosylation of PPARy was responsible for the reduced adiponectin expression,indicating the impaired insulin signaling. Increased NO or protein S-nitrosylation Was also reported to affect insulin action.In db/db or ob/ob obese diabetic mice,diet-induced obesity and liver-specific iNOS transgenic mice,increased S-nitrosylation repressed insulin receptor $\\beta$ (IRβ）and Akt activity,or insulin receptor substrate-1 (IRS-1）expression，blunting the insulin action in skeletal muscle and liver [33-35].NO donors also impaired anti-lipolytic action of insulin by S-nitrosylation of phosphodiesterase 3B (PDE3B) in cultured adipocytes or mice [36]. Here,our finding that suppression of PPARy by S-nitrosylation provides a new mechanism of insulin resistance caused by macrophage-derived NO during obesityand obese diabetes.However, pro-inflammatory macrophages also secreted several other proinflammatory factors such as IFNy.These pro-inflammatory cytokines also impair the adipocytes'function and contribute to insulin resistance.This notion is supported by the fact that the suppressive effect of pro-inflammatorymacrophages on the PPARy target geneinadipocyteswas largelyattenuated but not fullyabolished bythe iNOS inhibitor(Fig.1C,D). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9940a3dae1cd3582f7a370951978ae003b21f0814af733126879abdf2a2fca2b.jpg",
+        "img_caption": [
+            "S-nitrosylation of PPARy: A potential link between inflammation and insulin resistance. ",
+            "Fig.8.Macrophage infiltration and suppression of $\\mathsf { P P A R } _ { \\mathsf { Y } }$ activity in visceraladipose tissue (VAT)ofdb/db mice.Epididymaladipose tissues were taken fromdb/db or db/m mice.(A) Immunohistochemical stainings for $\\mathrm { F } 4 / 8 0$ were performed on the parafin-embedded sections.Scale bar: $1 0 0 { \\mu \\mathrm { m } } .$ (B) qRT-PCR analysis of iNOS,adiponectin,aP2 and PPARy gene expression $\\scriptstyle ( \\ n = 6 )$ .(C）Protein levels of PPARy and $\\alpha$ -tubulin were detected with Western blotting.The bar graphs show mean $\\pm { \\sf S E M }$ $\\mathrm { ( n } { = } 6 )$ ： $\\mathfrak { ^ { * } p } < 0 . 0 5$ (DProosdad post-translational modification of PPARy via S-nitrosylation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study,we revealed the repression of PPARy by NO, which was supported by decreased PPARy transcription activity and protein level (Figs.1,2,7). Consistently,several studies had indicated thatNO signaling might regulate PPARy function.In 3T3- L1 cells,NO donors decreased PPARy promoter activity on adiponectin gene [37] and DNA-binding activity [24]. In adipose tissue of iNOS-deficient mice,PPARy protein was increased,indicating the decrease of PPARy protein level by NO.Furthermore,under a high fat diet,the insulin sensitizing effect of rosiglitazone was enhanced in these mice [38]. These observations implied a causative relationship between nitrosative milieu and the impaired PPARy function in adipocytes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "S-nitrosylation is sensitive to redox state.S-nitrosylation is sensitive to redox state.GSNOR and thioredoxin/thioredoxin reductase $( \\mathrm { T r } \\mathbf { x } / \\mathrm { T r } \\mathbf { x } \\mathbf { R } )$ are major systems to denitrosylate protein S-nitrosylation [39,4O]. It was reported that deletion of thioredoxin-interacting protein (Txnip，or VDUP1,TBP-2)，a protein inhibiting Trx activity [41,42],enhanced PPARy activity and the rosiglitazone-stimulated adipogenesis,preserving insulin sensitivity [43].These results indicated that denitrosylation protected PPARy function,corroborating that PPARy function is impaired by S-nitrosylation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We found that S-nitrosylation inhibits PPARy through two distinct mechanisms.Firstly,short term exposure to GSNO caused theS-nitrosylation of PPARy leading to decreased transcriptional activity，asevidenced bya reduced activation of PPARy target genes adiponectin and aP2 (Figs.1,2) as well as the PPARy reporter activity. This was likely due to the location of the thiolmodified cysteine within the DBD of PPARy (cysteine 168) Therefore,the S-nitrosylation decreased the ligand-induced PPARy binding to the target genes (Fig.3). In fact, S-nitrosylation of the cysteine residues within DBD in several other transcription factors including NFkB,androgen receptor,MEF2 and c-myb has been documented to repress their transcriptional activities [44-47]. Thiol-modification was known to disrupt the conformational flexibility of the DBD [46,47]. On the other hand,extended exposure to nitrosative stress further impaired the protein stability of PPARy (Fig.7A).This could be attributed to the accelerated degradation of PPARy in proteasome because the proteasome inhibitor MG132 partially rescued the GSNO induced degradation (Fig.7C).Itisworth noting that lysosome pathway might also be involved in this process since the degradation was prevented in the presence of MG132 and $\\mathsf { N H } _ { 4 } \\mathsf { C l }$ ,a lysosome inhibitor (Fig.7D). Asa de-nitrosylating agent,NAC decreased the S-nitrosylation of PPARy(Fig.4B)and the PPARy degradation induced by GSNO (Fig.7B),supporting a role of S-nitrosylation in decreasing the PPARy stability. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Db/db mouse is featured with severe obesity and insulin resistance，thus considered as a rodent model for human type 2 diabetes.We demonstrated that pro-inflammatory macrophages suppressed adiponectin and $a P 2$ expression in primary adipocytes from db/db mice in an iNOS-dependent manner (Supplementary Fig.2).We also showed that increased accumulation of macrophages,induced iNOs expression and suppressed adiponectin expression in the VAT of db/db mice (Fig.8A,B),indicatinga link between nitrosative milieu and decreased PPARy activity. Surprisingly,PPARy protein level was significantly decreased compared to the control db/m mice (Fig. 8C).A similar decrease in PPARy protein level was previously reported in adipose tissue from obese women with gestational diabetes [48].Whether the decreased PPARy level in VAT of db/db mice resulted from the chronic nitrosative stress and accelerated degradation remains to beinvestigated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we demonstrated that pro-inflammatory macrophagesnegativelyregulated adipocyte PPARyactivity via S-nitrosylation. These results may provide a novel link between metabolic inflammation and the development of insulin resistance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dualityof Interest ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "No potential conflicts of interest relevant to this article were reported. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "N.W.and C.C.conceptualized and designed the research; R.Y., Y. L.and Y.L.performed the experiments;R.Y.analyzed the data; Y.L., L.F.and P.X.analyzed the data about Mass Spectrometry.Y.G.and Y.C.contributed to the in vivo study.R.Y.and P.X.drafted the manuscript;N.W.and C.C.edited and revised the manuscript;and R.Y.,L.F.,Y.L.,P.X.,Y.L.,Y.G.,Y.C, C.C.and N.W.approved the final version of the manuscript.N.W.and C.C.are the guarantors of this work and,as such,had full access to all the data in the studyand take responsibility for the integrity of the data and the accuracy of the data analysis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements/Funding ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Natural Science Foundation of China (31430045,81470373,81220108005, 31225O12）and the National Basic Research Program of China (2011CB910900 and 2012CB911000). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary material ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with thisarticle can be found in ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "the online version at http://dx.doi.org/10.1016/j.freeradbiomed.   \n2015.10.406. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] E.E. Kershaw,J.S. Flier, Adipose tissue as an endocrine organ,J Clin Endocrinol Metab. 89 (2004) 2548-2556.   \n[2] G.S.Hotamisligil, Inflammation and metabolic disorders,Nature.444 (2006) 860-867.   \n[3] S.P. Weisberg, D. McCann, M. Desai, M. Rosenbaum, R.L. Leibel, A.W. Ferrante Jr. Obesity is associated with macrophage accumulation in adipose tissue, J Clin Invest. 112 (2003） 1796-1808.   \n[4] LK. Heilbronn,LV. Campbell,Adipose tissue macrophages,low grade inflammation and insulin resistance in human obesity, Curr Pharm Des 14 (2008) 1225-1230.   \n[5]H. Xu, G.T. Barnes, Q. Yang, G. Tan, D. Yang, C.J. Chou, J. Sole, A. Nichols, J. S. Ross,LA. Tartaglia, H. Chen, Chronic inflammation in fat plays a crucial role in the development of obesity-related insulin resistance,J Clin Invest. 112 (2003） 1821-1830.   \n[6] B.M. Spiegelman, Peroxisome proliferator-activated receptor gamma: A key regulator of adipogenesis and systemic insulin sensitivity, Eur J Med Res. 2 (1997) 457-464.   \n[7] M. Lehrke, M.A. Lazar, The many faces of PPARgamma, Cell 123 (2005) 993-999.   \n[8] R.T. Nolte, G.B. Wisely, S. Westin, J.E. Cobb, M.H. Lambert, R. Kurokawa, M. G. Rosenfeld, T.M. Willson, C.K. Glass, M.V. Milburn, Ligand binding and coactivator assembly of the peroxisome proliferator-activated receptor-gamma, Nature. 395 (1998) 137-143.   \n[9] A. Ibrahimi, L. Teboul, D. Gaillard, E.Z. Amri, G. Ailhaud, P. Young, M. A. Cawthorne,P.A. Grimaldi, Evidence for a common mechanism of action for fatty acids and thiazolidinedione antidiabetic agents on gene expression in preadipose cels, Mol Pharmacol. 46 (1994) 1070-1076.   \n[10] j.M. Lehmann, LB. Moore, TA. Smith-Oliver, W.O. Wilkison, T.M. Willson, S. A. Kliewer,An antidiabetic thiazolidinedione is a high affinity ligand for peroxisome proliferator-activated receptor gamma (PPAR gamma), J Biol Chem. 270 (1995) 12953-12956.   \n[11] N.R. Coe, M.A. Simpson, D.A. Bernlohr, Targeted disruption of the adipocyte lipid-binding protein (aP2 protein) gene impairs fat cel lipolysis and increases cellular fatty acid levels,J Lipid Res. 40 (1999) 967-972.   \n[12] S. Carobbio, R.M. Hagen, C.J. Lelliott, M. Slawik, G. Medina-Gomez, C.Y. Tan, A. Sicard, H.J. Atherton, N. Barbarroja, M. Bjursell, Y.M. Bohlooly, S. Virtue, A. Tuthill, E. Lefai, M. Laville, T. Wu, R.V. Considine,H. Vidal, D. Langin, M. Oresic,FJ. Tinahones,JM.Fernandez-Real, JL Griffin,J.K.Sethi, M.Lopez, A. Vidal-Puig, Adaptive changes of the Insig1/SREBP1/SCD1 set point help adipose tissue to cope with increased storage demands of obesity, Diabetes. 62 (2013) 3697-3708.   \n[13] S.Nagai, C. Shimizu, M. Umetsu, S.Taniguchi, M. Endo, H. Miyoshi, N. Yoshioka, M. Kubo,T. Koike, Identification of a functional peroxisome proliferator-activated receptor responsive element within the murine perilipin gene, Endocrinology. 145 (2004) 2346-2356.   \n[14] A. Tsuchida, T. Yamauchi, T. Kadowaki, Nuclear receptors as targets for drug development: molecular mechanisms for regulation of obesity and insulin resistance by peroxisome proliferator-activated receptor gamma, CREB-binding protein,and adiponectin, J Pharmacol Sci. 97 (2005) 164-170.   \n[15] T. Kadowaki, T. Yamauchi, N. Kubota, K. Hara, K. Ueki, K. Tobe, Adiponectin and adiponectin receptors in insulin resistance, diabetes,and the metabolic syndrome,J Clin Invest. 116 (2006) 1784-1792.   \n[16] G.C. Brown, V. Borutaite, Interactions between nitric oxide,oxygen,reactive oxygen species and reactive nitrogen species, Biochem Soc Trans.34 (2006) 953-956.   \n[17] P. Codoner-Franch, S. Tavarez-Alonso, R. Murria-Estal, J. Megias-Vericat, M. Tortajada-Girbes,E. Alonso-Iglesias, Nitric oxide production is increased in severely obese children and related to markers of oxidative stress and inflammation, Atherosclerosis. 215 (2011) 475-480.   \n[18]S. Furukawa, T. Fujita,M. Shimabukuro,M. Iwaki, Y. Yamada, Y. Nakajima, O. Nakayama, M. Makishima, M. Matsuda,I. Shimomura, Increased oxidative stress in obesity and its impact on metabolic syndrome,J Clin Invest. 114 (2004) 1752-1761.   \n[19] M.W. Akhtar, C.R. Sunico, T. Nakamura, S.A. Lipton, Redox Regulation of Protein Function via Cysteine S-Nitrosylation and Its Relevance to Neurodegenerative Diseases,Int J Cell Biol. 2012(2012) 463756.   \n[20] J.S. Stamler, Redox signaling: nitrosylation and related target interactions of nitric oxide, Cell. 78 (1994) 931-936.   \n[21] D.T. Hess, A. Matsumoto, S.O. Kim, H.E. Marshal, J.S. Stamler,Protein S-nitrosylation: purview and parameters, Nat Rev Mol Cell Biol. 6 (2005) 150-166.   \n[22]D.T. Hess, J.S. Stamler, Regulation by S-nitrosylation of protein post-translational modification,J Biol Chem. 287 (2012) 4411-4418.   \n[23]D. Lacasa, S. Taleb,M. Keophiphath,A.Miranville,K. Clement, Macrophagesecreted factors impair human adipogenesis: involvement of proinflammatory state in preadipocytes, Endocrinology. 148 (2007) 868-877.   \n[24] H. Kawachi, N.H. Moriya, T. Korai, S.Y. Tanaka, M. Watanabe, T. Matsui, T. Kawada, H. Yano, Nitric oxide suppresses preadipocyte differentiation in 3T3-L1 culture,Mol Cell Biochem. 300 (2007) 61-67.   \n[25] N. Wang, L. Verna, N.G. Chen, J. Chen, H. Li, B.M. Forman, M.B. Stemerman, Constitutive activation of peroxisome proliferator-activated receptor-gamma suppresses pro-inflammatory adhesion molecules in human vascular endothelial cells,JBiol Chem. 277(2002) 34176-34181.   \n[26] B. Huang, C. Chen, Detection of protein S-nitrosation using irreversible biotinylation procedures (IBP), Free Radic Biol Med. 49 (2010) 447-456.   \n[27] L. Kall, J.D. Canterbury, J. Weston,W.S. Noble,M.J. MacCoss, Semi-supervised learning for peptide identification from shotgun proteomics datasets, Nat Methods.4 (2007) 923-925.   \n[28] D.S. Straus, G. Pascual, M. Li, J.S. Welch, M. Ricote, C.H. Hsiang, L. L. Sengchanthalangsy, G. Ghosh, C.K. Glass,15-deoxy-delta 12,14-prostaglandin J2 inhibits multiple steps in the NF-kappa B signaling pathway, Proc Natl Acad Sci U S A. 97 (2000) 4844-4849.   \n[29] C.N. Lumeng, S.M. Deyoung, J.L. Bodzin, A.R. Saltiel, Increased inflammatory properties of adipose tissue macrophages recruited during diet-induced obesity,Diabetes.56 (2007) 16-23.   \n[30] M.Perreault,A.Marette,Targeted disruption of inducible nitric oxide synthase protects against obesity-linked insulin resistance in muscle, Nat Med 7 (2001) 1138-1143.   \n[31] A. Ghasemi, S. Zahediasl, F. Azizi, Elevated nitric oxide metabolites are associatedwith obesity in women,Arch Iran Med.16(2013) 521-525.   \n[32] J.W. Choi, S.H. Pai, S.K. Kim,M. Ito, C.S. Park, Y.N. Cha, Increases in nitric oxide concentrations correlate strongly with body fat in obese humans, Clin Chem. 47 (2001) 1106-1109.   \n[33] T. Yasukawa, E. Tokunaga, H. Ota, H. Sugita, J.A. Martyn,M. Kaneki, S-nitrosylation-dependent inactivation of Akt/protein kinase B in insulin resistance,J Biol Chem.280 (2005) 7511-7518.   \n[34]M.A. Carvalho-Filho,M. Ueno, S.M. Hirabara,A.B.Seabra,J.B. Carvalheira,M. G. de Oliveira, L.A. Velloso, R. Curi, M.J. Saad, S-nitrosation of the insulin receptor, insulin receptor substrate 1,and protein kinase B/Akt: a novel mechanism of insulin resistance,Diabetes.54(2005) 959-967.   \n[35] S. Shinozaki, C.S. Choi, N. Shimizu, M. Yamada, M. Kim, T. Zhang, G. Shiota,H. H.Dong, Y.B. Kim,M. Kaneki, Liver-specific inducible nitric-oxide synthase expression is sufficient to cause hepatic insulin resistance and mild hyperglycemia in mice, $J$ Biol Chem. 286 (2011) 34959-34975.   \n[36]H. Ovadia,Y. Haim, O. Nov, O. Almog, J. Kovsan, N. Bashan,M. Benhar, A. Rudich, Increased adipocyte S-nitrosylation targets anti-lipolytic action of insulin:relevance to adipose tissue dysfunction in obesity,J Biol Chem.286 (2011) 30433-30443.   \n[37] M.Nozaki, A. Fukuhara, K. Segawa, Y. Okuno, M. Abe,N. Hosogai, M. Matsuda, R. Komuro, I. Shimomura, Nitric oxide dysregulates adipocytokine expression in 3T3-L1 adipocytes, Biochem Biophys Res Commun. 364 (2007) 33-39.   \n[38]P. Dallaire,K. Bellmann,M. Laplante,S. Gelinas, C. Centeno-Baez,P.Penfornis, M.L. Peyot, M.G. Latour, J. Lamontagne, M.E. Trujillo, P.E. Scherer, M. Prentki, Y. Deshaies, A. Marette, Obese mice lacking inducible nitric oxide synthase are sensitized to the metabolic actions of peroxisome proliferator-activated receptor-gamma agonism, Diabetes. 57 (2008) 1999-2011.   \n[39]M. Benhar,M.T. Forrester, J.S. Stamler,Protein denitrosylation: enzymatic mechanisms and cellular functions,Nat Rev Mol Cell Biol.10 (20o9) 721-732.   \n[40]M. Benhar,M.T. Forrester, D.T. Hess, J.S. Stamler,Regulated protein denitrosylation by cytosolic and mitochondrial thioredoxins, Science. 32o (2008) 1050-1054.   \n[41]E. Junn, S.H. Han, J.Y. Im, Y. Yang, E.W. Cho, H.D. Um, D.K. Kim, K.W. Lee,P. L. Han, S.G. Rhee, I. Choi, Vitamin D3 up-regulated protein 1 mediates oxidative stress via suppressing the thioredoxin function,J Immunol. 164 (2000) 6287-6295.   \n[42] T. Lane, B. Flam, R. Lockey, N. Kolliputi, TXNIP shuttling: missing link between oxidative stress and inflammasome activation, Front Physiol 4 (2o13)50.   \n[43]W.A. Chutkow, A.L. Birkenfeld,J.D.Brown, H.Y. Lee, D.W. Frederick,J. Yoshioka, P. Patwari, R. Kursawe, S.W. Cushman, J. Plutzky, G.I. Shulman, V.T. Samuel, R. T. Lee,Deletion of the alpha-arrestin protein Txnip in mice promotes adiposity and adipogenesis while preserving insulin sensitivity, Diabetes.59 (2010) 1424-1434.   \n[44] H.E. Marshall, D.T. Hess, J.S. Stamler, S-nitrosylation: physiological regulation of NF-kappaB, Proc Natl Acad Sci U S A. 101 (2004) 8841-8842.   \n[45] Y. Qin, A. Dey, H.T. Purayil, Y. Daaka, Maintenance of androgen receptor inactivation by S-nitrosylation, Cancer Res.73(2013) 6690-6699.   \n[46] E.M. Brendeford, K.B. Andersson, O.S. Gabrielsen, Nitric oxide (NO) disrupts specific DNA binding of the transcription factor c-Myb in vitro,FEBS Lett. 425 (1998) 52-56.   \n[47] S. Okamoto, T. Nakamura,P. Cieplak, S.F. Chan, E. Kalashnikova, L. Liao, S.Saleem, X.Han, A. Clemente,A. Nutter, S. Sances, C. Brechtel, D. Haus, F. Haun, S. Sanz-Blasco, X. Huang,H. Li, J.D. Zaremba, J. Cui, Z. Gu, R. Nikzad, A. Harrop,S.R. McKercher,A. Godzik,J.R. Yates 3rd, S.A.Lipton,S-nitrosylationmediated redox transcriptional switch modulates neurogenesis and neuronal cell death, Cell Rep 8 (2014) 217-228.   \n[48] P.M. Catalano, S.E. Nizielski, J. Shao, L. Preston, L. Qiao, J.E. Friedman, Downregulated IRS-1 and PPARgamma in obese women with gestational diabetes: relationship to FFA during pregnancy, Am JPhysiol Endocrinol Metab. 282 (2002) E522-E533. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,211 @@
+# 巴丹吉林沙漠南缘沙地芦苇种群生态特征
+
+刘鑫¹²，焦健，王婷¹²，张玲豫¹²，李朝周1,2（1.甘肃农业大学生命科学技术学院,甘肃 兰州730070；2.甘肃省作物遗传改良和种质创新重点实验室，甘肃 兰州730070；3.甘肃农业大学林学院，甘肃 兰州730070)
+
+摘要：对天然分布在巴丹吉林沙漠南缘2种沙地生境(盐渍沙地、普通沙地)芦苇(Phragmites australis)分株种群的构件特征、种群年龄结构、动态特征及种群空间分布格局进行调查,研究表明：(1)盐渍沙地土壤含水量和含盐量都显著大于普通沙地,普通沙地芦苇的株高、生物量以及各构件的生物量整体上都高于盐渍沙地的芦苇,土壤含水量和含盐量是该地区芦苇形态特征差异的重要驱动因素。（2)不同生境样地因土壤条件及种间竞争程度的差异，芦苇种群呈现出不同的年龄结构以及数量动态变化，普通沙地芦苇种群趋向于衰退型,盐渍沙地芦苇种群表现为增长型。(3)普通沙地中芦苇种群空间分布格局在 $0 { \sim } 4 \mathrm { m }$ 尺度上表现为聚集分布，在大于 $4 \mathrm { m }$ 的尺度上表现为随机分布；盐渍沙地的函数值基本都在2条包迹线之间，在 $0 { \sim } 1 0 \mathrm { m }$ 的尺度内均为随机分布。
+
+关键词：巴丹吉林沙漠；沙地；芦苇种群；构件特征；年龄结构；数量动态；空间分布格局
+
+巴丹吉林沙漠南缘地处于河西走廊中北部，是绿洲与荒漠交互作用的前沿，因此被称为绿洲-荒漠过渡带，过渡带植被的生长状况与种群动态决定着绿洲的衰退和扩张。在内陆荒漠气候条件下，土壤水、盐条件是过渡带稳定性与植被变化的主要驱动因素。近几十年来在人类活动和区域气候变化双重驱动下，该地区地下水位逐年下降，土壤旱化、盐渍化加剧，植被生长受到限制，亟需进一步加强植被保护工作,维护生态安全[1]。
+
+芦苇(Phragmitesaustralis)是一种广泛分布的多年生禾本科芦苇属植物，其典型生境为河、湖畔边以及沼泽等湿地生境。由于芦苇具有很强的适应性，在环境条件不良的情况下也能长期生活形成不同的生态型[2-3]。天然生长的芦苇为该研究地区植被的主要建群种之一，作为典型的克隆植物，芦苇萌生能力强，由众多根茎串联交织的克隆株系增加了下垫面的粗糙度，具有减轻风沙危害、固定流沙、有效遏制沙漠扩张、保护绿洲以及植被恢复和重建的作用，在河西走廊的绿洲荒漠过渡带具有重要生态地位。对芦苇的研究以往多集中于湿润及半湿润地区的水生芦苇[4-10],近年来也有不少关于干旱地区芦苇的研究[1I-14],但对沙生芦苇种群生态的研究鲜见报道。
+
+本研究尝试在巴丹吉林沙漠南缘，选取有芦苇天然分布的盐渍沙地生境和普通沙地生境设置样地，探讨2种沙地生境下芦苇的生长特征、种群动态及空间分布格局，揭示绿洲-荒漠过渡带上芦苇的生存现状以及种群数量动态变化规律等，为这一地区植被保护、环境治理及绿洲生态系统的稳定提供理论支持。
+
+# 研究区与研究方法
+
+# 1.1 研究区概况
+
+调查样地设在张掖市临泽县鸭暖镇古寨村沙地，位于巴丹吉林沙漠南缘地区 $( 9 9 ^ { \circ } 5 1 ^ { \prime } { \sim } 1 0 0 ^ { \circ } 3 0 ^ { \prime } \mathrm { E }$ $3 8 ^ { \circ } 5 7 ^ { \prime } { \sim } 3 8 ^ { \circ } 8 5 ^ { \prime } \mathrm { N } .$ )，2个生境样地分布于 $5 ~ \mathrm { k m }$ 以内(图1),故认为其气候条件相同,均为典型的干旱荒漠气候，年降水量为 $1 1 8 ~ \mathrm { m m }$ ，且主要分布在7—9月，年蒸发量 $2 2 3 8 ~ \mathrm { m m }$ ,风沙较大,水分配置极不均衡，土壤沙化、次生盐渍化严重，植物的生长环境十分恶劣[15]。芦苇为该地主要建群种，主要伴生种有梭梭（Haloxylonammodendron）、骆驼蓬（Peganumharmala）怪柳(Tamarixchinensis)等。该地区芦苇起源于黑河两岸沼泽生境中，在长期适应盐渍化土壤和沙丘生境的不断演化中，其形态结构已发生了与特定环境相适应的显著变化[16]
+
+![](images/f6f919d742909b1f58f258e03b6d278537dd4f8b7fa5605736263a7fdfac28b9.jpg)  
+图1研究样地示意图  
+Fig.1 Schematic diagram of the research plot
+
+# 1.2样地设置
+
+2019年9月下旬，经充分踏查，在盐渍沙地和普通沙地2种生境中，选取芦苇分布较为集中的区域，分别设置3个 $2 0 ~ \mathrm { m } { \times } 2 0 ~ \mathrm { m }$ 的样地，统计芦苇分株的数量及各基株的叶片数，用于芦苇分株年龄结构的分析。2种沙地生境的各样地内用"w"形方法，随机取20株芦苇生殖分株，齐地面剪下，每个生境3个样地，共60株，测量分株株高、基径和花序长随后带回实验室。芦苇分株种群分布格局的调查采用相邻格子法，随机选取各生境中的1个样地，将 $2 0 ~ \mathrm { m } \times \mathrm { \Omega }$ $2 0 ~ \mathrm { m }$ 的样地分割成400个 $ { 1 \mathrm { ~ m } } \times  { 1 \mathrm { ~ m ~ } }$ 的小样方，以小样方西南方向的顶点为原点，测量并记录每株芦苇相对坐标原点的二维空间位置。
+
+# 1.3分株构件生物量的测定
+
+将每株芦苇的各部分构件分开剪下带回实验室，用锡箔纸分别包起来，标上相应的记号。标记好后放进干燥箱内，在 $8 0 ~ \mathrm { { ^ circ C } }$ 下烘干 $5 0 \mathrm { h }$ 。用分析天平称量茎、叶、叶鞘和花序的干重，把各部分构件的干重合计为地上部分生物量。
+
+# 1.4芦苇分株种群数量动态分析
+
+1.4.1 种群年龄结构以及静态生命表植物种群年龄结构对于种群动态的研究具有重要意义。木本植物一般采用胸径或者株高作为划分龄级的指标，该方法不太适合芦苇这种多年生的无性系草本植物。焦德志等[17-18]用根茎挖掘法研究芦苇的根茎年龄结构，此调查方法对沙漠植被的破坏性较大。本研究尝试采用以基株叶片数划分芦苇的龄级[19]，以12片叶为芦苇的基础龄级(I龄），以2片叶为1个龄级递增量，共划分为6个龄级。统计样方中各龄级的植株数，以各龄级代表相对年龄作为纵轴，以各龄级植物个体数为横轴，绘制种群年龄结构椎体图。
+
+种群静态生命表采用"空间代替时间"的方法编制[20],进而分析其动态变化。生命表中各参数含义详见文献[21]。
+
+1.4.2存活曲线与死亡曲线以龄级为横坐标，以静态生命表中的死亡率和标准化存活数为纵轴，绘制得到芦苇种群的死亡曲线和存活曲线。
+
+1.4.3生存分析本研究引入4个生存分析中的函数进一步分析2种沙地生境芦苇种群数量动态变化，更好地阐明芦苇种群的生存规律，这4个函数公式如下[22]：
+
+生存率函数： $S _ { ( x ) } { = } S _ { 1 } { \bullet } S _ { 2 } { \bullet } S _ { 3 } { \bullet } S _ { 4 } { , \bullet \bullet } , S _ { x }$ 累积死亡率函数： $F _ { ( x ) } = 1 { - } S _ { ( x ) }$ 死亡密度函数 $\smash { \mathfrak { s f } _ { ( t x ) } \equiv ( S _ { x - 1 } - S _ { x } ) / h _ { x } }$
+
+危险率函数： $\lambda _ { \mathit { \Pi } _ { ( t x ) } } = 2 ( 1 - S _ { x } ) / \big [ h _ { x } \left( 1 + S _ { x } \right) \big ]$ 式中： $S _ { x }$ 为存活率； $h _ { x }$ 为区间长度(龄级宽度)。根据计算的函数值，绘制相应曲线。
+
+# 1.5芦苇种群空间分布的点格局分析
+
+采用Ripley'sK函数分析芦苇种群的点格局。点格局分析方法[23被广泛应用于植物种群空间分布格局及种间关系的研究[24-25]。函数方程式如下：
+
+$$
+K ( d ) = \frac { A } { n ^ { 2 } } { \sum _ { i } ^ { n } } { \sum _ { j } ^ { I } } \frac { d ( u _ { i j } ) } { W _ { i j } } \left( i \neq j \right)
+$$
+
+式中： $\boldsymbol { \mathscr { A } }$ 为样方面积； $n$ 为个体数; $d$ 为距离尺度; $u _ { i j }$ 为$i$ 和 $j$ 两点间的距离； $I _ { d } ( u _ { i j } )$ 为指示函数，当 $u _ { i j } \leqslant d$ 时， $I _ { d }$ $( u _ { i j } ) { = } 1$ ，当 $u _ { i j } > d$ 时， $I _ { d } ( u _ { i j } ) { = } 0 ; w _ { i j }$ 为权重，用于进行边缘校正。种群的空间格局在不同尺度下往往呈现出不同类型的分布格局[26]
+
+# 1.6沙丘土壤的水分和盐分含量测定
+
+由于芦苇根系深度主要分布在 $1 \mathrm { m }$ 以内土层，将各生境样地按土层间隔 $2 0 \mathrm { c m }$ 深度分为5层，用土钻(直径 $2 \mathrm { c m }$ )进行土壤取样，3次重复，将之混匀带回实验室。用烘干法测定土壤含水量，质量法测定土壤含盐量[27],重铬酸钾加热法测有机质含量[28]
+
+# 1.7数据处理
+
+数据的整理与处理均在Excel2010和SPSS26.0中进行，采用单因素方差分析，点格局的分析在Programita（Wiegand,2018版)软件中进行,采用Origin2018软件制图。
+
+# 2 结果与分析
+
+# 2.1不同沙地生境的土壤因子
+
+2种沙地生境土壤含水量、含盐量及 $\mathrm { \ p H }$ 均存在显著性差异( $( P { < } 0 . 0 5 )$ (表1)，从盐渍沙地向普通沙地过渡时土壤的水分含量、盐含量以及 $\mathrm { \ p H }$ 均显著降低。2种沙地生境的有机质含量不存在显著差异,且含量都小于 $1 \ { \mathrm { g } } \cdot { \mathrm { k g } } ^ { - 1 }$ 。
+
+# 2.22种沙地生境芦苇分株构件特征及生物量
+
+盐渍沙地上生长的芦苇基株高度、基径长度、花序长度都是显著小于普通沙地上生长的芦苇,生长在盐渍沙地芦苇的分蘖数大于生长在普通沙地的芦苇(表2);这说明盐渍沙地土壤的含盐量较高，抑制了芦苇的生长，并侧生出更多的分蘖。
+
+盐渍生境芦苇的叶生物量，茎生物量，花序生物量以及地上部分生物量显著低于普通沙地生长的芦苇，盐渍生境芦苇的地上部分生物量只占到普通沙地的 $6 0 . 5 5 \%$ 。2种生境的叶鞘生物量没有显著性差异，但盐渍生境的大于普通沙地的(表3)。
+
+# 2.32种沙地生境芦苇分株种群年龄结构与动态特征
+
+2.3.1龄级结构及静态生命表分析通过统计各龄级芦苇植株的数量，绘制不同类型样地芦苇种群的年龄结构图(图2)。从图2可以看出，盐渍沙地样地中芦苇分株数量大于盐渍沙地，数量达到373株，其中第I、Ⅱ龄级的植株就占植株总数的 $4 9 . 8 6 \%$ 。盐渍沙地芦苇种群的年龄结构呈金字塔型，属于典型的增长型种群，说明芦苇种群能够很好的适应这种自然条件，能够稳定的维持发展下去。普通沙地样地的芦苇株数是154株，种群的年龄结构呈现纺锤形，中间大两头小的正态分布，表明种群中的中年个体占比较大，幼苗的储量较少,成年植株占比较多，目前处于稳定状态，后期可能因为幼苗的成长不足以平衡成年植株的衰老过程，因此该生境芦苇种群类型属于稳定至衰退型
+
+# 表12种生境的土壤因子
+
+<html><body><table><tr><td>生境类型</td><td>水分/%</td><td>盐分1%</td><td>pH</td><td>有机质/(g·kg-1)</td></tr><tr><td>盐渍沙地</td><td>16.02±0.83a</td><td>2.13±0.33a</td><td>8.66±0.08a</td><td>0.73±0.02a</td></tr><tr><td>普通沙地</td><td>9.15±0.77b</td><td>0.70±0.06b</td><td>7.53±0.13b</td><td>0.69±0.03a</td></tr></table></body></html>
+
+注：同列不同小写字母表示样地间具有显著差异( $( P { < } 0 . 0 5 )$ 。下同。
+
+表22种生境芦苇分株构件特征  
+Tab.2 Component characteristics of Phragmites australis ramets in two habitats   
+表32种生境芦苇分株地上部分生物量  
+
+<html><body><table><tr><td>生境类型</td><td>株高/cm</td><td>基径/mm</td><td>花序长度/cm</td><td>分蘖数</td></tr><tr><td>盐渍沙地</td><td>63.33±18.06b</td><td>2.70 ±1.21b</td><td>14.30±7.65b</td><td>7.54 ±3.56a</td></tr><tr><td>普通沙地</td><td>115.12 ±47.4a</td><td>4.90 ±3.96a</td><td>21.88 ±4.23a</td><td>4.25 ±0.44b</td></tr></table></body></html>
+
+Tab.1 Soilfactorsintwo habitats   
+Tab.3Aboveground biomass ofPhragmites australis ramets in two habitats   
+
+<html><body><table><tr><td>生境类型</td><td>叶鞘生物量/g</td><td>叶生物量/g</td><td>茎生物量/g</td><td>花序生物量/g</td><td>地上部分生物量/g</td></tr><tr><td>盐渍沙地</td><td>1.43±0.17a</td><td>1.85±0.21b</td><td>3.96±0.06b</td><td>0.84±0.03b</td><td>6.2±3.11b</td></tr><tr><td>普通沙地</td><td>1.06±0.25a</td><td>2.46±0.44a</td><td>5.28±0.32a</td><td>1.37±0.25a</td><td>10.24±4.34a</td></tr></table></body></html>
+
+注：I龄级小于12片叶,Ⅱ龄级12\~14片叶,Ⅲ龄级14\~16片叶,IV龄级16\~18片叶，V龄级18\~20片叶,V龄级大于20片叶。下同。
+
+![](images/7e0b8767bb2c50815cda1e4409778dc4146de196ccd8a4299c20b3a74ebb3aa4.jpg)  
+图22种生境芦苇种群年龄结构  
+Fig.2 Age structure ofPhragmites australis in two habitats
+
+由表4可以看出，盐渍沙地中芦苇随着龄级的增长种群平均存活数 $( l _ { x } )$ 逐渐减小，普通沙地中平均存活数 $( l _ { x } )$ 则是先增加后减小;2个样地种群的死亡率 $( q _ { x } )$ 和消失率 $( K _ { x } )$ 都在第V龄时达到最大值，表明种群从第 $\mathrm { \Delta V }$ 龄过渡到第VI时受到较强的干扰，从而导致了较高的死亡率。种群的生命期望 $\left( e _ { x } \right)$ 都呈现下降趋势，这样的变化规律也符合种群渐渐接近生理寿命的生物学特点。
+
+2.3.2存活曲线与死亡率曲线盐渍沙地芦苇种群的存活数呈逐渐下降的趋势(图3a)，说明随着芦苇年龄的增长，种群的存活个数逐渐减少。普通沙地芦苇存活数总体呈现为先增长后减少的趋势，在前期表现为较低的水平，到V龄时达到了最大值，随后又逐渐降低。盐渍沙地芦苇种群的死亡率呈现波动的趋势(图3b)，函数值均大于0,说明该龄级芦苇的存活数大于高一龄级的存活数。第Ⅱ和第M龄的死亡率都在较低的水平，表明大部分的芦苇植株都存活到了下一龄级。普通沙地芦苇种群在I龄、Ⅱ龄和Ⅲ龄时的死亡率 $( q _ { x } )$ 都为负值，说明对应龄级芦苇植株的存活数小于高一龄级的存活数，在Ⅲ龄后随着龄级的增长死亡率也逐渐变高，表明越接近实际寿命，死亡率就越高。
+
+2.3.3生存分析根据4个生存函数的计算值，以龄级为横坐标，绘制生存率曲线、累计死亡率曲线、死亡密度曲线和危险率曲线得到图4和图5。盐渍沙地芦苇种群的出生率随龄级的增长逐渐递减，累计死亡率逐渐递增，死亡密度曲线前期增长，后期基本持平，危险率函数曲线平缓递增。普通沙地芦苇种群生存率前期增长，到Ⅲ龄达到最值后逐渐降低，累计死亡率与之互补，死亡密度曲线平缓增长到N龄后保持持平状态，危险率函数曲线先降低后增高。结合4个生存函数的分析结果，可以发现盐渍沙地芦苇种群整体上表现为稳定发展的趋势,普通沙地苇种群前期和中期稳定，后期衰退，只有通过对芦苇种群实行科学的保护和抚育，可以在一定的时间内恢复增长。
+
+表42种生境芦苇种群静态生命表  
+Tab.4 Static life table of Phragmites australis population in two habitats   
+
+<html><body><table><tr><td>生境</td><td>龄级</td><td>ax</td><td></td><td>lnlx</td><td>d</td><td>qx</td><td>L</td><td>Tx</td><td>ex</td><td>S</td><td>K</td></tr><tr><td>盐渍</td><td>I</td><td>103</td><td>1000</td><td>6.908</td><td>194</td><td>0.194</td><td>903</td><td>3121</td><td>3.121</td><td>0.806</td><td>0.032</td></tr><tr><td>沙地</td><td>Ⅱ</td><td>83</td><td>806</td><td>6.692</td><td>39</td><td>0.048</td><td>786</td><td>2218</td><td>2.753</td><td>0.952</td><td>0.007</td></tr><tr><td></td><td>Ⅲ</td><td>79</td><td>767</td><td>6.642</td><td>272</td><td>0.354</td><td>631</td><td>1432</td><td>1.867</td><td>0.646</td><td>0.068</td></tr><tr><td></td><td>V</td><td>51</td><td>495</td><td>6.205</td><td>78</td><td>0.157</td><td>456</td><td>801</td><td>1.618</td><td>0.843</td><td>0.028</td></tr><tr><td></td><td>V</td><td>43</td><td>417</td><td>6.034</td><td>282</td><td>0.674</td><td>277</td><td>345</td><td>0.826</td><td>0.326</td><td>0.206</td></tr><tr><td></td><td>VI</td><td>14</td><td>136</td><td>4.912</td><td>136</td><td>1</td><td>68</td><td>68</td><td>0.500</td><td>1</td><td>1</td></tr><tr><td>普通</td><td>I</td><td>18</td><td>462</td><td>6.135</td><td>-282</td><td>-0.611</td><td>603</td><td>3718</td><td>8.056</td><td>1.611</td><td>-0.075</td></tr><tr><td>沙地</td><td>Ⅱ</td><td>29</td><td>744</td><td>6.611</td><td>-154</td><td>-0.207</td><td>821</td><td>3115</td><td>4.190</td><td>1.207</td><td>-0.028</td></tr><tr><td></td><td>Ⅲ</td><td>35</td><td>897</td><td>6.800</td><td>-103</td><td>-0.114</td><td>949</td><td>2295</td><td>2.557</td><td>1.114</td><td>-0.016</td></tr><tr><td></td><td>V</td><td>39</td><td>1000</td><td>6.908</td><td>410</td><td>0.410</td><td>795</td><td>1346</td><td>1.346</td><td>0.590</td><td>0.080</td></tr><tr><td></td><td>V</td><td>23</td><td>590</td><td>6.380</td><td>333</td><td>0.565</td><td>423</td><td>551</td><td>0.935</td><td>0.435</td><td>0.140</td></tr><tr><td></td><td>VI</td><td>10</td><td>256</td><td>5.547</td><td>256</td><td></td><td>128</td><td>128</td><td>0.500</td><td></td><td>二</td></tr></table></body></html>
+
+注： $x$ 表示龄级， $a _ { x }$ 表示 $x$ 龄级内的个体数，L表示标准化存活个体数， $d _ { x }$ 表示标准化死亡数， $q _ { x }$ 表示死亡率， $L _ { x }$ 表示从 $x { \sim } x { + } 1$ 龄级间隔期间还存活的个体数， $T _ { x }$ 表示龄级 $\geqslant x$ 的个体总数， $e _ { x }$ 表示进入x龄级个体的生命期望， $\mathbf { \nabla } _ { S _ { x } }$ 表示存活率， $K _ { x }$ 表示致死率。下同。
+
+![](images/5119be3453fcbfdc209017b88b344d3f375037526e2d206637d8825ba1198308.jpg)  
+Fig.3Survival curve (a) and mortality curve (a) of Phragmites australis population
+
+![](images/cea764fc6f6e6d50434d3de34a72231f391dcf6ad9f223a2aa84a2603bc7ee19.jpg)  
+图3芦苇种群存活曲线(a)与死亡率曲线(a)   
+图4芦苇种群生存率 $( S _ { x } )$ 和累计死亡率 $( F _ { x } )$
+
+![](images/47dffe935ccea38bd1af76be37f86e6beb1f3a933c61b3541db5d3c9e065df8e.jpg)  
+Fig.4 Survival $( S _ { x } )$ and cumulative mortality $( F _ { x } )$ ofPhragmites australis population   
+图5芦苇种群死亡密度 $( f _ { ( t x ) } )$ 和危险率 $\left( \lambda _ { \left( t x \right) } \right.$ ）  
+Fig.5Death density $( f _ { ( x ) } )$ and risk $\left( \lambda _ { \left( t x \right) } \right)$ ofPhragmites australis population
+
+# 2.42种沙地生境芦苇种群的空间分布格局
+
+从空间分布的散点图(图6)可以看出，芦苇种群个体在盐渍沙地分布的密度远大于普通沙地，且在盐渍沙地表现为随机分布为主，而在普通沙地则表现为聚集分布为主。在Programita(Wiegand,2018版)软件中对样方中芦苇点格局分析生成的结果绘制得出(图7),普通沙地中 $K ( d )$ 函数值在 $0 { \sim } 4 \mathrm { m }$ 时位于包际区间上方，在大于 $4 \mathrm { m }$ 时位于包际区间内，因此在 $0 { \sim } 4 \mathrm { ~ m ~ }$ 尺度上表现为聚集分布，在大于 $4 \mathrm { m }$ 的尺度上为随机分布;而盐渍沙地中 $K ( d )$ 函数值基本都在包际区间内，因此在 $0 { \sim } 1 0 \mathrm { m }$ 的尺度内均为随机分布。
+
+![](images/364807a51123a2b378310cfd75d199f6a29d181d9ddf24e39926e7af60b48fa7.jpg)  
+Fig.6Spatial distribution ofPhragmites australis population in two habitats
+
+![](images/47bee1800cd8d64af0dc1429742f5c966b869419e4c447a562e9e596042feb63.jpg)  
+图62种生境的芦苇种群空间分布  
+图7芦苇种群空间分布格局  
+Fig.7Spatial distribution pattern ofPhragmites australis population
+
+# 3讨论
+
+巴丹吉林沙漠南缘分布的芦苇受干旱和盐碱交互影响，且2种沙地生境芦苇各构件生物量中茎生物量占分株总生物量比重最大，这与刘秀香等[29]、杨允菲等"在松嫩平原测定的叶生物量占比重最大有所区别。究其原因，本研究地区光照充足，降水量少，蒸发量大，较小的芦苇叶片可以有效的减少水分的流失[30]。随着土壤盐分含量下降,芦苇的株高、茎粗、花序长和地上各部分构件生物量均有不同程度的增加。表明土壤的盐渍化程度会对对芦苇形态特征产生一定影响，这与张爽等31研究发现不同的盐度水灌溉下芦苇汲取养分的能力会发生改变，且芦苇的株高、茎粗、生物量都会随着盐分的增加呈下降的趋势。赛迪古丽·哈西木等[32]对生长在于田绿洲不同盐碱程度土壤上芦苇的研究，认为芦苇生态指标不同程度受土壤盐含量影响得出的结果一致。分蘖数统计的结果表明，盐渍沙地侧生蘖的数量较大，反映出在盐碱胁迫较为严重的环境条件下，芦苇的生长受到抑制，从而侧生出更多的分蘖株来维持其在群落中的地位。芦苇侧生蘖在2种生境中表现出不同的数量特征，表明在生境发生变化时，芦苇种群可以通过调节侧生蘖的结构和数量来达到确保一定的适合度的策略目的。
+
+研究一个物种的种群结构和生命表特征对深刻分析其种群的现状、动态并预测未来具有重要意义[33]。盐渍沙地芦苇种群结构表现为增长型,虽然幼苗的死亡率较高，但其庞大的基数足以维持幼苗更新。植物种群若缺少幼苗，一般判断该种群趋于衰退型，普通沙地芦苇种群结构中，幼苗占比较少，中期和后期植株占比较多，年龄结构呈现纺锤形，种群趋向衰退型，与生存分析所得出的结果一致。只要对普通沙地芦苇种群实行科学的保护和抚育，可以在一定的时间内恢复[34]。种群的死亡率曲线、存活曲线和生存分析可以直观地描述种群的现实状况,揭示种群与环境之间的适应机制[35]。盐渍沙地芦苇种群的存活数呈卜降趋势，死亡率呈上升趋势，但结合生存分析的结果发现该种群仍表现为稳定型，与种群结构分析的结果一致，根本原因在于拥有大量的幼苗数量，所受的干扰较小。普通沙地芦苇种群的存活数在前期呈上升趋势，但种群结构增长性很低，再结合生存分析的结果，可知该种群属于在经历前期衰退之后，于后期呈稳定型。虽然植物种群具有其独特的更新方式，但自然环境的变化都会对特定年龄段的个体数量产生影响，使种群的年龄结构偏离原本的形状，并对种群的自然更新产生一定的影响[36]。
+
+种群的空间分布格局是植物与植物之间、植物与环境长期互作形成的，具有重要的生态学意义[37]。芦苇种群可以通过空间分布格局的变化来适应异质环境，从普通沙地向盐渍沙地过渡时随着环境胁迫的加剧，芦苇种群由聚集分布为主、均匀分布和随机分布为辅转变到随机分布为主、均匀分布和聚集分布为辅的分布格局特征[38]。这种格局分布特征既保证了芦苇种群在环境条件良好时可以占据较大的水平空间，减少芦苇种群内部的相互作用，又保证了芦苇种群在恶劣环境中能够成功“逃离”不利斑块，提高生存适合度，进一步反映出芦苇种群在异质环境条件下，向更利于自身拓展和繁殖方向发展的生态适应策略。
+
+# 4结论
+
+本研究根据巴丹吉林沙漠南缘芦苇自然分布情况，选择普通沙地和盐渍沙地芦苇为主要建群种的地带为研究区域，对这2个不同生境芦苇种群进行调查研究。分析了芦苇的生长特征、种群动态及空间分布格局。主要结论如下：
+
+(1)2种不同的沙地生境下，芦苇通过生态可塑性的变化最大限度地利用或获取环境资源，因而形成了在分株构型、资源吸收器官的形态特征和地上部分生物量分配等均存在显著性的差异。(2）普通沙地芦苇种群中缺乏幼苗植株，衰退演替的风险较大，因此，改善生存环境，保护现有植株、促进幼苗建立与提高成活率是芦苇种群恢复增长的关键。(3）芦苇种群在不同生境下的空间分布格局存在很大差异，这种变化是生境异质性、更新限制和生态适应的结果。(4）土壤水分盐分含量是造成这2种沙地芦苇种群分株构件特征、动态特征及种群空间分布格局的重要驱动因素。
+
+# 参考文献(References):
+
+[1]周夏伟.国家沙化土地封禁保护政策可持续性研究[D].兰州: 兰州大学,2O18.[Zhou Xiawei.The Study of the Sustainability of National Desertified Land Sealed Pretection Policy[D]. Lanzhou: Lanzhou University,2018.]   
+[2]丁俊祥,邹杰,唐立松,等.沼泽、盐化沙丘过渡带和沙丘生境下 芦苇的光合及生理生化特性[J].生态学报,2015,35(16):5316- 5323.[Ding Junxiang, Zou Jie,Tang Lisong,et al.Photosynthesis and physiological-biochemical characteristics of Phragmites australis in swamp,light salt meadow,and sand dune habitats[J].Acta Ecologica Sinica,2015,35(16):5316-5323.]   
+[3]刘乐乐.芦苇的遗传多样性谱系地理与生态适应研究[D].济 南：山东大学,2020.[Liu Lele.Genetic Diversity,Phylogeography and Ecological Adaptation of Phragmites australis[D]. Jinan: Shandong University,2020.]   
+[4] Kirk H,Paul J,Straka J,et al.Long-distance dispersal and high genetic diversity are implicated in the invasive spread of the common reed,Phragmits australis(Poaceae)in northeastern North America[J].American Journal of Botany,2011,98(7): 1180-1190.   
+[5]乔斌,何彤慧,于骥,等.银川平原湖泊湿地不同水深梯度下芦 苇种群生长特征[J].干旱区研究,2017,34(4):762-769.[Qiao Bin,He Tonghui,Yu Ji,etal.Growth of Phragmites australis population under diferent water-depth gradients in lake-wetland of the Yinchuan Plain[J].Arid Zone Research,2017,34(4): 762-769.]   
+[6]焦德志,闫秋月,姜秋旭,等.黑龙江扎龙湿生芦苇种群构件数 量特征及其相关性[J].生态学杂志,2018,37(7):1983-1989.[Jiao Dezhi, Yan Qiuyue,Jiang Qiuxu, et al. Equantitative characteristics and interrelation of module of Phragmites australis[J]. Chinese Journal of Ecology,2018,37(7): 1983-1989.]   
+[7]Hansen D,Lambertini C,Jampeetong A,et al. Clone-specific differences in Phragmits australis:Effects of ploidy level and geographic origin[J].Aquatic Botany,2007,86(3): 269-279.   
+[8]杨允菲,李建东.松嫩平原不同生境芦苇种群分株的生物量分 配与生长分析[J].应用生态学报,2003,14(1):30-34.[Yang Yunfei,Li Jiandong. Biomass allocation and growth analysis on the ramets of Phragmites communis populations in diferent habitats in the Songnen Plains of China[J]. Chinese Journal of Applied Ecology,2003,14(1): 30-34.]   
+[9]焦德志,姜秋旭,曹瑞,等.扎龙湿地不同生境芦苇种群根茎数 量特征及动态[J].生态学报,2018,38(10):3432-3440.[Jiao Dezhi,Jiang Qiuxu,Cao Rui,et al. Quantitative characteristics and dynamics of the rhizome of Phragmites australis populations in heterogeneous habitats in the Zhalong Wetland[J].Acta Ecologica Sinica, 2018,38(10): 3432-3440.]   
+[10] 戚志伟,高艳娜,李沙沙,等.长江口滨海湿生芦苇和白茅形态 和生长特征对地下水位的响应[J.应用与环境生物学报, 2016,22(6): 986-992.[Qi Zhiwei, Gao Yanna,Li Shasha,et al.A comparative study of morphology and growth traits between Phragmites australis and Imperata cylindrica under varying ground water table in the coastal wetland of Yangtze River Estuary[J]. Chinese Journal of Applied & Environmental Biology,2016,22(6): 986- 992.]   
+[11] 司建华,冯起,张艳武,等.荒漠-绿洲芦苇地蒸散量及能量平 衡特征[J].干旱区研究,2010,27(2):160-168.[Si Jianhua,Feng Qi, Zhang Yanwu,et al. Research on evapotranspiration and energy budget of Phragmites australis stand in oasis[J]. Arid Zone Research,2010,27(2): 160-168.]   
+[12] 王婷,李朝周,焦健,等.不同生境芦苇根茎生长发育与根际微 环境的比较研究[J].干旱区研究,2021,38(1):233-240.[Wang Ting,Li Chaozhou,Jiao Jian,et al.Comparative study on the reed rhizospheric microenvironment and reed rhizome growth and development in different habitats[J].Arid Zone Research,2021,38 (1): 233-240.]   
+[13] 马赞花,张铜会,刘新平.半干旱区沙地芦苇对浅水位变化的生 理生态响应[J].生态学报,2013,33(21):6984-6991.[Ma Yunhua, Zhang Tonghui,Liu Xinping. Eco-physiological response of Phragmites communis to water table changes in the Horqin Sand Land[J].Acta Ecologica Sinica,2013,33(21): 6984-6991.]   
+[14] 焦亮,关雪,刘雪蕊,等.内陆河湿地芦苇叶功能性状特征及其 对土壤环境因子的响应[J].干旱区研究,2020,37(1):202-211. [Jiao Liang,Guan Xue,Liu Xuerui,et al.Functional traits of Phragmites australis leaves and response to soil environmental factors in inland river wetland[J].Arid Zone Research,2O20,37(1): 202-211.]   
+[15] 独肖艳,焦润安,焦健,等.河西走廊不同生态型芦苇种群生殖
+
+分株的生物量分配与异速生长[J].东北林业大学学报,2020,
+
+48(6):36-41. [Du Xiaoyan, Jiao Runan,Jiao Jian,et al.Biomass
+
+allcation andallometric growthof reproductiveramets ofdifferent ecotypes of Phragmites communis population in Hexi Corridor[J]. Journal of Northeast Forestry University,2020,48(6): 36-41.]   
+[16] 林文芳,陈林姣,朱学艺.用分子标记技术分析不同生态型芦苇 的遗传多样性[J].植物生理与分子生物学学报,2007,33(1): 77-84.[Lin Wenfang, Chen Linjiao,Zhu Xueyi. An analysis of genetic diversityof diferent ecotypes ofred (Phragmites communis Trin.)by molecular marker techniques[J]. Journal of Plant Physiology and Molecular Biology,2007,33(1): 77-84.]   
+[17] 焦德志,黄垦月,周婵,等.扎龙湿地异质生境芦苇种群根茎动 态及年龄结构[J].生态学杂志,2016,35(4):888-895.[Jiao Dezhi, Huang Zhaoyue, Zhou Chan,et al.Rhizome dynamicsand age structure of Phragmites australis population in heterogeneous habitats in Zhalong Wetland[J]. Chinese Journal of Ecology,2016,35 (4): 888-895.]   
+[18] 杨允菲,张宝田,田尚衣.松嫩平原旱地生境芦苇种群不同龄级 根茎的干物质贮藏及水溶糖含量[J].应用生态学报,2008,19 (9): 1905-1910.[Yang Yunfei, Zhang Baotian,Tian Shangyi. Dry matter storage and water soluble sugar content in different age classes rhizomes of Phragmites communis population in dry land habitat of Songnen Plain of China[J]. Chinese Journal of Applied Ecology,2008,19(9): 1905-1910.]   
+[19] 安静,吴玲,王海娟,等.不同干扰程度下沙生植物异翅独尾草 的种群结构与动态特征[J].生态学报,2017,37(6):2023-2032. [An Jing,Wu Ling,Wang Haijuan, et al. Structural and dynamic characteristics of Eremurus anisopterus populations in areas with different levels of disturbance[J].Acta Ecologica Sinica,2017,37 (6): 2023-2032.]   
+[20] 解婷婷,苏培玺,周紫鹃,等.荒漠绿洲过渡带沙拐枣种群结构 及动态特征[J].生态学报,2014,34(15):4272-4279.[Xie Tingting,Su Peixi, Zhou Zijuan,et al.Structure and dynamic characteristics of Calligonum mongolicum population in the desert-oasis ecotone[J]. Acta Ecologica Sinica,2014,34(15): 4272-4279.]   
+[21] 杨永菲,祝廷成.植物生态学[M].北京:高等教育出版社,2011: 139-143.[Yang Yongfei, Zhu Tingcheng.Plant Ecology[M]. Beijing: Higher Education Press,2011: 139-143.]   
+[22] 杨凤翔,王顺庆,徐海根,等.生存分析理论及其在研究生命表 中的应用[J].生态学报,1991,11(2):153-158.[Yang Fengxiang, Wang Shunqing,Xu Haigen,et al. Survival analysis theory and its application in the study of life table[J].Acta Ecologica Sinica, 1991, 11(2): 153-158.]   
+[23]Ripley B.Modelling spatial patterns[J]. Journal of the Royal Statistical Society: Series B,1977,39(2): 172-212.   
+[24] 张金屯.植物种群空间分布的点格局分析[J].植物生态学报, 1998,22(4): 3-5.[Zhang Jintun. Analysis of spatial point pattern for plant species[J]. Chinese Journal of Plant Ecology,1998,22(4): 3-5.]   
+[25] 张金屯,孟东平.芦芽山华北落叶松林不同龄级立木的点格局 分析[J].生态学报,2004,24(1):35-40.[Zhang Jintun,Meng Dongping.Spatial pattern analysis of individuals in diferent ageclasses of Larix principis- rupprechtii in Luya mountain reserve, Shanxi, China[J].Acta Ecologica Sinica,2004,24(1): 35-40.]   
+[26] 李小东,丁晖,吴俊,等.黄山常绿阔叶林优势种甜褚的种群动 态与点格局分析[J].西北植物学报,2018,38(11):2110-2119. [Li Xiaodong,Ding Hui,Wu Jun,et al.Population dynamics and point pattern analysis of Castanopsis population dynamics and point pattern analysis of Castanopsis[J].Acta Botanica Boreali-Occidentalia Sinica,2018,38(11): 2110-2119.]   
+[27] 朱文霞,张欣艳,钱飞隆,等.快速测定盐碱土质含盐量的研究 [J].黑龙江工业学院学报(综合版),2019,19(4):84-88.[Zhu Wenxia, Zhang Xinyan, Qian Feilong,et al. Method for rapid determination of soluble salt content in saline soil[J]. Journal of Heilongjiang University of Technology(Comprehensive Edition),2019, 19(4): 84-88.]   
+[28] 骆东奇,白洁,谢德体.论土壤肥力评价指标和方法[J]).土壤与 环境,2002,11(2): 202-205.[Luo Dongqi,Bai Jie,Xie Deti. Research on evaluation norm and method of soil fertility[J]. Soil and Environmental Sciences,2002,11(2): 202-205.]   
+[29] 刘秀香,杨允菲.松嫩平原不同生境芦苇生殖分株的异速生长 分析[J].草业学报,2012,21(4): 313-318.[Liu Xiuxiang,Yang Yunfei.Allometry analysis of reproductive ramets of Phragmites australis populations from different habitats in the Songnen Plain of China[J]. Acta Prataculturae Sinica,2012,21(4): 313-318.]   
+[30]Ribeiro RV,Lyra G B,Santiago AV,et al.Diurnal and seasonal patterns of leaf gas exchange in bahiagrass growing in a subtropical climate[J].Grass and Forage Science,2006,61(3): 293-303.   
+[31] 张爽,郭成久,苏芳莉,等.不同盐度水灌溉对芦苇生长的影响 [J].沈阳农业大学学报,2008,39(1):65-68.[Zhang Shuang,Guo Chengjiu,Su Fangli,etal.Effect of salinity on the growth of reed [J].Journal of Shenyang Agricultural University,2Oo8,39(1): 65-
+
+# 68.]
+
+[32] 赛迪古丽·哈西木,海米提·依米提.于田绿洲土壤pH值的空间 异质性及其对芦苇生长的影响研究——以喀尔克乡为例[J]. 新疆师范大学学报(自然科学版),2012,31(2):9-15.[Saydigul Haxim,Hamid Yimit.Spatial variability of soil pH value and its effect on the growth of Phragmites australis in Keriya Oasis-Taking Karki village as an Example[J]. Journal of Xinjiang Normal University(Natural Sciences Edition),2012,31(2): 9-15.]   
+[33]Svensson JS,Jeglum JK. Structure and dynamics of an undisturbed old-growth Norway spruce forest on the rising Bothnian coastline[J].Forest Ecology and Management,2001,151(1-3): 67-79.   
+[34] 苏志豪,李文军,曹秋梅,等.新疆野苹果的种群年龄结构与数 量动态[J].干旱区研究,2019,36(5):1153-1160.[Su Zhihao,Li Wenjun, Cao Qiumei, et al. Age composition and quantitative dynamic status of Malus sieversii population[J]. Arid Zone Research, 2019,36(5): 1153-1160.]   
+[35] 张苹，吕昭智,张鑫,等.新疆伊犁与哈萨克斯坦新疆野苹果 [Malus sieversi(Ledeb.）Roem.]种群年龄结构[J].干旱区研究, 2019,36(4): 844-853.[Zhang Ping,Lyu Zhaozhi, Zhang Xin, et al.Age structure of Malus sieversi population in Ili of Xinjiang and Kazakhstan[J]. Arid Zone Research,2019,36(4): 844-853.]   
+[36] 赵阳,齐瑞,焦健,等.尕海-则岔地区紫果云杉种群结构与动 态特征[J].生态学报,2018,38(20):7447-7457.[Zhao Yang, Qi Rui, Jiao Jian,et al. The population structure and dynamic characteristics of Picea purpurea at the Gahai-zecha area[J].Acta Ecologica Sinica,2018,38(20): 7447-7457.]   
+[37]Agren J, Zackrisson O.Age and size structure of Pinus sylvestris populations on mires in central and northern Sweden[J]. Journal of Ecology,1990,78(4): 1049-1062.   
+[38]Dang H S, Jiang M X, Zhang Y J, et al. Dendroecological study of a subalpine fir (Abies fargesii forest in the QinlingMountains[J]. China Plant Ecology,2009,201(1): 67-75.
+
+# Population ecological features of Phragmites australis in sandy habitats on the southern edge of Badain Jaran Desert
+
+LIU Xin1²， JIAO Jian³，WANG Ting1²， ZHANG Lingyul²，LI Chaozhou1² (1.College of Life Science and Technology,Gansu Agricultural University,Lanzhou 73oo7o,Gansu,China; 2.Gansu Key Laboratory of Crop Genetics and Germplasm Enhancement,Lanzhou 73O070,Gansu, China; 3.College of Forestry,Gansu Agricultural University,Lanzhou 73Oo7O, Gansu, China)
+
+Abstract:The structural characteristics,age structure,dynamic characteristics,and spatial distribution patern of Phragmites australis in two types of sandy habitat in the southern margin of Badain Jaran Desert were investigated.Results showed that the following.（1） The plant height,total biomass,and biomass of each component of Phragmites australis in common sandy land were higher than those in saline sandy land.Soil water content and salt content were the important driving factors for the diferences in Phragmites australis morphological characteristics in this area.(2）Due to the diferent soil conditions and the different degrees of interspecies competition,different age structures and dynamic change trends were shown in different sample plots; in common sandy soil,the Phragmites australis population tended to decline,whereas the population of Phragmites australis in saline sand soil tended to increase.(3) The spatial patern of the Phragmites australis population in the common sandy habitat had an aggregated distribution on a scale of $0 { - } 4 \mathrm { ~ m ~ }$ and a random distribution on a scale ${ > } 4 \mathrm { m }$ . However, the function values of the saline sandy habitat were generally between two enveloped trace lines and distributed randomly on a scale from O to $1 0 \mathrm { m }$
+
+Keywords: Badain Jaran Desert； sand; Phragmites australis population; component characteristics；age structure；quantitative dynamic change; spatial distribution pattern

@@ -1,0 +1,263 @@
+# 华北一作区马铃薯生长发育及产量对干旱胁迫响应的模拟研究以武川县为例
+
+罗新兰¹，孙悦¹，刘利民¹，王立为¹，杨丽桃²，高西宁』(1.沈阳农业大学,辽宁 沈阳110866；2.内蒙古自治区气候中心,内蒙古 呼和浩特010051)
+
+摘要：为探究不同程度干旱胁迫对华北一作区马铃薯生长发育及产量的影响，以内蒙古呼和浩特市武川县为例,基于多年马铃薯生长发育资料和气象资料，对APSIM-Potato模型进行调参与验证，评价模型在武川地区的适用性。利用验证后的模型模拟马铃薯叶面积指数(LAI)、地上部生物量和产量对不同发育阶段干旱胁迫的响应。结果表明：(1)各发育阶段天数的模拟值与实测值的均方根误差(RMSE)均在3d内;LAI、地上部生物量和产量的模拟值与实测值的归一化均方根误差（NRMSE)分别为 $1 2 . 8 2 \% . 1 7 . 3 5 \%$ 和 $1 4 . 4 8 \%$ ，均低于 $2 0 \%$ ，表明APSIM-Potato模型在武川地区具有较好的适用性。(2）随着干旱胁迫时间和强度的增加，马铃薯LAI、地上部生物量和产量随之减小。模拟单一发育阶段干旱胁迫时，马铃薯LAI、地上部生物量和产量对分枝-开花期水分胁迫的响应最大;模拟连续发育阶段干旱胁迫时，LAI、地上部生物量和产量对全生育期水分胁迫的响应最大。
+
+关 键词：马铃薯；APSIM-Potato模型；适用性评价；干旱模拟；叶面积指数；生物量；产量
+
+文章编号：
+
+随着气候背景的变化、人口的增多和耕地面积的减少，提高我国粮食产量、实现农业可持续发展成为当前科学研究的热点问题之一[1-2]。作为世界第四大粮食作物[3],马铃薯具有分布广泛、适应性强、产量高等优势，是目前非谷类作物中最具有发展前景的高产作物之一[4]。为了保障我国粮食安全，推动农业可持续发展，我国倡导以加工过的马铃薯作为主食，启动马铃薯"主粮化"战略[5]。马铃薯是典型的温带气候作物，对水分非常敏感，水分是限制我国大部分地区马铃薯产量的主要非生物因素[6-7]。华北一(季)作区由于日照充足、气候冷凉、昼夜温差大，是我国马铃薯的主产区之一。但其大部分地区位于农牧交错地带，水土资源匮乏，抵抗自然灾害的能力较弱[8-9],当地马铃薯生产普遍存在优质品种比例低、单产水平不高等问题。通过模型对马铃薯进行生长状况监测和产量模拟研究，可以更好地掌握马铃薯的生长发育状况，确定田间管理措施，为更好地应对旱情制定防灾减灾措施提供更多可能性。
+
+目前我国干旱对马铃薯影响的研究主要是结合田间试验与统计分析方法，在试验中进行人工控水来探究不同水分条件对马铃薯植株形态特征、生理生化指标及产量品质的影响，这些研究为马铃薯生产中栽培技术和最佳供水时期的选择提供了技术参数和理论依据[10-12]。但田间水分控制试验往往难以精准控制水分，且取样代表性容易受到人为因素的影响，其研究结果难以对马铃薯生长发育过程受水分胁迫的情形进行动态模拟，也很难对马铃薯的气候生产潜力进行较好的模拟与分析。
+
+相比于田间试验和统计分析方法，作物生长模
+
+# 干吴区地理
+
+型以光、温、水、土壤等条件为环境驱动变量，对作物生育期内的状态变量与环境条件和技术条件的关系进行定量描述，在评估和预测气候变化对作物生长发育及产量的影响方面有着明显优势，已成为现阶段辅助农业生产决策的高效工具[13-14]。APSIM-Potato模型是由澳大利亚开发的用于模拟农业生产系统生物物理过程的机理模型[15-16],自模型引入我国以来，已在我国各个地区进行了大量的调参验证工作,并能够很好的指导当地马铃薯[17-18]、小麦[19-20]玉米[21]等农作物的生产。
+
+武川县是我国华北一作区马铃薯的重要产地之一[22],本文以武川县为研究区域,选择"克新一号"作为研究品种,基于多年马铃薯生长发育资料和武川县气象资料，对APSIM-Potato模型在武川地区的适用性进行评价并分析马铃薯叶面积指数(LAI)、地上部生物量和产量对不同干旱情景的响应。
+
+# 1研究区、数据与方法
+
+# 1.1 研究区概况
+
+研究区域为内蒙古呼和浩特市武川县，位于整个内蒙古自治区中部 $( 4 0 ^ { \circ } 4 7 ^ { \prime } { \sim } 4 1 ^ { \circ } 2 3 ^ { \prime } \mathrm { N } , 1 1 0 ^ { \circ } 3 1 ^ { \prime } { \sim }$ $1 1 1 ^ { \circ } 5 3 ^ { \prime } \mathrm { E } \ '$ ，总面积 $4 8 8 6 ~ \mathrm { k m } ^ { 2 }$ 。县境东西长约110$\mathrm { k m }$ ,南北最宽约 $6 0 \mathrm { k m }$ ,属于温带大陆性季风气候，是典型的半干旱旱地农业区。年均降水量约为360$\mathbf { m } \mathbf { m }$ ，降水主要集中在7一8月，占整个生长季的 $8 0 \%$ 左右，年蒸发量约是降水量的5倍，无霜期90\~120d,土壤以栗钙土为主。
+
+# 1.2数据来源
+
+气象数据：武川县1986—2020年逐日气象资料(最高气温、最低气温、降水量、日照时数)来自于国家气象科学信息网地面气象资料观测数据集。
+
+作物数据：武川县1994—2015年研究区域内农业气象观测试验站点的马铃薯品种信息、田间管理措施、生育期(播种期、出苗期、分枝期、开花期和可收期）、地上部生物量和产量等数据来自于内蒙古呼和浩特市农业部武川农业环境科学观测试验站、武川县统计年鉴及相关文献[23-24]。
+
+土壤数据：武川县土壤数据来自于《中国土种志》《内蒙古土壤年鉴》《武川县志》(续编)及相关文献[25-26]。具体土壤参数如表1所示。
+
+# 1.3APSIM-Potato模型
+
+1.3.1APSIM-Potato模 型简介本研究选择APSIM-Potato(7.6版)来模拟马铃薯LAI、地上部生物量和产量对不同发育阶段干旱胁迫情景的响应情况。APSIM-Potato模型是基于过程的作物生长模型，模型通过中心引擎将作物模块与其他模块有机结合，更为直观地体现作物生长发育过程与环境条件和技术条件之间的关系，可以弥补田间水分控制试验的不足[27-28]。APSIM-Potato模型将马铃薯发育进程分为8个发育期：播种、萌芽、出苗、花芽分化、薯块形成、开花、衰老和成熟[29]。本研究中参照农业气象观测规范，将模型中的发育阶段与马铃薯实际生产中的发育阶段相匹配,划分为：播种-出苗期、出苗-分枝期、分枝-开花期和开花-可收期,研究区域马铃薯1994—2013年各发育阶段平均普期如表2所示。模型中对发育阶段长度的控制，除播种到萌芽的长度受播种深度、土壤水分和土壤温度控制外，其他各发育阶段的长度都由积温和光周期控制。APSIM-Potato中控制马铃薯生长发育的5个关键品种参数分别是：出苗后光周期、从播种到出苗所需的有效积温、从出苗到薯块成熟所需的有效积温、从薯块形成期到成熟所需的有效积温以及最大比叶面积[30]。其中有效积温是指马铃薯在该发育阶段内有效温度的总和，即马铃薯在某一段时间内日平均气温与生物学下限温度之差的总和。
+
+表1武川县分层土壤参数  
+Tab.1 Soil profile properties under different soil layer depths in Wuchuan County   
+表2武川县马铃薯平均发育期  
+
+<html><body><table><tr><td>土层/cm</td><td>土壤pH值</td><td>容重/g·cm3</td><td>田间持水量/mm·mm-</td><td>饱和含水量/mm·mm</td><td>有效磷/mg·kg-</td><td>有效钾/mg·kg-</td><td>有机质/%</td></tr><tr><td>0~20</td><td>8.24</td><td>1.48</td><td>0.38</td><td>0.43</td><td>13.37</td><td>159.84</td><td>2.08</td></tr><tr><td>20~40</td><td>8.28</td><td>1.36</td><td>0.34</td><td>0.39</td><td>3.54</td><td>130.31</td><td>5.06</td></tr><tr><td>40~60</td><td>8.41</td><td>1.40</td><td>0.32</td><td>0.37</td><td>2.57</td><td>70.78</td><td>1.41</td></tr><tr><td>60~80</td><td>8.60</td><td>1.45</td><td>0.32</td><td>0.36</td><td>1.58</td><td>66.90</td><td>0.67</td></tr><tr><td>80~100</td><td>8.45</td><td>1.45</td><td>0.28</td><td>0.34</td><td>1.86</td><td>98.50</td><td>0.48</td></tr></table></body></html>
+
+Tab.2 Average growth period of potato in Wuchuan County   
+
+<html><body><table><tr><td>站名</td><td>作物名称</td><td>播种普期</td><td>出苗普期</td><td>分枝普期</td><td>可收普期</td></tr><tr><td>武川</td><td>马铃薯</td><td>5月11日</td><td>6月19日</td><td>7月3日</td><td>9月14日</td></tr></table></body></html>
+
+1.3.2太阳辐射的计算APSIM-Potato模型运行所需的逐日太阳辐射量需要依据Angstrom方程由日照时数转化而来，计算公式如下：
+
+$$
+Q = Q _ { 0 } \bigg ( a + b \frac { n } { N } \bigg )
+$$
+
+$$
+Q _ { \circ } = \frac { 2 I _ { \circ } } { \omega } \frac { 1 } { \rho ^ { 2 } } \big ( \omega _ { \mathrm { { s } } } \sin \varphi \sin \delta + \cos \varphi \cos \delta \sin \omega _ { \mathrm { { s } } } \big )
+$$
+
+$$
+N = \frac { 2 4 } { \pi } \omega _ { \mathrm { s } }
+$$
+
+式中： $Q$ 为日太阳总辐射 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } )$ ； $Q _ { 0 }$ 为天文辐射$( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } ) ; a , b$ 为经验系数，与大气质量状况有关； $n$ 为逐日日照时数 $( \mathrm { h } ) { \ ; } N$ 为逐日可照时数 $\left( \mathrm { h } \right) { ; } I _ { 0 }$ 为太阳常数； $\omega$ 为地球自转速率 ${ \bf \nabla } ; \rho { \bf \nabla } $ 为日地相对距离； ${ \omega } _ { \mathrm { s } } \mathrm { = } \omega t _ { \mathrm { 0 } }$ 为日出时角(rad)，其中 $t _ { 0 }$ 为日出至正午或正午至日没的时间； $\varphi$ 为地理纬度(rad); $\delta$ 为太阳赤纬(rad)。
+
+1.3.3模型调参验证及适用性评价指标在模型调参阶段，采用数学上的拟合优度法，通过比较作物模型模拟结果与实测数据之间的差异，寻找参数的最佳组合，确定品种的遗传参数。在模型验证阶段，通过模型模拟与实测结果的图形比较及各项评价指标来评价模型的适用性。采用的统计指标有：反映模拟值与实测值之间的相对误差和绝对误差的均方根误差(RMSE)和归一化均方根误差(NRMSE)；反映模拟值与实测值之间的一致性的决定系数 $\left( R ^ { 2 } \right)$ 和一致性指标( $D$ 指数）。RMSE、NRMSE和 $D$ 指数的计算公式如下：
+
+$$
+\mathrm { R M S E } = \sqrt { \frac { 1 } { n } { \sum _ { i = 1 } ^ { n } } \bigl ( Y _ { i } - X _ { i } \bigr ) ^ { 2 } }
+$$
+
+$$
+{ \mathrm { N R M S E } } = { \frac { \sqrt { { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } \left( Y _ { i } - X _ { i } \right) ^ { 2 } } } { \bar { X } } } \times 1 0 0 \%
+$$
+
+$$
+D = 1 - { \frac { \displaystyle \sum _ { i = 1 } ^ { n } \bigl ( Y _ { i } - X _ { i } \bigr ) ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { n } \Bigl ( \bigl | Y _ { i } - { \bar { X } } \bigr | + \bigl | X _ { i } - { \bar { X } } \bigr | \Bigr ) ^ { 2 } } }
+$$
+
+式中： $n$ 为总样本数； $Y _ { i }$ 和 $X _ { i }$ 分别为模型模拟值和实测值； $\bar { X }$ 为实测数据平均值。经过验证的马铃薯品种参数如表3所示。
+
+# 1.4基准年选取
+
+依据研究区域1986一2020年气象数据，统计研究区域全生育期内平均气温与总日照时数的多年平均值，选取气温与日照时数处在平均值附近，而降水量有明显差异的年份，认为这些年份中马铃薯产量变化主要是由于降水量的不同而导致。由图1可知,2001、2009、2012年和2013年的气温和日照时数基本处在平均值附近，且降水量相差较大。
+
+由图2可知，2001、2009、2012年和2013年的降水量存在 $6 0 ~ \mathrm { m m }$ 左右的差异，且产量随降水量的不同而有明显差距。这几年中，2013年为降水量最高的年份，因此，本研究选择2013年为基准年， $6 0 ~ \mathrm { m m }$ 为梯度进行干旱情景设定。
+
+# 1.5干旱情景模拟
+
+1.5.1干旱情景设定根据武川县的气象条件，结合当地实际情况选定干旱模拟的基准年和降水梯度，以基准年为对照组(CK)，等比例改变马铃薯各个发育阶段的降水量，由轻到重的干旱情景分别设定为T到T4，以此来完成不同干旱情景的设定（表4)。在进行单一发育阶段干旱胁迫时，用不同干旱年景某一发育阶段的降水量替换CK中相应阶段降水量；在进行连续发育阶段干旱胁迫时，用不同干旱年景连续2个以上发育阶段的降水量替换CK中相应阶段降水量。本文采用连续模拟情景，即每年模拟开始之前不进行土壤水分的重置。另外，在设定的不同干旱情景中，采取当地常规管理模式。设定马铃薯种植密度为5株 $\cdot \mathrm { m } ^ { - 2 }$ ,种植行距为 $5 0 \mathrm { c m }$ ,株距为 $4 0 ~ \mathrm { c m }$ ,播种深度为 $2 5 ~ \mathrm { c m }$ 。利用APSIM-Potato模型中的自动施肥模块，设置当 $0 { \sim } 6 0 ~ \mathrm { c m }$ 土层中的全氮含量低于 $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 时，会自动进行氮肥的补
+
+表3APSIM-Potato中马铃薯品种"克新一号"的品种参数  
+[ab.3Derived cultivar parameters (potato species Kexin_1) for APSIM-Potato   
+
+<html><body><table><tr><td>品种</td><td>出苗时的光周期 /h</td><td>播种-出苗的有效积温 /C·d</td><td>出苗-薯块形成的有效积温 /C·d</td><td>薯块形成-成熟的有效积温 /C·d</td><td>最大比叶面积 /mm2g²1</td></tr><tr><td>克新1号</td><td>12</td><td>430</td><td>280</td><td>300</td><td>45000~65000</td></tr></table></body></html>
+
+![](images/816889089a3673f8e837a1d1bc589ebea32a667aba27a7720effa96b9ed5fd2f.jpg)  
+干辛区地理  
+图11986—2020年武川县全生育期平均气温、总日照时数和降水量  
+Fig.1 Average air temperature,total sunshine hours and precipitation during the whole growth period in Wuchuan County from 1986 to 2020   
+图2马铃薯生育期平均气温、降水量、实测产量和模拟产量
+
+(a)气温与降水量 (b)实测产量与模拟产量40 400 20000 20000气温 □实测产量35 □降水量 350 17500 □模拟产量 1750030 鼎 m  
+25  
+201510 100 5000 50005 50 2500 25000 0 0 02001 2009 2012 2013 2001 2009 2012 2013年份 年份
+
+Fig.2Average air temperature, precipitation, measured yield and simulated yield at potato growth period
+
+# 表4武川县马铃薯各发育阶段干旱情景设计
+
+Tab.4 Design of drought scenarios for each growth period of potato in Wuchuan County   
+
+<html><body><table><tr><td rowspan="2">干旱情景</td><td colspan="5">降水量</td></tr><tr><td>全生育期</td><td>播种-出苗期</td><td>出苗-分枝期</td><td>分枝-开花期</td><td>开花-可收期</td></tr><tr><td>CK</td><td>340</td><td>65.95</td><td>60.28</td><td>74.02</td><td>167.44</td></tr><tr><td>T</td><td>280</td><td>52.76</td><td>48.23</td><td>59.21</td><td>133.95</td></tr><tr><td>T</td><td>220</td><td>42.21</td><td>38.58</td><td>47.37</td><td>107.16</td></tr><tr><td>T</td><td>160</td><td>33.77</td><td>30.86</td><td>37.90</td><td>85.73</td></tr><tr><td>T4</td><td>100</td><td>27.01</td><td>24.69</td><td>30.32</td><td>68.58</td></tr></table></body></html>
+
+充,确保马铃薯生长发育过程中不受氮肥的胁迫[31]。
+
+1.5.2马铃薯减产率根据干旱情景设置，在模型中给定干旱条件，模拟得到该情景下马铃薯的干重产量，在与实测鲜重产量进行比较时折算为块茎含水量为 $8 0 \%$ 的鲜重，计算不同干旱情景下的减产率，即：
+
+$$
+D _ { _ { t } } { = } \frac { Y { - } Y _ { _ { t } } } { Y } { \times } 1 0 0 \% 
+$$
+
+式中： $D _ { t }$ 为第 $\mathbf { \Phi } _ { t }$ 年的减产率 $( \% ) { : } Y$ 为第 $\mathbf { \Phi } _ { t }$ 年正常气象条件驱动下的模拟产量 $\left( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } \right)$ ； $Y _ { t }$ 为第 $\mathbf { \Phi } _ { t }$ 年发生
+
+干旱情况下的模拟产量 $\left( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } \right)$ ）
+
+# 2结果与分析
+
+# 2.1APSIM-Potato模型的适用性分析
+
+2.1.1 APSIM-Potato模型模拟马铃薯生育期的适用性分析根据研究区域马铃薯各发育阶段的实际观测数据，验证APSIM-Potato模型模拟武川县马铃薯生育期的适宜性。结果显示，在该品种参数条件下，模型对武川县马铃薯生育期的模拟效果较好。出苗期、开花期、分枝期和可收期各发育阶段模拟与实测天数的RMSE均在3d以内，NRMSE均在 $5 . 0 0 \%$ 以内， $R ^ { 2 }$ 分别为 $0 . 7 4 , 0 . 8 5 , 0 . 8 9$ 和 $_ { 0 . 8 8 , D }$ 指数分别为 $0 . 8 3 \ 、 0 . 9 2 、 0 . 9 4$ 和0.93(图3)。
+
+2.1.2APSIM-Potato模型模拟马铃薯LAI、地上部生物量和产量模拟效果的适用性分析马铃薯LAI、地上部生物量和鲜薯产量的模拟值与实测值的比较结果如图4所示。马铃薯LAI的模拟值与实测值之间的NRMSE为 $1 2 . 8 2 \%$ ;对于地上部生物量而言，模拟值略高于实测值，NRMSE为 $1 7 . 3 5 \%$ ,R²和 $D$ 指数分别为0.91和0.89，除个别年份外可以较好模拟马铃薯的地上部生物量；模拟与实测产量的$R ^ { 2 }$ 和 $D$ 指数分别为0.92和0.93，NRMSE为 $1 4 . 4 8 \%$ ，表明模型可以较好地模拟武川县马铃薯的产量。
+
+# 2.2干旱模拟结果分析
+
+2.2.1马铃薯LAI对不同发育阶段水分胁迫的响应分别对马铃薯进行单一发育阶段(图5a\~d)和连续发育阶段（图 $5 \mathrm { e } { \sim } \mathrm { h }$ )不同降水梯度的水分控制模拟，分别用实验组（ $\mathrm { { T } _ { 1 } , T _ { 2 } , T _ { 3 } }$ 和 $\mathrm { T } _ { 4 }$ )马铃薯4个单一发育阶段的降水量和6种组合阶段的降水量来替换对照组(CK)相应发育阶段的降水量，以此来分析不同干旱情景对马铃薯LAI的影响。
+
+在单一发育阶段不同降水梯度的水分控制模
+
+![](images/37a95c37a80d1cada5e55a5e2bab4e666db809545eb51bfe96288a6e2e89456f.jpg)  
+注：图中坐标轴为日序数。  
+图3武川县马铃薯各发育阶段模拟值与实测值比较   
+Fig.3 Comparison ofsimulated and measured values of potato at each growth period of potato in Wuchuan County   
+图4武川县马铃薯叶面积指数(LAI)、地上部生物量和产量的模拟值与实测值比较
+
+2.5 (a)LAI 20000 (b)地上部生物量 25000 (c)产量 2 8g 15000 200 .. .\` . ： 10000 值 ！ + B-0.986 5000 心 D=-0.91 1000 D2=-0.92 NRMSE=12.82% NRMSE=17.35% . NRMSE=14.48% n=10 n=10 n=10 0.0 0.51.0 1.52.0 2.5 0 5000 10000 15000 20000 0 5000 15000 25000 实测值 $/ \mathbf { m } ^ { 2 } \cdot \mathbf { m } ^ { - 2 }$ （204号 实测值/kg·hm-2 实测值/kghm-2
+
+Fig.4Comparison of simulated and measured values ofpotatoLAI,aboveground biomas,yield in Wuchuan County
+
+CK 播种-出苗期 出苗-分枝期—分枝-开花期 开花-可收期   
+1 (a)单一发育阶段T 3（0单一发有 发有 1 0.8 福 0.4   
+0.0 0.0 180 200 220 240 260 180 200 220 240 260 180 200 220 240 260 180 200 220 240 260 天数/d 天数/d 天数/d 天数/d CK 一 播种-分枝期 播种-开花期 播种-可收期 出苗-开花期 出苗-可收期 一分枝-可收期 2安发有价 (g)连续发育阶段T 发有 $\mathrm { T } _ { 4 }$ （204号 2.0 2.0 1.6 1.6 1.2 0.8 0.8 0.8 0.8 0.4 0.4 0.4 0.4   
+0.0 0.0 0.0 0.0 180 200 220 240 260 180 200 220 240 260 180 200 220 240 260 180 200 220 240 260 天数/d 天数/d 天数/d 天数/d
+
+拟中，随着干旱胁迫强度的增加马铃薯LAI逐渐减小。在相同干旱胁迫强度下，马铃薯LAI对单一发育阶段水分胁迫的响应从大到小的顺序依次是：分枝-开花期、出苗-分枝期、开花-可收期、播种-出苗期。其中，马铃薯LAI对分枝-开花期水分胁迫的响应最大，对应的LAI较CK减少 $3 \% { \sim } 3 3 \%$ 。马铃薯LAI对播种-出苗期水分胁迫的响应最小，对应的LAI较CK减少 $1 \% \sim 2 6 \%$ 。
+
+在连续发育阶段不同降水梯度的水分控制模拟中，随着干旱胁迫强度和干旱持续时间的增加马铃薯LAI逐渐减小。在相同的干旱胁迫强度下，马铃薯LAI对连续发育阶段水分胁迫的响应从大到小的顺序依次是：播种-可收期、出苗-可收期、播种-开花期、出苗-开花期、分枝-可收期、播种-分枝期。其中，马铃薯LAI对全生育期水分胁迫的响应最大，对应的LAI较CK降低 $10 \% { \sim } 5 7 \%$ ，且LAI达到最大值所需的时间也会推迟 $1 0 { \sim } 1 7 \mathrm { d }$ ;马铃薯LAI对播种-分枝期水分胁迫的响应最小，对应的LAI较CK降低 $1 \% { \sim } 3 8 \%$ 。在播种-分枝期和分枝-可收期水分亏缺时，对应的LAI较CK分别降低 $1 \% { \sim } 3 8 \%$ 和$8 \% { \sim } 4 6 \%$ ，马铃薯LAI对发育后期水分胁迫的响应比前期大。
+
+2.2.2马铃薯地上部生物量对不同发育阶段水分胁迫的响应分别对马铃薯进行单一发育阶段（图6a\~d)和连续发育阶段(图6e\~h)不同降水梯度的水分控制模拟，分别用实验组 $\smash {  { \mathrm { T } _ { 1 } \mathrm { \Omega } } _ { \mathrm { { T } 2 } \setminus }  { \mathrm { T } _ { 3 } } }$ 和 $\mathrm { T } _ { 4 }$ )马铃薯4个单一发育阶段的降水量和6种组合阶段的降水量来替换对照组(CK)相应发育阶段的降水量，以此来分析不同干旱情景对马铃薯地上部生物量的影响。
+
+在单一发育阶段不同降水梯度的水分控制模拟中，随着干旱胁迫强度的增加马铃薯地上部生物量逐渐减小。在相同干旱胁迫强度下，马铃薯地上部生物量对单一发育阶段水分胁迫的响应从大到小的顺序依次是：分枝-开花期、出苗-分枝期、开花-可收期、播种-出苗期。其中，马铃薯地上部生物量对分枝-开花期水分胁迫的响应最大，其地上部生物量较CK减少 $1 7 \% { \sim } 3 5 \%$ ;马铃薯地上部生物量对播种-出苗期水分胁迫的响应最小，对应的值较CK减少 $5 \% { \sim } 1 1 \%$ ○
+
+在连续发育阶段不同降水梯度的水分控制模拟中，马铃薯地上部生物量变化情况与LAI变化情况相似，随着干旱胁迫强度的增加马铃薯地上部生物量逐渐减小。在相同的干旱胁迫强度下，马铃薯地上部生物量对全生育期水分胁迫的响应最大，对应的地上部生物量较CK降低 $2 9 \% { \sim } 6 7 \%$ ,且地上部生物量达到最大值所需的时间也会推迟13\~18d;马铃薯地上部生物量对播种-分枝期水分胁迫的响应最小，对应的值较CK降低 $9 \% { \sim } 3 7 \%$ ○
+
+2.2.3马铃薯鲜薯产量对不同发育阶段水分胁迫的响应分别对马铃薯不同发育阶段、不同干旱情景进行模型模拟并计算其减产率(图7)
+
+在进行单一发育阶段不同降水梯度的水分控
+
+CK—播种-出苗期—出苗-分枝期—分枝-开花期—开花-可收期   
+8/ z-uu. zwy.8g zy.gg 25000,(a)单一发育阶段T 25000(b)单一发育阶段T 25000(c)单一发育阶段T 25000(d)单一发育阶段T4 20000 量20000 量20000 量20000 15000 物15000 15000 物 15000 10000 生 10000 10000 10000 5000 部 5000 5000 5000 0 180 220260 300地 上 0 180 220260 0 180 220260 300地 0L 180 220260 300 天数/d 天数/d 天数/d 天数/d CK一播种-分枝期—播种-开花期—播种-可收期 出苗-开花期一出苗-可收期一分枝-可收期   
+.8 25000 0(e)连续发育阶段T 20060连续发有阶股 $\mathrm { T } _ { 2 }$ 2500 (g)连续发育阶段T 0 $\mathrm { T } _ { 4 }$ 2000 鲁 20000 物 10000 5000 部 生10000 5000 5000 5000 0 180 220 260 300地 上 0 180 220 260 300地 180 220 260 300 0 180 220 260 300 天数/d 天数/d 天数/d 天数/d
+
+制模拟时，随着干旱胁迫强度的增加，马铃薯的产量减少(图7a)。在相同干旱胁迫强度下，马铃薯产量对单一发育阶段水分胁迫的响应从大到小的顺序依次是：分枝-开花期、出苗-分枝期、开花-可收期、播种-出苗期。在播种-出苗期适当地减少水分，其产量会增加 $1 \% \sim 9 \%$ 。出苗-分枝期、分枝-开花期随降水量的减少，马铃薯分别减产 $1 \% \small . . 1 8 \%$ 和$2 \% { \sim } 2 5 \%$ ,即马铃薯产量对分枝-开花期水分胁迫的响应大于对出苗-分枝期水分胁迫的响应。开花-可收期水分胁迫会导致马铃薯减产 $1 \% \sim 1 1 \%$ 。
+
+对马铃薯进行连续发育阶段不同降水梯度的水分控制模拟，结果表明马铃薯减产程度随干旱强度和干旱持续时间的增加而增加(图7b)。用 $\mathrm { T } _ { 1 }$ 中连续发育阶段降水量替换CK中相应时段的降水量时，马铃薯减产率均在 $10 \%$ 以下；用 $\mathrm { T } _ { 2 } , \mathrm { T } _ { 3 }$ 中连续发育阶段降水量替换CK中相应时段的降水量时，随水分胁迫持续时间的增加，马铃薯减产 $3 \% { \sim } 5 0 \%$ ,其中全生育期进行高强度水分胁迫时，减产率可达到$5 5 \% \sim 7 5 \%$ ，且发育中后期的水分胁迫对最终产量影响较大，减产率可达 $2 7 \% { \sim } 6 8 \%$ ；用 $\mathrm { T } _ { 4 }$ 中连续发育阶段降水量替换CK中相应时段的降水量时，水分条件难以维持马铃薯正常的生长发育，随着水分胁迫
+
+![](images/7a5aefbc9edfeaed7c3d3c70f2a23b834b7b51799a524a21d5f2ccd764ccf08a.jpg)  
+图6各发育阶段不同干旱情景下马铃薯地上部生物量变化曲线  
+Fig.6Variation curves of potato aboveground biomass under different drought conditions at each growth perio   
+图7各发育阶段不同干旱情景下马铃薯减产率  
+Fig.7 Yield reduction rate of potato under different drought conditions at each growth periods
+
+# 干旱区地理
+
+持续时间的增加，可导致严重减产甚至绝收。
+
+# 3讨论
+
+干旱胁迫会抑制马铃薯的生理生化过程，从而导致产量和品质的损失。这种损失的程度与作物品种、干旱胁迫作用阶段、持续时间和影响强度有直接关系[32-33]。LAI可以体现马铃薯的光合特性和生长发育状况,影响马铃薯多种生理生化过程[34-35]。王希群等3研究认为，马铃薯LAI与其抗旱性呈显著的正相关，这与本研究结果相似，LAI随干旱胁迫强度及时间的增加而降低；马铃薯苗期受到短暂的干旱胁迫时，对其LAI影响不大，马铃薯LAI对块茎形成和膨大期干旱胁迫的响应较大。究其原因，认为是干旱胁迫下，水分不足导致植株叶面气孔关闭，蒸腾作用和净光合速率都降低，马铃薯生长发育受阻;且由于干旱胁迫使细胞生长受阻，叶片扩大受限，叶片衰老或脱落的速度增加，整体光合受到严重影响，进而影响其LAI。马铃薯的地上部分(茎、叶)与地下部分(根、块茎)密切相关，二者不仅存在相互依赖关系，还存在相互竞争关系。在发生干旱胁迫时，二者受影响的表现不同。短时间干旱胁迫时，地下部未发生水分亏缺可以正常生长，而地上部由于茎叶的伸长生长以及植株的蒸发、蒸腾作用导致发生水分亏缺，地上部生长受限，地上部生物量降低。另外本研究中地上部生物量的增长情况符合Logistic方程的增长模式，呈现出前期生长较慢，达到某一时期后增长速度加快,到后期增长速度又开始减缓的特点，这与秦永林[37]对不同灌溉模式下的马铃薯生物量的研究结论相一致。
+
+干旱胁迫作用于块茎形成期表现为马铃薯的匍匐茎减少,从而降低其块茎数量和最终产量[38];块茎膨大期受到干旱胁迫会使马铃薯植株光合作用受到抑制,从而降低其块茎数量和产量[39]。这也与本研究中马铃薯最终产量对分枝-开花期水分胁迫的响应最大这一结论相符。在另一项研究中，有学者认为，适应轻度干旱胁迫的马铃薯植株在后续的干旱胁迫中表现出较少的产量损失[40]。本研究发现，苗期适当干旱胁会使马铃薯最终产量增加。模型中干物质积累速率由日总太阳辐射、水分胁迫因子、温度胁迫因子、 $\mathrm { C O } _ { 2 }$ 浓度胁迫因子等共同控制。根据设定的干旱情景，在一定的范围内减少水分时，模型中土壤湿度不会根据该时期降水量的改变发生明显变化;但当经历长时间水分亏缺，土壤非常干旱，土壤湿度下降明显时，植物潜在蒸腾也减少，水分胁迫因子减小，模型干物质积累速率也会随之下降，导致最终产量减少。另外，生长前期适当减少水分时，干物质向不同器官的运移和分配也会发生相应的变化，在一定的范围内减少水分时，马铃薯根系的分配比例将会增加，会提高马铃薯的最终产量[4I]。因此,在农业生产中常使用"蹲苗"的方法，来提高马铃薯抗旱能力，从而提高其最终产量。另外,在本研究中除了苗期外马铃薯产量随着干旱胁迫持续时间和强度的增加而减少，这是由于干旱胁迫使植株整体生长发育受到抑制，细胞生长速率减慢，光合作用受到抑制，株高和地上部生物量等都相应减少，最终导致马铃薯产量下降。该规律不仅适用于马铃薯群落，研究发现，玉米在受到干旱胁迫时，其穗长、株高和百粒重都表现出不同程度的下降趋势[42]；冬小麦短时间轻度缺水不影响其光合作用及最终产量，但随着胁迫时间与强度的增加，水分不足会使光合作用降低，籽粒无法充分灌浆，最终导致减产[43]。因此，在马铃薯农业生产过程中遭遇长期干旱，需进行适时灌溉以保证马铃薯的最终产量。
+
+当前我国马铃薯农业生产过程中频繁遭遇干旱事件，这些干旱事件限制了我国马铃薯产业的发展[44]。因此,在当前生长条件下提高马铃薯生产力对于满足我国国民的营养需求就变得格外重要。明确水分胁迫对马铃薯的影响机制，确定马铃薯对干旱胁迫的响应情况对于选择能够更好地适应干旱的马铃薯品种并制定田间管理措施至关重要。这些理论基础的阐明有助于在气候变化的大背景下保持甚至提高马铃薯产量。本研究表明，干旱胁迫持续时间、胁迫强度、胁迫作用阶段、作物品种和不同区域气候都会影响马铃薯的生长发育及最终产量。但APSIM-Potato模型中需要进行调整与确定的参数很多，仅凭作物生育期、地上部生物量、产量等资料无法满足所有参数调整的需求；其次，本研究设计的干旱情景模拟方案相对简单，仅针对现有基准年对降水量按生育期进行等比例分配，未考虑某一生育期水分极端的状况；同时，设定的模拟环境与马铃薯实际生长环境状况也存在一定差异，未考虑马铃薯植株病虫害和极端天气等的影响。所以需要在后续的研究中根据实际情况进行模拟，考虑极端天气、病虫害等环境条件的影响；获取精度更高的田间测定数据，更好地与田间试验相结合从而提升作物模型的模拟效果。
+
+# 4结论
+
+本研究采用武川地区1986—2020年逐日气象数据，土壤数据及作物数据，对APSIM-Potato模型在武川县的适用性进行评价。结合当地气候条件设定干旱情景，利用验证后的模型模拟马铃薯叶面积指数(LAI)、地上部生物量和产量对不同发育阶段水分胁迫的响应情况，得出以下结论：
+
+（1）APSIM-Potato模型能够较好地模拟武川县不同年景马铃薯的生长发育及产量形成，其中生育期的 $D$ 指数均在0.8以上，模拟的均方根误差(RMSE)均在3d以内，LAI、地上部生物量和产量的$D$ 指数也均在0.85以上，模拟结果的归一化均方根误差(NRMSE)均低于 $2 0 \%$ 。模型模拟精度较高，在研究地区具有适用性。
+
+(2）单一发育阶段的水分胁迫，马铃薯LAI、地上部生物量和产量随着干旱胁迫持续时间和强度的增加而减小，但播种-出苗期适当的水分亏缺使马铃薯增产,因此，在农业生产过程中可以适时控水，采用“蹲苗"的方法来提高马铃薯产量。马铃薯LAI、地上部生物量和产量对单一发育阶段水分胁迫响应最大的阶段是分枝-开花期，其马铃薯LAI、地上部生物量和产量较CK分别减少 $3 \% { \sim } 3 3 \%$ 、 $1 7 \%$ 2$3 5 \% . 2 \% . 2 5 \%$ 。
+
+(3）连续发育阶段的水分胁迫，马铃薯LAI、地上部生物量和产量随着干旱胁迫持续时间和强度的增加而减小，水分胁迫对马铃薯LAI、地上部生物量和产量的影响具有持续性和叠加性。马铃薯LAI、地上部生物量和产量对连续发育阶段水分胁迫响应最大的阶段是播种-可收期，全生育期水分胁迫会使马铃薯LAI、地上部生物量和产量分别减少 $1 0 \% - 5 7 \% . 2 9 \% - 6 9 \%$ 和 $5 5 \% \sim 7 5 \%$ ,且其LAI和地上部生物量达到最大值的时间也相应增加10\~17d和 $1 3 { \sim } 1 8 \mathrm { d }$ 。
+
+# 参考文献(References)
+
+[1] Long SP,Ort D R.More than taking the heat:Crops and globa change[J]. Current Opinion in Plant Biology,2010,13(3):241-
+
+248.   
+[2]樊胜岳,周宁,刘文文.走出马尔萨斯陷阱:人口压力与沙漠化 的关系[J].干旱区地理,2020,43(1):218-226.[Fan Shengyue, Zhou Ning,Liu Wenwen. Out of the Malthusian trap: The relationship between population pressure and desertification[J]. Arid Land Geography,2020,43(1): 218-226.]   
+[3]Food and Agriculture Organization of the United Nations. FAOSTAT[EB/OL].[2021-07-07].http://www.fao.org/faostat/en/#data/ QC.   
+[4]Paul S,Farooq M,Bhatacharya S S,et al. Management strategies for sustainable yield of potato crop under high temperature[J].Archives of Agronomy and Soil Science,2016,63(2): 276-287.   
+[5]刘鹏凌,周云,张文娟.主粮化背景下中国马铃薯主产区生产效 率及其影响因素研究[J].延边大学农学学报,2021,43(3): 93- 100.[Liu Pengling, Zhou Yun, Zhang Wenjuan. Study on production efficiency and its influencing factor of potato production areas in China under the background of main grain production[J].Agricultural Science Journal of Yanbian University,2O21,43(3): 93- 100.]   
+[6]Li JH,Cang Z M, Jiao F,et al. Influence of drought stress on photosynthetic characteristics and protective enzymes of potato at seedling stage[J]. Journal of the Saudi Society of Agricultural Sciences,2015,16(1): 82-88.   
+[7]肖厚军,孙锐锋,何佳芳,等.不同水分条件对马铃薯耗水特性 及产量的影响[J].贵州农业科学,2011,39(1):73-75.[Xiao Houjun,Sun Ruifeng,He Jiafang,etal.Effects of different watersupply on yield and water consumption characteristics of potato[J]. Guizhou Agricultural Sciences,2011,39(1): 73-75.]   
+[8]云文丽,苗百岭.内蒙古马铃薯干旱等级指标研究[J].干旱地区 农业研究,2021,39(2): 220-226.[Yun Wenli,Miao Bailing.A study of drought index of potato in Inner Mongolia[J].Agricultural Research in the Arid Areas,2021,39(2): 220-226.]   
+[9]越昆,金林雪,李云鹏,等.内蒙古中部区干旱指数演变及其对 马铃薯产量的影响[J].中国农业科技导报,2021,23(10):161- 170.[Yue Kun, Jin Linxue,Li Yunpeng,et al. Temporal and spatial variation of drought index and its impact on potato yield in central Inner Mongolia[J].Journal of Agricultural Science and Technology,2021,23(10): 161-170.]   
+[10]抗艳红,龚学臣,赵海超,等.不同生育时期干旱胁迫对马铃薯 生理生化指标的影响[J].中国农学通报,2011,27(15):97-101. [Kang Yanhong,Gong Xuechen, Zhao Haichao,et al.Physiological and biochemical response of potato under the drought stress in diferent growth period[J]. Chinese Agricultural Science Bulletin, 2011, 27(15): 97-101.]   
+[11] 韩德鹏,杨蓓,翁大成,等.干旱胁迫对冬播马铃薯现蕾期生理 生化指标的影响[J].中国马铃薯,2020,34(2):78-85.[Han Depeng, Yang Bei, Weng Dacheng,et al. Effects of drought stress on physiological and biochemical indexes of winter sowing potato at
+
+# 干吴区地理
+
+bud tlower stage[J]. Chinese Potato Journal,2020,34(2): 78-85.] [12] 胡琦,潘学标,杨宁.北方农牧交错带马铃薯沟垄集雨技术适宜 性研究[J].干旱区地理,2015,38(3): 585-591.[Hu Qi,Pan Xuebiao,Yang Ning. Suitability of rainwater harvesting technology for potato farmland ridge and furrow in northern agro-pastoral zone of China[J]. AridLandGeography,201,38(3): 585-591.] [13]Belanger G,Walsh JR,Richards JE,etal. Tuber growth and biomass partitioning of two potato cultivars grown under diferent N fertilization rates with and without irigation[J].American Journal of Potato Research,2001,78(2): 109-117. [14]王文佳,冯浩.国外主要作物模型研究进展与存在问题[J].节水 灌溉,2012(8): 63-68,73.[Wang Wenjia,Feng Hao.The progress and problems in the development of foreign crop models[J].Water Saving Irrigation, 2012(8): 63-68,73.] [15]McCown R L,Hammer G L,Hargreaves JN G,et al.APSIM: A novel software system for model development,model testing and simulation in agricultural systems research[J]. Agricultural Systems,1996,50(3): 255-271. [16]Keating B A,Brown S, Carberry P,et al. An overview of APSIM: A model designed for farming systems simulation[J]. European Journal of Agronomy,2003,18(3-4): 267-288. [17] 李扬,王靖,唐建昭,等.农牧交错带马铃薯高产和水分高效利 用的播期和品种选择[J].农业工程学报,2020,36(4):118-126. [Li Yang,Wang Jing,Tang Jianzhao,et al. Selecting planting date and cultivar for high yield and water use eficiency of potato across the agro-pastoral ecotone in north China[J]. Transactions of the Chinese Society of Agricultural Engineering,2020,36(4):118-   
+126.] [18] 李扬,王靖,唐建昭,等.播期和品种变化对马铃薯产量的耦合 效应[J].中国生态农业学报,2019,27(2):296-304.[Li Yang, Wang Jing,Tang Jianzhao,et al. Coupling impacts of planting date and cultivar on potato yield[J]. Chinese Journal of Eco-Agriculture,   
+2019,27(2): 296-304.] [19] 戴彤,王靖,赫迪,等.APSIM模型在西南地区的适应性评 价——以重庆冬小麦为例[J].应用生态学报,2015,26(4):   
+1237-1243.[Dai Tong,Wang Jing,Hao Di,et al.Adaptability of APSIM model in southwestern China: A case study of winter wheat in Chongqing City[J]. Chinese Journal of Applied Ecology,2015,   
+26(4): 1237-1243.] [20] 樊栋樑,潘志华,杨霏云,等.APSIM-wheat 模型在我国干旱半 干旱地区的适应性评价——以内蒙古地区为例[J].干旱区资 源与环境,2018,32(6):99-105.[Fan Dongliang,Pan Zhihua, Yang Feiyun,et al.Adaptability of APSIM-wheat model in arid and semi-arid regions:A case study in Inner Mongolia[J]. Journal of Arid Land Resources and Environment, 2018,32(6): 99-105.] [21] 刘志娟,杨晓光,王静,等.APSIM玉米模型在东北地区的适应 性[J].作物学报,2012,38(4): 740-746.[Liu Zhijuan, Yang Xiaoguang,Wang Jing,et al. Adaptability of APSIM maize model in northeast China[J].Acta Meteorologica Sinica,2012,38(4):740- 746.]   
+[22] 康文钦,杜磊,于利峰,等.阴山北麓地区降水特性和作物需水 耦合关系分析——以武川县为例[J].北方农业学报,2020,48 (5): 83-89.[Kang Wenqin,Du Lei,Yu Lifeng,et al. Analysis of the coupling relationship between precipitation characteristics and crop water demand in the northern area of Yinshan Mountain: Taking Wuchuan County as an example[J]. Journal of Northern Agriculture,2020,48(5): 83-89.]   
+[23] 高琳,潘志华,杨书运,等.覆膜对旱地马铃薯田土壤温湿度及 温室气体排放的影响[J].干旱区资源与环境,2017,31(6):136- 141.[Gao Lin,Pan Zhihua,Yang Shuyun,etal.Effect of different plastic film mulching methods on soil temperature-humidity and greenhouse gases emisson in the rainfed potato field[J]. Journal of Arid Land Resources and Environment, 2017,31(6): 136-141.]   
+[24] 王立为,潘志华,高西宁,等.不同施肥水平对旱地马铃薯水分 利用效率的影响[J].中国农业大学学报,2012,17(2):54-58. [Wang Liwei,Pan Zhihua,Gao Xining,et al.Influence of different fertilitylevels water use efficiency of the potato in the dry land[J]. Journal of China Agricultural University,2012,17(2): 54-58.]   
+[25] 唐建昭.北方农牧交错带马铃薯基于缩差和增效的种植管理模 式研究[D].北京:中国农业大学,2018.[Tang Jianzhao.A study on planting pattern of potato narrow yield gap and increase precipitation use eficiency in the agro-pastoral ecotone in north China [D]. Beijing: China Agricultural University,2018.]   
+[26] 王立为.旱地马铃薯田温室气体减排与增产协同机制和模式研 究[D].北京:中国农业大学,2015.[Wang Liwei.The coordination mechanism and pattern of greenhouse gas reduction and yield increase in potato field[D]. Beijing: China Agricultural University, 2015.]   
+[27]Brown HE,Huth N,Holzworth D.A potato model builtusing the APSIM plant net framework[C]//Chan F,Marinova D,Anderssen R S. 19 $^ \mathrm { t h }$ International Congress on Modeling and Simulation.Perth: Modelling and Simulation Society of Australia and New Zealand, 2011: 961-967.   
+[28] 王钧,李广,聂志刚,等.陇中黄土高原区旱地春小麦产量对干 旱胁迫响应的模拟研究[J].干旱区地理,2021,44(2):494-506. [Wang Jun,Li Guang,Nie Zhigang,et al. Simulation study of response of spring wheat yield to drought stress in the Loess Plateau of central Gansu[J]. Arid Land Geography，2021,44(2):494- 506.]   
+[29] 孙爽,王春乙,宋艳玲,等.我国北方一作区马铃薯高产稳产区 分布特征[J].应用气象学报,2021,32(4):385-396.[Sun Shuang,Wang Chunyi,Song Yanling,etal. Distributions of high and stable yield for potato in the single-cropping region in northern China[J].Journal of Applied Meteorological Science,2O21,32(4): 385-396.]   
+[30] Tang JZ,Wang J,Fang Q X,et al. Optimizing planting date and supplemental irrigation for potato across the agro-pastoral ecotone in north China[J]. European Journal of Agronomy,2O18,98: 82-
+
+# 94.
+
+[31] 陈瑞英,蒙美莲,梁海强,等.不同水氮条件下马铃薯产量和氮 肥利用特性的研究[J].中国农学通报，2012,28(3):196-201. [Chen Ruiying,Meng Meilian,Liang Haiqiang,et al.Effects of different treatments of irrigation and fertilization on the yield and nitrogen utilization characteristic of potato[J]. Chinese Agricultural Science Bulletin,2012,28(3): 196-201.]   
+[32]Aliche E B,Oortwijn M, Theeuwen TPJM,et al.Drought response in field grown potatoes and the interactions between canopygrowth and yield[J].Agricultural Water Management,2018, 206:20-30.   
+[33]Plich J,Boguszewska-Mahkowska D,Marczewski W.Relations between photosynthetic parameters and drought-induced tuber yield decrease in Katahdin-derived potato cultivars[J].Potato Research, 2020, 63(4): 463-477.   
+[34] 龚学臣,抗艳红,赵海超,等.干旱胁迫下磷营养对马铃薯抗旱 性的影响[J].东北农业大学学报,2013,44(4):48-52.[Gong Xuechen, Kang Yanhong, Zhao Haichao,et al. Effect of phosphorus nutrition on drought-resistance of potato under drought stress [J]. Journal of Northeast Agricultural University,2O13,44(4): 48- 52.]   
+[35] 尹智宇,郭华春,封永生,等.干旱胁迫下马铃薯生理研究进展 [J].中国马铃薯,2017,31(4):234-239.[Yin Zhiyu,Guo Huachun,Feng Yongsheng,et al.Research progress of potato physiology under drought tolerance[J]. Chinese Potato Journal, 2017,31 (4): 234-239.]   
+[36] 王希群,马履一,贾忠奎,等.叶面积指数的研究和应用进展[J]. 生态学杂志,2005,24(5): 537-541.[Wang Xiqun,Ma Luyi, Jia Zhongkui,et al. Research and application advances in leaf area index (LAI)[J]. Chinese Journal of Ecology,2005,24(5): 537-541.]   
+[37] 秦永林.不同灌溉模式下马铃薯的水肥效率及膜下滴灌的氮肥 推荐[D].呼和浩特:内蒙古农业大学,2013.[Qin Yonglin.Water and fertilizer use efficiencies of potato under different irrigation patterns and nitrogen recommendation of under-mulch-drip irrigated potato[D]. Hohhot: Inner Mongolia Agricultural University, 2013.]   
+[38]Eiasu B K, Soundy P,Hammes P S. Response of potato (Solarium tuberosum) tuber yield components to gel-polymer soil amendments and irrigation regimes[J]. New Zealand Journal of Crop and Horticultural Science,2007,35(1): 25-31.   
+[39] Aliche E B,Theeuwen TPJM,Oortwijn M,et al. Carbon partitioning mechanisms in potato under drought stress[J].Plant Physiology and Biochemistry,2020,146: 211-219.   
+[40] Banik P, Zeng W,Tai H,et al. Efects of drought acclimation on drought stress resistance in potato (Solanum tuberosum L.） genotypes[J]. Environmental and Experimental Botany,2O16,126: 76-89.   
+[41] 抗艳红,龚学臣,赵海超,等.不同生育期干旱胁迫对马铃薯产 量及品质的影响[J].安徽农业科学,2010,38(30):16820-16822. [Kang Yanhong,Gong Xuechen, Zhao Haichao,et al. Efect of the drought stress in diferent growth stages on potato yield and quality [J].Journal of Anhui Agricultural Sciences,2O10,38(3O): 16820- 16822.]   
+[42] 窦超银,于景春,丁秀琴.干旱胁迫对辽西半干早区玉米生长和 产量的影响[J].灌溉排水学报,2013,32(4):84-87.[Dou Chaoyin,Yu Jingchun,Ding Xiuqin.Effects of drought stress on the growth and yield of maize in semi-arid area of west Liaoning[J]. Journal of Irrigation and Drainage,2013,32(4): 84-87.]   
+[43] 张秋英,李发东,高克吕,等.水分胁迫对冬小麦光合特性及产 量的影响[J].西北植物学报,2015,25(6):1184-1190.[Zhang Qiuying,Li Fadong, Gao Kelu, etal.Effect of water stress on the photosynthetic capabilities and yield of winter wheat[J].Acta Botanica Boreali-Occidentalia Sinica,2015,25(6): 1184-1190.]   
+[44]Obidiegwu JE,Bryan G J, Jones HG,et al. Coping with drought: Stress and adaptive responses in potato and perspectives for improvement[J].Frontiers in Plant Science,2015,6:542,doi: 10.3389/fpls.2015.00542.
+
+# Simulation of response of potato growth and yield to drought stress in the singlecropping region in northern China: A case of Wuchuan County
+
+LUO Xinlan'， SUN Yue'，LIU Limin'， WANG Liwei'， YANG Litao²， GAO Xining'(1.Shenyang Agricultural University,Shenyang 11O866,Liaoning, China;2.Inner Mongolia Climate Center,Hohhot O1OO51,Inner Mongolia, China)
+
+Abstract: The single-cropping region in northern China is the major potato-producing areas and a typical semiarid dryland agricultural location in China.Recently,due to the intensification ofclimate change,annual precipitation in this area has decreased,and the frequencyand intensity of drought have increased significantly,which has greatly affected the growth and production of local potatoes.Therefore,to explore the effects of various degrees of drought stress on the growth and yield of potato in the single-cropping region in northern China,this study was conducted on the basis of years of potato growth and meteorological data to verify the Agricultural Production Systems Simulator (APSIM-Potato) model and evaluate the applicability of the APSIM-Potato model in Wuchuan County,Iner Mongolia, China.The validated model was used to analyze the response of potato leaf area index (LAI),above-ground biomass,and yield to drought scenariosat different developmental stages. （1) The results show that the APSIM-Potato model is superior simulating potatoes growth and yield formation in Wuchuan over time.The root mean square error of the calculated and measured values at each development stage was within 3 days;the normalized root mean square error of the calculated and measured values of LAI,above-ground biomass and yield was less than $20 \%$ ,and the coefficient of determination $( R ^ { 2 } )$ and consistency index( $D$ index) were both greater than 0.85.It could be demonstrated that the calculation accuracy ofthe model was relatively high,and the APSIM-Potato model had applicability in the study region.(2）With the increase of drought stress time and intensity,the LAI,above-ground biomass,and yield would decrease. When calculating drought at a single developmental stage,the LAI,above-ground biomass,and yield were the most responsive to water stress in the branch-flowering stage. Compared with CK,the LAI,above-ground biomass,and yieldof potato were respectively reduced by $3 \% - 3 3 \%$ ， $1 7 \% - 3 5 \%$ ,and $2 \% - 2 5 \%$ ; When calculating drought during continuous development, the LAI, above-ground biomass,and yield were the most responsive to water stress during the whole growth period. Compared with CK, the LAI,above-ground biomass and yield were reduced by $1 0 \% - 5 7 \%$ $2 9 \% - 6 9 \%$ ,and $5 5 \text{‰}$ $7 5 \%$ ,and the time for its LAI and above-ground biomass to reach the maximum value also increased by 10-17 d and $1 3  { - } 1 8 \mathrm { d }$ .The recent study results had laid a theoretical foundation for analyzing the applicability of the APSIMPotato model in the single-cropping region in northern China and for in-depth study of the impact of drought on potato in the single-cropping region in northern China under the background of climate warming.
+
+Key words: potato；APSIM-Potato model; applicability evaluation; drought simulation; leaf area index (LAI); biomass; yield

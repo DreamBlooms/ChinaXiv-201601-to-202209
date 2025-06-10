@@ -1,0 +1,228 @@
+# DOI:10.5846/stxb201609121839
+
+张婧,李虎,朱国梁，夏光利,牟小翎,王立刚,黄诚诚,江雨倩.控释肥施用对土壤 $\mathbf { N } _ { 2 }$ O排放的影响一以华北平原冬小麦/夏玉米轮作系统为例生态学报,2017,37(22)：7624-7635.  
+ZhangJ,LiH,ZuGiGuXgG,Hreeodeistudy of a wheat-maize rotation system in theNorth ChinaPlain.Acta EcologicaSinica,2O17,37(22):7624-7635.
+
+# 控释肥施用对土壤 $\mathbf { N } _ { 2 }$ 0排放的影响
+
+以华北平原冬小麦/夏玉米轮作系统为例张婧¹，李虎¹，朱国梁²，夏光利²，牟小翎²，王立刚1，\*，黄诚诚¹，江雨倩
+
+1中国农业科学院农业资源与农业区划研究所/农业部面源污染控制重点实验室/中国农业科学院-美国新罕布什尔大学可持续农业生态系统研究联合实验室，北京100081  
+2泰安市农业科学研究院，泰安271000
+
+摘要：控释肥作为一种能够提高肥料利用率、保障作物产量和节约劳动力的新型肥料已经在作物生产中得到广泛应用,而控释肥对土壤 ${ \bf N } _ { 2 } { \bf O }$ 排放影响结果的差异使其成为当前科学评估控释肥施用环境效应的焦点问题之一。因此,旨在探讨不同种类控释肥及氮素水平施用对华北平原冬小麦/夏玉米轮作系统土壤 $\mathbf { N } _ { 2 }$ O排放的影响,为科学评价控释肥施用的环境效应及其推广应用提供科学依据。本研究监测采用静态暗箱一气相色谱法对不同控释肥施用下土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放、环境因素以及产量进行了周年监测,探讨了不同处理(对照处理(CK）、控释肥处理1（CRF1）、优化控释肥处理1( $8 0 \% \mathrm { C R F 1 }$ ）、优化控释肥处理2 $\ ' 8 0 \% \mathrm { C R F } 2 \Big )$ （20和控释肥处理3( $\mathrm { C R F } 3 +$ 尿素))下土壤 $[ \mathrm { N } _ { 2 } \mathrm { O }$ 排放特征及土壤温湿度对其的影响。结果表明：控释肥施用下冬小麦/夏玉米轮作系统中土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放峰高值主要出现在基肥施用并伴随灌溉(或降雨)后,一般持续时间约为7—10d,小麦返青期灌溉以及玉米后期降雨会引起微弱的 $\mathbf { N } _ { 2 }$ O排放峰。不同处理土壤 $\mathrm { i N } _ { 2 } \mathrm { O }$ 排放通量变化范围为 $- 2 3 5 . 6 1 { \overline { { \mathrm { - } 2 6 2 5 . 0 1 ~ \mu \mathrm { g } } } } ~ \mathrm { { N } } _ { 2 } \mathrm { { O } } ~ \mathrm { { m } } ^ { - 2 } ~ \mathrm { { h } } ^ { - 1 }$ ,平均排放通量为 $2 3 . 8 8 { - } 5 1 . 3 9 ~ { \mu \mathrm { g } } ~ { \mathrm { N } } _ { 2 } { \mathrm { O } } ~ { \mathrm { m } } ^ { - 2 } ~ { \mathrm { h } } ^ { - 1 }$ ,与CRFI相比, $8 0 \% \mathrm { ‰ }$ 和 $8 0 \% \mathrm { C R F } 2$ 处理能够减小施肥期的 ${ \bf N } _ { 2 } \mathrm { O }$ 排放峰值,但不改变轮作周期土壤 ${ \bf N } _ { 2 } \mathrm { O }$ 排放季节变化规律。CK处理和 $\mathrm { C R F } 3 +$ 尿素处理土壤 $[ \mathrm { N } _ { 2 } \mathrm { O }$ 排放通量与 $5 \ \mathrm { c m }$ 深度土壤温度之间表现出显著的正相关性( $\scriptstyle r ^ { 2 } = 0 . 3 8$ ， $P { < } 0 . 0 1$ ： $r ^ { 2 } = 0 . 3 0$ ， $\scriptstyle P < 0 . 0 5$ ）;CRF1处理和 $8 0 \% \mathrm { C R F 1 }$ 处理在冬小麦生长季及整个轮作周期内与土壤孔隙含水率（WFPS)表现为显著的正相关关系(冬小麦生长季分别为 $r ^ { 2 } = 0 . 5 0$ ， $P { < } 0 . 0 1$ ： $r ^ { 2 } = 0 . 3 9$ ， $\textstyle P < 0 . 0 5$ ;整个轮作周期分别为 $r ^ { 2 } = 0 . 3 9$ ，$\scriptstyle P < 0 . 0 5$ ： $r ^ { 2 } = 0 . 4 3$ ， $P { < } 0 . 0 5$ 。 $8 0 \%$ CRF2处理 ${ \bf N } _ { 2 } 0$ 年排放总量最高,为 $( 2 . 8 9 \pm 0 . 2 4 ) ^ { \cdot }$ ） $ { \mathrm { k g } } \  { \mathrm { N / h m } } ^ { 2 }$ 。相同控释肥种类条件下, $8 0 \%$ CRF1 处理比CRF1处理减少了 $1 4 . 2 3 \% \AA .$ 但并未达到显著水平;相同施氮量水平下,CRF1处理与( $\mathrm { C R F } 3 +$ 尿素)处理之间 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量差异不显著，而 $8 0 \%$ CRF1处理比 $8 0 \% \mathrm { C R F } 2$ 处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量减少 $1 6 . 1 6 \%$ ,并达到显著水平( $P { < } 0 . 0 5 )$ 。本研究不同处理之间 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 直接排放系数在 $0 . 2 9 \% - 0 . 4 2 \%$ 之间,均明显低于 $1 \mathrm { P C C } \ 1 . 0 \%$ 的默认值。各控释肥处理产量与当地农民常规施肥量条件下产量没有显著性差异。因此在华北地区冬小麦/夏玉米轮作系统中应用控释肥技术可以在保证产量的前提下有效减少土壤 ${ \bf N } _ { 2 } \mathrm { O }$ 排放,并且仍存在一定的减排空间。
+
+关键词：冬小麦/夏玉米轮作；控释肥； $\mathbf { N } _ { 2 }$ 0排放
+
+# Effect of controlled-release fertilization on nitrous oxide emission: a case study of a wheat-maize rotation system in the North China Plain
+
+ZHANG Jing' , LI $\mathrm { H u } ^ { 1 }$ ， ZHU Guoliang²，XIA Guangli²，MU Xiaoling²，WANG Ligang1,\*，HUANG Chengcheng' JIANG Yuqian1 1tiuteff
+
+MinistryofAgriculture/CAAS-UNHJointLaboratoryforSustainableAgro-ecosystemResearch，Beijing1Oo081，China
+
+Abstract:Nitrous oxide（ ${ \bf N } _ { 2 } \mathrm { O }$ ）plays an important role in global warming. ${ \mathrm { N } } _ { 2 } \mathrm { O }$ is long-lived and cause harm to the stratospheric ozone.The concentration of ${ \mathrm { N } } _ { 2 } \mathrm { O }$ has increased from 27O ppbv during the preindustrial period to 319 ppbv in 2005.The greenhouse effect of ${ \mathrm { N } } _ { 2 } \mathrm { O }$ is 296 to 310-fold higher than that of carbon dioxide，although its contribution is only $5 \%$ （ $( 2 . 6 ~ \mathrm { T g }$ ）of the total annual man-made greenhouse gas emissons in 2Olo.Use of fertilizer is a major factor in the increase in ${ \mathrm { N } } _ { 2 } \mathrm { O }$ levels in agricultural systems.The wheat-maize rotation system is one of the most popular cultivating systems intheNorth China Plain.Inrecentyears，anew methodof fertilization（controled-release fertilization）hasbeen introduced inthisregion toreduce Nfertilizerlosesandtosavelaborinputs；this has mainlybeenused incroplands，such as paddy fields，wheatand maize growing systems，but also in vegetable fields，such as tomato fields.Thereported results mostly focus on crop growing and nitrogen leaching，but rarely on the ${ \mathrm { N } } _ { 2 } \mathrm { O }$ emissions characteristics related to controlledreleasefertilizers in wheat-maizerotation systems，and even morerarelyonexactquantitiesof various controled-release fertilizersbeingapplied inthe North ChinaPlain.This study wasconductedfromOctober2O13 toOctober 2O14，with the major focus on the efects of application of controlled-release fertilizers on nitrous oxide and crop yields.The ${ \mathrm { N } } _ { 2 } \mathrm { O }$ emission driving factors，such as the soil temperature，soil moisture，and the content of soil $\left( \mathrm { \Delta } _ { \mathrm { N O } _ { 3 } ^ { - } } \right)$ -N， were also analyzed together with ${ \mathrm { N } } _ { 2 } \mathrm { O }$ fluxes.Five treatments were included inthis study:control treatment（CK），controled-release fertilization treatment1 （CRF1），optimized controlled-release fertilization treatment 1 $( \mathrm { 8 0 \% { } C R F { 1 } } ) ,$ optimized controlled-release fertilization treatment 2 ( $8 0 \% \mathrm { C R F } 2$ ），and controlled-release fertilization treatment $3 ( \mathrm { { C R F 3 + U r e a } } )$ .The results show that the high （20 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ peaks usuall following the basal fertilzation can beatributed toirigationorprecipitation.Irigation during the period of wheat seeding establishment，and precipitation during the later period of maizecultivation may also result in weak ${ \mathrm { N } } _ { 2 } \mathrm { O }$ （204号 peaks. The ${ \mathrm { N } } _ { 2 } \mathrm { O }$ fluxes changed from $- 2 3 5 . 6 1 \ \mu _ { \mathrm { { e } } } ^ { \mathrm { { g } } } \mathrm { \Delta } \mathrm { N } _ { 2 } \mathrm { { O } } \mathrm { \Delta m } ^ { - 2 } \mathrm { \ h } ^ { - 1 } \mathrm { \ t o } \ 2 6 2 5 . 0 1 \ \mu _ { \mathrm { { e } } } ^ { \mathrm { { g } } } \mathrm { \Delta } \mathrm { N } _ { 2 } \mathrm { { O } } \mathrm { \Delta m } ^ { - 2 } \mathrm { \ h } ^ { - 1 }$ ，and daily mean ${ \mathrm { N } } _ { 2 } \mathrm { O }$ fluxes ranged from $2 3 . 8 8 ~ { \mu \mathrm { g } } ~ { \mathrm { N } } _ { _ 2 } { \mathrm { O } } ~ { \mathrm { m } } ^ { - 2 } ~ { \mathrm { h } } ^ { - 1 }$ to $5 1 . 3 9 ~ { \mu \mathrm { g } } ~ { \mathrm { N } } _ { _ 2 } { \mathrm { O } } ^ { * } \mathrm { m } ^ { - 2 } ~ \mathrm { h } ^ { - 1 }$ $\overline { { \mathbf { N } } } _ { 2 } \mathbf { O }$ fluxes were positively correlated to soil temperature at a depth of $5 \ \mathrm { c m }$ for CK and CRF3 $^ +$ Urea; the correlation coefficient $\left( r ^ { 2 } \right)$ was 0.38 and 0.30,respectively. ${ \mathrm { N } } _ { 2 } \mathrm { O }$ fluxes were positively corelated to soil water filled pore space（WFPS）during wheat and whole rotation system for CRFl and $80 \%$ （20 CRF1（for wheat : $r ^ { 2 } = \ 0 . 5 0$ ， $P { < } 0 . 0 1$ ： ${ \bf \zeta } _ { r ^ { 2 } } = { \bf \zeta } _ { 0 . 3 9 }$ ， $P { < } 0 . 0 5$ ; for whole system: $r ^ { 2 } = \ 0 . 3 9$ ， $P { < } 0 . 0 5$ ： $r ^ { 2 } = \ 0 . 4 3$ ， $P { < } 0 . 0 5$ ） For the same fertilizer type，compared to CRF1 treatment, $8 0 \% \mathrm { C R F 1 }$ reduced the annual ${ \mathrm { N } } _ { 2 } \mathrm { O }$ emission by $1 4 . 2 3 \%$ . For the same fertilizer rate, there was no significant difference between CRF1 and $\mathrm { C R F 3 + U r e a }$ ，but $8 0 \% \mathrm { C R F 1 }$ significantly reduced the annual ${ \mathrm { N } } _ { 2 } \mathrm { O }$ emission by $1 6 . 1 6 \%$ compared to $8 0 \% \mathrm { C R F } 2$ ( $\scriptstyle P < 0 . 0 5$ ).There was no significant difference in crop yields betweenthese treatmentsand the treatmentspracticed byfarmers.In conclusion，controlled-release fertilizer management could reduce ${ \bf N } _ { 2 } \mathrm { O }$ emission from the wheat-maize rotation system while maintaining cropping yields.
+
+Key Words: controlled-release fertilizer;wheat-maize rotation system ; ${ \mathrm { N } } _ { 2 } \mathrm { O }$ emission
+
+农业土壤被认为是大气中重要的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 来源,每年大约有 $3 . 9 \ \mathrm { T g } ( \mathrm { 1 0 ^ { 1 2 } g } ) \mathrm { N }$ 以 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的形式从农业土壤释放到大气中[1-2]。土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放被认为是以硝化过程和反硝化过程为主产生的,其受肥料种类,施氮量,土壤水分、温度、 $\mathrm { \ p H }$ 等多种因素的影响,其中肥料种类通过改变土壤中的 $\mathrm { N O } _ { 3 } ^ { - }$ 和 $\mathrm { N H } _ { 4 } ^ { - }$ 的有效性进而主要影响反应过程来影响 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的产生[3]，并且 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放量一般随氮肥施用量的增加而增加[4]。农业生产中过量的氮素肥料的施用是引起大气中 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 浓度升高的主要原因[5]。华北平原是我国重要的粮食主产区之一,长期以来冬小麦/夏玉米轮作系统氮肥利用率低（只有 $1 6 \% - 4 1 \%$ )[6，作物吸收量 $( 9 0 - 2 5 0 \ \mathrm { k g } \ \mathrm { N } \ \mathrm { h m } ^ { - 2 } \ \mathrm { a } ^ { - 1 } \ \mathrm { , }$ )远低于年投入量0 $\mathrm { 5 5 0 { - } 6 0 0 ~ k g ~ N ~ h m ^ { - 2 } ~ a ^ { - 1 } } ,$ )的现象普遍存在[7],使土壤中氮素含量残留较高且刺激了硝化反硝化作用进而促进了 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放[8]，因此如何减少由于过量氮肥施用所产生的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放对减少农业温室气体排放尤为重要。
+
+http ://www.ecologica.cn
+
+控释肥施用可根据作物生长不同生育时期的需肥量来调节其养分释放速率,具有养分损失少、可提高作物产量和氮肥利用率等常规肥料施用不能比拟的优势[9-10],逐渐成为目前国内外新型肥料领域的研究热点和我国"2020 年化肥零增长行动计划"替代肥料的主体[1-13]。当前,有关不同控释肥施用对不同作物（小麦、玉米、水稻和番茄)生长与产量、硝态氮淋洗的影响已有大量的相关报道[9.1,14-15],然而对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响尚缺乏系统的研究[1-9],特别是不同控释肥种类以及控释肥施用量应用在华北地区大田作物（尤其针对冬小麦/夏玉米轮作田)中 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的研究缺少定量评价,因此,本文以华北平原典型种植模式冬小麦/夏玉米轮作系统为研究对象，选择三种控释肥以及两种施氮量水平对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放进行周年系统监测，综合分析控释肥施用下冬小麦/夏玉米轮作系统土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放特征以及环境因子的影响，为科学评价控释肥施用的环境效应及其推广应用提供基础数据与理论依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+田间试验于2013年10月20日至2014年10月27日在山东省泰安市现代农业科研基地—肥城市良种试验场 $\mathrm { ~ \Omega ~ } ^ { \mathrm { ~ \tiny ~ 1 1 7 ^ { \circ } 0 8 ^ { \prime } E ~ } }$ ， $3 6 ^ { \circ } 1 1 ^ { \prime } \mathrm { N }$ ,海拔 $1 0 7 ~ \mathrm { m }$ )进行。该地区属温带大陆性半湿润季风气候,年平均气温 $1 3 . 6 \mathrm { { ^ { \circ } C } }$ ,平均年降水量 $4 4 7 . 9 \ \mathrm { m m }$ 。试验土壤为砂浆黑土,土壤质地为粘壤土。 $0 { \div } 3 0 ~ \mathrm { c m }$ 土层硝态氮 $2 4 . 0 8 ~ \mathrm { m g / k g }$ 、铵态氮$4 . 7 6 ~ \mathrm { m g / k g }$ 全氮 $1 6 0 . 0 0 ~ \mathrm { m g / k g }$ 、速效钾 $1 7 4 . 6 7 ~ \mathrm { m g / k g }$ 、有效磷47.54 mg/kg、pH为6.99、有机质 $1 6 . 9 5 ~ \mathrm { g / k g }$ 。观测期内降雨量、气温以及土壤温湿度变化见图1。
+
+![](images/e486cc8982a114d0ab121411e1e41c087dc5aaface7990c81d540d6ac65e7958.jpg)  
+图1观测期降雨量、气温以及土壤温湿度的变化  
+Fig.1The precipitation,air temperature，soil temperature and WFPS during the whole observed perio 土壤温度与WFPS（Water-Filled Pore Space，土壤孔隙含水率)为观测所有处理的均值
+
+田间试验采用随机区组设计,设置5个处理,分别为：对照处理（CK）、控释肥处理1（CRF1）、优化控释肥处理1( $8 0 \% \mathrm { C R F 1 }$ ）、优化控释肥处理2( $8 0 \% \mathrm { C R F } 2 \$ )和控释肥处理3（CRF3 $^ +$ 尿素）。优化施肥处理施肥量是根据当地测土配方施肥结果确定的施氮量,控释氮肥CRF1由山东省农业科学院提供,具体肥料包膜材料为热固水性树脂;控释氮肥CRF2由美国嘉洋公司提供，具体肥料包膜材料为聚氨酯；控释氮肥CRF3（L型和S型)由北京农林科学院提供,具体肥料包膜材料为聚烯烃,肥料释放曲线如图2所示。每个处理重复3次，小区面积 $3 7 . 4 ~ \mathrm { m } ^ { 2 }$ （长 $8 . 5 \mathrm { ~ m ~ }$ ，宽 $4 . 4 \ \mathrm { m } { \dot { \ } }$ ），重复之间有 $1 \mathrm { ~ m ~ }$ 隔离区，小区布局如图3所示。
+
+![](images/b17370ad0fe29b1c179f687f44e76669b19818eafe0d53c7892f5dd2e9ce4501.jpg)  
+Fig.2The nutrient release characteristics of controlled release fertilizers
+
+a小麦专用控释肥 CRF1大田条件下的养分累积释放率;b玉米专用控释肥CRF1大田条件下的养分累积释放率;c小麦专用控释肥 CRF2大田条件下的养分累积释放率(此数据缺失);d玉米专用控释肥CRF2大田条件下的养分累积释放率;e小麦L型控释肥大田条件下的养分累积释放率;f玉米L型控释肥大田条件下的养分累积释放率； $\mathbf { g }$ 小麦 S型控释肥大田条件下的养分累积释放率;h玉米 S型控释肥大田条件下的养分累积释放率
+
+![](images/1217c0600032dc6ab669ac3983d12ba6daf5975b4b0a44520f6f520ccfe61c35.jpg)  
+图2控释肥大田条件下氮素溶出特征  
+图3试验小区布局  
+Fig.3The plots design of the experiments
+
+CK：不施肥处理,Control treatment;CRF1;控释肥处理1,Controlled release fertilization treatment ; $80 \%$ CRF1：代表优化控释肥处理1，Optimizedcontrolled release fertilization treatment $1 ; 8 0 \% \mathrm { C R F } 2$ ：优化控释肥处理2,Optimized controlled release fertilization treatment $2 ; { \mathrm { C R F 3 + } }$ 尿素：控释肥处理3,Controlld release fertilization treatment 3；本研究只是选取整个试验的 5个处理进行分析,图中空白是其他处理
+
+供试小麦品种为济麦22,玉米品种为郑单958。施肥方式和施肥量见表1。磷肥为重过磷酸钙（ $\mathbf { \nabla } [ \mathrm { P } _ { 2 } \mathrm { O } _ { 5 }$ $44 \%$ ），钾肥为（氯化钾 $\mathrm { K } _ { 2 } \mathrm { O } 6 0 \%$ ),均与控释肥掺混作基肥一次性施入。各控释肥处理均开沟 $1 0 \ \mathrm { c m }$ 将肥料均匀施入覆土,耙平后机械播种。当地优化施肥方式(OPT)氮肥、磷肥和钾肥施用量同CRF 处理;氮肥沟施;小麦返青拔节期追肥,基追肥比为1:1;玉米大喇叭口期追肥,基追肥比为3:7[20]。本研究中其他管理措施与当地高产栽培措施均一致。控释肥(CRF1、CRF2、L型和 S型)的田间氮素溶出特征采用网袋法测定[20]。 。
+
+表1冬小麦/夏玉米轮作施肥种类和施肥量  
+Table1The different types and levels of Nitrogen fertilizers during the whole periods   
+
+<html><body><table><tr><td rowspan="2">处理 Treat</td><td rowspan="2">氮肥种类 Trpes of</td><td rowspan="2">施氮方式 Nitrogen metolys</td><td colspan="3">氮肥用量 Level of fertilizers</td><td colspan="3">PO5/ (kg/hm²）</td><td rowspan="2">KO/ （kg/hm²）</td></tr><tr><td>小麦（kg玉²） Wheat</td><td>Maize</td><td>总氮量 Total</td><td>小麦 Wheat</td><td>玉米 Maize</td><td>小麦 Wheat</td></tr><tr><td>不施肥处理 Control treatment(CK)</td><td></td><td></td><td></td><td></td><td></td><td>104</td><td>104</td><td>75</td><td>134</td></tr><tr><td>控释肥处理1 Controlledrelease fertilization treatment (CRF1)</td><td>CRF1</td><td>全部基施 10 cm 沟施</td><td>225</td><td>240</td><td>465</td><td>104</td><td>104</td><td>75</td><td>134</td></tr><tr><td>优化控释肥处理1 Optimized controlled release fertilization treatment 1(80%CRF1)</td><td>CRF1</td><td>全部基施 10 cm 沟施</td><td>180</td><td>192</td><td>372</td><td>104</td><td>104</td><td>75</td><td>134</td></tr><tr><td>优化控释肥处理2 Optimized controlled release fertilization treatment 2(80%CRF2)</td><td>CRF2</td><td>全部基施 10 cm 沟施</td><td>180</td><td>192</td><td>372</td><td>104</td><td>104</td><td>75</td><td>134</td></tr><tr><td>控释肥处理3 Contr3edase fertilization</td><td>C</td><td>全基施</td><td>L型：67.5 型2235</td><td>L型：48 尿：248</td><td>465</td><td></td><td>104</td><td></td><td>134</td></tr></table></body></html>
+
+“—"表示CK处理没有氮肥投入。计算参数：尿素；纯 $\mathrm { N } _ { ( 4 6 . 4 \% }$ ；CRF1：纯 $\mathrm { ~ N ~ } 4 3 . 0 \%$ ; CRF2:纯 $\mathrm { ~ N ~ } 4 4 . 0 \%$ ; CRF3（L型纯 $\mathrm { ~ N ~ } 4 2 . 5 \%$ ,S型纯N$4 2 . 2 \%$ ） 人
+
+# 1.2 ${ \bf N } _ { 2 } \mathrm { O }$ 通量的测定
+
+土壤 $\mathrm { ~ N } _ { 2 } 0$ 排放通量的监测采用静态暗箱—气相色谱法。采样箱体与底座均由不锈钢制成,改进后的箱体底部边缘有密封条保证采样时的密封性,箱体(规格为长 $5 0 ~ \mathrm { c m }$ ，宽 $5 0 ~ \mathrm { c m }$ ,高 $5 0 ~ \mathrm { c m }$ )为正方体，最大限度保证气体取样的代表性。每次采样于上午8：00—10：00之间进行，采样间隔 $6 ~ \mathrm { m i n }$ ,取样5次,同时记录采样时间和箱内气温(JM624)。取样频率一般为每周一次,施肥和灌溉事件后逐日观测一周,降雨事件后连续观测 3—5d,施基肥后延长取样时间,直至控释肥处理与不施氮处理的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量无差异时为止。气体样品存放于气袋中用改进的气相色谱仪（Agilent7890A）分析 $\mathbf { N } _ { 2 } \mathbf { O }$ 浓度。
+
+气体通量按下式计算：
+
+$$
+F = \rho H { \frac { d c } { d t } } { \frac { 2 7 3 } { 2 7 3 + T } } { \frac { P } { P _ { 0 } } }
+$$
+
+式中， $F$ 为 $\mathbf { \hat { N } } _ { 2 } ( \mathbf { \hat { \Sigma } }$ 的排放通量 $\mathrm { ^ { ' } m g \ N _ { 2 } O \ m ^ { - 2 } \ h ^ { - 1 } }$ ),正值为排放负值为吸收， $. \rho$ 为标准大气压下 $\mathrm { N } _ { 2 } \mathrm { O }$ 的密度 $\left( { \bf g } / \mathrm { L } \right) , H$ 为采样箱气室高度（cm）， $T$ 为采样箱内气温 $( \operatorname { \mathcal { C } } ) , P$ 为采样时气压 $\left( \mathrm { { k P a } } \right)$ - $P _ { 0 }$ 为标准大气压( $\left( \mathrm { { k P a } } \right)$ ， $P / \ P _ { 0 } \approx 1$ ，$d c / d t$ 为采样箱内 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 浓度的变化速率( $\mathrm { ^ { ' } \mu L I ^ { - 1 } m i n ^ { - 1 } }$ ）。
+
+${ \bf N } _ { 2 } \mathrm { O }$ 排放强度( $\mathrm { ~ k g ~ N ~ t ~ } ^ { - 1 }$ )是指形成单位经济产量 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放量。
+
+# 1.3 辅助数据的测定
+
+观测期记录施肥日期（施肥量）,灌溉和降雨时期(量)。每次取气样的同时,测定 $5 \ \mathrm { c m }$ 深度土壤温度（JM624）及 $1 6 ~ \mathrm { c m }$ 深度土壤体积含水量（TRIME-PICO 64）。
+
+土壤样品的采集与测定：试验开始前和作物收获后取 $0 { - } 9 0 ~ \mathrm { c m }$ 土样(每 $3 0 \mathrm { ~ m ~ }$ 为1个层次)测定土壤基础
+
+理化性质，包括：全氮、铵态氮、硝态氮、速效钾、有效磷、 $\mathrm { \Phi _ { \cdot } p H }$ 和有机质。
+
+# 1.4 数据分析
+
+用 Excel 2007进行数据处理及作图,SPSS 19.0进行不同处理间的差异显著性检验（ANOVA程序单因素方差分析， $5 \%$ 显著水平)及 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量和各影响因素间的偏相关关系分析，处理间采用LSD多重比较方法。
+
+# 2结果与分析
+
+# 2.1 土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放特征
+
+冬小麦/夏玉米轮作系统各控释肥处理土壤 $\mathrm { ~ N } _ { 2 } 0$ 通量具有明显的季节变化规律（图4)。各控释肥处理氮肥分别在冬小麦和夏玉米生长季均作为底肥一次性施入,伴随灌溉或者降雨事件同时发生后土壤 $\mathrm { N } _ { 2 }$ 0排放通量迅速上升,一般持续时间约为7—10d左右（2013年10月19日为冬小麦施肥播种,2014年6月25日为夏玉米施肥),并且在单独的灌溉或者降雨之后会出现比较弱的排放峰(2014年4月25日为返青拔节灌溉，2014年9月19 日前后玉米生长后期)。冬小麦播种施肥后的第1天出现整个观测期内的最强 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放高峰值（2013年10月20日）,其中最高值达到 $2 6 2 5 . 0 1 ~ { \mu \mathrm { g } } ~ { \mathrm { N } } _ { 2 } \mathrm { O } ~ { \mathrm { m } } ^ { - 2 } ~ { \mathrm { h } } ^ { - 1 }$ ;次年小麦返青后受肥料氮素释放的影响(结合图2约150d时候氮肥释放速率增加)出现第二次 ${ \bf N } _ { 2 } \mathrm { O }$ 排放高峰值（2014年3月28日），最高为737.67$\mu \mathrm { g } \ \mathrm { N } _ { 2 } \mathrm { O \ m } ^ { - 2 } \ \mathrm { h } ^ { - 1 }$ ,玉米播种施肥后出现第三次 ${ { \mathrm { N } } _ { 2 } } 0$ 排放高峰值（2014年7月7日），最高为 $7 9 3 . 9 3 ~ \mu \mathrm { g } ~ \mathrm { N } _ { 2 } \mathrm { O } ~ \mathrm { m } ^ { - 2 }$ （204号$\mathbf { h } ^ { - 1 }$ ,3次 ${ { \mathrm { N } } _ { 2 } } 0$ 排放高峰值均为控释肥处理1（CRF1）。入冬后 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量随着环境温度的下降逐渐降低并处于较低水平,拔节期后 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量随着环境温度的上升而升高。不施氮肥CK处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放始终处于较低水平。
+
+从图4中可以明显看出，与控释肥处理1（CRF1)相比,在相同施肥种类下减少化肥氮投入的优化控释肥处理1( $8 0 \%$ CRF1) ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量低于CRF1;在相同施氮量条件下，控释肥处理1(CRF1)土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量高于控释肥处理3( $\mathrm { C R F } 3 +$ 尿素），除小麦种植初期以外优化控释肥处理1( $8 0 \% \mathrm { C R F 1 }$ ） ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量均高于优化控释肥处理2 $\iota ( 8 0 \% \mathrm { C R F } 2 )$ 。
+
+# 2.2土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响因素
+
+从图4可以看出整个轮作系统中 $5 ~ \mathrm { c m }$ 深度土壤温度在 $- 1 . 2 3 - 2 9 . 1 7 ^ { \circ } \mathrm { C }$ 之间变动（小麦生长季-1.23—$2 5 \mathrm { { ^ \circ C } }$ ,玉米生长季 $1 6 . 7 2 { \ - } { \ - } 2 9 . 1 7 ^ { \circ } \mathrm { C }$ )。表2偏相关分析表明，对照处理(CK)土壤温度和 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量呈现极显著的相关关系( $scriptstyle ( P < 0 . 0 1 )$ ,控释肥处理3( $\mathrm { C R F } 3 +$ 尿素）显著相关( $_ { P < 0 . 0 5 ) }$ ,而其他施肥处理各个生长季 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量与土壤温度均无相关关系。
+
+整个轮作系统中土壤孔隙含水率（WFPS）在$2 3 . 6 9 \% - 7 0 . 0 7 \%$ 之间变动（小麦生长季 $2 3 . 6 9 \%$ 一$7 0 . 0 7 \%$ ,玉米生长季 $4 3 . 0 2 \% - 6 5 . 9 3 \% )$ 。表2偏相关分析表明，在冬小麦生长季CRF1和 $8 0 \%$ CRF1处理${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量与WFPS呈现显著的相关关系( $_ { . } { \cal P } { < } 0 . 0 5 )$ ，夏玉米生长季CRF1 $\mathbf { N } _ { 2 } \mathbf { O }$ 排放通量与WFPS呈现显著的
+
+3.0CRF12.5 80%CRF1(-4 z-u Bw)/xnu ON 2.0 CRF3+尿素 80%CRF2EH × CK鲁ON 1510 0.5！0 专L 王 1-0.5 H-1.0 1 1 127-515-1111 25-33-1111 27-55-1111 24--1-4111 25-04-4411 27-00-411 27-44-4411 27-1-4451 65-94-4107 22-21-4111 27-05-4411 20-61-4411日期Date
+
+Fig.4The seasonal variation of ${ \bf N } _ { 2 } \mathbf { O }$ emissions in wheat and maize rotation system for different treatments(arrows represent the fertilization events)
+
+CK：不施肥处理，Controltreatment;CRF1：控释肥处理1,Controlled release fertilization treatment ; $80 \%$ CRF1：代表优化控释肥处理1， Optimized controlled release fertilization treatment $1 ; 8 0 \% \mathrm { C R F } 2$ ：优化 控释肥处理2,Optimized controlled release fertilization treatment 2; $\mathrm { C R F } 3 +$ 尿素：控释肥处理3,Controlled release fertilization treatment 3
+
+相关关系( $\scriptstyle ( P < 0 . 0 5 )$ ,对于整个轮作周期CRF1的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量与WFPS呈现极显著的相关关系( $P { < } 0 . 0 1 \ \cdot$ ，$8 0 \% \mathrm { C R F 1 }$ 显著相关( $\scriptstyle \cdot - 0 . 0 5$ ）。CK处理各个生长季 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量与WFPS 均无相关关系。
+
+le 2Correlation coefficient between $\mathbf { N } _ { 2 } \mathbf { O }$ fluxes and soil temperature and WFPS in different treatments for wheat and maize rotation sys   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="3">N2O排放通量与土温 N2O fluxes with soil temperature</td><td colspan="3">N2O排放通量与土壤含水量 N2O fluxes with soil moisture</td></tr><tr><td>冬小麦 Wheat</td><td>夏玉米 Maize</td><td>轮作系统 Wheat-Maize</td><td>冬小麦 Wheat</td><td>夏玉米 Maize</td><td>轮作系统 Wheat-Maize</td></tr><tr><td>不施肥处理Control treatment(CK)</td><td>0.23</td><td>0.18</td><td>0.38**</td><td>0.02</td><td>-0.17</td><td>0.14</td></tr><tr><td>控释肥处理1 Controlled release fertilization treatment 1(CRF1)</td><td>0.18</td><td>-0.40</td><td>0.09</td><td>0.39 *</td><td>0.60 *</td><td>0.50**</td></tr><tr><td>优化控释肥处理 Optimized controlled release fertilization treatment(80% CRF1)</td><td>0.06</td><td>-0.12</td><td>-0.35</td><td>0.43*</td><td>0.22</td><td>0.39 *</td></tr><tr><td>优化控释肥处理2 Optimized controlled release fertilization treatment 2 （80%CRF2)</td><td>-0.06</td><td>0.06</td><td>-0.10</td><td>0.28</td><td>0.34</td><td>0.27</td></tr><tr><td>控释肥处理3 Controlled release fertilization treatment 3(CRF3+尿素)</td><td>0.01</td><td>0.31</td><td>0.30 *</td><td>0.23</td><td>-0.60</td><td>0.12</td></tr></table></body></html>
+
+\*和 $* *$ 分别表示在 $\scriptstyle P < 0 . 0 5$ 和 $P { < } 0 . 0 1$ 水平显著，这里的温度和土壤孔隙含水率是各处理的平均值
+
+# 2.3控释肥施用对土壤 $\mathbf { N } _ { 2 } \mathbf { O }$ 排放总量与排放系数的影响
+
+研究结果表明各控释肥处理土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量较当地农民常规施肥处理结果( $\left( 3 . 6 4 \pm 0 . 4 0 \right) \mathrm { k g ~ N ~ }$ $\mathrm { h m } ^ { - 2 }$ )[20]减排 $2 0 . 6 0 \% - 3 3 . 7 9 \%$ ,说明控释肥较分次施肥能够减少 $\mathrm { N } _ { 2 } 0$ 年排放总量。控释肥施用造成的 $\mathrm { N } _ { 2 } \mathrm { O }$ 排放损失为 $0 . 2 9 \% - 0 . 4 2 \%$ 。均低于IPCC 推荐值 $1 \%$ (表3)。从整个轮作周期来看，各处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量从高到低依次为 $8 0 \% \mathrm { C R F } 2$ ， $\mathrm { C R F } 3 +$ 尿素，CRF1, $8 0 \%$ CRF1和 $\mathrm { C K }$ 。相同施肥种类条件下（CRF1），减少 $20 \%$ 控释肥投入， ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量减少了 $1 4 . 2 3 \%$ ,但并未达到显著水平。相同施氮量条件下,CRF1处理与( $\mathrm { C R F } 3 +$ 尿素)处理之间年排放总量差异不显著，而 $8 0 \%$ CRF1 比 $8 0 \%$ CRF2年排放总量减少 $1 6 . 1 6 \%$ ,并达到显著水平（ $_ { _ { P < 0 . 0 5 ) } }$ （表3）。
+
+表2土壤温度、土壤孔隙含水率与冬小麦/夏玉米轮作系统内土壤 $\bf \Pi _ { N _ { 2 } O }$ 排放通量的相关分析   
+表3不同处理 ${ \bf N } _ { 2 } \mathbf { O }$ 平均排放通量以及周年排放总量  
+Table 3The average emission fluxes and annual cumulative ${ \bf N } _ { 2 } \mathbf { O }$ emission for each treatments   
+
+<html><body><table><tr><td>处理 Treatments</td><td></td><td>平均排放通量 Average emission fluxes/ (μg N2O m-²h-1)</td><td>排放总量 Total emissions/ （kg N/hm²)</td><td>排放系数 Emission factors/%</td></tr><tr><td>不施肥处理Control treatment(CK)</td><td></td><td>23.88±3.08</td><td>1.33±0.17c</td><td></td></tr><tr><td>控释氮肥处理1 Controlled release fertilization treatment(CRF1)</td><td></td><td>50.37±2.19</td><td>2.81±0.12ab</td><td>0.31</td></tr><tr><td>优化控释肥处理1 Optimized controlled release fertilization treatment(8O%CRF1)</td><td></td><td>43.28±1.15</td><td>2.41±0.06b</td><td>0.29</td></tr><tr><td>优化控释肥处理2 Optimized controlled release fertilization treatment 2(8O%CRF2)</td><td></td><td>51.97±4.35</td><td>2.89±0.24a</td><td>0.42</td></tr><tr><td>控释肥处理3 Controlled release fertilization treatment 3（CRF3+尿素)</td><td></td><td>51.39±1.37</td><td>2.86±0.07ab</td><td>0.33</td></tr></table></body></html>
+
+NO排放系数：作物生长季内 $\mathrm { N } _ { 2 } \mathrm { O } \mathrm { - } \mathrm { N }$ 排放量占施肥投入土壤中氮素的百分比;不同字母表示不同处理之间差异显著( $P { < } 0 . 0 5 )$
+
+从各个作物生长季来看，相同施肥种类下 $8 0 \% \mathrm { C R F 1 }$ 处理较CRF1处理在小麦季和玉米季 $\mathbf { N } _ { 2 } \mathbf { O }$ 排放总量分别减少 $2 1 . 0 5 \%$ 和 $5 . 4 7 \%$ ,均未达到显著水平;对于相同施氮量条件下,CRF1与( $\mathrm { C R F } 3 +$ 尿素） $8 0 \% \mathrm { C R F 1 }$ 与$8 0 \% \mathrm { C R F } 2$ 之间 ${ \bf N } _ { 2 } \mathrm { O }$ 排放总量差异也均未达到显著水平（图5）。
+
+对于 ${ \bf N } _ { 2 } \mathrm { O }$ 排放总量的季节分配而言,以控释氮肥处理1(CRF1)为例,冬小麦生长季和夏玉米生长季土壤${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放总量分别占整个轮作周期的 $5 4 . 4 5 \%$ 和 $4 5 . 5 5 \%$ 。总体上各控释肥处理表现为小麦季 ${ \bf N } _ { 2 } \mathrm { O }$ 季节排放总
+
+量略高于玉米季（图5）。
+
+2.4控释肥施用对产量与 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放强度的影响
+
+除了对照(处理CK)以外,各控释肥肥处理之间冬小麦和夏玉米产量均在 $8 . 1 7 ~ \mathrm { t / h m } ^ { 2 }$ 和 $9 . 3 9 \mathrm { ~ t ~ } / \mathrm { h m } ^ { 2 }$ 以上，处理之间差异均未达到显著水平( $P { < } 0 . 0 5 )$ ;农民习惯施肥处理冬小麦和夏玉米的产量分别为 $8 . 3 1 \ \mathrm { t / h m } ^ { 2 }$ 和$9 . 8 6 \ \mathrm { t / h m } ^ { 2 [ 2 0 ] }$ ,但与本研究各控释肥处理产量间没有统计学上显著性差异,说明控释肥施用能够在保证产量的前提下能够减少土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放(图6)。冬小麦生长季 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放强度均以（CRF3 $^ +$ 尿素)处理最高,为0.19${ \bf k g } \mathrm { ~ N ~ t ~ } ^ { - 1 }$ ，与 $8 0 \% \mathrm { C R F 1 }$ 和 $8 0 \% \mathrm { C R F } 2$ 之间差异显著( $P { < } 0 . 0 5 )$ ；夏玉米生长季各控释肥处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放强度之间差异不显著(图7)。
+
+![](images/507b02a09bdb1db3beaabc11daff73315d214a39755c0866e07a5f95081348d5.jpg)  
+图5不同施肥方式下冬小麦/夏玉米季节 $\mathbf { \ddot { N } } _ { 2 }$ 0季节排放总量Fig.5The seasonal cumulative $\mathbf { N } _ { 2 } \mathbf { O }$ emissions in each treatmer
+
+CK：不施肥处理,Control treatment;CRF1：控释肥处理1,Controlledrelease fertilization treatment ; $8 0 \% \mathrm { C R F 1 }$ ：代表优化控释肥处理1，Optimized controlled release fertilization treatment ; $80 \%$ CRF2：优化控释肥处理2,Optimized controlled release fertilization treatment 2;$\mathrm { C R F } 3 +$ 尿素：控释肥处理3,Controlled release fertilization treatment3;不同字母表示同一作物生长季不同处理之间差异显著( $P <$ 0.05)
+
+![](images/293407ff09571020973fcd214ad73fe067879453cec779db5d7526f88b8dec8b.jpg)  
+图6不同施肥方式下冬小麦/夏玉米产量  
+Fig.6wheat and maize yield in different treatment
+
+CK：不施肥处理，Controltreatment;CRF1：控释肥处理1，Controlledrelease fertilization treatment; $80 \%$ CRF1：代表优化控释肥处理1，Optimized controlled release fertilization treatment $1 ; 8 0 \% \mathrm { C R F } 2$ ：优化控释肥处理2,Optimized controlled release fertilization treatment 2;$\mathrm { C R F } 3 +$ 尿素：控释肥处理3,Controlledrelease fertilization treatment3;不同字母表示同一作物生长季不同处理之间差异显著( $P <$ 0.05)
+
+# 3讨论
+
+3.1施肥方式对土壤 $\mathbf { \bar { N } } _ { 2 } \mathbf { 0 }$ 排放的影响
+
+氮肥的施用是影响 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的重要因素[21],不同类型肥料以及施肥方式对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放各不相同。对于控释肥施用是否能减少 $\cdot \mathrm { N } _ { 2 } \mathrm { O }$ 排放峰值不同研究结果有不同的结论。本研究中,与张婧等[21在该地对农民常规处理(OPT)的观测结果 $1 . 3 9 \mathrm { \ m g \ N _ { 2 } O \ m ^ { - 2 } h ^ { - 1 } }$ 相比,在冬小麦基肥后CRF1 处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放峰值较高,为2.62$\mathrm { m g } \mathrm { N } _ { 2 } \mathrm { O \ m } ^ { - 2 } \mathrm { h } ^ { - 1 }$ ，而 $\mathrm { C R F } 3 +$ 尿素仅为 $0 . 1 8 \mathrm { \ m g \ N _ { 2 } O \ m ^ { - 2 } h ^ { - 1 } }$ ;减氮控释肥处理 $8 0 \% \mathrm { C R F 1 }$ 和 $8 0 \% \mathrm { C R F } 2$ 能够明显减少 ${ \bf N } _ { 2 } \mathbf { O }$ 排放峰(分别为 $1 . 3 0 \mathrm { \ m g \ N _ { 2 } O \ m ^ { - 2 } h ^ { - 1 } }$ 和 $1 . 8 4 \mathrm { ~ m g ~ N } _ { 2 } \mathrm { O ~ m } ^ { - 2 } \mathrm { h } ^ { - 1 } )$ 。纪洋等[22]在对江苏省句容市小麦田观测得出，与相同施氮量的尿素处理相比控释肥处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放峰值减少 $4 9 \% - 6 9 \%$ ,其认为可能是施肥降雨不同步且控释肥缓慢释放的原因;杜亚琴等[19 研究发现,包膜控释肥处理土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量均随气温的升高而增加,但包膜控释可以明显延后和削减土壤 $\mathbf { N } _ { 2 } \mathbf { O }$ 日排放高峰。
+
+与农民习惯分次施肥(OPT)一样，各控释肥处理 ${ \bf N } _ { 2 } \mathrm { O }$ 排放高峰主要出现在小麦基肥后和返青期,以及玉米季三叶期和拔节期后,这主要与降雨(或灌溉)事件有关，一般持续时间为7—10d左右，但是，控释肥处理只是在施肥时候 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放峰值较高,其余时间排放峰值均相对较低,这与纪洋等[22]和张岳芳等[23]研究结论相一致。
+
+种植模式不同以及不同控释肥种类对 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放总量影响可能不同。本研究中各控释肥处理冬小麦生长季 ${ \bf N } _ { 2 } \mathrm { O }$ 排放总量在1.20— $1 . 6 2 ~ \mathrm { k g } \mathrm { ~ N ~ } \mathrm { h m } ^ { - 2 }$ 之间。张岳芳等[23]在免耕条件下稻麦轮作田麦季两种控释肥处理${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放总量为 $1 . 7 0 \mathrm { ~ k g } \mathrm { ~ N ~ h m } ^ { - 2 }$ 和 $1 . 3 7 ~ \mathrm { k g } \mathrm { ~ N ~ } \mathrm { h m } ^ { - 2 }$ ,与本研究结果基本一致。本研究中各控释肥处理夏玉米生长季 ${ \bf N } _ { 2 } \mathrm { O }$ 排放总量在1.21- $1 . 6 4 ~ \mathrm { k g } \mathrm { ~ N ~ } \mathrm { h m } ^ { - 2 }$ 之间。刘慧颖等[24]在壤质草甸土区玉米生长季连续3年控释肥处理研究发现 $. \mathrm { N } _ { 2 } \mathrm { O }$ 排放总量为 $2 . 0 4 , 0 . 9 8 , 0 . 8 7 \mathrm { ~ k g ~ N ~ h m } ^ { - 2 }$ ，年际间差异较大，在施氮量为 $2 1 0 \ \mathrm { k g } \ \mathrm { N } \ \mathrm { h m } ^ { - 2 }$ 控释尿素情况下后两年低于略低于本研究结果，可能是由于不同控释肥的释放速率不同,以及环境因子不同所致。郝小雨等[21]在黑土玉米生长季施氮量为 $1 4 8 \mathrm { ~ k g ~ N ~ h m } ^ { - 2 }$ 硫包膜尿素处理的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放总量 $( 0 . 5 1 \ \mathrm { k g } \ \mathrm { N } \ \mathrm { h m } ^ { - 2 }$ )也低于本研究结果,主要由施肥量远低于本研究所致。此外，已有控释肥研究在水稻田 ${ \bf N } _ { 2 } \mathrm { O }$ 排放总量约为0.21kgN hm-2[6],在设施番茄地中研究结果为 $3 . 3 0 ~ \mathrm { k g }$ N hm-2[18]
+
+![](images/df925f7b511185db7278a251003d16a34b754b78d64092dbc4ff217d66a82c0c.jpg)  
+图7不同施肥方式下冬小麦/夏玉米 ${ \bf \nabla } : { \bf N } _ { 2 } \mathbf { O }$ 排放强度Fig.7 ${ \bf N } _ { 2 } \mathbf { O }$ emission intensity in wheat and maize growing stage不同字母表示同一作物生长季不同处理之间差异显著( $\scriptstyle P < 0 . 0 5 .$ ）
+
+对于控释肥施用对土壤 ${ \bf N } _ { 2 } \mathrm { O }$ 排放的减排效果,本研究中各控释肥处理较农民习惯施肥处理土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量减少 $2 0 . 6 0 \% - 3 3 . 7 9 \%$ 。其他报道中与农民习惯相比，小麦季控释肥减排比例为 $1 5 . 0 0 \%$ 一$5 6 . 0 0 \% ^ { [ 2 2 . 2 3 ] }$ ,玉米季为 $9 . 0 9 \%$ $. 5 5 . 1 2 \%$ [24-26]。也有报道[27]包膜氮素能够增加小麦季和玉米季的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放，增长率分别达到 $2 8 \%$ 一 $6 0 \%$ 和 $6 1 \% \text{‰}$ 。
+
+# 3.2环境因素对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响
+
+土壤温度通过影响硝化反硝化细菌的代谢活动进而影响 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的产生，一般认为硝化反硝化作用最适温度范围是25- $3 5 \mathrm { ^ { \circ } C }$ 和 $3 0 { \div } 6 7 ^ { \circ } \mathrm { C }$ ,在一定温度范围内 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放速率随温度的升高而升高[28]。土壤含水量通过影响土壤通气性以及 $\mathrm { N O } _ { 3 } ^ { - }$ -N和 $\mathrm { N H } _ { 4 } ^ { + }$ -N 在土壤中的分布从而影响硝化反硝化过程,另外其还影响产生的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 向大气的传输过程。通常认为最适宜 $\mathbf { \dot { N } } _ { 2 } \mathbf { O }$ 排放的WFPS 为 $6 0 \% - 8 0 \% ^ { [ 2 9 ] }$ 。对于Cl $\ K \lrcorner 8 0 \% \mathrm { C R F } 2$ 和 $\mathrm { C R F } 3 +$ 尿素处理各生长季 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 通量均未表现出与温湿度的相关关系;CRF1处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量与WFPS在夏玉米生长季呈现显著相关关系，而 $8 0 \% \mathrm { C R F 1 }$ 处理夏玉米生长季则没有，说明氮素是影响土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的主要因素。CRF1处理在各生长季 $\mathrm { N } _ { 2 } \mathrm { O }$ 排放通量与WFPS 呈现显著相关关系,而与土壤温度无相关关系,表明土壤水分对土壤${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响大于土壤温度。
+
+降雨或者灌溉引起的干湿交替过程除了通过影响微生物的胞溶作用使C、N 基质被微生物矿化,另外使土壤有效碳含量的增加以及呼吸作用增强导致的厌氧环境促进了 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放[30]。本研究结果中不施氮肥CK 处理小麦返青时期4月25日的灌溉（由灌溉前的WFPS $3 4 . 4 9 \%$ 增至 $5 6 . 7 8 \%$ )和玉米后期的频繁降雨（由下雨前的WFPS $4 6 . 3 4 \%$ 增至 $6 5 . 9 3 \%$ )导致的排放峰值，也说明干湿交替对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放有重要影响。另有研究发现冻融交替过程通过破坏土壤结构使土壤中有效C 基质增加使微生物活动增强而促进 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放[31]。冻融交替过程常常在冬末春初会出现,但是由于本研究中此时期观测频率较低,没有观测到 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放峰，因此还需要加强此时期的观测频率来确定冻融交替对整个冬小麦/夏玉米轮作周期 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放总量的贡献。
+
+控释肥释放主要受温度以及水分的影响,当土壤含水量高于田间持水量的 $4 0 \%$ 的时候,养分释放仅受温度的影响，并且当控释肥颗粒在表土 $1 0 \ \mathrm { c m }$ 以下时，养分溶出也不受土壤含水量的影响，且随着温度的升高养分肥料溶出越快["]。本研究冬小麦生长季内,降雨总量为 $3 0 6 . 6 \ \mathrm { m m }$ ,越冬前和返青期漫灌浇水，所以本研究中土壤水分含量不会通过影响控释肥释放而间接影响 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放。
+
+# 3.3 肥料种类对土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放的影响
+
+从肥料特性上来说,包膜控释肥是在水溶性肥料表面包一层其他材料,可以有效防止肥料迅速溶解,不同的控释肥料养分释放速率不同,因此土壤中氮素浓度不同，从而 $\mathrm { \ddot { N } } _ { 2 } \mathrm { O }$ 排放量不同[19]。本研究在相同施氮量条件下CRF1和 $\mathrm { C R F } 3 +$ 尿素处理之间年度 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放总量上差异显著， $8 0 \% \mathrm { C R F 1 }$ 和 $8 0 \% \mathrm { C R F } 2$ 处理之间差异显著。结合图2其原因可能是CRF1和CRF2的肥料释放速率不同,除去作物吸收剩余的部分在适宜的温度水分条件下氮肥释放速率高的处理进行硝化反硝化作用底物浓度高，因此 $8 0 \% \mathrm { C R F } 2$ 处理 ${ \bf N } _ { 2 } \mathrm { O }$ 的排放量高。杜亚琴等[19]通过对三种控释氮肥无作物的盆栽土培试验发现,高氮、均衡和高钾型复合肥包膜后时 $\mathbf { \nabla } \cdot \mathbf { N } _ { 2 } 0$ 损失减少 $6 5 . 6 \%$ ） $6 9 . 4 \%$ 和 $1 0 . 8 \%$ ,且均达显著水平差异，其将原因解释为相同施氮量下氮肥形态不同导致 ${ \bf N } _ { 2 } \mathrm { O }$ 的形成和排放量上的不同,能够将肥料以 $\mathrm { N H } _ { 4 } ^ { + }$ -N 形式较长时间存在或者将 $N \mathrm { O } _ { 3 } ^ { - } { - } \mathrm { N }$ 浓度保持较多保留在膜内的肥料可以更多地降低 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放量。蒋静艳[27'在小麦玉米轮作田中发现6种控释肥在同一施肥方式和施肥水平下 $\mathrm { \ddot { N } } _ { 2 } \mathrm { O \dot { \cdot } }$ 减排效果差异与氮肥本身的释放特性和作物对氮素的不同需求有关。此外控释肥的包膜材料本身是否能影响硝化反硝化微生物作用仍需进一步研究。
+
+# 3.4控释肥施用对作物产量的影响
+
+不同研究结果显示控释肥对作物产量的影响不同。本研究中各控释肥处理冬小麦和夏玉米产量均未出现统计学上显著差异，并且与当地农民常规施肥处理冬小麦产量 $\langle 8 . 3 1 \nu \mathrm { h m } ^ { 2 }$ )和夏玉米 $( 9 . 8 6 ~ { \scriptstyle { V } \mathrm { h m } ^ { 2 } } ) $ )产量相差不大[20],但均未达到统计学上的显著差异,说明本研究中的控释肥养分释放速率与作物需求比较一致。郝小雨等[2]在其研究中发现施氮量相同情况下,控释氮肥替代普通氮肥未能显著增加玉米产量。卢艳丽等[32]研究表明冬小麦/夏玉米轮作田（控释氮肥种类为树脂包膜尿素,山东金正大集团生产,每季用量为180$\mathrm { k g } \mathrm { ~ N ~ } \mathrm { k m } ^ { - 2 }$ )中发现缓控释肥在玉米生长季表现出明显的增产优势 $( 1 8 . 3 \% )$ ）,而在小麦生长季虽然低于农民习惯施肥,但是没有显著差异。张岳芳等[23]在免耕条件下施用控释肥处理较普通含氮肥料处理小麦产量显著减少。纪洋等[22]在其研究中发现小麦产量随控释肥用量的增加呈抛物线增加的规律。
+
+从本研究结果看一次性控释肥处理在相同施肥量时能够保证作物产量,节约劳动力,减少土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放,但其生产成本相对较高。目前控释肥的生产成本高于普通肥料的1—4倍[33],在本研究中以小麦季农民习惯施肥处理(OPT)和 $8 0 \%$ CRF1 处理为例[20],农民习惯施肥（施氮量 $2 2 5 \mathrm { \ k g \ N \ h m } ^ { - 2 }$ 条件下,当年磷钾肥2900元/t，尿素1800元/t)成本为2797.5元/ $\cdot \mathrm { h m } ^ { 2 }$ ,追肥劳动力投入105.0元 $\langle \mathrm { h m } ^ { 2 }$ ,小麦均价2.2元/kg,总收益18150.0元/ $\mathrm { \hbar } \mathrm { m } ^ { 2 }$ ，净收人15247.5元/ $\cdot \mathrm { h m } ^ { 2 }$ ;而控释肥施肥（施氮量 $1 8 0 \ \mathrm { k g } \ \mathrm { N } \ \mathrm { h m } ^ { - 2 }$ 条件下，当年控释氮肥2600元/t)肥料成本为 $2 9 8 0 . 7 ~ \widehat { \mathcal { T } } \times \mathsf { h m } ^ { 2 }$ ,总收益19602.0元 $/ \mathrm { h m } ^ { 2 }$ ，净收入16621.3元 $\langle \mathrm { h m } ^ { 2 }$ ,较农民习惯管理措施增收1373.8元 $\mathrm { \Delta } ^ { \prime } \mathrm { h m } ^ { 2 }$ 。对于玉米生长季而言,农民习惯施肥（施氮量 $2 4 0 \mathrm { ~ k g } \mathrm { ~ N ~ h m } ^ { - 2 }$ 条件下,当年磷钾肥2800元/t,尿素1800元/吨)成本为3150元/ $\mathrm { { h m } } ^ { 2 }$ ,追肥劳动力投入300元 $\langle \mathrm { h m } ^ { 2 }$ ,玉米均价 $1 . 8 ~ \mathrm { \overline { { \mathcal { K } } } / k g }$ ,总收益16200.0元$\mathbf { h } \mathbf { m } ^ { 2 }$ ,净收入12750.0元/ $\langle \mathrm { h m } ^ { 2 }$ ;而控释肥施肥（施氮量 $1 9 2 ~ \mathrm { k g } \mathrm { ~ N ~ } \mathrm { h m } ^ { - 2 }$ 条件下,控释氮肥2600元/吨)肥料成本为3388.1元/ $\mathrm { { \dot { h } m } } ^ { 2 }$ ,总收益17496.0元/ $\mathrm { \hbar } \mathrm { m } ^ { 2 }$ ，净收入14107.9元 $/ \mathrm { h m } ^ { 2 }$ ,较农民习惯管理措施增收1357.9元 $\langle \mathrm { h m } ^ { 2 }$ 。不同控释肥施用的生态环境效应和实际应用价值还需要在今后试验的基础上进行综合评价。
+
+# 4结论
+
+(1)控释肥施用方式下冬小麦/夏玉米轮作系统中土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放主要具有明显的季节变化规律， ${ \bf N } _ { 2 } \mathrm { O }$ 排放高峰出现在基肥施用并伴随灌溉(或降雨)后,且冬小麦季最高排放峰值高于玉米季,排放高峰持续7—10d,小麦返青期灌溉以及玉米后期降雨会引起微弱的 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放峰。
+
+(2） $8 0 \% \mathrm { C R F } 2$ 处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量最高,为 $( 2 . 8 9 { \scriptstyle \pm 0 . 2 4 } ^ { \cdot }$ ） $\mathrm { k g \ N / h m } ^ { 2 }$ 。相同控释肥种类条件下， $8 0 \%$ CRF1处理 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 年排放总量为 $( 2 . 4 1 { \pm } 0 . 0 6 ) \mathrm { k g ~ N / h m } ^ { 2 }$ ,比CRF1处理减少了 $1 4 . 2 3 \%$ ,但并未达到显著水平;相同控释肥施氮量条件下，CRF1处理与( $\mathrm { C R F } 3 +$ 尿素)处理之间年排放总量差异不显著，而 $8 0 \% \mathrm { C R F 1 }$ 比 $8 0 \% \mathrm { C R F } 3$ 年排放总量减少 $1 6 . 1 6 \%$ ,并达到显著水平( $_ { _ { P < 0 . 0 5 ) } }$ 。本研究不同处理之间排放系数介于 $0 . 2 9 \%$ 一 $. 0 . 4 2 \%$ 之间，低于IPCC 默认的 $1 \%$ 。
+
+(3)CK处理和 $\mathrm { C R F } 3 +$ 尿素处理土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 排放通量与 $5 \ \mathrm { c m }$ 深度土壤温度之间表现出统计学上的相关性;CRF1处理和 $8 0 \% \mathrm { C R F 1 }$ 处理在冬小麦和整个轮作周期与WFPS表现出相关关系,其他均无相关性。
+
+# 参考文献（References）:
+
+[1]IPCC.Summaryforpolicymakers//ParrML,CanzianiOF,PalutikofJP,vanderLindenPJ,HansonCE,eds.CimateChange207:Impacts，Adaptation and Vulnerability.Cambridge：Cambridge University Press，2OO7：7-22.  
+[2]FAOSTAT.FAOSTATagricultural data.（2014-08-01）.htp://faostat3.fao.org/faostat-gateway/go/to/download/G1/GY/E  
+[3]WeierKLoanJWowrJF,Walteenitrfatodthitrogntrouoidatedylatevablebo,and nitrate.Soil Science Society of America Journal,1993,57(1)：66-72.  
+[4]BouwanAF.Directemissionofnitrousoxidefromagriculturalsoils.Nutrient Cycling inAgroecosystems，1996,46(1）：53-70.  
+[5]Hosono T,Hosoi N,Akiyama H,Tsuruta H. Measurements of ${ \bf N } _ { 2 } \mathrm { O }$ and NO emissions during tomato cultivation using a flow-through chambersystem in a glasshouse.Nutrient Cycling in Agroecosystems，2006，75(1/3）：115-134.  
+[6］张福锁,王激清，张卫峰，崔振岭，马文奇，陈新平，江荣风.中国主要粮食作物肥料利用率现状与提高途径.土壤学报，2008,45（5)：915-924.  
+[7]Ju XT,Xing G X,Chen XP,Zhang SL,ZhangLJ,Liu XJ,Cui Z L,Yin B,ChritieP,Zhu ZL,ZhangFS,Tilman G D.ReducingenvironentalriskbyiprovigaagentitesieCieseuralsesroceingoftetioalcadeofScofteUnited States of America，2009,106(9):3041-3046.  
+[8]LiuXJ,JuX,ZhangFS,PanJR，Christi.NitrogendamisandudgetsinawinterheataizecropingsysteinteCinaPlain.Field Crops Research,2003，83(2）：111-124.  
+［9］衣文平,孙哲，武良，史桂芳，朱国梁,李亚星，谷佳林，徐秋明.包膜控释尿素与普通尿素配施对冬小麦生长发育及土壤硝态氮的影响.应用生态学报，2011，22（3)：687-693.  
+[10]ShviiRotrleettsoftusdtaldaiFertilizer Research,1993,35(1/2)：1-12.  
+［11］谷佳林，王崇旺，李玉泉，衣文平,李亚星，杨宜斌，徐秋明.包膜尿素氮素释放特性及其采用接触式施肥对春玉米生长的影响.植物营养与肥料学报，2010,16(6)：1486-1491.  
+[12]赵秉强，张福锁，廖宗文，许秀成，徐秋明，张夫道，姜瑞波.我国新型肥料发展战略研究.植物营养与肥料学报，2004，10（5）：536-545.  
+[13］何绪生，廖宗文，黄培钊，段继贤，葛仁山，李洪波，赵建华.保水缓/控释肥料的研究进展.农业工程学报，2006，22（5）：184-190.  
+[14］王宜伦,李潮海，谭金芳，韩燕来，张许．超高产夏玉米植株氮素积累特征及一次性施肥效果研究.中国农业科学，2010,43（15)：3151-3158.  
+[15］徐培智，谢春生，陈建生，张发宝，唐拴虎.水稻一次性施肥技术及其应用效果评价.土壤肥料，2005，（5）：49-51.  
+[16] 张怡，吕世华，马静，徐华，袁江，董瑜皎.控释肥料对覆膜栽培稻田 $\mathbf { N } _ { 2 } \mathbf { 0 }$ 排放的影响.应用生态学报，2014，25(3）：769-775.  
+[17] 丁洪，王跃思，秦胜金，张玉树，项虹艳，李卫华.控释肥对土壤氮素反硝化损失和 $\mathrm { N } _ { 2 }$ 0排放的影响.农业环境科学学报，2010，29（5）：1015- 1019.  
+[18］杨俊刚，张鹏飞，倪小会，肖强，曹兵，邹国元，刘宝存.施用控释肥对设施番茄 $\mathrm { N O } _ { 3 } ^ { - }$ -N淋洗 $\phantom { + } \cdot \Nu _ { 2 }$ O排放及产量与品质的影响.农业环境科学学报,2014，33(9)：1849-1857.  
+[19] 杜亚琴，郑丽行，樊小林.三种控释肥在赤红壤中的氧化亚氮排放.应用生态学报，2011，22（9)：2370-2376.  
+［20］张婧，夏光利,李虎，朱国梁，牟小翎，王立刚，黄诚诚，江雨倩.一次性施肥技术对冬小麦/夏玉米轮作系统土壤 $\mathbf { N } _ { 2 }$ 0排放的影响.农业环境科学学报，2016，35（1)：195-204.  
+[21］郝小雨，周宝库，马星竹，高中超.氮肥管理措施对黑土玉米田温室气体排放的影响.中国环境科学,2015，35(11)：3227-3238.  
+［22］纪洋，刘刚，马静，李小平，徐华，蔡祖聪.控释肥施用对小麦生长期 $| \mathrm { N } _ { 2 } \mathrm { O }$ 排放的影响.土壤学报，2012，49(3）：526-534.  
+[23］张岳芳，郑建初，周炜，胡宇容，王鑫，盛婧，陈留根.免耕条件下控释肥对麦季氧化亚氮排放的影响.江苏农业学报，2014，30（5)：1037- 1043.  
+［24］刘慧颖，华利民，张鑫.不同施氮方式对玉米产量及 ${ { \bf N } _ { 2 } }$ O排放的影响.农业环境与发展，2013，30(5）：76-80.  
+[25］朱永昶，李玉娥，秦晓波，段智源，万运帆，周伟平，王斌，何佳男.控释肥和硝化抑制剂对华北春玉米 ${ \bf \nabla } \cdot { \bf N } _ { 2 } \mathbf { 0 }$ 排放的影响.农业环境科学学报，2016，35(7)：1421-1428.  
+［26］谢勇，荣湘民，张玉平，何欣，石敦杰，刘强.控释氮肥减量施用对春玉米土壤 $\mathbf { N } _ { 2 }$ O排放和氨挥发的影响.农业环境科学学报，2016，35(3):596-603.  
+[27］蒋静艳.施用不同缓/控释氮肥对旱地——作物系统 $. \mathrm { N } _ { 2 }$ O直接排放和间接排放的影响[D].南京：南京农业大学，2009.  
+[28]ZhengXH,WangMX,WangYS,ShenRX,ZhangW，GongYB.Impactsof temperaureonNOproductionandemissonEviontalScience，1997,18(5)：1-5.  
+[29]DavidsoE.uesftrooidedodfroterstrialos/ogersJE，WinWsMoaluctiodConsumptionofGrenhouseGases：Methane，NitrogenOxidesandHalomethanes.Washington，DC：AmericanSocietyofMicrobiology991:219-235. ?  
+［30］裴淑玮，张圆圆，刘俊锋，伦小秀，牟玉静.华北平原玉米-小麦轮作农田 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 交换通量的研究.环境科学，2012，33（10）：3641-3646.  
+[31]VanBo,revostDetieFfectsoffredltrucueorooeprudioilSyfAmerica Journal,2000,64(5）：1638-1643.  
+[32］卢艳丽，白由路，王磊，王贺，杜君，王志勇.华北小麦-玉米轮作区缓控释肥应用效果分析．植物营养与肥料学报，2011，17（1)：209-215.  
+[33］谷佳林，曹兵，李亚星，衣文平，杨宜斌，徐秋明.缓控释氮素肥料的研究现状与展望.土壤通报，2008，39（2）：431-434.

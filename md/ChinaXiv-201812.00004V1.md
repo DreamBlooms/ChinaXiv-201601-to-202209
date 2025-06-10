@@ -1,0 +1,225 @@
+# 物质主义者自我概念的特点和相关理论
+
+周静1谢天2
+
+(江汉大学教育学院，武汉 430056） (武汉大学哲学学院心理学系，武汉 430072)
+
+摘要物质主义的经典研究分别从人格、价值观、目标和需要的角度界定和理解物质主义的相关现象。自我概念一直是贯穿物质主义研究的线索，但直到最近研究者才试图以它为理论基点统摄与整合已有研究。相关研究表明，物质主义者对自我的评价较低，表现为低自尊、权变性自尊；对自我的认识具有不一致性，表现为自我概念不清晰、外显-内隐自尊分离、以及自我差距(理想自我与现实自我的差距)。最近出现的两个综合理论——物质主义的自我逃离理论与物质主义的认同目标追求理论提出，物质主义是个体将物质拥有作为逃避自我的方式或满足自我认同动机的手段。这两个理论弥补了现有物质主义研究缺乏整合性理论的不足。未来研究可以通过借鉴有关自我概念的理论，超越单纯的物质主义者自我匮乏的思路，从而做出更大的理论贡献。
+
+关键词 物质主义；自我概念；物质主义的自我逃离理论；物质主义的认同目标追求理论分类号 B849: C91
+
+# 1引言
+
+现有物质主义的经验研究中，存在四种经典定义，分别从人格、价值观、目标和需要的角度界定和理解物质主义。Belk(1985)认为物质主义是消费者对世俗财产重视程度的一种人格特质，物质主义者具有占有、吝啬、嫉妒三个特点。Richins 和Dawson(1992)将物质主义视为个体重视物质拥有的价值观，物质主义者在很大程度上将物质拥有视为达成重要生活目标的手段，认为物质拥有既是生活的中心，也是获得快乐和成功的手段。Kasser 和 Ryan(1993,1996)将物质主义视为外部目标的特例，物质主义者对经济成功、成名，以及吸引人的外表的渴望胜过对其他生活目标(自我接纳、归属感、团体情感)的渴望。Inglehart (1981)则从宏观社会层面出发，认为物质主义是对物质带来的舒适、身体安全感的一种比较低级的需要。
+
+虽然物质主义在上述界定中体现出不同的性质，但有趣的是，四个取向的研究在理论和方法上均无冲突，研究者在论述理论观点时也互相援引(Kasser,2016)。本文认为，不同取向的物质主义研究能够和谐共处的一个重要原因在于不同研究者在心目中都有一个物质主义者的轮廓，不同界定只是从不同的视角出发诠释物质主义者的具体途径：物质主义者的人格特征、价值观、如何设定目标，以及有怎样的心理需要。实际上，在这些不同的研究中，存在一条物质主义者自我概念的线索，或以自我概念为切入点研究物质主义的线索。自我概念(self-concept)是个体对自己的主观知觉和判断，这种知觉和判断包括对自己的生理状态、人格、态度、社会角色、过去经验等方面的认知，是由一系列态度、信念和价值标准所组成的有组织的认知结构(凌辉等,2016)。自我概念不仅贯穿了整个物质主义研究，而且最近出现的以自我概念为核心的物质主义相关理论还显示出自我概念有望成为物质主义未来研究的一个新的理论焦点。
+
+本文在总结现有研究的基础上发现，物质主义者对自我的评价较低，对自我的认识也具有不一致性。前者表现为低自尊、权变性自尊；后者表现为自我概念不清晰、外显-内隐自尊分离、以及自我差距(理想自我与现实自我的差距)。最近出现的两个综合理论，物质主义的自我逃离理论与物质主义的认同目标追求理论，均试图以自我概念整合物质主义的现有研究，认为物质主义者将物质拥有作为逃避自我的手段或达成自我认同建构的手段。本文接下来对上述内容依次展开叙述，并就自我概念视角的物质主义研究进行评论和展望。
+
+# 2物质主义者的低自我评价
+
+物质主义者的对自我评价表现为自尊水平较低，而这有可能是由于物质主义者将自尊建立在外在领域，而非内在领域导致的(权变自尊)。
+
+# 2.1 低自尊
+
+自尊与物质主义可能是互为因果的关系。一方面，低自尊的个体将物质主义作为一种补偿策略,(误)以为物质主义能够帮助自己提升自尊。另一方面，一旦个体将自尊建立在物质拥有上，只能降低而不能提高自己的自尊。
+
+# 2.1.1低自尊导致物质主义水平的提高
+
+低自尊会导致个体追求物质主义。因此，如果可以证明提高自尊后个体对物质主义的追求下降了，那么就可以说明自尊的降低会导致物质主义水平的提高。Chaplin及其同事的研究验证了这一点，即当启动了被试的高自尊后，被试对物质主义的追求显著降低了(Chaplin&John,2007)。他们后来的研究还发现，对于低收入青少年，低自尊是解释其物质主义的重要因素(Chaplin,Hill,& John,2014)。Jiang,Zhang,Ke,Hawk和Qiu (2015)进一步探索了内隐自尊对物质主义的影响。研究者首先通过同伴拒绝的操纵引发了被试内隐自尊的降低，进一步观察到被试内隐自尊与物质主义水平呈负相关；然后，研究者又通过词汇判断任务操纵了内隐自尊，结果发现被暂时提升了内隐自尊的实验组被试的物质主义水平显著低于未被提升内隐自尊的控制组被试的物质主义水平。
+
+# 2.1.2 高物质主义水平导致低自尊
+
+对物质主义的追求会导致自尊的降低。Kasser等人(2014)的纵向干预研究证实了这一点。他们将高物质主义的被试分成两组，其中干预组被要求在1个月的时间里更少地关注物质主义目标(如反思他们看到、听到的广告对自己的购物决策造成了什么样的影响，学习那些在分享和储蓄方面做的比较好的人等)，控制组只收到与物质主义目标设定没有任何关系的关于研究进展的邮件。结果发现，在10个月的干预期结束后，被试的自尊水平与10个月前相比：控制组下降了，而实验组提高了。这一结果不仅说明对物质主义的追求会导致自尊的降低.而且说明只要放弃物质主义，自尊就会提高。
+
+上述两方面的实验证据清晰地揭示了自尊与物质主义之间互为因果的关系，而大量相关研究表明自尊与物质主义之间的负相关关系，佐证了上述结论。比如，研究表明，自尊与物质主义呈负相关(Kim,Callan,Gheorghiu,& Matthews,2017; Reeves,Baker,& Truluck,2012;
+
+Ruvio,Somer,&Rindfliesch,2014)。Ruvio等(2014)在以色列遭遇和未遭遇恐怖袭击的两个城镇的现场研究发现，物质主义者在面临存在性安全威胁时(恐怖袭击)，会感受到更大的压力并做出更多的适应不良的消费行为来缓解这种压力，其中物质主义者的低自尊是物质主义起调节作用的潜在心理机制。总之，上述研究结论表明，物质主义者的自尊较低，物质主义与低自尊很可能是互为因果的关系。
+
+# 2.2 权变自尊
+
+物质主义者自我评价较低的另一个表现是自尊具有权变性。权变自尊(contingentself-esteem)指"个体对自我的评价来源于或依赖于能否达到某个优秀的标准或者是否能够实现人际的或内在心理的期待”(Deci& Ryan,1985,p.32)。与基于自我决定、内在兴趣与内部满足的真自尊(true self-esteem)不同，权变自尊是脆弱的，因为个体总是处于不断地验证自尊的过程之中。Roberts,Manolis和Pullig(2014)的研究表明，权变自尊与强迫性购买呈正相关,且二者关系受到对消极评价的恐惧以及社会认同的中介作用。
+
+根据依赖领域的不同，权变自尊又可分为外在权变自尊(extrinsic contingent self-esteem)与内在权变自尊(intrinsic contingent self-esteem)。前者的自尊依赖于相对外在的领域，如外表、竞争(是否在竞争中比别人更好)、社会赞许等，因此相对不稳定。后者的自尊依赖于相对内在的领域，比如美德、真诚等，因此相对稳定。Nagpaul和Pang (2017)的研究表明外表、竞争、社会赞许三种外在权变自尊与物质主义正相关，而内在权变自尊与物质主义负相关。而且，启动了外在权变自尊的被试比启动了内在权变自尊被试的内隐物质主义水平更高，进一步证实了外在权变自尊对物质主义的消极影响和内在权变自尊对物质主义的积极影响。
+
+Park,Ward和Naragon-Gainey (2017)的研究则聚焦于外在权变自尊中的财富权变自尊。他们认为，如果个体的自尊来源于自己能赚多少钱或在财富方面取得多大的成功，那么显然该个体的物质主义水平会很高——因为物质主义本身就是对物质财富的重视程度。采用大学生和全国普通人群作为样本的相关研究均表明财富权变自尊与物质主义呈显著正相关。他们还通过启动财富威胁情境的方式发现，高财富权变自尊者对财富威胁的看法更消极，更倾向于采用消极的方式应对，也体验到更少的自主性(而物质主义则是经常被用来补偿低自主感的一种策略)。这些高财富权变自尊的个体在面临财富威胁情境时更不愿意做出奢侈消费的决定——因为财富对他们太重要了，他们对没有钱的未来感到不安全。
+
+上述研究表明，外在权变自尊会提高物质主义水平。从概念上分析，物质主义也会导致外在权变自尊，因为物质主义的概念本身就表示认可物质拥有能够实现重要生活目标的价值观。Teng等(2017)通过问卷调查了中国女大学生的物质主义和外表权变自尊。结构方程模型的分析发现，物质主义不仅会增强女性的外表权变自尊，而且还会通过外表权变自尊进一步导致女性的自我客体化以及对身体的监视。这一结果表明物质主义可能也是产生权变自尊的原因之一。综上，现有研究证据表明，物质主义者具有高权变自尊；权变自尊，尤其是外在权变自尊会促进个体的物质主义。但物质主义是否能促进外在权变自尊，仍有待实验研究的检验。
+
+# 3物质主义者的不一致的自我认识
+
+不一致的自我认识是物质主义者自我的另一个特点，体现为物质主义者对自我概念缺少明确、一致和稳定的认识(自我概念清晰性)，外显与内隐自尊的不一致(外显-内隐自尊分离)，以及现实与理想自我的不一致(自我差距)。其中，自我概念清晰性的概括性较强，是比较综合的概念。外显与内隐自尊分离及自我差距侧重自我认识不一致的不同方面：前者涉及自我评价在意识与潜意识层面的不一致，后者则更多地体现出社会文化在塑造个人理想自我中的作用。
+
+# 3.1 自我概念清晰性
+
+自我概念清晰性(self-concept clarity)表征了个体对自我概念认识的明确性、一致性和跨时间稳定性的程度(Campbell,1990)。Reeves等(2012)与Watson (2014a)的相关研究表明，个人概念清晰性与物质主义呈显著负相关。Sharif和Khanekharab (2017)的相关研究也表明，认同模糊(identity confusion)能正向预测物质主义。Noguti和Bokeyar (2014)通过线上测验的方式征召澳大利亚和美国的非学生成年被试，结果均表明自我概念清晰性与物质主义之间呈显著负相关关系。Mittal(2015)的相关研究也发现，低自我清晰性的个体不仅物质主义水平更高,也更倾向于将购物作为逃避现实的手段。Gountas,Gountas,Reeves和Moran (2012)在检验《成名渴望量表》(The desire for fame scale)的过程中发现，反向计分的自我概念清晰性能正向预测物质主义以及对成名的渴望——与物质主义相关的另一种外部目标(Kasser&Ryan,1996),表明自我概念不清晰被试的物质主义水平更高，更渴望出名。
+
+Koller,Floh,Zauner,Rusch(2013)利用一个有1000余名被试的数据库，通过有限混合建模的方法(finite mixture modeling)将被试分成了两个具有不同特征的群集。结果表明，被分在群集2的被试，自我清晰性低于被分在群集1的被试；同时，群集2被试的物质主义水平高于群集1的被试，为物质主义者具有较低的自我概念清晰性提供了证据支持。Morrison和Johnson (2011)通过实验研究检验了自我不清晰性与个体主义者(而非集体主义者)的财产与自我表达之间的关系。他们发现，当诱发自我不确定感后，欧裔美国被试会更倾向于把自己喜欢的牛仔裤作为自我的表达。个体主义水平越高的被试，越愿意把自己的车，以及自己喜爱的财产视为自我的表达；反之，当思考表达自我的财产后，会增强个体主义者的自我确定感。
+
+综上，上述研究证据表明，自我概念不清晰是物质主义者自我的一个特点。自我概念不清晰会给个体带来不确定感，这种由不确定感带来的不舒适感具有动机作用，促使个体寻找具体、实在的客体缓解不确定感，其理论基础是空洞自我理论(如Reeves et al.,2012; Sharif &Khanekharab,2017)。但是，并非所有客体都能缓解这种不确定感，只有被文化认可的能表达自我的特定物品才能带来确定感(如Morrison&Johnson,2012)。
+
+# 3.2外显-内隐自尊分离
+
+外显自尊和内隐自尊的分离也反映了对自我认识的清晰性程度。高外显自尊但低内隐自尊的个体表面上表现出自信，但在潜意识水平却不断地怀疑自我价值。低外显自尊但高内隐自尊的个体表面上表现出不自信，但可能曾经对自我有高度评价，只是这种高自我评价现在处于一种潜意识水平。但无论是哪种外显-内隐自尊的分离，都表现出个体对自我认识的分化和不一致，并会导致适应不良(Leeuwis,KootDaan, Creemers,&van Lier,2015)。Park和John(2011)系统检验了外显-内隐自尊分离对物质主义的影响。在研究1中，内隐和外显自尊对物质主义的主效应均不显著，但二者的交互作用显著，外显-内隐自尊的差异能正向预测个体物质主义水平。在研究2中，研究者测量了个体的外显自尊，并通过启动操纵出高内隐自尊。结果发现，对于低外显自尊的个体，启动了高内隐自尊的被试(外显-内隐自尊差异大)比控制组被试(外显-内隐自尊差异小)的物质主义水平更高。研究3将那些高外显-内隐自尊差异的被试分成两组。实验组被试通过认知负荷任务来减少他们评价外显自尊的资源，控制组被试则没有此操纵。结果表明实验组被试的物质主义水平显著低于控制组被试的物质主义水平。这些证据清晰地显现出外显-内隐自尊的差异或外显-内隐自尊分离能导致个体对物质主义的追求。
+
+# 3.3 自我差距
+
+自我差距(或自我差异,self-discrepancy)指一个人的现实自我与理想自我之间的差异或不一致的程度(Mandel,Rucker,Levav,& Galinsky,2017)。自我差距大的个体能感受到现实自我与理想自我之间较大的不一致。一方面，自我差距会让个体将物质主义作为一种补偿方式,弥补理想自我与现实自我的差异；另一方面，物质主义也会加大个体的自我差距。
+
+在Carr和Vignoles (2011)的研究中，被试通过填充一系列"我现在 ，但我想要_。"句子的方法列出自己理想自我与现实自我差异的各个方面，并评估每个方面差异的程度和重要性。根据每个差异方面的程度和重要性加权计总分，即为该被试理想-现实自我差距得分。结果表明，自我差距越大的个体，物质主义水平也越高。使用类似方法,Yu,Jing,Su,Zhou,&Nguyen (2016)的研究发现，自我差距较大的消费者比自我差距较小的消费者更倾向于从购买能代表地位的物质中获得快乐，而这一效应由个体要缩小现实自我与理想自我之间差距的目标追求动机所中介。
+
+自我差距还会受到整个社会文化的影响。Dittmar(2008)指出，遍布于当代消费社会的广告，尤其是名人广告，让"完美的身体”("body perfect")和"物质富裕的生活”("material goodlife")成为人人追求的理想自我，而物质拥有作为一种符号，成为达到这种理想自我的途径。Dittmar及其同事的研究以女性被试为对象，检验了物质主义与身体方面的自我差距(bodyrelated self-discrepancies，比如,“我的乳房比较小，但我想要大乳房";“我有妊娠纹，但我想要完美的皮肤")之间的关系。他们发现，对于年轻女性，物质主义与将完美的身体作为理想自我的程度显著正相关。而且，在使用奢侈品广告启动物质主义后，物质主义不仅增强了女性被试身体方面的自我差距，而且该效应还受到被试先前存在的物质主义价值观的调节作用。与那些实验前物质主义水平较低的个体相比，对物质主义水平较高的个体来说，物质主义广告启动增强了他们身体方面的自我差距(Ashikali&Dittmar,2012)。
+
+综上，有关自我差距与物质主义关系的研究表明，一方面，自我差距让个体表现出更强的物质主义水平，同时也让物质性的消费方式成为解决自我差距的手段。另一方面，物质主义作为一种社会文化通过强化理想自我的方式，加剧了个体的自我差距，尤其是那些本来就持有物质主义价值观的个体，更容易受到这种社会文化的影响。
+
+# 4自我概念视角的物质主义理论
+
+虽然自我概念一直是物质主义研究的一条线索，也经常作为物质主义理论的焦点(Dittmar,2008;Watson,2014b)，但最近出现的两个理论—物质主义的自我逃离理论与认同目标追求理论与以往理论的不同之处在于，这两个理论都试图以自我概念整合和统摄现有的物质主义研究。
+
+# 4.1物质主义的自我逃离理论
+
+物质主义的自我逃离理论(the escape theory of materialism)以自我逃离理论(Baumeister,1991)为基础，提出物质主义是个体为了逃离让自己厌恶的自我觉察而进行的物质主义追求。由于物质主义者会比非物质主义者表现出更多的自我逃离的行为模式，因此可以用自我逃离理论的六个步骤来分别预测物质主义者的相应的认知、情绪和行为特点(Donnelly,Ksendzova,Howell,Vohs,&Baumeister,2016)。因此，该理论对现有物质主义研究的整合方式是按照自我逃离的顺序进行的。本文将自我逃离理论和物质主义的自我逃离理论进行了对比梳理，汇总于表1中。
+
+表1自我逃离理论与物质主义的自我逃离理论  
+
+<html><body><table><tr><td>步骤</td><td>自我逃离理论</td><td>物质主义的自我逃离理论 (物质主义者的认知、情绪与行为)</td></tr><tr><td>(1)</td><td>感到自己没有达到标准。由于标准或期望被设定得太高，导致现物质主义者会更多地感到自己没有达到标准，更多地 实与标准之间的巨大落差，让个体感到自己没有达到标准。</td><td>感到对自己生活的失望。</td></tr><tr><td>(2)</td><td>自责。对于没有达到标准或遭遇的挫折被归咎于自我，产生自 责。</td><td>物质主义者会更倾向于因挫折、失望感到自责、不足 和低自尊。</td></tr><tr><td>(3)</td><td>强烈的自我觉察。没有达到标准引起的自责进一步让自我成为焦 点，导致强烈的自我觉察。</td><td>物质主义者会体验到更多令自己厌恶的自我觉察(如 较大的自我差距)。</td></tr><tr><td>(4)</td><td>不良的情绪体验。与强烈且消极的自我意识相伴的是个体不愉快物质主义者会体验到更多的不良情绪。 的、厌恶的情绪体验，如持续的或频繁发生的忧虑。</td><td></td></tr><tr><td>(5)</td><td>认知解构。认知解构是一种以具体思维代替抽象思维，聚焦于眼 下而不考虑过去和未来的思维方式。这是一种注意的窄化，是对 所有的与意义和情绪有关的问题的逃避。这一过程的目的是让痛 苦的情绪体验最小化，因为在一定程度上，对当前处境意义的理 解以及当前处境与抽象标准的比较是导致情绪产生的原因。 冲动性和非理性行为。具体的和低水平的思维让指导行为的内部</td><td>物质主义者会表现出更多的认知解构，例如狭窄、刻 板、具体，以及聚焦于当前的思维方式，因为这会有助 于他们从不良情绪体验中逃离出来。 物质主义者会表现出更多的冲动、短视，以及非理性</td></tr><tr><td>(6)</td><td>控制(比如理性的分析和社会规范的抑制)解除了，因此个体会出 现冲动性和非理性的行为。由于个体不能总是保持认知解构状 态，因此会再次出现厌恶的情绪体验。为了能短暂地逃避厌恶情 绪，个体会重新开始冲动性和非理性的行为。成功的自我逃离还 会包含获得一个新的自我认同(至少是在短暂的时间内)，从而替 换个体试图逃离的自我。</td><td>的行为模式。与之相伴的是，物质主义者还会试图去 寻找对自我的新的、不同的认同，从而最终完成从以 前的自我中逃离出来的过程。</td></tr></table></body></html>
+
+为了检验物质主义自我逃离理论,Donnelly等(2016)搜索了1984年1月到2015年8月之间各大心理学常用数据库以及经常刊登物质主义研究的英文期刊中有关物质主义的文章，最终发现226篇相关研究。然后他们利用这些已发表的研究依次检验了该理论的六大部分的理论预测，结果表明能够在现有研究中找到大量的支持证据。比如，对该理论的第一步，研究确实发现物质主义者比非物质主义者更多地感到自己没有达到自己理想的财富(Tang,Luna-Arocas,Pardo,& Tang,2014)、权力(Lemrova et al.,2014)、声望(Durvasula & Lysonski,2010)等标准。而对于第二步，如前所述，研究者发现物质主义者的自我评价更低，而这又进一步导致第三步——更多地体验到令自己厌恶的自我觉察，以及与此相伴的不良情绪体验(第四步)。为了逃避上述令自己厌恶的自我觉察及与之相伴的不良情绪体验，物质主义者会进入到第五步，出现认知解构，用具体思维代替抽象思维，只考虑眼下而不考虑未来。至此，物质主义者已经从认知层面表现出逃离。进一步，与认知层面的逃离相应的是行为层面的逃离，表现为冲动性、短视和非理性的行为模式。为此，物质主义者还会试图去寻找对自我的新的、不同的认同，从而最终完成从以前的自我中逃离出来的过程(第六步)。
+
+# 4.2 物质主义的认同目标追求理论
+
+L.Shrum及其同事从追求自我认同目标的角度结合符号消费提出了物质主义的认同目标追求理论。该理论将物质主义定义为“个体在多大程度上试图通过获得和使用具有理想化象征价值的产品、服务、体验或关系来建构和维持自我”(Shrum etal.,2013;p.1180)。该理论的核心是探讨物质主义对建构和维持自我认同的作用或功能，因此也被称为物质主义的认同动机理论(materialismas identity motives;Rustagi& Shrum,2017)或物质主义的功能视角理论(郑晓莹，阮晨晗，彭泗清,2017)。本文认为，该理论的要点及独特贡献主要体现在如下三个方面：
+
+(1)情境性。以往对物质主义的定义无论是人格特质、价值观、目标，还是心理需要，都暗示了物质主义是长期和稳定的心理品质。从个人对情境(personvs.situation)的视角出发，可以说之前的理论更强调个人，而认同目标追求理论虽然不否认个体差异，但更强调物质主义的情境性，将物质主义视为个体对威胁自我认同的特定情境的反应。实际上，在认同目标追求理论之前，已经有大量研究在实验情境中启动了物质主义(如Ashikali&Dittmar,2012;Roberts & Roberts 2012; Wierzbicki & Zawadzka,2016; Ku, Dittmar,& Banerjeeet,2014)，甚至已经有研究者明确提出了状态物质主义(Giacomantonio,Manneti,&Pierro,2013)或情境物质主义的概念(situational materialism;Kim,2013)，这些都表明物质主义研究应该考虑到情境性。
+
+(2)动机性。物质主义的认同目标追求理论的情境性的落脚点是个体的行为动机，物质主义被视为对能够威胁到自我认同的特定情境的反应。Vignoles,Golledge,Regalia,Manzi和Scabini(2006)曾提出六种自我认同动机：自尊、延续感、区别感、归属感、效能感和意义感。物质主义的认同目标追求理论在此基础上推理出，当个体使用消费的手段来满足这些动机时，就被认为是物质主义的。因此，对于同一个认同动机的满足，个体既可以使用物质主义的方式，也可以使用非物质主义的方式(表2)。
+
+表2六类认同动机及为了满足这些动机而表现出的较多或较少的物质主义行为样例  
+
+<html><body><table><tr><td>认同动机</td><td>定义</td><td>示例：在寻求动机满足的过程中采用了示例：在寻求动机满足的过程中采用了 较多的物质主义行为</td><td>较少的物质主义行为</td></tr><tr><td>自尊</td><td>维持和增强积极的自我概念</td><td>通过外科手术获得满意的外貌</td><td>通过锻炼和节食改善自己的身材和外 貌</td></tr><tr><td>延续感</td><td>在时间流逝和情境变化中维持个体的认同，包括 整个生命历程(表现为变化)以及人生中的重要转 折点</td><td>获取故乡本土画家的画作</td><td>通过捐款帮助故乡修缮社区活动中心</td></tr><tr><td>区别感</td><td>建立和维持与他人相区别的认同</td><td>定制改装自己的车，为其涂上颜色鲜艳 的车漆，配置(个性化)车饰。</td><td>发现自己有俄国血统后，参加俄语和俄 国文化课程的学习</td></tr><tr><td>归属感</td><td>形成与他人的亲密感以及被他人的接受感</td><td>移居到一个新城市的时候，购买和穿戴 当地运动队的服饰和配饰</td><td>移居到一个新城市的时候，加入当地的 休闲运动队</td></tr><tr><td>效能感</td><td>维持和加强对生活事件的胜任感和控制感</td><td>装裱学术文凭和证书，并悬挂在办公室 墙上</td><td>训练三项全能并参加比赛</td></tr><tr><td>意义感</td><td>加强个人生命是有目的、有意义的感觉</td><td>通过兼职收入为自己的家人购置更大 的"梦想"之家</td><td>通过兼职收入送儿子去“梦想"的艺术院 校深造</td></tr></table></body></html>
+
+注：转引自 Shrum 等(2013),p.1181
+
+(3)符号性。物质主义满足自我认同动机的特殊性在于采用了符号获取和使用作为手段或工具达成这一目标，而购买或获取物质对象并不是判断物质主义的标准。这体现在四个方面：首先，物质主义仅仅是达成维持自我认同这一目标的诸多手段之一。如表1所示，为了达成同样的自我认同动机，个体既可以采取物质主义的方式，也可以采取其他方式。其次，物质主义的获取对象并不仅限于产品和服务—个人体验(比如登山)或人际关系(比如友谊)也同样可以是物质主义的，获取物质对象本身却并不一定就是物质主义的(比如纯粹为了跑步的需要购买慢跑鞋)。再次，获取并不仅限于购买行为，对产品、服务、体验、人际关系的使用也可以是物质主义的(比如将名人赠送的礼品摆放在办公室的显要位置)。最后，符号的本质是信号作用，既包括对他人的信号过程，也包括对自己的信号过程。如表1所示的例子中,为了增强自尊，个体通过外科手术获得更满意的外貌，无论是为了向别人显示自己，抑或仅仅是为了孤芳自赏，都被视为物质主义。
+
+在研究证据方面，虽然尚未有研究直接检验物质主义的认同目标追求理论，但前文总结的有关物质主义与自尊、自我概念清晰性、理想自我与现实自我的差异等研究都在某种程度上表明了物质主义与自我认同建构之间的关系。然而与之前研究有所区别的是，该理论并不认为低自我评价与不一致的自我评价是物质主义者的表现，而是认为这些都是个体追求物质主义的动机。只有使用了符号性消费的手段来追求这些认同动机，个体才被认为是物质主义的。因此，该理论也一直强调物质主义应被视为中性的，而不是负面的，因为物质主义只是满足认同动机的工具而已。同时，与以往研究者将物质主义视为补偿不安全感(如经济、情感、生存不安全感，见李原，李朝霞,2012;Burroughs et al.,2013)、威胁感(Kasser,2016)的应对策略不同，物质主义的认同目标追求理论的独特贡献在于通过自我认同的概念对这些研究发现进行了整合，这样就为不同的研究结果提供了统一的理论解释框架。
+
+# 4.3评论
+
+物质主义的自我逃离理论与认同目标追求理论均试图以自我概念为核心统摄现有的物质主义研究。这两个理论均具有较强的概括性和整合性，弥补了现有物质主义研究缺乏整合性理论的不足。其中，自我逃离理论能更好地说明物质主义者会有更多不良体验的一面，因此能更好地整合物质主义导致低自我评价与自我认识不一致的研究。认同目标追求理论则更注重于相反的一面，即当个体出现了低自我评价以及不一致的自我认识后，个体会采取物质主义或非物质主义的策略建构新的认同。两个理论侧重这两个相续的心理过程，而表现出联系性：物质主义者只要将意识转向自我，就会因低自我评价和自我认识的不一致，产生令自己厌恶的自我觉察和负面情绪体验，进而想从这种负面体验中"逃离"出去。但物质主义者能逃到什么地方去呢？逃离理论的终点(第六步即是寻求新认同)，正是认同理论的起点，即通过各种方式对认同目标的追求。简言之，逃离理论突出了物质主义“破"的一面，目标追求理论则突出了物质主义“立"的一面。
+
+两个理论虽然在心理过程上体现出连贯性，但认同理论与逃离理论非常不同的一点是，在认同理论里，没有负面的的物质主义者，只有中性的个体。个体是否是物质主义者取决于他/她所采取的行动。如果在追求新认同的过程中，个体使用了物质主义的方法，那这种行为便是物质主义的；反之，如果个体使用了其他的方法来追求新认同，那这种行为就是非物质主义的(如表2第3、4列的对比)。但无论是否采用物质主义的方法，认同理论都不认为是负面的。认同理论想要打破人们对物质主义者的刻板印象(Van Boven,Campbell,&Gilovich,2010)，以功能视角审视物质主义，将行动的责任重新还给行动者，这点颇有人本-存在心理学的意味。
+
+进一步深究这两个理论能够产生的原因，本文归结为两点。第一，物质主义积累的大量经验证据与研究现象需要综合理论的整合与提升。自Belk(1985)明确将物质主义作为一种人格特质并开发出第一个广泛使用的物质主义问卷后，在过去三十几年时间里，物质主义领域已经积累了大量研究。2014年H.Dittmar 等人在《人格与社会心理学期刊》(Jourmal ofPersonality and Social Psychology)上发表有关物质主义的元分析(Dittmar,Bond,Hurst,&Kasser,2014)，以及 2016 年 T.Kasser 在《心理学年鉴》(Annual Review of Psychology)上发表有关物质主义研究的综述文章(Kasser,2016)，在某种程度上都可以看作物质主义研究领域成熟的标志。然而，现有研究往往是从不同的理论观点出发的，主要来自物质主义四种经典的研究进路，即人格、价值观、目标，以及需要。而每种进路内部，也没有完整、统一的理论解释。缺少足够概括性的理论提升和抽象，这些研究证据就难免显得琐碎。物质主义的自我逃离和认同目标追求两个理论，可以说正是顺应了物质主义研究领域中这一迫切需要产生的。无独有偶，最近Richins (2017)也试图以发展模型和强化模型整合物质主义的现有研究，解释物质主义如何在个体的儿童期发展，继而在个体成年后得到强化。这说明不止有一个研究者认识到了提出概括性整合理论的需要。
+
+第二，物质主义的自我逃离理论与认同目标追求理论内容不同，但其背后的思想却都是将物质主义视为由于自我的某种匮乏而采取的应对或补偿策略。这种思想并非最近才出现的，而是始终贯穿于物质主义的研究之中（如 Kasser& Sheldon,2000;Chang＆ Arkin,2002;Rindfleisch， Burroughs,& Wong, 2009; Dittmar & Kapur, 2011; Morrison & Johnson, 2011;Richins,2013；王予灵，李静，郭永玉,2016)。更应当看到的是，这种思想并非源自物质主义研究，其源头至少可追溯到费斯汀格的认知失调理论，现在的新发展则是意义维持模型(Proulx,Inzlicht,& Harmon-Jones,2012；左世江，黄旎雯，王芳，蔡攀,2016)。实际上，物质主义的自我逃离与认同目标追求两个理论可以看作对自我匮乏-应对/补偿的思想和相关理论在物质主义领域的延伸。也正是相关思想、理论和经验证据的不断成熟推动了这两个理论的产生。
+
+但两个整合理论也存在不足。虽然两个理论都能够解释现有的研究证据，却还很难有效地产生新的研究假设，预测新的研究现象。在物质主义的自我逃离理论中，研究者是依照自我逃离理论(Baumeister,1991)的六个步骤分别寻找证据支持的，也确实发现现有研究能够支持这六个不同的方面。但是，自我逃离的六个步骤是连续的过程，只有当研究证据能够表明六个步骤是依序发生时，才能为该理论提供充分的证据。换言之，现在的证据只是该理论可以成立的必要条件，而非充分条件。因此，未来研究应根据该理论的六个步骤提出具体的研究假设，分步骤检验，并注重与自我逃离理论的对比。比如，是否是物质主义者感到自己没有达到标准之后，才开始自责？这种没有达到标准导致自责的心理过程，物质主义者与非物质主义者的差异在什么地方？目标是物质化的才更容易自责，还是目标是自利的才更容易自责呢？比如，物质主义者会给自己设立在多少岁之前实现"财富自由"的标准，然后会因为达不到而感到自责。但如果设立在多少岁之前给贫困家庭捐款达到多少数额的标准，物质主义者还会为达不到而感到自责吗？也就是说，物质主义者感受到痛苦的来源，是因为对自己要求严格，还是因为过分看重自身的利益呢？这可以帮助我们厘清自我逃离和物质主义的自我逃离之间的区别，也有助于我们对自我逃离理论的理解——过分关注自我利益可能会增加自我逃离的几率，物质主义者是自我逃离的易感人群。
+
+同样，对于物质主义的认同目标追求理论，其基础是Vignoles 等(2006)的自我认同动机理论。该理论明确地将非物质性的对象获取(如人际关系)与非购买行为(如对礼物的使用)都归为物质主义的研究对象，其益处是扩大了物质主义的研究范围，但同时也会让物质主义变得不那么容易被人理解。如果任何通过消费的象征性手段建构和维持自我的行为都可以算作物质主义的话，那么是否就变成了认同目标追求理论，而不再是物质主义的认同目标追求理论？比如，为了维持和增强积极的自我概念，通过外科手术整形变美就比较是物质主义的,通过节食、锻炼就比较不是物质主义的。但如果节食和锻炼后又在社交网站上秀自己照片和视频呢？这是物质主义的，还是非物质主义的呢？人们对认同目标的追求是经常发生的一种现象，而随着整个物质主义文化的兴起，使用物质主义手段追求认同目标可能会变得越来越普遍。未来研究应当结合这些物质主义的具体现象，细致地探索自我的哪些特点以及哪些情境的因素促使人们采用物质主义的方式追求自我认同的。
+
+# 5 总结与展望
+
+自我是个人心理宇宙的中心。
+
+威廉·詹姆斯
+
+本文指出，自我概念是贯穿整个物质主义研究的一条线索，研究者对物质主义的思考始终都与对物质主义者自我概念的思考紧密相连。本文通过回顾大量研究表明，物质主义者的自我概念呈现出自我评价较低(低自尊、高权变自尊)和自我认识的不一致(低自我概念清晰性、高外显-内隐自尊分离、高自我差距)。而最近出现的物质主义的自我逃离理论和认同目标追求理论则将自我概念作为理论的核心，试图整合现有物质主义研究。本文认为，自我不仅是心理学中非常基本，也是非常核心的主题。可以说，任何一个社会心理学的主题都很难不与自我产生这样那样的关联。自我领域已积累了大量的概念、理论、方法和研究，这些都可以借鉴到物质主义的研究之中。
+
+然而，无论是现有的研究证据，还是最新出现的两个整合理论，基本都采用了“自我匮乏-不舒适感-物质主义-自我匮乏"的理论叙事方式。即自我概念存在某方面的匮乏，无论是低自我评价，还是不一致的自我认识，都会造成个体的不舒适感，进而促使个体接纳物质主义；另一方面，接纳物质主义后，个体不仅不能消除这种自我匮乏造成的不舒适感，反而会使情况更加恶化，进一步降低自我评价，产生更不一致的自我认识。因此，在本文回顾的文献中，总能发现研究者们在反复验证三种关系:1.自我匮乏与物质主义的正相关关系,2．自我遗乏导致物质主义，3.物质主义导致自我匮乏。然而这里的问题却是，物质主义者不同自我概念虽然都会造成不舒适感，但这种思路过于笼统。未来研究应深入分析这些不同自我概念产生的具体影响，以及这些不同自我概念之间可能的联系。具体而言，未来研究可以在如下几个方面展开。
+
+# 5.1物质主义者不同自我概念之间的区别
+
+自我概念领域的研究发展趋势是，研究者首先关注的是内容属性，后来开始关注自我概念的结构属性(孙晓玲，邱扶东，吴明证,2007)。如果能够借鉴自我概念结构相关的理论资源，无疑能给物质主义者自我概念的研究带来极大的创新价值。比如，自我的结构属性包含多样性与统一性两方面，现有研究主要集中在统一性这方面的自我概念清晰性和自我差距,而统一性的概念还有自我概念分化(self-concept differenation)。自我概念的结构中，表现自我概念多样性的自我概念划分(self-conceptcompartmentalization)，自我概念复杂性(self-complexity)还少有人研究。自我复杂性理论指出，个体在自我概念表征的复杂性上存在差异。高自我复杂性者的自我概念包括许多不同的方面，而低自我复杂性者的自我概念只包含少量的高度联系的方面(Pilarska,& Suchanska,2015)。比如，低自我复杂性往往与脆弱的自我概念相联系，而这恰恰是物质主义者的特点。因此是否可以推理物质主义者的自我复杂性较低？或者，自我复杂性是否在物质主义与低自尊之间起调节作用呢？即虽然物质主义会普遍地导致低自尊，但如果自我复杂性与自尊是独立存在的，那么自我复杂性是否能够缓冲掉物质主义对个体自尊的损害作用？相信将自我复杂性，以及其他与自我结构有关的理论引入物质主义研究会有许多令人振奋的发现。
+
+再如，关于物质主义者的自我差距研究，现有研究只检验了自我差距中的现实自我与理想自我的差异。但根据Higgins(1998)的经典划分，自我差距还包括现实自我与应然自我之间的差距。理想自我是个体希望和想成为的人，是对自己的希望、目标和要求；应然自我是个体觉得自己应该和必须成为的那种人，是对自己的义务、职责和责任的看法。虽然都是自我差距，但二者有质的不同，会导致不同的心理与行为倾向。现实自我-理想自我的差距会让个体感到沮丧(depressed)，并让个体倾向于使用提升(promotion focus)的自我调节策略;现实自我-应然自我的差距则会让个体感到焦虑(anxious)，并让个体倾向与使用避免(prevention focus)的自我调节策略。结合物质主义，则可以预测前一种自我差距会让物质主义者采用更加积极的策略应对，比如期待购物给自己带来更多的快乐；而后一种自我差距则会让物质主义者采用更加消极的策略应对，比如期待购物减少自己更多的痛苦。同时，由于前者更多地出现在水平个人主义文化中，而后者更多地出现在垂直集体主义文化中(Kurman,Liem,Ivancovsky,Morio,&Lee,2015)，因此可以进一步考察文化对两种自我差距体验到的情绪和使用策略的调节作用。可以预期，在水平的个体主义文化中(如瑞士)，物质主义者会更关注现实自我与理想自我之间的差距，这种差距会让他们更多地体验到沮丧，同时他们也更有可能将购物(如奢侈品消费、强迫性购买、补偿性购买)作为获取快乐的手段；与之相对，在垂直的集体主义文化中(如中国)，物质主义者会关注现实自我与应然自我之间的差距，这种差距会让他们更多地体验到焦虑，同时他们也更有可能将购物视为避免痛苦的手段。
+
+# 5.2物质主义者不同自我概念之间的联系
+
+物质主义者的自我概念之间的关系是怎样的？现有研究表明物质主义者的自我评价较低，对自我的认识具有不一致性。而有关研究表明，自尊与自我概念清晰性可能是互为因果的关系，低自尊的个体与高自尊的个体相比，自我概念也更不清晰(Wu,Watkins,&Hattie,2010;DeMarree&Rios,2014)。然而现有物质主义研究是将物质主义者的自我评价与自我评价的清晰性独立考察的。未来研究可以将上述研究作为基础，探索物质主义与二者之间的因果链条。比如，是否是物质主义者的自我概念不清晰导致了低自尊，进而导致了个体对物质主义的追求呢？或者自我概念清晰性与低自尊是导致物质主义产生的两个独立的进路？考察这些问题对物质主义的干预具有重要的现实意义。因为只有知道了哪个是主要的和更根本的因素，才更容易对物质主义进行干预，并最终降低个体的物质主义水平。
+
+总之，自我概念对于理解物质主义研究来说，是一个极具价值的理论"富矿”。自我概念的视角也有希望成为继人格、价值观、目标、需要等经典研究视角之后，物质主义研究的新焦点和新的理论增长点。未来研究一方面需要继续借鉴已有的自我理论来促进对物质主义者的理解，另一方面也可以通过物质主义众多的现象来丰富发展已有的自我理论。不应只作为检验自我理论的一个现象领域，还应结合相关现象发展出具有领域特色的物质主义的自我理论。特别是如果能够超越现有的“自我匮乏"的研究思路，有关自我的物质主义研究有望为物质主义领域带来一个新的理论高潮。
+
+致谢：衷心感谢审稿专家提出的宝贵批评和中肯建议！
+
+# 参考文献
+
+李原，李朝霞.(2012).物质主义价值观的内在心理机制探讨．哈尔滨工业大学学报 (社会科学版),14(6), 15-21.   
+凌辉，夏羽，张建人，朱阿敏，钟妮，阳子光，唐莘尧.(2016)．自我概念的结构与发展．中国临床心理学杂 志,24(2),363-367.   
+孙晓玲，邱扶东，吴明证.(2007)．自我复杂性模型研究述评．心理科学进展,15(02),338-343.   
+王予灵，李静，郭永玉.(2016).向死而生，以财解忧？存在不安全感对物质主义的影响．心理科学,39(4), 921-926.   
+郑晓莹，阮晨晗，彭泗清.(2017).物质主义作为自我建构的工具：功能主义的研究视角．心理研究,10(1), 10-16.   
+左世江，黄旎雯，王芳，蔡攀.(2016).意义维持模型：理论发展与研究挑战．心理科学进展,24(1),101-110.   
+Ashikali,E.M.,& Ditmar,H.(20l2).The effect of priming materialism on women's responses to thin-ideal media.British Journal of Social Psychology,51(4),514-533.   
+Bauer,M.A.，Wilkie,J.E.，Kim,J.K.，& Bodenhausen,G.V.(2012).Cuing consumerism: Situational materialism undermines personal and social well-being.Psychological Science,23(5),517-523.   
+Baumeister,R.F.(1991).Escaping theself: Alcoholism,spirituality,masochism,and otherflights from theburden of selfhood. New York,NY: Basic Books.   
+Belk,R. W. (1985). Materialism: Trait aspects of living in the material world. Journal of Consumer Research, 12(3),265-280.   
+Burroughs,J.E.,Chaplin,L.N.,Pandelaere,M.,Norton,M.I.,Ordabayeva,N.,Gunz,A.,&Dinauer,L.(2013). Using motivation theory to develop a transformative consumer research agenda for reducing materialism in society. Journal of Public Policy & Marketing,32(1),18-31.   
+Campbell,J. D. (1990). Self-esteem and clarity of the self-concept.Journal of Personalityand Social Psychology, 59(3), 538-549.   
+Carr,H. L.,& Vignoles, V.L. (2011). Keeping up with the Joneses: Status projection as symbolic self-completion. European Journal of Social Psychology, 41(4), 518-527.   
+Chang,L.,& Arkin,R. M. (2002). Materialism as an atempt to cope with uncertainty. Psychology & Marketing, 19(5),389-406.   
+Chaplin,L.N.,&John,D.R.(2007). Growing up in a material world: Age differences in materialism inchildren and adolescents. Journal of Consumer Research, 34(4), 480-493.   
+Chaplin,L.N.,Hil,R.P.,&John,D.R. (2014).Povertyand materialism: A look atimpoverished versus affluent children.Journal of Public Policy& Marketing, 33(1),78-92.   
+Deci,E.L.,& Ryan,R. M. (1985).Intrinsic motivation and self-determination in human behavior.New York: Plenum.   
+DeMarree, K. G.,& Rios, K. (2014). Understanding the relationship between self-esteemand self-clarity: The role of desired self-esteem. Journal of Experimental Social Psychology,50,202-209.   
+Dittmar,H. (2008). Consumer culture,identity and well-being: The search for the “good life"and the “body perfect."Hove, England: Psychology Press.   
+Dittmar，H.，& Kapur, P. (2011). Consumerism and wel-being in India and the UK: Identity projection and emotion regulation as underlying psychological processes. Psychological Studies, 56(1), 71-85.   
+Dittmar,H.，Bond,R.,Hurst,M.,& Kasser,T.(2014).The relationship between materialism and personal wel-being: A meta-analysis. Journal of Personality and Social Psychology,107(5),879-924.   
+Donnelly,G.E.,Ksendzova,M.,Howel,R.T.,Vohs,K.D.,&Baumeister,R.F. (2016).Buying to blunt negative felings: Materialistic escape from the self. Review of General Psychology,20(3),27-316.   
+Durvasula, S.,& Lysonski, S. (20lo). Money, money, money-how do atitudes toward money impact vanity and materialism?-the case of young Chinese consumers.Journal of Consumer Marketing,27(2),169-179.   
+Giacomantonio,M.，Manneti, L.,& Pierro,A. (2013). Locomoting toward well-being or getting entangled ina material world: Regulatory modes and affective well-being. Journal of Economic Psychology,38, 80-89.   
+Gountas, J., Gountas,S., Reeves,R.A.,& Moran,L. (2012). Desire for fame: scale development and association with personal goals and aspirations.Psychology & Marketing,29(9), 680-689.   
+Higgins,E.T.(1998). Promotion and prevention: Regulatory focus as a motivational principle. In M.P. Zana (Ed.).Advances in experimental social psychology (Vol.30,pp.1-46). New York: Academic Press.   
+Inglehart,R. (1981). Post-materialism in an environment of insecurity. American Political Science Review,75(4), 880-900.   
+Jiang,J., Zhang,Y.，Ke, Y., Hawk,S. T.，& Qiu,H. (2015). Can't buy me friendship? Peer rejection and adolescent materialism: Implicit self-esteemas a mediator.Journal of Experimental Social Psychology,58(1), 48-55.   
+Kasser, T. (2016). Materialistic values and goals. Annual Review of Psychology, 67, 489-514.   
+Kasser,T.,& Ryan,R.M. (1993).A dark side of the American dream: Correlates of financial successas a central life aspiration. Journal of Personality and Social Psychology, 65(2),410-422.   
+Kasser,T.,& Ryan,R.M. (1996).Further examining the American dream: Differential correlates of intrinsic and extrinsic goals.Personality and Social Psychology Bulletin,22(3),280-287.   
+Kasser,T.，& Sheldon, K.M.(2ooo). Of wealth and death: Materialism, mortality salience,and consumption behavior. Psychological Science,1(4),348-351.   
+Kasser,T.,Rosenblum,K.L.,Sameroff,A.J.,Deci,E.L.,Niemiec,C.P.,Ryan,R.M.,..Hawks,S.(2014). Changes in materialism,changes in psychological well-being: Evidence from three longitudinal studies and an intervention experiment. Motivation and Emotion,38(1),1-22.   
+Kim, H. (20l3). Situational materialism: How entering loteries may undermine self-control. Journal of Consumer Research, 40(4), 759-772.   
+Kim,H.，Callan，M.J.，Gheorghiu,A.I.，& Mathews,W.J.(2017). Social comparison,personal relative deprivation,and materialism. British Journal of Social Psychology,56(2),373-392.   
+Koler,M.，Floh,A., Zauner,A.，& Rusch,T.(2O13).Persuasibilityand the self-Investigating heterogeneity among consumers. Australasian Marketing Journal, 21(2), 94-104.   
+Ku,L.,Ditmar,H.,& Banerjee,R. (2O14).To have or to learm?The effects of materialism on British and Chinese children's learning. Journal of Personality and Social Psychology,106(5), 803-821.   
+Kurman,J.,Liem,G.A.,Ivancovsky,T.,Morio,H.,&Lee,J. (2o15).Regulatory focus as an explanatoryvariable for cross-cultural differences in achievement-related behavior. Journal of Cross-Cultural Psychology, 46(2), 171-190.   
+Leeuwis,F.H., Koot, H.M., Creemers,D.H.,& van Lier,P.A. (2015).Implicit and explicit self-esteem discrepancies，victimization and the development of late childhood internalizing problems.Journal of Abnormal Child Psychology,43(5), 909-919.   
+Lemrova, S.，Reiterova,E., Fatenova, R.，Lemr, K.，& Tang,T.L. P. (2014). Money is power: Monetary intelligence—love of money and temptation of materialism among Czech University students. Journal of Business Ethics,125(2),329-348.   
+Mandel,N.,Rucker,D.D.,Levav,J.,& Galinsky,A.D.(2017).The Compensatory Consumer Behavior Model: How self-discrepancies drive consumer behavior.Journal of Consumer Psychology,27(1),133-146.   
+Mital,B. (2015). Self-concept clarity: Exploring its role in consumer behavior. Journal of Economic Psychology, 46,98-110.   
+Morrison,K.R.，& Johnson, C. S.(2011).When what you have is who you are: Self-uncertainty leads individualists to see themselves in their possessions.Personality and Social Psychology Bulletin,37(5), 639-651.   
+Nagpaul，T.，& Pang，J. S.(2017). Materialism lowers well-being:The mediating role of the need for autonomy-correlational and experimental evidence. Asian Journal of Social Psychology,20(1),11-21.   
+Noguti，V.，& Bokeyar，A.L. (2014).Who am I? The relationship between self-concept uncertainty and materialism. International Journal of Psychology,49(5),323-333.   
+Park, J.K.,& John,D.R.(20l1). More than mets the eye: The influence of implicit and explicit self-esteem on materialism. Journal of Consumer Psychology,21(1),73-87.   
+Park,L.E., Ward,D.E.,& Naragon-Gainey,K. (2o17).It's allabout the money (For Some): Consequences of financially contingent self-worth.Personality and Social Psychology Bulletin,43(5), 601-622.   
+Pilarska,A.，& Suchahska,A. (2015). Self-complexity and self-concept differentiation-What have we been measuring for the past 30 years? Current Psychology,34(4),723-743.   
+Proulx,T.,Inzlicht,M.,&Harmon-Jones,E.(2Ol2).Understandingallinconsistencycompensationasapalliative response to violated expectations.Trends in Cognitive Sciences,16(5),285-291.   
+Reves,R.A., Baker, G. A.,& Truluck, C.S. (2012). Celebrity worship, materialism, compulsive buying, and the empty self.Psychology & Marketing,29(9),674-679.   
+Richins，M.L. (20l3).When wanting is beter than having: Materialism， transformation expectations，and product-evoked emotions in the purchase process.Journal of Consumer Research, 40(1),1-18.   
+Richins,M.L. (2017). Materialism pathways: The processs that create and perpetuate materialism.Journal of Consumer Psychology,27(4),480-499.   
+Richins,M.L.,& Dawson,S.(1992).A consumer values orientation for materialism and its measurement: Scale development and validation. Journal of Consumer Research,19(3),303-316.   
+Rindfleisch,A.,Burroughs,J.E.,& Wong,N. (209).The safetyof objects: Materialism, existential insecurity, and brand connection.Journal of Consumer Research,36(1),1-16.   
+Roberts,J. A.,& Roberts, C.R.(2012). Money maters: Does the symbolic presence of money aect charitable giving and attitudes among adolescents? Young Consumers,13(4),329-336.   
+Roberts，J.A.，Manolis，C.，& Pullig， C. (2014). Contingent self-esteem， self-presentational concerns，and compulsive buying. Psychology & Marketing, 31(2),147-160.   
+Rustagi,N.& Shrum, L.J. (2017). Materialism: Conceptualizations, antecedents，and consequences. In The Routledge Companion to Consumer Behavior (pp.49-65). Routledge.   
+Ruvio,A.,Somer,E.,& Rindfleisch,A.(2014). When bad gets worse: The amplifying effect of materialism on traumatic stress and maladaptive consumption. Journal of the Academy of Marketing Science, 42(1),90-101.   
+Sharif, S.P.,& Khanekharab,J. (2O17).External locus of control and quality of life among Malaysian breast cancer patients: The mediating role of coping strategies.Journal of Psychosocial Oncology,35(6),706-725.   
+Shrum,L. J.,，Wong，N.，Arif,F.，Chugani，S.K.，Gunz，A.,，Lowrey，T.M.，..& Scott, K.(2013). Reconceptualizing materialism as identity goal pursuits: Functions, processes, and consequences. Journal of Business Research,66(8),1179-1185.   
+Tang,T.L.P.,Luna-Arocas,R.,Pardo,I. Q.,& Tang,T.L.N. (2014). Materialism and the bright and dark sides of the financial dream in Spain: The positive role of money attitudes-The Matthew Efect. Applied Psychology, 63(3),480-508.   
+Teng,F., You,J.,Poon,K. T.，Yang,Y., You,J.,& Jiang,Y. (2017). Materialism predicts young Chinese women's self-objectification and body surveillance.Sex Roles,76(7-8), 448-459.   
+Van Boven,L., Campbell， M. C.，& Gilovich， T. (2010). Stigmatizing materialism: On stereotypesand impressions of materialistic and experiential pursuits. Personality and Social Psychology Bulletin,36(4), 551-563.   
+Vignoles,V.L.， Golledge,J.,Regalia,C., Manzi, C.,& Scabini, E.(2006).Beyond self-esteem: Influenceof multiple motives on identity construction.Journal of Personality and Social Psychology,90(2),308-33.   
+Watson,D. C. (2014a). Materialism: Profiles of agreeableness and neuroticism.Personality and Individual Differences,56,197-200.   
+Watson,D.C.(2014b).A model of the materialistic self.North American Journal ofPsychology,16(1),137-158.   
+Wierzbicki,J.,& Zawadzka,A.M. (2016).The efects of the activation of moneyand credit cardvs.that of activation of spirituality-Which one prompts pro-social behaviours?. Current Psychology,35(3),344-353.   
+Wu, J.,Watkins,D,& Hatie,J. (2010). Self-concept clarity: A longitudinal study of Hong Kong adolescents. Personality and Individual Differences, 48(3),277-282.   
+Yu, Y.,Jing,F., Su,C.T., Zhou, N.,& Nguyen,B.(2016). Impact of material vs.experiential purchase types on happiness: The moderating role of self-discrepancy. Journal of Consumer Behaviour,15(6),571-579.
+
+# The features and theories of materialists’ self-concept
+
+ZHOU Jing 1; XIE Tian ²
+
+(SchoolofEducation,Jianghan University,Wuhan43oo56,China) (Department ofPsychology,Philosophy School,Wuhan 430072,China)
+
+Abstract: Classical studies define and understand the phenomenon of materialism from the perspective of a person's traits, values, goals,and needs. Although self-concept has always been a clue through materialism research, researchers have recently attempted to synthesize the existing research on self-concept.Relevant studies have shown that materialists’ self-evaluation is low and their self-knowledge is inconsistent. Low self-evaluation is characterized by low self-esteem, contingent self-esteem. The inconsistent self-knowledge is manifested by an unclear self-concept, a discrepancy in explicit and implicit self-esteem,and self-disparity (a discrepancy between notions of an ideal and real self).Two recent comprehensive theories-the theory of materialistic escape from the self and identity goal pursuits theory of materialism-suggest that materialism is one's use of material possession as a means of escaping from one's self-awareness or as a means of constructing and pursuing self-identity. By well interpreting the existing research findings, these two theories make up for the lack of integration theories of materialism research.Future research should transcend the materialists’ self-deficiency approach and make greater theoretical contributions by borrowing the theories of self-concept.
+
+Key words: materialism; self-concept; theory of materialistic escape from the self; identity goal pursuits theory of materialism

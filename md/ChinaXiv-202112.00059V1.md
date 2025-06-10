@@ -1,0 +1,225 @@
+# 西北地区投人产出效 的综合测度与时空变化
+
+鲍超1,2，徐牧天1,2
+
+(1.中国科学院地理科学与资源研究所区域可持续发展分析与模拟重点实验室,北京100101;2.中国科学院大学资源与环境学院，北京100049)
+
+摘要：在新时代背景下，提高西北地区社会经济和资源环境的投入产出效率，是推动生态文明建设、促进高质量转型发展、保障国家长治久安的必然要求和重要途径。为此，构建了投入产出效率综合测度指标体系，并采用ME-DEA模型、Mann-Kendall趋势检验、空间变异系数等方法，对西北地区2000—2017年投入产出效率的时空变化特征进行了分析。结果表明：(1）西北地区投入产出总体效率由0.883波动上升至0.975，始终在低水平范围内徘徊，而且整体呈不显著提高态势，仅$4 3 . 3 3 \%$ 的地级行政单元呈显著提高态势。(2)社会经济效率由0.984波动上升至1.079,由低水平过渡至中等水平，整体呈显著提高态势，但仅 $4 0 . 0 0 \%$ 的地级行政单元呈显著提高态势。(3）资源环境效率由0.807波动上升至0.897，始终属于低水平，整体呈不显著提高态势，仅 $3 1 . 6 7 \%$ 的地级行政单元呈显著提高态势。(4)投入产出总体效率长期呈现低水平和中水平广泛分布而中高和高水平零星分布格局，社会经济效率由低水平广泛分布向各类型基本均衡分布的格局演变，资源环境效率呈现低水平和中水平占绝对主导而中高水平和高水平偶有出现格局。因此，西北地区应建立社会经济与资源环境的良性交互耦合机制，重点补足资源环境效率短板，同时因地制宜施策，促进投入产出效率均衡提升。
+
+关键词：投入产出效率；社会经济效率；资源环境效率；ME-DEA模型；综合测度
+
+# 文章编号：
+
+西北地区是我国西部大开发和向西开放的重点区域，是“一带一路"的核心覆盖区，也是维护我国国防安全、生态安全、社会安全、经济安全、文化安全的重要区域。虽然西北地区受自然地理条件和历史发展基础等多种因素影响，社会经济发展水平相对较低，但正处于经济高速增长阶段，2000—2018年GDP年均增长 $1 2 . 3 3 \%$ ，比全国平均水平$9 . 5 3 \%$ 高出近3个百分点。然而，西北地区的资源禀赋决定了能源、资源类工业为其支柱产业，且产业结构演进滞后，这种以增加生产要素投人为主要驱动力的粗放型经济增长模式难以为继[3]。与此同时，西北地区城镇化和工业化发展也付出了较大的生态环境代价，给当地脆弱的生态环境本底带来了严峻挑战[4]。在新时代背景下，党和国家高度重视生态文明建设及美丽中国建设，着力推进经济社会发展实现全面绿色转型。而已有研究表明，西北地区是全国范围内绿色发展效率的低值区[5-8]。因此,深入探讨西北地区投入产出效率并分析其时空演变过程，不仅可以服务于党和国家重大战略需求、促进区域高质量均衡发展，而且对干旱区、半干旱区人地关系的协调具有重要意义。
+
+投入产出效率是基于全要素生产理论而产生的概念，是区域发展成效的重要表征。就分析框架而言，投入产出效率已由仅考虑市场价值的经济发展效率拓展至包含社会经济要素和资源环境要素的综合效率[9]。在此框架内，根据研究侧重点的不同,学者们提出了绿色发展效率[6]、生态效率[10-12]、创新效率[13]等衍生概念，并重点对土地利用效率[14]、水资源利用效率[15]、碳排放效率[16]等资源环境要素效率进行了研究。在综合测度方法方面，数据包络分析(Data envelopeanalysis,DEA)方法因无需预设参数和假定投入产出之间的函数关系，并可以最大程度保证原始信息的完整性1]，因此在分析多投入多产出情景时具有明显优势，从而被广泛应用。SBM-DEA[12]、DEA-Malmquist[17]、Super-SBM[18]、Bootstrap-DEA[19]、三阶段DEA[20]、ZSG-DEA[21]、窗口DEA[22]、网络DEA[23等DEA模型的改进方法被大量应用于研究之中。然而，传统的DEA模型要求生产可能集满足凸性假设、生产函数分段线性并且规模报酬非递增，会导致非凸性的生产可能集无法适用于传统的DEA模型，一些有效决策单元会被视为无效。为此,Valadkhani等[24-25]提出了可乘环境数据包络分析模型（Multiplicative environmental data envelop-mentanalysis,ME-DEA）,其生产函数为分段对数线性,对规模报酬的增减性和生产可能集的凹凸性不作要求，因而可以克服上述缺陷。在研究尺度方面,已有研究多侧重国家大区域尺度[5,-8.15-16.26-27]和省级尺度[7,8-29],少数学者选择城市群尺度[,13,19]、地级城市尺度[6.1830-31]或县级尺度[32]进行研究。然而，现有的少数地级城市尺度研究并未覆盖全部地级行政单元，且重点关注中东部地区，未能深入揭示西北地区投入产出效率的时空变化特征。因此，本文采用较为先进的ME-DEA模型，结合Mann-Kend-all趋势检验、空间变异系数等时空分析方法，对西北地区分地级行政单元投入产出效率(包括总体效率、社会经济效率和资源环境效率)进行综合测度，并在此基础上对时空变化格局进行分析，以期为促进西北地区高质量转型发展提供科学依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+本文的研究区域包括陕西、甘肃、青海、宁夏、新疆5个省区以及内蒙古自治区西北部的8个盟市，以2000—2017年该区域各地级行政单元为研究对象。为保持地理单元的完整性和一致性，将陕西省杨凌区纳入咸阳市，新疆维吾尔自治区直辖县级行政单元纳入邻近的地级行政单元，新疆伊犁哈萨克自治州直辖县（市）、塔城地区、阿泰勒地区分别作为1个研究单元，2004年新成立的宁夏回族自治区中卫市单独作为1个研究单元(2000—2003年采用其所在的吴忠市测度结果代替）。
+
+研究区位于大兴安岭以西、长城和昆仑山一阿尔金山六盘山以北，总面积约 $3 7 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，约占我国陆域国土面积的 $3 8 . 5 4 \%$ 。2018年总人口为 $1 . 1 4 \times$ $1 0 ^ { 8 }$ 人，约占全国总人口的 $8 . 1 8 \%$ ,GDP为 $6 . 4 2 \times 1 0 ^ { 1 2 }$ 元，约占全国GDP总量的 $6 . 9 9 \%$ 。区域地形地貌类型丰富且复杂多变，以高原和内陆盆地为主，山地、河谷、沙漠、戈壁、平川等均有分布。由于深居亚欧大陆内部，气候以典型的温带大陆性季风气候、高原性大陆气候为主，降水稀少、昼夜温差大且蒸发量大，多数属于干旱半干旱区。
+
+# 1.2综合测度指标体系与数据来源
+
+投人产出效率是指在特定的时空范围内，区域发展过程中所创造的期望经济社会效益、非期望环境影响产出之和与各种有效利用的物质资源要素投入的比率。根据全要素生产理论及前人的相关研究，结合数据的可得性，构建了西北地区投入产出效率综合测度指标体系(表1)。其中，投入指标包括劳动力、资本和资源3个一级指标，涵盖年末从业人员总数、资本存量、用水总量、建设用地规模和耕地规模5个二级指标;产出指标包括合意产出与非合意产出2个一级指标，合意产出涵盖地区生产总值(GDP)和粮食产量2个二级指标，非合意产出涵盖工业废水排放量、工业 $\mathrm { S O } _ { 2 }$ 排放量和 $\mathrm { C O } _ { 2 }$ 排放量3个二级指标。各地级行政单元的社会经济数据和工业污染排放数据来源于各省区历年统计年鉴、《中国区域经济统计年鉴》《中国城市统计年鉴》，少部分缺失数据来源于各地级市、州、盟的国民经济
+
+# 表1西北地区投入产出效率综合测度指标体系
+
+Tab.1 Comprehensive measurement indicators of input-output efficiency in northwest China   
+
+<html><body><table><tr><td>指标类型</td><td>一级指标</td><td>二级指标</td></tr><tr><td>投入指标</td><td>劳动力</td><td>年末从业人员总数</td></tr><tr><td rowspan="8">产出指标</td><td>资本</td><td>资本存量</td></tr><tr><td>资源</td><td>用水总量</td></tr><tr><td></td><td>建设用地规模</td></tr><tr><td></td><td>耕地规模</td></tr><tr><td>合意产出</td><td>GDP</td></tr><tr><td></td><td></td></tr><tr><td>非合意产出</td><td>粮食产量</td></tr><tr><td></td><td>工业废水排放量</td></tr><tr><td colspan="2"></td><td>工业 SO排放量 CO排放量</td></tr></table></body></html>
+
+# 干旱区地理
+
+和社会发展统计公报。其中，资本存量利用固定资产投资数据和永续盘存法进行计算[33],经济数据均以2000年为基准换算为可比价格，工业污染排放指标少量缺失数据利用省级尺度工业污染排放数据和地级尺度工业生产总值数据推算获得。土地利用数据来源于欧洲空间局(ESACCI,http://maps.elie.ucl.ac.be/CCI/viewer/download.php），数据分辨率为$3 0 0 \mathrm { m } { \times } 3 0 0 \mathrm { m }$ 。用水总量数据来源于历年各省区的水资源公报。 $\mathrm { C O } _ { 2 }$ 排放数据来源于Chen等的研究成果[34]。
+
+# 1.3综合测度模型与时空分析方法
+
+# 1.3.1 ME-DEA模型
+
+（1）ME-DEA标准效率模型
+
+DEA模型作为测算全要素生产率的1种非参数方法，主要是基于一系列投入产出观测值估计生产前沿面,在此基础上评估决策单元(Decision makingunits,DMU)的相对效率值[35]。依据DEA模型的基本原理，Valadkhani等24进行了改进，首先提出了ME-DEA标准效率模型。该模型假设有 $n$ 个决策单元 $\mathrm { D M U } _ { j } ( j { = } 1 , 2 , \cdots , n )$ ,每个决策单元利用 $m$ 种投入$x _ { i j } ( i { = } 1 , 2 , \cdots , m )$ ,生成 $p$ 种合意产出 $y _ { \eta } ^ { D }$ （ $( r { = } 1 , 2 , \cdots$ $_ p )$ 与 $q$ 种非合意产出 $\mathscr { y } _ { t j } ^ { U } ~ ( t { = } 1 , 2 , \cdots , q )$ ,对于第 $\mathbf { \sigma } _ { o }$ 个特定决策单元（记为 $\mathrm { D M U } _ { o }$ )，其标准效率的具体计算公式如下：
+
+$$
+\begin{array}{c} \begin{array} { l } { { \displaystyle \rho _ { \omega } ^ { \mathrm { u c } } = \mathrm { M a x } \Bigg [ \Bigg ( \prod _ { i = 1 } ^ { M } \alpha _ { i } ^ { \mathrm { i } } \Bigg ) \times \Bigg ( \prod _ { j = 1 } ^ { p } \beta _ { i } ^ { \mathrm { i } } \Bigg ) \times \Bigg ( \prod _ { i = 1 } ^ { q } \gamma _ { i } ^ { \mathrm { i } } \Bigg ) \Bigg ] } } \\ { { \mathrm { s . t . } \Bigg [ \prod _ { j = 1 } ^ { M } \alpha _ { j } ^ { \mathrm { i } } \Bigg . } } \\ { { \displaystyle \prod _ { j = 1 } ^ { M } \gamma _ { j } ^ { \mathrm { i } \cdot j } \geq \beta _ { i } \gamma _ { \omega , \cdot } ^ { \mathrm { p } } } } \\ { { \displaystyle \prod _ { j = 1 } ^ { M } \gamma _ { \psi } ^ { \mathrm { p } \cdot j } = \gamma _ { \psi } ^ { \mathrm { i } } \gamma _ { \mathrm { s } , \cdot } ^ { \mathrm { p } } } } \\ { { \displaystyle \sum _ { j = 1 } ^ { M } \gamma _ { \psi } ^ { \mathrm { p } \cdot j } = \gamma _ { \psi } ^ { \mathrm { i } } \gamma _ { \mathrm { s } , \cdot } ^ { \mathrm { p } } } } \\ { { \displaystyle \sum _ { j = 1 } ^ { M } \lambda _ { j } = 1 } } \end{array} , \Bigg ] = 1 , 2 , \cdots , m   \end{array}
+$$
+
+$$
+\lambda _ { j } \geqslant 0 , 0 \leqslant \theta _ { j } \leqslant 1 , \alpha _ { i } \geqslant 1 , \beta _ { r } \geqslant 1 , \gamma _ { \iota } \geqslant 1 , \forall i , r , t , j
+$$
+
+式中： $\alpha _ { i } ( i { = } 1 , 2 , \cdots , m )$ . $\beta _ { r } ( r = 1 , 2 , \cdots , p )$ 和 $\gamma _ { \scriptscriptstyle t }$ （ $\scriptstyle t = 1$ $\scriptstyle 2 , \cdots , q )$ 分别是第 $i$ 种投入、第 $r$ 种合意产出和第 $\mathbf { \Phi } _ { t }$ 种非合意产出的无效率表征，其倒数分别是第 $i$ 种投入、第 $r$ 种合意产出和第 $\mathbf { \Phi } _ { t }$ 种非合意产出的标准效率值。 $\boldsymbol { u } _ { i } \mathrm { = } ( u _ { 1 } , \cdots , u _ { m } )$ . $v _ { r } { = } ( v _ { 1 } , \cdots , v _ { p } )$ 和 $\boldsymbol { w _ { t } } \mathrm { = } ( w _ { 1 } , \cdots , w _ { q } )$ 分别是投入要素、合意产出要素和非合意产出要素的权重向量。 $\lambda _ { j } { = } ( \lambda _ { 1 } , \cdots , \lambda _ { n } )$ 是使投入产出变量相互关联的结构向量。 $\theta _ { j } { = } ( \theta _ { 1 } , \cdots , \theta _ { n } )$ 是使产出变量满足弱处置性的系数变量。求解目标函数 $\rho _ { _ o } ^ { \mathrm { M E } }$ 的最大值，可得到最优解 $\alpha _ { i } ^ { * }$ ， ${ \boldsymbol { \beta } } _ { r } ^ { * }$ 和 $\boldsymbol { \gamma } _ { t } ^ { * }$ 。当且仅当$\boldsymbol { \alpha } _ { i } ^ { * } = \boldsymbol { \beta } _ { r } ^ { * } = \boldsymbol { \gamma } _ { t } ^ { * } = 1$ 时,决策单元DMU。的投入产出才被视为有效。
+
+参考Valadkhani等24|和 $\mathrm { H a n }$ 等[35的做法，利用模型(1)的最优解，即各要素的无效率值可计算出第 $\mathbf { \sigma } _ { o }$ 个特定决策单元的社会经济效率( $e _ { o } ^ { \mathrm { { M - E c o n } } }$ ）资源环境效率( $e _ { o } ^ { \mathrm { M - E v i r } }$ )和总体效率( $e _ { o } ^ { \mathrm { { \scriptscriptstyle M E } } }$ ),而且可知三者均介于0\~1之间。其中，社会经济效率根据年末从业人员总数（ $\alpha _ { 1 } ^ { * }$ ）资本存量 $\left( \alpha _ { 2 } ^ { * } \right) \ 、 \mathrm { G D P } ( \beta _ { 1 } ^ { * } ) ,$ 粮食产量( $\boldsymbol { \beta } _ { 2 } ^ { * }$ )的无效率值计算；资源环境效率根据建设用地规模（ ${ \boldsymbol { \alpha } } _ { 3 } ^ { * }$ ）、耕地规模( $\alpha _ { 4 } ^ { * }$ ）、用水总量( $\alpha _ { 5 } ^ { * }$ ）、工业废水排放量 $( \gamma _ { 1 } ^ { * }$ ）工业 $\mathrm { S O } _ { 2 }$ 排放量 $\left( \gamma _ { _ 2 } ^ { * } \right.$ ）和 $\mathrm { C O } _ { 2 }$ 排放量( $\boldsymbol { \gamma } _ { 3 } ^ { * }$ )的无效率值计算；总体效率为社会经济效率和资源环境效率2个子系统效率的几何平均值。具体计算公式见式(2)\~(4)。
+
+$$
+e _ { o } ^ { \mathrm { M - E c o n } } = \left( \alpha _ { _ 1 } ^ { ^ * } \times \alpha _ { _ 2 } ^ { ^ * } \times \beta _ { _ 1 } ^ { ^ * } \times \beta _ { _ 2 } ^ { ^ * } \right) ^ { - 1 / 4 }
+$$
+
+$$
+\boldsymbol { e } _ { o } ^ { \mathrm { M \mathrm { - } E v i r } } = \left( \alpha _ { 3 } ^ { * } \times \alpha _ { 4 } ^ { * } \times \alpha _ { 5 } ^ { * } \times \gamma _ { 1 } ^ { * } \times \gamma _ { 2 } ^ { * } \times \gamma _ { 3 } ^ { * } \right) ^ { - 1 / 6 }
+$$
+
+$$
+e _ { o } ^ { \mathrm { M E } } = \left( e _ { o } ^ { \mathrm { M - E c o n } } \times e _ { o } ^ { \mathrm { M - E v i r } } \right) ^ { 1 / 2 }
+$$
+
+(2）ME-DEA超效率模型
+
+基于ME-DEA标准效率模型，可以判断出两类决策单元：有效单元( $e _ { o } ^ { \mathrm { M E } } = 1$ )和无效单元( $e _ { o } ^ { \mathrm { M E } } < 1$ ）。由于小样本量和维度受限等问题,通常会出现多个决策单元被评价为有效单元的计算结果[24]。由于有效单元的效率值均为1，无法进一步区分效率的相对高低。为解决这一问题，Andersen和Petersen提出超效率模型（Super efficiencymodel）,将被评价的DMU从参考集中剔除，参考其他DMU构成的前沿面，计算被评价DMU的效率值，得出的结果大于1,从而可以对有效单元大小进行区分[36]。据此，Va-ladkhani等进一步提出了ME-DEA超效率模型，其函数表达如下[24]：
+
+$$
+\begin{array} { l } { \zeta _ { s } ^ { \mathrm { R } , * } = \operatorname { M a x } \Bigg [ \Bigg ( \displaystyle \prod _ { i = 1 } ^ { N } \Bigg | x _ { i } ^ { \mathrm { R } } \Bigg ) \times \Bigg ( \displaystyle \prod _ { i = 1 } ^ { N } \theta _ { i } ^ { \mathrm { R } } \Bigg ) \times \Bigg ( \displaystyle \prod _ { i = 1 } ^ { N } \sigma _ { i } ^ { \mathrm { R } } \Bigg ) \Bigg ] } \\ { \mathrm { s . t . } \Bigg [ \displaystyle \prod _ { j = 0 } ^ { N } s \sigma _ { i } - \lambda _ { i - 1 } } \\ { \displaystyle \prod _ { i = 1 } ^ { N } \gamma _ { j } ^ { \mathrm { R } } } \\ { \displaystyle \prod _ { i = 1 } ^ { N } \gamma _ { j } ^ { \mathrm { R } } \gamma _ { j - 1 } ^ { \mathrm { R } } \gamma _ { j - 1 } ^ { \mathrm { R } } } \\ { \displaystyle \prod _ { i = 1 } ^ { N } \gamma _ { i } ^ { \mathrm { R } } = \sigma _ { i } \gamma _ { \mathrm { s } , i } ^ { \mathrm { R } } , \quad t = 1 , 2 , \cdots , q } \\ { \displaystyle \sum _ { i = 1 } ^ { N } \lambda _ { i } - 1 } \\ { \displaystyle \sum _ { j = 0 } ^ { N } \lambda _ { j } \leq 1 } \\ { \displaystyle \sum _ { i , j } \gamma _ { 0 } ^ { \mathrm { R } } , \ 0 \leq \ell _ { j } \leq 1 , \ \tau , \varepsilon > 1 , \ \sigma , \ s = 1 , \ \forall i , \ r , \ t , j } \end{array}
+$$
+
+式中： $\tau _ { i } ( i { = } 1 , 2 , \cdots , m )$ ， $\boldsymbol { \psi } _ { r }$ $( r { = } 1 , 2 , \cdots , p )$ 和 $\sigma _ { { \boldsymbol { t } } } \left( { \boldsymbol { t } } \mathrm { { = } } 1 \right.$ $2 , \cdots , q )$ 分别是第 $i$ 种投入、第 $r$ 种合意产出和第 $\mathbf { \Phi } _ { t }$ 种非合意产出扩张的比值。求解目标函数 $\zeta _ { o } ^ { \mathrm { M E } }$ 的最大值,得到的最优解 $\boldsymbol { \tau } _ { i } ^ { * }$ ， $\boldsymbol { \psi } _ { r } ^ { * }$ 和 $\boldsymbol { \sigma } _ { t } ^ { * }$ 分别就是第i种投入、第 $r$ 种合意产出和第 $t$ 种非合意产出的超效率值。
+
+利用模型(5)的最优解，即各要素的超效率值可计算出第 $\mathbf { \sigma } _ { o }$ 个特定决策单元的社会经济超效率（ $s e _ { o } ^ { \mathrm { { \scriptscriptstyle M - E c o n } } }$ ）、资源环境超效率( $\mathbf { \Delta } _ { s e _ { o } ^ { \mathrm { M - E v i r } } }$ )和总体超效率（204号 $\mathrm { ~ ( ~ } \it { s e } _ { o } ^ { \mathrm { { M E } } }$ )。其中,社会经济超效率根据年末从业人员总数( $\boldsymbol { \tau } _ { 1 } ^ { * }$ ）、资本存量( $\boldsymbol { \tau } _ { 2 } ^ { * }$ ）、 $\mathrm { { G D P } ( \Omega \psi _ { 1 } ^ { * } } \ .$ ）、粮食产量（ $\boldsymbol { \psi } _ { 2 } ^ { * }$ )的超效率值计算；资源环境超效率根据建设用地规模 $\left( \mathbf { \sigma } _ { \tau _ { 3 } ^ { * } } \right.$ ）、耕地规模( $\boldsymbol { \tau } _ { 4 } ^ { * }$ ）用水总量( $\left( \tau _ { 5 } ^ { * } \right)$ ）工业废水排放量( $\boldsymbol { \sigma } _ { 1 } ^ { * }$ ）工业 $\mathrm { S O } _ { 2 }$ 排放量( $\boldsymbol { \sigma } _ { 2 } ^ { * }$ )和 $\mathrm { C O } _ { 2 }$ 排放量（ $\sigma _ { 3 } ^ { * }$ )的超效率值计算；总体超效率则为社会经济超效率和资源环境超效率的几何平均值。具体计算公式见式(6)\~(8)。
+
+$$
+s e _ { o } ^ { \mathrm { M - E c o n } } = \left( \boldsymbol { \tau } _ { 1 } ^ { * } \times \boldsymbol { \tau } _ { 2 } ^ { * } \times \boldsymbol { \psi } _ { 1 } ^ { * } \times \boldsymbol { \psi } _ { 2 } ^ { * } \right) ^ { 1 / 4 }
+$$
+
+$$
+s e _ { o } ^ { \mathrm { M \mathrm { - } E v i r } } = \left( \tau _ { 3 } ^ { * } \times \tau _ { 4 } ^ { * } \times \tau _ { 5 } ^ { * } \times \sigma _ { 1 } ^ { * } \times \sigma _ { 2 } ^ { * } \times \sigma _ { 3 } ^ { * } \right) ^ { 1 / 6 }
+$$
+
+$$
+s e _ { o } ^ { \mathrm { { M E } } } = \left( s e _ { o } ^ { \mathrm { { M - E c o n } } } \times s e _ { o } ^ { \mathrm { { M - E v i r } } } \right) ^ { 1 / 2 }
+$$
+
+根据ME-DEA标准效率模型和超效率模型的计算结果，将标准效率值小于1的决策单元的标准效率值作为其最终效率值，标准效率值等于1的决策单元的超效率值作为其最终效率值。根据实际计算结果的统计分布并借鉴前人研究[26],将最终效率值划分为4种水平类型：(0，1)为低效率，[1，1.1)为中效率，[1.1,1.2)为中高效率，[1.2,2)为高效率。
+
+1.3.2时间变化趋势及空间差异测度方法为揭示西北地区不同空间研究单元投入产出效率的时间变化特征，选择较为常用的Mann-Kendall方法对时间序列数据进行趋势检验。该方法是1种基于秩序的非参数统计检验方法，其优点是不要求样本数据服从某种概率分布，也不受少数异常值的干扰。该方法可将序列变化趋势区分为显著提高、显著下降、不显著提高、不显著下降、无显著变化5种类型。由于篇幅所限，本文将不再详细阐述该方法，具体原理及公式可参考相关文献[35,37]
+
+为揭示西北地区各地级行政单元投入产出效率的空间差异大小及其变化，引入较为常用的变异系数对空间截面数据进行计算。若随着时间变化，变异系数增大，则说明西北地区投入产出效率的空间差异变大，反之则空间差异变小。具体公式可参考相关文献[1]
+
+# 2结果与分析
+
+2.1西北地区投入产出效率的时间变化特征
+
+2.1.1总体效率始终在低效率范围内温和波动，呈不显著提高态势2000—2017年，西北地区投入产出的总体效率一直处于低水平状态，但整体呈现波动上升态势(图1)，由0.883上升至0.975，年均增长$0 . 5 8 \%$ 。西北地区总体效率的变化态势可大致划分为2个阶段：2000一2008年为高速增长期，效率值由0.883上升至峰值0.996，年均增长 $1 . 5 2 \%$ ,其中2003—2004年效率值涨幅最为明显，增长了0.051;2008一2017年为波动震荡期，呈W型演变态势，其中2008—2009年效率值小幅下降至0.970，2009—2012年稳步上升至0.989，2012—2016年持续下降至0.934，2017年又回升至0.975。
+
+![](images/6eaafe3c32580ed0bbedc88df405f7437ab358f96afa0c6b620fa2851c0d1ca7.jpg)  
+图12000—2017年西北地区投入产出效率的时间变化Fig.1 Temporal variation of the input-output efficiencies innorthwest China in 2000—2017
+
+根据Mann-Kendall趋势检验结果，2000—2017年整个西北地区投入产出总体效率呈不显著提高态势。分省区而言，甘肃、内蒙古、新疆呈显著提高态势，而陕西、青海、宁夏呈不显著降低态势。分地级行政单元而言(图 $2 \mathrm { a }$ ),呈显著提高、不显著提高、显著降低、不显著降低、无显著变化的分别有26个、6个、13个、14个、1个，分别占 $4 3 . 3 3 \%$ 、 $1 0 . 0 0 \%$ 、$2 1 . 6 7 \% . 2 3 . 3 3 \% . 1 . 6 7 \%$ 。显著提高的地级行政单元主要分布在内蒙古大部、新疆北部、甘肃东南部、青海南部，需要继续保持良好发展势头；显著降低的地级行政单元主要分布在新疆南部、陕西中部和南部、甘肃中部和西南部、青海东部,亟需合理引导和重点关注。
+
+![](images/b9eacfd92ff587f924f04b1276d653f98cff74d7053e7729f3d5f367681c814c.jpg)  
+干旱区地理  
+图22000—2017年西北地区投入产出效率的变化趋势  
+Fig.2 Changing trends of the input-output efficiencies in northwest China in 20oo—2017
+
+2.1.2社会经济效率由低水平过渡至中等水平，呈显著提高态势2000—2017年，西北地区社会经济效率由0.984增长至1.079,年均增长 $0 . 5 5 \%$ 。其中仅在2000年和2002年处于低效率水平范围，其他年份均维持在中等效率水平范围并呈波动上升态势（图1)。从具体的社会经济要素效率来看，GDP效率 $: >$ 粮食产量效率 $>$ 资本存量效率 $>$ 从业人员效率（图3a）。GDP效率由2000年的1.196上升至2017年的1.301，年均增长 $0 . 4 9 6 \%$ ，其中除2000年和2002年为中高水平以外，其他年份均处于高水平区间。粮食产量效率一直在中等水平和中高水平之间徘徊，总体呈下降态势，由2000年的1.157下降至
+
+![](images/69c05edd1547be9fc70ac921ffca7fd7a01669bb6637eb27e7017d7b56d8cdd6.jpg)  
+注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)1698号的标准地图制作。下同。  
+图32000—2017年西北地区各投入产出要素效率的时间变化  
+Fig.3 Temporal variation of the input-output factor efficiencies in northwest China in 2Oo0—2017
+
+2017年的1.135,年均下降 $0 . 1 1 4 \%$ 。资本存量效率由2000年的0.887上升至2017年的1.033，从业人员效率由2000年的0.984上升至2017年的1.027，二者均实现了由低水平到中等水平的跨越。
+
+根据Mann-Kendall趋势检验结果，2000—2017年整个西北地区社会经济效率呈显著提高态势。分省区而言，内蒙古、陕西呈显著提高态势，甘肃、宁夏、新疆呈不显著提高态势，青海则呈显著降低态势。分地级行政单元而言，呈显著提高、不显著提高、显著降低、不显著降低、无显著变化的分别有24个、11个、10个、14个、1个，分别占 $4 0 . 0 0 \%$ 、$1 8 . 3 3 \% , 1 6 . 6 7 \% , 2 3 . 3 3 \% , 1 . 6 7 \%$ 。社会经济效率变化趋势的分布格局与总体效率大致相同。显著提高的地级行政单元主要分布在内蒙古大部、新疆北部、甘肃东南部、青海南部;显著降低的地级行政单元主要分布在新疆西部、陕西中部、甘肃南部、青海东部(图2b)。
+
+2.1.3资源环境效率始终在低效率范围内曲折波动，呈不显著提高态势2000—2017年，西北地区资源环境效率始终处于低水平范围，由0.807上升至0.897，年均增长 $0 . 6 2 4 \%$ 。期间波动程度较大，其中2003—2006年增幅最大，2006年达到峰值0.943，2012年以后下降趋势明显(图1)。从具体的资源环境要素效率来看，耕地利用效率 $>$ 用水效率 $\mathrm { . } >$ 建设用地利用效率 ${ \mathrm { > C O } } _ { 2 }$ 排放效率>工业废水排放效率>工业 $\mathrm { S O } _ { 2 }$ 排放效率(图3b)。耕地利用效率由0.976波动上升至1.047，仅2000年与2001年处于低效率水平，此后一直稳定在中等水平。用水效率由0.918波动上升至0.998，长期徘徊于低水平与中等水平的临界值左右。建设用地利用效率由0.914波动上升至0.985，仅2006年和2008年迈入中等水平。 $\mathrm { C O } _ { 2 }$ 排放效率由0.778快速上升至2008年的峰值0.975,此后在 $0 . 8 6 7 { \sim } 0 . 9 4 8$ 之间波动，在所有要素效率当中增速最快。工业废水排放效率由0.798波动上升至0.855，工业 $\mathrm { S O } _ { 2 }$ 排放效率由0.762波动上升至0.812。3种非期望产出要素的效率始终处于低水平状态。
+
+根据Mann-Kendall趋势检验结果,2000—2017年整个西北地区资源环境效率呈不显著提高态势。分省区而言，甘肃、内蒙古、新疆呈显著提高态势，而青海呈显著降低态势，宁夏、陕西呈不显著降低态势。分地级行政单元而言，呈显著提高、不显著提高、显著降低、不显著降低、无显著变化的分别有19个、12个、11个、12个、6个，分别占 $3 1 . 6 7 \%$ 、$2 0 . 0 0 \% , 1 8 . 3 3 \% , 2 0 . 0 0 \% , 1 0 . 0 0 \%$ 。显著提高的地级行政单元主要分布在内蒙古中西部、新疆北部、甘肃东南部、陕西西部;显著降低的地级行政单元主要分布在新疆东部、青海南部和东北部、宁夏南部、陕西南部和中部(图2c)。
+
+# 2.2西北地区投入产出效率的空间变化特征
+
+2.2.1总体效率长期呈现低和中效率广泛分布而中高和高效率零星分布格局 2000—2017年，西北地区地级行政单元的总体效率以低效率和中效率居多，少数属于中高效率和高效率(图4)。低效率的地级行政单元2000年最多，为27个，主要分布在甘肃中南部、青海北部、新疆东部、内蒙古大部。2000一2005年，近半数低效率的地级行政单元向更高效率实现了跃迁，此后低效率单元个数基本保持稳定。高效率的地级行政单元个数于2017年达到峰值,包括西安市、临夏回族自治州、黄南藏族自治州、果洛藏族自治州、吐鲁番市、和田地区、乌海市等7个。
+
+从2000—2017年西北地区各地级行政单元总体效率的多年平均值来看，都分布在 $0 . 4 0 4 { \sim } 1 . 2 4 3$ 的区间内，低效率、中效率、中高效率和高效率的地级行政单元分别占 $5 1 . 6 7 \% . 2 8 . 3 3 \% . 1 5 . 0 0 \%$ 和 $5 . 0 0 \%$ ，中高效率和高效率明显偏少。从2000—2017年西北地区各省区总体效率的多年平均值来看，青海$( 1 . 0 3 3 ) \mathrm { > }$ 甘肃 $( 1 . 0 2 5 ) >$ 陕西 $( 0 . 9 9 8 ) >$ 宁夏 $( 0 . 9 8 9 ) >$ 内蒙古 $( 0 . 8 7 4 ) >$ 新疆(0.859)，总体呈现出南高北低的空间格局。2000—2017年西北地区地级行政单元总体效率的变异系数由0.32下降至0.24，说明总体效率的空间差异在波动中趋于缩小，其中2000一2008年迅速缩减，但2008年以后有所回升，空间差异有扩大趋势(图5)。
+
+2.2.2社会经济效率由低效率广泛分布向各类型基本均衡的分布格局演变2000—2017年，西北地区各地级行政单元的社会经济效率的分布类型由不均衡向基本均衡演变(图6)。2000年，低效率、中效率、中高效率和高效率的地级行政单元个数分别是26、16、9、8,分别占 $4 4 . 0 7 \%$ 、 $2 7 . 1 2 \%$ 、 $1 5 . 2 5 \%$ 、$1 3 . 5 6 \%$ ；到2017年变为 $1 4 、 2 0 、 1 2 、 1 4$ ，分别占$2 3 . 3 3 \% , 3 3 . 3 3 \% , 2 0 . 0 0 \% , 2 3 . 3 3 \%$ ，低效率比重逐渐降低，中、中高效率和高效率比重逐渐上升，且高效率比重上升最快。2017年，高效率的地级行政单元主要分布在陕西南部、青海南部、新疆西部、内蒙古西南部，低效率的地级行政单元主要分布在青海北部、宁夏北部、甘肃南部、新疆北部和东部、内蒙古东部。
+
+![](images/14d7e7ca4cd1e51e705b19d7f3cf73595a119d2c9b07e03b13bf2c8ceeda041f.jpg)  
+干旱区地理  
+图42000—2017年西北地区投入产出总体效率的时空变化
+
+![](images/1da3a296afd34fc19a827e866c2bb462617355b585f4c764aefe63ee21508ec9.jpg)  
+Fig.4Spatiotemporal variation of the overall input-output efficiency in northwest China in 2000—20   
+图52000—2017年西北地区投入产出效率的空间变异系数 Fig.5Spatial variability coefficient of input-output efficiencies in northwest China in 20oo—2017
+
+从2000—2017年西北地区各地级行政单元社会经济效率的多年平均值来看，都分布在 $0 . 6 7 1 \sim$ 1.426的区间内，低效率、中效率、中高效率和高效率的地级行政单元分别占 $3 6 . 6 7 \% . 3 3 . 3 3 \% . 1 0 . 0 0 \%$ 和$2 0 . 0 0 \%$ ，各类型比重差距相对较小。从2000—2017年西北地区各省区社会经济效率的多年平均值来看，甘肃 $\left( 1 . 0 9 6 \right) >$ 青海 $( 1 . 0 8 8 ) >$ 陕西 $( 1 . 0 8 2 ) >$ 宁夏$( 1 . 0 6 4 ) >$ 新疆 $( 0 . 9 8 8 ) >$ 内蒙古(0.956)，总体也呈现出南高北低的空间格局，但与总体效率的省际排名稍有差异。2000—2017年西北地区地级行政单元社会经济效率的变异系数由0.30下降至0.19，说明社会经济效率的空间差异在波动中趋于缩小，但近年来波动幅度较大，差异格局处于不稳定状态(图5)。2.2.3资源环境效率呈现低和中效率占绝对主导而中高、高效率偶有出现格局2000—2017年，西北地区各地级行政单元资源环境效率以低、中效率水平占主导，少数属于中高、高效率水平(图7)。长期以来，低效率和中效率的地级行政单元个数都维持在54个左右，占比约 $9 0 \%$ 。2000—2005年中效率的地级行政单元由27个快速上升至40个，此后基本稳定。2005年以后，低效率的地级行政单元主要分布在陕西北部和南部、甘肃南部、宁夏北部、新疆东部、内蒙古东北部。常年维持在中高效率或高效率的地级行政单元主要包括铜川市、嘉峪关市、海北藏族自治州、黄南藏族自治州、果洛藏族自治州、乌海市。
+
+![](images/651391540d6bf095dced846332127825a365bdbcd3846efe269f3f2ea4d1b347.jpg)  
+图62000—2017年西北地区社会经济效率的时空变化  
+Fig.6 Spatiotemporal variation of the socioeconomic eficiency in northwest China in 2Ooo—2017
+
+从2000—2017年西北地区各地级行政单元资源环境效率的多年平均值来看，都分布在0.222\~1.323的区间内，低效率、中效率、中高效率和高效率的地级行政单元分别占 $5 5 . 0 0 \%$ ） $3 5 . 0 0 \%$ 、 $6 . 6 7 \%$ 和$3 . 3 3 \%$ 。从2000—2017年西北地区各省区资源环境效率的多年平均值来看，青海 $( 0 . 9 9 4 ) >$ 甘肃$\left( 0 . 9 6 9 \right) >$ 陕西 $( 0 . 9 3 0 ) >$ 宁夏 $( 0 . 9 2 4 ) >$ 内蒙古$( 0 . 8 1 0 ) >$ 新疆(0.768)，各省区多年平均值均小于1，说明各省区资源环境效率总体都属于低水平。2000—2017年西北地区地级行政单元资源环境效率的变异系数由0.38下降至0.30，说明资源环境效率的空间差异在波动中趋于缩小，其中2003—2016年呈"U"型演变态势，2016—2017年才有所回落(图5)。
+
+![](images/de826b75ec0560580f6d8dfcdd61211b47016e05a75d05cb9c9daa855fee9707.jpg)  
+干旱区地理  
+图72000—2017年西北地区资源环境效率的时空变化  
+Fig.7Spatiotemporal variation ofresources and environmental efficiency in northwest China in 20o0—2017
+
+# 3结论
+
+本文采用ME-DEA模型测度了2000—2017年西北地区地级行政单元的投入产出效率(包括总体效率、社会经济效率和资源环境效率），并在此基础上利用Mann-Kendall检验和变异系数分析了其时空演变特征，主要结论如下：
+
+（1）西北地区投入产出总体效率始终在低效率范围内温和波动，呈不显著提高态势。西北地区投入产出总体效率由2000年的0.883波动上升至2017年的0.975，始终在低效率范围内徘，仅 $4 3 . 3 3 \%$ 的地级行政单元呈显著提高态势。因此，推动投入产出效率由低水平向高水平跃迁，是西北地区各级政府当前面临的重要任务。
+
+(2）西北地区社会经济效率由低水平过渡至中等水平，呈显著提高态势；资源环境效率始终在低效率范围内曲折波动，呈不显著提高态势。西北地区社会经济效率由2000年的0.984波动上升至2017年的1.079,具体要素中，GDP效率 $>$ 粮食产量效率>资本存量效率>从业人员效率，产出要素效率普遍高于投入要素效率；资源环境效率由2000年的0.807波动上升至2017年的0.897，具体要素中，耕地利用效率 $. >$ 用水效率 $>$ 建设用地利用效率 ${ \mathrm { > C O } } _ { 2 }$ 排放效率 $>$ 工业废水排放效率 $>$ 工业 $\mathrm { S O } _ { 2 }$ 排放效率，投入要素效率普遍高于产出要素效率。
+
+(3）西北地区历年均呈现出“社会经济效率 $>$ 总体效率>资源环境效率”，总体效率提高主要由社会经济效率拉动。因此应建立社会经济与资源环境的良性交互耦合机制，将补足资源环境效率短板作为重点，推动产业结构由资源密集型主导向技术密集型主导转变，提高资源利用效率和降低环境污染程度，逐步摆脱社会经济发展对资源要素投人的高度依赖。
+
+（4）西北地区投入产出总体效率长期呈现低和中效率广泛分布而中高和高效率零星分布格局，社会经济效率由低效率广泛分布向各类型基本均衡的分布格局演变，资源环境效率呈现低和中效率占绝对主导而中高和高效率偶有出现格局。今后应因地制宜施策，促进投入产出效率均衡提升。
+
+需要指出的是，本文仅对西北地区投人产出效率进行了综合测度与时空特征分析，在下一步研究中，应在此基础上，重点选取相关影响因素，探测相关表征指标与各种投入产出效率的定性与定量关系，揭示西北地区投入产出效率时空变化的驱动因素和动力机制，总结归纳西北地区投入产出效率的具体提升路径。
+
+# 参考文献(References)
+
+[1]李春米,魏玮.中国西北地区环境规制对全要素生产率影响的 实证研究[J].干旱区资源与环境,2014,28(2):14-19.[LiChunmi,Wei Wei.Empirical study of environmental regulation in northwest China on TFP (Total factor productivity)[J].Journal of Arid Land Resources and Environment,2014,28(2): 14-19.]
+
+[2]马子量.西北地区城市化进程对产业结构演变的驱动效应研究 [J].中国人口·资源与环境,2016,26(11):37-44.[Ma Ziliang. Driving effect of the industrial structure development in the process of urbanization in northwest ChinalJJ. China Population, Resources and Environment,2016,26(11): 37-44.]
+
+[3]鲍超,邹建军.中国西北地区城镇化质量的时空变化分析[J].干 旱区地理,2019,42(5):1141-1152.[Bao Chao,Zou Jianjun.Spatiotemporal variations of urbanization quality in northwest China [J]. Arid Land Geography,2019,42(5): 1141-1152.]   
+[4]鲁大铭,石育中,李文龙,等.西北地区县域脆弱性时空格局演 变[J].地理科学进展,2017,36(4): 404-415.[Lu Daming,Shi Yuzhong,Li Wenlong,et al. Spatiotemporal change of vulnerability in counties of northwest China[J].Progress in Geography,2017,36 (4): 404-415.]   
+[5]关伟,许淑婷.中国能源生态效率的空间格局与空间效应[J].地 理学报,2015,70(6): 980-992.[Guan Wei,Xu Shuting. Study on spatial pattrn and spatial effect of energy eco-efficiency in China [J].Acta Geographica Sinica,2015,70(6): 980-992.]   
+[6]周亮,车磊,周成虎.中国城市绿色发展效率时空演变特征及影 响因素[J].地理学报,2019,74(10):2027-2044.[Zhou Liang, Che Lei, Zhou Chenghu. Spatio-temporal evolution and influencing factors of urban green development effciency in China[J]. Acta Geographica Sinica,2019,74(10): 2027-2044.]   
+[7]郑德凤,郝帅,孙才志,等.中国大陆生态效率时空演化分析及 其趋势预测[J].地理研究,2018,37(5):1034-1046.[Zheng Defeng,Hao Shuai, Sun Caizhi, et al. Spatio-temporal patern evolution of eco-eficiency and the forecast in mainland of China[J]. Geographical Research,2018,37(5): 1034-1046.]   
+[8]穆学英,刘凯,任建兰.中国绿色生产效率区域差异及空间格局 演变[J].地理科学进展,2017,36(8):1006-1014.[Mu Xueying, Liu Kai,Ren Jianlan. Spatial diferentiation and change of green production effiencyin China[J].Progresin Geography,2017,36 (8): 1006-1014.]   
+[9]康蕾,宋周莺.中国区域投入产出效率的研究框架与实证分析 [J].地理科学,2020,40(11):1868-1877.[Kang Lei,Song Zhouying.Research framework and empirical study of input-output efficiency of resources and environment in China[J]. Scientia Geographica Sinica, 2020,40(11): 1868-1877.]   
+[10] 赵领娣,李莎莎,赵志博,等.干旱半干旱区城市生态效率时空 演变及区域差异分析[J].干旱区地理,2020,43(2):449-457. [Zhao Lingdi, Li Shasha,Zhao Zhibo,et al. Temporal and spatial evolution and regional difference analysis of urban ecological efficiency in arid and semiarid areas[J].Arid Land Geography,2020, 43(2): 449-457.]   
+[11]任宇飞,方创琳,蔺雪芹.中国东部沿海地区四大城市群生态效 率评价[J].地理学报,2017,72(1): 2047-2063.[Ren Yufei,Fang Chuanglin,Lin Xueqin. Evaluation of eco-eficiency of four major urban agglomerations in eastern coastal area of China[J]. Acta Geographica Sinica,2017,72(11): 2047-2063.]   
+[12] 高志刚,童思聪.基于非期望产出的新疆区域生态经济投入效 益分析[J].干旱区地理,2020,43(3):777-785.[Gao Zhigang, Tong Sicong.Regional eco-economic input efficiency of Xinjiang based on undesirable output[J].Arid Land Geography,2020,43 (3): 777-785.]   
+[13] 盛彦文,骆华松,宋金平,等.中国东部沿海五大城市群创新效 率、影响因素及空间溢出效应[J].地理研究,2020,39(2):257- 271. [Sheng Yanwen,Luo Huasong,Song Jinping,et al. Evaluation,influencing factors and spatial spillover of innovation efficiency in five major urban agglomerations in coastal China[J].Geographical Research,2020,39(2): 257-271.]   
+[14] 金贵,邓祥征,赵晓东,等.2005—2014年长江经济带城市土地 利用效率时空格局特征[J].地理学报,2018,73(7):1242-1252. [Jin Gui,Deng Xiangzheng, Zhao Xiaodong,et al. Spatio-temporal paterns of urban land use efficiency in the Yangtze River Economic Zone during 2005—2014[J]. Acta Geographica Sinica,2018,73 (7): 1242-1252.]   
+[15]孙才志,马奇飞,赵良仕.基于GWR模型的中国水资源绿色效 率驱动机理[J].地理学报,2020,75(5):1022-1035.[Sun Caizhi, Ma Qifei, Zhao Liangshi.Analysis of driving mechanism based on a GWR model of green efficiency of water resources in China[J]. Acta Geographica Sinica,2020,75(5): 1022-1035.]   
+[16] 周迪,周丰年,郑楚鹏.公平和效率视角的中国碳排放区域差异 及其固化研究[J].干旱区地理,2019,42(6):1461-1469.[Zhou Di, Zhou Fengnian, Zheng Chupeng.Regional differences and its solidification of carbon emission in China: An equity and effciency perspective[J]. Arid Land Geography,2019,42(6): 1461-1469.]   
+[17] 张煜,孙慧.基于DEA-Malmquist指数法的省域全要素生产率 比较研究[J].干旱区地理,2016,39(2):435-442.[Zhang Yu, Sun Hui.A comparative study of provincial total factor productivity based on DEA-Malmquist index method[J].Arid Land Geography, 2016,39(2): 435-442.]   
+[18] 陈晓红,周宏浩.城市精明发展与生态效率的协同测度及交互 响应——以中国276个地级以上城市为例[J].地理研究,2019, 38(11): 2653-2665.[Chen Xiaohong, Zhou Honghao. Dynamic coordinated relationships and interactive effects between urban smart development and ecological efficiency:A case study of 276 cities at prefecture level and above in China[J]. Geographical Research,2019,38(11): 2653-2665.]   
+[19]方创琳,关兴良.中国城市群投入产出效率的综合测度与空间 分异[J].地理学报,2011,66(8):1011-1022.[Fang Chuanglin, Guan Xingliang. Comprehensive measurement and spatial distinction of input-output efficiency of urban agglomerations in China[J].Acta Geographica Sinica,2011, 66(8): 1011-1022.]   
+[20]ZhangJX,Liu Y M, Chang Y,et al.Industrial eco-efficiency in China:A provincial quantification using three-stage data envelopment analysis[J]. Journal of Cleaner Production,2O17,143: 238-249.   
+[21] Yang M, Hou Y R,Ji Q,et al. Assessment and optimization of provincial CO emission reduction scheme in China:An improved ZSG-DEA approach[J]. Energy Economics,2020,91: 104931,doi: 10.1016/j.eneco.2020.104931.   
+[22] Zhou Z X,Chen Y,Song PF,et al. China's urban air quality evaluation with streaming data: A DEA window analysis[J]. Science of the Total Environment,2020,727:138213,doi: 10.1016/j.scitotenv.2020.138213.   
+[23] Ding L L,Lei L, Wang L, et al.A novel cooperative game network DEA model for marine circular economy performance evaluation of China[J]. Journal of Cleaner Production,2020,253:120071, doi: 10.1016/j.jclepro.2020.120071.   
+[24]Valadkhani A,Roshdi I, Smyth R.A multiplicative environmental DEA approach to measure efficiency changes in the world's major polluters[J]. Energy Economics,2016,54: 363-375.   
+[25]Mehdiloozad M,Sahoo B,Roshdi I.A generalized multiplicative directional distance function for efficiency measurement in DEA[J]. European Journal of Operational Research,2014,232(3): 679-688.   
+[26] 宋周莺,康蕾,刘毅.中国区域投入产出效率的综合测度与时空 格局[J].地理研究,2019,38(2):326-336.[Song Zhouying,Kang Lei,Liu Yi. Spatio-temporal analysis of provincial input-output efficiency in China[J]. Geographical Research,2019,38(2): 326-336.]   
+[27] 车磊,白永平,周亮,等.中国绿色发展效率的空间特征及溢出 分析[J].地理科学,2018,38(11):1788-1798.[Che Lei,Bai Yongping,Zhou Liang,et al.Spatial pattern and spillover effetsof green development efficiency in China[J]. Geographical Research, 2018, 38(11): 1788-1798.]   
+[28] 王耕,李素娟,马奇飞.人类福祉视角下中国生态效率时空演化 研究[J].地理科学,2018,38(10):1597-1605.[Wang Geng,Li Sujuan,Ma Qifei.Spatial-temporal evolution of Chinese eco-efficiency from the perspective of human well-being[J]. Geographical Research,2018,38(10): 1597-1605.]   
+[29]唐志鹏.中国省域资源环境的投入产出效率评价[J].地理研究, 2018,37(8):1515-1527.[Tang Zhipeng.Evaluation on Chinese provincial resource input and environmental output efficiencies from 2000 to 2015[J]. Geographical Research,2018,37(8): 1515-1527.]   
+[30] 杨勇,邓祥征.中国城市生态效率时空演变及影响因素的区域 差异[J].地理科学,2019,39(7): 1111-1118.[Yang Yong, Deng Xiangzheng.The spatio-temporal evolutionary characteristics and regional differences in affecting factorsanalysis of China’s urban eco-efficiency[J]. Scientia Geographica Sinica,2019,39(7): 111-1118.]   
+[31] 刘浩,马琳,李国平.中国城市全要素生产率的演化格局及其影 响因素[J].地理研究,2020,39(4):880-891.[Liu Hao,Ma Lin, Li Guoping. The spatio-temporal evolutionary characteristics and regional differences in affecting factors analysis of China’s urban eco-efficiency[J]. Geographical Research,2020,39(4): 880-891.]   
+[32] 任宇飞,方创琳.京津冀城市群县域尺度生态效率评价及空间 格局分析[J].地理科学进展,2017,36(1):87-98.[Ren Yufei, Fang Chuanglin. Spatial pattern and evaluation of eco-efficiency in counties of the Beijing-Tianjin-Hebei urban agglomeration[J]. Prog ress in Geography,2017,36(1): 87-98.]   
+[33]Wu JX, Kang Z Y, Zhang N. Carbon emission reduction potentials under different polices in Chinese cities:A scenario-based analysis [J]. Journal of Cleaner Production,2017,161: 1226-1236.   
+[34]Chen JD,Gao M,Cheng SL,et al.County-level CO $^ { \prime } { } _ { 2 }$ emissions and sequestration in China during 1997—2017[J]. Scientific Data, 2020, 7(1): 1-12.   
+[35] Han D N, Yu D Y, Cao Q.Assessment on the features of coupling
+
+in data envelopment analysis[J]. Management Science,1993,39 (10): 1261-1264. [37]Mann H B.Nonparametric tests against trend[J]. Econometrica, 1945,13(3): 245-259.
+
+# Comprehensive measurement and spatiotemporal variations of input-output efficiency in northwest China
+
+BAO Chao'², XU Mutian1²
+
+(1.KeyLaboratoryofRegional Sustainable Development Modeling,InstituteofGeographic Sciencesand NaturalResources Research,CAS,Beijing0o1,China;2.CollgeofResourcesandEnvironment,UniversityofCineseAcadeyofSciences, Beijing 100049, China)
+
+Abstract: Northwest China is a key area of China’s Western Development Project and the core coverage area of the Belt and Road Initiative.Itis alsoan important area for maintaining China's national defense and ecological, social,economic,and cultural security.In the new era,improving the input-output eficiencyof the social economy as well as the resources and environment in northwest China is an important route to advance the construction of an ecological civilization,promote high-quality transformation development,and guarantee the long-term stability of the country.Therefore,we here constructed a comprehensive index system for measuring the input- output eficiencyand used the ME-DEA model and the Mann-Kendalltrend test and spatial variability coefficient to analyze the spatiotemporal changes.The results demonstrated the following: (1)Theoverall input-output efficiency in northwest China fluctuated from 0.883 in 2000 to 0.975 in 2017,hovering within a range of low efciency the entire time. There was no general improvement trend, with only $4 3 . 3 3 \%$ of the prefecture-level regions exhibiting significant improvement.(2) The socioeconomic efficiency in northwest China fluctuated from 0.984 in 2000 to 1.079 in 2017,shifting from a low to a medium level.Though it exhibited a trend of improvement overall,only $40 . 0 0 \%$ of the prefecture-level regions exhibited significant improvement. (3） The resources and environmental eficiency in northwest Chinafluctuated from 0.807 in 2000 to 0.897 in 2017,hovering atalow level the entire time and showing little improvement. Only $3 1 . 6 7 \%$ of the prefecture-level regions showed significant improvement. (4)The overallinput-output efficiency in northwest China exhibited a pattrn including a widespread distribution of low and medium efciency and sporadic distribution of medium-high and high eficiency.The socioeconomic eficiency evolved from a widespread distribution of low efficiency toa basically balanced distributionof al types.The resource and environmental eficiency exhibited a pattern of absolute dominance of low and medium eficiency and the occasional occurrence of medium-high and high efficiency.The above results showed that promoting the input-output efficiency fromalow toahigh level isan important task forallevels of government in northwest China.Furthermore,a benign interactive coupling mechanism between the social economy and the eco-environment should be established,and making up for the shortcomings of resource and environmental eficiencyshould be set as a top priority.Specific measures include promoting the transformation of the industrial structure from being resource-intensive to technology-intensive,improving resource use eficiency,and reducing the environmental pollution level as well as gradually geting rid of the strong dependence of socioeconomic development on resource inputs.
+
+Key words: input-output efficiency； socioeconomic efciency； resources and environmental efficiency；multiplicative environmental data envelopment analysis (ME-DEA) model; comprehensive measurement

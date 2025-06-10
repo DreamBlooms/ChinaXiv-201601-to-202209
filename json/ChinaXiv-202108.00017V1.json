@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "矿物复合保水剂对新疆干旱区凝结水吸持效果研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李备¹²，张发旺³，李勇军4，孟建4，朱拥军4，石荣媛4，王雅琴4(1.中国地质科学院水文地质环境地质研究所,河北 石家庄050061；2.中国地质调查局/河北省地下水污染机理与修复重点实验室,河北 石家庄050061；3.中国地质调查局水文地质环境地质调查中心,河北 保定071051;4.新疆农八师农林牧局土壤改良试验站,新疆 石河子 832000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用称重法在新疆石河子市121团土壤改良实验站进行了矿物复合保水剂对干旱区凝结水的高效利用研究实验，根据实验数据分析了该地区凝结水的生成规律及矿物复合保水剂组成的人工保水层对凝结水的吸持效果。结果表明：凝结水来源于地下某深度到地表的水气和空气中的水气，发生时间基本在22:00一09:00,影响凝结水生成的主要因素有近地面大气温度、近地表土壤温度、空气相对湿度、风速等因素。由于向近地表土壤加入了矿物复合保水剂，使得混合层成为了一个人工保水层,该人工保水层对研究区的凝结水量和蒸发量都产生了影响，实验研究表明，人工保水层分布在近地表 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 处对凝结水吸持效果最佳。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：凝结水；矿物复合保水剂；人工保水层；蒸发；微渗计；西北干旱地区文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凝结水是指地面温度和表层地温达到露点时，在地面和表层土壤中，大气水汽和土壤孔隙水汽由汽态水凝结而成的液态水，是土壤水的组成部分。剧烈的昼夜温差和空气相对湿度等自然条件是影响其生成量的重要因素。在干旱和极干旱条件下，任何可利用的水资源都能对其生态环境产生积极的促进作用。凝结水水量虽然微小，但作为稳定可循环的水资源，对于维持干旱区生态系统稳定性具有非常重要的作用[1-3]。凝结水是干旱环境中某些昆虫、小型动植物的重要水分来源，是提高植物种子萌发率的重要水源保障，也是有效弥补土壤蒸发过程导致水分损失的重要补给源之一。另外，凝结水作为一种湿气的来源，在维持沙丘稳定性方面也起着重要的作用[4]。迄今为止，已有国内外诸多学者先后对凝结水进行了大量研究。论述了凝结水形成机理、影响因素等[5-9],而如何对凝结水进行高效利用这一问题却鲜见报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为众多节水材料之一的保水剂，能吸收超过自身重量上百倍的水分，而且具有持续吸水和反复吸释水能力，可长期应用于土壤，且无污染。王壤中的保水剂通过吸水膨胀固定住水分，当土壤干燥缺水时，通过渗透压作用，保水剂可及时释放出所吸持的水分，用以维持土壤水分条件和满足作物吸收利用。保水剂施入土壤后吸水膨胀，将离散的土壤颗粒聚集成一团，增加了土攘孔隙度，降低土壤容重，调节土壤三相平衡。由于保水剂分子中含有能够吸附、离子交换的活性基团，保水剂吸附的离子能固定住肥料养分而达到缓控释肥的效果。矿物复合保水剂凭借其成本低廉、凝胶强度好、环境友好等优点[10-1],逐渐开始应用于花卉养殖、果树移栽、农林保水等领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国西北干旱区，特别是新疆地区，气候干燥，昼夜温差巨大，为凝结水的形成提供了天然的有利条件。但由于该地区降雨量小，蒸发强烈，植被稀疏，水土保持能力差，导致形成的凝结水很快蒸发，难以被有效利用。因此，笔者选择新疆石河子地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区，研究矿物复合保水剂对该地区典型土壤中凝结水的吸持能力及减缓蒸发效果，旨在揭示人工保水层对西北干旱地区包气带与大气圈进行水分交换的规律、包气带水分分布规律及地面蒸发特征，这对严重干旱区耕层土壤水土保持及荒漠化防治有着极其重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "石河子市位于新疆维吾尔自治区北部，它是新疆农八师师部所在地。石河子垦区位于天山北麓中段，古尔班通古特大沙漠南缘。地理坐标位于$8 4 ^ { \\circ } 5 8 ^ { \\prime } { \\sim } 8 6 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E } , 4 3 ^ { \\circ } 2 6 ^ { \\prime } { \\sim } 4 5 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N } ,$ 。东面与玛纳斯县相邻，其余三面与沙湾县环接市区。石河子属典型的温带大陆性气候，无霜期为 $1 6 8 { \\sim } 1 7 1 \\mathrm { ~ d ~ }$ ，冬季长而严寒，夏季短而炎热。北部地区气温低，南部高，7月为一年中的最高气温，平均气温 $2 5 . 1 { \\sim } 2 6 . 1 \\mathrm { ~ \\textdegree C }$ 。年降水量为 $1 2 5 . 0 { \\sim } 2 0 7 . 7 \\ \\mathrm { m m }$ 之间，一年中降水较多的月份，以北地区主要出现在5、6、7月和4月，降水量$1 3 . 0 { \\sim } 2 0 . 0 \\ \\mathrm { m m }$ 。以南地区出现在4、5、7月和6月，降水量 $2 1 . 7 { \\sim } 2 7 . 6 ~ \\mathrm { m m }$ 。石河子地区年平均风速为1.5$\\mathbf { m \\cdot s ^ { - 1 } }$ ,年日照时数为 $2 7 2 1 { \\sim } 2 8 1 8 \\mathrm { h } , 7$ 月为各地历年平均最多日照月份,北部地区日照时数多于南部地区。石河子土壤多为灰漠土、潮土、草甸土，土质多系砾质土、沙质土、黏质土等。该区自然环境为凝结水的形成提供了便利条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016年8月26日至28日，选择砂质壤土，采用称重法[12],在农八师农林牧局土壤改良实验站野外试验场进行了 $2 4 \\mathrm { h }$ 不间断观测，观测期为3d,实验仪器主要采用直径 $7 . 5 ~ \\mathrm { c m }$ 的PVC管作为内筒和10cm的PVC管作为外筒。试筒分下封式和下通式2种[13],下通式试筒用400目尼绒筛网封底，可保证地下水气通透，且确保试筒内土壤质量不变，下封式试筒用塑薄膜封底，以隔绝地下包气带水气干扰，见实验装置图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3dfa8a4bea05420b83c35d6e2e99b689664c509657918808636c9598e54694f.jpg",
+        "img_caption": [
+            "图1实验装置图",
+            "Fig.1 Experimental setup "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验设置对照组CK和实验组X、Y、Z，分别表示不放矿物复合保水剂、矿物复合保水剂和原状土干重比分别为 $1 { : } 5 0 0 0 , 1 { : } 4 0 0 0 , 1 { : } 3 0 0 0$ ，实验组又分为将矿物复合保水剂和原状土混合而成的人工保水层放置于距地表 $0 { \\sim } 5 \\ \\mathrm { c m } \\ . 5 { \\sim } 1 0 \\ \\mathrm { c m } \\ . 0 { \\sim } 1 0 \\ \\mathrm { c m }$ 三层，见实验布置表1。在制作试筒时应注意保证内筒与地表齐平，外筒比地表略高，避免表层土壤进人筒内，每整点取出内筒用精度为 $0 . 0 1 \\ \\mathrm { g }$ 的电子天平进行称重测量，并记录数据。同时记录对应时刻的温度和湿度数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2凝结水生成量计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观测期间，每一相邻时间间隔内下通式和下封式试筒的质量均有增加和减少的变化，因为下封式试筒的底部通过薄膜密封，所以其质量变化是空气",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1实验布置表",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/914e0e8cb3adc181485e628a6f6074109f58b4fd6550d89243d6b0cfa8da4617.jpg",
+        "table_caption": [
+            "Tab.1 Experimental arrangement table "
+        ],
+        "table_footnote": [
+            "注：CK、X、Y、Z分别表示：不放矿物复合保水剂、矿物复合保水剂和原状土干重比分别为1:5000、1:4000、1:3000。"
+        ],
+        "table_body": "<html><body><table><tr><td>CK</td><td>下通式 0~10 cm</td><td>下通式 5~10 cm</td><td>下通式 0~5cm</td><td>下封式 0~10 cm</td><td>下封式 5~10 cm</td><td>下封式 0~5cm</td><td>施用比例</td><td></td></tr><tr><td>CK下通式 CK下封式</td><td>X6</td><td>X5</td><td>X4</td><td>X3</td><td>X2</td><td>X1</td><td>X(1:5000)</td><td>试验组</td></tr><tr><td></td><td>Y6</td><td>Y5</td><td>Y4</td><td>Y3</td><td>Y2</td><td>Y1</td><td>Y(1:4000)</td><td></td></tr><tr><td></td><td>Z6</td><td>Z5</td><td>Z4</td><td>Z3</td><td>Z2</td><td>Z1</td><td>Z(1:3000)</td><td></td></tr><tr><td>CK下通式 CK下封式</td><td>Z6</td><td>Z5</td><td>Z4</td><td>Z3</td><td>Z2</td><td>Z1</td><td>Z(1:3000)</td><td>平行组</td></tr><tr><td></td><td>Y6</td><td>Y5</td><td>Y4</td><td>Y3</td><td>Y2</td><td>Y1</td><td>Y(1:4000)</td><td></td></tr><tr><td></td><td>X6</td><td>X5</td><td>X4</td><td>X3</td><td>X2</td><td>X1</td><td>X(1:5000)</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中的水气和试筒内土壤水气交换的结果，试筒质量增加表明有空气中的水气进入土壤，即有凝结现象产生。试筒质量减少说明有试筒内的水气进入空气，说明有蒸发现象产生；而下通式试筒底部用尼绒筛网封底，故不影响试筒与下部的水气交换，当试筒质量增加时，说明有空气中的水气和地下的水气向地表凝结的现象产生，当试筒质量减小时，说明此时已蒸发作用为主。以质量表示的凝结水量转化成以高度表示的凝结水量，其计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH { = } 1 0 m { \\cdot } \\rho ^ { { - } 1 } { \\boldsymbol { \\pi } } ^ { - 1 } r ^ { - 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $H$ 为凝结量 $\\left( { \\mathrm { m m } } \\right) ; m$ 为样品质量变化 ${ \\bf \\Pi } ( \\mathbf { g } ) _ { \\mathbf { \\lambda } ^ { \\rho } }$ 为 水的密度 $( \\mathbf { g } \\cdot \\mathbf { c m } ^ { - 3 } )$ ; $r$ 为微渗记的内径( $\\bf ( \\mathrm { c m ) }$ 0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验期间，采用气象站数据，对地温、气温、相对湿度和风速等指标进行实时监测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3矿物复合保水剂对凝结水生成规律的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1凝结水的水气来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤凝结水是指地面温度和表层地温达到露点时，在地面和表层土壤中，大气水汽和土壤孔隙水汽由汽态水凝结而成的液态水，并成为土壤水的组成部分[14-15]。通过对观测数据统计分析得出下通式试筒和下封式试筒8月26日至8月28日凝结量均值对比，如图2所示下通式试筒凝结量明显大于下封式试筒。说明凝结水的水汽来源主要有2个方面：一是来源于空气中的水气，包括近地表空气中的水汽、植物蒸腾和呼吸作用散逸的水汽、地面蒸发的水汽；二是来源于地下某一深度以上到地表范",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/62cb5225134fb05056c1784f83b816533469836e41bb2d98a3137ffe423d67ba.jpg",
+        "img_caption": [
+            "图28月26日至8月28日凝结量均值Fig.2Mean value of condensation fromAugust 26 to August 28"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "围内孔隙中的水汽。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据地温和近地气温观测数据，当夜晚地面无太阳照射时，地面表层土壤降温开始，同时也会引起下层土壤温度的下降。但地面表层土壤降温速率高于其下部土壤降温速率时，则会在地下某一深度形成一个发散型零通量面[,即为地下某一时刻温度的最高值。该零通量面会随地温与时间的变化而形成于地下不同深度。在温度梯度驱动下，零通量面以上的水汽会向地表移动，以下的水汽向下层土壤移动。在凌晨02:00—17:00，零通量面在地下 $4 0 ~ \\mathrm { c m }$ 处。随着清晨日出，地表温度逐渐升高，下午日照逐渐减弱，至16:00地表温度开始下降。而17:00—19:00地下 $8 0 ~ \\mathrm { c m }$ 范围内未出现地温转折点，同时地表温度出现转折点，由 $5 4 ~ ^ { \\circ } \\mathrm { C }$ 开始下降，推测此时零通量面已上升至地表 $5 \\ \\mathrm { c m }$ 内，至夜间20:00地表温度已低于下层土壤温度 $0 . 6 \\mathrm { { } ^ { \\circ } C }$ ，此时地下零通量面在至地下 $5 \\mathrm { c m }$ 处。之后零通量面继续下降，至22:00移动至地下 $1 0 \\mathrm { c m }$ 处。次日凌晨01:00时,移动至地下 $1 5 \\mathrm { c m }$ 处。随着时间的推移,地下零通量面继续向下移动，至凌晨02:00再次到达 $4 0 \\ \\mathrm { c m }$ 处，如此循环。受研究区土质和日照等自然因素影响，研究结果地下零通量面主要在地表 $0 { \\sim } 4 5 ~ \\mathrm { c m }$ 范围内移动(图3)。地下零通量面以上水汽上移是凝结水生成的一个重要来源。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9a485edf283ae3be08e4700005e349d012de00db39818d7dc0785c903384796.jpg",
+        "img_caption": [
+            "图38月28日每4h的不同深度地温变化规律Fig.3Variation of ground temperature at different depthsevery 4 hours on August 28"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2凝结水生成时间",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，凝结现象基本发生在晚上22:00到次日上午09:00。图4为在地下 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土层内加入矿物复合保水剂，用量为与土壤干重比1:5000和未添加矿物复合保水剂试筒凝结水生成时间对比实验。如图所示，当试筒下一刻质量与前一刻质量差值为正值时，表明近地表土壤处于水量富集状态，此时正在发生凝结现象；当试筒下一刻质量与前一刻质量差值为负值时，表明近地表土壤处于水量减失状态，此时蒸发现象正在发生。凝结过程大约从21:00开始，凝结水生成量首先较多，继续到凌晨06:00左右略有减弱，人工保水层并未对凝结水生成时间产生影响。随着日出后地温与近地气温差距逐渐缩小，凝结现象也逐渐减弱，逐渐过渡为以蒸发为主。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0468c690533cbb6866f5230cc14887a5d2f3272813256efc00497dee05618a7e.jpg",
+        "img_caption": [
+            "干吴区地理",
+            "图4凝结水生成时间"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4人工保水层对凝结水的吸持效果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验数据表明，人工保水层设置在不同位置使得其对凝结水的吸持效果有所不同。如图5所示，人工保水层设置在距地表 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 时凝结水生成量最多，与无人工保水层的CK组凝结量基本一致，而将人工保水层设置在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 和 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 位置处的凝结水生成量均略差。这可能是由于人工保水层对近地表地温产生微小的影响所致，对地下零通量面位置产生微量位移，导致凝结水生成量产生细微变化；由蒸发量均值曲线明显可知，将人工保水层设置在 $5 { \\mathord { \\sim } } 1 0 ~ \\mathrm { c m }$ 位置时试筒蒸发量最小，CK试筒次之，其余两试筒蒸发量略大；将人工保水层设置在$5 { \\mathord { \\sim } } 1 0 ~ \\mathrm { c m }$ 位置时，保水层对凝结水的吸持效果最优，这对干旱区凝结水高效利用提供了新思路。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f91d79a21e8ae337a2f4e1076cbf1207aefec8c8e8fd22caa22c6ba26b9f06fe.jpg",
+        "img_caption": [
+            "Fig.4Condensate generation time ",
+            "图5人工保水层不同位置对凝结水吸持效果 Fig.5 Effect of artificial water-retaining layer at different positions on condensate holding "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用称重法，选择石河子地区典型砂质壤土，研究了人工保水层对凝结水吸持效果，证明了该地区土壤凝结水的存在，探究了凝结水水汽来源、生成时间、生成量，分析了地下零通量面随时间运移规律、人工保水层不同分布位置对凝结水的吸持效果。主要结论如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1)凝结量虽远小于蒸发量，但昼夜温差大，为凝结水形成提供了有利条件，根据对称重法下通式、下封式试筒的研究，表明该地区凝结水水汽来源于空气和土壤。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）零通量面变化范围主要在地下 $0 { \\sim } 4 5 \\ \\mathrm { c m }$ 内。在凌晨02:00—17:00零通量面最深，在地下40cm处。17:00—19:00零通量面最浅，在近地表 $5 \\mathrm { c m }$ 以内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）凝结现象一般发生在夜间22:00到次日上午09:00左右，人工保水层并未对凝结水生成时间产生影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）人工保水层设置在不同位置使得其对凝结水的吸持效果有各有不同。当人工保水层放置于距地表 $5 { \\mathord { \\sim } } 1 0 \\ \\mathrm { c m }$ 时，其对凝结水的吸持效果最佳。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References) [1]郭斌,李卫红,郝兴明,等.极端干旱区不同下垫面土壤凝结水 试验研究[J].地理科学进展,2012,31(9):1171-1178.[Guo Bin, Li Weihong,Hao Xingming,et al.Experimental study on soil condensation water on different underlying surfaces in extreme arid areas[J. Progress in Geography Science,2012, 31(9): 1171-1178.] [2]赵领娣,李莎莎,赵志博,等.干旱半干旱区城市生态效率时空 演变及区域差异分析[J].干旱区地理,2020,43(2):449-457. [Zhao Lingdi,Li Shasha, Zhao Zhibo,et al. Temporal and spatial evolution and regional difference analysis of urban ecological efficiency in arid and semiarid areas[J].Arid Land Geography,2020,   \n43(2): 449-457.] [3]高瑜莲,柳锦宝,柳维扬,等.近14 a新疆南疆绿洲地区地表蒸 散与干旱的时空变化特征研究[J].干旱区地理,2019,42(4):   \n830-837.[Gao Yulian,Liu Jinbao,Liu Weiyang,et al. Spatiotemporal variation characteristics of surface evapotranspiration and drought at the oasis area of the southern Xinjiang in recent 14 years[J]. Arid Land Geography,2019,42(4): 830-837.] [4]王泽锋,胡顺军,李浩.古尔班通古特沙漠南缘丘间地梭梭群落 蒸散特征[J].干旱区地理,2018,41(6):1303-1309.[Wang Zefeng,Hu Shunjun,Li Hao. Evapotranspiration characteristics of Haloxylon ammodendron community in interdune lowland at the Southern edge of Gurbantunggut Desert[J]. Arid Land Geography,   \n2018,41(6): 1303-1309.] [5]Guo Hao, Qian Yong, Yuan Guangxiang, et al. Research progress on the soil vapor extraction[J].Journal of Groundwater Science and Engineering,2020,8(1): 57-66. [6]白爱宁,余建,边春雷.土壤吸湿凝结水研究进展[J].内蒙古林 业科技,2010,36(1):50-53.[Bai Aining,Yu Jian,Bian Chunlei. Research progress on soil absorption and condensation water[J]. Journal of Inner Mongolia Forestry Science and Technology,2010,   \n36(1): 50-53.] [7]郭斌,陈亚宁,郝兴明.不同下垫面土壤凝结水特征及其影响因 素[J].自然资源学报,2011,26(11):1963-1973.[Guo Bin,Chen Yaning,Hao Xingming. Characteristics of soil condensation water and its influencing factors on different underlying surfaces in the lower reaches of the Tarim River[J]. Journal of Natural Resources, 2011,26(11): 1963-1973.]   \n[8]陈荣毅.古尔班通古特沙漠表层土壤凝结水水汽来源特征分析 [J].中国沙漠,2012,32(4): 985-989.[Chen Rongyi.Source of soil condensation water in the Gurbantunggut Desert[J]. Journal of Desert Research,2012,32(4): 985-989.]   \n[9]孙自永,余绍文,周爱国,等.新疆罗布泊地区凝结水试验[J].地 质科技情报,2008,27(2):91-95.[Sun Ziyong,Yu Shaowen, Zhou Aiguo,et al. Experimental study on the condensation water in Lop Nur Region,Xinjiang[J]. Geological Science and Technology Information,2008,27(2): 91-95.]   \n[10] 李备,韩占涛,张发旺,等.丙烯酸一膨润土保水剂的制备及其 保水效果研究[J].江苏农业科学,2018,46(5):289-292.[Li Bei, Han Zhantao, Zhang Fawang,et al.Preparation of acrylic acidbentonite water-retaining agent and its water-retaining efect[J]. Jiangsu Agricultural Sciences,2018,46(5): 289-292.]   \n[11] 李备,张发旺,韩占涛,等.一种矿物复合保水剂及其制备方法 [P].河北: CN106279499A,2017-01-04.[Li Bei, Zhang Fawang, Han Zhantao,et al.A mineral composite water-retaining agent and its preparation method[P]. Hebei: CN106279499A,2017-01-04.]   \n[12] 方静.凝结水的生态水文效应研究进展[J].中国沙漠,2013,33 (2): 583-589.[Fang Jing.An overview on eco-hydrological effects of condensation water[J]. Journal of Desert Research,2O13,33(2): 583-589.]   \n[13] 郭占荣,韩双平.西北干旱地区凝结水试验研究[J].水科学进 展,2002,13(5): 623-628.[Guo Zhanrong,Han Shuangping. Experimental study on the condensation water in arid area,northwestern China[J].Advances in Water Science,2002,13(5): 623-628.]   \n[14] 刘新平,何玉惠,赵学勇,等.科尔沁沙地不同生境土壤凝结水的 试验研究[J].应用生态学报,2009,20(8):1918-1924.[Liu Xinping,He Yuhui, Zhao Xueyong,et al. Soil condensation water in different habitats in Horqin Sandy Land: An experimental study [J]. Chinese Journal of Applied Ecology,2009,20(8): 1918-1924.]   \n[15] 邵新民,于得胜,王蓓.新疆乌拉泊水均衡试验场凝结水对地下 水补给的观测研究[J].水文地质工程地质,2012,39(2):7-12. [Shao Xinmin,Yu Desheng,Wang Bei. Research on the observation of condensed recharge in a water balance field of Urab in Xinjiang[J].Hydrogeology and Engineering Geology，2012,39(2): 7- 12.]   \n[16] 郭占荣,刘建辉.中国干旱半干旱地区土壤凝结水研究综述[J]. 干旱区研究,2005,22(4):1576-1580.[Guo Zhanrong,Liu Jianhui.An overview on soil condensate in arid and semiarid regions in China[J].Arid Zone Research,2005,22(4): 1576-1580.] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Retention effect of mineral superabsorbent composite on condensation water in arid areas in Xinjiang ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LI Bei'²，ZHANG Fawang'，LI Yongjun，MENG Jian， ZHU Yongjun4,SHI Rongyuan4， WANG Yaqin4",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1.InstituteofHydrogeologyandEnvironmentalGeology,CineseAcademyofGeologicalSciences,Sjzhuang5Oebe China;2.KeyLaboratoryofGroundwaterContaminationand Remediation,China Geological Survey(CGS)&Hebei Province, ShijiazhuangO5061,Heibei,China;3.HydrogeologicalandEnvironmentalGeologicalSurveyCenterofChinaGeologicalSurvey BaodingO71O51,Heibei,China;4.oilImprovementExperimentalStationofAgriculture,ForestryandAnimalHusbandryBureau of Xinjiang No.8 Division,Shihezi 832OOo,Xinjiang, China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was undertaken at the comprehensive field test site of the soil improvement experimental station of the Shihezi121 Regiment inthe northern Xinjiang Uygur Autonomous Region, China; this site is in the middle of the northern foot of the Tianshan Mountains,along the south margin of the vast Gurbantunggut Desert. In the study,a weighing method is used to conduct an experiment on the eficiency of a mineral superabsorbent composite in the utilization of water from condensation in arid areas.On the basis of the obtained experimental data,analysis was conducted on the generation law of condensation water in the region,the condensation water retention effect of the artificial water retention layer formed after introducing the mineral superabsorbent composite to the topsoil,and the transport law of the zero-flux plane underground with temperature and time.In the experiment,a microlysimeter was used to verify the existence and quantity of condensation water in the region of interest.Through continuous observation,the generation time of the condensation water in the region was investigated. Using bottom-sealed and bottom-open test tubes of the microlysimeter,the condensation water was determined to come from two sources: the condensation of water vapor in the air onto the surface soil as the surface temperature dropped and the condensation of water vapor from the zero-flux plane at a certain depth under the surface soil. The experimental data indicate that the condensation water in the region forms primarily during the 22:00-09:00 time period.The condensation process begins at approximately 21:00,and the yield of condensation water is initially high,later reducing slightly at around O6:Oo.As the diffrence between the ground temperature and near-surface temperature narows after sunrise,the condensation gradually decreases and transitions into evaporation.The main factors influencing the formation of condensation water are the near-surface air temperature, the near-surface soil temperature,therelative humidity in theair,and the wind speed.The introduction of amineral superabsorbent composite to the near-surface soil was found to cause the mixed layer to become an artificial water retention layer，which afects the quantity of both condensation and evaporation in the region. The experimental results reveal that condensation water forms mainly at the soil surface; the volume of condensation water varies in the range of $0 { - } 1 0 ~ \\mathrm { c m }$ ,and the artificial water retention layer demonstrated the best retention effect on condensation water at a distance $5 { - } 1 0 ~ \\mathrm { c m }$ from the surface.In arid areas,although the volume of condensation is much smaler than that of evaporation,the huge temperature diference between day and night is favorable to the formation of condensation water. The range of the change in the ground temperature mainly occurs within $0 -$ $4 5 \\ \\mathrm { c m }$ underground and occurs faster than the change in the near-surface air temperature,thus favoring the formation of condensation water. Condensation water is extremely valuable to drought-enduring plants in arid areas.Studies on the water retention efect of the artificial layer formed by adding a mineral superabsorbent composite on condensation water inarid areas are very important for the protection of vegetation,the identification of potential ecoenvironmental improvements,and the control of desertification in arid and semiarid regions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words: condensed water; mineral composite water-retaining agent;artificial water-retaining layer； evaporation； micro-osmometer; arid region in northwest China ",
+        "page_idx": 5
+    }
+]

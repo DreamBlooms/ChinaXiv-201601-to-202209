@@ -1,0 +1,251 @@
+# 高分辨质谱-互联网-地理信息系统三元融合技术绘制中国农药残留地图
+
+庞国芳庞小平²任 福²范春林秦 雨²陈 辉1中国检验检疫科学研究院北京1001762 武汉大学资源与环境科学学院武汉430072
+
+摘要如何获得海量农药残留检测结果数据并将其直观、实时地展现在地图上，是当前大数据时代背景下农药残留分析领域的重要研究内容。经过10多年的深入研究，在建立气相色谱-四极杆-飞行时间质谱（GC-Q-TOF/MS)485种和液相色谱-四极杆-飞行时间质谱（LC-Q-TOF/MS）525种农药精确质谱库的基础上，研究开发了非靶向、高通量GC-Q-TOF/MS和LC-Q-TOF/MS联用农药残留检测技术，可适用于1200种残留农药检测。这使得农药残留检测效率得到了飞跃性的提高，为获得准确可靠的海量农药残留检测结果奠定了基础。文章将海量农药残留检测结果数据与互联网和地理信息技术相结合，研究建立了农药残留可视化系统，该系统由两部分构成：（1）在线制图系统。与Web-GIS技术相结合，并应用数据统计分析方法，创新性地以专题地图的形式，综合使用形象直观的地图、统计图表、报表等表达方式，多形式、多视角、多层次地呈现我国农药残留现状；（2）纸质地图。采用系统的思想集成表达了农药残留的空间分布、农药种类、农产品类型、残留量、毒性、超标情况等多种维度的信息。目前，农药残留可视化系统已经应用于2012—2015年采集于全国31省会/直辖市284县区638个采样点的22 278批水果和蔬菜样品的高分辨质谱农药残留筛查结果中。结果表明，基于三元融合技术构建的农药残留可视化系统，可以直观、实时展现海量农药残留数据，实现了农药残留结果的地图可视化，并将成为我国食品安全风险监控的强有力的工具。这项研究将为“十三五”国家战略发展规划中提出的实现“农药零增长”和“推进健康中国建设”提供技术和科学数据的支撑。
+
+关键词高分辨质谱，互联网-地理信息系统，三元融合技术，农药残留，监控，可视化 DOI 10.16418/j.issn.1000-3045.2018.01.011
+
+食品中农药及化学污染物残留问题是引发食品安全事件的重要因素，是世界各国及国际组织共同关注的食品安全重大问题之一。目前，世界上常用的农药种类超过1000种，而且不断有新的农药被研发和应用，农药残留在对人类身体健康和生存环境造成新的潜在危害的同时，也给农药残留检测技术提出了越来越高的要求和新的挑战。
+
+世界各国科学家长期致力于食品中农药残留检测技术的研究，这为保障消费者舌尖上的安全提供了重要的技术支撑。但是，这种方式是在农药残留造成危害的时候去解决问题，相对较为被动。农药残留结果往往与样品、地域、时间等信息交织在一起，如何实时、直观地了解复杂的农药残留分析结果，并从中找出分布规律，最终进行预测和预警是农药残留领域的另一重要研究内容，从而使农药残留研究变被动为主动。
+
+借助地理信息系统（GIS）方法，开展农药残留的研究已有较为成熟的应用。例如，Brody等[]应用GIS 和历史记录信息重现了大规模农药应用的残留暴露情况。Wan[2应用GIS方法在较大范围内研究了特定农药成分的人口暴露信息。Akbar等基于GIS对从土壤到地下水中可能存在的农药进行了空间模拟。Pistocchi等[4以拟除虫菊酯农药为例，建立了基于GIS模型对土壤和水中潜在污染物进行分析的方法。Aguilar等5应用LC-MS/MS测定了地表水样品中的50种农药，并结合GIS 和综合统计分析建立了西班牙桥卡河流域中农业化学品的确证方法。
+
+随着互联网（Web）技术的发展，Web与GIS技术相融合而产生了Web-GIS技术，用户通过浏览器便可以从Web-GIS 服务器上获取地理数据和地理处理服务，这使得相对较为专业的GIS走向了大众化[。
+
+Web-GIS技术的优势在于能够将具有独特视觉效果和地理分析功能的网络化地图与具体学科领域的系统应用和数据库操作便捷地集成在一起，从而使得GIS技术在不同领域的应用更加广泛[7]。科研工作者已经将Web-GIS 技术应用于对作物病虫害的监测与防控[8-I]，以及重金属污染决策支持系统的开发和应用[12]等。但是，有关农药残留高分辨质谱筛查技术与Web-GIS技术结合，构建农药残留风险监控可视化系统的相关研究未见报道。
+
+本研究基于高分辨质谱筛查技术侦测我国31个省会城市及直辖市所售水果和蔬菜样品中农药残留结果，首次结合Web-GIS技术，并应用数据统计分析方法，创新性地以专题地图的形式，综合使用形象直观的地图、统计图表、报表等表达方式，多形式、多视角、多层次地呈现我国农药残留现状。
+
+目前我国关于农药残留专题地图及其制图方法与规范鲜有报道。在本研究中还开发了《中国31省会/直辖市市售水果蔬菜农药残留水平地图集》，系统呈现了农药残留的空间分布、农药种类、农产品类型、残留量、毒性、超标情况等多种维度的信息，具有单幅图多任务的特点。
+
+在线制图系统与纸质地图相互补充，以不同的方式反映农药残留监控结果，共同组成了我国农药残留风险监控可视化系统。随着该系统的推广应用，我国水果和蔬菜中农药残留监控将会实现由点到面，由面到体，全方位、多维度的动态实时监控，为我国食品安全风险监控提供支撑，为我国农药使用监管和政府决策提供科学数据
+
+# 1基于高分辨质谱的农药残留大数据来源
+
+# 1.1研究农药残留大数据来源的统一检测技术
+
+利用高分辨质谱建立了1200多种世界常用农药化学污染物一级精确质量数据库和二级碎片离子谱图库，为研发非靶向侦测技术奠定了理论和方法基础。在此基础上为1200多种农药建立了自身独有的电子身份证（电子识别标准）。研究了一次样品制备技术，同时适用于GC-Q-TOF/MS（下文简称“GC”）和LC-Q-TOF/MS（下文简称“LC”）两种技术同时侦测1200多种农药化学污染物的高通量检测方法。实现了高速度（ $0 . 5 \mathrm { ~ h ~ }$ ）、高通量（700/500种以上）、高精度（ $0 . 0 0 0 1 ~ \mathrm { m / z }$ ）、高可靠性（10个以上确证点）、高度信息化和自动化，其方法效能是传统方法不可比拟的。该方法适用于18类150多种水果蔬菜，涵盖中国水果蔬菜名录中 $8 5 \%$ 以上的品种，具有很强的残留农药侦测能力。方法灵敏度可以满足 $70 \%$ 以上的农药，检测精准实现标准 $1 0 \mu \mathrm { g / k g }$ 的技术要求。
+
+# 1.2果蔬农药筛查结果已建成农药残留数据库
+
+基于农药精确质量数数据库，采用LC和GC技术对水果蔬菜中农药残留完成非靶向高通量检测，可获得相关农药残留原始数据[13]。2012—2015年在全国31省会/直辖市284县区的638个采样点，采用LC检测了12551例样品，检出农药化学污染物174种，检出25486频次；采用GC检测了9727例样品，检出农药化学污染物329种，检出20412频次，以此为基础，建成了农药残留数据库。
+
+# 2农药残留可视化系统设计
+
+在农药残留基础数据库的基础上，结合相关制图需求的指标，构成绘制残留农药地图的主题数据库；然后根据系列标准地图建立基础地理底图数据库，将这两个数据库通过空间位置关联；最终通过Web-GIS技术构建了中国农产品农药残留检测在线制图系统。与此同时，设计完成线下纸质地图形式的《中国31省会/直辖市市售水果蔬菜农药残留水平地图集》。农药残留可视化流程图见图1。
+
+（1）在线制图系统设计。将农药残留检测数据与地理数据相关联，在统计分析大量农药残留数据的基础上，归纳总结了20项统计文件，首次以专题地图的形式展示农药残留结果。通过专题地图的形式，可以有效地将高分辨质谱筛查的大量、复杂的农药残留结果与地图系统融合在一起。支持用户自主选择和过滤统计数据以凸显兴趣数据或关键数据；支持用户定制专题地图符号类型和色彩，提高数据展示和分析能力，构建了面向“全国一省一市（区）”多尺度的开放式专题地图表达框架，这既便于现有数据的汇聚，也可以实现未来数据的动态添加和实时更新[4]
+
+![](images/85e921f0bb3701c78f3687f0d06dc3f9da550d9d762d64ff4e33321d2c30b322.jpg)  
+图1农药残留可视化地图系统设计流程图
+
+（2）纸质地图集设计。为便于表观，研究组将原始的农药检测数据转化为专题地图，并组织这些地图来制作地图集。在农药侦测概况、检出农药分析和不同农药最大残留限量（MRL）标准比较三个方面，数据被转换成不同主题的专题地图。以北京市为例，图2给出了北京市农药侦测概况，从该图上可以了解该城市的采样情况、检出农药的总体情况、检出农药种数等情况。图3是对北京市检出农药情况进行解剖分析，可以从该图上了解检出农药类别，检出农药残留水平，毒性情况，含有剧毒、高毒水果蔬菜的分布情况，以及一些特例水果蔬菜中农药分布状况。图4主要是应用不同MRL标准对北京市检出农药情况进行对比，在该图中可以了解到MRL中国、欧盟和日本标准下北京市超标水果蔬菜的分布情况。
+
+# 2.1农药残留数据处理与转换
+
+![](images/f753b5d167bc6c967066345e9189668d01c98f9b718e0a017c21d1e2125481d0.jpg)  
+图2北京市市售水果蔬菜样品农药侦测概况图
+
+# ChinaXiv合作期刊
+
+农药残留专题制图属于统计制图的范畴，用常见的统计方法包括计数、分类、分级、求和、期望和百分比等从不同的角度和不同的程度上描述一个现象。数据功能和地图自标需要纳入到翻译原始数据转化为地图设计和开发地图数据。在计算中集成了多种统计方法，以确保最终的数据是高度集成的。
+
+（1）为了呈现检出农药品种与占比，以北京市为例，图5给出了北京市市售水果和蔬菜样品检出农药类别（如除草剂，杀虫剂，杀菌剂、植物生长调节剂等）及占比分布图：首先，对农药残留检出结果按照各类别进行数量统计；其次，统计出每个类别下农药的种类数；最后，根据每个类别下农药的种类数在检出结果的总种类数中的比例，计算出每个农药类别下农药种类数的占比。
+
+（2）为了解水果蔬菜样品中检出的农药品种比例，图6以天津市为例。首先需要将样品分成5组：未检出农药的样品（无农药残留或残留水平低于仪器的检出灵敏度），检出1种农药的样品，检出2—5种农药的样品,检出6—10种农药的样品和检出10种以上农药的样品。之后，对每一组样品的数量进行统计，并计算每组样品在样品总量中所占的百分比。
+
+（3）为了呈现农药残留水平及占比情况，在农药残留地图中，将检出农药残留水平的记录分成5组：1- $- 5 ~ { \mu \mathrm { g / k g } }$ （含），5- $- 1 0 ~ { \mu \mathrm { g / k g } }$ （含）， $1 0 { - } 1 0 0 \ \mu \mathrm { g / k g }$ （含），在100— $1 0 0 0 \mu \mathrm { g / k g }$ （含）， ${ > } 1 0 0 0 ~ \mu \mathrm { g / k g }$ 。然后统计出每组的记录数量，并计算每组记录在总量中所占的百分比。图7给出了上海市各地区农药残留水平及占比情况。
+
+（4）为了呈现检出农药的毒性，按照剧毒、高毒、中毒、低毒4种毒性类别进行分类，首先计算出这4种毒性下农药的种类，再对其占比进行计算；另外，对于这4类农药可以按照禁用和非禁用进行统计，同样，先计算禁用和非禁用下农药的种类，再对其占比进行计算。例如图8给出了重庆市各地区农药毒性及占比情况。
+
+![](images/8df8409aabd2ccf563a42324f9405ecb6ad22dbda3d18821c334ea2bdab51f44.jpg)  
+图3北京市市售水果蔬菜样品检出农药残留分析图
+
+![](images/0ad9869f6a220498bc6632f504758113a22f6a6b626b7d8e210598808ed0ecda.jpg)  
+图4北京市市售水果蔬菜样品不同MRL标准比较图
+
+![](images/0bd31cb85f832bfc21a3c05f4711439d238ccf122859df65784d7ff0e3d4f57e.jpg)  
+图5北京市水果蔬菜样品检出农药的类别及占比
+
+$\circledast$ 中国科学院院刊197
+
+![](images/90717fe0d7232fb094cb79412447e25e1cb9a0647cf5159873e75b9597d18fed.jpg)
+
+![](images/5bd120653b23b63dbda47c7ae0c56a8c425d34cf7a991c7ad3562c9094720dc5.jpg)  
+图6天津市水果蔬菜样品检出农药品种与占比 $( \%$ ）  
+图7‧上海市水果蔬菜样品检出农药残留水平图
+
+# 2.2标准化设计
+
+# 2.2.1农药残留地图图形语言的标准化
+
+在对上文筛选后的农药专题制图数据审查后，形成了农药残留制图的统一标准： $\textcircled{1}$ 不同区域的地理底图。同一城市的不同农药残留专题地图须采用同一地理底图，以方便读者对不同专题要素之间的对比。 $\textcircled{2}$ 在图表中需要按一定逻辑顺序进行排列的要素（图9）。例如：对于检测结果的排序，顺序为农药残留未检出、检出但未超标、检出且超标（图9a）；农药毒性和是否禁药的排序为：低毒农药、中毒农药、高毒农药、剧毒农药以及非禁用、禁用（图9b）；农药类别的排序为杀虫剂、杀菌剂、除草剂、昆虫驱避剂、植物生长调节剂、增效剂等；各国标准排序为中国标准、日本标准、欧盟标准（图9c）。
+
+# 2.2.2 农药残留地图色彩语言的标准化
+
+专题地图的色彩所表达的信息要比一般地图复杂，常带有特殊信息，如数量、属性等。例如用深浅不一的底色表示数量多少的级别底色等。以南宁市为例，图10给出了检出农药残留水平。
+
+# 2.3农药残留数据组织方式
+
+农药残留数据的组织是为了更好地展示，更方便地传达数据信息、挖掘和发现规律。数据的组织包括底图数据的组织和统计数据的组织。样品采集地理信息是基于行政单元的，因此底图数据采用全国行政区划图，并根据统计单元的级别确定是使用省级行政区划图、市级行政区划图，还是县级行政区划图。
+
+统计数据的组织和统计指标的关系密切。农产品残留检测数据中最关键的信息是地区、农产品、农药、残留量；用户最想知道的信息也是哪个地区的哪些农产品中检出哪些农药？是否超标？按照该思路可以实现在线制图系统和纸质地图农药残留的数据组织。
+
+# 2.3.1在线制图系统农药残留数据组织方式
+
+在该系统中，农药残留统计数据按地区分区，每个区的内容分成3类：农药残留综合情况、单种果蔬和单种
+
+![](images/5f83884f4d73bd9dbefc05c51b50b4eaf8e68ec512b9f01e50f5082c376c5a42.jpg)  
+图8重庆市水果蔬菜样品检出农药毒性分类
+
+![](images/4954445837cbf9783977a1461ecce86f280db9db770794ae6c43d232e1c99620.jpg)  
+图9 农药残留地图语言标准化设计示例
+
+(a）农药检出情况图例；（b）不同毒性、违禁性农药种数占比图例;(c）检出农药不同标准衡量图例
+
+![](images/5bee8f959dd9c2039aa4e3dfc07b456471120e1e93b87269c93e69c232130d47.jpg)  
+图10南宁市水果蔬菜样品检出农药残留水平
+
+农药。该系统从统计用户的角度出发，对统计用户制作专题地图进行分步引导（图11）。
+
+# 2.3.2纸质地图农药残留数据组织方式
+
+在纸质地图中，专题内容主要通过统计、分析“31个省会/直辖市及重点城市的市场果蔬农药化学污染物残留侦测结果”得到，其他数据和文档作为辅助或指导资料。微软公司的Excel软件即可满足所有统计分析的需求。其多维度信息模型如图12。
+
+# 2.4农药残留可视化系统功能设计
+
+# 2.4.1农药残留在线制图系统功能设计及示例
+
+在线制图系统包括三大功能模块：地图模块负责专题地图制图功能、图表模块负责统计图表生成和源数据模块负责数据查询功能，其系统初始界面如图13。
+
+地图模块是该系统的核心模块，其提供了地图的基本功能，包括浏览、缩放、平移、全屏等操作。统计图表功能，即统计数据地图可视化的功能，包括统计数据选择，统计图表的类型选择、样式修改、颜色搭配等，以及分级图中的分级方法、分级数量、分级色系等的选择。数据查询，辅助地图可视化分析的功能，包括地图的交互和统计图表的交互。其中，地图的交互可以实现天气预报效果的区域间互联互通，以及从全国、省到市和从市、省到全国的同内容查看；统计图表的交互可以查看统计图表各部分的具体含义，包括指标、数值等。地图模块功能介绍见图14。
+
+基于此模块功能图，可以从空间分辨率一—国家尺度、省区尺度和区县尺度等多维度表达农作物农药残留特征。构建了面向“全国一省一市（区）”多尺度的开放式专题地图表达框架，既便于现有数据的汇聚，也有利于未来数据的动态添加和实时更新，从而可以实现31个省会/直辖市市售水果和蔬菜样品农药残留情况的产地溯源、农药溯源和农产品类型源[15]。
+
+（1）产地溯源。以样品采样情况为例，图15为山东省各采样城市的农产品样品数量分布图，其左下方是图例部分，通过图例可以看出是以饼状图的形式给出了
+
+![](images/346a893477640b732029bda2a26e73dc31fa115c2aa1896cd0f5a783c91fe985.jpg)  
+图11农药残留在线制图系统数据组织方式图
+
+样品编码\*样品名称采样点名称采样批次适用农药\* 检出残留量 样品名称残留标准 适用水果蔬菜\* 样品 样品编码\*制定国家 样品类别限定残留量 采样点名称农药名称 采样点名称农 CAS别 采样点 采样点编码\*药 毒性强度 采样点地址是否禁药代谢物信息 所属行政区划
+
+![](images/9514118152f8c905c95b52fa4973b45d8e09a9fa9b0303fdd67d74ef73602cf5.jpg)  
+图12农药残留多维度原始数据描述模型 (带\*的变量为特征变量)
+
+本研究过程中山东省各区县的采样数量。左上方的工具条与图14中的地图操作相对应；最右侧的地图编辑区域对应于图14中的主题地图部分，在专题中的类别和内容可以选择地图显示的相关内容，在指标中则可以对统计的内容进行勾选（例如可以只选择水果或蔬菜，也可以同时选择水果和蔬菜）分级内容则是负责整个地图底色的显示。本文关于在线制图系统的相关图例均是按照上述操作实现的。图16给出了济南市各区农产品样品数量分布，通过该图可以了解济南市各区县不同城市的采样数量分布。从该图上可以看出各区县均是蔬菜样品数量多于水果，大多数辖区采样数量比较接近。
+
+![](images/a73f21ae7149c2c1b61fdc0996b68ec848e945ac810b4826878f9af43f729941.jpg)  
+图13农药残留在线制图系统初始界面
+
+（2）按农药溯源。图17和图18分别给出了山东省和济南市检出频次最多的10种农药分布情况。这两级分布图均以扇形图的形式给出了该层级统计下的农药分布情况，可以迅速地对检出农药进行溯源。例如，在图17中山东省检出频次前3位农药分别是多菌灵、啶虫和烯酰吗啉；在图18种济南市检出频次前3位的农药分别是多菌灵、吡虫啉和啶虫眯。在地图右侧的统计指标中也可以对用户关心的前10位农药中的任意一个进行选择，了解其在全国、省级和市级的分布。
+
+（3）按农产品类型溯源。根据本系统的设计，逐级展开后可以对检出农药品种最多的蔬菜进行溯源，例如，全国31省会/直辖市检出农药品种最多的前3种蔬菜分别是芹菜、青椒和番茄，根据图例颜色可以查看这3种蔬菜在全国的分布情况；在黑龙江省，检出农药品种最多的前3种蔬菜分别是芹菜、黄瓜和番茄。据此可以详细了解不同层级检出农药品种最多的10种蔬菜的分布情况，实现农产品溯源。
+
+![](images/332b2e8784a157cb81b0dc7ed797180b6883c9e2484d86d3a1f129556f183000.jpg)  
+图15山东省水果蔬菜样品数量分布图
+
+![](images/a9e8f0afcee3bd44dfaeec9f6922bb8d902db7d41b9a44baf76e43fe7bbbb154.jpg)  
+图16济南市水果蔬菜样品数量分布图
+
+![](images/6cf8c28d3376a9acae75fbe449a31ce845dbef545938001093b8ff7a3c4ba3fc.jpg)  
+图17山东省检出频次最多的10种农药分布
+
+![](images/8641b052f44f7dced55d832cf751637f835281370dd6fbf32b4c3ea031ca2482.jpg)  
+图18济南市检出频次最多的10种农药分布
+
+源数据模块提供统计数据常用的统计功能，使用结构化查询语言（SQL）对统计需求实时查询，一个需求关联一条SQL语句，便于添加和修改统计需求。常用功能包括最大值、最小值、平均值、中值等的计算。例如，检出频次最多的N种农药的查询；检出农药平均频次数最多的N种蔬菜；中国标准下超标倍数最大的N种农药等的统计。
+
+# 2.4.2农药残留纸质地图功能设计
+
+在纸质地图中，将相关指标结合，表达采样点检出情况、农药残留情况、农药毒性分布情况、高剧毒农药检出情况、不同MRL标准比较情况等主题。再将各种图表归纳为农药侦测概况、检出农药分析、不同MRL标准比较三个方面内容。根据不同区域确定每个方面内容的幅面篇幅，大部分省会城市分市区域制作3个展开页，个别内容较少的区域制作2个展开页。以北京市为例，第1个展开页给出了北京市农药侦测概况，从该图上可以了解该城市的采样情况，检出农药的总体情况、检出农药种数等情况。第2个展开页是对北京市检出农药情况进行解剖分析，可以从该图上了解检出农药类别、检出农药残留水平，毒性情况，含有剧毒、高毒农产品的分布情况，以及一些特例农产品中农药分布状况。第3个展开页主要是应用不同MRL标准对北京市检出农药情况进行对比，在该图中可以了解到中国、欧盟和日本MRL标准下北京市超标农产品的分布情况。全国31省会/直辖市共计492个展开页，其中GC共计243个展开页，LC共计249个展开页，现已绘制成《中国31省会/直辖市市售水果蔬菜农药残留水平地图集（GC检测数据版）》和《中国31省会/直辖市市售水果蔬菜农药残留水平地图集（LC检测数据版）》（图19）。
+
+![](images/950ca09a827545707b77003dca2e80cb26e94393526b3197463c65c59439cdb9.jpg)  
+图19《中国31省会直辖市市售水果蔬菜农药残留水平地图集》(纸质版)
+
+# 3农药残留可视化系统示范应用实例解读
+
+# 3.1全国31省会/直辖市市售水果蔬菜农药残留监测情况基本达标
+
+统计发现，按照中国 MRL标准，对于蔬菜样品,应用LC进行侦测，未检出农药样品的占比为 $3 1 . 1 \%$ ，检出但是不超标的样品的占比为 $6 5 . 4 \%$ ，检出且超标样品的占比为 $3 . 5 \%$ ，合格率为 $9 6 . 5 \%$ ；应用GC进行侦测，未检出农药样品的占比为 $20 . 9 \%$ ，检出但是不超标的样品的占比为 $7 5 . 4 \%$ ，检出且超标样品的占比为 $3 . 7 \%$ ，合格率为 $9 6 . 3 \%$ 。对于水果样品，应用LC进行侦测，未检出农药样品的占比为 $2 4 . 4 \%$ ，检出但是不超标的样品的占比为 $73 . 9 \%$ ，检出且超标样品的占比为 $1 . 7 \%$ ，合格率为 $9 8 . 3 \%$ ；应用GC进行侦测，未检出农药样品的占比为 $30 . 3 \%$ ，检出但是不超标的样品的占比为 $6 8 . 4 \%$ ，检出且超标样品的占比为 $1 . 3 \%$ ，合格率为 $9 8 . 7 \%$ 。因此，31省会/直辖市市售水果蔬菜农药残留合格率在 $9 6 . 3 \%$ 一$9 8 . 7 \%$ 之间，安全水平有基本保障。
+
+# 3.2全国31省会/直辖市市售水果蔬菜检出农药种类
+
+所有检出农药按功能分类，包括杀虫剂、杀菌剂、除草剂、植物生长调节剂、增效剂、驱避剂共6类。图20给出了纸质地图按照农药品种数统计出的31个省会/直辖市水果和蔬菜中检出农药种类分布情况，其中以杀菌剂和杀虫剂为主。
+
+# 3.3全国31省会/直辖市市售水果蔬菜检出农药残留水平
+
+图21给出了纸质地图统计出的31省会/直辖市检出农药残留水平分布图，可以看出 $50 \%$ 以上的农药检出残留水平不超过 $1 0 \mu \mathrm { g / k g }$ 。统计发现，目前我国蔬菜和水果检出农药以低、中残留水平为主，在LC检出结果中残留水平不超过 $1 0 \mu \mathrm { g / k g }$ 的占比为 $54 . 1 \%$ ，在GC检出结果中残留水平不超过 $1 0 \mu \mathrm { g / k g }$ 的占比 $5 1 . 9 \%$ 。
+
+# 3.4全国31省会/直辖市市售水果蔬菜检出农药毒性分布
+
+图22给出了纸质地图中31省会/直辖市市售果蔬检出农药的毒性分布情况，各地检出农药以低毒和中毒农药为主。统计发现，在LC侦测结果中，低毒农药为126种，占比 $6 8 . 1 \%$ ；中毒农药为32种，占比 $1 7 . 3 \%$ ；高毒和剧毒农药分别为13种和3种，占比分别为 $7 \%$ 和 $1 . 6 \%$ ；另外，禁用农药有11种，占比 $5 . 9 \%$ 。在GC 侦测结果中，低毒农药为229 种，占比 $6 4 . 3 \%$ 中毒农药为68种，占比 $1 9 . 1 \%$ ；高毒和剧毒农药分别为36种和4种，占比分别为 $1 0 . 1 \%$ 和 $1 . 1 \%$ ；另外，禁用农药有19种，占比 $5 . 3 \%$ 。按照低毒和中毒农药合计统计，LC和GC检出中低毒农药种类占比分别为 $8 5 . 4 \%$ 和 $8 3 . 4 \%$ ，显然目前我国蔬菜和水果中检出农药残留以低毒和中毒农药为主。
+
+# 3.5违禁高剧毒农药检出反映出我国农药科学使用的漏洞
+
+从图22可以看出，我国市售水果、蔬菜样品检出农药中高剧毒农药仍然存在，其中部分甚至是禁用农药。本项目对京津冀区域进行统计发现，在LC侦测结果中，5095例样品中有27种蔬菜和18种水果的243例样品检出了18种283 频次的剧毒和高毒农药，占样品总量的 $4 . 8 \%$ 。在检出的剧毒和高毒农药中，有12种是我国早已禁止在果树和蔬菜上使用的，分别是：克百威、甲拌磷、磷胺、久效磷、甲胺磷、氧乐果、灭多威、灭线磷、苯线磷、特丁硫磷、水胺硫磷和硫线磷。在GC侦测结果中，5095例样品中有21种蔬菜和15种水果的312例样品检出了20种350频次的剧毒和高毒农药，占样品总量的 $6 . 1 \%$ 。在检出的剧毒和高毒农药中，有12种是我国早已禁止在果树和蔬菜上使用的，分别是：克百威、艾氏剂、甲拌磷、治螟磷、杀扑磷、甲胺磷、特丁硫磷、灭线磷、甲基对硫磷、水胺硫磷、对硫磷和硫线磷。
+
+![](images/5e94538f0ba6b079e4448db1d19906a25a6777d362ef213d050dfeb6ed42fdf0.jpg)  
+图20全国31省会／直辖市市售水果蔬菜样品检出农药类别
+
+# 3.6中国MRL标准数量与欧盟、日本等发达国家相比的状况
+
+图23给出了纸质地图中，中国、欧盟和日本MRL标准下，31个省会/直辖市市售果蔬未检出农药样品数、检出农药未超标样品数和超标农药样品数的占比情况，其中绿色为未检出，黄色为检出未超标，红色为超标。对比发现，按照中国MRL标准进行衡量，超标样品占比明显低于欧盟和日本MRL标准。统计发现，应用LC进行侦测，按照欧盟和日本MRL标准衡量，超标样品数是中国MRL标准下的7倍左右（表1）；应用GC进行侦测，按照欧盟和日本MRL标准衡量，超标样品数是中国MRL标准下的8倍和10倍左右（表2）。
+
+![](images/5041fd240ae012235609a2e5c1fbd5bcfe6451688b2fabb2aeb997fb9b30f98c.jpg)  
+图21全国31省会/直辖市市售水果蔬菜样品检出农药残留水平
+
+表1LC侦测结果不同MRL标准衡量对比  
+
+<html><body><table><tr><td rowspan="2">衡量 标准</td><td colspan="2">未检出农药样品</td><td colspan="2">未检出农药样品</td><td colspan="2">未检出农药样品</td></tr><tr><td colspan="2">占比 (%)</td><td colspan="2">占比 (%)</td><td colspan="2">占比 (%)</td></tr><tr><td>中国MRL</td><td>3652</td><td>29.1</td><td>8533</td><td>68.0</td><td>366</td><td>2.9</td></tr><tr><td>欧盟MRL</td><td>3652</td><td>29.1</td><td>7116</td><td>56.7</td><td>1783</td><td>14.2</td></tr><tr><td>日本MRL</td><td>3652</td><td>29.1</td><td>7037</td><td>56.1</td><td>1862</td><td>14.8</td></tr></table></body></html>
+
+表2GC侦测结果不同MRL标准衡量对比  
+
+<html><body><table><tr><td rowspan="2">衡量 标准</td><td colspan="2">未检出农药样品</td><td colspan="2">未检出农药样品</td><td colspan="2">未检出农药样品</td></tr><tr><td>占比 (%)</td><td></td><td>占比 (%)</td><td></td><td>占比 (%)</td><td></td></tr><tr><td>中国MRL</td><td>2370</td><td>24.1</td><td>7165</td><td>73.0</td><td>282</td><td>2.9</td></tr><tr><td>欧盟MRL</td><td>2370</td><td>24.1</td><td>4753</td><td>58.4</td><td>2694</td><td>17.4</td></tr><tr><td>日本MRL</td><td>2370</td><td>24.1</td><td>4211</td><td>55.9</td><td>3236</td><td>20.0</td></tr></table></body></html>
+
+![](images/ed7ab2d4665f357b1f09715786dc05f6384c2ca5089d3a38163703450f1cb14e.jpg)  
+图22全国31省会 $/$ 直辖市市售水果蔬菜样品检出农药毒性
+
+# 4结论
+
+本文基于高分辨质谱 $+$ 互联网 $+$ 地理信息系统三元融合技术，研究构建了我国农药残留可视化系统。该系统包括在线制图系统和纸质地图。在线系统创新性地以专题地图的形式，综合使用形象直观的地图、统计图表、报表等表达方式，多形式、多视角、多层次地呈现我国农药残留现状，系统友好，操作简单、方便，在电脑或手机上即可一目了然地了解我国农药残留实时状况。纸质地图以农药残留侦测概况、检出农药分析和不同MRL标准比较三个主题综合展现了我国农药残留现状，形式新颖，查阅方便，可读性强，实现了只要一册《中国31省会/直辖市市售水果蔬菜农药残留水平地图集》在手，我国市售水果蔬菜农药残留概况总览无余。
+
+从该系统显示的数据可以看出，尽管目前我国市售果蔬样品检出农药以低中毒性为主，残留水平以中低水平为主，但是违禁高剧毒农药仍然被检出；并且，与欧盟、日本等发达国家相比，中国MRL标准数量少，水平低，这就会导致我国在国际贸易中处于受制于人的被动地位。随着农药残留大数据的不断汇聚，该可视化系统的推广和应用必将使我国农药残留监控像天气预报一样实现实时可视化，为我国农药残留监控提供了重要的技术支持，当食品安全发生问题时该系统可以在最短的时间内对问题产品追根溯源，从而为政府决策提供重要依据，为未来“智慧农药监管”打下坚实基础。
+
+# 参考文献
+
+1BrodyJG,Vorhees DJ,Melly SJ,et al.Using GIS and historical records to reconstruct residential exposure to large-scale pesticide application. Journal of Exposure Science and Environmental Epidemiology,2002,12(1): 64-80..   
+2Wan N.Pesticides exposure modeling based on GIS and remote sensing land use data.Applied Geography,2015,56: 99-106.   
+3Akbar T A,Lin H, DeGroote J.Development and evaluation of GIS-based ArcPRZM-3 system for spatial modeling of groundwater vulnerability to pesticide contamination.Computers & Geosciences,2011,37(7): 822-830.   
+4 Pistocchi A, Vizcaino P, Hauck M.A GIS model-based screening
+
+of potential contamination of soil and water by pyrethroids inEurope. Journal of Environmental Management, 2009,90(11):  
+3410-3421.  
+5Aguilar JAP,Andreu V, Campo J,et al. Pesticide occurrence inthe waters of Jucar River, Spain from different farming landscapes.Science of The Total Environment,2017,607: 752-760.  
+6 马林兵,张新长,伍少坤.WebGIS 原理与方法教程.北京:科学出版社,2010.  
+7 杜克明,褚金翔,孙忠富，等.WebGIS在农业环境物联网监测系统中的设计与实现.农业工程学报,2016,32(4):171-178.  
+8 高琪娟,季小闯，乐毅,等.基于WEBGIS 的农业病虫害监测系统.计算机技术与发展,2010,20(4):224-227.  
+9Bao Yongwei, Yu Mingxuan, Wu Wei. Design and implementationof database for a WebGIS-based rice diseases and pests system.Procedia Environmental Sciences,2011,10: 535-540.  
+10 Karydis I,Gratsanis P,Semertzidis C.WebGIS design &implementation for pest life-cycle & control simulationmanagement: The case of olive-fruit fly. Procedia Technology,  
+2013, 8(6): 526-529.  
+11 Yao X, Zhu D, Yun W, et al. A WebGIS-based decision supportsystem for locust prevention and control in China. Computers andElectronics in Agriculture,2017,140: 148-158.  
+12 王元胜，赵春江，王纪华，等．基于WebGIS 的重金属污染决策支持系统设计与应用.农业工程学报,2005,21(12):137-140.  
+13 庞国芳，陈谊，范春林,等.高分辨质谱-互联网-数据科学三元融合技术构建农药残留侦测技术平台．中国科学院院刊,  
+2017,32(12): 1384-1396.  
+14 胡昌平，张晶.从信息传输到可视化：地图制图学视角下的知识地图理论研究.图书馆论坛，2014,(5):29-35,70.  
+15 尹章才.Web 2.0 地图的双向地图信息传递模型.武汉大学学报·信息科学版,2012,37(6):733-736.
+
+# Tri-element Integrated Technology of High Resolution MS, Internet, and Geographical Information System Draw A Map of Pesticide Residues in China
+
+PANG Guofangl PANG Xiaoping² REN Fu² FAN Chunlin' QIN Yu² CHEN Hui1 (1 Chinese Academy of Inspection and Quarantine,Beijing loo176, China;
+
+2WuhanUniversity,Wuhan 430072,China)
+
+AbstractAgainsthebackgroundofbigdataage,itisimportatiteresearchofpesticideresiduetofindouthowtogetaugemassf pesticideresiduedataandvisualizethemonthemapinreal ime.After1Oyearsofi-depthstudy,ahig-throughputhighresolutionmas spectrometrytechiqueforscreeningof200pesticideresidues bygaschomatogaphyquadrupole timeofflightmasspectrometry(GC-QTOF/MS)combinedwithliquidchromatographyquadrupole timeofflightmassspectrometry(LC-Q-TOF/MS）wasdevelopedbasedonthe acurate databaseandspectralibraryof485and525pesticidesbyGC-Q-TOF/MSandLC-Q-TOF/MS,respectively.Thisasiproedthe detectioneicieyofpticidesiuedamaticallandalsoldtefoundaionforbaiingmasivepesticidesuesetectiosults accuratelyandreliably.Inthisstudy,pesticideresiduevisualizationsytemisestablisdbycombiningthemasiversultsofpsticide residuewith interetandgeographiciformationtechnology(GIS).Thesystemcontains twoparts:onlinecartographysystemandprinted atlas.Onlinetogatepresentstatiosofpesticiddusiinainultfsultiprsptisndul-eels, combining WebGStechologywithplieddatatatisticalaalysisethods,andovativelyreateawebartoaphysytemteated usingexpresiossuchstmaticpsatisialartsndotedatlasitratestui-mesioaliftiohte spatialdistrdb thepesticideresiduevisualzationsytmseenapdtoesrengesultsofpesticidsiueof78fruitandvegablesamples colectedfrom638samlingpointsin24countiswithin31provincialcapitals/municipaliesacrossthecountryfrom12to5.Itis turedutthatthevisualizationsystembasedontetrelementintegatedtechologyouldsomasivepesticderesidudataitutielyin realtime.TisouldeapotetialandpowerfultolforoitoringtheisofoodsafetyinCina.Andeenoreimportant,tisearh willprovidetcicalsupprtandbsicdatafortheimplementationoftestateprogamsof“ZeroIcreaseofPesticideUse”and“Bosting the Construction of Healthy China”in 13th Five-Year Plan.
+
+Keywordsgoasettry)eb,tnttegtedoiiitoa庞国芳中国工程院院士，中国检验检疫科学研究院研究员，中国食品安全国家标准审评委员会副主任，中国国家食品安全风险评估专家委员会副主任，美国分析化学家协会（AOAC)资深专家，国际AOAC 2014年度HarveyW.Wiley 奖获得者。30多年来始终工作在检验检疫第一线，致力于食品科学检测技术理论与实践的研究，在农药等化学污染物残留微量分析技术领域进行了开拓性的研究工作，在研究高灵敏度、高选择性、高分辨率的多残留快速检测新技术、新方法方面；在研究新型萃取、分离、富集等样品制备新技术、新方法方面多有创新。在检测技术标准化工程化方面颇有建树，研究建立了139项国家技术标准和3项国际AOAC标准。3次荣获国家科学技术进步奖二等奖，8次荣获国际AOAC科学技术奖。论著10部（2000万字），论文100多篇（其中40篇SCI论文）。E-mail:ciqpang@163.com
+
+![](images/2a71aca60f071b24f5b172705ba15751e53583fcdb5f194a83d110a72ce70302.jpg)
+
+PANGGuofangAcademicianofChinese AcademyofEnginering,thechiefscientistofCAIQ,deputydirectorofRiskEvaluationExpert CommiteeofChinaNationalFoodSafetydeputydirectorofReviewCommiteeofChinaNationalFoodSafetyStandards,ellowof AssociationofOfcialAalyticalCheists (AOAC),ecipientofthe4HareyWileyAwardOverthepast3years,hehasawa workingatteforefrotofteispectionandquarantieorkdevotingimselftotesarchonthetoryndpracticeoffodsietific analysisandconductingteponeringresearchworkinthefieldoftraceelementanaltical techniquesofpesticideandveteriarydrug residues.Hasmadeayiovatiosintedyofnewtquesofapidetectionofutiresideswithsnsitivityelectiiy andhighresolutions as wellasinthestudyofnewtechniquesandnewmethodssuchassample preparation likeextraction,separation, enrichment,etc.Heasfocusedisudyotegthougputtechqusof tetceelementsofoveropesticidesandveteradrug residuesndestablishedl39ChinaNtionalStandardsand3AOACOicialMethod.HewontheSecondPrizeoftheStateScientificand TechnicalProgresfor3timesandtheAwardofScienceandTechniqueofAOACfor8times.Hehad1Oscientificandtechicalworks(0 million words)and over 100 papers published,of which 40 were SCI indexed papers.E-mail: ciqpang@163.com

@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "Diversityofcultivable endophytic bacteria associated with halophytes in Xinjiang of China and their plant beneficial traits ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Li', GAO Lei'², LIU Yonghong1,FANG Baozhu1, HUANG Yin1, Osama AA MOHAMAD',Dilfuza EGAMBERDIEVA³,LI Wenjun' MA Jinbiao1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State KeyLaboratoryofDesertandOasisEcology,Xinjiang InstituteofEcologyand Geography,Chinese Academyof Sciences,Urumqi 830011,China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "² University of Chinese Academy of Sciences, Beijing 10o049, China;   \nFaculty of Biology,National University of Uzbekistan,Tashkent 100l74,Uzbekistan;   \n4 State KeyLaboratoryof Biocontrol, GuangdongProvincial KeyLaboratoryof Plant Resources,SchoolofLife Sciences, Sun Yat-Sen University, Guangzhou 510275,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Endophytic bacteria from halophytes have a wide range of application prospects in various fields, such as plant growth-promoting, biocontrol activity and stress resistance. The current study aimed to identify cultivable endophytic bacteria asociated with halophytes grown in the salt-affected soil in Xinjiang Uygur Autonomous Region, China and to evaluate their plant beneficial traits and enzyme-producing activity. Endophytic bacteria were isolated from Reaumuria soongorica (PalL Maxim.),Artemisia carvifolia (Buch.-Ham. ex Roxb. Hort. Beng.)， Peganum barmala L. and Suaeda dendroides (C. A. Mey. Moq.） by using the cultural-dependent method.Then we clasified these bacteria based on the diference between their sequences of 16S rRNA (16S ribosomal RNA) gene. Results showed that the isolated bacteria from R. soongorica belonged to the genera Brucella,Bacillus and Variovorax. The bacteria from $\\mathcal { A }$ ，carvifolia belonged to the genera Micromonospora and Brucella. The bacteria from $P$ barmala belonged to the genera Paramesorbizobium,Bacillus and Peribacillus.The bacteria from $S$ ，dendroides belonged to the genus Bacillus. Notably,the genus Bacills Was detected in the three above plants,indicating that Bacillus is a common taxon of endophytic bacteria in halophytes.And,our results found that about $3 7 . 5 0 \\%$ of the tested strains showed strong protease-producing activity, $6 . 2 5 \\%$ of the tested strains showed strong cellulase-producing activity and $12 . 5 0 \\%$ of the tested strains showed moderate lipase-producing activity. Besides,all isolated strains were positive for IAA (3-Indoleacetic acid) production, $3 1 . 2 5 \\%$ of isolated strains exhibited a moderate phosphate solubilization activity and $5 0 . 0 0 \\%$ of isolated strains exhibited a weak siderophore production activity. Our findings suggest that halophytes are valuable resources for identifying microbes with the ability to increase host plant growth and health in salt-affected soils. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: endophytes; environmental microbiology; halophytes; biodiversity; plant beneficial properties ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xinjiang Uygur Autonomous Region has the biggest land area in China, which accounts for about one-sixth of the total territory (Li et al., 2O04). However, most of the lands in Xinjiang are covered by deserts and saline-alkali soils (Huang et al.,2O06). Furthermore,with the continuous growth of agriculture and the frequently disturbance of human activities,the problems of soil desertification and salinization are becoming more and more serious, which have aroused a very severe environmental challenge (Hu et al., 2012; Jiang et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Halophytes can survive in the highly saline and arid soils and obtain a high biomass in these soils (Khan et al.,2016). Thus, halophytes have great economic value and ecological significance, such as restoring vegetation in saline soils， improving soil biodiversity and increasing crop productivity (Shamsutdinov et al., 2017). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Endophytes are non-pathogenic microorganisms that live in the tissues and organs of healthy plants at certain or all growth stages,including endophytic bacteria,actinomyces and fungi (Tosi et al.，2021). Endophytic actinomycetes and bacteria belong to the kingdom of bacteria of prokaryotes in taxonomy. But from the morphological point of view,actinomycetes and bacteria are quite different. The cell morphology of actinomycetes is mostly filamentous,while bacteria are spherical and rod-shaped.The colony of actinomycetes is dense and diffcult to pick up, while the colony shape of bacteria is mostly round and easy to pick up.Both endophytic actinomycetes and endophytic bacteria are very important bio-resource associated with plants.Most endophytes may promote host plant growth, nutrient acquisition and improve the plant's ability to tolerate abiotic stresses,such as drought, salinity and decrease stresses (Farahat,2O2O).And,there were pieces of evidence indicating that coevolution happens between endophytes and halophytes (Khare et al.,2O18; Taulé et al., 2021). Host plants can provide a suitable living environment and abundant nutrients for endophytes, while endophytes can promote host plant growth by fixing nitrogen, releasing auxin and other secondary metabolites (Wani et al.,2O15; Afzal et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, there have been several records of endophytic bacteria associated with halophytes. In previous studies,it had been found Tenericutes,Proteobacteria, Firmicutes and Actinobacteria were mainly endophytic bacteria communities of the sixteen halophytes in Northern Xinjiang by the next-generation sequencing technology (Zhao et al., 2016a). Zhao et al. (2016b) found that the Proteobacteria, Bacteroidetes,Firmicutes and Actinobacteria were the main endophytic bacteria communities in Salicornia europaea L. roots based on high-throughput sequencing analysis. In addition to having a high diversity, halophyte endophytic bacteria also can promote the growth of their host plants. Teng et al. (2010) isolated four ACC (1-aminocyclopropane-1-carboxylate) deaminase-including endophytic bacterial strains from Suaeda glauca (Bunge） Bunge，which were identified as Pseudomonas sp.， Pseudomonas oryzihabitans， Pseudomonas putida and Pantoea agglomerans. Six isolates resulting in a large rise in rice production were screened out from fifty-nine endophytic bacterial isolates by Khan et al. (2020). Five isolates associated with S. europaea displayed significant stimulation of the host plant's growth, which were recognized as Variovorax paradoxus， Bacillus endophyticus， Bacillus tequilensis， Arthrobacter agilis and Planococcus rifietoensis (Zhao et al.，2016c). Twenty-nine endophytic bacterial strains were isolated from Prosopis strombulifera and these endophytic bacterial strains were capable of producing phytohormone,in which six tested isolates were positive for the ACC deaminase activity and one strain had the ability to produce siderophores (Sgroy et al.,2O09). However, all isolates couldn't solubilize phosphate.There are many kinds of halophytes in arid areas all over the world. But the community composition and ecological role of endophytic bacteria associated with these halophytes are still not very clear (Zhao et al., 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this research, we studied the community's composition of cultivable endophytic bacteria associated with four halophytes collected from the salt-affected soils in Xinjiang, China,as well as their plant beneficial traits.The aims of this study are (1) to isolate endophytic bacteria from four halophytes grown in the saline-alkali soils; (2) to recognize the isolated endophytic bacteria via 16S rRNA gene sequencing; and (3) to examine their plant beneficial traits. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Plant samples collection and pretreatment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four halophytes，i.e., $R$ .soongorica (Tamaricaceae)，A. carvifolia(Asteraceae), $P .$ harmala (Nitrariaceae) and S. dendroides (Amaranhaceae) were collected from the saline-alkali soils in the Fukang City $( 4 4 ^ { \\circ } 1 3 ^ { \\prime } 3 9 ^ { \\prime \\prime } \\mathrm { N }$ ， $8 7 ^ { \\circ } 4 0 ^ { \\prime } 1 6 ^ { \\prime \\prime } \\mathrm { E } )$ of Xinjiang, China. These four plants were named as P1, P2,P3 and P4, respectively in this study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four plants were collected from their natural habitats, put in sterile sampling bags,and then transported to laboratory. Each plant sample was flushed in running water to dislodge the soil and mud on the root surface and dust on the plant surface. The plant samples were surface-sterilized by soaking them sequentially in $7 5 \\%$ medical alcohol for 5 min and subsequently with $5 \\%$ NaC1O for 8 min and were washed three times using the sterile distilled water (Liu et al.,2O17).To verify the efficiency of plant sample surface sterilization,we spread $1 0 0 ~ \\mu \\mathrm { L }$ the last rinse water onto the Tryptic Soy Agar plates (TSA) and International Strptomyces Project Medium agar plates (ISP2). If there was no colony growth, the plant sample surface sterilization was considered as effective after $3 \\mathrm { ~ d ~ }$ of incubation at $3 0 ^ { \\circ } \\mathrm { C }$ (Rajivgandhi et al., 2018; Ramachandran et al., 2019). The surface sterile plants were cut into $1 { - } 2 ~ \\mathrm { c m }$ pieces with a sterile scalpel and dried in the horizontal flow clean bench. Finally, all of the samples were crushed by a sterile masher and stored at $- 2 0 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Isolation of endophytic bacterial strains ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One gram of plant sample was ground thoroughly using a sterile mortar and poured into $5 0 ~ \\mathrm { m L }$ centrifuge tube with $9 ~ \\mathrm { m L }$ of sterile distilled water and a few sterile glass beads. The sample was shaken at $1 0 0 \\ \\mathrm { r / m i n }$ for $3 0 \\ \\mathrm { m i n }$ using a Shaken Incubator (Shanghai Tensuc Lab Instruments Manufacturing Co., Ltd., China). The supernatant was extracted and transferred into a new sterile centrifuge tube after the tissue homogenate was centrifuged at $3 0 0 0 ~ \\mathrm { r / m i n }$ for $1 0 \\ \\mathrm { m i n }$ . Series gradient dilutions $( 1 0 ^ { - 2 } – 1 0 ^ { - 4 } )$ were performed by sterile operation, then $7 0 ~ \\mu \\mathrm { L }$ dilutions were spread onto tap water-yeast extract agar (TWYE) medium and Glycerol-Asparagine medium. All plates used to isolate endophytic bacteria were incubated at $3 0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { ~ d ~ }$ ，The component of TWYE medium was as follows: $0 . 2 5 ~ \\mathrm { g / L }$ yeast extract, $0 . 5 ~ \\mathrm { g / L }$ （20 ${ \\mathrm { K } } _ { 2 } { \\mathrm { H P O } } _ { 4 }$ ， $1 5 ~ \\mathrm { g / L }$ agar and $\\mathrm { p H } ~ 7 . 2$ (Wang, 2017). The content of Glycerol-Asparagine medium was as follows: $1 \\ \\mathrm { g / L }$ asparagine, $1 0 \\ \\mathrm { g / L }$ glycerol, $3 0 ~ \\mathrm { g / L } ~ \\mathrm { N a C l }$ ， $1 \\ \\mathrm { g / L }$ （20 ${ \\mathrm { K } } _ { 2 } { \\mathrm { H P O } } _ { 4 }$ ， $0 . 0 0 1 ~ \\mathrm { g / L }$ （204 $\\mathrm { F e S O } _ { 4 } { \\bullet } 7 \\mathrm { H } _ { 2 } \\mathrm { O }$ ， $0 . 0 0 1 \\ \\mathrm { g / L } \\ \\mathrm { M n S O } _ { 4 } { \\cdot } \\mathrm { H } _ { 2 } \\mathrm { O } _ { 3 }$ $0 . 0 0 1 ~ \\mathrm { g / L }$ $Z \\mathrm { n S O } _ { 4 } { \\cdot } 7 \\mathrm { H } _ { 2 } \\mathrm { O }$ ， $1 5 ~ \\mathrm { g / L }$ agar and $\\mathrm { p H } 7 . 2$ (Liao,1997).After $3 0 \\mathrm { ~ d ~ }$ of culture,colonies with different shapes and colors were picked carefully, transferred onto TSA plates, and then incubated at $3 0 ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 7 d }$ to check the purity of the isolated endophytic bacteria. Colonies with similar phenotypes (such as sizes,shapes and colors)were duplicated to cut down the number of bacteria to be sequenced and shrink the scope of screening. The isolated strains were preserved with $20 \\%$ glycerin tube and stored in $- 8 0 ^ { \\circ } \\mathrm { C }$ ， ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Deoxyribonucleic acid (DNA) extraction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The genomic DNA of isolates was extracted using Chelex $\\textsuperscript { \\textregistered }$ 100 sodium. A single colony was transferred into the sterile polymerase chain reaction (PCR) tube with ${ 5 0 } ~ \\mu \\mathrm { L }$ of $5 \\%$ chelex-100 and was mixed thoroughly with a vortex mixer. The tube was incubated for $2 5 \\ \\mathrm { m i n }$ at $9 9 ^ { \\circ } \\mathrm { C }$ in the PCR instrument (C100o TouchTM Thermal Cycler，BioRad Laboratories，USA） and then centrifuged at $1 2 , 0 0 0 ~ \\mathrm { { r / m i n } }$ for $1 0 \\ \\mathrm { \\ m i n }$ . The extracted genomic DNA was dissolved in the supernatant and used as the template for the PCR. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4PCR and agarose gel electrophoresis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The amplification of 16S rRNA gene of isolates was performed by using the following universal primers: 27F ( $5 ^ { \\prime }$ -GAGTTTGATCCTGGCTCAG-3') and 1492R (5'-GAAAGGAGGTGATCCAG CC-3') (Biomed, China). The 16s rRNA gene was amplified in a C1000 TouchTM Thermal Cycler (Bio-Rad Laboratories, USA) in a total volume of $5 0 ~ \\mu \\mathrm { L }$ of reaction mixture consisting of $1 ~ \\mu \\mathrm { L }$ template DNA, $2 5 ~ \\mu \\mathrm { L }$ （204号 $2 \\times$ Taq MasterMix (Coolaber, China), $1 ~ \\mu \\mathrm { L }$ 27F, $1 ~ \\mu \\mathrm { L }$ 1492R and $2 2 ~ \\mu \\mathrm { L }$ $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ (Tiangen Biotech Co. Ltd.,Beijing, China). PCR was carried out under the following procedures: pre-denaturation at $9 4 ^ { \\circ } \\mathrm { C }$ for $6 \\mathrm { m i n }$ , followed by 35 cycles of denaturation for $3 0 ~ \\mathrm { s }$ at $9 4 ^ { \\circ } \\mathrm { C }$ ,annealing at $5 5 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { s }$ and extension at $7 2 ^ { \\circ } \\mathrm { C }$ for $1 . 5 \\ \\mathrm { m i n }$ , followed by the final step at $7 2 ^ { \\circ } \\mathrm { C }$ for $7 ~ \\mathrm { m i n }$ .PCR products with a length of about 1500 bp were checked by $1 \\%$ agarose gel electrophoresis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5Sequencing and analysis of phylogenetic tree construction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The positive PCR products were purified and sequenced by Sangon Biotech in Shanghai, China. The received paired-end raw data were merged using the Molecular Evolutionary Genetics Analysis 7.0 (MEGA 7.0) and then were compared with strains registered in the EzBioCloud database utilizing l6S-based identification system. We multiply aligned the sequences of isolates by sequencing and sequences of the most similar strains downloading from EzBioCloud based on the ClustalW method and constructed the evolutionary tree by the Neighbor-Joining method using MEGA 7.0. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Accession numbers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All endophytic bacterial 16S rRNA gene sequences were stored into the GenBank database following the below accession numbers: MW228433-MW228448. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7 Plantbeneficial traits ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The producing assay of IAA was performed by color reaction method (Amaresan et al., 2012). All strains were inoculated in nutrient broth medium under shaking conditions $( 1 2 0 ~ \\mathrm { r / m i n } )$ at $3 0 ^ { \\circ } \\mathrm { C }$ for 5 d. The culture supernatant was acquired after centrifuging at $5 0 0 0 ~ \\mathrm { r / m i n }$ for $1 0 \\mathrm { m i n }$ . After that, $4 ~ \\mathrm { m L }$ of Salkowski reagent was added to $2 ~ \\mathrm { m L }$ of supernatant and incubated at $3 0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ in a dark room. The color of the mixture changed to pink or red indicating that IAA was produced by the tested strain. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Phosphate solubilization activity was measured by inoculating strains on Pikovskaya medium, then incubated at $3 0 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { d }$ (Simarmata et al., 2020). The content of Pikovskaya medium was as follows: $0 . 5 ~ \\mathrm { g / L }$ yeast extract, $1 0 ~ \\mathrm { g / L }$ glucose, 5 g/L $\\mathrm { C a } _ { 3 } ( \\mathrm { P O } _ { 4 } ) _ { 2 }$ ， $0 . 5 ~ \\mathrm { g / L }$ （20 $( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathrm { S O } _ { 4 }$ ， $0 . 2 ~ \\mathrm { g / L }$ NaCl, $0 . 2 ~ \\mathrm { g / L }$ KCl, $0 . 1 \\ \\mathrm { g / L \\ M g S O _ { 4 } { \\cdot } 7 H _ { 2 } O }$ ， $0 . 0 2 5 ~ \\mathrm { g / L }$ bromophenol blue, $0 . 0 0 2 \\ \\mathrm { g / L } \\ \\mathrm { F e S O _ { 4 } { \\cdot } 7 H _ { 2 } O }$ ， $2 0 ~ \\mathrm { g / L }$ agar and $\\mathrm { p H } 7 . 0$ . The presence of a transparent zone around the colony means that the strain will solubilize phosphate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Siderophore-producing activity was carried out for inoculating strains on Chrome Azurol S agar plate (CAS) and cultivated at $3 0 ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { d }$ ， An orange or purple halo zone around the colony comes up and the blue color of the CAS medium changes indicating a positive strain screened for the siderophore production (Khan et al., 2020). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Protease activity was determined by growing the isolates on Skim Milk Agar medium. The positive findings were shown by the presence of a transparent halo region around the bacterial colony after $3 \\mathrm { d }$ of incubation at $3 0 ^ { \\circ } \\mathrm { C }$ (Simarmata et al., 2020). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cellulase activity was tested by inoculating bacterial isolates onto a medium containing a unique cellulase substrate namely carboxy methyl cellulose sodium salt (CMC-Na).After $^ { 7 \\mathrm { d } }$ of cultivation at $3 0 ^ { \\circ } \\mathrm { C }$ ,all plates were stained with 5 mL $0 . 1 \\%$ Congo red solution for $1 0 ~ \\mathrm { m i n }$ and then rinsed by using $5 \\ \\mathrm { m L } \\ 1 \\ \\mathrm { M } \\ \\mathrm { N a C l } .$ The existence of a transparent or softly colored region around the colony signaled the presence of positive endophytic bacterial strains (Simarmata et al., 2020). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The assay of lipase activity was carried out by using bacterial isolates being scratched on Tween8O medium. The content of Tween8O medium was as follows: $1 0 ~ \\mathrm { m L / L }$ Tween80, $5 0 ~ \\mathrm { m l / L }$ Victoria blue-suspension, $1 0 \\ \\mathrm { g / L }$ peptone, 5 g/L NaCl, $0 . 1 \\mathrm { g / L } \\mathrm { C a C l _ { 2 } \\bullet 7 H _ { 2 } O }$ and $1 5 \\ \\mathrm { g / L }$ agar. Bacterial isolates were cultivated for $^ \\textrm { \\scriptsize 7 d }$ at $3 0 ^ { \\circ } \\mathrm { C }$ . The formation of a clear halo indicated that the result is positive (Mesa et al., 2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The enzyme-producing activity was calculated by the formula (three replicates to get the average enzyme-producing activity) (Liu et al., 2017). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { D 1 } { D 2 } \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $E$ is the enzyme-producing activity of endophytic bacteria; $D 1$ is the diameter of the clear ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "zone (mm); and $D 2$ is the diameter of the endophytic bacterial isolate (mm). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8Data processing and visualization ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The processing and visualization of data are completed by Microsoft Excel 2019, MEGA 7.0 and GENESCLOUD (https://www.genescloud.cn/). Microsoft Excel 2019 was used to complete the data processing and draw pie charts, MEGA 7.O was used to construct the phylogenetic tree, and GENESCLOUD was used to complete the drawing of the Venn chart. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Isolation and identification of endophytic bacterial strains ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of sixteen endophytic bacterial strains belonging to three phyla,four classes,four orders, four families and six genera were isolated from four halophytic plants. Table 1 shows the 16S rRNA gene sequence similarities of endophytic bacterial strains isolated from four halophytes with the most related sequences from the EzBioCloud database.All of the isolated independent strains shared $9 8 \\% - 1 0 0 \\%$ of their 16S rRNA gene similarity with those in the EzBioCloud database. The isolation results showed that the predominant genera were Bacillus, Brucella and Phylobacterium, accounting for $3 8 \\%$ ， $2 5 \\%$ and $19 \\%$ of the total number of isolates,respectively (Fig.1). Five bacterial isolates (P1.1-1.5） were isolated from P1， three bacterial (P2.1-2.3） from P2，five bacterial (P3.1-3.5) from P3,and three bacterial (P4.1-4.3) from P4. However, we failed to isolate the endophytic bacteria common to four halophytes according to the Venn diagram of Figure 1b. Three phyla were described among the isolated strains: Actinobacteria (P2.1)，Proteobacteria (P1.3-P1.5, P2.2,P2.3,P3.2,P3.3 and P3.5),and Firmicutes (P1.1, P1.2,P3.1,P3.4 and P4.1-P4.3). The isolates were identified as Bacillus atrophaeus (P1.2, P4.2 and P4.3), Bacillus filamentosus (P3.1 and P4.1), Bacillus halotolerans (P1.1), Brevibacterium frigoritolerans (P3.4), Brucella endophytica (P1.3, P1.5 P2.2 and P2.3), Micromonospora citrea (P2.1), Phyllobacterium phragmitis (P3.2, P3.3 and P3.5) and Variovorax paradoxus (P1.4) (Table 1; Fig. 2). Although there are eight isolates (P1.3-P1.5，P2.2，P2.3，P3.2，P3.3 and P3.5） from the phylum Proteobacteria,they are from different classes,i.e.,Alphaproteobacteria (P1.3,P1.5,P2.2, P2.3, P3.2,P3.3 and P3.5) and Betaproteobacteria (P1.4; Table 1). Six isolates of the phylum Firmicutes belong to the genus Bacillus and only one isolate of the phylum Firmicutes belongs to the genus Peribacillus (Table 1; Fig.1). The only one actinomycete strain (P2.1) isolated from P2 belongs to the genus Micromonospora (Table 1; Fig. 2). Firmicutes (four species) had more isolates than Proteobacteria (three species） and Actinobacteria (one species） at the species level in four halophytes,according to the efect of endophytic bacterial strain isolation (Table 1; Fig. 2). The phylogenetic tree that was constructed revealed the closest species of isolated endophytic bacterial strains in the EzBioCloud database (Fig.2). According to species diversity, the representatives of Firmicutes phyla (4 species） were the highest as compared with Proteobacteria (3 isolates) and Actinomycetes (1 isolate) in halophytes (Fig. 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ace44d31e45bc00cf2364740b1f337ed545a9bdb35c054bbfed42d46b58e826e.jpg",
+        "img_caption": [
+            "Fig.1(a),percentage of isolated strainsat the genus level; (b),Venn diagram of endophytic bacteria from four halophytes at the species level. P1,R. soongorica (Tamaricaceae); P2, A. carvifolia (Asteraceae); P3, $P$ harmala (Nitrariaceae); P4,S.dendroides (Amaranhaceae).The abbreviations are the same in the folowing figures and tables.The numbers in the Venn diagram represent the number of endophytic bacterial species. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9930f49d816e97b6917600b9daeb2c627127cc422e01484acd6c6340e620b241.jpg",
+        "table_caption": [
+            "Table1Sequence similarities of isolated endophytic bacterial 16S rRNA gene with sequences registered in the EzBioCloud database "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Isolated strain</td><td colspan=\"3\">Species with the highest similarity in the EzBioCloud database</td></tr><tr><td>Strain</td><td>Size (bp)</td><td>Accession number</td><td>Top-hit taxon</td><td>Identity (%)</td><td>Accession number</td></tr><tr><td>P1.1</td><td>1489</td><td>MW228433</td><td>Bacillushalotolerans</td><td>99.45</td><td>LPVF01000003</td></tr><tr><td>P1.2</td><td>1488</td><td>MW228434</td><td>Bacillus atrophaeus</td><td>99.38</td><td>AB021181</td></tr><tr><td>P1.3</td><td>1417</td><td>MW228435</td><td>Brucellaendophytica</td><td>98.35</td><td>KP721485</td></tr><tr><td>P1.4</td><td>1476</td><td>MW228436</td><td>Variovoraxparadoxus</td><td>99.38</td><td>BCUT01000013</td></tr><tr><td>P1.5</td><td>1427</td><td>MW228437</td><td>Brucella endophytica</td><td>98.43</td><td>KP721485</td></tr><tr><td>P2.1</td><td>1450</td><td>MW228438</td><td>Micromonospora citrea</td><td>99.09</td><td>FMHZ01000002</td></tr><tr><td>P2.2</td><td>1417</td><td>MW228439</td><td>Brucella endophytica</td><td>98.71</td><td>KP721485</td></tr><tr><td>P2.3</td><td>1421</td><td>MW228440</td><td>Brucella endophytica</td><td>99.43</td><td>KP721485</td></tr><tr><td>P3.1</td><td>1488</td><td>MW228441</td><td>Bacillus flamentosus</td><td>100.00</td><td>KF265351</td></tr><tr><td>P3.2</td><td>1427</td><td>MW228442</td><td>Phyllobacterium phragmitis</td><td>98.36</td><td>PVBR01000053</td></tr><tr><td>P3.3</td><td>1424</td><td>MW228443</td><td>Phyllobacterium phragmitis</td><td>98.00</td><td>PVBR01000053</td></tr><tr><td>P3.4</td><td>1486</td><td>MW228444</td><td>Brevibacterium frigoritolerans</td><td>99.25</td><td>AM747813</td></tr><tr><td>P3.5</td><td>1426</td><td>MW228445</td><td>Phyllobacterium phragmitis</td><td>98.50</td><td>PVBR01000053</td></tr><tr><td>P4.1</td><td>1484</td><td>MW228446</td><td>Bacillus flamentosus</td><td>99.57</td><td>KF265351</td></tr><tr><td>P4.2</td><td>1483</td><td>MW228447</td><td>Bacillusatrophaeus</td><td>99.39</td><td>AB021181</td></tr><tr><td>P4.3</td><td>1485</td><td>MW228448</td><td>Bacillus atrophaeus</td><td>99.52</td><td>AB021181</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee3f510e8cd4c2a191ff8cd41d8c3f07f548aad2e609d72940a39006a32f6cfe.jpg",
+        "img_caption": [
+            "Fig.2Neighbor-joining phylogenetic tree based on l6S rRNA gene sequences of endophytic bacteria "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Plantbeneficialtraits ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study，enzyme-producing activities of sixteen endophytic bacterial strains from four halophytes were screened. Among the tested strains, the highest protease activity was observed in bacterial isolates P1.1,P1.2, P3.3,P3.4, P4.2 and P4.3, while other isolates exhibited moderate or negative protease activity (Table 2). Strong celulase-producing activity was observed in the P1.1 isolate,and about $3 1 . 2 5 \\%$ of the tested strains showed negative cellulase activity (Table 2).About $1 8 . 7 5 \\%$ strains with lipase activity were screened out from all tested endophytic bacteria (Table 2). Except for the enzyme-producing activities,we also screened other plant beneficial traits of endophytic bacterial strains isolated from four halophytes.The findings revealed that all of the test isolates produced IAA.Compared with other strains,the isolated strain P4.3 showed higher IAA production activity (Table 2).And, the isolates P1.4, P2.3,P3.1, P3.2 and P4.2 showed moderate phosphate solubilization activity.The isolates P1.1,P1.2,P2.2,P3.3,P3.4 and P4.3 showed weak phosphate solubilization activity. However, the isolates P1.3,P1.5,P2.1,P3.5 and P4.1 showed negative phosphate solubilization activity (Table 2). Furthermore,half of all isolated strains were able to produce siderophore weakly(Table 2). Through comparative analysis, we found that strain P1.1 had the activity of producing three tested enzymes (Table 2).Moreover, the isolated strains P1.2,P1.4,P2.3,P3.2,P3.3 and P3.4 have the abilities of producing IAA,siderophore and phosphate solubilization (Table 2). Therefore, our findings displayed that these strains have the potential to promote the growth of host plants. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b84694bfb18261c8647989f93704f084939208035e606cabe906c5440243aba.jpg",
+        "table_caption": [
+            "Table 2Plant beneficial traits of endophytic bacterial strains associated with four halophytes "
+        ],
+        "table_footnote": [
+            "Note: IAA, 3-Indoleacetic acid.\",results are expressed by positive $( + )$ or negative $\\left( - \\right)$ activity of color reaction. $^ { + + }$ ,moderate activity (red); $^ +$ ,weak activity (pink);-,negative activity.b,results are expressed by presence $( + )$ or absence $( - )$ of halo. $^ { + + + }$ ,strong activity; $^ { + + }$ moderate activity; $^ +$ weak activity;-,negative activity. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Isolated strain</td><td colspan=\"4\">Enzyme-producing activity</td><td colspan=\"2\">Plant growth-promoting traits</td></tr><tr><td>Proteaseb</td><td>Cellulaseb</td><td>Lipaseb</td><td>IAAa</td><td>Phosphate solubilizationb</td><td>Siderophoreb</td></tr><tr><td>P1.1</td><td>+++</td><td>+++</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td>P1.2</td><td>+++</td><td></td><td>++</td><td>+</td><td>+</td><td>+</td></tr><tr><td>P1.3</td><td>-</td><td>+</td><td>-</td><td>+</td><td>-</td><td>+</td></tr><tr><td>P1.4</td><td></td><td>++</td><td></td><td>+</td><td>++</td><td>+</td></tr><tr><td>P1.5</td><td></td><td>++</td><td></td><td>+</td><td></td><td>-</td></tr><tr><td>P2.1</td><td>++</td><td>+</td><td></td><td>+</td><td>-</td><td></td></tr><tr><td>P2.2</td><td>++</td><td>++</td><td></td><td>+</td><td>+</td><td>-</td></tr><tr><td>P2.3</td><td>++</td><td>+</td><td>-</td><td>+</td><td>++</td><td>+</td></tr><tr><td>P3.1</td><td></td><td>+</td><td>-</td><td>+</td><td>++</td><td></td></tr><tr><td>P3.2</td><td>++</td><td>++</td><td></td><td>+</td><td>++</td><td>+</td></tr><tr><td>P3.3</td><td>+++</td><td></td><td></td><td>+</td><td>+</td><td>+</td></tr><tr><td>P3.4</td><td>+++</td><td></td><td></td><td>+</td><td>+</td><td>+</td></tr><tr><td>P3.5</td><td></td><td>++</td><td></td><td>+</td><td></td><td>+</td></tr><tr><td>P4.1</td><td></td><td>+</td><td></td><td>+</td><td></td><td></td></tr><tr><td>P4.2</td><td>+++</td><td></td><td>-</td><td>+</td><td>++</td><td></td></tr><tr><td>P4.3</td><td>+++</td><td></td><td>++</td><td>++</td><td>+</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the screening results of protease-producing strains, $3 7 . 5 0 \\%$ of the tested strains had strong protease activity, and $2 5 . 0 0 \\%$ of the tested strains exhibited moderate protease activity. However, the remaining $3 7 . 5 0 \\%$ of the tested strains had no performance of protease activity (Fig. 3a). In the screening results of lipase-producing strains, $12 . 5 0 \\%$ of the tested strains exhibited moderate lipase activity, $6 . 2 5 \\%$ of the tested strains exhibited weak lipase activity, and $8 1 . 2 5 \\%$ of the tested strains had no lipase activity (Fig. 3b). In the screening results of cellulase-producing strains, $6 . 2 5 \\%$ of the tested strains exhibited strong cellulase activity, $3 1 . 2 5 \\%$ of the tested strains exhibited moderate cellulase activity, $3 1 . 2 5 \\%$ of the tested strains exhibited weak cellulase activity, and $3 1 . 2 5 \\%$ of the tested strains had no cellulase activity (Fig. 3c). In the screening results of IAA-producing strains, $6 . 2 5 \\%$ of the tested strains possessed moderate IAA-producing activity and $9 3 . 7 5 \\%$ of the tested strains possessed weak IAA-producing activity (Fig.3d). In the screening results of phosphate solubilization strains, $3 1 . 2 5 \\%$ of the tested strains possessed moderate phosphate solubilization ability, $3 7 . 5 0 \\%$ of the tested strains showed weak phosphate solubilization ability, and $3 1 . 2 5 \\%$ of the tested strains had no phosphate solubilization ability (Fig.3e).In the screening results of siderophore-producing strains, $50 . 0 0 \\%$ of the tested strains displayed weak siderophore-producing activity and $5 0 . 0 0 \\%$ of the tested strains did not display siderophore-producing activity (Fig. 3f). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2712c8a3ffc6b3ef8af6abba5f5aee68e0c6cd08d68a46f81d40b4452b60c9f.jpg",
+        "img_caption": [
+            "Fig.3Proportionof strains with diferent enzyme-producing activities (a-c)and plant growth-promoting traits (d-f) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As a result of global climate change,soil salinization has become one of the most serious abiotic stresses impacting plant growth and crop production around the world (Nakbanpote et al., 2014). Plant-associated endophytic bacteria live in plant tissues during their entire lives and are considered to be beneficial to host plant health and growth (Mishra et al.,2017; Fouda et al.,2021).Endophytic bacteria create metabolites that are analogous to those released by the host plant, making them a rich source of secondary metabolites (Gouda et al.,2O16).To beter understand the community structure and ecological role of endophytic bacteria associated with halophytes,four typical halophytes were chosen for endophytic bacteria isolation and functional strain screening. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "At present, there are few studies on endophytic bacteria associated with $R$ . soongorica, $A$ carvifolia and S. dendroides.In this study, the culture-dependent approach was used to isolate endophytic bacterial strains associated with four halophytes. After identification, we found that seven strains among the sixteen isolates were from the Firmicutes phylum. Strain P1.1 was identified as Bacillus halotolerans, strain P3.4 as Brevibacterium frigoritolerans， strain P4.1 as Bacillus endophyticus,strain P3.l and P4.1 as Bacillus filimentosus,and strains P1.2, P4.2 and P4.3 as Bacilus atrophaeus (Table 1). We have also isolated a strain of endophytic actinomycetes identified as Micromonospora citrea,which belongs to the Micromonospora genus (Table 1). The phylum Proteobacteria contained eight bacterial isolates,belonging to genera Brucella,Paramesorhizobium and Variovorax. Strain P1.4 was identified as Variovorax paradoxus, strains P3.2, P3.3 and P3.5 as Phyllobacterium phragmitis,and strains P1.3,P1.5,P2.2 and P2.3 as Brucella endophytica (Table 1).Lei et al. (2020) isolated a novel Gram-positive,aerobic and motile endophytic actinomycete proposed as Actinokineospora pegani sp. nov. from the root of Peganum harmala. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In our findings, the endophytic bacterium Bacillus halotolerans (P1.1) has capacity for the production of protease,cellulase, lipase,IAA and phosphate solubilization (Table 2). This study on the inoculation of Bacillus halotolerans showed that bacterial inoculation led to significant increases in plant development, nutritional content and food quality even under saline stress conditions (Jiménez-Gómez et al., 2021). The taxon we isolated also showed some plant growth-promoting traits，such as IAA production and phosphate solubilization ability (Table 2). The isolated endophytic bacteria Bacillus atrophaeus (P1.2 and P4.3) can produce protease and lipase,which is consistent with the finding of Mohamad et al. (2018). In addition, our findings have also revealed that the isolated endophytic bacteria Bacillus atrophaeus (P1.2 and P4.3） possessed plant growth-promoting potential (Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the present study, the strains P1.3,P1.5,P2.2 and P2.3 were identified as Brucella endophytica. It is worth noting that the basonym of Brucella endophytica is Ochrobactrum endophyticum. In a similar investigation, an endophytic bacterium isolated from the roots of Glycyrrhiza uralensis F. was proposed as $O$ 、endophyticum (Li et al.,2Ol6).However, there are few studies on the plant growth-promoting potential and enzyme-producing activity of $B$ ，endophytica. According to our findings, $B .$ endophytica has certain characteristics of plant beneficial trait and cellulase production (Table 2). The endophytic bacterium P1.4 was isolated from R. soongorica, which was identified as Variovorax paradoxus， and had the ability to produce IAA， siderophore and phosphate solubilization. The results indicated that the strain P1.4 could promote host plant growth in certain conditions (Tables 1 and 2). Chen et al. (2013) had proved that V. paradoxus containing ACC deaminase can promote the growth of Arabidopsis thaliana. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We isolated an endophytic strain P2.1，which was identified as Micromonospora citrea and belonged to phylum Actinobacteria.It was found that a new family of antibacterial antibiotics could be isolated from $M .$ citrea (Carter et al.，1990). Nevertheless, there is no report about plant beneficial traits of $M .$ citrea. Our results show that M. citrea can produce protease, cellulase and IAA (Table 2). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In our results, there are three endophytic strains with plant beneficial traits isolated from $P$ harmala (P3） growing in the saline soils and identified as Phyllobacterium phragmitis. The Gram-negative bacteria were isolated from the Phragmites australis rhizome growing in the Kumtag Desert and were first proposed as $P _ { \\cdot }$ phragmitis (Liang et al., 2019). At the moment, there are no relevant references about the plant beneficial traits of $P$ phragmitis.We found that $P$ phragmitis can produce IAA and siderophore, which has the potential to promote plant growth (Table 2). We isolated endophytic bacteria strain P3.4 identified as Brevibacterium frigoritolerans, which showed plant growth-promoting traits to some extent and strong protease activity. Unisa et al. (2021) also found that B. frigoritolerans has good plant growth promotion potential such as phosphate solubilization, IAA and ammonia production, and bio-control properties such as hydrogen cyanide production, siderophore production and lytic enzymes production. In our research, the endophytic strains P3.1 and P4.1 were identified as Bacilus filamentosus with cellulase activity and capability of IAA production (Table 2). Yahaghi et al. (2019) found that B. filamentosus was the most efective in the root and shoot growth stimulation of alfalfa seedlings.To our knowledge,it is rarely reported that strain $B _ { \\cdot }$ filamentosus is isolated from plants, especially halophytes. Besides, it was reported that $B$ filamentosus was isolated from a marine sediment sample for the first time (Sonalkar et al., 2015). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A total of sixteen endophytic bacteria associated with halophytes belong to the genera Bacillus, Micromonospora， Brucella， Paramesorhizobium， Peribacillus and Variovorax. All isolated endophytic bacteria showed the ability of IAA production and some isolates were positive for the production of three tested enzymes， siderophores and phosphates solubilization. And these endophytic bacteria play important roles in promoting the growth of host plants and improving their stress resistance. Our research findings also indicate that halophyte is a resource bank for functional microbes that can sustain plant health and growth under harsh climates. Therefore,it is of great economic value and ecological significance to apply functional endophytes to agricultural production. Furthermore,our findings reveal that further studies in the lab and field experiments are needed to confirm plant growth-promoting traits of endophytic bacteria isolated from halophytes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the Xinjiang Uygur Autonomous Region Regional Coordinated Innovation Project (Shanghai Cooperation Organization Science and Technology Partnership Program)(202OEO1047),and the National Natural Science Foundation of China (U1703106,32061143043，91751206).The authors acknowledge the anonymous reviewers for their constructive comments on the manuscript. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AfzalI,ShinwariZK,ikandar S,etal.2Ol9.Plantbeneficial endophytic bacteria:mechanisms,diversityhostrangeand genetic determinants.Microbiological Research,221:36-49.   \nAmaresan N,Jayakumar VKumarK,etal.2012.Isolationandcharacterizationof plant growthpromoting endophticbacteria and their efect on tomato (Lycopersicon esculentum）and chilli(Capsicum annuum） seedling growth.Annalsof Microbiology, 62(2): 805-810.   \nCarter GT,NietsheJA,WiliamsDR,etal.99.Citreamicins,novel antibioticsfrom Micromonosporacitrea:isolation, characterization,and structure determination.Journal of Antibiotics,43(5): 504-512.   \nChen L,DoddIC,TheobaldJC,et al.2013.The rhizobacterium Variovorax paradoxus 5C-2,containing ACC deaminase, promotes growth and development of Arabidopsis thaliana viaanethylene-dependent pathway.Journal of Experimental Botany,64(6): 1565-1573.   \nFarahat M.2020.Aleviation of salinity stress in wheat by ACC deaminase-producing Bacillus aryabhattai EWR29 with multifarious plant growth-promoting attributes.Plant Archives,20(1): 417-429.   \nFouda A,EidAM,ElsaiedA,etal.2O21.Plantgrowth-promotingendophyticbacterialcommunityinhabitingtheleavesof Pulicaria incisa (Lam.) DC inherent to arid regions.Plants,10(1):76.   \nGouda S,DasG,SenSK,etal.0l6.Endophytes:atreasure houseofbioactivecompoundsofmedicinalimportance.Frontiers in Microbiology,7: 1538.   \nHuang JF,WangRH,Zhao ZY,etal.20o6.Efectsof climatechangeonsoil salinization in Xinjiangoasis,China.In: Proceedingsofthe International SpecialtyConferenceon ScienceandTechnologyfor Desertification Control.Beijing,China, Agricultural University,306-313.   \nHu MF,TianCY,ZhaoZY,etal.2O12.Salinizatiocausesandresearch progressof technologiesimprovingsaline-alkalisol in Xinjiang. Journal of Northwest A&F University,40(10): 111-117.(in Chinese)   \nJiang H,EgamberdieVD,Panosyan H H,etal.2O20.Onshore soil microbesand endophytes responddiferently to geochemical and mineralogical changes in the Aral Sea.Science of the Total Environment,765:142675.   \nJiménez-GómezA,Garcia-EstevezI,Escribano-BailonMT,etal.2O21.Bacterial fertilizersbasedonRhizobiumlgeree and Bacillus halotolerans enhance Cichorium endiviaL.phenoliccompound and mineral contents and plant development. Foods,10(2): 424.   \nKhan MA,Ozturk M,Gul B,et al.2016.Halophytes for Food Security in Dry Lands ( $1 ^ { \\mathrm { s t } }$ ed.).Oxford:Elsevier Science Publishing Co.Inc.,49-66.   \nKhan MA,AsafS,KhanAL,etal.2020.Plantgrowth-promotingendophytic bacteriaaugment growthandsalinitytolerancein rice plants.Plant Biology,22(5): 850-862.   \nKhareE,MishraJ,AroraNK.20l8.Multifaceted interactions betweenendophytesand plant:developmentsand prospects. Frontiers in Microbiology,9:2732.   \nLeiYJ,Xia ZF,Luo XX,etal.2O20.Actinokineospora peganisp.nov.,anendophyticactinomycete isolated from the surface-sterilizedrootof Peganum harmalaL.International JournalofSystematicandEvolutionary Microbiology，70(): 4358-4363.   \nLi H,WangXF,Gao YQ.2004.Analysis andassssmentofland desertificationin Xinjiang basedonRSandGIS.Journalof Geographical Sciences,14:159-116.   \nLiL,LiYQ,Jiang Z,etal.2016.Ochrobactrum endophyticumsp.nov.,solated fromrootsofGlycyrrhizauralensis.Archives of Microbiology, 198(2): 171-179.   \nLiang LX,SunQW,HuiN,etal.2019.Phyllbacteriumphragmitissp.nov.,anendophytic bacterium isolated from Phragmites australis rhizome in Kumtag Desert.Antonie van Leeuwenhoek,1l2(5): 661-668.   \nLiuYH,GuoJW,LiL,etal.2O17.Endophyticbacteriaassociated with endangered plantFerulasnkiangensis K.M.Shenin an arid land: diversity and plant growth-promoting traits.Journal of Arid Land,9(3): 432-445.   \nMesaJ,Mateos-NaranjoE,Caviedes MA,etal.2O15.Endophyticcultivablebacteriaof the metal bioaccumulatorSpartina maritima improve plant growth but not metal uptake in polluted marshes soils.Frontiers in Microbiology,6:1450.   \nMishra A,GondSK,KumarA,etal.2O12.Sourcingthefungalendophytes:abeneficialtransactionofbiodiversity,ioactive natural products,plant protectionandnanotechnology.In:SatyanarayanaT,JohriB,Anil Prakash.Microrganismsin Sustainable Agriculture and Biotechnology. Dordrecht: Springer,581-612.   \nMohamadOA,LiL,MaJB,etal.2018.Evaluationof theantimicrobialactivityof endophyticbacterial populations from Chinese traditional medicinalplantLicoriceand characterizationof the bioactive secondary metabolites producedbyBacilus atrophaeus against Verticillium dahliae.Frontiers in Microbiology,9: 924-924.   \nNakbanpoteW,Panitlurtumpai N,Sangdee A,etal.2014.Salt-tolerantand plant growth-promotingbacteria isolated from $Z { \\mathrm { n / C d } }$ contaminated soil: identification and efect on rice under saline conditions.Journal of Plant Interactions,9(1): 379-387.   \nRajivgandhi G,ThillichidambaramM,MuthuchmyM,etal.2O18.Antibacterialandanticancerpotentialofmarinedophytic actinomycetes Streptomyces coeruleorubidus Grg 4(Ky457708)compound against colistin resistant uropathogens and A549 lung cancer cells.Microbial Pathogenesis,125:325-335.   \nRamachandranGRajivgandhi GMaruthupandyM,etal.219.Extractionandpartialpurificationofscondaryetabolites from endophytic actinomycetes of marine green algae Caulerpa racemosa against multi drug resistant uropathogens. Biocatalysis and Agricultural Biotechnology,17: 750-757.   \nSgroyV,CassanF,MasciareliO,etal.O09.Isolationndcharacterizationofndophyticplantgowth-promoting(PPB)or stress homeostasis-regulating (PSHB)bacteriaasociatedtothehalophyte Prosopis strombulifera.AppliedMicrobiology and Biotechnology, 85(2): 371-378.   \nShamsutdinovNZ,ShamsutdinovaEZ,Orlovsky NS,etal.2017.Halophytes:Ecological features,globalresources,and outlook for multipurpose use.Herald of the Russian Academy of Sciences,87(1):1-11.   \nSimarmataR,WidowatiT,DewiTK,etal.2020.Isolation,screeninganddentificationofplan growth-promotingedophtic bacteria from Theobroma cacao.Journal of Biology& Biology Education,12(2):155-156.   \nSonalkar VV,MawlankarR,VenkataRamanaV,etal.2O15.Bacilusfilamentosussp.nov.,isolatedfromsedimentsample. Antonie van Leeuwenhoek,107(2): 433-441.   \nTauleé C,Vaz-JauriP,BatistoniF.2O21.Isights intotheearlystagesofplantendophyticbacteria interaction.WorldJoualof Microbiology and Biotechnology,37(1):13.   \nTeng S S,Liu YP,Zhao L.20i0.Isolation,identification and characterizationof ACC deaminase-containing endophytic bacteria from halophyte Suaeda salsa.Acta Microbiologica Sinica,50(11): 1503-1509.(in Chinese)   \nTosiM,GaieroJ,ntonN,etal.01.Bacteraledopytes:diversityfunctial importane,ndpotentialformailatio. In: Gupta VV SR,Sharma A K.Rhizosphere Biology: Interactions between Microbes and Plants.Rhizosphere Biology. Singapore: Springer,1-49.   \nUnnisa SA,RasoolA,MirMI,etal.2O21.Plant growth promotingandantifungalassetofIndigenous izobacteriascluded from safron (Crocus sativus L.) rhizosphere.Microbial Pathogenesis,15o: 104734.   \nWang GJ.2017.Studies on the construction and nutrional relationshipof Cycas panzhihuaensis L.Zhou et S.Y.Yang mycorrhiza system.MSc Thesis.Kunmin: Southwest Forestry University.(in Chinese)   \nWani ZA,Ashraf N,MohiudinT,etal.2O15.Plant-endophyte symbiosis,an ecological perspective.Applied Microbiology and Biotechnology, 99(7): 2955-2965.   \nYahaghi Z,Shirvani M,Nourbakhsh F,etal.2019.Uptakeandefectsofleadand zinconalfalfa(Medicago sativaL.)seed germinationand seedling growth:Roleof plant growth promoting bacteria.South African Journal of Botany,124:573-582.   \nZhao S,ZhouN,WangL,etal.2O13.Halophyte-endophytecoupling:apromising bioremediationsystemforoil-contaminated soil in Northwest China. Environmental Science & Technology 47(21): 11938-11939.   \nZhao S,ZhouN,ZhaoZY,etal.2l6a.Estimationofendophyticbacterialdiversityinrootofhalophytes inNorther Xinjiang by high throughput sequencing.Acta microbiologica Sinica, 56(10):1583-1594.(in Chinese)   \nZhao S,Zhou N,ZhaoZY,etal.2016b.High-throughput sequencing analysisof theendophytic bacterial diversityand dynamics in roots of the halophyte Salicornia europaea. Current Microbiology,72(5): 557-562.   \nZhao S,ZhouN,ZhaoZY,etal.2016c.Isolationofendophyticplant growth-promotingbacteriaassociatedwiththehalophyte Salicornia europaea and evaluation of their promoting activityunder salt stress Currnt Microbiology,73(4): 574-581. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

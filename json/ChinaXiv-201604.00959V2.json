@@ -1,0 +1,583 @@
+[
+    {
+        "type": "text",
+        "text": "生物多样性语义知识抽取研究探索",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘建华12王颖'张智雄」李传席11（中国科学院文献情报中心北京 100190)2（中国科学院大学 北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]拓展以物种为中心的生物多样性知识抽取框架，探索实现语义知识抽取方法[方法]结合当前生物多样性抽取的主流研究，以物种为中心，设计包含多种实体及实体间关系的知识抽取框架，利用已有的众多专业数据库，设计并实现相应的识别方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结果]设计了以物种为核心的知识抽取框架，探索实现了多种实体及实体间关系的语义知识抽取方法，拓展了生物多样性领域抽取内容和思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[局限]本研究实体识别的完整性和准确性受底层知识库影响较大，且实体间关系的类型局限于共现、上下位类、语法关系几类，还需进一步研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结论]拓展了生物多样性领域抽取内容和思路，可有效支持后续的语义检索、科学计算。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生物多样性物种知识抽取关系识别",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on Semantic Knowledge Extraction in Biodiversity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Jianhual,² Wang Yingl Zhang Zhixiongl Li Chuanxi1 1(National Science Library, Chinese Academy of Sciences, Beijing 10o190, China) ²(University of Chinese Academy of Sciences,Beijing10o190, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] It is aimed to expand the knowledge extraction framework in biodiversity, and implement the knowledge extraction method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] This paper designs a knowledge extraction framework with various entities and entity relationships for biodiversity， which combines with current main biodiversity extraction research and takes species as the center.Besides, it implements the knowledge extraction method based on amount of specialized databases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Results] This paper designs a species-central knowledge extraction framework for biodiversity, implements the knowledge extraction method about semantic named entities identification and relationships identification among them, and expands the units and methods for knowledge extraction in biodiversity field. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[limitations] The recall and precision of the knowledge are effected by the dictionaries and rules. Besides, the semantic relationships among named entities are limited in co-occurrence, hierarchical and simple syntactic relationships. All mentioned above should be improved in the future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions] It expands the knowledge units and methods for knowledge extraction in biodiversity. It could support the follow-up semantic retrieval and computation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: biodiversity science; species; knowledge extraction; relation extraction; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着全球气候变暖、各种自然灾害频发等问题，物种灭绝速度越来越快，针对生物多样性保护与持续利用的研究日益成为生物多样性研究的焦点，大量与之相关的研究论文急剧增长。如何帮助科研人员从这些富含了大量物种名称（科学命名、别名、俗名、变种名等）、基因、实验设备等实体的文档中快速发现所需信息，是生物多样性信息学面临的重要问题之一。针对此，越来越多的研究者正努力尝试利用现有众多的生物多样性专业数据库，如物种名录、标本库、图片库、基因库等，从生物多样性描述文本或文献中提取知识对象，并借助语义内容标注技术实现知识对象的自动深层标引，实现数字资源之间的语义集成和关联，从而为进一步的语义检索、数据挖掘、科学计算提供支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在对当前生物多样性信息抽取领域相关研究分析的基础上，结合中国科学院文献情报中心“建设生物多样性领域本体构建与语义组织应用示范平台”的实际要求，设计了生物多样性语义知识抽取框架，探索实现了相应的语义知识抽取方法，开发了相应的生物多样性示范平台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2相关研究概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在众多研究者的努力下，目前已经出现了不少针对生物多样性领域的信息抽取工具，这些工具或者采用单一的自然语言处理、词典、机器学习、规则模板、浅度或深度句法解析、概率分类等方法，或者融合上述几种方法进行识别，识别的内容多数集中于物种的各类名称（科学命名、别名、俗名、变种名等），部分工具涉及对物种的性状的识别。AnneE.Thessen 等人在文献1中综述了当前在生物多样性领域使用自然语言处理和机器学习算法实现物种名称识别的的相关研究，NonaNaderi等人在文献2中集中介绍了GATE框架下提供的生物医学领域的各种工具。上述文献对常规的生物多样性信息抽取流程，主流的信息抽取方法（基于词典、基于规则、浅度句子解析、深度句法解析等）进行了全面的评述，并对各个阶段的主要信息抽取工具进行了全面的综述。本文将不再对上述内容进行重复介绍，而是结合当前一些重要的生物多样性信息抽取工具，重点对生物多样性领域抽取的内容进行探讨，希望在此基础上对笔者进一步提出生物多样性知识抽取框架提供参考支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在目前生物多样性抽取研究中，主要抽取内容可以归纳为以下几个方面：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1物种名称识别及规范",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于语种、地方称谓等的差异，科技文献中出现的同一个物种名称是多种多样的。有的是标准规范的双名制命名法（或三名制命名法）形成的拉丁文名，即属名加种名（若是亚种则在种名前再加上一个亚种名），且属名在前，种名在后，属名第一个字大写，种名小写，属种名称均为全称，后面通常还会跟随着物种命名人的姓氏；有的采用取属名首字母、种名全称的缩写方式；有的会采用物种的俗名（可能是英文，也可能是其他语种，同一个物种在不同的国家或地区也可能会有不同的俗名）[4]。这些问题的存在大大增加了物种名称识别的难度。因此目前有不少研究者专门针对物种名称的识别、规范及组织进行了研究，这也是当前生物多样性抽取相关研究的主流。这些研究中产生的研究成果中比较典型的包括可用作物种名称识别与规范词典的NCBItaxonomy[5]、BioNamesl（一个将动物名称与其来源描述、分类及进化树关联的在线数据库）、物种2000全球生物物种名录7，也包括各种比较成熟物种名称识别工具如 NetiNeti[8]、Linnaeus[4]、OrganismTagger[9]、TaxonGrab[0]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2物种性状识别 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对物种分类学研究人员而言，物种的各类性状描述信息，如根、茎、叶的颜色、长度等，是界定物种门类的重要参考信息。因此，有一部分生物信息学研究人员着力于探索物种各类性状的自动识别方法。Taylor[在分析文本语法特征的基础上,以人工方式建立规则和词典,实现了物种部位、特征及状态等描述信息的识别。Tang[12]等在相关研究基础上，通过预定义模板的方式，有监督地学习生成相关的规则，实现了对物种叶子的形状、大小、颜色、排列及果实的形状特征的识别。HongCuil3等人开发的CharaParser采用启发式方法和句法特征生成规则，较好地实现了对物种多类性状的识别。段宇锋等人[4持续探索着中文植物物种多样性描述文本中形态信息的抽取。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3生物网络识别[5]",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各种生物实体（物种、分子、基因、蛋白等）之间存在着多种关系，这些关系可以用网络图的方式表达出来，进而通过对图的分析实现对生物系统的分析[。蛋白质和基因是生物医药领域普遍关注的重点内容，关于这类知识的识别研究并不限在生物多样性领域开展。当前生物多样性相关的文献中，研究人员可通过对物种基因测序的方式来鉴定物种的亲缘性，也可通过采用蛋白质或基因技术影响或改变生物的内外环境或特征，从而研究相关问题。因此，对蛋白质和基因的识别更多地不仅仅是识别出蛋白质、基因等命名实体单元，而是识别出各类生物实体之间通过动词（或动词短语）、介词（或介词短语）、所有格等关联而成的生物网络关系。在此基础上可进一步开展资源的重组织、语义检索、计算分析等工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3语义知识框架设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上文对当前生物多样性抽取领域当前重点关注的抽取内容及其相关的资源工具进行了分析。结合中国科学院文献情报中心“建设生物多样性领域本体构建与语义组织应用示范平台”的实际要求，从实际应用的角度出发，在人工标引了100篇生物多样性领域的科技文献后，笔者以物种为核心，综合分析了当前生物多样性领域研究中可能涉及的与物种研究相关的知识单元类型，各知识单元类型之间的关联关系，设计了如图1所示的生物多样性语义知识框架，该语义知识框架是进一步支持笔者开展知识抽取、知识组织的基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图中可以直接看出，笔者的知识框架中包含了两个方面的语义知识：语义知识单元、语义知识单元之间的语义关联。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1语义知识框架中的知识单元",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里的知识单元即图1每个文本框中列出的语义类型，在实际的科技文献中，这些知识单元往往以命名实体名称或短语的形式表达出来，将科技文献中提及的命名实体名称或短语以图1中定义的语义类型进行标注，即可实现该语义单元的识别。图1中所有的知识单元语义类型均以图中心的物种为核心，这些类型覆盖了物种的各个方面，包括名称、分布、特征、生长发育阶段、影响因素等，部分大的分面上还有其进一步细分的下级类，部分分面会共有一些语义单元。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物种名称。包括各种物种名称、变种名称、品种名称、变型名称、物种的各种俗名。物种特征。包括各类物种的器官、细胞、基因等。物种分布。这里的物种分布包括地理区域上的分布，同时还包括不同生态环境下的分布，因此，该方面的知识单元除了洲、国、地区、城市、县等地理名称外，还包含生物群落、地貌、物理环境（高度、温度、湿度等）。物种生物发育阶段。包括物种的发育阶段、物种各器官的发育阶段。$\\bullet$ 对物种产生影响的因素。能对物种产生影响的包括非生物因素和生物因素两类，其中，非生物因素包括温度、湿度、海拔高度、土壤等，生物因素则包括各种细胞、染色体、蛋白质、DNA、基因片段、化学元素、化合物等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 对物种分类的各种标准和生态位模型工具。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 对物种实验的各种分析方法及设备仪器$\\bullet$ 其它基本信息。包括人、机构及目前无法确定明确语义的名词短语",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这些知识单元基本上涵盖了当前生物多样性，尤其是物种多样性研究中的主体知识单元，它们构成了相关研究的主要知识点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2语义知识框架中的语义关联",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上文中分析的这些知识单元并不是以独立的形式存在于科技文献中，他们彼此之间往往还存在着各种语义关联，结合这些语义关联才能够最大化地利用这些知识单元实现深层的文本内容挖掘。在本文定义的语义知识单元中，笔者根据实际应用及后续能够识别出来的现实情况，定义了有限的几种语义关联，这些语义关联可以作为事实三元组支持进一步的文本分析。例如：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "<生物因素/非生物因素 $\\mathrm { > }$ 在<物理环境 $\\mathrm { > }$ 下  \n<生物因素/非生物因素 $\\mathrm { > }$ 作用于<物种/器官/细胞>  \n<生物因素/非生物因素 $\\mathrm { > }$ 作用于<生物阶段>  \n<分析方法/仪器设备 $\\cdot >$ 作用于<物种/器官/细胞>  \n<物种/器官/细胞 $>$ 呈现的<生物特征>  \n<物种/器官/细胞 $>$ 的 $<$ 生物阶段>  \n<物种 $\\triangleright$ 分布于<分布区域>  \n<分布区域 $>$ 的 $$ 地貌、植被、土壤等特征>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3其它",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了上述在知识框架图中明显展示出来的两个方面的语义知识外，笔者注意到，在实际的科技文献中还存在不少有分析价值的语义标注。根据人工标引的科技文献，笔者发现，有不少知识无法简单地以某个知识单元或某个知识单元间关联关系的形式展示出来，比如一个完整的实验条件（如化学元素的浓度与温度控制综合作用的实验条件）、一个完整的实验过程等，这些知识可能包含了多个知识单元和知识单元间的关联关系。针对这些内容，笔者可以采用知识句群的方式进行表达，即将关联密切的多个短语或短句组织在一起，以保证知识的完整性。依据他们的内容，可以简单将这类知识划分为：方法、过程、结果几类。这些内容与上述的两类语义知识共同构成了生物多样性语义知识框架。针对这一部分知识的识别方法将在后续的研究中进一步阐述，下文将围绕前两类知识的识别展开实验探索。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb94262c2aa31f3d22b83e75531867067481ee075fa5874ad8486db5b6ef28c7.jpg",
+        "img_caption": [
+            "图1生物多样性语义知识框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4语义知识抽取的实现 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于上文定义的生物多样性语义知识框架，笔者尝试利用词典、规则、句法分析等综合方法，从检索获取的生物多样性相关的科技文献摘要中，识别出知识框架中定义的知识单元和知识单元间的关联关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1实验数据及语料的选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了探索生物多样性领域的知识抽取，笔者从pubmed数据库的PlantPhysiology、ThePlantCell两个期刊上获取了23000 篇左右的期刊文摘，并根据中国科学院植物研究所提供的20种核心期刊列表，从WOS获取了27049条科技文摘数据。本研究将设计相应的方法来识别出这些摘要中提及的语义知识。为了提升本研究识别的效率，笔者通过专家咨询及参考中科院植物研究所的相关研究[1]，收集整理了可作为信息抽取词表的相关语料，主要包括：植物所提供的G2000 植物本体数据库、NCBI物种库、UMLS中的相关领域术语和词汇、地址名称词表、Chemical Entities of Biological Interest中的小化合物名称等，这些领域资源将作为实体名称识别的重要支撑。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2知识抽取框架的设计",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更好地实现知识单元及知识单元间关系的识别，笔者设计了图2所示的知识抽取框架，具体步骤描述如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cbdc86d6033613f17abcf4a1d905b2f969597af76e3cd1b50b71b08f586ee5d.jpg",
+        "img_caption": [
+            "图2语义知识抽取框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1） 输入数据源",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "主要包括待抽取的科技文献及相关领域资源（植物多样性本体、NCBI物种库等）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2） 抽取工具及方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过采用不同的自然处理工具（包括 Stanford Parser、BerkerlyParser等），实现对文本的词性标注、句法依存关系分析及句子的语法语义分析。通过结合不同的抽取规则和距离度量算法，实现句子中的实体与关系的识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3） 实体抽取与关系抽取 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实体抽取与关系抽取之间是一个交叉迭代实现的过程，一方面，实体抽取过程的本身是一个迭代过程，新识别的命名实体添加到用户词典中，用于下一轮的实体识别过程；另一方面，关系抽取的结果也可以用于发现新的实体，新发现的实体用于下一轮的关系发现过程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4） 信息抽取结果存储",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据信息抽取结果类型的不同，采用RDF存储和数据库存储两种方式实现实体及关系的存储。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3知识抽取的流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）知识单元的标注与抽取",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "命名实体的识别主要方法包括基于词典和规则的方法，以及基于统计的方法等。在这里，笔者采用的命名实体识别方法以词典为基础，采用基于规则和统计方法相结合，实现新实体发现识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1基于领域词典的实体标注。对领域资源进行分析提取，形成可用于命名实体抽取的领域词典，实现对科技文献中所涉及的实体标注。在具体实现过程中，严格按照词典进行标注，获取实体在句子中的相关信息，如图3所示，彩色部分为标注结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2基于词典相似性的新实体识别。基于词典的命名实体识别无法解决未登录词的问题，通过识别文本中含有的命名实体，并计算其与词典中命名实体之间的距离，实现对一些未登录词的识别。对于上例中，Solanum section Petota作为一个整体出现表示一个命名实体，而基于词典的方法则只识别了Solanum，则可以通过相似性扩展，实现规范的实体识别，从而实现实体 sect.Petota 的识别。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Species boundaries were assessed by phenetic analyses of morphological data for all species of wild potatoes (Solanum section Petota) assigned to ser. Longipedicellata: S. fendleri, S. hjertingii, S. matehualae, S. papita, S. polytrichon, and S. stoloniferum. These six tetraploid species grow in the southeastern United States (S. fendleri) and Mexico (all six species). We also analyzed morphologically similar species in ser. Demissa (S. demissum) and ser. Tuberosa (S. avilesii, S. gourlayi, S, verrucosum). We chose S. verrucosum and S. demissum as Mexican representatives, and S. avilesii and S. gourlayi as South American representatives of other series that are difficult to distinguish from ser. Longipedicellata. We also analyzed morphologically more dissimilar species in ser. Tuberosa (S. berthaultii) and ser. Yungasensia (S. chacoense). The results support only three species in ser. Longipedicellata: (1) S. polytrichon, (2) S. hjertingii $+ \\thinspace \\mathbf { S }$ . matehualae, (3) S. fendleri + S.papita + S. stoloniferum. Solanum avilesii, S. gourlayi, and to a lesser extent S. demissum and S. verrucosum are very similar to members of ser. Longipedicellata and are difficult to distinguish practically from them, despite differences in chromosome numbers and crossability relationships. These data help document and explain the extensive taxonomic difficulty in sect. Petota, highlight conflicts between biological and morphological species concepts, and add to a growing body of evidence that too many wild potato species are recognized. (1192769) $\\pmb { \\mathcal { S } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3基于语法关系的新实体识别。文本中出现的有些实体通过上述两种方法仍然无法辨识，例如 ser.Longipedicellata, ser.Tuberosa,ser.Yungasensia，S.matehualae。对于这些词的识别，通过分析句子的句法依存关系及语法关系（并列的句子成分），结合统计分析算法，可以实现命名实体的识别。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4实现文献中术语的标识。除了文本中包含的命名实体，领域的术语具有提示文献内容的重要作用，因此术语的识别有助于为用户提供文献内容的直接简洁的认知。通过词法分析方法（名词词组等）对文献中出现的重要术语进行标注，如： Species boundaries, phenetic analyses, morphological data, tetraploidspecies 等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5地理位置的识别。对于此类可穷尽的地理位置信息，通过地理词典实现包括城市、国家等信息的识别，例如：Mexican，South American,United States。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6数字信息的识别。主要是识别文本中含有的数值相关信息，如年份、日期、实验数据，以及相关的描述数值等，此类信息主要可借助构词法规则、特殊数值词典等实现。如对图1中的文本，可以识别出 six tetraploid species，threespecies。而对于文本“The inhibition constant values were O.46 (using acetolactate assubstrate) and 0.19 [mu]M (acetohydroxybutyrate),respectively.”则可以识别其中所包含的0.46和 $0 . 1 9 [ \\mathrm { m u } ] \\mathrm { M }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7实体属性标注。除了标注命名实体以外，对于识别出的命名实体的描述信息进行标注，可以更加全面的提示命名实体所包含的信息。通过分析命名实体出现的上下位语境信息（特定语法规则、句法依存规则等），可实现实体属性的标注。例如文献中含有词组wild potatoes，命名实体识别可识别出potatoes，通过NP 名词组块的句法依存关系，可将wild标注为该实体的属性，从而为用户提供更为精确的信息。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）关系的抽取",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1多层级的共现关系。在不同位置的共现关系可以用于计算实体之间的关联关系。本研究中重点考虑了命名实体在标题、摘要及句子级的共现关系，通过分析标注出的命名实体出现的位置，可以获取实体之间的共现关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "句子级共现： ${ \\bf \\zeta } < { \\bf S }$ .fendleri, S.hjertingii $> , < \\mathsf { S }$ . hjertingii, S. matehualae $\\mathrm { > } , < \\mathsf { S }$ . verrucosum， S. demissum $> , <$ Solanum avilesii, S. stoloniferum $\\mathrm { > } , < \\mathsf { S }$ . fendleri , S. papita $>$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 摘要级共现： $\\prec$ potatoes, S. berthaultii $> , < \\mathsf { S }$ . stoloniferum，S.fendleri $\\mathrm { > } , < \\mathsf { S }$ . fendleri, S. verrucosum $\\mathrm { > } , < \\mathsf { S }$ . gourlayi，S.avilesii $\\mathrm { > } , < \\mathsf { S }$ . demissum，S.fendleri $>$ .. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2实体的同位语法关系抽取。针对如上例子，得到如下结果：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同位语关系： ${ \\bf \\zeta } < { \\bf S }$ .verrucosum，S.avilesii $> , < \\mathsf { S }$ gourlayi, S.avilesii $> , < \\mathsf { S }$ fendleri, S. matehualae $>$ ,<Solanum section Petota ，wild potatoes $>$ 等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3实体的并列语法关系抽取。针对如上例子，得到如下结果：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "并列关系： ${ < } \\mathrm { S }$ .matehualae , S.stoloniferum $\\mathrm { > } , { < } \\mathrm { S }$ . polytrichon, S. hjertingii $\\mathrm { > , < S }$ .fendleri, S.stoloniferum $\\mathrm { > } , \\mathrm { < } \\mathrm { S }$ . hjertingii , S. papita $>$ ,<lesser extent S. demissum,S.verrucosum $\\mathrm { > } , { < } \\mathrm { S }$ .hjertingii， S.stoloniferum $>$ 等。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4事实关系识别。在标题、摘要中存在的 ${ < } \\mathrm { S }$ ,P, $\\mathrm { o } \\mathrm { > }$ （主语，谓词，宾语）事实，可为后续的关系推理提供重要的支持，这一类的事实包括通用型事实与植物本体中定义的事实关系，借助于句法依存关系分析、本体映射，对上例（1192769）文本进行抽取，可以得到如下结果：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ <\"We\",\"also analyzed morphologically\",\"similar species\"> <\"These data\",\"explain the extensive taxonomic difficulty in\" ,\"sect. Petota \"> <\"South American representatives of other series\",\"are difficult to distinguish from\",\" Longipedicellata \"> <\"These six tetraploid species\",\"grow in\",\"the southeastern United States（S. fendleri） and Mexico\" $>$ <\"We\",\"also analyzed morphologically\",\"more dissimilar species\" $>$ <\"Species boundaries\",\"were assessed by\",\"phenetic analyses of morphological data\" $>$ （204号 <\"a lesser extent S. demissum and S. verrucosum\",\"are very similar to\",\"members of ser.Longipedicellata \"> <\"The results\",\"support only\",\"three species\"> ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5语义上下位关系的发现。通过采用基于规则的方法，可以发现术语之间的语义上下位关系，如下例所示：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“CSS grass margins could be improved as butterfly habitats if they are linked to existing habitats such as hedgerows,are sown with a better range of native grasses and herbs and are managed in a way more conducive to wildlife.( 1196577)\" ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可以标识出hedgerows 是于hedgerows 的下位术语，即<hedgerows,hypogyny,habitats $>$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ “ We investigated all sections of genus Cochlearia recognised in the most common concepts,as well as some genera such as Ionopsidium, Bivonaea, Pastorea and Thlaspis.( 1205921)\" ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "可以标识出 Ionopsidium,Bivonaea,Pastorea 和 Thlaspis 是 genera 的下位术语,即<Ionopsidium, hypogyny ， genera>， $\\prec$ Bivonaea, hypogyny， genera $>$ ，<Pastorea, hypogyny , genera $>$ ，<Thlaspis, hypogyny ， genera>。物种性状关系识别。例如：wild potatoes，可以标注出 potatoes 具有属性wild,即<potatoes,have property ， wild>。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.4知识抽取的结果应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以领域词典和人工为主撰写的规则库为重要的知识库支撑的知识抽取方法虽然在领域快速迁移与新物种或新知识单元识别的灵活性方面有所欠缺，但是其准确性可以得到有效的保障，从而进一步支撑实际的知识检索应用。基于上述知识抽取的结果，综合利用领域知识库和其它第三方资源，笔者进一步构建了生物多样性领域语义检索的应用示范平台，为用户提供领域知识揭示、语义标注、本体导航等检索应用。图4-图7展示了相关的抽取结果和对生物多样性领域语义检索的支撑结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/095e3a29bc4bbc6066f7c99f1e73d60be35a5b5e5d754ce8b86e0d86ca3e8bea.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>identfier</td><td>nerName</td><td>nerldentfier</td><td>nerType</td><td>iteralldetfier</td><td>literalZone</td><td>nerStart</td><td>nerEndlanguage</td><td></td><td>annotatedTime</td><td>sourceDictionay</td></tr><tr><td>1</td><td>1c1f16cc6526b1af886d58ba9d18c1eb3-711</td><td>Illciaceae</td><td>[100466]</td><td>family</td><td>1188180</td><td>Abstract_En</td><td>108</td><td>119</td><td>En</td><td>2014-05-0618:01:35.887</td><td>PDBOmtogy</td></tr><tr><td>2</td><td>1c1f423b28d8bd4c94f49aa239a205eb3-711</td><td>Pinus</td><td>[119655]</td><td>genus</td><td>1207118</td><td>Abstract_En</td><td>1827</td><td>1832</td><td>E</td><td>2014-05-0618:46:40.107</td><td>PDBOntology</td></tr><tr><td>3</td><td>1c1f7cd13077ed8b27a698cf9e64121b3-711</td><td>CAM</td><td>[100776]</td><td>photosynthesis</td><td>1200656</td><td>Abstract_En</td><td>720</td><td>723</td><td>E</td><td>2014-05-0618:32:08.980</td><td>PDBOntoogy</td></tr><tr><td>4</td><td>1c1ffe5f5562d2175f46059367abbd3-711</td><td>fruit</td><td>[74459, 77005]</td><td>plantanatomical entity</td><td>97576</td><td>Abstract_En</td><td>847</td><td>852</td><td>E</td><td>2014-03-24 20:16:09.747</td><td>Ortology_AcceptedName</td></tr><tr><td>5</td><td>1c1f893d0da4aa38e58d648d124020e43-711</td><td>air</td><td>[28859]</td><td>environmentalfeaturesandhabitats</td><td>493815</td><td>Abstract_En</td><td>369</td><td>372</td><td>En</td><td>2014-03-24 20:09:41.420</td><td>Ontology_AcceptedName</td></tr><tr><td>6</td><td>1c1fb09e509787ad85d6e217f1a3cd0a3-711</td><td>tree</td><td>[100272]</td><td>habit</td><td>1189817</td><td>Abstract_En</td><td>533</td><td>537</td><td>E</td><td>2014-05-0618:05:28.857</td><td>PDBOntology</td></tr><tr><td>7</td><td>1c1fc577eeb3fd38d1a0f4c8b8fe5c763-711</td><td>fower</td><td>[74215,77067]</td><td>plant anatomical entity</td><td>392336</td><td>Abstract_En</td><td>807</td><td>813</td><td>En</td><td>2014-03-24 19.57:39.607</td><td>Ontology_AcceptedName</td></tr><tr><td>8</td><td>1c1fd00a8b102a9fac2be043727056553-711</td><td>polyacrylamidegel electrophoresis</td><td>[18137]</td><td>Laboratory Procedure</td><td>872257</td><td>Abstract_En</td><td>926</td><td>960</td><td>E</td><td>2014-03-2420:11:34.107</td><td>Ontology_AcceptedName</td></tr><tr><td>9</td><td>1c1fd5643e82df384d6b1b86a5b8f193-711</td><td>gynodioecious</td><td>[120606]</td><td>plantFlowerSexualty</td><td>1199605</td><td>Abstract_En</td><td>396</td><td>409</td><td>E</td><td>2014-05-0618:29:21.450</td><td>PDBOntology</td></tr><tr><td>10</td><td>1c1ff08ca5c5e40c48410422cfc2b2c03-711</td><td>water</td><td>[28245]</td><td>environmentalfeatures and habitats</td><td>488969</td><td>Abstract_En</td><td>74</td><td>79</td><td>E</td><td>2014-03-24 20:09:08.810</td><td>Ortology_cceptedName</td></tr><tr><td>1</td><td>1c20c402af3a996396bd6767503977323-711</td><td>Calathea</td><td>[113630]</td><td>genus</td><td>1207930</td><td>Abstract_En</td><td>920</td><td>928</td><td>E</td><td>2014-05-0618:48:41.590</td><td>PDBOntology</td></tr><tr><td>12</td><td>1c2293d5ebf1f23fa89eed9033ee1efb3-711</td><td>biota</td><td>[118360]</td><td>genus</td><td>1203263</td><td>Abstract_En</td><td>142</td><td>147</td><td>E</td><td>2014-05-0618:39:28.230</td><td>PDBOntolgy</td></tr><tr><td>13</td><td>1c22dbcd77afe67c4b5c94a169b92ab3-711</td><td>tree</td><td>[100272]</td><td>habit</td><td>1201832</td><td>Abstract_En</td><td>310</td><td>314</td><td></td><td>2014-05-0618:35:11.340</td><td></td></tr><tr><td>14</td><td>1c22f3289c92f2cd943e2af73f4cd7893-711</td><td>Arabidopsis</td><td>[58496]</td><td>genus</td><td>476296</td><td>Abstract_En</td><td>1522</td><td></td><td>En</td><td></td><td>PDBOntolgy</td></tr><tr><td>15</td><td>1c22fc501be7317101ba6b275d07ac613-711</td><td></td><td>species:ncbi:...</td><td>species:ncbi:4530</td><td>83442</td><td>Abstract_En</td><td>573</td><td>1533</td><td>E</td><td>2014-03-242004:33.247</td><td>Ontology_AcceptedName</td></tr><tr><td>16</td><td>1c230443428af4deeaab25c19b32f78f3-711</td><td>rice Phoebe</td><td>[114415]</td><td></td><td>1178927</td><td>Title_EN</td><td>35</td><td>577</td><td>E</td><td>2014-03-24 19:49:10.793</td><td>NCBI</td></tr><tr><td>17</td><td>1c23a70c79196895d1d5b631c4f1698b3-711</td><td></td><td>[120001]</td><td>genus</td><td>1187812</td><td>Abstract_En</td><td>83</td><td>41</td><td></td><td>2014-05-07 08:53:03.950</td><td>PDBOntology</td></tr><tr><td>18</td><td>1c23b9dc27ae3ebdf31947b3e790409b3-711</td><td>Quercus Primula</td><td>[117847]</td><td>genus</td><td>1201740</td><td>Title_EN</td><td>45</td><td>90</td><td>E</td><td>2014-05-0618:00:43.760</td><td>PDBOntolgy</td></tr><tr><td>19</td><td>1c23cOfb3344762f69d497125e260a7d3-711</td><td></td><td>[30686.31557]</td><td>genus plantGynoeciumCarpelFusionplan..</td><td>497987</td><td>Abstract_En</td><td>367</td><td>52 371</td><td>E</td><td>2014-05-07 09.05:07.497 2014-03-2420:10:21.277</td><td>PDBOntogy</td></tr><tr><td>20</td><td>1c23ce608354a2f98c90c0c420f43153-711</td><td>free Nicotana</td><td>[61964]</td><td>genus</td><td>284748</td><td>Abstract_En</td><td>117</td><td>126</td><td>E 印</td><td>2014-03-24 19:55:03.920</td><td>Ortology_AcceptedName</td></tr><tr><td>21</td><td>1c23d9210e452e345a0209c2f5d31cb83-711</td><td>Arabidopsis thaliana</td><td>species.ncbi...</td><td>speciesincbi:3702</td><td>100210</td><td>Abstract_En</td><td>0</td><td>20</td><td>E</td><td>2014-03-24 19:44:39.073</td><td>Ortology_AcceptedName</td></tr><tr><td>22</td><td>1c243b3fd2d6b0695d0fe9f7ba21593c3-711</td><td>parenchyma</td><td>[78436]</td><td>plant anatomical entity</td><td>485844</td><td>Abstract_En</td><td>1160</td><td>1170</td><td>En</td><td>2014-03-2420:07:27.420</td><td>NCBI Ontology_AcceptedName</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/493e596a15f005254266fd17e9ff7c8d4f5ef62be8b114e5e51d0e9945a35b0d.jpg",
+        "table_caption": [
+            "图4生物多样性领域实体抽取结果示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Identifier</td><td>nerName1</td><td>nerldentifier1</td><td>nerName2</td><td>nerldentifier2</td><td>relationType</td><td>relation</td><td>Iteralldentifier</td><td>zone</td><td>annotatedTime</td></tr><tr><td>1</td><td>8bae15224b78...</td><td>French oceanographicresearch centre</td><td>3030235e66f3dead...</td><td>IFREMER</td><td>fa381f7a5f6614e8cc..</td><td>semantic_relation</td><td>apposition_relation_.</td><td>1196111</td><td>Abstract_En</td><td>2014-05-2017:10:25.35</td></tr><tr><td>2</td><td>8bb25163d769...</td><td>SH</td><td>ec5704f0d56945d1...</td><td>Shimodaira-Hasegawa</td><td>342883ef1cb34ccc...</td><td>semantic_relation</td><td>apposition_relation_.</td><td>1193127</td><td>Abstract_En</td><td>2014-05-2017:10:33.18</td></tr><tr><td>3</td><td>8bb47cb7bdce...</td><td>subtropical woody dwarf bamboo</td><td>fbcc164889a6a06f...</td><td>Nakai</td><td>02497673db92a38c...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1203822</td><td>Abstract_En</td><td>2014-05-20 17:07:30.96</td></tr><tr><td>4</td><td>8bb68f1704fad..</td><td>Sierra Madre Occidental</td><td>5c41d49097eea0d...</td><td>OrientalSocoriusco__Sierra_Madre</td><td>ee153c4e8e7e2e8c...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1178780</td><td>Abstract_En</td><td>2014-05-2016:40:23.82</td></tr><tr><td>5</td><td>8bbb593de701...</td><td>P integnfolia L</td><td>072f654cc737aa8c..</td><td>P.balbisi Lehm.</td><td>aa3949699bc62dc4..</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1179007</td><td>Abstrad_En</td><td>2014-05-20 17:12:27.01</td></tr><tr><td>6</td><td>8bc1fe28dca05.</td><td>Onobrychis</td><td>8fc9146e40ab39a1...</td><td>Alhagi Tavemiera</td><td>df40b1e1a63707e6e..</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1207684</td><td>Abstract_En</td><td>2014-05-20 17:13:01.46</td></tr><tr><td>7</td><td>8bc355a1da1...</td><td>information</td><td>bb3ccd5881d6514..</td><td>species</td><td>cd3d20b946198768...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1196134</td><td>Abstrac_En</td><td>2014-05-20 17:01:29.97</td></tr><tr><td>8</td><td>8bc515af0398d...</td><td>ndhF</td><td>6b02b9d3db40885..</td><td>DNAsequencedata</td><td>bb42b6f90caf321c...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1207965</td><td>Abstract_En</td><td>2014-05-2017:06:18.14</td></tr><tr><td>9</td><td>8bc5eace07a0...</td><td>ndhF</td><td>6b02b9d3db40885...</td><td>matK</td><td>4745ad295a52c4b3...</td><td>semantic_relation</td><td>apposition_relation_...</td><td>1200919</td><td>Abstract_En</td><td>2014-05-2017:12:54.02</td></tr><tr><td>10</td><td>8bc7f2a202785..</td><td>leafarea</td><td>d4f8433741e3ba73....</td><td>leaves</td><td>79f7d2ef17285d43e..</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1201783</td><td>Abstract_En</td><td>2014-05-20 16:37:08.26</td></tr><tr><td>11</td><td>8bcSfe23ee2ec..</td><td>Plantaginaceae</td><td>5f62b8dbb4ef4738...</td><td>Pseudolysimachion</td><td>a1a02052eb5cc69e...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1178313</td><td>Abstrac_En</td><td>2014-05-2017:07:27.66</td></tr><tr><td>12</td><td>8bcd9559504c...</td><td>seed bank gemination</td><td>723eefd9e9f70dD3...</td><td>seed dispersal</td><td>c6de66f094a23dd2f...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1200247</td><td>Abstradt_En</td><td>2014-05-20 16:48:32.28</td></tr><tr><td>13</td><td>8bd0544671ad...</td><td>Neogroleoideae</td><td>ee2cccf858b71289..</td><td>relationships</td><td>eaa7c88f5c1246724...</td><td>semantic_relaton</td><td>apposition_relation_..</td><td>1206711</td><td>Abstract_En</td><td>2014-05-2017:13:41.76</td></tr><tr><td>14</td><td>8bd073b1f9aeb..</td><td>PS-1</td><td>e6ab54a04498e91...</td><td>Soybeanpartialfemale-sterilemutant1</td><td>6d8311de4515f5701..</td><td>semantic_relation</td><td>apposition_relation_.</td><td>1191122</td><td>Abstract_En</td><td>2014-05-2017:13:05.92</td></tr><tr><td>15</td><td>8bd162c3b06c...</td><td>standing leaf_numbers</td><td>736f15f2f2edc459...</td><td>significant_sun leaf _thickness</td><td>ecbcb3b5229b3c3...</td><td>semantic_relation</td><td>apposition_relation_.</td><td>1189919</td><td>Abstract_En</td><td>2014-05-2016:38:20.41</td></tr><tr><td>16</td><td>8bd561bab28...</td><td>var</td><td>b2145aac704ce7.6...</td><td>varleties</td><td>1a1d4cbfac4d95fe...</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1205370</td><td>Abstract_En</td><td>2014-05-2016:37:47.86</td></tr><tr><td>17</td><td>Bbd8bcf9f183c...</td><td>ITS</td><td>fcdb76644228e946...</td><td>spacer</td><td>ddd37dfc736f0674..</td><td>semantic_relation</td><td>apposition_relation_..</td><td>1194070</td><td>Abstract_En</td><td>2014-05-2017:13:41.89</td></tr><tr><td>18</td><td>8bdcdd3d7b14...</td><td>databasemanagement options</td><td>86e4019938c8cc...</td><td>monitoring approaches</td><td>a8527b789cbcb72...</td><td>semantic_relation</td><td>apposition_relation_</td><td>1197641</td><td>Abstract_En</td><td>2014-05-2017:13:39.48</td></tr><tr><td>19 20</td><td>8bdfc3d61c5ac.. 8be03debd9b.5...</td><td>Desmos saccopetaloides complete deletion</td><td>aea2574f55fd4950f. 5df27a4d4ddb4900...</td><td>China</td><td>ae54a5c026f31ada0...</td><td>semantic_relation</td><td>apposition_relation_</td><td>1187069</td><td>Abstract_En Abstract_En</td><td>2014-05-2016:34:38.94</td></tr><tr><td></td><td></td><td></td><td></td><td>pAs1-FISH pattems</td><td>991fb99dbcc4f7087...</td><td>semantic_relation</td><td>apposition_relation_</td><td>1206166</td><td></td><td>2014-05-2017:11:03.71</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5Newtriterpene saponins from the rootof llex pubescens   \nFitoterapia,Volume81,Issue7,October2010,Pages788-792   \nCui-Xian Zhang,Chao-Zhan Lin,Tian-QinXiong,Chen-Chen Zhu,Jin-YanYang,Zhong-Xiang Zhao   \nAbstract   \nTwonewriterpeneglycosides namedilexpublesninA（1)andilexpublesninB（2)were isolatedfromtherootof 28-0-(β-D-glucopyranosyl)-3β, 检索操作 详细信息 统计信息 →1)-β-D-glucopyranosyl)-3β, 重新检索“triterpeneglycosides\" scopicmethods. 二次检索oR“triterpen·eglycosides\" 二次检索AND“triterpen·eglycosides” 二次检索ANDNOT“triterpeneglycosides” ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/9352fb6c7cac94f33f77d5de30e613d6d1cf8ba67b95155f1121c05624c2df6c.jpg",
+        "img_caption": [
+            "图6基于本体概念或实体的知识浏览、检索与统计分析功能",
+            "图7基于语义知识抽取的单篇文章共现关系知识图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文在对当前生物多样性信息抽取领域相关研究分析的基础上，结合中国科学院文献情报中心“建设生物多样性领域本体构建与语义组织应用示范平台”的实际要求，设计了生物多样性语义知识抽取框架，并利用十二五科技支撑计划“面向外文科技文献信息的知识组织体系建设与应用示范(STKOS)\"构建的植物多样性本体作为底层的词典，探索实现了相应的语义知识抽取方法，开发了相应的生物多样性示范平台。本研究更多从实际应用的层面探索了可工程化应用的知识组织框架及知识识别的方法，因此，词典和人工撰写的规则是本研究中开展知识抽取的重要组成部分，正因为此，词典和人工规则本身所固有的局限性也在一定程度上限制了识别的完整性和准确性，在后续的研究中，针对各类型知识单元的精细化识别仍将是重要内容。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Anne ET,Cui H, Mozzherin D.Applications of Natural Language Processing in Biodiversity Science[J]. Hindawi Publishing Corporation Advances in Bioinformatics,2012,doi:10.1155/2012/391574   \n[2] Naderi N., Kappler T,Baker J.O C,et al. OrganismTagger: Detection, Normalization and Grounding of Organism Entities in Biomedical Documents[J].Bioinformatics. 2011,27(19):2721-9   \n[3] Species[EB/OL].[2016-04-12].http://en.wikipedia.org/wiki/Species   \n[4] Gerer M,Nenadic G,Bergman CM.LINNAEUS:A Species Name Identification System for Biomedical Literature[J],BMCBioinformatics, 2010(11):85   \n[5]The NCBI Taxonomy Homepage[EB/OL].[2016-04-12].   \nhttp://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/   \n[6]Page RDM. (2013) BioNames: linking taxonomy, texts,and trees.PeerJ1:e190   \nhttp://dx.doi.org/10.7717/peerj.190.   \n[7]Species 2000[EB/OL].[2016-04-12]. http://www.catalogueoflife.org/annual-checklist/2014/   \n[8] Akell L M,Norton CN, Miller H.NetiNeti: discovery of scientific names from text using machine learning methods[J].BMC Bioinformatics.2012(13):211   \n[9] The OrganismTagger System[EB/OL].[2016-04-12]. http://www.semanticsoftware.info/organism-tagger [10]Koning D, Sarlar IN,Moritz T.Taxongrab: Extracting Taxonomic Names from Text[J].Biodiversity Informatics,2005(2):79-82   \n[11]Taylor A.Extracting Knowledge from Biological Descriptions [C]. In: Proceedings of the 2nd International Conference on Building and Sharing Very Large-Scale Knowledge Bases.1995:114-119   \n[12]Tang X,Heidorn PB. Using Automatically Extracted Information in Species Page Retrieval [OL].[2016-03- 29]. http://www.tdwg.org/proceedings/article/view/195/   \n[13] Cui H. CharaParser for Fine-grained Semantic Annotation of Organism Morphological Descriptions [J]. Journal of the American Society for Information Science and Technology,20l2, 63(4): 738-754   \n[14]段宇锋,黄思思.中文植物物种多样性描述文本的信息抽取研究[J].现代图书情报技术,2016,32(1):87- 96.Duan YF, Huang S S.Information Extraction from Chinese Plant Species Diversity Description Text[J]. New Technology of Library and Information Service,2016,32(1): 87-96.   \n[15] Li C,Liakata M,Rebholz-Schuhmann D.Biological network extraction from scientific literature: state of the art and challenges[J]. Briefings in bioinformatics.2013(2):6   \n[16] Skusa A,Rüegg A,Kohler J.Extraction of biological interaction networks from scientific literature[J]. Briefings in Bioinformatics 2005,6(3): 263-276.   \n[17]许哲平,崔金钟,覃海宁,等.中国生物多样性 e-Science 平台建设构想[J].生物多样性,2010,18(5):480- 488.Xu Z P,Cui JZ,Qin HN,Ma K P.On the architecture of biodiversity e-Science infrastructure in China[J]. Biodiversity Science,2010,18(5): 480-488. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(通讯作者:刘建华，ORCID：0000-0002-4003-8834，E-mail:liujh@mail.las.ac.cn)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作者贡献说明：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "刘建华：提出论文整体框架，完成语义知识抽取框架的设计，参与实现知识抽取的实现开发，完成论文主体内容的撰写，对最终版本部分内容进行校对、修改完善。  \n王颖：参与设计语义知识抽取框架和知识抽取开发的语料准备、存储结构设计。  \n张智雄：对研究过程进行指导，对论文内容提出修改意见。  \n李传席：主要负责知识抽取功能的实现开发，并提供开发文档。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 10
+    }
+]

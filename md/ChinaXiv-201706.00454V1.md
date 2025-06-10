@@ -1,0 +1,175 @@
+# DOI: 10.5846/stxb201604050611
+
+肖波,郭成久,赵东阳,胡克林,贾玉华.黄土和风沙土藓结皮土壤呼吸对模拟降雨的响应.生态学报,2017,37(11):3724-3732. XiaoB,GuoCespspoaellstaedls aeolian soils in the Loess Plateau of China.Acta Ecologica Sinica,2017,37(11）:3724-3732.
+
+# 黄土和风沙土藓结皮土壤呼吸对模拟降雨的响应
+
+肖波1,2,\*，郭成久³，赵东阳³，胡克林¹，贾玉华
+
+1中国农业大学资源与环境学院，北京100193  
+2 中国科学院水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室,杨凌712100  
+3沈阳农业大学水利学院，沈阳110000
+
+摘要;生物结皮土壤呼吸是干旱和半干旱生态系统碳循环的重要组成部分,但目前其对降雨的响应规律尚不明确。针对黄土高原黄土和风沙土上发育的藓结皮,分别进行 $2 , 4 , 6 , 1 0 , 2 0 , 3 0 , 4 0 \ \mathrm { m m }$ 的模拟降雨,并使用便携式土壤碳通量分析仪测定雨前和雨后藓结皮的呼吸速率,对比分析降雨量对藓结皮呼吸速率的影响;同时,在 $4 0 ~ \mathrm { m m }$ 降雨后的 $\mathrm { 0 - 2 4 ~ h }$ 连续测定藓结皮的呼吸速率变化,分析藓结皮呼吸速率随雨后历时的变化规律。结果显示,7种降雨量后两种土壤上藓结皮的呼吸速率均显著升高，黄土上藓结皮呼吸速度的增幅为2.89一6.38倍,风沙土上藓结皮呼吸速率的增幅为 $0 . 7 3 { \scriptstyle - 4 . 3 8 }$ 倍。 $_ { 0 - 6 \mathrm { ~ m m } }$ 降雨中,两种土壤上藓结皮的呼吸速率均随降雨量增加而迅速升高，二者成显著线性正相关关系； $6 { - } 4 0 \mathrm { \ m m }$ 降雨中,黄土上藓结皮的呼吸速率随降雨量增加而缓慢升高,但风沙土上藓结皮的呼吸速率随降雨量增加而快速降低。两种土壤上藓结皮的呼吸速率随雨后历时表现出相似的变化规律，即雨后迅速升高、之后逐渐降低,并在 $2 4 \mathrm { ~ h ~ }$ 左右回归到雨前水平;但黄土上藓结皮的呼吸速率在雨后即刻达到峰值,而风沙土上藓结皮的呼吸速率在雨后 $3 0 ~ \mathrm { m i n }$ 左右方达到峰值。黄土上藓结皮的呼吸速率一致高于风沙土上的藓结皮,前者在不同降雨量和雨后历时中平均比后者高 $1 5 0 . 0 \%$ 和 $5 9 . 6 \%$ 。此外,藓结皮呼吸速率与表层土壤含水量存有显著相关关系,在含水量较低（小于约 $4 \%$ )时二者显著正相关,在含水量较高(大于约 $4 \%$ )时二者对于黄土上藓结皮为正相关、对于风沙土上藓结皮为负相关。研究表明,黄土高原藓结皮土壤呼吸对降雨响应快速而直接,但其响应规律对于黄土和风沙土上的藓结皮是不同的,总体而言黄土上藓结皮对降雨的响应更为持久有效。
+
+关键词：生物结皮；土壤类型；黄土；风沙土；土壤呼吸速率；降雨量；土壤含水量
+
+# Responses of soil respiration of moss-dominated biological soil crusts to simulated rainfall on loess and aeolian soils in the Loess Plateau of China
+
+XIAO Bo1,2,\*，GUO Chengjiu³， ZHAO Dongyang³，HU Kelin'，JIA Yuhua³
+
+1 College of Resources and Environmental Sciences，China Agricultural University，Beijing 10o193,China   
+2StateKeybotflosiddFgohLstesttefldWateseedefc， Yangling 712100, China   
+3 College of Water Conservancy，Shenyang Agricultural University，Shenyang 11oooo,China
+
+Abstract：Therespirationof biological soil crustsisanimportantcontributiontocarboncycling inaridandsemiarid ecosystems，butsoilcrustresponses torainfallhave notyetbeenfullyinvestigated.Inthis study，weconductedaseriesof simulatedrainfallexperimentswithdifferentrainfallintensities（2，4，6，10,20，30，40mm）for mos-ominated biological soil crusts（hereaftermosscrusts）onloessandaeoliansoils in theLoessPlateau of China.Thesoil respiration rates of the moss crusts were measured before and after the simulated rainfall with a portable $\mathrm { C O } _ { 2 } / \mathrm { H } _ { 2 } \mathrm { O }$ Analyzer（LI-COR
+
+LI-840）.Afterwards，the soil respiration rates of the moss crusts with $4 0 ~ \mathrm { m m }$ rainfall were continually measured at O- ${ \cdot 2 4 \mathrm { ~ h ~ } }$ (0,0.2,O.5,1,2,1,24h）aftertheraifall.Finally,thesoilrespirationresponsesofthe mosscruststorainfall were determined fromrainfallintensityand timeafterrainfall.Thefollowingresultswereobtained inthisstudy.（1）Thesoil respirationrates of the mosscrusts wereconsistentlyand significantly increasedafterthe simulatedrainfall.Compared with the soilrespirationrates before therainfall，thesoil respirationratesof the moss crustson loesssoil were increased by 2.89—6.38 times，whereas thesoil respirationratesof themoss crustsonaeoliansoil wereincreasedbyO.73—4.38 times. (2）IntheO—6mmrainfallexperiments，thesoil respiration ratesof the mosscrusts，bothon loessandaeolian soils, linearly increased with icreasing rainfall.Corrspondingly,inthe6—4Ommrainfall experiments,thesoilrespirationates of the moss crustson loessoil slightly increased with increasingrainfall，whereas thesoil respirationratesof themoss crusts onaeoliansoil sharplydecreased with increasing rainfall.（3）Changes in soil respirationrates during O—24 hafter therainfall event were similarfor the mosscrustson loessandaeoliansoils；theyboth rapidly increased immediatelyafter therainfalland then graduallydecreasedto theiroriginallevels before therainfall duringO—24h.Thesoilrespirationrates of the moss crusts onloessoil reached their maximum values almost immediately aftertherainfallevent；however,the soil respiration rates of the moss crusts on aeolian soil reached their maximum values approximately $3 0 ~ \mathrm { m i n }$ after the rainfall event.（4）The soil respiration rates of the moss crusts on loess soil were $1 5 0 . 0 \%$ and $5 9 . 6 \%$ higher than that on aeolian soilunderdiferentrainfall intensitiesandatdferenttiesftertherainfall，respectively.（）Thesoilrespirationratesof the moss crusts were significantly positively correlated with surface soil water content ( $_ { 0 - 5 \ \mathrm { c m } }$ ）when soil was dry （ $4 \%$ ).However，when soil was wet $( > 4 \%$ ），the soil respiration rates of the moss crusts on loess soil were positively correlated with surface soil watercontent,butthatonaeolian soil were negativelycorelated with surface soil watercontent. Fromthis study，weconcluded that the soil respirationofthe moss crustsonthe LoessPlateau ofChina responded directly and sensitivelytorainfall events,buttheresponses were diferentforthemoss crustsonloessandaeoliansoils.Itappeared that the moss crusts on loess soil responded more efficiently to rainfall compared with that on aeolian soil.
+
+Key Words:biological soilcrust；soil type；loessoil；aeolian soil；soil respirationrate；rainfall；soil watercontent
+
+土壤呼吸是土壤微生物和植物根系进行生命活动的标志,也是碳素由陆地生态系统返回大气的主要途径[1]。全球每年通过土壤呼吸释放至大气中的 $\mathrm { C O } _ { 2 }$ 为 $6 8 { \mathrm { - } } 1 0 0 ~ \mathrm { P g }$ ,是化石燃料排放碳总量的10倍[2]。影响土壤呼吸的因子包括生物因子(植被类型、生物量、叶面积指数、凋落物等)和非生物因子(降水、土壤温度、水分、质地、C/N等)两大类[3-4],其中土壤水分是最为关键的一个因子。一般情况下,土壤含水量较低时土壤呼吸速率也相应较低,王壤含水量适宜时土壤呼吸速度达到最大值,土壤含水量超过一定范围后土壤呼吸速率受到抑制而逐渐下降[5]。土壤水分作用于土壤呼吸的直接途径是改变土壤中根系和微生物的生理活性,而间接途径是影响底物代谢和气体扩散速率[5]。土壤呼吸作为大气 $\mathrm { C O } _ { 2 }$ 的主要来源和全球碳循环的重要组成部分,对其进行准确测定对于陆地生态系统碳循环和碳通量研究具有重要意义[6]。
+
+生物结皮是干旱环境下由细菌、真菌、藻类、地衣以及苔藓等微生物与表层土壤复合作用形成的共同体[7]。它普遍存在于全世界所有的干旱和半干旱地区,覆盖面积超过陆地总面积的 $3 5 \%$ ,是陆地生态系统的重要组成部分[8]。研究逐渐发现,生物结皮可对土壤水分循环、养分循环、碳氮固存、水土流失、生物多样性以及植被恢复等几乎所有地表生态过程产生重要影响[9],其中影响土壤呼吸是一个重要方面[10]。通常认为,生物结皮主要通过以下3种途径影响土壤呼吸。(1)生物结皮层寄居有大量且多样的微生物群落,这些微生物会显著提高土壤呼吸速率[11];(2)致密的生物结皮层会堵塞土壤孔隙,阻碍土壤与大气 $\mathrm { C O } _ { 2 }$ 交换[12-14]；（3)生物结皮通过改变土壤温度和土壤水分等间接影响土壤呼吸[15-17]。由于生物结皮成分复杂多样,同时土壤呼吸影响因素众多,因此在不同气候区的研究结果差异较大[10,18-19]。
+
+土壤水分是影响土壤呼吸的关键因子,而降雨是土壤水分的唯一补充途径。降雨通常会激发土壤微生物和植物根系的生理活性,同时改变土壤通透性和有机质分解,以此增加土壤呼吸强度,但研究结果并非完全如此[20]。在干旱和半干旱地区,目前已开展了较多土壤呼吸对降雨的响应规律研究,但这些研究主要针对维管束植物下的土壤呼吸[21-22],而关于生物结皮土壤呼吸对降雨响应规律的研究相对较少。例如：在腾格里沙漠东南缘,5— ${ \cdot 2 0 } ~ \mathrm { m m }$ 降雨对藻结皮和藓结皮呼吸具有显著的激发作用[23-24],但极端降雨(降雨量和降雨强度)后藻结皮和混生结皮的呼吸速率会受到明显抑制[25],且藻结皮和藓结皮呼吸对多重干湿交替的响应规律不同[26];在鄂尔多斯沙地,齐玉春等[27]指出藻结皮呼吸对土壤水分变化的响应比裸地更为敏感;在古尔班通古特沙漠,吴林等[28]发现模拟降雨增加了地衣结皮的表观土壤碳释放量。与此类似,国外相关地区也得出了降雨增加生物结皮呼吸速率[29-31]以及降雨降低生物结皮呼吸速率[32-33]的结论,其中气候差异和生物结皮类型不同可能是主要原因。
+
+降雨和土壤水分是土壤呼吸的关键影响因素,而生物结皮是干旱和半干旱地区土壤呼吸的重要来源,但生物结皮土壤呼吸对降雨的响应规律如何，目前国内外研究均不够深人,尤其在我国黄土高原地区研究不多。黄土高原自实施退耕还林(草)工程以来,藓结皮大面积发育,覆盖度可达 $6 0 \% = 7 0 \%$ ,且黄土和风沙土两种土壤上发育的藓结皮显著不同[34-36]。基于此,本研究针对黄土高原黄土和风沙土上发育的藓结皮,分别进行$2 , 4 , 6 , 1 0 , 2 0 , 3 0 , 4 0 \ \mathrm { m m }$ 的模拟降雨,并使用便携式土壤碳通量分析仪测定雨前和雨后藓结皮的呼吸速率,对比分析降雨量对藓结皮呼吸速率的影响;同时,在 $4 0 ~ \mathrm { m m }$ 降雨后的 $ { 0 }  { - } 2  { 4 }  { \mathrm { ~ h ~ } }$ 连续测定藓结皮的呼吸速率变化，分析藓结皮呼吸速率随雨后历时的变化规律。研究结果可从降雨量和雨后历时两方面,明确黄土高原黄土和风沙土上藓结皮土壤呼吸对模拟降雨的响应规律,为黄土高原区域碳通量估算和碳循环研究提供参考依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于黄土高原北部的陕西省神木县六道沟流域( $\langle 3 8 ^ { \circ } 4 6 ^ { \prime } - 4 8 ^ { \circ } 5 1 ^ { \prime } \mathrm { N } , 1 1 0 ^ { \circ } 2 1 ^ { \prime } - 1 1 0 ^ { \circ } 2 3 ^ { \prime } \mathrm { E } \rangle$ 。流域面积 $6 . 8 9 \ \mathrm { k m } ^ { 2 }$ ,海拔1094— $1 2 7 3 \mathrm { ~ m ~ }$ ,属于黄土丘陵区向鄂尔多斯高原过渡的水蚀风蚀交错带,也是黄土高原水土流失最为严重的区域[37]。该流域属中温带半干旱气候,地形特点为典型的盖沙黄土丘陵区,多年平均降雨量$4 0 9 ~ \mathrm { { m m } }$ ,降雨集中在6至9月，占全年降雨量的 $70 \%$ 一 $8 0 \%$ 。流域分为东西两个部分，西侧以风沙土（Ust-Sandic Entisols,质地为砂土)为主,东侧大部分为黄土(Los-Orthic-Entisol,质地为砂质壤土)覆盖。
+
+# 1.2 实验设计
+
+本研究包括藓结皮呼吸速率对不同降雨量的响应实验和雨后不同时间藓结皮呼吸速率变化实验两部分。其中,藓结皮呼吸速率对不同降雨量的响应实验设藓结皮类型和降雨量2因素,藓结皮类型设黄土上藓结皮和风沙土上藓结皮2水平,降雨量设 $0 . 2 , 4 , 6 , 1 0 , 2 0 , 3 0 , 4 0 \ \mathrm { m m }$ 共8水平,即16 种处理,每种处理重复3次,共48个样本。对雨后不同时间藓结皮呼吸速率变化实验,设藓结皮类型和时间2因素,藓结皮类型设黄土上藓结皮和风沙土上藓结皮2水平,降雨量统一设置为 $4 0 ~ \mathrm { m m }$ ,时间设雨前及雨后0、0.25、0.5、1、2、12、24h共8水平,即16 种处理,每种处理重复3次,共48个样本。
+
+# 1.3测定指标和方法
+
+根据实验设计和野外实地调查结果,于2015年7月在研究区黄土和风沙土上选定发育良好的藓结皮样地各一处,并在每个样地内随机设定24个藓结皮样点( $\mathrm { ~  ~ \mathcal ~ { ~ 1 ~ } ~ m ~ } \times 1 \mathrm { ~  ~ m ~ } )$ ,共48个样点。所选样地情况以及样地内藓结皮的基本特征见表1,其中风沙土上藓结皮的生长发育状况明显好于黄土，但黄土上藓结皮的藓类植物更为粗壮、地上部分更高,且颜色更深。与实验设计的48个样本相对应,对上述选定的48个藓结皮样点,待天气晴好时的正午,使用喷壶均匀喷洒设定量的去离子水至每个样点的藓结皮表面,并控制喷洒速度以避免产生地表径流。喷洒结束后等待 $5 ~ \mathrm { m i n }$ ,使用便携式土壤碳通量分析仪(LI-840,美国LI-COR公司)对每个样点藓结皮的呼吸速率依次进行观测（测量时间 $2 ~ \mathrm { m i n }$ ),同时使用土壤水分传感器同步测量表层 $5 \mathrm { c m }$ 土壤体积含水量。实验中由多人配合对每个藓结皮样点依次逐一喷水和测量,以避免测量时间先后差异对结果的
+
+影响。
+
+对雨后不同时间藓结皮呼吸速率变化实验,根据实验设计随机选定6个藓结皮样点,于天气晴好时,雨前测定藓结皮的呼吸速率;继而使用喷壶均匀喷洒 $4 0 \ \mathrm { m m }$ 降雨，随后在 $0 . 0 . 2 5 \AA . 0 . 5 \AA . 1 \AA . 2 \AA . 1 2 \AA . 2 4 \AA$ 时对每个样点的藓结皮呼吸速率分别进行一次测量,并同步测量表层 $5 \ \mathrm { c m }$ 土壤体积含水量。
+
+表1所选样地情况以及黄土和风沙土上藓结皮的基本特征  
+Table1Characteristics of sampling sites and moss crusts on loess and aeolian soil   
+
+<html><body><table><tr><td>测定指标 Measurements</td><td>黄土上藓结皮 Moss crusts on loess soil</td><td>风沙土上藓结皮 Moss crusts on aeolian soil</td><td></td></tr><tr><td>土壤质地 Soil texture</td><td>砂质壤土</td><td>砂土</td><td rowspan="5"></td></tr><tr><td>土地利用 Land use</td><td>草地</td><td>灌木林地</td></tr><tr><td>坡度 Slope gradient/(°)</td><td>20-25</td><td>5-10</td></tr><tr><td>结皮盖度 Coverage of moss crusts /%</td><td>47±10 b *</td><td>95±5 a</td></tr><tr><td>藓生物量 Moss biomass/（g/m²)</td><td>89.49±3.55 a</td><td>152.99±7.52 a</td></tr><tr><td>藓植株密度 Moss density/（株/cm²)</td><td>29.8±2.8 b</td><td>55.9±3.9 a</td></tr><tr><td>藓的种类 Moss species</td><td>极地真藓（Bryum arcticum（R.Brown）B.S. G.）真藓（B.argenteum Hedw.）、土生扭口 藓（Barbulavinealis）、细叶扭口藓（B. perobtusa（Broth.）Chen)</td><td>极地真藓(真藓、土生扭口藓、细叶扭口藓</td></tr></table></body></html>
+
+$\ast$ 同行不同字母表示黄土和风沙土上藓结皮在 $5 \%$ 水平差异显著
+
+# 1.4 数据处理
+
+使用 SPSS Statistics 22的描述性统计计算每种处理的平均值和标准误差,同时使用 $\mathbf { \chi } _ { t }$ 检验和单因素方差分析检验不同处理之间的差异及其显著性。使用OriginPro9.2进行绘图和数据拟合。
+
+# 2结果与分析
+
+# 2.1 藓结皮呼吸速率对降雨量的响应
+
+黄土和风沙土上藓结皮的呼吸速率对降雨活动均有明显响应，但其响应规律不同。黄土上藓结皮的呼吸速率随降雨量增加呈现一直升高的趋势，但增幅逐渐减小。 $2 , 4 , 6 , 1 0 , 2 0 , 3 0 , 4 0 \ \mathrm { m m } \ 7$ 种降雨量后藓结皮呼吸速率的增幅分别为 $2 . 8 9 , 4 . 5 9 , 5 . 1 9 , 5 . 4 8 , 5 . 7 5 , 6 . 1 1$ 倍以及6.38倍，其呼吸速率峰值出现在 $4 0 ~ \mathrm { m m }$ 降雨后，峰值为 $4 . 7 2 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ ,是降雨前藓结皮呼吸速率的7.38倍。风沙土上藓结皮的呼吸速率随降雨量增加呈先升高、后降低的规律，7种降雨量后藓结皮的呼吸速率分别比降雨前增加了 $0 . 7 3 \ 、 3 . 4 8 \ 、 4 . 3 8 \ 、 3 . 3 7 \ 、 1 . 8 3 \ 、 1 . 3 1$ 倍以及0.75倍，其呼吸速率峰值出现在 $6 ~ \mathrm { m m }$ 降雨后，峰值为 $2 . 6 9 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ ,是降雨前藓结皮呼吸速率的5.38倍。尽管两种土壤上藓结皮呼吸速率随降雨量的变化趋势不同，但都可以分为两个阶段(图1)。在0一 $6 ~ \mathrm { m m }$ 的降雨量范围,两种土壤上藓结皮的呼吸速率均随降雨量增加而直线增加( $r { > } 0 . 9 7 8$ ， $P { < } 0 . 0 1 7$ ),但黄土上藓结皮的呼吸速率增加更快。在 $6 { - } 4 0 ~ \mathrm { m m }$ 的降雨量范围，黄土上藓结皮的呼吸速率随降雨量增加而缓慢增加( $r = 0 . 9 8 5$ ， $P { = } 0 . 0 0 7$ )，但风沙土上藓结皮的呼吸速率却随降雨量增加而直线降低( $r = - 0 . 9 8 4$ ， $P { = } 0 . 0 0 2$ )。表2中的方差分析结果显示，雨前及7种降雨量后藓结皮的呼吸速率存在显著差异（黄土： $F = 1 0 6 . 4 3$ ， $P { < } 0 . 0 0 1$ ;风沙土： $F = 1 0 7 . 9 4 , P { < } 0 . 0 0 1$ )，而且两两之间也
+
+![](images/896aecfb19c39dec3d16b5d63183daa2c1d21d5f7117965b8f5f2e02c546b238.jpg)  
+图1黄土和风沙土上藓结皮呼吸速率对不同降雨量的响应Fig.1Responses of soil respiration rates of moss crusts to rainfallgradient on loess and aeolian soils
+
+大多存有显著差异。
+
+不同降雨量下黄土上藓结皮的呼吸速率一致高于风沙土上的藓结皮(表2)。雨前黄土上藓结皮的呼吸速率比风沙土上藓结皮的呼吸速率高 $2 7 . 2 \%$ ,二者较为接近;但雨后黄土上藓结皮的呼吸速率比风沙土上藓结皮的呼吸速率高 $3 6 . 2 \% { \_ } 4 3 8 . 7 \%$ ,二者的差异随降雨量增大而逐渐增大。 $\mathbf { \chi } _ { t }$ 检验结果显示,雨前两种土壤上藓结皮的呼吸速率不存在显著差异( $t = 1 . 1 2$ ， $P { = } 0 . 3 2 6 \$ ),但雨后两种土壤上藓结皮的呼吸速率一致存在显著差异( $t { > } 2 . 8 0$ ， $\scriptstyle P < 0 . 0 4 9$ ）。
+
+2
+
+表2不同降雨量下黄土和风沙土上藓结皮呼吸速率的差异比较  
+Table 2Differences in soil respiration rates of moss crusts between loess and aeolian soils under diffrent rainf   
+
+<html><body><table><tr><td rowspan="2">Ratlm</td><td colspan="2">藓结皮呼吸速率/（μmolm-²s-1）</td><td rowspan="2">相对差值 RE /%(1)</td><td rowspan="2">t P</td></tr><tr><td></td><td></td></tr><tr><td>0</td><td>0.64±0.19 f(2)</td><td>0.50±0.07 g</td><td>27.2</td><td>1.12 0.326</td></tr><tr><td>2</td><td>2.49±0.39 e</td><td>1.83±0.11 c</td><td>36.2</td><td>2.80 0.049</td></tr><tr><td>4</td><td>3.58±0.39 d</td><td>2.24±0.06 b</td><td>59.7</td><td>5.95 0.004</td></tr><tr><td>6</td><td>3.96±0.18 cd</td><td>2.69±0.03 a</td><td>47.6</td><td><0.001</td></tr><tr><td>10</td><td>4.16±0.16 bc</td><td>2.18±0.29 b</td><td>90.4</td><td><0.001</td></tr><tr><td>20</td><td>4.32±0.07 abc</td><td>1.42±0.10 d</td><td>205.4</td><td>10.41 43.11 <0.001</td></tr><tr><td>30</td><td>4.56±0.02 ab</td><td>1.15±0.06 e</td><td>295.1</td><td>44.10 <0.001</td></tr><tr><td>40</td><td>4.72±0.05 a</td><td>0.87±0.09 f</td><td>438.7</td><td>65.78 <0.001</td></tr></table></body></html>
+
+(1)相对差值 $= ( R _ { \mathrm { L o e s s } } - R _ { \mathrm { A e o l i a n } } ) / R _ { \mathrm { A e o l i a n } } { \times } 1 0 0 ; R _ { \mathrm { L o e s s } }$ 为风沙土上藓结皮的呼吸速率;(2)同列不同字母表示不同降雨量的藓结皮呼吸速率在$5 \%$ 水平差异显著 （）
+
+# 2.2藓结皮呼吸速率随雨后历时的变化
+
+两种土壤上藓结皮的呼吸速率在雨后呈现相似的变化规律,即土壤呼吸速率在雨后迅速达到峰值，其后逐渐降低并恢复到雨前水平,但这一过程在两种土壤上略有不同。在黄土上,藓结皮的呼吸速率在雨后即刻达到峰值( $\left( 4 . 5 6 ~ \mu \mathrm { m o l } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 } , \right.$ ），比雨前增加了6.86倍；在随后的 $^ { 2 \mathrm { ~ h ~ } }$ 内,藓结皮呼吸速率迅速下降到峰值的一半左右 $( 2 . 4 5 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 } )$ ,但仍比雨前增加了2.64倍;在之后的22h内,藓结皮的呼吸速率缓慢降低,并大致恢复到雨前水平 $( 0 . 6 6 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } _ { \cdot } ^ { - 2 } ~ \mathrm { s } ^ { - 1 } ,$ ）。在风沙土上,藓结皮的呼吸速率在雨后迅速增加,至 $3 0 ~ \mathrm { m i n }$ 左右达到峰值 $( 2 . 7 6 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 } )$ ,比雨前增加了4.75倍;之后同样经历了迅速降低阶段 $( 0 . 5 { \ - - } 2 \mathrm { h } )$ 和缓慢降低阶段(2 $2 4 \ \mathrm { h } { \dot { \ } }$ ），达到 $0 . 5 4 ~ \mathrm { \mu m o l ~ m ^ { - 2 } ~ s ^ { - 1 } } ,$ 与雨前持平。由图2可见,藓结皮呼吸速率在雨后的变化过程可分为两个阶段，即迅速增加阶段和逐渐降低阶段。在迅速增加阶段，藓结皮的呼吸速率与雨后历时成线性正相关关系（ $r = 0 . 9 4$ ， $P _ { \mathrm { = } } ( 0 . 0 5 )$ ;在逐渐降低阶段，藓结皮的呼吸速率与雨后历时成幂函数关系（ $R ^ { 2 } { > } 0 . 7 7$ ， $P { < } 0 . 0 0 1 \$ 。不同的是，黄土上藓结皮的呼吸速率在雨后增加更快（即刻达到峰值）,风沙土上藓结皮的呼吸速率增加相对较慢( $3 0 ~ \mathrm { m i n }$ 达到峰值)。方差分析结果(表3)显示，雨后不同时间藓结皮的呼吸速率在总体上存在显著差异（黄土： $F = 5 7 7 . 8 3$ ， $P { < } 0 . 0 0 1$ ;风沙土： $F = 4 5 0 . 4 1$ ， $P <$ 0.001），且两两之间也存在显著差异。
+
+黄土上藓结皮的呼吸速率在雨后不同时间均高于风沙土上藓结皮的呼吸速率(表3），二者的差值最高可达1.42倍。除雨后 $0 . 5 \mathrm { ~ h ~ }$ 外，其他时间藓结皮的呼吸速率在黄土和风沙土上均存在显著差异 ( $\phantom { + } t > 4 . 0 1$ ， $P <$
+
+![](images/51cbc69f35b61dee9128694ac924f9e1653881ed9a72f53d17fab152417a86c9.jpg)  
+图2黄土和风沙土上藓结皮呼吸速率随雨后历时的变化 Fig.2Changes of soil respiration rates of moss crusts after rainfall onloessand aeoliansoils
+
+0.016)。
+
+表3雨后不同时间黄土和风沙土上藓结皮呼吸速率的差异比较  
+Table 3 Differences in soil respiration rates of moss crusts between loess and aeolian soils afterrainfall   
+
+<html><body><table><tr><td rowspan="2">Time atr ai al /h</td><td colspan="2">藓结皮呼吸速率/(μmol m-²s-1) Soil respiration rate of moss crusts</td><td rowspan="2">相对差值 RE/%(1)</td><td rowspan="2">t</td><td rowspan="2">P</td></tr><tr><td>黄土Loess soil</td><td>风沙土 Aeolian soil</td></tr><tr><td>-0.1(2)</td><td>0.58±0.03 g(3)</td><td>0.48±0.01 g</td><td>21.3</td><td>5.79</td><td>0.004</td></tr><tr><td>0</td><td>4.56±0.22 a</td><td>1.88±0.06 c</td><td>142.4</td><td>20.64</td><td><0.001</td></tr><tr><td>0.25</td><td>3.43±0.09 b</td><td>2.15±0.06 b</td><td>59.7</td><td>19.55</td><td><0.001</td></tr><tr><td>0.5</td><td>2.70±0.04 c</td><td>2.76±0.06 a</td><td>-2.2</td><td>-1.44</td><td>0.223</td></tr><tr><td>1</td><td>2.51±0.08 d</td><td>1.59±0.08 d</td><td>58.4</td><td>14.15</td><td><0.001</td></tr><tr><td>2</td><td>2.11±0.08 e</td><td>1.31±0.11 e</td><td>60.7</td><td>10.67</td><td><0.001</td></tr><tr><td>12</td><td>1.36±0.08 f</td><td>0.90±0.06 f</td><td>51.5</td><td>7.97</td><td>0.001</td></tr><tr><td>24</td><td>0.66±0.44 g</td><td>0.54±0.03 g</td><td>23.0</td><td>4.01</td><td>0.016</td></tr></table></body></html>
+
+(1)相对差值 $= ( R _ { \mathrm { L o e s s } } - R _ { \mathrm { A e o l i a n } } ) / R _ { \mathrm { A e o l i a n } } { \times } 1 0 0 ; R _ { \mathrm { L o e s s } }$ 为风沙土上藓结皮的呼吸速率， $R _ { \mathrm { A e o l i a n } }$ 为风沙土上藓结皮的呼吸速率;(2)降雨前 $5 ~ \mathrm { m i n }$ Five minutes before rainfall；（3)同列不同字母表示不同雨后历时的藓结皮呼吸速率在 $5 \%$ 水平差异显著
+
+# 2.3藓结皮呼吸速率与表层土壤含水量的关系
+
+如图3所示，藓结皮呼吸速率与表层 $5 \ \mathrm { c m }$ 土壤含水量的关系可分为两个阶段,且在两个阶段均与土壤含水量成显著的线性相关关系,但这种相关关系在黄土和风沙土上是不同的。在黄土（图3)上,当表层土壤含水量小于约 $3 \%$ 时,藓结皮的呼吸速率随土壤含水量增加而线性快速增加;当表层土壤含水量超过约 $3 \%$ 时，藓结皮的呼吸速率随土壤含水量增加而缓慢增加。在风沙土(图3)上,当表层土壤含水量小于约 $4 \%$ 时,藓结皮的呼吸速率随土壤含水量增加而线性快速增加;当表层土壤含水量超过约 $4 \%$ 以后,藓结皮的呼吸速率随土壤含水量增加而迅速降低;当表层土壤含水量约为 $4 \%$ 时,藓结皮的呼吸速率达到峰值,为 $2 . 6 9 ~ \mu \mathrm { m o l } \mathrm { ~ m } ^ { - 2 }$ $\mathbf { s } ^ { - 1 }$ 。可见,表层土壤含水量增加对黄土上藓结皮呼吸有正效应,但对风沙土上藓结皮呼吸在低含水量时有正效应、在高含水量时有负效应,其土壤含水量阈值为 $3 \%$ 一 $4 \%$ 。
+
+![](images/8b9214ae80f383c93866e92b89b9ed315ea70c9349c7e4b2dbdb214761384ce6.jpg)  
+图3黄土和风沙土上藓结皮呼吸速率与表层土壤含水量的关系
+
+Fig.3Relationshipsbetwen soil respirationrates ofmosscrusts and surface soil watercontentonloessandaeolian soils
+
+# 3讨论
+
+本研究表明,不同降雨量的模拟降雨均能使黄土高原黄土和风沙土上藓结皮的呼吸速率显著增加,2—40$\mathbf { m } \mathbf { m }$ 的降雨可使黄土上藓结皮的呼吸速率增加2.89—6.38倍,可使风沙土上藓结皮的呼吸速率增加0.73—
+
+4.38 倍,这与其他研究区的结果基本吻合。例如,在古尔班通古特沙漠,经过 $2 , 5 , 1 5 \ \mathrm { m m }$ 降水处理后生物结皮（藓和地衣的混生结皮)的呼吸速率平均是雨前的1.51、2.75、3.06倍[28」； $5 , 1 0 , 2 0 \ \mathrm { m m }$ 降雨后藓结皮和藻结皮的呼吸速率分别是雨前的43—58 倍和21—25倍[23];在青藏高原高寒沙地,韩海燕[38]研究得出,经过1、2、$5 , 1 0 ~ \mathrm { m m }$ 降水处理后,藓和地衣结皮的呼吸速率分别是干土的9.13、6.73、3.17、8.64倍。尽管研究区不同、降雨量不同、生物结皮类型不同以及所导致的土壤呼吸增幅不同,但这些研究均一致表明,降雨对生物结皮土壤呼吸有显著的促进作用,这种促进作用可能主要源于雨后土壤含水量增加激发了土壤微生物的生理活性,使干旱缺水时休眠的土壤微生物立即恢复其生命活动,加速了有机质等底物的分解和释放,从而释放出大量的$\mathrm { C O } _ { 2 } ^ { [ 2 3 , 3 9 ] }$ 。在干旱和半干旱地区,降雨稀少和土壤水分匮乏是土壤微生物进行生命活动的关键限制因素。这些土壤微生物大多具有特殊的干旱适应机制,他们在干旱缺水时处于休眠状态,并在雨后迅速恢复其活性和生命活动。因此,从土壤微生物活性的角度来讲,降雨活动显然能够促进土壤呼吸。然而在不同气候区,降雨对生物结皮呼吸速率的增加幅度可能是不同的,这可能因为：(1)不同气候区具有不同的气候特征和降雨格局,这在很大程度上决定了土壤中微生物的数量和群落多样性,导致降雨后微生物活性的变化程度也不尽相同,继而使得土壤呼吸速率变化幅度不同;(2)生物结皮的类型和分布具有明显的地域特征,不同气候区具有不同类型的生物结皮以及显著不同的微生物群落组成,因此对降雨的响应程度不同;（3)土壤类型在一定程度上决定了该土壤上所形成生物结皮的类型并影响其理化性质,因此不同土壤上生物结皮所含有机质含量不同,导致微生物进行有机质分解时所增加的土壤呼吸强度不同。综上,生物结皮的发育使得土壤微生物组成和土壤呼吸过程更为复杂,使土壤呼吸对降雨的直接和间接响应规律趋于多样。
+
+本研究中,不同降雨量对藓结皮呼吸速率的增幅是不同的：在 $0 { \dot { \mathcal { - } } } 6 ~ \mathrm { m m }$ 降雨中,两种土壤上藓结皮的呼吸速率均随降雨量增加而迅速升高,二者成显著线性正相关关系;在6— $4 0 \ \mathrm { m m }$ 降雨中,黄土上藓结皮的呼吸速率随降雨量增加而缓慢升高,但风沙土上藓结皮的呼吸速率随降雨量增加而快速降低。与此对应,藓结皮呼吸速率与表层土壤含水量存有显著相关关系,在含水量较低时二者显著正相关,在含水量较高时二者对于黄土上藓结皮为正相关、对于风沙土上藓结皮为负相关,其土壤含水量阈值为 $3 \% - 4 \%$ 。可见,过高的降雨量不仅会减弱降雨对生物结皮呼吸的激发作用(黄土),甚至会抑制和阻碍生物结皮呼吸(风沙土),这一现象在腾格里沙漠也有报道。在腾格里沙漠东南缘,赵洋等[25]指出极端降雨(降雨量和降雨强度)对生物结皮呼吸有抑制作用,藻结皮和混生结皮的呼吸速率在 $4 4 . 7 ~ \mathrm { m m }$ （雨强 $0 . 0 4 ~ \mathrm { { m m } / \mathrm { { m i n } } }$ )极端降雨后分别降低了 $4 0 \%$ 和$5 8 . 3 \%$ ,在 $0 . 5 5 ~ \mathrm { m m / m i n }$ （降雨量 ${ \bf \AA } ^ { 6 . 3 } { \bf \dot { m } } { \bf \dot { m } }$ )极端降雨后平均降低了 $4 2 . 9 \%$ 。赵洋等[25]将极端降雨后生物结皮呼吸速率的降低归因雨水填充土壤孔隙以及生物结皮中有机物质(多糖和胞外分泌物等)膨胀堵塞土壤孔隙。雨后生物结皮土壤通气性变差,不仅导致土壤含氧量降低、土壤呼吸受到抑制,而且造成土壤呼吸所释放的$\mathrm { C O } _ { 2 }$ 无法排出土壤。由于黄土和风沙土具有不同的理化性质(透气性、导水性等),且两种土壤上发育的藓结皮具有不同的特征[10,36.0],因此黄土和风沙土上藓结皮呼吸对降雨表现出不同的响应规律。
+
+本研究发现,两种土壤上藓结皮的呼吸速率随雨后历时表现出相似的变化规律,即雨后迅速升高、之后逐渐降低,并在 $2 4 \textup { h }$ 左右回归到雨前水平;但黄土上藓结皮的呼吸速率在雨后即刻达到峰值,而风沙土上藓结皮的呼吸速率在雨后 $3 0 ~ \mathrm { m i n }$ 左右方达到峰值,这与赵蓉等[23]的研究结果相符。在腾格里沙漠东南缘,赵蓉等[23]研究发现,藻结皮和藓结皮的呼吸速率在 $2 0 ~ \mathrm { m m }$ 降雨后迅速升高,并在 $0 . 5 { - 2 } \mathrm { ~ h ~ }$ 达到峰值,然后逐渐下降并恢复到雨前水平。需要指出的是,雨后生物结皮呼吸速率的快速升高一方面是土壤微生物对降雨和土壤水分增加快速响应的结果,另一方面还可能是降雨填充土壤孔隙后将先前土壤呼吸产生的 $\mathrm { C O } _ { 2 }$ 排出土壤的结果[25]。因此,雨后土壤呼吸速率的即刻快速增加并非完全是生物结皮呼吸对降雨的响应。
+
+此外,需要特别指出的是,本研究中藓结皮土壤呼吸对模拟降雨的响应规律可能伴随有土壤温度的影响。降雨活动除了通过增加土壤湿度、激发土壤微生物活性从而增加土壤呼吸速率之外,还可能通过影响土壤温度继而改变土壤呼吸强度[41],且土壤温度对土壤呼吸的影响程度在特定情况下可能远大于土壤含水量对土壤呼吸的影响。通常情况下，土壤呼吸速率与土壤温度成正相关关系,土壤温度越高则土壤呼吸强度越大[41],这一规律对于生物结皮同样成立[10]。研究证实,黄土和风沙土上藓结皮的呼吸速率日变化曲线与土壤温度日变化曲线高度一致,表明两种土壤上藓结皮的呼吸速率与表层土壤温度高度相关[10]。本研究中,夏季天气晴好时，正午藓结皮的表层土壤温度可超过 $5 5 \mathrm { { ^ \circ C } }$ ,模拟降雨一方面向土壤中输入了大量处于常温（约$2 5 \mathrm { ^ { \circ } C }$ )状态的水分,使土壤温度迅速降低;另一方面,模拟降雨后土壤蒸发强烈,水分蒸发带走了大量热量使土壤温度进一步降低。因此,模拟降雨可使藓结皮土壤温度快速下降,继而导致藓结皮呼吸速率降低,这可从一定程度上解释本研究中模拟降雨后藓结皮土壤呼吸速率下降的结果。同时,模拟降雨对两种土壤上藓结皮土壤温度的影响可能存有较大差异,这是因为：(1)两种土壤的质地不同,其热特性(地表反射率、土壤热容量、热导率)本身差异较大;(2)生物结皮可显著改变土壤热特性[16-17],而两种土壤上藓结皮的特征(生物量、覆盖度等)不同,因此两种藓结皮对土壤热特性的影响程度也不同;(3)生物结皮可显著改变土壤蒸发速率[36],因此两种不同特征的藓结皮对模拟降雨后土壤蒸发速率的影响程度也不同,即土壤热量散失的多少与快慢不同。综上,通过降低土壤温度间接改变土壤呼吸速率是降雨影响土壤呼吸的一个重要途径,该途径对于藓结皮这一特殊对象不仅同样成立，而且更为复杂。
+
+# 4结论
+
+7种降雨量后两种土壤上藓结皮的呼吸速率均显著升高,黄土上藓结皮呼吸速度的增幅为2.89—6.38倍，风沙土上藓结皮呼吸速率的增幅为0.73—4.38倍。0— $6 ~ \mathrm { m m }$ 降雨中，两种土壤上藓结皮的呼吸速率均随降雨量增加而迅速升高，二者成显著线性正相关关系；6一 $\cdot 4 0 \ \mathrm { m m }$ 降雨中，黄土上藓结皮的呼吸速率随降雨量增加而缓慢升高,但风沙土上藓结皮的呼吸速率随降雨量增加而快速降低。两种土壤上藓结皮的呼吸速率随雨后历时表现出相似的变化规律,即雨后迅速升高、之后逐渐降低,并在 $2 4 \mathrm { ~ h ~ }$ 左右回归到雨前水平;但黄土上藓结皮的呼吸速率在雨后即刻达到峰值,而风沙土上藓结皮的呼吸速率在雨后 $3 0 ~ \mathrm { m i n }$ 左右方达到峰值。黄土上藓结皮的呼吸速率一致高于风沙土上的藓结皮,前者在不同降雨量和雨后历时中平均比后者高 $1 5 0 . 0 \%$ 和 $5 9 . 6 \%$ 。此外,藓结皮呼吸速率与表层土壤含水量存有显著相关关系,在含水量较低（小于约 $4 \%$ )时二者显著正相关,在含水量较高(大于约 $4 \%$ )时二者对于黄土上藓结皮为正相关、对于风沙土上藓结皮为负相关。研究表明,黄土高原藓结皮土壤呼吸对降雨响应快速而直接,但其响应规律对于黄土和风沙土上的藓结皮是不同的,总体而言黄土上藓结皮对降雨的响应更为持久有效,在区域碳通量估算和碳循环研究中应予以特别关注。 ?
+
+# 参考文献（References）：
+
+[1]Catil-A，MastFReyA，Slivees，arca-Palacosologallustmcositrencotriutortilrespiration in a semiarid ecosystem. Ecosystems,2011,14(5）: 835-847.  
+[2]RaichJWseealboddfuinlspratiodiseatioshgeatiodeTl944(2): 81-99.  
+[3] 刘绍辉，方精云.土壤呼吸的影响因素及全球尺度下温度的影响.生态学报，1997，17(5)：469-476.  
+[4 BooneRD,eoerKJ，aryJD,KayeJotsertogueotmpaturesitityoflspatioure,396(6711) : 570-572.  
+[5] 陈全胜，李凌浩，韩兴国，阎志丹.水分对土壤呼吸的影响及机理.生态学报，2003，23（5）：972-978.  
+[6]Xu M,Qi Y. Soil-surface $\mathrm { C O } _ { 2 }$ efflux and itsspatial and temporal variations ina young ponderosa pineplantation in northern California.GlobalChange Biology，2001，7(6）：667-677.  
+[7] Belnap J.Theworldatyourfet：desertbiologicalsoilcrusts.FrontiersinEcologyandtheEnvironment，2O03,1（4)：181-189.  
+[8] Belnap J,Lange $_ { \textrm { 0 L } }$ .Biological Soil Crusts：Structure,Function，and Management.Berlin Heidelberg：Springer,2003.  
+[9] 李新荣，张元明，赵允格.生物土壤结皮研究：进展、前沿与展望.地球科学进展，2009，24（1)：11-24.  
+[10] 赵东阳，肖波，郭成久，贾玉华.藓结皮对陕北黄土高原两种质地土壤呼吸的影响.生态学杂志，2016，35（5)：1219-1225.  
+[11] NakanoT，NemotoMhiodaMEvioentalcotrolsootosteticproductionndossteespratioinsm-aridadsfMongolia.Agricultural and Forest Meteorology，2008，148(10）：1456-1466.  
+[12]ChenLDogJ,uJHagZHaYuiLDftfuseoesiooslanicarboestrtiihil  
+[13]Wilske B,Burgheimer J,Karnieli A,Zaady E,Andreae MO,Yakir D,Kesselmeier J. The $\mathrm { C O } _ { 2 }$ exchange of biological soil crusts in asemiaridgrass-shrublandatthe northern transition zoneof the Negev desert，Israel.Biogeosciences，2O08，5（5）：1411-1423.  
+[14］王卫华,李建波，武向博，王全九.生物结皮对土壤水气传输特性的影响.排灌机械工程学报，2015，33（8）：701-707.  
+[15] 胡宜刚，冯玉兰，张志山，黄磊，张鹏，徐冰鑫.沙坡头人工植被固沙区生物结皮一土壤系统温室气体通量特征.应用生态学报，2014，25(1): 61-68.  
+[16]XiaoBngJstelallsseseleeselein semiarid environment. Ecological Engineering，2013,58：52-56.  
+[17]XiaoBuKe,oaedclstsecslstuedueecosystems.Geoderma，2016,263：35-46.  
+[18]Maestre FT,Cortina J. Smal-scale spatial variation in soil $\mathrm { C O } _ { 2 }$ efflux in a Mediterranean semiarid steppe.Applied Soil Ecology，2003,23（3）:199-209.  
+[19］王爱国，赵允格，许明祥，王一贺，杨丽娜，明姣.黄土高原不同侵蚀区生物结皮土壤 $\mathrm { C O } _ { 2 }$ 通量日动态特征及其温度敏感性.环境科学学报，2013，33(9)：2605-2611.  
+[20] 王义东，王辉民，马泽清，李庆康，施蕾蕾，徐飞.土壤呼吸对降雨响应的研究进展.植物生态学报，2010，34（5)：601-610.  
+[21] 董云社，齐玉春，刘纪远，耿元波，Domroes M，杨小红，刘立新.不同降水强度4种草地群落土壤呼吸通量变化特征.科学通报，2005，50(5):473-480.  
+[22］刘殿君，吴波,李永华，林光辉，陈世苹，朱雅娟，卢琦，姚斌.极端干旱区增雨对泡泡刺（Nitraria sphaerocarpa)群落土壤呼吸的影响.中国沙漠，2013，33(3)：788-796.  
+[23] 赵蓉，李小军，赵洋，杨昊天,李刚.固沙植被区两类结皮斑块土壤呼吸对降雨脉冲的响应.中国沙漠，2015，35(2)：393-399.  
+[24] 贾晓红，辜晨，吴波，李元寿，成龙，李新荣.干旱沙区生物土壤结皮覆盖土壤 $\mathrm { C O } _ { 2 }$ 通量对脉冲式降雨的响应.中国沙漠，2016，36(2）：423-432.  
+[25］赵洋，齐欣林，陈永乐，张志山，贾荣亮，胡宜刚，张鹏.极端降雨事件对不同类型生物土壤结皮覆盖土壤碳释放的影响.中国沙漠，2013，33(2):543-548.  
+[26］赵蓉，李小军，赵洋，杨昊天，陈栋.固沙植被区两类结皮斑块土壤呼吸对不同频率干湿交替的响应.生态学杂志，2015，34（1)：138-144.  
+[27］齐玉春，董云社，金钊，肖胜生，彭琴，何亚婷，刘欣超.生物结皮对内蒙古沙地灌丛草地土壤呼吸特征的影响.地理科学，2010，30(6):898-903.  
+[28] 吴林，苏延桂，张元明.模拟降水对古尔班通古特沙漠生物结皮表观土壤碳通量的影响.生态学报，2012，32（13）：4103-4113.  
+[29] WuJBrokerallisfadcdgeigoflSoil Biology and Biochemistry，2005,37(3）:507-515.  
+[30]Beare M H,Gregorich E G， St-Georges P. Compaction effcts on $\mathrm { C O } _ { 2 }$ and ${ \bf N } _ { 2 } \mathrm { O }$ production during drying and reweting of soil. Soil Biology andBiochemistry，2009，41（3）：611-621.  
+[31]Buterly C R,Marschner P,McNeillA M，Baldock JA.Reweting $\mathrm { C O } _ { 2 }$ pulses in Australianagricultural soilsand the influenceof soil proerties.Biology and Fertility of Soils，2010,46(7): 739-753.  
+[32] MikhaMM,RiceCW,ilikenG.CrboanditrogmineralzatoaseedbringndweingesSilolndisty2005,37(2): 339-347.  
+[33]MuhrJrankeJrokenWDrying-rewetingeventseduceCandloesfroaNraspruerestflor.Soliologandoistry2010,42(8): 1303-1312.  
+[34］赵允格，许明祥，王全九，邵明安.黄土丘陵区退耕地生物结皮对土壤理化性状的影响.自然资源学报，2006,21（3）：441-448.  
+[35] 肖波，赵允格，邵明安.陕北水蚀风蚀交错区两种生物结皮对土壤理化性质的影响.生态学报，2007，27（11)：4662-4670.  
+[36] XiaoB,ZhaoYG,ShoA.CracteritisdumeculatioofilevaratioinologicalilrustsJoualofArdEviots，2010, 74(1) : 121-130.  
+[37] 唐克丽，黄土高原水蚀风蚀交错区治理的重要性与紧迫性.中国水土保持，2010，（11)：11-12，17-17.  
+[38] 韩海燕.高寒沙地生物结皮碳释放及其对土壤呼吸的影响.北京：中国林业科学研究院，2014.  
+[39] LangeOLMerelrHberUotosisdateaosoflstseasetsastalfNamib Desert.Functional Ecology，1994,8(2）： 253-264.  
+[40] 肖波，赵允格，邵明安.陕北水蚀风蚀交错区两种生物结皮对土壤饱和导水率的影响.农业工程学报，2007，23（12）：35-40.  
+[41］张东秋，石培礼，张宪洲.土壤呼吸主要影响因素的研究进展.地球科学进展.2005，20（7）：778-785.

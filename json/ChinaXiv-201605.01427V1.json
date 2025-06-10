@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "Murine Gammaherpesvirus 68 ORF48 Is an RTA-Responsive Gene Product and Functions in both Viral Lytic Replication and Latency during In Vivo Infection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jing Qi,a,b\\* Chuanhui Han,a,b Danyang Gong,a,b\\* Ping Liu,a Sheng Zhou,a,b Hongyu Denga ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ASKeyabt Academy of Sciences, Beijing, People's Republic of Chinab ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Replicationand transcriptionactivator(RTA)ofgammaherpesvirus isanimmediate early gene productandregulates the expresionofmanydownstreamviralytic genes.ORF48isalsoconservedamong gammaherpesviruses;however,its expression regulationandfunctionremainedlargelyunknown.Inthissudy,wecharacterizedthe ranscriptionunitofORF48frommurine gammaherpesvirus 68(MHV-68)andanalyzed its transcriptionalregulation.Weshowed thatRTAactivates the ORF48 promoter viaanRTA-responsiveelement (48pRRE).RTAbinds to 48pRRE directly in vitroandalso associates with ORF48 prmoterinvivo.Mutagenesisof48pRREinthecontextoftheviralgenomedemonstratedthattheexpressionofORF48isactivated byRTA through 48pRREduringdenovo infection.Through site-specificmutagenesis,we generatedanORF48-nullvirusand examinedthefunctionofORF48invitroand invivo.TheORF48-nullmutationremarkablyreduced theviralreplicationeffciencyincellculture.Moreover,throughintranasalor intraperitoneal infectionoflaboratorymice,we showedthatORF48 is importantforvirallyticreplicationinthelungandestablishmentoflatencyinthesplen,asellasviralreactivationfromlatency.Collectively,ourstudyidentifedORF48asanRTA-responsive geneandshowed thatORF48isimportantforMHV-68 replication both in vitro and in vivo. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IMPORTANCE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thereplicationandtranscriptionactivator (RTA),conservedamong gammaherpesviruses,serves asamolecularswitchforthe viruslifecycle.Iorksasatranscritionalregulatortoactivate teexpressonofmanyviralyticensHoweernlylited number ofsuchdownstream genes have beenuncoveredfor MHV-68.Inthis study,weidentifed ORF48asanRTA-responsive geneofMHV-68and mappedthecis elementinvolved.Byconstructinga mutant virus thatis deficientin ORF48 expresionand through infectionoflaboratorymice,we showedthatORF48plays importantrolesindiferentstagesofviralinfection invivo. Our stud provides insights into thetranscriptionalregulationand protein functionofMHV-68,adesired modelforstudying gammaherpesviruses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "? aposi's sarcoma-associated herpesvirus (KSHV),also known as human herpesvirus 8 (HHV-8),is a member of the gamma subfamilyof theHerpesviridae and is etiologicallyassociated with several human malignances,such as Kaposi's sarcoma,multicentric Castleman's disease,and primary effusion lymphoma (1). Like all otherherpesviruses,KSHV exhibits two distinct life cycles: latency and lytic replication.During the latent stage,the viral genome resides in the nucleus as a circular episome and expresses only a subset of viral genes,with no production of infectious viral particles (2-4).In contrast,during lytic replication, most,if not all viral genes,classified as immediate early,early,and late,are expressed in a highly regulated cascade manner,resulting in the release of progeny viruses for subsequent infection of naive cells and transmission to new hosts. Except in some types of multicentric Castleman's disease,viral latency is the predominant form of infection in most KSHV-associated diseases and,hence,is considered to directly contribute to KSHV-related tumorigenesis.Even thoughvirallytic replicationis found onlyinasmall fraction of infected cells,it is a critical pathogenic step in the development of KSHV-related diseases.Lytic replication plays important roles in enhancing the latently infected cells in a paracrine fashion and also in replenishing the pool of latently infected cells by continuously infecting naive cells (5,6). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KSHV, with a genome of approximately $1 6 5 \\mathrm { k b }$ ,encodes more than 80 proteins(7,8) although the function of many viral proteinsremains mysterious.Until recently,studies on the function of KSHV lytic proteins had been severely hampered due to the lack of an effective de novo lytic infection system and,more importantly,the lack of suitable small-animal models.Murine gammaherpesvirus 68 (MHV-68) is a member of the gammaherpesvirus subfamily,and it is genetically and biologicallyclosely related to KSHV (9).MHV-68 replicates in permissive cell lines in a robust manner,and its bacterial artificial chromosome(BAC) system facilitates genetic manipulation and subsequent functional assays. Moreover,as a natural pathogen to small rodents,MHV-68 can establish transient lytic infection in the lung, followed by latent infection in B lymphocytes and macrophages in the spleen of laboratory mice(l0,11）after infection via the respiratory route. Consequently,MHV-68 has served as a model for studying its two human counterparts,KSHV and Epstein-Barr virus (EBV),in recent years. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The replication and transcription activator (RTA),mainly encoded by ORF50, is conserved among gammaherpesviruses （12- 15).As an immediate early gene product,RTA serves as a molecular switch in the life cycle of KSHV and MHV-68 by initiating lytic replication and activating downstream gene transcription (15-19).In order to better understand the cascade control of gammaherpesvirus lytic gene expression,it is critical to identify viral genes activated by RTA and to investigate the mechanisms by whichRTA regulates the expression of these viral genes.InKSHV, a number of genes have been reported to be activated by RTA (19-29),while in MHV-68,only three RTA-responsive genes have beenidentified,which are v-cyclin, ORF18,and ORF57(30-32). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to sequence alignment, ORF48 is conserved in all gammaherpesviruses.In KSHV,ORF48 was reported to be an immediate early gene with unknown function (33);in MHV-68,it was reported to be a tegument-associated protein (34) but was not essential for viral lytic replication or latency establishment,and its function was unclear (35,36).However, rather than being based on site-specific mutagenesis,these results were mainly based on studies using deletion of large fragments (36) or insertions (35). Because this genomic region is very compact, such large-scale genetic manipulations might affect the expression of several neighboring genes and thus alter the viral phenotype,masking the true function of ORF48. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we investigated the transcriptional regulation and in vivo function of ORF48.We report here that ORF48 is a viral early gene product and can be activated by RTA.We further identified an RTA-responsive element (RRE) in the ORF48 promoter(designated 48pRRE) through reporter assays,showed direct binding ofRTA to 48pRRE in vitro and in vivo,and validated it during MHV-68 de novo lytic infection.By constructing an ORF48-null virus through site-specific mutagenesis,we showed that ORF48 is important for viral lytic replication in the lung, establishment oflatency in the spleen,and viral reactivation from latency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cells,viruses,and plaque assays.All cells were cultured at $3 7 ^ { \\circ } \\mathrm { C }$ in the presence of $5 \\% \\mathrm { C O } _ { 2 }$ .293Tcells,BHK-21 cells,and Vero cells were grown and maintained in Dulbecco's modified Eagle's medium(DMEM; Gibco) containing $1 0 \\%$ fetal bovine serum(HyClone) and antibiotics ( $5 0 ~ \\mathrm { U }$ of penicillin and $5 0 ~ \\mu \\mathrm { g }$ of streptomycin per ml).MHV-68 was originally obtained from Ren Sun(University of California,Los Angeles) and was propagated by infecting BHK-21 or NIH 3T3 cells ata multiplicity of infection (MOI) of 0.05 PFU/cell.At 5 days postinfection (p.i.),the supernatant was harvested and cleared oflarge cellular debris by centrifugation $( 1 , 5 0 0 \\times g$ for $1 5 ~ \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ ).To infect BHK-21 cells,the viral inoculum in DMEM was incubated with cells for $^ \\textrm { \\scriptsize 1 h }$ with occasional swirling.The inoculum was removed and replaced with fresh DMEM plus $1 0 \\%$ fetal bovine serum.For experiments involving cycloheximide(CHX; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sigma)or phosphonoacetic acid (PAA; Sigma),cells were treated at a concentration of $2 0 0 ~ \\mu \\mathrm { g / m l }$ during and after viral inoculation until they were harvested. Viral titers were measured by a standard plaque assay as descried previously (37).Briefly,monolayers of BHK-21 cells were infected with virus for1hand overlaid with $1 \\%$ methylcellulose (Sigma) for 5 days.Cells were fixed and stained with $0 . 2 \\%$ crystal violet (in $2 0 \\%$ ethanol),and plaques were then counted to determine the titer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmid construction.Plasmid p48pl was constructed by amplifying through PCR a 1-kb fragment upstream of the ORF48 initiation codon (GenBank accession number NC_001826.2,nucleotides [nt] 66584 to 67626)using primers ORF48pF1( $5 ^ { \\prime }$ -CAGACGCGTTATCCTTCTCTGG AAAGCGTGG $\\cdot 3 ^ { \\prime }$ )andORF48pR( $5 ^ { \\prime }$ -CAGAGATCTTATCCCACAATG TGCTGCAGTC $\\cdot 3 ^ { \\prime }$ ）and cloning into the BglI and MluI sites of pGL3- basic (Promega).The $5 ^ { \\prime }$ end deletion mutants of $\\mathrm { \\dot { p } 4 8 p 1 }$ (p48p2 to p48p5) were generated by PCR through a similar strategy.The site-directed mutagenesis mutants based on $\\mathrm { p } 4 8 \\mathrm { p } 2$ were generated viaa PCR-based mutagenesis system.Alldeletion and site-directed mutations were confirmed by sequencing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To construct pCMVHA-mRTA(where mRTA is MHV-68-encoded RTA),the rta genomic sequence was amplified by PCR with the primers RTAF $5 ^ { \\prime }$ -GCGAATTCCGATGGCCTCTGACTCG- $\\cdot 3 ^ { \\prime }$ )andRTAR( $5 ^ { \\prime }$ -C AGGGTACCTTTGGCACCGTTTATGACT $\\cdot 3 ^ { \\prime }$ ).The PCR product was subjected to EcoRIand KpnI digestion and then cloned into pCMV-HA (Clontech） vector. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RNA extraction,Northern blotting,and reverse transcription.Total RNAwas extracted from BHK-21 cells infected with MHV-68 atan MOI of 5 at different time points using TRIzol reagent (Invitrogen).A $1 0 \\mathrm { - } \\mu \\mathrm { g }$ portion of each RNA sample was denatured and then separated on a $1 \\%$ agarose gel containing $2 \\%$ formaldehyde inMOPSbuffer ( $2 0 ~ \\mathrm { m M }$ morpholinepropanesulfonic acid [MOPS], $5 \\mathrm { m M }$ sodium acetate,and $2 \\mathrm { m M }$ EDTA, $\\mathrm { p H } 7 . 0 \\$ ).AnRL6ooo RNAladder(TaKaRa) was loaded onto the gel asasize standard.RNAs were transferred to a charged nylon membrane (Amersham Pharmacia Biotech).The membrane was UV cross-linked, prehybridized,andhybridized at $6 5 ^ { \\circ } \\mathrm { C }$ in formamide prehybridization/ hybridization solution $5 0 \\%$ formamide, $5 \\times \\mathrm { S S C } [ 1 \\times \\mathrm { S S C }$ .is $0 . 1 5 \\mathrm { M N a C l }$ plus $0 . 0 1 5 \\mathrm { ~ M ~ }$ sodium citrate], $5 \\times$ Denhardt's solution, $1 \\%$ SDS)with a biotin-labeled double-stranded DNA probe. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For reverse transcription, $2 ~ \\mu \\mathrm { g }$ of RNA was reverse transcribed by Moloney murine leukemia virus reverse transcriptase (M-MLV） using oligo $( \\mathrm { d T } ) _ { 1 5 }$ primer. ORF48 and $\\beta$ -actin coding sequences were amplified by PCR.PCR products were resolved by $1 . 5 \\%$ agarose gel electrophoresis and visualized by ethidium bromide staining. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The labeling reactions for double-stranded DNA probes were performed in a $2 0 \\mathrm { - } \\mu \\mathrm { l }$ reaction mixture $( 0 . 5 ~ \\mathrm { m M }$ [each] dATP,dGTP,and dCTP, $0 . 2 5 \\mathrm { m M }$ dTTP, $0 . 2 5 \\mathrm { m M }$ biotin-dUTP, $4 0 0 \\mathrm { n g }$ of template DNA, 5 pmol of primer,and $0 . 5 \\mathrm { U }$ of Taq polymerase).PCR was initiated with a denaturing step of $4 \\mathrm { { m i n } }$ at $9 4 ^ { \\circ } \\mathrm { C } ,$ followed by 35 cycles of sequential steps of 1 min at $9 4 ^ { \\circ } \\mathrm { C }$ ,30sat $5 5 ^ { \\circ } \\mathrm { C }$ ,and $1 \\mathrm { m i n }$ at $7 2 ^ { \\circ } \\mathrm { C } .$ Finally,the reaction was extended for5 min at $7 2 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RACE.Total RNA was extracted from BHK-21 cells $1 2 \\mathrm { h }$ after infection with MHV-68(MOI of1) using TRIzol reagent (Invitrogen).The $5 ^ { \\prime }$ and $3 ^ { \\prime }$ ends of the ORF48 mRNA were identified usinga FirstChoice RNA ligase-mediated rapid amplification of cDNA ends (RLM-RACE）kit (Ambion).Briefly,for the $5 ^ { \\prime }$ end,totalRNAwas treated with calf intestine alkaline phosphatase (CIP) to remove free $5 ^ { \\prime }$ phosphates.The cap structure found on intact $5 ^ { \\prime }$ ends of mRNA was not affected by CIP.The RNA was then treated with tobacco acid pyrophosphatase (TAP) to remove the cap structure from full-length mRNA, leaving a $5 ^ { \\prime }$ monophosphate.A 45-base RNA adapter oligonucleotide was ligated to the RNA population using T4 RNA ligase.A random-primed reverse transcription reaction and subsequent nested PCR with specific primer located at nt 66362 on the MHV-68 genome were then carried out.For the $3 ^ { \\prime }$ end,first-strand cDNA was synthesized from total RNA,using the supplied $3 ^ { \\prime }$ RACE adapter.The cDNA was then subjected to PCR usinga $3 ^ { \\prime }$ RACE primer that is complementary to the anchored adapter with another specific primer located at nt 65629 on the MHV-68 genome. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/df03c6db7a7e1390eda3f94c2986184e78c9629cfc079480bae0b0608fcd532b.jpg",
+        "img_caption": [
+            "FIG1CharacterizatioofteMHV-68ORF48.(A)SchematicdagraofthelocuscotaigRTAandOR48ontheMHV-68geno.Tascitio initiation and termination sites of the ORF48 transcripts as mapped by $5 ^ { \\prime }$ and $3 ^ { \\prime }$ RACE assays are also shown.A total of six clones from $5 ^ { \\prime }$ RACE were sequenced; thetranscriptioninitiatiositesweremappedtont6605infourclonesandtont660intwootherclones.Atotalofsixloesfom $3 ^ { \\prime }$ RACE were sequenced; thetrascitaas gene.CellswerefectedbyaofepresenceofCXrAorftutreatedTotalascolctedad $2 4 \\mathrm { h }$ postinfection andanalyzedbyNorthernblotingwithaprobetargetingtheORF4codingregion.N,nonetreated; C,CHXtreated;P,PAAtreated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Antibodies,Westernblotting,and indirectimmunofluorescence assay. Cells were lysed in $1 \\times$ protein loading buffer,heated at $9 5 ^ { \\circ } \\mathrm { C } _ { : }$ ,and run on SDS-PAGE gels for Western blotting.Proteins were then transferred onto a polyvinylidene difluoride (PVDF） membrane (Millipore),incubated sequentially with primary antibody and secondary antibody,and detected by an enhanced chemiluminescence system (Millipore).For indirect immunofluorescence assay, Vero cells were infected with recombinant MHV-68 virus (r68)at an MOIof0.5and fixed with $4 \\%$ paraformaldehyde after $^ { 1 2 \\mathrm { ~ h ~ } }$ of infection. The fixed cells were permeabilized with phosphate-buffered saline(PBS)plus $0 . 2 \\%$ Triton X-1oo,incubated sequentially with mouse monoclonal anti-HA(1:5oo) antibody as the primary antibody and with secondary antibody conjugated to fluorescein isothiocyanate(l:1oo)orindodicarbocyanine(Cy5),stained with $^ { 4 ^ { \\prime } , 6 ^ { \\prime } }$ 1 diamidino-2-phenylindole (DAPI; $1 ~ \\mu \\mathrm { g / m l }$ ),and examined using a confocal microscope (Olympus). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dual-luciferase reporter assay.A dual-luciferase reporter assay system (Promega) was used to test promoter activity.Fifty nanograms of reporter plasmids was individually transfected into 293T cells ina 24-well plate with either 900 ng of pCMVHA-mRTA plasmid or empty pCMV-HA vector using Lipofectamine 20oo (Invitrogen).Ten nanograms of pRL-CMV vector, which contains the coding sequence for Renilla luciferase under the control of a constitutively active CMV promoter,was included in each transfection and served as an internal control for transfection efficiency.293T cells were collected at $^ { 4 8 \\mathrm { ~ h ~ } }$ posttransfection.Cells were washed with $1 \\times$ PBS and incubated with $1 0 0 \\mu \\mathrm { l }$ of $\\mathrm { 1 \\times }$ passive lysis buffer (PLB) provided by the manufacturer.Lysates were centrifuged at top speed in a microcentrifuge for $5 \\mathrm { { m i n } }$ ,and supernatants were assayed for reporter activities according to the manufacturer's instructions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EMSA.An electrophoretic mobility shift assay (EMSA) was performed according to a previously described method (32,38,39).Briefly,oligonucleotideswere labeled witha biotin $3 ^ { \\prime }$ end DNA labeling kit(Pierce) and then incubated with nuclear extract from pFLAGCMV2-mRTA-transfected 293T cells.For a supershift assay, $1 ~ \\mu \\mathrm { l }$ of anti-FLAG antibody (Sigma) was added into the binding reaction mixture.For a competition assay,a 2oo-fold excess amount of unlabeled RREA oligonucleotide was added.After incubation,oligonucleotides were resolved on native polyacrylamide gels and then transferred onto Hybond- ${ \\bf \\nabla } \\cdot { \\bf N } + { \\bf \\nabla }$ membrane and immobilized byUV cross-linking.Biotin-labeled oligonucleotideswere detected usinga Phototope-Star chemiluminescence detection kit according to the manufacturer's protocol (New England BioLabs). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChIP assay.Two million 293T cells were transfected with $1 ~ \\mu \\mathrm { g }$ of $\\mathrm { p } 4 8 \\mathrm { p } 2$ or $\\mathrm { p 4 8 p 2 - m D I }$ (where mDI indicates a mutation in ORF48 promoter sites Dand I) and ${ 9 } ~ { \\mu \\mathrm { g } }$ of pFLAGCMV2-mRTA (or empty vector pFLAGCMV2).Two days later,cells were washed twice with PBS and cross-linked with $1 \\%$ formaldehyde.After three more washes with PBS, cells were lysed in $4 5 0 \\mu \\mathrm { l }$ of SDS lysis buffer,and DNA was fragmented by sonication.The lysate was centrifuged at $1 5 { , } 0 0 0 \\times g$ for $1 5 \\mathrm { m i n }$ to remove cellular debris.For chromatin immunoprecipitation (ChIP), $2 0 0 ~ \\mu \\mathrm { l }$ of supernatant was diluted in $1 , 8 0 0 ~ \\mu \\mathrm { l }$ of ChIPdilution buffer and further incubated with $1 0 ~ \\mu \\mathrm { l }$ of anti-FLAG antibody-conjugated beads (Sigma). Beads were pelleted at low speed,sequentially washed with low-salt wash buffer,high-salt wash buffer,LiClbuffer,and Tris-EDTA(TE)buffer (pH 8.0).DNA-protein complexes were eluted from the beads by incubation in $2 5 0 \\mu \\mathrm { l }$ of elution buffer.NaCl was added to the elution buffer ata final concentration of $1 0 0 \\mathrm { m M }$ ,and DNA-protein cross-links were reversed by incubation at $6 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { h } }$ .Following treatment with proteinase K,DNA was extracted with phenol-chloroform and precipitated with ethanol. DNA was quantified by real-time PCR with the following primers: ORF48p-F, $5 ^ { \\prime }$ -GCA GAA ATT CCC TCG TAG TGC $\\cdot 3 ^ { \\prime }$ ;ORF48p2-R, $5 ^ { \\prime }$ -TGG AAA TCT GGT AGC TCC TCC TA- $\\cdot 3 ^ { \\prime }$ ； actin-F, $5 ^ { \\prime }$ -AGTTGC GTTACA CCC TTT CTT $\\mathbf { G } \\mathbf { - } 3 ^ { \\prime }$ ； actin-R, $5 ^ { \\prime }$ -CAC CTT CAC CGT TCC AGTTTT- $3 ^ { \\prime }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generation of recombinant MHV-68.Based on an MHV-68 BAC,a series of recombinant constructs,including BAC-RTAFLAG-48HA, BAC-mDI,BAC-48S,and BAC-48S.R (a revertant of BAC-48S),were generated by allelic exchange in Escherichia coli,using procedures described previously (40,41).Briefly,a fragment spanning the target region and the flanking sequences was cloned into ampicillin (Amp)-resistant plasmid pGS284,harbored in E.coli GS11l,and used as the donor strain for allelic exchange with the recipient strain GS5oo (recA） harboring chloramphenicol (Cam)-resistant MHV-68 (BAC-7).For BAC-48S,nucleotides GAG were also inserted downstream of the stop codon sequence to generate an XhoI site and facilitate screening of the clones.The restriction patterns ofBAC constructs were verified by comparison with those of BAC-7.Fragments with mutation sites were PCR amplified from BAC plasmids and sequenced to confirm that all mutations are correct. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To propagate the mutant MHV-68 viruses,the desired recombinant BACs were transfected into BHK-21 cells,and supernatant from each transfection was collected when cells showed complete cytopathic effect (CPE).Virus titer was determined by plaque assay.To remove the vector sequence from MHV-68 BAC viruses,293T cells were cotransfected with MHV-68 BAC DNA and a plasmid expressing Cre recombinase.Three days posttransfection,a single viral clone was isolated by limiting dilution and propagated for further studies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b2442fba7ad1eb71d7a5502963aa6acd0d2f4946dd582f22a998e4e791b0b5a.jpg",
+        "img_caption": [
+            "FIG 2 RTA activates the ORF48 promoter in thereporter assay.(A) Diagram ofthe1-kb ORF48 promoter anda series of $5 ^ { \\prime }$ deletion fragments. (B and C) Dualuciferaseesoasdciof directedaleeatss （mAto)eo.sseli the vector is significantly different from that for each of the ORF48 promoter reporter plasmids except mDI $\\mathit { \\Omega } ^ { \\prime } P < 0 . 0 1$ ).The difference between activation for 48p2 and that for each of mD,mE,mG,mH,and mI is also significant $( P < 0 . 0 1 \\$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA extraction and real-time PCR.To measure the copy numbers of viral genomes,total DNA was extracted from splenocytes by phenol-chloroform extraction.DNA was amplified by TransStart Eco Green $\\operatorname { q P C R }$ SuperMix(Transgen) according to the manufacturer's instructions with primers located in the ORF65 region on the MHV-68 genome (QORF65F, $5 ^ { \\prime }$ -GTCAGGGCCCAGTCCGTA,and Q-ORF65R, $5 ^ { \\prime }$ -TGGCC CTCTACCTTCTGTTGA).Amplification and detection were performed usinga Bio-Rad MyIQ real-time PCR detection system.For each reaction, $1 0 0 ~ \\mathrm { { n g } }$ ofDNA was analyzed in triplicates,and a standard curve was obtained by measuring $5 . 1 \\dot { 2 } \\times 1 0 ^ { - 6 }$ ng to $1 0 ~ \\mathrm { { n g } }$ of MHV-68 BAC spiked into $1 0 0 ~ \\mathrm { n g }$ of splenocyte DNA from an uninfected mouse. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mouse administration and in vivo infection.Maintenance of mice and experimental procedures were approved by the Animal Welfare and Research Ethics Committee of the Institute of Biophysics,Chinese Academy of Sciences.All procedures were performed under pentobarbital sodium anesthesia to minimize the suffering of mice.Four- to six-week-old, specific-pathogen free(SPF) female BALB/c mice were purchased from Vital RiverLaboratory Animal Technology.For in vivo infection,r68,48S, and 48S.R viruses were amplified in NIH 3T3 cells and purified by centrifugation to remove cellular debris.The mice were anesthetized intraperitoneally(i.p.)with pentobarbital sodium $\\mathrm { \\langle 5 0 m g / k g }$ body weight) and then either inoculated intranasally(i.n.)with $1 5 \\mu \\mathrm { l }$ of viral stock containing 500 or $5 \\times 1 0 ^ { 4 }$ PFU of recombinant MHV-68 viruses or infected intraperitoneally(i.p.) with 500 PFU of recombinant MHV-68 viruses in $5 0 0 ~ \\mu \\mathrm { l }$ of DMEM.The viral titers in the lung and viral reactivation from splenocytes were examined as described previously (42,43).Briefly, the lung was homogenized in $\\mathrm { 1 m l }$ of DMEM,and the virus titers were determined by three independent plaque assays.For infectious center assays, serial dilutions of splenocytes were laid onto BHK-21 cells,and after 6 days BHK-21 cells were fixed to determine the numbers of plaques.The plaques referred to as infectious centers arise as a result of the virus reactivation from latency.For ex vivo limiting dilution assays,BHK-21 cells were seeded in 96-well plates at ${ { 1 0 } ^ { 3 } }$ cells/well.Twofold serial dilutions of splenocytes starting at ${ { 1 0 } ^ { 6 } }$ cells per well were plated onto BHK-21 cells. After7 days,each well was scored for cytopathic effects,and the percentage of cytopathic effects per 24 wells was determined for each dilution. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The MHV-68 ORF48 is an early gene.The ORF48 gene is located in the middle of the MHV-68 genome,but its expression has not been thoroughly analyzed.We first sought to characterize the transcription unit of ORF48 by identifying the termini of ORF48 transcripts.We infected BHK-21 cells,which are permissive for robust MHV-68 lytic replication,for $1 2 \\mathrm { h }$ and isolated total RNA to perform both $5 ^ { \\prime }$ and $3 ^ { \\prime }$ rapid amplification of cDNA ends (RACE).As shown in Fig.1A, the ORF48 transcript initiates at nt 66605(GenBank accession number NC_001826.2）and terminates at nt 64847,and thus the calculated size of the ORF48 transcript would be $1 . 9 \\mathrm { k b }$ .We then examined transcriptional kinetics of ORF48 during MHV-68 de novo infection.We infected cells with MHV-68 in the absence or presence of either cycloheximide (CHX) or phosphonoacetic acid (PAA),collected cells at the time points indicated on Fig.1B,and analyzed ORF48 expression by Northern blotting.The size of the detected ORF48 transcript is 1.9 kb(Fig.1B),consistent with what is predicted from the RACE data.Moreover,expression of the ORF48 mRNA was resistant to inhibitionbyPAA(Fig.1B,lanes 6and9) but completely vanished in the presence of CHX(Fig.1B,lanes 3,5,and 8),indicating that ORF48 is a viral early gene.This result was consistent with the findings from a previous genome-wide transcription profiling work (44). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RTA activates ORF48 via 48pRRE in a reporter assay. RTA, expressed as an immediate early gene product,acts as a master regulatorof lytic replication forMHV-68 and canactivate several viral early genes (30-32). Since ORF48 is expressed as an early gene,we sought to examine whether it can also be activated by RTA.We first employed a luciferase reporter system to test whether the ORF48 promoter canbe activatedbyRTA.We cloned a l-kb fragment upstream of the ORF48 translational start codon (GenBank accession number NC_001826.2,nt 66584 to nt 67626) (Fig.lA and 2A) into the pGL3-basic vector to generate reporter plasmid $\\mathrm { p 4 8 p l }$ and then cotransfected p48p1 with pCMVHAmRTA(or pCMV-HA as a vector control) into $2 9 3 \\mathrm { T }$ cells to test the effect of RTA protein on the transcriptional activity from ORF48 promoter.As shown in Fig. 2B and C,p48pl displayed some basal promoter activity (Fig.2B)that can be increased by more than 400-fold in the presence of RTA(Fig.2C),demonstrating strong activation byRTA.In comparison, the control plasmid pGL3-basic was not activated (Fig.2B and C). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to map the ORF48 promoter's essential region that mediates RTA activation,we constructed a series of $5 ^ { \\prime }$ deletion plasmids based on p48pl,named $\\mathrm { p } 4 8 \\mathrm { p } 2$ to $\\mathrm { p } 4 8 \\mathrm { p } 5$ (Fig. 2A), and applied them to the reporter assay as described above.Results demonstrated that whereas these constructs displayed similar basal promoter activities,the level of activation byRTA remained at over 300-fold for $\\mathrm { p 4 8 p 1 }$ to $\\mathrm { p 4 8 p 4 }$ but fell dramatically to less than 2-fold for $\\mathrm { p } 4 8 \\mathrm { p } 5$ (Fig.2B and C),indicating that an RTAresponsive element (RRE),designated 48pRRE,lies between nt 66691 and nt 66742 in the MHV-68 genomic region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To identify the critical nucleotides mediating RTA activation, 10 reporter plasmids with site-directed mutations were constructed based on p48p2(Fig.2D) and tested for their activation ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A RREA: AAAAAGTCTCTTTTTGATGTGTTTACT 48pRRE: GTTGTATTTTTGAGTGTAGATTGAAAAGAGTTGTGCTC 48pRRE-mDI:GTTGTAagCTTGAGTGTAGATTGAAActcgagGTGCTC level byRTA.Mutations in two small clusters of nucleotides in the ORF48 promoter (one consisting of sites D and E and one consisting of sites G,H,and I) decreased the level of activation byRTA to approximately half of that of $\\mathrm { p } 4 8 \\mathrm { p } 2$ (Fig. 2E).Combined mutations in sitesDandI,termed mDI,abolished the activation of ORF48 promoter by RTA(Fig.2E),indicating that nucleotides in sites D and Iare critical for the function of 48pRRE. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dffdce4d01b3228bfa076e84e69370028412c41d1809c6dfde19a265eae46e5.jpg",
+        "img_caption": [
+            "FIG3 RTAbinds to 48pRRE in vitro and in vivo.(A) Sequences of biotin-labeled probesused in EMSA.(B) RTA specifically binds to 48pRRE in EMSA.Nuclear extract from pFLAGCMV2-RTA-transfected 293T cells was incubated with biotin-labeled probes (RREA,48pRRE,and 48pRRE-mDI).In supershift reactions, anti-FLAG antibody was added; in competition reactions,a 2Oo-fold excess amount of unlabeled RREA oligonucleotides was added.(C)RTA associates with ORF48 promoter ina ChIP assay.293T cells were transfected with ORF48 promoter plasmids (p48p2 or p48p2-mDI) and pFLAGCMV2-RTA(or empty vector pFLAGCMV2 as a control).A ChIP assay was performed by cross-linking DNAprotein complexes and immunoprecipitation with anti-FLAG antibody-conjugated beads.Quantitative PCR was performed with primers specific for the ORF48 promoter region or actin coding region as a control. Three independent experiments were performed,and the relative amount ofimmunoprecipitated DNA was first normalized to the input DNA and then compared to that of control vector (pFLAGCMV2)-transfected cells.\\*, $P < 0 . 0 5$ ; ns, $P > 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RTA binds to 48pRRE directly. Gammaherpesvirus RTA can activate viral promoters through two distinct mechanisms: by directlybinding to RRE and indirectly by activating other transcription factors (14,19).To explore the mechanism of how RTA activates ORF48 promoter,we first tested whether RTA can bind to 48pRRE directly in vitro in an electrophoretic mobility shift assay (EMSA).A previously identified MHV-68RTA binding sequence (RREA) (32) was included as a control (Fig.3A).As shown in Fig. 3B,FLAG-RTA containing nuclear extract shifted both probes RREA and 48pRRE butwithdifferentaffinities (lanes2and 6). The RTA-bound complexes formed on RREA or 48pRRE were supershifted bya monoclonal anti-FLAG antibody(lanes 3 and 7),while unlabeled probes competed for the binding ofRTA to RREA or 48pRRE (lanes 4and 8),demonstrating the specificity of RTA binding to 48pRRE.Introducing mutation mDI into 48pRRE abolished the binding ofRTA(lanes 9 to 12),indicating that the nucleotides in sites D and I,which are critical for the function of 48pRRE in a reporter assay,also play critical rolesin mediatingdirectbinding byRTA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c7a8e815059680ada8ae31240d1b079f7f4203882127f22e87daf44bb33a3d9.jpg",
+        "img_caption": [
+            "FIG4ConstrtAd4blygdusdutaius.()gaeedocatid Htastla fwildtypeMHV68BC-C-FLAG8H,ndRTAFLG-48H-(C)utiple-stowresfleMHV68ddbly taggedvirus(MHV68).(D)DetectioofLAGtagdTandHtaged48duringild-t68dMHV68denovifectioCe infected at an MOI of 3 for $1 2 \\mathrm { h }$ andthen collected for Wester blotting.(E)CellularlocalizationofORF48andRTAduring denovo infection.Verocels were infected with rMHV68 for $1 2 \\mathrm { h }$ and then subjected to an indirect immunofluorescence assay.Green,ORF48;red,RTA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/88d2abbabbceef6899a8fc1c2ffdcc52fca96a8ea6325e68654687bf41e4d58d.jpg",
+        "img_caption": [
+            "FIG5RTAactiaestrascriptiodexpressoofORF48ia4RREfroV-68ge.(AadB)Recoantvius68or6-Dwas used to infect 293T cells which had been transfected with pCMVHA-mRTA(or pCMV-HA) $2 4 \\mathrm { h }$ before infection.Four hours after infection,total RNA was isolatedforps targetingtheOB)ee adescribedodtt inhibited the expression of endogenous ORF48.Expression plasmid FLAG-RD2 o rectol ontrol was transfected intocells $2 4 \\mathrm { h }$ prior to infection with rMHV68 or68- (endogenou RTAandFLAG-RD2).TherelativeexpresionlevelsofendogenousRTA-FLAGandRF48-HAwerecalculatedwithIageJ. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next examined whether RTA also associates with the ORF48 promoter in vivo.We cotransfected 293T cells with the FLAG-RTA expression plasmid (or with vector as a control) and the reporter plasmid containing the ORF48 promoter (ORF48P2 or ORF48P2mDI) and then analyzed the binding ofRTA to the ORF48 promoter with a ChIP-quantitative PCR(qPCR) assay.As shown in Fig.3C,RTA is specifically associated with the wild-type ORF48 promoter but not with either the mDI mutant or actin coding region.Collectively,our results from EMSA and ChIP assayindicate thatRTA activates the ORF48 promoter via direct binding. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The expression of ORF48 relies on 48pRRE and RTA during de novo infection. The above observations suggested that RTA activated the ORF48 promoter in the reporter assay and that activation was mediated by 48pRRE located in the ORF48 promoter. We next investigated whether RTA could activate the expression of ORF48 in the context of the viral genome during MHV-68 de novo infection.To facilitate the analysis of endogenous RTA and ORF48 expression,we first took advantage of the bacterial artificial chromosome(BAC) system(45,46) to construct a recombinant MHV-68 BAC,termed BAC-RTAFLAG-48HA,using a two-step allelic exchange method (40).This recombinant BAC expresses a FLAG tag on the C terminus of RTA and an HA tag on the C terminus of ORF48 (Fig. 4A). The recombinant BAC plasmid(BAC-RTAFLAG-48HA）was validated by both restriction enzyme digestion(Fig.4B） and direct sequencing analysis. The BAC plasmid was then transfected into 293T cells to reconstitute virus (named rMHV68).To verify that this doubly tagged virus has no deficiency in lytic gene expression,we compared its growth kinetics with that of the wild-type MHV-68 and found no obvious difference (Fig.4C).Moreover,the expression ofRTAand ORF48 proteins during de novo infection can be successfully detected by Western blotting(Fig. 4D),suggesting that rMHV68 virus can be utilized as an important tool to study the expression kinetics, function,and localization of RTA and ORF48 proteins in the context of viral genome. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/784d5aae6a705b6b8a11302c4e940e0dfc4dae082ad8d18e2c7fb8efa5c56b56.jpg",
+        "img_caption": [
+            "FIG6Cnstructodracterzatifa8Oulls.（)aticltratiooft68usrbgteutati ORF48-ultteceiisutatedtrtasitaiodoalt downstreaftrasatatd4).B)stridigestalsofC-dh-d mutant(u indicated time points postinfection,and viral titers were determined by plaque assay. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "By taking advantage of this doubly tagged recombinant virus, rMHV68,we first determined the subcellular localization of ORF48 during de novo infection.Briefly,Vero cells were infected with rMHV68 for $1 2 \\mathrm { h }$ at an MOI of 0.5 and then subjected to an immunofluorescence assay with antibodies against the FLAG and HA epitopes.Detection with a confocal laser microscope demonstrated that the endogenous ORF48 protein was distributed in both the nucleus and the cytoplasm,and RTA mainly displayed a nuclear localization (Fig. 4E). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To confirm the role of the RTA-responsive element 48pRRE in driving ORF48 expression in the context ofMHV-68 lytic replication,we next generated a mutant BAC,BAC-RTAFLAG-48HAmDI, on the basis of BAC-RTAFLAG-48HA (Fig. 4A and B). The corresponding mutant virus,named rMHV68-mDI (mDI),was also reconstituted by transfecting BAC-RTAFLAG-48HA-mDI plasmid into cultured cells.Utilizing these recombinant viruses, we first investigated the role of RTA in regulating ORF48 transcription by reverse transcription-PCR(RT-PCR) during de novo infection at a very early time after viral infection.As shown in Fig. 5A,exogenous RTA enhanced transcription of ORF48 from the viral genome at $^ { 4 \\mathrm { h } }$ after MHV-68 infection (lanes 1 and 2),and such enhancement was almost diminished by disruption of ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "48pRRE (rMHV68-mDI) (lanes 3 and 4).To confirm this result, Northern blotting was carried out (Fig.5B).In rMHV68 infected cells,introduction of exogenous RTA increased the transcription level of ORF48 (Fig.5B,lanes3 and 4); however,in cells infected with rMHV68-mDI, ORF48 could barelybe detected, especially in the absence of exogenous RTA protein (Fig.5B,lanes 5 and 6).We thus concluded that,during the very early stage of MHV-68 de novo infection,cis element 48pRRE mediated the activation of ORF48 transcription by RTA (Fig.5B,compare lanes 3 and 5)and that the activation could be further enhanced by exogenous RTA. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We next examined whether the protein level of ORF48 would also increase as a result of RTA activation.We transfected $2 9 3 \\mathrm { T }$ cells with pCMVHA-mRTA(or pCMVHA）and after $2 4 \\mathrm { ~ h ~ }$ individually infected the cells with rMHV68 or the rMHV68-mDI mutant for 6 and $^ { 8 \\mathrm { ~ h ~ } }$ ,whichare the early time points when ORF48 protein is detectable by Western blotting. As shown in Fig.5C,in cells infected with rMHV68,ORF48 expression notably increased in the presence of exogenous RTA (lanes 1 and 3).In contrast,in cells infected with rMHV68- mDI,ORF48 expression could not be detected in either the presence or absence of exogenous RTA (lanes 2 and 4); very weak expression of ORF48 was observed in rMHV68-mDIinfected cells only in the presence of exogenous RTA at $^ \\textrm { \\scriptsize 8 h }$ postinfection (lane 8).These data provided further evidence that 48pRRE is critical for ORF48 expression. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the involvement of RTA in activating ORF48,we also employed a dominant negative form of MHV-68 RTA,FLAG-RD2 (339 amino acids [aa]) (47). Cells were transfected with FLAG-RD2 (or empty vector as a control) and infected with rMHV68 or rMHV68-mDI.As shown in Fig.5D,in the presence of FLAG-RD2,the expression level of the endogenous RTA was reduced to $4 1 . 7 \\%$ of that in the vector-transfected cells (Fig. 5D,first panel, lanes l and 2),consistent with auto-activation of RTA that was reported previously (22, 47).However, the expression level of ORF48 in cells infected with rMHV68 was more severelyrepressed, to $1 9 \\%$ ,by FLAG-RD2 (Fig. 5D, second panel, lanes l and 2),indicating that expression of ORF48 relies on functional RTA.In cells infected with rMHV68-mDI, the expression level of ORF48 was reduced to only $3 . 4 \\%$ of that of rMHV68,and this was further reduced to $1 . 8 \\%$ in the presence of FLAG-RD2 (Fig.5D,second panel,lanes 1,3,and 4).Interestingly,the expression level of RTA increased to approximately eight times that in cells infected with rMHV68,but this was again reduced by the presence of FLAG-RD2 (Fig. 5D, first panel, lanes 1,3,and 4). Therefore,knocking down RTA function resulted in decreased ORF48 expression,demonstrating that the expression of ORF48 depends on functional RTA during de novo infection. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Collectively,these results demonstrated that 48pRRE is critical for ORF48 expression and that RTA activates ORF48 expression through 48pRRE in the context of viral infection. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Constructionandcharacterization ofan ORF48-nullMHV-68 virus in vitro.Having characterized the transcriptional regulation of ORF48,we next sought to investigate the role of ORF48 during MHV-68 de novo infection.In order to precisely analyze the function of ORF48 in vitro and in vivo,we constructed an ORF48-null mutant (designated BAC-48S）based on the BAC-RTAFLAG48HA through site-specific mutagenesis (Fig. 6A).Restriction enzyme analysis showed that the 48S BAC exhibited the same digestion pattern as RTAFLAG-48HA BAC (Fig. 6B),suggesting that no undesired mutation was introduced.DNA sequencing further confirmed that the stop codon mutation was successfully inserted into the MHV-68 ORF48 region (data not shown).To ensure that anyphenotype displayed by 48S is associated with the ORF48-null mutation but not due to any additional recombination or accidental mutation on the MHV-68 genome,a revertant of BAC-48S (named BAC-48S.R) wasalso generated from BAC-48Sby replacing the ORF48-STOP with a wild-type copy of ORF48.In restriction enzyme digestions and DNA sequencing analyses, the 48S.R BAC exhibited the same fragment patterns as RTAFLAG-48HA BAC (Fig. 6B,and data not shown). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The BAC plasmids of wild-type,null-mutant,and revertant were then individually transfected into cell cultures to reconstitute rMHV68,r48S,and $\\mathrm { r 4 8 S . R }$ viruses.To facilitate theinvivo infection study,the BAC backbone sequence of the rMHV68,r48S,and r48S.R viruses was further removed by Cre recombination in 293T cells (41) to reconstitute r68,48S,and 48S.R viruses separately.To examine the role of ORF48 during MHV-68 lytic replication in vitro,we first employed multiple-step growth curve analysis.As shown in Fig.6C,replication of the 48S virus was remarkably slower than that of r68 and 48S.RinNIH3T3 cellsat and after 24 h postinfection,indicating that ORF48 is important forMHV-68 lytic replication in cell culture. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fbff029e93b0cfed1af676a64a0af474c96a00ca2e0062dcdfa3c4d14a34ace.jpg",
+        "img_caption": [
+            "FIG7MHV-68 ORF48-null virus displayed a significant growth defect in the lung of infected mice.Results from one representative experiment are shown. (A)Body weights of ${ \\mathrm { B A L B } } / { \\mathrm { c } }$ mice infected with $5 0 0 ~ \\mathrm { P F U }$ of each indicated virus.(B) Infectious virus load in the lungs.The lungs were removed from infected mice at the indicated time points postinfection,and tissue homogenates were used to measure viral titers by standard plaque assays.Each time point represents data from five animals,and error bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ORF48 plays an important role during lytic infection in the lung and the establishment of latency in the spleen.We next sought to explore the in vivo function of ORF48.First,BALB/c micewere intranasally infected with 500PFUof r68,48S,or 48S.R virus.The body weights of the mice infected with each virus displayed no significant difference(Fig.7A).As MHV-68 establishes transient lytic replication in lung epithelial cells after intranasal infection,we tested the titer of each virus in the lung at various time points.The replication levels and kinetics of r68 and 48S.R were very similar to each other.48S virus,on the other hand, replicated much less effciently than r68 or 48S.R,especially at peak time points,resulting in approximately 30-fold and 50-fold lower titers at 5 and7 days postinfection,respectively (Fig.7B). The attenuated growth of 48S virus during acute infection suggested that ORF48 is important for robust lytic replication of MHV-68 in the lung of infected mice. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After being cleared from the lung by the host immune system, MHV-68 further establishes latency in the spleen,with a peak viral load at2 to 3 weeks postinfection (42,48,49).At this peak time of viral latency, the mice exhibit a mononucleosis-like symptom due to an amplification of lymphocytes,which causes a significant increase in spleen weight.Indeed,infection of mice with r68,48S, or 48S.R led to a gradual increase in spleen weight that reached its peak at day 14 postinfection.However,the spleens of 48S virusinfected mice were smaller than those ofmice infected with r68 or ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a00846f7bcc7ea20f8e14ca61b42b0da832973c5eb244b7000194fe99f952bd.jpg",
+        "img_caption": [
+            "FIG8OR48ipoatftesultseexp（sc ifectedwithaedtifeepreifctso Quatativealeodasfd MHV-68O6d splsse to determine the virus reactivation efficiency (D). $E x$ vivo limiting dilution assays were also performed with the same single-cell suspensions harvested atday 14 (E)and day21(F)postinfection.For each virus infectionat each time point,splenocytes from five infected mice $( 5 \\times 1 0 ^ { 6 }$ cells each) were pooled and analyzed in the limiting dilution assay. $^ *$ 0 $P < 0 . 0 5$ $^ { * * }$ $P < 0 . 0 1$ (comparison between results for r68 or 48S.R and 48S). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "48S.R on days 9,14,and 21 postinfection (Fig.8A and B).To test the latent viral genome load,we prepared single-cell suspensions fromspleens harvested at14 and 21 daysp.i.and quantified the genome copy numbers in splenocytes by real-time PCR.Whereas similar levels of viral genome copy numbers were detected in the splenocytes from r68- or 48S.R-infected mice at 14 and 21 days postinfection,considerably fewer viral genomes were detected from 48S-infected mice (Fig. 8C). These results implied that although the ORF48-null virus was able to establish splenic latency, efficiency was impaired. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To further assess the level of viral latency for r68,48S.R,and 48S infection, infectious center assays (Fig. 8D) and ex vivo limiting dilution assays were performed on splenocytes from infected mice at the time points indicated (Fig.8E andF) (42,50).Again,in the splenocytes from mice infected with 48S,viral reactivation efficiency was significantly lower than that in those from mice infected with r68 or $4 8 S . \\mathrm { R } ,$ indicating that although the ORF48- null virus is able to establish splenic latency,the efficiencyis largely impaired. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The above infection experiments were performed using a relatively low inoculum dose of 50o PFU.To test whether a higher dose infection would overcome the impairment of lytic replica tion and establishment of latency displayed by ORF48 deficiency, we infected mice intranasally with $5 \\times 1 0 ^ { 4 }$ PFUof $^ { \\cdot } _ { \\mathrm { r 6 8 } }$ or 48S virus and repeated the experiment.Similar to the result from infection with 50o PFU virus,the body weight of mice infected with 48S virus showed no obvious change compared to mice infected with r68 virus (Fig.9A). 48S virus replicated much less efficiently than r68 in the lung of infected mice,resulting in approximately 100- fold and 50-fold lower titers at 5 and 7 days postinfection, respectively (Fig.9B),induced less splenomegaly at days 11 and 14 postinfection (Fig. 9C),and showed impaired reactivation efficiency at the two time points tested (Fig.9D).Therefore,a higherdose MHV-68 infection of mice did not rescue the impairment displayed by the ORF48-null mutation in either lytic replication or latency. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Collectively,these results indicated that after infection of mice via the respiratory route,regardless of the viral inoculum dose, ORF48 plays an important role in MHV-68 lytic replication in the lung as well as in latency establishment and viral reactivation from splenocytes. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ORF48 plays an important role in the establishment ofMHV-68 latency through intraperitoneal infection. Through the intranasal inoculation route,MHV-68 first undergoes acute lytic infection in the lung of infected mice before being transmitted to and establishing latency in the spleen (51). Therefore,the lower level of latency achieved by 48S virus,as we observed above,may be due to attenuated acute replication in the lung.Alternatively, ORF48 may play an important role in the establishment of latency regardless of lytic replication in the lung.To more directly assess the effect of ORF48 on viral latency,we next performed intraperitoneal inoculation of mice to bypass acute viral replication in the lung. We inoculated BALB/c mice intraperitoneally with 500 PFU of either r68,48S.R,or 48S. Afterl4,18,21,and 28 days of infection,mice were sacrificed, and spleens were harvested and examined for viral latency.The body weights of infected mice increased gradually with no significant difference among these three MHV-68 viruses (Fig. 10A).Although the spleen weights from all three infected groups peaked at day l4 postinfection,48S induced less splenomegaly at all time points on and after l4 days than r68 and 48S.R(Fig. 10B).To quantitatively analyze the level of viral latency,we first measured the viral genome copies in the splenocytes and found that all three viruses were able to establish latency in the spleen at day 14 postinfection; furthermore, at days 18 and 2l postinfection,the viral genome load in the splenocytes of 48S-infected mice was significantlylower than thatof $\\mathrm { \\Delta r } 6 8 -$ or 48S.R-infected mice (Fig.l0C).Consistent with these observations,infectious center assays revealed that these three viruses exhibited comparable frequencies of reactivation at day l4 postinfection; however,the reactivation efficiency for 48S virus was lower than that of r68 and 48S.R at days 18,21, or 28 postinfection (Fig.loD).Limiting dilution assays on splenocytes harvested at days 18,21,and 28 confirmed the reduction in reactivation efficiency for 48S (Fig.1OE,F,and G). Taken together,these results demonstrated that MHV-68 ORF48 playsan important function in viral latency in spleno cytes regardless of lytic replication in the lung. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/34c373241f956a7d98d875a3518f287c2daa94113e50234568331c7fcdbc40c1.jpg",
+        "img_caption": [
+            "FIG9Aighoaasallesohptsp4ulltailtplaoy) Body weights of BALB/c mice infected with $\\dot { 5 } \\times 1 0 ^ { 4 }$ PFU of each indicated virus.(B) Viral titers in lungs from infected mice were determined at3,5,7, and9dayspCestfshtsaedoaevelsfactissdc Single-cellsesiell each time point represents data from five animals,and error bars represent standard deviations.\\*, $P < 0 . 0 5 ; { ^ { \\ast \\ast } }$ $P < 0 . 0 1$ (comparison between results for r68 and 48S). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this study,we characterized the transcription unit of MHV-68 ORF48 and identified that it is expressed as a viral early gene during lytic replication (Fig. 1).We further found that ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ORF48 is activated by RTA both in reporter assays and during MHV-68 de novo infection and mapped the cis element in the ORF48 promoter that mediates its activation by RTA(Fig.2 to 5). RTA functions as the molecular switch for MHV-68 and KSHV and activates the expression of many downstream viral lytic genes. Three viral genes,ORF18,ORF57,and ORF72,have previously been reported to be regulated by MHV-68 RTA(30-32).Although theRREs for ORF57and ORF72were identified, the mechanisms responsible for RTA controlling these elements were not investigated (30,31).For ORF18,a 27-bp RRE was identified through a combination of reporter assay,EMSA,and viral genetics (32).The 48pRRE mapped in this study(Fig.2) does not share significant homology with the RREs of the ORF57 and ORF72 promoters. 48pRRE does contain some of the core sequencesof ORF18 RRE. Consistently,our EMSA and ChIP assay(Fig.3) showed that RTA binds 48pRRE in vitro and in vivo,indicating thatRTAactivates the ORF48 promoter in a direct-binding manner even though we cannot exclude the possibility that other cellular factor(s） may assist with RTA's binding to 48pRRE. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ORF48 is conserved among all gammaherpesviruses,but its function remained largely unclear.In this study,by introducing a stop codon into the coding region of ORF48 to construct an ORF48-null virus,we examined the function of ORF48 both in vitro and in vivo.The results showed that the viral titerof ORF48- null virus decreased more than 5O-fold compared to that of wildtype MHV-68 (Fig.6),indicating that ORF48 is important for MHV-68 lytic replication and virion production in cell culture.In addition, ORF48-null virus not only replicated less efficiently in thelung of infected mice but also exhibiteda reduced level of latency in the spleen and was reactivated with impaired efficiency (Fig.7 to lO),regardless of the inoculum doses and routes. Al",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A(we） 中8.R ns \\*\\* 101 r68 同 \\* \\* 8S.R   \n4 00 中48S.R 4   \n14+ × 7 14 21 28 0.05- 7 14182128 14 18 21 days post infection days post infection days post infection   \nD E F G   \n( 中 y R 品 60 A 1 △ 60 6 R A 9 4 中 28 1d 动 40 A A 4 &9   \n14 1821 R % % X 5 5 6 5 days post infection Logio (number of cells /well) Logto (number of cells /well) Logto (number of cells /well) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "though the mechanism involved needs further investigation,our data overall proved that ORF48,as an RTA-responsive gene product, plays important roles in the MHV-68 life cycle. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We thank Ren Sun,Ting-Ting Wu, Seungmin Hwang,Kevin Lee,Yuchen Xiao,and members of the Deng laboratory for helpful discussions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Natural Science Foundation(grant numbers 30930007 and 81325012)and from the Ministry of Science and Technology(973 Program,grant number 2011CB504805)of China. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.Stevenson PG.2oo4.Immune evasion by gamma-herpesviruses.Curr Opin Immunol16:456-462.http://dx.doi.org/10.1016/j.coi.2004.05.002.   \n2.Jenner RG,Alba MM,Boshoff C,Kellam P.20O1．Kaposi's sarcomaassociated herpesvirus latent and lytic gene expression as revealed by DNA arrays.JVirol 75:891-902.http://dx.doi.org/10.1128/JV1.75.2.891-902.2001.   \n3.Samols MA,HuJ,Skalsky RL,RenneR.2Oo5.Cloning and identification of a microRNA cluster within the latency-associated region of Kaposi's sarcoma-associated herpesvirus. J Virol 79:9301-9305. http://dx.doi.org /10.1128/JVI.79.14.9301-9305.2005.   \n4.DittmerD,Lagunoff M,RenneR,StaskusK,Haase A,GanemD.1998. A cluster of latently expressed genes in Kaposi's sarcoma-associated herpesvirus.JVirol 72:8309-8315.   \n5.Bais C,Santomasso B,Coso O,ArvanitakisL,Raaka EG,Gutkind JS, Asch AS,Cesarman E,Gerhengorn MC,Mesri EA.1998.G-proteincoupled receptor of Kaposi's sarcoma-associated herpesvirus isaviral oncogene and angiogenesis activator.Nature 391:86-89.http://dx.doi .org/10.1038/34193.   \n6.Choi YB,Nicholas J.2oo8.Autocrine and paracrine promotion of cell survival and virus replication by human herpesvirus 8 chemokines.JVirol 82:6501-6513.http://dx.doi.org/10.1128/JV1.02396-07.   \n7.Renne R,Lagunoff M, Zhong W,Ganem D.1996.The size and conformation of Kaposi's sarcoma-associated herpesvirus (human herpesvirus 8)DNA in infected cells and virions.JVirol 70:8151-8154.   \n8．Russo JJ,Bohenzky RA,Chien M-C,Chen J,Yan M,Maddalena D, Parry JP,PeruzziD,Edelman IS,Chang Y.1996.Nucleotide sequence of the Kaposi sarcoma-associated herpesvirus (HHV8).Proc Natl Acad Sci U S A 93:14862-14867. http://dx.doi.org/10.1073/pnas.93.25.14862. 9.VirginHW,IV,LatreilleP,WamsleyP,HallsworthK,WeckKE,Dal Canto AJ, Speck SH.1997. Complete sequence and genomic analysis of murine gammaherpesvirus 68.J Virol 71:5894-5904.   \n10.Nash AA,Dutia BM,Stewart JP,Davison AJ.2OO1.Natural history of murine gamma-herpesvirus infection.Philos Trans R Soc Lond B Biol Sci 356:569-579.http://dx.doi.0rg/10.1098/rstb.2000.0779.   \n11.Simas JP,Efstathiou S.1998.Murine gammaherpesvirus 68: a model for the study of gammaherpesvirus pathogenesis.Trends Microbiol 6:276- 282.http://dx.doi.0rg/10.1016/S0966-842X(98)01306-7.   \n12.Sun R,Lin SF,GradovilleL, Yuan Y,Zhu F,MillerG.1998.A viral gene that activates lyticcycle expression of Kaposi's sarcoma-associated herpesvirus.Proc Natl Acad SciU S A 95:10866-10871.http://dx.doi.org/10 .1073/pnas.95.18.10866.   \n13.Liu S,Pavlova IV,Virgin HW,IV,Speck SH.2Ooo.Characterization of gammaherpesvirus 68 gene 50 transcription.J Virol 74:2029-2037.htp: //dx.doi.0rg/10.1128/JV1.74.4.2029-2037.2000.   \n14.Staudt MR,Dittmer DP.20o7.The Rta/Orf50 transactivator proteins of the gamma-herpesviridae. Curr Topics Microbiol Immunol 312:71-100. http://dx.doi.0rg/10.1007/978-3-540-34344-8_3.   \n15.Wu TT,Usherwood EJ,Stewart JP,Nash AA, Sun R.20oo.Rta of murine gammaherpesvirus 68 reactivates the complete lytic cycle from latency.JVirol 74:3659-3667. http://dx.doi.org/10.1128/JVI.74.8.3659-3667.2000.   \n16.Lukac DM,Renne R,Kirshner JR,Ganem D.1998.Reactivation of Kaposi's sarcoma-associated herpesvirus infection from latency by expression of the ORF 50 transactivator,a homolog of the EBVR protein. Virology 252:304-312.http://dx.doi.0rg/10.1006/viro.1998.9486.   \n17.Lukac DM,Kirshner JR,Ganem D.1999.Transcriptional activation by the product of open reading frame 50 of Kaposi's sarcoma-associated herpesvirus is required for lytic viral reactivation in B cells.JVirol 73:9348- 9361.   \n18.Miller G,El-Guindy A, Countryman J,Ye J,Gradoville L.20o7.Lytic cycle switches of oncogenic human gammaherpesviruses.Adv Cancer Res 97:81-109.http://dx.doi.0rg/10.1016/S0065-230X(06)97004-3.   \n19.Deng H,Liang Y,Sun R.2oo7.Regulation of KSHV lytic gene expression. Curr Topics Microbiol Immunol 312:157-183.http://dx.doi.org/10.1007 /978-3-540-34344-8_6.   \n20.Bowser BS,DeWire SM, Damania B.2002.Transcriptional regulation of the K1 gene product of Kaposi's sarcoma-associated herpesvirus.J Virol 76:12574-12583. http://dx.doi.org/10.1128/JV1.76.24.12574-12583.2002.   \n21.Chen J,Ueda K,Sakakibara S,Okuno T,Yamanishi K.20oo.Transcriptional regulation of the Kaposi's sarcoma-associated herpesvirus viral interferon regulatory factor gene. J Virol 74:8623-8634. http://dx.doi.org /10.1128/JVI.74.18.8623-8634.2000.   \n22.Deng H, Young A,Sun R.2ooo.Auto-activation of the rta gene of human herpesvirus-8/Kaposi's sarcoma-associated herpesvirus.J Gen Virol 81: 3043-3048.   \n23.Lukac DM,Garibyan L,Kirshner JR,Palmeri D,Ganem D.2001.DNA binding by Kaposi's sarcoma-associated herpesvirus lytic switch protein is necessary for transcriptional activation of two viral delayed early promoters.JVirol 75:6786-6799.http://dx.doi.org/10.1128/JVI.75.15.6786-6799 .2001.   \n24.Sakakibara S,Ueda K,Chen J,Okuno T,Yamanishi K.2001.Octamerbinding sequence is a key element for the autoregulation of Kaposi's sarcoma-associated herpesvirus ORF5o/Lyta gene expression.J Virol 75: 6894-6900.http://dx.doi.0rg/10.1128/JV1.75.15.6894-6900.2001.   \n25.Song MJ,Brown HJ,Wu TT,Sun R.20O1. Transcription activation of polyadenylated nuclearRNAbyRtainhumanherpesvirus 8/Kaposi'ssarcoma-associated herpesvirus.J Virol 75:3129-3140.http://dx.doi.org/10 .1128/JVI.75.7.3129-3140.2001.   \n26.Zhang L,Chiu J,Lin JC.1998. Activation of human herpesvirus 8 (HHV-8） thymidine kinase (TK) TATAA-less promoter by HHV-8 ORF50 gene product is SP1 dependent. DNA Cell Biol 17:735-742. http: //dx.doi.org/10.1089/dna.1998.17.735.   \n27.Jeong J,Papin J,Ditmer D.20o1.Differential regulation of the overlapping Kaposi’s sarcoma-associated herpesvirus vGCR(orf74) and LANA (orf73） promoters.J Virol 75:1798-1807.http://dx.doi.org/10.1128/JVI .75.4.1798-1807.2001.   \n28.Liang Y,Chang J, Lynch SJ,Lukac DM,Ganem D.2002.The lytic switch protein of KSHV activates gene expression via functional interaction with RBP-Jk (CSL), the target of the Notch signaling pathway. Genes Dev 16: 1977-1989.http://dx.doi.org/10.1101/gad.996502.   \n29.Deng H, Song MJ,Chu JT,Sun R.2oo2.Transcriptional regulation of the interleukin-6 gene of human herpesvirus 8 (Kaposi's sarcoma-associated herpesvirus). J Virol 76:8252-8264. http://dx.doi.org/10.1128/JV1.76.16 .8252-8264.2002.   \n30.Allen RD,II, DeZalia MN,Speck SH.2007.Identification of an Rta responsive promoter involved in driving $\\gamma \\mathrm { H V 6 8 \\nu }$ -cyclin expression during virus replication. Virology 365:250-259.http://dx.doi.org/10.1016/j .virol.2007.03.021.   \n31.Pavlova I, Lin CY, Speck SH. 2005. Murine gammaherpesvirus 68 Rtadependent activation of the gene 57 promoter.Virology 333:169-179. http://dx.doi.org/10.1016/j.virol.2004.12.021.   \n32.Hong Y, Qi J, Gong D, Han C,Deng H. 2011. Replication and transcription activator (RTA) of murine gammaherpesvirus 68 binds to an RTA-responsive element and activates the expression of ORF18.J Virol 85:11338-11350.http://dx.doi.org/10.1128/JV1.00561-11.   \n33.Zhu FX,Cusano T,Yuan Y.1999.Identification of the immediate-early transcripts of Kaposi's sarcoma-associated herpesvirus.J Virol 73:5556- 5567.   \n34.Bortz E,Whitelegge JP,Jia Q, Zhou ZH, Stewart JP,Wu TT, Sun R. 2003.Identification of proteins associated with murine gammaherpesvirus 68 virions.J Virol 77:13425-13432. http://dx.doi.org/10.1128/JV1.77 .24.13425-13432.2003.   \n35.Arumugaswami V, Sitapara R, Hwang S,Song MJ,Ho TN, Su NQ, Sue EY,Kanagavel V,Xing F, Zhang X, Zhao M,Deng H,Wu TT,Kanagavel S,ZhangL,Dandekar S,Papp J,Sun R.2Oo9.High-resolution functional profiling of a gammaherpesvirus RTA locus in the context of the viral genome.J Virol 83:1811-1822.http://dx.doi.org/10.1128/JVI .02302-08.   \n36.May JS,Coleman HM,Smilie B,Efstathiou S,Stevenson PG. 2004. Forced lytic replication impairs host colonization by a latency-deficient mutant of murine gammaherpesvirus-68.J Gen Virol 85:137-146. http: //dx.doi.org/10.1099/vir.0.19599-0.   \n37.Yang Z, Tang H,Huang H,Deng H.20o9.RTA promoter demethylation and histone acetylation regulation of murine gammaherpesvirus 68 reactivation. PLoS One 4:e4556. http://dx.doi.org/10.1371/journal.pone.0004556.   \n38. Gong D, Qi J, Arumugaswami V, Sun R, Deng H. 2009. Identification and functional characterization of the left origin of lytic replication of murine gammaherpesvirus 68. Virology 387:285-295.http://dx.doi.org /10.1016/j.virol.2009.02.029.   \n39. Qi J, Gong D,Deng H.2011. CCAAT/enhancer binding proteins play a role in oriLyt-dependent genome replication during MHV-68 de novo infection.Protein Cell 2:463-469.http://dx.doi.org/10.1007/s13238-011 -1060-z.   \n40.Jia Q,Wu TT,Liao HI, Chernishof V,Sun R.2004. Murine gammaherpesvirus 68 open reading frame 31 is required for viral replication.J Virol 78:6610-6620. http://dx.doi.0rg/10.1128/JV1.78.12.6610-6620.2004.   \n41.Wu TT,Liao HI, Tong L,Leang RS,Smith G,Sun R.2011.Construction and characterization of an infectious murine gammaherpesivrus-68 bacterial artificial chromosome.JBiomed Biotechnol 2011:926258.http://dx .doi.org/10.1155/2011/926258.   \n42.Sunil-Chandra NP,Efstathiou S,Nash AA.1992.Murine gammaherpesvirus 68 establishes alatent infection in mouse B lymphocytes in vivo. J Gen Virol 73:3275-3279. http://dx.doi.0rg/10.1099/0022-1317-73-12 3275.   \n43．Rickabaugh TM, Brown HJ,Martinez-Guzman D,Wu TT,Tong L,Yu F, Cole S,Sun R. 2004. Generation of a latency-deficient gammaherpesvirus that is protective against secondary infection.J Virol 78:9215-9223. http://dx.doi.0rg/10.1128/JVI.78.17.9215-9223.2004.   \n44. Martinez-Guzman D, Rickabaugh T, Wu TT, Brown H, Cole S, Song MJ,Tong L, Sun R.2oo3.Transcription program of murine gammaherpesvirus 68.J Virol 77:10488-10503.http://dx.doi.org/10.1128/JV1.77.19 .10488-10503.2003.   \n45.Adler H,Messerle M,Wagner M,Koszinowski UH.2000. Cloning and mutagenesis of the murine gammaherpesvirus 68 genome as an infectious bacterial artificial chromosome.J Virol 74:6964-6974. http://dx.doi.org /10.1128/JVI.74.15.6964-6974.2000.   \n46.Wu TT,Park T, Kim H, Tran T,TongL, Martinez-Guzman D, Reyes N,Deng H, Sun R.2009.ORF30 and ORF34 are essential for expression oflate genes in murine gammaherpesvirus 68.J Virol 83:2265-2273. http: //dx.doi.0rg/10.1128/JV1.01785-08.   \n47. Wu TT, Tong L, Rickabaugh T, Speck S, Sun R.2001. Function of Rta is essential for lytic replication of murine gammaherpesvirus 68.J Virol 75:9262-9273. http://dx.doi.org/10.1128/JVI.75.19.9262-9273.2001.   \n48.Flano E,Husain SM,Sample JT,Woodland DL, Blackman MA. 2000. Latent murine gamma-herpesvirus infection is established in activated B cells,dendritic cells,and macrophages.J Immunol 165:1074-1081.http: //dx.doi.org/10.4049/jimmunol.165.2.1074.   \n49.Stewart JP,UsherwoodEJ,Ross A,Dyson H,Nash T.1998.Lung epithelial cells are a major site of murine gammaherpesvirus persistence.J Exp Med 187:1941-1951. http://dx.doi.org/10.1084/jem.187.12.1941.   \n50.Weck KE,Barkon ML,Yoo LI, Speck SH,Virgin HI.1996.Mature B cels are required for acute splenic infection,but not for establishment of latency,by murine gammaherpesvirus 68.J Virol 70:6775-6780.   \n51.Hwang S,Wu TT,Tong LM,Kim KS,Martinez-Guzman D,Colantonio AD,Uittenbogaart CH, Sun R.20o8.Persistent gammaherpesvirus replication and dynamic interaction with the host in vivo.J Virol 82:12498- 12.509.http://dx.dni.org/10.1128/IVL.01152-08. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "type": "text",
+        "text": "Probing New Physics from Top Quark FCNC Processes at LHC: A Mini Review ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jin Min Yang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute of Theoretical Physics， Academia Sinica， Beijing 10oo80, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the top quark FCNC processes are extremely suppressed in the Standard Model (SM) but could be greatly enhanced in some new physics models, they could serve as a smoking gun for new physics hunting at the LHC.In this brief review we summarize the new physics predictions for various top quark FCNC processes at the LHC by focusing on two typical models: the minimal supersymmetric model (MSSM) and the topcolor-asisted technicolor (TC2) model. The conclusion is: (1) Both new physics models can greatly enhance the SM predictions by several orders; (2) The TC2 model allows for largest enhancement,and for each channel the maximal prediction is much larger than in the MSSM;(3) Compared with the $3 \\sigma$ sensitivity at the LHC,only a couple of channels are accessible for the MSSM while most channels are accessible for the TC2 model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: top quark; supersymmetry; technicolor, LHC ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 14.65.Ha,14.80.Ly, 11.30.Hv to appear in Int.J.Mod.Phys.A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the forthcoming experiments at the Large Hadron Collider (LHC) the elementary particle physics will come to a critical crossroad: the discovery of new physics at TeV scale will bring a new highlight and lift the curtain on a new exciting era while the undiscovery of new physics will give a body blow to particle physics. Among various speculations of new physics at TeV scale, there are two typical directions: one is supersymmetry, which is a weak coupling theory with fundamental scalars and can fancily push up the energy scale to ultimately realize grand unification,and the other is the theory of dynamical symmetry breaking (like technicolor） without fundamental scalars. Undoubtedly, these beautiful theories will soon be put to the sword of the LHC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the probe of new physics at the high energy colliders like the LHC, there are two ways: one is through detecting the direct production of new particles and the other is through unraveling the quantum effcts of new physics in some sensitive and well-measured processes. These two aspects can be complementary and offer a consistent check for a framework of new physics. If the collider energy is high enough above the mass threshold of the new particles, studying the direct production of new particles plays the dominant role; while for the collider energy not high enough to surpass the mass threshold of new particles, disentangling the quantum efects of new particles will be the only way of peeking at the hints of new physics. Therefore, a collider with relatively low energy but high measuring precision will serve as a telescope for looking at the new physics at much higher energy scales. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the importance of quantum effects in probing new physics and the uncertainty of new physics scale, we should seriously examine some LHC processes which are sensitive to new physics. As the heaviest fermion in the SM, the top quark is speculated to be a sensitive probe of new physics [1]. Due to the small statistics of the experiments at the Fermilab Tevatron collider, so far the top quark properties have not been precisely measured and there remained a plenty of room for new physics efects in top quark processes. Since the LHC will be a top quark factory and allow to scrutinize the top quark nature, unraveling new physics effects in various top quark processes will be an intriguing channel for testing new physics models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One typical property of the top quark in the SM is its extremely small flavor-changing neutral-current (FCNC) interactions [2] due to the Glashow-Iliopoulos-Maiani (GIM) mechanism. This will make the observation of any FCNC top quark process a smoking gun for new physics beyond the SM. So far numerous studies [3] have been performed and have shown that the FCNC top quark interactions can be significantly enhanced in various new physics models.Due to the fact that different models predicts different orders of enhancement, the measurements of these FCNC top quark processes at the LHC will not only shed some light on new physics but also may possbly give some favor or unfavor information for a specified model. In this review we will summarize the predictions in the minimal supersymmetric model (MSSM) [4, 5,6] and the topcolor-assisted technicolor (TC2) model [7, 8, 9]. Since these two models represent two opposite directions for new physics, they in principle do not co-exist and,as shown in this review, they predict quite different enhancements for these FCNC top quark processes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. FCNC TOP QUARK PROCESSES IN MSSM AND TC2 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the SM: Due to the GIM mechanism, the top quark FCNC interactions are absent at tree-level and are extremely suppressed at loop-level since such FCNC interactions are induced by the $W$ -boson charge-current CKM transitions involving down-type quarks in the loops which are much lighter than the top quark. The top quark FCNC induced by the $W$ -boson loops are dependent on the mass splitting of the down-type quarks appearing in the loops. Neglecting the masses of these down-type quarks or assuming their degeneracy, then the one-loop induced top quark FCNC interactions will vanish since the $K M$ matrix are unitary and the $W$ -boson couplings to fermions are universial. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the MSSM: Although the top quark FCNC interactions are also induced at loop level, they can be greatly enhanced relative to the SM predictions. In addition to the $W$ -boson loops, there are four kinds of loops contributing to the top quark FCNC interactions. The first type is charged Higgs loops whose contributions can be much larger than the $W$ -boson loops since the Yukawa couplings are proportional to fermion masses and non-universal for the down type quarks appearing in the loops. The second type is chargino loops whose contributions can be much larger than the $W$ -boson loops since the mass splitting between the squarks in the loops may be significant and the Higgsino-component couplings are nonuniversal Yukawa couplings. The third type is gluino loops due to the flavor mixings between stops and other up-type squarks (mainly scharms). Since such stop-scharm flavor mixings may be significant, this kind of loops involving the strong coupling may be quite sizable or dominant over other kinds of loops. The forth type is neutralino loops,also due to the flavor mixings between stops and other up-type squarks, which are usually smaller in magnitude than gluino or chargino loops. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the TC2 model: Technicolor is a typical idea to dynamically break the electroweak symmetry. But the original simple technicolor theory encounters enormous diffculty in generating fermion masses (especially the heavy top quark mass) and phenomenologically face the diffculty of passing through the precision electroweak test. The topcolor-assited technicolor（TC2） model [10] combines technicolor with topcolor，with the former being responsible for electroweak symmetry breaking and the latter for generating large top quark mass. This model so far survives current experiments and will be put to the sword at the LHC. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The top quark FCNC interactions may be greatly enhanced in TC2 model for the following reasons. (1) Topcolor is non-universal, only causing top-quark to condensate and only giving top quark mass (a large portion $\\mathrm { ~ l ~ - ~ } \\epsilon _ { t }$ ). The neutral top-pion has large Yukawa couplings to only top quark. (2) ETC (extended technicolor) gives masses to all quarks and for top quark only a small portion $\\epsilon _ { t }$ of mass is from ETC. ETC-pions have smal Yukawa couplings to all quarks, and for top quark the coupling is much weaker than the top-pion's. (3) Since the top quark mass and thus the mass matrix of up-type quarks is composed of both ETC and topcolor contributions, the diagonalization of the mass matrix of up-type quarks cannot ensure the simultaneous diagonalization of both the top-pion's Yukwawa couplings in topcolor sector and the ETC-pions’ Yukawa couplings in ETC sector. Thus, after the diagonalization of the mass matrix of up-type quarks, the top-pion in topcolor sector will have tre-level FCNC Yukwawa couplings for the top quark. This is in contrast to the SM Higgs boson whose couplings with the fermions have no FCNC at tree-level because all fermion masses are from the couplings of only one Higgs doublet and the diagonalization of the fermion mass matrix (given by the Yukawa coupling matrix times a constant vev $\\boldsymbol { v }$ ) can simultaneously ensure the diagonalization of the Yukawa coupling matrix. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Table 1 we summarize the maximal predictions for five FCNC top quark decay modes in the MSSM and TC2. The SM predictions are far below the LHC sensitivity and not listed here. The MSSM maximal predictions [4] were obtained from a scan over the parameter space by considering all current experimental constraints, such as the experimental bounds on squark and Higgs boson masses, the precision measurements of $W$ -boson mass and the effctive weak mixing angle as well as the experimental data on $B _ { s } - B _ { s }$ mixing and $b \\to s \\gamma$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/698cf2985daf1c87f09a6a9cac1716845e185e201a7161d674b2924802271f71.jpg",
+        "table_caption": [
+            "Table 1: Maximal predictions for the branching ratios of FCNC top quark decays and production cross sections (hadronic) at the LHC. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>MSSM</td><td>TC2</td><td>LHC 3o sensitivity</td></tr><tr><td>t→cz</td><td>1.8 × 10-6 [4]</td><td>0(10-4) [7]</td><td>3.6 × 10-5 [11]</td></tr><tr><td>t→cy</td><td>5.2 × 10-7 [4]</td><td>O(10-6) [7]</td><td>1.2 × 10-5 [11]</td></tr><tr><td>t→ch</td><td>6.0 × 10-5 [4]</td><td>0(10-1) [7]</td><td>5.8 × 10-5 [11]</td></tr><tr><td>t→cg</td><td>3.2 × 10-5 [4]</td><td>0(10-3) [7]</td><td></td></tr><tr><td>t→cgg</td><td>3.5 × 10-5 [4]</td><td>0(10-3) [7]</td><td></td></tr><tr><td>gg→tc</td><td>700 fb [4]</td><td>30 pb [8]</td><td>1500 fb [11]</td></tr><tr><td>cg→t</td><td>950 fb [4]</td><td>1.5 pb [8]</td><td>800 fb [11]</td></tr><tr><td>cg→tg</td><td>520 fb [4]</td><td>3 pb [8]</td><td>1500 fb [11]</td></tr><tr><td>cg →ty</td><td>1.8 fb [4]</td><td>20 fb [8]</td><td>5 fb [11]</td></tr><tr><td>cg→tZ</td><td>5.7 fb [4]</td><td>100 fb [8]</td><td>35 fb [11]</td></tr><tr><td>cg→th</td><td>24 fb [4]</td><td>1 pb [8]</td><td>200 fb [11]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "III. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From Table 1 we draw the conclusion: (1) Both new physics models can greatly enhance the SM predictions by several orders; (2) The TC2 model alows for largest enhancement, and for each channel the maximal prediction is much larger than in the MSSM; (3) Compared with the $3 \\sigma$ sensitivity of the LHC, only a couple of channels are accessible in the MSSM while most channels are accessible in the TC2 model. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is supported in part by the National Natural Science Foundation of China under Grant No. 10475107 and 10505007. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] See， e.g.， D. Chakraborty, J. Konigsberg， D. Rainwater， Ann. Rev. Nucl. Part. Sci. 53, 301 (2003)；E. H. Simmons, hep-ph/0211335; C.-P. Yuan， hep-ph/0203088； S. Willenbrock, hep-ph/0211067; M. Beneke et al., hep-ph/0003033; C. T. Hill and S. J. Parke, Phys. Rev. D 49,4454 (1994); K. Whisnant, et al., Phys. Rev. D 56, 467 (1997); K. Hikasa, et al., Phys. Rev. D 58,114003 (1998).   \n[2] For the FCNC top quark decays in the SM, see, G. Eilam, J. L. Hewett and A. Soni, Phys. Rev. D 44, 1473 (1991); B. Mele, S. Petrarca and A. Soddu, Phys. Lett. B 435, 401 (1998); A. Cordero-Cid, et al. Phys. Rev. D 73, 094005 (2006)；G. Eilam, M. Frank and I. Turan, Phys. Rev.D 73, 053011 (2006).   \n[3] For recent reviews, see, e.g., F. Larios, R. Martinez, M. A. Perez, Int. J. Mod. Phys. A 21, 3473 (2006); J. M. Yang,Annals Phys.316, 529 (2005).   \n[4] For the latest results of FCNC top decays and productions at LHC in MSSM, see, J. Cao, et. al., Phys. Rev. D 75, 075021 (2007); Phys. Rev. D 74, 031701 (2006).   \n[5] For earlier studies on FCNC top decays in the MSSM, see, C.S.Li, R. J. Oakes and J. M. Yang, Phys.Rev. D 49,293 (1994); G. Couture, C. Hamzaoui and H. Konig, Phys. Rev. D 52, 1713 (1995); J. L. Lopez, D. V. Nanopoulos and R. Rangarajan, Phys. Rev. D 56, 3100 (1997); G. M. de Divitis, R. Petronzio and L. Silvestrini, Nucl. Phys. B 504, 45 (1997); J. M. Yang, B.-L. Young and X. Zhang, Phys. Rev. D 58, O55001 (1998)； C. S. Li, L. L. Yang and L. G. Jin, Phys. Lett.B 599,92(2004)； M. Frank and I. Turan, Phys. Rev. D 74, 073014 (2006);J. M. Yang and C. S.Li, Phys. Rev. D 49,3412 (1994); J. Guasch and J. Sola, Nucl. Phys.B 562, 3 (1999); G. Eilam, et al., Phys. Lett. B 510,227 (2001). J.L. Diaz-Cruz, H.-J. He, C.-P. Yuan Phys. Lett. B 179,530 (2002); D. Delepine and S. Khalil, Phys. Lett.B 599, 62 (2004).   \n[6] For other FCNC top productions in the MSSM, see, J. Cao, Z. Xiong, J.M.Yang, Nucl. Phys. B 651,87 (2003); J. J. Liu, C. S. Li, L. L. Yang and L. G. Jin, Nucl. Phys. B 705,3 (2005); G. Eilam, M. Frank and I. Turan, Phys. Rev.D 74, 035012 (2006); J. Guasch, et al., Nucl. Phys. Proc. Suppl. 157,152 (2006); D. Lopez-Val, J. Guasch, J. Sola,arXiv:0710.0587 [7] For FCNC top decays in TC2, see, H. Zhang, arXiv:0712.0151; X. L. Wang et al., Phys. Rev. D 50, 5781 (1994); C. Yue, et al. Phys. Rev. D 64, 095004 (2001); G. Lu, F. Yin, X. Wang and L. Wan, Phys. Rev. D 68, 015002 (2003).   \n[8] For FCNC top productions at LHC in TC2, see, J. Cao,et al.， Phys.Rev. D 76, 014004 (2007); G. Liu and H. Zhang,arXiv:0708.1553.   \n[9] For other FCNC top processes in TC2, see, H. J. He and C. P. Yuan, Phys. Rev. Lett.83, 28 (1999); G. Burdman, Phys. Rev. Lett.83,2888 (1999)； J. Cao, et al., Phys. Rev. D 67, 071701 (2003); Phys.Rev. D 70,114035 (2004); Eur.Phys. Jour. C 41,381 (2005); F.Larios and F. Penunuri, J. Phys. G 30, 895(2004).   \n[10] C.T. Hill, Phys.Lett. B 345,483 (1995); K. Lane and E. Eichten,Phys. Lett.B 352, 382 (1995);K. Lane and E. Eichten, Phys. Lett. B 433, 96 (1998)； W. A. Bardeen, C. T. Hill, M. Lindner, Phys. Rev. D 41,1647 (1990); G. Cvetic, Rev. Mod. Phys. 71, 513 (1999).   \n[11] T.Han, et al., Phys. Lett.B 385,311 (1996)； Phys. Rev. D 55,7241 (1997); Phys. Rev. D 58,073008 (1998)； Nucl. Phys.B 454, 527 (1995)； E. Malkawi and T. Tait, Phys. Rev. D 54,5758 (1996)；T. Tait and C. P. Yuan,Phys. Rev. D 55, 7300 (1997); Phys.Rev. D 63, 014018 (2001); M. Hosch, K. Whisnant and B. L. Young, Phys. Rev. D 56, 5725 (1997); T. Stelzer, Z. Sulivan and S.Willenbrock, Phys. Rev. D 58, 094021 (1998); M. Beneke et al, hep-ph/0003033; L. Chikovani and T. Djobava, hep-ex/0205016; J. A. Aguilar-Saavedra and G. C. Branco,Phys. Lett. B 495, 347 (2000). F. del Aguila and J. A. Aguilar-Saavedra, Nucl. Phys. B 576,56 (2000); O. Cakir and S. A. Cetin, J. Phys. G31, N1-N8 (2005). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "type": "text",
+        "text": "基于菜谱与微博用户评论的饮食社区挖掘研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴小兰1,2 章成志2,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(安徽财经大学管理科学与工程学院蚌埠 233030)  \n2(南京理工大学信息管理系 南京 210094)  \n3(江苏省数据工程与知识服务重点实验室南京 210093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】以大规模真实社交网络数据作支撑研究饮食社区结构。【方法】使用\"美食杰\"网站的菜谱信息和新浪微博上与菜有关的微博数据，完成用户与菜之间的\"提及\"关系构建后，分别在省份地区维度和地区菜系维度进行映射，并运用社区发现算法进行社区挖掘。【结果】在省份地区关系网和地区菜系关系网上存在明显的社区结构。【局限】实验过程中发达地区人数与边缘地区人数悬殊太大，对本文所得结论有一定的影响。【结论】实证结果发现：省份地区被划分成“其他口味”、“鲜咸味”、“香辣味”三个口味地区；“川菜”、“云贵菜\"因辅料独特很少与其他菜系被一起点餐，“京菜”、“沪菜”、“鲁菜”、“东北菜\"常被一起点餐，除此之外，地区菜系之间存在一定程度的地理位置近邻性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：饮食文化地方菜系饮食社区Web 信息组织分类号：G353",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饮食是人类社会亘古不变的生活主题，也是人类从事其他社会活动的基础和前提。随着生产力的发展，尤其是农业的发展，中国人对于“吃\"已不仅仅是果腹那么简单，围绕着“吃\"产生了一系列饮食文化，如饮食风俗、饮食思想、饮食行为等。饮食文化作为与\"吃”“喝\"相关的一种文化现象，它不分种族国界，与每个人息息相关，因此开展中国饮食文化研究很有必要。尽管目前关于饮食文化研究跨越不同的学科种类，研究方法也各具特色，研究成果也十分丰富，但多数研究使用的是对菜谱的定性(如对饮食文化的发生、发展脉络的梳理)和定量分析(如对关于饮食文化的文献、史料进行统计整理)方法。实际上，随着互联网和大数据技术的发展，将有利于在很大规模的真实数据集上开展饮食相关的研究，通过真实数据集的挖掘验证一些重要结论，甚至发现一些新的有实际价值的结论，因此本文开展基于菜谱与微博用户饮食评论的饮食社区挖掘研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2相关研究概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，我国研究饮食文化的群体主要是高等院校的学者、饮食行业的从业者、文学作家[1]。相对其他学科而言，学术界对于饮食文化的研究起步较晚，且近几年学术界开始着手利用真实数据来研究饮食文化。总结现有研究，笔者发现常被用来研究饮食文化的两类真实数据有：菜谱数据和用户饮食数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在上述两类真实数据中，借用菜谱数据分析的研究有：Wagner等[2]通过常见的复合调味料(FlavorCompounds)中包含的烹饪食材共现关系构造风味网络(FlavorNetwork)，通过风味网络发现西方烹饪时倾向于使用多种香料形成多种口味混合，比较满足所谓食物配对假设(Food Pairing Hypothesis)；相反，东亚地区烹饪时反对这样。Ahn 等[3分析多个国家和地区的56498份菜谱，发现西方和东方的饮食差别很大，西方最爱用的6种食材是牛奶、黄油、香草、鸡蛋、蔗糖浆和小麦，而东方是酱油、葱、香油、米、大豆和姜。不仅如此，西方的厨师喜欢把有很多共同香料的食材放进同一道菜里面，而东方厨师反对这样。Zhu等[4利用从美食杰网站上采集到的20个菜系的8 498道菜谱和2911种食材，结合菜系所在省市地理位置和气候条件的相似性，分析发现地理上的相近性对于食材使用的影响远远大于气候的相近性，另外针对食材使用矩阵(两个维度分别是菜系和食材)，通过简单的主成分分析找到了云贵菜和香港菜这两个异常菜系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在上述两类真实数据中，借用用户饮食数据分析的研究有：Ahn 等[5]对大型菜谱网站(ichkoche.at）的日志进行分析(2012年8月-2013年11月)，发现用户的饮食偏好：用户对菜谱的偏好主要取决于菜的香料;菜谱偏好分布存在的地区差异大于香料偏好分布在地区上的差异；用户工作日的饮食偏好与周末的饮食偏好存在明显不同。Abbar等根据Twitter上21万用户的饮食Tweet及用户兴趣、地理位置和社交网络数据分析发现食物的热量与当地肥胖比率存在一定关联，二者皮尔逊相关系数接近0.77，并基于人口统计变量和Twitter上提及的食品名称构建预测地区肥胖和糖尿病人数的模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总结上述研究，笔者发现有关饮食社区挖掘的研究尚不多见，而饮食社区挖掘不仅能深层次地挖掘地区用户口味，而且可以发现用户点菜风格，为用户点菜提供指导。因此本文结合菜谱数据与用户饮食评论数据进行饮食社区挖掘的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3研究思路及关键技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 研究思路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结合菜谱数据和微博用户饮食评论数据对饮食社区进行研究，研究思路如图1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/34a28209ccfd15448c515321dc1b0b871de36c345af333c935e86d832266a6ee.jpg",
+        "img_caption": [
+            "图1饮食社区挖掘研究思路"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）数据采集与预处理。从“美食杰\"网站上采集菜谱名称、菜系等信息，在对“美食杰\"网站上采集到的菜名经过简单预处理后，以菜谱名称作为搜索关键词从新浪微博上爬取微博内容及微博用户信息。采集用户微博数据后，将菜谱名称作为用户字典加入分词包,最终完成对用户评论内容的有效分词。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）关系映射。在完成用户评论分词后，根据分词结果提取用户与菜名的\"提及\"关系(指该菜谱名称出现在用户的微博评论内容中)，根据用户所在省份及菜所属的菜系进行以下两个方面的映射：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 省份-省份关系映射。由于用户有省份信息，如果不同省份用户对同一道菜都有“提及”，可以认为这两个省份之间存在某种共同的联系，如这两地区用户口味相近等，因此可以根据用户与菜之间的“提及\"关系，完成省份与省份之间相关关系的映射;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 菜系-菜系关系映射。同样，由于菜有菜系信息，如果同一个用户同时“提及\"到不同的菜系，可以认为这两个菜系也存在某种相关性，因此可以根据用户与菜之间的“提及\"关系，完成菜系与菜系相关关系的映射。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）社区发现。在完成省份-省份关系映射和菜系-菜系关系映射后，选用合适的社区挖掘算法进行饮食社区挖掘，并完成隐含的省份之间关系和隐含的菜系之间关系的分析与结果可视化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 关键技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文研究中，社区发现技术是主要技术。现有社区发现算法很多，比较经典的方法有Girvan andNewman 的GN分裂算法[7]、Newman等的模块度最大化方法[8]、Shi等的归一化割(Normalized Cut,N-cut)方法[9]、Von Luxburg的基于拉普拉斯矩阵的谱平分方法[10]、LPA算法[11]等，标签传播算法(Label PropagationAlgorithm，LPA)[12]是Zhu等于2002年提出的一种基于图的半监督学习方法，其基本思想是用已标记节点的标签信息去预测未标记节点的标签信息。2007年，Raghavan等[1]首次将LPA应用于社区发现，并在ZacharyKarate网络[13]、College Football网络[7等真实基准网上进行测试，结果表明LPA的社区结构检测效果良好。LPA应用于社区发现的步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 初始化网络中所有节点的标签，依次为每个节点分配唯一的标签;$\\textcircled{2}$ 令迭代次数 $\\scriptstyle { \\mathrm { t } } = 1$ ·$\\textcircled{3}$ 随机排列网络中的节点，生成序列X;$\\textcircled{4}$ 按照序列X中的顺序，对 $\\mathrm { \\Delta X }$ 中的每个节点V，使用$\\mathrm { L v } = \\arg \\operatorname* { m a x } _ { l } | \\mathrm { N } ^ { l } ( \\mathrm { v } ) |$ 更新自身的标签，其中 $\\mathbf { N } ^ { l } ( \\mathbf { v } )$ 是拥有 $l$ 标签的V的邻居节点集。如果存在多个标签数量最多时，则随机选择其中一个;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 如果每个节点具有的标签都是其邻居节点中出现次数最多的标签，算法停止，否则令 $\\scriptstyle { \\mathrm { t } } = { \\mathrm { t } } + 1$ ，转到步骤 $\\textcircled{3}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在进行社区划分时，由Newman等于2004年提出的模块度被用于衡量社区划分质量，模块度计算公式如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q = \\frac { 1 } { 2 m } \\sum _ { i j } ( A _ { i j } - P _ { i j } ) \\delta ( C _ { i } , C _ { j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { A } _ { \\mathrm { i j } }$ 是网络图的邻接矩阵， $\\mathbf { m }$ 是图中边的总数， $\\mathrm { P _ { i j } }$ 表示在空模型中顶点i和j间边的期望值，如果顶点i和j在同一个社区， $\\delta ( \\mathrm { C _ { i } } , \\mathrm { C _ { j } } ) = 1$ ，否则为0。而且公式(1)在邻接矩阵和节点度数上作相应计算后亦可以使用在带权图上[14]，因此本文使用该公式作为社区划分评判依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4实验及实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验数据集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从国内知名网站\"美食杰\"上采集20个菜系的菜谱，菜谱信息主要包括菜名、菜类别、菜系、菜的主料、辅料及菜的做法等，对Zhu 等4的菜名过滤后，得到包含“川菜”、“东北菜”、“港台菜”、“其他菜”、“湖北菜”、“沪菜”、“徽菜”、“江西菜”、“京菜”、“鲁菜”“闽菜”、“清真菜”、“山西菜”、“苏菜”、“西北菜”、“湘菜”、“豫菜”、“粤菜”、“云贵菜”、“浙菜\"等20个菜系的5156份有用菜谱，各个菜系的数目如表1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b137c8c1b82d7dd7d759e3f81e578cb313c2fa0fd19a640f6c761f75720bbb50.jpg",
+        "table_caption": [
+            "表1各个菜系下菜谱数目统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菜系</td><td>菜谱数</td><td>菜系</td><td>菜谱数</td></tr><tr><td>川菜</td><td>743</td><td>东北菜</td><td>227</td></tr><tr><td>鲁菜</td><td>598</td><td>徽菜</td><td>143</td></tr><tr><td>粤菜</td><td>491</td><td>西北菜</td><td>119</td></tr><tr><td>沪菜</td><td>454</td><td>湖北菜</td><td>109</td></tr><tr><td>京菜</td><td>380</td><td>豫菜</td><td>104</td></tr><tr><td>湘菜</td><td>370</td><td>港台菜</td><td>89</td></tr><tr><td>闽菜</td><td>286</td><td>江西菜</td><td>87</td></tr><tr><td>清真菜</td><td>283</td><td>山西菜</td><td>85</td></tr><tr><td>浙菜</td><td>271</td><td>云贵菜</td><td>51</td></tr><tr><td>苏菜</td><td>242</td><td>其他菜</td><td>24</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据表1中的菜名在微博上搜集并采集相关信息，最终累计采集到来自36个不同地区(包括用户填写的“其他\"和\"海外\"的地区在内)的共计3980597个用户的8746931条微博信息。其中，各条微博信息包括用户发布微博时间、微博内容、用户省份、用户和性别等。在采集到相关微博后，先将保留下来的菜名作为用户字典加入结巴分词包(jieba)，对用户饮食微博内容进行分词切分，在用户微博内容的分词结果中只提取包含在菜谱中菜名内容后，得到2269763个用户与菜之间的\"提及\"关系，作为本文社区发现的主要研究对象，其中，统计“提及\"关系中涉及到的不同省份地区的用户人数如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 关系映射",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了分析省份地区用户口味及菜系在用户点餐中的情况，对这种\"提及\"关系在地区维度和菜系维度上分别进行映射，得到地区-地区带权图和菜系-菜系带权图。由于用户与菜之间“提及\"关系的规模较大，得到的带权图规模有限，但是边的权重很大，以各个地区及各个菜系为例，给出最亲密(即权重最大)的节点，如表3和表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b847716ebf0141d7aad22a36a68af9f8ecd0549ab982777134927422cc52a64.jpg",
+        "table_caption": [
+            "表2不同地区的用户数统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td>用户数</td><td>地区</td><td>用户数</td><td>地区</td><td>用户数</td></tr><tr><td>广东</td><td>334 681</td><td>河南</td><td>51 404</td><td>山西</td><td>14 414</td></tr><tr><td>北京</td><td>263 762</td><td>辽宁</td><td>49 950</td><td>新疆</td><td>13 433</td></tr><tr><td>上海</td><td>209 098</td><td>湖南</td><td>43 693</td><td>贵州</td><td>12 757</td></tr><tr><td>江苏</td><td>146130</td><td>陕西</td><td>38 746</td><td>香港</td><td>11 664</td></tr><tr><td>海外</td><td>138 643</td><td>安徽</td><td>34 427</td><td>海南</td><td>11 477</td></tr><tr><td>浙江</td><td>129 848</td><td>天津</td><td>34 089</td><td>内蒙古</td><td>8923</td></tr><tr><td>四川</td><td>128 761</td><td>河北</td><td>29 954</td><td>甘肃</td><td>7383</td></tr><tr><td>其他</td><td>128 597</td><td>广西</td><td>29 791</td><td>台湾</td><td>6450</td></tr><tr><td>福建</td><td>98 092</td><td>江西</td><td>24 985</td><td>西藏</td><td>3453</td></tr><tr><td>湖北</td><td>71 562</td><td>黑龙江</td><td>21 724</td><td>宁夏</td><td>2 430</td></tr><tr><td>山东</td><td>70 590</td><td>云南</td><td>19 846</td><td>青海</td><td>2160</td></tr><tr><td>重庆</td><td>57 772</td><td>吉林</td><td>14 852</td><td>澳门</td><td>2117</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbc3daf3e0ebf70c2cc6cc269dc30f0dec3e5118738c8b8758ce86a7c4ef8804.jpg",
+        "table_caption": [
+            "表3地区映射图中各个地区最紧密的地区及权重"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td>最紧密地区(权值)</td><td>地区</td><td>最紧密地区(权值)</td><td>地区</td><td>最紧密地区(权值)</td></tr><tr><td>青海</td><td>北京(4 286)</td><td>宁夏</td><td>海外(4 778)</td><td>海外</td><td>浙江(200 138)</td></tr><tr><td>辽宁</td><td>北京(96 520)</td><td>湖南</td><td>其他(71 374)</td><td>陕西</td><td>浙江(69 376)</td></tr><tr><td>贵州</td><td>北京(25 044)</td><td>台湾</td><td>海外(12 466)</td><td>山西</td><td>浙江(25 100)</td></tr><tr><td>北京</td><td>广东(385 844)</td><td>河北</td><td>其他(58 526)</td><td>新疆</td><td>浙江(22 374)</td></tr><tr><td>广西</td><td>广东(59 064)</td><td>西藏</td><td>江苏(6 394)</td><td>四川</td><td>浙江(141378)</td></tr><tr><td>澳门</td><td>广东(4 206)</td><td>其他</td><td>海外(224 654)</td><td>重庆</td><td>浙江(87 692)</td></tr><tr><td>广东</td><td>上海(338 516)</td><td>吉林</td><td>海外(28 594)</td><td>湖北</td><td>浙江(119 244)</td></tr><tr><td>上海</td><td>江苏(252 126)</td><td>黑龙江</td><td>海外(41 092)</td><td>江苏</td><td>浙江(216 320)</td></tr><tr><td>海南</td><td>其他(20 254)</td><td>福建</td><td>浙江(148 500)</td><td>河南</td><td>浙江(91 806)</td></tr><tr><td>甘肃</td><td>其他(14 630)</td><td>天津</td><td>海外(65 058)</td><td>浙江</td><td>浙江(129 604)</td></tr><tr><td>山东</td><td>江苏(124 424)</td><td>内蒙古</td><td>海外(17 360)</td><td>香港</td><td>云南(18 250)</td></tr><tr><td>江西</td><td>其他(46 206)</td><td>安徽</td><td>江苏(66 604)</td><td>云南</td><td>云南(19 817)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed4638c880bda3a14a09c75d238e86c4a38231473b1d08bb9e0c5b1cb5b7ecc9.jpg",
+        "table_caption": [
+            "表4菜系映射图中各个菜系最紧密的菜系及权重"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菜系</td><td>最紧密的 菜系</td><td>权重</td><td>最紧密的 菜系</td><td>菜系</td><td>权重</td></tr><tr><td>粤菜</td><td>粤菜</td><td>42 049</td><td>鲁菜</td><td>鲁菜</td><td>61 144</td></tr><tr><td>京菜</td><td>川菜</td><td>104 974</td><td>云贵菜</td><td>云贵菜</td><td>4299</td></tr><tr><td>浙菜</td><td>浙菜</td><td>22 904</td><td>湘菜</td><td>湘菜</td><td>18 731</td></tr><tr><td>川菜</td><td>川菜</td><td>373359</td><td>西北菜</td><td>西北菜</td><td>21 559</td></tr><tr><td>湖北菜</td><td>湖北菜</td><td>21 457</td><td>其他菜</td><td>其他菜</td><td>4621</td></tr><tr><td>闽菜</td><td>闽菜</td><td>53 853</td><td>豫菜</td><td>豫菜</td><td>9 717</td></tr><tr><td>苏菜</td><td>苏菜</td><td>40233</td><td>山西菜</td><td>山西菜</td><td>11 191</td></tr><tr><td>徽菜</td><td>徽菜</td><td>40 716</td><td>清真菜</td><td>清真菜</td><td>23195</td></tr><tr><td>港台菜</td><td>港台菜</td><td>18 067</td><td>沪菜</td><td>沪菜</td><td>103 096</td></tr><tr><td>江西菜</td><td>江西菜</td><td>16 237</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过表3可以看出，除了“其他”“海外\"这两个未知地区外，“浙江”、“江苏”、“广东”、“北京\"地区与其余省份联系极为紧密，这可能因为这些地区人数较多的缘故。进一步对菜系的紧密程度进行分析，如表4所示。可以看出在这20个菜系中，有18个菜系与自身\"共现\"(此处的\"共现\"指被同一个用户提及)频次最高，只有“京菜\"与“川菜\"共现最高，这说明“川菜\"很受用户喜爱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3 饮食社区挖掘结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在完成映射后，笔者试图对地区完全带权图和菜系完全带权图进行社区发现，但发现这个完全带权图无法进行社区划分，经过多次迭代后，模块度均为0，这可能是因为完全带权图上并不存在通常意义上的社区，即每个社区内部节点间的连接相对非常紧密，但是各个社区之间的连接却相对比较稀疏[8]。为此，先对这两个完全带权图进行断边处理，让一些节点连接边断开。通常，断边操作发生在网络病毒传播的控制过程，用于有效抑制病毒的传播[15]，本文应用断边处理主要是因为所得的网络图是完全图不适合进行社区划分。根据前面的分析结果，发现本文所得的完全图边上存在权重(反映不同节点之间的共现次数)，节点也有权重(反映节点自身共现的次数)，而根据吴亮等[的研究：只有节点权重值至少是接近的两节点之间，才有可能出现同步或者说至少是两节点行为之间存在关联的现象。因此，如果节点权重差距悬殊，本文认为这两个节点很难划分进一个社区(社区通常是由功能相近或性质相似的网络节点组成)。为此，笔者切断节点权重悬殊较大的节点之间的边，经过多次实验测试，最终选择节点间的边权作为判别节点权重差距悬殊(断边)的依据，如公式(2)所示:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid \\mathrm { W _ { p } - W _ { q } \\mid > W _ { E p q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\mathrm { W _ { p } }$ 、 $\\mathrm { W _ { q } }$ 分别代表节点 $\\mathsf { p }$ 和节点 $\\mathsf { q }$ 的权重，$\\mathrm { W _ { E p q } }$ 是节点 $\\mathfrak { p }$ 和节点 $\\mathsf { q }$ 之间边 $\\mathrm { E _ { p q } }$ 的权重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公式(2)断边后，在包含自连接的含有666条边的地区完全带权图与210条边的菜系完全带权图边数分别下降为261和40。对断边后的地区带权图与菜系带权图利用LPA进行社区发现，分别执行100次，取模块度最大的结果见图 $2 ( \\mathrm { a } ) ( \\mathrm { Q } { = } 0 . 3 7 0 )$ 和图 $3 ( \\mathrm { a } ) ( \\mathrm { Q } { = } 0 . 6 9 5 )$ _，而各个图划分前的结果见图2(b)与图3(b)(图2和图3中节点大小反映节点与自身共现权重大小，边粗细反映节点与节点间共现权重大小)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9fd4aa3c16dbbf074fb6f9b00dada65c6ad25b4d343e08cdec9dc9488443a25.jpg",
+        "img_caption": [
+            "图2地区-地区带权网络图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d2d54eb4c42ab99f24c13b85281a68cb0d646232db9dd5885d4c2a7c4382285.jpg",
+        "img_caption": [
+            "图3菜系-菜系带权网络图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，最终被划分为三个社区(邻居颜色相同的为一个社区):",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)社区1：青海、澳门、宁夏、西藏;(2)社区2：贵州、广西、云南、甘肃、江西、海  \n南、天津、河北、吉林、黑龙江、湖南、台湾、内蒙  \n古、安徽、陕西、山西、新疆、香港;(3)社区3:辽宁、北京、广东、上海、山东、福建、  \n其他、海外、四川、重庆、湖北、江苏、河南、浙江。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过划分结果可以直观地看出：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）社区1主要由自治区组成;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）社区3主要由我国比较发达地区组成，如北京、上海、广东、江苏、浙江、福建，说明这些地区用户讨论的菜(即用户口味)比较接近。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步比较各个社区内用户口味，对各个社区内省份用户“提及\"的菜名及“提及\"次数进行统计，得到次数居前的Top7菜单见表5左侧，同时对这些地区特色菜进行提取(通过各个社区内前100的菜名的差集运算得出)，结果见表5右侧。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过表5左侧数据，可以看出各个社区内地区的对\"烤肉”、“酸辣粉”、“毛血旺\"等菜都有共同的爱好;通过右侧数据，可以看出各个社区用户口味的差异菜单，结合菜谱数据中这些菜的口味后，分析发现社区1内、社区2内及社区3内的地区特有菜分别属于“其他口味”、“鲜咸味”、“香辣味”。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/10c2bfe292942fb9121fc89ab1ecbcd22b98c8af31d935322708c300b943321d.jpg",
+        "table_caption": [
+            "表5省份地区用户“提及\"菜统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>社区1内地区 Top7的菜</td><td>社区2内地区 Top7的菜</td><td>社区3内地区 Top7的菜</td><td>社区1内地区 特有的菜</td><td>社区2内地区 特有的菜</td><td>社区3内地区 特有的菜</td></tr><tr><td>抓炒鱼条</td><td>烤肉</td><td>清汤鱼圆</td><td>盐爆鱿鱼卷</td><td>西红柿炒肉片</td><td>水煮活鱼</td></tr><tr><td>云片鹿角菜</td><td>水煮肉片</td><td>毛血旺</td><td>灯影牛肉</td><td>风霜雪叶</td><td>瓜仁西葫芦</td></tr><tr><td>烤肉</td><td>清汤鱼圆</td><td>烤肉</td><td>焦盐子芋</td><td>蛋酥花仁</td><td>六月鲜</td></tr><tr><td>清汤鱼圆</td><td>毛血旺</td><td>春笋白拌鸡</td><td>青椒素肉丝</td><td>冬瓜咸肉</td><td>蛋烧麦</td></tr><tr><td>麻辣烫</td><td>酸辣粉</td><td>水煮肉片</td><td>蚝油鸭脚</td><td>葫芦鸡</td><td>莲蓬豆腐</td></tr><tr><td>酸辣粉</td><td>粉蒸肉</td><td>酸辣粉</td><td>干炸肝花</td><td>缠丝鸡饼</td><td>香辣猪蹄</td></tr><tr><td>腌鲜鱼</td><td>腌鲜鳜鱼</td><td>炸烹螃蟹</td><td>雪银虾饼</td><td>古老肉</td><td>干锅排骨</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，根据菜系共现关系，菜系被划分成以下9个社区：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)社区1：湘菜、湖北菜、西北菜、清真菜、浙菜;  \n(2）社区2：京菜、沪菜、鲁菜、东北菜;  \n(3）社区3：粤菜、徽菜、苏菜;  \n(4)社区4:山西菜、豫菜;  \n(5）社区5：港台菜、江西菜;  \n(6)社区6:闽菜;  \n(7）社区7:川菜;  \n(8）社区8:云贵菜;  \n(9)社区9:其他菜。  \n通过划分结果可以直观地看出：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)“川菜”、“闽菜”、“云贵菜”、“其他菜”自成一体。其中\"云贵菜\"与\"其他菜\"被分成独立的社区，与文献[4]中发现的结果相一致;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)社区1、社区3、社区4体现了菜系的地理位置近邻性。这是因为：根据Zhu等4的研究：“西北菜”起源于\"陕西、甘肃、青海、宁夏”，“清真菜\"起源地\"新疆”，“豫菜\"起源于“山东”，因此这几个社区体现了菜系具有一定的地理位置近邻性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析\"川菜”、“云贵菜\"为何被划分成独立菜系及解释社区2、社区5，基于Zhu等认辅料①为粒度，进一步分析各个菜的辅料比例(计算方法为：菜系下辅料总数除以菜系下菜的数目)，结果如表6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过表6可以发现，“川菜\"在原料方面确实比较偏\"辣”除了常见的油盐酱醋等辅料外，“花椒”、“胡椒”、“辣椒”、“豆瓣酱\"等也较多地被使用)，“云贵菜”比较与众不同，很少使用\"味精\"调料，而较多地使用“虾”，因此这两个菜系也被划分成独立菜系；另外,还可以看出社区2内“京菜”、“沪菜”、“鲁菜”、“东北菜\"口味比较接近，尤其\"东北菜\"与“鲁菜”，这与“东北菜\"是\"鲁菜\"的一个分支也相一致；至于社区 5内\"港台菜”、“江西菜\"被划分成一个社区，从菜的辅料上较难解释，但通过\"港台菜\"的原料可以看出，“高汤\"成为这个菜系的一个主要辅料。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f206bd6a33361829dcb9cb47be8dd39694f5b7daf9f0f92c0e089a0a7d05300.jpg",
+        "table_caption": [
+            "表6地区菜系辅料使用比例统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>川菜</td><td>云贵菜</td><td>京菜</td><td>沪菜</td><td>鲁菜</td><td>东北菜</td><td>江西菜</td><td>港台菜</td></tr><tr><td>盐(0.87)</td><td>盐(0.75)</td><td>盐(0.83)</td><td>盐(0.8)</td><td>盐(0.89)</td><td>盐(0.83)</td><td>盐(0.84)</td><td>盐(0.77)</td></tr><tr><td>姜(0.69)</td><td>料酒(0.5)</td><td>香葱(0.69)</td><td>味精(0.7)</td><td>香葱(0.7)</td><td>香葱(0.77)</td><td>味精(0.69)</td><td>白糖(0.51)</td></tr><tr><td>香葱(0.66)</td><td>姜(0.5)</td><td>姜(0.68)</td><td>白糖(0.67)</td><td>姜(0.63)</td><td>姜(0.67)</td><td>姜(0.61)</td><td>香葱(0.47)</td></tr><tr><td>味精(0.63)</td><td>虾(0.25)</td><td>味精(0.68)</td><td>姜(0.59)</td><td>味精(0.6)</td><td>料酒(0.44)</td><td>香葱(0.58)</td><td>酱油(0.44)</td></tr><tr><td>料酒(0.47)</td><td>冰糖(0.25)</td><td>白糖(0.51)</td><td>香葱(0.56)</td><td>淀粉(0.46)</td><td>酱油(0.44)</td><td>料酒(0.46)</td><td>蒜(0.37)</td></tr><tr><td>白糖(0.47)</td><td>醋(0.25)</td><td>料酒(0.45)</td><td>酱油(0.38)</td><td>料酒(0.4)</td><td>白糖(0.41)</td><td>酱油(0.42)</td><td>胡椒(0.26)</td></tr><tr><td>酱油(0.37)</td><td>猪油(0.25)</td><td>酱油(0.42)</td><td>淀粉(0.37)</td><td>酱油(0.4)</td><td>味精(0.41)</td><td>香油(0.4)</td><td>味精(0.26)</td></tr><tr><td>蒜(0.33)</td><td>胡椒(0.25)</td><td>淀粉(0.41)</td><td>香油(0.29)</td><td>白糖(0.39)</td><td>花椒(0.4)</td><td>猪油(0.36)</td><td>香油(0.23)</td></tr><tr><td>胡椒(0.33)</td><td>植物油(0.25)</td><td>香油(0.3)</td><td>花生油(0.27)</td><td>鸡蛋(0.34)</td><td>蒜(0.36)</td><td>淀粉(0.27)</td><td>姜(0.21)</td></tr><tr><td>淀粉(0.31)</td><td>低筋面粉(0.25)</td><td>鸡蛋(0.3)</td><td>黄酒(0.27)</td><td>香油(0.3)</td><td>淀粉(0.28)</td><td>辣椒(0.27)</td><td>鸡蛋(0.19)</td></tr><tr><td>花椒(0.31)</td><td>白胡椒(0.25)</td><td>花生油(0.23)</td><td>猪油(0.23)</td><td>蒜(0.24)</td><td>鸡蛋(0.25)</td><td>鸡蛋(0.27)</td><td>高汤(0.14)</td></tr><tr><td>香油(0.25)</td><td>香葱(0.25)</td><td>蒜(0.21)</td><td>料酒(0.21)</td><td>醋(0.23)</td><td>醋(0.23)</td><td>胡椒(0.25)</td><td>辣椒(0.14)</td></tr><tr><td>鸡蛋(0.23)</td><td>香芹(0.25)</td><td>花椒(0.21)</td><td>胡椒(0.18)</td><td>花椒(0.22)</td><td>香油(0.17)</td><td>香菇(0.24)</td><td>米酒(0.14)</td></tr><tr><td>醋(0.22)</td><td>苏打粉(0.25)</td><td>醋(0.2)</td><td>竹笋(0.17)</td><td>植物油(0.2)</td><td>植物油(0.17)</td><td>蒜(0.24)</td><td>太白粉(0.12)</td></tr><tr><td>辣椒(0.2)</td><td>带鱼(0.25)</td><td>黄酒(0.18)</td><td>鸡蛋(0.16)</td><td>香菜(0.17)</td><td>香菜(0.15)</td><td>猪肉(0.22)</td><td>虾米(0.12)</td></tr><tr><td></td><td>豆瓣酱(0.19）小麦面粉(0.25)</td><td>猪油(0.17)</td><td>醋(0.14)</td><td>胡椒(0.17)</td><td>猪肉(0.12)</td><td>白糖(0.2)</td><td>麻油(0.12)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文结合菜谱信息和微博用户评论内容进行饮食社区研究，结果发现：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）省份地区被划分成\"鲜咸味”、“香辣味”、“其他口味\"这三个口味地区;(2)“川菜”、“云贵菜\"因辅料独特很少与其他菜系被一起点餐，“京菜”、“沪菜”、“鲁菜”、“东北菜\"常被一起点餐;(3）地区菜系体之间存在一定程度的地理位置近邻性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相对饮食文化文献、史料等统计整理的计量方法来说，本文基于真实数据集上所得结论会更有说服力,但也存在一些不足，即所获得的微博用户人数受地区差异性影响大，发达地区人数与边缘地区人数悬殊太大，这可能对本文所得结论有一定的影响，希望未来能找到更好的办法克服地区人口差异性以进行更好的分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在完成饮食社区挖掘后，粗略地给出了各个省份地区划分与地区菜系划分，并没有深入地挖掘各个省份社区内用户口味及地区菜系点餐背后隐含的潜在关联。除此之外，本文只考虑了“提及\"关系，没有对这种“提及\"关系的正负情感进行分析，这些将是下一步研究工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 陈国林．饮食文化学：研究概述与学科距离[J]．四川烹饪 高等专科学校学报，2013(2):4-7.(Chen Guolin．Study of Food Culture:An Overiew and Its Constraints [J]. Journal of Sichuan Higher Institute of Cuisine,2013(2): 4-7.)   \n[2] WagnerC,SingerP,StrohmaierMThe Nature and Evolution of Online Food Preferences [J].EPJ Data Science,2014,3(1): Article No.38.   \n[3] Ahn Y Y,Ahnert S.The Flavor Network [J].Leonardo,2013, 46(3):272-273.   \n[4] Zhu Y X,Huang J,Zhang Z K,et al. Geography and Similarity of Regional Cuisines in China [J].PLoS ONE, 2013,8(11): e79161.   \n[5] Ahn Y Y,Ahnert SE,BagrowJP,et al.Flavor Network and the Principles of Food Pairing [OL].arXiv:1111.6074.   \n[6] Abbar S,Mejova Y,Weber I.You Tweet What You Eat: Studying Food Consumption Through Twitter [OL].arXiv Preprint,2014.arXiv:14124361.   \n[7] Girvan M,Newman ME.Community Structure in Social and Biological Networks [J].Proceedings of the National Academy of Sciences,2002,99(12):7821-7826.   \n[8] Newman ME,Girvan M.Finding and Evaluating Community Structure in Networks [J].Physical Review E,2004,69(2): 026113.   \n[9] Shi J,Malik J. Normalized Cuts and Image Segmentation [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence,2000,22(8): 888-905.   \n[10]Von Luxburg U.A Tutorial on Spectral Clustering [J]. Statistics and Computing,2007,17(4): 395-416.   \n[11]Raghavan U N,Albert R,Kumara S.Near Linear Time Algorithm to Detect Community Structures in Large-scale Networks [J].Physical Review E,2007,76(3): 036106.   \n[12] Zhu X,Ghahramani Z.Learning from Labeled and Unlabeled Data with Label Propagation[R]. Carnegie Mellon University, 2002.http://discovery.ucl.ac.uk/id/eprint/185718.   \n[13]Zachary W W.An Information Flow Model for Conflict and Fission in Small Groups [J]. Journal of Anthropological Research,1977,33(4):452-473.   \n[14]Newman ME.Analysis of Weighted Networks [J].Physical Review E,2004,70(5): 056131.   \n[15]宋玉蓉，蒋国平，徐加刚．一种基于元胞自动机的自适应 网络病毒传播模型[J]．物理学报，2011，60(12):110-119. (Song Yurong,Jiang Guoping，Xu Jiagang.An Epidemic Spreading Model in Adaptive Networks Based on Cellular Automata[J].Acta Physica Sinica,2011,60(12):110-119.)   \n[16]吴亮，朱士群.网络中的节点权重及其物理意义[C].见：第 十二届全国量子光学学术会议论文摘要集．2006.(Wu Liang, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhu Shiqun.Node Weights and Its Physical Significance in Netwroks [C].In:Proceedings of the 12th National Symposium on Quantum Optics.2006.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "吴小兰：文献调研与整理，进行实验，论文起草;  \n章成志：提出研究思路，讨论研究方案，论文最终版本修订。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:wuxiaolananhui $@ 1 6 3 . \\mathrm { c o m }$ 。[1]吴小兰，章成志．userid&province.txt.用户id及其提及的菜名与菜系.  \n[2]吴小兰，章成志.userid&dietname.txt.用户id及用户所属省份.[3]吴小兰，章成志.province_network.txt.省份维度上映射后的省份网络.  \n[4]吴小兰，章成志.diet_network.txt.菜系维度上映射后的菜系网络.  \n[5]吴小兰，章成志.diet_network(cut_edge).txt.进行断边后的菜系网络.  \n[6] 吴小兰，章成志．province_network(cut_edge).txt.进行断边后的省份网络.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-03-17  \n收修改稿日期:2016-03-30",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Analyzing Food Community with Recipes and Weibo User Reviews ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wu Xiaolan1,²Zhang Chengzhi2, 3 1(School of Management Science and Engineering, Anhui University of Finance and Economics, Bengbu 233030, China) 2(Department of Information Management, Nanjing University of Science and Technology, Nanjing 210094, China) 3(Jiangsu Key Laboratory of Data Engineering and Knowledge Service, Nanjing 210093, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This study examines the structure of online food community with the helpof large-scale real world data.[Methods]First, wecolected recipes from meishij.net (a popular food network online)and userreviews from Sina Weibo (micro-blog）respectively.Second,we identified the Weibo userswho mentioned recipes from meishij.net and mapped them to provinces and cuisines coordinate systems.Finally,we used community discovery algorithm to analyze the food community’s structure.[Results] The province and cuisines networks showed clear community structures.[Limitations] Demographic disparity might pose some efects to theconclusions.[Conclusions] The tastes of consumers from diferent provinces couldbe clasified as“freshly salty”，“hot and spicy”,as wellas “others\".“Sichuan”or“Yungui”dishes are rarely ordered together,while“Jing”,“Hu”,“Lu”and“Dongbei” dishes are often ordered along with each other. Besides，the regional cuisines have some geographical proximity among themselves. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Food cultureRegional cuisinesFood community Web information organization ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CCC进一步增强RightFind内容工作流解决方案",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "版权结算中心有限公司(Copyright Clearance Center,CCC)是一家致力于创造全球许可和版权内容解决方案的公司，其于近日公布了增强其基于云服务的RightFind内容的工作流解决方案。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "RightFind为用户提供数千种期刊即时、便捷的访问，同时还能帮助管理者优化在采购和管理内容上的支出。RightFind 7.0主要包含以下三方面的功能增强:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1）一个升级的用户界面，以简化工作流程,并使得查找内容变得更加容易;(2）引人CrossRef数据以加速RightFind上新近出版文献被引信息的揭示;(3）增加两个新的API，允许用户从RightFind 库中提取信息，从而使得他们能够在其他应用程序中搜寻 RightFind 的内容。CCC 公司产品和服务总监Lauren Tullch说:“我们的客户追求与信息之间的无缝衔接。我们正在加强平台建设，以提升RightFind 的用户体验，同时使得其他应用从RightFind中提取数据并进行利用变得更加容易。”",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作为RightFind 内容工作流程解决方案组件的一部分,CCC 还提供RightFind XML 以供文本挖掘。生命科学领域的科研人员可以为来自6000多份同行评议期刊的500多万篇文章创建带全文的 XML文件，并在第三方文本挖掘软件中进行遵循版权的使用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(编译自：htp://ww.copyright.com/copyright-clearance-center-anounces-latest-enhancements-to-rightfind-content-worflow solution/) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(本刊讯) ",
+        "page_idx": 8
+    }
+]

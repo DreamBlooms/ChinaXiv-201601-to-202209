@@ -1,0 +1,523 @@
+[
+    {
+        "type": "text",
+        "text": "1980—2015年西北地区脊椎动物种群数量及生境变化分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "万华伟¹，张志如¹²，夏霖³，刘玉平¹，侯鹏¹，孙晨曦¹，金岩丽4（1.生态保护部卫星环境应用中心,北京100094；2.中国环境科学研究院,北京100012;3.中国科学院动物研究所,北京100101；4.辽宁科技大学,辽宁 鞍山114051)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：西北地区地域辽阔，地理位置得天独厚,动物区系特殊而丰富，但生态系统脆弱，容易受到环境变化的影响，严重影响物种数量和生境状况。论文以卫星遥感及地面物种调查数据为主要数据源,以地球生命力指数(Living planet index,LPI)分析生物多样性水平和变化趋势，表征物种变化状况；将土地利用数据重分类为6种生态系统类型,将森林、草地、荒漠、水体和湿地生态系统定义为自然生境，聚落和农田生态系统定义为人工生境，其面积大小表征物种栖息地状况。对1980—2015年脊椎动物种群数量及生境状况变化趋势进行综合分析，结果表明：西北地区脊椎动物种群数量自1980年以来整体呈下降趋势，至2013年下降了 $5 7 . 8 3 \\%$ ,但2005年后呈逐渐恢复的趋势；青海湖裸鲤（Gymnocypris przewalskii）、普氏原羚（Procapra przewalskii）和朱鹦（Nipponia nippon)等物种数量分别增加 $5 5 . 7 7 \\%$ ， $2 6 . 0 3 \\%$ 和 $30 4 \\%$ ,2000年之前处于下降趋势，2000年之后显著增加，但野骆驼(Camelus ferus）、四爪陆龟(Testudo horsfieldii)等物种的种群数量呈指数型下降，且下降趋势仍未缓解；草地、荒漠生态系统面积减少，森林、水体和湿地生态系统面积增加,整体上主要由自然生境转为人工生境。本文对了解研究区动物及其环境变化、生态环境保护具有重要意义，根据研究结果制定控制物种数量的措施以及对物种数量变动预测都发挥很大作用，同时也有利于西北地区生物多样性保护的研究和管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脊椎动物；种群数量变化；生物多样性；生境状况；生态系统文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物多样性是人类赖以生存的条件，拥有巨大的价值'，生境是物种栖息和生活的场所，生境消失和破碎化严重影响物种的扩散、迁移和建群，进而影响物种的数量[2-3]。森林、草地和湿地等是生物重要的栖息地，但不断增长的人口和基础设施建设加速了土地的转化和环境的退化，严重破坏了生物的栖息地[4-5]。随着\"3S\"技术的广泛应用,基于遥感与GIS手段在生物多样性评估、生态状况监测等生态领域的研究日益增多，实现了各种生态因子的快速获取以及大尺度范围内生态环境的实时监测[6-9]。许多学者借助遥感平台大范围快速获取物种生境信息，通过GIS空间分析技术对羚羊（Naemorhedusgoral）丹顶鹤（Grus japonensis）、普氏原羚（Procapraprzewalskii）、金丝猴（Rhinopithecus）、非洲象（Lox-odonta）大熊猫(Ailuropodamelanoleuca)等重要动物物种生境开展适宜性评价，为物种种群及其生存环境的规划、保护、管理和决策提供科学依据[0-15]。同时，国内外不少研究将地面调查与遥感监测技术相结合，运用生物多样性指数和环境因子构建生态评估模型，开展生物多样性研究，评估物种丰富度，为多样性保护提供决策和技术支持[16-22]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北地区处于干旱和半干旱地区，生态系统脆弱，容易受到环境变化的影响，且珍稀濒危物种数量众多，如野骆驼(Camelusferus）、四爪陆龟(Testu-dohorsfieldii)数量下降趋势仍处于受威胁状态。另外，相比东北等其他区域，西北地区自然保护区成立偏晚，部分保护区面积过大，再加上由于投人等多方面原因所导致的部分保护区管理措施不够完善，缺乏系统全面地监测与保护体系，物种保护成效仍不显著。本文以西北地区为例，以文献、报告等中的地面物种数量调查数据、卫星遥感数据为主要数据源，分析1980—2015年西北地区脊椎动物种群数量及生境变化状况，对了解该地区生境变化以及对动物种群数量、分布的潜在影响具有重要意义，是将调查数据和遥感数据结合进行生物多样性保护与管理的有益探索。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西北地区地域辽阔，总面积约为 $3 . 2 5 \\times 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ 包括新疆、青海、甘肃、宁夏、陕西和内蒙古西部(阿拉善盟)地区，涉及6省57个地级市。地形以高原和盆地为主，包括部分青藏高原、渭河平原、塔里木盆地、柴达木盆地、秦巴山地等。气候干旱，沙漠化现象严重，是我国气候变化的敏感区和生态脆弱区，一旦遭到破坏很难恢复[23-26]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西北地区植被类型丰富多样，主要以灌丛、草原、荒漠、草甸植被型为主，据《中国植被》记载，西北地区有19个植被类型，占全国的 $6 5 . 6 \\%$ ，有252个群系类型，占全国群系类型的 $4 6 . 7 \\%$ 。西北地区动物区系特殊而丰富，根据《中国西北地区珍稀濒危动物志》《珍稀濒危植物保护与研究》资料，全区兽类120多种，鸟类400余种，且珍稀濒危动植物种类繁多。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1物种数据物种数据源自中科院动物所基于国内外已发表的研究论文、专著、保护区和专业机构调查报告所建立的《中国陆栖脊椎动物种群时间序列数据库》，包括1980—2013年西北地区141个物种、375个地面种群的数量调查数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2生境状况数据1980、1990、1995、2000、2005、2010、2015年7期土地利用类型数据(空间分辨率 $1 0 0 \\mathrm { ~ m ~ }$ )来源于中国科学院资源环境科学数据中心（http://www.resdc.cn）。数据的原始土地利用类别包括6个一级土地利用类型和25个二级土地利用类型，结合研究区情况进行重分类，将其分为森林、草地、荒漠、水体与湿地、聚落、农田6类生态系统类型，以表征1980—2015年生态系统类型变化状况，利用MODIS卫星数据获取青海湖逐年丰水期和枯水期水域面积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1物种数量分析方法以全球生物多样性公约采纳的衡量全球水平生物多样性健康状态的四大指标之一——地球生命力指数(Living planet index,LPI)为主，按不同生态系统、地区和动物类群、目标区域对地球生命力指数进行分层解离，以评估分析西北地区不同生态系统的生物多样性水平及变化趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体计算LPI值步骤计算如下[27-30]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）计算某物种种群年变化趋势，如下公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { t } = \\log _ { 1 0 } ( N _ { t } - N _ { t - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $d _ { { _ t } }$ 为物种种群变化趋势； $\\mathbf { \\Phi } _ { t }$ 为年份； $N _ { t }$ 为 $\\mathbf { \\Phi } _ { t }$ 年的种群数量值； $N _ { t - 1 }$ 为 $t { - } 1$ 年种群数量值。对于在同一年份具有多个种群数据的物种，某一个物种的种群变化趋势计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { d } _ { t } = \\frac { 1 } { n t } \\sum _ { i = 1 } ^ { n } d _ { i t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\bar { d } _ { t }$ 为具有多个种群数据的物种，某一个物种的种群变化趋势； $i$ 为第 $i$ 个种群； $\\mathbf { \\chi } _ { t }$ 为年份； $n$ 为第 $\\mathbf { \\Phi } _ { t }$ 年有 $n$ 个种群; $d _ { i t }$ 为第 $i$ 个种群第 $\\mathbf { \\Phi } _ { t }$ 年变化趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）运用单个物种各年变化趋势计算所有物种各年份变化趋势的平均值：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\ t } = I _ { t - 1 } \\boldsymbol { 1 } \\boldsymbol { 0 } ^ { \\bar { d } _ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { \\boldsymbol { t } }$ 为第 $\\mathbf { \\Phi } _ { t }$ 年所有物种变化趋势的平均值; $I _ { t - 1 }$   \n为第 $_ { t - 1 }$ 年所有物种变化趋势的平均值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）生成LPI：设置初始年份， $\\scriptstyle I _ { 0 } = 1$ （本文将1980年设为 $I _ { 0 } , I _ { 0 }$ 为1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（4）对于种群时间序列数 ${ < } 6$ 的物种可以使用上述进行计算，对于其他具有多个种群时间序列的物种使用GAM(Generalizedadditivemodel广义相加模型)方法，将计算出的预测值采用上文中的方法计算 $\\bar { d } _ { { t } }$ ,获得最终LPI。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（5）采用BOOTSTRAP对指数值进行重复自抽样检验，产生 $9 0 \\%$ 置信区间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2生境状况分析方法生境是生物生存空间和一切影响到生物生存的环境因子的总和,保护生境",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于物种保育至关重要。生境破碎化对生物多样性有着巨大的负面影响，其面积的改变必定造成物种种群数量的变化，进而使生物多样性受到影响[31]。因此,具体计算过程中,采用该类生态系统类型的面积为主要指标进行表征，分别描述总面积和空间变化特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1脊椎动物种群数量变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用调查数据计算西北地区1980—2013年脊椎动物种群数量变化趋势指数。结果表明，自1980年以来西北脊椎动物种群数量下降了 $5 7 . 8 3 \\%$ （图1a）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图1b\\~d所示，草地荒漠生态系统动物种群数量总体减少，减幅约为 $8 2 . 2 1 \\%$ ，特别是在20世纪80年代至20世纪末，2000年左右下降趋势尤为显著，在21世纪初才逐步趋于缓和；而森林和湿地生态系统在1980—2013年和1985—2012年，动物种群数量分别增加了 $6 1 . 4 3 \\%$ 和 $3 1 . 7 1 \\%$ ,湿地物种种群数量在2002—2006年有比较明显的波动，2002年之前种群数量变化较小，但呈下降趋势，2002年之后种群数量整体呈上升趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2生境状况变化 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，2015年西北地区自然生境面积占比为 $7 7 . 8 4 \\%$ ,主要包括森林、草地、荒漠、水体与湿地4种生态系统类型，面积最多的自然生境类型为荒漠，占总面积的 $3 5 . 5 9 \\%$ ;其次为草地，占总面积的$3 4 . 0 5 \\%$ ;森林、水体与湿地生态系统分别占总面积的 $4 . 7 7 \\%$ 和 $3 . 4 3 \\%$ 。人工生境面积占比为 $7 . 9 5 \\%$ ，主要人工生境类型为农田和聚落生态系统，占总面积的 $7 . 3 5 \\%$ 和 $0 . 6 0 \\%$ 。1980—2015年，由自然生境转为人工生境的面积约为 $0 . 9 6 \\%$ 。自然生境面积减少,减少幅度为 $1 . 2 2 \\%$ ;人工生境面积增加,增加幅度为 $1 3 . 0 7 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1草地和荒漠生境变化西北地区植被类型以荒漠和草地植被占绝对优势，森林植被约为 $5 . 0 0 \\%$ ○森林和荒漠之间存在自然的过渡和演替，荒漠和草地生态系统中的动物物种多样性低于森林",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/41c05639468b3e069278fcbb5e934114bd87cb42f10b5d9c187deb0fe31b48ad.jpg",
+        "img_caption": [
+            "图11980—2015年西北地区和各生态系统物种数",
+            "Fig.1 Number of species in northwest China and each ecosystem from 1980—2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f65fcb8dfacc9ad8e09c339f6a902030bdf5bbdfa2356d3c963eceede8c012d9.jpg",
+        "img_caption": [
+            "注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)1719号的标准地图制作。",
+            "图2西北地区生态系统类型空间分布",
+            "Fig.2 Ecosystems spatial distribution of northwest China ",
+            "图31980—2015年生态系统面积变化趋势Fig.3Trends in ecosystem area during 1980—2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.18 (a)草地荒漠生态系统 1.560 (b)森林生态系统 1.12 (c)水体与湿地生态系统1.17 1.555 1.11  \n1.15 11 1.16 --草地 荒漠 10 1545 宜1.550 1.10 108  \n面1.12 面1.11 1.535 1.071.10 1.530 1.061980 1990 1995 2000 2005 2010 2015 1980 1990 1995 2000 2005 2010 2015 1980 1990 1995 2000 2005 2010 2015年份 年份 年份",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3a所示，草地生态系统占总面积的$3 4 . 0 5 \\%$ ，主要分布在新疆维吾尔自治区、青海省、甘肃省南部，宁夏回族自治区和陕西省。2015年草地生态系统的面积与1980年相比减少了 $2 . 1 0 \\%$ ，主要转变成农田和荒漠。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "荒漠生态系统占总面积的 $3 5 . 5 9 \\%$ ，主要分布在新疆维吾尔自治区、青海省的西北部、甘肃省北部及西北地区范围内的内蒙古自治区。2015年的荒漠面积与1980年相比减少了 $0 . 8 6 \\%$ ，减少的荒漠主要转变成草地。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 森林生境变化在西北五省，森林生态系统仅占总面积的 $4 . 7 7 \\%$ ，主要分布在陕西省中部和南部地区、甘肃省南部、青海省东部和南部以及新疆西北部部分地区。如图3b所示，森林生态系统的面积与1980年相比增加了 $0 . 8 9 \\%$ ,主要是由草地转变而成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3水体与湿地生境变化西北地区的水体与湿地生态系统主要分布在新疆西南部、中部和阿勒泰地区以及青海省，约占总面积的 $3 . 4 3 \\%$ ，与1980年相比增加了 $1 . 1 3 \\%$ ，主要增加的地区为新疆阿勒泰地区、青海省海西蒙古族藏族自治州和海南藏族自治州(图3c)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3重点物种状况 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 青海湖裸鲤 青海湖裸鲤(Gymnocypris przew-alskii)是濒危物种，属国家II级保护动物，分布于青海湖及其支流中。青海湖位于青藏高原东北部，是中国最大的内陆湖。如图 $\\mathrm { 4 a }$ ，青海湖水域面积在2000—2016年总体呈增加趋势，2000—2004年水域面积略有减少，2004年之后逐渐增加。青海湖2016年的丰水期水域面积与2000年相比增加了 $4 . 0 2 \\%$ ，常年性水域面积增加了 $4 . 0 6 \\%$ 。如图4b，1960—1965年青海湖裸鲤数量减少了约 $8 7 \\%$ ，主要是因为过度捕捞；1965一1992年青海湖裸鲤数量变化趋势较小，呈波动下降趋势，1998年时数量降到最低，仅为1960年的 $2 . 5 9 \\%$ ,1999年之后青海湖裸鲤数量呈增长趋势，2003年青海省开始实施封湖育鱼计划，青海湖的水域面积也呈增加趋势，青海湖裸鲤数量快速增加，2014年时裸鲤数量与1960年相比增加了$5 5 . 7 7 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d0c0bc6616c96bec90938e8b0a180684caef81e179ba3d6d6dc9183773392ec.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图4青海湖水体面积和青海湖裸鲤年变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.2普氏原羚普氏原羚(Procapra przewalski)主要分布在青海湖周围，是我国特有濒危有蹄类动物，其生存周边草地面积呈减少趋势，如图5a所示。2015年的草地面积与1980年相比减少了$2 . 4 6 \\%$ ,1980年到1995年草地面积略有增加，1995年到2000年快速减少，2000年到2015年呈缓慢减少趋势(图5a)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图5b，2014年普氏原羚种群数量与1988年相比增加了 $2 6 . 0 3 \\%$ ，其中1988年到1998年种群数量呈减少趋势，1998年的数量仅为1988年的$3 3 . 4 3 \\%$ ,这一期间普氏原羚数量的减少与生境面积的缩小、家畜的增加有关；1998年以后随着野生动物保护法颁布、人们对普氏原羚的关注和保护投入增加，使普氏原羚种群数量呈增加趋势，2010年时种群数量恢复到1988年的数量，之后增加趋势",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "减缓。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.3朱鹦朱鹦(Nipponianippon)是全球濒危鸟类，我国I级重点保护动物，主要生活在疏林地带。我国朱鹦的夜宿区主要分布在陕西省的洋县、宁陕县和城固县，三县的森林面积变化如图6a，总体面积变化不大，在1995年时森林面积略有减少，之后森林面积又有所恢复。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1981年朱鹦的数量非常少，仅发现了7只，1981—2001年朱鹦的种群数量增加十分缓慢，2001年之后迅速增加。2014年朱鹦的数量与1981年相比增加了 $30 4 \\%$ (图6b)。朱鹦种群数量的增加主要源于对其种群自身及生境的保护。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.4野骆驼野骆驼(Camelus ferus)是世界极度珍稀濒危的偶蹄类野生动物之一。野骆驼生活在荒漠中，在我国主要分布在库姆塔格区，约占库姆塔格区总面积的 $6 0 . 8 8 \\%$ 。人工生境(包括农田和聚落)的面积变化如图 $\\mathrm { 7 a }$ ，与1980年相比，人工生境的面积增加了 $6 . 2 9 \\%$ ,2010—2015年期间，人工生境面积增加迅速，人类活动的不断加剧对野骆驼的生存构成了极大威胁，严重破坏野骆驼的生境质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/29a4ea31001ff7d52cefb952bc46015801ec0985bf827125b5797b1336e2e16b.jpg",
+        "img_caption": [
+            "Fig.4Annual change trend of QinghaiLake area and Gymnocypris przewalskii ",
+            "图5普氏原羚生境草地面积及年变化趋势",
+            "Fig.5Grassland area and annual change trend ofProcapra przewalskii habitat "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/71b3b5873597bde73e7099e2ad6bfa20a1c4e0fbf9dd4978431c44a23b677dc4.jpg",
+        "img_caption": [
+            "Fig.6Forest area in the overnight area of Nipponia nippon and annual change trend of Nipponia nippon "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ed88252385438a93a4a1e9406adb71bc5e11c01c7c169b5eced7768aa90f98.jpg",
+        "img_caption": [
+            "图6朱鹦夜宿区森林面积及年变化趋势",
+            "图7库姆塔格区人工生境面积变化和野骆驼年变化趋势",
+            "Fig.7 Change of artificial habitat area in Kumtag area and annual change trend of Camelus ferl "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在1981年到2013年，野骆驼的种群数量一直呈减少趋势，2013年的种群数量与1981年相比减少了 $9 2 . 6 9 \\%$ 。其中，在1981—1995年，野骆驼种群数量下降速率最快，下降了接近 $89 \\%$ ,1995年之后，野骆驼种群数量减少趋势变缓，2013年有微小幅度的回升(图7b)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.5四爪陆龟 四爪陆龟(Testudo horsfieldii)又称草原龟，是国家I级保护动物，在我国仅分布于新疆霍城县境内，其2015年的生态系统类型如图8a,与1980年相比草地面积减少了 $4 . 4 9 \\%$ ,农田面积增加了 $4 . 4 0 \\%$ ,聚落面积增加了 $1 6 . 4 1 \\%$ ,减少的草地主要转变为农田，部分转变为聚落，人工生境的增加使四爪陆龟的生境破碎化且逐渐退缩，人为活动使其生境环境质量下降。由于爬行动物行动缓慢、扩散能力弱，对环境变化的适应能力低，其种群受环境变化的影响较明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在1970一2006年，四爪陆龟的种群数量呈下降趋势，下降了 $9 9 . 8 0 \\%$ 。其中，1970—1990年种群数量迅速减少，减少了 $9 8 . 7 8 \\%$ ，1990年之后减少趋势变缓(图8b)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生境为野生动物提供食物和栖息地，作为生存空间，生境面积的变化必定对物种种群数量造成一定影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在自然生境中，西北地区草地和荒漠生态系统中，动物种群数量在1980—2013年总体呈减少趋势，特别是在20世纪80年代至20世纪末2000年左右下降趋势尤为显著，在21世纪初才逐步趋于缓和。而西北地区草地生态系统面积在1980—2015年也是总体减少，从1990年至2005年左右下降趋势更为明显，草地质量降低、过度放牧造成的草原退化、面积减少、家畜与野生动物对空间和资源的竞争加剧以及西部开发造成的人为干扰加强是近年来对野生动物种群恢复最大的威胁。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbd95d26265ef5e5248f2a9db402fef4a9e6b3b9bb67003310565711bfebcaee.jpg",
+        "img_caption": [
+            "图8四爪陆龟保护区生态系统类型和年变化趋势",
+            "Fig.8Ecosystem types of Testudo horsfieldii protection area and annual variation trend of Testudo horsfieldi "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "森林生态系统面积从1980年以来总体呈增加趋势，动物种群数量也在增加。另外，森林生态系统种群数量的显著增长与数据分布存在较大的相关性。西北有限的原生林大多位于保护区内，而物种数据也多源自保护区内的一些保护物种，如大熊猫、金丝猴、羚牛等，这些物种在1980年前的下降趋势是十分显著的，但是自保护区建立后，由于生境和物种保护措施的有效性，种群已经处于稳定的恢复阶段。此外由于保护区外的森林破坏严重，存在物种向保护区内聚集的现象，特别是活动能力和范围强且繁殖能力较强的一些鸟类物种，造成了森林生态系统物种指数的上升。保护区以外森林物种调查数据匮乏也是造成指数明显上升趋势的原因之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水体与湿地生态系统中动物种群数量降低，水体与湿地面积变化也呈减少趋势。由于缺乏两栖爬行动物的调查数据，西北水体与湿地生态系统的物种数据以鸟类为主。不同种类鸟类对栖息地环境质量要求有差异，可以根据其生存特点判定栖息地生态质量状况。而且鸟类生存条件特殊，其成活率与气候、湿地条件等息息相关，因此可以敏感地反应生境波动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来西北地区的生态保护政策、生态建设和物种恢复工程已初显成效，青海湖裸鲤、普氏原羚和朱鹦等生境分布狭窄且保护管理措施到位，物种种群数量明显增加。生态建设工程与野生动物保护相结合，注重原生境的保存和恢复，加强生物多样性保护成效的评价，最大程度避免生境的退化和丧失。本研究所使用的方法一LPI是衡量生物多样性变化的一种指标，世界自然基金会(WorldWideFundforNatureorWorldWildlifeFund,WWF)和伦敦动物学会（The Zoological Society of London,ZSL)每两年发布一次《地球生命力》报告，是目前对全球生物多样性最全面的评估之一。国内外学者利用LPI评价全球脊椎动物物种数量[32]、荷兰陆地和淡水栖息地生物多样性[33]和鄱阳湖鸟类多样性[34]等，对于加强当地的生物保护和管理起到了一定的成效。由于西北地区科研和基础调查较为匮乏，导致本次研究缺乏必要的历史研究数据，使得本次数据收集存在数据密度小、动物种群时间序列长度短等的不足，进而导致所反映的趋势不够完整和稳定，期望有关部门加强对野生动物种群的基础调查，并尽快推进动物种群的天地一体化监测。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）种群数量方面，西北地区脊椎动物种群数量自1980年以来整体呈下降趋势，至2013年下降了 $5 7 . 8 3 \\%$ ，但2005年后呈逐渐恢复的趋势。从脊椎动物所依存的生态系统看，草地和荒漠生态系统物种种群数量减少明显，减少了 $8 2 . 2 1 \\%$ ,森林生态系统和水体与湿地生态系统物种数量增加明显，分别增加了 $6 1 . 4 3 \\%$ 和 $3 1 . 7 1 \\%$ ○",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）生境状况变化方面，西北地区自然生境占区域总面积的 $7 7 . 8 4 \\%$ ，人工生境占 $7 . 9 5 \\%$ ，主要人工生境类型为农田和聚落生态系统，1980—2015年整个西北地区约 $0 . 9 6 \\%$ 的面积由自然生境转为人工生境，自然生境面积减幅 $1 . 2 2 \\%$ ,其中：森林和水体与湿地面积分别增幅 $0 . 8 9 \\% , 1 . 1 3 \\%$ ,草地和荒漠减幅$2 . 9 6 \\%$ ;人工生境面积增幅 $1 3 . 0 7 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）重点物种方面，西北地区生态系统较为脆弱，珍稀濒危物种数量众多。青海湖裸鲤、普氏原羚和朱鹦等物种数量明显增加，与其生境分布狭窄且保护管理措施有效性高有较大关系。但野骆驼、四爪陆龟等物种的种群数量下降趋势仍未缓解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]曹铭昌,乐志芳,雷军成,等.全球生物多样性评估方法及研究 进展[J].生态与农村环境学报,2013,29(1):8-16.[Cao Mingchang,Le Zhifang,Lei Juncheng,et al. Approaches to assessment of global biodiversity and advancements in their researches[J]. Journal of Ecology and Rural Environment,2013,29(1): 8-16.]   \n[2]魏辅文,冯祚建,王祖望.野生动物对生境选择的研究概况[J] 动物学杂志,1998,33(4):49-53.[Wei Fuwen,Feng Zuojian, Wang Zuwang.Research on habitat selection of wild animals[J]. Chinese Journal of Zoology,1998,33(4): 49-53.]   \n[3]武正军,李义明.生境破碎化对动物种群存活的影响[J].生态学 报,2003,23(11):2424-2435.[Wu Zhengjun,Li Yiming.Effects of habitat fragmentation on survival of animal populations[J].Acta Ecologica Sinica,2003,23(11): 2424-2435.]   \n[4]万华伟,夏霖,侯鹏,等.近40年东北地区陆栖脊椎动物种群数 量及其生境变化评估[J].生态学报,2018,38(16):5649-5658. [Wan Huawei, Xia Lin,Hou Peng,et al.Assessment of the changes in the number of terrestrial vertebrates and habitat in northeast China over the last 4O years[J].Acta Ecologica Sinica,2018,38 (16): 5649-5658.]   \n[5]Das S,Angadi D P. Land use land cover change detection and monitoring of urban growth using remote sensing and GIS techniques:A micro-level study[J]. GeoJournal,2021,doi: 10.1007/ s10708-020-10359-1.]   \n[6]He G,Yang H T,Pan R L,et al. Using unmanned aerial vehicles with thermal-image acquisition cameras for animal surveys:A case study on the Sichuan snub-nosed monkey in the Qinling Mountains [J].Integrative Zoology,2020,15(1): 79-86.   \n[7]邵全琴,郭兴健,李愈哲,等.无人机遥感的大型野生食草动物 种群数量及分布规律研究[J].遥感学报,2018,22(3):497-507. [Shao Quanqin, Guo Xingjian,Li Yuzhe,et al. Using UAV remote sensing to analyze the population and distribution of large wild herbivores[J]. Journal of Remote Sensing,2018,22(3): 497-507.]   \n[8]郭庆华,刘瑾.遥感已经成为生物多样性研究保护与变化监测 不可或缺的技术手段[J].生物多样性,2018,26(8):785-788. [Guo Qinghua, Liu Jin. Remote sensing has become an indispensable technology for biodiversity research protection and change monitoring[J]. Biodiversity Science,2018,26(8): 785-788.]   \n[9]刘全謁,齐明亮,马啸宙,等.基于遥感和GIS 的洮河流域面源 污染流域尺度模拟及防治对策研究[J].干旱区地理,2020,43 (3): 706-714.[Liu Quanyang, Qi Mingliang,Ma Xiaozhou,et al. SWAT simulation and countermeasures of non-point source pollutionbasedonremote sensing andGISin Taohe River BasinJ].Arid Land Geography,2020,43(3): 706-714.]   \n[10] 吕晨阳,金崑,王秀磊.武威东沙窝地区赛加羚羊潜在生境适宜 性评价[J].生态科学,2014,33(5): 931-936.[Lu Chenyang,Jin Kun, Wang Xiulei.Potential habitat evaluation of Saiga antelope in Wuwei Dongshawo Region, Gansu[J]. Ecological Science,2014, 33(5): 931-936.]   \n[11] 张桐菓.基于GIS 的扎龙湿地丹顶鹤空间格局及其生境变化研 究[D].湘潭：湖南科技大学,2016.[Zhang Tongguo.Study on changes of spatial pattern and habitat of red-crowned crane in Zhalong Wetland based on GIS[D]. Xiangtan: Hunan University of Science and Technology,2016.]   \n[12] 王秀磊,李迪强,吴波,等.青海湖东-克图地区普氏原羚生境 适宜性评价[J].生物多样性,2005,13(3):213-220.[Wang Xiulei,Li Diqiang,Wu Bo,et al. Habitat suitability assessment of Przewalski's gazelle in the Hudong-Ketu area, Qinghai, China[J]. Biodiversity Science,2005,13(3): 213-220.]   \n[13] 张宇,李佳,薛亚东,等.气候变化背景下湖北川金丝猴种群生 存力分析[J].生态学杂志,2018,37(1): 333-3341. [Zhang Yu, Li Jia,Xue Yadong,etal.Population viability analysis of Sichuan golden snub-nosed monkey in context of climate change in Hubei Province,China[J]. Journal of Ecology,2018,37(1): 3333-3341.]   \n[14] Martin J, Chamaille JS,Nichols JD,et al. Simultaneous modeling of habitat suitability,occupancy,and relative abundance: African elephants in Zimbabwe[J].Ecological Applications,2010,20 (4): 1173-1182.   \n[15] 戎战磊,周宏,韦伟,等.基于MAXENT模型的唐家河自然保护 区大熊猫生境适宜性评价[J].兰州大学学报(自然科学版), 2017,53(2): 269-273,278.[Rong Zhanlei, Zhou Hong,Wei Wei, et al. Giant panda habitat suitability assessment in Tangjiahe Nature Reserve based on MAXENT model[J]. Journal of Lanzhou University (Natural Science Edition),2017,53(2): 269-273,278.]   \n[16]Saatchi S, Buermann W,Steege H T,et al. Modeling distribution of Amazonian tree species and diversity using remote sensing measurements[J].Remote Sensing of Environment，2008,112(5): 2000-2017.   \n[17]Madonsela S, Cho M A,Ramoelo A,et al. Remote sensing of species diversity using Landsat 8 spectral variables[J]. ISPRS Journal of Photogrammetry and Remote Sensing,2017,133: 116-17.   \n[18] Lauver, Chris L. Mapping species diversity patterns in the Kansas shortgrass region by integrating remote sensing and vegetation analysis[J]. Journal of Vegetation Science,1997,8(3): 387-394.   \n[19] Powers R P, Coops N C, Morgan JL,et al. A remote sensing approach to biodiversity assessment and regionalization of the Canadianboreal forest[J].Progress inPhysical Geography,2O13,37(1): ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36-62. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20] 解潍嘉,黄侃,李瑞平,等.应用高分辨率卫星数据估算阔叶红 松林乔木多样性[J].北京林业大学学报,2015,37(3):20-26. [Jie Weijia,Huang Kan,Li Ruiping,et al.Applying high-resolution satellite images to estimate tree diversity of mixed broadleafKorean pine forest[J]. Journal of the Beijing Forestry University, 2015,37(3): 20-26.]   \n[21] 刘鲁霞.基于多源遥感数据亚热带森林乔木物种多样性估测研 究[D].北京:中国林业科学研究院,2017.[Liu Luxia.Assessment of species diversity in the subtropical forest using multisource high resolution remote sensing data[D].Beijing: China Academy of Forestry Sciences,2017.]   \n[22] 程乾,陈奕霏,李顺达,等.基于高分1号卫星和地面实测数据 的杭州湾河口湿地植物物种多样性研究[J].自然资源学报, 2016,31(11): 1938-1948.[Cheng Qian, Chen Yifei,Li Shunda,et al.Research on plant species diversity in Estuarine Wetland of Hangzhou Bay basedon theGF-1 satelite and in situdata[J. Journal of Natural Resources,2016,31(11): 1938-1948.]   \n[23]唐豪杰.简析西北地区荒漠化的防治[J].绿色环保建材,2017 (9): 238.[Tang Haojie.A brief analysis on the prevention and control of desertification in northwest China[J].Green Building Materials,2017(9): 238.]   \n[24]李秀花,吴纯渊.中国西北五省区水资源利用的协调性分析[J/ OL].干旱区地理.[2021-09-16]. https:/kns-cnki-net.webvpn. las.ac.cn/kcms/detail/65.1103.X.20210603.1628.012.html.[Li Xiuhua,Wu Chunyuan.Analysis on the coordination of water resources utilization in the five provinces of northwest China[J/OL]. Arid Land Geography. [2021-09-16]. htps: /kns- cnki- net.webvpn.las.ac.cn/kcms/detail/65.1103.X.20210603.1628.012.html.]   \n[25] 贾菊桃,吴彩燕,张建香,等.2001—2013年中国西北地区土地 利用变化的时空格局分析[J].西南科技大学学报,2018,33(3): 31-36,42.[Jia Jutao,Wu Caiyan, Zhang Jianxiang,et al. Temporal and spatial pattern of land use change in northwest China from 2001 to 2O13[J]. Journal of Southwest University of Science and Technology,2018,33(3): 31-36,42.]   \n[26] 张振宇 钟瑞森 李小玉 等 中国西北地区NPP变化及其对干 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "旱的响应分析[J].环境科学研究,2019,32(3):431-439.[Zhang Zhenyu, Zhong Ruisen,Li Xiaoyu,et al.Change of NPP and its response to drought in northwest China[J]. Research of Environmental Sciences,2019,32(3): 431-439.]   \n[27]Loh J, Green RE, Ricketts T,et al. The living planet index: Using species population time series to track trends in biodiversity[J]. Philosophical Transactions of the Royal Society B:Biological Sciences,2005,360(1454): 289-295.   \n[28] 中国环境与发展国际合作委员会.地球生命力报告一中国[R] 北京：中国环境与发展国际合作委员会,2015.[China Council for International Cooperation on Environment and Development. Life on Earth Report—China[R]. Beijing: China Council for International Cooperation on Environment and Development, 2015.]   \n[29]Loh J,Collen B, McRae L,et al.Living planet index: Living planet report[R]. Switzerland: WWF,2006.   \n[30]McRae L, Zockler C,Gill M, et al. Arctic species trend index 2010.Tracking trends in arctic wildlife5[R]. CAFF CBMP Report No.20,2010.   \n[31] 钟明,侍昊,安树青,等.中国野生动物生境适宜性评价和生境 破碎化研究[J].生态科学,2016,35(4):205-209.[Zhong Ming, Shi Hao,An Shuqing,et al.The studies of wildlife habitat suitability assessment and habitat fragmentation in China[J]. Ecological Science,2016,35(4): 205-209.]   \n[32] Mcrae L,Deinet S,Freeman R.The Diversity-weighted living planet index: Controlling for taxonomic bias in a global biodiversity indicator[J]. The Public Library of Science ONE,2017,12(1): 1-20.   \n[33]Van Strien AJ,Meyling AWG,HerderJE,et al.Modest recovery of biodiversity in a western European country: The living planet index for the Netherlands[J].Biological Conservation，2016, 200: 44-50.   \n[34] 刘威,李航,伊剑锋,等.基于优化的地球生命力指数分析鄱阳 湖鸟类多样性变化[J].生态与农村环境学报,2020,36(11): 1369-1374.[Liu Wei,Li Hang,Yi Jianfeng,et al.Analysis of bird diversity variation in Poyang Lake based on optimized living planet index[J]. Journal of Ecology and Rural Environment,2020,36 (11): 1369-1374.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Changes in the number and habitat of vertebrata in northwest China from 1980 to 2015 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WAN Huawei'， ZHANG Zhirul²， XIA Lin’,LIU Yuping',HOU Peng'， SUN Chenxi'， JIN Yanli4",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1.CenterforSteliteApplicationonEcologyandEnvironment,MinistryofEcologyandEnvironment,BeijingOo94,Cina; 2.ChineseResearchAcademyofEnvironmentalSciences,BeijingOool2,China;3.InstituteofZology,ChineseAcademyof Sciences,Beijing l00lo1,China;4.UniversityofScienceandTechnologyLiaoning,Anshan114051,Liaoning,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The northwestern region of China has a vast teritory,a unique geographical location,and a special and rich fauna.However,its ecosystem is fragile andvulnerable to environmental changes.This region is facing the dual pressure of climate and human activities,which critically affects the number of species and habitat conditions.Therefore,this article uses satelite remote sensing and ground-based species survey data as the main data source.Living planet index is used to analyze the level and the change trend of biodiversity and characterize the change status of species.Land use data were reclassified into six ecosystem types.Forest, grassland,desert, water,and wetland ecosystems were defined as natural habitats,and settement and farmland ecosystems were defined as artificial habitats.Their area represented the habitat status of species.Acomprehensive analysis of the change trend of the vertebrate population and habitat status since 198O—2015.The results showed that the vertebrate population in northwest China had a downward trend since 1980 and decreased by $5 7 . 8 3 \\%$ in 2013, but it gradually recovered after 20o5.The number of Gymnocypris przewalski,Procapra przewalskii,and Nipponia nippon in Qinghai Lake increased by $5 5 . 7 7 \\%$ ， $2 6 . 0 3 \\%$ ，and $304 \\%$ ，respectively. This number exhibited a downward trend before 20 and increased significantly after 20oo,but the population number of Camelus ferus, Testudo horsfieldi,and other species decreased exponentialy,and the downward trend has not beenalleviated. The area of grassland and desert ecosystem decreased,and thearea offorest, water body,and wetland ecosystem increased.On the whole,it has mainly changed from natural habitat to artificial habitat.The research is of great significance to understand the animals and their environmental changes and eco-environmental protection in the study area. Such an analysis plays a major role in formulating measures to control the number of species and predicting the change of species according to the research results.It is also conducive to the research and the management of biodiversity conservation in northwest China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: vertebrata; population change; biodiversity； habitat; ecosystem",
+        "page_idx": 9
+    }
+]

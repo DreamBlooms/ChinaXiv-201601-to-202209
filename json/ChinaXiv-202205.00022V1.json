@@ -1,0 +1,496 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of mixed-based biochar on water infiltration and evaporation in aeolian sand soil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZOU Yiping1, ZHANG Shuyuel, SHI Ziyue1, ZHOU Huixin1, ZHENG Haowei1,HU Jiahui', MEI Jing1,BAI Lu2,3, JIA Jianli1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Schoolof Chemical &EnvironmentalEnginering,China Universityof Miningand Technology (Beijing),Beijing100083, China;   \n² State Key Laboratoryof Water Resource Protection and Utilization in Coal Mining,Beijing 102211, China;   \n3 National Institute of Clean-and-Low-Carbon Energy, Beijing 102211, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aeolian sandy soil in mining areas exhibits intense evaporation and poor water retention capacity. This study was designed to find a suitable biochar application method to improve soil water infiltration and minimize soil water evaporation for aeolian sand soil. Using the indoor soil column method,we studied the effects of three application patterns (A $\\ : ( 0 - 2 0 \\ : \\mathrm { ~ c m }$ was a mixed sample of mixed-based biochar and soil),B ( $\\mathrm { 0 - 1 0 ~ c m }$ was a mixed sample of mixed-based biochar and soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was soil),and C $\\mathrm { 0 - 1 0 ~ c m }$ was soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil)), four application amounts ( $0 \\%$ (control, CK), $1 \\%$ ， $2 \\%$ ,and $4 \\%$ of mixed-based biochar in dry soil),and two particle sizes $\\mathrm { 0 . 0 5 { - } 0 . 2 5 \\ m m }$ (S1) and $< 0 . 0 5 \\ \\mathrm { m m }$ (S2)）of mixed-based biochar on water infiltration and evaporation of aeolian sandy soil. We separately used five infiltration models (the Philip, Kostiakov, Horton， USDA-NRCS (United States Department ofAgriculture-Natural Resources Conservation Service),and Kostiakov-Lewis models) to fit cumulative infiltration and time. Compared with CK,the application of mixed-based biochar significantly reduced cumulative soil water infiltration. Under application patterns A,B,and C,the higher the application amount and the finer the particle size were,the lower the migration speed of the wetting front. With the same application amount, cumulative soil water infiltration under application pattern A was the lowest. Taking infiltration for $1 0 \\ \\mathrm { m i n }$ as an example, the reductions of cumulative soil water infiltration under the treatments of $\\mathrm { A } 2 \\% _ { ( \\mathrm { S } 2 ) }$ ， $\\mathrm { A } 4 \\% _ { ( \\mathrm { S 1 ) } }$ ， $\\mathrm { A } 4 \\% _ { ( \\mathrm { S 2 } ) }$ $\\mathrm { A } 1 \\% _ { \\mathrm { ( S 1 ) } }$ ， $C 2 \\% _ { \\Delta ( \\mathrm { S 1 } ) }$ ,and $\\mathrm { B } 1  { \\% } _ { ( \\mathrm { S 1 ) } }$ were higher than $30 \\%$ ,which met the requirements of loess soil hydraulic parameters suitable for plant growth.The five infiltration models wellfitted the efects of the treatments of application pattern C and S1 particle size ( $\\mathrm { ^ { \\prime } R ^ { 2 } { > } 0 . 9 8 0 ) }$ ,but the $R ^ { 2 }$ values of the Horton model exceeded O.990 for all treatments (except for the treatment $B 2  { \\% } _ { (  { \\mathrm { S } } 2 ) , }  { \\rangle }$ . Compared with CK,all other treatments reduced cumulative soil water infiltration, except for $\\mathrm { B } 4 \\% _ { ( \\mathrm { S } 2 ) }$ .With the same application amount, cumulative soil water evaporation difference between application patterns A and B was small. Treatments of application pattern C and S1 particle size caused a larger reduction in cumulative soil water evaporation. The reductions in cumulative soil water evaporation under the treatments of $C 4 \\% _ { ( \\mathrm { S 1 ) : } }$ $C 4 \\% _ { ( \\mathrm { S 2 ) } }$ 0 $C 2 \\% \\mathrm { { ( { S 1 ) } } }$ ,and $C 2 \\% _ { ( \\mathrm { S 2 ) } }$ were over $1 5 . 0 \\%$ .Therefore, applying $2 \\%$ of mixed-based biochar with S1 particle size to the underlying layer ( $( 1 0 { - } 2 0 ~ \\mathrm { c m } )$ could improve soil water infiltration while minimizing soil water evaporation. Moreover, application pattern was the main factor affecting soil water infiltration and evaporation. Further, there were interactions among the three influencing factors in the infiltration process (application amountXparticle size with the most important interaction)，while there were no interactions among them in the evaporation process. The results of this study could contribute to the rational application of mixed-based biochar in aeolian sandy soil and the resource utilization of urban and agricultural wastes in mining areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: biochar; water infiltration; water evaporation; aeolian sand soil; mining areas ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZOU Yiping,ZHANG Shuyue,SHI Ziyue, ZHOU Huixin, ZHENG Haowei,HU Jiahui,MEIJing,BAI Lu, JIA Jianli.2022.Efectsof mixed-based biocharon water infiltrationand evaporation inaeoliansand soil.Journalof Arid Land,14(4):374-389.https://doi.org/10.1007/s40333-022-0060-6 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In most arid and semi-arid regions in the world,soils are characterized by high sand and low organic matter contents,which harm the physical and chemical properties of soils. Specifically, these soils feature high water infiltration rate,low water holding capacity, large evaporation,and low fertility and organic matter content, leading to low water supply and utilization eficiency (Alaa et al.， 2O17).Generally, low soil organic mater content results in poor water holding capacity and weak soil structure (Breus et al., 2O14). Studies have shown that the physical and chemical properties of soils can be improved by adding organic and inorganic amendments, such as biochar (Tang et al., 2015; Basanta et al., 2017; Zhou et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, it has been reported that biochar from pyrolysis of organic waste can be considered an alternative amendment that has the characteristics of porous structure,large specific surface area,and rich functional groups (Wang et al., 2O21a, b), which affect the bulk density, porosity, aggregation, and hydraulic properties of soils (Lehmann, 2OO7; Lehmann et al., 2O11; Ahmad et al.,2012; Kinney et al.,2Ol2;Li,2019). Studies have shown that biochar can reduce soil bulk density(Laird et al.,2010; Githinji,2013), increase soil porosity (Tammeorg et al.,2014),change the number of soil aggregates and their stabilities (Mukherjee et al., 2O14; Zhang et al., 2015), and affect soil hydraulic properties (Wang et al., 2015; Bao,2020; Razzaghi et al. 202O). These effects of biochar application, however, depend on various factors,such as application pattern, application amount, particle size,type of biochar,and soil type (Qi et al., 2O14; Xie et al., 2016; Wang et al.,2O18; Wang et al.,2O19). At present, researchers are focusing on exploring the effects of application patterns and application amounts of biochar on soil hydraulic properties; it has been found that an appropriate amount of biochar application can improve the infiltration capacities of soils,and different application patterns of added biochar have significant impacts on soil water infiltration and evaporation (Burrell et al.,2016; Li et al.,2016,2018; Lim et al.,2016; Liu et al., 2016).However,the effects of particle sizes of biochar on soil hydraulic characteristics are uncertain (Xie et al., 2O16; Wang et al., 2O19),and most studies focus on particle size above 0.25 mm,and less studies below $0 . 2 5 ~ \\mathrm { m m }$ (Wang et al., 2019;Kim et al.,2021). Therefore,the effects of application patterns,application amounts,and particle sizes of biochar on soil water infiltration and evaporation are not clear. Moreover, in arid and semi-arid regions,it is unclear whether suitable application pattrns,application amounts,and particle sizes of biochar can significantly improve soil water infiltration and effectively reduce water evaporation from aeolian sandy soil, especially in mining areas with degraded ecological environments.Exploring this issue is very important for determining whether biochar can improve the soil quality of mining areas with insuficient water retention capacity. Additionally, the raw materials of biochar are mostly wood and straw; the sludge from urban sewage treatment plants usually contains large amounts of organic matter and is a suitable raw material for preparing biochar. Thermal conversion of sludge through pyrolysis reduces the volume of sludge, kills pathogens and parasites,and realizes the safe disposal and resource utilization of sludge (Sun et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we used co-pyrolysis of urban domestic sludge and agricultural straw to prepare mixed-based biochar. Through a one-dimensional vertical infiltration experiment, we explored the effects of mixed-based biochar on the soil water infiltration and evaporation characteristics of aeolian sandy soil in a mining area of China. Specifically, we set up three application paterns for mixed-based biochar, four application amount gradients,and two particle size ranges. We adopted a full-factorial design experiment with a total of 19 treatments. The following goals are expected to be achieved: (1) exploring the effects of application patterns, application amounts, and particle sizes of mixed-based biochar on soil water infiltration and evaporation; and (2) determining the optimal combination of application pattern,application amount,and particle size of mixed-based biochar to improve water infiltration and minimize water evaporation in aeolian sandy soil. The results of this study could contribute to the rational application of biochar in aeolian sandy soil and the resource utilization of urban and agricultural wastes in mining areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study,we collected aeolian sandy soil from the collapse area of the Daliuta Coal Mine $( 1 1 0 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { N }$ ， $3 9 ^ { \\circ } 2 9 ^ { \\prime } \\mathrm { E }$ ）located in Daliuta Town,Shenmu County, Shaanxi Province,China.The mining area belongs to the Shendong mining area, which is the transition zone between the southern edge of the Mu Us Sandy Land and the northern edge of the Loess Plateau, with a poor environment and fragile ecology. The annual precipitation is between 251.3 and $6 4 6 . 5 \\ \\mathrm { m m }$ ,and the evaporation is as high as $1 7 8 8 . 4 ~ \\mathrm { m m }$ .The precipitation is highly variable and concentrated in summer. The average annual temperature is about $7 . 0 ^ { \\circ } \\mathrm { C }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sample collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil samples were collected from 14 sampling points in Shendong Central Coal Mine,such as Shangwan, Daliuta,and Halagou. We collected aeolian sandy soil samples at depths of $\\textstyle 0 - 5 0 \\ { \\mathrm { c m } }$ in July 2020 by using the biological community sampling method. After removing the impurities, the soil samples were naturally dried in the dark and then ground through a $2 \\mathrm { - m m }$ sieve for analysis.A laser particle size analyzer (Malvern 2Ooo,Metler Toledo,Malvern, USA) was used to determine the mechanical components of aeolian sandy soil. The mass fractions of sand, silt, and clay were $8 5 . 5 2 \\%$ ， $1 4 . 4 4 \\%$ ，and $0 . 0 4 \\%$ ,respectively. Other physical and chemical properties of the tested soil are shown in Table 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We took sludge from the Gaobeidian Sewage Treatment Plant in Beijing City, China. After the sludge was air-dried at room temperature,it was crushed with a grinder and passed through a 60-mesh screen. The dried powder after sieving was stored in a dryer to prevent moisture adsorption. We collected corn stalks from the suburbs of Beijing City. After $1 0 \\mathrm { ~ d ~ }$ in the sun, the corn stalks were chopped with a chopper, passed through a 6O-mesh screen,and stored in a desiccator. Mixed-based biochar was prepared by mixing sludge and corn stalks with a ratio of 7:3(w/w) and carbonizing at $5 5 0 ^ { \\circ } \\mathrm { C }$ with a residence time of $1 2 0 \\mathrm { m i n }$ (Table 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f218929366648a0066b6e041804fbb79238bd572c34f953b33e02ec173974c9.jpg",
+        "table_caption": [
+            "Table1 Physical and chemical properties of tested aeolian sandy soil "
+        ],
+        "table_footnote": [
+            "Note:EC,electicaloductivityCECationchangepacity;TC,totalabo;OC,oilanicrbon;,totalro available nitrogen;TP, total phosphorus;AP,available phosphorus. "
+        ],
+        "table_body": "<html><body><table><tr><td>pH</td><td>(/cm)</td><td>(cECg)</td><td>TCg</td><td>C</td><td>TNg</td><td>(mg/kg)</td><td>T</td><td>(mg/kg)</td><td>microoNumber (x104/g)</td></tr><tr><td>7.77</td><td>309.91</td><td>5.00</td><td>18.70</td><td>10.67</td><td>0.65</td><td>52.68</td><td>0.51</td><td>32.84</td><td>151.99</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3018282d1d63b8a5e80c72f334348c66fff5ed36b4b5198f7e06899c06bd90d7.jpg",
+        "table_caption": [
+            "Table2Physical and chemical properties of mixed-based biochar "
+        ],
+        "table_footnote": [
+            "Note:BET,B-Eer;Cbo;Hoen;Nrogen;Ogn;Pposos;K,as;Zi;Cu, copper; Cr,chromium. "
+        ],
+        "table_body": "<html><body><table><tr><td>pH</td><td>CEC (cmol/kg)</td><td>BET (m2/g)</td><td>C (%)</td><td>H (%)</td><td>N (%)</td><td>0 (%)</td><td>P (g/kg)</td><td>K (g/kg)</td><td>Zn (mg/kg) (mg/kg) (mg/kg)</td><td>Cu</td><td>Cr</td><td>size (nm)</td><td>Average pore Pore volume (cm³/g)</td></tr><tr><td>8.02</td><td>19.12</td><td>72.03 61.02</td><td></td><td>3.51</td><td>0.66</td><td>8.93</td><td>4.81</td><td>9.50</td><td>183.99</td><td>8.31</td><td>1.79</td><td>9.77</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study, we set up three application pattrns (Fig. 1),four application amount gradients, and two particle sizes of mixed-based biochar. We adopted a ful-factorial design experiment with a total of 19 treatments (Table 3),and each treatment was repeated three times. Application pattrns of mixed-based biochar were as follows:（1) $0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil (A); (2) $_ { 0 - 1 0 \\mathrm { c m } }$ was a mixed sample of mixed-based biochar and soil and 10-20 cm was soil (B); and (3) $0 { - } 1 0 ~ \\mathrm { c m }$ was soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil (C). The four application amounts of mixed-based biochar in dry soil were $0 \\%$ (CK, control), $1 \\% , 2 \\%$ ，and $4 \\%$ . The two particle sizes of mixed-based biochar were $0 . 0 5 \\substack { - 0 . 2 5 }$ （204号 $\\mathbf { m m }$ (S1) and $< 0 . 0 5 \\ \\mathrm { m m }$ (S2).According to the prefilling test, the filling bulk densities of soil and mixed-based biochar were 1.56 and $0 . 4 0 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ,respectively. Since mixed-based biochar reduces soil bulk density, we kept the volume of filling soil constant.We determined the method used for filling the mixed soil bulk density according to the application amounts of mixed-based biochar, soil bulk density,and soil addition ratio.Therefore,soil bulk densities of soil with $1 \\%$ + $2 \\%$ ，and $4 \\%$ mixed-based biochar were 1.52,1.48,and $1 . 4 0 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fa2ffa9fe03fce1d9ae12cf78bc1ce6211e4d65a4fc2d9a89f2445a2626182c.jpg",
+        "img_caption": [
+            "Fig.1Schematic diagram showing the application paterns of mixed-based biochar. CK,control. Application patterns for mixed-based biochar were as follows: (1) $0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil (A); (2) $0 { - } 1 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was soil (B);and (3) $0 { - } 1 0 ~ \\mathrm { c m }$ was soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil (C). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1bbbc7238c191ecfbf3afa49b37a085e0416ba39ee64576468cb0d0fac0e7197.jpg",
+        "table_caption": [
+            "Table 3Full-factorial design experiment used in this study "
+        ],
+        "table_footnote": [
+            "Note:CK,control.Application patterns of mixed-based biochar were as follows:(1) $0 { - } 2 0 ~ \\mathrm { c m }$ was the mixed sample of mixed-based biochar and soil (A);(2) $0 { \\mathrm { - } } 1 0 ~ \\mathrm { c m }$ was the mixed sample of mixed-based biochar and soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was soil (B); and (3) $0 { \\mathrm { - } } 1 0 ~ { \\mathrm { c m } }$ was soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was the mixed sample of mixed-based biochar and soil (C). S1, $0 . 0 5 { - } 0 . 2 5 ~ \\mathrm { m m }$ S2, $< 0 . 0 5 \\ \\mathrm { m m }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Application pattern</td><td>Application amount</td><td>Particle size</td></tr><tr><td>CK</td><td rowspan=\"6\">A</td><td rowspan=\"2\"></td><td></td></tr><tr><td>A1%(s1)</td><td>S1</td></tr><tr><td>A1%(s2)</td><td>1%</td><td>S2</td></tr><tr><td>A2%(s1)</td><td>2%</td><td>S1</td></tr><tr><td>A2%(s2)</td><td></td><td>S2</td></tr><tr><td>A4%(s1)</td><td>4%</td><td>S1</td></tr><tr><td>A4%(s2) B1%(s1)</td><td rowspan=\"6\">B</td><td rowspan=\"2\">1%</td><td>S2</td></tr><tr><td></td><td>S1</td></tr><tr><td>B1%(s2)</td><td>S2 S1</td></tr><tr><td>B2%(s1)</td><td>2%</td></tr><tr><td>B2% (s2)</td><td>S2</td></tr><tr><td>B4%(s1)</td><td>S1</td></tr><tr><td>B4% (s2)</td><td>4%</td></tr><tr><td>C1%(s1)</td><td></td><td></td><td>S2 S1</td></tr><tr><td>C1%(s2)</td><td></td><td>1%</td><td></td></tr><tr><td></td><td></td><td></td><td>S2</td></tr><tr><td>C2%(s1)</td><td>C</td><td>2%</td><td>S1</td></tr><tr><td>C2%(s2)</td><td></td><td></td><td>S2</td></tr><tr><td>C4%(s1)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>4%</td><td>S2</td></tr><tr><td>C4%(S2)</td><td></td><td></td><td>S1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Determination of soil water infiltration and evaporation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.1Preparation of the soil column ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The soil column used in the experiments was a transparent acrylic column with an inner diameter of $7 . 0 \\mathrm { c m }$ and a height of $3 0 . 0 \\mathrm { c m }$ .Three layers of gauze sand and one layer of gravel were placed in the bottom of the soil column to prevent the loss of soil particles,and then the soil was added. Vaseline was applied evenly and thinly on the pipe wall to reduce pipe wall effects on soil water infiltration. Each soil column was compacted every $5 . 0 ~ \\mathrm { c m }$ ，and mixed-based biochar and soil samples were calculated and weighed separately, mixed evenly,loaded into the soil column, and carefully \"flashed\" at the layered interface to ensure close contact between the soil layers to avoid delamination. After installing the soil column,a scraper was used to smooth the surface. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2Determination of soil water infiltration and evaporation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The one-dimensional constant head vertical ponding infiltration method was used to measure the soil water infiltration parameters.The infiltration device was composed of a Mahalanobis flask and a soil column (Fig. 2). Water was added to the Mahalanobis flask.A rubber hose was used to connect the water inlet of the soil column to the outlet hole of the Mahalanobis flask.We adjusted the relative height of the soil column and Mahalanobis flask to make the outlet hole of the Mahalanobis flask discharge water. At this time,the head height was $2 . 5 \\ \\mathrm { c m }$ 、After the beginning of infiltration, we continuously recorded the descending depth of the vertical weting front and the descending height of the water level in the Mahalanobis flask for a certain period.When the wetting front moved to the botom of the soil column,recording was stopped, but the water supply continued until the soil column was saturated. Then,all treated soil columns were placed indoors,and an evaporation test was carried out in a relatively stable environment. During this period， the average temperature in the control room was $2 3 . 4 ^ { \\circ } \\mathrm { C }$ ，and the average relative humidity was $22 \\%$ .Soil water evaporation losses were measured with an electronic scale at 17:00 (LST）every afternoon，and soil water evaporation was recorded continuously for $5 3 \\mathrm { ~ d ~ }$ The formula used for calculating daily soil water evaporation is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c34ac0173bc223dd33b012482693240cadb4d4d51646f435b0490a6bf5cee422.jpg",
+        "img_caption": [
+            "Fig.2Demonstration of the device used in determinations of soil water infiltration and evaporation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = M _ { d } \\times 1 0 / ( \\pi r ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $E$ is the daily evaporation of the soil column $\\left( \\mathrm { m m } \\right)$ · $M _ { d }$ is the daily mass change of the soil column (g); and $r$ is the inner radius of the soil column (cm). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data processing and analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All data for the experiments were the averages of repeated determinations.Excel 2O16 was used for data processing, Origin 2O18 software was used for figure mapping, SPSS 20.0 software was applied for the simulations of soil water infiltration parameters and statistical analyses,and least significant difference (LSD) method was utilized for significance testing $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Effects of application patterns, application amounts,and particle sizes of mixed-based biochar on the wetting front ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One-dimensional vertical movement of the weting fronts in all treatments increased gradually with infiltration time,but the times taken to reach the bottom of the soil column were different, and the migration distance of the weting front for each treatment also differed with time. Compared with CK,all other treatments (except for $C 1 \\% _ { ( \\mathrm { S 1 ) } }$ ，which promoted the downward migration of the wetting front） slowed down the migration speed of the weting front. Under application patterns A and B of mixed-based biochar, the higher the application amount and the finer the particle size were,the lower the migration speed of the weting front. The degree of the migration speed slowed down by mixed-based biochar decreased in the order of $4 \\% _ { ( S 2 ) } 5 2 \\% _ { ( S 2 ) } 5 4 \\% _ { ( S 1 ) } > 1 \\% _ { ( S 2 ) }$ and $2 \\% _ { ( \\mathrm { S 1 ) } } 5 1 \\% _ { ( \\mathrm { S 1 ) } } 5 \\mathrm { C K }$ .Figure 3 shows that the treatment of $4 \\% _ { ( \\mathrm { S 2 ) } }$ （204 had a significantly higher mitigation efect on the downward shift of the wetting front than other arbitrary treatments. Under application pattern C, the downward migration speed of the wetting front was consistent with those under application patterns A and B,and the descending order of the migration speed was $4 \\% _ { ( \\mathrm { S 2 ) } } 5 2 \\% _ { ( \\mathrm { S } }$ 2)， $4 \\% _ { ( \\mathrm { S 1 ) } }$ ，and $2 \\% _ { ( \\mathrm { S 1 ) } } { > } 1 \\% _ { ( \\mathrm { S 2 ) } }$ and $\\mathrm { C K } { > } 1 \\% _ { ( \\mathrm { S 1 ) } }$ . The results showed that the treatment of $4 \\% _ { ( \\mathrm { S } 2 ) }$ was still the best combination for slowing down the migration speed of the wetting front. In short,under application patterns A,B,and C,the higher the amount of mixed-based biochar and the finer the particle size of mixed-based biochar were,the more pronounced the slowing effect of mixed-based biochar on the migration of the wetting front. With the $1 \\%$ application amount and S1 particle size, application patterns A, B,and C all slowed down the migration speed of the wetting front,and the effects decreased in the order $\\mathbf { A } { > } \\mathbf { B } { > } \\mathbf { C }$ However, with the $1 \\%$ application amount and S2 particle size, both application patterns A and B slowed down the downward migration of the weting front and the effects were similar, but application pattern C promoted the downward migration of the weting front. Application paterns A, B,and C all slowed down the migration speeds of the wetting fronts with application amounts of $2 \\%$ and $4 \\%$ . In conclusion, for mixed-based biochar with the three application amounts and two particle sizes,both the effects of application patterns A and B on the migration of the weting fronts were significantly greater than that of application pattern C. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e3f316d5848b39bef9126f8125a89462250ab0e226ab0c02566d356bd905359.jpg",
+        "img_caption": [
+            "Fig.3Dynamic changes in wetting fronts under different application patterns,amounts,and particle sizes of biochar.Application patterns of mixed-based biochar were as follows:(1) $0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil (A); (2) $0 { - } 1 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil and 10-20 cm was soil (B);and (3) $0 { - } 1 0 ~ \\mathrm { c m }$ was soil and $1 0 { - } 2 0 ~ \\mathrm { c m }$ was a mixed sample of mixed-based biochar and soil (C). S1, $0 . 0 5 { - } 0 . 2 5 ~ \\mathrm { m m }$ ； S2, $< 0 . 0 5 \\ \\mathrm { m m }$ .The four application amounts of mixed-based biochar in dry soil were $0 \\%$ (control, CK), $1 \\%$ $2 \\%$ ，and $4 \\%$ · "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Considering application patterns，application amounts，and particle sizes of mixed-based biochar,for the infiltration time of $1 0 ~ \\mathrm { m i n }$ ， only the treatment of $C 1 \\% _ { ( \\mathrm { S 1 ) } }$ promoted soil water infiltration.The migration distances of the wetting front under other treatments were all smaller than those under CK and reached a significant level $( P { < } 0 . 0 5 )$ ,which could increase the soil water absorption and slow down the downward migration speed of water in the soil to a certain extent, especially for the treatment of $4 4 \\%$ (S2): ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the wetting front and time followed the power function: $F { = } p t ^ { \\nu }$ (where $F$ is the wetting front, $p$ and $\\nu$ are the empirical parameters, and $t$ is the time). The fitting results in Table 4 show that the power function simulated the migration law of the mixed soil moisture peak under diferent application patterns,application amounts，and particle sizes well. For each treatment, the determination coefficient $( R ^ { 2 } )$ was higher than O.911,and the test was significant at the $P { < } 0 . 0 5$ level. There was no clear rule for each treatment under application patterns A and B, but migration was significantly reduced compared with CK,and the treatment of $4 \\%$ (s2) had the significant reduction effect. Under application pattern C, the value of $p$ first increased slowly and then sharply increased with increases in application amounts. With increases in application amounts of mixed-based biochar, the power index $\\nu$ under each treatment (with exception of $B 4 \\% _ { ( \\mathrm { S } 2 ) } )$ showed significant decreasing trends for applications A，B,and C； the smaller the particle size was,the lower the value of the power index $\\nu$ ，This indicated that application patterns,application amounts,and particle sizes of mixed-based biochar significantly impacted the initial water infiltration process that dominated by matrix potential, and they all played a vital role in attenuating the latter weting front. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d914291e62b620614676281e371f514a9ccc5b48c45b4d7fc0bc846dcff04c47.jpg",
+        "table_caption": [
+            "Table 4Fiting results for the wetting front and infiltration time under different application patterns,application amounts,and particle sizes of mixed-based biochar "
+        ],
+        "table_footnote": [
+            "Note: $p$ and $\\nu$ are the empirical parameters,and $R ^ { 2 }$ is the determination coefficient. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"3\">Application pattern A</td><td colspan=\"3\">Application pattern B</td><td colspan=\"3\">Application pattern C</td></tr><tr><td>p</td><td>V</td><td>R²</td><td>P</td><td>V</td><td>R²</td><td>p</td><td>V</td><td>R²</td></tr><tr><td>CK</td><td>3.867</td><td>0.685</td><td>0.998</td><td>3.867</td><td>0.685</td><td>0.998</td><td>3.867</td><td>0.685</td><td>0.998</td></tr><tr><td>1%(s1)</td><td>2.240</td><td>0.746</td><td>0.994</td><td>2.582</td><td>0.759</td><td>0.991</td><td>2.013</td><td>1.079</td><td>0.951</td></tr><tr><td>1%(S2)</td><td>2.949</td><td>0.602</td><td>0.997</td><td>2.200</td><td>0.683</td><td>0.985</td><td>2.542</td><td>0.928</td><td>0.967</td></tr><tr><td>2%(s1)</td><td>2.108</td><td>0.723</td><td>0.991</td><td>2.878</td><td>0.608</td><td>0.974</td><td>2.023</td><td>0.930</td><td>0.951</td></tr><tr><td>2%(S2)</td><td>2.048</td><td>0.616</td><td>0.999</td><td>2.349</td><td>0.563</td><td>0.988</td><td>2.649</td><td>0.782</td><td>0.938</td></tr><tr><td>4%(s1)</td><td>2.406</td><td>0.594</td><td>0.990</td><td>2.604</td><td>0.565</td><td>0.985</td><td>3.412</td><td>0.685</td><td>0.947</td></tr><tr><td>4%(s2)</td><td>1.851</td><td>0.539</td><td>0.952</td><td>1.442</td><td>0.614</td><td>0.943</td><td>3.553</td><td>0.599</td><td>0.911</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Effects of application patterns,application amounts,and particle sizes of mixed-based biochar on soil water infiltration ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cumulative soil water infiltration refers to the total amount of water infiltrating into the soil through a surface unit within a specific time after the beginning of infiltration,and it is the integral of the infiltration rate as a function of time.Before the soil water infiltration process is stable,cumulative soil water infiltration is often used to characterize soil water infiltration capacity. Figure 4 shows that cumulative soil water infiltration of each treatment gradually increased with time,but the effects of treatments on cumulative soil water infiltration were different. Compared with CK,all other treatments reduced cumulative soil water infiltration, except for $B 4 \\% _ { ( \\mathrm { S 2 ) } }$ . For mixed-based biochar with S1 particle size，with the increase of application amount, the inhibitory effect on soil water infiltration first strengthened and then weakened under application paterns A and C.Mixed-based biochar with S2 particle size had the same effect on soil water infiltration inhibition, which was first unchanged and then increased. Cumulative soil water infiltration increased in the order of $2 \\% _ { ( S 1 ) } < 4 \\% _ { ( S 2 ) } < 1 \\% _ { ( S 1 ) } < 4 \\% _ { ( S 1 ) } <$ $1 \\% _ { ( S 2 ) } { < } 2 \\% _ { ( S 2 ) } { < } \\mathrm { C K }$ .For mixed-based biochar with S1 particle size，inhibition of soil water infiltration under application patern B first weakened and then remained constant gradually with the increase of application amount; however, for mixed-based biochar with S2 particle size, with the increase of application amount, inhibition of soil water infiltration first remained constant and then weakened sharply. Therefore,the treatment of $1 \\% _ { ( \\mathrm { S 1 ) } }$ showed the best inhibitory effect,and the treatment of $4 \\% _ { ( \\mathrm { S 2 ) } }$ did not inhibit water migration but promoted soil water infiltration. The remaining treatments had litle effects soil water infiltration,and the efects increased in the order of $1 \\% _ { ( S 1 ) } { < } 1 \\% _ { ( S 2 ) } { < } 2 \\% _ { ( S 2 ) }$ and $4 \\% _ { ( S 1 ) } < 2 \\% _ { ( S 1 ) } < \\mathbf { C K } < 4 \\% _ { ( S 2 ) } .$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CK 1%(s1) 1%(s2) 2%(s1) 2%(s2) 4%(s1) 4%(s2) (a)Application pattern A (b)Application pattern B (c)Application pattern C 14 20 16 A aee o neeieitl (irr giinrnatnm 12 HIH 15 HIIIIIII11I 14 12 王 10 HHHH11IH [I HH 10 8 10 8 6 6 4 5 4 2 2 0 0 0 0 14 28 42 56 70 0 15 30 45 60 75 90 0 5 10 1520 25 Infiltration time (min) Infiltration time (min) Infiltration time (min) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "With the same application amount, the effects of different application patterns on cumulative soil water infiltration were different. When application amount was $1 \\%$ , the order of the effects of application patterns on cumulative soil water infiltration was $\\mathbf { A } { < } \\mathbf { B } { < } \\mathbf { C }$ ，and S1 particle size reduced cumulative soil water infiltration. In short, for any application amounts, cumulative soil water infiltration under application pattern A was lower than those under application pattrns B and C,and cumulative soil water infiltration under S1 particle size was lower than that under S2 particle size. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Considering the influences of application patterns,application amount,and particle sizes of mixed-based biochar on cumulative soil water infiltration,an infiltration time of $1 0 \\ \\mathrm { m i n }$ was taken as an example.Among all the treatments,only the treatment of $B 4 \\% _ { ( S 2 ) }$ showed a lower infiltration $( 1 3 . 5 ~ \\mathrm { c m } )$ ，which was greater than the CK $( 1 0 . 4 ~ \\mathrm { c m } )$ $( P { < } 0 . 0 5 )$ ，and the increase in cumulative soil water infiltration was $30 \\%$ for CK,which promoted cumulative water infiltration of aeolian sand soil. Cumulative soil water infiltration under different treatments varied as follows: $\\mathbf { A } 2 \\mathcal { U } _ { ( { \\mathbb { S } } 1 ) } < \\mathbf { A } 4 \\mathcal { U } _ { ( { \\mathbb { S } } 1 ) } < \\mathbf { A } 1 \\mathcal { U } _ { ( { \\mathbb { S } } 1 ) } < \\mathbf { A } 4 \\mathcal { U } _ { ( { \\mathbb { S } } 2 ) } < \\mathbf { C } 2 \\mathcal { U } _ { ( { \\mathbb { S } } 1 ) } < \\mathbf { B } 1 \\mathcal { U } _ { ( { \\mathbb { S } } 1 ) } < \\mathbf { A } 1 \\mathcal { U } _ { ( { \\mathbb { S } } 2 ) } < \\mathbf { C } 4 \\mathcal { U } _ { ( { \\mathbb { S } } 2 ) } < \\mathbf { B } 1 \\mathcal { U } _ { ( { \\mathbb { S } } 2 ) }$ < $\\mathbf { C } 4 \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 1 ) } < \\mathbf { C } \\mathbf { 1 } \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 1 ) } < \\mathbf { A } 2 \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 2 ) } < \\mathbf { C } \\mathbf { 1 } \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 2 ) } < \\mathbf { B } 2 \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 2 ) } < \\mathbf { B } 4 \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 1 ) } < \\mathbf { B } 2 \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 1 ) } < \\mathbf { C } 2 \\mathcal { U } _ { \\mathcal { O } ( { \\bf S } 2 ) } < \\mathbf { C } \\mathbf { K } .$ Amongthem, treatments of $42 \\% _ { ( \\mathrm { S 1 ) } }$ ， $\\mathbf { A 4 \\% }$ (S1), $4 1 \\% _ { ( \\mathrm { S 1 ) } }$ ， $A 4 \\% _ { ( \\mathrm { S 2 ) } }$ ， $C 2 \\% _ { ( \\mathrm { S 1 ) } }$ ，and $8 1 \\% _ { ( \\mathrm { S 1 ) } }$ showed the best effects, and their reduction effects were all higher than $30 \\%$ ，which met the requirements of loess soil hydraulic parameters suitable for plant growth. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Effects of application patterns,application amounts,and particle sizes of mixed-based biochar on soil water infiltration parameters ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Several theory-based approximate and empirical models that simplify the concepts involved in infiltration have been developed for field applications to further study the effects of application paterns,application amounts,and particle sizes of mixed-based biochar on soil water infiltration (Table 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/44dfbf5b774b0d30b71455b8f15896159976edc641f5139a33e83241ec55d1d9.jpg",
+        "table_caption": [
+            "Table 5Models used to determine the effects of mixed-based biochar on soil water infiltration(Wang et al., 2017) "
+        ],
+        "table_footnote": [
+            "Note:The USDA-NRCS modelis the United States Departmentof Agriculture-Natural Resources Conservation Service model. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Model name</td><td>Equation</td><td>Model parameter</td></tr><tr><td rowspan=\"2\">Theory-based model</td><td></td><td>Green and Ampt (1911)I=Ks[1+(0s-0i)Sf /I]</td><td>I is the cumulative soil water infiltration (cm);Ks is the saturated hydraulic conductivity (cm/s);0i and 0s are the presumed initial and saturated water contents (g/g)，respectively；and Sf is the average potential suction of the wetting front (cm).</td></tr><tr><td>Philip (1957)</td><td>I = St0.5 + At</td><td>Sis the sorptivity (cm/so.5)；A is the stable permeability (cm/s);and t is the infiltration time (s).</td></tr><tr><td rowspan=\"4\">Empirical model</td><td>Kostiakov (1932)</td><td>I=Ktn</td><td>K(K>O） and n (O<n<l）are the dimensionless empirical constants.</td></tr><tr><td>Horton (1941)</td><td>I=at +1/c(b-a)(1-e-ct)</td><td>a and b are the presumed initial and final soil water infiltrationrates(cm/s)，respectively；cisan empirical constant;and e is the natural logarithm (approximately 2.71828).</td></tr><tr><td>USDA-NRCS (1974)</td><td>I=a\"tʰ\"+0.6985</td><td>a\" and b\"are the dimensionless empirical constants.</td></tr><tr><td>Kostiakov-Lewis (Mezencev,1948)</td><td>I=K'tʰ +A't</td><td>K(K'>O）and b'(O<b'<1） are the dimensionless empirical constants,and A'(A'>O) is the final soil water infiltration rate at the steady state condition.</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to Liu et al. (2OlO),an implicit functional relationship between cumulative soil water infiltration and infiltration time exists in the Green and Ampt model and it should be reflected in the infiltration equation. However, this process may introduce new parameters into the adjustment equation and cause errors,therefore,the Philip model was the only theory-based model selected for this study. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The characteristics of soil water infiltration under different application patterns,application amounts,and particle sizes of mixed-based biochar were compared and analyzed.Table 6 lists the estimated parameter values for the five infiltration models. It was concluded that there were different infiltration modes in aeolian sand soil for the five infiltration models with the same experimental treatments.The values of $K$ (saturated hydraulic conductivity $\\mathrm { { ( c m / s ) } }$ ), $b$ (presumed final infiltration rate $\\mathrm { { ( c m / s ) } }$ ， $\\boldsymbol { a } \"$ (dimensionless empirical constant)，and $\\boldsymbol { K }$ (dimensionless empirical constant） were very similar. These empirical parameters had similar soil physical meanings with that of the sorptivity for Philip's theoretical basic model (adsorption).A comparison of the parameter values for each model showed that $K$ and $\\boldsymbol { K }$ were more significant than $a ^ { \\prime \\prime }$ , which was similar to the results reported by Wang et al. (2017). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 6 shows that for all treatments, $9 5 \\%$ of the $R ^ { 2 }$ values exceeded 0.90o, indicating perfect performance of the five models.The Horton model was the best,with $R ^ { 2 }$ exceeding 0.990 (except for the treatment of $B 2 \\% _ { ( \\mathrm { S 2 } ) , }$ ),which was similar to the results reported by Duan et al. (2O11).At the same time,we found that the fiting degrees of the five models under S1 particle size were higher than those under S2 particle size,and those under application pattern C were significantly better than those under application patterns A and B. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Taking application pattern C as an example,the parameters generated by each infiltration model for the different treatments were similar to the $K$ values of the Kostiakov model. According to the fitting results,the $K$ values of biochar treatments were less than that of CK,indicating that application amounts and particle sizes of mixed-based biochar were beneficial for inhibiting initial soil water infiltration. However, as application amount of mixed-based biochar increased, the $K$ values first decreased and then increased, indicating that excessive application of mixed-based biochar showed a negative effect on soil water infiltration,reducing the water infiltration capacity of aeolian sandy soil. Moreover, the $K$ values for different particle size treatments did not show a consistent patern. Additionally, under application pattern C,by fitting the measured data of each treatment with the Philip infiltration model, it was found that the absorption rate and the stable soil water infiltration rate of different application amounts and particle sizes were significantly different from those under CK. This showed that application amount and particle size of mixed-based biochar all affected the process of soil water infiltration. The absorption rates under al biochar treatments were lower than that under CK,indicating that biochar treatments significantly reduced soil capilary suction and their abilities to absorb or release liquid were also weaker than that of CK.With the increases of application amount of mixed-based biochar, the influence laws for different particle sizes were not consistent.Further, application amount and particle size significantly increased soil water infiltration rate and improved water infiltration performance of aeolian sandy soil. Specially， the treatments of $C 1 \\% _ { ( \\mathrm { S 2 ) } }$ and $C 2 \\% _ { ( \\mathrm { S 2 ) } }$ were the most effective among all treatments. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1133dd38bf63b3b691512855cf24ba9e687c825934f6c8d24f2af4d93f89aaa7.jpg",
+        "table_caption": [
+            "Table 6Parameters in the five infiltration models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treat- ment</td><td colspan=\"3\">Philip</td><td colspan=\"3\">Kostiakov</td><td colspan=\"4\">Horton</td><td colspan=\"3\">USDA-NRCS</td><td colspan=\"4\">KosMakov-Lewis</td></tr><tr><td>S</td><td>A</td><td>R²</td><td>K</td><td>n</td><td>R</td><td>a</td><td>b</td><td>C</td><td>R</td><td>a\"</td><td>b\"</td><td>R²</td><td>K</td><td>A'</td><td>b' R</td></tr><tr><td>CK</td><td>2.972 0.163</td><td></td><td>0.919</td><td>1.837</td><td>0.862</td><td>0.868</td><td>0.045</td><td>2.935 0.280</td><td></td><td>0.993</td><td>2.672</td><td>0.562 0.936</td><td></td><td>3.629</td><td>0.010 0.453</td><td>0.940</td></tr><tr><td></td><td>A1%(s1) 1.481 0.145</td><td></td><td>0.976</td><td>1.145</td><td>0.730</td><td>0.984</td><td>0.110 1.075</td><td>0.129</td><td>0.999</td><td>1.052</td><td></td><td>0.711 0.975</td><td>1.455</td><td>0.005</td><td>0.625</td><td>0.986</td></tr><tr><td>A1%(s2) 1.684 0.149</td><td></td><td></td><td>0.969</td><td>1.164</td><td>0.760 0.973</td><td>0.081</td><td>1.112</td><td>0.103</td><td>0.997</td><td></td><td>1.236 0.693</td><td>0.971</td><td>1.507</td><td>0.003 0.650</td><td></td><td>0.980</td></tr><tr><td>A2%(s1) 1.621</td><td></td><td>0.042</td><td>0.957</td><td>1.072</td><td>0.700 0.971</td><td></td><td>0.082 0.968</td><td>0.125</td><td>0.995</td><td>1.096</td><td>0.639</td><td>0.956</td><td>1.449</td><td></td><td>0.010 0.574</td><td>0.969</td></tr><tr><td>A2%(s2) 2.148 0.010</td><td></td><td></td><td>0.928</td><td>1.683</td><td>0.600 0.934 0.078</td><td></td><td>1.465</td><td>0.151</td><td>0.994</td><td>2.187</td><td>0.476</td><td>0.933</td><td>2.527</td><td>0.001</td><td>0.453</td><td>0.942</td></tr><tr><td>A4%(s1) 1.836 0.043</td><td></td><td></td><td>0.964</td><td>1.084 0.720</td><td></td><td>0.968</td><td>0.053</td><td>0.9660.090</td><td>0.999</td><td>1.301</td><td>0.621</td><td>0.964</td><td>1.682</td><td></td><td>0.003 0.564</td><td>0.974</td></tr><tr><td>A4%(s2) 1.532 0.010</td><td></td><td></td><td>0.866</td><td>1.607</td><td>0.510 0.910 0.046</td><td></td><td>1.123</td><td>0.135</td><td>1.000</td><td>2.081</td><td>0.399</td><td>0.935</td><td>3.101</td><td></td><td>0.002 0.310</td><td>0.932</td></tr><tr><td>B1%(s1) 1.092 0.343</td><td></td><td></td><td>0.989</td><td>1.089</td><td>0.810 0.994</td><td></td><td>0.110 1.039</td><td>0.093</td><td>0.992</td><td>0.895</td><td>0.839</td><td>0.985</td><td>1.091</td><td></td><td>0.150 0.706</td><td>0.992</td></tr><tr><td>B1%(s2) 1.400 0.292</td><td></td><td></td><td>0.986</td><td>1.131</td><td>0.810</td><td>0.992</td><td>0.150</td><td>1.056 0.078 0.999</td><td></td><td>1.115</td><td></td><td>0.776 0.987</td><td>1.446</td><td></td><td>0.020 0.701</td><td>0.992</td></tr><tr><td>B2%(s1) 1.429 0.430</td><td></td><td></td><td>0.967</td><td>1.168</td><td>0.870</td><td>0.992</td><td>0.287</td><td>1.121 0.061</td><td>0.996</td><td>1.280</td><td></td><td>0.805 0.972</td><td>1.254</td><td>0.051</td><td>0.814</td><td>0.992</td></tr><tr><td>B2%(s2) 2.267 0.010</td><td></td><td></td><td>0.915</td><td>1.357</td><td>0.700</td><td>0.939</td><td>0.010 1.459</td><td>0.111</td><td>0.981</td><td>2.126</td><td></td><td>0.519 0.908</td><td>2.200</td><td>0.001</td><td>0.528</td><td>0.913</td></tr><tr><td></td><td>B4%(s1) 1.925 0.267</td><td></td><td>0.974</td><td>1.290</td><td>0.810 0.988</td><td></td><td>0.032</td><td>1.167</td><td>0.054 0.998</td><td>1.532</td><td>0.721</td><td>0.979</td><td>1.731</td><td></td><td>0.003 0.710</td><td>0.978</td></tr><tr><td></td><td>B4%(s2) 2.392 0.010 0.483</td><td></td><td></td><td></td><td>3.1850.450 0.736</td><td></td><td>0.029 2.775</td><td></td><td></td><td></td><td></td><td>0.185 0.996 5.660 0.266 0.829</td><td>8.513</td><td></td><td>0.010 0.158</td><td>0.960</td></tr><tr><td></td><td>C1%(s1) 0.735 0.551 0.996 1.066 0.879</td><td></td><td></td><td></td><td></td><td>0.997</td><td></td><td>0.0511.062 0.067</td><td></td><td></td><td></td><td>1.0000.790 0.955 0.987</td><td></td><td>1.173 0.001</td><td>0.828</td><td>0.998</td></tr><tr><td></td><td>C1%(s2) 0.448 0.728</td><td></td><td>1.000</td><td></td><td>1.145 0.875 1.000 0.820</td><td></td><td></td><td>1.410 1.044 1.000 0.703</td><td></td><td></td><td>1.061</td><td>0.991</td><td></td><td></td><td>0.445 0.768 0.386</td><td>1.000</td></tr><tr><td>C2%(s1) 1.070 0.327 0.994</td><td></td><td></td><td></td><td></td><td>1.075 0.803 0.992</td><td></td><td></td><td>0.3101.088 0.167</td><td></td><td>1.000 0.857</td><td>0.841</td><td>0.988</td><td>1.271</td><td></td><td>0.102 0.652</td><td>0.997</td></tr><tr><td>C2%(s2) 0.909 0.609 0.984</td><td></td><td></td><td></td><td>0.989</td><td>0.958 0.992 0.066</td><td></td><td></td><td>1.144 0.042</td><td></td><td>0.996</td><td>1.044 0.900</td><td>0.984</td><td>1.298</td><td>0.021</td><td>0.838</td><td>0.989</td></tr><tr><td>C4%(s1)1.100 0.396 0.992</td><td></td><td></td><td></td><td>1.127</td><td>0.827</td><td>0.996</td><td>0.089</td><td>1.069</td><td>0.074</td><td>1.000</td><td>0.959</td><td>0.847</td><td>0.989 1.323</td><td></td><td>0.012 0.752</td><td>0.996</td></tr><tr><td>C4%(s2)1.530 0.228 0.984 1.237 0.760 0.990 0.092 1.115</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.093</td><td>1.000</td><td></td><td></td><td></td><td>1.1690.739 0.984 1.533 0.001 0.668 0.991</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4Effects of application patterns,application amounts,and particle sizes of mixed-based biochar on soil water evaporation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Surface water evaporation is a significant cause of soil water loss. Effectively inhibiting evaporation of soil water is of great significance in improving soil water use efficiency. Figure 5 shows the variation trend of cumulative soil water evaporation with different evaporation times. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cumulative soil water evaporation under the treatment of $8 4 \\% _ { ( \\mathrm { S 1 ) } }$ was similar to that under CK. The remaining treatments all reduced cumulative soil water evaporation. Under application patterns A and B,a significant difference appeared after $2 5 \\ \\mathrm { ~ d ~ }$ of continuous soil water evaporation. Specifically, under S1 particle size,cumulative soil water evaporation first decreased and then increased with increasing application amount, while that under S2 particle size was constant at first and then increased. Cumulative soil water evaporation increased as $2 \\% _ { ( \\mathrm { S } 2 ) } { < } 1 \\% _ { ( \\mathrm { S } 2 ) }$ , $4 \\%$ (S2), $2 \\% _ { ( \\mathrm { S 1 ) } }$ ，and $1 \\% _ { ( \\mathrm { S 1 ) } } { < } 4 \\% _ { ( \\mathrm { S 1 ) } }$ and CK. Under application pattern C,there was a significant difference after $2 0 \\textup d$ of continuous soil water evaporation, and cumulative soil water evaporation was inversely proportional to application amount and particle size of mixed-based biochar. Cumulative soil water evaporation increased as $4 \\mathcal { H } _ { \\mathcal { O } ( { \\mathrm { S } } 2 ) } < 4 \\mathcal { H } _ { \\mathcal { O } ( { \\mathrm { S } } 1 ) } < 2 \\mathcal { H } _ { \\mathcal { O } ( { \\mathrm { S } } 2 ) } < 2 \\mathcal { H } _ { \\mathcal { O } ( { \\mathrm { S } } 1 ) } < 1 \\mathcal { H } _ { \\mathcal { O } ( { \\mathrm { S } } 2 ) } < 1 \\mathcal { H } _ { \\mathcal { O } ( { \\mathrm { S } } 1 ) } < \\mathbf { C } \\mathbf { K } .$ （2 Compared with CK， the treatment of $4 \\% _ { ( \\mathrm { S 2 ) } }$ significantly reduced cumulative soil water evaporation by $3 3 \\%$ . For the same application amount, the difference of cumulative soil water evaporation between application paterns A and B was slight. Cumulative soil water evaporation rates under application paterns A and B were significantly larger than that under application pattern C. Under application patterns A,B,and C,cumulative soil water evaporation rates of mixed-based biochar with S1 particle size were smaller than those of mixed-based biochar with S2 particle size.Mixed-based biochar reduced ineffective soil water evaporation in the field and improved the water holding capacity of aeolian sandy soil. The combination of application pattern,application amount,and particle size was still valuable $( P { < } 0 . 0 5 )$ ，which had almost no effect on cumulative soil water evaporation; specifically,cumulative soil water evaporation increasedas $\\mathbf { C 4 } \\mathcal { H } _ { ( { \\mathbf { S } 2 } ) } < \\mathbf { C 4 } \\mathcal { H } _ { ( { \\mathbf { S } 1 } ) } < \\mathbf { C } 2 \\mathcal { G } _ { ( { \\mathbf { S } 2 } ) } < \\mathbf { C } 2 \\mathcal { H } _ { ( { \\mathbf { S } 1 } ) } < \\mathbf { A } 2 \\mathcal { G } _ { ( { \\mathbf { S } 2 } ) } < \\mathbf { C } 1 \\mathcal { H } _ { ( { \\mathbf { S } 2 } ) } < \\mathbf { B } 2 \\mathcal { H } _ { ( { \\mathbf { S } 2 } ) } < \\mathbf { C } 1 \\mathcal { G } _ { ( { \\mathbf { S } 1 } ) } < \\mathbf { A } 4 \\mathcal { H } _ { \\mathcal { O } ( { \\mathbf { S } 2 } ) }$ $< \\mathbf { A } 1 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 2 } } ) } < \\mathbf { A } 1 \\mathcal { U } _ { \\sigma ( { \\mathbf { S } \\mathbf { 1 } } ) } < \\mathbf { B } 1 \\mathcal { U } _ { \\sigma ( { \\mathbf { S } \\mathbf { 2 } } ) } < \\mathbf { A } 2 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 1 } } ) } < \\mathbf { B } 4 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 2 } } ) } < \\mathbf { B } 1 \\mathcal { U } _ { \\sigma ( { \\mathbf { S } \\mathbf { 1 } } ) } < \\mathbf { A } 4 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 1 } } ) } < \\mathbf { B } 2 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 1 } } ) } < \\mathbf { C } \\mathbf { K } , \\ \\mathbf { C } 4 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 1 } } ) } < \\mathbf { B } 3 \\mathcal { U } _ { ( { \\mathbf { S } \\mathbf { 1 } } ) } .$ $C 4 \\% _ { ( \\mathrm { S 1 ) } }$ ， $C4 \\%$ (S2), $C 2 \\% _ { ( \\mathrm { S 1 ) } }$ and $C 2 \\% _ { ( \\mathrm { S 2 ) } }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c100ad39d7698aa5c2d8d2fe1c7427eb60269d7e99997ace893b6f97342867a0.jpg",
+        "img_caption": [
+            "Fig.5Effects of different application patterns,application amounts,and particle sizes of mixed-based biochar on cumulative soil water evaporation "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1Main and interactive effects of application patterns,application amounts,and particle sizes of mixed-based biochar on soil water infiltration and evaporation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this study,we designed a mixed-level orthogonal experiment to explore the effects of three influencing factors of mixed-based biochar (application pattern, application amount,and particle size) on water infiltration and evaporation of aeolian sandy soil. According to a visual analysis of the mixed-level orthogonal experiment, we analyzed the order and interactions for the effects of the three influencing factors.It was found that the order for the effects of influencing factors on soil water infiltration decreased as application pattern>application amount>particle size. This process involved the folowing interactions: application amount×particle size>application patternXparticle size>application patternXapplication amount. However, there was no interaction of the effects of influencing factors on soil water evaporation,and the single effect decreased as application pattern>particle size>application amount. Therefore， application patternof mixed-based biochar was the main factor afecting soil water infiltration and evaporation. The reason was that the soil-carbon interface directly affected the content, hydraulic gradient, and conductivity of soil water. Table 6 shows that for the whole infiltration process,the difference between absorption rate and stable soil water infiltration rate for application patterns were more significant than those for application amounts and particle sizes，which also verified the above-mentioned conclusions.Moreover, the changes of steady soil water infiltration rates were more significant than those of absorption rates,implying that the effect of mixed-based biochar on stable soil water infiltration was greater in the later stage than in the initial stage. Additionally, application amount and particle size directly affected soil porosity，so the interaction was significant. In this study, application amount changed the soil porosity more significantly, which depended on the application amount and particle size of mixed-based biochar. Whether there was a synergistic or antagonistic effect between the two factors also depended on the levels of them. Figure 5 shows that in the evaporation process,the application of mixed-based biochar had a slightly more significant impact in the first stage than in the second stage. Different application paterns, especially application pattern C, significantly affected soil water evaporation in the two stages.The effect of particle size on soil water evaporation was greater than that of application amount, because particle size had a more direct and significant impact on capillary action. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.2Effects of application patterns,application amounts,and particle sizes of mixed-based biochar on soil water infiltration ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The soil water infiltration process was mainly affected by the water supply intensity (external factors）and soil water infiltration capacity (soil texture,structure，bulk density，and initial moisture content). This water supply intensity and the initial moisture content were consistent in the study. The soil water infiltration capacity mainly depended on the porosity of the soil. After mixed-based biochar with a rich pore structure and high specific surface area was applied to the soil,it first changed soil bulk density, increased soil porosity, influenced soil aggregates and their stabilities,and ultimately affected the hydraulic properties of the soil (Xiao et al., 2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When a lower amount of $1 \\%$ mixed-based biochar was added, it had a more significant impact on soil texture,bulk density，and porosity. Moreover, mixed-based biochar with finer particle sizes filled some of the soil pores.Compared with pure soil, mixed-based biochar with rich pore structure and hydrophilic characteristics of inhibited the downward migration of the water (Nguyen et al., 2O1O). Therefore, the inhibitory effect of application pattern A $( 0 { - } 2 0 \\ \\mathrm { c m } )$ on water infiltration was more evident than those of application pattern B $( 0 { - } 1 0 \\ \\mathrm { c m } )$ and application pattern C $\\mathrm { ( 1 0 - 2 0 ~ c m ) }$ . When application amount was as low as $1 \\%$ ,the inhibitory effect was not obvious due to the small amount of mixed-based biochar. Both the carbon-soil mixed layer and the pure soil layer had essential impacts on soil water infiltration. For application pattern B,the moisture absorption capacity of the surface layer was weaker than that of the underlying layer. Because of the inhibiting effect of the surface layer on soil water infiltration,the speed of soil water infiltration to the carbon-soil interface was slow, which triggered advantageous moisture absorption by the pure soil in the underlying layer. Under application patern C, when the suction reached the wetting front and the carbon-soil interface,the underlying layer suction was less than the surface layer suction and the matric suction at the weting front could not meet the requirement for rapid soil water infiltration. However, the matric suction at the weting front decreased continuously with the supply of water. When the matric suction reached the mixed soil layer, the weting front entered the mixed soil layer (Wang et al.,2O1O). However, the moisture content of the surface soil was higher under application patern C, which increased the infiltration speed of the wetting front to a certain extent through the carbon-soil interface and made the overall infiltration speed faster than that under application pattern B.When medium-high application amounts ( $2 \\%$ and $4 \\%$ ）of mixed-based biochar were applied,the carbon-soil mixed layer significantly inhibited water infiltration，and the influence of the pure soil on water infiltration was relatively weakened. Therefore,when the soil layer thickness remained the same, the effects of application patterns B and C gradually approached each other. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Under application patterns A and C,the distribution characteristics of the soil pores were changed as the initial addition of mixed-based biochar with S1 particle size.The total volume of macropores was reduced,while the total volume of small and medium pores was increased. Moreover, the water channel was tortuous and complex,which significantly inhibited soil water infiltration (Wang et al.,2O15).When application amount of mixed-based biochar continued to increase up to $4 \\%$ ， some biochar stuck together or adsorbed on the soil and formed tiny pellets because of the sharp increase in the amount of mixed-based biochar. Compared with $2 \\%$ application amount, the volume of macropores was relatively increased under $4 \\%$ application amount,and the inhibition of soil water infiltration was no longer significant. For mixed-based biochar with S2 particle size,the reductions in soil macropore volumes were similar under $1 \\%$ and $2 \\%$ application amounts,which may be related to the finer particle size and the slight change in application amount. Further, when application amount of $4 \\%$ mixed-based biochar was added, some of the soil pores were filled by mixed-based biochar with finer particle size.Even if mixed-based biochar with S2 particle size was bonded, it could not form larger aggregates. In addition,the rich pore structure and hydrophilic characteristics of mixed-based biochar itself could more effectively inhibit the infiltration of soil water (Wen and Zheng,2O12). However, the overall inhibitory efect of application pattern A on soil water infiltration was more potent than that of application pattern C, mainly because application pattern C contained pure soil in the O-10 cm surface layer. The volume of large pores in the soil was larger than that in the carbon-soil mixture,so the pure soil in the $0 { - } 1 0 ~ \\mathrm { c m }$ surface layer showed poor suppression of soil water infiltration.In addition,for cultivated soil,there was a sizeable gap in the matrix potentials in the soil-carbon interface, which promoted the absorption of the carbon-soil mixture under application pattern C and ultimately inhibited soil water infiltration in the $0 { - } 2 0 ~ \\mathrm { c m }$ layer (Li, 2019). With the increase in application amount of mixed-based biochar with S1 particle size under application pattern B,the inhibition of soil water infiltration first sharply weakened and then gradually remained unchanged. In contrast, with the increase in application amount of mixed-based biochar with S2 particle size under application pattern B,the soil water infiltration first unchanged and then weakened sharply. Soil water infiltration was affected by the soil water infiltration ability and water supply intensity. In the initial stage of soil water infiltration, when the water supply of the Mahalanobis flask was unstable,the water supply intensity was extremely high. The matric suction at the wetting front could not meet the requirements for rapid soil water infiltration, causing water outflow from the surface layer of the soil column. When the application of mixed-based biochar was increased sharply, soil water infiltration was more difficult, resulting in water overflow. This led to the greatest suppression at the low application amount $( 1 \\% )$ for mixed-based biochar with S1 particle size.For mixed-based biochar with S2 particle size, the $4 \\%$ application amount caused an increase in cumulative soil water infiltration due to water overflow, while cumulative soil water infiltration rates were similar for other treatments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3Effects of application patterns,application amounts,and particle sizes of mixed-based biochar on soil water evaporation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Soil water evaporation is the main loss caused by hydrological cycles in arid and semi-arid regions. Soil properties such as water content, texture,structure,and color all afect soil water evaporation. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For any application amount of mixed-based biochar, we found that the evaporation process could be divided into two stages. Compared with application patterns A and B $( 2 5 { \\mathrm { ~ d } } )$ ， soil water evaporation reached stability earlier $( 2 0 \\mathrm { ~ d } )$ under application pattern C,and evaporation did not increase sharply. Under application pattern C,soil water evaporation rate in the first stage (the beginning of soil water evaporation) was lower than those under application patterns A and B. In the first stage，water was first quickly lost from the larger pores,so soil water evaporation completed earlier under application pattern C than under application patterns A and B because of the large pores in the surface layer. In addition,soil water evaporation entered the second stage earlier under application pattern C and the soil water evaporation loss in this stage occurred through steam diffusion. Since the soil-carbon interface blocked the capillary pores,the pore connectivity of the whole soil decreased,and it was difcult to increase the diffusion rate of water vapor to reduce soil water evaporation. Therefore, covering the surface with coarse aeolian sandy soil could help to reduce soil water evaporation, which was consistent with the research of Wang et al. (2O18). Moreover, the complex internal pore structures developed in the surface layer of mixed-based biochar with application paterns A and B increased the number of capillary pores in the soil,which reduced the number of large soil pores,relative to that of the pure soil in the surface layer of mixed-based biochar with application pattern C. Xia et al. (2Ooo) found that soils with fine texture and well-developed capillary pores can promote the movement of water from the underlying layer to the surface layer. Evaporation pulls water during the evaporation process (Xia et al.,2OOO). Hence, the effects of application patterns A and B on soil water evaporation were more lasting and more robust than that of application pattern C.For mixed-based biochar with S2 particle size, cumulative soil water evaporation under application paterns A and B in the second stage decreased first and then increased with the increase of application amount, while for mixed-based biochar with S1 particle size,cumulative soil water evaporation appeared to be unchanged first and then increased. In the second stage，evaporative loss occurred through capillary pores. With a high application amount of mixed-based biochar, the capillary pores of the soil increased significantly in the second stage. Finally,cumulative soil water evaporation under $4 \\%$ application amount of mixed-based biochar was gradually close to that under CK. As more mixed-based biochar was applied, the finer the particle size was,the larger the specific surface area, the stronger the water adsorption,and the more the stored water. When the interface blocked the capillary pores and the pore connectivity of the entire soil decreased, the water stored in the underlying layer could not migrate to the surface layer and evaporate upward,which finally reduced soil water evaporation (Li et al., 2016). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The soil used in this study was aeolian sandy soil from a mining area. With heavy precipitation, soil erosion was prone to occur,which increased the rate for the loss of soil nutrients. This has affected the growth of crops and exacerbated the fragile ecological environment. Appropriate application of mixed-based biochar can improve soil water infiltration in the mining areas and meet the requirements of loess soil hydraulic parameters suitable for plant growth. We separately used five infiltration models to fit cumulative infiltration and time,and found that although the Horton model fitted the effects of application patern C and S1 particle size best, it was suitable for almost all treatments. Additionally，we found that applying mixed-based biochar to the underlying layer $( 1 0 - 2 0 \\ \\mathrm { c m } )$ can effectively prevent soil water evaporation. After applying $2 \\%$ of mixed-based biochar with S1 particle size to the underlying layer, cumulative soil water infiltration and evaporation were significantly improved while minimizing water evaporation. This enhanced the water retention capacity of aeolian sandy soil and enabled the eficient use of limited water resources.Moreover, we found that the application patern was the main factor affecting soil water infiltration and evaporation.There were interactions among factors (application patern,application amount,and particle size） in the infiltration process,and the interaction between application amount and particle size was the strongest. In contrast, there was no interaction among these three factors for the evaporation process. However, this conclusion is based on a short-term laboratory column experiment. Therefore,it is necessary to further study the effects of long-term application of mixed-based biochar on soil physical properties and plant growth in mining areas. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The study was supported by the State Key Laboratory of Water Resource Protection and Utilization in Coal Mining,Open Foundation Ecological Self-Repair Mechanism and Promotion Technology in Shendong Mining Area,China (GJNY-18-73.19)，and the National Key Research and Development Program of China (2020YFC1806502). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "properties and TCE adsorption in water. Bioresource Technology,118: 536-544. Alaa I,AdelRAU,MohammadIA W,etal.2O17.Efectsofconocarpus biocharonhydraulic propertiesofcalcareous sandy soil: influence of particle size and application depth.Archives of Agronomy and Soil Science,63(2):185-197. Bao Z W.2O2O.Studyon the efect of mixed biocharon soil water and salt transport in gravel-mulched fields.MSc Thesis. Lanzhou: Lanzhou University of Technology. (in Chinese) BasantaR,deVarennes A,Diaz-RaviaM,etalOl7.Microbialcommunitystructureandbiomassofminesoil withdiferent organic and inorganic treatments and native plants.Journalof Soil Science and Plant Nutrition,17(4):839-852. Breus IP,MischenkoAA,ShinkarevJrAA,etal.20l4.Efectoforganic matteronthesorptionactivityofheavyloamysoils for volatile organic compounds under low moisture conditions.Eurasian Soil Science,47(12):1216-1226. Burrell LD,ZehetnerF,RampazzoN,etal.2O16.Long-termefectsofbiocharonsoilphysicalproperties.Geoderma,282: 96-102. DuanR,FedlerCBBorelliJ.20l1.Field evaluationofinfltration models inlawnsoils.Irigation cience,29:379-389. Githinji L.2O13.Effectof biochar applicationrateonsoil physicaland hydraulic propertiesofasandyloam.Archivesof Agronomy and Soil Science,60(4): 457-470. Green W H,Ampt G A.1911. Studies of soil physics.The Journal of Agricultural Science,4(1): 1-24. Horton RE.1941.An approach toward a physical interpretationof infitration capacity.Soil Science Society of America Journal, 5: 399-417. Kim YJ,Hyun J,YooSY,et al.2021.Theroleof biochar inaleviatingsoildrought stressinurbanroadsidegreenery. Geoderma,404:115223,doi: 10.1016/j.geoderma.2021.115223. KinneyTJ,MasielloCA,DuganBetalOl2.Hydrologic propertiesofbiochars producedatdifrentemperaturesBiomss and Bioenergy, 41: 34-43. KostiakovAN.1932.Onthe dynamicsof thecoefficientof waterpercolation insoilsandon thenecesityofstudyingitfroma dynamic point of view for purposes of amelioration.In: Transactions of the $6 ^ { \\mathrm { { u } } }$ Congress of the International Society of Soil Science.Moscow: Society of Soil Science,7-21. Laird DA,Fleming PDavis DD,etal.2O10.Impactofbiocharamendmentsonthequalityofatypical Midwesternagricultural soil. Geoderma,158(3-4): 443-449. Lehmann J. 2007.A handful of carbon. Nature, 447(7141): 143-144. Lehmann J,Rilig MC,Thies J,etal.2O11.Biochar efectsonsoil biota: Areview.SoilBiologyand Biochemistry,43(9): 1812-1836. LiJ,LiJ,ChngK,etal.6.Soiloganicarbonsquestrationyieldndicmeicremetofotatioal ilagemeasurn Weibei highland maizefield.TransactionsoftheChinese SocietyofAgriculturalEngieering,32(5):104-11.(inChinese) Li SL,Wang X,Wang S,etal2O16.Effectsof appication patternsandamountof biocharon water infltration and evaporation.Transactions of the Chinese Society of Agricultural Engineering,32(14):135-144. (in Chinese) Li SL,ZhangYW,Yan WM,etal.2018.Efectofbiocharapplication methodonnitrogen leachingand hydraulicconductivity in a silty clay soil. Soil and Tillage Research,183:100-108. LiSL.2019.Efects of biocharonsoilecologicalfunction underdrylandfarming.PhDDissertation.Yangling: Research Center of Soiland WaterConservationandEcologicalEnvironment,Universityof Chinese Academyof Sciences.(in Chinese) LimTJ,Spokas KA,Feyereisen G,etal.2016.Predicting the impactof biocharadditionsonsoil hydraulic properties. Chemosphere,142: 136-144. Liu JL,Ma XY,Zhang ZH.2010.Aplicabilityof explicit functionsoncumulative infiltrationof Green-Ampt modelunder different conditions.Journal of Basic Science and Engineering,18(1):11-19.(in Chinese) Liu ZL,DuganB,MasieloCA,etal.2016.Impactsof biocharconcentratioand particlesizeonhydraulicconductivityand DOC leaching of biochar-sand mixtures. Journal of Hydrology, 533: 461-472. Mezencev VJ.1948.Theory of formation of the surface runoff. Meteorologia IGidrologia,3:33-46. (in Russian) Mukherjee A,LalR,Zimmerman AR.2O14.Efectsof biocharandother amendmentson the physical properties and greenhouse gas emissions of an artificially degraded soil. Science of the Total Environment,487: 26-36. Nguyen B T,Lehmann J, Hockaday WC,et al. 2010.Temperature sensitivityof black carbon decomposition andoxidation. Environmental Science & Technology,44(9): 3324-3331. Philip JR.1957.The theoryof infiltration:1.The infiltration equation and its solution.Soil Science,83(5): 345-358. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Qi RP,ZhangL,YanYH,etal.2O14.Efectsofbiocharaddition intosoils insemiaridlandonwaterinfitrationunderthe condition of the same bulk density.Chinese Journal of Applied Ecology,25(8): 2281-2288.(in Chinese)   \nRazzaghiF,ObourPB,Arthur E.2O20.Does biochar improve soil water retention?A systematicreviewand meta-analysis. Geoderma,361: 114055,doi: 10.1016/j.geoderma.2019.114055.   \nSun JN,YangRY,LiWX,etal.2O18.Efectofbiocharamendmentonwaterinfiltrationinacoastalsalinesoil.Joualof Soils and Sediments,18:3271-3279.   \nTammeorg P,SimojokiA,MakelaP,etal.2O14.Short-termeffctsofbiocharonsoil propertiesandwheat yieldformationwith meat bone meal and inorganic fertiliseronaboreal loamy sand.Agriculture,Ecosystems &Environment,191:108-116.   \nTang XJ,LiX,LiuXM,etal.2O15.Efectsofinorganicandorganicamendmentsontheuptakeof leadandtraceelements by Brassica chinensis grown in an acidic red soil. Chemosphere,119: 177-183.   \nUnited States Department of Agriculture-Natural Resourcesand Conservation Service (USDA-URCS).1974.National Engineering Handbook:Section15.Irrigation.WashingtonD.C.:Soil Conservation ServiceUnited States Departmentof Agriculture (USDA-SCS).   \nWang CY,Mao XM,ZhaoB.2010.Experiment and simulationof water infltrationof layered sandcolumn in laboratory. Transactions of the Chinese Society of Agricultural Engineering,26: 61-67.(in Chinese)   \nWang DY,LiCYarikhSJ,etal.2Ol9.Impactofbiocharon waterretentionof twogriculturalsoils:Amulti-scalealysis. Geoderma,340:185-191.   \nWang HL,TangXGZhangW,etal.2O15.Effectsofbiocharapplicationontilthsoilhydraulicpropertiesofslopingcropland of purple soil.Transactions of the Chinese Societyof Agricultural Enginering,31(4):1O7-112. (in Chinese)   \nWangTT,Stewart CS,MaJB,etal.2O17.Aplicabilityoffivemodelstosimulate water infiltration intosoil withadded biochar. Journal of Arid Land,9(5): 701-711.   \nWangTT,Stewart CE,SunCC,etal.2018.Effectsof biochar addition on evaporationinthe five typicalLoessPlateausoils. CATENA,162: 29-39.   \nWang TT,LiGL,Yang KQ,etal.202la.Enhancedammoniumremoval onbiochar fromanew forestry waste byultrasonic activation:Characteristics，mechanismsand evaluation.Science of the Total Environment，778:146295，doi: 10.1016/j.scitotenv.2021.146295.   \nWang TT, Zheng JY,Liu H T,et al.2O21b.Adsorption characteristics and mechanisms of $\\mathrm { P b } ^ { 2 + }$ and $\\mathrm { C d ^ { 2 + } }$ by a new agricultural waste-Caragana korshinski biomassderived biochar.EnvironmentalScience andPolutionResearch,28:13800-13818.   \nWang ZP,XieLK,LiuK,etal.2O19.Co-pyrolysis ofsewage sludge andcottonstalks.Waste Management,89: 430-438.   \nWen M,ZhengJY.2Ol2.EfectsofdiferentsizesofbiocharandtheiraditionratesonsoilshrinkagecharacteristicsResearch of Soil and Water Conservation,19(1):46-50,55.(in Chinese)   \nXia W S,YangWZ,Shao MA.2Oo.Efectof soil water hysteresis onevaporationand redistribution for huang mian soil. Journal of Natural Science of Hunan Normal University,23(2): 83-87.(in Chinese)   \nXiao Q,ZhangHPShenYF,etal.2Ol5.Eectsofbocharonwaterinfiltration,evaporationndnitrateleachinginsad loess area.Transactions of the Chinese Society of Agricultural Engineering,31(16):128-134.(in Chinese)   \nXie Q,WangLM,QiRP,etal.2O16.Effectsof biocharon water infiltrationand water holdingcapacityof loessialsoil. Journal of Earth Environment,7(1):65-76,86.(in Chinese)   \nZhang QZ,DuZL,LouYL,et al.20l5.Aone-year short-term biochar application improved carbonaccumulation in large macroaggregate fractions. CATENA,127: 26-31.   \nZhou H,Chen C,WangDZ,etal.2020.Efectof long-term organicamendmentson the full-range soil waterretention characteristics of a Vertisol. Soil and Tillage Research,202:104663,doi:10.1016/j.still.2020.104663. ",
+        "page_idx": 15
+    }
+]

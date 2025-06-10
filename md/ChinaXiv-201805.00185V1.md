@@ -1,0 +1,201 @@
+# 基于暗原色先验的快速单幅图像去雾算法
+
+王殿伟1,²，闫伟超1，刘颖1,²，朱婷鸽1,2(1.西安邮电大学 通信与信息工程学院，西安 710121;2.电子信息现场勘验应用技术公安部重点实验室，西安710121)
+
+摘要：针对基于暗原色先验理论的单幅图像去雾算法中，由于某些场景下的雾天图像存在大面积明亮区域（如天空、水面或者偏白色物体等）不满足暗原色先验假设，从而导致去雾处理效果不好的问题。基于暗原色先验理论，提出了一种改进的单幅图像去雾算法。首先利用统计截断的方法估计出大气光值；然后对暗通道图进行中值滤波得到粗略估计的透射率图，并对明亮区域的透射率图进行自适应校正处理;最后将这些参数带入大气散射成像模型完成去雾处理。实验结果显示，相较于原算法而言，所提算法可以准确地选取出天空区域的像素点对大气光进行估计，有效降低明亮区域的色彩失真。通过不同算法对不同室外场景下采集的雾天图像的去雾效果的对比可知，所提算法在对明亮区域的处理上更加合理，可以较好地处理一些带有光源的图像，恢复出的图像具有很好的细节保持，视觉效果显著提高。所提算法对含有大面积明亮区域的雾天图像具有很好的增强处理效果，可以为图像分割、语义检索、智能分析等图像处理工作提供有效的预处理手段，对于交通监管、视频监控、行车视频记录、视觉导航等研究领域具有重要的意义。
+
+关键词：去雾；暗原色先验；明亮区域；大气光；透射率 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.07.0668
+
+# Fast single image dehazing algorithm based on dark channel prior
+
+Wang Dianwei1,2, Yan Weichao1?, Liu Ying1,2, Zhu Tingge1, 2 (1.SchoolofCommunications&Information Enginering,Xian UniversityofPosts&Telecommunications,Xian70121, China; 2.KeyLabofElectronic InformationProcesing with Applications in Crime Scene Investigation,Ministryof Public Security, Xi'an 710121, China)
+
+Abstract:The existing single image dehazing algorithms based on dark channel prior theory cannot achieve satisfactory performanceinthecases thatthe imagehaslarge highlightregions (i.e.skyarea,watersurfaceorwhiteobjects)whichdoes not meethedarkchannelpriorhypothesis.Tosolve thisproblem,thispaperproposedanovelsingle image dehazingalgorithm basedonthedarkchannel prior.Firstly,it estimatedtheatmospheric lightvaluebyanewstatistical runcation process,thena medianflterisappiedtotedarkchanelpriortostimateteapproximativevalueoftetransmissonmap.Finallyitstred the haze-removed image by theatmospheric scatering model.Experimental result shows that compare tothe original method, the proposedalgorithmcanpickoutepixelsintheskyregionscorrctlythen estimate theatmosphericlightvalueaccurately, whichcan alleviate thecolour distortion efectively.Compare toother dehazing methods,the proposed algorithmhas better performance inhazeremovalinfoggy images withlarge high lightregions,even has spotlighting sources,and thedetailscan be reservedandthevisual qualityis enhanced significantly.Theproposed algorithmcan beapplied torestore thefoggy image thathaslarge high lightregions orspotlightingsource.This methodcanserveasauseful pre-procesing toimagesegmentation, semanticretrievalintellgent analysis,etc.，whichhas great significancetotheresearchareasof traficsupervision,video surveillance,automobile data recorder and visual guidance and so forth.
+
+Key Words: dehazing; dark channel prior; high light regions ; atmospheric light; transmission map
+
+雾天条件下采集到的图像呈现对比度低、动态压缩范围小、颜色偏移与失真等特征，不仅达不到理想的视觉效果，而且给目标的判定带来一定的困难，影响和限制了室外目标识别与跟踪、公路视觉监控、智能导航等机器视觉系统效用的发挥，因此图像去雾技术在提高视觉系统的可靠性和鲁棒性方面发挥着巨大的作用，具有十分重要的意义。目前，图像去雾技术主要包含两大类：一类是基于非物理模型的去雾方法，这种方法主要针对雾天图像存在的对比度过低、色彩信息不足的问题，以常规的图像增强的方法作为基本的处理手段，提高雾天图像的对比度，并增强雾天图像的色彩，常用算法包括直方图均衡化[1,2]、对比度增强[3,4]、基于Retinex 理论的图像增强算法[5.6]等；另一类是基于物理模型的去雾方法，这种方法通过对大气散射作用进行建模分析，建立雾天图像退化模型，利用退化的先验知识来复原真实场景。这种图像复原方法的前提是已知景深信息，但实际上景深信息通常很难测得，这就给图像去雾技术带来了一项巨大的挑战。
+
+随着图像去雾技术的发展，各种算法层出不穷，Narasimhan等人[7根据不同天气条件采集的多幅图像来估计场景深度来恢复无雾图像。Shwartz[8]和Oakley 等人[9]根据多幅图像不同偏振度来估计深度图像，从而恢复出无雾图像。Tan和Fattle最早提出了单幅图像去雾算法，为单幅图像处理奠定了一定的基础。两种方法都是依据强有力的先验与假设。Tan[1]通过扩大雾天图像局部对比度的方法恢复场景图像，但恢复出的图像不自然并且颜色过饱和；Fattal[1]假设透射率和物体表面投影在局部区域内不相关来估计场景的透射率，实现场景的复原。但这种方法的处理效果与图像的统计特性有关，对浓雾图像会由于颜色信息不足而导致去雾处理效果不好。Tarel等人[12]假定大气耗散函数在可行域中逼近最大值且在局部区域内变化平缓，采用中值滤波来估计大气耗散函数，但是恢复出的图像会出现Halo效应，并且该算法参数较多，不易调整；He等人[13]通过对大量户外无雾图像做实验，提出了一种暗原色先验理论，并将该先验理论应用到单幅图像去雾处理中，取得了很好的去雾效果。但这种方法使用软抠图来细化透射率图，算法复杂度很高，实时性很差，不适用于明亮区域的处理。近年来也出现了许多基于暗原色先验原理的去雾算法，在去雾效果和图像细节信息保持方面都取得了一定的效果。张冰冰等人[14]通过改进透射率的细化方法，自适应调节透射率下限值和大气光成分值，并对复原的图像进行进一步的增强处理，提高了复原图像的视觉效果。Sun 等人[15]基于一种分块思想对透射率进行自适应估计，通过判断暗通道和大气光强度的差值绝对值大小来判定雾图中的明亮区域，对传统去雾算法在明亮区域处理时透射率估计不足的问题作了进一步的改进。本文基于暗原色先验理论，提出了一种改进的单幅图像去雾算法。首先采用一种统计截断的方法估计出大气光值；然后对暗通道图进行中值滤波得到粗略估计的透射率图，进一步对明亮区域的透射率图进行自适应校正处理;最后将这些参数带入大气散射成像模型完成去雾处理，可以准确地选取出天空区域的像素点对大气光进行估计，有效降低明亮区域的色彩失真，对明亮区域的处理上更加合理，可以较好地处理一些带有光源的图像，恢复出的图像具有很好的细节保持,视觉效果显著提高。
+
+# 1 暗原色先验理论
+
+# 1.1大气散射模型
+
+目前，大多数基于物理模型的单幅图像去雾算法都是采用1975年McCartney[16]提出的经典的大气散射模型，其空间模型如图1所示。
+
+![](images/519fe26cacc0221154e473ab092916607cbaa805ffa7ee0377b1fb1128187d0f.jpg)  
+图1McCartney大气散射模型
+
+此模型可以用如下数学公式表示：
+
+$$
+I ( p ) = J ( p ) t ( p ) + A ( 1 - t ( p ) )
+$$
+
+其中： $J ( p ) t ( p )$ 称为直接衰减项； $A ( 1 - t ( p ) )$ 称为大气光项； $p$ 表示图像中像素的位置坐标； $I ( p )$ 表示采集的雾天图像； $J ( p )$ 反映了物体直接反射光线的强度，也就是去雾之后的真实图像；$t ( p )$ 表示透射率（是一个散射系数 $\beta$ 和场景深度 $d ( x )$ 的函数，可以表示为 $t ( p ) = e ^ { - \beta d ( x ) } ~ .$ )，反映了反射光线从物体表面到成像设备的传播路径上穿透雾的能力； $A$ 表示大气光的估计值，反映了距离成像设备无穷远处的光照强度。
+
+# 1.2暗原色先验
+
+He 等人通过对大量户外无雾图像做统计实验，提出了一种暗原色先验理论。以前的去雾算法都把重心放在图像的对比度增强上，而He等人通过观察户外无雾图像的统计规律，发现了一个图像本身客观存在的特征：在大多数无雾图像的任意局部区域内，总存在这样一些像素点，它们在某一个或几个颜色通道内具有很低的亮度值，且接近于零，把这些像素点称为暗原色[13]。可用式（2）表示为
+
+$$
+J ^ { d a r k } ( p ) = \operatorname* { m i n } _ { q \in \Omega ( p ) } ( \operatorname* { m i n } _ { c \in \{ r , g , b \} } J ^ { c } ( q ) )
+$$
+
+其中： $\boldsymbol { J } ^ { c }$ 是图像 $J$ 的一个颜色通道； $\mid c \mid$ 是图像的R、G、B三个颜色通道； $\Omega ( p )$ 是以像素 $p$ 为中心的局部区域。
+
+# 1.3通过暗原色先验去雾
+
+有雾天气下采集的图像中，由于雾呈现灰白色，使得图像中具有低亮度值的暗原色在雾的干扰下变得灰白，亮度变得更高，这是大气光的散射作用引起的，而雾图中暗原色的亮度值与透射率有直接关系，所以可采用这些暗原色的亮度值来估计场景的透射率。
+
+首先，假设全局大气光 $A$ 的值是给定的，对式（1）两边同除以 $A$ ，得到
+
+$$
+\frac { I ^ { c } ( p ) } { A ^ { c } } = t ( p ) \frac { J ^ { c } ( p ) } { A ^ { c } } + 1 - t ( p )
+$$
+
+进一步假设在局部区域 $\Omega ( p )$ 内场景深度是相同的，因此
+
+就可以在这个区域内使用一个恒定的透射率 $t ( p )$ ，对式（3）两边同时求取暗原色，有
+
+$$
+\operatorname* { m i n } _ { q \in \Omega ( p ) } ( \operatorname* { m i n } _ { c } \frac { I ^ { c } ( p ) } { A ^ { c } } ) = \overleftrightarrow { \ell } \ell p ) \operatorname* { m i n } _ { q \in \Omega ( p ) } ( \operatorname* { m i n } _ { c } \frac { J ^ { c } ( p ) } { A ^ { c } } ) + 1 - \overleftrightarrow { \ell } \ell p )
+$$
+
+由暗原色先验理论可知：无雾图像的暗原色 $J ^ { d a r k } ( p )$ 的值很小，趋近于0。大气光 $A$ 是正数，属于全局常量，且取值较大。对于雾天图像的非明亮区域来说，除以 $A$ 后不影响暗原色趋近于零，因此可以得到
+
+$$
+\operatorname* { m i n } _ { q \in \Omega ( p ) } ( \operatorname* { m i n } _ { c } \frac { J ^ { c } ( p ) } { A ^ { c } } ) { = } 0
+$$
+
+将式（5）代入式（4)，即可得到粗略的透射率估计值，可表示为
+
+$$
+\vartheta \ell p ) = 1 - \operatorname* { m i n } _ { q \in \Omega ( p ) } ( \operatorname* { m i n } _ { c } \frac { I ^ { c } ( p ) } { A ^ { c } } )
+$$
+
+为了使图像看起来更加自然真实，再向式（6）引入一个雾的去除率参数 $w ( 0 < w < 1 )$ ，使得远景物体具有一定的深度信息。一般情况下，雾的浓度越大， $w$ 的取值越大，文献[13]对参数 $w$ 取常数值0.95。因而粗略的透射率图 $ { \ell } ( p )$ 便可近似地表示为
+
+$$
+\mathcal { \ell } ( p ) = 1 - w \operatorname* { m i n } _ { q \in \Omega ( p ) } ( \operatorname* { m i n } _ { c } \frac { I ^ { c } ( p ) } { A ^ { c } } )
+$$
+
+在估计大气光 $A$ 时， $\mathrm { H e }$ 等人结合带雾图像本身和雾天图像的暗原色图对大气光 $A$ 进行估计，具体做法是选取暗原色图中像素亮度值最大的前 $0 . 1 \%$ 像素点，把其在雾图中对应的最大值作为大气光 $A$ 的估计值，这样就可以通过式（1）恢复出无雾图像 $J ( p )$ □
+
+$$
+J ( p ) = \frac { I ( p ) - A } { t ( p ) } + A
+$$
+
+# 2 暗原色先验理论
+
+由式（1）可知，为了复原出无雾图像，对透射率 $t ( p )$ 和大气光值A的准确估计是关键。
+
+# 2.1基于统计截断的大气光估计算法
+
+在雾天视频图像中，天空区域通常是最亮的区域，因此目前已有的算法通常选取雾天图像中一定比例的最亮的像素点的亮度值作为大气光的估计值[13]。然而对于图像中含有一些偏白色物体或带有光源的明亮区域时，会导致用于大气光估计的像素点落在这些明亮区域而不再是天空区域的值，使得一个本来不应该作为大气光参考值的结果被用作大气光的估计，从而产生较大的估计误差，很大程度上影响了图像去雾算法的处理效果。为了对大气光值进行更加准确的估计，本文提出一种基于统计截断的大气光估计方法，以亮度图像的局部均值为中心，利用局部方差做截断区间，选取截断区间内大于局部均值的像素点作为大气光估计的备选像素，从而得到更加准确的估计值。
+
+HSV是一种直观的颜色模型，也是图像处理中经常使用的颜色空间，由于它的色度分量和饱和度分量与亮度分量是分离的，所以对亮度分量处理后不会影响图像的色彩信息。本文算法首先将图像转换到HSV颜色空间，分离出亮度分量 $\mathrm { \Delta V }$ ，并计算其概率密度函数，表示为
+
+$$
+H _ { \nu } ( V _ { \mathrm { m i n } } \leq \nu \leq V _ { \mathrm { m a x } } ) = p d f ( V )
+$$
+
+其中： $\nu$ 是 $V$ 的一个随机值； $V _ { \mathrm { m i n } }$ 是 $\nu$ 的最小值； $V _ { \mathrm { m a x } }$ 是 $\nu$ 的最大值。
+
+接下来计算亮度图像的平均亮度值 $\mu$ 。对于输入图像的每一个像素，将亮度大于 $\mu$ 的像素点作为备选像素点，并将其余像素点移除。根据正态分布的特性可知， $6 8 . 2 6 \%$ 的像素点都在$[ \mu - \sigma , u + \sigma ]$ 之间[16]，因此，进一步在这些备选的像素点中计算亮度的局部均值 $\mu ^ { \prime }$ 和局部标准差 $\sigma$ ，将不满足 $[ \mu ^ { \prime } - \sigma , u ^ { \prime } + \sigma ]$ 的像素点移除，剩余的像素点作为用于估计大气光的备选像素点。不断重复这个过程，直到备选像素点的个数与图像总的像素点数的比例小于预先设定的阈值?。最后，计算这些像素点的亮度均值，并将其作为大气光 $A$ 的估计值。这样估计的大气光的值可以较好地处理一些带有光源或有偏白色物体的图像，避免估计大气光时选取的像素点恰好是这些光亮的区域。本文选取阈值λ为0.1。图2为本文算法与 $\mathrm { H e } ^ { [ 1 3 ] }$ 算法对大气光估计时参考像素点的统计。其中标记的红色像素点即用于大气光估计时的参考像素点。
+
+![](images/a0591d4dc0df9f17756073019847b69fb2efb1d2f1956141333dc816d4291230.jpg)  
+图2含有光源的雾天图像中用于大气光估计的像素点
+
+由图2可知，He的算法用于估计大气光值的像素点落在了光源位置而非天空区域，导致大气光值估计不准确，而本文算法结果很好地避开了这些光源位置，使得用于大气光估计的像素点绝大多数落在包含天空的区域，利用这些像素点的均值对大气光的值进行估计更加符合雾天大气散射成像模型中大气光值的要求[16]。
+
+图3显示了普通户外雾天图像对大气光估计时的参考像素点统计。图中标记的红色像素点即用于大气光估计时的像素点。
+
+![](images/b5f5174ec19695c1cc346d388e150760b3cf2224ce84fbc99d38b478f88ecd25.jpg)  
+图3普通户外雾天图像用于大气光估计的像素点
+
+由图3可知，对于不含光源的普通户外雾天图像，本文算法中用于大气光估计的像素点准确地选取在天空的明亮区域，而且很好地避开了带有鲜艳色彩信息的物体表面。可见，本文提出的基于统计截断的大气光估计算法对包含光源和不含光源的两类雾天图像都能够准确地估计出大气光值。
+
+# 2.2基于中值滤波和天空区域判断的透射率估计算法
+
+透射率反映了光在大气中传输的主要特性，透射率值估计的准确性对复原后图像的质量起着关键作用[14]。在估计透射率时，首先假定在一个局部范围内，场景深度是相同的，所以在一个小块内，就可以使用一个固定的透射率值。文献[13]首先对图像的三通道最小图进行最小值滤波得到粗略估计的透射率图，再用"软抠图"方法或导向滤波方法[I7]对透射率图进行进一步细化，这样得到的透射率图具有很好的边缘保持，复原出的图像细节信息更明显。但是这两种方法都要耗费大量的时间，算法的实时性比较差。文献[18]介绍了一种简单的方法，直接用R、G、B三通道最小分量图作为透射率图。这种方法虽然简单易行，但是处理后的图像整体比较暗淡，达不到满意的视觉效果。为了克服上述问题，本文首先使用中值滤波代替最小值滤波，将滤波的结果作为透射率的粗略估计值。由于中值滤波算法具有良好的边缘保持特性，不需要"软抠图"或导向滤波进一步细化，大大降低了算法复杂度。采用中值滤波估计出的透射率图的表达式如下：
+
+$$
+\ell \ell p ) = 1 - w ( \frac { I _ { m e d } ^ { \prime } ( p ) } { A ^ { c } } )
+$$
+
+其中：
+
+$$
+I _ { { m e d } } ^ { \prime } ( p ) = { m e d } ( I _ { \mathrm { m i n } } ( q ) )
+$$
+
+通过大量实验得知，暗原色先验的去雾方法会在明亮区域产生颜色失真，这是因为在图像的明亮区域，采用暗原色先验估计的场景透射率较真实场景的透射率较小所导致的[19]。在明亮区域，图像的R、G、B三个颜色通道都具有很大的值，与大气光值很接近，并且每个通道都具有近似的亮度值[19]，即使是有雾干扰的图像，也会满足这一规律。在对透射率图进行优化的过程中，文献[19]引入一个参数K，通过比较 $\left| I ( p ) - A \right|$ 与参数K的大小来判断像素是否处于明亮区域。当 $\big | I ( p ) - A \big | < K$ 时，判定为明亮区域，并对这些区域的透射率图进行校正，否则保持不变。但是 $\left| I ( p ) - A \right|$ 在同一个像素点处的三个通道亮度值与K 大小可能会存在方向不一致的情况，即在同一像素点处，有的通道满足 $\big | I ( p ) - A \big | < K$ ，而有的通道 $\mid I ( p ) - A \mid > K$ ，这样在三个颜色通道内计算的透射率就可能不一样，而实际上在同一像素点上三个通道的透射率应该是相同的，这是造成天空区域颜色失真的主要原因[19]。为了说明这一问题，本文对图2中的8幅雾天图像中明亮区域的像素点统计，结果如表1所示。
+
+由表1可以看出，雾天图像各通道满足条件的像素点数差异较大。这也就是文献[19]修正后的各颜色通道的透射率会存在不一致情况。同时也发现，R、G、B各自通道中明亮区域的像素个数的均值近似等于三通道灰度均值图像 $M ( p )$ 中明亮区域的像素个数。因此本文提出了一种通过比较 $\left| M ( p ) - A \right|$ 与阈值K的大小来判定图像中的像素点是否处于明亮区域的方法。当 $\vert M ( p ) - A \vert < K$ 时，将这些像素点认为是明亮区域的像素点，并对这些区域的透射率图进行校正，否则保持不变。本文提出的校正后的透射率可由式（12）表示。
+
+$$
+t ( p ) = { \frac { K } { \left| M ( p ) - A \right| } } ^ { * } { \vartheta } { \ell } p )
+$$
+
+其中：
+
+$$
+M ( p ) = \frac { 1 } { 3 } \ast \sum _ { c } I ^ { c } ( p )
+$$
+
+其中： $M ( p )$ 是雾天图像 $I ( p )$ 所对应的三通道灰度均值图像;  
+K表示设定的阈值，参考文献[19]，这里K取值为50。
+
+表1雾天图像三通道图及三通道均值图像明亮区域像素点统计结果  
+
+<html><body><table><tr><td>雾天图像</td><td>R通道</td><td>G通道</td><td>B通道</td><td>三通道均值图像</td></tr><tr><td>图像1（600×900）</td><td>350221</td><td>309548</td><td>335500</td><td>337430</td></tr><tr><td>图像2（384×512)</td><td>65325</td><td>44036</td><td>40633</td><td>43421</td></tr><tr><td>图像3（297×422)</td><td>70435</td><td>72099</td><td>74270</td><td>71165</td></tr><tr><td>图像4（600×450)</td><td>43228</td><td>35356</td><td>37532</td><td>35623</td></tr><tr><td>图像5（400×600)</td><td>126769</td><td>121201</td><td>112251</td><td>120497</td></tr><tr><td>图像6（299×450)</td><td>74199</td><td>83620</td><td>82817</td><td>82424</td></tr><tr><td>图像7（360×500)</td><td>116347</td><td>80645</td><td>67886</td><td>85705</td></tr><tr><td>图像8（450×441)</td><td>79218</td><td>106923</td><td>45627</td><td>70072</td></tr></table></body></html>
+
+图4为暗原色先验算法和本文算法求取的透射率图的比较。从带有天空区域的几幅图像中可以看到，暗原色先验算法估计的天空区域的透射率图具有很低的亮度值，与天空区域实际透射率图严重不符。本文算法求取的透射率图对天空区域的处理上更加合理，天空区域的透射率图亮度值处于整幅图像中最亮的部分，满足暗原色先验假设，整体的亮度值与真实透射率的亮度值逼近度更好，而且更好地保持了图像的细节信息。
+
+# 3 实验结果分析
+
+为了验证算法的有效性，本文选取了八幅雾天图像（包括含有明亮区域（天空区域）的图像和含有光源的图像)，采用不同的算法进行去雾恢复处理，其结果如图5所示。
+
+图5(a)列是选取的八幅户外雾天图像，(b)列是经过自适应直方图均衡化(AHE)处理后的结果，(c)列是使用多尺度Retinex(MSR)处理之后的结果(三个尺度分别为15、80和250），(d)列是使用暗原色先验(DCP)处理之后的结果，(e)列是本文改进算法的处理结果。
+
+由图5中第5幅和第6幅图像的处理过程可以看出，本文提出的算法对含有光源的图像具有较好的处理效果，这是因为对大气光具有较准确的估计。从其他几幅图像可以看出，经过自适应直方图均衡化和暗原色先验处理后的图像在明亮区域会出现颜色偏移与失真，经过多尺度Retinex 处理后的图像仍留有一部分的雾，而本文算法处理结果很好的克服了上述缺点，恢复出的图像清晰自然、色彩保持性很好。
+
+![](images/f890459d0f8b82351c48320493b1b042aa676476d4dbf8264ce964c214efa9df.jpg)  
+图4不同算法求取的透射率图比较
+
+![](images/c1ff5814345b62ef5b763a46ee1a0c7b3a7dd7f776b582936a1720ad3b08e143.jpg)  
+图5不同算法去雾恢复处理的结果
+
+为了客观地评价算法的去雾效果，本文从均方误差（meansquared error,MSE）、峰值信噪比（peak signal to noise ratio,PSNR）、信息熵（information entropy,IE）和平均梯度（averagegradient,AG）等角度进行图像的质量的定量分析。均方误差是反映图像处理前后有效信息保持能力的量度，其值越小说明处理后图像的信息保持能力越强；峰值信噪比越高表明抗噪声能力越好；信息熵是反映图像包含信息量的量度，熵越大表明图像所包含的信息量越多，图像细节越丰富；平均梯度则反映图像的清晰度，其值越高表明图像清晰度越高。从这几项处理结果可以看出，本文提出算法在一定程度上优于其他算法，取得了较好的去雾效果。
+
+表2不同算法处理效果比较  
+
+<html><body><table><tr><td rowspan="2">雾天图像</td><td colspan="4">评价指标</td></tr><tr><td>MSE</td><td>PSNR(dB)</td><td>IE</td><td>AG</td></tr><tr><td>图像1</td><td>12.70</td><td>15.49</td><td>处理前/处理后 6.47/ 6.39</td><td>处理前/处理后 1.92/ 6.53</td></tr><tr><td>图像2</td><td>10.25</td><td>15.46</td><td>7.47 / 6.89</td><td>8.67 / 16.84</td></tr><tr><td>图像3</td><td>11.47</td><td>14.91</td><td>6.65/ 7.21</td><td>5.00 / 17.51</td></tr><tr><td>图像4</td><td>4.48</td><td>11.78</td><td>7.23 / 6.81</td><td>4.02 /10.59</td></tr><tr><td>图像5</td><td>12.77</td><td>17.55</td><td>6.90 / 7.57</td><td>4.48/ 12.66</td></tr><tr><td>图像6</td><td>11.00</td><td>15.12</td><td>6.90 /7.76</td><td>2.43 /3.92</td></tr><tr><td>图像7</td><td>9.93</td><td>13.75</td><td>7.18 / 7.62</td><td>3.34 / 10.16</td></tr><tr><td>图像8</td><td>11.35</td><td>15.96</td><td>7.45 / 7.42</td><td>11.80 /24.48</td></tr></table></body></html>
+
+# 4 结束语
+
+本文基于暗原色先验理论和雾天大气散射成像物理模型，提出了一种改进的单幅图像去雾算法。首先利用统计截断的方法估计出大气光值；然后对暗通道图进行中值滤波得到粗略估计的透射率图，并对明亮区域的透射率图进行自适应校正处理；最后将这些参数带入大气散射成像模型完成去雾处理，对含有大面积明亮区域以及带有光源的雾天图像均具有很好的处理效果，有效降低了明亮区域的色彩失真，恢复出的图像视觉质量显著提升，场景真实自然。本文算法可以为图像分割、语义检索、智能分析等图像处理工作提供有效的预处理手段，对于交通监管、视频监控、行车视频记录、视觉导航等研究领域具有重要的意义。未来研究可以将去雾算法移植到视频图像采集的前端，对减少后台处理的运算开销以及数据空间等方面均具有重要的意义。
+
+# 参考文献：
+
+[1]Wong CY,Jiang G,Rahman MA,et al.Histogram equalization and optimal profile compression based approach for colour image enhancement [J]. Journal of Visual Communication & Image Representation,2016,38:802- 813.   
+[2]Li Y,Zhang Y,Geng A,et al. Infrared Image enhancement based on atmospheric scattering model and histogram equalization[J].Optics & Laser Technology,2016,83:99-107.   
+[3]Kim JH,Jang WD, SimJY,et al. Optimized contrast enhancement for realtime image and video dehazing [J].Journal of Visual Communication & Image Representation,2013,24(3): 410-425.   
+[4]Gao Y,Hu HM,Wang S,et al.A fast image dehazing algorithm based on negative correction [J]. Signal Processing,2014,103 (10): 380-398.   
+[5]Biswas B,Roy P, Choudhuri R,et al. Microscopic image contrast and brightness enhancement using multi-scale retinex and cuckoo search algorithm [J].Procedia Computer Science,2015,70:348-354.   
+[6] Lin H,Shi Z.Multi-scale retinex improvement for nighttime image enhancement [J].Optik-International Journal for Light and Electron Optics, 2014,125 (24): 7143-7148.   
+[7]Narasimhan S G,Nayar S K.Contrast restoration of weather degraded images[J].IEEE Trans on Pattern Analysis & Machine Intelligence,2003, 25 (6): 713-724.   
+[8]Shwartz S,Namer E, Schechner Y Y.Blind haze separation [C]// Proc of IEEE Computer Society Conference on Computer Vision & Pattern Recognition.[S.1.]: IEEE Computer Society,2006:1984-1991.   
+[9]Oakley JP,Satherley B L. Improving image quality in poor visibility conditions using a physical model for contrast degradation [J].IEEE Trans on Image Processing,1998,7(2):167-179.   
+[10] TanRT.Visibility in bad weather froma single image[C]//Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2008: 1-8.   
+[11] Fattal R. Single image dehazing [J].ACM Trans on Graphics,20o8,27 (3): 1-9.   
+[12] Tarel JP, Hautiere N.Fast visibility restoration from a single color or gray level image $[ \mathrm { C } ] / \AA$ Proc of IEEE International Conference on Computer Vision.2009:2201-2208.   
+[13] He K, Sun J, Tang X. Single image haze removal using dark channel prior [C]/ Proc ofIEEE Conference on Computer Vision and Pattrn Recognition. 2011: 1956-1963.   
+[14]张冰冰，戴声奎，孙万源．基于暗原色先验模型的快速去雾算法[J]. 中国图象图形学报,2013,18(2):184-188.   
+[15] Sun X,Sun J,Zhao L,et al. Improved algorithm for single image haze removing using dark channel prior [J].Journal of Image & Graphics,2014, 19 (3): 381-385.   
+[16] McCartney E J. Optics of the atmosphere: scattering by molecules and particles [J].Journal of Modern Optics,1977,14(7): 521-521.   
+[17]He Kaiming,Sun Jian,Tang Xiaoou.Guided image filtering[C]//Proc of European Conference on Computer Vision Computer Vision.[S.1.]: Springer Berlin Heidelberg,2010:1397-1409.   
+[18] ChengFC,Cheng C C,LinPH,etal.A hierarchical airlight estimation method for imagefogremoval [J].Engineering Applications of Artificial Intelligence,2015,43:27-34.   
+[19]蒋建国，侯天峰，齐美彬.改进的基于暗原色先验的图像去雾算法[J]. 电路与系统学报,2011,16(2):7-12.

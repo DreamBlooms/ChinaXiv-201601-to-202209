@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "微通道内滑移区气体-颗粒流动传热数值模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周俊刘振宇吴慧英(上海交通大学机械与动力工程学院，上海200240)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文针对微通道内气粒间流动传热过程开展数值研究，所建模型中气体处理为可压缩/变物性流体，并在气固交界处采用速度滑移和温度跳跃边界条件以考虑其微尺度效应。在数值研究基础上，分析了微通道受限空间、克努森数、气体流速以及颗粒表面温度对微通道内气粒换热的影响。研究结果表明，受限空间结构将强化气粒间换热过程，颗粒表面平均传热努赛尔数随微通道气体流量增大而增大，克努森数增大以及颗粒表面温度升高都将导致颗粒表面平均传热努赛尔数减小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词微尺度传热；气粒两相流；数值模拟；微通道中图分类号：TK124 文献标识码：A 文章编号:0253-231X(2017)03-0581-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerical Simulation of Gas-particle Flow and Heat Transfer in Slip flow Regime in a Microchannel ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU JunLIU Zhen-YuWU Hui-Ying (School of Mechanical Engineering,Shanghai Jiao Tong University，Shanghai 200240,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract In this paper,a numerical model considering the compressibility and variable properties of gas fuid was established to simulate the gas-particle fow and heat transfer in the microchannel. The velocity slip and temperature jump boundary conditions were implemented at the gas-particle interface in the numerical modeling. The influences of microchannel confined space,Knudsen number, gas velocity and particle surface temperature on the heat transfer between gas and particle were studied based on the numerical predictions.The results show that the heat transfer is enhanced due to the confined space of microchannel. Moreover, the average Nusselt number increases with increasing gas flow rate, while it decreases with the increases of Knudsen number and particle surface temperature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsmicro-scale heat transfer; gas-particle fow； numerical simulation; microchannel",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着微加工制造技术水平日益提高，各种微型化系统不断涌现。其中，微纳卫星已成为未来航天器发展的新方向[1,2]，微型固体能源系统是实现微纳卫星在轨姿控的新型推进系统，具有集成度高、运行可靠等特点，受到研究者高度关注[3]。对于微型固体能源推进系统，全面掌握微尺度喷管内气体-固体颗粒流动换热特性是其设计开发成败的关键问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微尺度气体-颗粒流动传热研究尚处于初步阶段。Tsuji[4]研究了气固两相之间动量、能量耦合机制以及不同尺度气固两相流的处理方法。Barber等[5]采用数值模拟和理论分析方法研究低Reynolds$( R e )$ 数微通道内固定颗粒表面拽力系数 $\\left( C _ { \\mathrm { d } } \\right)$ 问题，研究发现阻塞率 $( D / H )$ 对颗粒表面 $C _ { \\mathrm { d } }$ 具有较大影响，同时得到颗粒表面 $C _ { \\mathrm { d } }$ 的表达式，但研究中并未考虑温度跳跃的影响。Mohajer 等[6分析气体变物性对无限大空间内三维球形颗粒与周围空气传热特性的影响，研究表明当颗粒表面与气体来流温度之差小于 $2 0 0 ~ \\mathrm { K }$ 时，颗粒表面速度滑移效应对传热的影响大于温度跳跃效应带来的影响，颗粒表面平均传热努赛尔数！ $( N u )$ 随克努森数 $( K n )$ 增大而增大，而当两者温度差大于 $6 0 0 \\mathrm { ~ K ~ }$ 时具有相反的结论，但该研究并未涉及气体可压缩效应。Kishore和Ramteke[7]研究了速度滑移边界条件下，球型颗粒与气体之间的对流换热问题，但该研究中并未考虑温度跳跃效应对传热的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前针对微通道受限空间内气粒流动传热的研究还较为匮乏，现有模型并未充分考虑微尺度条件下气体的可压缩性对流动传热影响，对气体变物性影响的研究也不够深入。本文将数值模拟微通道受限空间内气粒间流动传热过程，分析气固边界处速度与温度非连续性对气体-颗粒间换热过程作用规律，研究微尺度气体可压缩性及变物性对气粒流动传热特性的影响程度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着微型器件特征尺寸减小，其内部气体可压缩性及稀薄作用将不可忽略，气体流动的连续性假设将不再成立[8,9]。通常引入 $K n$ 数判断微尺度气体是否适用连续性假设条件[10]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK n = \\frac { { \\lambda } } { L }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $L$ 为流动特征尺寸 (本文取颗粒直径 $D _ { \\mathrm { P } }$ ， $\\lambda$ 为气体分子平均自由程。根据 $K n$ 数大小可将气体流动划分为四个区：连续介质区 $( K n < 1 0 ^ { - 3 } )$ 、温度跳跃与速度滑移区 $( 1 0 ^ { - 3 } < K n < 1 0 ^ { - 1 } ,$ ）、过渡区（20 $( 1 0 ^ { - 1 } < K n < 1 0 ^ { 1 } )$ 以及自由分子区 $( K n > 1 0 ^ { 1 } )$ [11]。本文研究的气粒两相流动传热问题属于温度跳跃与速度滑移区，气体主流区域Navier-Stokes方程和傅里叶定律依然适用，但在气固交界处速度与温度将出现非连续特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对稳态二维可压缩无内热源牛顿流体 (不考虑气体体积力影响)，其主流区控制方程组：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "连续性方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\partial \\left( \\rho u \\right) } { \\partial x } } + { \\frac { \\partial \\left( \\rho v \\right) } { \\partial y } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$x$ 方向动量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\left( \\rho u ^ { 2 } \\right) } { \\partial x } + \\frac { \\partial \\left( \\rho u v \\right) } { \\partial y } = - \\frac { \\partial p } { \\partial x } + \\frac { \\partial \\tau _ { x x } } { \\partial x } + \\frac { \\partial \\tau _ { y x } } { \\partial y }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$y$ 方向动量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\left( \\rho v ^ { 2 } \\right) } { \\partial y } + \\frac { \\partial \\left( \\rho u v \\right) } { \\partial x } = - \\frac { \\partial p } { \\partial y } + \\frac { \\partial \\tau _ { y y } } { \\partial y } + \\frac { \\partial \\tau _ { x y } } { \\partial x }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能量方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\left[ \\rho E u + p u \\right] } { \\partial x } + \\frac { \\partial \\left[ \\rho E v + p v \\right] } { \\partial y } =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\left[ k \\frac { \\partial T } { \\partial x } - u \\tau _ { x x } - v \\tau _ { x y } \\right] } { \\partial x } + \\frac { \\partial \\left[ k \\frac { \\partial T } { \\partial y } - u \\tau _ { y x } - v \\tau _ { y y } \\right] } { \\partial y }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\tau _ { x x } = \\frac { 2 \\mu } { 3 } \\left( 2 \\frac { \\partial u } { \\partial x } - \\frac { \\partial u } { \\partial y } \\right) , \\tau _ { y y } = \\frac { 2 \\mu } { 3 } \\left( 2 \\frac { \\partial v } { \\partial y } - \\frac { \\partial v } { \\partial x } \\right) ,$ $\\tau _ { y x } = \\tau _ { x y } = \\mu \\left( \\frac { \\partial v } { \\partial x } + \\frac { \\partial u } { \\partial y } \\right) , u ,$ $\\mathbf { \\sigma } _ { v }$ 分别表示气体在",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$x$ ， $y$ 方向上的速度分量， $k$ 为气体导热系数， $E$ 为气体动能 $( V ^ { 2 } / 2 )$ 与内能 $( e )$ 之和：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = e + { \\frac { V ^ { 2 } } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微通道进口设定为速度入口边界条件，出口采用压力出口边界条件。当 $K n \\ \\leqslant \\ 0 . 1$ 时，可采用如下边界条件描述其气固相间速度与温度不连续效应。Maxwell一阶速度滑移边界条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle u _ { \\mathrm { g } } - u _ { \\mathrm { w } } = \\frac { 2 - \\sigma _ { v } } { \\sigma _ { v } } \\frac { \\lambda } { \\mu } \\tau _ { \\mathrm { t } } | _ { \\mathrm { w a l l } } + } } \\\\ { { \\displaystyle \\frac { 3 } { 4 } P r \\frac { ( \\gamma - 1 ) } { \\gamma \\rho R T _ { \\mathrm { s l i p } } } \\left( - q _ { t } \\right) | _ { \\mathrm { w a l l } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $u _ { \\mathrm { g } }$ 为近壁面气体速度， $u _ { \\mathrm { w } }$ 为壁面速度。 $\\sigma _ { \\mathrm { v } }$ 为切向动量协调系数 (在本文中取1), $\\mu$ 为空气动力黏度， $\\lambda$ 为气体分子平均自由程。式(7)等式右侧第一项称为黏性滑移项，第二项为热蠕动项（与黏性滑移项相比热蠕动项可以忽略[)。因此，本文研究中采用的速度滑移边界条件为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { g } } - u _ { \\mathrm { w } } = \\frac { 2 - \\sigma _ { \\mathrm { v } } } { \\sigma _ { \\mathrm { v } } } \\frac { \\lambda } { \\mu } \\tau _ { \\mathrm { t } } | _ { \\mathrm { w a l l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Smoluchowski一阶温度跳跃边界条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { g } } - T _ { \\mathrm { w } } = \\frac { 2 - \\sigma _ { T } } { \\sigma _ { T } } \\frac { 2 \\gamma } { \\gamma + 1 } \\frac { \\lambda } { P r } \\frac { \\partial T } { \\partial n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { \\mathrm { g } }$ 为近壁面气体的温度， $T _ { \\mathrm { w } }$ 为壁面温度。$\\sigma _ { \\mathrm { T } } , \\gamma$ 分别为热协调系数和气体比热容比(本文研究中分别取1和1.4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过模拟平板间充分发展的微尺度Poiseuille流动来验证本文所建模型的可靠性。如图1所示，将数值模拟结果与理论结果[12]进行比较，数值计算得到的平板间无量纲温度和无量纲速度分布与理论解结果吻合良好。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/26fa945aed0bb13a17f2a4e36c75e6d57e753aab48213e10ef2bc503f3eb9ac0.jpg",
+        "img_caption": [
+            "(a)无量纲温度分布 (a) Dimensionless temperature distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a6dc975dc8451e29987fada131cf27d927e418a2237c81f8c9b2b63dd8e63b4.jpg",
+        "img_caption": [
+            "图1微尺度Poiseuille 流动数值解与理论解对比 Fig.1 Comparation between numerical and analytical results of micro-scale Poiseuille flow "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2物理模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对本文所研究的微通道气粒流动传热问题，计算物理模型如图2所示。于 $3 0 ~ { \\mu \\mathrm { m } } \\times 1 0 ~ { \\mu \\mathrm { m } }$ 的微通道中心位置固定一个高温圆形固体颗粒，常温气体以恒定速度从左侧入口流入通道冷却该颗粒。对气体流动区域进行网格划分，在微通道壁面和颗粒表面附近区域采用贴体细密网格以提高计算精度。首先对不同 $K n$ 数流动条件的计算网格进行无关性检验，表1给出了 $K n { = } 0 . 0 3$ 的检验结果，在综合考虑计算速度与精度基础上，选择网格3进行 $K n { = } 0 . 0 3$ 条件下的流动传热计算，其他 $K n$ 数条件下也采用",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fa07719c850451995673af86a48a8d2d3a95d104dfee0f2ce952718cf8fbece.jpg",
+        "img_caption": [
+            "图2计算物理模型示意图Fig.2 Schematic of computational model"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1网格无关性验证（ ${ \\bf \\ddot { \\mathbf { K } } } n { = } 0 . 0 3 )$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ac54603dda83ca9408e5efbca47841841fa991542940f9b9dfc226ed2cb42585.jpg",
+        "table_caption": [
+            "Table1 Verification of grid-independency( $\\kappa n$ $\\mathbf { \\lambda = 0 . 0 3 } )$ （204号"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>网格总数</td><td>平均Nu</td><td>相对误差</td></tr><tr><td>网格1</td><td>8875</td><td>1.1721</td><td>0.0949</td></tr><tr><td>网格2</td><td>13212</td><td>1.0979</td><td>0.0257</td></tr><tr><td>网格3</td><td>25034</td><td>1.0724</td><td>0.0019</td></tr><tr><td>网格4</td><td>33655</td><td>1.0704</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相同的步骤进行网格的划分。在此基础上，数值模拟了 $K n { = } 0 . 0 1 { \\sim } 0 . 1$ ，颗粒表面温度 ${ \\cal T } _ { \\mathrm { P } } { = } 5 0 0 { \\sim } 1 1 0 0 \\mathrm { K }$ 以及微通道空气进口速度 $V _ { \\mathrm { i n } } { = } 1 { \\sim } 7 ~ \\mathrm { m } / \\mathrm { s }$ 工况下微通道内气粒间的流动与传热过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过比较微通道内单个颗粒和无限大空间内单个颗粒与气体之间的换热特性，研究微通道受限空间对颗粒与气体之间换热特性的影响。图3给出了颗粒 $V _ { \\mathrm { i n } } { = } 3 \\mathrm { m } / \\mathrm { s }$ ， $\\scriptstyle { T _ { \\mathrm { p } } = 9 0 0 \\mathrm { K } }$ 工况下,颗粒表面平均传热 $N u$ 数随 $K n$ 数的变化情况。从图3可以看出，在考虑气体变物性条件下，置于无限大空间中单个颗粒表面平均传热 $N u$ 数随 $K n$ 的增大而减小。同样,微通道受限空间内颗粒表面平均传热 $N u$ 数也随Kn数的增大而减小，但是减小的幅度大于无限大空间单个颗粒情况。这是因为在 $K n$ 数较小 ( $\\mathrm { \\Delta } D _ { \\mathrm { P } }$ 较大)时，受限空间内空气流通面积较小，导致颗粒表面附近空气流速较大，因此会增强流动换热过程；而随$K n$ 数增大，受限空间对空气流速影响减弱，逐渐接近无限大空间内单个颗粒的情况，因此两种情况的颗粒表面平均传热 $N u$ 数也逐渐接近。图4给出了$K n { = } 0 . 0 5$ ， $V _ { \\mathrm { i n } } { = } 3 ~ \\mathrm { m } / \\mathrm { s }$ ， $\\scriptstyle { \\cal T } _ { \\mathrm { P } } = 9 0 0 \\mathrm { ~ K ~ }$ 工况下，无限大空间单个颗粒周围气体速度与温度分布。图5给出了$K n { = } 0 . 0 5$ ， $V _ { \\mathrm { i n } } { = } 3 ~ \\mathrm { m } / \\mathrm { s }$ ， $\\scriptstyle { \\cal T } _ { \\mathrm { P } } = 9 0 0 \\mathrm { ~ K ~ }$ 工况下，微通道受限空间内单个颗粒周围气体速度与温度分布。由图4(a）与图5(a）可以看出，由于微通道壁面的存在，颗粒周围气体在受限空间中的流速明显大于无限大空间内颗粒周围气体的流速，而空气流速的增加有利于颗粒与其周围气体间的换热过程。从图4(b）与图5(b）可观察到，由于受限空间中气体流速较快,能及时将热量带走，因此受限空间中颗粒周围气体温度低于无限大空间中颗粒周围气体温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/be9932914e7112c7b7060cfcc651420268540c0e7194d06bd942986b183076a5.jpg",
+        "img_caption": [
+            "图3受限空间对颗粒表面传热 $N u$ 数的影响 ( $V _ { \\mathrm { i n } } { = } 3$ ",
+            "Fig.3 The influence of confined space on average $N u$ number( $V _ { \\mathrm { i n } } { = } 3 ~ \\mathrm { m / s }$ ， ${ T _ { \\mathrm { p } } { = } 9 0 0 \\ \\mathrm { K } }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc82e4dab6dcb6804ca8eabcbc2b081da372217daf2acf412feb8860ba0deafa.jpg",
+        "img_caption": [
+            "Fig.4 Velocity and temperature distribution around micro particle in infinite space $K n { = } 0 . 0 5$ ， $V _ { \\mathrm { i n } } { = } 3 ~ \\mathrm { m / s }$ ， $\\scriptstyle { T _ { \\mathrm { p } } = 9 0 0 \\mathrm { ~ K ~ } }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步研究颗粒表面平均传热 $N u$ 数与颗粒直径 $( D _ { \\mathrm { P } } )$ 间的关系。图6给出了 ${ \\cal T } _ { \\mathrm { P } } { = } 7 0 0 \\mathrm { ~ K ~ }$ 工况下，颗粒表面平均传热 $N u$ 数随 $K n$ 数变化情况。一方面在空气变物性条件下，温度跳跃对传热削弱程度大于速度滑移增强程度，因此随着 $K n$ 数的增加颗粒表面平均传热 $N u$ 数减小。另一方面，由于本文中计算 $K n$ 数的特征尺寸取 $D _ { \\mathrm { P } }$ ，因此随着 $K n$ 数不断增大 ( $\\mathrm { \\Delta } D _ { \\mathrm { P } }$ 不断减小)，微通道内流体流通面积增大，相同微通道 $V _ { \\mathrm { i n } }$ 进口条件下，颗粒表面气体速度随之减小，因此颗粒表面传热减弱。综合以上两种因素， $K n$ 数增加将引起颗粒表面平均传热 $N u$ 数减小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "微通道 $V _ { \\mathrm { i n } }$ 会直接影响流经颗粒表面气体速度，而颗粒表面气体流速与其传热量密切相关。图7给出了 $K n { = } 0 . 0 3$ 和 $K n { = } 0 . 0 5$ 两种情况下微通道内颗粒表面平均传热 $N u$ 数随微通道 $V _ { \\mathrm { i n } }$ 的变化趋势。从图中可以看出，在相同颗粒表面温度条件下，由于进口速度的增加，流经颗粒表面气体的速度也随之增加，有利于换热。因此，随微通道 $V _ { \\mathrm { i n } }$ 不断增加，颗粒表面平均传热 $N u$ 数也随之增加。在图7中还可以观察到， $T _ { \\mathrm { P } }$ 较高时，颗粒表面平均传热 $N u$ 数随 $V _ { \\mathrm { i n } }$ 增加的幅度小于 $T _ { \\mathrm { P } }$ 较低的情况。这是因为 $T _ { \\mathrm { P } }$ 较高时，温度跳跃效应对传热的削弱作用也较强，因此增加 $V _ { \\mathrm { i n } }$ 并不能大幅度增强换热。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/de9729966843e9531466e1bf12d6a28d38e1c9318941dbc526f7298fa7c3cd11.jpg",
+        "img_caption": [
+            "图5微通道受限空间内颗粒周围速度与温度分布（ $K n { = } 0 . 0 5$ ， $V _ { \\mathrm { i n } } { = } 3 ~ \\mathrm { m / s }$ ， $\\begin{array} { r } { T _ { \\mathrm { p } } { = } 9 0 0 \\ \\mathrm { K } } \\end{array}$ 0"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1509c43f5f1b4d8fe82782e3a520e880b45da3b0260aa8cdf78bd7bfd53f27fc.jpg",
+        "img_caption": [
+            "图4无限大空间内颗粒周围速度与温度分布（ $K n { = } 0 . 0 5$ ， $V _ { \\mathrm { i n } } { = } 3 ~ \\mathrm { m / s }$ ， $\\begin{array} { r } { T _ { \\mathrm { p } } { = } 9 0 0 \\ \\mathrm { K } , } \\end{array}$ ",
+            "Fig.5 Velocity and temperature distribution around micro particle in a confined microchannel ( $K n { = } 0 . 0 5$ ， $V _ { \\mathrm { i n } } { = } 3$ $\\mathrm { m } / \\mathrm { s }$ ， $\\begin{array} { r } { T _ { \\mathrm { p } } { = } 9 0 0 \\ \\mathrm { K } } \\end{array}$ ） ",
+            "图6 $K n$ 数对颗粒表面传热 $N u$ 数的影响( $\\scriptstyle { T _ { \\mathrm { P } } = 7 0 0 \\mathrm { ~ K ~ } }$ 0 Fig.6Influence of $K n$ number on average $N u$ number ${ ' } T _ { \\mathrm { P } } { = } 7 0 0 \\ \\mathrm { K } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/81fc03f1cf89749224588ad86ded31130d7c49b241b14ddd74404e41cee1ac43.jpg",
+        "img_caption": [
+            "图7微通道进口速度（ $\\mathbf { \\zeta } ^ { V _ { \\mathrm { i n } } } )$ 对颗粒表面传热 $N u$ 数的影响 Fig.7Influence of inlet velocity on average Nu number "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气体的物性对颗粒与气体之间传热有重要影响，因此研究与空气物性密切相关的颗粒表面温度 $( T _ { \\mathrm { P } } )$ 对颗粒表面传热的影响具有重要意义。图8给出了$K n { = } 0 . 0 3$ 和 $K n { = } 0 . 0 5$ 两种情况下，颗粒表面平均传热 $N u$ 数随 $T _ { \\mathrm { P } }$ 的变化情况。随 $T _ { \\mathrm { P } }$ 增加，颗粒与流经颗粒表面空气间的温差增大，相应的温度梯度随之增大，温度跳跃效应也逐渐增强，传热热阻增大，不利于换热；而随着 $T _ { \\mathrm { P } }$ 增加，空气的导热系数也相应增大并有利于换热。上述两者存在的“竞争”的关系决定了最终的传热效果。由于温度跳跃效应对传热的削弱作用大于导热系数产生的增强作用，因此，随 $T _ { \\mathrm { P } }$ 的升高，颗粒表面平均换热 $N u$ 数减小。同时,在图8中还可以观察到，在 $T _ { \\mathrm { P } }$ 较低时，由于温度跳跃对传热的削弱作用有限，因此 $V _ { \\mathrm { i n } }$ 较大时的换热强度明显大于 $V _ { \\mathrm { i n } }$ 较小的换热强度，而随 $T _ { \\mathrm { P } }$ 逐渐升高时，由于温度跳跃对传热的削弱作用增强，各个$V _ { \\mathrm { i n } }$ 工况下的颗粒表面平均传热 $N u$ 数逐渐接近。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45243d7b7f8080b06eaaca87913a647342c815267be3538416c6fca0076a6ee6.jpg",
+        "img_caption": [
+            "图8颗粒表面温度 $( T _ { \\mathrm { P } } )$ 对颗粒表面传热Nu数的影响 Fig.8 Influence of particle surface temperature on average Nu number "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对微通道内气粒流动传热过程开展数值模拟研究，所建模型中气体处理为可压缩/变物性流体，并在颗粒表面以及微通道壁面处采用速度滑移和温度跳跃边界条件以考虑其滑移区微尺度效应。研究表明，受限空间对颗粒与空气间传热有明显影响，随着 $K n$ 数的增大 ( $\\mathrm { \\Delta } D _ { \\mathrm { P } }$ 的减小)，颗粒表面平均传热 $N u$ 数随之减小。同时，颗粒表面平均传热Nu数随微通道 $V _ { \\mathrm { i n } }$ 增加而增大，随颗粒 $T _ { \\mathrm { P } }$ 增大而减小。但相较 $D _ { \\mathrm { P } }$ ，微通道 $V _ { \\mathrm { i n } }$ 及 $T _ { \\mathrm { P } }$ 对颗粒表面平均传热 $N u$ 数影响较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Itoh A,Watanabe M,Habu H,et al.Micro Solid Propellant Thruster for SmallL Satellite [J].International Jour",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "nal of Energetic Materials and Chemical Propulsion,2009, 8(4):321-327   \n[2] Cheah K H,Chin J K.Performance Improvement on MEMS Micropropulsion System Through a Novel Twodepth Micronozzle Design [J].Acta Astronautica,2011, 69(1/2):59-70   \n[3]Lee J,Kim K,Kwon S.Design，Fabrication，and Testing of MEMS Solid Propellant Thruster Array Chip on Glass Wafer [J]. Sensors and Actuators A: Physical, 2010, 157(1): 126-134   \n[4] Tsuji Y.Multi-scale Modeling of Dense Phase Gas-particle Flow [J].Chemical Engineering Science，2007,62(13): 3410-3418   \n[5] Barber R W, Sun Y,Gu X J,et al. Isothermal Slip Flow over Curved Surfaces [J].Vacuum,2004,76(1):73-81   \n[6] Mohajer B,Aliakbar V,Shams M,et al.Heat Transfer Analysis of a Microspherical Particle in the Slip FlowRegime by Considering Variable Properties [J].Heat Transfer Engineering,2015,36(6):596-610   \n[7]Kishore N,Ramteke RR.Forced Convective Heat Transfer from Spheres to Newtonian Fluids in Steady Axisymmetric Flow Regime with Velocity Slip at Fluid-solid Interface [J]. International Journal of Thermal Sciences, 2016,105(1):206-217   \n[8] 陶然,权晓波，,徐建中.微尺度流动研究中的几个问题[J].工 程热物理学报，2001,22(5)：575-577 TAORan,QUANXiaobo,XUJianzhong.Several problems in Research of Micro-scale Flows [J].Journal of Engineering Thermophysics,2001,22(5):575-577   \n[9] Cai C, Sun Q. Near Continuum Flows over a Sphere [J]. Computers & Fluids,2015,111(16):62-68   \n[10]Afshar H,Shams M,Nainian S MM,et al.Microchannel Heat Transfer and Dispersion of Nanoparticles in Slip Flow Regime with Constant Heat Flux [J].International Communications in Heat and Mass Transfer,20o9,36(10): 1060-1066   \n[11]Barron R F,Wang X,Ameel T A,et al．The Graetz Problem Extended to Slip-flow[J].International Journal of Heat and Mass Transfer,1997,40(8):1817-1823   \n[12]Tian Z-W,Zou C,Liu H-J,et al. Lattice Boltzmann Scheme for Simulating Thermal Micro-flow [J].Physical A:Statistical Mechanics and its Applications，2007, 385(1):59-68 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

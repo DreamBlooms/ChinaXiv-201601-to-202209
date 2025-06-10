@@ -1,0 +1,525 @@
+[
+    {
+        "type": "text",
+        "text": "Synthesis and characterization of novel 4-phenylpyridine unit based alkaline anion exchange membranest ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Di Lu,ab Lele Wen\\*ac and Lixin Xue\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For exploring more types of suitable polymeric membranes for application in alkaline fuel cels (AFCs), aseries of 1,2-dimethylimidazolium functionalized poly(arylene ether sulfone)s containing 4-phenylpyridine units in the main chain (named as DIm-PPYPAES) were firstly synthesized as anion exchange membranes (AEMs) in this work.Proton nuclear magnetic resonance $( { } ^ { 1 } \\mathsf { H } \\mathsf { N M R } )$ and Fourier transform infrared(FT-IR) spectroscopy were employed to characterize and confirm the chemical structure of the synthesized copolymers and the derived membranes.The DIm-PPYPAES membranes with different ionized levels ranging from 1.15 meq. ${ \\mathfrak { g } } ^ { - 1 }$ to 1.77 meq. ${ \\mathfrak { g } } ^ { - 1 } .$ ，exhibited good thermal stability，solubility behaviorand a relatively high level of hydroxide conductivity.The highest hydroxide conductivity of $8 3 . 3 5 ~ { \\mathsf { m } } { \\mathsf { S } } ~ { \\mathsf { c m } } ^ { - 1 }$ at $8 0 ~ ^ { \\circ } \\mathsf { C }$ Was achieved for the DIm-PPYPAES-4 membrane with a moderate IEC of 1.77 meq. ${ \\mathfrak { g } } ^ { - 1 }$ .Moreover,after15 days of treatment witha 2MNaOH solutionat $6 0 ~ ^ { \\circ } C ,$ the DIm-PPYPAES membrane stillexhibited relatively high ionic conductivity even above $1 0 \\ m \\mathsf { S } \\mathsf { c m } ^ { - 1 }$ at $3 0 ^ { \\circ } \\mathsf C$ and retained their integrated shapes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymer electrolyte fuel cells (PEFCs) have attracted considerable attention due to their high energy efficiency,relatively low operation temperature and low cost.1,² As is well known, the polymer electrolyte membrane is critical for the performance of the whole cell system,which not only separates the fuel,but also transports ions to complete the electrical circuit.At present, as one type of polymer electrolyte membrane,the proton electro lyte membranes (PEMs) based on perfluorinated ionomers, such asNafion $\\textsuperscript { \\textregistered }$ ,are representative membranes and have been greatly developed.However， the large-scale application of proton electrolyte membrane fuel cells (PEMFCs) isstill hindered by the high production cost of membranes and precious metal catalysts (Pt).³ As one class of alternative polymer electrolyte fuel cells,anion exchange membrane fuel cells (AEMFCs) exhibit potential advantages,including faster oxygen reduction reaction kinetics and employment of nonprecious metal catalysts (Ni，Co) in AEMFCs.More importantly,perfluorinated polymer-based PEMs could be replaced by aseries of non/partially fluorinated polymer-based anion exchange membranes (AEMs) in fuel cells.These merits significantly enhance the cell efficiency and reduce the production cost of the fuel cell. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In general, the benchmark ofAEMs for practical application in fuel cells should possess suficiently high ionic conductivity $( > 1 0 ~ \\mathrm { ~ m S ~ } \\ \\mathrm { c m } ^ { - 1 } )$ ，high dimensional stability as well as good durability under harsh operating conditions (high pH and elevated temperature environment).4,5 In recent years,the stateof-the-art AEM materials are mainly focused on the develop ment of various types of polymer backbones,such as poly(- styrene)s,67poly(phenyleneoxide)s,8-12poly(phenylene)s,13 polybenzimidazoles,14 poly(arylene ether sulfone),15-19 poly(- arylene ether ketone)s, and so forth.To increase the ionic conductivity,a common strategy used is via increasing the ion exchange capacity (IEC) of the membranes.However,it has been reported that an over-high IEC value usually causes poor dimensional stability,whichis disadvantageous to the lifespan of the membranes.21 To restrict the swelling of polymeric membranes,the self-crosslinking route is an effective solution at the expense of the solubility of the membranes in organic solvents.22,23 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to enhance the ionic conductivity of AEMs with areasonable ionic level, very recently, Zhuang et al.and other researchersadopted the strategy of self-aggregation to achieve high ionic conductivity by introducing long and hydrophobic side chains onto the polymer backbones.11,12,21,24 Due to the flexibility of the side chains,long alkyl chains give rise to the loose and random stack of polymer chains,which facilitate the self-aggregation of ionic clusters.In addition to the introduction of alkyl side chains onto the polymers,employing the rigid multi-aromatic monomers pendant with bulky groups is another effective way to increase the free volume of polymeric chains,which might enhance the impact of self-aggregating.25 Althougha variety of examples have been reported,mostof the aromatic moieties,including fluorene,26-3o phenolphthalein (PPH),31,32 tetraphenyl methane33,34 as well as phthalazinone,35,36 were incorporated as hydrophilic segments in the membranes. Besides the aforementioned aromatic scaffolds,itis noteworthy that the pyridine ring pendant with an aromatic analogue is a class of good candidates to constitute polymer backbones, which could also intensify the effect of the self-aggregating and improve the $\\mathrm { O H } ^ { - }$ conducting efficiency.Meanwhile,it is well known that the incorporation of a pyridine moiety in the polymerbackbone is advantageous to the improvement of thermal stability,chemical stability,processability and retention of the mechanical property of the resulting polymer to some extent.37,38 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein,we report on the synthesis and characterization of a new class of anion exchange membranes based on the poly(- arylene ether sulfone)s containing 4-phenyl-pyridine unit in the main chain. Novel 4-phenyl-2,6-bis(4-hydrophenyl)pyridine (PPY) was synthesized as one of the monomers to constitute thehydrophobic segments of the copolymer.Considering that the 1,2-dimethylimidazolium group possesses good chemical stability because of its steric effect,the 1,2-dimethylimidazolium ring is utilized as a pendant ionic group to form the hydrophilic domains of the membranes.39 For comparison of the performance of this class of AEMs,one kind of1,2-dimethylimidazolium functionalized membrane without the PPY unit (DIm-PSF) as a known comparison was prepared as well.A comprehensive study on the properties of the membranes, including thermal stability，the mechanical property，ion exchange capacity,water uptake and dimensional stability,as well as chemical stability under alkaline conditions were investigated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$4 ^ { \\prime }$ -Hydroxyacetophenone( $9 8 \\%$ ，Aladdin，China), $^ { 4 , 4 ^ { \\prime } }$ -biphenol $9 8 \\%$ ,Aladdin,China),benzaldehyde $( > 9 9 \\%$ ,Aladdin,China), ammonium acetate (AR，Aladdin，China)，acetate $( > 9 9 \\%$ Aladdin, China),2,2-bis(4-hydroxy-3,5-dimethylphenyl)propane (HDPP) $9 8 \\%$ ，TCI,Japan)，bis(4-fluorophenyl) sulfone (FPS) $( 9 9 \\%$ ,TCI,Japan),potassium carbonate ( $9 9 \\%$ ,Aladdin,China), benzoyl peroxide (BPO) $( 9 9 \\%$ ,Aladdin,China), $N \\mathrm { . }$ -bromosuccinimide (NBS) $9 9 \\%$ ，Aladdin，China)，1,2-dimethylimidazole $( 9 8 \\%$ ，Aladdin，China） and tetramethylene sulfone（ $9 8 \\%$ 0 Aladdin, China) were used as received.Toluene $9 9 \\%$ ,Aladdin, China） and $N , N \\mathrm { . }$ dimethylacetamide (DMAc)( $9 8 \\%$ ，Aladdin, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China) were dried by refluxing over $\\mathrm { C a H } _ { 2 }$ .All other chemicals were purchased from Sinopharm Chemical Reagent Co.and used without further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Preparation of the DIm-PPYPAES membranes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Synthesis of monomer 4-phenyl-2,6-bis(4- hydrophenyl)pyridine (PPY).Monomer PPY was synthesized according to the modified Chichibabin pyridine synthesis method.9 To a $2 5 0 ~ \\mathrm { \\ m L }$ three necked flask was added 4- hydroxyacetophenone $( 4 1 . 4 ~ \\mathrm { g } , 0 . 3 ~ \\mathrm { m o l } )$ ,benzaldehyde( $( 1 5 . 9 ~ \\mathrm { g }$ $0 . 1 5 \\mathrm { \\ m o l } _ { \\cdot } ^ { \\cdot }$ ,ammonium acetate (92 g) and glacial acetic acid $\\mathrm { 2 0 0 m L } )$ .Themixture was heated at $1 2 0 ^ { \\circ } \\mathrm { C }$ with stirring under Ar atmosphere for $^ \\textrm { \\scriptsize 5 h }$ .Then the resulting red solution was cooled to room temperature and poured into $5 0 0 ~ \\mathrm { \\ m L }$ of deionized water, forming a pale yellow viscous solid.Afterwards，the crude product was dissolved in a $1 0 \\%$ NaOH aqueous solution,and the insoluble solid was filtered off and excess of glacial acetic acid was added dropwise to this alkaline solution until no more yellow precipitate formed.The pure monomer compound was obtained after recrystallization (ethyl acetate/petroleum ether) and drying at $5 0 ~ ^ { \\circ } \\mathbf { C }$ under vacuum as a pale yellow powder (yield: $7 2 \\%$ ).Thedesired monomer was confirmed by ${ } ^ { 1 } \\mathrm { H }$ NMR spectroscopy (Fig.S1t). ${ } ^ { 1 } \\mathrm { H }$ NMR ( $4 0 0 ~ \\mathrm { { M H z } }$ ,DMSO ${ \\bf d } _ { 6 }$ ） $\\delta 9 . 7 4$ (s,2H),8.15 (d, $4 \\mathrm { H } , J =$ $8 . 0 \\mathrm { H z } \\cdot$ ,7.97 (d, $2 \\mathrm { H } , J = 8 . 0 \\mathrm { H z }$ ,7.95 (s,2H),7.54 (m,3H),6.90 (d,4H, $J = 8 . 0 ~ \\mathrm { H z }$ ).The reaction procedure isillustrated in Scheme 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Synthesis of poly(arylene ether sulfone)s containing 4-phenyl-pyridineunit (PPYPAES).The typical procedure for the synthesis of the PPYPAES polymer is as follows.The PPY monomer $\\left. { 1 . 1 8 7 9 ~ g , ~ } 3 . 5 ~ \\mathrm { m m o l } \\right)$ ，HDPP（ $\\cdot 9 9 5 . 4 \\mathrm { ~ m g } , 3 . 5 \\mathrm { ~ m m o l } )$ FPS $\\left( 1 . 7 7 9 8 ~ \\mathrm { g } , 7 ~ \\mathrm { m m o l } \\right)$ ，potassium carbonate $( 2 . 4 1 8 5 \\mathrm { ~ g } , \\ 1 7 . 5 \\$ mmol),tetramethylene sulfone $( 1 3 \\mathrm { \\ m L } )$ and toluene $( 1 5 \\ \\mathrm { m L } )$ （204号 wereplacedintoa $1 0 0 ~ \\mathrm { { m L } }$ three-necked roundbottom flask equipped with a Dean-Stark trap,a condenser,a mechanic stirrer and a gas inlet and outlet.The reaction mixture was carried out at $1 5 0 ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ under nitrogen flow to remove the water in the solution.Then the temperature was raised to $2 1 0 ^ { \\circ } \\mathrm { C }$ for $^ \\mathrm { ~ 3 ~ h ~ }$ to yield a viscous brown mixture.The mixture was poured into $2 0 0 ~ \\mathrm { { m L } }$ ofaqueous methanol (methanol/deionized water $= 1 / 1 \\AA$ ）to produce an off-white resin.The as-prepared copolymer PPYPAES,which represents the 4-phenyl-pyridine (PPY) moiety containing the poly(arylene ether sulfone)s (PAES) polymer，was obtained $\\left( 3 . 7 5 \\mathrm { \\textrm { g } } \\right)$ after washing with deionized waterand methanol several times,and thendried in vacuo at $7 0 ~ ^ { \\circ } \\mathbf { C }$ overnight. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ab3217270f02e811d5f801cc9da124ab06a6a4c23d5f4847b02aee91f018ebb.jpg",
+        "img_caption": [
+            "Scheme 1 Synthesis of 4-phenyl-2,6-bis(4-hydrophenyl)pyridine (PPY) monomer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3BrominationofPPYPAES.The radicalbromination reaction of the benzyl methyl-bearing PPYPAES was carried out in 1,1,2,2-tetrachloroethane (TCE)using NBS and benzoyl peroxide as the bromination agent and initiator,respectively.A typical procedure for the preparation of B-PPYPAES is as follows.Firstly, $1 . 5 \\ : \\mathrm { g }$ of PPYPAES and $3 0 ~ \\mathrm { m L }$ of TCE were added to a $1 0 0 ~ \\mathrm { { m L } }$ three-necked round bottomed flask and heated to $8 0 ~ ^ { \\circ } \\mathbf { C }$ under nitrogen atmosphere,followed by addition of NBS L $\\mathrm { \\Delta } ^ { \\mathrm { \\prime } } 8 0 1 \\mathrm { \\ m g }$ ，4.5 mmol) and BPO $\\left( 5 5 ~ \\mathrm { m g } , 0 . 2 2 5 ~ \\mathrm { m m o l } \\right)$ to the reaction solution after the polymer completely dissolved.The reaction mixture was stirred at $8 0 ~ ^ { \\circ } \\mathbf { C }$ for $^ { 6 \\mathrm { ~ h ~ } }$ ,andthen, the solution was cooled to room temperature and poured into $2 0 0 ~ \\mathrm { { m L } }$ of methanol solution to give a white fibrous precipitate.The brominated product B-PPYPAES (where B refers to the brominated compound) was collected $\\left( 1 . 3 5 \\mathrm { ~ g } \\right)$ after filtration and drying in vacuo at $7 0 ~ ^ { \\circ } \\mathbf { C }$ overnight. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4Fabrication of the membranes.The typical procedure for the quaternization of B-PPYPAES is as follows.B PPYPAES(0.5 g) was dissolved in DMAc (5.0 g) to form a 9 $\\mathbf { w t \\% }$ solution;after the polymer was dissolved completely,1,2- dimethylimidazole $\\left( 2 0 0 ~ \\mathrm { m g } \\right)$ was added to the solution,and the reaction mixture was heated at $5 0 ~ ^ { \\circ } \\mathrm { C }$ overnight.The mixture was casted onto a clean and smooth glass plate at 60 ${ } ^ { \\circ } \\mathbf { C }$ for $^ { 2 4 \\mathrm { ~ h ~ } }$ to produce the $\\mathbf { B } \\mathbf { r } ^ { - }$ form AEM.The as-prepared membrane was immersed into a $1 \\mathrm { ~ M ~ N a O H }$ aqueous solution at $2 5 ~ ^ { \\circ } \\mathbf { C }$ for $^ { 4 8 \\mathrm { ~ h ~ } }$ to process the hydroxide exchange completely to yield thedesired $\\mathrm { O H } ^ { - }$ form membrane named as DIm-PPYPAES- $X$ with the thickness of $4 0 { - } 8 0 ~ { \\mu \\mathrm { m } }$ .Herein, DIm refers to the 1,2-dimethylimidazolium functionalized membranes and $X$ represents the number of $1 / 2 / 3 / 4$ respectively with the increase of ion exchange capacity (IEC) of the membranes.The obtained $\\mathrm { \\ o o H ^ { - } }$ form membrane was washed with deionized water for several times and kept in deionized water before use.The total synthetic route for DIm-PPYPAES ionomers is illustrated in Scheme 2.The detailed synthetic route and characterization spectra of the DIm-PSF membrane are shown in ESI $^ { \\dagger }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Characterization of the DIm-PPYPAES membranes ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 ${ \\bf \\sigma } ^ { \\mathbf { 1 } } { \\bf { \\mathit { H } } }$ NMR and FT-IR spectroscopy. ${ } ^ { 1 } \\mathrm { H }$ NMR spectra were recorded on a $4 0 0 ~ \\mathrm { { M H z } }$ spectrometer (Bruker) using tetramethylsilane as the internal standard.Deuterated dimethyl sulfoxide $\\left( \\mathrm { D M S O - d } _ { 6 } \\right)$ ）or deuterated chloroform $\\left( \\mathrm { C D C l } _ { 3 } \\right)$ was used as the solvent.FT-IR spectra of the samples were analyzed in the range of $4 0 0 0 { \\cdot } 4 0 0 \\ \\mathrm { c m } ^ { - 1 }$ by using a Thermo-Nicolet 6700 spectrometer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2Thermal stability. Thermogravimetric analyzer (Mettler Toledo TGA/DSC1） was used to evaluate the thermal stability in the temperature range $5 0 { - } 6 0 0 \\ { ^ { \\circ } } \\mathbf { C }$ ata heating rate of $2 0 \\ ^ { \\circ } \\mathbf { C } \\ \\operatorname* { m i n } ^ { - 1 }$ under a ${ \\bf N } _ { 2 }$ atmosphere.Differential scanning calorimetry (DsC) was performed to determine the glass transition temperature $\\left( T _ { \\mathrm { g } } \\right)$ of the samples using a DSC Q2000 analyzer from TA Instruments.DSC heating/cooling/heating temperature was from $5 0 ~ ^ { \\circ } \\mathrm { C }$ to $2 8 0 ~ ^ { \\circ } \\mathrm { C }$ ，however，the data recorded and $T _ { \\mathrm { g } }$ was determined from the second heating cycle to eliminate the thermodynamic history. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Mechanical property. The mechanical properties of thePPYPAES resin,the DIm-PPYPAES- $_ { 1 / 2 / 3 / 4 }$ membranes and the DIm-PSF membrane were studied using a universal testing machine (Instron 5567 testing system) with a crosshead speed of $1 0 \\ \\mathrm { m m } \\ \\mathrm { m i n } ^ { - 1 }$ at room temperature and $4 0 \\%$ RH. A $1 0 ~ \\mathrm { m m }$ wide membrane was kept in deionized water at $2 5 ~ ^ { \\circ } \\mathbf { C }$ overnight and was taken out to remove the surface water using a tissue before the measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Water uptake and swelling ratio.The water uptake of the membrane was measured by immersing the membrane sample in deionized water at $3 0 { } ^ { \\circ } \\mathbf { C }$ (or $6 0 ~ ^ { \\circ } \\mathbf { C } )$ for $2 4 \\mathrm { h }$ .Then,the membrane was taken out,and the excess water on the surface was wiped out by using absorbent paper and weighed immediately.Afterwards,themembranewasdriedinvacuo at $6 0 ~ ^ { \\circ } \\mathrm { C }$ for at least $^ { 4 8 \\mathrm { h } }$ ,and the membrane was weighed again until the weight wasinvariable. The water uptake was calculated according to the following equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W U ( \\% ) } = \\frac { M _ { \\mathrm { w e t } } - M _ { \\mathrm { d r y } } } { M _ { \\mathrm { d r y } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { \\mathrm { w e t } }$ and $M _ { \\mathrm { d r y } }$ are the mass of the membrane in the wet and dry states,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dimensional change of the membranes was evaluated by measuring the swelling ratio,and the changes of both through plane and in-plane directions were calculated by using the following equations: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S R } _ { \\mathrm { i \\mathrm { - } p } } ( \\% ) = \\frac { L _ { \\mathrm { w e t } } \\times W _ { \\mathrm { w e t } } - L _ { \\mathrm { d r y } } \\times W _ { \\mathrm { d r y } } } { L _ { \\mathrm { d r y } } \\times W _ { \\mathrm { d r y } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S R } _ { \\mathrm { t - p } } ( \\% ) = \\frac { T _ { \\mathrm { w e t } } - T _ { \\mathrm { d r y } } } { T _ { \\mathrm { d r y } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { S R } _ { \\mathrm { t - p } }$ and $\\mathbf { S R } _ { \\mathrm { i - p } }$ refer to changes of through-plane and inplane directions,respectively; Lwet, $W _ { \\mathrm { w e t } }$ and $T _ { \\mathrm { w e t } }$ are the length, width and thickness of the wet membranes,respectively,and $L _ { \\mathrm { d r y } } ,$ ， $W _ { \\mathrm { d r y } }$ and $T _ { \\mathrm { d r y } }$ are the length,width and thickness of the dried membranes,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.5Ion exchange capacity (IEC).To obtain the measured IEC value, the $\\mathbf { B } \\mathbf { r } ^ { - }$ form AEMwas immersed in $2 5 ~ \\mathrm { m L }$ ofa $^ { 1 \\mathbf { M } }$ ${ \\bf N a N O } _ { 3 }$ solution for $^ { 4 8 \\mathrm { ~ h ~ } }$ at $2 5 ~ ^ { \\circ } \\mathbf { C }$ to undergo the complete ionic exchange process.Afterwards,the solution was titrated with a $0 . 1 \\mathrm { ~ M ~ A g N O } _ { 3 }$ standard solution and $\\mathrm { K _ { 2 } C r O _ { 4 } } \\left( 5 \\mathrm { \\ w t { \\% } } \\right)$ was used as a colorimetric indicator. The IEC (meq. $\\begin{array} { r } { \\mathbf { g } ^ { - \\mathbf { 1 } } , } \\end{array}$ ）was calculated using the following equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I E C ( m e q . ~ \\ g ^ { - 1 } ) } = \\frac { V _ { \\mathrm { A g N O _ { 3 } } } \\times C _ { \\mathrm { A g N O _ { 3 } } } } { M _ { \\mathrm { d r y } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { \\mathrm { A g N O _ { 3 } } }$ is the volume of the consumed ${ \\bf A g N O } _ { 3 }$ solution, $C _ { \\mathrm { A g N O _ { 3 } } }$ is the concentration of the ${ \\bf A g N O } _ { 3 }$ solution,and $M _ { \\mathrm { d r y } }$ is the weight of the dry membrane,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.6Hydroxide conductivity. The ionic conductivities of the $\\mathrm { O H } ^ { - }$ form membrane samples were determined via AC impedance spectroscopy with Zehner electrochemical equip ment (Germany) in a frequency ranging from $0 . 1 \\mathrm { H z }$ to $1 0 0 \\mathrm { k H z }$ The area resistance $( R )$ of anion exchange membrane was measured at a Zehner electrochemistry working station by the two-probe method in deionized water. The ionic conductivity $\\sigma$ $( \\mathrm { { s \\ c m } ^ { - 1 } } )$ of the membrane sample was calculated using the following equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cb4b69bc9ef1c96b6bb46a5914424e5b626e785339cb65bca979e268828f317.jpg",
+        "img_caption": [
+            "Scheme2 Synthesis of PPYPAES,B-PPYPAES and DIm-PPYPAES samples. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( \\mathrm { S } \\ \\mathrm { c m } ^ { - 1 } ) = \\frac { L } { R \\times A }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the distance between the two electrodes (cm), $R$ is the resistance of membrane (Ω),Ais the area of the cross-section $( \\mathrm { c m } ^ { 2 } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.7Alkaline stability.The alkaline stability of the membranes was evaluated by soaking the membranes ina 2 M NaOH solution at $6 0 ~ ^ { \\circ } \\mathbf { C }$ for5,10 and15 days.The degra dation degree of the AEMs was studied by measuring the changes of hydroxide conductivity and the IEC value.For measuring the IEC value,after 5,10,15 days of immersion under alkaline aqueous conditions at $6 0 ~ ^ { \\circ } \\mathbf { C }$ ，some pieces of the membranes were washed with deionized water and immersed into a $^ { 1 \\mathbf { M } }$ NaBr solution at $2 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 8 \\mathrm { h } }$ to process the $\\mathbf { B } \\mathbf { r } ^ { - }$ exchange completely. Subsequently removing the excess salt via being immersed,the $\\mathbf { B } \\mathbf { r } ^ { - }$ form membranes in deionized water for $^ { 4 8 \\mathrm { ~ h ~ } }$ before measurement of the IEC value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Synthesisandcharacterizationof thePPYPAES resinand theDIm-PPYPAES membranes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The synthetic route for the DIm-PPYPAES membranes is shown in Scheme 2.We utilized the equivalent mole ratio of 2,2-bis (4-hydroxy-3,5-dimethylphenyl)propane (HDPP) and 4-phenyl2,6-bis(4-hydrophenyl)pyridine(PPY)monomerstoyield a random copolymer containing the 4-phenyl-pyridine moiety in the main chain.After radical bromination and subsequent functionalization with 1,2-dimethylimidazolium，a serials of flexible,ductile and transparent membranes could be obtained by casting the solution of DIm-PPYPAES in the DMAc onto a smooth and clean glass plate at $6 0 ~ ^ { \\circ } \\mathrm { C }$ ，Immersing the $\\mathbf { B } \\mathbf { r } ^ { - }$ form membranes into a $1 \\mathrm { M N a O H }$ aqueous solution for $^ { 4 8 \\mathrm { ~ h ~ } }$ to yieldthe desired $\\mathrm { \\ o { O H } ^ { - } }$ formDIm-PPYPAES membranes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 1HNMR and FT-IR spectroscopy ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1a shows the ${ } ^ { 1 } \\mathrm { H }$ NMR spectrum of the synthesized resin. All the protons on the polymer backbone and their corre sponding signals in the spectrum were identified in detail. The strong single peak at $2 . 0 \\mathrm { p p m }$ was the typical signal of the benzyl moiety without any substituents.The clear signal at 8.2 ppm was ascribed to the protons of phenyl that attached to the ortho position of the pyridine ring，indicating the successful construction of the expected polymer backbone.In addition,the multi-peaks at around 7.9 ppm were partially attributed to the protons of the phenyl ring at the ortho position of the sulfone group,and the others were the signal of the protons at the meta position of pyridine.After the radical bromination reaction,it can be seen fromFig.1b that the typical peak of the bromo-benzyl group appeared at 4.2 ppm,indicating that the bromination reaction was processed successfully. In Fig.1c, the broad peak at $5 . 2 ~ \\mathrm { p p m }$ responded to the changes of methylene after the substitution of bromo atom by the 1,2-dimethylimidazolium group.Meanwhile, both peaks appeared at $3 . 5 ~ \\mathrm { p p m }$ and $2 . 4 ~ \\mathrm { p p m }$ ，which could also indirectly demonstrate the successful introduction of the pendant ionic group.Moreover,Fourier transform infrared (FT-IR) spectroscopy was also employed to further identify the structure of the prepared membranes (Fig.S2t).The peaks at $1 5 8 0 ~ \\mathrm { c m } ^ { - 1 }$ were attributed to the vibrational mode of the imidazolium ring.Absorption peaks at $1 2 4 0 ~ \\mathrm { { c m } ^ { - 1 } }$ confirmed the existence of aryl ethers.Compared with the spectra of the PPYPAES and the B-PPYPAES samples,a broad and strong peak at around $3 3 8 2 ~ \\mathrm { c m } ^ { - 1 }$ was ascribed to the stretching vibration of the hydroxyl group，indicating the successful exchange of the $\\mathbf { B } \\mathbf { r } ^ { - }$ ion to the $\\mathrm { O H } ^ { - }$ ion.The chemical structure of the DIm-PSF membrane was confirmed by the ${ } ^ { 1 } \\mathrm { H }$ NMR spectrum as shown in Fig. S4.† ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/82583158a0926e2ead4585b43b1a3c7666e6ad3cece0eb5f61f3df0262dde7f5.jpg",
+        "img_caption": [
+            "Fig.1 $^ { 1 } { \\mathsf { H N M R } }$ spectra of (a) PPYPAES in ${ \\mathsf { C D C l } } _ { 3 } ,$ (b) B-PPYPAES in $C D C \\mathsf { l } _ { 3 }$ and (c) DIm-PPYPAES in DMSO-d6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Thermal stability ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The thermal stability of the PPYPAES copolymer and the DImPPYPAES membranes in the $\\mathbf { B } \\mathbf { r } ^ { - }$ form was evaluated by using thermogravimetric analysis (TGA).The TGA curves were recorded from $5 0 ^ { \\circ } \\mathbf { C }$ to $8 0 0 ^ { \\circ } \\mathbf { C }$ under ${ \\bf N } _ { 2 }$ flow at a heating rate of $2 0 { } ^ { \\circ } \\mathbf { C }$ $\\mathrm { m i n } ^ { - 1 }$ .As shown in Fig.2,for the PPYPAES copolymer,one sharp weight loss process occurred at around $4 2 0 \\ { } ^ { \\circ } \\mathrm { C } ;$ this value represents the degradation temperature of the PPYPAES backbone.Moreover,every DIm-PPYPAES membrane demonstrated a typical and obvious three stages of weight loss,respectively. The first weight loss was less than $5 \\%$ below $1 5 0 ^ { \\circ } \\mathrm { C }$ ，probably due to the evaporation of the water molecules in the membrane. The second stage of weight loss was initiated from $2 8 0 ~ ^ { \\circ } \\mathrm { C }$ ,and the decomposition of the pendant 1,2-dimethylimidazolium groups could explain this weight loss stage.The degradation of the polymer backbone that occurred above $4 1 0 ^ { \\circ } \\mathrm { C }$ was the only reason for the third stage of dramatic weight loss.These results firmly indicated that the as-prepared DIm-PPYPAES membranes possess sufficient thermal stability for practical application in fuel cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e712bdbab6d26224fe7af246536ead7f013b22e5aad372e6ba805baa222e058.jpg",
+        "img_caption": [
+            "Fig.2TGA curves of the PSF and the PPYPAES polymer and the DlmPPYPAES-1/2/3/4 membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the glass transition temperature $T _ { \\mathrm { g } }$ of the PPYPAES resins and the PPYPAES derived membranes.For every sample,only one $T _ { \\mathrm { g } }$ was observed in the whole temperature range.The $T _ { \\mathrm { g } }$ of the PPYPAES polymer was $2 3 0 . 6 \\ ^ { \\circ } \\mathrm { C }$ ，with the increase of ionic groups on per repeating unit (IEC), the $T _ { \\mathrm { g } }$ of the membranes (in $\\mathbf { B } \\mathbf { r } ^ { - }$ form) exhibited a slight increasing trend from $2 3 5 . 4 ^ { \\circ } \\mathrm { C }$ to $2 4 3 . 2 \\ ^ { \\circ } \\mathrm { C } .$ .This finding indicated that with the increased introduction of rigid 1,2-dimethylimidazolium groups into the polymer，a stronger interaction between pendant ionic groups was benefited，which might further hinder the movement of polymer chains and elevate the $T _ { \\mathrm { g } } ,$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition,for a comprehensive evaluation of the effect of the introduction of the PPY unit into the polymeric backbone, the thermal behavior of the PSF copolymer without the PPY unit was investigated as well.It can be seen from Fig.2 and 3 that the degradation temperature and glass transition temperature of the PSF polymer was $4 1 0 ~ ^ { \\circ } \\mathrm { C }$ and $2 2 6 . 5 \\ ^ { \\circ } \\mathrm { C }$ ,respectively,which were slightly lower than those of the PPYPAES resin.This result implied that the incorporation of the 4-phenyl-pyridine moiety enhanced the thermal stability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4Mechanical property and solubility behavior ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mechanical properties and corresponding experimental errorsof thePPYPAES,DIm-PPYPAESandDIm-PSFmembranes are summarized in Table 1.These samples exhibited values of tensile stress in the range of $2 1 . 1 { - } 4 6 . 2 \\ \\mathrm { M P a }$ ,and elongation at the break ranging from $5 . 4 \\%$ to $1 5 . 2 \\%$ at $4 0 \\%$ RH.Furthermore, the tensile stress of the membranes was enhanced with increasing IEC value.The mechanical results of the produced membranes were tough enough for potential use as AEM materials. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f9be7def02704ede5ed93ed704417dd7991401e77f0f52fe5a5b0ee00d711e4.jpg",
+        "img_caption": [
+            "Fig.3DSC curves of the PSF and the PPYPAES copolymers and the Dlm-PPYPAES-1/2/3/4 membranes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the solubility behaviorof the PPYPAES,DImPPYPAES and DIm-PSF samples in various organic solvents and deionized water.It can be seen that the PPYPAES resin was well soluble in most of aprotic solvents,such as DMF, $\\mathbf { C H } _ { 2 } \\mathbf { C l } _ { 2 }$ $\\mathrm { C H C l } _ { 3 }$ ，THF and DMAc,etc.while both AEMs were soluble in aprotic polar solvents.The good solubility of PPYPAES in these organic solvents might facilitate the wider application of the synthesized polymers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5 Morphology of the membranes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the $\\mathrm { \\ o o H ^ { - } }$ form DIm-PPYPAES membranes was examined by employing atomic force microscopy (AFM) and scanning electron microscopy (SEM).Fig.4 shows the AFM phase images of the DIm-PPYPAES-1 and DIm-PPYPAES-4 membranes. The clear hydrophobic-hydrophilic domain separation could be observed in the two phase images probably due to the incorporation of the 4-phenyl-pyridine moieties as the hydrophobic rigid side chains,enhancing the self-aggregated influenceon the different ionic clusters. Meanwhile, compared with the DIm-PPYPAES-1 membrane with an IECof 1.15 meq. $\\mathrm { g } ^ { - 1 }$ ,the DIm-PPYPAES-4 membrane with a higher IEC of 1.77 meq. $\\mathrm { g } ^ { - 1 }$ exhibited larger hydrophilic domains (dark region),mainly composed of water molecules and 1,2-dimethylimidazolium clusters,facilitating the formation of interconnected nanostructured channels. Combining the DSC results as shown in Fig.3,we can see that with the introduction of the PPY unit and an increase of pendant1,2-dimethylimidazolium salts,the interaction between different polymeric chains was strengthened.This would greatly facilitate the aggregation of ionic clusters and formation of efficient ionic channels,which was beneficial to the ionic conductivity. Furthermore,the morphology of the surface and cross-section of the membrane examined by the SEM technique are shown in Fig. ${ \\bf 5 6 . \\dagger }$ A uniform，compact and smooth surface and a thickness value of approximately $4 0 ~ { \\mu \\mathrm { m } }$ of the membrane could be clearly observed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.6Ionic conductivity,water uptake and dimensional stability ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "High hydroxide conductivity is always a key and required property for the alkaline anion exchange membranes. The conductivities of the DIm-PPYPAES membranes in $\\mathrm { O H } ^ { - }$ form were measured under fully hydrated conditions,and the curves are shown in Fig.5.We can see that the hydroxide conductivitiesincreased gradually with increasing temperature. In general, the membrane with relatively high IEC is beneficial for obtaining good hydroxide conductivity. For example, the DImPPYPAES-4 membrane with an IEC value of 1.77 meq. $\\mathrm { g } ^ { - 1 }$ showed a higherlevel of ionic conductivity than those of the other three membraneswith lower IEC values,achieving 33.33 $\\mathrm { m } \\mathrm { s \\ c m } ^ { - 1 }$ at $3 0 ~ ^ { \\circ } \\mathbf { C }$ and $8 3 . 3 5 ~ \\mathrm { m S ~ c m } ^ { - 1 }$ at $8 0 ~ ^ { \\circ } \\mathrm { C } .$ Furthermore, both water uptake and dimensional stability are also important parameters to evaluate the AEM materials.From Fig.6 and 7,it can be found that all the water uptake and swelling behaviors in-plane directions $\\mathbf { S R } _ { \\mathrm { i - p } }$ for the DIm-PPYPAES membranes in $\\mathbf { B } \\mathbf { r } ^ { - }$ form remained below $2 0 \\%$ and $1 0 \\%$ at $3 0 ~ ^ { \\circ } \\mathbf { C }$ and $6 0 ~ ^ { \\circ } \\mathbf { C }$ respectively.After the anion exchanging of $\\mathbf { B } \\mathbf { r } ^ { - }$ to $\\mathrm { O H } ^ { - }$ ，much higher wateruptakes and swelling ratios for the DIm-PPYPAES membranes were obtained,which were mainly due to the stronger hydrophilicity of the $\\mathrm { \\ o H ^ { - } }$ ion.Temperature dependence of ionic conductivity of the DIm-PSF membrane was also investigated and shown in Fig. S7. $\\dagger$ Unfortunately,when the temperature was heated above $7 0 ~ ^ { \\circ } \\mathrm { C }$ ，themembrane decomposed into several small pieces owing to a swelling degree that was too high. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/472a0a0f0ddcc26a0631bd842a1adc741c25e9fea78272f11680219612fcead5.jpg",
+        "table_caption": [
+            "Table1 Mechanical properties\" "
+        ],
+        "table_footnote": [
+            "ä Measured at $2 5 ~ ^ { \\circ } \\mathbf { C }$ and $4 0 \\%$ RH,averaged from two trials. "
+        ],
+        "table_body": "<html><body><table><tr><td>Sample</td><td>Tensile strength (MPa)</td><td>Young's modulus (MPa)</td><td>Elongation at break (%)</td></tr><tr><td>PPYPAES</td><td>41.2 ± 6.7</td><td>1280.8 ± 63.6</td><td>7.3 ±0.9</td></tr><tr><td>DIm-PPYPAES-1</td><td>21.1 ± 1.4</td><td>660.5 ± 30.3</td><td>6.8±1.7</td></tr><tr><td>DIm-PPYPAES-2</td><td>29.2 ±1.8</td><td>1097.8 ± 73.5</td><td>7.1±0.8</td></tr><tr><td>DIm-PPYPAES-3</td><td>37.5 ± 4.7</td><td>1484.2 ± 128.2</td><td>5.4 ± 1.1</td></tr><tr><td>DIm-PPYPAES-4</td><td>46.2 ± 2.3</td><td>1938.3 ± 67.3</td><td>6.6 ±1.9</td></tr><tr><td>DIm-PSF</td><td>49.1 ± 6.9</td><td>986.5 ± 32.4</td><td>15.2 ± 3.4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Herein,for the purpose of further illustrating the influence on the properties from the incorporation of the bulky 4-phenylpyridine unit in the main chain,comparisons of hydroxide conductivity,water uptake and dimensional stability between the DIm-PPYPAES membranes,DIm-PSF membranes and other previously reported imidazolium containing membranes are listed in Table 3.It can be seen that,although the DIm-PSF membrane had a higher IEC of 2.26 meq. $\\mathrm { c m } ^ { - 1 }$ as well as otherreported AEMs witha similarIEC level, they still exhibited lower ionic conductivity than that of the DIm-PPYPAES-4 membrane at $3 0 \\mathrm { ~ \\textdegree C }$ ，Moreover，the DIm-PSF membrane decomposed into several pieces when the temperature of the ionic conductivity measured was above $7 0 ~ ^ { \\circ } \\mathbf { C }$ ，It might be explained by the“self-aggregation”model where the introduc tion of the bulky hydrophobic 4-phenyl-pyridine moiety as a rigid side chain between different polymer chains further benefits the formation of large ionic clusters,which significantly enhanced the ion transport efficiency.As a result, compared with the listed benzylmethylimidazolium (BMI)-head type membranes with similar or higher IEC values as benchmarks,the DIm-PPYAES membranes containing a PPY unit in the backbone possessed superior hydroxide conductivities. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/15f8203b33afe00920f81809bf96bb5f77018593c09fd76cd6dfc696cbe9e2af.jpg",
+        "img_caption": [
+            "Fig.4AFM phase images of (a) DIm-PPYPAES-1 (IEC:1.15 meq. $\\mathfrak { g } ^ { - 1 } )$ and (b) DIm-PPYPAES-4 (IEC:1.77 meq. $\\mathfrak { g } ^ { - 1 } )$ membranes in the $\\mathsf { O H } ^ { - }$ form. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.7Long-term alkaline stability ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The alkaline stability is another critical property for evaluating the performance of AEMs.We investigated the long-term alka line stability of the produced membranes by immersing the membranes into a ${ \\bf N } _ { 2 }$ saturated 2 M NaOH aqueous solution at $6 0 ~ ^ { \\circ } \\mathbf { C }$ for several days,and examining the changes of ionic conductivities and IEC values before and after the treatment with a strong alkaline aqueous solution (shown in Fig.8 and ${ \\bf { S 7 \\dagger } } )$ 1.It could be obviously seen that both the hydroxide conductivity and IEC value decreased dramatically after immersion under strong alkaline conditions for 5 days.After 10 and 15 days,a trend of slight decreasing and/or invariable for theDIm-PPYPAES-4 membrane was observed,while the ionic conductivity of the DIm-PSF still decreased dramatically. This was probably due to the degradation of pendant 1,2-dimethy limidazolium groups which were attacked by surrounding $\\mathrm { \\ o { O H } ^ { - } }$ ions.This finding is very different from some results which reported that the membranes or small organic molecules containing C2-alkyl substituted imidazoliums possess excellent alkaline stability attributed to the steric hindrance effect of the C2-position substituent.42,43 Considering the imidazolium functionalized membranes with various polymer backbones and different grafting mode (spacer or no-spacer) of pendant imidazolium groups onto the main chain,there might be structure-selectivity relationships between the pendant ionic groups and the polymeric main chains.This indicates that a comprehensive screening on the aforementioned factors is necessary to obtain an optimized structure of the membrane with excellent alkaline stability. Consequently,it promotes us to further explore and screen more kinds of ionic groups to fulfill the requirement of this pyridine unit based membranes with high alkaline stability. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8466f39164aab7e86756da125f348ad8f171b9a149570720ba387b0d8272251e.jpg",
+        "table_caption": [
+            "Table2Solubility behaviora "
+        ],
+        "table_footnote": [
+            "ä The solubility behavior was studied by immersing the sample into the solvent with the concentration of $5 { \\mathrm { ~ m g / 1 ~ m L } }$ for $2 4 \\mathrm { ~ h ~ }$ $^ { b } + +$ represents completely soluble at $2 5 ~ ^ { \\circ } \\mathbf { C }$ C-- represents insoluble even at $6 0 ~ ^ { \\circ } \\mathbf { C }$ $^ d + -$ represents partially soluble at $6 0 ~ ^ { \\circ } \\mathrm { C }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>CH2Cl2</td><td>CHCl3</td><td>NMP</td><td>DMF</td><td>DMSO</td><td>DMAc</td><td>THF</td><td>EtOH</td><td>H0</td></tr><tr><td>PPYPAES</td><td>++b</td><td>++</td><td>++</td><td>++</td><td>+_d</td><td>++</td><td>++</td><td></td><td></td></tr><tr><td>DIm-PPYPAES-4</td><td>110</td><td>11</td><td>++</td><td>++</td><td>++</td><td>++</td><td>11</td><td>11</td><td>11 一</td></tr><tr><td>DIm-PSF</td><td>11</td><td>11</td><td>++</td><td>++</td><td>++</td><td>++</td><td>11</td><td>11</td><td>11</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bde3105874ecb36f2ef45b6113f71afe3bee7ea3d9c55c047bb3ac1a791be3c.jpg",
+        "img_caption": [
+            "Fig.5 Hydroxide conductivity of the produced Dlm-PPYPAES membranes as a function of temperature under fully hydrated conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fe34fa2baaeea33a6d76d2cff977ddc056501a8623d320636221314cbd223a0.jpg",
+        "img_caption": [
+            "Fig.6 IEC dependence of water uptake of the Dlm-PPYPAES membranes in both $\\mathsf { B r } ^ { - }$ and $\\mathsf { O H } ^ { - }$ forms after immersion in deionized waterat certain temperatures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a8cb36817b6d1de9fdbd1387cd60da3455812fe1d0e5570168ffcb85c11af1.jpg",
+        "img_caption": [
+            "Fig.7IEC dependence of $S R _ { i - p }$ of the DIm-PPYPAES membranes in both $\\mathsf { B r } ^ { - }$ and $\\mathsf { O H } ^ { - }$ forms after immersing in deionized waterat a given temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition,we also found that,among all the measured anion exchange membranes,the DIm-PPYPAES-4 membrane with an IEC value of 1.77 meq. $\\mathrm { g } ^ { - 1 }$ still exhibited good ionic conductivity above $1 0 \\mathrm { m S } \\mathrm { c m } ^ { - 1 }$ at $3 0 ~ ^ { \\circ } \\mathbf { C }$ which was higher than thatof theDIm-PSF membraneafter the treatmentwithalkaline conditions at elevated temperature for 15 days.Moreover, it should be noted that although the ionic conductivity and IEC value decreased significantly,none of membranes decomposed to small pieces.In particular, the DIm-PPYPAES-4 membrane still retained its compact and flexible property as well as integrated shape (shown in Fig. ${ \\bf 5 8 \\dagger }$ ).These findings indicated that the DIm-PPYPAES membranes were of good stability under the elevated temperature and fully hydrated environment,and showed reasonable alkaline durability.Compared with the conventional cardo-based poly(arylene ether sulfone)s,incorporation of the pyridine scaffold to replace the quaternary carbon center could partially alleviate the cation induced degradation of the polymer backbone affected by hydrolysis, because the $\\displaystyle \\mathbf { s p } ^ { 3 }$ hybrid carbon center is prone to be attacked compare to the aromatic rings under alkaline conditions, usually resulting in the decomposition of the membranes into small pieces.44 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In summary,we designed and synthesized a new series of 4- phenyl-pyridine unit containing poly(arylene ether sulfone)s functionalized with1,2-dimethylimidazolium for use as alkaline anion exchange membranes. It was found that the incorporation of the 4-phenyl-pyridine moiety into the polymeric backbone would facilitate the formation of large ionic clusters, and the fabricated DIm-PPYPAES membranes consequently exhibited enhanced ionic conductivity compared to the DIm PSF membrane.A relatively high level of hydroxide conductivi ties was observed for the DIm-PPYPAES membranes with different IECs of 1.15-1.77 meq. $\\mathrm { g } ^ { - 1 }$ .Among all the samples, the DIm-PPYPAES-4 membrane achieved the highest hydroxide conductivity of $8 3 . 3 5 ~ \\mathrm { m S ~ c m } ^ { - 1 }$ at $8 0 ~ ^ { \\circ } \\mathbf { C }$ with an experimental IEC of 1.77 meq. $\\mathrm { g } ^ { - 1 }$ ． The DIm-PPYPAES membranes also showed good solubility behavior in most of the organic solvents andhighthermal stability.Afterbeing immersed ina $2 \\mathrm { M N a O H }$ aqueous solution at $6 0 ~ ^ { \\circ } \\mathbf { C }$ for15 days,the hydroxide conductivities of the DIm-PPYPAES membranes decreased in varying degrees,but the DIm-PPYPAES-4 membrane still exhibited conductivity above $1 0  { ~ \\mathrm { m s } ~ \\mathrm { c m } ^ { - 1 } }$ at $3 0 ~ ^ { \\circ } \\mathbf { C }$ ，while all the DImPPYPAES membranes retained their flexible property and orig inal integrated shapes.This result provided us a clue that the produced copolymer containing a pyridine moiety (PPYPAES) possesses great potential application in fuel cells or other separation and purification technologies. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a7ab5bc1ec606418cec626ecb39bc451288f9fd70656955213cabab2b897005.jpg",
+        "table_caption": [
+            "Table3IEC,water uptake,swelling ratio and conductivity $\\sigma$ of the membranes "
+        ],
+        "table_footnote": [
+            "1 Calculated from $^ 1 \\mathrm { H }$ NMR spectra.b Measured by the titration method. The as-prepared $\\mathrm { O H } ^ { - }$ form membranes were measured at a given :emperature from two trials.d $\\mathbf { S R } _ { \\mathrm { t - p } }$ values are in parentheses. Ref.15. $f$ Ref. 40.Ref. 41. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">IEC (meq. g-1)</td><td colspan=\"2\">WU (%)</td><td colspan=\"2\">SRi-d (%)</td><td>σ (mS cm-1)</td></tr><tr><td>Sample</td><td>Cal.a</td><td>Exp.6</td><td>30°C</td><td>60°C</td><td>30°℃</td><td>60°C</td><td>30°C</td></tr><tr><td>DIm-PPYPAES-1</td><td>1.22</td><td>1.15</td><td>17.94</td><td>22.17</td><td>7.89 (6.98)</td><td>12.12 (9.67)</td><td>12.63</td></tr><tr><td>DIm-PPYPAES-2</td><td>1.33</td><td>1.31</td><td>30.42</td><td>46.76</td><td>8.87 (7.11)</td><td>19.32 (17.42)</td><td>14.43</td></tr><tr><td>DIm-PPYPAES-3</td><td>1.64</td><td>1.63</td><td>67.65</td><td>78.22</td><td>30.13 (26.12)</td><td>36.79 (31.21)</td><td>25.25</td></tr><tr><td>DIm-PPYPAES-4</td><td>1.82</td><td>1.77</td><td>78.53</td><td>87.24</td><td>55.43 (49.34)</td><td>59.31 (53.76)</td><td>33.33</td></tr><tr><td>DIm-PSF</td><td>2.86</td><td>2.26</td><td>102.35</td><td>126.54</td><td>75.72</td><td>86.89</td><td>30.60</td></tr><tr><td>PSF-ImmOH-60e</td><td></td><td>1.79</td><td>47</td><td>88</td><td>26</td><td>41</td><td>11</td></tr><tr><td>PES-MeIm/OH-#5f</td><td>一</td><td>1.65</td><td>120</td><td></td><td>46.2</td><td>一</td><td>9.6</td></tr><tr><td>DIm-PPO-0.30g</td><td>一</td><td>1.96</td><td>65.9</td><td>一</td><td>17.8</td><td></td><td>20</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/96a385fbb88ee5e27fb7a6ed3958880fde33a4bcd2f44840a84d8fa4da0016dd.jpg",
+        "img_caption": [
+            "Fig.8 The changes of ionic conductivity and IEC of the (a) DlmPPYPAES-4,(b) Dlm-PSF membranes before and after immersion in a 2 M NaOH solution at $6 0 ~ ^ { \\circ } \\mathsf { C }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors greatly appreciate the financial support by Zhejiang ProvincialNatural ScienceFoundation of China(No. LY15B02ooo3)， Ningbo Natural Science Foundation(No. 2015A610243),the“Membranes for Environmental Remedia tion”Innovation Team from Ningbo Technology Bureau (No. 2014B81o04) and the“Membrane and Water Treatment”2011 Coherence Innovation Center of Zhejiang Province. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1 B. C. Steele and A.Heinzel, Nature,2001,414,345.   \n2 M.Z. Jacobson,W.G. Colella and D.M.Golden, Science, 2005,308,1901.   \n3J.R.Varcoe and R.C.T. Slade,Fuel Cells,20o5,5,187.   \n4H.Zhang,D.Chen,Y.Xianze and S.Yin,Fuel Cells,2015,15, 761.   \n5S.Lu,J.Pan,A.Huang,L.Zhuang and J.Lu,Proc.Natl.Acad. Sci.U. S.A.,2008,105,20611.   \n6 C.Yang,S.Wang,W.Ma,L. Jiang and G.Sun,J.Mater. Chem. A,2015,3, 8559.   \n7 B.Lin,H. Dong, Y.Li, Z. Si,F.Gu and F. Yan, Chem. Mater., 2013,25,1858.   \n8H.S.Dang andP.Jannasch,Macromolecules,2015,48,5742.   \n9J.Ran,L.Wu,Q.Ge,Y.Chen andT.Xu,J.Membr. Sci.,2014, 470,229.   \nl0 Q.Li, L. Liu,Q. Miao,B. Jin and R. Bai, Chem. Commun., 2014,50,2791.   \n11 N.Li, Y.Leng, M.A. Hickner and C.Wang,J. Am. Chem. Soc., 2013,135,10124.   \n12 Z. Yang, J. Zhou, S. Wang,J. Hou, L. Wu and T. Xu,J. Mater. Chem. A,2015,3,15015.   \n13 M.R. Hibbs，C. H. Fujimoto and C.J. Cornelius, Macromolecules,2009,42,8316.   \n14L. Jheng, S.L.Hsu,B.Lin and Y.Hsu,J.Membr. Sci.,2014, 460, 160.   \n15 Y. Yang,J.Wang,J. Zheng,S.Li and S. Zhang,J. Membr. Sci., 2014, 467, 48.   \n16J.Yan and M.A.Hickner,Macromolecules,2010,43,2349.   \n17 S.Gu,R. Cai,T. Luo, Z. Chen,M. Sun,Y. Liu,G.He and Y.Yan,Angew. Chem.,Int. Ed.,2009,48,6499.   \n18 J. Pan, S. Lu, Y. Li,A. Huang,L. Zhuang and J. Lu,Adv. Funct. Mater.,2010,20,312.   \n19 F.Zhang,H. Zhang and C.Qu,J.Mater. Chem.,2011,21, 12744.   \n20 X. Yan, S. Gu,G. He, X. Wu and J. Benziger,J. Power Sources, 2014,250, 90.   \n21 J. Pan, C. Chen,L. Zhuang and J. Lu, Acc. Chem. Res., 2012, 45,473.   \n22 J. Pan, Y. Li,L. Zhuang and J. Lu, Chem. Commun., 2010, 46, 8597.   \n23 S.Gu,R. Cai and Y. Yan, Chem. Commun.,2011,47,2856.   \n24 A.N. Rao, S. Nam and T.Kim,J. Mater. Chem.A,2015,3, 8571.   \n25 X. Li, G. Nie,J. Tao, W. Wu, L. Wang and S. Liao,ACS Appl. Mater. Interfaces,2014,6,7585.   \n26 K.Miyatake, B.Bae and M. Watanabe,Polym. Chem.,2011, 2, 1919.   \n27 M.Tanaka，M. Koike,K.Miyatake and M.Watanabe, Macromolecules,2010,43,2657.   \n$^ { 2 8 \\textbf { M } }$ ，Tanaka，K.Fukasawa，E.Nishino，S.Yamaguchi, K. Yamada， H. Tanaka，B. Bae，K. Miyatakeand M.Watanabe,J.Am. Chem. Soc.,2011,133,10646.   \n29W.H.Lee,A.D.Mohanty and C.Bae,ACS Macro Lett.,2015, 4,453.   \n30D.Chen and M.A.Hickner,ACS Appl.Mater.Interfaces,2012, 4,5775.   \n31 A.Lai,L.Wang,C. Lin,Y. Zhuo,Q. Zhang,A. Zhu and Q. Liu, ACS Appl. Mater.Interfaces,2015,7,8284.   \n32 Q. Zhang,S.Li and S. Zhang,Chem. Commun.，2010,46, 7495.   \n33X.Li, Y. Yu, Q. Liu and Y.Meng,ACS Appl. Mater. Interfaces, 2012,4,3627.   \n34 X.Li, Y. Yu,Q. Liu and Y. Meng,J. Membr. Sci.,2013,436, 202.   \n35 S. Zhang,B. Zhang,D. Xing and X. Jian,J. Mater. Chem. A, 2013,1,12246.   \n36 S. Zhang,B. Zhang,G. Zhao and X. Jian,J. Mater. Chem. A, 2014,2,3083.   \n37 J. Liu,L. Wang,H. Yang,Y.Li and S. Yang,J.Polym. Sci., Part A: Polym. Chem.,2004,42,1845.   \n38 S.Banerjee,M.K.Madhra,A.K. Salunke and D.K. Jaiswal, Polymer,2003,44, 613.   \n39Y.Shang,L. Fan, S. Yang and X. Xie,Eur.Polym.J.,2o06,42, 981.   \n40 W.Lu,Z. Shao,G. Zhang,Y. Zhao, J. Li and B.Yi, Int. J. Hydrogen Energy,2013,38,9285.   \n41 X. Lin,J. R. Varcoe, S.D. Poynton, X. Liang, A. L. Ong,J. Ran, Y.Li andT.Xu,J.Mater.Chem.A,2013,1,7262.   \n42B.Lin,L.Qiu,B.Qiu,Y. Peng and F.Yan,Macromolecules, 2011, 44, 9642.   \n43 S.C.Price, K. S.Williams and F.L. Beyer,ACS Macro Lett., 2014,3,160.   \n44 C.G.Arges and V.Ramani,Proc.Natl.Acad. Sci. U. S.A.,2013, 110,2490. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

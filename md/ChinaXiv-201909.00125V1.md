@@ -1,0 +1,177 @@
+# 基于MODIS数据的2001一2016年内蒙古积雪分布及其变化趋势
+
+孙晓瑞¹，高永¹，丁延龙¹，蒙仲举¹，贾旭¹，杜鹏²，梁钰美1（1．内蒙古农业大学沙漠治理学院,内蒙古呼和浩特010020;2．内蒙古蒙草生态环境(集团)股份有限公司,内蒙古呼和浩特010010)
+
+摘要：积雪融水是干旱区重要的水资源之一，积雪分布变化的监测对区域雪冰资源的合理利用及灾害防治至关重要。基于内蒙古地区2001—2016年 MOD10A2积雪数据对研究区进行分带提取,分析不同海拔高度积雪年内年际变化特征，结合气温和降水气象因素,分析其分布变化原因。研究表明：积雪面积、积雪覆盖率年内分布呈单峰形,10个海拔带的积雪期为9月到次年5月,峰值出现在冬季,积雪覆盖率增减的临界高度在 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { ~ m ~ }$ ;不同高程带的积雪面积在春季、夏季、秋季整体上呈现出“增加—减少一增加一减少"的年际变化规律,冬季整体上表现出"减少一增加一减少”的变化规律;积雪面积受降水量和气温相互的影响,其中海拔高度可能起到间接作用。内蒙古地区春季、冬季积雪覆盖率均与冬季降水量呈显著正相关,各季节积雪覆盖率基本与温度呈负相关关系。
+
+关键词：MOD10A2；气温；降水；积雪覆盖率；积雪面积；内蒙古
+
+积雪作为冰冻圈的重要组成部分，其积累与消融对地表辐射平衡、能量循环和水资源分配等具有重要影响，在全球和区域气候系统中起着重要的调节作用[1-3]。内蒙古作为我国3大积雪分布中心之_[4],该区气候普遍干旱,生态环境对外界气候变化反应敏感[5]。在以干旱少雨为主的气候背景下,融雪径流是重要的水资源补给方式之一[6-8]。与此同时，长时间大量的积雪会对林、牧业等造成较大影响,引起冰雪灾害[9-12]。因此,积雪分布变化的监测对区域冰雪资源的合理利用及灾害的防治至关重要[13]
+
+随着遥感技术的不断进步，采用MODIS数据进行较大尺度的积雪分布时空变化研究取得了大量成果。萨楚拉等[14]利用2002—2012 年积雪季（10月至次年3月)的 MOD10A2数据，分析了内蒙古积雪时空变化以及对气候的响应，研究得出积雪面积整体上有所减少。李斐等[15]利用MOD10A2 积雪数据研究了新疆开都河流域的积雪分布状况，发现随着海拔高度的上升，积雪面积呈减少一增加一减少的变化趋势，最高海拔带出现双峰值，其余则以单峰值呈现。颜伟等[16利用2000—2013年 MOD10A2去云处理后的积雪数据，分析了西昆仑山不同海拔带的积雪面积年内、年际变化规律及其与气温、降水的关系，认为积雪面积在年际上呈增加趋势，但不同海拔带引起积雪变化的气候因素不同。党素珍等[17]利用 MODIS 数据探讨了黑河流域降水、气温与积雪面积的变化规律。蔡迪花等[13]对祁连山区域积雪空间分布的研究表明，积雪分布极不均匀，坡度、坡向和海拔带均对积雪分布产生影响，不同海拔高度下的积雪补给期也不尽相同。
+
+内蒙古境内有大兴安岭、阴山、贺兰山等诸多山脉分布，山脉之间分布有高原、沙漠,地势高低不平，海拔分布从最低点的 $8 0 \mathrm { ~ m ~ }$ 到最高点贺兰山主峰的$3 ~ 5 5 6 \mathrm { ~ m ~ }$ ,跨度较大，地貌复杂多样。目前有关内蒙古地区积雪面积与气候变化方面已开展相应研究[14],但针对内蒙古地区不同海拔带下的积雪面积变化及其与气象要素间的联系研究仍然较少。因此，本文以内蒙古为研究区域，选择MODIS 数据产品（MOD10A2)为积雪数据源，结合气温、降水等气象资料，利用DEM高程数据对内蒙古进行高程带划分，分析不同高程带积雪时空分布特征，并探讨积雪面积变化与气温、降水等影响因素的相关关系，以期为内蒙古地区积雪资源的管理利用及灾害防治等提供理论参考。
+
+# 1研究区概况
+
+内蒙古地处中国北部边疆，位于 $3 7 ^ { \circ } 2 4 ^ { \prime } \sim$ $5 3 ^ { \circ } 2 3 ^ { \prime } \mathrm { N }$ ， $9 7 ^ { \circ } 1 2 ^ { \prime } \sim 1 2 6 ^ { \circ } 0 4 ^ { \prime } \mathrm { E }$ 之间，其北部与蒙古、俄罗斯交界，横跨东北、华北、西北3大区，毗邻黑龙江、吉林、辽宁、河北、山西、陕西、宁夏、甘肃等8个省区。辖12个盟市101个旗县（区、市），国境线长达 $4 \ 2 2 1 \ \mathrm { k m }$ ，总面积 $1 . 1 8 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ,占全国总面积的 $1 2 . 3 \%$ ，是中国第3大省区。内蒙古地区所处纬度较高，地貌以蒙古高原为主体，是中国北方重要的生态屏障,属于干旱、半干旱气候,其中大兴安岭和阴山山脉为全区气候差异的重要自然分界线。内蒙古全区地势较高，平均海拔高度 $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ ，为高原型地貌区，是中国第二大高原。除东南部外，高原占总土地面积的 $5 0 \%$ 左右，由呼伦贝尔、锡林郭勒、巴彦淖尔一阿拉善及鄂尔多斯等高平原组成。整体上由南向北、由西向东缓缓倾斜,西部的贺兰山主峰为海拔最高点，高达 $3 ~ 5 5 6 \mathrm { ~ m ~ }$ ,东部辽河平原地区海拔较低,海拔基本在 $3 0 0 \mathrm { ~ m ~ }$ 以下,最低为 $8 0 \mathrm { ~ m ~ }$ 。平均气温为 $3 . 0 \sim 6 . 3 \mathrm { ~ \textdegree C }$ ,全年大风日数在 $1 0 \sim 4 0 \mathrm { ~ d ~ }$ ，,大部分地区年日照时数超过 $2 ~ 7 0 0 { \mathrm { ~ h ~ } }$ 。年降水量 $1 1 5 \sim$ $2 5 0 ~ \mathrm { m m }$ ,呈东北多而西南少，降水少且不均匀。气候具有夏季炎热而短促、春季气温骤升、秋季气温剧降、冬季严寒而漫长的特点[18]
+
+# 2 数据来源及处理
+
+（1）MOD10A2积雪面积来自美国国家雪冰数据中心（National Snow and Ice Data Center，NSIDC)网站下载的MODIS/Terra8日合成积雪数据（MOD10A2，简称MOD），时间序列为2000年11月25日至2017年12月2日，空间分辨率为 $5 0 0 \mathrm { ~ m ~ }$ ，数据格式为.hdf。研究区选用涉及内蒙古地区的$\mathrm { h 2 5 v 0 3 ~ } \mathrm { { , h 2 5 v 0 4 ~ } \mathrm { { , h 2 5 v 0 5 ~ } \mathrm { { , h 2 6 v 0 3 ~ } \mathrm { { , h 2 6 v 0 4 ~ } \Omega _ { \mathrm { { , } } } \mathrm { { h 2 6 v 0 } } } } } }$ 和${ \mathrm { h } } 2 7 { \mathrm { v } } 0 4 { \mathrm { ~ 7 } }$ 轨影像数据。对MOD10A2影像的处理方法和步骤： $\textcircled{1}$ 利用MRT软件对MOD10A2影像进行拼接和重投影，投影转换为ALBERS，椭球体选为WGS84，图像文件转换为GeoTIFF格式； $\textcircled{2}$ 使用内蒙古行政界线对拼接图片进行掩膜提取，得到研究区图像； $\textcircled{3}$ 采用最大合成法合成月值和年值； $\textcircled{4}$ 利用ArcGIS软件的地统计功能，统计不同海拔高度分带的积雪数据； $\textcircled{5}$ 按最大合成法将8d合成积雪数据按月整理出月积雪数据，进而得出季节和年度数据，本文季节划分为：冬季（上年12月至当年1—2月）、春季(3—5月）、夏季(6—8月）、秋季（9—11月）。
+
+（2）气象数据来源于中国气象数据网（http：//data.cma.cn）提供的中国地面气候资料数据集，为内蒙古地区50个标准气象站点1961—2016年的气温和降水量资料。
+
+(3）考虑到内蒙古地区高程跨度较大，各海拔高度环境差异明显，故对海拔进行划分，分带研究积雪分布状况。海拔划分方法采用自然断点分级法。该方法采用统计公式来确定属性值的自然聚类[19]其功能为减少同一级差异、增加不同级间差异，使得差异最大化。根据自然断点法的原理，对一些连续但不集中的数据进行等级划分，这些等级会在数据值的差异相对较大的位置处设置边界，使得分级后的每一个等级内的方差最小，而相邻级别之间的方差最大，消除了人为分区的主观性，结果相对可靠。其计算公式为：
+
+$$
+{ \mathrm { s s d } } _ { i - j } = \sum _ { k = 1 } ^ { j } ( a \left[ k { \mathrm { ~ \right] ~ } } - { \mathrm { m e a n } } _ { i - j } ) ^ { 2 } , \quad ( 1 \leqslant i \leqslant j \leqslant n )
+$$
+
+式中：ssd表示达到不同程度风险的边界值； $\boldsymbol { a }$ 为1个数组（数组长度为 $k$ ）； $\mathbf { m e a n } _ { i - j }$ 为每个等级中的平均值。
+
+根据自然断点法划分结果，将内蒙古地区划分为10个海拔高度带（图1和表1），并统计各海拔带面积占比。
+
+![](images/68799b67768c25748496502c859ab0a4479adb7724544e078fd3d9a4e6c654f3.jpg)  
+图1自然断点分类图  
+Fig.1Classification of natural breakpoints
+
+表1基于SRTMDEM的分带  
+Tab.1 Altitude zones based on SRTM DEM data   
+
+<html><body><table><tr><td>分带号</td><td>分带/m</td><td>面积/104km²</td><td>面积比例/%</td></tr><tr><td>1</td><td>80~349</td><td>8.49</td><td>7.43</td></tr><tr><td>2</td><td>349~560</td><td>8.59</td><td>7.52</td></tr><tr><td>3</td><td>560~767</td><td>13.06</td><td>11.43</td></tr><tr><td>4</td><td>767~952</td><td>13.52</td><td>11.85</td></tr><tr><td>5</td><td>952~1114</td><td>20.25</td><td>17.71</td></tr><tr><td>6</td><td>1 114~1 269</td><td>14.53</td><td>12.71</td></tr><tr><td>7</td><td>1 269~1420</td><td>19.26</td><td>16.85</td></tr><tr><td>8</td><td>1 420~1 603</td><td>11.66</td><td>10.20</td></tr><tr><td>9</td><td>1 603~1948</td><td>4.39</td><td>3.84</td></tr><tr><td>10</td><td>1 948~3 618</td><td>0.56</td><td>0.49</td></tr></table></body></html>
+
+# 3结果与分析
+
+# 3.1积雪的年内分布特征
+
+据表1划分的高程带，绘制了该区域各高程带积雪面积以及积雪覆盖率年内变化曲线。由区域积雪面积、积雪覆盖率年内变化曲线（图2）可知，内蒙古地区积雪面积年内分布过程呈单峰形，9月开始到次年的5月为各个海拔带共同的积雪开始期与消融期，峰值出现在冬季。
+
+在海拔 $8 0 \sim 3 4 9 \mathrm { ~ m ~ }$ 及 $3 4 9 \sim 5 6 0 \mathrm { ~ m ~ }$ 这2个海拔带，9月开始有积雪出现,至次年5月前积雪逐渐消融结束，积雪面积峰值在11月至次年2月，6—8月积雪较少，覆盖率在 $30 \%$ 以下;海拔 $5 6 0 \sim 7 6 7 ~ \mathrm { ~ m ~ } .$ $7 6 7 \sim 9 5 2 \mathrm { ~ m ~ }$ ,该带积雪期为8月至次年6月，积雪覆盖率峰值位于秋季后期、冬季和春季前期，其中海拔$5 6 0 \sim 7 6 7 ~ \mathrm { m }$ 的积雪期在10月至次年4月，积雪期的积雪覆盖率接近 $100 \%$ ,而海拔 $7 6 7 \sim 9 5 2 \mathrm { ~ m ~ }$ 与上个海拔带有差异，其是在11月至次年3月积雪覆盖率为 $100 \%$ ;海拔带面积最大的 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { m }$ 区域,积雪面积最大，但覆盖率相对于其他海拔带积雪稳定期时长相对较短，仅在冬季为 $100 \%$ ，次年2月后积雪即开始消融，至6月消融结束。 $1 1 1 4 \sim 1 2 6 9$ $\mathrm { ~ m ~ } _ { \mathrm { { l } } } \ 2 6 9 \sim 1 \ 4 2 0 \ \mathrm { m } \ . 1 \ 4 2 0 \sim 1 \ 6 0 3 \ \mathrm { m }$ 这3个海拔带，积雪面积、积雪覆盖率均呈单峰形，积雪面积在8月开始波动上升，至次年5月基本消融结束，积雪覆盖率峰值仅涵盖12月、1月;在海拔位于 $1 \ 6 0 3 \sim 1 \ 9 4 8$ $\mathrm { ~ m ~ } , 1 \ 9 4 8 \sim 3 \ 6 1 8 \ \mathrm { m }$ 的区域,其分布面积较小,积雪覆盖面积也相应较小，在9月后至次年5月前有积雪存在，积雪覆盖率峰值为12月和1月。
+
+综上所述，不同海拔高度年内积雪覆盖率变化有明显差异，海拔在 $9 5 2 \sim 1 1 1 4 \mathrm { ~ m ~ }$ 以下区域，积雪覆盖率为 $100 \%$ 的时长逐渐增加，在此海拔以上区域，积雪覆盖时长逐渐减少。出现这种现象的原因可能是高海拔地区风速较大,极易达到风吹雪临界风速，积雪被风力吹蚀现象时常发生，导致积雪的升华与再分布,耗散积雪[20] ○
+
+# 3.2积雪的年际分布特征
+
+为了深入分析研究区积雪年际波动在不同季节不同海拔带的差异，绘制了相应的积雪面积（图3）、积雪覆盖率(图4)年际波动折线图。总体而言，不同高程带的积雪面积在春季、夏季、秋季，整体上呈现出“增加一减少一增加一减少”的年际变化规律，而冬季有所不同，整体上表现出“减少一增加一减少”的变化规律。
+
+由图3可知，在春季，海拔低于 $9 5 2 \sim 1 1 1 4 \mathrm { ~ m ~ }$ 的地区，2001—2003年积雪面积呈增加趋势，
+
+![](images/db8d99204dd9d963aada87ffec633dab27e528b2b76b1f9f7a748fa67b870f73.jpg)  
++分带1-。-分带 $^ 2 \mathrm { \textleftarrow { } }$ 分带 $3 \cdots$ 分带 $4 \textbar { ‰}$ 分带5\*分带 $^ { 6 \mathrm { - } }$ 分带7-分带8→分带9--分带10  
+图22001—2016年研究区各高程带月最大积雪面积与积雪覆盖率
+
+rig.2Maximum monthlysnowcoverareasandsnowcoveragerates indiferent elevationzones inthestudyareafrom 20lto2C
+
+![](images/3bcc12e9f6b50eb4de48478edbab950168207ee96f975f0039ea52b3bcdeba07.jpg)  
+图32001—2016年研究区各高程带年最大积雪面积  
+Fig.3Maximum annual snow cover areas in different elevation zones in the study area from 2Ool to 2016
+
+2003—2006 年积雪面积呈减少趋势,2006—2007 年积雪面积转而增加,2007—2016年积雪面积整体转而减少，但2008一2016年积雪面积有小幅度波动变化，积雪面积、积雪覆盖率峰值年分别为2003、2007年及2003、2015年，波谷年为2004、2006、2008、2014年及2007、2016 年;海拔高于 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { m }$ ,积雪面积整体变化趋势与海拔低于 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { m }$ 的一致,其他3个季节相对春季的各个海拔带积雪面积、积雪覆盖率变化频繁但变幅较小，峰值年与波谷年较多，可能是由于上述年份气象条件波动较多所致。但最高海拔带 $1 9 4 8 \sim 3 6 1 8 \mathrm { ~ m }$ 年际变化规律较为不同，四季积雪面积整体无明显波动，可能是由于海拔较高，上层气温变化较小，所以，积雪面积变化相对恒定。
+
+由图4可知,在夏季,海拔低于 $9 5 2 \sim 1 1 1 4 \mathrm { ~ m ~ }$ 地区积雪覆盖率呈明显增加趋势，峰值较多，最大峰值为2015年;海拔 $1 ~ 9 4 8 \sim 3 ~ 6 1 8 ~ \mathrm { m }$ 积雪覆盖率峰值为2012年，低值在2001年。除夏季以外，春季、秋季、冬季各个海拔带积雪面积、积雪覆盖率变化趋势不明显。在秋季，海拔低于 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { ~ m ~ }$ 地区积雪覆盖率峰值在2003、2006、2012年，海拔高于 $9 5 2 \sim$ $1 1 1 4 \mathrm { ~ m ~ }$ 的积雪覆盖率峰值为2003、2006、2009、2012、2015年。冬季时，海拔低于 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { m }$ 的地区积雪覆盖率峰值不明显，其中海拔 $8 0 \sim 3 4 9 \mathrm { ~ m ~ }$ 的积雪覆盖率差异最大，2001年积雪覆盖率接近$100 \%$ ,2002年积雪覆盖率则在 $40 \%$ 以下。而海拔高于 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { m }$ 地区积雪覆盖率峰值明显，出现在2003、2006、2008年。整体而言，在春、夏、秋3季节，2001年为积雪面积低值年，冬季积雪面积低值年出现在2002年。
+
+为了更直观地描述不同海拔带积雪面积的分布情况，采用箱图来描述不同海拔带的积雪覆盖面积分布（图5），可以看出各海拔带积雪面积中位数表现为随海拔升高先增加后降低。海拔 $5 6 0 \sim 1 ~ 4 2 0 ~ \mathrm { m }$ 区域为积雪面积最大的地区，主要位于呼伦贝尔市西部及锡林郭勒盟北部，这一区域地形平坦，以草原为主,为我国草原雪灾主要发生区域之一[21]。在不同季节，各海拔带积雪面积整体表现为：冬季 $>$ 秋季 $>$ 春季 $>$ 夏季，且各季节积雪面积随海拔升高变化趋势一致，均为先升高后降低。
+
+![](images/b67de72cb24906667fd6ed50b820cea132652d45761b9244a3fc95c30f6632d8.jpg)  
+图42001—2016年研究区各高程带年最大积雪覆盖率
+
+Fig.4Maximum annual snow coverage rates in different elevation zones in the study area from 2Oo1 to 2016
+
+![](images/2384335581d8701c8d6769d372330a2f9c346852b0adefddade248833ec44915.jpg)  
+图52001—2016 年研究区积雪面积沿高程带变化
+
+Fig.5Change of the snow cover areas in diferent altitude zones in the study area from 2Ool to 2016
+
+![](images/e2ff8740f8adffd56feb81c07871ca50bda9231f763d91374644325a11b8bd44.jpg)  
+图62001—2016年研究区积雪覆盖率沿高程带变化  
+Fig.6Change of the snow coverage rates in diffrent altitude zones in the studyarea from 2Ool to 2016
+
+根据图6不同海拔带的积雪覆盖率分布箱图可知，各海拔带积雪覆盖率中位数随海拔升高表现为，在 $8 0 \sim 5 6 0 \mathrm { ~ m ~ }$ 升高,随后在 $7 6 7 \sim 1 ~ 4 2 0 \mathrm { ~ m ~ }$ 降低，最终随海拔升高再次增加。在 $5 6 0 \sim 7 6 7 \mathrm { ~ m ~ }$ 海拔带为积雪覆盖率最高的地区，该区主要分两部分，一部分集中分布于呼伦贝尔西部的巴尔虎三旗;另一部分沿大兴安岭东坡分布，自内蒙古东北端的鄂伦春旗开始，由东北向西南延伸至赤峰市最南端的宁城县。该区域为内蒙古降水较为丰沛的地区，降雪量大，积雪覆盖率在 $80 \%$ 以上，与中国积雪3大分布区之一的东北积雪分布区吻合[22]。 $1 \ 2 6 0 \sim 1 \ 4 2 0 \ \mathrm { ~ m ~ }$ 海拔带为积雪覆盖低值区，这一区域主要位于内蒙古中西部的阿拉善高原、鄂尔多斯高原地区，该区气候干旱,降水稀少，积雪量也相应较少。在不同季节，整体表现为冬季 $>$ 秋季 $>$ 春季 $>$ 夏季，且各季节积雪覆盖率随海拔变化趋势基本一致，均表现为先升高后降低，最后再升高。
+
+# 3.3气温、降水变化对积雪面积的影响
+
+研究表明，海拔变化会对气温及降水产生较大影响[23],对内蒙古地区不同海拔带海拔高度与降水量、气温进行相关分析,结果表明,在海拔 $3 4 9 \mathrm { ~ m ~ }$ 以下及 $9 5 2 \sim 1 ~ 4 2 0 ~ \mathrm { ~ m ~ }$ 地区，降水量随海拔升高而增加,海拔 $3 4 9 \sim 9 5 2 \mathrm { ~ m ~ }$ 及 $1 \ 4 2 0 \ \mathrm { m }$ 以上地区，降水量随海拔升高而降低，内蒙古海拔在 $3 4 9 \mathrm { ~ m ~ }$ 以下的区域主要沿大兴安岭东侧分布，包括科尔沁沙地、松嫩平原西端,该区海拔西东向西逐渐抬升，自东而来的水汽受大兴安岭阻挡，遇冷凝结形成降水，降水量渐次增加[24]。海拔 $9 5 2 \sim 1 ~ 4 2 0 \mathrm { ~ m ~ }$ 的区域主要位于锡林郭勒高原西部、鄂尔多斯高原北部、阿拉善高原北部及河套平原，该区域降水量随海拔升高也有所增加。海拔超过 $1 \ 4 2 0 \ \mathrm { m }$ 的地区多分布在内蒙古中西部的阴山山脉、贺兰山、龙首山、合黎山，自东向西海拔逐渐升高，距离海洋渐趋遥远，暖湿气流到达贺兰山东麓已属强弩之末，再往西部即属于十旱地区，降水普遍低于 $2 0 0 ~ \mathrm { { m m } }$ ,且随海拔升高而降低。通过对不同海拔带海拔高度与气温的相关分析可知（表2），在各海拔带，气温与海拔高度大致存在负相关关系，但二者相关程度均未达到显著水平。
+
+# 表2不同海拔带海拔与气温和降水的相关分析
+
+Tab.2Correlation coefficient between altitude and airtemperature and precipitation in different altitude zones   
+
+<html><body><table><tr><td>海拔带/m</td><td>降水量</td><td>气温</td></tr><tr><td>80~349</td><td>0.829 **</td><td>-0.452</td></tr><tr><td>349 ~560</td><td>-0.969 **</td><td>-0.302</td></tr><tr><td>560 ~767</td><td>-0.277</td><td>0.207</td></tr><tr><td>767 ~952</td><td>-0.770 *</td><td>-0.377</td></tr><tr><td>952 ~1114</td><td>0.978 **</td><td>-0.035</td></tr><tr><td>1 114~1 269</td><td>0.853 **</td><td>-0.434</td></tr><tr><td>1 269~1420</td><td>0.578</td><td>-0.181</td></tr><tr><td>1420~1603</td><td>-0.638*</td><td>0.179</td></tr></table></body></html>
+
+注： $*$ 表示通过0.05水平检验， $\ast \ast$ 表示通过0.01水平检验。下同。
+
+# 表3不同海拔带积雪覆盖率与气温和降水的相关分析
+
+Tab.3Correlation coefficient between snow coverage rate and air temperature and precipitation in different altitude zones   
+
+<html><body><table><tr><td>海拔带/m</td><td>降水量</td><td>气温</td></tr><tr><td>80~349</td><td>0.980 **</td><td>-0.878 **</td></tr><tr><td>349 ~560</td><td>0.990 **</td><td>-0.849 *</td></tr><tr><td>560~767</td><td>-0.254</td><td>-0.749 **</td></tr><tr><td>767 ~952</td><td>0.992 **</td><td>-0.844 **</td></tr><tr><td>952~1114</td><td>0.520</td><td>-0.466</td></tr><tr><td>1 114~1 269</td><td>0.707 **</td><td>-0.591</td></tr><tr><td>1 269~1420</td><td>0.618 *</td><td>-0.764**</td></tr><tr><td>1420~1603</td><td>-0.940 **</td><td>0.081</td></tr></table></body></html>
+
+气温和降水是决定积雪消融、累积的重要因素[25]。选取积雪覆盖率为分析指标,排除积雪面积受分带面积大小的影响，探究内蒙古地区降水、气温随海拔变化对积雪的影响，选取2001—2016年不同季节每8d合成积雪覆盖率时间序列以及分季节时间序列，并结合同时期的气温和降水时间序列进行相关分析。根据研究区积雪覆盖率与气象因子的相关关系（表3和表4），在各海拔带，积雪覆盖率与降水量大致表现为显著正相关,海拔 $5 6 0 \sim 7 6 7 ~ \mathrm { ~ m ~ }$ 、$1 \ 4 2 0 \ \mathrm { m }$ 以上地区呈负相关，其中海拔 $1 \ 4 2 0 \ \mathrm { m }$ 以上地区相关程度达到0.01显著水平。积雪覆盖率与温度基本表现为显著负相关，即随温度升高而下降。
+
+对内蒙古地区各季节积雪覆盖率与降水量、气温进行相关分析，得知春季积雪覆盖率与春季、冬季降水量呈显著正相关，冬季积雪覆盖率与冬季降水量具有显著正相关关系，其他时段积雪覆盖率与降水量基本无显著相关关系。各季节积雪覆盖率基本与温度呈负相关关系，其中，春季积雪覆盖率与春季气温关系极显著( $\ P < 0 . 0 1 \cdot$ ，夏季积雪覆盖率与春季气温关系亦达到显著水平( $\textstyle P < 0 . 0 5 )$ ，冬季积雪覆盖率与秋季气温显著负相关，与冬季气温成负相关关系，但未通过显著水平检验。
+
+# 4结论
+
+（1）内蒙古地区积雪期始于9月，次年5月结束，各海拔带积雪面积、积雪覆盖率年内分布呈单峰形分布，不同海拔带积雪期长短、月份分布不同，但均在12月、1月出现峰值。积雪覆盖率增减的临界高度带为 $9 5 2 \sim 1 ~ 1 1 4 ~ \mathrm { m }$ ,低于该海拔带区域，积雪覆盖率为 $100 \%$ 的持续时长逐渐增加，高于该海拔带，积雪覆盖率为 $100 \%$ 的持续时长逐渐减少。
+
+(2）春季、夏季、秋季不同高程带的积雪面积整体上呈现出“增加一减少一增加一减少”的年际变化规律;冬季不同高程带的积雪面积整体上表现出“减少一增加一减少”的变化规律。海拔位于 $8 0 \sim$ $1 9 4 8 \mathrm { ~ m ~ }$ ,春季、夏季、秋季积雪面积峰值年为2003年和2007年。海拔 $1 ~ 9 4 8 \sim 3 ~ 6 1 9 ~ \mathrm { m }$ 的区域,四季积雪面积整体变化平缓，无明显波动。
+
+（3）研究区积雪覆盖率受降水量和气温的影响，而降水及气温与海拔高度有相关关系，海拔高度可能间接影响积雪覆盖。内蒙古地区春季、冬季积雪覆盖率均与冬季降水量显著正相关。各季节积雪覆盖率基本与温度呈负相关关系，其中，春季积雪覆盖率与春季气温呈极显著相关关系，夏季积雪覆盖率与春季气温亦达到显著水平，冬季积雪覆盖率与
+
+表4不同季节积雪覆盖率与气温和降水的相关分析  
+Tab.4Correlation coeffcient between snow coverage rate and air temperature and precipitation in different seasons   
+
+<html><body><table><tr><td rowspan="2">季节</td><td colspan="4">降水量</td><td colspan="4">气温</td></tr><tr><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>春季</td><td>0.680 *</td><td>-0.093</td><td>0.309</td><td>0.763 **</td><td>-0.681**</td><td>0.030</td><td>-0.196</td><td>-0.364</td></tr><tr><td>夏季</td><td>-0.246</td><td>0.224</td><td>-0.074</td><td>-0.540</td><td>-0.483 *</td><td>-0.353</td><td>-0.016</td><td>0.004</td></tr><tr><td>秋季</td><td>0.149</td><td>0.263</td><td>0.305</td><td>-0.149</td><td>-0.130</td><td>-0.565</td><td>-0.158</td><td>0.183</td></tr><tr><td>冬季</td><td>-0.059</td><td>0.123</td><td>0.477</td><td>0.739 **</td><td>-0.296</td><td>0.191</td><td>-0.610 **</td><td>-0.496</td></tr></table></body></html>
+
+秋季气温显著负相关。
+
+# 参考文献（References）：
+
+[1]汪方,丁一汇.不同排放情景下模拟的 21 世纪东亚积雪面积 变化趋势[J].高原气象,2011,30(4）:869-877.[Wang Fang, Ding Yihui.Trend of cover fractionin East Asia in 21th century under different scenarios[J].Plateau Meteorology,2O11,30（4）: 869 -877. ]   
+[2]王绍武.冰雪覆盖与气候变化[J].地理研究,1983,2(3)：73- 86.[Wang Shaowu. Global ice-snow cover and climatic changes [J].Geographical Research,1983,2(3）:73-86.]   
+[3]普布次仁,除多,卓嘎,等.2001—2010 年喜马拉雅山珠穆朗玛 峰自然保护区积雪面积的时空分布特征[J].冰川冻土,2013， 35(5）:1 103 -1 111.[Pubu Ciren,Chu Duo,Zhuo Ga,et al. Temporal and spatial distribution of snow cover in the Qomolangma natural reserve of the Himalayas during 2001-2O1O[J]. Journal of Glaciology and Geocryology,2013,35（5）:1103-1111.]   
+[4]何丽烨.中国西部积雪类型划分及影响因子分析[D].南京： 南京信息工程大学,2011.[He Liye.Study on the Classification of Snow Cover and Influencing Factors in West China[D].Nanjing:Nanjing University of Information Science & Technology, 2011. ]   
+[5]孙小龙,宋海清,李平,等.基于CLDAS 资料的内蒙古干旱监 测分析[J].气象,2015,41（10):1245-1252.[Sun Xiaolong， Song Haiqing,Li Ping,et al.Analysis of drought monitoring in Inner Mongolia based on CLDAS data[J].Meteorological Monthly, 2015,41(10):1 245 -1 252.]   
+[6]王增艳,车涛.2002—2009 年中国干旱区积雪时空分布特征 [J].干旱区研究,2012,29（3）:464-471.[Wang Zengyan,Che Tao.Spatiotemporal distribution of snow cover in arid regions in China[J].Arid Zone Research,2012,29(3）:464 -471.]   
+〔7]林金堂,冯学智,肖鹏峰,等.基于 MODIS 数据的玛纳斯河山 区雪盖年际波动特征研究[J].干旱区地理,2011,34（6）：975 -982.[Lin Jintang,Feng Xuezhi,Xiao Pengfeng,etal.Inter-annual fluctuation of snow cover in mountainous area of Manas River basin based on MODIS[J].Arid Land Geography,2011,34（6）: 975 -982.]   
+[8]陈心池,张利平,闪丽洁,等.新疆山区中小河流洪水预报模型 及其应用[J].干旱区研究,2017,34(6):1426-1435.[Chen Xinchi,Zhang Liping,Shan Lijie,etal.Flood prediction models and their application for the medium and smallrivers in alpine area in Xinjiang[J]. Arid Zone Research,2017,34（6）:1 426- 1 435.]   
+[9]庄晓翠,周鸿奎,王磊,等.新疆北部牧区雪灾评估指标及其成 因分析[J].干旱区研究,2015,32（5）：1000-1006.[Zhuang Xiaocui,Zhou Hongkui,Wang Lei,et al. Evaluation and cause study on the snow disasters in pastoral areas of Northern Xinjiang [J].Arid Zone Research,2015,32(5）:1 000 -1 006.]
+
+[10]苏志尧,刘刚，区余端，等.车八岭山地常绿阔叶林冰灾后林木受损的生态学评估〔J].植物生态学报，2010，34（2）：213-222.[Su Zhiyao,Liu Gang,Ou Yuduan,et al. Storm damage in amontane evergreen broadleaved forest of Chebaling National NatureReserve,South China[J].Chinese Journal of Plant Ecology,2010,34(2):213 -222.]
+
+[11]李秀芳，朱教君，王庆礼，等.森林的风/雪灾害研究综述[J]. 生态学报,2005,25（1）:148-157.［Li Xiufang,Zhu Jiaojun, Wang Qingli,etal.Forest damage induced by wind/snow:A review [J].Acta Ecologica Sinica,2005,25(1）:148-157.]
+
+[12]赵霜，方一平.青海省果洛州草地畜牧业雪灾的恢复力[J].干 旱区研究,2017,34（4）:898-905.[Zhao Shuang,Fang Yipping.Resilience of grassland livestock husbandry against snow disaster in Guoluo Prefecture,Qinghai province[J].Arid Zone Research,2017,34（4):898-905.]
+
+[13]蔡迪花,郭锯,王兴,等.基于MODIS 的祁连山区积雪时空变 化特征[J].冰川冻土,2009,31(6）：1028-1036.[Cai Dihua, Guo Ni,Wang Xing,et al. The spatial and temporal variations of snow cover over the Qilian mountains based on MODIS data[J]. Journal of Glaciology and Geocryology,2009,31（6）:1 028- 1 036.]
+
+[14］萨楚拉,刘桂香,包刚,等.内蒙古积雪面积时空变化及其对气 候响应[J].干旱区资源与环境,2013,27（2)：137-142.［Sa Chula,Liu Guixiang,Bao Gang,et al.The spatial and temporal changes of snow cover in Inner Mongolia and their responses to climate[J]. Journal of Arid Land Resources and Environment,2013, 27(2):137 -142.]
+
+[15]李斐,刘苗苗，王水献.2001—2013年开都河流域上游积雪时空分布特征及其对气象因子的响应[J.资源科学，2016，38(6）：116O-1 168.［Li Fei,Liu Miaomiao，Wang Shuixian.Change in snow coverage and responses to climate change from2001 to 2O13 in the upper reaches of Kaidu River Basin[J].Re-sources Science,2016,38(6):1160-1168.]
+
+[16]颜伟，刘景时，罗光明，等.基于MODIS数据的2000一2013年 西昆仑山玉龙喀什河流域积雪面积变化[J.地理科学进展， 2014,33(3）:315-325.[Yan Wei,Liu Jingshi,Luo Guangming, et al.Snow cover area changes in the Yurungkax river basin of West Kunlun mountains during 200o-2013 using MODIS data [J].Progress in Geography,2014,33(3）:315-325.]
+
+[17]党素珍，刘昌明，王中根，等.近10 年黑河流域上游积雪时空 分布特征及变化趋势[J].资源科学，2012，34（8）：1574- 1581.[Dang Suzhen,Liu Changming,Wang Zhonggen,etal. Spa tio-temporal distribution characteristics of snow cover in the upper reaches of Heihe river basin over the past1O years and the variation trend[J].ResourcesScience,2012,34(8):1574-1581.] [18]马玉明.内蒙古资源大辞典［M].呼和浩特：内蒙古人民出版 社,1997.［Ma Yuming.Inner Mongolia Resources Dictionary [M].Hohhot:Inner Mongolia Publishing Group,1997.]
+
+[19」黄懿，代春梅.基于GIS技术的乐山市暴雨洪涝灾害风险区划 研究[J].高原山地气象研究,2014,34（1）：62-67.［Huang Yi,Dai Chunmei. Study on rainstorm and flood disaster risk zoning ofLeshan based on GIS technology[J].Plateau and Mountain Meteorology Research,2014,34（1）:62-67.]
+
+[20]李弘毅，王建，郝晓华.祁连山区风吹雪对积雪质能过程的影 响[J].冰川冻土,2012,34（5）：1084－1090.[Li Hongyi, Wang Jian,Hao Xiaohua.Influence of blowing snow on snow mass and energy exchanges in Qilian mountainous[J]. Journal of Glaciology and Geocryology,2012,34(5）:1084-1090.]
+
+[21]萨楚拉.内蒙古草原牧区雪灾监测与风险评价研究[D].北京：中国农业科学院,2015.［Sa Chula.Pastral and GrasslandSnow Hazard Monitoring and Risk Assement Research in InnerMongolia[D].Beijing：Chinese Academy of Agricultural Sci-ences,2015.]
+
+[22]希爽,张志富.中国近50a积雪变化时空特征[J].干旱气象, 2013,31(3）:451-456,470.[Xi Shuang,Zhang Zhifu.Effects of south asia high and western pacific subtropical high on the summer precipitation anomalies over Southwest China[J]. Journal of Arid Meteorology,2013,31(3）:451-456,470.]
+
+[23]赵成义，施枫芝，盛钰，等.近50a来新疆降水随海拔变化的区 域分异特征[J].冰川冻土,2011,33(6)：1203-1213.[Zhao Chengyi,Shi Fengzhi,Sheng Yu,et al.Regional differentiation characteristics of precipitation changing with altitude in Xinjiang Regionin recent5O years[J].Journal ofGlaciologyand Geocryology,2011,33(6):1 203-1 213.]
+
+[24]王冰，边玉明，张秋良，等.近45年内蒙古大兴安岭林区不同 等级降水变化特征[J].生态学杂志，2017,36（11)：3235- 3 242.[Wang Bing,Bian Yuming,Zhang Qiuliang,et al.Dynamic characteristics of different grade precipitation events during past 45 years in Daxing'anling forest region,Inner Mongolia[J].Chinese Journal ofEcology,2017,36(11）:3 235-3 242.]
+
+[25]韦志刚，黄荣辉，陈文.青藏高原冬春积雪年际振荡成因分析 [J].冰川冻土,2005,27（4）:491-497.[Wei Zhigang,Huang Ronghui,Chen Wen.The causes of the interannual variation of snow cover over the Tibetan plateau[J].Journal of Glaciology and Geocryology,2005,27(4）:491-497.]
+
+# Distribution and Trend of Snow Cover in Inner Mongolia from 2001 to 2016 Based on MODIS Data
+
+SUN Xiao-rui¹，GAO Yong¹，DING Yan-long'，MENG Zhong-ju’， JIA Xu', DU Peng²，LIANG Yu-mei' (1.CollgeofDesertSciencendEngineering,InerongoliaAgriculturalUniversityHohotOO,rongoliaina; 2.Inner Mongolia M·Grass Ecological Environment（Group）Co．,LTD,Hohhot OloolO,Inner Mongolia,China）
+
+Abstract：Meltwater is oneof the most important water sources inarid area.Monitoring of the change of snow cover distribution is crucialfortheutilization of regionaliceand snow resources and theprevention of iceand snow disasters.Inthis paper,thecollectionof snow coverin the diffrent altitude zones inthe research area was carried outbased on the MOD10A2 snow cover data in Inner Mongolia during the period from 20Ol to 2016.The annual and inter-annual changesof snow cover distribution in diferent altitude zones and the factors affecting such changes in combination with meteorological factors （such as temperature and precipitation）were analyzed.The results revealedthat the curves of annual distribution of snow cover area and snow coverage rate were unimodal.The snow cover duration in 1O altitude zones started from September to next May,andthe peak value of snow cover depth occurred n winter.The critical elevation of the increase and decrease of snow coverage rate was between 952-1114 ma.s.l.The inter-annual change of snow cover in diferent altitude zones was in a patern of“increase-decreaseincrease-decrease”in spring,summer and autumn,but in apattern of“decrease-increase-decrease”in winter.The snow cover area was affected bythe interaction of precipitationand airtemperature,and it might beaffcted indirectly by altitude.In Inner Mongolia,there was asignificantly positive correlation between the snow coverage rate in spring and winter and the winter precipitation,but a basically negative one between it and temperature.
+
+Key words:MODlOA2；air temperature； precipitation； snow coverage rate； snow cover area； Inner Mongolia

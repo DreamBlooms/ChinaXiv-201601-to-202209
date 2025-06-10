@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "华支睾吸虫钙调节蛋白的生物学特性及与肝纤维化的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑明慧1²,胡坤华³,刘 炜4，余新炳² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中山大学1孙逸仙纪念医院检验科，广东广州 510120；中山医学院热带病防治重点实验室,病原生物学教研室,药理学教研室,广东广州 510080;第三附属医院广东省肝脏疾病研究重点实验室,广东广州 510630",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的对华支睾吸虫成虫(Clonorchissinensis, $C s$ )钙调节蛋白(CaM)进行生物学及功能分析，以确定其在肝纤维化中的作用。方法从CscDNA质粒文库中寻找 $C s C \\mathrm { a M }$ 全长序列，以BLASTx搜索其同源序列并进行比对分析。以生物信息学进行同源比对、理化性质分析及功能域预测。以分子生物学方法进行原核克隆，大肠杆菌表达，亲和层析纯化，并将纯化蛋白免疫大鼠,产生多克隆抗体。ELISA检测CsCaM抗体滴度及产生曲线。免疫印迹实验分析CsCaM重组蛋白纯化及其抗体识别效果。免疫组化分析其组织定位；腹腔注射法建立CsCaM致大鼠肝纤维化模型。结果重组、表达及纯化了CsCaM,其编码150位氨基酸，理论相对分子质量 $2 3 ~ 4 0 0 _ { \\circ }$ 结构域预测其具有EF手位模序。pET-30a-CsCaM重组质粒其目的蛋白表达于宿主菌BL21E.coli上清，相对分子质量约 $2 3 \\ 4 0 0$ 。总IgG抗体滴度于2\\~4周达较高峰，效价大于1:51200。免疫组织化学定位显示CsCaM在成虫睾丸表达丰富。CsCaM腹腔注射大鼠的肝脏均显示不同程度病变，HE染色可见炎症反应较严重，可见气球样变、门管区炎及碎片状坏死;网状纤维染色显示小胆管周围胶原增生，有轻到中度纤维化。结论CsCaM促进大鼠肝脏炎症病变及纤维化的作用，提示其可能参与了华支辜吸虫病致肝纤维化的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：华支睾吸虫；钙调节蛋白；肝纤维化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Characterization of a Clonorchis sinensis antigen, calmodulin, and its relationship with liver fibrosis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHENG Minghui²2,HUKunhua’,LIU Wei,YU Xinbing²   \nDepartmentoficalLbotorytemalHspitalofntesityagzoua;atf ParasitologyKyboatorfooicalesstrolepamntfcologosnlecie 510080,ChigdogrocialKeyboatoyofesesedfeditalteesityg 510630, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveTocharacterizethebiologicalfunctionofcalmodulin(CaM)fromClonorchis sinensis (C.sinensis,Cs)and investigateitsroleinclonorchiasis-asociated hepaticfibrosis.MethodsThefullengthsequenceofCsCaMgenewasisolated from Cs cDNA library and its homologues were searched using BLASTx for comparison. Bioinformatics analysis was performed tocompare the homologuesand predict the physiochemicalcharacteristicsand functional domains.Thegene was cloned inaprokaryotic plasmidand expressdinE.coli,andtherecombinant proteinwaspurifiedbyafinitychromatography for immunizing rats to produce polyclonal antibodies, whosetiter was determined using ELISA analysis.Immunoblotting analysis was carredout to determine of the purity and antibody recognition of CsCaM. Immunofluorescence assay was employedtoanalyzethtissuelocationof theprotein.Aratmodelofliverfibrosiswas establishedbyintroperitonealinjection of therecombinant protein.Results The recombinant CsCaM protein obtained contained 150 amino acids with atheoretical molecular mass of $2 3 . 4 ~ \\mathrm { k D }$ .CsCaM homologue had EF hand motifs.The recombinant pET-30a-CsCaM plasmid expressed in BL21 E. coli was about $2 3 . 4 \\mathrm { k D }$ . The total IgG antibody titer in the immunized mice reached the peak level (over 1: 51200) 2 to 4 weeksafterthefirstinjection.Immunohistochemistryshowedthat CsCaMlocated inthetestisofadultC.sinensis.Therats receiving intraperitoneal injectionof CsCaM showed severe liver inflammation with mildto moderate liverfibrosis. Conclusion The pro-inflammationandpro-fibrosis effectsof CsCaMinrat liver suggest its involvement inclonorchiasisassociated hepatic fibrosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Clonorchis sinensis;calmodulin;hepatic fibrosis华支睾吸虫(Clonorchis sinensis,C.sinensis,Cs)主要寄生于人或其它保虫宿主的肝胆管内。大量的临床病理观察和动物试验表明华支辜吸虫感染从早期开始就引起肝纤维化,但其致病机制尚不明确[-2]。我们前期的研究鉴定了华支睾吸虫的钙调节蛋白基因3,尽管有研究表明钙调节蛋白(calmodulin,CaM)参与了多种纤维化的病理过程，但华支辜吸虫感染是否通过钙调节蛋白致肝纤维化，其分子生物学特征如何、组织定位于何",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "处,目前尚无研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CaM普遍存在于真核细胞中，在动物的脑和睾丸组织中的含量比在一般组织中高数倍，钙在细胞内的许多作用都是通过CaM介导；CaM作用：参与调节控制信息传递9、糖原合成与分解[]、蛋白质磷酸化及脱磷酸化[1]、细胞内钙离子浓度[12]、平滑肌收缩[13]等。CaM是肝脏的一种重要的受体蛋白，可与ATP合酶结合于细胞膜[14],调节肝被膜极性,参与肿瘤细胞的生长增殖，可能是特发性骨髓纤维化病人[i5及囊性纤维化病人的致病因素。CaM的进化较保守，缺乏种属和组织特异性[17]。然而,目前华支睾吸虫表达的CaM的分子生物学特性及其与肝纤维化的关系尚不清楚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究中，我们克隆并表达了华支睾吸虫的钙调节蛋白，并对其分子生物学特征、组织定位及致肝纤维化功能进行了鉴定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1CsCaM生物信息学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从华支睾吸虫成虫cDNA质粒文库中寻找C.sinensis钙调节蛋白（ $\\mathbf { \\chi } _ { C s \\mathbf { C a M } } )$ 全长序列，以BLASTx搜索其同源序列并进行比对分析。以应用BLASTx程序(http://www.ncbi.nlm.nih.gov/BLAST/)搜寻其同源序列、VectorNTI suite 分析其保守性、Expasy(http://ca.expasy.org/)ProtParam预测分子量及理化性质、MotifScan及InterProScan进行结构域预测、SWISS-MODEL及3D-PSSM预测三维立体结构等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2CsCaM重组质粒的构建、重组蛋白的表达及纯化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)CsCaM以上游引物5'-GACTGGATCCTGTTTTTCGTGCTCCTGT-3'及下游引物5'-TTTTGCGGCCGCTTACTTCGCCGTCATCA-3'扩增目的片段，下划线表示酶切位点：BamHI，NotI(2)扩增目的片段PCR并进行胶回收纯化(北京赛百盛)；(3)纯化的目的片段与空载体进行限制性内切酶酶切、纯化回收酶切产物、T4连接酶连接、转化入感受态细胞DH-5α并进行培养扩增目的基因的拷贝数(TaKaRa)；(4)提取重组质粒进行限制性内切酶酶切鉴定，并将鉴定阳性质粒送测序；(5)将测序正确的重组质粒转化人BL21(DE3)以IPTG诱导目的蛋白表达，并确定表达最佳条件;(6)以最佳条件诱导目的蛋白表达，并收集重组菌体超声后分离上清和沉淀，并以SDS-PAGE分析目的蛋白的分布；(7)以His-bind纯化试剂盒(HisBindPurification Kit)(Novagen)进行目的蛋白纯化，纯化后的目的蛋白于",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PBS中进行透析，视情况进行浓缩，存于 $- 2 0 \\ \\mathrm { { ^ circ C } }$ 备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3抗血清制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SD大鼠 $2 0 0 ~ \\mu \\varrho /$ 只 $C s C \\mathrm { a M }$ 与等体积福氏完全佐剂混匀，皮下多点注射免疫，间隔2周进行第2次加强免疫（以 $1 0 0 \\mu \\mathrm { g / }$ 只加等体积不完全福氏佐剂);再间隔2周用上述方法进行一次加强免疫。末次免疫后2周大鼠眼球采血，分离血清，ELISA法测抗体效价后保存于 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4SDS-PAGE及Western blot分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE( $1 5 \\%$ gel)分析 $C s C a \\mathbf { M }$ ，电转移至PVDF 膜（Qbiogene），以 $6 \\times \\mathrm { H i s }$ 单克隆抗体(mousesource)(Boster Co.) $\\mathit { C s C a M }$ 及抗血清、正常小鼠血清及正常大鼠血清分别进行免疫印迹识别;然后，以HRP标记的兔抗大鼠或兔抗小鼠IgG(BosterCo.)作为二抗，以二氨基联苯胺底物显色。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 . 5 \\ C s \\ C a \\mathbf { M }$ 于C.sinensis成虫免疫组化定位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将从感染华支睾吸虫动物体内分离的成虫固定后制作石蜡切片。脱蜡后的石蜡切片和活体玻片以自发荧光淬灭剂(Applygen)处理,PBS-T(PBS 溶液中含$0 . 0 5 \\%$ Tween20,PBS-T)清洗后，以 $10 \\%$ BSA的PBS$4 \\mathrm { { ^ \\circ C } }$ 封闭过夜。PBS-T清洗后，以 $C s C \\mathrm { a M }$ 的抗血清孵育室温1h,同样方法以大鼠免疫前血清做对照。PBS-T清洗后,以FITC标记的二抗goatanti-rat $\\mathrm { I g G ( H { + } L ) } ( 1 { : }$ 400dilution）(MolecularProbes,Invitrogen)室温孵育$3 0 ~ \\mathrm { m i n }$ 。PBS-T清洗后，荧光显微镜拍照(OlympusIX61)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6ELISA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)包被缓冲液 $\\mathrm { ( p H 9 . 6 0 . 0 5 \\ m o l / L }$ 碳酸盐缓冲液)将CsESP稀释至 $1 0 ~ { \\mu \\mathrm { g / m l } } , 0 . 1 ~ \\mathrm { m l } \\$ 孔于96孔酶标板，$4 \\mathrm { { ~ ‰ ~ } }$ 过夜;(2)次日用PBS-Tween20(PBS溶液中含$0 . 0 5 \\%$ Tween20,PBS-T)洗涤3次，每次 $5 ~ \\mathrm { m i n }$ 。 $5 \\%$ 脱脂奶粉 $3 7 ^ { \\circ } \\mathrm { C } , 2 \\mathrm { h }$ 封闭，PBS-T洗涤后加 $1 : 2 0 0$ 稀释的待检样品 $0 . 1 \\mathrm { m l }$ 于包被反应孔中， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $2 \\mathrm { h }$ 。并做空白、阴性对照；(3)PBS-T洗涤3次后，加入 $0 . 1 ~ \\mathrm { m l / \\Omega }$ 孔 $1 : 2 0 \\ : 0 0 0$ 稀释的HRP标记的兔抗大鼠 $1 \\mathrm { g G } , 3 7 \\mathrm { ~ \\textdegree C }$ 孵育1h;(4)洗涤后， $0 . 1 ~ \\mathrm { m l / \\Omega }$ 孔加入TMB溶液，显色 $5 \\sim$ $1 0 ~ \\mathrm { { m i n } }$ ；(5） $0 . 0 5 ~ \\mathrm { m l }$ 孔中加入 $2 \\mathrm { m o l } / \\mathrm { L }$ 硫酸;(6)全自动酶标仪检测仪 $4 5 0 \\mathrm { n m }$ 测OD值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7腹腔注射法建立 $C s C a M$ 致大鼠肝纤维化模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6\\~8周龄雄性SD大鼠，8只/组，分3组：猪血清$0 . 5 { \\mathrm { m l } }$ 腹腔注射2次/周，至其第8周作为阳性对照；实验组以溶于PBS中的 $C s \\mathbf { C a M } ( 2 0 0 \\mu \\mathrm { g } / \\$ 只)与等体积福氏完全佐剂(Sigma)混匀，腹腔注射，间隔2周进行第2次加强注射（以 $1 0 0 ~ \\mu \\varrho /$ 只加等体积不完全福氏佐剂(Sigma));再间隔2周以上述方法进行1次加强注射;PBS以上述方法注射作为阴性对照。末次注射后2周大鼠眼球采血，分离血清，ELISA法测抗体效价后保存于 $- 8 0 \\ \\mathrm { { ^ circ C } }$ 备用。处死动物，取肝脏， $4 \\%$ 甲醛-PBS固定，石蜡包埋切片，HE染色观察肝脏炎症坏死反应严重程度，网状纤维染色观察肝脏纤维化严重程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1CsCaM生物信息学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CsCaM具有4个EF手位模序1,即aa21-33、aa57-69、aa94-106、aa130-142；4个EF手位模序2，即aa8-43、aa44-79、aa81-116、aa117-150(图1A);4个EF结构域,即aa 12-40、aa 48-76、aa 85-113、aa 121-149(图1C)。CsCaM的开放阅读框共有450bp,编码150位氨基酸，理论相对分子质量为23400(图1B)。与日本血吸虫亲缘关系最近，其次是曼氏血吸虫，与人、原鸡、小鼠亲缘关系较远(图1D)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A 1 150 □ EF-HAND-1 21 33 57 69 94 106 130 142 1 150 □ EF-HAND-2 8 4344 7981 116 117   \nB 1 CCTATCCATAGCTTCAIATCGAAITCGTATCGCCATTACGGCCCCCCITACGGGTTATCGTGCTCITITTCCTCCICCTGTTTCT HA D 中 L T E E □ 1 自 E P K E 1 F S L F D 国 D G D G T 1 T 91 CTCATCCCCCATCAACTAACACAAGAACACATTCCACAAITCAAGCACCITTCTCCCTCIIICACAACCAITCCAGATCCTACCATCACC TKE L H T U HR SL 号 9 HP 1 E A E L □ □ H 1 HEU DAD 181 ACGAAAGAGTTGGGAACCGTCATGCGATCTCTGGGGCAAATCCGACTGAGGCAGAGCTGCAGGATATGATTAATGAGGTCGATGCCGAT GHG T 1 D F PE F L T HH 自 RK H H D T □ 3 E E E 1 RE 271 GGCAACGGGACCATCGATTTTCGAATTTCTGACCATGATGGCACGCAAATGAAGGACACAGATAGCGAGGAAGAAATTCGAGAAGCC FRU F D 其 DGN GFI SAA EL R H H T HL GEK LTD 361 TTCCGGTGTTTGACAAGACGGCAATGGATTTATCTCTGCAGCCGAATTACGGCACGTAATGACAACCTCGGTGAAAGTTGACGGAT EEU DEH IRE 自I DG GQ HYE EFU KHH TAK 451 GAGAAGTCGATGAATGATCCGTGAAGCTGATATTGATGGCGATGGTCAAGTAAATTACGAGGAGTTTGTCAAAATGATGACGGCGAAG 541 TAACAACACCACAACCACCTCCCCTTECCTTCCC ATAACTTCC CCTCACAACAACCCATACCCACACTCTCCCTTCCA CAATCCACT 631 TTCTCTTTTCTGCACACAACTTCCCCCCTCCCTACATCACCTCTTCTAATTCTCTTCCCCTTTTCCTCCCTCCATTCTCAAACTCTCC 721 CATGTCGAGTGTGTGGCTCGCCCCATATGCTGCTTTTGTGGTGGAAAGCGATCAATGCTCCITTGAATIGCGTTTGACCTTTTIATGGCC 811 IIIGTAAGGTCAITTGGACCAATTGCTGGGAAACCGTITGCTIGGACCAACCTGCACATGCTCTGATTGAACAAACCCCTACCCCCTCC ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/06b027a80de3d99a7ed90ab4fcd98c65eef62cac57799a1c6fb50666ea6b6cea.jpg",
+        "img_caption": [
+            "图1钙调节蛋白的生物信息学分析",
+            "Fig.1 Bioinformatics analysis of calmodulin (CaM).A:MotifScan prediction of CaM.B: Nucleotidesequence and thededuced amino acid sequence of the CsCaM cDNA. C:SWISS-MODEL diaplaying CaM's EFhand domains.D: Molecular evolution tree of CaM，Schistosoma japonicum (GenBank AccessionNo.CAX71443.1，Schistosoma mansoni (GenBankAccessionNo.XP_ 002574096.1)，Homosapiens(GenBank Accession No．AF178845_1)，Gallus gallus (GenBank Accession No.AAA48653.1) and Rattus norvegicus (GenBank Accession No. XP_001073968.1). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2CsCaM的重组、表达、纯化及Westernblotting分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "pET-30a-CsCaM重组质粒BamHI,NotI双酶切鉴定，切下约 $4 5 0 \\mathrm { b p }$ 的目的片段，与CsCaM基因的片段大小一致(图2A)。CsCaM重组质粒BL21E.coli表达，菌体上清中有目的条带表达，目的蛋白相对分子质量与理论分子量相符(图2B)。CsCaM纯化蛋白可被His单抗识别，并可被其抗血清识别(图2C)。免疫印迹实验提示CsCaM具有His标签和免疫反应性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3免疫荧光分析CsCaM重组蛋白在C.sinensis的组织定位",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫组织化学显示CsCaM定位于成虫的辜丸，阴性对照的相应部位未见到明显荧光，推测其可能与虫体的雄性生殖系统成熟相关(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4CsCaM重组蛋白ELISA分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CsCaM总IgG抗体滴度于2-4周达较高峰，抗体效价大于1:51200，表明重组CsCaM具免疫原性(图4)。2.5CsCaM对大鼠肝脏的作用及其抗体效价、抗体曲线",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CsCaM腹腔注射大鼠的肝脏均显示不同程度病变，HE染色可见炎症反应较严重，可见气球样变、门管区炎及碎片状坏死；网状纤维染色显示小胆管周围胶原增生，有轻到中度纤维化。PBS注射组炎症反应也较严重，猪血清注射组显示胶原纤维增生（图5A)。CsCaM模型组的抗体滴度达1:51200以上，于4周达峰值(图5B）。CsCaM的促进大鼠肝脏炎症病变及纤维化作用，提示其可能参与了华支睾吸虫病致肝纤维化的作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/953109f28c1bb71ee2b8594e966ec7f018810f6b535ef0c723478b513732e077.jpg",
+        "img_caption": [
+            "图2重组CsCaM的克隆、表达及鉴定"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肝纤维化是华支睾吸虫病的重要病理损害，也是病毒性肝炎等多种肝脏疾病的共同转归交接点，是肝硬化甚至肝癌的前兆，肝纤维化是相对可逆的过程,故是临床治疗的关键阶段[18]。研究肝纤维化的机制，阐明其发生发展原理，可为筛选诊断标志、高效疫苗及药物靶标提供依据，促进人类攻克肝脏疾病的进程。目前的研究表明，肝纤维化是肝脏中产生的细胞外基质(extracellularmatrix,ECM)合成大于了其降解速度，而使得肝脏内细胞外基质大量堆积及重塑。肝星状细胞(hepatic stellate cell,HSC)在肝纤维化过程中起重要作用，肝脏的各种损伤可导致其由静止的储脂细胞活化为成纤维细胞，后者释放出一系列的细胞因子,促使ECM的沉积和纤维化[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究表明，CaM参与了若干疾病纤维化的过程。在特发性骨髓纤维化发病机制研究中，疾病组CaM浓度高达对照组的3倍，其可能由血小板或巨噬细胞释放，从而参与了特发性骨髓纤维化的发病[15]；在囊性纤维化的病人，其皮肤纤维母细胞中CaM浓度升高，提示其参与发病[20。那么，在华支睾吸虫病肝纤维化中CaM会有什么样的作用呢?我们的研究结果提示CsCaM具有促进大鼠肝脏炎症病变及纤维化作用(图5A)，同时伴随高滴度的CsCaM多克隆抗体产生(图5B)，提示其可能通过CsCaM高滴度抗体参与了华支睾吸虫病致肝纤维化的作用，推测CsCaM抗体可能不是一种保护性抗体。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41bb5c4c39e4f145b8427b1b636c98969a051f2c26d65cd791777daa63a195ac.jpg",
+        "img_caption": [
+            "Fig.2Cloning，expression and identification of recombinant CsCaM.A: Identification of pET-30a-CsCaM by digestion with restriction enzyme and PCR amplification.DL20o0 marker (M);PCR amplification (Lane 1);recombinant pET-30a (Lane 2) and empty pET-28a (Lane 3) digested by restriction enzymes and DL15000 marker (M);B: Expression and purification of CsCaM homologue. Molecular mass standards(M); BL21 cell contained pET-30a without IPTG induction (Lane 1) and with IPTG induction (Lane 2);BL21 cell contained the recombinant pET-30a without IPTG induction (Lane 3) and with IPTG induction (Lane 4); supernatants of lysate of recombinant protein (Lane 5);sediments of lysate of recombinant protein (Lane 6)； the purified recombinant protein (Lane 7)；C: Identification and antigenicity of recombinant CsCaM homologue.Recombinant CsCaM homologue protein reacted with mouse $6 \\times \\mathrm { H i s }$ monoclone antibody (His), sera from rats immunized with the recombinant CsCaM homologue (Calmodulin), the sera from naive mouse,and the sera from naive rat. ",
+            "图3CsCaM在C.sinensis成虫的免疫荧光定位 Fig.3Immunofluorescence for CsCaM homologue localization in adult C.sinensis.t: Testis.A:Fluorescent field of positive response in the testis to rat IgG against recombinant protein; B: Bright field of positive response in the testis to rat IgGagainst recombinant protein; C:Fluorescent field of negative response in the testis to IgG from normal rats; $D$ ：Bright field of negative response in the testis to IgG from normal rats. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d54b890468ba8f04b312b4e199e75eefb53545c919fa2f92bbe648201f3d718.jpg",
+        "img_caption": [
+            "图4CsCaM的抗体生成曲线 Fig.4 Antibody development curves of CsCaM in mice. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CsCaM分子生物学特征如下：生物信息学分析（图1)，表明CsCaM具有保守的EF-HAND结构域，是钙离子的结合位点,从而参与多种细胞代谢[21]。ELISA",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PBS (HE staining) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/08e2cfc8836d3047b2bd0e184701c6093abdc0aafa7c4662ab66d0be5d3ae45b.jpg",
+        "img_caption": [
+            "CsCaM(reticular fiber staining) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析(图4)及免疫印迹实验(图2B)表明， $C s C a M$ 具有良好的免疫原性，可以产生特异性的IgG多克隆抗体；并具有良好的免疫反应性， $C s C \\mathrm { a M }$ 可以和其抗血清特异性识别。免疫荧光分析CsCaM定位于成虫的辜丸（图3),提示其可能与雄性生殖系统成熟相关。与其他物种的 $C s C a M$ 荧光定位相符，如果蝇的CsCaM定位于睾丸，并参与其精子生成[22];；小鼠的 $C s C \\mathrm { a M }$ 大量分布于睾丸,参与其精子的成熟分裂[23]。分子生物学特征分析有助于进一步研究CsCaM的功能，阐明CsCaM在华支辜吸虫病致肝纤维化中作用途径及原理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本实验中，对华支睾吸虫抗原成分中的CsCaM进行分子生物学、免疫原性及组织病理学的分析，为进一步阐明华支睾吸虫病致肝纤维化的机制提供了基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Hu F,Yu X,Ma C,et al．Clonorchis sinensis:expression, characterization,immunolocalization and serological reactivity of one excretory/secretory antigen-LPAP homologue[J].Exp Parasitol, 2007,117(2): 157-64.   \n[2]Hu FY,Hu XC,Ma CL,et al.Molecular characterization of a novel Clonorchis sinensis secretory phospholipase A(2) and investigation of its potential contribution to hepatic fibrosis [J].Mol Biochem Parasitol,2009,167(2): 127-34.   \n[3]Zheng MH,Hu KH,Liu W, et al.Proteomic analysis of excretory secretory products from Clonorchis sinensis adult worms:molecular characterization and serological reactivity of a excretory- secretory antigen-fructose-1,6-bisphosphatase[J].Parasitol Res,2O11,109(3): 737-44.   \n[4]Ma CL,Hu XC,Hu FY,et al. The efects of Lysophospholipase from Clonorchis sinensis on the hepatic stellate cells and oval cells of rat][J].Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi,20O8,24(7): 692-5.   \n[5]Ma C,Hu X,Hu F,et al.Molecular characterization and serodiagnosisanalysisofanovellysophospholipasefrom Clonorchis sinensis[J].Parasitol Res,2007,101(2): 419-25.   \n[6]Hu F,Hu X,Ma C,et al. Molecular characterization of a novel Clonorchis sinensis secretory phospholipase A(2) and investigation of its potential contribution to hepatic fibrosis [J].Mol Biochem Parasitol,2009,167(2): 127-34.   \n[7]Li S,Chung YB,Chung BS,et al. The involvement of the cysteine proteases of Clonorchis sinensis metacercariae in excystment [J]. Parasitol Res,2004,93(1):36-40.   \n[8]Kang JM, Bahk YY,Cho PY,et al.A family of cathepsin F cysteine proteases of Clonorchis sinensis is the major secreted proteins that are expressed in the intestine of the parasite[J].Mol Biochem Parasitol,2010,170(1): 7-16.   \n[9]Khananashvili MM,Karsanov NV,Khugashvili ZG,etal. Disturbance of $\\mathrm { C a } ^ { 2 + }$ -calmodulin- and cAMP-dependent regulation of $\\mathrm { C a } ^ { 2 + }$ transport in myocardial sarcoplasmic reticulum in experimental information disease[J].Fiziol Cheloveka,1992,18(2): 49-54.   \n[10]Rylatt DB,Embi N,Cohen P.The role of calmodulin in regulation of glycogen metabolism[J].Biochem Soc Trans,1979,7(4): 622-4.   \n[11] Sugatani J, Hattori Y,Noguchi Y,et al. Threonine-29O regulates nuclear translocation of the human pregnane X receptor through its phosphorylation/dephosphorylation by $\\mathbf { C a } ^ { 2 }$ +/calmodulin-dependent protein kinase II and protein phosphatase 1[J]. Drug Metab Dispos, 2014,42(10): 1708-18.   \n[12]Gangopadhyay JP，IkemotoN.Intracelular translocationof calmodulin and ${ \\mathrm { C a } } ^ { 2 \\cdot }$ /calmodulin-dependent protein kinase II during the development of hypertrophy in neonatal cardiomyocytes [J]. Biochem Biophys Res Commun,2010,396(2): 515-21.   \n[13]Zhu LJ,Klutho PJ, Scott JA,et al. Oxidative activation of the Ca $( 2 + ) .$ /calmodulin-dependent protein kinase II(CaMKII) regulates vascular smooth muscle migration and apoptosis [J].Vascul Pharmacol,2014,60(2): 75-83.   \n[14]Contessi S, Comell M, Cmet S,et al. IF1 distribution in HepG2 cells in relation to ecto-F(O)F(1)ATPsynthase and calmodulin[J]. J Bioenerg Biomembr,2007,39(4): 291-300.   \n[15]Eastham JM,Reilly JT, Mac Neil S.Raised urinary calmodulin levels in idiopathic myelofibrosis:possible implications for the aetiology of fibrosis[J].BrJHaematol,1994,86(3): 668-70.   \n[16]Rochette-Egly C,Lacroix B,Pflieger H,et al. Calmodulin in normal and cystic fibrosis human intestine at different developmental stages [J].Gut,1988,29(5): 571-9.   \n[17]Ben-Johny M,Yang PS,Niu J,et al.Conservation of $\\mathrm { C a } ^ { 2 } \\mathrm { \\Omega } ^ { + } / \\mathrm { \\Omega }$ calmodulin regulation across Na and $\\mathrm { C a } ^ { 2 + }$ channels[J]. Cell, 2014, 157(7): 1657-70.   \n[18] Zhang F, Liang P,Chen W,et al. Stage-specific expression, immunolocalization of Clonorchis sinensis lysophospholipase and its potential role in hepatic fibrosis [J].Parasitol Res,2013,112(2): 737-49.   \n[19]Chen L,Li J, Zhang JH,et al. S1OOA4 promotes liver fibrosis via activation of hepatic stellate cels [J].J Hepatol,2015,62(1): 156-64.   \n[20] Gnegy ME,Erickson RP, Markovac J. Increased calmodulin in cultured skin fibroblasts from patients with cystic fibrosis [J]. Biochem Med,1981,26(3): 294-8.   \n[21]Linse S,Voorhies M,Norstrom E,et al.An EF-hand phage display study of calmodulin subdomain pairing[J].JMol Biol,2000,296 (2): 473-86.   \n[22]Lu AQ, Beckingham K. Androcam,a drosophila calmodulin-related protein,is expressed specifically in the testis and decorates loop kl-3 of the Ychromosome[J].Mech Dev,2000,94(1/2):171-81.   \n[23] Sano M, Ohshima AS,Kawamura N,et al. Immunohistochemical study of calmodulin in developing mouse testis[J].J Exp Zool, 1987,241(1): 51-9. (妮旦) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

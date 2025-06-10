@@ -1,0 +1,554 @@
+[
+    {
+        "type": "text",
+        "text": "塔里木盆地风沙灾害强度和频次的时空分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王旭¹，王昀²，陈宝欣³，王秀琴4，李斌1(1.新疆维吾尔自治区人工影响天气办公室,新疆 乌鲁木齐830002；2.兰州大学大气科学学院，甘肃干旱气候变化与减灾重点实验室，甘肃 兰州730000；3.澳门理工学院人文及社会科学高等学校,澳门999078；4.新疆维吾尔自治区气象信息中心，新疆 乌鲁木齐 830002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：风沙灾害是造成塔里木盆地农牧业生产严重损害的一种气象灾害。利用1990—2019年塔里木盆地42个县(市)出现的1028次风沙灾害事件，以死亡人数、倒塌房屋数、倒塌棚圈数、损坏大棚数、牲畜死亡数量、农作物受灾面积作为6大灾情要素，采用比值权重和无量纲化线性组合方法，构建能综合表达灾害事件强度的灾损指数，进而利用百分位数法将灾害事件的强度定量划分为一般(1级）较重(2级）、严重(3级)和特重(4级)4个等级，基于灾害出现次数和灾损指数，分析盆地风沙灾害的时空分布特征。结果表明：盆地风沙灾害春季出现最多、强度最重，且集中在4—5月，盆地北部1\\~4级出现次数和强度明显大于盆地其他区域，盆地北部是风沙灾害的多发区和重灾区。1990—2019年盆地风沙灾害年出现次数呈显著的线性增加趋势，但年灾害强度围绕气候平均值上下震荡。1级年出现次数和年灾害强度均呈显著的线性增加趋势，而2\\~4级年出现次数和年灾害强度围绕气候平均值上下震荡。通过创建楼兰指数可从动力气候学角度解释盆地风沙灾害年出现次数长期变化的动力机制。随着盆地东部与西部气压差(楼兰指数)的不断加大，引发盆地4月和5月逐小时 $1 0 \\mathrm { m i n }$ 平均风速 $\\gtrsim 6 . 0 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 出现次数逐年增多，加之盆地绿洲规模的逐渐扩大，导致盆地风沙灾害年出现次数不断增加。研究结果可为塔里木盆地风沙灾害预报预警和防范提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：风沙灾害；灾损指数；强度和频次；时空分布；楼兰指数；塔里木盆地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风沙灾害是一种强风与沙对承载体造成严重损害的气象灾害。因其危害全球生态环境[-2]和社会经济可持续发展[3-5，引起国内外专家学者的高度关注[6-7],风沙灾害成为当前灾害学和农业气象学研究的热点和前沿课题[8-1]。在风沙灾害空间分布方面，部分学者通过构建风沙灾害危险度指数或灾害危险性评价模型,确定防沙治沙的核心区域[12-13];在风沙灾害形成方面，Okada等[14]提出灾害风险形成机制的“三因子论”;史培军[15]的“区域灾害系统理论\"指出，在区域灾害形成过程研究中，应将灾害与全球环境变化和经济一体化联系起来；另外，有些学者在风沙灾害风险评估[16-17]、风沙灾害成因与对策[18-19]、防沙工程优化与评价[20-22]等方面开展了研究，取得了很有意义的结果。鉴于灾害评估自身的特殊性和复杂性，目前还没有建立一个完全成熟、合理的评估系统，实现对风沙灾害危害程度的量化评价，以满足风沙对农牧业生产实际危害程度的评估需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在全球气候变暖加剧、生态环境保护和修复迫切的背景下[23]，中国面临着严峻的风沙灾害风险。新疆塔里木盆地因沙源丰富，大风多[24-25],使荒漠与绿洲交错的农牧业区遭受严重的风沙灾害，成为新疆风沙灾害的高发区之一，也是中国风沙灾害研究的主要区域。本文针对塔里木盆地采用适应当地农牧业生产特点的\"风沙灾害6大要素\"灾害强度指数计算方法，即采用比值权重法和无量纲化线性求和方法，由风沙灾害事件的6大灾情要素构建能表征风沙灾害强度的灾损指数。依据灾损指数利用百分位数法将每次风沙灾害事件的强度定量划分为一般(1级）较重(2级）严重(3级）特重(4级)4个等级，进而分析塔里木盆地不同强度风沙灾害的空间分布、季节变化和长期变化趋势。通过创建楼兰指数数学模型，从一个崭新的动力气候学角度，解释塔里木盆地风沙灾害长期变化的气候成因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆维吾尔自治区南部的塔里木盆地是中国面积最大的内陆盆地，在天山和昆仑山环抱之下盆地地貌呈“C\"字形环状分布，中国面积最大的塔克拉玛干沙漠坐落在盆地中心，在盆地边缘和沙漠间的冲积扇和冲积平原中镶嵌着绿洲。塔里木盆地的行政区包括5个地州市(图1)，为了便于分析问题，将盆地划分为东部、北部、西部、南部4个区域。东部指巴音郭楞蒙古自治州(简称巴州)，北部指阿克苏地区，西部包括克孜勒苏柯尔克孜自治州（简称克州)和喀什地区，南部指和田地区。在天山山脉垭口“狭管效应\"的作用下，盆地周边形成了多个局部风区，成为冷空气入侵盆地的主要通道。盆地东向甘肃开口，盆地东部盛行偏东大风，年平均大风日数在20\\~50d之间，大风瞬时风速可达40\\~60注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2017)3320号的标准地图制作。下同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c71a6bca428d0142246b0b47146952f5d6781b8e717256076340e5534b72df81.jpg",
+        "img_caption": [
+            "图1研究区地貌及行政区划",
+            "Fig.1 Topography and administrative division of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { m \\cdot s } ^ { - 1 [ 2 6 ] }$ 。大风天气为风沙灾害形成提供强有力的动力条件，致使极端干旱的盆地成为风沙危害的典型地区[27]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源与预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据《中国气象灾害大典·新疆卷》2和新疆维吾尔自治区民政厅记载的风沙灾情信息，整理得到1990—2019年塔里木盆地42个县(市)1028条风沙灾情记录。每条灾情记录包括出现日期、出现地域(县/市，简称县市)和6大灾情要素，6大灾情要素分别是死亡人数（人）、倒塌房屋数(间）、倒塌棚圈数（座）损坏大棚数(座）牲畜死亡数(头）农作物受灾面积 $\\left. \\mathbf { h } \\mathbf { m } ^ { 2 } \\right.$ )。若某县市地域内由大风、沙尘暴及干热风引发1次风沙灾害26，则该县市风沙灾害出现次数记为1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选取的盆地40个地面气象观测站日平均本站气压和 $2 ~ \\mathrm { m i n }$ 日平均风速资料、有自记风记录的13个地面气象观测站逐小时正点前 $1 0 ~ \\mathrm { m i n }$ 平均风速资料，均来源于新疆维吾尔自治区气象信息中心(表1)。由日平均本站气压计算楼兰指数，用于风沙灾害长期变化动力因子的讨论。在以下分析中， $2 ~ \\mathrm { m i n }$ 日平均风速简称为日平均风速[28],逐小时正点前 $1 0 \\mathrm { m i n }$ 平均风速简称为逐时风速。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "风具有脉动性，日平均风速是每日4次或者3次定时观测风速的平均[28],对风脉动性的响应要比逐时风速差。前人研究表明，塔里木盆地引起沙尘暴的 $2 ~ \\mathrm { m i n }$ 定时风速最低阈值为 $6 . 0 \\ \\mathrm { m \\cdot s ^ { - 1 [ 2 9 ] } }$ 。为了讨论风对风沙灾害长期变化的影响，计算逐年4—5月40站日平均风速的平均，得到盆地4一5月平均风速(FS);统计逐年4—5月13站逐时风速 $\\geq 6 . 0 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的出现次数，得到盆地4一5月逐时风速超过 $6 . 0 \\mathrm { { m } \\cdot \\mathrm { { s } ^ { - 1 } } }$ 的出现次数（FN）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2灾损指数的构建与灾害强度的等级划分",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每次风沙灾害事件包含具有不同单位的6大灾情要素，无法对不同灾害事件的强弱直接比较。为了能比较不同灾害事件的强弱，需要用6大灾情要素构建无量纲化的灾损指数。通过比值权重和无量纲化线性求和方法计算得到单次风沙灾害事件的灾损指数，具体计算方法见文献[30-32」。利用1028次风沙灾害事件计算的6大灾情要素的权重、平均值和最大值列于表2。在6大灾情要素中，权重",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/45eba78b1ddd9e5ff234f8da676424e713934951bd3baea62f16dc9e0c860288.jpg",
+        "table_caption": [
+            "Tab.1 Surface-based meteorological observation stations in Tarim Basin "
+        ],
+        "table_footnote": [
+            "注：右上角标注\"\\*\"号的地面气象观测站有自记风记录。"
+        ],
+        "table_body": "<html><body><table><tr><td>序号</td><td>站号</td><td>站名</td><td>序号</td><td>站号</td><td>站名</td><td>序号</td><td>站号</td><td>站名</td><td>序号</td><td>站号</td><td>站名</td></tr><tr><td>1</td><td>51559</td><td>和静*</td><td>11</td><td>51628</td><td>阿克苏*</td><td>21</td><td>51709</td><td>喀什°</td><td>31</td><td>51705</td><td>乌恰</td></tr><tr><td>2</td><td>51567</td><td>焉耆*</td><td>12</td><td>51629</td><td>温宿</td><td>22</td><td>51716</td><td>巴楚</td><td>32</td><td>51708</td><td>阿克陶*</td></tr><tr><td>3</td><td>51568</td><td>和硕*</td><td>13</td><td>51633</td><td>拜城</td><td>23</td><td>51717</td><td>岳普湖</td><td>33</td><td>51711</td><td>阿合奇*</td></tr><tr><td>4</td><td>51642</td><td>轮台</td><td>14</td><td>51636</td><td>新和</td><td>24</td><td>51802</td><td>英吉沙</td><td>34</td><td>51818</td><td>皮山</td></tr><tr><td>5</td><td>51655</td><td>尉犁</td><td>15</td><td>51639</td><td>沙雅</td><td>25</td><td>51804</td><td>塔什库尔干</td><td>35</td><td>51826</td><td>策勒</td></tr><tr><td>6</td><td>51656</td><td>库尔勒\"</td><td>16</td><td>51644</td><td>库车*</td><td>26</td><td>51810</td><td>麦盖提</td><td>36</td><td>51827</td><td>墨玉</td></tr><tr><td>7</td><td>51765</td><td>铁干里克</td><td>17</td><td>51720</td><td>柯坪</td><td>27</td><td>51811</td><td>莎车</td><td>37</td><td>51828</td><td>和田\"</td></tr><tr><td>8</td><td>51777</td><td>若羌</td><td>18</td><td>51722</td><td>阿瓦提</td><td>28</td><td>51814</td><td>叶城</td><td>38</td><td>51829</td><td>洛普</td></tr><tr><td>9</td><td>51855</td><td>且末</td><td>19</td><td>51730</td><td>阿拉尔</td><td>29</td><td>51815</td><td>泽普</td><td>39</td><td>51839</td><td>民丰</td></tr><tr><td>10</td><td>51627</td><td>乌什</td><td>20</td><td>51707</td><td>伽师</td><td>30</td><td>51704</td><td>阿图什</td><td>40</td><td>51931</td><td>于田</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e0a8b36e34b7d0ae2feb88af79de3536921cc901729a97c370c60601860e0c0.jpg",
+        "table_caption": [
+            "表1塔里木盆地的地面气象观测站",
+            "表2灾情要素的权重、平均值和最大值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>统计量灾情要素</td><td>死亡人数/人</td><td>倒塌房屋数/间</td><td>倒塌棚圈数/座</td><td>损坏大棚数/座</td><td>牲畜死亡数量/头</td><td>农作物受灾面积/hm</td></tr><tr><td>权重</td><td>0.07</td><td>0.07</td><td>0.06</td><td>0.24</td><td>0.09</td><td>0.47</td></tr><tr><td>平均值</td><td>0.02</td><td>9.44</td><td>8.53</td><td>80.98</td><td>233.09</td><td>2980.50</td></tr><tr><td>最大值</td><td>3.00</td><td>1414.00</td><td>1582.00</td><td>3442.00</td><td>25580.00</td><td>65419.40</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "差异明显，其中，农作物受灾面积和损坏大棚数的权重分别达最大和次大。灾损指数与6大灾情要素的相关系数分别为 $0 . 6 9 , 0 . 7 5 , 0 . 7 5 , 0 . 3 0 , 0 . 5 3 , 0 . 6 1$ 6个相关系数的显著性水平 $\\alpha$ 均小于 $0 . 0 1$ 。这进一步表明灾损指数能够综合表达6大灾情要素，且灾损指数的大小能反映风沙灾害事件的强度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在确定风沙灾害强度等级时，用到了百分位数方法[33]。将灾损指数样本序列按由小到大顺序排列好后，第S百分位数分别取 $5 0 \\% . 7 5 \\% . 9 0 \\%$ ,得到灾损指数 $( Z ) 4$ 个 $Z _ { i }$ 级别对应的阈值(表3)。根据 $Z$ 的阀值范围，将塔里木盆地1028次风沙灾害事件划分为4个强度等级，用于分析不同等级风沙灾害的空间分布、年变化和年际变化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3楼兰指数的定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了能从动力气候学角度分析塔里木盆地风",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3风沙灾害强度等级划分标准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5cd054dd6a959757b5d2662ba9aa40aeb785e35bbb38ae3d823f5657af918d7.jpg",
+        "table_caption": [
+            "Tab.2 Weight,average and maximum values of disaster element: ",
+            "Tab.3 Classificationcriteria for the intensity ofwind-sanddisaster "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>百分位数S/%</td><td>灾损指数(Z)</td><td>风沙灾害强度等级</td></tr><tr><td>S≤50</td><td>Z≤0.35</td><td>一般(1级)</td></tr><tr><td>50<S≤75</td><td>0.35<Z≤0.94</td><td>较重(2级)</td></tr><tr><td>75<S≤90</td><td>0.94<Z≤2.31</td><td>严重(3级)</td></tr><tr><td>90<S</td><td>2.31<Z</td><td>特重(4级)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沙灾害长期变化的动力机制，综合考虑地形和形成风的气压场特征，用盆地东部与西部的气压差作为表征动力因子的指数。为了便于记忆和突出地域特色，借鉴盆地东部的名胜古迹楼兰古城,将该指数命名为楼兰指数(LL)。LL的计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L L } = \\frac { 1 } { 7 } \\sum _ { i = 1 } ^ { 7 } \\mathrm { P E } _ { i } - \\frac { 1 } { 1 2 } \\sum _ { j = 1 } ^ { 1 2 } \\mathrm { P W } _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：PE和PW分别为盆地东部 $( 8 4 ^ { \\circ } { \\sim } 8 9 ^ { \\circ } \\mathrm { E }$ 和盆地西部( $7 6 ^ { \\circ } { \\sim } 8 0 ^ { \\circ } \\mathrm { E }$ )某站某年4—5月平均的日平均本站气压。盆地东部选取的7个地面气象观测站分别为轮台、焉耆、库尔勒、尉犁、铁干里克、若羌、且末，盆地西部选取的12个地面气象观测站分别为阿图什、喀什、伽师、英吉沙、岳普湖、麦盖提、莎车、泽普、叶城、柯坪、皮山、和田市。依据公式(1)计算得到1990—2019年逐年的楼兰指数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1风沙灾害的空间分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于GIS自然间断点分级法可对分析数据进行最恰当的分组，分组后能充分表达数据之间的相似性和差异性[34]。因而,对盆地风沙灾害出现次数和灾损指数，采用GIS自然间断点分级法进行分区间",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（分组)绘制空间分布图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "盆地风沙灾害年平均出现次数和年平均灾损指数表现出一定的差异性(图2)，盆地北部出现次数和灾害强度大于盆地其他区域。年平均出现次数，盆地北部最多，东部和南部相当，西部最少（表4)；年平均出现次数前5位的县市依次是阿克苏市（2.1次）、尉犁县（1.8次）、库车县（1.6次）拜城县(1.3次）新和县(1.3次)。年平均灾损指数，盆地北部最大，西部次之，东部和南部较弱，且北部是盆地其余区域的2倍(表5)；年平均灾损指数前5位的县市均位于阿克苏地区，它们依次是阿克苏市(2.63）、乌什县(1.99）柯坪县(1.89）库车县(1.61）、温宿县(1.42)。因而，塔里木盆地北部是风沙灾害的多发区和重灾区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1\\~4级风沙灾害年平均出现次数和年平均灾损指数，各级均是盆地北部最多和最大(图3、表4、表",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5)。1\\~4级年平均出现次数最多的县市：1级、3级和4级均为阿克苏市，2级是尉犁县；1\\~4级年平均灾损指数最大的县市：1级、2级均是尉犁县，3级是巴楚县，4级是乌什县。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "盆地北部风沙灾害出现次数和灾害强度明显高于盆地其他区域，这与盆地地形、进人盆地的冷空气以及农牧业生产密切相关。以往的研究表明，人侵盆地引发沙尘天气的冷空气路径有3种类型[35]。一是冷空气从乌恰山区翻山进入盆地,沿地势分东南和东北两路东进,影响喀什地区、和田地区和阿克苏地区；二是北疆的冷空气翻越西天山进入盆地，影响阿克苏地区和巴州；三是从盆地东部“东灌\"进入盆地的冷空气，受昆仑山和西天山阻挡，影响喀什地区、克州和阿克苏地区。以上三类冷空气均能造成阿克苏地区的强风，且出现频率最多的“东灌\"型对阿克苏地区影响最大，再加之阿克",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/152dde32f0f9871e86eb81f7f781e8be74087a119ec4b439b3bba3f210bab6c6.jpg",
+        "img_caption": [
+            "图2年平均出现次数和年平均灾损指数的空间分布",
+            "Fig.2Spatial distributions of the average annual occurrence and average annual damage index "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/42f37af654528adf671d44b33516097e55aea326fdd95a738deead081020ecb1.jpg",
+        "table_caption": [
+            "Tab.4Annualaverage numberof occurrences of wind-sanddisasters oflevel1-4 in differentregions ofTarim Basin ",
+            "表5盆地不同区域1\\~4级风沙灾害年平均灾损指数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域平均</td><td>1级/次</td><td>2级/次</td><td>3级/次</td><td>4级/次</td><td>合计/次</td><td>百分率/%</td></tr><tr><td>东部</td><td>0.39</td><td>0.17</td><td>0.12</td><td>0.07</td><td>0.75</td><td>22.46</td></tr><tr><td>北部</td><td>0.56</td><td>0.25</td><td>0.17</td><td>0.14</td><td>1.12</td><td>33.53</td></tr><tr><td>西部</td><td>0.31</td><td>0.21</td><td>0.12</td><td>0.07</td><td>0.71</td><td>21.26</td></tr><tr><td>南部</td><td>0.45</td><td>0.18</td><td>0.07</td><td>0.06</td><td>0.76</td><td>22.75</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/975b5f87e76f6059d4c8fab2ea16ca93e6a63b4fd743203b261cc6eecf409a41.jpg",
+        "table_caption": [
+            "表4盆地不同区域1\\~4级风沙灾害年平均出现次数",
+            "Tab.5Annual average damage indexof wind-sand disastersof level1-4 in diferent regions ofTarim Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域平均</td><td>1级</td><td>2级</td><td>3级</td><td>4级</td><td>合计</td><td>百分率/%</td></tr><tr><td>东部</td><td>0.05</td><td>0.10</td><td>0.19</td><td>0.26</td><td>0.60</td><td>18.02</td></tr><tr><td>北部</td><td>0.06</td><td>0.15</td><td>0.22</td><td>1.01</td><td>1.44</td><td>43.24</td></tr><tr><td>西部</td><td>0.04</td><td>0.12</td><td>0.19</td><td>0.33</td><td>0.68</td><td>20.42</td></tr><tr><td>南部</td><td>0.04</td><td>0.11</td><td>0.10</td><td>0.36</td><td>0.61</td><td>18.32</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6ea787d06e26b833a705dbe01d95d6a969d456f8af671e922a90a54b5efb477.jpg",
+        "img_caption": [
+            "图31\\~4级风沙灾害年平均出现次数的空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Spatial distributions of annual average number of occurrences of wind-sand disasters of level 1-4苏地区不仅农田分布广泛，又是新疆重要的畜牧业生产基地，因而，盆地北部的阿克苏地区就成为风沙灾害的多发区和重灾区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2风沙灾害的年变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在4个季节中，塔里木盆地风沙灾害出现次数 春季最多，夏季次之，秋季和冬季相当；4个季节出 现次数占全年的百分率分别为 $8 0 \\%$ ） $1 6 \\% . 2 \\% ,$ $2 \\%$ (图4)。盆地灾损指数也是春季最大，夏季次之，秋 季和冬季相当；4个季节灾损指数占全年的百分率 分别为 $8 8 \\% . 9 \\% . 2 \\% . 1 \\%$ 。表明春季不仅灾害出现 次数最多，而且灾害也最重。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在一年12个月中，盆地风沙灾害集中在4—5月出现，两月合计出现次数占全年的 $7 4 \\%$ ,其中4月占 $3 9 \\%$ ，5月占 $3 5 \\%$ ;1\\~4级各级风沙灾害也集中在4—5月出现，各级4月和5月出现次数的合计值，占各级全年的百分率均超过 $70 \\%$ 。盆地4月和5月灾损指数的合计值占全年的 $8 1 \\%$ ,其中4月占 $5 0 \\%$ ,5月占 $3 1 \\%$ ;1\\~4级各级4月和5月灾损指数的合计值，占各级全年的百分率均超过 $7 5 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3f05e3e9f53367c11e6fa5e9e156dffd7ef925ca3570151c767f81c258279fd.jpg",
+        "img_caption": [
+            "图4 塔里木盆地风沙灾害的年变化",
+            "Fig.4 Annual variation ofwind-sand disasters in Tarim Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述分析表明，盆地4一5月风沙灾害集中出现，且灾害强度最强。这是致灾因子与承载体共同作用的结果。在致灾因子方面，4—5月不仅风速较大，也是大风天气集中发生的时段[3；在承载体方面，4一5月正值农作物出苗期或幼苗生长发育期，强风易将幼苗刮断，将地膜吹起、扯烂，长时间的风沙天气也会严重影响地膜和土壤表面的采光。再者，4月又正值牧区春季转场期,在转场期间风沙灾害对牲畜采食保暖及牧道通行造成不利影响。因此，加强春季风沙灾害预报预警和防范具有重要意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3风沙灾害的年际变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "盆地风沙灾害年出现次数或年灾损指数是指某年盆地42个县市风沙灾害出现次数或灾损指数的合计值。近30a盆地风沙灾害年出现次数呈显著的线性增加趋势(图5a)，每10a增加10.5次；而年灾损指数围绕气候平均值34.3上下震荡(图5b)，没有表现出上升或下降的变化趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1级风沙灾害年出现次数呈显著的线性增加趋势，每10a增加7.4次(图6a)，与盆地年出现次数具有相同的变化趋势。2\\~4级年出现次数围绕气候平均值上下震荡，其中2级和3级在1999年出现峰",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2b47ac2e51c4bbe314720e74a7d3b8f3f05e770a1a58841fe583f2644d8bb62.jpg",
+        "img_caption": [
+            "图5风沙灾害出现次数和灾损指数的年际变化 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Interannual variations of frequency of occurrence and disaster damage index of wind-sand disaster ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4551663ffd1c4acb0cbe9166a7214d1ba4921d11eb58966adbe9af56ccbd03b8.jpg",
+        "img_caption": [
+            "图61\\~4级风沙灾害出现次数的年际变化 ",
+            "Fig.6 Interannual variations in the number of occurrences of wind-sand disasters of level 1-4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "值。1999年的峰值主要是由于当年4月22—23日，出现了一次覆盖整个盆地5个地州的强风沙天气，且持续时间长。该次强风沙天气，也造成了盆地年灾损指数和1\\~4级年灾损指数的峰值(图5b、图7)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于1\\~4级出现次数占总出现次数的百分率分 别是 $5 0 \\% , 2 5 \\% , 1 5 \\% , 1 0 \\%$ ，因而1级出现次数的变 化对总出现次数变化的影响最大，总出现次数会表 现出与1级相似的变化趋势。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从1\\~4级灾损指数的年际变化可以看出(图7)，1级呈显著的线性增大趋势，每 $1 0 \\mathrm { ~ a ~ }$ 增大0.6。2\\~4级均围绕气候平均值上下波动，没有表现出上升或下降的变化趋势。由于1\\~4级灾损指数占总灾损指数的百分率分别为 $6 \\% 1 5 \\% . 2 2 \\% . 5 7 \\%$ ，因而，总灾损指数的变化主要受4级的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "上述分析表明，由于1级风沙灾害出现次数占比达 $5 0 \\%$ ，1级出现次数的逐年增多，使得盆地风沙灾害总出现次数表现出逐年增多；由于1级灾损指数占比只有 $6 \\%$ ,4级占比多达 $5 7 \\%$ ,虽然1级灾害强度逐年增大，但4级未表现出增大趋势，使得盆地灾害强度也未表现出增大趋势。可见，应加强4级灾害的预报预警和防御工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4风沙灾害年出现次数线性增加的成因 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由风沙灾害出现次数的时间变化特征可知，盆地风沙灾害集中出现在4一5月，且年出现次数(Y)呈显著的线性增加趋势。下面根据盆地4一5月的平均风速(FS）、4—5月逐时风速超过 $6 . 0 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的出现次数(FN）、楼兰指数(LL)的年际变化特征，来解释盆地风沙灾害年出现次数线性增加的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1990—2019年楼兰指数LL呈显著的线性增大趋势，每 $1 0 \\mathrm { ~ a ~ }$ 增大 $0 . 3 \\mathrm { h P a }$ （图 $8 \\mathrm { a }$ )。近30a盆地平均风速FS呈现出显著的线性增大趋势，每 $1 0 \\mathrm { ~ a ~ }$ 增大$0 . 1 2 ~ \\mathrm { m \\cdot s ^ { - 1 } }$ （图8b），这与何毅等[37对1991—2013年南疆风速年际变化的研究结果相一致。FS与LL之间的一元线性回归方程为 $\\mathrm { F S } { = } 0 . 1 8 \\mathrm { L L } { - } 3 . 8 ( R ^ { 2 } { = } 0 . 5 3 $ .$\\alpha { < } 0 . 0 0 1$ ),FS与LL之间的线性关系非常显著，当LL增大时，FS增大。说明盆地东部与西部气压差的不断加大，导致盆地4一5月平均风速加大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近 $3 0 \\mathrm { a }$ 盆地逐时风速超过 $6 . 0 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的出现次数FN也呈显著的线性增加趋势，每 $1 0 \\mathrm { ~ a ~ }$ 增加69.7次（图8c)。FN与LL之间的一元线性回归方程为 $\\mathrm { F N = }$ 162.8LL-4550.4( $R ^ { 2 } { = } 0 . 2 3$ . $\\scriptstyle \\alpha = 0 . 0 0 7$ )，FN与LL之间的线性关系非常显著，当LL增大时，FN增大。说明盆地东部与西部气压差的不断加大，导致盆地逐时风速超过 $6 . 0 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的出现次数增多。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2e3aa6a7751c47198cce120f8bdd06d5626282b9ae8f50ed705221bdaab7339.jpg",
+        "img_caption": [
+            "图71\\~4级风沙灾害灾损指数的年际变化",
+            "Fig.7 Interannual variations in the disaster damage index of wind-sand disasters of level 1-4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d901665bddfcf0d22f6248842ef7b40944fe64649dd5afb215e1aa3ceb0907af.jpg",
+        "img_caption": [
+            "图8楼兰指数和风速的年际变化 Fig.8Interannual variations in theLoulan index and wind speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近30a盆地风沙灾害年出现次数Y的线性增加，与起沙风速 $\\mathrm { \\hbar } \\geqslant 6 . 0 \\ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 } ,$ 出现次数FN的线性增加密切相关。 $Y$ 与FN之间的一元线性回归方程为$Y { = } 0 . 0 5 \\mathrm { F N } { + } 9 . 7 2 \\left( R ^ { 2 } { = } 0 . 2 0 , \\alpha { = } 0 . 0 1 \\right)$ $Y$ 与FN之间的线性关系非常显著，当FN增加时，Y增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上分析表明，近30a随着盆地东部与西部气压差的不断加大，使得盆地逐时风速超过 $6 . 0 \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ 的出现次数逐年增多，是造成盆地风沙灾害年出现次数逐年增多的重要原因。除了致灾因子的变化，承载体的变化也会影响风沙灾害的年出现次数。近 $3 0 \\mathrm { ~ a ~ }$ 塔里木盆地经历了快速的绿洲化过程，水土资源开发强度增大，绿洲规模扩大，农业生产活动在原来的沙漠绿洲过渡带出现，与风沙活动的距离靠近，也导致风沙灾害出现次数增多。另外，值得注意的是楼兰指数逐年增大的趋势，在以往的研究中从未提及。沙漠盆地东西部气压差逐年加大的现象、背后的原因、可能产生的效应，以及全球其他沙漠是否存在这种现象，都是今后值得研究的新课题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）利用比值权重法和无量纲化线性求和方法，将风沙灾害事件的6大灾情要素构建成一个无量纲化的灾损指数，用于表达风沙灾害事件的强弱。再根据灾损指数的不同百分位阈值，将风沙灾害事件划分为1\\~4级，对应的灾害强度等级分别是一般、较重、严重、特重。基于出现次数和灾损指数，分析塔里木盆地不同等级风沙灾害的时空分布特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）盆地风沙灾害区域分布差异大，盆地北部各级出现次数和强度明显大于盆地其他区域，盆地北部是灾害的多发区和重灾区，这与盆地地形、进入盆地的冷空气以及盆地农牧业生产的集中度密切相关。年内风沙灾害春季出现最多、灾害最重，集中发生于4一5月，应加强该时段风沙灾害的预报和防御工作。近30a盆地风沙灾害年出现次数呈显著的线性增加趋势，而年灾害强度围绕气候平均值震荡。在1\\~4级灾害中，1级年出现次数和年灾害强度均呈显著的线性增加趋势，2\\~4级年出现次数和年灾害强度围绕气候平均值震荡。鉴于年灾害强度主要由4级决定，因而，应重点防御4级灾害的发生。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）塔里木盆地沙源丰富，强劲的风为盆地风沙灾害形成提供动力条件。在动力方面，近30a盆地东西部的气压差(楼兰指数)逐年增大，导致4—5月逐时风速 $\\gtrsim 6 . 0 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 出现次数逐年增加，这是盆地风沙灾害年出现次数逐年增加的主要原因。而盆地绿洲规模的不断扩大，农业生产活动与风沙活动距离的缩短，也导致风沙灾害出现次数逐年增加。本研究创建的楼兰指数从动力气候学角度，解释了盆地风沙灾害年出现次数长期变化的动力成因，这也为盆地风沙灾害出现次数的年景预测奠定了理",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "论基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)   \n[1]IPCC. Climate change 2Ol3: The physical science basis[M]. Cambridge: Cambridge University Press,2013.   \n[2]Dobson A P,Bradshaw A D,Baker A JM. Hopes for the future: Restoration ecology and conservation biology[J]. Science,1997, 277(5325): 515-522.   \n[3]魏秀菊,王应宽,王柳,等.跟踪学科前沿,引导学科发展 《农业工程学报》的发展探索[J].农业工程学报,2006,22(3): 171-175.[Wei Xiuju,Wang Yingkuan,Wang Liu,etal.Following the frontier and leading the development of agricultural engineering discipline: Exploring the development of the Transactions of the CSAE[J]. Transactions of the Chinese Society of Agricultural Engineering,2006,22(3): 171-175.]   \n[4]Cao S X.Why large-scale affrestation efforts in China have failed to solve the desertification problem[J]. Environmental Science & Technology,2008,42: 1826-1831.   \n[5]魏秀菊,胡振琪,何蔓.土地整理可能引发的生态环境问题及宏 观管理对策[J].农业工程学报,2005,21(增刊1):127-130.[Wei Xiuju,Hu Zhenqi,He Man.Potential problems of ecological environment resulted from land rehabilitation and their macroscopic management countermeasures[J]. Transactions of the Chinese Society of Agricultural Engineering, 2005,21(Suppl.1): 127-130.]   \n[6]张鹏,李宁.我国自然灾害风险分级方法的标准化[J].灾害学, 2014,29(2): 6O-64.[Zhang Peng,Li Ning.The standardization of natural disasters risk grading methods in China[J]. Journal of Catastrophology,2014,29(2): 60-64.]   \n[7]王涛,陈广庭.西部地标·中国的沙漠戈壁[M].上海:上海科学 技术文献出版社,2008:28-31.[Wang Tao,Chen Guangting. Western landmark: The desert and gobiof China[M].Shanghai: Shanghai Science and Technology Literature Publishing House,2008: 28-31.]   \n[8]秦越,徐翔宇,许凯,等.农业干旱灾害风险模糊评价体系及其 应用[J].农业工程学报,2013,29(10):83-91.[Qin Yue,Xu Xiangyu,Xu Kai,et al.Fuzzy evaluation system of agriculture drought disaster risk and its application[J]. Transactions of the Chinese Society of Agricultural Engineering,2013,29(10): 83- 91.]   \n[9]范一大,史培军,周俊华,等.近50年来中国沙尘暴变化趋势分 析[J].自然灾害学报,2005,14(3): 22-26.[Fan Yida, Shi Peijun, Zhou Junhua,et al.Research on change of dust storm in China in recent 50 years[J]. Journal of Natural Disasters,2005,14(3): 22- 26.]   \n[10]周自江,王锡稳,牛若芸.近47年中国沙尘暴气候特征研究[J]. 应用气象学报,2002,13(2):193-200.[Zhou Zijiang,Wang Xiwen,Niu Ruoyun.Climate characteristics of sandstorm in China in recent 47 years[J]. Journal of Applied Meteorological Science, 2002,13(2): 193-200.]   \n[11] Han ZW,Wang T,Sun Q W,et al.Sand harm in Taklimakan Desert highway and sand control[J]. Journal of Geographical Scienes, 2003,13(1): 45-53.   \n[12] 王静爱,徐伟,史培军,等.2000年中国风沙灾害的时空格局与 危险性评价[J].自然灾害学报,2001,10(4):1-6.[Wang Jing'ai, Xu Wei, Shi Peijun,et al. Spatio-temporal pattern and risk assessment of wind sand disaster in China in 2Ooo[J]. Journal of Natural Disasters,2001,10(4): 1-6.]   \n[13] 徐海量,陈亚宁.塔里木盆地风沙灾害危险性评价[J].自然灾害 学报,2003,12(2):35-39.[Xu Hailiang, Chen Yaning.Hazard assessment of wind sand disaster in Tarim Basin[J]. Journal of Natural Disasters,2003,12(2): 35-39.]   \n[14]Okada N,Tatano H,Hagihara Y,et al. Integrated research on methodological development of urban diagnosis for disaster risk and its applications[J].Annual Report of Institute of Disaster Prevention,Kyoto University,2004:1-8.   \n[15] 史培军.三论灾害研究的理论与实践[J].自然灾害学报,2002, 11(3):1-9.[Shi Peijun. Theory on disaster science and disaster dynamics[J]. Journal of Natural Disasters,2002,11(3): 1-9.]   \n[16] 王玉竹,闫浩文,王小平.新疆风沙灾害风险评估[J].中国沙漠, 2020,40(6):13-21.[Wang Yuzhu, Yan Haowen,Wang Xiaoping. Risk assessment of wind-sand disaster in Xinjiang, China[J]. Journal of Desert Research,2020,40(6): 13-21.]   \n[17] 管梦鸾,张正傯,董治宝.风沙灾害风险评估研究进展[J].中国 沙漠,2018,38(5): 978-988.[Guan Mengluan, Zhang Zhengcai, Dong Zhibao.Progresses on the research of aeolian disaster risk assessment[J]. Journal of Desert Research, 2018,38(5): 978-988.]   \n[18] 刘海涛,刘海红,韩春光,等.南疆大风气候特征分析[J].干旱区 资源与环境,2014,28(3):148-154.[Liu Haitao,Liu Haihong,Han Chunguang,et al.Analysis on the climatic characteristics of gales in south Xinjiang[J]. Journal of Arid Land Resources and Environment,2014,28(3): 148-154.]   \n[19] 潘伯荣,李崇舜,刘文江.新疆沙漠与风沙灾害治理研究[J].中 国生态农业学报,2001,9(3):19-21.[Pan Borong,Li Chongshun, Liu Wenjiang.Desert and controlling of aeolian disaster in Xinjiang[J]. Chinese Journal of Eco-Agriculture,2001,9(3): 19-21.]   \n[20] 蒋富强,李荧,李凯崇,等.兰新铁路百里风区风沙流结构特性 研究[J].铁道学报,2010,32(3):105-110.[Jiang fuqiang,LiYing, Li Kaichong,et al. Study on structural characteristics of gobi wind sand flow in $1 0 0 ~ \\mathrm { k m }$ wind area along Lan-Xin railway[J]. Journal ofthe ChinaRilwaociety210,32(3):   \n[21]Jiapaer G,Chen X,Bao A M.A comparison of methods for estimating fractional vegetation cover in arid regions[J].Agricultural & Forest Meteorology,2011,151(12): 1698-1710.   \n[22] Zhang K C,Qu JJ, Liao K T,et al.Damage by windblown sand and its control along Qinghai- Tibet railway in China[J].Aeolian Research,2010,2: 143-146. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23]张志伟,杨发相,吴吉龙,等.新疆沙漠空间分布格局与类型结 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "构[J].干旱区研究,2014,31(4):763-770.[Zhang Zhiwei,Yang Faxiang,Wu Jilong,et al. Spatial distribution patterns and type structure of the deserts in Xinjiang[J].Arid Zone Research,2014, 31(4): 763-770.]   \n[24]李锋.沙尘暴灾害风险评估指标体系初探[J].灾害学,2011,26 (4): 8-13,23.[Li Feng. A preliminary discussion on risk assessment index system of sandstorm disasters[J].Journal of Catastrophology,2011,26(4): 8-13,23.]   \n[25] 吴美华,王怀军,孙桂丽,等.新疆农业气象灾害成因及其风险 分析[J].干旱区地理,2016,39(6):1212-1220.[Wu Meihua, Wang Huaijun,Sun Guili,et al.Formation and risk analysis of meteorological disasters in Xinjiang[J].Arid Land Geography,2016,39 (6): 1212-1220.]   \n[26] 温克刚.中国气象灾害大典·新疆卷[M].北京:气象出版社, 2006: 233-273.[Wen Kegang. China meteorological disasters: Xinjiang volume[M]. Beijing: Meteorological Press,2006: 233-273.]   \n[27]任晓,穆桂金，徐立帅,等.塔里木盆地南缘2000—2013年人工 绿洲扩张特点[J].干旱区地理,2015,38(5):1022-1030.[Ren Xiao,Mu Guijin,Xu Lishuai,et al. Characteristics of artificial oasis expansion in south Tarim Basin from 200O to 2013[J].Arid Land Geography,2015,38(5): 1022-1030.]   \n[28]中国气象局.地面气象观测规范[M].北京:气象出版社,2003: 21.[China Meteorological Administration.Ground meteorological observation specifications[M]. Beijing: Meteorological Press,2003: 21.]   \n[29] 陈洪武,王旭,马禹.大风对新疆沙尘暴的影响[J].北京大学学 报（自然科学版),2003,39(2):187-193.[Chen Hongwu,Wang Xu,Ma Yu.Effects of strong winds on sandstorms in Xinjiang[J]. Universitatis Pekinensis (Acta Scientiarum Naturalium),2O03,39 (2): 187-193.]   \n[30] 王昀,王旭,马禹,等.新疆农作物生长期雹灾的时空分布及危 害性评估[J].农业工程学报,2019,35(6):149-157.[Wang Yun, Wang Xu,Ma Yu,et al. Spatial and temporal distribution and hazard assessment of hailstorm in Xinjiang during crop growing period ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[J].Transactions of the Chinese Society of Agricultural Engineer",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ing,2019,36(6): 149-157.]   \n[31] 陈颖,马禹.新疆不同等级暴雨洪涝灾害的时空变化特征[J/ OL].[2021-08-21]. https://kns.cnki.net/kcms/detail/65.1103.X. 20210820.117.002.html.[Chen Ying,Ma Yu.Spatial and temporal characteristics of flood and rainstorm disaster in Xinjiang[J/ OL].[2021-08-21]. https://kns.cnki.net/kcms/detail/65.1103.X. 20210820.1117.002.html.]   \n[32] 张太西,王慧,余行杰.新疆风灾时空分布特征分析[J].干旱区 地理,2021,44(5):1281-1289. [Zhang Taixi,Wang Hui,Yu Xingjie. Spatial-temporal distribution of wind disasters in Xinjiang[J].Arid Land Geography,2021,44(5): 1281-1289.]   \n[33] 赵清波,李莉.利用原始资料计算百分位数的方法[J].中国卫生 统计,1999,3(16): 185.[Zhao Qingbo,Li Li.Method of calculatingpercentiles using original data[J]. China Health Statistics, 1999, 3(16): 185.]   \n[34] 李乃强,徐贵阳.基于自然间断点分级法的土地利用数据网格 化分析[J].测绘通报,2020(4):106-110.[Li Naiqiang,Xu Guiyang. Grid analysis of land use based on natural breaks (jenks) classification[J]. Bulletin of Surveying and Mapping,2020(4): 106-110.]   \n[35]李冬梅,陈春艳.新疆沙尘天气知多少[EB/OL].[2014-04-25]. http://www.cma.gov.cn/kppd/kppdrt/201404/t20140425_244387. html.[Li Dongmei, Chen Chunyan.How much about sand- dust weather in Xinjiang[EB/OL].[2014-04-25]. htp: //www.cma.gov. cn/kppd/kppdrt/201404/t20140425_244387.html.]   \n[36] 王玉竹,闫浩文,王小平,等.新疆大风集中程度时空特征分析 [J].干旱区地理,2020,43(3):623-632.[Wang Yuzhu,Yan Haowen,Wang Xiaoping,et al. Spatio-temporal analysis of gale concentration in Xinjiang[J].Arid Land Geography,2020,43(3):623- 632.]   \n[37] 何毅,杨太保,陈杰,等.1960—2013年南北疆风速变化特征分 析[J].干旱区地理,2015,38(2):249-259.[He Yi,Yang Taibao, Chen Jie,et al.Wind speed change in north and south Xinjiang from 1960 to 2013[J]. Arid Land Geography,2015,38(2): 249-259.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal distribution characteristics of intensity and frequency of wind-sand disasters in Tarim Basin ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "WANG Xu'， WANG Yun², CHEN Baoxin， WANG Xiuqin4, LI Bin'",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1.WeatherModificationOffceofXinjiangUygurAutonomousRegion,Urumqi83o2,Xinjiang,China;2.KeyLaboratoryof   \nArid ClimaticChangeandReducingDisasterofGansuProvince,CollgeofAtmospheric ScienceofLanzhouUniversity,Lanzhou 730000,Gansu,China;3.Scholof Humanitiesand Social Sciences,Macao Polytechnic Institute,Macao999o78,China; 4.Meteorological Information Centerof Xinjiang UygurAutonomous Region,Urumqi 83OO2,Xinjiang, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Sandstorm is a common meteorological disaster that causes serious damage to agricultural production and animal husbandry in the Tarim Basin,Xinjiang, China.Based on the disaster data acquired from the 1028 wind-sand disasters that occurred in 42 counties (cities)in the Tarim Basin from 1990 to 2019,six factors were selected as major disaster elements，namely，death toll，number of collapsed houses，collapsed shed circles, damaged sheds,livestock deaths,and affected areas.The disaster damage index could be integrated to express the intensity of disaster events using the method of ratio scale weighting and the dimensionless approach of linear combination.The intensity of disaster events was quantitatively divided into four levels using the percentile method: general (level1),heavy (level 2),large (level 3),and extremely large (level 4).The temporal and spatial distribution characteristics of wind-sand disasters in the basin were analyzed in terms ofthe frequencyof occurrence and the disaster damage index. Results showed that the wind-sand disaster hit the basin with the highest frequency and intensity in spring,especiall in April and May.The frequencyand intensity in the north Tarim Basin were obviously higher than those in other areas in the basin,making it the most frequentlyand hardest hitarea of windsand disasters. During 199o—2019,the annual frequency of occurence of wind-sand disasters in the basin considerably increased linearly,but the intensity fluctuated around the climatic average.The annual occurence and intensityof wind-sand disaster in level1 also showed a considerable linear increase,whereas level 2-4 varied around the climatic average.The established Loulan index,which is defined as the pressure diffrence between the east and west parts of the basin,could explain the dynamic mechanism oflong-term changes in the frequency of occurrence of wind-sand disasters in the basin based on dynamic climatology. As this index increased during 1990—2019, the occurrence of an average wind speed of more than $6 . 0 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ per hour in the basin from April to May increased per year. The scale of the basin oasis gradually expanded,resulting in the yearly increasing occurrence of wind-sand disaster in the basin.Thus,this study could provide a scientific basis for the prevention of wind-sand disasters in the Tarim Basin. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: wind-sand disaster; disaster index； intensity and frequency； temporal and spatial distribution； Lou-lan index；Tarim Basin",
+        "page_idx": 10
+    }
+]

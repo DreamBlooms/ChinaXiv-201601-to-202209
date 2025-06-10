@@ -1,0 +1,156 @@
+# 粤紫其离体再生技术研究
+
+陈朋，杨蕾蕾，彭杨，张苏州，徐桂红，杨建芬，张寿洲(深圳市中国科学院仙湖植物园，广东 深圳518004)
+
+摘要：粤紫其(Osmundamildei)为新近形成的自然杂交种，分布区狭窄，种群个体数量少，有性繁殖能力极低。本研究以孢子为外植体，MS、3/4MS、1/2MS 和1/4MS 为基本培养基，探究不同生长调节剂对粤紫其孢子萌发、原叶体增殖和孢子体形成的影响。结果表明：粤紫萁孢子中极少的可育孢子在植物生长调节剂的作用下，能够萌发并发育形成原叶体；原叶体生长及增殖的最适组合为$1 / 2 \mathrm { M S } + 1 \ \mathrm { m g \cdot L ^ { - 1 } 6 - B A + N A A \ 0 . 0 5 \ m g \cdot L ^ { - 1 } }$ 和 $1 / 2 \mathrm { M S } + 1 \ \mathrm { m g \cdot L ^ { - 1 } 6 - B A + I B A \ 0 . 5 \mathrm { m g \cdot L ^ { - 1 } } }$ ；在1/4MS 基本培养基中，原叶体增殖的同时，生长发育完善，形成正常的幼孢子体，形成率达 $8 3 . 4 9 \%$ ；孢子体最佳生根配方为 $\mathrm { M S { + } I B A } 0 { . } 5 \mathrm { \ m g { \cdot } L } ^ { - 1 }$ ；组培苗在河沙：黄土:腐殖质 $= 1 { : } 1 { : } 3$ 的栽培基质中成活率达 $9 8 \%$ 以上，且生长旺盛。本研究对粤紫其的人工繁育及其资源保护具重要意义，同时也可为其他濒危蕨类植物的人工保育提供参考。
+
+关键词：粤紫萁，孢子，原叶体，孢子体，杂交种中图分类号：Q813.1 文献标识码：A
+
+# In vitro regeneration of Osmunda mildei
+
+CHEN Peng, YANG Leilei, PENG Yang, ZHANG Suzhou, XU Guihong, YANG Jianfen, ZHANG Shouzhou\* (Fairylake Botanical Garden, Shenzhen & Chinese Academy of Sciences, Shenzhen 518004, Guangdong, China)
+
+Abstract: Osmunda mildea is a recently formed natural hybrid species with a narrow distribution area.The number of the population is very small,and it's sexual reproduction is extremely low.Using spores as explants,we investigated the effects of basic media (MS,3/4 MS,1/2 MS and $1 / 4 ~ \mathrm { { M S } }$ ）and different plant growth regulators (PGRs) onspores germination, prothallium proliferation and sporophyte formation. The results showed that the optimal PGRs combinations of prothallus growth and proliferation was $1 / 2 \mathrm { M S } + 1 . 0$ $\mathrm { { m g } } { \bullet } \mathrm { { L } } ^ { - 1 }$ $\mathrm { 5 L ^ { - 1 } 6 { \mathrm { - } } B A { \mathrm { + } } N A A ~ 0 . 0 5 ~ m g { \bullet } L ^ { - 1 } }$ and $1 / 2 \mathrm { M S + 1 . 0 ~ m g ^ { \bullet } L ^ { - 1 } ~ 6 { \mathrm { - } } B A { \mathrm { + } } I B A ~ 0 . 5 ~ m g ^ { \bullet } L ^ { - 1 } }$ . In the 1/4MS with no PGR medium, prothallus were well developed with the proliferation, and the young sporophyte seedling formatted, the formation of scale was $8 3 . 4 9 \%$ . The best rooting PGR concentration for young sporophyte is $\mathrm { M S } { + } \mathrm { I B A } \ 0 . 5 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ .In loess: river sand: humus $= 1 { : } 1 { : } 3$ cultivation matrix was the best, the survival rate was more than $98 \%$ ， and the seedlings thrived. There is great significance to the artificial breeding and conservation of Osmunda mildea in this study,and also is reference to the artificial conservation of other endangered fern species.
+
+Key Words: Osmunda mildei, spore, prothallium, sporophyte, hybrid species粤紫萁（Osmunda mildei）为紫萁科（Osmundaceae）紫萁属（Osmunda）植物，分布范围极其狭窄，最早仅在香港发现有分布（秦仁昌，1959；李添进等，2003)，后多年在野外难觅其踪影。20世纪90年代末，陆续在广东省深圳市东部的笔架山、七娘山和田心山，江西省崇义县和湖南省通道县发现有粤紫萁分布（蒋日红，2010；严岳鸿，2011)，虽然粤紫萁在多地被重新发现，但野外记录数量极少，到目前为止仅十多株。
+
+粤紫萁体细胞染色体核型的研究发现其具有明显的杂种特性（张寿洲等，2008)，孢子母细胞减数分裂构型研究（何子灿等，2006)也证实了该种可能为属内组间远缘杂交种，基于rbcL 和trmL-mF序列构建的系统发育树支持粤紫其是以华南紫萁（O.vachelli）为母本、紫萁（O.japonica）为父本的杂交种（勾彩云等，2008）。粤紫其为种间杂交种在 Tsutsumi的研究中进一步得到确证（Tsutsumiet al., 2012)。
+
+自然杂交是物种自然演化过程中非常重要的一部分。在生态系统中，自然杂交通过影响遗传多样性和物种多样性进而影响生态系统的稳定性和可恢复性（商辉等，2017)。尽管目前针对自然杂交对于物种演化的影响与意义已有大量的研究，但对于亲缘关系较远的不同物种间的自然远缘杂交发生条件及扩散机理缺少足够的认识。作为异域多地独立发生的自然杂交种（王莹等，2015)，粤紫其为研究自然远缘杂交形成机理与演化提供了重要的研究材料。自然条件下，由于粤紫其仅产生极少的可育孢子，通过孢子自然繁殖非常困难，因此粤紫萁野外数量极少（商辉等，2017)。植物组织培养为濒危物种的保育及深入研究提供了重要的途径，本研究以粤紫其孢子为外植体，通过不同基本培养基及生长调节剂种类与浓度配比摸索，成功建立了孢子萌发、原叶体增殖及生根培养的完善组培再生体系。该研究不仅为远缘自然杂交机理的深入研究提供重要的技术保障，同时也可为其他濒危蕨类植物的人工保育提供参考。
+
+# 1材料与方法
+
+# 1.1 材料
+
+外植体采自栽种在深圳市中科院仙湖植物园迁地保护的一株粤紫萁（图1：F)。3—5月粤紫其孢子开始形成，待孢子叶完全展开，孢子囊开始由深绿色向淡绿转变时，将孢子叶摘下，带回实验室预处理。
+
+# 1.2方法
+
+# 1.2.1 外植体消毒
+
+采集回来的孢子叶立即用清水冲去表面浮尘，待孢子叶表面的水分晾干后，置于铺有硫酸纸的培养皿中，放在干燥器中干燥处理 $1 2 { \sim } 2 4 \mathrm { h }$ 。第二天收集硫酸纸上的孢子，在超净工作台上，将其放入小试管中，无菌水浸泡 $5 \sim 1 0 \ \mathrm { m i n }$ ，用低速离心机 $3 0 0 0 g$ 离心后倒去上清液，加入 $0 . 1 \%$ 的 $\mathrm { H } _ { \mathrm { g } } \mathrm { C L } _ { 2 }$ 溶液浸泡 $2 \mathrm { \sim } 6 \mathrm { m i n }$ ，无菌水冲洗6次，最后加适量无菌水混匀制成悬浮液，每吸管吸取约 $2 0 0 { \mu \mathrm { L } }$ 悬浮液接种于不同的培养基中。
+
+# 1.2.2原叶体的获得
+
+以1/2MS 为基本培养基，按6-苄氨基腺嘌呤（6-BA，1.00、1.50、2.00、2.50、3.00） $\mathrm { m g \cdot L ^ { - 1 } }$ 和萘乙酸(NAA, $0 . 0 5 \mathrm { ) m g { \cdot } L } ^ { - 1 }$ 设置5个培养基的植物生长调节剂组合和不添加植物生长调节剂的1/2MS为基本培养基作为空白对照，接种后观察孢子萌发情况，以肉眼可清晰看到绿色为启动开始时间。
+
+# 1.2.3原叶体的继代增殖培养
+
+植物生长调节剂对原叶体继代增殖的影响：以MS 为基本培养基，设置6-BA（0.50、1.00、1.50、2.00) $\mathrm { \ m g { \cdot } L ^ { - 1 } }$ 与NAA $( 0 . 0 5 , \ 0 . 5 0 ) \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } 8$ 个培养基组合（表1)，研究6-BA和NAA对原叶体继代增殖的影响。
+
+无机盐浓度对原叶体继代增殖的影响：设置MS、3/4MS、1/2MS和1/4MS4种基本培养基配方（表2，配方中只改变MS基本培养基配方的大量元素浓度分别为原来的1、3/4、1/2和1/4），进行继代增殖培养试验。
+
+增殖原叶体量 $\mathbf { \partial } :$ 培养后原叶体重量一接种原叶体重量；
+
+增殖率 $\scriptstyle \cdot = i$ 增殖原叶体重量/接种原叶体重量 $\times 1 0 0 \%$ 。
+
+以上试验每瓶均接入 $2 \mathrm { c m } ^ { 2 }$ 左右大小的原叶体团5个，每组处理接种10瓶，重复5次，45d左右统计结果。
+
+# 1.2.4原叶体中幼孢子体的形成
+
+设置MS、3/4MS、1/2MS和1/4MS4种基本培养基配方（表3)，以瓶为统计单位，每个培养基接种50瓶，每瓶接种5个接近 $2 \mathrm { c m } ^ { 2 }$ 左右的原叶体团；为有利于幼孢子体的形成，接种的同时在固体培养基表面，添加高约 $1 \mathrm { m m }$ 左右的无菌水。接种后分别于35d、45d、55d、65d时随机取出10瓶，统计幼孢子体的形成情况。重复5次，幼孢子体观察与统计以肉眼清楚可见幼叶为准。幼狗子体数每10瓶为1个统计单位.
+
+成形率 $\ c =$ （1瓶培养基中具3片及以上幼叶的单苗棵数/总苗数） $\times 1 0 0 \%$ 。
+
+# 1.2.5生根培养
+
+以MS 为基本培养基分别设置吲哚丁酸（IBA，0.10、0.20、0.30、0.40、0.50）mg·L和 NAA(0.10、0.20、0.30、0.40、0.50） $\mathrm { \ m g { \cdot } L ^ { - 1 } }$ 共 10 个配方 (表 4)，将原叶体中成形的幼孢子体转入生根培养基中进行生根培养， $4 5 \mathrm { d }$ 后进行统计。该试验重复5次。
+
+以上各试验的培养基中均加入 $3 0 ~ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 蔗糖、 $6 . 5 ~ \mathrm { g { \cdot } L ^ { - 1 } }$ 琼脂， $\mathrm { p H } 5 . 8 { \sim } 6 . 0$ ，培养室的培养温度为$2 5 ^ { \circ } \mathrm { C } ~ \pm 2 ^ { \circ } \mathrm { C }$ ，光照时间 $1 6 \mathrm { h } { \cdot } \mathrm { d } ^ { - 1 }$ ，光照强度 $3 7 { \sim } 4 0 \mu \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 } { \bullet } \mathrm { s } ^ { - 1 }$ 。
+
+# 1.3数据处理
+
+数据采用SPSS21.0数据统计软件进行方差分析和多重比较分析（Duncan's）法。
+
+# 2结果与分析
+
+# 2.1原叶体获得
+
+粤紫其孢子经过消毒处理后，接种到不同的萌发培养基中，在相同的培养条件下进行培养，65d后在6-BA浓度低于 $1 . 5 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 的培养基中首先观察到有绿色点状物出现（图1：A)，继续培养发现原叶体在生长的同时开始增殖，并彼此相连成簇状（图1：B,C)，几乎没有单个原叶体。75d后才陆续在6-BA浓度高于 $1 . 5 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 以上的培养基中，观察到有绿色点状物出现，继续培养原叶体长大并在中脉部分增厚，很难见原叶体增殖。未添加植物生长调节剂的1/2MS培养基中始终未见到有绿色点状物出现。
+
+![](images/ac608254ae29e2cda196780b2fcb91d4801ab4b0205f62b4cd683849c3d174fb.jpg)
+
+A.可育孢子的萌发；B.原叶体；C.原叶体的增殖；D.1/4MS中幼孢子体的形成；E.移栽1月后孢子体；F.粤
+
+紫其成熟孢子体。
+
+A. Germnation offertile spores;B.Prothalus; C.Proliferation of prothalus;D.Development of young spores in1/4MS medium; E.Sporophyte after transplantation for1 month;F.Mature sporophyte of Osmunda mildei
+
+Fig.1In vitro regeneration process of Osmunda mildei
+
+# 2.2原叶体的增殖培养
+
+2.2.1植物生长调节剂对原叶体增殖的影响
+
+将成簇状的原叶体分开后转接入增殖培养基中培养，观察到6-BA与NAA的不同浓度组合，对粤紫其原叶体继代增殖影响的效果差异显著。当6-BA浓度为 $0 . 5 0 { \sim } 1 . 0 0 \mathrm { m g { \cdot } L } ^ { - 1 }$ 时，与NAA组合有利于原叶体的增殖；6-BA的浓度大于 $1 . 5 0 \mathrm { m g { \cdot } L } ^ { - 1 }$ 时与NAA组合，既不利于原叶体增殖，也使原叶体的生长状态发生了改变，其中脉明显增厚增大、细胞脆性加大，发生变化的原叶体很难在培养基中继续增殖。
+
+表16-BA 和 NAA 对粤紫萁原叶体增殖的影响  
+Tablel Effects of 6-BA and NAA on the prothallus proliferation of Osmunda mil   
+
+<html><body><table><tr><td>6-BA (mg·L-1)</td><td>NAA (mg·L-1)</td><td>外植体反应</td></tr><tr><td>0.50</td><td>0.05</td><td>Response of the explants 增殖新原叶体、密集成团，肉眼很难辨别出单个原叶体</td></tr><tr><td>1.00</td><td>0.05</td><td>The prothallus proliferates in dense clusters,and difficult to distinguish individual prothallae for the naked eye 增殖新原叶体、原叶体团松软，清晰可见单个原叶体</td></tr><tr><td></td><td></td><td>The prothallus proliferates in soft groups,and single prothallus could be clearly seen</td></tr><tr><td>1.50</td><td>0.05</td><td>原叶体沿中脉方向拉长，变为宽近1cm的长带状，个别有增殖 The prothallus are elongated along the direction of the midvein and becamed a strip nearly 1cm wide,with few proliferation</td></tr><tr><td>2.00</td><td>0.05</td><td>原叶体中脉增厚，整体呈棒状，脆性大，极难增殖 The midveins were thickened, the prothallus are brittle ,rod-shaped and difficult</td></tr><tr><td>0.50</td><td>0.50</td><td>to proliferate 增殖新的原叶体，明显可见片状原叶体，整个原叶体团较为疏松 The prothallus proliferates in soft groups,schistose prothallus could be clearly</td></tr><tr><td>1.00</td><td>0.50</td><td>seen 增殖新原叶体，原叶体面积较大，增殖速度比较慢 The area of new prothallus was larger, and the rate of appreciation is slower</td></tr><tr><td>1.50</td><td>0.50</td><td>原叶体增大、增厚，颜色为暗绿、质地较脆，极易玻璃化 The prothallus are enlarged ,thickened, britle and easy to vitrify in dark green</td></tr><tr><td>2.00</td><td>0.50</td><td>color 原叶体增厚，较硬，生长极慢 The prothallus is thickened,stiffer,and grows very slowly</td></tr></table></body></html>
+
+# 2.2.2MS中无机盐对原叶体增殖的影响
+
+不同无机盐浓度MS 培养基对原叶体的生长和增殖影响差异显著（表2)。在MS 培养基中，原叶体的增殖速度最快，整个原叶体团很难用肉眼辨出单个的原叶体；在3/4MS 培养基中，原叶体增殖速度没有在MS 培养基中快，可看到原叶体呈密集的长条状；而在1/2MS 培养基中的原叶体，增殖速度没有前两者快，但是原叶体的体积和表面积明显增大，团块边缘的原叶体因空间足够，可形成正常的心形；而在1/4MS 培养基中，原叶体增殖速度最慢，但表面积最大。由此可见，随着培养基中大量元素的浓度由 $1 / 4 \mathrm { M S } { \longrightarrow } 1 / 2 \mathrm { M S } { \longrightarrow } 3 / 4 \mathrm { M S } { \longrightarrow } \mathrm { M S }$ 递增，原叶体增殖的速度表现为正相关，但在1/4MS 和1/2MS 培养基中原叶体能够生长发育完善，而在3/4MS 和MS 培养中原叶体主要以营养增殖为主。
+
+<html><body><table><tr><td colspan="4">Table2EffectsofinorganicsaltsinMS sontheprothallusproliferationofOsmundamildei</td></tr><tr><td rowspan="3"></td><td>增殖量</td><td>增值率 Percent of</td><td>原叶体状态</td></tr><tr><td>Weight of</td><td>proliferation（%）</td><td>features of prothallus</td></tr><tr><td>proliferation（g 52.12±18.41b</td><td>104.28±15.06b</td><td>体积最大、数量最少、心形原叶体形态</td></tr><tr><td>1/4MS</td><td></td><td></td><td>There are largest volume,least number,and the heart shape prothallus</td></tr><tr><td>1/2MS</td><td>50.30±13.77b</td><td>87.35±20.52b</td><td>体积次之、心形原叶体边缘有新增幼原叶体 The prothallus have the second large volume,and new young ones are proliferation in the edge of the heart-shaped prothallus</td></tr><tr><td>3/4MS</td><td>63.87±4.13b</td><td>110.28±10.99b</td><td>体积比MS 略大、极少心形、多数上宽下窄长片状 The prothallus are slightly larger than in MS medium ones,rarely</td></tr><tr><td>MS</td><td>103.85±18.70a</td><td>173.15±44.02a</td><td>heart-shaped,and most upper wide and lower narrow oblate 体积最小、数量最多，多为2mm 宽、不足1cm长的条状 The prothallus are the smallest volume and the largest number, most of</td></tr></table></body></html>
+
+注：表中数据为平均值 $\pm$ 标准差，同列中不同小写字母表示差异显著（ $\scriptstyle \left. { \cal P } < 0 . 0 5 \right)$ LNote: The data in the table are mean $\pm \mathrm { S D }$ ,different lowercase letters in the same column mean significant differences ( $P <$ 0.05).
+
+# 2.3孢子体的诱导
+
+实验表明，培养基中添加了植物生长调节剂的原叶体，只能不断进行增殖，很难形成孢子体幼苗，必须将原叶体转移到不添加任何植物生长调节剂的基本培养基中，才能促使原叶体转化成孢子体。MS 培养基中大量元素含量对原叶体中幼孢子体形成的数量、成形率具有明显的影响（表3)。不同培养基中幼孢子体形成数量差异显著,35d时1/4MS和1/2MS中的幼孢子体数量明显高于3/4MS和 MS，45d后3/4MS和MS中的幼孢子体数反超1/4MS和1/2MS，尤其是在55d、65d时3/4MS和 MS 中的幼孢子体数超过1/4MS和1/2MS的2倍。同一培养基中幼孢子体的形成随培养时间的延长而增多，各时间段差异显著：1/4MS和1/2MS中的原叶体在 $0 \sim 5 5 { \mathrm { d } }$ 持续产生幼孢子体（图1：D),55d后形成数量较少；而3/4MS和MS中的幼孢子体在35d后才开始大量形成，55d后形成速度减缓。不同的培养基中幼孢子体的成形率和单株叶片数差异显著，1/4MS 和1/2MS 中的幼孢子体成形率最高达到 $8 3 . 4 9 \%$ 和 $7 8 . 0 8 \%$ ，而3/4MS和MS最高仅为 $34 . 0 1 \%$ 和 $2 9 . 6 6 \%$ ，单株叶数1/4MS和1/2MS也明显高于3/4MS和MS。
+
+表2MS培养基中无机盐对粤紫萁原叶体增殖的影响  
+表3MS培养基中无机盐对幼孢子体形成的影响  
+Table3 Effects of inorganic salts in MS on the young sporophyte seedling of Osmunda mildei   
+
+<html><body><table><tr><td>天数 Days</td><td></td><td>1/4MS</td><td>1/2MS</td><td>3/4MS</td><td>MS</td></tr><tr><td rowspan="2">35 d</td><td>幼孢子体数 Number of young</td><td>98.00±12.90aA</td><td>104.40±7.23aC</td><td>24.40±2.88bD</td><td>18.20±1.30bD</td></tr><tr><td>sporophyte 成形率 Percent of</td><td>19.35±1.2a</td><td>14.71±1.16b</td><td>1.64±0.42c</td><td>0.72±0.42c</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">development（%）</td><td rowspan="2"></td><td rowspan="2">2.25±0.03b</td><td rowspan="2">2.02±0.01c</td><td rowspan="2">2.01±0.01c</td></tr><tr><td>单株叶数</td><td>2.36±0.05a</td></tr><tr><td rowspan="4"></td><td>Leaf number of</td><td></td><td></td><td></td><td></td></tr><tr><td>individual</td><td>155.40±17.33bA</td><td>174.40±14.47bB</td><td>231.20±30.83aC</td><td>249.20±35.00aC</td></tr><tr><td>幼孢子体数 Number of young</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">45d</td><td>sporophyte</td><td>48.42±3.40a</td><td>39.51±2.46b</td><td>11.03±0.49cB</td><td>6.86±0.46dB</td></tr><tr><td>成形率</td><td></td><td></td><td></td><td></td></tr><tr><td>Percent of</td><td></td><td></td><td></td><td></td></tr><tr><td>development（%）</td><td>2.78±0.34a</td><td>2.49±0.24b</td><td>2.21±0.10bc</td><td>2.09±0.02c</td></tr><tr><td>单株叶数 Leaf number of</td><td></td><td></td><td></td><td></td></tr><tr><td>individual</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="10">55d</td><td>幼孢子体数</td><td>198.20±21.87cB</td><td>220.20±28.66cA</td><td>436.40±24.93bB</td><td>507.00±51.48aB</td></tr><tr><td>Number of young</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>sporophyte 成形率</td><td>77.39±2.43a</td><td>72.69±1.75</td><td></td><td></td></tr><tr><td>Percent of</td><td></td><td></td><td>30.38±0.34c</td><td>26.47±0.36d</td></tr><tr><td>development（%）</td><td></td><td></td><td></td><td></td></tr><tr><td>单株叶数</td><td>4.89±0.34a</td><td>4.14±0.36b</td><td>2.65±0.06c</td><td>2.51±0.07c</td></tr><tr><td>Leaf number of</td><td></td><td></td><td></td><td></td></tr><tr><td>individual</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>212.20±23.79bB</td><td></td><td></td><td></td></tr><tr><td rowspan="7">65d</td><td>幼孢子体数</td><td></td><td>238.20±28.50bA</td><td>530.00±26.71bA</td><td>618.80±26.80aA</td></tr><tr><td>Number of young</td><td></td><td></td><td></td><td></td></tr><tr><td>sporophyte</td><td></td><td></td><td></td><td></td></tr><tr><td>成形率</td><td>83.49±1.51a</td><td>78.08±1.71b</td><td>34.01±2.51c</td><td>29.66±0.84d</td></tr><tr><td>Percent of</td><td></td><td></td><td></td><td></td></tr><tr><td>development（%）</td><td></td><td></td><td></td><td></td></tr><tr><td>单株叶数 Leaf number of</td><td>5.36±0.29a</td><td>4.80±0.47b</td><td>3.57±0.16c</td><td>3.47±0.08c</td></tr></table></body></html>
+
+注：表中同行中不同小写字母表示差异显著( $\scriptstyle \overbrace { P } { < } 0 . 0 5 )$ ，同列中不同大写字母表示差异显著（ $\scriptstyle \overbrace { P } { < } 0 . 0 5 )$ Note: Different lowercase letters in the same row in the table mean significant differences ( $\scriptstyle \overbrace { P } < 0 . 0 5$ ), different uppercaselettrs in the same column mean significant diferences ( $\scriptstyle ( P < 0 . 0 5 )$ ：
+
+# 2.4幼孢子体根的培养
+
+在原叶体上形成的幼孢子体多数只有两条根，而且比较细弱，直接移栽易死亡或者生长极其缓慢，需转移到生根培养基中进行生根培养，增加根的数量，提高移栽成活率。植物生长调节剂 IBA、NAA 的浓度对粤紫其幼孢子体生根影响差异显著（表4)，根数、侧根数、叶片数分别随 IBA、NAA浓度增加而增加，试验数据表明IBA对粤紫其幼孢子体根的形成优于NAA，尤其是IBA浓度为0.50mg·L时，根数、侧根数、叶数分别为9.63、22.38、7.64，与其他浓度差异显著，是粤紫其幼孢子体根形成的最佳植物生长调节剂浓度。
+
+表4不同NAA、IBA浓度对粤紫萁幼孢子体生根的影响  
+Table4 Effects of NAA and IBA on the rooting of young Osmunda mildei sporophyte seedli   
+
+<html><body><table><tr><td>植物生长调节剂</td><td>浓度Concention</td><td>单株根数</td><td>单株侧根数</td><td>单株叶数</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Plant growth regulator</td><td>(mg·L-1)</td><td>Root number of individual</td><td>Lateral root number of individual</td><td>Leaf number of individual</td></tr><tr><td rowspan="5">IBA</td><td>0.10</td><td>5.55±0.12h</td><td>11.93±1.19e</td><td>6.61±0.70cd</td></tr><tr><td>0.20</td><td>5.89±0.22g</td><td>13.04±1.19de</td><td>6.76±0.85bced</td></tr><tr><td>0.30</td><td>6.87±0.09e</td><td>20.66±2.32b</td><td>7.54±0.31ab</td></tr><tr><td>0.40</td><td>7.21±0.09d</td><td>22.87±1.18a</td><td>7.62±0.50a</td></tr><tr><td>0.50</td><td>9.63±0.11a</td><td>22.38±1.41a</td><td>7.64±0.16a</td></tr><tr><td rowspan="5">NAA</td><td>0.10</td><td>5.09±0.09i</td><td>5.19±0.50g</td><td>5.62±0.82e</td></tr><tr><td>0.20</td><td>5.80±0.13g</td><td>8.64±0.42f</td><td>6.04±0.37de</td></tr><tr><td>0.30</td><td>6.50±0.17f</td><td>12.09±0.64e</td><td>6.69±0.63cd</td></tr><tr><td>0.40</td><td>7.56±0.05c</td><td>14.14±0.46d</td><td>6.98±0.71abc</td></tr><tr><td>0.50</td><td>8.56±0.23b</td><td>18.63±2.04c</td><td>6.86±0.88abcd</td></tr></table></body></html>
+
+注：表中数据为平均值±标准差，同列中不同小写字母表示差异显著（ $\scriptstyle ( P < 0 . 0 5 )$ 。Note: The data in the table are mean $\pm \mathrm { S D }$ ,and different lowercase letters in the same column mean significant differences ( $P$ $< 0 . 0 5 )$ ：
+
+# 2.5移栽
+
+生根的幼孢子体继续培养45d左右，即可从培养瓶中取出进行移栽。栽培基质为（1）黄土:腐殖质 $\scriptstyle = 1 : 1$ ；（2）河沙:黄土:腐殖质 $\scriptstyle = 1 : 1 : 3$ ；（3）珍珠岩：黄土:腐殖质 $\mathbf { \tau } = 1 { : } 1 { : } 3$ 。开始用塑料薄膜遮盖保湿，每天打开塑料薄膜1个小时通风，一周后增加通风时间，20d以后可以完全去除塑料薄膜。在3种栽培基质中的幼苗均可以成活，成活率均可达到 $9 8 \%$ 以上，经观察其中以（2）河沙:黄土：腐殖质 $\scriptstyle = 1 : 1 : 3$ 中的幼苗长势最旺（图1：E)。
+
+# 3讨论
+
+孢子繁殖是蕨类植物自然状态下的主要繁殖方式，但蕨类植物的孢子萌发时间各不相同，有一些蕨类植物的孢子还具有休眠期，借助一些外源生长调节剂则可达到打破休眠，诱导萌发的作用（张春萌等,2019)。6-BA 和 NAA 是植物组织培养中常用的生长调节剂,NAA 属于植物生长素，而6-BA属于细胞分裂素，二者通常搭配使用；研究表明，6-BA和NAA不同浓度的组合可以有效的促进孢子萌发，提高孢子萌发率。在蕨类的配子体生长发育过程中，NAA也能起到促进侧向分生组织发育的作用，并且倾向产生雄性孢子体（Kosakivskalet al.，2016)，进而由雄性孢子体向雌雄同体转变（Somer et al.,2010)；6-BA则是蕨类植物进行组织培养的必要成分，它能够消除脱落酸（ABA）带来的负面作用，低浓度也能改变细胞生长、分裂、伸长和分化的速度，较高的浓度能够诱导根尖分生组织下的根状体胚胎的形成（Kosakivskal et al.，2016)。本研究通过使用不同浓度6-BA与 NAA的配比试验发现，粤紫其绿色成熟孢子在植物生长调节剂的作用下可以明显提高萌发率。6-BA浓度低于 $1 . 5 ~ \mathrm { \ m g \cdot L ^ { - 1 } }$ 时，粤紫萁孢子的萌发时间缩短，萌发率显著提高，在后续的增殖培养阶段，原叶体能够持续增殖，但不能形成孢子体幼苗；在6-BA（1.5和2.0） $\mathrm { \ m g { \cdot } L ^ { - 1 } }$ 与NAA $0 . 0 5 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ 的浓度组合时，萌发率没有显著差异；6-BA浓度超过 $2 . 0 \ \mathrm { \ m g { \cdot } L ^ { - 1 } }$ 时，孢子萌发时间推迟，萌发率也降低。由此推测，生长调节剂对蕨类植物的孢子萌发及增殖具有重要影响，而不同的蕨类植物合适的生长浓度存在一定差异。
+
+除生长调节剂外，MS 培养基中大量元素的浓度在蕨类植物孢子体的形成中有重要的影响（Mikula etal.,，2015）。在对Osmundaregalis孢子体形成的试验中证实，1/8MS 是其最佳的培养基（Makowski et al,2016)。本研究也发现，1/2MS、1/4MS 有利于促进粤紫萁原叶体生长发育，同时配子体授精形成幼孢子体成形率高达 $78 . 0 8 \%$ 和 $8 3 . 4 9 \%$ ，在3/4MS和全量MS中的原叶体在培养初期由于大量营养性增殖而发育不完善，配子体很难通过受精作用而形成孢子体幼苗。粤紫其孢子体形成试验中3/4MS 和全量MS 培养基产生的孢子体幼苗，推测应属于特殊环境下的无配子生殖。粤紫萁属于杂合二倍体种（何子灿等，2006)，通过无配子生殖产生的孢子体幼苗，在第3片叶后很难形成正常叶，其后长出的所有叶片依然与第一片叶相同，具体机理还有待于后续的研究。1/4MS 和1/2MS 培养基中形成的粤紫其幼孢子体，有早熟现象，与Yatabeetal.,（2011）等在人工条件下研究Osmunda $\times$ intermedia后代生殖力时，报道其 $\mathrm { F } _ { 2 }$ 有早熟现象的结果相同，其早熟有可能来自特别组合的结果，是一种适应特殊环境的现象。
+
+参考文献：  
+GOU CY, ZHANG SZ, GENG SL,2008.Phylogenetic position and genetic relationship of Osmundamildei(Osmundaceae） : Evidence from rbcL Gene and trnL-trnF region[J]. Acta Bot Boreal-OccidentSin,28（11）：2178-2183.[勾彩云，张寿洲，耿世磊，2008．基于 $r b c L$ 和 trnL-trnF序列探讨粤紫其的系统位置及遗传关系[J]．西北植物学报，28（11)：2178-2183.]  
+HE ZC,LIY, YAN B et al.,2006. Karyotype analysis of five species in Osmunda(Osmundaceae）[J]. ActaPhytotax Sin,44（6）:617-626.[何子灿，李勇，闫斌，郑苗，等，2006.五种紫萁属植物的核型分析[J]．植物分类学报，（6)：617-626.]  
+JIANG RH, WU L,NONG DX， et al.，2010. Supplements to checklist of vascular plants of Guangxi,China（I）[J].JGuangxi Norm Univ（Nat SciEd),28（3）:66-69.[蒋日红，吴磊，农东新，等，2010.广西植物名录补遗（I）[J]．广西师范大学学报（自然科学版)，28（3)：66-69.]  
+KOSAKIVSKA I V, BABENKO L M, SHCHERBATIUK MM, et al., 2016. Phytohormones during growthand development of polypodiophyta[J]. Adv Biol Earth Sci,1（1） : 26-44.  
+LEE T C, CHAU KC,WU SH, 20O3. Flora of Hong Kong: Pteridophyta[M]. Hong Kong: Kadoorie Farm& Botanic Garden: 54-55.[李添进，锦超，吴兆洪，2003．香港植物志：蕨类植物门[M]．香港：嘉道理植物园：54-55.]  
+MAKOWSKI D， TOMICZAK K, RYBCZYNSKI JJ, et al.， 2016. Integration of tissue culture andcryopreservation methods for propagation and conservation of the fern Osmunda regalis L.[J]. Actaphysiol plant, 38（1） : 19.  
+MIKULA A， POZOAG M, TOMICZAK K, et al.， 2015. Somatic embryogenesis in ferns: A newexperimental system[J]. Plant cell Rep, 34（5） : 783-794.  
+QIN RC,1959.Flora of China[M]. Beijing: Science Press,2: 79-80.[秦仁昌，1959．中国植物志[M].北京：科学出版社，2：79-80.]  
+SHANG H,YAN YH,2017. Natural hybridization and biodiversity conservation[J]. Biodivers Sci, 25(6）:683-688.[商辉，严岳鸿,2017．自然杂交与生物多样性保护[J]．生物多样性,25(6):683-688.]  
+SOMER M, ARBESU R, MENENDEZ V, et al., 2010. Sporophyte induction studies in ferns in vitro[J].
+
+Euplyuca,1/1 （z） : zU5.  
+TSUTSUMI C, HIRAYAMA Y, KATO M, et al., 2012. Molecular evidence on the origin of Osmunda $\times$ Mildei（Osmundaceae）[J].Amer Fern J,102（1）: 55-68.  
+WANG Y, SHANG H, GU Y F et al., 2015. A new cryptic hybrid species of Adiantum L.(Pteridaceae)identified by nuclear and chloroplast DNA sequences [J]. Chin Sci Bul, 60（10） : 922-932.[王莹，商辉，顾钰峰，等，2015．用核DNA 和叶绿体DNA序列鉴别铁线蕨属（凤尾蕨科）新的隐性杂交种[J].科学通报，60（10)：922-932.]  
+YAN YH,YUANH,HE ZX,et al.,2011. New records of ferns from Jiangxi, China [J]. Guihaia,31（1） :5-8.[严岳鸿，苑虎，何祖霞，等，2011.江西蕨类植物新记录[J].广西植物,31（1)：5-8.]  
+YATABE Y, YAMAMOTO K, TSUTSUMI C, et al., 2011. Fertility and precocity of Osmundax intermedia  
+offspring in culture[J]. JPlant Res,124 （2） : 265-268.  
+ZHANG C M,WANG C X, ZHANG Y X, et al., 2019. Study on the induction of regenerated plants byLepisorusussuriensis（Regel et Maack ）Ching Sporophyte [J]. Mol Plant Breed,http://kns.cnki.net/kcms/detail/46.1068.S.20190419.1003.004.html.[张春萌，王朝兴，张义秀，等，2019.乌苏里瓦韦孢子诱导再生植株的研究[J]分子植物育种，http://kns.cnki.net/kcms/detail/46.1068.S.20190419.1003.004.html.]  
+ZHANG SZ,HE ZC， FAN CR,et al.,2008.A cytogenetic study of five species in the genus Osmunda [J].JSys Evol,46（4）:490-498.[张寿洲，何子灿，范晨瑞，等，2008．五种紫萁属植物的细胞遗传学研究（英文）[J]．植物分类学报，46（04)：490-498.]

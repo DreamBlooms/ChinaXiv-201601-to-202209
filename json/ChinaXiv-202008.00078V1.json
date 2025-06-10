@@ -1,0 +1,268 @@
+[
+    {
+        "type": "text",
+        "text": "短脉冲激光在实验室天体物理方面的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙嘉宁1,²，袁大伟1，王菲鹿1,2(1．中国科学院光学天文重点实验室（国家天文台），北京100101；2.中国科学院大学天文与空间科学学院，北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着啁啾脉冲放大技术(Chirped Pulse Amplification，CPA)的飞速发展，激光功率密度实现了飞跃式的提升，这使得利用短脉冲激光开展实验室天体物理研究的条件日趋成熟。短脉冲激光与靶相互作用可以产生相对论粒子(正负电子、质子、中子等)和高能电磁辐射(X射线、Y射线)，这些粒子和辐射的产生过程与天体中的某些物理现象相对应。本文介绍了利用短脉冲激光开展实验室天体物理方面的研究进展，重点对核天体物理、空心离子光谱学、相对论无碰撞冲击波，以及等离子体状态诊断等方面进行介绍。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：实验室天体物理；核天体物理；空心离子光谱学；相对论无碰撞冲击波；等离子体诊断",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P141 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高能量密度实验室天体物理是一门兴起于上世纪九十年代的前沿交叉学科，主要依托大功率激光、磁箍缩、托克马克等装置，在实验室构造极端物理条件，来模拟天体物理过程并解决相关问题。在实验室天体物理研究中，按照实验室和天体中参数的范围和物理过程的类比程度，实验室与天体的研究目标之间的关系大致分为：相同、相似、类似三种。“相同\"是指天体环境与实验室环境相同，例如在实验室中构造出与恒星内部或恒星大气等离子体的温度、密度一致的等离子体，用以研究恒星的物态方程、高温X射线热辐射的发射率、不透明度等。“相似\"是指在实验室中，部分参量无法与天体环境达到\"相同\"的程度，但是可以将这些参量按照一定的比例进行缩放，例如一些天体运动的尺度与时标远超过实验室尺度与时标，但是描述物质的动力学方程是一致的，在一定条件下，二者的物理参数能够通过标度变换联系起来。“类似\"是指目前没有找到标度变换规律，天体环境与实验室环境的现象类似，并且二者涉及的原子过程、核反应过程相同，也能将天体与实验室中的等离子体联系起来进行研究。实验室天体物理发展到今天，其研究目标范围非常广泛，包括恒星内部核反应、物态方程、天体不透明度，强辐射源附近光致电离等离子体光谱、超新星遗迹中流体力学不稳定性与无碰撞冲击波、致密天体的喷流、太阳耀斑的磁重联等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图1展示了国际上部分高功率激光装置，其功率均在太瓦（ $1 0 ^ { 1 2 } \\mathrm { W }$ ，TW）以上。激光装置按照脉宽可分为两类：长脉冲激光器和短脉冲激光器，前者是指脉宽在纳秒量级，后者是指脉宽在皮秒或飞秒量级！ $\\langle 1 0 ^ { - 1 2 } \\mathrm { ~ s ~ } _ { - 1 0 ^ { - 1 5 } \\mathrm { ~ s ~ } } \\rangle$ 。一般的，物理学家倾向于用激光的功率密度代表激光强度，即 $I [ \\mathrm { W / c m } ^ { 2 } ] { = }$ 激光功率/焦斑面积S。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa6cc46f3858bb61e9ca85c514e0db621a0774b2f75de4f44f2d3a3f0975fe12.jpg",
+        "img_caption": [
+            "图1太瓦以上激光装置的功率和能量"
+        ],
+        "img_footnote": [
+            "Fig.1 Some high-intense (TW\\~1o^15W and above) laser systems. "
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，短脉冲激光的功率达到太瓦甚至拍瓦量级，靶面的激光强度达 $1 0 ^ { 1 8 } \\mathrm { \\ W / c m } ^ { 2 } { - } 1 0 ^ { 2 0 }$ $\\mathrm { w } / \\mathrm { c m } ^ { 2 }$ 甚至更高。在这样的激光强度下，电子在激光场中的振荡速度接近光速，运动处于相对论状态，因此这一类激光器也称相对论激光器。与长脉冲激光相比，在短脉冲激光器上开展的实验室天体物理研究现阶段主要集中在“相同”和“类似”这两个方面，如核物理、原子物理、相对论物理等研究。另外，短脉冲激光器驱动高能粒子、高能辐射，也是诊断等离子体的有效方式之一。本文将就这些方面进行介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验室核天体物理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核天体物理学帮助我们理解恒星演化以及解释宇宙中元素的起源和丰富程度，但其中仍有许多问题尚不清楚，例如，大爆炸核合成标准模型的预测值比实际观测到 $^ 7 \\mathrm { L i }$ 同位素的丰度高3-4[11]倍；碳超丰贫金属星金属元素增丰的机制尚不能确定等。此外，同位素的核反应研究，特别是半衰期在10年到 ${ 1 0 } ^ { 6 } \\mathrm { ; }$ 年之间的同位素引起了人们很大的兴趣，因为这样的时间间隔很好的对应着天体演化不同阶段的时标，同时，与银河系的特征演化时间（ $\\mathord { \\sim } 1 0 ^ { 1 0 }$ 年）相比，有些同位素的半衰期又可以忽略不计。在实验室中，重现这些核合成过程，以及研究对反应截面产生较大影响的物理过程，对于这些核天体物理问题的研究具有重要意义。开展核天体物理研究的实验平台包括重离子加速器、串列加速器、长脉冲激光器、放射性束流装置等，本文我们仅回顾短脉冲激光装置上开展的相关研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对宇宙锂元素问题，在俄罗斯中央精密机械研究中心的10TW皮秒Neodim激光装置上实现了 $^ { 3 } \\mathrm { H e } ( d , p ) ^ { 4 } \\mathrm { H e }$ 、 ${ ^ 7 } \\mathrm { L i } \\left( p , \\alpha \\right) { } ^ { 4 } \\mathrm { H e }$ 、 ${ ^ 6 } \\mathrm { L i } ( d ,  { \\alpha } ) ^ { 4 } \\mathrm { H e }$ 、 $^ { 1 1 } { \\bf B } ( p , 3 \\alpha )$ 等相关核反应，观测到了质子谱、氘核能",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "谱和中子信号，假设中子是各向同性的，则一个激光脉冲产生的中子输出折算在 $4 \\pi$ 立体角内约  \n为 $7 0 0 ^ { [ 3 ] }$ 。在莫斯科国立大学的飞秒激光装置上也进行了类似的实验，阈值能为2.23MeV的反应[3]  \n$\\mathrm { { \\bf D } } ( \\gamma , n ) \\mathrm { { \\bf H } }$ ，在激光脉冲能量为 $1 5 \\mathrm { m J }$ 时每个脉冲的中子输出为0.1。这些工作说明，短脉冲强激光  \n产生的等离子体可以提供快粒子以引发核聚变反应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "欧盟超强激光装置ELI-NP的高功率激光器HPLS（中心波长 $8 1 5 \\mathrm { n m }$ ，脉宽为22fs以下时可达，[4]峰值功率10PW）计划致力于等离子体环境对天体物理感兴趣的核反应影响的研究\"，这将有助于理解屏蔽效应以及其他核物理可观测到的变化，比如衰变模式和不稳定状态的半衰期等。屏蔽效应指的是在热等离子体环境中，原子核周围存在的电子云导致的反应截面的改变。关于屏蔽效应的争论已经存在了几十年，有时为了解释实验数据而不得不加入屏蔽效应。最近有人提出，屏蔽效应实际上反映的是核反应中的聚集效应，特别是那些涉及轻核的反应，ELI-NP的实验将有望阐明这一问题[4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验室核天体物理学是一个快速发展的研究分支，使用太瓦以上的短脉冲激光装置，可以取得发生核反应的能量密度，使我们在实验室条件下重现大爆炸核合成的过程以及研究等离子体环境对核反应的影响等成为可能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2激光等离子体中空心离子的光谱学",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空心离子的光谱性质近年来受到越来越多的关注。活动星系核发射复杂幂律谱形的硬X射[12]线“通过光致电离过程能够产生空心离子等离子体，而行星状星云和X射线双星中的空心离子等离子体也与之密切相关。空心离子的定义不是唯一的，通常认为是，因为原子或离子中 $K .$ 或者L壳层的电子优先于价电子而被电离，在内壳层轨道上存在空缺的离子。一般来讲，价电子更倾向于通过碰撞过程变成自由电子，而对于内壳层电子，其光致电离截面反比于主量子数 $n ^ { 3 }$ ，当光子的能量超过内壳层电子的束缚能，这些电子将有机会通过光致电离过程而变为自由电子。因此，当低温等离子体处于强辐射场中时，会产生复杂的空心离子光谱。下面将介绍利用短脉冲激光与靶相互作用，开展空心离子光谱的研究工作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用Vulcan拍瓦激光器分别与厚度为 $1 . 5 \\mu \\mathrm { m }$ 和 $2 0 \\mu \\mathrm { m }$ 的铝箔相互作用，开展高分辨的光谱研[5]究\"。实验中采用的激光能量为160J，中心波长为 $1 0 5 4 \\mathrm { n m }$ ，脉宽为 $0 . 7 \\mathrm { p s }$ ，焦斑直径 ${ 8 \\mu \\mathrm { m } }$ ，产生最大激光强度为 $3 { \\times } 1 0 ^ { 2 0 } \\mathrm { W / c m } ^ { 2 }$ ，可以产生能量大于铝的 $K$ 壳层电离能 ${ \\sim } 1 . 5 \\mathrm { K e V }$ 的光子。实验测量了具有空间分辨的光谱，光谱范围是 $7 . 0 \\mathring { \\mathrm { A } } - 8 . 4 \\mathring { \\mathrm { A } }$ ，覆盖了多个电离态铝的 $K$ 壳层光谱，其中 $7 . 3 \\mathring \\mathrm { \\mathrm { A } }$ $- 7 . 7 \\mathring \\mathrm { A }$ 之间谱线主要来自于完全没有 $K$ 壳层电子的离子，即KK空心离子； $7 . 9 \\mathring { \\mathrm { A } } - 8 . 3 \\mathring { \\mathrm { A } }$ 之间的谱线主要来自于 $K L$ 空心离子，也就是 $K$ 和 $| L$ 壳层上各有一个空缺。采用同样功率的激光和两个不同厚度的靶，观测的谱线都主要来自于 $\\scriptstyle \\mathrm { n = 1 } \\to 2$ 的内壳层跃迁，而厚一些的靶所对应的空心离子发射线明显减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0da18aa2b25917863702da8d72becc6871108ac9281c6137376062dfa6ac08b.jpg",
+        "img_caption": [
+            "图2Vulcan和LCLS空心离子的实验观测光谱 Fig.2 Experimental spectra on Vulcan PW(black and blue curves corresponding to $1 . 5 \\mu \\mathrm { m }$ and $2 0 \\mu \\mathrm { m }$ targets)along with theoretical [5] [11] counterparts (pink curves）and experimental spectra on LCLS "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过分析发现，高强度（如 $1 0 ^ { 2 0 } \\mathrm { W / c m } ^ { 2 }$ ）激光场与厚度为 $1 . 5 \\mu \\mathrm { m }$ 靶的相互作用过程中，产生能量约为数兆电子伏特的电子，在靶表面场的作用下，其中一部分高能电子在箔片的前后表面之间振荡，即回流过程； $1 . 5 \\mu \\mathrm { m }$ 的薄箔靶对于这些相对论电子而言基本是透明的，电子通过表面等离子体场中汤姆森散射和韧致辐射过程迅速失去能量而产生X射线，形成了一个强度超过$5 { \\times } 1 0 ^ { 1 8 } \\mathrm { W / c m } ^ { 2 }$ 的几千电子伏特的辐射场，X射线光子电离了离子的内壳层电子而形成空心离子。而对于厚度为 $2 0 \\mu \\mathrm { m }$ 的箔靶，回流所需的时间比在前者中要长。这样，造成厚靶中快电子与激光、等离子场相互作用的频率下降，从而导致X射线辐射的产生效率下降。因此，从图2中可以看到，两个厚度的靶，因为辐照等离子体的辐射场强度不同，其自发光谱的差异明显，由此也证实了这个实验是由辐射过程主导的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了光学激光器，加速器产生的短脉冲自由电子激光，也用以研究空心离子。使用LCLS[11]激光装置‘，脉宽为80fs的X射线短脉冲准单色激光聚焦在 $1 \\mu \\mathrm { m }$ 厚的铝箔上，焦斑面积为 $9 . 1 \\pm$ $0 . 8 \\mu \\mathrm { m } ^ { 2 }$ ，光子能量在 $1 5 6 0 \\mathrm { e V - } 1 8 3 0 \\mathrm { e V }$ 之间，光强为 $1 . 1 { \\times } 1 0 ^ { 1 7 } \\mathrm { W / c m } ^ { 2 }$ ，实验观测光谱范围为$1 4 6 0 \\mathrm { e V - } 1 6 8 0 \\mathrm { e V }$ 。实验中激光脉冲的持续时间，以及电子的加热、光电离和俄歇过程的时标，与原子的运动和靶的流体膨胀相比，都是快过程，例如温度为 $1 5 0 \\mathrm { e V }$ 的铝离子在100fs里只能移动 $5 \\mathrm { n m }$ ，远小于靶的厚度；对 $1 \\mu \\mathrm { m }$ 厚的靶而言，流体动力学膨胀时间粗略估计为20ps。再考虑到电子-离子弛豫时间预计小于 $1 0 \\mathrm { p s }$ ，因此，可以认为这个实验条件下产生的是均匀的热温稠密物质。实验观测到了 $K _ { \\alpha }$ 谱线，通过分析可知，铝箔中的吸收过程由 $K$ 壳层的光致电离主导，因为K壳层的光电离截面比 $L$ 壳层和价电子的截面大十倍以上。形成K壳层空缺后，填充过程主要由KLL俄歇过程完成，从而造成了 $L$ 壳层上的两个空缺。这里的X射线光子不仅是光电离过程得以发生的能量来源，而且是一个选择探针，自由电子激光的光子能量范围很窄，只对那些电离能恰好处于这个范围的离子有作用，因此自由电子激光的观测光谱比上面介绍的Vulcan的实验光谱显得简洁（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "短脉冲激光对于空心离子光谱学的实验来说，激光参数、靶材料以及厚度等对产生的辐射场有明显的影响，合理的组合可以产生数量大、能量高（高于靶原子 $K .$ 边或L边的电离能）的光子。空心离子光谱一般会较为复杂，原因在于外壳层电子的排布方式繁多，造成计算中需要考虑的组态数目较大，即使在计算能力大幅提高的现在，这对理论光谱的计算仍是一个不小的挑战。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3相对论无碰撞冲击波",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冲击波普遍存在于天体环境中，如日地空间，超新星爆炸，伽马暴等。由于天体环境的密度低，抛射物质速度大，所以大部分观测到的天体冲击波都是无碰撞的，即冲击波的空间尺度远远小于离子之间的库伦碰撞尺度。根据冲击波速度的大小，冲击波可以被分为非相对论冲击波和相对论冲击波，例如日地空间、超新星爆炸过程中产生的冲击波速度大约在 $1 0 0 0 ~ \\mathrm { k m / s }$ $\\cdot 1 0 0 0 0 \\mathrm { k m / s }$ ，是非相对论的，而伽马暴过程中产生的冲击波速度接近光速，是相对论的。天文观测发现，冲击波的形成会伴随着高能粒子甚至是宇宙射线的产生。普遍认为，宇宙射线幂律谱中能量 $\\mathrm { < 1 0 ^ { 1 5 . 5 } e V }$ 的宇宙射线主要来自于银河系内部的非相对论冲击波加速，如超新星爆炸过程，能量 ${ > } 1 0 ^ { 1 5 . 5 } \\mathrm { e V }$ 的宇宙射线主要来自于银河系外的相对论冲击波加速，如伽马暴。近些年来，短脉冲激光技术的飞速发展让实验室研究相对论冲击波成为了可能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "理论研究表明：相对论冲击波产生机制是上游的入射粒子在Weibel自生磁场的作用下束缚在局部区域，直至产生密度、温度、速度、压强等特征参量的跳变。伴随着冲击波的形成入射带电粒子在湍流磁场的约束下，可以多次往返于冲击波的上下游获得能量增益，这就是用于解释宇宙射线形成的Fermi加速机制。实验室要想研究相对论冲击波产生和加速过程，首先要得到[6]稳定存在的Weibel冲击波。根据Weibel不稳定性的增长率\"，不难发现，Weibel不稳定性的增长率与束流粒子种类、束流速度和密度相关，采用高密度、高速度和低质量粒子的束流更容易激发Weibel不稳定性，诱导Weibel冲击波的形成。正负电子等离子体束流是实验室研究相对论Weibel冲击波的最理想环境，受目前短脉冲激光强度的限制，束流速度即相对论电子能量很难得到大幅度提升。提高正负电子的产额即提高束流密度是一条十分有希望的研究途径。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43d51cf24dbf994177a0a81c337ed8b9075afd393494ef9bfb1dcd9f03fe8ef8.jpg",
+        "img_caption": [
+            "图3正电子产量和激光能量的关系[12",
+            "图4 模拟得到正电子产量与激光光强的关系[12]",
+            "Fig.4The change of the positron yield with the laser intensity.[1z "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 The measurement of positron yields and the laser energy at three laser facilities.[12] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用短脉冲激光与高Z固体靶相互作用，可以产生了兆电子伏特量级的正负电子对组成的等离子体束流。其原理称为Berhe-Heitler（BH）过程，即激光与固体靶相互作用时，在靶前产生了相对论电子，相对论电子通过轫致辐射过程产生高能X射线，X射线继续辐照高Z金属靶，在高Z原子核附近产生了正负电子对，每个正负电子对的能量能够达到数兆电子伏特到数十兆电子[6]伏特。在Titan、Orion、OmegaEP短脉冲激光装置上的实验\"，通过BH方法将正负电子的产量提高了30倍，达到 $1 0 ^ { 1 1 } / \\mathrm { K J }$ 。但是，产生的相对论速度的正负电子对的数量仍然达不到相对论无碰撞冲击波研究所需要的量级。通过分析数据，得到了正电子产率与激光能量之间关系是非线性的，但在实验参数范围内，产量与能量的二次方成正比。实验使用了两种不同脉宽的激光，发现更短的脉宽导致光强更高、产生的正电子数更多，如图3。对实验结果进行了理论分析，预测了更高能量激光设备会增加正负电子对的产量。使用不同的模型模拟，发现对于 $1 \\mathrm { m m }$ 厚的金靶，随着激光强度变高，正负电子对的产量也会升高，当激光强度达到 $2 { \\times } 1 0 ^ { 2 0 } \\ \\mathrm { W / c m } ^ { 2 }$ 时，产量达到最高。随着激光光强继续升高，虽然整体正电子产量仍然增加，由于最初产生相对论电子的能量过高，产生正电子的效率反而会变低，如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，相对论无碰撞冲击波的实验室研究处于\"如何产生达到相对论无碰撞冲击波所需的物理条件”，并得到了阶段性的进展和可期待的结果。Chen等的文章”通过模拟预测了在 [6] $1 0 ^ { 2 0 } \\mathrm { W / c m } ^ { 2 }$ 光强附近的正电子产量。期待理论或者实验得到更高光强下正电子产量的数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4激光等离子体诊断方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用短脉冲激光和靶相互作用产生的辐照源，对等离子体状态进行照相诊断，可以得到丰富的物理信息。目前实验室诊断等离子参数常用的照相技术有两种，一种是X射线背光照相技术，另外一种是质子照相技术。前者对等离子密度、温度更加敏感，主要测量流体不稳定性和冲击波传输等物理过程引起的等离子体密度和温度变化；后者对电磁场更加敏感，可以对等离子体中电磁场的动态过程进行诊断，如磁场的产生（比尔曼电池效应），磁场的耗散和能量转化（磁重联）等物理过程。等离子体照相技术的时空分辨率取决于短脉冲激光和靶相互作用的物理过程，一般的时间分辨能力与所产生辐照源的激光脉宽飞秒或者皮秒相当，空间分辨能力取决于产生辐照源的空间尺度，约为十微米左右。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c78c106ee3ba54dc0b96f76cce48ea9be162c8fdd37f05dc6d41b016dffd322.jpg",
+        "table_caption": [
+            "表1激光与不同把材料相互作用发射 ${ \\pmb K } _ { a }$ 线的光子能量。",
+            ")le.1 The photons energy of the $K _ { a } - 1$ ine emitted by different metals using laser. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>不同靶材料</td><td>钒V</td><td>铜Cu</td><td>钼Mo</td><td>钨W</td></tr><tr><td>背光源光子能量（Ka线）</td><td>4.95KeV</td><td>8.04KeV</td><td>17.4KeV</td><td>58KeV</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "下面具体介绍一下上述两种照相技术的工作原理及其应用。首先是X射线背光照相技术，短脉冲激光和靶相互作用产生很强的X射线辐射，其转化效率大约在 $1 0 ^ { - 4 } – 1 0 ^ { - 5 }$ [8]，当X射线在穿过光厚介质时（高密度等离子体），受穿透深度的影响部分X射线会沉积在等离子体中，因此强度会发生改变，通过比较透射强度与初始强度的变化，就可以给出等离子体密度温度信息。例如在LULI2000装置上，研究人员在实验室该模拟白矮星吸积伴星时产生的物质流与白矮星相互撞击的物理过程。实验中采用皮秒短脉冲激光分别与不同靶材料相互作用产生不同能段的 $K _ { \\alpha }$ 线作为背光源(如表1)，对等离子体的动态演化过程进行成像。高马赫数（ $\\scriptstyle \\cdot M = 5 - 1 0$ ）的等离子体",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[8]流”与铝平面靶相互作用后产生了反向激波，同时观察到了一些小尺度（几十微米）的结构。这些细微结构之所以能够在实验中被观测到，是因为所采用的X射线背光照相技术具有优于$3 0 \\mu \\mathrm { m }$ 的空间分辨能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当X射线通过光薄介质时，可以近似认为其强度不会发生改变，但是其相位会发生显著改变，利用X射线相位改变来诊断等离子体的密度分布，即X射线相衬成像（XPCI-X-rayphase-contrast imaging）。XPCI是基于密度梯度引起的X射线光子的相位改变，故同步加速器和自由电子激光是XPCI的理想平台，因为这些装置可以产生高流量的、高能的相干辐射。随着[9]短脉冲激光的出现，利用非相干的X射线同样可以实现XPCI。在德国GSI的PHELIX激光器上，研究人员利用短脉冲激光产生的X射线辐照源对冲击波结构进行了XPCI测量。能量为25J，0.5ps脉宽，波长为 $1 . 0 6 \\mu \\mathrm { m }$ 的短脉冲激光以 ${ 5 \\mu \\mathrm { m } }$ 的焦斑聚焦到钨丝上，靶面光强约为 $6 { \\times } 1 0 ^ { 1 9 } \\mathrm { W / c m } ^ { 2 }$ ，产生的相对论电子在钨丝中传输时会通过轫致辐射产生X射线；另一束激光（25J,2ns, $1 . 0 6 \\mu \\mathrm { m }$ ）与塑料靶相互作用产生冲击波向靶内传输。实验结果可以很清楚的显现出密度界面处的相位变化；而同样条件下，传统的X射线成像则无法提供相同水平的细节。这说明XPCI比X射线成像更敏感于密度的变化，意味着它可以在同一测量中探测不同密度的区域，即使在低X射线流量下也能观察到冲击波结构中微小细节。这对于研究界面的流体动力学过程非常有用，比如Richtmyer-Meshkov和Kelvin-Helmholtz不稳定性的研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "短脉冲激光与靶相互作用除了产生X射线外还可以产生高能质子（\\~几十兆电子伏特），质子照相技术就是利用高能质子穿过带有电磁场的等离子体区域后，其传输轨迹受电磁场的影响会发生改变，最终被探测介质记录下来。通过分析记录介质上的质子通量的空间分布去反推其传输轨迹的改变，最终反演出电磁场的空间位型以及强度分布等信息。目前最常用的质子源产生方式是短脉冲激光聚焦到平面靶上通过靶后鞘层场加速机制将质子加速到兆电子伏特量级。研究人员利用OMEGAEP上1ps、300J的短脉冲激光与 $2 0 \\mu \\mathrm { m }$ 厚的铜靶相互作用产生质子辐照源，对长脉冲打靶产生的自生磁场进行了高分辨的成像诊断，成功的观测到了由比尔曼电池效应产生的围绕在打靶区域附近的环形磁场[10]。基于磁重联中磁场的拓扑结构研究人员巧妙的利用该环形磁场设计实验，高分辨的质子照相技术对磁重联物理过程进行了测量，揭示了激光驱动磁重联的典型特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将短脉冲激光用作等离子体诊断技术，具备高的时空分辨能力，对快速演化的过程有着不可替代的诊断作用，在实验室天体物理领域中，不仅对流体运动、冲击波结构、不稳定性发展等开展精细观测，而且对辐射过程也有着诊断潜力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论和展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "短脉冲激光器在实验室天体物理领域有着其独特的优势。比起长脉冲激光器，在相同的激光能量条件下，缩短脉宽可以将激光功率提高到拍瓦量级，将激光强度提高到 $1 0 ^ { 2 3 } \\mathrm { W / c m } ^ { 2 }$ 量级，进而大大的提高了实验室环境的能量密度与功率密度。短脉冲激光与靶相互作用产生相对论电子，继而产生X射线、伽马射线、高能质子、正负电子对等，显著地拓展了实验室天体物理的研究对象和参数范围。本文主要讨论的核天体物理、空心离子光谱、相对论无碰撞冲击波以及诊断方法，目前正处于一个快速的发展阶段，我们应抓住这一机遇，结合其他实验装置，充分发挥短脉冲激光的优势，开展相关的理论与实验研究。目前，国际上更高功率的短脉冲激光器正在相继建设中，如欧洲的ELI，中国的10PW(上海张江高科技园区)和100PW(广东中山光子科学中心)超强激光装置，随着下一代更高功率的短脉冲激光器问世，必将进一步提高实验室环境的参数范围，能够研究更极端天体环境中的物理过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Research progress of laboratory astrophysics by taking advantage of short pulse lasers ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sun Jia-ning1.2, Yuan Da-wei1, Wang Fei-lu12 (1.CASKeyboratoyfpticaltrooytialstroocalOseatoris,secadefiees，eiga; 2.School of Astronomyand Space Science,University of Chinese Academy of Sciences,Beijing 1Oo049,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: With the development of Chirped Pulse Amplification (CPA), the laser power density has increased dramatically, which makes the conditions for using short-pulse lasers to conduct laboratory astrophysics research increasingly mature. A short pulse laser interacting with a target can produce relativistic particles (electrons, protons, neutrons) and intense radiation (X-ray, gamma-ray). These processes in experiments correspond to some extreme astronomical phenomena. The developments of laboratory astrophysics using short-pulse lasers are briefly introduced,such as (1) nuclear processes in astrophysical objects; (2) spectral studies of hollow ions; (3)collsionless shock waves;and (4) diagnostics. These developments demonstrate the potential of short-pulse lasers for performing a number of experiments in the realms of laboratory astrophysics. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Laboratory astrophysics; Nuclear astrophysics; Spectral studies of hollowions； Collisionless shock waves ； Diagnostics",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]BELYAEVVS,ZAGREEVBV,KEDROVAY,etal.Laboratorymodelingofbig bang nucleosynthesisusing powerfullaser facilities[J].Laser Physics,2017,27(6): 066001.   \n[2]WILLIAMST.Developmentofthediamonddetectorbasedreal-timemonitoringsystemfortheELI-NPgammabeamsource[D] Paris Saclay,2018.   \n[3]COLGANJ,ABDALLAHJRJ,FAENOVAY,etalExotic dense-materstates pumped byarelativistic laserplasma inthe radiation-dominated regime[J].Physical review letters,2013,110(12): 125001.   \n[4]CHENH,FIUZAF,LINKA,etal. Scaling the yieldoflaser-driven electron-positronjets to laboratoryastrophysical applications[J].Physical review letters,2015,114(21):215001.   \n[5]SARRIG,SCHUAKERW,DIAZZAA,etal.Table-toplaser-basedsouceoffmtosecond,colimated,ultrarelativistc positron beams[J].Physical review letters,2013,110(25):255002.   \n[6]ANTONELLIL,BARBATOF,MANCELLID,et al. X-rayphase-contrastimaging forlaser-induced shock waves[J].EPL (EurophysicsLetters),2019,125(3):35002.   \n[7]GAOL,NILSONPM,IGUMENSHCHEVIV,etal.Precision mappingoflaser-driven magnetic fieldsandtheir evolutionin high-energy-density plasmas[J].Physical review letters,2015,114(21): 215003.   \n[8]VINKOS M,CIRICOSTA O,CHOBI,etal.Creationand diagnosis ofasolid-density plasma withan X-ray free-electron laser[J].Nature,2012,482(7383): 59-62.   \n[9]张世琳，李海宁，赵刚．碳超丰贫金属拐点星的搜寻与丰度分析[J].2020 Vol.17(1):27-38   \n[10]张燕，马力，杨星.AGN子类的硬X射线光变曲线功率谱幂率指数的分布差异[J].2020Vol.17(1):8-12 ",
+        "page_idx": 7
+    }
+]

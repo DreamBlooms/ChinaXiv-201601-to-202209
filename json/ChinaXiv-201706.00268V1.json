@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "微生物利用木质纤维素的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马泽林 1.2.3刘家亨1.2.3黄序4财音青格乐12朱宏吉1.2 \\*\\*（天津大学化工学院’系统生物工程教育部重点实验室²天津化学化工协同创新中心合成生物学平台³天津 30072 中粮营养健",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "康研究院北京102209)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要木质纤维素原料是世界上最为丰富的资源之一，可被用作微生物发酵生产高附加值生物化学品的原料。与传统用于微生物发酵的可食用生物质原料相比，目前微生物利用木质纤维素还存在以下几个关键问题：开发经济有效的木质纤维素预处理工艺、提高微生物对木质纤维素水解液中第二大单糖木糖的有效利用水平、增强微生物对木质纤维素水解液中混糖的综合利用能力以及提高微生物对木质纤维素水解液中糠醛、乙酸等发酵抑制物的耐受能力。本文综述了近年来国内外针对这几个关键问题的最新研究成果。为今后微生物大规模利用木质纤维素用于商业生产提出了展望和建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词木质纤维素；木糖;碳代谢抑制;耐受性；化学品中图分类号Q81;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research Progress on Utilization of Lignocellulosic Biomass by ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Microorganisms ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Ze-lin1,2,3 LIU Jia-heng1,2,3 HUANG Xu4 CAIYIN Qing-gele1,² ZHU Hong- ji1,2 \\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Pharmaceutical Engineering，School of Chemical Engineering and Technology，Tianjin University'; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Systems Bioengineering，Ministry of Education’；Syn Bio Research Platform, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CollaborativeInnovationCenterofChemicalScienceandEngineering，Tianjin30072，China.ChinaOil&Foodstuffs ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corporation (COFCO) Nutrition and Health Research Institutea，Beijing 102209) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Lignocellulosic biomass,one of the most abundant resources in the world can be converted into value-added bio-chemicals by microbial fermentation. Compared with the traditionally used edible biomass materials,lignocelluloses fermentation by microorganism encounters the following key problems: developing economically efficient pretreatment of lignocellulose, increasing the microbial utilization of the second most abundant sugar xylose in lignocellulose hydrolysates,enhancing the microbial comprehensive utilization of mixed sugars and improving the microbial tolerance to inhibitors in lignocellulose hydrolysates, such as furfural and acetic acid. New breakthroughs have been made on the research of these problems recent years. In this review, the latest research advances were summarized to address these issues and prospects for future development of commercial microbial utilization of lignocellulose were suggested. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Lignocellulose; Xylose; Carbon catabolite repression; Tolerance; Chemicals ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，工业上多以玉米、甘蔗等可食用生物质作为原料进行微生物发酵生产乙醇、乳酸及多元醇类等化学物质。这些化学物质的大量需求，造成了全球范围内粮食价格的上涨。为了避免未来发生人与化学品共同竞争食用生物质资源的问题，寻找可替代的，资源丰富的原材料是解决问题的关键[1]。木质纤维素广泛存在于林业及农业废弃物中，全球每年的木质纤维素产量约为100亿吨，我国每年可利用的木质纤维素也在7.5亿吨左右[2]。常见木质纤维素包括玉米秸秆、柳枝稷、甜菜浆、柑橘皮、木材及造纸废弃物等，是尤为丰富且价格低廉的可再生资源[3]。木质纤维素经糖化后的水解产物中含有葡萄糖、木糖及阿拉伯糖等大量的糖类[4-5]，这些糖类可以作为微生物发酵生产化学品的碳源。利用可再生木质纤维素生物质资源制备化学品对我国可持续发展具有重要意义。然而，在微生物发酵木质纤维素的过程中，很多问题亟待解决：如木质纤维素预处理工艺、微生物对水解液中木糖的充分利用、碳代谢抑制影响微生物对复杂碳源的选择性利用及微生物对水解液中发酵抑制物的耐受性等问题。这些问题严重限制了木质纤维素大规模的替代可食用生物质作为微生物发酵的原料的发展[6-9]。本文综述了近年来国内外针对这几个关键问题的最新研究成果，能够为今后微生物高效利用木质纤维素为底物发酵生产化学品的大规模生产提供参考价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1木质纤维素预处理工艺的研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木质纤维素的开发利用分为两步，首先木质纤维素被水解处理成可发酵糖类，糖类被微生物发酵后进一步转化为生物燃料和化学品。木质纤维素材料中聚合物的多样性导致每一种材料最后转化的糖类有所不同，因此对于底物的选择是第一要素。其次，木质纤维素主要由纤维素，半纤维素和木质素组成，有效降解木质素的网状结构，破坏纤维素的结晶度能够提高水解效率[10-11]，因此选择正确的预处理工艺尤为关键。目前木质纤维素常用的预处理方法可分为三大类，即物理法、化学法和生物法。物理法通常会用碾磨的方法来降低木质纤维素的颗粒大小和结晶度；化学法处理木质纤维素是通过添加化学溶剂来破坏纤维素半纤维素及木质素的结晶结构，使其发生化学反应降解，常见的化学法有酸处理，碱处理，臭氧分解， $\\mathrm { C O } _ { 2 }$ 处理及 $\\mathrm { S O } _ { 2 }$ 催化蒸汽爆破等。生物法处理主要通过微生物对底物的氧化来去除木质素[12]。我们实验室[13]首次用酸法和碱法处理菌糠，并进一步提出了酸碱混合预处理的方法，有效降低了传统处理过程中造成的环境污染，同时提高了菌糠转化可发酵糖的经济性[14]。在很多情况下采用多种处理技术组合的方式来提高生物质转化效率，如稀酸-蒸汽爆破组合，微生物-蒸汽组合，微波辅助酸碱预处理等[15]。除此之外，等离子体处理法是一种新兴的处理技术，该技术利用电能形成高活性的离子化气体，破坏木质纤维素复杂的结构。与传统处理工艺相比，该技术操作方法简单，绿色环保，同时使后续的酶处理效率更高[16]。表一介绍了常见的等离子体处理方法，根据处理介质的不同分为氮气（空气），臭氧和氩等离子体处理法。预处理后常用纤维素酶及半纤维素酶对木质纤维素进行酶解，得到多种糖类。针对不同处理及酶解过程产生的抑制物等影响因素，一般会选择分步糖化法或同步糖化发酵法作为木质纤维素处理及发酵过程的工艺方法，以降低木质纤维素的预处理和酶解过程产生的发酵抑制物对后续微生物发酵造成的影响[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1等离子体法处理木质纤维素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b958314a1e4e004cf5149528c8eea298338e284b974ff86a8e391a5f9845d166.jpg",
+        "table_caption": [
+            "Table.1Plasma treatmentoflignocellulose "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理方法</td><td>操作方法</td><td>处理结果</td><td>参考文献</td></tr><tr><td>空气等离子体</td><td>标准大气压，2.45GHz</td><td>证明了空气-水高反应性的 等离子体可用于降解多种 木质纤维素</td><td>18</td></tr><tr><td>大气等离子体</td><td>非热等离子体可以广泛解聚非 结晶纤维</td><td>葡萄糖产量达到58%</td><td>19</td></tr><tr><td>臭氧等离子体处理</td><td>流量17升/分钟，反应时间10 分钟；流量0.5升/分钟，反应时 间90分钟</td><td>松木刨花消化率分别达到 60%和65%</td><td>20</td></tr><tr><td>臭氧等离子体处理</td><td>微粒-300目，自由水与结合水比 例60%</td><td>木质素消化率达到75%，酶 解后葡萄糖产量由18.5%提 高到80%</td><td>21</td></tr><tr><td>臭氧等离子体处理</td><td>小麦秸秆微粒小于60目，处理 时间2小时。水分比例90%。</td><td>糖回收率超过50%</td><td>22</td></tr><tr><td>氩等离子体处理</td><td>大气氩射频微等离子体射流法 处理木质素样品，处理时间30 分钟至4小时。</td><td>破坏碳碳双键及碳氧双键</td><td>23</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2提高微生物木糖利用能力的研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在木质纤维素中葡聚糖为主要多糖，占总糖含量的 $3 3 - 5 1 \\%$ （干重)。虽然不同木质纤维素中木聚糖含量多有不同，但是木聚糖的糖含量在总糖含量中的比重很高，如在软木中木聚糖含量约占 $1 0 \\% ^ { [ 2 4 - 2 5 ] }$ ，在硬木及农作物废弃物中约占",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 5 \\% ^ { [ 2 6 - 2 7 ] }$ 。因此，有效发酵木质纤维素水解的糖类可以显著提高最终化学品的产量[24]。常见发酵木质纤维素的微生物有大肠杆菌Escherichia coli等细菌及酵母菌属如酿酒酵母 Saccharomyces cerevisiae。木质纤维素水解液中的己糖如葡萄糖、半乳糖和甘露糖可以被菌株有效的代谢利用，而戊糖如木糖和阿拉伯糖等却很难被菌株利用，并且木糖是木质纤维素水解液中含量第二丰富的糖类，也是生物合成木糖醇等化学品的重要原料。因此，提高菌株对木糖的利用是很有必要的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "微生物代谢工程可以提高产品的产量及生物转化效率，并且微生物代谢工程生产化合物并不局限于利用原始菌株生产，通过对具有其他高耐受性，生长速度快等优势的菌株的生物合成途径进行设计和建造，能够使各种微生物都能利用廉价的木质纤维素原料生产高产量的生物燃料或其他有价值的化学品[28]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1木糖代谢途径改造",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对菌株原始的木糖代谢途径的深入研究可以更加有针对性地利用代谢工程的方法提高微生物对木糖的利用能力。如图1所示，在酵母及丝状真菌中，进入胞内的木糖首先在木糖还原酶（Xylose reductase，XR）的作用下转化为木糖醇，随后通过木糖醇脱氢酶（Xylitoldehydrogenase，XDH）转化成木酮糖，最后经过木酮糖激酶（Xylulokinase）的催化形成木酮糖-5-磷酸从而进入戊糖磷酸途径[29-30]。在大肠杆菌等常见细菌中，木糖可以直接经过木糖异构酶（Xyloseisomerase，XI） 作用形成木酮糖后经过木酮糖激酶的催化作用形成木酮糖-5-磷酸进入戊糖磷酸途径。除此之外，在乳酸乳球菌Lactococcus lactis[31l中还存在有磷酸转酮酶途径，该途径中的木酮糖-5-磷酸裂解成甘油醛-3-磷酸和乙酰磷酸，继而进入糖酵解途径。关于优化木糖代谢相关途径以提高微生物对木糖的利用已经在工业菌株发酵木糖的研究中多有报导（表二）。早在1988年，Chang 等[32]就通过同源表达木酮糖激酶基因提高木酮糖进入戊糖磷酸途径以促进微生物对木糖的利用。近年来，也有报道通过提高戊糖磷酸途径中相关基因的表达量来增强木糖的代谢[33]。Jin 等[34]研究了丙醇丁醇梭杆菌中分别编码转醛酶 Tal、转酮醇酶TKL、5-磷酸核酮糖异构酶RPE 和核糖-5-磷酸异构酶RPI的四个参与戊糖磷酸系统的关键基因，这些基因的过表达使重组菌株的木糖利用能力显著提高，并且比原始菌株的ABE（丙醇，丁醇，乙醇）产量提高 $42 \\%$ 。Zhou 等[35]通过异源表达来自瘤胃壶菌中的木糖异构酶（XYLA）和树干毕赤酵母的木酮糖激酶",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（XYL3）并强化非氧化戊糖磷酸途径，最终得到的菌株在厌氧条件下的生长率、木糖消耗率及乙醇产量均有明显提高。我们实验室目前研究通过表达木糖调控因子 $x y l R$ 提高乳酸乳球菌对木糖的利用能力，最终与原始菌株相比，工程菌的木糖消耗可以提高2.5倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2非磷酸化途径改造",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作为细胞代谢的中枢，三羧酸循环伴随着多种氨基酸和化学品的产生。传统意义上来说，碳代谢流进入三羧酸循环的途径包括糖酵解途径及戊糖磷酸途径，这两条途径的代谢过程包括10多步反应并且其调控方式非常复杂，如生产丁二醇就需要21步反应[36]。这些复杂的代谢过程会降低产物的产率，并且很难通过传统的代谢工程方法提高产量。研究发现有一条特殊的代谢途径可将木质纤维素水解液直接转化成2-酮戊二酸，与糖酵解途径及戊糖磷酸途径相比可减少6步反应。这种代谢途径为：木糖首先被木糖脱氢酶转化成木糖内酯，接着逐步转变成D-木糖酸、2-氢-3-氧-D-木糖酸、2,5-二氧代戊酸甲酯和2-酮戊二酸。这种木糖氧化途径在1960 年首次发现，也被称作Weimberg 代谢途径[37]。同时，阿拉伯糖也可通过类似的非磷酸化代谢途径转化成2-酮戊二酸，减少进入三羧酸循环的代谢步骤。由于这条途径不包括任何的磷酸化过程，故而可使能量得到更加有效的利用，且通过Weimberg代谢途径生产2-酮戊二酸的理论产量可达到 $100 \\mathrm { m o l \\% }$ 比戊糖磷酸途径产2-酮戊二酸的理论产量（ $8 3 \\mathrm { m o l \\% }$ ）要高很多。Radek[38]等研究发现，谷氨酸棒状杆菌通过木糖异构酶途径利用木糖的过程中会产生 $\\mathrm { C O } _ { 2 }$ ，造成碳源的浪费。为了避免这种资源浪费，研究外源引入新月丙杆菌中的Weimberg代谢途径，使得该重构菌株可以充分利用碳源生产木糖醇等物质。近年来，通过强化非磷酸化代谢途径以提高菌株利用木糖能力的研究有很多（表二)。Liu 等[39]重构了一条将木糖直接代谢转化成丁二醇的代谢通路，同时为了避免木糖磷酸化，将木糖进入戊糖磷酸途径的关键酶基因 xylA敲除。最近，Tai 等[40]首次构建一株利用非磷酸化途径同时代谢木质纤维素水解液中的木糖、阿拉伯糖及半乳糖醛酸酯的大肠杆菌，该菌株可生产多种化学物质如琥珀酸、戊烯二酸及谷氨酸等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lignocellulose hydrolysate Escherichia coli √ Saccharomyces cerevisiae D-G-6-P XI D-Xylose L-Arabinose XI XDH XR-XDH D-xylulose Xylitol D-Xylonolactone L-Arabinolactone spol DHAP 3-PRuD XL AL 3-PG PPP D-Xylonate L-Arabonate Acetyl-P XD AD PEP← Glyceraldehyde-3-P 2-Keto-3-deoxy 2-Keto-3-deoxy PK pathway Lactococcus lactis -D-xylonate -L-arabonate Pyr KdxD KdaD AcCoA KGSADH 2-KG 2,5-Dioxopentanoate TCAcycle Nonphosphorylative metabolism caulobacter crescentus ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Metabolic pathways of lignocellulose hydrolysate in various microorganisms. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图一包括木质纤维素水解液中主要糖类，即葡萄糖，木糖和阿拉伯糖的代谢途径，其中葡萄糖的代谢途径为糖酵解途径；木糖代谢途径分为XI（Xylose isomerase，木糖异构酶）途径及XR/XDH（Xylose reductase,木糖还原酶；Xylitol Dehydrogenase，木糖醇脱氢酶）途径，经过该代谢途径代谢的五碳糖会进入戊糖磷酸途径，最终进入三羧酸循环生产化学品等。木糖的磷酸转酮酶途径涉及的关键酶为磷酸转酮酶(PK)。非磷酸化途径涉及的关键酶有XL(D-xylonolactonase，木糖内酯酶）,XD（D-xylonate dehydratase，木糖酸脱水酶）,KdxD（2-keto-3-deoxy-D-xylonatedehydratase，2-酮-3-脱氧木糖酸脱水酶)；ADH(L-arabinose dehydrogenase，阿拉伯糖脱氢酶）,AL（L-arabinolactonase，阿拉伯糖内酯酶）,AD（L-arabonate dehydratase，阿拉伯糖酸脱水酶）,KdaD（2-keto-3-deoxy-l-arabonatedehydratase，2-酮-3-脱氧阿拉伯糖酸脱水酶）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3提高微生物的混糖发酵能力的研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "木质纤维素水解液中含有多种己糖和戊糖，如葡萄糖、甘露糖、果糖、木糖和阿拉伯糖等。尽管木质纤维素类生物质具有多样性，木糖和葡萄糖仍然是木质纤维素水解液中最主要的糖类[48]。然而在葡萄糖存在的条件下，大多数微生物会选择将葡萄糖消耗后再继续利用其他糖类。这种调控作用被称为碳代谢抑制(CCR)。CCR是微生物普遍存在的一种全局性调控机制，决定了微生物对复杂碳源的选择性利用[49]。在酵母及不同细菌中的CCR机制完全不同，由于CCR系统的复杂性，构建一株有效利用木质纤维素水解液多种糖类的菌株仍然面临很多挑战（表二）。近年来研究发现，磷酸葡萄糖转移酶系统（PTS）在CCR系统中都起到了主要的作用[50]，通过抑制PTS系统减少混糖发酵中的CCR的研究有很多。Jarmander等[51]在可以同时利用木糖与阿拉伯糖的大肠杆菌E.coliAF1000中引入ptsG 突变基因以减弱PTS 系统的活性，最终工程菌株可以同时利用葡萄糖、木糖和阿拉伯糖。研究表明，CCR 通常通过Crp（cAMP受体蛋白)，HPr和 Mlc[52]诱导排斥进行调控，其中部分调控因子仍然与PTS系统相关，例如在大肠杆菌中Mlc的突变可以减少葡萄糖经过PTS系统的代谢活性，进一步降低了CCR[53]。而HPr基因突变的嗜热厌氧杆菌Thermoanaerobacteriumsaccharolyticum 可同时利用混合糖[54]。同样，将大肠杆菌中的原始基因crp 替换成不依赖cAMP基因的突变基因 $( c r p ^ { * } )$ ，在葡萄糖存在下，CRP\\*蛋白可以诱导xyl系列基因的表达，促使菌株在混糖发酵中提高对木糖的摄取及木糖醇的产量[55]。Groff等[56]对 xyl系列基因的进一步研究表明，提高大肠杆菌中 xylR 的表达量可以缓解阿拉伯糖对木糖的抑制。 ${ \\sf W } { \\sf u }$ 等[57]首次将厌氧菌丙醇丁醇梭菌ClostridiumacetobutylicumCCR的代谢控制蛋白CCPA进行了优化筛选，将CCPA调控CCR依赖的302位缬氨酸替换成天冬酰胺可以缓解CCR的抑制，使菌株在混糖发酵时木糖的消耗由 $30 \\%$ 增长至 $90 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "糖在细胞膜上的运输是糖代谢的第一步。近年来对糖转运研究的不断深入，发现糖的转运吸收作用在微生物代谢糖类的过程中起到了关键作用[58]。并且，研究发现在某些条件下木糖的运输速率常常决定了木糖在细胞中代谢的快慢，而葡萄糖的存在会显著降低木糖转运的效果[59]。因此，在含有葡萄糖的混糖发酵过程中引入木糖转运蛋白可以有效避免微生物由于CCR造成的木糖利用率降低的问题。Hector 等[60]在酵母中异源表达了拟南芥中的木糖转运蛋白，与原始菌株相比，工程菌在葡萄糖-木糖混糖发酵中对木糖的利用可以提高 2.5 倍。Khankal 等[61]在大肠杆菌中引入了木糖特异性转运蛋白XyIE 或XyIFGH，可以有效提高混糖发酵时对木糖的利用。在热带假丝酵母（Candida tropicalis）中同源表达木糖转运基因 $A t 5 g I 7 0 I O$ 可以提高对木糖的摄取进而使木糖醇的产量提高 $2 5 \\% ^ { [ 6 2 ] }$ 。然而转运蛋白可能会由于发生错误折叠或不恰当转运使微生物同时利用木糖和葡萄糖的能力减弱，并且大多数糖类转运蛋白对葡萄糖亲和性比对木糖的亲和性要更高。因此，通过提高木糖转运能力实现微生物对于木质纤维素水解液中混糖的利用仍然是一个挑战。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4提高微生物对木质纤维素水解液耐受能力的研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在木质纤维素的处理及酶解过程中会产生其他的物质。如木质纤维素类生物质在水解过程中半纤维素部分会乙酰化产生乙酸。在高温高压下，己糖脱去水分子转化成羟甲基糠醛（HMF)，HMF会进一步降解会形成乙酰丙酸和甲酸，同时，木糖被降解成糠醛，若木质纤维素处理的时间过长，糠醛会进一步转化成甲酸。已有研究表明这些物质会影响微生物的生理性质[68-69]，如Heer 等[70]研究发现HMF及糠醛的存在会降低微生物的生长速度，影响乙醇产量。这些抑制物的抑制作用影响微生物发酵的同时也降低了化学品的生产。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基因工程法改造菌株不仅可以优化代谢途径，也可以提高微生物对抑制物的耐受性。近年来很多研究利用基因工程法可有针对性地提高微生物对木质纤维素水解液中的耐受性（表二)。Hasunuma 等[71]在酿酒酵母中表达毕赤酵母中的转醛醇酶基因及乙醇脱氢酶基因，工程菌在含有 $7 0 \\mathrm { m M }$ 糠醛存在的培养基中发酵的乙醇产量是原始菌株的2.3倍。Li等[72]选用可利用木糖的酵母菌在含有木质纤维素水解液中发酵产乙醇，其将对硝基苯酚磷酸酶基因敲除，将转醛醇酶基因过表达，敲除及过表达的协同作用使重构菌株不仅可以耐受三种弱酸的抑制，而且可以提高木糖醇的积累，并最终使乙醇的产量提高[73]。利用进化工程法提高菌株耐受性的研究近年来也日益增加，如Royce[74]等研究用进化工程法在额外添加辛酸的低pH培养基下驯化大肠杆菌MG1655，最终得到的工程菌株不仅对辛酸有耐受性，同时对己酸、癸酸、正丁醇及异丁醇等物质的耐受性均有所提高。Wallace-Salinas 和Gorwa-Grauslund[75]运用进化工程法将酵母在恒温 $3 0 ^ { \\circ } \\mathrm { C }$ 的木质纤维素水解液中进化，构建得到的工程菌株比原始菌株对HMF 的耐受能力有明显提高。除上述方法外，近年来，原位抑制物去除方法（ISPR）的应用也较为广泛[76]。另外，也有专利报导表明提高对乙酸的摄取可以增强菌株在木质纤维素酶解液中的耐受性[77-78]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表2微生物工程菌高效利用木质纤维素的研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/02011618e8c81e6c40754fd188c96ea5abcaf6d2dc0669396d31c1613450f50e.jpg",
+        "table_caption": [
+            "Table 1 Studies on engineering microorganism for improve lignocellulose hydrolysate itilization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌株</td><td>改造方法</td><td>改造目的</td><td>表型或动力学常数</td><td>参考文献</td></tr><tr><td>S. cerevisiae CEN.PK113-5D</td><td>引入牛瘤胃宏基因组 上的 xylA 基因</td><td>提高木糖利用</td><td>提高木糖的利用，为XI途径 中的关键酶基因 xylA 找到 了一种新的的来源途径</td><td>41</td></tr><tr><td>Pseudomonas putida S12</td><td>引入新月柄杆菌 Weimberg途径</td><td>提高木糖利用</td><td>在纯木糖培养基中的生物量 提高了53%，最大生长速率 可达0.21h-1</td><td>42</td></tr><tr><td>E. coli ATCC(No.27325)</td><td>非磷酸化途径改造</td><td>提高木糖利用</td><td>每 40g/L 的木糖可以生产 11.7 g/L 的乙烯</td><td>43</td></tr><tr><td>S. cerevisiae 424A (LNHST)</td><td>XR/XDH途径的基因 修饰</td><td>提高木糖利用</td><td>玉米秸秆的消耗率达到84%</td><td>44</td></tr><tr><td>S.cerevisiae MT8-1X/ TALADH</td><td>XR/XDH途径的基因 修饰</td><td>提高木糖利用</td><td>稻草的消耗率达到82%，乙 醇最终产量达到96%</td><td>45</td></tr><tr><td>S.cerevisiae ATCC200062</td><td>XI途径修饰</td><td>提高木糖利用</td><td>木糖最终消耗达到11.6 g/L, 乙醇产量达到 50% 在木糖与阿拉伯糖培养基中</td><td>46</td></tr><tr><td>E. coli XL10-Gold</td><td>非磷酸化途径改造</td><td>提高木糖利用</td><td>发酵，最终乙醇产量达到 85%</td><td>47</td></tr><tr><td>C. tropicalis LX</td><td>过表达木糖转运蛋白 At5g17010 基因 过表达P.stipitis的</td><td>混糖发酵</td><td>木糖醇产量达到1.14g h，提高了25%</td><td>63</td></tr><tr><td>S. cerevisiae D452-2</td><td>XYL1 ，cdt-1 和 gh1-1基因</td><td>混糖发酵</td><td>木糖醇产量达到0.55g1l h1，提高了40%</td><td>64</td></tr><tr><td>E. coli DH5a</td><td>过表达 N.crassa 的 XR并驯化 过表达C.tenuis 的</td><td>混糖发酵</td><td>木糖醇产量接近理论值，产 品纯度接近100%</td><td>65</td></tr><tr><td>Corynebacterium glutamicum</td><td>XR 和araE；敲除 ldhA，ptsF 和 xylB 基因</td><td>混糖发酵</td><td>木糖醇产量达到7.9g1-h-1, 提高了1.6倍</td><td>66</td></tr><tr><td>R.arrhizusRH7-13-9#</td><td>从高木糖浓度培养基 中筛选菌株 构建一条消耗NADH 的乙酸代谢通路，同</td><td>混糖发酵</td><td>富马酸产量达到46.78g/L NADH达到平衡的同时利用 木糖和乙酸。提高了木质纤</td><td>67</td></tr><tr><td>S. cerevisiae SR8</td><td>时构建了一条生产 NADH的木糖代谢通 路</td><td>提高耐受</td><td>维素糖类的利用，同时提高 了对菌株对乙酸及乙醇的的 耐受</td><td>79</td></tr><tr><td>S. cerevisiae CE25</td><td>敲除 FPS1 水通道蛋 白基因 过表达脱氢酶和还原</td><td>提高耐受</td><td>1.7 ± 0.1 g1-1 h-1 证明ADH7基因和ORF</td><td>80</td></tr><tr><td>S.cerevisiae TMB3400</td><td>酶基因ADH7和ORF YKL071W</td><td>提高耐受</td><td>YKL071W基因是耐受相关 的关键酶基因</td><td>81</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论与展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年来微生物利用木质纤维素发酵生产化学品得到了广泛关注并取得了很大的研究进展。然而微生物大规模高效利用木质纤维素生产生物化学品仍然面临诸多挑战。木质纤维素的预处理过程会对后续的其他步骤产生重大影响，并且由于木质纤维素结构的紧密性使其比淀粉类生物质的处理过程要求更加严格。对于酶的选择，糖的产率与抑制物的产生之间的关系也需妥善处理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "微生物的代谢调节或转运蛋白调控会导致木质纤维素水解液中的多种糖类按照葡萄糖优先的原则被微生物消耗[82-83]。尽管近几年提高木糖利用的研究很多，木糖的利用速率仍然次于葡萄糖。因此研究解决微生物混糖发酵过程中的碳代谢抑制问题有很大的应用前景。木质纤维素水解液中所含的多种抑制物会影响微生物的发酵结果。利用基因的协同作用虽然会提高菌株的耐受性，可是特定基因的过表达也会干扰其他物质的代谢。此外，在葡萄糖作为微生物发酵的主要碳源条件下，依赖ATP的耐受机制会更有效果，然而木质纤维素酶解液中较高的木糖与葡萄糖比例使得高效发酵也变得更加困难[84]。因此，微生物能够在含有高浓度抑制物的环境下有效利用己糖和戊糖作为碳源生产化学品是未来微生物能够大规模高效利用木质纤维素水解液的关键。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Graham-Rowe D. Agriculture: Beyond food versus fuel. Nature, 2011, 474(7352): S6-S8.   \n[2]李景明，薛梅．中国生物质能利用现状与发展前景．农业科技管理，2010，29(2)：1-4. Li JM, Xue M. Present Situation and Prospect of Biomass Energy Utilization in China. Management of Agricultural Science and Technology，2010,29(2):1-4.   \n[3] Li C, Cheng G, Balan V,et al. Influence of physico-chemical changes on enzymatic digestibility of ionic liquid and AFEX pretreated corn stover. Bioresource Technology，2011，102(13):6928-6936.   \n[4] Mosier N, Wyman C, Dale B,et al. Features of promising technologies for pretreatment of lignocellulosic biomass. Bioresource Technology，2005,96(6):673-686.   \n[5] Sun Y, Cheng J. Hydrolysis of lignocellulosic materials for ethanol production: a review. Bioresource Technology，2002，83(1):1-11.   \n[6] Papapetridis I,Dijk M, Dobbe A P A，et al. Improving ethanol yield in acetate-reducing Saccharomyces cerevisiae by cofactor engineering of 6-phosphogluconate dehydrogenase and deletion of ALD6. Microbial Cell Factories, 2016， 15(1):67-83.   \n[7] Shaw A J, Podkaminer K K, Desai S G,et al. Metabolic engineering of a thermophilic bacterium to produce ethanol at high yield. Proceedings of the National Academy of Sciences， 2008，105(37):13769-13774.   \n[8] Gao D, Chundawat S P S, Sethi A,et al. Increased enzyme binding to substrate is not necessary for more efficient cellulose hydrolysis. Proceedings of the National Academy of Sciences，2013，110(27):10922-10927.   \n[9] Edwards M C, Henriksen E D C, Yomano L P,et al. Addition of genes for cellobiase and pectinolytic activity in Escherichia coli for fuel ethanol production from pectin-rich lignocellulosic biomas. Applied and Environmental Microbiology， 2011, 77(15): 5184-5191. [10] GalbeM, Zacchi G. Pretreatment: the key to efficient utilization of lignocellulosic materials. Biomass And Bioenergy， 2012， 46:70-78.   \n[11] Viikari L， Vehmaanperä J, Koivula A. Lignocellulosic ethanol: from science to industry. Biomass And Bioenergy， 2012， 46:13-24.   \n[12] Ravindran R, Jaiswal A K. A comprehensive review on pre-treatment strategy for lignocellulosic food industry waste: challenges and opportunities. Bioresource Technology，2016，199:92-102.   \n[13] Qiao J J， Zhang Y F, Sun L F，et al. Production of spent mushroom substrate hydrolysates useful for cultivation of Lactococcus lactis by dilute sulfuric acid, cellulase and xylanase treatment. Bioresource Technology， 2011， 102(17): 8046-8051. [14] Zhu H J,Liu JH, Sun L F,et al. Combined alkali and acid pretreatment of spent mushroom substrate for reducing sugar and biofertilizer production. Bioresource Technology，2013，136:257-266.   \n[15］赵鑫．木质纤维素联合预处理法的研究进展．山东化工，2016，45(11)：39-41.   \nZhao X. The Review of Combination Pretreatment Methods of Lignocellulosic. Shandong Chemical Industry，2016,45(11) :39-41.   \n[16] Vanneste J，Ennaert T,Vanhulsel A，et al. Unconventional Pretreatment of lignocellulose with low temperature plasma. ChemSusChem， 2016.   \n[17] Nogué V S, Karhumaa K. Xylose fermentation as a challenge for commercialization of lignocellulosic fuels and chemicals. Biotechnology Letters,2015,37(4): 761-772.   \n[18] Bundaleska N, Tatarova E, Dias F M, et al. Air- water ‘tornado’-type microwave plasmas applied for sugarcane biomass treatment. Journal of Physics D: Applied Physics, 2013，47(5): 055201.   \n[19] Benoit M, Rodrigues A,Vigier K D O,et al. Combination of ball-milling and non-thermal atmospheric plasma as physical treatments for the saccharification of microcrystalline cellulose. Green Chemistry， 2012，14(8): 2212-2215.   \n[20] Travaini R, Martin-Juárez J, Lorenzo-Hernando A,et al. Ozonolysis: An advantageous pretreatment for lignocellulosic biomass revisited. Bioresource Technology，2016,199: 2-12.   \n[21] Li C, Wang L, Chen Z, et al. Ozonolysis pretreatment of maize stover: The interactive effect of sample particle size and moisture on ozonolysis process. Bioresource Technolo0gy，2015，183:240-247.   \n[22 ] Bule M V, Gao A H, Hiscox B,et al. Structural modification of lignin and characterization of pretreated wheat straw by ozonation. Journal of Agricultural and Food Chemistry，2013，61(16):3916-3925.   \n[23] Amorim J, Oliveira C, Souza - Corréa JA, et al. Treatment of sugarcane bagasse lignin   \nemploying atmospheric pressure microplasma jet in argon. Plasma Processes and Polymers,   \n2013，10(8):670-678.   \n[24] Wiman M, Dienes D, Hansen MA T,et al. Cellulose accessibility determines the rate of enzymatic hydrolysis of steam-pretreated spruce. Bioresource Technology， 2012, 126: 208-215.   \n[25] Rana V, Eckard A D,Teller P,et al. On-site enzymes produced from Trichoderma reesei RUT-C30 and Aspergillus saccharolyticus for hydrolysis of wet exploded corn stover and loblolly pine.Bioresource Technology，2014，154:282-289.   \n[26] Nghiem NP, Kim T H, Yoo C G,et al. Enzymatic fractionation of SAA-pretreated barley straw for production of fuel ethanol and astaxanthin as a value-added co-product. Applied Biochemistry and Biotechnology， 2013，171(2):341-351.   \n[27] Han S H, Cho DH, Kim Y H,et al. Biobutanol production from 2-year-old willow biomass by acid hydrolysis and acetone - butanol-ethanol fermentation. Energy， 2013,61: 13-17.   \n[28] Zeng A P, Sabra W. Microbial production of diols as platform chemicals: recent progresses. Current Opinion in Biotechnology， 2011， 22(6): 749-757.   \n[29] Kuhad R C, Gupta R, Khasa Y P,et al. Bioethanol production from pentose sugars: Current status and future prospects. Renewable and Sustainable Energy Reviews, 2011, 15(9): 4950-4962.   \n[30] Scalcinati G, Otero JM, Van Vleet JR H,et al. Evolutionary engineering of Saccharomyces cerevisiae for efficient aerobic xylose consumption. FEMS yeast research，2012，12(5):582-597.   \n[31] Tanaka K, Komiyama A， Sonomoto K,et al. Two different pathways for D-xylose metabolism and the effect of xylose concentration on the yield coefficient of L-lactate in mixed-acid fermentation by the lactic acid bacterium Lactococcus lactis IO-1. Applied Microbiology and Biotechnology，2002，60:160-167.ML   \n[32] Chang S F,Ho N W Y. Cloning the yeast xylulokinase gene for the improvement of xylose fermentation. Applied Biochemistry and Biotechnology，1988, $1 7 \\left( 1 \\right) : 3 1 3 - 3 1 8 .$   \n[33] Nolling J, Breton G, Omelchenko M V,et al. Genome sequence and comparative analysis of the solvent-producing bacterium Clostridium acetobutylicum. Journal of Bacteriology，2001，183(16): 4823-4838.   \n[34] Jin L, Zhang H, Chen L,et al. Combined overexpression of genes involved in pentose phosphate pathway enables enhanced D-xylose utilization by Clostridium acetobutylicum. Journal of Biotechnology，2014，173: 7-9.   \n[35] Zhou H, Cheng J，Wang B L，et al. Xylose isomerase overexpression along with engineering of the pentose phosphate pathway and evolutionary engineering enable rapid xylose utilization and ethanol production by Saccharomyces cerevisiae. Metabolic Engineering， 2012，14(6):611-622.   \n[36] Yim H, Haselbeck R, Niu W,et al. Metabolic engineering of Escherichia coli for direct production of 1， 4-butanediol. Nature Chemical Biology， 2011,7(7): 445-452.   \n[37] Weimberg R. Pentose oxidation by Pseudomonas fragi. Journal of Biological Chemistry, 1961，236(3): 629-635.   \n[38] Radek A, Krumbach K, Gatgens J,et al. Engineering of Corynebacterium glutamicum for minimized carbon loss during utilization of D-xylose containing substrates. Journal of Biotechnology，2014，192:156-160.   \n[39] Liu H, Lu T. Autonomous production of 1， 4-butanediol via a de novo biosynthesis pathway in engineered Escherichia coli. Metabolic Engineering， 2015,29: 135-141.   \n[40] Tai Y S, Xiong M, Jambunathan P,et al. Engineering nonphosphorylative metabolism to generate lignocellulose-derived products. Nature Chemical Biology， 2016,12: 247-253.   \n[41] Hou J， Shen Y， Jiao C,et al. Characterization and evolution of xylose isomerase screened from the bovine rumen metagenome in Saccharomyces cerevisiae. Journal of Bioscience and Bioengineering，2016,121(2): 160-165.   \n[42] Meijnen JP,de Winde J H, Ruijssenaars H J. Establishment of oxidative D-xylose metabolism in Pseudomonas putida S12. Applied and Environmental Microbiology, 2009, 75(9): 2784-2791.   \n[43] Liu H, Ramos K R M, Valdehuesa K N G,et al. Biosynthesis of ethylene glycol in Escherichia coli. Applied microbiology and biotechnology， 2013，97(8): 3409-3417.   \n[44]Uppugundla N, da Costa Sousa L, Chundawat S P S,et al. A comparative study of ethanol production using dilute acid, ionic liquid and AFEXm pretreated corn stover. Biotechnology for Biofuels， 2014，7(1): 72.   \n[45] Hasunuma T,Ismail K S K, Nambu Y，et al. Co-expression of TAL1 and ADH1 in recombinant xylose-fermenting Saccharomyces cerevisiae improves ethanol production from lignocellulosic hydrolysates in the presence of furfural. Journal of Bioscience and Bioengineering，2014，117(2):165-169.   \n[46] Smith J, Van Rensburg E, Gorgens JF. Simultaneously improving xylose fermentation and tolerance to lignocellulosic inhibitors through evolutionary engineering of recombinant Saccharomyces cerevisiae harbouring xylose isomerase. BMC Biotechnology，2014，14(1):41-58.   \n[47] Bai W， Tai Y S, Wang J，et al. Engineering nonphosphorylative metabolism to synthesize mesaconate from lignocellulosic sugars in Escherichia coli. Metabolic Engineering，2016，38: 285-292.   \n[48] Girio F M, Carvalheiro F, Duarte L C,et al. Deconstruction of the hemicellulose fraction from lignocellulosic materials into simple sugars d-Xylitol. Springer Berlin Heidelberg， 2012: 3-37.   \n[49] Gorke B, Stulke J. Carbon catabolite repression in bacteria: many ways to make the most out of nutrients. Nature Reviews Microbiology， 2008,6(8): 613-624.   \n[50] Deutscher J， Francke C, Postma P W. How phosphotransferase system-related protein phosphorylation regulates carbohydrate metabolism in bacteria. Microbiology and Molecular Biology Reviews，2006，70(4): 939-1031.   \n[51] Jarmander J， Hallstrom B M, Larsson G. Simultaneous uptake of lignocellulose - based monosaccharides by Escherichia coli. Biotechnology and Bioengineering, 2014, 111(6): 1108-1115.   \n[52],Escalante A, Cervantes A S, Gosset G,et al. Current knowledge of the Escherichia coli phosphoenolpyruvate - carbohydrate phosphotransferase system: peculiarities of regulation and impact on growth and product formation. Applied Microbiology and Biotechnology，2012，94(6): 1483-1494.   \n[53] Nakashima N, Tamura T. A new carbon catabolite repression mutation of Escherichia coli,mlc\\*,and its use for producing isobutanol. Journal of Bioscience and Bioengineering，2012，114(1):38-44.   \n[54] Tsakraklides V， Shaw A J， Miller B B,et al. Carbon catabolite repression in Thermoanaerobacterium saccharolyticum. Biotechnology for Biofuels,2012, $5 \\left( 1 \\right) : 8 5$   \n[55] Cirino PC, Chin JW,Ingram L O. Engineering Escherichia coli for xylitol production from glucose - xylose mixtures. Biotechnology and Bioengineering， 2006, 95(6): 1167-1176.   \n[56] Groff D,Benke P I, Batth T S,et al. Supplementation of intracellular XylR leads to coutilization of hemicellulose sugars. Applied and Environmental Microbiology, 2012，78(7): 2221-2229.   \n[57] Wu Y, Yang Y, Ren C,et al. Molecular modulation of pleiotropic regulator CcpA for glucose and xylose coutilization by solvent-producing Clostridium acetobutylicum. Metabolic Engineering，2015，28:169-179.   \n[58] Jojima T, Omumasaba C A, Inui M, et al. Sugar transporters in efficient utilization of mixed sugar substrates: current knowledge and outlook. Applied Microbiology and Biotechnology，2010，85(3): 471-480.   \n[59] Sun L， Zeng X, Yan C,et al. Crystal structure of a bacterial homologue of glucose transporters GLUT1-4. Nature，2012， 490(7420): 361-366.   \n[60] Hector R E，Qureshi N, Hughes S R，et al. Expression of a heterologous xylose transporter in a Saccharomyces cerevisiae strain engineered to utilize xylose improves aerobic xylose consumption. Applied Microbiology and Biotechnology, 2008, 80(4): 675-684.   \n[61] Khankal R,Chin JW, Cirino PC. Role of xylose transporters in xylitol production from engineered Escherichia coli. Journal of Biotechnology，2008,134(3): 246-252.   \n[62] Jeon W Y， Yoon B H, Ko B S,et al. Xylitol production is increased by expression of codon-optimized Neurospora crassa xylose reductase gene in Candida tropicalis. Bioprocess and Biosystems Engineering， 2012，35(1-2): 191-198.   \n[63] Jeon W Y， Shim W Y， Lee S H,et al. Effect of heterologous xylose transporter expression in Candida tropicalis on xylitol production rate. Bioprocess and Biosystems Engineering，2013，36(6):809-817.   \n[64] Oh E J, Ha S J,Kim S R,et al. Enhanced xylitol production through simultaneous co-utilization of cellobiose and xylose by engineered Saccharomyces cerevisiae. Metabolic Engineering，2013，15:226-234.   \n[65] Nair N U, Zhao H. Selective reduction of xylose to xylitol from a mixture of hemicellulosic sugars. Metabolic Engineering，2010，12(5): 462-468.   \n[66] Sasaki M, Jojima T,Inui M, et al. Xylitol production by recombinant Corynebacterium glutamicum under oxygen deprivation. Applied Microbiology and Biotechnology, 2010, 86(4): 1057-1066.   \n[67] Liu H, Hu HR, Jin Y H,et al. Co-fermentation of a mixture of glucose and xylose to fumaric acid by Rhizopus arrhizus RH 7-13-9 #. Bioresource Technology,2017,223:30-33.   \n[68] Almeida JR M, Bertilsson M, Gorwa-Grauslund M F，et al. Metabolic effects of furaldehydes and impacts on biotechnological processes. Applied Microbiology and Biotechnology，2009，82(4):625.   \n[69] Taylor M P, Mulako I, Tuffin M, et al. Understanding physiological responses to pre - treatment inhibitors in ethanologenic fermentations. Biotechnology Journal, 2012，7(9): 1169-1181.   \n[70] Heer D, Sauer U. Identification of furfural as a key toxin in lignocellulosic hydrolysates and evolution of a tolerant yeast strain. Microbial Biotechnology， 2008, 1(6): 497-506.   \n[71] Hasunuma T, Sung K, Sanda T,et al. Efficient fermentation of xylose to ethanol at high formic acid concentrations by metabolically engineered Saccharomyces cerevisiae. Applied Microbiology and Biotechnology， 2011， 90(3): 997-1004.   \n[72] Li Y C, Gou Z X, Liu Z S,et al. Synergistic effects of TALl over-expression and PH013 deletion on the weak acid inhibition of xylose fermentation by industrial Saccharomyces cerevisiae strain. Biotechnology Letters， 2014， 36(10): 2011-2021.   \n[73] Hasunuma T，Ismail K S K, Nambu Y，et al. Co-expression of TALl and ADH1 in recombinant xylose-fermenting Saccharomyces cerevisiae improves ethanol production from lignocellulosic hydrolysates in the presence of furfural. Journal of Bioscience and Bioengineering，2014，117(2):165-169.   \n[74] Royce L A, Yoon J M, Chen Y,et al. Evolution for exogenous octanoic acid tolerance improves carboxylic acid production and membrane integrity. Metabolic Engineering, 2015，29:180-188.   \n[75]Wallace-Salinas V, Gorwa-Grauslund M F. Adaptive evolution of an industrial strain of Saccharomyces cerevisiae for combined tolerance to inhibitors and temperature. Biotechnology for Biofuels， 2013， $6 \\left( 1 \\right) : ~ 1 5 1$ ，   \n[76] Dafoe JT, Daugulis A J. In situ product removal in fermentation systems: improved process performance and rational extractant selection. Biotechnology Letters, 2014, 36(3): 443-460.   \n[77] Klaassen P，Kolen C， Van Maris A， Pronk J. Yeast strains engineered to produce ethanol from acetate. Patent WO2014033018 A1. 2014.   \n[78] Zelle R M, Shaw IV A J，van Dijken J P. Method for Acetate Consumption During Ethanolic Fermentaion of Cellulosic Feedstocks, U.S. Patent，14/075,846. 2013-11-8.   \n[79] Wei N, Quarterman J， Kim S R,et al. Enhanced biofuel production through coupled acetic acid and xylose consumption by engineered yeast. Nature Communications, 2013, 4.   \n[80] Zhang J G, Liu X Y，He X P,et al. Improvement of acetic acid tolerance and fermentation performance of Saccharomyces cerevisiae by disruption of the FPS1 aquaglyceroporin gene. Biotechnology Letters， 2011， 33(2): 277-284.   \n[81] Heer D, Heine D, Sauer U. Resistance of Saccharomyces cerevisiae to high concentrations of furfural is based on NADPH-dependent reduction by at least two oxireductases. Applied and Environmental Microbiology， 2009，75(24): 7631-7638.   \n[82] Madhavan A， Srivastava A, Kondo A,et al. Bioconversion of lignocellulose-derived sugars to ethanol by engineered Saccharomyces cerevisiae. Critical Reviews in Biotechnology，2012，32(1): 22-48.   \n[83] Subtil T， Boles E. Competition between pentoses and glucose during uptake and catabolism in recombinant Saccharomyces cerevisiae. Biotechnology for Biofuels, 2012，5(1): 14. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[84] Bellissimi E, Van Dijken JP,Pronk JT,et al. Effects of acetic acid on the kinetics of xylose fermentation by an engineered, xylose-isomerase-based Saccharomyces cerevisiae strain. FEMS Yeast Research， 2009，9(3): 358-364. ",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,109 @@
+# 山豆根正丁醇部位化学成分及其抗菌活性研究
+
+魏鑫¹，张卫¹，丁彩凤²，于浩飞²，张丽艳¹，周英1\*(1.贵州中医药大学药学院，贵阳 550025；2.昆明医科大学，昆明650500)
+
+摘要：山豆根为豆科植物越南槐(Sophora tonkinensis)的干燥根和根茎，常用于治疗咽喉部感染性疾病，其大极性提取物已经报道了具有较好的抑菌活性潜力，为了深入探究山豆根大极性抗菌活性成分，该文综合运用硅胶柱色谱、ODS 柱色谱、SephadexLH-20 柱色谱、半制备 HPLC 等分离纯化方法对山豆根正丁醇部位化学成分进行分离鉴定，并开展了单体成分抗细菌(粪肠球菌、金黄色葡萄球菌、绿脓杆菌、大肠杆菌)和真菌(白色念珠菌)的活性评价。结果表明：从山豆根正丁醇部位中共分离鉴定得到10个化合物，分别为2',4'7-trihydroxy-6,8-bis(3-methyl-2-butenyl)flavanone (1)、染料木苷(2)、2-(2',4-二羟基苯基)-5,6-二氧亚甲基苯并呋喃 (3)、maltol $\cdot \beta$ D-glucopyranoside (4)、leonuriside A(5)、松柏醇-9-0 $\cdot \beta$ -D-吡喃葡萄糖苷(6)、光甘草酚(7)、2-( $^ { 2 ^ { \prime } , 4 ^ { \prime } . }$ dihydroxy-phenyl)-8,8-dimethyl-10-(3-methyl-2-butenyl)-8H-pyrano[2,3-d]chroman-4-one (8)、氧化苦参碱(9)、番石榴酸(10)，其中化合物4-6 首次从该植物中分离得到。生物活性测试结果表明化合物1-3具有一定的抑菌作用，化合物2对绿脓杆菌的最小抑菌浓度(MIC)值为 $1 5 . 6 ~ \mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ ，化合物3对白色念珠菌和大肠杆菌的最小抑菌浓度(MIC)值均为 $3 1 . 3 ~ { \mu \mathrm { g } } { \cdot \mathrm { m L } } ^ { - 1 }$ 。
+
+关键词：山豆根，化学成分，提取分离，抑菌活性中图分类号：Q946 文献标识码：A
+
+# Chemical constituents from the $\pmb { n }$ -butanol extract of Sophora tonkinensis and their antibacterial activities
+
+WEI Xin1, ZHANG Wei1, DING Caifeng², YU Haofei², ZHANG Liyan1, ZHOU Ying' (1. Guizhou UniversityofTraditional Chinese Medicine,Guiyang 55o025,China; 2.Kunming Medical University, Kunming 650500, China)
+
+Abstract: The dried roots of Sophora tonkinensis were commonly used as the treatment of the throat and other infectious diseases.In order to identify its large polar antibacterial active components, silica gel column chromatography (CC), ODS CC and Sephadex LH-2O CC and semi preparative HPLC were used to isolate the chemical constituents from $n$ -butanol fraction of S.tonkinensis. The antibacterial activities of the monomers against bacteria (Enterobacter faecalis， Staphylococcus aureus， Pseudomonas aeruginosa， Escherichia coli) and fungi (Candida albicans） were evaluated. The results showed ten compounds were isolated and identified as $^ { 2 ^ { \prime } , 4 ^ { \prime } , 7 }$ -trihydroxy-6,8-bis(3-methyl-2-butenyl)flavanone(1),genistin(2), $_ { 2 - 2 ^ { \prime } , 4 ^ { \prime } }$ -dihydroxy-5,6-dioxomethylbenzofuran(3),maltol $\boldsymbol { \cdot } \beta$ -D-glucopyranoside(4), leonuriside A(5),coniferylalcohol-9-O- $\boldsymbol { \cdot } \beta$ -D-glucopyranoside(6),glabrol(7),2-( $^ { 2 ^ { \prime } , 4 ^ { \prime } }$ -dihydroxy-phenyl)-8,8- dimethyl-10-(3-methyl-2-butenyl)-8H-pyrano[2,3-d]chroman-4-one(8)， oxymatrine(9), piscidic acid (10). Among of them, compound 4-6 was isolated from the title plant for the first time,for our knowledge.Besides,biological activity test showed the potential antibacterial activities of compounds 1-3. It is worth mentioning that the minimum inhibitory concentration (MIC) value of compound 2 against Pseudomonas aeruginosa was 15.6 $\mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 }$ , while the MIC of compound 3 against Candida albicans and Escherichia coli were $3 1 . 3 ~ { \mu \mathrm { g } } { \cdot \mathrm { m L } } ^ { - 1 }$ ：
+
+Key words: Sophora tonkinensis,chemical constituents, extraction and isolation,antibacterial activities
+
+山豆根为豆科植物越南槐(Sophora tonkinensis)的干燥根和根茎，主要分布于贵州、广西、广东、云南、江西等地，性味苦寒，有毒，归肺、胃经，具有清热解毒，消肿利咽等功效，主要用于咽喉肿痛，齿龈肿痛等症，现收载于2015版中国药典(中华人民共和国药典·一部，2015)。山豆根作为贵州三力制药上市咽喉抗感染药品“开喉剑喷雾剂”的组方药材，主要含有生物碱、黄酮类、三萜类及酚类等化学成分，具有抗菌、抗炎、抗病毒等药理作用(潘其明，2016；程钱等，2017；聂安政等，2018)。山豆根大极性提取物已经报道了具有较好的抑菌活性潜力（吴达荣等，2006），为了深入探究山豆根大极性抗菌活性成分，该研究综合运用经典和现代分离纯化方法从山豆根正丁醇部位中共分离得到10 个化合物 (图1)，其中化合物 4-6 首次从该植物中分离得到，此外，深入开展了单体成分抗细菌(粪肠球菌、金黄色葡萄球菌、绿脓杆菌、大肠杆菌)和真菌(白色念珠菌)的活性评价，研究结果表明化合物1-3 具有一定的抑菌活性，最小抑菌浓度(MIC)值为 $1 5 . 6 { \sim } 1 2 5 . 0 ~ \mu \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，该研究丰富了山豆根的物质基础，为进一步的药理药化研究提供科学支撑。
+
+# 1材料与方法
+
+# 1.1材料、仪器和试剂
+
+1.1.1材料 山豆根药材于 2019年9月采自贵州三力制药有限公司，经贵州中医药大学魏升华教授鉴定为豆科植物越南槐(Sophora tonkinensis)的干燥块根，标本保存于贵州中医药大学，标本号为WX_20190901。白色念珠菌(Candida albicans)、粪肠球菌(Enterobacter faecalis)、金黄色葡萄球菌(Staphyloccus aureus)、绿脓杆菌(Pseudomonasaeruginosa)、大肠杆菌(Escherichiacoli)由北京北纳创联生物技术研究院提供。
+
+1.1.2 仪器与试剂核磁共振谱 $\mathrm { ^ 1 H }$ 和 $^ { 1 3 } \mathrm { C }$ 以及 DEPT 谱图测试于 Bruker Avance NEO 600MHz 核磁共振波谱仪(瑞士布鲁克公司)；半制备液相系统 LC52 购自于 Separation(Beijing)科技公司；RE-5210A/ER-3000 旋转蒸发仪(上海亚荣生化仪器厂)；SHZ-DIII 循环水式多用真空泵(郑州长城科工贸有限公司)；HCB-1300V 型垂直层流洁净工作台(青岛海尔特种电器有限公司);HIRAYAMA立式压力蒸汽灭菌锅(上海土森视觉科技有限公司)；薄层色谱(TLC)硅胶板(青岛海洋化有限公司)；Sephadex LH-20 凝胶(GE Healthcare Bio-Sciences，Uppsala,Sweden)；MCI GEL-CHP 20P(Mitsubishi Chemical Co.,Ltd.Japan)；柱层析硅胶(青岛海洋化工有限公司)；头孢噻呋(腾龙生物药业有限公司)，氟康唑(亚邦爱普森药业有限公司)；分析纯二氯甲烷，石油醚，乙酸乙酯，甲醇，乙醇(天津市富宇精细化工有限公司）。
+
+# 1.2研究方法
+
+1.2.1 提取与分离 山豆根干燥药材 $2 0 \mathrm { k g }$ ，粗粉碎后用工业甲醇 $5 0 \mathrm { L }$ 于 $7 0 ^ { \circ } \mathrm { C }$ 加热回流提取3次，每次2小时，合并三次提取液，减压回收浓缩至浸膏 $6 4 9 . 1 \mathrm { ~ g ~ }$ ，将浸膏充分混悬于蒸馏水中，分别用石油醚、乙酸乙酯和正丁醇进行萃取。取正丁醇部位萃取浸膏 $( 4 0 0 \ \mathrm { g } )$ 硅胶拌样，使用不同梯度的二氯甲烷:甲醇(1:0\~0:1)进行洗脱，TLC 点板合并极性相同的部分得到 8个极性段位(RS-RZ)，保存。取RT(9.02 g)过硅胶柱，使用不同梯度的石油醚:乙酸乙酯(1:0\~0:1)洗脱，经过 SephadexLH-20(甲醇)洗脱、半制备HPLC(甲醇-水(30:100，V/V)梯度洗脱，得到化合物1 $( 3 . 3 ~ \mathrm { m g } )$ 、化合物3 $( 5 . 3 \mathrm { m g } )$ 、化合物 $7 \ : ( 3 . 0 \ : \mathrm { m g } )$ ，和化合物 $\mathbf { 8 } \left( 3 . 0 \mathrm { m g } \right)$ 。取 RU (8.40g)经过ODS柱，使用甲醇-水(V/V(1:9\~1:0)梯度洗脱，经过半制备HPLC[甲醇-水(30:100,V/V]梯度洗脱和 SephadexLH-20(甲醇)洗脱得到化合物2 $( 7 . 3 \mathrm { m g } )$ 、化合物 $ 4 ( 5 . 6 \mathrm { m g } )$ 、化合物5( $[ 1 3 . 6 \ \mathrm { m g } )$ 、化合物6 $( 4 . 9 \ \mathrm { m g } )$ ；RV $( 3 . 2 7 \ \mathrm { g } )$ 经过 Sephadex LH-20（甲醇)洗脱，MCI$( 3 0 \% \small { \sim } 1 0 0 \%$ ,甲醇/水)和半制备HPLC[甲醇-水(30:100,V/V]梯度洗脱,得到化合物9 $( 4 . 8 \mathrm { m g } )$ 和化合物10 $( 2 4 . 2 \mathrm { m g } )$ 。
+
+# 1.2.2单体成分最低抑菌浓度(MIC)的测定
+
+1.2.2.1 菌悬液的制备 取适量白色念珠菌、粪肠球菌、绿脓杆菌、大肠杆菌和金黄色葡萄球菌分别接种于肉汤培养基，白色念珠菌于 $2 8 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养 $4 8 \mathrm { { h } }$ ，粪肠球菌、绿脓杆菌、大肠杆菌和金黄色葡萄球菌于 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 培养 $2 4 \mathrm { h }$ 后麦氏管比浊法配成 $1 0 ^ { 6 } \mathrm { C F U { \cdot } m L ^ { - 1 } }$ 的菌液，备用(戴五好等，2012)。
+
+1.2.2.2 最低抑菌浓度(MIC)的测定 取无菌96孔板，每孔加入 $1 0 0 { \mu \mathrm { L } }$ 含有 $0 . 5 \%$ TTC无菌培养基，第1至第7排为样品溶液，每个样品均设3个复孔做平行对照，取 $1 0 0 ~ \mu \mathrm { L }$ 样品溶液加入第1至第7排的第1孔，与培养基充分混合，从中取 $1 0 0 ~ \mu \mathrm { L }$ 加入到第2孔中，混合均匀后再取 $1 0 0 ~ \mu \mathrm { L }$ 到第3孔中，以此类推，直到第11孔，取出 $1 0 0 ~ \mu \mathrm { L }$ 弃去。第8排为阳性对照，第9 排为空白对照(不加药)，第12列作为阴性对照(只加培养基)(李奇英等，1998;周晓辉等，2018)。细菌在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 恒温培养箱中培养 $2 4 \mathrm { h }$ ，真菌在 $2 8 \mathrm { ~ \ ^ { \circ } C }$ 恒温培养箱中培养 48h，取出肉眼观察以微孔中是否出现TTC 红色来检查有无细菌生长，以不出现TTC 红色的微孔浓度为最低抑菌浓度，所有操作均在无菌条件下操作。
+
+![](images/a0219753f8acb998ed73a7d8516e95bdf7ec11bd5d139b00ef4a5e99a3b75dde.jpg)  
+图1化合物1-10的结构式 Fig.1 Structures of compounds 1-10
+
+# 2结果与分析
+
+# 2.1结构鉴定
+
+化合物1：黄色油状(甲醇)。ESI-MS m/z: 407.1[M-H]。 $\mathrm { ^ { 1 } H }$ -NMR ( ${ \bf \tilde { 6 0 0 M H z } }$ ,CD3OD) $\delta _ { \mathrm { H } }$ (ppm): 7.47 (1H, s,H-5), 7.28 (1H, d, $J { = } 8 . 0 \mathrm { H z }$ ,H-6), 6.34 (1H, dd, $J = 8 . 0$ ,2.1 Hz, H-5), 6.33 (1H,d, $J = 2 . 1$ Hz, H-3 ), 5.60 (1H, dd, $J = 1 3 . 3$ ,2.9 Hz, H-2), 5.33 (1H, m, H-7"), 5.18 (1H, m, $\mathrm { H } { - } 2 ^ { \prime \prime } )$ ,3.36 (2H, m,H-6"), 3.27 (2H,m,H-1"),2.71 (1H, dd, $J = 1 6 . 9$ ,2.9 Hz, H-3a), 2.93(1H, dd, $J = 1 6 . 9$ ， $1 3 . 3 ~ \mathrm { H z }$ ,H-3b),1.64 (6H,s,H-4",5"),1.72 (3H,s,H-10"),1.79 (3H,s,H-9")。 （204号 ${ } ^ { 1 3 } \mathrm { C } .$ NMR ( $1 5 0 ~ \mathrm { M H z }$ ， $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 195.2 (C-4),162.0 (C-4),159.5 (C-2),156.6 (C-9), 148.0 (C-7), 134.3 (C-8"), 132.6 (C-3"), 128.7 (C-6), 125.5 (C-5), 123.9 (C-6), 123.2 (C-7"), 122.9 (C-2"),118.6 (C-1),117.3 (C-8),114.9 (C-10),107.6 (C-5),103.3 (C-3), 76.3 (C-2), 44.2 (C-3),29.0 (C-6"),26.0 (C-5",9"),23.3 (C-1"),18.0 (C-10"),17.8 (C-4")。以上波谱数据与献 (Kyogokuetal.，1973）基本一致，故确定化合物1为 2',4'7-trihydroxy-6,8-bis(3-methyl-2-butenyl)flavanone。
+
+化合物2：黄色粉末(甲醇)。ESI-MS m/z: 455.1 $\mathrm { \left[ M + N a \right] ^ { + } }$ 。 ${ } ^ { 1 } \mathrm { H } \cdot$ NMR ( ${ \bf \Psi } _ { 4 0 0 } \bf { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { H } }$ (ppm): 8.14 (1H, s, H-2), 7.39 (2H, d, $J = 8 . 5 \ : \mathrm { H z }$ ,H-2, 6), 6.85 (2H, d, $J = 8 . 5 \ : \mathrm { H z }$ ,H-3', 5), 6.71 (1H, d, $J = 2 . 2 \ \mathrm { H z }$ ,H-8), 6.52 (1H, d, $J = 2 . 2 \ : \mathrm { H z }$ ,H-6),5.05 (1H, m,H-1"),3.38-3.93 (6H,other sugar protons)。 ${ } ^ { 1 3 } \mathrm { C }$ -NMR ( $1 5 0 ~ \mathrm { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 181.2 (C-4),163.4 (C-7), 162.2 (C-5), 157.9 (C-9),157.6 (C-4),154.0 (C-2),130.0 (C-2', 6),123.7 (C-3),121.7 (C-1), 114.9 (C-3', 5), 106.7 (C-10),100.3 (C-1"), 99.7 (C-6), 94.5 (C-8), 77.0 (C-3"),76.5 (C-5"), 73.3 (C-2"), 69.8 $( { \bf C } ^ { _ { - 4 ^ { \prime \prime } } } )$ ,61.0 (C-6")。以上波谱数据与文献(张良等，2011)基本一致，故确定化合物2为染料 木苷。
+
+化合物3：淡黄色粉末(甲醇)。 ${ } ^ { 1 } \mathrm { H } \cdot$ -NMR ( ${ \bf \zeta } ^ { \mathrm { 6 0 0 M H z } }$ $\mathrm { C D } _ { 3 } \cdot$ $_ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { H } }$ (ppm): 7.67 (1H, d, $J = 8 . 4$ （204号 Hz, H-6), 7.09 (1H, s,H-3), 7.02 (1H, s, H-4), 6.95 (1H, s, H-7), 6.43 (1H, d, $J = 2 . 2$ ,H-3), 6.41 (1H, dd, $J = 2 . 2$ ,8.4 Hz, H-5), 5.96 (2H, s, ${ \mathrm { - O C H } } _ { 2 } \mathrm { O } { \mathrm { - } }$ ） ${ } ^ { 1 3 } \mathrm { C } .$ NMR (150 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 158.1 (C-2), 155.5 (C-4), 153.2 (C-8), 148.6 (C-2), 145.4 (C-5), 144.3 (C-6), 126.6 (C-6), 123.4 (C-9),110.1 (C-1), 106.7 (C-3),103.2 (C-4),102.4 (C-7),101.0 ( $- \mathrm { O C H _ { 2 } O - }$ ), 98.6 (C-5), 92.4 (C-3)。以上波谱数据与文献(程玲等，2015)基本一致，故确定化合物3为 2-(2',4'-二羟基苯 基)-5,6-二氧甲基苯并呋喃。
+
+化合物4:无色油状(甲醇)。ESI-MS m/z: 311.0 $\mathrm { \left[ M + N a \right] ^ { + } }$ 。 $\mathrm { ^ { 1 } H }$ -NMR ( ${ \bf \tilde { 6 0 0 M H z } }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { H } }$ (ppm): 8.01 (1H, d, $J { = } 5 . 6 \mathrm { H z }$ ,H-6), 6.45 (1H, d, $J { = } 5 . 6 \mathrm { H z }$ ,H-5), 4.81 (1H, d, $J { = } 7 . 5 \mathrm { H z }$ ,H-1), 3.84-3.24 (6H,other sugar protons), 2.47 (3H,s,H-7)。 ${ } ^ { 1 3 } \mathrm { C }$ -NMR ( $1 5 0 \mathrm { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { C }$ (ppm): 175.8 (C-4), 163.2 (C-2), 155.8 (C-6), 142.3 (C-3), 116.0 (C-5), 104.1 (C-1), 77.2 (C-3), 76.7 (C-5),74.1 (C-2),69.7 (C-4),61.2 (C-6),14.4 (C-7)。以上波谱数据与文献(Wo0 et al.,2017) 基本一致，故确定化合物4为maltol- $\boldsymbol { \cdot } \beta$ -D-glucopyranoside。
+
+化合物5：白色粉末(甲醇）。ESI-MS m/z: 355.1 $\mathrm { [ M + N a ] } ^ { + }$ 。 $\mathrm { ^ { 1 } H }$ -NMR (600 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D } )$ $\delta _ { \mathrm { H } }$ (ppm): 6.13 (2H, s,H-3,5), 4.67 (1H,d, $J { = } 7 . 4 \ : \mathrm { H z }$ ,H-1), 3.79 (6H, s, $\mathrm { - O C H } _ { 3 }$ ） $^ { 1 3 } \mathrm { C }$ -NMR(150 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 154.6 (C-4), 153.4 (C-2, 6), 128.3 (C-1), 104.9 (C-1), 93.2 (C-3, 5), 76.9 (C-3), 76.4 (C-5), 74.3 (C-2), 69.9 (C-4), 61.2 (C-6), 55.4 ( $\begin{array} { r } { \mathbf { \nabla - O C H } _ { 3 } . } \end{array}$ )。以上波谱数据与文献 (杨晨悦等，2018)基本一致，故确定化合物5为leonurisideA。
+
+化合物6：黄色油状(甲醇)。ESI-MS m/z:365.0 $\boldsymbol { { [ \mathbf { M } + \mathbf { N a } ] } ^ { + } }$ 。 $\mathrm { ^ { 1 } H }$ -NMR ${ \bf \Psi } _ { \mathrm { 4 0 0 M H z } }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ $\delta _ { \mathrm { H } }$ (ppm): 7.02 (1H, d, $J { = } 2 . 0 \mathrm { H z }$ ,H-2), 6.86 (1H, dd, $J = 8 . 1$ ,2.0 Hz, H-6), 6.73 (1H, d, $J = 8 . 1$ Hz, H-5), 6.58 (1H, d, $J = 1 5 . 9 \ \mathrm { H z }$ ,H-7), 6.20 (1H, m, H-8),4.50 (1H, m, H-9a), 4.37 (1H, d, $J =$ 7.8 Hz,H-1),4.30 (1H,m, H-9b),3.86 (3H, s, $\mathrm { - O C } \underline { { \mathrm { H } } } _ { 3 } .$ ） $^ { 1 3 } \mathrm { C } .$ NMR (150 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 147.7 (C-3), 146.4 (C-4),133.0 (C-7),129.0 (C-1),122.4 (C-8), 119.8 (C-6),114.8 (C-5), 109.2 (C-2), 101.8 (C-1), 76.8 (C-3), 76.6 (C-5), 73.8 (C-2), 70.4 (C-4), 69.7 (C-9), 61.5 (C-6), 55.0 $\mathrm { ( - O C H } _ { 3 } )$ 。以上波谱数据与文献(周媛媛等,2015)基本一致，故确定化合物6为松柏醇-9-O- $\cdot \beta$ -D 吡喃葡萄糖。
+
+化合物7:黄色油状(甲醇)。ESI-MS m/z: 415.1 $\mathrm { \left[ M + N a \right] ^ { + } }$ 。 ${ } ^ { 1 } \mathrm { H } \cdot$ -NMR ( ${ \bf \zeta } ^ { \mathrm { 6 0 0 M H z } }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { H } }$ (ppm): 7.59 (1H, d, $J { = } 8 . 7 \ : \mathrm { H z }$ ,H-5), 7.20 (1H, d, $J { = } 2 . 3 \mathrm { H z }$ ,H-2),7.13 (1H, dd, $J = 8 . 3 , 2 . 3 \mathrm { H z }$ H-6), 6.78 (1H, d, $J = 8 . 3 ~ \mathrm { H z }$ ,H-5), 6.51 (1H, d, $J = 8 . 7 \ \mathrm { H z }$ ,H-6), 5.33 (2H,m,H-2,7 ") ,5.19 (1H, ddd, $J = 1 . 3$ ，6.0, $7 . 2 ~ \mathrm { H z }$ ,H-2 "), 2.99 (1H, dd, $J = 1 6 . 9$ ， $1 2 . 7 ~ \mathrm { H z }$ ，H-3a), 2.72(1H, dd, $J =$ 16.9, 3.1 Hz,H-3b),1.74 (3H, s,H $. 9 ^ { \prime \prime }$ ),1.71 (3H,s,H-10"),1.63 (3H,s,H-4"),1.60 (3H,s,H-5")。 ${ } ^ { 1 3 } \mathrm { C } .$ -NMR (150 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 193.0 (C-4),162.5 (C-7),161.7 (C-9),155.1 (C-4), 131.8 (C-3"),130.8 (C-8"), 130.1 (C-1), 128.1 (C-2), 127.5 (C-3),125.3 (C-5), 124.6 (C-6), 122.4 (C-2"), 122.0 (C-7"), 115.7 (C-5), 114.3 (C-10),113.8 (C-8), 109.4 (C-6), 79.6 (C-2), 43.5 (C-3),27.9 (C-6"),24.6 (C-5",10"),21.6 (C-1"),16.6 (C-4"),16.5 (C-6")。以上波谱数据与献 (李行诺等，2009)基本一致，故确定化合物7为光甘草酚。
+
+化合物8：黄色粉末(甲醇)。ESI-MS m/z: 405.1[M-H]。 $\mathrm { ^ { 1 } H }$ -NMR ( ${ \bf \zeta } 6 0 0 { \bf M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { H } }$ (ppm): 7.41 (1H, s, H-5), 7.28 (1H, d, $J { = } 8 . 0 \mathrm { H z }$ ,H-6), 6.38 (1H, d, $J { = } 9 . 9 \operatorname { H z }$ ,H-6), 6.34-6.35 (2H, m, H-3', 5), 5.65 (1H, dd, $J = 1 3 . 3$ $2 . 9 \mathrm { H z }$ ,H-2), 5.70 (1H, d, $J { = } 9 . 9 \operatorname { H z }$ ,H-7), 5.18 (1H, m, H-2"), 2.75 (1H, dd, $J = 1 6 . 9$ ， $2 . 9 \mathrm { H z }$ ,H-3a), 2.99 (1H, dd, $J = 1 6 . 9$ ， $1 3 . 3 ~ \mathrm { H z }$ ,H-3b), 1.67 (3H, s,
+
+H-4"),1.64 (3H, s,H-5"),1.46 (3H,s,H-6"),1.44 (3H,s, H-7")。 $^ { 1 3 } \mathrm { C }$ -NMR (150 MHz, CD3OD) $\delta _ { \mathrm { C } }$ (ppm): 191.9 (C-4),163.2 (C-4),159.7 (C-2), 158.8 (C-9), 156.8 (C-11), 136.6 (C-3"), 132.3 (C-7),130.6 (C-6),128.7 (C-5),123.1 (C-2"),123.0 (C-1),122.7 (C-6),118.4 (C-10),118.3 (C-13),117.0 (C-12), 107.7 (C-5), 103.4 (C-3), 78.9 (C-8), 76.5 (C-2), 44.0 (C-3), 28.8 (C-6"), 28.6 (C-7"),26.0 (C-5"),22.8 (C-1"),18.1 (C-4")。以上波谱数据与文献(Kyogoku et al.,1973) 基本 一致， 故确定化合物8为 2-(2',4'-dihydroxy-phenyl)-8,8-dimethyl-10-(3-methyl-2-butenyl)-8H-pyrano[2,3-d]chroman-4-one
+
+化合物9：无色固体（甲醇）。ESI-MS m/z: 287.3 $\mathrm { { [ M + N a ] } ^ { + } }$ 。 $\mathrm { ^ { 1 } H }$ -NMR ( ${ \bf \langle 6 0 0 M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D } \$ $\delta _ { \mathrm { H } }$ (ppm): 4.92 (1H, m, H-11), 4.33 (1H, dd, $J = 1 2 . 2$ , 5.0 Hz, H-17b), 4.05 (1H, t, $J = 1 2 . 5 ~ \mathrm { H z }$ H-17a),3.34 (2H, m, H-2),3.08 (2H, m, H-10)。 ${ } ^ { 1 3 } \mathrm { C } .$ NMR (150 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 171.5 (C-15), 68.5 (C-10),68.0 (C-2), 66.6 (C-6), 53.6 (C-11), 42.2 (C-7), 41.9 (C-17), 34.3 (C-5), 32.2 (C-14),27.9 (C-12),25.4 (C-4),23.7 (C-8),18.3 (C-13),16.9 (C-3),16.8 (C-9)。以上波谱数据与 文献(张兰珍等，1997)基本一致，故确定化合物9为氧化苦参碱。
+
+化合物10：黄色油状(甲醇)。ESI-MSm/z: 255.1[M-H]。 $\mathrm { ^ { 1 } H }$ -NMR (400 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { H } }$ (ppm): 7.08 (2H, d, $J = 8 . 1$ Hz, H-2', 6), 6.66 (2H, d, $J { = } 8 . 2 \mathrm { H z }$ ,H-3', 5), 4.52 (1H, s, H-3), 3.14 (1H, d, $J = 1 3 . 8 ~ \mathrm { H z }$ ,H-7'b), 2.99 (1H, d, $J = 1 3 . 8 ~ \mathrm { H z }$ ,H-7'a)。 $^ { 1 3 } \mathrm { C }$ NMR (100 MHz, $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） $\delta _ { \mathrm { C } }$ (ppm): 174.5 (C-1), 173.4 (C-4),155.8 (C-4), 131.1 (C-2', 6),126.6 (C-1), 114.3 (C-3', 5), 80.1 (C-2),75.0 (C-3),40.6(C-7)。以上波谱数据与文献(Song et al.,2019)基本一致，故确定化合 物10为番石榴酸。
+
+# 2.2化合物抗菌活性结果
+
+为了进一步探究山豆根抗菌活性成分，对所分离得到的单体化合物1-10进行抗菌活性评价，结果表明化合物1-3对四株细菌菌株(粪肠球菌、金黄色葡萄球菌、绿脓杆菌、大肠杆菌)和一株真菌菌株(白色念珠菌)具有一定的抑制作用，MIC 实验发现，化合物1-3的最小抑菌浓度(MIC)值范围为 $1 5 . 6 { \sim } 1 2 5 . 0 \mu \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 } ($ 表1)
+
+表1化合物1-3的最小抑菌浓度值（单位： $\mu \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 } )$ ）
+
+Table 1 Minimal inhibitory concentration values of 1-3 (Unit: $\mu \mathrm { g } \cdot \mathrm { m L } ^ { - 1 } .$ ）  
+
+<html><body><table><tr><td>微生物 Microbe</td><td>1</td><td>2</td><td>3</td><td>PCa</td></tr><tr><td>白色念珠菌 Candida albicans</td><td>NTb</td><td>NTb</td><td>31.3</td><td>3.9</td></tr><tr><td>粪nerobacter faecalis</td><td>NTb</td><td>NTb</td><td>62.5</td><td>3.9</td></tr><tr><td>金黄色葡萄球菌</td><td>62.5</td><td>NTb</td><td>62.5</td><td>2.0</td></tr></table></body></html>
+
+<html><body><table><tr><td>绿脓杆菌</td><td>125.0</td><td>15.6</td><td>NTb</td><td>0.9</td></tr><tr><td>Pseudomonas aeruginosa</td><td></td><td></td><td></td><td></td></tr><tr><td>大肠cia coli</td><td>NTb</td><td>NTb</td><td>31.3</td><td>3.9</td></tr></table></body></html>
+
+注：“表示阳性对照药（细菌阳性对照药为头孢噻呋钠，真菌阳性对照药为氟康唑）；表示未测试（在初 筛中未显示活性）。   
+Note:“means positive control(Ceftiofur for bacteria and Fluconazol for fungus)；means no tested (It was invalid in the preliminary evaluation).
+
+# 3讨论与结论
+
+山豆根作为苗族习用药物，是上市咽喉抗感染用药“开喉剑喷雾剂”的组方药材之一，临床应用前景广泛，具有清热解毒，消肿利咽等功效，主要含有生物碱、黄酮类、三萜类及酚类等化学成分(潘其明，2016；程钱等，2017；聂安政等，2018)。前期有研究已经报道了山豆根大极性提取物的抑菌活性潜力(吴达荣等，2006)，为了深入探究其抗菌活性成分，本研究从山豆根正丁醇部位中共分离得到10 个单体化合物，其中化合物4-6为首次从该植物中分离得到，此外黄酮类化合物1-3对多个菌株表现出中等活性的抑菌作用，最小抑菌浓度(MIC)值为 $1 5 . 6 { \sim } 1 2 5 . 0 \mu \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 }$ ，提示山豆根中大极性黄酮类化合物可能是其抗菌主要活性成分。
+
+由致病菌诱发的感染性疾病严重危害人类健康，随着抗生素的滥用，种类丰富、结构多样的天然产物抗菌素越发受到药物学家的关注(柯春林等，2015)，寻找天然特异性细菌抑制剂具有重要意义，已经成为抗菌药物开发的研究热点，从上述抗菌实验结果中可以发现，区别于化合物3具有针对细菌和真菌的广谱抑菌活性，活性化合物1-2表现出对部分细菌的选择性抑制作用，为特异性抗菌药物的研发提供了新的分子模板和研究思路。
+
+综上，本研究丰富了山豆根的化学成分，初步探讨了其抗菌活性化合物，为后续深入的作用机制研究奠定了化学基础，也为进一步的结构修饰以及传统中药的资源开发和利用提供借鉴。
+
+# 参考文献:
+
+CHENG L, NING DS, XIA MW, et al.,2015. Chemical constituents from EtOAc fraction ofSophora dunni[J].Chin JChin Mat Med,40(22): 4428-4432.[程玲，宁德生，夏梦雯，等,2015．柳叶槐乙酸乙酯部位的化学成分研究[J]．中国中药杂志，40(22)：4428-4432.]  
+CHENG Q， WANG JF, WANG BL,et al.， 2017. Research progress on chemical constituents,biological activity and quality control of Sophora tonkinensis[J]. JLiaoning Univ Tradit ChinMed,19(7):119-125.[程钱，王金凤，王宝丽，等，2017．山豆根化学成分、生物活性及质量控制研究进展[J]．辽宁中医药大学学报，19(7)：119-125.]  
+DAI WH, QIAN LW, YANG SY, et al.，2O12. Study on antibacterial activity of Sophoratonkinensis,alkaloids and their total alkaloids[J]. Chin J Exp Tradit Med Form，18(3):177-180.[戴五好，钱利武，杨士友，等，2012．苦参、山豆根生物碱及其总碱的抑菌活性研究[J]．中国实验方剂学杂志，18(3)：177-180.]  
+KE CL, REN MS,WANG D, et al., 2015. Research progress on the antibacterial mechanism offlavonoids[J].Sci Technol Food Ind,36(2):388-391.[柯春林，任茂生，王娣，等，2015．黄酮化合物抗菌机理的研究进展[J]．食品工业科技，36(2)：388-391.]  
+KYOGOKU K, HATAYAMA. K, YOKOMORI S, et al.，1973. Studies on the constituents ofSophora species. VI. constituents of the root of Sophora subprostrata CHUN et T. CHEN.(4)[J]. Chem Pharm Bull, 21(6): 1192-1197.  
+LI XN,YAN HX, PANG XY, et al., 2009. Chemical constituents of flavonoids from rhizome ofSophora tonkinensis[J].Chin JChin Mat Med,34(3):282-285.[李行诺，闫海霞，庞晓雁，等，2009．山豆根中黄酮化学成分研究[J]．中国中药杂志，34(3)：282-285.]  
+LI YJ, ZHANG H,1998. Determination of the total number of colonies in food by TTC colordevelopment[J].Sci Technol Food Ind,19(4): 74-75.[李奇英，张华，1998．应用 TTC 显色测定食品中菌落总数[J]．食品工业科技，19(4)：74-75.]  
+NATIONAL PHARMACOPOEIA COMMISSION，2015.Pharmacopoeia of the People'sRepublic of China[M].Beijing:China Medical Science Press.[国家药典委员会，2015．中华人民共和国药典[M]．北京：中国医药科技出版社.]  
+NIE AZ, ZHAO XR, GAO MM, et al., 2018. Discusson on the safety of Sophora tonkinensis andthinking on rational use of medicine[J]. Chin Herb Med,49(17): 4152-4161.[聂安政，赵雪睿,高梅梅，等,2018．山豆根安全问题探讨与合理用药思考[J]．中草药,49(17):4152-4161.]  
+PAN QM, 2016. Study on the chemical constituents and biological activity of Sophora tonkinensis[D].Guilin:Guangxi Normal University.[潘其明，2016．山豆根化学成分及生物活性的研究[D]．桂林：广西师范大学.]  
+SONG P,CHEN H, HUANG Y，et al.，2019.Phenolic acids from the seeds of Sophoraalopecuroides[J]. Chem Nat Compd, 55(5): 835-838.  
+WOO KW, JUNG JK, LEE HJ, et al., 2017.Phytochemical constituents from the rhizomes ofOsmunda japonica Thunb and their anti-oxidant activity[J]. Nat Prod Sci, 23(3): 217-221.  
+WU DR,QIN R, ZHENG YS, 2006. Antifungal effects of Rhizoma Menispermi and RadixSophorae Tonkinensis boiled liquid against Candida albicans[J]. Med Ind Inf, 3(9): 118-119.[吴达荣，秦瑞，郑有顺，2006．北豆根、山豆根水煎液对白色念珠菌的抗菌作用[J]．医药产业资讯，3(9):118-119.]  
+YANG CY, WANG XL,2018. Phenolic constituents from the barks of Broussonetia papyrifera[J].Chin Med Mat,41(1):11-114.[杨晨悦，王晓玲，2018．构树皮中的酚性化合物研究[J].中药材，41(1)：111-114.]  
+ZHANG L, ZHANG YK, CHEN Y, et al., 2011. Isoflavones in leaves of Belamcanda chinensis[J].Nat Prod Res Dev,23(1):69-71.[张良，张玉奎，陈艳，等，2011．射干叶中异黄酮类化学成分的研究[J]．天然产物研究与开发，23(1)：69-71.]  
+ZHANG LZ, LI JS, Jackson S, et al.,1997. Alkaloids in Sophora alopecuroides seed and relevanttests for activity[J].ChinJChin Mat Med,22(12): 36-39.[张兰珍，李家实，皮特·豪佛顿，等，1997．苦豆子种子生物碱成分研究[J]．中国中药杂志，22(12)：36-39.]  
+ZHOU XH, WANG Z, QIU LJ, et al., 2018. Study on antioxidant and antimicrobial activities ofseed extracts from Ginkgo biloba L.[J]. Lishizhen Med Mat Med Res,29(3): 577-580.[周晓辉，王頊，邱立娟，等，2018．银杏白果提取物抗氧化及抗菌研究[J]．时珍国医国药，29(3): 577-580.]
+
+ZHOU YY, LIU YX, JIANG YQ, et al., 2015. Chemical constituents from pericarp of Juglansmandshurica Maxim[J].Chin Tradit Pat Med,37(12): 2669-2673.[周媛媛,刘雨新,蒋艳秋，等，2015．青龙衣的化学成分[J]．中成药，37(12)：2669-2673.]

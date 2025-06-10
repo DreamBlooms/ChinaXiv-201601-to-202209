@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "基于相对湿润度指数的西北地区春季第一场透雨研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱飙1,2.3，张强1.2.3，李春华4，卢国阳1.3(1.兰州大学大气科学学院，甘肃 兰州730000；2.中国气象局兰州干旱气象研究所，中国气象局干旱气候与减灾重点实验室，甘肃省干旱气候与减灾重点实验室，甘肃 兰州730020；3.甘肃省气象局，甘肃 兰州730030；4.兰州资源环境职业技术学院，甘肃 兰州730021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目前西北四省区春季第一场透雨标准的确定主要来自业务人员长期的工作经验积累，针对此，利用陕西、甘肃、青海、宁夏249个气象站1960—2016年的日资料，通过分析西北地区相对湿润度指数，结合潜在蒸散特征，确定了春季第一场透雨阈值。与已有研究相比，本方法充分考虑了研究区各地相对湿润度指数的气候特征与各地的能量及水热平衡，理论依据明确，选用的指标能充分反映各气象要素对气候干湿状况的综合影响，因此确定的透雨阈值稳定，月差异小。随后按照这一指标分析西北地区春季第一场透雨特征，结果表明：该地区春季第一场透雨自东南向西北逐步推进，陕南南部出现最早，主要在3月，关中、陕南北部出现在3、4月的概率之和 ${ > } 8 0 \\%$ ；甘肃河东大部、宁夏大部、青海东部出现在4、5月的概率之和 $> 7 0 \\%$ ；青海西部是出现最晚的区域，基本上出现在6月。从出现日期的年代际变化看，甘肃河东出现时间最稳定，宁夏、陕西出现日期变化最大，青海西部与甘肃河西较一致，介于二者之间；同时，甘肃河西、陕西关中、陕南春季第一场透雨出现时间变晚趋势明显，其余地区变化趋势不明显。研究结果可供在透雨监测、预测中使用,也可供在制定西北地区春季第一场透雨标准时参考，以便于区域气候评估使用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：相对湿润度指数；透雨；气候特征；西北地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北地区(陕西、甘肃、青海、宁夏)大部是冬小麦、春小麦的种植区，春季正是冬麦返青、拔节，春小麦和大秋作物播种的农业生产关键时期，此时的降水对农业生产有重要影响。因此，对春季第一场能解除旱情的透雨的研究是科技工作者非常关注的问题之一。春季第一场透雨开始的早晚与春旱发生、发展的程度关系紧密[1-2],同时也对冬小麦返青、春季农作物的播种、长势情况以及产量丰歉等有着非常重要的作用[3-4],广大科技工作者分别从春季第一场透雨的形成原因、物理量特征[5-6]、气候特征[7-8、时空变化特征与周期及与春旱、全年干旱的关系[9-10]、对海温的响应[1-13]等不同角度展开了相关研究，获得了不同地区透雨发生偏早、偏晚年份大气环流场形势特点、透雨发生日期的年代际变化特征、透雨出现早晚与海温场之间的关联、透雨发生早晚对于后期干旱的影响等许多有用的研究成果，对于全面认识该问题起到了重要作用。但以上研究基本局限于各省，不利于从更广的空间范围上认识与把握西北地区的透雨特征。从缓解干旱的角度讲，透雨应是能解除旱象的有效降水，由于各地气候、土壤性质不同，严格意义上没有完全统一的标准，但西北四省区地域相邻，总体气候特征较一致，皆属于干旱与半干旱气候区[14],因此，有从更广区域对该问题进行研究的可行前提;此外，西北四省区春季第一场透雨的标准确定主要来自业务人员的长期工作经验积累，且很接近，尚需从理论依据出发确定透雨指标，以便于区域气候评估;再次，对该问题的研究,张强等[15]结合春旱指数做了有益的探索与研究，但采用春旱指数确定我国三北地区春季第一场透雨的指标，不能充分反映一地的水分",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平衡与热量平衡，此外我国三北地区面积广大，该指标是否在整个三北地区适宜还需要进一步研究确定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在目前西北地区春季第一场透雨标准的确定中，理论依据尚显不足，因此，本文从能较好反映一地水热平衡、蒸散发特征的相对湿润度指数出发，通过理论分析确定西北地区春季第一场透雨阀值，随后按照计算出的春季第一场透雨标准来分析西北区域透雨气候特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用西北四省区249个气象站1960—2016年3—6月的20:00一次日20:00日气象资料，资料来源于国家气象信息中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1潜在蒸散潜在蒸散量广泛应用于气候海湿状况分析[16-18]、农业作物需水和生产管理、水资源合理利用和评价、生态环境如荒漠化[19]等研究中，是实际蒸散量的理论上限。因此，结合潜在蒸散的指数更能综合反映各气象要素对一地干湿状况的综合影响。本文采用FAOPenman-Monteith公式来计算潜在蒸散量。已有研究一致认为：该方法理论基础坚实、物理意义明确，全面考虑了能量平衡和水汽扩散理论，能够充分反映各气象要素的综合影响，且计算结果准确，适应于不同气候类型地区潜在蒸散量的计算，公式如下[20]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P E } = \\frac { 0 . 4 0 8 \\Delta ( R _ { \\mathrm { n } } - G ) + \\gamma \\frac { 9 0 0 } { T _ { \\mathrm { m e a n } } + 2 7 3 } u _ { 2 } ( e _ { \\mathrm { s } } - e _ { \\mathrm { a } } ) } { \\Delta + \\gamma ( 1 + 0 . 3 4 u _ { 2 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：PE为潜在蒸散量（ $\\cdot \\mathrm { m m } \\cdot \\mathrm { d } ^ { - 1 } ,$ ； $\\Delta$ 为饱和水汽压曲线斜率; $\\gamma$ 为干湿表常数( $\\mathrm { \\Omega } ^ { \\mathrm { \\prime } } \\mathrm { k P a } \\cdot \\mathrm { \\mathcal { C } } ^ { - 1 } .$ ）； $R _ { \\mathrm { n } }$ 为地表净辐射 $( \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } )$ ; $G$ 为土壤热通量 $( \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } .$ ） $T _ { \\mathrm { m e a n } }$ 为日平均气温 $( \\mathcal { C } ) { : } u _ { 2 }$ 为 $2 \\mathrm { m }$ 高度处风速 $( \\mathrm { m } { \\cdot } \\mathrm { s } ^ { - 1 } ) { \\ ; } e _ { \\mathrm { s } }$ 为饱和水汽压（ $\\left( \\mathrm { k P a } \\right)$ ; $e _ { \\mathrm { a } }$ 为实际水汽压（ $\\mathrm { \\cdot k P a } ,$ )。计算中需注意以下几点：(1)日平均气温 $T _ { \\mathrm { m e a n } }$ 由日最高气温$T _ { \\mathrm { m a x } }$ 和日最低气温 $T _ { \\mathrm { m i n } }$ 的平均值计算得到，而不是当日 $2 4 \\mathrm { h }$ 逐时(或一日4次、8次)观测气温的平均值;(2)由于饱和水汽压方程的非线性，日、旬、月等时间段的平均饱和水汽压应当以该时段的日最高气温、日最低气温计算出来的饱和水汽压的平均值来计算； $\\left( 3 \\right) 1 { \\sim } 1 0 \\mathrm { d }$ 的时间尺度，参考草地的土壤热容量相当小，每天的 $G$ 可以忽略不计，但月时间尺度，假设在适当的土壤深度、土壤热容量为常数 $2 . 1 \\mathrm { M J }$ $\\mathrm { m } ^ { - 3 } \\cdot { } ^ { \\circ } \\mathrm { C } ^ { - 1 }$ 时，由(2)式来估算月土壤热通量 $G$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = c _ { \\mathrm { s } } \\frac { T _ { i } - T _ { i - 1 } } { \\Delta t } \\Delta z = \\frac { c _ { \\mathrm { s } } \\Delta z } { \\Delta t } \\big ( T _ { \\mathrm { m o m t h } , i } - T _ { \\mathrm { m o n t h } , i - 1 } \\big ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 1 4 \\big ( T _ { \\mathrm { m o n t h } , i } - T _ { \\mathrm { m o n t h } , i - 1 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { \\mathrm { m o n t h } , i }$ 表示第 $i$ 月时的平均气温 $( \\operatorname { \\mathrm { { \\mathcal { C } } } } )$ ; $T _ { \\mathrm { m o n t h } , i - 1 }$ 表示上月平均气温 $( \\mathcal { C } )$ ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2相对湿润度指数在气象干旱等级常用指数中[20],包含潜在蒸散的有相对湿润度指数,计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\mathrm { { I } } } = { \\frac { P - P _ { \\mathrm { { E } } } } { P _ { \\mathrm { { E } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $M _ { \\mathrm { I } }$ 是某时段相对湿润度指数； $P$ 是某时段的降水量； $P _ { \\mathrm { { E } } }$ 是某时段的潜在蒸散量，之所以选用这一指标，是因为相对于其他指数，该指数能综合反映各气候要素对干旱的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 春季第一场透雨标准春季第一场透雨应为入春第一段干旱期后,使相对湿润度指数值由轻旱及以上干旱等级，变化到无旱的第一场降雨，可解除前期的春旱,即为入春后第一场透雨。参考国标[20],即透雨应使当地的相对湿润度指数由透雨出现月的历史气候状况，变化到湿润度指数达到无旱时的-0.4以上(表1)。因此，可由相对湿润度指数的定义得到(4)式，化简后得到(5)式。需要注意的是，不能认为春季第一场透雨发生前，一直无降水，则将(3)式中的 $P$ 按0处理，从而导致当月 $M _ { \\mathrm { I } }$ 指数为-1，这与实况显然不一致，如照此计算，结论完全不科学不合理。各地的气候实况是：春季第一场透雨发生前，无一次性的有效降水，但有一到多次的少量降水发生，其累积效应对于缓解干旱起到了部分作用，因此在式(5)中， $M _ { \\mathrm { I } }$ 用该地当月气候值更科学合理，这也是本方法的优点，既考虑了北方降水逐步增多造成的相对湿润度指数逐步增大，也通过潜在蒸散这一物理量考虑了植被逐渐生长造成的新的水热平衡。当然，由于6月随着北方降水集中时段来临，相对湿润度指数逐步接近或达到无旱标准，计算出的6月透雨阈值反而略微变小，这是需要读者思考理解的地方。经过上述处理，结合表1，可以得到该地区各月 $P _ { ☉ \\mathrm { \\overline { { F } } \\overline { { F } } \\overline { { J } } } }$ 大小。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/831bd5deb5cf66911bbd3659a6b9bfb14410931a27ff58bc093a0492255d9036.jpg",
+        "table_caption": [
+            "表1相对湿润度干旱等级划分表",
+            "Tab.1 Relative moisture index and drought grades "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级</td><td>类型</td><td>相对湿润度</td></tr><tr><td>1</td><td>无旱</td><td>-0.40<M1</td></tr><tr><td>2</td><td>轻旱</td><td>-0.65<M≤-0.4</td></tr><tr><td>3</td><td>中旱</td><td>-0.80<M≤-0.65</td></tr><tr><td>4</td><td>重旱</td><td>-0.95<M≤-0.80</td></tr><tr><td>5</td><td>特旱</td><td>M≤-0.95</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { P _ { \\mathrm { s g l i f i l i f } } + P _ { \\mathrm { s g l i f i f } } - P _ { \\mathrm { s g l i f i f i f } } } { P _ { \\mathrm { E } _ { \\mathrm { s g l i f i f } } ^ { \\mathrm { s g l i f i } } } } - \\frac { P _ { \\mathrm { s g l i f i f i f } } } { P _ { \\mathrm { s g l i f i f i f } } } - \\frac { P _ { \\mathrm { s g l i f i f i f } } } { \\texttt { P } _ { \\mathrm { E } _ { \\mathrm { s g l i f i f i f } } ^ { \\mathrm { s g l i f i f } } } } \\texttt { P } } \\\\ & { - 0 . 4 - M _ { \\mathrm { r a j } } \\frac { 1 } { \\texttt { E } _ { \\mathrm { s g l i f i f i c } } ^ { \\mathrm { s g l i f i c } } } } \\\\ & { \\qquad \\frac { P _ { \\mathrm { s g l i f i f i f } } } { P _ { \\mathrm { E } _ { \\mathrm { s g l i f i f i f i f } } ^ { \\mathrm { s g l i f i f } } } } \\geqslant - 0 . 4 - M _ { \\mathrm { r a j } \\ H ^ { \\mathrm { s g l i f i c } } ( \\not \\mathrm { b g l i f } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1西北地区潜在蒸散时空特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 西北地区多年平均潜在蒸散空间分布按照(1)式计算得到西北地区多年平均潜在蒸散，西北地区大部多年平均潜在蒸散在 $5 0 0 { \\sim } 1 2 6 3 ~ \\mathrm { m m }$ 之间(图1),北部大于南部,潜在蒸散最大的区域在甘肃河西西部，达到 $1 1 0 0 \\mathrm { m m }$ 以上;祁连山区潜在蒸散较注：该图基于全国地理信息学资源目录服务系统，1:100万全国基础地理数据库下载的审图号为GS(2016)2556号的标准地图制作，底图无修改。下同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "周围区域小，在 $8 0 0 \\ \\mathrm { m m }$ 以下;青海南部、甘肃南部、陕南西部、陕北南部在 $8 0 0 ~ \\mathrm { m m }$ 以下，其余地区大于$8 0 0 \\mathrm { m m }$ ,这与已有的研究结论[14.21]一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2西北 $\\hookleftarrow$ 省区潜在蒸散年变化从西北地区潜在蒸散年变化情况看(图2a)，潜在蒸散年变化明显，全年中12月最小,6、7月最大，其中陕西、宁夏6月达到峰值，甘肃、青海7月达到峰值。同时用年内后一月潜在蒸散减去前一月潜在蒸散来分析潜在蒸散的月差值变化情况，可以看到3一5月是西北地区潜在蒸散的快速上升期，9—11月是快速下降期（图2b），也即该2个时段是四省区潜在蒸散变化最快的时期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2西北地区春季第一场透雨标准确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了确定西北地区春季第一场透雨标准，计算分析了西北地区多年2一6月的相对湿润度指数（表2)，其中对甘肃而言，计算的是乌鞘岭以东61个站点,青海计算的是其东部14个国家气象站[10]。由表2可见，西北地区大部2一6月的相对湿润度指数平均都为负值(平均时段为1981一2010年），且基本都小于-0.4这一无旱标准，呈现出重旱、中旱到轻旱的特征(见表1)，相对而言，6月随着北方降水逐步增多，相对湿润度指数增大，逐步接近或达到无旱，说明正常情况下，湿润度指数随着年内降水集中时段的到来而上升。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要指出的是，当透雨出现在3月初时，透雨前期的潜在蒸散显然用2月的值代表性更好，当透雨出现在3月末时，前期的潜在蒸散显然用3月的更准确，对于公式中的 $M _ { \\mathrm { I } }$ 指数，也同理。因此，本文在确定3月透雨阈值时候， $P _ { \\mathrm { E } \\ i \\overline { { \\widehat { \\mathcal { H } } } } \\overline { { \\mathbb { H } } } \\check { \\mathbb { H } } }$ 采用2月与3月的平均,M当月气候值也采用2月与3月的值进行平均；另外计算6月透雨阈值时，如果前期没有出现透雨，由于",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甘肃(80站)   \n(a)月变化 宁夏(24站) 4030 (b)月差值变化---甘肃(80站)— 宁夏(24站) 青海（8站） / 20 青海(48站）陕西(97站) 10 0 -10 +   \n1 2 3 4 5 6 7 8 9 10 11 12 203040 月份 月份 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9815c0dea6e12f02951f86b014a1a1f236ad7abc226b61b95080d78689f01f94.jpg",
+        "img_caption": [
+            "图11960—2016年西北地区多年平均潜在蒸散空间分布Fig.1 Spatial pattern of multi-year averaged potentialevapotranspiration in northwest ofChina from1960 to 2016",
+            "注：图b中横坐标2-1表示2月潜在蒸散减去1月潜在蒸散，其余同。",
+            "图21960—2016年西北地区多年平均潜在蒸散逐月变化及月差值变化",
+            "Fig.2Monthly variation and monthly difference change of multi-year averaged potential evapotranspiration in northwest ofChina from1960 to 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2西北四省区2—6月相对湿润度指数多年平均值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b509232649fe1527dd7f35b65bb265842517b68040aea1ab97bc5a6d27c1b61b.jpg",
+        "table_caption": [
+            "Tab.2Multi-year mean value of relative humidity index in northwest China from February to June "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td colspan=\"5\">相对湿润度指数</td></tr><tr><td>2月</td><td>3月</td><td>4月</td><td>5月</td><td>6月</td></tr><tr><td>甘肃乌鞘岭 (61站)</td><td>-0.82</td><td>-0.72</td><td>-0.64</td><td>-0.47</td><td>-0.40</td></tr><tr><td>宁夏(24站)</td><td>-0.90</td><td>-0.88</td><td>-0.84</td><td>-0.77</td><td>-0.69</td></tr><tr><td>青海东部 (14站)</td><td>-0.93</td><td>-0.88</td><td>-0.78</td><td>-0.54</td><td>-0.45</td></tr><tr><td>陕西(97站)</td><td>-0.71</td><td>-0.61</td><td>-0.53</td><td>-0.41</td><td>-0.40</td></tr><tr><td>平均</td><td>-0.84</td><td>-0.78</td><td>-0.70</td><td>-0.55</td><td>-0.48</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "潜在蒸散的逐步增大，若要解除干旱，理论上所需透雨的阈值应该更大，但实际在采用公式(5)计算时，所需的3一5月相对湿润度指数气候平均值由于受北方降雨逐步集中的影响，计算的值接近或小于5月，这在前文已说明，此处不再赘述。经上述处理，最终得到西北四省区各月的过程透雨阈值(表3)。这一结果较张强等5给出的西北地区中旱、重旱时透雨标准值相比，更加稳定。究其原因，是因为西北地区3一5月潜在蒸散差值稳定，因此透雨标准值更稳定，月变化更小，这在实际中也由3一5月植被逐渐生长，潜在蒸散逐步稳定得到解释。这一结果也摒弃了由春旱指数确定春季第一场透雨标准时，3一5月降水与温度本身快速增加对透雨标准值确定的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ebf7d99546f434aff280d19d08c6dc46328f194118bd1645aea1c5aa1622f61.jpg",
+        "table_caption": [
+            "表3西北地区3—6月透雨阈值",
+            "Tab.3Average monthly potential evaporation of March-June in northwest of China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td colspan=\"4\">透雨过程雨量/mm</td></tr><tr><td>3月</td><td>4月</td><td>5月</td><td>6月</td></tr><tr><td>甘肃乌鞘岭 (61站)</td><td>16.4</td><td>19.4</td><td>14.0</td><td>16.6</td></tr><tr><td>宁夏(24站)</td><td>23.3</td><td>36.2</td><td>43.9</td><td>34.5</td></tr><tr><td>青海东部 (14站)</td><td>25.7</td><td>33.3</td><td>25.5</td><td>28.2</td></tr><tr><td>陕西(97站)</td><td>11.9</td><td>12.2</td><td>6.4</td><td>10.2</td></tr><tr><td>平均</td><td>19.3</td><td>25.3</td><td>22.4</td><td>22.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3新阈值西北地区春季第一场透雨特征分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照前述分析结果，西北地区春季第一场透雨过程降水量应达 $2 2 ~ \\mathrm { m m }$ ,由此可确定， $4 8 \\mathrm { ~ h ~ }$ 降水 $\\scriptstyle \\geqslant 2 2$ $\\mathbf { m } \\mathbf { m }$ 或 $2 4 \\mathrm { ~ h ~ }$ 降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 可作为西北地区春季第一场透雨标准。接下来，按此标准分析西北地区春季第一场透雨特征。对于青海，以往研究[9-10]主要以东部农业种植区的气象站资料为标准，为了区域分析的完整性，这里考虑了青海省所有站点的情况，但将其区分为西部区与东部农业区，同理，对于甘肃，则分为河西、乌鞘岭东处理;另外对于青海、宁夏,已有研究[9-10.12-13]表明6月也是透雨出现的时段，因此这里的分析时段为3一6月。为了便于分析，以3月1日作为起始日序，若春季第一场透雨出现在3月，即为3月日期数，若第一场透雨出现在4月，则为4月日期数加31个日序，其余类推。若当年未出现透雨，则以7月1日距3月1日的日序123代表。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1日降水量 $\\bf { \\geqslant } 1 5 \\ m m$ 降水出现最早日状况西北地区日降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 出现的多年平均最早日序分布(图3)为自东南向西北逐渐推迟，最早出现在陕西省的东南部至关中，平均在4月上旬出现（日序40以下);陕西北部大部分地方、甘肃河东大部出现在4月底(日序60以下)；宁夏大部、甘肃中北部、青海东部农业区出现在5月下旬（日序90以下)；青海西部是出现最晚区域，在6月上旬，但由于属非农业区，对农业种植无影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "90E 94E 98E 102°E 106E 110E1100 200km  \nN04 N000 100酒泉 张掖 90武威 中宁 京 80德令哈  \nN90 州 固 延安 N9 70西0 60沱沱河 西安50  \n300 指 安康 32N 40  \n390E 94E 98E 102°E 106°E 110E 日序/d",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2西北地区日降水 $\\bf { \\geqslant } 1 5 ~ m m$ 历史最早日与最晚日分布状况由西北地区57a来日降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 出现的最早日序空间分布(图4a)可见，陕西、甘肃陇东部分地区最早出现在3月10日之前，宁夏大部、甘肃大部、青海东部都位于日序线20与50之间，说明该区域最早出现在3月20—4月20日之前。从西北地区日降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 出现的最晚日序空间分布(图4b)可见，除陕南偏南部分地区可晚至5月下旬之前出现，西北四省区其余大部分地方均可晚至6月出现。这显然会对农业生产造成重大损失，值得后续深入研究西北地区春季第一场透雨偏晚年份、偏早年份的环流特点，提前做好预测与应对措施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "90E 94°E 98E 102°E 106E 110E 90E 94E 98E 102E 106E 110E(a)最早日 10087650430210 (b)最晚日 。  \nN004 0200km N004 N04 酒蒙 0200 km N004 120液茫德令  \nN90 N99 N90 格尔木· 耐固 N90 100峰 同行 90  \n320 玉树 治 武都 中安康 32M 320 它沱河 玉 人 武都 32 80□ 7090°E 94E 98°E 102°E 106°E 110°E 日序/d 90°E 94E 98E 102E 106°E 110E 日序/d",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4Distributions of the earliest day and the latest day when the daily precipitation is ${ \\geqslant } 1 5 \\ \\mathrm { m m }$ in northwest of China during the 57 : ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用符合条件的最晚日序减去最早日序(图略)，时间上早晚差异最大的区域主要在甘肃河东、宁夏大部、陕西大部，出现早年与晚年日期差异可达约100d左右，陕西中北部更是达到了约110d，青海东部和中部部分地方早晚日序差距也很大，约90d,而青海西部，甘肃河西、陕西南部早晚日序差距相对较小，约 $6 0 \\mathrm { d }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3降水量 $\\bf { \\geqslant } 1 5 ~ m m$ 降水日各月出现概率从西北地区各站第一场 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 降水分别出现在3—6月的概率分布看(图5)，青海、甘肃、宁夏、陕西北部出现在3月的概率几乎为零，陕西南部为0.2，即 $2 0 \\%$ （下同），部分地方达到了 $3 0 \\%$ 以上;4月中旬，甘肃河东大部，宁夏、陕北出现的概率为 $2 0 \\%$ 左右，甘肃陇东南达到 $30 \\%$ ，此时陕西南部出现的概率达到了$4 0 \\%$ 以上;进入5月，青海中东部、甘肃河东大部、宁夏、陕北达到了 $3 0 \\%$ 以上，其中青海东部农业区、甘肃陇中出现的概率达到了 $4 0 \\%$ 以上；到了6月，青海出现的概率最大，此时甘肃河西出现的概率也达到$6 0 \\%$ ,甘肃河东、宁夏、陕北此时出现的概率在 $2 0 \\%$ 以上，其中甘肃陇中北部、宁夏南部、陕北北部出现的概率在 $3 0 \\%$ 左右。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4日降水 $\\bf \\cdot \\geqslant 1 5 \\ m m$ 出现日期的年代际平均对年代际而言，西北地区春季第一场日降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 日期的年代际平均(图6)区域性差异明显，青海西部与甘肃河西比较接近，青海西部日序稳定在 $9 0 \\sim$ 100d，甘肃河西变化较大，青海东部日序在80d左右，有略微减小趋势。甘肃乌鞘岭东、宁夏、陕北比较一致，甘肃乌鞘岭东出现日期稳定，宁夏2000年代明显偏晚，现在日序已小于80d,即在5月中旬出现。陕北90年代明显偏早。关中陕南(洛川站以南)是整个西北四省区出现时间最早的区域，基本在4月中旬出现，略有偏晚趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述结果与西北地区业务人员依据经验确定的春季第一场透雨标准结果相比，对青海西部无影",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "90E 94°E 98E 102E106E110E 90E 94E 98°E 102E106E110E(a)3月 ！ (b)4月  \nN04 墩煌 酒票 0 200km No04 0.5 N00 酒泉 0 200 km N04 0.6茫崖 德令哈 张掖 武威 0.4 茫崖 德令哈 张掖 0.5  \nN90 格尔木 同德 兰州 N9 N90 尔 同德 古 N9 4430.3 8树 武都 0.2 玉树 0.2  \n220 玉 300 300 产 320.1 1 0.190°E 94E 98E 102°E 106E 110E 比值 90E 94E 98E 102E 106E 110E 比值90°E 94°E 98°E 102°E 106°E 110E 90°E 94°E 98°E 102E 106°E 110E(c)5月 W 0.6 (d)6月 19876543200  \nN004 酒 0200 km No04 0.5 N004 敦煌酒泉 0200km No04范崖 德令 今嗒 0.4 茫崖  \nN90 格尔 N9 0.3 N9 N9g陀沱河 0.2沱河  \n300 久治 30 0.1 32 玉树 32M090°E 94E 98°E 102E106E 110E 比值 90E 94E 98°E 102E106E110E 比值",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Probability distribution of the occurrence time when the daily precipitation is ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ in northwest of China ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/660c26bf36a8b8d9d51f07e42c7e864440171c06b72770d30f16f5b0b133eac7.jpg",
+        "img_caption": [
+            "图6西北地区第一场日降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 出现日期的年代际平均",
+            "Fig.6 Everyten years average of the earliest occurrence time sequence when the daily precipitation is ${ \\geqslant } 1 5 \\ \\mathrm { m m }$ in northwest of China "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "响，对甘肃河东地区与宁夏的差异主要是按照新标准，春季透雨出现时间晚月10d，关中陕南多年平均出现时间大约晚 $1 0 { \\sim } 1 5 \\mathrm { d }$ 。可见，理论确定的新标准与业务人员依据经验确定的旧标准之间一致性较好，可以在实际工作中使用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）本研究从相对湿润度指数由干旱转为无旱时最小应达到的变化范围人手，通过理论计算得到西北地区春季第一场透雨的阈值。本方法理论依据明确，选用的指标充分考虑了四省区各地气象要素对当地气候干湿状况的综合影响与各地的能量及水热平衡，因此确定的透雨阈值稳定，月差异小，同时也摒弃了由春旱指数确定春季第一场透雨标准时，降水与温度自身快速增加对透雨标准值确定的影响，弥补了西北地区目前业务中依据经验确定春季第一场透雨标准的不足，可供在透雨监测、预测中使用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）根据理论计算得到西北地区春季第一场透雨需要的过程雨量为 $2 2 ~ \\mathrm { m m }$ ,这一结果与张强等[15]的研究结果基本一致，因此,可将 $4 8 \\mathrm { ~ h ~ }$ 降水 ${ \\geqslant } 2 2 ~ \\mathrm { m m }$ 或 $2 4 \\mathrm { h }$ 降水 ${ \\geqslant } 1 5 ~ \\mathrm { m m }$ 作为西北地区春季第一场透雨标准。按照后者分析，西北地区春季第一场透雨出现的多年平均日期自东南向西北逐渐推迟，最早出现在陕西省的东南部至关中，平均在4月上旬出现，陕西北部大部分地方、甘肃河东大部出现在4月底，宁夏大部、甘肃中北部、青海东部农业区出现在5月下旬，青海西部非农业区出现最晚，在6月上旬出现。从出现概率看，关中陕南北部出现在3、4月的概率之和 $1 { > } 8 0 \\%$ ，甘肃河东大部、宁夏大部、青海东部大部出现在4、5月的概率之和 $> 7 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）从春季第一场透雨出现日期的年代际变化看，甘肃乌鞘岭东出现时间最稳定，宁夏、陕西出现日期变化最大，青海西部与甘肃河西较一致，变化介于二者之间；同时，甘肃河西，关中陕南变晚趋势明显，其余区域变化趋势不明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）已有研究表明，西北地区气候发生新的变化[22],对物候与地表植被发生了不同的影响[23-24],而透雨与植被覆盖时空变化及其影响因素有关25，后续将针对西北地区气候变化新特点，就春季第一场透雨偏晚年份、偏早年份的环流形势特点与主要差异、形成机理进行深入研究，为做好透雨预测与提前应对奠定基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]姚佩珍,张强.北京地区春旱和春季第一场透雨指标的确定[J]. 气象,1995,25(5):49-53.[Yao Peizhen, Zhang Qiang.Determination for the indices of spring drought and the first soaking rain in spring in Beijing[J]. Meteorological Monthly,1995,25(5): 49-53.]   \n[2]李富洲,陈少勇,林纾.甘肃黄土高原地区春旱指标研究[J].干 旱区资源与环境,2007,21(9):89-92.[Li Fuzhou,Chen Shaoyong,Lin Shu. The dry indexes of spring drought of the Loess Plateau in Gansu Province[J].Journal of Arid Land Resources and Environment,2007,21(9): 89-92.]   \n[3]高炬,侯明全,王荷秀,等.关中冬麦区春季透雨的分析和预报 [JJ.陕西气象,1998(1): 6-8.[Gao Ju,Hou Minquan,Wang Hexiu, et al.Analysis and forecast of spring soaking rain in winter wheat area in Guanzhong Plain[J]. Shaanxi Meteorological,1998(1):6- 8.]   \n[4] 马杰,李晓静,汪鸿滨,等.天水市近30年第1场透雨的时空变 化特征[J].中国农学通报,2015,31(20):208-212.[Ma Jie,Li Xiaojing,Wang Hongbin,et al. Spatial and temporal variation characteristics of the first saturating rain of spring in recent 30 years in Tianshui[J]. Chinese Agricultural Science Bulletin,2015, 31(20): 208-212.]   \n[5] 梁生俊,侯建忠.2005年陕西第一场透雨诊断分析[J].陕西气 象,2007(2): 9-12.[Liang Shengjun,Hou Jianzhong. Diagnosis and analysis of the first rainfall in Shaanxi in 2OO5[J]. Shaanxi Meteorological,2007(2): 9-12.]   \n[6]王荷秀,慕建利,宁志谦,等.春季透雨能量分析[J].陕西气象, 2000(1): 6-7.[Wang Hexiu,Mu Jianli,Ning Zhiqian,et al.Analysis of spring rainfall energy[J]. Shaanxi Meteorological, 2OoO(1): 6-7.]   \n[7]林纾,倪荣环,郭江勇.甘肃河东春季第一场区域性透雨日期的 气候特征[J].成都信息工程学院学报,2005,20(3):347-353 [Lin Shu,Ni Ronghuan, Guo Jiangyong.Climate feature of first soaking spring rain to the east of Yellow River over Gansu Province[J]. Journal of Chengdu Universityof Information Technology, 2005,20(3): 347-353.]   \n[8]郭江勇,李耀辉,林纾,等.甘肃黄土高原春季透雨日期的气候 特征[J].中国沙漠,2007,27(4): 644-648.[Guo Jiangyong,Li Yaohui,Lin Shu,et al. Climatic characters during spring saturating rain date on Loess Plateau in Gansu[J]. Journal of Desert Research, 2007,27(4): 644-648.]   \n[9]也国妍,钟元龙,孙瑛,等.青海省东部地区春季降水量、第一场 透雨与雨季及春旱的关系[J].青海科技,2006(4):26-29.[Nie Guoyan, Zhong Yuanlong,Sun Ying,et al. The relationship betwen the spring precipitation,the first soaking rain,the rainy season and the spring drought in the eastern part of Qinghai Province [J]. Qinghai Province Science and Technology,2006(4): 26-29.]   \n[10] 晁红艳,袁志强,祁栋林,等.1961—2017年青海东部农业区春 季第一场透雨变化特征分析[J].中国农学通报,2019,35(4):75- 82.[Chao Hongyan,Yuan Zhiqiang,Qi Donglin,et al. The first soaking raininspring in eastern Qinghai agricultural region from 1961 to 2017: Variation characteristics[J]. Chinese Agricultural Science Bulletin,2019,35(4): 75-82.]   \n[11] 郭江勇,叶燕华,林纾,等.甘肃河东春季透雨日期与海温的相 关分析[J].干旱地区农业研究,2004,22(1):18-22.[Guo Jiangyong,Ye Yanhua,Lin Shu,et al. The efect of sea surface temperature on date of soaking rain in east Gansu[J].Agricultural Research in the Arid Areas,2004,22(1):18-22.]   \n[12]纳丽,沈跃琴,丁永红,等.宁夏春季首场透雨出现日期及环流 背景分析[J].干旱区研究,2007,24(3):344-348.[Na Li,Shen Yaoqin,Ding Yonghong,et al.Analysis on the occurrence of first soaking rainfall and its circulation background in the typical years in Ningxia[J]. Arid Zone Research,2007,24(3): 344-348.]   \n[13] 李艳春,梁旭,纳丽,等.宁夏春季首场透雨的气候预测探索[J]. 干旱气象,2005,23(4): 46-51.[Li Yanchun,Liang Xu,Na Li,et al.Climate prediction research on the first soaking rainfall in Ningxia[J]. Arid Meteorology,2005,23(4): 46-51.]   \n[14] 丁一汇.中国气候[M].北京:科学出版社,2013:49,382.[Ding Yihui. China’s climate[M]. Beijing:Science Press,2013:49, 382.]   \n[15] 张强,王有民,姚佩珍.我国三北地区春季第一场透雨指标的确 定[J].中国农业气象,2003,24(2):28-30.[Zhang Qiang,Wang Youmin,Yao Peizhen.Determination of indices for the first soaking rain in spring in north of China[J]. Chinese Journalof Agrometeorology,2003,24(2): 28-30.]   \n[16] 杨建平,丁永建,陈仁升,等.近50年来中国干湿气候界线的10 年际波动[J].地理学报,2002,57(6):655-661.[Yang Jianping, Ding Yongjian, Chen Rensheng,et al. The interdecadal fluctuation of dry and wet climate boundaries in China in recent 50 years [J]. Acta Geographica Sinica,2002,57(6), 655-661.]   \n[17]马柱国,华丽娟,任小波.中国近代北方极端干湿事件的演变规 律[J].地理学报,2003,58(增刊):69-74.[Ma Zhuguo,Hua Lijuan,Ren Xiaobo.The extreme dry/wet events in northern China during recent 100 years[J].Acta Geographica Sinica,2003,58 (Suppl): 69-74.]   \n[18] 王菱,谢贤群,李运生,等.中国北方地区40年来湿润指数和气 候干湿带界线的变化[J].地理研究,2004,23(1):45-54.[Wang Ling,Xie Xianqun,Li Yunsheng,et al. Changes of humid index and borderline of wet and dry climate zone in northern China over the past 40 years[J]. Geographical Research,2004,23(1): 45-54.]   \n[19] 周晓东,朱启疆,孙中平,等.中国荒漠化气候类型划分方法的 初步探讨[J].自然灾害学报,2002,11(2):125-131.[Zhou Xiaodong,Zhu Qijiang, Sun Zhongping,et al. Preliminary study on regionalization desertification climate in China[J]. Journal of Natural Disasters,2002,11(2): 125-131.]   \n[20]中华人民共和国国家标准—气象干旱等级(GB/T20481-2017) [S].北京:中国标准出版社,2017.[The State Standard of the People's Republic of China: Classification of meteorological drought (GB/T 20481-2017)[S]. Beijing: Standards Press of China,2017]   \n[21] 高歌,陈德亮,任国玉,等.1956—2000年中国潜在蒸散量变化 趋势[J].地理研究,2006,25(3): 378-387.[Gao Ge,Chen Deliang,Ren Guoyu,et al. Trend of potential evapotranspiration over China during 1956 to 2000[J]. Geographical Research,2006,25 (3): 378-387.]   \n[22]冯克鹏,田军仓,沈晖.基于K-means聚类分区的西北地区近半 个世纪气温变化特征分析[J].干旱区地理,2019,42(6):1239- 1252.[Feng Kepeng,Tian Juncang, Shen Hui. Temperature variation characteristics of northwest China based on K-means clustering partition in the past half century[J].Arid Land Geography, 2019,42(6): 1239-1252.]   \n[23] 秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming,Zhang Ying,et al.Effects of climate change and human activities on vegetation productivity in arid areas[J]. Arid Land Geography,2020,43(1): 117-125.]   \n[24] 张玉静,杨秀春,郭剑,等.呼伦贝尔草原物候变化及其与气象 因子的关系[J].干旱区地理,2019,42(1):144-153.[Zhang Yujing,Yang Xiuchun,Guo Jian,etal.Phenological variation and its relationship with meteorological factors in Hulun Buir grasslands [J]. Arid Land Geography,2019,42(1): 144-153.]   \n[25] 钱琛,陈海滨,侯现慧.生态建设背景下陕西省植被覆盖时空变 化及其影响因素研究[J].干旱区地理,2020,43(2):425-433. [Qian Chen,Chen Haibin, Hou Xianhui.Temporal and spatial variation of vegetation cover and its influencing factors in Shaanxi Province in the context of ecological construction[J].Arid Land Geography,2020, 43(2): 425-433.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The first spring saturating rain in northwest China based on the relative humidity index ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHU Biao123，ZHANG Qiang1,23，LI Chunhua，LU Guoyang1,3 (1.CollegeoftmosphericSencs,LanouUnversityLanouo,Gnsu,in;IstiuteofArideteoroloy, Lanzhou,KeyOpenLaboratoryofAridClimateChangeandDisasterReductionofCMA,KeyLaboratoryof Arid ClimateChange andReducingDisasterofGansuProvince,Lanzhou 3O2O,Gansu,China;3.GansuProvince Meterology Bureau,Lanzhou 730000,Gansu, China;4.Lanzhou Resources &Environment Voc-Tech Colege,Lanzhou 73OO21,Gansu, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Precipitation in spring has an important impact on agricultural production in the northwest of China, including Shaanxi, Gansu, Qinghai,and Ningxia,where winter and spring wheat are the major crops,and it is crucial for winter wheat turning green and jointing and for spring wheat and autumn crop sowing.Therefore, the first saturating rain of spring that can relieve drought is one of the important concerns of scientific and technical researchers.At present,the identification of the first spring saturating rain in the four provinces of northwest China is mainly empirical. Although there is some exploration of this problem based on the spring drought index, there is a lack of the first spring saturating rain being determined based on theory. Using daily data of 249 meteorological stations in Qinghai, Gansu, Ningxia,and Shaanxi provinces from 1960—2016,the first spring saturating rainfallin northwest China, shown by theoretical calculation of potential evapotranspiration and the relative humidity index,which is consistent with the previous studies,is required to be $2 2 ~ \\mathrm { m m }$ .Such results also represent the amount of precipitation that is required when the relative humidity index turns to“no drought\" from “drought\".Furthermore,it can be defined as the penetration standard of the first spring saturating rain in northwest China that the 48-h precipitation is greater than or equal to $2 2 ~ \\mathrm { m m }$ or the 24-h precipitation is greater than or equal to $1 5 ~ \\mathrm { m m }$ . The method presented in this paper takes into consideration the characteristics of the relative humidity index,energy balance,and water-heat balance in each region of northwest China,and its theoretical basis is clear.The indices selected here are able to reflect the combined influence of the meteorological factors on the dry and wet conditions.Therefore,the threshold of the first saturating rain determined by this method is stable,with a small monthly diference.Meanwhile,the difference from the first spring rain penetration threshold is determined using the spring drought index,and this avoids the influence of therapid increase in spring precipitation and temperature.These results compensate for the lack of empirical identification of the first rain penetration in spring in northwest China.At the same time,theycan be used in monitoring and forecasting and are easily available for regional climate assessment. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: relative humidity index； saturating rain； climate characteristics； the northwest China",
+        "page_idx": 7
+    }
+]

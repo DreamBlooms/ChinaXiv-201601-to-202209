@@ -1,0 +1,629 @@
+[
+    {
+        "type": "text",
+        "text": "论文编号：2016-0170",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于POD技术的低阶反问题计算模型设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙宪航 徐明海 靳少永 杨来顺\\*(中国石油大学储运与建筑工程学院，青岛266580)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对工程中的反问题，以POD（最佳正交分解，Proper Orthogonal Decomposition）技术为基础设计了一种反问题的低阶计算模型，通过采集到的有限输出结果，仅采用简单的非线性规划与插值法即可求解该模型，大幅度地降低了工程中的反问题的求解难度与计算时间。由于模型求解过程不涉及原物理问题的控制方程，因此，该模型在实际中具有一定通用性。以圆管内强制对流换热问题为应用实例，结果表明，基于一些热电偶测量的温度数据，低阶反问题计算模型能够较精确地反算出未知的流体进口温度与圆管外壁热流密度，与真实值相比仅相差 $1 . 0 \\%$ 左右。此外，与经典的共轭梯度法相比，低阶反问题计算模型的计算速度可提高1200 倍以上。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词反问题；最佳正交分解；计算模型；圆管内强制对流换热中图分类号：TK39 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design of reduced-order computational model of reverse problem using POD ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Xian-Hang XU Ming-Hai JIN Shao-Yong YANG Lai-Shun\\* (College ofPipeline and Civil Engineering,China University of Petroleum,Qingdao 266580,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThis paper proposes a reduced-order computational model for reverse problem mainly based on POD (Proper Orthogonal Decomposition), through finite output data collected in advance,the model is solved only using non-linear programming and interpolation methods, which considerably reduces the difficulty and computational time of reverse problems in engineering.The governing equations of the original problem are not considered in the model, which suggests the universality of the reduced-order reverse problem computational model. The reduced-order reverse problem computational model is approved on a forced convection and heat transfer problem in a circular pipe,the results show that the reduced-order reserve problem computational model enables us to accurately calculate the unknown inlet temperature and wall heat flux based on some temperature data measured by thermocouples, where the error between the computational results and the actual results is only about $1 . 0 \\%$ .Besides, it is quite fast, where the achieved increase in calculation speed is more than l20o times compared with the classical conjugate gradient methodology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "wordsreverse problem; Proper Orthogonal Decomposition; computational model; forced convection and heat transfer in a circular pipe ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "工程中的反问题，或称逆问题，其基本思想是根据输出结果的部分信息反算出模型的未知参数。反问题的出现也是实际工程问题的需要，特别是许多由于条件限制而不易对想要知道的参数进行直接测量的情况，如预测未知材料的物性、油藏中岩石的物性、结构工程中的损坏探测、传热问题中边界温度或热流密度等参数的监测等。反问题的求解方法中，以共轭梯度法1应用得最为广泛，共轭梯度法要求计算目标函数对所求参数的导数（称为敏感系数)，再借助于敏感系数而逐渐逼近所要求解的模型参数。由于采用共轭梯度法求解敏感系数需要借助于及反复求解原问题的控制方程，这需要消耗大量的计算时间与存储空间，从而使得它无法应用于那些需要实时预测未知参数的领域。此外，工程中许多问题的物理过程由一组极其复杂的非线性偏微分方程所控制，很难甚至无法求解敏感系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "POD（最佳正交分解，ProperOrthogonalDecomposition）[2-3]技术是从已知的对应于若干个参数（控制参数或物性参数）的物理场样本（由数值模拟或实验获得）中提取出一组只与空间变量有关的正交基函数，这些基函数代表了原物理系统的动力学特性，再与Galerkin[4投影方法结合即可实现对原物理系统控制方程的降阶，即建立低阶模型，这里的“阶”代表每个时间步长内所要求解变量的个数，利用这种低阶模型可快速地计算出参数可变化范围内的任一参数所对应的物理场。这也是目前以POD 作为降阶工具的主流降阶方法，也是其最典型的应用。通过该方法，POD已被成功应用于许多科学与工程领域，如信号分析[5]、流体流动与传热[6-8]、结构动力学[9]、最优控制[10-11]以及反问题[12-13]等。对于反问题，文献[12]与[13]分别将低阶模型引入圆管内层流对流换热及饱和地下水流动的反问题模型，求解方法的主体依然是共轭梯度法，POD 在每一次求解敏感系数过程中对所需求解的控制方程实现降阶，从而降低计算时间，尽管最终计算时间降低了数十倍，但这仍然属于主流降阶范畴，POD的降低计算时间作用仅在求解控制方程这一步得到发挥，且实施难度随着控制方程复杂度的增加而增加，如文献[12]中的低阶模型仅适用于层流，对于湍流便无法实施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于上述问题，本文采用POD的另一种使用方法，即POD插值法设计了一种新的反问题计算模型，即低阶反问题计算模型。以圆管内强制对流换热为应用实例对该方法的精确性与计算效率进行了检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "POD技术简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以 ${ \\pmb w } _ { n }$ $( n = 1 \\cdots N )$ 代表参数向量，其中的 $N$ 为向量的个数， $q ( \\pmb { x } , \\pmb { w } _ { n } )$ 代表在参数 ${ \\pmb w } _ { n }$ 下达到稳态时刻的某个状态参数样本，其中 $x$ 代表空间变量。从分别对应于参数 ${ \\pmb w } _ { n }$ $( n = 1 \\cdots N )$ 的 $N$ 个状态参数样本中提取出一组只与空间变量有关的正交基函数$\\phi _ { m } ( x ) ( m = 1 \\cdots M )$ 后，状态参数 $q ( \\pmb { x } , \\pmb { w } _ { n } )$ 可通过式（1）得到重构，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq ( \\pmb { x } , \\pmb { w } _ { n } ) = \\sum _ { m = 1 } ^ { M } \\alpha _ { m } ( \\pmb { w } _ { n } ) \\phi _ { m } ( \\pmb { x } ) n = 1 \\cdots N\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $M$ 为截断自由度，即所采用的基函数的数量；$\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } _ { n } )$ 为对应于各基函数的系数， $\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } _ { n } )$ 的大小代表了第 $m$ 个POD基函数 $\\phi _ { m } ( x )$ 对重构 $q ( \\pmb { x } , \\pmb { w } _ { n } )$ 所贡献的程度，对于稳态时刻，只与参数 ${ \\pmb w } _ { n }$ 相关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1“快照\"方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "POD 基函数的求解可由 Sirovich[14]提出的\"快照\"方法完成。Sirovich将POD基函数表示为各样本的线性叠加，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { m } ( x ) = \\sum _ { n = 1 } ^ { N } { b ^ { n } } _ { m } q ( x , \\pmb { w } _ { n } ) m = 1 \\cdots M\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，系数 ${ b ^ { n } } _ { m }$ 代表第 $n$ 个参数 ${ \\pmb w } _ { n }$ 对应的样本对构建第 $\\mathbf { \\nabla } m$ 个POD基函数的贡献程度，可由求解如下特征值问题获得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC b ^ { n } = \\lambda ^ { n } { \\pmb b } ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $c$ 为一个 $N$ 维的对称矩阵； $\\lambda ^ { n }$ 为 $c$ 的第 $n$ 个特征值， $\\pmb { b } ^ { n }$ 为对应的特征向量， $\\pmb { b } ^ { n }$ 的元素便为式（4)中的系数 $b ^ { n }$ 。矩阵 $c$ 的元素为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i , j } = \\frac { 1 } { N } \\int _ { \\Omega } q ( x , w _ { i } ) q ( x , w _ { j } ) d \\Omega\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2能量最优性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（3）中的特征值 $\\lambda ^ { n }$ 大小代表了相应的POD基函数在原物理场中所占据的能量多少。定义参数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { { \\scriptscriptstyle M } } = \\sum _ { n = 1 } ^ { M } \\lambda ^ { n } \\Biggl / \\sum _ { n = 1 } ^ { N } \\lambda ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不难发现，参数 $\\xi _ { { \\scriptscriptstyle M } }$ 表示前 $M$ 个POD基函数对于总体能量的贡献程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 POD 基函数的“能量最优性”[2-3]原则，按特征值的数值由大到小排列，仅前 $M \\ ( M \\langle N )$ 个特征值便能使参数 $\\xi _ { { \\scriptscriptstyle M } }$ 接近1。正是由于POD基函数的这种能量最优性，使重构公式(1)仅使用极少的POD基函数便可较高精度地重构出原状态参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 POD插值 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于设计参数 ${ \\pmb w } _ { n }$ 下的系数 $\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } _ { n } )$ 可由如下的投影公式得到，即：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\alpha _ { { \\scriptscriptstyle m } } ( w _ { { \\scriptscriptstyle n } } ) = \\big ( \\phi _ { { \\scriptscriptstyle m } } ( x ) , q ( x , w _ { { \\scriptscriptstyle n } } ) \\big ) } } \\\\ { { m = 1 \\cdots M , n = 1 \\cdots N } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于非设计参数 $\\pmb { w }$ 下的系数 $\\alpha _ { { \\scriptscriptstyle m } } ( w )$ 可由设计参数 ${ \\pmb w } _ { n }$ 下的系数 $\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } _ { n } )$ 进行插值[14-15]求得，即：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } ) = f \\big ( \\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } _ { n } ) \\big ) m = 1 \\cdots M , n = 1 \\cdots N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，函数 $f$ 由所采用的插值方式决定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2低阶反问题计算模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数学模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于POD插值方法，本文所提出的低阶反问题计算模型的基本思想为：根据稳态时刻测量到的物理场信息 $q _ { 0 }$ ，求解出其对应的POD系数$\\boldsymbol { \\alpha } _ { \\mathrm { ~ } m } ^ { * }$ $( m = 1 \\cdots M )$ ，再从一系列设计参数${ \\pmb w } _ { n }$ 0 $\\overset { \\vartriangle } { \\boldsymbol { n } } = 1 \\cdots { \\boldsymbol { N } } )$ 中采用插值法（式（7)）寻找出 $\\boldsymbol { \\alpha ^ { * } } _ { m }$ 所对应的参数 $\\boldsymbol { w } ^ { * }$ 。其数学模型可写为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\| q _ { 0 } - \\sum _ { m = 1 } ^ { M } \\alpha _ { m } \\phi _ { m } ( x ) \\right\\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } { \\sqrt { \\sum _ { m = 1 } ^ { M } \\Bigl [ \\alpha _ { \\ m } ^ { * } - \\alpha _ { m } ( w ) \\Bigr ] ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\left\\| \\bullet \\right\\| _ { 2 }$ 代表向量的2-范数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（8）与式（9）用于计算出对应于稳态时刻已知物理场 $q _ { 0 }$ 的 POD系数 $\\boldsymbol { \\alpha } _ { \\mathrm { ~ } m } ^ { * }$ 1 $( m = 1 \\cdots M )$ ，其中的 $\\alpha _ { \\phantom { m } m } ^ { \\mathrm { m i n } }$ 与 $\\alpha _ { \\mathrm { ~ \\textit ~ { ~ m ~ } ~ } } ^ { \\operatorname* { m a x } }$ 分别为 POD 系数的取值下限与上限，由一系列设计参数 ${ \\pmb w } _ { n }$ 1 $( n = 1 \\cdots N )$ 对应的POD系数取值范围决定。不难发现，求解$\\boldsymbol { \\alpha } _ { \\mathrm { ~ } m } ^ { * }$ 1 $\\overset { \\prime } { m } = 1 \\cdots M )$ 的过程只是个简单的非线性规划问题。式（10）与式（11）为采用插值法从一系列设计参数 ${ \\pmb w } _ { n }$ 1 $( n { = } 1 { \\cdots } N )$ 中寻找出 $\\boldsymbol { \\alpha } _ { \\mathrm { ~ } m } ^ { * }$ $( m = 1 \\cdots M )$ 所对应的最优参数 $\\pmb { w } ^ { * }$ 的计算模型，计算中，只要$\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } )$ 所对应的参数 $\\pmb { w }$ 使得式（10）满足一定的求解精度，则此时的参数便为所要寻找的最优参数$\\boldsymbol { w } ^ { * }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2计算步骤",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文设计的基于POD技术的低阶反问题计算模型的计算步骤可总结如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）在参数取值范围内均匀选取 $N$ 个设计参数值 ${ \\pmb w } _ { n }$ $( n = 1 \\cdots N )$ ，计算每个参数值对应于稳态时刻某些测量点的状态参数 $q ( x , w _ { n } )$ 1 $( n = 1 \\cdots N )$ ，共获得 $N$ 个样本;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）对样本实施POD 技术求取一组正交基函数 $\\phi _ { m } ( x ) ( m = 1 { \\cdots } M )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）由式（6）计算出所有设计参数下的POD系数 $\\alpha _ { m } ( \\pmb { w } _ { n } ) ( m = 1 \\cdots M , n = 1 \\cdots N )$ ，并确定最小值 $\\alpha _ { \\phantom { m } m } ^ { \\mathrm { m i n } }$ 与最大值 $\\alpha _ { \\mathrm { ~ \\textit ~ { ~ m ~ } ~ } } ^ { \\mathrm { m a x } }$ m；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4）利用式（8）与式（9）的非线性规划模型计算出对应于 $q _ { 0 }$ 的最优POD系数$\\boldsymbol { \\alpha } _ { \\mathrm { ~ } m } ^ { * }$ $( m = 1 \\cdots M )$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（5）从一系列设计参数 ${ \\pmb w } _ { n }$ $( n = 1 \\cdots N )$ 中利用式（11）的插值公式寻找出使得式（10）满足一定精度的最优参数 $\\pmb { w } ^ { * }$ ，其具体的求解步骤为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 为式（10）设置求解精度 $\\varepsilon$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 在计算区域内将参数的取值数量加倍为${ \\pmb w } _ { n }$ $( n = 1 \\cdots 2 N )$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 利用式（11）逐个计算出新增的参数值所对应的POD系数;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 将各个参数对应的POD 系数逐个代入式（10)，若式（10）满足精度 $\\varepsilon$ ，则计算结果收敛，此时的POD系数 $\\alpha _ { { \\scriptscriptstyle m } } ( { \\pmb w } )$ $( m = 1 \\cdots M )$ 所对应的参数便是所要求解的最优参数 $\\pmb { w } ^ { * }$ ，若不满足，则由步骤$\\textcircled{2}$ 开始重新计算，直至式（10）满足精度 $\\varepsilon$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要指出的是，在 $\\sqrt { \\sum _ { m = 1 } ^ { M } \\Bigl [ \\alpha _ { \\ m } ^ { * } - \\alpha _ { m } ( w ) \\Bigr ] ^ { 2 } }$ 极小值点的某个邻域内可能存在多个参数所对应的POD系数满足精度 $\\varepsilon$ ，这时只需再从中选取使得目标函数取得最小值的参数即可。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由上述求解步骤可看出，与文献[12]与[13]中的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "POD主流降阶方法相比，低阶反问题计算模型不涉及控制方程，而只以少量的POD系数作为中间变量，仅采用简单的非线性规划与插值方法即可求解出所要寻找的参数，实现了直接对反问题进行降阶，这可大幅度地降低反问题的求解难度与计算时间。此外，由于模型求解过程不涉及控制方程，即和所研究问题复杂与否无关，因此，本文所提出的新方法在实际工程应用中具有一定的通用性。另外，值得指出的是，本文提出的低阶反问题计算模型只适用于求解待求解参数为定值的问题，即不随时间或空间而变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3应用实例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1问题描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以文献[12]中的圆管内稳态强制对流换热问题为应用实例具体说明低阶反问题计算模型的实施过程，其模型如图1所示。流体入口温度 $T _ { \\mathrm { i n } }$ 及圆管外壁热流密度 $q$ 为待求解参数，且为定值；圆管半径为 $r _ { \\mathrm { { o } } } = 0 . 0 1 \\mathrm { { m } }$ ，长度为 $l = 1 \\mathrm { m }$ ，不计管壁导热热阻;流体导热系数为 $\\eta = 0 . 5 9 9 \\mathrm { W } / ( \\mathrm { m } \\cdot \\mathrm { K } )$ ，密度为$\\rho = 1 0 0 0 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ ，比热容为 $c _ { p } = 4 . 1 8 3 \\mathrm { k J / ( k g \\cdot K ) }$ 流体入口流速沿径向的分布为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ( r ) = 2 u _ { \\mathrm { m } } ( 1 - r ^ { 2 } / r _ { \\mathrm { { o } } } ^ { \\ 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $u _ { \\mathrm { m } }$ 为平均流速， $0 . 0 5 \\mathrm { m / s }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "圆管内的黑点代表热电偶，假设沿轴向均匀地布置了25个热电偶用于测量稳态时的流体温度， $r _ { \\mathrm { m } }$ 为测量点位置与壁面的径向距离，不计测量误差。现基于热电偶测量的温度场采用本文提出的低阶反问题计算模型反算出流体入口温度 $T _ { \\mathrm { i n } }$ 及圆管外壁热流密度 $q$ 。不计重力影响，模型网格划分为 $2 0 0 0 \\times$ 100。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里需要说明的是，尽管本文提出的低阶反问题计算模型求解过程不涉及控制方程，即对于本文的应用实例无论是层流还是湍流均适用，但之所以本文采用层流，主要是为了对比本文新方法与经典的共轭梯度法计算效率的需要，文献[15]已给出采用共轭梯度法求解本文应用实例的具体实施过程。而对于湍流，由于控制方程的极其复杂性，共轭梯度法几乎无法实施，目前也并无相关文献报道。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6ed7aac47a6ac450afcb5aa9083806e5c4b83795cacf18d5eafd1ba545f4332.jpg",
+        "img_caption": [
+            "图1物理模型",
+            "Fig.1Physical model "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2POD基函数的求解",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述2个待求解参数的取值范围及取值情况如表1所示，将各个参数值任意搭配共得到48个参数组合。采集每个参数组合下稳态时在轴线$r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 2$ 、 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1 5$ 及 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1$ 上热电偶所在网格处的温度值，共得到48个样本。对样本实施POD 技术，表2给出了前5个特征值及其相应的能量分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/209e2297762182741261657e3d67ed01b1b722eab3c04adedc5d0888adeab28b.jpg",
+        "table_caption": [
+            "表1待求参数的取值范围及取值情况 ",
+            "Table1The rangesand valuesof parameters to be solved "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>控制参数</td><td>取值范围</td><td>取值</td></tr><tr><td>入口温度</td><td>288-313K</td><td>288,293,298,303,308,313</td></tr><tr><td>热流密度</td><td>3000-10000W/m²</td><td>3000,4000,5000,6000,7000,8000,9000,10000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b8a33645967376e6b99ed8dccef599f2ca8bba910fa196a49953fb83e69266c.jpg",
+        "table_caption": [
+            "表2前5个特征值及对应的能量分布",
+            "Table 2 The first five eigenvalues and corresponding energy distribution "
+        ],
+        "table_footnote": [
+            "Fig.2 Reconstruction error for partial samples "
+        ],
+        "table_body": "<html><body><table><tr><td>n</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td></td><td>23978.9272</td><td>80.6821</td><td>3.2631</td><td>0.2162</td><td>0.0136</td></tr><tr><td>5m(%)</td><td>99.6425</td><td>99.9778</td><td>99.9914</td><td>99.9923</td><td>99.9924</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可见仅前5个基函数便几乎捕捉到了样本的全部能量份额。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2为部分样本的重构误差。由图2可以看出，重构误差 $E$ 随着截断自由度 $M$ 的增加而迅速减小，并趋近于一个定值。当 $\\scriptstyle { M = 5 }$ 时， $E$ 的值已降至 $0 . 0 5 \\%$ 左右。其中 $E$ 的定义为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = { \\frac { \\left\\| q - q _ { M } \\right\\| _ { 2 } } { \\left\\| q \\right\\| _ { 2 } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $q$ 为数值求解结果， $q _ { M }$ 为重构结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3713b98418f76a23dbee6d68021932ed791589fa6cbeab9c567fa83ec051ee6.jpg",
+        "img_caption": [
+            "图2部分样本的重构误差"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3POD基函数精确度检验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3与图4分别给出了由投影公式（式（6)）计算出的各样本的第1、2组POD系数，其中，图(a)中的每个变化周期内的样本是按入口温度不变，外壁热流密度不断增加的方式安排，图（b）则是外壁热流密度不变，而入口温度不断增加。可以看出，样本POD系数随着参数的变化几乎呈线性变化，其它3组POD系数同样存在类似的变化关系，这里不再一一给出。因此，本文采用线性插值方法计算非设计参数所对应的POD系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/02acdb36bf9d02cc4d2a52a11b25792d91aa45a600a1a839435c5c980efd907e.jpg",
+        "img_caption": [
+            "图3样本的第1组POD系数",
+            "Fig.3 The first group of POD coefficients for the collected samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f985e3556e78498ded2c71d222851f71c933b4477df8d5867886980e6b863bf2.jpg",
+        "img_caption": [
+            "图4样本的第2组POD系数",
+            "Fig.4The second group ofPOD coefficients for the collected samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了检验POD基函数用于非设计参数下插值结果的精确度，图5给出了部分非设计参数下在轴线$r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 2$ 上的线性插值结果与直接数值求解结果的对比，其中，选取了前5个POD基函数。图中的线条为数值求解结果，几何图标为插值求解结果。对于图 5(a)，热流密度为 $7 5 0 0 \\mathrm { W / m } ^ { 2 }$ ，对于图5(b),",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "流体入口温度为 $3 0 5 \\mathrm { K }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可见，插值结果与数值求解结果基本一致，对于图5(a),平均误差 $E$ 为 $0 . 3 6 7 \\%$ ，对于图5(b)，$E$ 为 $0 . 4 1 3 \\%$ ，说明所求得的POD基函数跨越了原问题参数较大范围内的解所处的空间，可在参数允许变化范围内通过插值不断重复使用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0a523c95457bea471f7ffa1a33689bf9cd4b4fbe561c5c08f439e5233aef1b9.jpg",
+        "img_caption": [
+            "图5非设计参数下的插值结果与数值求解结果的对比",
+            "Fig.5 Comparison of interpolation and numerical results for off-design parameters "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4计算结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图6至图8分别代表热电偶在轴线 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 2$ 、$r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1 5$ 及 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1$ 上测量到的几组温度数据。表3给出了低阶反问题计算模型的计算结果与真实结果的对比情况，其中，求解精度为 $\\varepsilon = 1 0 ^ { - 4 }$ 。由表3可以看出所求解结果与真实值较接近，平均相对误差 $e$ 仅为 $1 . 0 6 9 \\%$ ，其中，平均相对误差 $e$ 的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "计算公式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne = \\frac { \\left\\| \\omega _ { \\mathrm { r } } - \\omega \\right\\| _ { 2 } } { \\left\\| \\omega _ { \\mathrm { r } } \\right\\| _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\omega _ { \\mathrm { r } }$ 为真实结果， $\\omega$ 为计算结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/25feb03a70162406b17ea4b8467d13964040d42c1eb0bcd9e2058ae330a74580.jpg",
+        "img_caption": [
+            "图6 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 2$ 处热电偶测量到的几组温度数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb7a63e18f12ec0d6ab258a4bb97a7cb9c755f13d6c7ad5d4f1635c5979a6fbe.jpg",
+        "img_caption": [
+            "Fig.6 Sets of temperature data measured by thermocouples at the location of $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e21026e70018409a961f0a1d03f47ac82c2ca585a1927c964c78a7a0683e1a3.jpg",
+        "img_caption": [
+            "图7 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1 5$ 处热电偶测量到的几组温度数据 Fig.7 Sets of temperature data measured by thermocouple at the location of $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1 5$ ",
+            "图8 $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1$ 处热电偶测量到的几组温度数据 Fig.8 Sets of temperature data measured by thermocouple at the location of $r _ { \\mathrm { m } } / r _ { \\mathrm {  o } } = 0 . 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/eeea3389aaacfdb70a65c7141364ea381dfaf800727db56ab73d7ed3109d34ae.jpg",
+        "table_caption": [
+            "表3低阶反问题计算模型的计算结果与真实结果的对比",
+            "Table 3 Contrast between the results of inverse problem model and real results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">温度场数 据</td><td colspan=\"2\">计算结果</td><td colspan=\"2\">真实结果</td><td rowspan=\"2\">平均相对误差e(%)</td></tr><tr><td>热流密度(W/m)</td><td>入口温度 (K)</td><td>热流密度 (W/m²)</td><td>入口温度 (K)</td></tr><tr><td>1</td><td>3228.67</td><td>289.58</td><td>3300</td><td>290</td><td rowspan=\"4\">1.069</td></tr><tr><td>2</td><td>4266.56</td><td>294.54</td><td>4200</td><td>295</td></tr><tr><td>3</td><td>5633.68</td><td>300.71</td><td>5700</td><td>300</td></tr><tr><td>4</td><td>7367.75</td><td>305.67</td><td>7300</td><td>305</td></tr><tr><td>5</td><td>9134.39</td><td>309.31</td><td>9200</td><td>310</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了对比低阶反问题计算模型的计算效率，本文还采用了经典的共轭梯度法对上述反问题进行了求解。由于本文讨论的重点是低阶反问题计算模型，因此，这里只给出了共轭梯度法的计算结果，具体实施过程可参见文献[15]。表4给出了共轭梯度法的迭代求解结果，其中收敛精度为 $c { = } 0 . 1 \\%$ ，即当前迭代层次的结果与上一次迭代层次的结果之差小于 $\\mid c \\mid$ 时，结果达到收敛。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "计算所采用计算机的CPU频率为 $3 . 3 0 \\mathrm { G H z }$ ，内存为 $8 . 0 0 \\mathrm { ~ G ~ }$ 。表4还给出了共轭梯度法与低阶反问题计算模型计算时间的对比，由表4可明显地发现低阶反问题模型的优势，尽管计算结果的精度有较小幅度的损失，但低阶反问题计算模型相对于共轭梯度法可节省1200倍以上的计算时间。需要指出的是，这里的计算时间不包括样本采集及POD基函数求解过程，尽管这些过程需消耗较多时间，但对于由于测量到的数据改变而需要快速计算出待求参数时，这些过程只进行一次，因此可归结为前期准备工作。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbf91d15cecac8510d2cc3451336994b88de39a7e91a28c5269d5db4c91e727e.jpg",
+        "table_caption": [
+            "表4共轭梯度法计算结果",
+            "Table 4 Computational results for conjugate gradient methodology "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">温度场数</td><td colspan=\"2\">Tabie4 putator</td><td colspan=\"3\">gradlenmetnodology</td></tr><tr><td>计算结果</td><td></td><td>共轭梯度法 迭代次数</td><td>计算时间 (s)</td><td>共轭梯度法</td></tr><tr><td>据 1</td><td>热流密度 (W/m) 3266.87</td><td>入口温度 (K) 290.33</td><td>18</td><td>低阶反问题计算模型 16.231</td><td>20160.263</td></tr><tr><td>2</td><td>4229.66</td><td>294.16</td><td>17</td><td>15.489</td><td>19320.252</td></tr><tr><td>3</td><td>5666.26</td><td>300.19</td><td>18</td><td>15.963</td><td>20230.446</td></tr><tr><td>4</td><td>7272.98</td><td>305.21</td><td>19</td><td>16.660</td><td>21390.369</td></tr><tr><td>5</td><td>9179.43</td><td>309.88</td><td>17</td><td>15.269</td><td>19080.298</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文采用POD技术设计了一般工程反问题的低阶计算模型，与经典的共轭梯度法相比，低阶反问题计算模型在求解过程中不涉及原物理问题的控制方程，而只以少量的POD系数作为中间求解变量，在大幅度简化计算过程的同时也表明了该方法的通用性。以圆管内强制对流换热为应用实例，计算结果表明，低阶反问题计算模型的计算结果与真实结果的平均相对误差约为 $1 . 0 \\%$ ，计算速度比经典的共轭梯度法快1200倍以上，证明了该方法的正确性与可行性，为开发工程上快速预测未知参数的技术提供了理论支撑。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Huang C H, Ozisik M N. Inverse problem of determining unknown wall heat flux in laminar flow through a parallel plate duct[J].NumericalHeat Transfer,1992,21(1):55-70   \n[2] Lumley JL.The structure of inhomogeneous turbulent flows [J].Atmospheric turbulence and radio wave propagation, 1967:166-178   \n[3]Berkooz G, Holmes P,Lumley JL.The proper orthogonal decomposition in the analysis of turbulent flows [J].Annual ReviewFluidMech,1993,25:539-575   \n[4]Singh S J,Chatterjee A.Galerkin projections and finite elements for fractional order derivatives [J].Nonlinear Dynamics,2006,45(1-2): 183-206   \n[5]Francesca di Mare,Robert Knappstein.Statistical analysis of the flow characteristics and cyclic variability using Proper Orthogonal Decomposition of highly resolved LESin internal combustion engines [J].Computers & Fluids,2014; 105(10): 101-112   \n[6]Utturkar Y, Zhang B, Shyy W.Reduced-order description of fluid flow with moving boundaries by proper orthogonal decomposition [J].International Journal of Heat and Fluid Flow,2005,26(2): 276-288 [7]丁鹏，陶文钰．建立低阶模型的 POD 方法[J].工程热物 理学报,2009,30(6):1019-1021 DING Peng, TAO Wenquan. Reduced Order Model with The ProperOrthogonalDecomposition[J].Journalof Engineering Thermophysics,2009,30(6):1019-1021 [8]Weller J,Lombardi E,Bergmann M,et al.Numerical methods for low-order modeling of fluid flows based on POD[J]. International Journal for Numerical Methods in Fluids,2010,63(2): 249-268 [9] Krysl P,Lall S,Marsden JE.Dimensional model reduction in non-linear finite element dynamics of solids and structures [J].International Journal fornumerical methodsin engineering,2001,51(4): 479-504 [10] Ly H V, Tran H T. Modeling and control of physical processes using proper orthogonal decomposition [J]. Mathematical and computer modelling， 2001，33(1):   \n223-236 [11] Tallet A,Allery C,Allard F.POD approach to determine in real-time the temperature distribution in a cavity [J]. Building and Environment, 2015,93: 34-49 [12]丁鹏，陶文钰．求解对流换热反问题的低阶模型[J]．西 安交通大学学报,2009,43(3):14-16 DING Peng, TAO Wenquan. Reduced Order Model Based Algorithm for Inverse Convection Heat Transfer Problem [J].Journal of Xi'an Jiaotong University，20o9,43(3):   \n14-16 [13]Winton C,Pettway J,Kelley C T,et al.Application of ProperOrthogonal Decomposition(POD） toinverse problems in saturated groundwater flow.Advances in Water Resources,2011,34(12):1519-1526 [14] Sirovich L.Turbulence and the dynamics of coherent structures.Part I: Coherent structures [J].Quarterly of applied mathematics,1987,45(3): 561-571 [15] Ding P, Tao W Q.Estimation of Unknown Boundary Heat ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

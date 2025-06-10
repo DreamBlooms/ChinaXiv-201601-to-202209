@@ -1,0 +1,85 @@
+# 综述
+
+# 子痫前期相关循环microRNAs的研究进展
+
+杨龙江'，杜丹²，傅强'，李志樑1南方医科大学珠江医院心血管内科，广东广州 510282；广州市海珠区妇幼保健院妇产科，广东广州 510240摘要：子痫前期在全球范围内是导致孕妇和胎儿死亡的主要原因之一，其发病机制仍未完全阐明。microRNAs是一类具有调控基因转录后表达的非编码小RNA,参与细胞的增殖、分化、凋亡等重要生物功能，近年来研究表明其可作为多种疾病的诊断标志物与治疗靶点。子痫前期患者胎盘及循环中存在一系列表达失衡的microRNAs,表明microRNAs可能在子痫前期的发生发展中发挥重要作用。本文就近年子痫前期相关循环microRNAs的研究概况做一综述。
+
+关键词：子痫前期;循环microRNAs;诊断;发病机制
+
+# Research progress of circulating microRNAs in preeclampsia
+
+YANG Longjiang1,DuDan²,FU Qiang',LIZhiliang   
+Departetdoalicaeitotf   
+and Obstetrics,Haizhu Maternal and Child Health Hospital,Guangzhou 510240,China
+
+Abstract: Preclampsiaisonemajorcauseofmateralandfetus morbidityandmortalityinthe world,thepathogenesisis il unclear. MicroRNAs are non-coding smallRNA that can regulate the gene expresion and participate in many important bio-functions such ascelluar proliferation,diferentiationand apoptosis.Recentlystudies demonstrate that microRAscan be use asdiagnosis biomarkers and treatingtargets for many diseases.The imbalance of microRNAs in placenta and circulation of PE patients demonstrate that microRNAsmay playan important role in pathogenesis of PE.This review summarizes current studies on circulating microRNA in PE.
+
+Key words: preeclampsia; circulating microRNAs; diagnosis; pathogenesis
+
+# 1 子痫前期
+
+子痫前期(PE)是妊娠期高血压疾病的五种状况之一，是发生在妊娠20周以后的一种妊娠期特有疾病，以高血压、蛋白尿及全身其他系统性紊乱为主要临床表现,是导致孕产妇和围产儿死亡的主要原因之一[]。PE在我国的发病率约为 $2 \% { \sim } 6 \%$ ,可伴有胎儿综合征,包括：胎儿生长受限、宫内窘迫等。其严重的并发症有子痫、中风、肺水肿、恶性高血压、心肌缺血/梗死、急性肾损伤、肝功能衰竭、死产等，严重威胁产妇及胎儿的健康[1,3]
+
+然而PE的发病机制还未完全阐明，现在主要有以下几种学说：子宫螺旋小动脉重铸不足、炎症免疫过度激活、血管内皮细胞受损、遗传因素、营养缺乏、胰岛素抵抗等[4]。部分学者认为胎盘浅着床、胎盘缺氧和血管内皮的广泛损伤是子痫前期发病的病理生理基础[5]。我们对PE的发生发展机制仍不明确，因此，众多学者致力于子痫前期预测及发病机制的研究，以期早期预测、早期干预，降低母婴的患病率及病死率。
+
+# 2microRNAs
+
+microRNAs(miRNA)是一类内源性的小分子非编码单链RNA，长度为19-25个核苷酸，在转录后水平对基因进行负向调控。成熟miRNA与其他蛋白质形成RNA诱导沉默复合体(RISC)，通过与mRNA的3非编码区(3UTR)完全或不完全互补配对结合引起靶mRNA的降解或翻译抑制[67]。自从1993年第一次从秀丽隐杆线虫中发现miRNA后8，在不同物种中发现了大量的miRNA。至今，在人类身上已经发现了超过1000种miRNA,而这个数字还在不断增长[9。miRNA调控约 $30 \%$ 的人类基因表达，参与了很多重要的生物功能,包括细胞增殖、分化、凋亡等[10-1]。近期研究表明,miRNA在肿瘤、心血管疾病、糖尿病、阿尔茨海默病、帕金森病和艾滋病等多种疾病中都起着重要作用[7.12-13]循环miRNA存在于血浆和血清中，已成为疾病研究、诊断、防治和预后判断的热点，可作为心血管疾病、糖尿病、肿瘤等疾病的预测、诊断标志物和潜在的治疗靶点。
+
+# 3PE与循环microRNAs
+
+近年来miRNA与妊娠关系的研究正逐渐得到重视。研究已经证实众多miRNA在妊娠过程中在胎盘及血浆中充分表达，如：染色体19miRNA簇(C19MC）、C14MC、miR-371-3簇等[14]。对子痫前期、异位妊娠、妊娠相关性糖尿病等妊娠相关性疾病的研究表明，miR-NA在有望成为妊娠相关疾病诊断的标志物[15]。目前已经有很多研究组试图通过分析子痫前期患者与正常妊娠患者胎盘中miRNA的差异，来解释子痫前期的发生发展[5,16]。近几年,对子痫前期中循环miRNA的研究成为一大热门。
+
+# 3.1循环microRNAs与PE的预测与诊断
+
+2011年，Gunel等[17]对20例PE和20例对照的血清miRNA进行检测后发现，miR-210的表达水平显著上调而miR-152的表达水平显著下调。其中miR-210的表达上调与以往胎盘研究相一致，因此他们认为miR-210可用来改进PE的无创诊断方法。MiR-210的表达上调与过度免疫反应相关,相较于胎儿,母体的表达程度更高，因此可以认为PE的发生发展与母体过度免疫反应相关。Hromadnikova等[18]发现63例PE血浆中，C19MC 簇 miRNA (miR-516-5p，miR-517,miR-520a,miR-525和miR-526a)表达上调，与大脑中动脉搏动指数和胎儿脑-胎盘率存在一定关系，但与已知的围产期不良后果危险因素无关联。Campos等[19]对19 例PE与14例对照的血浆中3种miRNA(miR-125b,miR-146a,和miR-196b)进行对比,发现miR-196b显著低表达。miR-196b过表达与细胞增殖相关，与PE患者肿瘤患病风险降低相吻合。Luque等[20]的前瞻性研究纳入了5759名孕妇,在怀孕头3个月采集血标本后，对31例后来发展为PE和44例对照的血清miRNA进行对比,发现只有15种miRNA似乎有差异。选择其中表达最具差异性的7种miRNA(miR-192,miR-143和miR-125b过表达；miR-127,miR-942,miR- $1 2 6 ^ { \# }$ 和miR-221低表达)进行stem-loopRT-qPCR检测后,经过统计分析发现两组间没有一种miRNA具有显著差异。因此他们认为miRNA在怀孕头3个月对PE没有预测价值。Yang等[21对PE患者血浆及胎盘miRNA与对照组进行对比，发现20种miRNA存在表达差异。这些差异表达的miRNA主要存在于4个簇或族中，分别为miR-16簇、miR-17族、miR-130族与miR-517族。因此他们认为这些miRNA可作为PE的无创诊断标志物。这些研究揭示众多的miRNA在PE与正常患者血液样本中存在表达差异,特别是miR-210在多个研究中均有报道,存在可观的预测与诊断价值。但这些研究所报道的miRNA存在着巨大差异，可能与人种、PE严重程度及PE复杂的发病机制有关，还需要更大规模的研究来
+
+明确现有的结果。
+
+# 3.2循环microRNAs表达与PE严重程度
+
+Yang等[22]运用SOLiD测序技术对4例PE(2例重度,2例轻度)和1例对照的血清miRNA分析后发现,共22种miRNA失调与PE相关,其中15种上调,7种下调。经过与PE相关胎盘miRNA进行对比后发现,hsa-let-7d.hsa-let-7与has-miR-223这3种miRNA在循环与胎盘中表达相一致。但他们的结果未发现miRNA表达差异与PE严重程度存在相关性。Wu等[23]通过将10例重度PE(sPE)与9例对照组血浆进行检测对比,发现15种miRNA表达有差异,其中13种上调,2种下调。经过RT-PCR分析后发现其中7种miRNA(miR-24,miR-26a, miR-103,miR-130b, miR-181a, miR-342-3p,和miR-574-5p)在样本中显著升高。进行GO(Gene on-tology)和通路富集分析后显示这7种miRNA均有参与新陈代谢、转录和细胞周期的调节,以及MAPK、TGF- $\cdot \beta$ 信号通路。Li等24对4例轻度PE(mPE)、4例sPE和4例对照血浆miRNA用SOLiD测序技术进行检测，发现51种 miRNA存在表达差异。进一步选择4种miRNA(miR-141,miR-144,miR-221,和miR-29a)在更大规模的样本中进行RT-PCR验证,发现miR-141与miR-29a在mPE组中显著过表达;miR-144在mPE与sPE组均显著低表达。Stubert等[25]对PE合并HELLP综合征患者和对照组血清miRNA进行检测,结果7种miRNA表达异常。使用qPCR验证后,PE合并HELLP组3种miRNA(miR-122,miR-133a和miR-758)明显表达,特别是肝脏特异性miRNAmiR-122的表达差异为11.5倍。该结果与HELLP综合征为异质性疾病的假设一致。Ura等[2采集孕期12\~14周的孕妇血清样本并保存,通过对比24例后来发展为sPE患者与24例对照的样本并验证,发现4种miRNA表达异常(miR-1233,miR-520,miR-210和miR-144),其中miR-1233过表达最显著。因此他们认为miR-1233可能成为sPE的早期预测标志物。Murphy等[27从预后角度出发,分别在分娩和产后1年两个阶段采集血浆样本。经过对比后发现,分娩时6例sPE相对于17例对照,7种血浆miRNA(miR-98-5p,miR-222-3p,miR-210-3p,miR-155-5p,miR-296-3p,miR-181a-5p 和miR-29b-3p)表达显著上升。这些miRNA主要与抗血管增生、炎症反应及细胞亡功能相关。但是7例mPE与对照组之间miRNA无显著差异。产后1年PE相对与对照组，只有miR-221-3p的表达水平显著降低,但根据PE严重程度进行亚组分析后,他们认为血浆miRNA表达水平均无显著差异。根据这一结果他们认为miR-221-3p的降低可能提示产后PE患者存在持续的炎症反应。Miura等28对20例sPE与20例正常孕妇血液样本进行检测,发现sPE组血浆中 10 种 C19MC 族 miRNA (miR-518b,miR-1323， miR-516b, miR-516a-5p， miR-525-5p,miR-515-5p，miR-520 h,miR-520a-5p，miR-519d 和miR-526b)浓度明显升高;其中14例迟发型sPE(sPE-LO)相对于正常组，C19MC族miRNA中除了miR-519d外均显著升高;而6例早发型sPE(sPEEO)相对于 sPELO，10 种miRNA中除了miR-518b 与miR-519d外,其余8种均显著升高。因此他们认为血浆C19MC族miRNA升高是sPE的特有现象，并且第1次揭示了该族miRNA的上调是在sPE发生后，而不是之前。循环miRNA与PE严重程度存在一定相关性，在轻重度PE间的表达也不完全相同，对不同严重程度PE的诊断及可能存在的不同发病机制的揭示有很大的研究价值。
+
+# 3.3循环microRNAs与PE的发病机制
+
+Anton等[29对一个病例对照研究和一个前瞻性研究的血清miR-210进行检测，发现其在确诊为PE的样本中显著升高,甚至在临床确诊为PE前几个月显著升高,提示其具有诊断及预测价值。进一步的研究通过对miR-210进行过表达及抑制，证明其表达异常可以影响滋养层功能。Fu等[30]对孕期15\~18周的13例PE及13例对照的血浆样本进行检测,发现miR-376c的水平在PE组明显降低。这一结果同样出现在孕期36\~40周的16例PE和31例对照的血浆样本和不同孕期的胎盘样本对比研究中。通过细胞研究证实,miR-376c通过抑制ALK5和ALK7表达来削弱TGF $\cdot \beta$ /Nodal信号通路,导致胚胎滋养层细胞增生与侵犯。说明子痫前期的发展可能与TGF- $\boldsymbol { \cdot } \boldsymbol { \beta }$ /Nodal与miR-376c的表达失衡有关。Xu等1分别在孕期15\~18周及足月生产时采集血浆及胎盘样本进行检测，发现相对于33例对照，20例sPE 胎盘中9种miRNA(miR-195,miR-223,miR-218,miR-17,miR-18a,miR-19b1,miR-92al,miR-379 和miR-411）表达下调；7种miRNA（miR-210,miR-30a-3p,miR-518b,miR-524,miR-17-3p,miR-151和 miR-193b)表达上调。对血浆样本中miR-17,miR-18,miR19b1,miR-92a1和miR-210进行检测并验证，发现在孕期的两个阶段，miR-18a,miR-19b1和miR-92a1水平明显下降而miR-210水平明显上升。他们通过HTR8/SVneo细胞实验，揭示miR-18a通过抑制Smad2基因的表达来促进滋养层细胞的侵袭。Lalevee等[2对PE胎盘miRNA研究后认为，PE时低氧信号通路异常与miR-455低表达有关，并预测循环miR-210与miR455的比值可作为PE的无创早期诊断标志物，但这一假设未被验证。Sandrim等[33]通过研究可溶性血管内皮生长因子受体-1(sFLT-1)与miRNA之间的关系,试图揭示PE的发病机制。对24例PE的血浆sFLT-1水平进行测量后，选择表达水平最高与最低各3例进行miR-NA分析，结果显示miR-195-5p，miR-16-5p和miR-19b-3p在高sFLT-1组表达水平高，而miR-375在低sFLT-1组表达水平高。再通过所有样本检验上述miRNA与sFLT-1的相关性,结果显示miR-195-5p相关性最为显著。该结果提示PE的发生发展可能与miR-NA介导内皮生长相关。现有的研究揭示了循环miR-NA可能通过影响滋养层细胞功能从而影响PE的发展过程。
+
+# 4展望
+
+循环miRNA对疾病的无创预测、诊断及治疗存在巨大的研究价值，在PE发展过程中的作用在近几年才被大家重视。现有的研究部分揭示了循环miRNA对PE的无创诊断价值及发病机制中的作用。PE发病过程中免疫炎症过度激活与血管内皮损伤与循环miRNA的关系存在巨大的研究价值，但尚无此方面研究。因此，循环miRNA在PE发病机制中的作用需要更多的研究来进一步揭示与验证。
+
+# 参考文献：
+
+[1]Magee LA,Helewa M,Moutquin JM,et al.Diagnosis,evaluation, and management of the hypertensive disorders of pregnancy[J]. J Obstet Gynaecol Can,2008,30(3 Suppl): S1-48.   
+[2]乔 宠,杨小梅,林其德.子痫前期的流行病学研究进展[J].中国计划生 育和妇产科,2013,5(6):5-8.   
+[3]Lin S,Leonard D,Co MA,et al. Pre-eclampsia has an adverse impact on maternal and fetal health[J]. Trans Res,2O15,165(4): 449-63.   
+[4]Naljayan MV,Karumanchi SA．New developments in the pathogenesis of preeclampsia[J].Adv Chronic Kidney Dis,2013,20 (3): 265-70.   
+[5]Li JY,Yong TY,Michael MZ,et al.MicroRNAs:are they the missing Link between hypoxia and pre-eclampsia[J].Hypertension in Pregnancy,2014,33(1): 102-14.   
+[6]Bartel DP.MicroRNAs:genomics,biogenesis,mechanism,and function[J]. Cell,2004,116(2): 281-97.   
+[7]Urbich C,Kuehbacher A,Dimmeler S.Role of microRNAs in vascular diseases,inflammation,and angiogenesis[J].Cardio Res, 2008,79(4): 581-8.   
+[8]Lee RC,Feinbaum RL,Ambros V.The C.elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14[J]. Cell,1993,75(5): 843-54.   
+[9]Bentwich I,Avniel A,Karov Y,et al.Identification of hundreds of conserved and nonconserved human microRNAs[J].Nat Genet, 2005,37(7): 766-70.   
+[10]Hime GR,Somers WG.Micro-RNA mediated regulation of proliferation,self-renewal and differentiation of mammalian stem cells[J]. Cell Adh Migr,2009,3(4): 425-32.   
+[11]Ivey KN, Srivastava D.MicroRNAs as regulators of differentiation and cell fate decisions[J].Cell Stem Cell,2010,7(1): 36-41.   
+[12]Qu ZG,Li WH,Fu BQ.MicroRNAs in autoimmune diseases[J]. Biomed Res Int,2014,15(8): 18.   
+[13]Price NL,Ramirez CM,Fernandez-Hernando C.Relevance of microRNA in metabolic diseases[J]. Crit Rev Clin Lab Sci,2014,51 (6): 305-20.   
+[14]Morales-Prieto DM,Ospina-Prieto S,Chaiwangyen W,et al. Pregnancy-associated miRNA-clusters [J].J Reprod Immunol, 2013,97(1, SI): 51-61.   
+[15] Zhao Z,Moley KH,Gronowski AM. Diagnostic potential for miRNAs as biomarkers for pregnancy-specific diseases [J]. Clin Biochem,2013,46(10/11, SI): 953-60.   
+[16] Chen DB,Wang W.Human placental MicroRNAs and preclampsia [J].Biol Reprod,2013,88(5): 130.   
+[17]Gunel T,Zeybek YG,Akcakaya P,et al． Serum microRNA expression in pregnancies with preeclampsia[J]. Gene Molec Res, 2011,10(4): 4034-40.   
+[18]Hromadnikova I, Kotlabova K, Ondrackova MA,et al. Circulating C19MC MicroRNAs in preeclampsia,gestational hypertension, and fetal growth restriction[J].Med Inflamm,2013,19(6): 14.   
+[19] Campos CB,Marques TM,Pereira RW, et al. Reduced circulating miR-196b levels is associated with preeclampsia[J]. Pregnancy Hypertens,2014,4(1): 11-3.   
+[20] Luque A,Farwati A,Crovetto F,et al. Usefulness of circulating microRNAsforthepredictionofearlypreeclampsiaat first-trimester of pregnancy[J]. Sci Rep,2014, 4(9): 23.   
+[21] Yang S,Li H, Ge Q, et al. Deregulated microRNA species in the plasma and placenta of patients with preeclampsia[J].Mol Med Rep,2015,12(1): 527-34.   
+[22] Yang Q,Lu J，Wang S,et al. Application of next-generation sequencing technology to profile the circulating microRNAs in the serum of preeclampsia versus normal pregnant women［J].Clin Chim Acta,2011,412(23/24): 2167-73.   
+[23]Wu L,Zhou HH,Lin HY,et al. Circulating microRNAs are elevated in plasma from severe preeclamptic pregnancies [J]. Reproduction,2012,143(3): 389-97.   
+[24] Li HL,Ge QY, Guo L,et al. Maternal plasma miRNAs expression in preeclamptic pregnancies[J].Biomed Res Int,2013,17(4):78.   
+[25] Stubert J, Koczan D,Richter DU,et al. miRNA expression profiles determined in maternal sera of patients with HELLP syndrome[J]. Hypertension in Pregnancy,2014,33(2): 215-35.   
+[26]Ura B,Ferioto G,Monasta L,et al.Potential role of circulating microRNAs as early markers of preeclampsia[J].TaiwanJ Obstet Gynecol,2014,53(2): 232-4.   
+[27]Murphy MS,Casselman RC,Tayad EC,et al. Differential expression of plasma microRNA in preeclamptic patients at delivery and 1 year postpartum[J]. American Jof Obste and Gynec,2015.   
+[28]Miura K, Higashijima A,Murakami Y,et al. Circulating chromosome 19 miRNA cluster microRNAs in pregnant women with severe pre-eclampsia [J].J Obstet Gynaecol Res，2015,41(10): 1526-32.   
+[29]Anton L,Olarerin-George AO,Schwartz NA,et al.miR-210 inhibits trophoblast invasion and isa serum biomarker for preedampsia[J].American Jof Path,2013,183(5): 1437-45.   
+[30]Fu GD,Ye G,Nadeem L,et al. MicroRNA-376c impairs transforming growth factor-beta and nodal signaling to promote trophoblast cell proliferation and invasion[J].Hypertension,2013,61(4): 864.   
+[31]Xu P, Zhao YY,Liu M,et al. Variations of MicroRNAs in human placentasandplasmafrompreeclampticpregnancy[J]. Hypertension,2014,63(6): 1276-84.   
+[32]Lalevee S,Lapaire O,Buehler M.miR455 is linked to hypoxia signaling and is deregulated in preeclampsia[J]. Cell Death Dis, 2014, 5(7): 46.   
+[33] Sandrim V,Fernandes K,Cavali R.miR-195b is correlated with plasma sFLT-1 levels in preeclampsia[J].Pregnancy Hypertens, 2015,5(1): 60.

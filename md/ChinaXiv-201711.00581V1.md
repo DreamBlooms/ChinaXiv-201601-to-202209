@@ -1,0 +1,186 @@
+断奶应激对幼龄反刍动物免疫系统的影响及其机理张 千」李发弟1.2 李飞1\*（1.草地农业生态系统国家重点实验室，兰州大学草地农业科技学院，兰州 730020；2.甘肃省肉羊繁育生物技术工程实验室，民勤733300)
+
+摘要:断奶初期，幼龄反刍动物的消化和免疫系统等尚未发育完全，断奶应激会导致幼畜体内激素水平及免疫功能改变，引起免疫系统抑制，诱发炎症反应，阻碍幼畜生长发育，增加患病风险。本文从糖皮质激素、免疫细胞、急性期蛋白和相关细胞因子4个方面阐述了断奶应激对幼龄反刍动物免疫系统的影响及其机理，旨在为相关研究提供科学依据。
+
+关键词：幼龄反刍动物；断奶应激；免疫系统；糖皮质激素；细胞因子中图分类号：S816 文献标识码：A 文章编号：
+
+幼龄反刍动物断奶时，亲子纽带关系的破坏、饲料成分及物理形态的改变、社群的重组和外环境的变化[1]，会造成幼畜心理[2]、生理和免疫应激[3]。研究表明，断奶刺激会导致幼畜出现鸣叫、不安、走动频率增加、采食和反刍时间减少[4等行为学改变。由于反刍动物生长早期神经体液调节功能尚不健全，机体稳态易遭受破坏且恢复能力较差，发生应激时会导致幼畜出现心率和血压异常[5]、直肠温度上升等一系列生理变化，严重时会抑制动物的正常生长发育。断奶应激不仅影响固有免疫，也会对动物的体液免疫与细胞调节有显著影响，激素水平和免疫功能的改变会导致自身免疫调节异常[7]。此外，断奶应激与反刍动物呼吸道疾病的发病率及严重程度有关[8-10]。目前，有关反刍动物断奶应激的研究众多，但多集中在生产性能、胃肠道发育和微生物类群方面，免疫功能方面的研究较少，尤其是在分子水平以及作用机理上的研究鲜有报道。本文就断奶应激对幼龄反刍动物免疫系统的影响及其机理作一综述，为明确幼龄反刍动物断奶过程中免疫功能的调节及其作用机制和途径提供理论依据。
+
+收稿日期：2016-01-21
+
+基金项目：国家自然科学基金项目(31501975)；公益性行业(农业)科研专项经费(201503134)；长江学者和创新团队发展计划（IRT13019）  
+作者简介：张千（1990—)，男，内蒙古呼和浩特人，硕士研究生，研究方向为反刍动物营养学。E-mail: zhangqian14 $@$ lzu.edu.cn  
+\*通信作者：李飞，副教授，硕士生导师，E-mail: lfei@lzu.edu.cn
+
+# 1断奶应激对幼龄反刍动物免疫功能的影响
+
+# 1.1降低获得性免疫屏障功能
+
+幼龄反刍动物断奶时，免疫系统发育尚不成熟，适应性免疫尚未完全建立，此时免疫功能主要以固有免疫为主。断奶后，幼畜无法从母乳中获得免疫球蛋白和谷胱甘肽过氧化物酶、溶菌酶等酶类[11-12]，导致获得性免疫屏障功能降低，幼畜抗病能力下降，增加患呼吸道疾病的风险。研究发现，大约 $44 \%$ 的犊牛死亡与断奶时发生的呼吸道疾病有关[8]。因此，增强断奶阶段固有免疫功能是降低幼畜患病风险的关键。
+
+# 1.2 损害免疫系统功能
+
+幼龄反刍动物断奶会导致急性的免疫应激，并引起一系列的生理变化。急性应激还有可能发展成为长期慢性应激，而急性和慢性应激都会影响免疫系统，损害动物健康（图1)。特牛断奶后血液中淋巴细胞数、中性粒细胞数以及红细胞数和血小板数会发生显著变化，但单核细胞数的变化罕见报道[13-20]。O'Loughlin 等[20研究发现犊牛断奶后2d血液中淋巴细胞数由断奶前的 $7 . 2 { \times } 1 0 ^ { 3 } \mathrm { c e l l s } / { \mu } \mathrm { L }$ 下降到 $6 . 8 \times 1 0 ^ { 3 }$ cells/μL，在断奶后11d内持续降低至 $6 . 5 { \times } 1 0 ^ { 3 }$ cellsr $\mu \mathrm { L }$ ，并且在试验期内没有恢复到正常水平；中性粒细胞数在断奶后 $2 4 \mathrm { ~ h ~ }$ 由断奶前的$2 . 3 { \times } 1 0 ^ { 3 }$ cells/μL升高到 $3 . 5 { \times } 1 0 ^ { 3 }$ cells/μL，并在断奶后7d内保持高水平，在断奶后11d恢复到断奶前水平；犊牛断奶后 11d 红细胞数由断奶前的 $1 0 . 6 \times 1 0 ^ { 6 }$ cells/ $\mu \mathrm { L }$ 降低到 $6 . 6 { \times } 1 0 ^ { 6 }$ cellsr $\mu \mathrm { L }$ ；血小板数由断奶前 $8 1 5 . 9 { \times } 1 0 ^ { 6 } ~ \mathrm { c e l l s / \mu L }$ 降低到 $4 9 5 . 6 { \times } 1 0 ^ { 6 }$ cells/uL。同时，断奶应激可以通过改变糖皮质激素水平影响多种细胞因子的分泌，犊牛断奶后血液中白细胞介素1（IL-1）、白细胞介素8（IL-8）、干扰素 $- \gamma$ （IFN-γ）、肿瘤坏死因子 $\cdot a$ （TNF-α）、Toll样受体4（TLR4）、糖皮质激素受体 $\mathfrak { a }$ （GRα）和细胞凋亡因子（如Fas）的基因表达量显著上调，引起全身的炎症反应[20]。此外，糖皮质激素水平的升高会对免疫系统产生抑制作用，增加动物患病的危险。研究发现犊牛断奶后 $2 4 \mathrm { h }$ 血液中糖皮质激素受体（GR）的基因表达量较断奶前升高了3倍，并且在整个试验期内高于正常水平2倍以上[16]，表明断奶应激不仅可以诱导糖皮质激素分泌增加，还可以促进其受体相关基因的表达。正常水平的糖皮质激素对T 淋巴细胞与 $\mathrm { C D 4 ^ { + } }$ 和 $\mathrm { C D 8 ^ { + } }$ T 淋巴细胞的调节功能十分有限[21l，但高水平的糖皮质激素不仅可以限制白细胞发挥免疫学功能，还可以诱导未成熟的T淋巴细胞与B 淋巴细胞过早凋亡，导致胸腺萎缩[22-23]，损害免疫系统功能，在小鼠和犊牛上都有相似的研究报道[24-26]。
+
+![](images/12459113a47bcd8cac129b023fb91c6794ec43e9b86646ed049800b4fc9640f4.jpg)  
+图1应激与免疫功能和健康的关系  
+Fig.1The relationship among stress,immune function and health
+
+2断奶应激对幼龄反刍动物免疫功能影响的机理
+
+# 2.1断奶应激对免疫细胞的影响
+
+# 2.1.1 对细胞因子分泌的影响
+
+断奶应激会通过内部和外部感受器同时刺激动物下丘脑－垂体－肾上腺轴（HPA）引起交感神经兴奋[27]，下丘脑释放促肾上腺皮质激素释放激素（CRH）与血管增压素（VP）并协同调控肾上腺皮质分泌糖皮质激素[28-30]，随后糖皮质激素通过与GR 结合发挥其生物学功能，调节免疫系统（图2)。研究发现，断奶应激通过糖皮质激素抑制犊牛细胞转录因子核因子KB（NFκB）的活性，从而抑制细胞内相关靶基因（IL-1、IL-8、TNF- $\cdot a$ 和 IFN-y 等)的表达[31-32]，阻碍免疫系统对炎症的应答[33-36]。犊牛在接受糖皮质激素处理后，应激引起的促炎性细胞因子 $\begin{array} { r } { I L \mathrm { - } 1 . } \end{array}$ 、白细胞介素6(IL-6）、TNF- $\cdot a$ 和 $I F N { - } \gamma$ 的基因表达量升高会延迟30\~120min[37]， $\mathrm { I F N } { - } \gamma$ 信号通路会被抑制数分钟至 $ { 1 \mathrm { h } ^ { \left[ 3 8 \right] } }$ 。小鼠受到脂多糖刺激后1h促炎性细胞因子表达量明显升高，但促炎性细胞因子的分泌会随着糖皮质激素水平的升高而受到抑制[39]。Goujon 等[40]在糖皮质激素抑制炎症应答信号通路的研究中获得了相似研究结果，表明糖皮质激素可以通过减少炎性细胞因子的分泌减轻炎症反应，但同时对免疫系统产生抑制作用。
+
+心理影响： 对免疫细胞和细胞因子的影响：引起变化 β内啡肽 T细胞 FErI-121增强交感神经功能 树突 单核  
+交兴神 上 IL-101 细胞 细胞 IL-4↑NK刺激下丘脑 B细胞 糖皮质激素 细胞  
+早期生理变化： ACTH x IL-2↓ IFN ↓  
+心吸频率 （促肾上腺皮质激素） 抗体 T胞 X Te细胞 抗  
+能 影响↑ （肾上腺皮质）  
+↑腰高糖素 糖皮质激素  
+特冠区境血张记出现的 H生理变化：肌肉、骨骼蛋白分解出现胰岛素抵抗（IR） ↓ 促状素↓生长激素↑肝脏糖异生 氨基酸 ↑脂肪分解It ↓葡萄糖 游离脂肪酸和甘油
+
+2.2.2对中性粒细胞和淋巴细胞数的影响
+
+断奶应激会导致血液中淋巴细胞数显著下降和中性粒细胞数显著上升[3.13-20]，血液中免疫细胞数量的变化（表1）是断奶应激导致炎症发生的有力证据[41]。血液中淋巴细胞数减少的原因，一方面是糖皮质激素抑制胸腺细胞成熟和分化，诱导淋巴细胞过早凋亡[26]；另一方面是淋巴细胞游离出循环血液，进入发生炎症组织及受感染部位发挥其免疫学功能[42]。然而，当细胞黏附分子 $\mathrm { ~ L ~ }$ 选择素（CD62L）的基因表达量受到糖皮质激素的抑制时，会导致中性粒细胞着边能力变弱，不能黏附于血管壁迁移进入炎症部位[42]，从而引起血液中性粒细胞数的升高。此外，炎症会刺激骨髓中干细胞分化，大量成熟的中性粒细胞进入循环血液也是血液中性粒细胞数上升的原因之一[43]。犊牛断奶后中性粒细胞数会在 $\mathrm { 7 } { \sim } 1 4 \mathrm { d }$ 回到断奶前水平[13,20]，这可能是由于免疫系统具有一定的自我调节能力，当炎症发生后免疫系统会控制炎症反应的程度，避免出现过度的炎症反应对机体造成新的损伤。综上所述，动物对断奶应激有一个适应过程，在这个过程中应激对免疫系统造成的影响是不可避免的。
+
+Table 1Effects of weaning stress on leukocyte number in the blood   
+
+<html><body><table><tr><td>白细胞类型</td><td>影响</td><td>参考文献</td></tr><tr><td>Leukocytes types</td><td>response</td><td>Reference</td></tr><tr><td rowspan="5">总白细胞 Total leukocytes</td><td>→</td><td>Lynch 等[15,17-18]</td></tr><tr><td>↑</td><td>O'Loughlin 等[3,20]</td></tr><tr><td>↑</td><td>Hickey等[13]</td></tr><tr><td>↑</td><td>Kim 等[14]</td></tr><tr><td>←</td><td>O'Loughlin 等[19]</td></tr><tr><td rowspan="5">中性粒细胞 Neutrophils</td><td></td><td></td></tr><tr><td></td><td>O'Loughlin 等[3,19-20]</td></tr><tr><td>→</td><td>Hickey等[13]</td></tr><tr><td></td><td>Kim等[14]</td></tr><tr><td></td><td>Lynch 等[15,17-18]</td></tr><tr><td rowspan="4">淋巴细胞Lymphocytes</td><td></td><td></td></tr><tr><td></td><td>O'Loughlin 等[3,19-20]</td></tr><tr><td></td><td>Hickey等[13]</td></tr><tr><td></td><td>Kim 等[14]</td></tr><tr><td rowspan="4"></td><td></td><td>Lynch 等[15,17-18]</td></tr><tr><td></td><td></td></tr><tr><td></td><td>O'Loughlin 等[3,19-20]</td></tr><tr><td>↑</td><td>Lynch 等[15,17-18]</td></tr></table></body></html>
+
+↑表示升高；表示降低； $$ 表示无显著变化。  
+↑= increase; ↓=decrease; $ =$ no significant change.
+
+# 2.2.3对单核细胞数稳定控制的调节
+
+在断奶应激诱导的炎症反应中，单核细胞率先启动免疫应答，非特异性的吞噬杀伤病原微生物并分泌多种细胞因子，对免疫系统产生广泛的调节作用[42.44]。单核细胞还参与多种抗原加工过程并为T 细胞呈递抗原，其表面黏附分子还可与T 细胞表面的协同刺激分子受体结合，产生协同刺激信号诱导T 细胞的活化，启动免疫应答。但是由于反刍动物的单核细胞表面缺少对应激激素敏感的受体[45],且单核细胞从骨髓进入循环血液后只停留 $3 6 { \sim } 4 8 \mathrm { h }$ ，甚至更短时间便游离出血管进入周围组织器官，导致断奶后单核细胞数的变化很难被观察到，因此在过去的研究中大多忽略了单核细胞的功能。目前，尚不明确断奶应激诱导的免疫应答中是否存在抑制单核细胞分化增殖的因素，今后应对相关的免疫信号通路进行研究，以解答这一问题。
+
+# 2.3断奶后红细胞和血小板参与的免疫反应
+
+红细胞和血小板是病理生理反应的敏感指标，通常可以用来确定反刍动物的亚临床疾病[45]。红细胞与血小板具有“血细胞免疫黏附作用”，抗原抗体免疫复合物与表面受体的补体结合后可以黏附于红细胞或血小板表面，后被巨噬细胞一同吞噬，这可能是断奶应激导致血液中红细胞数和血小板数减少的主要途径。此外，红细胞具有呈递抗原和增强 T 细胞活性等免疫学功能，其细胞表面附着有过氧化物酶，可以直接杀伤病原微生物，本身也具有一定的吞噬能力[46]。血小板还具有调节免疫应答和炎症反应的功能[47-49]，当抗原抗体免疫复合物黏附于血小板表面时，血小板功能发生改变，伸出树突附着于血管壁并发生黏性形变，最终导致血管壁出现炎性损伤[50]。
+
+# 2.4断奶应激与血浆葡萄糖和胰岛素浓度异常
+
+一些研究发现犊牛断奶后血浆中葡萄糖浓度显著升高，这可能是应激引起的儿茶酚胺和糖皮质激素分泌增加导致肝糖原分解造成的[51]。但另一项研究发现，特牛断奶后2d血浆葡萄糖浓度由断奶前的 $3 . 2 \mathrm { m m o l / L }$ 升高到3.7mmol/L，并且在35d的试验期内维持高水平，而血浆皮质醇浓度却没有显著变化[16]，这表明此时动物可能出现了胰岛素抵抗（IR）[52]。断奶应激诱导的炎症反应使胰岛素靶器官对胰岛素的敏感性低于正常水平，引起胰腺的代偿性增生及胰岛素的过量分泌，导致血浆中胰岛素浓度异常升高。持续的炎症反应会使抵抗程度增加，随后胰岛素分泌量逐渐减少，导致血浆中胰岛素浓度降低而葡萄糖浓度升高[53]。此外，由于犊牛断奶后采食量急剧下降，体脂动员增加，导致血浆中甘油三酯浓度降低（35.0mg/dL vs $1 8 . 3 ~ \mathrm { m g / d L }$ ， $\beta$ -羟基丁酸浓度升高（0.29 mmol/Lvs0.39 mmol/L）[16]，非酯化脂肪酸浓度升高，从而增加幼畜酮病的发生几率[54I，这种代谢障碍会直接影响幼龄反刍动物的生长发育和生产性能[55]。断奶后，观测动物血浆葡萄糖和胰岛素浓度，有助于我们通过营养调控的手段缓解断奶应激。
+
+# 2.5断奶应激对急性期蛋白的影响
+
+急性期蛋白（酶、蛋白酶抑制剂、凝固蛋白、纤维蛋白原和转运蛋白等）对免疫系统有调节功能，如激活巨噬细胞和参与组织修复重建等[56-58]。急性期蛋白通常处在相对稳定的状态[59]，断奶应激可增加 IL-1、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和 IL-6 等促炎性细胞因子的分泌，而促炎性细胞因子会刺激肝脏使急性期蛋白的分泌量急剧增加，导致体蛋白质沉积减少，间接影响幼龄反刍动物的生长发育。Arthington 等[60]和 Horadagoda 等[61]提出急性期蛋白可作为判断免疫应激的一个指标。但是，由于目前国际上缺乏统一的判断标准，并且不能排除由肝脏发育和肝脏损伤等因素造成的干扰，所以在相关研究中尚不能确定是否可以使用急性期蛋白作为一个稳定的指标。目前在反刍动物上研究较多的是触珠蛋白和纤维蛋白原[13-14,16-19.60]：犊牛断奶后 2d血浆纤维蛋白原浓度由断奶前的 $4 0 8 ~ \mathrm { { m g / d L } }$ 升高到 $4 5 8 ~ \mathrm { m g / d L }$ ，断奶后21d升高到 $4 9 3 \mathrm { m g / d L }$ 特牛断奶后2d血浆触珠蛋白浓度由断奶前的 $0 . 3 3 ~ \mathrm { m g / d L }$ 升高到 $0 . 4 3 ~ \mathrm { m g / d L }$ ，断奶后14 d升高到 $0 . 7 2 \mathrm { m g / d L }$ ，这2种急性期蛋白的浓度在断奶后35d的试验期内都保持着高水平[16]。但目前各类急性期蛋白与应激反应的联动机制尚不清楚[58]，今后应加强急性期蛋白的分类研究，找出断奶应激启动急性期蛋白表达的免疫信号通路，从机理上解释这一生理变化。
+
+2.6与幼龄反刍动物免疫调节有关的细胞因子的变化
+
+# 2.6.1 IFN-γ
+
+IFN-γ具有抗病毒和免疫调节的作用。犊牛断奶后 $2 4 \mathrm { h }$ 血液中IFN-y的表达量较断奶前升高了近3倍，并在整个试验期内维持在高水平，明显增强了细胞调节的炎症应答[20]。此外，IFN-γ与抗炎因子白细胞介素4（IL-4）之间存在拮抗作用，二者都可以调节T 细胞辅助细胞的分化，其中一种细胞因子的表达上调会导致另一细胞因子的分泌量减少[62]。IFN-γ可通过增强固有细胞免疫，活化中性粒细胞和单核细胞，刺激 $\mathrm { C D 4 ^ { + } T }$ 细胞分化为Th1细胞从而抑制 Th2 细胞分泌 $\mathrm { I L } { - } 4 ^ { [ 6 3 ] }$ ，增强炎症反应，损害动物健康。目前在幼龄反刍动物断奶应激的研究中针对IFN-γ 的报道较少，这可能成为今后研究幼龄反刍动物免疫调节的新方向。
+
+# 2.6.2 白细胞介素
+
+白细胞介素在断奶应激引起的炎症反应和免疫调节中起重要作用，如IL-8被认为是非常重要的中性粒细胞分化诱导物。特牛断奶后 $2 4 \mathrm { ~ h ~ }$ 血液中IL-8的表达量较断奶前升高了2倍[20]，这也从另一个角度解释了断奶后中性粒细胞数显著升高的原因。在炎症反应中，IL-8表达量升高最早出现于发生炎症部位的巨噬细胞中，意味着应激引起炎症的发生可能早于断奶后 $2 4 ~ \mathrm { h } ^ { [ 6 4 ] }$ 。因此，在今后的研究中有必要在断奶后更短的时间内对相关细胞因子的变化进行观察。
+
+# 2.6.3 肿瘤坏死因子和细胞凋亡因子
+
+断奶应激会导致TNF- $\cdot a$ 和Fas 的表达量上调。O'Loughlin 等[20]研究发现，犊牛断奶后
+
+24hTNF- $\cdot a$ 的表达量较断奶前显著升高;断奶后 $2 4 \mathrm { h } F a s$ 的表达量比正常水平升高了近4倍，断奶后这2种细胞因子表达量上调的持续时间可能长于预期。TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 主要介导急性炎症应答，在断奶应激诱导的炎症反应中 TNF $\mathbf { \nabla } \cdot \mathbf { a }$ 起到了关键作用[65]。TNF- $\mathbf { \alpha } _ { \mathrm { ~ \normalfont ~ a ~ } }$ 可与靶细胞表面受体结合形成 TNF-R三聚体，诱导胞浆内的死亡结构域形成，随后与死亡域蛋白结合，并激活半胱氨酸天冬氨酸蛋白水解酶，最终促使细胞凋亡。Fas 对细胞凋亡的调控与TNF- $\mathfrak { a }$ 类似，细胞膜表面的Fas 蛋白与其配体结合导致细胞过早凋亡，引起炎症和疾病。IFN-y与 TNF- $\cdot a$ 表达量的上调可增强Fas 在多种细胞中的表达[66]，而Fas 表达量的升高可促进其他促炎细胞因子的分泌，增强炎症反应[67]。此外，在应激诱导的炎症反应中观察到了细胞周期负调控因子（P21）的基因表达量的上调[68-70]，P21通过细胞周期的阻滞作用和激活T淋巴细胞诱导的 Fas 信号通路参与细胞凋亡过程[71-72]。断奶应激加速细胞凋亡的现象，可能是免疫系统对动物生理平衡被破坏做出的反应，而这种现象对动物健康的潜在危害目前尚不清楚，加速细胞凋亡是否会抑制幼龄反刍动物生长发育甚至引起死亡还有待进一步研究。
+
+# 2.6.4Toll样受体家族
+
+Toll样受体家族是参与适应性免疫的重要蛋白质分子，可以在单核细胞、T细胞、B 细胞和自然杀伤（NK）细胞等多种细胞中表达，也是连接固有免疫与适应性免疫的桥梁[73]。TLR4 可识别脂多糖和宿主坏死细胞释放的热休克蛋白[74]，并在抗原呈递和抗体识别过程中起关键的调控作用。犊牛断奶后7d血液中TLR4 的表达量比断奶前升高了2倍[20]，长期慢性应激亦可激活 TLR4 基因使之表达量显著升高[75-76]。研究证实，TLR4 的激活可上调数种促炎细胞因子的表达[77]，TLR4 表达量的升高可能导致严重的炎症反应和慢性疾病[78]，并在非传染性炎症疾病的发生中起着重要作用[79]。Toll样受体引发的炎症反应的持续时间可能长于预期，这意味着断奶后炎症可能会长期存在于动物体内并对动物的健康造成损害。但目前对断奶应激的研究多局限于断奶后 $\tau { \sim } 1 4 \mathrm { d } ^ { [ 3 , 1 5 , 1 8 - 2 0 ] }$ 。因此，在今后的研究中有必要适当延长试验时间，以便更准确地评估断奶对幼龄反刍动物的影响。
+
+# 2.6.5 细胞黏附分子
+
+CD62L对中性粒细胞的着边和向感染部位移动起着关键性作用。CD62L同时参与免疫细胞识别、诱导未致敏淋巴细胞归巢以及多种细胞间附着与信号传导[80]。断奶应激引起的糖皮质激素分泌量的增加会明显抑制 CD62L 基因的表达[15.43.811，CD62L 分泌量减少会直接影响免疫细胞的着边和迁移，使其不能发挥正常的免疫学功能，降低动物的抗病能力。因此，通过营养调控解除CD62L 基因表达的抑制因素，可能是增强断奶幼畜免疫力和抗病力的有效途径。
+
+3小结
+
+幼龄反刍动物断奶后血浆中糖皮质激素浓度升高会影响多种细胞因子的分泌，而细胞因子分泌量的改变是断奶应激引起免疫系统调节异常的主要原因。目前，幼龄反刍动物断奶应激的研究多集中于器官发育和生产性能，对免疫系统功能和动物健康的研究较少，且研究多局限于激素与细胞水平。今后需要进一步从激素、免疫细胞和细胞因子3个水平对断奶应激影响免疫系统的机制进行研究，为通过营养调控手段缓解断奶应激和保障动物健康提供科学依据。
+
+致谢：感谢兰州大学草地农业科技学院刘婷博士对论证撰写的指导。   
+参考文献   
+[1]ENRIQUEZ D,HOTZEL M J,UNGERFELD R.Minimising the stress of weaning of beef calves:a review[J].Acta Veterinaria Scandinavica,2O11,53(1):28.   
+[2]GREENWOOD P L,CAFE L M.Prenatal and pre-weaning growth and nutrition of cattle:long-term consequences for beef production[J].Animal,20o7,1(9):1283-1296.   
+[3]O'LOUGHLIN A,MCGEE M,DOYLE S,et al.Biomarker responses to weaning stress in beef calves[J].Research in Veterinary Science,2014,97(2):458-463.   
+[4]LAMBERTZ C,FARKE-ROVER A,GAULY M.Effects of sex and age on behavior and weight gain in beef calves after abrupt weaning[J].Animal Science Journal,2O15,86(3):345-350. [5]OBRIST P A,GAEBELEIN C J,TELLER E S,et al.The relationship among heart rate,carotid dP/dt,and blood pressure in humans as a function of the type of stress[J].Psychophysiology,1978,15(2):102-115.   
+[6]GREENWOOD P L,CAFE L M,HEARNSHAW H,et al.Consequences of nutrition and growth retardation early in life for growth and composition of catle and eating quality of beef[J].Recent Advances in Animal Nutrition in Australia,2Oo5,15:183-195.   
+[7]HULBERT L E,COBB C J,CARROLL J A,et al.The effects of early weaning on innate
+
+immune responses of Holstein calves[J].Journal of Dairy Science,2O11,94(5):2545-2556.
+
+[8]CALLAN R J,GARRY F B.Biosecurity and bovine respiratory disease[J].Veterinary Clinics of North America:Food Animal Practice,2002,18(1):57-77.   
+[9]DUFF G C,GALYEAN M L.Board-invited review:recent advances in management of highly stressed,newly received feedlot cattle[J].Journal of Animal Science,2007,85(3):823-840. [10]SNOWDER G.Genetics,environment and bovine respiratory disease[J].Animal Health Research Reviews,2009,10(2):117-119.   
+[11] NOCEK J E,BRAUND D G,WARNER R G.Influence of neonatal colostrum administration,immunoglobulin,and continued feding of colostrum on calf gain,health,and serum protein[J].Journal of Dairy Science,1984,67(2):319-333.   
+[12]XU R J.Development of the newborn GI tract and its relation to colostrum/milk intake:a review[J].Reproduction Fertility and Development,1996,8(1):35-48.   
+[13]HICKEY M C,DRENNAN M,EARLEY B.The effect of abrupt weaning of suckler calves on the plasma concentrations of cortisol,catecholamines,leukocytes,acute-phase proteins and in vitro interferon-gamma production[J].Journal of Animal Science,2003,81(11):2847-2855. [14]KIM M H,YANG J Y,UPADHAYA S D,et al.The stress of weaning influences serum levels of acute-phase proteins,iron-binding proteins,inflammatory cytokines,cortisol,and leukocyte subsets in Holstein calves[J].Journal of Veterinary Science,2011,12(2):151-157.   
+[15]LYNCH E M,EARLEY B,MCGEE M,et al.Effect of abrupt weaning at housing on leukocyte distribution,functional activity of neutrophils,and acute phase protein response of beef calves[J].BMC Veterinary Research,2010,6(1):39.   
+[16]LYNCH E M,EARLEY B,MCGEE M,et al.Characterisation of physiological and immunological responses in beef cows to abrupt weaning and subsequent housing[J].BMC Veterinary Research,2010,6(1):37.   
+[17]LYNCH E M,MCGEE M,DOYLE S,et al.Effect of post-weaning management practices on physiological and immunological responses of weaned beef calves[J].Irish Journal of Agricultural and Food Research,2011,50(2):161-174.
+
+[18] LYNCH E M,MCGEE M,DOYLE S,et al.Effect ofpre-weaning concentrate supplementation on peripheral distribution of leukocytes,functional activity of neutrophils,acute phase protein and behavioural responses of abruptly weaned and housed beef calves[J].BMC Veterinary Research,2012,8(1):1.
+
+[19]O'LOUGHLIN A,LYNN D J,MCGEE M,et al.Transcriptomic analysis of the stress response to weaning at housing in bovine leukocytes using RNA-seq technologylJ].BMC Genomics,2012,13(1):250.   
+[20]O'LOUGHLIN A,MCGEE M,WATERS S M,et al.Examination of the bovine leukocyte environment using immunogenetic biomarkers to assess immunocompetence following exposure to weaning stress[J].BMC Veterinary Research,2011,7(1):45.   
+[21]PAZIRANDEH A,XUE Y,PRESTEGAARD T,et al.Effects of altered glucocorticoid sensitivity in the T cell lineage on thymocyte and T cell homeostasis[J].The FASEB Journal,2002,16(7):727-729.   
+[22]BOMMHARDT U,BEYER M,HUNIG T,et al.Molecular and cellular mechanisms of T cell development[J].Cellular and Molecular Life Sciences CMLS,2004,61(3):263-280.   
+[23] FRAKER P J,KING L E.Reprogramming of the immune system during zinc deficiency[J].Annual Review of Nutrition,2004,24(1):277-298.   
+[24]BIOLATTI B,BOLLO E,CANNIZZO F T,et al.Effects of low-dose dexamethasone on thymus morphology and immunological parameters in veal calves[J].Journal of Veterinary Medicine Series A,2005,52(4):202-208.   
+[25]BISWAS R,ROY T,CHATTOPADHYAY U.Prolactin induced reversal of glucocorticoid mediated apoptosis of immature cortical thymocytes is abrogated by induction of tumor[J].Journal of Neuroimmunology,2006,171(1/2):120-134.   
+[26] RODRIGUES-MASCARENHAS S,FERNANDES DOS SANTOS N,RUMJANEK V
+
+M.Synergistic effect between ouabain and glucocorticoids for the induction of thymic atrophy[J].Bioscience Reports,2006,26(2):159-169.
+
+[27] GLASER R,KIECOLT-GLASER JK.Stress-induced immune dysfunction:implications for health[J].Nature Reviews Immunology,2005,5(3):243-251.
+
+[28]MINTON J E,PARSONS K M.Adrenocorticotropic hormone and cortisol response to Corticotropin-releasingfactorandlysinevasopressininpigs[J].JournalofAnimal Science,1993,71(3):724-729.   
+[29]RIVIER C,VALE W.Interaction of corticotropin-releasing factor and arginine vasopressin on adrenocorticotropin secretion in vivo[J].Endocrinology,1983,113(3):939-942.   
+[30]WATABE T,TANAKA K,KUMAGAE M,et al.Role of endogenous arginine Vasopressin in potentiating corticotropin-releasing hormone-stimulated corticotropin secretion in man[J].The Journal of Clinical Endocrinology & Metabolism,1988,66(6):1132-1137.   
+[31] AUPHANN,DIDONATOJA,ROSETTEC,etal.Immunosuppression by glucocorticoids:inhibition of NF-KB activity through induction of IkB synthesis[J].Science,1995,270(5234):286-290.   
+[32]WRIGHTON C J,HOFER-WARBINEK R,MOLL T,et al.Inhibition of endothelial cell activation by adenovirus-mediated expression of I kappa B alpha,an inhibitor of the transcription factor NF-kappa B[J].Journal of Experimental Medicine,1996,183(3):1013-1022.   
+[33] CONNOR T J,BREWER C,KELLY J P,et al.Acute stress suppresses pro-inflammatory cytokines TNF $\mathbf { \nabla } \cdot \mathbf { a } _ { } $ and IL- $1 \beta$ independent of a catecholamine-driven increase in IL-10 production[J].Journal of Neuroimmunology,2005,159(1/2):119-128.   
+[34]CURTIN N M,BOYLE N T,MILLS K H G,et al.Psychological stress suppresses innate IFN-Yproductionviaglucocorticoidreceptoractivation:reversal bytheanxiolytic chlordiazepoxide[J].Brain,Behavior,and Immunity,2009,23(4):535-547.   
+[35] MARX J.Immunology:how the glucocorticoids suppress immunity[J].Science,1995,270(5234):232-233.   
+[36]MELTZER J C,MACNEIL B J,SANDERS V,et al.Stress-induced suppression of in vivo splenic cytokine production in the rat by neural and hormonal mechanisms[J].Brain,Behavior,and Immunity,2004,18(3):262-273.   
+[37] CARROLL J A,ARTHINGTON J D,CHASE C C.Early weaning alters the acute-phase reaction toanendotoxin challengeinbeefcalves[J].Journal of Animal Science,2009,87(12):4167-4172.   
+[38]HU X Y,LI W P,MENG C,et al.Inhibition of IFN-γ signaling by glucocorticoids[J].Journal of Immunology,2003,170(9):4833-4839.   
+[39]JOHNSON J D,O'CONNOR K A,DEAK T,et al.Prior stressor exposure sensitizes LPS-induced cytokine production[J].Brain,Behavior,and Immunity,2002,16(4):461-476.   
+[40]GOUJON E,PARNET P,LAYE S,et al.Stress downregulates lipopolysaccharide-induced expressionofproinflammatorycytokinesinthespleen,pituitary,andbrainof mice[J].Brain,Behavior,and Immunity,1995,9(4):292-303.   
+[41] ZAHOREC R.Ratio of neutrophil to lymphocyte counts--rapid and simple parameter of systemic inflammation and stress in critically ill[J].Bratislavské Lekarske Listy,2001,102(1):5-14. [42] DHABHAR F S.A hasse a day may keep the pathogens away:the fight-or-flight stress responseandtheaugmentationofimmunefunction[J].Integrativeand Comparative Biology,2009,49(3):215-236.   
+[43]TEMPELMAN R J,SAAMA P M,FREEMAN A E,et al.Genetic variation in bovine neutrophil sensitivity to glucocorticoid challenge[J].Acta Agriculturae Scandinavica,Section A-Animal Science,2002,52(4):189-202.   
+[44]SAUL A N,OBERYSZYN T M,DAUGHERTY C,et al.Chronic stress and susceptibility to skin cancer[J].Journal of the National Cancer Institute,2005,97(23):1760-1767.   
+[45]JONES M L,ALLISON R W.Evaluation of the ruminant complete blood cell count[J].Veterinary Clinics of North America:Food Animal Practice,2007,23(3):377-402. [46]EMLEN W,CARL V,BURDICK G.Mechanism of transfer of immune complexes from red blood cel CR1 to monocytes[J].Clinical & Experimental Immunology,1992,89(1):8-17.   
+[47]LAZARUS A H,ELLIS J,SEMPLE J W,et al.Comparison of platelet immunity in patients with SLE and with ITP[J].Transfusion Science,2000,22(1/2):19-27.   
+[48]LIPPI G,FRANCHINI M.Platelets and immunity:the interplay of mean platelet volume in health and disease[J].Expert Review of Hematology,2015,8(5):555-557. [49]WAZNA E.Platelet-mediated regulation of immunity[J].Postepy Higieny I Medycyny Doswiadczalnej,2006,60:265-277.   
+[50] GARRAUDO,COGNASSEF.Plateletimmunologyand the immune response[J].Transfusion Clinique et Biologique,2009,16(2):106-117.   
+[51]MCDOWELL G H.Hormonal control of glucose homoeostasis in ruminants[J].Proceedings of the Nutrition Society,1983,42(2):149-167.   
+[52]SHOELSON S E,LEE J,GOLDFINE A B.Inflammation and insulin resistance[J].Journal of Clinical Investigation,2006,116(7):1793-1801.   
+[53]AKBARI H,DALIR-NAGHADEH B,ASRI-REZAEI S,et al.Experimental hyperlipidemia induces insulin resistance in sheep[J].Domestic Animal Endocrinology,2O15,53:95-102.   
+[54]VOSOOGHI-POOSTINDOZ V,FOROUGHI A R,DELKHOROSHAN A,et al.Effects of different levels of protein with or without probiotics on growth performance and blood metabolite responses during pre- and post-weaning phases in male Kurdi lambs[J].Small Ruminant Research,2014,117(1):1-9.   
+[55]BACH A,DOMINGO L,MONTORO C.et al.Short communication:insulin responsiveness is affected by the level ofmilk replacer offered to young calves[JJ.Journal of Dairy Science,2013,96(7):4634-4637.   
+[56]GODSON D L,BACA-ESTRADA M E,VAN KESSEL A G,et al.Regulation of bovine acute phase responses by recombinant interleukin-1 beta[J].Canadian Journal of Veterinary Research,1995,59(4):249-255.   
+[57] GRUYS E,TOUSSAINT M J,NIEWOLD T A,et al.Acute phase reaction and acute phase proteins[J].Journal of Zhejiang University.Science B,2005,6(11):1045-1056.   
+[58]PETERSEN H H,NIELSEN J P,HEEGAARD P M H.Application of acute phase protein measurements in veterinary clinical chemistry[J].Veterinary Research,2O04,35(2):163-187. [59] CARROLL J A,FORSBERG N E.Influence of stressand nutrition on cattle immunity[J].Veterinary Clinics of North America:Food Animal Practice,2007,23(1):105-149. [60]ARTHINGTON J D,EICHERT S D,KUNKLE W E,et al.Effect of transportation and commingling on the acute-phase protein response,growth,and feed intake of newly weaned beef calves[J].Journal of Animal Science,2003,81(5):1120-1125.   
+[61]HORADAGODA N U,KNOX K M G,GIBBS H A,et al.Acute phase proteins in cattle:discrimination between acute and chronic inflammation[J].Veterinary Record,1999,144(16):437-441.   
+[62]MORINOBU A,KUMAGAI S.Cytokine measurement at a single-cell level to analyze human Th1andTh2cells[J].RinshoByori.TheJapaneseJournalofClinical Pathology,1998,46(9):908-914.   
+[63]BOEHM U,KLAMP T,GROOT M,et al.Celllar responses to interferon-γ[J].Annual Review of Immunology,1997,15(1):749-795.   
+[64]SPORER K R B,BURTON J L,EARLEY B.et al.Transportation stress in young bulls alters expressionofneutrophilgenesimportantfortheregulationofapoptosis,tissue remodeling,margination,and anti-bacterial function[J].Veterinary Immunology and Immunopathology,2007,118(1/2):19-29.   
+[65]BAILEY M T,KINSEY S G,PADGETT D A,et al.Social stress enhances IL- $1 \beta$ and TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ （20 production byPorphyromonasgingivalislipopolysaccharide-stimulated ${ \mathrm { C D } } 1 1 { \mathsf { b } } +$ cells[J].Physiology & Behavior,2009,98(3):351-358.   
+[66]NAGATA S,GOLSTEIN P.The Fas death factor[J].Science,1995,267(5203):1449-1456. [67]KIM J M,KIM S S,LEE Y D.Fas-associated factor 1 promotes in neurofibrillary tangle-mediated cell death of basal forebrain cholinergic neurons in P3O1L transgenic mice[J].Neuroreport,2015,26(13):767-772.   
+[68]SPORER K R B,XIAO L,TEMPELMAN R J,et al.Transportation stress alters the circulating steroid environment and neutrophil gene expression in beef bulls[J].Veterinary Immunology and Immunopathology,2008,121(3/4):300-320.   
+[69]YIN D L,TUTHILL D,MUFSON R A,et al.Chronic restraint stress promotes lymphocyte apoptosis by modulating CD95 expression[J].Journal of Experimental Medicine,2000,191(8):1423-1428.
+
+[70]YIN D L,ZHANG Y,STUART C,et al.Chronic restraint stress modulates expression of genes in murine spleen[J].Journal of Neuroimmunology,2006,177(1/2):11-17.
+
+[71] COQUERET O.New roles for p21 and p27 cell-cycle inhibitors:a function for each cell compartment[J].Trends in Cell Biology,2003,13(2):65-70.   
+[72]HINGORANI R,BIB Y,DAO T,et al.CD95/Fas signaling in T lymphocytes induces the cell cycle control proteinp21cip-/WAF-1,whichpromotesapoptosis[J].TheJournal of Immunol0gy,2000,164(8):4032-4036.   
+[73] GAN L,LI L W.Regulations and roles of the interleukin-1 receptor associated kinases (IRAKs) in innate and adaptive immunity[J].Immunologic Research,2006,35(3):295-302. [74]LEHNARDT S,LACHANCE C,PATRIZI S,et al.The tol-like receptor TLR4 is necessary forlipopolysaccharide-inducedoligodendrocyteinjuryintheCNS[J].Journalof Neuroscience,2002,22(7):2478-2486.   
+[75]ZHANG Y,WOODRUFF M,ZHANG Y,et al.Tol-like receptor 4 mediates chronic restraint stress-induced immune suppression[J].Journal of Neuroimmunology,20o8,194(1/2):115-122. [76]ZHANG Y,ZHANG Y,MIAO J Y,et al.Chronic restraint stress promotes immune suppression through Tol-like receptor 4-mediated phosphoinositide 3-kinase signaling[J].Journal of Neuroimmunology,2008,204(1/2):13-19.   
+[77]SHAHRARA S,PARK C C,TEMKIN V,et al.RANTES modulates TLR4-induced cytokine secretion in human peripheral blood monocytes[J].Journal of Immunol0gy,2006,177(8):5077-5087.   
+[78] LUY C,YEH WC,OHASHI P S.LPS/TLR4 signal transduction pathway[J].Cytokine,2008,42(2):145-151.   
+[79]SEKI E,DE MINICIS S,OSTERREICHER C H,et al.TLR4 enhances TGF- $\cdot \beta$ signaling and hepatic fibrosis[J].Nature Medicine,2007,13(11):1324-1332.   
+[80] KANSASGS.Selectinsand their ligands:current concepts and controversies[J].Blood,1996,88(9):3259-3287.   
+[81] WEBER P S D,TOELBOELL T,CHANG L C,et al.Mechanisms of glucocorticoid-induced
+
+down-regulation of neutrophil L-selectin in cattle:evidence for effects at the gene-expression level and primarily on blood neutrophils[J].Journal of Leukocyte Biology,2004,75(5):815-827.
+
+Effects and Mechanism of Weaning Stress on Immune System in Young Ruminants ZHANG Qian1LIFadi1,2LIFei1\* (1. Key State Laboratory ofAgro-Ecosystems, Collge of Pastoral Agriculture Science and Technology, Lanzhou University, Lanzhou 730o20, China; 2. Biotechnology Engineering Laboratory ofGansu Meat Sheep Breeding,Minqin 7333OO,China) Abstract: The digestive and immune systems have not yet developed completely，when young ruminants were weaned. Weaning stress leaded to adolescent alterations in hormone levels and immune function，which could suppress immune system and cause inflammatory response, consequently restricted their growth and increased the risk of disease in ruminants. In this article the effects and mechanism of weaning stress on the immune system in young ruminants were discussed, focusing on glucocorticoid, immune cell, acute phase proteins and related cytokine, with the aim of providing a scientific basis for the relevant research. Key words: young ruminants; weaning stress; immune system; glucocorticoid; cytokine

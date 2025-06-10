@@ -1,0 +1,242 @@
+# 多巴胺系统基因与母亲教养行为对青少年抑郁的影响：一项多基因研究
+
+曹衍淼 张文新(山东师范大学心理学院，济南 250014)
+
+摘要近年来，伴随着对单基因研究局限性的认识及对“遗传率缺失”的探索，越来越多的研究强调考察抑郁的多基因遗传机制的重要性。本研究对1052名汉族青少年（ $1 2 . 3 1 \pm 0 . 3 7 , 5 0 . 2 \%$ 女生）进行一年的追踪，采用多基因累加得分研究范式考察多巴胺系统基因与母亲教养行为对青少年抑郁的纵向影响及其作用模式。结果发现：（1)多基因累加得分和母亲消极教养正向预测青少年抑郁风险；（2）控制早期抑郁后，多基因累加得分与母亲积极、消极教养交互影响青少年抑郁，在低积极/高消极教养环境中，相比多基因累加得分较低的青少年，多基因累加得分较高的青少年抑郁水平更高;但是在高积极/低消极教养环境中，不同多基因累加得分的青少年抑郁水平无差异。该交互作用模式符合“素质-压力"模型。研究结果为抑郁的多基因遗传基础提供了证据。关键词青少年抑郁；母亲教养行为；多巴胺；多基因累加得分；基因 $\times$ 环境
+
+# 1 问题提出
+
+青少年抑郁障碍的影响因素和发生机制是发展心理病理学的重要热点研究课题。随着分子遗传学的兴起，过去十几年众多研究者从单基因 $\times$ 环境相互作用（ $\mathbf { G } \times \mathbf { E }$ ）的角度，考察了遗传基因对青少年抑郁的影响（e.g.,Xia&Yao,2015）以及基因与环境因素对青少年抑郁的交互作用（e.g.,Cao et al.,2018; Zhang et al.,2015；曹衍淼，王美萍，曹丛，纪林芹，张文新,2017）。尽管单基因研究为理解抑郁的发生机制与个体差异提供了重要启示，但是单基因对青少年抑郁的效应量通常不足 $2 \%$ ，而且研究结果的可重复性较低（e.g.,Dick etal.,2015）。近年来越来越多的证据显示，抑郁具有复杂的多基因遗传结构。譬如，数量遗传学研究以多基因（polygenic）和累加性（additive）假设为基础进行遗传率估计，发现遗传因素能够解释抑郁 $30 \% \sim 7 0 \%$ 的变异（e.g.,Nivard etal.,2015）。伴随着对单基因研究局限性的认识及“遗传率缺失”的探讨，分子遗传学领域的研究者开始采用多基因累加得分及基因 $\times$ 基因交互的方法探索抑郁复杂的多基因遗传机制和作用过程（e.g.,Cao,Lin,Chen,Ji,& Zhang,2018;Stocker et al.,2017）。本研究即采用多基因视角，考察多巴胺（dopamine,DA）系统多基因累加得分与母亲教养对青少年抑郁的影响，并检验该多基因 $\times$ 环境交互模式符合何种理论假说（“素质-压力”模型与“不同易感性”模型），以期丰富抑郁的多基因遗传机制研究。
+
+# 1.1多巴胺系统基因与抑郁：从单基因到多基因研究
+
+依据单胺缺陷假说（monoamine deficiency hypothesis），多巴胺系统功能失调是引发抑郁的重要原因（Belmaker&Agam,2008）。多巴胺系统功能受到多巴胺代谢、转运和传导多个环节的共同影响（Opmeer,Kortekaas,&Aleman,2010）。此外，越来越多的研究显示中脑一边缘多巴胺通路（mesolimbic pathway）和中脑一皮质多巴胺通路（mesocortical pathway）功能缺陷与抑郁密切相关（Dunlop＆Nemeroff,2007）。基于此，在众多多巴胺系统基因中，既参与调节多巴胺代谢、转运和传导，又表达于中脑一边缘、中脑一皮质多巴胺通路中的基因位点受到了研究者的广泛关注。譬如，儿茶酚胺氧位甲基转移酶基因（catechol-O-methyltransferase,COMT）、多巴胺转运体基因（dopamine transporter,DAT1）及D2型多巴胺受体基因（dopamine receptor D2, DRD2）（Cao et al., 2018; Lin et al.,2017; Pinsonneault etal.,2011）。
+
+COMT基因编码的COMT 酶能够降解去甲肾上腺素、肾上腺素、多巴胺等神经递质，降低突触间隙中的多巴胺浓度进而导致抑郁。在众多COMT基因多态性中，多数研究者关注rs4680（Val158Met）多态性与抑郁等心理病理问题的关联，但是研究显示在亚洲样本中，rs6267多态性与COMT酶活性的关联强于rs4680 多态性（Lee etal.,2005）。基于此，本研究重点关注位于22号染色体q11.2区的rs6267多态性。在该多态性中，与T等位基因相比，G 等位基因与更高COMT酶活性有关（Lee etal.,2005），即G等位基因具有较高的多巴胺代谢率进而会导致较低的多巴胺浓度。Lin等（2017）的研究显示，rs6267多态性与帕金森病人的抑郁症状显著相关。
+
+DATI基因编码的多巴胺转运体能够将突触间隙的多巴胺转运再摄取到突触前膜，调节脑内多巴胺含量进而影响抑郁。现有研究主要考察了DATIVNTR多态性，但是在何种等位基因（9R 或10R）与较高的 DAT 表达活性有关上仍存在分歧（e.g.,Costa,Riedel,Müller,Moler,&Ettinger,2011;Heinz et al.,2000）。相比之下，位于5号染色体 p15.33 区的 rs27072多态性表达活性更为稳定，在体内和体外实验中一致发现T等位基因比CC基因型具有更高的表达水平（Pinsonneault etal.,2011）。有关双相障碍的研究显示，在多个重复验证样本中，相比其他基因位点，rs27072 多态性与双相障碍存在稳定关联（Pinsonneault et al.,2011）。
+
+DRD2基因编码的D2型多巴胺受体通过影响中脑边缘系统的多巴胺能活性从而影响罹患抑郁的风险。rs1799978多态性位于11号染色体q2.2-2.3区，是DRD2基因启动子区的一种功能性多态性位点，在-241位置处腺嘌呤(A)置换鸟嘌呤(G)形成两种等位基因(Doehring,Kirchhof,&Lotsch,2009），影响D2受体的表达（Zhang&Malhotra,2011）。尽管尚未有关于rs1799978等位基因功能的直接证据，但是相关研究提示A等位基因可能与更低的多巴胺受体活性（Doehring etal.,2009）及更高的抑郁风险有关（Cao etal.,2018）。具体而言，有关利培酮(通过与D2受体结合产生拮抗作用以减少抑郁、精神分裂症状)的药物研究显示，相比G等位基因，A等位基因或AA基因型携带者在治疗后表现出更好的疗效（Doehring etal.,2009）。这提示，A等位基因可能与较低的D2受体数量相关，较低的D2受体数量可以使得利培酮与受体结合率更高，从而起到更好的疗效。此外，相关研究显示在亚裔样本中，相比其他DRD2多态性，rs1799978 多态性与更好的利培酮疗效有关（Xing et al.,2007），并且与抑郁的关联更强（Cao etal.,2018）。
+
+尽管单基因研究为理解抑郁的发生机制与个体差异提供了重要启示，但是单基因研究的解释率往往极低。造成微弱的遗传解释率的原因之一可能是研究忽视了抑郁的多基因遗传结构（Belsky&Pluess2009）。尤其是，研究显示COMT基因、DATI基因和DRD2基因可能并非独立作用于抑郁，而是存在联合效应。如早期的动物研究发现，在DAT1基因敲除鼠中，COMT 酶含量比未敲除鼠高 $400 \%$ ，D2 受体表达水平下降（Giros,Jaber,Jones,Wightman,&Caron,1996）。这表明COMT基因、DAT1基因和DRD2基因间可能存在联合效应，共同调节多巴胺系统的功能。
+
+近期，研究者通过累加个体携带的易感等位基因条数测量多基因联合效应，即多基因累加得分（multilocus genetic profile score，MGPS）。多基因累加得分方法为抑郁的遗传机制研究提供了一种新的框架，迄今已有研究显示多基因效应比任何单一位点的效应更强（Pearson-Fuhrhop et al.,2014; Vrshek-Schallhorn et al.,2015）。譬如，Pearson-Fuhrhop 等人(2014)依据单胺缺陷假说，考察了影响多巴胺代谢、转运和传导功能的5种DA基因(COMT、DAT1、DRD1、DRD2和DRD3）的多基因累加得分与抑郁症的关联，结果显示无论是在抑郁患者组还是健康对照组，个体携带的风险等位基因（低活性多巴胺等位基因）数量越多，其抑郁水平越高，且相比单个基因位点，多基因累加得分的解释率更高。这提示多基因累加方法能够提供更丰富的遗传信息并且增加遗传解释力。此外，在统计分析方面，多基因累加得分可作为一种连续变量，在检验基因 $\times$ 环境交互作用时更具有统计优势（Dunn etal.,2011）。
+
+# 1.2多基因累加得分与环境因素的交互作用
+
+理论和实证研究显示，多巴胺系统多基因不仅联合影响个体罹患抑郁的风险，并且可能调节个体对环境的敏感性。譬如，生物社会发展模型（biosocial developmental model,BDM）指出，多巴胺含量下降会引发青少年行为趋向系统功能缺陷，增强个体在面对不利环境时的敏感性，导致个体罹患内外化问题的风险提高（Beauchaine,Gatzke-Kopp& Mead,2007）。前额叶晚熟理论认为，边缘系统一前额叶连通性影响个体对环境的敏感性，进而与抑郁情绪密切相关（Andersen&Teicher,2008）。COMT、DAT1和DRD2基因的主要表达脑区分别集中于大脑前额叶区域（Matsumoto etal.,2003）、中脑纹状体及边缘系统区域（Lewis,Melchitzky,Sesack,Whitehead,& Sampson,2001; Noble,Gotschalk,Fallon, Ritchie,& Wu,1997）。因此,作用于边缘系统一前额叶通路的三种基因可能联合调节个体对环境的敏感性进而影响抑郁的发生发展。实证研究也为多巴胺系统多基因累加得分与环境的交互作用提供了初步的证据。如Davies，Cicchetti 和Hentges（2015）的研究显示，在经历母亲消极教养行为时，多基因累加得分较高的青少年比多基因累加得分较低的青少年问题行为更多。关于腹侧纹状体激活水平的研究显示，在面对奖赏信息反馈时，个体携带的低活性多巴胺系统等位基因
+
+（DRD4 基因、DATI基因、DRD2基因和COMT基因）数量越多，则表现出更低的纹状体反应性（Nikolova,Ferrell,Manuck,&Hariri,2011）。
+
+然而，迄今少数几项多巴胺系统多基因累加得分 $\cdot \times$ 环境研究主要关注不利的家庭环境因素，如消极教养（Davies et al.,2015）、产前不利环境（Bischoff etal.,2017）、早期虐待（Coley,Sims,&Carrano,2017）等，尚未有研究关注积极环境的作用。在众多的家庭环境因素中，母亲积极和消极教养行为是影响青少年抑郁的重要预测源。研究显示，母亲的积极教养行为，如温情、支持性的教养行为会促进青少年积极的自我知觉和较好的社会情绪功能，进而降低抑郁的风险（Olino et al.,2016;Wang et al.,2016）。相反，消极教养行为，如拒绝、严厉等会导致青少年形成较差的自我意识和自尊，继而导致较高的抑郁风险（Wang etal.,2016）。因此，本研究的目的之一是综合运用积极和消极教养指标，考察COMT基因、DAT1基因和DRD2基因多基因累加得分与环境的潜在交互作用。
+
+# 1.3 “素质-压力”模型与“不同易感性”模型
+
+多基因累加得分与环境的交互作用模式可能被两种竞争假设所解释：“素质-压力”模型与“不同易感性”模型。前者假设一些心理疾患或行为问题的产生是由于个人携带的风险基因和不利环境的综合结果（Monroe&Simons,1991）；而后者认为，所谓的风险基因事实上是一种遗传可塑性，更具可塑性的个体对消极和积极环境均更加敏感（Belsky&Pluess,2009）。基于这两种竞争模型，研究者对多基因累加得分本质上是一种“累加风险得分”还是“累加可塑性得分”亦存在纷争。
+
+然而问题是，当前的多巴胺系统多基因累加得分研究中所测量的环境指标主要局限于消极环境，尤其是当其取值范围有限时，采用传统回归方法可能无法反映交互作用的全貌，其所验证的“素质-压力”模型可能反映了“不同易感性”模型的一部分（Roisman etal.,2012）。基于此，研究者提出了更为准确的、新兴的统计检验方法—一再参数化回归模型（re-parameterizedregressionmodel），能够从理论假设出发检验“基因 $\times$ 环境”交互作用的形式（Widaman etal.,2012）。因此，本研究的第二个目的是采用新兴的再参数化回归模型验证两种竞争假设。
+
+综上，本研究采用多基因研究视角，考察多巴胺系统基因累加得分（COMT、DAT1 和DRD2）与母亲教养行为对青少年抑郁的影响，主要探讨以下问题：（1）多基因累加得分和母亲教养行为对青少年抑郁的交互作用；（2）对多基因累加得分与母亲教养行为影响抑郁的交互作用形式（“素质-压力”模型vs.“不同易感性”模型）进行检验。
+
+# 2研究方法
+
+# 2.1被试
+
+被试来自国内一项大型追踪项目。该项目最初在山东省济南市的14所小学整群抽取三年级小学生 2261名，在每年第二学期进行一次追踪测查。研究显示，在童年期，抑郁的发生率和严重程度较低（Cole etal.,2002），但是六、七年级（约12\~13岁）是抑郁水平迅速上升的关键期，而之后抑郁水平的增长速度减缓并趋近于成人水平（Cole etal.,2002; Ferro,Gorter,&Boyle,2015;Natsuaki,Biehl,&Ge,2009），因此本研究选择在青少年抑郁快速上升的年龄阶段进行研究。鉴于工作量和研究经费问题，以各学校班级为单位随机抽取部分被试（1086人）进行遗传数据收集。根据Duncan 和Keller（2011）提出的遗传研究统计检验力与样本量需求，当估计遗传效应量在 $1 \%$ 左右时，为获得 $80 \%$ 以上的统计检验力，样本量要保证在600人以上，本研究被试量满足最低样本量要求。具有遗传数据的被试与原始样本在基本研究变量（性别、年龄、抑郁、母亲教养等）上均无显著差异（性别： $\chi ^ { 2 } = 2 . 1 9 , d f { = } 1 , p$ $= 0 . 1 4$ ；母亲受教育水平： $\chi ^ { 2 } = 2 . 8 3 , d f = 2 , p = 0 . 2 4$ ；父亲受教育水平： $\chi ^ { 2 } = 2 . 6 1 , d f { = } 2 , p = 0 . 2 7$ 家庭月收入： $\chi ^ { 2 } = 4 . 8 7 , d f = 2 , p = 0 . 0 9$ ；年龄： $t _ { ( 3 1 8 5 ) } = 0 . 1 2 , p = 0 . 9 1 ; \mathrm { T } 1$ 抑郁: $t _ { ( 3 2 1 8 ) } = 1 . 5 3 , p =$ 0.13;T2 抑郁: $t _ { ( 3 0 7 7 ) } = 0 . 8 0 , p = 0 . 4 3$ ；积极教养: $t _ { ( 3 2 0 6 ) } = - 0 . 9 1 , p = 0 . 3 6$ ：消极教养： $t _ { ( 3 2 0 6 ) } = 0 . 7 6$ $\begin{array} { r }  p = 0 . 4 5 \ \end{array}$ ）。同时，为避免人口分层偏差，本研究仅在汉族被试（1052人）中进行分析，汉族被试与少数民族被试在基本研究变量上亦无显著差异（性别: $\chi ^ { 2 } = 0 . 0 0 , d f = 1 , p = 0 . 9 8$ ，年龄: $t _ { ( 1 0 6 3 ) } = 1 . 4 7$ $p = 0 . 1 4$ ; COMT: $\chi ^ { 2 } = 3 . 7 1$ ， $d f = 2$ $\begin{array} { r } { p = 0 . 1 6 8 } \end{array}$ ; DAT1: $\chi ^ { 2 } = 0 . 5 5 , d f = 2 , p = 0 . 7 6$ DRD2: $\chi ^ { 2 } = 1 . 1 9 , d f \mathrm { = } 2 , p = 0 . 5 5 ; \mathrm { T } 1$ 抑郁: $t _ { ( 1 0 7 2 ) } = 0 . 0 6 , p = 0 . 9 6 ; \mathrm { T } 2$ 抑郁: $t _ { ( 1 0 7 7 ) } = 0 . 4 9 , p = 0 . 6 3$ 积极教养: $t _ { ( 1 0 7 3 ) } = 0 . 3 2 , p = 0 . 7 5$ ；消极教养： $t _ { ( 1 0 7 3 ) } = 0 . 0 3 , p = 0 . 9 7 ;$ ）。最终，本研究被试共1052人，六年级时平均年龄为 $1 2 . 3 1 \pm 0 . 3 7$ 岁，男生524人（ $49 . 8 \%$ ），女生528人（ $50 . 2 \%$ ）。母亲受教育水平在初中及以下者占 $1 1 . 7 \%$ ，高中或中专者占 $2 6 . 5 \%$ ，大专以上者占 $6 1 . 8 \%$ 。父亲受教育水平在初中及以下者占 $8 . 3 \%$ ，高中或中专者占 $20 . 6 \%$ ，大专以上者占 $71 . 0 \%$ 。家庭月收入低于3000元的占 $23 . 2 \%$ ， $3 0 0 0 \sim 6 0 0 0$ 元的占 $47 . 9 \%$ ，高于6000元的占 $2 8 . 8 \%$ 。
+
+# 2.2 研究工具
+
+# 2.2.1 母亲教养行为
+
+采用中文版儿童养育实践问卷（Child-Rearing Practices Report）（Chen,Bian,Xin,Wang,&Silbereisen,2010）测量母亲教养行为，该问卷由母亲报告。采用温情（4个项目，如“我以温和、亲切的态度和孩子说话”）、引导（4个项目，如“当我的孩子遇到什么问题时，我鼓励他（她）把它说出来”）2个维度作为积极教养行为的指标，采用拒绝（4个项目，如“如果我的孩子不来烦我，我就不会理睬她”）作为消极教养行为指标。问卷采用5点记分（0表示完全不符合，4表示完全符合），平均得分越高，则该种教养行为越多。本研究中积极和消极教养行为的Cronbach's $\mathfrak { a }$ 系数分别为0.83和0.54。验证性因素分析显示二因子模型拟合良好 $( \chi ^ { 2 } = 2 2 3 . 5 8 , d f = 5 3 , { \mathrm { R M S E A } } = 0 . 0 6 , { \mathrm { C F I } } = 0 . 9 2 , { \mathrm { T L I } } = 0 . 9 0 )$ 。
+
+# 2.2.2 青少年抑郁
+
+采用儿童抑郁量表（Children's Depression Inventory,CDI; Kovacs,1992）测量青少年抑郁症状。该量表共包含27个项目，要求青少年报告近两周内的抑郁症状，分别采用0、1、2 记分，计算青少年的抑郁均分，得分越高则表明青少年的抑郁症状越多。该量表在正常青少年群体中应用广泛（Zhang etal.,2015），具有良好的测量学特性。本研究中2个时间点青少年抑郁的 Cronbach's $\mathfrak { a }$ 系数均为0.88。验证性因素分析显示T1抑郁 $( \chi ^ { 2 } = 6 9 9 . 3 4 , d f =$ 324, RMSEA $= 0 . 0 3$ ， $\mathrm { C F I } = 0 . 9 5$ $\mathrm { T L I } = 0 . 9 5$ ）和T2抑郁 $( \chi ^ { 2 } = 7 3 6 . 7 2 , d f = 3 2 4$ ,RMSEA $= 0 . 0 4$ CF] $[ = 0 . 9 6$ ， $\mathrm { T L I } = 0 . 9 6$ ）的单因子模型均拟合良好。
+
+# 2.3 研究程序
+
+研究经过本单位伦理委员会审核批准。首先，项目组将问卷测查、唾液样品采集、DNA提取与分型流程等信息告知施测学校、青少年父母及青少年本人，获得三方的知情同意后进行了数据收集。其次，所有施测程序均由经过严格培训的研究生主试完成。
+
+# 2.3.1 问卷施测流程
+
+首先，以班级为单位，采用现场问卷调查的方式测评青少年抑郁症状，每个施测班级由2名经过严格培训并具有丰富施测经验的研究生担任主试，施测结束后问卷当场收回。其次，现场测评后，由青少年将装有母亲教养问卷的信封带回家交由母亲填写，第二天带回交给班主任老师统一回收。
+
+# 2.3.2 唾液样本采集、DNA提取与分型流程
+
+首先，以班级为单位采集青少年的唾液样本，保证每人采集2ml以上。采集唾液样品后，利用 Sequenom（SanDiego,CA,USA）芯片基质辅助激光解吸/电离飞行时间（MALDI-TOF）质谱平台对rs6267、rs27072、rs1799978多态性位点进行DNA提取与基因分型。PCR引物分别为：COMT基因：forward $5 ^ { \circ }$ -ACGTTGGATGTAGGTGTCAATGGCCTCCAG-3',reverse $5 ^ { \circ }$ -ACGTTGGATGTCATGGGTGACACCAAGGAG-3’； DAT1 基因：forward $5 ^ { \circ }$ AGAACACAGTGCCCCTGGG ${ \bf \nabla } \cdot 3 { \bf \sigma } ^ { \mathrm { , } }$ ，reverse $5 ^ { \circ }$ -AAAAACGTCTAACTTCATGCTGTCTG-3'；DRD2基因：forward $5 ^ { \circ }$ AGGAGCTGGAGATGGAGATGCT-3’，reverse $5 ^ { \circ }$ ，ATGCCCATTCTTCTCTGGTTTGGC-3’。PCR 反应条件： $9 4 ^ { \circ } \mathrm { C } \ 1 5 \ \mathrm { m i n }$ ：， $9 4 ^ { \circ } \mathrm { C }$ 20 s, $5 6 ^ { \circ } \mathrm { C } ~ 3 0 ~ \mathrm { s } .$ $7 2 ^ { \circ } \mathrm { C } \mathrm { ~ 1 ~ m i n }$ ，共 45个循环；最终 $7 2 ^ { \circ } \mathrm { C } \ 3 \ \mathrm { m i n }$ 。随后经历单碱基延伸反应，基因分型采用MassARRAYTyper3.4软件系统进行分析。本研究所使用的检测平台和技术具有较高的可靠性（基因分型有效率 $5 9 \%$ ）。
+
+# 2.4 数据处理与分析
+
+首先，对3个基因多态性进行Hardy-Weinberg 平衡检验并考察不同基因间的关联。其次，对3个基因的线性基因效应1和等基因效应进行检验，确定线性基因编码方式是否合适以及单个基因是否存在主导效应（Stocker etal.,2017）。该部分统计分析共检验三个回归模型：分解模型（disaggregated model）包括6个基因主效应（3个基因的显性和隐性基因编码）、6个基因 $\times$ 环境交互效应（即3个基因的显性和隐性基因编码与教养的交互作用）、教养和控制变量的主效应（性别和早期抑郁）共15个参数估计；线性基因效应模型（lineargene effectmodel）用于检验线性基因编码是否合适，将同一个基因的显性和隐性编码回归权重限定相等（6个限定，包括基因主效应和基因 $\times$ 环境交互效应，允许不同基因间的效应存在差异）；等基因效应模型（equalgene effect）将3个基因的效应限定相等（4个限定，包括基因主效应和基因 $\times$ 环境交互效应）。线性基因效应和等基因效应模型的优势在于可以获得模型限定的估计：若线性基因效应相比分解模型有显著的解释率变化则表明至少一个基因存在非线性效应，则该基因不适合0、1、2的线性编码方式，需要调整基因编码方式；若等基因效应模型比线性基因效应模型有明显的解释率变化则表明3个基因的预测强度存在明显差异，至少一个基因存在不同的预测强度或预测方向，可能存在单个基因的主导效应或基因间效应相互抵消，不适合进行累加基因得分研究。第三，采用相关分析考察主要研究变量间的关系。第四，采用分层线性回归考察多基因累加得分与母亲教养行为对青少年抑郁的影响，为避免多重共线性，多基因累加得分和母亲教养行为均进行标准化处理，若基因 $\times$ 环境交互作用显著则进一步进行简单斜率检验。同时，将性别和早期抑郁症状作为控制变量，控制T1抑郁本质上考察了基因与教养对T1到T2抑郁变化的影响。第五，采用再参数化回归（Widamanetal.,2012）检验交互作用符合何种理论模型（“素质-压力”和“不同易感性”）。最后，为验证结果的可靠性进行敏感性分析。敏感性分析分五个方面进行：（1）将每个基因与母亲教养行为对抑郁的交互作用进行检测，比较单基因和多基因结果的显著性差异，（2）将多基因累加得分划分为低、中、高三组，进行分组回归分析验证多基因 $\times$ 环境交互结果。（3）对基因 $\times$ 基因交互效应进行检验，排除基因间交互效应对多基因累加效应的干扰。（4)参照既有研究文献（Caoetal.,2018），将消极教养的项目全部进行反向计分，随后将积极和消极教养（反向计分后）的项目标准化后计算均值作为母亲教养敏感性得分，重复上述分析步骤，用以验证结果的可靠性。为控制I型错误，采用基于FDR（false discovery rate）标准的B-H法对显著性进行统计校正（Benjamini&Hochberg,1995）。（5）控制早期抑郁可能造成低估基因和教养对抑郁的效应，本研究补充考察了多基因累加得分与教养对T1抑郁和 T2 抑郁（不控制T1抑郁）的影响。采用 SPSS 23.0和R3.3.2进行数据处理和统计分析。
+
+# 3 结果
+
+# 3.1三种基因标记的基因型分布
+
+本研究考察的COMT、DAT1、DRD2基因型分布如表1所示，三个位点基因型分布符合Hardy-Weinberg平衡 $\langle \chi ^ { 2 } \mathbf { s } < 1 . 7 4 , d f = 1$ $p \mathrm { s } > 0 . 0 5$ ）。三个基因多态性的次要等位基因分布频率（minor allele frequency,MAF）均大于 $5 \%$ 。此外，三个基因之间不存在显著关联（ $\cdot x ^ { 2 } \mathbf { s }$ $< 2 . 8 4 , d f = 4 , p \mathrm { s } > 0 . 5 8 )$ 。
+
+表1多巴胺系统基因分布情况  
+
+<html><body><table><tr><td rowspan="2">位点</td><td rowspan="2">MAF</td><td rowspan="2">H-W(x2)</td><td colspan="3">携带低活性等位基因数量</td></tr><tr><td>0</td><td>1</td><td>2</td></tr><tr><td>rs6267</td><td>7.9%</td><td>0.07 (p = 0.79)</td><td>GG (891)</td><td>GT (155)</td><td>TT (6)</td></tr><tr><td>rs27072</td><td>23.0%</td><td>1.74 (p = 0.19)</td><td>TT (63)</td><td>CT (357)</td><td>CC (632)</td></tr><tr><td>rs1799978</td><td>18.4%</td><td>0.01 (p = 0.93)</td><td>AA (701)</td><td>AG (315)</td><td>GG (36)</td></tr></table></body></html>
+
+注：MAF代表次要等位基因分布频率，H-W代表Hardy-Weinberg平衡。
+
+# 3.2检验基因标记的不同效应
+
+在计算多基因累加得分前，需确定各基因采用线性编码方式是否合适、是否存在单个基因效应主导多基因累加效应的情况，以及多个基因的效应是否会因为编码方式而相互抵消。本研究基于多巴胺活性进行显性和隐性编码，将低活性多巴胺等位基因编码为风险/易感等位基因。参照既有研究文献（Stocker etal.,2017），进行线性基因和等基因效应模型检验。结果见表2，分解模型的解释率最高，不同模型间 $R ^ { 2 }$ 改变量并不显著。本研究中三个候选基因没有显著偏离线性和等基因效应假设。因此，后续分析中，按照个体携带的低活性多巴胺等位基因数量进行线性（0、1、2）编码，并进行多基因累加得分计算（多基因累加得分分布： $1 = 7$ 人， $2 = 4 3$ 人， $3 = 2 5 9$ 人， $4 = 4 8 7$ 人， ${ \boldsymbol { 5 } } = 2 1 7$ 人， $6 = 3 9$ 人）。
+
+表2线性和等基因效应模型比较  
+
+<html><body><table><tr><td rowspan="2">模型</td><td colspan="2">模型拟合</td><td colspan="2">模型拟合改变量</td></tr><tr><td>R²</td><td>F (df)</td><td>△R²</td><td>F (df) a</td></tr><tr><td>积极教养</td><td></td><td></td><td></td><td></td></tr><tr><td>模型1：分解模型</td><td>0.373</td><td>40.15 (15,1012)</td><td></td><td></td></tr><tr><td>模型2：线性基因效应模型</td><td>0.371</td><td>66.58 (9,1018)</td><td>0.002</td><td>0.69 (6,1012)</td></tr><tr><td>模型3：等基因效应模型</td><td>0.365</td><td>117.63 (5,1022)</td><td>0.006</td><td>2.13 (4,1018)</td></tr><tr><td>消极教养</td><td></td><td></td><td></td><td></td></tr><tr><td>模型1：分解模型</td><td>0.378</td><td>41.04 (15,1012)</td><td></td><td></td></tr><tr><td>模型2：线性基因效应模型</td><td>0.374</td><td>67.49 (9,1018)</td><td>0.005</td><td>1.22 (6,1012)</td></tr><tr><td>模型3：等基因效应模型</td><td>0.370</td><td>120.14 (5,1022)</td><td>0.005</td><td>1.42 (4,1018)</td></tr><tr><td>母亲教养敏感性(补充分析)</td><td></td><td></td><td></td><td></td></tr><tr><td>模型1：分解模型</td><td>0.376</td><td>40.68 (15,1012)</td><td></td><td></td></tr><tr><td>模型2：线性基因效应模型</td><td>0.374</td><td>67.52 (9,1018)</td><td>0.002</td><td>0.63 (6,1012)</td></tr><tr><td>模型3：等基因效应模型</td><td>0.368</td><td>119.27 (5,1022)</td><td>0.006</td><td>2.16 (4,1018)</td></tr></table></body></html>
+
+注：模型1包括6个基因主效应和6个基因 $\times$ 环境交互效应(3个基因的线性和隐性编码)以及控制变量和教养的效应；模型2将同一个基因的显性和隐性编码回归权重限定相等（6个限定），包括基因主效应和基因 $\times$ 环境交互效应;模型3将3个基因对抑郁的主效应和基因×环境交互效应设定为等同（4个限定）。a模型改变 $F$ 值均不显著。
+
+# 3.3 各变量相关分析结果
+
+主要研究变量的平均数、标准差及相关系数见表3。多基因累加得分与积极教养、消极教养行为间均不存在显著相关，排除了基因-环境相关的可能性。多基因累加得分越高（即多巴胺活性越低)则个体罹患抑郁的风险越大，母亲积极教养行为显著负向预测青少年抑郁，母亲消极教养行为显著正向预测青少年抑郁。积极和消极教养行为间存在显著负向关联。青少年间隔一年的抑郁症状间呈中等程度正相关，表明青少年抑郁具有一定的稳定性，配对样本 $t$ 检验显示，T2 抑郁显著高于T1抑郁（ $: t _ { ( 1 0 3 3 ) } = - 5 . 2 9 , p < 0 . 0 0 1 >$ ）。此外，与相关结果相一致，独立样本t检验表明，母亲积极教养与抑郁均不存在显著的性别差异（积极教养:t(1038)
+
+$= 1 . 4 6 , p = 0 . 1 4 ; 7$ T1抑郁： $t _ { ( 1 0 3 8 ) } = - 1 . 8 6 , p = 0 . 0 6 ; \mathrm { T } 2$ 抑郁 $t _ { ( 1 0 4 3 ) } = - 1 . 1 3 , p = 0 . 2 6 )$ ，但是母亲对男生的消极教养行为显著多于女生 $( t _ { ( 1 0 4 0 ) } = - 2 . 5 4 , p = 0 . 0 1 )$ 。
+
+表3描述统计与相关系数表  
+
+<html><body><table><tr><td>变量</td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.性别</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.多基因累加得分</td><td>一</td><td>一</td><td>-0.01</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>3.积极教养</td><td>0.52</td><td>0.64</td><td>-0.05</td><td>-0.01</td><td>1</td><td></td><td></td><td></td></tr><tr><td>4.消极教养</td><td>0.30</td><td>0.43</td><td>0.08*</td><td>0.01</td><td>-0.52***</td><td>1</td><td></td><td></td></tr><tr><td>5.教养敏感性</td><td>-0.00</td><td>0.59</td><td>-0.06*</td><td>-0.01</td><td>0.95***</td><td>-0.76***</td><td>1</td><td></td></tr><tr><td>6.T1抑郁</td><td>0.22</td><td>0.24</td><td>0.06</td><td>0.07*</td><td>-0.15***</td><td>0.17***</td><td>-0.18***</td><td>1</td></tr><tr><td>7.T2抑郁</td><td>0.27</td><td>0.25</td><td>0.03</td><td>0.09**</td><td>-0.12***</td><td>0.17***</td><td>-0.15***</td><td>0.60***</td></tr></table></body></html>
+
+注：M代表了平均值， $S D$ 代表标准差，数字1\~6分别代表了变量一列各个数字后面的变量。$^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 3.4多基因累加得分与母亲教养行为对青少年抑郁的交互作用
+
+以T2 抑郁为因变量，控制T1抑郁和性别，以多基因累加得分、母亲教养行为以及基因 $\times$ 环境交互项为预测变量进行分层回归分析。如表4所示，多基因累加得分和母亲消极教养显著正向预测青少年抑郁，但是母亲积极教养对抑郁的预测作用不显著；控制T1抑郁和性别后，多基因累加得分与母亲积极教养、消极教养交互预测青少年抑郁，且经过B-H 统计校正后结果依然显著。
+
+进一步的简单斜率检验显示，在控制T1 抑郁和性别后，在母亲积极教养行为较低时，具有较高多基因累加得分的青少年比具有较低多基因累加得分的青少年抑郁水平更高（ $b =$ 0.03, $t = 2 . 8 9 , p = 0 . 0 0 4 )$ ，而在母亲积极教养行为较高时，不同多基因累加得分的青少年抑郁水平无显著差异！ $\langle b = - 0 . 0 0 2 , t = - 0 . 2 1 , p = 0 . 8 4 \rangle$ 。与此类似，在母亲消极教养行为较高时，具有较高多基因累加得分的青少年比具有较低多基因累加得分的青少年抑郁水平更高（20 $( b = 0 . 0 3 , t = 3 . 1 8 , p = 0 . 0 0 2 )$ ），而在母亲消极教养行为较低时，不同多基因累加得分的青少年抑郁水平无显著差异（ $b = - 0 . 0 0 3$ $t = - 0 . 4 2$ $p = 0 . 6 8$ ）（详见图1）。
+
+表4多基因累加得分与母亲教养行为对青少年抑郁的影响  
+
+<html><body><table><tr><td></td><td>△R²</td><td>b</td><td>SE</td><td>β</td><td>P</td></tr><tr><td>模型1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.359</td><td>-0.00</td><td>0.01</td><td>-0.01</td><td>0.76</td></tr><tr><td>早期抑郁</td><td></td><td>0.64</td><td>0.03</td><td>0.59***</td><td><0.001</td></tr><tr><td>多基因累加得分（PS)</td><td>0.003</td><td>0.01</td><td>0.01</td><td>0.05*</td><td>0.04</td></tr><tr><td>积极教养</td><td></td><td>-0.01</td><td>0.01</td><td>-0.03</td><td>0.24</td></tr><tr><td>PS×积极教养</td><td>0.003</td><td>-0.01</td><td>0.01</td><td>-0.05*</td><td>0.03</td></tr><tr><td>模型2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.359</td><td>-0.02</td><td>0.01</td><td>-0.01</td><td>0.66</td></tr><tr><td>早期抑郁</td><td></td><td>0.63</td><td>0.03</td><td>0.59***</td><td><0.001</td></tr><tr><td>多基因累加得分（PS)</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.05*</td><td>0.05</td></tr><tr><td>消极教养</td><td></td><td>0.02</td><td>0.01</td><td>0.07**</td><td>0.01</td></tr><tr><td>PS×消极教养</td><td>0.004</td><td>0.01</td><td>0.01</td><td>0.06**</td><td>0.01</td></tr><tr><td>模型3(补充分析)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.359</td><td>-0.00</td><td>0.01</td><td>-0.01</td><td>0.71</td></tr><tr><td>早期抑郁</td><td></td><td>0.63</td><td>0.03</td><td>0.59***</td><td><0.001</td></tr><tr><td>多基因累加得分（PS)</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.05*</td><td>0.04</td></tr><tr><td>教养敏感性</td><td></td><td>-0.01</td><td>0.01</td><td>-0.05</td><td>0.048</td></tr><tr><td>PS×教养敏感性</td><td>0.01</td><td>0.02</td><td>0.01</td><td>0.07**</td><td>0.006</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $\overline { { * * _ { p } < 0 . 0 1 } }$ $\overline { { { } ^ { * * * } p < 0 . 0 0 1 } }$ 。
+
+![](images/c639979e5f2382a8424283c81513d6953871fa9bcc66a100abacf4e2107f6790.jpg)  
+图1多基因累加得分与母亲教养行为对青少年抑郁的影响
+
+如表5所示，本研究分别对积极教养和消极教养模型进行再参数化回归，检验上述交互作用符合何种理论模型（“素质-压力”模型与“不同易感性”模型）。结果显示，无论是积极教养还是消极教养模型，多基因累加得分 $\cdot \times$ 教养的交互作用均符合“素质-压力”模型，详细统计指标分析如下：（1）“素质-压力”模型本身拟合良好（ $\cdot R ^ { 2 } { = } 0 . 3 7 , p { < } 0 . 0 0 1 )$ ；(2)在“不同易感性”模型中，交叉点C的点估计值及其 $9 5 \%$ 置信区间超出了教养行为的取值范围（积极教养： $- 4 . 2 2 \sim 1 . 5 2$ ；消极教养： $- 1 . 3 1 \sim 3 . 7 6$ ；教养敏感性： $- 4 . 1 6 \sim 1 . 6 0 \$ ），这表明基因 $\times$ 环境交互模式不符合“不同易感性”假设。（3） $F$ 检验显示尽管“不同易感性”模型比“素质-压力”模型增加一个参数（C）估计，但“不同易感性”模型的解释率并没有显著高于“素质-压力”模型（ $\Delta R ^ { 2 } \mathrm { s } = 0 . 0 0 , p \mathrm { s } > 0 . 0 5 )$ 。（4）“素质-压力”模型的AIC 和 BIC指标均小于“不同易感性”模型。综上，各参数均表明，“素质-压力”模型对数据的拟合优于“不同易感性”模型，因此本研究中多巴胺系统多基因累加得分与母亲教养行为对青少年抑郁的交互作用更加符合“素质-压力”模型。
+
+表5多基因累加分与父母教养行为对青少年抑郁交互作用的再参数化回归模型检验  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">积极教养行为</td><td colspan="2">消极教养行为</td><td colspan="2">教养敏感性总分(补充分析)</td></tr><tr><td>“不同易感性”</td><td>“素质-压力”</td><td>“不同易感性”</td><td>“素质-压力”</td><td>“不同易感性”</td><td>“素质-压力”</td></tr><tr><td>B1</td><td>-0.00(0.01)</td><td>-0.00(0.01)</td><td>-0.01(0.01)</td><td>-0.01(0.01)</td><td>-0.00(0.01)</td><td>-0.00(0.01)</td></tr><tr><td>B2</td><td>0.64(0.03)***</td><td>0.63(0.03)***</td><td>0.63(0.03)***</td><td>0.62(0.03)***</td><td>0.63(0.03)***</td><td>0.63(0.03)***</td></tr><tr><td>B</td><td>-0.01(0.01)</td><td>-0.01(0.01)</td><td>0.02(0.01)**</td><td>0.02(0.01)**</td><td>-0.01(0.01)*</td><td>-0.01(0.01)*</td></tr><tr><td>B4</td><td>-0.01(0.01)*</td><td>-0.01(0.003)**</td><td>0.01(0.01)*</td><td>0.01(0.003)**</td><td>-0.02(0.01)**</td><td>-0.01(0.003)**</td></tr><tr><td>C</td><td>0.88(0.58)</td><td>1.52(-)a</td><td>-0.77</td><td>-1.31()a</td><td>0.69 (0.41)</td><td>1.60(-)a</td></tr><tr><td>95% CI of C</td><td>[0.03,12.31]</td><td>L</td><td>[-3.79,-0.01]</td><td>L</td><td>[0.03,2.69]</td><td></td></tr><tr><td>R²</td><td>0.37</td><td>0.37</td><td>0.37</td><td>0.37</td><td>0.37</td><td>0.37</td></tr><tr><td>F(df)</td><td>117.63(5,1022)***</td><td>146.93(4,1023)***</td><td>117.97(5,1022)***</td><td>150.04(4,1023)***</td><td>119.25(5,1022)***</td><td>148.48(4,1023)***</td></tr><tr><td>F a vs. b (df)</td><td>1</td><td>0.64(1,1022)</td><td>1</td><td>0.71(1,1022)</td><td>1</td><td>1.92(1, 1022)</td></tr><tr><td>AIC</td><td>-554.82</td><td>-556.18</td><td>-562.81</td><td>-564.09</td><td>-560.06</td><td>-560.13</td></tr><tr><td>BIC</td><td>-520.27</td><td>−526.57</td><td>-528.26</td><td>-534.48</td><td>-525.52</td><td>-530.52</td></tr></table></body></html>
+
+注：模型 $Y _ { \mathrm { \# \# \# \# } } = B _ { 0 } { + } B _ { 1 } { \times }$ 性别 $+ B _ { 2 } \times$ 早期抑郁 $+ B _ { 3 } \times ( X { \ J { \bf \ - s } } _ { \mathcal { U } } - C ) + B _ { 4 } \times ( X { \bf \ - s } _ { \mathcal { U } } { \bf \ - s } _ { \ F } - C ) \times$ 多基因累加得分 $+ E$ ：CI代表置信区间； $F$ a vs.b代表“不同易感性”与“素质-压力”模型之间的 $F$ 检验，以分析减少一个估计参数时模型的 $\Delta R ^ { 2 }$ 是否存在显著变化；a代表该参数限定在指定数值上，如 $C = 1 . 5 2$ 、-1.31、1.60 表示将交叉点 $C$ 固定在积极教养的最大值1.52、消极教养的最小值-1.31处、母亲教养敏感性（积极和消极教养合并分）的最大值1.60 处。$^ { * } p < 0 . 0 5$ $^ { * * } p < 0 . 0 1$ $^ { * * * } p < 0 . 0 0 1$ 。
+
+# 3.5 敏感性分析
+
+为验证上述研究结果的可靠性，本研究进行了敏感性分析。首先，对任何单基因与母亲积极教养、消极教养行为对抑郁的交互作用进行回归分析。结果显示在B-H校正后，除 DATI基因与积极教养行为的交互作用显著外（ $\langle b = - 0 . 0 5 , t = - 2 . 7 8 , p = 0 . 0 0 6 \rangle$ ），任何单基因与教养的交互作用均不显著！ $\langle | b | \mathrm { s } < 0 . 0 4 , | t | \mathrm { s } = - 2 . 2 7 , p \mathrm { s } > 0 . 0 5 \$ ）。这也表明多基因累加得分研究在提高遗传解释率和显著性方面比单基因研究更具优势。
+
+其次，前述分析将多基因累加得分作为连续变量进行分析，由于携带1、2和6个低多巴胺活性等位基因的人数较少，可能影响上述交互作用结果的可靠性。为进一步验证上述结果，本研究对多基因累加得分重新编码进行分组回归检验。将多基因累加得分为1、2、3的青少年编码为低分组，将多基因累加得分为4的青少年编码为中等得分组，将多基因累加得分为5、6的青少年编码为高分组。分组回归分析结果与前述结果相一致，相比低分组和中等得分组，高分组的青少年对母亲积极教养（ $\cdot b = - 0 . 0 4 , t = - 2 . 3 3 , p = 0 . 0 2$ ）和消极教养更加敏感（ $\cdot b = 0 . 0 4 , t = 2 . 6 5 , p = 0 . 0 1$ ）（详见图2）。
+
+0.3 5和6 0.3 ■5和6 0.3 5和64 4 4m L 5 1、2和35  
+0.1 0.1 0.1低积极教养 高积极教养 低消极教养 高消极教养 低教养敏感性 高教养敏感性
+
+图2多基因累加得分与母亲教养行为对青少年抑郁影响的敏感性分析
+
+第三，为了排除基因 $\times$ 基因交互效应的影响，本研究对 $\mathbf { G } \times \mathbf { G } \times \mathbf { G } \times \mathbf { E }$ 效应进行了分析。需要指出的是，采用线性基因编码（0、1、2）的方式会导致每个基因型组合单元格人数限制无法满足统计分析条件。本研究替代性的采用了二分编码方式 $\mathrm { \prime } _ { C O M T : 0 } = \mathrm { G G } , 1 = \mathrm { T } ; D A T I$ $0 = \mathrm { T } _ { ; }$ $1 = \mathrm { C C }$ ; DRD2: $0 = \mathrm { A A }$ ， $1 = \mathbf { G }$ ）进行分析，结果显示任何 $\mathbf { G } \times \mathbf { G }$ ， $\mathbf { G } \times \mathbf { G } \times \mathbf { G }$ ， $\mathbf { G } \times \mathbf { G } \times \$ E， $\mathbf { G } \times \mathbf { G } \times \mathbf { G } \times \mathbf { E }$ 交互效应均不显著（ $| b | s \leq 0 . 2 2 , | t | s \leq 0 . 9 0 , p \geq 0 . 3 7 )$ ），在一定程度上排除了潜在基因 $\times$ 基因效应的干扰。
+
+第四，参照既有研究文献（Caoetal.,2018），将消极教养和积极教养合并后的母亲教养敏感性总分作为环境指标，重复上述统计分析，结果与单独进行积极和消极教养行为的模式一致，只是交互项的显著性和效应量更大（参见表2、表4和表5的补充分析部分）。
+
+第五，补充考察了多基因累加得分和教养对T1抑郁的同时效应，以及对 T2抑郁的纵向效应（不控制T1抑郁）。结果显示，多基因与教养的主效应和显著性提高。但是，除基因与消极教养对T2 抑郁的交互作用显著外，其他基因 $\times$ 环境均不显著（见表6和表7）。
+
+表6多基因累加得分与母亲教养行为对青少年T1抑郁的影响  
+
+<html><body><table><tr><td></td><td>△R²</td><td>b</td><td>SE</td><td>β</td><td>P</td></tr><tr><td>模型1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.003</td><td>0.02</td><td>0.01</td><td>0.05</td><td>0.09</td></tr><tr><td>多基因累加得分（PS)</td><td>0.03</td><td>0.01</td><td>0.01</td><td>0.07*</td><td>0.03</td></tr><tr><td>积极教养</td><td></td><td>-0.03</td><td>0.01</td><td>-0.15***</td><td><0.001</td></tr><tr><td>PS×积极教养</td><td>0.001</td><td>0.01</td><td>0.01</td><td>0.03</td><td>0.27</td></tr><tr><td>模型2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.003</td><td>0.02</td><td>0.01</td><td>0.05</td><td>0.14</td></tr><tr><td>多基因累加得分（PS)</td><td>0.03</td><td>0.01</td><td>0.01</td><td>0.07*</td><td>0.02</td></tr><tr><td>消极教养</td><td></td><td>0.04</td><td>0.01</td><td>0.17***</td><td><0.001</td></tr><tr><td>PS×消极教养</td><td><0.001</td><td>0.00</td><td>0.01</td><td>-0.01</td><td>0.87</td></tr><tr><td>模型3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.003</td><td>0.02</td><td>0.01</td><td>0.05</td><td>0.13</td></tr><tr><td>多基因累加得分（PS)</td><td>0.04</td><td>0.01</td><td>0.01</td><td>0.07*</td><td>0.03</td></tr><tr><td>教养敏感性</td><td></td><td>-0.04</td><td>0.01</td><td>-0.17***</td><td><0.001</td></tr><tr><td>PS×教养敏感性</td><td>0.001</td><td>0.01</td><td>0.01</td><td>0.03</td><td>0.35</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $\overline { { * * _ { p } < 0 . 0 1 } }$ ；\*\* $^ { * } p < 0 . 0 0 1$ 。
+
+表7多基因累加得分与母亲教养行为对青少年T2抑郁的影响 (未控制早期抑郁)  
+
+<html><body><table><tr><td></td><td>△R²</td><td>b</td><td>SE</td><td>β</td><td>P</td></tr><tr><td>模型1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.001</td><td>0.01</td><td>0.01</td><td>0.03</td><td>0.37</td></tr><tr><td>多基因累加得分(PS)</td><td>0.02</td><td>0.02</td><td>0.01</td><td>0.09**</td><td>0.002</td></tr><tr><td>积极教养</td><td></td><td>-0.03</td><td>0.01</td><td>-0.12***</td><td><0.001</td></tr><tr><td>PS×积极教养</td><td>0.001</td><td>-0.01</td><td>0.01</td><td>-0.03</td><td>0.30</td></tr><tr><td>模型2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.001</td><td>0.01</td><td>0.01</td><td>0.02</td><td>0.51</td></tr><tr><td>多基因累加得分（PS)</td><td>0.04</td><td>0.02</td><td>0.01</td><td>0.09**</td><td>0.002</td></tr><tr><td>消极教养</td><td></td><td>0.04</td><td>0.01</td><td>0.17***</td><td><0.001</td></tr><tr><td>PS×消极教养</td><td>0.003</td><td>0.01</td><td>0.01</td><td>0.06*</td><td>0.05</td></tr><tr><td>模型3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>性别</td><td>0.003</td><td>0.01</td><td>0.01</td><td>0.02</td><td>0.45</td></tr><tr><td>多基因累加得分（PS)</td><td>0.03</td><td>0.02</td><td>0.01</td><td>0.09**</td><td>0.002</td></tr><tr><td>教养敏感性</td><td></td><td>-0.04</td><td>0.01</td><td>-0.15***</td><td><0.001</td></tr><tr><td>PS×教养敏感性</td><td>0.002</td><td>-0.01</td><td>0.01</td><td>-0.05</td><td>0.10</td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ $\overline { { * * _ { p } < 0 . 0 1 } }$ $\overline { { p < 0 . 0 0 1 } }$ 。
+
+# 4讨论
+
+本研究采用多基因累加得分研究范式，以三种多巴胺系统基因（COMT基因、DATI基因和 DRD2基因）为遗传指标，考察了母亲教养行为与多基因累加得分对青少年抑郁的影响。结果显示控制早期抑郁后，多基因累加得分显著正向预测青少年抑郁；多巴胺系统多基因累加得分与母亲积极、消极教养均交互预测青少年抑郁，其交互模式均符合“素质-压力”模型。具体表现为，在低积极或高消极教养环境中，多基因累加得分较高的青少年比多基因累加得分较低的青少年抑郁水平更高，但是在高积极或低消极教养环境中，携带不同多基因累加得分的青少年抑郁水平不存在显著差异。
+
+与以往研究（e.g.,Wang etal.,2016）相一致，本研究发现母亲消极教养行为是导致青少年抑郁的风险因素。但是，母亲积极教养对青少年抑郁的影响未达到显著性水平。这可能是由于母亲积极教养和消极教养行为对青少年抑郁的影响存在差异。一方面，积极和消极教养行为对青少年抑郁的作用程度存在差异，如Dallaire 等（2006）的研究发现，消极教养行为对儿童青少年抑郁的预测力更强。另一方面，Smokowski，Bacallao，Cotter 和 Evans（2015）研究进一步揭示，不同类型的教养行为对青少年适应结果的预测作用存在领域特殊性，积极教养可能与积极心理特征的关联更为密切，而对消极适应结果的影响较小，而消极教养行为则是焦虑、抑郁等消极适应结果的关键风险因素。更重要的是，积极和消极教养对青少年抑郁的作用路径可能也存在差异，如Luebbe和Bell（2014）的研究发现消极家庭氛围（包括消极教养行为）和积极家庭氛围（包括积极教养行为）分别通过消极情绪性和积极情绪性间接影响青少年抑郁。由此，未来研究可以增加积极适应结果考察教养与适应结果间的领域特殊性问题。
+
+本研究发现个体携带的多基因累加得分越高(多巴胺系统功能越低)则其抑郁水平越高。这与单胺缺陷假说相一致，多巴胺系统功能的缺陷会增加个体罹患抑郁的风险。更重要的是，本研究为抑郁的多基因遗传结构提供了支持。但是，本研究中多基因联合效应的解释率仍然为 $1 \%$ 左右。这可能提示了抑郁具有复杂的产生和发展机制，本研究所选取的多巴胺系统多基因累加得分也仅能反映其致病因素的冰山一角，研究者应该更加慎重地看待这一结果。此外，研究者应该深入探索多基因影响抑郁的作用机制，如“多基因累加得分 $\times$ 环境”研究等。
+
+从交互作用上来看，在控制早期抑郁后，母亲教养行为与多巴胺系统多基因累加得分交互预测青少年后继抑郁，并且进一步的分析发现，只有在消极环境下（包括低积极教养和高消极教养），多基因累加得分较高的青少年比得分较低的个体具有更高的抑郁风险。再参数化回归分析进一步显示这一交互作用模式更符合“素质-压力”模型。与此结果相一致，前述关于腹侧纹状体活性的研究显示，个体携带的低活性多巴胺系统等位基因越多，则在面对外界刺激时表现出更低的纹状体反应性（Nikolovaet al.,2011）。有关奖赏和惩罚敏感性的研究发现，对奖赏刺激的敏感性与纹状体激活水平呈正向关联，而对惩罚的敏感性与纹状体激活程度呈负向关联（Kim,Yoon,Kim,&Hamann,2015）。这些研究结果提示，携带低活性多巴胺等位基因数量越多的个体具有较低的纹状体激活水平，对社会奖赏刺激（如积极的教养环境）的敏感性较低从而无法在积极的环境中获益，但是其对消极环境刺激的敏感性较高从而增加其抑郁的风险。需要指出的是，这一交互作用模式可能也仅仅描绘了青少年早期阶段多基因 $\times$ 环境的交互作用，当前研究者更倾向于采用动态的视角看待“素质-压力”和“不同易感性”模型（王美萍,2015）。譬如，研究发现多基因累加得分（BDNF基因和5-HTTLPR基因）与家庭环境质量对抑郁的交互作用模式在青少年早期（15岁前）符合“不同易感性”假说，而在青少年中晚期则符合“素质-压力”模型（Dalton,Hammen,Najman,& Brennan,2014）。由此，未来研究应该补充其他年龄阶段的被试或采用追踪设计，深入探索多基因 $\times$ 环境交互作用模式是否具有发展动态性。
+
+虽然本研究中多基因累加得分及其与环境的交互作用解释率仍然很低（ $1 \%$ ），但敏感性分析显示，与单基因相比，多基因累加得分在提高遗传解释率和显著性方面仍然具有一定的优势。值得指出的是，这并不意味着研究者可以为扩大遗传效应而随意增加基因位点数量来计算多基因累加得分。事实上，即便累加了众多 SNP 基因位点，也无法解释抑郁全部的遗传机制，甚至对遗传率的提升甚微。如Peyrot等（2014）采用全基因组关联扫描（GWAS）方法，分别将150\~32870个 SNP 位点纳入多基因累加得分计算，其多基因累加得分及其与童年期虐待的交互作用解释率仅为 $0 . 0 9 \% { \sim } 0 . 9 0 \%$ 。但是，较小的遗传解释率并不意味着它是可以忽视的（Evans,1985）。因此，研究者不能盲目追求解释率的提升而滥用遗传指标。由此，如何选择多基因累加指标成为研究者关注的重点，伴随着越来越多新功能性基因标记的发现，这一问题变得尤为突出。对此，Vrshek-Schallhom 等（2015）指出为了避免数据驱动和滥用的风险，在进行多基因累加效应研究时最好选择同一神经递质系统的基因而不是跨系统的基因,这样有助于探索多基因与内表型之间的关联，进而确定抑郁发生的内部作用机制。
+
+此外，多基因累加得分解释率的限制使得研究者对探索“缺失遗传率”表现出极大的兴趣。Manolio 等（2009）指出遗传率缺失的原因可能包括：第一，大量具有极小效应的基因变体尚未被发现。因此,采用 GWAS 和 GWEIS(genome-wide by environment interaction studies）研究方法探索潜在的功能性基因及潜在的基因 $\times$ 环境交互作用仍然是未来研究的重点方向。第二，研究者应该跳出“常见疾病，常见变体（common disease,common variant）”的固有假设，探索遗传效应较大的罕见基因变体（在人群中的比例低于 $5 \%$ 的基因变体）。第三，现有研究很少测量DNA表达机制，限制了其对表型的遗传解释率。甲基化、组蛋白修饰等表观遗传机制可以在不改变DNA结构的情况下影响基因-表型间的关联。因此，考察多基因累加得分与基因表达水平的变化，可用于探寻其遗传解释率的缺失并更进一步剖析遗传因素的潜在生物机制。第四，多基因累加得分未能检测基因 $\times$ 基因交互作用。在本研究中，受单元格人数限制，采用二分编码方式对基因 $\times$ 基因交互效应进行了检验并在一定程度上证实了多基因累加的可靠性。但是，在未来多基因累加研究中尚需对不同基因间的交互效应保持谨慎。正如Plomin，DeFries，McCleam 和McGuffin（2001）指出多基因遗传模型除了需要考虑不同等位基因效应间的累加效应外，还需要考虑不同基因座的效应彼此间有相互作用的可能性。
+
+本研究采用纵向设计控制早期抑郁，考察多基因累加得分与母亲教养对青少年抑郁的影响。采用这一设计的主要原因是青少年抑郁与母亲教养间通常存在双向关系（Hamza&Willoughby,2011)，即母亲教养不仅影响青少年抑郁，而且也会受到青少年抑郁情绪的影响。由此，如果不控制青少年早期抑郁，教养行为对青少年后继抑郁的影响本质上可能也混杂了早期抑郁对后继抑郁的影响。因此，控制早期抑郁有助于降低母亲教养行为是抑郁症状的结果而不是原因的可能性（Chen,Li,&McGue,2013）。虽然控制早期抑郁会带来一些优势，但也可能会造成基因和环境的效应量和显著性降低。此外，综合考虑控制早期抑郁与不控制早期抑郁的结果，在理解本研究结果时需要注意的是，多基因累加得分与母亲教养的交互作用不能预测T1和T2时间点上绝对水平的抑郁症状，本质上是预测了T1到T2抑郁的变化。
+
+在Petersen 等（2012）的研究中也发现了类似的结果模式，即 $\mathbf { G } \times \mathbf { E }$ 不能预测基线水平的焦虑抑郁症状，但能够显著预测焦虑抑郁的发展变化，尤其是能够解释抑郁随年龄的变化趋势。由此，即使未能发现遗传与环境交互效应对抑郁水平的显著预测作用，也不意味着 $\mathbf { G } \times \mathbf { E }$ 与抑郁发展无关。未来研究应该更深入的考察遗传与环境对抑郁及其发展变化的影响以更深入地揭示此问题。
+
+需要注意的是，本研究也具有一些局限性。第一，本研究缺乏重复验证性样本。近年来，伴随着基因 $\times$ 环境交互作用研究分歧的增多，越来越多的研究者对遗传研究的可重复性问题提出了质疑，并且指出应该采用外部验证样本进行重复检验（Christ,Schwartz,Stoltenberg，Brauer,& Savolainen,2018;Dick et al.,2015）。但是本研究未能具有相同测量工具及相似被试特征的外部验证样本，其结果的可重复性有待未来研究进行验证。第二，多巴胺系统基因众多，本研究仅采用了三个基因多态性考察了多基因遗传基础，未来研究尚需要考察其他候选基因多态性以丰富该领域的研究。第三，本研究中消极教养的信度指标较低，这可能与消极教养的测量题目（4个）较少有关。虽然本研究的验证性分析也保证了其结构效度，但仍需要谨慎的看待本研究结果。此外，本研究仅考察了母亲积极和消极教养行为，未对父亲教养行为进行测量。长期以来，在分子遗传研究领域，研究者往往忽视了父亲、母亲教养行为的差异性及相互影响。据我们所知，目前仅有一项研究比较了多基因累加得分与父亲、母亲教养行为交互作用的不同但未发现显著差异（Stocker etal.,2017）。但是，也有研究显示父亲和母亲教养行为交互影响青少年抑郁（Quach,Epstein,Riley,Falconier,&Fang,2015）。由此，未来研究应该考察父亲、母亲教养行为与遗传因素交互作用的差异，并且关注父亲和母亲教养行为间的相互影响。最后，本研究被试来自城市常态群体青少年，该研究结果能否适用于临床样本或重性抑郁以及社会经济地位较低的青少年群体尚需未来研究的验证。
+
+# 参考文献
+
+Aliev,F.Latendresse,S.Jacau..eae,.C,&Dck,D..().Tstingformeasuredgene-enviomentinteactio Problems withtheuseofross-producttermsandaregressonmodelreparameterzatiosolutionBehaviorGenetics,4,6-181.   
+Andersen,S.L.，&Teicher,M.H(Oo8).Stress,sensitiveperiodsandmaturationaleventsinadolescentdepressionTrendsin Neurosciences,31,183-191.   
+Beauchaine,T.Patzke-KoL&ead,H.K.(O.Plagalteoryddvelopmentalpsyhopathology:Emotiondysreulati and conduct problems from preschool to adolescence.Biological Psychology,74,174-184.   
+Belmaker,R.H.,&Agam,G.(2008).Major depressve disorder.New England JournalofMedicine,358,55-68.   
+Belsk,J&)dsial 135,885-908.   
+Benjamini,,obgY.995).otrlingtlseoryateAaciadowfuchliletl oftheRoyal Statistical Society,SeriesB(Methodological),57,289-300.   
+Bschoff,A.gHyJc betwen fetaladversityandageneticscorereflecting dopaminefunctionondevelopmentaloutcomesat36months.PloSOne,12, e0177344.   
+Cao,C.RilJert.g,er,.8)oso receptor(DRD2)gene,maternal positive parentingandtrajectoriesofdepressve symptoms fromearlytomid-adolescence.Journal ofAbnormal ChildPsychology,46,365-379.   
+Cao,Y.,Li,X,,J,ngW().ateoleraersdoiersprteoatede impactofperrelationshipsonadolescentdepressivesymptoms: Agenegeneenvironmentstudy.JouralofYouthandAdolescence, 47,2468-2480.   
+Chen,X.,Bian,Y,XiWangL,&rese,.K.().eeociaagedearttdesinao Psychologist,15,260-270.   
+Chen,J,LiX,&cGue,.(13).eteracingefectoftVl66etposmdtressulifeeentsoot unarsycniairy,   
+Christ,C.Crtz.rrJ,oJ.)trsi and delinquency:Areplication study.Journal of Contemporary Criminal Justice,34,336-353.   
+Cole,D.A,a,JrtJK.,.zF,saT.L.)dua theemergenceofdepresivesymptomsinchildrenandadolescents:Alongitudinal investigationofparentandchildreports.Jounal ofAbnormal Psychology,1l1,156-165.   
+Coley,R.L.s,J&aroJ.()Eontalisuweighoaegiceticissfooendbefro adolescence through early adulthood.Drug and Alcohol Dependence,l75,106-118.   
+Costa,A.,Riedel,,ulU.,lr,H.J,&inger,U.(l1).elasetngotendratalo transporteravailability:Ameta-analysis ofhumansingle photonemisioncomputed tomographystudies.Synapse,65,998-1005.   
+Dllaire,D.Hed,.lea,JaFgerue.E)elatoiivei parenting to children's depressve symptoms.Journal of Clinical Child&Adolescent Psychology,35,313-322.   
+Dalton,E.D,anC.L,jan,J&eanP.A.(4).eticusetibilttlviot:Vt 5-HTTLPR influence depressive symptoms.Journal of Family Psychology,28, 947-956.   
+Davies,P.Cit,gs.5).ateloiveddsupeprbeteay temperament and dopamine transporter genes.Child Development, 86,63-79.   
+Dick,D..,l.ee.isvF,oeS..K.J.)ateeoci research: Reflections and recommendations.Perspectives on Psychological Science,10,7-59.   
+Doehring,A.Kirchof,A,&Ltsch,J.(o9).GeneticiagnosticsoffunctionalvariantsoftheumandopamineDeeptorgene. Psychiatric Genetics,19,259-268.   
+Duncan,L.E.,&Keler,M.C. ().Aiticalreviewofthefist1yearsofandidategee-byenvironeniteractionesearchin psychiatry.American Journal ofPsychiatry,168,1041-1049.   
+Dunlop,B.W,mrof,C.).oleofomieiepatosigofdeprioArcvesofeneralPatry4, 327-337.   
+Dunn,E.C.,Udin,,ubramanian,S.Vmoler,J.WaleaS.&Koeen,K.C.().esearcheview:Gneot interactioresearchinyouthdepresion-asystematicreviewwithrecommendations forfutureresearchJournalofChildPsychology and Psychiatry,52,1223-1238.   
+Evans,M.G. (1985).AMonteCarlostudyoftheeffectsofcorrelated methodvarianceinmoderatedmultipleregressonaalysis. Organizational Behavior and Human Decision Processes,36,305-323.   
+Ferro,M.A.GorterW,&le,.H.(5).ajectosfepesispmsingthtrastungaduodole of chronic illness.Journal ofAffective Disorders,174,594-601.   
+Giros,B.,Jabe,,.ia,.,o,.99).Hootioddreeoceae in mice lacking the dopamine transporter. Nature,379,606-612.   
+Hamza,C.A.&WillougbyT.(1).Pereivedpaetaloitoringdolesetdsclosure,ndadolesntdepressest:A longitudinal examination.Journal of Youth and Adolescence,40,902-915.   
+Heinz,A.GolnsourrryJG.ebgerD..otefi dopamine transporter availability in human striatum. Neuropsychopharmacology,22,133-139.   
+Kim,S.H.,Yoon,H,Ki,H,&a,S.(5).Iivialdieresinesitivitytwarddpuiseandeciiy during reward and avoidance learning.Social Cognitive and Affective Neuroscience,10,1219-1227.   
+Kovacs,M.(1992). Children's depression inventory(CDI) manual.Toronto,Canada: Multi-Health Systems Inc.   
+Lee,S.G.,JoYK,ngS.H,IogK.).atiorlsmih activity and the risk of schizophrenia in Koreans.Human Genetics,l16,319-328.   
+Lewis,D.A.,elcy.c.d.Eo.)eaeoeacii cerebral cortex:Regional,laminar,andultrastructurallocalzation.JournalofomparativeNeurology43,96.   
+Lin,C.H.,sW.u,(.teo (COMT) genetic variants are associated with pain in Parkinson's disease. Scientific Reports,7, 6306.   
+Luebbe,A.M,&ellDJ4).osiivedgatiotalatedreallypictyouthnietyndepo distinct affective pathways.Journal of Abnormal Child Psychology,42,897-911.   
+Manolio,TAs,o.)s of complex diseases.Nature,461,747-753.   
+Matsumoto,ecert.etaifaca,Je.JE.)eeth (COMT)mexpresiinthedrsoateralprefrontalortexfpatitsithopeia.Neuropscoarmacolgy 1530.   
+Monroe,S.M.&mos,.D.(99l).iathesistressthoriesinecotextofliferssreseach:Impicatiosforteepive disorders.Psychological Bulletin,110,406-425.   
+Natsuaki,M.Nichl,.C,&Ge,X().ajectorodepredodfrarlydolesencetyoungdultod:ectsof pubertal timing and adolescent dating.Journal of Research onAdolescence,19,47-74.   
+Nikolova,Y.Sell.,ck,i,.1.seeoeiig striatum reactivity.Neuropsychopharmacology,36,1940-1947.   
+Nivard,M.Gola.KdK.anK.lVBeseeldCdep in symptoms ofanxietyanddepressionasafunctionofgenotypeandenvironment: Alongitudinal twinstudyfromages3to63years. PsychologicalMedicine,45,1039-1049.   
+Noble,EP,Goalkl,JHiche,,&Wu,J.C.).oeetorlsbial glucosemetabolism.AmericanJournal ofMedical Genetics,74,162-166.   
+Olino,T..,in.celybsE.El.Ei6).atelepsiregdt depresive symptoms: Mediatinandmoderationinashort-temlongitudinalstudy.JournalofClinicalChild&AdolescentPschology
+
+45,279-290. Opmeer,E.M.Korteks,R,&lean,A.().Depressionndtholeofgenesvoediopamine metablsmandiaing Progress in Neurobiology,92,112-133. Pearson-Fuhop,K.,E.Creo,.an.JlcoeG.JeePoa,J(4)oinegeic predicts depressive symptoms in healthy adults and adults with depression.PLoS One,9,e93772. Petersen,IsEtJgeKdi..c)c transporter polymorphism(5-HTTLPR）and stressful lifeeventsinadolescents'trajectoriesof anxious/depressedsymptoms. Developmental Psychology, 48,1463-1475. Peyrot,W.J,l,JD) risk scores on depression in childhood trauma.The British Journal of Psychiatry,205,113-119. Pinsonneault,JKaDrdcK.Etaki,ero.,otra,.Kdee()oamera variantaffecting expresioninumanbrainisassociated withbipolardisorder.Neuropsychopharmacology36,644-1655. Plomin,R.,DeFries,J.C.,McClearn,G.E.,&McGuffin,P.(2001).Behavior Genetics.New York:W.H. Quach,AS.eley.g)ttaddcprsre and depresson symptoms in Chinese adolescents.Journal of Child and Family Studies,24,106-116. Roisman,G.,Newman,D.A.,FraleyR.C.,Haltgan,J.D.Groh,A.M.,&Haydon,K.C.(212).Distingushingdiereial susceptibityfomdiatsisstressecommendatiosforaluatinginteractioectsDevelopmentandsyhopatholog4,8 409. Smokowski,PR,acallo,.Loter,K.L&Evans,C..(5).eectsofpositiveandnegativeparentingpracsn adolescentmentalhealthoutcomes inamulticulturalsmpleofruralyouth.ChildPsychiatry&HumanDevelopment,46,3-345. Stocker,C..aaK.eoaJ.(ig psychologicaladjusment:ongitdinaloderatioydoleets'genticssitivityevelopmentandsyhoptholog8 1304. Vrshek-Schalo,.trod,C,eka,.,bgR.EdamE.KedeiE.E.,se,..(5).diivc fromfive serotoninsystemplymorpismsinteracts withinterpersonaltres topredictdepression.JouralofAbnoralPchology 124,776-790. Wang,C.,Xia,Y,i,,on,.,ushK.&eteso,G(6).aretingbeavsdoesetdepesietod problembehavior:Theroleofself-esteemandschooladjustmentdificultiesamongChineseadolesents.JournalofFamilyIsses, 37, 520-542. Widaman,K.e,strochu,aigs,esyJ)stisgoal interactions.Psychological Methods,17,615-622. Xia,L.&Yao,.(l).iolemtfgesindolesctdepsio:smaticvieFrotieinevialNeuoece, 9,329. Xing,Q.Qian,X,LigSu,eg,GoJ.).erelatiosibtwetraeuticesoeso andthedopamineD2receptorpolymorphismin Chineseschzophreniapatients.InternationalJournalofNeuropsychopharmacology 10,631-637. Zhang,J.P.,&aotra,A.K.(0l1).aracogeneticsndantipsychotics:therapeticcacyandsidefectspredictioExpert Opinion on Drug Metabolism& Toxicology,7,9-37. Zhang,W.,Cao,YWang,.,J,L,hen,L&Deater-Deckard,K.().edopamne2eceptorPolymorhsm(DqA) interactswithmateralparentingipredictingearlyadolescentdepresivesymptoms:Evidenceofdiferentialsusceptibilityndage differences.Journal of Youth and Adolescence,44,1428-1440. Cao,Y.,Wang,CaoC.,Ji,&angW.().eiteractiobetedopaeeceptoreneqpoder victimization on early adolescent depression.Acta Psychologica Sinica,49,28-39. [曹衍淼，王美萍，曹丛，纪林芹，张文新.(2017).DRD2 基因 TaqIA 多态性与同伴侵害对青少年早期抑郁的交互作用．心理学报， 49,28-39.] Wang,M.P.(2015).Theory modelsongene-environment interaction.Advances inPsychological Science,23,1852-1858. [王美萍.(2015).基因-环境交互作用理论模型及其检验方法．心理科学进展,23,1852-1858.]
+
+# The Influence of Dopaminergic Genetic Variants and Maternal Parenting on Adolescent Depressive Symptoms: A Multilocus Genetic Study
+
+CAO Yanmiao; ZHANG Wenxin
+
+School ofPsychology, ShandongNormal University, Jinan 25oo14, China)
+
+# Abstract
+
+For decades, there is increasing evidence for the importance of single-gene by environment interactions $( { \bf G } \times { \bf E } )$ in understanding the etiology of depression. However, several concerns have been raised about the ignoring the polygenic traits of depression when conducting $\mathbf { G } \times \mathbf { E }$ research using single loci. Within this context, the multilocus genetic profile score (MGPS) have recently emerged as an approach of capturing polygenic nature across multiple genes. In line with the monoamine deficiency hypothesis,recent research has begun to show that the combined effects of multiple dopaminergic genetic variants are stronger than the influence of any single gene examined in isolation. Additionally， genes related to the functioning of the dopaminergic system,which coordinates individual's response to stress.However, existing $\mathbf { G } \times \mathbf { E }$ research has largely focused on adverse family environments (i.e., maltreatment, maternal unresponsiveness） and to a lesser extent on positive environment, such as positive parenting. Therefore, the present study aimed to examine the interaction between dopaminergic genetic variants and maternal parenting on adolescent depressive symptoms, by adopting the approach of multilocus genetic profile score.
+
+Participants were 1052 mother-offspring (adolescents mean age $1 2 . 3 1 \pm 0 . 3 7$ years old at the first time point, $5 0 . 2 \%$ females) dyads recruited from the community. Youth completed assessments twice with an interval of one year. Saliva samples, self-reported depressive symptoms and motherreported parenting were collcted. All measures showed good reliability. Genotyping in three dopaminergic genes were performed for each participant in real time with MassARRAY RT software version 3.0.0.4 and analyzed using the MassARRAY Typer software version 3.4 (Sequenom). To examine whether multilocus genetic profile score moderates the effects of parenting on adolescent depressive symptoms and whether this potential moderating effect act in a diathesis-stress or differential susceptibility manner, hierarchical regression analyses were conducted. We also tested above questions by recoding into categorical variables and re-conducted analyses.
+
+The results found that multilocus genetic profile score was a significant risk factor of depression, with higher dopamine genetic risk scores (indicating lower dopaminergic neurotransmission) predicting higher levels of depression. After controlling for gender and prior depressive symptoms, the $\mathbf { G } \times \mathbf { E }$ effect with positive and negative parenting were also significant, suggesting that $\mathbf { G } \times \mathbf { E }$ （20 interaction significantly predicted change in depression level between Time 1 and Time 2. Specifically,adolescents with higher MGPS exhibited higher risk for depression when encountered with lower levels of positive parenting and higher levels of negative parenting, compared to their counterparts with lower MGPS. The results support the diathesis-stress model and highlight the complex ways that genes and environment interact to influence development.
+
+These finding underscores complex polygenic underpinnings of depression and lends support for the mulitlocus genetic profile scores-environment interactions implicated in the etiology of depressive symptoms.
+
+Key words adolescent depresson, maternal parenting, dopamine, multilocus genetic profile score, gene-environment interaction

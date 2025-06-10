@@ -1,0 +1,345 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氧化三甲胺分布特征及其与肠道菌群的关联性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王 珊',夏耿红²,何 彦},廖硕希²,尹 恝²,盛华芳',周宏伟1  \n南方医科大学'公共卫生与热带医学学院环境卫生学系，南方医院神经内科,广东广州 510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的了解中国社区人群氧化三甲胺(TMAO)分布水平,分析TMAO与心脑血管风险因素的相关性及探讨TMAO与肠道菌群关系。方法 研究对象为颈动脉彩超检查无动脉硬化斑块的体检人群，共纳人181例,男96人，年龄30\\~73岁。采集血清标本,运用稳定同位素内标液质联用法检测TMAO。采集粪便标本，通过Ilumina高通量测序检测16S rRNA基因V4可变区，进行肠道菌群检测。采用SPSS分析TMAO与心脑血管疾病相关风险因素相关性,运用QIIME及LEfSe分析肠道菌群,找出与TMAO相关的菌属。结果 健康人群中TMAO中值为 $2 . 6 6 ( 1 . 9 6 { \\sim } 4 . 9 1 ) \\mathrm { \\textmu m o l / L }$ ，呈偏态分布。TMAO不同水平组间传统心脑血管疾病风险因子没有差异，也没有特征性肠道菌群结构。通过统计发现TMAO与BMI及肠道菌群中的梭菌目（Clostridiales)）下属的厌氧孢杆菌属(Anaerosporobacter）、梭菌属（Clostridiales）、考拉杆菌属（Phascolarctobacterium）颤杆菌克属（Oscillibacter)及拟杆菌目（Bacteroidales）下属的Alistipes有相关性。结论中国人群TMAO水平普遍较低,TMAO水平与传统心脑血管疾病风险因子没有显著相关性，不同TMAO水平组间肠道菌群组成没有差异，个别菌属与TMAO水平有相关关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氧化三甲胺；肠道菌群；动脉粥样硬化；BMI",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Distribution characteristics of trimethylamine N-oxide and its association with gut microbiota ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Shan,XIA Genghong,HEYan',LIAO Shuoxi²,YINJia,HENGHuafang',ZHOUHongwei   \nDepartmentofiomentalHygienehoolofublicHalthndopicaledicine，epartmentofurologyafanopit,   \nSouthern Medical University, Guangzhou 51o515,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective Toanalyzethedistributionof trimethylamine N-oxide (TMAO)in healthyadultswith diferentrisk factors and explore its association withgut microbiota.Methods Wecolected fastingblood samplesandfreshfecalsamples from 181 subjectswithout atherogenesis in thecarotid arteries.Plasma TMAO levels of thesubjects weredetermined using stable isotope dilutionliquidchromatography-tandem masspectrometry(LC-MS).ThefecalDNAwas extracted,andhe6S rRNA V4 tags were amplified and sequenced by Ilumina HiSeq 200o.The association between TMAO and clasical cardiovascular risk factors were analyzed. Gut microbial community structure was analyzed with QIIME,and LEfSe was used to identify the biomarkers. Results The median (IQR) TMAO level was 2.66 (1.96-4.91) $\\mu \\mathrm { m o l / L }$ in the subjects. TMAO level was significantlycorelated with bodymass index and operational taxonomicunits (OTU). Individuals with high TMAO levels werefoudentialeslactobcterOilleutdtte Conclusion Chinese subjects have in general low levels of TMAO.TMAO levels are not significantly corelated with the classical cardiovascular risk factors or the gut microbial structures. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key word: trimethylamine-N-oxide; gut microbiota; atherosclerosis; body mass index ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年研究发现，肠道菌群在动脉粥样硬化(AS)的发生进程中发挥了关键作用[。肠道菌群代谢胆碱和卵磷脂（常称为磷脂酰胆碱)时生成三甲胺(TMA)，TMA吸收入血后经肝脏黄素单加氧酶(FMO)催化氧化，产生一种叫做氧化三甲胺(TMAO)的代谢物。血液中TMAO出现令巨噬细胞清道夫受体的上调，巨噬细胞胆固醇累积和泡沫细胞的形成，促进血管斑块的形成[2-3]。调查发现,心血管病病人TMAO水平与健康人存在差异[4],而血液中的TMAO含量较高的受检者，5年内心血管疾病发病比例也较高[5。通过对症状性动脉粥样硬化(AS)患者与健康对照人群中的肠道微生物组进行分析，也发现存在明显的差异。TMAO可能是新的心脑血管疾病风险因子，肠道菌群可以成为治疗和预防动脉粥样硬化新的靶标[2]。随着研究的深入，发现了很多因素影响TMAO生成和代谢，如饮食，肠道菌群[-8],肝脏代谢酶水平[9等。而对于中国人群的TMAO分布水平、TMAO与传统心血管风险因子的作用关系、TMAO与肠道菌群如何进行关联这些问题皆还存疑[10]。TMAO作为一个潜在的心脑血管疾病风险因子及预防、治疗的靶标，还需要进行更多的研究。因此，我们调查了中国人群的TMAO水平分布趋势，采用不同分析方法找寻与TMAO相关因素，作为下一步开展TMAO为心脑血管疾病的生物指标的研究基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所有的研究对象来源于南方医院体检者，纳入要求为颈动脉彩超显示没有动脉硬化斑块。共纳入181例，其中男96人，女85人，年龄30\\~73岁。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 标本收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收取空腹静脉血 ${ 5 } \\mathrm { m L }$ ，常温 $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 抽取上清液保存在 $1 . 5 ~ \\mathrm { m L }$ EP管, $- 4 0 \\ \\mathrm { { ^ circ C } }$ 保存待测。新鲜粪便样品采集后放置 $- 4 0 \\mathrm { { ^ { \\circ } C } }$ 待测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3TMAO检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取血清 $5 0 ~ \\mu \\mathrm { L }$ ，加入 $2 0 0 ~ \\mu \\mathrm { L }$ 内标物 $5 ~ { \\mu \\mathrm { m o l / L } }$ 的d9-TMAO甲醇溶液，涡旋 $1 ~ \\mathrm { m i n }$ 。 $4 \\mathrm { { ^ { \\circ } C } }$ 下 $1 5 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $2 5 \\mathrm { m i n }$ ,取上清液 $2 ~ \\mu \\mathrm { L }$ 进行检测。流动相为 $\\mathbf { A } { : } \\mathbf { B } { = } \\mathbf { \\Gamma }$ $8 0 \\% : 2 0 \\%$ ,流动相A为 $0 . 1 \\%$ 甲酸-水液，流动相B为甲醇。流速： $0 . 5 ~ \\mathrm { m L / m i n }$ ，气体：氮气。质谱条件：离子源：电喷雾电离(ESI)；扫描方式：多反应检测扫描(MultiReactionMonitor,MRM)d9-TMAO $\\mathrm { m / z }$ : 85/66;TMAO$\\mathrm { m } / \\mathrm { z } { \\mathrm { : } } 7 6 / 5 8$ ；正离子模式。所有色谱数据均按照峰面积由Aglient提供的化学工作站计算所得。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4肠道菌群检测与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "粪便DNA提取采用易瑞的粪便DNA提取试剂盒。成功提取的DNA样品针对16SrDNAV4片段，选用上游引I物V4F（GTGTGCCAGCMGCCGCGGTAA)和下游引I物V4R(CCGGACTACHVGGGTWTCTAAT)进行扩增。扩增的PCR产物经过Ilumina HiSeq2000测序仪进行测序（华大基因）。我们采用barcodedIllumina paired-end sequencing(BIPES)QIIME分析流程进行提取和初步处理测序数据，使用UCHIME筛选去除嵌合体[];采用linear discriminant analysis (LDA)coupled with effect sizemeasurements(LEfSe)在线工具寻找组与组之间有统计学差异的Biomarker。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5统计学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床数据的统计分析均采用SPSS20.0进行统计分析,正态性检验后，按照检验结果,分别进行方差分析和独立样本非参数检验。服从正态分布的计量资料用均数(标准差)表示，服从偏态分布的计量资料用中位数（四分位距)表示，计数资料用百分数 $( \\% )$ 表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1TMAO检测方法的建立与验证",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照方法得到的质谱图(图1)可见清晰稳定的峰，峰型对称独立，没有干扰的杂峰，MRM模式下总保留时间 $8 . 9 9 0 \\mathrm { m i n }$ ,TMAO的保留时间是 $8 . 9 9 0 \\mathrm { m i n }$ ,d9-TMAO的保留时间是 $8 . 9 5 2 \\mathrm { m i n }$ ，总分析时间为 $1 1 \\mathrm { m i n }$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1标准曲线加TMAO标准液到血清中，配成浓度分别为8000,4000,2000,1000,500,250,125,62.5,$3 1 . 2 5 , 1 5 . 6 2 5 , 7 . 8 1 2 5 ~ \\mathrm { n g / m L }$ ，以峰面积对浓度进行回归处理后，峰面积与质量浓度成良好的线性关系，回归方程 $y = 0 . 0 0 0 5 x + 0 . 0 7 5 9 , R ^ { 2 } = 0 . 9 9 7 0 ,$ 表明在此浓度范围内该方法测定的TMAO的线性关系良好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2重复性试验选择高、中、低浓度的TMAO样品，分别进样3次，日内变异系数 $( \\mathrm { C V } \\% )$ 为 $1 . 2 3 \\% { \\sim } 4 . 4 6 \\%$ .日间变异系数为 $1 . 7 1 \\% { \\sim } 2 . 7 7 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2人群TMAO水平分布情况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次纳入检测的中国健康人群TMAO均值是$4 . 0 1 { \\scriptstyle \\pm 3 . 9 1 } ~ { \\scriptstyle \\mu \\mathrm { m o l / L } }$ ,中值是 $2 . 6 6 ( 1 . 9 6 , 4 . 9 1 ) \\mathrm { { \\mu m o l / L } \\mathrm { { \\odot } } }$ 整体TMAO水平分布较广，最低水平为 $0 . 1 5 \\mu \\mathrm { m o l } / \\mathrm { L }$ ,最高水平为 $2 1 . 7 8 \\ \\mu \\mathrm { m o l / L }$ (图2)。正态性检验K-S检验结果${ \\cal P } { = } 0 . 0 0 0$ ,即不服从正态分布，整体TMAO水平呈偏态分布,TMAO水平处于 $0 . 1 { \\sim } 4 . 0 0 ~ \\mathrm { \\mu m o l / L }$ 之间的占总体$67 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3TMAO水平与心脑血管疾病相关因素的相关性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究发现，不同TMAO水平的心血管发病率有差异[2],因此将TMAO含量分为4个水平，比较不同水平间的传统心血管风险因子。结果(表1)显示 $4 2 . 5 4 \\%$ 的人TMAO含量处于在最低水平，不同水平间的传统心脑血管风险因子如年龄、高血压史、身体质量指数(BMI)、血压、总胆固醇、甘油三酯、高密度脂蛋白、低密度脂蛋白、血糖、肾功能等都没有明显差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整体人群分布中，对TMAO与各因子进行Spearman相关性检验分析，发现TMAO与BMI有正相关趋势，相关系数是0.156（ $\\scriptstyle P = 0 . 0 4 2 ,$ ，属于弱相关。TMAO与其他因子间未发现相关性 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4TMAO与肠道菌群的关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TMAO4个水平分组下肠道菌群的属水平分布见图3,第一行Group表示分组信息，每个颜色代表一个组，每一格代表一个受试者的样品，纵向为该样品信息;横向为菌属注释，图中左侧的聚类树为物种聚类树；热图通过颜色反映对应的值。由图3看出，不同TMAO水平组间肠道菌群结构没有显著差异。UniFrac是根据进化距离对生物群落结构进行比较，通过对肠道菌群β多样性进行基于非加权UniFrac(unweightedUniFrac)的主成分分析(principal componentanalysis,PCoA),可以反映不同组生物群间落结构的差异。PCoA结果显示",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8449e7fc35dc616f4980f888dec44aad0ae7850004601d9a36312bce06a89c4c.jpg",
+        "img_caption": [
+            "图1 $( A )$ 样品质谱图以及MRM模式下 $( B )$ TMAO和(C)d9-TMAOFig.1Mass spectrogramof sample (A)，TMAO $( B )$ ,and d9-TMAO (C)."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/10adfd9ef2e9a776f5f9d360cdb66ee5841067a66b4bfbde0c5828a9eae400e8.jpg",
+        "img_caption": [
+            "图2TMAO分布趋势 Fig.2 TMAO distribution in human population. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TMAO不同水平间的肠道菌群结构没有出现明显的区分趋势(图4)，对非加权UniFrac距离进行统计分析，4组间没有统计学差异。表明TMAO水平差异没有形成特征性肠道菌群结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LEfSe统计用于查找不同组间的差异菌属(LDASCORE ${ > } 2$ )。TMAO含量最少的水平1和最高的水平4这2组间LEfSe统计的差异菌属如图5所示，不同颜色分别代表在两组内各自富集的菌属：普雷沃菌属(Prevotella）变形菌纲(Deltaproteobacteria)下的脱硫弧菌属(Desulfovibrio）紫单胞菌科(Porphyromonadaceae)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下的丁酸弧菌属(Butyricimonas）,在TMAO水平1组中含量较高；韦荣球菌科(Veillonellaceae)下的施氏菌属(Schwartzia)和蓝藻目下一个未知属(Cyanobacteria.FamilyII.GpIIa)在TMAO水平4组中含量较高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探索与TMAO代谢相关的菌属，将测序结果中16SrRNA序列的相似性大于 $9 8 \\%$ 集合定义为一个分类操作单元(operational taxonomic units,OTU)，相当于每个OTU对应为一个独立的细菌(微生物)种。对TMAO和各OTU进行相关性分析，找到5个与TMAO变化相关的OTU(表2)：与TMAO正相关的分别是梭菌目（Clostridiales）下属的梭菌属(Clostridirales）考拉杆菌属(Phascolarctobacterium）颤杆菌克属(Oscillibacter)和拟杆菌目(Bacteroidales)的Alistipes,负相关的OUT14属于梭菌目(Clostridiales)的厌氧孢杆菌属(Anaerosporobacter)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次研究人群中TMAO中值是2.66(1.96\\~4.91)$\\mathrm { \\mu m o l / L }$ ,整体TMAO水平属于偏态分布,TMAO含量处于较低水平的人较多。普通人群中TMAO最低低水平和最高水平之间相差可达150倍，说明人体的TMAO含量个体间差异较大，与TMAO水平受个体间遗传背景，摄入胆碱量、纤维摄入量等饮食习惯，肝脏FMO酶含量等多因素共同影响相关，进一步可以探究正常人体TMAO水平的波动情况。另外，与美国克利夫兰临床中心人群队列TMAO检测结果3.7（2.4\\~6.2）μmol/L[12]相比，中国人群的TMAO水平较低，可能与西方饮食中摄入红肉量较多有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fec9851e5708e0363d91d48c2f1454580033001c89bd72b6a0cd62c79a57055e.jpg",
+        "table_caption": [
+            "表1TMAO4个水平下心脑血管风险因子的比较 Tab.1 Cardiovascular risk factors in subjects with different TMAO levels "
+        ],
+        "table_footnote": [
+            "Dataareshownas the mean (standarddeviation)if not specifiedotherwise;\"Data shownas median(interquartile range). $^ { * } P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>TMAO, μmol/L</td><td>Total</td><td>Leve11</td><td>2Leve.20</td><td>3L81-6.30</td><td>Level4</td><td>P</td></tr><tr><td>n</td><td>181</td><td>77(42.54%)</td><td>32(17.68%)</td><td>31(17.13%)</td><td>31(17.13%)</td><td></td></tr><tr><td>Males, n%*</td><td>53.04</td><td>54.55</td><td>48.49</td><td>45.16</td><td>61.30</td><td>0.953</td></tr><tr><td>Age</td><td>54.21(7.5)</td><td>54.77(8.73)</td><td>53.79(6.41)</td><td>53.79(6.91)</td><td>54.49(7.94)</td><td>0.956</td></tr><tr><td>BMI</td><td>24.86(3.62)</td><td>24.12(3.88)</td><td>25.93(2.86)</td><td>25.26(3.48)</td><td>25.28(3.40)</td><td>0.167</td></tr><tr><td> SBP, mm Hg</td><td>127.34(17.85)</td><td>126.64(18.28)</td><td>127.89(20.10)</td><td>129.07(17.40)</td><td>129.34(16.19)</td><td>0.802</td></tr><tr><td>TC , mmol/L</td><td>5.15(0.88)</td><td>5.07(0.83)</td><td>5.34(0.90)</td><td>5.37(0.75)</td><td>5.02(1.01)</td><td>0.206</td></tr><tr><td>HDL, mmol/L</td><td>1.18(0.30)</td><td>1.22(0.30)</td><td>1.14(0.23)</td><td>1.13(0.26)</td><td>1.17(0.37)</td><td>0.543</td></tr><tr><td>LDL, mmol/L</td><td>3.23(0.67)</td><td>3.18(0.69)</td><td>3.37(0.65)</td><td>3.36(0.57)</td><td>3.13(0.70)</td><td>0.521</td></tr><tr><td>VLDL, mmol/L</td><td>0.74(0.35)</td><td>0.67(0.27)</td><td>0.83(0.29)</td><td>0.89(0.47)</td><td>0.72(0.39)</td><td>0.050</td></tr><tr><td>TG, mmol/L#</td><td>1.35(1.07)</td><td>1.33(0.98)</td><td>1.75(1.36)</td><td>1.49(2.24)</td><td>1.33(1.05)</td><td>0.249</td></tr><tr><td>GLU, mmol/L#</td><td>5.25(1.67)</td><td>4.82(0.57)</td><td>5.02(1.12)</td><td>5.29(1.58)</td><td>4.81(0.97)</td><td>0.367</td></tr><tr><td>GLU 2 h,mmol/L#</td><td>6.07(2.00)</td><td>5.72(1.82)</td><td>7.04(1.66)</td><td>6.11(2.82)</td><td>6.24(1.97)</td><td>0.127</td></tr><tr><td>Cr, μmol/L</td><td>65.96(19)</td><td>65.81(13.03)</td><td>64.52(12.63)</td><td>63.07(14.79)</td><td>69.85(16.93)</td><td>0.492</td></tr><tr><td>UA, μmol/L</td><td>364.16(92.73)</td><td>355.00(74.56)</td><td>360.72(81.28)</td><td>362.56(108.33)</td><td>398.96(113.48)</td><td>0.215</td></tr><tr><td>TMAO,μmol/L#</td><td>2.66(3.77)</td><td>1.37(0.86)</td><td>2.87(0.52)</td><td>4.60(1.30)</td><td>9.13(6.30)</td><td>0.000*</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d78aec8b61ae1de17d4b257f3cb0836ddd8bd83227d80ed7d976798e01fa5d1.jpg",
+        "img_caption": [
+            "图3TMAO水平肠道菌群结构热图Fig.3Heat map of TMAOLevels."
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1c1004bcc8d270f109fcee4ecae39396de32a97b8b2f0a95affeca440cd5575.jpg",
+        "img_caption": [
+            "图4TMAO 4个水平组β多样性(unweightedUnifrac） Fig.4 $\\beta$ diversity between different levels of TMAO.A: PcoA; B: Comparison of unweighted unifrac distance between level1 and level 4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6176dd2ffc4ebb16ca2dcb2a17a0e7bbc88fbf35328765f07e30fa43194e03f5.jpg",
+        "img_caption": [
+            "图5TMAO水平1和水平4差异菌属 Fig.5 Biomarkers of different levels of TMAO. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/44aae46670b481fd8eedf8857c6889647f85461aef8bed82251010f286fcbb6d.jpg",
+        "table_caption": [
+            "表2TMAO相关的OTUs Tab.2 Correlation between TMAO and OTUs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>OTU</td><td>Genus</td><td>Correlation coeficient (R)</td><td>FDR P</td></tr><tr><td>Denovo14</td><td>Clostridiales;Lachnospiraceae;Anaerosporobacter</td><td>-0.272</td><td>0.012</td></tr><tr><td>Denovo72</td><td>Clostridiales;Clostridia;Clostridiales</td><td>0.271</td><td>0.012</td></tr><tr><td>Denovo15</td><td>Bacteroidales;Rikenellaceae;Alistipes</td><td>0.240</td><td>0.037</td></tr><tr><td>Denovo11</td><td>Clostridiales;Veillonellaceae;Phascolarctobacterium</td><td>0.229</td><td>0.046</td></tr><tr><td>Denovo57</td><td>Clostridiales;Ruminococcaceae;Oscillibacter</td><td>0.223</td><td>0.048</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究报道不同TMAO水平的人群5年内心血管疾病发生率不同[，TMAO含量高与患心血管疾病的风险升高相关，而本次实验发现的TMAO高水平组中传统心血管风险因子与其他水平组间没有出现显著的差异，与文献报道的由高左旋肉碱饮食引起高TMAO水平组小鼠的动脉粥样斑块进展增加时，血糖、脂蛋白、胰岛素和其他生化指标都没有明显变化的结果类似，这提示TMAO对动脉粥样硬化的影响是由另外一个机制起作用的，TMAO独立而且比传统心血管风险因子在更早的阶段提示心血管疾病的风险，可以考虑作为新型心血管疾病的风险因子。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时，不同TMAO水平个体的肠道菌群整体组成没有显著差异，即TMAO水平差异没有形成特征性的肠道菌群结构，无法通过肠道菌群结构推断个体的TMAO水平高低。因此查找不同TMAO水平间的差异菌属，发现与高TMAO水平组相比，TMAO含量最低的人群中丰度较多的菌有以下特性：丁酸弧菌(Butyricimonas)能把葡萄糖转化为丁酸和异丁酸[13],也能生成乙酸、丙酸和琥珀酸等其他类型的短链脂肪酸。这些短链脂肪酸是肠道黏膜细胞的重要能量来源，有助建立修复肠粘膜屏障、抵抗氧化应激反应等，在结肠功能和健康有重要作用[14];普雷沃菌属(Prevotella)具有降解纤维素的能力，被认为和个体高纤维摄入直接相关[15]，与杂食者相比，素食者肠道中普雷沃菌含量较高，而且素食者的血TMAO含量和生成TMAO的能力明显低于非素食者；脱硫弧菌属(Desulfovibrio)可以将食物中的硫酸盐转化为硫化物，其中硫化氢对胃肠道功能具有双重作用，保护胃肠的同时也参与肠道损伤作用，具体作用尚无定论[16-17]。这些菌属具有特定的代谢功能,富含这些菌的个体的TMAO水平较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在单独菌属的分析中发现,梭菌目(Clostridiales)下属的厌氧孢杆菌属（Anaerosporobacter）、梭菌属(Clostridiales）考拉杆菌属(Phascolarctobacterium）颤杆菌克属(Oscillibacter)及拟杆菌目(Bacteroidales)下的Alistipes与TMAO有相关性。其中Clostridiales已报道含有TMAO代谢基因 $\\mathrm { C u t C / D ^ { [ 1 8 ] } }$ ,有报道在通过饮食调节TMAO水平下降时可检测到Clostridiales也显著减少[19]。其他菌属暂时没有与TMAO相关的报道,可作为下一步研究肠道菌群中与TMA生成相关的目标菌",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体而言，本次结果显示中国人群平均TMAO水平较低，个体间TMAO含量差异较大。中国人群的TMAO整体水平低于美国人群的TMAO水平，可能是中西饮食习惯差异的一个反映。TMAO水平与传统心血管风险因子没有显著相关关系，TMAO可能可以更早提示患心血管病风险。目前不能通过16SrDNA高通量测序结果得到的肠道菌群整体构成来推断个体TMAO水平高低，可通过对与TMAO水平相关的菌属的进一步研究，探究肠道菌群与TMAO的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Tang W,Hazen SL.The contributory role of gut microbiota in cardiovascular disease[J].J Clin Invest,2014,124(1O): 4204-11.   \n[2]Wang Z,Klipfell E,Bennett BJ,et al.Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease [J]. Nature, 2011,472(7341): 57-63.   \n[3]Tremaroli V,Backhed F. Functional interactions between the gut microbiotaand host metabolism[J].Nature,2012,489(7415): 242-9.   \n[4]Mente A,Chalcraft K,Ak H,et al. The relationship between Trimethylamine-N-Oxide and prevalent cardiovascular disease in a multiethnic population living in Canada[J].Can J Cardiol, 2O15,31 (9): 1189-94.   \n[5]Tang WH,Wang Z,Levison BS,et al.Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk[J].N Engl J Med,2013,368(17): 1575-84.   \n[6]Zhang AQ，Mitchell SC，Smith RL.Dietary precursorsof trimethylamine in man:a pilot study[J].Food Chem Toxicol,1999, 37(5): 515-20.   \n[7]Koeth RA,Wang ZE,Levison BS,et al.Intestinal microbiota metabolism of L-carnitine,a nutrient in red meat,promotes atherosclerosis[J].Nat Med,2013,19(5): 576-85.   \n[8] BennettBJ，DeAguiarVallim TQ，Wang Z, etal. Trimethylamine-N-oxide,ametabolite associated with atherosclerosis,exhibits complex genetic and dietary regulation[J]. Cell Metab,2013,17(1): 49-60.   \n[9]Warrier M, Shih DM, Burrows AC,et al. The TMAO-Generating enzyme flavin monooxygenase 3isa central regulator of cholesterol balance[J].Cell Rep,2015,10(3): 326-38.   \n[10] Yin J, Liao SX,He Y,et al.Dysbiosis of gut microbiota with reducedTrimethylamine-N-Oxidelevelinpatientswith Large-Artery atherosclerotic stroke or transient ischemic attack[J]. JAm Heart Assoc,2015,4(11).   \n[11]盛华芳,周宏伟.微生微生物组学大数据分析方法、挑战与机遇[J].南 方医科大学学报,2015(7):931-4.   \n[12] Tang WH, Wang Z,Fan Y, et al. Prognostic value of elevated levels of intestinal microbe-generated metabolite trimethylamine-N-oxide in patients with heart failure:refining the gut hypothesis[J].JAm Coll Cardiol,2014,64(18): 1908-14.   \n[13]Sakamoto M,Tanaka Y,Benno Y,et al. Butyricimonas faecihominis sp nov and Butyricimonas paravirosa sp nov.,isolated from human faeces,and emended description of the genus Butyricimonas[J].Int JSyst Evol Microbiol,2014,64(9): 2992-7.   \n[14]Pryde SE,Duncan SH, Hold GL,et al. The microbiology of butyrate formation in the human colon[J].FEMS Microbiol Lett,2002,217 (2): 133-9.   \n[15]Kovatcheva-Datchary P,Nilsson A,Akrami R,et al. Dietary Fiber-Induced improvement in glucose metabolism is associated with increased abundance of prevotella[J].Cell Metab,2O15,22(6): 971-82.   \n[16] Wei ZS,Augusto LA,Zhao LP, et al. Desulfovibrio desulfuricans isolates from the gut of a single individual: Structural and biological lipid A characterization[J].FEBS Lett,2015,589(1): 165-71.   \n[17]郑 雪,毛 华.硫化氢对胃肠道疾病作用的研究进展[J].广东医学, 2014(10): 1629-31.   \n[18]Falony G, Vieira-Silva S,Raes J. Microbiology meets big data: the case of gut Microbiota-Derived trimethylamine ［J].Annu Rev Microbiol,2015,69:305-21.   \n[19]Wang Z,Roberts AB,Buffa JA,et al. Non-lethal inhibition of gut microbialtrimethylamineproduction forthetreatmentof Atherosclerosis[J]. Cell,2015,163(7): 1585-95. (编辑.早锦雅） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,313 @@
+# 地衣芽孢杆菌CP-16脂类水解酶的研究
+
+李爽」张铁鹰1\* 廖朝勇」 梁争文」马霞飞²刘俊丽‘（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.甘肃农业大学动物科学技术学院，兰州730070)
+
+摘要：本试验旨在通过异源表达获得地衣芽孢杆菌（Bacillus licheniformis）CP-16的脂类水解酶，并探究其在羽毛降解过程中的作用。试验以地衣芽孢杆菌CP-16基因组DNA为模板，扩增脂类水解酶基因，转化入大肠杆菌中表达，获得重组酶L-4。研究重组酶L-4的适宜pH、pH稳定性、适宜温度、温度稳定性以及有机溶剂和金属离子对其相对活性的影响，同时探究其对角蛋白酶K水解天然羽毛角蛋白的作用。结果显示，获得的脂类水解酶基因大小为 $7 4 7 \mathrm { b p }$ ，编码 248个氨基酸，在大肠杆菌中成功表达出重组酶L-4，其分子质量约为28.3ku，酯酶活性为 $0 . 4 2 \mathrm { U / m L }$ ，适宜 $\mathsf { p H }$ 为6.5，适宜温度为 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ；在 $\mathrm { p H } 6 . 5 { \sim } 9 . 5$ 条件下处理 $3 0 \mathrm { m i n }$ 相对活性保持 $80 \%$ 以上，在低于 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 温度条件下处理 $3 0 \mathrm { m i n }$ 相对活性保持 $70 \%$ 以上。二价铁离子（ $\mathrm { F e } ^ { 2 + }$ ）、钠离子（ $\mathrm { \Delta N a } ^ { + }$ ）、锰离子（ $\mathrm { M n } ^ { 2 + }$ ）、钙离子（ ${ \mathrm { C a } } ^ { 2 + }$ ）对重组酶L-4相对活性具有激发作用，钡离子（ $\mathrm { B a } ^ { 2 + }$ )、锌离子（ $Z \mathrm { n } ^ { 2 + }$ )、铜离子（ ${ \mathrm { C u } } ^ { 2 + }$ 、镍离子（ $\mathrm { \cdot } \mathrm { N i } ^ { 2 + }$ ）对重组酶L-4相对活性具有抑制作用。当有机溶剂浓度为 $30 \%$ 时，重组酶L-4在二甲基亚砜（DMSO）和甲醇中保持 $9 7 \%$ 和 $8 5 \%$ 的相对活性，在内酮、乙醇中保存 $45 \%$ 以上的相对活性，在异丙醇中保存不到 $20 \%$ 的相对活性，而在乙腈中相对活性基本完全丧失。用重组酶L-4 预处理天然羽毛底物，可提高角蛋白酶K对底物的水解效率，促进率为 $4 . 3 2 \%$ 。由此可见，脂类水解酶可降解羽毛表层脂质，可在促进角蛋白酶水解羽毛角蛋白中发挥作用。
+
+关键词：地衣芽孢杆菌；脂类水解酶；角蛋白；羽毛脂质；克隆表达中图分类号：TQ925+.2 文献标识码： 文章编号：
+
+我国蛋白质饲料资源短缺，长期依赖进口，这种现状很难在短期内改变。我国每年屠宰家禽达100多亿只，可产生羽毛70\~80万t。羽毛粗蛋白质含量高（ $8 5 \%$ )、成本低、含硫氨基酸丰富，是一种良好的蛋白质资源。若将这部分资源充分开发利用，不仅能够缓解我国蛋白质饲料资源短缺的现状，且能减轻其对环境的污染。目前，羽毛加工处理方法主要有物理、化学和生物方法。物理、化学方法存在能耗高、氨基酸被破坏严重、污染环境等弊端。生物方法主要利用角蛋白降解菌或其产生的酶对角蛋白进行处理。其中，利用角蛋白降解菌降解角蛋白的同时会产生利用率较低的菌体蛋白，而生物酶水解角蛋白则可将角蛋白直接水解为利用率较高的小肽和氨基酸。目前，利用角蛋白水解酶处理羽毛角蛋白越来越受到重视，已显示出巨大的应用前景。羽毛表面由脂质包裹[1-4]，大部分为尾脂腺分泌的混合脂类[5]，少量为细胞膜层脂类。表层脂质是难于降解的复杂混合物，形成羽毛与外界物质接触的天然屏障。羽毛内部为结构稳定的角蛋白，分子内存在大量二硫键、氢键以及疏水基团，不易降解。破坏羽毛表层脂质是提高角蛋白酶水解羽毛角蛋白效率的关键环节。探究脂类水解酶在降解羽毛表层脂质中的作用，将完善羽毛酶解体系，为羽毛角蛋白高效酶解处理提供指导。
+
+天然羽毛经过物理化学脱脂处理后性质均会发生改变。羽毛经氢氧化钠（NaOH）溶液处理后，实际接触角下降，空间结构发生改变。王德山等将羽毛经石油醚脱脂处理后发现，多种蛋白酶水解脱脂羽毛的速度均有提高，最高可达1倍。大量研究发现，多种角蛋白降解菌均可产生脂类水解酶。Vasileva-Tonkova 等[8]在研究羽毛废弃物降解中，发现20 种放线菌在羽毛培养基中均产生了脂肪酶。Zhang 等在弗氏链霉菌发酵液中检测到了脂肪酶活性。王德山等[7]在地衣芽孢杆菌（Bacillus licheniformis）CP-16 发酵液和胞内液均检测到脂肪酶活性，发酵液和胞内液脂肪酶活性分别为6和1U/mL。由此推测，角蛋白降解菌产生的脂类水解酶可能在降解羽毛表层脂质、促进角蛋白酶水解羽毛效率中发挥作用，但有关这方面研究报道较少。因此，本研究通过获得羽毛高效降解菌地衣芽孢杆菌CP-16 的脂类水解酶，探究其在角蛋白酶K水解羽毛角蛋白中的作用，进一步完善羽毛的酶解体系，为羽毛
+
+角蛋白的高效酶解提供理论指导。
+
+1材料与方法
+
+# 1.1试验材料
+
+# 1.1.1 菌株来源
+
+地衣芽孢杆菌CP-16为本实验室前期筛选保存的羽毛高效降解菌株，大肠杆菌（Escherichiacoli，E.coli）DH5α 和BL21(DE3)购自北京博迈德科技发展有限公司。
+
+# 1.1.2 载体和工具酶
+
+pMD19-T载体、DNA 聚合酶（LATaq）、DNAMarker均购自宝生物工程（大连）有限公司，T4 DNA连接酶购自北京博迈德科技发展有限公司，限制性内切酶 BamHI、XhoI购自NEB公司， $p E T - 2 2 b$ 载体为本实验室保存。
+
+角蛋白酶K购自济南诺能生物工程有限公司生产。
+
+# 1.1.3 试验试剂
+
+异丙基 $\cdot \beta - D -$ 硫代半乳糖苷（IPTG）、氨苄青霉素（Amp）、5-溴-4氯-3-吲哚-β-D-半乳糖苷（X-Gal）均购自Promega 公司，细菌基因组提取试剂盒、质粒提取试剂盒、琼脂糖凝胶回收试剂盒均购自北京博迈德科技发展有限公司，镍琼脂糖凝胶柱购自北京康为世纪公司，α-乙酸萘酯（1-naphthylacetate）、固蓝B盐购自美国 Sigma 公司。
+
+# 1.1.4 培养基
+
+溶菌肉汤（LB）培养基：酵母提取物 $0 . 5 \mathrm { ~ g ~ }$ ，胰蛋白脉 $1 . 0 \ \mathrm { g }$ ，氯化钠 $1 . 0 \ \mathrm { g }$ ，去离子水$1 0 0 ~ \mathrm { { m L } }$ ，自然 $\mathfrak { p H }$ ，121℃灭菌 $3 0 \mathrm { m i n }$ 。
+
+LB 固体培养基（含Amp)：酵母提取物 $0 . 5 \mathrm { ~ g ~ }$ ，胰蛋白脉 $1 . 0 \ \mathrm { g }$ ，氯化钠 $1 . 0 \ \mathrm { g }$ ，琼脂粉$1 . 5 { \sim } 2 . 0 ~ \mathrm { g }$ ，去离子水 $1 0 0 ~ \mathrm { { m L } }$ ，自然 $\mathfrak { p H }$ ，121 $\mathrm { { } ^ { \circ } C }$ 灭菌 $3 0 ~ \mathrm { m i n }$ 。冷却至55\~60℃添加 Amp 至终浓度为 $1 0 0 ~ \mathrm { \mu g / m L }$ ，倾倒平板， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。
+
+# 1.2 试验方法
+
+# 1.2.1 目的基因克隆
+
+使用细菌基因组提取试剂盒提取地衣芽孢杆菌CP-16的基因组，具体操作按说明书进行。
+
+在Uniprot(http://www.uniprot.org/)中搜索地衣芽孢杆菌脂类水解酶蛋白质序列，得到脂类水解酶基因全长序列。根据所得的序列设计引物扩增全长基因，正反向引物分别引入BamHI、XhoI酶切位点，引物序列（下划线处为酶切位点序列）如下：
+
+上游引物：5'-CGGGATCCGAAAATTGTCAAACC\*-3',下游引物：5'-CCGCTCGAGTGTCTGCCAATC\*-3'。
+
+PCR反应程序根据所用的DNA聚合酶说明书进行。PCR扩增完成后用 $1 \%$ 琼脂糖凝胶电泳检测扩增结果。将扩增产物与载体pMD19-T在16℃条件下连接 $1 2 \mathrm { ~ h ~ }$ ，转化到E.coliDH5α中。经过蓝白斑筛选和菌落PCR 鉴定的阳性克隆，送交北京擎科公司进行重组基因序列测定。测序结果采用DNAMAN6.0软件进行对比分析，并将序列在NCBI上进行 BLAST分析，筛选出可用于下一步试验的阳性克隆。
+
+# 1.2.2 表达质粒的构建及重组酶菌株的表达
+
+用限制性内切酶 BamHI、XhoI酶切质粒pMD19-T-L-4 和载体 pET-22b。酶切后获得的基因L-4 和载体pET-22b于25℃下，用T4DNA 连接酶连接2h。将连接后的表达质粒pET-22b-L-4 转化入E.coli DH5α 感受态细胞中。根据 Amp 抗性得到潜在阳性克隆。培养扩增后，进行菌液PCR鉴定，酶切鉴定，最后测序鉴定获得连接正确的表达质粒。将测序鉴定正确的重组质粒转化到 E.coliBL21(DE3)感受态细胞中，构建表达重组酶菌株。
+
+挑取阳性单菌落接种到LB培养基中（含 $1 0 0 ~ \mu \mathrm { g / m L }$ Amp）。 $3 7 \mathrm { ~ \textdegree ~ }$ 、 $1 8 0 ~ \mathrm { r / m i n }$ 过夜培养得到种子液。种子液按 $2 \%$ 的接种量接于 $5 0 ~ \mathrm { m L }$ LB 培养基中（含 $1 0 0 ~ \mu \mathrm { g / m L }$ Amp)，37℃培养至吸光度（OD）值 $0 . 5 { \sim } 0 . 6$ 。经 IPTG（终浓度0.2mmol/L， $3 0 \mathrm { ~ \textdegree C }$ ， $ { 4 \mathrm { h } }$ ）诱导表达后，4℃、 $1 0 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 收集菌体，进行超声破碎，离心，分别收集上清和沉淀。
+
+1.2.3十二烷基硫酸钠-聚丙烯酰胺凝胶电泳（SDS-PAGE）分析重组蛋白及包涵体蛋白纯化复性
+
+对超声破碎后收集的沉淀和上清进行SDS-PAGE，检测蛋白表达形式和产量。包涵体蛋白采用镍琼脂糖凝胶进行纯化，纯化后的包涵体蛋白溶解于含8mol/L尿素的洗脱缓冲液中。将包涵体蛋白纯化后的蛋白液以合适的浓度装入处理好的透析袋中。将透析袋放入复性液中（依次含6、4、2和 $0 \ \mathrm { m o l / L }$ 尿素)，在4℃条件下进行透析。每个浓度梯度复性液中透析时间为 $2 4 \mathrm { h }$ ，保证尿素充分析出。在复性液中透析完成后放入磷酸盐缓冲液（PBS）中继续透析 $2 4 \mathrm { h }$ 。在透析过程中，用磁力搅拌器匀速搅拌使透析袋中的尿素析出，变性蛋白逐渐复性。
+
+# 1.2.4 酯酶活性测定
+
+酯酶活性测定参考刘春红等[1]和梁争文等[1]的方法。具体步骤：吸取 ${ 5 0 \mu \mathrm { L } }$ 待测酶液,加入磷酸盐缓冲液 ${ 8 0 0 } ~  { \mu \mathrm { L } }$ ，再加入 ${ \mathfrak { s o } } \mu \mathrm { L } { \mathfrak { a } }$ 乙酸萘酯底物溶液， $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 恒温水浴 $1 0 ~ \mathrm { m i n }$ ，加入3%的十二烷基硫酸钠（SDS）溶液终止反应，混匀后加入 $5 0 \mu \mathrm { L } 0 . 0 2 \%$ 的固兰B盐溶液显色，混匀计时30s后，再加入 ${ 5 0 } ~ \mu \mathrm { L }$ 的盐酸溶液混匀使显色稳定。采用保温前添加SDS 的反应管作为对照。用酶标仪检测并记录 $5 3 5 \mathrm { n m }$ 处OD值。
+
+# 1.2.5 重组酶L-4的酶学性质研究
+
+# 1.2.5.1 重组酶L-4适宜 $\mathsf { p H }$ 和 $\mathfrak { p H }$ 稳定性
+
+适宜pH：在 50℃条件下，分别在甘氨酸-盐酸（ $\mathrm { \Phi } _ { \cdot \mathrm { p H } ~ 2 . 5 \sim 3 . 0 ) }$ 、柠檬酸-柠檬酸钠（pH$3 . 5 { \sim } 5 . 0 \$ 、无水吗啉乙磺酸(MES)缓冲液( $\mathrm { p H } 5 . 5 { \sim } 6 . 5 \$ )、磷酸氢二钠-磷酸二氢钠 $\mathrm { \Phi _ { \cdot p H } } 7 . 0 { \sim } 8 . 0 \dot { . }$ 0和三羟甲基氨基甲烷-盐酸（Tris-HCI）缓冲液（ $\mathrm { p H } 8 . 5 { \sim } 9 . 5$ ）15种不同pH（每隔0.5为1个测定点）缓冲体系中测定酶活性，每个处理3个重复，确定其酶促反应适宜pH。
+
+pH 稳定性：将重组酶与不同pH缓冲液按1:9 的体积比稀释混匀后，放置 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴中处理 $3 0 \mathrm { m i n }$ ，然后于冰水混合物中冷却 $3 0 \mathrm { m i n }$ ，每个处理3个重复。50℃条件下测定残余酶活性。未处理的重组酶液作为对照，计算各pH缓冲液处理后重组酶L-4的残余酶活性占对照酶活性百分比。
+
+# 1.2.5.2重组酶L-4适宜温度和温度稳定性
+
+适宜温度：在适宜pH条件下，在30\~80℃（每隔5℃为1个测试点）的各温度条件下测定酶活性，每个处理3个重复，确定其酶促反应适宜温度。
+
+温度稳定性：将重组酶L-4在不同温度（0\~80℃，每隔10℃为1个测试点）下处理$3 0 \mathrm { m i n }$ ，冰水浴 $3 0 \mathrm { m i n }$ ，适宜pH条件下测定残余酶活性。未处理的重组酶液作为对照，计算各温度条件下处理的重组酶L-4残余酶活性占对照酶活性的百分比。
+
+# 1.2.5.3有机溶剂对重组酶L-4活性的影响
+
+将甲醇、乙醇、异丙醇、丙酮、二甲基亚矾（DMSO）、乙腈6种有机溶剂（ $30 \%$ 、 $80 \%$ 的终浓度）与重组酶L-4在 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保温 $6 0 \mathrm { m i n }$ 后，迅速冰水浴 $3 0 \mathrm { m i n }$ ，测定残余酶活性，每个处理3个重复。以未加有机溶剂的对照酶活性为 $100 \%$ 。
+
+# 1.2.5.4金属离子对重组酶L-4活性的影响
+
+将溶于适宜 $\mathfrak { p H }$ 缓冲液的 $1 0 \mathrm { m m o l / L }$ 金属离子[钠离子（ $\mathrm { { N a } ^ { + } }$ ）、镁离子（ $\mathrm { M g } ^ { 2 + }$ ）、锰离子（ $\mathrm { M n } ^ { 2 + }$ ）、钙离子（ $\mathrm { C a } ^ { 2 + }$ ）、钡离子（ $\mathrm { B a } ^ { 2 + }$ ）、二价铁离子（ $\mathrm { F e } ^ { 2 + }$ ）、锌离子（ $Z \mathrm { n } ^ { 2 + }$ ）、铜离子（ ${ \mathrm { C u } } ^ { 2 + }$ ）、钾离子（ $\mathrm { ~ : ~ } \kappa ^ { + }$ ）、镍离子（ $\mathrm { \cdot } \mathrm { N i } ^ { 2 + }$ )、三价铁离子（ $\mathrm { F e } ^ { 3 + }$ ）]与重组酶L-4 液等体积混合，在 $3 0 \mathrm { ~ \textdegree C }$ 保温 $6 0 ~ \mathrm { { m i n } }$ ，冰水浴 $3 0 \mathrm { m i n }$ ，测定残余酶活性，每个处理3个重复。以未加金属离子对照酶活性为 $100 \%$ 。
+
+# 1.2.6 重组酶L-4对角蛋白酶水解羽毛的影响
+
+1.2.6.1重组酶L-4与角蛋白酶组合共同降解羽毛作用
+
+测定重组酶L-4、角蛋白酶K二者单独和组合时降解羽毛角蛋白的角蛋白酶活。综合考虑2种酶的酶学性质，选择在 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、 $\mathrm { p H } 8 . 0$ 的 Tris-HC1缓冲体系中测定角蛋白酶活性。角蛋白酶活性测定方法参照王德山[12]的方法，具体操作步骤如下：吸取 $1 . 0 ~ \mathrm { m L }$ 待测酶液，加入 $2 . 0 \mathrm { m L }$ 含有底物羽毛粉（ $5 \mathrm { m g / m L }$ ）的 $0 . 0 5 \mathrm { m o l / L }$ ， $\mathrm { p H } 9 . 5$ 的 Tris-HC1缓冲液。适宜温度条件下， $1 8 0 ~ \mathrm { r / m i n }$ 振荡反应 $^ { \textrm { 1 h } }$ 。反应过程中为防止底物羽毛粉聚沉，每隔 $1 0 \mathrm { m i n }$ 取出反应液混匀。反应结束后立即加入 $10 \%$ 三氯乙酸 $2 . 0 ~ \mathrm { m L }$ 终止反应。反应液静置 $5 \mathrm { m i n } , 1 0 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ （必要时二次离心)。取上清液测其 $2 8 0 \mathrm { n m }$ 处OD值，空白对照为保温前加终止剂的样品。酶组合的配比方法按表1进行。
+
+表1不同酶添加体积  
+Table 1Volume addition of different enzyme mL   
+
+<html><body><table><tr><td>项目</td><td>重组酶L-4</td><td>角蛋白酶K</td><td>缓冲液</td></tr><tr><td>Items</td><td>Recombination enzyme L-4</td><td>Keratinase K</td><td>Buffer</td></tr><tr><td>重组酶L-4 Recombination enzyme L-4</td><td>1</td><td></td><td>1</td></tr><tr><td>角蛋白酶K</td><td></td><td></td><td></td></tr><tr><td>Keratinase K</td><td></td><td>1</td><td>1</td></tr><tr><td>重组酶L-4+角蛋白酶K</td><td></td><td></td><td></td></tr><tr><td>Recombination enzyme</td><td>1</td><td>1</td><td></td></tr><tr><td>L-4+keratinase K</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 1.2.6.2重组酶L-4预处理天然羽毛底物的作用
+
+将重组酶L-4与天然羽毛底物( $ { 5 }  { \mathrm { m g / m L } }$ )等体积混合， $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴处理1h,然后在 $5 5 \mathrm { ~ ~ \textdegree ~ }$ 条件下测定角蛋白酶K的角蛋白酶活性，每个处理3个重复。
+
+# 1.3 数据统计分析
+
+试验数据使用 SAS9.3进行初步整理和统计，并用软件GraphPadPrism5做图，绘制折线图和柱状图。
+
+# 2结果与分析
+
+# 2.1 目的基因克隆及测序
+
+以地衣芽孢杆菌CP-16基因组DNA为模板扩增基因全长。琼脂糖凝胶电泳 $( 1 \%$ ）检测扩增产物，从图1可知条带大小与预期结果一致。
+
+M:DNA 标记物( $1 0 0 { \sim } 2 0 0 0 \mathrm { b p }$ ；1、2：目的基因L-4。M: DNA marker ( $1 0 0 { \sim } 2 0 0 0 \mathrm { b p }$ ); 1,2: target gene L-4.
+
+![](images/9823b24256b19714e690e13994e24eda2f3141684ad5ce9e46de1bc7f72dabfc.jpg)  
+图1目的基因的PCR扩增  
+Fig.1PCR amplification of target gene
+
+扩增获得全长747bp 的基因序列。具有完整开放阅读框，编码 248个氨基酸。重组酶
+
+L-4基因序列及推测编码氨基酸序列如下：
+
+<html><body><table><tr><td>1</td><td>ATGAAAATTGTCAAACCACAACCTTTCACATTTAAAGGCGGAAAAAAAGCCGTCCTGCTG</td></tr><tr><td>1</td><td>M K工 V K P Q P F T F K G G KK A V LL</td></tr><tr><td>61</td><td rowspan="4">CTGCACGGATTTACGGGCAACACGGCGGACGTCAGAATGCTCGGAAGATATTTGAATGAA</td></tr><tr><td>21 L</td><td>H G F T G N T A D V R M L G R Y L N E</td></tr><tr><td>121</td><td>AAAGGCTACACATGCCATGCGCCCCAATATAAAGGCCACGGCGTGCCTCCGGAAGAACTT</td></tr><tr><td>41</td><td>K G Y T C H A P Q Y K G H G V P P E L E</td></tr><tr><td>181</td><td colspan="5">CTCTCCACAGGACCGGAAGACTGGTGGAAAGACGTCATGGACGGATATGAATATCTGAAA</td></tr><tr><td>61</td><td colspan="5">L S T G P E D W W K D V M D G Y E Y L K</td></tr><tr><td>241</td><td colspan="5">TCGGAAGGATATGAACAAATCGCCGCTTGCGGACTGTCTCTCGGAGGGGTTTTTTCATTG</td></tr><tr><td>81</td><td colspan="5">S E G Y E Q I A A C G L S L G G V F S L</td></tr><tr><td>301</td><td colspan="5">AAATTGGGTTACACTGTACCCATAAAGGGAATTGTTCCAATGTGCGCGCCGATGTACATC</td></tr><tr><td>101</td><td colspan="5">K L G Y T V P I K G I V P M C A P M Y I</td></tr><tr><td>361</td><td colspan="5">AAAGCGAAGAGACGATGTACGAGGGTGTGCTTGATTATGCCCGCAATTATAAGAAATTT</td></tr><tr><td>121</td><td colspan="5">K S E E T M Y E G V L D Y A R N Y K K F</td></tr><tr><td>421</td><td colspan="5">GAAGGCAAGACAGCGGAGCAGATTGACGCTGAGATGGAAGAATTCAAAAAAACGCCGATG</td></tr><tr><td>141</td><td colspan="5">E G K T A E Q I D A E M E E F K K T P M</td></tr><tr><td>481</td><td colspan="5">AACACGTTGAAAGCACTGCAGGATTTGATTGCCGATGTCAGAGAGCATGTGGACATGATC</td></tr><tr><td>161</td><td colspan="5">N T L K A L Q D L I A D V R E H V D M I</td></tr><tr><td>541</td><td colspan="5">TATTCGCCTACATTTGTCGTGCAGGCGCGCCACGATCATATGATTAATACGGACAGCGCA</td></tr><tr><td>181</td><td colspan="5">Y S P T F V V Q A R H D H M I N T D S A</td></tr><tr><td>601</td><td colspan="5">AACATCATCTACAATGAAGTTGAAACGGATGATAAGCAGCTGAAATGGTATGAAGAATCA</td></tr><tr><td>201</td><td colspan="5">N I I Y N E V E T D D K Q L K W Y E E</td></tr><tr><td></td><td></td><td colspan="5"></td></tr></table></body></html>
+
+661 GGTCATGCCATCACATTGGATAAAGAACGCGAAACACTGCACAAGGATGTGTATCAATTT   
+221 G H A I T L D K E R E T L H K D V Y QF   
+721 TTAGAAACGTTGGATTGGCAGACATAA   
+241 L E T L D W Q T ★
+
+# 2.2 表达质粒的构建
+
+将目的基因与质粒分别经BamHI、XhoI限制性内切酶酶切后，经T4DNA 连接酶将二者连接后转化入E.coliDH5α。对阳性克隆进行菌液PCR初步鉴定后提取质粒进行双酶切鉴定（图2)，结果显示表达质粒构建成功。
+
+M：DNA标记物 $1 0 0 { \sim } 2 0 0 0 \mathrm { b p }$ ；1：重组质粒pET-22b-L-4；2：单酶切重组质粒pET-22b-L-4；3：双 酶切重组质粒 $p E T - 2 2 b - L - 4$ 0
+
+![](images/3aae0cb4f06a15c54968ec3f20968ed34089977007d717b29c09c0c5985b9042.jpg)  
+Fig.2Results of enzyme digestion
+
+M:DNAmarker( $\cdot 1 0 0 { \sim } 2 ~ 0 0 0 ~ \mathrm { b p }$ ),1:recombinant plasmids pET-22b-L-4;2:enzyme digestion of recombinant plasmids pET-22b-L-4; 3: double enzyme digestion of recombinant plasmids pET-22b-L-4.
+
+# 图2酶切结果
+
+# 2.3重组酶菌株诱导表达及包涵体纯化复性
+
+将鉴定正确的E.coliBL21（DE3）经IPTG 诱导表达，SDS-PAGE 检测表达结果见图3。结果显示，重组酶L-4进行了成功表达，表达蛋白大小与预测值 $2 8 . 3 \ \mathrm { k u }$ 大小相符。进一步对超声上清和超声沉淀分析（图4)，重组酶L-4表达蛋白主要以包涵体的形式存在超声沉淀中。对表达菌体超声破碎收集包涵体蛋白，通过镍琼脂糖凝胶柱纯化并进行梯度尿素透析复性，得到活性酶蛋白。测定酯酶活性为 $0 . 4 2 \mathrm { U / m L }$ 。
+
+![](images/73467dfb1d6da015ad27bb95bab526177f624ce80ea4555bb249f421aa18300b.jpg)
+
+M：彩虹蛋白标记物；1：重组酶L-4诱导前；2：重组酶L-4诱导后。
+
+M: rainbow protein marker;1:before induction of recombinant enzyme L-4; 2: after induction of recombinant enzyme L-4.
+
+Fig.3SDS-PAGE analysis 1 of inducible expression of recombinant enzyme L-4
+
+![](images/b9e3490ef49ae93c6e30a179ad2c437b372f2979c85f60c326f78273496eea29.jpg)  
+图3重组酶L-4 诱导表达的 SDS-PAGE分析1
+
+M：彩虹蛋白标记物；1、2、3：分别为重组酶L-4诱导后全菌液、超声上清、超声沉淀。
+
+M: rainbow protein marker;1,2 and 3: whole bacteria fluid,ultrasonic supernatant and ultrasonic sediment of after induction of recombinant enzyme L-4.
+
+图4重组酶L-4诱导表达的 SDS-PAGE 分析2
+
+# A 2.4 重组酶L-4酶学性质
+
+2.4.1 重组酶L-4 适宜pH和pH稳定性
+
+![](images/9b2d47ca2b09b87e96754c7e9836e2a83a19c7597d43315e173d08493c0f1406.jpg)  
+Fig.4SDS-PAGE analysis 2 of inducible expression of recombinant enzyme L-4   
+图5pH对重组酶L-4 相对活性的影响及 $\mathsf { p H }$ 稳定性  
+Fig.5Effects of pH on relative activity of recombinant enzyme L-4 and pH stability
+
+由图5可见，重组酶L-4适宜pH为6.5，在 $\mathrm { p H } 5 . 5 { \sim } 7 . 0$ 内其相对活性能够较好保持( $60 \%$ 以上）， $\mathfrak { p H }$ 超出此范围内其相对活性急剧下降。重组酶L-4 在 $\mathrm { p H } ~ { 6 . 5 } { \sim } 9 . 5$ 内处理 $3 0 ~ \mathrm { m i n }$ 相对活性保持在 $80 \%$ 以上，稳定性较好，属于中性脂类水解酶。
+
+# 2.4.2 重组酶L-4适宜温度和温度稳定性
+
+![](images/ff76ac9b1d1335f82ffacac0d232c1d468e7fed8895c924b0b9056243008959d.jpg)  
+图6温度对重组酶L-4相对活性的影响及温度稳定性  
+Fig.6Effects of temperature on relative activity of recombinant enzyme L-4 and
+
+temperature stability
+
+由图6可见，重组酶L-4的适宜反应温度为 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，在30\~50℃相对活性较高（ $65 \%$ 以上），高于50℃时，相对活性急剧下降，高于65℃时相对活性基本完全丧失。在低于55℃的温度中处理 $3 0 \mathrm { m i n }$ ，重组酶L-4相对活性可稳定保持 $90 \%$ 以上。综合适宜温度与温度稳定性，脂类水解酶L-4属于中温酶类。
+
+# 2.4.3有机溶剂对重组酶L-4相对活性的影响
+
+![](images/c8d7871731164473d066d835f53da39a7c56393c2391fc5a1447d12261fdcbc5.jpg)  
+图7有机溶剂对重组酶L-4相对活性的影响
+
+由图7可见，当有机溶剂终浓度为 $30 \%$ 时，重组酶L-4在DMSO中可保存相对活性$9 7 \%$ ，在甲醇中可保存相对活性 $8 5 \%$ ，在丙酮和乙醇中可保存相对活性 $45 \%$ 以上，而在异丙醇中保存相对活性不到 $20 \%$ ，在乙腈中相对活性基本完全丧失。当有机溶剂终浓度为 $80 \%$ 时，重组酶L-4仅在甲醇和异丙醇中保存较低相对活性，在其他有机溶剂中相对活性基本完全丧失。
+
+2.4.4金属离子对重组酶L-4相对活性的影响由图8可见，金属离子浓度为 $1 0 \mathrm { m m o l / L }$ 时， $\mathrm { F e } ^ { 2 + }$ 、 $\mathrm { \Delta N a } ^ { + }$ 、 $\mathrm { M n } ^ { 2 + }$ 、 $\mathrm { C a } ^ { 2 + }$ 对重组酶L-4相对活性具有激活作用， $\mathrm { B a } ^ { 2 + }$ 、 $Z \mathrm { n } ^ { 2 + }$ 、 ${ \mathrm { C u } } ^ { 2 + }$ 、 $\mathrm { N i } ^ { 2 + }$ 对重组酶 L-4 相对活性有抑制作用，其他金属离子对相对活性的影响较小。 $\mathrm { F e } ^ { 2 + }$ 的激活作用最明显，可使重组酶L-4相对活性提高1倍;$\mathrm { C u } ^ { 2 + }$ 的抑制作用最为明显，仅保存相对活性的 $7 . 5 3 \%$ 。
+
+![](images/4fd76f3a642295ee4163ba42206b7afda9b127b5315c560939178f022c29e41d.jpg)  
+Fig.7Effects of organic solvents on relative activity of recombinant enzyme L-4   
+图8金属离子对重组酶L-4相对活性的影响  
+Fig.8Effects of metal ions on relative activity of recombinant enzyme L-4
+
+2.5重组酶L-4对角蛋白酶K水解羽毛的影响
+
+2.5.1 重组酶L-4与角蛋白酶K组合共同降解羽毛的作用
+
+从表2可以看出，重组酶L-4不具有角蛋白酶活性，且重组酶L-4 和角蛋白酶K混合共同降解角蛋白，影响角蛋白酶K的活性。重组酶L-4对角蛋白酶K酶解羽毛底物起到负面作用，其原因有待进一步探讨。
+
+Table 2 Keratinase activity of different enzyme hydrolyzed feather   
+
+<html><body><table><tr><td>项目</td><td>酶活性</td></tr><tr><td>Items</td><td>Enzyme active/（U/mL)</td></tr><tr><td>重组酶L-4</td><td>1</td></tr><tr><td>Recombination enzyme L-4 角蛋白酶K</td><td></td></tr><tr><td>Keratinase K</td><td>37.00</td></tr><tr><td>重组酶L-4+角蛋白酶K</td><td></td></tr><tr><td>Recombination enzyme L-4+keratinaseK</td><td>-</td></tr></table></body></html>
+
+-：未测出 not detected。
+
+# 2.5.2 重组酶L-4预处理天然羽毛底物的作用
+
+从表3可以看出，重组酶L-4对底物（天然羽毛）进行预处理，测定角蛋白酶K的角蛋白酶活性，重组酶预处理天然羽毛底物对角蛋白酶K的活性有提高趋势，促进率为 $4 . 3 2 \%$ 0
+
+表2不同酶水解羽毛的角蛋白酶活性  
+表3重组酶L-4预处理底物的作用  
+Table 3Effects of recombinant enzyme pretreatment substrate   
+
+<html><body><table><tr><td>底物</td><td>酶活性</td><td>促进率</td></tr><tr><td>Substrate</td><td>Enzyme active/(U/mL)</td><td>Promotion rate/%</td></tr><tr><td>天然羽毛 Natural feathers</td><td>4.34</td><td rowspan="2">4.32</td></tr><tr><td>预处理羽毛Pretreatment feathers</td><td>4.53</td></tr></table></body></html>
+
+# 3讨论
+
+E.coli是现代研究中运用最多、研究最成熟的基因工程原核表达系统，其主要优点是易繁殖、生产成本低、表达外源基因产量高、遗传图谱和基因表达调控机制明确[13]。以E.coli为表达宿主时，表达速度快，修饰作用少，不能将表达的蛋白质有效的分泌至胞外[14]。本研究中表达的重组酶L-4以包涵体的形式存在，表达量较高，但大部分无生物活性。在工业化生产中，E.coli表达脂类水解酶没有优势，仍需继续探讨其他表达系统的表达情况。
+
+酶学性质决定了酶蛋白在生产中的应用潜质和领域。重组酶L-4包涵体经镍琼脂糖凝胶纯化和梯度尿素复性获得有活性的酶蛋白，并对其性质进行研究。脂肪酶适宜pH一般在（204号 $6 . 0 { \sim } 8 . 0$ 的弱酸偏碱的范围内， $\mathsf { p H }$ 的稳定范围一般在 $4 . 0 { \sim } 1 1 . 0$ 之间[15-17]。本研究获得的重组酶L-4其适宜 $\mathfrak { p H }$ 为6.5，在 $\mathrm { p H } 6 . 5 { \sim } 9 . 5$ 之间具有良好的稳定性，在此pH 范围缓冲液中处理$3 0 \mathrm { m i n }$ ，能保持 $80 \%$ 以上的相对活性。这可能与地衣芽孢杆菌CP-16以羽毛角蛋白为唯一碳源和氮源有关。地衣芽孢杆菌CP-16在发酵过程中进行脱氨作用产生碳骨架作为碳源，脱氨作用使发酵液随时间呈碱性变化[18]。地衣芽孢杆菌CP-16 产生的蛋白酶为碱性蛋白酶[12],加快角蛋白降解，为地衣芽孢杆菌CP-16提供更多养分，有利于生存。
+
+重组酶L-4适宜温度为50℃，在低于55℃的温度中处理 $3 0 ~ \mathrm { m i n }$ ，相对活性稳定，属于中温脂类水解酶。脂肪酶的适宜反应温度一般在 30\~50℃[19-20]。不同来源的脂肪酶温度稳定性存在区别，有研究者筛选到耐高温脂肪酶[21]，其适用性更加广泛。工业生产中纸浆脱脂脱墨、母乳脂肪代替品结构油脂1,3-二油酸-2-棕榈酸甘油三酯（OPO）的生产，都需要耐热良好的脂肪酶参与[22-23]。
+
+金属离子可以作为酶的激活剂或抑制剂，通过组成酶活性中心，稳定酶的构象，连接酶与底物而影响酶活性。本试验中，金属离子浓度为 $1 0 \ \mathrm { \ m m o l / L }$ 时， $\mathrm { F e } ^ { 2 + }$ 、 $\mathrm { \Delta N a } ^ { + }$ 、 $\mathrm { M n } ^ { 2 + }$ 、Ca²+对重组酶L-4 相对活性具有激发作用， $\mathrm { B a } ^ { 2 + }$ 、 $Z \mathrm { n } ^ { 2 + }$ 、 ${ \mathrm { C u } } ^ { 2 + }$ 、 $\mathrm { N i } ^ { 2 + }$ 对相对活性具有抑制作用，$\mathrm { C u } ^ { 2 + }$ 的抑制作用最为明显。阎金勇[24研究结果表明， $\mathrm { B a } ^ { 2 + }$ 对脂肪酶活性具有明显的促进作用，与本研究的结果相反，这可能与酶基因类型不同有关。很多酶促反应是在非水相的有机溶剂中进行的，如脂肪酸酯、生物柴油的合成[25-26]，有机溶剂对酶活性的影响也很值得探究。当有机溶液浓度为 $30 \%$ 时，重组酶L-4在DMSO、甲醇中保持较高相对活性，在丙酮、乙醇中保存相对活性 $45 \%$ 以上，异丙醇、乙腈中相对活性基本丧失。当有机溶液浓度为 $80 \%$ 时，对重组酶L-4相对活性的影响特别大，活性基本损失。
+
+羽毛表面的脂类主要为尾脂腺分泌的脂类混合物，存在多种酯化方式，包括脂肪族单酯类、二酯类[27]。传统的脱脂方法包括碱性溶液皂化法、表面活性剂乳化法、有机溶剂法[28]。传统脱脂方法不仅污染环境，且处理后的羽毛仍含有大量的化学试剂，很难在动物饲料中利用。脂类水解酶是具有催化酯键水解和生成的一类水解酶，包括酯酶和脂肪酶，可实现高效环保脱脂。微生物酶解脱脂，在羊毛加工工艺中广泛应用，常利用脂肪酶去除表层疏水性脂类物质[4,29]，角质酶水解纤维中的脂肪酸酯[30]。王平[31]通过脂肪酶、角质酶、角蛋白酶综合作用对羊毛改性加工。多个角蛋白降解菌发酵液中检测到了脂肪酶活性[7-9]，但角蛋白降解菌脂类水解酶对天然羽毛角蛋白降解影响的研究尚未见报道。在研究脂类水解酶对角蛋白酶水解羽毛的影响中，将重组酶L-4和角蛋白酶K混合处理角蛋白1h，测定角蛋白酶活性。发现2种酶共同作用时角蛋白酶活性不如单独用角蛋白酶处理时，脂类水解酶可能对角蛋白酶的活性产生影响。这种现象的具体原因及影响机制有待进一步研究。在实际羽毛降解菌发挥作用时，这2种酶作用时间可能存在先后关系。用重组酶L-4预处理天然羽毛底物后，可以促进角蛋白酶K对底物的水解作用，促进率为 $4 . 3 2 \%$ 。说明重组酶L-4对降解羽毛表面的脂质起到一定的作用。脂类水解酶将羽毛表面的脂质水解，增加了羽毛的亲水性，促进角蛋白酶直接作用于羽毛角蛋白。但重组酶L-4促进角蛋白酶的效率不高，有待进一步挖掘地衣芽孢杆菌CP-16降解羽毛脂质较快的其他脂类水解酶。
+
+# 4结论
+
+$\textcircled{1}$ 从地衣芽孢杆菌CP-16 基因组中扩增脂类水解酶基因，在 E.coli中成功表达，获得
+
+重组酶L-4。
+
+$\textcircled{2}$ 重组酶L-4适宜温度为 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，适宜 $\mathfrak { p H }$ 为6.5，在碱性环境条件下活性相对稳定，Fe²+、 $\mathrm { \Delta N a } ^ { + }$ 、 $\mathrm { M n } ^ { 2 + }$ 、 ${ \mathrm { C a } } ^ { 2 + }$ 对其相对活性有促进作用。重组酶L-4 在有机溶液DMSO 中保持相对活性 $9 7 \%$ ，甲醇中保持相对活性 $8 5 \%$ ，丙酮、乙醇中保存相对活性 $45 \%$ 以上，其他有机溶剂使其相对活性基本丧失。
+
+$\textcircled{3}$ 重组酶L-4预处理天然羽毛底物 $^ \mathrm { ~ 1 ~ h ~ }$ 后，对角蛋白酶K水解底物有促进趋势但效率不高。
+
+$\textcircled{4}$ 脂类水解酶将羽毛表面的脂质水解，增加了羽毛的亲水性，促进角蛋白酶直接作用于羽毛角蛋白。
+
+# 参考文献：
+
+[1]计成.动物营养学[M].北京:高等教育出版社,2008:75.  
+[2]赵全芳.鸟类羽毛疏水、亲水性原因探析[J].管理学刊,2005,18(2):121-122.
+
+[3] SARAVANAN K,DHURAI B.Exploration on amino acid content and morphological structure in chicken feather fiber[J].Journal of Textile and Apparel: Technology and Management,2012,7(3):1-6.
+
+[4]MALL JK,SIMS P,CARR C M.Surface chemical analysis of lipase enzyme treatments on wool and mohair[J].The Journal of the Textile Institute,2002,93(1):43-51.
+
+[5]冯宇隆,谢明,闻治国,等.禽类尾脂腺及其生物学功能研究进展[J].中国饲料,2013(9):9-12.
+
+[6]任露泉,尚广瑞,杨晓东.禽羽结构及羽表脂质对其润湿性能的影响[J].吉林大学学报:工学报,2006,36(2):213-218.
+
+[7]王德山,张铁鹰,梁争文,等.羽毛中脂质对羽毛角蛋白降解的影响[J].饲料工业,2014,35(19):26-29.
+
+[8] VASILEVA-TONKOVA E,GOUSTEROVA A,NESHEV G.Ecologically safe method for improved feather wastes biodegradation[J].International Biodeterioration & Biodegradation,2009,63(8):1008-1012.
+
+[9] ZHANG Y H,MENG K,WANG Y R,et al.A novel proteolysis-resistant lipase from keratinolytic Streptomyces fradiae,var. k11[J].Enzyme and Microbial Technol0gy,2008,42(4):346-352.
+
+[10]刘春红,冯志彪.以 $\mathfrak { a } \mathrm { . }$ 乙酸萘酯为底物植物酯酶活力测定条件的优化[J].食品工业科技,2008(6):145-147,151.
+
+[11]梁争文,张铁鹰,李爽,等.植物角质降解菌的种属鉴定、发酵条件优化及酶学性质研究[J].动物营养学报,2016,28(11):3567-3575.
+
+[12] 王德山.地衣芽孢杆菌CP-16 降解羽毛角蛋白相关蛋白酶的分离、表达和相互关系[D].硕士学位论文.北京:中国农业科学院,2014.
+
+[13] NUC P,NUC K.Recombinant protein production in Escherichia coli[J].Postepy Biochemii,2006,52(4):448-456.
+
+[14]JHAMB K,SAHOO D K.Production of soluble recombinant proteins in Escherichia coli:effects of process conditions and chaperone co-expression on cell growth and production of xylanase[J].Bioresource Technology,2012,123:135-143.
+
+[15]LIU Z Q,CHI Z M,WANG C L,et al.Production,purification and characterization of an extracellular lipase from Aureobasidium pullulans HN2.3 with potential application for the hydrolysis of edible oils[J].Biochemical Engineering Journal,2008,40(3):445-451.
+
+[16]ULKER S,KARAOGLU S A.Purification and characterization of an extracellular lipase from Mucor hiemalis F. corticola isolated from soil[J].Journal of Bioscience and Bioengineering,2012,114(4):385-390.
+
+[17]DAOUD L,KAMOUN J,ALI M B,et al.Purification and biochemical characterization of a halotolerant Staphylococcus sp. extracellular lipase.[J].International Journal of Biological Macromolecules,2013,57:232-237.
+
+[18]齐志国.高二硫键还原能力角蛋白降解菌的研究[D].硕士学位论文.北京:中国农业科学院,2012.
+
+[19] GOLDBECK R,FILHO F M.Screening,characterization,and biocatalytic capacity of lipases producing wild yeasts from Brazil biomes[J].Food Science and Biotechnology,2013,22(S1):79-87.
+
+[20]MHETRAS N C,BASTAWDE K B,GOKHALE D V.Purification and characterization of acidic lipase from Aspergillus niger NCIM 1207[J].Bioresource Technol0gy,2009,100(3):1486-1490.
+
+[21]MUNOZ P A,CORREA-LLANTEN D N,BLAMEY J M.Production,purification and partial characterizationof fourlipasesfromathermophile isolatedfrom Deception Island.[J].Lipids,2013,48(5):527-533.
+
+[22]LEVISSON M,VAN DER OOST J,KENGEN S W M.Carboxylic ester hydrolases from hyperthermophiles[J].Extremophiles,2009,13:567.
+
+[23]ESTEBAN L,JIMENEZ M J,HITA E,et al.Production of structured triacylglycerols rich in palmitic acid at sn-2 position and oleic acid at sn-1,3 positions as human milk fat substitutes by enzymatic acidolysis[J].Biochemical Engineering Journal,2011,54(1):62-69.
+
+[24]阎金勇.白地霉 Y162 脂肪酶基因克隆与表达[D].硕士学位论文.武汉:华中科技大学,2007.
+
+[25] JOSEPH B,RAMTEKE P W.Extracellular solvent stable cold-active lipase from psychrotrophic Bacillus sphaericus MTCC 7526:partial purification and characterization[J].Annals ofMicrobiology,2013,63(1):363-370.
+
+[26] UGUR A,SARAC N,BORAN R,et al.New lipase for biodiesel production:partial purification and characterization of LipSB 25-4[J].ISRN Biochemistry,2014,2014:289749.
+
+[27]SALIBIAN A,MONTALTI D.Physiological and biochemical aspects of the avian uropygial gland[J].Brazilian Journal of Biology,2009,69(2):437-446.
+
+[28]陈振林.山羊皮脱脂方法的选择[J].中国皮革,1989(9):12-13.
+
+[29] FRANKA G,MEYER H H,DEUTZ H,et al.Enzyme-catalyzed hydrolysis of 18-methyl eicosanoicacid-cysteinethioester[J].EuropeanJournalofLipid Science and Technol0gy,2003,105(10):627-632.
+
+[30] DEGANI O,GEPSTEIN S,DOSORETZ C G.Potential use of cutinase in enzymatic scouring of cotton fiber cuticle[J].Applied Biochemistry and Biotechnology,2002,102(1/2/3/4/5/6):277-289.
+
+[31]王平.羊毛表面生物酶改性及机制研究[D].博士学位论文.无锡:江南大学,2010.
+
+Research on Lipolytic Enzymes from Bacillus licheniformis CP-16 LI Shuang1 ZHANG Tieyingl LIAO Chaoyong1 LIANG Zhengwen’MA Xiafei²LIU Junli1
+
+(1. State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of Agricultural Science, Beijing 100193, China 2. College of Animal Science and Technology, Gansu Agricultural University, Lanzhou 730070, China)
+
+Abstract: In order to explore the influence of lipolytic enzyme on feather degradation,the lipolytic enzyme gene of Bacillus licheniformis CP-16 was cloned and heterologous expressed in this research. The target gene of recombinant enzyme L-4，which was used Bacillus licheniformis CP-16 genome DNA as a template,amplified lipid hydrolase gene,and then transferred into Escherichia coli for expression of the targeted gene. The optimum pH, pH stability, temperature, temperature stability and effects of organic solvents and metal ions on relative activity of the recombinant enzyme L-4 were determined,and its application on keratin K hydrolyzed natural feather keratin was also investigated. The results showed that the length of lipid hydrolase gene was 747 bp,encoded 248 amino acids,the recombinant enzyme L-4 was successfully expressed in Escherichia coli,and the molecularweight was about $2 8 . 3 \mathrm { \ k u }$ ,the esterase activitywas $0 . 4 1 \mathrm { U / m L }$ 5 the optimum pH was 6.5,the optimum temperature was $5 0 ^ { \circ } \mathrm { C }$ . The relative activity of recombinant enzyme L-4 kept above $80 \%$ treated with $3 0 ~ \mathrm { m i n }$ under $\mathsf { p H } 6 . 5$ to 9.5 condition,and the relative activity kept above $70 \%$ treated with 30 min under below $5 0 \mathrm { ~ \textdegree C }$ condition. The ferrous iron $( { \mathrm { F e } ^ { 2 + } } )$ sodion $( \mathrm { N a } ^ { + } )$ ,manganese ion $( \mathrm { M n } ^ { 2 + } )$ and calcium ion $( \mathrm { C a } ^ { 2 + } )$ had an stimulative effect on the relative activity of recombinant enzyme L-4, while the barium ion $( \mathrm { B a } ^ { 2 + } )$ , zinc ion $( Z \boldsymbol { \mathrm { n } } ^ { 2 + } )$ , copper ion $( \mathrm { C u } ^ { 2 + } )$ and nickel ion $( \mathrm { N i } ^ { 2 + } )$ had an disincentive eect on the relative activity of recombinant enzyme L-4. When the concentration of organic solvent was $30 \%$ ，the relative activity of recombinant enzyme L-4 kept $8 5 \%$ and $9 7 \%$ in methanol and dimethyl sulfoxide solutions, the relative activity kept above $45 \%$ in acetone and ethanol solutions,the relative activity kept less than $20 \%$ in isopropanol solution,while the relative activity was complete loss in acetonitrile solution. The pretreatment of natural feather substrates with recombinant enzyme L-4 promoted the hydrolysis of keratinase K to the substrate,and the promotion rate is $4 . 3 2 \%$ . In conclusion, lipolytic enzymes can degrade feather surface lipids and it may play a role in promoting keratin hydrolysis of feather keratin.
+
+Key words: Bacillus licheniformis ； lipolytic enzymes； keratin; feather lipid ;cloning andexpression

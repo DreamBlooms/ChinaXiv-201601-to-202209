@@ -1,0 +1,218 @@
+# DOI: 10.5846/stxb201604050614
+
+段后浪,赵安,姚忠.恒湖农场茶叶港草洲枯水期湿地植物与土壤关系及种群生态位分析.生态学报,2017,37(11)：3744-3754.DuanHL,ZaoAysdaleatosdlasigsdrferegion during the dry season.Acta Ecologica Sinica,2017,37(11） :3744-3754.
+
+# 恒湖农场茶叶港草洲枯水期湿地植物与土壤关系及种群生态位分析
+
+段后浪},²，赵安1,2,\*，姚忠³
+
+1江西师范大学鄱阳湖湿地与流域研究教育部重点实验室，南昌330022  
+2 江西师范大学地理与环境学院，南昌330022  
+3江西省科学院，南昌330096
+
+摘要;湿地植物与土壤关系问题一直就是生态学研究的热点,也是湿地植物种群生态位研究的基础。基于鄱阳湖典型湿地-I恒湖农场茶叶港草洲19个样地20种植物重要值组成的样地-I物种矩阵,用等级聚类分析中的Ward法(离差平方和法)将研究区植物划分为灰化草（Carex cinerascens）群落、草（Phalaris arundinacea)群落及南获（Triarrhena lutarioriparia）群落3个群落类型。通过 Spearman 秩相关分析检验物种多样性指数（Shannon-Wiener多样性指数 $\smash { \mathbf { \mathit { H } } _ { \mathrm { ~ p ~ } } ^ { \prime } }$ 物种丰富度指数 $s$ 和Pielou 均匀度指数$J$ )与土壤因子（土壤 $\mathrm { \ p H }$ 值、电导率、含水量和有机质)的相关性,结果发现研究区植物物种的 Shannon-Wiener 多样性指数 $H ^ { \prime }$ 、物种丰富度指数 $s$ 与土壤 $\mathrm { \ p H }$ 值分别为显著( $P { < } 0 . 0 5 )$ 和极显著( $\scriptstyle P < 0 . 0 1 { \mathrm { ~ ( } }$ )正相关关系，而与土壤有机质分别达到显著( $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ 和极显著( $\scriptstyle P < 0 . 0 1$ )负相关水平,Pielou均匀度指数 $J$ 与土壤因子相关性不明显。利用RDA(冗余分析)排序分析研究区植物物种分布与土壤 $\mathrm { \ p H }$ 值、电导率、含水量、有机质的关系,结果发现土壤pH值、土壤有机质与研究区植物物种分布关系最为密切( $P =$ 0.042,0.048），可以看成是关键控制因子。基于对研究区植物物种分布影响较大的土壤 $\mathrm { \Delta p H }$ 值及有机质环境因子,将其分别划分为10个梯度等级,分析植物种群生态位。发现研究区优势种灰化墓草、草生态位宽度较大,蚊母草（Veronica peregrina）、荇菜（Nymphoides peltata)等生态位宽度较小,生态位重叠值整体保持在较低水平,说明物种在土壤pH值和土壤有机质两个环境梯度上生态位分化明显。 人1
+
+关键词：鄱阳湖典型湿地;枯水期;植物物种与土壤关系;植物种群生态位
+
+# Analysis of wetland plant-soil relationships and population niches in Chayegang marshland near Henghu farm in the Poyang Lake region during the dry season
+
+DUAN Houlang1,2,ZHAO An1.2,\* ,YAO Zhong3   
+1KeyLaboratogddtesdsechstducatioialUestc   
+2School ofGeography and Environmental Sciences,Jiangxi Normal University,Nanchang 33oo22，China   
+3 Jiangxi Academy of Sciences,Nanchang 330096,China
+
+Abstract:Interactive effects existamong soil，vegetation，hydrologyand climate inwetlandareas，affecting the charateristicsof wetlandecosystems.Wetlandsoilisusuallyaproductof long-term interactionsbetweenecological environmentfactorsand playsavitalroleinpreserving theregional ecologicalbalance.Thefactors thatinfluencewetland vegetation include biologicalandabiologicalvariables，whichsoilofabiologicalvariablehasthemostprofoundeffecton wetland plant growth.Relationshipsbetwen wetland plantsandsoil have always beenahottopic inecologyandalso form the basis for plant population niches research．Based ona sample plot-species matrix of Importance Value（IV）of 20 speciesat19 sampling plots in the Chayegang marshland of thePoyang Lakeregionnear Henghu farm，weused he Ward cluster methodof hierarchical clustering todivide theplants in the studyarea into 3 community types-Com.Carex cinerascens，Com.Phalaris arundinaceaandCom.Triarhena lutarioriparia.Spearmanrank correlationsresultsrevealed that，when considering biodiversity indices（Shannon Wiener diversity index $H ^ { \prime }$ ，species richness index $S$ and Pielou evenness index $J$ ）and soil factors（soil $\mathrm { p H }$ ，electrical conductivity，moisture and organic matter），there were significant positive correlations（ $P { < } 0 . 0 5$ ）between $H ^ { \prime }$ and soil $\mathrm { p H }$ ，and highly significant positive correlations （ $P { < } 0 . 0 1$ ）between $S$ and soil pH；However，there were significant negative correlations （ $P$ <0.05）between $H ^ { \prime }$ and soil organic matter and highly significant negative correlations ( $P$ <0.01）between $S$ and soil organic matter. However,the Pielou evenness index $\}$ had no discernible correlation with soil factors.The relationships of plant species distribution with soil $\mathrm { p H }$ ，electrical conductivity, moisture and organic matter were assessed using redundancyanalysis（RDA）；Results revealed significant relationshipsof plant distribution with soil pH and soil organic matter ( $P { = } 0 . 0 4 2$ and O.O48），which were regarded as the key soil factors that controlled species distribution.As soil $\mathrm { \ p H }$ and organic matter were determined to be the principal environmental factors thathadaconsiderable influenceonplantspecies distribution,both weredivided intolO gradientlevelstoanalyzetheplant population niches.The resultsshowed that the dominant species，C.cinerascens and P.arundinacea，had larger niche breadths，while Veronica peregrina，Nymphodes peltatum，andother specieshad smaler niche breadths.Allplant species in the studyarea had relativelysmall niche overlapson the whole，suggesting that thepopulation niches had obvious differentiation in soil $\mathrm { \ p H }$ and soil organic matter gradients. ）
+
+Key Words:typical wetland of the poyang lake region；dry season}；plant-soil relationships；population niches
+
+湿地植物与环境因子之间的相互作用共同影响着湿地生态系统的特征[1]，,对于维持生态系统稳定性发挥着重要作用。其中自然环境对湿地植物的影响主要表现在湿地气候、土壤、水文及地形方面。大尺度上,随着气候的变化,植物带的范围和面积必将受到影响,间接影响到物种的空间分布格局[2-3];小尺度上,湿地环境中地形、土壤、水文条件及三者的交互作用能够为植物生长繁殖提供所需营养物质,对物种分布及生物多样性起着决定性作用[4]。相反,植物生长过程也会对湿地土壤养分积累及水分输送过程产生影响[5]。目前基于湿地植物与环境因子之间关系的研究方法大量出现。其中植物数量分类可以根据群落之间的相似性将其划分成若干组[6],使组内群落尽量相似,组间群落尽量相异,从而反映其内在的生态学意义;排序法能够将样方或物种排列在排序图上,从而客观、准确地揭示物种分布与环境因子之间的关系[7];生态位分析则通过研究物种在不同环境梯度上的生态位特征深入了解物种对环境的适应能力及共存机制[8]。
+
+鄱阳湖是我国最大的淡水湖泊,拥有 $2 7 0 0 \mathrm { k m } ^ { 2 }$ 湿地面积,也是我国湿地生态系统中生物资源最丰富的地区。近年来国内外已有大批学者以鄱阳湖湿地为对象展开研究,其中以湿地植物与自然环境关系为内容的篇幅大量出现。Wang 等[5]以鄱阳湖湿地为背景,针对多个子区域分析芦苇（Phragmites australis）群落、水蓼（Polygonum hydropiper）群落、萎蒿（Artemisia selengensis）群落、灰化薹草（Carexcinerascens）群落及草(Phalarisarundinacea）群落下物种分布对土壤因子（土壤 $\mathrm { \ p H }$ 值、TOC、TN)的影响,结果发现5种群落土壤因子差异显著;董磊等[9]探究鄱阳湖典型洲滩湿地土壤因子对植被分布的影响,结果显示土壤含水量是控制研究区植被分布的关键因素。然而已有研究中关于植物物种多样性与土壤因子关系及植物种群生态位的研究还不多见。本文基于鄱阳湖湿地恒湖农场茶叶港草洲实地调查的19个样地95个样方植物与土壤因子数据，拟研究以下几个问题：(1)研究区的植被可分为哪些群落类型？（2)影响研究区植物物种多样性的主要土壤因子是什么？（3)土壤因子对研究区植物物种分布的影响程度怎样？（4)在主要土壤因子的不同梯度下研究区主要植物物种生态位有何特点?
+
+http://www.ecologica.cn
+
+# 1数据与方法
+
+# 1.1 研究区概况
+
+恒湖农场茶叶港草洲位于赣江北支下游冲积平原,气候温和,年平均气温 $1 7 . 3 \mathrm { ^ { \circ } C }$ ,年均降雨量为$1 6 0 9 . 8 \mathrm { m m }$ ,多集中在每年4一6月,生态环境良好。受长江水位顶托和鄱阳湖流域五河(赣、抚、信、饶、修)入湖水量的双重影响,年内和年际水位变动幅度较大。每年4—9月随降雨量增加水位逐渐上升，一般9月份水位达到最大值，为汛期；9—10月湖区开始退水,10月—次年3月水位下降，为枯水期,洲滩逐渐裸露,湿地植物开始生长发育。典型的群落类型有灰化草群落、草群落、南荻(Triarrhena lutarioriparia)群落。土壤类型由湖岸向洲滩主要是水稻土、潮土与湿潮土等,质地以沙质土壤与粉砂土壤为主,整个洲滩地势较为平坦,高程变化较小。
+
+# 1.2实验设计
+
+于2015年10月上旬，在鄱阳湖恒湖农场茶叶港草洲进行预试验，确定能代表草洲植物群落特征与结构的调查范围。2015年10月下旬，沿着地形梯度垂直于湖岸向湖区等间距( $8 0 \mathrm { m }$ )平行设置4条宽 $8 \mathrm m$ 的样带,于每条样带上等间距( $6 0 \mathrm { m } )$ 设置5个 $5 \mathrm { m } \times 5 \mathrm { m }$ 的样地,采用"X型"在样地四角及中心取5个 $\mathrm { 1 m } { \times } 1 \mathrm { m }$ 的样方（图1）。以样方为单位，记录植物物种名称（采集标本重复鉴定）、各植物物种的高度、盖度、物种数，并用GPS进行定位及记录立地微环境。其中第1条样带中的3号样地出现较大人工水域没有进行调查。 A
+
+对样方植物数据调查的同时进行土壤相关指标测定及土样采集。用土壤三参数传感器GS3（美国DECAGON 生产)测定每个样方中心 $0 { \div } 1 5 \mathrm { c m } ^ { \left[ 9 \right] }$ 土层土壤含水量及电导率，测定完毕后用取土环刀采集该位置0—15cm土层的土样（取满整个环刀圆柱体内径，约$1 0 0 \mathrm { g }$ 左右）,将同一样地5份土样混合均匀装入有编号的样品袋中作为该样地的土样。带回实验室将其自然风干,采用电位法测定土壤pH值,重铬酸钾氧化外加热法测定土壤有机质含量,详细实验方法参见《环境土壤学》[10]。
+
+![](images/df91d00efd56e1083183d4316f1382a09d962159a36f0bf113cc187bc890a013.jpg)  
+图1研究区在鄱阳湖的位置及样区样地、样方布局示意图 Fig.1Location of the study area in the Poyang Lake region and diagramatic pattern of sample plots
+
+1.3 研究方法
+
+(1)物种重要值以 $5 \mathrm { m } { \times } 5 \mathrm { m }$ 样地为单位进行计算[11]：
+
+$P =$ （相对盖度 $^ +$ 相对高度)/2
+
+式中,相对盖度是指每个样地中每种植物的盖度占该样地中所有植物总盖度的百分比,每种植物的盖度以样地5个样方该种植物盖度取平均计算得到,相对高度处理方法相同。
+
+（2)群落类型依据19 个样地20 种植物重要值矩阵,用 SPSS 软件等级聚类分析中的离差平方和法[12]将19 个样地划分为若干群落类型。
+
+(3)植物物种多样性利用目前运用最为广泛的 Shannon-Wiener多样性指数 $H ^ { \prime }$ 、物种丰富度指数 $s$ 及Pielou 均匀度指数 $J$ 测定物种多样性,计算公式[13-15]为：
+
+$$
+\begin{array} { c } { { \displaystyle H ^ { \prime } = - \sum _ { i = 1 } ^ { S } \left( P _ { i } \times \mathrm { l n } P _ { i } \right) } } \\ { { J = H ^ { \prime } / \mathrm { l n } S } } \end{array}
+$$
+
+http ://www.ecologica.cn
+
+式中， ${ \boldsymbol { P } } _ { i }$ 即公式(1)计算得到的样地中每种植物重要值， $s$ 为每个样地物种丰富度指数,即每个样地物种总数， $H ^ { \prime }$ 为每个样地Shannon-Wiener多样性指数。 $J$ 为每个样地Pielou均匀度指数。
+
+(4)植物物种多样性与土壤因子（土壤含水量、电导率、 $\mathrm { \Delta \cdot \ p H }$ 值、有机质,下同)相关性用 Spearman 秩相关分析检验19个样地植物Shannon-Wiener多样性指数 $H ^ { \prime }$ 、物种丰富度指数 $s$ 及Pielou均匀度指数 $J$ 与土壤因子的相关程度。
+
+(5)植物物种分布与土壤因子关系以19个样地20 种植物重要值组成样地-物种矩阵 $f _ { 1 }$ ,19个样地4种土壤因子组成的样地-土壤因子矩阵 $f _ { 2 }$ ,用CANOCO4.5软件进行RDA排序分析[16（RDA是在主成分分析基础上对样方坐标值进行约束,即将环境因子与样方数据进行线性组合，从而较好地反映物种分布与环境之间的关系)和 MonteCarlo 检验(蒙特卡罗置换检验)[17]共同探讨物种分布与土壤因子关系。
+
+(6)生态位宽度及生态位重叠基于RDA排序分析得到的控制研究区植物物种分布的关键土壤因子梯度轴,用Levins 生态位宽度公式和Pianka 生态位重叠公式分别计算物种生态位宽度 $( B _ { i } ^ { \flat } )$ 和生态位重叠值（20 $( O _ { i k } )$ 。
+
+生态位宽度 $( B _ { i } )$ ：
+
+$$
+B _ { i } = 1 / \sum _ { j = 1 } ^ { r } \ ( n _ { i j } / N _ { i } ) ^ { 2 }
+$$
+
+式中， $B _ { i }$ 为物种 $i$ 的生态位宽度, $n i j$ 为物种 $i$ 在第 $j$ 个资源梯度级中的重要值， $\mathbf { \nabla } _ { N _ { i } }$ 为物种 $i$ 在所有资源梯度级中重要值的总和， $r$ 为土壤因子梯度等级数。Levins 公式是在假设所有资源的可利用性均等前提下建立的,计算模型较为简单,生态学意义明显[18]。
+
+生态位重叠 $( O _ { i k } )$ ：
+
+$$
+O _ { i k } = \sum _ { j = 1 } ^ { r } { ( n _ { i j } \times n _ { k j } ) / \sqrt { \sum _ { j = 1 } ^ { r } { ( n _ { i j } ) ^ { 2 } \sum _ { j = 1 } ^ { r } { ( n _ { k j } ) ^ { 2 } } } } }
+$$
+
+式中， $O _ { i k }$ 为物种 $i$ 和物种 $k$ 的生态位重叠值， $n _ { i j }$ 和 $n _ { k j }$ 为物种 $i$ 和 $k$ 在资源梯度级 $j$ 上的重要值， $r$ 为土壤因子梯度等级数。Pianka公式虽然对群落中种群的数量特征或种群的个体数量不敏感,却能客观反映出物种在资源利用上的重叠情况以及对区域生态环境适应的相似性[19]。
+
+（7)样地高程数据提取用ILWIS3.8 软件根据样地GPS 经纬度坐标,提取出样地所在位置的高程数据。
+
+# 2结果与分析
+
+2.1研究区植物群落类型与多样性特征
+
+研究区19个样地95个样方共统计得到20种植物,分属10科20属,其中多年生草本植物占主导（表1）。以灰化草、草为优势种,水田碎米荠（Cardamine lyrata）、南荻、藜蒿（Artemisia selengensis）为研究区常见种,多数物种频度及重要值较低。可见恒湖农场茶叶港草洲物种丰富度较低,物种相对单一。
+
+表1恒湖农场茶叶港草洲20种湿地植物概况  
+Table 1Survey of 2O species of wetland plant in Chayegang marshland near Henghu farm   
+
+<html><body><table><tr><td>编号 Code</td><td>物种 Species</td><td>生活型 Biotype</td><td>重要值 Importance value</td><td>频度 Frequency/%</td><td>所在样地 In-located sample plots</td></tr><tr><td>1</td><td>灰化臺草 Carex cinerascens</td><td>多年生草本</td><td>0-0.86</td><td>94.74</td><td>1、2、3、4、5、6、7、8、9、10、11、 12、13、14、15、17、18、19</td></tr><tr><td>2</td><td>水田碎米荠 Cardamine lyrata</td><td>多年生草本</td><td>0-0.17</td><td>42.11</td><td>1、2、3、4、5、8、9、16</td></tr><tr><td>3</td><td>藜蒿Artemisia selengensis</td><td>多年生草本</td><td>0—0.74</td><td>42.11</td><td>1、5、6、12、13、15、17、19</td></tr><tr><td>4</td><td>草Phalaris arundinacea</td><td>多年生草本</td><td>0-0.64</td><td>78.95</td><td>1、2、3、4、5、7、8、9、10、11、 12、13、14、16、18</td></tr><tr><td>5</td><td>南获 Triarrhena lutarioriparia</td><td>多年生草本</td><td>0-0.74</td><td>42.11</td><td>2、6、12、13、14、15、17、19</td></tr><tr><td>6</td><td>藨草 Scirpus triqueter</td><td>多年生草本</td><td>0-0.09</td><td>15.79</td><td>2、6、12</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td>编号 Code</td><td>物种 Species</td><td>生活型 Biotype</td><td>重要值 Importance value</td><td>频度 Frequency/%</td><td>所在样地 In-located sample plots</td></tr><tr><td>7</td><td>刚毛荸荠 Eleocharis valleculosa</td><td>多年生草本</td><td>0-0.07</td><td>10.53</td><td>4、16</td></tr><tr><td>8</td><td>狗牙根Cynodon dactylon</td><td>多年生草本</td><td>0-0.34</td><td>5.26</td><td>5</td></tr><tr><td>9</td><td>旋鳞莎草 Cyperus michelianus</td><td>一年生草本</td><td>0-0.02</td><td>10.53</td><td>5、16</td></tr><tr><td>10</td><td>牛筋草 Eleusine indica</td><td>一年生草本</td><td>0—0.08</td><td>5.26</td><td>5</td></tr><tr><td>11</td><td>广州菜 Rorippa cantoniensis</td><td>一年生草本</td><td>0-0.04</td><td>10.53</td><td>5、16</td></tr><tr><td>12</td><td>稻搓菜 Lapsana apogonoides</td><td>一年生或二年生草本</td><td>0-0.01</td><td>5.26</td><td>10</td></tr><tr><td>13</td><td>芦苇Phragmites australis</td><td>多年生草本</td><td>0-0.48</td><td>10.53</td><td>11、13</td></tr><tr><td>14</td><td>水葫芦 Eichornia crassipes</td><td>多年生草本</td><td>0-0.01</td><td>5.26</td><td>11</td></tr><tr><td>15</td><td>茭白 Zizania latifolia</td><td>多年生草本</td><td>0-0.06</td><td>5.26</td><td>14</td></tr><tr><td>16</td><td>扁穗牛鞭草 Hemarthria compressa</td><td>多年生草本</td><td>0-0.04</td><td>5.26</td><td>15</td></tr><tr><td>17</td><td>蚊母草 Veronica peregrina</td><td>一年生草本</td><td>0-0.05</td><td>5.26</td><td>16</td></tr><tr><td>18</td><td>酸模 Rumex acetosa</td><td>多年生草本</td><td>0-0.03</td><td>5.26</td><td>16</td></tr><tr><td>19</td><td>苍耳 Xanthium strumarium</td><td>一年生草本</td><td>0-0.10</td><td>5.26</td><td>16</td></tr><tr><td>20</td><td>荇菜Nymphoides peltata</td><td>多年生草本</td><td>0—0.01</td><td>5.26 D</td><td>16</td></tr></table></body></html>
+
+基于研究区19个样地20 种植物重要值组成的样地-物种矩阵,依据《中国植被》[20]和《中国湿地植被》[21]分类系统,利用等级聚类分析中的离差平方和法对19个样地进行群落类型划分（图2）。以距离 ${ \mathrm { D } } = 1 0$ 为阈值[22],共分成3个群落类型。各群落类型概况见表2。
+
+![](images/572513454aac33b2d664fa8a584b4093e617242233ecb0d766f971d18d7268ca.jpg)  
+图2恒湖农场茶叶港草洲19个样地聚类分析树状图  
+Fig.2Clustering dendrogram of 19 sample plots in Chayegang marshland near Henghu farm
+
+2.2植物物种多样性与土壤因子相关关系
+
+用公式(2)计算植物物种多样性,并用 Spearman 秩相关分析检验其与土壤因子的相关程度（表3）,结果表明：物种丰富度指数 $s$ 与土壤 $\mathrm { \ p H }$ 值呈极显著正相关，与土壤有机质SOM之间具有极显著负相关关系，而与土壤含水量 SM、电导率 SC 相关性不显著;物种Shannon-Wiener多样性指数 $H ^ { \prime }$ 与土壤 $\mathrm { \ p H }$ 值呈显著正相关，与土壤有机质SOM呈显著负相关,而土壤含水量 SM、电导率 SC 环境因子对其影响不明显;Pielou均匀度指数 $J$ 与4种土壤因子之间相关性均未达到显著性水平。
+
+Table 2Results of Ward clustering of 19 sample plots and surveys of 3 community types   
+表3物种多样性指数与土壤因子之间的相关性  
+
+<html><body><table><tr><td>群落类型 Community types</td><td>所含样地及分布高程 范围 Sample plots included and elevation range</td><td>优势种及重要值范围 Dominant species and IV range</td><td>伴生种 Companion species</td><td>群落物种多样性范围 Biodiversity indices ranges</td></tr><tr><td>灰化墓草群落 Com.Carex cinerascens</td><td>1、2、3、4、5、7、8、9、10、 11、12、13、18;高程介于 13.80m—15.45m</td><td>灰化臺草,重要值介于 0.21—0.8之间</td><td>草、南荻、水田碎米荠、 芦苇等</td><td>H'介于0.22—0.69之间； J位于0.47—0.93之间; S位于2-8之间</td></tr><tr><td>草群落 Com.Phalaris arundinacea</td><td>14、16;高程介于 14.33m—14.69m之间</td><td>草,重要值范围为 0.61—0.64</td><td>灰化臺草、藜蒿、广州 菜、旋鳞莎草、蚊母草等</td><td>为3-05之间； S范围为4—11</td></tr><tr><td>南荻群落</td><td>6、15、17、19;高程范围为</td><td>南获,重要值介于0.53—</td><td></td><td>H'范围为0.29—0.47； J介于0.61—0.79之间；</td></tr><tr><td>Com. Triarrhena lutarioriparia</td><td>14.60m—15.23m</td><td>0.74之间</td><td>灰化臺草 藜蒿、藨草等</td><td>S介于3—4之间</td></tr></table></body></html>
+
+表219个样地Ward法划分结果及3种群落类型概况  
+
+<html><body><table><tr><td>物种多样性指数 Biodiversity indices</td><td>SM/%</td><td>SC/(us/cm)</td><td>pH</td><td>SOM/(g/kg)</td></tr><tr><td>S</td><td>-0.272</td><td>-0.041</td><td>0.677 **</td><td>-0.685**</td></tr><tr><td>H</td><td>-0.129</td><td>-0.014</td><td>0.491 *</td><td>-0.569 *</td></tr><tr><td>J</td><td>-0.118</td><td>1 -0.263</td><td>-0.258</td><td>0.054</td></tr></table></body></html>
+
+\*\*在0.01水平上极显著相关， $*$ 在0.05水平上显著相关
+
+# 2.3植物物种分布与土壤因子关系
+
+对研究区的样地-物种矩阵和样地-土壤因子矩阵进行RDA分析结果见表4、图3。前两轴物种与土壤因子相关性分别达到0.74和0.52,累计解释百分比达到 $9 6 . 1 \%$ ,远大于一般要求的 $4 0 \% ^ { [ 2 3 ] }$ ,说明排序结果是合理的。土壤因子用带有箭头的实线表示,箭头连线的长度代表某个土壤因子对物种分布影响的程度,连线越长,说明影响越大;反之越小。箭头连线与排序轴的夹角代表土壤因子与排序轴的相关性,夹角越小相关性越高；反之越低。图3中可见土壤 $\mathrm { \ p H }$ 值与土壤有机质对物种分布影响较大。MonteCarol置换检验显示仅土壤$\mathrm { \ p H }$ 值 $F = 2 . 7 6 , P = 0 . 0 4 2 )$ 、土壤有机质( $F = 2 . 5 7 , P = 0 . 0 4 8 )$ 通过了显著性检验,解释量分别为 $4 2 . 4 \% . 3 6 . 4 \%$ ，进一步证实了土壤有机质和土壤 $\mathrm { \ p H }$ 值是控制研究区植物物种分布的关键因子。此外,从RDA排序图上可以看出由Ward 聚类分析划分的3种群落类型具有较为明确的分布范围和界限。
+
+Table 3Correlations between species biodiversity indices and soil factors   
+表4RDA 排序结果  
+Table 4Results ofRDA ordination   
+
+<html><body><table><tr><td>统计特征值Statistic</td><td>轴1Axis1</td><td>轴2Axis2</td><td>轴3Axis3</td><td>轴4 Axis4</td></tr><tr><td>特征根值 Eigenvalue</td><td>0.273</td><td>0.042</td><td>0.010</td><td>0.003</td></tr><tr><td>物种-环境相关系数 Correlation coefficient between species and environment factors</td><td>0.736</td><td>0.523</td><td>0.369</td><td>0.209</td></tr><tr><td>物种-环境关系的累计解释 Cumulated contribution to species-environment relations</td><td>83.1</td><td>96.1</td><td>99.1</td><td>100.0</td></tr></table></body></html>
+
+# 2.4主要土壤因子梯度下物种生态位宽度及重叠值
+
+基于上一步对研究区植物物种分布影响最大的两个土壤因子,研究物种在土壤pH值、有机质梯度下生态位宽度及生态位重叠，探讨物种对资源利用及共存机制。
+
+# 2.4.1两种土壤因子梯度下物种生态位宽度
+
+将土壤 $\mathrm { \ p H }$ 值、有机质划分成10个环境梯度级（表5)，通过公式(3)计算植物种群生态位宽度(表6)。由表6看出：总体上，两种土壤因子梯度下，群落分布频度较大的物种灰化耋草、藹草、南荻、藜蒿、水田碎米荠、藨草(Scirpustriqueter)生态位宽度排在前六位,其中灰化臺草和草两个梯度下均占据前两位，与其他物种生态位宽度有较大差异。相反，苍耳（Xanthiumstrumarium）、稻搓菜（Lapsanaapogonoides）、蚊母草（Veronicaperegrina)等出现频度较低的物种,其生态位宽度也相对较小。个别的,草在土壤pH值和土壤有机质梯度下生态位宽度有较大差异，分别为5.19和8.01；土壤有机质梯度下，藨草的生态位宽度较藜蒿和水田碎米荠要小，而在土壤pH值梯度下刚好相反。
+
+![](images/c629a1978326f687c42689fcf0d73ebc64b2bbbd8bfda7577b28cf4ce12a9c3e.jpg)  
+图3，恒湖农场茶叶港草洲19个样地RDA排序图 Fig. 3 RDA ordination of 19 sample plots in Chayegang marshland near Henghu farm
+
+表5土壤pH值和有机质水平划分  
+Table 5Delimitations for gradient levels of soil pH and soil organic matter   
+
+<html><body><table><tr><td>梯度水平 Gradient levels</td><td>土壤pH Soil pH</td><td>土壤有机质/（g/kg) Soil organic matter</td><td>梯度水平 Gradient levels</td><td>土壤pH Soil pH</td><td>土壤有机质/(g/kg) Soil organic matter</td></tr><tr><td>1</td><td>4.520—4.613</td><td>1.350—1.863</td><td>2</td><td>4.613—4.706</td><td>1.863—2.376</td></tr><tr><td>3</td><td>4.706—4.799</td><td>2.376—2.889</td><td>4</td><td>4.799- -4.892</td><td>2.889-3.402</td></tr><tr><td>5</td><td>4.892- 4.985</td><td>3.402—3.915</td><td>6</td><td>4.985-5.078</td><td>3.915—4.428</td></tr><tr><td>7</td><td>5.078- -5.171</td><td>4.428—4.941</td><td>8</td><td>5.171—5.264</td><td>4.941—5.454</td></tr><tr><td>9</td><td>5.264- -5.357</td><td>5.454—5.967</td><td>10</td><td>5.357—5.450</td><td>5.967—6.480</td></tr></table></body></html>
+
+# 2.4.2 两种土壤因子梯度下物种生态位重叠
+
+用公式(4)计算土壤 $\mathrm { \ p H }$ 值、土壤有机质两个环境梯度下植物种群生态位重叠值结果见表7（分别位于右上三角和左下三角)。由表7得出：基于土壤 $\mathrm { \ p H }$ 值梯度,生态位重叠值高于0.9的物种对有34对，占总数的$1 7 . 8 9 \%$ ;生态位重叠值介于0.5—0.9之间的物种对有16对，占总数的 $8 . 4 2 \%$ ;小于等于0.5的物种对有140对，占总数的 $7 3 . 6 9 \%$ ,其中生态位重叠值为0的物种对有60对，占总数的 $3 1 . 5 8 \%$ 。可见研究区多数物种之间生态位重叠较小，虽然生态位重叠值高于0.9的物种对占 $1 5 \%$ 以上，但是这些物种大多数都是位于研究区同一个样地的偶见种，生存环境极为相似。说明研究区物种在土壤 $\mathrm { \ p H }$ 值梯度下生态位分化较为严重。在土壤有机质梯度下，植物种群生态位重叠情况与土壤 $\mathrm { \ p H }$ 值梯度下类似,多数物种之间生态位重叠值较小。有22 对物种生态位重叠值大于0.9,占总数的 $1 1 . 5 8 \%$ ;介于0.5—0.9 之间的物种对有 24 对,占总数的 $1 2 . 6 3 \%$ ：小于等于0.5的物种对出现144对，占总数的 $7 5 . 7 9 \%$ ,其中生态位重叠值为0的物种对有82对，占总数的$4 3 . 1 6 \%$ 。同样说明在土壤有机质梯度下物种出现了明显的生态位分化。
+
+Table6Ecological niche breadthsof 2Oplant species in theenvironmental gradientsof soil pHand organic matter   
+
+<html><body><table><tr><td rowspan="2">物种编号 Species code</td><td colspan="2">两种环境梯度下物种生态位宽度 Species niche breadths</td><td rowspan="2">物种编号 Species code</td><td colspan="2">两种环境梯度下物种生态位宽度 Species niche breadths</td></tr><tr><td>土壤pH值梯度 Soil pH gradient</td><td>土壤有机质梯度 Soil organic matter gradient</td><td>土壤pH值梯度 Soil pH gradient</td><td>土壤有机质梯度 Soil organic matter gradient</td></tr><tr><td>1</td><td>7.24</td><td>8.86</td><td>2</td><td>2.30</td><td>2.98</td></tr><tr><td>3</td><td>2.41</td><td>3.90</td><td>4</td><td>5.19</td><td>8.01</td></tr><tr><td>5</td><td>3.39</td><td>4.13</td><td>6</td><td>2.57</td><td>2.50</td></tr><tr><td>7</td><td>1.49</td><td>1.73</td><td>8</td><td>1.00</td><td>1.00</td></tr><tr><td>9</td><td>1.64</td><td>1.88</td><td>10</td><td>1.00</td><td>1.00</td></tr><tr><td>11</td><td>1.26</td><td>1.43</td><td>12</td><td>1.00</td><td>1.00</td></tr><tr><td>13</td><td>1.00</td><td>1.43</td><td>14</td><td>1.00</td><td>1.00</td></tr><tr><td>15</td><td>1.00</td><td>1.00</td><td>16</td><td>1.00</td><td>1.00</td></tr><tr><td>17</td><td>1.00</td><td>1.00</td><td>18</td><td>1.00</td><td>1.00</td></tr><tr><td>19</td><td>1.00</td><td>1.00</td><td>20</td><td>1.00</td><td>1.00</td></tr></table></body></html>
+
+表中植物编号同表1
+
+表6土壤 $\mathbf { p H }$ 值、有机质环境梯度下20种植物生态位宽度  
+表7土壤pH值(右上三角)及土壤有机质(左下三角)环境梯度下物种生态位重叠  
+Table7Speciesniceovapsineevromntalgdietsofsoilp（upprighttragle）andsologanicmaterotolftagle)   
+
+<html><body><table><tr><td>编号Code</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr><tr><td>1</td><td></td><td>0.64</td><td>0.30</td><td>0.72</td><td>0.42</td><td>0.57</td><td>0.20</td><td>0.36</td><td>0.23</td><td>0.36</td><td>0.16</td><td></td><td>0.520.35</td><td>0.35</td><td>0.20</td><td>0.11</td><td>0.11</td><td>0.11</td><td>0.11</td><td>0.11</td></tr><tr><td>2</td><td>0.51</td><td></td><td>0.25</td><td>0.40</td><td>0.08</td><td>0.20</td><td>0.27</td><td>0.62</td><td>0.32</td><td>0.62</td><td>0.20</td><td>0.77</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.12</td><td>0.12</td><td>0.12</td><td>0.12</td><td>0.12</td></tr><tr><td>3</td><td>0.39</td><td>0.38</td><td></td><td>0.34</td><td>0.64</td><td>0.21</td><td>0.97</td><td>0.21</td><td>0.96</td><td>0.21</td><td>0.96</td><td>0.00</td><td>0.22</td><td>0.22</td><td>0.00</td><td>0.94</td><td>0.94</td><td>0.94</td><td>0.94</td><td>0.94</td></tr><tr><td>4</td><td>0.85</td><td>0.51</td><td>0.65</td><td></td><td>0.28</td><td>0.32</td><td>0.32</td><td>0.26</td><td>0.34</td><td>0.26</td><td>0.30</td><td>0.26</td><td>0.12</td><td>0.12</td><td>0.76</td><td>0.26</td><td>0.26</td><td>0.26</td><td>0.26</td><td>0.26</td></tr><tr><td>5</td><td>0.42</td><td>0.14</td><td>0.61</td><td>0.40</td><td></td><td>0.33</td><td>0.51</td><td>0.02</td><td>0.50</td><td>0.02</td><td>0.52</td><td>0.00</td><td>0.13</td><td>0.13</td><td>0.06</td><td>0.52</td><td>0.52</td><td>0.52</td><td>0.52</td><td>0.52</td></tr><tr><td>6</td><td>0.49</td><td>0.24</td><td>0.28</td><td>0.30</td><td>0.35</td><td></td><td>0.08</td><td>0.32</td><td>0.11</td><td>0.32</td><td>0.04</td><td>0.00</td><td>0.45</td><td>0.45</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>7</td><td>0.17</td><td>0.46</td><td>0.89</td><td>0.53</td><td>0.40</td><td>0.00</td><td>1</td><td>0.25</td><td>1.00</td><td>0.25</td><td>0.99</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.00</td><td>0.97</td><td>0.97</td><td>0.97</td><td>0.97</td><td>0.97</td></tr><tr><td>8</td><td>0.27</td><td>0.85</td><td>0.29</td><td>0.27</td><td>0.00</td><td>0.00</td><td>0.40</td><td></td><td>0.34</td><td>0.00</td><td>0.13</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>9</td><td>0.20</td><td>0.56</td><td>0.88</td><td>0.54</td><td>0.38</td><td>0.00</td><td>0.99</td><td>0.52</td><td></td><td>0.34</td><td>0.98</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.94</td><td>0.94</td><td>0.94</td><td>0.94</td><td>0.94</td></tr><tr><td>10</td><td>0.27</td><td>0.85</td><td>0.29</td><td>0.27</td><td>0.00</td><td>0.00</td><td>0.40</td><td>1.00</td><td>0.52</td><td></td><td>0.13</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>11</td><td>0.13</td><td>0.32</td><td>0.89</td><td>0.51</td><td>0.43</td><td>0.00</td><td>0.98</td><td>0.22</td><td>0.95</td><td>0.22</td><td></td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.99</td><td>0.99</td><td>0.99</td><td>0.99</td><td>0.99</td></tr><tr><td>12</td><td>0.37</td><td>0.00</td><td>%</td><td>0.23</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td></td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>13</td><td>0.41</td><td>0.00</td><td>0.04</td><td>0.31</td><td>0.06</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.98</td><td></td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>14</td><td>0.37</td><td>0.00</td><td>0.00</td><td>0.23</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>0.98</td><td></td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>15</td><td>0.22</td><td>0.00</td><td>0.18</td><td>0.38</td><td>0.27</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.22</td><td>0.00</td><td></td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>16</td><td>0.22</td><td>0.00</td><td>0.18</td><td>0.38</td><td>0.27</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.22</td><td>0.00</td><td>1.00</td><td></td><td>0.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>17</td><td>0.07</td><td>0.14</td><td>0.85</td><td>0.46</td><td>0.44</td><td>0.00</td><td>0.92</td><td>0.00</td><td>0.86</td><td>0.00</td><td>0.98</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td></td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>18</td><td>0.07</td><td>0.14</td><td>0.85</td><td>0.46</td><td>0.44</td><td>0.00</td><td>0.92</td><td>0.00</td><td>0.86</td><td>0.00</td><td>0.98</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td></td><td>1.00</td><td>1.00</td></tr><tr><td>19</td><td>0.07</td><td>0.14</td><td>0.85</td><td>0.46</td><td>0.44</td><td>0.00</td><td>0.92</td><td>0.00</td><td>0.86</td><td>0.00</td><td>0.98</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td><td></td><td>1.00</td></tr><tr><td>20</td><td>0.07</td><td>0.14</td><td>0.85</td><td>0.46</td><td>0.44</td><td>0.00</td><td>0.92</td><td>0.00</td><td>0.86</td><td>0.00</td><td>0.98</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td></td></tr></table></body></html>
+
+表中植物编号同表1
+
+# 3讨论与结论
+
+(1)土壤因子与鄱阳湖湿地恒湖农场茶叶港草洲植物多样性的关系
+
+研究区植物Shannon-Wiener多样性指数 $H ^ { \prime }$ 及物种丰富度指数 $s$ 与土壤 $\mathrm { \ p H }$ 值呈显著和极显著正相关关系。Dupré等[24]和 Schuster等[25]研究发现,在偏酸性土壤中植物多样性指数与土壤 $\mathrm { \ p H }$ 值呈较好的单峰关系,并且峰值位于 $\mathrm { p H } = 5$ 一6的酸性土壤中。有研究表明,当土壤 $\mathrm { \ p H }$ 值在2一8之间时，物种丰富度指数与其
+
+http://www.ecologica.cn
+
+也具有很明显的单峰关系[26-27]。当位于峰值左边时,二者一般表现为线性正相关[29];当位于峰值右边时,则为线性负相关[28]。本研究中19个样地土壤pH值介于4.52—5.45 之间,处于较低水平,土壤 $\mathrm { \ p H }$ 值与 $H ^ { \prime } , S$ 的关系如图4。在 $\mathrm { p H } = 5 . 2 5$ 之前，二者关系总体上为正相关,大于5.25时 $H ^ { \prime }$ 开始下降,峰值位于 $\mathrm { p H } = 5 . 2 5$ 处,与Dupré 和Schuster 等人相关研究结论一致。从图中还可以看出土壤 $\mathrm { \ p H }$ 值与S之间呈线性正相关关系，与以上结论基本吻合。此外,本研究中土壤有机质也是影响植物 Shannon-Wiener多样性指数 $H ^ { \prime }$ 及物种丰富度指数 $s$ 的关键土壤因子。植物生长过程中受土壤养分的制约,土壤养分之间的差异性会导致群落植物物种多样性发生变化。植物物种多样性与土壤有机质关系较为复杂,不同学者研究得到的结果也有所不同。李平等[29]在探究川中丘陵区柏木低效林改造模式植物多样性对土壤有机碳的影响时,发现土壤有机碳、碳密度等与灌木层和草本层的植物多样性指数均呈显著正相关,而与乔木层植物多样性不相关。也有研究证实在小尺度范围内土壤养分与植物多样性呈负相关[30]。本研究得出土壤有机质与植物 Shannon-Wiener多样性指数 $H ^ { \prime }$ 及物种丰富度指数 S呈显著和极显著负相关关系,这与肖德荣等[31]在滇西北高原纳帕海湿地植物多样性与土壤肥力的关系研究中得出的结论较为一致。究其原因,主要是研究区一年中受水淹时间较长（4月一9月）,土壤受其影响通透性较差,土壤中的营养物质长期处在相对封闭状态,尽管土壤表层中有机质含量较高,但不利于植物的吸收利用,仅对于植物群落中的优势种较为适用。加之群落中的优势种灰化草根茎较为发达、生命力顽强,生长过程中不断与其他植物争夺土壤中的营养元素,导致群落中的伴生种很少,多数情况下只是一些植株较低、盖度较小的物种存在。两方面因素导致植物多样性较低。
+
+![](images/5cd5856c70d66c989fb37f91c93f34cc55fc5775a04b55b9268c13ad024c7203.jpg)  
+图4物种 Shannon-Wiener 多样性指数 $\pmb { H ^ { \prime } }$ 及物种丰富度指数 $s$ 与土壤 $\mathbf { p H }$ 值关系  
+Fig.4Relationships of H'and soil pH,S and soil pH
+
+(2)土壤因子与鄱阳湖湿地恒湖农场茶叶港草洲植物物种分布的关系
+
+RDA 排序结果显示研究区植物物种分布与土壤有机质、土壤pH值之间关系密切,均达到显著性水平。调查过程中发现草群落下的两个样地均处在低洼环境中,受湖水影响较大,草洲9月份开始退水,水体可带走可溶性物质与枯枝落叶,导致其土壤养分含量较低[32]。南荻群落土壤有机质含量较高,灰化臺草群落土壤有机质含量介于二者之间,从RDA 排序图上可以直观看出。这也与葛刚等[33利用CCA 排序揭示鄱阳湖区域植物种群分布与环境因子关系的结果较为一致。董磊等[9选取鄱阳湖典型洲滩江西省永修县吴城镇北部作为研究区域,探究湿地土壤因子对植被分布的影响,CCA排序分析结果发现土壤pH值为控制研究区物种分布的重要因素,进一步证实了本研究结论。本研究中土壤含水量并不是影响物种分布的关键因子,这与多数三角洲湿地以及盐沼湿地[11,23]相关研究的结论不同,可能与本研究区域尺度较小有关。
+
+(3)基于影响研究区植物物种分布关键土壤因子梯度下种群生态位研究
+
+将影响研究区植物物种分布最为明显的土壤pH值、土壤有机质环境因子分别划分为10个梯度级,进行种群生态位研究,相比基于植物特征(高度、盖度)为梯度的种群生态位研究,既能衡量物种对环境资源的利用能力,又能反映种群在群落中的地位[34]。本研究发现两个土壤因子梯度下灰化臺草与草生态位宽度占据前两位,其分布频度灰化臺草为 $9 4 . 7 4 \%$ ,草为 $7 8 . 9 5 \%$ ,对生存环境适应性较强,在群落中的作用较大;相比之下,苍耳、蚊母草生态位宽度仅为1,在整个区域分布频度及重要值均较低,对资源环境的利用能力弱。研究还发现这两个土壤因子梯度下植物种群生态位宽度基本一致但也存差异,如藹草在土壤 $\mathrm { \ p H }$ 值及土壤有机质环境梯度下生态位宽度分别为5.19和8.01,相差较大,表明其对不同环境因子的空间利用能力和适应性不完全相同。
+
+不同物种对同一种资源环境的利用可能会导致生态位重叠，生态位重叠值越大表明两个种群对资源的利用方式越相似或对环境要求基本一致[35];反之则差异较大。本研究发现两个土壤因子梯度下灰化臺草与草生态位重叠值均较高,表明二者在群落中的生存环境较为相似,对资源的利用方式相近,物种间易产生竞争；相反刚毛荸荠(Eleocharisvalleculosa）与稻搓菜在土壤 $\mathrm { \ p H }$ 值及土壤有机质梯度下生态位重叠值均为0,表明群落环境的差异性导致二者分别趋向转移到对各自生存发育更具优势的区域,逐渐成为特化种[36]。同一物种对在两个环境梯度下生态位重叠值也会出现较大差别,主要取决于物种利用资源方式的多样性以及群落环境的不均匀性[37]。研究区稻搓菜与芦苇在土壤 $\mathrm { \ p H }$ 值梯度下生态位重叠值达到0.98 的同时在土壤有机质梯度下生态位重叠值却为0,表明两个种群在一个环境梯度下发生生态位重叠,而在另一个环境梯度下发生生态位分离,物种之间生长过程中相互补充,尽量减少种间竞争,在资源利用上具有较高的效率。本研究还发现生态位宽度较大的物种与其他物种都发生了生态位重叠,例如两种土壤因子梯度下灰化草、草与其他物种之间生态位均有重叠,表明这些物种对资源的利用能力较强,在不同区域能和多种植物共生。相比之下，生态位宽度较小的物种与其他物种之间生态位重叠值不一定就小[34]。例如在土壤有机质梯度下广州菜（Rorippa cantoniensis)与蚊母草生态位宽度均为1,而生态位重叠值达到了0.98。原因可能与物种自身生物学特性有关,广州菜与蚊母草植株较高且属于耐阴喜湿性物种。调查过程中发现二者经常分布在灰化臺草、草等这些高大的物种下面,地表较为潮湿,对环境要求更为相似,导致其生态位重叠值较高。
+
+# 参考文献（References）：
+
+[1］刘瑞雪,陈龙清,史志华.丹江口水库水滨带植物群落空间分布及环境解释.生态学报,2015,35(4):1208-1216.  
+[2]邵璞,曾晓东.气候年际变率对全球植被平均分布的影响.生态学报,2011,31(6)：1494-1505.  
+[3］贾庆宇,王笑影,吕国红,谢艳兵.气候变化对植被带影响研究进展.安徽农业科学,2010,38(21):1305-1307.  
+[4]HeMZ，ZhngJG,LiX，QianYLEnviroentalfactorsfetingvegeatoncomposioniheaPlateau,China.JoualofAdEnvironments,2007,69(3）:473-489.  
+[5]Wang XL,HnJY,XuLG，WangRR,CnYWSolacteistisielatiogeatiounitsineetlandsofgLake,China.Wetlands,2014,34(4) :829-839.  
+[6]AddaodaioofcuseaalllsoalarkbdaisaosiConservation，2009，2（2）:38-44.  
+[7]Hamdan MA，AsadT,HassanFM，WarmerBG，DouabulA，Al-HilliMRA，AlwanAA.Vegetationresponsetore-flodingintheMesopotamian wetlands,Southern Iraq.Wetlands,2010,30(2）:177-188.  
+[8 AndersonRP.HaesingthorldsivestataProisedpriliologicaliceodelingofspedistrbutiosAlsfthewYork Academy of Sciences,2012,1260(1） :66-80.  
+[9] 董磊,徐力刚,许加星,徐进,王晓龙,张奇.鄱阳湖典型洲滩湿地土壤环境因子对植被分布影响研究.土壤学报,2014,51（3）:619-626.  
+[10] 贾建丽，于妍，王晨.环境土壤学.北京：化学工业出版社，2012;56-65.  
+[11］郭秀玲,上官铁梁,张婕.汾河河口湿地植被数量分类与排序.武汉植物学研究,2010,28（4）：431-436.  
+Sdiqituiaeeemoist temperate areas of Pakistan.Pakistan Journal of Botany,2O1O,42:267-293.  
+[13］马克平.生物群落多样性的测度方法;Iα多样性的测度方法(上).生物多样性,1994,2(3):162-168.  
+[14] 马克平,刘玉明.生物群落多样性的测度方法： $\mathrm { ~ I ~ } \alpha$ 多样性的测度方法(下).生物多样性,1994,2(4)：231-239.  
+[15］张金屯.数量生态学.北京;科学出版社,2004:97-99.  
+[16]王兴宋,乃平,杨新国,陈林,刘秉儒,曲文杰,杨明秀,肖绪培.荒漠草原弃耕恢复草地土壤与植被的RDA分析.草业学报,2014,23（2)：
+
+9U-91.[7]FeuGcoGtalcgsaleatihtsfBasin.Folia Geobotanica,2013，48(4）:493-508.[18]Levisougt：oeplotieoeUUi120- 123.[19] Pianka ER.The structure of lizard communities.Annual Review of Ecologyand Systematics,1973,4(4):53-74.[20] 吴征镒.中国植被.北京;科学出版社,1980:628-697.[21] 郎惠卿,赵魁义,陈克林.中国湿地植被.北京;科学出版社,1999;35-41.[22] 郑敬刚,董东平,赵登海,何明珠,李新荣.贺兰山西坡植被群落特征及其与环境因子的关系.生态学报,2008,28（9)：4559-4567.[23] 赵欣胜,崔保山,孙涛,贺强.黄河三角洲潮沟湿地植被空间分布对土壤环境的响应.生态环境学报,2010,19（8)：1855-1861.[24]DupréC,WesrgC，DiekmaSpeciesichnssideciduousforests：ectsofspeciesolsndeviroentalvariablesJoualfVegetation Science，2002，13(4）：505-516.[25]ScusterkagsiseiesitglitdecefrtouiFloba38(4) :367-379.26]PusassssdesousrrsalVat9）4.27]Gougspsirfof Ecology,2000,88(1) : 54-66.[28]Partel M.Localplantdiversitypaternsandevolutionaryhistoryat theregional scale.Ecology，2o02,83（9）：2361-2366.[29］李平,李凤汀,范川,李贤伟,张健,黄明莉.川中丘陵区柏木低效林改造模式植物多样性对土壤有机碳的影响.生态学报,2015,35（8)：2667-2675.[30] Rosenzweig ML. Species diversity in space and time. Cambridge:Cambridge University Press,1995:1-435.[31] 肖德荣,田昆,张利权.滇西北高原纳帕海湿地植物多样性与土壤肥力的关系.生态学报,2008,28（7);3116-3124.[32]许加星,徐力刚,姜加虎,王晓龙,陈宇炜,徐进．鄱阳湖典型洲滩植物群落结构变化及其与土壤养分的关系.湿地科学,2013,11（2)：186-191.[33] 葛刚,赵安娜,钟义勇,吴志强.鄱阳湖洲滩优势植物种群的分布格局.湿地科学,2011,9(1)：19-25.[34] 王香红,栾兆擎,闫丹丹,王忠欣.洪河沼泽湿地17种植物的生态位.湿地科学,2015,13(1)：49-54.[35] 李峰,谢永宏,陈心胜,邓正苗,李旭.黄河三角洲湿地水生植物组成及生态位.生态学报,2009,29(11):6257-6265.[36] 胡正华,钱海源,于明坚.古田山国家级自然保护区甜褚林优势种群生态位.生态学报,2009,29（7):3670-3677.[37] 庞春花,范晓,张峰,倪瑞军,冯晓佳,马晓波.不同资源维度上汾河流域下游优势种的生态位.生态学杂志,2015,34(2)：380-386.

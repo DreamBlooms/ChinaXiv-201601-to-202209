@@ -1,0 +1,122 @@
+# 煤热解气中汞连续测量方法及应用
+
+张璧，罗光前\*，徐萍，邓章，姚洪（华中科技大学煤燃烧国家重点实验室，武汉430074)
+
+摘要针对煤热解气中烃类物质对连续测汞仪的影响，本文采用高温载氧体处理煤热解气消除此影响，研究了煤热解气处理后汞连续测量的效果并进行实际应用。结果表明：烃类物质造成冷原子吸收测汞仪测量结果完全错误。经载氧体处理后氧化了热解气中烃类物质，使热解气中汞能被准确连续测量。使用前后载氧体 XRD 分析也验证这一结果。在煤程序升温热解汞的连续测量应用中，发现实验所用煤中汞主要有两个温度释放峰，且在 $6 0 0 ^ { \circ } \mathrm { C }$ 已基本释放完全。
+
+关键词煤热解气；汞；连续测量；载氧体；烃类物质中图分类号：TK16 文献标识码：A
+
+New method of mercury continuous measurement and its applications in coal pyrolysis
+
+gas
+
+ZHANG Bi, LUO Guangqian, XU Ping,DENG Zhang, YAO Hong (State KeyLaboratoryofCoalCombustion,Huazhong UniversityofScienceandTechnology,Wuhan,Hubei,430074)
+
+Abstract:Hydrocarbons in coal pyrolysis gascan interferes the continuous mercury analyzer. A pretreatment method with high temperature oxygen carrer was proposed to eliminate the interference.The results showed that hydrocarbons have a big impact on continuous mercury analyzer. After being treated by the high temperature oxygen carrier, te mercury concentration in coal pyrolysis gas can be accuratelycontinuous measured.The XRD analysis of oxygen carrier also verified this result.
+
+Key words: Coal pyrolysis gas; Mercury continuous measurement; Oxygen carrer; Hydrocarbon
+
+# 0前言
+
+汞作为一种有毒的重金属元素会对人类和生物的神经系统造成一定的危害[1,2]。煤的燃烧和利用是最主要的人为汞排放源，每年全球约有1000t的汞通过煤的燃烧及利用释放，占总的排放比例的 $3 0 \% ^ { [ 3 ] }$ 。中国每年使用的煤炭总量是世界最大的，所以中国可能也是世界最大的汞排放国[4]。在 2011年新的国标《火电厂大气污染物排放标准》（GB13223-2011）中将汞新加入为污染物控制项，排放限制为$0 . 0 3 \mathrm { m g / m } ^ { 3 }$ 。中国煤的燃烧和利用中汞的排放成为一个急迫的问题，
+
+对煤燃烧利用中产生气体中汞的测量是控制汞排放的前提。其中汞的连续测量技术因为其实时与便利而受到青睐。燃煤烟气中汞的连续测量已有比较成熟的技术，目前在电厂中广泛应用的连续测汞仪的主要采用冷原子吸收光谱（CVAAS）方法，利用汞蒸气对波长 $2 5 3 . 7 \mathrm { n m }$ 紫外光吸收作用的特点对汞进行测量[5]。在煤利用中，热解利用是其中重要的组成部分[]，因此对煤热解气中汞的测量也显得非常重要。但在燃煤电厂中使用的连续测汞方法和仪器不能直接用于煤热解气中汞的测量，这是因为测量汞所用的 $2 5 3 . 7 \mathrm { n m }$ 紫外光也会被煤热解气中的烃类物质吸收，使得测量结果不准确[7]。对煤热解气中汞的测量主要通过化学吸收方法，即先将汞富集于吸收溶液后再测量溶液中的汞含量，进而得到煤热解气中汞的含量[8]，但这种方法比较繁琐费事，容易造成人为误差，且测量结果为一定体积气体中汞的平均含量，不能连续监测热解气中的汞含量。解决煤热解气中汞的连续测量问题会对实验室相关实验及煤热解利用中汞的连续监测起到很大的帮助。
+
+针对以上的问题，本文主要研究了一种可以连续测量煤热解气中汞的方法。通过高温载氧体处理装置与煤热解气中的烃类物质反应，消除其对冷原子吸收连续测汞仪的不利影响。验证了载氧体处理装置对气体中烃类物质去除的效果，对比了有无处理时连续测汞仪对煤热解气中汞测量的结果，并对使用前后的载氧体做了XRD分析，最后将此方法应用在两种煤的程序升温热解气汞含量连续测汞的实验中。
+
+# 1 实验部分
+
+# 1.1 实验装置
+
+![](images/1dd1cc97aa0e58758d304303187530d3678c4ed14e20810ceb77e961af88b0ad.jpg)  
+图1煤热解气中汞的连续测量实验装置图  
+Fig.1 Experimental setup
+
+煤热解气中汞的连续测量实验装置如图1所示。实验装置分为三部分。1.模拟热解气产生装置：主要由气瓶、汞发生装置、甲苯发生器组成。氮气气流经过甲苯发生器，使得氮气中含有一定浓度的甲苯蒸气，用来模拟煤热解气中的烃类物质。汞发生装置产生一定量的汞蒸气。旁路用来平衡气流总量。2.煤热解气处理和测量装置：主要由电加热炉、载氧体、冷原子吸收测汞仪组成。电加热炉温度控制在$9 0 0 ^ { \circ } \mathrm { C }$ ，为载氧体提供反应温度。载氧体由石英反应器装载置于电加热炉中。模拟热解气或煤热解气经过高温载氧体处理后，进入测汞仪测量。旁路可以将热解气直接通入测汞仪测量。3.煤热解装置：主要由气瓶和电加热炉组成。电加热炉内置石英反应器。可以对煤粉进行恒温或者程序升温热解。
+
+载氧体制作：载氧体为氧化铁 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 和氧化镍NiO 的混合物负载于石英砂上。将 $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 粉末与NiO粉末按一定质量分数混合，制得的混合物再与石英砂 ( $5 0 { \cdot } 1 0 0 \ \mu \mathrm { m }$ ）按一定质量分数混合。其中氧化铁和氧化镍为主要反应物，石英砂起到骨架以降低床料阻力作用。
+
+# 1.2模拟热解气连续测量实验
+
+本文先通过实验验证烃类物质对测汞仪测量的影响。用氮气通过液态甲苯使之携带饱和甲苯蒸气来模拟热解气中的烃类物质，通过改变携带甲苯的氮气气流量来改变进入测汞仪中甲苯蒸气的浓度。分别用 $0 . 2 5 ~ \mathrm { L / m i n }$ 、 $0 . 5 ~ \mathrm { L / m i n }$ 、 $0 . 7 5 ~ \mathrm { L / m i n }$ 、 $1 ~ \mathrm { L } / \mathrm { m i n }$ 的气流携带甲苯，用旁路将气流平衡至 $1 ~ \mathrm { L } / \mathrm { m i n }$ 。在一种工况下，等测汞仪基线稳定后，打开携带甲苯气流，使不含汞的模拟热解气直接进入测汞仪测量，同时记录测汞仪显示读数。过一段时间后关闭携带甲苯蒸气的气流，等测汞仪示数稳定后，再次打开携带甲苯气流，同时改变携带甲苯气流量，进行下一组工况实验。
+
+然后本文进行了含汞的模拟热解气经过载氧体处理装置后连续测量的实验。将 $1 ~ \mathrm { L } / \mathrm { m i n }$ 含 $9 0 ~ \mu \mathrm { g / m } ^ { 3 }$ 汞的气流通过温度为 $9 0 0 ^ { \circ } \mathrm { C }$ 的载氧体处理，观察经过载氧体处理后，是否对测量气体中汞含量有影响。然后在测量气体中加入 $0 . 5 ~ \mathrm { L / m i n }$ 甲苯气流，考察含汞的模拟热解气经过处理装置后是否能消除烃类物质对测汞仪的影响。
+
+# 1.3模拟热解气中汞的连续测量及应用
+
+本文对真实煤热解气经过载氧体处理装置后能否进行连续测量也做了实验探究。在电加热炉温度为 $6 0 0 \mathrm { ~ \textdegree ~ }$ 、氮气气流量为 $1 \mathrm { L } / \mathrm { m i n }$ 的实验工况下，热解 $4 \mathrm { g } \mathrm { A }$ 烟煤作为真实煤热解气来源。做两组对比实验，第一组热解气直接进入连续测汞仪测量，而另一组经过载氧体处理装置后再进入测汞仪进行测量。本文对原始载氧体与在真实煤热解气中使用过的载氧体做了XRD分析。探讨使用前后载氧体的变化。
+
+本文对两种煤B褐煤与C 烟煤进行了程序升温热解实验。在氮气气流量为 $1 ~ \mathrm { L } / \mathrm { m i n }$ 工况下，将 $\mathrm { ~ 4 ~ g ~ } _ { }$ 的煤粉以 $1 0 \ \mathrm { ^ { \circ } C / m i n }$ 升温速率从室温升到 $1 1 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，同时用本文所述的处理装置连续监测热解气中汞的含量。上诉三种煤中的汞含量均在美国LeeMan公司生产的固体测汞仪HydraC中测得。
+
+# 2结果与讨论
+
+# 2.1模拟热解气中汞的连续测量
+
+图2为烃类物质对冷原子荧光测汞仪的影响，图2a为不同携带甲苯气流量的影响，图中横坐标为不同携带甲苯气流量，纵坐标为测汞仪响应信号值的平均值及误差。图2b为甲苯携带气流为1L/min时测汞仪响应信号随时间的变化。从图2a中可以看出气流中的甲苯蒸气对测汞仪测量有很大影响。随着携带甲苯气流量的增加，测汞仪产生的信号值也会增加，在 $1 \mathrm { L } / \mathrm { m i n }$ 时最高有 $1 4 0 0 ~ { \mu \mathrm { g / m } } ^ { 3 }$ 的信号值。实际燃煤烟气或煤热解气中的汞含量在10-300$\mu \mathrm { g } / \mathrm { m } ^ { 3 }$ 之间，因此仅仅用已有的连续测汞仪测量热解气中的汞含量会造成很大的偏差。从图2b中还可以看出甲苯气流产生的信号值不稳定，会随着时间增加。这可能与甲苯很容易吸附在管路的管壁上有关。在测汞仪的测量光池表面也可能会吸附一定的甲苯使其测量信号值一直增加。而且在关闭携带甲苯气流后，测汞仪要经过一段时间才能回到基线。这种现象在携带甲苯气流量为 $1 ~ \mathrm { L } / \mathrm { m i n }$ 时最明显，在关闭携带气流后，经过 $1 0 ~ \mathrm { m i n }$ 以上的时间测汞仪示数还未完全回到基线。这进一步说明了甲苯气流会对测汞仪测量产生影响
+
+![](images/69366e65bf4a4a99653d7b75171a70c264ad4047f3374e7c21f203ad67a420c7.jpg)  
+图2烃类物质对测汞仪的影响  
+Fig.2 Effect of hydrocarbons(toluene) on CVAAS
+
+图3为携带汞的模拟热解气经过载氧体处理装置后的连续测量结果。一开始仅含汞气流经过载氧体处理装置，测汞仪测量数值一直很稳定。这说明处理装置中的载氧体不与气流中的汞发生氧化反应，不会对气流中单质汞含量造成影响。在加入0.5$\mathrm { L } / \mathrm { m i n }$ 甲苯后测汞仪数值有一个很大的下降然后快速上升的过程，这是切换气体造成的影响。之后测汞仪示数有微量的波动，但一直维持在一个稳定的范围内。从图3中可以看出加入 $0 . 5 \mathrm { L } / \mathrm { m i n }$ 甲苯气流经，过处理装置后并未对汞的连续测量造成较大影响。可以推断甲苯已经被载氧体完全氧化。生成不会对测汞仪造成影响的气体。主要反映方程式如下。
+
+$$
+\scriptstyle \operatorname* { m i n } _ { 1 \leq i \leq 1 } \sum _ { k = 2 } \operatorname* { E q } _ { 1 \leq i \leq 1 } \neq ( { \frac { \sqrt { 2 } - 1 1 } { 2 } } + \mu \eta ) \tau \leq \mu \leq \tau \leq
+$$
+
+$$
+ 2 n C O _ { 2 } + m a + C a + C a + m a + n _ { 2 } \uparrow
+$$
+
+![](images/c305df4334774be84b774b3b11165e266fc05be86bc9aeb2abd99dc3822882f9.jpg)  
+图3经过处理装置后含苯气流中汞的连续测量Fig. 3 Continuous measurement of $\mathrm { H g }$ with or without toluene bynew method
+
+# 2.2真实煤热解气中汞的连续测量及应用
+
+载氧体处理装置可以很好的处理模拟热解气中烃类物质，使模拟热解气中的汞能被直接的连续测量。但真实煤热解气中烃类物质结构较复杂，为了验证载氧体能否应用于真实热解气中。本文进行了更深入的实验。
+
+图4为煤热解气直接测量（黑色虚线）与经过载氧体处理装置过后测量（红色实线）测汞仪显示的汞浓度随时间变换的对比图。从图4中可以看出连续测汞仪直接测量煤热解气时汞浓度最高值高到达 $1 6 0 0 ~ { \mu \mathrm { g / m } } ^ { 3 }$ ，且曲线最终不能回到基线。而通过载氧体处理过后的热解气最高值在 $4 0 0 ~ { \mu \mathrm { g } } / \mathrm { m } ^ { 3 }$ ，且曲线最终回到零点。通过对经过处理装置后测量曲线进行积分，并对比煤粉中汞含量，得到回收率为 $87 \%$ （测汞仪测量热解气中汞总量除以煤中汞总量)。从图4中可以明显看出热解气会对测汞仪测量造成影响，煤热解气之中的一些物质可能会污染测汞仪的光池。而用载氧体处理煤热解气后能较好的进行汞
+
+的连续测量。
+
+![](images/a8fdcad1879ad326c519f8a971508a29224df81341ada08f3e0fd63f1b4089d2.jpg)  
+图4处理煤热解气前后中汞的连续测量对比 Fig.4 Continuous measurement of $\mathrm { H g }$ in coal pyrolysis gas with or without pretreatment by new method
+
+本文对原始载氧体与在真实煤热解气中使用过的载氧体做了XRD分析。图5为原始载氧体的XRD图。从图中可以看出载氧体主要氧化镍、氧化铁、和石英砂组成。图6为在煤热解气中使用后的载氧体XRD图。可以看出使用过的载氧体主要以单质态的镍和镍与铁的结合体存在，仅有少量的氧化镍存在。相较于原始的载氧体相比，有少量的碳存在。可以推断载氧体中氧化镍与氧化铁与热解气中的烃类物质反应，生成镍和镍与铁结合态物质。而附着在载氧体上的碳可能由于烃类物质与载氧体反应不完全生成。
+
+![](images/b2f345091c92d0b5d09489d4761e32abc6aa66f669aa391b2c215e552bf5b2c2.jpg)  
+图5未使用载氧体XRDFig.5XRD of original oxygen carrier
+
+![](images/402430dad3f7d4b015c0a034d97ec80829f38d88881a0acad8bc78336cc09a1d.jpg)  
+图6使用过后载氧体XRDFig.6 XRD of used oxygen carrier
+
+一些学者用程序升温热解同时检测汞的释放的方法研究煤灰和脱硫石膏中汞的形态[9,10]。但由于煤热解气中的汞不能直接连续测量，使得此技术对煤中汞的识别有一定的局限性。罗光前在 $1 ^ { \circ } \mathrm { C } / \mathrm { m i n }$ 升温速率下用化学吸收的方法识别煤中汞的形态，但这种方法复杂且耗时很长[8]。而本文将连续测量煤热解气中汞的方法应在煤的程序升温汞形态的识别上，使实验更加简单。图7、图8是两种煤程序升温热解下汞随温度的释放曲线。从图中可以看出，煤中汞的主要有两个温度释放峰分别在 $2 0 0 { - } 4 0 0 \ \mathrm { ^ circ C }$ 与$4 0 0 { - } 6 0 0 ^ { \circ } \mathrm { C }$ 。这与罗光前的文献中的报道相似。从图中可以看出B褐煤在 $6 0 0 ^ { \circ } \mathrm { C }$ 以后有少量的汞释放，而C烟煤 $6 0 0 ^ { \circ } \mathrm { C }$ 以后基本无汞释放。而张成的研究也报道了在 $6 0 0 ^ { \circ } \mathrm { C }$ 热解温度下煤中的汞基本释放完全[1]。
+
+![](images/6ec9ebb65a22da003fa145c079fa5a77440b1f1285bdc6dc4652c021bda71b6c.jpg)  
+图7B褐煤程序升温热解汞的释放  
+Fig. 7 Mercury releases on coal B temperature program pyrolysis
+
+![](images/e3bd385d5a35c825e8d0e17200582588ea737eaa61a22340e487e62010a25462.jpg)  
+图8C烟煤程序升温热解汞的释放  
+Fig.8Mercury releases on coal C temperature program pyrolysis
+
+# 3结论
+
+（1）甲苯会对冷原子荧光测汞仪造成很大影响。利用高温载氧体处理模拟热解气，能将烃类物质氧化同时不与气体中原有的汞反应。使得模拟热解气中的汞能被直接连续测量。（2）煤热解气直接测量误差很大，且煤热解气中一些物质会污染测汞仪。煤热解气通过高温载氧体处理装置后连续测量结果准确。（3）在煤热解气中使用过后的载氧体中主要以镍和铁存在，有少量的碳附着在载氧体上。原始载氧体中的氧化铁与氧化镍在高温下能氧化热解气中的烃类物质。（4）程序升温热解下煤中汞有两个释放峰分别在$2 0 0 { - } 4 0 0 ^ { \circ } \mathrm { C }$ 与 $4 0 0 { - } 6 0 0 ^ { \circ } \mathrm { C }$ 。实验煤种煤中汞在热解温度$6 0 0 ^ { \circ } \mathrm { C }$ 时已基本释放完全。
+
+# 参考文献
+
+[1] Chang L W, Reuhl K R, Spyker J M. Ultrastructural study of the latent effects of methyl mercury on the nervous system after prenatal exposure[J]. Environmental research.1977,13(2): 171-185. [2]Jensen S.Biological Methylation of Mercury in Aquatic Organisms[J].Nature.1969,223:753-754. [3] Pirrone N,Cinnirella S,Feng X,et al. Global mercury emissions to the atmosphere from anthropogenic and natural
+
+sources[J].Atmos.Chem.Phys.2010,10(13): 5951-5964.   
+[4] Streets D G, Hao J, Wu Y,et al. Anthropogenic mercury emissions in China[J].Atmospheric Environment. 2005,39(40): 7789-7806.   
+[5] 张锦茂，董芳，何洁，等．蒸气发生一一原子荧光光谱 分析的最新进展[J]．光谱仪器与分析.2006(Z1).   
+ZHANG Jinmao，DONG Fang，HE Jie,et al.The latest developments in atomic fluorescence spectrometry - Vapor Generation[J]. Spectrum Instrumentsand analysis (China). 2006(Z1)   
+[6] 张成，曹娜，邱建荣，等．煤燃烧前温和热解汞和硫的 释放特性研究[J]．中国电机工程学报.2009(20):35-40.   
+ZHANG Cheng，CAO Na,QIU Jianrong，et al. Sulfur and mercury release characteristics during coal mild pyrolysis[J]. Chinese Society for Electrical Engineering.2009(20): 35-40. [7] Shafawi A, Ebdon L,Foulkes M,et al.Determination of total mercury in hydrocarbons and natural gas condensate by atomic fluorescence spectrometry[J]. Analyst. 1999,124(2): 185-189.   
+[8] Luo G, Yao H, Xu M, et al.Identifying modes of occurrence of mercury in coal by temperature programmed pyrolysis[J]. Proceedingsof the Combustion Institute. 2011， 33(2): 2763-2769.   
+[9] 李振山，韩海锦，蔡宁生．化学链燃烧的研究现状及进 展[J].动力工程.2006,26(4):538-543.   
+LI Zhengshan, HAN Haijin, CAI Ningsheng. Research status and progress of chemical looping combustion[J]. Power Engineering (China). 2006,26(4): 538-543.   
+[10] Lopez-Anton M A,Yuan Y,Perry R,et al. Analysis of mercury species present during coal combustion by thermal desorption[J]. Fuel.2010, 89(3): 629-634.   
+[11]张成，李婷婷，曲世俊，等．煤温和热解过程中汞释放 形态及分布规律研究[J]．工程热物理学报.2012,11:42.   
+ZHANG Cheng,LI Tingting, QU Shijun, et al. Mercury releases study on coal mild pyrolysis process[J]. Journal of Engineering Thermophysics.2012,11: 42.

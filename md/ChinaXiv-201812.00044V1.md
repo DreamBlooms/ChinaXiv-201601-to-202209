@@ -1,0 +1,151 @@
+DOI:10.11931/guihaia.gxzw201807020
+
+# 烟草种子成熟过程中膜脂的变化规律研究
+
+郑昀晔,牛永志」，索文龙¹，逢涛2\*（1.玉溪中烟种子有限责任公司，云南 玉溪 653100；2.云南省烟草农业科学研究院，云南 玉溪 653100）
+
+摘要：本研究采用脂类组学方法系统研究了烟草种子成熟过程中膜脂含量及组成比例的变化规律。结果表明：构成叶绿体和类囊体膜的重要脂类质体膜脂的含量及其在总膜脂中组成比例在种子成熟的整个过程中保持下降趋势；而构成细胞膜的重要脂类质外体膜脂含量在种子成熟前期下降显著，在授粉21天后基本保持不变。总膜脂含量的变化规律与质体膜脂类似，但在授粉后第 29天后含量达到稳定状态。因油脂在种子成熟过程中不断积累，且化学结构与膜脂相似，质体膜脂含量的降低可能与种子成熟过程中种子对油脂累积的持续需求以及对叶绿体及类囊体的需求降低有关。质外体膜脂含量在授粉21天后基本保持不变的原因可能是脂质外体膜脂是细胞膜组成的主要膜脂，细胞膜在种子成熟以及成熟种子萌发过程中均发挥重要作用，因此质外体膜脂只在种子成熟的前期有部分转化为油脂。
+
+关键词：烟草，种子，成熟，膜脂中图分类号：S572 文献标识码： A
+
+# Study of the membrane lipids changes during the ripening process of tobacco seeds
+
+ZHENG Yunye', NIU Yongzhi1, SUO Wenlong', PANG Tao2\* (1. Yuxi China Tobacco Seed Co.,Ltd, Yuxi 6531O0, Yunnan, China ; 2. Yunnan Academy of Tobacco Agricultural Sciences, Yuxi 6531oo, Yunnan, China)
+
+Abstract: In order to clarify the change rule of membrane lipids in tobacco seed during ripening process, the changes rule of membrane Lipids content and components in the seeds of tobacco were studied systematically by the method of lipidomics.The results showed that the content of plastidic membrane lipid and its proportion in total membrane lipids decreased continuously with the ripening of the seeds, which were important lipids that constituted chloroplast and thylakoid membranes.Whereas as important lipids that constituting cell membranes，the content of extraplastidic membrane lipids decreased significantly at the early stage of seed maturation which reached a stable state at 21 days after polination. The changes of total membrane Lipids content were similar to that of plastid membrane lipids,which reached a stable state at 29 days after pollination. Because grease accumulated continuously during seed maturation,and its chemical structure was similar to that of membrane lipids, the reduction of plastidic membrane lipids content could be related to the sustained demand for grease accumulation during seed maturation and the decrease of demand for chloroplasts and thylakoids. The reason of extraplastidic membrane lipids remaining unchanged at 21 days after pollination was related to extraplastidic membrane lipids as the major membrane lipids involving in cell membrane,cell membrane played an important role during seed maturation and mature seed germination, therefore it was speculated that the decreased membrane lipids were transferred to grease.
+
+Key words: tobacco, seeds,maturation,membrane lipids
+
+高质量的烟草种子是烟叶生产的基础，而种子质量与其成熟度直接相关(詹永发，2011；张健，2012；尚帅斌，2014)。因此，如何精确判断种子的成熟度并以此来指导种子采收是烟草种子生产亟待解决的问题。邵岩等（2017）系统研究了烟草种子成熟过程中种子形态、色泽、含水量、可溶性糖、淀粉、脂肪、蛋白质、激素等变化规律，宋碧清等（2018）研究了烟草种子成熟过程中抗氧化酶活性变化与种子质量的关系。但是，目前关于种子成熟过程中膜脂组成及含量变化的研究尚未见报道。
+
+研究发现膜系统的变化与种子质量、寿命和耐贮藏性等密切相关（尹田夫等，1989，1990;陈善娜，1995；宋健，2009)。膜脂是膜系统主要成分，膜脂组成及含量变化对膜系统的物理特性及相变温度都有重要影响，从而影响种子活力（杨永青，2004)。膜脂主要包括磷脂酰胆碱(PC)、磷脂酰乙醇胺(PE)、磷脂酰肌醇(PI)、磷脂酰甘油(PG)、磷脂酸(PA)等磷脂(PL)和单半乳糖二甘油脂(MGDG)、双半乳糖二甘油脂(DGDG)等糖脂（宋健，2009)，其中 MGDG、DGDG 和 PG 是组成叶绿体膜的主要脂类，因此被称为质体膜脂 (Dormann& Benning,2002;Kobayashi et al,2007)，剩余的其它极性甘油酯则称为质外体膜脂，是植物细胞膜、线粒体膜等其它细胞器膜的主要组成脂类。
+
+本研究通过脂类组学系统分析了烟草种子在不同成熟期的膜脂组成及含量变化，旨在揭示烟草种子在成熟过程中膜脂变化规律，建立与种子质量的关系，指导种子采收。
+
+# 1材料与方法
+
+# 1.1 材料
+
+供试材料为烟草品种红花大金元（Nicotiana tabacum）种子，由玉溪中烟种子有限责任公司提供。
+
+# 1.2 方法
+
+# 1.2.1育苗及田间种植
+
+按GB/T 25241.1-2010《烟草集约化育苗技术规程第1部分：漂浮育苗》方法育苗，烟苗苗龄 55天时移栽，烟株株距和行距为 $5 5 ~ \mathrm { c m } \times 1 2 0 ~ \mathrm { c m }$ ，田间管理按GB/T24308-2009《烟草种子繁育技术规程》执行。
+
+# 1.2.2种子的制作及保存
+
+花粉采集及授粉：初花期，选长势和品种典型性状好的烟株，人工剥取花药，晾干使其散粉，用50目筛子筛出花粉，待花粉含水量 $< 7 \%$ 在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下干燥密封保存备用；在烟株盛花期，摘取已开放花朵、蒴果，进行1批次授粉，授粉结束3天后摘除幼嫩花蕾。
+
+蒴果采摘：授粉后第7天、21天、25天、29天、33天采摘蒴果。
+
+种子剥取与保存：从新鲜蒴果中剥取种子，经液氮预冷 $1 ~ \mathrm { m i n }$ 后置于 $- 8 0 ~ ^ { \circ } \mathrm { C }$ 超低温冰箱中保存。
+
+种子的冷冻干燥和称重：取出保存于 $- 8 0 ~ ^ { \circ } \mathrm { C }$ 超低温冰箱的种子并置于冷冻干燥器中， $- 5 0 \ ^ { \circ } \mathrm { C }$ 冷冻干燥3天至恒重。分别称取 $1 0 0 ~ \mathrm { { m g } }$ 不同成熟期的种子各5份，用于脂类的提取。
+
+# 1.2.3脂类提取及ESI-MS/MS分析
+
+总膜脂提取步骤：1）将种子置于已经预热至 $7 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 的异丙醇（含 $0 . 0 1 \%$ 2，6-二叔丁基-4-甲基苯酚）中固定（抑制磷脂酶的活性） $1 5 \mathrm { m i n }$ ；2）将种子转移至研钵中，先充分研磨后转入 $1 5 ~ \mathrm { m L }$ 的离心管，然后使用 $1 \mathrm { m L }$ 氯仿和 $1 \mathrm { m L }$ 甲醇洗涤研钵，并将洗涤液转移至离心管中，最后在离心管中加入 $0 . 8 ~ \mathrm { m L }$ 的去离子水，震荡均匀；3）向离心管中加入 $1 . 0 ~ \mathrm { m L }$ 氯仿和 $1 . 0 ~ \mathrm { m L }$ 水，震荡均匀，离心分层；4）用移液器吸取下层溶液（主要包括氯仿和脂类），并转移至干净离心管中；5)再在原离心管中加入 $1 . 0 \mathrm { m L }$ 氯仿，震荡并离心，同样吸取下层并转移至上次转移的干净离心管中；6)重复步骤5；7）向装有三次提取液的离心管中加入 $0 . 5 ~ \mathrm { m L }$ 的 $\mathrm { 1 m o l \cdot L ^ { - 1 } }$ 氯化钾，震荡均匀，离心并弃去上层的水层；8）再向提取液中加入 $1 \mathrm { m L }$ 的去离子水，震荡均匀，离心并弃去上层的水层；9）使用氮吹仪吹干提取液，并用 $1 . 5 \mathrm { m L }$ 氯仿溶液进行溶解；10）转移氯仿溶液至 $2 { \mathrm { m L } }$ 进样瓶中，在氮吹仪下吹干，封存待测。
+
+仪器分析方法：采用电喷雾离子化串联质谱连用技术（ESI-MS/MS）测定膜脂含量(Welti et al,2002; Li et al, 2008)。
+
+# 1.3统计分析
+
+采用Microsoft Excel2017和Origin 8.0进行数据处理及作图,使用SPSS16.0进行显著性分析。
+
+# 2结果及分析
+
+# 2.1种子成熟过程中膜脂总量的变化趋势
+
+在种子发育成熟过程中，膜脂总量呈下降趋势，下降速度先快后慢（图1)。授粉后第7天膜脂总量为 $2 3 . 9 6 \mathrm { n m o l \cdot \mathrm { m g } ^ { - 1 } }$ ，第21天迅速下降至 $8 . 2 5 ~ \mathrm { n m o l \cdot m g ^ { - 1 } }$ ；第21天后膜脂总量缓慢下降，第 21天和25天差异不显著，但显著高于第29天和33天，第 29天和33天差异不显著。
+
+![](images/9506eaba62041f8cccbf9affaa0eaa0c7c2b7ee43bc38df332a33e709eeccd9f.jpg)  
+图1种子成熟过程中的膜脂总量的变化趋势
+
+Fig.1 Changes of total membrane lipid content in seeds during ripening process
+
+注：小写字母表示不同发育时期的同一脂类在0.05水平上显著性。下同。
+
+Note: Smalletters means significant differences at O.O5 level between the same lipids at different developmental stages. The same below.
+
+# 2.2种子成熟过程中质体膜脂的变化趋势
+
+质体膜脂含量和其所占膜脂百分比在种子成熟过程中呈下降趋势（表1)。第7天质体膜脂含量为 $6 . 6 4 \mathrm { n m o l } \cdot \mathrm { m g } ^ { - 1 }$ ，第 21天其含量快速下降至 $1 . 8 8 ~ \mathrm { n m o l \cdot m g ^ { - 1 } }$ ，之后质体膜脂含量缓慢下降，至第 29天后趋于稳定；质体膜脂占总膜脂的比例在第7天、21天、25天、29天、33天分别为$2 7 . 6 4 \%$ 、 $2 4 . 7 7 \%$ 、 $1 9 . 9 5 \%$ 、 $1 3 . 5 0 \%$ 和 $1 2 . 9 0 \%$ ，呈下降趋势，说明质体膜脂含量下降速度快于其它膜脂。
+
+质体膜脂中 DGDG、MGDG 和PG 的含量在种子成熟过程中呈下降趋势（图2)。其中，DGDG和 MGDG含量变化规律一致,第7天种子中DGDG 和MGDG含量最高，显著高于其它发育时期，第 21天种子中 DGDG 和 MGDG 含量次之，除与第 25 天种子中DGDG 和 MGDG 含量差异不显著外，显著高于其它时期，第 25天、29天和33天种子中DGDG和 MGDG 含量无明显差异；PG含量在第7天种子中最高，显著高于其它时期，第 21天之后PG 含量变化不明显。
+
+表1种子成熟过程中总质体及质外体膜脂的变化  
+Table1 Changes of total plastidic lipids and extraplastidic lipids in seeds during ripening process   
+
+<html><body><table><tr><td></td><td>7d</td><td>21d</td><td>25d</td><td>29d</td><td>33d</td></tr><tr><td colspan="6">膜脂含量</td></tr><tr><td colspan="6">Absolute content</td></tr><tr><td>质体膜脂</td><td>6.64±0.95a</td><td>(nmol·mg-) 1.88±0.16b</td><td>1.43±0.24bc</td><td>0.74±0.25c</td><td>0.82±0.54c</td></tr><tr><td>Plastidic membrane lipids 质外体膜脂</td><td>15.62±1.22a</td><td>5.35±1.32b</td><td>5.37±0.62b</td><td>4.30±0.76b</td><td>4.79±0.63b</td></tr><tr><td>Extraplastidic membrane lipids</td><td></td><td>占膜脂总量的百分比</td><td></td><td></td><td></td></tr><tr><td colspan="6"></td></tr><tr><td>质体膜脂</td><td>27.64±2.80a</td><td>Relative content（%） 24.77±2.30ab</td><td>19.95±3.68b</td><td>13.50±4.26c</td><td></td></tr><tr><td>Plastidic membrane lipids</td><td></td><td></td><td></td><td></td><td>12.90±6.96c</td></tr><tr><td>质外体膜脂 Plastidic membrane lipids</td><td>65.37±2.70b</td><td>64.48±7.18b</td><td>74.27±2.74a</td><td>78.54±9.45a</td><td>80.57±7.72a</td></tr></table></body></html>
+
+![](images/aab6ecfdd834edb876dddea1aacbe32d03c42514dd5eb4ac9ffc68ff23718b36.jpg)  
+图2种子成熟过程中质体膜脂的变化趋势
+
+Fig.2 Changes of plastidic membrane lipids in seeds during ripening process
+
+注：DAP表示授粉后天数。下同。
+
+Note:DAP means days after pollination. The same below.
+
+# 2.3种子成熟过程中质外体膜脂的变化趋势
+
+种子成熟过程中总质外体膜脂含量呈下降趋势，下降速度先快后慢，但质外体膜脂在膜脂总量中所占比例呈上升趋势（表1)。第7天种子中质外体膜脂含量为 $1 5 . 6 2 \mathrm { \ n m o l / m g }$ ，占总膜脂的比例为 $6 5 . 3 7 \%$ ，第21天种子中的质外体膜脂含量快速下降至 $5 . 3 5 \mathrm { \ n m o l / m g }$ ，但占总膜脂的比例变化不明显，即质外体膜脂在此阶段降低的速度与其它膜脂一致；第21天后质外体膜脂含量下降缓慢，相其占总膜脂的比例不断上升，第33天达到 $8 0 . 5 7 \%$ ，即此阶段质外体膜脂降低的速度慢于其膜脂。
+
+各类质外体膜脂在种子成熟过程中变化规律不同（图3)，其中PS 在种子成熟过程中含量未发生明显变化，PC、PE、PI和PA 整体呈下降趋势。PC 是细胞膜上最主要的质外体膜脂，在发育第7天-29天随着种子成熟含量不断下降，下降速度先快后慢，第33天与第29天PC含量差异不显著；PE 含量随着种子成熟不断下降，下降速度先快后慢，发育第21天后PE 含量变化不明显；与PC和PE 相比，PI和PA含量在第7天至21天间急剧下降，之后波动变化，但差异不显著。
+
+![](images/03919cd2a1bc99d782be3890d7aaf40fd0d9738d75e7c9cbc34fea934c8da607.jpg)  
+图3种子成熟过程中质外体膜脂的变化规律
+
+Fig.3 Changes of extraplastidic membrane lipids in seeds during ripening process
+
+# 2.4种子成熟过程中酰基碳链长度(ACL）及双键系数（DBI）的变化规律
+
+膜脂酰基碳链长度和双键系数是影响植物细胞膜系统的两个重要参数(Yu andLi,2014)。本实验中，质体膜脂DGDG、MGDG 和PG 的酰基碳链长度随种子成熟未发生显著改变（图4)；各类质外体膜脂随着种子成熟酰基碳链长度波动变化，其中PS 酰基碳链长度在第7天至第 21天之间变化最明显，从36.92上升至41.66，其它质外体膜脂的酰基碳链长度变化不明显。同样，绝大部分质外体膜脂的双键系数波动变化，但变化不显著且无明显规律（图5)。
+
+44 7DAP 21DAP aab 25DAP 29DAP abb 风L Hhhral rireiet 33DAP 40 水限 36 aaa abbb abab aaa a aaaa xxxxxxxxxX XxxxxxxXXXx b aaa ZXXXXxXXXXX xxxxxxxxx 32 XXX xXXXXXXX xXXXX xxxxXXxXx XXXXXXX> xxxxxX x 3 XxxXXXX xXXXXXX XXXXXXX xxXXXXX xXXXXx xXXXXXXX xxXXxxX xXXXxX X DGDG MGDG 夕 不同膜脂 Membrane lipids
+
+Fig. 4 Changes of acyl chain length of membrane lipids in seeds during ripening process
+
+![](images/7f7b1a4d0670e8764b236ea11dc5c6a46e0c31d85c60de395f2d103d6745df3d.jpg)  
+图4种子成熟过程中膜脂酰基碳链长度变化  
+图5种子成熟过程中膜脂双键系数变化
+
+Fig. 5 Changes of double bond index of membrane lipids in seeds during ripening process
+
+# 2.5烟草种子成熟过程中溶血磷脂的变化规律
+
+溶血磷脂是存在于植物体内的一类比较特殊的极性脂类，其在植物体中的含量较少，且含量
+
+随着环境的变化而剧烈改变(李艳等，2011)。本实验中，授粉后第7天至第21天间种子中LysoPC和LysoPE 含量显著下降，第 21天后含量无显著差异；而LysoPG 在本实验的各试验点中无明显变化规律。
+
+![](images/525cfe1839f67ec0fe9b2b348b200dbed69107c2967a7e23b4706490b7047636.jpg)  
+图6种子成熟过程中溶血磷脂的变化规律  
+Fig. 6 Changes of lysophospholipids in seeds during ripening process
+
+# 3讨论
+
+本实验中，总膜脂含量在种子的成熟进程中不断下降，且下降速度先快后慢，在第7天至第23 天间下降速度较快。这与文献发现的油脂（三酯酰甘油）在种子成熟过程中变化趋势相反(邵岩等，2017)，油脂含量的在第7天至第 23 天间快速上升。由于油脂和膜脂同属于甘油酯并且结构相似,推测在种子成熟过程中膜脂降解,生成二酯酰甘油(DAG),DAG 在 NtDGAT1和 NtDGAT2作用下转换为油脂，在种子中被作为营养物质储藏起来，用于种子后续的生理活动(阳天泉等,2013;Zhang et al，2005)。因此，推测膜脂不仅是构成细胞膜的重要成分，而且可能是种子中油脂合成重要原料。
+
+通过对比质体膜脂和质外体膜脂的组成变化发现：质体膜脂与质外体膜脂含量变化趋势基本一致，随种子成熟而下降；但是质体膜脂的下降要持续到种子发育第29天，而质外体膜脂在种子发育第 21天后就基本达到平衡，且质体膜脂的下降幅度要远大于质外体膜脂。质体膜脂是构成叶绿体及类囊体膜的重要脂类(Dormann and Benning,2002)。在烟草种子成熟早期，种子色泽为黄绿色，说明种子中有丰富的叶绿体，因此此时质体膜脂含量较高，但是随着种子不断成熟，烟草种子颜色逐渐转变为褐色、深褐色，说明叶绿体在种子成熟过程中被降解(郑昀晔等，2015)。烟草种子中种皮叶绿素荧光变化也反映出这一变化过程(邵岩等，2017)。成熟种子不需要光合作用，也不需要叶绿体，因此种子成熟过程中质体膜脂的剧烈降解符合这种转变。质外体膜脂是构成细胞膜的重要组成脂类，随着种子成熟尽管发生了一定的降解，但其降低的幅度远小于质体膜脂，大约在种子发育第21天就已趋于稳定。
+
+膜脂酰基碳链长度及双键系数与植物膜的流动性密切相关(Yu andLi,2014)。本研究发现在烟草种子成熟过程中，膜脂碳链长度并未发生剧烈改变，除磷脂酰丝氨酸外，磷脂酰丝氨酸的碳链长度随着种子的成熟而增加。磷脂酰丝氨酸是膜脂中极少数长链脂肪酸含量较高的脂类，以往研究表明其碳链长短变化可能与植物器官寿命密切相关(Liet al,2014)。种子成熟过程中少数极性脂的双键系数也发生了一定的变化，但是这些变化趋势不十分明显。本文较系统研究了烟草种子成熟过程中膜脂含量及组成的变化规律，研究结果表明，随着种子的不断成熟，总膜脂含量不断降低，降低速度先快后慢，种子发育第 29天，总膜脂的含量基本到达稳定的状态。种子成熟过程中减少膜脂可能被用于种子中油脂的合成。此外，质外体膜脂含量在种子发育第 21天后就基本保持不变；而质体膜脂（尤其是糖酯）含量下降贯穿了种子成熟的整个过程，质体膜脂的减少可能与种子成熟过程中功能的转变有密切相关。
+
+# 参考文献：
+
+CHEN SN,LI JL,LI C 1995.The relation between the chilling resistenees and the indeces of unsaturated faty acid in biomembrance esters in dry embryos of rice varieties of yunnan plateau[J]. J Yunnan Univ(Nat SciEd),17(3):264-268.[陈善娜，黎继岚，李聪，1995．云南高原水稻品种干胚 膜脂脂肪酸的不饱和度与抗冷性关系[J].云南大学学报(自然科学版)，17(3)：264 -268.]   
+CROWE JH, CROWE LM,1992. Membrane integrity in anhydrobiotic organisms: toward a mechanism for stabilizing dry seeds[M]. In Water and Life (edsG.N. Somero, C.B. Osmond & C.L. Bolis). Berlin. Spinger-Verlag : 87-103.   
+DORMANN P,BENNING C, 2002. Galactolipids rule in seed plants[J]. Trends Plant Sci, 7(3): 112-118.   
+KOBAYASHI K,KONDO M,FUKUDA H, et al, 2007. Galactolipid synthesis in chloroplast inner envelope is essential for proper thylakoid biogenesis, photosynthesis and embryogenesis [J]. Proc Natl Acad SciUSA,104(43): 17216-17221.   
+LI WQ, WANG RP, Li MY, et al, 20O8. Diffrential degradation of extraplastidic and plastidic lipids during freezing and post-freezing recovery in Arabidopsis thaliana [J]. JBio Chem, 283(1) :461-468.   
+LI Y, ZHENG GW, JIA YX,et al, 2014. Acyl chain length of phosphatidylserine is correlated with plant lifespan[J].PLoS ONE,9(7): e103227.   
+MOELLERING ER and BENNING C,2011. Galactoglycerolipid metabolism under stress: a time for remodeling [J]. Trends Plant Sci, 16(2): 98-107.   
+MOELLERING ER,MUTHAN B and BENNING C,2010.Freezing tolerance in plants requires lipid remodeling at the outer chloroplast membrane [J]. Science, 330(6001): 226-228.   
+SHANG SB,GUO JJ，WANG YH,et al,2014. Effects of fruit maturity on seed germination and seedling growth performance of Vatica mangachapoi[J]. Seed,33(7): 27-29.[尚帅斌，郭俊杰，汪奕 衡，等，2014．果实成熟度对青皮种子萌发及幼苗生长的影响[J]．种子,33(7)：27-29.] SHAO Y, MA WG, HU J, et al,2017. Production and processing of tobacco seeds[M]. Beijing: Science pres: 35-37.[邵岩，马文广，胡晋，等，2017．种子烟草生产加工[M]．北京：科学出版社：35-37.] SONG BQ, YU XM, ZHENG YY, et al, 2O18. The relationship between antioxidant enzyme activity and seed vigor during tobacco seed maturation[J]. Mole Plant Breed,16(10): 3349-3354.[宋碧清，禹晓梅, 郑胸晔，等，2018．烟草种子成熟过程抗氧化酶活性变化与种子活力的关系[J].分子植物育种，   
+16(10): 3349-3354.] SONG J,LIN WZ, 2O09. Effects of membrane lipid components and fatty acid content on the seed desiccation tolerance[J].JHebei Agric Sci,13(11):41-45，48[宋健，林维珍,2009．膜类脂组成和 脂肪酸含量对种子耐干性的影响[J].河北农业科学，13(11)：41-45，48] WELTI R,LI WQ,LI MY, et al, 2002. Profiling membrane lipids in plant stress responses - Role of phospholipase D alpha in freezing-induced lipid changes in Arabidopsis [J].JBiol Chem, 277(35):   
+31994-32002. YANG TQ, XU RH,LIU AZ,2O13. Cloning and chacracterization of diacylglycerol acyltransferase gene (NtDGAT2) from tobacco(Nicotiana tabacum L.)[J]. Plant Physiol J,49(1): 81-88.[阳天泉，徐荣华, 刘爱忠，2013．烟草二脂酰甘油酰基转移酶基因(NtDGAT2)的克隆与功能分析[J]．植物生理学报,   
+49(1): 81-88.] YANG YQ, WANG XF, 2004. Advances on relationship between biomembrane and seed vigor[J]. Chin Bull Bot,21(6):641-648.[杨永青,汪晓峰,2004．种子活力与生物膜的研究现状[J]．植物学通报,   
+21(6): 641-648.] YIN TF, SONG YS,LIU LJ, et al,1989. Effects of drought on the constituents of phospholipid and fatty acid in mitochondria membrane lipids of soybean leaves[J]. Plant Physiol Comm, (4):16-18.[尹田夫, 宋英淑，刘丽君，等，1989.干旱对大豆线粒体膜脂的磷脂和脂肪酸组分的影响[J]．植物生理学 通讯，(4):16-18.] YIN TF, SONG YS,LIU LJ,et al，1990. Comparison on the composition of fatty acids and phospholipids of mitochondria in drought resistant and in susceptable soybean leaf cells[J]. Soybean Sci,9(1):19-23.[尹田夫，宋英淑，刘丽君，等，1990.抗旱与不抗旱大豆叶线粒体膜脂脂肪酸 和磷脂组成的比较[J]．大豆科学，9(1)：19-23.] YU BZ and LI WQ,2014. Comparative profiling of membrane lipids during water stress in the llungiella salsuginea and its relative Arabidopsis thaliana [J]. Phytochemistry, 1O8: 77-86. YU XM,LI WQ,2O14. Positively associated with tolerance to imbibitional chilling in soybean seeds[J]. Plant Divers Resour,36(2):187-196.[禹晓梅，李唯奇，2014．大豆种子吸胀冷害抗性与其质体膜 脂不饱和度正相关[J]．植物分类与资源学报，36(2)：187-196.] ZHAN YF, TIAN YS, MA J, 2011. Study on relation between seed maturity and germination rate of hot pepper[J].Acta Agric Jiangxi,23(9): 33-35.[詹永发，田应书，马俊，2011．辣椒种子成熟度与发 芽率之间关系的研究[J]．江西农业学报，23(9)：33-35.] ZHANG FY, YANG MF, XU YN, 2005. Silencing of DGAT1 in tobacco causes a reduction in seed oil content [J]. Plant Sci, 169(4): 689-694. ZHANG J, HUO SP,FENG YC,et al, 2012. Effects of seed maturity degree on seedling growth in maize[J].Crops,5:96-99.[张健，霍仕平，冯云超，等，2012．种子成熟度对玉米幼苗生长的影响 [J]．作物杂志，5：96-99.] ZHENG YY, YU XM, SUO WL, et al, 2015. Study on the change and judgment of tobacco seed maturity[J].Plant Divers Resour,37(4): 472-478.[郑昀晔，禹晓梅，索文龙，等，2015．烟草种子
+
+成熟变化及判定方法研究[J]．植物分类与资源学报，37(4)：472-478.]

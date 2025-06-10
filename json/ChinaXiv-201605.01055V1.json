@@ -1,0 +1,2194 @@
+[
+    {
+        "type": "text",
+        "text": "Massive 2-form field and holographic ferromagnetic phase transition ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rong-Gen Cai,1,\\* Run-Qiu Yang, $^ { 1 , \\dagger }$ Ya-Bo Wu,² and Cheng-Yuan Zhang $^ 2$ $^ { 1 }$ State Key Laboratory of Theoretical Physics,Institute of Theoretical Physics, Chinese Academy of Sciences,Beijing 100190，China. （204号 $^ 2$ Department of Physics, Liaoning Normal University， Dalian， 116029， China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper we investigate in some detail the holographic ferromagnetic phase transition in an AdS $_ 4$ black brane background by introducing a massive 2-form field coupled to the Maxwellfield strength in the bulk.In the two probe limits,one is to neglect the back reaction of the 2-form field to the background geometry and to the Maxwellfield,and the other to neglect the back reaction of both the Maxwellfield and the 2-form field,we find that the spontaneous magnetization and the ferromagnetic phase transition always happen when the temperature gets low enough with similar critical behavior.We calculate the DC resistivity in a semi-analytical method in the second probe limit and find it behaves as the colossal magnetic resistance effect in some materials.In the case with the first probe limit,we obtain the of-shell free energy of the holographic model near the critical temperature and compare with the Ising-like model.We also study the back reaction effect and find that the phase transition is always second order.In addition,we find an analytical ReissnerNorstrom-like black brane solution in the Einstein-Maxwell-2-form feld theory with a negative cosmological constant. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. Introduction 1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "II.TheModel 2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "III.Ansatz and trivial solution 3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IV.Probe limit in the case of $\\lambda  0$ 6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. Spontaneous magnetization and susceptibility B.Holographic Ginzburg-Landau formulation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "V.Probe limit by neglecting the back reaction of all matter fields 11 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.Spontaneous magnetization and susceptibility 11 B.DC conductivity in the ferromagnetic phase 12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VI.Phase transition with back reaction 14 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.On-shell free energy 14   \nB.Tensor hairy solutions and phase transition 15   \nVII. Summary and discussion 16   \nAcknowledgments 17 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A.Ginzburg-Landau theory for Ising universality class 1   \nB. Semi-analytic calculations near the critical temperature 1 1.Spontaneous magnetization 1 2.Susceptibility and hysteresis loop 19 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In recent years, a promising new route named AdS/CFT duality [1-4] provided a new viewpoint to understand gravity and strongly coupled or correlated phenomena in physics. This duality relates a gravity theory in a weakly curved $( d + 1 )$ -dimensional anti de Sitter (AdS $d { + } 1$ ） spacetime to a strongly-coupled $d$ -dimensional field theory living on its boundary. AdS/CFT maps questions about strongly correlated many-body phenomena to solvable single- or few-body classical problems in a curved geometry,which opens a new window to solve the strongly correlated system in condensed matter physics and considerable progresses have been made since the duality was proposed. For instance,holographic super conductor/superfuild [5,6] (for reviews,see [7-11]), holo graphic (non-)fermi liquid [12-14],holographic charge density wave and metal/insulator phase transition [15- 17],and some systems far-from thermal equilibrium [18- 22] have been studied intensively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "So far,most attentions about the duality application to condensed matter physics have been focused on the electronic properties of materials. In condensed matter physics,magnetism also plays an important role in materials including high temperature superconductors and heavy fermion metals in many strongly correlated electronic systems. The gauge/gravity duality provides an approach and perspective to understand these challenging propblems.Though there exist a few works involving magnetism in holographic superconductor models,magnetism does not pay the central role. Yet the scarcity of models on magnetism is due to various technical challenges in holographic context.In a previous work [23]，we first proposed a new example of the application of the AdS/CFT correspondence by realizing the paramagnetism/ferromagnetism phase transition in a dyonic Reissner-Nordatrom-AdS black brane. This model also was extended to realize the paramagnetism/antiferromangnetism phase transition by introducing two real antisymmetric tensor fields with interaction between them and they are coupled to the background gauge field strength [24]. In Ref. [25], by combining the holographic $p$ -wave superconductor model [26] and the holographic ferromagnetism model,we studied the coexistence and competition of ferromagnetism and $p$ -wave superconductivity.It is found that the results depend on the self-interaction of magnetic moment of the complex vector field and which phase (superconductivity or ferromagnetism） appears first.We noted that the ferromagnetic superconductivity has been also dis cussed in Ref. [27] by introducing two SU(2) gauge fields in the bulk. In that model superconductivity and ferromagnetism happens simultaneously and the magnetic susceptibility is finite at the ferromagnetic critical temperature.However, the ferromagnetic $p$ -wave superconductor in heavy fermion systems such as UCoGe,URhGe and UGe $^ 2$ ，shows the two critical temperatures are different in general [28] and magnetic susceptibility diverges at ferromagnetic critical temperature [29]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The reasons of using an antisymmetric tensor field to model ferromagnetic phase transition in holographic setup are as follows. On the viewpoint of symmetry breaking,ferromagnetic phase transition breaks the time reversal symmetry spontaneously in low temperature (if spatial dimension is more than 2,it also breaks spatial rotation symmetry)，which in general is not associated with other symmetry breakings such as U(1),SU(2) and so on. Thus the dual operator does not carry U(1）or SU(2) charge,which implies that we need to use a real field corresponding to such an operator.From the point of view of covariance,magnetic field is the spatial component of a SO(1,3) tensor $F _ { \\mu \\nu }$ , so magnetic moment should be also a component of a tensor.Furthermore,according to the origin of magnetic moment,magnetism of material is controlled by the intrinsic magnetism of electrons which is obtained from the Lagrangian for electrons, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } _ { e } = i ( { \\overline { { \\psi } } } { \\partial / } \\psi - m { \\overline { { \\psi } } } \\psi ) - e j ^ { \\mu } A _ { \\mu } - \\frac { e } { 4 m } { \\overline { { \\psi } } } \\sigma ^ { \\mu \\nu } \\psi F _ { \\mu \\nu } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { \\mu }$ is the gauge potential, $F _ { \\mu \\nu }$ is the gauge strength feld and $j ^ { \\mu }$ is current density which is defined as $\\begin{array} { r } { j ^ { \\mu } = - \\frac { i } { 2 m } \\overline { { \\psi } } ( \\overrightarrow { \\partial } ^ { \\mu } - \\overleftarrow { \\partial } ^ { \\mu } ) \\psi } \\end{array}$ . Then the magnetic moment density $\\overrightarrow { N }$ is the spatial component of an antisymmetric tensor field, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ^ { i } = \\epsilon ^ { i } { } _ { j k } M ^ { j k } , \\ M ^ { \\mu \\nu } = \\frac { e } { 4 m } \\langle \\overline { { { \\psi } } } \\sigma ^ { \\mu \\nu } \\psi \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $i , j , k = 1 , 2 , 3$ ．Thus we see that an effective field to describe magnetic moment in the boundary field in a covariant mannerneeds an antisymmetric tensor and its spatial component corresponds to the magnetic moment. These considerations can be generalized into $2 + 1$ dimensions,where magnetic moment should still be regarded as the spatial components of an antisymmetric tensor field. Then according to the spirit of AdS/CFT,we can use an antisymmetric tensor field in the bulk to dual such a tensor operator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently,it has been found in Ref.[3O] that the original model in [23] contains a ghost and a new model has been proposed,there the exterior differential is used to replace the covariant derivative in the kinetic term of the antisymmetric tensor field.With such a simple modification it has been shown that there does not exist any ghost and causality violation does not appear in the new model, while the key results in the original model are kept qualitatively. While in Ref.[3O] we paid our main attention to the health of the model and showed that the spontaneous magnetization can happen when the temperature gets low enough,in this paper,we are going to study this model in some detail with some directions.Before going on,we mention here that in this paper we assume the physical phase is homogeneous and will not consider inhomogeneous phases.This assumption is just for simplifying our discussions in technology. The possibility whether the inhomogeneous phase could appear spontaneously in this model under the homogeneous boundary conditions is left to study in the future. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows.In section Il, we will describe the holographic model. We will give our ansatz for matter field and derive equations of motion in section III.In this section，we will show that there exists an analytical black hole solution different from the AdS Reissner-Nordtrsom solution in this model and discuss associated properties of the solution.In sections IV and V，we will investigate the paramagnetism/ferromagnetism phase transition in two different probe limits. One is to neglect the back reaction of the 2-form field to the black brane geometry and to the Maxwell field,and the other to neglect the back reaction ofboth the Maxwell field and the form field.In the former case,we will also calculate the off-shell free energy of the holographic model near the phase transition point by using the Sturm-Liouville eigenvalue method and obtain a free energy form like the Ginzburg-Landau one,and make a comparison with the Ising like university class model. In the latter case,we calculate the DC resistivityin the ferromagnetic phase,which shows the behavior of the colossal magnetic resistance effect in condensed matterphysics.We study the fullback reaction effect in section VI by solving the full equations of motion of the model and find that the phase transition is aways second order.The summary and some discussions are included in section VII. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. THE MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, the model we are considering is just general relativity with a negative cosmological constant $\\Lambda = - 3 / L ^ { 2 }$ ，a $\\mathrm { U } ( 1 )$ field $A _ { \\mu }$ and a massive 2-form field $M _ { \\mu \\nu }$ in 4-dimension space-time. The ghost free action ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "reads [30] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { S = \\displaystyle \\frac { 1 } { 2 \\kappa ^ { 2 } } \\int d ^ { 4 } x \\sqrt { - g } ( L _ { 1 } + \\lambda ^ { 2 } L _ { 2 } ) , } } \\\\ { { { } } } \\\\ { { L _ { 1 } = \\mathcal { R } + \\displaystyle \\frac { 6 } { L ^ { 2 } } - F ^ { \\mu \\nu } F _ { \\mu \\nu } , { } } } \\\\ { { { } } } \\\\ { { L _ { 2 } = - \\displaystyle \\frac { 1 } { 1 2 } ( d M ) ^ { 2 } - \\displaystyle \\frac { m ^ { 2 } } { 4 } M _ { \\mu \\nu } M ^ { \\mu \\nu } - M ^ { \\mu \\nu } F _ { \\mu \\nu } - \\displaystyle \\frac { J } { 8 } V ( M ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the AdS radius which is set to be unity and $2 \\kappa ^ { 2 } = 1 6 \\pi G$ is associated to the gravitational constant in the bulk,which will be set to be unity in the following. $g$ is the determinant of the bulk metric $g _ { \\mu \\nu }$ ， $d M$ is the exterior differential of 2-form field $M _ { \\mu \\nu }$ ： $m ^ { 2 } \\neq 0$ is the squared mass of 2-form field $M _ { \\mu \\nu }$ and must be greater than zero,which will be explained shortly. $\\lambda$ and $J$ are two real model parameters with $J < 0$ in order the magnetization to happen spontaneously. $\\lambda ^ { 2 }$ characterizes the back reaction of the 2-form field $M _ { \\mu \\nu }$ to the background geometry and to the Maxwell field strenghth 1. $V ( M _ { \\mu \\nu } )$ is a nonlinear potential of the 2-form feld.It describes the self-interaction of the polarization tensor, which should be expanded as the even power of $M _ { \\mu \\nu }$ . In this model, we take the following form, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( M _ { \\mu \\nu } ) = ( ^ { * } M _ { \\mu \\nu } M ^ { \\mu \\nu } ) ^ { 2 } = [ ^ { * } ( M \\wedge M ) ] ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here \\* is the Hodge-star operator. The choice of nonlinear potential is not unique.We choose this form just for simplicity. As shown in Ref. [30], this potential shows a global minimum at some nonzero value of $\\rho$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By varying action (3),we can get the equations of mo tion for the matter fields and gravitational field as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\nabla ^ { \\tau } ( d M ) _ { \\tau \\mu \\nu } - m ^ { 2 } M _ { \\mu \\nu } - J ( ^ { * } M _ { \\tau \\sigma } M ^ { \\tau \\sigma } ) ( ^ { * } M _ { \\mu \\nu } ) = F _ { \\mu \\nu } , } \\\\ { \\nabla ^ { \\mu } ( F _ { \\mu \\nu } + \\frac { \\lambda ^ { 2 } } { 4 } M _ { \\mu \\nu } ) = 0 , ( ! } \\\\ { R _ { \\mu \\nu } - \\frac { 1 } { 2 } R g _ { \\mu \\nu } - \\frac { 3 } { L ^ { 2 } } g _ { \\mu \\nu } = T _ { \\mu \\nu } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The energy-momentum tensor $T _ { \\mu \\nu }$ reads ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle T _ { \\mu \\nu } = \\lambda ^ { 2 } [ \\frac { 1 } { 4 } ( d M ) _ { \\sigma \\mu \\tau } ( d M ) ^ { \\sigma \\alpha \\tau } g _ { \\alpha \\nu } + \\frac { m ^ { 2 } } { 2 } { M _ { \\tau \\mu } } { M ^ { \\tau } } _ { \\nu } } } \\\\ { { + { M _ { \\tau ( \\nu } F ^ { \\tau } } _ { \\nu ) } + \\frac { J } { 8 } V ( M ) g _ { \\mu \\nu } ] + 2 { F ^ { \\tau } } _ { \\mu } F _ { \\tau \\nu } } } \\\\ { { + \\frac { 1 } { 2 } ( \\lambda ^ { 2 } L _ { 2 } - F _ { \\mu \\nu } F ^ { \\mu \\nu } ) g _ { \\mu \\nu } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the AdS/CFT correspondence,a hairy black hole with appropriate boundary conditions can be explained asa condensed phase of the dual field theory,while a black hole without hair is dual to a normal phase.Clearly when $M _ { \\mu \\nu }$ vanishes,the model admits the AdS ReissnerNordstrom(RN)black brane solution,which corresponds to the normal phase in the dual field theory. When $M _ { \\mu \\nu }$ appears,we will see that there exists an analytical black brane solution differing from the AdS-RN solution. The new solution corresponds to the normal phase rather than the usual AdS RN solution. When we lower the temperature,the system exhibits an instability which triggers to break time reversal symmetry spontaneously as well as spatial rotation symmetry since the condensate will pick out one direction as special (if spatial dimension is more than 2) and the paramagnetism/ferromagnetism phase transition happens. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. ANSATZ AND TRIVIAL SOLUTION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As we will discuss the full solution to the action (3) including the back reaction to the spacetime geometry, we start with the following ansatz for the metric ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = - r ^ { 2 } f ( r ) e ^ { a ( r ) } d t ^ { 2 } + \\frac { d r ^ { 2 } } { r ^ { 2 } f ( r ) } + r ^ { 2 } ( d x ^ { 2 } + d y ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and take the self-consistent ansatz for polarization field and U(1) field as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { M _ { \\mu \\nu } = - p ( r ) d t \\wedge d r + \\rho ( r ) d x \\wedge d y , } \\\\ { A _ { \\mu } = \\phi ( r ) d t + B x d y , \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with some real functions $f ( r )$ ， $a ( r )$ ， $\\phi ( r )$ ， $p ( r )$ ,and $\\rho ( r )$ The bulk field $B$ is a constant magnetic field,which can be regarded as external magnetic field in the dual boundary theory. We will denote the position of the horizon as $r _ { h }$ and the conformal boundary will be at $r  \\infty$ . Since we would like to study a dual theory with finite chemical potential or charge density accompanied by a U(1) symmetry, we turn on $A _ { t }$ in the bulk. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Suppose the black brane horizon is at $r _ { h }$ with $f ( r _ { h } ) =$ O.According to gauge/gravity duality, the Hawking temperature of the black brane is identified with the temperature of boundary thermal state,which is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\left. \\frac { ( r ^ { 2 } f ( r ) ) ^ { \\prime } e ^ { a ( r ) / 2 } } { 4 \\pi } \\right| _ { r = r _ { h } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and the thermal entropy $S$ is given by the Bekenstein Hawking entropy of the black brane ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = 4 \\pi A = 4 \\pi r _ { h } ^ { 2 } V _ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $A$ denotes the area of the horizon and $V _ { 2 } = \\int d x d y$ Put the ansatz(7) and (8) into equations (5),the in",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "dependent equations of motion read ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\rho ^ { \\prime \\prime } + ( \\frac { a ^ { \\prime } } { 2 } + \\frac { f ^ { \\prime } } { f } ) \\rho ^ { \\prime } - \\frac { m ^ { 2 } + 4 J p ^ { 2 } e ^ { - a } } { r ^ { 2 } f } - \\frac { B } { r ^ { 2 } f } = 0 , } \\\\ { ( m ^ { 2 } - \\frac { 4 J p ^ { 2 } } { r ^ { 4 } } ) \\rho - \\phi ^ { \\prime } = 0 , } \\\\ { \\phi ^ { \\prime \\prime } + ( \\frac { 2 } { r } - \\frac { a ^ { \\prime } } { 2 } ) \\phi ^ { \\prime } + \\lambda ^ { 2 } ( \\frac { p a ^ { \\prime } } { 8 } - \\frac { p ^ { \\prime } } { 4 } - \\frac { p } { 2 r } ) = 0 , } \\\\ { a ^ { \\prime } - \\frac { \\lambda ^ { 2 } \\rho ^ { 2 } } { 2 r ^ { 3 } } = 0 , } \\\\ { f ^ { \\prime } + \\frac { e ^ { - a } } { r } ( \\frac { 4 J \\rho ^ { 2 } } { r ^ { 4 } } - m ^ { 2 } ) ( \\frac { 4 J \\rho ^ { 2 } } { r ^ { 4 } } - m ^ { 2 } + \\frac { \\lambda ^ { 2 } } { 4 } ) p ^ { 2 } \\quad ( - } \\\\ { - \\frac { 3 } { r } + ( \\frac { 3 } { r } + \\frac { \\lambda ^ { 2 } \\rho ^ { 2 } } { 4 r ^ { 3 } } ) f + \\frac { \\lambda ^ { 2 } \\rho ( m ^ { 2 } \\rho + 2 B ) + 4 B ^ { 2 } } { 4 r ^ { 5 } } = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where a prime denotes the derivative with respect to $r$ The first three equations are for the polarization field and Maxwell field,and the last two are the two independent components of gravitational field equations.In fact, there are three nonzero components of gravitational field equations,but only two of them are independent due to the Bianchi identity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We are interested in the black brane configurations which have a regular event horizon located at $r _ { h }$ .Therefore,in addition to $f ( r _ { h } ) = 0$ ,one must require $\\phi ( \\boldsymbol { r } _ { h } ) = 0$ in order for $g ^ { \\mu \\nu } A _ { \\mu } A _ { \\nu }$ being finite at the horizon. We require the regularity conditions at the horizon $ { \\boldsymbol { r } } \\ = \\  { \\boldsymbol { r } } _ { h }$ ， which means that all functions will have finite values at $r _ { h }$ and admit a series expansion in terms of $\\left( r \\mathrm { ~ - ~ } r _ { h } \\right)$ Then,at the horizon,we have the following relations, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\phi = 0 , ~ \\phi ^ { \\prime } = ( m ^ { 2 } - \\frac { 4 J \\rho ^ { 2 } } { r ^ { 4 } } ) p , } } } \\\\ { { \\displaystyle { \\rho ^ { \\prime } = \\frac { \\rho ( m ^ { 2 } + 4 J p ^ { 2 } e ^ { - a } ) + B } { f ^ { \\prime } } , } } } \\\\ { { \\displaystyle { f ^ { \\prime } = - e ^ { - a } ( 4 J \\rho ^ { 2 } - m ^ { 2 } ) ( 4 J \\rho ^ { 2 } - m ^ { 2 } + \\frac { \\lambda ^ { 2 } } { 4 } ) p ^ { 2 } } } } \\\\ { { \\displaystyle { + 3 - \\frac { \\lambda ^ { 2 } \\rho ( m ^ { 2 } \\rho + 2 B ) } { 4 } + B ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The black brane solution should be asymptotically AdS. Thus one has the following asymptotic solutions near the AdS boundary, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\rho = \\rho _ { + } r ^ { ( 1 + \\delta ) / 2 } + \\rho _ { - } r ^ { ( 1 - \\delta ) / 2 } + \\cdots - \\frac { B } { m ^ { 2 } } , ~ a = a _ { 0 } + \\cdots ~ , } } \\\\ { { \\displaystyle \\phi = \\mu - \\frac { \\sigma } { r } + \\cdots ~ , ~ f = 1 + \\frac { f _ { 0 } } { r ^ { 3 } } + \\cdots ~ , ~ p = \\frac { \\sigma } { m ^ { 2 } r ^ { 2 } } + \\cdots ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta = \\sqrt { 1 + 4 m ^ { 2 } }$ and the dots stand for the higher order terms of $1 / r$ ， $\\rho _ { \\pm }$ and $f _ { 0 }$ are all constants. The Breitenlohner-Freedman (BF） bound requires $m ^ { 2 } > - \\frac { 1 } { 4 }$ according to the asymptotic solution of $\\rho$ . According to the AdS/CFT dictionary,up to a normalization, the coefficients $\\mu$ and $\\sigma$ are directly related to the chemical potential and charge density in the dual system,respectively. The magnetic moment density in the dual theory is defined by the integration [23,30] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = - \\frac { \\lambda ^ { 2 } } { 2 } \\int _ { r _ { h } } ^ { \\infty } \\frac { \\rho e ^ { a / 2 } } { r ^ { 2 } } d r .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note that there is an additional restriction on $m ^ { 2 }$ when we treat the magnetic field B as the source of $\\rho$ . In order to keep $\\rho$ damping，we have to impose boundary condition for $\\rho$ such that $\\rho _ { + } = 0$ and a restriction on the parameter such that $m ^ { 2 } > 0$ [30],otherwise the integration （l4） will diverge or the equation for $\\rho$ can not be linearized near the AdS boundary. These two restrictions can be understood in another way: when $B = 0$ the constant $\\rho _ { + }$ should be viewed as the source of the corresponding operator in the boundary field theory,according to AdS/CFT duality. In order the symmetry to be broken spontaneously, one has to turn off the source term. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition,in order to make $\\rho$ condense in the case without external magnetic field when the temperature is low enough, the model parameters should violate the BF bound for $\\rho$ near the horizon, whose geometry is an AdS $^ 2$ for an extremal black brane. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To see how this requirement restricts the parameters, we first consider the solution for (11) in the case of $\\rho ( r ) =$ $B = 0$ and $a ( r ) = V ( M ) = 0$ . The equations (9)become, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { m ^ { 2 } p - \\phi ^ { \\prime } = 0 , } \\\\ { \\phi ^ { \\prime \\prime } + \\displaystyle \\frac { 2 } { r } \\phi ^ { \\prime } - \\lambda ^ { 2 } ( \\displaystyle \\frac { p ^ { \\prime } } { 4 } + \\displaystyle \\frac { p } { 2 r } ) = 0 , } \\\\ { f ^ { \\prime } + \\displaystyle \\frac { 3 } { r } + \\displaystyle \\frac { p ^ { 2 } m ^ { 2 } } { r } ( m ^ { 2 } - \\displaystyle \\frac { \\lambda ^ { 2 } } { 4 } ) - \\displaystyle \\frac { 3 } { r } = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The equations admit an analytical solution when $m ^ { 2 } \\neq 0$ i.e., ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l }  \\displaystyle \\phi ( \\boldsymbol { r } ) = \\mu ( 1 - r _ { h } / r ) , \\qquad p ( \\boldsymbol { r } ) = \\frac { \\mu r _ { h } } { m ^ { 2 } r ^ { 2 } } , \\qquad ( \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then the temperature of the black brane is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\frac { r _ { h } } { 4 \\pi } ( 3 - \\tilde { \\mu } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Compared with the usual planar AdS RN black brane solution [31],we see that $\\mu ^ { 2 }$ in the metric of usual AdS RN solution is just replaced by $\\tilde { \\mu }$ in the new solution. Namely,the new solutionhas the same formas the planar AdS RN solution with the same Maxwell field $\\phi ( r )$ ，but also with a nontrivial profile of $p ( r )$ for the massive 2- form field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then we can easily calculate the free energy $\\Omega$ and the charge density $\\sigma$ of the system as ² ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\Omega = \\Omega ( T , \\mu ) = - 2 V _ { 2 } r _ { h } ^ { 3 } ( 1 + \\widetilde { \\mu } ) } \\\\ { \\displaystyle \\sigma = \\sigma ( T , \\mu ) = - \\frac { 2 } { V _ { 2 } } \\left( \\frac { \\partial \\Omega } { \\partial \\mu } \\right) _ { T } = 2 ( 1 - \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } ) r _ { h } \\mu . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We see that the properties of this black hole solution de pends on the value of $1 - \\lambda ^ { 2 } / 4 m ^ { 2 }$ . When $1 - \\lambda ^ { 2 } / 4 m ^ { 2 } =$ O,the solution is just the planar AdS Schwarzschild black brane with nonzero $\\mathrm { U } ( 1 )$ gauge field and polarization field. To investigate the physical properties when $1 - \\lambda ^ { 2 } / 4 m ^ { 2 } \\ne 0$ , it is useful to compute the partial deriva tive of charge density with respect to chemical potential, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\frac { \\partial \\sigma } { \\partial \\mu } \\right) _ { T } = - \\frac { 1 } { V _ { 2 } } \\left( \\frac { \\partial ^ { 2 } \\Omega } { \\partial ^ { 2 } \\mu } \\right) _ { T } = 6 r _ { h } ( 1 - \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } ) \\frac { 1 + \\widetilde { \\mu } } { 3 + \\widetilde { \\mu } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is easy to see that Eq.(19) is positive when $1 \\textrm { -- }$ $\\lambda ^ { 2 } / 4 m ^ { 2 } > 0$ . However,when $1 - \\lambda ^ { 2 } / 4 m ^ { 2 } < 0$ , the value of (19) can become negative,which leads the dual boundary system to be chemical instability. To understand it,one can image that a box is submerged into the environment with fixed temperature $T$ and chemical potential $\\mu$ in equilibrium state. The energy and charge can exchange between the interior of the box and environment through the wall (see Fig.1). Now because of thermal fluctuation, the chemical potential in the box then is $\\mu - \\delta \\mu < \\mu$ ， which leads to some charge coming into the box.However，because Eqs.(19） is negative,adding the charge of the system will decrease the chemical potential of the system. Then we see that the chemical potential will decrease again,which will lead that more charge come into the box. So the charge inside the box will be more and more and the system is unstable.From Eq.(19),we can find the dual boundary system is chemical stable region only when temperature and chemical potential satisfy , ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（204号 $T$ μ  \n$T$ u-8u+  \n4 $\\oplus$   \n上 Θ 十e",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "fixing the horizon radius and there does not exist zero temperature entropy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we only focus on the situation of $1 -$ $\\lambda ^ { 2 } / 4 m ^ { 2 } ~ > ~ 0$ ，which can give a chemical stable dual boundary system and zero temperature black hole solution whose IR geometry has the form of asymptotic AdS $_ 2$ geometry. With this,we consider the possibility of spontaneous symmetry breaking of this system in low temperature.This can be analyzed by solving the following equation in the background (16), ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ^ { \\prime \\prime } + \\frac { f ^ { \\prime } \\rho ^ { \\prime } } { f } - ( \\frac { m ^ { 2 } } { r ^ { 2 } f } + \\frac { 4 J \\mu ^ { 2 } } { r ^ { 6 } m ^ { 4 } f } ) \\rho = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The condition of instability for $\\rho$ in some low temperature is that the BF bound in $\\mathrm { \\ A d S _ { 4 } }$ is retained but the BF bound in AdS $^ 2$ is violated.Near the horizon for an extremal black brane,the geometry is asymptotic AdS $^ 2$ （ In this region, the asymptotic solution for equation (15) is, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\rho = \\rho _ { + } r ^ { - ( 1 - \\sqrt { 1 + 4 \\tilde { m } ^ { 2 } } ) / 2 } + \\rho _ { - } r ^ { - ( 1 + \\sqrt { 1 + 4 \\tilde { m } ^ { 2 } } ) / 2 } , } } \\\\ { { \\tilde { m } ^ { 2 } = \\displaystyle \\frac { m ^ { 2 } } { 6 } + \\frac { 8 J } { m ^ { 2 } ( 4 m ^ { 2 } - \\lambda ^ { 2 } ) } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "So the conditions for spontaneous condensate are, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\sqrt { 2 } \\pi } { 5 } < \\frac { | \\mu | } { ( \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } - 1 ) T } < \\pi .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If Eq.(19） is positive,we see that adding charge will increase the chemical potential, so after some time,the system can be in equilibrium again. In fact,in the case of $1 - \\lambda ^ { 2 } / 4 m ^ { 2 } > 0$ ， the solution shares all the properties of usual AdS RN black brane except we have to replace $\\mu ^ { 2 }$ by $\\widetilde { \\mu }$ .But in the case of $1 - \\lambda ^ { 2 } / 4 m ^ { 2 } < 0$ ， the properties are very different from those of usual AdS RN black brane.For example, the temperature gets increased when we increase the chemical potential while ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m ^ { 2 } > 0 , \\qquad m ^ { 2 } ( 4 m ^ { 2 } - \\lambda ^ { 2 } ) > 0 , \\hfill } } \\\\ { { \\displaystyle \\tilde { m } ^ { 2 } = \\frac { m ^ { 2 } } { 6 } + \\frac { 8 J } { m ^ { 2 } ( 4 m ^ { 2 } - \\lambda ^ { 2 } ) } < - \\frac { 1 } { 4 } . \\hfill } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One can immediately see that these inequalities have so lution only when $J < 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Under the restriction of (23), there is a critical temperature,lower than which the nonzero $\\rho$ begins to appear. Then the full coupled equations of motion do not admit an analytical solution. Therefore,we have to solve them numerically. We will use shooting method to solve equations (11).In order to find the solutions for all the five functions $\\mathcal { F } = \\{ \\rho , \\phi , p , a , f \\}$ ，where we can directly solve $\\begin{array} { r } { \\phi ( r ) = \\int _ { r _ { h } } ^ { \\infty } d r ( m ^ { 2 } - 4 J \\rho ^ { 2 } / r ^ { 4 } ) p } \\end{array}$ and then put it into the equation of $\\phi ^ { \\prime \\prime }$ and obtain an equation for $p$ ，we must impose suitable boundary conditions at both the horizon $\\boldsymbol { r } = \\boldsymbol { r } _ { h }$ and conformal boundary $r  \\infty$ .There are two kinds of scaling symmetries which are useful when we perform numerical computations: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { r  \\alpha r , \\ ( t , x , y )  ( t , x , y ) / \\alpha , } \\\\ { ( \\rho , B )  \\alpha ^ { 2 } ( \\rho , B ) , \\ \\phi  \\alpha \\phi , \\ T  \\alpha T . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\na  a + \\lambda , ~ e ^ { a }  e ^ { \\lambda } e ^ { a } , ~  e ^ { - \\frac { \\lambda } { 2 } } t , ~ \\phi  e ^ { \\frac { \\lambda } { 2 } } \\phi .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Under the above two scaling symmetries,we finally have four independent parameters $\\{ a ( r _ { h } ) , \\rho ( r _ { h } ) , p ( r _ { h } ) \\}$ and horizon radius $r _ { h }$ at hand.In this paper,we will fix the boundary chemical potential to be unitary. When these four parameters are given,we can integrate the equations out of the horizon to obtain the whole solutions. When we perform the numerical computations,we can first set $\\{ r _ { h } = 1 , a ( r _ { h } ) = 0 \\}$ . Then fora given $\\rho ( \\boldsymbol { r } _ { h } )$ ,we can adjust the value of $p ( r _ { h } )$ to match the boundary condition $\\rho _ { + } = 0$ at $r  \\infty$ . After solving the coupled differential equations, one should use the second scaling symmetry (26) to satisfy the asymptotic conditions $a ( \\infty ) = 0$ . Then we use the first transformation (24) to fix the chemical potential for each solution the same.By this method,we get one-parameter solution $\\rho ( r ; T )$ for $T < T _ { c }$ . And then we can get the behavior of magnetic moment density $N$ with respect to temperature $T$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When the parameters satisfy the inequalities (23), the solution of $\\rho \\neq 0$ will appear even in the case of $B = 0$ Because under the time reversal transformation, $B $ $- \\boldsymbol { B }$ , in order to make action be invariant,we have to have （204号 $\\rho \\to - \\rho$ . So when $B = 0$ but $\\rho \\neq 0$ in the source free case, the time reversal symmetry is broken spontaneously ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to see the main properties of the model,let us first study the model in probe limit for simplicity. Here we may consider two kinds of probe limit.The first one is to take the model parameter $\\lambda  0$ as we did in Ref.[23]. This case is just to neglect the back reaction of the massive 2-form field to the black brane geometry and the Maxwell field, but considers the effect of the Maxwell field to the background geometry. This probe limit corresponds to the case in such materials that their electromagnetic response properties are very weak compared with the external field and havelittle effects on the their transport properties.In other words,in this probe limit, the influence of external field on the materials is considered,but we neglect the back reaction of electromagnetic response to the external field and structures of materials such as crystal structure or energy band. The other is to neglect all back reaction of matter fields including the Maxwell field to the background geometry. In this probe limit,the interaction between the electromagnetic response and external feld is taken into account so that we can study how spontaneous magnetization influences the electric transport,but they both have little influence on the structures of materials. We will study two cases in the following sections separately. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.PROBELIMITINTHECASEOF $\\lambda  0$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "reaction of polarization field to the gauge field and background geometry. The background geometry and the Maxwell field can be taken as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\phi ( { \\boldsymbol { r } } ) = \\mu ( 1 - 1 / r ) , \\quad f ( { \\boldsymbol { r } } ) = 1 - \\frac { 1 + \\mu ^ { 2 } } { r ^ { 3 } } + \\frac { \\mu ^ { 2 } } { r ^ { 4 } } , \\hfill } } \\\\ { { \\displaystyle T = \\frac { 1 } { 4 \\pi } ( 3 - \\mu ^ { 2 } ) } , \\hfill }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where we have set the horizon radius $r _ { h } = 1$ . In this case, the equations of the polarization field read ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\rho ^ { \\prime \\prime } + \\displaystyle \\frac { f ^ { \\prime } } { f } - \\displaystyle \\frac { m ^ { 2 } + 4 J p ^ { 2 } } { r ^ { 2 } f } \\rho = \\displaystyle \\frac { B } { r ^ { 2 } f } , } } \\\\ { { ( m ^ { 2 } - \\displaystyle \\frac { 4 J \\rho ^ { 2 } } { r ^ { 4 } } ) p - \\displaystyle \\frac { \\mu } { r ^ { 2 } } = 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ^ { \\prime \\prime } + \\frac { f ^ { \\prime } } { f } \\rho ^ { \\prime } - [ \\frac { m ^ { 2 } } { r ^ { 2 } f } + \\frac { 4 J \\mu ^ { 2 } } { ( m ^ { 2 } r ^ { 2 } - \\frac { 4 J \\rho ^ { 2 } } { r ^ { 2 } } ) ^ { 2 } r ^ { 2 } f } ] \\rho - \\frac { B } { r ^ { 2 } f } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note that the expression of $p ( r )$ can be solved directly. We put it into the equation of $\\rho ( r )$ ，and get ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. Spontaneous magnetization and susceptibility ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This equation shows that $\\rho$ will be spontaneously condensed below a critical temperature only when $m ^ { 2 } > 0$ When $m ^ { 2 } > 0$ , near the critical temperature where $\\rho$ is very small and therefore the term $\\rho ^ { 2 }$ can be neglected in (29),thus increasing the chemical potential $^ 4$ will decrease the effective mass at the horizon (note that $J < 0$ ） whichleads that $\\rho$ can be condensed spontaneously below a critical temperature.5 Furthermore, the restrictions on the parameters in the case of $\\lambda  0$ are, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { m } ^ { 2 } = \\frac { m ^ { 2 } } { 6 } + \\frac { 2 J } { m ^ { 4 } } < - \\frac { 1 } { 4 } , \\qquad m ^ { 2 } > 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In what follows,since different parameters will give sim ilar results,we will choose $m ^ { 2 } = - J = 1 / 8$ as a typical example when we perform numerical computations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To study the spontaneous magnetization,we need set $B = 0$ .Since near the critical temperature, $\\rho$ is very small, the nonlinear term of $\\rho$ can be neglected in (29).To find the critical temperature,we can solve the linearized equation of $\\rho$ with initial condition ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ^ { \\prime } = \\frac { m ^ { 6 } + 4 J ( 3 - 4 \\pi T ) } { 4 \\pi T m ^ { 4 } } \\rho ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Let us first investigate the spontaneous magnetization in the limit of $\\lambda  0$ .In this limit,we neglect the back at the horizon $r = 1$ and boundary condition $\\rho _ { + } = 0$ at $r  \\infty$ . Without loss the generality,we take the initial value of $\\rho$ at horizon to be unity,and treat $T$ as the shooting parameter to match the source free condition. There will be many solutions for shooting parameters $T$ . we choose the highest one as the critical temperature $T _ { c }$ （2号 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a15dc0ffa8913a9dbc3f5001b4c014214e338aece98b019f3838b0c455a11fd8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae6094fa41d4889fbe45322a54004aa173fe531046fe709f962391c62d38ba38.jpg",
+        "img_caption": [
+            "FIG.2.Top panel: The value of $\\rho ( \\boldsymbol { r } _ { h } )$ in different temperature.Bottom panel: The magnetic moment $N$ as a function of temperature. Here we choose the model parameters as （204号 $m ^ { 2 } = - J = 1 / 8$ . The critical temperature $T _ { c } / \\mu \\simeq 1 . 7 8$ ： ",
+            "FIG.3.The behavior of the inverse susceptibility density in the paramagnetic phase near the critical temperature when $m ^ { 2 } = - J = 1 / 8$ . Here we set $2 \\kappa ^ { 2 } = 1$ for convenience. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We find the critical temperature $T _ { c } / \\mu \\simeq 1 . 7 8$ for the case of given model parameters. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the temperature is lower than the critical temperature $T _ { c }$ ，in order to examine whether the polarization field $\\rho$ can make spontaneous magnetization when the external magnetic field $B = 0$ .We plot the value of $\\rho _ { + }$ versus $\\rho ( \\boldsymbol { r } _ { h } )$ at the horizon in the top panel of Fig. 2. Each curve in this plot corresponds to different temperature.This plot shows a typical example in the high and low temperature cases which correspond to the red and the black lines,respectively,while the case with the critical temperature is shown by the blue curve.In the case of high temperature,we see that the curve has no inter secting point with horizontal axis except a trivial point at the origin,which corresponds to a trivial solution with $\\rho = 0$ and it describes the paramagnetic phase.On the other hand,when the temperature is low enough,we find that there exists a nontrivial solution which locates at $\\rho ( r _ { h } ) \\neq 0$ . This solution breaks the time reversal symmetry and the system gets into a ferromagnetic phase. As a result,we see that the model indeed can give rise to a paramagnetism/ferromagnetism phase transition in the case without external magnetic field. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,when the temperature is lower than the critical temperature $T _ { c }$ ，we have to solve the equation (29)with the condition of $\\rho _ { + } = 0$ by shooting method. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The spontaneous magnetization $N$ is defined by the integration （14) with $a = 0$ . The spontaneous magnetic moment with respect to temperature is shown in the bottom panel of Fig.2.In addition,since the magnetic moment of the polarization field obtains an expectation value, the time reversal symmetry is broken spontaneously. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "By fitting this curve near the critical temperature,we find that there is a square root behavior for the magnetic moment versus temperature,which is a typical behavior for a second order phase transition, specifically, for $m ^ { 2 } =$ $- J = 1 / 8$ ，we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ^ { 2 } / \\lambda ^ { 4 } \\mu ^ { 2 } \\simeq 4 . 9 1 0 ( 1 - T / T _ { c } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This gives the critical exponent $1 / 2$ ,the same as the one from the mean field theory. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Except for the magnetic moments which is one of the characteristic properties of ferromagnetic material,another remarkable one is the behavior of susceptibility density of the material in the external magnetic field. The static susceptibility density is defined by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi = \\operatorname * { l i m } _ { B  0 } \\frac { \\partial N } { \\partial B } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When we turn on the external magnetic field $B$ , the function $\\rho$ is nonzero in any temperature.In order to compute the susceptibility density, we need to shoot for the boundary conditions with one parameter $\\rho ( \\boldsymbol { r } _ { h } )$ for equation (29) under the given external magnetic $B$ and temperature $T$ From the definition of $\\chi$ ，which involves only the behavior of $B  0$ , so the computation can be simplified in the following way. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the case of $T > T _ { c }$ ，considering the result $\\rho = 0$ （204号 when $B = 0$ ，we except that $\\rho$ is in the same order as $B$ ，then $\\rho ^ { 2 }$ is as the same order as $B ^ { 2 }$ .So in the case with weak magnetic field,we can neglect nonlinear terms in equation (29). In that case,we just need to solve the “linearized” equation ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ^ { \\prime \\prime } + \\frac { f ^ { \\prime } \\rho ^ { \\prime } } { f } - ( \\frac { m ^ { 2 } } { r ^ { 2 } f } + \\frac { 4 J \\mu ^ { 2 } } { r ^ { 6 } m ^ { 4 } f } ) \\rho - \\frac { B } { r ^ { 2 } f } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because $\\rho \\propto B$ ，we can set $B = 1$ ，Solving the equation (34） with the boundary condition $\\rho _ { + } = 0$ ，the susceptibility density then can be computed by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi = N = - \\lambda ^ { 2 } \\int _ { r _ { h } } ^ { \\infty } \\frac { \\rho } { 2 r ^ { 2 } } d r .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Fig.3,we show the magnetic susceptibility as a function of temperature and find it satisfies the Curie-Weiss law of ferromagnetism in the region of $T  T _ { c } ^ { + }$ . Concretely, for the chosen model parameters,we have ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ^ { 2 } / \\mu \\chi \\simeq 4 . 0 4 9 9 ( T / T _ { c } - 1 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "So we can conclude that the dual system is in a paramagnetic phase in high temperature and ferromagnetic phase in low temperature. The model can describe a paramagnetism/ferromagnetism phase transition.We will see later that the exponents in Eqs.(32) and (36) are exact and can be obtained by analytical methods. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. Holographic Ginzburg-Landau formulation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In action (3)， two parameters appear in the Lagrangian.One is the mass of the polarization field,which corresponds to the conformal dimension of the dual op erator by the standard dictionary. The other is the selfinteraction coupling constant $J$ . So a natural question is what the meaning of this constant is in the dual boundary theory? In this subsection,we will try to give a quantitative interpretation.Since we are working in the probe limit, the geometry and external Maxwell field are fixed, this leads to a simplification to compute the partition function of the bulk theory. This is the reason that we consider this kind of probe limit here.Our method is to compute the effective grand thermodynamic potential in both sides and to equate them (which are equivalent to compute the partition functions in both sides and to equate them).Then we can “read off” the meaning of $J$ in the dual boundary theory. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We assume that the the spontaneous magnetization in the boundary theory can be described by so-called Ising universality class model at least in the vicinity of critical temperature,whose Hamiltonian is, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\frac { 1 } { 2 } \\sum _ { r , r ^ { \\prime } } \\mathcal { I } ( r - r ^ { \\prime } ) \\overrightarrow { s } ( r ) \\cdot \\overrightarrow { s } ( r ^ { \\prime } ) + \\sum _ { r } K [ \\overrightarrow { s } ( r ) ^ { 2 } - 1 ] ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $r , r ^ { \\prime }$ are the positions of lattices, $\\mathcal { I } ( r - r ^ { \\prime } ) > 0$ is the exchange integration of lattices $r$ and $\\boldsymbol { r ^ { \\prime } }$ ， $s ( r )$ the z-component of spin at lattice $r$ ， $K$ is a positive constant which corresponds to the deviation from the Ising model. When $K  \\infty$ ，Hamiltonian(37)reduces to that of the usual Ising model. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this paper， the dual boundary is a (2+1)- dimensional spacetime,i.e.,a film system.Then the spin (or magnetic moment） in fact is just a pseudoscalar.So we have ${ \\vec { s } } = s$ . To compare with our holographic model, it is convenient to change Hamiltonian (37) into the one in continuous limit, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { H = \\displaystyle \\int d ^ { 2 } x l ^ { - 2 } \\left[ - \\frac 1 2 \\mathcal { I } l ^ { 2 } R _ { \\mathcal { T } } ^ { 2 } s ( x ) \\vec { \\nabla } ^ { 2 } s ( x ) \\right. } } \\\\ { { \\left. - ( \\mathcal { T } + 2 K ) s ( x ) ^ { 2 } + K s ( x ) ^ { 4 } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\it { l }$ is the lattice spacing and $\\begin{array} { r } { \\mathcal { I } = \\sum _ { r } \\mathcal { I } ( r ) } \\end{array}$ ， $R _ { \\mathcal { I } } ^ { 2 } =$ $\\textstyle \\sum _ { r } r ^ { 2 } { \\mathcal { I } } ( r )$ . The summations for $\\mathcal { I }$ and $R _ { \\mathcal { I } } ^ { 2 }$ are only in one crystal lattice.We see that the Ising like Hamiltonian is a $\\lambda \\phi ^ { 4 }$ theory if we use $\\widetilde s = s \\sqrt { \\mathcal { I } } R _ { \\mathcal { I } }$ . From Appendix A, we can find that the grand thermodynamic potential in the mean field approximation in the high temperature limit reads, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widetilde \\Omega } \\simeq { \\frac { 1 } { 2 } } ( { \\frac { \\lambda _ { s } \\gamma _ { E } T } { 4 \\pi } } - m _ { s } ^ { 2 } ) { \\widetilde s } _ { c l } ^ { 2 } + { \\frac { \\lambda _ { s } { \\widetilde s } _ { c l } ^ { 4 } } { 4 ! } } + \\cdot \\cdot \\cdot\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { s } ^ { 2 } = \\frac { 2 \\mathcal { I } + 4 K } { \\mathcal { I } l ^ { 2 } R _ { \\mathcal { I } } ^ { 2 } } , ~ \\lambda _ { s } = \\frac { 4 ! K } { \\mathcal { I } ^ { 2 } l ^ { 2 } R _ { \\mathcal { I } } ^ { 4 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here we have used $\\widetilde { s } _ { c l }$ to represent the classical value of $s$ .We see that there is a critical temperature $T _ { c } =$ $4 \\pi m _ { s } ^ { 2 } / \\lambda _ { s } \\gamma _ { E }$ . When $T > T _ { c }$ ,the thermodynamic equilibrium phase corresponds to $\\widetilde { s } _ { c l } = 0$ ，while $T < T _ { c }$ ，the thermodynamic equilibrium phase has $\\widetilde s _ { c l } \\neq 0$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Now let us consider the gravity side of the holographic model to compute the grand thermodynamic potential. It is convenient to make a coordinate transformation by $z = r _ { h } / r$ .As $p$ can be solved directly, then we put it into the equation of $\\rho ( r )$ ，and get ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\rho ^ { \\prime \\prime } + \\left( \\displaystyle \\frac { 2 } { z } + \\displaystyle \\frac { f ^ { \\prime } } { f } \\right) \\rho ^ { \\prime } - [ \\displaystyle \\frac { m ^ { 2 } } { z ^ { 2 } f } + \\displaystyle \\frac { 4 J \\mu ^ { 2 } z ^ { 2 } } { ( m ^ { 2 } - 4 J \\rho ^ { 2 } z ^ { 4 } ) ^ { 2 } f } ] \\rho = \\displaystyle \\frac { B } { z ^ { 2 } f } , } } \\\\ { { ( m ^ { 2 } - 4 J \\rho ^ { 2 } z ^ { 4 } ) p - \\mu z ^ { 2 } = 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As we will care about the behavior of $T  T _ { c }$ ,the value of $\\rho$ will be a small quantity near the transition point. In this case,we can make a Taylor's expansion on the nonlinear term of $\\rho$ in Eq. (41) as, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 4 J \\mu ^ { 2 } z ^ { 2 } } { ( m ^ { 2 } - 4 J \\rho ^ { 2 } z ^ { 4 } ) ^ { 2 } } = \\frac { 4 J \\mu ^ { 2 } z ^ { 2 } } { m ^ { 4 } } + \\frac { 3 2 J ^ { 2 } \\mu ^ { 2 } \\rho ^ { 2 } z ^ { 6 } } { m ^ { 6 } } + \\mathcal { O } ( \\rho ^ { 4 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Neglecting the high order terms,Eq. (41) can be rewritten as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\widehat { L } \\rho = \\widetilde { J } _ { f } \\rho ^ { 3 } z ^ { 8 } - B , } } \\\\ { { \\displaystyle \\widehat { L } = - \\frac { d } { d z } \\left[ z ^ { 2 } f ( z ) \\frac { d } { d z } \\right] + q ( z ) , } } \\\\ { { \\displaystyle q ( z ) = m ^ { 2 } + \\frac { 4 J \\mu ^ { 2 } z ^ { 4 } } { m ^ { 4 } } , } } \\\\ { { \\displaystyle \\widetilde { J } _ { f } = - 3 2 J ^ { 2 } \\mu ^ { 2 } / m ^ { 6 } < 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Up to the order of $\\rho ^ { 4 }$ , the part of polarization field in action (3) can be written as, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\frac { S ( T , B ; \\rho ) } { \\lambda ^ { 2 } V _ { 2 } } = \\left. ( \\frac { z ^ { 2 } } 2 f \\rho ^ { \\prime } \\rho + z f \\rho ^ { 2 } ) \\right. _ { 0 } ^ { z _ { h } } } } \\\\ { { \\displaystyle ~ - \\int _ { 0 } ^ { z _ { h } } d z \\left[ \\frac \\rho 2 \\widehat { L } \\rho + B \\rho - \\frac { \\widetilde J _ { f } } 4 z ^ { 8 } \\rho ^ { 4 } \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "which is a function of $T$ and $B$ ，but a functional of $\\rho$ The asymptotic solution for (43） is ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = \\widetilde { \\rho } - \\frac { B } { m ^ { 2 } } , \\mathrm { ~ w i t h ~ } \\widetilde { \\rho } = \\rho _ { + } z ^ { - ( 1 + \\delta ) / 2 } + \\rho _ { - } z ^ { - ( 1 - \\delta ) / 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The source free condition is $\\rho _ { + } = 0$ as $z  0 ^ { + }$ . Under this,the grand thermodynamic potential or free energy in grand canonical ensemble $\\Omega$ is, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\Omega ( T , B ; \\rho ) = \\widetilde \\Omega ( T , B ; \\rho ) V _ { 2 } } \\\\ { = \\lambda ^ { 2 } V _ { 2 } \\displaystyle \\int _ { 0 } ^ { z _ { h } } d z \\left[ \\frac { \\rho } 2 \\widehat L \\rho + B \\rho - \\frac { \\widetilde J _ { f } } 4 z ^ { 8 } \\rho ^ { 4 } \\right] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to thermodynamic relationship ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { d \\Omega ( T , B ) = - S d T - V _ { 2 } N d B } } \\\\ { \\displaystyle { \\Rightarrow N / \\lambda ^ { 2 } = - \\frac { 1 } { V _ { 2 } } \\left( \\frac { \\partial \\Omega ( T , B ) } { \\partial B } \\right) _ { T } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It seems that the magnetic moment should be, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = - \\frac { \\lambda ^ { 2 } } { V _ { 2 } } \\left( \\frac { \\partial \\Omega ( T , B ; \\rho ) } { \\partial B } \\right) _ { T , \\rho } = - \\lambda ^ { 2 } \\int _ { 0 } ^ { z _ { h } } \\rho d z .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "However,in our previous papers,we defined the magnetic moment as, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN / \\lambda ^ { 2 } = - \\int _ { 0 } ^ { z _ { h } } \\frac { \\rho } { 2 } d z .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There is a difference factor $1 / 2$ between (49) and (48). Now we show that the expression (48) is not true. The reason is as follows. The relation（47) is on-shell,while the equation (46) is off-shell. In order to obtain the differential relation of $\\Omega ( T , B ; \\rho )$ with respect to $( T , B , \\rho )$ ，we need to use the Euler homogenous function theorem.We should first note that under the scaling transformation （204号 $z  k z , \\ ( t , x , y )  k ( t , x , y )$ ，we have $\\Omega ( k T , k ^ { 2 } B ; k ^ { 2 } \\rho ) =$ （204号 $k \\Omega ( T , B ; \\rho )$ ,which gives, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Omega ( T , B ; \\rho ) = \\left( \\frac { \\partial \\Omega } { \\partial T } \\right) _ { \\rho , B } T + 2 \\left( \\frac { \\partial \\Omega } { \\partial B } \\right) _ { \\rho , T } B } \\\\ { + \\left. 2 \\int _ { 0 } ^ { z _ { h } } \\left( \\frac { \\delta \\Omega } { \\delta \\rho ( z ) } \\right) _ { T , B } \\rho ( z ) d z . \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Submitting (46） into (50） and considering the on-shell condition $\\delta \\Omega / \\delta \\rho = 0$ ,we find that, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN / \\lambda ^ { 2 } = - \\frac { 1 } { V _ { 2 } } \\left( \\frac { \\partial \\Omega ( T , B ) } { \\partial B } \\right) _ { T , \\mathrm { o n - s h e l l } } = - \\int _ { 0 } ^ { z _ { h } } \\frac { \\rho } { 2 } d z .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This is just the definition (49) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The key step for computing the grand thermodynamic potential is to structure the Sturm-Liouville problem, which is the following ODE: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\widehat { P } } \\rho _ { n } = \\frac { { \\widehat { L } } \\rho _ { n } } { \\omega ( z ) } } \\ ~ } \\\\ { { \\displaystyle ~ = \\frac { 1 } { \\omega ( z ) } \\left\\{ - \\frac { d } { d z } \\left[ z ^ { 2 } f ( z ) \\frac { d \\rho _ { n } } { d z } \\right] + q ( z ) \\right\\} \\rho _ { n } = \\lambda _ { n } \\rho _ { n } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with the boundary conditions: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a)At $z = z _ { h }$ ， $f ( z _ { h } ) = 0$ ， $| \\rho _ { n } ( z _ { h } ) |$ is required to be finite; (b) At $z \\to 0 ^ { + }$ ，we impose $\\rho _ { n } ( 0 ) = 0$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The weight function $\\omega ( z )$ can be an arbitrary positive continuous function in the region of $[ 0 , z _ { h } ]$ . From a practical point of view,we choose weight function such that the values of $\\lambda _ { n }$ will not influence the asymptotic behaviors of equation (52） when $z \\to 0 ^ { + }$ . There are many choices for weight function. Here we choose $\\omega ( r ) = z ^ { k }$ with an integer $k > 2$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Once note that the asymptotic solution when $r  \\infty$ for equation (52) is, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { n } = \\rho _ { + } z ^ { - ( 1 + \\delta ) / 2 } + \\rho _ { - } z ^ { - ( 1 - \\delta ) / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "one can find that the boundary condition (b) corresponds to $\\rho _ { + } = 0$ .Let $\\mathcal { L } ^ { 2 } ( [ 0 , z _ { h } ] , \\omega ( z ) , d z )$ be the Hilbert space of square integrable functions on $[ 0 , z _ { h } ]$ ,i.e., ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\mathcal L ^ { 2 } ( [ 0 , z _ { h } ] , \\omega ( z ) , d z ) } } \\\\ & { } & { = \\{ h : [ 0 , z _ { h } ] \\mapsto \\mathbb R | \\int _ { 0 } ^ { z _ { h } } \\omega ( z ) \\vert h ( z ) \\vert ^ { 2 } d z < \\infty  \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with the inner product ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle h _ { 1 } , h _ { 2 } \\rangle = \\int _ { 0 } ^ { z _ { h } } \\omega ( z ) h _ { 1 } ( z ) h _ { 2 } ( z ) d z ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and $D$ be the subspace of $\\mathcal { L } ^ { 2 } ( [ 0 , z _ { h } ] , \\omega ( z ) , d z )$ that satisfies the boundary conditions of (a) and (b), i.e., ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { D = \\left\\{ \\forall h \\in \\mathcal { L } ^ { 2 } ( [ 0 , z _ { h } ] , \\omega ( z ) , d z ) \\left| h \\in C ^ { 2 } [ 0 , z _ { h } ] \\right. , \\right. } \\\\ & { \\qquad \\left. h ( 0 ) = 0 , \\ \\left| h ( z _ { h } ) \\right| < \\infty \\right\\} . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then we can prove that $\\hat { P }$ is the self-adjoint operator on $D$ ,i.e., ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\forall h _ { 1 } , h _ { 2 } \\in D , \\langle h _ { 1 } , \\widehat { P } h _ { 2 } \\rangle = \\langle \\widehat { P } h _ { 1 } , h _ { 2 } \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/71f6a71458095389c8c7b222b90345e6c48b8bc5b406b39a0d58b9d8bae6f810.jpg",
+        "img_caption": [
+            "FIG.4.The function $y ( \\lambda ) ~ = ~ \\arctan [ 1 0 \\rho _ { + } ( \\lambda ) ]$ with respect to $\\lambda$ at temperature of $T ~ \\simeq ~ 2 . 0 0 T _ { c }$ (left one)and （204号 $T \\simeq 0 . 4 9 1 T _ { c }$ (right one) in the case of $m ^ { 2 } = 1 / 8$ ．The $_ \\mathrm { x }$ 1 coordinate values of zero points give the eigenvalues $\\lambda _ { n }$ .Here （204号 $T _ { c } \\simeq 1 . 7 7 6 6 \\mu$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "According to the properties of SL problem,the solutions of(52) form a function basis on $D$ with which one can expand any functions belonging to $D$ ,i.e., ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\rho _ { n } , \\rho _ { k } \\rangle = \\delta _ { n k } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\forall h \\in D , \\exists \\{ c _ { n } \\} \\subset \\mathbb { R } , h ( z ) = \\sum _ { n = 1 } ^ { \\infty } c _ { n } \\rho _ { n } ( z )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with $c _ { n } = \\langle \\rho _ { n } , h \\rangle$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that all the parameters in equation (52) depend on temperature,so do the eigenvalues $\\lambda _ { n }$ and eigenfunctions $\\rho _ { n }$ .Indeed,the minimal eigenvalue, i.e., the first eigenvalue $\\lambda _ { 1 }$ is the function of temperature. There is a critical temperature $T _ { c }$ ，at which we have $\\lambda _ { 1 } ~ = ~ 0$ We can find that when $T > T _ { c }$ ， $\\lambda _ { 1 } ~ > ~ 0$ .In order to show this,we take $m ^ { 2 } \\ = \\ 1 / 8$ as an example to plot with respect to $\\lambda$ .The boundary condition（b）is $\\rho _ { + }$ equivalent to $\\rho _ { + } ( \\lambda _ { n } ) ~ = ~ 0$ .Fig. 4 shows the value of $y ( \\lambda ) = \\arctan [ 1 0 \\rho _ { + } ( \\lambda ) ]$ with respect to $\\lambda ^ { 1 / 3 }$ (it is just for convenience).The $x$ -coordinate values of zero points （ $y = 0$ ）give the eigenvalue $\\lambda _ { n }$ .We can see that all the eigenvalues are positive when $T > T _ { c }$ and $\\lambda _ { 1 } < 0$ when $T \\ < \\ T _ { c }$ .For any temperature,the equation has infinite eigenvalues and the smallest eigenvalue exists,which shows the system is stable. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let us now turn our attention to the free energy (46). For convenience,we will use scaling transformation to set $z _ { h } = 1$ in the process of computation,and then transform into the case of fixing chemical potential in the final results. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let $\\widetilde { \\rho } ( \\boldsymbol { r } ) = \\rho ( \\boldsymbol { r } ) + B / m ^ { 2 }$ be any function configuration belonging to $D$ , in which $\\rho ( r )$ dose't need to be the solution of EoM (43). We can use the eigenfunction $\\rho _ { n }$ to expand $\\widetilde { \\rho } ( \\boldsymbol { r } )$ and magnetic moment as, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\widetilde { \\rho } = \\displaystyle \\sum _ { n = 1 } ^ { \\infty } c _ { n } \\rho _ { n } \\Leftrightarrow \\rho = \\displaystyle \\sum _ { n = 1 } ^ { \\infty } c _ { n } \\rho _ { n } - \\frac { B } { m ^ { 2 } } , } \\\\ { N = \\displaystyle \\frac { \\lambda ^ { 2 } B } { 2 m ^ { 2 } } - \\lambda ^ { 2 } \\displaystyle \\int _ { 0 } ^ { 1 } \\frac { \\widetilde { \\rho } } { 2 } d z = \\frac { \\lambda ^ { 2 } B } { 2 m ^ { 2 } } - \\frac { \\lambda ^ { 2 } } { 2 } \\displaystyle \\sum _ { n = 1 } ^ { \\infty } c _ { n } N _ { n } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { n }$ and $N _ { n }$ are coefficients, defined as, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { n } = \\int _ { 0 } ^ { 1 } \\omega \\widetilde { \\rho } \\rho _ { n } d z , ~ N _ { n } = \\int _ { 0 } ^ { 1 } \\rho _ { n } d z .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Here we have assumed that $\\{ \\rho _ { n } \\}$ is an unit base.Then the variational principle of $\\Omega ( T , B ; \\rho )$ underlying the equations of motion,or finding a solution of EoM (43), is equivalent to minimizing $\\Omega ( T , B , c _ { n } )$ with respect to $c _ { n }$ 's. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let us consider the case of spontaneous magnetization, i.e., the case with $B = 0$ .In this case,we have ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde \\Omega ( T , c _ { n } ) = \\lambda ^ { 2 } \\int _ { 0 } ^ { 1 } d z \\left[ \\frac { \\omega \\rho } { 2 } \\widehat { P } \\rho - \\widetilde { J } _ { f } z ^ { 8 } \\rho ^ { 4 } / 4 \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with $\\rho = \\textstyle \\sum _ { n = 1 } ^ { \\infty } c _ { n } \\rho _ { n }$ . Using the orthogonal relationship, we have, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\widetilde \\Omega ( T , c _ { n } ) = \\displaystyle \\frac { \\lambda ^ { 2 } } { 2 } \\langle \\rho , \\widehat P \\rho \\rangle - \\displaystyle \\frac { \\lambda ^ { 2 } \\widetilde J _ { f } } { 4 } \\int _ { 0 } ^ { 1 } z ^ { 8 } \\rho ^ { 4 } d z } } \\\\ { { = \\displaystyle \\frac { \\lambda ^ { 2 } } { 2 } \\sum _ { n = 1 } ^ { \\infty } \\lambda _ { n } c _ { n } ^ { 2 } - \\displaystyle \\frac { \\lambda ^ { 2 } \\widetilde J _ { f } } { 4 } \\int _ { 0 } ^ { 1 } z ^ { 8 } \\rho ^ { 4 } d z . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "If $T > T _ { c }$ ， then $\\lambda _ { n } > 0$ . Because of $\\tilde { J } _ { f } < 0$ , we can find that $\\widetilde \\Omega ( T , c _ { n } ) \\geq 0$ . The minimization of $\\Omega ( T , c _ { n } ) = 0$ is achieved onlywhen $c _ { n } = 0$ ，i.e., $\\rho = 0$ ．So the nonzero solution appears only when $\\lambda _ { 1 } < 0$ ，i.e., $T < T _ { c }$ . This is just what we have obtained in the pervious section. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When $T  T _ { c } ^ { - }$ , we can set $\\lambda _ { 1 } = a _ { 0 } ( T / T _ { c } { - } 1 )$ with $a _ { 0 } >$ （20 $0$ and assume that the off-shell solution is dominated by the first term in (60) only,i.e., $| c _ { 1 } | \\gg c _ { n }$ for $n \\geq 2$ in (61).As a result,we have, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\lambda ^ { - 2 } \\widetilde { \\Omega } ( T , c _ { n } ) \\simeq \\displaystyle \\frac { 1 } { 2 } \\lambda _ { 1 } c _ { 1 } ^ { 2 } - \\frac { \\widetilde { J } _ { f } c _ { 1 } ^ { 4 } } { 4 } \\int _ { 0 } ^ { 1 } d z \\rho _ { 1 } ^ { 4 } z ^ { 8 } , } } \\\\ { { \\simeq \\displaystyle \\frac { 1 } { 2 } a _ { 0 } ( T / T _ { c } - 1 ) c _ { 1 } ^ { 2 } - \\widetilde { J } _ { f } c _ { 1 } ^ { 4 } a _ { 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with $\\begin{array} { r } { a _ { 1 } = \\frac { 1 } { 4 } \\int _ { 0 } ^ { 1 } \\rho _ { 1 } ^ { 4 } z ^ { 8 } d z | _ { T = T _ { c } } > 0 } \\end{array}$ and, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN \\simeq - \\lambda ^ { 2 } c _ { 1 } N _ { 1 } / 2 .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Put (65) into (64),we can obtain, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\widetilde \\Omega ( T , c _ { n } ) \\simeq \\widetilde \\Omega ( T , N ) } } \\\\ { { \\qquad \\simeq \\displaystyle \\frac { 2 a _ { 0 } } { \\lambda ^ { 2 } N _ { 1 } ^ { 2 } } ( T / T _ { c } - 1 ) N ^ { 2 } + \\displaystyle \\frac { - 1 6 \\widetilde { J } _ { f } a _ { 1 } } { \\lambda ^ { 6 } N _ { 1 } ^ { 4 } } N ^ { 4 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We can see that this is just the Ginzburg-Landau (GL) theory of ferromagnetic model. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Now the grand thermodynamic potentials of the holographic model in the gravity side and in the boundary theory side are in hand,we can use the AdS/CFT duality to relate them,which gives, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { Q F T } = \\Omega _ { \\mathrm { g r a v i t y } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Here we should mention that the dual theory in the boundary being an Ising-like model is an assumption. With this equality,At the critical temperature,comparing(66) with (39),we can obtain, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { - 1 6 \\widetilde { J } _ { f } a _ { 1 } } { \\lambda ^ { 6 } N _ { 1 } ^ { 4 } } N ^ { 4 } \\sim \\lambda _ { s } \\widetilde { s } _ { c l } ^ { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note that in materials,the spontaneous magnetization is proportional to the expectation value of $z$ -component of spin, i.e., $N \\propto \\widetilde { s } _ { c l }$ . Following the definition of $\\scriptstyle { \\widetilde { J } } _ { f }$ in Eqs. (43) and $\\lambda _ { s }$ in Eqs. (40),we see that if $J = 0$ ，then Eq.(68）leads to $K \\ = \\ 0$ .Therefore we can interpret the parameter $J$ in action (3) as the deviation from the standard Ising model in the boundary theory. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Here some remarks are in order. First,the equality Eq. (67) is exact according to the AdS/CFT correspondence. However,the expressions for the grand thermodynamic potentials in both sides are just some approximations.In gravity side,because we used the probe limit which neglects the back reaction of polarization field to the background geometry and to external field and we only computed the grand thermodynamic potential in the classical level which neglects the quantum correction. In the boundary side,we used mean field expansion and only took the tree level of the quantum fluctuation into account.So the relationship(68) is only approximately valid and our explanation for $J$ is only a qualitative description. Second, the Ising-like model(37) can only describe the local moment system,which is usually suitable for insulator.For metal magnetic materials,we need to use different model. So what the meaning of $J$ is in these materials needs to be considered in the future. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With the grand thermodynamic potential in Eq. (66), we can obtain the expression of magnetic moment in the ferromagnetic phase as, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN / \\lambda ^ { 2 } = \\sqrt { \\frac { N _ { 1 } ^ { 2 } a _ { 0 } } { - 1 6 \\widetilde { J } _ { f } a _ { 1 } } } ( 1 - T / T _ { c } ) ^ { 1 / 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This confirmed the critical behavior obtained in the numerical calculations and the critical exponent $1 / 2$ isan exact result. We can compute all the coefficients appearing in (69) and compare them with the numerical ones. We can also compute the grand thermodynamic potential when magnetic field is nonzero and get the magnetic susceptibility and hysteresis loop.The details will be given in Appendix B. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "V.PROBELIMITBYNEGLECTING THEBACKREACTIONOFALLMATTERFIELDS",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A.Spontaneous magnetization and susceptibility ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the probe limit by neglecting the back reaction of all matter fields including the Maxwell field, the background geometry is just the planar AdS Schwarzschild ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "black brane with, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( r ) = 1 - \\frac { r _ { h } ^ { 3 } } { r ^ { 3 } } , \\qquad T = \\frac { 3 r _ { h } } { 4 \\pi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the background, the equations for Maxwell field read, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { ( m ^ { 2 } - \\displaystyle \\frac { 4 J \\rho ^ { 2 } } { r ^ { 4 } } ) p - \\phi ^ { \\prime } = 0 , } } \\\\ { { \\phi ^ { \\prime \\prime } + \\displaystyle \\frac { 2 } { r } \\phi ^ { \\prime } - \\lambda ^ { 2 } ( \\displaystyle \\frac { p ^ { \\prime } } { 2 } + \\displaystyle \\frac { p } { 2 r } ) = 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We can directly obtain $\\begin{array} { r } { \\phi ( r ) = \\int _ { r _ { h } } ^ { \\infty } d r ( m ^ { 2 } - 4 J \\rho ^ { 2 } / r ^ { 4 } ) p } \\end{array}$ with $\\phi ( \\boldsymbol { r } _ { h } ) = 0$ and put it into the equation of $\\phi ^ { \\prime \\prime }$ ，then the equation for $p$ can be obtained.So in this probe limit, we need only solve the three equations of matter fields numerically, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\rho ^ { \\prime \\prime } + \\cfrac { f ^ { \\prime } } { f } \\rho ^ { \\prime } - \\cfrac { m ^ { 2 } + 4 J p ^ { 2 } } { r ^ { 2 } f } \\rho + \\cfrac { B } { r ^ { 2 } f } = 0 , } \\\\ { ( m ^ { 2 } - \\cfrac { 4 J \\rho ^ { 2 } } { r ^ { 4 } } ) p - \\phi ^ { \\prime } = 0 , } \\\\ { p ^ { \\prime } + \\left( \\cfrac { 2 } { r } + \\cfrac { 3 2 J \\rho \\rho ^ { \\prime } } { \\lambda ^ { 2 } r ^ { 4 } + 1 6 J \\rho ^ { 2 } - 4 m ^ { 2 } r ^ { 4 } } \\right) p = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note that in this case, there does not exist the $A d S _ { 2 }$ geometry, the near horizon geometry of an extremal black brane with vanishing temperature.To have the spontaneous magnetization when the temperature is lowered, the restrictions(23)need to be reconsidered.To find the restriction about the parameters,let us consider Eqs.(72) in the high temperature region where $\\rho$ vanishes and the solutions for $\\phi$ and $p$ are the same expressions shown in Eqs.(16). We can read off the effective mass square of $\\rho$ at the horizon as, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\rho \\mathrm { e f f } } ^ { 2 } = m ^ { 2 } + 4 J p ( r _ { h } ) ^ { 2 } = m ^ { 2 } + \\frac { 4 J \\mu ^ { 2 } } { m ^ { 4 } r _ { h } ^ { 2 } } = m ^ { 2 } + \\frac { 9 J \\mu ^ { 2 } } { m ^ { 4 } 4 \\pi ^ { 2 } T ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Because of $J ~ < ~ 0$ ，the temperature term contributes a negative term into the effective mass square,which is divergent when $T \\  \\ 0$ .Thus we see that in the grand canonical ensemble, the instability always appears provided that the temperature is low enough. As a result, in this case,we need not the restrictions in (23). But, the parameters have to satisfy the condition $\\lambda ^ { 2 } < 4 m ^ { 2 }$ = To see this,let us recall the charge density in Eq. (18). In this probe limit,we have, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( T , \\mu ) = 2 ( 1 - \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } ) \\frac { 4 \\pi T \\mu } { 3 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Then we reach, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( { \\frac { \\partial \\sigma } { \\partial \\mu } } \\right) _ { T } = 2 ( 1 - { \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } } ) { \\frac { 4 \\pi T } { 3 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We see that it is positive only when $\\lambda ^ { 2 } < 4 m ^ { 2 }$ = ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Now we consider the spontaneous magnetization in this probe limit.First, let us compute the critical temperature $T _ { c }$ when $B = 0$ . Similar to the case in the first kind of probe limit, the polarization field $\\rho$ is a small quantity near the critical temperature,we can neglect the nonlinear terms of $\\rho$ in the equations of $\\phi$ and $p$ . Then we can get $\\phi ( r ) = \\mu ( 1 - r _ { h } / r )$ and $p ( r ) = \\mu r _ { h } / r ^ { 2 } m ^ { 2 }$ which are identical with expressions in Eqs.(16). The equation of $\\rho$ is just Eq. (21). At the horizon,the initial conditions are, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho ^ { \\prime } = \\frac { m ^ { 6 } + 4 J \\mu ^ { 2 } } { 3 m ^ { 4 } } , ~ \\rho ( r _ { h } ) = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When we perform the numerical computation,we can first fix the horizon radius $r _ { h } = 1$ so the temperature is also fixed.By adjusting the chemical potential,we shoot the boundary condition $\\rho _ { + } ~ = ~ 0$ .In the end,we can use the scaling transformations (24) and (26) to transform our results into the case in grand canonical ensemble where the chemical potential is fixed. As a typical example,we also choose parameters as $m ^ { 2 } = - J = 1 / 8$ and $\\lambda = 1 / 2$ .The critical temperature is $T _ { c } / \\mu \\simeq 1 . 7 8 7 1$ Similarly,we can plot the relationship between $\\rho _ { + }$ and shooting parameter $\\mu$ ，in order to examine whether $\\rho$ gets spontaneous condensation when $T < T _ { c }$ .We find that the solution of source free always appears,which results in the spontaneous magnetization of the system, and breaks the time reversal symmetry in low temperatures. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "When the temperature is lower than the critical one $T _ { c }$ ，we have to solve Eq.(72) to get the solution of the order parameter $\\rho$ ,and then compute the value of magnetic moment $N$ ,which is also defined by Eq.(14) with $a \\ = \\ 0$ .In the top panel in Fig.5,we plot the value of magnetic moment $N$ asa function of temperature. We see that when the temperature is lower than $T _ { c }$ ，the non-trivial solution $\\rho \\neq 0$ and spontaneous magnetic moment appears.It corresponds a time reversal symmetry breaking spontaneously. In addition,let us stress here that if the boundary spatial dimension is three, the spatial rotational symmetry is also broken spontaneously, since a nonvanishing magnetic moment chooses a direction as a special. The numerical results show that this phase transition is a second order one with the behavior $N \\propto \\sqrt { 1 - T / T _ { c } }$ near the critical temperature. The result is still consistent with the mean field theory descrip tion of the paramagnetism/ferromagnetism phase transition. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Next we calculate the static magnetic susceptibility in this probe limit,defined by Eq.(33). Based on the previous analysis,the magnetic susceptibility is still obtained by solving Eq. (34)，and the only difference is the form of $f ( r )$ .Thus we can also set the magnetic field $B = 1$ and get ² $\\begin{array} { r } { \\frac { \\lambda ^ { 2 } } { \\chi \\sqrt { \\widetilde { \\mu } } } = 5 . 7 ( T / T _ { c } - 1 ) } \\end{array}$ ，which satisfies the CurieWeiss law of ferromagnetism in the region of $T > T _ { c }$ . Its inverse is shown in the bottom panel of Fig. 5. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/43830bb62db466b907deac7582d3662ab3562e1e6ffd3251867b2545addc44b4.jpg",
+        "img_caption": [
+            "FIG.5.Top panel: The magnetic moment $N$ as a function of temperature.Bottom panel:The behavior of the inverse susceptibility density in the paramagnetic phase near the critical temperature.Here,we choose parameters as $m ^ { 2 } = - J = 1 / 8$ The temperature $T _ { c } / \\mu \\simeq 1 . 7 8 7 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "B. DC conductivity in the ferromagnetic phase ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The electric transport is also an important property in the materials involving spontaneous magnetization. Now let us study how the DC conductivity is influenced by spontaneous magnetization in this model. In order to simplify our computation in technology, we will work in the probe limit by neglecting back reactions of all the matter fields. This limit can give out the main features near the critical temperature. However,in the case of near zero temperature，we have to consider the model with full back reaction. We will consider this in the future. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To compute the conductivity, we have to consider some perturbations for gauge field with harmonically time varying electric field. Due to the planar symmetry at the boundary，the conductivity is isotropic.Thus for simplicity,we just compute the conductivity along the $x$ -direction. According to the dictionary of AdS/CFT, we consider the perturbation $\\delta A _ { x } = \\epsilon a _ { x } ( r ) e ^ { - \\imath \\omega t }$ . In the probe limit,this perturbation will also lead to the perturbations of polarization field in the first order of $\\epsilon$ .As a result,we have to consider the perturbations for all the components of gauge field and polarization field.However, if we only care the conductivity in the low frequency limit,i.e., $T \\gg \\omega  0$ , the problem can be simplified.In the low frequency limit,we only need turn on the three perturbations, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\delta A _ { x } = \\epsilon a _ { x } ( r ) e ^ { - i \\omega t } , \\phantom { x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x } } \\\\ { M _ { r x } = \\epsilon C _ { r x } ( r ) e ^ { - i \\omega t } , } \\\\ { M _ { t y } = \\epsilon C _ { t y } ( r ) e ^ { - i \\omega t } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and corresponding equations for the three perturbations in the low frequency limit read ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { C _ { t y } ^ { \\prime \\prime } - \\displaystyle \\frac { m ^ { 2 } C _ { t y } } { r ^ { 2 } f } - \\frac { 4 J p \\rho C _ { r x } } { r ^ { 2 } } + O ( \\omega ) = 0 , } \\\\ { C _ { r x } - \\displaystyle \\frac { a _ { x } ^ { \\prime } } { m ^ { 2 } } - \\frac { 4 J p \\rho C _ { t y } } { r ^ { 4 } f m ^ { 2 } } + O ( \\omega ) = 0 , } \\\\ { \\displaystyle [ r ^ { 2 } f ( a _ { x } ^ { \\prime } - \\lambda ^ { 2 } C _ { r x } / 4 ) ] ^ { \\prime } + \\frac { a _ { x } \\omega ^ { 2 } } { r ^ { 2 } f } + O ( \\omega ) = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "with $p$ and $\\rho$ determined by Eqs.(72).Here $O ( \\omega )$ is the terms with order of $\\omega$ which can be neglected when $\\omega $ （204号 $0$ . In general, the term $\\omega ^ { 2 } / r ^ { 2 } f ( r )$ can not be neglected since $f ( r )$ is zero at the horizon,which leads to that the limit of $\\omega  0$ is ambiguous.However,at the horizon,if we impose the ingoing conditions for $C _ { r x } , C _ { t y }$ and $\\boldsymbol { a } _ { x }$ ， ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { C _ { t y } = C _ { t y } ^ { ( 0 ) } + C _ { t y } ^ { ( 0 ) } ( r - r _ { h } ) + \\cdot \\cdot \\cdot , } } \\\\ { { C _ { r x } = e ^ { - i \\omega r _ { * } } [ C _ { r x } ^ { ( 0 ) } + C _ { r x } ^ { ( 1 ) } ( r - r _ { h } ) + \\cdot \\cdot \\cdot ] , } } \\\\ { { a _ { x } = e ^ { - i \\omega r _ { * } } [ a _ { x } ^ { ( 0 ) } + a _ { x } ^ { ( 1 ) } ( r - r _ { h } ) + \\cdot \\cdot \\cdot ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "with $\\begin{array} { r } { r _ { * } ~ = ~ \\int d r / ( r ^ { 2 } f ) } \\end{array}$ ，we find the system has a welldefined limit when $\\omega  0$ if $T \\neq 0$ . At the AdS boundary with the source free condition,we have the following asymptotic solutions, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle C _ { t y } = C _ { t y + } r ^ { ( 1 + \\delta ) / 2 } + C _ { t y - } r ^ { ( 1 - \\delta ) / 2 } + \\cdots \\ : , } } \\\\ { { \\displaystyle C _ { r x } = - \\frac { a _ { x - } } { r ^ { 2 } m ^ { 2 } } + \\cdots \\ : , \\ : a _ { x } = a _ { x + } + \\frac { a _ { x - } } { r } + \\cdots \\ : . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Then the gauge/gravity duality implies that electric current $\\langle J _ { x } \\rangle = a _ { x - }$ and the DC conductivity is given by, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\operatorname* { l i m } _ { \\omega \\to 0 } \\frac { a _ { x - } } { i \\omega a _ { x + } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Asa holographic application of the membrane paradigm of black holes,we can direct obtain the DC conductivity from Eqs.(78） using the method proposed byIqbal andLiu in [34]. In fact, the transport coefficients in the dual field theory can be obtained from the horizon geometry of the dual gravity in the low frequency limit. Applying this into $U ( 1 )$ gauge field,this conclusion implies that the DC conductivity is given by the coefficient of the gauge field kinetic term evaluated at the horizon. To see this,we assume that $T > 0$ and $\\omega  0$ ，then we can neglect all the terms of $\\omega$ in Eqs. (78).We first note that, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\operatorname* { l i m } _ { r \\to \\infty } r ^ { 2 } f ( r ) ( a _ { x } ^ { \\prime } - \\lambda ^ { 2 } C _ { r x } / 4 ) = r ^ { 2 } \\left( \\frac { - \\langle J _ { x } \\rangle } { r ^ { 2 } } + \\frac { \\lambda ^ { 2 } \\langle J _ { x } \\rangle } { 4 r ^ { 2 } m ^ { 2 } } \\right) } \\\\ { = - ( 1 - \\lambda ^ { 2 } / 4 m ^ { 2 } ) \\langle J _ { x } \\rangle . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Eq.(78c) shows that this quantity is conserved along the direction $r$ . So at the horizon,using Eqs.(78b) and (78c), we have, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle - ( 1 - \\lambda ^ { 2 } / 4 m ^ { 2 } ) \\langle J _ { x } \\rangle = \\operatorname * { l i m } _ { r \\to 1 } r ^ { 2 } f \\left( a _ { x } ^ { \\prime } - \\lambda ^ { 2 } C _ { r x } / 4 \\right) \\big | _ { r = r _ { h } } \\ : , } } \\\\ { { \\displaystyle = r ^ { 2 } f \\left[ \\left( 1 - \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } \\right) a _ { x } ^ { \\prime } + \\frac { 4 J p \\rho C _ { t y } } { m ^ { 2 } f } \\right] _ { r = r _ { h } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Combining Eqs.(78a) and (78b) and considering the fact that $C _ { t y }$ is regular at the horizon,we have, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ m ^ { 2 } + \\frac { 1 6 J ^ { 2 } p ^ { 2 } \\rho ^ { 2 } } { m ^ { 2 } r ^ { 4 } } \\right] C _ { t y } = - \\frac { 4 J p \\rho } { m ^ { 2 } } f a _ { x } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "at $r  r _ { h } ^ { + }$ . Thus we have from Eqs.(84) and (83) that ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\begin{array} { l } { { \\displaystyle - ( 1 - \\lambda ^ { 2 } / 4 m ^ { 2 } ) \\langle J _ { x } \\rangle } } \\\\ { { \\displaystyle = \\operatorname * { l i m } _ { r \\to r _ { h } ^ { + } } r ^ { 2 } f a _ { x } ^ { \\prime } \\left[ 1 - \\frac { \\lambda ^ { 2 } m ^ { 2 } } { 4 ( m ^ { 4 } + 1 6 J ^ { 2 } p ^ { 2 } \\rho ^ { 2 } / r ^ { 4 } ) } \\right] . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Now let us take the ingoing condition for $a _ { x }$ at the horizon,which tells us that, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ^ { 2 } f a _ { x } ^ { \\prime } = { \\frac { d } { d r _ { * } } } a _ { x } = - i \\omega a _ { x } , \\mathrm { a t } r  r _ { h } ^ { + } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "finally we get, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle J _ { x } \\rangle = \\frac { i \\omega a _ { x } ( r _ { h } ) } { 1 - \\frac { \\lambda ^ { 2 } } { 4 m ^ { 2 } } } \\left[ 1 - \\frac { \\lambda ^ { 2 } m ^ { 2 } } { 4 ( m ^ { 4 } + 1 6 J ^ { 2 } p _ { 0 } ^ { 2 } \\rho _ { 0 } ^ { 2 } / r _ { h } ^ { 4 } ) } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Here $p _ { 0 }$ and $\\rho _ { 0 }$ are the initial values of $p ( r )$ and $\\rho ( r )$ at the horizon,which can be computed from Eqs.(72). In the low frequency limit,Eqs.(78) imply that the electric field is constant, i.e., $\\operatorname* { l i m } _ { r = r _ { h } } a _ { x } ( r ) = a _ { x + }$ .So we have seen that we can obtain the DC conductivity near the horizon as, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = \\frac { 1 } { 1 - \\lambda ^ { 2 } / 4 m ^ { 2 } } \\left[ 1 - \\frac { \\lambda ^ { 2 } m ^ { 2 } } { 4 ( m ^ { 4 } + 1 6 J ^ { 2 } p _ { 0 } ^ { 2 } \\rho _ { 0 } ^ { 2 } / r _ { h } ^ { 4 } ) } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In the top panel of Fig. 6, we plot the numerical result on the DC resistivity $1 / \\sigma$ as a function of temperature.We see that the resistivity shows a metallic behavior when the temperature is below the Curie temperature. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "With the appearance of ferromagnetism，DC resistivity decreases when the sample gets cooling,which shows in many interesting phenomena in condensed matter physics,especially in a class of manganese oxides which are widespread because of the discovery of colossal magnetoresistance(CMR) and receive a lot of interest both in theory and experiment [36,37]. Note that this effect hasa completely different physical origin from the“giant”magnetoresistance observed in layered and clustered compounds.In recent twenty years,CMR is among the main topics of study within the area of strongly correlated electron systems and its popularity is reaching the level comparable to that of the high-temperature superconducting cuprates.In the bottom panel of Fig.6,we ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "VI. PHASETRANSITIONWITHBACK REACTION ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In previous sections,we have studied the spontaneous magnetization in two kinds of probe limit. However, probe limit may lead to some information lost.For example,in some holographic superconductor models，it will lead to the appearance of the first or zeroth order phase transition when the strength of back reaction gets beyond some values (see Refs. [26,38,39], for example). In addition,when the temperature is low enough，the probe limit may lose its validness.To have a complete phase diagram for the holographic model, we need to go beyond the probe approximation and to include the back reaction. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/b78169abd7d9bda4d6a12531cbf022be34285a8fbcd4b79e52e3e3265371cae9.jpg",
+        "img_caption": [
+            "FIG.6. Top panel: DC resistivity vs temperature in our model.Here we choose parameters as $m ^ { 2 } = - J = 1 / 8$ and $\\lambda = 1 / 2$ ．The critical temperature $T _ { c } / \\mu \\simeq 1 . 7 8 7 1$ .Bottom panel:Temperature dependence of resistivity for various single crystals of $\\mathrm { L a } _ { 1 - x } \\mathrm { S r } _ { x } \\mathrm { M n O } _ { 3 }$ .Arrows indicate the Curie temperature. For more details, see Ref. [35]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A. On-shell free energy ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The model admits various solutions,in order to determine which phase is thermodynamically favored,we should calculate the free energy of the system for both normal phase and condensed phase. In gauge/gravity duality the grand potential $\\Omega$ of the boundary thermal state is identified with temperature $T$ times the on-shell bulk action with Euclidean signature.Since we are consideringa stationary problem,the Euclidean action is related to the Minkowski one by a minus sign as ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "show the experimental data from a typical CMR materialLaj $\\_ x$ SrxMnO3 as an example. We see that our model gives a very similar behavior as the latter with $x \\ge 0 . 1 7 5$ .Of course,we should mention here that there still exist some differences between our model result and experimental data on CMR.In general,when $T > T _ { c }$ ， the material shows a semiconductor or insulator behavior and the DC resistivity increases with cooling the sample. In our model, however, the DC resistivity is a constant when $T > T _ { c }$ . So this model only gives partial property of CMR when $T < T _ { c }$ .But this is an exciting and enlightening result,because it implies that this model can lead to a possibility to build a holographic CMR model and to investigate this typical and important strong correlated electrons system in the AdS/CFT setup.We are going to investigate this issue in the future. ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- S _ { E } = \\int d ^ { 4 } x \\sqrt { - g } ( \\mathcal { R } + \\frac { 6 } { L ^ { 2 } } + \\mathcal { L } _ { m } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\mathcal { L } } _ { m } = - F ^ { \\mu \\nu } F _ { \\mu \\nu } + \\lambda ^ { 2 } L _ { 2 }$ and $g$ is the determinant of the metric.We first show that,when evaluated on a solution,this action reduces to a simple surface term at the AdS boundary.From the symmetries of the solution (5) and (6), the yy component of the stress energy tensor only has a contribution from the terms proportional to the metric.Thus,the gravitational filed equations imply that ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { R } + \\frac { 6 } { L ^ { 2 } } = 2 \\mathcal { R } ^ { y } { } _ { y } + 2 T ^ { y } { } _ { y } .\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Euclidean action is then ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\frac { - S _ { E } } { V _ { 2 } } = \\int d r [ ( 2 r ^ { 3 } f e ^ { a / 2 } - \\lambda ^ { 2 } f \\rho \\rho ^ { \\prime } e ^ { a / 2 } ) ^ { \\prime } } } \\\\ { { - \\displaystyle \\frac { B ( 4 B - \\lambda ^ { 2 } \\rho ) e ^ { a / 2 } } { r ^ { 2 } } ] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The surface term on the horizon vanishes since $f ( r _ { h } ) = 0$ Thus we can get the Euclidean action that contains the surface term at $r _ { \\infty }$ as, ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\frac { - S _ { E } } { V _ { 2 } } } = 2 r ^ { 3 } f e ^ { a / 2 } - \\lambda ^ { 2 } f \\rho \\rho ^ { \\prime } e ^ { a / 2 } \\vert _ { r = r _ { \\infty } } } } \\\\ { { \\displaystyle ~ - \\int d r \\frac { B ( 4 B - \\lambda ^ { 2 } \\rho ) e ^ { a / 2 } } { r ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As the first item of Eq. (92) diverges when $r  \\infty$ and must be regulated. This counter terms we need to regulate the action are the standard ones (see for example [25]): ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { c . t . } = \\frac { 1 } { 2 \\kappa ^ { 2 } } \\int d x ^ { 3 } \\sqrt { - g _ { \\infty } } ( - 2 K + 4 / L ) \\mid _ { r = r _ { \\infty } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { \\infty }$ is the induced metric on the boundary $r = r _ { \\infty }$ （20 and $K = g _ { \\infty } ^ { \\mu \\nu } \\nabla _ { \\mu } n _ { \\nu }$ is the trace of the extrinsic curvature ( $n ^ { \\mu }$ is the outward pointing unit normal vector to thebounre $S _ { \\mathrm { E u c l i d e a n } } ^ { \\mathrm { o n - s h e l l } } = S _ { E } + S _ { c . t }$ $r  \\infty$   \ntion becomes，after considering the asymptotical forms in (13), ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\Omega = T S _ { \\mathrm { E u c l i d e a n } } ^ { \\mathrm { o n - s h e l l } } / V _ { \\mathrm { 2 } } } \\\\ { \\displaystyle = - \\int _ { r _ { h } } ^ { \\infty } d r \\frac { B ( 4 B - \\lambda ^ { 2 } \\rho ) e ^ { a / 2 } } { r ^ { 2 } } + 2 f _ { 0 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "B. Tensor hairy solutions and phase transition ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We are interesting in the black brane solutions with nontrivial space-space component $\\rho$ of the tensor field. For this,we have to adopt the numerical method to find such solutions. Without loss of generality, the location of $r _ { h }$ can be fixed to be unity in our numerical calculation.We are then left with two independent parameters $\\{ \\rho ( \\boldsymbol { r } _ { h } ) , p ( \\boldsymbol { r } _ { h } ) \\}$ . By choosing $p ( r _ { h } )$ as the shooting parameter to match the source free condition at $r  \\infty$ ，i.e., $\\rho _ { + } = 0$ ,we finally have a one-parameter family of solutions labeled by the value of $\\rho ( \\boldsymbol { r } _ { h } )$ . Other coefficients can be expressed in terms of those parameters.After solving the set of equations,we can calculate the spontaneous magnetization $N$ and free energy density. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "With a fixed $m ^ { 2 }$ ， we scan a wide range of $J$ and $\\lambda$ within the limitation Eq.(23) in 3-dimension plane in order to trace out the evolution of critical temperature $T _ { c }$ versus these parameters. Fig.7 plots the critical temperature $T _ { c }$ as a function of $J$ and $\\lambda$ in the cases with $m = 1 / 4$ ， $1 / 8$ . 1/16 and $1 / 1 6 0$ ,respectively. We can see from Fig.8 that the critical temperature is weakly dependent of the parameter $\\lambda$ .Moreover,the smaller the value of $m ^ { 2 }$ , the larger the phase transition temperature $T _ { c }$ when the same value of $J$ and $\\lambda$ are considered.For each value of $\\lambda$ , the analytical black brane solution (16) always exists. However, for suffciently low temperature, we always find additional solutions with non-vanishing $\\rho$ which are thermodynamically favored. That is to say, for each value of $\\lambda$ we take,there is a phase transition occurring at a certain temperature $T _ { c }$ where the black brane developing a new “tensor hair” with nontrival $\\rho$ becomes thermodynamically favored.In the dual field theory side,it means that magnetic moment acquires a vacuum expectation value breaking the time reversal symmetry spontaneously. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The top panel of Fig.9 presents the condensate as a function of temperature for $\\lambda = 1 / 8 , 1 / 2$ and $7 / 1 0$ ，from which one can see that $N$ rises continuously from zero at $T _ { c }$ .For small $\\lambda$ ,the curve is similar to the case with the probe limit (compare the case of $\\lambda = 1 / 8$ in Fig. 9 and the plot in the bottom panel of Fig.2),We can see from the figure that when $\\lambda$ gets larger,the condensate increases. However,near the critical temperature,the square root behavior still holds as ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b782eef9f3d67209ec7671229bf85aad2cf70c09cd9327f1a4300bd3e8b1455.jpg",
+        "img_caption": [
+            "FIG.7.The critical temperature $T _ { c }$ with respect to the model parameters $J$ and $\\lambda$ .Here (a),(b),(c) and (d) correspond to $m ^ { 2 } = 1 / 4 , 1 / 8 , 1 / 1 6$ ，and $1 / 1 6 0$ ，respectively.In (a)，some part of the surface is cut because that $J$ and $\\lambda$ should satisfy the relation (23). "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a70e5529958c45b8c310f7eebc6429f08d57267495793d9d3d148bb61279d33.jpg",
+        "img_caption": [
+            "FIG.8.The critical temperature $T _ { c }$ as a function of $\\lambda$ in the case with model parameter $m ^ { 2 } = - J = 1 / 8$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN \\propto \\sqrt { T - T _ { c } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The free energy difference of the condensed phase and the normal phase is expressed by $\\Delta \\Omega$ ，which is plotted in the bottom panel of Fig.9. It is obvious that below the critical temperature $T _ { c }$ , the state with non-vanishing magnetic “tensor hair” is indeed thermodynamically fa vored over the normal phase because $\\Delta \\Omega$ always be less than zero.Moreover,our numerical calculation indicates that the order of the phase transition is only second order,no matter how we increase the strength of the back reaction in parameters allowed region,i.e., $\\lambda ^ { 2 } / 4 m ^ { 2 } < 1$ The first order or even the zero order phase transition does not appear in this model. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bedc552cf755a5dbce64b59708beefdb3bc2789d702ae6a6b4d445df03c0640.jpg",
+        "img_caption": [
+            "FIG.9.The magnetic moment $N$ (top panel) and the grand potential deference $\\Delta \\Omega$ (bottom panel) as a function of temperature with different $\\lambda$ .Here $m ^ { 2 } = - J = 1 / 8$ for both figures. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "VII. SUMMARY AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this paper we have presented a holographic model to realize the paramagnetism/ferromagnetism phase transition in AdS black brane background by introducing a massive 2-form field in the bulk. This 2-form field couples to the background Maxwell field strength and carries self interaction. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The model admits a new analytical black brane solution with a non-trivial time-space component of the tensor field. The properties of the black brane solution depend on the value of $\\lambda ^ { 2 } / 4 m ^ { 2 }$ .When $\\lambda ^ { 2 } / 4 m ^ { 2 } \\ < \\ 1$ ， this new solution is very similar to the planar AdS RN black hole.But if $\\lambda ^ { 2 } / 4 m ^ { 2 } > 1$ ,the black brane solution is chemically unstable in grand canonical ensemble unless the temperature and chemical potential satisfy some additional conditions.In that case,there is not corresponding extreme black hole,i.e.,the horizon radius is zero when temperature goes to zero.A very special case is that when $\\lambda ^ { 2 } / 4 m ^ { 2 } = 1$ ， the space-time geometry is just the planar AdS Schwarzschild geometry but both the U(1)field and 2-form field nonvanish. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For our goal in this paper we focused on the case with $\\lambda ^ { 2 } / 4 m ^ { 2 } < 1$ so that an asymptotic AdS $_ 2$ geometry near the horizon emerges when the temperature tends to zero.By this emergent AdS $^ 2$ geometry,we obtained the condition in which the spontaneously symmetry breaking can happen.If the parameters satisfy the condition, time reversal symmetry will be broken spontaneously and the paramagnetism/ferromagnetism phase transition can happen when the temperature is lower than a critical value. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In order to understand the properties of this holographic ferromagnetic phase transition，we investigated the paramagnetism/ferromagnetism phase transition in two kinds of probe limit and in the case with full back reaction,respectively. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In the case of the first kind of probe limit where the model parameters $\\lambda  0$ ．This probe limit neglects the back reactions of the 2-form field to the Maxwell field and background geometry and makes it simple to study the behavior of spontaneous magnetization. In this probe limit，we computed the critical exponents by both numerical and analytical approaches,which are agreement with the mean field results.In addition,we obtained a Ginzburg-Landau-like free energy near the critical temperature for the holographic model and argued that it is agreement with results from the Ising-like Hamiltonian in film system of the condensed matter physics and related the model parameter $J$ to the parameters in the Ising-like model. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In the second kind of probe limit,we neglected all back reaction of matter fields to the background geometry but considered the interaction between the tensor field and the Maxwell field. In this probe limit,we are able to study the influence of spontaneous magnetization on the electric transport properties in a relatively simple way, where the background geometry is fixed. We found that the critical exponents are the same as ones in the first kind of probe limit. We also computed the DC resistivity in this probe limit.It was found that the DC resistivity is suppressed by spontaneous magnetization and shows a metallic behavior. This is very similar to the strong correlated phenomenon named CMR effect found in the some manganites. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Next we considered the case with full back reaction and solved the full equations of motion numerically. It was found that the free energy difference between the condense phase and normal phase, $\\Delta \\Omega$ ,is zero at critical temperature and always negative when $T < T _ { c }$ . The phase transition is always a second order one as one increases the strength of the back reaction. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Main calculations are made in $3 + 1$ dimensions in this paper,but it can be easily extended into the higher dimension case.In the latter case, the space rotation symmetry will be broken spontaneously when the phase transition happens.In addition，we can also generalize this model to the case with the Lifshitz symmetry in the bulk and study the influences of the Lifshitz dynamical exponent $z$ on the condensate both in the probe limit and in the case with the back reaction.In addition,in all the calculations in this paper,we assumed that the solution in the bulk or the phase at the boundary is homogeneous, which is a strong assumption.In fact，inhomogeneous solution may exist even in a model whose Lagrangian has translation symmetry and the boundary conditions are homogeneous (see Ref.[17], for example).In many materials,the inhomogeneous phase can appear spontaneously in a chemical homogeneous materials. Therefore it is of great interest to study whether the inhomogeneity could appear spontaneously in this model. Although we focused on the ferromagnetic phase transition only in this paper,which has been understood well in condensed matter physics,it offers a framework rather than only a specific model,which can be regarded as basic starting point to understand more complicated phenomenon involving spontaneous magnetization. As a result，there are various prospects to study and we expect more exciting results could be reported in the future. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the National Natural Science Foundation of China （ No.11375247 and No.114350o6)，National Natural Science Foundation of China (Grant Nos.11175077） and the Doctoral Programof Higher Education,Ministry of Education,China (Grant No.20122136110002) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Appendix A:Ginzburg-Landau theory for Ising universalityclass ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In this appendix,we will compute the grand thermodynamic potential of the Ising-like Hamiltonian (38). We can rewrite it into the form of $\\lambda \\phi ^ { 4 }$ theory, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\int d ^ { 2 } x \\left[ - { \\frac { 1 } { 2 } } ( \\tilde { s } \\overrightarrow { \\nabla } ^ { 2 } \\widetilde { s } + m _ { s } ^ { 2 } \\widetilde { s } ^ { 2 } ) + { \\frac { \\lambda _ { s } \\widetilde { s } ^ { 4 } } { 4 ! } } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Turn into the Lagrangian form $^ 7$ and go to the case with Euclidian signature,we have the action, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { E } = \\frac { 1 } { 2 } \\int _ { 0 } ^ { \\beta } d \\tau \\int d ^ { 2 } x [ ( \\partial _ { \\tau } \\widetilde s ) ^ { 2 } + ( \\overrightarrow \\nabla \\widetilde s ) ^ { 2 } - m _ { s } ^ { 2 } \\widetilde s ^ { 2 } + \\frac { \\lambda _ { s } \\widetilde s ^ { 4 } } { 1 2 } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "with $\\beta = 1 / T$ , the inverse temperature of the system.We see that the mass dimension of coupling constant $[ \\lambda _ { s } ] =$ 1,so effective action (A2）is renormalizable.In order to compute the quantum effective potential,we take the mean field expansion method. We split as usual the field into classical background part and quantum fluctuation part, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { s } = \\widetilde { s } _ { c l } + \\eta .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The quadratic part of $\\eta$ in the action is then controlled by a kinetic operator of the form, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\delta ^ { 2 } S _ { E } } { \\delta ^ { 2 } \\widetilde { s } } [ \\widetilde { s } _ { c l } ] = - \\partial _ { \\tau } ^ { 2 } - \\nabla ^ { 2 } + M ^ { 2 } ( \\widetilde { s } _ { c l } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ^ { 2 } ( \\widetilde { s } _ { c l } ) = - m _ { s } ^ { 2 } + \\frac { \\lambda _ { s } \\widetilde { s } _ { c l } ^ { 2 } } { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In addition，the Euclidian action contains the linear term of $\\eta$ ，but this term contributes nothing and can be dropped. And,if we neglect the cubic and quartic order terms of $\\eta$ ,we can obtain the result in mean field approximation by only taking the tree level of $\\eta$ into account.This is a good approximation if $\\lambda _ { s }$ and $\\lambda _ { s } \\widetilde { s } _ { c l }$ are small8. Then it is easy to find the grand thermodynamic potential density in the mean field approximation as, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega = - \\frac { 1 } { 2 } m _ { s } ^ { 2 } \\widetilde { s } _ { c l } ^ { 2 } + \\frac { 1 } { 4 ! } \\lambda _ { s } \\widetilde { s } _ { c l } ^ { 4 } + \\int \\frac { d ^ { 2 } k } { 4 \\pi ^ { 2 } } [ \\frac { \\omega } { 2 } + T \\ln ( 1 - e ^ { - \\beta \\omega } ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Here $\\omega = \\sqrt { k ^ { 2 } + M ^ { 2 } ( \\widetilde { s } _ { c l } ) }$ . The first term in the integral of(A6) contributes the zero-point energy and can be neglected. Then the second term in the integral of (A6) then can be written as, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { T ^ { 3 } } { 2 \\pi } \\int _ { 0 } ^ { \\infty } d x x \\ln ( 1 - e ^ { - \\sqrt { x ^ { 2 } + x _ { 0 } ^ { 2 } } } ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $x _ { 0 } ^ { 2 } = \\beta ^ { 2 } M ^ { 2 } ( \\widetilde { s } _ { c l } )$ . The result of (A7) does not admit a compact expression.We can get a series expression by high temperature expansion,where $x _ { 0 }$ is treated as a small quantity, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { \\infty } d x x \\ln ( 1 - e ^ { - \\sqrt { x ^ { 2 } + x _ { 0 } ^ { 2 } } } ) = \\sum _ { n = 0 } ^ { \\infty } c _ { n } x _ { 0 } ^ { 2 n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 0 } = - \\zeta ( 3 ) , \\ c _ { 1 } = \\gamma _ { E } / 2 , \\cdot \\cdot \\cdot .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Here $\\gamma _ { E } = 0 . 5 7 7 2 \\cdots$ is the Euler constant and $\\zeta ( 3 ) =$ $1 . 2 0 2 \\cdots$ is the value of Riemann- $\\zeta$ function.In this limit we have, ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega \\approx - \\frac { T } { 2 \\pi } [ \\zeta ( 3 ) T ^ { 2 } + \\frac { \\gamma _ { E } m _ { s } ^ { 2 } } { 2 } ] + \\frac { 1 } { 2 } ( \\frac { \\lambda _ { s } \\gamma _ { E } T } { 4 \\pi } - m _ { s } ^ { 2 } ) \\tilde { s } _ { s l } ^ { 2 } + \\frac { \\lambda _ { s } \\widetilde { s } _ { s l } ^ { 4 } } { 4 ! } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "from which we can obtain the expression in (39) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "AppendixB:Semi-analytic calculations near the criticaltemperature ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1．Spontaneous magnetization ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In this appendix, we will compute the values of $N _ { 1 }$ ， $a _ { 0 }$ and $a _ { 1 }$ appearing in section IV. With these we can get ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/291ef757e116e5a4330a26c5eece81b8b876195bf71f9bf5522ed637a88e4cf8.jpg",
+        "img_caption": [
+            "FIG.10. The value of $\\lambda _ { 1 }$ with respective to temperature in the case of $m ^ { 2 } = - J = 1 / 8$ and $\\omega = z ^ { 4 } ( \\mathrm { l e f t } )$ and $\\omega = z ^ { 3 } ( \\mathrm { r i g h t } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "the coefficients in (69) and compare with the numerical results in the previous sections. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Let us first compute $N _ { 1 }$ and $a _ { 1 }$ .For this we have to first find the eigenfunction $\\rho _ { 1 }$ ,which is the solution of, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { d } { d z } \\left[ f ( z ) \\frac { d \\rho _ { n } } { d z } \\right] + q ( x ) \\rho _ { n } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "at $T = T _ { c }$ with the conditions, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { 1 } ( 1 ) = 1 , \\quad \\rho _ { 1 + } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "For convenience,here we do not assume that $\\{ \\rho _ { n } \\}$ form an unit base. Thus we have, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { 1 } = \\frac { 1 } { C _ { 1 } } \\int _ { 0 } ^ { 1 } \\rho _ { 1 } d z , a _ { 1 } = \\frac { 1 } { 4 C _ { 1 } ^ { 4 } } \\int _ { 0 } ^ { 1 } z ^ { 8 } \\rho _ { 1 } ^ { 4 } d z ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "here $C _ { 1 }$ is the normalization coefficient and ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } ^ { 2 } = \\langle \\rho _ { 1 } , \\rho _ { 1 } \\rangle = \\int _ { 0 } ^ { 1 } \\omega \\rho _ { 1 } ^ { 2 } d z .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In order to compute $a _ { 0 }$ ,we need to solve equation (B1) in the limit $T  T _ { c } ^ { - }$ .To clarify that the results are independent of the specific form of weight function,we choose $k = 3 , 4$ as two examples. Then we fit the relation （204号 $\\lambda _ { 1 } ~ = ~ a _ { 0 } ( T / T _ { c } - 1 )$ to find $a _ { 0 }$ .Figure 10 shows that （204号 $\\lambda _ { 1 }$ and $T / T _ { c } - 1$ indeed satisfies a linear relation very well. Numerical results show that $N _ { 1 } \\simeq 2 . 0 4 1 2$ ， $a _ { 1 } \\simeq$ （20 （204号 $0 . 7 2 7 6 , a _ { 0 } \\simeq 1 . 1 3 0 9$ for $k = 4$ and $N _ { 1 } \\simeq 1 . 8 3 7 0$ ， $a _ { 1 } \\simeq$ 0.4772, $a _ { 0 } \\simeq 0 . 9 1 5 5$ for $k = 3$ . We have, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ^ { 2 } / \\mu _ { c } ^ { 2 } = \\frac { N _ { 1 } ^ { 2 } a _ { 0 } } { - 1 6 \\widetilde { J } _ { f } a _ { 1 } \\mu _ { c } ^ { 2 } } ( 1 - T / T _ { c } ) \\simeq a _ { 2 } ( 1 - T / T _ { c } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "with $a _ { 2 } \\simeq 4 . 9 6 6$ for $k = 4$ and $a _ { 2 } \\simeq 4 . 9 6 4$ for $k = 3$ .We see that different weight functions give different values for $N _ { 1 }$ ， $a _ { 1 }$ and $a _ { 0 }$ ，but the same value of magnetic moment $N$ (up to a numerical error). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The value of $a _ { 0 }$ can also be obtained directly by solving ODE(52). In the region near the critical temperature,we assum $\\lambda _ { 1 } = a _ { 0 } ( T / T _ { c } - 1 )$ . Note that all quantities in (52) are the functions of temperature,so take derivative with respect to $T$ and evaluate at $T = T _ { c }$ ，we get, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d \\widehat { P } } { d T } \\rho _ { 1 } + \\widehat { P } \\frac { d \\rho _ { 1 } } { d T } = \\frac { a _ { 0 } } { T _ { c } } \\rho _ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Here $\\rho _ { 1 }$ is the eigenfunction of (B1). Now treat $\\begin{array} { r } { \\rho _ { T } = \\frac { d \\rho _ { 1 } } { d T } } \\end{array}$ as an unknown function to be solved,then the task to find $a _ { 0 }$ becomes to solve a non-homogenous eigenvalue problem, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widehat { P } } \\rho _ { T } = \\left[ { \\frac { a _ { 0 } } { T _ { c } } } - { \\frac { d { \\widehat { P } } } { d T } } \\right] \\rho _ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "At the AdS boundary, $\\rho _ { T }$ has the same asymptotic be havior as (53), thus we can impose the boundary conditions as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\rho _ { T } ( 1 ) | < \\infty , \\ \\rho _ { T + } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We find that $\\rho _ { T } \\in D$ .We then use the basis $\\{ \\rho _ { n } \\}$ to expand $\\rho _ { T }$ ,i.e., ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { T } = \\sum _ { n = 1 } ^ { \\infty } { \\frac { d _ { n } } { C _ { n } } } \\rho _ { n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Here $C _ { n }$ are the modules of $\\rho _ { n }$ . Using the fact $\\lambda _ { 1 } = 0$ at （204号 $T = T _ { c }$ and ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\langle \\boldsymbol { C } _ { 1 } ^ { - 1 } \\rho _ { 1 } , \\boldsymbol { \\widehat { P } } \\rho _ { T } \\rangle = \\displaystyle \\sum _ { n = 1 } ^ { \\infty } d _ { n } \\langle \\boldsymbol { C } _ { 1 } ^ { - 1 } \\rho _ { 1 } , \\boldsymbol { C } _ { n } ^ { - 1 } \\boldsymbol { \\widehat { P } } \\rho _ { n } \\rangle } & { } & \\\\ { \\displaystyle = \\sum _ { n = 1 } ^ { \\infty } d _ { n } \\lambda _ { n } \\delta _ { 1 n } = d _ { 1 } \\lambda _ { 1 } = 0 . } & { } & \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "we have, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\langle \\rho _ { 1 } , \\left[ \\displaystyle \\frac { a _ { 0 } } { T _ { c } } - \\displaystyle \\frac { d \\widehat { P } } { d T } \\right] \\rho _ { 1 } \\rangle = \\displaystyle \\frac { a _ { 0 } C _ { 1 } ^ { 2 } } { T _ { c } } - \\int _ { 0 } ^ { 1 } \\omega \\rho _ { 1 } \\displaystyle \\frac { d \\widehat { P } } { d T } \\rho _ { 1 } d z \\ ~ } \\\\ & { } & { = \\displaystyle \\frac { a _ { 0 } C _ { 1 } ^ { 2 } } { T _ { c } } - \\int _ { 0 } ^ { 1 } \\rho _ { 1 } \\displaystyle \\frac { d \\widehat { L } } { d T } \\rho _ { 1 } d z = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Furthermore we get, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { 0 } = \\frac { T _ { c } } { C _ { 1 } ^ { 2 } } \\int _ { 0 } ^ { 1 } d z \\rho _ { 1 } \\frac { d \\widehat { L } } { d T } \\rho _ { 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "It is very useful to find its equivalent form in the case with fixed $r _ { h } = 1$ ,since it is convenient when we perform numerical computation. If we fix $r _ { h } = 1$ ，the shooting parameter is chemical potential $\\mu$ .The relation between temperature in grand canonical ensemble and chemical potential is given by, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\frac { 3 - \\mu ^ { 2 } } { 4 \\pi \\mu } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Thus the expression (B12) can be rewritten as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { a _ { 0 } = \\displaystyle \\frac { T _ { c } } { \\mu _ { c } ^ { 2 } C _ { 1 } ^ { 2 } } \\frac { d \\mu ^ { 2 } } { d T } \\int _ { 0 } ^ { 1 } d z \\rho _ { 1 } \\frac { d \\widehat { L } } { d \\mu ^ { 2 } } \\rho _ { 1 } } } \\\\ { { = \\displaystyle - \\frac { 8 \\mu _ { c } ^ { 3 } \\pi T _ { c } } { 3 C _ { 1 } ^ { 2 } } \\int _ { 0 } ^ { 1 } d z \\rho _ { 1 } \\left. \\frac { d \\widehat { L } } { d \\mu ^ { 2 } } \\rho _ { 1 } \\right. _ { \\mu = \\mu _ { c } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Here $\\mu _ { c }$ is the critical chemical potential when we fix （204号 $r _ { h } ~ = ~ 1$ and $\\begin{array} { r } { T _ { c } ~ = ~ \\frac { 3 - \\mu _ { c } ^ { 2 } } { 4 \\pi \\mu _ { c } } } \\end{array}$ 3-μ²& is the critical temperature in grand canonical ensemble. Combining (B3） and (B14), we have, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ^ { 2 } / \\mu _ { c } ^ { 2 } \\lambda ^ { 4 } = \\frac { \\pi \\mu _ { c } T _ { c } ( \\int _ { 0 } ^ { 1 } \\rho _ { 1 } d z ) ^ { 2 } \\int _ { 0 } ^ { 1 } d z \\rho _ { 1 } \\frac { d \\widehat { L } } { d ( \\mu ^ { 2 } ) } \\rho _ { 1 } } { 2 4 \\widetilde { J } _ { f } \\int _ { 0 } ^ { 1 } d z z ^ { 4 } \\rho _ { 1 } ^ { 4 } } ( 1 - T / T _ { c } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We can see that it is determined by the equation (B1), but independent of the weight function! The expression (B14) depends on the weight function，because it depends on $C _ { 1 }$ .In order to check the formula (B14),let us compute the values of $a _ { 0 }$ in the cases of $k = 4$ and （204号 $k = 3$ . The results gives 1.1286 and 0.9140,respectively. We see that,up to numerical errors, they are the same as what we have obtained by fitting the curve in figure 10. In addition， the expression(B15） gives $a _ { 2 } ~ = ~ 4 . 9 5 6 0$ ， which is very close to what we obtained in the numerical calculation. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2． Susceptibility and hysteresis loop ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "When $B \\neq 0$ ,the susceptibility for $T > T _ { c }$ is defined as, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi = \\operatorname * { l i m } _ { B  0 } ( { \\frac { \\partial N } { \\partial B } } ) _ { T } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the case with $T \\ > \\ T _ { c }$ and $B  0$ ，we can neglect the non-linear term,i.e., setting $\\tilde { J } _ { f } = 0$ . The solution of equation (43) can be expressed as, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = \\sum _ { n = 1 } ^ { \\infty } c _ { n } \\rho _ { n } - \\frac { B } { m ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Taking into account the equation （43） with $\\tilde { J } _ { f } = 0$ ，we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { 0 = \\displaystyle { \\widehat { L } } \\rho + B = \\sum _ { l = 1 } ^ { \\infty } c _ { l } \\widehat { L } \\rho _ { l } - { \\frac { 4 B J \\mu ^ { 2 } z ^ { 4 } } { m ^ { 6 } } } } } \\\\ { { = \\displaystyle { \\sum _ { l = 1 } ^ { \\infty } c _ { l } C _ { l } ^ { - 1 } \\lambda _ { l } \\omega \\rho _ { l } - { \\frac { 4 B J \\mu ^ { 2 } z ^ { 4 } } { m ^ { 6 } } } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Multiplying a factor $\\rho _ { n } / C _ { n }$ and integrating the above equation from $0$ to $^ { 1 }$ ，we can obtain ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { n } = \\frac { B \\gamma _ { n } } { \\lambda _ { n } } , ~ \\mathrm { w i t h } ~ \\gamma _ { n } = \\int _ { 0 } ^ { 1 } \\frac { 4 J \\mu ^ { 2 } z ^ { 4 } } { C _ { n } m ^ { 6 } } \\rho _ { n } d z .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Thus we can get the magnetic moment density as ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN / \\lambda ^ { 2 } = \\frac { B } { 2 m ^ { 2 } } - B \\sum _ { n = 1 } ^ { \\infty } \\frac { \\gamma _ { n } N _ { n } } { 2 \\lambda _ { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and the magnetic susceptibility ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi / \\lambda ^ { 2 } = \\frac { 1 } { 2 m ^ { 2 } } - \\sum _ { n = 1 } ^ { \\infty } \\frac { \\gamma _ { n } N _ { n } } { 2 \\lambda _ { n } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "When $T  T _ { c } ^ { + }$ , we have $\\lambda _ { 1 } = a _ { 0 } ( T / T _ { c } { - } 1 ) \\to 0 ^ { + }$ . Thus $\\chi$ is dominated by the first term in the summation of (B21) and its inverse can be expressed as ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda ^ { 2 } \\chi ^ { - 1 } / \\mu _ { c } = - \\frac { 2 a _ { 0 } } { \\mu _ { c } \\gamma _ { 1 } N _ { 1 } } ( T / T _ { c } - 1 ) , ~ \\mathrm { a s } ~ T  T _ { c } ^ { + } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the case of $m ^ { 2 } = - J = 1 / 8$ ，we have $\\lambda ^ { 2 } \\chi ^ { - 1 } / \\mu _ { c } \\simeq$ $4 . 0 5 2 0 ( T / T _ { c } - 1 )$ ，which is very close to our numerical result $\\lambda ^ { 2 } \\chi ^ { - 1 } / \\mu _ { c } \\simeq 4 . 0 4 9 9 ( T / T _ { c } - 1 )$ given in the numerical calculation. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Next let us move to the case with $B \\neq 0$ .In this case from (43) we have, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { 1 } \\rho _ { n } \\big ( \\omega \\widehat { P } \\rho + B - \\widetilde { J } _ { f } \\rho ^ { 3 } z ^ { 8 } \\big ) d z = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Consider (6O),we can rewrite it to ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { 1 } \\rho _ { n } ( \\omega \\widehat { P } \\widetilde { \\rho } + B [ 1 - \\frac { q ( z ) } { m ^ { 2 } } ] - \\widetilde { J } _ { f } \\rho ^ { 3 } z ^ { 8 } ) d z = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Using the expansion expression (6O),we have, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { n } C _ { n } ^ { 2 } \\lambda _ { n } + B \\gamma _ { n } - \\int _ { 0 } ^ { 1 } \\rho _ { n } \\widetilde J _ { f } \\rho ^ { 3 } z ^ { 8 } d z = 0 , n = 1 , 2 , \\cdots .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "For convenience,we assume that $\\{ \\rho _ { n } \\}$ is an unit base, i.e., $C _ { n }$ =1.The equations(B25) are equivalent to (43) if we take all the terms in (6O) into account.In the case of （204号 $T  T _ { c } ^ { - }$ ，assume that the first term in (6O) dominates only, i.e., $| c _ { 1 } | \\gg c _ { n }$ for $n \\geq 2$ in (61),we have ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN / \\lambda ^ { 2 } = \\frac { B } { 2 m ^ { 2 } } - c _ { 1 } N _ { 1 } / 2 .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Taking $n = 1$ in (B25),we have, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 1 } \\lambda _ { 1 } + B \\gamma _ { 1 } - c _ { 1 } ^ { 3 } { \\widetilde { J } } _ { f } \\int _ { 0 } ^ { 1 } \\rho _ { 1 } ^ { 4 } z ^ { 8 } d z = c _ { 1 } \\lambda _ { 1 } + B \\gamma _ { 1 } - 4 c _ { 1 } ^ { 3 } { \\widetilde { J } } _ { f } a _ { 1 } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "For a given temperature $T  T _ { c }$ ,we can combine (B26) and (B27) to obtain a relation between external magnetic field $B$ and magnetic moment density $N$ . Figure $1 1$ shows the results with $T = 1 . 0 5 T _ { c } , T = 0 . 9 T _ { c }$ and $T \\ = \\ T _ { c }$ respectively, in the case of $m ^ { 2 } = - J = 1 / 8$ .We see that it is very similar to what we have obtained in the previous work [23]. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Finally, let us notice that in GL theory, the equation for magnetic moment density is, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { 1 } ( T - T _ { c } ) N + A _ { 2 } N ^ { 3 } - B = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "with two positive coefficients $A _ { 1 }$ and $A _ { 2 }$ ．However，it is easy to see that the equation for $N$ in our model is different from the usual form (B28) from the GL theory, which can be obtained by combining (B26) and (B27) to eliminate $c _ { 1 }$ .Namely,alhought our model gives the similar results near the critical temperature in GL theory, there exist some differences between the holographic model and the GL theory even in the region near the critical temperature. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/f871413883baef2930cdfc1414790867f6499c396804ebb5d573c13c0eec5aa9.jpg",
+        "img_caption": [
+            "FIG.11.The relation between magnetic moment density $N$ and external magnetic field $B$ in the cases of $T ^ { \\prime } = 1 . 0 5 T _ { c } ^ { \\prime } , T ^ { \\prime } =$ （204号 $0 . 9 T _ { c } ^ { \\prime }$ and $T = T _ { c }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[1]J.M Maldacena,“The Large N limit of superconformal field theories and supergravity,” Int. J. Theor.Phys. 38,1113 (1999)[Adv. Theor.Math.Phys. 2,231 (1998)] [hep-th/9711200].   \n[2] S. S. Gubser, I. R. Klebanov and A. M. Polyakov, “Gauge theory correlators from noncritical string theory,”Phys. Lett.B 428,105 (1998) [hep-th/9802109].   \n[3] E.Witten,“Anti-de Sitter space and holography,”Adv. Theor.Math.Phys.2,253(1998)[hep-th/9802150].   \n[4] E.Witten,“Anti-de Sitter space,thermal phase transition,and confinement in gauge theories,”Adv. Theor. Math.Phys.2,505(1998)[hep-th/9803131].   \n[5] S.A.Hartnoll, C.P.Herzog and G.T.Horowitz,“Building a Holographic Superconductor,” Phys.Rev.Lett. 101,031601(2008）[arXiv:0803.3295 [hep-th]].   \n[6] S.A.Hartnoll，C.P.Herzog and G.T.Horowitz, “Holographic Superconductors,” JHEP 0812, O15 (2008) [arXiv:0810.1563 [hep-th]].   \n[7] S.A.Hartnoll，“Lectures on holographic methods for condensed matter physics,” Class.Quant.Grav.26, 224002（2009）[arXiv:0903.3246 [hep-th]].   \n[8] C.P. Herzog，“Lectures on Holographic Superfluidity and Superconductivity,”J.Phys.A 42，343001 (2009) [arXiv:0904.1975 [hep-th]].   \n[9] J.McGreevy,“Holographic duality with a view toward many-body physics,” Adv.High Energy Phys.2010, 723105 (2010) [arXiv:0909.0518 [hep-th]].   \n10] G.T. Horowitz，“Introduction to Holographic Superconductors,” Lect. Notes Phys. 828，313 (2011) [arXiv:1002.1722 [hep-th]].   \n11] R.G. Cai,L. Li, L.F. Li and R. Q. Yang,“Introduction to Holographic Superconductor Models,” Sci. China Phys.Mech．Astron.58，no.6,060401 (2015) [arXiv:1502.00437 [hep-th].   \n12] S.S.Lee,“A Non-Fermi Liquid from a Charged Black Hole:A Critical Fermi Ball,”Phys.Rev.D 79,086006 (2009）[arXiv:0809.3402 [hep-th].   \n13] H.Liu, J. McGreevy and D.Vegh,“Non-Fermi liquids from holography,”Phys.Rev.D 83,065029 (2011) [arXiv:0903.2477 [hep-th]]   \n14] M. Cubrovic, J. Zaanen and K. Schalm,“String Theory, Liquid,” Science 325,439 (2009) [arXiv:0904.1993 [hepth]].   \n[15]A.Aperis,P. Kotetes,E. Papantonopoulos,G.Siopsis,P.Skamagoulis and G.Varelogiannis,“Holographic Charge Density Waves,”Phys.Lett.B 702,181 (2011) [arXiv:1009.6179 [hep-th].   \n[16] A.Donos and J. P. Gauntlett，“Holographic charge density waves,” Phys.Rev.D 87，126008 (2013) [arXiv:1303.4398 [hep-th]].   \n[17] Y.Ling, C. Niu, J. Wu, Z. Xian and H. b. Zhang, “Metal-insulator Transition by Holographic Charge Density Waves,” Phys.Rev.Lett．113,091602 (2014) [arXiv:1404.0777 [hep-th].   \n[18]K.Murata,S.Kinoshita and N.Tanahashi,“Nonequilibrium Condensation Process in a Holographic Superconductor,”JHEP 1007,050 (2010) [arXiv:1005.0633 [hep-th]].   \n[19] M.J.Bhaseen,J.P.Gauntlett,B.D. Simons,J. Sonner and T.Wiseman,“Holographic Superfluids and the Dynamics of Symmetry Breaking,”Phys.Rev.Lett.110, 015301 (2013）[arXiv:1207.4194 [hep-th].   \n[20]A.Adams,P.M. Chesler and H.Liu,“Holographic Vortex Liquids and Superfluid Turbulence,” Science 341, 368 (2013)[arXiv:1212.0281 [hep-th].   \n[21]A.M. Garca-Garca,H.B. Zeng and H.Q. Zhang,“A thermal quench induces spatial inhomogeneities in a holographic superconductor,” JHEP 1407，096 (2014) [arXiv:1308.5398 [hep-th]].   \n[22]P.M.Chesler and L.G. Yaffe,“Numerical solution of gravitational dynamics in asymptotically anti-de Sitter spacetimes,”JHEP 1407，086(2014) [arXiv:1309.1439 [hep-th]].   \n[23] R.G.\" Cai and R. Q. Yang， “ParamagnetismFerromagnetism Phase Transition in a Dyonic Black Hole,” Phys.Rev.D 90， no.8，081901(2014) [arXiv:1404.2856 [hep-th].   \n[24] R.G.Cai and R.Q. Yang，“Holographic model for the paramagnetism/antiferromagnetism phasetransition,\" Phys.Rev.D 91,no.8,086001(2015) [arXiv:1404.7737 [hep-th].   \n[25] R.G.Cai and R.Q.Yang，“Coexistence and competition of ferromagnetism and $p$ -wave superconductivity in holographic model,”Phys.Rev.D 91,no.2,026001 (2015) [arXiv:1410.5080 [hep-th]].   \n[26] R.G.Cai，L.Li and L.F.Li,“A Holographic Pwave Superconductor Model,” JHEP 1401,032 (2014) [arXiv:1309.4877 [hep-th]].   \n[27]A.Amoretti,A.Braggio,N.Maggiore,N.Magnoli and D.Musso,“Coexistence of two vector order parameters: a holographic model for ferromagnetic superconductivity,”JHEP 1401,054(2014) [arXiv:1309.5093 [hep-th]].   \n[28]F.Hardy,A.Huxley，J.Flouquet，B.Salce,G.Knebel, D.Braithwaite,D.Aoki,M.Uhlarz,and C.Pfleiderer, \"(P,T)phase diagram of the ferromagnetic superconductor URhGe,”Physica B: Condensed Matter 35-361,1111 (2005).   \n[29] N. Tateiwa，Y.Haga，T.D.Matsuda，E. Yamamoto, and Z.Fisk,“Unconventional critical scaling of magnetization in ferromagnetic uranium superconductors UGe2 andURhGe,”Phys.Rev.B89,064420(2014).   \n[30] R.G.Cai and R.Q.Yang，“Antisymmetric tensor field and spontaneous magnetization in holographic duality,\" arXiv:1504.00855 [hep-th].   \n[31] R.G. Cai and Y.Z. Zhang,“Black plane solutions in four-dimensional space-times,”Phys.Rev.D 54,4891 (1996)[gr-qc/9609065].   \n[32] L.Yin,D.Hou and H.c.Ren,“Ginzburg-Landau theory of a holographic superconductor,”Phys. Rev.D 91,no. 2,026003(2015)[arXiv:1311.3847 [hep-th]]   \n[33]G. Siopsis and J.Therrien，“Analytic Calculation of Properties of Holographic Superconductors,”JHEP 1005,013(2010)[arXiv:1003.4275 [hep-th]].   \n[34]N.Iqbal and H.Liu,“Universality of the hydrodynamic limit in AdS/CFT and the membrane paradigm,”Phys. Rev.D 79,025023(2009) [arXiv:0809.3808 [hep-th]].   \n[35]A.Urushibara,Y.Moritomo,T.Arima,A.Asamitsu,G Kido,Y.Tokura,“Insulator-metal transition and giant magnetoresistance in $\\mathrm { L a _ { 1 - } } _ { x } \\mathrm { S r } _ { x } \\mathrm { M n O _ { 3 } } ^ { \\prime }$ ’,Phys. Rev.B 51, 14,103 (1995).   \n[36]E.Dagottoa,T.Hotta,A.Moreo,“Colossal magnetoresistant materials: the key role of phase separation”, Phy. Rep.344,1-153 (2001)   \n[37] E.L. Nagaev， “Colossal-magnetoresistance materials: manganites and conventional ferromagnetic semiconductors\",Phys.Rep.346,387-531 (2001)   \n[38]M.Ammon，J.Erdmenger，V.Grass，P.Kerner and A．O'Bannon，“On Holographic p-wave Superfluids with Back-reaction,”Phys.Lett.B 686，192 (2010) [arXiv:0912.3515 [hep-th]].   \n[39]R.G.Cai,L.Li,L.F.Li and R.Q.Yang,“Towards Complete Phase Diagrams of a Holographic P-wave Superconductor Model,”JHEP1404,016 (2014) [arXiv:1401.3974 [gr-qc]].   \n[40]K.Skenderis,“Lecture notes on holographic renormalization,”Class.Quant．Grav.19，5849（2002）[hepth/0209067]. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    }
+]

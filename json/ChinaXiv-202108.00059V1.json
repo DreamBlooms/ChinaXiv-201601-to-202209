@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "创伤后应激障碍的组蛋白修饰机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张萦倩 赵光义 韩雨薇 张静怡 曹成琦 王力 张昆林(中国科学院心理研究所心理健康重点实验室，北京100101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院大学心理学系，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 创伤后应激障碍是一种具有复杂病因学的精神疾病，多发生于个体受到重大创伤事件后。创伤后应激障碍的发生发展过程受到环境和遗传易感性的共同作用，存在着较大的个体差异；而表观遗传学作为一门研究多变环境因素调控基因表达的可遗传变化的学科，近年来在创伤后应激障碍的研究中受到越来越多的重视。表观遗传机制之一——组蛋白修饰机制在创伤后应激障碍的发生中起着重要作用，并且由于组蛋白修饰可以受到多种酶的调控，其灵活的可逆化和精细调控为相应的药物研发提供了可能性和便利。因此，深入探讨创伤后应激障碍的组蛋白修饰机制，对于相关疾病的临床治疗及药物研发具有十分重要的意义。当前创伤后应激障碍的组蛋白修饰研究主要使用动物模型，临床研究较少；组蛋白的类型则主要关注组蛋白H3和H4乙酰化；此外，同以往的研究结果一致，组蛋白修饰水平的变化主要发生在前额叶、海马体和杏仁核区域，参与免疫系统、血清素系统和神经肽Y 能系统等相关通路的调节。当前PTSD 组蛋白修饰的研究结果间还存在较大的异质性，未来的研究应采用更加一致和实用的分析和报道方法，以最大限度地发挥研究的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词创伤后应激障碍，组蛋白修饰，PTSD啮齿动物模型，药物研发",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创伤后应激障碍（post-traumatic stress disorder，PTSD）发生在创伤事件暴露之后，是一种具有复杂病因的综合征。在美国精神病协会编制的《精神障碍诊断与统计手册(第五版)》(Diagnostic and Statistical Manual of Mental Disorders (5th ed.; DSM-5; American PsychiatricAssociation,2013).）中，PTSD 的症状表现包括闯入（如闯入性思维、噩梦等)、主动回避（回避创伤相关的思想和可以提示创伤的线索)、认知和情绪的负性改变（如持续的负性情绪状态、丧失兴趣等）和高唤起（如过度警觉、睡眠问题)(American Psychiatric Association,2013)。PTSD 会降低患者的生活质量，病患的自杀率高于普通人群，同时还会给患者家庭和社会造成极大的负担(Schnurr et al.,2009;Wang et al.,2012)。世界卫生组织在 24 个国家中开展的调查显示，一般民众的PTSD 终身患病率为 $3 . 9 \\%$ ；一生至少会经历一次创伤性事件的个体超过 $70 \\%$ (Benjet et al.,2016)，而 PTSD 患病人群占其 $5 . 6 \\%$ (Koenen et al.,2017)；PTSD 的发病率还存在性别差异，女性的患病率约为男性的两倍(Yehuda et al.,2015)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管大多数人都会经历创伤事件，但只有少部分个体会最终罹患PTSD，这表明PTSD的发生发展存在着较大的个体差异(Heinzelmann&Gill,2013)，同时受到遗传和环境因素的影响(Afifi et al.，2010)。例如，双生子和家系研究估计 PTSD 的遗传度（heritability）为0.3\\~0.4(Afifi et al.,2010)，全基因组关联分析研究（genome-wide association studies,GWAS)基于单核苷酸多态性（singlenucleotidepolymorphism，SNP）估计的遗传度为0.1\\~0.2(Nievergelt et al.,2018,Preprint)。另一方面，环境因子在PTSD 的发生发展过程中占据着不可忽视的地位。已有研究表明,创伤类型、发生创伤的频率和强度(Breslau et al.,1998)，以及经历创伤的年龄阶段(Nemeroff et al.,2006;Widom,1999)等环境变量在PTSD 的发病机理中起到了决定性作用。此外，基因-环境交互作用研究进一步为遗传和环境因素在PTSD发生发展中所起的共同作用提供了实证证据(Li etal.,2019；Uddin et al.,2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总的说来，PTSD的发生发展在很大程度上受到环境因素与遗传易感性共同的影响，研究环境与基因交互作用的表观遗传学因而引起了研究者的重视。表观遗传学是研究在不改变基因核苷酸序列的情况下，调控基因表达的可遗传变化的一门遗传学分支学科。该类研究为阐明环境对机体产生的持久性影响与PTSD 发病的关系提供了方向，近年来已受到越来越多学者的关注。例如，当前有许多研究报告了军人或大屠杀幸存人群中创伤后应激障碍患者与健康对照组的表观遗传调控的差异，以研究大型灾难事件对 PTSD 发生发展的影响(Bam，Yang, Zumbrun, et al.,2016b; Conrad et al.,2018; Hammamieh et al.,2017; Logue et al., 2020; D.Mehta et al.，2019)；一些研究者则致力于探索 PTSD 的代际遗传效应(Moser etal.，2015;Schechter et al.,2017；Serpeloni et al.，2019)；还有一些研究者则专注于研究童年创伤史对PTSD 表观遗传机制的影响(Marinova et al.,2017; D.Mehta et al.,2013; Parade et al.,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "诱发创伤后应激障碍并影响其发展的创伤类型多种多样，促使研究者将环境多样性纳入PTSD 病因学研究的考量中，表观遗传学研究的重要性也由此凸显。本研究想就表观遗传机制之一的组蛋白修饰与PTSD间的关联研究进行归纳整理，以小窥大，以期从中寻找 PTSD表观遗传学研究的一些共性，为今后的PTSD生物通路研究或相关的治疗应用探明道路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．组蛋白修饰",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "组蛋白修饰是受到广泛关注和研究的表观遗传机制之一。表观遗传机制主要包括 DNA甲基化、组蛋白修饰和 RNA 调控三类。DNA 甲基化是在 DNA 甲基转移酶（DNAmethyltransferases,DNMTs)的作用下将甲基选择性地添加到胞嘧啶上形成5-胞嘧啶的过程。DNA 甲基化一般与基因沉默相关，去甲基化常与基因激活或表达量增加相关。RNA 调控是通过RNA 干扰等机制，实现对基因转录的调控。如微小RNA（microRNA，miRNA）可以阻遏靶标基因的翻译，也可以导致mRNA 降解，在转录和翻译水平影响基因表达；长非编码RNA（long non-coding RNA,lncRNA）可以通过参与DNA 甲基化、组蛋白修饰等方式进行基因转录调控和基因转录后调控(Ha& Kim,2014)。组蛋白修饰则是通过添加一个或多个化学基团（如乙酰基、甲基、泛素、磷、核糖等）对组蛋白进行修饰，组蛋白修饰可以引起染色质结构改变和基因转录活性变化，进而实现对基因表达的调控。不同的组蛋白修饰类型对转录效果有着高变异性，如组蛋白乙酰化打开染色质构象以促进转录；组蛋白磷酸化通常是 DNA 损伤的标志；甲基化的转录效果也会受到修饰的组蛋白影响(Fairlie& Sweet,2012;Yun et al., 2011)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在这些表观遗传机制中，组蛋白修饰可能是最为复杂的一种。组蛋白是染色质结构中最主要的蛋白组成部分，组蛋白多样性的修饰及其时间和空间上的组合与生物学功能的关系被称为“组蛋白密码”，扩展了DNA序列自身包含的遗传信息，构成了重要的表观遗传学标志(Strahl& Alis,2000)。组蛋白起着广泛的翻译后修饰作用(Zhou et al.,2011)，主要包括了乙酰化与去乙酰化、甲基化与去甲基化、磷酸化和去磷酸化、泛素化和去泛素化等动态可逆的共价修饰过程：（1）组蛋白乙酰化与去乙酰化最常见的修饰底物是组蛋白H3 和H4，主要发生在赖氨酸残基上，分别由组蛋白乙酰转移酶（histone acetyltransferase,HAT）和组蛋白去乙酰化酶（histone deacetylase，HDAC）来完成，这两种酶类通过对核心组蛋白进行可逆修饰来调节核心组蛋白的乙酰化水平，从而调控转录的起始与延伸。乙酰化是最早被发现并得到深入研究的组蛋白修饰，一般来说，组蛋白乙酰化促进转录，而去乙酰化抑制转录(Brownellet al.,1996; Taunton et al.,1996)。（2）组蛋白甲基化与去甲基化最常见的修饰底物也是组蛋白 H3和 H4，主要发生在赖氨酸与精氨酸两种残基上，由组蛋白甲基化转移酶(histone methyltransferase,HMT）和组蛋白去甲基化酶（histone demethylase,HDM）催化完成(Bieletal.,2005)。赖氨酸甲基化修饰包括单甲基化、二甲基化和三甲基化，精氨酸甲基化修饰则包括单甲基化、对称和非对称甲基化(Martin& Zhang,2005)。组蛋白甲基化修饰是一种重要的基因调节方式，赖氨酸与精氨酸双位点修饰以及不同甲基化个数修饰的特点增加了组蛋白甲基化的多样性，使得其调节功能更为复杂精细。（3）组蛋白磷酸化主要发生在丝氨酸或苏氨酸，分别由蛋白激酶（kinase）和蛋白磷酸酶（phosphatase）催化磷酸基团的偶联和去除。组蛋白磷酸化不仅是某些信号转导通路的重要中间步骤，参与基因表达的调控，而且常与其他类型的修饰互相作用，共同参与细胞分裂、影响细胞周期(Oki etal.,2007)。（4)H2A 和 H2B 是被泛素化修饰最多的组蛋白，组蛋白泛素化修饰是通过泛素激活酶(ubiquitin-activating enzyme,E1）、泛素结合酶（ubiquitin-conjugating enzyme,E2）和泛素连接酶（ubiquitin-protein ligase，E3）的级联反应将泛素分子偶联到组蛋白赖氨酸上(Pickart,2001)。H2A、H2B 泛素化通常与DNA 损害反应有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来，研究者发现组蛋白修饰与创伤后应激障碍的发病机制有关。PTSD 的发生发展通常与创伤事件相关的非适应性恐惧记忆有关，持续的恐惧记忆是PTSD 发病的重要基础，而组蛋白修饰则是恐惧记忆巩固和消退的重要中介。研究表明海马、杏仁核和前额皮质中的组蛋白乙酰化、磷酸化和甲基化等在一系列条件作用范式中对啮齿动物恐惧记忆的巩固与消退发挥着关键作用(Maddox,Watts,& Schafe,2013; Mahan et al.,2012;Monsey et al., 2011;Vieira et al.,2014; Zovkic et al.,2013)；此外，研究者在人类创伤后应激障碍患者的外周血单核细胞中发现了组蛋白不同赖氨酸位点的甲基化差异，提示了组蛋白甲基化对PTSD 的调节作用(Bam,Yang,Zhou,et al.,2016a)。近年来，研究者们相继研究了不同脑区中组蛋白修饰在恐惧记忆的巩固、再巩固与消退学习过程中发挥的作用（见表1)，这些研究强调了组蛋白修饰在恐惧记忆形成和消退的不同阶段存在的组织特异性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看出，不同组织的多种组蛋白修饰类型对PTSD 病因学的调控机理存在着多样性。尽管以往的研究结果存在着较高的异质性，研究者已经发现了一些针对组蛋白修饰的靶点及相关药物能够缓解创伤后应激障碍症状，这表明了研究组蛋白修饰在PTSD发生发展和临床治疗过程中起着重要的作用。受限于目前研究PTSD 相关组蛋白修饰调控机制的文献还较少，我们接下来对相关文献进行了较为完整的阐述，包括与组蛋白修饰研究相关的技术手段和方法，以及涉及各脑区组蛋白修饰调控PTSD 的具体结果，以期能将各类信息进行分别汇总，梳理组蛋白修饰参与的PTSD病理生理学机制，为后来的研究提供可行的实验方案和具有潜力的研究方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.PTSD组蛋白修饰研究方法与技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当前 PTSD 的组蛋白修饰研究在实验设计方面存在着较大的差异。从表1可以看出，各研究在被试、创伤类型（啮齿动物中采用的PTSD 模型)、提取组织、组蛋白修饰鉴定技术等方面的选取上不尽相同，这也造成了当前的研究异质性较大、结果难以统一的现状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1组蛋白修饰的研究技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "传统的组蛋白修饰鉴定技术如酶联免疫吸附测定法（enzyme-linked immunosorbent assay,ELISA）、免疫组化（immunocytochemistry）等免疫测定法和Edman 降解法（Edmandegradation）因其所需样品量大、实验流程繁琐或精度不高等原因，正在渐渐被淘汰。当前，常用的组蛋白修饰的检测技术包括了以抗体技术为基础的蛋白质印迹（Western Bloting，或称免疫印迹 immunoblottng）技术和染色质免疫共沉淀技术（chromatin immunoprecipitation,ChIP)，其中，后者可以研究组蛋白的各类修饰与基因表达的关系，该技术主要利用特异性抗体来分析组蛋白在特定基因组位点或全基因组上的富集，常与定量PCR（quantitative PCR,qPCR）技术、DNA 微阵列（DNA microarray,CHIP）技术或深度测序（deep sequencing,Seq)技术等相结合。然而基于抗体技术的鉴定方法存在着几点不足，如特异性抗体的开发和验证困难且昂贵；特异性抗体可能与相似的组蛋白修饰发生交叉反应；表位闭塞，即靶向特定组蛋白修饰的抗体被预期外的翻译后修饰阻挡。上述提到的鉴定技术在PTSD 组蛋白修饰研究中得到了较多的应用；值得注意的是，尽管鲜少见于PTSD 研究中，近年来质谱（massspectrometry，MS）分析因其无偏倚性和高分辨率等优势已被视为组蛋白修饰研究的重要工具而得到了广泛的应用。质谱技术不仅可以探索新的组蛋白修饰、对组蛋白修饰进行定量检测，还能鉴定组蛋白变体以及组蛋白的组合式翻译后修饰等(Britton et al.,2011; Janssen et al,2017;Karch etal.,2013;Kimura,2013；王维 等,2012；甄艳，施季森,2012)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2PTSD的组蛋白修饰研究方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "想在人类患者中研究创伤后应激障碍症状的神经生物学机制及其相关脑区的组蛋白水平的变化是难以实现的，因此，众多研究者主要通过PTSD动物模型来研究大脑中组蛋白修饰与PTSD 的关系；同时PTSD 动物模型还能为研究者观察各类药物缓解PTSD 症状的功效提供便利。鉴于啮齿类动物中大鼠和小鼠繁殖快、数量大、来源广泛，且便于完成基因工程操作，因此研究者多采用PTSD 啮齿类动物模型来模拟创伤后应激障碍，相关的症状可以由啮齿类动物的恐惧条件反射和各类压力源诱发。目前已经有许多成熟的PTSD啮齿类动物模型可供研究者使用(Blouin et al.,2016; Zovkic et al.,2013)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当前的组蛋白修饰研究中主要用到的PTSD 啮齿类动物模型包括了电击模型、社会应激模型和单刺激应激模型等（见表1)。电击模型基于巴甫洛夫恐惧条件反射原理，一般采用电击（如足底电击和尾部电击）来诱发动物的恐惧反应，是常用的研究创伤后应激障碍动物模型。如 Maddox 等人(2013)采用巴甫洛夫恐惧反射作用训练PTSD 大鼠模型(Maddox, Watts,Doyere,& Schafe,2013)，另一些研究者则采用足底电击的方式使动物产生恐惧记忆和应激行为(Sase et al.,2019; Siddiqui et al.,2017; Siddiqui et al.,2019)。社会应激模型主要采用压力源模拟心理而非生理的压力，如天敌模型，让应激动物直接面对饥饿的捕食动物或闻嗅带有捕食动物气味的物品等，使动物对个体生存感到威胁而产生极大的恐惧(Wilson et al.,2014);如社会应激挫败模型，则可以使动物在面对具有攻击性的同类时遭遇挫败而表现出强烈恐惧。单一延长刺激（single prolonged stress,SPS）模型属于单刺激应激模型的一种，是目前常用的PTSD 动物模型，该模型会使动物出现空间记忆或者注意力缺陷，还能够较好地模拟PTSD 样动物中下丘脑-垂体-肾上腺轴（The hypothalamic-pituitary-adrenal axis,HPA axis）参与的抑郁症状，并伴随有与PTSD 患者类似的行为学反应(Liberzon et al.,1997;Liberzon et al,1999)。单一延长刺激模型在研究组蛋白修饰与PTSD 的关系时被广泛应用，其常与恐惧记忆形成与消退训练相结合，以研究动物的行为学反应和生物分子水平的变化；研究者也会对SPS 动物进行药物注射或喂服，观察药物治疗对动物组蛋白水平变化的影响以及对恐惧等症状的改善作用(Ahmed et al.,2020; Alzoubi et al.,2019; Alzoubi et al.,2018; Matsumoto et al,2013; Takei et al., 2011)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于在人类研究中一般只能将外周血或唾液作为研究组织；而组蛋白修饰作为一种更精细复杂的、具有组织特异性的基因表达微调方式，在人类被试中研究其动态变化具有较大的滞后性和局限性，因此，目前只有少量研究在PTSD 患病人群中探索了组蛋白修饰对 PTSD发病的影响。例如，Bam等人(2016)检测了全基因组上PTSD 患者外周血单核细胞的组蛋白甲基化和 DNA 甲基化(Bam, Yang,Zhou, et al.,2016a)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f07ec7663bbd1a12b4156c9ccec50a99d0a028616fc3ca13d166bafaff1a1030.jpg",
+        "table_caption": [
+            "表1PTSD组蛋白修饰研究中的研究方法与技术"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>被试</td><td>提取组织</td><td></td><td>创伤类型（PTSD 模型)</td><td>组蛋白修饰类型</td><td>测量技术</td><td>参考文献</td></tr><tr><td>大鼠</td><td>SD大鼠</td><td>海马体</td><td>SPS 模型；</td><td>组蛋白H3和H4乙酰化</td><td>ChIP-qPCR；免疫印迹技术</td><td>(Takei et al.,2011)</td></tr><tr><td></td><td></td><td></td><td>情景恐惧条件反射</td><td></td><td></td><td></td></tr><tr><td></td><td>SD大鼠</td><td>外侧杏仁核</td><td>经典恐惧条件反射的巩固和再巩固</td><td>组蛋白H3乙酰化</td><td>免疫印迹技术</td><td>(Maddox,Watts,Doyere,& Schafe,2013)</td></tr><tr><td></td><td>SD大鼠</td><td>海马体</td><td>SPS 模型;</td><td>组蛋白H3和H4乙酰化</td><td>免疫印迹技术</td><td>(Matsumoto et al.,2013)</td></tr><tr><td></td><td></td><td></td><td>情景恐惧条件反射的形成与消退</td><td></td><td></td><td></td></tr><tr><td>SD大鼠</td><td>SD大鼠</td><td>海马体，杏仁核，前额皮质</td><td>SPS模型</td><td>组蛋白H3和H4乙酰化</td><td>免疫印迹技术</td><td>(Solanki et al.,2015)</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td>前额皮层质边缘下区，前额皮质边缘前区； 基底杏仁核，外侧杏仁核，中央外侧杏仁</td><td>经典恐惧条件反射的形成与消退</td><td>组蛋白H3 和H4乙酰化</td><td>免疫组化</td><td>(Siddiqui et al., 2017)</td></tr><tr><td>核，中央内侧杏仁核</td><td></td><td></td><td></td><td></td></tr><tr><td>海马体 前额皮质边缘前区，前额皮层质边缘下区</td><td>SPS模型 恐惧条件反射的形成与消退(立刻消</td><td>组蛋白H3和H4乙酰化 组蛋白H3 和H4乙酰化</td><td>ELISA</td><td>(Alzoubi et al.,2018)</td></tr><tr><td></td><td>SD大鼠</td><td></td><td>退/延退消退)</td><td></td><td>免疫组化</td><td>(Singh et al., 2018)</td></tr><tr><td></td><td>Wistar大鼠 SD大鼠</td><td>海马体 外侧杏仁核，基底杏仁核，中央外侧杏仁</td><td>SPS模型 经典恐惧条件反射的形成与消退</td><td>组蛋白H3和H4乙酰化</td><td>ELISA</td><td>(Alzoubi et al., 2019)</td></tr><tr><td></td><td></td><td>核，中央内侧杏仁核；</td><td></td><td>组蛋白H3 和H4乙酰化</td><td>免疫组化</td><td>(Siddiqui et al., 2019)</td></tr><tr><td></td><td></td><td>前额皮质边缘前区和下区</td><td>SPS 模型</td><td>组蛋白H3 和H4乙酰化</td><td></td><td></td></tr><tr><td></td><td>Wistar大鼠 Wistar大鼠</td><td>海马体</td><td>足底电击 (IFS)</td><td>组蛋白 H3二甲基化</td><td>ELISA</td><td>(Ahmed et al.,2020)</td></tr><tr><td>小鼠</td><td>C57Bl6/J小鼠</td><td>海马体，前额皮质</td><td></td><td></td><td>免疫印迹技术；ChIP-qPCR</td><td>(Zhao et al.,2020)</td></tr><tr><td></td><td></td><td>杏仁核</td><td>经典恐惧条件反射</td><td>组蛋白H3 磷酸化；组蛋白H3 和 H4乙酰化；组蛋白H3二甲基化 和三甲基化</td><td>免疫印迹技术</td><td>(Koshibu et al.,2011)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1a20645dc26f2713d28185c24bac9b4c2ecee374cfe7ac0c9f19565d11948fe.jpg",
+        "table_caption": [
+            "续表1 "
+        ],
+        "table_footnote": [
+            "D immunoprecipitation; qPCR: quantitative PCR; ELISA: enzyme-linked immunosorbent assy "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>印度小家鼠</td><td>杏仁核</td><td>天敌模型</td><td>组蛋白H3 和H4乙酰化</td><td>免疫印迹技术</td><td>(Ragu Varman & Rajan,2015)</td></tr><tr><td></td><td>C57BL/6J小鼠</td><td>海马体CA1区</td><td>情景恐惧条件反射</td><td>组蛋白 H3乙酰化和甲基化</td><td>定量染色质免疫沉淀</td><td>(Sase et al., 2019)</td></tr><tr><td></td><td>H2A.Z敲除小鼠</td><td>海马体CA1区</td><td>单次电击情景恐惧条件反射；SEFL</td><td>组蛋白变体 H2A.Z 结合力增强;</td><td>ChIP；qPCR；免疫印迹</td><td>(Ramzan et al., 2020)</td></tr><tr><td>人类</td><td>退伍军人</td><td>外周血单核细胞 (PBMCs)</td><td>模型 战争</td><td>条件性诱导敲除H2A.Z 组蛋白H3 三甲基化</td><td>ChIP-seq</td><td>(Bam, Yang, Zhou, et al., 2016a)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3．PTSD组蛋白修饰研究进展",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们在PubMed、PsychINFO 和PsychArticles 数据库中对PTSD 组蛋白修饰的相关文章进行了检索，检索时间截至2020年10月1日，最终选取了16篇文献进行较为详细的整理、阐述和讨论（见表2和表3)。近年来的研究表明，组蛋白修饰的整体作用与PTSD的发病和相关药物治疗效果紧密相关；特别地，组蛋白修饰在PTSD 发病机制中还重点参与了炎症信号通路、氧化应激信号通路、5-羟色胺能系统（对HPA 轴调控起重要作用）和神经肽Y能系统以及NMDA 受体（N-methyl-D-aspartic acid receptor， ${ \\sf N } ^ { - }$ 甲基-D-天冬氨酸受体）相关通路等。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1PTSD组蛋白修饰的整体作用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "组蛋白修饰的整体作用影响着 PTSD 的发生发展过程（见表3)。有研究者报告了采用捕食者暴露模型后，富集条件下小鼠的焦虑性行为减少，这一现象伴随着组蛋白H3 和 H4乙酰化水平升高、组蛋白去乙酰化酶相关基因表达水平下调以及5-羟色胺能系统和神经肽Y能系统的一系列相关信号分子水平的变化(Ragu Varman&Rajan,2015)；Siddiqui 等(2019)则更为详细地阐述了在对大鼠进行了恐惧记忆巩固和消退训练后，组蛋白去乙酰化酶的区域特异性表达引起的组蛋白H3 和H4乙酰化水平的变化(Siddiqui et al.,2019)，他们发现在对大鼠进行恐惧记忆学习和消退训练的不同阶段，大鼠的组蛋白H3K9 和H4K5乙酰化水平、组蛋白去乙酰化酶1（Histone Deacetylase1，HDAC1）和组蛋白去乙酰化酶2（HistoneDeacetylase 2,HDAC2）的表达量在杏仁核(基底核团（basal amygdala,BA）、外侧核团（lateralamygdala,LA）、中央外侧杏仁核（centrolateral amygdala,CeL）、中央内侧杏仁核（centromedialamygdala,CeM））和前额皮质（边缘下区（infralimbic prefrontal cortex,IL-PFC）、前边缘皮层（prelimbic prefrontal cortex,PL-PFC)）各亚区中呈现出不同的变化。具体说来，恐惧记忆巩固训练后，在大鼠的杏仁核中，组蛋白H3K9 和H4K5乙酰化和HDAC1的表达水平在杏仁核各亚区呈上升趋势,HDAC2的表达水平呈下降趋势;在大鼠的前额皮质中，组蛋白H3K9和H4K5乙酰化水平在PL呈上升趋势，相应的HDAC1的表达水平在PL呈下降趋势,HDAC2的表达水平在PL 和IL 呈现下降趋势。恐惧记忆消退训练后，在大鼠的杏仁核中，组蛋白H3K9 和H4K5乙酰化水平在杏仁核各亚区（除CeM）呈上升趋势，相应的HDAC1的表达水平呈上升趋势，HDAC2的表达水平（除CeM）呈下降趋势；在大鼠的前额皮质中，组蛋白 H3K9 和H4K5乙酰化水平在IL 呈上升趋势,相应的 HDAC1表达水平在IL 呈下降趋势，HDAC2的表达水平在PL 呈现上升趋势。这些结果也再次证实了他们在 2017年得出的实验结论(Siddiqui et al., 2017)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2PTSD组蛋白修饰的靶向基因",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一些候选基因启动子区域富集的组蛋白修饰在 PTSD 样动物的恐惧记忆巩固和消退过程中起重要作用。当前，一些研究者主要将目光集中于Bdnf基因和Cdk5基因等（见表2）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在参与恐惧记忆形成的基因中，脑源性神经营养因子（brain-derived neurotrophic factor,BDNF）基因在突触可塑性和学习记忆中发挥着重要作用，靶向Bdnf基因的组蛋白修饰因而得到较为广泛的研究。Bredy 等(2007)发现小鼠恐惧记忆的消退伴随着前额皮质中显著增加的Bdnf基因IV 外显启动子上的组蛋白H4乙酰化(Bredy etal.,2007)。Lubin 等人(2008)则发现在恐惧记忆巩固阶段，小鼠海马体 BDNF 转录水平上调，伴随着 Bdnf基因IV 外显启动子的组蛋白H3 磷酸化和乙酰化水平的升高(Lubin etal.,2008)。Takei 等人(2011)采用情境恐惧条件测试了 SPS 模型对大鼠恐惧记忆巩固的诱发能力，并分别检测了 SPS 大鼠海马体中Bdnf 总体和四个外显子（I,II,IV,VI）的 mRNA水平、蛋白水平和组蛋白乙酰化水平及其酪氨酸激酶受体 B（Tyrosine Kinase receptorB,TrkB）受体蛋白的表达情况，结果发现，SPS大鼠的恐惧记忆巩固能力增强，海马体中 Bdnf基因调控的总体mRNA水平、蛋白质水平和TrkB 蛋白水平均上升，并伴随着 Bdnf基因I和IV外显启动子上的组蛋白H3 和H4乙酰化水平升高(Takei etal.,2011)。这表明，Bdnf基因外显启动子（主要为I和IV）的组蛋白修饰能够调控 BDNF及其受体 TrkB 的分子表达水平，进而对恐惧记忆的巩固和消退过程产生影响。不同于以往研究报告的组蛋白类型(乙酰化和磷酸化)和横向设计思路，Zhao 等人(2020)主要报告了组蛋白H3K9 二甲基化在 Bdnf基因启动子上的富集对青少年时期遭受创伤的大鼠的长期影响。作者测量了暴露于足底电击（inescapable foot shock (IFS)procedure）的青少年期大鼠及其成年后的行为学反应，以及海马体和前额皮质中的神经元形态变化、组蛋白H3K9二甲基化水平及其在Bdnf基因启动子上的富集、BDNF mRNA及蛋白质水平变化，结果发现，IFS 诱导了青少年期大鼠的类PTSD行为，其海马体和前额皮质中的神经元树突分支减少、长度缩短，进一步测量则发现，IFS 引起大鼠海马体和前额皮质中组蛋白H3K9二甲基化的整体水平上升，同时在 Bdnf基因启动子上观察到了组蛋白H3K9二甲基化的富集，进而导致 Bdnf表达水平降低；这些变化均能持续到成年(Zhao etal.,2020)。尽管不同研究中关注的组织类型和组蛋白修饰类型均有差异，但不可否认的是，靶向Bdnf基因启动子的组蛋白修饰在PTSD 的发生发展过程中发挥着关键的作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "细胞周期素依赖蛋白激酶5（cyclin-dependent kinase 5,Cdk5）被多次证明是参与恐惧记忆巩固和压力相关行为的关键基因，有研究发现Cdk5在雄性小鼠的海马体、纹状体和前脑中的条件性缺失可以调控恐惧记忆和类抑郁表型(Hawasli et al.,2007; Suet al.,2013; Zhonget al.,2014)。另有证据表明，雄性小鼠的重复应激伴有海马体中Cdk5 的激活、糖皮质激素受体（glucocorticoid receptor,GR）的磷酸化和组蛋白去乙酰化酶2（histone deacetylase 2,HDAC2）表达量的增加；Cdk5启动子的组蛋白乙酰化会激活Cdk5的表达，从而影响应激(Rei et al.,2015)。Cdk5 基因在对恐惧记忆的调节中扮演了如此重要的角色，吸引着研究者进行靶向Cdk5基因的组蛋白修饰研究。Sase 等人(2019)通过靶向组蛋白乙酰化的方法系统地研究了Cdk5基因对小鼠的恐惧记忆提取能力的调控作用，实验结果表明，在长时恐惧记忆提取阶段发生了性别特异性的行为表现和表观调控。具体来说，研究者首先在恐惧条件反射实验组当中比较了雄性和雌性小鼠的行为表现及其相关的组蛋白修饰水平变化，结果发现雄性小鼠的长时恐惧记忆提取能力更强，这与雄性小鼠特有的海马CA1区Cdk5启动子组蛋白 H3 赖氨酸9/14 乙酰化（histone H3 lysine 9/14 acetylation,H3K9/14ac）的富集相关；随后实验者将靶向表观遗传编辑应用于小鼠CA1区中Cdk5启动子H3K9/14 的乙酰化，以观察靶向Cdk5基因的乙酰化对小鼠恐惧记忆提取能力的影响，结果发现，表观遗传编辑使得Cdk5 基因启动子的乙酰化激活了Cdk5的表达；在接受恐惧条件反射训练的实验组中，相较于未接受表观遗传编辑的雌性小鼠来说，进行了表观遗传编辑的雌性小鼠的长时恐惧记忆提取能力显著下降（但这种现象不存在于雄性小鼠中，这可能归因于Cdk5介导了雌性海马区tau 蛋白的过度磷酸化）(Sase et al.,2019)。由此可见，尽管存在性别差异，但靶向Cdk5的组蛋白乙酰化对恐惧记忆的调控作用毋庸置疑，未来需要更多研究以支持和验证现有结论，并且在此基础上进一步探索靶向Cdk5的组蛋白修饰如何参与PTSD 调控通路。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "可以看出，当前的PTSD 组蛋白修饰研究关注的候选基因远远少于以往PTSD 的GWAS研究所报告的数量(Zhang etal.,2017)，即便是靶向特定基因的PTSD 组蛋白修饰机制研究，其对不同的候选基因的青睐度仍不尽相同（例如，以往研究报告的 BDNF 基因启动子的组蛋白修饰种类包括了乙酰化、甲基化和磷酸化，而报告的Cdk5启动子的组蛋白修饰种类却比较单一)。的确，我们不得不面对当前的实验技术及实际情况对研究的限制，但研究更大范围内表观基因组上的组蛋白修饰对 PTSD 发病机制的影响也是未来需要我们投入更多目光的方向。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "显然，已经有研究者在朝着这个方向努力。一项表观基因组关联分析研究（epigenome-wide association study,EWAS）另报告了组蛋白甲基化的整体作用和其在炎症通路相关基因上的富集作为诊断 PTSD人群症状的生物标志物的潜能(Bam,Yang,Zhou,et al,2016a)。研究者不仅报告了患病和健康人群全表观基因组范围上组蛋白H3的K4，K9，K27和K36三甲基化存在显著差异，还发现患病人群 IFNG (Interferon Gamma)、TBX-21(T-BoxTranscription Factor 21)和 IL-12 (Interleukin 12B)基因启动子的显著激活与组蛋白 H3K4三甲基化（histone H3K4 trimethylation,H3K4me3）和DNA 甲基化相关。值得一提的是，研究者还进一步探索了miRNA在调控这些促炎细胞因子的表达中扮演的角色，他们发现在PTSD人群中许多miRNA的表达水平显著下调，其中有部分miRNA靶向IFNG、TBX-21或 IL-12基因。该研究向我们展示了PTSD患病人群的促炎细胞因子表达水平的升高受到了组蛋白修饰、DNA 甲基化和miRNA的共同调节作用，为PTSD 发生发展的表观遗传学研究提供了一种较好的思路（但需要注意的是，该研究采用的患者样本量为PTSD 患者17人，对照组被试16 人)。此外，Ramzan 等人(2020)报告了一种组蛋白变体 H2A.Z 对恐惧记忆的调控作用。研究者发现海马体中组蛋白变体H2A.Z与 $B 2 m$ (beta2-microglobulin)、Fkbp5 (FKBP ProlylIsomerase 5)和 Th (Tyrosine Hydroxylase)基因的结合在雌性小鼠中显著高于雄性小鼠（这些基因与神经可塑性和记忆功能相关)；当对小鼠进行条件性敲除H2A.Z后，实验者仅在雄性小鼠中观察到了恐惧记忆巩固能力的增强(Ramzan etal.,2020)。尽管当前的研究受限于各种因素而发展缓慢，但我们不难从中看出在更大范围内探索多元化的组蛋白修饰对PTSD 机制研究具有重要意义。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3针对PTSD组蛋白修饰的相关药物治疗",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "组蛋白修饰对PTSD 的调控较为灵活，其可受多种酶类调节，因而具有较好的临床应用价值，现有研究相继报告了各类组蛋白修饰相关药物对PTSD 样动物的治疗效果（见表3)。Matsumoto 等人(2013)发现伏立诺他（一种组蛋白去乙酰化酶抑制剂）只有在与消退训练相结合时，才能够提高大鼠海马体中的NMDA受体NR2BmRNA水平、NR2B 和CaMKII的相关蛋白质水平，并且伴随着组蛋白H3 和H4乙酰化水平的升高，进而改善SPS 大鼠的恐惧记忆消退障碍，文章强调了药物与消退训练结合的必要性，以及NMDA受体相关通路在利用伏立诺他治疗恐惧记忆时扮演的关键角色(Matsumoto et al.,2013)；尽管没有具体阐述组蛋白修饰水平的变化，但Wilson 等人(2014)发现组蛋白去乙酰化酶抑制剂丙戊酸(valproicacid,VA）能够减轻捕食者暴露模型中大鼠的氧化应激反应和炎症反应，纠正神经递质（儿茶酚胺和 5-羟色胺）的异常分布，促进大鼠恐惧记忆的消退(Wilson et al.,2014)；Alzoubi等(2018)利用抗氧化剂已酮可可碱（Pentoxifylline,PTX）减轻了 SPS 大鼠的记忆损伤，其可能的生理机制是在海马体中调节了氧化应激生物标志物水平、提高组蛋白H3乙酰化水平和BDNF 转录水平，从而改善记忆障碍(Alzoubi et al.,2018)；Alzoubi等(2019)随后又在另一篇文章中报告了选择性磷酸二酯酶IV 抑制剂依他唑酯（etazolate）可有效缓解 SPS 大鼠 PTSD样症状，促使模型诱导的海马体中氧化应激水平变化、降低的BDNF 水平和组蛋白H3乙酰化水平正常化(Alzoubi etal.,2019);维生素E也因其抗氧化特性而对认知功能具有保护作用，研究者基于该种特性探讨了维生素 E 对 SPS 大鼠的记忆障碍及其相关生物机制的影响，结果发现，维生素E可以预防PTSD样大鼠的记忆损伤，阻止PTSD 样大鼠海马体中的氧化应激标志物水平、BDNF 水平及组蛋白H3乙酰化水平的降低(Ahmed etal.,2020)；另一项研究则报告了一种天然组蛋白乙酰转移酶抑制剂 garcinol 可以减轻大鼠的恐惧记忆巩固和再巩固，这一过程伴随着外侧杏仁核（lateral amygdala,LA）中组蛋白 H3乙酰化水平的下降(Maddox，Watts,Doyere,& Schafe，2013)。Zhao 等人发现组蛋白甲基转移酶小分子抑制剂Unc0642能够缓解 IFS 诱导的青少年期大鼠及其成年后的一系列类PTSD 行为，调节神经元形态变化、组蛋白甲基化和Bdnf基因的表达。可以看出，现有研究间存在较大的异质性，由于研究者使用的药物类型和观察的组织不同，导致研究结果难以整合，但这类药物研究的结果充分表明了药物调控组蛋白修饰水平的灵活性，以及在未来治疗人类PTSD症状的巨大前景。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "纵观近年来的PTSD 组蛋白修饰研究，我们发现，不管是靶向特定基因抑或从表观基因组范围上进行探究，不管是对PTSD样动物进行直接观察抑或药物治疗，绝大多数研究通常仅关注一种而非多种组蛋白修饰类型对PTSD 的调节作用。的确，“组蛋白密码”具有其复杂性，不同的组蛋白修饰通常会协同作用，以组合式的组蛋白修饰模式对基因表达和染色质变化产生影响，这一点无疑增大了研究难度，限制了当前我们对PTSD 组蛋白修饰机制的认识；组蛋白修饰同时又具有灵活性，其在体内的变化是动态可逆的，这同样增大了研究难度，但其因此具有的药物治疗价值不容忽视。因此，我们应当充分认识到组蛋白修饰机制的复杂性和重要性，力争从多基因、多种组蛋白修饰类型协同作用的角度对PTSD 组蛋白修饰机制进行更为全面和深入的探索。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4PTSD组蛋白修饰的性别特异性",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PTSD 发病率存在着显著的性别差异，女性患病率约为男性的两倍。但研究者为避免雌性生理周期对实验结果的可靠性产生影响（NIH 对此提出了质疑和批评(Beery，2018;Prendergast etal.,2014))，目前大多数精神疾病（包括PTSD）相关的动物研究中所使用的都是雄性被试，从表2和表3中可以发现这一现象。Kokras 和Dalla(2014)还针对此现象发表了一篇综述，阐述在以性别为导向的精神疾病预防、诊断和治疗的实验研究中纳入雄性和雌性动物的必要性(Kokras&Dalla,2014)。尽管当前研究PTSD 组蛋白修饰的性别差异的研究还较少，但我们还是能从中对其涉及到的生物机制窥探一二。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "上文中提到，Sase等人的研究表明Cdk5对恐惧记忆的调控可以通过组蛋白乙酰化进行，并且这些调控具有性别特异性；组蛋白变体H2A.Z也被发现是一种性别特异性的表观遗传风险因子(Ramzan et al.,2020)。另外，在 Maddox 等人(2018)的研究中，虽然没有直接测量组蛋白修饰的水平，但他们报告了PTSD 女性被试和雌性小鼠中编码组蛋白去乙酰化酶4的HDAC4（Histone Deacetylase 4）基因相关的生物分子水平变化。文章提到，PTSD女性患者全基因组上的甲基化水平受雌激素水平的调控，其中 HDAC4 基因的CpG 位点甲基化水平高于正常被试，研究者进一步检测了在恐惧条件反射实验中雌激素水平存在差异的小鼠杏仁核中 Hdac4 mRNA水平，结果发现小鼠杏仁核中Hdac4mRNA水平在受到恐惧条件刺激后上升，而雌激素的存在则可以保护小鼠，防止其创伤记忆的形成，并使Hdac4 表达水平降低。研究表明雌激素可能介导了HDAC4的表达调控，从而增加了女性患创伤后应激障碍的风险(Maddox et al.,2018)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "显然，由于动物实验的局限性（包括性别选择、症状模拟的有效性等）以及在人类实验中进行组蛋白修饰机制研究的困难性，当前对性别差异影响PTSD 组蛋白修饰的生物调控过程的研究尚处于初步阶段。未来，更多关注到PTSD发病存在的性别差异，采用更大样本量的人类被试进行EWAS研究，或对PTSD样动物进行表观遗传编辑以观察雌性和雄性动物的生物分子水平变化等研究，都将对阐明PTSD组蛋白修饰中存在的性别差异起到良好的推动作用。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/eee83f1da85f3412ebcb8aa2220a9f4bcdd26a290e93e3f96414d8ee8c4b19ee.jpg",
+        "table_caption": [
+            "表2靶向基因的PTSD组蛋白修饰研究"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>被试</td><td>样本量</td><td>提取组织</td><td>创伤类型</td><td>表型</td><td>性别</td><td>结果</td><td>参考文献</td><td></td><td></td></tr><tr><td>SD大鼠</td><td>n=7~15</td><td>海马体</td><td>SPS 模型+情景恐惧 条件反射</td><td>恐惧记忆巩固</td><td>雄</td><td>僵直反应显著增强;</td><td>2011)</td><td>(Takeietal.,</td><td></td></tr><tr><td rowspan=\"6\"></td><td></td><td></td><td></td><td></td><td></td><td>Bdnf启动子区（外显子I和IV）组蛋白H3和H4乙酰化水平↑；</td><td></td><td></td><td></td></tr><tr><td>n=8~10</td><td></td><td></td><td></td><td></td><td>Bdnf（包括外显子I和IV）的总mRNA 和蛋白质水平↑； TrkB 蛋白水平 ↑</td><td></td><td></td><td></td></tr><tr><td>C57BL/6J</td><td>海马体CA1区</td><td>情景恐惧条件反射</td><td>长时记忆提取能力</td><td>雄</td><td></td><td></td><td>(Sase et al.,2019)</td><td></td></tr><tr><td>小鼠</td><td></td><td></td><td></td><td></td><td>雄鼠长时记忆提取能力强于雌鼠;</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>雄性特异性Cdk5 的表观遗传激活;</td><td></td><td></td><td></td></tr><tr><td rowspan=\"8\"></td><td></td><td></td><td></td><td></td><td></td><td>Cdk5 启动子区H3K9/14乙酰化水平↑； Bdnf 的IV 外显启动子H3K9/14乙酰化水平↑</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>雌</td><td>Cdk5 的靶向乙酰化仅降低雌鼠的长时记忆提取能力;</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Bdnf 的IV 外显启动子H3K9/14乙酰化水平↑；</td><td></td><td></td></tr><tr><td>人类</td><td>PTSD+: 17 / PTSD-: 16</td><td>外周血单核细胞战争</td><td>PTSD</td><td></td><td>磷酸化 tau 蛋白水平↑</td><td></td><td>(Bam,</td></tr><tr><td></td><td></td><td>(PBMCs)</td><td></td><td></td><td>男/女</td><td>PTSD 患者全表观基因组上组蛋白H3的K4,K9,K27和K36三甲基化水平变化显著;</td><td>Yang, 2016a) et al.,</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>TBX-21和IFNG表达水平↑；</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>TBX-21 和IFNG 基因区域H3K4三甲基化水平↑；</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>IFNG 转录起始点附近DNA甲基化水平；</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>IL-12B 转录本丰度↑；</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>IL-12B 启动子区H3K4三甲基化水平↑；</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>IL-12B 启动子区DNA 甲基化水平;</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>PTSD 患者许多水平下降的 miRNA 靶向 IFNG 和 IL-12</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/27b0d3097d6ba4a20e1a96fc696320a23cb1cc9eb4184608a12d98b969d7fba9.jpg",
+        "table_caption": [
+            "续表2 "
+        ],
+        "table_footnote": [
+            "Cytoskeleton Associated Protein; Gadd45b: Growth Arrest And DNA Damage Inducible Beta.↑表示上升；表示下降。"
+        ],
+        "table_body": "<html><body><table><tr><td>Wistar大 鼠</td><td>N=72 n=12</td><td>质</td><td>海马体，前额皮</td><td>足底电击(IFS)</td><td>焦虑样行为，社交行 为，空间学习与记忆</td><td>雄</td><td>IFS 诱发大鼠的 PTSD 样行为；</td><td>(Zhao et al.,2020)</td></tr><tr><td rowspan=\"7\"></td><td rowspan=\"7\"></td><td rowspan=\"7\"></td><td rowspan=\"7\"></td><td rowspan=\"7\"></td><td rowspan=\"7\"></td><td rowspan=\"4\"></td><td></td></tr><tr><td>H3K9二甲基化水平↑；</td></tr><tr><td>Bdnf启动子区结合的H3K9二甲基化水平↑；</td></tr><tr><td>BDNF mRNA和蛋白质表达量；</td></tr><tr><td>所有变化均可持续到成年期,Unc0642 能缓解大部分症状</td></tr><tr><td>恐惧记忆，非压力性雄 记忆，痛觉敏感性</td><td>H2A.Z敲除诱发雄鼠恐惧记忆习得↑； H2A.Z 抑制非压力性记忆(与性别无关);</td></tr><tr><td rowspan=\"2\">除小鼠</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">型</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td></td></tr><tr><td>雌鼠B2m、Fkbp5和Th结合H2A.Z能力强于雄鼠； H2A.Z敲除雌鼠Fos、Arc、Gadd45b、Fkbp5和Th（趋势）结合H2A.Z能力弱于控</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>制组雌鼠;</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>H2A.Z抑制非压力性记忆(与性别无关)；</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>H2A.Z敲除降低雌鼠的恐惧记忆习得和疼痛反应</td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/04716163561434c80a68c38d171226fb60bccf39b3decf59638a658087fdc8e3.jpg",
+        "table_caption": [
+            "表3PTSD组蛋白研究的治疗进展"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>被试</td><td>样本量</td><td>提取组织</td><td>创伤类型</td><td>表型</td><td>性别 结果</td><td></td><td>参考文献</td></tr><tr><td>SD大鼠</td><td>n=5~9</td><td>杏仁核外侧核</td><td>经典恐惧条件反射的 巩固和再巩固</td><td>恐惧记忆巩固和再巩 固</td><td>雄</td><td>在恐惧记忆形成或提取阶段后不久注射 garcinol，会损害恐惧记 忆巩固和再巩固及其相关的神经可塑性;</td><td>(Maddox,Watts, Doyere,& Schafe, 2013)</td></tr><tr><td rowspan=\"3\">SD大鼠</td><td rowspan=\"3\">n=6~10</td><td rowspan=\"3\">海马体</td><td rowspan=\"3\">SPS模型+情景恐惧条</td><td rowspan=\"3\">恐惧消退</td><td rowspan=\"3\">蛋白H3乙酰化 雄</td><td>局部注射garcinol到杏仁核会损害恐惧记忆形成和提取相关的组</td><td rowspan=\"3\">(Matsumoto et al.,</td></tr><tr><td>伏立诺他增强 SPS 大鼠恐惧记忆消退能力; 2013)</td></tr><tr><td>伏立诺他使海马体中NR2B、CaMKIIα和β蛋白水平↑;</td></tr><tr><td rowspan=\"3\">SD大鼠</td><td rowspan=\"3\">n=4~10</td><td rowspan=\"3\">海马体，杏仁核，前额皮质</td><td rowspan=\"3\">SPS模型</td><td rowspan=\"3\">焦虑和抑郁样行为，短雄 时和长时记忆</td><td rowspan=\"3\"></td><td>伏立诺他使组蛋白H3 和H4乙酰化水平↑</td><td rowspan=\"3\">(Solanki et al.,</td></tr><tr><td>葡萄粉（GP）预防 SPS 模型诱导的行为和记忆损伤现象; 2015)</td></tr><tr><td>葡萄粉抑制 SPS 模型诱导的血浆皮质酮水平的上升;</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">n=8~12</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td>SPS 大鼠而非 GP-SPS 大鼠杏仁核中 BDNF 水平;</td><td rowspan=\"3\"></td></tr><tr><td>葡萄粉促使 SPS 大鼠海马体和杏仁核中组蛋白H3 乙酰化和 HDAC5表达水平↑</td></tr><tr><td>恐惧记忆习得，恐惧记雄 恐惧记忆形成和消退阶段前额皮质和杏仁核亚核中c-fos 和CBP 蛋白水平及组蛋白H3 和H4乙酰化水平改变</td><td>(Siddiqui et al.,</td></tr><tr><td rowspan=\"3\">Wister 大鼠</td><td rowspan=\"3\">n=12~15</td><td>基底杏仁核，外侧杏仁核，中央外侧 杏仁核，中央内侧杏仁核</td><td>与消退</td><td>忆消退</td><td></td><td></td><td>2017)</td></tr><tr><td>海马体</td><td>SPS模型</td><td>短时和长时记忆</td><td>雄</td><td>己酮可可碱预防 SPS 模型中PTSD 样行为诱发的短时和长时记</td><td>(Alzoubi et al.,</td></tr><tr><td></td><td></td><td></td><td></td><td>忆损伤； 已酮可可碱使 SPS 诱发下降的GSH/GSSG 比率、过氧化氢酶、 谷胱甘肽过氧化物酶(GPx)、BDNF 和组蛋白H3 乙酰化水平恢</td><td>2018)</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/f173deed6299eeb529ad6a14bdc53b318736ccbaf012cecb7c243a7689f42c45.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "H R "
+        ],
+        "table_body": "<html><body><table><tr><td>SD大鼠</td><td>N=80~100 /n=20~24</td><td>前额皮质边缘下区，前额皮质边缘前 区</td><td>恐惧条件反射的形成 与消退(立刻消退/延 迟消退)</td><td>立刻消退或延迟消退</td><td>NA</td><td>立刻消退组较延迟消退组表现出更低的从边缘下区到边缘前区 的神经回路电信号水平;</td><td>(Singh et al., 2018)</td></tr><tr><td>Wistar</td><td>N=84 /</td><td>海马体</td><td>SPS模型</td><td></td><td></td><td>白、组蛋白H3/H4乙酰化水平 依他唑酯治疗阻止PTSD 相关氧化应激生物标志物(GSH、</td><td>(Alzoubi et al.,</td></tr><tr><td>大鼠 SD大鼠</td><td>n=18~24 N=80-96 /</td><td>基底杏仁核，外侧杏仁核，中央外侧</td><td>恐惧条件反射的形成</td><td>恐惧记忆习得，恐惧记雄</td><td></td><td>GSSG、GPx、TBARS)、BDNF 和组蛋白 H3乙酰化水平的上升 恐惧记忆形成和消退阶段前额皮质和杏仁核亚核中c-fos 蛋白、</td><td>2019) (Siddiqui et al.,</td></tr><tr><td></td><td></td><td>前额皮质边缘下区，前额皮质边缘前 区</td><td></td><td></td><td></td><td>HDAC1/HDAC2及组蛋白 H3 和H4乙酰化水平改变</td><td></td></tr><tr><td>Wistar 大鼠</td><td>n=12</td><td>海马体</td><td>SPS模型</td><td>短时和长时记忆损伤</td><td>雄</td><td>维生素E预防 SPS 模型诱导的记忆损伤; 维生素E阻止SPS 诱导的氧化应激生物标志物、组蛋白H3乙酰 化和BDNF水平的下降</td><td>(Ahmed et al., 2020)</td></tr><tr><td>C57Bl6/Jn=3~14 小鼠</td><td></td><td>杏仁核</td><td>恐惧条件反射的形成</td><td>情景记忆和高音调恐 惧的长时记忆</td><td>雄</td><td>核抑制蛋白磷酸酶1（PP1）促进情景记忆可高音调恐惧相关的 长时记忆形成，促进转录相关的长时程增强;</td><td>(Koshibu et al., 2011)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>蛋白磷酸酶1抑制使组蛋白H3上丝氨酸 S10 磷酸化、H3K14 和H4K5乙酰化、H3K36三甲基化、CREB 水平↑，使NFkB 水 平↓</td><td></td></tr><tr><td>印度小</td><td>N=102 /</td><td>杏仁核</td><td>天敌模型</td><td>本能恐惧反应，焦虑样雄</td><td></td><td>丰富条件下小鼠表现出更少的恐惧反应和焦虑样行为</td><td></td></tr><tr><td>家鼠</td><td>n=6~22</td><td></td><td></td><td></td><td></td><td></td><td>(Ragu Varman &</td></tr><tr><td></td><td></td><td></td><td></td><td>行为</td><td></td><td></td><td>Rajan,2015)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>丰富条件下小鼠暴露在天敌面前后，5-HT、SERT、5-HT1A`</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>CaMKII/CREB、组蛋白H3和H4乙酰化水平↑,5-HT2c、HDAC1、</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>HDAC2水平↓；</td><td></td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4．讨论与展望 ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "可以看到，当前的PTSD 组蛋白修饰研究多采用较为成熟的PTSD啮齿动物模型，而很少在人类被试中进行。这是因为PTSD 组蛋白修饰在相关脑区中存在着动态精细的调节过程，相对于人类被试只能提取被试的血液样本或进行尸体解剖的操作来说，还能进行药物靶向治疗研究的动物模型体现出极大的优良性和不可或缺的重要地位。但需要注意的是，在使用动物模型对人类PTSD的临床症状进行模拟时，我们应谨慎对待各类研究中采用的动物模型所代表的意义。Chaouloff(2013)就曾在综述“Social stress models in depression research: whatdo they tell us?”中提到，当研究者把社会挫败模型当作抑郁症的动物模型来使用时，其主要的症状如社会回避也被报道存在于患有恐慌症、社交恐惧症或者创伤后应激障碍患者当中；并且有研究者在社会挫败模型中还观察到了惊跳反应增强这一属于PTSD 的主要特征。Chaouloff 建议研究者不把模型诱导的反应作为整体去对应某种疾病，而是关注每个单独的反应本身，将其作为疾病的某一维度去探索相关的神经生物学机制(Chaouloff,2013)。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "此外，当研究者广泛地采用PTSD啮齿动物模型来进行模拟时，大多关注与恐惧相关的PTSD 核心症状而极少报告组蛋白修饰与PTSD其他症状簇的关联。例如，越来越多的学者关注到了快感缺失在创伤性个体中扮演的重要角色，他们发现快感缺失与创伤后应激障碍的风险增加有关，并相继报告了与快感缺失症状相关的脑区（如腹侧和背侧纹状体、腹内侧前额叶皮层等）及其连通性（如钩束完整性，伏隔核和右背外侧前额叶皮层的连通性等）(Faniet al.,2019; Frewen et al.,2012; Kashdan et al.,2006; N.D.Mehta et al.,2020; Olson et al.,2018;Risbrough etal.,2018)。但当前的研究多报告脑区功能连接与PTSD 患者快感缺失症状的相关性，鲜少有研究者探索快感缺失相关脑区中发生的组蛋白修饰水平在PTSD 发生发展过程中的作用，而在快感缺失作为其核心症状的抑郁症相关文章中该类研究则报告得较多(Dudeket al.,2020; Lepack et al.,2016; Pathak et al.,2017; Wilkinson et al.,2009)，这显然也是一个值得研究者关注和探索的方向。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "此外，当前有关PTSD组蛋白修饰研究的不足之处还在于动物模型研究多采用雄性，探索性别差异的研究较少；由于各类因素限制，只有少量文章报告了表观遗传机制如组蛋白修饰和 DNA 甲基化、miRNA 等相互作用、共同参与调节 PTSD 发生发展的研究(Bam,Yang,Zhou,etal.,2016a)，但笔者认为将目光着眼于此不会是件坏事，单纯研究某一类表观遗传机制而忽略各类机制的共同作用对PTSD发病的影响只会导致我们的思维局限。对于具有复杂病因学的PTSD 研究来说，随着研究者们探索的逐渐深入，也将敦促我们去思考和研究表观遗传机制的协同或括抗作用对PTSD发病的贡献；值得一提的还有，近年来有学者发现除了经典的孟德尔遗传形式外，代际遗传能够通过表观遗传机制对受创伤者的后代产生影响；并且相较经典遗传学而言，表观遗传学提供了一种更灵活的基因调控机制，允许后代直接继承父母的某些适应性变化。Rodgers 和 Bale(2015)在综述中详细总结和探讨了父母（特别是父系)经受压力对亲代的影响及其相关的生殖细胞表观遗传标记的作用和特征(Rodgers& Bale,2015)。当前探讨组蛋白修饰在PTSD 代际遗传中作用的研究较少，具有一定的研究潜力和价值。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "总的说来，研究者一般利用较为成熟的PTSD 啮齿动物模型研究PTSD样动物体内的组蛋白修饰水平变化，这些变化存在组织特异性，研究的组织则主要集中在杏仁核、海马体和前额皮质脑区。不同的研究间存在一些共通点，但是更多的是较大的异质性，组蛋白修饰的多样性、灵活性和实验条件的局限性都使得想要研究PTSD相关组蛋白修饰及其相关的神经生物学机制变得困难，而想要将PTSD 动物模型的结果应用到人类临床研究中则有更长的路要走。因此，利用PTSD 啮齿动物模型研究其中的组蛋白修饰机制在未来一段时间内还将是主流手段。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "王维，孟智启，石放雄.(2012).组蛋白修饰及其生物学效应．遗传,34(07),19-27.   \n甄艳，施季森.(2012).组蛋白翻译后修饰技术研究进展．生物学杂志,29(02),73-76.   \nAfifi,T.O.,Asmundson, G.J.G.,Taylor,S.,& Jang,K.L. (2010).The role of genes and environment on trauma exposure and postraumatic stress disorder symptoms: A review of twin studies. Clinical Psychology Review, 30(1),101-112.   \nAhmed，M.，Alzoubi, K.H.，& Khabour,O.F.(2020).Vitamin E prevents the cognitive impairments in post-traumatic stress disorder rat model: Behavioral and molecular study. Psychopharmacology, 237(2), 599-607.doi:10.1007/s00213-019-05395-w   \nAlzoubi,K.H.,Al Subeh,Z.Y.,&Khabour,O.F. (20l9).Molecular targets for the interactive effectof etazolate during post-traumatic stress disorder: Role of oxidative stress,BDNF and histones.Behavioural Brain Research,369,Article 111930.doi:10.1016/j.bbr.2019.111930   \nAlzoubi,K.H.,Khabour,O.F.,& Ahmed,M.(2018).Pentoxifylline prevents post-traumatic stress disorder induced memory impairment. Brain Research Bulletin, 139, 263-268. doi:10.1016/j.brainresbull.2018.03.009   \nAmerican Psychiatric Association. (20l3). Diagnostic and statistical manual of mental disorders (5th ed.). https://doi.org/10.1176/appi.books.9780890425596.   \nBam,M., Yang,X.,Zhou,J.,Ginsberg,J.P.,Leyden,Q.,Nagarkati,P.S.,&Nagarkati,M. (2016a).Evidence for epigenetic regulation of pro-inflammatory cytokines, Interleukin-12 and Interferon gamma, in peripheral blood mononuclear cells from PTSD patients. Journal of Neuroimmune Pharmacology, 11(1),168-181. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1007/s11481-015-9643-8 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Bam,M., Yang,X.,Zumbrun,E.E.,Zhong,Y.,Zhou,J., Ginsberg,J.P.,..Nagarkati,M. (2016b).Dysregulated immune system networks in war veterans with PTSD is an outcome of altered miRNA expresion and DNA methylation. Scientific Reports, 6,Article 31209. doi:10.1038/srep31209   \nBeery,A. K. (2O18). Inclusion of females does not increase variability in rodent research studies. Current Opinion in Behavioral Sciences,23,143-149.doi:10.1016/j.cobeha.2018.06.016   \nBenjet, C.,Bromet,E., Karam,E.G.,Kessler,R.C.,McLaughlin,K.A.,Rusci,A.M.,..Koenen,K.C.(2016). The epidemiology of traumatic event exposure worldwide: results from the World Mental Health Survey Consortium. Psychological Medicine, 46(2),327-343. doi:10.1017/s0033291715001981   \nBiel,M.,Wascholowski, V.,& Giannis,A. (20o5). Epigenetics-an epicenter of gene regulation: Histones and histone-modifyingenzymes. Angewandte Chemie-international Edition, 44(21)， 3186-3216. doi:10.1002/anie.200461346   \nBlouin,A.M.,Silivan,S.E.,Joseph,N.F.,& Miler, C.A.(16).The potentialofepigeneics instress-enanced fear learning models of PTSD.Learning & Memory, 23(10), 576-586. doi:10.1101/lm.040485.115   \nBredy，T.W.,Wu,H., Crego,C., Zellhoefer,J.,Sun, Y.E.,& Barad,M. (20o7). Histone modifications around individual BDNF gene promoters in prefrontal cortex are associated with extinction of conditioned fear. Learning & Memory, 14(4),268-276. doi:10.1101/lm.500907   \nBreslau,N., Kessler,R.C.，Chilcoat,H.D.,Schultz,L.R., Davis,G.C.,& Andreski,P.(1998).Traumaand posttraumatic stress disorder in the community: The 1996 Detroit Area Survey of Trauma. Archives of General Psychiatry, 55(7),626-632. doi:10.1001/archpsyc.55.7.626   \nBritton,L.M.， Gonzales-Cope,M.， Zee,B. M.，& Garcia,B.A. (2011).Breaking the histone code with quantitative mass spectrometry. Expert Review of Proteomics, 8(5), 631-643. doi:10.1586/epr.11.47   \nBrownell,J.E.,Zhou,J.,Ranali,T.,Kobayashi,R.,Edmondson,D.G.,Roth,S.Y.,&Alis,C.D.(1996). Tetrahymena histone acetyltransferase A: A homolog to yeast Gcn5p linking histone acetylation to gene activation. Cell, 84(6),843-851. doi:10.1016/s0092-8674(00)81063-6   \nChaouloff,F. (20l3). Social stress models in depression research: What do they tell us? Celland TissueResearch, 354(1),179-190. doi:10.1007/s00441-013-1606-x   \nConrad,D.，Wilker,S.，Schneider，A.，Karabatsiakis,A.,Pfeiffer,A.，Kolassa,S.，.Kolassa,I.T.(2018). Integrated genetic, epigenetic, and gene set enrichment analyses identify NOTCH as a potential mediator for PTSD risk after trauma: Results from two independent African cohorts. Psychophysiology，Article e13288. doi:10.111/psyp.13288   \nDudek,K. A.,Dion-Albert,L,Lebel,M.,LeClair,K.,Labrecque,S.,Tuck,E... Menard,C. (202O).Molecular adaptations of the blood-brain barrier promote stress resilience vs. depression. Proceedings of the National Academy of Sciencesof the United Statesof America， 117(6), 3326-3336. doi:10.1073/pnas.1914655117   \nFairlie,D.P.,& Sweet, M. J. (2012). HDACs and their inhibitors in immunology: Teaching anticancer drugs new ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "tricks.Immunology and Cell Biology, 90(1),3-5.doi:10.1038/icb.2011.105 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Fani,N.,Michopoulos,V.,vanRooij,S.J.H.,Clendinen,C.,Hardy,R.A.,Jovanovic,T...Stevens,J.S.(019). Structural connectivity and risk for anhedonia after trauma: A prospective study and replication. Journal ofPsychiatric Research,116,34-41.doi:10.1016/j.jpsychires.2019.05.009 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Frewen,P.A., Dozois,D.J.A.,& Lanius,R.A. (2012).Assessment of anhedonia in psychological trauma: Psychometric and neuroimaging perspectives. European Journal of Psychotraumatology,3, Article 8587. doi:10.3402/ejpt.v3i0.8587   \nHa,M.,& Kim, V.N. (2014). Regulation of microRNA biogenesis. Nature Reviews Molecular CellBiology,15(8), 509-524.   \nHammamieh，R.,，Chakraborty，N.，Gautam，A.，Muhie，S.，Yang，R.，Donohue，D.，... JettM.(2017). Whole-genome DNA methylation status associated with clinical PTSD measures of OIF/OEF veterans. Translational Psychiatry,7(7),Article e1169. doi:10.1038/tp.2017.129   \nHawasli,A.H.,Benavides,D.R.,Nguyen,C.,Kansy,J.W.,Hayashi,K.,Chambon,P...Bibb,J.A.(2007). Cyclin-dependent kinase 5 governs learning and synaptic plasticity via control of NMDAR degradation. Nature Neuroscience,10(7), 880-886. doi:10.1038/nn1914   \nHeinzelmann,M.,& Gill,J. (20l3). Epigenetic mechanisms shape the biological response to trauma and risk for PTSD:A critical review.Nursing Researchand Practice, 2013, Article 417010. doi:10.1155/2013/417010   \nJansen,K.A., Sidoli, S.,& Garcia,B.A. (2O17). Recent achievements in characterizing the histone code and approaches to integrating epigenomics and systems biology. In A. K. Shukla (Ed.)，Methods in Enzymology(Vol. 586,pp.359-378).Proteomics inBiology,PtB.   \nKarch,K.R.,Denizio,J.E.,Black,B.E,& Garcia,B.A.(2Ol3).Identificationandinterrogation of combinatorial histone modifications.Frontiers in Genetics,4,Article 264. doi:10.3389/fgene.2013.00264   \nKashdan,T.B.,Elhai,J.D.,&Frueh,B.C.(2Oo6).Anhedoniaand emotional numbing incombat veterans with PTSD.Behaviour Research and Therapy, 44(3),457-467. doi:10.1016/j.brat.2005.03.001   \nKimura,H. (20l3). Histone modifications for human epigenome analysis. Journal of Human Genetics， 58(7), 439-445. doi:10.1038/jhg.2013.66   \nKoenen, K. C., Ratanatharathorn, A., Ng,L., McLaughlin, K.A., Bromet,E.J., Stein, D.J... Kesser,R.C. (2017).Postraumatic stress disorder in the World Mental Health Surveys. Psychological Medicine, 47(13),2260-2274. doi:10.1017/S0033291717000708   \nKokras,N.,& Dala, C. (2O14).Sex diferences in animal models of psychiatric disorders. British Journal of Pharmacology, 171(20),4595-4619. doi:10.1111/bph.12710   \nKoshibu, K. Graff, J.,& Mansuy, I. M. (2011). Nuclear protein phosphatase-1: An epigenetic regulator of fear memoryandamygdala long-term potentiation. Neuroscience, 173, 30-36. doi:10.1016/j.neuroscience.2010.11.023   \nKrzyzewska,I.M.,Ensink,J.B.M.,Nawijn,L,Mul,A.N.,Koch,S.B., Venema,A...Henneman,P.(2018). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Genetic variant in CACNA1C is associated with PTSD in traumatized police oficers.European Journal ofHuman Genetics,26(2),247-257.doi:10.1038/s41431-017-0059-1 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Lepack,A. E.,Bagot,R.C.,Pena,C.J.,Loh, Y.E.,Farrelly,L. A.,Lu,Y.,..Maze,I. (2016). Aberrant H3.3 dynamics in NAc promote vulnerability to depressive-like behavior. Proceedings of the National Academy of Sciencesofthe United Statesof America， 113(44)， 12562-12567. doi:10.1073/pnas.1608270113   \nLi, G., Wang,L., Zhang,K.L., Cao, C. Q.,Cao, X.,Fang,R. J.,.. Zhang, X. Y. (2019). FKBP5 genotype linked to combined PTSD-depresson symptom in chinese earthquake survivors. Canadian Journal of Psychiatry-Revue Canadienne De Psychiatrie, 64(12), 863-871. doi:10.1177/0706743719870505   \nLiberzon,I.，Krstov，M.，& Young，E.A.(1997). Stress-restress:Effectson ACTH and fast feedback. Psychoneuroendocrinology,22(6),443-453. doi:10.1016/s0306-4530(97)00044-9   \nLiberzon,I.,Lopez, J.F.,Flagel, S.B., Vazquez, D. M.,& Young,E.A.(1999). Diferential regulation of hippocampal glucocorticoid receptors mRNA and fast feedback: Relevance to post-traumatic stress disorder. Journal of Neuroendocrinology, 11(1),11-17.   \nLogue,M. W.,Miler,M.W., Wolf,E.J.,Huber,B.R., Morrison,F.G.,Zhou,Z,..Verfaelle,M.(2020).An epigenome-wide association study of posttraumatic stress disorder in US veterans implicates several new DNA methylation loci. Clinical Epigenetics,12(1),Article 46. doi:10.1186/s13148-020-0820-0   \nLubin,F. D.，Roth, T.L.，& SweattJ. D.(2008). Epigenetic regulation of BDNF gene transcription in the consolidationoffearmemory.JournalofNeuroscience，28(42)， 10576-10586. doi:10.1523/jneurosci.1786-08.2008   \nMaddox，S. A., Kilaru， V.， Shin,J.， Jovanovic，T.，Almli, L. M.，Dias，B.G.，.. Smith，A. K. (2018). Estrogen-dependent association of HDAC4 with fear in female mice and women with PTSD. Molecular Psychiatry, 23(3), 658-665. doi:10.1038/mp.2016.250   \nMaddox,S.A., Wats,C.S.,Doyere, V.,& Schafe, G. E. (2013). A naturally-occuring histone acetyltransferase inhibitor derived from Garcinia indica impairs newly acquired and reactivated fear memories. PLoS One 8(1), Article e54463. doi:10.1371/jourmal.pone.0054463   \nMaddox,S.A., Wats, C.S.,& Schafe,G.E.(2013). p300/CBP histone acetyltransferase activity is required for newly acquired and reactivated fear memories in the lateral amygdala. Learning & Memory， 20(2), 109-119. doi:10.1101/lm.029157.112   \nMahan,A.L., Mou,L., Shah,N.,Hu,J.H.，Worley,P.F.,& Resler,K.J. (2012).Epigenetic modulationof Homerla transcription regulation in amygdala and hippocampus with pavlovian fear conditioning. Journal of Neuroscience,32(13), 4651-4659. doi:10.1523/jneurosci.3308-11.2012   \nMarinova,Z, Maercker,A.,GrunblattE., Wojdacz,T.K.,& Walitza,S. (20l7). A pilot investigationon DNA methylation modifications associated with complex posttraumatic symptoms in elderly traumatized in childhood.BMC Research Notes,10(1),Article 752. doi:10.1186/s13104-017-3082-y   \nMartin, C.,& Zhang, Y. (20o5). The diverse functions of histone lysine methylation. Nature Reviews Molecular Cell Biology, 6(11),838-849.doi:10.1038/nrm1761   \nMatsumoto,Y.，Morinobu,S.,Yamamoto，S.,Matsumoto,T.，Takei，S.,Fujita,Y.，& Yamawaki,S.(2013). Vorinostat ameliorates impaired fear extinction possibly via the hippocampal NMDA-CaMKI pathway inan animal model of posttraumatic stress disorder. Psychopharmacology， 229(1)， 51-62. doi:10.1007/s00213-013-3078-9   \nMehta,D., Klengel,T.,Conneely,K.N.，Smith,A.K.,Altmann,A.,Pace,T.W.，..Binder,E.B.(2013). Childhood maltreatment is associated with distinct genomic and epigenetic profiles in posttraumatic stress disorder. Proceedings of the National Academy of Sciences of the United States of America, 110(20),8302-8307. doi:10.1073/pnas.1217750110   \nMehta,D.,Pelzer,E.S.,Bruenig,D.,Lawford,B.,McLeay，S.,Moris,C.P.,..Voisey，J.(2019).DNA methylation from germline cels in veterans with PTSD. Journal of Psychiatric Research, 116,42-50. doi:10.1016/j.jpsychires.2019.06.001   \nMehta,N.D.，Stevens,J.S.,Li，Z.,Gillespie,C.F.，Fani,N.，Michopoulos,V.,& Felger,J.C. (2020). Inflammation,reward circuitry and symptoms of anhedonia and PTSD in trauma-exposed women. Social Cognitive and Affective Neuroscience,15(10),1046-1055. doi:10.1093/scan/nsz100   \nMonsey,M.S.,Ota,K.T.,Akingbade,I.F.,Hong,E.S.,&Schafe,G.E.(2011).Epigenetic alterations arecritical for fear memory consolidation and synaptic plasticity in the lateral amygdala. PLoS One, 6(5),Article e19958. doi:10.1371/journal.pone.0019958   \nMoser,D.A.,Paoloni-Giacobino,A.,Stenz,L,Adouan, W.,Manini,A.,Suardi,F...Schechter,D.S.(2015). BDNF methylation and maternal brain activity in a violence-related sample. PLoS One,10(12), Article e0143427. doi:10.1371/journal.pone.0143427   \nNemeroff,C.B.,Bremner,J.D.,Foa,E.B.,Mayberg,H.S.,North,C.S.,& Stein,M.B.(2006).Postraumatic stress disorder: A state-of-the-science review. Journal of Psychiatric Research， 40(1),1-21. doi:10.1016/j.jpsychires.2005.07.005   \nNievergelt, C.., Maihofer,A.X., Klengel,T.,Atkinson,E. G.,Chen,C.-Y,Choi,K. W...Koenen,K.C.(18, November). Largest genome-wide association study for PTSD identifies genetic risk loci in European andAfricanancestriesandimplicatesnovelbiologicalpathways.bioRvix.[Preprint.] doi:10.1101/458562   \nOki,M., Aihara,H.,& Ito,T.(207).Role of histone phosphorylation inchromatindynamics and its implications in diseases.Sub-cellular Biochemistry,41,319-336.   \nOlson,E.A.,Kaiser,R.H.,Pizzagali,D.A.,Rauch,S.L.,&Rosso,I. M. (2ol8).Anhedonia in trauma-exposed individuals: Functional connectivity and decision-making corelates. Biological Psychiatry-Cognitive Neuroscience and Neuroimaging,3(11), 959-967. doi:10.1016/j.bpsc.2017.10.008   \nParade,S.H.,Novick,A. M.,Parent,J.,Seifer,R.,Klaver,S.J., Marsit,C.J.,.. Tyrka,A.R. (2017).Stress exposure and psychopathology alter methylation of the serotonin receptor 2A (HTR2A） gene in preschoolers.Development and Psychopathology,29(5),1619-1626. doi:10.1017/s0954579417001274   \nPathak,S.S., Maitra, S., Chakravarty,S., & Kumar,A. (2017). Histone lysine demethylases of JMJD2 or KDM4 family are important epigenetic regulators in reward circuitry in the etiopathology of depression Neuropsychopharmacology, 42(4), 854-863. doi:10.1038/npp.2016.231 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Pickart,C.M.(20ol).Mechanisms underlyingubiquitination.Annual Review of Biochemistry，70,503-533. doi:10.1146/annurev.biochem.70.1.503 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Prendergast,B.J.,Onishi,K.G.,& Zucker,I. (2O14).Female mice liberated for inclusion in neuroscience and biomedicalresearch.Neuroscience and Biobehavioral Reviews, 40, 1-5. doi:10.1016/j.neubiorev.2014.01.001   \nRagu Varman,D.,& Rajan,K.E. (2O15).Environmental enrichment reduces anxiety by diferentially activating serotonergic and Neuropeptide Y (NPY)-ergic system in Indian field mouse (Mus booduga): An animal modelofpost-Traumaticstressdisorder.PLoSOne,10(5)， Articlee0127945. doi:10.1371/journal.pone.0127945   \nRamzan,F.,Creighton,S.D.,Hall,M.，Baumbach,J.，Wahdan,M.，Poulson,S.J.,.. Zovkic,I.B.(2020). Sex-specific effects of the histone variant H2A.Z on fear memory, stress-enhanced fear learning and hypersensitivity to pain.Scientific Reports,10(1),Article 14331. doi:10.1038/s41598-020-71229-x   \nRei,D.，Mason, X.， Seo,J.，Graff,J.，Rudenko，A.，Wang,J....Tsai,L.H. (2015). Basolateral amygdala bidirectionally modulates stress-induced hippocampal learning and memory deficits through a p25/Cdk5-dependent pathway. Proceedings of the National Academy of Sciences of the United States of America,112(23),7291-7296. doi:10.1073/pnas.1415845112   \nRisbrough, V.B., Glynn,L. M.,Davis,E.P. Sandman, C. A.,Obenaus,A.,Stern, H.S.,..Baker,D.G. (2018). Does anhedonia presage increased risk of postraumatic stress disorder? : Adolescent anhedonia and postraumaticdisorders. CurrentTopicsin BehavioralNeurosciences， 38， 249-265. doi:10.1007/7854_2018_51   \nRodgers, A. B., & Bale,T.L. (2015). Germ cellorigins ofpostraumatic stress disorder risk: The transgenerational impactofparentalstressexperience.BiologicalPsychiatry,78(5), 307-314. doi:10.1016/j.biopsych.2015.03.018   \nSase,A.S.,Lombroso,S.I.,Santhumayor,B.A., Wood,R.R.,Lim, C.J.,Neve,R.L.,& Heler,E.A. (2019). Sex-specific regulation of fear memory by targeted epigenetic editing of Cdk5. Biological Psychiatry, 85(8), 623-634. doi:10.1016/j.biopsych.2018.11.022   \nSchechter,D.S.,Moser,D.A.,Pointet, V.C.,Aue,T.,Stenz,L.,Paoloni-Giacobino,A.,..Dayer,A.G.(2017). The association of serotonin receptor 3A methylation with maternal violence exposure, neural activity, and child aggresson. Behavioural brain research,325(Pt B),268-277. doi:10.1016/j.bbr.2016.10.009   \nSchnur, P.P.,Lunney,C.A.,Bovin,M.J.,&Marx,B.P.(2oo9).Postraumatic stress disorder and qualityof life: Extension of findings to veterans of the wars in Iraq and Afghanistan. Clinical Psychology Review, 29(8), 727-735.   \nSerpeloni,F.,Radtke,K.M.,Hecker,T.,Sill,J., Vukojevic,V.,de Asss,S.G.,..Natt,D. (209).Doesprenatal stress shape postnatal resilience? - An epigenome-wide study on violence and mental health in humans. Frontiers in Genetics,10,Article 269. doi:10.3389/fgene.2019.00269   \nSiddiqui,S.A.,Singh,S.,Ranjan,V., Ugale,R. Saha,S.,&Prakash,A.(2O17).Enhanced histone acetylation in the infralimbic prefrontal cortex is associated with fear extinction. Celular and Molecular Neurobiology, 37(7),1287-1301. doi:10.1007/s10571-017-0464-6   \nSiddiqui, S.A., Singh, S., Ugale,R., Ranjan, V., Kanojia,R., Saha,S.,..Prakash, A. (2019). Regulation of HDAC1 and HDAC2 during consolidation and extinction of fear memory. Brain Research Bulltin, 150, 86-101. doi:10.1016/j.brainresbull.2019.05.011   \nSingh,S.,Siddiqui,S.A.,Tripathy,S.,Kumar,S.,Saha,S.,Ugale,R.,..Prakash,A. (2018).Decreased levelof histone acetylation in the infralimbic prefrontal cortex following immediate extinction may result in deficitofextinction memory. BrainResearch Bulletin, 140, 355-364. doi:10.1016/j.brainresbull.2018.06.004   \nSolanki, N.,Alkadhi,I., Atrooz,F. Patki, G.,& Salim,S. (2015). Grape powder prevents cognitive,behavioral, and biochemical impairments in a rat model of postraumatic stress disorder. Nutrition Research,35(1), 65-75. doi:10.1016/j.nutres.2014.11.008   \nStrahl,B.D.,& Alis,C.D. (2ooo).The language of covalent histone modifications.Nature,403(6765),41-45. doi:10.1038/47412   \nSu,S.C.,Rudenko,A.,Cho,S.,& Tsai,L.H. (2013).Forebrain-specific deletion of Cdk5 in pyramidal neurons results in mania-like behavior and cognitive impairment. Neurobiology of Learning and Memory， 105, 54-62. doi:10.1016/j.nlm.2013.06.016   \nTakei，S.，Morinobu， S.， Yamamoto，S.， Fuchikami, M.， Matsumoto,T.，& Yamawaki, S.(2011).Enhanced hippocampal BDNF/TrkB signaling in response to fear conditioning in an animal model of posttraumatic stress disorder. Journal of Psychiatric Research,45(4), 460-468.doi:10.1016/j.jpsychires.2010.08.009   \nTaunton,J., Hassig, C.A.,& Schreiber, S.L. (1996).A mammalian histone deacetylase related to the yeast transcriptional regulator Rpd3p. Science,272(5260), 408-411. doi:10.1126/science.272.5260.408   \nUddin,M., Chang, S.-C., Zhang, C.,Ressler, K., Mercer, K.B., Galea,S.，.. Aiello,A.E. (2013). Adcyaplrl genotype， postraumatic stress disorder， and depression among women exposed to childhood maltreatment. Depression and Anxiety 30(3),251-258.   \nVieira,P.A.,Lovelace,J.W.,Corches,A.，Rashid,A.J., Josselyn,S.A.，& Korzus,E. (2014).Prefrontal consolidation supports the attainment of fear memory accuracy. Learning & Memory， 21(8), 394-405. doi:10.1101/Im.036087.114   \nWang,L.,Cao,C.，Wang,R., Zhang, J.，& Li, Z. (2012). The dimensionality of PTSD symptoms and their relationship to health-related quality of life in Chinese earthquake survivors. Journal of Anxiety Disorders, 26(7),711-718.   \nWidom, C. S.(1999).Postraumatic stress disorder in abused and neglected children grown up. The American Journal of Psychiatry,156(8),1223-1229. doi:10.1176/ajp.156.8.1223   \nWilkinson,M.B., XiaoG.,Kumar,A.,LaPlant, Q.,Renthal,W.,Sikder,D.,..Nestler,E.J. (2o9). Imipramine treatment and resiliency exhibit similar chromatin regulation in the mouse nucleus accumbens in depression models. Journal of Neuroscience,29(24),7820-7832.doi:10.1523/jneurosci.0932-09.2009   \nWilson, C.B.,McLaughlin,L.D.,Ebenezer,P.J.,Nair,A.R.,&Francis,J. (2014). Valproicacid effects inthe hippocampus and prefrontal cortex in an animal model of post-traumatic stress disorder. Behavioural ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Brain Research,268,72-80.doi:10.1016/j.bbr.2014.03.029 ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Yehuda,R., Hoge,C.W., McFarlane,A.C., Vermeten,E.,Lanius,R.A., Nievergelt, C.M.,.. Hyman, S.E. (2015). Post-traumatic stress disorder. Nature Reviews Disease Primers，1，Article 15057. https://doi.org/10.1038/nrdp.2015.57   \nYun,M.,Wu,J.，Workman,J.L.,&Li,B.(2011).Readers of histone modifications.Cell Research,21(4), 564-578.doi:10.1038/cr.2011.42   \nZhang,K.,Qu,S., Chang,S.,Li,G., Cao,C.,Fang,K...Wang,J. (2017).An overview of postraumatic stress disorder genetic studies by analyzing and integrating genetic data into genetic database PTSDgene. Neuroscience and Biobehavioral Reviews,83,647-656.doi:10.1016/j.neubiorev.2017.08.021   \nZhao,M.,Wang,W.,Jiang,Z.,Zhu,Z.,Liu,D.,& Pan,F.(202O).Long-term effect of post-traumatic stress in adolescence on dendrite development and H3K9me2/BDNF expresson in male rat hippocampus and prefrontalcortex. FrontiersinCellandDevelopmentalBiology，8， Article682. doi:10.3389/fcell.2020.00682   \nZhong,P.,Liu,X.,Zhang,Z.,Hu,Y.,Liu,S.J.,Lezama-Ruiz,M.,..Liu, Q.S.(2014).Cyclin-dependent kinase5 in the ventral tegmental area regulates depression-related behaviors.Journal of Neuroscience, 34(18), 6352-6366. doi:10.1523/jneurosci.3673-13.2014   \nZhou,V.W.,Goren,A.,& Bernstein,B.E.(2Ol1).Charting histone modifications and the functional organization of mammalian genomes. Nature Reviews Genetics, 12(1),7-18. doi:10.1038/nrg2905   \nZovkic,I. B.,Meadows,J.P.,Kaas,G.A.&Swea,J.D. (23). Interindividual variability instresssusceptibility: Arole for epigenetic mechanismsin PTSD. Frontiersin Psychiatry， 4， Article 60. doi:10.3389/fpsyt.2013.00060 ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The mechanisms of histone modification in post-traumatic stress disorder ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yingqian; ZHAO Guangyi; HAN Yuwei; ZHANG Jingyi; CAO Chengqi; WANG Li; ZHANG Kunlin ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "(CAS KeyLaboratoryofMental Health,InstituteofPsychology,Chinese AcademyofSciences,Beijing10olo1,China) (Department of Psychology, University of Chinese Academy of Sciences,Beijing 10oo49,China) ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Post-traumatic stress disorder (PTSD) is a mental disorder with complex etiology, which mostly occurs after severe traumatic events. The genesis and development of PTSD involves complex interactions between environmental triggers and genetic susceptibility, resulting in great individual differences. As a discipline investigating the changes in gene expression regulated by environment factors, the role of epigenetics in PTSD is attracting more and more attntion in recent years. Histone modification, as one of the epigenetic mechanisms, plays an important role in the biological pathways for PTSD. Since histone modification can be regulated by a variety of enzymes，its flexible reversibility and elaborate regulation provides the possibility and convenience for the corresponding drug development.Therefore，in-depth exploration of the histone modification for the clinical treatment and drug development of PTSD is of great significance. Current studies on histone modification in PTSD mainly use animal models, with few clinical studies, focusing on histone H3 and H4 acetylation. In addition,consistent with previous findings,the changes in histone modification mostly occurred in prefrontal cortex, hippocampus, and amygdala, involved in the regulation of related pathways including the immune system，serotonin system,and the neuropeptide Y system. Current findings about histone modification in PTSD showed great heterogeneity, future studies should adopt more consistent and practical methods of analysis and reporting,to maximize study impact. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Key words: Post-traumatic stress disorder, Histone modification, Rodent model of PTSD, Drug development ",
+        "page_idx": 28
+    }
+]

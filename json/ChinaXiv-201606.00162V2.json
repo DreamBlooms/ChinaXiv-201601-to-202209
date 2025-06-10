@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "Quantum effects in thermal Fock state for mesoscopic left-handed transmission lines ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shun-Cai Zhao,t Hong-Wei Guo, Xin Li, and Ping Yang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Departmentofsicsacltyfiece,ngesityficedeologon (Dated: June 26,2016) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A quantization scheme for an ideal loss-less mesoscopic left-handed transmisson lines (LH TL) unit cell equivalent circuit is proposed and the fluctuations of the current and the voltage of the LH TL equivalent circuit in thermal Fock space are studied by thermal field dynamics (TFD) theory. In thermal Fock state the negative refractive index (NRI) of the LH TL unit cellequivalent circuit is discussed.The results indicate that the quantum fluctuations show the linear dependent of NRI at some temperature,while the frequency and the thermal photons are destructive dependent of NRI within the microwave frequency band.When the unit cell equivalent circuit operates at the rising temperature,the NRI is decreasing.The results demonstrates the ideal loss-less mesoscopic LH TL equivalent circuit operating at a lower frequency,temperature and with little thermal photons is more conducive to NRI,which coincides with the macroscopic real LH TL. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The theoretical speculation of negative refractive index materials (NRM） proposed by V. Veselago[1] in 1968, in which several fundamental phenomena occurring in or in association with NRM were predicted, such as the negative Goos-Hänchen shift[2]，amplification of evanescent waves[3],reversals of both Doppler shift and Cerenkov radiation[1], sub-wavelength focusing[4] and so on. Some typical approaches can be summarized as artificial structures such as metamaterials[5-7] and photonic crystals[8-1O], chiral materials[11] and photonic resonant media[12,13]. Although very exciting from a physics point of view, the artificial structures seem of little practical interest for engineering applications because of these resonant structures exhibiting high loss and narrow bandwidth consequently. Due to the weaknesses of resonanttype structures,three groups almost simultaneously in June 2oo2 introduced a transmission line（TL）approach of NRM: Eleftheriades et. al[14, 15], Oliner[16] and Caloz et.al.[17, 18]. LH TL initially the nonresonant-type one, is perhaps one of the most representative and potential candidates due to its low loss,broad operating frequency band,as well as planar configuration[19,2O]，which is often related with easy fabrication for negative refractive index (NRI) applications in a suite of novel guidedwave[21]，radiated-wave[22],and refracted-wave devices and structures[23, 24]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,with the rapid development of nanotechnology and nanoelectronics [25],the integrated circuits and components have minimized towards atomic-scale dimensions26,27lin the last a few decades.When the scaleof fabricatedelectric materials reachedto a characteristic dimension,namely, Fermi wavelength,quantum mechanical properties of mesoscopic physics[28, 29] become important while the application of classical mechanics fails. The miniaturization of applications would be undoubtedly a persistent trend for LH TL,and quantum properties maybe its future challenge.So it's significance to investigate the quantum properties before the applications of LH TL approaching to nanometer scale. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbd194556b12c2cdaa00694d33b36cab584723ea8a2057535f8befa012454b76.jpg",
+        "img_caption": [
+            "FIG.1. (a)Equivalent circuit model for the hypothetical uniform Left-handed Transmission Line,(b)Unit cell equivalent circuit model for a hypothetical uniform Left-handed Transmission Line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thus, from the point of against this challenge，this paper exploits the dependence of quantum properties of thermal noise,the quantum fluctuations of current and the frequency of LH TL on NRI.In Section 2,we quantize the non-time-dependent Hamiltonian for the ideal non-dissipative LH TL equivalent circuit via the analogy with harmonic oscillator.In Section 3,we derive the NRI for this LH TL circuit via the quantum fluctuations of current.And the quantum effect was then discussed by the mentioned results. Finally, in Section 4,we provide the summary and conclusion by making use of the result obtained in previous sections. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.QUANTIZATIONOF THEUNITCELL EQUIVALENTCIRCUITMODELFORLHTL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fundamental characteristics of the LH TL of Fig 1.(a) are straightforwardly derived by elementary TL theory. It consists of loss-less per-unit equivalent circuit models (Fig 1.(b)) of the series-C/shunt-L prototype associated with NRI. The per-unit-length inductance $L _ { l }$ (H·m） and capacitance $C _ { l }$ (F:m)are $L _ { l } = L _ { l } ^ { \\prime } \\cdot \\Delta _ { z }$ and （204号 $C _ { l } = C _ { l } ^ { \\prime } \\cdot \\Delta _ { z }$ ，respectively. So we have the impedances $Z = 1 / i \\omega C _ { l }$ $( \\Omega / m )$ and admittances $Y = 1 / i \\omega L _ { l }$ (S/m). According to the Fig.1(b),the complex propagation constant $\\gamma$ ，the propagation constant $\\beta$ ，the characteristic impedance $Z _ { l }$ , the phase velocity $v _ { p }$ ， and the group velocity $v _ { g }$ of the unit cell equivalent circuit model for LH TL are given by[30] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\gamma = i \\beta = \\sqrt { Z Y } = \\cfrac { 1 } { i \\omega \\sqrt { C _ { l } L _ { l } } } = - i \\frac { 1 } { \\omega \\sqrt { C _ { l } L _ { l } } } . } \\\\ { \\beta = - \\cfrac { 1 } { \\omega \\sqrt { C _ { l } L _ { l } } } < 0 , } \\\\ { Z _ { l } = \\sqrt { \\cfrac { L _ { l } } { C _ { l } } } , } \\\\ { v _ { p } = \\cfrac { \\omega } { \\beta } = - \\omega ^ { 2 } \\sqrt { C _ { l } L _ { l } } < 0 , } \\\\ { v _ { g } = ( \\frac { \\partial \\beta } { \\partial \\omega } ) ^ { - 1 } = \\omega ^ { 2 } \\sqrt { C _ { l } L _ { l } } > 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "And the equivalent constitutive parameters for the unit cell equivalent circuit model in Fig.1(b) are[30] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\mu ( \\omega ) = - \\frac { 1 } { \\omega ^ { 2 } C _ { l } } } \\\\ { \\displaystyle \\epsilon ( \\omega ) = - \\frac { 1 } { \\omega ^ { 2 } L _ { l } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to Kirchhoff's law, the classical differential equations of motion of Fig.1(b) are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { d u ( z ) } { d z } + \\frac { j ( z ) } { i \\omega C _ { l } } = 0 } \\\\ { \\frac { d j ( z ) } { d z } + \\frac { u ( z ) } { i \\omega L _ { l } } = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $u$ and $j$ are the position-dependent voltage and currents $u = u ( z )$ and $j = j ( z )$ along the line,respectively. Then their corresponding second order partial differential equations are obtained as follows, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { d ^ { 2 } u ( z ) } { d z ^ { 2 } } = \\frac { 1 } { - \\omega ^ { 2 } C _ { l } L _ { l } } u ( z ) = - \\gamma ^ { 2 } u ( z ) } \\\\ { \\frac { d ^ { 2 } j ( z ) } { d z ^ { 2 } } = \\frac { 1 } { - \\omega ^ { 2 } C _ { l } L _ { l } } j ( z ) = - \\gamma ^ { 2 } j ( z ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\gamma$ is the complex propagation constant.And the walking-wave solutions to Eq(4) and Eq(5) reaches as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { u ( z ) = A \\exp ( - i \\gamma z ) + A ^ { * } \\exp ( i \\gamma z ) } } \\\\ { { j ( z ) = B \\exp ( - i \\gamma z ) + B ^ { * } \\exp ( i \\gamma z ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in which $A ^ { * } ~ ( B ^ { * } )$ are the conjugate complexes of A (B). In order to exploit quantum effects of mesoscopic LH TL equivalent circuit model,we adopt the quantization method similar to Louisell [31]. In the given unit-length, i.e. ${ \\mathcal { z } } _ { 0 } = m \\lambda$ of Fig.1(b),the Hamiltonian can be written via the characteristic impedance relation, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { H = \\frac { 1 } { 2 } \\int _ { 0 } ^ { z _ { 0 } } \\bigl ( L _ { l } j ^ { 2 } ( z ) + C _ { l } u ^ { 2 } ( z ) \\bigr ) d z } } \\\\ { \\displaystyle { \\quad = \\int _ { 0 } ^ { z _ { 0 } } L _ { l } j ^ { 2 } ( z ) d z } } \\\\ { \\displaystyle { \\quad = 2 L _ { l } A ^ { * } A z _ { 0 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { A = a \\sqrt { \\frac { \\hbar \\omega } { 2 L _ { l } z _ { 0 } } } , } \\\\ { A ^ { * } = a ^ { * } \\sqrt { \\frac { \\hbar \\omega } { 2 L _ { l } z _ { 0 } } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assume that the following equation was established with the energy units $\\hbar \\omega$ . According to the canonical quantization principle,we can quantize the system by operators $\\hat { q }$ and $\\hat { p }$ ，which satisfy the commutation relation $[ \\hat { q } , \\hat { p } ] =$ （204 $\\mathrm { i } \\hbar$ .Then we can define the annihilation and creation operator $\\hat { a }$ and $\\hat { a } ^ { + }$ by the relations ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\hat { a } = \\displaystyle \\frac { 1 } { \\sqrt { 2 \\hbar \\omega } } ( \\omega \\hat { q } + i \\hat { p } ) , } \\\\ { \\hat { a } ^ { \\dagger } = \\displaystyle \\frac { 1 } { \\sqrt { 2 \\hbar \\omega } } ( \\omega \\hat { q } - i \\hat { p } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thus the quantum Hamiltonian of Fig.1(b) can be rewrit ten as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { H } = \\hbar \\omega \\hat { a } ^ { \\dagger } \\hat { a } = \\frac { 1 } { 2 } ( \\omega ^ { 2 } \\hat { q } ^ { 2 } + \\hat { p } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which is as a quantum harmonic oscillator by imposing the quantizing condition $[ \\hat { q } , \\hat { p } ] = \\mathrm { i } \\hbar$ .Where the variables $\\hat { q }$ stand for the electric charges instead of the conventional “coordinates”,while their conjugation variables $\\hat { p }$ represent the electric currents instead of the conventional \"momenta”. Thus the current in the ideal non-dissipative unit cell equivalent circuit model for the LH TL can be quantized as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { j } ( z ) = \\sqrt { \\frac { \\hbar } { 4 \\pi m L _ { l } ^ { 2 } C _ { l } } } [ \\hat { a } \\exp ( \\frac { i } { \\omega \\sqrt { C _ { l } L _ { l } } } z ) + \\hat { a } ^ { \\dagger } \\exp ( - \\frac { i } { \\omega \\sqrt { C _ { l } L _ { l } } } z ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the similar way, the quantum voltage operator of unit cell equivalent circuit model for this LH TL can be ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "obtained as, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { u } ( z ) = \\sqrt { \\frac { \\hbar } { 4 \\pi m L _ { l } C _ { l } ^ { 2 } } } [ \\hat { a } \\exp ( \\frac { i } { \\omega \\sqrt { C _ { l } L _ { l } } } z ) + \\hat { a } ^ { \\dagger } \\exp ( - \\frac { i } { \\omega \\sqrt { C _ { l } L _ { l } } } z ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. THE DEPENDENCE OF NRION QUANTUMFLUCTUATIONSIN THERMAL FOCKSPACE ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The thermal noise shouldn't be ignore when the LH TL operates at some temperature.In the following we exploit NRI dependent of the quantum fluctuations. As for the equilibrium situation,the so-called thermo field dynamics (TFD) extends the usual quantum field theory to the one at finite temperature[32]. In TFD，the tilde space accompanying with the Hilbert space,and the states and operators in the Hilbert space will find the corresponding objects in the tilde space.In this direct product space the degrees of freedom are double as the Hilbert space.The thermal degrees of freedom are introduced by doubling the degrees of freedom through tilde conjugation,and the tilde operators commute with the non-tilde operators in the tilde space[33]. Thus the creation and annihilation operators $\\hat { a } ^ { \\dagger }$ ， $\\hat { a }$ associate with their tilde operators $\\tilde { \\hat { a } } ^ { \\dagger }$ ， $\\tilde { \\hat { a } }$ according the rules: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { [ \\tilde { \\hat { a } } , \\tilde { \\hat { a } } ^ { \\dagger } ] = 1 , } \\\\ & { } & { [ \\tilde { \\hat { a } } , \\hat { a } ] = [ \\tilde { \\hat { a } } , \\hat { a } ^ { \\dagger } ] = [ \\hat { a } , \\tilde { \\hat { a } } ^ { \\dagger } ] = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The number operators in the Hilbert space and tilde space are read as, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\hat { n } = \\hat { a } ^ { \\dagger } \\hat { a } , } \\\\ { \\tilde { \\hat { n } } = \\tilde { \\hat { a } } ^ { \\dagger } \\tilde { \\hat { a } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the direct product space the thermal Fock state at finite temperature can be built by the thermal Bogoliubov transformation[33] through the Fock state $| { \\hat { n } } { \\hat { n } } \\rangle =$ $| { \\hat { n } } \\rangle \\otimes | { \\tilde { \\hat { n } } } \\rangle$ at zero temperature: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\hat { n } \\tilde { \\hat { n } } \\rangle _ { T } = \\hat { T } ( \\beta ) | \\hat { n } \\tilde { \\hat { n } } \\rangle\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { T } ( \\beta )$ is a thermal unitary operator which is defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { T } ( \\beta ) = e x p [ - \\beta ( \\hat { a } \\tilde { \\hat { a } } - \\hat { a } ^ { \\dagger } \\tilde { \\hat { a } } ^ { \\dagger } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the parameter $\\beta$ is the thermal unitary operator relating the thermal photos $n _ { 0 }$ in the thermal vacuum state: $s i n h \\beta = n _ { 0 }$ . The thermal photos $n _ { 0 }$ and temperature $T$ are ruled by the Boltzmann distribution ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { 0 } = [ e x p ( \\hbar \\omega / k _ { B } T ) - 1 ] ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in which $\\omega$ ， $k _ { B }$ are the angular frequency of light field and the Boltzmann constant,respectively. The bosonic ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "operators in TFD can relate each other by the thermal Bogoliubov transformation as following, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\hat { T } ^ { \\dagger } ( \\beta ) \\hat { a } \\hat { T } ( \\beta ) = \\mu \\hat { a } + \\tau \\tilde { \\hat { a } } ^ { \\dagger } , } \\\\ & { } & { \\hat { T } ^ { \\dagger } ( \\beta ) \\hat { a } ^ { \\dagger } \\hat { T } ( \\beta ) = \\mu \\hat { a } ^ { \\dagger } + \\tau \\tilde { \\hat { a } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\scriptstyle \\mu = c o s h \\beta$ ， $\\scriptstyle { \\tau = s i n h \\beta }$ . Then from Eqs.(12) and (13), the average value of the current and the voltage in thermal Fock state can be calculated as, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { 1 } { \\tilde { j } ( z ) } = \\boldsymbol { r } \\sqrt { \\hat { a } \\hat { a } \\hat { \\boldsymbol { i } } \\hat { j } ( z ) } \\boldsymbol { i } \\hat { \\boldsymbol { n } } \\hat { \\boldsymbol { n } } ^ { \\dagger } , } \\\\ & { \\quad \\quad = \\sqrt { \\frac { h } { 4 \\pi m L _ { \\boldsymbol { i } } ^ { 2 } C ^ { 3 } L ^ { 2 } } } \\boldsymbol { r } \\langle \\hat { a } \\hat { \\boldsymbol { n } } | \\hat { a } \\rangle \\boldsymbol { i } \\hat { \\boldsymbol { n } } \\hat { \\boldsymbol { n } } \\rangle _ { \\boldsymbol { r } } \\exp ( \\frac { i } { \\omega \\sqrt { C _ { i } L _ { i } } } z ) } \\\\ & { \\quad \\quad \\quad + \\boldsymbol { r } \\langle \\hat { a } \\hat { \\boldsymbol { i } } | \\hat { a } | \\hat { \\boldsymbol { i } } \\rangle \\hat { \\boldsymbol { n } } \\hat { \\boldsymbol { n } } \\rangle \\exp ( \\frac { - i } { \\omega \\sqrt { C _ { i } L _ { i } } } z ) } \\\\ & { \\quad \\quad \\quad = \\sqrt { \\frac { h } { 4 \\pi m L _ { \\boldsymbol { i } } ^ { 2 } C ^ { 3 } L ^ { 4 } } } \\langle \\hat { a } \\hat { \\boldsymbol { n } } | \\hat { \\boldsymbol { r } } ^ { \\dagger } ( \\beta ) \\boldsymbol { i } \\rangle \\boldsymbol { i } \\hat { \\boldsymbol { n } } \\hat { \\boldsymbol { n } } \\rangle \\exp ( \\frac { i } { \\omega \\sqrt { C _ { i } L _ { i } } } z ) } \\\\ & { \\quad \\quad \\quad \\quad + \\boldsymbol { r } \\langle \\hat { a } \\hat { \\boldsymbol { i } } | \\hat { a } ^ { \\dagger } \\hat { \\boldsymbol { T } } ( \\beta ) | \\hat { \\boldsymbol { n } } \\hat { \\boldsymbol { n } } \\rangle \\exp ( \\frac { - i } { \\omega \\sqrt { C _ { i } L _ { i } } } z ) } \\\\ & { \\quad \\quad \\quad = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { \\hat { u } ( z ) } } } = _ { T } \\langle \\hat { n } \\tilde { \\hat { n } } | \\hat { u } ( z ) | \\hat { n } \\tilde { \\hat { n } } \\rangle _ { T } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then the quantum fluctuation of the current in the unit cell equivalent circuit model is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\frac { 1 } { \\mathrm { d } \\tau } \\frac { \\partial \\tau } { \\partial \\tau } } & { = \\frac { 1 } { \\mathrm { d } \\tau } \\frac { \\partial \\tau } { \\partial \\tau ^ { 2 } } - \\frac { \\partial \\tau } { \\partial \\tau ^ { 2 } } } \\\\ & { = \\frac { 1 } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 3 } } } \\\\ & { = \\frac { \\mathrm { d } \\tau } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 2 } } \\frac { \\partial \\tau } { \\partial \\tau ^ { 3 } } \\frac { \\partial \\tau } { \\partial \\tau ^ { 3 } } } \\\\ & { = \\frac { 1 } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 3 } } \\frac { \\partial \\tau } { \\partial \\tau ^ { 3 } } \\frac { \\partial \\tau } { \\partial \\tau ^ { 4 } } \\frac { \\partial \\tau } { \\partial \\tau ^ { 5 } } } \\\\ & { \\stackrel { ( a ) } { = } \\frac { 1 } { \\mathrm { d } \\tau ^ { 5 } \\mathrm { e x p } _ { i , j } ^ { ( a ) } \\frac { \\partial \\tau } { \\partial \\tau ^ { 5 } } - \\tau ^ { 3 } } + \\frac { \\partial \\tau } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 5 } \\mathrm { d } \\tau ^ { 6 } } \\frac { \\partial \\tau } { \\partial \\tau ^ { 5 } } } \\\\ & { = \\frac { 1 } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 2 } \\mathrm { d } \\tau ^ { 5 } } \\frac { \\partial \\tau ^ { 5 } } { \\partial \\tau ^ { 5 } \\mathrm { d } \\tau ^ { 5 } } } \\\\ & { = \\frac { 1 } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 2 } \\mathrm { d } \\tau ^ { 5 } } \\frac { \\partial \\tau ^ { 5 } } { \\partial \\tau ^ { 5 } } \\frac { \\partial \\tau ^ { 5 } } { \\partial \\tau ^ { 5 } } + \\frac { \\partial \\tau } { \\partial \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 5 } \\mathrm { d } \\tau ^ { 6 } } \\frac { \\partial \\tau ^ { 2 } } { \\partial \\tau ^ { 5 } } } \\\\ & { + \\frac { \\partial \\tau } { \\partial \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 2 } } \\frac { \\partial \\tau ^ { 5 } } { \\partial \\tau ^ { 5 } } \\frac { \\partial \\tau ^ { 6 } } { \\partial \\tau ^ { 6 } } } \\\\ & { + \\frac { \\partial \\tau } { \\partial \\tau ^ { 3 } } \\frac { \\partial \\tau ^ { 6 } } { \\partial \\tau ^ { 6 } } \\frac { \\partial \\tau ^ { 6 } } { \\partial \\tau ^ { 7 } } } \\\\ &  = \\frac { 1 } { \\mathrm { d } \\tau ^ { 3 } \\mathrm { d } \\tau ^ { 3 } / \\mathrm { d } \\tau ^ { 6 } } { \\partial \\tau ^ { 6 } } \\frac { \\partial \\tau ^ { 6 } }  \\partial \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the similar way, the quantum fluctuation of the voltage in the unit cell equivalent circuit model for LH TL is calculated as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { ( \\Delta \\hat { u } ) ^ { 2 } } } = \\frac { \\hbar } { 4 \\pi m L _ { l } C _ { l } ^ { 2 } } ( 1 + 2 n _ { 0 } ) ( 1 + 2 n )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Substituting Eq.(11) into Eq.(16) we can obtain ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { 1 + 2 n _ { 0 } = { \\displaystyle \\frac { \\exp { \\big ( \\frac { \\hbar \\omega } { 2 k _ { B } T } \\big ) } + \\exp { \\big ( - \\frac { \\hbar \\omega } { 2 k _ { B } T } \\big ) } } { \\exp { \\big ( \\frac { \\hbar \\omega } { 2 k _ { B } T } \\big ) } - \\exp { \\big ( - \\frac { \\hbar \\omega } { 2 k _ { B } T } \\big ) } } } } } \\\\ { { = c o t h ( \\frac { \\hbar \\omega } { 2 k _ { B } T } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then combining the characteristic parameters of the unit cell equivalent circuit model for LH TL in express $( 1 ) \\sim$ (3),Eq.(16) and Eq.(18),its constitutive parameter,i.e., the refractive index can be written as follows, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { r } = - \\frac { 2 z _ { 0 } Z _ { l } \\overline { { ( \\Delta \\hat { j } ) ^ { 2 } } } } { \\hbar \\omega ^ { 3 } ( 1 + 2 n ) c o t h ( \\frac { \\hbar \\omega } { 2 k _ { B } T } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IV. RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According Eq.(19), the refractive index of the unit cell equivalent circuit model for LH TL is dependent of the temperature,frequency,the number of photos,the characteristic impedance,the unit-length of the unit cell equivalent circuit model and the quantum fluctuation of the current.To understand these dependence intuitively, we plot the refractive index of the unit-length equivalent circuit model for LH TL dependent of the thermal number of photons in Fig.2, dependent of the diverse temperatures in Fig.3 and dependent of the frequencies in Fig.4 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/84ae43ba0399f9b2680fa52ac853a52d11bd12dcf3aba941d1ee76122afb9b37.jpg",
+        "img_caption": [
+            "FIG.2.Dependence of the refractive index $n _ { r }$ and the thermal number of photons $n$ under different quantum fluctuation of the current in the unit-length equivalent circuit model for LH TL. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The quantum fluctuation is the significant character of the mesoscopic hypothetical uniform LH TL,and the quantum fluctuation may play an important role in the refractive index. Fig.2 shows the dependence of the refractive index $n _ { r }$ and the thermal number of photons $n$ under different quantum fluctuation of the current with the condition of $Z _ { l } \\ = \\ 1 \\Omega / m$ ， $\\omega = 2 \\pi f , f = 1 0 0 G H z$ ， $T = 2 7 3 K$ .It reveals the quantum fluctuation of the current puts a positive impact on the NRI. The increasing fluctuation of the current incurs the increasing NRI values. The curves in Fig.2 also display the NRI decreases with the increasing thermal photons at the low light level. However,The inset part in Fig.2 demonstrates that the increasing fluctuation of the current influences the NRI triflingly when the thermal photons $n > 5$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We must examine the temperature $T$ influences on the NRI of the mesoscopic unit-length equivalent circuit model for LH TL. If we replace circuit components in theunit-length equivalent circuit model for LH TL,the characteristic impedance can be set $Z _ { l } = 5 0 \\Omega / m$ with the current fluctuation $( \\Delta { \\hat { j } } ) ^ { 2 } = 5$ in Fig.3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba3860c0bc7004f9ebf14ebc2b3ef19478d1c01b04201e565664d8415ab9ee3a.jpg",
+        "img_caption": [
+            "FIG.3.Dependence of the refractive index $n _ { r }$ and the temperature $T$ under different thermal photons in the unit-length equivalent circuit model for LH TL. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the destructive dependence of the temperature $T$ and the refractive index $n _ { r }$ when the thermal photons vary from the low level to the moderate level. It demonstrates the mesoscopic ideal LH TL equivalent circuit operates well at low temperature $T$ with low level thermal photons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b7ecece5f6a70963be335fede016e62c16676e037f83d18a088409efa3aecc1.jpg",
+        "img_caption": [
+            "FIG.4.Dependence of the refractive index $n _ { r }$ and the frequency $f$ under different thermal photons in the unit-length equivalent circuit model for LH TL. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another important parameter is the operation frequency of the mesoscopic ideal LH TL equivalent circuit. Fig.4 shows NRI of the mesoscopic ideal LH TL when it operates within the microwave frequency band [34] with $( \\Delta \\hat { j } ) ^ { 2 } { = } 1 8$ ， $T = 3 0 0 K$ and $Z _ { l } = 5 0 \\Omega / m$ . When the mesoscopic ideal LH TL equivalent circuit operates at low frequency region, the NRI changes in a large range,and the conclusion rules the course of thermal photons increasing within the moderate magnitude.It demonstrates the TL show NRI when the LH TL operates at a lower frequency which coincides with the macroscopic LH TL[34]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "V. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have proposed a quantization scheme for an ideal loss-less mesoscopic LH TL circuit,and analysed the thermal fluctuations of current and the voltage in thermal Fock by the TFD theory. With the thermal fluctuation of current we discussed the NRI for the LH TL circuit. At some temperature, the NRI is linear dependent of the thermal fluctuation of current and destructive dependent of the frequency and the thermal photons within the microwave frequency band. However, the NRI is decreasing along with the temperature arises.Operating at a lower frequency, temperature and little thermal photons, the ideal loss-less mesoscopic LH TL equivalent circuit is convenient to has NRI, which coincides with the macroscopic LH TL. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] V.Veselago,“The electrodynamics of substances with simultaneously negative values of $\\varepsilon$ and $\\mu$ ,” Soviet Physics Uspekhi 10,509 (1968).   \n[2] P.R.Berman,“Goos-Hänchen shift in negatively refractive media”Phys.Rev.E66 067603 (2002).   \n[3] M.W. Feise,P.J.Bevelacqua and J.B. Schneider, Phys. Rev.B 66,035113 (2002).   \n[4]K.Aydin,I.Bulu and E.Ozbay,“Subwavelength resolution with a negative-index metamaterial superlens”,Appl.Phys.Lett 90, 254102 (2007).   \n[5] R.A. Shelby,D.R. Smith and S.Schultz,“Experimental Verification of a Negative Index of Refraction”,Science 292,77 (2001)   \n[6] H. J. Lezec, J.A.Dionne and H. A. Atwater,“Negative Refraction at Visible Frequencies ”,Science 316 430（ 2007）   \n[7] T.Xu,A. Agrawal, M. Abashin,K.J.Chau and H. J. Lezec,“All-angle negative refraction and active flat lensing of ultraviolet light ”,Nature 497,470 (2013)   \n[8]H.Kosaka,T.Kawashima，A.Tomita,MNotomi,T. Tamamura,T. Sato and S.Kawakami,“Superprism phenomena in photonic crystals\",Phys.Rev.B 58,R10096 (1998)   \n[9] E.Cubukcu,K.Aydin,E.Ozbay, S.Foteinopoulou and C.M.Soukoulis,“Electromagnetic waves: Negative refraction by photonic crystals\",Nature 423,604 (2003)   \n10] P.Parimi, W.Lu, P. Vodo,J. Sokoloff, J. Derov and S. Sridhar,“Negative Refraction and Left-Handed Electromagnetism in Microwave Photonic Crystals\",Phys.Rev. Lett.92,127401 (2004)   \n11]J.B.Pendry,“A Chiral Route to Negative Refraction”, Science 306 1353 (2004).   \n12] M. $\\ddot { O }$ . Oktel, $\\ddot { O }$ . E.Müstecaplioglu,“Electromagnetically induced left-handedness in a dense gas of three-level atoms”，Phys.Reu.A 70,053806 (2004).   \n13] Q.Thommen,P.Mandel,“Electromagnetically Induced Left Handedness in Optically Excited Four-Level Atomic Media”,Phys.Reu.Lett.96,053601 (2006)   \n14] A.K. Iyer and G.V.Eleftheriades,“Negative refractive index metamaterials supporting 2-D waves”,IEEE-MTT Int'l Symp. 2 (412),(Seattle,WA, June 2002).   \n15]A.Grbic and G.V.Eleftheriades,\"A backward-wave antenna based on negative refractive index L-C networks\", Proc.IEEE-AP-S USNC/URSI National Radio Science Meeting 4 (34O),(San Antonio,TX,June 2002).   \n[16] A.A. Oliner,“A periodic-structure negative-refractiveindex medium without resonant elements”,URSI Digest, IEEE-AP-S USNC/URSI National Radio Science Meeting 41, (San Antonio, TX,June 2002).   \n[17] C.Caloz and T.Itoh，“Application of the transmission line theory of left-handed (LH) materials to the realization of a microstrip LH transmission line”,Proc.IEEEAP-S USNC/URSI National Radio Science Meeting 2 (412),(San Antonio, TX,June 2002).   \n[18] C. Caloz,H.Okabe,T.Iwai,and T. Itoh.“Anisotropic PBG surface and its transmission line model\",URSI Digest,IEEE-AP-S USNC/URSI National Radio Science Meeting,(224),(San Antonio,TX,June 2002).   \n[19] R.E. Collin, Foundations for Microwave Engineering, (Second Edition,McGraw-Hill,1992).   \n[20] C.Caloz and T.Itoh，“Novel microwave devices and structures based on the transmission line approach of meta-materials”，IEEE-MTT Intl Symp.1(195)，( Philadelphia,PA, June 2003).   \n[21] Y.Horii, C. Caloz,and T.Itoh,“Super-compact multilayered left-handed transmission line and diplexer application”,IEEE Trans.Microwave Theory Tech.,53,1527 (2005).   \n[22] A. Sanada,K. Murakami, I. Awai,H.Kubo,C.Caloz, and T.Itoh,“A planar zerothorder resonator antenna using a left-handed transmission line”,34th European Microwave Conference (1341),( Amsterdam，The Netherlands, Oct. 2004).   \n[23] A.Sanada,K.Murakami，S.Aso，H. Kubo，and I.Awai,“A via-free microstrip lefthanded transmission line”,IEEE-MTT Int’l Symp. (301), (Fort Worth, TX, June 2004).   \n[24] S.Lim，C.Caloz and T. Itoh,“Metamaterial-based electronically-controlled transmission line structure as a novel leaky-wave antenna with tunable radiation angle and beamwidth\",IEEE Trans.Microwave Theory Tech. 53,161 (2005).   \n[25] F.A. Buot，“Mesoscopic physics and nanoelectronics: nanoscience and nanotechnology\"，Phys.Rep．73,234 (1993).   \n[26]E.A. Dobisz, C.R.K.Marrian,R.J.Colton,“High resolution electron beam lithography with a polydiacetylene negative resist at 50 kV\"J.Appl.Phys.70，1793(1991).   \n[27]R.G.Garcia,“Atomic-scale manipulation in air with the scanning tunneling microscope\"，Appl.Phys.Lett.60, 1960(1992).   \n[28] Y.Makhlin,G.SchddotOn，A.Shnirman，“JosephsonJunction Qubits with Controlled Couplings”,Nature 398 305 (1999).   \n[29]D.P.Divincenzo,D.Bacon,J.Kempe,G.Burkard,K.B. Whaley,“Universal quantum computation with the exchange interaction”,Nature 408 339 (2000).   \n[30] C.Caloz and T.Itoh,“Transmission Line Approach of Left-Handed(LH) Materials and Microstrip Implementation of an Artificial LH Transmission Line\",IEEE transactions.on antennas and propagation 521159 (2004).   \n[31] W.H.Louisell,Quantum Statistical Properties of Radiation,(JohnWiley,NewYork,1973).   \n[32]L.Laplae,F.Mancini and H.Umezawa,“Derivation and application of the boson method in superconductivity\" Physics Rep. C 10 151 (1974)   \n[33]H.Umezawa,Y.Yamanaka,“Micro,macro and thermal concepts in quantum field theory”,Advances in Physics 37531 (1988)   \n[34] C.Caloz and T. Itoh，Electromagnetic metamaterials:transmission line theory and microwave application, (John Wiley,New York,2006). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

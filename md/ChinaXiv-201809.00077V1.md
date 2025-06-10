@@ -1,0 +1,214 @@
+# 解释框架对文化混搭产品评价的影响比较焦点和解释策略的调节效应
+
+聂春艳」汪涛²赵鹏²崔楠²('江西财经大学工商管理学院，南昌 330032)(武汉大学组织营销研究中心，武汉 430072)
+
+摘要文化混搭产品因涉及到不同国家的文化符号的同时呈现，可能导致母国文化的完整性与生命力受到威胁，引发外国文化入侵母国文化的感知进而降低消费者的产品评价。本研究从文化混搭产品的营销传播视角出发，基于前人的研究基础之上，探讨了不同信息表述框架策略的采用会如何影响消费者的文化入侵感知进而影响他们对文化混搭产品的评价，并重点探究了它可能存在的两个边界条件，即消费者的比较焦点和企业的不同解释策略。两个实验的结果不仅再一次验证了前人所得出的研究结论，即文化混搭产品采用“外国文化一母国文化"的框架策略时，会使消费者产生外国文化改变了母国文化的感知，导致消费者对产品的评价要显著低于采用"母国文化-外国文化"的框架策略，其中感知文化入侵起着完全中介的作用。更重要的是，深入揭示出上述的这种不同文化混搭框架效应只有在启动的是消费者的差异性聚焦以及企业采用的是属性解释策略时才存在，而当启动的是消费者的相似性聚焦以及企业采用关系解释策略时，这一效应将会消失。本研究不仅深入剖析出了引发消费者对文化混搭现象产生排斥性反应的内在机理，拓展了前人研究结论的普适性，也为企业的文化混搭产品的营销推广提供了有用的实践启示。
+
+关键词 文化混搭；文化入侵；框架策略；比较焦点；解释策略分类号 B849:F713.55
+
+# 1前言
+
+# 1.1 问题提出
+
+随着全球化的发展，可以毫不夸张的说，我们即便不出国门，也可以享受到全世界各地的产品或者服务，即便是足不出户也能体验到世界各国不同的风俗、传统和文化。在全球化社会中，我们常常会发现，来自不同文化传统的象征性符号常常在相同的地点或同一产品上出现，文化混搭产品就是来自两个或更多国家的文化符号同时呈现其中的产品(Cui，Xu,Wang,Qualls,&Hu,2016)，如北京烤鸭披萨、星巴克月饼和米饭汉堡等。对于这样的文化混搭产品，有的会让人们觉得耳目一新、极具创意，但有的却让消费者觉得反感甚至是感到厌恶。而更有趣的是，就算面对同一文化混搭产品人们也有可能表现出截然不同的两种反应。例如，对于美国梦工厂制作的《功夫熊猫》电影，喜欢的人认为这是一只中国熊猫在讲美国故事，讨厌的人却觉得这是一只在讲美国故事的中国熊猫。
+
+那么，究竟哪些因素会调节消费者对文化混搭产品的反应呢？纵观现有的文化混搭研究，学者们主要都是从文化混搭的自身特征如内群体文化符号的卷入与否(Cheng，Leung，&Wu,2011；Cheon,Christopolous,& Hong，2016)、文化符号之间的混搭程度(Chiu,Mallorie,Keh,&Law,2009; Yang,Chen,Xu,Preston,& Chiu,2016)、文化符号的象征性水平(Yang et al.,2016)以及文化之间的力量对比(Cheng，2010)等，以及消费者的个体特征如消费者的文化认同(Morris,Mok,& Mor,2011; Shi,Shi,Luo,& Cai,2016)、认知性需求(Torelli, Chiu,Tam,Au,& Keh,2011; Keersmaecker,van Assche,& Roets,2016)、死亡忧虑(Toreli et al.,2011)等来进行探讨，却较少从企业营销传播的视角去探讨如何提高消费者对文化混搭产品的评价。因为消费者对产品的评价不仅会受到产品自身因素和消费者因素的影响，还会受到企业的营销传播因素的影响(Homer&Yoon,1992)。目前仅有Cui等(2016)的研究探讨了在文化混搭产品的营销传播过程中，不同的产品信息表述框架策略的采用对消费者的文化混搭产品评价的影响。
+
+基于语言心理学和营销学中有关混合产品的研究，Cui等(2016)定义了文化混搭产品的两种框架类型，一是“外国文化-母国文化”，即外国文化作为修饰类别，而母国文化作为主类别；二是"母国文化-外国文化”，即母国文化作为修饰类别，而外国文化作为主类别。根据Rajagopal和Burnkrant (2009)的研究可知，对于以概念组合(即"名词-名词")形式作为标签的混合产品来说，当修饰类别与主类别差异明显时，修饰类别便难以同化进主类别当中，主类别会被感知为被修饰类别改变成了一个子类别。而因为两种文化的同时呈现会扩大文化之间的感知差异性(Chiuetal.，2009)，因而当文化混搭产品采用不同的概念组合标签时，便会引发消费者产生外国文化(母国文化)改变母国文化(外国文化)的感知。而由于存在内省错觉(Pronin,Kruger,Savtisky,&Ross,2001)，当感知外国文化改变了母国文化时，个体更可能进行"外省”，进而引发文化保护的动机，降低对文化混搭产品的评价，而当感知母国文化改变了外国文化时，个体更可能进行“内省”，进而唤起文化学习的动机，提高对文化混搭产品的评价。因此，当采用"外国文化-母国文化”(即讲美国故事的中国熊猫)的框架策略时，消费者对文化混搭产品的评价将明显低于采用"母国文化-外国文化”(即中国熊猫在讲美国故事)的框架策略时。
+
+然而，对于这种不同文化混搭框架效应的深层作用机制以及其可能存在的边界条件却并未进行深入的探讨，对于在何种情况下该效应会增强或者减弱也不甚清楚，而本研究便旨在解决这些问题。现有研究指出，保护文化纯洁性是人类的一种本能(Kashima,Halloran,Yuki,& Kashima，2004)，当母国文化符号与有着明显差异的外国文化符号进行混搭时，若感知外国文化可能污染或改变母国文化，威胁到母国文化的完整性和生命力，便会引发文化入侵感知(Chiu,Gries,Torelli,& Cheng,2011)。这意味着,Cui 等(2016)提出的不同文化混搭框架效应的存在必须同时满足两个条件，一是感知混搭的母国文化符号与外国文化符号之间存在明显差异；二是感知到外国文化可能污染或改变母国文化。据此，我们提出了不同文化混搭框架效应的两个调节变量，一是消费者比较焦点，即消费者的注意力是聚焦在混搭的不同文化符号之间的差异性还是相似性上，这会影响感知到的母国文化符号与外国文化符号之间的差异性程度；二是企业不同解释策略，即企业对不同文化混搭框架采用的是关系解释还是属性解释，这会影响消费者感知到的外国文化改变母国文化的程度。综上所述，本研究将基于企业营销传播的视角，采用框架理论，深入探讨不同文化混搭框架策略对文化混搭产品评价的影响，并重点检验了消费者比较焦点和企业不同解释策略的调节效应。
+
+# 1.2 研究假设
+
+# 1.2.1 消费者比较焦点的调节作用
+
+根据 Rajagopal 和 Burnkrant (2009)的研究可知，对于采用"外国文化-母国文化"和"母国文化-外国文化"框架策略的文化混搭产品来说，只有当个体感知到混搭的外国文化与母国文化之间存在明显差异时，才会产生外国文化(母国文化)改变母国文化(外国文化)的感知。现有研究已经表明，曝光于文化混搭面前会促使个体聚焦于文化差异上，进而扩大文化之间的感知差异性(Torelli et al.,2011; Li,Kreuzbauer,& Chiu,2013)。而比较焦点能够促使个体更多的去关注两种文化之间的差异性或相似性，进而增强文化之间的感知差异性或相似性(Peng&Xie,2016)。Mussweiler和Damisch (2008)指出，当启动相似性聚焦时，个体会更关注比较目标(如外国文化)和标准(如母国文化)之间的相似性，而当启动差异性聚焦时，个体会更关注比较目标和标准之间的差异性。Cheng 和Leung (2012)与Peng 和 Xie(2016)的研究则发现，当促使个体聚焦于两种文化之间的相似性时，会降低文化之间的感知差异性，而当启动个体的差异性聚焦时，则会提高文化之间的感知差异性。
+
+据此，我们推断，当启动差异性聚焦时，若采用"外国文化-母国文化"的框架策略，会增强外国文化改变了母国文化的感知，进而引发文化入侵的担忧，从而降低对文化混搭产品的评价，而若采用的是"母国文化-外国文化"的框架策略，则会引发母国文化影响了外国文化的感知，从而提高对文化混搭产品的评价。而当启动相似性聚焦时，因为外国文化与母国文化之间的感知差异性降低，因而当采用"外国文化-母国文化"的框架策略时，会削弱外国文化改变了母国文化的感知，从而提高对文化混搭产品的评价，而当采用“母国文化-外国文化框架策略时，也会降低母国文化影响了外国文化的感知，从而降低对文化混搭产品的评价。
+
+H1：当启动消费者的差异性聚焦时，他们对采用“母国文化-外国文化"的框架策略时的文化混搭产品的评价要显著高于采用"外国文化-母国文化"的框架策略时。
+
+H2：当启动消费者的相似性聚焦时，他们对采用"母国文化-外国文化"和"外国文化-母国文化"的框架策略时的文化混搭产品评价之间将不会存在显著差异。
+
+H3：感知文化入侵中介了二元文化混搭框架策略和消费者比较焦点对文化混搭产品评价的交互影响。
+
+# 1.2.2企业不同解释策略的调节作用
+
+现有研究发现，对于同一“名词-名词"的概念组合，当采用不同的解释策略时会影响将概念组合进行子类别化的程度。Wisniewski(1996,1998)指出，对于概念组合通常具有两种不同的解释策略：一是属性解释，即将修饰类别的一个或多个属性以某种方式映射到主类别;二是关系解释，强调的是修饰类别和主类别的指涉物之间的一种主题关系。而 Rajagopal 和Burnkrant (2009)则发现，对于同一概念组合，当采用属性解释时，主类别因为具有了修饰类别的某些属性或特征，更易产生修饰类别改变了主类别的感知，因而个体更可能将概念组合进行子类别化；而当采用关系解释时，只是试图以某种内在关系将修饰类别与主类别联系在一起，并没有相关属性从修饰类别转移到主类别之上，不易产生修饰类别改变了主类别的感知，因此更不可能将概念组合进行子类别化。此外，Sujan 和 Bettman (1989)也指出，当感知一个产品具有与它所属的产品类别明显不一致的属性时，它便会被子类别化，即被类别不一致属性改变成了一个独特的类别成员。
+
+据此，我们推断，当采用的是属性解释策略时，若采用"外国文化-母国文化"的框架策略，母国文化便具有了外国文化的某些特征，个体就更可能产生外国文化改变了母国文化的感知，从而引发对文化入侵的担忧，进而降低对文化混搭产品的评价；而若采用“母国文化一外国文化"的框架策略，外国文化便具有了母国文化的某些特征，个体就更可能产生母国文化影响了外国文化的感知，从而提高对文化混搭产品的评价。而当采用的是关系解释策略时，若采用"外国文化-母国文化"的框架策略，就会降低外国文化改变了母国文化的感知，从而削弱消费者对文化入侵的担忧，进而提高对文化混搭产品的评价；而若采用"母国文化-外国文化"的框架策略，就会削弱母国文化影响了外国文化的感知，从而降低对文化混搭产品的评价。
+
+H4：当采用的是属性解释时，消费者对采用"母国文化-外国文化"的框架策略时的文化混搭产品的评价要显著高于采用"外国文化-母国文化"的框架策略时。
+
+H5：当采用的是关系解释时，消费者对采用"母国文化-外国文化"和"外国文化-母国文化"的框架策略时的文化混搭产品评价之间将没有显著差异。
+
+H6：感知文化入侵中介了二元文化混搭框架策略和企业不同解释策略对文化混搭产品评价的交互影响。
+
+接下来，本文将通过两个实验来验证所提出的研究假设。实验1旨在再次验证不同文化混搭框架效应，并重点探讨了消费者比较焦点的调节作用，实验2则检验了企业不同解释策略的调节效应。
+
+# 2实验1：消费者比较焦点的调节作用
+
+实验1主要有两个目的：一是再次验证不同文化混搭框架策略对消费者文化混搭产品评价的影响，以及感知文化入侵的中介作用；二是验证消费者比较焦点对不同文化混搭框架效应的调节作用。我们预测，当启动差异性聚焦时，消费者对采用"母国文化-外国文化"的框架策略时的产品评价要显著高于采用“外国文化-母国文化"的框架策略时；而当启动相似性聚焦时，消费者对采用这两种文化混搭框架策略时的产品评价之间将不会有显著差异。
+
+# 2.1 实验设计与被试
+
+我们在湖北文理学院校招募了279名本科生 $( n \ L _ { \Psi , \ L , \ L } = 1 3 4 , n \ L _ { \Psi } \ L _ { \Psi } = 1 4 5$ ；平均年龄19.80 岁)参与实验，并将他们随机分配到2(二元文化混搭框架策略：外国文化-母国文化vs.母国文化-外国文化） $| \times 3 |$ (消费者比较焦点：相似性聚焦vs.差异性聚焦vs.控制组)的组间设计中的6个实验组当中。
+
+# 2.2 实验步骤与刺激物
+
+邀请被试参与一项名为"大学生认知理解能力与产品态度调查”，并告知调查将由两个无关的小研究组成，为了提高调查效率便一次性进行，请被试仔细观看与阅读材料，然后认真回答之后的问题。首先，被试看到的是一个名为"观察与理解"的研究，其真实目的是操控被试的比较焦点。在这个任务中，我们指示被试仔细观察和对比两个图，然后认真回答之后的问题。至于不同文化混搭框架策略的主效应和比较焦点的调节作用则在第二个名为"新产品调查"中进行，让被试评价一款由美国公司设计的即将进入中国市场的产品。
+
+在"观察与理解"实验中，我们对比较焦点的操控采用了Mussweiler和Damisch (2008)的启动方法，即让被试仔细观看放在同一页上的两个场景图。在差异性比较的情况下，让被试仔细对比两个图并写下他们之间的所有不同之处，而在相似性比较的情况下，则让被试仔细对比两个图并写下他们之间的所有相似之处。在被试完成了以上的比较任务后，我们进行了一个比较焦点测量，作为对比较焦点的操控检查。具体来说，让被试表明他们感知以下四组对象(鲸鱼和海豚，白酒和红酒，自行车和摩托车，水蜜桃和油桃)有多相似( $1 =$ 非常不同，7$\mathbf { \sigma } = \mathbf { \sigma }$ 非常相似)(Mussweiler&Damisch,2008)。而在控制组当中，被试只观看两个场景图，没有比较焦点的操控，即无需对两个图进行比较并写下他们的相似或不同之处，直接让他们表明对四组对象的感知相似性。
+
+对于实验中需要用到的文化混搭产品，我们使用的是汉堡(美国文化符号)与月饼(中国文化符号)的混搭，并通过改变产品名称和产品介绍来操控不同的框架策略。具体来说，在“外国文化-母国文化"的框架策略情况下，被试看到的是一幅名为"汉堡月饼"的新产品图片。根据 Rajagopal和 Burmkrant (2009)的概念组合启动方法，紧接着提供给被试如下所述的新产品介绍，即"汉堡月饼是一款做成汉堡形状的月饼”。而在"母国文化-外国文化"的框架策略情况下，被试看到的是同样一幅新产品图片，不过名称改为“月饼汉堡”，产品介绍也相应改为"月饼汉堡是一款使用月饼做成的汉堡”。
+
+然后，我们让被试对文化混搭产品做出评价，采用的是 Shavitt，Swan,Lowrey 和Wänke(1994)提出的一个三项9 点语义差异量表(好的-差的，受欢迎的-不受欢迎的，喜欢的-不喜欢的；从-4到4)。为了捕捉到被试感知他们的母国文化受到外国文化入侵的程度，我们采用了改编自Cheng (2010)的文化入侵量表，通过两个题项的7点量表来测量被试的感知文化入侵程度，分别是“这个新产品代表着美国文化对中国传统的一种侵蚀"和"这个新产品意味着美国文化对中国文化的一种入侵”( $1 =$ 非常不同意, $7 =$ 非常同意)。作为对文化符号象征性的操控检查，我们采用了Wan,Torelli 和Chiu (2010)所提出的文化符号象征性水平测量量表,通过四个题项的7点量表来测量被试感知文化混搭产品中的文化符号象征着母国文化或外国文化的程度，如"月饼/汉堡涉及到了中国/美国文化"等( $1 =$ 非常不同意, $7 =$ 非常同意)。
+
+另外，因为先前的研究已经表明，消费者的文化认同(Shi etal.,2016)和文化混搭产品的感知创意性(Peng&Xie,2016)会影响对文化混搭产品的评价，因此，我们对被试的文化认同水平和文化混搭产品的感知创意性进行了测量。具体来说，我们采用了Wan等(2007)的文化认同量表，其中，对中国文化的认同测量包括了全部的五个题项，但对美国文化的认同测量则只保留了其中三个题项，剔除了“身为一个[美国人]对我很重要"和"身为一个[美国人]让我很自豪"这两个题项，因为被试都是中国人( $1 =$ 非常不同意, $7 =$ 非常同意)。而对于文化混搭产品的感知创意性，我们采用的是Peng 和Xie(2016)所使用的量表，通过两个题项的7点量表来测量被试对文化混搭产品的感知创意性评价。分别为"这个产品很有创意"以及"这个产品对我来说很新颖”( $1 =$ 非常不同意, $7 =$ 非常同意)。最后，我们还收集了被试的性别和年龄信息。
+
+# 2.3 实验结果分析
+
+信度分析与操控检查通过对279名调研样本数据的分析发现，产品评价、感知文化入侵、母国/外国文化符号象征性、母国文化认同以及创意评价量表的Cronbach $\mathfrak { a }$ 分别为0.92、0.91、0.82、0.89、0.92和0.85，其中，外国文化认同量表在剔除“我属于美国文化"这一题项后的Cronbach $\mathfrak { a }$ 值为0.85，都超过了0.70的可接受标准，这说明七个测量量表都具有较好的信度。对于比较焦点的操控检查，我们将被试对四组物体的评价进行平均形成一个感知相似性得分，更高的得分表明更高的感知相似性水平。对这个得分进行单因素方差分析揭示出了比较焦点的一个显著主效应 $( F ( 2 , 2 7 6 ) = 2 6 . 0 9$ ， $p < 0 . 0 0 1 \$ ，具体来说，相似性聚焦组的被试相比差异性聚焦组的被试报告出一个明显更高的感知相似性得分 $( M _ { \mathrm { \scriptsize ~ \# ~ 1 \# / \sharp ~ 2 \sharp ~ } } = 3 . 9 3$ ， $S D = 1 . 1 5$ vs.$M _ { ☉ , \Xi \Xi \Xi \mathrm { f l } } = 2 . 7 2 , S D = 1 . 1 3 , t ( 1 8 3 ) = 7 . 2 6 , p < 0 . 0 0 1$ ,Cohen's $d = 1 . 0 7 _ { , }$ ，同样，相似性聚焦组的被试也要比控制组被试报告出更高的感知相似性得分 $( M _ { \mathrm { \tiny ~ \mathscr { H } ~ f i l \mathscr { L } \mathscr { H } ~ } } = 3 . 9 3$ ， $S D \ = \ 1 . 1 5$ vs. $M$ 控制组 $\mathbf { \tau } = \mathbf { \tau }$ 3.26, $S D = 1 . 1 6$ ， $t ( 1 8 4 ) = 3 . 9 9$ $p < 0 . 0 0 1$ , Cohen's $d = 0 . 5 9 .$ )。这说明对比较焦点的操控是成功的。
+
+产品评价为了检验消费者比较焦点的调节作用，我们进行了一个 2(二元文化混搭框架策略 $| \times 3 |$ (消费者比较焦点)的双因素方差分析，结果不仅揭示出了二元文化混搭框架策略的主效应 $( F ( 1 , 2 7 3 ) = 2 4 . 0 8$ ， $p \ < \ 0 . 0 0 1 \rangle$ ，也揭示出了二元文化混搭框架策略和消费者比较焦点之间的显著交互作用 $( F ( 2 , 2 7 3 ) = 7 . 1 9$ ， $p < 0 . 0 1 \$ )(如图1所示)。
+
+![](images/bcfbaf1b8e296deeb1382896a2e193b35bfa0eefb408612161809d13f63a37f0.jpg)  
+图1不同比较焦点下的产品评价
+
+在控制组情况下，当文化混搭产品采用“汉堡月饼”(即"外国文化-母国文化")的框架策略时，被试对产品的评价要明显低于采用“月饼汉堡”(即"母国文化-外国文化")的框架策略中 $M$ 月饼汉堡 $= 5 . 5 2$ ， $S D = 1 . 6 0$ VS. $M$ 汉堡月饼 $= 4 . 0 9$ ， $S D = 1 . 5 9$ ， $t ( 9 2 ) = 4 . 3 7$ $p < 0 . 0 0 1$ , Cohen's $d =$ 0.91)时，这个结果也与前人的研究发现相一致。当启动被试的差异性聚焦时，采用“外国文化-母国文化"的框架策略时的产品评价也要明显低于采用"母国文化-外国文化"的框架策略0 $M$ 月饼汉堡 $= 5 . 4 5$ ， $S D = 1 . 6 4 \$ VS. $M$ 汉堡月饼 $= 3 . 9 7$ $S D = 1 . 6 1$ ， $t ( 9 1 ) = 4 . 3 9$ $p < 0 . 0 0 1$ , Cohen's $d =$ 0.92)时。然而，当启动被试的相似性聚焦时，被试对采用"母国文化-外国文化"与"外国文化-母国文化"的框架策略时的产品评价之间将不存在显著差异 $( M _ { \mathrm { \tiny ~ H F i f f i l e } } = 4 . 7 1$ ， $S D = 1 . 6 1$ vs. $M _ { ☉ }$ 堡月饼 $= 4 . 8 0 , S D = 1 . 5 7 , t ( 9 0 ) = - 0 . 2 7 , p = 0 . 7 8 )$ 。因此，假设1和2都得到了实验验证。
+
+感知文化入侵的中介效应为了验证感知文化入侵中介了二元文化混搭框架策略对文化混搭产品评价的影响，我们采用了Process 213工具进行 Bootstrap 中介效应检验。最后的结果表明，在 $9 5 \%$ 置信区间下，中介检验的结果的确不包括 $0 \left( \mathrm { L L C I } = - 0 . 9 4 , \mathrm { U L C I } = - 0 . 4 0 \right)$ 表明感知文化入侵的中介效应显著，且中介效应大小为-0.67(具体如图2所示)。因此，感知文化入侵是完全中介了二元文化混搭框架策略对文化混搭产品评价的影响。
+
+![](images/54eb3ac68e216cf2608ab24e4682da48dcbeb18bb6d4b4c3c7901c6d4a00a76e.jpg)  
+图2感知文化入侵的中介效应
+
+接下来，为了检验消费者比较焦点对二元文化混搭框架策略对文化混搭产品评价影响的调节效应是受到感知文化入侵的中介作用，我们进行了一个调节中介效应的检验。最后的结果表明，在 $9 5 \%$ 的置信区间下，感知文化入侵的确中介了二元文化混搭框架策略和消费者比较焦点对文化混搭产品评价的交互影响，其调节中介效应大小为-0.73，区间不包括$0 ( \mathrm { L L C I } = - 1 . 0 3 , \mathrm { U L C I } = - 0 . 4 6 )$ (具体如图3所示)。其中，当启动被试的差异性聚焦时，感知文化入侵的中介效应显著，其效应大小为-0.66，Bootstrap 检验的置信区间为(-0.94，-0.41),不包括0，而当启动被试的相似性聚焦时，感知文化入侵并不存在中介作用(-0.38,0.24)，该区间包含0。从而，假设3也得到了实验数据的支持。
+
+![](images/43b7a2b84b670c03b6338937acba992db602ce245d0108084f027f41963af0a1.jpg)  
+图3感知文化入侵的调节中介效应
+
+与此同时，我们也排除了几个可能混淆中介效应的替代解释。有可能不同的二元文化混搭框架策略会导致对文化混搭产品的不同创意感知，为此我们进行了一个独立样本 $t$ 检验来剔除这种替代解释，最后的结果表明，不同文化混搭框架策略情况下被试对产品的创意感知没有显著差异( $\stackrel { \cdot } { t } = 0 . 4 4$ $p = 0 . 6 7 )$ 。另外，也是通过独立样本t检验发现，被试对中国文化 $( t =$ $- 1 . 5 3$ ， $p = 0 . 1 3 )$ 和美国文化 $( t = 0 . 1 0$ $p = 0 . 9 2 )$ 的认同也不能够解释他们对文化混搭产品评价的差异。
+
+# 2.4小结
+
+本研究再次验证了Cui等(2016)的研究结论，即当文化混搭产品采用"母国文化-外国文化"的框架策略时，消费者对产品的评价要显著高于采用"外国文化-母国文化"的框架策略时，且感知文化入侵起着完全中介的作用。更重要的是，研究还发现，该主效应存在的一个前提是，消费者的注意力聚焦在混搭的两种文化符号之间的差异性而不是相似性上。除此之外，还必须让消费者感知到外国文化(母国文化)改变了母国文化(外国文化)，而根据Rajagopal 和 Burnkrant (2009)的研究可知，对于同一概念组合来说，当采用属性解释策略时更可能引发"改变"的感知，而当采用关系解释策略时则较不可能引发"改变"的感知。因此,接下来我们将探讨企业不同解释策略的调节作用。
+
+# 3实验2：企业不同解释策略的调节作用
+
+实验2的主要目的是验证企业不同解释策略对主效应的调节作用，我们预测，当采用属性解释策略时，消费者对采用"母国文化-外国文化"的框架策略时的产品评价要显著高于采用"外国文化-母国文化"的框架策略时；而当采用关系解释策略时，消费者对采用这两种文化混搭框架策略时的产品评价之间将不存在明显差异。因在实验1中采用的月饼和汉堡的文化混搭刺激物属于象征性领域(月饼)和物质性领域(汉堡)内的文化符号混搭，为了拓展研究结论的普适性，在实验2中我们将采用两个象征性领域的文化符号进行混搭作为实验刺激物，即Cui等(2016)在研究中使用的剪纸和米老鼠相结合的文化混搭产品。
+
+# 3.1 实验设计与被试
+
+我们在湖北文理学院招募了177名本科生 $( n _ { \mathrm { \# \underline { { H } } } } = 9 1$ ,n 女生 =86；平均年龄 20.25 岁)参与实验，并将他们随机分配到2(二元文化混搭框架策略：外国文化-母国文化vs.母国文化-外国文化） $\scriptstyle 1 \times 2$ (企业不同解释策略：属性解释vs.关系解释)的组间设计中的4个实验组当中。
+
+# 3.2 实验步骤与刺激物
+
+邀请被试参与一项名为"大学生产品态度调查”，让他们对一款由美国公司设计的即将进入中国市场的新产品做出评价。实验中用到的文化混搭产品是米老鼠(美国文化)和剪纸(中国文化)的混搭，对于框架策略的操控和实验1中的一样，即"外国文化-母国文化"的框架策略情况下是"米老鼠剪纸”，而"母国文化-外国文化"的框架策略情况下是"剪纸米老鼠”。
+
+而对于不同解释策略的操控，在属性解释情况下，“米老鼠剪纸"的产品介绍为"米老鼠剪纸是一款融合了米老鼠特征的剪纸”，而"剪纸米老鼠"的产品介绍为"剪纸米老鼠是一款融合了剪纸特征的米老鼠”。在关系解释情况下，“米老鼠剪纸"的产品介绍为"米老鼠剪纸是一款剪成米老鼠形状的剪纸”，而"剪纸米老鼠"的产品介绍为"剪纸米老鼠是一款用剪纸方法制作的米老鼠”。
+
+我们在正式实验前进行了一个预试验，以确认上述不同解释策略的操控是成功的。具体来说，我们先对概念组合的属性解释和关系解释进行了概念阐述，并举出示例进行说明，然后让被试评价上述4种产品介绍是偏向于属性解释还是关系解释( $1 =$ 肯定是属性解释, $7 =$ 肯定是关系解释)。我们总共招募了145名本科生 $( n \ncong 7 1$ ，n女生 $= 7 4$ ；平均年龄 20.54 岁)参与测试，每组大约有35名被试参与。最后的结果表明，“米老鼠剪纸是一款融合了米老鼠特征的剪纸"与"米老鼠剪纸是一款剪成米老鼠形状的剪纸"相比，前者明显更偏向于属性解释，而后者则更偏向于关系解释 $( M _ { \ �parallel } ) _ { \nvDash } \asymp 2 . 3 9$ ， $S D = I . 7 3$ VS. $M _ {  } = 5 . 0 3$ ， $S D = 1 . 8 2 \$ ， $t ( 7 1 ) =$ $- 6 . 3 5$ $p < 0 . 0 0 1$ , Cohen's $d = - 1 . 5 1$ )。而"剪纸米老鼠是一款融合了剪纸特征的米老鼠"与"剪纸米老鼠是一款用剪纸方法制作的米老鼠"相比，前者也明显更偏向于属性解释，而后者更偏向于关系解释 $( M _ { ☉ } ) \ast \ast = 2 . 4 6$ ， $S D = I . 7 0$ vs. $M _ { ☉ _ { \mathnormal } } { \ast } = 5 . 2 2$ ， $S D = 1 . 7 7$ ， $t ( 7 0 ) = - 6 . 7 4$ 5 $p < 0 . 0 0 1$ ，Cohen's $d = - 1 . 6 1 \$ )。
+
+之后的步骤同实验1，即测量被试对文化混搭产品的评价、感知文化入侵以及文化符号的象征性水平，最后再收集被试的人口统计信息，即性别和年龄。
+
+# 3.3 实验结果分析
+
+信度分析通过对177名调研样本数据的分析发现，产品评价、感知文化入侵、母国文化符号象征性水平以及外国文化符号象征性水平量表的Cronbach $\mathfrak { a }$ 值分别为0.96、0.93、0.86、0.90，都超过了0.70的可接受标准，这说明四个测量量表都具有较好的信度。
+
+产品评价为了检验企业不同解释策略的调节作用，我们进行了一个 2(二元文化混搭框架策略） $\scriptstyle 1 \times 2$ (企业不同解释策略)的双因素方差分析，结果不仅再一次揭示了二元文化混搭框架策略的主效应 $( F ( 1 , 1 7 3 ) = 9 . 5 4 \$ ， $p \ < \ 0 . 0 1 \$ ，也揭示出了二元文化混搭框架策略和企业不同解释策略之间的一个显著交互效应 $( F ( 1 , 1 7 3 ) = 8 . 8 1$ ， $p < 0 . 0 1 \cdot$ )(如图4所示)。
+
+![](images/0bd8c1ba5817148a4d3deb23fc8fb426948e42d25425a3d7bd884be96dd8720b.jpg)  
+图4不同解释策略下的产品评价
+
+从图4中可以看出，当对二元文化混搭框架策略采用属性解释时，被试对米老鼠剪纸”(即"外国文化-母国文化"框架策略)的评价要明显低于对"剪纸米老鼠”(即"母国文化-外国文化"框架策略)的评价( $M$ 剪纸米老鼠 $= 6 . 6 3$ ， $S D = 1 . 7 8$ vs. $M$ 米老鼠剪纸 $= 4 . 9 6$ ， $S D = 1 . 8 1 \$ ， $t ( 8 4 ) =$ 4.28, $p < 0 . 0 0 1$ ,Cohen's $d = 0 . 9 3 { \mathrm { ; } }$ 。然而，当对二元文化混搭框架策略采用关系解释时，被试对采用"母国文化-外国文化"与"外国文化-母国文化"的框架策略时的产品评价之间将没有明显差异( $M$ 剪纸米老鼠 $= 5 . 8 0$ ， $S D = 1 . 8 3$ ,vs. $M$ 米老鼠剪纸 $= 5 . 7 7$ $S D = 1 . 8 5$ ， $t ( 8 9 ) = 0 . 0 9$ $p = 0 . 9 3 )$ 。因此，假设4和5也得到了实验结果的支持。
+
+感知文化入侵的中介效应接下来，为了检验企业不同解释策略对二元文化混搭框架策略对文化混搭产品评价影响的调节效应是受到感知文化入侵的中介作用，我们进行了一个调节中介效应的检验。最后的结果表明，在 $9 5 \%$ 的置信区间下，感知文化入侵的确中介了二元文化混搭框架策略和企业不同解释策略对文化混搭产品评价的交互影响，其调节中介效应大小为1.10，区间不包括0 $\mathsf { \Pi } ^ { 1 } ( \mathrm { L L C I } = 0 . 3 3$ ， $\mathrm { U L C I } = 1 . 9 4 \rangle$ (具体如图5所示)。其中，当采用属性解释策略时，感知文化入侵的中介效应显著，其效应大小为-1.18,Bootstrap 检验的置信区间为 $( - 1 . 7 3 , - 0 . 6 6 )$ ，不包括0。而当采用关系解释策略时，感知文化入侵并不发挥中介作用(-0.69,0.54)，该区间包含0。从而，假设6也得到了实验数据的支持。
+
+![](images/2ac5c544a35e89cc16aea0bfbfec8608dd5dae7934b937f87009675c200bb4fe.jpg)  
+图5感知文化入侵的调节中介效应
+
+# 3.4小结
+
+本研究指出，即便是让消费者聚焦在了混搭的两种文化符号之间的差异性上，也采用了不同的文化混搭框架策略，但在对文化混搭框架策略进行解释时，若不能通过恰当的解释策略引发消费者的"改变"感知，即采用属性解释策略而不是关系解释策略，便不可能让消费者产生文化入侵或文化学习的感知，也就不存在这不同文化混搭框架效应。这即是说，不同文化混搭框架效应的存在必须同时满足两个条件：一是消费者的注意力聚焦在混搭的两种文化符号之间的差异性而非相似性上；二是必须采用属性解释策略而非关系解释策略对文化混搭框架策略进行解释。
+
+# 4研究结论与讨论
+
+# 4.1 研究结论
+
+本研究检验了不同文化混搭框架策略对消费者文化混搭产品评价的影响及其潜在作用机制，并深入探讨了该主效应存在的两个边界条件，即消费者比较焦点和企业不同解释策略的调节作用。最后的研究结果表明，对于同一文化混搭产品，当采用"母国文化-外国文化”(vs.外国文化-母国文化)的框架策略时，消费者对文化混搭产品的评价将更高。因为当采用“母国文化-外国文化"的框架策略时，会引发母国文化改变了外国文化的感知，而对于母国文化的这种"改变”，人们会觉得其动机是与外国文化进行交流和学习，从而提高对文化混搭产品的评价。而当采用"外国文化-母国文化"的框架策略时，则会引发外国文化改变了母国文化的感知，而对于外国文化的这种"改变”，人们会认为其动机是入侵母国文化，从而降低对文化混搭产品的评价。其中，感知文化入侵起着完全中介的作用。这也再一次验证了Cui等(2016)得出的研究结论。
+
+然而，更重要的是，本研究发现上述的不同文化混搭框架效应存在的两个边界条件，一是消费者必须聚焦在混搭的两种文化符号之间的差异性而非相似性上。只有感知母国文化与外国文化之间存在明显不同(即启动差异性聚焦)，当采用不同的文化混搭框架策略时，才会引发外国文化(母国文化)改变母国文化(外国文化)的感知；若感知外国文化与母国文化相似(即启动相似性聚焦)，当采用不同的文化混搭框架策略时，则较不可能产生母国文化(外国文化)改变外国文化(母国文化)的感知。二是对于不同的文化混搭框架策略必须采用属性解释而不是关系解释。即便消费者注意到混搭的两种文化符号之间存在显著差异，但若不能引发他们产生母国文化(外国文化)改变外国文化(母国文化)的感知，上述的不同文化混搭框架效应也不会存在。只有当采用属性解释时，即强调外国文化(母国文化)具有母国文化(外国文化)
+
+的某些特征，才会产生母国文化(外国文化)改变外国文化(母国文化)的感知；而当采用关系解释策略时，即强调母国文化与外国文化具有某种主题关系时，则较不可能产生母国文化(外国文化)改变外国文化(母国文化)的感知。
+
+# 4.2 理论贡献
+
+本研究基于企业的营销传播视角，采用框架理论，深入探讨了不同文化混搭框架策略对消费者的文化混搭产品评价的影响，对当前的文化混搭以及全球化的文化影响研究都具有一定的理论贡献。具体来说，主要体现在以下几个方面：
+
+首先，本研究从营销传播的视角出发，探讨了消费者对文化混搭产品的评价，拓展了文化混搭的相关研究。现有的相关研究主要都是从文化混搭产品的设计特征和消费者的个体特征等展开，前者如不同文化的符号特征(Yanget al.，2016)以及文化符号的混搭特征(Chiu etal.,2009; Cheon et al.,2016)等，后者如认知(Leung& Chiu,2010; Fu, Zhang,Li,& Leung,2016)、动机(Torelli etal.,2011)以及价值观(Keh,Torelli,Chiu,&Hao,2016)等，但是消费者对产品的评价不仅会受到产品自身因素和消费者因素的影响，还会受到企业的营销传播因素的影响(Homer& Yoon，1992)，本研究从营销传播这一新的视角来探讨文化混搭，分析了不同的文化混搭框架策略对消费者的文化混搭产品评价的影响，从而可以更加全面和多元的角度对文化混搭进行了更加深入的剖析，这是对现有文化混搭研究的进一步拓展。
+
+其次，本研究深入揭示了在全球化过程中外国文化的进入引发消费者的排斥性反应的内在机理，从而丰富了现有的全球化文化影响研究。先前有关文化排斥以及文化混搭的研究指出，个体对外国文化的流入或者是外国文化与当地文化的混搭持排斥性反应必须满足两个条件，一是进入当地的外国文化符号被感知为外国的代表性文化，二是感知外国文化可能会威胁或侵蚀当地文化的完整性与生命力(Yang et al.,2016; Shi etal.,2016)。然而，对于在何种情况下会引发消费者产生外国文化威胁或侵蚀当地文化却并不清楚，而本研究就对其中的内在机理进行了深入剖析，指出消费者将外国文化的进入感知为对当地文化的威胁或入侵主要是因为，他们认识到了外国文化与母国文化之间存在明显差异，然后又感知到外国文化可能"改变"母国文化，即使得母国文化的原有特征变得模糊、消失或是具有了外国文化的某些特征，致使母国文化的纯洁性与完整性受到了威胁或破坏，进而引发消费者的文化入侵感知，从而导致对外国文化的进入产生排斥性反应。
+
+最后，本研究确立了不同文化混搭框架效应的边界条件，从而极大的拓展了前人的研究结论的普适性。先前的研究指出，当文化混搭产品采用"母国文化-外国文化"的框架策略时，消费者的产品评价要明显高于采用"外国文化-母国文化"的框架策略时(Cuiet al.，2016)，但本研究提出这一研究结论并不总是正确的，只有当启动的是消费者的差异性聚焦以及采用属性解释策略时，先前学者的研究结论才是正确的。因为根据 Rajagopal 和 Burmkrant (2009)的研究可知，对于采用"外国文化-母国文化"和"母国文化-外国文化"这样的概念组合标签的文化混搭产品来说，只有当消费者感知到母国文化与外国文化存在明显差异，以及采用属性解释强调外国文化(母国文化)的某一或某些属性或特征转移到了母国文化(外国文化)之上时，才会引发消费者的外国文化(母国文化)改变了母国文化(外国文化)的感知，进而增强(削弱)他们的文化入侵感知。而当启动的是消费者的相似性聚焦和采用关系解释策略时，这一效应将会消失。这就为先前的研究结论找到了边界条件，是对前人研究结论的普适性和权变性的探索。
+
+# 4.3管理贡献
+
+随着全球化的加速发展，文化混搭产品变得越来越普遍，企业面临的一个关键便是如何提高消费者对文化混搭产品的接受程度。本研究恰好能为企业的文化混搭产品的营销推广提供一些实践启示：首先，企业在给文化混搭产品命名时，应该采用"母国文化-外国文化"的框架策略，即东道国消费者的母国文化符号作为修饰类别，而企业所在国的文化符号作为主类别。其次，并不是所有的文化混搭产品都适合采用"母国文化-外国文化"的框架策略，有些产品只能采用"外国文化-母国文化"的框架策略。此时，企业便可以通过广告等方式来让消费者更多的去关注外国文化符号与母国文化符号之间的相似性，以降低外国文化改变母国文化的感知。最后，企业还可以通过不同的产品介绍方式来提高消费者对采用不同的文化混搭框架策略的文化混搭产品的评价。
+
+# 4.4研究局限与未来展望
+
+当然，本研究也有一些局限之处，还有待未来研究的进一步探讨。首先，本文得出的研究结论都是在实验室获得的，它是否能原封不动的推广到现实生活中，或者说如何才能在现实中更好的运用并推广该研究结论并未进行深入的探讨，在未来的研究中可进一步做出完善。其次，在本研究中，作为实验刺激物的文化混搭产品只采用了“月饼汉堡"和"剪纸米老鼠”，未来可以更多的使用其他的文化混搭产品来验证相关的研究结果，以增强研究结论的普适性。第三，根据本文的研究发现，当促使个体聚焦于两种文化之间的相似性(vs.差异性)时，将会削弱不同的文化混搭框架效应。可以看出，本研究主要关注的是消费者对两种文化之间的主观感知差异性，未来研究可以进一步检验两种文化之间的客观差异性是否也能得出同样的结论。最后，彭璐珞和赵娜(2015)提出可以把文化划分成三个不同的领域：物质性、象征性和神圣性领域，人们对物质性领域的文化符号的混搭的接受程度最高，象征性领域次之，最难接受神圣性领域的文化符号的混搭。在本研究中，混搭的文化符号主要来自于物质性和象征性领域，并未涉及到神圣性领域，未来研究有必要验证一下，当涉及到神圣性领域的文化符号混搭时，现有研究结论是否还能成立。
+
+# 参考文献
+
+Cheng,C.-Y.,&Leung,A.K.-Y.(20l2).Revisiting the Multicultural experience-creativity link:The effctsof perceived cultural distance and comparison mind-set. Social Psychological and Personality Science,4(4), 475-482.   
+Cheng,C.-Y.,Leung,A.K.-Y.,& Wu,T.-Y.(2O11). Going beyond the multicultural experience-creativity link: The mediating role of emotions.Journal of Social Issues,67(4),8O6-824.   
+Cheng,Y.Y. (20l0).Social psychologyof globalization: jointactivation ofcultures and reactions to foreign cultural influence (Unpublished doctorial dissertation). University of Illinois at Urbana-Champaign.   
+Cheon,B.K., Christopoulos,G.I.,& Hong,Y.-Y. (2O16).Disgust associated with cultural mixing: Whyand who? Journal of Cross-Cultural Psychology, 47(10),1268-1285.   
+Chiu, C-Y., Gries,P.,Toreli, C.J.,&Cheng,S.Y.Y.(2011).Toward a social psychologyof globalization.Journal ofSocial Issues,67(4),663-676.   
+Chiu,C-Y.,Mallorie,L.，Keh,H. T.& Law,W.(20o9).Perceptions of culture in multicultural space: Joint presentation of images from two cultures increases in-group atribution of culture-typical characteristics. Journal of Cross-Cultural Psychology,40(2),282-300.   
+Cui,N.,Xu,L.,Wang,T.,Quals,W.,& Hu,Y.H.(2016).How does framing strategy afect evaluation of culturally mixed products? The self-other asymmetry effect. Journal of Cross-Cultural Psychology, 47(10), 1307-1320.   
+Fu,J. H-Y., Zhang, Z-X.,Li,F.J.,& Leung,Y. K. (2016). Opening the mind: Effect of culture mixing on acceptance of organizational change. Journal of Cross-Cultural Psychology,47(10),1361-1372.   
+Homer,P.M.,& Yoon,S-G.(1992).Message framing and the interrelationships amongad-based felings,affect and cognition. Journal of Advertising,21(1),19-33.   
+Kashima,E.S.,Halloran,M.,Yuki,M.,& Kashima,Y.(2O04).The effectsof personal and collective mortality salience on individualism: Comparing Australians and Japanese with higher and lover self-esteem.Journal of Experimental Social Psychology,40(3),384-392.   
+Keersmaecker,J. D.,van Assche,J.,& Roets,A. (2016). Need for closure effects on affective and cognitive responses to culture fusion. Journal of Cross-Cultural Psychology, 47(10),1294-1306.   
+Keh,H.T., Toreli,C.J. Chiu, C-Y.,& Hao,J. (2016). Integrative responses to culture mixing in brand name translations: The roles of product self-expressiveness and self-relevance of values among bicultural Chinese consumers. Journal of Cross-Cultural Psychology,47(10),1345-1360.   
+Leung,A. K-Y.,& Chiu, C-Y. (2010). Multicultural experience, idea receptiveness,and creativity. Journal of Cross-Cultural Psychology,41(5-6),723-741.   
+Li,D.M., Kreuzbauer,R.,& Chiu, C-Y. (2Ol3). Globalization and exclusionary responses to foreign brands. In S. Ng & Lee. A. Y. Angela (Eds.), Handbook of culture and consumer behavior (pp.203-232). New York,NY: Oxford University Press.   
+Morris,M. Mok,A.,& Mor,S.(2O11). Cultural identity threat: the role of cultural identifications in moderating closure responses to foreign cultural inflow. Journal of Social Issues, 67(4),760-773.   
+[彭璐珞，赵娜.(2015).文化混搭的动理：混搭的反应方式、影响因素、心理后果及动态过程．中国社会心 理学评论,(9),19-62.]   
+Musweiler, T.,& Damisch,L. (2008). Going back to Donald: How comparisons shape judgmental priming effects. Journal of Personality and Social Psychology, 95(6),1295-1315.   
+Peng,L.L.,& Xie,T.(2O16). Making similarity versus diference comparison affects perceptions after bicultural exposure and consumer reactions to culturally mixed products. Journal of Cross-Cultural Psychology, 47(10), 1380-1394.   
+Pronin,E.，Kruger,J.,Savtisky,K.，& Ros,L.(2O01).You don't know me,but I know you: The illusion of asymmetric insight. Journal of Personality and Social Psychology, 81(4), 639-656.   
+Rajagopal，P.，& Burnkrant,R.E. (20o9). Consumer evaluations of hybrid products.Journal of Consumer Research,36(2),232-241.   
+Shavitt，S.，Swan,S.，Lowrey，T.M.，& Wänke,M.(1994). The interaction of endorser attractiveness and involvement in persuasion depends on the goal that guides message procesing. Journal of Consumer Psychology, 3(2),137-162.   
+Shi,Y.Y.,Shi,J.,Luo,Y.L.L.,& Cai, H.J. (2016). Understanding exclusionary reactions toward aforeign culture: The influence of intrusive cultural mixing on implicit intergroup bias.Journal of Cross-Cultural Psychology, 47(10), 1335-1344.   
+Sujan,M.,& Bettman,J.R. (1989). The effects of brand positioning strategies on consumers’brand and category perceptions: some insights from schema research. Journal of Marketing Research,26(4),454-467.   
+Toreli, C.J., Chiu,C-Y,Tam,K-P.,Au,A.K. C.,& Keh,H.T. (2O11).Exclusionary reactions to foreign cultures: Effects of simultaneous exposure to cultures in globalized space.Journal of Social Issues, 67(4),716-742.   
+Wan, C.,Chiu,C-Y.,Tam, K-P.,Lee,S-L.,Lau,I. Y-M.,&Peng,S. Q. (2OO7).Perceived cultural importance and actual self-importance of values in cultural identification.Journal of Personality and Social Psychology, 92(2), 337-354.   
+Wan, C.,Toreli, C.J.,& Chiu, C.Y. (2O10). Intersubjective consensus and the maintenance of normative shared reality. Social Cognition,28(3),422-446.   
+Wisniewski,E. J. (1996). Construal and similarity inconceptual combination. Journal of Memory and Languge, 35(3), 434-453.   
+Wisniewski, E. J.，& Love,B. C. (1998). Relations versus properties in conceptual combination. Journal of Memory and Language,38(2),177-202.   
+Yang,D.Y-J. Chen, X., Xu,J., Preston,J.L.,& Chiu, C-Y. (2016). Cultural symbolism and spatial separation:
+
+Some ways to deactivate exclusionary responses to culture mixing. Journal of Cross-Cultural Psychology, 47(10),1286-1293.
+
+# The influence of interpretation frame on the evaluation of culturally mixed products: The moderating effect of comparison focus and interpretation strategy
+
+NIE Chunyanl; WANG Tao²; ZHAO Peng²; CUI Nan²
+
+(l School of Business Administration,Jiangxi UniversityofFinance and Economics,Nanchang 33oo32,China) (² Research Center For Organizational Marketing of Wuhan University,Wuhan 43oO72, China)
+
+# Abstract
+
+Culturally mixed products are products in which cultural symbols from two or more countries are presented simultaneously. This perception promotes categorical perceptions of culture and draws attention to cultural differences, which in turn enhances the perceived incompatibility of the two cultures. This perception,when coupled with a situation-induced cultural defense mindset, can lead to exclusionary reactions for culturally mixed products. The articles in the present special issue studied four major features of culturally mixed products: (a) the involvement of in-group culture,(b) the extent of mixing between cultures, (c) the level of cultural symbolism,and (d) the direction of cultural influence,all of which lack the perspective of marketing communication to discuss how to weaken consumers’ exclusionary reactions for cultural mixing stimuli. From the perspective of enterprises’ marketing communication, this study explored how the bicultural framing strategy ("foreign-culture home-culture” vs.“home-culture foreign-culture"） influence consumers’culturally mixed products evaluation, and further examined the moderating effect of comparison focus and interpretation strategy.
+
+This study used two main experiments to test the hypothesis. Experiment 1 sought evidence of how people evaluate culturally mixed products under a different framing strategy and how they evaluate the moderating efect of comparison focus. A total of 279 undergraduate students from a university in central China participated in experiment 1. Participants were randomly asigned to six conditions in a 2 (bicultural framing) $\times 3$ (comparison focus） between-subjects design. The participants were informed to participate in two unrelated studies. First, they were told to participate in an “observation and comprehension study”，which functioned to serve its real purpose of manipulating the comparison focus. Then， the second study was a“new product survey", in which the participants were asked to assess a new American-designed product entering the Chinese market. Experiment 1 used a culturally mixed product made up of moon-cake (Chinese culture) and hamburger (Western culture). In the“foreign-culture home-culture” strategy condition, the product is titled“Hamburger moon-cake". In the condition of “home-culture foreign-culture” strategy, the title is “Moon-cake hamburger". The objective of experiment 2 was to examine the moderating effect of interpretation strategy. A total of 177 undergraduate students participated in the “new product survey". The participants were randomly assigned to four conditions in a 2 (bicultural framing) $\times ~ 2$ (interpretation strategy） between-subjects design. Experiment 2 used a culturally mixed product made up of paper-cuting (Chinese culture） and
+
+Mickey Mouse (Western culture).
+
+The results of experiment 1 showed a significant effect of bicultural framing strategy on the evaluation of culturally mixed products $( F ( 1 , 1 7 3 ) = 9 . 5 4 \$ ， $p \ < \ 0 . 0 1 \$ ）as well as a significant interaction of bicultural framing strategy and comparison focus $( F ( 2 , 2 7 3 ) = 7 . 1 9 , p < 0 . 0 1 )$ . In the difference comparison group，when culturally mixed products adopted the “foreign-culture home-culture”(i.e.，“Hamburger moon-cake"） strategy，it led to a less favorable evaluation relative to the“home-culture foreign-culture”(i.e.,“Moon-cake hamburger"） strategy $M$ Moon-cake hamburger $= 5 . 4 5$ ， $S D = 1 . 6 4 \$ vs. $M$ Hamburger moon-cake $= 3 . 9 7$ ， $S D = 1 . 6 1$ ， $t ( 9 1 ) = 4 . 3 9$ ， $p \ : < \ : 0 . 0 0 1$ ， Cohen's $d = 0 . 9 2$ ). However, in the similarity comparison group,the product evaluations did not differ significantly between the two framing strategy conditions ( $M$ Moon-cake hamburger $= = 4 . 7 1$ ， $S D =$ 1.61 vs. $M$ Hamburger moon-cake $\phantom { - } = 4 . 8 0$ ， $S D = 1 . 5 7$ ， $t ( 9 0 ) = - 0 . 2 7$ $p = 0 . 7 8 \$ ). This study also found that the effect of bicultural framing strategy on culturally mixed products was fully mediated by perceived cultural intrusion. The results of experiment 2 showed a significant interaction between bicultural framing strategy and interpretation strategy $( F ( 1 , 1 7 3 ) = 8 . 8 1$ ， $p \ < \ 0 . 0 1 \dot { } .$ ).When the enterprises adopted the property interpretations, the product evaluation in the“foreign-culture home-culture”condition was lower than that in the“home-culture foreign-culture” condition $\boldsymbol { \mathscr { M } }$ Paper-cut Mickey Mouse $= 6 . 6 3$ ， $S D = 1 . 7 8$ ,vs. $M$ Mickey Mouse paper-cut $= 4 . 9 6$ ， $S D = 1 . 8 1 \$ ， $t ( 8 4 ) = 4 . 2 8$ ， $p <$ 0.001, Cohen's $d = 0 . 9 3$ ). However, when the enterprises adopted the relational interpretations, the product evaluations did not differ significantly between the two framing strategy conditions $\boldsymbol { \mathcal { M } }$ Paper-cut Mickey Mouse $= 5 . 8 0$ ， $S D = 1 . 8 3 \$ ,vs. $M$ Mickey Mouse paper-cut $= 5 . 7 7$ ， $S D = 1 . 8 5$ ， $t ( 8 9 ) = 0 . 0 9$ ， $p =$ 0.93).
+
+Our research contributes to the existing literature on culturally mixed products. Though previous research on culturally mixed products is mostly from the consumers' perspective and the product design perspective, it lacks work from the perspective of marketing communication that discusses how to improve the consumers' product evaluation. Our research, through exploring the influence of the bicultural framing strategy on the evaluation of culturally mixed products, opens up a new perspective to study the phenomena of cultural mixing. We also found boundary conditions for the effect of bicultural framing strategy. The diferent bicultural framing effects only exist when the consumers focus on differences and when the enterprises adopt property interpretations. When the consumers focus on similarities and when the enterprises adopt relational interpretations,this effect disappears.Furthermore,our research tells the companies that a“home-culture foreign-culture” strategy willbe an efective way to form a positive evaluation on culturally mixed products.
+
+Key words: culturally mixed products; cultural mixing; framing strategy; comparison focus; interpretation strategy

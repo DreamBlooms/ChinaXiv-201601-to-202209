@@ -1,0 +1,668 @@
+[
+    {
+        "type": "text",
+        "text": "编号：163717",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超临界压力RP-3起始加热段传热恶化数值研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "浦航，李素芬，东明，尚妍，焦思（大连理工大学海洋能源利用与节能教育部重点实验室，大连116024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：使用开源流体动力学程序库OpenFOAM对竖直圆管内超临界压力RP-3对流传热进行数值模拟，研究重点为起始加热段的传热恶化现象。本文选择k-ε-v-f和k-oSST两种低 Re数湍流模型进行计算并与实验数据进行对比，讨论了两种模型对于高壁面热流条件下传热恶化现象的预测能力。通过对流场及温度场的分析对起始加热段传热恶化现象给出机理解释，最后考察了变物性及浮升力的影响。结果表明：k-oSST模型无法模拟传热恶化； $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型能够定性描述起始加热段内壁温的迅速升高。由流体密度变化及重力引起的浮升力作用是导致起始加热段传热恶化的重要原因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超临界压力流体；对流换热；数值计算；RP-3中图分类号： 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerical Study on Heat Transfer Deterioration in the Initial Heating Region of RP-3 under Supercritical Pressure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PU Hang LI Su-Fen DONG Ming SHANG Yan JIAO Si (Key Laboratory of Ocean Energy Utilization and Energy Conservation of Ministry of Education, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dalian University of Technology,Dalian 116024, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The open source CFD toolbox OpenFOAM was used to simulate convective heat transfer of RP-3 flowing in a vertical tube under supercritical presure. Heat transfer deterioration (HTD) in the initial heating region was studied. Two types of low-Reynolds number turbulence models $( k - \\varepsilon - \\nu ^ { 2 } - f$ and $k { - } \\omega$ SST model) were used in the simulation.Numerical results were compared against the experimental data to examine the accuracy of turbulence models in predicting HTD under large wall heat fluxes.The flow field and temperature field were analyzed to propose a mechanism for explaining HTD.The effcts of property variations and buoyancy forces were also investigated. It was concluded that the $k { - } \\omega$ SST model was incapable to predict HTD. The $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ model was able to qualitatively describe the rapid increase of inner walltemperature in the initial heating region.The buoyancy forces caused by density variation and gravity is the main cause of HTD. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: supercritical pressure fluid; convective heat transfer; numerical computation; RP-3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：  \n基金项目：国家自然科学基金资助项目（No.51576027)  \n作者简介：浦航，男，博士生，研究领域为超临界压力碳氢燃料传热传质学 通信作者：李素芬，教授，Email:  \nlisuf@dlut.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超燃冲压发动机是吸气式高超声速飞行器的核心动力部件，长时间、高强度的超声速燃烧与严重的气动加热会带来极高的热负荷[1，2]。在高马赫数飞行速度下，来流空气的滞止温度也随之升高，因而采用空气作为冷却介质的冷却方式无法应用于超燃冲压发动机的热防护中[3]。目前，采用机载碳氢燃料作为冷却剂的再生冷却技术被认为是实现超燃冲压发动机主动热防护最为有效的技术手段之一[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在再生冷却过程中，碳氢燃料首先流经燃烧室外壁毫米量级的冷却通道吸收壁面热量，再喷入燃烧室进行燃烧。为了提升换热效率并避免相变的发生，冷却通道内的压力高于燃料的临界压力[5]。超临界压力流体传热的特殊性在于其热物性会随压力和温度的变化而发生很大的改变。相关研究通常将一定压力下定压比热 $\\langle C _ { \\mathfrak { p } }$ ）峰值所对应的温度定义为拟临界温度（ $\\cdot T _ { \\mathrm { p c } }$ ）[6]。在拟临界温度附近很小的温度范围内，流体的热力学及输运性质（密度、粘度、定压比热、导热系数等）会发生剧烈的变化。此外，由于流体密度变",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "化导致的浮升力及热加速效应也会对流场造成影响。以上因素综合作用，使得超临界压力流体的对流换热过程十分复杂[7,8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了掌握超临界压力下碳氢燃料的对流传热特性，国内外学者已开展了大量研究工作。Zhang等[9，10]对超临界压力RP-3航空煤油在光滑圆管内竖直下降流的传热特性进行了实验研究，将传热过程分为四个阶段：起始加热区、正常换热区、传热强化区和传热恶化区，并基于实验数据拟合得到了传热实验关联式。Li等[1]对超临界压力RP-3航空煤油在光滑圆管内竖直上升流的对流传热进行实验研究，讨论了质量流率、热流密度、压力以及进口温度对于换热的影响规律。刘波等[12] 对超临界压力下正癸烷在竖直圆管内的对流传热进行实验研究，讨论了两种管径条件下（内径$0 . 9 5 \\mathrm { m m }$ 和 $2 \\mathrm { m m }$ ）浮升力及热加速对于换热的影响程度与作用规律。Zhong 等[13] 对超临界压力下RP-3航空煤油在水平圆管内的对流传热进行了数值研究，发现在较高壁面热流密度条件下，当壁温略高于拟临界温度时会出现传热恶化现象，其原因与近壁面区域流体湍动能分布有关。Jiang 等[14]对超临界压力下 JP-8航空煤油在竖直圆管内的对流传热进行了数值研究，研究讨论了不同湍流模型（标准 $k { - } \\varepsilon$ 模型使用标准壁面函数、RNG$k { - } \\varepsilon$ 模型使用增强型壁面函数以及 $k { - } \\omega$ SST模型）对于传热恶化现象的预测能力。研究认为粘度随温度的剧烈变化是高热流密度工况下传热恶化发生的首要原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对超临界压力下RP-3航空煤油在竖直光滑圆管内的对流传热进行数值研究，重点关注起始加热段的传热恶化现象。文中对两种低 $R e$ 数RANS 湍流模型 $( k - \\delta - \\nu ^ { 2 } - f$ 和 $k { - } \\omega$ SST）对于起始加热段传热恶化现象的预测能力进行研究；通过对流场与温度场的分析对传热恶化给出机理解释；最后讨论了变物性及浮升力对于起始加热段传热特性的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1物理模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文依据Zhang等[10]的实验结果设置数值模拟工况，对超临界压力RP-3航空煤油起始加热段的传热特性进行研究。实验中，航空煤油自上向下流经竖直放置的光滑圆管（内径 $1 . 8 0 5 ~ \\mathrm { \\ m m }$ ，外径 $2 . 2 ~ \\mathrm { m m } \\dot { }$ )。实验管总长 $4 5 0 ~ \\mathrm { m m }$ ，其中加热段长",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$3 0 0 ~ \\mathrm { \\ m m }$ ，加热段上、下游分别设置 $9 0 ~ \\mathrm { \\ m m }$ 和60mm的绝热段。实验采用对不锈钢管直接通电的方式进行加热以实现近似均匀壁面热流条件，更多信息详见文献[10]。本文数值模拟工况参数总结如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 RP-3热物性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RP-3航空煤油的临界点为[15]： ${ T _ { \\mathrm { c } } { = } 6 4 5 . 0 4 \\mathrm { ~ K ~ } }$ ，$\\scriptstyle p _ { \\mathrm { c } } = 2 . 3 3$ MPa。RP-3航空煤油热物性与输运性质的选取依据与文献[10]相同。其中密度、动力粘度和定压比热采用Zhang等[16-18]采用实验手段测定的物性数据。导热系数采用Zhong等[4]提出的10组分替代模型依据扩展对比态原理计算得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea9684d3f51faa130f8ac7463fb2224ae5fdd9f5b3ccff0a56f64c07915f29a9.jpg",
+        "table_caption": [
+            "表1数值模拟工况参数",
+            "Table 1Parameters of simulation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>计算 工况</td><td>p /MPa</td><td>q /kW·m-2</td><td>Tin</td><td>G</td></tr><tr><td>I</td><td>5</td><td>300</td><td>/K 473</td><td>/kg:m-2·s-1 1572.7</td></tr><tr><td>I</td><td>5</td><td>400</td><td>373</td><td>1572.7</td></tr><tr><td>IⅢI</td><td>5</td><td>500</td><td>373</td><td>1572.7</td></tr><tr><td>IV</td><td>5</td><td>550</td><td>373</td><td>1572.7</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10 1000 1.0x10 0.20 9 900 Deari speifishea capsty 9.0x104 0.18 800 1 Dynamic viscosity 8.0x104 8 700 Thermal conductivity 7.0x104 0.16   \nK 7 600 6.0x104 0.14   \n5 .00 450x0 01 ? 300 3.0x104 4 0.08 200 2.0x104 3 0.06 100 1.0x104 2L 0 1 0.0 0.04 300 400 500 600 700 800 T/K ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 控制方程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "航空煤油管内对流传热是典型的耦合换热问题，本文采用分区求解、边界耦合的方式进行处理。由于流体做竖直流动，将该问题简化为二维稳态问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "固体域内热传导的控制方程为傅立叶定律：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda \\frac { { \\partial ^ { 2 } } T } { { \\partial { x _ { i } ^ { 2 } } } } + \\dot { \\phi } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\lambda$ 为固体导热系数， $\\dot { \\phi }$ 为内热源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "流体域控制方程如下，连续方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial } { \\partial x _ { i } } ( \\rho u _ { i } ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "动量方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\partial } } { \\partial x _ { j } } ( \\rho u _ { i } u _ { j } ) = - \\frac { \\hat { \\partial } p } { \\partial x _ { i } } + \\frac { \\hat { \\partial } } { \\partial x _ { j } } [ \\left( \\mu + \\mu _ { \\mathrm { t } } \\right) \\frac { \\hat { \\partial } u _ { i } } { \\hat { \\partial } x _ { j } } ] + \\rho g\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "能量方程",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { i } } ( \\rho u _ { i } H ) = \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { i } } [ ( \\frac { \\mu } { P r } + \\frac { \\mu _ { \\mathrm { t } } } { P r _ { \\mathrm { t } } } ) \\frac { \\hat { \\sigma } H } { \\hat { \\sigma } x _ { i } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上各式中， $\\rho$ 为密度， $\\mu$ 与 $\\mu _ { \\mathrm { t } }$ 分别为分子粘度与湍流粘度， $g$ 为重力加速度； $H$ 为流体焓值，$P r$ 与 $P r _ { \\mathrm { t } }$ 分别为分子普朗特数和湍流普朗特数，本文中 $P r _ { \\mathrm { t } } { = } 0 . 8 5$ 。能量方程中忽略了重力作功和粘性耗散项。各湍流模型中 $\\mu _ { \\mathrm { t } }$ 的定义将在下一节中给出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 湍流模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "超临界压力流体管内对流换热与近壁区流场密切相关，获得精确的近壁区流场对于相关研究非常重要。因此，选择合理的湍流模型对于超临界压力流体传热数值研究来讲是十分重要的。本文选择两种在超临界流体传热领域应用较为广泛的低 $R e$ 数RANS 湍流模型： $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型[19]和 $k { - } \\omega$ SST模型[20]。 $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型形式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k$ 输运方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } ( \\rho u _ { i } k ) } { \\hat { \\sigma } x _ { i } } = \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { i } } [ ( \\mu + \\frac { \\mu _ { \\mathrm { t } } } { \\sigma _ { k } } ) \\frac { \\hat { \\sigma } k } { \\hat { \\sigma } x _ { i } } ] + P _ { k } + G _ { k } - \\rho \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\varepsilon$ 输运方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\partial } ( \\rho u _ { i } \\varepsilon ) } { \\hat { \\partial } x _ { i } } = \\frac { C _ { \\varepsilon 1 } ( P _ { k } + G _ { k } ) - C _ { \\varepsilon 2 } \\rho \\varepsilon } { T _ { s } } + \\frac { \\hat { \\partial } } { \\hat { \\partial } x _ { i } } [ ( \\mu + \\frac { \\mu _ { \\mathrm { t } } } { \\sigma _ { \\varepsilon } } ) \\frac { \\hat { \\partial } \\varepsilon } { \\hat { \\partial } x _ { i } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { k }$ 为湍动能生成项； $G _ { k }$ 为浮升力生成项，采用广义梯度扩散假设(Generalizedgradientdiffusion hypothesis，GGDH)构建[21]，其形式分别如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { k } = - \\rho \\overline { { u _ { i } ^ { ' } u _ { j } ^ { ' } } } \\frac { \\partial u _ { i } } { \\partial u _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { k } = - \\rho C _ { \\mathrm { t } } \\beta g _ { i } \\frac { k } { \\varepsilon } \\overline { { u _ { i } ^ { \\prime } u _ { j } ^ { \\prime } } } \\frac { \\partial T } { \\partial x _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\nu ^ { 2 }$ 输运方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } ( \\rho u _ { i } \\overline { { \\nu ^ { 2 } } } ) } { \\hat { \\sigma } x _ { i } } = \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { i } } [ ( \\mu + \\frac { \\mu _ { \\mathrm { t } } } { \\sigma _ { k } } ) \\frac { \\hat { \\sigma } \\overline { { \\nu ^ { 2 } } } } { \\hat { \\sigma } x _ { i } } ] + \\rho k f - 6 \\rho \\frac { \\overline { { \\nu ^ { 2 } } } \\varepsilon } { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$f$ 椭圆松弛方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { 2 } \\frac { \\partial ^ { 2 } f } { \\partial x _ { i } ^ { 2 } } - f = \\frac { 1 } { T _ { \\mathrm { s } } } [ ( C _ { 1 } - 1 ) [ \\frac { \\overline { { { \\nu ^ { 2 } } } } } { k } - \\frac { 2 } { 3 } ] - C _ { 2 } \\frac { P _ { k } } { \\rho k } - 5 \\varepsilon \\frac { \\overline { { { \\nu ^ { 2 } } } } } { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型中湍流粘度定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mu } _ { \\mathrm { t } } = \\rho { C _ { \\mu } } { \\overline { { \\nu ^ { 2 } } } } T _ { \\mathrm { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中，常数 $T _ { \\mathrm { s } }$ 与 $L _ { \\mathrm { s } }$ 的形式详见参考文献[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k { - } \\omega$ SST模型形式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k$ 输运方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } ( \\rho u _ { i } k ) } { \\hat { \\sigma } x _ { i } } = \\bigtriangledown _ { k } + \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { i } } [ ( \\mu + \\sigma _ { k } \\mu _ { \\mathrm { t } } ) \\frac { \\hat { \\sigma } k } { \\hat { \\sigma } x _ { i } } ] - \\beta ^ { * } \\rho k \\omega\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\omega$ 输运方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } ( \\rho u _ { i } \\omega ) } { \\hat { \\sigma } x _ { i } } = \\alpha \\rho S ^ { 2 } - \\beta \\rho \\omega ^ { 2 } + \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { i } } [ ( \\mu + \\sigma _ { w } \\mu _ { \\mathrm { t } } ) \\frac { \\hat { \\sigma } \\omega } { \\hat { \\sigma } x _ { i } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 2 ( 1 - F _ { 1 } ) \\rho \\sigma _ { w 2 } \\frac { 1 } { \\omega } \\frac { \\partial k } { \\partial x _ { i } } \\frac { \\partial \\omega } { \\partial x _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boxed { P _ { k } } = \\operatorname* { m i n } ( P _ { k } , 1 0 \\beta ^ { * } \\rho k \\omega )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { { } } k } = \\mu _ { \\mathrm { { t } } } { \\frac { { \\hat { \\partial } } u _ { i } } { { \\hat { \\partial } } x _ { j } } } ( { \\frac { { \\hat { \\partial } } u _ { i } } { { \\hat { \\partial } } x _ { j } } } + { \\frac { { \\hat { \\partial } } u _ { j } } { { \\hat { \\partial } } x _ { i } } } ) \\ { \\mathrm { ~ o } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k { - } \\omega$ SST模型中湍流粘度定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { \\mathrm { t } } = \\rho \\frac { \\phi _ { \\mathrm { l } } k } { \\operatorname* { m a x } ( \\phi _ { \\mathrm { l } } \\omega , S F _ { 2 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$k { - } \\omega$ SST模型中的常数 $\\phi$ 按下式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi = \\phi _ { 1 } F _ { 1 } + \\phi _ { 2 } ( 1 - F _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "混合函数 $F _ { 1 }$ 定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { 1 } = \\operatorname { t a n h } \\left\\{ \\left\\{ \\operatorname* { m i n } \\left[ \\operatorname* { m a x } ( \\frac { \\left( k \\right) ^ { 1 / 2 } } { \\beta ^ { * } \\omega y } , \\frac { 5 0 0 \\nu } { y ^ { 2 } \\omega } ) , \\frac { 4 \\rho \\sigma _ { \\omega 2 } k } { C D _ { k \\omega } y ^ { 2 } } \\right] \\right\\} ^ { 4 } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $C D _ { k \\omega } = \\operatorname* { m a x } \\Bigg ( 2 \\rho \\sigma _ { \\omega 2 } \\frac { 1 } { \\omega } \\frac { \\partial k } { \\partial x _ { i } } \\frac { \\partial \\omega } { \\partial x _ { i } } , 1 0 ^ { - 1 0 } \\Bigg )$ ： $\\phi _ { 1 }$ 与$\\phi _ { 2 }$ 分别为 $k { - } \\omega$ 模型和标准 $k { - } \\varepsilon$ 模型的常数，详见参考文献[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3数值方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值计算使用开源计算流体力学程序库OpenFOAM（版本号2.4.0.）对偏微分方程组进行求解。控制方程采用有限体积法离散。动量方程、能量方程中对流项采用QUICK格式，其余各输运方程中的对流项采用一阶迎风格式。采用SIMPLE算法处理压力与速度耦合。当各求解量",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "残差小于 $1 0 ^ { - 5 }$ 时认为计算收敛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算域尺寸与物理模型相一致，加热段上、下游均设置绝热段以保证进入加热段时流动充分发展以及数值解的稳定。为保证近壁区流场的精确求解，对流体域壁面附近处网格进行加密。本文所有计算工况均满足壁面附近第一个节点处$y ^ { + } { < } 0 . 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算边界条件设置如下：固体域内设置均匀体积热源以模拟均匀壁面热流条件，管外壁与两端均设置为绝热。流体域入口处设置均匀速度、温度及各湍流输运量，设置轴向压力梯度为零；出口处设置各输运量轴向梯度为零，恒定压力。壁面处各输运量边界条件如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算前首先进行网格无关性分析。选取 $k { - } \\omega$ SST模型对I号工况进行计算，三种网格划分方案总网格数分别为72000、108000及216000。计算工况参数如下：压力5MPa，质量流量1572.7$\\bf { k g } / \\bf { m } ^ { 2 . } \\bf { s }$ ，入口温度 $4 7 3 \\mathrm { ~ K ~ }$ ，热流密度 $3 0 0 \\mathrm { \\ k W / m } ^ { 2 }$ ，竖直下降流动。图2给出3套网格计算结果与实验数据的对比。该工况处于湍流区（主流雷诺数范围14900-45000)，内壁温沿流动方向单调上升。计算结果表明：当网格数增加至108000时已经可以满足计算结果与网格数量无关，因而采用该方案。计算内壁温与实验数据符合良好，也验证了本文模型与数值方法的正确性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/efea89393fb9d61570e03e7c37c1a17b3e9aefa419444d3e35619877e753c0cb.jpg",
+        "table_caption": [
+            "表2流体域壁面处边界条件设置",
+            "Table 2 Wall boundary conditions in the fluid region "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td></tr><tr><td></td><td>k-ε-v2-f模型</td><td>k-ω SST 模型</td></tr><tr><td rowspan=\"2\">U</td><td>fixedValue（00</td><td>fixedValue（00</td></tr><tr><td>0）</td><td>0）</td></tr><tr><td>p</td><td>zeroGradient</td><td>zeroGradient</td></tr><tr><td>k</td><td>fixedValue le-10</td><td>fixedValue le-10</td></tr><tr><td></td><td>zeroGradient</td><td>/</td></tr><tr><td></td><td>/</td><td>fixedValue le-10</td></tr><tr><td>v²</td><td>fixedValue le-10</td><td>/</td></tr><tr><td>f</td><td>fixedValue le-10</td><td>/</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/21222a85c65c5548fbd85f71658ef2f17770ed88f80be3be4fadd3b015594dd2.jpg",
+        "img_caption": [
+            "图2不同网格计算内壁温与实验数据对比 Fig.2Comparison of calculated inner wall temperature against the experimental data using different meshes "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3计算结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1不同湍流模型对起始加热段传热恶化的预测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3给出II-IV号工况下采用 $k { - } \\omega$ SST模型和$k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型计算得到的内壁温与实验数据的对比。下文各图中， $x / d { = } 0$ 表示加热段的起始点。模拟工况流体进口温度较低，密度较大，流速较低，管入口流动属于过渡区（进口雷诺数约为6600)。实验数据显示，在管加热段起始点附近内壁温迅速上升出现局部峰值，发生传热恶化。在换热强度恢复后，内壁温开始下降，再沿流动方向单调上升。如图3所示，采用 $k { - } \\omega$ SST模型计算得到的内壁温沿流动方向单调上升，未观察到局部峰值，无法描述传热恶化现象。采用 $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型计算得到的内壁温与实验数据吻合良好：内壁温沿流动方向首先迅速上升，随后略微下降，再沿流动方向单调上升。可见，该模型能够定性描述起始加热段内壁温的变化趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$k { - } \\omega$ SST模型假设湍流是各向同性的，而 $k { - } \\varepsilon { - }$ $\\nu ^ { 2 } { - } f$ 模型使用 $\\nu ^ { \\prime } { } ^ { 2 }$ 作为速度尺度以正确描述壁面处湍流的衰减，部分考虑了湍流各向异性的影响。在本文所涉及的问题中， $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型获得了更好的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/64e23370e402a080f5d7e95dd6aaef27c3843bd7a805dd8eb91b54cbc2ce5c94.jpg",
+        "img_caption": [
+            "Fig.4Comparison of calculated heat transfer coefficients using the k-ε- $\\cdot \\nu ^ { 2 }$ -fmodel against the experimental data "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4进一步给出采用 $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型计算得到的起始加热段对流换热系数与实验数据的对比。由图可知， $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型能够良好地模拟起始加热段传热恶化现象，下文将基于该模型的计算结果对传热恶化进行分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/95ce860a46cc59b2b09e22185dc20b00bab51c5a088273a4735d0f84b2c97330.jpg",
+        "img_caption": [
+            "图3不同湍流模型计算内壁温与实验数据对比 Fig.3Comparison of calculated inner wall temperature using different turbulence models against the experimental data ",
+            "图4 $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型计算对流换热系数与实验数据对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2起始加热段传热恶化机理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5给出ⅡI号工况下采用 $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型计算得到的起始加热段内壁温及对流换热系数与实验数据的对比。为便于分析，沿流动方向选取4个截面位置：P1-P4（ $\\scriptstyle \\cdot \\mathrm { P l } : x / d = 8$ $\\mathrm { P } 2 { : } x / d { = } 1 5$ $\\mathrm { P } 3 { : } x / d { = } 2 3$ $\\scriptstyle \\mathrm { P 4 : } x / d = 4 0 $ )。其中，P1-P3位于传热恶化区，P4位于传热恶化后换热的恢复区。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/688e8d5640da75af7364531f802e7bf277d7a84852849cf94ca9d4b8b910038a.jpg",
+        "img_caption": [
+            "图5 $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型计算内壁温及对流换热系数与实验数据对比 (工况II)",
+            "Fig.5Comparison of calculated inner wall temperature and heat transfer coefficient using the $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ model against the experimental data (Case II) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6给出P1-P4截面处流体轴向速度（图a)与温度（图b）的分布情况。从图6（a）可以看出，在传热恶化区（P1-P3)，热边界层内流体轴向速度呈抛物形分布。对比观察图6(b)，此时壁面与主流流体温差较大，主流区流体温度变化很小。其原因是此时热边界层内流动呈层流状态，热量难以从壁面传递给主流区流体。此外，热边界层的厚度沿流动方向逐渐增加，传热热阻不断增大，从而导致了传热恶化的发生。随着流体温度的升高，密度减小，流体速度不断增加，热边界层内流动开始向湍流状态过渡(P4)。由图6（b）可知，P4处壁面与主流流体温差逐渐减小；对比观察图4，此时对流换热系数开始沿流动方向逐渐增加，表明换热强度已开始恢复。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c94c4cd0c55814f0bbf5f1d113a2bbf5edc52dd362ad787f24c26543ae5d9932.jpg",
+        "img_caption": [
+            "图6起始加热段流体轴向速度与温度分布 Fig.6Distribution of axial velocity and temperature in the initial heating region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步考察变物性及浮升力对于起始加热段换热的影响，图7给出保持流体密度、粘度不变时（恒定为入口温度条件下流体的物性)，以及重力加速度设为零值（ $\\scriptstyle { \\phantom { - } } g = 0$ ）时计算内壁温与实验数据的对比。如图7所示，当流体密度保持恒定时内壁温未出现局部峰值；当重力加速度设为零值时，内壁温变化趋势与密度保持恒定时基本相同；当流体粘度保持恒定时，入口段内壁温相比于密度恒定时有所升高，但仍低于实际值。由此可知，流体受热后由密度变化及重力引起的浮升力作用是导致加热段传热恶化的主要因素。这一现象与层流混合对流的情况相类似。在起始加热段，边界层呈层流状态。对于向下流动，浮升力的作用方向与流体流动方向相反，导致近壁区流体速度减小[22]。其结果是对流作用所能传递的能量减少，传热能力下降；壁面处速度梯度的减小导致切应力减小，推迟了层流向湍流的转捩；二者综合作用，最终导致了传热恶化的发生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，流体粘度的变化也是造成入口段传热恶化的原因之一。流体受热后粘度减小，近壁区粘性层内切应力减小，导致了传热能力的下降。但其影响小于浮升力作用的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c7c13c260e2bb0696468e533da6bdf10a314456fa7e9325231bcd8c77c24d18.jpg",
+        "img_caption": [
+            "图7变物性及浮升力对于起始加热段换热的影响 Fig.7Effects of property variations and buoyancy forces on heat transfer in the initial heating region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文使用开源流体动力学程序库OpenFOAM对竖直圆管内超临界压力RP-3航空煤油的对流传热进行了数值研究，重点讨论了起始加热段的传热恶化现象。研究主要结论如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）k-αSST模型无法对起始加热段的传热恶化现象进行预测； $k { - } \\varepsilon { - } \\nu ^ { 2 } { - } f$ 模型能够定性描述起始加热段内壁温的变化规律，计算结果与实验数据吻合较好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）由流体密度变化及重力引起的浮升力作用是导致起始加热段传热恶化的重要原因。流体粘度对于起始加热段传热的影响小于浮升力的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "感谢国家自然科学基金委员会对于本课题研究所提供的支持(No.51576027)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Powell O A, Edwards JT,Norris RB,et al.Development ofHydrocarbon-FueledScramjetEngines:The Hypersonic Technology (HyTech) Program[J].Journal of Propulsion and Power,2001,17 (6): 1170-1176.   \n[2] Fry R S.A Century of Ramjet Propulsion Technology Evolution[J]. Journal of Propulsion and Power,2O04,20 (1): 27-58.   \n[3] Edwards T.Liquid Fuels and Propellants for Aerospace ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Propulsion: 1903-2003[J].Journal of Propulsion and Power,2003,19 (6): 1089-1107.   \n[4] ZHONG Fengquan, FAN Xuejun, YU Gong, et al. Heat TransferofAviationKeroseneatSupercritical Conditions[J]. Journal of Thermophysicsand Heat Transfer,2009,23 (3): 543-550.   \n[5] HUA Yixin,WANG Yazhou,MENG Hua.A Numerical Study of Supercritical Forced Convective Heat Transfer of n-Heptane Inside a Horizontal Miniature Tube[J]. The Journal of Supercritical Fluids,2010,52 (1): 36-46.   \n[6] He S, Kim W S, Bae J H. Assessment of Performance of Turbulence Models in Predicting Supercritical Pressure Heat Transfer in a Vertical Tube[J]. International Journal of Heat and Mass Transfer, 2008,51 (19-20): 4659-4675.   \n[7] Pioro IL,Duffey R B. Experimental Heat Transfer in Supercritical Water Flowing Inside Channels (Survey)[J]. Nuclear Engineering and Design,2005,235 (22):2407- 2430.   \n[8] He S, Kim W S, Jackson JD.A Computational Study of Convective Heat Transfer to Carbon Dioxide at a Pressure Just Above the Critical Value[J]. Applied Thermal Engineering,2008,28 (13): 1662-1675.   \n[9] 张斌，张春本，邓宏武，等．超临界压力下碳氢燃料在 竖直圆管内换热特性[J]．航空动力学报,2012,27(03): 595-603. ZHANG Bin, ZHANG Chunben,DENG Hongwu, et al. Heat Transfer Characteristics of Hydrocarbon Fuel at Supercritical Pressure in Vertical Circular Tubes[J]. Journal of Aerospace Power,2012, 27 (03):595-603.   \n[10] ZHANG Chunben， XU Guoqiang,GAO Lin, et al. Experimental Investigation on Heat Transfer of a Specific Fuel (RP-3） FlowsThrough Downward Tubesat Supercritical Pressure[J]. The Journal of Supercritical Fluids,2012, 72 (0): 90-99.   \n[11] LI Wei, HUANG Dan, XU Guoqiang, et al. Heat Transfer to Aviation Kerosene Flowing Upward in Smooth Tubes at Supercritical Pressures[J]. International Journal of Heat and Mass Transfer,2015,85: 1084-1094.   \n[12] 刘波，王夕，祝银海，等．超临界压力下正癸烷在微细 圆管内对流换热实验研究[J]．工程热物理学报，2014, 35 (01): 114-118. LIU Bo,WANG Xi, ZHU Yinhai, et al. Experimental Investigation of Convection Heat Transfer of n-Decane at Supercritical Pressures in a Micro/Mini Vertical Tube[J].Journal of Engineering Thermophysics,2014, 35 (01): 114-118.   \n[13] DANG Guoxin, ZHONG Fengquan, CHEN Lihong, et al. Numerical Investigation on Flow and Convective Heat TransferofAviation KeroseneatSupercritical Conditions[J]. Science China Technological Sciences, 2013, 56 (2): 416-422.   \n[14] Jiang H, Ervin J,West Z,et al. Turbulent Flow,Heat Transfer Deterioration，and Thermal Oxidation of Jet Fuel[J].Journal of Thermophysics and Heat Transfer, 2013,27 (4): 668-678.   \n[15] DENG Hongwu, ZHANG Chunben, XU Guoqiang, et al. Visualization Experimentsof a Specific Fuel Flow Through Quartz-glass Tubes Under both Sub- and SupercriticalConditions[J].ChineseJournalof Aeronautics,2012,03 (03): 372-380.   \n[16] DENG Hongwu, ZHANG Chunben, XU Guoqiang, et al. Density Measurements of Endothermic Hydrocarbon Fuel atSub-andSupercritical Conditions[J]. Journalof Chemical & Engineering Data,2011,56 (6): 2980-2986.   \n[17] DENG Hongwu, ZHANG Chunben, XU Guoqiang, et al. Viscosity Measurements of Endothermic Hydrocarbon Fuel from (298 to 788) K under Supercritical Pressure Conditions[J]. Journal of Chemical & Engineering Data, 2012, 57 (2): 358-365.   \n[18] DENG Hongwu, ZHU Kun, XU Guoqiang, et al. Isobaric Specific Heat Capacity Measurement for Kerosene RP-3 in the Near-Critical and Supercritical Regions[J]. Journal of Chemical & Engineering Data, 2011,57 (2): 263-268.   \n[19] Lien F-S,Kalitzin G. Computations of Transonic Flow with the v2-f Turbulence Model[J]. International Journal of Heat and Fluid Flow,2001,22 (1): 53-61.   \n[20] Menter F R. Two-Equation Eddy-Vscosity Turbulence Models for Engineering Applications[J]. AIAA Journal, 1994, 32 (8): 1598-1605.   \n[21]Daly B J，Harlow F H. Transport Equationsin Turbulence[J]. Physics of Fluids,1970,13 (11): 2634- 2649.   \n[22] Kim W S,He S, Jackson JD.Assessment by Comparison with DNSData of Turbulence Models Usedin SimulationsofMixed Convection[J]. International Journal of Heat & Mass Transfer,2008,51 (5-6):1293- 1312. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "附：作者信息",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "姓名：李素芬 教授  \n通讯地址：大连理工大学能源与动力学院718室辽宁省大连市甘井子区凌工路2号  \n邮编；116024  \n手机号码：13084159090  \n电话：0411-84762152  \n电子邮箱：lisuf@dlut.edu.cn",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 7
+    }
+]

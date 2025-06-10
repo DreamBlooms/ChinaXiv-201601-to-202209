@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "Heavy Supersymmetric Particle Effects in Higgs Boson Production Associated with a Bottom Quark Pair at LHC and Tevatron ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guangping Gao ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InstituteofTheoreticalPhysics，AcademiaSinica,Beijing1Ooo8o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robert J.Oakes ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Physics and Astronomy，Northwestern University,Euanston， IL 6O208,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jin Min Yang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CCAST(World Laboratory)， P.O.Box 8730, Beijing 100080, China; InstituteofTheoreticalPhysics，AcademiaSinica,Beijing1Ooo8o,Chinc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If all the supersymmetry particles (sparticles) except a light Higgs boson are too heavy to be directly produced at the Large Hadron Collider (LHC） and Tevatron，a possible way to reveal evidence for supersymmetry is through their virtual effcts in other processes.We examine such supersymmetric QCD efects in bottom pair production associated with a light Higgs boson at the LHC and Tevatron.We find that if the relevant sparticles (gluinos and squarks) are well above the TeV scale,too heavy to be directly produced,they can still have sizable virtual efects in this process. For large tan $\\beta$ , such residual effects can alter the production rate by as much as 4O percent, which should be observable in future measurements of this process. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "14.80.Ly,14.80.Cp,12.60.Jv ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Searching for the Higgs boson is one of the most important tasks in particle physics.The existence of arelatively light Higgs issuggestedbyhigh precisionfits tothedatainthe StandardModel(SM)andalsois theoreticalyfavored in the Minimal Supersymmetric Standard Model (MSSM)[1].Verification of the existence of a light Higgs boson at the LHC or Tevatron is therefore a very important test for both the SMand the MSSM.Among the various production channels for a light Higgs boson at the hadron coliders,the production in assciation with a bottom quark pair, $p p ( { \\mathrm { o r } } p { \\bar { p } } ) \\to h b { \\bar { b } } + X$ ，plays an important role in testing the bottom quark Yukawa couplings. While this process has asmallcrosssection inthe SM,in the MSSMthis production mechanism can be asignificant source of Higgs bosons since the bottom quark Yukawa coupling in the MSSM is proportional to $\\tan \\beta$ (defined as $v _ { 2 } / v _ { 1 }$ （20 with $\\boldsymbol { v } _ { 1 , 2 }$ being the vacuum expectation values of the two Higgs doublets)and the current analyses favor large $\\tan \\beta$ This process has been studied at next-to-leading order in perturbative QCD [2-8]. Due to the importance of this production mechanism in testing the bottom quark Yukawa coupling in the MSSM,the supersymmetry (SUSY) loop efects in this process should also be considered. Of course,among the SUSY loop effects the one-loop SUSY QCD corrections are the dominant. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present work we examine the one-loop SUSY QCD effects in this process. Instead of performing a complete one-loopcalculation,which would be quite complicated sinceit involves many five-point box diagrams,we focus on the so-called SUSY residual effects,i.e., the SUSY effects in the heavy limit ( $\\gtrsim$ TeV）of the sparticles involved. Our motivations are the following: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "· It is possble that allthe sparticles excepta light Higgs boson are too heavy to be directly produced at the LHC and Tevatron,such as in the split SUSY scenario proposed recently by Arkani-Hamed and Dimopoulos [9]. Although the fermionic partners (gauginos and Higgsinos)in this scenario are required to be relatively light in order to ensure gauge coupling unification and provide dark mattr candidates,they are not necessarily below a TeV,asrecently shown [10].Thus,it is possible for the LHCand Tevatron to observe no sparticles except a light Higgs boson.In that case a posible way to reveal a hint of supersymmetry is through its residualeffcts in observable processes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "· Unfortunately (or fortunately),SUSY virtual effcts decouple in most processes when SUSY particles become very heavy. However，we know that the only processes where SUSY has residual effcts are those proceses involving Higgs-fermion Yukawa couplings,as first studied for $h  b b$ decay [11,12], and also for certain production processes [13,14]. The production reaction $p p ( { \\mathrm { o r ~ } } p { \\bar { p } } ) \\to h b b + X$ at the LHC or Tevatron is well suited for revealing SUSY residual effects since it involves the $h b \\bar { b }$ coupling. Compared with $p p ( { \\mathrm { o r } } p { \\bar { p } } ) \\to h b + X$ ,this process is also easier to detect since it contains an extra hard $b$ jet in the final state. Once the Higgs boson $( h )$ is observed and its mass is measured through other processes such as gluon-gluon fusion,this reaction can be used to measure the bottom quark Yukawa coupling and to observe the expected residual efects of SUSY. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note that the existence of SUSY residual efects in some Higgs process does not mean SUSY is not decoupling in low energy processes.As shown in previous studies,and also in the folowing work,the residual effects exist when $M _ { A }$ （204 remains light;when $M _ { A }$ is heavy, together with all other SUSY masses,the residual effects do vanish. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follws: In Section I we present our strategy for the calculation of the one-loop SUSY QCD corrections.In Section II we perform numerical calculations and obtain the residual efects in the limit of heavy SUSY masses.The conclusion is given in Section IV and the detailed analytic formulas obtained in our calculations are presented in the Appendix. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.ONE-LOOP SUSY QCD CORRECTIONS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The production $p p ( { \\mathrm { o r } } p { \\bar { p } } ) \\to h b { \\bar { b } } + X$ proceeds through the parton-level processes $g g  h b b$ and $q { \\bar { q } }  h b b$ The one-loop SUSY QCD corrections to this process have a huge number ofone-loop diagrams,including many five-point box diagrams. However,among alltese diagrams only the one-loop diagrams involving the bottom quark Yukawa coupling have residual efects as the SUSY masss become very heavy. Therefore,in our calculation we need only consider the loop corrected bottom quark Yukawa coupling diagrams shown in Fig.1 and Fig. 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In our lopcalculations we used dimensional regularization tocontrol the ultraviolet divergences and adopted the on-mass-shell renormalization scheme.Each effective $h b \\bar { b }$ vertex in Fig.1 contains two parts: one is the irreducible three-point vertex loop contributions and the otheris thecounterterms $\\delta V _ { h b \\bar { b } } = g _ { h b \\bar { b } } ^ { \\mathrm { 0 } } \\delta Z$ with $g _ { h b { \\bar { b } } } ^ { 0 }$ denoting the tree-level $h b b$ coupling and $\\delta Z$ is the renormalization constant given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta Z = { \\frac { \\delta Z _ { L } } { 2 } } + { \\frac { \\delta Z _ { R } } { 2 } } + { \\frac { \\delta m _ { b } } { m _ { b } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta Z _ { L , R }$ and $\\delta m _ { b }$ are respectively the renormalization constant for the $b$ quark field and mass. They can be extracted from the one-loop self-energies shown in Fig.2(b)byusing theon-mas-shellrenormalizationcondition. They are given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\delta Z _ { L } = \\displaystyle \\sum _ { i = 1 } ^ { 2 } \\left[ \\left( 2 m _ { b } ^ { 2 } A _ { i } ^ { 1 } \\frac { \\partial B _ { 1 } } { \\partial p _ { b } ^ { 2 } } - 2 m _ { b } m _ { \\bar { g } } A _ { i } ^ { 2 } \\frac { \\partial B _ { 0 } } { \\partial p _ { b } ^ { 2 } } \\right) \\Big | _ { p _ { b } ^ { 2 } = m _ { b } ^ { 2 } } + \\left( A _ { i } ^ { 1 } - A _ { i } ^ { 3 } \\right) B _ { 1 } \\right] \\left( m _ { b } ^ { 2 } , m _ { \\bar { g } } ^ { 2 } , m _ { \\bar { b } _ { i } } ^ { 2 } \\right) ~ , } } \\\\ { { \\delta Z _ { R } = \\delta Z _ { L } \\left| A _ { i } ^ { 3 } - A _ { i } ^ { 3 } \\ , \\right. } } \\\\ { { \\displaystyle \\frac { \\delta m _ { b } } { m _ { b } } = \\left( \\frac { m _ { \\bar { g } } } { m _ { b } } A _ { i } ^ { 2 } B _ { 0 } - A _ { i } ^ { 1 } B _ { 1 } \\right) \\left( m _ { b } ^ { 2 } , m _ { \\bar { g } } ^ { 2 } , m _ { \\bar { b } _ { i } } ^ { 2 } \\right) ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { i } ^ { 1 } = a _ { i } ^ { 2 } + b _ { i } ^ { 2 }$ ， $A _ { i } ^ { 2 } = a _ { i } ^ { 2 } - b _ { i } ^ { 2 }$ and $A _ { i } ^ { 3 } = 2 a _ { i } b _ { i }$ with $a _ { i }$ and $b _ { i }$ given in the Appendix. $B _ { 0 , 1 }$ are the 2-point Feynman integrals given in [15],and their functional dependence is indicated in the brackets following them. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The counterterm is universal for each $h b \\bar { b }$ vertex shown in Fig.1. However,although the irreducible three-point vertex loops have the same topological structure shown in Fig.2(a),the results are different for different $h b b$ vertices inFig.1because they depend on the external momenta.The results are lengthy and are presented in the Appendix. We have checked that all the ultraviolet divergences do cancel as a result of renormalizability of the MSSM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note that in our_calculations we adopted the so-called on-mass-shell scheme,in which the renormalized mass $m _ { b } = m _ { b } ^ { 0 } - \\delta m _ { b }$ （ $m _ { b } ^ { 0 }$ is the bare mass) is the physical mass, i.e., the pole of the $b$ -quark propagator [11,16,17]. The main difference of this scheme with the $\\overline { { M S } }$ scheme is that in the $\\overline { { M S } }$ scheme a running b-quark mass is introduced to absorb the leading part of thecorrections (for example,the large logarithms in QCD corrections)[16].In calculating SUSY-QCD corrections,there are no such large logarithms and the on-mass-shell scheme is usually adopted（an extensive discussion about this issue was provided in [17])1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d645fa51d2e1ef59e68ebc896741f276dc428936724d0c434e9e31683d0b157e.jpg",
+        "img_caption": [
+            "FIG.1. Feynman diagrams for parton-level subprocesses for $p p ( { \\mathrm { o r } } p { \\bar { p } } ) \\to h b b + X$ with one-loop SUSY QCD corrected hbb vertices. The large dots denote the effective hbb vertex with one-loop SUSY QCD corrections. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Including the one-loop SUSY-QCDcorrections to the bottom quark Yukawa coupling,the renormalized amplitude for $p p ( { \\mathrm { o r ~ } } p { \\bar { p } } ) \\to h b { \\bar { b } } + X$ can be written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = M _ { 0 } ^ { q \\bar { q } } + \\delta M ^ { q \\bar { q } } + M _ { 0 } ^ { g g } + \\delta M ^ { g g } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { 0 }$ and $\\delta M$ represent the tree-level amplitude and one-loop SUSY-QCD corrections,respectively. The detailed expression for $\\delta M$ is given in the Appendix. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our calculation we performed Monte Carlo integration to obtain the hadronic crossection by using the CTEQ5L ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b975263f070c113003211486734da288ca07f5b1429ff5634456b112c1bb250.jpg",
+        "img_caption": [
+            "FIG.2.Feynmandiagrams for theone-loop SUSY QCDcorrections to the hbbvertex: (a)theireducible vertex loops and (b)the self-energy loops of the b quark. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "parton distribution functions [18] with $Q = m _ { h }$ and requiring the transverse momentum of the two b-jets to be larger than 15 GeV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To exhibit the size of the corrections we define the ratio ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { S Q C D } = \\frac { \\sigma - \\sigma _ { 0 } } { \\sigma _ { 0 } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { 0 }$ is the tree-level cross section. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.NUMERICAL RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before performing numerical calculations,we must choose the parameters involved.For the SM parameters we used $m _ { W } = 8 0 . 4 4 8$ GeV, $m _ { Z } = 9 1 . 1 8 7 \\$ GeV, $m _ { t } = 1 7 8$ GeV, $m _ { b } = 4 . 5$ GeV, $\\sin ^ { 2 } \\theta _ { W } = 0 . 2 2 3$ , and the two-loop running coupling constant $\\alpha _ { s } ( Q )$ . For the SUSY parameters,apart from the charged Higgs mass,gluino mass and $\\tan \\beta$ ，the mass parameters of sbottoms are involved. The mass-squared matrix for the sbottoms takes the form [19] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\tilde { b } } ^ { 2 } = \\left( \\begin{array} { c c } { { m _ { \\tilde { b } _ { L } } ^ { 2 } } } & { { m _ { b } X _ { b } ^ { \\dagger } } } \\\\ { { m _ { b } X _ { b } } } & { { m _ { \\tilde { b } _ { R } } ^ { 2 } } } \\end{array} \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m _ { \\tilde { b } _ { L } } ^ { 2 } = m _ { \\tilde { Q } } ^ { 2 } + m _ { b } ^ { 2 } - m _ { Z } ^ { 2 } ( \\frac { 1 } { 2 } - \\frac { 1 } { 3 } \\sin ^ { 2 } \\theta _ { W } ) \\cos ( 2 \\beta ) \\ , } } \\\\ { { m _ { \\tilde { b } _ { R } } ^ { 2 } = m _ { \\tilde { D } } ^ { 2 } + m _ { b } ^ { 2 } - \\frac { 1 } { 3 } m _ { Z } ^ { 2 } \\sin ^ { 2 } \\theta _ { W } \\cos ( 2 \\beta ) \\ , } } \\\\ { { X _ { b } = A _ { b } - \\mu \\tan \\beta \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here $m _ { \\tilde { Q } } ^ { 2 }$ and $m _ { \\tilde { D } } ^ { 2 }$ aroteaingstftefhadsakdoublt $\\tilde { Q }$ and the right-handed down squark $\\tilde { D }$ ，respectively. $A _ { b }$ is the coefficient of the trilinear term $H _ { 1 } \\tilde { Q } \\tilde { D }$ in the soft-breaking terms and $\\mu$ is the bilinear coupling of the two Higgs doublets in the superpotential.Thus，the SUSY parameters involved in the sbottom mass matrix are $m _ { \\tilde { Q } }$ ， $m _ { \\tilde { D } }$ ， $A _ { b }$ ， $\\mu$ and $\\tan \\beta$ ， ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mass-squared matrix is diagonalized by a unitary transformation which relates the weak eigenstates $\\ddot { b } _ { L , R }$ to the mass eigenstates $\\tilde { b } _ { 1 , 2 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { { \\tilde { b } _ { 1 } } } \\\\ { { \\tilde { b } _ { 2 } } } \\end{array} \\right) = \\left( \\begin{array} { c c } { { \\cos { \\theta _ { b } } } } & { { \\sin { \\theta _ { b } } } } \\\\ { { - \\sin { \\theta _ { b } } } } & { { \\cos { \\theta _ { b } } } } \\end{array} \\right) \\left( \\begin{array} { c } { { \\tilde { b } _ { L } } } \\\\ { { \\tilde { b } _ { R } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with the mixing angle and masses determined by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { m _ { \\tilde { b } _ { 1 , 2 } } = \\displaystyle \\frac { 1 } { 2 } \\left[ m _ { \\tilde { b } _ { L } } ^ { 2 } + m _ { \\tilde { b } _ { R } } ^ { 2 } \\mp \\sqrt { \\left( m _ { \\tilde { b } _ { L } } ^ { 2 } - m _ { \\tilde { b } _ { R } } ^ { 2 } \\right) ^ { 2 } + 4 m _ { b } ^ { 2 } X _ { b } ^ { 2 } } \\right] , } } \\\\ { { \\tan 2 \\theta _ { b } = \\displaystyle \\frac { 2 m _ { b } X _ { b } } { m _ { \\tilde { b } _ { L } } ^ { 2 } - m _ { \\tilde { b } _ { R } } ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition,we consider the following experimental constraints: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) $\\mu > 0$ and large $\\tan \\beta$ , in the range $5 \\le \\tan \\beta \\le 5 0$ ,which are favored by the recent muon $g - 2$ measurement [20]. (2） The LEP and CDF lower mass bounds on gluino and sbottom [21] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\tilde { b } _ { 1 } } \\geq 7 5 . 0 ~ \\mathrm { G e V } , ~ m _ { \\tilde { g } } \\geq 1 9 0 ~ \\mathrm { G e V } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next,we present numerical results for LHC ( $\\sqrt { s } = 1 4 \\mathrm { T e V }$ ）andTevatron( $\\sqrt { s } = 2$ TeV） in two representative cases: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Case A:Al SUSY mass parameters are of the same size and much heavier than the weak scale, but $M _ { A }$ is fixed at weak scale, i.e., ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { S U S Y } \\equiv M _ { \\tilde { Q } } = M _ { \\tilde { D } } = A _ { b } = M _ { \\tilde { g } } = \\mu \\gg M _ { E W } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/78ec25e8fc397c34bc6ee93668b7a1957f157727266a6655300312ff38f1e81e.jpg",
+        "img_caption": [
+            "FIG.3. SUSY QCD effects $\\Delta _ { S Q C D } = ( \\sigma - \\sigma _ { 0 } ) / \\sigma _ { 0 }$ versus the common SUSY mass $M _ { S U S Y } ( \\equiv M _ { \\tilde { Q } } = M _ { \\tilde { D } } = A _ { b } = M _ { \\tilde { g } } = \\mu _ { \\lambda }$ ） for a fixed $M _ { A }$ and different values of tan $\\beta$ . The corresponding range of $m _ { h }$ is $9 4 \\sim 1 1 3$ GeV for tan $\\beta = 5$ ， $1 0 2 \\sim 1 2 1 ~ G e V$ for tan $\\beta = 1 5$ and $1 0 3 \\sim 1 2 2$ （20 $G e V$ for tan $\\beta = 3 0$ ， "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this case the mixing of sbottoms is maximal, i.e., $\\theta _ { b } \\sim \\pm \\pi / 4$ . Figs.3 and 4 show the dependence on the SUSY scale $M _ { S U S Y }$ for different values of $\\tan \\beta$ and $M _ { A }$ . We see that $\\Delta _ { S Q C D }$ approaches a non-vanishing constant as ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/62961d0372db49fc1c44aa184316186a7d9dea05d208d6a631c37da5b1cf673b.jpg",
+        "img_caption": [
+            "FIG.4. Same as Fig.3 but for a fixed value of tan $\\beta$ and different values of $M _ { A }$ . The corresponding range of $m _ { h }$ is $9 9 \\sim 1 1 8 \\$ GeV for $m _ { A } = 2 0 0$ GeV, $1 0 0 \\sim 1 1 9$ GeV for $m _ { A } = 3 0 0$ GeV and $1 0 0 \\sim 1 2 0 \\$ GeV for $m _ { A } = 5 0 0$ GeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$M _ { S U S Y }$ becomes large. The effects are enhanced by $\\tan \\beta$ .For $\\tan \\beta = 3 0$ , the residual effects can be as large as $4 0 \\%$ 2. Fig. 4 shows that as $M _ { A }$ becomes large the size of residual efects decrease. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Case B: All SUSY mass parameters, including $M _ { A }$ ， are much larger than the weak scale, i.e., ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { S U S Y } \\equiv M _ { { \\tilde { Q } } } = M _ { { \\tilde { D } } } = A _ { b } = M _ { { \\tilde { g } } } = \\mu = M _ { A } \\gg M _ { E W } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This case also gives maximal mixing for sbottoms. In Fig.5 we show the dependence on the MSSM ma scale $M _ { S U S Y }$ . This figure explicitly exhibits the decoupling behaviour of SUSY QCD as $M _ { S U S Y }$ becomes large. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The underlying reason for the existence of SUSY residual efects in fermion Yukawa couplings when $M _ { A }$ is fixed at the weak scaleis that certain couplings are proportional to SUSY mass parameters [22].As pointed out in [23], the SUSY QCD residual effects in the $h b \\bar { b }$ coupling are proportional to $\\tan \\beta$ .For $h t \\bar { t }$ coupling,however, the SUSY QCD residual effects are proportional to $\\cot \\beta$ . For the process $p p ( { \\mathrm { o r } } \\ p \\bar { p } ) \\to h t t + X$ the calculation of SUSY QCD corrections is analogous to the $p p ( { \\mathrm { o r } } p { \\bar { p } } ) \\to h b b + X$ case. However，we found that the SUSY residual effects in $p p ( { \\mathrm { o r } } \\ p \\bar { p } ) \\to h t t + X$ are quite small, reaching only $3 \\%$ for $\\tan \\beta = 5$ and being smaller for larger $\\tan \\beta$ values. Such a smallefect is even less than the next-to-leading-order QCDcorrections [24-29]and is not likely tobeobservedat the LHC or Tevatron. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3958284ccdc94af01435ba787176647e673f52c89828553455ee50e3f9d71782.jpg",
+        "img_caption": [
+            "FIG.5.Same as Fig.3 but with $M _ { A } = M _ { S U S Y }$ . The corresponding range of $m _ { h }$ is $9 4 \\sim 1 1 6$ GeV for $\\tan \\beta = 5$ ， $1 0 2 \\sim 1 2 2$ GeV for $\\tan \\beta = 1 5$ and $1 0 3 \\sim 1 2 3$ GeV for tan $. \\beta = 3 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note that in our calculations,instead of using the effective $h b b$ vertex [l2],we performed the complete one-loop calculations for $h b \\bar { b }$ Yukawa coupling, which,as pointed out in the paragraph follwing eq.(4),are dependent on the external momenta of $h b \\bar { b }$ vertex. We found that when SUSY mass scale is larger than about 1 TeV, using the effective （202 $h b \\bar { b }$ vertex [12] is a good approximation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As we pointed out in the Introduction, we only considered the one-loop SUSY QCD corrections, which are the dominant part of the SUSY corrections. Of course, the SUSY electroweak corrections to $h b \\bar { b }$ coupling also have residue effects,which, however， are obviously suppressed by a factor $\\alpha _ { E W } / \\alpha _ { s }$ relative to the SUSY QCD effects. Since much more parameters are involved in the SUSY electroweak sector,we did not perform a detailed calculation for the SUSY electroweak corrections here. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We examined the supersymmetric QCD efects in botom pair production associated with a light Higgs boson at the LHC and Tevatron.Wefoundthat when therelevant sparticlesare heavy,wellabove theTeVscale,they neverthele contribute sizable virtual effects in this process. For large $\\tan \\beta$ , these residual effects can alter the production cross section by as much as 40 percent and thus should be measurable in observations of this process at the LHC or Tevatron. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "If only one light Higgs boson,or perhaps several Higgs bosons,are discovered at the LHC or Tevatron,it could indicate that the SUSY scale is quite high; above the TeV scale. Ofcourse,the fine-tuning problem then remains and supersymmetry loses one of its merits.But this might posibly happen since supersymmetry does not have to solve the fine-tuning problem,as argued recentlyby Arkani-Hamed and Dimopoulos [9]. In that case,a possible way to reveal a hint of supersymmetry is through its residue efects.Higgs production asociated with a pairof bottom quarks is then well suited for such a seeking a clue for supersymmetry. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Junjie Cao for discusions.This work is supported in part by the Chinese Natural Science Foundation and by the US Department of Energy, Division of High Energy Physics under grant No. DE-FG02-91-ER4086. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX A: EXPRESSIONS OF SUSY QCD CORRECTIONS TO THE AMPLITUDE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The coupling at the vertex $h ^ { 0 } \\tilde { b } _ { i } \\tilde { b } _ { j } ^ { * }$ is needed in our calculations. It is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( h ^ { 0 } \\tilde { b } _ { i } \\tilde { b } _ { j } ^ { * } ) = i g Q _ { i j } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Q _ { 1 1 } = c _ { 1 } \\cos ^ { 2 } \\theta _ { b } + c _ { 2 } \\sin ^ { 2 } \\theta _ { b } + 2 c _ { 3 } \\sin \\theta _ { b } \\cos \\theta _ { b } \\ , } \\\\ & { Q _ { 1 2 } = \\left( c _ { 2 } - c _ { 1 } \\right) \\sin \\theta _ { b } \\cos \\theta _ { b } + c _ { 3 } \\big ( \\cos ^ { 2 } \\theta _ { b } - \\sin ^ { 2 } \\theta _ { b } \\big ) \\ , } \\\\ & { Q _ { 2 1 } = \\left( c _ { 2 } - c _ { 1 } \\right) \\sin \\theta _ { b } \\cos \\theta _ { b } + c _ { 3 } \\big ( \\cos ^ { 2 } \\theta _ { b } - \\sin ^ { 2 } \\theta _ { b } \\big ) \\ , } \\\\ & { Q _ { 2 2 } = c _ { 1 } \\sin ^ { 2 } \\theta _ { b } + c _ { 2 } \\cos ^ { 2 } \\theta _ { b } - 2 c _ { 3 } \\sin \\theta _ { b } \\cos \\theta _ { b } \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle c _ { 1 } = - \\frac { m _ { Z } } { \\cos \\theta _ { W } } \\left( \\frac { 1 } { 2 } - \\frac { 1 } { 3 } \\sin ^ { 2 } \\theta _ { W } \\right) \\sin ( \\alpha + \\beta ) ~ , } } \\\\ { { \\displaystyle c _ { 2 } = - \\frac { m _ { Z } } { \\cos \\theta _ { W } } \\frac { 1 } { 3 } \\sin ^ { 2 } \\theta _ { W } \\sin ( \\alpha + \\beta ) ~ , } } \\\\ { { \\displaystyle c _ { 3 } = \\frac { m _ { b } } { 2 m _ { W } \\cos \\beta } ( A _ { b } \\sin \\alpha + \\mu \\cos \\alpha ) ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Here $\\alpha$ is the mixing angle between the two neutral CP-even Higgs bosons. Then one-loop contributions $\\delta M ^ { q q }$ and $\\delta M ^ { g g }$ are given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } &  \\begin{array} { r l } &  \\mathcal { S } _ { \\mathrm { A } } ^ { \\dagger } \\dag = \\frac { 1 } { 2 } \\frac { \\sqrt { \\langle \\boldsymbol { A } _ { 2 } ^ { \\dagger } \\boldsymbol { S } _ { \\mathrm { B } } ^ { \\dagger } \\rangle } } { 2 } \\frac { \\sqrt { \\langle \\boldsymbol { A } _ { 2 } ^ { \\dagger } \\boldsymbol { S } _ { \\mathrm { B } } ^ { \\dagger } \\rangle } } { 2 } \\frac { \\sqrt { \\langle \\boldsymbol { A } _ { 2 } ^ { \\dagger } \\boldsymbol { S } _ { \\mathrm { B } } ^ { \\dagger } \\rangle } } { 2 } \\frac { \\sqrt { \\langle \\boldsymbol { A } _ { 2 } ^ { \\dagger } \\boldsymbol { S } _ { \\mathrm { B } } ^ { \\dagger } \\rangle } } { 2 } \\frac  { \\sqrt { \\langle \\boldsymbol { A } _ { 2 } ^ { \\dagger } \\boldsymbol { S } _ { \\mathrm { B } } ^ { \\dagger } \\rangle } } { 2 }  \\boldsymbol { A } _ { 2 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 2 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger } + \\frac { 1 } { 2 } \\boldsymbol { A } _ { 3 } ^ { \\dagger }  \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { - \\exp ( \\int \\exp ( \\frac { \\displaystyle \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\mathrm { d } t ) + \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) } \\\\ & { \\quad \\times ( \\mathrm { d } \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( \\exp ( \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) , } \\\\ & { \\quad \\times \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( \\mathrm { d } \\xi ) , } \\\\ & { \\quad \\quad - \\frac { \\sqrt { 2 } \\mathrm { d } { d } t } \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) } \\\\ & { \\quad \\quad \\quad - \\frac { \\sqrt { 2 } \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } \\exp ( \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) } \\\\ &  \\quad \\times \\exp ( - \\frac { \\mathrm { d } \\xi } { \\displaystyle \\mathrm { d } t } ) \\exp ( - \\frac { \\mathrm { d } \\xi }  \\displaystyle \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "wherewedefined ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { a _ { 1 , 2 } = ( \\sin \\theta _ { b } \\mp \\cos \\theta _ { b } ) / \\sqrt { 2 } \\ , } } \\\\ { { b _ { 1 , 2 } = ( \\cos \\theta _ { b } \\pm \\sin \\theta _ { b } ) / \\sqrt { 2 } \\ , } } \\\\ { { F _ { \\lambda \\mu \\nu } = ( p _ { 1 } - p _ { 2 } ) _ { \\lambda } g _ { \\mu \\nu } + ( p _ { 2 } + k _ { 1 } + k _ { 2 } + k _ { 3 } ) _ { \\mu } g _ { \\nu \\lambda } - ( p _ { 1 } + k _ { 1 } + k _ { 2 } + k _ { 3 } ) _ { \\nu } g _ { \\lambda \\mu } \\ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the above, $p _ { 1 }$ and $p _ { 2 }$ are respectively the momenta of the incoming quark and antiquark, $ { \\boldsymbol { k } } _ { 1 } , { \\boldsymbol { k } } _ { 2 }$ and $k _ { 3 }$ are respectively the outgoing $b$ quark, $\\bar { b }$ quark,and the Higgs boson momenta, $\\hat { s }$ is the Mandelstam variable defined by $\\hat { s } = ( k _ { 1 } +$ （20 $k _ { 2 } + k _ { 3 } ) ^ { 2 } = ( p _ { 1 } + p _ { 2 } ) ^ { 2 }$ ， $T ^ { a }$ are the $S U ( 3 )$ color matrices, $f _ { a b c }$ are anti-symmetric structure constants of $S U ( 3 )$ color matrices, $G _ { S } = g g _ { s } ^ { 4 } C _ { F } / 1 6 \\pi ^ { 2 }$ with $C _ { F } = 4 / 3$ ，and $C _ { 0 }$ and $C _ { i j }$ are the 3-point Feynman integrals [15] with their functional dependence indicated in the brackets following them. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] For a review,see,e.g.,H. E. Haber,G.L.Kane,Phys. Rept.117,75 (1985). [2] D.Dicus,T. Stelzer,Z. Sullivan, S.Willenbrock, Phys.Rev.D 59,094016 (1999). [3] C.Balazs,H.-J. He,C.P. Yuan,Phys. Rev.D 60,114001 (1999). [4] J.Campbell,R.K.Ellis,F.Maltoni,S.Willenbrock,Phys.Rev.D 67,095002 (2003). [5]S.Dittmaier,M.Kräemer,M.Spira,Phys.Rev.D 70,074010 (2004). [6] S.Dawson, C. Jackson,L.Reina, D.Wackeroth,Phys. Rev.D 69,074027 (2004). [7] S.Dawson,C.B. Jackson,L.H. Orr,L.Reina,D.Wackeroth,hep-ph/0311105. [8] D.Dicus, S. Willenbrock, Phys.Rev.D 39,751 (1989). [9] N.Arkani-Hamed and S.Dimopoulos,hep-th/0405159. [10] L. Senatore,hep-ph/0412103. [11] H.E. Haber,et al.,Phys.Rev.D 63,055004 (2001). [12]A.Dabelstein,Nucl.Phys.B456,25(1995);C.S.Li,J.M.Yang,Phys.Lett.B315,367(1993);Forareview,see,M. Carena andH.E.Haber,Prog.Part.Nucl.Phys.5063(2003). [13] J.Cao,G.Gao,R. J. Oakes,J. M. Yang,Phys.Rev.D 68,075012 (2003). [14] G.Gao,G. Lu, Z. Xiong and J. M. Yang, Phys. Rev. D 66, O15007 (2002). [15] G. Passarino and M. Veltman,Nucl. Phys.B160, 151 (1979). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16]See,for example,E.BraatenandJ.P.Leveile,Phys.Rev.D22,715(1980);M.DresandK.Hikasa,Phys.Lett.B240, 455 (1990).   \n[17]M.Carena,D.Garcia,U.NiersteandC.E.Wagner,Nucl.Phys.B577,88 (200);H.Eberl,etal.,Phys.Rev.D62, 055006 (2000).   \n[18] H.L. Lai,et al.(CTEQ collaboration),Eur.Phys. J.C12,375 (2000).   \n[19] J.F.Gunion and H. E. Harber,Nucl. Phys.B272,1(1986).   \n[20] H.N Brown,et al.,Mu g-2 Collaboration,Phys.Rev.Lett.86, 2227 (2001).   \n[21] Particle Physics Group. Eur. Phys. J. C15, 274 (2000).   \n[22] For some early discussons, see, e.g, X.Y. Li, E. Ma, J. Phys. G 23,885 (1997).   \n[23] A.Dobado,M. J. Herrero,D. Temes,Phys.Rev.D 65,075023 (2002).   \n[24] W. Beenakker,et al., Phys.Rev. Lett.87, 201805 (2001).   \n[25] L.Reina and S.Dawson,Phys.Rev.Lett.87, 201804 (2001).   \n[26] W.Beenakker,et al.,Nucl.Phys.B653,151 (2003).   \n[27] L.Reina, S.Dawson and D.Wackeroth,Phys.Rev.D 65,053017 (2002).   \n[28] S.Dawson,L.H. Orr,L.Reina and D.Wackeroth,Phys.Rev.D 67,071503 (2003).   \n[29] S.Dawson, C.Jackson,L.H. Orr,L.Reina and D.Wackeroth,Phys.Rev.D 68,034022 (2003). ",
+        "page_idx": 9
+    }
+]

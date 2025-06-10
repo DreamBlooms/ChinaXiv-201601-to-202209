@@ -1,0 +1,731 @@
+[
+    {
+        "type": "text",
+        "text": "99mTc-Cyclopentadienyl Tricarbonyl Chelate-Labeled Compounds as Selective Sigma-2 Receptor Ligands for Tumor Imaging ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dan Li,t→ Yuanyuan Chen,→ Xia Wang,† Winnie Deuther-Conrad, Xin Chen,† Bing Jia,\\$ Chengyan Dong,\" Jorg Steinbach,\\* Peter Brust,\\* Boli Liu, and Hongmei Jia\\*†\" ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+KeyLaboratoryofadiopharmaceuticals (BeijgNoralUnversity),inistryofducation,Collgeofhemistryejgo   \nUniversity, Beijing 100875, China   \n\\*Institute of Radiopharmaceutical Cancer Research/Department of Neuroradiopharmaceuticals, Helmholtz-Zentrum   \nDresden-Rossendorf, 04318 Leipzig, Germany   \n\\$Medical and Healthy Analytical Center,Peking University, Beijing l00191,China   \n\"Interdisciplinary Laboratory,Instituteof Biophysics,ChineseAcademyof Sciences,Beijing loo1,ina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: We have designed and synthesized a series of cyclopentadienyl tricarbonyl rhenium complexes containing a $^ { 5 , 6 }$ dimethoxyisoindoline or a $^ { 6 , 7 }$ dimethoxy-1,2,3,4-tetrahydroisoquinoline pharmacophore as $\\sigma _ { 2 }$ receptor ligands. Rhenium compound 20a possessed low nanomolar $\\sigma _ { 2 }$ receptor affinity $\\left( K _ { \\mathrm { i } } = 2 . 9 7 ~ \\mathrm { n M } \\right)$ and moderate subtype selectivity (10-fold). Moreover, it showed high selectivity toward vesicular acetylcholine transporter (2374- fold)， dopamine $\\mathrm { D } _ { 2 \\mathrm { L } }$ receptor， NMDA receptor， opiate receptor， dopamine transporter， norepinephrine transporter， and serotonin transporter. Its corresponding radiotracer $[ { 9 9 \\mathrm { m } } _ { \\mathrm { T c } } ] 2 0 \\mathrm { { b } }$ showed high uptake in a time- and dose-dependent manner in DU14S prostate cells and C6 glioma cells. In addition, this tracer exhibited high tumor uptake $( 5 . 9 2 \\% \\mathrm { I D / g }$ at $2 4 0 \\mathrm { m i n }$ )and high tumor/blood and tumor/muscle ratios (21 and 16 at $2 4 0 ~ \\mathrm { \\ m i n } ,$ respectively) as well as specific binding to $\\sigma$ receptors in nude mice bearing C6 glioma xenografts. Small animal SPECT/CT imaging of $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ in the C6 glioma xenograft model demonstrated a clear visualization of the tumor at $1 8 0 ~ \\mathrm { m i n }$ after injection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b472cb664f356a29a81e9003440fe9cd49952cc66a8e0b03b0203429afc23353.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Uncontrolled cell proliferation is one of the hallmarks of cancer, and its assessment will provide useful information to predict the tumor aggressiveness and prognosis of cancer.1 The sigma-2 $\\left( \\sigma _ { 2 } \\right)$ receptors are upregulated in a wide variety of human and rodent tumor cells.2-6Moreover, they showed an approximately 10-fold higher expression in proliferating versus quiescent tumors.7-9 Significant effort has been dedicated to the validation of the $\\sigma _ { 2 }$ receptor as a biomarker for the imaging of the proliferative status of solid tumors. $7 - 1 5$ Crrentlpoiotceig $\\sigma _ { 2 }$ receptors, $N .$ (4-(6,7-dimethoxy-3,4-dihydroisoquinolin$2 ( 1 H ) – \\mathrm { y l } ) \\mathrm { b u t y l } ) – 2 – ( 2 – [ ^ { 1 8 } \\mathrm { F } ] \\mathrm { i }$ fluoroethoxy)-S-methylbenzamide $\\big ( \\big [ ^ { 1 8 } \\mathrm { F } \\big ] \\mathrm { I S O - 1 } \\big )$ isunderclinicaltrials.10-12Furthermorea significant correlation between the uptake of this radiotracer and Ki-67 (the“gold standard”used in histological measurements of cell proliferation in tumor surgical and biopsy specimens) was observed in human studies.² These findings indicate that the $\\sigma _ { 2 }$ receptor is an important biomarker for determining the proliferative status of solid tumors using positron emission tomography (PET).13-15 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well-known that single photon emission computed tomography(SPECT) is an extremely helpful, widely used, and low cost clinical imaging modality. $^ { 9 9 \\mathrm { { \\dot { m } } } } \\mathrm { T c }$ is still the most widely used radionuclide in clinical nuclear medicine application.With the clinical implementation of quantitative SPECT in the future1699mc-labeledadiotracerswithhighanityigh selectivity,and specificity for $\\sigma _ { 2 }$ receptors will provide a unique tool for the early diagnosis of cancer and assessment of the proliferative status of solid tumors. Over the past few decades, a series of 99mTc-labeled radioligands targeting $\\sigma _ { 2 }$ receptors have been reported.17-22 However, there is a lack of ideal $^ { 9 9 \\mathrm { m } } \\mathrm { T c } .$ labeled radiotracers for imaging $\\sigma _ { 2 }$ receptors in human studies. Therefore，the development of $9 9 \\mathrm { m }$ Tc-labeled $\\sigma _ { 2 }$ receptor radioligandsisveryattractive. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Previously，our structure-affinity relationship analyses indicated the high importance of the $\\sigma _ { 2 }$ preferring group to improve the selectivity for $\\sigma _ { 2 }$ receptors.23 Besides the 6,7- dimethoxy-1,2,3,4-tetrahydroisoquinoline scaffold in ISO-1, the 5,6-dimethoxyisoindoline moiety was identified as a promising $\\sigma _ { 2 }$ preferring group with less lipophilicity.24 Moreover, the [ $( \\mathrm { C p \\mathrm { - } }$ $\\bar { \\bf R } ) \\mathrm { T c } ( \\mathrm { C O } ) _ { 3 } ]$ unit can be incorporated into selective receptor ligands without a significant change in the biological properties via an appropriate linker.2,25 In te present study,our aim is to ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/96a6056c0320974ae1a1045b6feda64ce2067f7709f45fe63b3fd317b8c08a74.jpg",
+        "img_caption": [
+            "Figure 1. Design concept of novel $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ]$ 0 $\\mathbf { \\widetilde { M } } = { } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } , \\mathbf { R e } )$ complexes as potent $\\sigma _ { 2 }$ receptor ligands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Scheme 1. Synthetic Routes of the Rhenium Compoundsa ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/df19af685bbd160a8e566e05145d9317821ea7c33c9140e6e84a578d99fff3c4.jpg",
+        "img_caption": [
+            "aReagents and conditions: (a) $3 3 \\% \\mathrm { H B r / H O A c }$ rt $( 2 0 \\mathrm { ~ h } ) { - } 6 5 \\ ^ { \\circ } \\mathrm { C }$ （20 $( 1 \\mathrm { ~ h ~ } )$ ， $3 2 \\%$ ；(b）tritylamine,DIEA,DF, $6 0 \\ ^ { \\circ } \\mathrm { C } , 2 \\ \\mathrm { h } ,$ （20 $7 7 \\%$ ；(c)TFA, $\\mathrm { C H C l } _ { 3 } ,$ 1 $\\mathbf { M e O H } .$ $0 { } ^ { \\circ } \\mathrm { C } .$ -rt, $^ { \\textrm { 1 h } , }$ （204号 $6 9 \\%$ ;(d) $\\mathrm { B r } \\big ( \\mathrm { C H } _ { 2 } \\big ) _ { \\mathrm { m } } \\mathrm { C N }$ $\\mathrm { E t } _ { 3 } \\mathrm { N } _ { \\cdot }$ ${ \\mathrm { C H } } _ { 2 } { \\mathrm { C l } } _ { 2 } ,$ rt, $2 4 \\mathrm { h } ,$ for 5-7, $6 7 - 7 3 \\%$ ,for $\\mathbf { 8 - 1 0 } , 5 9 - 7 0 \\%$ (e) $\\mathrm { L i A l H } _ { 4 } ,$ THF- $\\mathrm { E t } _ { 2 } \\mathrm { O }$ $0 \\ { } ^ { \\circ } \\mathbf { C } \\cdot$ -rt, $^ { 2 4 \\mathrm { h } , }$ for 11-13, $3 6 { - } 5 0 \\%$ for 14-16, $2 7 - 4 0 \\%$ ； (f) toluene,or 4,KI $\\mathrm { E t } _ { 3 } \\mathrm { N } ,$ $1 1 5 ~ ^ { \\circ } \\mathrm { C } ,$ （204号 $1 0 \\%$ for 20a, $1 0 \\%$ for 21a, $3 0 \\%$ for 23a and $3 6 \\%$ for $2 4 \\mathbf { a }$ （g） acetonitrile,3 or 4,KI, $\\mathrm { K } _ { 2 } \\mathrm { C O } _ { 3 } , 9 0 ^ { \\circ } \\mathrm { C } ,$ （20 $41 \\%$ for 22a and $5 1 \\%$ for $2 5 \\mathrm { a } ;$ ：(h)11-16, $\\mathrm { E t } _ { 3 } \\mathrm { N } ,$ anhydrous DMF,rt, $^ { 4 \\mathrm { h } } ,$ $3 8 - 4 8 \\%$ for $2 7 \\mathbf { a } - 2 9 \\mathbf { a } ,$ $7 4 - 8 3 \\%$ for $3 0 \\mathsf { a } - 3 2 \\mathsf { a }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "develop a 99mTc-labeled radioligand as a selective $\\sigma _ { 2 }$ receptor probe for tumor imaging with SPECT.The design concept is shown in Figure 1.In the first approach,we directly incorporate the $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ]$ 0 $\\mathbf { \\tilde { M } } = \\mathbf { R e } _ { , }$ $^ { 9 9 \\mathrm { m } } \\mathrm { T c } )$ ） unit containing the carbonyl group in compound 1 with the $\\sigma _ { 2 }$ preferring group (5,6- dimethoxyisoindoline moiety in compound 2 or 6,7-dimethoxy1,2,3,4-tetrahydroisoquinoline moiety in ISO-1）via different carbon chain lengths. In the second approach, the amide group was connected to the $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ^ { - } ]$ $( \\mathbf { M } = \\mathbf { R e } , ^ { 9 9 \\mathrm { m } } \\mathbf { T } \\mathbf { c } )$ unit in compound 1 first and then incorporated with a $\\sigma _ { 2 }$ preferring group.Both carbonyl and amide groups are electron-withdrawing groups and would allow the double ligand transfer (DLT) reaction for the efficient synthesis of the 99mTc-complex from the corresponding ferrocene precursor. In addition, different carbon chain lengths were used as the linker between the $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ]$ unit with an electron-withdrawing group and the $^ { 5 , 6 }$ -dimethoxyisoindoline or 6,7-dimethoxy-1,2,3,4- tetrahydroisoquinoline pharmacophore to find the optimal radiotracer with appropriate interaction on $\\sigma _ { 2 }$ receptors for in vivo tumor imaging.Herein,we report the syntheses of novel $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } \\bar { ) } _ { 3 } ]$ 1 $\\mathrm { \\dot { \\left( M = R e , ^ { 9 9 m } T c \\right) } }$ complexes containing a 5,6- dimethoxyisoindoline or $^ { 6 , 7 }$ -dimethoxy-1,2,3,4-tetrahydroisoquinoline motif,and we evaluated them as potential $\\sigma _ { 2 }$ receptor radioligands for tumor imaging in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemistry.For the characterization of 99mTc-labeled compounds，the surrogates of the corresponding rhenium complexes were prepared, and the synthetic routes are depicted in Scheme 1. Intermediates 3 $\\mathbf { \\mu } _ { ; } ^ { 2 6 } \\mathbf { 8 } { - } \\mathbf { \\dot { 1 0 } } _ { , } ^ { 2 7 } \\mathbf { 1 4 } { - } \\mathbf { 1 6 } _ { , } ^ { 2 7 } \\mathbf { 1 7 } { - } \\mathbf { 1 9 } _ { , } ^ { 2 2 }$ and $2 6 ^ { 2 8 }$ were obtained according to the methods reported in the literature. $N$ -Alkylation of compound 3 or 4 with compounds 17-19 gave compounds $2 \\mathbf { 0 } \\mathbf { a } \\mathbf { - } 2 \\mathbf { 5 } \\mathbf { a }$ (20a, 22a, 23a, and 25a),29 respectively,with yields of $1 0 { - } 5 1 \\%$ .It needs to be mentioned that compounds 22a and 25a could be obtained with higher yields in acetonitrile with $\\mathrm { K } _ { 2 } \\mathrm { C O } _ { 3 }$ as base than in toluene with triethylamine.However，N-alkylation of compound 3 with bromine-substituted nitrile,followed by reduction with $\\mathrm { L i A l H _ { 4 } }$ provided compounds 11-13,respectively，with yields of $3 6 -$ $5 0 \\%$ .The activated ester 26 reacted with the corresponding amine analogues 11-16 in anhydrous DMF at room temperature to afford the target rhenium analogues $2 7 \\mathsf { a } \\mathsf { - } 3 2 \\mathsf { a }$ (27a,28a, and 29a).30 Complex 31a could be recrystallized by slow evaporation of a mixture of methylene dichloride and hexane solution to afford X-ray diffraction crystals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the chemical structure and examine the binding model of 99mTc-labeled cyclopentadienyl tricarbonyl complexes,the single X-ray crystal structure analysis of complex 3lawas performed.Crystal structure data together with details of the determinations are summarized in Tables S1-5.The crystal structure with the atomic numbering scheme of compound 31a is shown in Figure 2. The central rhenium atom is $\\eta ^ { 5 }$ -coordinated to the cyclopentadienyl ring,and the coordination sphere is completed by three carbonyl groups. The average bond lengths of $\\mathrm { R e - C \\left( C p \\right) }$ and $\\mathrm { R e - C } \\left( \\mathrm { \\bar { C } } \\mathrm { \\bar { O } } \\right)$ are 2.30 and $1 . 9 \\bar { 1 } \\bar { \\mathrm { A } } ,$ respectively. The bond angle of $_ { \\mathrm { C - R e - C } }$ (between CO） is approximately $9 0 ^ { \\circ }$ .The distance between the $\\mathrm { ~ \\bf ~ N ~ }$ atom and the center of the aromatic ring of 6,7-dimethoxy- $^ { 1 , 2 , 3 , 4 }$ -tetrahydroisoquinoline residue is $3 . { \\bar { 7 } } 0 { \\mathrm { ~ \\AA } } .$ ：The distance between the $\\mathbf { N }$ atom and the center of the $\\mathrm { C p }$ ring of the $\\left[ \\mathrm { C p M } ( \\mathrm { C O } ) _ { 3 } \\right]$ core is 5.05 A. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3273a06e0ab0b0e4b094b78b9ca1b8fd3bb495d849847a570cf9272c26965782.jpg",
+        "img_caption": [
+            "Figure 2. Crystal structure of compound 31a. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Radioligand Competition Studies.The radioligand competition experiments were conducted as previously reported.20 Typically, $\\mathrm { \\hat { ( + ) } } { - } [ \\mathrm { \\hat { ^ 3 } H } ]$ pentazocine was used for the $\\sigma _ { 1 }$ receptors,and $[ { } ^ { 3 } \\mathrm { H } ] \\mathrm { 1 } , { 3 }$ -di $. o$ -tolyl-guanidine $( [ ^ { 3 } \\mathrm { H } ] \\mathrm { D T G } )$ in the presence of $1 0 \\mu \\mathrm { M }$ dextrallorphan was used for the $\\sigma _ { 2 }$ receptors. The affinities of the rhenium complexes and ferrocene precursors for $\\sigma _ { 1 }$ and $\\sigma _ { 2 }$ receptors are listed in Table 1.In general, the carbon length of the linker displayed significant influence on the affinity and subtype selectivity.Rhenium complexes with a carbonyl group displayed higher affinities for $\\sigma _ { 2 }$ receptors than those with an amide group $( 2 0 a - 2 5 a$ vs $2 7 \\mathbf { a } { - } 3 2 \\mathbf { a } )$ . Compound 20a and 24a possessed nanomolar affinity for $\\sigma _ { 2 }$ receptors and moderate subtype selectivity. Compounds $2 3 \\mathbf { a } , ^ { 2 9 } 2 9 \\mathbf { a } , ^ { 3 }$ and 30a displayed comparable affinity for $\\sigma _ { 2 }$ receptors and subtype selectivity to ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/305d2295bd5b6e2471902a923f52bd95923c552f91e2d0e82fd8453b346b122e.jpg",
+        "table_caption": [
+            "Table1.Binding Affnities of Cyclopentadienyl Tricarbonyl Rhenium Complexes and Ferrocene Precursors for ${ \\pmb \\sigma } _ { 1 }$ and $\\pmb { \\sigma } _ { 2 }$ Receptorsa "
+        ],
+        "table_footnote": [
+            "aValues are the means $\\pm$ standard deviation (SD）of at least_two experiments performed in triplicate.From ref 10. From ref 23. $^ { d } \\mathrm { I C } _ { 5 0 }$ value, from ref 31.eFrom ref 32.fFrom ref 33. "
+        ],
+        "table_body": "<html><body><table><tr><td> compd</td><td>Ki(σ1) (nM)</td><td>Ki(σ2) (nM)</td><td>Ki(σ1)/Ki(σ2)</td></tr><tr><td>20a</td><td>30.1 ± 11.3</td><td>2.96 ± 0.15</td><td>10.2</td></tr><tr><td>21a</td><td>6.67 ± 0.36</td><td>17.4 ± 2.2</td><td>0.4</td></tr><tr><td>22a</td><td>5.99 ± 1.72</td><td>10.2 ± 4.2</td><td>0.6</td></tr><tr><td>23a</td><td>121 ± 10</td><td>20.9 ± 0.2</td><td>5.8</td></tr><tr><td>24a</td><td>19.5 ± 4.2</td><td>7.42 ± 1.11</td><td>2.6</td></tr><tr><td>25a</td><td>6.46 ± 1.45</td><td>13.9 ± 7.5</td><td>0.5</td></tr><tr><td>27a</td><td>167 ± 49</td><td>508 ± 132</td><td>0.3</td></tr><tr><td>28a</td><td>524±6</td><td>444 ± 242</td><td>1.2</td></tr><tr><td>29a</td><td>296 ± 104</td><td>22.6 ± 0.5</td><td>13.1</td></tr><tr><td>30a</td><td>309 ± 21</td><td>35.0 ± 10.1</td><td>8.8</td></tr><tr><td>31a</td><td>146 ± 65</td><td>41.0 ± 10.5</td><td>3.6</td></tr><tr><td>32a</td><td>187±3</td><td>127± 48</td><td>1.5</td></tr><tr><td>36</td><td>137 ± 20</td><td>10.5 ± 0.7</td><td>13.0</td></tr><tr><td>38</td><td>19.2 ± 1.6</td><td>18.2 ± 3.3</td><td>1.1</td></tr><tr><td>39</td><td>240 ± 115</td><td>18.0 ± 1.4</td><td>13.3</td></tr><tr><td>41</td><td>13.3 ± 6.3</td><td>10.0 ± 0.3</td><td>1.3</td></tr><tr><td>43</td><td>98±39</td><td>15.2 ± 0.1</td><td>6.5</td></tr><tr><td>44</td><td>1300 ± 305</td><td>60.2 ± 1.9</td><td>21.6</td></tr><tr><td>45</td><td>181 ± 25</td><td>30.0 ± 0.4</td><td>6.0</td></tr><tr><td>46</td><td>155 ± 27</td><td>23.5 ± 5.8</td><td>6.6</td></tr><tr><td>ISO-1b</td><td>330 ± 25</td><td>6.95 ± 1.63</td><td>47.5</td></tr><tr><td>ISO-1</td><td>102 ±15</td><td>28.2 ± 0.9</td><td>3.6</td></tr><tr><td>siramesine</td><td>4.69 ± 2.36</td><td>3.08 ± 0.68</td><td>1.5</td></tr><tr><td>siramesined</td><td>17</td><td>0.12</td><td>140</td></tr><tr><td>siramesinee</td><td>10.5 ± 2.6</td><td>12.6 ± 0.1</td><td>0.8</td></tr><tr><td>haloperidolf</td><td>4.95 ± 1.74</td><td>20.7 ± 0.07</td><td>0.2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ISO-1.Similar to our previous findings,ferrocene precursors with a carbonyl group displayed comparable affinity for $\\sigma _ { 2 }$ receptors to the corresponding rhenium complexes (36 vs 20a,38 vs 22a, 39 vs 23a,and 41 vs 25a) and a little higher subtype selectivity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Considering the low nanomolar affinity and subtype selectivity of compound 20a for $\\sigma _ { 2 }$ receptors,its affinities for the additional receptors and transporterswere further tested.Compound 20a exhibited verylow affinity for VAChT $\\mathrm { \\Delta } ( K _ { \\mathrm { i } } ( \\mathrm { V A C h T } ) = 7 0 2 6 \\pm \\$ ${ \\bf 1 6 3 n M } )$ and was thuscharacterized byan excellent selectivity for $\\sigma _ { 2 }$ receptors $\\left( K _ { \\mathrm { i } } ( \\mathrm { V A C h T } ) / K _ { \\mathrm { i } } ( \\sigma _ { 2 } ) = 2 \\dot { 3 } 7 4 \\right)$ .Moreover, this ligand also displayed low affinity for dopamine $\\mathrm { D } _ { 2 \\mathrm { L } }$ receptors, NMDA receptors，opiate receptors，dopamine transporter (DAT), norepinephrine transporter (NET),and serotonin transporter (SERT)as shown in Table S6. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Radiolabeling. Considering the moderate to high affinity and selectivity of the rhenium complexes 20a-25aand $2 9 \\mathrm { a } - 3 0 \\mathrm { a }$ for $\\sigma _ { 2 }$ receptors, the corresponding $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ -labeled radiotracers were prepared. The synthetic routes of the ferrocene precursors were similar to those of the corresponding rhenium compounds as shown in Scheme 2. The desired 99mTc-labeled radiotracers were obtained via DLT reaction as shown in Scheme 3.After purification by semipreparative high performance liquid chromatography (HPLC), $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] \\dot { 2 } 0 \\mathbf { b } \\dot { - } 2 5 \\mathbf { b }$ $\\left( \\big [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\big ] \\dot { 2 } 0 \\mathbf { b } _ { \\right) }$ （20 $[ { 9 9 \\mathrm { m } } _ { \\mathrm { T c } } ] 2 2 \\mathrm { \\bf { b } }$ $\\bar { [ } ^ { 9 9 \\mathrm { i n } } \\mathrm { T c } ] 2 3 \\mathrm { b }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 5 \\mathbf { b } ) , ^ { 2 9 }$ and $\\ [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b } -$ 30b $( [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b } ) ^ { 3 0 }$ were obtained with radiochemical yields of $1 3 \\mathrm { - } 6 7 \\%$ and a radiochemical purity of ${ > } 9 9 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Evaluation of the 99mTc-labeled Complexes. Lipophilicity.For in vitro properties，the lipophilicity of the radiotracer is an important factor in the prediction of its free fraction in the plasma, the ability to cross the blood-brain barrier (BBB) and nonspecific binding in vivo.34,35 The measurement of the partition coefficients between l-octanol and $0 . 0 5 { \\mathrm { ~ M ~ } }$ sodium phosphate buffer at $\\mathrm { p H } ~ 7 . 4$ was executed using a shake flask method.22,36 The log $D$ values of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 \\mathbf { 0 } \\mathbf { b } - 2 5 \\mathbf { b }$ and $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] }$ 29b-30b were $2 . 5 6 \\pm 0 . 0 8 , ^ { 2 9 } 2 . 4 \\dot { 4 } \\pm 0 . 0 \\dot { 2 }$ $2 . 5 6 \\pm 0 . 0 8 , ^ { 2 9 } 2 . 6 1 \\pm$ 0.05, $2 . 9 2 \\pm 0 . 0 2$ $2 . 6 0 \\pm 0 . 0 6 ,$ （20 $2 . 3 9 \\pm 0 . 0 5 , ^ { 3 0 }$ and $1 . 7 2 \\pm 0 . 0 9 _ { ; }$ respectively.The moderate lipophilicity of the above radiotracers maylead to decreased nonspecific binding and enhanced specific binding signal in vivo. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b7ed039d98b1de437e161ce274a610f2a930114005bcdc8bc6c79c08d7427ef.jpg",
+        "img_caption": [
+            "Scheme 2. Synthetic Routes for the Ferrocene Precursors@ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Evaluation of the 99mTc-Labeled Complexes in DU145 Prostate Cells.It has been reported that DU145 prostate tumor cells exhibit high expression of both $\\sigma _ { 1 }$ and $\\sigma _ { 2 }$ receptors.4 Considering the affinity and subtype selectivity for $\\sigma _ { 2 }$ receptors, the binding assays of the radioligands $[ { \\bf \\nabla } ^ { 9 9 \\mathrm { m } } \\mathrm { \\dot { T } c } ] { \\bf 2 0 } { \\bf b } ,$ （20 ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { \\bar { T } c } ] { \\bf 2 } 3 { \\bf b } ,$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 \\dot { 9 } { \\bf b } - 3 0 { \\bf b }$ in DU145 prostate tumor cells were performed. The results are summarized in Figure 3. After incubation for $1 2 0 \\mathrm { m i n }$ , the cellular association of $[ ^ { \\breve { 9 } 9 \\mathrm { m } } \\mathrm { T c } ]$ 20b and $[ { ^ { 9 9 \\mathrm { m } } \\mathrm { T c } } ] 2 3 \\mathbf { b }$ were $8 . 8 6 \\%$ and $2 . 0 6 \\%$ ,respectively.For the complexes with an amide group，the cellular association of ${ \\ [ } ^ { 9 9 \\mathrm { m } } \\bar { \\mathrm { T } } \\mathrm { c } ] 2 9 \\mathrm { b }$ and $ { \\lbrack { \\boldsymbol { 9 9 } } \\mathrm { m } _ { \\mathrm { T c } } ] }  { \\mathbf { 3 0 b } }$ reached $4 . 9 1 \\%$ and $6 . 8 9 \\%$ a $4 5 \\mathrm { m i n }$ and increased slightly afterward to $5 . 1 2 \\%$ and $7 . 0 8 \\%$ at $1 2 0 \\mathrm { m i n }$ respectively.In blocking studies,treatment with haloperidol and ISO-1 significantly decreased the cellular association of $\\boldsymbol { \\mathrm { [ ^ { 9 9 m } T c ] } }$ 20b and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 3 \\mathrm { b }$ in a dose-dependent manner,indicating the specific binding of $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] 2 0 \\mathrm { b } }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 3 \\mathbf { b }$ to $\\sigma _ { 2 }$ receptors in DU14S cells.Moreover, treatment with various concentrations of haloperidol led to decreased association of $\\scriptstyle { \\big [ } { } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b }$ and $\\bar { [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\bar { ] } 3 0 \\mathrm { b }$ in a dose-dependent manner. However, $\\scriptstyle { \\big [ } { } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } { \\big ] } 2 9 \\mathbf { b }$ showed a higher blocking percentage than $ { \\lbrack { \\boldsymbol { 9 9 } }  { \\mathrm { m } } _ { \\mathrm { T c } } ] }  { \\mathbf { 3 0 b } }$ （ $6 6 \\%$ vs $4 7 \\%$ ）at the same concentration of haloperidol $\\left( 1 0 ^ { - 4 } \\mathrm { ~ M } \\right)$ = suggesting a higher specific binding of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathrm { b }$ to $\\sigma$ receptors in DU145 cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Evaluation of the 99mTc-Labeled Complexes in C6 Glioma Cells.C6 glioma tumor cells, with high expression of $\\sigma _ { 2 }$ receptors and low expression of $\\sigma _ { 1 }$ receptors,were selected for further evaluation of $\\hat { [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ and $[ ^ { 9 9 \\mathrm { { \\hat { m } } } } \\mathrm { T c } ] 2 9 \\mathrm { { b } }$ . The results are shown in Figure 4.High cellular association of $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ was observed in a time-dependent manner.The association reached $2 5 \\%$ after incubation for $1 2 0 ~ \\mathrm { \\ m i n }$ ，Furthermore, coincubation with different concentrations of ISO-1 led to remarkably decreased association ina dose-dependent manner. The cellular association was significantly reduced by about $8 0 \\%$ with $1 0 ^ { - 6 } \\mathbf { M }$ of ISO-1,suggesting high specific binding of $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] }$ 20b to $\\sigma _ { 2 }$ receptors in C6 glioma cells.However,much lower uptake of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b } \\ ( < 1 . 4 9 \\% )$ was observed. Treatment with different concentrations of haloperidol also led to reduced association of ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 9 } { \\bf b } ,$ but the blocking percentage was low 0 $3 7 \\%$ with $1 0 ^ { - 4 } \\mathrm { M }$ of haloperidol).In other words, $\\bar { \\lfloor ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\rfloor } 2 0 \\mathrm { b }$ displayed higher association and higher specific binding to $\\sigma _ { 2 }$ receptors than $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathrm { b }$ in C6 glioma cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since compounds 2la and 24a had moderate to high affinity for $\\sigma _ { 2 }$ receptors, the binding assays of the corresponding $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ]$ 21b and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 4 \\mathrm { b }$ were performed in C6 glioma cels. The results are provided in Figure S3. The cellular association of [99mTc]21b and [99mTc]24b was 4.88% and 5.12%,respectively, but treatment with $1 0 ^ { - 6 } ~ \\mathrm { { M } }$ of haloperidol only led to minimal reduction of the cellular association, suggesting high nonspecific binding of ${ \\scriptstyle \\left[ { \\begin{array} { l } { { 9 9 \\mathrm { m } } _ { \\mathrm { T c } } } \\end{array} } \\right] } \\mathbf { 2 1 b }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 4 \\bar { \\mathbf { b } }$ in C6 glioma cells. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1508d72a429e96a148b858b0ef1d295d7781dd5c15cea6581f773a0607eea89f.jpg",
+        "img_caption": [
+            "aReagents and conditions:(a) toluene,3 or 4,KI, $\\mathrm { E t } _ { 3 } \\mathrm { N } ,$ $1 1 5 ^ { \\circ } \\mathrm { C } ,$ （20 $1 6 \\%$ for 36, $1 9 \\%$ for 37, $3 3 \\%$ for 39 and $2 2 \\%$ for 40;(b) acetonitrile,3 or 4, KI, $\\mathrm { K } _ { 2 } \\mathrm { C O } _ { 3 } ,$ $9 0 ~ ^ { \\circ } \\mathrm { C } ,$ $4 4 \\%$ for 38 and $78 \\%$ for 41; (c)13-16, $\\mathrm { E t } _ { 3 } \\mathrm { N } ,$ 2号 anhydrousDMF,rt, $^ { 4 } \\mathrm { h } ,$ （204 $6 5 \\%$ for 43, $6 9 \\%$ for 44, $6 3 \\%$ for 45, $6 8 \\%$ for 46. ",
+            "Scheme 3. Synthesis of the 99mTc-Labeled Complexes from the Ferrocene Precursorsa "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "aReagents and conditions: (a) ${ ^ { 9 9 \\mathrm { m } } \\mathrm { T c O } } _ { 4 } ^ { - }$ $\\mathrm { M n } ( \\mathrm { C O } ) _ { 5 } ,$ DMF, ${ 1 4 0 } ^ { \\circ } \\mathrm { C } ,$ 1h, $1 3 - 3 2 \\%$ for $\\begin{array} { r l } {  { \\big [ 9 9 \\mathrm { m } _ { \\mathrm { T c } } \\big ] 2 0 \\mathbf { b } _ { \\mathrm { \\Omega } } } } \\end{array}$ （20 $3 7 - 5 9 \\%$ for ${ \\textstyle \\left[ { \\begin{array} { l l l } { 9 9 \\mathrm { m } _ { \\mathrm { T c } } } \\end{array} } \\right] } 2 1 \\mathbf { b } _ { \\scriptscriptstyle \\mathrm { i } }$ （20 $2 5 - 3 3 \\%$ for ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 } { \\bf 2 } { \\bf b } ,$ （204号 $3 4 - 5 3 \\%$ for ${ \\displaystyle \\left[ { \\bf \\nabla } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] { \\bf 2 } { \\bf 3 } { \\bf b } } ,$ （204号 $4 4 - 6 2 \\%$ for $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 4 \\mathbf { b }$ $5 7 \\mathrm { - } 6 3 \\%$ for $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] 2 5 \\mathbf { b } } ;$ (b) ${ ^ { 9 9 \\mathrm { m } } \\mathrm { T c O } _ { 4 } } ^ { - }$ $\\mathrm { M n } ( \\mathrm { C O } ) _ { 5 } ,$ DMF, $1 5 0 ^ { \\circ } \\mathrm { C } ,$ （2号 $^ { \\textrm { 1 h , } }$ （204号 $3 6 - 6 7 \\%$ for ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 9 6 } ,$ （20 $4 8 - 6 0 \\%$ for $ { \\lbrack { } ^ { 9 9 \\mathrm { m } } \\mathrm { T c }  { \\rbrack } 3 0 \\mathbf { b } }$ 号 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/471458e6379dbc6aa7583c5d7e6b15515f1e07423f6b1cbb3aa0cc440f947afa.jpg",
+        "img_caption": [
+            "Figure 3.In vitro studies on cellular association of [99mTc]20b,[99mTc]23b, ${ \\bf \\lbrack \\nabla ^ { 9 9 \\mathrm { m } } T c ] 2 9 6 , }$ and $ { \\lbrack { \\boldsymbol { 9 9 } }  { \\mathrm { m } } _ { \\mathrm { T c } } \\rbrack }  { \\mathbf { 3 0 b } }$ in DU145 prostate tumor cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1ac2c02db59d508e0fbe48c6351400dc397e32fc3e67b34e8035057cb2aaac7.jpg",
+        "img_caption": [
+            "Figure 4.In vitro studies on cellular association of $\\ [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathrm { b }$ in C6 glioma cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/62b3dd33116649778517782489b988695f18d5c846993a0d099c46dd903455e1.jpg",
+        "table_caption": [
+            "Table 2.Biodistribution of[99mTc]20b in Male ICRMice\" "
+        ],
+        "table_footnote": [
+            "\"Data are expressed as a percentage of injected dose per gram, means ± SD, $n = 5$ bPercentage of injected dose per organ. "
+        ],
+        "table_body": "<html><body><table><tr><td> organ</td><td> 2 min</td><td>15 min</td><td> 30 min</td><td>60 min</td><td>120 min</td><td>240 min</td></tr><tr><td>blood</td><td>1.82 ± 0.18</td><td>0.81 ± 0.07</td><td>0.71 ± 0.07</td><td>0.57 ± 0.11</td><td>0.43 ± 0.07</td><td>0.31 ± 0.04</td></tr><tr><td>brain</td><td>2.57 ± 0.31</td><td>2.70 ± 0.18</td><td>2.08 ± 0.22</td><td>1.06 ± 0.17</td><td>0.47 ± 0.08</td><td>0.17 ± 0.04</td></tr><tr><td>heart</td><td>11.81 ± 1.58</td><td>3.25 ± 0.22</td><td>2.07 ± 0.23</td><td>1.31 ± 0.21</td><td>0.83 ± 0.14</td><td>0.43 ± 0.07</td></tr><tr><td>liver</td><td>4.76 ± 1.29</td><td>10.03 ± 0.61</td><td>12.51 ± 1.88</td><td>13.41 ± 0.71</td><td>16.14 ± 1.73</td><td>17.33 ± 3.11</td></tr><tr><td>spleen</td><td>3.43 ± 0.89</td><td>7.46 ± 0.81</td><td>7.15 ± 1.44</td><td>4.67 ± 0.38</td><td>2.76 ± 0.58</td><td>1.24 ± 0.36</td></tr><tr><td>lung</td><td>29.38 ± 4.97</td><td>9.61 ± 2.58</td><td>7.14 ± 2.44</td><td>3.77 ± 0.80</td><td>2.19 ± 0.69</td><td>1.47 ± 0.53</td></tr><tr><td>kidney</td><td>14.46 ± 1.08</td><td>15.48 ± 1.92</td><td>11.78 ± 1.04</td><td>8.92 ± 1.17</td><td>6.62 ± 0.99</td><td>6.11 ± 1.21</td></tr><tr><td> small intestineb</td><td>4.07 ± 0.70</td><td>11.05 ± 1.77</td><td>11.69 ± 3.19</td><td>14.01 ± 2.20</td><td>15.08 ± 1.87</td><td>12.94 ± 2.36</td></tr><tr><td>stomachb</td><td>0.96± 0.09</td><td>2.42 ± 0.74</td><td>2.67 ± 0.74</td><td>1.46 ± 0.40</td><td>1.56 ± 0.77</td><td>1.23 ± 0.26</td></tr><tr><td>muscle</td><td>2.42 ± 0.78</td><td>2.16 ± 0.22</td><td>1.74 ± 0.20</td><td>1.40 ± 0.18</td><td>0.78 ± 0.23</td><td>0.24 ± 0.11</td></tr><tr><td>thyroidb</td><td>0.20 ± 0.03</td><td>0.17 ± 0.05</td><td>0.17 ± 0.03</td><td>0.09 ± 0.02</td><td>0.12 ± 0.01</td><td>0.08 ± 0.03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In Vivo Evaluation of the 99mTc-Labeled Complexes. Biodistribution and Blocking Studiesin Male ICRMice.To investigate the kinetics of the radiotracers，we performed biodistribution and blocking studies of [99mTc]20b, $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] }$ 23b, ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 5 } { \\bf b } ,$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathrm { b }$ in ICR mice.The results are summarized in Tables 2-4,Figure S,and Table S7 and Figure S4. Both $ { \\lbrack { \\boldsymbol { 9 9 } } \\mathbf { m } _ { \\mathrm { T c } } ] }  { \\mathbf { 2 0 b } }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 3 \\mathbf { b }$ exhibited high initial brain uptake with $2 . 5 7 \\pm 0 . 3 1 \\%$ inject dose $\\mathrm { ( I D ) / g }$ and $2 . 3 8 \\pm 0 . 3 1 \\%$ $\\mathrm { I D / g }$ at $2 ~ \\mathrm { m i n }$ ,respectively,and fast washout with $0 . 1 7 \\pm 0 . 0 4 \\%$ $\\mathrm { I D / g }$ and $0 . 0 9 \\pm 0 . 0 1 \\% \\mathrm { I D / g } ,$ respectively, at $2 4 0 \\mathrm { m i n }$ .However, $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 5 \\mathbf { b }$ exhibited lower brain uptake $\\left( 1 . 0 5 \\pm 0 . 0 6 \\% \\mathrm { I D / g } \\right)$ （204号 and relatively slow washout with $0 . 3 2 \\pm 0 . 0 4 \\% \\mathrm { I D / g }$ at $2 4 0 \\mathrm { m i n }$ $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b } _ { i }$ ， ${ \\displaystyle \\left[ { \\bf \\nabla } ^ { 9 9 \\mathrm { m } } { \\bf \\vec { T } } { \\bf c } \\right]}  { \\bf 2 } 3 { \\bf b }  _ { ; }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 5 \\mathbf { b }$ exhibited fast clearance from blood and muscle.Low accumulation in the blood of the above radiotracers wasobserved with $0 . 3 1 \\pm 0 . 0 4 \\%$ $\\mathrm { I D } / { \\mathrm g } , 0 . 4 4 \\pm 0 . 1 5 \\% \\ \\mathrm { I D } / { \\mathrm g } ,$ and $0 . 3 0 \\pm 0 . 0 5 \\% \\mathrm { I D / g }$ at $2 4 0 ~ \\mathrm { m i n }$ respectively.Lowaccumulation in the musclewas also observed with $0 . 2 4 \\pm 0 . 1 1 \\% \\mathrm { I D } / \\mathrm { g } , 0 . 2 1 \\pm 0 . 0 7 \\% \\mathrm { I D } / \\mathrm { g } ,$ and $0 . 4 9 \\pm 0 . 0 5 \\%$ $\\mathrm { I D / g }$ at $2 4 0 \\ \\mathrm { \\ m i n } ,$ respectively.In biodistribution studies of ${ \\big [ } ^ { 9 9 \\mathrm { m } } \\mathrm { { T c } } { \\big ] } 2 9 \\mathbf { b }$ (Table 4), much lower brain uptake was observed with $0 . 2 4 \\pm 0 . 0 6 \\% \\mathrm { I D / g }$ t $2 \\mathrm { m i n }$ , indicating that the amide group had a negative effect on the potential of the radiotracer to cross the BBB.Low accumulation of this radiotracer in blood and muscle at $2 4 0 ~ \\mathrm { m i n }$ was observed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/92e61983254e840696c34f965b842e6e24a10f0139fa07bea7a4e914bc5f85c8.jpg",
+        "table_caption": [
+            "Table 3.Biodistribution of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 3 \\mathrm { b }$ in Male ICR Micea "
+        ],
+        "table_footnote": [
+            "\"Data are expresed as the percentage of injected dose per gram, means ± SD,n = 5.Percentage of injected dose perorgan. "
+        ],
+        "table_body": "<html><body><table><tr><td> organ</td><td>2 min</td><td>15 min</td><td> 30 min</td><td>60 min</td><td>120 min</td><td>240 min</td></tr><tr><td>blood</td><td>2.11 ± 0.15</td><td>1.06 ± 0.09</td><td>0.89 ± 0.07</td><td>0.74 ± 0.06</td><td>0.54 ± 0.11</td><td>0.44 ± 0.15</td></tr><tr><td>brain</td><td>2.38 ± 0.31</td><td>1.79 ± 0.20</td><td>1.08 ± 0.13</td><td>0.52 ± 0.02</td><td>0.20 ± 0.02</td><td>0.09 ± 0.01</td></tr><tr><td>heart</td><td>8.73 ± 0.81</td><td>1.93 ± 0.13</td><td>1.29 ± 0.09</td><td>0.79 ± 0.09</td><td>0.51 ± 0.02</td><td>0.34 ± 0.02</td></tr><tr><td>liver</td><td>7.51 ± 1.11</td><td>13.91 ± 0.92</td><td>17.03 ± 1.13</td><td>20.36 ±1.30</td><td>22.63 ± 1.38</td><td>22.82 ± 3.22</td></tr><tr><td>spleen</td><td>4.39 ± 1.34</td><td>5.59 ± 0.51</td><td>4.08 ± 0.48</td><td>2.64 ± 0.13</td><td>1.20 ± 0.23</td><td>0.66 ± 0.22</td></tr><tr><td>lung</td><td>27.20 ± 5.00</td><td>7.13 ± 1.54</td><td>4.10 ± 1.23</td><td>2.67 ± 0.80</td><td>1.76 ± 0.40</td><td>1.29 ± 0.23</td></tr><tr><td>kidney</td><td>18.88 ± 1.30</td><td>12.45 ± 1.30</td><td>9.91 ± 0.94</td><td>10.32 ± 1.37</td><td>9.86 ± 1.09</td><td>9.22 ± 1.82</td></tr><tr><td> small intestineb</td><td>6.13 ± 1.02</td><td>8.75 ± 2.27</td><td>11.22 ± 1.74</td><td>15.53 ± 2.24</td><td>19.15 ± 2.63</td><td>15.89 ± 1.14</td></tr><tr><td>stomachb</td><td>1.32 ± 0.29</td><td>2.54 ± 0.44</td><td>2.74 ± 0.24</td><td>3.27 ± 0.13</td><td>2.77 ± 0.45</td><td>1.58 ± 0.57</td></tr><tr><td>muscle</td><td>2.67 ± 0.35</td><td>1.66 ± 0.23</td><td>1.22 ± 0.15</td><td>0.75 ± 0.11</td><td>0.38 ± 0.06</td><td>0.21 ± 0.07</td></tr><tr><td>thyroidb</td><td>0.11 ± 0.05</td><td>0.18 ± 0.05</td><td>0.08 ± 0.01</td><td>0.11 ± 0.01</td><td>0.09 ± 0.04</td><td>0.07 ± 0.02</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5058277a188e4142aa22739ba161786b85a4af8797232eb3e13dc80e95f804f.jpg",
+        "table_caption": [
+            "Table 4.Biodistributionof[99mTc]29b in Male ICRMicea "
+        ],
+        "table_footnote": [
+            "@Data are expressed as the percentage of injected dose per gram, means ± SD, $n = 5$ bPercentage of injected dose per organ. "
+        ],
+        "table_body": "<html><body><table><tr><td>organ</td><td>2 min</td><td>15 min</td><td> 30 min</td><td>60 min</td><td>120 min</td><td>240 min</td></tr><tr><td>blood</td><td>2.04 ± 0.29</td><td>0.74 ± 0.06</td><td>0.53 ± 0.03</td><td>0.43 ± 0.05</td><td>0.41 ± 0.04</td><td>0.34 ± 0.03</td></tr><tr><td>brain</td><td>0.24 ± 0.06</td><td>0.21 ± 0.02</td><td>0.16 ± 0.02</td><td>0.11 ± 0.02</td><td>0.11 ± 0.01</td><td>0.10 ± 0.01</td></tr><tr><td>heart</td><td>11.22 ± 1.20</td><td>3.27 ± 0.20</td><td>2.27 ± 0.24</td><td>1.74 ± 0.13</td><td>1.45 ± 0.20</td><td>1.01 ± 0.16</td></tr><tr><td>liver</td><td>9.27 ± 1.69</td><td>18.56 ± 2.62</td><td>24.43 ± 1.60</td><td>27.13 ± 2.13</td><td>27.98 ± 2.32</td><td>28.45 ± 3.32</td></tr><tr><td>spleen</td><td>5.08 ± 1.42</td><td>7.32 ± 0.65</td><td>4.50 ± 0.64</td><td>1.91 ± 0.58</td><td>1.21 ± 0.18</td><td>0.78 ± 0.12</td></tr><tr><td>lung</td><td>31.54 ± 3.28</td><td>12.11 ± 2.08</td><td>8.93 ± 1.88</td><td>7.63 ± 2.40</td><td>4.17 ± 0.42</td><td>4.03 ± 0.54</td></tr><tr><td>kidney</td><td>27.45 ± 4.91</td><td>17.68 ± 3.19</td><td>14.62 ± 0.61</td><td>12.14 ± 1.81</td><td>10.21 ± 0.51</td><td>8.79 ± 1.04</td></tr><tr><td> small intestineb</td><td>6.00 ± 1.31</td><td>13.15 ± 1.09</td><td>10.62 ± 2.49</td><td>11.92 ± 3.25</td><td>22.56 ± 3.75</td><td>17.64 ± 4.15</td></tr><tr><td>stomachb</td><td>1.27 ± 0.32</td><td>2.59 ± 0.47</td><td>2.58 ± 1.16</td><td>2.17 ± 0.79</td><td>2.32 ± 0.92</td><td>1.46 ± 0.41</td></tr><tr><td>muscle</td><td>4.12 ± 0.61</td><td>2.02 ± 0.16</td><td>1.44 ± 0.21</td><td>0.98 ± 0.13</td><td>0.68 ± 0.10</td><td>0.41 ± 0.03</td></tr><tr><td>thyroidb</td><td>0.11 ± 0.02</td><td>0.08 ± 0.02</td><td>0.14 ± 0.03</td><td>0.09 ± 0.01</td><td>0.06 ± 0.01</td><td>0.05 ± 0.03</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To examine the specific binding of the radiotracers to $\\sigma$ receptors in vivo，blocking studies were carried out by administration of haloperidol $\\left( 1 . 0 \\mathrm { \\ m g / k g } \\right)$ 5 min prior to the radiotracer administration.Pretreatment with haloperidol significantly reduced the accumulation of $\\begin{array} { r } { \\big [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\big ] 2 0 \\mathbf { b } _ { \\mathrm { \\Omega } } } \\end{array}$ $\\tilde { [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ]$ 23b,and $\\dot { \\left[ \\begin{array} { l l l } { \\boldsymbol { 9 9 } \\mathrm { m } } _ { \\mathrm { T c } } \\end{array} \\right] } \\boldsymbol { 2 9 } \\mathbf { b }$ in the brain by $43 \\%$ ， $45 \\%$ and $3 6 \\%$ respectively，at $1 2 0 \\ \\mathrm { m i n }$ after injection (Figure S).Moreover, remarkable reduction of radiotracers in the organs known to express $\\sigma$ receptors was observed, indicating the specific binding of $\\ [ { 9 9 \\mathrm { m } } _ { \\mathrm { T c } } ] { 2 0 \\bar { \\mathbf { b } } } _ { \\mathrm { \\Omega } }$ ${ \\displaystyle \\left[ { \\mathfrak { s o } } _ { \\mathbf { I } { \\mathbf { c } } } \\right]}   2 { \\mathbf { 3 } } { \\mathbf { b } } _ { \\mathbf { I } }$ and $[ { 9 9 \\mathrm { m } } _ { \\mathrm { T c } } ] 2 9 \\mathrm { b }$ to $\\sigma$ receptors in vivo.However, there is no significant reduction of radiotracer accumulation observed in the brain for $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 5 \\mathbf { b }$ (Figure S4), suggesting the high nonspecific binding of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 5 \\mathbf { b }$ in vivo. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Biodistribution and Blocking Studies of $ { \\lbrack 9 9 \\mathrm { m } } _ {  { \\mathsf { T } }  { \\mathsf { c } } ] 2 0  { \\mathsf { b } } }$ in Balb/c Nude Mice Bearing C6 Glioma Xenografts. Encouraged by the optimal properties of $\\scriptstyle { \\big [ } { } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ in vitro and in vivo,biodistribution and blocking studies of this radiotracer were performed in $\\mathtt { B a l b / c }$ nude mice bearing C6 glioma xenografts.The results are shown in Table S and Figure 6. High accumulation of the radiotracer in the tumor was observed with $5 . 4 1 \\pm 0 . 9 1 \\% \\mathrm { I D / g }$ at $1 2 0 ~ \\mathrm { { m i n } }$ and $5 . 9 2 \\pm 1 . 3 0 \\% \\mathrm { I D } / \\mathrm { \\Omega }$ gat $2 4 0 \\mathrm { m i n }$ .At the same time,lowaccumulation of the radiotracer in blood and muscle were observed as well.Therefore,high tumor/ blood ratios and tumor/muscle ratios were obtained with 20.6 and 16.1 at $2 4 0 \\mathrm { m i n }$ ,respectively.To further examine the specific binding to $\\sigma$ receptors in the tumor， blocking studies with haloperidol, ferrocene precursor 36,and siramesine as blocking agents were performed.Pretreatment of haloperidol, 36,and siramesine led to significant reduction of tumor accumulation by $3 3 \\%$ ， $6 2 \\%$ ，and $4 4 \\%$ at $2 4 0 \\ \\mathrm { m i n } ,$ ，respectively，indicating the specific binding of $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] 2 0 \\mathbf { b } }$ to $\\sigma$ receptors in the tumor. In addition,a reduction of radiotracer in the organs known to contain $\\sigma$ receptors such as the brain， heart，and lung were observed,whichis consistent with the biodistribution results in normal mice. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Small Animal SPECT/CT Imaging of $[ ^ { 9 9 \\mathrm { m } } \\mathsf { T c } ] 2 0 \\mathrm { b }$ .To further confirm the potential applications of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ in tumor imaging, small animal SPECT/CT scans of the C6 glioma xenograft mouse model were performed using NanoScan SPECT/CT.Representative transverse plane SPECT/CT images at $1 8 0 \\ \\mathrm { m i n }$ after injection of $[ ^ { 9 9 \\mathrm { m } } \\bar { \\mathrm { T } } \\mathrm { c } ] 2 0 \\mathrm { b }$ 0 $2 2 . 2 \\ \\mathrm { M B q } ,$ $0 . 1 5 ~ \\mathrm { m L }$ ）are shown in Figure 7,and the coronal and sagittal plane images are shown in the Figure S5.The solid tumor was clearly visualized with high tumor-to-background contrast, indicating that $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { \\overline { { b } } }$ could determine the level of $\\sigma _ { 2 }$ receptors in solid tumors in vivo. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Vivo Radiometabolic Stability of $\\Gamma ^ { 9 9 \\mathrm { m } }  { \\mathbf { T } }  { \\mathbf { c } } ] 2 0 \\mathrm { b }$ The metabolic stability of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ was investigated in brain and liver samplesofICR mice 15 and $3 0 \\mathrm { m i n }$ after the injection of the radiotracer.The HPLC chromatograms are shown in Figure 8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c449756e4a54c7574abbc67da3a66a6236b94007937635c9fde4ee272f2ce02.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/73f1046385ddfffee9c318bdee0a28b37ab3fba45b0deaeb7c283b373ea5e24a.jpg",
+        "table_caption": [
+            "Table 5.Biodistribution of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ in Balb/c Nude Mice Bearing C6 Glioma Xenograftsa "
+        ],
+        "table_footnote": [
+            "aData are expressed _as the percentage of injected dose per gram, means $\\pm \\gg$ = ${ \\dot { \\mathbf { \\zeta } } } _ { n } = { \\boldsymbol { \\mathsf { 5 } } } $ bPercentage of injected dose per organ. "
+        ],
+        "table_body": "<html><body><table><tr><td>organ</td><td>120 min</td><td>240 min</td></tr><tr><td>blood</td><td>0.32 ± 0.05</td><td>0.28 ±0.03</td></tr><tr><td>brain</td><td>0.68 ± 0.21</td><td>0.30 ± 0.05</td></tr><tr><td>heart</td><td>0.80 ± 0.09</td><td>0.55 ± 0.08</td></tr><tr><td>liver</td><td>18.44 ± 3.58</td><td>22.47 ± 2.37</td></tr><tr><td>spleen</td><td>5.48 ± 0.58</td><td>2.69 ± 0.20</td></tr><tr><td>lung</td><td>2.92 ± 0.74</td><td>2.04 ± 0.49</td></tr><tr><td>kidney</td><td>6.86 ± 1.16</td><td>5.93 ± 0.62</td></tr><tr><td>small intestineb</td><td>15.26 ± 1.06</td><td>16.33 ± 3.12</td></tr><tr><td>stomachb</td><td>0.82 ± 0.19</td><td>0.83 ± 0.34</td></tr><tr><td>muscle</td><td>0.65 ± 0.11</td><td>0.37 ± 0.06</td></tr><tr><td>thyroidb</td><td>0.08 ± 0.01</td><td>0.08 ± 0.01</td></tr><tr><td>tumor</td><td>5.41 ± 0.91</td><td>5.92 ± 1.30</td></tr><tr><td>tumor/blood</td><td>17.5 ± 4.0</td><td>20.6 ± 4.1</td></tr><tr><td>tumor/muscle</td><td>8.5 ± 1.6</td><td>16.1 ± 5.3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/14e0fee842d54ad4369515a591c53ab3f8fb683f7669a186df4e9da83bb3a930.jpg",
+        "img_caption": [
+            "Figure 6.Effects of pretreatment with haloperidol,36,and siramesine （20 $( 0 . 1 \\ \\mathrm { m L } , 1 . 0 \\ \\mathrm { m g / k g } )$ on organ biodistribution of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ in Balb/c nude mice bearing C6 glioma xenografts.Student's t test (independent, two-tailed) was performed,and $p < 0 . 0 5$ (except in the kidney with 36 and in the tumor with haloperidol at $2 4 0 ~ \\mathrm { \\ m i n }$ after intravenous injection). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9774ca95643583fd96b655ef535c6fa349910d42771267e74ead634594b203bd.jpg",
+        "img_caption": [
+            "Figure 5.Effects of pretreatment with haloperidol $\\mathrm { { ( 0 . 1 ~ m L } }$ = $1 . 0 \\mathrm { m g / k g } )$ on organ biodistribution of $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ (A), ${ [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 3 \\mathbf { b }$ (B),or $[ { ^ { 9 9 \\mathrm { m } } \\mathrm { T c } } ]$ 29b (C) in male ICR mice $\\left( n = 5 \\right)$ . Student's ttest (independent, twotailed) was performed,and $p < 0 . 0 5$ (except for $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { \\bar { b } }$ in the lungs and kidney at $1 2 0 ~ \\mathrm { m i n }$ after intravenous injection, $[ { 9 9 \\mathrm { m } } _ { \\mathrm { T c } } ] 2 3 \\mathbf { b }$ in the heart and lungs at $6 0 \\mathrm { m i n }$ after intravenous injection,and ${ \\ [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b }$ in the spleen at $6 0 \\ \\mathrm { m i n }$ after intravenous injection). ",
+            "Figure 7.Representative transverse plane slices ofNanoScan SPECT/ CT fusion images of $\\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] 2 0 \\mathbf { b } \\left( 2 2 . 2 ~ \\mathrm { M B q } , 0 . 1 5 ~ \\mathrm { m L } \\right)$ in male Balb/c nude mouse bearing C6 glioma xenografts at $1 8 0 ~ \\mathrm { { m i n } }$ after injection. Isoflurane was used for anesthesia. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The parent radiotracer $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ was the main radioactive compound presented in the brain at both 15 and $3 0 \\ \\mathrm { \\ m i n } ,$ （20 indicating that $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ was very stable in the brain and that there was no entry of radioactive metabolites into the brain.In the liver samples, three main metabolites with retention times of $2 . 4 \\ \\mathrm { m i n }$ (M1), $4 . 6 \\ \\mathrm { m i n }$ (M2)，and $ { 5 . 4 }  { \\mathrm { \\ m i n } }$ (M3),respectively, were observed.Furthermore，the percentage of the parent compound $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ was decreased with time( $( 3 1 . 8 \\%$ and $1 6 . 1 \\%$ at 15 and $3 0 \\mathrm { m i n }$ ,respectively).The percentage of Ml was significantly increased with $4 5 . 8 \\%$ and $6 5 . 6 \\%$ at 15 and $3 0 ~ \\mathrm { m i n }$ respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A number of studies have demonstrated the high expression of $\\overset { \\cdot } { \\sigma _ { 2 } }$ receptors in many human tumors.2-4 The $\\sigma _ { 2 }$ receptor has proved to be a unique biomarker of proliferative status in solid tumors.7-9 Therefore, the development of molecular probes for imaging $\\sigma _ { 2 }$ receptors will provide useful information on the proliferative status of tumors in patients.Recently, $\\mathrm { \\Gamma [ ^ { 1 8 } F ] _ { I S O - 1 } }$ was developed as a potential $\\sigma _ { 2 }$ receptor PET radiotracer for imaging the proliferative status of tumors.\" .10-12 However,thereis still need for a $\\sigma _ { 2 }$ receptor SPECT imaging radioligands in clinical trials. $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ is the most common and convenient nuclide for SPECT imaging in clinical use. Furthermore, $^ { 9 9 \\mathrm { m } } \\mathrm { T c } / ^ { 1 8 8 } \\mathrm { R e }$ is considered as the ideal“matched pair”of theragnostic radionuclides. Development of the 99mTc-labeled radiotracer will provide useful information on the synthesis and therapeutic doses of the corresponding $^ { 1 8 8 } \\mathrm { R e }$ -labeled radiopharmaceuticals. Therefore,9mTc-labeled radiotracersfor $\\sigma _ { 2 }$ receptors imaging not only could be used in the early diagnosis of cancer but also could provide useful information for the therapeutic tumor medicine of $^ { 1 8 8 } \\mathrm { R e }$ -labeled radiopharmaceuticals. $[ ^ { \\bar { 9 } 9 \\mathrm { m } } \\mathrm { T c } ]$ [N-[2- ( $( 3 ^ { \\prime } – N ^ { \\prime }$ -propyl-[3,3,1]aza-bicyclononan- $3 \\alpha$ -yl)( $2 ^ { \\prime \\prime }$ -methoxy-5- methyl-phenylcarbamate)(2-mercapttoethyl)amino)acetyl]-2- amino-ethanethiolato]technetium(V） oxide( $\\mathrm { ( ^ { 9 9 m } T c ] 4 7 ) }$ was the most potential $\\sigma _ { 2 }$ receptor radiotracer ever reported with moderate affinity for $\\sigma _ { 2 }$ receptors ( $\\mathit { \\check { K } } _ { \\mathrm { i } } = 2 2 \\mathrm { n M } \\mathit { \\check { \\Omega } }$ and high subtype selectivity as well as visualization of tumor shape in planar gamma imaging.18 However, no further evaluation, such as SPECT/CT imaging, was reported since 2oo1.To the best of our knowledge, only the radiotracers with high tumor uptakes and high tumor-tomuscle ratios could have potential applications in the early diagnosis of tumor.Because of the much higher expression of the $\\sigma _ { 2 }$ receptors in tumors and moderate to high expression of the $\\sigma _ { 1 }$ receptors in the normal organs,development of highly subtype selective $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ -labeled $\\sigma _ { 2 }$ receptor radioligands with high tumor uptakes and high tumor/background ratios will have wide applications in imaging the proliferative status in solid tumors. Our aim in this article is to develop novel 99mTc-labeled radiotracers with high affinity for $\\sigma _ { 2 }$ receptors and high selectivity as well as clear visualization of solid tumors. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/358725c03d866c93ae6087d90e071430046339f8dd34c69fc6f13f9fbc799687.jpg",
+        "img_caption": [
+            "Figure8.AnalyticalHPLCchromatograms ofradioactivecompoundsinmousebrainandliversamplesafterintravenous injectionof $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ (18.5 MBq, $0 . 1 5 ~ \\mathrm { m L }$ ).(A)Brain and liver samplesat $1 5 \\mathrm { m i n }$ .(B)Brain and liver samples at $3 0 \\mathrm { m i n }$ (C) $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Enlightened by our previous results of $9 9 \\mathrm { m }$ Tc-labeled radiotracers with the $[ ( \\mathrm { C p - R } ) \\mathrm { T c } ( \\mathrm { C O } ) _ { 3 } ]$ unit,2225 eepacedth aromatic ring of ISO-1 with a $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ]$ unit with an electron-withdrawing group and connected it to a 5,6- dimethoxyisoindoline or $^ { 6 , 7 }$ -dimethoxy-1,2,3,4-tetrahydroisoquinoline scaffold via different carbon length linkers.The designed complexes were in accordance with the $\\sigma _ { 2 }$ receptor ligand pharmacophore model proposed by Glennon with an amine binding site flanked by two hydrophobic regions.37 It is encouraging that complexes 20a, 23a, $2 9 \\mathbf { a }$ ，and30ahavehigh affinity and subtype selectivity for $\\sigma _ { 2 }$ receptors.Among these ligands,compound 2oa had low nanomolar affinity and higher subtype selectivity than ISO-1.Moreover，it showed high selectivity toward VAChT (2374-fold),dopamine $\\mathrm { D } _ { 2 \\mathrm { L } }$ receptors, NMDA receptors,opiate receptors,DAT,NET,and SERT. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To detect the specific binding of the radiotracers to $\\sigma _ { 2 }$ receptors，we selected DUl4s human prostate tumor cells （ $\\cdot \\overline { { B _ { \\mathrm { m a x } } } }$ values of $\\sigma _ { 1 }$ and $\\sigma _ { 2 }$ receptors were 1800 and $1 9 3 0 \\mathrm { f m o l / m g }$ protein,respectively)4 and C6 rat glioma cells ( $\\cdot B _ { \\mathrm { m a x } }$ values of $\\sigma _ { 1 }$ and $\\sigma _ { 2 }$ receptors were 42 and $5 5 0 7 \\mathrm { \\ f m o l / m g }$ protein, respectively).’ In the in vitro binding assays in tumor cells, $[ ^ { 9 9 \\mathrm { { \\bar { m } } } } \\mathrm { T c } ] 2 0 \\mathrm { { \\bar { b } } }$ exhibited much higher cellular association and comparable specific binding to $\\sigma _ { 2 }$ receptors in DU145 cells than ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } { \\bar { \\mathrm { T c } } } { \\bf \\rbrack } { \\bf 2 } { \\bf 3 } { \\bf b } ,$ which is in goodagreement with the higheraffinity of the former compound. Coincubation with ISO-1 led to significant reduction of cellular association in a dose-dependent manner, indicating the specific binding of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\hat { \\mathbf b }$ to $\\sigma _ { 2 }$ receptors. $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] \\mathbf { \\bar { 2 } 9 6 }$ exhibited comparable cellular association and higher specific binding to $\\sigma$ receptors in DU145 cells than $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 3 0 \\mathrm { b }$ .Thus, it seemed that the $^ { 5 , 6 }$ -dimethoxyisoindoline moiety is a better $\\sigma _ { 2 }$ preferring group than the 6,7-dimethoxy$^ { 1 , 2 , 3 , 4 }$ -tetrahydroisoquinoline moiety.In C6 glioma cells, $ { \\lbrack { \\mathbf { \\varphi } } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] }  { \\mathbf { 2 0 b } }$ displayed much higher cellular association and higher specifc binding to $\\sigma$ receptors than ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 9 6 } ,$ indicating that $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] \\mathbf { \\bar { 2 0 } b }$ is the most potent radioligand in this series and warrants further evaluation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To investigate the kinetics and examine the specific binding of the radiotracers in vivo, biodistribution studies of $[ { \\overset { 9 9 \\mathrm { m } } { \\mathrm { I c } } } ] { \\overset { \\vartriangle } { 2 \\mathbf { 0 } } } \\mathbf b ,$ （2号 ${ \\displaystyle \\left[ { \\bf \\nabla } ^ { 9 9 \\mathrm { m } } { \\bf T } { \\bf c } \\right]}  { \\bf 2 } 3 { \\bf b } ,$ and $\\scriptstyle { \\big [ } { } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b }$ were performed in male ICR mice. $ { \\lbrack { \\mathbf { \\varphi } } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] }  { \\mathbf { 2 0 b } }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 3 \\mathbf { b }$ displayed high initial brain uptake with 2.57 and $2 . 3 8 \\%$ $\\mathrm { I D / g }$ at $2 ~ \\mathrm { m i n }$ after injection, respectively. $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathrm { b }$ exhibited low brain uptake with $0 . 2 4 \\% \\mathrm { I D / g }$ t $2 \\mathrm { m i n }$ after injection, indicating that the amide and carbonyl group showed different influences on the potential of the radiotracer to cross the BBB.Interestingly，all the radiotracers mentioned above exhibited fastclearance from the muscle and blood,which is very important for tumor imaging agents. Pretreatment with haloperidol significantly reduced the accumulation in the brain, indicating the specific binding of $\\begin{array} { r l } {  { \\big [ 9 9 \\mathrm { m } _ { \\mathrm { T c } } \\big ] 2 \\mathbf { 0 } \\mathbf { b } } } \\end{array}$ ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 } 3 { \\bf b } ,$ and [99mTc]29b to o receptors in vivo. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Finally,we selected the most potent radioligand $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ and evaluated its potential applications in tumor imaging. In biodistribution studies in Balb/c nude mice bearing C6 glioma xenografts, $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ showed much higher tumor uptake $( 5 . 4 1 - 5 . 9 2 \\%$ （2 $\\scriptstyle \\mathrm { I D } / \\mathrm { g } ,$ ）than $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 4 7 ~ ( 1 . 1 \\bar { 1 } - 2 . 1 1 \\% ~ \\mathrm { I D } / \\bar { \\bf g } ,$ 66 murine breast tumor)18and $\\Gamma ^ { 1 8 } \\mathrm { F } \\big ] \\mathrm { I S O - 1 } ~ \\big ( 0 . 6 4 \\mathrm { - } 3 . 6 7 \\% ~ \\mathrm { \\bar { I } D / g } ,$ EMT-6 mouse mammary tumor).10 $ { \\lbrack { \\nabla \\circ } \\mathrm { m } _ { \\mathrm { T c } } ] }  { \\mathbf { 2 0 b } }$ also exhibited fast clearance from the surrounding tissues.Thus,the tumor-to muscle ratios (8.5-16.1） are higher than those of $\\scriptstyle { \\big [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 4 7$ (0.57-4.95) $\\left( 1 6 \\mathrm { v s } 4 . 9 5 \\mathrm { a t } 4 \\mathrm { h } \\right)$ ).18Moreover,the tumor-to-blood ratios $\\left( 1 7 . 5 \\substack { - 2 0 . 6 } \\right)$ are significantly higher than those of $\\boldsymbol { \\left[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\right] }$ 47 $\\left( 0 . 5 6 { - } 2 . 2 1 \\right) ^ { 1 8 }$ and $[ ^ { \\mathrm { i } 8 } \\mathrm { F } ] \\mathrm { I S O - i }$ (1.47-2.19).1° Pretreatment withhaloperidol,36,and siramesine resulted in a remarkable reduction of radiotracer accumulation in the tumors, indicating the specific binding of $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ to $\\sigma$ receptors in C6 glioma tumors in vivo.Consistent with the high tumor uptakes and high tumor-to-muscle ratios in biodistribution studies,the animal SPECT/CT imaging of $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ demonstrated a high uptake and clear visualization of C6 glioma xenografts in nude mice at $1 8 0 \\mathrm { m i n }$ . These data suggest the potential use of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ for SPECT imaging studies of brain tumors in patients. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "By applying an integrated strategy,we have designed,prepared, and evaluated a series of cyclopentadienyl tricarbonyl $\\hat { 9 } 9 \\mathrm { m } \\hat { \\mathrm { T } } \\mathrm { c } / \\mathrm { R e }$ complexes containing $^ { 5 , 6 }$ -dimethoxyisoindoline or $^ { 6 , 7 }$ -dimethoxy-1,2,3,4-tetrahydroisoquinoline moiety. Compared with ISO-1, the rhenium complex of the corresponding radiotracer ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20a possessed higher affinity and subtype selectivity for $\\sigma _ { 2 }$ receptors.The corresponding radiotracer $\\Gamma ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathbf { b }$ showed high uptakes and specific binding to $\\sigma$ receptors in DU145 prostate cells and C6 glioma cells. Moreover， $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ exhibited high tumor uptake and high tumor/blood and tumor/ muscle ratios in nude mice bearing C6 glioma xenografts. Furthermore, this radiotracer demonstrated specific binding to $\\sigma$ receptors in the tumor.In particular, animal SPECT/CT imaging studies with $ { \\lbrack { \\boldsymbol { 9 9 } } \\mathrm { m } _ { \\mathrm { T c } } ] }  { \\boldsymbol { 2 0 } }  { \\mathbf { b } }$ demonstrated a high uptake and clear visualization of C6 glioma xenografts in nude mice.These findings demonstrated that the further evaluation of $ { \\lbrack 9 9 \\mathrm { m } _ { \\mathrm { T c } } ] } 2 0 \\mathbf { b }$ as a potential $\\sigma _ { 2 }$ receptor probe for imaging the proliferative status in brain tumors is worth doing. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All reagents used in the synthesis were commercial products and were used without further purification unless otherwise indicated. $^ { 9 9 \\mathrm { m } } \\mathrm { T c } .$ pertechnetate was eluted from a commercial $^ { 9 9 } \\mathrm { M o } - ^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ generator obtained from Beijing Atomic High-tech Co.The ${ } ^ { 1 } \\mathrm { H N M R }$ spectra were recorded on Bruker Avance III NMR $( 4 0 0 ~ \\mathrm { M H z } )$ spectrometers in $\\mathrm { C D C l } _ { 3 }$ solutions at room temperature with TMS as an internal standard. Chemical shifts $( \\delta )$ were reported in ppm values relative to the internal TMS. Coupling constants $\\bar { ( J ) }$ were reported in Hertz $\\mathbf { \\Pi } ( \\operatorname { H z } )$ . Multiplicity is defined by s (singlet),d (doublet),t (triplet),and $\\mathbf { m }$ (multiplet). The $^ { 1 3 } \\mathrm { C }$ NMR spectra were recorded on Bruker Avance III NMR $\\mathrm { \\backslash 1 0 0 M H z }$ spectrometers.Mass spectra were acquired by Quattro micro APIESI/ MS (Waters, USA).High-resolution mass spectrometry (HRMS） was performed on a LCT Premier XE ESI-TOF mass spectrometry instrument (Waters,USA).X-ray crystallography data were collected onaBruker Smart APEXII diffractometer(Bruker Co.,Germany).The melting point $\\left( \\mathrm { { M p } } \\right)$ of solid compounds was tested on a WRX-4 micro melting point apparatus (Shanghai yice instrument Co., LTD, China) and was uncorrected.Reactions were monitored by TLC(TLC Silica gel 60 F254, Merck).Flash column chromatography was conducted using silica gel $( 4 5 - 7 5 \\mu \\mathrm { m } )$ from Qingdao Haiyang Chemical Co.,Ltd. The compounds were visualized by illumination with a short wavelength UV lamp $( \\lambda = 2 5 4 \\mathrm { n m }$ ).High performance liquid chromatography (HPLC) separations and analyses were performed on a Waters 6Oo system (Waters，corporation， USA) equipped with a Waters 2489 UV-VIS detector and a Raytest Gabi NaI (Tl) scintillation detector (Raytest, Germany）and on a Shimadzu SCL-20AVP system (Shimadzu Corporation,Japan） equipped with a Bioscan Flow Count ${ 3 2 0 0 } \\mathrm { { N a I } } /$ PMTγ-radiation scintillation detector. Samples were analyzed and separated on an Agela Venusil MP C18 column ( $2 5 0 \\mathrm { m m } \\times 4 . 6 \\mathrm { m m } ,$ 5 $\\mu \\mathrm { m } )$ using acetonitrile with $0 . 1 \\%$ trifluoroacetic acid(TFA) and water with $0 . 1 \\%$ TFA as the mobile phase at a flow rate of $1 \\mathrm { m L } / \\mathrm { m i n }$ All of the final compounds were analyzed by HPLC with a purity of more than $9 5 \\%$ (HPLC profiles are shown in the Supporting Information). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MaleICR mice (4-5 weeks, $2 2 { - } 2 5 \\ \\mathrm { g }$ ）were purchased from Vital River Laboratory Animal Technology Co.Ltd.All procedures related to animal experiments were performed in compliance with relevant laws and institutional guidelines.All protocols requiring the use of mice were approved by the animal care committee of Beijing Normal University. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chemistry.2-(5,6-Dimethoxyisoindolin-2-yl)acetonitrile (5). Compound 3 $\\left( 2 5 4 . 0 ~ \\mathrm { m g } , ~ 1 . 4 2 ~ \\mathrm { m m o l } \\right)$ and $\\boldsymbol { \\mathsf { S } } \\mathrm { m L }$ of triethylamine were dissolved in $1 0 ~ \\mathrm { \\ m L }$ of ${ \\mathrm { C H } } _ { 2 } { \\mathrm { C l } } _ { 2 } ,$ followed by the addition of 2- bromoacetonitrile $\\left( 2 0 0 . 0 \\ \\mathrm { m g } , \\ 1 . 6 7 \\ \\mathrm { m m o l } \\right)$ .The reaction mixture was stirred at room temperature for $2 4 \\mathrm { h }$ .The mixture was then washed with $\\mathrm { H } _ { 2 } \\mathrm { O }$ and extracted with $\\mathrm { C H } _ { 2 } \\mathrm { C l } _ { 2 }$ .The organic layer was dried over $\\mathrm { M g S O _ { 4 } } ,$ filtered,and concentrated under vacuum.The residue was purified by silica gel chromatography (dichloromethane/methanol $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 100:1) to afford 5 $\\left( 2 1 9 . 4 \\mathrm { m g } , 7 2 \\% \\right)$ as a white solid.Mp:125.5-125.9 $^ { \\circ } \\mathrm { C }$ $^ { 1 } \\mathrm { H }$ NMR $\\bf { \\Psi } _ { 4 0 0 \\ M H z } ,$ （204号 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 7 6$ (s,2H),4.07 (s,4H),3.87 (s, 6H),3.81 (s,2H).ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ 0 $m / z = 2 1 9 . 2 ,$ ！ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3-(5,6-Dimethoxyisoindolin-2-yl)propanenitrile (6).The procedure described for the synthesis of 5 was applied to compound 3 $\\mathrm { ( 2 5 1 . 2 m g , }$ $1 . 4 0 \\ \\mathrm { m m o l } ;$ ）and 3-bromopropanenitrile $( 2 2 3 . 7 \\mathrm { ~ m g } , \\ 1 . 6 7 \\mathrm { ~ m m o l } )$ to afford 6 $( 2 1 5 . 5 \\mathrm { m g } , 6 7 \\% )$ ）asalight brown solid.Mp: $1 3 7 . 1 { - } 1 3 7 . 5 ^ { \\circ } \\mathrm { C }$ $\\mathrm { ^ { 1 } H N M R }$ $\\cdot 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } .$ ） $\\delta 6 . 7 5$ (s,2H),4.03 (s, $\\mathrm { 4 H } )$ ,3.86 (s, 6H), 3.12 $\\left( \\mathrm { t } , J = 7 . 0 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.65 $\\left( \\mathrm { t } , J = 6 . 4 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ .ESI-MS: $[ \\boldsymbol { \\mathrm { M } } + \\boldsymbol { \\mathrm { H } } ] ^ { + } \\left( \\boldsymbol { m } / z \\right.$ $= 2 3 3 . 2 \\AA$ ！ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4-(5,6-Dimethoxyisoindolin-2-yl)butanenitrile (7).The procedure described for the synthesis of 5was applied to 3 $\\cdot 2 5 4 . 5 \\mathrm { m g } , 1 . 4 2 \\mathrm { m m o l } )$ and 4-bromobutanenitrile $( 2 4 7 . 2 \\mathrm { m g } , 1 . 6 7 \\mathrm { m m o l } )$ toafford $^ { 7 } \\left( 2 5 4 . 9 \\mathrm { m g } , \\right.$ $7 3 \\%$ )as a light brown solid. $\\mathrm { ^ { 1 } H N M \\bar { R } }$ （204号 $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 7 5 \\left( \\mathrm { s } , 2 \\mathrm { H } \\right) .$ 4.04 (s,4H), 3.87 $( s , 6 \\mathrm { H } )$ ,2.97 $\\left( \\mathrm { t } , J = 6 . 7 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ，2.55( $\\mathrm { t } , J = 7 . 1 \\ \\mathrm { H z } ,$ 2H),2.02 $\\left( \\mathrm { t } , J = 6 . 7 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ).ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ 1 ${ ' m } / z = 2 4 7 . 2 { \\rangle }$ ！ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2-(5,6-Dimethoxyisoindolin-2-yl)ethanamine (11).A solution of $\\mathrm { L i A l H _ { 4 } }$ 0 $\\cdot 1 4 5 . 7 \\mathrm { m g } , 3 . 8 3 \\mathrm { m m o l } \\rangle$ in $1 0 \\mathrm { m L }$ of anhydrous diethyl ether was cooled at $0 ~ ^ { \\circ } \\mathrm { C }$ (icebath), followed by the addition of a solution of 5 $( 2 1 0 . 0 \\mathrm { m g } , 0 . 9 6 \\mathrm { m m o l } )$ in ${ \\mathfrak { s } } \\mathrm { m L }$ of anhydrous THF.Then, the reaction mixture was stirred at room temperature overnight.The reaction mixture was quenched with ice- $\\cdot \\mathrm { H } _ { 2 } \\mathrm { O }$ and extracted with ethyl acetate. The organic layer was dried over anhydrous $\\mathrm { M g } S { \\mathrm O } _ { 4 } ,$ filtered,and concentrated under vacuum.The residue was purified by silica gel chromatography(dichloromethane/methanol/triethylamine $= 2 0 { : } 1 { : } 1 \\$ ） to give 11 $( 9 7 . 2 ~ \\mathrm { m g } , ~ 4 6 \\% )$ as a light yellow oil. $^ { 1 } \\mathrm { H }$ NMR $\\bf { \\Psi } ^ { \\prime } 4 0 0 \\ M H z ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 7 5$ $( s , 2 \\mathrm { H } )$ ,3.91 (s,4H), 3.86 $( s , 6 \\mathrm { H } )$ ,2.90-2.87 $( \\mathrm { m } , 2 \\mathrm { H } )$ $2 . 8 4 - 2 . 8 1 \\$ （204号 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,2.04(br s,2H).ESI-MS: $[ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 1 ${ \\bf \\zeta } _ { m } / z = 2 2 3 . 2 )$ ： 3-(5,6-Dimethoxyisoindolin-2-yl)propan- $\\boldsymbol { \\mathit { 1 } }$ -amine $( 1 2 )$ . The procedure described for the synthesis of11 was applied to $\\mathrm { L i A l H _ { 4 } }$ (130.5 m $\\mathrm { g } , 3 . 4 4 \\mathrm { m m o l } \\rangle$ and compound 6 $\\left( 2 0 0 . 0 \\mathrm { m g } , 0 . 8 6 \\mathrm { m m o l } \\right)$ to afford 12 1 $( 7 3 . 0 \\mathrm { m g } , 3 6 \\% )$ as a brown oil. $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l _ { 3 } }$ ） $\\delta 6 . 7 5$ (s, 2H),4.07 $\\left( s , 4 \\mathrm { H } \\right)$ ,3.83 $( s , 6 \\mathrm { H } )$ ,3.15 $\\left( \\mathrm { q } , 2 \\mathrm { H } , J = 7 . 3 \\mathrm { H z } \\right) $ ， $1 . 7 4 \\mathrm { - } 1 . 6 7$ 0 $[ \\mathbf { m } ,$ 2H), 1.47-1.32 $( \\mathrm { m } , 2 \\mathrm { H } )$ . ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ （ $\\left( m / z = 2 3 7 . 2 \\right)$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4-(5,6-Dimethoxyisoindolin-2-yl)butan-1-amine (13).The procedure described for the synthesis of 1l was applied to $\\mathrm { L i A l H _ { 4 } }$ （ $\\mathrm { 1 2 9 . 0 m g , }$ （20 $3 . 4 0 \\mathrm { m m o l } \\rangle$ and compound7( $\\left. { 2 1 0 . 0 \\ m g , 0 . 8 5 m m o l } \\right.$ toafford13(92.4 mg, $5 0 \\%$ )asa brown oil. $^ { 1 } \\mathrm { H }$ NMR $\\mathrm { ' } 4 0 0 \\mathrm { M H z } ,$ （204号 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta \\ : 6 . 7 3$ （20 $( s , 2 \\mathrm { H } )$ 4.81 (br s,2H),3.93 $\\left( s , 4 \\mathrm { H } \\right)$ ,3.85 $( s , 6 \\mathrm { H } )$ $2 . 8 4 - 2 . 8 1 \\$ （20 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，2.76( $[ \\mathbf { m } ,$ 2H), 1.76-1.66 $\\mathrm { ( m , 4 H ) }$ ).ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ 0 $\\dot { \\left. m \\right/ } z = 2 5 1 . 2 \\mathrm { \\rangle }$ ！ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3-(5.6-Dimethoxyisoindolin-2-yl)-propylcarbonylcyclopentadienylTricarbonyl Rhenium $( 2 0 a )$ .Compound 3 $\\left( 2 3 . 0 \\mathrm { m g } , 0 . 1 3 \\mathrm { m m o l } \\right)$ was added to a solution of17 $( 5 7 . 7 \\mathrm { m g } , 0 . 1 2 \\mathrm { m m o l } )$ andKI $( 2 0 . 0 \\mathrm { m g } , 0 . 1 2 \\$ mmol) in $\\boldsymbol { \\mathsf { S } } \\mathrm { m L }$ of toluene and $3 \\mathrm { m L }$ of triethylamine.The mixture was refluxed at $1 1 5 ~ ^ { \\circ } \\mathrm { C }$ for $5 { \\mathrm { ~ h } } .$ After cooling to room temperature, the solvent was evaporated in vacuum.The residue was purified by silica gel chromatography (ethyl acetate/petroleum ether/triethylamine $= 1 { : } 3 { : } 1$ ） to afford $2 \\mathbf { 0 } \\mathbf { a }$ （ $8 . 6 \\mathrm { m g } , 1 0 \\% )$ as a dark oil. $^ { 1 } \\mathrm { H }$ NMR $\\left( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } \\right) \\delta$ 6.74 (s,2H),5.98 $\\mathrm { ( t , } J = 2 . 2 \\ \\mathrm { H z , } 2 \\mathrm { H } )$ ,5.37 $\\left( \\mathrm { t } , J = 2 . 2 \\ \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,3.88 (s, 4H),3.85 (s,6H),2.78-2.71 $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ， $2 . 0 0 { - } 1 . 9 3 \\$ $( \\mathrm { m } , 2 \\mathrm { H } )$ ： $^ { 1 3 } \\mathrm { C }$ NMR $( 1 0 0 ~ \\mathrm { M H z } ,$ （20 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 194.85,191.91,148.53,131.52,105.99,96.61, 87.69,85.11,59.04,56.19,54.98,36.36,23.51.HRMS (ESI-Tof), $[ \\mathbf { M } + \\mathbf { \\Gamma }$ $\\mathrm { H J ^ { + } }$ $m / z$ calcd for $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 2 3 } \\mathrm { N O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e } ~ 5 8 2 . 1 0 5 5$ ；found 582.1045. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4-(5.6-Dimethoxyisoindolin-2-yl)-butylcarbonylcyclopentadienyl Tricarbonyl Rhenium (21a).The procedure described for the synthesis of 20a was applied to 18 $\\left( 7 0 ~ \\mathrm { m g } , 0 . 1 4 ~ \\mathrm { m m o l } \\right)$ and 3 $( 5 1 . 9 ~ \\mathrm { m g } , 0 . 2 9 \\$ mmol) to afford 2la as a dark oil $\\left( 1 2 . 8 ~ \\mathrm { m g } , 1 0 \\% \\right)$ ） $^ 1 \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 7 4$ (s,2H),5.99 ( $\\mathrm { t } , J = 2 . 3 \\mathrm { H z } , 2 \\mathrm { H } )$ ，5.36 $\\left( \\mathrm { t } , J = 2 . 3 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ = 3.94 (s,4H),3.85 (s,6H),2.79 $\\left( \\mathrm { t } , J = 7 . 2 \\mathrm { H z } , 2 \\mathrm { H z } \\right)$ )，2.66 $\\mathrm { ( t , ~ } J = 7 . 0 \\mathrm { ~ H z , ~ }$ （20 2H), $1 . 8 4 - 1 . 7 7$ $( \\mathrm { m } , 2 \\mathrm { H } )$ ，1.70-1.62 $( \\mathrm { m } , 2 \\mathrm { H } )$ ： $^ { 1 3 } \\mathrm { C }$ NMR $\\bf { \\chi } ^ { \\prime } 1 0 0 ~ \\bf { M H z } ,$ （204号 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 194.74,191.90,148.66,130.90,105.95,96.24,87.82, 85.13, 59.10,56.19,55.93,38.41,29.70,27.69,22.00.HRMS(ESI-Tof), $[ \\mathbf { M } + \\mathbf { \\Gamma }$ $\\mathrm { H J ^ { + } }$ $m / z$ calcd. for $\\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 5 } \\mathrm { N O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e } \\ 5 9 6 . 1 2 1 2$ ;found 596.1219. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5-(5.6-Dimethoxyisoindolin-2-yl)-pentylcarbonylcyclopentadienyl Tricarbonyl Rhenium (22a). Compound 3 $\\left( 3 1 . 9 \\mathrm { m g } , 0 . 1 8 \\mathrm { m m o l } \\right)$ was added to a solution of 19( $\\mathrm { \\ ' 6 0 . 0 ~ m g , ~ 0 . 1 2 ~ m m o l } ,$ ，KI $\\left( 3 2 . 1 ~ \\mathrm { m g } , \\ 0 . 1 9 \\right.$ mmol)，and ${ \\mathrm { K } } _ { 2 } { \\mathrm { C O } } _ { 3 }$ 0 $2 5 . 0 \\mathrm { \\ m g } , 0 . 1 8 \\mathrm { \\ m m o l } )$ in $1 0 ~ \\mathrm { m L }$ of anhydrous acetonitrile.The mixture was stirred at $9 0 ~ ^ { \\circ } \\mathrm { C }$ for $^ { \\textrm { \\scriptsize 5 h } }$ Aftercooling to room temperature，the mixture was poured with cold water and extracted with $\\mathrm { C H } _ { 2 } \\mathrm { C l } _ { 2 }$ .The organic layer was dried over anhydrous $\\mathrm { M g S O } _ { 4 } ,$ filtered,and concentrated under vacuum.The residue was purified by silica gel chromatography (ethyl acetate/petroleum ether/ triethylamine $= 1 { : } 3 { : } 1$ ）toafford22a( $( 2 9 . 8 ~ \\mathrm { m g } , 4 1 \\% )$ ）asadark oil. $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l _ { 3 } }$ ） $\\delta 6 . 7 4$ (s,2H),5.99 $\\langle \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , 2 \\mathrm { H } \\rangle$ ,5.39 $\\left( \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,3.89 (s,4H),3.86 $( s , 6 \\mathrm { H } )$ ,2.72 $\\left( \\mathrm { t } , J = 7 . 4 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ） 2.62 $\\left( \\mathrm { t } , J = 7 . 3 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ， $1 . 7 8 \\mathrm { - } 1 . 7 1 \\$ （204 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,1.66-1.58 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，1.48- 1.42 $( \\mathrm { m } , 2 \\mathrm { H } )$ ： $^ { 1 3 } \\mathrm { C }$ NMR $\\big ( 1 2 5 \\ : \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 195.20, 191.88, 148.35, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "131.71,105.88, 96.51,87.90,85.18,59.26,56.13,55.93,38.78,28.72,  \n26.93，24.31.HRMS (ESI-Tof)， $[ \\mathbf { M } ~ + ~ \\mathbf { H } ] ^ { + }$ ： $m / z$ calcd.for  \n$\\mathrm { C } _ { 2 4 } \\mathrm { H } _ { 2 7 } \\mathrm { N O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e }$ 610.1368; found 610.1362.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3-(6,7-Dimethoxy- $^ { \\cdot 3 , 4 \\cdot }$ -dihydro-1H-isoquinolin-2-yl)-propylcarbo nylcyclopentadienyl Tricarbonyl Rhenium (23a).The procedure described for the synthesis of 20a was applied to 17 $( 5 3 . 5 ~ \\mathrm { m g } , 0 . 1 1$ mmol) and 4 $\\left( 3 2 . 0 ~ \\mathrm { m g } , 0 . 1 6 ~ \\mathrm { m m o l } \\right)$ to afford 23a as a yellow oil(19.7 mg, $3 0 \\%$ ） $^ { 1 } \\mathrm { H }$ NMR ( $4 0 0 ~ \\mathrm { { M H z } } ,$ $\\mathrm { C D C l } _ { 3 }$ 8 6.58 $( s , 1 \\mathrm { H } )$ ,6.51 $( s , \\ 1 \\mathrm { H } )$ ， 5.96 (t, $J = 2 . 2 \\mathrm { H z } ,$ 2H),5.34 ( $\\updownarrow , J = 2 . 2 \\ : \\mathrm { H z } ,$ 2H),3.84 (s,3H),3.83 (s, 3H),3.56 (s,2H), $2 . 8 1 { - } 2 . 7 8 \\$ （20 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,2.74-2.67 $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ,2.57 $( \\mathrm { t } , J =$ 6.8 Hz,2H),2.03-1.96 $\\left( \\mathrm { m } , 2 \\mathrm { H } \\right)$ ） $^ { 1 3 } \\mathrm { C }$ NMR（125 $\\mathbf { M H z } ,$ （ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 194.65,191.90,147.99,147.58,125.04,111.31,109.40,96.15,87.84, 85.25,55.97,55.95,54.70,50.23,36.29,29.71,20.97.HRMS (ESI-Tof), $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $m / z$ calcd. for $\\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 5 } \\mathrm { N O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e }$ 596.1212; found 596.1215. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4-(6,7-Dimethoxy- $^ { 3 , 4 }$ -dihydro- $\\boldsymbol { { 1 } } \\boldsymbol { { H } }$ -isoquinolin-2-yl)-butylcarbo nylcyclopentadienyl Tricarbonyl Rhenium $( 2 4 a )$ .The procedure described for the synthesis of 20a was applied to 18( $\\mathrm { \\dot { 6 } 0 ~ m g }$ 0.12 mmol) and 4 ( $\\left. 5 0 . 1 \\mathrm { m g } , 0 . 2 6 \\mathrm { m m o l } \\right)$ toafford24aasayellow oil $( 2 2 \\mathrm { m g } ,$ $3 6 \\%$ ） $^ { 1 } \\mathrm { H }$ NMR ( $\\bf { \\zeta } _ { 4 0 0 M H z } ,$ （20 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 5 9$ (s,1H),6.52 (s,1H),6.00 (t, $J = 2 . 3 \\ : \\mathrm { H z } , 2 \\mathrm { H } ;$ ,5.33 $\\left( \\mathrm { t } , J = 2 . 3 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ） $3 . 8 4 \\left( s , 3 \\mathrm { H } \\right)$ ,3.83 (s,3H),3.58 (s,2H),2.83 $\\left( \\mathrm { t } , J = 5 . 2 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ，2.74(t $\\therefore J = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } ,$ ,2.65 $\\left( \\mathrm { t } , J = 7 . 0 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } { \\dot {  } }$ 2.56(t $, J = 7 . 0 ~ \\mathrm { H z } , 2 \\mathrm { H }$ ,1.82-1.74 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,1.73-1.63 (m, 2H). $^ { 1 3 } \\mathrm { C }$ NMR( $\\bf { \\chi } ^ { \\prime } 1 0 0 ~ \\bf { M H z } ,$ （204号 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 195.10, 191.91,147.59,147.28, 126.65,126.21,111.46,109.62,96.18,87.94,85.08,57.48,55.96,55.75, 50.91,38.58,29.71,28.64,26.29,22.44.HRMS (ESI-Tof), $[ \\boldsymbol { \\mathbf { M } } + \\boldsymbol { \\mathbf { H } } ] ^ { + }$ $m / z$ calcd. for $\\mathrm { C _ { 2 4 } H _ { 2 7 } N O _ { 6 } ^ { 1 8 5 } R e } 6 1 0 . 1 3 6 8 ;$ found 610.1366. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5-(6,7-Dimethoxy- $^ { 3 , 4 }$ -dihydro-1H-isoquinolin-2-yl)-pentylcarbonylcyclopentadienyl Tricarbonyl Rhenium $( 2 5 a )$ .The procedure described for the synthesis of 22a was applied to 19（ $( 7 8 . 5 ~ \\mathrm { m g } , 0 . 1 5 \\$ mmol) and 4 $\\left( 4 5 . 2 \\mathrm { m g } , 0 . 2 3 \\mathrm { m m o l } \\right)$ to afford 25a as a colorless oil (48.6 mg, $5 1 \\%$ ） $^ { 1 } \\mathrm { H }$ NMR( $\\bf { \\Psi } _ { 4 0 0 \\ M H z } ,$ （ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta \\ : 6 . 5 9$ （ $( s , \\ 1 \\mathrm { H } )$ ,6.52 (s,1H), 5.98 ( $\\mathrm { t } , J = 2 . 2 \\ \\mathrm { H z } ,$ 2H),5.38 $\\left( \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , \\right.$ 2H),3.84 (s,3H),3.83 (s, 3H),3.55 (s,2H),2.82 ( $\\mathrm { \\Delta t } , J = 5 . 7 \\mathrm { H z } , 2 \\mathrm { H } )$ ,2.70 $\\left( \\mathrm { t } , J = 5 . 8 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.61 $\\left( \\mathrm { t } , J = 7 . 3 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.51 $\\left( \\mathrm { t } , J = 7 . 5 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,1.77-1.69 $( \\mathrm { m } , 2 \\mathrm { H } )$ ， $1 . 6 8 -$ 1.59 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，1.45-1.37 $( \\mathrm { m } , 2 \\mathrm { H } )$ 1 $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { 1 2 5 \\ M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 195.20,191.88,147.47,147.17,126.73,126.25,111.36,109.50,96.15, 87.89,85.18,58.14,55.92,55.91,55.86,51.10,38.79,28.72,27.10,27.04, 24.32.HRMS (ESI-Tof), $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $m / z$ calcd. for $\\mathrm { C } _ { 2 5 } \\mathrm { H } _ { 2 9 } \\mathrm { N O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e }$ 624.1525; found 624.1519. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2-(5,6-Dimethoxyisoindolin-2-yl)-ethylaminocarbonylcyclopentadienyl Tricarbonyl Rhenium $( 2 7 a )$ Under ${ \\bf N } _ { 2 } ,$ the solution of compound 11 ( $\\left. 6 0 . 0 \\mathrm { m g } , 0 . 2 7 \\mathrm { m m o l } \\right.$ in $1 . 5 ~ \\mathrm { m L }$ of anhydrous DMF and $1 0 0 ~ \\mu \\mathrm { L }$ of triethylamine was added to the solution of compound 26 （2号 $( 9 8 . 2 ~ \\mathrm { m g } , ~ 0 . 1 8 ~ \\mathrm { m m o l } )$ in $1 ~ \\mathrm { m L }$ of anhydrous DMF dropwise.The reaction mixture was stirred at room temperature for $^ { 4 \\mathrm { h } }$ .The solvent wasremoved,washed with saturated sodium chloride,and extracted with ethyl acetate.The organic layer was dried over anhydrous $\\mathrm { M g } S { \\mathrm O } _ { 4 } ,$ filtered,and concentrated under vacuum.The residue was purified by silicagel chromatography(ethyl ether/hexane/triethylamine $= 1 0 { : } 5 { : } 1$ ） to afford 27a $( 4 9 . 9 \\mathrm { ~ m g } , 4 8 \\%$ ）asa pale yellow solid.Mp:165.1-167.1 $^ { \\circ } \\mathrm { C }$ $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } )$ ） $\\delta 7 . 1 6$ (br s,1H),6.76(s,2H),6.04 (s, 2H),5.34 $\\mathrm { ( t , } J = 2 . 2 \\mathrm { { H z } , 2 H ) }$ ,4.12 $\\left( s , 4 \\mathrm { H } \\right)$ ,3.87 (s,6H),3.61 $\\left( \\mathbf { q } , J = 5 . 4 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } )$ ，3.07(t $J = 5 . 3 ~ \\mathrm { H z } ,$ 2H). $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { \\widetilde { \\Omega } } 1 0 0 ~ \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 192.58,162.28,148.64,131.10,105.93,95.13,86.03,84.66,58.99,56.15, 54.36，38.12.HRMS(ESI-Tof)， $[ \\mathbf { M } ~ + ~ \\mathbf { H } ] ^ { + }$ ： $m / z$ calcd for $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 2 1 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e } \\ 5 8 3 . 1 0 0 8 \\$ ,found 583.0995. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3-(5,6-Dimethoxyisoindolin-2-yl)-propylaminocarbonylcyclopentadienyl Tricarbonyl Rhenium (28a).The procedure described for the synthesis of $2 7 \\mathbf { a }$ was applied to the compound 12 $\\left( 4 0 . 0 \\mathrm { m g } , 0 . 1 7 \\mathrm { m m o l } \\right)$ （20 and compound 26 ( $\\left. 6 0 . 0 \\mathrm { m g } , 0 . 1 1 \\mathrm { m m o l } \\right.$ to afford 28a $( 2 6 . 1 \\mathrm { m g } , 4 0 \\%$ as a pale yellow oil. $^ { 1 } \\mathrm { H }$ NMR ${ \\bf \\zeta } ^ { \\bf 4 0 0 M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 9 . 0 5$ (br s,1H),6.82 (s,2H),5.48 $( \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , 2 \\mathrm { H }$ ，5.10 $\\left( \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , 2 \\mathrm { H z } \\right)$ ),3.97 (s,4H), 3.88 (s,6H),3.53 $\\left( \\mathrm { q } , J = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ,3.0 $) 3 \\left( \\mathrm { t } , J = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ $1 . 8 4 \\mathrm { - } 1 . 7 8$ $( \\mathrm { m } , 2 \\mathrm { H } )$ .HRMS (ESI-Tof), $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $m / z$ calcd for $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 2 4 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e }$ 597.1164, found 597.1177. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4-(5,6-Dimethoxyisoindolin-2-yl)-butylaminocarbonylcyclopentadienylTricarbonyl Rhenium $( 2 9 a )$ .The procedure described for the synthesis of 27a was applied to compound 13( $\\left( 4 0 . 0 \\mathrm { m g } , 0 . 1 7 \\mathrm { m m o l } \\right)$ and compound 26 $( 8 1 . 8 ~ \\mathrm { m g } , 0 . 1 5 ~ \\mathrm { m m o l } )$ toafford29a $\\left( 3 4 . 4 \\mathrm { m g } , 3 8 \\% \\right)$ asa pale yellow oil. $\\mathrm { ^ { 1 } H }$ NMR $( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l _ { 3 } }$ ） $\\delta 8 . 1 4$ (br s,1H),6.78 (s, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2H), 5.57 $\\left( \\mathrm { t } , J = 2 . 0 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,5.11 $\\left( \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,3.98 (s,4H),3.87 $( s , 6 \\mathrm { H } )$ ,3.41 $\\left( \\mathrm { q } , J = 4 . 9 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.85 $\\left( \\mathrm { t } , J = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,1.76-1.75 (m, 4H). $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { 1 0 0 \\ M H z , }$ （20 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 192.95,162.03,148.79,131.16, 106.02,96.86,84.99,84.57,59.19,56.17,55.96,39.71,27.71, 26.81. HRMS (ESI-Tof), $[ \\boldsymbol { \\mathrm { M } } + \\boldsymbol { \\mathrm { H } } ] ^ { + } : m / z$ calcd for $\\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 6 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e } 6 1 1 . 1 3 2 1 ,$ found 611.1323. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2-(6,7-Dimethoxy-3,4-dihydroisoquinolin $2 ( 1 H ) - y I )$ -ethylamino carbonylcyclopentadienyl Tricarbonyl Rhenium $( 3 0 a )$ .The procedure described for the synthesis of $2 7 \\mathbf { a }$ was applied to compound 14 $\\left. 7 4 . 4 \\mathrm { m g } , 0 . 3 2 \\mathrm { m m o l } \\right.$ and compound 26 $\\mathrm { ' } 8 5 . 0 \\mathrm { m g } , 0 . 1 6 \\mathrm { m m o l } ,$ toafford 30a asa light yellow solid $( 7 0 . 4 ~ \\mathrm { m g } , 7 4 \\% )$ .Mp: $1 3 3 . 6 \\mathrm { - } 1 3 4 . 9 ^ { \\circ } \\mathrm { C }$ $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { \\bar { M } H z , C D C l _ { 3 } }$ ） $\\delta 6 . 6 2$ (s,1H),6.53 (s,1H),5.96(s,2H),5.3 $\\left( \\mathrm { t } , J = 2 . 2 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,3.85 $\\left( \\mathrm { d } , J = 6 . 3 \\mathrm { H z } , 6 \\mathrm { H } \\right)$ ,3.66 (s,2H),3.58 $\\left( \\mathbf { q } , J = 5 . 1 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } ,$ ),2.90 (s,4H),2.81 (s,2H). $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { ~ \\chi ~ } _ { 1 0 0 } ~ \\mathrm { M H z }$ - $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 192.57,162.19,147.76,147.41,125.89,125.83,111.46,109.54,95.17, 85.98，84.66,56.09，55.95,55.93，55.26,50.64，36.32，28.40,26.89. HRMS (ESI-Tof), $[ \\boldsymbol { \\mathrm { M } } + \\boldsymbol { \\mathrm { H } } ] ^ { + } : m / z$ calcd for $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 2 4 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 6 } { } ^ { 1 8 5 } \\mathrm { R e } 5 9 7 . 1 1 6 4 ,$ （204号 found 597.1176. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3-(6,7-Dimethoxy-3,4-dihydroisoquinolin-2(1H)-yl)-propylamino carbonylcyclopentadienyl Tricarbonyl Rhenium $( 3 1 a )$ ，The procedure described for the synthesis of 27a was applied to compound 15 0 $7 0 . 2 \\ : \\mathrm { m g } , 0 . 2 8 \\ : \\mathrm { m m o l } )$ and compound 26 $\\mathrm { ' } 8 2 . 7 \\mathrm { m g } , 0 . 1 5 \\mathrm { m m o l } ,$ toafford 31aasa light yellow solid( $6 7 . 6 ~ \\mathrm { m g } , 7 4 \\%$ .Mp: $1 2 3 . 6 \\mathrm { - } 1 2 4 . 5 ^ { \\circ } \\mathrm { C }$ $^ { 1 } \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { \\bar { M } H z , C D C l _ { 3 } }$ ） $\\delta 6 . 6 5$ (s,1H),6.59 $\\left( \\mathsf { s } , \\mathsf { 1 H } \\right)$ ,5.39 (s,2H),5.01 $\\left( \\mathrm { t } , J = 2 . 0 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,3.86 $\\left( \\mathrm { d } , J = 8 . 0 \\mathrm { H z } , 6 \\mathrm { H } \\right)$ ， $3 . 6 6 \\left( \\mathrm { s } , 2 \\mathrm { H } \\right)$ ,3.51 $\\left( \\mathbf { q } , J = 5 . 2 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } )$ ,2.97 $\\left( \\mathrm { t } , J = 5 . 8 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ $z , 2 \\mathrm { H } ) , 2 . 8 6 \\ ( \\mathrm { t } , J = 5 . 5 \\mathrm { H z } , 2 \\mathrm { H } ) , 2 . 7 9 \\ ( \\mathrm { t } , J = 5 . 2$ $\\mathrm { H z } , 2 \\mathrm { H } ,$ ，1.83 (t, $J = 4 . 7 ~ \\mathrm { H z } ,$ 2H). $^ { 1 3 } \\mathrm { C }$ NMR $\\bf { \\langle 1 0 0 ~ M H z , }$ （ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 192.94,161.69,148.20,147.62,126.10,125.90,111.44,109.89,96.33, 84.93,84.52,56.08,55.96,55.42,51.78,41.31,28.89,23.86.HRMS (ESI-Tof), $[ \\boldsymbol { \\mathrm { M } } + \\boldsymbol { \\mathrm { H } } ] ^ { + } : m / z$ calcd for $\\mathrm { C } _ { 2 3 } \\mathrm { H } _ { 2 6 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 6 } ^ { 1 8 5 } \\mathrm { R e } 6 1 1 . 1 3 2 1 _ { . }$ found 611.1323. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4-(6,7-Dimethoxy-3,4-dihydroisoquinolin-2(1H)-yl)-butylaminocarbonylcyclopentadienyl Tricarbonyl Rhenium (32a).The procedure described for the synthesis of $2 7 \\mathbf { a }$ was applied to compound 16 中 $\\mathrm { \\cdot 8 9 . 0 m g , 0 . 3 4 m m o l } ,$ and compound 26( $\\cdot 8 5 . 9 \\mathrm { m g } , 0 . 1 6 \\mathrm { m m o l } )$ to afford 32aasa light yellow oil $( 8 1 . 9 \\mathrm { m g } , 8 3 \\%$ ) $\\mathrm { ^ { 1 } H N M R }$ 0 $\\cdot _ { 4 0 0 } \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } ) \\delta$ 7.55 (br s,1H),6.63 (s,1H),6.56 (s,1H),5.58 (s,2H),5.07 $\\left( \\mathrm { t } , J = 2 . 2 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } ,$ ,3.85 $\\left( \\mathrm { d } , J = 2 . 4 \\mathrm { H z } \\right.$ ,6H),3.65 (s,2H),3.41 $\\left( \\mathrm { q } , J = 5 . 6 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ， $2 . 9 0 \\left( \\mathrm { t } , J = 5 . 8 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.80 $\\left( \\mathrm { t } , J = 5 . 6 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.63 $\\left( \\mathrm { t } , J = 6 . 0 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ， $1 . 7 9 \\mathrm { - } 1 . 6 8$ （2 $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ： $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { 1 0 0 \\ M H z , }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 192.92,161.83, 147.83,147.40,126.26,126.15,111.49，109.50,96.02,85.46,84.55, 57.11,56.66,55.92,50.01,39.22,28.52,27.37,24.69.HRMS (ES1-Tof), $[ \\mathbf { M } + \\mathbf { H } ] ^ { + } ; m / z$ calcd for $\\mathrm { C _ { 2 4 } H _ { 2 8 } N _ { 2 } O _ { 6 } } ^ { 1 8 5 } \\mathrm { R e } \\ 6 2 5$ .1477, found 625.1483. 3-(5,6-Dimethoxyisoindolin-2-yl)-propylcarbonylferrocene (36). The procedure described for the synthesis of 2Oa was applied to 33 （20 $( 9 7 . 5 ~ \\mathrm { m g } , 0 . 2 9 ~ \\mathrm { m m o l } )$ and3 $\\mathrm { 7 5 . 9 ~ m g , 0 . 4 2 ~ m m o l } ,$ toafford36asan orange solid( $( 2 0 . 5 ~ \\mathrm { m g } ,$ $1 6 \\%$ ).Mp: $1 1 6 . 5 \\mathrm { - } 1 1 9 . 4 ^ { \\circ } \\mathrm { C }$ ： $\\mathrm { ^ { 1 } H }$ NMR（400 MHz, $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 7 5$ (s,2H),4.81 $\\left( \\mathrm { t } , J = 1 . 7 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.49 $\\left( \\mathrm { t } , J = 1 . 7 \\mathrm { H z } , \\right.$ 2H),4.20 $( s , 5 \\mathrm { H } )$ ,3.94 (s,4H),3.86(s,6H $\\mathrm { ( ) , 2 . 8 8 - 2 . 8 0 \\ ( m , 4 H ) , 2 . 0 4 - }$ 1.98 $( \\mathrm { m } , 2 \\mathrm { H } )$ .ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ （ $\\left( m / z = 4 3 4 . 6 \\right)$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4-(5,6-Dimethoxyisoindolin-2-yl)-butylcarbonylferrocene (37). The procedure described for the synthesis of 20a was applied to 34 （204号 $( 9 1 . 3 ~ \\mathrm { m g } , 0 . 2 6 ~ \\mathrm { m m o l } )$ and3 $\\cdot 1 0 7 . 5 \\ \\mathrm { m g } , 0 . 6 0 \\ \\mathrm { m m o l } ) ,$ to afford37as an orange solid( $\\mathrm { 2 5 . 8 ~ m g }$ $1 9 \\%$ ).Mp: $1 \\bar { 0 } 5 . 6 \\mathrm { - } 1 0 7 . 4 ^ { \\circ } \\mathrm { C }$ ： $^ { 1 } \\mathrm { H }$ NMR（400 $\\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ ）） $\\delta 6 . 7 4$ (s,2H),4.81 $\\left( \\mathrm { t } , J = 1 . 9 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.49 $\\left( \\mathrm { t } , J = 1 . 8 \\mathrm { H z } , \\right.$ （204号 2H),4.20 $( s , 5 \\mathrm { H } )$ ,3.91 (s,4H), $3 . 8 6 ( \\mathrm { s } , 6 \\mathrm { H } ) , 2 . 7 9 - 2 . 7 5 ( \\mathrm { m } , 4 \\mathrm { H } ) , 1 . 8$ 5- 1.78 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,1.71-1.63 $( \\mathrm { m } , 2 \\mathrm { H } )$ .ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ 1 ${ ' } m / z = 4 4 7 . 9 { ' }$ ！ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5-(5,6-Dimethoxyisoindolin-2-yl)-pentylcarbonylferrocene (38). The procedure described for the synthesis of 22a was applied to 35 （ $( 4 9 . 3 ~ \\mathrm { m g } , 0 . 1 4 ~ \\mathrm { m m o l } )$ and3 $\\left( 2 5 . 1 \\ \\mathrm { m g } , 0 . 1 4 \\ \\mathrm { m m o l } \\right) ,$ to afford 38 as an orange solid $( 5 6 . 5 \\mathrm { ~ m g } , 4 4 \\% )$ .Mp: $1 0 8 . 1 - 1 1 0 . 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ： $\\mathrm { ^ { 1 } H }$ NMR（400 $\\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ ）） $\\delta 6 . 7 5$ (s,2H),4.78 $\\left( \\mathrm { t } , J = 1 . 9 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.49 $\\left( \\mathrm { t } , J = 1 . 9 \\mathrm { H z } , \\right.$ 2H),4.20 (s,5H),3.95 $\\left( s , 4 \\mathrm { H } \\right)$ ,3.86(s,6H),2.79(s,2H),2.74 $\\left( \\mathrm { t } , J = 7 . 4 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } )$ ,1.81-1.73 $( \\mathrm { m } , 2 \\mathrm { H } )$ ,1.69 (s,2H),1.53-1.45 $( \\mathrm { m } , 2 \\mathrm { H } )$ .ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $( m / z = 4 6 2 . 2 )$ 1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3-(6,7-Dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)-propylcarbonylferrocene (39).The procedure described for the synthesis of 20a was applied to 33 $( 8 5 . 8 ~ \\mathrm { m g } , 0 . 2 6 ~ \\mathrm { m m o l } )$ and4 $( 6 2 . 1 ~ \\mathrm { m g } , 0 . 3 2 ~ \\mathrm { m m o l } )$ to afford 39 as an orange solid $( 3 4 . 3 \\mathrm { ~ m g } , 3 3 \\%$ .Mp: $1 1 \\bar { 4 } . 1 \\mathrm { - } 1 1 6 . 1 ^ { \\circ } \\mathrm { C }$ $\\mathrm { ^ { 1 } H }$ NMR ( ${ \\bf \\zeta } _ { 4 0 0 } \\bf { M H z }$ P $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 6 0$ (s,1H), 6.53 $( s , \\mathrm { 1 H } )$ ,4.79 $\\left( \\mathrm { t } , J = 1 . 9 \\right.$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H z } , 2 \\mathrm { H } )$ ,4.48 $\\left( \\mathrm { t } , J = 1 . 9 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.19 (s,5H),3.84(s,3H),3.83 (s,3H), 3.61 (s,2H),2.83 $\\left( \\mathrm { t } , J = 7 . 1 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.77 $( s , 2 \\mathrm { H } )$ ,2.63 (s,2H), $2 . 0 4 -$ 2.01 $( \\mathrm { m } , 2 \\mathrm { H } )$ .ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $( m / z = 4 4 8 . 7 )$ 1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4-(6,7-Dimethoxy-3,4-dihydro- $\\boldsymbol { { 1 } } \\boldsymbol { { H } }$ -isoquinolin-2-yl)-butylcarbo nylferrocene (4o).The procedure described for the synthesis of 20a was applied to 34(102.6 mg, $0 . 2 9 \\mathrm { m m o l } \\rangle$ and4 $( 1 1 6 . 0 ~ \\mathrm { m g } , 0 . 6 0 ~ \\mathrm { m m o l } )$ to afford 40 as an orange oil $( 2 5 . 7 \\ : \\mathrm { m g } , 2 2 \\%$ ） $^ { 1 } \\mathrm { H N M R }$ （ $4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 } .$ ） $\\delta 6 . 5 9$ (s,1H),6.53 (s,1H),4.79 $\\left( \\mathrm { t } , J = 1 . 9 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.49 $\\left( \\mathrm { t } , J = 1 . 9 \\mathrm { H z } , \\right.$ 2H),4.19(s,5H),3.84(s,3H),3.83(s,3H),3.59 (s,2H),2.84 $\\left( \\mathrm { t } , J = 5 . 6 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } ,$ ）， $2 . 7 8 \\mathrm { - } 2 . 7 3$ （ $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ,2.57 (t, $J = 7 . 4 \\ \\mathrm { H z } ,$ 2H),1.81-1.70 ( $\\scriptstyle ( { \\mathrm { m } } ,$ 4H). ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ （ $( m / z = 4 6 1 . 9 )$ 1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5-(6,7-Dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)-pentylcarbo nylferrocene (41).The procedure described for the synthesis of 22a was applied to 35 $\\left( 5 0 . 3 ~ \\mathrm { m g } , 0 . 1 4 ~ \\mathrm { m m o l } \\right)$ and 4 $( 3 4 . 1 ~ \\mathrm { m g } , \\ 0 . 1 8 ~ \\mathrm { m m o l } )$ to afford 4l as an orange solid $( 1 5 2 . 8 \\mathrm { m g } , 7 8 \\% )$ .Mp: $1 1 { \\overset { \\cdot } { 8 } } . 6 - 1 2 0 . 8 { \\overset { \\circ } { \\mathrm { C } } } .$ （20 $\\mathrm { ^ { 1 } H }$ NMR( $\\bf { \\zeta } _ { 4 0 0 \\ M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta \\ : 6 . 5 9$ (s,1H),6.53 (s,1H),4.78 $\\left( \\mathrm { t } , J = 1 . 9 \\right.$ $\\mathrm { H z } , 2 \\mathrm { H } )$ ,4.49 $\\left( \\mathrm { t } , J = 1 . 8 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.20 (s,5H),3.84(s,3H),3.83 (s,3H), 2.84 (s,2H),2.73 $\\left( \\mathrm { t } , J = 7 . 4 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.55 (s,2H),1.80-1.72 $( \\mathrm { m } , 2 \\mathrm { H } )$ 1.68 (s,2H),1.49-1.42 $( \\mathrm { m } , 2 \\mathrm { H } )$ .ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ 0 $m / z = 4 7 6 . 2 )$ L： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4-(5,6-Dimethoxyisoindolin-2-yl)-butylaminocarbonylferrocene (43).Under ${ \\bf N } _ { 2 } ,$ the solution of compound 13 $\\left( 6 6 . 0 \\mathrm { m g } , 0 . 2 6 \\mathrm { m m o l } \\right)$ in $1 . 5 \\mathrm { m L }$ of anhydrous DMF and $1 0 0 \\mu \\mathrm { L }$ of triethylamine wasadded to the solution of compound 42 ( $\\cdot 1 0 2 . 9 \\mathrm { m g } , 0 . 2 6 \\mathrm { m m o l } )$ in $1 \\mathrm { m L }$ of anhydrous DMF dropwise.The reaction mixture was stirred at room temperature for $^ { 4 \\mathrm { h } }$ .The solvent was removed, then washed with saturated sodium chloride,and extractedwith ethyl acetate.The organic layerwasdried over anhydrous $\\mathrm { M g S O _ { 4 } , }$ filtered,and concentrated under vacuum.The residue was purified by silica gel chromatography (ethyl ether/hexane/ triethylamine $= 1 0 { : } 5 { : } 1 \\$ ）toafford43 $( 7 8 . 4 \\ \\mathrm { m g } , 6 5 \\% )$ asa yellow solid. N $\\mathrm { { I p } \\colon 1 1 9 . 6 - 1 2 0 . 4 { } ^ { \\circ } C }$ $\\mathrm { ^ { 1 } H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ )8 6.76 $( s , 2 \\mathrm { H } )$ ,6.62 (br s,1H),4.61 (s,2H),4.25(s,2H),4.16 (s,5H),4.00 (s,4H),3.87 (s, 6H),3.44 ( $\\mathrm { \\hat { d } } , J = 5 . 4 \\ \\mathrm { H z } , 2 \\mathrm { F }$ 1),2.86 (s,2H),1.74-1.70 $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ： $^ { 1 3 } \\mathrm { C }$ NMR( $1 0 0 ~ \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ）8170.12,148.68,131.14,130.90,105.99, 70.13，69.67，68.07，65.55，59.20,56.20，55.62,39.33，27.72,26.33. HRMS (EI): $m / z$ calcd for $\\mathrm { C } _ { 2 5 } \\mathrm { H } _ { 3 1 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 3 } \\mathrm { F e }$ （20 $[ \\mathrm { M } + \\mathrm { H } ] ^ { + } 4 6 3 . 1 6 8 4$ found 463.1686. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2-(6,7-Dimethoxy-3,4-dihydroisoquinolin- $2 ( 1 H ) - y I )$ -ethylamino carbonylferrocene (44).The procedure described for the synthesis of 43 was applied to compound 14 $\\mathrm { ' } 3 8 . 0 \\ \\mathrm { m g } , 0 . 1 6 \\ \\mathrm { m m o l } \\mathrm { } \\mathrm { } )$ and compound 42 ( $5 3 . 8 ~ \\mathrm { m g } , 0 . 1 4 ~ \\mathrm { m m o l } ,$ toafford 44 $\\left( 4 9 . 8 ~ \\mathrm { m g } , 6 9 \\% \\right)$ ）asa lightyellow solid. Mp: $1 9 3 . 9 \\mathrm { - } 1 9 5 . 1 ^ { \\circ } \\mathrm { C }$ $^ 1 \\mathrm { H }$ NMR( $4 0 0 \\mathrm { M H z } , \\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . { \\overset { \\cdot } { 6 } } 2 \\left( { \\mathsf { s } } , 1 { \\mathrm { H } } \\right) .$ 6.55 (s,1H),6.48 (br s,1H),4.66 $( s , 2 \\mathrm { H } )$ ,4.30 $\\left( \\mathrm { t } , J = 1 . 8 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ,4.15 $( s , 5 \\mathrm { H } )$ ,3.84 $\\left( \\mathrm { d } , J = 9 . 8 \\mathrm { H z } , 6 \\mathrm { H } \\right)$ ,3.68 $( s , 2 \\mathrm { H } )$ ,3.59 $\\left( \\mathrm { q } , J = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ， $2 . 8 9 - 2 . 8 4 \\$ $\\mathrm { ( m , 4 H ) }$ ，2.78 (t, $J = 5 . 6 ~ \\mathrm { H z } , 2 \\mathrm { H }$ ） $^ { 1 3 } \\mathrm { C }$ NMR $( 1 0 0 ~ \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 1 7 0 . 3 5$ ,147.68,147.38,126.12,125.99,111.43,109.47,70.24, 69.68,68.18,56.64,55.96,55.94,55.36,50.91,36.19,28.71.HRMS (EI): $m / z$ calcd for $\\mathrm { C } _ { 2 4 } \\mathrm { H } _ { 2 9 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 3 } \\mathrm { F e }$ （204号 $[ \\mathrm { M } + \\mathrm { H } ] ^ { + }$ 449.1528,found 449.1520. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3-(6,7-Dimethoxy-3,4-dihydroisoquinolin- $2 ( 1 H ) - y I )$ -propylamino carbonylferrocene (45).The procedure described for the synthesis of 43was applied to compound 15( $\\left( 1 0 0 . 0 \\mathrm { m g } , 0 . 4 0 \\mathrm { m m o l } \\right) ,$ and compound 42 ( $1 5 8 . 4 ~ \\mathrm { m g } , 0 . 4 0 ~ \\mathrm { m m o l } )$ to afford 45 $\\left( 1 1 6 . 6 \\mathrm { m g } , 6 3 \\% \\right)$ ）asan orange solid. Mp: $7 2 . 2 \\mathrm { - } 7 3 . 6 ^ { \\circ } \\mathrm { C }$ $^ { 1 } \\mathrm { H }$ NMR( $\\bf { \\Psi } _ { 4 0 0 \\ M H z } ,$ （204号 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 7 . 7 3$ (brs, 1H),6.66 (s,1H),6.57(s,1H),4.40 (s,2H),4.10 (s,2H),4.09(s,5H), 3.89 (s,3H),3.84(s,3H),3.68(s,2H),3.53 $\\left( \\mathrm { q } , J = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ）， $2 . 9 4 \\left( \\mathrm { t } , J \\right.$ $= 5 . 9 \\mathrm { H z } , 2 \\mathrm { H } ,$ ,2.86-2.84 $( \\mathrm { m } , 2 \\mathrm { H } )$ ，2.77 ( $\\mathrm { t } , J = 5 . 6 \\mathrm { H z } , 2 \\mathrm { H } ,$ ), $1 . 8 9 { - } 1 . 8 4 \\$ $( \\mathrm { m } , \\ 2 \\mathrm { H } )$ ， $^ { 1 3 } \\mathrm { C }$ NMR( $\\mathrm { 1 0 0 \\ M H z , }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 170.02,147.88,147.42, 126.36,126.04,111.43,109.62,69.99,69.54,67.86,58.13,56.04,55.94, 55.79,51.54,40.32,28.83,25.19.ESI-MS: $[ \\mathbf { M } + \\mathbf { H } ] ^ { + }$ $( m / z = 4 6 2 . 8 )$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4-(6,7-Dimethoxy-3,4-dihydroisoquinolin- $2 ( 1 H )$ -yl)-butylamino carbonylferrocene (46).The procedure described for the synthesis of 43 was applied to compound 16 $( 3 6 . 7 ~ \\mathrm { m g } , 0 . 1 4 ~ \\mathrm { m m o l } )$ and compound 42 ( $\\left. 6 3 . 0 \\mathrm { m g } , 0 . 1 6 \\mathrm { m m o l } \\right.$ to afford 46 $\\left( 4 5 . 0 \\mathrm { m g } , 6 8 \\% \\right)$ as an orange solid. Mp: $8 6 . 3 \\mathrm { - } \\bar { 8 } 7 . 8 ^ { \\circ } \\mathrm { C }$ $\\mathrm { ^ { 1 } H }$ NMR $\\left( 4 0 0 \\mathrm { M H z } , \\mathrm { C D C l _ { 3 } } \\right) i$ $\\delta 6 . 6 1$ （204号 $( s , \\mathrm { 1 H } )$ ,6.52 (s, 1H),4.59 (s,2H),4.25 $\\left( \\mathrm { t } , J = 1 . 8 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,4.17 (s,5H),3.84 $\\left( \\mathrm { d } , J = 9 . 8 \\right.$ $\\mathrm { H z } , 6 \\mathrm { H } )$ ,3.62 $( s , 2 \\mathrm { H } )$ ,3.43 $\\left( { \\mathrm { q } } , J = 6 . 2 { \\mathrm { H z } } , 2 { \\mathrm { H } } \\right)$ ,2. ${ 8 7 } \\left( \\mathrm { d } , \\boldsymbol { J } = 5 . 4 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ 2.79 $\\left( \\mathrm { d } , J = 5 . 1 \\mathrm { H z } , 2 \\mathrm { H } \\right)$ ,2.61 $\\left( \\mathrm { t } , J = 6 . 1 \\mathrm { H z } , 2 \\mathrm { H } , \\right)$ ,1.76-1.68 $\\left( \\mathrm { m } , 4 \\mathrm { H } \\right)$ ： $^ { 1 3 } \\mathrm { C }$ NMR( $\\bf { 1 0 0 ~ M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta$ 170.04，147.64,147.29,126.46, 126.17, 111.42,109.56,70.17,69.66,68.03,57.52,56.03,55.94,50.76,39.31, 28.60，27.79，24.69.HRMS (ESI-Tof)， $[ \\mathbf { M } ~ + ~ \\mathbf { H } ] ^ { + }$ ： $m / z$ calcd for $\\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 3 3 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 3 } \\mathrm { F e }$ 477.1841, found 477.1833. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "X-ray Crystallography.All of the procedures for X-ray crystallography were previously described.36 Detailed procedures are described in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Radioligand Competition Studies. $\\sigma$ Receptor Binding Assays.All of the procedures for the radioligand competition studies were previously described.2° Detailed procedures are described in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "VAChTBinding Assays.The determination of the affinity for VAChT were conducted by a method in the literature.3 Detailed procedures are described in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Dopamine $D _ { 2 L }$ Receptors,NMDA Receptors,Opiate Receptors, DAT,NET,and SERTBinding Assay.The affinities of compound 20a for the above receptors and transporters are presented in a percentage of inhibition form.Detailed information is described in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Radiochemistry.99mTc-pertechnetate was eluted from a commercial $^ { 9 9 } \\mathrm { M o } - ^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ generator obtained from Beijing Atomic High-tech Co. The reactions were performed according to the methods in the literature2etaledprocedreseridediing Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Measurement of log $\\pmb { D }$ values.The log D values of $\\ [ { 9 9 } \\mathrm { m } _ { \\mathrm { T C } } ] 2 0 \\mathbf { b } -$ 25b and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b } - 3 \\mathbf { 0 } \\mathbf { b }$ were determined by measuring the distribution of the radiotracer between 1-octanol and $0 . 0 5 ~ \\mathrm { M }$ sodium phosphate buffer at $\\mathrm { p H } 7 . 4$ according to the literature.225,36 Detailed procedures are provided in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Evaluation in DU145 Prostate Cells and C6 Glioma Cells.Theculture of cels and the in vitro celluptake and blocking assays were performed as previously reported.2,25 Detailed procedures are provided in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Biodistribution and Blocking Studies in Mice.All animal experiments in ICR mice $\\left( n = 5 , 4 - 5 \\right.$ weeks, $2 2 { \\mathrm { - } } 2 5 { \\mathrm { g } } ,$ ）wereperformed in compliance with the national laws related to the care and experiments onlaboratory animals.Biodistribution studies and blocking studies of HPLC-purified $\\begin{array} { r l } {  { \\big [ 9 9 \\mathrm { m } _ { \\mathrm { T c } } \\big ] 2 0 \\mathbf { b } } } \\end{array}$ ${ \\lbrack { \\varphi } \\mathfrak { s o } _ { \\mathrm { T c } } ] \\mathbf { 2 } \\mathbf { 3 } \\mathbf { b } } _ { \\mathrm { . } }$ ${ \\bf \\lbrack } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] { \\bf 2 5 } { \\bf b } ,$ and $[ { 9 9 \\mathrm { m } _ { \\mathrm { T c } } } ] 2 9 \\mathrm { b }$ $( 3 7 0 \\ \\mathrm { k B q } , \\ 0 . 1 \\ \\mathrm { m L } )$ ）were carried out based on a method reported previously2etailedprocedreseproviedi Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Biodistribution and Blocking Studies of $\\boldsymbol { [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b } }$ in Balb/c Nude Mice Bearing C6 Glioma Xenografts.Allanimal experiments in $\\mathtt { B a l b / c }$ nude mice $\\left( n = 4 \\right)$ were performed in compliance with the national laws related to the care and experiments on laboratory animals. Biodistribution studies and blocking studies of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ 0 $3 7 0 ~ \\mathrm { k B g } ,$ $0 . 1 ~ \\mathrm { m L }$ ）were carried out based on a method reported previously. Detailed procedures are provided in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Small Animal NanoScan SPECT/CT Imaging of $\\boldsymbol { [ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b } }$ The detailed procedures of small animal imaging studies of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ $( 2 2 . 2 ~ \\mathrm { M B q } , ~ \\bar { 0 } . 1 5 ~ \\mathrm { m L } )$ in male Balb/c nude mice bearing C6 glioma xenografts are provided in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Vivo Radiometabolic Stability of $\\Gamma ^ { 9 9 \\mathrm { m } }  { \\mathbf { T } }  { \\mathbf { c } } ] 2 0 \\mathrm { b }$ .The in vivo metabolism of $\\mathbf { \\Psi } ^ { \\mathrm { 9 9 m } } \\mathrm { T c } \\mathbf { ] 2 0 b } \\left( 1 8 . 5 \\ \\mathrm { M B q } , \\ 0 . 1 5 \\ \\mathrm { m L } \\right)$ was studied in male ICR mice according to a previously reported method.36Detailed procedures are provided in the Supporting Information. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acs.jmedchem.5b01378. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "General information and some parts of the evaluation of the radiotracers in Experimental Section， purity of key target compounds,the HPLC chromatogramsof $2 \\mathbf { 0 } \\mathbf { a } \\mathbf { - } 2 \\mathbf { 5 } \\mathbf { a }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T \\bar { c } } ] 2 0 \\mathrm { b } \\mathrm { - } 2 5 \\mathrm { b } , \\ 2 9 \\mathrm { a } \\mathrm { - } 3 0 \\mathrm { a } ,$ and $\\mathbf { \\bar { \\rho } } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 9 \\mathbf { b } \\mathbf { - } 3 \\mathbf { 0 } \\mathbf { b } ,$ （204号 X-ray crystallographic data for compound 31a,in vitro evaluation of $\\bar { \\lfloor } ^ { 9 9 \\mathrm { m } _ { \\mathbf { T } \\mathbf { c } } } \\mathbf { ] } \\mathbf { 2 } \\mathbf { 1 } \\mathbf { b }$ and $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 4 \\mathbf { b }$ in C6 glioma tumor cell line,biodistribution and blocking studies of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 5 \\mathbf { b }$ in male ICR mice, small animal NanoScan SPECT/CT imaging of $[ ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ] 2 0 \\mathrm { b }$ (PDF) Crystal information file of compound 31a (CIF) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SMILES data (CSV) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author   \n\\*Phone: +86-10-58808891. Fax: +86-10-58808891. E-mail: hmjia@bnu.edu.cn.   \nAuthor Contributions   \n$\\scriptstyle \\bot _ { \\mathrm { D . L } }$ and Y.C. contributed equally to this work   \nNotes   \nThe authors declare no competing financial interest. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We give special thanks to Professor Robert H. Mach for his helpful suggestions and valuable comments on this manuscript. We are grateful to Dr. Xuebing Deng (College of Chemistry, Beijing Normal University） for his assistance with X-ray diffraction.This work was supported by the National Natural Science Foundation of China (No.21471019). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ABBREVIATIONSUSED ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CNS,central nervous system； DAT，dopamine transporter; DLT,double ligand transfer; DMF,dimethylformamide;DTG, 1,3-di- $o$ -tolyl-guanidine; $\\mathrm { \\Delta [ ^ { 1 8 } F ] _ { I S O - 1 } }$ ， $N$ (4-(6,7-dimethoxy-3,4- dihydroisoquinolin-2(1H)-yl)butyl)-2-(2- $[ ^ { 1 8 } \\mathrm { F } ]$ fluoroethoxy)-5- methylbenzamide;FBS,fetal bovine serum;BBB,blood-brain barrier; HPLC,high performance liquid chromatography; ID, injected dose;NET, norepinephrine transporter; PET, positron emission tomography；rt，room temperature；SD，standard deviation; SERT,serotonin transporter； SPECT, single photon emission computed tomography；TFA， trifluoroacetic acid; THF，tetrahydrofuran； TLC，thin layer chromatography; VAChT,vesicular acetylcholine transporter ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)Bading,J.R.; Shields,A.F.Imaging of cell proliferation: status and prospects.J.Nucl.Med.2008,49,64S-80S.   \n(2)Bem,W.T.; Thomas,G.E.; Mamone,J.Y.;Homan, S.M.; Levy,B. K；Johnson，F.E.；Coscia,C.J.Overexpression of $\\sigma$ receptors in nonneural human tumors. Cancer Res.1991,S1,6558-6562.   \n(3）Vilner,B.J.; John,C.S.； Bowen,W.D. Sigma-1 and sigma-2 receptors are expressed in a wide variety ofhuman and rodent tumor cell lines. CancerRes.1995,55,408-413.   \n(4)John,C.S.; Vilner, B.J.; Geyer, B.C.; Moody,T.; Bowen,W.D. Targeting sigma receptor-binding benzamides as in vivo diagnostic and therapeutic agents for human prostate tumors.Cancer Res.1999,59, 4578-4583.   \n(5) van Waarde,A.; Rybczynska, A.A.; Ramakrishnan, N.K.; Ishiwata, K；Elsinga,P.H.; Dierckx, R A. J. O. Sigma receptors in oncology: therapeutic and diagnostic applications of sigma ligands.Curr.Pharm. Des. 2010, 16,3519-3537.   \n(6)Megalizzi, V.; Le Mercier,M.; Decaestecker,C.Sigma receptors and their ligands in cancer biology:overview and new perspectives for cancer therapy.Med.Res.Rev.2012,32,410-427.   \n(7) Mach, R $\\mathrm { H . } ;$ Smith, C.R; Al-Nabulsi,I.; Whirrett, B. ${ \\mathrm { R } } ;$ Childers, $S . \\operatorname { R } .$ Wheeler,K.T. $\\sigma _ { 2 }$ receptors as potential biomarkers of proliferation in breast cancer. Cancer Res.1997,S7,156-161.   \n(8)Al-Nabulsi,I.; Mach,R.H.; Wang,L.M.; Wallen, C.A.; Keng,P.C.; Sten,K.; Childers,S.R.;Wheeler,K.T.Effect of ploidy,recruitment, environmental factors,and tamoxifen treatment on the expression of sigma-2 receptors in proliferating and quiescent tumour cells.Br.J. Cancer 1999,81,925-933.   \n(9)Wheeler,K T.; Wang,L.M.; Wallen,C.A.; Childers, S.R.; Cline,J. M.; Keng, P.C.；Mach,R.H. Sigma-2 receptors as a biomarker of proliferation in solid tumours.Br.J. Cancer 20o0,82,1223-1232. (10) $\\mathrm { T u } , \\mathrm { Z } . ; \\mathrm { X u } , \\mathrm { J }$ .; Jones,L.A.; Li,S.; Dumstorf, C.; Vangveravong,S.; Chen,D.L.; Wheeler,K.T.; Welch,M.J.; Mach,RH.Fluorine-18- labeled benzamide analogues for imaging the $\\sigma _ { 2 }$ receptor status of solid tumors with Positron Emission Tomography.J. Med. Chem. 2007, 50, 3194-3204.   \n(11） Dehdashti, F.； Laforest, ${ \\mathrm { R } } ;$ Gao,F.； Shoghi,K. I.; Aft,R.L.; Nussenbaum,B.；Kreisel,F.H.； Bartlett,N.L.; Cashen,A.;WagnerJohnson,N.; Mach,R.H.Assessment of cellular proliferation in tumors by PET using $^ { 1 8 } \\mathrm { F }$ -ISO-1.J. Nucl.Med.2013,54,350-357.   \n(12)Shoghi,KL; Xu,J.;Su,Y.; He,J.; Rowland,D.; Yan,Y.; Garbow,J. R; Tu, Z.; Jones,L.A.; Higashikubo, $\\mathrm { R } ;$ Wheeler,K.T.; Lubet,R.A; Mach,R. H.;You,M.Quantitative receptor-based imaging of tumor proliferation with the sigma-2 ligand $[ ^ { 1 8 } \\mathrm { \\bar { F } ] }$ ISO-1. PLoS One 2013,8, e74188.   \n(13) Mach,R.H.; Wheeler, K.T.Development of molecular probes for imaging sigma-2 receptors in vitro and in vivo. Cent. Nerv.Syst.Agents Med.Chem.2009,9,230-245.   \n(14)Sai, K.K.S.;Jones,L.A.; Mach,R.H.Developmentof $^ { 1 8 } \\mathrm { F }$ -labeled PET probes for imaging cell proliferation. Curr.Top. Med. Chem 2013, 13,892-908.   \n(15) Mach, R H.; Zeng, C.; Hawkins,W.G. The $\\sigma _ { 2 }$ receptor: a novel protein for the imaging and treatment of cancer.J. Med. Chem. 2013,56, 7137-7160.   \n(16） Bailey, D.L.； Willowson, K. P.An evidence-based review of quantitative SPECT imaging and potential clinical applications. J. Nucl. Med. 2013, 54,83-98.   \n(17) John,C.S.; Lim,B.B.; Geyer,B.C.; Vilner,B.J.; Bowen,W.D. 99mTc-labeled ${ \\boldsymbol { \\sigma } } \\mathbf { \\cdot } \\mathbf { \\sigma }$ receptor-binding complex:synthesis，characterzation and specific binding to human ductal breast carcinoma (T47D） cells. Bioconjugate Chem.1997,8,304-309.   \n(18) Choi, $S . \\mathrm { R . } ,$ Yang,B.; Plossl,K; Chumpradit,S.; Wey,S.P.; Acton, P.D.; Wheeler, K.; Mach,R H.; Kung,H.F.Development of a Tc-99m labeled sigma-2 receptor-specific ligand as a potential breast tumor imaging agent. Nucl. Med.Biol.2001,28,657-666.   \n(19) Friebe,M.; Mahmood,A.; Bolzati, C.; Drews,A.; Johannsen,B.; Eisenhut,M.； Kraemer， D.；Davison, A.；Jones，A.G. ${ \\big [ } ^ { 9 9 \\mathrm { m } } \\mathrm { T c } { \\big ] } .$ ， Oxotechnetium(V） complexes of amine-amide-dithiol chelates with dialkylaminoalkyl substituentsaspotential diagnostic probes for malignant melanoma.J.Med.Chem.2001,44,3132-3140.   \n(20) Fan,C.; Jia,H.; Deuther-Conrad,W.; Brust,P.; Steinbach,J.; Liu, B. Novel $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ labeled $\\sigma$ receptor ligand as a potential tumor imaging agent.Sci.China,Ser.B: Chem.2006,49,169-176.   \n(21) Lu,J.; Kong,D.; Jia,H.; Deuther-Conrad,W.; Brust,P.; Wang,X. Preparation and biological evaluation of 99mTcN-4-(cyclohexylpiperazin-1-yl)dithoformateasapotentialsigmareceptor imagingagent.J. Labelled Compd.Radiopharm.2007,S0,1200-1205.   \n(22) Chen,X.; Cui,M.C.; Deuther-Conrad,W.; Tu, Y.F.; Ma, T.; Xie, Y.;Jia,B.; Li,Y; Xie,F.;Wang,X.;Steinbach,J.; Brust,P.;LiuB.LJi, H.M.Synthesisand biologicalevaluationofa novel $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ cyclopentadienyl tricarbonyl complex $\\left( [ ( \\mathrm { C p - R } ) ^ { 9 9 \\mathrm { m } } \\mathrm { T c } ( \\mathrm { C O } ) _ { 3 } ] \\right)$ for sigma-2 receptor tumor imaging.Bioorg.Med. Chem.Lett.2012,22,6352-6357. (23) Xie,F.; Kniess,T.; Neuber, C.; Deuther-Conrad, W.; Mamat, C.; Lieberman,B.P.; Liu,B.; Mach,RH.; Brust,P.; Steinbach,J.;Pietzsch, J.；Jia,H. Novel indole-based sigma-2 receptor ligands:synthesis, structure-affinity relationship and antiproliferative activity.MedChemComm 2015,6,1093-1103.   \n(24)Fan,K.H.；Lever, J.R； Lever, S. Z. Effect of structural modification in the amine portion of substituted aminobutylbenzamides as ligands for binding $\\sigma _ { 1 }$ and $\\sigma _ { 2 }$ receptors. Bioorg. Med. Chem. 2011,19,1852-1859.   \n(25) Wang,X.;Li,D.; Deuther-Conrad,W.; Lu,J.; Xie,Y.; Jia,B.; Cui, M.；Steinbach,J.；Brust,P.；Liu，B.；Jia,H.Novel cyclopentadienyl tricarbonyl $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ complexes containing 1-piperonylpiperazine moiety: potential imaging probes for sigma-1 receptors. J.Med. Chem.2014,57, 7113-7125.   \n(26） Shumway,S.D.； Toniati， C.； Roberts，B. S.；Martin，M.M. Compositions and Methods for Treating Cancer. WO2013039854A1, 2013. (∠/）ivacn,  I.; uaig, 1.j rreeall, \\ A.j vu, L. vagveravlg, S.； Luedtke,R.R. Conformationally-flexible benzamide analogues as dopamine ${ \\bf D } _ { 3 }$ and $\\sigma _ { 2 }$ receptor ligands.Bioorg.Med. Chem.Lett2004,14, 195-202.   \n(28) Peindy N'Dongo,H. W.; Liu,Y.; Can, D.; Schmutz,P.; Spingler, B.; Alberto,R. Aqueous syntheses of $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ]$ type complexes 0 $\\cdot \\mathrm { c } _ { \\mathrm { P } } =$ cyclopentadienyl, $\\textbf { M } = \\textbf { M n }$ P99mTc，Re)withbioactive functionalities.J. Organomet. Chem. 2009,694, 981-987.   \n(29) Li, D.; Wang, $\\mathrm { X . } \\mathrm { , }$ Deuther-Conrad, W.; Chen, X.； Cui, M.C.; Steinbach,J.；Brust，P.；Liu，B.；Jia,H.Synthesis and preliminary evaluation of novel $[ ( \\mathrm { C p - R } ) \\mathrm { M } ( \\mathrm { C O } ) _ { 3 } ]$ 0 $\\mathbf { \\hat { M } } = \\mathbf { R e } ,$ 14号 $^ { 9 9 \\mathrm { m } } \\mathrm { T c } \\overrightharpoon { }$ ）complexes as potent sigma-2 receptor ligands.J.Labelled. Compd.Radiopharm.2013, 56, S383.   \n(30) Chen,Y.; Deuther-Conrad,W.; Steinbach,J.; Brust,P.; Liu,B.;Jia, H.Anovel cyclopentadienyltricarbony $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ complex containing S,6- dimethoxyisoindoline motif- synthesis and evaluation of a radiotracer forimaging of sigma-2 receptors in cancer. J. Labelled. Compd. Radiopharm.2015,58,S98.   \n(31）Perregaard, J.；Moltzen,E.K.；Meier,E.； Sanchez,C.Sigma ligands with subnanomolar affnity and preference for the sigma 2 binding site.1.3-(omega-aminoalkyl)-1H-indoles.J. Med. Chem.1995, 38,1998-2008.   \n(32）Niso，M.；Abate,C.；Contino,M.；Ferorell， S.；Azzariti,A.; Perrone, R; Colabufo, N. A.; Berardi, F. Sigma-2 receptor agonists as possible antitumor agents in resistant tumors:hints for collateral sensitivity.ChemMedChem 2013,8,2026-2035.   \n(33) Wang, X.; Li,Y.; Deuther-Conrad, W.; Xie,F.; Chen, $\\mathrm { X . ; }$ Cui, M.- C.; Zhang,X.-J;ZhangJ-;Steinbach,J.; Brust,P.; Liu,B.-L;JiaH M.Synthesisandbiologicalevaluationof $^ { 1 8 } \\mathrm { F }$ labeled fluoro-oligoethoxylated 4-benzylpiperazine derivatives for sigma-1receptor imaging. Bioorg. Med. Chem.2013,21,215-222.   \n(34）Laruelle,M.；Slifstein，M.；Huang, Y.Relationships between radiotracer properties and image quality in molecular imaging of the brain with positron emisson tomography.Mol. Imaging Biol. 2003,5, 363-75.   \n(35) Huang, Y.; Zheng, $\\mathrm { M . } \\mathrm { \\cdot } \\mathrm { Q . } ;$ Gerdes,J.M.Development of effective PET and SPECT imaging agents for the serotonin transporter: has a twenty-year journey reached its destination? Curr. Top.Med. Chem. 2010,10,1499-1526.   \n(36) Li, Y.; Wang, X.; Zhang J.; Deuther-Conrad,W.; Xie,F.; Zhang, X.；Liu,J.；Qiao,J.; Cui,M.； Steinbach, J.; Brust, P.; Liu,B.;JiaH. Synthesisandevaluationof novel $^ { 1 8 } \\mathrm { F }$ labeled spirocylic piperidine derivatives as $\\sigma _ { 1 }$ receptor ligands for positron emission tomography imaging.J.Med. Chem.2013,56,3478-3491.   \n(37) Glennon, R.A. Binding characteristics of $\\sigma _ { 2 }$ receptor ligands. Rev. Bras.Cienc.Farm.2005,41,1-12.   \n(38）Sorger，D.；Scheunemann，M.；Grossmann，U.；Fischer，S.; Vercouille,J.; Hiller,A.;Wenzel,B.; Roghani,A; Schliebs,R; Brust,P.; Sabri， O.；Steinbach, J.A new $^ { 1 8 } \\mathrm { F }$ labeled fluoroacetylmorpholino derivative of vesamicol for neuroimaging of the vesicular acetylcholine transporter.Nucl.Med.Biol.2008,35,185-195.   \n(39) Saidi,M.;Kothari,K.; Pillai,M.RA.; Hassan,A.; Sarma,H.D.; Chaudhari，P.R.；Unnikrishnan，T.P.；Korde，A.；Azzouz，Z. Cyclopentadienyl technetium $\\binom { 9 9 \\mathrm { m } _ { \\mathrm { T c } } } { s }$ tricarbonyl piperidine conjugates:biodistribution and imaging studies.J.Labelled Compd.Radiopharm. 2001,44,603-618. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

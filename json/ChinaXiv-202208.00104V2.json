@@ -1,0 +1,530 @@
+[
+    {
+        "type": "text",
+        "text": "数字叙事及其在图书馆学情报学中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢庆征",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "河北大学保定071000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：[目的/意义]本文的目的是研究数字叙事的理论概况及其作为一种工具或方法在图书馆学情报学学术研究与实践中的应用。[方法/过程]本文通过研究叙事及数字叙事的发展历程并结合相应的学术研究成果总结得出数字叙事理论的概况，如数字叙事的内涵、特点、要素和类型等，并同时应用文献计量与主题分析的方法，借助ITGinsight软件对已经发表的数字叙事主题文献与摘要进行学科领域和研究主题分析。同时在其中发现与图书馆学情报学相关的理论研究与案例，并据此总结数字叙事在图书馆学情报学中的应用状况。[结果/结论]研究结果表明数字叙事是古老的叙事工具在数字与信息时代的新的表现形式，拥有着灵活性、通用性、动态性和交互性的特点，以及多种类型与创作、表现形式，完全可以应用在多个领域的研究与实践中。通过文献计量与主题分析发现，数字叙事已经被用在教育学、计算机科学、通信、文学、图书馆学情报学乃至人文社会科学的诸多领域并同时向医学、工程学等自然科学方向扩展；数字叙事的研究集中在教育、社会公共服务、生理健康、医学、娱乐等20多个主题。在图书馆学情报学研究中，数字叙事对学术研究、信息与知识资源管理、文化遗产保护、图书馆公共教育、阅读推广和数字图书馆建设提供有效而直接的助力，使得图书馆可以更好发挥自身职能。总而言之，数字叙事完全可以纳入图书馆学情报学的研究之中，二者的融合将是促进共同发展的良好契机。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：叙事数字叙事 图书馆学 情报学应用 分类号：G250.7 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年来，叙事分析（Narrative Analysis）作为一种研究方法或者工具被人文科学、社会科学等诸多领域学者重视并采用，并经历了文本导向向实践导向的重大转变，这个转变的重点不是故事的形式变化，而是知晓故事可以作为一种符号来表达学术研究与实践的某种内涵的一种觉醒[1]。在一些人的传统认知中，叙事是文学领域独有的一种文体或研究方向，而叙事分析也仅仅是从文本记载的内容中挖掘或重现讲述者所要传达的内容。其实则不然，叙事作为一种人类古老的特有品质早在文字发明之前就已然被广泛应用，叙事的历史远远早于文学出现的年代，甚至与人类的历史相当。早在文字出现的年代，先民们就采用叙事的方式进行知识、智慧、经验与理念的传播，这种传播促进了人类的延续，同时也加速了文明的形成。叙事被人类应用了数千年，直到如今也依然是学术研究与日常使用的一个重要工具。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叙事包括叙述与故事两个方面，故事是叙事的内涵与对象，叙述则是表述故事及其内隐信息与知识的手段与方式。谈及知识，有人意识到“叙述是人类认识世界的一种基本途径”。法国著名哲学家弗朗索瓦·利奥塔(Jean-Francois Lyotard)在他的《后现代状况》一书中曾提出“泛叙述论”，认为人类的知识除了“科技知识”之外就是“叙述知识”，也就是说除了自然科学之外的人文社科所有理论与知识在本质上都是叙述性的。当然，这句话有些夸大其词，因为社会科学研究中也有不少是采用的比较“科学”的研究方法（例如统计方法与田野调查）[2]，尽管如此，在某些角度，这个“论断”也有一定的可取之处，毕竟有人意识到叙事在人文社科领域的重要意义，但根据叙事的悠久历史来说，这种意识更像是一种觉醒。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叙事自诞生之日便与信息、知识等息息相关，而作为以信息知识为主要研究对象的图书馆学情报学也理应与之拥有较为亲密的关系，叙事理论上可以作为知识传播与管理的重要手段而被广泛应用在学术研究与实践之中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上世纪六七十年代，人类扣开“信息时代”的大门，数字技术以自身独特的魅力逐渐融入了社会生活的方方面面，这同样给古老的叙事注入了新的血液与活力，可以使之以一种更加实用与精巧的姿态参与学术研究与社会实践之中，这便催生了“数字叙事（DigitalStorytelling）”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数字叙事是传统叙事学与数字技术的交汇，即以音频、视频、多媒体和互联网等数字技术来讲述故事，传达知识与信息的一种方式。它的出现昭示了知识传播与展示的一种新的可能，而这种可能会被用在人文社科的诸多领域之中，来帮助学者从不同角度展现研究成果，或者将研究成果以更易接受的方式普及公众。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图书馆学与情报学不仅离不开叙事，也与数字技术的发展息息相关。作为数字技术与叙事结合的数字叙事也应当被图书馆学情报学所重视，并纳入相关的研究与实践之中。为此，本文主要讨论的问题如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）什么是数字叙事？数字叙事的研究概况与现状;  \n（2）数字叙事被纳入图书馆学情报学相关研究的可行性；  \n（3）数字叙事在图书馆学情报学的应用与实践。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1从叙事到数字叙事",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叙事是人类特有的一种古老的特征，故而可以从人类的历史中探究叙事的起源与沿革[3]。叙事的产生与发展得益于人类的实践与活动。故事源于神话与遥远的传说，当结束了一天打猎和耕作劳动，先民们围在篝火前互相诉说今日的见闻与神秘的幻想，这便是最早期的叙事活动[4]。在这种活动中，人们会将自己生活中积累的经验，获得的信息，对自然的崇拜与神祇的幻想通过口述的方式传达给其他人，在传达的过程中，人们会不由得采用故事来承载内容，因为故事这种形式较之单纯的概念更容易在情感方面与听众进行联系，使听众更容易理解并接受讲述者表达的内容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在人类的演化过程中，所处的环境和掌握的技能是不断变化的，叙事的形式同样也会随之变化。在文字出现之前，人们借助口述、舞蹈、歌谣、图画（如壁画）等形式来记载并讲述某些事件，比如当时真实的生活、无法理解的自然现象与神秘现象的猜测与幻想等文字与书写材料出现以后，人们又将这些内容镌刻或书写下来，储存到某个地方（如图书馆的前身）。尽管叙事的形式出现了变化与扩充，但叙事作为传播知识的方式却一直没有改变。而如今，随着人们进入信息社会，人类所处的环境与掌握的技能又发生了变化，叙事也从传统的语言、文字媒介扩展到了数字技术支持下的新的媒介之中，叙事有了新的表现形式—一数字叙事。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数字叙事协会（Digital Storytelling Association，2002）将数字叙事定义为传统讲故事的现代方式，即使用数字媒体与图像、音乐、语音和叙述一起被用来创造内容丰富的可以用来讲述、分享和保存的故事。数字叙事的实践开始于上世纪90 年代的北美，先驱者包括达纳·阿奇利（Dana Atchley）、乔·兰伯特(Joe Lambert)和尼娜·马伦(NinaMullen)等人。他们于1994年共同创建了旧金山数字媒体中心（后搬至伯克利，更名为数字叙事中心），并为当地人提供培训课程，制作数字故事。作为数字叙事的开创者和引领者，他们提出数字叙事的七要素，为之后的数字故事创作提供了最基本的指导。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管数字叙事诞生于北美，但是由于其自身的魅力迅速扩展到世界其他地区。2001年，英国摄影师Daniel Meadows 与BBC 合作，在威尔士开展了一项名为BBC Capture WalesDigital Storytelling Project(http://www.bbc.co.uk/capturewales)的活动，旨在帮助社区公民通过分享数字故事来建立公共及人际关系；2002年乔·兰伯特访问澳大利亚，并协助建立了Australian Centerforthe Moving Image，进而推动澳大利亚的数字叙事运动发展；2003年，一项名为“患者之声（PatientVoices）”的项目发起，为患者，家属与医护人员提供了一种讲述他们的故事的手段，并以第一人称的视角挖掘相关人员的故事顺便提出令人信服的有效的经验与见解，来帮助医护人员提高自身治疗与护理的水平，同时也激发患者积极参与治疗的主动性。现如今，该项目已经在加拿大、澳大利亚、挪威、香港和坦桑尼亚等国家（地区）开展，并广泛应用于医学与护理学的教学之中[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数字叙事概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数字叙事的七要素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数字叙事中心曾提出数字叙事创作的七个要素，并以此来帮助创作者创作出有趣的、创造性的和有效的数字故事。合理调用这些动态的相互关联的元素有助于增加故事的意义与可说服性[6]。（1）观点(pointofview)。数字叙事的创作强调故事观点和作者本人视角相互结合，作者要通过故事的形式将个人观点传达给观众，这也是数字叙事存在的根本原因。观点是七要素中最主要的一项，它决定了故事想要传达什么信息，同时也定义了受众群体。（2）印象深刻的问题(dramatic question)。数字叙事创作需要有能够吸引受众注意力的关键性问题，并让受众可以在故事中间或者末尾之处得到这个问题的答案。（3）情绪(emotionalcontent）。数字叙事在创作的过程中可以使用图像、音乐、灯光色调和音效等手段使受众保持“听故事”之时的注意力，并将受众的情绪与故事本身联系起来。此时，受众会根据故事的情节变化或悲或喜，从而接受故事讲述者在故事中隐藏传达的信息内容。（4）亲自讲故事(the gift of your voice)。创作者可以使用讲述者或者角色的“真实声音与语气”和受众进行互动，以增强故事的真实性，便于传达故事内的信息与情感内容。（5）配乐的力量(the power of the soundtrack)。创作者可以使用配乐或者其他音效来丰富故事内容，增强故事的力量。（6）精简/经济(economy)。数字叙事作品不需要有太长的篇幅与冗长的故事内容，创作过程中应当以观众的感受为导向控制时长，同时合理安排细节。（7）掌握节奏（pacing)。故事的节奏可以帮助维持受众的情绪与兴趣，故而在创作过程中应合理规划哪里需要急促，哪里需要缓慢，以增强受众的叙事体验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2数字叙事的特点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数字叙事的主要特点是灵活性、通用性、交互性[和动态性[8等。数字叙事的灵活性表现在创作过程中可以以一种比较灵活的方式将信息内容纳入故事之中，而故事情节、叙述方式等都可以在不更改信息内容的前提下根据受众群体的变化而调整，同时也可以利用数字技术与数字媒体将传统的线性（顺序）叙述扩展到非线性，方便如“倒叙”、“插叙”等叙事技巧的直观使用，以增强故事的完整性、趣味性和价值性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数字叙事的通用性主要体现在为普通人提供了一个可以创建并向多数人分享的故事的可能。在早期的叙事实践中，一般都是小说家、电影导演等人员将自己创建的故事分享到社会大众之中。而如今，一些数字技术和社交平台已经在公众中普及，普通人也拥有能够创建数字故事并在一些网络平台（如抖音短视频）进行发布的能力，而且这种方式不需要太高超的技术水平和太多的资金支持。这种分享故事的行为会促使虚拟空间中有着共同兴趣爱好和价值观的社群形成，并帮助很大一部分人在其中收获快乐和友谊。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动态变化也是数字叙事作品的一个特点。故事所承载的内涵归根结底还是知识与信息，动态性是信息的特点之一。在数字叙事的创作过程中，对故事角色的设定、故事内容转承起合的确定以及其他细节的渲染都是信息片段提取的结果。故事信息的提取囿于表达技巧与技术的限制，最终作品所呈现的叙事内容会由于各种条件的变化而不同。与传统的口头传播与文字传播相比，多感官刺激的数字叙事作品更容易为人所接受。故事在被人接受以后，传播的欲望要比纯粹的信息更加强烈，传播的方式更加多样，优质的数字叙事内容在数字平台上迅速传播，并呈现出动态化的特点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "交互性是数字叙事的又一个特点，这一点主要体现在数字技术与数字媒介的使用上。交互性一方面可以表现为故事的讲述者与受众之间的交互，比如通过音乐、图像等与受众的多个感官进行联系，增强其叙事体验；另一方面是受众与数字叙事作品本身的交互。数字叙事发展到今日已经不单单是作为传达讲述者信息与知识的技巧和工具，而成为了一个数字产品，受众拥有了数字叙事产品之后可以通过某种设备（如显示器、鼠标和游戏手柄等）与数字系统或者其他用户（就产品属性而言，受众变成了用户）进行交互以获得用户体验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3数字叙事的类型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "受益于信息技术的迅速发展，在数字叙事诞生到现在的短短几十年时间中，数字叙事发展得十分迅速，无数优秀的作品问世，最大限度地满足了人们的精神、文化、信息与知识需求。本文从不同角度探讨已经产生的数字叙事类型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在数字叙事理论与实践发展中产生了两个含义相似的概念—一数字叙事与互动数字叙事（Interactive Digital Narrative，IDN），尽管后者在名称上像是数字叙事的下位概念，但事实上二者在起源、发展和关注点等方面存在着差异，而且研究与实践内容也有所不同[9。与传统叙事方式一样，一些数字叙事也要求用户被动的接受故事信息，而互动数字叙事方式则着重突出互动二字，并给予受众主动参与叙事活动的空间。在叙事的环节中创作者（或讲述者）可以与受众进行交流与互动，甚至设置选项由受众进行选择，并由此形成不同的结局。简单来说，区别二者直接方法就是数字叙事作品是否过多重视受众交互的内容。然而越来越多的学者逐渐忽视二者的差异，而用数字叙事统称。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从故事的内容角度来看，西方学界一般将数字叙事（故事）分为三种类型：个人叙事、历史纪录片（历史叙事）或提供信息或指导的故事[10]。但是随着实践的发展，数字叙事早已跳脱学术研究与教育、公共等实践的范畴，甚至拥有了商业化与经济产品的属性，故而笔者认为，数字叙事应当有第四种类型：满足用户的精神文化与娱乐需要的故事。个人故事是围绕创作者或讲述者生活经历所创作的故事，这种故事中可能包括本人的生活经验、奇闻轶事、思想理念、价值观等内容。个人叙事可以用来帮助促进对当前问题的讨论，比如学习、家庭教育等问题，或者也可以成为处理他人情绪问题的一种积极的方式。历史叙事类似于一种教育方式，即以历史照片、档案、典籍等材料对历史或过去的事件进行再现以帮助受众增强对历史记忆的理解。第三种是提供信息或指导的故事，顾名思义就是蕴含着某些信息、知识或经验的故事，是教育、新闻与公共实践中最常见的一种类型。第四种则是为满足用户的精神文化与娱乐需要，把数字叙事当做产品创作的工具所创作出的作品如影视作品、电子绘本、叙事游戏等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后一个角度是从作品的外延或者数字媒介的角度进行划分的数字叙事作品类型。主要包括音频、视频与表演、文字和游戏等类型。音频类数字叙事就是以音频这一数字技术与媒介来进行故事叙述的作品，比如叙事性音乐、歌谣、音频文件等。视频与表演类数字叙事是通过真人表演或者动画创作等方式将故事内容进行直观“表现”出现，具体包括影视作品、动漫、纪录片、科普视频、短视频、新闻以及舞台表演、戏剧、话剧等的数字形式。文字类数字叙事则是在数字媒介中以文字为主要形式，辅之图画、图像等来表现故事内容而创作的数字叙事，比如超文本小说、互动小说游戏、电子绘本等。游戏类数字叙事指带有叙事内容的游戏作品，主要包括盈利性电子叙事游戏产品，公益/教育类数字叙事游戏等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "正如数字技术的发展没有上限，数字叙事的潜力同样无穷。数字叙事在未来一定会诞生出各种新的类型并更好的姿态满足社会与人类的需求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3数字叙事的研究现状",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了梳理数字叙事的研究现状，本文选择采用文献计量与文本分析的方法对Web ofScience（WOS）核心文献库中数字叙事相关论文及其摘要进行分析。本文以“digitalstorytelling(topic)”or“digital narratologies(topic)” or“digitalnarrative(topic)”为检索式，发文时间截止到2022年7月31日，总共检出7401条结果，时间跨度从1990年到2022 年。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1文献年发文量分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对检出的7401条结果按照发文时间进行统计并形成数字叙事主题文献年发文量统计表（表1）和趋势图（图1）。研究表明，数字叙事文献最早发表于1990年，这与数字叙事诞生的时间相合。在1990年到2003年时间内，数字叙事的研究热情不高，没有形成规模的研究成果。直到2004年（30篇）开始，数字叙事为越来越多的学者所关注，文献的数量呈现出一种明显的增长趋势。从2013年（248篇）开始，数字叙事相关研究呈现出快速增长的趋势，直到过去的 2021年，年发文量达到1101篇，可见数字叙事的相关研究被越来越多的人所重视。并由此推断在未来相当一段时间，数字叙事的研究成果会依然保持一个明显的增长趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbd8bc67bc7396315c5f01b0159e60f025399bb65a95b3b47d84d1e7146a7af3.jpg",
+        "table_caption": [
+            "表1数字叙事主题文献年发文量统计表 $\\mathrm { ( n { = } 3 0 } ^ { \\cdot }$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>文献数量</td><td>累积文献数量</td><td>时间</td><td>文献数量</td><td>累积文献数量</td></tr><tr><td>1990</td><td>1</td><td>1</td><td>2009</td><td>142</td><td>465</td></tr><tr><td>1996</td><td>3</td><td>4</td><td>2010</td><td>163</td><td>628</td></tr><tr><td>1997</td><td>2</td><td>6</td><td>2011</td><td>162</td><td>790</td></tr><tr><td>1998</td><td>6</td><td>12</td><td>2012</td><td>211</td><td>1001</td></tr><tr><td>1999</td><td>5</td><td>17</td><td>2013</td><td>248</td><td>1249</td></tr><tr><td>2000</td><td>8</td><td>25</td><td>2014</td><td>371</td><td>1620</td></tr><tr><td>2001</td><td>13</td><td>38</td><td>2015</td><td>424</td><td>2044</td></tr><tr><td>2002</td><td>17</td><td>55</td><td>2016</td><td>523</td><td>2567</td></tr><tr><td>2003</td><td>13</td><td>68</td><td>2017</td><td>632</td><td>3199</td></tr><tr><td>2004</td><td>30</td><td>98</td><td>2018</td><td>753</td><td>3952</td></tr><tr><td>2005</td><td>31</td><td>129</td><td>2019</td><td>869</td><td>4821</td></tr><tr><td>2006</td><td>42</td><td>171</td><td>2020</td><td>902</td><td>5723</td></tr><tr><td>2007</td><td>62</td><td>233</td><td>2021</td><td>1101</td><td>6824</td></tr><tr><td>2008</td><td>90</td><td>323</td><td>2022(7)</td><td>577</td><td>7401</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2学科领域分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了探究数字叙事的应用领域，对相关文献的学科隶属进行分析是一个比较有效的方式。WOS 数据库根据文献所属期刊的学科领域对文献本身进行研究领域分类，并提供一个可以帮助研究者从学科领域进行文献计量分析的途径。本文使用ITGinsight 软件对全部文献的学科领域进行统计分析，最终选取文献数量最多的前30项结果进行展示（表2）。研究结果表明，对数字叙事的研究最多的学科领域为教育学（1456篇），占比 $1 9 . 6 7 \\%$ 。之后为计算机科学（1254篇）、通信（1042篇）、人文艺术一其他主题（423篇）和社会科学一其他主题（404篇）。数字叙事已经被用在教育学、计算机科学、通信、文学、图书馆学情报学乃至人文社会科学的诸多领域并同时向医学、工程学等自然科学方向扩展。值得注意的是图书馆学情报学文献数量为287篇，位居第七，这证明在图书馆学情报学领域已经有一定数量的学者注意到了数字叙事，并产生了一定的研究成果。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2f2458c3ab86398b5793c9364bbc258979fb60204c21aad73dbb63b42d965e0.jpg",
+        "table_caption": [
+            "图1数字叙事主题文献年发文量趋势图 (1990——2021)",
+            "表2数字叙事主题文献学科统计表（ $\\scriptstyle \\mathtt { n = 3 0 }$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>学科</td><td>数量</td><td>比重</td><td>位次</td></tr><tr><td>Education & Educational Research</td><td>1456</td><td>19.67%</td><td>1</td></tr><tr><td>Computer Science</td><td>1254</td><td>16.94%</td><td>2</td></tr><tr><td>Communication</td><td>1042</td><td>14.08%</td><td>3</td></tr><tr><td>Arts & Humanities - Other Topics</td><td>423</td><td>5.72%</td><td>4</td></tr><tr><td>Social Sciences - Other Topics</td><td>404</td><td>5.46%</td><td>5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e853e1d305246ace54fe1e8bcb927fa6d122f84ac04b61d1647e626f4da0771.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Literature</td><td>303</td><td>4.09% 6</td></tr><tr><td>Information Science & Library Science</td><td>287</td><td>3.88% 7</td></tr><tr><td>Engineering</td><td>285</td><td>3.85% 8</td></tr><tr><td>Linguistics</td><td>255</td><td>3.45% 9</td></tr><tr><td>Business & Economics</td><td>246</td><td>3.32% 10</td></tr><tr><td>Psychology</td><td>229</td><td>3.09% 11</td></tr><tr><td>Public，Environmental & Occupational Health</td><td>223</td><td>3. 01% 12</td></tr><tr><td>Health Care Sciences & Services</td><td>195</td><td>2.63% 13</td></tr><tr><td>Film，Radio & Television</td><td>190</td><td>2.57% 14</td></tr><tr><td>Sociology</td><td>173</td><td>2.34% 15</td></tr><tr><td>Art</td><td>169</td><td>2.28% 16</td></tr><tr><td>Cultural Studies</td><td>152</td><td>2.05% 17</td></tr><tr><td>History</td><td>136</td><td>1. 84% 18</td></tr><tr><td>Science & Technology - Other Topics</td><td>123</td><td>1. 66% 19</td></tr><tr><td>Environmental Sciences & Ecology</td><td>117</td><td>1.58% 20</td></tr><tr><td>Medical Informatics</td><td>107</td><td>1.45% 21</td></tr><tr><td>Government & Law</td><td>102</td><td>1.38% 22</td></tr><tr><td>Architecture</td><td>94</td><td>1. 27% 23</td></tr><tr><td>Geography General & Internal Medicine</td><td>94</td><td>1. 27% 23</td></tr><tr><td>Nursing</td><td>90</td><td>1. 22% 25</td></tr><tr><td></td><td>85</td><td>1.15% 26</td></tr><tr><td>Psychiatry</td><td>84</td><td>1.13% 27</td></tr><tr><td>Imaging Science & Photographic Technology</td><td>66</td><td>0.89% 28</td></tr><tr><td>Telecommunications</td><td>65</td><td>0.88% 29</td></tr><tr><td>Anthropology</td><td>62</td><td>0.84% 30</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3研究主题分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文使用ITGinsight对检出的文献的摘要部分进行主题分析与主题词挖掘，以探究数字叙事研究的热点。ITGinsight可以利用语言学规则和改进的C-value值从专利文本中挖掘出主题词，然后对主题词进行词性标注、词形还原和术语度判断，合并术语的同时规避掉大部分无用的术语，保留所需术语[]。例如可以通过NN（普通名词），NNP（专有名词）， $\\mathrm { J J + N N }$ （形容词 $+$ 名词）以及 $\\mathrm { J J + N N + N N }$ 等语法规则进行主题词挖掘[12]。对于处理之后的主题词，ITGinsight可以实现主题词同现与演化（可视化）分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文使用ITGinsight 对摘要文本进行主题词挖掘，共得出7091个主题词结果，并根据每个主题词的 $\\mathrm { C ^ { - } }$ value 值进行降频排列，手动去除无实义与无关的主题词组，由于篇幅问题最终选取前75位次列入文中（表3）。然后根据每个主题词的含义进行手动归类，可以发现排名比较靠前的主题词总共可以分为以下21类。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）特定研究对象。young person，older adult，young adult 等;（2）社交与人际关系。digital medium，social isolation，social network 等;（3）数字技术。digital technology，big data，digital tool，machine learning",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "等； （4）社会管理与公共服务。global governance，covid 19 pandemic，digital   \ndivide等； （5）娱乐。computer game，digital game，user experience等； （6）教育与教育学。game based learning，digital literacy，digital   \neducation， higher education 等； （7）数字治疗与心理健康。digital intervention，mental health，digital   \nhealth intervention， social isolation 等； （8）社会记忆与历史文化遗产。cultural heritage，cultural memory 等; （9）医学与生理健康。autism spectrum disorder，intellectual disability,   \nhealth promotion 等; （10）社会热点。black woman，sexual violence，climate change 等； （11）文学与艺术。animated documentary，visual novel，conceptual art 等； （12）经济。digital economy，business model等; （13）数字素养与技能。dataliteracy，digitalliteracy，online   \nlearning，digital literacy skill,digital competence, data visualization等; （14）通信与网络技术。cyber threat，online learning，online help seeking等; （15）档案馆与博物馆。oral history，online museum，collective memory,   \nelectronic literature等; （16）信息与知识传播。tacit knowledge，digital medium，digital platform,   \ncognitive impairment， fake news， data privacy， story map， literary reading,   \nknowledge transfer， prior knowledge，knowledge postproduction 等； （17）图书馆。digital library，research library，library system， public   \nlibrary，academic library 等; （18）叙事理论与实践。interactive storytelling，interactive storytelling,   \nstory map， interactive digital narrative等； （19）宗教。digital religion，Korean Buddhism等; （20）人文与数字人文研究。digital humanity，digital history，Song Ci,   \nmedium archaeology 等; （21）社会科学研究。digital political等。 ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/378979a6afa3f727bf2713d8994b7e61804925c1ce3d368f4821f617069dd5b0.jpg",
+        "table_caption": [
+            "表3数字叙事文献摘要文本主题词分析（基于ITGinsight生成）（ $\\mathrm { \\Delta } _ { , } \\mathrm { n } { = } 7 5$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主题词</td><td>主题词</td><td>主题词</td></tr><tr><td>young person</td><td>mobile device</td><td>conceptual art</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/039b8a6a5c34673ef8e3ca29848cc4a7ccab7e5230c6fa01d6912f256cb2d0bc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>social medium</td><td>sexual violence</td><td>health promotion</td></tr><tr><td>digital technology</td><td>computer game</td><td>intervention group</td></tr><tr><td>digital intervention</td><td>virtual reality</td><td>new technology</td></tr><tr><td>digital medium</td><td>delivery mode</td><td>digital platform</td></tr><tr><td>older adult</td><td>health care provider</td><td>tacit knowledge</td></tr><tr><td>global governance</td><td>elderly person</td><td>mobile technology</td></tr><tr><td>digital game</td><td>therapeutic alliance</td><td>global south</td></tr><tr><td>mental health</td><td>transmedia storytelling</td><td>foreign language</td></tr><tr><td>cultural heritage</td><td>young adult</td><td>digital divide</td></tr><tr><td>video game</td><td>digital education</td><td>included study</td></tr><tr><td>social isolation</td><td>digital health technology</td><td>cognitive impairment</td></tr><tr><td>big data</td><td>autism spectrum disorder</td><td>boundary object</td></tr><tr><td>digital tool</td><td>mobile phone</td><td>vertical editing</td></tr><tr><td>digital narrative</td><td>young child</td><td>smart learning environment</td></tr><tr><td>social network</td><td>higher education</td><td>older worker</td></tr><tr><td>digital literacy</td><td>English student teacher</td><td>young woman</td></tr><tr><td>digital transformation</td><td>public relation</td><td>digital humanity</td></tr><tr><td>motivational interviewing</td><td>suicidal ideation</td><td>game based learning</td></tr><tr><td>preservice teacher</td><td>machine learning</td><td>health professional</td></tr><tr><td>new medium</td><td>CPM practice</td><td>fake news</td></tr><tr><td>covid 19 pandemic</td><td>European union</td><td>student engagement</td></tr><tr><td>black woman</td><td>intellectual disability</td><td>climate change</td></tr><tr><td>user experience</td><td>critical reflection</td><td>digital assessment</td></tr><tr><td>digital health intervention</td><td>mental illness</td><td>positive mental health</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.数字叙事在图书馆学情报学中的应用",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1数字叙事被纳入图书馆学情报学研究中的理论可行性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "根据对数字叙事相关文献的分析，我们可以发现数字叙事的研究者跨越多个学科与领域，研究主题也呈现十分广泛的态势，这说明了数字叙事有着极大的通用性可以应用在几乎所有学科领域的学术研究与实践之中，图书馆学情报学自然也不例外。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "说回叙事本身，尽管叙事是一种非常古老的存在，但在千百年的时间中他一直很少被所为一个明确的对象而研究。直到上个世纪上半叶，俄国、德国和法国的学者陆陆续续开展了对叙事及叙事理论的研究（有的著作未明确称之为叙事这一概念）。最终于1966年，叙事学正式宣布诞生，自此叙事成为一个自主的研究对象，叙事学也成为一个独立的学科[13]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "叙事学成立之后，叙事这一概念被越来越多的学者发现并作为一种研究工具而应用，这些学者不仅仅是文学理论家，还有许多其他领域的学者。这就意味着叙事已经走出文学家园，跨越学科边界并走向其他学科的研究之中，这种现象被称为“叙事转向（narrativeturn）”。同样的，叙事转向也发生在图书馆学情报学之中。信息与知识是图书馆学与情报学的重要研究对象，同时也是一个故事所携带的内涵，换言之，信息与知识内隐于故事之中。从这一点看来，叙事与图书馆学情报学有着明确的交叉之处，同样的作为叙事的数字时代表现形式—一数字叙事同样也可以应用在图书馆学情报学之中。已发表的文献就有一部分来自图书馆科学与情报学之中，数字叙事的应用与研究对象也有图书馆、信息与知识，这便是数字叙事可以纳入图书馆学情报学研究最明确的佐证。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2数字叙事在图书馆学情报学中的应用与实践",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "既然数字叙事被纳入图书馆学情报学领域的研究在理论上是可行的，那么数字叙事可以被应用在哪些方面呢？本文通过查阅资料发现数字叙事可以被用在学科理论研究、图书馆教育、阅读推广、信息及知识管理、数字图书馆等多个方面，接下来本文对其进行一一阐释。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2.1图书馆叙事",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图书馆与叙事的亲密关系在早已有之。图书馆是社会记忆机构，有着丰富的馆藏资源，其中也不乏大量的叙事性文本信息资源。在古代，人们将所见所闻或者一些故事记录下来形成书籍或者其他材料，其中有些资料会被放置在某个专门的机构之中，而这个机构就是图书馆的原型。而如今，叙事转向的出现，又给予了图书馆和叙事结合的新的契机。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "人是图书馆学研究的重要对象，然而在国内图书馆学界，相当一部分学者将研究精力与对象置于信息、设施、技术等方面[14]，甚至热衷于追求和探究各类新技术新环境对图书馆的影响，而较少关注人这一重要要素。造成这种现象一方面可能是因为社会正处于信息技术飞速发展的时代，对信息、技术和设施等的研究顺应了历史潮流；另一方面，对于图书馆中人的研究确实在研究方法等方面有一定的匮乏。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "叙事及数字叙事的引入可能在一定程度上对图书馆中人的研究有帮助。毕竟叙事学是研究人的学科，在这一点上叙事学与图书馆学有共通之处，故而以叙事的方式去研究图书馆中的人看起来确实是一个非常有效的做法。叙事能作为一个普遍而广泛的研究工具和方法主要有三个原因：（1）叙事具有普遍性，无处不在；（2）叙事具有灵活性与易操作性，它可以用有限的方式（场景、人物、事件、情节和各种叙述技巧）来为各种各样的研究与实践服务，毕竟很难有可以超脱叙事界限的理解之物；（3）叙事既是阐释与评论的对象也是二者的研究方法[15]。在图书馆中除了馆藏信息资源之外，还存有大量的如管理日志、会议记录、活动记录和培训记录等叙述性文本与数字材料，加之图书馆员与用户的故事和记忆，这就构成了图书馆叙事研究的资料来源。而这些资料不仅包含了整个图书馆的发展历史和运作流程，还充满了人的情感、经验与价值观，这对于图书馆中人的研究无疑提供了一个非常新颖和有趣的视角，根据这个角度所形成的研究成果同样在图书馆建设、服务等",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "方面有着非常积极的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "我国国内已经有部分学者着眼于图书馆叙事研究。比如李光助（2019）认为利用叙事方式研究图书馆学可以着重突出人在图书馆各要素之间的位置，方便以人为主线厘清各要素之间的关系，进而重新诠释建构图书馆理论[16]。诚然，人对于图书馆而言，扮演着馆员和用户两个非常重要的角色，以叙事的方式挖掘二者的行为、思想与情感，必然会对图书馆的发展提供直接的指导动力。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "数字叙事作为叙事在数字时代的表现形式，为图书馆叙事的研究提供了莫大的助力。数字技术的运用（如视频）可以帮助研究者直观、完整地收集叙述性材料，比如图书馆日常工作和开展活动的视频记录、馆员的视频日志、用户的短暂采访等。此外，图书馆的研究成果也可以做成数字形式比如制作宣传与指导视频在本图书馆中观看或在图书馆之间进行传播，可以更直观地发现图书馆建设与服务的过程中存在的优势与不足之处。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2.2图书馆公共教育与阅读推广",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图书馆作为社会的公益机构承担着公众教育、提高公民知识文化水平与帮助提高公民阅读与学习兴趣的责任与职能。这种“教育”同样体现在叙事中。从古至今，故事一直都是一个非常有效的教育工具，从孩提时代人类就生活在各种各样的故事之中，父母和老师用一个又一个的故事教育人们如何生活，以及教人向善。故事的影响对人的成长有着极其重要的作用，而这种重要性表现在人的品格塑造和兴趣培养等方面。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图书馆不仅是个信息库、知识库，同时还是一个故事库。图书馆中有着大量的各式各样的故事，这些故事对于人类来说有着极大的吸引力，毕竟人人都爱听故事。图书馆在进行公众教育的过程中完全可以发挥自身优势，利用已有的故事或者根据馆藏资源创造出适合的故事给予特定的用户群体，吸引他们注意力，进而将故事中内隐的知识与信息传递给公众，以达到教育的目的。对于公众来说，一旦他们听到了感兴趣的故事可能就会激发他们想要了解故事全貌或者相关信息的动力，进而找寻相应的书籍或者资料去阅读。可以说故事对于图书馆教育与阅读推广十分重要。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "面对浩如烟海的信息资源，图书馆也在尝试使用各种新技术去解决日常面对的诸多问题。“信息技术”与“故事库”成为了图书馆非常重要的两个标签，同时这也是数字叙事生长的土壤。数字叙事拥有交互性。灵活性与动态性等特点，较之传统叙事方法，在图书馆教育与阅读推广方面有着更有效的作用。数字叙事作为一种教育工具可以直接与公众的多个感官进行交互，更直观的将故事内容与情感内容传递给公众。数字叙事所使用的图像音频、视频和互联网等技术支持下的故事内容比单单通过文字和口述传递的故事来着更直观，公众在接受数字故事隐含的知识内容的同时还会拥有比文字方式更强烈的叙事体验，这对于激发公众的学习与阅读兴趣同样更有。从数字叙事的灵活性来看，故事的创作会更“随意”，在不更改故事的知识内涵的前提下，可以根据受众群体的特点进行“调整”。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "前面论及故事中的场景、人物、事件、情节和各种叙述技巧都可以根据需要去调整，这无疑给图书馆员创作适合的数字故事提供了很好的思路。比如面对儿童群体，为了激发他们的兴趣，在故事创作的过程中可以将拟人化的动物作为故事角色，同时也可以采用游戏或者动漫的形式进行展示，其他群体亦是如此。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "数字叙事作为图书馆公共教育和阅读推广的实践在国外早已出现。Waddel1（2018）在论文中阐述了高校图书馆将数字叙事作为一种教学工具，来帮助学生提高信息素养[17]。Wood（2014）在论文中介绍了一个名为 The Department of Hidden Stories(DoHS）的手机端游戏APP，旨在支持公共图书馆让小学生参与有趣的数字叙事创建并帮助他们阅读馆内相关书籍，培养他们的阅读兴趣[18]。数字叙事在图书馆公共教育的应用中有无限的潜力，因为它的创建可以不受主题的限制。比如在现在仍在肆虐的新冠肺炎（COVID-19）疫情中，图书馆通过数字叙事的方式向公众普及防疫的措施（YouTube国际图联订阅号：Storytelling for Library Advocacy at the Time of COVID-19）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "不仅如此，图书馆还可以开办培训班专门教授公众如何制作数字故事。这不仅可以帮助公众使用数字叙事来创作支持教学、商业推广、社区服务与管理的数字故事，还可以在此基础上提高公众的信息与数字素养。国外的一些图书馆就已经开始向公众提供数字叙事公开课，如宾夕法尼亚州立大学图书馆（Penn State University Libraries）在其网站(guides.libraries.psu.edu/digitalstorytelling）上提供了数字叙事的制作指南，帮助公众使用数字技术创建并分享自己的故事；同样的，杜兰大学图书馆（TulaneUniversity Libraries）也为公众提供数字叙事创作指导——使用ArcGIS StoryMaps创建数字故事 (libguides.tulane.edu/arcgis_storymaps）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2.3信息及知识管理",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "信息是情报学的主要研究对象，故事中拥有着各种各样的信息，自然也能成为情报学的研究内容。Faggiolani（2017）认为叙事是一种有效的知识传播的工具[19]，这一点已然在历史中得到了验证。自始至终，讲故事都是一种传递知识的手段，正是有了叙事，先民们生火、种植、狩猎等的经验与知识才能在文字出现之前流传下来，帮助延续人类的进程在数字叙事时代，叙事有了数字技术的加持，信息与知识的传播的速度与范围与传统方式相比已经不可同日而语，交互性、情绪内容与多感官的叙事体验可以同时让受众不受时间空间与数量的限制而全身心的投入叙事之中，进而完成知识传播。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "数字叙事不仅仅用在信息与知识传播之中，同时它也是一个非常好的储存工具。在一些古代的典籍中记载着丰富而有趣的故事。以《庄子》为例，书中充斥着各种光怪陆离的故事，而这些故事的背后隐藏着庄子想要告诉世人的道家思想与理念，即无为和自然。对于这些理念来说，故事就是承载它的非常有用的容器，而且这种容器帮助它储存并流传了数千年。数字叙事亦是如此，创作者们完全可以将信息与知识创作成一个数字叙事作品，比如纪录片、科普视频等，来帮助知识的传播与储存。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.4数字图书馆",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "随着信息技术的使用与普及，人们可以不必亲自前往图书馆而获得相应的阅读体验，于是数字图书馆便应运而生。在数字图书馆中，人们同样可以阅读资料、学习知识，甚至体验更丰富的信息与知识服务。为了可以让公众更好的满足这些需求，图书馆员们期盼能够使用更多有效的技术与手段，而数字叙事作为一种传播信息与知识的工具，完全可以应用在数字图书馆的建设之中。比如Frohlich（2009）为了研究发展中国家的信息技术普及与使用情况，在印度南部的 Budikote地区的部分农村进行调查。调查采用相机等设备对当地居民进行采访并形成调查材料，之后使用挑选后的音视频、照片等素材创建成一些真实的数字故事。他们在当地村庄创建了一个类似于数字信息库的系统—一数字故事图书馆（digitallibraryof stories）或故事银行（StoryBank），并开展视听故事创作与分享活动以帮助当地人传播信息和提高信息素养[20]。尽管这个案例并不是真正意义上的数字图书馆，但是图书馆员们依旧可以以此作为参考，以数字叙事的形式将馆藏资源进行数字化、可视化、趣味化，吸引更多读者“阅读”。比如在数字图书馆对一些书籍或其他信息资源进行展示与宣传，或者在线开展社会教育和培训等活动之中，数字叙事都是一个非常好的辅助手段。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.5历史记忆与文化遗产保护",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "图书馆在承担开展公共教育、开发智力资源的职能之外，还有保存保护人类文化遗产的作用。数字叙事中有一种类型就是历史叙事，即可以借助数字技术与素材创作出重现过去事件与历史记忆的故事，帮助人们了解人类进程中发生过的各种事实。将历史文化遗产以数字叙事的形式保存下来也是一种有效的保护手段。例如Conrad（2013）就在美国南加州一所名为 Monterey Park Bruggemeyer Library 的公共图书馆的帮助下借助数字叙事记录当地的历史，最终将记录的结果以视频的形式分享到互联网中，供公众观看。他认为图书馆员对于保存历史记忆与文化遗产非常重要，数字叙事可以成为图书馆员保护历史记忆与文化遗产的重要工具[21]。这种工具可以帮助促进图书馆与其他机构和个人之间的沟通,在此过程中收集当地有趣的故事与历史信息并创作出各种各样的数字故事。这些故事不仅可以作为一种新的教育、服务与体验方式向当地乃至其他地区的人民宣传与展示本地区深厚的历史文化积淀，而且也以数字化的形式为当地的历史记录做出了贡献。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在国外相关高等教育中，已经有一些学校将数字叙事作为图书馆与情报学（Libraryand Information Science，LIS）的专业或实践课程。比如Alcala（2016）认为数字叙事可以用于LIS 的在线教育中，并介绍了一门课程——《记录不同文化和社区》——帮助情报学专业的学生创建关于历史、社区与档案的数字故事[22；圣何塞州立大学（San JoseState University）信息学院同样开展了一门数字叙事课程，旨在传授学生为不同群体创建数字故事的技能。数字叙事逐渐融入各个领域的学术研究与实践，同样也存在于图书馆学与情报学之中，甚至与图书馆学情报学的关系愈发紧密。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "综上所述，数字叙事的理论、形式、特点等都与图书馆学情报学十分契合，故而完全可以纳入两个学科的研究之中。数字叙事进入图书馆学情报学领域可以对学术研究、信息与知识资源管理、文化遗产保护、图书馆教育、阅读推广和数字图书馆建设提供有效而直接的动力，可以帮助图书馆以更新颖更有魅力的姿态沟通社会公众与其他机构，从而更好发挥图书馆的职能。总而言之，数字叙事纳入图书馆学情报学领域的研究与实践十分必要而且依据故事与信息知识之间的关联特征使得数字叙事可以在图书馆情报学领域发挥更好的作用。相信数字叙事与图书馆学情报学的融合是二者共同发展与进步的良好契机。AnnaDe Fina， Sabina Perrino",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] Fina A, Perrino S. Storytelling in the digital world[M]. John Benjamins Publishing Company， 2019.   \n[2]赵毅衡.广义叙述学[M].成都：四川大学出版社,2013.   \n[3] Yilmaz R, Cigerci F M. A brief history of storytelling: From primitive dancetodigital narration[M]//Handbook ofresearch on transmedia storytelling and narrative strategies. IGI Global， 2019: 1-14.   \n[4] Miller C H. Digital storytelling: A creator’ s guide to interactive entertainment[M]. Routledge，2014.   \n[5] Woods S S, Evans N C, Frisbee K L. Integrating patient voices into health information for self-care and patient-clinician partnerships: Veterans Affairs design recommendations for patient-generated data applications[J]. Journal of the American Medical Informatics Association， 2016, 23(3): 491- 495.   \n[6] Bull G,Kajder S. Digital storytelling in the language arts classroom[J]. Learning and Leading with Technology， 2004: 32(4)， 46 - 49. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7] Cho H S, Lim S, Yamazaki T, et al. Sense cup: A design of a new interactive holistic sense convergence device for digital storytelling[C]//International Conferenceon EntertainmentComputing. Springer，Berlin，Heidelberg，2008:173-178. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[8]周育红.创意阶层数字叙事风格研究[J].艺术管理(中英文),2019(03):100-107.   \n[9]徐丽芳,曾李.数字叙事与互动数字叙事[J].出版科学,2016,24(03):96-101.   \n[10] Robin B R， McNeil S G. Digital storytelling[J]. The International Encyclopedia of Media Literacy， 2019: 1-8.   \n[11] Lan M, Tan C L, Su J, et al. Supervised and traditional term weighting methods for automatic text categorization[J]. IEEE transactions on pattern analysis and machine intelligence, 2008， 31(4): 721-735.   \n[12] 原伟,李勤.语言学领域多语种本体知识库构建与新术语发现［J].外语电化教 学,2020 (03) :73-80,12.   \n[13] 张新军.数字时代的叙事学 玛丽-劳尔·瑞安叙事理论研究[M].成都：四川大学出 版社,2017.   \n[14] 刘阳.叙事研究——图书馆学研究的一种新方法[J].图书馆学研究,2011(21):2- 5,47.   \n[15] 尚必武.叙事转向:内涵与意义[J].英美文学研究论丛,2016(02):352-371.   \n[16] 李光助.图书馆叙事研究[J].图书馆理论与实践,2019(01):16-20.   \n[17] Waddell M, Clariza E. Critical digital pedagogy and cultural sensitivityinthelibraryclassroom:Infographicsanddigital storytelling[J]. College & Research Libraries News， 2018， 79(5): 228.   \n[18] Wood G，Vines J， Balaam M, et al. The department of hidden stories: Playfuldigitalstorytellingforchildreninapublic library[C]//Proceedings of the SIGCHI Conference on Human Factorsin Computing Systems. 2014: 1885-1894.   \n[19] FaggiolaniC， GalluzziA. Beyond' impressionability'andideology: the'narrativeturn'andtheanalysis techniques for'social librarianship'[J]． AIB STUDI，2017，57(3): 445-465.   \n[20] Frohlich D M, Rachovides D, Riga K, et al. StoryBank: mobile digital storytelling in a development context[C]//ProceedingsoftheSIGCHI Conference on Human Factors in Computing Systems. 2009: 1761-1770.   \n[21] Conrad S K. Documenting local history: a case study in digital storytelling[J]. Library Review， 2013，62(8/9): 459-471. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[22] Alcalá J C， Austin M, Granroth M, et al. Online inclusive pedagogy: A call-and-response dialogue on digital storytelling[J]. Education for Information， 2016，32(1): 71-85. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "作者：谢庆征（1995-）河北大学情报学2021级研究生。邮箱：793405020@qq.com负责文章选题、资料收集、分析及撰写。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Digital Storytelling and the Application in Library Science and Information Science ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Xie Qingzheng ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hebei University，Baoding O71000 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/Significance] The purpose of this paper is to study the theoretical overview of digital narrative and its application as a tool or method in the academic research and practice of Library Science and Information Science. [Method/Process] This paper summarizes the theoretical overview of digital narrative, such as the connotation， characteristics， elements and types of digital narrative, by studying the development history of narrative and digital narrative and combining it with corresponding academic research results. The analysis was carried out with the help of ITGinsight software. The theoretical studies and case studies related to Library Science and Information Science were also identified, and the status of digital narrative applications in Library Science and Information Science wassummarised accordingly. [Results/Conclusion] The findings suggest that digital narrative is a new manifestation of an ancient narrative tool in the digital and information age, with its flexibility， universality,dynamism and interactivity， as well as its multiple genres and forms of creation and expression， and that it can be applied in a wide range of fields of research and practice. A bibliometric and thematic analysis shows that digital storytelling have been used in education, computer science， comunications， literature, library and intelligence studies and in many areas of the humanities and social sciences， as well as in the natural sciences such as medicine and engineering and research on digital storytelling has focused on more than 20 topics such as education， social and public services， physical health， medicine and entertainment. In librarianship and intelligence research， digital storytelling provide an effective and direct contribution to academicresearch，information and knowledgeresource management， culturalheritagepreservation，libraryeducation， reading promotion and digital library construction， allowing libraries to better fulfil their functions. In short， digital narrative can be integrated into the study of librarianship and intelligence, and the integration of the two will be a good opportunity to promote joint development. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Narrative;Digital Storytelling;Library Science;Information Science;Application ",
+        "page_idx": 18
+    }
+]

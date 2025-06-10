@@ -1,0 +1,334 @@
+# 串联电池组改进电感型均压电路研究
+
+杨坚　张巧杰
+
+（北京信息科技大学自动化学院 北京 100192)
+
+![](images/180b72c735623ab76f1dbffe715b935d0b21d43dbfb9a3295f1b2465eb18e68f.jpg)
+
+杨坚男1994年生，硕士研究生，主要从事电力电子技术方面的研究。
+
+摘要：针对经典电感型均衡电路只能在相邻电池组间自高向低单向均衡电压的问题，提出一种改进电感型均衡电路，不仅可以实现相邻电池之间的双向均衡电压，而且通过控制开关管的通断，可以实现任意串联电池组间能量由高向低转移。对该电路进行了电路分析，导出了均衡电流值。通过Simulink对串联铅酸蓄电池组均衡电路进行仿真，验证了改进电感型均衡电路的可行性；与经典电感型均衡电路进行对比，结果表明改进电感型均衡电路简单，提高了均衡效率，减小了电路损耗，优化了均衡效果。
+
+关键词：均衡电路 电能转移 主动均衡 电路分析效率损耗中图分类号：TM912
+
+# Research on Improved Inductance Voltage Sharing Circuit of Series Battery Pack
+
+![](images/8dde9fd87d2e75f5eff0c796dbda58f8cf7a5bd2de13d3f8157ddb6a97c3baec.jpg)
+
+Yang Jian Zhang Qiaojie (Beijing Information Science and Technology UniversityBeijing100192 China）
+
+张巧杰女 1978年生，博士，副教授，主要从事电力电子与电力传动方面的研究。
+
+Abstract: Aiming at the problem that the classical inductive balance circuit can only self-go high low unidirectional equalization voltage between adjacent battery packs, an improved inductance equalization circuit is proposed,which can not only realize bidirectional equalization voltage between adjacent batteries,and by turning the switch on and off,any series between the battery pack energy transfer from high to low can be achieved. Through the circuit analysis, the equilibrium current value is derived. The simulation of the balanced circuit of the series lead-acid battery through Simulink verifies the feasibility of the improved equalization circuit. Compared with the classical inductance equalization circuit, the improvement of the inductance equalization circuit is simple, the equalization efficiency is improved, the circuit loss is reduced ,and the balance effect is optimized.
+
+Keywords: Balance circuit, power transfer, take the initiative to balance,circuit analysis, effectiveness,loss
+
+# 1 引言
+
+随着社会发展的需要，蓄电池被广泛应用。为了满足用电设备电压和功率的要求，常对蓄电池进行串联使用，由于单体电池之间的内阻差异、容量差异、极化现象差异、自放电差异、效率差异等导致串联蓄电池组性能和寿命受到了严重的影响，所以实现电池组电压均衡很有必要。
+
+目前，均衡方式主要分为能量消耗型和能量转移型。能量消耗型是电压过高的电池与电阻并联，使电能经电阻损耗，不适用于容量较大的电池组；能量转移型是利用电容、电感或者变压器作为储能或能量传输元件，通过开关器件使电能在单体电池之间或单体电池与电池组之间进行电能转移。
+
+如A.C.Baughman、哈尔滨工业大学马秀娟等利用电容作为储能装置，通过控制逻辑开关使电容与不同单体电池并联，电压高的电池给电容充电，电容再给电压低的电池充电，如果电压差很小，则需要很长的均衡时间；吉林大学刘宏伟等人所研究的变压器型均衡电路，因变压器体积大、质量重、线圈漏感大，变压器损耗大，使用较少。经典电感型均衡电路将Cuk电路作为基本均衡单元，天津大学唐林对此进行了研究，由于电路结构的局限性，只能实现相邻电池间自高向低的单向均衡。
+
+针对经典电感型均衡电路只能在相邻单体之间自高向低进行电压均衡的问题，本文提出改进电感型均衡电路，简化了均衡电路结构，减少了电感电容的个数，通过控制开关管的通断，可以实现串联电池组中电能由电压高的任意单元向电压低的任意单元均衡充电，不限于相邻单体电池之间的单向电压均衡，并可以提升均衡效率，减少均衡过程中的电能损耗，优化均衡效果。Simulink仿真实验表明了改进电感型均衡电路的可行性，通过与经典电感型均衡电路对比，验证了改进电感型均衡充电电路效率高、损耗小、均压效果良好的优点。
+
+# 2 经典电感型均衡电路
+
+# 2.1 工作原理
+
+以4台蓄电池串联为例，经典电感型均衡电路如图1所示，两个相邻的单体电池有一个均衡单元（图中点划线部分），均衡单元为典型Cuk斩波电路，等效电路如图2所示，由电感 $L _ { 1 }$ 和 $L _ { 2 }$ 、电容 $C _ { 1 }$ 、MOSFET开关管 $\mathrm { Q } _ { x }$ 和二极管 $\mathrm { V D } _ { 1 }$ 组成。经典电感型均衡电路电能只能在相邻的单体之间自高向低单向转移，即电能只能由电压高的单体电池$\mathrm { C E L L } _ { x }$ 向电压低的单体电池 $\mathrm { C E L L } _ { x + 1 }$ 转移，不能由单体电池 $\mathrm { C E L L } _ { x + 1 }$ 向单体电池 $\mathrm { C E L L } _ { x }$ 转移。当电池$\mathrm { C E L L } _ { x }$ 电压高于 $\mathrm { C E L L } _ { x + 1 }$ 电压，均衡时对开关管 $\textstyle \mathrm { \mathrm { ~ Q ~ } } _ { x }$ 进行PWM控制即可实现电能由电池 $\mathrm { C E L L } _ { x }$ 向电池$\mathrm { C E L L } _ { x + 1 }$ 转移；而当电池组中最后一个电池的电压比电池 $\mathrm { C E L L } _ { 1 }$ 高时，则无法进行均衡。
+
+![](images/a5d9f128f90eaa8a24bced4d14e3902849fa1a6c9279439d50a21bf71b2f6def.jpg)  
+图1经典电感型均衡电路拓扑结构
+
+![](images/9f2c0f1ba4f213410cb5ec6d5d1b86621e4c813e21c166bfd49c0579d1d44a9b.jpg)  
+Fig.1 Classic inductive balance circuit topology   
+图2均衡单元Cuk 等效电路  
+Fig.2Equalization unit Cuk equivalent circuit
+
+假设单体电池 $\mathrm { C E L L } _ { x }$ 的电压高于 $\mathrm { C E L L } _ { x + 1 }$ 的电压，开关管 $\textstyle \mathrm { Q } _ { x }$ 导通时电能转移回路如图3a所示。其中， $i _ { 1 }$ 为电池 $\mathrm { C E L L } _ { x }$ 的均衡放电电流； $i _ { 2 }$ 为电池 $\mathrm { C E L L } _ { x + 1 }$ 的均衡充电电流，在开关导通期间电池$\mathrm { C E L L } _ { x }$ 的放电和电池 $\mathrm { C E L L } _ { x + 1 }$ 的充电同时进行，电能由电池 $\mathrm { C E L L } _ { x }$ 向电池 $\mathrm { C E L L } _ { x + 1 }$ 转移。
+
+当开关管 $\textstyle \mathrm { Q } _ { x }$ 关断时电能转移回路如图3b所示，电池 $\mathrm { C E L L } _ { x }$ 的放电和电池 $\mathrm { C E L L } _ { x + 1 }$ 的充电同时进行，电能由电池 $\mathrm { C E L L } _ { x }$ 向电池 $\mathrm { C E L L } _ { x + 1 }$ 转移。
+
+# 2.2参数计算
+
+如图3b所示， $I _ { L 1 }$ 为电感 $L _ { 1 }$ 的电流平均值； $V _ { \mathrm { i } }$ 为 $\mathrm { C E L L } _ { x }$ 的电压； $I _ { \mathrm { i } }$ 为 $i _ { 1 }$ 的平均值； $ { \boldsymbol { V } } _ { \mathrm { o } }$ 为 $\mathrm { C E L L } _ { x + 1 }$ 的电压； $I _ { \mathrm { o } }$ 为 $i _ { 2 }$ 的平均值； $V _ { C 1 }$ 为电容 $C _ { 1 }$ 的平均电
+
+![](images/bef97c570d788bc94003bbfde411f7c337215a9aa4db34c31c5a0d5463554e07.jpg)  
+图3开关管导通和关断时电流流向
+
+压值。
+
+根据电路分析可知，开关管 $\mathrm { Q } _ { x }$ 关断期间， $L _ { 1 }$ 的电感电流减少量为
+
+$$
+\Delta I _ { L 1 ( \mathrm { o f f } ) } = - \frac { V _ { C 1 } - V _ { \mathrm { i } } } { L _ { 1 } } T _ { \mathrm { o f f } } = - \frac { V _ { C 1 } - V _ { \mathrm { i } } } { L _ { 1 } } ( 1 - D ) T _ { \mathrm { s } }
+$$
+
+式中， $D$ 为占空比； $T _ { \mathrm { s } }$ 为周期； $T _ { \mathrm { o f f } }$ 为开关管关断时间。
+
+在经典Cuk电路中，输入输出的电压关系为
+
+$$
+V _ { \circ } = D V _ { C 1 } = \frac { D } { 1 - D } V _ { \mathrm { { i } } }
+$$
+
+$$
+V _ { C 1 } = \frac { V _ { \mathrm { o } } } { D } = \frac { V _ { \mathrm { i } } } { 1 - D } = V _ { \mathrm { o } } + V _ { \mathrm { i } }
+$$
+
+$$
+V _ { \mathrm { i } } I _ { \mathrm { i } } = V _ { \mathrm { o } } I _ { \mathrm { o } }
+$$
+
+将式（2）、式（3）代入式（1）中，可得
+
+$$
+\Delta I _ { L 1 ( \mathrm { o f f } ) } = \frac { V _ { \mathrm { o } } } { L _ { 1 } } ( 1 { - } D ) T _ { \mathrm { s } }
+$$
+
+定义 $\delta _ { 1 } = \Delta I _ { L 1 } / 2 I _ { L 1 }$ 为电感电流的相对波动系数，其中 $\Delta I _ { L } / 2$ 为电感电流波动峰值，可得
+
+$$
+L _ { 1 } = \frac { \left( 1 - D \right) ^ { 2 } R } { 2 D f _ { \mathrm { s } } \delta _ { 1 } }
+$$
+
+其中， $R$ 为负载电阻，即电池内阻。
+
+定义 $\delta _ { \scriptscriptstyle 2 } = \Delta I _ { L 2 } / 2 I _ { L 2 } \ i _ { 2 }$ 为电感 $L _ { 2 }$ 的相对波动系数，可得 $L _ { 2 }$ 的计算式为
+
+$$
+L _ { 2 } = \frac { ( 1 - D ) R } { 2 \delta _ { 2 } f _ { \mathrm { s } } }
+$$
+
+开关管导通期间，有
+
+$$
+I _ { C 1 } = C _ { 1 } \frac { \mathrm { d } V _ { C 1 } } { \mathrm { d } t }
+$$
+
+定义 $\gamma = \Delta V _ { C 1 } / V _ { C 1 }$ ，其中 $\Delta \overline { { V _ { C 1 } } }$ 为电容脉动电压峰－峰值， $V _ { C 1 }$ 为电容平均电压值， $I _ { C 1 }$ 为电容 $C _ { 1 }$ 电流平均值，且
+
+$$
+\Delta \overline { { V _ { C 1 } } } = \frac { I _ { C 1 } D T _ { \mathrm { s } } } { C _ { 1 } } { = } \frac { I _ { L 2 } D } { C _ { 1 } f _ { \mathrm { s } } } { = } \frac { I _ { \circ } D } { C _ { 1 } f _ { \mathrm { s } } }
+$$
+
+$$
+C _ { 1 } = \frac { D ^ { 2 } } { R \gamma f _ { \mathrm { s } } }
+$$
+
+# 3 改进电感型均衡电路
+
+# 3.1 工作原理
+
+根据上述经典电感型均衡电路的特点，为了实现相邻单体电池电能的双向流动，缩短均衡时间，达到更好的均压效果，对经典Buck-Boost电路进行改进并应用到均衡电路中。经典Buck-Boost电路如图4a所示，将二极管 $\mathrm { V D } _ { 1 }$ 由一个MOSFET开关管 $\mathbf { Q } _ { 2 }$ 取代，确保电能的双向流动和电感电流可以工作在连续状态。输入电压源代表一组蓄电池组，负载表示单个电池或多个串联的电池单元。改进后的Buck-Boost电路如图4b所示。
+
+![](images/fb6c7e52c3df665f3fe712d71f70f957a737b5a8ef103dbc572d1d2eba0c40fe.jpg)  
+Fig.3Current flows when the switch is on and off   
+图4经典和改进Buck-Boost 电路  
+Fig.4Classical and improved Buck-Boost circuit
+
+本文以4台蓄电池串联为例，均衡电路结构如图5所示。该电路结构在不使用变压器的情况下，通过控制开关管的通断，使串联电池组中高电压的任意电池单元向低电压的任意电池单元流动，不局限于电池单体之间自高向低的电压均衡。这种电路结构可以运用在串联电池组充电或放电等运行过程中，利用电池组间电压的差异，实时均衡串联电池组中单体电池之间的电压不平衡。
+
+![](images/34c04d257c7f4c5a8a1e88b3a904dec3c0b1e040caa66b2c9db569992c7bf035.jpg)  
+图5改进型电感均衡电路拓扑
+
+假设单体电池 $\mathrm { C E L L } _ { 1 }$ 电压高于 $\mathrm { C E L L } _ { 2 }$ 、 $\mathrm { C E L L } _ { 3 }$ ，$\mathrm { C E L L _ { 4 } }$ 电压，需要将 $\mathrm { C E L L } _ { 1 }$ 中的电能向 $\mathrm { C E L L } _ { 2 }$ ，$\mathrm { C E L L } _ { 3 }$ 、 $\mathrm { C E L L } _ { 4 }$ 转移， $i _ { 1 }$ 为输入端电池 $\mathrm { C E L L } _ { 1 }$ 的均衡放电电流， $i _ { 2 }$ 为输出端电池 $\mathrm { C E L L } _ { 2 }$ ， $\mathrm { C E L L } _ { 3 }$ ，$\mathrm { C E L L _ { 4 } }$ 的均衡充电电流，控制开关管 $\mathbf { Q } _ { 1 }$ 和 $\mathrm { Q } _ { 4 }$ 的通断，其电能转移回路如图6所示，电能由电池$\mathrm { C E L L } _ { 1 }$ 向电池 $\mathrm { C E L L } _ { 2 }$ ， $\mathrm { C E L L } _ { 3 }$ 、 $\mathrm { C E L L _ { 4 } }$ 转移，进行电压均衡。若由 $\mathrm { C E L L } _ { 2 }$ ， $\mathrm { C E L L } _ { 3 }$ ， $\mathrm { C E L L _ { 4 } }$ 组成的电池组向 $\mathrm { C E L L } _ { 1 }$ 转移电能，则电流方向相反。
+
+![](images/17bd7a672e7b64452f35676ab053299e9cc314af172ec00b18127fea3e41ece9.jpg)  
+Fig.5Improved inductance equalization circuit topology   
+图6开关 $\textstyle \mathrm { \mathrm { ~ Q _ { 1 } ~ } }$ 、 $\mathrm { Q } _ { 4 }$ 导通时的电流流向  
+Fig.6The current flows when switches $\textstyle \mathrm { Q } _ { 1 }$ and $\mathrm { Q } _ { 4 }$ are on
+
+根据电路分析， $\mathrm { \Delta Q } _ { 1 }$ 导通期间电感电流的增长量为
+
+$$
+\Delta I _ { L ( \mathrm { o n } ) } = \frac { V _ { \mathrm { i } } } { L } T _ { \mathrm { o n } } = \frac { V _ { \mathrm { i } } } { L } D T _ { \mathrm { s } }
+$$
+
+式中， $T _ { \mathrm { o n } }$ 为开关管导通时间。
+
+在 $\textstyle \mathbf { Q } _ { 1 }$ 截止期间，电感电流的减小量为
+
+$$
+\Delta I _ { L ( \mathrm { o f f } ) } = \frac { V _ { \mathrm { o } } } { L } ( T _ { \mathrm { s } } - T _ { \mathrm { o n } } ) = \frac { V _ { \mathrm { o } } } { L } ( 1 - D ) T _ { \mathrm { s } }
+$$
+
+开关管稳态工作时， $\textstyle \mathrm { \mathrm { Q } } _ { 1 }$ 导通期间电感电流的增长量等于在其截止期间的减小量，可得
+
+$$
+\frac { V _ { \circ } } { V _ { \mathrm { i } } } = \frac { D } { 1 - D }
+$$
+
+根据式 （13)，对于每个均衡单元，两个开关管在互补模式下驱动，其占空比 $D$ 由均衡单元的输入和输出电压的函数确定，即
+
+$$
+D = \frac { V _ { \circ } } { V _ { \mathrm { i } } + V _ { \circ } }
+$$
+
+该均衡电路的电路结构可以适用于任何电池串联结构中，串联在一起的电池单元的个数为 $N$ ，则均衡单元的个数为 $N - 1$ ， $m$ 为均衡单元输入端电池个数，mEint[1； $N - 1 ]$ ， $V _ { \mathrm { C E L L } \acute { k } }$ 为对应的电池电压。根据式（14）可得各个均衡单元的占空比计算式为
+
+$$
+D _ { m } = \frac { V _ { \circ m } } { V _ { \mathrm { i } m } + V _ { \circ m } }
+$$
+
+各个均衡单元输入电压 $V _ { \mathrm { i } m }$ 和输出电压 $V _ { \mathrm o m }$ 的计算式为
+
+$$
+V _ { \mathrm { { i } n } } = \sum _ { k = 1 } ^ { m } V _ { \mathrm { { C E L L } } k }
+$$
+
+$$
+V _ { \circ m } = \sum _ { k = m + 1 } ^ { m } V _ { \mathrm { C E L L } k }
+$$
+
+与经典电感型均衡电路分析进行对比，改进电感型均衡电路结构简单，减少了电感、电容和二极管的个数；工作过程也得到了简化，易于串联电池组间均压，在实际操作中容易控制；改进电感型均衡电路也克服了经典电感型均衡电路只能在相邻单体之间自高向低单向均衡电压的问题。
+
+# 3.2均衡电流
+
+改进电感型均衡电路中的电能传递是通过均衡电流的方式由电压高的电池单元流向电压低的电池单元，均衡电流 $I _ { L m }$ 的产生是由于均衡单元中电感器两侧电压的不平衡。
+
+上述情况下，均衡电流是由均衡单元中电池电压和寄生电阻之间的电位差定义的。图7a、图7b为一个均衡单元的等效电路，电流由电压高的一端流向电压低的一端
+
+![](images/caa091a3c0c78129b4a081c3eb222c3418147091b4989512813f4fd5d7757658.jpg)  
+图7均衡电流方向  
+Fig.7Balance current direction
+
+由式（13）、式（15）可知，若不考虑开关管 内阻和电感电阻，均衡单元输入单元和输出单元平 衡，则
+
+$$
+D _ { m } V _ { \mathrm { i } m } = ( 1 - D _ { m } ) V _ { \circ m }
+$$
+
+若 $D _ { m } V _ { \mathrm { i } m } > ( 1 - D _ { m } ) V _ { \mathrm { o } m }$ ，能量转移和均衡电流 的方向见图7a；若 $D _ { m } V _ { \mathrm { i } m } < ( 1 - D _ { m } ) V _ { \mathrm { o } m }$ ，则电流方 向相反，见图 $7 6$ 。
+
+若考虑该均衡单元中的开关管和电感、电阻，则 $D _ { m } V _ { \mathrm { i } m } = ( 1 - D _ { m } ) V _ { \mathrm { o } m }$ 转化为
+
+$$
+\begin{array} { c } { { D _ { m } V _ { { \mathrm { i } m } } - ( R _ { C i m } + R _ { \mathrm { Q } ( 2 m - 1 ) } + R _ { L m } ) D _ { m } I _ { L m } } } \\ { { \ = ( R _ { \mathrm { o } m } + R _ { \mathrm { Q } 2 m } + R _ { L m } ) ( 1 - D _ { m } ) I _ { L m } + ( 1 - D _ { m } ) V _ { \mathrm { o } m } } } \end{array}
+$$
+
+其中， $R _ { \mathrm { Q } ( 2 m - 1 ) }$ 和 $R _ { 0 2 m }$ 为开关管静态漏源电阻； $R _ { C { \mathrm { i m } } }$ 、$R _ { c o m }$ 为一个均衡单元输入和输出单元的内阻； $R _ { L m }$ 为电感内阻。
+
+由式（19）可得均衡电流的表达式为
+
+$$
+I _ { L m } = \frac { D _ { m } V _ { \mathrm { i m } } - ( 1 - D _ { m } ) V _ { \mathrm { o m } } } { \alpha _ { m } [ R _ { C \mathrm { i } m } + R _ { \mathrm { Q } ( 2 m - 1 ) } + ( 1 - D _ { m } ) ( R _ { C \mathrm { o } m } + R _ { \mathrm { Q } 2 m } ) + R _ { L m } ] }
+$$
+
+输入和输出单元内阻是均衡单元中构成输入和输出单元的电池组内阻总和。如果电池内阻相等，可得
+
+$$
+R _ { C \mathrm { i } m } = m R _ { C }
+$$
+
+$$
+R _ { C \circ m } = ( N - m ) R _ { C }
+$$
+
+其中， $R _ { C }$ 为一个电池内阻。如果各开关管电阻 $R _ { \mathrm { Q } }$ 相等，则均衡电流可以简化为
+
+$$
+I _ { L m } = \frac { D _ { m } V _ { \mathrm { i } m } - ( 1 - D _ { m } ) V _ { \mathrm { o } m } } { [ D _ { m } m + ( 1 - D _ { m } ) ( N - m ) ] R _ { C } + R _ { \mathrm { Q } } + R _ { L m } }
+$$
+
+式（23）表明每个电感上均衡电流的产生主要来自输入和输出单元之间电压的不平衡。为了保持电压均衡，均衡电流的方向是从电池电压高的一侧流向电池电压低的一侧。
+
+如果均衡单元存在电压不平衡，则均衡电流从电压高的单元流向电压低的单元。当均衡过程开始，输入和输出单元间电位差较大时，均衡电流的绝对值越大。随着均衡过程的进行，当输入和输出单元间电位差减小时，均衡电流也随之减小。
+
+# 4 仿真实验
+
+基于上述对经典电感型均衡电路和改进电感型均衡电路的分析，搭建Simulink仿真进行对比。仿真实验中电池选用阀控式铅酸蓄电池参数，单体电池电压12V，容量 $2 4 \mathrm { A \cdot h }$ 。
+
+经典电感型均衡电路中各个开关管的占空比选0.5。改进电感型均衡电路中，各个开关管的占空比可根据式（15）～式（17）计算获得。占空比具体设置见表1。
+
+表1占空比设置表Tab.1 Duty setting table  
+
+<html><body><table><tr><td>开关管</td><td>改进电感型均衡电路</td><td>经典电感型均衡电路</td></tr><tr><td>Q1</td><td>0.75</td><td>0.50</td></tr><tr><td>Q2</td><td>0.25</td><td>0.50</td></tr><tr><td>Q3</td><td>0.50</td><td>0.50</td></tr><tr><td>Q4</td><td>0.25</td><td>1</td></tr><tr><td>Q5</td><td>0.50</td><td>1</td></tr><tr><td>Q6</td><td>0.75</td><td>1</td></tr></table></body></html>
+
+因为纹波电流一般设定为最大输出电流的$1 0 \% \sim 3 0 \%$ ，所以电感电流纹波系数选0.2。直流的电压纹波系数不应大于 $2 \%$ ，所以电容电压纹波系数选0.01，频率选 $1 0 \mathrm { k H z }$ 。
+
+由电感和电容等参数通过式 (6)、式（7)、式（10）可计算得出经典电感型均衡电路其中任一均衡模块的电感和电容参数，即 $L _ { 1 } = 1 2 5 \mathrm { \textmu H }$ ， $L _ { 2 } =$ $1 2 5 \mu \mathrm { H }$ ， $C _ { 1 } = 2 5 0 \mu \mathrm { F }$ 。改进电感型均衡电路中，电感也选 $1 2 5 \mu \mathrm { H }$ 。具体参数设置见表2。
+
+Tab.2Simulation parameters setting table   
+
+<html><body><table><tr><td>参数</td><td>经典电感型均衡电路</td><td>改进电感型均衡电路</td></tr><tr><td>充电电压/V</td><td>48</td><td>48</td></tr><tr><td>单体电池电压/V</td><td>12</td><td>12</td></tr><tr><td>频率/kHz</td><td>10</td><td>10</td></tr><tr><td>MOS 管内阻/mΩ</td><td>25</td><td>25</td></tr><tr><td>电感/uH</td><td>125</td><td>125</td></tr><tr><td>仿真时间/min</td><td>10</td><td>10</td></tr></table></body></html>
+
+将4台12V电池模型串联，搭建经典电感型均衡电路和改进电感型均衡电路，对比电压均衡效果。为了缩短仿真时间，将电池容量缩小为 $2 . 4 \mathrm { A } \cdot \mathrm { h } .$ 0基于经典电感型均衡电路只能在相邻单体之间自高向低进行均衡，所以4台串联单体电池电压依次由高到低进行设置， $\mathrm { C E L L } _ { 1 }$ 初始电压为 $1 2 . 0 9 \mathrm { V }$ ，$\mathrm { C E L L } _ { 2 }$ 初始电压为 $1 2 . 0 3 \mathrm { V }$ ， $\mathrm { C E L L } _ { 3 }$ 初始电压为$1 1 . 9 8 \mathrm { V }$ ， $\mathrm { C E L L _ { 4 } }$ 初始电压为 $1 1 . 9 2 \mathrm { V }$ 。
+
+# 4.1效率对比
+
+在无充电电流模式下，至均衡动作完成，对改进电感型均衡电路和经典电感型均衡电路单位时间内的转移电量进行对比，即效率对比。改进前后电池均压过程如图8所示，电压数据见表3。由于电池电量与电池电压成正比关系，比较电感均衡电路改进前后单位时间内电压变化的大小进行效率比较。
+
+图8中，改进电感型均衡电路在 $3 . 7 \mathrm { m i n }$ 时4台单体电池电压均达到12V；经典电感型均衡电路经过 $1 0 \mathrm { { m i n } }$ 仿真时间，只能达到基本均压，并未达到完全均衡。即在单位时间内，改进电感型均衡电路效率高于经典电感型均衡电路，从而得出改进电感型均衡电路效果好于经典电感型均衡电路的结论。
+
+![](images/f507bb37b53e21d88475f89c4f3c60ce9376454dada866b743f504206d6dda1f.jpg)  
+(a）改进电感型均衡电路均压过程
+
+![](images/11dd15a25174ce0c8bb479d30f48869ff47a55b8ac91f4d01e24b8c76adede17.jpg)  
+图8改进和经典电感型均衡电路均压过程 Fig.8Improved and classical inductive balance circuit equalization process
+
+表2仿真参数设置表  
+表3四电池串联均衡前后电压数据  
+
+<html><body><table><tr><td>均衡前电压 /V</td><td>改进电感型均衡后电压 /V (3.7min)</td><td>经典电感型均衡后电压 /V (10min)</td></tr><tr><td>12.09</td><td>12</td><td>12.02</td></tr><tr><td>12.03</td><td>12</td><td>12.00</td></tr><tr><td>11.98</td><td>12</td><td>11.99</td></tr><tr><td>11.92</td><td>12</td><td>11.98</td></tr><tr><td>48.02 (总计)</td><td>48 (总计)</td><td>47.98 (总计)</td></tr></table></body></html>
+
+为进一步说明改进前后的效率关系，对改进前后均衡电路其中一个均衡单元，即两电池串联进行仿真。在电池充电模式下，进行相同时间均衡。具体数据见表4。
+
+Tab.3Voltage datas before and after four batteries in series   
+表4两电池串联均衡前后电压数据  
+Tab.4Voltage datas before and after two batteries in series   
+
+<html><body><table><tr><td>均衡前电压 /V</td><td>改进电感型均衡后电压 /V (10min)</td><td>经典电感型均衡后电压 /V (10min)</td></tr><tr><td>12.95</td><td>12.95</td><td>12.20</td></tr><tr><td>12.20</td><td>12.79</td><td>12.50</td></tr><tr><td>25.15 (总计)</td><td>25.65 （总计)</td><td>25.45(总计)</td></tr></table></body></html>
+
+由表4可知，在电池充电模式下，相同的均衡时间内，改进电感型均衡电路均衡电压更快，且改进电感型提高均衡电路效率更高。
+
+# 4.2损耗对比
+
+损耗对比即比较固定时间内损耗在均衡电路寄生电阻上的电能。为方便分析电感均衡电路改进前后损耗大小的关系，对两电池串联进行仿真实验。
+
+在相同均衡时间的情况下，对比均衡电流值平方与寄生总电阻乘积的大小，可得改进前后的电路损耗对比。
+
+如图9所示，改进电感型均衡电路最大均衡电流值为20A，经典电感型均衡电路最大均衡电流值为15A。改进和经典电感型均衡电路寄生电阻值分别为 $1 0 . 8 \Omega$ 和 $4 6 . 5 \Omega$ ，见表5。
+
+![](images/8b2b626ce41fcecb5cb016afae438890d482eff768ded659d2c9467841f3d0c1.jpg)  
+图9改进和经典电感型均衡电路均衡电流值 Fig.9Improved and classical inductive balance circuit equalizer current value
+
+表5均衡电路寄生电阻值  
+Tab.5Balance circuit parasitic resistance   
+
+<html><body><table><tr><td>改进电感型均衡电路 /Ω (10min)</td><td>经典电感型均衡电路 /Ω (10min)</td></tr><tr><td>MOS管（2个）0.4×2</td><td>MOS管（1个）0.4×1</td></tr><tr><td>电感（1个）10×1</td><td>电感（2个）10×2</td></tr><tr><td>1</td><td>电容（1个）0.1×1</td></tr><tr><td>1</td><td>二极管（1个）26</td></tr><tr><td>10.8 (总计)</td><td>46.5 (总计)</td></tr></table></body></html>
+
+由电能损耗 $\ c =$ 均衡电流值 $^ 2 \times$ 寄生电阻值，通过计算可得经典电感型均衡电路损耗大于改进电感型均衡电路损耗。改进电感型均衡电路不仅在效率上实现了提升，而且降低了电路损耗。
+
+# 4.3应力大小对比
+
+为了对比电路应力大小，对经典电感型均衡电路和改进电感型均衡电路中均衡单元进行仿真实验。
+
+![](images/1829dc9d174df21f6b2212f400c86ba44a0a04a3bf2bab7f69e7d0107916360a.jpg)  
+Fig.10MOS tube、diode voltage and current of classical and improved inductive balance circuit
+
+图10经典和改进电感型均衡电路MOS管/二级管电压与电流
+
+综上所述，改进电感型均衡电路结构简单，可以适用于多种串联电池组工作；相比于经典电感型均衡电路，效率更高，损耗更小，电路应力较小，均衡时间加快，均压效果良好。
+
+# 5 结论
+
+本文基于经典电感型均衡电路只能在相邻单体间自高向低进行电压均衡的问题，提出改进电感型均衡电路，以电感和开关管作为基础器件的均衡系统，结合改进Buck-Boost电路所设计的均衡电路，可以适用于多级电池串联，不同类型电池的串联，在充电、放电以及使用过程中都可实现均衡。相对于经典电感型均衡电路，本文所提出的电路开关器件少，电路简单易于操作，均衡效果明显。最后通过仿真实验验证了所提方法具有良好的效果。
+
+# 参考文献
+
+[1] 吕文强．动力电池组均衡充电协调控制策略研究[D]．长春：吉林大学，2016.  
+[2] 邵汉桥，张维，陈鹏云．我国电动汽车发展状况分析[J]．华中电力，2010，23(5)：10-15.Shao Hanqiao,Zhang Wei,Chen Pengyun.China'selectric vehicle development status analysis[J].Huazhong Electric Power, 2010,23(5):10-15.  
+[3] 汪渭滨．磷酸铁锂动力电池组均衡控制策略研究[D]．淮南：安徽理工大学，2016.  
+[4] Zaghib K,Dontigny M,Guerfi A,et al. Safe andfast-charging Li-ion battery with long shelf life forpower applications[J]. Journal of Power Sources,2011,196(8): 3949-3954.  
+[5] Dorin V Cadar, Dorin M Petreus, Toma M Patarau,An energy converter method for battery cellbalancing[C]. 33rd International Spring Seminar onElectronics Technology,2010: 290-293.  
+[6] 戴海峰，魏学哲，孙泽昌，等．电动汽车用锂离子动力电池电感主动均衡系统[J]．同济大学学报（自然科学版），2013，42(10)：1547-1553.Dai Haifeng,Wei Xuezhe,Sun Zechang,et aln. Anactive balancing system for inductive lithium-ionbatteries in electric vehicles[J]. Journal of TongjiUniversity(Natural Science),2013,42(10): 1547-1553.  
+[7] 王兆安，黄俊．电力电子技术[M]．北京：机械工程出版社，2009.  
+[8] Thanh Hai Phung,Alexandre Collet,Jean-ChristopheCrebier.An optimized topology for next-to-nextbalancing of series-connected Li-ion cells[J]. IEEETransactions on Power Electronics,2011,29(9):1374-1381.  
+[9] 郭军，刘和平，徐伟，等．纯电动汽车动力锂电池均衡充电的研究[J]．电源技术，2012，36(4)：479-482.Guo Jun,Liu Heping,Xu Wei, et al. Study onbalanced charging of lithium battery for pureelectric vehicle[J]. Power Technology, 2012,36(4):479-482.  
+[10］刘红锐．蓄电池均衡器及均衡策略研究[D]．天津：天津大学，2013.  
+[11] Zheng Zedong,Wang Kui, Xu Lie.A hybrid cascadedmultilevel converter for battery energy managementapplied in electric vehicles[J].IEEE Transactions onPower Electronics,2014,29(7): 3537-3546.  
+[12］邱斌斌，王智弘，李程，等．电池组用荷电状态均衡充电模糊控制策略[J]．电源学报，2015(2)：113-120.Qiu Binbin,Wang Zhihong,Li Cheng,et al. Voltagecontrol strategy based on equilibrium state of chargeof battery pack[J]. Journal of Power Supply,2015(2):113-120.

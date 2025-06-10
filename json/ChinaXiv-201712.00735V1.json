@@ -1,0 +1,373 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "下调RbAp48表达可抑制人宫颈癌MS751细胞株的迁移侵袭能力",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钟晶晶,杨旭锐,麦梅清,王旦旦,吕 琳,饶进军南方医科大学药学院，广东广州 510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 探讨下调RbAp48表达对人宫颈癌细胞迁移侵袭的影响及其作用机制。方法 siRNA下调RbAp48表达，以划痕实验、Transwell小室检测下调RbAp48表达后对人宫颈癌细胞株MS751迁移侵袭的影响，Westerm bolt检测Vimentin、N-cadherin、E-cadherin、Snail、Twist、MMP-2、TIMP-2蛋白的表达。结果下调RbAp48表达后MS751细胞的迁移和侵袭数均明显减少 $( P { < } 0 . 0 1 )$ ;其间质细胞表型蛋白Vimentin、N-cadherin、MMP-2表达明显受到抑制;上皮细胞表型蛋白E-cadherin、TIMP-2表达明显升高,显示MS751细胞的上皮-间充质样变(EMT)受到抑制。Snail、Twist表达水平也发生显著下调。结论下调RbAp48表达能有效抑制宫颈癌MS751细胞株的上皮-间充质样变，降低细胞的迁移侵袭能力;其作用机制与降低 Snail、Twist的表达有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：RbAp48；宫颈癌；迁移；侵袭；上皮-间充质样变 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of RbAp48 knockdown on migration and invasion of human cervical cancer cell line MS751 in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHONG Jingjing, YANG Xurui, MAI Meiqing, WANG Dandan,LU Lin, RAO Jinjun School of Pharmaceutical Sciences,Southern Medical University,Guangzhou 51o5l5,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigate theefectofRbAp48 knockdownonthe migrationand invasionof humancervicalcancer cells and explore the mechanism.Methods AsmallinterferenceRNA (siRNA)wasused to knock down the expreionof RbAp48 in MS751cels.Te changes incellmigration and invasion were evaluated using woundhealing assay and Transwel assayrespieltsfiiailst determined with Western blotting.Results After siRNA-mediated RbAp48 knockdown, MS751 cels showed a significantly reduced expression of RbAp48 with significantly suppressed cell migration and invasion $( P { < } 0 . 0 1 )$ . RbAp48 knockdown induced obviousdow-regulationofteexpresinsof interstitialcellpenotypeproteinsvimentin,N-caderi,andM-2 andup-regulationof epithelialcell phenotypeproteinsE-caderinandTIMP-2，suggesting the inhibitionof epithelialmesenchymal transition of thecels.The expressions of Snail and Twist were significantly down-regulated in thecells following RbAp48knockdown. ConclusionKnockdownof RbAp48cansignificantly inhibit epithelial-mesenchymal ransition and suppress the migration and invasion of cervical cancer celline MS751,the mechanism of which may involve the down-regulation of Snail and Twist expressions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: RbAp48; cervical cancer; migration; invasion; epithelial-mesenchymal transition ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "据美国癌症协会最新报告显示：宫颈癌位列全球女性恶性肿瘤发病和致死数的第4位，且发病人群越来越趋于年轻化[1-2],是威胁女性健康的重要杀手。尽管目前拥有放疗、化疗及外科手术等多种有效的方法治疗宫颈癌，但其致死率仍然居高不下，最主要的原因就是肿瘤发生了侵袭转移[3]。所以,寻找抗侵袭转移的新疗法已成为当前治疗宫颈癌的热点及难点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rb相关蛋白48(RbAp48)属WD-40蛋白家族,相对分子质量48000,为一种Rb结合蛋白，参与染色质装配、重塑及核小体修饰等，调控细胞的分化、发育及干细胞的自我更新等，是维持细胞稳定和发育的关键因子[4-5]。近年来研究发现RbAp48还参与了肿瘤的发生发展，与肿瘤的增殖、转移、复发和治疗抵抗有着密切的关系[6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本课题组前期研究发现,人宫颈癌细胞的RbAp48蛋白表达明显高于其癌旁组织细胞，下调RbAp48的表达后宫颈癌细胞的生长受到明显的抑制,表明RbAp48可能是治疗宫颈癌的一个潜在靶点[。至于下调RbAp48表达对宫颈癌细胞的迁移和侵袭会产生怎样的作用尚未见报道，本研究对此课题进行了探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 细胞株 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人子宫颈癌细胞株MS751购自中科院上海细胞库。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ctrl-siRNA、RbAp48-siRNA由广州市锐博生物科技有限公司合成；LipofectamineRNAimax购自Invitrogen公司；兔抗人RbAp48单克隆抗体购自Abcam公司；兔抗人 $\\beta$ -actin、Vimentin、N-cadherin、E-cadherin、Snail、鼠抗人Twist、山羊抗兔IgG-二抗购自CST公司；兔抗人MMP-2、TIMP-2购自博士德公司;ECL化学发光试剂盒购自Millipore公司。其余试剂均为国产分析纯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3细胞培养与RNA干扰 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人宫颈癌细胞MS751用含 $10 \\%$ 胎牛血清和 $0 . 1 1 \\ \\mathrm { g / L }$ 丙酮酸钠的MEM培养基 $5 \\%$ （204号 $\\mathrm { C O } _ { 2 \\setminus 3 7 }$ ℃培养,取对数生长期细胞用于实验。实验设Control组(Lipofectamine)、对照序列组(Ctrl-siRNA）和实验组(RbAp48-siRNA)。转染前 $2 4 \\mathrm { h }$ 将细胞按 $4 \\times 1 0 ^ { 3 } ,$ 孔接种于96孔板， $4 \\times 1 0 ^ { 5 } ,$ 孔接种于6孔板中，确保转染时细胞达到 $5 0 \\%$ 汇合度，按照lipofectamineRNAimax说明书分别进行转染。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 划痕实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以每孔 $4 \\times 1 0 ^ { 5 }$ 细胞接种于6孔板，对照组(Ctrl-siRNA）和实验组（RbAp48-siRNA)转染后 $2 4 \\mathrm { ~ h ~ }$ ，用$2 0 0 ~ \\mu \\mathrm { L }$ 枪头均匀划痕，PBS清洗3遍，用含 $1 \\%$ 胎牛血清和 $0 . 1 1 \\ \\mathrm { g / L }$ 丙酮酸钠的MEM培养基培养。在划痕后0、$2 4 \\mathrm { h }$ 对划痕进行拍照。实验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5Transwell小室检测细胞的迁移能力 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照BD公司使用说明书，将Transwell小室置于24孔板中，下室加入 ${ 8 0 0 \\mu \\mathrm { L } }$ 含 $10 \\%$ 胎牛血清和 $0 . 1 1 \\ \\mathrm { g / L }$ 丙酮酸钠的MEM培养基，上室加入 $3 0 0 ~  { \\mu \\mathrm { L } }$ 含 $1 \\%$ 胎牛血清和 $0 . 1 1 \\ \\mathrm { g / L }$ 丙酮酸钠的MEM培养基，含对数生长期的MS751细胞 $2 \\times 1 0 ^ { 5 }$ 。培养 $4 8 \\mathrm { ~ h ~ }$ 后，将小室取出并用PBS清洗，对上室没有穿过的细胞用湿棉签轻轻擦掉，以 $100 \\%$ 结晶紫(无水甲醇配制)染色，在200倍显微镜下从小室的上、下、左、右、中共选取5个视野进行计数。实验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6Transwell小室检测细胞的侵袭能力",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照BD公司使用说明书，将Transwell小室置于24孔板中并在底部均匀涂上基质胶，下室加入 ${ 8 0 0 \\ \\mu \\mathrm { L } }$ 含 $10 \\%$ 胎牛血清和 $0 . 1 1 \\ \\mathrm { g / L }$ 丙酮酸钠的MEM培养基，上室加入 $3 0 0 ~  { \\mu \\mathrm { L } }$ 含 $1 \\%$ 胎牛血清和 $0 . 1 1 \\ \\mathrm { g / L }$ 丙酮酸钠的MEM培养基，含对数生长期的MS751细胞 $2 \\times 1 0 ^ { 5 }$ 个。培养48h后，将小室取出并用PBS清洗，对上室没有穿过的细胞用湿棉签轻轻擦掉，以 $100 \\%$ 结晶紫(无水甲醇配制)染色，在200倍显微镜下从小室的上、下、左、右、中共选取5个视野进行计数。实验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7Westernblot检测蛋白表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "siRNA转染 $4 8 \\mathrm { ~ h ~ }$ 后，分别提取各组细胞裂解 $1 0 \\mathrm { m i n }$ $1 2 \\ 0 0 0 \\ \\mathrm { r / m i n \\_ 4 \\ \\mathrm { ‰ } }$ 离心 $1 0 ~ \\mathrm { m i n }$ ,取上清，BCA法测总蛋白浓度;蛋白样品上样于 $12 \\%$ SDS-PAGE电泳，半干法转印到PVDF膜;室温下用含 $5 \\%$ 脱脂奶粉的TBST溶液封膜 $2 \\mathrm { h }$ ，一抗 $4 ^ { \\circ } \\mathrm { C }$ 孵育过夜；二抗室温孵育1h,ECL化学显影。实验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.8 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应用SPSS20.0和Excel软件进行分析，数据以均数±标准差表示，组间比较采用单因素方差分析，两两比较用SNK法，以 $P { < } 0 . 0 1$ 认为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1siRNA可有效下调MS751细胞中RbAp48的表达",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与Control组、Ctrl-siRNA阴性组相比,转染的3条RbAp48-siRNA001、002、003均显著降低RbAp48的表达，其中003序列下调效果较佳,被选做用于后续实验(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fed8c8b30f4a34b0d2ceb11bb366a01828396fe53ef767620a923a9f8796577.jpg",
+        "img_caption": [
+            "图1RbAp48-siRNA对MS751细胞RbAp48表达的下调作用 Fig.1 Effect of RbAp48-siRNA on RbAp48 expression in MS751 cells.A: Expression of RbAp48 detected by Western blotting;B:Quantitative analysis of the results of Western blotting. $* * P { < } 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2下调RbAp48表达可有效抑制MS751细胞的迁移",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们先前的研究发现人宫颈癌Hela（腺癌）、MS751(鳞癌)在转染RbAp48-siRNA后 $4 8 \\mathrm { ~ h ~ }$ 内未见明显细胞增殖抑制作用，尤其是MS751细胞株要在 $9 6 \\mathrm { ~ h ~ }$ 后才有明显的细胞抑制作用,鉴于人宫颈癌大多为鳞癌(约 $5 9 0 \\%$ ），所以本研究选用MS751细胞株观察下调RbAp48后在细胞增殖尚无明显受抑制时对迁移侵袭的作用。细胞划痕实验显示，转染 $4 8 \\mathrm { ~ h ~ }$ 后Control组及Ctrl-siRNA组划痕因细胞迁移而明显变窄，而",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RbAp48-siRNA组划痕仍保持较宽水平，表明细胞的迁移减慢(图2A)。同样，Transwell迁移实验显示，转染 $4 8 \\mathrm { ~ h ~ }$ 后,RbAp48-siRNA组较对照组迁移的细胞数量明显减少(图2B,C)。以上两个实验结果显示下调RbAp48表达后，MS751细胞的迁移受到明显抑制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/23effa33a9e6b98507b890716b729c0a51bb96c70bfcd5d9337ad9c760e04b80.jpg",
+        "img_caption": [
+            "图2下调RbAp48的表达对MS751细胞迁移的影响 Fig.2Effect of RbAp48 expresion down-regulation on migration of MS751 cels.A: Wound healing assay; B: Transwell assay; C:Quantitative analysis of cell migration. $^ { * * } P { < } 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3下调RbAp48表达可有效抑制MS751细胞的侵袭",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transwell侵袭实验显示，RbAp48-siRNA转染组较Control组及Ctrl-siRNA对照组穿过基质胶的侵袭细胞数量明显减少(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4下调RbAp48表达对MS751细胞中EMT相关表型蛋白表达的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与Control组、Ctrl-siRNA组相比，下调RbAp48表达后，可显著下调间充质细胞表型蛋白Vimentin、N-cadherin的表达，上调上皮型细胞表型蛋白E-cadherin的表达，显示下调RbAp48的表达可抑制MS751细胞的上皮-间充质样变(图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5下调RbAp48表达对MS751细胞MMP-2及 TIMP-2表达的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下调RbAp48表达后MS751细胞的基质金属蛋白酶2(MMP-2)表达下降，与之相反，其活性抑制物金属蛋白酶抑制物2(TIMP-2)的表达却明显增加(图5)，表明下调RbAp48后MS751细胞的侵袭细胞外基质的能力会受到抑制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6下调RbAp48表达对MS751细胞EMT上游调节蛋白表达的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Westernblot结果显示下调RbAp48表达可使MS751细胞EMT上游调节蛋白Twist、Snail表达下降（图6)，表明其抑制EMT的作用与Twist、Snail通路有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肿瘤之所以难以根治，一个重要原因是其具有侵袭转移能力，这是当前抗肿瘤的一大难题[8]。近年来研究证明，癌细胞发生的上皮-间充质样变(EMT)是肿瘤细胞迁移侵袭的一个关键因素[9-10]。所谓EMT是指上皮细胞在特定因素的刺激下细胞转化成具有活动能力强、能够在细胞基质间自由移动的间充质样细胞的过程。这种改变不仅仅是细胞形态学的改变，更重要的是基因表型的改变，这主要包括有(1)上皮细胞表型的降低或缺失，如E-钙黏蛋白等；(2)间质细胞表型呈现过表达，如波形蛋白、N-钙黏蛋白、基质金属蛋白酶(MMP)等。细胞一旦发生EMT样变，则细胞骨架结构会发生变化，细胞形态由立方形变为纺锤形，细胞间的明显黏附性下降，而运动能力明显增强，从而使细胞更易于迁移游动，同时由于MMP（尤其是MMP-2)的表达及活性增加，使细胞更具有侵袭性，易于发生转移。抑制肿瘤细胞EMT是当前抗肿瘤转移一个极具前途的靶向[1-12]",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/504119342a154091660ef4b0ce1e149cd51b1e9784180dbec452d830e608e436.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2efc1f3cbba1ef8d0cf4fc4c8746641e2b3cd042c927e1c870cff5806d0aa57.jpg",
+        "img_caption": [
+            "图4下调RbAp48的表达对MS751细胞Vimentin、N-cadherin、E-cadherin蛋白表达的影响Fig.4 Effect of RbAp48 knockdown on the expressionsof Vimentin,N-cadherin,and E-cadherin in MS751 cells.A: Western blotting; B: Quantitative analysis. $* * P { < } 0 . 0 1$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e5a91859ef4ffcc3658e28720005b292e9a1ba741b118f3c1ca8929b3c83da0.jpg",
+        "img_caption": [
+            "图5下调 $\\mathrm { R b A p 4 8 }$ 的表达对MS751细胞MMP-2和 TIMP-2蛋白表达的影响 Fig.5 Effect of RbAp48 knockdown on the expressions of MMP-2 and TIMP-2 in MS751 cells.A:Western blotting; B: Quantitative analysis. $^ { * * } P { < } 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5d24b276b3ad4f346a38aa78930f8d9f4a59a842bacd81999de4e33580276ce.jpg",
+        "img_caption": [
+            "图6下调RbAp48的表达对MS751细胞Twist、Snail蛋 白表达的影响 Fig.6 Effect of RbAp48 knockdown on the expressions of Twist and Snail in MS751 cells.A:Western blottng; B: Quantitative analysis. $* * P { < } 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究发现下调RbAp48表达后，MS751细胞的上皮细胞表型蛋白E-cadherin表达明显增加;E-cadherin是维持细胞上皮表型的重要分子，正常情况下细胞之间的E-cadherin通过胞外的免疫球蛋白结构域相互形成链接，并通过胞浆内的 $\\alpha , \\gamma$ 链接素(α、$\\gamma$ -catenin)与肌动蛋白骨架连接，从而形成稳定的细胞间接触，其表达量的变化是EMT最具标志性的指标之二[13]。结合我们的结果,由于E-cadherin 的上调,显示下调RbAp48后细胞间的粘附能力会有所增强，细胞的脱离会受到抑制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EMT另一个重要变化是Vimentin表达升高。Vimentin是细胞骨架中间纤维的一种，广泛存在于间充质细胞及中胚层来源的细胞中。对于上皮源性细胞，Vimentin表达增多会使得细胞骨架结构发生变化，细胞形态由立方形变为纺锤形，细胞黏附性下降，细胞运动能力增强，从而使细胞更易于迁移游动。此外，N-cadherin表达增多也是EMT的重要特征；与E-cadherin相反，在间质型细胞中，N-cadherin具有促进细胞运动和迁移的作用，其介导肿瘤细胞的迁移作用甚至超过E-cadherin所介导的细胞黏附作用。我们的结果发现经RbAp48-siRNA处理后间质细胞表型蛋白Vimentin、N-cadherin的表达均显著降低，说明下调RbAp48后抑制了宫颈癌MS751细胞的间充质样变，使细胞的迁移能力受到抑制，从而能够抑制肿瘤细胞的转移。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如前所述，MMP表达的增多及活性增强是EMT的一个重要特征，其中尤以MMP-2最具代表性，而TIMP-2是一个重要的金属蛋白酶抑制物，主要抑制MMP-2的活性，对其它多种MMP酶也具有抑制作用，同时还具有抑制新生血管生成的作用[14]；所以TIMP-2表达的升高也是抑制宫颈癌细胞侵袭能力的一个重要因素。我们的实验观察到下调RbAp48表达后MMP-2的表达受到一定程度的抑制，而TIMP-2表达却得到提升，这一升一降，也从肿瘤细胞对细胞外基质侵蚀的环节产生抑制MS751侵袭转移作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EMT的发生受到诸如非编码RNA、蛋白信号通路等多种因素的调节，其中Twist、Snail是两个比较明确且关键的调节蛋白。Twist属于碱性螺旋-环-螺旋转录因子家族，具有高度保守性，其基因5'端调节区域的启动子上游含有NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 、AP-2、SP-1和RB的结合位点，并受这些因子的调节;Twist能够抑制E-钙黏蛋白的表达，促进N-钙粘蛋白表达。Snail在正常上皮细胞中一般不表达，但在许多具有高转移特性的肿瘤细胞中常常呈现高表达，它能显著抑制E-钙黏蛋白及其它一些上皮细胞表型蛋白的表达，同时还会激活诸如波形蛋白、纤连蛋白及金属蛋白酶等间质细胞表型的表达[13.15]。本实验结果显示在下调RbAp48表达后，Twist、Snail蛋白的表达发生下调,表明下调RbAp48表达能够抑制EMT上游调节蛋白Twist、Snail,这对于MS751细胞EMT的发生具有负调控的作用，显然这与抗迁移侵袭有关，但至于更深层次的作用机制还有待进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肿瘤细胞侵润转移是宫颈癌致死的关键，宫颈癌细胞通过发生EMT从而引发转移及耐药都已得到证实，针对EMT发生通路的靶向治疗也日益受到重视，本研究发现下调 $\\mathrm { R b A p 4 8 }$ 的表达能有效抑制宫颈癌细胞株MS751的迁移和侵袭能力，这给根治宫颈癌提供了一个新思路。鉴于RbAp48在宫颈癌细胞中具有异常的高表达，其有望成为治疗宫颈癌的一个新靶点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Siegel RL,Miller KD,Jemal A.Cancer statistics,2O15[J].CA Cancer JClin,2015,65(1): 5-29.   \n[2]Torre LA,Bray F, Siegel RL,et al.Global cancer statistics,2012 [J].CA Cancer JClin,2015,65(2): 87-108.   \n[3]Gupta GP,Massagué J.Cancer metastasis:building a framework [J].Cell,2006,127(4): 679-95.   \n[4]Xiao LB,Tao YG,Li LL,et al. Polycomb group proteins and their roles in carcinogenesis[J].Chin Sci Bull, 2012,57(18): 2259-64.   \n[5]Zheng L,Tang W,Wei FH,et al.Radiation-inducible protein RbAp48 contributes to radiosensitivity of cervical cancer cells [J]. Gynecol Oncol,2013,130(3): 601-8.   \n[6]Richly H,Aloia L,Di Croce L.Roles of the polycomb group proteins in stem cells and cancer[J].Cell Death Dis,2O11,2(9): e204.   \n[7]钟晶晶,杨旭锐,麦梅清,等.下调RbAp48表达对Hela细胞株的生长 抑制作用[C]/广东省药理学会第七届2015学术交流大会论文汇编， 2015:163-4.   \n[8]Mitra A,Mishra L,Li SL.EMT,CTCs and CSCs in tumor relapse and drug-resistance[J]. Oncotarget, 2015,6(13): 10697-711.   \n[9]Lamouille S,Xu J,Derynck R.Molecular mechanisms of epithelialmesenchymal transition[J].Nat Rev Mol Cell Bio,2014,15(3): 178-96.   \n[10]Tam WL,Weinberg RA.The epigenetics of epithelial-mesenchymal plasticity in cancer[J].Nat Med,2013,19(11): 1438-49.   \n[11]Wang JQ,Wu KJ. Epigenetic regulation of Epithelial-Mesenchymal transition by hypoxia in cancer: targets and therapy[J].Curr Pharm Des,2015,21(10): 1272-8.   \n[12]Canadas I,Rojo F, Taus A,et al. Targeting Epithelial-to-mesenchymal transition with met inhibitors reverts chemoresistance in small cell lung cancer[J].Clin Cancer Res,2014,15,20(4): 938-50.   \n[13] Shamir ER,Pappalardo E,Jorgens DM,et al. Twist-induced dissemination preserves epithelial identity and requires E-cadherin [J].J Cell Biol,2014,204(5): 839-56.   \n[14]Carreira Falcao AS,Da Silva Kataoka MS,Picanco Diniz J,et al. A novel cell line derived from pleomorphic adenoma expresses MMP2,MMP9,TIMP1,TIMP2,and shows numeric chromosomal anomalies[J].PLoS One,2014,9(8): e105231.   \n[15]White RA,Neiman JM,Reddi A,et al. Epithelial stem cell mutations that promote squamous cell carcinoma metastasis[J].J Clin Invest,2013,123(10):4390-404.   \n[16]Qureshi R,Arora H,Rizvi MA.EMT in cervical cancer: its role in tumour progression and response to therapy[J].Cancer Lett,2015, 356(2 Pt B): 321-31. (编辑：经媛) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

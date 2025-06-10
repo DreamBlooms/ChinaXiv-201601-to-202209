@@ -1,0 +1,275 @@
+# 单亲家庭儿童相对剥夺感与心理适应的
+
+# 循环作用关系：一项追踪研究
+
+熊猛1.2 刘若瑾叶一舵(长江大学教育与体育学院心理学系，荆州 434023)
+
+(2 Department of Psychology, The University of Edinburgh,Edinburgh EH89JZ, UK)
+
+(福建师范大学心理学院，福州 350117)
+
+摘要本研究基于经典相对剥夺理论和发展情境理论，采用纵向设计，以湖北省某地区 273名单亲家庭儿童为被试，进行连续3次的追踪测查，考察单亲家庭儿童相对剥夺感与心理适应的特点及其循环作用关系。结果发现：(1)单亲家庭男生的抑郁和孤独感水平比女生高；贫困单亲家庭儿童的相对剥夺感、抑郁和孤独感水平比非贫困单亲家庭儿童高，自尊水平比非贫困单亲家庭儿童低；(2)控制了性别、学段和家庭经济状况后，在个体内水平上T1时的相对剥夺感显著负向预测 T2时的心理适应，进而显著负向预测 T3 时的相对剥夺感，同时 T2时的相对剥夺感也能显著负向预测 T3 时的心理适应；(3)相对剥夺感与心理适应的循环作用在不同家庭经济状况单亲儿童中存在显著差异，贫困单亲家庭儿童的心理适应对其相对剥夺感的作用比非贫困单亲家庭儿童更大。可见，单亲家庭儿童的相对剥夺感与心理适应存在循环作用关系，即前测 $( \mathrm { T _ { n } } )$ 的相对剥夺感会导致后测 $( \mathrm { T } _ { \mathrm { n + 1 } } )$ 的心理适应不良，进而影响后测 $( \mathrm { T } _ { \mathrm { n } + 2 } )$ 的相对剥夺感，研究结果对于单亲家庭儿童心理适应的干预具有一定启示意义。
+
+关键词相对剥夺感；心理适应；单亲家庭儿童；循环作用关系
+
+# 1引言
+
+自人类进入工业文明以后，人们的婚姻观念发生了深刻的变化，加之人口流动性增大，导致了越来越多的单亲家庭出现。近年来民政部门的统计数据显示，我国离婚率从2005年的 $1 . 3 7 \text{‰}$ 持续上升到2017年的 $3 . 2 \text{‰}$ (民政部,2018)，离婚率的不断攀升导致单亲家庭儿童的数量急剧增加。单亲家庭儿童是指由于父母离异、一方死亡或其他原因，由父亲或母亲独自抚养，年龄在18周岁以下且不具备独立生活能力的儿童(Brodyetal.，2002)。家庭结构的缺损、父母一方教养的缺位使得单亲家庭儿童的心理发展与社会适应面临巨大的挑战(Weaver & Schofield,2015;Haimi& Lermer,2016)。研究表明，单亲家庭儿童的心理社会适应水平要显著低于双亲家庭儿童(Barajas，2011；吴愈晓等，2018)，具体在抑郁、自尊、社交焦虑、反社会行为等方面表现出更多问题(Tebeka et al.,2016; Perales et al.,2017; Chinawa et al.,2015)。
+
+在影响单亲家庭儿童心理社会适应的众多风险因素中，相对剥夺感近年来备受关注(Smith& Pettgrew，2015；孙灯勇，郭永玉，2016)。单亲家庭儿童由于长期得不到父母一方或双方的精神关爱，情感需求得不到满足，生活质量相对低下，他们通过与双亲家庭的儿童相比较，容易在心理上产生主观的相对剥夺感(Hetherington et al.,1998；熊猛，叶一舵,2016)。这种迅速增长的相对剥夺感不利于单亲家庭儿童健全人格的养成，也不利于其心理社会适应的健康发展(熊猛 等,2020)。因此，本研究将通过多次追踪测试的纵向设计，探明相对剥夺感与单亲家庭儿童心理适应的作用模式，为单亲家庭儿童的积极发展提供实证依据。
+
+相对剥夺感(Relative Deprivation,RD)是指个体或群体通过与参照对象横向或纵向比较而感知到自身处于不利地位，进而体验到愤怒和不满等负性情绪的一种主观认知和情绪体验(熊猛，叶一舵，2016)。目前主要有个体相对剥夺与群体相对剥夺以及认知相对剥夺与情感相对剥夺之分，据此形成了个体-认知相对剥夺(Cognition of Individual Relative Deprivation，C-IRD)、个体-情感相对剥夺(Emotion ofIndividual Relative Deprivation，E-IRD)、群体-认知相对剥夺(Cognition of Group Relative Deprivation,C-GRD)和群体-情感相对剥夺(Emotion of Group Relative Deprivation,E-GRD)四个维度。C-IRD 是指个体通过与周围其他人(如内群体其他成员或相关外群体成员)相比较而感知到自身处于不利地位；E-IRD 是指个体通过与周围其他人相比较，对自身处于不利地位感到不公平、愤怒和不满；C-GRD 是指将内群体与其他外群体相比较，感知到内群体处于不利地位；E-GRD 是指将内群体与其他外群体相比较，对内群体处于不利地位感到不公平、愤怒和不满(Smith et al.,2012；熊猛，叶一舵,2016)。以往相对剥夺感的研究更多地聚焦于成年人，但有研究发现相对剥夺感在儿童青少年阶段也扮演着重要角色(Gunnarsdottir et al.,2016)。国外研究发现，相对剥夺感与个体家庭缺损状况显著相关，单亲家庭儿童体验到的相对剥夺感水平更高(Mishra&Carleton,2015)。国内研究证实，单亲家庭儿童的相对剥夺感显著高于双亲家庭和重组家庭儿童(李奕锭，2015)。但这些研究仅仅采用横断调查方法对单亲家庭儿童相对剥夺感的基本状况进行了描述，对相对剥夺感的影响效应及纵向作用模式探讨不足。
+
+相对剥夺感会对儿童的心理适应产生重要影响，甚至会导致心理障碍和躯体疾病等不良后果(Eibneret al.,2004; Smith & Huo,2014; Callan et al.,2015)。心理适应(Psychological Adjustment,PA)是指个体在适应外部环境变化中做出的能动反应，使自己的心理活动和行为方式更加符合环境变化和自身发展的要求，达到主体与环境的平衡状态(Cheng et al.,2014)。在儿童青少年阶段，研究者通常采用抑郁、孤独感、社交焦虑和自尊等指标来表征个体的心理适应状况(Ladd& Troop-Gordon，2003；Moreira & Telzer,2015;刘俊升 等,2015)。相对剥夺感的元分析进一步证实，在相对剥夺感对个体内部心理适应的影响中，也主要考察的是抑郁、孤独感、焦虑(压力)和自尊等指标的变化(Smith et al.,2012)。实证研究表明，相对剥夺感与个体的心理适应状况显著相关(Beshai et al.,2017;Mishra& Carleton,2015)，但二者之间的因果关系尚未探析清楚。对于二者之间的关系，目前学界存在两种主要观点：一种观点认为相对剥夺感容易导致个体心理适应不良。经典相对剥夺理论(Theory of Relative Deprivation)认为，个体主要通过与他人进行比较来评价自身的地位和处境，弱势群体成员会经常体验到基本权利被相对剥夺的感觉，这种不平等感不仅使他们丧失掉现实生活中的很多机会，还会对其心理社会适应带来损害(Mummendey et al.1999; Smith et al.,2012)。大量研究发现，相对剥夺感能够预测个体的心理适应水平(Zhang et al.,2011;Saito et al.,2014; Callan et al.,2015)；高相对剥夺感的儿童，其抑郁、孤独感、社交焦虑水平较高，自尊水平较低(熊猛，2015)；元分析结果进一步表明，相对剥夺感可以预测个体的焦虑、抑郁等心理适应指标，平均效应量为0.17(Pettigrew,2015)。此外，相对剥夺感的动态变化还会导致个体心理适应的动态变化，随着个体相对剥夺感水平的增加，其心理适应水平呈现出降低的发展趋势(Zhang& Tao,2013)。
+
+另一种观点认为心理适应不良的个体会体验到更多的相对剥夺感(韩磊 等,2017)。通过文献回顾我们发现，心理适应影响个体相对剥夺感的内部机制可以概括为两方面：(1)产生认知偏差。心理适应理论(Theoryof Psychological Adjustment)指出，个体从不适应到适应需要经历认知调节、态度转变和行为选择等一系列过程(贾晓波,2001;Cheng et al.,2014)。当个体处于心理适应不良的状态时，认知调节容易出现偏差，通过与周围人的不合理比较而产生一种内心的不平衡状态，进而导致相对剥夺感的产生。实证研究发现，由社会比较产生的相对剥夺感或满意感实际上都是由个体的认知偏差驱动的(Cojocaru2016)。元分析结果也证实，认知偏差是产生相对剥夺感的重要个体因素(Smith et al.,2012)。(2)增加相对剥夺感的易感性。心理适应不良的个体自我概念较为消极，不仅存在较高的抑郁、焦虑等负性情绪，还会产生自我贬损等不良认知，以及更多地将失败归因于内部的认知特点(Taylor et al.,2003)，从而导致这类人群更容易产生相对剥夺感。
+
+上述对于相对剥夺感和心理适应关系的探讨多为横断研究，难以深入揭示二者随时间变化的动态作用关系。发展情境理论(The Developmental Contextualism)指出，发展情境包括物理环境、社会成员(如父母、同伴等)、个体自身和时间四个方面，强调个体与其所处情境的动态相互作用，并加入时间维度，组成个体发展的循环作用模式(circular efects modes)，即个体前期对于特定情境刺激的反应会影响个体后期的进一步发展(Lermer,2006; Sorell et al.,2007)。而以往横断研究忽视了时间的作用，个体间的差异以及个体与情境间交互作用的差异会随着时间的推移使得不同个体进入不同的发展轨迹(Lemer &Miller,1993)，进而产生不同的发展结果(Lerner,2006)。相对剥夺感是个体与社会成员进行比较的产物，它会导致个体出现抑郁、孤独、社交焦虑等心理适应问题，而心理适应不良的个体难以适应周围环境的变化，通过与适应良好的个体进行比较，容易产生认知上的偏差，导致相对剥夺感的产生，从而形成相对剥夺感与心理适应相互影响的循环作用模式。目前已有研究证实了相对剥夺感与幸福感的相互作用模式。Schmitt等人(2010)开展的交叉滞后研究显示，前测的相对剥夺感可以预测后测的幸福感，前测的幸福感也可以预测后测的相对剥夺感，由此可知相对剥夺感与幸福感为双向相互作用关系。然而目前实证性的追踪研究大多只选择了两个时间点研究二者之间的相互作用关系，难以深入揭示二者随时间变化的循环作用模式。因此，非常有必要充分考虑时间这一重要因素，采用多个时间点测查的追踪研究设计，深入探查相对剥夺感与心理适应随时间发展而变化的循环作用模式和因果关系。
+
+交叉滞后模型(Cross-Lagged Panel Model,CLPM)是社会科学中最普遍用于考察变量间纵向关系的统计模型(Berry&Willoughby,2017)。在考察两个变量之间的纵向关系时，如果考虑到两个变量都具有特质性成分和情境性成分，则可以进一步分离出两变量“个体间水平(between-person level)”的关系(即特质性成分间的相关)和“个体内水平(within-person level)”的关系(即规律性变化之外的各时间点上的波动间的关系)。鉴于传统的交叉滞后模型(CLPM)存在难以分离出个体间效应和个体内效应的缺陷，即CLPM难以区分相对剥夺感与心理适应之间的纵向关系到底是由于变量之间真实的效应(个体内效应)导致的，还是由于被试之间的个体差异(个体间效应)导致的(Masselink et al.，2018)。因此，本研究将采用 Hamaker 等人(2015)提出的随机截距交叉滞后模型(Random Intercepts Cross-Lagged Panel Model,RI-CLPM)对单亲家庭儿童的相对剥夺感和心理适应随时间变化在个体间和个体内水平的相互作用关系进行深入分析，以期得到较为稳健的结果。
+
+综上，目前缺乏多次追踪的纵向研究对相对剥夺感和心理适应的关系及其随时间发展变化的动态过程进行深入探讨。而单亲家庭儿童作为我国社会中一个特殊的弱势群体，容易在心理上产生主观的相对剥夺感，其心理社会适应理应受到更多的关注，故探明相对剥夺感与心理适应的相互作用关系，对于降低单亲家庭儿童的相对剥夺感水平，促进其心理发展和适应具有重要意义。因此，本研究基于经典相对剥夺理论和发展情境理论，采用连续3次的追踪研究设计，深入考察中国文化背景下单亲家庭儿童相对剥夺感与心理适应随时间变化的动态作用关系。此外，相对剥夺感与心理适应的性别、年级和家庭经济状况差异也是该领域研究关注的问题。已有研究发现青少年男生的相对剥夺感高于女生(Zhang & Tao,2013)、心理适应水平低于女生(周颖，刘俊升,2015)；学生的年龄越大，相对剥夺体验越强(Zhang & Tao,2013)，而心理适应水平存在下降的趋势(刘俊升 等,2015)；个体的家庭社会经济地位越高，体验到的相对剥夺感越弱(Callan et al.,2017)、出现内化问题的可能性越小(Weaver & Schofield,2015)。然而，以往这些研究结果主要基于普通儿童青少年，在单亲家庭儿童群体中是否仍然成立？有待检验。鉴于此，本研究将考察单亲家庭儿童相对剥夺感与心理适应基于不同时间点的人口学特征差异，在随机截距交叉滞后分析时将性别、学段和家庭经济状况作为协变量予以控制，并进一步检验相对剥夺感与心理适应的循环作用模式在不同性别、学段和家庭经济状况单亲儿童中的一致性。
+
+# 2研究方法
+
+# 2.1研究对象
+
+采用整群抽样的方法，从湖北省某市抽取了两所公立小学和两所公立初中的三至八年级学生作为被试，对其进行连续3次问卷测查，第一次施测时间为 2017年3月(T1)，之后每隔半年进行一次追踪测查(分别记为T2/T3)。参照以往研究的做法(朱玲,2006)，本研究中单亲家庭儿童的纳入标准为：1)父母离婚、一方死亡或分居；2)由父亲或母亲独自承担抚养责任；3)年龄在18 周岁以下。第一次施测共获得有效单亲家庭儿童被试 273人，其中男生138 名 $( 5 0 . 5 \% )$ ，女生135名 $( 4 9 . 5 \% )$ ；小学段148名 $( 5 4 . 2 \% )$ ，初中段125 名 $( 4 5 . 8 \% )$ ；父母离异儿童 261 名 $( 9 5 . 6 \% )$ ，父母一方死亡或其他类型单亲儿童12名 $( 4 . 4 \% )$ 。家庭经济状况方面， $4 7 . 8 \%$ 的被试家庭平均月收入在 2000 元以下， $3 7 . 9 \%$ 介于 2000\~6000 元之间， $1 0 . 3 \%$ 在6000元以上，其中12人未报告家庭平均月收入，将家庭平均月收入在2000元以下且自我报告为贫困家庭的被试纳入(相对)贫困家庭儿童(郭海英 等,2017)。最后得到贫困家庭儿童128 名 $( 4 6 . 9 \% )$ ，非贫困家庭儿童145名 $( 5 3 . 1 \% )$ )。由于转学、病/事假等原因导致部分被试缺失，到第三次施测时共计18 名被试 $( 6 . 6 \% )$ 未能完整参加3次测试，其中T2缺失7人，T3缺失11人。前测时被试年龄在7\~15岁之间，平均 10.93 岁 $( S D = 0 . 6 5 )$ 。
+
+卡方检验和 $t$ 检验结果显示，缺失被试与完整参加3次施测的被试，在性别 $[ \chi ^ { 2 } ( 1 ) = 0 . 2 9$ ， $p { > } 0 . 0 5 ]$ 、学段 $[ \chi ^ { 2 } ( 1 ) = 0 . 4 1$ ， $p { > } 0 . 0 5 ]$ 和家庭经济状况 $[ \chi ^ { 2 } ( 1 ) = 0 . 3 3$ ， $p { > } 0 . 0 5 ]$ 上均不存在显著性差异，在T1的相对剥夺感、抑郁、孤独感、社交焦虑和自尊上也均未发现显著差异 $\mathrm { \Phi } _ { t \mathrm { s } } < 1 . 8 4$ ， $p s { > } 0 . 0 5 )$ ，表明被试不存在结构化缺失。
+
+# 2.2研究工具
+
+# 2.2.1相对剥夺感
+
+改编自熊猛(2015)编制的儿童相对剥夺感量表(Scale of Relative Deprivation,SRD)。包括个体-认知相对剥夺(C-IRD)、个体-情感相对剥夺(E-IRD)、群体-认知相对剥夺(C-GRD)、群体-情感相对剥夺(E-GRD)4个维度，20个项目。要求单亲家庭儿童通过与双亲家庭儿童或其他单亲家庭儿童相比较，对自己在家庭经济状况、家庭条件、家庭环境的稳定性、发展特长的机会以及父母参与辅导自己功课的程度等 5个方面的真实状况进行评定。采用李克特7点计分法，从1至7，认知成分的题项从“非常不好”到“非常好”，情感成分的题项从“非常不满意”到“非常满意”。量表全部采用反向题，将所有项目反向计分后，得分越高表明单亲家庭儿童的相对剥夺水平越高。该量表3次测量的Cronbach's $\alpha$ 系数分别为$0 . 8 8 , 0 . 9 0 , 0 . 8 9$ 。对问卷进行验证性因素分析结果显示结构效度良好(T1: $\chi ^ { 2 } / d f { = } 2 . 3 5$ $\mathrm { C F I = } 0 . 9 4$ ,TLI=0.93,RMSEA $_ { = 0 . 0 6 }$ ; T2: $\chi ^ { 2 } / d f { = } 2 . 1 7$ ， $\mathrm { C F I } { = } 0 . 9 2$ ，TLI=0.91，RMSEA $_ { \mathrm { \Omega } = 0 . 0 5 }$ ; T3: $\chi ^ { 2 } / d f { = } 1 . 9 8$ ， $\mathrm { C F I } { = } 0 . 9 2$ ， TLI=0.91,RMSEA $_ { \mathrm { \Omega } = 0 . 0 5 }$ )。另外，对量表3个时间点的测量等值性进行检验，结果发现该量表具有跨时间的不变性(见表1)。
+
+# 2.2.2心理适应
+
+借鉴以往研究范式(Luthans et al.,2007；刘俊升 等,2015；郭海英 等,2017)，采用抑郁、孤独感、社交焦虑和自尊作为单亲家庭儿童心理适应状况的测量指标。
+
+抑郁量表采用 Radloff(1977)编制、陈祉妍等人(2009)修订的流调中心用抑郁量表(Center forEpidemiologic Studies Depresson Scale,CES-D)，用于评价被试当前(最近一周)抑郁症状的频率。量表共20 题，采用4点计分，1代表偶尔或无(少于1天)，4代表多数时间或持续(5\~7天)，得分越高表明被试出现抑郁症状的频率越高。本研究中，该量表3次测量的Cronbach's $\alpha$ 系数分别为0.89、0.86、0.77。
+
+孤独感量表采用 Asher 等人(1984)编制、刘平(1999)修订的儿童孤独量表(Children's LonelinessScale,CLS)来评定被试的孤独情绪。该量表包含21个项目，题项如“在班上我没有人可以交谈”。采用4点计分，1代表"完全不符合”，4代表"完全符合”，得分越高表明被试的孤独感越强烈。本研究中，该量表3次测量的Cronbach's $\alpha$ 系数分别为0.88、0.79、0.75。
+
+社交焦虑量表采用La Greca 等人编制(1988)、马弘(1999)修订的儿童社交焦虑量表(Social AnxietyScalefor Children,SASC)。该量表包含10 个项目，如"我担心其他同学会怎样看待我”。采用4点计分，1代表"从不这样”，4代表"总是这样”，得分越高表明被试的社交焦虑水平越高。本研究中，该量表 3次测量的Cronbach's $\alpha$ 系数分别为0.87、0.84、0.88。
+
+自尊量表 采用Rosenberg(1965)编制的自尊量表(Self-Esteem Scale,SES)。该量表由10个项目组成，采用4点计分，从1"非常不符合"到4"非常符合”。鉴于量表中的第8题“我希望我能为自己赢得更多尊重”在中西文化中的理解存在出入，参照有关研究者的建议(田录梅，2006)，将该题项删除。将反向题反向计分后，得分越高表明被试的自尊水平越高。本研究中，该量表3次测量的Cronbach's $\alpha$ 系数分别为0.86、0.83、0.84。
+
+进一步将心理适应作为潜变量，将抑郁、孤独感、社交焦虑和自尊作为观测指标，考察整体心理适应测量的结构效度。验证性因素分析结果显示整体心理适应测量的结构效度良好(T1: $\chi ^ { 2 } / d f { = } 3 . 5 4$ $\mathrm { C F I } { = } 0 . 9 2$ ，TLI $\scriptstyle \mathtt { \bar { = } 0 . 9 1 }$ ，RMSEA $_ { . = 0 . 0 7 }$ ; T2: $\chi ^ { 2 } / d f { = } 3 . 2 6$ ，CFI=0.91，TLI $_ { = 0 . 9 0 }$ ，RMSEA $_ { = 0 . 0 6 }$ ; T3: $\chi ^ { 2 } / d f { = } 2 . 9 5$ $\operatorname { C F I } { = } 0 . 9 1$ ，TLI=0.90,RMSEA $\scriptstyle \mathsf { \Lambda } = 0 . 0 6$ )。对心理适应各测验量表在3个时间点的纵向测量等值性进行检验，结果发现抑郁、孤独感、社交焦虑和自尊量表均具有跨时间的不变性(见表1)。
+
+表1各量表在3个时间点的纵向测量等值性检验结果  
+
+<html><body><table><tr><td>变量</td><td>Model</td><td>x²</td><td>df</td><td>CFI</td><td>TLI</td><td>RMSEA</td><td>模型比较</td><td>△x²</td><td>△df</td><td>P</td></tr><tr><td>相对剥夺</td><td>M1:形态等值</td><td>240.16</td><td>106</td><td>0.95</td><td>0.94</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>256.99</td><td>115</td><td>0.95</td><td>0.94</td><td>0.06</td><td>M2-M1</td><td>16.83</td><td>9</td><td>>0.05</td></tr><tr><td></td><td>M3:强等值性</td><td>265.87</td><td>124</td><td>0.94</td><td>0.93</td><td>0.06</td><td>M3-M2</td><td>8.88</td><td>9</td><td>>0.05</td></tr><tr><td></td><td>M4:严格等值</td><td>280.63</td><td>135</td><td>0.93</td><td>0.93</td><td>0.06</td><td>M4-M3</td><td>14.76</td><td>11</td><td>>0.05</td></tr><tr><td>抑郁</td><td>M1:形态等值</td><td>254.19</td><td>76</td><td>0.94</td><td>0.93</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>268.83</td><td>84</td><td>0.93</td><td>0.92</td><td>0.07</td><td>M2-M1</td><td>14.64</td><td>8</td><td>>0.05</td></tr><tr><td></td><td>M3:强等值性</td><td>276.11</td><td>92</td><td>0.93</td><td>0.92</td><td>0.07</td><td>M3-M2</td><td>7.28</td><td>8</td><td>>0.05</td></tr><tr><td></td><td>M4:严格等值</td><td>289.40</td><td>102</td><td>0.92</td><td>0.92</td><td>0.07</td><td>M4-M3</td><td>13.29</td><td>10</td><td>>0.05</td></tr><tr><td>孤独感</td><td>M1:形态等值</td><td>276.33</td><td>82</td><td>0.93</td><td>0.93</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>292.76</td><td>91</td><td>0.93</td><td>0.92</td><td>0.07</td><td>M2-M1</td><td>16.43</td><td>9</td><td>>0.05</td></tr><tr><td></td><td>M3:强等值性</td><td>301.03</td><td>100</td><td>0.93</td><td>0.92</td><td>0.07</td><td>M3-M2</td><td>8.27</td><td>9</td><td>>0.05</td></tr><tr><td></td><td>M4:严格等值</td><td>313.44</td><td>111</td><td>0.92</td><td>0.91</td><td>0.07</td><td>M4-M3</td><td>12.41</td><td>11</td><td>>0.05</td></tr><tr><td>社交焦虑</td><td>M1:形态等值</td><td>218.33</td><td>65</td><td>0.94</td><td>0.93</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>231.59</td><td>75</td><td>0.93</td><td>0.92</td><td>0.07</td><td>M2-M1</td><td>13.26</td><td>10</td><td>>0.05</td></tr><tr><td></td><td>M3:强等值性</td><td>238.45</td><td>85</td><td>0.93</td><td>0.92</td><td>0.06</td><td>M3-M2</td><td>6.86</td><td>10</td><td>>0.05</td></tr><tr><td></td><td>M4:严格等值</td><td>249.79</td><td>97</td><td>0.92</td><td>0.92</td><td>0.06</td><td>M4-M3</td><td>11.34</td><td>12</td><td>>0.05</td></tr><tr><td>自尊</td><td>M1:形态等值</td><td>214.08</td><td>64</td><td>0.95</td><td>0.94</td><td>0.07</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>M2:弱等值性</td><td>227.32</td><td>73</td><td>0.94</td><td>0.93</td><td>0.07</td><td>M2-M1</td><td>13.24</td><td>9</td><td>>0.05</td></tr><tr><td>M3:强等值性</td><td>233.48</td><td>82</td><td>0.94</td><td>0.93</td><td>0.06</td><td>M3-M2</td><td>6.16</td><td>9</td><td>>0.05</td></tr><tr><td>M4:严格等值</td><td></td><td></td><td></td><td></td><td></td><td>M4-M3</td><td></td><td></td><td></td></tr><tr><td></td><td>245.80</td><td>94</td><td>0.93</td><td>0.92</td><td>0.06</td><td></td><td>12.32</td><td>12</td><td>>0.05</td></tr></table></body></html>
+
+# 2.3研究程序
+
+在征得学校和被试本人的知情同意后，以班级为单位进行3次团体施测，在约定的自习课时间统一填写问卷并当场回收，3次施测的内容和程序基本一致，对部分题目的顺序作了调整。施测时，每个班级配备1\~2名主试，主试负责向被试讲解指导语，说明本次测查的目的和意义，强调保密、答案无对错之分、独立作答等原则，解释例题中的疑问及处理可能出现的问题，并对施测过程进行质量监控。主试均为经过统一培训的心理学专业研究生。被试完成全部问卷约需20分钟。
+
+# 2.4数据分析方法
+
+第一步，采用 SPSS 23.0对相对剥夺感和心理适应各指标进行重复测量方差分析，考察 $\mathrm { T } 1 {  } \mathrm { T } 3$ 时间段单亲家庭儿童相对剥夺感与心理适应各指标在主要人口学变量上的差异；第二步，采用Pearson 相关分析，考察相对剥夺感与抑郁、孤独感、社交焦虑、自尊四种心理适应指标在3次测查中的相关关系;第三步，基于相关分析结果，采用 Mplus8.3 构建随机截距交叉滞后模型(RI-CLPM)，通过分离出个体间效应和个体内效应，深入考察单亲家庭儿童相对剥夺感与心理适应之间的循环作用模式和因果关系；第四，采用多组比较结构方程模型，检验相对剥夺感与心理适应的循环作用模式在不同性别、学段和家庭经济状况单亲儿童中的差异。
+
+# 2.5共同方法偏差检验
+
+本研究中的多个变量均由被试提供，故可能存在共同方法偏差效应。在数据收集完成之后，采用Harman 单因子检验法分别对3次施测问卷的共同方法偏差进行检验(周浩，龙立荣,2004)，结果发现：在3次测量中，特征值大于1的因子总数依次为22个、20个、15个，且第一个因子解释的变异量分别为 $20 . 8 7 \%$ 、 $19 . 3 8 \%$ 、 $20 . 6 4 \%$ ，均小于 $40 \%$ 的临界标准，说明本研究3次测查中共同方法偏差均不明显。
+
+# 3研究结果
+
+# 3.1单亲家庭儿童相对剥夺感与心理适应的特点
+
+以性别(男生vs.女生)、学段(小学vs.初中)、家庭经济状况(贫困家庭vs.非贫困家庭)为被试间变量，以测量时间(T1vs.T2vs.T3)为被试内变量，以相对剥夺感、抑郁、孤独感、社交焦虑、自尊为因变量进行 $2 \times 2 \times 2 \times 3$ 的重复测量MANOVA分析。结果发现(见表2)，在相对剥夺感方面，家庭经济状况的主效应显著 $[ F ( 1 , 1 7 ) = 9 . 9 4 \$ $\scriptstyle { p = 0 . 0 0 7 }$ $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 3 6 ]$ ，贫困单亲家庭儿童的相对剥夺感水平显著高于非贫困单亲家庭儿童。在心理适应的各指标方面，性别在抑郁 $[ F ( 1 , 1 7 ) = 5 . 9 0$ ， $\scriptstyle { p = 0 . 0 2 8 }$ ， $\scriptstyle \boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 5 ]$ 和孤独感 $[ F ( 1 , 1 7 ) = 1 2 . 4 3$ $\scriptstyle { p = 0 . 0 0 3 }$ $\boldsymbol { \eta } _ { \mathrm { p } } ^ { 2 } { = } 0 . 3 9 ]$ 上的主效应显著，单亲家庭男生的抑郁和孤独感水平显著高于女生；家庭经济状况在抑郁 $[ F ( 1 , 1 7 ) = 9 . 0 1$ ， $\scriptstyle { p = 0 . 0 0 9 }$ ， $\boldsymbol { \eta } _ { \mathrm { p } } ^ { 2 } { = } 0 . 3 3 ]$ 、孤独感 $[ F ( 1 , 1 7 ) = 1 5 . 4 2$ $\scriptstyle { p = 0 . 0 0 1 }$ ， $\scriptstyle \boldsymbol \eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 7 ]$ 和自尊 $[ F ( 1 , 1 7 ) = 1 6 . 8 9$ $\scriptstyle { p = 0 . 0 1 7 }$ $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 3 4 ]$ 上的主效应均显著，贫困单亲家庭儿童的抑郁和孤独感水平显著高于非贫困单亲家庭儿童、自尊水平显著低于非贫困单亲家庭儿童。其他主效应及交互作用均不显著。
+
+表2单亲家庭儿童相对剥夺感和心理适应在各时间点的描述性统计 $( M \pm S D )$   
+
+<html><body><table><tr><td>变量</td><td>男生 (n=138)</td><td>女生 (n=135)</td><td>小学 (n=148)</td><td>初中 (n=125)</td><td>贫困家庭 (n=128)</td><td>非贫困家庭 (n=145)</td></tr><tr><td>T1相对剥夺</td><td>4.09±0.95</td><td>3.93±0.85</td><td>3.56±0.94</td><td>3.78±0.96</td><td>4.90±0.43</td><td>3.79±0.82</td></tr><tr><td>T1抑郁</td><td>1.95±0.72</td><td>1.84±0.57</td><td>1.81±0.58</td><td>1.89±0.46</td><td>2.41±0.87</td><td>1.76±0.50</td></tr><tr><td>T1孤独感</td><td>2.10±0.83</td><td>1.81±0.38</td><td>1.87±0.65</td><td>1.99±0.58</td><td>2.59±0.65</td><td>1.77±0.46</td></tr><tr><td>T1社交焦虑</td><td>1.10±0.70</td><td>0.94±0.63</td><td>0.94±0.83</td><td>1.12±0.65</td><td>1.34±0.61</td><td>0.92±0.64</td></tr><tr><td>T1自尊</td><td>2.62±0.62</td><td>2.80±0.35</td><td>2.78±0.46</td><td>2.68±0.36</td><td>2.42±0.51</td><td>2.80±0.43</td></tr><tr><td>T2相对剥夺</td><td>4.21±0.79</td><td>3.74±0.96</td><td>4.24±1.11</td><td>4.06±0.84</td><td>4.93±0.64</td><td>3.58±0.79</td></tr><tr><td>T2抑郁</td><td>2.09±0.20</td><td>1.83±0.22</td><td>2.00±0.55</td><td>2.09±0.41</td><td>1.96±0.27</td><td>1.88±0.24</td></tr><tr><td>T2孤独感</td><td>2.33±0.35</td><td>2.06±0.26</td><td>2.23±0.47</td><td>2.21±0.36</td><td>2.31±0.51</td><td>2.07±0.22</td></tr><tr><td>T2社会焦虑</td><td>1.20±0.62</td><td>1.13±0.62</td><td>0.91±0.66</td><td>1.26±0.67</td><td>1.34±0.44</td><td>1.10±0.64</td></tr><tr><td>T2自尊</td><td>2.63±0.72</td><td>3.02±0.35</td><td>2.69±0.16</td><td>2.64±0.26</td><td>2.26±0.44</td><td>3.09±0.32</td></tr><tr><td>T3相对剥夺</td><td>4.16±0.81</td><td>3.78±0.91</td><td>3.94±0.94</td><td>3.77±0.73</td><td>4.94±0.69</td><td>3.68±0.76</td></tr><tr><td>T3抑郁</td><td>2.31±0.37</td><td>1.96±0.35</td><td>2.36±0.45</td><td>2.12±0.30</td><td>2.38±0.49</td><td>2.00±0.34</td></tr><tr><td>T3孤独感</td><td>2.29±0.43</td><td>2.01±0.24</td><td>2.31±0.34</td><td>2.12±0.34</td><td>2.36±0.58</td><td>2.05±0.24</td></tr><tr><td>T3社会焦虑</td><td>1.51±0.69</td><td>1.03±0.68</td><td>1.13±0.61</td><td>1.18±0.68</td><td>1.70±0.96</td><td>1.06±0.62</td></tr><tr><td>T3自尊</td><td>2.60±0.54</td><td>2.70±0.46</td><td>2.86±0.42</td><td>2.69±0.22</td><td>2.38±0.45</td><td>2.96±0.46</td></tr></table></body></html>
+
+# 3.2单亲家庭儿童相对剥夺感与心理适应的关系
+
+# 3.2.1单亲家庭儿童相对剥夺感与心理适应的相关分析
+
+Pearson 相关分析显示(见表3)，3次测查中相对剥夺感与抑郁、孤独感、社交焦虑两两之间均呈显著正相关 $( p \mathrm { s } < 0 . 0 5 )$ ，与自尊之间呈显著负相关 $( p { < } 0 . 0 5 )$ ，满足交叉滞后分析的前提假设。
+
+表3 $\mathrm { T } 1 {  } \mathrm { T } 3$ 单亲家庭儿童相对剥夺感与心理适应各指标的相关分析  
+
+<html><body><table><tr><td>变量</td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td></td></tr><tr><td></td><td>1．T1相对剥夺</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2．T1抑郁</td><td>0.53**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3．T1孤独感</td><td>0.53**</td><td>0.45**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4．T1社交焦虑</td><td>0.30*</td><td>0.60**</td><td>0.32*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5.T1自尊</td><td>-0.55**</td><td>-0.64**</td><td>-0.26*</td><td>-0.52**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>6．T2相对剥夺</td><td>0.64**</td><td>0.51**</td><td>0.42*</td><td>0.30*</td><td>-0.40*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>7．T2抑郁</td><td>0.26*</td><td>0.32*</td><td>0.27*</td><td>0.33*</td><td>-0.35*</td><td>0.24*</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>8．T2孤独感</td><td>0.21*</td><td>0.24*</td><td>0.51**</td><td>0.38*</td><td>-0.30*</td><td>0.28*</td><td>0.67**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>9．T2社会焦虑</td><td>0.22*</td><td>0.52**</td><td>0.28*</td><td>0.71***</td><td>-0.37*</td><td>0.23*</td><td>0.37*</td><td>0.31*</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>10．T2自尊</td><td>-0.40*</td><td>-0.53**</td><td>-0.58**</td><td>-0.45**</td><td>0.60**</td><td>-0.41*</td><td>-0.36*</td><td>-0.54**</td><td>-0.35*</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>11．T3相对剥夺</td><td>0.68**</td><td>0.64**</td><td>0.60**</td><td>0.46**</td><td>-0.33*</td><td>0.83***</td><td>0.33*</td><td>0.36*</td><td>0.50**</td><td>-0.48**</td><td>1</td><td></td><td></td><td></td></tr><tr><td></td><td>12．T3抑郁</td><td>0.28*</td><td>0.40*</td><td>0.61**</td><td>0.34*</td><td>-0.22*</td><td>0.23*</td><td>0.63**</td><td>0.67**</td><td>0.36*</td><td>-0.52**</td><td>0.30*</td><td>1</td><td></td><td></td></tr><tr><td></td><td>13．T3孤独感</td><td>0.33*</td><td>0.42*</td><td>0.59**</td><td>0.37*</td><td>0.23*</td><td>0.29*</td><td>0.66**</td><td>0.80***</td><td>0.25*</td><td>-0.52**</td><td>0.28*</td><td>0.62**</td><td>1</td><td></td></tr><tr><td></td><td>14．T3社会焦虑</td><td>0.37*</td><td>0.61**</td><td>0.55**</td><td>0.65**</td><td>-0.30*</td><td>0.30*</td><td>0.59**</td><td>0.46**</td><td>0.83**</td><td>-0.34*</td><td>0.49**</td><td>0.55**</td><td>0.53**</td><td>1</td></tr><tr><td></td><td>15．T3自尊</td><td>-0.58**</td><td>-0.65**</td><td>-0.47**</td><td>-0.36*</td><td>0.60**</td><td>-0.44*</td><td>0.46*</td><td>-0.23*</td><td>-0.25*</td><td>0.57**</td><td>-0.35*</td><td>-0.39*</td><td>-0.24*</td><td>-0.33*</td></tr></table></body></html>
+
+注： $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p { < } 0 . 0 0 1$ 。
+
+# 3.2.2单亲家庭儿童相对剥夺感与心理适应的交叉滞后分析
+
+基于发展情境论和相关分析结果，采用结构方程建模的方法构建随机截距交叉滞后模型(RI-CLPM;Hamaker et al,2015)，考察单亲家庭儿童的相对剥夺感与整体心理适应在3次测查中的相互作用关系。首先，以相对剥夺感和心理适应为潜变量，分别以相对剥夺感的4个维度以及抑郁、孤独感、社交焦虑、自尊为观测指标，将 $\mathrm { T } 1 {  } \mathrm { T } 3$ 的相对剥夺感与心理适应纳入交叉滞后模型。为了简化模型，参照已有研究(Little etal.,2002)，对相对剥夺感和心理适应的指标进行打包处理。其次，为了分离出个体间效应和个体内效应，抽取相对剥夺感和心理适应在3个时间点上重复测量中的共同成分形成潜变量(随机截距R)，以此来表征所考察的时间内重复测量变量的平均水平(即“特质性”成分)。抽取随机截距之后，各重复测量变量的剩余部分(C)体现了在各个特定的时间点上围绕平均水平的波动(即“情境性”成分)。同时，为了排除人口学变量的影响，在模型中对性别 $\mathrm { { \langle 0 = } }$ 男， $1 =$ 女)、学段 $\mathrm { { \bar { ( ) } = } }$ 小学， $1 { = }$ 初中)和家庭经济状况 $0 =$ 贫困家庭， $1 =$ 非贫困家庭)进行控制。最终模型运行结果显示(见图1),各项拟合指标良好 $( \chi ^ { 2 } / d f { = } 3 . 9 8$ CFI=0.91, TLI=0.90,RMSEA=0.07, SRMR $_ { . = 0 . 0 6 }$ ）
+
+相对剥夺感和心理适应的随机截距交叉滞后分析结果显示：(1)在个体间水平上，单亲家庭儿童相对剥夺感与心理适应的随机截距之间存在显著负相关 $( r = - 0 . 2 2 , p < 0 . 0 5 )$ ，说明相对剥夺感与心理适应的“特质”之间存在显著的被试间关系；(2)在个体内水平上，通过估计随机截距控制被试间的稳定性之后，单亲家庭儿童的相对剥夺感和心理适应仍然具有一定的稳定性，即前测 $( \mathrm { T _ { n } } )$ 的相对剥夺感可以显著预测后测 $( \mathrm { T } _ { \mathfrak { n } + 1 } )$ 的相对剥夺感，前测的心理适应也能显著预测后测的心理适应；T1的相对剥夺感可以显著预测 T2 的心理适应 $( \beta { = } { - } 0 . 3 8 , p < 0 . 0 1 )$ ，T2 的心理适应进而显著预测 T3的相对剥夺感 $( \beta = - 0 . 1 8 , p <$ 0.05)；而 T1 的心理适应对 T2 的相对剥夺感预测作用不显著 $\scriptstyle \mathrm { { \{ \beta = - 0 . 0 4 } } $ ， $p > 0 . 0 5 \$ ，T2 的相对剥夺感对T3 的心理适应预测作用显著 $( \beta = - 0 . 4 2 , p < 0 . 0 1 )$ 。
+
+![](images/bda2f7c71d487557be2676617fb0ad1d6ed52ae57d46da853758319ce897d0d9.jpg)  
+图1单亲家庭儿童相对剥夺感与心理适应之间的随机截距交叉滞后效应模型
+
+注：为了使模型清晰可见，我们对模型进行了简化，将相对剥夺感和心理适应的指标进行打包处理，分别由原来的4个指标形成1个指标，各变量的测量模型的负荷值在图中也省略未报告；R表示个体间水平的潜变量(随机截距)，C表示个体内水平的潜变量； $^ { * } p { < } 0 . 0 5$ $^ { * * } p { < } 0 . 0 1$ ， $\stackrel { * * * } { p } < 0 . 0 0 1$ 。
+
+综上，在控制了单亲家庭儿童的性别、学段和家庭经济状况之后，随机截距交叉滞后模型(RI-CLPM)分析结果基本支持了相对剥夺感与心理适应之间的循环作用关系假设。具体表现为：在 $\mathrm { T 1 \to T } 2 \mathrm { \to } \mathrm { T } 3$ 的时间间隔内，T1的相对剥夺感可以显著负向预测 T2的心理适应水平，T2的心理适应水平进而显著负向预测 T3 的相对剥夺感水平。
+
+# 3.2.3相对剥夺感与心理适应的循环作用：不同性别、学段和家庭经济状况单亲儿童的差异比较
+
+进一步采用多组比较结构方程模型，检验相对剥夺感与心理适应的循环作用模式在不同性别、学段和家庭经济状况单亲儿童中的差异。结果发现(见表4)，相对剥夺感与心理适应的关系在不同性别和学段单亲家庭儿童中差异不显著，上述循环作用模式适用于单亲家庭男生和女生以及小学生和初中生。然而，相对剥夺感与心理适应的循环作用模式在不同家庭经济状况单亲儿童中存在显著性差异，进一步对4 条交叉滞后路径在两组中的差异进行Wald检验发现，在T1心理适应预测T2相对剥夺感的路径系数上，贫困单亲家庭儿童显著大于非贫困单亲家庭儿童(-0.12 vs. $- 0 . 0 1$ $p { < } 0 . 0 5 \$ ，且在非贫困单亲家庭儿童中此条路径未达到显著水平。
+
+表4不同性别、学段和家庭经济状况单亲儿童在交叉滞后模型上的差异比较  
+
+<html><body><table><tr><td rowspan="2">变量</td><td colspan="5">模型拟合</td><td rowspan="2"></td><td colspan="4">模型比较</td></tr><tr><td>x²</td><td>df</td><td>CFI</td><td>TLI</td><td>RMSEA</td><td>模型</td><td>△x²</td><td>△df</td><td>p</td></tr><tr><td>性别</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M1:自由估计</td><td>327.33</td><td>72</td><td>0.94</td><td>0.93</td><td>0.06</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M2：限定交叉滞后路径相等</td><td>338.61</td><td>79</td><td>0.93</td><td>0.92</td><td></td><td>0.06</td><td>M2-M1</td><td>11.28</td><td>7</td><td>>0.05</td></tr><tr><td>学段 M1:自由估计</td><td>315.42</td><td>74</td><td>0.93</td><td>0.92</td><td></td><td>0.05</td><td></td><td></td><td></td><td></td></tr><tr><td>M2：限定交叉滞后路径相等</td><td>326.14</td><td>81</td><td>0.92</td><td>0.92</td><td></td><td>0.05</td><td>M2-M1</td><td>10.72</td><td>7</td><td>>0.05</td></tr><tr><td>家庭经济状况</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M1:自由估计</td><td>287.41</td><td>84</td><td>0.96</td><td>0.94</td><td></td><td>0.05</td><td></td><td></td><td></td><td></td></tr><tr><td>M2：限定交叉滞后路径相等</td><td>306.79</td><td>92</td><td>0.95</td><td>0.94</td><td></td><td>0.05</td><td>M2-M1</td><td>19.38</td><td>8</td><td><0.05</td></tr></table></body></html>
+
+# 4讨论
+
+本研究基于经典相对剥夺理论和发展情境理论，以单亲家庭儿童为被试，通过连续3次的追踪测查，考察单亲家庭儿童相对剥夺感与心理适应的特点及其相互作用关系。研究发现，单亲家庭儿童的相对剥夺感存在显著的家庭经济状况差异，心理适应存在显著的性别和家庭经济状况差异；前测 $( \mathrm { T _ { n } } )$ 的相对剥夺感会导致后测 $( \mathrm { T } _ { \mathfrak { n } + 1 } )$ 的心理适应不良，前测的心理适应不良也会导致后测的相对剥夺感；贫困单亲家庭儿童的心理适应对其相对剥夺感的作用比非贫困单亲家庭儿童更大。研究揭示了单亲家庭儿童的相对剥夺感与心理适应之间存在循环作用关系，对于单亲家庭儿童心理适应的干预具有一定启示意义。
+
+# 4.1单亲家庭儿童相对剥夺感和心理适应的特点
+
+本研究发现，贫困单亲家庭儿童的相对剥夺感水平显著高于非贫困单亲家庭儿童，这与以往研究相一致(Callan etal.,2017)。家庭经济地位是衡量相对剥夺感的重要指标，较高的家庭社会经济地位能够显著预测较低的相对剥夺感水平(Callan et al.,2017)。贫困单亲家庭儿童不仅要面临父母离异或一方去世所引发的生活中一系列变迁和压力事件(如一方父母的突然离去，与一方的祖父母及扩展家庭的联系减少)，还要面临家庭物质资源匮乏的不利处境，从而导致其更容易体验到基本权利被相对剥夺的感觉(Cummings et al.,2000；冯晓杭，张向葵,2008)。
+
+研究还发现，单亲家庭男生的抑郁和孤独感水平显著高于女生，这与已有研究结果基本一致。目前针对离异家庭儿童的调查发现，不论男孩还是女孩均报告出比双亲家庭儿童更多的心理问题和不良行为，而男孩可能由于社会性别角色期待不同，比女孩更容易产生心理问题(Haimi&Lermer,2016)。一般而言，女孩比男孩更外向，宜人性更高，更注重与他人交往和情绪宣泄，这些人格特点可能更有利于女孩保持良好的心理适应状态(Starr& Zurbriggen,2017)。研究还发现，贫困单亲家庭儿童的抑郁和孤独感水平显著高于非贫困单亲家庭儿童，自尊水平显著低于非贫困单亲家庭儿童。这提示我们，应重点关注贫困单亲家庭儿童的日常生活和心理发展，对他们采取及时、有效的干预和救助措施。
+
+# 4.2单亲家庭儿童相对剥夺感与心理适应的相互作用
+
+本研究发现单亲家庭儿童的相对剥夺感与抑郁、孤独感、社交焦虑呈显著正相关，与自尊呈显著负相关，表现为个体的相对剥夺感水平越高，体验到的抑郁、孤独感和社交焦虑水平越高，自尊水平越低。这与已往类似研究结果相一致(Zhang et al.,2011; Saito et al.,2014; Callan et al.,2015)，同时验证了经典相对剥夺理论在单亲家庭儿童群体中的适用性(熊猛 等,2020)。Smith 等人(2012)对1949 年到 2010年间有关相对剥夺感的210项横断研究进行元分析结果也发现，相对剥夺感与个体的内部心理适应状态显著相关，相对剥夺感对抑郁、焦虑等压力症状具有显著的正向预测作用，对自尊、希望等自我概念水平具有显著的负向预测作用。
+
+在证实相对剥夺感与心理适应问题显著相关的基础上，本研究进一步采用基于多次追踪测查的随机截距交叉滞后建模(RI-CLPM;Hamaker et al.,2015)来探索二者随时间发展的相互作用关系，通过将个体间效应从个体内效应中分离出来，以期得到更为稳健和可靠的结果。研究发现在个体间水平上，相对剥夺感与心理适应的随机截距之间存在显著负相关，说明相对剥夺感与心理适应的"特质"之间存在显著的被试间关系。也就是说，在 $\mathrm { T } 1 \mathrm {  } \mathrm { T } 3$ 的时间段内，相对于低相对剥夺水平的单亲家庭儿童而言，高相对剥夺水平的单亲家庭儿童表现出更多的心理适应问题；具有更多心理适应问题的单亲家庭儿童也表现出更高的相对剥夺水平。通过分离相对剥夺感与心理适应在个体间水平上的相关和稳定性之后，在个体内水平上T1时的相对剥夺感仍然显著负向预测T2时的心理适应，进而显著负向预测T3时的相对剥夺感，T2 时的相对剥夺感也能显著负向预测 T3 时的心理适应。该结果基本验证了相对剥夺感与心理适应的循环作用关系假设。一些纵向研究支持了本研究的观点，有研究采用交叉滞后分析方法探讨了德国人相对剥夺感与幸福感(以生活满意度、抑郁、自尊为指标)之间的关系，结果发现相对剥夺感与抑郁、自尊是互为因果的相互作用关系(Schmittet al.,2010)。然而，一方面，该研究采用的是传统交叉滞后分析模型(CLPM)，尽管CLPM是社会科学中用来探索变量间纵向关系的最常用的方法，但该方法存在难以分离出个体间效应和个体内效应的缺陷，换句话说，CLPM难以区分相对剥夺感与心理适应之间的纵向关系到底是由于变量之间真实的效应导致的，还是由于被试之间的个体差异导致的(Masselink et al.,2018);另一方面，该研究采用的是普通成年人群体为被试，且主要考察的是相对剥夺感与幸福感之间的纵向作用关系。鉴于此，本研究以单亲家庭儿童为被试，通过随机截距交叉滞后建模(RI-CLPM)的方法得出了相对剥夺感与心理适应之间存在稳定的循环作用关系，这一发现支持了发展情境理论(Lemer,2006)和RI-CLPM(Hamaker etal.,2015)的有效性。这也提示我们，对于处境不利儿童心理发展的研究，后续不仅应开展更多基于发展情境理论的多时间点追踪研究，而且应将个体间效应和个体内效应有效分离，从而为干预实践提供更为稳健的研究结果。
+
+本研究结果表明，单亲家庭儿童的相对剥夺感既是导致其心理适应不良的风险因素，又是心理适应不良所导致的消极结果。这可能是因为，一方面，根据经典相对剥夺理论(Mummendey et al.,1999)，与双亲家庭儿童进行不合理比较会使单亲家庭儿童感知到自身处于不利境地(如缺少父亲或母亲的关爱)，从而产生相对剥夺感，进而体验到孤独、抑郁等不良情绪，甚至产生自卑心理(侯筱菲等，2011)，使得其人际适应性降低(海英,2017)；另一方面，根据心理适应理论(Cheng et al.,2014)，父母离异或一方去世导致单亲家庭儿童长期处于心理适应不良的状态，这会影响他们的外部和内部评估(贾晓波，2001)，放大自身与双亲家庭儿童的差距，降低自我评价，形成认知偏差，导致相对剥夺感的产生，由此形成一个恶性循环(Cojocaru,2016)
+
+此外，前人研究发现不同性别、年级和家庭经济状况儿童在相对剥夺感(Zhang＆Tao,2013;Callan etal.,2017)和心理适应(周颖，刘俊升,2015；刘俊升 等,2015;Weaver& Schofield,2015)水平上存在差异。因此，本研究进一步检验相对剥夺感与心理适应的循环作用模式在不同性别、学段和家庭经济状况单亲儿童中的一致性。结果发现相对剥夺感与心理适应的循环作用模型完全适用于单亲家庭男生和女生以及小学生和初中生，不受儿童性别和学段的影响，这体现了相对剥夺感与心理适应的循环作用模式具有跨性别和跨年龄段的稳定性。但该循环作用模型在不同家庭经济状况单亲儿童中则发现存在显著差异，即在 T1心理适应预测 T2相对剥夺感的路径系数上，贫困单亲家庭儿童显著高于非贫困单亲家庭儿童，这表明在贫困单亲家庭儿童群体中，心理适应不良更容易导致其体验到强烈的相对剥夺感。一些横断研究已经证实贫困家庭儿童比非贫困家庭儿童报告出更高的相对剥夺感(Callan et al.，2017)和更低的心理适应水平(Weaver & Schofield,2015)。社会支持的威胁模型(Social Support Deterioration Model)认为，某些压力事件特别是创伤性事件或生活变迁(如父母离异或一方去世)，会导致个体知觉到的社会支持资源减少，感知社会支持的减少会引发个体的抑郁、孤独、焦虑等负性情绪，进而导致个体的心理适应水平降低(Barrera，1988)。而贫困单亲家庭儿童不仅在心理上容易出现适应不良和缺乏安全感，还将面临家庭经济状况恶化和物质生活条件困难的窘境(沈璐，2012)，可以说是承受着来自物质和精神层面的“双重压力”，因而其在与双亲家庭的儿童进行比较的过程中，更容易体验到强烈的相对剥夺感。这一方面说明良好的成长环境对单亲家庭儿童的重要性，另一方面也进一步提示我们应重点关注贫困单亲家庭儿童的心理发展和社会适应问题。
+
+# 4.3本研究的意义、启示及局限性
+
+中国特色社会主义进入新时代，提升人民"获得感"是习近平总书记治国理政理念和实践的重要目标，而提升单亲家庭儿童等社会弱势群体的获得感是提升人民获得感的"最后一公里"(丁元竹，2016)。单亲家庭儿童通过与完整家庭的儿童相比较，容易在心理上产生主观的相对剥夺感，这正是其相对获得感不足的现实体现(孙灯勇，郭永玉,2016)。鉴于此，本研究通过连续3次的追踪调查，首次采用多时间点的随机截距交叉滞后分析，通过将个体间效应从个体内效应中分离出来，更为稳健地证实了相对剥夺感与心理适应的循环作用模式在我国单亲家庭儿童中的有效性。本研究的理论意义体现在两方面，一方面揭示了单亲家庭儿童的相对剥夺感与心理适应是一种循环作用关系，而不是简单的单向或双向作用关系，为发展情境理论(Lermer,2006)提供了支持性证据；另一方面，从相对剥夺感的角度为单亲家庭儿童的心理适应不良提供了新的解释视角，丰富并拓展了经典相对剥夺理论(Mummendey etal.,1999)的适用范围，为单亲家庭儿童心理适应的有效干预和获得感提升找到新的突破口。
+
+本研究结果对于单亲家庭儿童的相对剥夺感和心理适应的预防与干预具有一定启示意义。一方面，对于表现出较高相对剥夺倾向的单亲家庭儿童，应引导他们学会合理的社会比较，通过差距激励自己成长，不断获得进步的自信，以此更好地适应环境的变化，达到内心与环境的平衡，从而提升心理适应水平；另一方面，对于心理适应不良的单亲家庭儿童，应及时给予心理疏导，引导其改变消极的自我认知和外部评估，并授以情绪调节策略，进而降低出现相对剥夺感的可能性。总之应同时从这两方面入手，并聚焦在儿童自身的核心作用上，打破相对剥夺感与心理适应之间的恶性循环，构建良性循环。
+
+不过本研究也存在以下局限：首先是追踪次数上的不足，虽然本研究进行了三次追踪调查，发现了相对剥夺感与心理适应的循环作用关系以及二者之间的因果关系。但本研究追踪的持续时间依然较短，追踪的次数也有待增加；其次是研究的样本量较少，部分被试由于客观原因未能完整参加三次调查，导致样本量流失，从而在一定程度上降低了本研究的稳定性和代表性；再次是针对贫困家庭的划分标准只是一个有益的尝试，未来研究可以采用多指标的综合筛查标准，进一步验证本研究的发现；最后是本研究样本主要取自中部某省份的离异家庭儿童，由于地区差异和儿童类型的影响，不同地区和类型的单亲家庭儿童的相对剥夺感和心理适应水平可能存在差异，因此将本研究结果推论到其它地区和类型的单亲家庭儿童时应持谨慎态度。
+
+# 5结论
+
+(1)单亲家庭男生的抑郁和孤独感水平比女生高；贫困单亲家庭儿童的相对剥夺感、抑郁和孤独感水平比非贫困单亲家庭儿童高，自尊水平比非贫困单亲家庭儿童低。
+
+(2)控制了性别、学段和家庭经济状况，同时分离了相对剥夺感与心理适应在个体间水平上的相关和稳定性之后，在个体内水平上T1时的相对剥夺感显著负向预测 T2时的心理适应，进而显著负向预测 T3 时的相对剥夺感；而T1时的心理适应对T2时的相对剥夺感预测作用不显著，但T2时的相对剥夺感能够显著负向预测T3时的心理适应。
+
+(3)相对剥夺感与心理适应的循环作用模式在不同性别和学段单亲家庭儿童中具有较强的稳定性，而在不同家庭经济状况单亲儿童中存在显著差异，贫困单亲家庭儿童的心理适应对其相对剥夺感的作用比非贫困单亲家庭儿童更大。
+
+# 参考文献
+
+Barajas,M.S.(2011).Academicachievementof children in single parent homes:Acritical review.The Hiltop Review,5(1), 13-21.   
+Barera,M. (1988).Modelsofsocialsupportand ife stress:Beyond thebuffering hypothesis.InL.H.Cohen (Ed.),Lifeevents and psychological functioning: Theoretical and methodological issues (pp.211-236). Sage.   
+Berry，D.，&Willoughby，M.T.(2O17).Onthepractical interpretabilityofcross-laggedpanel models:Rethinkinga developmental workhorse. Child Development, 88(4),1186-1206.   
+Beshai,S.,Mishra,S.,Meadows,T.J.S.,Parmar,P.,&Huang,V. (O17).Minding thegap: Subjectiverelative deprivationand depressive symptoms. Social Science & Medicine,173,18-25.   
+Brody，G.H.,Murry,V.M.B.,Kim,S.,&.Brown,A.C.(2O02).Longitudinal pathwaystocompetence and psychological adjustment among African American children living in rural single-parent households.Child Development,73(5), 1505-1516.   
+Callan,M.J.,Kim,H.，&Mathews,W.J.(2015).Predictingself-rated mentaland physicalhealth:Thecontributionsof subjective socioeconomic status and personal relative deprivation. Frontiers in Psychology,6,14-15.   
+Calan,M.J.Kim,H.Georgu,A.,&Mathes,W.J. (17).henterelaionsbetweensocialclasspersonalelative deprivation,and prosociality. Social Psychological and Personality Science,8(6),660-669.   
+Chen,Z.Y,Yang,X.D.,&Li,X.Y.(2O09).Psychometric featuresofCES-DinChineseadolescents.Chinese Journalof Clinical Psychology, 17(4),443-445.   
+[陈祉妍，杨小冬，李新影.(2009).流调中心抑郁量表在我国青少年中的试用．中国临床心理学杂志,17(4),443-445.]   
+Cheng,C.,Lau,H.P.,& Chan,M.P.S. (2O14).Coping flexibilityand psychological adjustment tostresful lifechanges: A meta-analytic review.Psychological Bulletin,140(6),1582-1607.   
+Chinawa,J..,Obu,H.A,ayike,P.C,Obi,I.Esreal,O.O.,&Chiawa,A.T.(5).elf-stmongdolesntin Nigerian secondary schools: Aneglected issue. British Journal of Medicine & Medical Research,5(1), 98-106.   
+Cojocaru,A. (2016). Does relative deprivation mater indeveloping countries:Evidence from six transition economies.Social Indicators Research,125(3),735-756.   
+Cummings,E.M.,Davies,P.T.,&Campbel,S.B.(2Oo).Newdirectionsinthe studyofparenting andchilddevelopment.InE. M.Cummings,P.T.Davies，& S.B.Campbell(Eds.)， Developmental psychopathology and family process:Theory, research, and clinical implications (pp.20O-250). The Guilford Press.
+
+Ding,Y,Z.(Ol6).Letresidents haveasenseof gain must getthrough the last kilometer:The practical pathof community governance innovation in the new era. National Governance,1(2),18-23.
+
+[丁元竹.(2016).让居民拥有获得感必须打通最后一公里——新时期社区治理创新的实践路径．国家治理,1(2),18-23.]
+
+Eibner,C.,Sturm,R.& Gresenz,C.R.(2O04).Doesrelativedeprivation predicttheneed formental health services？The Journal of Mental Health Policy and Economic,7(4),167-175.   
+Feng,X.H.,& Zhang,X.K.(2O08).Researches about therelationships among pride,explicit self-esteemand depressonin urban poverty adolescents. Psychological Development and Education,(4),100-105.   
+[冯晓杭，张向葵.(2008)．城市贫困中学生自豪感、外显自尊与抑郁状态的关系．心理发展与教育,(4),100-105.]   
+Gunnarsdttr,H.,Hensing,G.,Povlsen,L.,&Petzold,M. (2O16).RelativedeprivationintheNordiccountries-childmental health problems in relation to parental financial stress.European Journal of Public Health, 26(2),277-282.   
+Guo，H.Y.,Chen,L.H.，Ye,Z，Pan,J.，&Lin,D.H.(2o17).Characteristisof peervictimizationandthebidirectional relationship betweenpeer victimization and internalizing problems among rural-to-urban migrant children in China: A longitudinal study. Acta Psychologica Sinica, 49(3),336-348.   
+[郭海英，陈丽华，叶枝，潘瑾，林丹华.(2017).流动儿童同伴侵害的特点及与内化问题的循环作用关系：一项追踪研究 心理学报,49(3),336-348.]   
+Han,L.,Ren,Y. Q.,Xue,W.W.,&Gao,F.Q.(20l7).Self-esteemand aggression: The multiple mediatingeectsofrelative deprivation and perceived social support. Chinese Journal of Special Education, (2),84-89.   
+[韩磊，任跃强，薛雯雯，高峰强.(2017).自尊与攻击：相对剥夺感和领悟社会支持的多重中介作用．中国特殊教育，(2), 84-89.]   
+Hai,Y. (2017).Surveyonsocialadaptabilityofmideschool students indivorcedfamiliesandeducational strategies.Theory and Practice of Education,37(5),17-19.   
+[海英.(2017).离异家庭中学生社会适应性的调查及教育对策．教育理论与实践,37(5),17-19.]   
+Hamaker，E.L.，Kuiper,R.M.，& Grasman，R.P.(2015).Acritiqueof thecross-laggedpanel model.Psychological Methods,20(1),102-116.   
+Haimi,M.,&Lerner.A.(Ol6).Theimpactofparentalseparationanddivorceonthe healthstatusofchildren,andthe ways to improve it. Journal of Clinical & Medical Genomics,4(1),137-143.   
+Hetherington,M.E.，Margaret,B.，& GlendessaM.I.(1998).What maters?What does not?Five perspectivesonthe association between marital transitions and children's adjustment. American Psychologist, 53(2),167-184.   
+Hou,X.F.,Mao,FQ.,Liang,R.H.,Feng,X.J.,Liu,X.,Liu,H. W.,&Liu,P.P.(2011).Survey and related analysisof parent-childmental healthstatus in fourtypes ofsingle-parentfamilies.Chinese JournalofSchoolHealth,32(6),641-645.   
+[侯筱菲，毛富强，梁瑞华，冯秀娟，刘霞，刘宏伟，刘佩佩.(2011).4种类型单亲家庭亲子心理健康状况分析．中国学校卫
+
+生,32(6),641-645.]
+
+Jia,X.B.(2Oo1).Thenatureand mechanismofmental adaptation.Journalofianjin Normal University(Social Science),(1), 19-23.   
+[贾晓波.(2001).心理适应的本质与机制．天津师范大学学报(社会科学版),(1),19-23.]   
+Ladd,G.W.,&Troop-Gordon,W.(2003).Theroleofchronicpeer dificulties inthedevelopmentof children's psychological adjustment problems. Child Development, 74(5),1344-1367.   
+Lerner,R.M. (20o6).Developmentalsience,developmental systems,andcontemporarytheoriesof human development.In W. Damon&R.M.Lerner(Editors-in-chief)andR.M.Lerner (vol.Ed.),Handbookofchildpsychology: Vol.1:Theoretical models of human development (6th ed., pp.1-17,43-61,542-548). Wiley.   
+Lerner,R.M.,& Miler,J.R. (1993).Integrating human development researchand intervention forAmerica'schildren:The Michigan State University model. Journal ofApplied Developmental Psychology,14(3),347-364.   
+Liu,J.S.,Zhou,Y.,Li,D.,&Chen,X.Y.(0l5).Relationsbetweenpreferenceforsolitudeandpsychologicaadjustentin middle childhood and early adolescence: A moderated mediating model. Acta Psychologica Sinica,47(8),1004-1012.   
+[刘俊升，周颖，李丹，陈欣银.(2015).儿童中期和青春期早期独处偏好与心理适应之关系：有调节的中介效应．心理学 报,47(8),1004-1012.]   
+Liu,P.(199).Childrenlonelinesscale.In X.D.Wang,XL.Wang,& H. Ma (Eds.),Handbook ofratingscale for mental health (Revised edition, pp. 303-305). Chinese Mental Health Journal Press.   
+[刘平.(199).儿童孤独量表．见 汪向东，王希林，马弘 (编).心理卫生评定量表手册 (增订版，pp.303-305).中国心理 卫生杂志社.]   
+Lite,T.D.,Cunningham,W.A,Shahar,G.,&Widaman,K.F.(2002).Toparcel or not toparcel: Exploring thequestion, weighing the merits. Structural Equation Modeling, 9(2),151-173.   
+Li,Y.D.(2015). Researchonthecauses andcountermeasures ofthe crimeof juvenilesfrom single parentfamilies (Unpublished master dissertation). Southwest University of Political Science & Law, Chongqing.   
+[李奕锭.(2015)．单亲家庭未成年人犯罪成因及对策研究 (硕士学位论文).西南政法大学，重庆.]   
+Luthans,F.,volio,B.J,Avey,J.B.,&Norman,S.M. (207).Positivepsychologicalcapital: Measurementandrelatioshp with performance and satisfaction. Personnel Psychology, 60(3),541-572.   
+Ma,H.(1999). Social anxietyscale forchildren.In X.D. Wang,X.L. Wang,&H.Ma (Eds.),Handbook ofrating scale for mental health (Revised edition, pp. 248-249). Chinese Mental Health Journal Press.   
+[马弘.(199).儿童社交焦虑量表．见 汪向东，王希林，马弘(编).心理卫生评定量表手册 (增订版,pp.248-249).中国 心理卫生杂志社.]   
+Masselink,.,VanRoekel,E.,HankinB..Keijsers,L,Ldder,G..A.Vanalst,J...Oldehinkel,A.J.(8)e
+
+longitudinal association between self-esteem and depressive symptoms in adolescents: Separating between-person ffects from within-person effects. European Journal of Personality, 32(6),653-671.
+
+MinistryofCivilAfairsofthePeople'sRepublicofChina. (2O18).Statisticalbuletinonthedevelopmentof civilafairs in2018. Retrieved 2018-08-02, from http://www.mca.gov.cn/article/sj/tjgb/2017/201708021607.pdf
+
+[中华人民共和国民政部．(2018).2017年社会服务发展统计公报．2018-08-02取自 http://www.mca.gov.cn/article/sj/tjgb/2017/201708021607.pdf ]   
+Mishra,S.,&Carleton,R.N.(Ol5).Subjectiveelativedeprivationissociatedwithporerpysicalandmntalealth.Social Science&Medicine,147,144-149.   
+Moreira,J.FG,&Tlzer,E.H. (15).Changsinfamiloesionandlinkstodepresnuringthecollgetrasition.Joual of Adolescence,43,72-82.   
+Mummendey,A.,Kessler,T.,Klink,A.,&Mielke,R.(99).Strategies tocope withnegativesocialidentity:Predictiosby social identitytheory and relative deprivation theory.Journalof Personalityand Social Psychology,76(2),229-245.   
+Perales,F.,Johnson,S.E,Baxter,J.,Lawrence,D.,&Zubrick,S.R.(2l7).Familystructureandchildhood mentaldisoders: New findings from Australia. Social Psychiatry and Psychiatric Epidemiology,52, 423-433.   
+Pettigrew,T.F. (2015). Samuel Stouffer and relative deprivation. Social Psychology Quarterly,78(1),7-24.   
+Rosenberg. (1965).Self-esteem scale.In X.D.Wang, X.L. Wang,&H.Ma (Eds.),Handbook ofratingscale for mental health (Revised edition, pp.318-32O). Chinese Mental Health Journal Press.   
+[Rosenberg.(1965).自尊量表．见 汪向东，王希林，马弘(编)．心理卫生评定量表手册 (增订版,pp.318-320).中国心理 卫生杂志社.]   
+Saito,M.,KondoK.,Kondo,N,be,A,Ojma,T,&uzuki,K. (4).Relativedepivation,povertydsubjectivealth: JAGES cross-sectional study. PLoS ONE,9(10): e11169.   
+Schit,M.,Maes,J.,&Widaman,K. (l0).Longitudinal efectsofegoisticandfrateral relativedeprivationonwellbeing and protest. International Journal of Psychology, 45(2),122-130.   
+Shen,L.(2O12).Children frompoorone-parent-families'scholadaptationand interventionof social work.Social Work,(2), 37-39.   
+[沈璐.(2012).单亲贫困家庭子女学校适应问题与社会工作的介入策略- -以安徽省某街道五户家庭子女为例．社会工 作,(12),37-39.]   
+Smith,H.J.,&Huo,Y.J.(O14).Relativedeprivation: Howsubjectiveexperiencesof inequalityinfluence socialbhaviorand health.Behavioral and Brain Sciences,1(1),231-238.   
+Smith,H.J.,&Petigrew,T.F.(O5).Advances inelativedeprvationtheoryandrsearchocialJusticeResearch,8(1)-6.   
+Smith,H.J.,Petigrew,T.F.,Pippin,G.M.,&Bialosiewicz,S.(O2).Relativedeprivation:Atheoreticaland meta-aalytic
+
+review.Personality and Social Psychology Review,16(3),203-232.
+
+Sorell,G.,SoRele-Miner,D.A.,&Pausé,C.J. (20o). Movingon:The challengesof dynamic systems perspectives.Human Development, 50,160-164.
+
+Sun,D.Y.,&Guo,Y.Y. (2O16).Relative deprivation: Wanting,deserving,resentmentfornothaving.JournalofPsychological Science,39(3),714-719.   
+[孙灯勇，郭永玉.(2016).相对剥夺感：想得、应得、怨愤于未得．心理科学,39(3),714-719.]   
+Star, C.R.,& Zurbrigen,E.L. (2O17).Sandra Bem's genderschema theoryafter34 years: Areviewofitsreachand impact.Sex Roles,76(9-10), 566-578.   
+Taylor,S.E.,Lerer,J.S.Sheran,D.K.,ge,R.M.,&cdowell,N.K.().Portraitoftheself-enhancer: Weluted and welliked or maladjusted and friendless? Journal of Personality and Social Psychology, 84(1),165-176.   
+Tebeka,S.,Hoertel,N.,Dubertret,C,&Strat,Y.L.(Ol6).Parentaldivoreordeathduringchildhoodandadolescenceandits association with mental health.The Journal of Nervous and Mental Disease,2O4(9),678-685.   
+Wu,Y.X.,Wang,P.,&Du,S.J.(2Ol8).ThechangingChinesefamilystructureandadolescentdevelopment.Socialciences in China, (2),98-120.   
+[吴愈晓，王鹏，杜思佳.(2018).变迁中的中国家庭结构与青少年发展．中国社会科学,(2),98-120.]   
+Weaver,J.M,&Schofield,T.J.(0l5).Mediationandmoderationofdivorceefectsonchidren'sbehaviorproblems.Joual of Family Psychology,29(1),39-48.   
+Xiong,M. (2o15).Relative deprivationof migrantchildren: Characteristics,influencing factorsand mechanism (Unpublished doctoral dissertation).Fujian Normal University,Fuzhou.   
+[熊猛.(2015).流动儿童相对剥夺感：特点、影响因素与作用机制(博士学位论文).福建师范大学，福州.]   
+Xiong,M.,Ma,J.P.,&Ye,Y.D.(202O).Efectsofrelative deprivationondivorcedchildren'sdepression:Amoderated mediating model. Chiness Journal of Clinical Psychology,28(3),523-527.   
+[熊猛，马建平，叶一舵.(2020).相对剥夺感对离异家庭儿童抑郁的影响：一个有调节的中介模型．中国临床心理学杂志， 28(3), 523-527.]   
+Xiong,M.,&Ye,Y.D. (2016).Theconcept,measurement,influencingfactorsandeffectsofrelative deprivation.Advancesin Psychological Science, 24(3), 438-453.   
+[熊猛，叶一舵.(2016).相对剥夺感：概念、测量、影响因素及作用．心理科学进展,24(3),438-453.]   
+Zhang,J.，&Tao,M.(2O13).Relativedeprivationand psychopathologyof Chinesecollge students.Jourmalof Afective Disorders,150(3),903-907.   
+Zhang,S.,Wang,E.，& Chen,Y.(2O0l1).Relativedeprivation basedonoccupation:Anefective predictorof Chinese life satisfaction. Asian Journal of Social Psychology,14(2),148-158   
+Zhou,H.,&Long,L.R.(2o04).Statisticalremedies forcommonmethodbiases.Advances inPsychological Science,(6), 942-950.   
+[周浩，龙立荣.(2004).共同方法偏差的统计检验与控制方法．心理科学进展,12(6),942-950.]   
+Zhou,Y.,&Liu,J.S.(2015).Relationsetweenshyness and psychological adjustmentamong grades 3\~8students:Examining mediated moderation model. Journal of Psychological Science,38(4), 861-869.   
+[周颖，刘俊升.(2015).3\~8 年级学生羞怯与心理适应之关系：一个有中介的调节模型检验．心理科学,38(4),861-869.]   
+Zhu,L.(20o6).Theproblemsandeducatioalstrategiesofchildren'ssocialdevelopmentinsingleparentfamilies (Unpublished doctoral dissertation). Nanjing Normal University.
+
+[朱玲.(2006).单亲家庭儿童社会性发展的问题及教育对策(博士学位论文).南京师范大学.]
+
+# Reciprocal Relations between Relative Deprivation and Psychological Adjustment among Single-Parent Children in China: A Longitudinal Study
+
+XIONG Meng1,2; LIU Ruojin'; YE Yiduo3 (' Departmentof PsychologySchoolof Educaitonand Sport Sciences,Yangtze University,Jingzhou434023,China) （ $^ { 2 }$ Department of Psychology, The University of Edinburgh, Edinburgh EH89JZ, UK) ( School of Psychology,Fujian Normal University, Fuzhou 350117,China)
+
+# Abstract
+
+Increasing divorce rates in China have led to greater numbers of children growing up in single-parent homes.Previous studies have indicated that such single-parent children reported greater senses of relative deprivation and more psychological adjustment problems than their counterparts in undivided families. However,few studies have yet examined associations between relative deprivation and psychological adjustment and their directions. We thus explored characteristics of relative deprivation, psychological adjustment，and associations among them over 1.5 years beginning March，2O17.A sample of 273 single-parent children ( $5 0 . 5 \%$ boys） was recruited from two primary schools and two junior middle schools in Hubei, China. Attrition was relatively minor, namely $9 3 . 4 \%$ of participants completed all surveys during three assessment waves.
+
+Participants provided self-report data on individual and group cognitive and individual and group affective relative deprivation，and depresson，loneliness，social anxiety，and self-esteem，as well as demographic variables (i.e., gender,academic period,and family economic status). Allthe measures had good reliability and validity. Results indicated that relative deprivation of single-parent children was not obvious, and psychological adjustment was generally good. Boys reported higher levels of depresion and loneliness than girls.Moreover,single-parent children with poor family economic status reported higher levels of relative deprivation, depresson,and loneliness,as wellas lower levels of self-esteem than their counterparts.
+
+To explore the possible reciprocal relations between relative deprivation and psychological adjustment, as wellas to separate between-person effects from within-person efects, we analyzed data by using the random intercepts cross-lagged panel model (RI-CLPM). Results showed that there were reciprocal relations between relative deprivation and psychological adjustment in within-person level when controling for between-person effects and key demographic variables.Specifically， initial relative deprivation significantly negatively predicted psychological adjustment at Time 2, which in turn negatively predicted relative deprivation at Time 3. Moreover,relative deprivation at Time 2 also negatively predicted psychological adjustment at Time 3. These reciprocal relations between relative deprivation and psychological adjustment did not differ by gender and academic period (i.e.，primary or secondary school).However， the association between psychological adjustment and relative deprivation was stronger for single-parent children with poor family economic status than for those with good family economic status.
+
+These observations expand understanding of the complex relations between relative deprivation and psychological adjustment among single-parent children in China. Additionaly， they have important implications for intervention and improvement of mental health for vulnerable groups, especially single parent children. For instance,programs that aim to improve the mental health of single-parent children and to reduce the levels of relative deprivation among this vulnerable group may be helpful in breaking the detrimental cycle between relative deprivation and psychological adjustment.
+
+Key wordssingle-parent children; relative deprivation; psychological adjustment; longitudinal study

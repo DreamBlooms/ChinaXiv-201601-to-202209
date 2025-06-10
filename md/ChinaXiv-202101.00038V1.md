@@ -1,0 +1,171 @@
+# 太阳活动及古气候变化对东周战争的可能影响
+
+尹志强，韩延本，马利华中国科学院国家天文台，北京市朝阳区大屯路甲20号邮编：100101
+
+摘要:
+
+利用历史学者统计得到的春秋战国时期战争行军距离的资料，国内东周时期的石笋、树木年轮、湖泊沉积等地质气候资料以及太阳活动资料，讨论了中国古代气候变化与春秋战国时期战争的可能联系。结果表明，在几十至百年尺度上，太阳活动以及降水、气温等自然环境的变化可能间接地影响了东周战争至秦统一中国的历史过程，是史学研究中值得关注的因素。与近两千年的帝制统治时期总体上的气候干冷导致饥荒而引发战争的研究推断相异，本文研究发现更早期的春秋战国时期，战争的强度大多与温度和降水成正相关。古代中国以农业为本，对气候敏感的农业决定了诸侯国的经济基础，直接影响着其国力，甚至可能影响了政治体制的演进和变革。
+
+关键词：气候变化；太阳活动；春秋；战国；战争  
+中图分类号：P461+.1  
+基金项目：国家重大科学研究计划项目(2012CB957801)  
+作者简介：尹志强，男，副研究员，博士，研究方向：天文与气候变化.Email:  
+yinzhq@ nao.cas.cn
+
+# 1．引言
+
+全球气候变化不仅是一个科学命题，也因为其与人类的生存环境密切相关，近代以来成为社会、政治、经济领域关注的内容。从科学角度来讲，要深入理解古代气候变化，一个不可或缺的重要方面，就是获得过去气候变化的事实和规律。器测资料和历史记载大多只有几百或上千年的时间跨度，要获取更长时间的古气候变化的信息则有赖于地质、生物等记录。为此，人们对冰芯、黄土、海洋和湖泊沉积物、珊瑚、树轮、石笋等地质、生物载体所的研究，获取气候代用资料考察古代气候变化的特征，以及与人类历史发展之间的关系也成为现代学界研究的热点问题[1-3]。中国在近些年获得了丰富的多时间尺度的古气候信息，为开展气候变化的研究提供了丰富的资料[4]。
+
+中国几千年延续的历史为开展气候变化与人类历史社会的发展之间的关系提供了难得的参照。竺可桢[5根据中国历史文献中自然物候与灾害记载资料首次建立了过去五千年中国东部地区的温度变化曲线之后，已有很多学者开展了丰富的研究。
+
+章典等利用过去一千年来的古气候记录，对中国唐末至清朝的战争、社会动乱和社会变迁进行了系统地对比分析[。结果发现冷期的战争率显著高于暖期的，$70 \% 8 0 \%$ 的战争高峰期、大多数的朝代变迁和全国范围动乱都发生在气候的冷期。研究表明，由于冷期温度下降导致土地生产力下降，从而引起生活资料的短缺。在这种生态压力和一定的社会背景下，战争高峰期和全国范围内的社会动乱随之产生。王俊荆对历史时期气候变迁与两千年以来的中国战争关系进行了研究，发现气候变冷期与中国各政权的衰落和分裂基本重合。通过对《中国军事史》资料的统计，他发现气温变化与中国战争的数目总体成负相关关系，不同地区气温变化对战争的影响有所不同7]。
+
+Yancheva等8通过对湖光岩玛珥湖钛（Ti）百分含量、总有机碳（TOC）和磁化率的研究重建了一万六千年以来冬季季风序列，认为东亚季风是地球气候变化中的重要部分，影响了社会和经济的变化。赵红军运用古气候重建数据、中国历史上的米价、自然灾害、人口等具有一定间隔的时间序列数据，实证检验了气候变化与过去两千年间的农业经济社会的不稳定之间的关系。研究发现，温度的升高（降低）倾向于减少（增加）社会不稳定程度，降雪异常对社会不稳定的作用是结构性的，且二者对社会不稳定均具有较长期的影响。
+
+葛全胜等[10归纳得到了历史时期气候变化对中国社会发展影响的若干认识，认为历史气候变化影响的总体特征是“冷抑暖扬”，但影响与响应存在区域差异；社会经济的衰落与百年尺度的气候由暖转冷呈现同期性，与暖期相伴的社会快速发展会增加社会对资源、环境需求的压力，导致社会脆弱性加大。魏柱灯等[]总结了两千年气候变化对中国经济波动、社会稳定性、朝代更替与社会兴衰的影响。认为中国历史社会经济与气候变化的时序共振现象中可能确实蕴含着内在的关联机制；暖期气候总体有助于社会经济的健康发展，而气候转冷引发的社会经济效应可能与社会发展本身有关，且被社会放大。刘静和殷淑燕[12]整理研究了中国古文献记载中自然灾害导致的"死者万计"事件的发生频次，认为气候的寒冷与异常、季节变化、灾害结构、人口规模、社会动荡、朝代更替等是灾难发生的主要原因。
+
+孙程九和张勤勤3利用长时段历史数据，构建了一个包括中国古代17个王朝的数据集来研究气候变迁与政府能力对王朝兴衰的影响。他们认为温度与降水变化均对王朝兴衰有显著影响，气候冲击主要通过影响粮食丰歉而作用于国家财政能力，进而影响社会经济发展。Li 等[13]利用高分辨率重建的温度和降水气候序列，以及耕地、战争、人口和区域行政系统变化的历史记录，定量评估了过去两千年间气候变化、古代社会发展和政治应对策略的相互作用。结果表明，在河西走廊开垦土地过程中，湿度条件比温度起着更重要的作用；战争频率与走廊耕地面积之间呈负相关，人口增长与耕地面积具有显着正相关。气候导致的农业生产力下降以及随之而来的人口波动可能会引发社会动荡。
+
+中国关于气候变化和社会发展的研究时段多集中在东汉以来的两千年的时间。由于历史和地质资料的缺乏，更早的研究相对较少。赵鼎新[14在《东周战争与儒法国家的诞生》一书中用历史的方法探讨中国的传统政治，认为春秋战国时代的封建制度导致了诸侯国之间频繁而输赢不定的局部性战争，竞争促进了军事、政治、经济和意识形态的交融，为社会各领域的演变提供了动力。他根据《左传》、《史记》、《中国军事史》等的资料统计，定量计算了春秋战国时期五百年（公元前 722年—前 221年）的战争行军年度平均距离，这一数据在一个侧面上反映了春秋战国时期的军事、政治、经济状况。本文对这一数据进行了分析，并结合东周时期的地质气候资料和太阳活动资料，在几十至百年时间尺度上，讨论中国古代气候变化与春秋战国时期战争的可能关系。
+
+# 2．数据
+
+本文的分析工作选取了下列9个时间序列：
+
+历史记录资料选取赵鼎新[14根据统计得到的我国春秋战国时期战争行军年度平均距离（简称MD）。
+
+东周时期我国的地质资料相对较少，我们搜集了这一时期国内利用湖泊、石笋、树轮等研究得到的七个气候资料，包括：
+
+Conroy 等[15]对藏南昂仁湖(Ngamring Tso, $2 9 . 3 ^ { \circ } \mathrm { N } , 8 7 . 2 ^ { \circ } \mathrm { E } )$ 沉积物的研究重建的4100年来该地区的夏季降水(简称NG);Wang等[16]对董哥洞 $( 2 5 ^ { \circ } 1 7 ^ { \circ } \mathrm { N }$ ， $1 0 8 ^ { \circ } 5 ^ { \circ } \mathrm { E }$ 石笋进行研究得到的9000 年来反映亚洲季风强弱的 $\delta ^ { 1 8 } \mathrm { O }$ 序列（简称 DG)；Hu等[17]对和尚洞（ $3 0 ^ { \circ } 2 7 ^ { \circ } \mathrm { N }$ ， $1 1 0 ^ { \circ } 2 5 ^ { \circ } \mathrm { E }$ ）石笋进行研究重建的9000年来反映亚洲季风强弱的 $\delta ^ { 1 8 } \mathrm { O }$ 序列（简称 HS)；Dong 等[18]对三宝洞 $( 3 1 ^ { \circ } 4 0 ^ { \circ } \mathrm { N } , 1 1 0 ^ { \circ } 2 6 ^ { \circ } \mathrm { E } )$ ）石笋进行研究得到的万年以来反映东亚夏季风的 $\delta ^ { 1 8 } \mathrm { O }$ 记录（简称 SB)；Yang 等[19]利用青藏高原东北祁连山地区（ $( \sim 3 7 \mathrm { - } 3 8 . 7 ^ { \circ } \mathrm { N }$ ， $9 7 \mathrm { - } 1 0 0 ^ { \circ } \mathrm { E }$ ）17个位置的树轮资料重建的该地区3500 年来的降水序列（简称 NT)；Chen 等[20利用公海湖( $3 8 ^ { \circ } 5 4 ^ { \prime } \mathrm { N } .$ $1 1 2 ^ { \circ } 1 4 ^ { \prime } \mathrm { E }$ ）花粉等沉积物重建的万年以来该地区的降水序列（简称GH)；Tan等[21]利用北京石花洞 $\langle 3 9 ^ { \circ } 4 7 ^ { \circ } \mathrm { N } , 1 1 5 ^ { \circ } 5 6 ^ { \circ } \mathrm { E }$ ）的石笋资料重建的 2650 年来北京气温
+
+序列（简称BJ)。
+
+另外，选取了Wu 等[22]利用 ${ } ^ { 1 0 } \mathbf { B }$ 和 $^ { 1 4 } \mathrm { C }$ 重建的9000 年以来太阳黑子变化的时间序列（简称SN）。
+
+为便于比较分析，上述数据统一绘制于图1中。
+
+![](images/a0212c47f54823a06c74d8f9b827f7f2de9b6d1c9bfc74abfc9ab883eca9932f.jpg)  
+图1气候代用资料、太阳黑子及春秋战国战争行军距离的变化
+
+其中：从下至上分别为 MD、NG、DG、HS、SB、NT、GH、BJ、SN序列，黑色粗线是对相应序列做Vondrak平滑处理后的结果；纵坐标为各个变化量，横坐标为年（公元前用负数表示)；通常认为 $\delta ^ { 1 8 } \mathrm { O }$ 序列负值代表了季风的强（值小）弱（值大）程度，因此DG、HS、SB序列的纵坐标反向标示。公元前770、公元前546、公元前419和公元前221年的时间点用竖实线标出，竖虚线为公元前661年。
+
+Fig.1 Climate proxy data, sunspots and marching distance in the Spring and Autumn Period   
+and the Warring States Period of China. From bottom to top are MD,NG,DG,HS, SB,NT, GH, BJ, SN sequences. The thick black line is the result of Vondrak smoothing of the corresponding sequence; Y-axis is the amount of change,and the X-axis is the year (It is a negative number before the Christian era); it is generally believed that the negative value of the $\delta ^ { 1 8 } \mathrm { O }$ sequence   
+represents the intensity (small value)or weak (large value) of the monsoon, so the ordinates of the DG, HS,and SB sequences are reversed.The time points in 770 BC, 546 BC, 419 BC,and 221 BC are marked with vertical solid lines,and the vertical dotted line is 661 BC.
+
+为清楚起见，我们将七个气候数据序列的地理位置绘于图2，并标注了春秋、战国时期诸侯国都城的示意位置，历史上有迁都的大国我们采用谭其骧著作中标注“1”的都城位置[23]。
+
+![](images/2d9f0d522cd234899887a9ca85f22f2c226efe5e5e86ce5799aaf9f0725b1986.jpg)  
+图2气候代用资料的采集地理位置及春秋战国时期诸侯国都城位置的示意图
+
+其中：星号为获取气候资料的地理位置；五角星是春秋时期秦、齐、楚、晋四国都城的示意位置；方块表示战国时期秦、齐、燕、赵、韩、魏、楚七国都城的示意位置。
+
+Fig. 2 Schematic diagram of the geographical location of the climate proxy data and the locations of the capitals of the kingdoms during the Spring and Autumn Period and the Warring States Period of China. The asterisk is the geographic location where climate data is obtained; the pentagram is the schematic location of the capitals of Qin, Qi, Chu,and Jin during the Spring and Autumn Period; the squares represent the schematic location of the capitals of the seven kingdoms Qin, Qi, Yan, Zhao,Han,Wei and Chu during the Warring States Period.
+
+3．分析
+
+学术界对春秋和战国的划分说法不一，一般以公元前476年为界。赵鼎新[14]为更好地探讨东周社会转型过程及内在机制，提出关于东周历史的三阶段分期说，将其依次划分为：霸主期（公元前 770—前 546 年）、转型期（公元前 546—前419 年）和全民战争期（公元前 419—前 221年)。本文将这三个时段用竖实线在图1中标出。赵鼎新同时指出，在春秋早期诸侯国国力都非常弱小，绝大多数国家没有常备军，公元前661年之前，大多是在邻国之间进行的短距离战争。因此公元前661年作为参考线在图1中用虚竖线标出。
+
+图1中9个序列的时间分辨率不一致，高频变化部分的影响因素较多。为了便于比较，我们用Vondrak 方法[24]对 MD、DG、HS、NG 和BJ序列进行了 $\varepsilon = 0 . 0 1$ 的平滑，滤掉高频波动部分，展示其几十至百年尺度上大的周期及趋势变化。
+
+为了获取MD 这一不等采样间隔序列的周期和准周期变化，对其进行了加权小波（WWZ）分析[25]，结果示于图3中。
+
+![](images/9ac19dda6528df888e417a60c3668807d1c34548e841d8bceffe356ad8bea421.jpg)  
+图3.MD序列的加权小波分析
+
+其中：左面子图为Lomb-Scargle分析谱，右面子图为小波分析谱。
+
+Fig. 3 Wavelet analysis of MD sequence.The sub-picture on the left is the Lomb-Scargle analysis spectrum, and the sub-picture on the right is the wavelet analysis spectrum.
+
+对选定的三个时间点，图1显示了上述指标的变化状态：公元前661年，MD 急剧下降，NG、HS、BJ、SN序列也处于相对低点或者波动的谷值附近；前546年，MD处于下降阶段并在5年内达到相对的低值，NG、NT和GH序列向下波动，DG、HS、SB、BJ和SN序列则处于相对低点或者谷值位置；前419年，MD急剧下降，是前后200年MD的最低点，NG位于最低值，DG处于最高值并在之后下降，HS、SB处于相对低值，BJ急剧下降，SN处于下阶段。
+
+从变化趋势来看，公元前661年以前MD 处于较低值且一直呈上升趋势，NG、HS、NT呈下降趋势，DG、SB、SN位于上升段；公元前661年至前 546年，MD 的均值为 $3 7 3 \mathrm { k m }$ ，在500年的时段中处于相对高值，从图3的小波分析结果可以看出，MD序列在几十至百年的时间尺度上有 ${ \sim } 5 0$ 年、 ${ \sim } 1 0 0$ 年、 ${ \sim } 1 8 0$ 年的周期性波动，这一时段的主要波动周期约为100 年。NG、HS、SB、SN序列处于500 年历史上的相对高值，NT、GH、BJ序列处于历史上的相对低值。对SN序列做周期分析，可以到其主要的波动周期约为180 年。
+
+公元前546年至前419年，MD的均值为 $3 5 9 \mathrm { k m }$ ，在公元前661年后的四百多年内处于相对低值，图3显示其主要波动周期从 ${ \sim } 1 0 0$ 年变为 ${ \sim } 5 0$ 年。NG处于下降段达到500 年间的最低值，DG、HS、SB序列在此时间段有两个波峰，且峰值出现的时间在地理位置上由北向南依次延迟，BJ、SN序列也有两个波动峰值，且在大的时间尺度上BJ与 SN同步变化，BJ的变化滞后于SN。
+
+公元前419 年至前221年，MD的均值处于较低水平，至前290 年其平均值为 $3 5 1 \mathrm { k m }$ ，之后迅速上升，NG 在此时段呈现上升的趋势。DG、HS、SB序列处于五百年间的较低水平，也表现出与转型期时段类似的峰谷值变化由北向南依次延迟的滞后关系。NT与GH成反相关关系，在公元前280年前后，GH由高值变为低值，而NT正好相反。公元前380年后，BJ与SN的趋势成反向变化。SN在10年内降至前两次谷值的水平，在60年后降至前两次谷值的1/3,峰值的1/6。
+
+在图2可以看到，HS、SB序列采集地位于楚国附近，GH序列采集地则与春秋的晋国和战国分裂后的赵、魏、韩国接近，产生BJ数据的北京房山石花洞位于燕国都城附近，与产生NT序列的位置最近的侯国是秦国。另外现代器测资料显示，DG、HS、SB序列处于东亚夏季风（EASM）系统内的区域，GH序列位于EASM的边界内并同时受西风带（Westerlies）的影响，NG序列则主要受印度夏季风（ISM）的影响，NT序列位于EASM的边界外边缘[17,19.20]。
+
+# 4．讨论
+
+MD 序列所表征的战争强度与各侯国霸主的才能、侯国的政治架构、人口、人才、经济状况、地理环境等诸多社会及自然因素相关。例如，齐国的进军能力在齐桓公死后便从顶峰时的约 500 公里下降到约 300 公里[14]。但各国的战争强度此消彼长，MD序列作为整体的统计，可以在一定程度上反映春秋战国时期诸侯国整体国力的强弱。
+
+石笋中 $\delta ^ { 1 8 } \mathrm { O }$ 的富集程度常用于表征地区的季风、气温、降水等气候指标的变化，但其受到洞穴温度、滴水 $\delta ^ { 1 8 } \mathrm { O }$ 变化的影响，地表水的 $\delta ^ { 1 8 } \mathrm { O }$ 值受气温、降水量、雨季变化、水汽来源等诸多因素的影响[26]。在1-10 年尺度上探讨气候变化与社会间的相互作用影响，涉及的因素太多，确定性不强。但根据张德二等[26]和程海等4的讨论，我们认为，当地的地质资料对局部地区来说在几十年至百年时间尺度上季风增强(变弱)导致降雨增加(减少)这一因果关系是可以接受的。
+
+对过去千年来的气候变化研究还表明，大时间尺度的太阳活动对中国地区的气温变化，以及中国长江流域、南方、北方、西部的旱涝变化有调制作用[27-29]。
+
+基于上述认识，我们可以看到赵鼎新[14]从历史学角度讨论给出的公元前 546年、前419年、前661年等特殊时间分界点，没有考虑自然因素变化的影响，但在地质气候资料中却能找到如下文讨论的相应的波动变化。
+
+公元前661年以前的春秋早期，诸侯国因国力所限都无法进行长距离的跨国战争。MD以比较低的数值波动，在公元前661年前后有一个急剧下降的谷值出现。此前的太阳活动（SN）处在较低的活动水平，公元前800 年前后50多年的“西周中晚冷期"更被认为是过去六千年来太阳活动非常显著的极小之一，在全球地质资料中都能找到相应的证据，这一冷期也被认为是西周衰亡的重要因素[30]。SN 波动整体上从极小缓慢上升又下降,并在前 660年左右达到局部的谷值，此时重建的北京地区气温（BJ）也达到了此后五百年内的最低值 ${ \sim } 2 1 . 4 ^ { \circ }$ 。
+
+赵鼎新[14将公元前 546 年作为霸权期和转型期的分界线，因为当时两个霸主国家晋国和楚国同另外十余个小国在商丘协议停战，史称“弭兵大会”，中国南北方的战争暂时停止。巧合的是太阳活动SN在此时间点也达到了另一谷值，同时北京地区的气温也达到相对的低值。此时楚国地区季风相对较弱（见 SB、HS 序列)，我们认为此时季风影响下的降水也相对较少，可能气候的变冷和干旱削弱了国力，促成了各国之间罢兵而转入内部调整。在之后的“转型期”，MD平均值也处于较“霸主期”低的水平。
+
+“霸主期”和“转型期”大致属于史称的“春秋暖期”（前770-前476)，此时太阳活动属于相对活跃的阶段（见SN)，各地降水也相对适中（见NG、DG、HS、SB、NT、GH)，没有长时间或者剧烈的波动发生。此时诸侯纷争，群雄并起，中国南北方地区共同得以发展，MD的平均水平也相对较高，并逐渐形成了齐、楚、晋、秦为区域性霸主的东、南、北、西四大战区。
+
+赵鼎新[14将前 419 年作为春秋——战国时代第二与第三阶段的分界点，是因为魏国在这一年开始向西扩张，并与秦国结下宿仇。值得注意的是，魏国自“三家分晋”以来，首先于前453年由法家发起了政治改革，之后国力大增，迫使其它国家跟进改革。秦国改革较晚，由商鞅在前 356 年和 350 年进行。魏国在前342 年马陵之战中败于齐国，并于前340年在西线被秦国击败，从此在战国格局中失去支配性的优势地位。而秦国则在前320年之后向魏国以外的国家发起进攻，
+
+并且战争规模进一步扩大[14]。
+
+在地质资料中，我们可以看到，太阳活动强度在公元前419年前后开始下降，并在60 年内降低到“西周中晚冷期"的水平。此时南方的降水也迅速下降（见DG、HS、SB)，并在“全民战争时期”的两百年内维持在平均值较低的水平。GH序列显示的降水在前340至前320年之间剧烈下降，从之前稳定的高水平降至此后百年的低水平上。与之相反祁连山附近记录的降水（见NT）却在前 320年之后持续上升并维持了百年的高值。这些变化与魏国的失势和秦国的崛起并最终统一中国的时间段几乎一致。历史学者认为，商鞍变法后秦国实力大增，最终在群雄角逐中一统天下。从地质记录中，我们却能看到，秦似也得其“天时”，与深度的体制改革一起为后来秦统一中国提供了坚实的经济基础。
+
+# 5.结论
+
+本文分析中采用的春秋战国时期战争行军距离（MD）序列，其价值在于它的发生时间在周秦之变前的东周（公元前770-前221年)，还处于“封建"社会，与中国在公元前 221 年被秦统一之后进入两千年循环往复的帝制时代在政治体制上有根本的不同，也不同于受西方文明冲击后进入全球化的现代。春秋战国时代频繁的战争，也为我们研究自然因素变化与社会变革的关系提供了高分辨率的长达五百年的样本。
+
+赵鼎新[14认为：春秋战国时代的封建制度导致了诸侯国之间频繁而输赢不定的局部性战争，正是在这类特殊的战争中所形成的竞争，促进了效率导向型的工具理性文化在军事、政治、经济和意识形态等领域的扩展，从而为春秋战国时代社会各领域的演变提供了根本动力。
+
+中国古代文明的核心主要分布在中东部地区，具有典型的季风性气候，气候变化受季风和温度影响，江南、长江流域、北方、西部等地区的地理差异性较大，随时间的波动也较为复杂。本文的分析认为，在几十至百年尺度上，太阳活动以及降水、气温等自然环境的变化间接或者直接地影响了东周战争至秦统一中国的历史过程，是史学研究中值得关注的因素。与两千年的帝制统治时期总体上的气候干冷导致饥荒而引发战争的情形不同，春秋战国时期战争的性质导致其强度大多与温度和降水正相关，与诸侯国国力的强弱直接关联。亦即，大的寒冷、干旱往往导致各国休兵，暖期和湿润时期却能激发国家争霸、开疆拓土。古代中国以农业为本，对气候敏感的农业决定了国家的经济基础，直接影响着国家的国力，甚至影响了政治体制的演进和变革。
+
+分析研究太阳活动等某些自然因素的变化对古代生态环境的影响，以及进而对社会经济的盛衰及社会变革的影响，对自然科学和社会科学的研究工作都是有意义的。由于分析所用的古代资料欠丰富，以及古代不同地区经济发展和社会变革的复杂性，同时因年代久远而使得一些资料和数据没能很好地流传下来，本文的分析和论证还不够充分，角度也显得单一，因此结果还是初步的，有待更多地质、历史资料的收集和发掘，进行更深入的讨论和研究。
+
+# 参考文献
+
+1. DRAKE B L. Changes in North Atlantic Oscillation drove Population Migrations and the Collapse of the Western Roman Empire [J]. Sci Rep,2017, 7(1227): 1-7.   
+2．KATHAYAT G, CHENG H, SINHA A,et al. The Indian monsoon variability and civilization changes in the Indian subcontinent [J]. Sci Adv, 2O17,3: e1701296.   
+3．孙程九，张勤勤．气候变迁、政府能力与王朝兴衰——基于中国两千年来历史 经验的实证研究 [J].经济学,2018,18(1):311-336.   
+4．程海，张海伟，赵景耀，等．中国石笋古气候研究的回顾与展望[J].中国科 学：地球科学,2019,49:1565-1589.   
+5．竺可桢．中国近五千年来气候变迁的初步研究[J]．中国科学，1973，2:168-   
+189.   
+6．章典，詹志勇，林初升，等．气候变化与中国的战争、社会动乱和朝代变迁 [J]. 科学通报,2004,23:2468-2474.   
+7．王俊荆．历史时期气候变迁与中国战争关系研究[D]．金华：浙江师范大学, 硕士学位论文.2007.   
+8.YANCHEVA G， NOWACZYK N R， MINGRAM J，et al. Influence of the intertropical convergence zone on the East Asian monsoon [J]. Nature,2007, 445:   
+74-77.   
+9．赵红军.气候变化是否影响了我国过去两千年间的农业社会稳定？ 一个 基于气候变化重建数据及经济发展历史数据的实证研究[J].经济学，2012,   
+11(2): 691-722.   
+10.葛全胜，方修琦，郑景云．中国历史时期气候变化影响及其应对的启示 [J]. 地球科学进展,2014,29(1): 23-29.   
+11.魏柱灯，方修琦，苏筠，等.过去 2000 年气候变化对中国经济与社会发展影响 研究综述[J]．地球科学进展,2014,29(3):336-343.   
+12.刘静，殷淑燕．中国古文献记载中"死者万计"事件的时空特征与原因分析 [J]. 浙江大学学报（理学版)，2017,44(2):243-252.   
+13.LI Y, GE Q, WANG H, et al. Relationships between climate change, agricultural development and social stability in the Hexi Corridor over the last 2OOO years [J]. Science China: Earth Sciences,2019, 62: 1453-1460.   
+14.赵鼎新著，夏江旗译．东周战争与儒法国家的诞生[M]．上海：华东师范大学 出版社,2006.   
+15.CONROY J L，HUDSONC A M,OVERPECK J T,et al. The primacy of multidecadal to centennial variability over late-Holocene forced change of the Asian Monsoon on the southern Tibetan Plateau [J].Earth and Planetary Science Letters, 2017, 458: 337-348.   
+16.WANG Y, CHENG H, EDWARDS R L,et al. The Holocene Asian Monsoon: Links to Solar Changes and North Atlantic Climate [J]. Science, 2O05,308: 854-   
+857.   
+17.HU C Y, HENDERSON G M, HUANG J H, et al. Quantification of Holocene Asian monsoon rainfall from spatially separated cave records [J].Earth and Planetary Science Letters, 2008, 266: 221-232.   
+18. DONG JG, WANG Y J, CHENG H, et al. A high-resolution stalagmite record of the Holocene East Asian monsoon from Mt Shennongjia, central China [J]. The Holocene, 2010, 20: 257-264.   
+19.YANG B,QIN C， WANG JL，et al. A 3,50O-year tree-ring record of annual precipitation on the northeastern Tibetan Plateau [J]. PNAS, 2O14,111(8): 2903- 2908.   
+20. CHEN F H, XU QH, CHEN JH, et al. East Asian summer monsoon precipitation variability since the last deglaciation [J]. Sci Rep, 2O15, 5,11186.   
+21.TAN M, LIU T S,HOU J,et al. Cyclic rapid warming on centennial-scale revealed by a 265O-year stalagmite record of warm season temperature [J]. Geophys Res Lett, 2003,30(12): 1617.   
+22. WU C J, USOSKIN I G, KRIVOVA N, et al. Solar activity over nine millennia: A consistent multi-proxy reconstruction [J].A&A, 2018, 615,A93.   
+23.谭其骧．中国历史地图集：第1卷[M]．北京：中国地图出版社,1982,20-46.   
+24.YIN Z Q, HAN Y B. An improved prediction of Sunspot Maximum by Vondrak smoothing method [J]. Astronomical Notes, 2018, 339: 30-36.   
+25.AYDIN M E. Dynamic Power Spectra on The Basis of Wavelet Transform [D]. Ankara: Ankara University, Master Dissertation. 2014.   
+26.张德二，李红春，顾德隆，等．从季风降水的时空特征检证季风与中国朝代更 替之关联 [J]．科学通报,2010,55(1):60-67.   
+27.TIWARI R K,RAJESH R,PADMAVATHI B. Evidence of Higher-Order Solar Periodicities in China Temperature Record [J]. Pure Appl Geophys,2O16,173: 2511-2520.   
+28.郑景云，郝志新，张学珍，等．中国东部过去2000年百年冷暖的旱涝格局[J]. 科学通报,2014,59:2964-2971.   
+29.葛全胜，刘路路，郑景云，等．过去千年太阳活动异常期的中国东部旱涝格局 [J]．地理学报,2016,71(5): 707-717.   
+30.葛全胜．中国历朝气候变化[M]．北京：科学出版社,2011.
+
+# The possible connection between paleo-climate change and the war
+
+in Eastern Zhou Dynasty
+
+Yin Zhiqiang，Han Yanben，Ma Lihua
+
+National Astronomical Observatories, Chinese Academy of Sciences 20A Datun Road, Chaoyang District, Beijing, China. code: 100101 Email: yinzhq@ nao.cas.cn
+
+# Abstract:
+
+Using the statistics data of the marching distance during the Spring and Autumn period and Warring States period of China, the stalagmites, tree rings,lake deposits and solar activity data in the Eastern Zhou period in China, the possible relationship between climate change in ancient China and wars during the Spring and Autumn and Warring States period is discussed. The results show that, on the scale of tens to hundreds of years,changes in solar activity， precipitation， temperature and other natural environments may indirectly affect the historical process from the Eastern Zhou period to the unification of China by the Qin Dynasty, which is a factor worthy of attention in historical research. Different from the research inferring that the dry and cold climate led to famines and wars during the monarchy period of the past two thousand years, this paper found that the earlier period in the Eastern Zhou, the intensity of war was mostly positively correlated with temperature and precipitation. Ancient China was based on agriculture,and climate-sensitive agriculture determined the economic foundation of the vassal state, directly affected its national power, and may even affected the evolution and transformation of the political system.
+
+Key Words: Climate change; Solar activity; Spring and Autumn period; Warring States period; War

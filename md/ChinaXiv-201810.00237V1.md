@@ -1,0 +1,91 @@
+# 浙江唇形科Lamiaceae新种及新组合
+
+丁炳扬1，陈征海²，徐跃良，金孝锋4，吴棣飞5，陈坚波，吴伟建（1.浙江林业科学研究院，浙江 杭州 310023；2．浙江省森林资源监测中心，杭州 310020；3．浙江自然博物馆，杭州 310012；4.杭州师范大学 生命与环境科学学院，杭州310036；5.温州市公园管理处，浙江 温州 325000；6.金华职业技术学院，浙江 金华 321000；7.松阳县林业局，浙江 松阳，
+
+323400)
+
+摘要：描述了浙江唇形科2新种和1新组合种：（1）云亿黄芩与柔弱黄芩的区别主要在于茎、叶片、苞片均被白色多节腺毛，叶片卵圆形，花冠长约 $6 \mathrm { m m }$ ，内面疏被柔毛。（2）短花假糙苏与近缘种八角花的区别主要在茎具沟槽，疏被倒向短柔毛，叶片卵状椭圆形或卵形，膜质，长 $7 { \sim } 1 7 ~ \mathrm { c m }$ ，宽 $3 . 5 { \sim } 8 ~ \mathrm { c m }$ ，边缘具粗锯齿，花冠长约 $6 \mathrm { m m }$ 。（3）二回羽裂丹参（新组合种）因近二回羽状复叶，花冠黄色，花冠管均远伸出花萼筒外而与南丹参一回羽状复叶，花冠淡紫色、紫色或蓝紫色，花冠管内藏或微伸出区别明显，故作为独立的种处理。
+
+关键词：唇形科，新种，新组合，浙江中图分类号：Q949 文献标识码：ADOI: 10.11931/guihaia.gxzw201807039
+
+# New species and combination of Lamiaceae from Zhejiang, China
+
+DING Bingyang1,CHEN Zhenghai²,XU Yueliang, JIN Xiaofeng4,WU Difei5,CHEN Jianbo $^ 6$ ,WU Weijian7 (1.Zhejiang Forestry Academy,Hangzhou 310023,China; 2.Monitoring Centre forForest Resources in   
+Zhejiang,Hangzhou31020,China;3.Zhejiang MuseumofNatural History,Hangzhou31012,China; 4.College   
+ofLife& Environmental Sciences,Hangzhou Normal University, Hangzhou 310036,China; 5.Wenzhou Garden   
+Administration of Zhejiang,Wenzhou3250o0,China; 6.Jinhua Polytechnic,Jinhua 3210oo,Zhejiang,China; 7. Songyang Forestry Bureau of Zhejiang,Songyang 32340o, Zhejiang, China)
+
+Abstract: Two new species of Lamiaceae from Zhejiang,eastern China are described with illustrations. Scutellaria yunyiana difers from S.teneraein having stems,leaf blades and bracts whitish multicelular-glandular, leaf blades ovate-rounded,corolla ca.6mm long,inside sparsely pubescent.Paraphlomis breviflora difers from $P .$ （204号 kwangtungensis in having stems canaliculate,sparsely retrorse-pubescent, leaf blades ovate-eliptic or ovate, membrancous, $7 { \sim } 1 7$ cm long, $3 . 5 { \sim } 8 ~ \mathrm { c m }$ wide,margin dentate,corolla ca.6 mm long.Salvia subbipinnata (C.Y. Wu) B.Y.Ding et Z.H. Chen is combined as specific rank as well,and it differs from S. bowleyana Dunn in having 2-pinnately compound leaves,corolla yellow,and corolla tube long exserted from calyx tube.
+
+Key words: Lamiaceae, new species, new combination, Zhejiang
+
+唇形科（Lamiaceae）是世界性分布的大科之一，全世界有 236属、7137种（Harley et al.,2004)，主要分布于地中海地区和亚洲西南部（Li&Hedge，1994)。本科植物常富含多种芳香油，部分可供药用，也有不少栽培供观赏（吴征镒和李锡文，1977)。在我国，唇形科共96 属、807种（Li&Hedge，1994)，浙江有43属、110种、24变种（郑朝宗，2005）。
+
+自2014年《浙江植物志》（第二版）编著项目实施以来，项目组对浙江调查采集薄弱地区又组织6次大型科考，数十次专题科考，采集了大量标本，从中发现了不少植物新种（Jinet al.，2015；Cen et al.，2016；Chen et al.， 2017； Zhang et al.，2017；Lu et al.，2017；叶立新等，2017；叶喜阳等，2017；陈子林等，2018)。本文报道对唇形科植物分类研究过程中，发现的2新种和1新组合种。
+
+# 1．云亿黄芩 新种 图1：A-F
+
+Scutellaria yunyiana B. Y.Ding, Z.H. Chen et X.F. Jin, sp. nov. Fig.1: A\~F
+
+This new species is similar to S. tenerae C. Y.Wu et H. W.Li, but the latter having stems pilose and short-glandulose, upper leaves ovate-triangular or narrowly ovate, adaxially dark green, pilose,abaxially purple,pilose,bracts pilose and short-glandulose,corolla $7 { \sim } 8 \ \mathrm { m m }$ long,inside glabrous.
+
+Type:China.Zhejiang（浙江），Hangzhou（杭州），Fuyang District（富阳区）,XukouTownship(胥口镇), Shanglian Village(上练村),in grasses under broad-leaved forest, alt. $2 0 0 \mathrm { m }$ ，17 Apr.2018,B. Y. Ding(丁炳扬) 16187 (holotype: ZM; isotypes: HTC,KUN, PE).
+
+多年生草本，具斜升的根状茎和细长的匍匐茎。茎直立或基部斜升，连同花序高10\~30cm，钝四棱形，具槽，常在基部分枝，密被白色多节腺毛。基生叶宿存，叶片卵圆形，长$1 { \sim } 2 \ \mathrm { c m }$ ，宽 $0 . 8 { \sim } 1 . 5 ~ \mathrm { c m }$ ，先端圆钝，基部心形，边缘具钝锯齿，两面疏被白色多节腺毛，侧脉3或4对，叶柄长 $1 . 5 { \sim } 2 . 5 ~ \mathrm { c m }$ ，密被白色多节腺毛；茎生叶2\~4对，叶片宽卵形，鲜时略带黄绿色，长 $2 { \sim } 4 ~ \mathrm { c m }$ ，宽 $1 . 8 { \sim } 3 . 5 ~ \mathrm { c m }$ ，先端急尖，基部心形，边缘具钝锯齿，侧脉4或5对，下部2对靠近基部似掌状脉，上面疏被白色多节腺毛，下面被毛相同但沿脉较密，叶柄下部者长 $2 { \sim } 3 ~ \mathrm { c m }$ ，上部的长 $5 { \sim } 8 ~ \mathrm { m m }$ 。花序长 $5 { \sim } 1 0 ~ \mathrm { c m }$ ，每节具2花；基部1对苞片叶状，近卵形，长 $1 { \sim } 2 . 5 ~ \mathrm { c m }$ ，宽 $0 . 6 { \mathord { \sim } } 1 . 7 ~ \mathrm { c m }$ ，被毛与叶同，近无柄，其上的苞片披针形至条形，长$1 { \sim } 1 . 5 \ \mathrm { m m }$ ；花梗长 $2 { \sim } 3 ~ \mathrm { m m }$ ，纤细，被白色多节腺毛；花萼长约 $2 \mathrm { m m }$ ，外面被白色多节腺毛，内面无毛，盾片果时开张，高 $2 { \sim } 2 . 5 ~ \mathrm { m m }$ ；花冠初时紫色，后变为淡紫色或近白色，长约 $6 \mathrm { m m }$ ，冠筒长约 $5 \mathrm { m m }$ ，基部稍成膝曲状，向上稍增大，冠檐二唇形，上唇盔状，先端微凹，下唇中裂片宽卵状倒三角形，中脉两侧具紫红色斑，两侧裂片卵形，外面被短柔毛，内面疏被柔毛；雄蕊4，二强，花丝中下部具柔毛，花药2室，裂缝具短纤毛；花柱无毛。小坚果肾圆形，红褐色，长约 $1 \mathrm { m m }$ ，背部具瘤状突起。
+
+本种接近柔弱黄芩Scutellaria teneraC.Y.Wu etH.W.Li，区别在于后者茎上被开展具节长柔毛和短腺毛，茎上部叶片卵状三角形、狭卵形，上面深绿色，下面常带紫色，两面被多节长柔毛，苞片被多节长柔毛并混生短腺毛，花冠长 $7 { \sim } 8 ~ \mathrm { m m }$ ，内面无毛。
+
+China.Zhejiang(浙江),Hangzhou (杭州),Fuyang District （富阳区),Xukou Township（胥 □镇),Shanglian Village(上练村), in grasses under broad-leaved forest, alt. $2 0 0 \mathrm { m }$ ,17 Apr. 2018,
+
+B.Y. Ding(丁炳扬) 16186 (ZM); the same locality,9 May 2018,B. Y Ding et G. Q. Zhu(丁炳扬, 朱光权)16301 (ZM).
+
+本种学名用以纪念方云亿教授为《浙江植物志》的编研和浙江省唇形科分类研究作出的杰出贡献。
+
+# 2．短花假糙苏 新种 图2：A-G
+
+Paraphlomis breviflora B.Y.Ding, Y.L. Xu et Z. H. Chen, sp. nov. Fig.2: A\~G
+
+This new species is similar to $P .$ kwangtungensi C. Y. Wu et H. W. Li, but the latter having stems not canaliculate, upper part densely pilose, leaf blades oblong-elliptic, smaller, $6 { \sim } 8 \ \mathrm { c m }$ long, $2 { \sim } 3 ~ \mathrm { c m }$ wide, thick-papery, margin crenate, both surfaces densely pilose, corolla longer, ca. $9 \mathrm { m m }$ （204号 long.
+
+Type: China. Zhejiang (浙江), Songyang (松阳),Fengping Township （枫坪镇),Nansheng (南胜村), in grasses under forest, alt. $8 0 0 \mathrm { m }$ ,5 Jun.2018,Y L. Xu et al.(徐跃良等) 602 (holotype: ZM; isotypes: HTC,KUN, PE).
+
+多年生草本，具长根状茎，有时具匍匐茎。茎高 $2 0 { \sim } 4 0 ~ \mathrm { c m }$ ，钝四棱形，具槽，疏被倒向短柔毛，近顶端和节上较密。叶对生；叶片卵状椭圆形或卵形，膜质，长 $7 { \sim } 1 7 \mathrm { c m }$ ，宽3.5\~8cm，先端渐尖或急尖，基部宽楔形并下延，边缘具粗锯齿和缘毛，齿尖具乳头状的小尖头，上面被极疏的短硬毛，脉上较密，下面疏被短柔毛，脉上较密，散布腺点，侧脉5或6对，与中脉在上面微凹，下面隆起；叶柄长 $1 . 5 { \sim } 2 . 5 ~ \mathrm { c m }$ ，疏被短柔毛。轮伞花序腋生，具 $8 { \sim } 1 6$ 花；花萼倒圆锥形，长约 $5 \mathrm { m m }$ ，外面被微柔毛，具10脉，居间5脉较不明显，萼筒长 $3 . 5 { \sim } 4$ $\mathrm { m m }$ ，萼齿宽三角形，长约 $1 . 2 \mathrm { m m }$ ，基部宽 $1 . 5 \mathrm { m m }$ ，甚开展，干后先端有时略反折；花冠淡黄色或浅绿白色，长约 $6 \mathrm { m m }$ ，花冠筒管状，内藏，长约 $3 \mathrm { m m }$ ，直径约 $1 . 1 \ \mathrm { m m }$ ，近喉部略收缩，两面无毛，冠檐二唇形，上唇椭圆形，长约 $2 . 5 \mathrm { m m }$ ，外面被微柔毛和腺点，下唇3裂，边缘蚀齿状，外面被微柔毛和腺点，中裂片宽倒卵形，长约 $3 \mathrm { m m }$ ，先端微凹，喉部具淡紫色斑纹，侧裂片斜卵形；雄蕊4，二强，前对略长，后对雄蕊花药粘合，花药无毛，花丝长约 $1 . 5 \mathrm { m m }$ ，基部被柔毛；子房顶端平截，花柱先端伸至2对雄蕊之间，微2裂。小坚果三棱柱形(外侧圆)，黑褐色，长 $2 { \sim } 2 . 5 ~ \mathrm { m m }$ ，被极细的微柔毛。
+
+新种与八角花Paraphlomis kwangtungensis C.Y.Wu etH.W.Li略接近，区别在于后者茎无槽，上部密被毛，叶片长圆状椭圆形，较小，长 $6 { \sim } 8 \ \mathrm { c m }$ ，宽 $2 { \sim } 3 ~ \mathrm { c m }$ ，坚纸质，边缘具浅锯齿，两面密被短柔毛，花冠较长，长约 $9 \mathrm { m m }$ 。
+
+China.Zhejiang(浙江),Songyang(松阳),Fengping Township（枫坪镇),Nansheng（南胜 村),26Jul.1992,L.H. Lou,G.Y. Li et Z.C.Tang(楼炉焕，李根有，汤兆成) SY141 (ZJFC). Wuyi (武义),Xilian（西联),Zhangwuli Village（章五里村),forest margin,alt. $3 8 0 \mathrm { ~ m ~ }$ ，16 Jun. 2018,Y.R. Zhu et Z.H. Chen (朱遗荣，陈征海）WY18061603 (ZM); the same locality,16 Jun. 2018,J.B.Chen,L.M.Wang et Z.H.Chen（陈坚波，王黎明，陈征海）WY18061602(ZM),14 Jun.2018,Y.R.Zhu (朱遗荣)WY18061401 (ZM).
+
+# 3．二回羽裂丹参（二回羽裂南丹参） 新组合
+
+Salvia subbipinnata (C.Y.Wu) B.Y.Ding et Z.H. Chen, comb.et stat. nov. Basionym: Salvia bowleyana Dunn var. subbipinnata C. Y. Wu, Fl. Reipub. Popularis Sin. 66: 582.1977.Type: China. Zhejiang (浙江),Yongjia (永嘉),15 May 1926,K.K. Tsoong (钟观光) 1048 (holotype: PE!).
+
+本种发表时作为南丹参 Salvia bowleyanaDunn 的变种，作者指出区别在于叶近二回羽状分裂，小叶较小，茎和叶柄密被开展刚毛（其实是多节长硬毛和短硬毛)。我们检查了模式标本K.K.Tsoong(钟观光)1048号，及 Zhejiang Agir. Coll.(浙农) 563 号、H.S.Guo (郭汉身)720243号等时，发现除上述区别特征外，其花冠管均远伸出花萼筒外，而非南丹参的花冠管内藏或微伸出。同时，野外采集有花色记录的标本和野外观察发现，本种花冠均为黄色，而非南丹参的淡紫色、紫色或蓝紫色。可见，本种与南丹参区别甚大，应该作为独立的种处理。
+
+多年生草本。茎高 $4 0 { \sim } 6 0 ~ \mathrm { c m }$ ，四棱形，具槽，被多节长硬毛和短硬毛，下部长硬毛较密，而上部短硬毛较密，密布腺点。叶对生；叶片长 $1 5 { \sim } 2 8 ~ \mathrm { c m }$ ，宽 $5 { \sim } 1 0 ~ \mathrm { c m }$ ；叶柄长 $5 { \sim } 1 0 ~ \mathrm { c m }$ 与叶轴均被多节长、短硬毛；叶片一至二回羽状分裂，小叶对生或近对生，小叶片卵形至卵状披针形，长 $2 { \sim } 4 . 5 ~ \mathrm { c m }$ ，宽 $1 { \sim } 2 . 5 ~ \mathrm { c m }$ ，先端急尖或渐尖，基部宽楔形或圆形，常略不对称，边缘具粗钝锯齿，有时基部分裂成小裂片，上面密被短糙伏毛，密布浅灰色腺点，下面脉上被短硬毛，密布浅褐色腺点。轮伞花序具6\~8花，在茎和分枝顶端排列成长 $1 0 { \sim } 2 0 ~ \mathrm { c m }$ 的总状或圆锥状；花序轴密被多节腺毛和腺点；花萼管状钟形，长 $7 . 5 { \sim } 9 . 5 \ \mathrm { m m }$ ，外面被多节腺毛，内面下部无毛，喉部密被多节长硬毛，檐部二唇形，上唇宽三角形，长约 $1 . 8 \mathrm { m m }$ ，先端全缘，下唇分裂成2齿，略长于上唇；花冠黄色或金黄色，长 $2 { \sim } 2 . 4 ~ \mathrm { c m }$ ，花冠筒长 $1 . 2 { \sim } 1 . 4$ cm，远伸出花萼筒外，外面疏被短毛和腺点，内面被柔毛，近基部具不完整毛环（上方1侧不连续)，檐部二唇形，外面密被腺毛，内面无毛，上唇呈镰刀状，长 $1 . 2 { \sim } 1 . 4 ~ \mathrm { c m }$ ，先端有凹缺，下唇近直伸，长 $0 . 9 { \sim } 1 ~ \mathrm { c m }$ ，3裂，中裂片较大，中脉两侧具紫色斑点，先端扇形，不规则齿裂，中间有凹缺；能育雄蕊2，花丝长约 $3 \mathrm { m m }$ ，药隔下臂长 $4 { \sim } 5 \ \mathrm { m m }$ ，药室不发育，顶端联合，上臂长 $7 { \sim } 8 ~ \mathrm { m m }$ ，药室长约 $4 \mathrm { m m }$ ，退化雄蕊线形；花柱明显伸出，顶端不等2裂。小坚果椭圆球形。
+
+China.Zhejiang (浙江), Yueqing(乐清),Mount. Yandang (雁荡山),25 May 1955, Zhejiang Agri. Coll. (浙农) 563 (fl., HZU, NAS); the same locality,under forest, 26 May 1972, H. S. Guo (郭汉身) 720243 (HTC),7 Jun.1992,N.L. Zhao et al.(赵来南等) s.n.(WZU),Lingyan (灵岩), on slope,11 Jun.1971,C. S.Ding(丁陈森) Cn0119 (fl., ZHFC),Nankeng(南坑),12 May 1996, s.coll. s.n. (WZU), Xiaolongqiu (小龙湫),in grass,23 May 2018,B.Y. Ding et D.F Wu(丁炳扬, 吴棣飞)16305 (fl.,ZM),Fuxi (福溪),alt. $3 0 0 \mathrm { m }$ ,under forest,23 Apr.2011,B. Y.Ding et al.（丁 炳扬等)9512 (WZU).Rui'an (瑞安),Hongshuang Forestry Farm (红双林场),Dayangkeng(大洋 坑),2 Jul.1972,Q. Lin (林泉) 1202 (ZJMI).
+
+致谢：参加野外调查的还有浙江省林业科学研究院朱光权先生、武义县西联乡大溪口村朱遗荣先生、乐清雁荡山森林公园的廖亮先生、金华高职院医学院王健生先生、景宁县科委梅旭东先生，特此致谢。
+
+# 参考文献：
+
+CEN JM，JIN SH, JIN XF.2016. Notes on Carex (Cyperaceae) from China (IV): the identity and revision of sect.
+
+Infossae. Guihaia,36 (1): 30-43.   
+CHEN ZL,LUYF, ZHANG WB, et al,2017. Celtis neglecta (Cannabaceae),a new species from Zhejiang, easter China [J].Phytotaxa,298(1): 55-64.   
+CHEN ZL,WANG P,LU YF, et al, 2018. Daphne gaomushanensis,a new species of Thymelaeaceae from Zhejiang[J].JHangzhou Norm Univ(Nat Sci Ed),17(1):5-7.[陈子林，王盼，鲁益飞，等,2018．高姥山 瑞香,浙江瑞香科一新种 [J].杭州师范大学学报(自然科学版),17(1):5-7.]   
+HARLEY RM, ATKINS S,BUDANTSEV AL, et al, 2004.Labiatae [M]//KUBITZKI K,KADEREIT JW. The families and genera of vascular plants VI. Flowering plants dicotyledons: Lamiales (except Acanthaceae including Avicenniaceae). Berlin: Springer:167-275.   
+JIN XF,CHEN WJ, CEN JM,2015. Notes on Carex (Cyperaceae) from China (II): the description of four new species [J].Phytotaxa,231 (2): 165-174.   
+LI HW，HEDGE IC,1994. Lamiaceae [M]// WU CY,RAVEN PH.Flora of China. Vol.17.Beijing and St. Louis: Science Press and Missouri Botanical Garden Press: 50-299.   
+LU YF,ZHENG CZ,CHEN JM,et al,2017.Novelties in Fimbristylis (Cyperaceae) from Zhejiang, China: two new species and a new variety [J].Phytotaxa,309 (2):127-134.   
+WU CY&LI HW,1977.Flora Reipublicae Popularis Sinica. Vol. 65(2)[M].Beijnig: Science Press: 1-649.   
+YE LX,LU YF, WANG H, et al,2017. Cerasus fengyangshanica (Rosaceae), a new species from Zhejiang [J]. J Hangzhou Norm Univ (Nat Sci Ed),16(1):19-24.[叶立新，鲁益飞，王桦，等,2017．凤阳山樱桃—一浙 江樱属(蔷薇科)一新种 [J]．杭州师范大学学报(自然科学版),16(1):19-24.]   
+YE XY,CHEN ZH,PAN CC,et al,2017.Aster jiulongshanensis (Asteraceae),a new species from Zhejiang [J]. J Hangzhou Norm Univ (Nat Sci Ed),16(1):13-15.[叶喜阳，陈征海，潘成椿，等,2017．九龙山紫菀- 浙江紫菀属(菊科)一新种 [J].杭州师范大学学报(自然科学版),16(1):13-15.]   
+ZHANG HW, XIONG XH,LU YF, et al, 2017. Persicaria changhuaensis sp.nov. (Polygonaceae） from northwestern Zhejiang, China [J].Nordic JBot, 35: 339-343.   
+ZHENG CZ,2015. Key to the seed plants of Zhejiang Province [M]. Hangzhou: Zhejiang Science & Technology Pres:311-328.[郑朝宗,2005．浙江种子植物检索鉴定手册[M]．杭州：浙江科学技术出版社： 311-328.]
+
+![](images/12672c35f8c65fd744a1768ab6b0de4056b75fbb5ff451b442d12b6b3139a066.jpg)  
+图1云亿黄芩A:植株;B:茎上毛被;C:花;D:花萼;E:花冠及雄蕊;F:小坚果 (金孝锋绘). Fig.1Scutellaria yunyiana.A: habit; B: stem indumentum; C:flower; D: calyx; E: corolla and stamens; F: nutlet (drawn by Xiao-Feng Jin).
+
+![](images/0bd3d500cb20acbaee1aa48e82b19a89fc294502d430a109e6ef878e9fd77b83.jpg)  
+：短花假糙苏A,B:植株;C:茎及花序;D:茎上毛被;E:花萼;F:花冠及雄蕊;G:小坚果(金孝锋 绘). Fig.2Paraphlomis breviflora.A,B: habit; C: stem and inflorescence; D: stem indumentum; E: calyx; F: corolla and stamens; G: nutlet (drawn by Xiao-Feng Jin).

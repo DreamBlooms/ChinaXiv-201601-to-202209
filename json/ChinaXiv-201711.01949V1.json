@@ -1,0 +1,528 @@
+[
+    {
+        "type": "text",
+        "text": "中文文本聚类常用停用词表对比研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "官琴邓三鸿王昊  \n(南京大学信息管理学院南京 210023)  \n(江苏省数据工程与知识服务重点实验室南京 210023)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】通过实验对比分析，比较不同停用词表对于不同类型的文本数据的作用效果，对停用词表的构建与使用提供参考意见。【方法】选取百度停用词表、哈尔滨工业大学停用词表以及四川大学机器智能实验室停用词表，基于三个不同语料库运用汉语分词技术、TF-IDF 特征评估函数以及 VSM 模型进行文本处理，并且采用Java 编写的K-means 算法进行聚类实验，通过准确率P、召回率R和F1三个评价指标对不同聚类结果进行效果评估。【结果】不同停用词表对于不同类型的文本数据作用效果差异明显，词表的长度、内容结构是影响作用效果的直接因素，其中两字停用词作用效果最为明显。【局限】实验文本类型及数量有限，同时对于不同停用词表仅在词语数量及内容上做了简单的分析比较，未对停用词按照类别分类进行实验分析。【结论】停用词表对于文本聚类准确度有很大的影响，构建或选取适宜的中文停用词表极为重要。同时，过度增加停用词的数量并不会一直改善聚类结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：文本聚类 停用词 K-means分类号：TP391",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在信息迅猛发展的互联网时代，对庞大信息量的处理与利用使得文本挖掘这一技术受到广泛关注。1995 年，Feldman 等提出文本挖掘这个概念[1]，随后Ahonen-Myka等将数据挖掘技术直接用于经过预处理的文本信息，同时指出文本预处理对挖掘过程的效率至关重要[2]。文本预处理一般要占据文本挖掘大部分的时间，对于中文文本而言，这个过程包含中文分词处理，去停用词，特征提取以及空间向量表示这几个步骤，因此停用词的研究具有重要意义",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "停用词最早起源于信息检索，Luhn在信息检索的研究中发现部分词语出现频率很高但检索效果却较差[3]，他率先提出用噪声来表示这些词语[4]，即为停用词的雏形。在随后的研究中，有学者通过统计研究发现在英文文献中最常出现的10个词条的频次占一篇文本总词条频次的 $2 0 \\% - 3 0 \\% ^ { [ 5 ] }$ ，而Frakes 等在信息检索的研究中认为在自动索引阶段提早考虑消除出现频率过高的词语可以提高检索速度，减少检索存储空间并且不会降低检索结果的准确性[，因此，Lo 等将停用词定义为经常出现在文本中但对信息检索没有帮助的应该消除的词语[7]，即，在基于词的检索系统中,停用词是指出现频率较高、没有太大检索意义的词，如\"的、是、太、of\"等[8；在自动问答系统中，停用词因其问题的不同而动态变化9；在支持向量机的自动分类中则是指没有实际意义的虚词和类别色彩不强的中性词[10；在文本挖掘中，停用词的判断更侧重于其是否能够表示文本特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "停用词在文本处理过程中会存在很大的干扰性，不仅携带较少的文本信息，还会对其他词语产生一定的抑制作用，很大程度上影响文本处理效率和精准性。Yang和Pedersen认为，将停用词按其出现的频数降序排列，用前10个停用词消减特征向量，不会产生负面影响；用前100个停用词消减特征向量产生的负面效果很小[II]。Silva等也通过实验验证了去除停用词可以在很大程度上降低特征向量的维度并且提高文本分类的准确性[12]。因此，去除停用词在文本预处理过程中十分重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，可以通过构建停用词表去除停用词。停用词表有通用停用词表与专用停用词表之分，也有学者将停用词分为全停用词(True Full-stop Words)和半停用词(Semi-stop Words)[13]，其来源有人工构造与基于统计的自动学习两种方式[14]。Luhn提出\"词条的区分能力\"这一概念，成为人工构造方法常用的判断标准[3]，VanRijsbergen利用统计学的方法构造出包含250个词条的停用词表[15],Fox 也在 Brown Corous 的基础上统计分析出适用于普通英文文本的停用词表[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于统计的自动学习方法是指通过不断地标记筛选，从文本语料库中提取出高频词语，随后进行人工判定。现在较为成熟的停用词识别算法有：文本频率、词频统计、熵计算、CHI 统计等[17]。文献[18]提到一种依据联合熵选取停用词的方法；文献[19]提出一种基于统计和语言学结合的停用词选取方法；L。等设计了一种基于词条的随机抽样的抽取方法，并指出最有效的停用词表是经典停用词表与新方法自动抽取的停用表的融合[7};Zou等提出一种基于统计和信息论模型的停用词选取方法[20]；在中文情感分类中，也构建出5种包含不同词性的停用词表[21]。基于统计的自动学习方法已成为停用词表构建的主要方法，同时加以人工判定的辅助，并取得不错的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前，专业停用词表的研究也受到关注，如医学、化学、计算机等领域，主要通过对该领域大量文本进行检查分析，经过概率分析及内容分析予以提取[22]。但该方法具有一定的局限性，当文本分布不均时准确率不高。Makrehchi等为此提出一种利用参数和输入比较敏感的分类器来判别停用词内容改变对分类结果的影响，从而确定停用词表的内容[23]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "英文停用词表的研究已取得一定成果，而中文停用词表由于起步时间较晚，目前深入的研究还较少，暂未得到广泛认可的停用词表。文献[24]分别比较去除不同词性词语的停用词表对中文情感分类的影响，发现使用去除形容词、副词及动词的停用词表效果最好，而传统的主题分类停用词表对于情感分类帮助不大，可以得出构建或选择精准的停用词表往往会起到事半功倍的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前主流的通用中文停用词表有百度停用词表、哈尔滨工业大学停用词表以及四川大学机器智能实验室停用词表，鉴于去除停用词对于分类所需的特征向量集及分类效果有很大的影响，因此本文主要目的在于利用多个不同的中文文本语料库，采用聚类算法对常用的停用词词表进行实验分析，旨在对不同停用词表的适用范围及使用效率进行比较研究，找出不同领域文本信息处理构建、选择和使用停用词词表的依据和准则。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2实验过程准备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次实验由4部分组成，分别为文本收集、文本处理、聚类处理以及效果评估，具体流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab0b7439ed9f1948471e383f3e07c50da0c996968d0485c16d7346b23deab505.jpg",
+        "img_caption": [
+            "图1实验流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验采用三个不同的中文语料库，分别是搜狗实验室的搜狐新闻数据[25-27],复旦大学计算机信息与技术系国际数据库中心自然语言处理小组提供的复旦文本语料库[2,28-29]，以及文献[30]提及的中文文本分类语料库[31]，这三个语料库的文本质量较高，类型齐全,覆盖面广。在文本处理过程中，分词处理时采用的是由中国科学院计算技术研究所开发的汉语词法分析系统ICTCLAS；选取主流且应用范围较广的停用词表，分别为百度停用词表、哈尔滨工业大学停用词表以及四川大学停用词表[32-33]。同时在特征选取中采用TF-IDF评估函数，利用VSM模型对文本进行向量表示。在聚类处理过程中，采用Java编写的较为简单高效的K-means 算法，运用基于人工标准的评价方法，利用准确率P(Precision)、召回率R(Recall)以及F1(F1-measure)三个指标对分类效果进行综合评价[16]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验文本数据从语料库中随机抽样选取，在各语料库中的经济、IT、军事、体育和艺术这5大类中抽取序号能被5整除的文本，并为其重新标号，每一个语料库各抽取640个文本，如表1所示。测试文本数为1920个，每个文本至多属于一个类别；其中文本类型包括新闻、文献、文摘等，采用控制变量法进行实验测试，对实验结果准确统计记录，用于分析比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2699fa089abb936e2d37e217ed9b648935e0d4a2e0d71bd553815880d78e52bc.jpg",
+        "table_caption": [
+            "表1人工分类文本统计表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>经济</td><td>IT</td><td>军事</td><td>体育</td><td>艺术</td></tr><tr><td>文本数</td><td>110</td><td>164</td><td>76</td><td>150</td><td>140</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 停用词表内容分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用的三个停用词表基本情况如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2503407b850e5e0b2fdb505fdadd895f3885d58ebf2c03e7f7875f94de62179.jpg",
+        "table_caption": [
+            "表2实验停用词表内容统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>停用词表</td><td>符号 英文</td><td></td><td>单字 词</td><td>两字 词</td><td>三字 词</td><td>四字 词</td><td></td><td>其他共计</td></tr><tr><td>百度</td><td>7</td><td>547</td><td>173</td><td>620</td><td>29</td><td>19</td><td>0</td><td>1395</td></tr><tr><td>四川大学</td><td>0</td><td>0</td><td>26</td><td>663</td><td>80</td><td>84</td><td>6</td><td>859</td></tr><tr><td>哈尔滨工业 大学</td><td>236</td><td>0</td><td>167</td><td>290</td><td>23</td><td>19</td><td>0</td><td>750</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以看出，各停用词表的差异较大，百度停用词表包含部分单字符、英文停用词以及中文停用词，如“able”、“一\"以及“不是\"等，两字词比例较大；四川大学停用词表包含很多常见俗语及三字词、四字词，如“打开天窗说亮话”、“何乐而不为\"以及“换言之\"等，单字词数量相对较少；而哈尔滨工业大学停用词表则包含大量的中英文字符，如\"\\*”、“△\"以及\"...\"等。三个停用词表中，百度停用词表停用词数量高达1395个，主要在于其包含了547个英文停用词；而两字词在三个停用词表中比例较高，其中四川大学停用词表包含663个两字词，显然是为了能保证最大程度匹配并去除停用词，因为在中文分词的结果中大部分都为两字词串[34]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3显示了三个停用词表的重合情况，可以看出，这三个停用词表的单字词、三字词及四字词的重合率很高，基本达到 $80 \\%$ 以上，因此三个停用词表的区别主要体现在两字词上。其中百度停用词表和四川大学停用词表两字词数量相近，重合率约为 $50 \\%$ ，在两字词上的差异较大；百度停用词表和哈尔滨工业大学停用词表有较高的词语重合度，其主要差异在于哈尔滨工业大学停用词表包含的两字词较少；而这三个表共有的停用词数量有337个。在实验中，笔者合并了三个停用词表作为一个新的停用词表(命名为全停用词)以测试停用词表的长度是否也会影响文本聚类效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/29f5e89b70756d01627f175df241fe4682570b0b34c6f35422511d362df917f7.jpg",
+        "table_caption": [
+            "表3停用词表重合词条统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对比词表</td><td>单字词</td><td>两字词</td><td>三字词</td><td>四字词</td><td>共计</td></tr><tr><td>百度-四川大学</td><td>22</td><td>311</td><td>23</td><td>19</td><td>374</td></tr><tr><td>百度-哈尔滨工 业大学</td><td>167</td><td>288</td><td>22</td><td>18</td><td>493</td></tr><tr><td>四川大学-哈尔 滨工业大学</td><td>22</td><td>276</td><td>22</td><td>18</td><td>338</td></tr><tr><td>百度-四川大学- 哈尔滨工业大学</td><td>22</td><td>275</td><td>22</td><td>18</td><td>337</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验结果展示",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次实验分别固定待比较的停用词词表，将搜狗语料库、复旦文本语料库和中文文本语料库作为实验数据进行文本聚类处理，统计每一簇中各类型文本数量，以其数量最多的一类作为该簇的正确文本类型，同时进行评价指标P、R、F1的计算。其中表4至表6为三个停用词表处理后的文本聚类结构，表7是将百度停用词表之中的英文停用词去掉后得到的结果，而表8则是应用全停用词表得到的聚类结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/12995ba17f14085020f6b15cde3306a3bf90eac3a7febe6e4f09d9cb18757dee.jpg",
+        "table_caption": [
+            "表4百度停用词表实验结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>指标</td><td>第一簇第二簇 第三簇 (艺术)</td><td>(经济)</td><td>第四簇 (体育) (IT)</td><td>第五簇 (军事)</td><td>平均值</td></tr><tr><td>复旦 语料库</td><td>R</td><td>0.964 0.944</td><td>1 0.982</td><td>0.963 0.851</td><td>0.816</td><td>0.837</td></tr><tr><td></td><td>指标</td><td>第一簇</td><td>第二簇 （体育）</td><td>第三簇 第四簇 (军事)</td><td>第五簇 (IT)</td><td>平均值</td></tr><tr><td>搜狗 语料库</td><td>R</td><td>0.929</td><td>0.813</td><td>0.553</td><td>0.445</td><td>0.609 0.664</td></tr><tr><td></td><td>指标</td><td>第一簇 第二簇 (艺术)</td><td>(体育)</td><td>(IT)</td><td>第五簇 (军事)</td><td>平均值</td></tr><tr><td rowspan=\"3\">中文 语料库</td><td>R</td><td>0.882 0.964</td><td>0.600</td><td>0.652</td><td>0.368</td><td>0.704</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ed7923b281f1d465f7bc5a8eadea8340744a1588f7a7a148b7f78d4978e1cb4.jpg",
+        "table_caption": [
+            "表5四川大学停用词表实验结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>指标</td><td>(艺术)</td><td>(经济)</td><td>第一簇 第二簇 第三簇 第四簇 第五簇 (体育)</td><td>(IT)</td><td>(军事)</td><td>平均值</td></tr><tr><td>复旦 语料库</td><td>P R F1</td><td>0.907 0.979 0.942</td><td>0.957 1 0.978</td><td>0.971 0.447 0.612</td><td>0.963 0.976 0.969</td><td>0.432 0.789 0.558</td><td>0.846 0.838 0.812</td></tr><tr><td></td><td>指标</td><td>第一簇 (体育）</td><td>第二簇 (艺术)</td><td>第三簇 (经济)</td><td>第四簇 (IT)</td><td>第五簇 (军事)</td><td>平均值</td></tr><tr><td>搜狗 语料库</td><td>P R F1</td><td>0.614 0.847 0.712</td><td>0.424 0.443 0.434</td><td>0.743 0.555 0.640</td><td>0.455 0.305 0.365</td><td>0.040 0.053 0.046</td><td>0.455 0.441 0.439</td></tr><tr><td></td><td>指标</td><td>第一簇 (艺术)</td><td>第二簇 (体育)</td><td>第三簇 (经济)</td><td>第四簇 (IT)</td><td>第五簇 (军事)</td><td>平均值</td></tr><tr><td rowspan=\"3\">中文 语料库</td><td>P</td><td>0.899</td><td>0.993</td><td>0.644</td><td>0.839</td><td>0.326</td><td>0.740</td></tr><tr><td>R</td><td>0.950</td><td>0.893</td><td>0.791</td><td>0.634</td><td>0.421</td><td>0.738</td></tr><tr><td>F1</td><td>0.924</td><td>0.940</td><td>0.701</td><td>0.740</td><td>0.367</td><td>0.734</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0de6cb6a543de7c3ea0705497df486208d01f16aafacf6ba53eaa74a0620503.jpg",
+        "table_caption": [
+            "表6哈尔滨工业大学停用词表实验结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>指标</td><td>(艺术)</td><td>(经济)</td><td>第一簇第二簇第三簇第四簇第五簇 (体育)</td><td>(IT) (军事)</td><td></td><td>平均值</td></tr><tr><td>复旦 语料库</td><td>P R F1</td><td>0.924 0.950 0.937</td><td>0.948 1 0.973</td><td>0.943 0.440 0.600</td><td>0.732 0.970 0.834</td><td>0.667 0.816 0.734</td><td>0.843 0.835 0.816</td></tr><tr><td></td><td>指标</td><td>第一簇 (艺术)</td><td>第二簇 (体育)</td><td>第三簇 (经济)</td><td>第四簇第五簇 (IT)</td><td>(军事)</td><td>平均值</td></tr><tr><td rowspan=\"2\">搜狗 语料库</td><td>P R</td><td>0.788 0.929</td><td>1 0.840</td><td>0.545 0.382</td><td>0.535 0.604</td><td>0.092 0.105</td><td>0.592 0.572</td></tr><tr><td>F1</td><td>0.853</td><td>0.913</td><td>0.449</td><td>0.567</td><td>0.098</td><td>0.576</td></tr><tr><td></td><td>指标</td><td>第一簇 (艺术)</td><td>第二簇 (经济)</td><td>第三簇 (军事)</td><td>第四簇 (IT)</td><td>第五簇 (体育)</td><td>平均值</td></tr><tr><td rowspan=\"3\">中文语 料库</td><td>P</td><td>0.937</td><td>0.438</td><td>0.135</td><td>0.743</td><td>0.605</td><td>0.572</td></tr><tr><td>R</td><td>0.950</td><td>0.636</td><td>0.105</td><td>0.793</td><td>0.393</td><td>0.575</td></tr><tr><td>F1</td><td>0.943</td><td>0.504</td><td>0.116</td><td>0.767</td><td>0.426</td><td>0.551</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/08690460c5336385ea09d472a8ccb43e0f531a75dd4c49ca445f95be29e3bcda.jpg",
+        "table_caption": [
+            "表7百度去英文停用词表实验结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>第一簇 第二簇 第三簇 第四簇 第五簇</td><td>指标</td><td>(艺术)</td><td>(经济)</td><td>(体育)</td><td>(IT) (军事)</td><td>平均值</td></tr><tr><td>复旦 语料库</td><td>R</td><td>0.925</td><td>0.965</td><td>0.923</td><td>0.763 0.598</td><td>0.835</td></tr><tr><td></td><td>指标</td><td>第一簇</td><td>第二簇 (艺术) (体育）</td><td>(经济)</td><td>第四簇 第五簇 (军事)</td><td>平均值</td></tr><tr><td>搜狗 语料库</td><td>P R</td><td>0.739</td><td>0.924</td><td>0.615</td><td>0.465 0.528</td><td>0.654</td></tr><tr><td></td><td>指标 第一簇</td><td>(艺术)</td><td>(体育)</td><td>(经济)</td><td>(IT) (军事)</td><td>平均值</td></tr><tr><td>语料库</td><td>P 0.964 R F1</td><td>0.882 0.921</td><td>0.804 0.687</td><td>0.831 0.88</td><td>0.824 0.241 0.732 0.300</td><td>0.716 0.704</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/25ec76e4552d481e86f32721325c102eb8d6b0ff808748e976359bdbc74c2e5e.jpg",
+        "table_caption": [
+            "表8全停用词表实验结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">第一簇 第二簇 第三簇 第四簇 第五簇</td></tr><tr><td>复旦</td><td>指标 P</td><td>(艺术) 0.938</td><td>(经济) (体育) 0.965 0.943</td><td>(IT) 0.976</td><td>(军事) 0.438</td><td>0.852 0.847 平均值</td></tr><tr><td rowspan=\"2\">语料库</td><td>R F1</td><td>0.979 0.986</td><td>1 0.982</td><td>0.440 0.600</td><td>0.976 0.842 0.976 0.576</td><td>0.855</td></tr><tr><td>指标</td><td>第一簇 (艺术)</td><td>第二簇 (经济)</td><td>第三簇 (军事)</td><td>第四簇 第五簇 (体育) (IT)</td><td>平均值</td></tr><tr><td>搜狗 语料库</td><td>P R</td><td>0.787 0.871</td><td>0.325 0.245</td><td>0.468 0.789</td><td>0.876 0.567 0.482</td><td>0.446 0.580 0.591</td></tr><tr><td></td><td>F1 指标</td><td>0.827 第一）</td><td>0.279 第二</td><td>0.588 第三）</td><td>0.688 0.463 第四簇 第五</td><td>0.586 平均值</td></tr><tr><td rowspan=\"3\">中文 语料库</td><td>P</td><td>0.882</td><td>0.833</td><td>0.831 0.831</td><td>0.467</td><td>0.769</td></tr><tr><td>R</td><td>0.964</td><td>0.600</td><td>0.936 0.646</td><td>0.750</td><td>0.779</td></tr><tr><td>F1</td><td>0.922</td><td>0.698</td><td>0.880</td><td>0.727 0.576</td><td>0.774</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上实验结果数据均为直接统计计算所得，为了更好地对三个停用词表进行分析对比，将实验数据进行整合，分别从不同停用词表对同一文本类型(经济、军事等)的作用效果，以及不同停用词表对同一语料库的作用效果进行比对。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 文本领域分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次实验数据涉及经济、IT、军事、体育和艺术这5个领域。在固定停用词表的情况下，以三个语料库作为实验数据，得到不同的聚类结果，分别挑选出不同语料库中各类型文本的F1值并求得三者的平均值，结果如表9和表10所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过表10可以看出：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）就这5个领域的文本类型来说，艺术类的聚类效果最佳，而军事类的聚类效果较差，二者的F1指标值相差近 $50 \\%$ ，这与军事类文本数量较少有关，因此在进行聚类实验时，文本要保证一定的数量，才能够提取尽可能准确的特征值，构建更为精准的特征向量，避免在后续实验分析中带来干扰;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）百度停用词表整体作用效果较好，F1指标值高出其他两个停用词表0.049和0.069，而其在经济以及军事领域表现相对突出。百度停用词表中最为突出的是其拥有较多的两字停用词，尽管其在数量上与四川大学停用词表不相上下，但其作用效果远高于四川大学停用词表，因此百度停用词表拥有较高质量的两字停用词，而两字停用词对文本聚类的作用效果的影响最为重要，所以在构建新的停用词表时要尽可能多地考虑两字停用词;",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c212c085bb73b29073ffd408505441aacd1dd50b81e4ae80ea9b66ba47ec520.jpg",
+        "table_caption": [
+            "表9各语料库与文本领域综合统计表-F1值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>文本类型</td><td>语料库</td><td>百度</td><td>四川大学</td><td>哈尔滨工业大学</td></tr><tr><td rowspan=\"4\">经济</td><td>复旦语料库</td><td>0.982</td><td>0.978</td><td>0.973</td></tr><tr><td>搜狗语料库</td><td>0.598</td><td>0.640</td><td>0.449</td></tr><tr><td>中文语料库</td><td>0.884</td><td>0.701</td><td>0.504</td></tr><tr><td>平均值</td><td>0.821</td><td>0.773</td><td>0.642</td></tr><tr><td rowspan=\"4\">IT</td><td>复旦语料库</td><td>0.851</td><td>0.969</td><td>0.834</td></tr><tr><td>搜狗语料库</td><td>0.480</td><td>0.365</td><td>0.567</td></tr><tr><td>中文语料库</td><td>0.725</td><td>0.740</td><td>0.767</td></tr><tr><td>平均值</td><td>0.685</td><td>0.691</td><td>0.722</td></tr><tr><td rowspan=\"5\">军事</td><td>复旦语料库</td><td></td><td></td><td></td></tr><tr><td>搜狗语料库</td><td>0.697 0.512</td><td>0.558</td><td>0.734 0.098</td></tr><tr><td>中文语料库</td><td>0.285</td><td>0.046 0.367</td><td>0.116</td></tr><tr><td>平均值</td><td></td><td>0.324</td><td></td></tr><tr><td></td><td>0.498</td><td></td><td>0.316</td></tr><tr><td rowspan=\"4\">体育</td><td>复旦语料库</td><td>0.597</td><td>0.612</td><td>0.600</td></tr><tr><td>搜狗语料库</td><td>0.748</td><td>0.712</td><td>0.913</td></tr><tr><td>中文语料库</td><td>0.687</td><td>0.940</td><td>0.426</td></tr><tr><td>平均值</td><td>0.677</td><td>0.755</td><td>0.646</td></tr><tr><td rowspan=\"4\">艺术</td><td>复旦语料库</td><td>0.944</td><td>0.942</td><td>0.937</td></tr><tr><td>搜狗语料库</td><td>0.823</td><td>0.434</td><td>0.853</td></tr><tr><td>中文语料库</td><td>0.921</td><td>0.924</td><td>0.943</td></tr><tr><td>平均值</td><td>0.896</td><td>0.767</td><td>0.911</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/aad9f5835d6861014c7bf920e843c82b104f399f1291f0e20afbf7712898cee5.jpg",
+        "table_caption": [
+            "表10各领域文本聚类平均F1值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>领域 F1 停用词表</td><td>经济</td><td>IT 军事</td><td>体育</td><td>艺术</td><td>平均值</td></tr><tr><td>百度</td><td>0.821</td><td>0.685</td><td>0.498</td><td>0.677 0.896</td><td>0.716</td></tr><tr><td>四川大学</td><td>0.773</td><td>0.691</td><td>0.324 0.775</td><td>0.767</td><td>0.667</td></tr><tr><td>哈尔滨工业 大学</td><td>0.642</td><td>0.722</td><td>0.316</td><td>0.646 0.911</td><td>0.647</td></tr><tr><td>平均值</td><td>0.745</td><td>0.699</td><td>0.379</td><td>0.699 0.858</td><td>0.676</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）哈尔滨工业大学停用词表在IT类以及艺术类文本聚类中表现突出，而四川大学停用词表在体育类文本聚类中作用效果最好；观察二者内容结构发现,哈尔滨工业大学停用词表中包含其他停用词表较少含有的中英文字符，而四川大学停用词表中包含较多的三字、四字停用词，这些不同的特征是其作用效果不同的主要原因;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)在此对不同停用词表适用的领域进行了实验分析，因此，在构建各领域专用停用词表时，可以依据其不同的表现进行选择参考。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 不同语料库分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将同一语料库中不同文本类型的F1值求和取平均值，得到固定停用词表对各语料库所产生的不同聚类效果，整合结果如表11和图2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e2a6e9a2d13630958481bfd16926330d4b1e92a3a166b2ce16cf545d8e3708b.jpg",
+        "table_caption": [
+            "表11各语料库文本聚类效果平均值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>语料 F1</td><td>复旦</td><td>搜狗</td><td>中文</td><td>平均值</td></tr><tr><td>停用词表</td><td></td><td></td><td></td><td></td></tr><tr><td>百度</td><td>0.814</td><td>0.632</td><td>0.700</td><td>0.715</td></tr><tr><td>四川大学</td><td>0.812</td><td>0.439</td><td>0.734</td><td>0.662</td></tr><tr><td>哈尔滨工业大学</td><td>0.816</td><td>0.576</td><td>0.551</td><td>0.648</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.90.80.7 三0.5 0.4 10.30.20.10复旦 搜狗 中文 平均值百度停用词表 ■四川大学停用词表■哈尔滨工业大学停用词表",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看到，百度停用词表对于搜狗语料库的作用效果较好，四川大学停用词词表比较适用于中文文本语料库，而哈尔滨工业大学停用词表更适合于复旦文本语料库。然而同一停用词表会对不同语料库产生较大差异的聚类效果主要还是取决于语料库中的文本类型，如经济、体育等，以及该语料库中文本的主要形式，文本类型在上文中已经讨论过，将不再考虑。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "观察这三个语料库，可以看出，复旦语料库主要由大量的文献期刊组成，包含少量新闻报道评论；搜狗语料库均为各门户网站的新闻报道；而中文文本语料库中既有文献，又有新闻报道，还有一些邮件，组成较为复杂。初步得出结论这三个停用词表对文献期刊类文本的作用效果较好，而哈尔滨工业大学更胜一筹，对于新闻报道类的文本，百度停用词表的优势较大，四川大学停用词表作用效果较差，其更适合邮件",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文献等类型的文本。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合4.1节与4.2节实验，笔者进行如下总结：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）去停用词作为文本处理的中间环节，具有至关重要的作用，其上一环节为中文分词，分词的结果关乎停用词的匹配，如\"近年来”，可以切分为\"近年”和\"来”，也可直接切分为\"近年来”，若按第一种切分方法，这三个停用词表均可顺利去除停用词，而若按照第二种则仅有四川大学停用词表可顺利去除，因为其含有这个三字停用词，因此，在构建停用词表时，要考虑到尽可能多的情况，才能够最大程度地匹配不同分词方法的处理结果;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）去除停用词后的步骤为特征向量提取，而去除停用词也是为了在最大程度表现文本主题的前提下去除无用词语，降低特征向量的维度。不同停用词表对于不同语料库的作用效果不同，主要在于各停用词表构建时采用的是不同的语料库，因此，在针对不同语料库进行文本聚类时，选取与该语料库来源相近的停用词表会取得更好的效果，由此推广，在构建专用停用词时，要选取包含大量领域文本的语料库。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 百度停用词表去除英文停用词结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于百度停用词表中包含大量的英文单词，而实验语料库均为中文文本，因此本次实验过程中，去除停用词表中的英文单词，并与原实验结果进行对比，结果如表12所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8935b8003a5189f917b4b21373592a05c38e011db7bcb12d04b14abf21501165.jpg",
+        "table_caption": [
+            "表12百度停用词表对比结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>文本类型</td><td>语料库</td><td>百度</td><td>百度(去英文)</td></tr><tr><td rowspan=\"4\">经济</td><td>复旦语料库</td><td>0.982</td><td>0.982</td></tr><tr><td>搜狗语料库</td><td>0.598</td><td>0.598</td></tr><tr><td>中文语料库</td><td>0.884</td><td>0.880</td></tr><tr><td>复旦语料库</td><td>0.851</td><td>0.851</td></tr><tr><td rowspan=\"3\">IT</td><td>搜狗语料库</td><td>0.480</td><td>0.486</td></tr><tr><td>中文语料库</td><td>0.725</td><td>0.732</td></tr><tr><td>复旦语料库</td><td>0.697</td><td>0.686</td></tr><tr><td rowspan=\"3\">军事</td><td>搜狗语料库</td><td>0.512</td><td>0.499</td></tr><tr><td>中文语料库</td><td>0.285</td><td>0.300</td></tr><tr><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">体育</td><td>复旦语料库</td><td>0.597</td><td>0.600</td></tr><tr><td>搜狗语料库</td><td>0.748</td><td>0.865</td></tr><tr><td>中文语料库</td><td>0.687</td><td>0.687</td></tr><tr><td rowspan=\"3\">艺术</td><td>复旦语料库</td><td>0.944</td><td>0.944</td></tr><tr><td>搜狗语料库</td><td>0.823</td><td>0.823</td></tr><tr><td>中文语料库</td><td>0.921</td><td>0.921</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表12可以看出，斜体标注的几个语料库聚类的结果不受是否去除英文停用词的影响，原因是这几个语料样本基本不含英文词汇。而加粗显示的几个语料库聚类的结果在去除英文停用词后略有上升，其他几个语料样本的聚类结果则略有下降，分析其文本，原因在于以IT类文本为例，经常会出现计算机领域的单词或字母，可以作为特征向量用于表征文本，如果去除则会降低聚类效果的准确性；而通过观察军事类文本，其中部分文本包含无用的英文单词，去除之后使得特征向量更加准确，提升了聚类效果。总体看来，这些样本中英文词汇的比例较低，且经常在文本中有特指意义，建议在去除停用词时无需考虑英文停用词的去除。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4全停用词表结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将三个不同停用词表整合为一个全停用词表，并将其用于聚类实验，同时，抽取三个停用词表聚类效果的最优值与之进行对比，结果如表13所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0ef929368a32ad5e37655e3ed6b87dae10a4f60fceb756c3fa6f55af4a0177b.jpg",
+        "table_caption": [
+            "表13全停用词表对比结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>文本类型</td><td>语料库</td><td>最优值</td><td>全停用词表</td></tr><tr><td rowspan=\"5\">经济</td><td>复旦语料库</td><td>0.982</td><td>0.982</td></tr><tr><td>搜狗语料库</td><td>0.598</td><td>0.279</td></tr><tr><td>中文语料库</td><td>0.884</td><td>0.880</td></tr><tr><td>平均值</td><td>0.821</td><td>0.713</td></tr><tr><td>复旦语料库</td><td>0.834</td><td>0.976</td></tr><tr><td rowspan=\"5\">IT</td><td>搜狗语料库</td><td></td><td></td></tr><tr><td>中文语料库</td><td>0.567</td><td>0.463</td></tr><tr><td>平均值</td><td>0.767 0.722</td><td>0.727 0.722</td></tr><tr><td>复旦语料库</td><td></td><td></td></tr><tr><td>搜狗语料库</td><td>0.697</td><td>0.576</td></tr><tr><td rowspan=\"5\">军事</td><td></td><td>0.512</td><td>0.588</td></tr><tr><td>中文语料库 平均值</td><td>0.285</td><td>0.576</td></tr><tr><td></td><td>0.498</td><td>0.580</td></tr><tr><td>复旦语料库</td><td>0.612</td><td>0.600</td></tr><tr><td>搜狗语料库</td><td>0.712</td><td>0.688</td></tr><tr><td rowspan=\"5\"></td><td>中文语料库</td><td>0.940</td><td>0.698</td></tr><tr><td>平均值</td><td>0.755</td><td>0.622</td></tr><tr><td>复旦语料库</td><td>0.937</td><td>0.986</td></tr><tr><td>搜狗语料库</td><td>0.853</td><td>0.827</td></tr><tr><td>中文语料库</td><td>0.943</td><td>0.922</td></tr><tr><td></td><td>平均值</td><td>0.911</td><td>0.912</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可以看出，融合了三个停用词表的全停用词表聚类效果相比单个停用词表的聚类效果提升较大，但将其与各停用词表聚类效果最佳的文本类型结果相比较，其优势并不明显，仅在军事类文本中提升了0.082，而在经济及体育类文本中下降了0.108和0.133，下降幅度较为明显，其余类型基本保持不变。事实说明，停用词表并不是包含的停用词越多越好，而是具有针对性比较好，并且能够针对文本已有信息,如文本来源、文本可能包含的类型去优化停用词表。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对三个停用词表具体内容进行比较分析，可以看出各停用词表的差异较为明显，主要体现在两字词语上，其在内容及数量上有显著差异，这三者的不同源于其源语料库及应用范围不同；而在具体的实验分析中发现，不同停用词表的使用对于聚类效果影响的差异是较为显著的，综合比较，百度停用词表对于三个语料库的平均作用效果最佳，去除英文词的百度停用词表聚类效果略有提升。三个不同停用词表对于艺术类文本的作用效果均高于其他类别，而对于军事类均没有起到很好的效果，且全停用词表并不能在聚类过程中取得最佳的效果，反而会在一定程度上降低聚类的精准度。因此，在处理具体聚类任务的时候，选取准确适合的停用词表是十分重要的，如果能够按需构建专业停用词表或者构建出更为全面的通用停用词表，效果会更佳，这也是日后研究的主要方向。在本次对比实验中，也存在一些不足，如实验文本数量较少,可能会导致实验结果的偶然性；聚类方法单一，仅采用K-means 算法，不能排除算法对实验结果的影响;而对于停用词表作用的研究，未考虑按照停用词的类别进行分类处理，在后续的研究中将针对这些不足加以改进。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Feldman R，Dagan I.Knowledge Discovery in Textual Databases (KDT)[C]//Proceedings of International Conference on Knowledge Discovery and Data Mining.1995:112-117.   \n[2] Ahonen-Myka H,Heinonen O,Klemettinen M,et al. Applying Data Mining Techniques in Text Analysis[R]. Technical Report C-1997-23，Department of Computer Science,University of Helsinki,1997.   \n[3] Luhn H P.A Statistical Approach to Mechanized Encoding and Searching of Literary Information[J].IBM Journal of Research and Development,1957,1(4): 309-317.   \n[4]Luhn HP. The Automatic Creation of Literature Abstracts[J]. IBM Journal of Research Development, 1958,2(2):159-165.   \n[5]Francis W N, Kucera H, Mackie A W. Frequency Analysis of English Usage[J]. Frequency Analysisof English Usage Lexicon & Grammar,1982,18: 64-70.   \n[6]Frakes W B,Baeza-Yates R. Information Retrieval: Data Structures and Algorithms[M]. Prentice-Hall, Inc.,1992.   \n[7]Lo T W, He B, Ounis I. Automatically Building a Stopword List foran Information Retrieval System[J]. Journal of Digital Information Management, 2005,3(1): 3-8.   \n[8]江兆中.基于语境和停用词驱动的中文自动分词研究[D]. 合肥：合肥工业大学，2010.(Jiang Zhaozhong.Chinese Words Segmentation Based on Context and Stopwords[D]. Hefei: Hefei University of Technology,2010.)   \n[9]熊文新，宋柔．信息检索用户查询语句的停用词过滤[J]. 计算机工程，2007,33(6):195-197.(Xiong Wenxin， Song Rou.Removal of Stop Word in Users’Request for Information Retrieval[J]. Computer Engineering,2007,33(6): 195-197.)   \n[10]周钦强，孙炳达，王义．文本自动分类系统文本预处理方 法的研究[J]．计算机应用研究，2005(2)：85-86.(Zhou Qinqiang, Sun Bingda,Wang Yi. Study on New Pretreatment MethodforChineseTextClassficationSystem[J]. Application Research of Computers,2005(2): 85-86.)   \n[11] Yang B Y,Pedersen JO.A Comparative Study on Feature [C]//Proceedings of International Conference on Machine Learning. 2010.   \n[12] Silva C,Ribeiro B.The Importance of Stop Word Removal on Recall Values in Text Categorization[C]/ Proceedings of the International Joint Conference on Neural Networks.2003, 3: 20-24.   \n[13] Tomov D T. Some Critical Remarks on the Stop Word Lists of ISI Publications[J]. Journal of Documentation,20o1,57(6): 798-808.   \n[14]化柏林．知识抽取中的停用词处理技术[J]．现代图书情报 技术，2007(8):48-51.(Hua Bolin，Stop-Word Processing Technique in Knowledge Extraction[J]. New Technology of Library and Information Service,2007(8): 48-51.)   \n[15] Van Rijsbergen C J. Information Retrieval[M]. London: Butterworths,1975.   \n[16] Fox C.A Stop List for General Text[J]. ACM SIGIR Forum, 1990, 24(1-2): 19-21.   \n[17] 陈欣，张菁，李晓光，等．一种面向中文敏感网页识别的 文本分类方法[J]．测控技术,2011,30(5):27-31.(Chen Xin, Zhang Jing,Li Xiaoguang,et al.A Text Classification Method for Chinese Pornographic Web Recognition[J]. Measurement & Control Technology,2011,30(5): 27-31.)   \n[18] 顾益军，樊孝忠，王建华，等．中文停用词表的自动选取 [J]．北京理工大学学报，2005，25(4):337-340.(Gu Yijun, Fan Xiaozhong,Wang Jianhua, et al. Automatic Selection of Chinese Stoplist[J]. Transactions of Beijing Institute of Technology,2005,25(4): 337-340.)   \n[19]崔彩霞．停用词的选取对文本分类效果的影响研究[J]．太 原师范学院学报:自然科学版，2008，7(4):91-93.(Cui Caixia.Research on the Effect of Stop Words Selection on Text Categorization [J]. Journal of Taiyuan Normal University: Natural Science Edition,2008,7(4): 91-93.)   \n[20] Zou F,Wang F L,Deng X,et al. Automatic Construction of Chinese Stop Word List[C]//Proceedings of the International Conference on Applied Computer Science.2006:16-18.   \n[21]王素格，魏英杰．停用词表对中文文本情感分类的影响[J]. 情报学报,2008,27(2):175-179.(Wang Suge,Wei Yingjie. The Influence of Stoplist on the Chinese Text Sentiment Categorization[J]. Journal of the China Society for Scientific and Technical Information,2008,27(2): 175-179.)   \n[22] 周姚．基于云计算的文本挖掘技术研究[D]．长沙：国防科 学技术大学，2011．(Zhou Yao.Cloud Computing-based Research on Text Mining Techniques[D]. Changsha: National University of Defense Technology,2011.）   \n[23] Makrehchi M, Kamel M S.Automatic Extraction of DomainSpecific Stopwordsfrom Labeled Documents[C]// Proceedings of European Conference on IR Research(ECIR 2008), Glasgow, UK. 2008: 222-233.   \n[24] 华林森．中文文本情感分类研究[D]．重庆：重庆大学, 2014.(Hua Linsen. Study on Chinese Text Sentiment Classification[D]. Chongqing: Chongqing University,2014.)   \n[25]搜狗实验室．搜狐新闻数据[DB/OL]．[2016-07-05].http:// www.sogou.com/labs/resource/cs.php.(Sogou Labs. Sohu News Data [DB/OL]. [2016-07-05]. htp://www.sogou.com/ labs/resource/cs.php.)   \n[26]李梅．改进的K均值算法在中文文本聚类中的研究[D]．合 肥：安徽大学，2010.(Li Mei．Study of Chinese Text Clustering on Improved K-means Algorithm[D]. Hefei: Anhui University, 2010.)   \n[27]黄磊，伍雁鹏，朱群峰．关键词自动提取方法的研究与改 进[J].计算机科学,2014,41(6):204-207.(Huang Lei,Wu Yanpeng, Zhu Qunfeng. Research and Improvement of TFIDF Text Feature Weighting Method[J]. Computer Science,2014, 41(6): 204-207.)   \n[28]数据堂．文本分类语料库(复旦)测试语料[DB/OL].[2016- 07-05].http://www.datatang.com/datares/go.aspx?dataid $\\ c =$ 615059.(Data Hall.Text Classification Corpus (Fudan） Test Corpus [DB/OL]. [2016-07-05]. http://www.datatang.com/ datares/go.aspx?dataid=615059.)   \n[29] 胡晓辉．基于团结构的文本分类技术研究[D]．南昌：江西 师范大学，2008．(Hu Xiaohui．The Research on Text Classification Based on Clique Model[D]. Nanchang: Jiangxi Normal University,2008.)   \n[30]孙国菊，张杰．中文文本分类的特征选取评价[J]．哈尔滨 理工大学学报，2005，10(1):76-78．(Sun Guoju，Zhang Jie.An Evaluation of Feature Selection Methods for Text Categorization[J].Journal of Harbin University of Science and Technology,2005,10(1): 76-78.)   \n[31]数据堂．中文文本分类语料[DB/OL].[2016-07-05].http:// www.datatang.com/data/11971/.(Data Hall. Chinese Text Categorization Corpus [DB/OL].[2016-07-05].http://www. datatang.com/data/11971/.)   \n[32]数据堂．停用词集合[DB/OL].[2016-07-05].http://www. datatang.com/data/19300/. (Data Hall. Stop WordsSet [DB/OL].[2016-07-05]. http://www.datatang.com/data/19300/.)   \n[33]于娟，尹积栋，费庶．基于句法结构分析的同义词识别方 法研究[J]．现代图书情报技术，2013(9):35-40.(Yu Juan, Yin Jidong，Fei Shu.Identifying Synonyms Based on Sentence Structure Analysis[J]. New Technology of Library and Information Service,2013(9):35-40.)   \n[34]费洪晓，康松林，朱小娟，等．基于词频统计的中文分词 的研究[J]．计算机工程与应用，2005,41(7):67-68.(Fei Hongxiao,Kang Songlin,Zhu Xiaojuan,et al. Chinese Word Segmentation Research Based on Statistic the Frequency of the Word[J]. Computer Engineering and Applications,2005, 41(7): 67-68.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "官琴：数据筛选，进行实验，论文起草;  \n邓三鸿，王昊：提出研究思路，论文最终版本修订。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:mfl614036@smail.nju.edu.cn。[1]官琴，邓三鸿，王昊.SohuData.zip.搜狐新闻数据[2]官琴，邓三鸿，王昊.FudanData.zip.文本分类语料库(复旦)测试语料.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]官琴，邓三鸿，王昊.ChineseTextData.zip.中文文本分类语料.   \n[4]官琴，邓三鸿，王昊.Stopwords.zip.停用词集合. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chinese Stopwords for Text Clustering: A Comparative Study ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Guan QinDeng SanhongWang Hao (School of Information Management, Nanjing University, Nanjing 21o023, China) (Jiangsu Key Lab of Data Engineering and Knowledge Service, Nanjing 21O023, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This paper compares and analyzes the impacts of stopwords on textual data processing,aiming to improve the construction and useof stopwords.[Methods] We obtained stopword lists from Baidu Search Engine, Harbin Institute of Technologyand the Machine Learning Laboratory of Sichuan University for this study.First, we processed text messge with the stopword lists and Chinese word segmentation technique,the TF-IDF feature evaluation functionand the VSM vector model. Secondly，we analysed the texts with the K-means algorithm to calculate the P,R and F1 values.[Results] Different stopword lists posed various effects to the text data processing tasks.The length of the list and the content structure of the texts directly influenced the clustering results.More importantly,the two-character stopwords was the biggest factor.[Limitations]The text typesand quantity were limited. Moreresearch is needed to analyze the text with diferent types of stop words.[Conclusions] Stopword list poses significant impacts on text clustering,thus,it is extremely important to build or choose the appropriate Chinese stopword list. However, excessively increasing the number of stop words might not always improve the clustering results. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Text ClusteringStopword ListK-means ",
+        "page_idx": 8
+    }
+]

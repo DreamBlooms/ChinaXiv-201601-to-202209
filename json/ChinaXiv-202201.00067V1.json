@@ -1,0 +1,363 @@
+[
+    {
+        "type": "text",
+        "text": "次要任务对词类判断任务中权力空间表征激活的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱磊 赛雪莹 贾德拉·木拉提（复旦大学心理学系，上海200433）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 许多证据表明权力在大脑中是以垂直空间来进行表征的，具体而言为言语和视觉空间编码。前人研究发现两种编码具有情境依赖性，即当前任务决定了激活哪种编码。一般的词类判断任务主要依赖于言语编码。然而仍不确定的是，当排除言语空间编码后，词类判断任务能否激活视觉空间编码。本研究拟借助双任务范式探讨此问题。实验结果发现单任务条件下出现权力-空间交互，并且双任务条件下，这一交互只受到视觉空间次要任务的干扰。这说明，词类判断任务也可依赖视觉空间编码，并进一步支持了权力空间表征的情境依赖性。关键词权力空间表征，情境依赖性，视觉空间编码，言语空间编码",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抽象概念在大脑中是如何表征的一直是认知心理学领域备受关注的重要课题。作为抽象概念的一种，权力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过控制资源来影响他人的能力（Galinsky et al.,2003;Keltner etal.,2003）。在日常生活中，人们经常使用垂直空间隐喻来描述权力（Gibbs,1994;Lakoff,1987）。例如：上司有较“高”的地位，而下属则地位较“低”。许多证据表明权力在大脑中是以垂直空间来进行表征的，具体而言为言语和视觉空间编码，两种编码具有情境依赖性，即当前任务决定了激活哪种编码（Dai & Zhu,2018; Jiang et al.,2015; Jiang& Zhu,2015;Lu et al.,2017;Schubert,2005;Zhang etal.,2019）。我们的前期研究发现一般的词类判断任务主要依赖于言语编码。然而仍不确定的是，当排除言语空间编码之后，词类判断任务能否激活视觉空间编码。本研究拟借助双任务范式探讨此问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1模态表征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "权力-空间的这种联系可以用模态表征进行解释。Barsalou的扎根认知框架（GroundedCognition Framework）认为概念加工会激活相关的知觉模拟（Barsalou,1999,2008;Glenberg,1997）。也就是说，当加工一个概念时，个体会重新激活先前的感觉运动经验（即模态表征），帮助理解抽象概念。也就是说，概念加工和感知加工共享相同的神经系统，Anderson（2010）称之为“神经重用”（Neural Reuse）。举个例子，对颜色概念的加工在一定程度上依赖于和颜色视觉感知相同的神经系统（Martin,2016;Wang et al.,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2013）。同样地，权力概念的加工也可能依赖于高度空间信息的重新激活，即模态表征在权力概念加工的过程中起着至关重要的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，越来越多的证据支持视觉空间编码（模态表征）在权力空间联系中的作用(Chiao,2010; Chiao et al.,2009; Dai & Zhu,2018; Jiang et al.,2015; Jiang & Zhu, 2015; Lu, etal.,2017; Zhang etal.,2019）。例如，Schubert（2005）给被试呈现一系列权力词（如：老板、秘书），空间信息为屏幕上呈现的位置（上方／下方）或按键（按键盘上箭头或下箭头键），要求被试判断权力大小。结果发现当权力大的词出现在屏幕上方或按上箭头键时权力小的词出现在屏幕下方或按下箭头键时，被试的反应更快。这表明权力概念是由垂直空间来表征的，被试在进行权力判断时激活了垂直空间信息。当激活的垂直空间信息与实际呈现的高度或按键一致时，反应被易化。我们的研究（Jiang etal.,2015）进一步补充了一些表示动物的权力词（如：老虎、兔子），要求被试按上下箭头键做词类（人／动物)判断，权力一空间的这种交互作用仍然存在。目前，外显权力判断（Schubert,2005）和内隐词类判断任务（Jiang etal.,2015）是权力加工研究的两大主要任务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "权力视觉空间编码的另一个证据来自于距离效应。视觉空间编码，作为一种模态表征，它一定是连续的，即不同的权力取值对应不同的垂直高度。具有连续模态表征的概念都具有距离效应，即比较连续概念中的两个实例所花费的时间是这些实例之间距离的反函数。例如，比较数量上更接近的两个数字（例如98和99）比数量上更远的两个数字（例如11和99），反应慢（Dehaene etal.,2003）。同样地，我们发现比较两个在权力轴上更远的词要比两个更接近的词快（Jiang＆ Zhu,2015）。此外，神经成像的研究发现加工一个权力相关概念（地位）会激活被用于加工空间信息的脑区（Chiao et al.,2009;Chiao,2010;Masonet al.,2014）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2非模态表征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，这种视觉空间编码（模态表征）和被广泛认可的表征概念的语义网络背道而驰。因此，受到了许多学者的质疑（Machery,2016; Mahon,2015;Leshinskaya& Caramazza,2016）。在语义网络模型中，概念由准语义结点表征，这些结点相互连接在一起，形成网络。当某个结点激活时，激活会随着连线扩散到与之相关的其他结点。这种非模态表征也可称为言语空间编码。Schubert（2005）认为言语空间编码也能解释权力-空间的交互作用。如果在屏幕上方呈现一个权力大的词，“高”结点被激活，激活扩散到“权力大”结点，进而易化了我们对权力大词的加工。这种视觉和言语空间编码的区分，双重编码理论（Dual Coding Theory,Paivio,1986）也有相似的论述。Paivio 区分了模拟编码和语言符号，模拟编码就是用具体的形象或原型来表征概念，而言语符号，顾名思义，就是用语言或语义符号来表征概念。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了权力概念，在空间一数字联合编码效应（Spatial-Number Association of ResponseCodes Effects，简称 SNARC效应）的研究中，也区分了视觉和言语空间编码。SNARC 效",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "被试左手对小数字反应较快，右手对大数字反应较快。最初，研究者们认为出现这可能是由于数量概念是由从左到右连续的心理数量线进行表征的，这就是视觉空间编码（Dehaene et al.，1993;Dehaene et al.,1990; Hubbard et al.,2005）。然而，Gevers 等人（2010）发现，当给被试呈现一系列数字，要求被试通过说“左”或“右”来判断奇偶，比如：看到奇数说“左”，偶数说“右”。结果也出现了SNARC效应。这说明即使排除视觉空间信息，空间和数量间的交互作用仍然会出现，即数量概念也能用言语空间编码来进行表征。和Gevers等人（2010）类似，我们的研究（Dai&Zhu,2018）发现权力一空间的交互作用也可以完全基于言语空间编码。类似于Jiang等人（2015），我们要求被试做词类判断，在屏幕中央给呈现权力词，词左右两侧出现两个反应标签“高”和“低”，分别对应键盘上的f和j键，两个标签出现的左右位置随试验变化，有时“高”在左侧，有时“低”在左侧，被试判断和两个反应标签相联系。比如，要求被试将人判断为高，“高”在左侧，呈现“国王”，要求被试按f键。在排除高低空间信息后，权力和空间的交互作用仍然会出现，这说明权力概念也能用言语空间编码来进行表征。此外，Dai 和Zhu（2018）发现当视觉和言语编码相冲突时，言语编码占主导。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3情境依赖性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "许多研究发现概念加工到底激活哪种编码具有情境依赖性。Mahon 和Caramazza（2008）指出言语符号表征和感知表征是两个独立的系统，概念表征的核心是言语编码，它在任何情况下都会激活，而感知表征，只有和当前任务相关时才会激活。神经影像研究支持了这一论点。比如：研究发现在某些任务中，如词性判断或评估性决策，加工动作词汇不能激活脑部运动区（Longe et al.,2007; Perani et al.,1999; Tomasino& Rumiati,2013）。关于权力加工，虽然外显权力判断和词类判断任务中都能发现权力-空间交互（Jiang etal.,2015;Schubert,2005），但是当操纵权力词的字体（黑体／宋体），要求被试做字体判断时，权力-空间交互消失。另一方面，Dai和 Zhu（2018）也发现了视觉和言语编码相冲突时，言语编码的主导地位。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，Barsalou（2016）认为不存在在任何情况下都能激活的概念核心表征，概念加工依赖于灵活的具有情境依赖性的各种表征。只要和当前任务相关，并且有足够的认知资源时，这种表征就能被激活。类似地，Glenberg（1997）也指出除了与任务相关，激活模态表征依赖于认知资源，一条感知经验包含很多方面的信息，认知资源越多，感知模拟出来的信息也越多。我们借助双任务范式研究了认知资源对两种表征激活的影响。Zhang 等（2019）要求被试在权力判断的同时，进行言语（记住呈现字母）或视觉空间次要任务（记住灰色方块出现的位置）。结果发现不管受哪种次要任务的干扰，权力-空间的交互作用都消失。如果某种次要任务占用了激活相应编码的资源，那说明外显权力判断可能同时依赖视觉和言语两种编码，并且两种编码相辅相承，一种受干扰，另外一种也无法激活。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，基于双任务范式的词类判断研究发现该任务中的权力一空间交互只受言语次要任务影响，不受视觉空间次要任务干扰（Wu etal.,submitted）。这说明词类判断任务可能主要激活言语空间编码，这一结果和Dai和Zhu（2018）一致。最后，我们团队另一项研究参照了Dai和 Zhu（2018）的排除程序设计了两种新的外显权力判断任务（Wuet al,submitted），结果发现排除视觉空间信息时，只有言语次要任务影响权力-空间交互，排除言语空间信息时，只有视觉次要任务影响权力-空间交互。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，双任务范式的研究不仅提示了相应的认知资源对激活某种编码的重要性，还暗示了激活哪种编码和当前任务有关。常规的外显权力判断任务可能依赖于两种编码，但是当分别排除视觉或言语空间信息时，权力判断只能激活另一种编码。此外，词类判断任务主要依赖于言语编码。那么，接下来的问题是词类判断任务能否依赖于视觉编码？",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4当前的研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一般的词类判断任务主要依赖于言语编码（Wu etal.,submitted）。然而仍不确定的是，当排除言语空间编码之后，词类判断任务能否激活视觉空间编码。据此，本研究拟借鉴Dai 和 Zhu（2018）的排除程序，在排除言语空间信息后，借助 Zhang等（2019）的双任务范式考察词类判断任务（Jiang etal.,2015）中，视觉和言语两种次要任务对权力-空间交互的影响。实验时，屏幕中央呈现权力词，词的上方和下方呈现“人”和“动物”两个反应标签，对应下上箭头键，两个标签出现的位置随试验发生变化，要求被试做词类判断（人／动物）。这样的操作能有效排除言语空间信息。在以往的研究中（Jiangetal.,2015;Lu etal.,2017），在某个试验组中，出现人或者动物总是按上箭头键，这会促使被试把视觉空间不同的两个键直接转化为“上”和“下”结点，并促进“上”和“下”结点与“人”和“动物”联系，激活相关的语义网络，包括“权力大”和“权力小”结点，有利于言语空间编码的激活。我们打破了词类与上下按键的固定联系，就阻碍了这种言语化的可能。被试分别在单任务、言语双任务和视觉空间双任务三个条件下完成上述词类判断任务。根据Dai 和 Zhu（2018）结果——词类判断既可依赖言语编码，也可依赖视觉编码，我们假设在单任务条件下，排除了言语空间编码后，权力-空间交互作用仍然出现，而在双任务条件下，权力-空间交互只受视觉空间次要任务干扰，不受言语次要任务干扰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究关注任务X权力X按键的三项交互，本研究设计基本和Zhang等（2019）类同，将 Zhang 等（2019）被试量20作为主要参考。此外，使用G-power软件进一步预估被试量，参照 Zhang等（2019）三个实验，任务X权力X屏幕位置三项交互的效应度中最小为0.2。借助G-power软件，设置效应度为0.2， $\\alpha$ 为0.05， $_ { 1 - \\beta }$ 为0.9，预估被试量，结果为23。最后，考虑到实验顺序的平衡，3个实验条件，总共6种顺序，每种顺序4人，被试量设为24人。来自学校社区的24名成年人（11名男性，平均年龄 $2 2 . 5 4 \\pm 2 . 5 4$ ）自愿参加实验。所有被试均为汉语母语者、右利手，且视力或矫正视力正常。已获得所有被试的知情同意。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2材料",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用Jiang等（2015）的实验材料，包含64个权力词，一半表示人，一半表示动物，每类词里一半是权力大的，一半权力小的。额外5个词用于练习。12",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（6名男性）未参加正式实验的被试对材料的权力进行评分（ $1 =$ 权力极小； $7 =$ 权力极大）。此外，效价与垂直空间显著相关（即，正效价与“上”有关，负效价与“下”有关，Meier&Robinson,2004; Schubert,2005），也对效价进行评分（ $1 =$ 非常消极； $7 =$ 非常积极）。对权力评分进行方差分析，结果显示，权力主效应显著，权力大的词评分显著高于权力小的词， $F \\left( 1 , 6 0 \\right) = 3 5 1 . 1 8 , p < 0 . 0 0 1 , { \\eta _ { p } } ^ { 2 } = . 8 .$ ；词类（人／动物）主效应不显著， $F$ $( 1 , 6 0 ) = 1 . 5 2 , p = 0 . 2 2 3$ ；交互作用显著， $F \\left( 1 , 6 0 \\right) = 2 9 . 5 3 , p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 3 3$ 。进一步分析发现，权力大的动物词评分显著高于权力大的人类词， $F \\left( 1 , 3 0 \\right) = 6 . 3 1 \\$ ， $p = 0 . 0 1 8$ ， ${ \\eta _ { p } } ^ { 2 } =$ 0.17；权力小的动物词评分显著低于权力小的人类词， $F \\left( 1 , 6 0 \\right) = 3 7 . 0 0$ ， $p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } =$ 0.55。词的效价在各条件上平衡（ $\\mathrm { \\nabla } \\cdot F \\mathrm { \\mathbf { s } } < 1 \\mathrm { \\nabla } \\cdot$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验中，所有的词以黑体，48磅，黑色呈现在白色背景的屏幕中央。两个反应标签“动物”和“人”也以黑体，48磅，黑色呈现在词的上方和下方。词和标签垂直对齐。次要任务方块位置记忆任务采用一个1.4厘米 $\\times 1 . 4$ 厘米的灰色小方框作为实验材料，出现在与权力词同一水平线上的四个位置之一。为了排除视觉空间信息，字母记忆任务采用女声朗读D、G、P、S四个字母中的一个，持续时间依次为334、336、344、345毫秒。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验为3任务条件（单任务／视觉空间双任务／言语双任务）X2权力（大／小）X2按键（上箭头键／下箭头键）的被试内设计。实验包含3个试验组，每个任务条件一个试验组，任务条件的先后顺序在被试间平衡。每个试验组有128次正式试验和5次练习试验64个词每个出现两遍，一遍标签“人”在词的上方出现，一遍在下方。每个试验组中，试验按随机顺序呈现。实验中，被试佩戴耳机。实验开始前，被试通过耳机播放试音片段，提前将耳机音量调整到可以个人接受的水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在单任务条件下（图1），每次试验，首先在屏幕中央呈现黑色十字0.5秒（96磅，Courier New字体），随后同时在屏幕中央呈现权力词和反应标签2秒，标签出现的位置随试验发生变化，一半试验，“人”出现在词上方，一半试验，“动物”出现在词上方。上下两个反应标签对应键盘上箭头和下箭头键，要求被试在保证正确率的前提下尽快用右手的食指或中指按上下箭头键进行词类判断。如：出现“国王”，“人”标签在上方，则按上箭头键反应。2秒内，不管被试有无反应，程序自动跳到下一次试验。实验开始前，要求被试将右手的食指或中指放在上下箭头键的中间，每次按完键，回到两个键中间的位置整个实验过程中，手指不能离开上下箭头键的范围。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在视觉空间双任务条件下（图1），每次试验，呈现权力词和标签同时，与权力词同一水平线上还会呈现一个1.4厘米 $\\times 1 . 4$ 厘米的灰色方块0.5秒，呈现在距离左边界屏幕宽度$5 \\%$ 、 $20 \\%$ 、 $80 \\%$ 、 $9 5 \\%$ 的四个位置之一，要求被试做词类判断的同时，记住方块的位置。0.5 秒后灰色方块消失，权力词和标签仍然呈现在屏幕上。权力词和标签消失后，要求被试在1.5秒内在保证正确率的前提下尽快用左手四个手指按数字键1、2、3、4键（分别代表离左边界屏幕宽度 $5 \\%$ 、 $20 \\%$ 、 $80 \\%$ 、 $9 5 \\%$ 的位置）判断方块出现的位置。1.5秒内，不管被试有无反应，程序自动跳到下一次试验。在言语双任务条件下（图1），每次试验，呈现权力词和标签的同时，耳机播放女声朗读的四个字母中的一个，要求被试做词类判断的同时，记住听到的字母。权力词和标签消失后，要求被试在1.5秒内在保证正确率的前提下尽快用左手四个手指按数字键1、2、3、4键（分别代表D、G、P、S）判断出现的字母。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/04055344e9af77e9c1ca08b0e4c1440a37742ab524592cad115a242076b8e9ab.jpg",
+        "img_caption": [
+            "图1实验流程图．左：单任务条件；中：视觉双任务条件；右：言语双任务条件"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "剔除错误反应（单任务： $4 . 3 3 \\%$ ；视觉双任务： $3 . 4 5 \\%$ ；言语双任务： $2 . 8 0 \\%$ ）和无反应试验（单任务： $0 . 1 0 \\%$ ；视觉双任务： $0 . 1 6 \\%$ ；言语双任务： $0 . 3 6 \\%$ ），此外，剔除每个条件下，反应时超过组内平均值两个标准差外的试验（单任务： $4 . 2 6 \\%$ ；视觉双任务：$3 . 9 7 \\%$ ；言语双任务： $4 . 0 7 \\%$ ）。由于实验顺序的主效应及其与其他变量的交互作用都不显著 $( F s < l . 2 6 , p s < 0 . 2 9 )$ ），相关结果未纳入统计。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "各条件下的平均反应时见表1。方差分析结果显示，任务、权力和按键三项交互显著，$F ( 2 , 4 6 ) = 3 0 . 7 4 , p < 0 . 0 0 1 , \\eta _ { p } ^ { \\ 2 } = 0 . .$ 。进一步分析表明，和我们的假设一致，在单任务条件下，权力和按键的交互作用显著， $F \\left( 1 , 2 3 \\right) = 7 0 . 2 4 , p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 7 5$ ，言语双任务条件下，权力和按键的交互作用显著， $F \\left( 1 , 2 3 \\right) = 4 6 . 1 4 , p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 6 6$ ，但视觉空间双任务条件下，权力和空间交互不显著， $F \\left( 1 , 2 3 \\right) = 0 . 0 1 , p = 0 . 9 2$ 。进一步分析表明，在单任务条件下，权力大的词，按上箭头键更快， $F \\left( 1 , 2 3 \\right) = 5 1 . 5 4 , p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 6 9$ ，言语双任务条件下，也是如此， $F \\left( 1 , 2 3 \\right) = 4 3 . 3 8 , p < 0 . 0 0 1 , { \\eta _ { p } } ^ { 2 } =$ ${ \\eta _ { p } } ^ { 2 } = 0 . 6 5$ 。在单任务条件下，权力小的词，按下箭头键更快， $F \\left( 1 , 2 3 \\right) = 3 6 . 1 6 , p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 6 1$ ，言语双任务条件下，也是如此， $F \\left( 1 , 2 3 \\right) =$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21.47, $p < 0 . 0 0 1$ ${ \\eta _ { p } } ^ { 2 } = 0 . 4 8$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5a4891045afb02d93a627db78e4eb377c2cdf1b49561ea46a1cbfbbfc55f984.jpg",
+        "table_caption": [
+            "表1各条件下权力词的平均反应时（单位：ms）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">权力词</td><td colspan=\"2\">权力大</td><td colspan=\"2\">权力小</td></tr><tr><td>按键上 M(SD)</td><td>按键下M（SD）</td><td>按键上 M(SD)</td><td>按键下 M(SD)</td></tr><tr><td>单任务</td><td>814 (82)</td><td>959 (132)</td><td>970 (119)</td><td>882 (88)</td></tr><tr><td>视觉-双任</td><td>1084 (197)</td><td>1065 (222)</td><td>1088 (219)</td><td>1073 (195)</td></tr><tr><td>务 言语-双任 务</td><td>1053 (199)</td><td>1186 (228)</td><td>1238 (267)</td><td>1106 (227)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，任务主效应显著， $F \\left( 2 , 4 6 \\right) = 2 5 . 4 5 , p < . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 5 2$ ，单任务条件下被试反应速度快于两种双任务条件。权力主效应显著， $F \\left( 1 , 2 3 \\right) = 1 5 . 4 7 , p = 0 . 0 0 1 , { \\eta _ { p } } ^ { 2 } = 0 . 4 0$ ，权力大的词反应快。任务和按键交互作用显著， $F \\left( 2 , 4 6 \\right) = 3 . 7 9 , p = 0 . 0 3 0 , { \\eta _ { p } } ^ { 2 } = 0 . 1 4 ,$ 。进一步分析发现，单任务条件下，被试按上箭头键更快， $F ( 2 , 4 6 ) = 6 . 8 6 , p = 0 . 0 1 5 , { \\eta _ { p } } ^ { 2 } = 0 . 2 3$ ，而视觉空间和言语双任务条件下，被试按两个键的速度无显著差异。权力和按键交互作用显著，$F \\left( 1 , 2 3 \\right) = 4 1 . 8 2 , p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 6 5$ ，权力大的词，按上箭头键更快， $F ( 1 , 2 3 ) = 3 4 . 6 8 , p <$ 0.001, ${ \\eta _ { p } } ^ { 2 } \\mathrm { = } 0 . 3 3$ ，权力小的词，按下箭头键更快， $F \\left( 1 , 2 3 \\right) = 3 3 . 1 9$ $p < 0 . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = 0 . 3 2$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4fe1918bba8d6248eeb0be6975e6bb6f0f54e75eeccb21975c7362db52d8858.jpg",
+        "table_caption": [
+            "表2方差分析结果"
+        ],
+        "table_footnote": [
+            "注： $^ { * } p < 0 . 0 5$ ： $^ { * * } p < 0 . 0 1$ ； $^ { * * * } p < 0 . 0 0 1$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>F</td><td>p</td><td>n</td></tr><tr><td>任务</td><td>25.25</td><td><0.001***</td><td>0.52</td></tr><tr><td>权力</td><td>15.47</td><td>0.001**</td><td>0.40</td></tr><tr><td>按键</td><td>0.22</td><td>0.645</td><td>0.01</td></tr><tr><td>任务*权力</td><td>2.36</td><td>0.106</td><td>0.09</td></tr><tr><td>任务*按键</td><td>3.79</td><td>0.030*</td><td>0.14</td></tr><tr><td>权力*按键</td><td>41.82</td><td><0.001***</td><td>0.65</td></tr><tr><td>任务*权力*按 键</td><td>30.74</td><td><0.001***</td><td>0.57</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，我们检验了两种次要任务正确率的差异，未发现显著差异（视觉次要任务： $M$ $= 0 . 9 8$ ， $S D = 0 . 0 3$ ；言语次要任务： $M = 0 . 9 8$ $S D = 0 . 0 1$ ； $t \\left( 2 3 \\right) = 0 . 7 9$ $p = 0 . 4 4 0 \\dot { . }$ ）。这说明两个条件下权力加工的差异并非由次要任务的难度不同导致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究探讨了词类判断任务是否能激活权力的视觉空间编码。结果显示，当排除言语空间信息后，权力-空间的交互作用只受视觉空间次要任务的干扰，不受言语次要任务的干扰。具体来说，在单任务条件下，当排除言语空间信息，抑制言语空间编码的激活后，权力-空间交互仍然出现，意味着这种交互是来自于不同于言语编码的另一种表征—一视觉空间编码。这说明权力加工会激活哪种表征具有情境依赖性，即依赖于表征和当前任务的相关性。其次，在双任务条件下，这种交互只受视觉空间次要任务干扰，不受言语次要任务干扰，进一步验证了视觉空间表征的模态化特征，也说明了表征情境依赖性的第二个特点要有足够的认知资源，当认知资源有限时，相关的表征无法激活，阻碍了权力-空间交互的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "出现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究结果支持了认知资源对权力空间表征激活的影响。本研究发现当视觉空间次要任务与视觉编码的激活争夺资源时，视觉空间编码无法激活，权力-空间交互消失。Barsalou（1999）指出概念加工会引发知觉模拟（perceptual simulation），即重新激活大脑中存储的感知运动经验。而知觉模拟出来的感知事件包含感知运动经验的许多方面，可用于知觉模拟的认知资源越多，模拟出来的事件包含的信息越多，越生动（Glenberg,1997;Barsalou,1999）。由此可见，当认知资源不够时，知觉模拟无法进行，无法激活模态表征（视觉空间编码），那么，权力-空间交互也就消失了。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，认知资源具有特异性，需要同种认知资源的任务间更易产生资源冲突。这符合Baddeley的工作记忆模型。Baddeley（1996）提出工作记忆由中央执行系统、语音回路和视觉空间展板组成。语音回路通过复述保持言语信息，视觉空间展板用于保持视觉信息，而中央执行系统用于协调两个子系统。如果两种任务公用同一个系统，它们之间会产生激烈的资源竞争。据此，我们推测视觉空间次要任务会和视觉空间编码的激活之间产生资源冲突，而干扰视觉编码的激活，而言语次要任务会和言语空间编码的激活之间产生资源冲突，而干扰言语编码的激活。Zhang 等（2019）发现常规的外显权力判断任务中，权力-空间交互既受言语次要任务干扰，也受视觉次要任务影响。我们推测也许在外显判断任务中两种编码互相依赖，一种",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "激活，另一种也不能激活，即只次要任务干扰了其中一种，两种编码都不激活，权力空间交互消失。而在我们一项未发表的研究中，限制权力判断任务中两种编码中的任何一种的激活，另一种则能独立激活，并只受相应的次要任务的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于词类判断任务而言，Wu等（submitted）发现常用的词类判断任务中，权力-空间交互只受言语次要任务影响，不受视觉空间次要任务影响，她们推测可能是因为词类判断任务中，视觉编码的激活必须在言语编码之后，即言语编码是视觉编码激活的先决条件。在单任务条件下，两种编码先后激活，出现权力-空间交互。视觉空间双任务条件下，言语编码不受干扰，但视觉编码受干扰无法激活，所以权力-空间交互仍然显著。但是在言语双任务条件下，言语编码受干扰无法激活，随之以言语编码为先决条件的视觉编码也无法激活，权力-空间交互消失。Dai和 Zhu（2018）发现视觉和言语编码相冲突时，言语编码占主导作用，从另一方面为这一观点提供了佐证。然而，在本研究中，当言语编码的激活被阻断，视觉编码似乎也能独自激活，并受视觉次要任务的干扰。而 Zhang 等则发现用次要任务去干扰任何一种编码，另一种都无法激活。可见，权力概念表征的激活具有很强的任务依赖性，激活哪种表征依赖于当前任务的各种特点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究丰富了我们对权力空间的两种表征的情境依赖性的了解。得出了两个结论：（1）排除言语空间编码后，词类判断任务可以单独依赖于视觉空间编码（模态表征）；（2）这种视觉空间编码具有情景依赖性，它的激活只受到视觉空间次要任务的干扰，不受",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "言语次要任务的影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nAnderson,M.L. (2Olo). Neural reuse: A fundamental organizational principle of the brain. Behavioral and Brain Sciences, 33,245-266.   \nBarsalou, L. W. (1999). Perceptual symbol systems. Behavioral and brain sciences,22 (4), 577- 660.   \nBarsalou, L.W. (2Oo8). Cognitive and neural contributions to understanding the conceptual system. Current Directions in Psychological Science, 17, 91-95.   \nBarsalou, L. W. (2016). On Staying Grounded and Avoiding Quixotic Dead Ends. Psychonomic Bulletin & Review, 23,1122-1142.   \nBaddeley, A. D. (1996). The fractionation of working memory. Proceedings of the National Academy of Science, 93, 13468-13472.   \nChiao，J.Y.，Harada，T.，Oby， E.R.，Li， Z.，Parrish，T.，& Bridge，D.J. (2009).Neural representationsofsocialstatushierarchyinhumaninferior parietal cortex. Neuropsychologia, 47 (2), 354-363.   \nChiao, J. Y. (2010). Neural basis of social status hierarchy across species. Current opinion in neurobiology,20 (6), 803-809.   \nDai, Q.,& Zhu, L. (2018). Verbal-spatial and visuospatial coding of power-space interactions. Consciousness and Cognition, 63(April), 151-160.   \nDehaene, S., Bossini, S.,& Giraux, P. (1993). The mental representation of parity and number magnitude.Journal of Experimental Psychology: General, 122, 371-396.   \nDehaene, S., Dupoux,E.,& Mehler, J. (199o). Is numerical comparison digital? Analogical and symbolic effects in two-digit number comparison. Journal of Experimental Psychology: Human Perception and Performance, 16, 626-641.   \nDehaene，S.， Piazza，M.， Pinel，P.，& Cohen，L. (2O03). Three parietal circuits for number processing. Cognitive Neuropsychology, 20, 487-506.   \nGalinsky, A. D., Gruenfeld, D. H.,& Magee,J. C. (2003). From Power to Action. Journal of Personality and Social Psychology, 85(3), 453-466.   \nGevers，W., Santens, S.， Dhooge,E., Chen, Q.， Van den Bossche,L.， Fias, W.,& Verguts，T. (2010). Verbal-Spatial and Visuospatial Coding of Number-Space Interactions. Journal of Experimental Psychology-General, 139,180-190.   \nGibbs R W. (Ed). (1994). The poetics of mind: figurative thought, language, and understanding. New York: Cambridge University Press.   \nGlenberg, A. M. (1997). What memory is for. Behavioral and Brain Sciences, 20, 1-55.   \nHubbard,E. M.,Piazza,M., Pinel, P.,& Dehaene, S. (2oo5). Interactions between number and space in parietal cortex. Nature Reviews Neuroscience, 6, 435-448.   \nJiang,T.， Sun, L.,& Zhu, L. (2015). The influence of vertical motor responses on explicit and incidental processing of power words. Consciousness and Cognition, 34, 33-42.   \nJiang, T., & Zhu,L. (2O15). Is power-space a continuum? Distance effect during power judgments. Consciousness and Cognition, 37, 8-15.   \nKeltner，D.，Gruenfeld，D.H.，& Anderson，C.(2003). Power，Approach，and Inhibition. Psychological Review, 110(2), 265-284.   \nLakoff, G. (1987). Women, fire, and dangerous things. Chicago: University of Chicago Press.   \nLeshinskaya, A.， & Caramazza, A. (2016). For a cognitive neuroscience of concepts: Moving beyond the grounding issue. Psychonomic Bulletin & Review, 23, 991-1001.   \nLonge, O., Randall, B., Stamatakis, E. A., & Tyler, L. K. (2007). Grammatical categories in the brain: The role of morphological structure. Cerebral Cortex, 17, 1812-1820.   \nLu，L.， Schubert, T. W.，& Zhu，L. (2017). The spatial representation of power in children. Cognitive processing,18 (4),375-385.   \nMachery, E. (2016). The amodal brain and the offloading hypothesis. Psychonomic Bulletin & Review, 23,1090-1095.   \nMahon, B. Z. (2015). What is embodied about cognition? Language, Cognition and Neuroscience, 30, 420-429.   \nMahon, B. Z.,& Caramazza,A. (20o8). A critical look at the embodied cognition hypothesis and a new proposal for grounding conceptual content. Journal of Physiology-Paris, 102, 59-70.   \nMartin,A. (2016). GRAPES—Grounding representations in action， perception， and emotion systems: How object properties and categories are represented in the human brain. Psychonomic Bulletin& Review, 23, 979-990.   \nMason,M., Magee, J. C., & Fiske, S.T. (2014). Neural substrates of social status inference: roles of medial prefrontal cortex and superior temporal sulcus. Journal of Cognitive Neuroscience, 26, 1131-1140.   \nMeier, B. P.,& Robinson, M. D. (2004). Why the sunny side is up: Associations between affect and vertical position. Psychological Science, 15, 243-247.   \nPaivio,A. (Ed). (1986). Mental representations: A dual coding approach. Oxford University Press.   \nPerani, D., Cappa, S.F., Schnur, T.,Tettamanti, M., Collina, S.,Rosa, M. M.,& Fazio,F.(1999). The neural correlates of verb and noun processing—A PET study. Brain,122,2337-2344.   \nSchubert, T. W. (20o5). Your highness: Vertical positions as perceptual symbols of power. Journal of Personality and Social Psychology, 89, 1-21.   \nTomasino，B.，& Rumiati， R. I. (2013). At the mercy of strategies: The role of motor representations in language understanding. Frontiers in Psychology, 4(27), 1-13.   \nWang,X.， Han, Z., He, Y.， Caramazza,A., Song,L.， & Bi, Y. (2013). Where color rests: Spontaneous brain activity of bilateral fusiform and lingual regions predicts object color knowledge performance. Neurolmage, 76, 252-263.   \nWu, X., Yu, H.,Li, X.,& Zhu,L. (submitted). Visuospatial or verbal-spatial codes? The different effect of two secondary tasks on the power-space associations during a semantic categorizing task. Journal of Psycholinguistic Research.   \nZhang,P.， Schubert, T.W.,& Zhu,L. (2O19). The effect of secondary task on the association between power and space. Social Cognition, 37(1),1-17. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Effect of Secondary Task on the Power-space Interactions during the Semantic Category Judgment Task ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZHULei; SAI Xueying; Mulati Jiadela ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(Department of Psychology, Fudan University, Shanghai 20o433, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There is much evidence suggesting that power is represented as vertical space in our brain, specifically， verbal-spatial coding (amodal representation） and visuospatial coding (modal representation). Both codes are context-dependent,and the activation of which depends on the concurrent task. Studies using the dual-task paradigm have revealed that the explicit power judgment task activates both codes, whereas the semantic category judgment task mainly activates the verbal-spatial codes. However, it is still unclear whether the semantic category judgment task can activate the visuospatial codes when excluding the verbal-spatial codes. Thus,the aim of the present study is to explore whether the semantic category judgment task can activate the visuospatial codes when excluding verbal-spatial information. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Using the dual-task paradigm,the present study tested the effect of visuospatial and verbal secondary task on the power-space interactions after excluding the verbal-spatial codes. In the experiment,a power word was presented in the center of the screen with two response labels (\"human” and“animal\"） at the up or down side of the target word. The response labels were mapping to the up and down cursor keys in the keyboard. The locations of the two labels exchanged from trial to trial. This manipulation could exclude the activation of the verbal-spatial codes.Participants were required to judge the semantic category of the word in three task conditions: the single task,the visual dual task,and the verbal dual task. It is hypothesized that the power-space interactions would be affected by the visual secondary task, but not by the verbal secondary task. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Consistent with our prediction, the results showed that the power-space interactions during the semantic category judgment task were affected by the visual secondary task,but not by the verbal secondary task. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The findings suggested that (1） the semantic category judgment task could activate visuospatial codes (modal representations） individually after excluding the verbal spatial-codes and (2) the visuospatial codes were only interfered by the visuospatial secondary task. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words Power-space Representations, Context-dependent, Visuospatial Coding, Verbal-spatial Coding ",
+        "page_idx": 12
+    }
+]

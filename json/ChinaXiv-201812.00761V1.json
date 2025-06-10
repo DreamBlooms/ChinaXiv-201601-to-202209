@@ -1,0 +1,320 @@
+[
+    {
+        "type": "text",
+        "text": "1植物多糖通过核因子kB及丝裂原活化蛋白激酶/核因子E2相关因子2信号通路发挥抗氧化  \n2 作用的机制vur",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "】  \n3 王丽雪　解玉怀　杨维仁　杨在宾张桂国\\*  \n4 （山东农业大学动物科技学院，山东省动物生物工程与疾病防治重点实验室，泰安 271018）  \n5 摘要：植物多糖是植物提取物中重要活性成分之一，具有抗氧化、免疫增强、抗肿瘤等多  \n6 种生物学作用。在抗氧化作用方面，植物多糖通过核因子κB（NF-κB）信号通路减少炎症因  \n7 子的分泌,缓解氧化应激损伤;通过丝裂原活化蛋白激酶/核因子E2相关因子2(MAPK/Nrf2）  \n8 信号通路清除机体或细胞内自由基，提高抗氧化酶活性或含量，增强机体或细胞对氧化应激  \n9 的抗性。本文主要综述了氧化应激产生的原因及其危害，并阐述NF-kB及MAPK/Nrf2 信号  \n10 通路在植物多糖发挥抗氧化作用中的研究现状以及存在问题，为植物多糖作为抗氧化剂的研  \n11 究与应用提供理论参考。  \n12 关键词：植物多糖；丝裂原活化蛋白激酶；核因子E2 相关因子2；核因子κB；抗氧化作用;  \n13 调控机制  \n14 中图分类号：S816.7  \n15 畜禽生长过程中环境变化、饲粮改变、疾病以及异物代谢等因素均可产生氧化应激,其  \n16 主要特征表现为体内产生以活性氧（reactive oxygen species，ROS）为主的大量自由基。正  \n17 常情况下，动物体内存在抗氧化防御系统能够抵御氧化应激的损伤，低强度的氧化应激能激  \n18 活细胞或机体内的抗氧化防御系统，如提高抗氧化酶的活性或降低氧化酶活性。应激强度持  \n19 续增强后,细胞或机体内氧化物与抗氧化物的平衡状态被打乱，机体调控抗氧化的能力不足。  \n20 补充外源性生物活性物质或抗氧化剂增强机体抗氧化能力，是减缓氧化应激的有效途径。生  \n21 产中通常应用化学合成抗氧化剂，这类抗氧化剂具有高温易变性、致癌及药物残留的缺点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-03-29",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：山东省牧草产业体系饲草营养岗（SDAIT-23-05)；山东省农业重大应用技术创新项目“粮改饲高产高效生产利用模式与关键技术的集成示范\"；山东省“双一流”奖补资金；山东省农业科学院农业科技创新工程(CXGC2017B02)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：王丽雪（1991-)，女，山东泰安人，硕士研究生，研究方向动物营养与饲料科学。E-mail:lxwang1119@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者：张桂国，副教授，硕士生导师，E-mail： zhanggg@sdau.edu.cn因此，寻求无污染、高效的外源添加的植物源性抗氧化剂成为畜禽生产过程中缓解氧化应激行之有效的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1植物多糖的特殊结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物多糖是植物提取物中的一种重要活性成分，具有多种生物学作用。其生物活性与其特殊的一级结构和高级结构有着密切的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多糖的一级结构是指单糖与糖基的组成、排列顺序、糖苷键类型、糖链长短以及功能性基团。植物多糖由葡萄糖、果糖、半乳糖、阿拉伯糖、鼠李糖以及木糖等单糖构成，不同于淀粉等常规碳水化合物，植物多糖常以α-1,4-、 $\\beta$ -1,3-、 $\\beta$ -1,4-和α-1,6-苷键相连。结构单位可以连成直链，也可以形成支链，直链一般以 $\\mathfrak { a } \\mathrm { . }$ -1,4-苷键和β-1,4-苷键连成，支链的连接点常是α-1,6-苷键[1]。植物多糖的一级结构复杂，糖基上常连接一些包括磷酸基团、硫酸基团、甲基化基团在内的功能团。植物多糖的高级结构是在一级结构的基础上各侧链通过非共价键相互作用而形成复杂的高级结构。二级结构下，多糖骨架链间以氢键结合成聚合体。三级结构是在二级结构的基础上进一步盘曲，折叠而形成的空间构象。多糖的四级结构是指多聚链间非共价键结合所形成的聚集体。糖的分子支链分支度与多糖的生物活性密切相关，分支度不同其表现出的生物活性也不同，分支度是植物多糖达到一定生物活性的关键。此外，多糖的分子质量、溶解度、黏度、聚合度、金属离子络合等因素也不同程度影响着植物多糖的生物活性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2氧化应激产生的原因及其危害",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氧化应激的产生与细胞或机体内氧化物和抗氧化物的失衡有关。畜禽生产过程中冷热环境变化、饲粮改变、饲养管理不完善、疾病等都会引发机体或细胞内自由基的积累，引发氧化应激[2]。细胞或机体本身存在抗氧化防御系统，该防御系统可通过增加抗氧化酶的分泌量或提高酶的活性来清除自由基。当自由基产生的量过多后，内部相应抗氧化系统不足以防御，从而引发了机体或细胞的氧化损伤。通常来讲，氧化损伤主要从DNA、蛋白质、脂肪3个方面表现，包括DNA的修饰、蛋白炭基化水平及脂质氧化变性后丙二醛（MDA）的形成[3-4]。在不完善的管理条件下，高密度饲养、不良通风、缺乏运动、高能饲粮等因素使得氧化应激在动物养殖中普遍存在，使机体免疫力降低，增加肠炎、肺炎、产后败血症以及乳腺炎等多种畜禽易患疾病的风险[2]。生产中通过添加外源性的抗氧化剂减少饲料中易氧化成分的变质，增强机体抵御氧化应激的能力。这类外源性抗氧化剂主要包括维生素类（维生素C、维生素E等）、微量元素（硒、锌等)，化学合成抗氧化剂[乙氧基喹啉（EMQ)、二丁基羟基甲苯（BHT）、丁基羟基茴香醚（BHA）等]以及植物源性抗氧化剂（原花青素、白藜芦醇",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "等)。由于不能预估畜牧生产过程中发生氧化应激的程度，并且某些外源抗氧化剂相对较高的价格，所添加的外源性的抗氧化剂一般是化学合成抗氧化剂，并且在生产中通常是过量应用的，这就会使抗氧化剂在畜禽体内形成残留，影响产品品质，污染环境。因此，寻求一种价格适宜、绿色无污染的抗氧化剂替代品具有重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3植物多糖抗氧化作用的表现",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物多糖具有免疫增强、抗肿瘤、抗氧化、药残低等多种生物学特性。关于植物多糖抗氧化作用的研究也逐渐细致。植物多糖发挥抗氧化作用主要表现在以下2个方面：1）对自由基的直接或间接清除作用，过渡金属元素的原子中含有一个或多个不成对电子，并且参与体内许多自由基反应，比如磷酸化过程中铁离子等金属离子作为递电子体发挥作用，电子的传递就是自由基反应，并且一些游离的过渡金属元素特别是铁离子与ROS 结合会发生螯合反应，产生更多的自由基。植物多糖分子含有醇羟基，该基团可与产生ROS所必需要的亚铁离子（ $\\cdot \\mathrm { F e } ^ { 2 + }$ )、铜离子（ ${ \\mathrm { C u } } ^ { 2 + }$ ）等金属离子络合，清除自由基[5。虎皮兰多糖、紫苏叶多糖能够清除羟自由基（·OH)、超氧阴离子自由基（ $\\mathbf { O } _ { 2 } ^ { - . }$ )、1,1-二苯基-2-三硝基苯肼自由基（DPPH·）、亚硝酸根离子以及螯合铁离子[6-7]。2）提高抗氧化酶活性或降低氧化酶活性。核因子E2 相关因子 2（nuclear factor erythroid 2-related factor 2，Nrf2）是与细胞核内抗氧化反应元件结合，启动抗氧化酶相关基因表达的重要转录因子。植物多糖可调控Nrf2/（Kelch样环氧氯丙烷相关蛋白1)Keap1信号通路，上调抗氧化酶的基因表达。当炎症反应发生到一定程度后会使细胞内自由基含量升高使细胞处于氧化应激的状态。研究表明，黄芪多糖可提高超氧化物歧化酶（SOD）和谷胱甘肽过氧化物酶（GPX）活性，降低MDA含量，通过抑制核因子kB（nuclear factor kB，NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ ）信号通路降低白细胞介素8（IL-8）基因的表达[8],缓解氧化应激带来的损伤。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4植物多糖发挥抗氧化作用的机制及主要信号通路",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物多糖参与调控抗氧化作用的作用机制主要包含以下2个方面：其一，植物多糖能通过调控炎症反应信号（NF-B）通路调节机体或细胞内相关炎症因子的基因表达情况，缓解氧化应激带来的损伤。其二，植物多糖可以通过丝裂原活化蛋白激酶（mitogen-activatedprotein kinase，MAPK）/Nrf2信号通路促进细胞对ⅡI相解毒酶的分泌，促进抗氧化酶的分泌及活性，降低机体或细胞内自由基水平，增强机体或细胞对氧化应激的抗性（图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc8ec257a18a018cb1cd549e4f4c0a043d365cbc5200b99d16aa11f4e22bb666.jpg",
+        "img_caption": [
+            "图1植物多糖发挥抗氧化作用的机理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Polysaccharides:多糖；TLR：Toll 样受体 Tollike receptor；TIR Domain:Toll/白细胞介素1受体同源结 构域 Toll-Interleukin receptor domain；Nrf2：核因子E2 相关因子2 nuclear factor erythroid 2-related factor 2; Keapl：Kelch 样环氧氯丙烷相关蛋白1Kelch-like epichlorohydrin-associated protein1；MAPK：丝裂原激活 蛋白激酶 mitogen-activated protein kinase；JNK：c-Jun 氨基末端激酶 c-Jun N terminal kinase；ERK:细胞外 信号调节激酶 extracelllar signal-regulated kinase；P:磷酸化 phosphorylation；Gene Expression:基因 表达；Nucleus：细胞核；NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ :核因子kB nuclear factor KB；MyD88：髓样分化蛋白88 myeloid differentiation factor 88；IRAK1：白细胞介素1受体相关激酶1 interleukin l receptor associated kinase 1; TRAF6：肿瘤坏死因子受体相关因子 6tumor necrosis factor receptor-associated factor 6；IKKs：核因子kB 抑 制激酶 inhibitorof nuclear factorκ B kinase;IKBα：核因子kB抑制蛋白α inhibitorα ofnuclear factor K B；Degraded：降解；MAVs：线粒体抗病毒信号蛋白 mitochondria antiviral signaling protein；RIG-1：维甲 酸诱导基因1retinoic acid inducible gene 1；Ub：泛素化 polyubiquitinated。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Mechanisms of resisting oxidative stress by plant polysaccharides[9-1] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ 信号通路",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Toll样受体是先天免疫识别受体家族，能够诱导相关细胞因子的分泌。包括位于细胞内区室（内质网等）的 Toll样受体（Tollike receptor，TLR）3、TLR7、TLR8、TLR9，以及位于细胞膜上的 TLR1、TLR2、TLR4、TLR5、TLR6[12]。当TLR4 被激活后招募髓样分化因子88（myeloid differentiation factor 88,MyD88）、白细胞介素1受体相关激酶1（IL-1R associatedkinase 1，IRAK1）和肿瘤坏死受体相关因子6（tumor necrosis factor receptor associated factor6，TRAF6）发挥胞内信号的传递[13]。TLR4调控MAPK和NF- $\\cdot \\kappa { \\bf B } \\boldsymbol { 2 }$ 个信号元件，并促使NF- $\\boldsymbol { \\kappa } \\mathbf { B }$ 转移进入细胞核内，调控下游元件的基因表达[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NF-kB 通路是主要的炎性反应信号通路，正常情况下是被IkB 所抑制的，但是当机体或细胞处于氧化应激状态下，IB 磷酸化、泛素化后降解，释放NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ ，使其转移进入细胞核内，调控相关炎症因子的基因表达[15]。植物多糖作用于细胞之后，与细胞膜表面 Toll样受体结合并激活相应结合蛋白，调节下游元件的基因表达。炎症反应的加剧可以导致氧自由基在损伤部位的聚积[16]。炎性因子白细胞介素6（IL-6)和趋化因子IL-8不仅能调节炎症反应，也能开启和维持细胞衰老状态。其基因表达受NF-kB 的调控[17]。维甲酸诱导基因（retinoicacid inducible gene1，RIG-1）与炎症相关，是衰老相关的炎症反应中的重要信号通路，并且一些慢性炎症疾病也证明，发生炎症反应的机体或细胞内RIG-1的蛋白表达上调。IL-6 和IL-8 基因的表达主要是靠 ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa } } { \\mathrm { B } }$ 和激活蛋白1（AP-1）2个重要元件。在衰老细胞中，RIG-1调控 ${ \\mathrm { N F - } } { \\mathrm { \\kappa } } { \\mathrm { B } }$ 信号通路，影响 $I L { - } 6$ 和 IL-8 基因的表达[18]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物多糖可通过调节炎症反应缓解氧化应激带来的损伤，黄芪多糖显著降低血清中炎症细胞因子水平，表现出抗炎作用，缓解严重烧伤大鼠心肌组织氧化应激所带来的炎症损伤[19],并且黄芪多糖可通过抑制TLR4/NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ 炎症信号通路抑制异丙肾上腺素诱导的大鼠心肌肥厚症[20]。研究显示，丹参多糖激活 NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ 促使巨噬细胞分泌肿瘤坏死因子 $\\mathfrak { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）等细胞炎性因子的基因表达，提高细胞的免疫性能[21]。蒲公英多糖能抑制 ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa } } \\mathrm { B }$ 磷酸化缓解氧化损伤[22]。综合现有研究发现，细胞或机体氧化应激出现后，植物多糖能够通过抑制炎症因子的基因表达缓解氧化损伤。而当细胞或机体处于正常状态时，添加植物多糖后，细胞或机体通过相关炎症信号通路上调炎症因子的基因表达，增强机体免疫性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 MAPK/Nrf2信号通路 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MAPK包括氧化应激在内的各种刺激进行相应的应答。该通路主要包括细胞外信号调节激酶（extracelllar signal-regulated kinase，ERK）、c-Jun 氨基末端激酶（c-Jun N terminal kinase， JNK）和p383条内部信号通路，ERK在细胞内主要与生长激素及因子的基因表达相关，JNK 和p38 主要是细胞内应答氧化应激相关的重要元件[23]。正常情况下，Nrf2与Keap1在胞浆内耦连并处于相对抑制的状态，当该通路被植物多糖激活之后两者解偶联，Nrf2进入细胞核内，与抗氧化反应元件（antioxidant response element，ARE）相结合，编码I相解毒酶的基因表达，以增加细胞对氧化应激的抗性。植物多糖可以通过MAPK信号通路诱导Nrf2通路，调控ⅡI相解毒酶的基因表达[24]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MAPK/Nrf2信号通路是与氧化应激相关的重要信号通路。植物多糖抗氧化作用的研究对该信号通路研究甚广。当细胞或机体处于氧化应激状态下，MAPK/Nrf2信号通路被激活，促进二相解毒酶血红素氧合酶1(HO-1)基因的表达[9]。蒲公英多糖可通过激活 MAPK 信号通路激活Nrf2 诱导 HO-1基因的表达[22]。植物多糖激活MAPK/Nrf2 信号通路减少细胞内 ROS的产生，促进 SOD 和GPX 等抗氧化酶的合成，增强细胞或机体对氧化应激的抗性[25]。植物多糖通过MAPK/Nrf2信号通路维持细胞或机体内氧化系统和抗氧化系统的平衡发挥抗氧化作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5植物多糖抗氧化的应用现状",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于植物多糖抗菌、抗氧化、增强免疫的多种生物学作用，植物多糖对氧化酶的抑制以及对抗氧化酶的激活作用已经成为研究的热点问题之一，与其相关研究也日益增多。但植物多糖的作用机制及应用标准尚未明确，有关机制的研究仍处于探索阶段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TLR4 是植物多糖激活的主要细胞膜受体，近来研究总结出植物多糖中具有类似结构的植物多糖（TLR4相关免疫多糖）能够激活细胞膜表面 TLR4 的合成，激活相关免疫及抗氧化信号通路。这类多糖由半乳糖、鼠李糖、葡萄糖、及阿拉伯聚糖等单糖成分组成。红花多糖[26]、苹果多糖[27]、当归多糖[28]、黄芪多糖[10]、枸杞多糖[29]中均被证明能被 TLR4 识别，增强机体免疫，缓解氧化损伤[30]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前研究较多的植物多糖包含黄芪多糖、苜蓿多糖、刺五加多糖以及枸杞多糖等。黄芪是一种补气血的常用中药材，具有提高机体免疫力、抗疲劳的作用。黄芪多糖是黄芪中的主要活性物质之一。现有的研究显示，黄芪多糖可以抑制因自由基及氧化损伤造成的对线粒体的危害[31]。首蓿因草质优良、富含优质蛋白质、适应能力强及高产量等特点被称为“牧草之王”。首蓿多糖是苜蓿草中所提取的重要活性物质之一。研究表明，苜蓿多糖具有清除体内 DPPH·的作用，并且可以提高热应激状态下家兔的生产性能及抗氧化能力[32]。而且苜蓿多糖也被证明能能够减少氧化应激对肉鸡肝脏细胞的损伤[33]。刺五加是记录在《本草纲目》中的典型中草药,具有治疗风湿病、高血压等的作用。研究显示,刺五加多糖能够清除DPPH·,提高机体抗氧化能力[34]。枸杞多糖是具有抗衰老作用，能够促进 Nrf2核转移，上调 HO-1基因的表达，增强机体对氧化应激的抗性[35]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6小结与展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物多糖是植物提取物中主要活性成分之一，植物多糖对现行所要求的畜禽无抗养殖具有重要实践意义。我国中草药的应用已有悠久历史，而且包括中草药在内的植物资源丰富，研究较多的黄芪多糖、枸杞多糖等均是由中草药中发现应用的,特别是在粮改饲的大趋势下，植物多糖应用于畜禽生产中的研究具有广阔前景。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "但是，植物多糖的研究处于初步阶段，其相关应用仍存在很多问题。首先，植物多糖的提取工艺尚未成熟，尚未形成一套完整严格的体系。其次，植物多糖的提取工艺中使用较多有机试剂，对提取后多糖饲用的适口性有较大影响，这是否会影响畜禽的采食量还应进一步探索。第三，提取后的植物多糖浓度不均衡，在畜牧生产中使用的量仍需进一步确定。最后，植物多糖中有机试剂对畜禽机体是否存在致癌的危害尚不明确，去除有机试剂是推广植物多糖目前亟待解决的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] YANG B,JIANG Y M,ZHAO M M,et al.Structural characterisation of polysaccharides purifiedfromlongan(DimocarpuslonganLour.）fruitpericarp[J].Food Chemistry,2009,115(2):609-614.   \n[2] LYKKESFELDT J,SVENDSEN O.Oxidants and antioxidants in disease:oxidative stress in farm animals[J].The Veterinary Journal,2007,173(3):502-511.   \n[3] CELI P,GABAI G.Oxidant/antioxidant balance in animal nutrition and health:the role of protein oxidation[J].Frontiers in Veterinary Science,2015,2:48.   \n[4] FINKEL T,HOLBROOK N J.Oxidants,oxidativestressand the biologyof ageing[J].Nature,2000,408(6809):239-247.   \n[5] VOLPI N,TARUGI P.Influence of chondroitin sulfate charge density,sulfate group position,and molecularmasson $\\mathrm { C u } ^ { 2 + }$ -mediated oxidation of human low-density lipoproteins:effect of normal human plasma-derived chondroitin sulfate[J].The Journal of Biochemistry,1999,125(2):297-304.   \n[6] 张丽红.紫苏叶多糖提取与抗氧化活性的研究[D].硕士学位论文.福州:福建农林大 学,2013   \n[7] 张帆.虎皮兰多糖的提取及活性的研究[D].硕士学位论文.长春:吉林农业大学,2012.   \n[8] HUANG W M,LIANG Y Q,TANG L J,et al.Antioxidant and anti-inflammatory effects of AstragaluspolysaccharideonEA.hy926cells[J].ExperimentalandTherapeutic Medicine,2013,6(1):199-203. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9] SHI X J,ZHOU B S.The role of Nrf2 and MAPK pathways in PFOS-induced oxidative stress in zebrafish embryos[J].Toxicological Sciences,2010,115(2):391-400. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10] LIU Q Y,YAO Y M,YU Y,et al.Astragalus polysaccharides attenuate postburn sepsis via inhibitingnegativeimmunoregulationofCD4+CD25highTcels[J].PLoS One,2011,6(6):e19811. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11] CAO Y,RUAN Y,SHEN T,et al.Astragalus polysaccharide suppresses doxorubicin-induced cardiotoxicity by regulating the PI3k/Akt and p38MAPK pathways[J].Oxidative Medicine and Cellular Longevity,2014,2014:674219.   \n[12] KAWAI T,AKIRA S.Toll-like receptor and RIG-1-like receptor signaling[J].Annals of the New York Academy of Sciences,2008,1143(1):1-20.   \n[13] BARTON G M,MEDZHITOV R.Toll-like receptors and their ligands[M]//BEUTLER B,WAGNER H.Toll-like receptor family members and their ligands.Berlin:Springer,2002:81-92.   \n[14] MEDZHITOV R,PRESTON-HURLBURT P,JANEWAY C A Jr.A human homologue of the Drosophila Toll protein signals activation of adaptive immunity[J].Nature,1997,388(6640):394-397.   \n[15] WANG J,LIUYT,XIAO L,et al.Anti-inflammatory effectsofapigeninin lipopolysaccharide-induced inflammatory in acute lung injury by suppressing COX-2 and NF- k B pathway[J].Inflammation,2014,37(6):2085-2090.   \n[16] COUSSENS L M,WERB Z.Inflammation and cancer[J].Nature,2002,420(6917):860-867.   \n[17] LIN W W,KARIN M.A cytokine-mediated link between innate immunity,inflammation,and cancer[J].Journal of Clinical Investigation,2007,117(5):1175-1183.   \n[18] LIU F,WU S,REN H W,et al.Klotho suppresses RIG- I -mediated senescence-associated inflammation[J].Nature Cell Biology,2011,13(3):254-262.   \n[19]巩文艺,韩冬.黄芪多糖对严重烧伤大鼠心肌组织氧化应激和炎症反应的影响[J].中国中 医急症,2016,25(6):1005-1007,1022.   \n[20] 李胜陶,王洪新,杨娟,等.黄芪多糖对异丙肾上腺素诱导大鼠心肌肥厚中TLR4/NF- κ B 信号通路的影响[J].中成药,2014,36(4):674-679.   \n[21]XIE G,SCHEPETKIN I A,QUINN M T.Immunomodulatory activityof acidic polysaccharides isolated from Tanacetum vulgare L.[J].International ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Immunopharmacology,2007,7(13):1639-1650. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22] PARK C M,CHO C W,SONG Y S.TOP 1 and 2,polysaccharides from Taraxacum officinale,inhibit NF κ B-mediated inflammation and accelerate Nrf2-induced antioxidative potential through the modulation of PI3K-Akt signaling pathway in RAW 264.7 cells[J].Food and Chemical Toxicology,2014,66:56-64. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23] KYRIAKIS J M,AVRUCH J.Mammalian mitogen-activated protein kinase signal transduction pathways activated by stress and inflammation[J].Physiological Reviews,2001,81(2):807-869. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24] MCCUBREY J A,LAHAIR M M,FRANKLIN R A.Reactive oXygen species-induced activation of the MAP kinasesignalingpathways[J].Antioxidants& Redox Signaling,2006,8(9/10):1775-1789. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25] GAO Q H,FU X Y,ZHANG R,et al.Neuroprotective effects of plant polysaccharides:A review of the mechanisms[J].International Journal of Biological Macromolecules,2017,106:749-754. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26] ANDO I,TSUKUMO Y,WAKABAYASHI T,et al.Safflower polysaccharides activate the transcription factor NF- $\\mathbf { \\sigma } _ { \\kappa \\mathrm { B } }$ via Toll-like receptor 4 and induce cytokine production by macrophages[J].International Immunopharmacology,2002,2(8):1155-1162. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "'] ZHANG D,SUN Y,YUE Z G,et al.Apple polysaccharides induce apoptosis in colorectal cancer cells[J].International Journal of Molecular Medicine,2012,30(1):100-106. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28] YING C,DUAN J A,QIAN D W,et al.Assessment and comparison of immunoregulatory activity of four hydrosoluble fractions of Angelica sinensis in vitro on the peritoneal macrophages in ICR mice[J].International Immunopharmacology,2010,10(4):422-430. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29] ZHANG X R,LI Y J,CHENG J P,et al.Immune activities comparison of polysaccharide and polysaccharide-protein complex from Lycium barbarum L.[J].International Journal of Biological Macromolecules,2014,65:441-445. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30] ZHANG X R,QI C H,YAN G,et al.Tol-like receptor 4-related immunostimulatory polysaccharides:primary structure,activity relationships,and possible interaction models[J].Carbohydrate Polymers,2016,149:186-206. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31] HUANG Y F,LU L,ZHU D J,et al.Efects of Astragalus polysaccharides on dysfunction of mitochondrial dynamics induced by oxidative stress[J].Oxidative Medicine and Cellular ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Longevity,2016,2016:9573291. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[32] LIU H W,DONG X F,TONG J M,et al.Alfalfa polysaccharides improve the growth performance and antioxidant status of heat-stressed rabbits[J].Livestock Science,2010,131(1):88-93. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[33] WANG S P,DONG X F,MA H,et al.Purification,characterisation and protective effects of polysaccharides from alfalfa on hepatocytes[J].Carbohydrate Polymers,2014,112(2):608-614. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[34] ZHAO Z Y,XU X J,YE Q W,et al.Ultrasound extraction optimization of Acanthopanax senticosus polysaccharides and its antioxidant activity[J].International Journal of Biological Macromolecules,2013,59:290-294. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[35] HE M,PAN H,CHANG R C,et al.Activation of the Nrf2/HO-1 antioxidant pathway contributes to the protective effects of Lycium barbarum polysaccharides in the rodent retina after ischemia-reperfusion-induced damage[J].PLoS One,2014,9(1):e84800. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plant Polysaccharides:Mechanism of Anti-Oxidant Action through Nuclear Factor kB and Mitogen-Activated Protein Kinase/Nuclear Factor Erythroid 2-Related Factor 2 Signaling Pathways WANG LixueXIE YuhuaiYANG Weiren YANG Zaibin ZHANG Guiguo\\* (Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control and Prevention, College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Plant polysaccharides,one of the main bioactive components in plant extracts, have diverse bioactivities,such as resisting oxidative stress,boosting immunity and anti-tumor. For the antioxidative action, plant polysaccharides reduce the inflammatory factor secretion and attenuate the damage caused by oxidative stress through nuclear factor kB (NF-kB) signaling pathway; plant polysaccharides scavenge free radicals, improve activities and contents of antioxidant enzymes,and enhance cellular or body resistance to oxidative stress through mitogen-activated protein kinase (MAPK)/nuclear factor erythroid 2-related factor 2 (Nrf2) signaling pathway. This paper reviewed the production and the damage of oxidative stress, as well as the present situation and drawbacks of plant polysaccharides as an antioxidant regent in livestock production for the purpose of providing a theoretical foundation for the further study and application of plant polysaccharides as as an antioxidant regent. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:plant polysaccharide; mitogen-activated protein kinase; nuclear factor erythroid ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2-related factor 2；nuclear factor kB； antioxidative action; regulatory mechanism ",
+        "page_idx": 10
+    }
+]

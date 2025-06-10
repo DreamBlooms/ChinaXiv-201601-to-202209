@@ -1,0 +1,358 @@
+[
+    {
+        "type": "text",
+        "text": "基于高精度有限元模型的叶片气弹耦合分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵鹰1,2 廖猜猜1,3 秦志文1,3杨 科1,3(1．中国科学院工程热物理研究所，北京100190;2．中国科学院研究生院，北京100190;3．中国科学院风能利用重点实验室，北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要运用 ANSYS 参数化设计语言，建立具有真实气动外形和复合材料铺层的高精度有限元壳结构模型，并且在Matlab 平台调用、耦合基于 BEM理论建立的气动模型，从而构建风力机叶片气弹分析模型。充分考虑叶片实际受载情况，对 $1 0 0 ~ \\mathrm { k W }$ 风力机叶片进行弯扭耦合加载气弹分析，求解了耦合与非耦合情形下风力机的响应、功率系数和弯矩等，总结不同风速下气弹耦合作用对于风力机的影响，并对风力机叶片设计提出改进措施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词有限元模型；叶素-动量理论；风力机叶片；弯扭耦合;弹耦合中图分类号：TK83 文献标识码：A 文章编号:0253231X(2017)04-0748-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aeroelastic Coupling Analysis-δf Blades Based on High Precision Finite Element Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Ying1,2 xIAO Cai-Cai1,3 QIN Zhi-Wen1,3 YANG Ke $^ { 1 , 3 }$ （204号 (1. Institute of Engineering Thermophysics, Chinese Academy of Sciences, Beijing 100190; 2.Graduate school of Chinese academy of sciences，Beijing 100190; 3.Wihd energy key laboratory, Chinese academy of sciences，Beijing 100190) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractHigh precision finite element (FE） shell model are Kult by Ansys parametric design language(APDL),real aerodynamic profile and composite layupS are included in the model,and based on the Matlab platform,the aeroelastic model of wind turbine(WT） blade is established by coupling traditional BEM theory and FE model. Taking the in-service load cases into account, the aeroelastic response, power coefficient and bending moment in the soupling and uncoupling case of 100 kW WT with bend-twist coupling blade loads are analyzed. Summarizing the influence of aeroelastic coupling on blade under different wind speeds, then, make some improvements for the design of wind turbine blade. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsfinite element model； blade element-momentum theory；wind turbine blades；bendtwist coupling；aeroelastic coupling ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着风力发电技术的快速发展，风电机组叶片长度不断增加，在气动设计模块，传统的叶片刚性结构模型假设已不再适用，要求我们对于叶片的变形及振动作出相应假设及研究[1-3]。对此，国内外学者[4-6]开展了大量有关叶片气弹模型问题的研究。李本立等[7]采用模态法建立了风力机叶片的非线性模型；傅程等[8]以Marc 通用有限元计算程序为平台，通过调用FORCDT载荷子程序建立二维气弹模型；Jong-WonLee等[9改进了片条理论，用有限元软件建立梁单元叶片结构模型进行耦合计算；莫文威等[10]构建了基于多体动力学结构模型和改进型BEM理论气动模型相耦合的气弹分析模型。这些研究中的气弹模型在结构模块有较大差别，分别有模态法、多体动力学方法和有限元方法建模，但以上结构模型没有充分考虑真实叶片复合材料结构铺层特性，与真实叶片结构相差较多。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究依托我单位实验风力机的真实载荷特性及叶片复合材料铺层特性建立结构模型，提升模型精度，并耦合基于BEM理论建立的气动模型，计算分析不同风速下叶片气弹效应的影响，为后期更精确的研究及叶片设计及优化打下基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1叶片气弹模型的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1叶片气动模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在风力机空气动力学研究中，计算气动性能常见的方法主要有三种[11,12]．一种是通过动量理论与叶素理论结合来求解风轮位置的诱导速度，即“叶素－动量理论\"(Blade Element-Momentum The-ory，BEM 理论)；第二种是通过Biot-Savart定律求解叶轮尾流涡系在叶片位置的诱导速度，即涡流理论；第三种是通过数值计算方法求解Euler方程或Navier-Stokes方程的计算流体力学方法（Compu-tationalFluidDynamics，CFD)。其中，对风力机叶片进行气动性能计算的方法中，较为简便的是BEM理论。因为BEM理论思想简洁明了，尤其在编程运用中十分方便，因此，在研究工作中得到了广泛地运用[1,13]。本文以 BEM理论为基础，加入叶尖、叶根损失因子进行修正，运用MATLAB编写程序，建立风力机叶片的二维气动模型，计算其相应的气动性能，具体流程如图1，其中tol为精度要求，此处取 $1 0 ^ { - 6 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2叶片结构模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结构研究方法主要有三种：一种是基于有限元理论建立模型；第二种是基于模态分析法构建模型;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第三种是依据多体动力学建立模型[14]。其中，模态  \n输入风力机、风场基本参 分析法求解过程简便，计算量小，但精度较低；有限  \n数，整理翼型升力系数、 方法建模过程复杂，计算量大，但对于复杂模型的还原度高，求解精度高，因此适用于要求较高的?求解过程；多体动力学不论模型构建还是求解精度  \n输入截面数n，令i=1，初始 问题都居于两者中间。诱导因子a、a为零程热物理学报》 本文为了准确描述叶片复杂的复合材料结构特性，充分利用有限元分析软件ANSYS，通过参数化语言建立叶片三维结构壳单元模型，并根据真实叶i≤n 片复合材料铺层情况进行铺层设置，使模型具有较好的仿真程度和计算精度。模型结构与叶根部位某一单元的铺层如图2所示，其中单元铺层共36 层，计算入流角、攻角 图中显示前20层。根据攻角得出对应升阻力系数 ELEM=1ht t p: // SECT=1 LAYERS:TOTAL=36计算 $C _ { \\mathfrak { n } }$ 和 $C _ { \\mathrm { t } }$ ，进一步计 SROM1To 20Theta SHOWN Layer# Material#算修正的诱导因子 ${ \\bf \\ddot { \\sigma } } a _ { 1 }$ 、 o 0$\\boldsymbol { a } _ { \\mathrm { ~ l ~ } } ^ { \\prime }$ （204号 00000N 00la'-a|<tol 00la'-a′<tol 0000000i=i+1 0图2结构模型与单元部分铺层图Fig.2 Structure model and partial layers of element  \n计算 $C _ { \\mathsf { P } }$ 和珀 $C _ { \\mathrm { T } }$ 分与力矩 2 计算实例2.1数值计算过程",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1气动模块迭代流程图",
+            "Fig.1 Flow chart Iterative process of aerodynamic module "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过以上理论与软件的运用，针对某 $1 0 0 \\mathrm { k W }$ 风力机，编写相应的 MATLAB与APDL程序，分别建立了风力机叶片的二维气动模型与三维结构模型。通过弱耦合方式，建立了风力机叶片的气动弹性分析模型[8,10,15]，其过程如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3743f3647acbcbd6ab166b66a6681a81c983794630daa89b2b37810c4eda0ec5.jpg",
+        "img_caption": [
+            "图3叶片气动弹性分析过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在耦合过程中，通过将叶片在气动力作用下产生的扭转变形和弯曲变形反馈到叶片的气动模型中(即在原有 BEM理论的攻角计算式中考虑气弹扭转角的影响)，从而反应气弹耦合影响，如式1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\phi - \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\theta$ 为叶素安装角， $\\theta = \\beta + \\varphi + \\delta$ (其中 $\\varphi$ 为叶素扭角； $\\beta$ 为桨距角； $\\delta$ 为叶片在考虑气弹耦合作用后形成的扭转变形角，简称气弹扭转角)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2模型验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1气动模型验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于BEM理论，编写MATLAB程序进行迭代，并与bladed 软件计算结果、phaseVI实验结果[16]进行比较，如图4所示。图4中点从左到右风速分别为： $\\mathrm { 2 5 \\mathrm { m / s } , 2 0 \\mathrm { m / s } , 1 5 \\mathrm { m / s } , 1 3 \\mathrm { m / s } , 1 0 \\mathrm { m / s } , 7 }$ $\\mathrm { m } / \\mathrm { s }$ ，可以看出，在叶尖速比较小时误差较小，可以将其用于分析 $7 \\mathrm { m / s }$ 左右及更高风速时的工况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/472bbeb66fa855521fd820ad9a88c2398f88b145234cb15bc46b74430d47441b.jpg",
+        "img_caption": [
+            "Fig.3 Aeroelastic analysis process of blade ",
+            "图4功率系数与叶尖速比关系",
+            "Fig.4 Power coefficient variation with tip speed ratio "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2结构模型验证",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结构模型由APDL参数化语言建立，通过气动模型计算出气动力，对结构模型进行加载，从而计算风力机在气动力作用下的响应。为了检验结构模型计算的准确性，将数值计算结果与静力实验结果[17]进行对比。结构模型和静力实验加载位置相同，位于叶片展向 $4 \\mathrm { m }$ 与 $8 \\mathrm { ~ m ~ }$ 处。二者叶尖挠度对比显示，数值计算值为 $1 . 3 3 0 \\mathrm { m }$ ，静力实验值为1.369m，相差 $2 . 8 \\%$ 。这主要是由于复合材料特性的离散性导致有限元模型和实际材料存在差别，对于实际叶片设计，这在允许的误差范围内，可以用于后续的结构分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3数值计算结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5是不同风速下挥舞方向变形量与叶片径向位置关系，由曲线的斜率变化可以看出叶中部位弯曲程度最为严重，弯曲弧度大，拉伸程度高，这对于叶片本身材料属性形成较为严峻的考验。从局部放大图可以看出叶片变形量随风速增大而增加，在叶尖位置， $4 ~ \\mathrm { m / s }$ 风速时考虑气弹与不考虑气弹造成变形量相对误差是 $1 . 4 8 \\%$ ， $8 ~ \\mathrm { m / s }$ 时是 $4 . 2 3 \\%$ ， $1 0 ~ \\mathrm { m / s }$ 时是 $4 . 5 8 \\%$ 。因此，风速升高加剧了叶片气弹耦合响应，随着风速升高，入流角增大，攻角也随之增大，造成叶片变形量增大。但当风速继续升高，风力机失速，叶片变桨，导致叶片攻角减小，使得在高风速区叶片的变形量及相对误差反而逐渐减小，图5中23（20 $\\mathrm { m / s }$ 风速时相对误差是 $2 . 8 5 \\%$ ， $2 4 ~ \\mathrm { m / s }$ 时是12990",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0.96 0.30 程热物理0.88 0.250.80 -0.200.72 -0.15回 0.64 0.56 .0.10 0.050.480.00-0.05 1 r i0.40 6.5 7.0 7.5 #0.32 -4m/s无气弹-0-4m/s气弹 ?·△8m/s无气弹 -8m/s气弹 y 10.24 10m/s无气弹--10m/s气弹 美0.16 5m/无气-5m气弹 城0.08 24m/s无气弹-24m/s气弹0.00-0.08 上 上 上 上 上0 2 4 6 8nt径向位置/m",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶片变形导致的扭角变化如图6，其中，扭角变化大的区域主要集中在叶中到叶尖部位，因为此处翼型气动特性较好，相对厚度较小，在弯扭耦合作用下，会产生较大的气弹扭转角。此外，在变桨运行前，扭转角随着风速升高而增大，在 $4 \\mathrm { m / s }$ 风速下叶尖位置的气弹扭转角为 $0 . 5 3 3 ^ { \\circ }$ ， $6 ~ \\mathrm { m / s }$ 时为 $0 . 7 4 9 ^ { \\circ }$ ，8$\\mathrm { m } / \\mathrm { s }$ 时为 $1 . 2 1 3 ^ { \\circ }$ ， $1 0 ~ \\mathrm { m / s }$ 时为 $1 . 4 5 2 ^ { \\circ }$ 。而变桨后，入流角依旧升高，攻角则大幅减小，进而导致扭转角减小甚至反向扭转，最终产生负的气弹扭转角，在15$\\mathrm { m / s }$ 风速时为 $0 . 5 1 6 ^ { \\circ }$ ， $2 0 \\mathrm { m / s }$ 时为 $0 . 0 7 3 ^ { \\circ }$ ， $2 5 ~ \\mathrm { m / s }$ 时为 $- 0 . 2 2 7 ^ { \\circ }$ 。内部区域图显示了风力机不发生变桨动作时扭角与风速关系，图6中扭转角随着风速升高不断增加，最终稳定在 $1 . 6 ^ { \\circ }$ 左右，由图6可得，不考虑变桨时，随着风速升高，叶片扭转逐渐变大，即气弹耦合作用随着风速升高在加强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/394c70d3d7c30356654ef413b47c18422ed7837d5bc2adfc3a47dfb18eac6f9d.jpg",
+        "img_caption": [
+            "图5挥舞方向变形量与径向位置关系Fig.5 Flapwise deformation variation with radial position",
+            "图6攻角变化与径向位置关系",
+            "Fig.6 Changeable angle of attack variation with radial position "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7是风功率系数与风速关系曲线，图中虚线表示的是考虑气弹耦合作用后的风功率曲线，而实线是不考虑气弹耦合作用的风功率曲线。因为考虑气弹耦合作用造成的叶片扭转变化后，攻角会发生联动变化，法向力与切向力系数也随之改变，从而改变叶片转矩，导致风力机功率减小。由于叶片本身长度有限，气弹耦合效应不是十分明显，但也不可忽略，尤其是在 $7 { \\sim } 1 5 \\ \\mathrm { m / s }$ 风速区域，其中在7m/s、 $9 \\mathrm { m / s }$ 、 $1 1 ~ \\mathrm { m / s }$ 和 $1 4 ~ \\mathrm { m / s }$ 风速时功率系数分别相差 $0 . 0 4 \\%$ 、 $0 . 3 6 \\%$ 、 $1 . 5 1 \\%$ 和 $1 . 4 5 \\%$ 。而在低风速区域 $\\mathrm { ( < 7 ~ m / s ) }$ ，由于风速较低，叶轮转速也较低，载荷较小，气弹效应不明显；在高风速区域 $\\mathrm { ( > 1 5 ~ m / s ) }$ ，由于叶片变桨，导致叶片攻角急剧下降，乃至在叶尖处产生负攻角，在此区域内攻角改变引起的法向力与切向力系数变化不明显，因而叶片气弹耦合效应不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图8是摆振方向弯矩随径向位置变化曲线，图中分别对比了考虑与不考虑叶片气弹耦合作用对弯矩的影响。图8显示，随着风速升高，摆振弯矩在考虑与不考虑气弹耦合作用后的差值增大，当风速达到一定程度时，风力机开始变桨动作，攻角减小，摆振弯矩之间的差值反而减小，其中在 $6 \\mathrm { m } / \\mathrm { s } , 8 \\mathrm { m } / \\mathrm { s } , 1$ 0$\\mathrm { m } / \\mathrm { s }$ 、 $\\mathrm { 1 5 ~ m / s }$ 和 $2 0 ~ \\mathrm { m / s }$ 风速时弯矩的相对误差分别是 $2 . 5 3 \\%$ 、 $2 . 7 5 \\%$ 、 $2 . 8 0 \\%$ 、 $2 . 2 7 \\%$ 和 $1 . 6 8 \\%$ 。由此可以得出，随着风速逐渐升高，气弹耦合作用效应先增大而后减小。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb90465d90ba6a28bd87db62d0c453a332f2344337b523dbab9492c2dcdcf4ff.jpg",
+        "img_caption": [
+            "图7功率系数与风速关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/33190435d0253a3b938c8ad5282b6fe4165c52150ef4091c5beb7ad253ea2277.jpg",
+        "img_caption": [
+            "Fig.7 Power coefficient variation with wind speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4气弹设计改进",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气弹耦合效应造成的扭转变化会导致功率下降通过分析不同风速下扭转角的变化情况，得出较优的扭转角变化值，从而对叶片的设计扭角进行改进,使得风功率系数在考虑气弹耦合效应后有所提高。改进前、后的功率系数对比如图9，图中改进后的功率输出在 $7 \\ \\mathrm { m / s }$ 风速前基本不变，在 $7 \\ \\mathrm { m / s }$ 风速后有所提升，其中 $8 ~ \\mathrm { m / s }$ / $9 \\mathrm { m / s }$ 、 $1 1 . 3 \\mathrm { m / s }$ 和 $\\mathrm { 1 5 ~ m / s }$ 风速时功率系数分别提高 $0 . 0 2 \\%$ 、 $0 . 3 2 \\%$ 、 $1 . 4 5 \\%$ 和$2 . 1 3 \\%$ 。通过预扭转改进设计扭角能提高风力机功率输出，可为后续考虑气弹耦合效应进行叶片优化设计提供参考。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb24f160aebccf64bef339d5a10974892cc8ce60a105568ef0b5e080efeb7749.jpg",
+        "img_caption": [
+            "图8不同风速下摆振方向弯矩随径向位置变化Fig.8 Edgewise bending moment variation with radius underdifferent wind speed",
+            "图9功率系数与风速关系 Fig.9 Power coefficient variation with wind speed "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文发展了一种叶片气弹耦合模型，该模型运用ANSYS建立叶片复合材料铺层的结构模型，耦合基于BEM理论建立的气动模型，形成叶片气弹分析模型，并对 $1 0 0 ~ \\mathrm { k W }$ 风力机组叶片进行气动弹性计算与对比分析，得到以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气弹耦合的影响先随着风速的升高而增大，俾半风力机产生变桨动作之后，尤其是随着风速增天，变桨程度不断提高，气弹耦合的影响将逐渐减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)通过气动弹性结果分析可知，在正常运行风速区域，叶片气动弹性效应会造成叶片功率输出下降，导致达不到设计功率。因此，在叶片气动设计时要充分考虑气弹效应影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）分析不同风速下气弹效应造成的叶片扭角变化，提出了一种提升功率的措施，并取得了一定效果。 ×.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[陈佳慧．风力机气动弹性与动态响应计算[D].南京：南京 航空航天大学，2011 CHEN Jiahui.Calculation of Aeroelastics and Dynamic Responses of Wind Turbine [D].Nanjing: Nanjing University of Aeronautics and Astronautics,2011   \n[2] 信伟平.风力机旋转叶片动力特性及响应分析[D].汕头：汕 头大学,2005 XIN Weiping. Dynamic Characteristics and Response Analysis of Wind Turbine Rotor Blades [D].Shantou: Shantou University, 2005   \n[3]王旭东，陈进,ShenWenzhong，等.基于气动弹性理论的风 力机叶片耦合分析[J].太阳能学报，2010,31(1)：96-99 WANG Xudong，CHEN Jin，SHEN Wenzhong，et al. Wind Turbine Blades Coupling Analysis Based on the Aeroelastic Theory [J].Acta Energiae Solaris Sinica,2010, 31(1):96-99   \n[4]钱若军,董石麟,袁行飞等.流固耦合理论研究进展[J].空 间结构,2008,14(1):3-14 QIANRuojun,DONG Shilin,YUANXingfei,et al. Research Progress of Fluid-Solid Coupling Theory [J]. Space Structures,2008,14(1):3-14   \n[5]陈大伟，杨国伟．静气动弹性计算方法研究[J].力学学报, 2009,41(4):469-479 CHEN Dawei,YANG Guowei. Research of Static Aeroelasticity Calculation Method [J].Acta Mechanica Sinica, 2009,41(4): 469-479   \n[6] 孙良.弹性变形对机翼气动特性影响的研究[D].哈尔滨：哈 尔滨工程大学，2012 SUNLiang.Research on the Effects of Elastic Deformation on Aerofoil Aerodynamic Characteristics [D].Harbin: Harbin Engineering University, 2012   \n[7]李本立，安玉华.风力机气动弹性稳定性的研究[J].太阳能 学报,1996,17(4):314-320 LI Benli,AN Yuhua.Wind Turbine Aeroelastic Stability Study [J].Acta Energiae Solaris Sinica,1996,17(4): 314-320   \n[8]傅程,王延荣.风力发电机叶片气动弹性响应分析[J].机械 设计与研究,2009,25(1):68-70 FUCheng，WANG Yanrong.Wind Turbine Blade Aeroelastic Response Analysis [J].Machine Design and Research,2009,25(1):68-70   \n[9] Lee JW,Lee J S,Han JH,et al. Aeroelastic Analysis of Wind Turbine Blades Based on Modified Strip Theory [J].Journal of Wind Engineering and Industrial Aerodynamics,2012,110:62-69   \n[10] MO Wenwei, LI Denyuan,WANG Xianneng,et al.Aeroe lastic Coupling Analysis of the Flexible Bladeof aWmd Turbine [J].Energy,2015,89:1001-1009 学   \n[11]Burton T,Sharpe D,Jenkins N，et al.Wid Energy Handbook [M].England:Antony Rowe Itd, 2001:46-65   \n[12]张波成，万志强，杨超．基于气动三维的静气动弹性响应 分析[J].工程力学,2011,28(7):217222 ZHANG Bocheng，WAN Zhiqiang,YANG Chao. Static ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aeroelastic Response Analysis Based on Aerodynamics Three-Dimensional Force [J].Engineering Mechanics, 2011,28(7):217-222 [13]贺德馨,陈坤,张亮亮等.风工程与工业空气动力学[M].北 京：国防工业出版社，2006:87-91 HE Dexin,CHEN Kun,ZHANG Liangliang,et al.Wind Engineering and Industrial Aerodynamics [M].Beijing: National Defence Industry Press,20o6:87-91 [13]唐迪,陆志良，郭同庆．大型水平轴风力机叶片气动弹性计 算[J].应用数学和力学,2013,34(10)：1091-1097 TANG Di,LU Zhiliang,GUO Tongqing. Large Horizontal Axis Wind Turbine Blade Aeroelastic Calculation [J]. Applied Mathematics and Mechanics,2013,34(10):1091- 1097 [14] Carrion M, SteijlR,Woodgate M,et al. Aeroelastic Analysis of Wind Turbines Using a Tightly Coupled CFD-CSD Method [J]. Journal of Fluids and Structures,2014,50: 3924415 [15]胜军．不同风况下风力机尾流特性研究[D].北京：中国 科学院工程热物理研究所，2014 1 WANG Shengjun.Study on Wake Characteristics of Wind Turbine Operating in Various Wind Conditions [D]. Beijing:Institute of Engineering Thermalphysics,Chinese Academy of Sciences,2014 [16]CHEN Xiao,QIN Zhiwen,YANG Ke,et al.Numerical Analysis and Experimental InvestigationofWind Turbine Bladeswith Innovative Features:Structural Response and Characteristics [J].Science China Technological Sciences, 2014,58(1): 1-8 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/20be1fc6f810880b8a0daca9bbf45061f26e8f1fdfef96a4dc59136c22fd7f77.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    }
+]

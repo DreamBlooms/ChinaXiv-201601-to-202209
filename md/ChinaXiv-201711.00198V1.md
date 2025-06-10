@@ -1,0 +1,234 @@
+# 奥巴马政府对外决策与中美关系中的智库因素
+
+宋静
+
+山西财经大学 太原 030006
+
+摘要：[目的/意义]作为政策咨询的外脑，美国智库在对华外交决策过程中起着极其重要而特殊的作用。考察美国智库的政策主张和运作是预测和分析美国外交战略和政策制定的重要观察视角与依据。[方法/过程]采用案例分析方法解读了美国智库在奥巴马时期对华战略与政策制定中的作用。[结果/结论]美国智库影响外交决策的核心路径在于通过“旋转门”机制成为政策精英，进入以国务卿为首的内阁团队和以国家安全顾问为首的国家安全委员会。由于缺少外交经验，奥巴马在对外决策中，更加倚重民主党色彩的智库和防务安全智库。在竞选初期，奥巴马受到知华派智库精英的影响，企图使中国分担其领导世界的霸权成本。在第一任期中，奥巴马政府接受了以新美国安全中心为代表的智库和对华强硬派智库专家的政策方案，确立了“亚太再平衡”战略。在上述战略思想的指导下，中美关系呈现高开低走的趋势，折射出奥巴马时期中美关系的反复与倒退，新一轮美国智库对华大辩论又将影响到下一届美国政府对华政策的重新定位。
+
+关键词：智库;对外决策;奥巴马政府;中美关系 分类号：D801
+
+# Obama Administration's Foreign Policy-making and the Sino-US Relations under the Influence of Think Tanks
+
+Song Jing College of Marxism, Shanxi University of Finance and Economics, Taiyuan 030006
+
+Abstract: [Purpose/significance] As the policy counsel ，American think tanks play an important and unique role in the process of establishing American diplomatic strategy and policies. This research could provide a visual angle and experimental reference for the study on the American diplomatic strategy and policy-making to China through examining think tanks’ policy ideas and specific operation modes.[Method/process] The paper mainly adopted the case analysis method to analyze the role_of American think tanks in Obama's strategy and policy-making to China.[Result/conclusion]American think tanks exert power in the process of establishing American diplomatic strategy and policies with many ways especially via the presidential election and the revolving door mechanism to enter into the Obama administration's foreign policy-making circle. Lacking of experience in diplomacy, Obama preferred Democratic-colored think tanks and several defense security think tanks.In the early stage of the campaign, Obama turned to think tanks of China school for guidance,trying to share the cost of hegemony with China, but failed. During the first term, under the influence of Center for a New American Security and other hardliners, the Asia-Pacific Rebalancing strategy came into being. Owing to the guidance of the above and the mismatch of the decision-making team to China to a certain extent, the Sino-U.S.relations presented a trend from rise to decline and some setbacks through Obama's presidency. In spite of think tanks’ frequent interactions on both sides,today American policy elite are increasingly coming to see China as a threat or a competitor to American “primacy". A heat debating and assessing on American foreign policy towards China is launched by the U.S. think tanks,which willexert impact on the next U.S. administration's re-orientation of foreign policy to China.
+
+Keywords: think tankforeign policy-making Obama Administration the Sino-US relations
+
+美国拥有世界上数量最多、水平最高的智库和专家群体，他们擘划献策，翻覆挥阖，成为政府决策链上不可缺少的有机组成部分，具有重要而独特的影响力，被称为“影子内阁”。考察美国智库在总统竞选、华府人员变动、人才储备、项目设立、战略传播、舆论引导方面的运作，是预测和分析美国外交战略和政策制定的重要观察视角与依据。本文通过回顾梳理美国总统奥巴马在长达8年的执政期内在外交领域中精英队伍的建设、核心智库的倚重、外交战略的确立、对华认知的变迁，全方位考察了美国智库参与和影响奥巴马政府外交决策的路径依赖，并进一步分析了美国智库与奥巴马对华战略与政策走向之间的关联度。这一研究课题也力图为当前学术界对智库研究与外交决策领域研究提供一个交叉分析的实证方法和有一定参考借鉴意义的案例。
+
+# 1“旋转门”机制下奥巴马精英团队的权力博弈
+
+奥巴马入主白宫时，美国正在遭受严重的金融危机，深陷阿富汗和伊拉克两场战争，国际形象严重受损，外交安全领域备受诟病。为了消弭小布什政府留下来的难题，尽可能地远离利益集团因素的干扰、摆脱共和党人的掣肘、新保守主义分子的好斗、利益集团的干扰、党内权重派的分歧，奥巴马不但要在战略和政策层面做出大幅调整，还需打造一支忠心耿耿、执行力很强的对外精英团队。因此，在决策团队的打造和官员的任命过程中，出身草根家庭但受到哈佛精英教育的奥巴马把更多的目光和精力投向了来自美国智库的专家学者们。
+
+上台伊始，奥巴马的政策精英团队由两组人马构成，且反差巨大。第一组成员由能够驾驭国内外复杂事物、经验丰富的政坛老手组成的总统内阁；第二组成员多由竞选团队成员构成的国家安全委员会。与前一组相比，他们多为越战后成长起来的新生代，代际特点鲜明，无外交经验，政治根基浅。值得关注的是，精英团队成员多来自于智库，36个重要成员当中有 29 名具有智库背景，以布鲁金斯学会（Brookings Institution）居多，美国进步中心（Centerfor American Progress）、新美国安全中心（Center for a New American Security）、斯坦福国际安全与合作中心（FSI-CISAC）、战略与国际问题研究中心（CSIS）、外交关系委员会（Council onForeignRelations）等也都有大量学者进入奥巴马政府。
+
+# 1.1在第一任期内，对手团队的权力博弈引发“奥巴马治下的战争”。
+
+对于总统内阁的人选，奥巴马容纳了非民主党官员罗伯特·盖茨，凸显了反恐战略的延续性需要。原本在克林顿夫妇麾下“投诚”的苏珊赖斯成为奥巴马最信任的幕僚。她的外交理念是以对话代替对抗，向全球推销美国的“软实力”，是“奥巴马主义”的关键缔造者之一。曾为克林顿政府工作的贝德得到了赖斯的引荐而进入国安会，担任国安会亚洲事务负责人(2009-2011)。作为民主党元老和连续三届政府的老臣，莱昂·帕内塔曾经多次化解克林顿、布什政府预算危机的经验，成为担任奥巴马政府第二任国防部长的资本。作为美国亚洲协会主席和外交关系委员会杂志《外交》季刊的主编，理查德·霍尔布鲁克由于具有丰富的外交谈判和纠纷调解的经验，被奥巴马任命为驻阿富汗/巴基斯坦特使，完成结束反恐战争、体面退出阿富汗的任务。集新美国安全中心创办人、“战略亚洲”顾问公司创办人、阿斯彭战略集团主任、保守派智库战略与国际研究中心副总裁和《华盛顿季刊》编委主席于一身的助理国务卿坎贝尔曾在克林顿时期在国防部负责亚洲事务。他。在他的任内，美国“亚太再平衡”战略得以出笼，希拉里则是推动者和执行者。
+
+对于外交与安全领域，最关键的角色莫过于国家安全顾问（又称“总统国家安全事务助理")。奥巴马第一任期的国家安全顾问就换了两任一一詹姆斯·琼斯和多尼隆。后者因经历波斯尼亚和平谈判、北约扩张，在讨论对阿富汗战略时得到奥巴马认可，成为接替琼斯的最佳人选。实践证明，他领导的国安会团队在风头上盖过内阁团队（国防部和国务院)，形成新的权力中心，与斯坦伯格、坎贝尔、琼斯矛盾严重，被国防部长盖茨称为“白宫的灾难”。[
+
+第一任期的奥巴马执政团队在构成上具有明显的竞争性缺陷，被戏称“对手团队（teamofrivals)”。对内而言，国安会团队成员之间具有一定的凝聚性。对外而言，国安会成员与总统内阁团队冲突较多，互生齷齪，被外界形容为“奥巴马治下的战争”。[2]这既体现在党际之争，也体现在民主党党内，最明显莫过于国务卿希拉里与奥巴马的争斗，从互相批判的竞争对手，到并肩而立又明争暗斗的同事，再到政治遗产的继承者，两人不但在国务院人事权（包括大使人选）方面产生摩擦，还在外交立场产生对立（反对迫使穆巴拉克下台和疏远以色列)，上演了现实版的“纸牌屋”大戏。
+
+# 1.2在第二任期内，国安会团队成功捍卫其对外决策的主导地位。
+
+由于美国两党对决和政治极化日益明显，奥巴马内阁执政团队在第二任期日渐瓦解，白宫真正的权力核心掌握在竞选时出过力的那些年轻的竞选顾问及助手手中。苏珊·赖斯接替多尼隆担任国家安全顾问意味着奥巴马第二任期的国家安全团队主要成员全部更新，由于其权力膨胀，其领导下的国安会成员一度扩至约400人。而新入局的内阁官员中，哈格尔、克里则更准确地表现为奥巴马政策的执行者。曾先后就职于战略与国际问题研究中心、新美国安全中心的托尼·布林肯经拜登推荐被任命为副国家安全顾问，参与设计了伊拉克撤军方案、阿富汗战略、对“伊斯兰国”发动空袭计划以及伊朗核问题谈判，为奥巴马中东政策的制定发挥了关键人（go-toguy）作用，于2014年底升任副国务卿。
+
+来自国会助理与竞选班底的利珀特、丹尼斯·麦克多诺、本·罗兹三人与奥巴马关系密切，直接参与总统决策，被认为是国安会团队的“三驾马车”。[3利珀特历任负责亚太事务的国防部长助理、国防部办公室主任、驻韩大使，推动了《韩美原子能协定》修订版的生效和部署美国“萨德”系统（THAAD)，把韩国纳入由美国主导的战区导弹防御系统，成为奥巴马政府亚太战略中的关键角色。来自美国进步中心的麦克多诺成为第四任白宫办公厅主任，他几乎参与了奥巴马所有重要的外交与安全事务决策。发迹于伍德罗·威尔逊国际学者中心的罗兹负责撰写、解读和推销奥巴马外交政策，因此从国安会战略通讯的负责人，擢升为国安会办公室主任和国家安全顾问副助理，并在幕后参与美国和古巴复交密谈，促成美国和伊朗的核子协议。
+
+传统上，美国国防部长职位和总统任期保持一致，但奥巴马时代却并非如此，从盖茨、帕内塔到哈格尔，都被讥讽为“五角大楼值班员”。2014年12月，资深军控及核不扩散专家、党派色彩淡薄、“俄国通”的阿什顿·卡特替换哈格尔成为奥巴马时代最后一任国防部长，他是“鹰派”中为数不多明确支持奥巴马“战略重心转移亚太说”的人，上任后力促美国积极介入俄罗斯周边事务和朝鲜核问题，其任命可以被看作是对奥巴马对外安全战略遗产的最终诠释与定格。
+
+# 1.3 内阁成员的错位组合与流动性影响了对华决策的持续性
+
+奥巴马内阁成员八年“走马灯”式的流动变换与错位组合也大大影响了对华决策的持续性和有效性。负责对华政策的内阁官员大都不属于核心幕僚，而核心幕僚并非“知华派”。在奥巴马第一任期中，国务卿希拉里显然在对华言论中“先礼后兵”，有智库背景的斯坦伯格、坎贝尔、贝德及多尼隆也在对华决策中扮演了一定角色。不过，除多尼隆外都不是决策核心成员。进入奥巴马第二任期后，更多介入对华决策的赖斯与四任白宫亚洲事务主任（分别是贝德、拉塞尔、麦艾文、康达）都存在距离。赖斯虽为核心成员，但她并不熟悉中国事务，拉塞尔被评价为缺乏政策思维，贝德、斯坦伯格被批对中国“太软”、“温顺”、“太学术化”，坎贝尔因急于推进“亚太再平衡”引伐中国激烈不满，虽然“中国通”麦艾文协助奥巴马制订了第二任期的对华政策框架，但在面对中国“强势外交”时过分手软而备受指责，于 2015年6月辞职前往外交关系委员会，由国安会亚太事务主管、驻华公使康达接任。奥巴马政府对华决策圈内重要人事的频繁调动，或多或少折射出奥巴马政府探索对华接触之道的摇摆性和情绪化。
+
+# 2影响奥巴马对外决策的主要智库及其对华认知
+
+洞察美国智库的人员变动和研究方向，是分析美国智库对外决策影响力的一个重要指标。而能够使其成员进入政府决策圈、智库发表的战略性研究报告和对策建议，得到政府的重视和采纳，是美国智库成功的重要标志。以此标准来看，下列智库在奥巴马时期的影响力尤为
+
+突出。
+
+# 2.1 民主党派智库
+
+在政党博弈的现实语境下，党派智库在美国政府换届更迭期间扮演的角色尤为明显。在奥巴马上台执政后，成功地完成了民主党从意识形态淡化的中间派向左翼自由派和进步主义路线的回归，有利地推动了富有民主党派意识形态色彩智库的发展。
+
+# 2.1.1布鲁金斯学会（Brookings Institution）
+
+享有全球排名第一的布鲁金斯学会，是华盛顿学术界的主流智库之一，因其规模之大、历史之久远、研究之深入，被称为美国“最有影响力的思想库”。作为民主党精英的“影子内阁”，学会有高级研究员近100人，进入奥巴马政府任职的就有36人之多，包括国家经济委员会主任萨默斯、驻联合国大使赖斯、副国务卿斯坦伯格、副国家安全事务顾问多尼隆、白宫管理与预算办公室主任奥斯泽格、国安会东亚事务主任贝德、驻北约大师达尔德等。
+
+布鲁金斯学会在中国问题上持理性和务实态度，倾向采取对华温和的政策路线，曾在克林顿时期对华“接触”政策的形成中发挥了重大影响力。
+
+目前，学会下设3个研华机构。东亚政策研究中心设立较早，该项目先后由著名中国问题专家何汉理、尼古拉斯·拉迪、季北慈、卜睿哲负责。2006年10月，由高盛前任总裁约翰·桑顿出资，设立了布鲁金斯学会史上第一个国别研究中心—一中国政策中心，这也是第一个在中国建立学术中心的美国智库。同年，由清华大学和美国布鲁金斯学会联合创办清华-布鲁金斯公共政策研究中心，为中美双方学者和政策制定者提供国际化的交流平台。
+
+作为美国智库中研究中国问题的“重镇”，布鲁金斯学会聚集了数量最多、影响力最大的“中国通”们，除了上述专家以外，还有理查德·哈斯、特罗布·塔尔博特、斯坦伯格、李侃如、杰弗里·贝德、苏葆立、沈大伟、柯庆生、迈克尔·欧汉龙以及华裔学者吴永泰、李成。董事会主席约翰·桑顿还在清华大学任教，他形容中美两国的关系是“一荣俱荣，一损俱损”。关于美国驻中国大使人选的问题上，在五名候选人中竟然有三人（约翰·桑顿、李侃如、沈大伟）来自布鲁金斯学会，由此，反映了其知华派专家的厚实储备。
+
+# 2.1.2美国进步中心（Center forAmerican Progress）
+
+美国进步中心从成立之初就带有极强的党派对抗色彩，是民主党领导委员会的政策机构，号称“民主党的思想库”，并在克林顿、奥巴马的竞选活动中领衔组织团队，鼎力支持。随着奥巴马的胜选，竞选班子负责人、中心创始人约翰·波德斯塔和副总裁巴恩斯分任白宫高级顾问和国内政策委员会主任，其他还有丹尼斯·麦克多诺、卡洛尔·布朗纳。中心新近设置的中东项目和可持续安全项目将为下一届民主党政府围绕中东地区和盟国关系设计新的美国国家安全战略。
+
+该中心在安全领域有较强的影响力，其撰写的《重建美国的军事力量：朝着新改良型国防战略迈进》（Restoring American Military Power: Toward a New Progressive Defense Strategyfor America）2007 报告被 2010 年美国国防预算草案几乎照单全收[4]，而另一部报告《2009年核态势回顾路线图》（Orienting the 2009 Nuclear Posture Review:ARoadmap）也成为奥巴马政府的核战略调整和打造“新核力量”的指南之一[5]。作为美方谈判人员，美国进步中心中国政策部主任梅拉妮赫德参与了中美气候变化与能源合作的谈判，她在2015年9月美国参议院外交关系委员会出席作证，“中国已经摒弃了‘韬光养晦’的外交政策，在发达国家阵营之外更愿意发挥领导作用，其过分自信的行为损害了美国的利益，破坏了现有国际秩序。政府应对中美关系采取多轨式合作战略模式，在双方利益重合区域加强合作，在冲突区域正面应对，并施以威慑。”[6]
+
+# 2.2跨党派战略安全智库
+
+对于战略与安全领域，长期强调价值观的民主党还专心打造了跨党派的新型安全智库新美国安全中心，并对与共和党、国防部有密切联系的战略与预算评估中心和斯坦福国际安全与合作中心也给予了高度的重视与启用。
+
+# 2.2.1 新美国安全中心（Center fora NewAmerican Security）
+
+防务领域经验相对匮乏的民主党于 2007年精心打造专注于国家安全防御政策的新型智库—一新美国安全中心。该中心对亚洲政策的研究主要集中在三个方面，即应对亚洲权力结构变迁、巩固同盟关系、参与亚洲多边机制安排，其诸多研究成果和政策建议都转化为奥巴马的亚洲政策战略和实践。
+
+在2015年6月末中心年会上，中国话题成为了最引人瞩目的焦点，主办方做了问卷调查，结果显示“中美关系走向愈演愈烈的竞争”以压倒性79%的比例独占鳌头，有61%的人认为是美国在东亚的（软弱）政策造成了所谓的“中国在东亚的霸权”，有51%的受访者认为“中国是一个威权国家”。根据以上调查数据，新美国安全中心亚太安全计划负责人帕特里克·克罗宁呼吁“下届美国政府仍远不能同‘亚洲再平衡’政策划清界限，坚定地将其经济、外交和军事力量转移到印太地区”，这与他在5月13日国会中美经济和安全审查委员会上的证词如出一辙。[7l2016 年5月，中心总裁理查德·方丹在《国家利益》（The National Interest）发表《中国如何看待国际秩序》（How China Sees World Order）的文章称，“愈加强大的中国对现有国际秩序是以实现中国利益为目标对其进行强化和塑造，有时不惜打破现存规则。中国呼吁亚洲安全应由亚洲自己维系及对美国区域安全体系的抨击，显示了现存体系会被取代的可能性。”[8]随后，他在《华尔街日报》对南海争端倒向菲律宾，攻击中国“无视海牙国际海洋法庭的裁决，美国应该借此良机与亚洲各国组织反对联盟，制定地区规则来约束中国，提升自身防卫能力来增加中国的行动成本。”[9]
+
+# 2.2.2战略与预算评估中心（Center for Strategic andBudgetary Assessments，简称 CSBA）
+
+战略与预算评估中心是一个以军事研究见长、拥有17名专职研究人员、2名客座研究员的小型智库，它以美国国防部内部智库净评估办公室为依靠，专注于美国军事预算的分析和战略评估，以军方为第一用户。战略与预算评估中心的研究人员基本要求具有从军经历，且与国防部等国家防务部门渊源深厚。该中心总裁美国陆军中校安德鲁·克里平涅维奇曾是前国防部净评估办公室主任马歇尔的得力助手。
+
+自成立以来，战略与预算评估中心与净评估办公室里应外合，共同推动了美国的军事改革，加速了美国遏制中国的步伐。在过去15年中，战略与预算评估中心为马歇尔的办公室进行了20多次针对中国的作战模拟并撰写了几十份研究报告。2000 年9月，中心召开了题为“超越同时打赢两场战争的定位：应对反介入挑战”的大型学术研讨会，邀请美政、军、商、学的众多精英人物与会，认定中国的“反介入和区域阻止”能力威胁到了美国的兵力投放，提出“空海一体战”（AirSea Batte）理论，为美国决策层形成新时期中国军事威胁的共识，起到了关键性的造势和推动作用。[10]
+
+# 2.2.3斯坦福国际安全与合作中心（FSI-CISAC)
+
+该中心是美国大学中规模最大、最具声誉的防务安全智库，致力于国际安全与军备控制的研究，并接收国防部或国土安全部的研究项目。前国务卿康多莉扎·赖斯曾在该中心长期任职，前国防部长佩里已回到该中心，著名华裔学者薛理泰在此潜心研究中国军事战略。在奥巴马政府成员中，有5名高官来自于此，包括驻联合国人权理事会代表艾琳·多纳霍、国防部长助理保罗·斯托克顿、驻俄罗斯大使迈克尔·麦克福尔、国安会民主事务主管杰瑞米·威斯汀、总统内政助理马里亚诺·库埃利亚尔。中心在 2006 年11月启动了管理全球不安全因素项目,[成果汇编为《权力与责任：构建跨国威胁时代的国际秩序》（Power and Responsibility:Building International Order inan Eraof Transnational Threats），全面阐述了以负责任主权为基础、实施以国际规则为依据的多边主义国际秩序战略建议，提出了新的国际安全基础理念一—“负责任主权”。这被称为“阐述了美国新政府的新对外政策”。[12]为了与“中国责任论”遥相呼应，中心还做出了中英文版在中美两国同步发行的特殊安排，鼓励中国成为美国治下的国际体系中“负责任大国”，希望以此影响和约束中国运用权力的方式，规范未来中国的国际角色，主导中国外交和分担霸权治理的成本。2014年，薛理泰在《盛世危言：远观中国大战略》（China's Grand Strategy for Engaging an Uncertain World）一书中指出，“中国在三十年前就失去了南海的先机，美国立场的改变起着一锤定音的作用。”[13]而就中国在南中国海填海造陆之事，他预测南中国海正在酝酿一场军事危机，一旦中国军事摊牌，则美国及其盟国可能仿效1962年古巴导弹危机的模式，对中国施加军事压力。在这场战略博弈中，美国将占尽优势，就中国崛起的愿景而言，后果的严重性将是无以复加的。[14]
+
+# 3奥巴马时期的外交战略与中美关系
+
+2008年，金融危机沉重打击了美国国际影响力，美国的全球主导权面临严峻挑战。在知华派智库精英的影响下，奥巴马在上台之前就预设了中美关系的前景。在第一任期内，在企图使中国成为“负责任的利益攸关方”的幻想宣告破灭后，有关“中国威胁论”的论调再次泛起，奥巴马政府接受了强硬派智库拟定的“亚太再平衡”战略框架，在对华政策上出现了由强调合作到转向防范的演变。[15]在第二任期内，虽然决策者一度将注意力重新锁定中东地区，但“再平衡”战略步伐并没有停止。
+
+# 3.1知华派智囊团对奥巴马决策思维的预热
+
+早在 2007年6月，身为总统候选人的奥巴马就着手成立了外交智囊团，包括布鲁金斯学会的杰弗里·贝德、何汉理、李侃如、卜睿哲，约翰霍普金斯大学中国项目主任兰普顿，兰德公司的麦艾文，前国家安全委员会亚洲主任苏葆立，战略与国际问题研究中心的德里克·米切尔，哈佛大学的麦克法夸尔等15位美国智库的“中国通”们。由哈佛大学教授尼尔·弗格森、彼得森国际经济研究所所长弗雷德·伯格斯滕在2007、2008年提出的“中美国（Chimarica）”和“两国集团”（Gruop 2）概念被热炒起来，老成持重的基辛格和布热津斯基也加入合唱。基辛格提出了中美“共同演进”（co-evolution）的理念，主张双方根据自身逻辑执行各自的政策，推动两国关系从危机管理转向共同目标的定义、从战略矛盾的解决转向战略矛盾的避免，进而构筑“太平洋共同体”（Pacific Community）。可以说，奥巴马竞选团队早早制订了对华政策目标：向中国展示欢迎其崛起的姿态，推动中国遵守国际法律和规范，重塑亚太安全环境，以确保中国不崛起为破坏性的力量。奥巴马上台伊始就采取了积极的对华政策，美国政府高官“扎堆”访华，希拉里高调表示要与中国“同舟共济”，白宫班底的华裔高官竟然高达5位（分别是商务部长骆家辉、能源部长朱棣文、白宫内阁秘书卢沛宁、国家安全部法律总顾问方富宇、白宫公共联络室主任陈远美)。中美关系完美开局。
+
+# 3.2鹰派智库与“亚太再平衡”战略的制定
+
+冷战后，美国智库在对华政策倾向上形成“接触”（Containment）、“遏制”（Engagement）和“接触加遏制”（Congagement）三大派的划分。前小布什政府在 2006 年《美国国家安全战略报告》中确认了副国务卿佐利克关于“利益攸关方”（Responsible Stakeholder）的提法，“接触加遏制”的对冲战略成为美国战略界的共识，即接受“中国崛起”这一事实，促使中国作为一个“负责任大国”，全面融入美国治下的国际体系。
+
+为了继续维持美国的霸权地位，奥巴马沿袭这一对华路线，希望通过加强中美关系，促使中国承担更多责任，帮助美国走出经济危机的阴影。为落实“中国责任”，奥巴马一上台就安排访华。在访华前夕，新美国安全中心进行舆论造势，推出《中国来了：全球领导关系的战略框架》（China's Arrival: A Strategic Framework for a Global Relationship），全面解读了中国崛起对亚太地区和美国全球利益的影响。[16在10月27日至11月6日的短短11天时间内，美国频频出台贸易保护主义措施，增加奥巴马与中国谈判的筹码。11月15日，奥巴马对中国进行国事访问，宣称：除非美中两国达成一致，否则世界无法顺利解决全球性挑战，美中应共同展现应对挑战的“领导作用”。同时，中方也明确不认同“G2”的提法，对奥巴马给出了三个解释：中国是一个人口众多的发展中国家；中国奉行独立自主的和平外交政策，不与任何国家结盟；世界上的事情不能一两个国家说了算。原本经贸问题是此行的主轴，但奥巴马在打开中国市场、人民币汇率方面收获甚少，因此遭到国内对华强硬派的猛批，被贴上了“叩头之旅”的标签。
+
+首访结束后，奥巴马的观念发生了微妙变化，承认对美中关系期待值过高，低估了中方坚守自身利益的意志和能力。从2009年底开始，奥巴马的对华态度开始转向了越来越浓的对抗性基调，从“重返亚太”（Back to Asia)，到“转身亚太”（Pivot to Asia-Pacific），再到“亚太再平衡”（Rebalance toward the Asia-Pacific)，美国亚太战略的防范目标选定了中国，其对华政策也日益强硬。
+
+“亚太再平衡”的战略方案来自于另一批美国智库的影响。在奥巴马上台之前，美战略界围绕亚太战略展开反思和辩论，对加大亚太战略投入达成了共识。2007年，理查德·阿米蒂奇与约瑟夫·奈等共同提交了建议加强日美同盟的第二份《阿米蒂奇报告》指出，“亚洲是建立一种最有利于促进美国利益、稳定和繁荣的世界秩序的关键所在”[17]，美须对其在东亚面临的挑战保持警惕。2008年6月，新美国安全中心提出要根本性的转变思维，制定更为全面的亚洲战略，从而在“权力东移”的不利局面下推进美国利益[18]。2009 年2月17日，菲律宾通过《领海基线法案》将南沙部分岛屿与黄岩岛划为菲属，南海问题骤然升温，引发美国的关注。美国五大智库迅速作出反应，联合推出一份报告，称亚太对美比以往任何时候都重要，不惜动用一切手段，维护在该地区的领导权[19]。新美国安全中心也在2月24日发布《美国和亚太地区：为奥巴马政府制定的安全战略》（The United States and the Asia-Pacific Region:Security Strategy for the Obama Administration）报告，建议美国应将安全战略的重心向亚太地区转移，巩固和更新亚洲同盟关系、积极参与亚洲多边制度安排，以应对新兴大国融入国际制度的挑战[20]。5月，越南向联合国大陆架界限委员会单独提交了南海“外大陆架划界案”。随即，美国国务卿希拉里·克林顿在7月东盟会议上首次提出“重返亚太”的构想，“美国正在重返东南亚”。9月24日，美国常务副国务卿詹姆斯·斯坦伯格在新美国安全中心发表了“本届政府关于美中关系的设想”的主题演讲，对中国提出“战略再保证（strategic reassurance）”这一基本战略诉求，要求中国对美国及其盟友证明其和平意图。“战略再保证”实际上是“既参与又预防”两面下注政策的新版本，美国一方面有条件地接受中国的崛起，同时使用经济、外交、甚至军事手段与其盟友协防，以备与中国接触策略的失败。[21]”
+
+奥巴马政策精英在低调讨论一年之后，顺应国内对华鹰派的呼声，在2011年底正式推行以“全球收缩、亚太突进、西亚收缩、东亚突进”为特征的“亚太再平衡”战略，应对“不再隐藏自己意志”的中国，“以平衡中国不断增长的实力”。奥巴马自称“太平洋总统”，参与东亚峰会、东盟地区论坛等多边框架，推出意图主导亚太区域经贸的 TPP 机制安排，利用东
+
+海、南海问题拉拢盟国、制衡中国。
+
+在“亚太再平衡”战略实施的过程中，美国智库对其不断评估和修正，供决策层参考。强硬派智库精英认为，“亚太再平衡”战略的投入严重不足，收效甚微，要加大推进，确保美国的亚太军事优势。代表性专家有布鲁金斯学会迈克尔·欧汉龙、企业研究所日本项目主任迈克·奥斯林、霍普金斯大学客座研究员切兰尼[22]。部分智库专家认为，日本解禁“集体自卫权”（Collective Self-defense）能够更加积极地参与和配合美国“亚太再平衡”的战略，应该加强日美安全合作，如约瑟夫·奈的《日本的自卫防务》（Japan’s Self-Defense Defense）[23]、东西方研究中心安德鲁·欧若思的《日本内阁加快修改日本和平宪法》报告[24]。还有智库专家建议将台湾和巴基斯坦也纳入“再平衡”战略体系，重申对该地区盟友的安全承诺好和义务，明确反对改变安全现状的武力手段，如外交关系委员会研究员丹尼尔·马基[25]、2049计划研究所研究员伊恩·伊斯顿[26]。2016年1月19日，战略与国际问题研究中心发布题为《亚太再平衡 2025：能力、存在及伙伴关系》的报告，评估了美国的亚太再平衡总体战略、亚洲利益及风险、能力缺口及不足，并面向2025年，就美国在亚太地区战略和力量态势提出了更为具体的修正方案。
+
+# 3.3 战略与预算评估中心与应对中国的“空海一体战”概念
+
+军事部署是亚太再平衡战略的重要部分。这一部分的政策源头也与美国智库有密切的联系。2009年7月，美国防部长盖茨要求海军部和空军部发展新型联合作战理论，启动了由空海军共同开发的新作战概念。2010年5月18日，战略与预算评估中心在国会山推出了对华作战构想报告—-《空海一体战一一战役构想的起点》（AirSea BattleAPoint-of-DepartureOperational Concept）和《为什么是空海一体战》（Why AirSea Battle?)，明确以中国为主要作战目标，以全新作战抵消中国人民解放军迅速增强的“反介入/区域拒止”（Anti-accessand area-denial，A2/AD）能力，维持西太平洋地区的军事平衡态势，为2028年可能发生的远东战争做好准备。这份姊妹篇报告也成为迄今为止最详尽的关于中美两国爆发军事冲突时美国应当如何应对的计划书[27]。
+
+按照“空海一体战”的战略指导，五角大厦进行了全球态势评估，为美军在亚太部署拟定计划，寻求美国防卫态势的政治永续性、运作弹性、地理分散性。接着，国防部长帕内塔和其继任哈格尔进行了一系列军事再平衡的行动，包括重新加强东北亚地区的部署，与日、韩达成驻军新协定，增加关岛的驻军，加强与新加坡、菲律宾、泰国的接触，与澳洲、新西兰确立新的军事合作，扩大与印度海军合作。行动旨在确保地区军事控制权，立足海空优势，依靠自动化程度高的战略 $\mathrm { C ^ { 4 } I S R }$ 系统，为实现其霸权主义政策和军事战略提供有力的保障。
+
+2012年1月，美国总统和国防部长在《维护美国全球领导地位：21世纪的国防优先权》文件中，阐述了在A2/AD 环境中美军事力量投送问题，把“空海一体战”纳入美军联合作战概念体系，成为作战指导的法令依据。随即，美军四大军种的副部长达成谅解备忘录，确定了“空海一体战”的实施框架。在美国政府和军方的强力推动下，“空海一体战”正式写入《四年防务评估报告》，上升为官方意志，并融入美国国防政策和美军作战条令。
+
+在奥巴马取得连任之后，亚太再平衡的步伐并没有停止。2013年1月，布鲁金斯学会公布了名为《大对策与黑天鹅》（Big Bets and Black Swans）的总统简报书，内容包括调整“重返亚太”的策略，如稳定东海局势、重塑自由贸易规则等11项具体策略。中国问题专家李侃如在简报书中指出，再平衡的策略已产生预期效果，亚洲区域争端呈现激化态势，现在是重新平衡“再平衡”（Return to the AsiaRebalance）策略的时刻，建议“美国政府进一步促使东南亚国家更加团结，同时更加依赖美国。”[28l8月，国防部副部长罗伯特·沃克呼呼要制定第三个“抵消战略”（Offset Strategy)，发挥美国在大数据、隐身技术、制造业、机器人技术和定向等方面的优势，应对中国在西太平洋战区构成的“反介入/区域拒止”挑战。随后，美国国会召集有关专家就第三次“抵消战略”的战略定位、战略目标、实现方式、预期效果召开了多场听证会，战略与预算评估中心、新美国安全中心、战略与国际问题研究中心等智库，密集出台了多份研究报告，进一步阐述、细化其战略要点。
+
+# 4美国战略界对华政策的重新评估
+
+随着中国综合国力持续上升、中美利益分配格局发生变化以及美国对国际事务管控能力下降，奥巴马时期的美国对华焦虑感继续上升，对华不友好的声音不绝于耳。虽经中美智库之间多次深入的“二轨外交”也并未取得消除美方疑虑的效果，美国智库精英开始重新评估对华政策，中美关系未来走向的不确定性进一步增加。
+
+# 4.1对美中关系重新评估与再定位
+
+在上世纪90年代，美国前国家安全顾问何汉里提出“亦敌亦友”（Frenemy）的概念，获得两国学界的认可。美国前国务卿罗伯特·佐立克在 2005年提出的“利益攸关方”，也得到中美双方的认可。如今，美国战略界普遍认为对华政策处于新的“十字路口”，沈大伟断定当前中美关系与过去 40 年相比发生了根本性变化，已经进入“竞争式共存”（CompetitiveCoexistence）主导的新常态[29]。甚至美国首席“知华派”学者兰普顿也对两国关系走向“深表忧虑”，发出中美关系接近“临界点”（Tipping Point）的警示性描述，其观点代表了近年在美国媒体、智库不断上升的对中美关系的悲观看法[30]。这些负面情绪的形成是有一个积累酝酿的过程。2012年8月28日，哈佛大学贝尔弗尔科学与国际事务研究中心主任格雷厄姆·艾里森为英国《金融时报》撰稿，标题为《修昔底德陷阱已凸显于太平洋》（Thucydides’straphas been sprung in the Pacific)，文中借古喻今，“任何一个新兴大国的迅速崛起都会打破现状，目前美中同当年雅典与斯巴达、英国与德国在一战中面临的情形相类似，务必就潜在的对抗和爆发点展开坦诚磋商，痛苦地做出实质性调整。”[31]
+
+随后，约瑟夫·奈[32]、布热津斯基[33]、罗伯特·佐利克[34]等纷纷撰文引用了艾里森的说法，一时间“修昔底德陷阱”（Thucydides's trap）成为美国战略界争论的焦点。外交关系委员会亚洲研究中心主任易明[35]、哈佛大学教授罗伯特·卡普兰、布鲁金斯学会国际秩序与战略项目主任托马斯·怀特和企业研究所安全研究中心主任托马斯·多恩利的观点相同，即“中国在成为世界性大国的过程中，不可避免与邻国发生军事冲突，挑战和取代美国的领导地位，改变整个现有的世界政治格局。[36]”芝加哥大学政治学教授约翰·米尔斯海默坚持其多年的观点，尽管中国现阶段缺乏成为地区霸权的军事实力，但终究会控制亚洲的政治与安全，未来中美在亚洲的竞争可能将处于战争一触即发的背景之下[37]。从现实主义的“宿命论”来看，“修昔底德陷阱”具有必然性，大国崛起必然导致其同霸权国或守成大国的冲突、对抗，最终走向战争，这就是“大国政治的悲剧”对中国和平崛起持否定的逻辑所在。[38]从意识形态看，接触派认为通过对华进行民主化改造和融入美国治下的国际体系和国际秩序的战略导向，反而帮助中国在经济和军事领域的双崛起，但国内政治制度并未发生实质性改变，甚至还越来越挑战现行的国际体系，如设立东海防空识别区、南海建礁、倡议“一带一路”、创建亚投行等，美国对华接触的战略已经失败。
+
+作为美国国防部长办公室政策研究室和哈德逊研究所（HudsonInstitute）高级顾问，保守派战略专家白邦瑞在2015年2月3日推介其著作《百年马拉松：中国取代美国成为全球超级大国的秘密战略》（The Hundred-Year Marathon）。他把中美竞赛比作马拉松，来否定所有支持中美关系发展的观点：中国公开的历史资料及政治舆论一直妖魔化美国；中国的无为而治文化让美国无法了解其真正意图；毛泽东在1955 年亲自启动战略欺骗计划，蒙骗了美国在技术和资源上的支持；中国政治鹰派的观点正引领着对外战略思维，“建立新型大国关系”是一个口号；到 2049年超越美国成为全球超级大国，从美国手中夺取全球政治经济主导权;中美对抗不可避免。[39作为中美建交的见证者以及五角大楼倚重的中国问题顾问，他的观点立场在美国战略界颇具影响力。
+
+2015年4月，外交关系委员会发表题为《修正美国对华大战略》（RevisingU.S.GrandStrategy TowardChina）的报告。报告认为，“越来越多的证据表明，中美间长期的战略分歧不可能得到根本改变，奥巴马总统和他的资深幕僚对中国的战略目标判断过于温和。美国应当大幅调整对华战略，将制衡中国崛起置于大战略中心，替代原先融中国于国际体系…为亚洲同盟关系注入新活力，协同发起进攻性或防御性的地缘经济和政治军事行动。”[40]
+
+2016 年3月21日，布鲁金斯学会发布《美国对华政策框架》（AFramework forU.S.Policytoward China）报告。“中国既对美国构成独特挑战，同时又是现行国际体系的积极参与者，这导致美国对华政策处在两难境地。”面对如此局面，报告给出自相矛盾的政策选项。[41]报告建议，未来美国对华政策应该避免“非黑即白”，需要寻求“中间道路”，更多通过个案式合作“凝聚合作共识”。这就是美国版的“两手对两手”，既有合作的意图，又不放弃对抗，而
+
+引导、规范和主动塑造是该报告的主体思路。
+
+# 4.2中美智库“二轨外交”的对话交流与争锋对垒
+
+从1998年开始，中美智库之间建立了“二轨外交”机制。2006年，“二轨外交”高层对话由美国前国务卿基辛格发起。如今，“二轨外交”已经向纵深化发展，在中美战略与经济对话、智库峰会、人文交流、学术探讨等100多个对话机制中都有两国智库学者的身影出现，智库外交已经成为两国战略界沟通的主要渠道和发展中美关系的重要推手。面对中美关系的困境，中美智库间的对话与交流愈益频繁和深入。
+
+2012年，布鲁金斯学会李侃如与北京大学国际战略研究中心王缉思合作撰写了题为《中美战略互疑》（Addressing U.S.-China Strategic Distrust）的报告[42]，指出尽管中美关系大幅改善，但由于缺乏互信，中美关系将是长期的零和博弈[43]。他们找到造成战略互疑的主要原因：第一，中美不同的政治传统、价值体系与文化。第二，对彼此的决策过程以及各国政府和智库、国会之间关系了解不够。第三，对实力动态差距的认识分歧。他们希望中美两国领导人、决策参与者、智库学者专家能研拟化解两国战略互疑之道。
+
+2014年2月，美国进步中心发布尼娜·哈奇基安所著《激辩中国：美中关系十谈》（DebatingChina: The U.S.-China Relationship in Ten Conversations）一书[44]，以中美关系间最有存在感的10个问题由两国各10位学者用书信体深入讨论，交换各自立场想法，为构建“中美新型大国关系”提供路线图和智力支持。与此同时，北京大学与全美亚洲研究所（NBR）建立了中美学者合作团队，历时1年半完成《战略领域的中美关系》（US-China Relations in StrategicDomains）报告[45]。该报告涵盖中美关系中的核、太空、网络、海洋、两军关系和人文交流等6大战略领域，代表了中美学界、政策界主流对上述层面问题最全面和最前沿的思考。课题组还对美国国安会、国务院、国防部、国会美中工作小组、参议院军事委员会、美国太平洋司令部等部门进行了简报会和吹风会，受到美国战略界的极大关注。
+
+2016年7月5日，正值“南海仲裁案”引发国际舆论热议，近50名中美精英学者齐聚华盛顿，在“中美智库南海问题对话会”上进行了一场舌尖上的交锋[46]。美方阵容强大，既有前常务副国务卿内格罗蓬特、前驻华大使芮效俭，又有美国国务院、国防部、国安会等部门前高官以及卡内基国际和平基金会、布鲁金斯学会、战略与国际问题研究中心、史汀生中心等智库权威专家。本次对话深刻体现出，南海问题不只是南海各方的利益之争、法理之争，更重要的还是思想之争、话语权之争。竞争的结果取决于国家的海洋战略意识与国际维权意识，也取决于该国智库研究能力、议程设置能力与国际化运作能力。
+
+目前，一场对华政策大辩论正在美国上演，辩论主要是在美国智库、外交专家和政府官员为主体的美国战略界进行的。辩论集中在以下问题上：自尼克松访华以来美国历届政府实行的与中国接触的政策是否失败了？怎样评估中美关系的前景？冲突是否不可避免？下一任美国总统是否应该大幅度调整甚至改变对华政策？越来越多的美国政界、学界、军界、媒体和商界都不同程度地卷入其中，无论是参与辩论者的广泛性，还是辩论议题的深度，均属前所未有。2017年恰逢美国新当选总统特朗普上台，辩论的结果将对未来美国对华外交战略和政策的制定、中美关系的走向带来直接而深远的重大影响。
+
+参考文献：   
+[1] Jonathan Allen,Amie Parnes. HRC: State Secrets and the Rebirth of Hillary Clinton[M]. New York: Broadway Books, 2015: 217.   
+[2] Bob Woodward. Obama's Wars[M]. New York: Simon & Schuster, 2010.   
+[3]刁大明．决策核心圈与奥巴马外交[J]．现代国际关系，2015(5):27.   
+[4] Lawrence J. Korb , Max Bergmann. Restoring American Military Power: Toward a New Progressive Defense Strategy for America[EB/OL]. [2016-10-24].   
+http://www.americanprogress.org/issues/2007/12/restoring_military.html.   
+[5] Andrew Grotto, Joe Cirincione. Orienting the 2OO9 Nuclear Posture Review [EB/OL].   
+[2016-10-20]. http://www.americanprogress.org/issues/2008/11/pdf/nuclear_posture.pdf.   
+[6] Assessing American Foreign Policy Toward China[EB/OL]. [2016-12-22].   
+https://www.americanprogress.org/issues/security/report/2015/09/29/122283/assessing-american-for eign-policy-toward-china/.   
+[7] Patrick M. Cronin. Dr. Patrick Cronin before the U.S.-China Economic and Security Review Commission[EB/OL]. [2016-09-24].   
+http://www.cnas.org/testimony/patrick-cronin-uscc-china-southeast-asia.   
+[8] Richard Fontaine,Mira Rapp-Hooper. How China Sees World Order, Can Beijing be a   
+responsible stakeholder? [EB/OL]. [2016-10-25].   
+http://nationalinterest.org/feature/how-china-sees-world-order-15846.   
+[9] Richard Fontaine.Forging a Consensus on China’ s Bullying[EB/OL]. [2016-09-24].   
+http://www.wsj.com/articles/forging-a-consensus-on-chinas-bullying-1468427646.   
+[10]方可成，吕正韬．吹战略风，影响为“王”:智库如何影响美国安全战略[EB/OL]. [2016-10-30]. http://www.infzm.com/content/83872.   
+[11] Bruce Jones, Carlos Pascual, Stephen John Stedman. Power and Responsibility: Building International Order in an Era of Transnational Threats[EB/OL]. [2O16-10-05].   
+http://isac.fsi.stanford.edu/publications/power_and_responsibility_building_international_order_in _an_era_of_transnational_threats.   
+[12] Bruce Jones, Carlos Pascual and Stephen John Stedman. Power and Responsibility: Building International Order in an Era of Transnational Threats[M]. Washington D.C: Brookings Institution
+
+Press,2009.   
+[13](美]薛理泰．盛世危言：远观中国大战略[M]．北京：东方出版社，2014:235.   
+[14](美]薛理泰．南中国海酝酿一场军事危机[EB/OL].[2016-10-6].   
+http://www.zaobao.com/forum/expert/xie-li-tai/story20150813-514097.   
+[15]卞庆祖．奥巴马第二任期对华政策走向与中美关系[EB/OL]．中国人民对外友好协会网 站，[2016-10-24]. htp://www.cpaffc.org.cn/content/details25-23675.html.   
+[16] Abraham M. Denmark, Nirav Patel. China's Arrival: A Strategic Framework for a Global Relationship[EB/OL]. [2016-10-06].   
+http://www.cnas.org/publications/reports/china-s-arrival-a-strategic-framework-for-a-global-relation ship.   
+[17] Richard Armitage, Joseph Nye. The U.S.-Japan Alliance: Getting Asia Right through   
+2020[EB/OL]. [2016-10-04]. htp://www.csis.org/media/csis/pubs/070216_asia2020.pdf.   
+[18] Kurt Campbell, Nirav Patel, Vikram J. Singh. The Power of Balance: America in Asia [M]. Washington : Center for a New American Security， 2008.   
+[19] Ralph Cossa, Brad Glosserman, Micheal McDevittet al. The United States and the Asia-Pacific Region: Security Strategy for the Obama Administration [M]. Washington: National Defense University, 2009.   
+[20] Lindsey Ford, Nirav Patel. The United States and the Asia-Pacific Region: Security Strategy for the Obama Administration[EB/OL]. [2016-9-6].   
+http://www.cnas.org/publications/reports/the-united-states-and-the-asia-pacific-region-security-strat egy-for-the-obama-administration.   
+[21] James Steinberg,Michael E. O' Hanlon. Strategic Reassurance and Resolve: U.S.-China Relations in the Twenty-First Century [M]. Engelska: Princeton University Press, 2015.   
+[22]陈瑜．世界著名智库的军事战略研究[M]．北京：九州出版社，2016:49.   
+[23] Joseph S.Nye. Japan' s Self-Defense Defense[EB/OL]. [2016-9-6].   
+https://www.project-syndicate.org/commentary/debating-japanese-defense.   
+[24] Andrew L. Oros. Japan' s Cabinet seeks changes to its peace constitution $\because$ issues new interpretation of Article Nine[EB/OL]. [2016-9-16].   
+http://www.eastwestcenter.org/system/tdf/private/apb270_0.pdf.   
+[25] Daniel S. Markey. Reorienting U.S.Pakistan Strategy: From Af-Pak to Asia[EB/OL].   
+[2016-9-26]. htp://www.cfr.org/pakistan/reorienting-us-pakistan-strategy.   
+[26] Ian Easton. Taiwan Defense Strategy in an Age of Precise Strike[EB/OL]. [2O16-9-13]. http://www.project2049.net/documents/Easton_Able_Archers_Taiwan_Defense_Strategy.pdf.
+
+[27] Jan van Tol, Mark Gunzinger, Andrew Krepinevich, et al. AirSea Battle: A Point-of-Departure Operational Concept[EB/OL]. [2016-10-13].
+
+http://www.csbaonline.org/4Publications/PubLibrary/R.20100518.Air_Sea_Batte__A_/R.2010051 8.Air_Sea_Battle__A_.pdf.   
+[28] T Piccone. Big Bets, Black Swans: Foreign Policy Challenges for President Obama' s Second Term[EB/OL]. [2016-9-30].   
+http://www.brookings.edu/\~/media/research/files/papers/2013/1/big-bets-black-swans/rebeting-on-t urkey.   
+[29] Center for Northeast Asian Policy Studies and John L. Thornton China Center. Conceptualizing Future United States-China Relations[EB/OL].[2016-10-13].   
+http://www.brookings.edu/\~/media/events/2012/9/25-us-china-relations/20120925_us_china.pdf. [30] David M. Lampton. A Tipping Point in U.S.-China Relations is Upon Us [EB/OL].   
+[2016-10-13].   
+http://www.uscnpm.org/blog/2015/05/11/a-tipping-point-in-u-s-china-relations-is-upon-us-part-i/. [31]Graham Allison. Thucydides's trap has been sprung in the pacific.[EB/OL]. [2016-10-23]. http://www.ftchinese.com/story/001046228/ce.   
+[32] Joseph S. Nye Jr. Allin the Family:The Dulleses, the Bundys,and the End of the   
+Establishment[EB/OL]. [2016-10-13]. http://www.cfr.org/united-states/all-family/p33108.   
+[33] Brzezinski, Zbigniew. Can China Avoid the Thucydides Trap?[J]. New Perspectives Quarterly, 2014, 31(2): 31-33.   
+[34] Robert B. Zoellick. U.S., China and Thucydides: How can Washington and Beijing avoid typical patterns of distrust and fear?[J]. The National Interests, 2O13: July-August.   
+[35] Elizabeth C. Economy. China's Secret Strategy to Supplant America as the Sole   
+Superpower[EB/OL]. [2016-10-20].   
+http://ationalinterest.org/blog/the-buzz/chinas-secret-strategy-supplant-america-the-soul-superpow er-12786.   
+[36] Thomas Donnelly. Intere,Fear and Honor[EB/OL]. [2016-10-20].   
+http://www.hoover.org/research/interest-fear-and-honor.   
+[37] John Mearsheimer. Can China Rise Peacefully?[EB/OL]. [2016-10-23].   
+http://nationalinterest.org/commentary/can-china-rise-peacefully-10204.   
+[38] John J.Mearsheimer. Can China Rise Peacefully?[EB/OL]. [2016-10-23].   
+http://nationalinterest.org/commentary/can-china-rise-peacefully-10204.   
+[39] Michael Pilsbury. The Hundred-Year Marathon:China' s Secret Strategy to Replace America as the Global Superpower [M]. New York:Henry Holt and Company, 2015.   
+[40] Robert D. Blackwill, Ashley J. Tellis. Revising U.S. Grand Strategy Toward China[EB/OL]. [2016-10-23]. http://i.cfr.org/content/publications/attachments/China_CSR72.pdf.   
+[41] Jeffrey A. Bader, Kenneth Lieberthal, Cheng Li, et al. A Framework for U.S. Policy toward China[EB/OL]. [2016-10-23].   
+https://www.brookings.edu/wp-content/uploads/2016/07/us-china-policy-framework-bader-1.pdf. [42] Kenneth Lieberthal, Wang Jisi. Addressing U.S.-China Strategic Distrust[EB/OL].   
+[2016-10-23]. http://www.zhongdaonet.com/ckfinder/userfiles/files/monograph-web.pdf.   
+[43] Robert A. Manning. With China Challenging the U.S.-Led Regional Framework in Asia, Americans are being Forced to Reconsider Long-Standing Assumptions[EB/OL]. [2016-10-23]. http://nationalinterest.org/feature/americas-china-consensus-implodes.   
+[44] Nina Hachigian. Debating China: The U.S.-China Relationship in Ten Conversations[M]. Nev York: Oxford University Press, 2014.   
+[45] U.S.-China Relations in Strategic Domains[EB/OL]. [2016-10-23].   
+http://www.nbr.org/publications/issue.aspx ?id ${ } _ { = 3 3 3 }$ ：   
+[46] Dai Bingguo, John D. Negroponte. U.S.-China Dialogue on the South China Sea[EB/OL]. [2016-10-23].   
+http://carnegieendowment.org/2016/07/04/u.s.-china-dialogue-on-south-china-sea-event-5329.

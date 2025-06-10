@@ -1,0 +1,151 @@
+# 基于质体基因组学方法研究广义玄参科的系统发育
+
+王雪芹¹，宋卫武2\*，马飞龙，高文静¹，赵妍¹（1．周口师范学院 生命科学与农学学院，河南周口 466001；2.周口师范学院 化学化工学院，河南周口，466001；3.周口师范学院植物遗传与分子育种重点实验室，
+
+河南周口，466001）
+
+摘要：本研究利用GenBank数据库已公开发表的玄参科及相关类群的107属129个物种的质体基因组数据对广义玄参科的系统发育关系进行了分析。利用蛋白质编码基因，我们构建了矩阵，并采用最大似然法及贝叶斯推断重建系统发育树。基于两种分析方法，我们获得了拓扑结构完全一致的系统发育树，系统发育树的分辨率及支持率高。在ML树中，总分支数为129个，其中支持率 $2 7 0 \%$ 的分支数目为123个。系统发育树结果表明，（1）广义玄参科不是一个单系类群，隶属于广义玄参科的51个物种（37属）分散于列当科、泡桐科、美丽桐科、通泉草科、母草科、狭义玄参科和车前科。（2）狭义玄参科为单系类群，除原隶属于广义玄参科的 Bontia、Calamphoreus、Diocirea、Eremophila、Glycocystis、Leucophyllum、玄参属和毛蕊花属外，还包括了原隶属于马钱科的醉鱼草属和原隶属于苦槛蓝科的苦槛蓝属。（3）唇形目为一个单系，目下共形成了14个支持率高的单系分支，对应于14个科（其中美丽桐科和胡麻科仅包括一个物种，不包括在内)，科间关系得到较好的解决，木犀科为最早分化出来的类群，其余的类群共同组成核心唇形目，在核心唇形目中，类群分化的次序依次为苦苣苔科、车前科、玄参科和母草科，其余的科聚成两个大的分支，其中一个大分支包括5个科，紫葳科、马鞭草科和胡麻科形成中等支持率的一个亚支，其中紫葳科、马鞭草科为姐妹群；爵床科和狸藻科亦形成中等支持率的一个亚支；另一个大分支包括了6个科，类群分化的次序依次为唇形科、通泉草科、美丽桐科 $\cdot +$ 透骨草科，泡桐科和列当科为姐妹群，为较进化的类群。我们的研究结果表明，传统意义上的玄参科不是一个自然类群，其包括的种属分散于唇形目；质体基因组适用于解决广义玄参科的系统发育关系，有待于扩大样本进一步研究。
+
+关键词：广义玄参科，系统发育基因组，质体，唇形目
+
+# Phylogeny of Scrophulariaceae sensu lato based on Plastid
+
+# genome
+
+WANG Xueqin1, SONG Weiwu²\*, MA Feilong³, GAO Wenjing1, ZHAO Yanl (1. College of Life Science and Agronomy, Zhoukou Normal University, Zhoukou 466oo1, Henan,
+
+China; 2. School of Chemistry & Chemical Engineering, Zhoukou Normal University, Zhoukou
+
+466001, Henan, China 3.Key Laboratory ofPlant Genetics and Molecular Breeding, Zhoukou
+
+Normal University,Zhoukou 466001,Henan, China)
+
+Abstract: Phylogenetic relationships of Scrophulariaceae s. l. （sensu lato） and the closely related groups were explored with 129 plastid genomes representing 107 genera. Plastome sequences were downloaded from the GenBank. Based on coding sequences (CDS), phylogenetic trees were reconstructed using maximum likelihood （ML)and Bayesian inference （BI） approaches. The ML and BI analyses shared the same topology and the main clades were consistently recovered with high support. Of the 129 total nodes,123 were supported by ML bootstrap value $2 7 0 \%$ . The resulting phylogenies were as follows: (1)Scrophulariaceae s. l. was confirmed as polyphyletic. Fifty-one species with representatives of 37 genera from the Scrophulariaceae s.l. were assigned to seven families. These were Orobanchaceae, Paulowniaceae, Wightiaceae, Mazaceae, Linderniaceae, Scrophulariaceae s.s. （ sensu stricto），and Plantaginaceae.（2） Scrophulariaceae s.s. was a monophyletic group. In addition to the recognition of eight genera （ including Bontia 、 Calamphoreus 、 Diocirea 、 Eremophila、Glycocystis、Leucophyllum、 Scrophularia and Verbascum） comprised primarily of former members of Scrophulariaceae s.l., Buddleja which was originally placed in Loganiaceae, and Myoporum, traditionally placed in the Myoporaceae had been demonstrated to belong to this clade.（3） The Lamiales was monophyletic. Fourteen well-supported monophyletic clades were obtained corresponding to each family (Wightiaceae and Pedaliaceae for which only one species had been contained were not included). The relationships among the families were well resolved. Oleaceae formed a well-supported clade that was distinct from core Lamiales. Within the core Lamiales, four clades (Gesneriaceae, Plantaginaceae, Scrophulariaceae, and Linderniaceae) diverged before the remaining families grouping in two sister clades. Within one clade, two moderately to highly supported subclades were recovered. Lentibulariaceae was resolved as sister group to Acanthaceae, and Pedaliaceae was sister to Verbenaceae $+$ Bignoniaceae. The other clade contained six families,with Lamiaceae, Mazaceae， Wightiaceae $^ +$ Phrymaceae, and Paulowniaceae successively sister to Orobanchaceae. The results of our analyses indicate that the traditional Scrophulariaceae are an unnatural assemblage of plants distributed throughout the phylogenentic tree of Lamiales. Phylogenomics analyses based on plastid organelle have shown good potential for phylogenetic inference in Scrophulariaceae, more taxonomic sampling are needed to enhance our understanding of phylogenetic relationships of Scrophulariaceae in future studies.
+
+Key words: Scrophulariaceae sensu lato, phylogenomic, plastomes,Lamiales
+
+玄参科（Scrophulariaceae）隶属于唇形目（Lamiales），全球分布。玄参科为多而杂的一个大类群，缺乏特征性性状将其与其它相关类群进行区分，基于形态的经典分类时期，分类学家们将诸多类群归于玄参科，致使玄参科一度成为唇形目中物种数目最丰富的科。而鉴定性性状的缺失也暗示了玄参科可能不是一个单系。最早的采用分子系统学研究玄参科的系统发育可以追溯至上个世纪末，Olmstead&Reeves（1995）基于两个叶绿体片段，对玄参科是否为单系进行了研究，结果表明玄参科不是一个单系类群。Olmstead 等（2001）基于三个叶绿体基因的分析结果表明，广义玄参科（Scrophulariaceae s.l.（sensu lato））至少包括了五个单系类群，即狭义玄参科（Scrophulariaceae s.s.（sensu stricto））、Veronicaceae、列当科（Orobanchaceae）、Calceolariaceae 和 Stilbaceae。更多相关研究的进行，使得广义玄参科被拆分，原本隶属于玄参科的物种并入了其它科或形成了许多小科，如Calceolariaceae、Linderniaceae、通泉草科（Mazaceae）、列当科、泡桐科（Paulowniaceae）、Schlegeliaceae、狭义玄参科和美丽桐科( Wightiaceae）等(Oxelman et al., 2005; Rahmanzadeh et al., 2005; Tank et al., 2006;Liu et al., 2020）。
+
+狭义玄参科可以划分为8个族，即Aptosimeae、Buddlejeae、Hemimerideae、Leucophylleae、Limoselleae、Myoporeae、 Scrophularieae 和 Teedieae，其中除Scrophularieae 主要分布于北温带外，主要分布于南半球（Oxelman etal.,2005;Tank et al., 2006)。
+
+据中国植物志英文版（Flora ofChina)，玄参科包括约220 属 4500 余种，我国有61属681种。中国植物志所采用的玄参科的范畴，即为上文所述广义玄参科。前人关于广义玄参科的研究多采用少数叶绿体片段，所获得的系统发育关系，部分支系的支持率不够高，如车前科（Plantaginaceae）、玄参科和紫葳科（Bignoniaceae)的单系仅得到中等支持率支持；紫葳科、马鞭草科（Verbenaceae）、爵床科（Acanthaceae）和狸藻科（Lentibulariaceae）等的关系并没有得到很好的解决（Liuetal.，2020）等，因此有待进一步的研究。该文基于质体基因组数据，以广义玄参科及相关类群为主要研究对象，利用质体基因组数据中的蛋白质编码基因，重建其系统发育树，对原隶属于广义玄参科相关物种的归属问题进行研究，并对唇形目内部科间关系进行探讨。
+
+# 1材料与方法
+
+# 1.1研究数据
+
+从GenBank数据库下载已发表的玄参科及相关类群107属129个物种的质体（包括叶绿体基因组）序列及蛋白质编码基因（coding sequence，CDS）（表1)。物种挑选的原则为，隶属于广义玄参科的物种均包括在内；除此之外，参考已发表相关文献下载了同隶属于唇形目相关科的部分物种，包括木犀科（Oleaceae）、苦苣苔科（Gesneriaceae）、狸藻科、爵床科、胡麻科（Pedaliaceae）、马鞭草科、紫葳科、唇形科（Lamiaceae）、透骨草科（Phrymaceae）和列当科等，其中木犀科不属于核心唇形目（coreLamiales)，而苦苣苔科据文献记载与广义玄参科关系较远，因而这两个科虽然已发表的物种序列较多，而本研究中下载的物种数较少，其余的科，下载的种属均较多，母草科、狸藻科等包括物种较少的原因为目前可获得已经公开发表的种属数目较少。
+
+选择夹竹桃科（Apocynaceae）的长春花（Catharanthus roseus，KC561139.1）、龙胆科（Gentianaceae）的蓝玉簪龙胆（Gentianaveitchiorum，MG192310.1）及茜草科（Rubiaceae）的团花（Neolamarckia cadamba，MG572117.1）共3个物种，作为外类群。用Excel统计内类群所有物种的基因组信息，包括基因组大小及蛋白质编码基因数目。
+
+# 1.2 构建矩阵
+
+基于蛋白质编码基因，我们构建了用于后续系统发育分析的矩阵。每个物种的蛋白质编码基因按基因名称的字母进行排序，连接，采用在线软件MAFFTversion 7（https://mafft.cbrc.jp/alignment/server/）（Katoh et al.,2019） 进行比对,参数设置为默认值。比对结果采用MEGA7.0软件（Kumar etal.,2016）进行部分人工校正，并对矩阵的长度、变异位点的数目等信息进行统计。
+
+# 1.3系统发育分析
+
+基于所获得的矩阵，分别采用最大似然法（maximumlikelihood,ML）及贝叶斯推断（BI）进行系统发育分析。采用CIPRES Science Gateway（Miller et al.,2010）在线工具RaxMLver.8.2.12（Stamatakis,2014）进行RaxML分析，选择GTRGAMMA模型，采用快速靴代值（rapidbootstrap）分析，重复1000 次（Bootstrap,BS）。采用 CIPRES Science Gateway（Miller et al.,2010）在线工具MrBayesv3.2.7a（Ronquist＆Huelsenbeck,2003）进行贝叶斯推断分析，选择GTR+GAMMA 模型。BI分析的参数设置如下：采用 MCMC（Markov chain montecarlo）算法，运行1000000代，每1000代取样一次，开始的 $2 5 \%$ 样本作为老化样本（Burm-in samples）舍弃，以剩余样本构建主要规则一致树，并计算各分支的后验概率（posterior probability,PP）。
+
+# 2结果与分析
+
+# 2.1 基因组大小
+
+我们共下载了132个物种的基因组序列（包括外类群)，其中127个为质体全基因组序列，5个为部分基因组序列，包括Neobartsia inaequalis、裸花紫珠(Callicarpa nudiflora ）、 Calamphoreus inflatus 、Glycocystis beckeri 和柳穿鱼（Linariavulgaris）（表1）。这5个部分基因组序列中，柳穿鱼的基因组序列较短，CDS数目仅为13，其余4个物种的基因组序列较完整，CDS数目在82\~87之间（表1）。质体全基因组数据中，列当科的ConopholisamericanaCDS数目最少为21个，紫葳科的 Anemopaegma acutifolium具有最多的CDS，其数目为98。
+
+全基因组序列中，除列当科和狸藻科之外，所有物种的基因组序列大小均在$1 4 4 { \sim } 1 6 8 \ \mathrm { k b }$ 范围内。其中列当科的物种基因组大小变化幅度大，在 $4 5 { \sim } 1 6 0 \mathrm { k b }$ 之间，这与列当科植物的生活习性相关，其所包括的自养类群基因组较大，而寄生类群，由于其与光合作用相关的基因丢失（Cusimano&Wicke,2016)，使得其基因组较小，相应的CDS数目也较少。而狸藻科由于其食虫习性，ndh 基因丢失（Wicke etal.,2013)，基因组相对于自养类群而言较小，在 $1 4 0 { \sim } 1 5 0 \ \mathrm { k b }$ 之间，
+
+CDS数目在72\~88之间。
+
+表1本研究中包括的物种，GenBanK编号及质体基因组数据 Table 1 Samples included in study, with summary of GenBank accession number and plastome statistics   
+
+<html><body><table><tr><td colspan="3">GenBank 编号</td><td>蛋白质编码基</td></tr><tr><td>物种名称</td><td>GenBank</td><td>序列长度 Length</td><td>因数目 Number of</td></tr><tr><td></td><td>Accession</td><td>（bp）</td><td>protein-coding</td></tr><tr><td>Species name</td><td>Number</td><td></td><td>genes</td></tr><tr><td>列当科 Orobanchaceae</td><td></td><td></td><td></td></tr><tr><td>野菰 Aeginetia indica</td><td>MN529629.1</td><td>86 212</td><td>38</td></tr><tr><td>Aphyllon epigalium subsp. notocalifornicum</td><td>MH050786.1</td><td>103 932</td><td>36</td></tr><tr><td>A. fasciculatum</td><td>MH580292.1</td><td>104 153</td><td>34</td></tr><tr><td>Brandisia swinglei ★</td><td>MK381315.1</td><td>155 344</td><td>87</td></tr><tr><td>Boulardia latisquama</td><td>HG514460.1</td><td>80 361</td><td>47</td></tr><tr><td>Castilleja paramensis ★</td><td>KT959111.1</td><td>152 926</td><td>84</td></tr><tr><td>大花胡麻草 Centranthera grandiflora ★</td><td>MW262988.1</td><td>147 655</td><td>83</td></tr><tr><td>肉炊蓉 Cistanche deserticola</td><td>KC128846.1</td><td>102 657</td><td>31</td></tr><tr><td>C. phelypaea</td><td>HG515538.1</td><td>94 380</td><td>50</td></tr><tr><td>Conopholis americana</td><td>HG514459.1</td><td>45 673</td><td>21</td></tr><tr><td>Epifagus virginiana</td><td>M81884.1</td><td>70 028</td><td>25</td></tr><tr><td>短腺小米草 Euphrasia regelii★</td><td>MK070895.1</td><td>153 026</td><td>76</td></tr><tr><td>Lathraea squamaria</td><td>KM652488.1</td><td>150 504</td><td>50</td></tr><tr><td>Lindenbergia philippensis★</td><td>HG530133.1</td><td>155103</td><td>85</td></tr><tr><td>Melampyrum koreanum ★</td><td>MW463054.1</td><td>143 865</td><td>72</td></tr><tr><td>山罗花 M.roseum★</td><td>MN075942.1</td><td>143 896</td><td>78</td></tr><tr><td>Neobartsia inaequalis</td><td>KF922718</td><td>151 349</td><td>82</td></tr><tr><td>Orobanche austrohispanica</td><td>KT387721.1</td><td>81 994</td><td>29</td></tr><tr><td>O. crenata</td><td>HG515537.1</td><td>87 529</td><td>36</td></tr><tr><td>Pedicularis hallaisanensis ★</td><td>MG770330.1</td><td>143 469</td><td>70</td></tr><tr><td>P. ishidoyana ★</td><td>KU170194.1</td><td>152 571</td><td>77</td></tr><tr><td>Phelipanche purpurea</td><td>HG515536.1</td><td>62 891</td><td>30</td></tr><tr><td>P.ramosa</td><td>HG803180.1</td><td>62 304</td><td>27</td></tr><tr><td>Phelypaea coccinea</td><td>MK922354.1</td><td>66 616</td><td>26</td></tr><tr><td>松蒿 Phtheirospermum japonicum★</td><td>MN075943.1</td><td>153 397</td><td>86</td></tr><tr><td>高地黄 Rehmannia elata★</td><td>KX636161.1</td><td>153 772</td><td>87</td></tr><tr><td>地黄R. glutinosa★</td><td>KX636157.1</td><td>153 622</td><td>87</td></tr><tr><td>Schwalbea americana</td><td>HG738866.1</td><td>160 910</td><td>82</td></tr><tr><td>阴行草 Siphonostegia chinensis★</td><td>MK113828.1</td><td>148 961</td><td>85</td></tr><tr><td>Triaenophora shennongjiaensis ★</td><td>MH071405.1</td><td>155 319</td><td>87</td></tr><tr><td>Triphysaria versicolor</td><td>MN075944.1</td><td>152 583</td><td>86</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">泡桐科 Paulowniaceae</td><td></td></tr><tr><td>Paulownia coreana ★</td><td>KP718622.1</td><td>154 545</td><td>87</td></tr><tr><td>毛泡桐P.tomentosa★</td><td>KP718624.1</td><td>154 540</td><td>87</td></tr><tr><td>透骨草科 Phrymaceae</td><td></td><td></td><td></td></tr><tr><td>Erythranthe lutea</td><td>KU705476.1</td><td>153 150</td><td>84</td></tr><tr><td>Phryma leptostachya subsp.asiatica 美丽桐科 Wightiaceae</td><td>MK381317.1</td><td>153 167</td><td>84</td></tr><tr><td>美丽桐 Wightia speciosissima ★ 通泉草科 Mazaceae</td><td>MK381318.1</td><td>153 621</td><td>87</td></tr><tr><td>野胡麻 Dodartia orientalis ★</td><td>MW238404</td><td>154 252</td><td>86</td></tr><tr><td>Lancea hirsuta ★</td><td>MG551489.1</td><td>154 045</td><td>83</td></tr><tr><td>L. tibetica ★</td><td>MF593117.1</td><td>153 665</td><td>85</td></tr><tr><td>通泉草 Mazus pumilus ★</td><td></td><td></td><td>84</td></tr><tr><td>唇形科 Lamiaceae</td><td>MG642817.1</td><td>153 149</td><td></td></tr><tr><td>Ajuga reptans</td><td>KF709391.1</td><td>149 963</td><td>84</td></tr><tr><td>裸花紫珠 Callicarpa nudiflora</td><td></td><td></td><td>87</td></tr><tr><td>蒙古获 Caryopteris mongholica</td><td>MK783316.1</td><td>154 080</td><td>86</td></tr><tr><td>Dracocephalum palmatum</td><td>MF346535.1</td><td>151 707</td><td>87</td></tr><tr><td>Galeopsis tetrahit</td><td>KU958581.1</td><td>150 510</td><td></td></tr><tr><td>Haplostachys haplostachya</td><td>KY562586.1</td><td>151 690</td><td>88</td></tr><tr><td>短柄野芝麻 Lamium album</td><td>KU724133.1</td><td>150 130</td><td>88</td></tr><tr><td>薰衣草 Lavandula angustifolia</td><td>KY562589.1</td><td>150 505</td><td>89</td></tr><tr><td>益母草 Leonurus japonicus</td><td>KT948988.1</td><td>153 448</td><td>88</td></tr><tr><td>欧薄荷 Mentha longifolia</td><td>MG673937.1</td><td>151 610</td><td>87</td></tr><tr><td></td><td>KU956042.1</td><td>152 041</td><td>87</td></tr><tr><td>留兰香 M.spicata</td><td>MG256495.1</td><td>152 132</td><td>87</td></tr><tr><td>罗勒Ocimum basilicum</td><td>KY623639.1</td><td>152 407</td><td>84</td></tr><tr><td>牛至 Origanum vulgare subsp. vulgare</td><td>JX880022.1</td><td>151 935</td><td>86</td></tr><tr><td>Perilla citriodora</td><td>KT220690.1</td><td>152 602</td><td>88</td></tr><tr><td>Phyllostegia velutina</td><td>KU724134.1</td><td>150 131</td><td>88</td></tr><tr><td>水虎尾 Pogostemon stellatus</td><td>KP718620.1</td><td>151 824</td><td>87</td></tr><tr><td>豆腐柴Premna microphylla</td><td>KM981744.1</td><td>155 293</td><td>87</td></tr><tr><td>夏枯草 Prunella vulgaris</td><td>MG589640.1</td><td>151 342</td><td>87</td></tr><tr><td>迷迭香Rosmarinus officinalis</td><td>NC_027259.1</td><td>152 462</td><td>86</td></tr><tr><td>鼠尾草 Salvia japonica</td><td>KY646163.1</td><td>153 995</td><td>87</td></tr><tr><td>丹参 S.miltiorrhiza</td><td>HF586694.1</td><td>151 332</td><td>88</td></tr><tr><td>黄芩Scutellaria baicalensis</td><td>MF521632.1</td><td>151 824</td><td>87</td></tr><tr><td>Stachys byzantina</td><td>KU724141.1</td><td>149 749</td><td>88</td></tr><tr><td>Stenogyne bifida</td><td>KU724132.1</td><td>150 129</td><td>88</td></tr><tr><td>柚木 Tectona grandis</td><td>HF567869.1</td><td>153 953</td><td>88</td></tr><tr><td>Teucrium mascatense</td><td>MH325132.1</td><td>150 499</td><td>88</td></tr><tr><td>紫葳科Bignoniaceae</td><td></td><td></td><td></td></tr><tr><td>Adenocalymma pedunculatum</td><td>MG008313.1</td><td>158 103</td><td>85</td></tr><tr><td>Amphilophium carolinae</td><td>MK163625.1</td><td>163 515</td><td>97</td></tr><tr><td>Anemopaegma acutifolium</td><td>MF460826.1</td><td>168 987</td><td>98</td></tr></table></body></html>
+
+<html><body><table><tr><td>Dolichandra cynanchoides</td><td>MG831874.1</td><td>158 110</td><td>85</td></tr><tr><td>Neojobertia candolleana</td><td>MG008316.1</td><td>158 409</td><td>85</td></tr><tr><td>Pleonotoma albiflora</td><td>MG831876.1</td><td>159 488</td><td>86</td></tr><tr><td> Tanaecium tetragonolobum</td><td>KR534325.1</td><td>153 776</td><td>79</td></tr><tr><td>硬骨凌霄 Tecomaria capensis</td><td>MG831880.1</td><td>153 263</td><td>84</td></tr><tr><td>马鞭草科 Verbenaceae</td><td></td><td></td><td></td></tr><tr><td>Aloysia citrodora</td><td>KY085903.1</td><td>154 699</td><td>87</td></tr><tr><td>假连翘Duranta erecta</td><td>MW525381.1</td><td>149 869</td><td>83</td></tr><tr><td>Glandularia tenera</td><td>MW538952.1</td><td>153 383</td><td>86</td></tr><tr><td>Lippia origanoides</td><td>MK248831.1</td><td>154 310</td><td>85</td></tr><tr><td>马鞭草Verbena officinalis 胡麻科 Pedaliaceae</td><td>MW328640.1</td><td>153 491</td><td>83</td></tr><tr><td>芝麻 Sesamum indicum</td><td></td><td>153 324</td><td>87</td></tr><tr><td>爵床科 Acanthaceae</td><td>JN637766.2</td><td></td><td></td></tr><tr><td>穿心莲 Andrographis paniculata</td><td>KF150644.2</td><td>150 249</td><td>87</td></tr><tr><td>Aphelandra knappiae</td><td>MH909777.1</td><td>152 457</td><td>86</td></tr><tr><td>鳄嘴花 Clinacanthus nutans</td><td>MH778102.1</td><td>151 669</td><td>83</td></tr><tr><td>黄花恋岩花 Echinacanthus lofouensis</td><td>MF490441.1</td><td>151 336</td><td>85</td></tr><tr><td>板蓝 Strobilanthes cusia</td><td>MG874806.1</td><td>144 133</td><td>84</td></tr><tr><td>狸藻科 Lentibulariaceae</td><td></td><td></td><td></td></tr><tr><td>Genlisea aurea</td><td>MF593121.1</td><td>140 010</td><td>80</td></tr><tr><td>Pinguicula ehlersiae</td><td></td><td>147 147</td><td>72</td></tr><tr><td>Utricularia foliosa</td><td>HG803178.1</td><td>150 851</td><td>88</td></tr><tr><td>母草科 Linderniaceae</td><td>KY025562.1</td><td></td><td></td></tr><tr><td>毛叶蝴蝶草 Torenia benthamiana ★</td><td></td><td>153 526</td><td></td></tr><tr><td>单色蝴蝶草 Torenia concolor★</td><td>MK789686.1</td><td></td><td>87</td></tr><tr><td>玄参科 Scrophulariaceae</td><td>MK789685.1</td><td>153 853</td><td>87</td></tr><tr><td>Bontia daphnoides★</td><td>MN044637.1</td><td>153 946</td><td>88</td></tr><tr><td>互叶醉鱼草 Buddleja alternifolia</td><td>MN623351.1</td><td>154 280</td><td>87</td></tr><tr><td>大花醉鱼草B.colvilei</td><td>MH411147.1</td><td>154 225</td><td>88</td></tr><tr><td>Calamphoreus inflatus★</td><td>MN044643.1</td><td>151 631</td><td>86</td></tr><tr><td>Diocirea violacea ★</td><td>MN044644.1</td><td>151 900</td><td>86</td></tr><tr><td>Eremophila gibbifolia ★</td><td>MN044640.1</td><td>148 717</td><td>86</td></tr><tr><td>E.oppositifolia★</td><td>MN044645.1</td><td>151 715</td><td>86</td></tr><tr><td>Glycocystis beckeri ★</td><td>MN044639.1</td><td>151 763</td><td>86</td></tr><tr><td>Leucophyllum frutescens★</td><td>MN044638.1</td><td>154 253</td><td>88</td></tr><tr><td>苦槛蓝 Myoporum bontioides</td><td>MN044642.1</td><td>151 742</td><td>86</td></tr><tr><td>M. laetum</td><td>MN044641.1</td><td>151 725</td><td>86</td></tr><tr><td>Scrophularia buergeriana ★</td><td>KP718626.1</td><td>153 631</td><td>87</td></tr><tr><td>齿叶玄参 S.dentata★</td><td>MF861202.1</td><td>152 600</td><td>87</td></tr><tr><td>琴叶毛蕊花 Verbascum chinense★</td><td>MT610040.1</td><td>153 618</td><td>87</td></tr><tr><td>紫毛蕊花V.phoeniceum★</td><td>MN893301.1</td><td>153 348</td><td>87</td></tr><tr><td>车前科 Plantaginaceae</td><td></td><td></td><td></td></tr><tr><td>Antirrhinum majus ★</td><td>MW877560.1</td><td>152 606</td><td>85</td></tr></table></body></html>
+
+<html><body><table><tr><td>Aragoa abietina★</td><td>MW877561.1</td><td>150 320</td><td>85</td></tr><tr><td>A. cleefii ★</td><td>MW877562.1</td><td>150 285</td><td>85</td></tr><tr><td>假马齿苋Bacopamonnieri★</td><td>MN736955.1</td><td>152 495</td><td>87</td></tr><tr><td>水马齿 Callitriche palustris</td><td>MW774642.1</td><td>150 138</td><td>88</td></tr><tr><td>Digitalislanata★</td><td>KY085895.1</td><td>153 108</td><td>85</td></tr><tr><td>鞭打绣球 Hemiphragma heterophyllum★</td><td>MN383191.1</td><td>152 700</td><td>86</td></tr><tr><td>杉叶藻Hippuris vulgaris</td><td>MW044609.1</td><td>152 763</td><td>88</td></tr><tr><td>短筒兔耳草 Lagotis brevituba★</td><td>MW182582.1</td><td>152 967</td><td>85</td></tr><tr><td>云南兔耳草L.yunnanensis★</td><td>MN752238.1</td><td>152 789</td><td>86</td></tr><tr><td>柳穿鱼Linaria vulgaris★</td><td>MT984536.1</td><td>28 450</td><td>13</td></tr><tr><td>Littorella uniflora★</td><td>MW877563.1</td><td>130 833</td><td>74</td></tr><tr><td>胡黄莲Neopicrorhiza scrophulariiflora★</td><td>MK986819.1</td><td>152 642</td><td>81</td></tr><tr><td>沿海车前 Plantago maritima★</td><td>KR297244.1</td><td>158 358</td><td>90</td></tr><tr><td>北车前P.media★</td><td>KR297245.1</td><td>164 130</td><td>94</td></tr><tr><td>Veronica nakaiana ★</td><td>KT633216.1</td><td>152 319</td><td>88</td></tr><tr><td>阿拉伯婆婆纳V.persica★</td><td>KT724052.1</td><td>150 198</td><td>86</td></tr><tr><td>爬岩红 Veronicastrum axillare★</td><td>MW244757.1</td><td>152 691</td><td>85</td></tr><tr><td>草本威灵仙Ve.sibiricum★</td><td>KT724053.1</td><td>152 930</td><td>86</td></tr><tr><td>苦苣苔科 Gesneriaceae</td><td></td><td></td><td></td></tr><tr><td>Boea hygrometrica</td><td>JN107811.1</td><td>153 493</td><td>85</td></tr><tr><td>Chirita eburnea</td><td>MF177038.1</td><td>152 963</td><td>88</td></tr><tr><td>木犀科 Oleaceae</td><td></td><td></td><td></td></tr><tr><td>Abeliophyllumdistichum</td><td>KT274029.1</td><td>155 982</td><td>87</td></tr><tr><td>Chionanthus parkinsonii</td><td>MG255752.1</td><td>155 436</td><td>88</td></tr><tr><td>Forsythia suspensa</td><td>MF579702.1</td><td>156 404</td><td>86</td></tr></table></body></html>
+
+注：★物种隶属于广义玄参科。 Note: $\bigstar$ indicate the species was originally placed in Scrophulariaceae s.l.
+
+# 2.2矩阵信息
+
+本研究包括的132个物种中，CDS数目 $\leqslant 5 0$ 的物种数目为14个，其中13个物种为列当科物种，其余118个（ $89 . 3 9 \%$ ）物种的CDS数目均 $\geqslant 7 0$ 。构建矩阵需考虑的方面有两点，一是信息位点的数目，二是缺失数据的比例。采用共享CDS 来构建系统发育树，可以减少矩阵中缺失数据的比例，但可能导致数据量太少，可利用的信息位点数目少。前人的研究结果表明，数据量大的矩阵，相比较数据量小而缺失数据比例低的矩阵而言，虽然其包括了较高比例( $80 \%$ 或 $90 \%$ ）的缺失数据，但由于总的信息位点数目的增加，构建系统发育树时，能够较好的解决物种间的系统发育关系，包括提高系统发育树的支持率（Roure etal.,2013;Tripp etal.,2017)。因此本研究构建矩阵，利用的是物种的全部CDS，这种方法在缺点在于比对之后的矩阵中某些物种中存在数据缺失，优点在于增加了序列的长度。基于CDS 所构建的矩阵，长度为183488bp，其中变异位点数目为55152号 $( 3 0 . 0 6 \% )$ ，信息位点数目为32932（ $1 7 . 9 5 \%$ )，缺失数据比例为 $6 0 . 8 3 \%$ 。
+
+# 2.3广义玄参科的系统发育分析
+
+基于ML及BI分析，我们较好地解决了玄参科及相关类群的系统发育关系，得到了拓扑结构稳定，且支持率高的系统发育树。支持率方面，在ML树中，总分支数目为129个，支持率（bootstrap support，BS） $\geqslant 9 5$ 的分支数目为112$8 6 . 8 2 \%$ ，支持率 $\geqslant 7 0$ 的分支数目为123（ $9 5 . 3 5 \%$ )，支持率 $\leqslant 5 0$ 的分支数目仅为3（ $2 . 3 3 \%$ ，全部位于列当科内部。
+
+拓扑结构方面，广义玄参科不是一个单系类群（图1)，隶属于广义玄参科的51个物种（37属）分散于列当科、泡桐科（Paulowniaceae）、美丽桐科、通泉草科、母草科（Lindermiaceae）、狭义玄参科和车前科，其中8属保留在狭义玄参科，29属从广义玄参科移出。来江藤属（Brandisia）、火焰草属（Castilleja）、胡麻草属（Centranthera）、小米草属（Euphrasia）、钟萼草属（Lindenbergia）、山罗花属（Melampyrum）、马先蒿属（Pedicularis）、松蒿属（Phtheirospermum）、地黄属（Rehmannia）、阴行草属（Siphonostegia）和呆白菜属（Triaenophora）共11属从原广义玄参科移至列当科。泡桐属（Paulownia）从广义玄参科移出，独立为泡桐科。美丽桐属（Wightia）从广义玄参科移出，独立为美丽桐科。野胡麻属（Dodartia）、肉果草属（Lancea）和通泉草属（Mazus）从广义玄参科移出，形成通泉草科。蝴蝶草属（Torenia）从广义玄参科移出，并入母草科。Antirrhinum、Aragoa、假马齿苋属（Bacopa）、毛地黄属（Digitalis）、鞭打绣球属（Hemiphragma）、兔耳草属（Lagotis）、柳穿鱼属（Linaria）、Littorella、胡黄连属（Neopicrorhiza）、车前属（Plantago）、婆婆纳属（Veronica）、腹水草属（Veronicastrum）共12属从广义玄参科移出至车前科。
+
+狭义玄参科为单系类群（ $\mathrm { B S } { = } 1 0 0$ ， $\mathrm { P P = } 1 . 0 0$ ）（图1)，包括10属15个物种，除原隶属于广义玄参科的 Bontia、Calamphoreus、Diocirea、Eremophila、Glycocystis、Leucophyllum、玄参属（Scrophularia）和毛蕊花属（Verbascum）外，还包括了醉鱼草属（Buddleja）和苦槛蓝属（Myoporum）。其中醉鱼草属原隶属于马钱科（Loganiaceae），苦槛蓝属原隶属于苦槛蓝科（Myoporaceae）。
+
+本研究中包括的物种涉及了狭义玄参科的4族，Buddlejeae包括醉鱼草属两个物种，Scrophularieae 包括玄参属两个物种和毛蕊花属两个物种，Leucophylleae包括Leucophyllum一个物种，Myoporeae 包括了剩余的6属。Leucophylleae 除外（仅包括一个物种)，其余3族均为单系（ ${ \mathrm { B S } } { = } 1 0 0$ ， $\mathrm { P P = } 1 . 0 0 \$ ），其中 Buddlejeae和Scrophularieae 互为姐妹群，Leucophylleae 和Myoporeae 关系较近，为姐妹群。
+
+# 2.4唇形目内部科间系统发育关系分析
+
+唇形目为一个单系（ ${ \mathrm { B S } } { = } 1 0 0$ ， $\mathrm { P P = } 1 . 0 0 \$ ，目下共形成了14个支持率高的单系分支，对应于14个科（其中美丽桐科和胡麻科仅包括一个物种，不包括在内）（图1)。这16个科中，最先分化出来的类群为木犀科，其余的科构成核心唇形目；核心唇形目为单系（ $\mathrm { B S } { = } 1 0 0$ ， $\mathrm { P P = } 1 . 0 0 \$ )，类群分化次序为苦苣苔科、车前科、狭义玄参科、母草科；其余的科形成两个支持率高的大分支（ ${ \mathrm { B S } } { = } 1 0 0$ ，$\mathrm { P P = } 1 . 0 0 \$ )，其中一个大分支包括5个科，紫葳科、马鞭草科和胡麻科形成中等支持率的一个分支（ ${ \mathrm { B S } } { = } 8 8$ ， $\mathrm { P P } { = } 1 . 0 0 \rangle$ ，其中紫葳科、马鞭草科关系较近，为姐妹群；爵床科 $+$ 狸藻科亦形成中等支持率的一个分支（ ${ \mathrm { B S } } { = } 7 4$ ， $\scriptstyle \mathrm { P P = 0 . 9 9 }$ )；另一个大分支包括了6科（列当科、泡桐科、透骨草科、美丽桐科、通泉草科和唇形科)，这一支中，最早分化出来的类群是唇形科，其次是通泉草科，继之是透骨草科 $^ +$ 美丽桐科，列当科 $^ { + }$ 泡桐科形成的姐妹群为最晚分化的类群。
+
+# 3讨论与结论
+
+# 3.1广义玄参科的多系起源及其裂解
+
+本研究基于质体基因组数据，重建玄参科及其相关类群的系统发育关系，获得高支持率的系统发育树，结果表明广义玄参科为多系起源，其所属物种分散于列当科、泡桐科、美丽桐科、通泉草科、母草科、狭义玄参科和车前科，与前人基于叶绿体片段及核基因数据的结果基本一致（Olmstead et al.,2001; Oxelman etal., 2005; Rahmanzadeh et al., 2005; Tank et al., 2006; Liu et al., 2020）。
+
+传统分类中，列当科为寄生草本类群。本研究中，隶属于广义玄参科的11属分散于列当科中。其中地黄属和呆白菜属为姐妹群，共同组成了列当科的基部类群，与Albach等（2009)基于叶绿体片段及ITS序列的结果一致。Olmstead等（2001）基于3个叶绿体片段的研究结果表明钟萼草属、火焰草属、山罗花属和马先蒿属应从广义玄参科移出至列当科。Bennett&Mathews（2006）基于核基因PHYA的研究结果表明松蒿属、阴行草属、小米草属应隶属于列当科。McNeal等（2013）基于两个叶绿体片段及两个核基因的结果确定了胡麻草属在列当科内部的系统位置。
+
+关于泡桐属的研究，Olmstead等（2001）年的研究结果表明，泡桐属不属于玄参科也与紫葳科没有关系，支持其形成一个独立的支系。
+
+关于美丽桐属的研究，Liu等（2020）基于六个叶绿体基因，确定了美丽桐属在唇形目的位置，并建议成立美丽桐科。
+
+肉果草属和通泉草属主要分布于亚洲的东部和东南部，在Beardsley&Olmstead（2002）的研究中，建议将这两个属从玄参科移出，并入透骨草科，成为其中一个族（Mazoideae)；之后，Albach 等（2009）基于四个叶绿体片段及ITS 序列的结果表明，肉果草属和通泉草属应从透骨草科移出；继之，Deng 等（2019）基于叶绿体及核基因数据结果支持通泉草科作为单系类群存在，其下包括肉果草属、通泉草属和野胡麻属三属。
+
+Olmstead等（2001）的研究结果中，建议将Antirrhinum、毛地黄属等类群从广义玄参科移出，形成Veronicaceae；基于此研究结果，Albach等（2005）进一步的研究建议将Veronicaceae 修改成车前科（Plantaginaceae），而广义玄参科的Antirrhinum、Aragoa、假马齿苋属、毛地黄属、鞭打绣球属、柳穿鱼属、Littorella、车前属、婆婆纳属、和腹水草属应隶属于车前科。兔耳草属和胡黄连属一直以来都被认为是车前科的成员，但在上述研究的采样中，均未包括在内，Zhang 等（2019）和Cheng等（2020）基于叶绿体基因组数据，支持这两个属隶属于车前科。
+
+狭义玄参科内部的系统发育关系，与前人的研究结果基本一致（Oxelman etal.，2005；Tank et al.，2006），即 Buddlejeae 和 Scrophularieae 关系 较近，Leucophylleae 和Myoporeae 关系较近，支持率有所提高（ $\mathrm { \ B S = } 1 0 0$ ， $\mathrm { P P = } 1 . 0 0$ )，鉴于本研究所取狭义玄参科种属较少，仅包括8族中的4族，物种数也较少，在此不作详细论述。
+
+# 3.2唇形目内部科间的系统发育关系
+
+本研究中，广义玄参科的物种，分散于列当科、泡桐科、美丽桐科、通泉草科、母草科、狭义玄参科和车前科等七科，其中车前科为唇形目中较为基部的类群，而列当科为进化的类群，因而一定程度上，关于广义玄参科的系统发育研究，与唇形目的系统发育研究是息息相关的。本研究中涉及唇形目16科，各科之间的关系与前人的研究结果基本一致，Liu 等（2020）基于六个叶绿体片段对唇形目美丽桐科的系统位置进行了研究并重建了整个唇形目的系统发育树，狭义玄参科为单系类群，获中等支持率（ ${ \mathrm { B S = } } 7 8$ ， $\mathrm { P P = } 0 . 9 4 \AA ,$ ，属于核心唇形目，其与车前科及Stilbaceae、Byblidaceae+母草科等类群关系较近。本研究基于质体基因组数据获得的系统发育树的拓扑结构与Liu等（2020）的研究结果基本一致，但在支持率上有明显的提高，平均支持率为96.06，支持率 $: \geq 9 5$ 的分支占 $8 6 . 8 2 \%$ ， $\geq 7 0$ 的分支占 $9 5 . 3 5 \%$ ，支持率低于50的分支均在唇形科内部。科间关系得到较好的解决，仅有的三处支持率低于95的分支，分别是紫葳科与马鞭草科 $^ { + }$ 胡麻科形成的分支（ ${ \mathrm { B S } } { = } 8 8$ ， $\mathrm { P P = } 1 . 0 0 \$ ，爵床科和狸藻科形成的分支（ ${ \mathrm { B S } } { = } 7 4$ ， $\mathrm { P P = } 1 . 0 0 \$ ，和通泉草科所在这一分支（ ${ \mathrm { B S } } { = } 8 2$ ， $\scriptstyle \mathrm { P P = 0 . 9 9 }$ )，其系统发育关系有待进一步研究。
+
+![](images/9258661c58324be307917bf66d2de74f9e312c9a850faafa6ca0f513cce29e69.jpg)
+
+数字代表分支的靴代值BS（第1个数值）/后验概率PP（第2个数值)；靴代值为100且后验概率为1.00的不显示； $\bigstar$ 物种隶属于广义玄参科
+
+Node are labeled with maximum likelihood bootstrap support（BS）（the first value） and Bayesian posterior probability（PP）（the second value） ；Nodes with $100 \%$ bootstrap support in the maximum likelihood analysis and 1.OO posterior probability in the Bayesian analysis are unlabeled;
+
+indicate the species was originally placed in Scrophulariaceae s.l.
+
+图1基于蛋白质编码基因构建的玄参科及其近缘类群的系统发育树
+
+Fig.1 Phylogenetic tree of Scrophulariaceae and the closely related groups based on the protein-coding genes
+
+参考文献：   
+ALBACH DC，MEUDT HM, OXELMAN B，2005.Piecing together the “new” Plantaginaceae [J]. Amer JBot, 92 （2） : 297-315.   
+ALBACH DC，YAN K，JENSEN SR，et al.，2009.Phylogenetic placement of Triaenophora （formerly Scrophulariaceae ）with some implications for the phylogeny ofLamiales [J]. Taxon, 58 （3） :749-756.   
+BEARDSLEY PM, OLMSTEAD RG, 2002. Redefining Phrymaceae: the placement of Mimulus, tribe Mimuleae,and Phryma [J]. Amer JBot, 89 （7） :1093-1102.   
+BENNETT JR，MATHEWS S，2006. Phylogeny of the parasitic plant family Orobanchaceae inferred from phytochrome A [J]. Amer J Bot，93（7）: 1039-1051.   
+CHENG JP, ZHANG YM, QIAN ZG, et al.， 2020, Complete chloroplast genome sequences of Lagotis yunnanensis （Scrophulariaceae） : an Endangered species endemic to the Hengduan Mountains region [J]. Mitochondrial DNA Part B, 5 (1) : 897-898.   
+CUSIMANO N, WICKE S. 2016. Massive intracellular gene transfer during plastid genome reduction in nongreen Orobanchaceae [J]. New Phytologist, 210 （2） : 680-693.   
+DENG T, LIN N, HUANG X, et al., 2019. Phylogenetics of Mazaceae （Lamiales）, with special reference to intrageneric relationships within Mazus [J]. TAXON, 68 (5） :1037-1047.   
+KATOH K, ROZEWICKI J, YAMADA KD, 2019. MAFFT online service: multiple sequence alignment, interactive sequence choice and visualization [J]. Brief Bioinform,20 （4） :1160-1166.   
+KUMAR S, STECHER G, TAMURA K, 2016. MEGA7: Molecular evolutionary genetics analysis version 7.O for bigger datasets [J]. Mol Biol Evol，33 (7） :1870-1874.   
+LIU B, TAN YH, LIU S, et al., 2020. Phylogenetic relationships of Cyrtandromoea and Wightia revisited: A new tribe in Phrymaceae and a new family in Lamiales [J]. J Syst Evol, 58（1） : 1-17.   
+MCNEAL JR, BENNETT JR,WOLFE A D, et al., 2013. Phylogeny and origins of holoparasitism in Orobanchaceae [J].Amer JBot, 100 （5） : 971-983.   
+MILLER MA,PFEIFFER WT, SCHWARTZ T, 2010. Creating the CIPRES science gateway for inference of large phylogenetic trees [C]. 2010 Gateway Computing Environments Workshop （GCE 2010）.New Orleans: 1-8.   
+OLMSTEAD RG, DEPAMPHILIS CW, WOLFE AD, et al., 2001. Disintegration of the Scrophulariaceae [J]. Amer JBot, 88 （2） : 348-361   
+OLMSTEAD RG，REEVES PA，1995.Evidence for the polyphyly of the Scrophulariaceae based on chloroplast rbcL and ndhF sequences [J]. Ann Miss Bot Gard,82 （2） :176-193.   
+OXELMAN B, KORNHALL P, OLMSTEAD RG, et al., 2005. Further disintegration of Scrophulariaceae [J]. Taxon, 54（2） : 411-425.   
+RAHMANZADEHR,MULLER K, FISCHER E, et al., 2005. The Linderniaceae and Gratiolaceae are further lineages distinct from the Scrophulariaceae （Lamiales ） [J]. Plant Biol, 7 (1） : 67-78.   
+RONQUIST F，HUELSENBECK JP, 2003. MrBayes 3: Bayesian phylogenetic inference under mixed models [J]. Bioinformatics,19 (12） : 1572-1574.   
+ROURE B, BAURAIN D, PHILIPPE H, 2013. Impact of missing data on phylogenies inferred from empirical phylogenomic data sets [J]. Mol Biol Evol. 30 (1） :197-214.   
+STAMATAKIS A, 2014. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies [J]. Bioinformatics, 30 （9） : 1312-1313.   
+TANK DC，BEARDSLEY PM，KELCHNER SA，et al.，2006.Review of the systematics of Scrophulariaceae s.l. and their current disposition [J]. Austral Syst
+
+Bot, 19 （4） : 289-307.
+
+TRIPP EA, TSAI YH, ZHUANG YB, et al., 2017. RADseq dataset with $90 \%$ missing data fully resolves recent radiation of Petalidium（ Acanthaceae ） in the ultra-arid deserts of Namibia [J]. Ecol Evol, 7（19） :7920-7936.
+
+WICKE S, SCHAFERHOFF B， DEPAMPHILIS CW, et al.， 2013.Disproportional plastome-wide increase of substitution rates and relaxed purifying selection in genes of carnivorous Lentibulariaceae [J]. Mol Biol Evol, 31 （3） :529-545.
+
+ZHANG YM, QIAN ZG, ZHANG AL, et al., 2019. The complete plastid genomesequence of Neopicrorhiza scrophulariflora （Plantaginaceae） : an endangeredspecies endemic to The Himalayas regions [J]. Mitochondrial DNA B,4（2） :2504-2505.

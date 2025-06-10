@@ -1,0 +1,497 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于ROEWA算子的改进CV模型用于乳腺超声图像分割",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘磊温铁祥　秦文健李凌辜嘉（中国科学院深圳先进技术研究院深圳 518055)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于区域的几何活动轮廓（Chan-Vese，CV）模型是乳腺超声图像常用的一种分割算法。但传统的CV模型不能满足乳腺超声图像分割精度高、速度快的要求。因此，文章提出了一种基于指数加权平均比率（Ratio of ExponentialWeighted Average，ROEWA）算子改进的CV模型，用于乳腺超声图像中病灶区域的分割。首先，计算乳腺超声图像的ROEWA 算子。其次，基于图像的ROEWA 算子构建边缘指示函数，用于代替CV模型中的Dirac 项。最后，去除平滑项，从而提高曲线演化的速度。实验结果表明，文章提出的算法不仅能提高分割的精度，而且能显著提高分割的速度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乳腺肿瘤；超声图像；分割；活动轮廓模型；指数加权平均比率算子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TG156文献标志码A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Segmentation of Breast Ultrasound Image with an Improved CV model Based on ROEWA Operator ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Lei WEN Tiexiang QIN Wenjian LI Ling GU Jia (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences,Shenzhen 518055, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The Chan-Vese(CV) model has ben widelyinvestigated forbreast ultrasound (BUS)image segmentation.However, thetraditional CVmodelcannotmettherequirementofhighprecisionandspeedforBUSsegmentation.Toaddressthisissuean improvedCVmodelbasedontheratioofexponentiallyweightedaverages (ROEWA)operator was proposed inthispaper.Firstly,te ROEWA of theBUS image was calculated.Then,a ROEWA-based edge indicator functionwas builtoreplace the Dirac termof traditional CVodel.Finall,thesmothingtrmwasremovedtoimprovetespedofcurveevolution.Experimentalresultsshow that the advantages of the proposed model in terms of computational efficiency and accuracy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:breast lesion; ultrasound images; segmentation; active contour model, ROEWA operator ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乳腺肿瘤是当今社会中一种常见的女性多发疾病，其发病率及死亡率均高于其他女性恶性肿瘤，位居首位，严重威胁着我国女性的健康[1]。研究表明，乳腺癌在早期发现时，及早诊断和治疗能够有效地提高乳腺癌的治愈率，大大降低死亡率[2]。因此，如何及早地发现乳腺中的病变区域，实现乳腺癌的早发现、早治疗，从而提高乳腺癌的治愈率，已成为当今医学界中一个非常重要的课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超声影像技术凭借其适应面广、价格低廉、无辐射、快捷及无创等特点，逐渐成为乳腺肿瘤早期筛查的重要工具[3]。然而，受成像设备和成像机理的影响，超声图像中往往存在大量的斑点噪声，使得图像的信噪比和对比度较低、边缘变得模糊，给超声图像的判读带来困难。此外，超声图像的判读和诊断主要取决于医生个人的临床经验和主观判断，带有很大的主观性。不同的医生对于同一幅图像可能会做出不同的诊断结果，同一图像在不同时期也可能会得出不同的结论。因此，为避免主观因素的影响，提高诊断结果的准确性和客观性，越来越多的研究将计算机辅助诊断系统（Computer-AidedDiagnosis，CAD）用到乳腺肿瘤的临床诊断之中。肿瘤区域分割是乳腺肿瘤CAD系统的重要组成部分，是进行特征提取和肿瘤良、恶性判别的重要依据，也是目前研究的热点和难点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活动轮廓模型（ActiveContour Model，ACM）是超声图像分割最常用的一种分割方法。根据曲线表达方式的不同，可以分为两类：基于参数的活动轮廓模型和基于几何的活动轮廓模型[4]。其中，基于参数的活动轮廓模型（又称为“Snake模型”）是由Kass等[5]于20世纪80年代末提出，该模型自提出以来就受到了研究学者们的广泛关注。Snake模型使用参数化的形式表示曲线或曲面的形变，把“目标边界提取问题”转化为“能量泛函的优化问题”。这虽然可以提供闭合光滑的边缘轮廓线，但无法自适应地控制曲线拓扑结构的变化，不能准确地分割出目标轮廓中的凹陷区域。基于几何的活动轮廓模型是建立在曲线演化理论和水平集方法的基础之上，其原理是先将平面闭合曲线隐含地表达为三维曲面函数的水平集，再通过曲面的变化来隐含的求解演化的曲线。与基于参数的活动轮廓模型相比，基于几何的活动轮廓模型具有自动处理轮廓线拓扑变化的优势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "比较经典的几何活动轮廓模型主要有：1988年，Osher和 Sethiand提出的基于变分水平集方法的几何活动轮廓模型（又称为“水平集模型”），水平集模型采用曲线的隐式方程代替显式的表示方式，从而使曲线的演化更加灵活；1995 年，Caseles[7提出的测地活动轮廓模型（Geodesic Active Contour）；2001年，Chan 和Vesel8基于区域型水平集思想和Mumford-Shah 泛函理论提出的基于区域的水平集活动轮廓模型（Chan-Vese,CV）；2002年，Chan 和Vese将所提的分片光滑和分段常值的CV模型做了进一步改进，推广到了多相水平集的情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的CV模型利用图像全局信息推动曲线演化，没有包含图像边缘的任何细节信息。因此，CV模型对初始轮廓的位置和噪声不是很敏感，对边缘模糊或缺失的图像也能取得不错的分割效果。然而，传统CV 中Dirac 函数的定义域比较狭窄，不能有效地检测远离演化曲线的目标边缘，且需要进行重新初始化，计算量较大、演化速度较慢。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对CV模型需要重新初始化、演化效率低，不能满足医学图像分割的要求这一缺点，研究者们提出了不同的改进方法，主要可以分为两类：一类是在分割的过程中增加窗口化处理[10]，另一类是调整演化的偏微分方程[]。其中，在分割的过程中进行窗口化处理，可以使得活动轮廓的演化速度随着窗口的规模进行调整，减少演变所需的迭代次数和计算量。调整演化的偏微分方程部分最常见的做法是：构建边缘指示函数 $g ( R )$ 替换Dirac 函数，以消除Dirac 函数对检测远离活动轮廓线 $C$ 的抑制；去掉影响演化速度的平滑项，以提高演化的速度，提高分割效率。其中，边缘指示函数的构建大多数是基于图像的梯度信息[1,12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与以往改进的CV 模型方式不同，本文提出了一种基于指数加权平均比率（Ratio of ExponentialWeighted Average，ROEWA）算子改进的CV模型。此处基于ROEWA算子而非高斯边缘梯度算子的原因在于，超声图像中固有的斑点噪声和合成孔径雷达（Synthetic Aperture Radar，SAR）图像中的噪声都是乘性噪声，而ROEWA算子较高斯边缘梯度算子更适用于含有乘性噪声的图像。主要的改进之处在于：基于图像的ROEWA算子构建边缘指示函数，用于代替CV模型中的Dirac项，改进了CV模型的偏微分方程，使分割算法更好地适应乳腺超声图像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2传统CV模型及ROEWA算子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1传统CV模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CV 模型，又称为基于区域的活动轮廓模型，是由Chan 和Vese于2001年提出的一种基于图像全局区域信息的能量模型[8]。其核心思想是利用分段常数去逼近图像的各个部分，通过变分法引入水平集建立方程，采用差分方法进行数值计算，最终将边界轮廓的演化问题转化为能量最小化问题。对于给定的待分割图像 $I ( x , y )$ ，Chan 和Vese定义其能量函数为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { E \\big ( c _ { 1 } , c _ { 2 } , C \\big ) = } & { \\big | \\frac { \\Xi \\vec { \\Xi } } { \\Xi \\kappa } e n g t h ( C ) \\quad \\nu \\ A r e a \\big [ i n s i d e ( C ) \\big ] } \\\\ & { \\quad \\quad \\quad \\quad \\quad + \\lambda _ { 1 } \\ O _ { \\scriptscriptstyle { i n s i d e ( C ) } } \\big | I ( x , y ) \\quad c _ { 1 } \\big | ^ { 2 } \\mathrm { d } x \\mathrm { d } y } \\\\ & { \\quad \\quad \\quad \\quad \\quad + \\lambda _ { 2 } \\ O _ { \\scriptscriptstyle { o u t s i d e ( C ) } } \\big | I ( x , y ) \\quad c _ { 2 } \\big | ^ { 2 } \\mathrm { d } x \\mathrm { d } y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mu { \\geq } 0 ~ , ~ \\nu { \\geq } 0 ~ , ~ \\lambda _ { 1 } { \\geq } 0 ~ , ~ \\lambda _ { 2 } { \\geq } 0$ 是各个能量项的权重系数； $\\scriptstyle { c _ { 1 } }$ 和 $c _ { 2 }$ 分别表示活动轮廓线 $C$ 内部区域和外部区域的平均灰度； $L e n g t h ( C )$ 和Area[inside(C)]分别表示闭合活动轮廓线 $C$ 的长度和内部区域的面积,用于平滑演化曲线。CV 模型就是寻找最优划分 $C$ ，从而使得原图像 $I ( x , y )$ 被活动轮廓线 $C$ 划分为目标和背景两个区域。故CV 模型利用了图像的全局区域信息，通过优化能量公式 $E { \\big ( } c _ { 1 } , c _ { 2 } , C { \\big ) }$ 以求得最终的分割曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在数值求解过程中，采用水平集函数的零水平集表示活动轮廓曲线 $C$ （ $C { \\in } \\Omega$ ， $\\Omega$ 表示整个图像区域），则：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrel { \\mathop { \\mathbb { A } } } ^ { \\sharp } \\mathbin { \\mathbb { B } } ^ { = } \\lbrace \\not { \\in } x , y ) \\Omega \\mid \\phi ( x , y ) 0 \\rbrace } \\\\ & { \\quad i n s i d e { ( C ) } \\textstyle { = } \\lbrace \\not { \\in } x , y ) \\frac { \\sharp \\overline { { \\mathbb { B } } } } { \\sharp \\overline { { \\mathbb { H } } } } | \\phi ( x , y ) 0 \\rbrace } \\\\ & { \\quad o u t s i d e { ( C ) } \\textstyle { = } \\lbrace \\not { \\in } x , y ) \\frac { \\sharp \\overline { { \\mathbb { B } } } } { \\sharp \\overline { { \\mathbb { H } } } } | \\phi ( x , y ) 0 \\rbrace } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "活动轮廓线 $C$ 内、外区域的平均灰度 $c _ { 1 }$ 和 $c _ { 2 }$ 的表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 1 } { = } \\frac { I ( x , y ) H ( \\phi ) { \\mathrm { d } } x { \\mathrm { d } } y } { H ( \\phi ) { \\mathrm { d } } x { \\mathrm { d } } y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { 2 } { = } \\frac { I ( x , y ) [ 1 { - } H ( \\phi ) ] { \\mathrm { d } } x { \\mathrm { d } } y } { [ 1 { - } H ( \\phi ) ] { \\mathrm { d } } x { \\mathrm { d } } y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $H ( \\phi )$ 通常采用Heaviside函数，其表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( \\phi ) { = } \\frac { 1 } { 2 } ~ \\frac { 1 } { \\pi } { \\times } ~ \\arctan ( \\frac { \\phi } { \\varepsilon } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { \\sigma } _ { \\varepsilon }$ 为常数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "故，CV模型的能量公式（1）可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { E ( c _ { 1 } , c _ { 2 } , \\phi ) { = } \\mu _ { \\mathrm { \\scriptsize ~ o } } \\delta \\bigl [ \\phi ( x , y ) \\bigr ] | } & { \\phi ( x , y ) \\bigr | \\mathrm { d } x \\mathrm { d } y } \\\\ { + \\nu _ { \\mathrm { \\scriptsize ~ \\frac { 1 } { 2 } } } H \\bigl [ \\phi ( x , y ) \\bigr ] \\mathrm { d } x \\mathrm { d } y } \\\\ { + \\lambda _ { \\mathrm { \\scriptsize ~ \\frac { 1 } { 2 } } } \\bigl | I ( x , y ) } & { c _ { 1 } \\bigr | ^ { 2 } H \\bigl [ \\phi ( x , y ) \\bigr ] \\mathrm { d } x \\mathrm { d } y } \\\\ { + \\lambda _ { \\mathrm { \\scriptsize ~ \\frac { 1 } { 2 } } } \\bigl | I ( x , y ) } & { c _ { 2 } \\bigr | ^ { 2 } \\bigl \\{ 1 ~ H \\bigl [ \\phi ( x , y ) \\bigr ] \\bigr \\} \\mathrm { d } x \\mathrm { d } y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这样，求解上述能量函数的最小化问题就转变成了求解 $E$ 关于 $c _ { 1 } , \\ c _ { 2 }$ 和 $\\emptyset$ 的极小值问题。若要求得使能量函数 $E$ 取极小值时的 $c _ { 1 }$ 、 $c _ { 2 }$ ，只需分别求出 $E$ 关于 $c _ { 1 }$ 、 $c _ { 2 }$ 的一阶导数，并令其为0，解出 $c _ { 1 }$ 、 $c _ { 2 }$ 的值即可。为了求解使 $E$ 取得极小值时的水平集函数 $\\varnothing ,$ 令 $\\scriptstyle { c _ { 1 } }$ 、 $c _ { 2 }$ 的值不变，利用变分法得到其欧拉－拉格朗日方程，引入时间变量 $t$ 并采用标准的梯度下降法进行迭代求解，最终得到控制水平集函数演化的偏微分方程：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l l l } { { { \\frac { \\pm \\sharp \\sharp \\theta } { \\pm \\sharp \\varepsilon } } = \\delta _ { \\varepsilon } \\left( \\phi \\right) _ { \\sharp \\sharp \\sharp \\sharp } ^ { \\frac { \\prime \\sharp \\sharp } { \\sharp \\partial } } \\ d \\ i \\nu _ { \\sharp \\sharp \\sharp } ^ { \\frac { t \\mp \\sharp } { \\pm \\partial } } \\ } } & { { \\nu } } & { { \\lambda _ { 1 } \\left( u _ { 0 } \\quad c _ { 1 } \\right) ^ { 2 } \\quad \\lambda _ { 2 } \\left( u _ { 0 } \\quad c _ { 2 } \\right) ^ { 2 } } } \\\\ { { \\mathrm { ~ } } } & { { \\frac { \\mathrm { ~ i ~ } } { \\mathrm { ~ i ~ } \\sharp \\sharp } \\left( u _ { 0 } , x , y \\right) = \\phi _ { 0 } \\left( x , y \\right) } } & { { } } & { { \\phi \\left( 0 , x , y \\right) = \\phi _ { 0 } \\left( x , y \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\delta _ { \\varepsilon } ( \\phi )$ 是 $H ( \\phi )$ 的一阶导数，其表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { \\varepsilon } ( \\phi ) = \\frac { \\mathrm { d } } { \\mathrm { d } z } H ( \\phi ) \\quad \\begin{array} { l } { 0 , } \\\\ { \\frac { 1 } { \\pi } \\ \\frac { \\varepsilon } { \\varepsilon ^ { 2 } + z ^ { 2 } } , \\ } \\end{array} \\quad | \\phi | > \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 ROEWA算子",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ROEWA 算子是一种基于线性最小均方误差（Minimum Mean Square Error，MMSE）的指数加权均值比率滤波器，多用于合成孔径雷达（SAR）图像的边缘检测[13.14]，由 Fjortoft 等[15]于1998年提出。基于线性最小均方误差的指数滤波器在估计检测窗口内的局部均值时，计算的是加权后的均值，而不是算术均值，并且这种均值的变化与原图像的标准差成正比，因此ROEWA检测具有恒定虚警率（ConstantFalse AlarmRate，CFAR）特性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在一维情况下，该滤波器的表达形式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x , y ) { = } C e ^ { - \\alpha | x | }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $C$ 为归一化常数； $\\scriptstyle a$ 为滤波系数， $\\alpha$ 的值与噪声抑制成反比，与边缘保持成正比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在离散情况下，滤波器 $f ( x )$ 可以用因果滤波器 $f _ { 1 } ( x )$ 和非因果 $f _ { 2 } ( x )$ 来实现，其离散形式下的表达式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) { = } \\frac { 1 } { 1 { + } b } f _ { 1 } ( x ) \\frac { b } { 1 b } f _ { 2 } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { 1 } ( x ) { = } a \\ b ^ { x } h ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle f _ { 2 } ( x ) = a - b ^ { - x } h ( \\ x )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $0 < b = \\mathcal { C } ^ { - \\alpha }$ 1； $h ( x )$ 是离散单位阶跃函数，通常选用Heaviside函数，当 $x { \\ge } 0$ 时， $h ( x ) = 1$ ，否则为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 $f ( x , y ) { = } f ( x ) f ( y )$ 将上述滤波器从一维空间推广到二维空间。例如，若要计算图像水平方向的边缘强度分量，先使用一维平滑滤波器 $f$ 对图像 $I ( x , y )$ 逐列进行平滑滤波，然后分别用因果滤波器",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$f _ { 1 } ( x )$ 和非因果滤波器 $f _ { 2 } ( x )$ 对平滑滤波的结果逐行进行滤波，得到图像水平方向的无偏估计 $\\hat { \\mu } _ { X _ { 1 } } ( x , y )$ 和 $\\hat { \\mu } _ { X _ { 2 } } ( x , y )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\mu } _ { X _ { 1 } } ( x , y ) { = } f _ { 1 } ( x ) * [ f ( y ) { \\pmb g } ( x , y ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\mu } _ { X _ { 2 } } ( x , y ) { = } f _ { 2 } ( x ) * [ f ( y ) { \\pmb g } ( x , y ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，\\*为水平方向上的卷积；g为垂直方向上的卷积。同理，将滤波顺序颠倒可得垂直方向上的无偏估计 $\\hat { \\mu } _ { Y _ { 1 } } ( x , y )$ 和 $\\hat { \\mu } _ { Y _ { 2 } } ( x , y )$ ：。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\hat { \\mu } _ { Y _ { 1 } } ( x , y ) { = } f _ { 1 } ( y ) { \\oplus } f ( x ) * I ( x , y ) ] } } \\\\ { { \\ } } \\\\ { { \\hat { \\mu } _ { Y _ { 2 } } ( x , y ) { = } f _ { 2 } ( y ) { \\oplus } f ( x ) * I ( x , y ) ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "得到两方向的无偏估计后，根据ROEWA算子定义比值可以求得两方向上的梯度估计。ROEWA算子定义比值为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { m a x } } = \\operatorname* { m a x } \\frac { \\mathbb { J } \\mathbb { E } } { \\mathbb { H } } \\hat { \\mu } _ { 1 } \\mathrm { , ~ } \\mu _ { 2 } \\mathrm { ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后，类比于光学图像的基于梯度的边缘检测算法，可求得2维图像中的总体边缘强度为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ( x , y ) = \\sqrt { R _ { X \\operatorname { m a x } } ^ { 2 } ( x , y ) R _ { Y \\operatorname { m a x } } ^ { 2 } ( x , y ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3．基于ROEWA算子的改进CV模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对传统CV模型中Dirac 函数定义域较狭窄，不能有效地检测远离演化曲线的目标边缘，且需要重新初始化、计算量较大这一缺点，本文拟对其进行改进—一构建基于图像边缘强度信息的边缘指示函数$g ( R )$ 取代传统CV模型中规则化的 Dirac 函数。此处边缘函数旨在检测远离演化曲线的目标边缘，引导演化曲线停止在目标轮廓的边界处，提高收敛速度。基于这个目的，本文构建的边缘指示函数如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( R ) { = } e ^ { - \\alpha R ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\scriptstyle a$ 是图像边界强度场对演化速度的控制系数，可取值任意实数。在具体实验时，取值应适中，过大的取值容易使轮廓还未扩展到实际边界处就已经停止，过小则会使轮廓线穿越物体弱边界处。 $R$ 为由ROEWA算子得到的边缘强度。这里采用ROEWA算子而非一般图像分割算法采用的梯度值，主要是考虑到超声图像中的斑点噪声为乘性噪声，而ROEWA算子能更好地适应噪声为乘性模型的图像。所构建的边缘指示函数 $g ( R )$ 是一个单调递减函数，当 $R {  } { \\infty }$ 时， $g ( R ) {  } 0$ ，演化停止，表明该处越接近于肿瘤的真实边界轮廓。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文中 $g ( R )$ 采用的是负指数函数形式，而非倒数形式，是因为负指数函数形式相比倒数形式具有更好的逼零效果。改进后的CV模型的表达式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( 0 , x , y ) { = } \\phi _ { 0 } ( x , y )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平滑项ud 计算量较大，且有对水平集函数有重新初始化的要求，严重限制了函数的演化速度。通过实验对比发现，去掉该项后，对分割精度并无影响，因为边缘指示函数本身也可以加快CV模型的收敛速度，故本文在实际运算中忽略了该平滑项。最终采用的偏微分方程为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\begin{array} { c c c } { { \\underline { { \\phi } } _ { } { } = g ( R ) + \\lambda _ { 2 } ( u _ { 0 } } } & { { c _ { 2 } ) ^ { 2 } } } & { { \\lambda _ { 1 } ( u _ { 0 } } } & { { c _ { 1 } ) ^ { 2 } } } & { { \\nu ] } } \\end{array} } } \\\\ { { \\begin{array} { c } { { \\phi ( 0 , x , y ) { = } \\phi _ { 0 } ( x , y ) } } \\end{array} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4．实验结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验所采用的仿真软件平台是MATLABR2013a，系统平台为64位的Windows10操作系统，CPU时钟频率为 $2 . 9 4 \\mathrm { G H z }$ ，内存为 $4 . 0 \\mathrm { G B }$ 。实验数据均由合作医院广东广州中山大学附属第三医院超声科提供，共含61例，其中恶性肿瘤32例，良性肿瘤29例，所有的病例均有相应的病理诊断报告。如无特殊说明，参数设置如下：时间步长 $\\tau = 0 . 1$ ，空间步长 $h = 1$ 、 $\\lambda _ { 1 } = \\lambda _ { 2 } = 1$ 、 $\\mu = 0 . 2$ 、 $\\mathbf { \\nabla } _ { \\nu } = 0$ 、 $\\alpha = 2$ ，迭代次数$n { = } 2 0 0$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了获得比较理想的分割效果，所有的图像在分割前均采用各项异性扩散（Speckle ReducingAnisotropic Diffusion，SRAD）模型[16,7]进行了预处理。在本文试验中，SRAD模型中各参数设置为:扩散方程为指数式，迭代次数 $n = 3 0$ ，传导系数 $k = 3 0$ 、 $\\lambda = 1$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证基于像素点的比率值比一般常用图像分割中常用的梯度值能更好地适用于超声图像，将图像分割中常用的基于高斯边缘梯度算子的边缘指示函数与本文基于ROEWA算子的边缘指数函数进行了比较，结果如 所示。从 中可看出，本文所设计的边缘指示函数能更好、更清晰地检测出肿瘤的边界区域。这是因为超声图像中携带的斑点噪声主要是乘性噪声，而ROEWA算子对乘性噪声更加适用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cade5a18762133cb95b47cd254ef36820231c3cf861254f9ba6ed59c18f26f92.jpg",
+        "img_caption": [
+            "Fig.1Acomparison between two different edge detectors "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为验证本文算法的分割精度，采用传统的CV模型、基于高斯边缘梯度算子改进后的模型和本文提出的算法对经病理确诊后的乳腺超声图像进行分割，并与医生手动分割结果作比较，分割结果如图2所示",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fe46d4a804a05b55350378a398bc8eec3b071d4099c43481e42198c03921952.jpg",
+        "img_caption": [
+            "图1两种不同边缘指示函数对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（a）初始轮廓示意图",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/10e832ae6330c87bd35bb33c077d8e9160dc538dd3adf5bdc60b84ec7e6de644.jpg",
+        "img_caption": [
+            "图2 乳腺肿瘤超声图像分割结果对比图",
+            "Fig.2 Comparison of breast tumor segmentation in clinical ultrasound image "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图2可看出，在给定初始轮廓的前提下，传统的CV 模型和基于高斯边缘梯度改进后的模型均能检测出肿瘤区域的整体轮廓，但在一些细节上的处理效果并不太理想。此外，针对部分图像，随着迭代次数的增加，演化曲线会越过肿瘤边界继续向外演化，导致过分割而生成错误边界，如图2（b）和图3所示。而如图2（d）所示，采用本文算法，不仅可以更好地分割出肿瘤区域的边界轮廓，而且随着迭代次数的增加，边界可以稳定地固定在边缘处而不会过分割。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了定量评价本文方法对超声图像分割的质量，以医生手动分割的结果（图2（e））作为实验结果参考的金标准。由于肿瘤区域内部往往出现一些钙化，在图中表现为高回声区域，而在分割的过程中，这部分区域往往会被单独分割出来，表现为一些小空洞，如图 $2 \\left( \\mathrm { b } \\right) ^ { \\sim } \\left( \\mathrm { d } \\right)$ 所示。在临床上，这些“高回声区域”属于病变区域，故在进行性能比较时，比较的是空洞填充后的二值化图像。采用准确度、灵敏度、特异性、阳性预测值（Positive Predictive Value）和阴性预测值（Negative Predictive Value）共 5个指标来量化评价分割的性能，结果如表1所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc0c5a5ccb4076f24f49304af17a4f9b4625d7834128de06b0fad9ae3fbcfc6c.jpg",
+        "table_caption": [
+            "表1几种分割算法的性能比较 ",
+            "Table1 The performance comparison of several segmentation algorithm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">算法</td><td colspan=\"5\">定量指标</td></tr><tr><td>准确度</td><td>灵敏度</td><td>特异性</td><td>阳性预测值</td><td>阴性预测值</td></tr><tr><td>传统•CV 模型</td><td>0.856 5±0.101</td><td>0.891 1±0.107 9</td><td>0.8086±0.2038</td><td>0.6365±0.1307</td><td>0.8916±0.2215</td></tr><tr><td>基于梯度改进后的模</td><td>0.965 3±0.014</td><td>0.811 5±0.057 3</td><td>0.8962±0.2227</td><td>0.9703±0.0185</td><td>0.8689±0.2168</td></tr><tr><td>本文算法</td><td>0.974 2±0.006</td><td>0.878 4±0.020 6</td><td>0.9909±0.0050</td><td>0.9563±0.0045</td><td>0.9827±0.0052</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证本文算法在分割速度方面的提升，采用传统CV模型和本文改进后的CV模型对同一幅图像进行分割，并将处理过程中不同迭代次数的曲线演化情况和所用时间进行统计，结果如和所示。从表2可以看出，与传统的CV模型相比，本文改进的CV模型显著地提高了曲线演化的速度，可以更快地演化到肿瘤的真实边界。也就是说，本文改进后的CV模型可以极大地提高图像分割的效率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b16175c01fbc848c9b2e83d8b1ebd5521053ef60e35884d51c39a760dccde75.jpg",
+        "img_caption": [
+            "图3传统CV模型和本文改进后CV模型的演化速度对比图Fig.3Comparison of the standard CV model with the CV-ROEWA mode",
+            "",
+            "表2不同迭代次数下的分割时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e7bea78ec8da5816a8f4e6661ff57af8f66f5d40dc406cc75af37e32c828d7b.jpg",
+        "table_caption": [
+            "Table 2 Comparison of segmentation time in different iterations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">迭代次数</td><td colspan=\"2\">时间（ s）</td></tr><tr><td>传统CV模型</td><td>本文模型</td></tr><tr><td>60</td><td>12.672</td><td>3.028</td></tr><tr><td>100</td><td>19.352</td><td>4.258</td></tr><tr><td>200</td><td>27.251</td><td>8.037</td></tr><tr><td>300</td><td>44.208</td><td>11.815</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.小结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "肿瘤区域分割是医学图像CAD 系统的重要组成部分，精确地提取病变区域的边缘轮廓有利于准确提取其形态特征，从而提高肿瘤良恶性判别的准确度。针对乳腺超声图像的分割难题，本文在充分分析传统CV 模型优点和缺点的基础上，提出了一种基于ROEWA 算子的改进CV 模型。实验结果表明，本文算法不仅能提高分割的准确度，而且能显著提高分割的速度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 赫捷，陈万青.2014中国肿瘤登记年报[M]．北京：清华大学出版社,2015.  \n[2] ChengHD,cftedessJ39(4): 646-668.  \n[3] ShttyMKScreengndgossfeastcaerinowresoeotri:atisatfeart?CarsinUrasodCdMRI.WB Saunders,2011,300-305.  \n[4] 杨建功．水平集活动轮廓模型在图像分割中的应用研究[D]．西安：陕西师范大学,2011.  \n[5] KasM,WitkinA,opouosaks:ctiecotoroels[J].IteatioalJualofoputerVson988,(4):-1.  \n[6] OsherS,SethanJA.Frontspropagatingwithcurvature-dependentspd:AlgorithsasedonHamilto-Jacobiforulations[J].JualfComputational Physics,1988,79(1):12-49.  \n[7] Caselles V, Kimmel R, Sapiro G. Geodesic active contours [C] $/ /$ International Conference on Computer vision. IEEE Computer Society. 1995:694-699.  \n[8] Chan TF,VeseLA.Activecontours ihoutedges [J].IEEETransactionsonImageProcessingArchive,2001,0(2):66-277.  \n[9] 吕仕明，帅仁俊．基于改进的 CV模型的医学图像分割[J]．电子测试,2014(z1):101-103.  \n[10]Industry,2015 (8): 339,.  \n[11]  \n杨青，何明一．改进CV模型的医学图像分割[J]．计算机工程与应用,2010,46(17):194-196.  \n[12]ChanTF,VeseLA.ActiveCotourandSegmenationModelssingGeoetricE'sforedicalagingJGeometricMethods iBioedicalImage Processing.,2002: 63--75.  \n[13]  \n杨道莲，鲁昌华，张金良，等．基于ROEWA与 Hough变换的SAR 图像边缘检测 [J]．电子测量与仪器学报,2013,27(6):543-548.  \n[14]  \n张雷，胡宇．改进的ROEWA 算子用于 SAR 图像的海陆分离,[J]．计算机工程与应用,2016,1-5.  \n[15]  \nFjortoftR,sauatoEctsSensing,1998,36(3): 793-802.  \n[16]  \nWangW,ZuiialeicfodgatikloociOptics and Lasers in Engineering,2014,54: 105-16.  \n[17]  \nPeronaP,MalikJScale-spaceandedgedetectionusinganisotropicdifusion[J]IEEETransactionsonpaternanalysisandmachineintelligence,1990,12(7): 629-639",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

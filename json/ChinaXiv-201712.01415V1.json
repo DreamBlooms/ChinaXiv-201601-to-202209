@@ -1,0 +1,485 @@
+[
+    {
+        "type": "text",
+        "text": "凯乐塔水电站BIM 技术应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔺志刚 梁春光 陶玉波",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（黄河勘测规划设计有限公司，郑州450003）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】水利工程具有很强的系统性和综合性。水工建筑物的结构复杂、形态各异,利用数字模型进行虚拟建造,提前优化设计，并最终形成实体建筑物，是目前水利工程结构体型设计过程中的主要方法。在凯乐塔水利枢纽工程建设过程中，采用参数化模型快速进行建筑物优化设计,将构件模板、参数以及其他常用命令开放的API进行二次开发，并将参数集成到可编辑的文档,并实现模型和文档的双向驱动,根据需要调取模板库中符合设计要求的模板,程序自动关联协调不同模板间的参数值，一键生成所需的模型。将已设计完成的模型生成实例库,可为相似工程提供参考。同时,采用不同细节深度的模型,在协同平台上对模型进行版本管理,采用BIM技术作为模型和信息的载体,根据现场施工需要进行深化设计,提取模型及数据,进行技术、现场、进度、成本管理，并最终形成竣工模型。在竣工模型上添加设备运行维护等信息，用于运行维护管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】BIM；二次开发；运行维护；深化设计",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)02-0030-06  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.02.05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凯乐塔水利枢纽位于非洲几内亚孔库雷河下游凯乐塔瀑布处，该枢纽采用碾压混凝土重力坝，全长 $1 1 4 5 . 5 \\mathrm { m }$ ,大坝坝顶高程 $1 1 4 . 0 \\mathrm { m }$ ,坝顶宽度5m,大坝共计40 个坝段,其中39 个为混凝土重力坝段，1个为均质土坝坝段，电站总装机容量为234.6MW,被誉为几内亚的“三峡工程”。项目的建成投产使几内亚国家的总装机容量翻番，进入能源自给自足的时代。工程效果图如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 工程特点和难点",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "凯乐塔水利枢纽建设周期长、投资大、技术要求高、参建单位多。国际工程的特性决定了在工程实施中需克服以下难点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)凯乐塔水利枢纽混凝土33万 $\\mathbf { m } ^ { 3 }$ 、钢筋7000t左右，工程体量大,工期紧；坝后式电站厂房，电站厂房内部水机、电气、暖通、消防等众多专业，系统复杂。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2)工程所在地经济落后、物资匮乏，项目实施需要物资依赖进口，且材料供应商与项目所在地距离远，运输周期长。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c043a49fd07a4ca245e10e412a050d4006ff284e6bc80d64ae7389921419623.jpg",
+        "img_caption": [
+            "图1工程效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(3)坝址区地质结构复杂，大坝轴线曲线设计难度大，计算工程量、二维出图较为困难。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(4)工程业主方、监理方、EPC总包及分包单位来自不同的国家、有不同的语言、代表不同的利益、极易因沟通不畅，产生分歧，延误工期。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM组织与应用环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 1 BIM应用目标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为显著降低国际工程的风险，解决项目重难点问题，项目决定采用BIM技术。在设计、施工、运维全生命周期应用，达到降低成本、缩短工期、提高效率、增加效益、减少风险的目的，打造凯乐塔BIM技术应用精品工程，探索企业借力BIM技术实现转型发展之路，提高企业核心竞争力的终极目标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 实施方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计阶段，在协同平台上搭建项目整体骨架模型，分派各专业相应的文件夹及不同人员角色的权限，各专业自主建模，由BIM团队负责进行总装配，发现问题或出现变更，及时协调更改模型，最终形成设计模型；施工阶段，在设计模型的基础上进行施工节点深化设计、施工信息录入和模型优化调整,并进行质量、进度、安全、合同等方面的管理,并最终形成竣工模型；运维阶段,在竣工模型基础上录人相应的设备运维信息，进行相应的运维管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 团队组织",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本项目由公司总工程师主管、工程院副院长主抓、数字中心主任负责，并抽调各个专业精干力量，组成BIM团队，该团队不仅负责项目的BIM实施，还进行其他专业人员的培训及技术支持工作，保证BIM人员的后续储备，使得项目能够顺利实施。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 应用措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了保证 BIM 技术的落地,本项目 BIM 团队严格执行公司BIM标准、规范及应用指南，为保证执行力，制定了相应的保障措施，在体系文件中增加了相应的过程控制程序，并将BIM的实施情况纳入专业部年度KPI考核指标，实行一票否决制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为解决设计过程中的设计环境问题，建立集成公司设计环境及日常管理制度，如环境资源、信息资源、业务流程、业务协同、交付标准、过程控制等的BIM平台,实现在统一平台上快速、规范化设计;利用协同设计平台Projectwise 进行多专业间协同设计；建立基于网络的设计施工运维一体化的综合应用平台，使项目参与各方在同一模型、同一数据源、同一平台上进行设计图纸管理、文函管理、材料采购管理、施工机械资源管理、设备运维管理等应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5 软硬件环境等",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)硬件环境 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目采用的设备为图形工作站，主要硬件配置为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CPU:Interi72600内存： $2 \\times 8 \\mathrm { G }$ 1866MHz DDR3 RDIMM显卡：Nvidia Quadro K620硬盘：256G2.5寸SSD硬盘 $+ 1 \\mathrm { T } 3 . 5$ 寸SATA机械硬盘",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)软件环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用法国达索公司的CATIA产品作为基础建模平台，美国Bentley公司的Projectwise作为多专业集成协同平台，SolidworksComposer作为配套渲染平台，结合CATIA和Solidworks Composer进行自主二次开发,开发基于网络的数据库，实现信息共享和传递的综合信息平台，集成日常设计流程的BIM设计平台，以及“一键式”生成模型的厂房三维设计系统。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 BIM应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 BIM建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据传统的厂房设计流程及CATIA软件提供的模板、参数以及其他常用命令开放的API进行二次开发，系统将参数集成到可编辑的文档，并实现模型和文档的双向驱动，根据需要调取模板库中符合设计要求的模板，程序自动关联协调不同模板间的参数值，一键生成所需的BIM模型。将用户已完成的工程生成工程实例库，可为相似的工程提供参考。本项目应用厂房三维设计系统，快速建立了参数化厂房模型，对工程的方案布置及优化起到了关键作用。如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本项目BIM模型包括土建、水机、电气、暖通、消防等专业，如图3所示。各专业统一采用CATIA软件进行模型搭建，模型等级为LOD400等级标准。在Projectwise协同平台上对模型进行版本管理，根据施工需要进行深化设计，提取模型及数据，进行技术、现场、进度、成本管理，并最终形成BIM竣工模型。在竣工模型上添加设备运行维护等信息，连同综合信息平台一并交付于业主，用于运行维护管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 BIM应用情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程中，BIM技术在设计、施工、运维阶段的主要应用点如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)设计阶段应用",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bd2f25b4cc70c2de4e0a83b29f9b5e8066342b83eae77fefeefb342e1ea80f9.jpg",
+        "img_caption": [
+            "图2厂房三维设计系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd36c0018512bb3d9421b3a96b05660a720cc8d04bce40c4a170af0ee9cc6869.jpg",
+        "img_caption": [
+            "图3多专业BIM模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)基于BIM的重大方案优化。修建水利工程需要对水流改道，创造干地施工的条件，原方案工期长、度汛风险大，使原FRAN瀑布永久消失，通过BIM技术深入分析，对比工程量及投资，将原方案布置在SONGO河湾的泄洪底孔，移至引水口左岸的FRANBANGA河湾，将四期导流方案改为两期，使得施工控制节点大为减少，大大简化了导流程序，在工期控制上更加灵活，为控制工期、均衡施工强度、电站连续施工创造了良好的施工条件。如图4为原设计方案，图5为新设计方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)基于综合信息管理系统的设计状态管理。为了使项目设计各专业及时、准确地了解设计状态，将设计图纸供应情况、设备采购运输状态、设代数据、现场照片、往来文函等信息与BIM模型关联，设计人员在综合平台上在线共享图纸进度、设备状态、设代数据等信息，并协同工作，进行包括信息的检索、查询等应用。如图6所示。通过该模块在项目中的应用，不仅使设计效率大为提升，而且避免了因沟通不畅，而造成的设计延误。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)基于BIM的复杂体型配筋。对于体型特别复杂，施工难度高的关键部位如本工程厂房蜗壳部分，二维图不容易表达及常规配筋复杂，在BIM模型的基础上进行三维配筋，不仅可以预先虚拟放样，还可以自动统计钢筋工程量表，保证施工质量和精度要求，并提高了图纸审查的通过率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)基于BIM的材料采购。由于本项目所处区域经济落后、物资匮乏，项目实施需要物资依赖进□。建筑材料做到精确统计、按期运输到位是项目顺利完成的前提。根据设备模型和管路模型的内蕴属性信息，通过软件自身的报表统计功能，按照制定的材料统计表生成样式，快速生成满足专业要求的材料表，并且将此信息录入到信息系统中，便于项目参与各方及时准确地掌握材料的采购运输状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/410d97c0c42a6237c654449671954ce3d4f5ff3240ec1972777a210cbbe95cf4.jpg",
+        "img_caption": [
+            "图4原设计方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4961c1150acd615a6a7fa9c7c15c9a699b810590fae27fc170caa279b43c1306.jpg",
+        "img_caption": [
+            "图5新设计方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6421da8a6787d29cad2615a88c5cb10627f71c4f3f669035b265cab3865235c8.jpg",
+        "img_caption": [
+            "图6综合信息管理平台设计模块界面及功能"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cf06171510c270e0babb9cde72ad3a39953905da42cc96b9f621deb8739ab01.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b50e98f16eb8548482d0d394ea88d85677923fa9bd82250fd8fa9b666795a2ac.jpg",
+        "img_caption": [
+            "图7综合信息管理平台施工模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)施工阶段应用",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)基于综合信息管理系统的施工进度管理。本工程将施工进度、材料、机械等各项施工资源与BIM模型通过数据库整合，进行4D进度监控（虚拟建造、进度录入等）、机械资源管理、物资动态管理等应用，通过施工进度计划进行4D施工模拟，预测存在的工期风险，将实际进度与计划进度进行对比分析，分析实际施工与进度计划的偏差，合理纠偏并调整进度计划，制定赶工措施，避免出现工期滞后和延误情况发生，为最终使工程工期提前提供了有力保障。如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)基于BIM的可视化技术交底。在项目实施中，由于不同的语言和文化，经常出现由于沟通不畅，导致对设计方案以及施工现场技术交底的理解出现偏差，利用BIM模型，制作方案沟通和现场可视化的技术交底视频，使得现场的沟通更加顺畅，大大缩短了沟通的时间，避免了工期的延误。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)运维阶段应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在运维阶段，将工程所有土建、机电专业的竣工图纸以及厂房内部主要设备信息录入数据库，形成工程数字化资产，通过BIM模型检索设计及施工信息，实现对设备的巡检和维护管理，全面掌握关键设施与设备的运行、保养、维修等相关的信息，把握设备设施现状，减少设备维护和维修的成本，延长设备使用寿命。如图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "45应用效果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过 BIM 技术在工程设计、施工、运行维护管理方面的一体化应用，解决了参与方众多、沟通难、协调难问题，基于BIM模型优化设计变更，节约投资 $\\overline { { 4 } } 2 0 0$ 万；减少沟通时间 $70 \\%$ ；发现并解决各类错、漏、碰问题,节约投资100万；图纸审查通过率$1 0 \\%$ ；现场交底可视化,减少交底时间 $80 \\%$ ；分析进度偏差,合理纠偏并调整进度计划,工程最终提前98天发电，产生直接经济效益5300万。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发电，使得几内亚人告别了用电难的窘迫处境。并使其成为唯一登上央视“一带一路”节目的水电项目，BIM模型也被印在几内亚最大面值的纸币上，产生了巨大的经济效益和社会效益。BIM技术在该项目管理方法、技术理念、思维模式等方面的深入实践，为下一个电站的应用积累了丰富的经验，使得在其上游总装机45万KW的苏阿皮蒂电站中，全面应用BIM技术进行工程建设。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. 1 创新点",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本项目中，主要实现了以下几个方面的创新：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)标准化厂房设计系统",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将厂房设计流程化、规范化，便于知识复用，设计人员根据设计经验，输入参数“一键”生成厂房模型，在方案布置过程中，大大提高了设计效率和质量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)综合信息管理平台",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于VisualStidio平台和云数据库，根据Solid-worksComposer提供的开放式API进行二次开发，模型属性与数据库关联，形成了集设计、施工、运维于一体的综合管理信息平台，平台基于网络集成项目各阶段、各关键指标、各组织、各专业的信息，使项目参建各方在同一BIM平台上进行信息传递和",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bf16c09436dbe6855d00f7e04eec5fc9da3ad0d4f01510bfa697b60d09f06bf.jpg",
+        "img_caption": [
+            "BIM技术的成功应用，保证了项目提前竣工和",
+            "图8综合信息管理平台运维模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "共享,提高了协同效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)完全自主二次开发的4D进度系统",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将计划进度、实际进度与数据库关联并进行对比分析，优化施工组织方案，制定赶工措施，缩短了工期，保证了项目施工期间的进度要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2 经验教训 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)BIM技术改变了以往水电工程传统设计不易解决的复杂空间体型设计，曲面结构设计精准，工程量统计精准，其“所见即所得”的强大功能，使工程师能够提前判断水利工程中难以预料的工程问题，让人们概念中的“傻大笨粗”的水利工程变成了“艺术精品”。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2)BIM技术在国内应用才刚刚开始，推广还有待提高,BIM软件功能不完善、BIM 标准不统一、各参见方认识以及实施能力参差不齐，BIM管理制度不匹配等因素之间相互制约，影响BIM的长远发展，从本项目的实施过程中发现，只有从顶层统一认识，采取强有力的制度、成熟的BIM团队和全员的统一思想才能保证BIM实施取得预期的效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1］李勇，管昌生.基于BIM技术的工程项目信息管理模式和策略[J].中国管理学报，2012,8：17-21.  \n［2］陈宇军，刘玉龙.BIM协同设计的现状和未来[J].建筑设计信息化，2010，2：26-29.  \n［3］孙悦.基于BIM的建设项目全生命周期信息管理研究[D].哈尔滨：哈尔滨工业大学硕士学位论文，2011：30-31.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Application of BIM Technology in Kaleta Hydropower Station Project ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lin Zhigang，Liang Chunguang，Tao Yubo (Yellow River Engineering Consulting Co., Ltd.， Zhengzhou 45OoO3，China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Water conservancy projects are usually complicated and comprehensive.In that the hydraulic buildings are always complex in structureand diferent in shape,using virtual construction based on digital model and optimizing design inadvance forthe final hydraulic building is the most popular method in the design process of hydraulic structure.During the construction process of the Kaleta Hydropower Station Project,the parametric model is used to optimize the building design rapidly.Through a secondary development on those component templates,parametersand frequently-used API,we can integrate the parameters into editable documents,thus realizing the bidirectional drive between model and documentation.Furthermore,we can retrieve the template in line with the design requirements from library as needed.The program can automatically associate diferent parameters to the model,and generate the required model in one step.An example library collecting all well-designed models can provide reference for similar projectBasedon models with different depthofdetail,thecollaborative platform can also realize the version control of models and deepening designas needed on construction site.Also,models and datacanbe extracted in assisting technical,site,scheduleand cost management,which produces the final completion model.Lastbut notleast,the completion model canbe integrated with operationand maintenance information to facilitate the operation maintenance management. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Words: BIM； Secondary Development ； Operation and Maintenance； Deepening Design",
+        "page_idx": 5
+    }
+]

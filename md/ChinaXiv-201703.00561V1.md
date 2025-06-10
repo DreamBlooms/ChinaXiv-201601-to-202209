@@ -1,0 +1,84 @@
+# Luminescence properties of samarium-doped $\mathrm { S i O } _ { 2 }$ -NazSO4 composite
+
+Abu Zayed Mohammad Saliqur Rahmana\*, Xingzhong Caoa,Long Weia, Baoyi Wanga, Haichen Wub
+
+aKeyLaboratoryof NuclearAnalytical Techniques,InstituteofHigh Energy Physics,ChineseAcademyof Sciences 19B Yuquanlu Shijingshan District Beijing lOoo49,China bKeyLaboratodicalEctsofoterialsosetyutfighececdee 19B Yuquanlu Shijingshan District Beijing lOoo49,China
+
+# Abstract
+
+The comprehensive structural and luminescence study of Sm-doped $\mathrm { S i O } _ { 2 } { \mathrm { - N a } } _ { 2 } \mathrm { S O } _ { 4 }$ composite materials are reported. The samples were synthesized by melt-mixing mixture of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ and $\mathrm { S m F } _ { 3 }$ into the $\mathrm { S i O } _ { 2 }$ matrix at $1 0 5 0 ^ { \circ } \mathrm { C }$ for $3 0 \mathrm { m i n }$ . X-ray diffraction (XRD) pattern shows the characteristic structure of the $\mathrm { S i O } _ { 2 }$ and addition of $20 \%$ $) \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } \mathrm { : S m }$ has no effect on the basic crystal structure of the $\mathrm { S i O } _ { 2 }$ .Scanning electron microscopy(SEM) shows the clear diference in morphological structure between the composite and host $\mathrm { S i O } _ { 2 }$ .From photoexcitation (PE) spectra of the as-synthesized composite,the highest excitation eficiency was observed at $4 0 2 \mathrm { n m }$ . The photoluminescence (PL） spectra of as-synthesized composite phosphors obtained under $4 0 2 { \mathrm { n m } }$ excitation consist of five narrow emission bands with peaks at 563,598,644,704 and $7 8 4 \mathrm { n m }$ .These are assigned to the ${ ^ 4 } \mathrm { G } _ { 5 / 2 }  { ^ 6 } \mathrm { H } _ { J }$ （ $( J = 5 / 2 , 7 / 2 , 9 / 2$ $1 1 / 2$ and $1 3 / 2$ ,respectively） transitions within $4 f ^ { 5 }$ electronic configuration of $\mathrm { S m } ^ { 3 + }$ . Highest luminescence intensity was observed with $\mathrm { S i O _ { 2 } { - } 1 0 \% N a _ { 2 } S O _ { 4 } { : } S m }$
+
+Keywords: $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ,Luminescence,Sm
+
+# 1.Introduction
+
+The luminescence properties of the lanthanide ion-doped materials have been hot research topic for decades. An attractive feature of luminescent rare earth ions is their line-like emission and this emission is largely independent of the host environment[1].Thischaracteristic oflanthanide ionsmake it very attractive for synthesizing various kinds of functional materials forapplication.Recently, there has beena strong interest in synthesis of lanthanide based organic-inorganic hybrid materials[2,3]，glass-ceramic phosphor[4,5,6]and composite materials[7,8] fora wide varietyof application in outdoor devices,fabrication of light emitting diodes,scintillators,and optical devices. $\mathrm { S i O } _ { 2 }$ is known for its hardness and used primarily for production of various kinds of glass materials.This is also very suitable host for synthesizing composite materials. Luminescence properties of lanthanide ions doped $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ were reported elsewhere[9,1O,11]. Embedding rare earth doped$\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ phosphor in ceramic materials such as $\mathrm { S i O } _ { 2 }$ may increase the strength of the phosphor,especially when designed for outdoor application.A composite of $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ can be useful for high-temperature thermal storage.Thermophysical properties of this composite are investigated[12]. S.M.Bobade et.al.reported on the electrical properties of the $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ -based composite system[13].However, very few works were done on the rare earth doped $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ phosphor[14]. There was no work reported on luminescence properties of $\mathrm { { { S m } } }$ -doped $\mathrm { S i O } _ { 2 }$ $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ system to the best of our knowledge.In the present study,we synthesized $\mathrm { { { S m } } }$ -doped $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ composite material and obtained the PL and PE spectra of the $\mathrm { S m } ^ { 3 + }$ ions.
+
+# 2.Experimental
+
+Highpurity $\mathrm { S i O } _ { 2 }$ $( 9 9 \% )$ ， $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ $( 9 9 . 9 9 \% )$ and $\mathrm { S m F } _ { 3 } ( 9 9 . 9 9 \% )$ were used to synthesize samples.A mixture of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ and small amount of $\mathrm { S m F } _ { 3 }$ $( 0 . 1 4 \mathrm { \ m o l } \% )$ was ground using an agate mortar. This mixture in appropriate amount(5,10 and 2O percent mass of the host $\mathrm { S i O } _ { 2 }$ ）wasagain thoroughly mixed with $\mathrm { S i O } _ { 2 }$ and ground by agate mortar. The mixtures were then heated in pure alumina crucibles at $1 0 5 0 ^ { \circ } \mathrm { C }$ for $3 0 ~ \mathrm { m i n }$ in air by using an electric furnace.Samples were quenched to room temperature (RT) by placing on a lead brick after heating. Synthesized samples were powdered again for performing measurements. Crystal structures of the samples were examinedusing XRD system（12kWRigaku D-Max-rA X-ray diffractometers) at RT with $\mathbf { C u K } \alpha _ { 1 }$ radiation operating at $4 0 ~ \mathrm { k V }$ and $1 0 0 ~ \mathrm { { m A } }$ .A SEM measurement was performed using a Hitachi model S-48oO field emission scanning electron microscope.A small amount of powder samples were sprinkled lightly with a spatula on carbon tape and pressed lightlyfor mounting.
+
+Measurement of PL and PE spectra were performed at RT byusing a totally computer-controlled compact system (Horiba Fluorolog spectrofluorometer).PL intensity measurements were done strictly maintaining the same conditions for each sample.All the intensitymeasurements were repeated1O times and an average was taken to reduce error.
+
+![](images/3ff1ef6c3a7bc454949146999daf7ff680a6b90ecebbb71581733ce7cabc36c8.jpg)  
+Figure 1:(Color online) XRD spectra of (a) $\mathrm { S i O } _ { 2 }$ (b ${ \mathrm { ) S i O } } _ { 2 }$ $2 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ :Smand (c) $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ：
+
+![](images/366659e931627cdf41b79cb5d6ed907496e11ae4cc0540b8b009c465c709e752.jpg)  
+Figure 2:(Color online) SEMimage of (a) $\mathrm { S i O } _ { 2 } { - } 2 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S }$ Smcomposite, inset: synthesized composite shows red emission under UV light (b) $\mathrm { S i O } _ { 2 }$ ,inset: no emission from host under UV light.
+
+# 3.Resultsanddiscussion
+
+Figure 1 shows the XRD patterns for $\mathrm { S i O } _ { 2 }$ ， $\mathrm { S i O } _ { 2 }$ $_ { \mathrm { N a _ { 2 } S O _ { 4 } : S m } }$ ， $_ { \mathrm { N a _ { 2 } S O _ { 4 } : S m } }$ and $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ．The main diffraction peaks were in good agreement with the data of ICDD card 37- 1465 and JCPDS standard pattern number 46-1045 for $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ and $\mathrm { S i O } _ { 2 }$ ，respectively. $\mathrm { S i O } _ { 2 }$ has hexagonal crystal structure with $P 3 _ { 2 } 2 1$ space group.The $( h \ k l )$ values and $d .$ -values were shown in XRD spectra. The values were calculated by using PowderX software[15]. The lattice parameters of the unit cell of $\mathrm { S i O } _ { 2 }$ were $a = b = 4 . 9 1 3 7 \mathring { \mathrm { A } }$ and $c = 5 . 4 0 4 7 \mathrm { ~ \AA ~ }$ with $\alpha = \beta = 9 0 ^ { \circ }$ and $\gamma = 1 2 0 ^ { \circ }$ . From Fig.1, it is clear that the phosphor particles were well incorporated between the $\mathrm { S i O } _ { 2 }$ particles.
+
+The particle size $d$ can be estimated from the Scherrer equation as follows:
+
+$$
+d = \frac { 0 . 9 \lambda } { \beta \mathrm { c o s } \theta }
+$$
+
+where $\lambda$ is the wavelength of the $\mathrm { C u K } _ { \alpha 1 }$ radiation, $\beta$ is the fullwidthathalf-maximum(FWHM) at radian and $\theta$ is the diffraction angle. Most prominent diffraction peaks at 2O.82,26.62 and 50.12 were taken to measure the particle size. Average particle size of the $\mathrm { S i O } _ { 2 }$ powder and $\mathrm { S i O } _ { 2 } – 2 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m }$ 1 composite powder was estimated to be $5 6 \mathrm { n m }$ ：
+
+Fig.2 shows the SEM image of the (a) $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : \mathrm { S } }$ m composite and (b) $\mathrm { S i O } _ { 2 }$ .Inset shows the red emission under UV light in $\mathrm { { S m } }$ doped $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ composite material whereas no emission under UV light in host $\mathrm { S i O } _ { 2 }$ . SEM images were magnified 7OO times for both samples. It is clearly seen that morphological structures are different in $\mathsf { S m }$ -doped $\mathrm { S i O } _ { 2 } { \mathrm { - N a } } _ { 2 } \mathrm { S O } _ { 4 }$ and $\mathrm { S i O } _ { 2 }$ ．Particle size was measured to be $5 0 \ \mathrm { n m }$ for both $\mathrm { S i O } _ { 2 }$ and $\mathrm { S i O } _ { 2 } – 2 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m }$ ，which is in good agreement with that estimated from diffraction peaks (fig. 2).
+
+![](images/c0ccae9f0bb7e9122fa6bee92ddf045f3d9186cbd3a14ee505cb8b7ff44c2573.jpg)  
+Figure 3:(Color online) (a) PE(left) and PL spectra (right) of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ :Sm. (b)PE (left) and $\mathrm { P L }$ (right) spectra of $\mathrm { S i O } _ { 2 } – 2 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m }$ .Excitation and emission spectra (red line) for $\mathrm { S i O } _ { 2 }$ was given for comparison．Observation wavelength: $6 4 4 \mathrm { n m }$ .Excitation wavelength: $3 7 5 \mathrm { n m }$
+
+![](images/e1002174c8e53db1833ed14b54c3ea1376ed31a8a7c2b49897180b828078b2d7.jpg)  
+Figure 4:(Color online) (a) PL spectra of $\mathrm { S i O } _ { 2 } – x \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ：Sm( $\scriptstyle \chi = 0 , 5 , 1 0 , 2 0 )$ （204 under excitation at $4 0 2 { \mathrm { n m } }$ .(b) Schematic energy levels of $\mathrm { S m } ^ { 3 + }$ （20 $( 4 \bar { f } ^ { \bar { \cdot } } )$ in composite materials.Arrows show the excitation and emission transitions.
+
+![](images/9e72a77925744cfdae63ab9879bec1904509ff34da889aac01e3bed637860fa0.jpg)  
+Figure 5:(Color online)(a) PL spectra of $6 4 4 \mathrm { n m }$ band under $4 0 2 \mathrm { n m }$ excitation for $\mathrm { S i O } _ { 2 }$ and $\mathrm { S i O } _ { 2 } { - } x \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } ;$ Sm $_ { x = 5 , 1 0 , 2 0 ) }$ .(b)RelativePLintensities of the $6 4 4 \mathrm { n m }$ band.
+
+Figure 3(a) shows the PE (left) and PL (right) spectra of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ :Sm phosphor. The PL spectrum,obtained under 375 nm excitation,consists of four narrow bands at 563,598,644 and $7 0 4 \mathrm { n m }$ .The excitation spectrum was obtained by monitoring the red luminescence at $6 4 4 ~ \mathrm { n m }$ .Figure 3(b) shows the PE (left) and PL (right) spectra of the $\mathrm { S i O } _ { 2 } – 2 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } ; \ddagger$ Smcomposite and $\mathrm { S i O } _ { 2 }$ (red line).Measurement condition was same as that of ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } }$ phosphor. No disturbance due to host was observed in the PL spectra,as $\mathrm { S i O } _ { 2 }$ has no obvious emission at the range $5 0 0 { - } 7 5 0 \mathrm { n m }$ ,where main $\mathrm { S m } ^ { 3 + }$ emission peaks appear. From PE spectra the highest excitation efficiency was observed at $3 7 5 \mathrm { n m }$ for $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ :Smwhereas $4 0 2 { \mathrm { n m } }$ for $\mathrm { S i O } _ { 2 }$ $2 0 \% \mathrm { { N a _ { 2 } S O _ { 4 } } ; \mathrm { { S m } } }$ ：
+
+Figure 4(a) shows thePL spectra of the $\mathrm { S i O } _ { 2 } – \mathrm { } x \mathcal { P } \mathrm { { N a } _ { 2 } \mathrm { { S O } _ { 4 } ; } }$ Sm
+
+0 $\dot { x } = 5$ ，10,20)under $4 0 2 ~ \mathrm { n m }$ excitation which consist of five narrow bandsat 563,598,644，704 and $7 8 4 ~ \mathrm { n m }$ .These five bands can be identified with the ${ } ^ { 4 } \mathrm { G } _ { 5 / 2 }  { } ^ { 6 } \mathrm { H } _ { J }$ $( J = 5 / 2 , 7 / 2 , 9 / 2 ,$ （204 $1 1 / 2$ and $1 3 / 2$ ，respectively） transitions within $4 f ^ { 5 }$ electronic configuration of $\mathrm { S m } ^ { 3 + }$ (Fig.4(b)). Trivalent samarium ions with $4 f ^ { 5 }$ are generally insensitive to the surrounding environment in the crystal, due to outer shell shielding.Nevertheless, emission spectra are still influenced by the Stark effect caused by the crystal field and asymmetry around the $\mathrm { S m } ^ { 3 + }$ .Emission bands observed in $\mathsf { S m }$ -doped $\mathrm { S i O } _ { 2 } – \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ composite are almost same as that of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ :Sm.So it is reasonable to assume that $\mathrm { S m } ^ { 3 + }$ ions take the position in the composite by replacing $\mathrm { { N a ^ { + } } }$ ions in $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$
+
+PL spectra of the prominent $6 4 4 ~ \mathrm { n m }$ band was measured 10 times for each sample to measure relative intensities (Fig. 5(b)).Average intensity was taken to minimize the intensity error.From the Fig.5(b)it is shown that with increase in the phosphor amount,the PL intensity of $6 4 4 ~ \mathrm { n m }$ band was also increased. When $20 \%$ phosphor was used, the PL intensity decreased a little. So the highest PL intensity was obtained from $\mathrm { S i O } _ { 2 } – 1 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m }$ ．PL intensity of this sample was found to be approximately $17 \%$ comparing to that of $_ { \mathrm { N a _ { 2 } S O _ { 4 } : S m } }$ .This is reasonable and better PL efficiency because the amount of $\mathrm { S m F } _ { 3 }$ in $\mathrm { S i O } _ { 2 } – 1 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m }$ is only $0 . 0 1 4 \mathrm { m o l } \%$ whereas $0 . 1 4 \mathrm { m o l } \%$ (10 times amount compare to that of $\mathrm { S i O } _ { 2 } \mathrm { - } 1 0 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } \mathrm { ; S m ) }$ in $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ :Sm phosphor.
+
+# 4.Conclusion
+
+We have successfully synthesized samarium doped $\mathrm { S i O } _ { 2 }$ $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ composite.It may strengthen the ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } }$ phosphorsembedded in $\mathrm { S i O } _ { 2 }$ matrix.We believe this composite has good prospect as a phosphor material for variety of application such as light emitting diodes,outdoor application,scintillators.
+
+# Acknowledgment
+
+This work was partially supported by the NSFC (Grant Nos. 91026006,10835006 and 11175191) and Chinese Academy of Sciences Fellowships for Young International Scientists under GrantNo.2012Y1JB0007.
+
+# References
+
+[1]Koen Binnemans.Chem.Rev.2009;109:4283-4374.   
+[2]S.B.Mishra,A.K.Mishra,N.Revarprasadu,K.T.Hillie,W.J.vdM. Steyn,E.Coetsee,H.C.Swart.J.Appl.Polym. Sci.2009;112:3347-54.   
+[3]Purificacion Escribano,Beatriz Julian-Lopez，Jose Planelles-Arago, Eloisa Cordoncillo,Bruno Viana,Clement Sanchez.J.Mater.Chem. 2008;18:23-40.   
+[4]Shunsuke Fujita,Akihiko Sakamoto,Setsuhisa Tanabe.IEEE Journal of Selected Topics in Quantum Electronics 2008;14:1387-91.   
+[5]I.Sabikoglu,M.Ayvackl,A.Bergeron,A. Ege,N.Can.J.Lumin.2012; 132:1597-1602.   
+[6]G.Belev,G.Okada,D.Tonchev,C.Koughia,C.Varoy,A.Edgar,T. Wysokinski,D.Chapman, S.Kasap.Phys. Status Solidi C 2011; 8:2822- 25.   
+[7]Yanbin Zhang,ZhenfengZhu,YinpoQiao.Mater.Lett.2O13; 93:9-11.   
+[8] Steven C.Allen,Andrew J. Steckl.Appl.Phys.Lett. 2008;92:143309 (1-3).   
+[9]A. Sidike,A.Z.M.S.Rahman,J.-Y.He,K.Atobe,N. Yamashita.J.Lumin. 2009;129:1271-75.   
+[10]A.Sidike，A.Z.M.S.Rahman，J.-Y.He,L.-X.Gong，K.Atobe, N.Yamashita.J.Lumin.2011;131:1840-47.   
+[11]A.Z.M.S.Rahman,X.Cao,L.Wei,B.Wang,R.Yu,Z.Chen,G.An,A. Sidike.Appl.Phys.A 2012; DOI10.1007/s00339-012-7266-y.   
+[12]W.Notter, Th.Lechner,U.Grob,E.Hahne.Thermochimica Acta 1993; 218:455-63.   
+[13]S.M.Bobade,A.R.Kulkarni,P.Gopalan.Ionics 2007;13:257-62.   
+[14]L.I.Anikina,T.S.Dobrolyubskaya,A.V.Karyakin,VietLe Binh.J. Appl. Spectros.1969;10:353-54.   
+[15]C.Dong.J.Appl.Cryst.1999;32:838-839.

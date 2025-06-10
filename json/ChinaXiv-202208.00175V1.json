@@ -1,0 +1,425 @@
+[
+    {
+        "type": "text",
+        "text": "蝎虎类星体Mrk421的宽带能谱光变特性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭燕飞'，孙建圆'，宋雨洁，徐云冰'，谢照华'，杜雷鸣(1．云南师范大学物理与电子信息学院，云南昆明650500）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：我们搜集了Mrk 421的光变宽带能谱（Spectral Energy Distributions，SEDs）数据,共有73个态作为研究样本，使用电子能谱为稳态拐折幂律谱下的单区轻子模型进行拟合，进而研究Mrk421在光变时喷流的物理性质。我们的主要结果如下：（1）样本中磁场B和多普勒因子 $\\delta$ 之间存在显著反相关，说明B和δ在汤姆逊区相互依赖。（2）电子谱指数 $p _ { 1 }$ 支持Mrk 421光变时的激波解释或磁重联等解释。（3）同步峰值频率 $l o g \\nu _ { s y n } ^ { p k }$ 和峰值光度$l o g \\nu _ { s y n } ^ { p k } L _ { s y n } ^ { p k }$ 之间存在正相关关系，意味着Mrk421在光变时存在反耀变体序列。（4）根据均分参数 $\\varepsilon = U _ { e } / U _ { B }$ （相对论电子能量密度与磁场能量密度的比值）有 $2 6 \\%$ 的态的电子能量和磁场能量接近均分， $6 3 \\%$ 的态的电子能量比磁场能量大一个数量级， $1 1 \\%$ 的态的电子能量远大于磁场能量，这说明Mrk421在光变过程中更可能出现电子能量比磁场能量大一个数量级的情况，同时也意味着Mrk421中的喷流是以粒子为主导；从 $P _ { \\mathrm { e } } > P _ { \\mathrm { B } }$ 的关系，进一步表明了Mrk421的喷流是以粒子为主导， $P _ { \\mathrm { B } } \\lesssim P _ { \\mathrm { r } }$ ，意味着坡印廷通量不能解释辐射功率， $P _ { \\mathrm { r } } / P _ { \\mathrm { e } }$ 的范围为 $0 . 0 1 { \\sim } 0 . 5 1 \\$ ，说明相对论电子能量中的一小部分可能用于观测到的辐射。（5）3C279和Mrk421的一些物理参数范围可能比较接近，但这两个源喷流内的物理过程可能是不一样的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蝎虎天体；Mrk 421；光变；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "光变是耀变体（blazar）的最显著特征之一。研究耀变体的光变具有重要的意义，其研究内容和主要研究问题可参见文[2]及其中参考文献，此处不详述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在耀变体光变的研究中，通常有两类途径：一类是固定频率（频段）处的光变特性研究（如光学/紫外波段，X射线波段或者y波段等，如文[3]，另一类是多波段光变数据联合形成宽波段同时/准同时性SED数据。考虑到不同的态之间的变化都可以联系到内在物理机制上的不同，于是可以使用模型拟合方法来进行物理特性间不同的研究，如文[4]和文[5]。第一类研究中，一般进行时域研究，如RMS-计数率关系研究，功率谱分析等，和谱形研究，如硬度比值（Hardness ratio），波段谱形拟合等。此类方式的优点是特定频率（频段）处观测数据相对丰富而便于深入研究。对第二类研究途径而言，宽波段同时/准同时性SED数据样本相对要小些，但是优势在于能够通过模型拟合提供光变过程中辐射区物理条件的变化信息，从而为了解光变过程涉及的粒子加速和辐射过程提供洞察。本文将使用这一研究路径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mrk 421是银河系附近的一个耀变体源，没有明显的发射线或吸收线，在光学波段具有强的偏振，而在射电波段具有致密（毫弧秒尺度）结构。因此，它被归类为蝎虎天体（BLLacs）。它的宽带能谱分布(SED)可以用典型的双峰形状来描述[6][7]。在更一般的耀变体背景下，Mrk 421属于高峰频蝎虎天体的一个子类，其 SED 的两个峰都位于相对较高的能量（分别在\\~1Kev和\\~100Gev)8]。Mrk 421 是高峰频蝎虎天体中研究最全面的耀变体之一，也是人类通过惠普尔10米切伦科夫望远镜首次探测到银河系外的TeV源[9]。Mrk421的红移为$0 . 0 3 1 ^ { [ 9 ] }$ ，是距离我们最近的blazar天体之一。近年来，有关Mrk421的多波段光变特性和周期性光变现象等问题已经引起很多学者的关注，并针对该问题进行了大量的研究工作[3][4][9]。Mrk 421在光学波段表现出剧烈的光变现象，曾经在2.5h内变化1.4mag，光变非常迅速。后来分别在红外、X射线、γ射线波段都观测到Mrk421的快速而大幅的光变，甚至是大幅度的爆发现象[8][10][]。可以看到，Mrk 421几乎一直处于很活跃的状态[10]。研究Mrk 421的光变特性，对blazar 物理性质的研究和物理模型的建立都具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于Mrk 421迄今为止已经进行大量的第二类研究,如文[11-14]。但是这些研究中态的样本数量依然不足以支持统计上有意义的分析结果（其中文[12]是最多的一个研究仅研究了18个态）。所以本文搜集了一个足够大的，含有Mrk 421共73个光变态的样本来进行研究，以期对该源光变时外在观测和内在物理的特性进行分析，得到比较可靠的统计结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 SED样本描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从文[8，12-13，15-22]中搜集了Mrk421的73个态的同时/准同时性/非同时或准同时性SED数据作为样本，其观测数据覆盖范围从射电波段到y射线波段。这是迄今为止关于这个源光变 SED 的最大样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中把观测时间在1周内的称为同时性数据，在2个月内称为准同时性数据[24]。另外我们把一个同时/准同时性/非同时或准同时性 SED 数据所描写的状态简称为一个“态”。一次光变过程一般包含若干个态。详情参见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2模型及拟合结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模型及拟合过程简介",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文我们使用最为常见的均匀单区轻子模型来进行数据拟合。在此模型中，辐射区被假设为一个充满均匀分布的电子的球形区域，半径为 $R ( c m )$ 。由于某种原因，这个区域保持其形状不变，而且以相对论性速度沿喷流轴向匀速运动，速度用多普勒因子 $\\delta$ 刻划。 $\\delta$ 定义为$\\delta = [ \\Gamma ( 1 - \\beta c o s \\theta ) ] ^ { - 1 }$ ，这里r是辐射区运动的洛伦兹因子， $\\beta = \\upsilon / c$ ，而 $\\theta$ 为辐射区运行的轴向与观测者视向之间的夹角。球形辐射区处于大小相同但是方向混沌的磁场 $B$ 中。辐射区中的电子的能谱（EED）用拐折的形式，形如",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { N ( \\gamma ) = \\left\\{ \\begin{array} { c c } { N _ { 0 } \\gamma ^ { - p _ { 1 } } \\quad } & { ( \\gamma _ { m i n } < \\gamma < \\gamma _ { b } ) } \\\\ { N _ { 0 } \\gamma _ { b } ^ { p _ { 2 } - p _ { 1 } } \\gamma ^ { - p _ { 2 } } \\quad } & { ( \\gamma _ { b } < \\gamma < \\gamma _ { m a x } ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这里， $\\gamma _ { m i n } \\mathcal { \\bar { \\mathsf { F } } } \\mathbb { H } \\gamma _ { m a x }$ 分别是电子洛伦兹因子的上下界，而 $\\dot { \\gamma } _ { b }$ 是拐折洛伦兹因子。 $p _ { 1 }$ 和 $p _ { 2 }$ 是拐折两侧EED 的电子谱指数。 $N _ { 0 }$ 为归一化因子。在确定了这些参数的值之后，单区模型就可以给出一条拟合曲线。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文[24]可知，在拟合BLLac 源时为了避免简并（两组或者更多组不同的物理参数组合却能够得到一致的拟合SED）的情况出现，需要把四个参数：磁场 $B$ 、多普勒因子δ、辐射区半径R和EED中的归一化因子 ${ \\bf \\nabla } \\cdot { \\cal N } _ { 0 }$ 四者固定其中一个。基于扩散激波加速的假设，考虑到不同的态是由相似的激波导致[9，于是若干前人都采取固定辐射区半径的方案，从文[11,25,26,12]中得到辐射区半径R的范围在 $0 . 2 5 \\times 1 0 ^ { 1 6 } c m$ 到 $5 . 2 \\times 1 0 ^ { 1 6 } c m$ 。与文[11,19]根据最小光变时标来确定辐射区半径 $R$ 的大小的方案一致，我们固定辐射区半径为 $R = 1 . 0 \\times$ $1 0 ^ { 1 6 }$ cm。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于电子的最小洛伦兹因子 $\\gamma _ { m i n }$ 的选择，根据文[25,27,19,21]，为了避免过大的射电波段流量值、拟合光学段数据，以及减少自由参数的数量， $\\gamma _ { m i n }$ 设定范围一般在500－800之间。这里我们和文[27,19]一致，取 $\\gamma _ { m i n } = 5 0 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据文[28-29]，耀变体的射电波段辐射产生于喷流之外，而不在喷流区域。喷流产生的辐射在≤ $1 0 ^ { 1 2 } \\mathrm { H z }$ 时会由于同步自吸收而明显减弱。本文的研究聚焦于内喷流产生的多波段SED 的物理性质，所以本文中射电波段数据的处理方法和文[2]中一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "拟合过程中，由于Mrk421同步峰所在的X段观测数据较为丰富，而红外-光学-紫外波段数据相对较少，此外红外-光学-紫外波段观测到的辐射有可能被寄主星系的热辐射主导[30]，所以拟合过程中在保证卡方值足够小的条件下，我们赋予X段的数据更高的权重，以便使拟合曲线更好地适配同步峰峰值处的形状。这相当于把红外-光学-紫外波段数据认为是喷流辐射的上界[12]，而主要依靠同步峰和IC 峰峰值处的数据来决定拟合参数，这样做和文[19]的处理一致。在文[19]中根据若干证据发现，紫外波段的辐射应该和X段的不同源，这和我们的判断是一致的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 拟合结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "拟合的样本及模型参数表参见表1，SED图参见图1-2，图1-2只放了拟合图的一部分，时间为MJD55266-55277的态的图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1中每列的详细信息如下：第（1）列，样本观测时间；第（2）列，磁场；第（3）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "列，多普勒因子；第（4）列，EED的归一化因子；第（5）列，电子的最大洛伦兹因子；第（6）列，EED拐点的洛伦兹因子；第（7）列，同步峰左侧光薄段的谱指数；第（8）列，同步峰右侧光学薄段的谱指数；第（9）列，卡方。我们的结果表明，拐折幂律谱EED的稳态单区均匀轻子模型能够较理想地拟合73个包含光学、X－ray和y－ray波段在内的 SED 观测数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcc1f4378f8c2d5235dfb49c16b21314fa40ac7cfccf4cba4fca74b15972db39.jpg",
+        "table_caption": [
+            "表1样本及模型参数 Table1 The sample and model parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time period(MJD)</td><td>B (G) ×10-2</td><td>8</td><td>N X10-3</td><td>Ymax ×107</td><td>Yb ×105</td><td>p1</td><td>p2</td><td>x²/d.o.f</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>（7）</td><td>(8）</td><td>(9)</td></tr><tr><td>55245-55246</td><td>4.10</td><td>40.12</td><td>9.00</td><td>1.00</td><td>3.62</td><td>2.18</td><td>4.12</td><td>2.85/16</td></tr><tr><td>55240—55242</td><td>5.50</td><td>33.92</td><td>24.00</td><td>1.00</td><td>2.34</td><td>2.38</td><td>4.46</td><td>1.87/13</td></tr><tr><td>55243</td><td>3.90</td><td>48.00</td><td>2.00</td><td>1.00</td><td>3.64</td><td>1.98</td><td>4.45</td><td>13.65/26</td></tr><tr><td>Steady state</td><td>6.00</td><td>32.00</td><td>7.00</td><td>1.00</td><td>1.86</td><td>2.21</td><td>4.58</td><td>73.95/33</td></tr><tr><td>54594</td><td>13.40</td><td>24.00</td><td>4.20</td><td>1.00</td><td>1.13</td><td>2.04</td><td>4.08</td><td>0.73/19</td></tr><tr><td>54683-55000</td><td>7.00</td><td>28.00</td><td>7.60</td><td>1.00</td><td>1.86</td><td>2.16</td><td>4.62</td><td>21.72/29</td></tr><tr><td>55144-55149</td><td>5.20</td><td>26.00</td><td>3.80</td><td>1.00</td><td>4.46</td><td>1.92</td><td>3.70</td><td>10.34/17</td></tr><tr><td>55242-55244</td><td>11.00</td><td>15.00</td><td>8.00</td><td>1.00</td><td>4.02</td><td>1.83</td><td>4.42</td><td>21.75/23</td></tr><tr><td>55245-55271</td><td>18.50</td><td>16.00</td><td>3.80</td><td>1.00</td><td>2.86</td><td>1.92</td><td>4.38</td><td>58.97/27</td></tr><tr><td>55516-56106</td><td>8.00</td><td>23.00</td><td>13.60</td><td>1.00</td><td>1.39</td><td>2.23</td><td>4.68</td><td>26.11/27</td></tr><tr><td>55811-55818</td><td>12.60</td><td>26.00</td><td>10.00</td><td>1.00</td><td>3.86</td><td>2.32</td><td>4.71</td><td>15.57/14</td></tr><tr><td>56117-56129</td><td>7.80</td><td>22.00</td><td>15.00</td><td>1.00</td><td>1.62</td><td>2.04</td><td>4.68</td><td>15.88/17</td></tr><tr><td>56130-56186</td><td>9.00</td><td>30.00</td><td>14.70</td><td>1.00</td><td>1.62</td><td>2.26</td><td>5.12</td><td>10.78/20</td></tr><tr><td>55121-55153</td><td>5.60</td><td>36.00</td><td>9.00</td><td>1.00</td><td>3.93</td><td>2.28</td><td>4.12</td><td>17.77/11</td></tr><tr><td>55242-55245</td><td>7.94</td><td>18.00</td><td>5.30</td><td>1.00</td><td>4.32</td><td>1.79</td><td>4.32</td><td>18.83/21</td></tr><tr><td>55475-55503 55516-55801-</td><td>6.11</td><td>24.00</td><td>12.30</td><td>1.00</td><td>4.02</td><td>2.16</td><td>4.16</td><td>12.60/14</td></tr><tr><td>55831-56106</td><td>12.20</td><td>17.00</td><td>19.00</td><td>1.00</td><td>1.64</td><td>2.27</td><td>4.93</td><td>13.75/32</td></tr><tr><td>55811-55822</td><td>5.10</td><td>30.00</td><td>10.30</td><td>1.00</td><td>3.92</td><td>2.18</td><td>4.12</td><td>9.55/9</td></tr><tr><td>56117-56187</td><td>10.30</td><td>19.00</td><td>41.00</td><td>1.00</td><td>2.56</td><td>2.34</td><td>4.43</td><td>7.85/20</td></tr><tr><td>56302</td><td>32.70</td><td>16.00</td><td>4.70</td><td>1.00</td><td>0.38</td><td>1.92</td><td>4.82</td><td>74.10/29</td></tr><tr><td>56312</td><td>20.00</td><td>17.00</td><td>10.00</td><td>1.00</td><td>0.76</td><td>2.18</td><td>4.9</td><td>162.12/29</td></tr><tr><td>55267</td><td>2.92</td><td>40.00</td><td>4.60</td><td>1.00</td><td>3.98</td><td>2.04</td><td>4.87</td><td>7.05/26</td></tr><tr><td>55269</td><td>4.90</td><td>42.00</td><td>8.40</td><td>1.00</td><td>3.12</td><td>2.28</td><td>4.51</td><td>31.25/30</td></tr><tr><td>55271</td><td>6.60</td><td>27.00</td><td>8.00</td><td>1.00</td><td>2.51</td><td>2.10</td><td>4.28</td><td>13.42/17</td></tr><tr><td>55272</td><td>6.50</td><td>32.00</td><td>6.70</td><td>1.00</td><td>2.52</td><td>2.18</td><td>5.18</td><td>10.86/24</td></tr><tr><td>55273</td><td>6.10</td><td>34.00</td><td>2.17</td><td>1.00</td><td>1.82</td><td>1.98</td><td>4.61</td><td>10.49/23</td></tr><tr><td>56394-56395</td><td>10.30</td><td>45.00</td><td>3.50</td><td>1.00</td><td>1.21</td><td>2.09</td><td>3.77</td><td>0.25/18</td></tr><tr><td>56396-56397</td><td>13.10</td><td>32.00</td><td>9.00</td><td>1.00</td><td>1.42</td><td>2.22</td><td>3.41</td><td>5.42/16</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/899c6156c2cae60f30c40768d767e0d182c24edae05182719d88a39f7b5f4e70.jpg",
+        "table_caption": [
+            "续表1 Continued table1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time period(MJD)</td><td>B (G) ×10-2</td><td>8</td><td>N ×10-3</td><td>Ymax ×107</td><td>Yb ×105</td><td>P1</td><td>P2</td><td>x²/d.o.f</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6）</td><td>（7）</td><td>(8）</td><td>（9)</td></tr><tr><td>54474</td><td>5.06</td><td>48.00</td><td>1.14</td><td>1.00</td><td>0.64</td><td>1.79</td><td>3.81</td><td>6.30/19</td></tr><tr><td>54559</td><td>3.35</td><td>50.00</td><td>3.00</td><td>1.00</td><td>2.20</td><td>2.03</td><td>3.98</td><td>12.75/19</td></tr><tr><td>54508.3</td><td>6.24</td><td>28.60</td><td>2.00</td><td>1.00</td><td>1.52</td><td>1.76</td><td>3.94</td><td>0.44/15</td></tr><tr><td>54509.37</td><td>15.60</td><td>20.00</td><td>1.70</td><td>1.00</td><td>1.17</td><td>1.70</td><td>4.12</td><td>11.24/15</td></tr><tr><td>54538.42</td><td>11.20</td><td>21.00</td><td>1.60</td><td>1.00</td><td>1.27</td><td>1.70</td><td>4.29</td><td>2.83/12</td></tr><tr><td>54556.24</td><td>10.00</td><td>20.00</td><td>7.60</td><td>1.00</td><td>3.08</td><td>2.04</td><td>3.64</td><td>11.66/7</td></tr><tr><td>54557.26</td><td>3.00</td><td>35.00</td><td>7.30</td><td>1.00</td><td>3.08</td><td>2.04</td><td>3.64</td><td>2.23/9</td></tr><tr><td>54562.25</td><td>19.00</td><td>16.00</td><td>9.40</td><td>1.00</td><td>2.14</td><td>2.06</td><td>4.21</td><td>11.39/13</td></tr><tr><td>54566.26</td><td>20.00</td><td>20.00</td><td>4.10</td><td>1.00</td><td>1.24</td><td>2.02</td><td>3.71</td><td>2.51/15</td></tr><tr><td>54588.30</td><td>3.00</td><td>26.00</td><td>3.90</td><td>1.00</td><td>2.98</td><td>1.74</td><td>3.76</td><td>9.94/8</td></tr><tr><td>54591.21</td><td>10.00</td><td>28.00</td><td>2.00</td><td>1.00</td><td>1.12</td><td>1.84</td><td>3.91</td><td>0.93/17</td></tr><tr><td>54592.2</td><td>18.00</td><td>18.00</td><td>2.60</td><td>1.00</td><td>1.08</td><td>1.84</td><td>3.99</td><td>1.41/17</td></tr><tr><td>55244</td><td>1.20</td><td>50.00</td><td>1.74</td><td>1.00</td><td>4.56</td><td>1.65</td><td>3.98</td><td>87.51/25</td></tr><tr><td>54590</td><td>9.80</td><td>30.00</td><td>3.60</td><td>1.00</td><td>1.01</td><td>1.98</td><td>3.84</td><td>0.38/18</td></tr><tr><td>54591</td><td>12.80</td><td>26.00</td><td>3.50</td><td>1.00</td><td>0.92</td><td>2.02</td><td>3.82</td><td>0.68/20</td></tr><tr><td>55000-55350</td><td>10.90</td><td>28.00</td><td>13.60</td><td>1.00</td><td>2.75</td><td>2.41</td><td>4.78</td><td>54.91/32</td></tr><tr><td>55475-55505</td><td>3.97</td><td>38.00</td><td>10.00</td><td>1.00</td><td>3.94</td><td>2.24</td><td>4.73</td><td>43.32/20</td></tr><tr><td>55245-55272</td><td>11.90</td><td>21.00</td><td>2.80</td><td>1.00</td><td>2.74</td><td>1.89</td><td>4.46</td><td>42.94/21</td></tr><tr><td>56307</td><td>14.60</td><td>24.00</td><td>5.70</td><td>0.06</td><td>0.88</td><td>2.12</td><td>4.75</td><td>76.66/33</td></tr><tr><td>56335</td><td>15.40</td><td>23.00</td><td>4.80</td><td>0.08</td><td>0.81</td><td>2.06</td><td>4.27</td><td>9.04/21</td></tr><tr><td>55265</td><td>2.14</td><td>43.00</td><td>1.24</td><td>1.00</td><td>5.48</td><td>1.80</td><td>4.34</td><td>14.22/32</td></tr><tr><td>55266</td><td>4.27</td><td>34.00</td><td>2.84</td><td>1.00</td><td>4.32</td><td>1.93</td><td>4.75</td><td>11.28/29</td></tr><tr><td>55268</td><td>9.80</td><td>30.00</td><td>10.40</td><td>1.00</td><td>2.84</td><td>2.30</td><td>4.51</td><td>46.02/27</td></tr><tr><td>55270</td><td>4.00</td><td>46.00</td><td>3.94</td><td>1.00</td><td>1.21</td><td>2.10</td><td>3.80</td><td>22.67/34</td></tr><tr><td>55274</td><td>20.40</td><td>15.00</td><td>7.80</td><td>1.00</td><td>0.93</td><td>2.04</td><td>3.75</td><td>12.59/22</td></tr><tr><td>55275</td><td>14.50</td><td>15.00</td><td>9.00</td><td>1.00</td><td>1.24</td><td>1.95</td><td>4.02</td><td>9.05/16</td></tr><tr><td>55276</td><td>20.00</td><td>17.00</td><td>7.00</td><td>1.00</td><td>1.48</td><td>2.12</td><td>4.18</td><td>5.07/18</td></tr><tr><td>55277</td><td>7.90</td><td>29.00</td><td>4.40</td><td>1.00</td><td>1.65</td><td>2.12</td><td>4.21</td><td>13.87/20</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1659caa403a1d57ae97d2cf026f7b12d4bf25d8d53b1692942f9ae893425e971.jpg",
+        "table_caption": [
+            "续表1 Continued table1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time period(MJD)</td><td rowspan=\"3\">B (G) ×10-2</td><td>8</td><td>N ×10-3</td><td>Ymax ×107</td><td>Yb ×105</td><td>P1</td><td>P2</td><td>x²/d.o.f</td></tr><tr><td>(1)</td><td>(3)</td><td>（4）</td><td>(5）</td><td>（6）</td><td>（7）</td><td>(8）</td><td>（9）</td></tr><tr><td>56393</td><td>(2) 12.30</td><td>49.00</td><td>4.50</td><td>1.00</td><td>0.76</td><td>2.25</td><td>4.19</td><td>0.57/16</td></tr><tr><td>56393-56394</td><td>6.60</td><td>49.00</td><td>9.10</td><td>1.00</td><td>1.12</td><td>2.29</td><td>3.58</td><td>0.19/18</td></tr><tr><td>56395-56396</td><td>10.60</td><td>38.00</td><td>6.80</td><td>1.00</td><td>1.32</td><td>2.21</td><td>4.20</td><td>6.42/16</td></tr><tr><td>54623</td><td>7.80</td><td>36.00</td><td>1.90</td><td>1.00</td><td>1.43</td><td>1.84</td><td>4.19</td><td>20.68/13</td></tr><tr><td>54628-54630</td><td>6.10</td><td>34.80</td><td>4.00</td><td>1.00</td><td>3.38</td><td>1.96</td><td>4.71</td><td>13.23/21</td></tr><tr><td>54473</td><td>6.70</td><td>48.00</td><td>1.00</td><td>1.00</td><td>0.58</td><td>1.80</td><td>3.98</td><td>19.37/16</td></tr><tr><td>54475</td><td>8.52</td><td>32.00</td><td>1.35</td><td>1.00</td><td>0.84</td><td>1.79</td><td>3.98</td><td>4.96/10</td></tr><tr><td>54481</td><td>3.20</td><td>50.00</td><td>2.30</td><td>1.00</td><td>0.98</td><td>1.91</td><td>3.69</td><td>29.08/13</td></tr><tr><td>54482</td><td>4.26</td><td>50.00</td><td>1.10</td><td>1.00</td><td>0.78</td><td>1.78</td><td>3.87</td><td>3.46/18</td></tr><tr><td>54507</td><td>4.40</td><td>50.00</td><td>1.27</td><td>1.00</td><td>0.80</td><td>1.81</td><td>3.48</td><td>33.69/20</td></tr><tr><td>54558</td><td>4.17</td><td>50.00</td><td>1.27</td><td>1.00</td><td>0.77</td><td>1.86</td><td>3.36</td><td>3.51/14</td></tr><tr><td>54475.43</td><td>11.60</td><td>25.00</td><td>1.80</td><td>1.00</td><td>1.07</td><td>1.79</td><td>4.95</td><td>8.19/17</td></tr><tr><td>54478.41</td><td>6.50</td><td>36.00</td><td>8.00</td><td>1.00</td><td>1.08</td><td>2.12</td><td>4.41</td><td>9.24/18</td></tr><tr><td>54559.25</td><td>7.33</td><td>32.00</td><td>4.20</td><td>1.00</td><td>2.46</td><td>2.04</td><td>3.63</td><td>3.92/15</td></tr><tr><td>54564.19</td><td>8.83</td><td>33.00</td><td>3.10</td><td>1.00</td><td>1.57</td><td>2.01</td><td>3.54</td><td>38.57/17</td></tr><tr><td>54589.21</td><td>4.00</td><td>21.00</td><td>5.30</td><td>1.00</td><td>2.48</td><td>1.86</td><td>3.34</td><td>0.01/10</td></tr><tr><td>54593.23</td><td>14.80</td><td>24.00</td><td>1.89</td><td>1.00</td><td>0.79</td><td>1.84</td><td>3.89</td><td>7.03/17</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b956898bd30ab0fb5260deb3a2f056cc032dd9f273a6c024a0fee9c947e62376.jpg",
+        "img_caption": [
+            "图1 单区均匀轻子模型拟合Mrk 421观测的SED数据图（MJD55266-55273），其中“--”表示同步辐射过程，“..”表示SSC过程，黑色线表示总的拟合线。Fig.1Theone-zone homogeneous lepton modelis fitted to the SEDdata figure(MJD55266-55273）observed by Mrk421，where \"--\" represents the synchrotron radiation process，\"..\"Indicates the SSC process，and the blackline represents the total fitting line."
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/15b6b0660e100f5510cd8902845fff351c65d0e6638f95aa75d979a6f66a481f.jpg",
+        "img_caption": [
+            "图2 单区均匀轻子模型拟合Mrk 421观测的SED数据图（MJD55274-55277），其中“--”表示同步辐射过程，“..”表示SSC过程，黑色线表示总的拟合线。Fig.2 Theone-zonehomogeneous lepton modelis fitted to the SEDdata figure(MJD55274-55277）observed by Mrk421，where \"--\"represents the synchrotron radiation process，\"..\"Indicates the SSC process，and the blackline represents the total fitting line."
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1拟合结果的物理性质和关系",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据文[11]和文[25]可以得到Mrk421的多普勒因子δ的范围为15－50，在我们的拟合结果中，多普勒因子δ范围是15－50,与前人得到多普勒因子的范围一致。对于磁感应强度，我们拟合得到的磁感应强度B的范围为0.012－0.327G，与文[15]和文[18]给出的磁感应强度B的范围 $0 . 0 2 - 0 . 3 G$ 一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 （204 $B - \\delta$ 关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "耀变体喷流的磁感应强度B和多普勒因子δ之间的关系反映了辐射区所处的磁场和辐射区运动速度之间的关联，之前已经有一些研究。文[27]和文[31]对于每一个耀变体只使用一个态刻划，然后对这样的 SED样本进行分析，两文得到了不同的结果。文[27]对于一个包含22个BLLac 的样本发现 $B$ 和δ之间不存在相关性，而文[31]对于一个包含 29个TeV BLLac源的样本发现B和δ之间存在显著的反相关关系。本文研究的是单一源的不同态的物理性质，目的是探究同一个源的不同态之间的物理差异，角度与前述两文有不同。我们的结果表明，$B$ 和δ之间存在显著的反相关性，bisector分析的结果为 $\\log \\delta = ( - 0 . 6 1 \\pm 0 . 0 5 ) \\log B +$ $( 0 . 7 9 \\pm 0 . 0 6 )$ ，相关系数为 $r = - 0 . 7 2$ ，显著水平为 $p = 7 . 3 2 \\times 1 0 ^ { - 1 3 }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据单区SSC 模型的单色近似，在Thomson区域（即：Thomson 散射截面：入射光子的低能量区域）中有 $B \\delta \\propto ( \\nu _ { s } ^ { 2 } / \\nu _ { c } ) ( 1 + Z )$ ，而在KN区域中有 $B / \\delta \\propto ( \\nu _ { s } / \\nu _ { c } ^ { 2 } ) ( 1 + Z )$ ，这里$\\nu _ { s }$ 代表同步峰峰频，而 $\\dot { \\nu } _ { c }$ 代表 SSC 峰的峰频。如果认为 $\\mathrm { M r k } ~ 4 2 1$ 在光变时 $\\nu _ { s } ^ { 2 } / \\nu _ { c }$ 的值在一个狭窄范围内波动，那么可以得到 $B$ 和 $\\delta$ 之间的反相关关系。这个和上述分析一致。而这个结论也和文[31]的分析结论一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 相对论电子能谱分布",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对相对论电子谱指数 $\\cdot \\ b { p } _ { 1 }$ 的研究可以推测出是由什么机制产生的相对论电子。对于相对论电子的谱指数 $\\cdot \\ b { p } _ { 1 }$ 前人有过研究。文[27]用一个态代表一个源，研究了22个BLLac 源的谱指数 $p _ { 1 }$ 和 $p _ { 2 }$ ，得到 $p _ { 1 }$ 的范围为 $1 . 4 0 { \\sim } 2 . 2 2$ 谱指数的差值 $\\Delta p = p _ { 2 } - p _ { 1 }$ 的范围 $1 . 0 0 { \\sim } 3 . 0 0$ 并且 $\\Delta p$ 大多数是在2.0 附近，但也存在 $p _ { 1 } < 1 . 6$ 和 $\\Delta p > 2 . 0$ 的情况。文[19]对Mrk",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "421时间在2008年8月到 2013年2月的7个态进行分析发现谱指数的差值 $\\Delta p = p _ { 2 } - p _ { 1 }$ 大于典型辐射冷却拐折的 $\\Delta p = 1$ ，表明拐折不是由辐射冷却引起的。本文工作的目的是在较大样本下研究Mrk421光变时不同态的电子谱指数的差异。在我们的拟合结果中 $p _ { 1 }$ 的范围为 $1 . 6 5 { \\sim } 2 . 3 8 .$ 。根据文[32]相对论扩散激波加速预测的正则粒子谱指数 $p _ { 1 }$ 在2.2附近，在我们的样本中有 $5 8 \\%$ 的态的 $p _ { 1 }$ 在 $2 . 0 0 { \\sim } 2 . 3 8$ ，可以用相对论扩散激波去解释。同时还有 $4 2 \\%$ 的态的 $p _ { 1 }$ 在 $p _ { 1 } < 2 . 0$ ，这意味着可能需要另一种机制去解释。根据文[33]的观点：短时间内被激波加速的粒子在激波下游又被随机过程加速，能够产生比1阶费米过程产生的极限值还要硬的谱。文[34]中提出在激波加速中，当存在大的散射角或其他极端条件时，就可以在激波中实现 $p _ { 1 } <$ 2.0。文[35]提出了磁重联也可以产生硬的电子谱。根据 $p _ { 1 }$ 的范围可以发现Mrk421在光变时的加速机制不仅仅只是相对论扩散激波，还有可能是因为大的散射角、短时间内被激波加速的粒子在激波下游又被随机过程加速或者磁重联加速。另外由于Δp的范围 $1 . 1 9 { \\sim } 3 . 1 6$ ，大于典型辐射冷却拐折预言的 $\\Delta p = 1 ^ { [ 3 6 ] }$ ，这意味着拐折不是由辐射冷却引起的。文[25]猜测拐折是加速过程的一个特征，大的 $\\gamma _ { b }$ 可能是由一种尚未知晓的加速机制引起的， $\\gamma _ { b }$ 应该是加速过程可以获得的最大能量，取决于粒子在激波区域内的加速时标。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4 同步峰的峰值频率 $\\nu _ { s y n } ^ { p k }$ 一峰值光度 $\\log \\nu L _ { \\mathrm { s y n } } ^ { \\mathrm { p k } }$ 相关性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前，对于同步峰峰值频率 $( \\nu _ { s y n } ^ { p e a k }$ ）和峰值光度 $( \\nu L ( \\nu ) _ { s y n } ^ { p e a k } )$ 的关系，无论是耀变体群体还是单个耀变体都有研究。文[37]是最早研究不同源的同步峰的峰值频率-峰值光度之间的关系，在文[37]的文章采用一个态代表一个源。文[38]发现Mrk421的同步峰的峰值频率和峰值光度之间存在正相关关系，之后他们将文[38]和文[39]中关于Mrk$\\nu L _ { s y n } ^ { \\mathrm { p k } } \\propto \\nu _ { s y n } ^ { p k } ^ { \\ ( 0 . 4 2 \\pm 0 . 0 6 ) }$ 的结果。文[40]在3C279的四个态和 $\\operatorname { M r k } { 5 0 1 }$ 的四个态中分别发现了同步峰的峰值频率-峰值光度之间有相关性.文[41]进一步研究了包含14个高同步峰频BLLac 源的同步峰的峰值频率和峰值光度之间，这14个高同步峰频中，有 $\\frac { 9 } { 1 4 }$ 的源显示同步峰的峰值频率和峰值光度为正相关关系，有 $\\frac { 5 } { 1 4 }$ 的源显示同步峰的峰值频率和峰值光度没有相关性或负相关。人们把同步峰的峰值频率和峰值光度之间的反相关关系成为“耀变体序列”，相应的正相关关系称为“反耀变体序列”。本文也对 Mrk421的此关系进行了相关性研究。我们的拟合结果表明同步峰的峰值频率 $\\nu _ { s y n } ^ { p k }$ 与峰值光度 $\\log \\nu L _ { s y \\mathrm { n } } ^ { \\mathrm { p k } }$ 之间存在正相关关系，皮尔逊（Pearson）相关系数 $r = 0 . 4 0$ ， ${ \\sf p } = 3 . 9 9 \\times 1 0 ^ { - 4 }$ ，表明Mrk421在光变时存在反耀变体序列。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "文[38]中提到 $\\nu _ { s y n } ^ { p k }$ 和 $\\nu L _ { \\mathrm { s y n } } ^ { \\mathrm { p k } }$ 之间可以用幂律的形式表示，即 $\\nu _ { s y n } ^ { p k } \\propto \\nu L _ { \\mathrm { s y n } } ^ { \\mathrm { p k } ^ { \\alpha } }$ 在单区SSC模型中，使用单色近似可以得到 $\\nu _ { \\mathrm { s y n } } ^ { \\mathrm { p k } } L _ { \\mathrm { s y n } } ^ { \\mathrm { p k } } \\propto N \\gamma _ { \\mathrm { b } } ^ { 2 } B ^ { 2 } \\delta ^ { 4 }$ 一和 $\\vert \\nu _ { s y n } ^ { \\mathrm { p k } } \\propto \\gamma _ { \\mathrm { b } } ^ { 2 } B \\delta$ 两个关系，N为辐射电子的数密度。同时文[42]中提到当 $\\alpha = 1$ 时光变由 $\\gamma _ { b }$ 主导，当 $\\alpha = 2$ 时光变由磁场变化主导，当 $\\alpha =$ 4时光变由多普勒因子8的变化主导，当 $\\alpha = \\infty$ 时光变由辐射电子数密度N主导。在我们的结果中vL.67， ，这意味着多普勒因子δ和辐射电子数密度N 不太可能是Mrk 421光变的主导因素，Mrk421的光变更可能是因为 $| \\gamma _ { b }$ 的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5 喷流的物理性质",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究喷流功率有助于我们研究喷流的产生和组成，通过对光谱能量分布的拟合估算喷流功率。假设喷流功率由四部分组成：相对论电子功率、冷质子功率、磁场功率和辐射所携带功率[43]，即：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { j e t } } = \\pi R ^ { 2 } \\Gamma ^ { 2 } c \\big ( U _ { \\mathrm { e } } + U _ { \\mathrm { p } } + U _ { \\mathrm { B } } + U _ { \\mathrm { r } } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其中， $U _ { \\mathrm { e } }$ 是相对论电子能量密度； $U _ { \\mathfrak { p } }$ 是冷质子能量密度； $U _ { \\mathrm { B } }$ 是磁场能量密度； $U _ { \\mathrm { r } }$ 是辐射能量密度，计算公式为：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { U _ { \\mathrm { e } } = m _ { \\mathrm { e } } c ^ { 2 } \\int N ( \\gamma ) \\gamma \\mathrm { d } \\gamma } } \\\\ { { U _ { \\mathrm { p } } = m _ { \\mathrm { p } } c ^ { 2 } \\int N ( \\gamma ) \\mathrm { d } \\gamma } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle { U _ { \\mathrm { B } } = \\frac { B ^ { 2 } } { 8 \\pi } } } \\\\ { \\displaystyle { U _ { \\mathrm { r } } = \\frac { L _ { \\mathrm { o b s } } } { 4 \\pi R ^ { 2 } c \\delta ^ { 4 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其中， $L _ { \\mathrm { o b s } } = 4 \\pi D _ { L } ^ { 2 } F$ ， $L _ { \\mathbf { o b s } }$ 为观测到的总非热辐射光度； $D _ { L }$ 为光度距离； $F$ 为观测流量。此外根据文[44]也计算了均分参数和磁化参数，计算公式为：",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon = \\frac { U _ { e } } { U _ { B } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "计算得到的参数见表2。表2中每列的详细信息如下：第（1）列，样本观测时间；第（2）列，喷流总功率；第（3）列，相对论电子功率；第（4）列，磁场功率；第（5）列，冷质子功率；第（6）列，辐射功率；第（7）列，相对论电子能量密度；第（8）列，磁场能量密度；第（9）列，均分参数。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6a6c5a8fe46fcef2213ad9382aedad8f2761e0cae4449509789c386786f4263.jpg",
+        "table_caption": [
+            "表2样本中相对论电子能量密度，磁场能量密度以及各种功率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time period(MJD)</td><td>Pjet(erg·s-1) ×1044</td><td>Pe(erg·s-1) ×1043</td><td>PB(erg ·s-1) ×1042</td><td>Pp(erg·s-1) ×1043</td><td>Pr(erg: s-1) ×1042</td><td>Ue(erg: cm-3) ×10-3</td><td>UB(erg:cm-3) ×10-4</td><td>ε= Ue/UB</td></tr><tr><td>(1)</td><td>(2)</td><td>(3) 11.17</td><td>（4） 1.01</td><td>(5) 8.69</td><td>（6） 2.06</td><td>（7） 7.37</td><td>(8) 0.67</td><td>（9） 110.20</td></tr><tr><td>55245-55246 55240-55242</td><td>2.02 2.73</td><td>12.86</td><td>1.30</td><td>14.16</td><td>1.80</td><td>11.87</td><td>1.20</td><td>98.62</td></tr><tr><td>55243</td><td>1.03</td><td>6.67</td><td>1.31</td><td>3.32</td><td>1.54</td><td>3.07</td><td>0.61</td><td>50.80</td></tr><tr><td>Steady state</td><td>1.04</td><td>5.46</td><td>1.38</td><td>4.73</td><td>1.06</td><td>5.66</td><td>1.43</td><td>39.51</td></tr><tr><td>54594</td><td>0.47</td><td>2.45</td><td>3.88</td><td>1.64</td><td>2.61</td><td>4.52</td><td>7.14</td><td>6.33</td></tr><tr><td>54683-55000</td><td>0.85</td><td>4.56</td><td>1.44</td><td>3.63</td><td>1.40</td><td>6.18</td><td>1.95</td><td>31.70</td></tr><tr><td>55144-55149</td><td>0.74</td><td>4.97</td><td>0.68</td><td>1.97</td><td>3.98</td><td>7.80</td><td>1.08</td><td>72.53</td></tr><tr><td>55242-55244</td><td>0.83</td><td>4.77</td><td>1.02</td><td>1.53</td><td>18.79</td><td>22.51</td><td>4.81</td><td>46.75</td></tr><tr><td>55245-55271</td><td>0.36</td><td>1.68</td><td>3.28</td><td>0.75</td><td>8.58</td><td>6.98</td><td>13.62</td><td>5.12</td></tr><tr><td>55516-56106</td><td>0.89</td><td>4.52</td><td>1.27</td><td>4.14</td><td>1.36</td><td>9.07</td><td>2.55</td><td>35.62</td></tr><tr><td>55811-55818</td><td>0.80</td><td>3.64</td><td>4.02</td><td>3.63</td><td>3.27</td><td>5.72</td><td>6.32</td><td>9.06</td></tr><tr><td>56117-56129</td><td>1.32</td><td>7.64</td><td>1.10</td><td>4.93</td><td>5.13</td><td>16.75</td><td>2.42</td><td>69.21</td></tr><tr><td>56130-56186</td><td>1.58</td><td>7.81</td><td>2.73</td><td>7.43</td><td>2.81</td><td>9.21</td><td>3.22</td><td>28.58</td></tr><tr><td>55121-55153</td><td>1.37</td><td>6.95</td><td>1.52</td><td>6.45</td><td>1.67</td><td>5.70</td><td>1.25</td><td>45.65</td></tr><tr><td>55242-55245</td><td>0.84</td><td>5.53</td><td>0.77</td><td>1.53</td><td>12.69</td><td>18.14</td><td>2.51</td><td>72.30</td></tr><tr><td>55475-55503</td><td>1.05</td><td>5.83</td><td>0.81</td><td>4.32</td><td>2.87</td><td>10.74</td><td>1.48</td><td>72.34</td></tr><tr><td>55516-55801-</td><td>0.66</td><td>3.18</td><td>1.61</td><td>3.06</td><td>2.21</td><td>11.67</td><td>5.92</td><td>19.70</td></tr><tr><td>55831-56106 55811-55822</td><td>1.31</td><td>7.19</td><td>0.88</td><td>5.56</td><td>2.20</td><td>8.48</td><td>1.03</td><td></td></tr><tr><td>56117-56187</td><td>1.60</td><td>7.53</td><td>1.44</td><td>7.82</td><td>5.34</td><td>22.14</td><td>4.22</td><td>81.96</td></tr><tr><td>56302</td><td>0.36</td><td>1.32</td><td>10.26</td><td>0.91</td><td>3.67</td><td>5.46</td><td>42.55</td><td>52.44</td></tr><tr><td>56312</td><td>0.43</td><td>1.92</td><td>4.33</td><td>1.73</td><td>2.27</td><td>7.05</td><td>15.92</td><td>1.28</td></tr><tr><td>55267</td><td>1.39</td><td>8.69</td><td>0.51</td><td>5.01</td><td>1.11</td><td>5.77</td><td>0.34</td><td>4.43</td></tr><tr><td>55269</td><td>1.72</td><td>8.71</td><td>1.59</td><td>8.19</td><td>1.27</td><td>5.24</td><td>0.96</td><td>170.08</td></tr><tr><td>55271</td><td>0.96</td><td>5.47</td><td>1.19</td><td>3.75</td><td>2.45</td><td>7.97</td><td>1.73</td><td>54.85</td></tr><tr><td>55272</td><td>0.95</td><td>5.09</td><td>1.62</td><td>4.11</td><td>1.40</td><td>5.27</td><td>1.68</td><td>45.97</td></tr><tr><td>55273</td><td>0.53</td><td>3.24</td><td>1.61</td><td>1.81</td><td>1.00</td><td>2.97</td><td>1.48</td><td>31.37 20.07</td></tr><tr><td>56394-56395</td><td>1.22</td><td>6.39</td><td>8.05</td><td>4.60</td><td>4.15</td><td>3.35</td><td>4.22</td><td>7.94</td></tr><tr><td>56396-56397</td><td>1.28</td><td>6.11</td><td>6.59</td><td>5.34</td><td>7.04</td><td>6.33</td><td>6.83</td><td>9.27</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/f77802652c094e274c07b9bac800ab979b65e36055d44f13fe67aad563fa937b.jpg",
+        "table_caption": [
+            "续表2 Continued table 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time period(MJD)</td><td>Pjet(erg :s-1) ×1044</td><td>Pe(erg :s-1) ×1043</td><td>PB(erg ·s-1) ×1042</td><td>Pp(erg ·s-1) ×1043</td><td>Pr(erg: s-1) ×1042</td><td>Ue(erg: cm-3) ×10-3</td><td>UB(erg: cm-3) ×10-4</td><td>ε= Ue/UB</td></tr><tr><td>(1)</td><td>(2）</td><td>(3)</td><td>（4）</td><td>(5）</td><td>(6)</td><td>(7)</td><td>(8)</td><td>（9）</td></tr><tr><td>54474</td><td>0.77</td><td>5.04</td><td>2.21</td><td>2.32</td><td>0.81</td><td>2.32</td><td>1.02</td><td>22.81</td></tr><tr><td>54559</td><td>1.40</td><td>8.65</td><td>1.05</td><td>5.15</td><td>1.05</td><td>3.67</td><td>0.45</td><td>82.28</td></tr><tr><td>54508.3</td><td>0.64</td><td>4.51</td><td>1.19</td><td>1.51</td><td>2.64</td><td>5.85</td><td>1.55</td><td>37.77</td></tr><tr><td>54509.37</td><td>0.37</td><td>2.13</td><td>3.65</td><td>0.68</td><td>5.80</td><td>5.64</td><td>9.68</td><td>5.83</td></tr><tr><td>54538.42</td><td>0.35</td><td>2.25</td><td>2.07</td><td>0.70</td><td>3.31</td><td>5.41</td><td>4.99</td><td>10.84</td></tr><tr><td>54556.24</td><td>0.64</td><td>3.59</td><td>1.50</td><td>2.07</td><td>6.22</td><td>9.54</td><td>3.98</td><td>23.98</td></tr><tr><td>54557.26</td><td>1.69</td><td>10.57</td><td>0.41</td><td>6.08</td><td>1.86</td><td>9.17</td><td>0.36</td><td>255.95</td></tr><tr><td>54562.25</td><td>0.54</td><td>2.50 1.82</td><td>3.46 6.00</td><td>1.61 1.14</td><td>9.02 5.57</td><td>10.38</td><td>14.36</td><td>7.23</td></tr><tr><td>54566.26 54588.30</td><td>0.41 1.28</td><td>9.86</td><td>0.23</td><td>2.51</td><td>3.70</td><td>4.82</td><td>15.92</td><td>3.03</td></tr><tr><td>54591.21</td><td>0.49</td><td>2.98</td><td>2.94</td><td>1.31</td><td></td><td>15.48</td><td>0.36</td><td>432.39</td></tr><tr><td>54592.2</td><td>0.31</td><td>1.58</td><td>3.93</td><td>0.70</td><td>2.75 4.43</td><td>4.03</td><td>3.98</td><td>10.13</td></tr><tr><td>55244</td><td>3.32</td><td>28.22</td><td>0.13</td><td>4.69</td><td>2.46</td><td>5.17 11.99</td><td>12.89</td><td>4.01</td></tr><tr><td>54590</td><td>0.68</td><td>3.88</td><td>3.24</td><td>2.33</td><td>2.59</td><td>4.57</td><td>0.06</td><td>2092.06</td></tr><tr><td>54591</td><td>0.48</td><td>2.48</td><td>4.15</td><td>1.64</td><td>2.34</td><td>3.90</td><td>3.82</td><td>11.96</td></tr><tr><td>55000-55350</td><td>1.06</td><td>4.69</td><td>3.49</td><td>5.35</td><td>1.96</td><td>6.35</td><td>6.52</td><td>5.98</td></tr><tr><td>55475-55505</td><td>1.79</td><td>9.46</td><td>0.85</td><td>8.24</td><td>1.25</td><td>6.96</td><td>4.73</td><td>13.44</td></tr><tr><td>55245-55272</td><td>0.41</td><td>2.36</td><td>2.34</td><td>0.98</td><td>5.03</td><td>5.68</td><td>0.63</td><td>110.97</td></tr><tr><td>56307</td><td>0.53</td><td>2.56</td><td>4.60</td><td>2.07</td><td>1.94</td><td>4.72</td><td>5.63 8.48</td><td>10.08</td></tr><tr><td>56335</td><td>0.47</td><td>2.30</td><td>4.70</td><td>1.69</td><td>2.25</td><td>4.63</td><td>9.44</td><td>5.57</td></tr><tr><td>55265</td><td>0.97</td><td>7.52</td><td>0.32</td><td>2.02</td><td>1.20</td><td>4.32</td><td>0.18</td><td>4.90</td></tr><tr><td>55266</td><td>0.86</td><td>5.84</td><td>0.79</td><td>2.50</td><td>2.14</td><td>5.37</td><td>0.73</td><td>236.84</td></tr><tr><td>55268</td><td>1.09</td><td>5.22</td><td>3.24</td><td>5.10</td><td>2.68</td><td>6.16</td><td>3.82</td><td>73.96</td></tr><tr><td>55270</td><td>1.29</td><td>7.30</td><td>1.27</td><td>5.36</td><td>0.74</td><td>3.67</td><td>0.64</td><td>16.13</td></tr><tr><td>55274</td><td>0.38</td><td>1.75</td><td>3.51</td><td>1.19</td><td>4.73</td><td>8.26</td><td>16.56</td><td>57.57</td></tr><tr><td>55275</td><td>0.50</td><td>2.73</td><td>1.77</td><td>1.50</td><td>5.95</td><td>12.90</td><td>8.37</td><td>4.99</td></tr><tr><td></td><td>0.38</td><td>1.70</td><td>4.33</td><td>1.28</td><td>4.08</td><td>6.24</td><td>15.92</td><td>15.41</td></tr><tr><td>55276 55277</td><td>0.58</td><td>3.15</td><td>1.97</td><td>2.34</td><td>1.27</td><td>3.97</td><td>2.48</td><td>3.92 16.01</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b59de4e86edba374e1aaef7396120554ce59cc7564aee15a69e50cffb77116c.jpg",
+        "table_caption": [
+            "续表2 Continued table 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time period(MJD)</td><td>Pjet(erg·s-1) ×1044</td><td>Pe(erg·s-1) ×1043</td><td>PB(erg ·s-1) ×1042</td><td>Pp(erg ·s-1) ×1043</td><td>Pr(erg: s-1) ×1042</td><td>Ue(erg: cm-3) ×10-3</td><td>UB(erg: cm-3) ×10-4</td><td>ε= Ue/UB</td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>（7）</td><td>(8)</td><td>（9)</td></tr><tr><td>56393</td><td>1.39</td><td>6.23</td><td>13.61</td><td>6.11</td><td>2.38</td><td>2.76</td><td>6.02</td><td>4.58</td></tr><tr><td>56393-56394 56395-56396</td><td>2.47</td><td>12.05</td><td>3.92 6.08</td><td>11.98 5.74</td><td>2.25 3.17</td><td>5.33</td><td>1.73</td><td>30.76</td></tr><tr><td></td><td>1.32</td><td>6.49</td><td>2.95</td><td>2.06</td><td>3.08</td><td>4.77</td><td>4.47</td><td>10.67</td></tr><tr><td>54623 54628-54630</td><td>0.76 1.16</td><td>4.90 7.40</td><td>1.69</td><td>3.57</td><td>4.34</td><td>4.02 6.49</td><td>2.42</td><td>16.59</td></tr><tr><td>54473</td><td>0.66</td><td>4.11</td><td>3.88</td><td>2.01</td><td>0.92</td><td>1.89</td><td>1.48</td><td>43.81</td></tr><tr><td>54475</td><td>0.45</td><td>2.85</td><td>2.79</td><td>1.22</td><td>1.53</td><td>2.95</td><td>1.79</td><td>10.59</td></tr><tr><td>54481</td><td>1.32</td><td>8.55</td><td>0.96</td><td>4.45</td><td>0.77</td><td>3.63</td><td>2.89 0.41</td><td>10.22</td></tr><tr><td>54482</td><td>0.85</td><td>5.77</td><td>1.70</td><td>2.46</td><td>0.78</td><td>2.45</td><td>0.72</td><td>89.09</td></tr><tr><td>54507</td><td>0.93</td><td>6.30</td><td>1.81</td><td>2.74</td><td>1.15</td><td>2.68</td><td>0.77</td><td>33.94</td></tr><tr><td>54558</td><td>0.82</td><td>5.39</td><td>1.63</td><td>2.59</td><td>0.87</td><td>2.29</td><td>0.69</td><td>34.76 33.11</td></tr><tr><td>54475.43</td><td>0.39</td><td>2.38</td><td>3.15</td><td>1.00</td><td>2.36</td><td>4.04</td><td>5.35</td><td>7.55</td></tr><tr><td>54478.41</td><td>1.53</td><td>8.35</td><td>2.05</td><td>6.54</td><td>1.82</td><td>6.84</td><td>1.68</td><td></td></tr><tr><td>54559.25</td><td>0.84</td><td>4.95</td><td>2.06</td><td>2.92</td><td>3.60</td><td>5.13</td><td>2.14</td><td>40.70 24.00</td></tr><tr><td>54564.19</td><td>0.70</td><td>4.03</td><td>3.18</td><td>2.36</td><td>3.32</td><td>3.93</td><td>3.10</td><td>12.68</td></tr><tr><td>54589.21</td><td>0.75</td><td>5.25</td><td>0.26</td><td>1.92</td><td>2.74</td><td>12.64</td><td>0.64</td><td>198.60</td></tr><tr><td>54593.23</td><td>0.35</td><td>1.89</td><td>4.73</td><td>0.91</td><td>2.76</td><td>3.48</td><td>8.72</td><td>3.99</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "目前对于Mrk421在光变时电子能量和磁场能量是否均分，有3种结果。第一种：电子能量和磁场能量接近均分。文[18]对Mrk421时间在2008年6月6日至15日的2个态进行分析，得到电子能量和磁场能量接近均分。文[8]分析了对Mrk421时间在2013年1月至3月的4个态进行分析，通过 $U _ { \\mathrm { e } }$ 和 $U _ { \\mathrm { B } }$ 的比值得到电子能量和磁场能量接近均分，并分析得到参数B和 $| \\gamma _ { b }$ 会影响均分参数。第二种：电子能量比磁场能量大一个数量级。文[13]对Mrk421时间在2013年3月10日至22日的13个态进行分析，得到电子能量比磁场能量大一个数量级，并且在这13天中 $U _ { \\mathrm { e } }$ 和 $U _ { \\mathrm { B } }$ 的比值变化不大。文[21]对Mrk421时间在2008年2月至2016年5月的7个态进行分析，通过 $U _ { \\mathrm { e } }$ 和 $U _ { \\mathrm { B } }$ 的比值得到电子能量比磁场能量大一个数量级。第三种：电子能量远大于磁场能量。文[15]对Mrk421时间在2008年1月8日至4月3日的13个态进行分析，得到电子能量远大于磁场能量喷流可能以粒子为主导。文[19]对 Mrk 421时间在 2008年8月到 2013年2月的10个态进行分析，得到喷流中电子中的功率远高于磁场的功率。根据这3种结果，把 $1 < \\varepsilon < 1 0$ 称为电子能量和磁场能量接近均分， $1 0 \\leq \\varepsilon < 1 0 0$ 称为电子能量比磁场能量大一个数量级， $\\varepsilon \\ge 1 0 0$ 称为电子能量远大于磁场能量。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本文关于电子能量和磁场能量研究结果3种情况都存在，可能是因为我们的样本比较大，在我们的结果中有 $2 6 \\%$ 的态的电子能量和磁场能量接近均分， $6 3 \\%$ 的态的电子能量比磁场能量大一个数量级，11%的态的电子能量远大于磁场能量，这意味着Mrk421在光变过程中更可能出现电子能量比磁场能量大一个数量级的情况，同时也暗示了Mrk421的喷流可能是以粒子为主导，这与文[45,27,44]的研究结果一致。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "根据表2中的数据我们计算了喷流中每种成分所携带能量占总能百分比的平均值，结果见表3。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/4adb0d85900d75041bd119436d9e5582e1de60ec39c5dab8c2761e76d5a93e2b.jpg",
+        "table_caption": [
+            "表3各成分（平均值）携带能量的比值",
+            "Table 3 The ratio of energy (average）carried by each component "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Pe/Pjet</td><td>Pp/Pjet</td><td>PB/Pjet</td><td>Pr/Pjet</td></tr><tr><td>56%</td><td>35%</td><td>4%</td><td>5%</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "通过表3可以发现 $P _ { \\mathrm { r } } \\leq P _ { \\mathrm { B } } < P _ { \\mathrm { p } } < P _ { \\mathrm { e } }$ ，其中 $P _ { \\mathrm { e } } > P _ { \\mathrm { B } }$ ，进一步表明了 $\\mathrm { M r k } ~ 4 2 1$ 的喷流是以粒子为主导，与前人的的结论一致[46][2][45]。同时我们也发现了 $P _ { \\mathrm { B } } \\lesssim P _ { \\mathrm { r } }$ ，这意味着坡印廷通量不能解释辐射功率，与文[27]结果一致。也计算了 $P _ { \\mathrm { r } } / P _ { \\mathrm { e } }$ 的范围为 $0 . 0 1 { \\sim } 0 . 5 1 \\$ ，这意味着相对论电子能量中的一小部分可能用于观测到的辐射，与文[27]结果一致。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.63C279与Mrk421的光变特性比较 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "为了更清楚的了解不同源光变时物理特性的差异和共同点，我们将 Mrk 421 和文[2]中的3C279相比较。首先比较电子谱指数 $p _ { 1 }$ ，对于电子谱指数 $p _ { 1 }$ ，源3C279的$p _ { 1 }$ 范围为 $1 . 7 0 { \\sim } 2 . 7 0$ ，源Mrk 421的 $p _ { 1 }$ 范围为 $1 . 6 5 { \\sim } 2 . 3 8$ ，两个源的 $p _ { 1 }$ 的范围比较接近，这意味着不管是3C279还是Mrk421喷流中电子加速的原因可能是由于激波加速或磁重联加速。其次，对于耀变体序列，3C279在光变时不存在耀变体序列，而Mrk421在光变时存在反耀变体序列，这表明并不是所有的源在光变时存在耀变体序列或反耀变体序列，同时我们也发现3C279的各光变态中不存在唯一的主导因素，而Mrk421的光变的主导因素可能是 $\\cdot \\gamma _ { b } ^ { [ 4 2 ] }$ 。最后，我们对3C279 和 Mrk 421喷流中的各种功率及均分参数进行比较，文[2]中的3C279 有 $8 6 \\%$ 的态的均分参数大于1，而我们的样本中Mrk421的均分参数大于都大于1，这表明光变时Mrk421喷流中的电子能量大于磁场能量，而3C279光变时的电子能量不一定大于磁场能量。此外通过比较喷流中电子、磁场、冷质子和辐射所携带功率占总功率的百分比，可以发现3C279 和 Mrk 421的喷流都是以粒子为主导。我们也发现3C 279 和 Mrk 421的 $P _ { \\mathrm { B } } \\lesssim P _ { \\mathrm { r } }$ ，坡印廷通量不能解释辐射功率[27]。 $P _ { \\mathrm { r } } < P _ { \\mathrm { e } }$ 相对论电子功率的很大一部分将用于产生观测到的辐射27。通过对3C 279 和 Mrk421的比较即使两个源的一些参数范围比较接近，这两个源喷流内的物理过程可能是不一样的[46]。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "对于源Mrk421，本文基于稳态单区均匀轻子模型对其73个态进行了拟合，研究了该源在光变过程中的物理特性。我们结果可以总结如下：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1、磁场强度B与多普勒因子8之间存在反相关关系，说明磁场强度B和多普勒因子δ主要在汤姆逊区相互依赖。  \n2、通过拟合参数中电子谱指数 $\\cdot _ { p _ { 1 } }$ 的范围，我们的结果支持光变时的激波解释或大散射角、短时间内被激波加速的粒子在激波下游又被随机过程加速、磁重联加速解释$\\nu _ { s y n } ^ { p k } \\propto \\nu L _ { s y n } ^ { \\mathrm { p k } ^ { 0 . 6 7 } }$ Mrk 421在光变时存在反耀变体序列，且Mrk421的光变可能是于 $\\cdot \\gamma _ { b }$ 的变化。  \n4、本文的均分参数 $\\varepsilon = U _ { \\mathrm { e } } / U _ { \\mathrm { B } }$ 的值都大于1，在样本中有 $2 6 \\%$ 的态电子能量和磁场能量接近均分， $6 3 \\%$ 的态电子能量比磁场能量大一个数量级， $1 1 \\%$ 的态电子能量远大于磁场能量，这意味着Mrk421的喷流是以粒子为主导。样本中 $P _ { \\mathrm { B } } \\lesssim P _ { \\mathrm { r } }$ ，意味着坡印廷通量不能解释辐射功率， $P _ { \\mathrm { r } } / P _ { \\mathrm { e } }$ 的范围为 $0 . 0 1 { \\sim } 0 . 5 1 \\$ ，这表明相对论电子能量中的一小部分可能用于观测到的辐射。  \n5、3C279和Mrk421的一些物理参数范围可能比较接近，例如电子谱指数 $p _ { 1 }$ 、$ { P _ { \\mathrm { B } } } \\lesssim  { P _ { \\mathrm { r } } }$ 、 $P _ { \\mathrm { r } } < P _ { \\mathrm { e } }$ 等，但这两个源喷流内的物理过程可能是不一样的。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Society of the Pacific,1995,107(715): 803-845.   \n[2]孙建圆,郭燕飞,邓雪娇,李海凤,高志旭,王泽睿,谢照华,杜雷鸣.平谱射电类星体3C 279的宽带能谱光变特性分析[J].天文研 究与技术,2021,18(04):456-471.DOI:10.14005/j.cnki.isn1672-7673.20210917.001.SUNJY，GUOYF，DENGXJetal. Analyzingthe Variationsinthe SpectralEnergyDistributionoftheFlatSpectrumRadioQuasar3C279[J].AstonomicalResearch & Technology,2021,18(04):456-471.   \n[3] Chandra S,Boettcher M,Goswami P,et al.X-Ray Observations of 1ES $1 9 5 9 + 6 5 0$ in Its High-activity State in 2016-2017 with AstroSat and Swift[J]. The Astrophysical Journal,2021,918(2): 67.   \n[4]Acciari VAsoiS,ntolliAetal.uliwavelngtarablitdelatistuiesork4ingstocaly lowX-rayandγ-rayactivityin015-2016[J].MonthlyNoticesoftheRoyalAstronomicalSociety2021,504(1):1427-1451   \n[5]AcciariVioieoeasdtoceiy Mrk 421 in 2017[J].Astronomy& Astrophysics,2021,655:A89.   \n[6]UryCM,PadovaniP.Unifiedschemes forradio-loudactivegalacticnuclei[J].PublicationsoftheAstronomical Societyofthe Pacific,1995,107(715):803   \n[7]UlrichMH,MaraschiL,UryCM.Variabilityofactivegalacticnuclei[J].AnnualReviewofAstronomyandAstrophysics,1997, 35(1): 445-502.   \n[8]Balokovic M,PanequeD,MadejskiG,etal.Multiwavelength studyofquiescentstatesofMRK421 withunprecedentedhard $\\mathbf { X } \\cdot \\mathbf { \\partial }$ ray coverage provided by NuSTAR in 2013[J]. The Astrophysical Jourmal,2016,819(2): 156.   \n[9]PunchM,AkerlofCW,CawleyMF,etal.DetectionofTeVphotonsfromtheactiegalaxyMarkarian421[J].nature,1992, 358(6386): 477-478.   \n[10] 顾春霞,周明,王建成.Mrk 421和3C 454.3的射电与 $\\gamma$ 射线波段的光变研究[J].天文学进展,2013,31(04):509-518．GUCX， ZHOU M，WANG JC.The Variability Analysis of Radio and $\\gamma$ -Ray Fluxes for Mrk 421 and 3C 454.3[J].Astonomical Research& Technology,2013,31(04):509-518.   \n[11]AlbertJ,AliuE,AnderhubH,etal.ObservatiosofMarkarian41withtheAGCTelescopeJ].TheAstrophysicaloal, 2007,663(1): 125.   \n[12]AcciariVA,AiuE,ArlenT,etal.TeVandMulti-wavelength ObservationsofMrk421in06-2008[J].TheAstrosical Joumal,2011,738(1): 25.   \n[13]AleksicJAnsoliS,AntoneliL,etal.UnprecedentedsdyofthebroadbandeissnofMrk421uringfaringactivityin March 2010[J].Astronomy& Astrophysics,2015,578:A22   \n[14]MarkowitzAGNalewjkoKataGetal.apidX-rayvrabilityinMn4urngamultiwavelengthign[J]. Monthly Notices of the Royal Astronomical Society,2022,513(2): 1662-1679   \n[15]AleksicJ,AvarzEA,AntoeliLA,etal.Mrk42activestateinO8:the MAGCview,simultaneous multi-wavelgth observations and SSC model constrained[J].Astronomy & Astrophysics,2012,542:A100.   \n[16]ShuklaA,ChitnisVR,VishwanathPR,etal.MultiwavelengthstudyoftheTeVblazarMrk421duringagiantflare[J]. Astronomy& Astrophysics,2012,541:A140.   \n[17] ChenSZ,YanDH,Hou C,etal.A Multi-wavelength ViewofVHE Gamma RayFlares fromMrk421and Mrk501Observed by the ARGO-YBJExperiment[C]/International Cosmic Ray Conference.2013,33:2690.   \n[18]CaoG,WangJC.ParticleAcceleratioandEmisioProcesses inMrk421[J].PubicatiosofthestronoicalSocietyJapan 2013,65(5):109-109.   \n[19]Bartoli B,BemardiniP,BiXJ,etal.4.5Yearsof Multi-wavelength ObservationsofMRK421During theARGO-YBJand FERMI Common Operation Time[J]. The Astrophysical Journal Supplement Series,2016,222(1): 6.   \n[20]KapanadzeB,DoerD,VerceloneS,etal.X-rayFlaring ActivityofMRK421intheFirstHalfof23[J].TheAstrohsical Journal,2016,831(1):102.   \n[21]FraijaNenteE,rtDtalong-teticalpolarzatVbilitydmultiavelegthalyisaar4. The Astrophysical Journal Supplement Series,2017,232(1): 7.   \n[22]BanerjeeB,JoshiM,MajudarPetal.ime-dependentspectramodellngofMrkaran4duringaolentoutbrstJ]. MonthlyNoticesoftheRoalAstrooialSocety209,487(1):84-57.   \n[23]TANC,XUER,DULM,etal.ThephysicalpropertiesofFeri-4LACflatspectrumadiouasars[J].TheAstrophysicalJoural Supplement Series,2020,248(2): 27.   \n[24]YamadaYUemuraM,IoRetalVarationsofthepscalparametersofthebaarMrk4bsedoanalysisothtal energy distributions[J].Publications of the Astronomical Society of Japan,202o,72(3): 42.   \n[25]AbdoAAceeltal.egereaeoeetioofkaneingit spectral energy distribution[J].The Astrophysical Journal,2011,736(2):131.   \n[26]BartoliB,BerardiniP,BiXJ,etal.Long-term monitoringof theTeVemissionfrom Mrk421withtheARGO-YBJ experiment[J].The AstrophysicalJournal,2011,734(2):110.   \n[27]YanDH,Zeng HD,ZhangL.Thephysical propertiesofFermiBLLacobjects jets[J].MonthlyNoticesof theRoyal Astronomical Society,2014,439(3):2933-2942.   \n[28]GHISELLINIG,TAVECCHIOF,GHIRLANDA G.Jetandacretionpower inthe mostpowerful Fermi blazars[J].Monthly Notices of the Royal Astronomical Society,2009,399(4): 2041-2054   \n[29]GHISELLINIG,TAVECCHOF,FOSCHIL,etal.GeneralphysicalpropertiesofrightFeriblazars[J].MonthlyNotices of the Royal Astronomical Society,2010,402(1):497-518.   \n[30]AhnenML,Ansoldi S,AntoneliLA,etal.MultibandvariabilitystudiesandnovelbroadbandSEDmodelingofMrk 01in 2009[J].Astronomy & Astrophysics,2017,603:A31   \n[31]DingN,ZangX,XiongDR,etal.ephysicalpropertiesofFeriTeVBLacobjects'jets[J].onthlyNoticesofthRoyal Astronomical Society,2017,464(1): 599-612.   \n[32]KirkJGuffarticaeeratiodeatisticsocks[J].ualsGucleandarticleis,() R163   \n[3]VirtanJioseatioatisticaleksJ].troicaal,):   \n[34]SteckergliJrceleaodgacticcgodl Astrophysical Journal,2007,667(1): L29.   \n[35]GuoF,LiHugtonW,etalFmatioofdpowersineergeticparticlesectrasultingfroelatiisticaetic reconnection[J].Physical Review Letters,2014,1i3(15):155005.   \n[36]KinoM,TakaharaF,KusunoseM.EnergeticsofTeVblazarsandphysicalconstraintsontheiremisionregions[J].The Astrophysical Journal,2002,564(1): 97.   \n[37]FOSSATIG,MARASCHIL,CELOTTIA,etal.Aunifyngviewof thespectralenergydistributionsofblazars[J].Monthly Notices of the Royal Astronomical Society,1998,299(2): 433-448.   \n[38]TramacereA,MassroF,CavaliereASignaturesofschrotronemisioandofelectroaccelerationintheX-rayspctraof Mrk 421[J].Astronomy& Astrophysics,2007,466(2): 521-529.   \n[39]TramacereA,GommiP,PeriM,etalSwiftobservationsoftheveryintenseflaringactivityofMrk421during206. Phenomenologicalpictureofelectronacelerationand predictions forMeV/GeVemission[J].Astronomy&Astrophysics,2009, 501(3): 879-898.   \n[40] ZHANGJ,ZHANGSN,LIANGEW.Blazaranti-sequenceof spectral variation within individualblazars:cases forMrk501 and 3C 279[J].The Astrophysical Journal,2013,767(1): 8.   \n[41]Wang Y,ZhuS,XueY,etal.X-rayspectralvariationsofschrotronpeakinBLacs[J].TheAstrophysicalJoual,19, 885(1): 8.   \n[42]MassaroF,TramacereA,CavaliereA,etal.X-rayspectralevolutionofTeVBLLacertaebects:elevenyearsofobeations with BeppoSAX,XMM-Newton and Swift satellites[J].Astronomy & Astrophysics,2008,478(2):395-401.   \n[43]GhiselinG,veioFFosciLetal.GealpsicapropertisofghtFblaars[J.thlyNoticefal Astronomical Society,2010, 402(1): 497-518.   \n[44] Hu W,Yan D,Hu Q.Correlations between $\\gamma$ -ray luminosity and magnetization of the jet as well as relativistic electron injection power:cases forMrk421,3C454.3and3C279[J].MonthlyNoticesof theRoyalAstronomical Society,2021,503(2):52- 2538.   \n[45] Zhang J,Liang EW,Zhang S N,et al. RADIATION MECHANISMS AND PHYSICALPROPERTIES OF GeV-TeV BL Lac OBJECTS[J].The Astrophysical Journal,2012,752(2):157.   \n[46]AlbertA,AlfaroR,AlvarezC,etal.Long-terspectraoftheblazarsMrk42andMrk5OatTeVenergiesseebyHAWC[J]. The Astrophysical Journal, 2022,929(2):125. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Analyzing the Variations in the Spectral Energy Distribution of the BL Lac object Mrk 421 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Guo Yanfei1, Sun Jianyuanl Song Yujei1, Xu Yunbingl, Xie Zhaohual,Du Leimingl (1．School of Physics and Electronic Information, Yunnan Normal University,Kunming 65o5oo,China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The spectral energy distributions (SEDs) datas of Mrk421 are collected by our, a total of 73 states as research samples,and the single-region lepton model under the electron energy spectrum of the steady-state transition power law spectrum is applied. Then study the physical properties of Mrk421 jets during the light transition. Our main results are as folows: (1) there is an anticorrelation between magnetic B and Doppler $\\delta$ in the sample, indicating that magnetic B and Doppler $\\delta$ are interdependent in the Thomson region.(2) Electron spectral index $p _ { 1 }$ supports the interpretation of shock wave or magnetic reconnection during light variation of Mrk421.(3) There isaosieasos $l o g \\nu _ { s y n } ^ { p k }$ and the peak luminosity $l o g \\nu _ { s y n } ^ { p k } L _ { s y n } ^ { p k }$ ces $\\mathrm { M r k } 4 2 1$ during te igt change.(4) According to the equal partition parameter $\\varepsilon = U _ { e } / U _ { B }$ (the ratio of relativistic electron energy density to magnetic field energy density),the electron energy and magnetic field energy of $2 6 \\%$ of the states are nearly equal partition, The electron energy of $6 3 \\%$ of the states is an order of magnitude larger than the magnetic field energy, The electron energy of $1 1 \\%$ of the states is much larger than the magnetic field energy. This indicates that $\\mathrm { M r k } 4 2 1$ is more likely to have the phenomenon that the electron energy is one order of magnitude larger than the magnetic field energy during the light change. It also means that the jets in the Mrk421 are dominated by particles; The relationship from $P _ { \\mathrm { e } } > P _ { \\mathrm { B } }$ , it is further shown that the Mrk421 jets are particle-dominated, $P _ { \\mathrm { { B } } } \\lesssim$ $P _ { \\mathrm r }$ , meaning that the Poynting flux cannot account for the radiated power, The ranges of $P _ { \\mathrm { r } } / P _ { \\mathrm { e } }$ from 0.01 to 0.51,shows that a small fraction of the relativistic electron energy may be used for the observed radiation. (5) Some ranges of the physical parameters of 3C 279 and $\\mathbf { M r k } 4 2 1$ may be relatively similar, but the physical processes inside the jets ofthese two sources may not be the same. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Keywords: BL Lac object;Mrk 421； light variation",
+        "page_idx": 16
+    }
+]

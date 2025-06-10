@@ -1,0 +1,473 @@
+[
+    {
+        "type": "text",
+        "text": "Android应用程序中代码异味共存现象的实证研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "边奕心，王露颖，赵松，朱晓(哈尔滨师范大学 计算机科学与信息工程学院，哈尔滨 150025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：相对于单一类型的代码异味，代码异味共存现象更具危害性。已有实证研究大多聚焦于分析桌面应用程序中代码异味的共存现象，缺少对Android 应用程序中代码异味共存现象的研究。为了研究Android应用程序中代码异味的共存现象，并与桌面应用程序中代码异味共存现象进行比较，分别对285个Android应用程序和30个桌面应用程序进行检测，对检测出来的10种异味进行分析。分析方法如下：首先，根据检测结果计算受到多种异味影响的类的百分比。然后，使用公式计算代码异味共存的频率，最后，使用 Spearman相关系数分析代码异味共存与应用程序规模的关系。结论如下：a)在 Android 应用程序中受到一种以上代码异味共同干扰的类占有异味的类的总数的$3 1 . 0 4 \\%$ ；b)在两个平台的应用程序中，两对代码异味 Brain Class—Brain Method 和God Class—Brain Method 共存的频率较高；c)一种异味、两种异味共存、三种异味共存与Android应用程序的规模具有较强的相关性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：代码异味共存；Android应用程序；桌面应用程序；实证研究中图分类号：TP31 doi:10.19734/j.issn.1001-3695.2022.02.0060",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Empirical study on code smell co-occurrences in Android applications ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bian Yixin,WangLuying†,Zhao Song, Zhu Xiao (College ofComputer Science&Information Engineering,HarbinNormal University,Harbin150025,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Code smell co-occurences are more harmful to the systems than the individual smelltype.Although multiple research works have focusedonthecode smellco-occurrences in traditional desktop aplications,theresearchers pay less attention to thecodesmellco-ocurrences inAndroidaplications.Inorder tostudy thephenomenonofObject-Orientedcode smells co-occurrences in Android applications and ten compares it with the phenomenon ofcode smellco-occurences in desktop applications.Itanalyzed 10 Object-Oriented code smelltypes detected in 285 Android apps and 30 desktop apps. First,thepercentageofclasss affctedbyvarious kindsofsmelsiscalculatedaccording totedetectionresults.Second,the frequencyofcode smellco-occurrences isanalyzed witha formula.Finall,the Spearmancorrelation coefficientis used to analyzetherelationshipbetweencodesmellco-occurrencesandthesizeoftheapplication.Theresultsshow that:a)inAdroid applications, $3 1 . 0 4 \\%$ of smelly classes are affected by more than one type of code smells.b) In the applications of the two platforms,two pairs ofcode smels,BrainClass-Brain Methodand God Class-Brain Method,frequentlyco-occur.c)One type of smels,the co-occurrences of two types of smells,and the co-occurrences of three types of smellsare strongly correlated with the size of Android applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: code smell co-occurrences; Android applications; desktop applications; empirical study ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "代码异味(code smells)又被称为代码坏味道，是软件系统中存在设计缺陷的代码段[1]。代码异味共存(code smell co-occurrences)是指一个类中存在一种以上的代码异味。研究表明，相对于单一类型的代码异味，代码异味共存对系统更具威胁性[2]。Palomba等人[3]对传统桌面应用程序中的代码异味共存现象进行了实证研究，结果显示代码异味共存现象普遍存在于桌面应用程序中，而且在受异味干扰的类中，最多包含三种不同类型的代码异味。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着移动通信技术的迅猛发展，移动应用程序已经成为软件行业的发展主体。从2016年开始，全球移动应用程序下载量持续增长，2019年下载量超过2000亿次。2021年全球移动应用的下载量已经达到2300亿次，较2020年增加了120亿次。其中，Android应用程序的市场占有率占手机应用程序的 $80 \\%$ 以上，而iOS平台上的应用程序只占不到$20 \\%$ 。研究表明代码异味可以影响任何软件系统[4,5]，已有实证研究大多聚焦于分析桌面应用程序中代码异味的共存现象，缺少针对Android应用程序中代码异味共存现象的研究。因此，目前尚不清楚在Android应用程序中是否存在代码异味的共存现象？如果存在，对系统的影响程度如何？另外，由于传统桌面应用程序与Android应用程序在程序结构、API调用、内存、CPU、网络、电池等方面的诸多差异，Android应用程序中代码异味的共存现象与传统桌面应用程序中代码异味的共存现象之间会有哪些不同，也是未知？",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，本文采用实证研究方法分析Android应用程序中代码异味的共存现象，并与传统桌面应用程序中代码异味共存现象进行对比。通过实证研究，结论如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a)Android应用程序中存在代码异味共存现象，其中，受代码异味影响的类中有 $3 1 . 0 4 \\%$ 的类受到一种以上代码异味的共同干扰。在这些含有共存异味的类中， $0 . 0 5 \\%$ 的类受到6种代码异味的共同干扰，因此，在Android应用程序中，虽然受到多种代码异味共同干扰的类的比例并不大，但这种现象对系统的危害程度却很严重。相对于Android应用程序，桌面应用程序中的代码异味共存现象则更为普遍，其对系统的危害程度也高于Android应用程序。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）在Android应用程序中，两对代码异味BrainClass—Brain Method 和 God Class一Brain Method 共同发生的频率高于其他异味。在桌面应用程序中，三对代码异味BrainClass—Brain Method、God Class-Brain Method 和RefusedParentBequest一BrainMethod共同发生的频率高于其他异味，由此可见，两对代码异味BrainClass一BrainMethod和GodClass一BrainMethod在两个平台的应用程序中都易于共存。此外，两个平台的应用程序中，共存的代码异味之间并不是一一对应的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)代码异味共存现象与Android应用程序的规模存在相关性。即应用程序的规模越大，其中含有一种异味的类数量、同时含有两种异味的类数量和同时含有三种异味的类数量越多，而同时含有四种、五种和六种异味的类数量与程序规模不相关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上研究结论有助于Android应用程序的研究者和工具开发者加深对代码异味的认识，从而更有效的处理代码异味共存对Android应用程序的负面影响，降低维护成本，提高Android应用程序的质量。对于研究人员，异味之间的共存关系有助于异味检测与重构的研究，研究人员在研究异味检测时不仅要考虑单个异味的检测方法，还要考虑异味之间的依赖关系，研究异味共存的检测方法。此外，研究人员在对Android应用程序的异味进行重构时，不仅要考虑单个异味的重构方式，还要考虑异味之间的依赖关系。利用这种依赖关系研究异味的调度顺序，从而节省重构的时间，提高重构的准确性和效率，最终目的是提高Android应用程序的质量。对于工具的开发者，可以利用异味之间的依赖关系进行异味的重构，即最先重构那些共存频率较高的异味，从而节省开发的时间成本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1Android应用程序中的代码异味",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fowler等人[1最先提出了22种代码异味并给出相应的重构方法。随着移动设备的迅速发展，移动应用程序已经成为软件行业的发展主体。许多学者的关注点已经从传统的桌面应用程序转移到Android应用程序。Mannan等人[6通过对比Android应用程序和桌面应用程序中的代码异味，通过实证方法研究不同平台下代码异味的差异。Rahkema等人[7]通过对比iOS应用程序和Android应用程序发现，除了一种代码异味Distorted hierarchy之外，在Android应用程序中存在的代码异味也发生在iOS应用程序中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究表明，不同于传统的桌面应用程序，Android应用程序中还存在一些Android 特有的代码异味。Reimann 等人[8]提出了30种Android特有的代码异味，这些异味主要对Android应用程序的非功能属性产生干扰。继Reimann之后，越来越多的学者从不同角度对Android特有代码异味展开研究。Habchi等人[9]通过分析8种不同的Android特有代码异味，研究其产生的原因，进化规律和移除方法。Rasool 等人[10]开发了一个Android特有代码异味的检测工具DAAP，这个工具可以检测出25种Android特有的代码异味。本文研究Android应用程序中面向对象代码异味的共存现象，不包括Android特有代码异味。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上文献都是针对单个类型的代码异味展开研究，缺少对Android应用程序中代码异味共存现象的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2代码异味共存 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "代码异味共存是指在同一个类或方法中，包含两种或两种以上的代码异味[1I]。Pietrzak等人[12]最早发现了代码异味共存现象，他们定义了六种代码异味共存关系，并对共存的代码异味之间的依赖关系进行了深入研究。Yamashita[13]和Sjoberg[14]等人认为代码异味的共存降低了系统的可维护性，需要通过重构解决问题。Palomba等人[2.3]对30个桌面应用程序的395个软件版本进行了实证研究，结果表明代码异味共存现象普遍存在于桌面应用程序中，并且，与受一种异味影响的类相比，受多种代码异味共同影响的类更易发生改变和产生错误。Martins 等人[11]通过分析3个Java闭源软件的11个版本，研究代码异味共存现象对系统内部质量属性的影响。结果显示，通过重构消除代码异味的共存可以降低系统的复杂性。以上文献都是研究传统的桌面应用程序中代码异味的共存现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hamdi等人[15]对Android应用程序中的代码异味共存现象进行了实证研究，他们分析了15种类型的Android特有代码异味和10种面向对象代码异味。结果表明，代码异味共存现象在Android应用程序中比较普遍，并列出了14对共存频率较高的代码异味对。尽管Hamdi等人综合考虑了两种类型的代码异味共存，但是，他们的研究还存在以下不足：首先，他们并未对检测工具的输出结果进行人工复检，因此，研究结果取决于工具的输出结果。而通常情况下，代码异味检测工具都会存在一定程度的误检和漏检现象[15]。其次，他们并未探讨代码异味共存现象与Android应用程序的规模之间的相关性。是否代码量越大，共存的异味就越多？此外，由于Android应用程序与传统桌面应用程序的诸多差异，这种共存现象在不同平台的应用程序中会发生怎样的变化？Hamdi等人并未涉及该问题。而Mannan等人[的研究表明，对比研究两种平台的代码异味之间的差异性具有实际意义。最后，共存的异味之间是简单的一一对应关系还是存在其他关系，Hamdi等人并未说明？这种关系直接影响到后续异味的重构研究，因为代码异味检测的目的是为了最终移除异味，提高程序的质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，本文采用实证研究方法分析Android应用程序中代码异味的共存现象，并与传统桌面应用程序中代码异味共存现象进行对比。相对于单一的代码异味，异味之间的共存反映了异味之间的依赖关系，分析这种依赖关系，可以加深人们对代码异味的认识，更好的理解异味产生的原因，从而在开发之初，有意识的避免引入代码异味。在软件维护阶段，可以利用异味间的依赖关系，研究检测异味共存的方法及重构方法，从而最大限度降低代码异味对系统的危害。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 实证研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1研究问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析Android应用程序的源代码，研究Android应用程序中代码异味的共存现象，围绕这个目标，提出以下3个研究问题(RQs):",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RQ1：在Android应用程序中是否存在代码异味共存现象？若存在，其共存程度如何？与桌面应用程序中的代码异味共存程度相比，有何不同？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RQ2：在Android应用程序中，哪几种代码异味更倾向于共存？这种情况与桌面应用程序中的代码异味共存相比，有哪些不同？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RQ3：代码异味共存现象与Android应用程序的规模之间是否存在相关性？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2实验对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1应用程序的选取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文选取285个Android应用程序和30个桌面应用程序作为实验对象。其中，285个Android应用程序的选择标准如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）首先，在AndroZooOpen[16]中选出 539个开源Android应用程序。AndroZooOpen 是一个开源的数据集，目前包含76466个Android应用程序。AndroZooOpen中包含由不同语言开发的Android应用程序，本文选择Java语言开发的程序。原因如下：Java 是目前移动应用软件开发的主流语言之一，并且针对Java的代码异味检测工具较多且易于获取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）然后，使用开源工具RepoReapers[17]去除低质量的Android项目。RepoReapers可以从8个方面对数据集中的程序质量进行评分(分别是体系结构、社区、持续集成、文件、提交历史、许可证、问题和单元测试)。如果待选程序在7个方面的评分均大于零，则选取该程序。经过RepoReapers筛选之后，选出321个Android应用程序作为候选程序。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）最后，为了保证所选Android应用程序种类的多样性，本文根据GooglePlay Store 对应用程序的分类[18,19]将待选Android项目分为6个类别，分别是：开发、影音、社交通信、家庭和教育、安全和通用以及其他，每种类别所占比例如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/064d5ce074837308489cf179c1c7dfa4f36f501a383de1afb7057cc166aa86f2.jpg",
+        "img_caption": [
+            "图1285个Android应用程序所属类别及比例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最终，经过以上筛选过程，最后收集了285个Android应用程序作为实验对象，共计34617个类、315634个方法、2701826行代码。此外，还需选取一定数量的桌面应用程序作为对比研究的另一实验对象。本文选取Palomba等人[3]在研究传统桌面应用程序中代码异味共存现象时，所使用的30个开源数据集，共计43257个类、436299个方法以及4948368个方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2代码异味检测工具",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用代码异味检测工具iPlasma对所选应用程序进行异味检测。目前，主流的代码异味检测工具主要有以下七个，iPlasma、inFusion、Checkstyle、JDeodorant、PMD、DECOR和StenchBlossom[20]。Fontana[20]等人的研究结果表明，在这七个检测工具中iPlasma 和inFusion 是可检测代码异味种类最多的两个工具。Mannan等人[的研究表明，用于检测桌面应用的检测工具，同样可检测Android应用程序中的代码异味。尽管inFusion声称可以检测出Fowler提出的22种代码异味，但是，Rahkema等人[7]的研究表明，inFusion代码异味检测工具目前已经无法获取。此外，Reis等人[21]的研究结果显示，$5 . 8 \\%$ 的研究使用inFusion进行检测， $1 5 . 4 \\%$ 的研究使用iPlasma对代码异味进行检测。因此，本文选用iPlasma检测异味。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3代码异味的选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取的10种代码异味如表1所示。这10种代码异味经常被用于异味的相关研究中[6，并且本文使用的检测工具iPlasma可以检测这10种代码味道。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3实验流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验过程如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/78ca25a6038f6fae453c3bc03940f0e88928bafa5733c750c531f0e9817aec16.jpg",
+        "img_caption": [
+            "Fig.1Categories and proportions of 285 Android applications ",
+            "图2代码异味及共存情况收集过程",
+            "Fig.2 Code smell and co-occurrences collection process 在确定好实验对象后，执行以下步骤： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）代码异味检测：使用代码异味检测工具iPlasma分别对2.2.1节选出的285个Android应用程序和30个桌面应用程序进行检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）手动检查检测结果：尽管iPlasma的检测结果准确度很高，但是，由于其检测规则本身的局限性，会产生一定数量的误检。因此，本文采用人工复检方法，对工具输出的代码异味进行筛查。招募了4名志愿者，其中，1名为计算机专业的硕士研究生，3名为计算机专业的本科生。将4名同学分为两组，其中，2名同学独立对285个Android应用程序中代码异味的检测结果进行检查，另外2名同学独立对30个桌面应用程序中的代码异味的检测结果进行检查。人工复查具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)对4名同学进行一定的培训，使其对代码异味有较深入的认识，理解并可以根据研究所涉及的10种代码异味的相关描述，准确地找到应用程序中所存在的异味；(b）每名同学逐一检查所有原文件，参照代码异味定义，逐一检查源代码文件中的代码异味，并记录结果；(c）当两组同学均完成人工分析后，使用Cohen'skappa[22]系数分析每组中的两位同学对异味检测的一致性。本研究中Cohen'skappa 系数0.63；。(d）与工具输出结果及报告的异味所在文件路径进行比对，并对存在意见不一致的结果进行复检，达成一致意见后，记录数据。c）记录代码异味检测结果：根据人工复检结果，记录代码异味相关信息，例如其所在类\\方法名等。再将存在共存的类\\方法单独记录，用于后续研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/688882e85c1935701a3498b6704fca95c5761e4ec26e741571abdd3e511c01dd.jpg",
+        "table_caption": [
+            "表1代码异味的描述",
+            "Tab.1Description of code smells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>#</td><td>代码异味</td><td>描述</td></tr><tr><td>1</td><td>God Class(GC)</td><td>一个大而复杂的类，它通常集中了许多功能</td></tr><tr><td>2</td><td>Data Class(DC)</td><td>一个只有状态没有行为的类</td></tr><tr><td>3</td><td>Brain Class(BC)</td><td>一个集中过多功能的类，通常受到Brain Method 的影响</td></tr><tr><td>4</td><td>Feature Envy(FE)</td><td>当一个方法对其他类的特性比它自己类的更感兴时，就会出现这种异味</td></tr><tr><td>5</td><td>Brain Method(BM)</td><td>倾向于集中整个类的功能的方法</td></tr><tr><td>6</td><td>Intensive Coupling(IC)</td><td>从其他类调用多个方法的方法</td></tr><tr><td>7</td><td>Extensive Coupling(EC)</td><td>调用多个类的一个或多个方法的方法</td></tr><tr><td>8</td><td>Shotgun Surgery(SS)</td><td>系统一个地方的改变，涉及到了许多其他地方的相关变化</td></tr><tr><td>9</td><td>Tradition Breaker(TB)</td><td>当派生类打破其基类为系统的其他部分提供的服务的继承原则，并提供了一组与其基类提供的服务无关的服务时，就会出现这种异味</td></tr><tr><td>10</td><td>Refused Parent Bequest(RPB)</td><td>派生类很少或没有使用其基类定义的特定于继承的成员时，就会出现这种异味</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验一：为了回答RQ1，首先根据检测结果计算出每个类中包含的代码异味数量。然后，计算受一种代码异味和多种代码异味影响的类的百分比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验二：RQ2主要研究Android应用程序中代码异味共存的频率。本文使用Palomba等人提出的公式[3]计算异味的共存频率，如式(1)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc o - o c c u r r e n c e s _ { c s i , j } = \\frac { \\left| \\mathit { c s i } \\wedge c s _ { j } \\right| } { \\left| \\mathit { c s i } \\right| } , \\ : \\ : \\ : \\mathrm { \\textmu } \\mathrm { \\textmu } \\mathrm { \\Sigma } \\mathrm { \\Sigma } \\mathrm { \\Sigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，CS 和 $C S _ { j }$ 分别表示不同种类的代码异味，分子 $| C S _ { i } \\land C S _ { j } |$ 表示代码异味 $C S _ { i }$ 和 $C S _ { j }$ 共同发生的总次数，分母|CS表示代码气味CS出现的总次数。如果将公式中的i和j交换后，所得的结果是不同的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验三：为了回答RQ3，本文使用 Spearman 相关性系数分析代码异味共存现象与Android应用程序规模之间的关系。这里，使用类的数量、方法的数量和代码行数表示Android应用程序的规模。本文使用Cohen提供的一套解释相关系数的指南[20]，用以判断代码异味共存现象与Android应用程序规模之间相关性的强弱程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 研究结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RQ1：表2列出了两个平台中代码异味共存的情况。根据表2的结果可以看出：在Android应用程序中同样存在代码异味共存现象。其中，受到一种以上代码异味共同干扰的类占含有异味的类的总数的 $3 1 . 0 4 \\%$ ，在这些含有共存异味的类中， $2 1 . 7 3 \\%$ 的类受到两种代码异味的干扰，占比最大。此外，受到三种、四种、五种以及六种代码异味共同干扰的类分别占 $6 . 6 4 \\%$ 、 $2 . 2 1 \\%$ 、 $0 . 3 7 \\%$ 和 $0 . 0 9 \\%$ 。从表2中还可以看出Android应用程序中代码异味共存程度较桌面应用程序要高出 $1 . 3 4 \\% ( = 3 1 . 0 4 \\% - 2 9 . 7 0 \\% )$ 。Palomba等人[14]通过对30个桌面应用程序的395个软件版本进行实证研究，通过分析其中的13种代码异味发现在桌面应用程序中最多只受到三种代码异味共存的影响。而本则在30个桌面应用程序中发现了四种、五种、六种代码异味共存的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RQ2：表3列出了10种代码异味在Android应用程序中共同发生的频率。由表3可知，在Android应用程序中，两对代码异味共存的频率高于其他异味，这两对异味是：BrainClass一BrainMethod和GodClass—BrainMethod。其中，受到BrainClass干扰的类中有 $61 \\%$ 的类同时受到异味BrainMethod的干扰，受到GodClass干扰的类中有 $1 7 \\%$ 的类同时受到异味BrainMethod的干扰。此外，共存的代码异味之间并不是一一对应的关系，例如，在Android应用程序 toposuite 的一个类中，存在8个Feature Envy 实例和8 个Intensive Coupling 实例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4列出了10种代码异味在桌面应用程序中共同发生的频率。如表4所示，在桌面应用程序中，BrainMethod更倾向于和其他代码异味共同发生。其中，三对代码异味发生共存的频率高于其他异味，这三对异味是：Brain Class—BrainMethod、God Class-Brain Method 和Refused Parent Bequest—BrainMethod。此外，与Android应用程序相似，这些共存的代码异味之间并不是一一对应的关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fdd779ea46dbcb2c28f480ff50e7aadae717510e773e60d643f27fb9991956c.jpg",
+        "table_caption": [
+            "Tab.2Proportion of classes that are disturbed by oneto six code smells ",
+            "表3在Android应用程序中代码异味共同发生的频率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">异味干扰的类</td><td colspan=\"2\">Android</td><td colspan=\"2\">桌面</td></tr><tr><td>总数</td><td>占比</td><td>总数</td><td>占比</td></tr><tr><td>受一种代码异味影响的类</td><td>5376</td><td>68.96%</td><td>5718</td><td>70.30%</td></tr><tr><td>受两种代码异味影响的类</td><td>1694</td><td>21.73%</td><td>1263</td><td>15.53%</td></tr><tr><td>受三种代码异味影响的类</td><td>518</td><td>6.64%</td><td>691</td><td>8.50%</td></tr><tr><td>受四种代码异味影响的类</td><td>172</td><td>2.21%</td><td>307</td><td>3.77%</td></tr><tr><td>受五种代码异味影响的类</td><td>29</td><td>0.37%</td><td>124</td><td>1.52%</td></tr><tr><td>受六种代码异味影响的类</td><td>7</td><td>0.09%</td><td>31</td><td>0.38%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a6e6f21bc4dceec81e5313bfa6133bf2eda1f0c7cd7e61d5ab21cd85bcaac06.jpg",
+        "table_caption": [
+            "表2受到一种至六种代码异味干扰的类的占比",
+            "Tab.3The frequency of code smell co-occurring in Android applications "
+        ],
+        "table_footnote": [
+            "注：表格中的字体加粗数据，是共同发生频率 $> 1 0 \\%$ 的代码异味"
+        ],
+        "table_body": "<html><body><table><tr><td>ij</td><td></td><td>2DC2</td><td>BC</td><td>(54)</td><td>(B44)</td><td>(132)</td><td>EC</td><td>(s27)</td><td>TB</td><td>(2B</td></tr><tr><td>G</td><td></td><td>0%</td><td>0%</td><td>168%</td><td>17%</td><td>34</td><td>1</td><td>4</td><td>1の</td><td>13)</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(2C2)</td><td>0%</td><td></td><td>0%</td><td>3</td><td>2%</td><td>1%</td><td>0%</td><td>3%</td><td>0%</td><td></td></tr><tr><td>BC</td><td>0%</td><td></td><td></td><td></td><td>61%</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(295)</td><td></td><td>0%</td><td></td><td>0%</td><td>(181)</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>FE</td><td>5%</td><td>2%</td><td>0%</td><td></td><td>3%</td><td>3%</td><td>1%</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>(3854)</td><td>(184)</td><td>(66)</td><td></td><td></td><td>(132)</td><td>(107)</td><td>(18)</td><td>(9)</td><td></td><td>(5)</td></tr><tr><td>BM</td><td>8%</td><td>2%</td><td>7%</td><td>5%</td><td></td><td>5%</td><td>1%</td><td>1%</td><td>0%</td><td>0%</td></tr><tr><td>(2474)</td><td>(207)</td><td>(54)</td><td>(183)</td><td>(132)</td><td></td><td>(121)</td><td>(22)</td><td>(13)</td><td></td><td></td></tr><tr><td>IC</td><td>3%</td><td>2%</td><td>0%</td><td>8%</td><td>10%</td><td></td><td>0%</td><td>0%</td><td>1%</td><td>0%</td></tr><tr><td>(1332)</td><td>(41)</td><td>(29)</td><td></td><td>(104)</td><td>(128)</td><td></td><td>(5)</td><td>(6)</td><td>(13)</td><td></td></tr><tr><td>EC</td><td>4%</td><td>0%</td><td>0%</td><td>6%</td><td>9%</td><td>2%</td><td></td><td>2%</td><td>0%</td><td>0%</td></tr><tr><td>(247)</td><td>(9)</td><td></td><td></td><td>(15)</td><td>(22)</td><td>(4)</td><td></td><td>(4)</td><td></td><td></td></tr><tr><td>SS</td><td>3%</td><td>4%</td><td>0%</td><td>1%</td><td>1%</td><td>0%</td><td>0%</td><td></td><td>0%</td><td></td></tr><tr><td>(1627)</td><td>(49)</td><td>(68)</td><td></td><td>(10)</td><td>(14)</td><td>(3）</td><td>(4)</td><td></td><td>(4)</td><td>0%</td></tr><tr><td>TB</td><td>6%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>13%</td><td></td><td>5%</td><td></td><td>30%</td></tr><tr><td>(87)</td><td>(5)</td><td></td><td></td><td></td><td></td><td>(11)</td><td>0%</td><td>(4)</td><td></td><td>(26)</td></tr><tr><td>RPB</td><td>102)</td><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td><td>15%</td><td></td></tr><tr><td></td><td></td><td></td><td>0%</td><td>3</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3602fd92727eac90c421225d075668017e1bd2b5c93038118bc3e9a00bcc3bac.jpg",
+        "table_caption": [
+            "Tab.4The frequency of code smell co-occurring "
+        ],
+        "table_footnote": [
+            "注：表格中的字体加粗数据，是共同发生频率 $51 0 \\%$ 的代码异味"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">i/j</td><td rowspan=\"2\">GC</td><td>DC</td><td>BC</td><td>FE</td><td>BM</td><td>IC</td><td>EC</td><td>SS</td><td>TB</td><td>RPB</td></tr><tr><td>(1095)</td><td>(648)</td><td>(1025)</td><td>(1967)</td><td>(1839)</td><td>(874)</td><td>(1817)</td><td>(112)</td><td>(426)</td></tr><tr><td>GC</td><td></td><td>(2064)</td><td></td><td>6%</td><td>15%</td><td>3%</td><td>2%</td><td>6%</td><td></td><td>1%</td></tr><tr><td>(1095)</td><td></td><td>0%</td><td>0%</td><td>(62)</td><td>(164)</td><td>(37)</td><td>(23)</td><td>(68)</td><td>0%</td><td>(16)</td></tr><tr><td>DC</td><td>0%</td><td></td><td>0%</td><td>1%</td><td>5%</td><td>2%</td><td>2%</td><td>3%</td><td></td><td>0%</td></tr><tr><td>(2064)</td><td></td><td></td><td></td><td>(28)</td><td>(96)</td><td>(46)</td><td>(41)</td><td>(67)</td><td>0%</td><td>(8)</td></tr><tr><td>BC</td><td>0%</td><td>0%</td><td></td><td>0%</td><td>51%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>(648)</td><td></td><td></td><td></td><td></td><td>(329)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FE</td><td>6%</td><td>3%</td><td>0%</td><td></td><td>10%</td><td>12%</td><td>2%</td><td>1%</td><td>0%</td><td>1%</td></tr><tr><td>(1025)</td><td>(64)</td><td>(31)</td><td>5%</td><td></td><td>(96)</td><td>(123)</td><td>(19)</td><td>(12)</td><td>(4)</td><td>(11)</td></tr><tr><td>BM</td><td>8%</td><td>5%</td><td></td><td>1%</td><td></td><td>3%</td><td>1%</td><td>0%</td><td>0%</td><td>1%</td></tr><tr><td>(1967)</td><td>(164)</td><td>(92)</td><td>(92)</td><td>(27)</td><td></td><td>(59)</td><td>(18)</td><td>(7)</td><td></td><td>(21)</td></tr><tr><td>IC</td><td>1%</td><td>1%</td><td>0%</td><td>4%</td><td>7%</td><td></td><td>0%</td><td>0%</td><td>0%</td><td>1%</td></tr><tr><td>(1839)</td><td>(22)</td><td>(26)</td><td></td><td>(65)</td><td>(121)</td><td></td><td>(5)</td><td></td><td></td><td>(13)</td></tr><tr><td>EC</td><td>1%</td><td>3%</td><td>0%</td><td>2%</td><td>4%</td><td>1%</td><td></td><td></td><td></td><td>0%</td></tr><tr><td>(874)</td><td>(11)</td><td>(24)</td><td></td><td>(14)</td><td>(33)</td><td>(7)</td><td></td><td>0%</td><td>0%</td><td>(3)</td></tr><tr><td>SS</td><td>1%</td><td>1%</td><td>0%</td><td>0%</td><td>1%</td><td></td><td></td><td></td><td>0%</td><td></td></tr><tr><td>(1817)</td><td>(19)</td><td>(16)</td><td></td><td>(5)</td><td>(11)</td><td>0%</td><td>0%</td><td></td><td>(4)</td><td>0%</td></tr><tr><td>TB</td><td>0%</td><td>0%</td><td>0%</td><td>3%</td><td>0%</td><td></td><td></td><td>6%</td><td></td><td>10%</td></tr><tr><td>(112)</td><td></td><td></td><td></td><td>(3)</td><td></td><td>0%</td><td>0%</td><td>(7)</td><td></td><td>(11)</td></tr><tr><td>RPB</td><td>4% (15)</td><td>2% (8）</td><td>0%</td><td>3%</td><td>17%</td><td>4%</td><td>1%</td><td>0%</td><td>5% (22)</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合表3和4可以看出，在两个平台的应用程序中，Brain Class-BrainMethod 和GodClass—BrainMethod两对代码异味共存的频率都较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RQ3：如表5所示，由于在Android应用程序中五种、六种代码异味共存的程度均不足 $1 \\%$ 。因此，此处不考虑五种和六种代码异味共存现象与Android应用程序规模之间的关系。如表5所示，一种代码异味、两种代码异味共存、三种代码异味共存现象与Android项目规模具有较强的相关性(即项目规模越大，项目中含有一种代码异味的类、同时含有两种代码异味的类和同时含有三种代码异味的类的数量越多)，四种代码异味共存现象与Android应用程序的规模具有中等程度的相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2206338099e02d8fc1c4b8fe81c3d7a46abfd3dd95770d67f768279b1d0d5274.jpg",
+        "table_caption": [
+            "表4桌面应用程序中代码异味共同发生的频率",
+            "表5代码异味共存现象与Android项目规模的相关性",
+            "Tab.5The correlation between the code smell co-occurrences and the scale of the Android project "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">代码异味共存</td><td rowspan=\"2\">最多</td><td rowspan=\"2\">最少</td><td colspan=\"2\">类</td><td colspan=\"2\">方法</td><td colspan=\"2\">代码行</td><td rowspan=\"2\">相关性</td></tr><tr><td>r</td><td>p-value</td><td>r</td><td>p-value</td><td>r</td><td>p-value</td></tr><tr><td>一种代码异味</td><td>127</td><td>0</td><td>0.87</td><td><0.01</td><td>0.89</td><td><0.01</td><td>0.88</td><td><0.01</td><td>强</td></tr><tr><td>两种代码异味共存</td><td>28</td><td>0</td><td>0.79</td><td><0.01</td><td>0.82</td><td><0.01</td><td>0.86</td><td><0.01</td><td>强</td></tr><tr><td>三种代码异味共存</td><td>15</td><td>0</td><td>0.52</td><td><0.01</td><td>0.51</td><td><0.01</td><td>0.52</td><td><0.01</td><td>强</td></tr><tr><td>四种代码异味共存</td><td>7</td><td>0</td><td>0.38</td><td><0.01</td><td>0.49</td><td><0.01</td><td>0.50</td><td><0.01</td><td>中</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对Android应用程序中代码异味的共存现象进行了深入分析。本文与代码异味共存领域相关研究的最大区别在于，首次对Android应用程序中的代码异味共存现象进行深入的实证研究。根据本文实证研究的结果发现，在Android应用程序中确实存在代码异味共存现象，其中受到一种以上代码异味共同干扰的类占含有异味的类的总数的 $3 1 . 0 4 \\%$ 。通过对比Android和桌面两个平台的应用程序，分析其中的代码异味共存现象发现，BrainClass—BrainMethod和GodClass—BrainMethod这两对代码异味共存的频率相对较高。此外，研究还发现异味共存与Android应用程序的规模存在相关性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体而言，实证研究结果有助于Android应用程序的开发人员和维护人员加深对其中代码异味的认识，从而更有效的处理代码异味共存现象对Android应用程序的负面影响，降低开发和维护成本，提高Android应用程序的质量。但是，本研究还存在以下待改进的空间：还可以选取更多具有代表性的开源Android应用程序甚至商用软件；还可以考虑分析更多种代码之间的共存现象等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在后续的研究中，将扩大实证研究的规模，分析更多的Android应用程序，研究代码异味共存现象。以及探索由其他语言(如Kotlin)开发的项目中是否存在代码异味共存现象及其对程序的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Martin Fowler.重构：改善既有代码的设计[M]．熊节，林从羽，译. 2版．北京：人民邮电出版社，2019.(Martin Fowler.Refactoring: improving the design of existing code [M]. translated by Xiong jie,Lin congyu.2nd ed.Beijing:Posts&Telecom Press,2019.)   \n[2]PalombaF,Bavota G,PentaDM,et al.On the diffuseness and the impact on maintainability of code smells:a large scale empirical investigation [J].Empirical Software Engineering,2018,23 (3):1188-1221.   \n[3]Palomba F,Bavota G,Penta D M,et al.Alarge-scale empirical study on the lifecycle of code smell co-occurrences [J].Information and Software Technology,2018,99:1-10.   \n[4]Macia I,Garcia J,Popescu D,et al.Are automatically-detected code anomalies relevant to architectural modularity?An exploratory analysis of evolving systems [C]// Proc of the 1lth annual international conference on Aspect-oriented Software Development.2012:167-178.   \n[5]Oizumi W,Garcia A,SousaL S,et al.Code anomalies flock together: Exploring code anomaly agglomerations for locating design problems [C]// Proc of IEEE/ACM 38th International Conference on Software Engineering (ICSE).IEEE,2016: 440-451.   \n[6]Mannan UA,Ahmed I,Almurshed RA M,et al. Understanding code smells in android applications [C]//Proc of IEEE/ACM International ConferenceonMobileSoftwareEngineeringandSystems (MOBILESoft).IEEE,2016:225-236.   \n[7]Rahkema K,Pfahl D.Comparison of Code Smells in iOS and Android Applications [C]//Proc of QuASoQ $@$ APSEC.2020:79-86.   \n[8]Jan Reimann,Martin Brylski,Uwe Assmann.A tool-supported quality smell catalogue for android developers [C]// Proc of the conference Modellierung in the Workshop Modellbasierte und modellgetriebene Softwaremodernisierung-MMSM.2014,2014.   \n[9]Habchi S,Moha N,Rouvoy R.Android code smells:From introduction to refactoring [J]. Journal of Systems and Software,2021,177: 110964.   \n[10] Rasool G,Ali A．Recovering Android Bad Smells from Android Applications [J].Arabian Journal for Science and Engineering,2020,45 (4):3289-3315.   \n[11] Martins J S,Bezerra CI M,Uchóa A,et al.Are code smell cooccurrences harmful to internal quality attributes?a mixed-method study [C]// Proc of the 34th Brazilian Symposium on Software Engineering. 2020:52-61.   \n[12] Pietrzak B,Walter B.Leveraging code smell detection with inter-smell relations[C]//Procof International Conferenceon Extreme Programming and Agile Processes in Software Engineering. Springer, Berlin,Heidelberg,2006:75-84.   \n[13] YamashitaA,Moonen L.Exploring the impact of inter-smell relations on software maintainability:An empirical study [C]// Proc of the 35th International Conference on Software Engineering(ICSE) .IEEE,2013: 682-691.   \n[14] Sjoberg DIK,YamashitaA,Anda BCD,et al. Quantifying the effect of code smells on maintenance effort [J].IEEE Trans on Software Engineering,2012,39 (8): 1144-1156.   \n[15] Hamid O, Ouni A,AlOmar EA,et al.An empirical study on code smells co-occurrences in android applications [C]//Proc of the 36th IEEE/ACM International Conferenceon Automated Software Engineering Workshops.2021:26-33.   \n[16] Liu Pei,Li Li, Zhao Yanjie,et al. Androzooopen: Collecting large-scale open source android apps for the research community [C]//Proc of the 17th International Conference on Mining Software Repositories.2020: 548-552.   \n[17] Munaiah N,Kroh S,Cabrey C,et al.Curating github for engineered software projects [J].Empirical Software Engineering,2017,22 (6): 3219-3253.   \n[18] Ahmed I, Mannan UA,Gopinath R,et al. An empirical study of design degradation: How software projects get worse over time [C]// Proc of ACM/IEEEInternationalSymposium onEmpiricalSoftware Engineering and Measurement (ESEM) .IEEE,2015:1-10.   \n[19] SouzaLBL,Maia MA.Do software categories impact coupling metrics? [C]// Proc of the 1Oth Working Conference on Mining Software Repositories(MSR).IEEE,2013:217-220.   \n[20] Fontana FA,Braione P, Zanoni M.Automatic detection of bad smells in code: An experimental assessment [J].Journal of Object Technol.,2012, 11 (2): 5: 1-38.   \n[21] Reis JP,Abreu FB,Carneiro GF,et al.Code Smells Detection and Visualization:A Systematic Literature Review [J].Archivesof Computational Methods in Engineering,2021:1-48.   \n[22] Cohen，J.A Coefficient of Agreement for Nominal Scales [J]. Educational & Psychological Measurement,1960,20(1):37-46. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

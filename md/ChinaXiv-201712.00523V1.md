@@ -1,0 +1,130 @@
+# 基础研究
+
+# 黄芩素通过WNT/β-catenin信号通路促进大鼠腱骨愈合
+
+江华基²,江小成'，贺飞林'，廖小卿',张文涛'，张新涛}  
+1北京大学深圳医院运动医学与康复科,广东 深圳 510086;南方医科大学第三附属医院骨科,广东广州  
+510000
+
+摘要：目的探讨黄芩素对大鼠腱骨愈合的作用及相关分子机制。方法取40只8周龄的雄性SD大鼠，随机分为对照组（ $\scriptstyle n = 2 0$ 和实验组 $\scriptstyle { \overbrace { n = 2 0 } }$ 。两组动物均行大鼠腱骨愈合模型造模。实验组大鼠灌胃黄芩素 $1 0 \mathrm { m g / ( k g \cdot d ) }$ ,对照组灌胃等量的生理盐水。术后3周、6周各处死10只大鼠并取材,通过生物力学、组织学观察各组腱骨愈合的程度。此外，体外培养原代大鼠肌腱干细胞,加入不同浓度 $\mathrm { ( 0 . 0 . 1 . 1 . 1 0 \mu m o l / L }$ )的黄芩素处理,14d后分别进行ALP、茜素红染色。Q-PCR、WesternBlot检测Runx2、OSX、OCN、一型胶原以及 $\beta$ -catenin的变化。随后，在肌腱干细胞中加入 $1 0 \ \mathrm { \textmu m o l { } / L }$ 的黄芩素,并且加入 $\mathrm { W N T / \beta }$ -catenin通路抑制剂DKK-1共培养,14d后收集蛋白行Westerm Blot检测,观察β-catenin、Runx2以及OCN蛋白表达的变化。结果 生物力学结果显示术后3周和术后6周时实验组的腱骨愈合程度明显高于对照组，差异有统计学意义！ $( P { < } 0 . 0 5 )$ 。组织学结果显示实验组在术后3周和6周时腱骨界面细胞成熟程度更高,sharpey纤维生长密集度与间质钙化程度更高。ALP、茜素红染色、Q-PCR和Westemn Blot结果显示不同浓度黄芩素均能提高肌腱干细胞的ALP活性,增加矿化结节形成、提高Runx2、OSX、OCN、一型胶原和β-catenin的表达。而β-catenin抑制剂DKK-1后能显著降低黄芩素的这种促成骨作用。结论 黄芩素可以有效促进腱骨界面细胞成熟与腱骨界面的胶原分泌,加速腱骨愈合并提高腱骨愈合质量，这种促进作用呈现WNT/β-catenin信号依赖性。
+
+关键词：黄芩素;大鼠;腱骨愈合；肌腱干细胞;WNT/β-catenin
+
+# Baicalein promotes rat extra-articular tendon-to-bone transplanting healing through WNT/ $\beta$ catenin signaling
+
+JIANGHuaji,JIANGXiaocheng,HEFeilin',LIAOXiaoqing',ZHANGWentaol,ZHANGXintao   
+DepartmentofortsedicinendeailitationeznHspitalofekingesityeznO86China;eprmtf   
+Orthopedics,heirdAfiliatedHospital,Southernedicalniversity,Guangzhou5oo,ina
+
+Abstract:ObjectiveToinvestigatetheefectofbaicaleinontendonhealinginbone tunnelandrevealitsrelatedmolecular mechanism.MethodsIn vivo,40 Sprague Dawley malerats were used toestablish rat extra-articular tendon-to-bone transplanting healing, then randomly divided into 2 groups. Experiment group was treated with baicalein $1 0 \mathrm { m g / ( k g \cdot d ) }$ ,while control group was treated by normal saline $( 0 . 9 \% )$ with the same volume. Biomechanical testing and histological detection were tested at3 weeksand 6weeksaftersurgery.Invitro,tendom stemcellswere isolatedfromratAchiles tedon,ndbeng treated with various concentrations ofbaicaleinfor14 days.Theexpression ofalkaline phosphatase(ALP)and mineralized nodule was detected by ALP activity/staining assays and Alizarin red staining respectively,while the expression of $\tan x 2 ,$ OSX, OCN, Collagen I were tested by Q-PCR and the expression of Runx2, OSX, OCN and $\beta$ catenin were evaluated by Western Blot assay.Results Tendon bone healing strength of experiment group was obviously strongerthan control group in 3 weeksas wellas in6weeks.Inexperiment group,thereweremore mature fibroblasts,moreSharpheyfibers,andlargernew bone formationareacompared withcontrol group.Afterinterventionfor14days,the expresionof ALPRunx2,OCNand VEGF were up-regulated,and WNT/β-catenin signaling were enhanced in vitro.Conclusion Baicalein can promotes osteogenic differentiation of tendon stemcels through WNT/β-catenin signaling in vitro,and stimulate tendon-bone healing inbone tunnel and enhance the connection between tendon and bone.
+
+Key words: baicalein; rat;n tendon-bone healing; tendon stem cells; WNT/β-catenin signaling
+
+自体软组织移植物是目前临床上最为常用的前交叉韧带(ACL)重建替代物。然而，腱骨愈合时间过长与愈合结果差等问题却一直未得到良好的解决。因此,加快骨道内肌腱的腱骨愈合意义重大。近年来，人工骨、含钙骨水泥、生长因子、骨形态发生蛋白等被用来作为促进腱骨愈合的制剂，然而，这些制剂往往价格昂贵且来源有限，难以满足临床的大量需求。
+
+黄芩是唇形科植物黄芩的干燥根，是我国著名的传统中药，研究表明其具有抗菌、抗炎、抗氧化、抗肿瘤、解热镇痛、抗变态反应、抗糖尿病等广泛的药理学活性，黄芩素是从黄芩中提取的一种黄酮类化合物，是黄芩的主要有效成分之一[1。据报道，黄芩素不仅能够有效促进成骨细胞的成骨分化，还能有效抑制破骨细胞的生成以及诱导破骨细胞的凋亡[3。另一方面，有研究报道使用促进成骨中药三七总皂苷可以有效促进腱骨愈合[4]。然而，国内外尚无黄芩素对腱骨愈合影响的报道。同时，以往的研究显示，在腱骨愈合过程中肌腱含有大量的肌腱干细胞，可能对腱骨愈合起着至关重要的作用[5]。然而，目前尚无研究讨论经典中药单体对肌腱干细胞的影响。
+
+本研究主要探讨了研究黄芩素对大鼠腱骨愈合的影响，深入研究了黄芩素对肌腱干细胞增殖及成骨分化的作用以及机制，开拓中药在骨科运动医学领域的应用。
+
+# 1材料与方法
+
+# 1.1 实验材料
+
+DMEM培养基(Hyclone),I型胶原酶(Sigma）,中性蛋白酶(Roche),青霉素和链霉素(碧云天),胎牛血清(Gibco)， $0 . 0 2 \%$ EDTA与胰蛋白酶1:1混合液(广州威佳科技有限公司)，黄芩素(Sigma)，CCK-8（日本DOjindo),二甲基亚砜(DMSO)(Sigma),碱性磷酸酶测定试剂盒(南京建成生物工程研究所),ALP染液(Sigma),茜素红（Sigma)TRIzolRNA提取液(Life Technologies）,Runx2、OSX、OCN、一型胶原(Col1α1) $\beta$ -catenin抗体均购于 Santa Cruz公司,DKK-1(Sigma),细胞培养板、培养皿、移液管购于Corning公司， $4 \%$ 多聚甲醛溶液(Sigma)。
+
+# 1.2动物实验方法
+
+1.2.1动物模型选取雄性SD大鼠40只，体质量 $1 8 0 \sim$ $2 2 0 \ \mathrm { g }$ （购买自南方医科大学实验动物中心)，随机分为实验组和对照组。两组实验动物均进行右侧大腿腱骨愈合手术，建立大鼠关节外骨隧道-游离肌腱移植模型。实验组大鼠进行黄芩素灌胃 $1 0 \mathrm { m g / ( k g \cdot d ) }$ ,对照组大鼠进行等量的生理盐水灌胃。术后3周、6周分别处死大鼠进行取材。
+
+1.2.2生物力学检测术后3、6周处死大鼠后 $\scriptstyle ( n = 5 )$ ，小心将右侧后肢自髋关节离断，迅速转移到含有 $4 \%$ 多聚甲醛的离心管中， $4 \mathrm { { ^ { \circ } C } }$ 保存，待所有标本收集齐后一同进行生物力学测试。测试前将标本置于常温下复温 $3 \mathrm { { h } }$ 小心获取胫骨近端移植肌腱复合物，去除内侧的固定纽扣，测量隧道的长度，将样品两头用万能材料测试仪的夹具夹紧固定，检测时保持牵拉应力与骨隧道方向一致，以 $4 . 0 \ : \mathrm { m m / s }$ 的速度施加应力，直至肌腱被拔出或断裂，测试过程中用生理盐水保持组织湿润。应力及位移数据由测试仪的计算机软件系统(LaboratoryTechnology Corporation,美国)自动生成,腱骨愈合强度用最大牵拉负荷与骨隧道长度比值表示。
+
+1.2.3苏木素-伊红(HE)染色术后3、6周动物处死后$\scriptstyle { \overbrace { n = 5 } }$ ,立即取出腔骨近端移植肌腱复合物，去除移植肌腱以外的所有软组织，置入体积分数 $4 \%$ 多聚甲醛溶液固定 $4 8 \mathrm { ~ h ~ }$ ；采用EDTA脱钙1个月，隔天更换脱钙液；随后进行常规脱水、石蜡包埋，包埋时注意将骨隧道与石蜡表面垂直，采用连续切片的方法获取隧道全长不同部位的组织切片，切片厚度为 $5 ~ { \mu \mathrm { m } }$ ;常规苏木精-伊红染色观察。
+
+# 1.3细胞实验方法
+
+1.3.1大鼠肌腱干细胞的分离与培养取6周龄的雄性SD大鼠10只(购于南方医科大学动物实验），腹腔麻醉后进行原代肌腱干细胞分离与培养[7]。第3代肌腱干细胞用于以下实验研究。
+
+1.3.2CCK-8实验将第3代肌腱干细胞按 $5 { \times } 1 0 ^ { 4 } /$ 个种植于96孔板，于 $3 7 \mathrm { ^ { q } C } \cdot 5 \% \mathrm { C O } _ { 2 }$ 的培养箱中培养 $2 4 \mathrm { h }$ 后，分别加入 $0 . 1 \setminus 1 \setminus 1 0 \setminus 1 0 0 \setminus 1 0 0 0 \mu \mathrm { m o l / L }$ 的黄芩素,对照组加入等量的DMSO,每组设10个平行孔。14d后根据CCK-8试剂盒说明书，加人CCK-8继续培养 $\mathrm { 4 h } _ { \odot }$ 。随后用酶标仪测定在 $4 5 0 \mathrm { n m }$ 处的吸光度(A值)。
+
+1.3.3碱性磷酸酶(ALP)染色及活性检测取第3代肌腱干细胞，消化后按 $2 \times 1 0 ^ { 5 } /$ 个种植于六孔板，随后加入含有不同浓度 $( 0 . 0 . 1 { \cdot } 1 . 1 0 \ \mathrm { \mu m o l / L } )$ 黄芩素的成骨培养基(DMEM、 $10 \%$ FBS、青霉素、链霉、 $. 5 0 \ \mathrm { \textmu m o l { L } }$ 抗坏血酸 $\mathrm { . 0 . 1 \ \mu m o l / L }$ 地塞米松, $1 0 \ \mathrm { m m o l / L \beta }$ -磷酸甘油)。每组设立4个复孔，每隔3d换液1次。14d后弃去六孔板中的培养基，用PBS清洗2遍，随后每孔加入 $0 . 5 ~ \mathrm { m L }$ $0 . 1 \%$ TritonX-100,置于常温下 $1 5 ~ \mathrm { m i n }$ ，然后根据南京建成ALP试剂盒说明进行ALP活性检测。其它复孔将进行ALP染色，将肌腱干细胞用 $4 \%$ 多聚甲醛固定$2 0 \mathrm { m i n }$ ,随后用PBS清洗3遍，在加入ALP染液，置于常温下 $3 0 \mathrm { m i n }$ ，再用PBS洗去染液，进行拍照观察。
+
+1.3.4 茜素红染色及矿化结节测定取第三代肌腱干细胞，消化后按 $2 \times 1 0 ^ { 5 }$ 个种植于六孔板，随后加入含有不同浓度 $( 0 , 0 . 1 , 1 , 1 0 \ \mathrm { \ \mu m o l / L } )$ 黄芩素的成骨培养基(DMEM $10 \%$ FBS、青霉素、链霉 ${ \sqrt { 5 0 \ \mu \mathrm { m o l } / \mathrm { L } } }$ 抗坏血酸、$0 . 1 \ \mathrm { \mu m o l / L }$ 地塞米松, $1 0 \mathrm { m m o l } / \mathrm { L } \beta$ -磷酸甘油)。每组设立4个复孔，每隔3d换液1次。14d后弃去六孔板中的培养基，用PBS清洗2遍，经 $4 \%$ 多聚甲醛 $4 \mathrm { { ^ { \circ } C } }$ 固定$3 0 ~ \mathrm { m i n }$ ，行茜素红（ $\mathrm { { ( 1 \ m g / m L ) } }$ 染色。茜素红染色拍照后，每孔加入等量的氯化十六烷基吡啶溶液溶解矿化结节，酶标仪测 $\mathrm { O D } { = } 5 6 0$ ，比较各组形成矿化结节的数量。1.3.5荧光定量PCR(Q-PCR）取第3代肌腱干细胞，消化后按 $2 \times 1 0 ^ { 5 } /$ 个种植于六孔板，随后加入含有不同浓度 $( 0 . 0 . 1 { \cdot } 1 . 1 0 ~ \mathrm { \mu m o l / L } )$ 黄芩素的成骨培养基(DMEM、$10 \%$ FBS、青霉素、链霉 ${ \sqrt { 5 0 \ \mu \mathrm { m o l / L } } }$ 抗坏血酸 $\mathrm { . 0 . 1 \ \mu m o l / L }$ 地塞米松， $1 0 \ \mathrm { m m o l / L \beta }$ -磷酸甘油)。每组设立,4个复孔，每隔3天换液1次。14d后弃去六孔板中的培养基，根据试剂盒说明用TRIzol提取总RNA,用NanoDrop8000全光谱紫外-可见光分光光度计检测RNA浓度，采用美国Bio-Rad公司的反转录cDNA合成试剂盒和Veriti $\textsuperscript { \textregistered }$ 96-WellThermalCycler仪器进行cDNA反转录，反转条件为 $2 5 ~ \mathrm { ^ { \circ } C 5 ~ m i n }$ ， $4 2 \ { ^ \circ \mathrm { C } } 3 0 \ \operatorname* { m i n }$ 和 $8 5 ~ \mathrm { { ^ circ C } } 5$ min。将反转录得到的cDNA根据逆转录试剂盒进行加样，应用ABI7900HT高通量荧光定量PCR仪进行PCR检测，PCR反应条件为 $9 5 \mathrm { ~ \textcircled { ~ } C l 0 ~ s ~ }$ ， $6 0 \mathrm { \ : 9 C 1 0 s , 7 2 \mathrm { \ : 9 C } }$ $1 0 \mathrm { ~ s ~ }$ ，共40个循环。读取CT值后以GAPDH的CT值作为内参，采用 $2 { \cdot } \Delta \mathbf { C } \mathbf { t }$ 法进行数据分析。
+
+1.3.6蛋白质免疫印迹(Westernblot）取第3代肌腱干细胞，消化后按 $2 \times 1 0 ^ { 5 } /$ 个种植于六孔板，随后加入含有不同浓度 $( 0 , 0 . 1 , 1 , 1 0 ~ \mathrm { \mu m o l / L } )$ 黄芩素的成骨培养基中 $\mathrm { D M E M } \setminus 1 0 \% \mathrm { F B S }$ 、青霉素、链霉 ${ \sqrt { 5 0 \ \mu \mathrm { m o l } / \mathrm { L } } }$ 抗坏血酸、$0 . 1 \ \mu \mathrm { m o l / L }$ 地塞米松, $1 0 \mathrm { m m o l } / \mathrm { L } \beta$ 磷酸甘油)。每组设立，4个复孔，每隔3d换液1次。14d后弃去培养基，加入PBS 漂洗2遍后，加入 ${ 5 0 0 \mu \mathrm { L } }$ 的细胞裂解液于冰上静置 $3 0 \mathrm { m i n }$ 使细胞充分裂解。 $4 \mathrm { ~ ‰ ~ }$ 离心$1 5 ~ \mathrm { m i n }$ ,取上清，用BCA法进行总蛋白浓度的测定。$9 5 ~ \mathrm { ^ { \circ } C }$ 变性 $4 \mathrm { m i n }$ ,各组取含 $2 0 ~ { \mu \mathrm { g } }$ 蛋白质样品,经 $12 \%$ SDS-PAGE分离后，将蛋白质转移至聚偏氟乙烯(PVDF)膜上， $5 \%$ 脱脂奶粉室温下摇床振荡封闭 $2 \mathrm { h }$ ，然后分别加入一抗， $4 \mathrm { { ^ { \circ } C } }$ 过夜。次日加入二抗， $3 7 \ \mathrm { { ^ circ C } }$ 孵育$^ { 2 \mathrm { ~ h ~ } }$ ,每进行下一步实验前PVDF 膜均用 $4 \mathrm { { ^ \circ C } }$ 预冷的TBST摇床漂洗4次，每次 $8 \mathrm { m i n }$ ，用增强化学发光法检测目的蛋白，X光片曝光时间视效果而定，灰度值使用Image-Proplus6.0进行扫描测定。
+
+# 1.4统计学方法
+
+采用GraphPadPrism软件分析数据，数据采用均数±标准差表示，组间比较采用单因素方差分析，两两比
+
+较采用两独立样本 $t$ 检验， $P { < } 0 . 0 5$ 有统计学意义。
+
+# 2结果
+
+2.1黄芩素提高大鼠腱骨愈合的生物力学强度
+
+在术后3周和6周，分别取材进行生物力学检测腱骨愈合强度 $\left( \mathrm { N } / \mathrm { m m } \right)$ ，结果显示术后3周和术后6周中实验组的腱骨愈合强度显著高于对照组，差异有统计学意义 $( P { < } 0 . 0 5 )$ O
+
+# 2.2黄芩素对Yamakado界面形态分型的影响
+
+两组动物Yamakado界面形态分型结果显示术后3周：对照组腱骨界面主要为疏松结缔组织，其中7例为结缔组织，3例腱骨分离;实验组腱骨界面主要为结缔组织，其中3例间接连接,6例为结缔组织，1例为腱骨分离。术后6周：对照组腱骨界面以结缔组织为主，其中5例为间接链接，5例结缔组织;实验组腱骨界面主要为较致密的结缔组织，其中8例为间接链接，2例为结缔组织。两组均未出现典型的直接连接。
+
+# 2.3黄芩素促进腱骨界面的骨化形成
+
+术后3周，对照组腱骨界面内大量成纤维细胞聚集，细胞混乱无固定排列，骨隧道附近未见软骨样细胞，间质钙化不明显，隧道壁表面新骨量少(图1A)；实验组腱骨界面内有大量成纤维细胞聚集，细胞排列有序，骨隧道附近有软骨样细胞出现，并且细胞间质有钙化趋势，隧道壁表面新骨较多(图1B)。术后6周，对照组腱骨界面有6个标本出现sharpey纤维,排列教紊乱，隧道壁附近发现有软骨样细胞，且细胞基质有钙化趋势，隧道壁表面少量新骨，但腱骨界面内无新骨形成(图1C);实验组的所有腱骨界面均有明显的sharpey纤维连接，排列有序，骨隧道附近软骨样细胞较多，基质钙化明显，腱骨界面内还有片状新骨形成，隧道壁表面新骨形成多（图1D）。
+
+![](images/96f819abeb62e0578616bd458f45eb05f93439497c2d3e9cedcf544677217fe0.jpg)  
+图1腱骨界面的骨化形成
+
+A:隧道壁表面新骨量少;B:隧道壁表面新骨较多;C:腱骨界面内无新骨形成; $D$ ：隧道壁表面新骨形成
+
+# 2.4黄芩素对肌腱干细胞增殖的影响
+
+使用不同浓度的黄芩素处理肌腱干细胞14d后，CCK-8结果显示 $0 . 1 \setminus 1 \setminus 1 0 \setminus 1 0 0 \ \mu \mathrm { m o l / L }$ 的黄芩素对肌腱干细胞的生长没有明显毒性，而 $1 0 0 0 ~ \mathrm { { n g / m L } }$ 的骨碎补
+
+总黄酮对肌腱干细胞生长有显著的抑制作用。
+
+# 2.5 黄芩素促进肌腱干细胞的成骨分化
+
+在用 $0 . 1 { \setminus } 1 . 1 0 ~ \mathrm { \mu m o l / L }$ 的黄芩素处理肌腱干细胞14d后，ALP释放量及ALP染色结果(图2A)显示不同浓度的黄芩素均能促进肌腱干细胞ALP的分泌，并且呈浓度依赖性增加。同样，茜素红染色和矿化结节计数结果显示黄芩素能显著促进肌腱干细胞的矿化（图
+
+2B)。Westernblotting结果显示不同浓度黄芩素可以促进成骨因子(Runx2、OSX、OCN、Col1α1)表达，并且呈浓度依赖性增加(图3)。
+
+![](images/55c14f7871305b66596f43be8ce0712f474dcd8530c8694a944e3b280fbb364b.jpg)  
+图2不同浓度黄芩素的肌腱干细胞ALP分泌及矿化A:ALP释放量;B:矿化结节计数. $^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 5$
+
+0 0.1μmol/L 1μmol/L 10 μmol/L Runx2 β-actiin 三 一 一 一 OSX 一 1 二！ OCN
+
+2.6黄芩素通过激活 $\mathrm { W N T / \beta }$ -catenin信号通路促进腱骨 愈合
+
+Westernblottingt结果显示，不同浓度的黄芩素能促进肌腱干细胞的 $\beta$ -catenin蛋白的表达，并且呈浓度依赖性增加(图4A)。在加入DKK-1后，能有效抑制黄芩素对 $\beta$ -catenin蛋白的促进作用(图4B）。
+
+# 3讨论
+
+腱骨界面的骨化程度对腱骨愈合具有重要的意义，过往的研究表明，黄芩素可以通过mTORC1信号通路促进成骨细胞的成骨分化[2.8-9],并有效抑制破骨细胞的激活[3，此外，黄芩素还能有效缓解去卵巢小鼠的骨丢失[8]。在活体实验中,我们发现黄芩素干预组的大鼠愈合界面的生物力学强度显著高于对照组，而Yamakado界面形态分型中，黄芩素组的腱骨愈合类型优于对照组。同时，经黄芩素干预后，腱骨界面胶原生长旺盛，且早于对照组出现sharpey纤维。以上结果都提示黄芩素可以在体内可以有效促进大鼠腱骨界面的愈合。
+
+移植的肌腱中含有肌腱干细胞，在创伤后被炎症反应激活，肌腱干细胞与间充质干细胞相似，可以在不同条件下向成骨、成脂及成软骨方向分化[],而其成骨分化在腱骨愈合的过程中起着重要的作用。本研究中选用肌腱干细胞作为突破点，在体外实验中探讨了黄芩素对肌腱干细胞成骨分化的作用及机制，阐明黄芩素促进腱骨愈合的作用机理。骨形成是腱骨愈合中的一个重要步骤，因此肌腱干细胞的成骨分化对腱骨愈合具有重要的促进作用。本研究发现，黄芩素能有效促进肌腱干细胞的成骨分化，并且这种促进作用呈现浓度依赖性。
+
+![](images/5807a5867b5a309ab61421010e129d668c2b992e31b2272ea4e9d61c539b49ca.jpg)  
+图3骨因子(Runx2、OSX、OCN、Collα1)表达Westernblotting图  
+图4肌腱干细胞β-catenin蛋白表达A：不同浓度黄芩素促进 $\beta$ -catenin蛋白表达；B:加入DKK-1有效抑制黄芩素的促进作用.
+
+WNT/β-catenin信号通路是一个调控细胞生长、发育和分化的重要信号途径。近年来，有大量研究报道WNT/β-catenin信号通路在成骨分化及骨形成过程中扮演着重要角色[12]。首先，黄芩苷可以激活WNT/$\beta \mathrm { . }$ -catenin信号通路促进大鼠骨髓间充质干细胞的成骨分化[13],另一方面,机械牵张应力可以通过激活WNT/$\beta \mathrm { . }$ -catenin信号通路促进肌腱干细胞的成骨分化[14]。本研究结果显示，黄芩素在促进肌腱干细胞成骨分化的同时，激活了WNT/β-catenin信号通路，而在使用WNT/$\beta \mathrm { . }$ -catenin信号通路抑制剂DKK-1后可以显著抑制黄芩素的促成骨作用。因此可以推断出黄芩素是通过$\mathrm { W N T / \beta }$ -catenin信号通路促进肌腱干细胞成骨分化，从而促进腱骨界面的骨形成。
+
+综上所述，黄芩素可以通过激活WNT/β-catenin信号通路促进肌腱干细胞的成骨分化，达到腱骨愈合。本实验首次从肌腱干细胞角度探讨了对腱骨愈合的机制，揭示了黄芩素可以通过激活WNT $\beta$ -catenin信号通路促进肌腱干细胞的成骨分化，并且成功建立了大鼠关节外骨隧道-游离肌腱移植模型，验证了中药黄芩的有效成分黄芩素在腱骨愈合中的促进作用。本研究有肯定黄芩素对腱骨愈合的影响，从而为黄芩素的临床研究和推广应用提供初步的理论依据，开拓中药在骨伤科及运动医学领域的应用。
+
+# 参考文献：
+
+[1］陈利娇,喻文彬,任曼曼，等.黄芩素对人牙周膜细胞骨向分化能力的 影响[J].温州医科大学学报,2016,46(1):7-12.   
+[2]Kim JM,Lee SU,Kim YS,et al.Baicalein stimulates osteoblast differentiation via coordinating activation of MAP kinases and transcription factors[J].JCell Biochem,2008,104(5): 1906-17.   
+[3]Kim MH,Ryu SY,Bae MA,et al.Baicalein inhibits osteoclast differentiation and induces mature osteoclast apoptosis|Jl.Food Chem Toxicol,2008,46(11): 3375-82.   
+[4]Zhang JY,Wang JH. Characterization of differential properties of rabbit tendon stem cells and tenocytes[J].BMC Musculoskelet Disord,2010,11(5): 10-3.   
+[5]张 磊,李智尧,孙 晋,等.三七总皂苷促进腱骨愈合的实验研究[J].中 国骨伤,2011,24(2):132-6.   
+[6]陆 军,JrRV.大鼠关节外骨隧道-游离肌腱移植模型的建立[J].中华 骨科杂志,2014(8): 864-71.   
+[7]Lui PP.Markers for the identification of tendon-derived stem cells in vitro and tendon stem cels in situ- update and future development[J]. Stem Cell Res Ther,2015,6(11):106-9.   
+[8]Li SF, Tang JJ,Chen J,et al. Regulation of bone formation by baicalein via the mTORC1 pathway[J].Drug Des Devel Ther, 2015,9(4): 5169-83.   
+[9]兰 波,刘 亭,谢玉敏,等.两种杜仲黄酮类化合物对成骨细胞OPG/ RANKL及成骨相关转录因子的影响[J].中国实验方剂学杂志,2014 (22): 180-4.   
+[10]Lui PP,Wong YM.Higher BMP/Smad sensitivity of tendon-derived stem cells(TDSCs） isolated from the collagenase-induced tendon injury model: possible mechanism for their altered fate in vitro[J]. BMC Musculoskelet Disord,2013,14(8): 248-52.   
+[11] Lui PP, Chan LS,Cheuk YC,et al. Expression of bone morphogenetic protein-2 in the chondrogenic and ossifying sites of calcific tendinopathy and traumatic tendon injury rat models[J].J Orthop Surg Res,2009,4(6): 27-30.   
+[12]徐伟丽,牛玲玲,王文侠,等.经典 $\mathrm { { W n t } }$ 信号通路对骨代谢的调节作用 [J].中国骨质疏松杂志,2016(3):376-80.   
+[13]李晨睿,孟志远,牛银波,等.黄芩苷通过 $\mathrm { W n t / \beta }$ -catenin信号通路对大 鼠骨髓间充质干细胞成骨分化的促进作用[J].中国药理学通报,2015 (7): 919-24.   
+[14] Liu XZ, Chen W, Zhou Y,et al. Mechanical tension promotes the osteogenic differentiation of rat tendon-derived stem cells through theWnt5a/Wnt5b/JNK signalingpathway[J].Cell Physiol Biochem,2015,36(2):517-30.

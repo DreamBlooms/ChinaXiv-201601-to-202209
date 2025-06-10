@@ -1,0 +1,146 @@
+# 天津市农田氮肥施用氨排放量估算及分布特征分析
+
+孙猛徐媛 刘茂辉 展先辉 刘佳泓 张莹张骥 \*\*
+
+(天津市环境监测中心 天津 300191)
+
+摘要氮素是作物生长的必要营养元素，氮肥施用过程中，会导致氨的挥发，而氨是形成可吸入颗粒物的重要前体物，为了解天津市农田氮肥施用过程中氨的排放，为天津市空气污染治理提供技术支撑，通过获取天津市不同农作物的不同氮肥种类施用量，依据国家环保部推荐的排放因子法和天津市的年均温度，对天津市农田氮肥施用过程中氨的排放量进行了估算和时空分布特征分析。结果表明，2014年天津市农田氮肥施用氨排放量为17999.91t，排放强度为 $3 . 2 7 ~ \mathrm { t } \cdot \mathrm { k m } ^ { - 2 }$ ；从氮肥种类上看，尿素是最大排放源，贡献率为 $8 3 . 1 3 \%$ ，其次是碳铵 $( 1 3 . 8 3 \%$ ，其他氮肥占比为 $3 . 0 4 \%$ ；从农作物类型上看，蔬菜是最大的排放源，贡献率为 $3 8 . 9 1 \%$ ，其次是玉米 $( 2 9 . 4 3 \%$ 和小麦 $( 1 9 . 6 6 \% )$ ，其他作物占比为 $12 . 0 \%$ 。氨的排放系数具有明显的时间特征：中午高，夜间低;8月份最高,1月份最低。在各区县中，武清区氨排放量最大，贡献率为 $2 7 . 0 6 \%$ ；津南区氨排放量最小，贡献率为 $1 . 1 4 \%$ ；另外，宝坻区和蓟县的氨排放量也较高，贡献率分别为 $20 . 7 1 \%$ 、 $1 7 . 8 6 \%$ 。氨具有较强的空间分布差异性，在有氮肥施用的农田排放较高，其他区域排放较低。因此在控制天津市农田氮肥施用氨排放中应加强对武清区、宝坻区、蓟县等区县6一8月份蔬菜种植过程中尿素的科学施用。农田氨的时空分布特征可为天津市空气污染的防治提供科学依据。
+
+关键词氨排放排放因子排放清单农业源氮肥施用肥料种类作物中图分类号：S143.1 文献标识码：A 文章编号:1671-3990(2016)10-1364-07
+
+# Emission and distribution characteristics of ammonia from nitrogen application in farmland of Tianjin
+
+SUN Meng, XU Yuan, LIU Maohui, ZHAN Xianhui, LIU Jiahong, ZHANG Ying, ZHANG Ji\*\* (Tianjin Environment Monitoring Center, Tianjin 300191, China)
+
+AbstractNitrogen is notonlyanecessry nutrient forcrop growth,but alsoanimport source ofammonia volatilization.The volatilizationofammoniaocurs inthe procesofntrogenfertilizeraplcatio.Asanimportant precursoroffneparticulates andamaincomponentofatmosphericacid deposition,ammoniathreatens environmenthealthduetoitsvolatilizationcaused by nitrogen fertization.To analyzeammonia emisionand distribution characteristics from nitrogen fertilizerapplication in 2014of Tianjin Cityweestimatedammoniaemisionamounts from diferent nitrogen fertilizer,different cropsand in diferent areas,as wellas emission factors byusing emission factor method.In the ammonia emission calculationprocess, nitrogen fertilizerapplicationlevelsofdiferentnitrogenfertilizersused indifferentcropscamefromStatisticYearbook,while the emission factors were derived from guidelines published bythe MinistryofEnvironmental Protectionof China,and the temperature was the annualaverage temperatureofTianjin City.Results showed that1799991tons ofammonia was emitted form nitrogen application in Tianjin City with the emission intensity of $3 . 2 7 ~ \mathrm { t } \cdot \mathrm { k m } ^ { - 2 }$ . Among five types of nitrogen fertilizer (urea,ammonium bicarbonate,ammoniumnitrate,thiamine,andothers),urea was the largestresourceofammoniaemision, with $8 3 . 1 3 \%$ contribution rate, followed by ammonium bicarbonate with contribution rate of $1 3 . 8 3 \%$ ， and the other nitrogen fertilizers was the least resource with only $3 . 0 4 \%$ . For crop types,vegetables was the largest resource of ammonia emission with $3 8 . 9 1 \%$ contribution rate,followed by maize with contribution rate of $2 9 . 4 3 \%$ and wheat with contribution rate of $1 9 . 6 6 \%$ and the others occupied $12 . 0 \%$ . Because ammonia emissions were positively correlated with temperature, in this study, ammonia emisson showed strong time-characteristics with maximum emisions in middayand August and the minimumat night and in January.In all counties/districts,Wuqing District emited the most ammonia with contribution rate of $2 7 . 0 6 \%$ ， while Jinnan District emitted the least with contribution rate of $1 . 1 4 \%$ . And Baodi District and Jixian District had greater contribution rate with $20 . 7 1 \%$ and $1 7 . 8 6 \%$ ,respectively. Ammonia emission had strong spatial characteristics,and the large ammoniaemissionoccurred mainlyin farmland.Tocontrolammoniaemisson fromfarmland in Tianjin City,thescientific applicationof nitrogenous fertilizerin WuqingDistrict,Baodi DistrictandJixianDistrictintheprocessof vegetablecultivation in Juneto August should be strengthened.The results could provide ascientific basis for haze treatment in Tianjin City.
+
+KeywordsAmmonia emision;Emissionfactor;Emission inventory;Agricultural soures;Nitrogenapplication;Fertilizer type; Crop
+
+氮素是农作物生长的必需营养元素，在保障农作物增产稳产方面有着不可替代的作用[1]，不同的施氮水平对农作物的生产都有不同的影响[2-3]。然而，氮素流动性强，不易被土壤吸附，易随水土流失。有研究表明，我国粮食作物氮肥利用率仅为$30 \%$ 左右[4]。由于我国氮肥的高投入和高损失[5-6],致使我国农田氮肥施用过程中大量的氨挥发到空气中。而氨气是大气环境中非常重要的碱性气体，在大气化学反应过程和气溶胶形成过程中均有着重要作用。在最近普遍受到关注的 $\mathrm { P M } _ { 2 . 5 }$ 中， $\mathrm { N H } _ { 3 }$ 是非常重要的前体物质之一[7]，而且，氨氧化后可生成二次污染物。另外，氨也是大气酸沉降的重要组成部分，会导致土壤酸化和水体富营养化，严重威胁到生态环境的健康。
+
+国外研究表明，农田氮肥施用是氨排放的重要来源[8-10]。而在我国，农田氮肥施用也是氨排放的重要来源。董文煊等[11基于畜禽养殖、化肥施用、化工生产、人体呼吸排汗和排泄等方面氨的排放因子和分省活动水平，建立了我国大气氨排放清单，结果表明，化肥施用氨排放占氨排放总量的 $5 3 . 5 3 \%$ 是第1大排放源。氮肥施用到农田后，通过微生物作用或者自身分解向大气中排放氨，其中与氨排放相关的氮肥主要包括尿素、碳酸氢铵，氯化铵、硫酸铵、硝酸铵、复合肥和氨水。张灿等[12基于本地化修正的排放因子，对重庆主城区农业源氨排放进行了研究，结果表明，重庆主城区氨的排放中化肥施肥是最大的排放源，排放比例达 $6 6 . 7 \%$ ，排放量为 $5 6 6 0 \mathrm { t }$ ，排放强度为 $1 . 0 4 \mathrm { t } { \cdot } \mathrm { k m } ^ { - 2 }$ ，涉及的氮肥类别主要是尿素、复合肥和其他肥料。董艳强等[13]根据各类氨排放源的活动水平和排放因子，估算了长江三角洲地区16个城市的氨排放量，结果显示长江三角洲地区氨的排放总量为47.07万t，其中氮肥施用的排放量为22.73万t，占 $4 9 . 3 \%$ ，为第1大排放源，氮肥主要涉及类别是尿素、碳铵、硝酸铵、硫酸铵以及其他。刘春蕾等[14]基于排放因子法建立了南京市人为源大气氨排放清单，结果显示氮肥施用是南京市人为源氨排放的第2大排放源，占总排放量的$2 5 . 9 8 \%$ 。另外，还有众多学者对贵阳市[15]、南通市[16、四川省[17]等区域的农田氮肥施用进行了研究。
+
+开展农田氮肥施用氨排放的研究，可以对氨排放所引起的空气污染的治理提供理论支持。而目前，针对天津市农田氮肥施用氨排放的研究鲜有报道。本研究使用排放因子法，参考国家环保部发布的《大气氨源排放清单编制技术指南(试行)》中所规定排放因子和活动水平计算方法，对2014年天津市农田氮肥施用氨的排放量进行估算，分析农田氨排放的时间和空间特征，进而为预防氨挥发所引起的$\mathrm { P M } _ { 2 . 5 }$ 的二次生成提供科学依据，为天津市空气污染的治理提供重要的技术支撑。
+
+# 1研究区域概况与研究方法
+
+# 1.1 研究区域概况
+
+研究区域为整个天津市，包括15个市辖区(其中1个副省级区)、1个县，共有乡镇级区划240个。天津市农业为城郊型农业，主要分布在北部蓟县山地丘陵和山前洪积冲积平原区，主要种植粮食作物和果林，中部偏北的冲积平原区，以种植小麦(Triticumaestivum)、玉米(Zeamays)等旱粮为主。农作物施用氮肥种类主要有尿素、硝铵、碳铵和硫胺。天津市属于暖温带半湿润季风性气候，四季分明，年平均气温约为 $1 4 ^ { \circ } \mathrm { C }$ ，7月、8月最热，1月最冷。研究基于Lambert投影，以整个天津市作为研究区域，利用ArcMAP建立了 $3 { \mathrm { ~ k m } } \times 3 { \mathrm { ~ k m } }$ 的网格，以每个网格的中心点经纬度坐标标识该网络的地理位置，研究区域共包含1409个网格。
+
+# 1.2 计算方法
+
+农田氮肥施用氨排放的计算方法采用排放因子法，即氨排放的总量等于活动水平与排放因子的乘积，计算公式如下：
+
+$$
+E _ { i , j , y } { = } A _ { i , j , y } { \times } f _ { \mathrm { E } i , j , y }
+$$
+
+式中: $i$ 为地区(县、区), $j$ 为排放源, $y$ 为年份, $E _ { i , j , y }$ 为$y$ 年 $i$ 地区 $j$ 排放源的排放量， $A$ 为活动水平, $f _ { \mathrm { E } }$ 为排放系数。氮肥种类 $( i )$ 主要包括尿素、碳铵、硝铵、硫胺以及其他氮肥5类，即： $E _ { \overleftarrow { \ast } \overleftarrow { \mathbb { R } } } { = } E _ { \overleftarrow { \ast } \overleftarrow { \ast } } { + } E _ { \overleftarrow { \ast } \overleftarrow { \ast } } { + } E _ { \overleftarrow { \mathbb { R } } \overleftarrow { \ast } \overleftarrow { \ast } } { + } E _ { \overleftarrow { \ast } \overleftarrow { \mathbb { R } } \overleftarrow { \ast } } { + }$ E其他o
+
+农田氮肥施用过程中，氨的排放与氮肥的施用量、农时农事和环境因素息息相关，研究参照沈兴玲[18]使用的经验公式(公式2)，对天津市农田氮肥施用氨排放的小时变化系数和月变化系数进行研究。
+
+$$
+E _ { i , h } = \frac { 1 6 1 5 0 0 } { T _ { i , h } } \times \mathrm { e } \times \frac { - 1 0 3 8 0 } { T _ { i , h } } \times T _ { i , h }
+$$
+
+式中： $E _ { i , h }$ 为小时排放速率; $T _ { i , h }$ 为某小时的环境温度研究所使用的小时环境温度是指整个天津市的平均
+
+小时温度，小时温度数据来源于专业的气象网站(www.wunderground.com)。
+
+# 1.3 排放因子数据获取
+
+氮肥排放因子定义为单位质量的氮肥在施用过程中向大气排放氨的质量，单位为 $\mathbf { k g } ( \mathbf { N H } _ { 3 } ) { \cdot } \mathbf { k g } ^ { - 1 }$ (氮肥)。受施肥率和施肥方式的影响，实际排放因子通常在基准排放系数的基础上进行校正，即：实际排放因子 $\cdot =$ 基准排放因子 $\cdot \times$ 施肥率校正因子 $\times$ 施肥方式校正因子。基准排放因子见表1。耕地施肥高于 $1 9 5 \mathrm { k g } ( \mathrm { N } ) { \cdot } \mathrm { h m } ^ { - 2 }$ （根据每千克尿素、硝铵、碳铵、硫胺分别含 $0 . 4 7 \mathrm { k g } , \ 0 . 3 5 \mathrm { k g } , \ 0 . 1 7 \mathrm { k g }$ 和 $0 . 2 1 \mathrm { k g } \mathrm { N }$ 的比例进行折算，其对应的施肥量为 $2 7 . 6 6 \mathrm { k g } .$ 人 $3 7 . 1 4 \mathrm { k g } .$ $6 7 . 1 4 \mathrm { k g }$ 、 $7 4 . 4 7 \mathrm { k g }$ 和 $6 1 . 9 0 \mathrm { k g } )$ 的地区，施肥率校正因子为1.18，其他地区为 $1 . 0 ^ { [ 1 1 - 1 3 , 1 5 , 1 7 ] }$ 。施肥方式包括表面撒施和覆土深施，在施基肥时通常采用覆土深施，施追肥通常采用表面撒施。施肥方式校正因子在覆土深施时取0.32，表面撒施时为 $1 . 0 ^ { [ 1 4 - 1 6 ] }$ 。研究中，基肥的施用采用覆土深施，追肥的施用采用表面撒施。具体排放因子见表1，本研究中的排放因子来自国家环保部发布的《大气氨源排放清单编制技术指南(试行)》。
+
+表1不同氮肥的氨基准排放因子 Table1 Base emission factors of ammonia of different nitrogen fertilizer:   
+%   
+
+<html><body><table><tr><td>温度 Temperature (℃)</td><td>尿素 Urea (%)</td><td>碳铵 Ammonium bicarbonate(%)</td><td>硝铵 Ammonium nitrate (%)</td><td>硫胺 Thiamine (%)</td><td>其他氮肥 Others (%)</td></tr><tr><td><10</td><td>0.51</td><td>1.71</td><td>0.36</td><td>0.66</td><td>0.21</td></tr><tr><td>10~20</td><td>2.51</td><td>2.61</td><td>0.40</td><td>0.82</td><td>0.23</td></tr><tr><td>20~30</td><td>4.50</td><td>3.52</td><td>0.45</td><td>0.97</td><td>0.26</td></tr><tr><td>>30</td><td>5.50</td><td>3.98</td><td>0.47</td><td>1.05</td><td>0.27</td></tr></table></body></html>
+
+# 1.4 活动水平数据获取
+
+活动水平是指在一定时间范围内以及在界定地区里，与某项大气污染物 $( \mathrm { N H } _ { 3 } )$ 排放相关的生产或消费活动的量。研究获取的活动水平数据主要是指氮肥的施用量和年均温度。活动水平数据依据实地调查，结合 2014 年天津市统计年鉴和环境统计年鉴,获取各区县大豆(Glycinemax)、稻谷(Oryza sativa)、花生(Arachis hypogaea)、棉花(Gossypium sp.)、蔬菜、薯类、小麦和玉米8种天津本地主要农作物的氮肥施用量，分别为 $3 5 0 3 . 2 7 \mathrm { t } { \cdot } \mathrm { a } ^ { - 1 }$ / $9 \ 8 0 5 . 1 2 \ \mathrm { t { \cdot } a } ^ { - 1 }$ 、 $1 6 9 7 5 . 3 2 \mathrm { t } \cdot \mathrm { a } ^ { - 1 } .$ $5 8 2 . 0 9 \mathrm { t { \cdot } a } ^ { - 1 }$ ！ $1 0 0 9 1 9 \mathrm { t { \cdot } a } ^ { - 1 }$ 人 $2 5 8 . 6 7 \ \mathrm { t { \cdot } a } ^ { - 1 }$ 、 $5 1 ~ 0 0 6 . 4 8 ~ \mathrm { t { \cdot } a } ^ { - 1 }$ （204号和 $7 6 \ 3 2 8 . 0 1 \ \mathrm { t { \cdot } a ^ { - 1 } }$ ，氮肥分为尿素、硝铵、碳铵、硫胺以及其他等5类。研究中排放量的计算使用的温度是年均温度，温度数据来自2015年天津市统计年鉴。
+
+# 2 结果与分析
+
+2.1天津市各区县不同氮肥施用量处理的氨排放量
+
+天津市各区县2014年农田氮肥施用氨排放量清单如表2所示。农田氮肥施用氨排放总量为$1 7 9 9 9 . 9 1 \ \mathrm { t } .$ 、其中尿素、碳铵、硝铵、硫胺和其他氮肥的氨排放量分别为 $1 4 9 4 4 . 9 5 \mathrm { t } , 2 4 8 9 . 3 2 \mathrm { t } , 5 7 . 5 2 \mathrm { t } ,$ 313.16t和194.96t；尿素施用是氨排放的主要来源,其次是碳铵。主要原因在于尿素施用量比较大，尿素、碳铵、硝铵、硫胺和其他氮肥的施用量依次为$1 0 1 9 4 3 . 7 1 \ \mathrm { t . } \ 3 5 \ 9 2 0 . 9 3 \ \mathrm { t . } \quad 1 4 \ 3 7 9 . 7 8 \ \mathrm { t . } \ 2 2 \ 3 6 8 . 5 7 \ \mathrm { t }$ 和 $8 4 7 6 5 . 2 8 \mathrm { ~ t ~ }$ 。尿素的施用量最大，其次是其他氮肥和碳铵。而碳铵的施用量虽然不太大，但碳铵的排放因子比较大，在相同环境下，碳铵挥发的氨量更大。从区县氨排放量上看，宝坻区、北辰区、滨海新区、东丽区、蓟县、津南区、静海区、宁河区、武清区和西青区的氨排放量依次为3727.27t、782.45 t、 544.09 t、 288.71 t、 3 214.12 t、 $2 0 5 . 6 1 \mathrm { ~ t } _ { \setminus }$ $ { 1 } \ 9 3 8 . 4 2 \ \mathrm { t } , \  { 1 } \ 2 3 0 . 4 3 \ \mathrm { t } , \ 4 \ 8 7 0 . 4 2 \ \mathrm { t }$ 和 $1 1 9 8 . 3 8 \mathrm { t }$ ，排放量最大的是武清区，其次是宝坻区和蓟县。这主要是因为武清区、宝坻区和蓟县所涉及的的农田面积比较大。
+
+表22014年天津市各区县不同氮肥施用的氨排放量2Ammonia emissions of diferent nitrogen fertilizers in different districts/counties of Tianjin City  
+
+<html><body><table><tr><td>区县 District/county</td><td>尿素 Urea</td><td>碳铵 Ammonium bicarbonate</td><td>硝铵 Ammonium nitrate</td><td>硫胺 Thiamine</td><td>其他 Others</td><td>总计 Total</td></tr><tr><td>宝坻Baodi</td><td>3 094.67</td><td>515.47</td><td>11.91</td><td>64.85</td><td>40.37</td><td>3 727.27</td></tr><tr><td>北辰Beichen</td><td>649.66</td><td>108.21</td><td>2.50</td><td>13.61</td><td>8.47</td><td>782.45</td></tr><tr><td>滨海Binhai</td><td>451.75</td><td>75.24</td><td>1.74</td><td>9.47</td><td>5.89</td><td>544.09</td></tr><tr><td>东丽Dongli</td><td>239.71</td><td>39.93</td><td>0.92</td><td>5.02</td><td>3.13</td><td>288.71</td></tr><tr><td>蓟县Jixian</td><td>2 668.62</td><td>444.50</td><td>10.27</td><td>55.92</td><td>34.81</td><td>3 214.12</td></tr><tr><td>津南Jinnan</td><td>170.71</td><td>28.44</td><td>0.66</td><td>3.58</td><td>2.23</td><td>205.61</td></tr><tr><td>静海Jinghai</td><td>1 609.44</td><td>268.07</td><td>6.19</td><td>33.72</td><td>21.00</td><td>1 938.42</td></tr><tr><td>宁河Ninghe</td><td>1 021.60</td><td>170.16</td><td>3.93</td><td>21.41</td><td>13.33</td><td>1 230.43</td></tr><tr><td>武清 Wuqing</td><td>4 043.80</td><td>673.56</td><td>15.56</td><td>84.74</td><td>52.75</td><td>4 870.42</td></tr><tr><td>西青Xiqing</td><td>994.99</td><td>165.73</td><td>3.83</td><td>20.85</td><td>12.98</td><td>1198.38</td></tr><tr><td>总计Total</td><td>14 944.95</td><td>2 489.32</td><td>57.52</td><td>313.16</td><td>194.96</td><td>17 999.91</td></tr></table></body></html>
+
+# 2.2 天津市各区县不同类型氮肥及不同作物的氮肥施用氨排放贡献率
+
+图1为氮肥施用区县、氮肥种类以及农作物的氨排放贡献率图。由图1可知，在各区县氨排放的贡献率中，武清区、宝坻区、蓟县的氨排放贡献率最大，依次为 $2 7 . 0 6 \%$ 、 $20 . 7 1 \%$ 和 $1 7 . 8 6 \%$ ；在氮肥种类氨排放的贡献率中，尿素贡献最大，贡献率为$8 3 . 0 3 \%$ ，其次是碳铵，贡献率为 $1 3 . 8 3 \%$ ；在农作物氨排放的贡献率中，蔬菜、玉米和小麦是最大的贡献源，贡献率依次为 $3 8 . 9 1 \%$ 、 $2 9 . 4 3 \%$ 和 $1 9 . 6 6 \%$ 。表明控制天津市农田氮肥施用的氨排放，应重点放在天津市环城区县武清区、宝坻区和蓟县的蔬菜、玉米和小麦的尿素施用上。
+
+# 2.3 天津市不同月份氮肥施用氨排放日变化及月变化特征
+
+农田氮肥施用氨排放每月15日的日变化系数如图2所示，各月份氨排放日变化系数虽然略有不同，但总体呈现白天中午变化系数较大，夜间变化系数较小的特征，由此可推测农田氮肥施用过程中氨的排放受温度影响较大。因此，在加强对农田氮肥施用氨排放的控制中，在中午实施氨排放控制措施较其他时间段更为有效。
+
+农田氮肥施用氨排放月变化系数如图3所示，1—8月氨排放月变化系数逐渐增大，8—12月氨排放月变化系数逐渐减小；1月变化系数最小，8月变化系数最大;6—8月的变化系数明显高于其他月份。这主要是因为，从1月到12月，温度先升高后降低且8月温度达到最大，1月温度最低。同时还因为，天津地区春季开始施肥，夏季施肥量较大，冬季施肥基本停止。因此，在加强农田氮肥施用氨排放控制中，重点考虑6—8月实施控制措施。
+
+![](images/8afa82e0108915b9ac06c5b43d5004d71bc870e4e4f23dc539a10cf22236609a.jpg)  
+氮肥施用氨排放贡献率
+
+Fig.1Ammonia emission contributions of nitrogen application of different districts/counties (a),different nitrogen fertilizers (b) and different crops (c) in Tianjin City
+
+![](images/11ee028baeb2a66b18baf3a41a51495e6cd22ad11fda2b6c956659066171a18a.jpg)  
+Fig.2Ammonia emission hour-factors of nitrogen fertilizerapplication in different months in Tianjin City
+
+![](images/7beb8a9662e514c182dac38c1f2a85e88356dda28eba1c1b192df22ade63e77a.jpg)  
+图2天津市每月15日氮肥施用氨排放日变化系数  
+图3天津市不同月份农田氮肥施用氨排放月变化系数 Fig. 3 Ammonia emission month-factors of nitrogen fertilizer application in different months in Tianjin City
+
+# 2.4天津市农田氮肥施用氨排放的空间分布特征
+
+农田氮肥施用氨排放量较大的区域主要分布在蓟县北部、宝坻区东南部、武清区西北部以及西青区中部(图4)，这主要是方便为市区居民提供所需的农作物产品；排放量小的区域主要分布在中心城区和滨海新区沿海，因为在整个天津市建设规划中，这些区域农田非常少。因此，在农田氮肥施用氨排放的控制中，应重点对蓟县北部、宝坻区东南部、武清区西北部、西青区中部的氨排放进行控制。
+
+# 3 讨论与结论
+
+# 3.1本研究清单结果与其他研究结果的比较
+
+本研究中，天津市2014年农田氮肥施用氨排放总量为17 999.91t，排放强度为 $3 . 2 7 ~ \mathrm { t } \cdot \mathrm { k m } ^ { - 2 }$ 。 Zhang等[19]在 2004 年中国北部平原农业氨排放清单和空间分布的研究表明，农田氮肥施用氨排放量为2.52万t；董文煊等[11]对2006年中国人为源大气氨排放的研究中表明，天津市农田氮肥施用氨排放量为3.56万t;Zhou等[20]在2010 年北京-天津-河北氨排放清单的研究中表明，农田氮肥施用氨排放量为3.07万t。本研究结果与其他两组学者研究的结果数量级一致，但略有区别，本研究2014年天津市农田氮肥施用氨排放量较低，这主要是因为近年来天津市城市化进程持续推进，致使农田种植面积不断减小。
+
+![](images/5b53bb82b68266ff5590f6b874c6995a75a52b5b8658035dd4001b97d2edf0dd.jpg)  
+图4天津市农田氮肥施用氨排放空间分布图 Fig.4Spatial distribution of ammonia emission from nitrogen fertilizer application in Tianjin City
+
+本研究与重庆市主城区、长江三角洲地区、太原市、广东省等的农田氮肥施用氨排放的比较结果表明(表3)，天津市氨排放量比重庆市主城区和太原市的大，但远小于长江三角洲地区和广东省，而从排放强度看，也呈现了这种规律。因此，天津市农田氮肥施用水平在全国范围来看，比经济发达地区要低，比一般区域要高。从各农作物贡献率来看，刘春蕾等[14研究南京地区的结果是：水稻 $5 3 . 3 0 \%$ 、小麦$2 5 . 4 6 \%$ 、油菜(Brassica campestris) $2 1 . 2 4 \%$ ；本研究的结果是：蔬菜 $3 8 . 9 1 \%$ 、玉米 $2 9 . 4 3 \%$ 小麦 $1 9 . 6 6 \%$ 花生 $6 . 5 4 \%$ 、稻谷 $3 . 7 8 \%$ 、大豆 $1 . 3 5 \%$ 、棉花 $0 . 2 2 \%$ 薯类 $0 . 1 0 \%$ 。这主要是由于天津和南京的农作物种植结构差别较大造成的。
+
+# 3.2本研究结果的不确定性分析
+
+研究中，所使用的排放因子均是参考了国家制定的《大气氨源排放清单编制技术指南》，这些因子是该指南中的推荐值，但实际上，天津市地区的氨排放因子与所推荐的应该有所不同，因此，采用指南推荐的排放因子应该会带来一定的不确定性。在活动水平的获取中，主要参考了《2015年天津市统计年鉴》,还有些数据参考了公开发表的学术论文，这些数据虽然可以参考，但有些数据并不完全是直接得来的，而是间接计算而来，从而会带来一定的不确定性。
+
+表3不同区域农田氮肥施用氨排放比较 Table 3Comparison of ammonia emission from nitrogen fertilizer application in diferent areas of China   
+
+<html><body><table><tr><td>年份 Year</td><td>研究区域 Study area</td><td>年排放量 Emission (t·a-1)</td><td>排放强度 Emission intensity (t·km-2)</td><td>作者 Author</td></tr><tr><td>2014</td><td>天津市Tianjin</td><td>17 999.91</td><td>3.27</td><td>本研究This study</td></tr><tr><td>2011</td><td>重庆市主城区 Chongqing Urban City</td><td>5 660.00</td><td>1.55</td><td>张灿等[12] Zhang,et al.[12]</td></tr><tr><td>2004</td><td>长江三角洲地区 Yangtze River Delta</td><td>227 330.00</td><td>6.69</td><td>董艳强等[13]Dong,et al.[13]</td></tr><tr><td>2013</td><td>太原市Taiyuan</td><td>2 168.75</td><td>1.38</td><td>宣莹莹等[21] Xuan,et al[21]</td></tr><tr><td>2010</td><td>广东省 Guangdong</td><td>235 620.00</td><td>5.80</td><td>沈兴玲等[22] Shen,et al.[22]</td></tr></table></body></html>
+
+# 3.3结论
+
+本研究结果说明天津市2014年农田氮肥施用氨排放总量为 $1 7 ~ 9 9 9 . 9 1 ~ \mathrm { t } .$ ，排放强度为 $3 . 2 7 \mathrm { t } { \cdot } \mathrm { k m } ^ { - 2 }$ 。在各氮肥施用排放的贡献率中，尿素的贡献率为$8 3 . 1 3 \%$ ，是最大的排放源；在农作物种类氨排放的贡献率中，蔬菜的贡献率为 $3 8 . 9 1 \%$ ，是最大的排放源。天津市农田氨排放的时间特征为：中午排放高，夜间排放低；8月排放最高，1月排放最低。天津市农田氨排放的空间特征为：武清区排放量最高，其次是宝坻区和蓟县，市内6区和滨海新区排放量较低。在天津市农田氮肥施用氨排放的控制中，应着重加强6—8月武清区、宝坻区和蓟县蔬菜种植过程中尿素的科学施用。
+
+# 参考文献 References
+
+[1]李强，马晓君，程秋博，等．氮肥对不同耐低氮性玉米品种 花后物质生产及叶片功能特性的影响[J]．中国生态农业学 报,2016,24(1):17-26 Li Q,Ma XJ,Cheng QB,et al.Effects of nitrogen fertilizer on post-silking dry matter production and leaves function characteristics of low-nitrogen tolerance maize[J].Chinese Journal of Eco-Agriculture,2016,24(1):17-26   
+[2]姜丽娜，刘佩，齐冰玉，等．不同施氮量及种植密度对小麦 开花期氮素积累转运的影响[J].中国生态农业学报，2016, 24(2): 131-141 Jiang L N,Liu P,QiB Y,et al.Effects of different nitrogen application amounts and seedling densities on nitrogen accumulation and transport in winter wheat at anthesis stage[J].Chinese Journal of Eco-Agriculture,2016,24(2): 131-141   
+[3] 谷晓博，李援农，杜娅丹，等．不同施氮水平对返青期水分 胁迫下冬油菜补偿效应的影响[J].中国生态农业学报, 2016, 24(5): 572-581 Gu X B,Li Y N,Du Y D,et al. Compensative impact of winter oilseed rape (Brassica napus L.） affected by water stress at re-greening stage under different nitrogen rates[J]. Chinese Journal of Eco-Agriculture,2016,24(5): 572-581   
+[4]张福锁，王激情，张卫峰，等．中国主要粮食作物肥料利用 率现状与提高途径[J]．土壤学报,2008,45(5):915-924 Zhang F S,Wang J Q， Zhang W F,et al. Nutrient use efficiencies of major cereal crops in China and measures for improvement[J]. Acta Pedologica Sinica,20o8,45(5): 915-924   
+[5] Ju X T, Xing G X, Chen X P, et al. Reducing environmental risk by improving N management in intensive Chinese agricultural systems[J]. Proceedings of the National Academy of Sciences of the United States of America,2009,106(9): 3041-3046   
+[6]巨晓棠，谷保静．我国农田氮肥施用现状、问题及趋势[J]. 植物营养与肥料学报,2014,20(4):783-795 Ju X T,Gu B J. Status-quo,problem and trend of nitrogen fertilization in China[J].Plant Nutrition and Fertilizer Science, 2014,20(4): 783-795   
+[7] Goebes M D, Strader R,Davidson C.An ammonia emission inventory for fertilizer application in the United States[J]. Atmospheric Environment,2003,37(18): 2539-2550   
+[8] Bouwman A F,Lee D S,Asman W A H,et al.A global high-resolution emission inventory for ammonia[J].Global Biogeochemical Cycles,1997,11(4): 561-587   
+[9]Misselbrook T H,Van Der Weerden T J,Pain B F,et al. Ammonia emission factors for UK agriculture[J].Atmospheric Environment,2000,34(6): 871-880   
+[10]US EPA.The national emissions inventory[EB/OL]. (2013-08-15) [2013-09-09]. http://www.epa.gov/ttn/chief/net/2008inventory. html   
+[11]董文煊，邢佳，王书肖．1994\~2006 年中国人为源大气氨排 放时空分布[J].环境科学,2010,31(7):1457-1463 Dong W X， Xing J，Wang S X. Temporal and spatial distribution of anthropogenic ammonia emissions in China: 1994-2006[J]. Environmental Science,2010,31(7): 1457-1463   
+[12] 张灿，翟崇治，周志恩，等．重庆市主城区农业源氨排放研 究[J].中国环境监测,2014,30(3):90-96 Zhang C,Zhai C Z,Zhou Z E,et al.Research on ammonia emission from agricultural sources in Chongqing Urban City[J].Environmental Monitoring in China,2014,30(3): 90-96   
+[13]董艳强，陈长虹，黄成，等．长江三角洲地区人为源氨排放 清单及分布特征[J].环境科学学报,2009,29(8):1611-1617 Dong Y Q，Chen C H,Huang C，et al.Anthropogenic emissions and distribution of ammonia over the Yangtze River Delta[J].Acta Scientiae Circumstantiae,20o9,29(8): 1611-1617   
+[14]刘春蕾，杨峰．南京市2013年人为源大气氨排放清单及特 征[J].安徽农业科学,2015,43(29):263-266 Liu C L,Yang F. Nanjing anthropogenic ammonia emission inventory and its characteristics in 2013[J]. Journal of Anhui Agricultural Sciences,2015,43(29):263-266   
+[15]肖红伟，肖化云，唐从国，等．贵阳地区氨排放量估算[J]. 地球与环境,2010,38(1):21-25 Xiao HW,Xiao HY, Tang C G, et al.Estimation of ammonia emission in Guiyang City[J].Earth and Environment,2010, 38(1): 21-25   
+[16]王平．南通市人为源大气氨排放清单及特征[J]．环境科学 与管理,2012,37(11): 85-88 Wang P. Estimation on anthropogenic emissions of ammonia in Nantong[J].Environmental Science and Management,2012, 37(11): 85-88   
+[17]冯小琼，王幸锐，何敏，等．四川省 2012 年人为源氨排放 清单及分布特征[J].环境科学学报,2015,35(2):394-401 Feng X Q，Wang X R，He M,et al．A 2012-based anthropogenic ammonia emission inventory and its spatial distributioninSichuanProvince[J].ActaScientiae Circumstantiae,2015,35(2):394-401   
+[18]沈兴玲．广东省高分辨率人为源氨排放清单建立及控制成 效研究[D].广州：华南理工大学,2014 Shen X L.A highly resolved anthropogenic ammonia emission inventory in Guangdong Province and assessment of control strategies[D]. Guangzhou: South China University of Technology,2014   
+[19] Zhang Y,Dore A J,Ma L,et al．Agricultural ammonia emissions inventory and spatial distribution in the North China Plain[J]． Environmental Polltion，2010,158(2): 490-501   
+[20] Zhou Y,Cheng S Y,Lang $_ { \mathrm { ~ J ~ L ~ } }$ ，et al．A comprehensive ammonia emission inventory with high-resolution and its evaluation in the Beijing-Tianjin-Hebei(BTH） region, China[J].Atmospheric Environment, 2015,106:305-317   
+[21]宣莹莹，陈霖，耿红，等．太原市 $\mathrm { N H } _ { 3 }$ 排放量估算及地域分 布特征分析[J]．山西农业科学,2015,43(2):176-179 Xuan Y Y,Chen L,Geng H,et al. Estimate and distribution analysis of $\mathrm { N H } _ { 3 }$ emission in Taiyuan[J]. Journal of Shanxi Agricultural Sciences,2015,43(2): 176-179   
+[22] 沈兴玲，尹沙沙，郑君瑜，等．广东省人为源氨排放清单及 减排潜力研究[J].环境科学学报,2014,34(1):43-53 Shen X L,Yin S S, Zheng JY,et al.Anthropogenic ammonia emission inventory and its mitigation potential in Guangdong Province[J].Acta Scientiae Circumstantiae,2014,34(1): 43-53

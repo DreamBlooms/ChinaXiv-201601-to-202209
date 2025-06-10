@@ -1,0 +1,607 @@
+[
+    {
+        "type": "text",
+        "text": "黄土高原地区矿产资源型城市脆弱性及其人口响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王佳宁，薛东前，马蓓蓓，黃朝阳(陕西师范大学 地理科学与旅游学院，陕西 西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：资源型城市脆弱性研究对于当前我国落实新型城镇化战略，推动城市高质量发展具有重要意义。通过以黄土高原地区25个矿产资源型城市为研究对象，从经济、社会、生态环境和资源4个维度构建指标体系，采用TOPSIS法、灰色关联法和地理探测器等方法研究了2000—2015年的城市脆弱性格局及时空演化，并以人口这一流动性最强的社会资源为切入点，分析其脆弱性演变的区域效应。结果表明：(1)2000—2015年，黄土高原地区资源型城市以中低脆弱性为主，总体呈上升趋势,城市间极差化显著，但不平衡性趋缓；(2)该区域资源型城市脆弱性主要问题呈“生态环境-经济 $^ +$ 社会－经济 $^ +$ 资源”的转变特征，其中成熟型、衰退型城市的问题尤为突出；社会及生态环境脆弱性总体上均得以改善，资源脆弱性上升区集中在东部、南部；(3)综合脆弱性的人口响应程度呈下降趋势。城镇人口比重的响应程度最强，人口老龄化、社会总抚养比和流动人口比重的响应具有阶段性特征。(4)分维度脆弱性的人口响应呈现维度差异。经济和社会脆弱性的人口响应具有一致性，社会总抚养比是关键解释因子，生态环境脆弱性中流动人口比重的解释力较强且增幅显著，而资源脆弱性中城镇人口比重的响应程度最高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：矿产资源型城市；脆弱性；人口响应；黄土高原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "资源型城市是以本地区矿产、森林等自然资源开采、加工为主导产业的城市[]。作为一种特殊类型城市，其在推动区域经济社会发展和提高人民生活水平方面做出了巨大贡献。但在自然资源的开发利用下城市诸多问题日益凸显,如产业结构单一[2];矿业发展引发的社会问题[3-4]；矿区的生态修复及可持续发展等[5-6]。脆弱性作为刻画社会经济系统可持续发展状态的重要概念，在资源型城市研究领域得到了广泛应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对资源型城市脆弱性概念[7、评价[8]时空格局[9]、影响因素[10]、预测调控[11]等方面进行了探索，分别从资源类型[12]、城市规模[13]、生命周期[14]等角度对脆弱性进行评价分析。ADGER等[15]界定了人地系统脆弱性的概念。方创琳等[16通过测度指出中国总体上处于中脆弱性阶段，中西部地区脆弱性高于东部地区。BLAIKIE等[17]提出运用压力-状态-响应模型来评价脆弱性并分析其影响因素；张梅等\"指出人口资源、基础设施和社会保障是影响社会系统的3大方面。李博等\"8提出4种可持续发展模式以降低煤炭城市脆弱性，这些研究为把握脆弱性演化规律和内在机制做了重要贡献。在城市发展的诸多因素中，人口作为最活跃的生产要素，在城市发展中扮演着推动者和实现者的角色，是城市发展的内生动力[9]，因此资源型城市的人口流失问题也引发广泛关注[20]。MARTINEZ-FER-NANDEZ等[2I发现随着资源优势的减弱，产业结构、基础设施等因素对矿业城市人口变化有着重要影响。王巍等22指出资源型城市老龄化程度加深，人口流失问题日益凸显。但将资源型城市脆弱性与人口相结合，探讨两者关系的研究仍较为薄弱，因此从人口多重属性出发来探索对脆弱性的响应特征尤为必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄土高原地区作为具有经济和生态双重脆弱性的内陆欠发达地区[23]，资源型城市数量众多，但单独针对该方面的研究较为缺乏，将城市脆弱性演变与人口特征相联系的研究更加少见。本文以黄土高原地区25个资源型城市为研究对象，运用TOPSIS法、灰色关联分析和地理探测器等方法，从综合和分维度2个层面探究资源型城市脆弱性的时空分异，剖析其人口响应特征，以期为把握生态脆弱区资源型城市脆弱性的时空规律和人口响应模式、推动资源型城市转型发展以及制定人口政策提供理论参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄土高原总面积 $6 4 . 8 7 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,能矿资源丰富，是全国能源安全保障基地和生态安全屏障的重要组成部分。《黄土高原地区综合治理规划大纲(2010—2030年)》将其分为黄土高原沟壑区、黄土丘陵沟壑区、土石山区、河谷平原区、沙地和沙漠区、农灌区六大治理区。据国务院颁布的《全国资源型城市可持续发展规划(2013—2020)年》1，该地区共39个资源型城市25个地级市，12个县（市），2个市辖区]，为确保数据可得性及行政单元一致性，本文选取黄土高原地区25个资源型城市为研究对象(图1)。发展阶段方面，成长型和成熟型资源型城市占比较高;资源类型方面以煤炭类城市为主，占比高达 $56 \\%$ 。2015年，黄土高原地区GDP为$5 3 ~ 7 8 9 . 1 7 { \\times } 1 0 ^ { 8 }$ 元，总人口 $1 2 2 9 3 . 3 1 \\times 1 0 ^ { 4 }$ 人,其中城镇人口 $6 0 1 4 . 0 7 \\times 1 0 ^ { 4 }$ 人,产业结构为 $6 . 8 5 { : } 4 8 . 0 7 { : } 4 5 . 0 8 ^ { [ 2 4 ] }$ L",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2指标体系与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1指标体系构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前资源型城市脆弱性的研究指标并不统一，基于系统性、可得性等原则，结合前人研究成果[25]本文构建了由4个目标层，9个准则层，26个具体指标构成的资源型城市脆弱性评价指标体系(表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1熵权 TOPSIS 法TOPSIS(Technique for Or-derPreference by Similarity to Ideal Solution）法是一种逼近于理想解的多目标决策分析方法[26],通过比较系统现实状态和理想状态之间的欧氏距离来研判其发展水平。本文在熵值法确定权重的基础上[27],",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "104°E 108E 112E  \n44 4444资源类型发展阶段■煤炭类 再生型 包 头市综合类 成熟型 大同市·油气类 成长型 朔州市·有色类 □衰退型 乌海市 ? 忻州市鄂尔多斯市 ■  \nN80 石嘴山市 榆林市 阳泉市 2.88吕梁市 3M & 1 晋中市■白银市 延安市 长治市A 庆阳市 . 临汾市 ■. ■ 晋城市平凉市 铜川市运城市 1?宝鸡市 ?  \nN000 0100km ? 咸阳市渭南市 ■洛阳市 2000104°E 108°E 112°E",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "运用该方法来反映资源型城市脆弱性与理想状态的贴近程度，测算综合及分维度脆弱性指数，易于理解，科学性强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2灰色关联度分析灰色关联度分析法是根据因素间发展趋势的相似或相异程度来衡量其关联程度的方法[28]。本文分别以综合脆弱性及分维度脆弱性为参考数列，人口老龄化、社会总抚养比、流动人口比重、人口自然增长率、城镇人口比重为比较数列，通过测算灰色关联系数来衡量人口要素与综合脆弱性、分维度脆弱性的关联性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3地理探测器地理探测器是探测地理事物空间分布差异性的一种方法，包括因子探测、风险探测、交互探测、生态探测等[29]。本文通过因子探测模型来探讨人口要素对综合脆弱性和分维度脆弱性的响应程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.4脆弱性等级划分参考已有研究成果[18],根据黄土高原地区资源型城市脆弱性情况，以2015年为基准，通过自然间断点分级法将脆弱性划分为低、中、高3级(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究数据包括统计数据、空间数据、监测数据。统计数据来自《中国城市统计年鉴》《陕西区域统计年鉴》、各省市统计年鉴、国民经济和社会发展统计公报，水资源数据来自水资源公报，人口数据来自人口普查数据和全国 $1 \\%$ 人口抽样调查。空间数据来自 $1 { : } 1 ~ 0 0 0 ~ 0 0 0$ 全国基础地理数据库；监测数据来自哥伦比亚大学社会经济数据和应用中心(https://sedac.ciesin.columbia.edu/)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/576be65b6c6420d4b8cce06efaf64610f6a0fcde65a01b1ffb7b599e309a64e0.jpg",
+        "table_caption": [
+            "表1资源型城市脆弱性评价指标体系",
+            "Tab.1 Evaluation index system of vulnerability of resource-based cities "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层</td><td>准则层</td><td>指标层</td><td>权重</td><td>单位</td><td>指向</td><td>脆弱性属性</td></tr><tr><td>经济脆弱性</td><td>经济发展水平 (0.448)</td><td>地区生产总值</td><td>0.165</td><td>104元</td><td>1</td><td>敏感性</td></tr><tr><td></td><td></td><td>规模以上工业总产值</td><td>0.130</td><td>10元</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>财政自给率</td><td>0.153</td><td>%</td><td>1</td><td>敏感性</td></tr><tr><td></td><td>经济运行状况 (0.411)</td><td>人均GDP</td><td>0.192</td><td>元</td><td></td><td>应对能力</td></tr><tr><td></td><td></td><td>人均财政收入</td><td>0.219</td><td>元</td><td></td><td>应对能力</td></tr><tr><td></td><td>经济结构状况 (0.142)</td><td>第三产业占比</td><td>0.142</td><td>%</td><td></td><td>应对能力</td></tr><tr><td>社会脆弱性</td><td>人口发展水平 (0.260)</td><td>人口密度</td><td>0.133</td><td>人·km²</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>人均受教育程度</td><td>0.127</td><td>年</td><td></td><td>应对能力</td></tr><tr><td></td><td>社会环境状况 (0.602)</td><td>采矿业从业人员占比</td><td>0.138</td><td>%</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>城镇登记失业率</td><td>0.150</td><td>%</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>城镇最低生活保障人口比重</td><td>0.158</td><td>%</td><td>1</td><td>敏感性</td></tr><tr><td></td><td></td><td>城镇居民人均可支配收入</td><td>0.156</td><td>元</td><td></td><td>应对能力</td></tr><tr><td>资源脆弱性</td><td>公共服务水平 (0.138)</td><td>万人拥有医院、卫生院床位数</td><td>0.138</td><td>张·(10人)</td><td></td><td>应对能力</td></tr><tr><td></td><td>资源利用效率 (0.459)</td><td>万元GDP能耗</td><td>0.159</td><td>tce·(104元)-1</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>万元GDP水耗</td><td>0.149</td><td>m·(104元)-1</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>万元GDP电耗</td><td>0.151</td><td>kW·h·(10元)-1</td><td>+</td><td>敏感性</td></tr><tr><td></td><td>资源保障能力 (0.391)</td><td>人均水资源拥有量</td><td>0.191</td><td>m·人-1</td><td></td><td>应对能力</td></tr><tr><td></td><td></td><td>发电量</td><td>0.200</td><td>10*kW·h</td><td>1</td><td>应对能力</td></tr><tr><td>生态环境脆弱性</td><td></td><td>建设用地面积</td><td>0.151</td><td>km²</td><td>+</td><td>敏感性</td></tr><tr><td></td><td>生态环境状况 (0.268)</td><td>建成区绿化覆盖率</td><td>0.139</td><td>%</td><td>二</td><td>敏感性</td></tr><tr><td></td><td></td><td>干燥度指数</td><td>0.129</td><td></td><td>+</td><td>敏感性</td></tr><tr><td></td><td>污染排放程度 (0.449)</td><td>PM25年平均浓度</td><td>0.150</td><td>μg·m3</td><td>+</td><td>敏感性</td></tr><tr><td></td><td></td><td>二氧化硫排放量</td><td>0.147</td><td>t</td><td>+</td><td>敏感性</td></tr><tr><td></td><td>环境治理能力</td><td>工业废水排放量 工业固体废弃物综合利用率</td><td>0.152</td><td>104t</td><td>+</td><td>敏感性</td></tr><tr><td></td><td>(0.284)</td><td></td><td>0.145</td><td>%</td><td>1</td><td>应对能力</td></tr><tr><td></td><td></td><td>污水处理厂集中处理率</td><td>0.139</td><td>%</td><td>一</td><td>应对能力</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3黄土高原地区资源型城市脆弱性时空分异特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1综合脆弱性的时空分异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2000—2015年，黄土高原地区资源型城市综合脆弱性略有上升，极差化显著，但城市间不平衡性趋缓(表3)。15a间，综合脆弱性均值由0.054上升至0.112，变异系数下降了 $4 1 . 5 9 \\%$ ，表明在快速城镇化过程中资源型城市承受了过大压力，但城市间差异显著缩小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2000年，黄土高原地区资源型城市综合脆弱性以低脆弱性为主(图2a)。高脆弱区域分布于农灌区(表4)，该地区人类活动强度大，脆弱性较高。沙地和沙漠区、土石山区人口稀疏，人类活动强度小，综合脆弱性处于低水平阶段，说明该地区发展压力相对较小。2005年中高脆弱性区域扩大，黄土高原沟壑区和河谷平原区北部分别转变为高脆弱性和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4adc9fb3cac2c6e2ea029508a5fd2946044480a908e919d1b39fc28d76f2d202.jpg",
+        "table_caption": [
+            "Tab.2Vulnerabilityclassificationofresource-basedcities "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脆弱性分级</td><td>低脆弱性</td><td>中脆弱性</td><td>高脆弱性</td></tr><tr><td>综合脆弱性</td><td>≤0.06</td><td>0.06~ 0.18</td><td>> 0.18</td></tr><tr><td>经济脆弱性</td><td>≤0.25</td><td>0.25~ 0.55</td><td>> 0.55</td></tr><tr><td>社会脆弱性</td><td>≤0.27</td><td>0.27~ 0.41</td><td>> 0.41</td></tr><tr><td>生态环境脆弱性</td><td>≤0.09</td><td>0.09~0.19</td><td>>0.19</td></tr><tr><td>资源脆弱性</td><td>≤0.16</td><td>0.16~ 0.33</td><td>> 0.33</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表32000—2015年资源型城市综合脆弱性描述性统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ceddc6dddec13b455cfdb9f54e11166c349a4742ede84940de629cf83e05f5d.jpg",
+        "table_caption": [
+            "表2资源型城市脆弱性等级划分",
+            "Tab.3 Descriptive statistics ofcomprehensive vulnerabilityofresource-basedcitiesfrom2ooo to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>均值</td><td>最大值</td><td>最小值</td><td>标准差</td><td>变异系数</td></tr><tr><td>2000年</td><td>0.054</td><td>0.222</td><td>0.002</td><td>0.056</td><td>1.046</td></tr><tr><td>2005年</td><td>0.075</td><td>0.327</td><td>0.004</td><td>0.079</td><td>1.041</td></tr><tr><td>2010年</td><td>0.079</td><td>0.307</td><td>0.001</td><td>0.076</td><td>0.959</td></tr><tr><td>2015年</td><td>0.112</td><td>0.272</td><td>0.017</td><td>0.068</td><td>0.611</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中脆弱性(图2b)，能源开发速度加快，城市发展较为粗放。2010年综合脆弱性空间格局无显著变化，2015年综合脆弱性显著上升，河谷平原区南部和土石山区南部脆弱性加重，城市发展压力大，抗扰动能力不足。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实施西部大开发以来，黄土高原地区城市由低脆弱性主导过渡到中脆弱性主导阶段，黄土丘陵沟壑区东部、王石山区南部和河谷平原区南部脆弱性增幅显著，空间上呈东南高西北低的特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2分维度脆弱性的时空分异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1分维度脆弱性演化的时间过程黄土高原地区资源型城市各维度脆弱性差异显著，经济脆弱性最高，社会脆弱性次之，生态环境和资源脆弱性较低(表5)。研究期内经济、资源脆弱性增幅显著，生态环境脆弱性得以改善，社会脆弱性呈先升后降的变化态势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2000年中高生态环境脆弱性城市占比达 $8 4 \\%$ ，黄土高原作为生态脆弱区，资源型城市生态破坏和环境污染严重，生态环境脆弱性是该地区面临的主要问题;经济、社会和资源脆弱性以中低水平为主，城市资源优势显著，发展压力较小。2005年经济、社会和资源脆弱性有所上升，转变为以中高水平为主，实施西部大开发以来，该地区城市将资源优势转为经济优势，发展迅猛，但同时导致经济、社会脆弱性成为面临的主要问题;生态环境脆弱性降幅显著，高脆弱性城市占比由 $8 4 \\%$ 降至 $56 \\%$ 。随着退耕还林政策的落实，城市生态环境得以改善。2010年经济、社会脆弱性仍呈上升趋势，高经济、社会脆弱性城市占比分别为 $7 6 \\% . 6 8 \\%$ ；生态环境脆弱性持续向好发展。到2015年，经济脆弱性无较大变化，社会脆弱性显著改善，高社会脆弱性城市占比降至$2 0 \\%$ ;生态环境方面转变为以中低脆弱性为主；资源脆弱性方面高脆弱性城市占比增至 $5 2 \\%$ ,表明在发展中城市的资源依赖性较强，资源优势大幅减弱(表5)，脆弱性主要问题转变为\"经济 $^ +$ 资源”",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2c75d7ce2a860d1a8434ddcc552ce3f62c3c501770baa62d6aea5e382fac991.jpg",
+        "img_caption": [
+            "图22000—2015年资源型城市综合脆弱性",
+            "Fig.2Comprehensive vulnerability of resource-based cities from 2OoO to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/de5890f5f5edb48d27194a7ba071be7bbe3638ea8d1477491747d3881adac2a6.jpg",
+        "table_caption": [
+            "Tab.4Comprehensive managementof the vulnerabilityofresource-based cities inLoes Plateauregions from 200 to 201: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td></tr><tr><td>高脆弱性</td><td>农灌区</td><td>黄土高原沟壑区、农灌区</td><td>黄土高原沟壑区、农灌区</td><td>黄土高原沟壑区、农灌区、河谷平 原区南部</td></tr><tr><td>中脆弱性</td><td>黄土高原沟壑区、河谷平 原区南部</td><td>黄土高原沟壑区东南部、河 谷平原区、黄土丘陵沟壑区 东部</td><td>黄土高原沟壑区东部、河谷 平原区南部、黄土丘陵沟壑 区东部</td><td>黄土高原沟壑区东部、河谷平原区 中部、黄土丘陵沟壑区南部、土石 山区南部</td></tr><tr><td>低脆弱性</td><td>沙地和沙漠区、黄土丘陵 沟壑区、河谷平原区北部、 土石山区</td><td>沙地和沙漠区、黄土丘陵沟 壑区西部、北部、土石山区</td><td>沙地和沙漠区、黄土丘陵沟 壑区西部、北部、土石山区</td><td>沙地和沙漠区、黄土丘陵沟壑区西 部、北部、土石山区东北部</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3dfa01a71cb8b8869f4b8fa999a6c4900933849f47af6be5fcce49b2a4fa6f02.jpg",
+        "table_caption": [
+            "表42000—2015年黄土高原地区综合治理分区的资源型城市脆弱性",
+            "表52000—2015年资源型城市分维度脆弱性",
+            "Tab.5Dimension vulnerability of resource-based cities from 2ooo to 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">类型</td><td colspan=\"3\">2000年</td><td colspan=\"3\">2005年</td><td colspan=\"3\">2010年</td><td colspan=\"3\">2015年</td></tr><tr><td>低</td><td>中</td><td>高</td><td>低</td><td>中</td><td>高</td><td>低</td><td>中</td><td>高</td><td>低</td><td>中</td><td>高</td></tr><tr><td rowspan=\"2\">经济脆弱性</td><td>数量/个</td><td>6</td><td>18</td><td>1</td><td>2</td><td>5</td><td>18</td><td>1</td><td>5</td><td>19</td><td>1</td><td>5</td><td>19</td></tr><tr><td>比重/%</td><td>24</td><td>72</td><td>4</td><td>8</td><td>20</td><td>72</td><td>4</td><td>20</td><td>76</td><td>4</td><td>20</td><td>76</td></tr><tr><td rowspan=\"3\">社会脆弱性</td><td>均值</td><td>0.21</td><td>0.40</td><td>0.62</td><td>0.24</td><td>0.46</td><td>0.61</td><td>0.05</td><td>0.47</td><td>0.63</td><td>0.04</td><td>0.43</td><td>0.63</td></tr><tr><td>数量/个</td><td>10</td><td>12</td><td>3</td><td>1</td><td>19</td><td>5</td><td>1</td><td>7</td><td>17</td><td>6</td><td>14</td><td>5</td></tr><tr><td>比重/%</td><td>40</td><td>48</td><td>12</td><td>4</td><td>76</td><td>20</td><td>4</td><td>28</td><td>68</td><td>24</td><td>56</td><td>20</td></tr><tr><td rowspan=\"2\">生态环境 脆弱性</td><td>均值</td><td>0.23</td><td>0.33</td><td>0.43</td><td>0.25</td><td>0.35</td><td>0.48</td><td>0.14</td><td>0.35</td><td>0.48</td><td>0.22</td><td>0.35</td><td>0.46</td></tr><tr><td>数量/个</td><td>1</td><td>3</td><td>21</td><td>1</td><td>10</td><td>14</td><td>1</td><td>13</td><td>11</td><td>3</td><td>13</td><td>9</td></tr><tr><td rowspan=\"4\">资源脆弱性</td><td>比重/%</td><td>4</td><td>12</td><td>84</td><td>4</td><td>40</td><td>56</td><td>4</td><td>52</td><td>44</td><td>12</td><td>52</td><td>36</td></tr><tr><td>均值</td><td>0.04</td><td>0.17</td><td>0.30</td><td>0.10</td><td>0.16</td><td>0.29</td><td>0.10</td><td>0.14</td><td>0.29</td><td>0.04</td><td>0.14</td><td>0.24</td></tr><tr><td>数量/个</td><td>11</td><td>12</td><td>2</td><td>2</td><td>15</td><td>8</td><td>7</td><td>14</td><td>4</td><td>2</td><td>10</td><td>13</td></tr><tr><td>比重/%</td><td>44</td><td>48</td><td>8</td><td>8</td><td>60</td><td>32</td><td>28</td><td>56</td><td>16</td><td>8</td><td>40</td><td>52</td></tr><tr><td></td><td>均值</td><td>0.11</td><td>0.24</td><td>0.43</td><td>0.08</td><td>0.26</td><td>0.43</td><td>0.12</td><td>0.24</td><td>0.45</td><td>0.05</td><td>0.26</td><td>0.40</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从资源型城市发展阶段来看（图3），2000年各类城市生态环境脆弱性均较高；2005年，随着西部大开发及资源枯竭型城市试点工作的开展，各类城市经济和社会脆弱性有所上升，脆弱性问题发生了转变，而生态环境脆弱性呈下降趋势，其中衰退型城市降幅显著，这与上述结论相一致;2010年成熟型城市处于转折期，各维度脆弱性均呈上升趋势；2015年各类城市资源脆弱性大幅上升，脆弱性问题转为“经济 $^ +$ 资源”。成熟型城市经济、社会脆弱性均升至最高，经济发展环境较差，社会保障水平有待完善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2分维度脆弱性演化的空间分异2000—2015年，分维度脆弱性空间变化特征各异，经济脆弱性变化幅度较小，社会、生态环境和资源脆弱性变化幅度较大(图4)。经济维度自东南、东北向西北方向脆弱性得以改善，2005年除鄂尔多斯、平凉外，其余地区增幅显著；2010年、2015年变化幅度较小。社会维度脆弱性呈先升后降的变化特征，2005年$2 0 \\%$ 城市脆弱性大幅上升；2010年以来除平凉、庆阳等市外，其余城市脆弱性降幅显著。生态环境脆弱性总体呈下降趋势，以西北一东南为轴向两侧地区脆弱性程度降低。资源脆弱性维度东部、南部地区增幅最大，城市资源压力较重。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7a6996311aa4481af3c197c8c4c5cad35d8dee3bcf46c6537c6403d413b6384.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "图3分维度脆弱性与城市类型交叉关系",
+            "Fig.3Relationship between multidimensional vulnerability and city type "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在西部大开发及退耕还林政策引领下，黄土高原地区社会及生态环境脆弱性有所改善，但资源脆弱性大幅上升，东部、南部地区增幅尤为显著，脆弱性主要问题呈“生态环境-经济 $^ +$ 社会-经济 $^ +$ 资源”的变化特征。城市发展阶段上，应重视成熟型城市的经济、社会脆弱性问题和衰退型城市的经济、资源脆弱性问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4黄土高原地区资源型城市脆弱性的人口响应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "新型城镇化进程中人口作为资源型城市发展中最具活力的要素，对脆弱性响应尤为突出[30]。因此，为厘清黄土高原地区资源型城市脆弱性的人口响应特征，基于相关研究，首先采用灰色关联分析法遴选出与脆弱性密切关联的人口要素;然后运用地理探测器的因子探测模型探究综合及分维度脆弱性城市人口要素的响应程度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1资源型城市脆弱性与人口属性指标的灰色关联度分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别以综合脆弱性和分维度脆弱性为参考数列，选取人口老龄化、社会总抚养比、流动人口比重、人口自然增长率和城镇人口比重5项表征区域人口特征的重要指标为比较数列，测算关联系数(表6)。人口老龄化和社会总抚养比表征人口年龄结构和人口负担状况，流动人口比重和城镇人口比重两者反映了城市人口吸纳能力（各年份关联系数类似，受篇幅限制仅以2015年为例)。结果表明，黄土高原地区资源型城市脆弱性与人口老龄化、社会总抚养比、流动人口比重及城镇人口比重的关联系数较高，而与人口自然增长率的关联系数较低。因此，本文将依据上述4项指标分析资源型城市脆弱性演化的人口效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/69c5fc2fa18cf054acf87c290bee1b4d9267f75ef05dbf759b78ca1c7440e595.jpg",
+        "img_caption": [
+            "图4资源型城市分维度脆弱性变化程度",
+            "Fig.4Variation degree of multidimensional vulnerability of resource-based cities "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/27c1e5dde67a10a84f3d21fc684374664ea05c624a19d730bc407e61ebce82db.jpg",
+        "table_caption": [
+            "表62015年资源型城市脆弱性与人口要素关联系数",
+            "Tab.6 Correlationcoeficient between vulnerabilityand population factors of resource-based cities n 2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>人口老龄化</td><td>社会总抚养比</td><td>流动人口比重</td><td>人口自然增长率</td><td>城镇人口比重</td></tr><tr><td>综合脆弱性</td><td>0.94</td><td>0.95</td><td>0.91</td><td>0.65</td><td>0.94</td></tr><tr><td>经济脆弱性</td><td>0.98</td><td>0.99</td><td>0.93</td><td>0.65</td><td>0.97</td></tr><tr><td>社会脆弱性</td><td>0.97</td><td>0.97</td><td>0.92</td><td>0.67</td><td>0.95</td></tr><tr><td>生态环境脆弱性</td><td>0.96</td><td>0.96</td><td>0.93</td><td>0.66</td><td>0.95</td></tr><tr><td>资源脆弱性</td><td>0.97</td><td>0.97</td><td>0.93</td><td>0.65</td><td>0.97</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2综合脆弱性的人口响应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过因子探测对人口老龄化 $( X _ { 1 } )$ 、社会总抚养比 $\\left( { { X } _ { 2 } } \\right)$ 、流动人口比重 $\\left( { { X } _ { 3 } } \\right)$ 和城镇人口比重 $( X _ { 4 } ) 4$ 项指标的响应程度进行分析， $q$ 值越大说明该要素的响应越显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2000一2015年，4项人口指标对综合脆弱性的解释力总体呈下降趋势(表7)。人口老龄化对综合脆弱性的响应程度先升后降，在2005年达到峰值，2015年 $q$ 值降至0.10,解释力大幅减弱。社会总抚养比和流动人口比重的解释力呈U型变化特征，2000年 $q$ 值处于较高水平;高脆弱性城市人口负担较重，对人口吸引力较低。城镇人口比重的响应程度呈倒N型的波动态势，相比而言，城镇人口比重对综合脆弱性的解释力总体上高于其它指标，表明城市发展水平对综合脆弱性的响应程度较高，低脆弱性城市人口大量向城市集聚，高脆弱性城市如白",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表7人口要素对综合脆弱性的决定力",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a4efa1ed5ff96e7a465d7e256a011bb9720c75e09eb52fe55c4235661d230e0.jpg",
+        "table_caption": [
+            "Tab.7 Determinants of population factors on the comprehensive vulnerability "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>q值</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td></tr><tr><td>人口老龄化(Xi)</td><td>0.28</td><td>0.48</td><td>0.19</td><td>0.10</td></tr><tr><td>社会总抚养比(X)</td><td>0.41</td><td>0.24</td><td>0.14</td><td>0.28</td></tr><tr><td>流动人口比重(X)</td><td>0.28</td><td>0.16</td><td>0.36</td><td>0.25</td></tr><tr><td>城镇人口比重(X4)</td><td>0.64</td><td>0.41</td><td>0.20</td><td>0.33</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "银、渭南面临人口收缩现象。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3分维度脆弱性的人口响应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在资源型城市综合脆弱性人口响应的基础上，进一步探讨分维度脆弱性的人口响应特征，并绘制出人口要素对分维度脆弱性解释力的 $q$ 值折线图（图5)，据此剖析其人口响应差异",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "经济脆弱性中人口老龄化的解释力呈下降态势；社会总抚养比对经济脆弱性的响应程度处于高位稳定状态， $q$ 值维持在0.47左右;流动人口比重和城镇人口比重分别呈N型和倒V型的变化特征，流动人口比重对经济脆弱性的解释力在2005年、2015年分别为0.65、0.62，处于较高水平；城镇人口比重对其的响应程度在2010年达到峰值(0.77)。高经济脆弱性城市一业独大，经济发展问题突出，吸纳人口不足，而低脆弱性城市经济发展势头强劲，人口大量涌入城市，为城市发展提供了强大的内生动力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "社会脆弱性中人口老龄化的 $q$ 值探测结果增幅显著，但总体处于较低水平，响应程度较弱;社会总抚养比的解释力较强且无显著变化，如平凉作为高社会脆弱性城市，城镇登记失业率高居前列，矿工失业现象突出，社会负担较重;而流动人口比重和城镇人口比重 $q$ 值呈波动变化特征，随着时间推移响应程度变化显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态环境脆弱性中人口老龄化的解释力处于低位稳定状态；社会总抚养比的 $q$ 值由0.37降至0.14,对生态环境脆弱性的响应程度呈减弱趋势；流动人口比重和城镇人口比重对该维度脆弱性的解释力呈上升趋势，增幅分别为 $3 0 . 3 0 \\%$ 和 $7 2 . 2 2 \\%$ 。低脆弱性城市生态环境质量较高，对人口吸引力强，而高脆弱性城市则相反。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2649c230a2227ed46cf9b3c94e746e6481e780ec41c5c264e59b9120478e29fa.jpg",
+        "img_caption": [
+            "图5分维度人口要素 $q$ 值探测结果及变化",
+            "Fig.5Results and changes of $q$ values of population factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "资源脆弱性中人口老龄化、社会总抚养比和城镇人口比重3个指标的 $q$ 值探测结果呈波动下降趋势，响应程度有所减弱；而流动人口比重的响应程度逐渐增强。其中城镇人口比重的解释力最高，对资源脆弱性的响应程度最强。高脆弱性城市资源消耗量大，资源型产业发展潜力较小。因此城市人口吸引力显著下降，进入发展衰退期。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总体而言，经济和社会脆弱性维度的人口响应存在一致性，而生态环境和资源脆弱性维度人口响应差异显著。经济和社会脆弱性维度社会总抚养比是关键解释因子，人口老龄化的解释力相对较低；生态环境脆弱性维度流动人口比重的响应程度波动上升，到2015年增至最高；资源脆弱性维度城镇人口比重的解释力最为显著，但呈波动下降趋势，随着城市资源依赖性的减弱，人口吸引力受资源脆弱性影响的程度有所下降。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文在测算黄土高原资源型城市脆弱性的基础上，分析了脆弱性时空分异规律，并重点刻画了人口要素对资源型城市脆弱性的响应特征。与前人研究相比，深入探讨了人口要素对资源型城市脆弱性的响应关系，有助于揭示人口要素对脆弱性响应的内在机制。在研究时段内，黄土高原地区高脆弱性城市人口吸纳能力减弱，人口负担较重，这与王巍等[22]指出的资源型城市人口问题基本一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在矿产资源型城市脆弱性问题日益突出的背景下，推动资源型城市实现高质量发展尤为重要。主要可从以下方面进行优化：（1）调整经济结构，提高经济发展质量。推动产业柔性改造，提高主动转型意识以增强经济发展稳定性；（2）调整发展方向，规避高脆弱性风险。加强衰退型城市的政策支持力度，由工业型向服务型转变；成熟型城市可利用经济优势培育新兴产业。(3）完善社会保障制度，优化就业环境，增强人力资源吸引能力。加强高脆弱性城市社会福利建设，支持下岗矿工再就业；低脆弱性城市抓住人口红利机遇期，重视流动人口的管理安置问题，提高城镇化质量。由于数据等原因，本文选择的人口响应指标以宏观特征为主，后续研究中拟分析资源型城市居民的幸福指数、健康状况等人本主义研究视角下的微观指标，进一步深入研究资源型城市脆弱性的人口响应特征与机制。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文运用空间分析、灰色关联分析和地理探测器方法，从综合和分维度2个层面研究了黄土高原矿产资源型城市的脆弱性时空分异及其人口响应特征。主要结论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）2000—2015年黄土高原地区资源型城市的综合脆弱性以中低水平为主，总体上略有上升，城市间差异显著，但不平衡性趋缓。分维度上呈现出“生态环境-经济 $^ +$ 社会-经济 $^ +$ 资源\"的演化过程，应重点关注成熟型城市的经济、社会脆弱性问题和衰退型城市的经济、资源脆弱性问题",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）黄土高原地区资源型城市综合脆弱性东南高西北低，高脆弱区集中在黄土高原沟壑区和农灌区；分维度上，大多数城市的社会及生态环境脆弱性得以改善，资源脆弱性上升区集中在东部、南部，经济脆弱性东部、南部地区变化幅度相对较小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）综合脆弱性的人口响应程度总体呈下降趋势。人口老龄化、社会总抚养比和流动人口比重对其的响应程度呈阶段性变化；城镇人口比重是关键解释因子，低脆弱性城市人口迅速扩张，高脆弱性城市如白银、渭南等面临人口收缩现象；",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）人口要素对分维度脆弱性的响应呈现维度差异。经济和社会脆弱性的人口响应存在一致性，社会总抚养比是关键解释因子；生态环境脆弱性中流动人口比重的解释力增幅显著，高生态环境脆弱性城市人口外流;资源脆弱性中城镇人口比重是关键解释因子，低资源脆弱性城市人口大量集聚。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]国务院.全国资源型城市可持续发展规划(2013—2020)[EB/ OL].[2013-12-03]. http: //www.gov.cn/zwgk/2013-12/03/content_ 2540070. htm. [State Council. National sustainable development planning of resource-based cities (2013—2020)[EB/OL]. [2013- ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理 理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "12-03]. htp://www.gov.cn/zwgk/2013-12/03/content_2540070. htm.]   \n[2]王涛,王晴晴,赵丹,等.资源型地区产业多元化问题研究- 以山西省为例[J].干旱区地理,2019,42(5):1221-1228. [WANG Tao,WANG Qingqing, ZHAO Dan,et al.Problems of industrial diversification in resource based areas: Taking Shanxi Province asan example[J].Arid Land Geography，2019,42(5): 1221-1228.]   \n[3]BEBBINGTON A, HINOJOSA L, BEBBINGTON D H,et al. Contention and ambiguity: Mining and the possbilities of development [J]. Development and Change,2008,39(6): 887-914.   \n[4]杨维鸽,勾萌萌,叶媛媛,等.尾矿区居民的环境污染感知研究 [J].干旱区地理,2020,43(4): 1108-1116.[YANG Weige,GOU Mengmeng,YE Yuanyuan,et al. Perception of environmental pollution in the residents of the tail mining area[J].Arid Land Geography,2020,43(4): 1108-1116.]   \n[5]PEGG S. Mining and poverty reduction: Transforming rhetoric into reality[J]. Journal of Cleaner Production,2006,14(3): 376-387.   \n[6]宋永永,薛东前,代兰海.生态脆弱能源区人居环境与经济协调 发展时空格局及演化机制——以晋陕蒙接壤区为例[J].干旱 区地理,2017,40(6): 1328-1337.[SONG Yongyong,XUE Dongqian,DAI Lanhai. Spatial-temporal pattern and evolution mechanism of coordinated development of human settlement environment and economy in energy accumulation and vulnerable ecology regions: A case of contiguous areas among Shanxi-Shaanxi-Inner Mongolia [J].Arid Land Geography,2017,40(6): 1328-1337.]   \n[7]TURNER B L, KASPERSON R E, MATSON PA,et al.A framework for vulnerability analysis in sustainability science[J].Proceedings of the National Academy of Sciences，2003,100(14): 8074-8079.   \n[8]苏飞,张平宇.矿业城市社会系统脆弱性研究——以阜新市为 例[J].地域研究与开发,2009,28(2):71-74.[SUFei, ZHANG Pingyu.Primary analysis on the combination of land utilization plan and environmental impact assessment[J].Areal Research and Development,2009,28(2): 71-74.]   \n[9]李海玲,马蓓蓓,薛东前,等.丝路经济带背景下我国西北地区 城市脆弱性的空间分异与影响因素[J]).经济地理,2018,38(2): 66-73.[LI Hailing,MA Beibei,XUE Dongqian,et al. The spatial diferentiation and determinants of urban vulnerability in northwest China under the background of the Silk Road Economic Belt [J]. Economic Geography,2018,38(2): 66-73.]   \n[10] 张梅,罗怀良,陈林.资源型城市脆弱性评价——以攀枝花市为 例[J].长江流域资源与环境,2018,27(5):1170-1178.[ZHANG Mei, LUO Huailiang, CHEN Lin. Vulnerability assessment of resource-based city: A case study of Panzhihua[J]. Resources and Environment in the Yangtze Basin,2018,27(5): 1170-1178.]   \n[11]李鹤,张平宇.矿业城市经济脆弱性演变过程及应对时机选择 研究——以东北三省为例[J].经济地理,2014,34(1):82-88. [LI He,ZHANG Pingyu. The evolution and coping timing of economic vulnerability of mining cities:A case study in northeast China[J].Economic Geography,2014,34(1): 82-88.] [12]孙平军,修春亮.辽宁矿业城市经济系统应对能力分析与脆弱 性评价[J].干旱区资源与环境,2011,25(4):22-27.[SUN Pingjun, XIU Chunliang. Capacity and vulnerability assessment for the economic system of mining-city in Liaoning Province[J].Journal of Arid Resources and Environment,2011,25(4): 22-27.] [13]苏飞,张平宇,李鹤.中国煤矿城市经济系统脆弱性评价[J].地 理研究,2008,27(4): 907-916.[SU Fei, ZHANG Pingyu,LI He. Vulnerability assessment of coal-mining cities’economic systems in China[J]. Geographical Research, 2008,27(4): 907-916.] [14] 韩瑞玲,佟连军,佟伟铭,等.基于集对分析的鞍山市人地系统 脆弱性评估[J].地理科学进展,2012,31(3):344-352.[HAN Ruiling,TONG Lianjun, TONG Weiming, et al. Research on vulnerability assessment of human-land system of Anshan City based on set pair analysis[J]. Progress in Geography,2012,31(3): 344-   \n352.] [15]ADGER W N.Vulnerability[J]. Global Environmental Change,   \n2006,16(3): 268-281. [16]方创琳,王岩.中国城市脆弱性的综合测度与空间分异特征[J] 地理学报,2015,70(2):234-247.[FANG Chuanglin,WANG Yan.A comprehensive assessment of urban vulnerability and its spatial diferentiation in China[J]. Acta Geographica Sinica,2015,   \n70(2): 234-247.] [17]BLAIKIE P, CANNON T, DAVIS I, et al. At risk: Natural hazards, people's vulnerability and disasters[M]. London: Routledge,1994. [18] 李博,佟连军,韩增林.东北地区煤炭城市脆弱性与可持续发展 模式[J].地理研究,2010,29(2):361-372.[LIBo,TONG Lianjun, HAN Zenglin. Vulnerability and sustainable development model of coal-mining cities in northeast China[J]. Geographical Research,   \n2010,29(2): 361-372.] [19] 那伟,刘继生.矿业城市人地系统的脆弱性及其评价体系[J].城 市问题,2007,(7): 43-48.[NA Wei,LIU Jisheng.Research on the vulnerability and the evaluation of the human-earth system in mining cities[J]. Urban Problems,2007,(7): 43-48.] [20] 杨东峰,殷成志.如何拯救收缩的城市:英国老工业城市转型经 验及启示[J].国际城市规划,2013,(6):50-56.[YANG Dongfeng,YIN Chengzhi.How to save the shrinking cities: Old industrial cities’transition in the UK[J]. Urban Planning International,   \n2013, (6): 50-56.] [21]MARTINEZ-FERNANDEZ C,WU C T, SCHATZ L K,et al. The shrinking mining city: Urban dynamics and contested territory[J]. International Journal of Urban and Regional Research,2012,36 (2): 245-260. [22] 王巍,路春艳,王英哲.黑龙江省资源型城市人口流失问题与对 策[J].中国人口·资源与环境,2018,28(S2):63-66.[WANG Wei, LU Chunyan, WANG Yingzhe.Problems countermeasures of population loss in resource-based cities in Heilongjiang[J]. China Population,Resources and Environment, 2018,28(S2): 63-66.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]SONG Y Y,XUEDQ,DAI LH, et al. Land cover change and ecoenvironmental quality response of different geomorphic units on the Chinese Loess Plateau[J]. Journal of Arid Land,2O2O,12(1): 29-43. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24]李武斌,宋永永，薛东前,等.1990—2015年黄土高原地区城镇化与城市发展数据集[DB/OL].西安:陕西师范大学,2018-12-25.[LI Wubin,SONG Yongyong,XUE Dongqian,et al.Data seton urbanization and urban development in the Loess Plateau re-gion from 199O to 2015[DB/OL].Xi'an: Shaanxi Normal Universi-ty,2018-12-25.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25]徐君,李贵芳,王育红.国内外资源型城市脆弱性研究综述与展 望[J].资源科学,2015,37(6):1266-1278.[XU Jun,LI Guifang, WANG Yuhong.Review and prospect of resource-based city vulnerability in China and abroad[J].Resources Science,2O15,37(6): 1266-1278.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26] 张一达,刘学录,范亚红,等.基于改进TOPSIS法的兰州市土地 利用多功能性评价[J].干旱区地理,2019,42(2):444-451. [ZHANG Yida,LIU Xuelu,FAN Yahong,et al.Multi-functional evaluation on land use in Lanzhou City based on the improved ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TOPSIS[J]. Arid Land Geography,2019,42(2): 444-451.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[27]朱薇,周宏飞,李兰海,等.哈萨克斯坦农业水土资源承载力评 价及其影响因素识别[J].干旱区研究,2020,37(1):254-263. [ZHU Wei, ZHOU Hongfei, LI Lanhai,et al. Evaluation on carrying capacity of agricultural water and land resources and identification of affecting factors in Kazakhstan[J].Arid Zone Research, 2020,37(1): 254-263.]   \n[28]邓聚龙.灰色系统理论教程[M].武汉:华中理工大学出版社, 1990:53-84.[DENG Julong. The course of grey system theory[M]. Wuhan:Huazhong University of Science and Technology Press, 1990: 53-84.]   \n[29]王劲峰,徐向东.地理探测器:原理与展望[J].地理学报,2017, 72(1):116-134.[WANG Jinfeng，XU Xiangdong.Geodetector: Principle and prospective[J].Acta Geographica Sinica,2017,72 (1): 116-134.]   \n[30] 杨振山,孙艺芸.城市收缩现象、过程与问题[J].人文地理, 2015,30(4): 6-10.[YANG Zhenshan,SUN Yiyun. City shrinking: Phenom enon,progressand problems[J].Human Geography, 2015,30(4): 6-10.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "欢迎投稿与订阅",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "《干旱区地理》创刊于1978年，由中国科学院新疆生态与地理研究所、中国地理学会主办、科学出版社出版的综合性学术期刊。本刊办刊宗旨是反映干旱区地理学及其分支学科、边缘学科和交叉学科的新理论、新技术和新方法。系中国自然科学核心期刊、全国优秀地理期刊、中国科技论文统计源期刊及中国科学引文数据库核心期刊。目前,在干旱区地学领域具有较高影响力的学术期刊。欢迎国内外地学及相关学科的科研人员、高等院校师生投稿。投稿系统:http://alg.xjegi.com。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "《干旱区地理》在国内外公开发行，国际刊号ISSN1000-6060,国内刊号:CN65-1103/X，大16开，双月刊，每期定价50元，全年300元。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "欢迎单位和个人订阅《干旱区地理》。订阅方式包括：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）各地邮局订阅：邮发代号58-45。  \n(2）科学出版社期刊发行部：联系电话010-64017032/64017539。(3）网上购买：搜索淘宝、微店铺名称：中科期刊 $$ 干旱区地理。编辑部地址：乌鲁木齐市北京南路818号45号楼《干旱区地理》编辑部邮编：830011  \n电话：0991-7827350  \nE-mail:aridlg@ms.xjb.ac.cn  \n网址:http://alg.xjegi.com",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vulnerability and population response of mineral resource-based cities in theLoess Plateau ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WANG Jia-ning， XUE Dong-qian， MA Bei-bei， DONG Chao-yang (School ofGeography and Tourism,Shaanxi Normal Universit,Xi'an 71ol19,Shaanxi,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Itis of great significance to study the vulnerability of resource-based cities,which can implementa new urbanization strategy and promote the sustainable development of cities.Taking 25 mineral resource-based cities in the Loess Plateau,China as research objects,this study built an index system from four dimensions (economic, social,ecological environment,and resources).Thevulnerability from 2OOO to 2015 wasevaluated toanalyze the spatio-temporal pattrn of vulnerability through grey correlation and geographic detector methods.Meanwhile, taking the population,the most mobile social resource,as the starting point,this paper analyzed the regional effect of the evolution of vulnerabilityof resource-based cities.It probed into therelationship between population factors and vulnerabilityof resource-based cities,which is helpful to reveal the internal mechanismof the population factors’response to vulnerability.The research findings are as folows: (1)The resource-based cities intheresearch area mainly exhibits mediumand low vulnerability,and theoveralltrend was risen from 2OOO to 2015.The polarization between cities was significant，but the imbalance was decreased.On the spatial pattern，the comprehensive Vulnerability of resource-based cities had spatial heterogeneity in the Loess Plateau.Generally,it shows a decreasing pattern characteristic from southeast to northwest.Among them,the high vulnerable areas were concentrated in Loess Plateau gully regionand the agricultural irrigation. (2) The vulnerability of resource-based cities in this region is characterized by the transformation of “ecological environment-economy $^ +$ society-economy $^ +$ （204号 resources\".Among them,the economic-social vulnerability of mature-type and the economic-resources vulnerability of decline-type cities’problem should be emphasized.In addition,the social vulnerabilityand ecological vulnerabilityof most cities had improved,whiletheresourcevulnerability hadincreased significantly in theeast and south.For the dimension of economic vulnerability,the range ofchange in the eastern and southern regions was relatively small.(3）The population response degree of comprehensive vulnerability was decreased.From the response of populationaging，the total social dependency ratio and proportion of floating population were characterized by stages.The response of the proportion of urban population was found to be the strongest. The population of cities with low vulnerability expanded rapidly,while cities with high vulnerability,such as Baiyin and Weinan,faced populationcontraction.(4)The population response of sub-dimensional vulnerability presented dimensional diffrences,whilethe economic and social vulnerabilitywas observed tobe consistent.The total social dependencyratio wasthe key explanatory factor.In the ecological environment vulnerability,the proportionof floating population had a strong explanatory power and increased significantly,while the proportion of urban population had the highest degree of response in the resource vulnerability. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:mineral resource-based city; vulnerability; population response; Loess Plateau ",
+        "page_idx": 11
+    }
+]

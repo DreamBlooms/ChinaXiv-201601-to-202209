@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160806 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马永清，采用植物化感作用与诱捕作物消除列当土壤种子库[J].中国生态农业学报,2017,25(1):27-35Ma YQ.Using alelopathyand trap crops to eliminate soil bank ofbroomrape seed[J]. Chinese Journal ofEco-Agriculture,2017,25(1): 27-35",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采用植物化感作用与诱捕作物消除列当土壤种子库 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马永清",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(土壤侵蚀与旱地农业国家重点实验室/西北农林科技大学水土保持研究所杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究证明化感作用需要满足如下4个方面:1)供体植物释放化感物质使得受体植物受到连续和定量的影响；2)能从供体植物中分离、鉴定得到化感物质，而且这些化感物质无论是在室内还是在田间，都能对在自然生态系统中邻近的伴生植物产生效应；3)供体植物产生和释放的化感物质在自然条件下能以足够的浓度到达邻近受体植物；4)以足够生物活性到达受体植物的化感物质能够被吸收并能够影响受体植物的生理生化过程，而且这种影响必须排除受体植物的生长发育不是由于竞争、动物侵害、病菌感染以及物理环境等非化感因素产生的影响。列当是列当科(Orobanchaceae)列当属(Orobanche)的根寄生植物，是一种寄生于其他植物根部的全寄生植物。全世界已发现100 种列当属根寄生植物，在我国危害较为严重的是向日葵列当( $\\mathbf { \\xi } ^ { \\mathcal { O } }$ cumana)和瓜列当(O.aegyptiace)。向日葵列当主要分布在陕西北部、河北、新疆、山西、内蒙古及东北三省，主要危害向日葵。瓜列当主要分布在新疆，危害瓜类、番茄、马铃薯。列当杂草的种子体积小、重量轻 $( 3 { \\sim } 6 ~ \\mu \\ g )$ ，而且每株植物可以生产大量种子。这些种子数量巨大且在土壤中可以保持生存力长达15\\~20年以上。成熟后的列当种子需要经过一段时间的后熟过程，完成后熟的列当种子在发芽之前需要1\\~2周时间在一定的温度和湿度条件下进行预培养，预培养后的列当种子还必须从寄主那里获得一个化学物质才能发芽，在自然条件下这种发芽刺激物质是由寄主或非寄主植物的幼根分泌提供的。获得该物质后，列当种子的\"发芽管”可在数日内长出种皮，之后在吸器诱导物质的作用下很快形成吸器，与寄主根吸附并穿入根内后与寄主根的木质部形成联结，从寄主植物那里竞争性地夺取水分、养分及生长激素。由于列当属植物是根寄生杂草，在没有长出地面之前，它已经给作物造成严重的伤害，所以不易控制，有效的途径是尽量减少土壤中的列当种子含量。诱捕作物是指该作物的根系能够分泌列当属植物种子发芽的刺激物质，但是又不会被列当正常寄生，诱捕作物本身可以进行正常收获。由于列当属植物种子的生命只有一次，发芽后不能寄生就会死亡，这种发芽又称之为“自杀发芽”，如此可以在列当找不到寄主之前死亡，从而大大降低土壤中列当的种子库。本文介绍了作者项目组从事采用化感作用与诱捕作物(小麦、玉米、棉花、大豆等)消除列当土壤种子库最新研究进展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物化感作用；诱捕作物；列当；根寄生植物；土壤种子库中图分类号：S451;Q945.79 文献标识码：A 文章编号:1671-3990(2017)01-0027-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using allelopathy and trap crops to eliminate soil bank of broomrape seed ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Yongqing (The State KeyLaboratoryofSoilErosionandDrylandFraming/InstituteofSoiland WaterConservation,NorthwestA&F University,Yangling 712100,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ".bstract:Allelopathyshould satisfythe following four factors:1）donorplants release allelochemicals that affectrecipen plantscontinuouslyand quantitatively；2）alelochemicalsareisolatedand identified from donor plantsand affect accompanying plants innaturalecosystems,whether indoorsorin fields;3)donor plants produceand release allelochemicals in suficientconcentrations undernatural conditions toadjacentrecipientplants；and4)alelochemicals releasedtorecipient plants with enough biological activitytoafect plants physiologicaland biochemical proceses,which eect must exclude competition,animal abuse，pathogenic infectionand thephysical environment.Broomrapes(Orobanche sp.）are root holoparasites belongingtothegenus Orobanchethatlack chlorophyllanddepend entirelyon hosts for nutrients.Although the world of broomrape includes some 100 species,sunflower broomrape (O.cumana)and Egyptian broomrape (O.aegyptiace) are the most common species and have the widest distribution in China.Sunflower broomrape is mainly distributed in the northernregionsof Shaanxi,Hebei,Xinjiang,Shanxi,InnerMongoliaand alsoin Northeast China.Egyptian broomrapeis mainly distributed in Xinjiang and causes heavy and direct damage to tomatoes and potatoes.Broomrape seeds are light $( 3 - 6 ~ \\mu \\mathrm { g } )$ and small,and each broomrape plant can produce a huge quantityof tiny dust-like seeds which can survive in the soil for as long as 15-2O years.Broomrape seeds have special germination requirements—seeds should be kept in a warm and moist environment for1-2 weeks and then exposed to germination stimulants.Under natural conditions,the germination stimulantsarefromhostorthe non-hostplantrot exudates.Onceatachedtoaroot,theparasitetaps waterand assimilates nutrients from host vessels.Efficient and economiccontrol of broomrape is extremely dificult because infestationoccurs primarilyunderground.The most efective wayis to decrease soil bank ofbroomrape seeds.Trapcrops are non-host plants whose rootsexudechemical stimulantsrequired for broomrape seed germination,butdo not allow the atachmentand development of the parasitic weed.In the absence of hosts,the seeds would germinate and not survive as the necesary conditions forliveattachmenttothe host plantare not available;aprocess commonlyreferrd toas“suicidal germination\". This paper introduced advanced researches on theuse of alelopathyand trapcrops (wheat,corn,cottn,soybean,etc.）to eliminate soil bank of broomrape seeds. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Plant allelopathy; Trap crop; Broomrape; Parasitic root plant; Soil seed bank ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1植物化感作用概念及其基本特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "化感作用(Allelopathy)是Hans Molisch于1937年首次提出，它是指所有植物之间(包括微生物)作用的相互生物化学关系，这种生物化学关系包括有益和有害的两个方面。英文Allelopathy来源于两个希腊词根 Allelon(相互)和 Pathos(忍受痛苦)。1974年美国科学家Rice出版了植物化感作用的经典著作《Allelopthy》，并定义植物化感作用是一种植物通过向环境释放化学物质而对另一种植物(包括微生物)所产生的直接或间接的伤害作用，1984年该书再版时将有益作用补充到植物化感作用的定义中[1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物化感作用最重要的一点是指植物将一些化合物加入到环境中去，这一点有别于竞争作用，植物之间的竞争是指在同一生境下不同植物从环境中取走或者减少一些环境中的物质。2010年孔垂华等[2]描述到研究植物化感作用至少要明确以下3点:(1)植物化感作用是在共生、伴生或生态相关植物种间、种内自然发生的一种现象;(2)植物不仅要能合成生物活性物质，而且必须有合适的途径，如：自然挥发、雨雾淋溶、根系分泌物和残株分(降)解等，将活性物质释放到环境中；(3)植物释放的活性物质必须在环境生物和非生物因子的作用下以有效的浓度到达作用的植物或微生物。2016年在他的《植物化感(相克相生)作用》[3]一书中进一步描述到植物化感作用具有的3个基本特征： (1)相互作用的主受体是植物或微生物，不包括植物和昆虫等其他动物种间的化学作用；(2)相互作用的化学物质是次生代谢物质，而且必须有合适的途径进入环境中，不包括在植物或微生物体内变化运转的物质；(3)释放的作用物质主要用于影响自身或邻近植物的生长发育，若用于植物间的化学通讯(如报警)或污染环境(如一些数目释放挥发物和氧化氮形成烟雾等)不属于植物化感作用的基本定义范围[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2根寄生植物与寄生杂草 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rice撰写的化感作用综述文章中描述化感作用在植物病理学中的应用时指出，有活力的寄生杂草[独脚金,Striga asiatica (L.) O.Kuntze]种子通常不会发芽，种子只有在经过数日温湿环境的预处理以后暴露在一种由寄主或者非寄主植物根部分泌的化学物质的情况下才能够发芽[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "世界上大约有3000 种的被子植物是寄生植物[5]。寄生植物在侵袭寄主时采用不同的方式，侵袭寄主根部的寄生植物称之为根寄生植物，侵袭地上部的寄生植物称之为茎寄生植物。根和茎寄生植物根据它们有无叶绿素又分为半寄生和全寄生植物。在开花植物中寄生状态发生在至少17科植物中。包括很重要的寄生杂草在内，寄生状态发生在如下8个科的植物中(表1)[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcef5f495cb957f3a0ec8e2a89ddd32b3fb86f9c56fa1ef3ae6b1df6f82b9464.jpg",
+        "table_caption": [
+            "表1发生寄生状态的植物(包括主要的寄生杂草)种属分布 Table1Family and genera distribution of plant species with parasitism (including main parasitic weeds) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>科Family</td><td>重要属Important genera</td></tr><tr><td>玄参科</td><td>独脚金属、黑蒴属</td></tr><tr><td>Scrophulariaceae</td><td>Striga,Alectra</td></tr><tr><td>檀香科 Santalaceae</td><td>檀香属、百蕊草属Santalum,Thesium</td></tr><tr><td>列当科</td><td>列当属、野菰属、假野菰属</td></tr><tr><td>Orobanchaceae</td><td>Orobanche,Aeginetia,Christisonia</td></tr><tr><td>蛇菰科</td><td>非洲蛇菰属、锁阳属Thonningia,</td></tr><tr><td>Balanophoraceae</td><td>Cynomorium</td></tr><tr><td>樟科 Lauraceae</td><td>无根藤属Cassytha</td></tr><tr><td>槲寄生科Viscaceae</td><td>油杉寄生属</td></tr><tr><td>旋花科 Convolvulaceae</td><td>Phoradendron,Arceuthobium 菟丝子属 Cuscuta (dodders)</td></tr><tr><td>桑寄生科Loranthaceae</td><td>五蕊寄生属、离瓣寄生属、桑寄生属 Amyema,Dendrophthoe,Helixanthera,</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根寄生杂草是农业生产过程中所面临的严重问题，在世界多数国家造成农作物减产[7-8]。列当是列当科(Orobanchaceae)列当属(Orobanche spp.)一种寄生于寄主植物根部的全寄生植物，可寄生在菊科、豆科、茄科、葫芦科、十字花科、大麻科、亚麻科、伞形科和禾本科等植物根上，自身缺乏叶绿素，必须从寄主中掠夺营养物质、水分和生长激素等，满足自身的生长需要6。据文献报道，在100多种列当中有6种对作物造成危害较大，成为寄生杂草，它们是瓜列当(O.aegyptiacaPers.)、大麻列当(O.ramosaL.)、弯管列当( ${ \\bf \\bar { \\rho } }$ cernua Loefling)、小列当(O.minorSm.)、向日葵列当(O.cumanaWallr.)和朱砂根列当(O.crenataForssk.)。向日葵列当是限制向日葵(Helianthus annusL.)产量的非常重要的因素之一，对占世界向日葵种子产量 $50 \\%$ 的地中海地区、东欧和中国的向日葵生产造成了严重的经济损失[9-10]。目前世界各国尚没有开发出针对寄生杂草向日葵列当有效的除草剂和有效的防除方法[8,11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3列当的生活史与诱捕作物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "列当与寄主之间的相互关系，始于寄主根部分泌的次生代谢物质刺激列当种子的发芽阶段。在自然条件下，列当属寄生植物的发芽刺激物质由寄主或非寄主植物的根分泌并提供。发芽后的列当胚根先伸长生长约 $3 { \\sim } 4 \\ \\mathrm { m m }$ （有人将该胚根称之为“发芽管”，因为该伸长生长的胚根没有根冠)，但要完成寄生过程，发芽后还必需从寄主植物再获得一种吸器诱导物质，形成乳突状的黏性吸器，吸着在寄主根部并穿入寄主根的木质部和韧皮部形成寄生关系。列当杂草的种子体积小、重量轻 $( 3 { \\mathord { \\sim } } 6 \\ \\mu \\ \\mathrm { g } )$ ，而且每株列当植物可以生产大量种子，根据我们对21个向日葵列当蒴果的计数分析可知，向日葵列当每株平均生产17.4万粒(3.0万 ${ \\sim } 3 8 . 5$ 万粒)，每株平均有68个蒴果(33\\~96个)，每个蒴果平均生产 $1 0 . 4 \\mathrm { m g }$ 种子（20 $( 2 . 9 { \\sim } 2 3 . 7 5 \\ \\mathrm { m g } )$ ，平均千粒重 $4 . 1 4 ~ \\mathrm { m g }$ 0 $( 1 . 4 8 { \\sim } 7 . 5 5 ~ \\mathrm { m g } )$ ，根据我们对21个瓜列当硕果的计数分析，瓜列当每枝平均生产3.8万粒(0.5万 ${ \\sim } 8 . 1$ 万粒)，每枝平均有25 个蒴果(16\\~41个)，每个蒴果平均生产 $1 7 . 3 ~ \\mathrm { m g }$ 种子 $( 1 . 2 7 { \\sim } 3 0 . 7 8 ~ \\mathrm { m g } )$ ，平均千粒重 $1 2 . 2 7 ~ \\mathrm { \\ m g }$ ( $1 . 8 8 \\sim$ $3 2 . 2 3 ~ \\mathrm { \\ m g } ^ { [ 1 2 ] }$ ，这些列当种子会积累在农田中形成庞大的土壤种子库。根据检测，新疆生产建设兵团第2师27团土壤中第1块样本地中的种子库数量为28亿粒 $\\cdot \\mathrm { h m } ^ { - 2 } ( 0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土壤中 $\\mathrm { 4 ~ g }$ 土壤含有超过130粒列当种子， $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层的土壤重量为 $1 3 5 ~ \\mathrm { t } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 瓜列当种子的千粒重平均为 $1 2 . 3 ~ \\mathrm { m g }$ )，第2块为12.5亿粒。陕西省定边县盐碱地中的向日葵列当种子数量 2.8亿粒[13]。这些种子数量巨大且在土壤中可以保持生存力长达15\\~20年以上。成熟后的列当种子需要经过一段时间的后熟过程，完成后熟的列当种子在发芽之前需要1\\~2周时间在一定的温度和湿度条件下进行预培养，预培养后的列当种子还必须从寄主那里获得一个化学物质才能发芽，在自然条件下这种发芽刺激物质是由寄主或非寄主植物的幼根分泌提供的。获得该物质后，列当种子的“发芽管\"可在数日内长出种皮，之后在吸器诱导物质的作用下很快形成吸器，与寄主根吸附并穿入根内后与寄主根的木质部形成联结，从寄主植物那里竞争性地夺取水分、养分及生长激素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于列当属植物是根寄生杂草，在没有长出地面之前，它已经给作物造成严重的伤害，所以不易控制，有效的途径是尽量减少土壤中的列当种子含量。诱捕作物是指该作物的根系能够分泌列当属植物种子发芽的刺激物质，但是又不会被列当正常寄生，诱捕作物本身可以进行正常收获。由于列当属植物种子的生命只有一次，发芽后不能寄生就会死亡，这种发芽又称之为“自杀发芽”，如此可以在列当找不到寄主之前死亡，从而大大降低土壤中列当的种子库[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4研究材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们十多年来开展了我国传统常用中草药刺激列当种子发芽试验，选用了我国传统中草药及小麦(Triticum aestivum L.)、玉米(Zea mays L.)、棉花(Gossypiumsp.)、大豆(GlycinemaxL.)等作物开展了",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "诱捕作物防除列当的试验研究。",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 研究材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 种子和试剂",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "向日葵列当和瓜列当种子于2008年开始每年分别采集于陕西省定边县向日葵列当发生区以及新疆维族自治区瓜列当发生区番茄(LycopersiconesculentumMill.)地田间。小列当种子由日本宇都宫大学米山弘一教授提供，发芽刺激物质GR24(独脚金内酯类似物)由荷兰内梅亨大学Binne Zwanenburg教授提供。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 中草药粉末 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "606种中草药购于我国大陆各省、直辖市、自治区中草药店，将其药用部位风干、用粉碎机(FW135-177，天津泰斯特仪器有限公司)粉碎并过$0 . 4 5 ~ \\mathrm { m m }$ 的筛，待用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 小麦品种",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小麦种子由西北农林科技大学水土保持研究所邓西平研究员和农学院小麦中心吉万全教授提供。向日葵列当种子采自新疆生产建设兵团农12师五一农场，瓜列当种子采自新疆和静县。独脚金醇(Strigol)由日本宇都宫大学YoneyamaKoichi教授提供。不同基因型小麦品种有：二倍体，野生一粒、栽培一粒；四倍体，野生二粒、栽培二粒；六倍体，‘陕$1 3 9 ^ { \\circ }$ 、‘陕 $2 5 3 ^ { \\circ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.4 玉米品种",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "刺激向日葵列当所采用的4个杂交组合和它们的亲本及200个F1代玉米种子由西北农林科技大学农学院的毛建昌教授提供(表2)，这些组合通过自交系间的杂交获得。在这些自交系中，‘3026'是‘掖 $4 7 8 ^ { \\circ }$ 与‘89-1'杂交选育而成，‘89-1'是从 $\\cdot _ { \\mathrm { P 8 7 5 9 9 } } ,$ (先锋公司的杂交种)中选育的自交系；‘340X'是中国的‘旅大红骨'种质；‘郑58'是‘掖478'中的杂株选育而成,“5212'属于中国的‘唐四平头'种质。‘浚20'是一个杂交种，来源于国外材料；‘3255'是从国外杂交种选育而成；‘335'是先锋公司的一个自交系。刺激瓜列当所采用的10个玉米推广品种购买于杨凌种子公司（‘长城 799'、‘长单 $_ { 4 8 } ,$ 、‘璐玉 $_ { 1 3 } ,$ 、‘农大 $3 6 4 ^ { \\circ }$ 、‘陕单2001、‘天丞 $2 8 8 ^ { \\bullet }$ 、‘豫玉 $2 2 ^ { \\cdot }$ 、‘正大 $1 2 ^ { \\cdot }$ 、‘郑单 $9 5 8 ^ { \\circ }$ /‘正玉203')。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/223a68835ab09c578bd738de517e1bcfc9487614ef350a9b4b9779a7d88542fb.jpg",
+        "table_caption": [
+            "表2本试验中所用的玉米杂交F1代和父母本 Table 2Maize hybrids and their parental lines that were used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>母本 Female parent</td><td>父本 Male parent</td><td>F1代 F1 generation</td></tr><tr><td>浚20Jun 20</td><td>5212</td><td>浚 20×5212 Jun 20×5212</td></tr><tr><td>郑58 Zheng 58</td><td>5212</td><td>郑 58×5212 Zheng 58×5212</td></tr><tr><td>3026</td><td>340X</td><td>3026×340X</td></tr><tr><td>3255</td><td></td><td></td></tr><tr><td></td><td>335</td><td>3255×335</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.5 棉花品种",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "‘P08-C4'、‘P08-B12'、‘P08-B7'、‘P08-A4'、‘P08-E4'、‘P08-E5'、‘P08-C11'、‘P08-A7'、‘P08-B10'、‘P08-E6、‘P08-C8'、‘P08-A12'、‘P08-E7'、‘P08-B6'、‘P08-A10'、‘P08-A9'、‘P08-A13'、‘P08-D5'、‘P08-A11和‘P08-F3'共20个棉花品种由西北农林科技大学农学院赵俊兴副研究员提供。‘中棉所48'父本、‘中棉所48'母本和‘中棉所 48F1(简称父1、母1和1F1)，‘中棉所 51'父本、‘中棉所 51'母本和‘中棉所 51F1(简称父2、母2和2F1)，中‘资101'父本、‘中资101'母本和‘中资 101F1(简称父3、母3和 3F1)，‘8 条-083113'父本、‘8条-083113'母本和‘8条-083113F1\"(简称父4、母4和 4F1)，‘7条-083001'父本、‘7条-083001'母本和'7条-083001F1(简称父5、母5和5F1)购于中国农业科学院棉花研究所中棉种业科技股份有限公司。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.6 大豆品种",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以10个东北大面积推广的大豆品种(北豆 $1 8 ^ { \\circ }$ /绥农 $1 0 ^ { \\circ }$ 、‘丰豆 $_ 3 \\cdot$ 、‘黑农 28’、‘东豆 ${ 3 3 9 } ^ { \\prime }$ 、‘中黄$_ { 1 3 } ,$ 、‘合丰55’、‘垦鉴豆35’、‘黑农44'和‘垦丰16\")为材料。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 列当种子的表面消毒和种子的预处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "列当种子的表面消毒首先要浸于 $1 \\%$ 的次氯酸钠溶液 $3 ~ \\mathrm { m i n }$ ，然后用去离子水冲洗。列当种子放于$8 ~ \\mathrm { m m }$ 湿润的玻璃纤维滤纸(GFFP,Whatman，GEHealthcareUKLTD,Buckinghamshire,UK)上。列当种子放于 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 的黑暗条件下预培养 $3 { \\sim } 8 ~ \\mathrm { d } _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 室内发芽试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "称取 $1 0 0 ~ \\mathrm { { m g } }$ 植物样品粉末于 $2 { \\mathrm { ~ m L ~ } }$ 离心管中,加入 $1 . 5 ~ \\mathrm { m L }$ 去离子水，超声 $3 0 \\ \\mathrm { m i n }$ 后用离心机(Millipore Cat. No. XX42 CF0， 60 Lot No.N8JMB042A,Nihon Millipore LTD. Yonezawa, Japan)离心后得上清液，此溶液为原液，将原液用去离子水分别稀释10倍、100倍。将以上水提液直接用于生物测试，将 $1 5 ~ \\mu \\mathrm { L }$ 的水提液加在盛有列当种子的直径为 $8 \\ \\mathrm { m m }$ 的玻璃纤维滤纸上，然后摆放于培养血中。在加浸提液之前，上述盛有列当种子的玻璃纤维滤纸应放于滤纸(双圈GB/T1914—2007，杭州沃华滤纸有限公司)上片刻以除去多余水分。对于甲醇浸提液，提取与稀释方法同上。先将 $1 5 ~ \\mu \\mathrm { L }$ 甲醇浸提液加于无种子的玻璃纤维滤纸上，待甲醇挥发后，再将含有种子的玻璃纤维滤纸盖于其上，并加 $3 0 ~ \\mu \\mathrm { L }$ 去离子水。处理后的种子放于 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 的黑暗条件下培养，8d后观察发芽率。分别以GR24和去离子水处理为正、负对照。每个处理设置4个重复。整个试验的发芽率在20X显微镜下观察，种子萌发以发芽管突破种皮为标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.3 根系分泌物收集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先将植物的种子用 $7 5 \\%$ （204 $( \\nu / \\nu )$ 的乙醇进行表面消毒 $2 ~ \\mathrm { m i n }$ ，然后用有效成分含量为 $1 \\% ( \\nu / \\nu )$ 的次氯酸纳溶液处理 $2 ~ \\mathrm { m i n }$ ，经过表面消毒的种子用无菌蒸馏水充分清洗后，放置在一个容器中，上面铺上加入蒸馏水的滤纸，在黑暗条件下 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 的恒温箱发芽$1 \\ \\mathrm { d } _ { \\circ }$ 发芽后的幼苗(大约500 株)移栽到一个底部铺有1层纱布，长、宽、高分别为 $3 3 \\ \\mathrm { c m } \\times 2 2 \\ \\mathrm { c m } \\times 8 \\ \\mathrm { c m }$ 的底部带有缝隙的框子中，将这个容器放在1个略大一些(长、宽、高分别为 $3 3 ~ \\mathrm { c m } \\times 2 3 ~ \\mathrm { c m } \\times 8 . 5 ~ \\mathrm { c m } )$ 号的底部不带有缝隙的盒子中，里面加入 $^ \\mathrm { ~ 1 ~ L ~ }$ 自来水作为培养基，放置在光强为 $1 2 0 { \\mathrm { ~ } } { \\mathrm { \\textmu m o l { } } } { \\cdot } { \\mathrm { m } } ^ { - 2 } { \\cdot } { \\mathrm { s } } ^ { - 1 } .$ 昼夜温度为 $2 5 ^ { \\circ } \\mathrm { C } / 2 3 ^ { \\circ } \\mathrm { C }$ ，光照和黑暗各为 $1 4 \\mathrm { h } / 1 0 \\mathrm { h }$ 的恒温培养箱中。幼苗在自来水中培养6d后，将幼苗框子转入1个更大的容器(长、宽、高分别为 $4 0 \\ : \\mathrm { c m } \\times 3 0 \\ : \\mathrm { c m } \\times$ $1 0 ~ \\mathrm { c m } )$ 中，加入 $^ \\textrm { \\scriptsize 4 L }$ 自来水，添加无磷的1/2Tadanoand Tanaka培养基[15]生长,6d后收集培养液。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.4 盆栽试验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验在中国科学院水利部水土保持研究所院内进行。采用前茬种植过作物的 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 耕层熟土作为试验土。先将土拍碎，暴晒，过 $1 \\mathrm { c m }$ 筛。以 $4 : 1$ 的比例和蚯蚓粪混合均匀作为盆栽用土，装入高 $2 5 ~ \\mathrm { c m }$ 直径 $2 0 \\ \\mathrm { c m }$ 的火箭盆(中科环境工程有限公司）中,采集植物的根际土和植株，将植株的根、茎和叶分开，低温冷冻干燥，样品冻干后研磨，过50目筛,每个品种3个重复。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.5 植物根际土甲醇提取液刺激列当种子发芽",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "称取作物的根际土 $\\mathfrak { s } _ { \\mathrm { ~ g ~ } }$ ，加入 $1 0 ~ \\mathrm { m L }$ 甲醇，超声$3 0 ~ \\mathrm { m i n }$ ，静置 $5 \\ \\mathrm { m i n }$ 后过滤，滤液为原液，将原液稀释10倍、100倍后将3种浓度的稀释液 $2 0 ~ \\mu \\mathrm { L }$ 加在直径为 $1 \\ \\mathrm { c m }$ 的玻璃纤维滤纸上，放置 $3 0 \\ \\mathrm { m i n }$ 待甲醇蒸干后将带有向日葵列当种子(20\\~40 粒)的玻璃纤维滤片放在已蒸干的玻璃纤维滤纸上，加 $4 0 ~ \\mu \\mathrm { L }$ 蒸馏水，每个浓度做3个重复，同时以 $1 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 的独角金醇处理和未种棉花的试验土甲醇浸提液处理作为对照，后用Parafilm封口膜将培养血密封，放在$2 5 \\ \\mathrm { { ^ \\circ C } }$ 恒温培养箱内培养 $1 0 \\mathrm { d }$ ，然后在 $2 0 \\times 1 6$ 倍的显微镜下观察并统计向日葵列当种子的发芽率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.6植株根、茎和叶甲醇提取液刺激列当种子发芽",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "称取植株样(根、茎和叶) $1 0 0 ~ \\mathrm { { m g } }$ 放入 $1 . 5 ~ \\mathrm { m L }$ 的离心管中，加入 $1 \\mathrm { m L }$ 甲醇，超声 $3 0 \\mathrm { m i n }$ 后用 $6 4 0 0 \\mathrm { r m i n } ^ { - 1 }$ 离心机离心 $2 ~ \\mathrm { m i n }$ ，得到上清的植株提取液原液，稀释和培养方法同上。同时以 $1 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 的独角金醇或GR24(独脚金醇人工合成物)处理和蒸馏水处理作为对照。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 研究结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1中草药刺激列当种子发芽试验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中药是中医药理论指导下用以人类防病治病的天然药物，在中药学几千年的研究历史背景下，我国科学家已搞清了这些常见中草药有效成分在一株植物中的分布部位。若从中寻找列当属植物种子发芽刺激活性物质，吸收我国中医药学的丰富理论与实践，应用于农业生产，这项工作是我国农学家具有的得天独厚的条件。利用我国的丰富中药草资源，通过对列当种子诱导发芽试验，筛选我国传统中药草(非寄生植物),探寻活性高、稳定性强的能够刺激或者抑制列当属植物种子发芽的物质，探明在我国常见的中药草中能够刺激列当种子发芽的植物类型并从中发现新型发芽刺激、抑制物质，以便为我国中药草的利用开辟一条新的途径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中草药在列当发生地区也广泛种植，本项研究针对我国列当发生地，我们的研究结果表明：从收集到的606种中草药中，在3种不同浓度的中草药水浸提液诱导下，共有20种中草药的浸提液刺激小列当的发芽率超过 $60 \\%$ 。其中灯心草(JuncuseffususL.var.decipiensBuchen)的刺激作用最强，小列当的发芽率可达 $90 . 3 \\%$ 。大多数中草药去离子水浸提液的原液对小列当的刺激作用都很弱，仅有灯心草达到 $7 2 . 7 \\% _ { \\textmd c }$ ，共有18种中草药的水浸提液刺激向日葵列当种子的发芽率超过 $30 \\%$ ，其中，白花前胡(PeucedanumpracruptorumDunn)和狗尾草的水浸提液10倍稀释液刺激向日葵列当种子的发芽率较高，分别为 $4 9 . 2 \\%$ 和 $4 8 . 8 \\%$ 。有21种中草药的水浸提液能够刺激瓜列当种子发芽(发芽率 $: > 3 0 \\%$ )。白花蛇舌草(Hedyotis diffusa Willd.)的水浸提液10 倍稀释液刺激小列当种子的发芽率最高，为 $8 1 . 9 \\%$ 、雪灵芝(Arenaria kansuensisMaxim.)、野菊花(ChrysanthemumindicumL.)、叶下珠(PhyllanthusurinariaL.)和狗尾草等4种中草药的水浸提液能够同时刺激3种列当种子发芽，从69种青藏地区传统中草药中筛选具有诱导瓜列当和向日葵列当种子萌发作用植物的研究结果表明，供试材料中，16种中草药的甲醇或蒸馏水浸提液诱导瓜列当种子的萌发率 $\\geq 2 0 \\%$ ，21种中草药的甲醇或蒸馏水浸提液诱导向日葵列当种子的萌发率 $\\geq 2 0 \\%$ ；其中，黄花蒿(Artemisia annua L.)、雪参[Meconopsis horridula Hook.f. et Thoms.var.racemose(Maxim.) Prain]、鸡血藤(MillettiadielsianaHarms ex Diels.)、青兰(Dracocephalum ruyschianaL.)、甘松(Nardostachys jatamansi DC.)和独一味[Lamiophlomis rotata(Benth.）Kudo.]6种中草药诱导2种列当的发芽率均高于 $20 \\%$ ，表明上述中草药种含有较高活性或较高浓度的列当种子萌发诱导物质[16-17]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2小麦刺激列当种子发芽试验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "小麦作为第二大粮食作物，如果能够利用小麦与向日葵、番茄等寄主作物轮作，可以达到减轻列当危害的目的。通过6年的研究，我们获得如下主要研究结果：1)蒸馏水预培养向白葵列当和瓜列当种子可以打破其休眠。两种列当最少需要预培养 $3 \\mathrm { d }$ 预培养1\\~2周的种子发芽率趋于稳定;2)不同浓度小麦根系分泌物刺激向日葵列当和瓜列当种子的发芽率高低顺序为： $1 0 0 \\mathrm { \\ m g { \\cdot } L ^ { - 1 } } { > } 1 0 \\mathrm { \\ m g { \\cdot } L ^ { - 1 } } { > } 1 \\mathrm { \\ m g { \\cdot } L ^ { - 1 } }$ 。在3个浓度下，小麦根系分泌物刺激向日葵列当和瓜列当种子的发芽率伴随着小麦基因型倍体的加倍而呈现逐步上升趋势，不同品种间达到差异显著 $( P { < } 0 . 0 5 )$ （204号水平；3)苗期不同基因型的小麦根际土均可直接刺激向日葵列当和瓜列当种子发芽，说明小麦在自然状态下分泌的发芽刺激物质可以有足够的浓度使受体列当种子发芽。拔节期不同基因型小麦根际土及其浸提液刺激两种列当种子的发芽率伴随着小麦基因型倍体的增加而增加，六倍体基因型小麦刺激其发芽率最高。小麦刺激列当种子发芽物质是在根部合成，且根系和地上部浸提液刺激向日葵列当和瓜列当种子的发芽率呈现正相关关系。抽穗期‘陕 $2 5 3 ^ { \\circ }$ 根系刺激向日葵列当种子发芽率最高为 $3 2 . 4 \\%$ ，而瓜列当种子的发芽率为 $20 \\% { \\sim } 3 0 \\%$ ；六倍体基因型‘陕139'和‘陕253'茎甲醇浸提液刺激瓜列当种子发芽率最高为 $49 \\%$ 和 $5 1 . 1 \\%$ ；比较小麦不同器官蒸馏水浸提液刺激向日葵列当种子的发芽率，叶片最高，根系与茎、麦穗相近，且根系与茎秆、叶片和麦穗之间都呈现正相关关系。表明小麦根部合成的发芽刺激物质已经向地上部运输。成熟期不同基因型冬小麦根际土直接刺激向白葵列当和瓜列当种子发芽率降低，而地上部发芽率出现增高的趋势，其中‘陕139'茎秆蒸馏水浸提液刺激向日葵列当发芽率最高为 $2 8 . 1 \\%$ ，甲醇浸提液刺激其发芽率均在 $30 \\%$ 以上，\\*陕253'茎秆浸提液刺激其发芽率最高为 $2 7 . 7 \\%$ 蒸馏水)和 $23 . 7 \\%$ (甲醇)；栽培一粒小麦叶片甲醇浸提液刺激向日葵列当种子发芽率最高为 $45 . 9 \\%$ ，六倍体基因型冬小麦‘陕 $2 5 3 ^ { \\circ }$ 叶片浸提液刺激瓜列当种子发芽率最高为 $24 \\%$ (蒸馏水)和 $2 9 \\%$ （甲醇)；‘陕 $2 5 3 ^ { \\circ }$ 颖壳浸提液刺激向日葵列当种子发芽率最高为$2 6 . 8 \\%$ (蒸馏水)和 $3 7 . 6 \\%$ (甲醇)，‘陕253'颖壳甲醇浸提液刺激瓜列当种子的发芽率最高为 $3 3 . 2 \\%$ ，根据冬小麦植株不同部位器官浸提液刺激向日葵列当种子发芽率，根系与茎和籽粒之间呈现正相关关系；4)随着冬小麦基因型的加倍，在苗期、拔节期、抽穗期和成熟期不同部位器官浸提液(蒸馏水和甲醇)刺激向日葵列当和瓜列当种子的发芽率呈现逐步上升的趋势，小麦对两种列当的化感作用逐步增强；5)前茬种植陕253'和陕 $1 3 9 ^ { \\circ }$ ，收获后再种植向日葵，每株向日葵上向日葵列当寄生株数分别为3.2 和4.6,是对照的1/6和1/4，可以显著降低向日葵列当的寄生率。后茬种植的向日葵胸径比对照粗 $0 . 2 \\ \\mathrm { m m }$ ，平均株高要高 $1 0 ~ \\mathrm { c m }$ 多，向日葵被寄生后的鲜重和干重是没有被寄生的 $46 \\%$ 和 $37 \\text{‰}$ 。前茬种植冬小麦有助于后茬向日葵胸径、株高和生物量的增加，显著地减少了向日葵列当的寄生数量，间接地提高向日葵的产量[18-21]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3玉米刺激列当种子发芽试验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "玉米在我国广泛种植，在向日葵或者番茄等寄主作物种植的农区，选用玉米作为诱捕作物，同样应该可以起到减轻列当危害的作用。通过3年的重复试验我们得出，不同玉米杂交组合可以刺激向日葵列当发芽且存在显著性差异，玉米萌发初期就可以产生列当发芽刺激物质。盆栽及大田试验中，玉米根际土，根系及地上部浸提液均可刺激向日葵列当发芽。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同玉米自交系和F1代之间刺激向日葵列当发芽存在显著性差异。 $^ { \\bullet } 3 2 5 5 ^ { \\prime } \\times \\ \\cdot 3 3 5 ^ { \\cdot }$ 的F1代和父母本都对向日葵列当有较强的刺激作用。在育种的过程中，玉米品系对向日葵列当的刺激作用并没有作为一项筛选的标准。因此需要对玉米刺激向日葵列当发芽的化感物质进行遗传分析。育种工作者已经通过简单的育种项目培育出了对独脚金有更高抗性的玉米品系，因此我们预测可以通过其他的育种方式选育出更加优良的诱捕防除向日葵列当的玉米品种[22]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在玉米刺激向日葵列当发芽基础上，我们继续探究玉米对瓜列当的诱导作用。本试验主要利用国内推广的玉米品种，结果发现，‘长城799'和‘郑单958'对瓜列当种子的刺激作用最强，而‘潞玉13'和正玉203'对瓜列当的刺激作用较弱。盆栽的结果与前面的试验结果一致，可为以后大田推广试验提供一定的依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在玉米刺激向日葵列当和瓜列当试验中，我们研究得到玉米根系提取液刺激列当的发芽率均高于地上部提取液，这和独角金内酯主要在植物的根系合成然后运输到地上部这一研究结果是吻合的。同样得到的结果是甲醇提取液刺激列当的发芽率高于水提取液[22]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们之前的预试验表明，玉米不能被列当寄生。近期的研究结果证明 $3 2 5 5 ^ { , } \\times ^ { , } 3 3 5 ^ { , }$ 这一组合对向日葵列当的刺激作用最强，‘长城799'对瓜列当的刺激作用最强，因此它们分别作为列当诱捕作物是可行的。本项研究系统地验证了不同品系(品种)玉米对向日葵列当和瓜列当的刺激作用，均得到了玉米可以作为列当的诱捕作物，这就为这两种国内的“恶性杂草\"提供了新的防除思路。利用玉米的化感作用来减少甚至消除田间杂草，既提高了玉米产量，又减少了除草剂使用量，还可减轻农药对环境的污染。本项研究结果在美国《CropScience》发表后被该杂志的网站选为2013年元月的置顶新闻(https://www.crops.org/science-news/corn-could-help-farmers-fightdevastating-weed)。新闻的核心内容如下：玉米在全世界广泛种植，可以作为食物、动物饲料以及能源物质，其管理方式灵活，用途多样。一种新的用途即将列入其中，中国的科研工作者研究发现玉米具有诱导一种恶性杂草“自杀萌发\"的能力。来自中国西北农林科技大学的马永清教授和他的科研团队试图利用玉米作为诱捕作物来控制列当的危害。他们提出可以专门生产玉米品系作为诱捕作物，既可以防除列当，还可以作为饲料作物[23-24]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.4棉花刺激列当种子发芽试验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "新疆为我国棉花的主产区，同时也是列当危害严重的省份，瓜列当和向日葵列当并存。我们以 43个棉花品种(系)为供体、向日葵列当和小列当为受体,采用水培试验、盆栽试验和大田试验3种方法，用棉花诱导小列当和向日葵列当发芽率的高低来分析确定不同品种(系)棉花的化感作用。棉花根系分泌独脚金醇，能够刺激列当种子发芽，不同品种(系)棉花诱导小列当种子发芽有着显著差异。通过根际土、棉花植株的甲醇和水浸提液诱导小列当种子发芽，结果表明棉花品系诱导小列当的发芽率存在一定规律，表现为棉花各器官诱导小列当种子发芽率高低顺序为：根 $: >$ 茎 $\\vdots >$ 叶。棉花的根际土和棉花的茎浸提液诱导小列当种子发芽率之间存在着显著性的线性相关关系；棉花根际土和棉花叶浸提液诱导小列当种子发芽率呈线性相关关系，其中相关系数 $R ^ { 2 }$ 分别为0.3622和0.3070；根和茎浸提液诱导小列当种子发芽率也呈线性相关且相关系数达0.5237[25-26]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们采用15个棉花品种开展盆栽试验，在苗期3个阶段(二叶一心、四叶一心和六叶一心期)诱导向日葵列当种子发芽，结果表明棉花在苗期的六叶一心期阶段诱导向日葵列当种子的发芽率最高，表明棉花在六叶一心期对向日葵列当表现出较强的诱导作用。不同品种棉花的组织对向日葵列当诱导作用和对小列当的作用相似，棉花各器官诱导向日葵列当种子发芽率高低顺序为：根 $\\smash { \\vdots > }$ 茎 $\\ >$ 叶[25]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对15个棉花品种在大田条件下诱导向日葵列当种子发芽的试验结果表明：整个生育期根、茎和叶甲醇浸提液中，同一棉花品种相同浓度植株样甲醇浸提液刺激向日葵列当发芽率高低顺序为：根 $>$ 茎 $\\vdots >$ 叶，这与盆栽试验结果一致，使得棉花次生代谢产物各器官的分布根 $: >$ 茎 $\\vdots >$ 叶这样的结论得到进一步的验证。同一器官浸提液的3个浓度中，根际土浸提液原液刺激向日葵列当发芽率最高，而根、茎和叶浸提液稀释100 倍液刺激向日葵列当的发芽率最高。棉花植株各器官甲醇浸提液刺激向日葵列当种子发芽率整体表现为“低促高抑\"的规律。棉花根际土的甲醇浸提液刺激向日葵列当种子发芽率在蕾期最高且稳定，表明棉花的根系分泌物在蕾期较高。棉花植株样的甲醇浸提液刺激向日葵列当种子发芽试验的结果表明，根的浸提液在六叶一心期最高，茎和叶的浸提液在二叶一心期时最高，表明棉花植株内诱导向日葵列当种子发芽的物质在苗期活性较高[27]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.5大豆刺激列当种子发芽试验结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我国东北3省均有列当发安生危害，以向日葵列当危害最为严重，东北又是我国大豆的主产区，为此我们开展了大豆诱导列当种子发芽的研究。大豆的根系能够释放出向日葵列当和瓜列当种子的发芽刺激物质。不同植株器官刺激列当发芽的效果不同，表现为根高于茎和叶。盆栽试验采用了我国东北推广种植的14个大豆品种，并分V1、V3、V5、R2和R4期进行取样，每一时期的取样部位包括根际土、根、茎和叶。结果表明：不同大豆品种刺激向日葵列当和瓜列当的发芽率之间存在显著差异。大豆的根际土能够有效地刺激向日葵列当和瓜列当种子萌发。‘中黄13'的根际土刺激向日葵列当的发芽率较高，说明列当的发芽刺激物质能够稳定地存在于土壤中且不同大豆品种的刺激作用不同。V3期大豆诱导列当的发芽率最高。不同植株器官刺激向日葵列当和瓜列当的发芽率不同，表现为根 $\\cdot >$ 茎 $\\mathrm { : > }$ 叶。 $10 \\%$ 根提取液刺激向日葵列当的发芽率与 $10 \\%$ 茎提取液和 $10 \\%$ 叶提取液刺激向日葵列当的发芽率均呈现出显著的线性正相关，说明了发芽刺激物质由根到茎叶的运输。V3期的 $10 \\%$ 和 $1 \\%$ 根提取液刺激向日葵列当的发芽率与此时大豆产生的根瘤的直径和重量具有显著的乘幂正相关，说明大豆植株内列当发芽刺激物质的产生与其根瘤间具有一定关系[28-29]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从盆栽试验中选取了对列当刺激作用表现为高、中、低的3个大豆品种进行大田种植，分V3、V5和R4期进行取样，并分别用水和甲醇提取大豆植株器官。结果表明，大豆植株的水提取液刺激向日葵列当的发芽率较低。因此，甲醇是能够更好地验证不同大豆品种的化感潜势差异的溶剂。大田的根际土能够刺激向白葵列当和瓜列当发芽，说明大豆可以作为向白葵列当和瓜列当的“诱捕作物”。大田采集的V3期的大豆样品刺激向日葵列当和瓜列当的发芽率高于V5和R4期。不同植株器官刺激向日葵和瓜列当的发芽率不同，表现为根 $: >$ 茎 $\\vdots >$ 叶，此结果与盆栽结果一致[30]。通过LC-MS/MS对盆栽试验中采集的V3期‘中黄13'的根部冻干样进行分析，结果表明，大豆根部存在一种独脚金内酯类化合物，为列当醇乙酸盐(Orobanchylacetate)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本试验采取不同研究方法探讨了不同大豆品种对向日葵列当和瓜列当种子萌发的作用，证明大豆(根际土和植株器官)能够诱导向日葵列当和瓜列当种子萌发。基于此结果，将来可于大豆适宜种植区开展大豆与列当的寄主植物的田间轮作等田间耕作措施，以进一步验证大豆作为向日葵列当和瓜列当的“诱捕作物\"的效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我国从事植物化感作用研究的科研人员虽然近年来有大幅度的增加，但是同时从事植物化感作用与列当杂草防除的人员屈指可数。如果在中国知网输入“列当 $^ +$ 发芽”http://epub.cnki.net/kns/brief/defaultresult.aspx我们可以找到846条记录，但绝大多数是关于医药方面的内容，除了浙江大学周伟军教授团队有3篇记录外，前40篇的文献均为马永清团队的报道。如果在WebofScience网站输入“Orobanche trap crop\"只能够查到28篇相关文献，这充分说明国际国内从事列当杂草防除的人员也是凤毛麟角。我国从事列当研究的科学家主要是从事药用成分和药物活性方面的内容，但是临床应用却十分有限[31]。如前所述，由于列当属植物是根寄生杂草，每株列当生产大量的种子以及在土壤中保持10年以上的活力，加之在没有长出地面之前，它已经给作物造成严重的伤害，所以不易控制，目前世界上没有开发出有效的除草剂。列当的有效防除一直是一个世界性难题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们项自组从2008年开始从事诱捕作物防除列当的试验研究，虽然该方法既环保又实用，但是由于现有作物品种能够刺激列当种子发芽达到理想自的的品种很少，换句话说，自前现有作物品种在育种过程中并没有将大量分泌列当发芽刺激物质独脚金内酯作为自标，所以这项工作进展缓慢。值得一提的是新疆生产建设兵团第2师科技局意识到问题的严重性，2016年组织申报了兵团项目，这也是首次将我们的研究成果直接应用于生产一线，走出了将论文写在大地上的第一步。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Rice E L.Allelopathy[M].2nd ed.Orlando,Florida,USA: Academic Press,1984   \n[2]孔垂华，娄永根．化学生态学前沿[M]．北京：高等教育出 版社,2010 Kong C H,Lou Y G. Frontiers of Chemical Ecology[M]. Beijing:Higher Education Press,2010   \n[3]孔垂华，胡飞，王鹏．植物化感(相克相生)作用[M]．北京: 高等教育出版社,2016 Kong C H,Hu F,Wang P.Allelopathy[M]. Beijing:Higher Education Press,2016   \n[4]Rice EL.Overview of Allelopathy[M]//Narwal S S,Tauro P. Allelopathy in Agriculture and Forestry. Jodhpur,India: Scientific Publishers,1994:1-21   \n[5]Kuijt J. The Biology of Parasitic Flowering Plant[M]. Berkeley:University ofCalifornia Press,1969   \n[6] Parker C,Riches CR.Parasitic Weeds of the World: Biology and Control[M].Wallingford: CAB International,1993   \n[7]Alcantara E,Morales-Garcia M,Diaz-Sanchez J.Effectsof broomrapeparasitismonsunflowerplants:Growth, development,and mineral nutrition[J].Journal of Plant Nutrition,2006,29(7):1199-1206   \n[8]Sauerborn J,Buschmann H,Ghiasi G K,et al.Benzothiadiazole activates resistance in sunflower (Helianthus annuus） to the root-parasitic weed Orobanche cumana[J]. Phytopathology, 2002,92(1): 59-64   \n[9]Parker C,Hitchcock A M,Ramaiah K V.The germination of Striga species by crop root exudates — Techniques for selecting resistant crop cultivars[C]//Proceedings of the 6th Conference Asian-Pacific Weed Science Society. Jakarta, Indonesia:Asian-Pacific Weed Science Society,1977:67-74   \n[IU]rAU．rroaucuon Year Book[M].Kome,Italy: rooa ana Agriculture Organization of the United Nations,1998:52   \n[11] Labrousse P,Arnaud M C,Serieys H,et al. Several mechanisms are involved in resistance of Helianthus to Orobanche cumana Wallr[J]. Annals of Botany,20o1,88(5): 859-868   \n[12]王焕，赵文团，陈连芳，等．列当(Orobanche spp．and Phelipanche spp.)种子的采集与预处理方法[J]．杂草学报, 2016,34(1): 22-25 Wang H， Zhao W T,Chen L F，et al. Collection and preconditioning of broomrape (Orobanche spp. and Phelipanche spp.) seeds[J].Weed Sciences,2016,34(1): 22-25   \n[13]余蕊，赵文团，陈连芳，等．盐碱地土壤列当种子库快速检 测方法[J]．新疆农垦科技,2015,38(11):41-42 Yu R,Zhao W T, Chen L F,et al.A rapid detection method of Orobanche sp.seeds bank for salinized soil[J].Xinjiang Farm Research of Science and Technology, 2015,38(11): 41-42   \n[14]马永清，董淑琦，任祥祥，等．列当杂草及其防除措施展望[J]. 中国生物防治学报,2012,28(1):133-138 Ma Y Q,Dong S Q,Ren X X, et al. Parasitic weed Orobanche spp.and perspective of its control methods[J]. Chinese Journal of Biological Control,2012,28(1): 133-138   \n[15] Tadano T,Tanaka A. The effect of low phosphate concentrations in culture medium on early growth of several crop plants[J]. Japan Journal of Soil Science Plant Nutrition, 1980,51: 399-404   \n[16]马永清，张维，董淑琦，等．传统中草药浸提液对3种列当 种子萌发的诱导作用[J]．中国科学：生命科学,2012,42(4): 304-315 Ma Y Q,Zhang W,Dong S Q,et al.Induction of seed germination in Orobanche spp.by extracts of traditional Chinese medicinal herbs[J]. Science China Life Sciences, 2012, 42(4): 304-315   \n[17] 贾雪婷，马永清，田丰，等．青藏地区中草药浸提液诱导瓜 列当和向日葵列当种子萌发的研究[J].中国农业大学学报, 2016,21(2): 82-92 Jia X T,Ma YQ,Tian F,et al. Study on Chinese medicinal herbs in Qinghai-Tibet inducing germination of Orobanche cumana Wal.and Phelipanche aegyptiaca Pers. seeds[J]. Journal of China Agricultural University,2016,21(2): 82-92   \n[18] 董淑琦，马永清，税军峰，等．不同年代冬小麦品种根际士 浸提液诱导小列当种子发芽的化感作用研究[J].中国农业 大学学报,2009,14(2):59-63 Dong S Q,Ma Y Q,Shui JF,et al. Germination of Orobanche minor seeds as induced by rhizosphere soil extracts from winter wheat of different historical periods[J].Journal of China Agricultural University,2009,14(2): 59-63   \n[19] Dong S Q,Ma Y Q,Wu H, et al. Stimulatory effects of wheat (Triticum aestivum L.） on seed germination of Orobanche minor Sm.[J].Allelopathy Journal,2012,30(2): 247-258   \n[20] Dong S Q,Ma YQ,Wu H W,et al. Allelopathic stimulatory effects of wheat differing in ploidy levels on Orobanche minorgermination[J]. Allelopathy Journal,2013,31(2): 355-366   \n[21] 董淑琦．不同基因型冬小麦刺激根寄生杂草列当种子萌发 的研究[D]．杨凌：西北农林科技大学,2013 Dong S Q. Stimulation of germination by different genotypes winter wheat on Orobanche spp. seeds[D]. Yangling: Northwest A&F University, 2013   \n[22]贾锦楠．不同品种(品系)玉米刺激列当发芽研究[D]．杨凌: 西北农林科技大学,2013 Jia J N.Potential of some maize varieties (lines）to induce germination of Orobanche spp.[D]. Yangling: Northwest A&F University,2013   \n[23] MaYQ,JiaJN,An Y,et al.Potential of some hybrid maize lines to induce germination of sunflower broomrape[J]. Crop Science,2013,53(1):260-270   \n[24] Ye X X,Jia JN,Ma Y Q，et al.Effectiveness of ten commercial maize cultivars in inducing Egyptian broomrape germination[J]. FrontiersofAgricultural Scienceand Engineering,2016,3(2): 137-146   \n[25] 郎明，马永清，董淑琦，等．苗期棉花对向日葵列当种子萌 发诱导作用初探[J]．生态环境学报,2011,20(1):79-83 Lang M,Ma Y Q, Dong S Q, et al. Allelopathic effect of coton in sedling stage on sunflower broomrape[J]. Ecology and Environmental Sciences,2011,20(1):79-83   \n[26] Ma Y Q,Lang M, Dong S Q,et al. Screening of some cotton varieties for allelopathic potential on clover broomrape germination[J].Agronomy Journal,2012,104(3): 569-574   \n[27]郎明．不同品种棉花对列当化感作用初步研究[D]．杨凌: 西北农林科技大学,2012 Lang M. Preliminary study on different varieties of cotton alelopathic effect on Orobanche spp.[D]. Yangling: Northwest A&F University,2012   \n[28] 张维．不同大豆品种对根寄生杂草列当种子萌发的诱导作 用[D]．杨凌：西北农林科技大学,2013 Zhang W. Seed germination of Orobanche spp.induced by different Glycine max (L.） Merr. cultivars[D]. Yangling: Northwest A&F University, 2013   \n[29] 张维，马永清，郝智强．不同大豆(Glycine max)品种对根 寄生杂草瓜列当(Orobancheaegyptiaca)种子萌发的诱导 作用[J]．大豆科学,2012,31(6):956-960 Zhang W, Ma Y Q, Hao Z Q. Orobanchea egyptiaca seeds germination induced by different soybean (Glycine max) varieties[J]. Soybean Science,2012,31(6): 956-960   \n[30] Zhang W,Ma Y Q,Wang Z,et al. Some soybean cultivars have ability to induce germination of sunflower broomrape[J]. PLoS One,2013,8(3): e59715   \n[31]李永金．列当属植物研究进展[J]．青海草业，2016,25(1): 47-51 LiY J. Research progress of Orobanch[J]. Qinghai Prataculture, 2016,25(1): 47-51 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

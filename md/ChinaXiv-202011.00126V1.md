@@ -1,0 +1,245 @@
+# Morphological characteristics and dynamic changes of seif dunes in the eastern margin of the Kumtagh Desert, China
+
+PANG Yingjun1,2\*, WU Bo1,2, LI Yonghua1.3, XIE Shengbo4
+
+1 Institute of Desertification Studies, Chinese Academy of Forestry,Beijing 1Ooo91, China;   
+2KeyLaboratoryofDesertEcosystemandGlobalChange,StateAdministrationofForestryandGrasland,Beijing91, China; KumtaghesertEcosytemesearchtation,tatedmistrationoforestryandGassand,uuang6ina;   
+4KeyLaboratoryofDesertandDesertification,NorthwestInstituteofEco-EnvironmentandResources,ChineseAcademyof Sciences,Lanzhou 730000, China
+
+Abstract: The seif dune field over the gravel desert surface in the eastern margin of the Kumtagh Desert is a valuable experimental site for the observation of dune formation and dynamics. We used high-resolution remote sensing and station observation approaches, combined with wind and grain size data,to study the characteristics of the aeolian environment and the morphologies of and dynamic changes in seif dunes. We observed the ratio of the resultant drift potential (RDP) to the drift potential (DP),which was O.37, associated with an obtuse bimodal wind regime. The drift potentials in the west-northwest (WNW) and east-northeast (ENE) directions were dominant, and the angle between the two primary DP directions was $1 3 5 . 0 0 ^ { \circ }$ . The dune orientations ranged from $1 6 8 . 7 5 ^ { \circ } - 2 1 3 . 7 5 ^ { \circ }$ ,whichwere parallel to the resultant drift direction $( 1 8 6 . 1 5 ^ { \circ } )$ . The dune lengths ranged from 51.68 to $1 9 3 2 . 1 1 \mathrm { ~ m ~ }$ with a mean value of $3 4 4 . 9 1 \mathrm { ~ m ~ }$ . The spacings of the dunes ranged from 32.34 to $3 1 9 . 7 7 \mathrm { m }$ with a mean value of $9 3 . 3 9 \mathrm { ~ m ~ }$ . The mean grain size of the sediments became finer, and the sorting became better from upwind tail to downwind tip, which indicated that the sediment of the seif dunes in the study region may be transported from northward to southward. The rate of increase in the length, the mean longitudinal migration rate of the dune tail,and the mean longitudinal extension rate of the dune tip (also called elongation rate) were 4.93, 4.63,and $9 . 5 5 ~ \mathrm { m } / \mathrm { a }$ ,respectively. The mean lateral migration vector of the seif dunes was approximately $0 . 1 1 ~ \mathrm { m / a }$ towards the west $( - 0 . 1 1 ~ \mathrm { m / a } )$ ,while the mean amplitude of lateral migration was $0 . 5 3 ~ \mathrm { m } / \mathrm { a }$ ， ignoring the direction of lateral migration. We found that the seif dune field formed first beside seasonal rivers, which can provide sediment, and then expanded downwind.
+
+Keywords: seif dune; Kumtagh Desert; elongation; migration; drift potential
+
+# 二 Introduction
+
+Sand dunes are important aeolian landforms that cover up to a quarter of many desert regions. Studying the formation and development of sand dunes and influencing factors is important for understanding the geomorphological and ecological processes of desert areas and for managing natural resources (Lancaster, 1995). Linear dunes are the most widely distributed type of sand dune, accounting for approximately $40 \%$ of the world sand sea,and are mainly distributed in Kalahari Desert, Namib Desert, Simpson Desert, and southern and southwestern Sahara Desert, whereas their formation and development mechanisms are also the most controversial (Fryberger, 1979; Srivastava et al., 2O19). The seif dune, which forms in the absence of vegetation and aligns parallel to the resultant wind trend, is one of the most important linear dune types, developing a winding shape and a sharp crest that explains the term "seif" (Parteli et al.， 2OO9; Tsoar and Parteli, 2O16). In recent years, based on regional wind fields, remote sensing data, stratigraphy and other forms of observation, our understanding of the morphology, formation environment, sedimentary structure and dynamic changes in seif dunes has advanced (Bristow et al., 2000; Wang et al., 2003; Tsoar et al., 2004; Besler et al., 2013; Hu et al., 2019; Rozier et al., 2019).
+
+Linear dunes cover an area of $3 4 0 8 ~ \mathrm { k m } ^ { 2 }$ , accounting for approximately $14 \%$ in the Kumtagh Desert, China (Dong et al., 201O). Most of the linear dunes in the Kumtagh Desert are raked linear dunes (also called feathery dunes or pseudo-feathery dunes) (Dong et al., 2Oo8; Wang et al., 2009; Dong et al., 2010; Qu et al.， 2011)，which are complex linear dunes according to the classification of Lancaster (1982) and are mainly distributed in the northern Kumtagh Desert (Fig. 1). Lü et al. (2O17) showed that the raked linear dunes arose from both growth mechanism operations simultaneously.
+
+There are seif dunes over a gravel desert (also called gobi, a desert area where the ground is almost covered with coarse sand and gravel with few plants) in the eastern margin of the Kumtagh Desert. The morphology of seif dunes is different from raked linear dunes in the northern Kumtagh Desert. Their ages are young, and their distributions are regular. The study region was a valuable site for the observation of dune formation and dynamics. Until now, the seif dunes in the study region have lacked detailed investigation. We intend to use high-resolution remote sensing data, station observations, wind speed and direction data, and sediment grain size data to study the characteristics of the aeolian environment while documenting the morphologies and dynamic changes of seif dunes. The results would be helpful for understanding the formation mechanisms of seif dunes and providing scientific bases for the hazard control of blown sand in the study region.
+
+# 2Study region and methods
+
+# 2.1Study region
+
+The Kumtagh Desert is located in the eastern end of the Tarim Basin $( 3 9 ^ { \circ } 0 0 ^ { \prime }  – 4 0 ^ { \circ } 4 7 ^ { \prime } \mathrm { N }$ $9 0 ^ { \circ } 2 7 \mathrm { ^ { \prime } - }$ $9 4 ^ { \circ } 4 8 ^ { \prime } \mathrm { E } )$ of China, covering an area of $2 . 2 8 \times 1 0 ^ { 4 } \ \mathrm { k m } ^ { 2 }$ (Fig. 1). The Kumtagh Desert is developed on the vast alluvial/diluvial fans between the Altun Mountains and Beishan Mountains. Aluvial deposits and lake sediments from Lop Nur in the northwest and the Dunhuang Xihu wetland, Shule
+
+![](images/25d6f253f9b1dd25adae435dfcbeb8d4d8c9706180c98f1ca639eb17794d1ba3.jpg)  
+Fig.1 Location of the study region
+
+and Danghe river beds in the east provide rich sand sources for the development of the Kumtagh Desert (Xu et al., 2011).
+
+The study region is located on the eastern edge of the Kumtagh Desert (Fig. 1). The annual mean temperature is about $1 1 . 6 9 ^ { \circ } \mathrm { C }$ ， the mean annual precipitation is about $3 6 . 1 9 \ \mathrm { m m }$ , the mean annual potential evaporation is approximately $2 5 0 0 ~ \mathrm { { m m } }$ ， and the climate is extremely arid. The annual mean wind speed is about $3 . 2 1 \ \mathrm { \ m / s }$ . The sand-driving wind mainly concentrates in west-northwest (WNW) and east-northeast (ENE) directions. The seif dunes in the study region are mainly distributed over flat gravel desert surfaces (Figs. 2 and 3). Caligonum mongolicum is sparsely distributed in the area.
+
+![](images/25e2914c9a15d52e01e0c5121aabd4908fac68f071176b67559408c6f1c0da7c.jpg)  
+Fig.2 Distribution of seif dunes in the study region
+
+![](images/4ff9b9ffc1e88efb13cc608019363419ea2cf1960cbabd66267b337cda2bc014.jpg)  
+Fig.3Seif dunes in the study region
+
+# 2.2 Methods
+
+The wind speed and direction data were obtained from automatic weather stations at the Kumtagh Desert Ecosystem Research Station (Fig. 2), National Forestry and Grassland Administration of China $( 3 9 ^ { \circ } 5 8 ^ { \prime } 1 1 ^ { \prime \prime } \mathrm { N }$ $9 4 ^ { \circ } 0 1 ^ { \prime } 1 6 ^ { \prime \prime } \mathrm { E }$ ). The wind sensors were installed at $1 0 \mathrm { m }$ high above the ground. The data were collected at 3O-min intervals.
+
+Remote sensing images in 1965 and 2015 were obtained to monitor the dune morphology and dynamic changes. The image in 1965 was from American keyhole satelite (nominal resolution of $2 . 7 ~ \mathrm { \ m } { \times } 2 . 7 ~ \mathrm { \ m } )$ . The image in 2O15 was GF-1 panchromatic band images from Chinese high-resolution satellite (nominal resolution of $2 \ \mathrm { m } { \times } 2 \ \mathrm { m } ,$ ). Based on the GF-1 image in 2015, seven control points were selected, and the keyhole image in 1965 was re-registered. The total error of co-registration was $1 . 2 7 \mathrm { m }$ and less than 1 pixel.
+
+The seif dunes were manually vectorized based on panchromatic band images acquired in 2015 (Fig. 2)， from which dune orientation and length statistics were obtained. Eleven transects roughly vertical to seif dune orientations were used to analyse dune spacing.
+
+In October 2016, a typical seif dune (length, $1 2 5 0 \mathrm { m } )$ was chosen for topographic survey by the electronic total station (PENTAX R-202N, TI Asahi Co., Ltd., Japan; accuracy, $2 ~ \mathrm { m m }$ $( \pm 2 \ \mathrm { p m } )$ ） The upwind tail, middle part, and downwind tip of the seif dune were measured by the electronic total station (Fig. 4). The encrypted measurement was performed in large terrain changes. Six areas from upwind to downwind along the typical seif dune were chosen for collecting sediment samples. From upwind to downwind, the sample areas were named as upwind tail, middle part 1, middle part 2, middle part 3, middle part 4, and downwind tip (Fig. 4). At each sample area, surface material $( 0 { \ - } 1 \ \mathrm { c m } )$ in the top crest, windward, leeward, and horns of the dune was collected. Sixty-one sediment samples were collected. The samples were sieved at a $1 / 3 \Phi$ interval. We transformed grain diameter in millimetres into that in phi values using Equation 1. The grain size data at each sample area were averaged. The grain size parameters were calculated using Equations 2 and 3 provided by McManus (1988).
+
+$$
+d ( \Phi ) = - \log _ { 2 } d ( \mathrm { m m } ) ,
+$$
+
+$$
+\overline { { { \chi } } } _ { \Phi } = \frac { \sum f m _ { \Phi } } { 1 0 0 } ,
+$$
+
+$$
+\sigma _ { \Phi } = \sqrt { \frac { \displaystyle \sum f ( m _ { \Phi } - \overline { { x } } _ { \Phi } ) ^ { 2 } } { 1 0 0 } } ,
+$$
+
+where $d$ is the grain diameter; ${ \overline { { x } } } _ { \Phi }$ is the mean grain size $( \Phi ) ; f$ is the frequency $( \% ) ; m _ { \Phi }$ is the mid-point of each class interval $( \Phi )$ ; and $\sigma _ { \Phi }$ is the sorting $( \Phi )$
+
+![](images/bdb89d9b64f2ce1786e69df765b65c7fc06893acc7c79553b0d19dc2c468e3e6.jpg)  
+Fig.4 Distributions of surface sediment sample points and the areas for topographic survey
+
+Using the wind data during June 2012 to April 2013, the drift potential (DP) was calculated. DP in vector units (VU) is an important index to measure regional aeolian activity intensity. Fryberger's formula for calculating DP is widely used in the study of regional aeolian activities and dune morphology and development. Fryberger (1979) simplified Lettau's sand transport equation to:
+
+$$
+\mathrm { D P } = V ^ { 2 } ( V - V _ { t } ) t \ ,
+$$
+
+where $V$ is the wind velocity (knot/h) above $V _ { t } ; V _ { t }$ is the threshold velocity at $1 0 \mathrm { - m }$ height (11.66 knot/h) (Liao et al., 2010); and $t$ is the frequency $( \% )$ of sand-driving wind, expressed as a percentage of the total time. The direction and magnitude of the vector resultants of drift potentials (DPs) from the 16 compass directions are herein known as the resultant drift direction (RDD) and the resultant drift potential (RDP), respectively. An index of the directional variability of the wind is RDP/DP.
+
+Sixteen seif dunes were chosen for dune movement analysis from remote sensing images in 1965 and 2015, respectively. The dune crest locations were mapped from the images to determine seif dune extension and migration. The seif dune extension and migration measurement method is shown in Figure 5. The longitudinal migration of the dune tail was rarely investigated. The longitudinal extension of the dune tip was usually defined as "elongation" (Hu et al., 2019). To measure the average rate of lateral migration, we drew "across-dune transects" spaced $1 0 ~ \mathrm { m }$ apart, measured the locations where the dune crest intersected these transects (Rubin et al., 2008) and then averaged the values.
+
+![](images/f3b068da205f3fd5859fe5f97ba3195c174ce42cc8a1d5754f11e940a8eee80c.jpg)  
+Fig.5Schematic map of seif dune extension and migration measurement
+
+# 3Results
+
+# 3.1 Drift potential
+
+The distribution of DP and RDP obtained from the meteorological stations are calculated and shown in Figure 6. The annual DP in the study region was 122.37 VU, which indicates a low wind energy environment according to Fryberger's categorization standard of wind energy environment. The DPs in the WNW and ENE directions were dominant, accounting for $2 3 . 1 6 \%$ and $2 6 . 5 8 \%$ , respectively; and the angle between the two primary DP directions was $1 3 5 . 0 0 ^ { \circ }$ . The DP was high during April to July, accounting for $6 5 . 1 4 \%$ of the annual DP. The DP in April was the highest at $3 5 . 5 0 \mathrm { V U }$ ：
+
+The annual RDP was $4 5 . 6 0 \mathrm { \ V U }$ and the annual RDD was $1 8 6 . 1 5 ^ { \circ }$ . The monthly RDD ranged from $8 9 . 4 3 ^ { \circ }$ to $2 3 9 . 9 2 ^ { \circ }$ . The RDD in February, March, April, August, and September ranged from $1 8 1 . 0 0 ^ { \circ }$ to $2 3 9 . 9 2 ^ { \circ }$ ， whereas the RDD ranged from $8 9 . 4 3 ^ { \circ }$ to $1 7 1 . 1 3 ^ { \circ }$ in the other months.
+
+The RDP/DP, which is a measure of the directional variability of the wind, is arbitrarily classified as follows: low (O.0-O.3); intermediate (O.3-O.8); and high $( > 0 . 8 )$ (Fryberger, 1979). The annual RDP/DP in the study region was 0.37, which is classified as intermediate directional variability associated with an obtuse bimodal wind regime. Fryberger (1979) found that the wind environment of a linear dune seems to have a greater directional variability of effective winds (lower RDP/DP) than does the wind environment of a barchanoid dune for a given DP.
+
+# 3.2 Dune morphology
+
+# 3.2.1 Orientation
+
+Dune orientations are relative to the resultant or vector sum of sand transport (Fryberger, 1979).
+
+Seif dunes are usually parallel to the RDD of eective winds in the surrounding environment. Figure 7 shows that the $9 3 . 9 2 \%$ of dunes in the study area are oriented at $1 6 8 . 7 5 ^ { \circ } - 2 1 3 . 7 5 ^ { \circ }$ ，which coincides with an RDD of $1 8 6 . 1 5 ^ { \circ }$
+
+![](images/8e89a027877a0744ecd6d3d80630bd8b733f4869a44a64b55dc3918e69a59e1e.jpg)  
+Fig.6Driftpotential(DP)roses attheeasteredgeofthe KumtaghDesert.RDP,resultantdrift potential; RDD,rsultantdrift direction.
+
+![](images/d2b8fed6666e0ee0bd3ff06bf6ef929a3e27d4e14f6807bc9047a26c2f66dde9.jpg)  
+Fig. 7 Rose diagram of the orientation of seif dunes
+
+# 3.2.2 Length and spacing of seif dunes
+
+Figure 8 shows the distributions for length and spacing of seif dunes. The length of seif dunes in the study region ranged from 51.68 to $1 9 3 2 . 1 1 \mathrm { ~ m ~ }$ with a mean value of $3 4 4 . 9 1 \mathrm { ~ m ~ }$ (Fig. 8a). The number of seif dunes was lower as the lengths became longer. Seif dunes less than $4 0 0 \mathrm { ~ m ~ }$ in length accounted for $7 3 . 9 6 \%$ of the total dunes. Nine transects perpendicular to seif dune orientation were chosen to analyse the spacing of seif dunes (Fig. 2). The spacing of seif dunes ranged from 32.34 to $3 1 9 . 7 7 \mathrm { m }$ , with a mean value of $9 3 . 3 9 \mathrm { ~ m ~ }$ (Fig. 8c). The spacing of seif dunes was mainly concentrated at $ { 0 - 1 5 0 \mathrm { m } }$ ,accounting for $9 1 . 0 4 \%$ of the dunes. The average length and spacing of raked linear dunes in the northern Kumtagh Desert were 4271 and $1 1 3 2 \mathrm { ~ m ~ }$ respectively (Wu, 2012).
+
+Cumulative frequency plots of dune length and spacing provide a means to statistically identify multiple populations (Ewing et al., 2Oo6). We drew the cumulative frequency plots of dune length and spacing (Fig. 8b and d) according to the method of Ewing et al. (2O06). The $x$ -axes in Figure 8b and d represent the reciprocal of the Gaussian cumulative distribution of dune length and spacing, respectively. The $y$ -axes in Figure 8b and d represent logarithmic value of dune length and spacing with base 10, respectively. If the data in the above cumulative frequency plots are in a straight line, the data are in a single population and are the result of a single mechanism. Alternatively, the data wil be divided into multiple populations by inflection points, which means that the data are from multiple mechanisms. Both the dune length and the spacing data in the study region were from single populations (Fig. 8b and d), which means that the seif dunes in the study region had a similar development environment and process.
+
+![](images/ccab7d4b3ba3bd6c268c105d9197297dc25523179e77a1210bc959310a4fd3e9.jpg)  
+Fig. 8 Length (a, b) and spacing (c, d) of seif dunes
+
+# 3.2.3 Topography
+
+The topography of upwind tail, middle part, and downwind tip of one typical seif dune (length, $1 2 5 0 ~ \mathrm { m } )$ was measured (Figs. 4 and 9) by electronic total station in October 2016. Figures 10 and 11 show the results of topographic survey. The widths of W1, W2, and W3 in the upwind tail were approximately 75.86, 71.65, and $6 0 . 8 0 \mathrm { ~ m ~ }$ ，respectively, and the mean width was $6 9 . 4 4 \mathrm { ~ m ~ }$ ： The widths of W4, W5, and W6 in the middle part were approximately 42.93, 40.66, and $3 8 . 1 7 \mathrm { m }$ respectively, and the mean value was $4 0 . 5 9 \mathrm { ~ m ~ }$ . The widths of W7,W8,and W9 in the downwind tip were approximately 19.26, 15.27, and $1 2 . 4 7 \mathrm { m }$ , respectively, and the mean value was $1 5 . 6 7 \mathrm { ~ m ~ }$ Generally, the widths of the seif dune become narrow from upwind tail to downwind tip.
+
+The relative height of the seif dune in the upwind tail increased from upwind to downwind. The heights of the seif dune in W1, W2, and W3 were approximately O.87, 1.55, and $2 . 0 9 \mathrm { ~ m ~ }$ 0 respectively. The height of the seif dune in the downwind tip decreased from upwind to downwind. The heights of the seif dune in W7, W8,and W9 were approximately 0.80, 0.59, and $0 . 3 6 \mathrm { ~ m ~ }$ , respectively. The heights of the seif dune in the middle part were stable from upwind to downwind. The heights of the seif dune in W4, W5,and W6 were approximately 2.34, 2.88, and $2 . 5 7 ~ \mathrm { m }$ , respectively. The average heights of typical seif dunes chosen in the upwind tail, middle part, and downwind tip were 1.50, 2.60, and $0 . 5 8 \mathrm { m }$ ,respectively. Generally, the height of the seif dune in the middle part was high, followed by the upwind tail, and low in the downwind tip.
+
+![](images/3d1c0926e25743f02ae3d4d90e9712676414a0db747bc28b37e5b8833716abbb.jpg)  
+Fig.9Topography of different parts of seif dunes
+
+# 3.3 Grain sizes
+
+Sediments collected from a typical dune were largely composed of sand (very coarse, coarse, medium, fine, and very fine). The sand content of sediment samples ranged from $9 7 . 4 6 \%$ to $9 9 . 6 9 \%$ (Fig. 12). The content of granules and pebbles in the upwind tail was approximately $1 . 0 4 \%$ ,and there was almost no granule and pebble in other locations. The very coarse sand content in the upwind tail was approximately $2 8 . 4 2 \%$ ，whereas it was $0 . 0 1 \%$ to $8 . 9 4 \%$ in the middle part and downwind tip positions, respectively. Soil aggregates and particles greater than $8 4 0 ~ { \mu \mathrm { m } }$ were generally considered not to be erodible by wind (Chepil, 1942). The higher content of nonerodable fractions of sediments in the upwind tail indicated that this part of seif dune suffered serious wind erosion.
+
+![](images/877001fe1315dac80539c9beba127bdbc8647691911d54b1b9208a39b5acec87.jpg)  
+Fig.10Height profile of typical cross sections (W1, W2, W3, W4, W5, W6, W7, W8 and W9 are the codes of typical cross sections)
+
+![](images/0a1950657dcd4e5dcc4200ebc89c06d26e779e05cc8803ac4af9b7dc757b6ec2.jpg)  
+Fig.11Morphology in different parts of seif dune
+
+The medium sand and fine sand contents in the upwind tail were only approximately $4 . 6 4 \%$ and $1 0 . 4 7 \%$ , respectively, whereas the fraction of this material was much higher in the middle part and downwind tip. The very fine sand content in the upwind tail position was $2 7 . 6 8 \%$ ,and it was $1 8 . 1 1 \%$ to $2 0 . 9 5 \%$ in the middle part (the average value of middle part 1-4) and downwind tip. The silt and clay content in the upwind tail was only $1 . 5 0 \%$ but was higher than that in the middle part and downwind tip.
+
+The mean grain sizes of sediments became finer from upwind to downwind (Fig. 13). The mean size of sediments in the upwind tail was $1 . 2 9 \ : \Phi$ , ranging from 1.64 to $1 . 9 0 ~ \Phi$ in the middle part and $2 . 1 5 { \mathrm { ~ \Phi } }$ in the downwind tip. The sorting became better from upwind to downwind. The sorting value was $1 . 5 9 \ \Phi$ in the upwind tail, representing poor sorting. The sorting in the middle part ranged from 0.88 to $1 . 2 1 ~ \Phi$ ， which covers the range from moderately to poorly sorted. The sorting value in the downwind tip was $0 . 7 0 { \mathrm { ~ ‰ ~ } }$ ，representing moderately well sorted. The mean grain size and sorting value are related to the sand source, transport distance, and wind regime. Generally, the longer the sediment is transported by wind, the finer the grain size and the better sorted the sediment. The granularity results of this typical seif dune have a certain indication of the position of the sand source and the sand transport direction in the study region. The sediment of seif dunes in the study region may be transported from northward to southward based on the granularity results.
+
+![](images/be1fbf3e9884932fc43e1c0d045dc8dc97a52192cd104c339940dafb424a1dd6.jpg)  
+Fig. 12 Grain composition of dune surface sediment: pebbles ( $^ { - 2 }$ to $- 6 \Phi$ )；granules $^ { - 1 }$ to $- 2 \Phi$ );verycoarse sand (0 to $- 1 \Phi$ ); coarse sand (1 to $0 \Phi$ ); medium sand (2 to $1 \Phi$ ); fine sand (3 to $2 { \Phi }$ ); very fine sand (4 to ${ } _ { 3 \mathrm { ~ \Phi ~ } }$ ) silt and clay $( > 4 \Phi )$   
+Fig.13 Grain size parameters of dune surface sediment
+
+2.4 1.8 一 Mean grain size ) nis rrr gaea 222018 1.6 Sorting 160412 -1.0 () Bunis 1.4 0.8 1.2 0.6 × Upwind tail> Middle part 1 Middle part 2 Middle part3 Middle part 4 Downwind tip> Upwind- →Downwind
+
+# 3.4 Movement of seif dunes
+
+Sixteen seif dunes were chosen for dune movement analysis with data from 1965 compared to data from 2O15 (Fig. 14; Table 1), using the measurement method shown in Figure 5. The average length of the 16 seif dunes in 1965 was $6 4 7 . 1 9 \mathrm { ~ m ~ }$ and was $8 9 3 . 9 1 \mathrm { ~ m ~ }$ in 2015. The average length increase was $2 4 6 . 7 2 \textrm { m }$ with an increase rate of $4 . 9 3 \mathrm { \ m / a }$ . Generally, the mean longitudinal migration rate of the tail parts of seif dunes was approximately $4 . 6 3 \mathrm { \ m / a }$ along the seif dune orientations from 1965 to 2015. The longitudinal migration rate results of the tail parts of seif dunes have rarely been reported. The mean longitudinal extension rate of the dune tip (also called the elongation rate) was approximately $9 . 5 5 ~ \mathrm { { m } / a }$ from 1965 to 2015 along seif dune orientations.
+
+![](images/74a41c1799376348cf1c1f00484816089a3f859239420d39acd2df5a3379a19a.jpg)  
+Fig. 14 Migration and elongation of seif dunes
+
+Table 1 Elongation and migration of seif dunes   
+
+<html><body><table><tr><td rowspan="2">Seif dune ID</td><td colspan="2">Length (m)</td><td rowspan="2">Increase in length (m)</td><td rowspan="2">Longitudinal migration of dune tail (m)</td><td rowspan="2">Longitudinal extension of dune tip (m)</td><td rowspan="2">Lateral migration vector*(m)</td><td rowspan="2">Lateral migration amplitude** (m)</td></tr><tr><td>1965</td><td>2015</td></tr><tr><td>1</td><td>289.27</td><td>458.26</td><td>168.98</td><td>195.36</td><td>362.08</td><td>-46.85</td><td>46.85</td></tr><tr><td>2</td><td>842.38</td><td>960.71</td><td>118.34</td><td>66.61</td><td>194.21</td><td>-31.77</td><td>31.77</td></tr><tr><td>3</td><td>148.67</td><td>361.56</td><td>212.89</td><td>243.68</td><td>456.77</td><td>-</td><td>-</td></tr><tr><td>4</td><td>397.77</td><td>612.34</td><td>214.57</td><td>95.66</td><td>331.89</td><td>-2.56</td><td>2.83</td></tr><tr><td>5</td><td>472.92</td><td>917.71</td><td>444.79</td><td>21.78</td><td>467.54</td><td>-16.85</td><td>18.78</td></tr><tr><td>6</td><td>793.50</td><td>1189.43</td><td>395.93</td><td>106.84</td><td>499.97</td><td>-17.01</td><td>22.65</td></tr><tr><td>7</td><td>785.12</td><td>1255.13</td><td>470.01</td><td>112.95</td><td>575.07</td><td>4.48</td><td>6.05</td></tr><tr><td>8</td><td>1388.85</td><td>1725.36</td><td>336.51</td><td>80.36</td><td>405.16</td><td>30.45</td><td>31.43</td></tr><tr><td>9</td><td>231.00</td><td>231.41</td><td>0.41</td><td>418.43</td><td>418.76</td><td>-</td><td>-</td></tr><tr><td>10</td><td>370.56</td><td>474.96</td><td>104.40</td><td>369.63</td><td>473.88</td><td>-19.89</td><td>19.89</td></tr><tr><td>11</td><td>555.96</td><td>878.57</td><td>322.61</td><td>403.82</td><td>729.89</td><td>-52.19</td><td>52.19</td></tr><tr><td>12</td><td>1177.36</td><td>1604.89</td><td>427.53</td><td>276.56</td><td>703.24</td><td>29.56</td><td>30.40</td></tr><tr><td>13</td><td>563.12</td><td>836.10</td><td>272.98</td><td>311.18</td><td>581.13</td><td>-20.88</td><td>20.88</td></tr><tr><td>14</td><td>890.57</td><td>895.20</td><td>4.63</td><td>381.41</td><td>380.23</td><td>29.48</td><td>29.87</td></tr><tr><td>15</td><td>1032.80</td><td>1081.72</td><td>48.91</td><td>443.36</td><td>484.82</td><td>49.06</td><td>49.06</td></tr><tr><td>16</td><td>415.13</td><td>819.21</td><td>404.08</td><td>177.81</td><td>574.73</td><td>-10.13</td><td>11.64</td></tr><tr><td>Mean (m)</td><td>647.19</td><td>893.91</td><td>246.72</td><td>231.59</td><td>477.46</td><td>-5.36</td><td>26.74</td></tr><tr><td>Rate (m/a)</td><td>-</td><td>-</td><td>4.93</td><td>4.63</td><td>9.55</td><td>-0.11</td><td>0.53</td></tr></table></body></html>
+
+Note:-,nodata;,positivemigrationtowardastadegatieigratiotowardwestegardlesoftheirectonoft
+
+The lateral migration directions of 16 chosen seif dunes were not all consistent. Some of the chosen seif dunes laterally migrated towards the west, but others laterally migrated towards the east. We define lateral migration towards the west as negative and towards the east as positive. The mean lateral migration vector of seif dunes was approximately $0 . 1 1 ~ \mathrm { m / a }$ towards the west $( - 0 . 1 1$ $\mathrm { { m } ( a ) }$ . If we ignore the direction of lateral migration, the mean amplitude of lateral migration was $0 . 5 3 \mathrm { m / a }$
+
+# 4Discussion
+
+Active sand seas occur in areas that receive $< 2 5 0 \ \mathrm { m m }$ of annual precipitation. However, dunes can form in any climatic regime where bare sand is exposed and where the wind is strong enough to entrain sand, for example, coastal dunes developed in humid tropical climates (Pye and Tsoar, 2009). The annual temperature in the study region is approximately $1 1 . 6 9 ^ { \circ } \mathrm { C }$ ， and the annual precipitation is about $3 6 . 1 9 \mathrm { m m }$ . The climate is extremely arid and the vegetation cover is sparse. Therefore, these factors can facilitate the development of aeolian processes.
+
+Dunes are a product of interactions between the wind and sand surfaces. The characteristics of both dune sediments and winds play important roles in determining dune type, size and spacing (Lancaster, 1995; Zhang et al., 2019). There are two prevalent and wel-known conceptual models on the transition from symmetric barchan to seif dune by bidirectional winds (Bagnold, 1941; Tsoar, 1984) based on observations and measurements. In Bagnold's model, the original barchan is formed by a steady gentle wind and the storm wind from an oblique direction causes the asymmetry by extending the horn nearest to the strong wind. In Tsoar's model, the barchan is formed by the strong storm wind and the secondary gentle wind that comes from another direction causes the asymmetry by extending the horn farthest from the gentler wind (Tsoar and Parteli, 2016).
+
+The investigation of seif dune formation in this study region further validated the above theory (Fig. 15). One horn of the barchan dunes in the bidirectional wind regime would be elongated; and over time, the barchan dunes would be transformed into seif dunes (Bagnold, 1941; Tsoar, 1984). The DPs in the two dominant directions of ENE and WNW were 32.52 and $2 8 . 3 4 ~ \mathrm { V U }$ respectively. The forces of the two dominant winds were basically equal and it is difficult to divide them into two groups (strong and gentle). In addition, the slip faces of the symmetrical barchan dune in the study region were not in one direction and even occurred in the opposite directions, which were decided by the dominant direction since the beginning of the barchan dune forming. At the same time, we could not determine the extending horn of the asymmetric barchans or the barchan-seif transition in the study region, which agreed with Bagnold's model or Tsoar's model based on field investigations and remote satelite images. The bidirectional winds, dune colision and the influence of inclined topography can lead to the form of barchan asymmetry (Bourke,2010; Lv et al., 2016). However, the asymmetric barchans can transform to seif dunes only if the divergence angle between the two main wind directions is ${ \geq } 9 0 . 0 0 ^ { \circ }$ (Parteli et al.,2014; Tsoar and Parteli, 2O16). The angle between the two primary DP directions in the study region was $1 3 5 . 0 0 ^ { \circ }$
+
+The seif dune field in the eastern margin of the Kumtagh Desert is located beside seasonal rivers (Fig. 2). The seasonal behaviour of these rivers leads to significant fluctuations in the surfaces of the riverbeds. Desiccation can uncover riverbed sediments， which can be intermittently exposed to aeolian erosion and generate atmospheric dust (Montes et al., 2017; Wang et al., 2O19). The sand particles transported by wind could be deposited in some cases, such as when the wind speed drops, vegetation is present, or the topography changes, as well as by other mechanisms. We observed stages of dune development, beginning with a dome-shaped dune. By one bidirectional wind, sand was eroded from the windward side of the dome-shaped dune and deposited on the leeward side, the leeward side became steeper and avalanches occurred (the angle of the leeward side was approximately $3 4 . 0 0 ^ { \circ } \mathrm { ~ , ~ }$ ). At this point, a barchan dune formed.
+
+At the beginning, the two horns of the barchan dune were typically symmetrical. The symmetric barchan dune was transformed into an asymmetric barchan dune by the bidirectional winds. With the interaction of the two wind directions, the seif dune formed and began to develop.
+
+Hunter et al. (1983) classified linear dunes according to the angle between their trend and long-term resultant sand-transport direction: a longitudinal dune should be applied only where the orientation of the long axis of the dune deviates by less than $1 5 . 0 0 ^ { \circ }$ ; an oblique dune deviates by $1 5 . 0 0 ^ { \circ } - 7 5 . 0 0 ^ { \circ }$ ； and a transverse dune deviates by $7 5 . 0 0 ^ { \circ } - 9 0 . 0 0 ^ { \circ }$ . According to the classification standards of Hunter et al. (1983), the dunes in the study region are mainly longitudinal dunes. The morphological classification of McKee and his coworkers (McKee, 1979) groups dunes based on their shape and the number of slip faces into five major types: crescentic, linear, reversing, star and parabolic. In turn, three varieties of each dune type can occur: simple, compound, and complex. Simple dunes are the basic form of each dune type. Compound dunes consist of two or more of the same type of dunes that are combined by overlapping or through superimposition. Complex dunes occur where dunes of two types are superimposed or merged. According to the classification of McKee (1979) and Lancaster (1982), the dunes in the study region (Fig. 16a) are simple linear dunes. The linear dunes in the northern Kumtagh Desert (Fig. 16b), namely, the raked linear dunes, are complex linear dunes, which are composed of primary ridges and subsidiary ridges that lie almost perpendicular to the primary ridges (Dong et al., 2010). The primary ridges of raked linear dunes in the northern Kumtagh Desert were generally aligned from
+
+![](images/bcfaa21c7ce05bead64a5c1afed2bf94ca62a402706efe20bde4d2533bb09e67.jpg)  
+Fig.15Formation process of seif dunes in the study region
+
+$2 2 0 . 0 0 ^ { \circ }$ to $2 3 5 . 0 0 ^ { \circ }$ ; and the seif dune orientations in this study region mainly ranged from $1 6 8 . 7 5 ^ { \circ }$ to $2 1 3 . 7 5 ^ { \circ }$ . The orientations of the avalanches of seif dunes in the study region were nearly perpendicular to the seif dune orientation, whereas the orientations of the avalanches of the subsidiary ridges in the raked linear dunes were parallel to the primary ridge orientations. The difference in the morphology of the linear dunes between the northern and eastern Kumtagh Desert, was mainly caused by the wind regime. The angle between the two primary wind directions in the northern Kumtagh Desert was acute, whereas the angle was obtuse in the eastern Kumtagh Desert. The RDP/DP and RDD in the northern Kumtagh Desert were $0 . 4 8 ^ { \circ } - 0 . 5 5 ^ { \circ }$ and $3 3 . 0 0 ^ { \circ } - 4 4 . 0 0 ^ { \circ }$ (Dong et al.， 201O), respectively, whereas they were $0 . 3 7 ^ { \circ }$ and $1 8 6 . 1 5 ^ { \circ }$ in the eastern Kumtagh Desert, respectively.
+
+![](images/8c897719bdf223ba5df2ac5edb823bce999778a8bce8e274f1cb4c9506f6932a.jpg)  
+Fig.16Seif dunes over the gravel desert surface in the eastern margin of the Kumtagh Desert (Pang, 2016) (a), and raked linear dunes in the northern Kumtagh Desert (George, 2O06)(b)
+
+The dynamic process of seif dunes mainly includes longitudinal elongation, displacement of the dune summit, lateral migration, lateral widening and vertical increase (Bagnold, 1941; Craddock et al., 2O15). Generally, the mean longitudinal extension rate of the seif dune tip in the study region (also called the elongation rate) was approximately $9 . 5 5 ~ \mathrm { m / a }$ along the seif dune orientations from 1965 to 2015. The seif dune elongation rates were $1 7 \ \mathrm { m / a }$ in the northern Qaidam Basin (Zhang et al., 2017), and $1 2 . 2 \ \mathrm { m / a }$ in the Egypt's Sinai Desert (Tsoar, 1983).
+
+The greatest controversy is whether the seif dunes have lateral migration. Bagnold (1941) believed that the rate of the lateral migration of linear dunes was relatively smal. Rubin and Hunter (1985) indicated that linear dunes had minor lateral migration, leading to sedimentary structures unlike those that Bagnold (1941) predicted, and were misinterpreted as other dune types. Therefore, linear dunes were common in modern deserts, but their deposits were rarely identified in aeolian sandstones. The mean lateral migration vector of seif dunes in the study region was approximately $0 . 1 1 \mathrm { \ m / a }$ towards the west $( - 0 . 1 1 ~ \mathrm { m / a } )$ ,but the mean amplitude of lateral migration was $0 . 5 3 ~ \mathrm { { m } / a }$ , ignoring the direction of lateral migration. The research results in the Qaidam Basin, China (Hesp et al., 1989), Western Sinai Desert, Egypt (Rubin et al., 2008), and Tengger Desert, China (Zhang et al., 2O1O) indicated that seif dunes had lateral movements and the annual migration rate were approximately $0 . 5 0 { - } 3 . 0 0 \ \mathrm { \ m } / \mathrm { a }$ . However， some scholars believed that linear dunes had no lateral migration (Livingstone, 2O03; Roskin et al., 2O14). When monitoring large， complicated and slow-moving dunes， topographic profiles are relatively restricted in both time and space, repeated multi-dune topographic surveys are more representative spatially but are restricted in time; and stratigraphic cross sections provide a more complete temporal history but are restricted spatially (Rubin et al., 2008).
+
+# 5 Conclusions
+
+Kumtagh Desert had a low wind energy environment according to Fryberger's categorization standard, and an obtuse bimodal wind regime. The DPs in the WNW and ENE directions were dominant, accounting for $2 3 . 1 6 \%$ and $2 6 . 5 8 \%$ of the measurements, respectively, and the angle between the two primary DP directions was $1 3 5 . 0 0 ^ { \circ }$
+
+The seif dune orientations in the study region mainly ranged from $1 6 8 . 7 5 ^ { \circ }$ to $2 1 3 . 7 5 ^ { \circ }$ ，which were parallel to the annual RDD $( 1 8 6 . 1 5 ^ { \circ } )$ . The lengths of the seif dunes ranged from 51.68 to $1 9 3 2 . 1 1 \mathrm { ~ m ~ }$ with a mean value of $3 4 4 . 9 1 \mathrm { ~ m ~ }$ . The spacings of the seif dunes ranged from 32.34 to $3 1 9 . 7 7 \mathrm { m }$ with a mean value of $9 3 . 3 9 \mathrm { m }$ ：
+
+The average widths of typical seif dunes in the upwind tail, middle part, and downwind tip were 69.44, 40.59, and $1 5 . 6 7 \mathrm { ~ m ~ }$ , respectively, and became narrow from upwind tail to downwind tip. The average heights of typical seif dunes in the upwind tail, middle part, and downwind tip were 1.50, 2.60, and $0 . 5 8 \mathrm { ~ m ~ }$ , respectively. The height of the seif dune was highest in the middle part, followed by the upwind tail, and lowest in the downwind tip.
+
+The mean grain size of sediments became finer from upwind tail to downwind tip. The sorting became better from upwind tail to downwind tip. The sediment of the seif dunes in the study region may be transported from northward to southward based on the granularity results. The higher content of nonerodable fractions of the sediments in the upwind tail indicated that this part of the seif dune suffered serious wind erosion.
+
+The average rate of increase in seif dune length was $4 . 9 3 ~ \mathrm { { m / a } }$ from 1965 to 2015. The mean longitudinal migration rate of the seif dune tail and the mean longitudinal extension rate of the seif dune tip (also called elongation rate) were 4.63 and $9 . 5 5 ~ \mathrm { { m } / a }$ along the dune orientation from 1965 to 2Oi5, respectively. The mean lateral migration vector of the seif dunes was approximately $0 . 1 1 ~ \mathrm { m / a }$ towards the west $\mathrm { ( - 0 . 1 1 ~ m / a ) }$ , but the mean amplitude of lateral migration was $0 . 5 3 ~ \mathrm { { m } / a }$ ignoring the direction of lateral migration.
+
+The seif dune field in the eastern margin of the Kumtagh Desert over the gravel desert surface is mainly distributed beside the seasonal rivers. Seasonal rivers can provide sediments for aeolian erosion and deposition. The seif linear dune field can first form beside seasonal rivers and then expand downwind.
+
+# Acknowledgements
+
+This research was funded by the Fundamental Research Funds for the Central Non-profit Research Institution of Chinese Academy of Forestry (CAFYBB2019MA009,CAFYBB2017ZE005),the New Project of Surplus Project Fund for Institute of Desertification Studies, Chinese Academy of Forestry (IDS2019JY-4), the National Natural Science Foundation of China (41471151,41701010, 41877530),and the Youth Innovation Promotion Association of Chinese Academy of Sciences (2018459). We thank Prof. YANG Wenbin and Prof. YAN Changzhen for their help on data acquisition and processng. We are grateful for the insightful inputs of the anonymous reviewers and editors during the review phase of this article.
+
+# References
+
+Bagnold R A. 1941. The Physics of Blown Sand and Desert Dunes.London: Methuen, 222-234.   
+BeslerH,LancasterN,BristowC,etal.20l3.Helga'sdune: 40yearsofdunedynamics intheNamibDesert.Geografiska Annaler: Series A, Physical Geography, 95(4): 361-368.   
+Bourke M. 2010. Barchan dune asymmetry: Observations from Mars and Earth. Icarus, 205(1): 183-197.   
+BristowCS,Bailey SD,LancasterN.20oo.Sedimentary structure of linear sand dunes.Nature,406(6791): 56-59.   
+Chepil WS.1942. Measurement of wind erosiveness of soils bydrysieving procedure.Scientific Agriculture,23:154-160.   
+CraddockRA,ToothS,ZimbelmanJR,etal.2015.TemporalobservationsofalinearsandduneintheSimpsonDesert,central Australia: Testing models forduneformationonplanetarysurfaces.JournalofGeophysicalResearchPlanets,2O(1o):1-15.   
+Dong Z B, QuJJ,Wang XM,etal.2008.Pseudo-featherydunes inthe KumtaghDesert.Geomorphology,10o(3-4): 328-334.   
+Dong ZB,Wei ZH,QianGQ,etal.2O10."Raked"lineardunes inthe KumtaghDesert,China.Geomorphology,23(1-2):12 128.   
+Ewing R C,Kocurek G,Lake L W.2006.Patern analysis of dune-field parameters.Earth Surface Processes andLandforms, 31(9): 1176-1191.   
+Fryberger SG.1979.Dune forms and wind regime.In: McKeeE D.A Studyof Global Sand Seas. Washington: United States Geological Survey, 137-169.   
+HespP,HydeR,HespV,etal.1989.Longitudinal dunescanmovesideways.Earth SurfaceProcesesandLandfors,4(5): 447- 451.   
+Hu FG,Yang X P,Li HW.2O19. Origin and morphology of barchanand linear clay dunes inthe Shuhongtu Basin,Alashan Plateau, China. Geomorphology, 339: 114-126.   
+Hunter RE,Richmond B M,Alpha TR.1983.Storm-controled oblique dunesof the Oregoncoast.Geological Societyof America Bulletin, 94(12): 1450-1465.   
+Lancaster N. 1982. Linear dunes. Progress in Physical Geography, 6(4): 475-504.   
+Lancaster N. 1995. Geomorphology of Desert Dunes. New York: Routledge,1-264.   
+Liao K T,QuJJ,TangJN,etal.2O10. Activityof wind-blownsand andthe formationoffeatheredsandridges in the Kumtagh Desert, China. Boundary-Layer Meteorology, 135: 333-350.   
+Livingstone I. 2Oo3.A twenty-one-year recordof surface change on a Namib linear dune.Earth Surface Proceses and Landforms, 28(9): 1025-1031.   
+Lu P,Narteau C,Dong Z B,etal.2O17. Unravellng raked lineardunes toexplain thecoexistence of bedforms in complex dunefields. Nature Communications,8: 14239, doi: 10.1038/ncomms14239.   
+Lv P,Dong ZB,Narteau C,etal.2016.Morphodynamic mechanisms for theformationof asymmetricbarchans: improvement of the Bagnold and Tsoar models. Environmental Earth Sciences,75(3): 1-9.   
+McKee E D.1979. Introduction to study on global sand seas.In: McKeeE D.A Studyof Global Sand Seas. Washington: United States Geological Survey, 1-19.   
+McManus J.1988. Grain size determination and interpretation. Techniques in Sedimentology, 408: 112-116.   
+Montes A,Rodriguez SS,Dominguez CE.2O17.Geomorphologycontext and characterizationof dunefields developed bythe southern westerlies at drying Colhué Huapi shallow lake,Patagonia Argentina. Aeolian Research,28: 58-70.   
+Parteli E,DuranO,Bourke M,etal.2014.Origins of barchanduneasymmetry: Insights from numerical simulations.Aeolian Research,12: 121-133.   
+Parteli EJR,OrencioD,HaimT,etal.20o9.Dune formationunderbimodal winds.Proceedingsof the National Academyof Sciences of the United States of America,106(52): 22085-22089.   
+Pye K, Tsoar H. 2009. Aeolian Sand and Sand Dunes. Berlin: Springer-Verlag,153-155.   
+Qu JJ,LiaoKT,Dong GR,etal.2011.Feathered sandridgesintheKumtagh Desertandtheirpositionintheclasification system. Science China Earth Sciences,54(8): 1215-1225.   
+Roskin J, Dan G B,Katra I. 2O14.Last milennium development and dynamics of vegetated lineardunes inferred from ground-penetrating radar and optically stimulated luminescence ages. Sedimentology, 61(5): 1240-1260.   
+Rozier O, Narteau C, Gadal C,etal. 2O19.Elongation and stabilityof a linear dune. Geophysical Research Leters,46(24): 14521-14530.   
+Rubin DM,HunterRE.1985.Whydeposits oflongitudinal dunes are rarely recognized inthe geologic record.Sedimentology, 32(1): 147-157.   
+Rubin D M,Tsoar H,Dan G B. 2O08. Asecond look at western Sinai seif dunesand their lateral migration. Geomorphology, 93(3-4): 335-342.   
+Srivastava A,DurcanJA,Thomas DS G.2O19.Analysis of late Quaternarylineardune development in the Thar Desert,India. Geomorphology, 344: 90-98.   
+Tsoar H. 1983. Dynamic processes acting on a longitudinal (seif) sand dune. Sedimentology, 30(4): 567-578.   
+Tsoar H. 1984. The formation of seif dunes from barchans-a discussion. Z Geomorph N F,28(1): 99-103.   
+Tsoar H,Blumberg D G, Stoler Y.2004. Elongation and migration of sand dunes. Geomorphology,57(3-4): 293-302.   
+Tsoar H,Parteli EJR.2O16. Bidirectional winds,barchan dune asymmetry and formation of seif dunes from barchans: a discussion. Environmental Earth Sciences, 75(18): 1237.   
+Wang X M, Dong Z B,QuJJ,et al.2Oo3. Dynamic processs of a simple linear dune-a study in the Taklimakan Sand Sea, China. Geomorphology, 52(3): 233-241.   
+Wang Y,YanP,Han G,etal.2O19.Sandsourceand formation mechanismof riverinesanddunes:acase studyin Xiangshui River, China. Journal of Arid Land, 11(4): 525-536.   
+Wang ZT,Sun QF,Ren X Z,etal.2Oo9.Pseudo-featherydunes intheKumtaghdesertreclasified aslinear dunes and zibars. Aeolian Research, 1(1-2): 87-89.   
+Wu JF.2O12.Geomorphological patterns in alinear dunefieldand agesof thelinear dunes in the northern Kumtagh Desert, northwest China. Environmental Earth Sciences, 66(8): 2449-2457.   
+Xu Z W,Lu HY,ZhaoCH,etal.2O11.Composition,originand weathering processofsurfacesediment in KumtaghDese, Northwest China. Acta Geographica Sinica, 21(6): 1062-1076.   
+ZhangKC,Kai K,QuJJ,etal.2010.Formative environmentand dynamic processofasimple linearsand dune.AridLand Geography, 33(3): 340-345. (in Chinese)   
+Zhang WM,Tan L H, An ZS,etal.2019.Morphologicalvariationof stardune and implications fordune management: acase study at the Crescent Moon Spring scenic spot of Dunhuang, China. Journal of Arid Land,11(3): 357-370.   
+Zhang ZC, Dong Z B, Qian G Q,et al.2017.Formation and development of dunes in the norther Qarhan Desert,central Qaidam Basin, China. Geological Journal, 53(3): 1123-1134.

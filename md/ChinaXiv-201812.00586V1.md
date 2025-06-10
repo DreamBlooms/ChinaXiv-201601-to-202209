@@ -1,0 +1,158 @@
+# 枯草芽孢杆菌对围产期母猪粪便微生物及其代谢产物的影响
+
+韩丽1,²解培峰」赵越 $^ { 1 , 2 }$ 高乾坤² 章文明王占彬² 印遇龙」 孔祥峰1\*
+
+（1.中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，动物营养生理和代谢过程实验室，长沙 410125；2.河南科技大学，动物科技学院，洛阳471003；3.赢创德固赛（中国）投资有限公司，北京100600）
+
+摘要：本试验旨在研究枯草芽孢杆菌对围产期母猪粪便微生物及其代谢产物的影响。试验选用 2\~4胎次、预产期相近、妊娠第85天的健康大白猪40头，随机分为2个组，每组20头猪。对照组饲喂基础饲粮，试验组在基础饲粮中添加 $2 5 0 ~ \mathrm { g / t }$ 的枯草芽孢杆菌制剂。从母猪妊娠第85天开始饲喂至产后第21天结束。分别于母猪妊娠第100 和112天以及产后第 7、14和21天每组采集8头母猪的新鲜粪便样品，测定其粪便中微生物数量、短链脂肪酸(SCFA)和生物胺含量。结果表明：与对照组相比，1）饲粮中添加枯草芽孢杆菌显著增加产后第7天母猪粪便中乳酸杆菌数量、乳酸杆菌/大肠杆菌和产后第21天粪便中厚壁菌数量( $. P { < } 0 . 0 5 )$ 。2）饲粮中添加枯草芽孢杆菌显著增加妊娠第100 天母猪粪便中乙酸、异丁酸、支链脂肪酸和总 SCFA含量（ $. P { < } 0 . 0 5 )$ ，产后第7天粪便中戊酸、直链脂肪酸、异丁酸、异戊酸、支链脂肪酸和总SCFA含量 $( P { < } 0 . 0 5 )$ ，产后第21天粪便中丙酸、丁酸和直链脂肪酸含量( $_ { . P < 0 . 0 5 ) }$ 显著降低产后第14天粪便中异戊酸含量（ $P { < } 0 . 0 5$ )。3）饲粮中添加枯草芽孢杆菌显著增加妊娠第100 天母猪粪便中尸胺含量（ $P { < } 0 . 0 5 \rangle$ ，妊娠第112天粪便中亚精胺和精胺含量（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ )，产后第14天粪便中尸胺、酪胺、亚精胺和精胺含量（ $\scriptstyle \cdot - P < 0 . 0 5$ )。综上所述，围产期母猪饲粮中添加枯草芽孢杆菌可增加肠道中有益菌数量、部分生物胺和 SCFA含量，对改善母猪的肠道健康和营养状况具有有益作用。
+
+关键词：围产期母猪；枯草芽孢杆菌；粪便；微生物；代谢产物
+
+中图分类号：S828
+
+母猪的健康状况和繁殖性能直接影响养猪场的经济效益。随着规模化水平的提高，养猪场存在饲料原料搭配不合理、缺乏特定营养素、饲料变质等问题[，引起母猪肠道菌群失衡、营养物质利用率低[2]，造成母猪便秘和繁殖障碍，缩短母猪利用年限，严重影响养猪业的发展3]。因此，如何通过营养调控措施改善母猪的肠道健康已成为目前的研究热点。益生菌作为活菌制剂，可改善肠道菌群平衡。目前常用的益生菌主要有芽孢杆菌、乳酸菌和酵母菌等[4]。由于芽孢杆菌能够形成芽孢，具有耐高温高压、耐酸碱等特点，便于生产和储存[5]，为目前使用最普遍的微生物饲料添加剂。研究证实，芽孢杆菌可降低猪肠道pH，促进有益菌繁殖，防止肠道疾病的发生[；可改善仔猪肠黏膜形态结构[7]，促进营养物质利用，增强机体免疫力，进而促进仔猪的生长发育[8]。笔者前期研究发现，饲粮中添加枯草芽孢杆菌，母猪妊娠第85\~112天和产后第21天的背膘厚呈增加趋势，机体免疫力增强9；同时，仔猪腹泻率降低，窝产仔数、产活仔数、仔猪初生窝重、初生个体均重、断奶窝重、断奶窝个体均重和平均日增重均有所提高。围产期母猪易遭受各种应激，引起肠道菌群失衡，对仔猪初生重、断奶重和窝整齐度等造成不利影响，因此保证母猪肠道菌群平衡对提高其繁殖性能具有重要意义。目前，关于枯草芽孢杆菌影响母猪粪便微生物及其代谢产物的研究报道较少。鉴于此，本试验通过在围产期母猪饲粮中添加枯草芽孢杆菌制剂，评价其对母猪粪便微生物及其代谢产物的影响，旨在为枯草芽孢杆菌在母猪生产中的应用提供依据。
+
+# 1材料与方法
+
+# 1.1试验动物、分组与饲养管理
+
+动物饲养试验于2017年3—5月份在中国科学院亚热带农业生态研究所永安动物实验基地开展。试验选用2\~4 胎次、预产期相近、妊娠第85天的健康大白猪 40头，随机分为2个组，每组20头猪。对照组饲喂基础饲粮，试验组在基础饲粮中添加 $2 5 0 \ \mathrm { g / t }$ 的枯草芽孢杆菌制剂。从妊娠第85天开始饲喂妊娠母猪饲粮，妊娠第100天更换为泌乳母猪饲粮，到产后第 21天结束。基础饲粮营养水平参照 NRC（2012）猪营养需求标准配制，基础饲粮组成及营养水平见表1。试验用枯草芽孢杆菌制剂由赢创德固赛（中国）投资有限公司提供（活菌数 ${ \geqslant } 4 \times 1 0 ^ { 9 } \mathrm { C F U } / \mathbf { g } )$ ，其添加剂量根据前人相关研究报道[7-8,10]及生产厂家建议确定。试验期间，不同妊娠阶段母猪的饲喂量根据母猪体况随时调整，防止母猪过瘦或过肥。妊娠第$8 5 { \sim } 1 1 0$ 天时母猪舍温度控制在 $1 6 { \sim } 1 8 \ \mathrm { ~ \textdegree C }$ ；预产期前7d将母猪转入产仔舍，温度控制在$2 0 { \sim } 2 4 \ \mathrm { ~ \textdegree ~ }$ ，湿度控制在 $6 0 \% { \sim } 8 0 \%$ 。其他饲养管理均按商业养猪场规范进行操作。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1 Composition and nutrient levels of basal diets (air-dry basis)   
+
+<html><body><table><tr><td>项目</td><td>妊娠母猪饲粮</td><td>泌乳母猪饲粮</td></tr><tr><td>Items</td><td>Pregnant sows’ diet</td><td>Lactating sows’ diet</td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米Corm</td><td>60.30</td><td>58.65</td></tr><tr><td>麦麸 Wheat bran</td><td>23.50</td><td>5.00</td></tr><tr><td>小麦粉 Wheat flour</td><td></td><td>2.00</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>4.00</td></tr><tr><td>豆粕 Soybean meal</td><td>12.00</td><td>20.50</td></tr><tr><td>酶解蛋白粉 Enzymic protein powder</td><td></td><td>3.00</td></tr><tr><td>进口鱼粉 Imported fish meal</td><td></td><td>2.50</td></tr><tr><td>赖氨酸Lys</td><td>0.12</td><td>0.15</td></tr><tr><td>苏氨酸Thr</td><td>0.03</td><td>0.05</td></tr><tr><td>氨酸Val</td><td></td><td>0.10</td></tr><tr><td>防霉剂 Antimildew agent</td><td>0.05</td><td>0.05</td></tr><tr><td>妊娠母猪预混料</td><td>4.00</td><td></td></tr><tr><td>Pregnant sows’ premix1)</td><td></td><td></td></tr><tr><td>泌乳母猪预混料</td><td></td><td>4.00</td></tr><tr><td>Lactating sows’ premix2)</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levles3)</td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>15.23</td><td>15.56</td></tr><tr><td>干物质 DM</td><td>98.00</td><td>97.74</td></tr><tr><td>粗脂肪 EE</td><td>5.16</td><td>6.02</td></tr><tr><td>粗纤维CF</td><td>3.60</td><td>3.54</td></tr><tr><td>粗蛋白质CP</td><td>14.17</td><td>19.78</td></tr><tr><td>粗灰分 Ash</td><td>5.61</td><td>5.95</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td>0.98</td><td>1.53</td></tr><tr><td>蛋氨酸 Met</td><td>0.12</td><td>0.16</td></tr><tr><td>苏氨酸Thr</td><td>0.68</td><td>0.99</td></tr></table></body></html>
+
+1)妊娠母猪预混料为每千克饲粮提供 The pregnant sows'premix provides the following per kilogram of the diet:VA10 000 IU，VD 2 500 IU，VE 100 IU，VK $2 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } ~ 1 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } \ 1 . 0 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 5 0 \mu \mathrm { g }$ ，氯化 胆碱 choline chloride $1 5 0 0 \mathrm { m g }$ ，Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 2 0 \mathrm { m g }$ ， $Z n 1 0 0 \mathrm { m g }$ ， $\mathrm { M n } 4 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ 0 . 7 ~ m g }$ ，Se $0 . 2 5 \mathrm { m g }$ 。
+
+2)哺乳母猪预混料为每千克饲粮提供 The lactating sows'premix provides the following per kilogram of the diet: VA 15 000 IU，VD 3 200 IU,VE 50 IU，VK $4 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 4 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } ~ 1 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 2 0 \mu \mathrm { g }$ 氯化胆碱 choline chloride $8 0 0 ~ \mathrm { { m g } }$ ，Fe $1 2 0 ~ \mathrm { m g }$ ，Cu $2 0 \mathrm { m g }$ ， $Z n 1 1 2 { \mathrm { m g } }$ ，Mn 24 mg， $\mathrm { ~ I ~ } 0 . 5 \mathrm { ~ m g ~ }$ ， Se 0.4 mg。
+
+3)消化能为计算值，其余指标为实测值。DE is acalculated value,while the others are measured values.
+
+# 1.2粪便微生物数量测定
+
+分别于母猪妊娠第100 和112天以及产后第7、14和21天，每组随机收集8头母猪的新鲜粪便样品， $- 8 0$ ℃冻存。按照QIAamp DNA Stool Mini Kit (QIAgen，德国)的方法提取粪便微生物DNA，参照焦金真等[1的方法进行微生物定量PCR分析，并计算粪便微生物数量，结果以每克粪便中含有的微生物拷贝数的对数值[lg(copies/g)]表示。微生物绝对定量PCR 的特异性引物由上海生工基因技术有限公司合成（见表2)。
+
+表2细菌的特异性引物序列  
+Table 2Specific primer sequences for bacteria   
+
+<html><body><table><tr><td>细菌Bacteria</td><td>序列 Sequence (5'-3')</td><td>产物大小 Product size/bp</td></tr><tr><td>双歧杆菌Bifidobacterium</td><td>F:TCGCGTCYGGTGTGAAAG R:GGTGTTCTTCCCGATATCTACA</td><td>128</td></tr><tr><td>乳酸杆菌Lactobacillus</td><td>F:AGCAGTAGGGAATCTTCCA R:ATTCCACCGCTACACATG</td><td>345</td></tr><tr><td>大肠杆菌Escherichia coli</td><td>F:CATGCCGCGTGTATGAAGAA</td><td>95</td></tr><tr><td></td><td>R:CGGGTAACGTCAATGAGCAAA</td><td></td></tr><tr><td>厚壁菌Firmicutes</td><td>F:GGAGYATGTGGTTTAATTCGAAGCA</td><td>126</td></tr></table></body></html>
+
+# 1.3粪便微生物代谢产物含量测定
+
+采用气相色谱法测定粪便中短链脂肪酸（SCFA）的含量，采用液相色谱法检测粪便中生物胺的含量[12]。
+
+# 1.4 数据统计与分析
+
+试验数据用 SPSS18.0 软件进行独立样本 $\mathbf { \chi } _ { t }$ 检验，数据均以“平均值 $\pm$ 标准误”表示。$P { < } 0 . 0 5$ 表示差异显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 表示有变化趋势。
+
+# 2结果与分析
+
+2.1饲粮中添加枯草芽孢杆菌制剂对母猪粪便微生物数量的影响
+
+由表3可知，与对照组相比，试验组产后第7天母猪粪便中乳酸杆菌数量和乳酸杆菌/大肠杆菌显著增加（ $P { < } 0 . 0 5 )$ ；产后第21天粪便中厚壁菌数量显著增加（ $_ { , P < 0 . 0 5 ) }$ ，双歧杆菌数量呈增加趋势（ $\scriptstyle \cdot { \cal P } = 0 . 0 9 7 .$ ）°
+
+表3饲粮中添加枯草芽孢杆菌制剂对母猪粪便微生物数量的影响  
+Table 3Effects of dietary Bacillus subtilis preparation on fecal microbial population of sows   
+
+<html><body><table><tr><td colspan="4">lg(copies/g)</td></tr><tr><td>项目</td><td>时间</td><td>对照组</td><td>试验组</td></tr><tr><td>Items</td><td>Time</td><td>Control group</td><td>Experimental group</td></tr><tr><td rowspan="5">双歧杆菌 Bifidobacterium</td><td>妊娠第100 天 Day 100 of pregnancy</td><td>5.63±0.38</td><td>6.02±0.42</td></tr><tr><td>妊娠第 112天 Day 112 of pregnancy</td><td>4.93±0.27</td><td>5.18±0.37</td></tr><tr><td>产后第7天 Day 7of postpartum</td><td>4.60±0.41</td><td>4.97±0.22</td></tr><tr><td>产后第14天 Day 14 of postpartum</td><td>4.30±0.27</td><td>3.92±0.31</td></tr><tr><td>产后第21天 Day 21 of postpartum</td><td>4.37±0.44</td><td>5.38±0.36</td></tr><tr><td></td><td>妊娠第 100 天 Day 100 of pregnancy</td><td>7.12±0.28</td><td>7.26±0.27</td></tr><tr><td>乳酸杆菌</td><td>妊娠第112 天 Day 112 of pregnancy</td><td>6.28±0.32</td><td>6.06±0.33</td></tr><tr><td>Lactobacillus</td><td>产后第7天 Day 7of postpartum</td><td>5.54±0.41</td><td>6.88±0.20*</td></tr><tr><td></td><td>产后第14天 Day 14of postpartum</td><td>6.90±0.32</td><td>7.06±0.28</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>6.61±0.41</td><td>6.74±0.37</td></tr><tr><td>大肠杆菌</td><td>妊娠第 100 天 Day 100 of pregnancy</td><td>6.49±0.36</td><td>6.33±0.27</td></tr></table></body></html>
+
+<html><body><table><tr><td>Escherichia coli</td><td>妊娠第112 天 Day 112 of pregnancy</td><td>7.37±0.18</td><td>7.31±0.16</td></tr><tr><td></td><td>产后第7天 Day 7of postpartum</td><td>7.95±0.24</td><td>7.98±0.21</td></tr><tr><td></td><td>产后第14天 Day 14 of postpartum</td><td>7.46±0.24</td><td>6.80±0.33</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>6.89±0.24</td><td>7.00±0.14</td></tr><tr><td></td><td>妊娠第100 天 Day100 of pregnancy</td><td>1.13±0.09</td><td>1.17±0.09</td></tr><tr><td>乳酸杆菌/大肠杆菌</td><td>妊娠第112天 Day 112 of pregnancy</td><td>0.86±0.05</td><td>0.84±0.06</td></tr><tr><td>Lactobacillus/Escheri</td><td>产后第7天Day 7of postpartum</td><td>0.70±0.06</td><td>0.86±0.03*</td></tr><tr><td>chia coli</td><td>产后第14天 Day 14 of postpartum</td><td>0.94±0.07</td><td>1.05±0.06</td></tr><tr><td></td><td>产后第21天 Day 21 of postpartum</td><td>0.97±0.07</td><td>0.96±0.05</td></tr><tr><td></td><td>妊娠第100 天 Day 100 of pregnancy</td><td>9.20±0.23</td><td>9.54±0.08</td></tr><tr><td>厚壁菌</td><td>妊娠第112 天 Day 112 of pregnancy</td><td>8.46±0.23</td><td>8.29±0.43</td></tr><tr><td></td><td>产后第7天 Day 7of postpartum</td><td>8.85±0.16</td><td>8.68±0.16</td></tr><tr><td>Firmicutes</td><td>产后第14天 Day14of postpartum</td><td>8.98±0.09</td><td>8.61±0.17</td></tr><tr><td></td><td>产后第 21天 Day 21 of postpartum</td><td>7.40±0.43</td><td>8.99±0.13*</td></tr></table></body></html>
+
+\*表示与对照组相比差异显著（ $. P { < } 0 . 0 5 )$ 。下表同。
+
+\* means significant difference compared with the control group $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2饲粮中添加枯草芽孢杆菌制剂对母猪粪便 SCFA含量的影响
+
+由表4可知，与对照组相比，试验组妊娠第100 天母猪粪便中乙酸、异丁酸、支链脂肪酸和总 SCFA含量，产后第7天粪便中戊酸、直链脂肪酸、异丁酸、异戊酸、支链脂肪酸和总 SCFA含量，产后第21天粪便中丙酸、丁酸和直链脂肪酸含量显著增加（ $_ { . P < 0 . 0 5 ) }$ ；妊娠第100天粪便中戊酸 $\scriptstyle \langle P = 0 . 0 7 1$ )和异戊酸( $\scriptstyle P = 0 . 0 6 4 ,$ 含量，产后第7天粪便中乙酸( $\scriptstyle \cdot { \cal P } = 0 . 0 5 1$ ）含量，产后第21天粪便中总SCFA含量（ $\scriptstyle \cdot - 0 . 0 5 7$ ）呈增加趋势；产后第14天粪便中异戊酸含量显著降低（ $P { < } 0 . 0 5 )$ ，支链脂肪酸含量呈降低趋势（ $P { = } 0 . 0 6 6 )$ 。
+
+表4饲粮中添加枯草芽孢杆菌制剂对母猪粪便 SCFA含量的影响  
+Table 4Effects of dietary Bacillus subtilis preparation on fecal SCFA contents of sows mg/g   
+
+<html><body><table><tr><td>项目Items 时间Time 对照组 Control group 试验组 Experimental group</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>妊娠第100 天 Day 100 of pregnancy</td><td>3.87±0.35</td><td>5.02±0.24*</td></tr><tr><td>乙酸</td><td>妊娠第112天 Day 112 of pregnancy</td><td>5.59±0.43</td><td>5.67±0.15</td></tr><tr><td>Acetate</td><td>产后第7天 Day 7of postpartum</td><td>5.36±0.36</td><td>6.47±0.38</td></tr><tr><td></td><td>产后第14天 Day 14of postpartum</td><td>7.16±0.78</td><td>7.04±0.37</td></tr><tr><td></td><td>产后第21天 Day 21 of postpartum</td><td>5.29±0.29</td><td>5.71±0.19</td></tr><tr><td></td><td>妊娠第 100 天 Day 100 of pregnancy</td><td>1.96±0.14</td><td>2.25±0.11</td></tr><tr><td>丙酸</td><td>妊娠第 112天 Day 112 of pregnancy</td><td>2.30±0.24</td><td>2.57±0.08</td></tr><tr><td>Propionate</td><td>产后第7天 Day 7 of postpartum</td><td>2.32±0.21</td><td>2.80±0.31</td></tr><tr><td></td><td>产后第14 天 Day 14 of postpartum</td><td>3.24±0.60</td><td>3.01±0.20</td></tr><tr><td></td><td>产后第21天 Day 21 of postpartum</td><td>2.28±0.13</td><td>2.73±0.09*</td></tr><tr><td></td><td>妊娠第 100天 Day 100 of pregnancy</td><td>0.41±0.13</td><td>0.25±0.18</td></tr><tr><td>丁酸</td><td>妊娠第112天 Day112 of pregnancy</td><td>0.19±0.10</td><td>0.10±0.01</td></tr><tr><td>Butyrate</td><td>产后第7天 Day 7of postpartum</td><td>0.34±0.12</td><td>0.29±0.12</td></tr><tr><td></td><td>产后第14 天 Day 14 of postpartum</td><td>1.60±0.38</td><td>1.64±0.12</td></tr><tr><td></td><td>产后第 21天 Day 21of postpartum</td><td>1.25±0.11</td><td>1.66±0.13*</td></tr><tr><td></td><td>妊娠第 100天 Day 100 of pregnancy</td><td>0.22±0.02</td><td>0.28±0.02</td></tr><tr><td>戊酸</td><td>妊娠第112天 Day 112 of pregnancy</td><td>0.32±0.04</td><td>0.31±0.02</td></tr><tr><td>Valerate</td><td>产后第7天 Day 7of postpartum</td><td>0.26±0.02</td><td>0.52±0.07*</td></tr><tr><td></td><td>产后第14 天 Day 14 of postpartum</td><td>0.45±0.05</td><td>0.33±0.02</td></tr><tr><td></td><td>产后第 21天 Day 21 of postpartum</td><td>0.33±0.02</td><td>0.39±0.03</td></tr><tr><td></td><td>妊娠第 100天 Day 100 of pregnancy</td><td>5.60±0.51</td><td>5.61±0.27</td></tr><tr><td>直链脂肪酸</td><td>妊娠第112天 Day 112 of pregnancy</td><td>8.40±0.64</td><td>8.64±0.19</td></tr><tr><td>Straight-chain</td><td>产后第7天 Day7of postpartum</td><td>8.29±0.39</td><td>10.07±0.63*</td></tr><tr><td>fatty acids</td><td>产后第14天 Day 14 of postpartum</td><td>12.44±1.51</td><td>12.03±0.63</td></tr><tr><td></td><td>产后第 21天 Day 21of postpartum</td><td>9.16±0.48</td><td>10.49±0.39*</td></tr><tr><td>异丁酸</td><td>妊娠第100天 Day 100 of pregnancy</td><td>0.73±0.19</td><td>1.95±0.14*</td></tr><tr><td>Isobutyrate</td><td>妊娠第112天 Day 112 of pregnancy</td><td>0.31±0.02</td><td>0.30±0.02</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>产后第7天 Day 7of postpartum</td><td>0.27±0.01</td><td>0.38±0.02*</td></tr><tr><td></td><td>产后第14 天 Day 14 of postpartum</td><td>0.43±0.05</td><td>0.34±0.02</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>0.32±0.02</td><td>0.38±0.04</td></tr><tr><td></td><td>妊娠第100天 Day 100 of pregnancy</td><td>0.40±0.04</td><td>0.49±0.02</td></tr><tr><td>异戊酸</td><td>妊娠第112天 Day 112 of pregnancy</td><td>0.57±0.05</td><td>0.52±0.03</td></tr><tr><td>Isovalerate</td><td>产后第7天 Day 7of postpartum</td><td>0.51±0.04</td><td>0.75±0.06*</td></tr><tr><td></td><td>产后第14 天 Day 14 of postpartum</td><td>0.85±0.10</td><td>0.61±0.03*</td></tr><tr><td></td><td>产后第 21天 Day 21of postpartum</td><td>0.61±0.05</td><td>0.73±0.08</td></tr><tr><td></td><td>妊娠第 100天 Day 100 of pregnancy</td><td>1.13±0.19</td><td>2.44±0.15*</td></tr><tr><td>支链脂肪酸</td><td>妊娠第112天 Day 112of pregnancy</td><td>0.87±0.07</td><td>0.82±0.04</td></tr><tr><td>Branched chain</td><td>产后第7天 Day7of postpartum</td><td>0.78±0.05</td><td>1.12±0.08*</td></tr><tr><td>fatty acid</td><td>产后第14天 Day14of postpartum</td><td>1.28±0.14</td><td>0.96±0.05</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>0.93±0.07</td><td>1.11±0.11</td></tr><tr><td></td><td>妊娠第100天 Day 100 of pregnancy</td><td>6.74±0.44</td><td>8.06±0.41*</td></tr><tr><td></td><td>妊娠第112天 Day 112 of pregnancy</td><td>9.27±0.68</td><td>9.46±0.19</td></tr><tr><td>总 SCFA</td><td>产后第7天 Day 7of postpartum</td><td>9.07±0.40</td><td>11.19±0.70*</td></tr><tr><td>Total SCFA</td><td>产后第14 天 Day 14 of postpartum</td><td>13.71±1.62</td><td>12.98±0.65</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>10.08±0.54</td><td>11.60±0.50</td></tr></table></body></html>
+
+2.3饲粮中添加枯草芽孢杆菌制剂对母猪粪便生物胺含量的影响
+
+由表5可知，与对照组相比，试验组妊娠第100天母猪粪便中尸胺含量显著增加( $_ { . P < 0 . 0 5 ) }$ ，腐胺含量呈增加趋势( $\scriptstyle \cdot P = 0 . 0 7 4 )$ ；妊娠第112天粪便中亚精胺和精胺含量显著增加( $_ { . P < 0 . 0 5 ) }$ 产后第14天粪便中尸胺、酪胺、亚精胺和精胺含量显著增加（ $\scriptstyle P < 0 . 0 5 )$ ）°
+
+表5饲粮中添加枯草芽孢杆菌制剂对母猪粪便生物胺含量的影响
+
+Table 5Effects of dietary Bacillus subtilis preparation on fecal bioamine contents of sows   
+
+<html><body><table><tr><td colspan="4">ug/g</td></tr><tr><td>项目Items</td><td>时间Time</td><td>对照组 Control group</td><td>试验组Experimental group</td></tr><tr><td>色胺</td><td>妊娠第100天 Day 100 of pregnancy</td><td>2.92±0.24</td><td>3.32±0.45</td></tr></table></body></html>
+
+<html><body><table><tr><td>Tryptamine</td><td>妊娠第112天 Day 112 of pregnancy</td><td>3.84±0.59</td><td>4.21±0.63</td></tr><tr><td></td><td>产后第7天 Day 7of postpartum</td><td>2.16±0.40</td><td>2.98±0.88</td></tr><tr><td></td><td>产后第14天 Day 14 of postpartum</td><td>1.47±0.53</td><td>2.90±0.60</td></tr><tr><td></td><td>产后第21天 Day 21 of postpartum</td><td>1.55±0.45</td><td>1.12±0.46</td></tr><tr><td></td><td>妊娠第100天 Day 100 of pregnancy</td><td>3.03±0.59</td><td>4.60±0.56</td></tr><tr><td>腐胺</td><td>妊娠第112天 Day112 of pregnancy</td><td>2.98±0.61</td><td>4.19±0.44</td></tr><tr><td>Putrescine</td><td>产后第7天 Day 7of postpartum</td><td>1.78±0.23</td><td>3.69±1.07</td></tr><tr><td></td><td>产后第14天 Day 14 of postpartum</td><td>2.01±0.49</td><td>3.74±1.06</td></tr><tr><td></td><td>产后第21天 Day 21 of postpartum</td><td>2.49±0.50</td><td>4.02±0.84</td></tr><tr><td></td><td>妊娠第100天 Day 100 of pregnancy</td><td>4.21±0.84</td><td>6.80±0.54*</td></tr><tr><td>尸胺</td><td>妊娠第112天 Day112 of pregnancy</td><td>4.08±0.93</td><td>6.78±1.99</td></tr><tr><td>Cadaverine</td><td>产后第7天 Day7of postpartum</td><td>3.48±0.51</td><td>7.02±2.50</td></tr><tr><td></td><td>产后第14 天 Day 14 of postpartum</td><td>2.83±0.64</td><td>6.37±1.45*</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>2.87±0.60</td><td>5.25±1.28</td></tr><tr><td></td><td>妊娠第100天 Day 100 of pregnancy</td><td>0.61±0.10</td><td>0.64±0.12</td></tr><tr><td>酪胺</td><td>妊娠第112天 Day 112 of pregnancy</td><td>1.40±0.57</td><td>1.66±0.42</td></tr><tr><td>Tyramine</td><td>产后第7天 Day 7of postpartum</td><td>2.75±1.32</td><td>4.37±1.68</td></tr><tr><td></td><td>产后第14天 Day 14 of postpartum</td><td>3.59±1.11</td><td>10.30±2.28*</td></tr><tr><td></td><td>产后第21天 Day 21of postpartum</td><td>3.51±0.75</td><td>5.93±2.22</td></tr><tr><td></td><td>妊娠第 100天 Day 100 of pregnancy</td><td>10.44±1.71</td><td>12.38±2.36</td></tr><tr><td>亚精胺</td><td>妊娠第112天 Day 112 of pregnancy</td><td>12.00±1.28</td><td>17.95±1.35*</td></tr><tr><td>Spermidine</td><td>产后第7天 Day 7of postpartum</td><td>6.08±0.68</td><td>8.86±1.72</td></tr><tr><td></td><td>产后第14天 Day 14 of postpartum</td><td>10.06±0.98</td><td>14.10±0.90*</td></tr><tr><td></td><td>产后第21天 Day 21 of postpartum</td><td>15.27±1.84</td><td>17.90±2.86</td></tr><tr><td>精胺</td><td>妊娠第 100天 Day 100 of pregnancy</td><td>0.72±0.11</td><td>0.72±0.13</td></tr><tr><td></td><td>妊娠第112天 Day112 of pregnancy</td><td>0.67±0.10</td><td>1.49±0.09*</td></tr><tr><td>Spermine</td><td>产后第7天 Day7of postpartum</td><td>0.62±0.11</td><td>0.56±0.16</td></tr></table></body></html>
+
+<html><body><table><tr><td>产后第14天 Day 14 of postpartum</td><td>0.71±0.06</td><td>1.49±0.11*</td></tr><tr><td></td><td></td><td></td></tr><tr><td>产后第21天 Day 21 of postpartum</td><td>1.18±0.16</td><td>1.59±0.27</td></tr></table></body></html>
+
+3讨论
+
+乳酸杆菌和双歧杆菌是猪肠道中的优势菌群，对维持肠道健康具有重要作用[6]。本研究发现，枯草芽孢杆菌可增加围产期母猪粪便中乳酸杆菌、双歧杆菌、厚壁菌数量以及乳酸杆菌/大肠杆菌，提示母猪肠道菌群平衡得到改善，对母猪繁殖性能和子代肠道健康具有促进作用[9]。这可能与芽孢杆菌产生的细菌素等抑菌物质有关，也可能与微生物产生的有益代谢产物有关，与前人的研究结果基本一致[10]。围产期母猪易发生氧化应激，对其产仔数和子代生长发育具有极其不利的影响[13]。研究表明，芽孢杆菌和乳酸菌具有抗氧化功能，可减少细胞损害[14-15]，提示枯草芽孢杆菌可改善母猪营养状况和繁殖性能[9]，这可能与肠道中有益菌的增加和机体总抗氧化能力增强有关。另外，母猪粪便中双歧杆菌数量增加，可促进其在新生仔猪肠道内的早期定植，防止仔猪腹泻，改善母猪便秘和乳汁品质[16]。
+
+乙酸、丙酸、丁酸等 SCFA主要由结肠中乳酸菌、双歧杆菌等厌氧菌发酵降解膳食纤维、抗性淀粉等碳水化合物产生，可参与机体氧化供能、调节肠道菌群平衡和改善肠道功能等[17]。其中，乙酸可为肠道细菌和肠黏膜提供能量[18]；丙酸可抑制胆固醇的合成，参与三羧酸循环，为机体供能；丁酸是厚壁菌的主要代谢产物，可为结肠上皮细胞提供能量，促进细胞的代谢和生长等[12]。本研究发现，枯草芽孢杆菌可提高围产期母猪粪便中乙酸、丙酸和丁酸等 SCFA 的含量，从而有益于母猪的肠道健康和营养物质代谢，这可能与其产生高活性的消化酶有关，也可能与其促进乳酸菌和双歧杆菌的增殖有关。研究表明，乳酸菌能增加肉鸡盲肠中 SCFA 含量和丁酸百分比[19]，促进仔猪结肠中丁酸的产生[10]。Duncan 等[20]报道，双歧杆菌可促进乳酸向丁酸的转化。可见，枯草芽孢杆菌可通过增加肠道有益菌数量而改善母猪的营养状况，满足母猪的能量需求，这有益于母体的肠道健康和胎儿发育。支链脂肪酸是亮氨酸、异亮氨酸或缬氨酸经氧化脱氨基和脱羧基后的产物，是肠腔内蛋白质分解代谢的标志物[21]。本研究中，饲粮中添加枯草芽孢杆菌增加了围产期母猪粪便中支链脂肪酸含量，提示母猪结肠中这几种氨基酸的分解代谢增加，其生理学意义尚有待进一步探明。
+
+肠道中的生物胺主要由肠细胞和肠道微生物代谢含氮物质产生，可缓解细胞氧化损伤，参与肠道黏膜屏障的发育和维持，对胎盘生长和胎儿发育具有重要作用[22]。其中，腐胺、尸胺、精胺和亚精胺是动物细胞的重要组成部分，可调节核酸与蛋白质合成，酪胺具有显著的抗氧化作用[23]。本研究表明，饲粮中添加枯草芽孢杆菌增加了围产期母猪粪便生物胺含量，可能是由于枯草芽孢杆菌、乳酸菌或双歧杆菌等可产生氨基酸脱羧酶，参与赖氨酸、酪氨酸、鸟氨酸和精氨酸等生物胺前体氨基酸的分解代谢。Lopez-Garcia 等[24]报道，妊娠后期大鼠胎盘需要维持高浓度的亚精胺、精胺和腐胺等来满足胎儿生长的需求，而肠腔内的多胺可被机体吸收，用于其他器官和组织的细胞生长[25]。因此，推测枯草芽孢杆菌可通过增加机体中生物胺的合成而促进胎儿的生长发育。
+
+4结论
+
+综上所述，饲粮中添加枯草芽孢杆菌可增加母猪肠道中有益菌的数量、部分生物胺和SCFA含量，从而改善围产期母猪的肠道健康和营养状况。
+
+参考文献:
+
+[1] VAN DEN BRAND H,HEETKAMP M J,SOEDE N M,et al.Energy balance of lactating primiparous sows as affected by feeding level and dietary energy source[J].Journal of Animal Science,2000,78(6):1520-1528.
+
+[2]周根来,殷洁鑫.影响母猪繁殖性能的营养因素及调控措施[J].中国畜牧兽医,2012,39(11):90-93.
+
+[3]路永强,张瑜,任利忠,等.母猪繁殖障碍成因分析[J].中国农学通报,2010,26(18):39-42.
+
+[4]侯冠或,周汉林,荀文娟,等.几种常用饲料添加剂对断奶仔猪肠道菌群调控的研究进展[J].   
+中国畜牧兽医,2016,43(11):2939-2944.
+
+[5]张爱武,薛军.枯草芽孢杆菌在动物生产中的应用效果[J].中国畜牧兽医,2011,38(4):234-238
+
+[6]朱伟云,余凯凡,慕春龙,等.猪的肠道微生物与宿主营养代谢[J].动物营养学报,2014,26(10):3046-3051.
+
+[7] LEE S H,INGALE S L,KIM J S,et al.Effects of dietary supplementation with Bacillus subtilis LS 1-2 fermentation biomass on growth performance， nutrient digestibility，cecal microbiota and intestinal morphology of weanling pig[J].Animal Feed Scienceand Tschnol0gy,2014,188(1/2):102-110.
+
+[8]张丽,丁宏标.酵母培养物、枯草芽孢杆菌和木瓜蛋白酶对保育猪生长性能、营养物质表观消化率和粪便微生物数量的影响[J].动物营养学报,2016,28(11):3642-3649.
+
+[9]韩丽,孔祥峰,赵越,等.枯草芽孢杆菌对围产期母猪繁殖性能和子代生长的影响[J].动物营 养学报,2017,29(12):4440-4446.   
+[10]苏勇,姚文,黄瑞华,等.芽孢乳杆菌 S1对断奶前后仔猪肠道乳酸菌、大肠杆菌和挥发性 脂肪酸含量变化的影响[J].福建农业大学学报（自然科学版）,2006,35(1):73-76.   
+[11] 焦金真,王芃芃,汤少勋,等.浏阳黑山羊胃肠道不同部位重要功能微生物的数量分布特 征研究[J].畜牧兽医学报,2013,44(10):1590-1599.   
+[12] 李华伟,苏家宜,胡诚军,等.饲粮添加发酵中药渣对围产期母猪粪便微生物及其代谢产 物的影响[J].动物营养学报,2017,29(9):3232-3239.   
+[13]敖江涛,郑溜丰,彭健.进程性氧化应激对母猪繁殖性能的影响及其营养调控[J].动物营 养学报,2016,28(12):3735-3741.   
+[14]余东游,毛翔飞,秦艳,等.枯草芽孢杆菌对肉鸡生长性能及其抗氧化和免疫功能的影响 [J].中国畜牧杂志,2010,46(3):22-25.   
+[15]GUO X,XIA X,TANG R,et al.Development of a real-time PCR method for Firmicutes and Bacteroidetes in faeces and its application to quantify intestinal population of obese and lean pigs[J].Letters in Applied Microbiology,2008,47(5):367-373.   
+[16]DI GIOIA D,ALOISIO 1,MAZZOLA G,et al.Bifidobacteria:their impact on gut microbiota composition and their applications asprobiotics in infants[J].Applied Microbiology and Biotechnology,2014,98(2):563-577.   
+[17]KONG X F,JI Y J,LI H W,et al.Colonic luminal microbiota and bacterial metabolite composition in pregnant Huanjiang mini-pigs:effects of food composition at different times of pregnancy[J].Scientific Reports,2016,6(1):37224.   
+[18]ZHOU X L,KONG X F,LIAN G Q,et al.Dietary supplementation with soybean oligosaccharides increases short-chain fatty acids but decreases protein-derived catabolites in the intestinal luminal content of weaned Huanjiangmini-piglets[J].Nutrition Research,2014,34(9):780-788.
+
+[19]于卓腾,毛胜勇,朱伟云.微生态制剂和饲用抗生素对肉鸡盲肠VFA和微生物区系的影响[J].南京农业大学学报,2007,30(3):110-114.
+
+[20]DUNCAN S H,LOUIS P,FLINT H J.Lactate-utilizing bacteria, isolated from human feces, that produce butyrate asa major fermentation product[J].Applied and Environmental Microbiology,2004,70(10):5810-5817.
+
+[21] KONG X F,ZHOU X L,LIAN G Q,et al.Dietary supplementationwith chitooligosaccharides alters gut microbiota and modifies intestinal luminal metabolites in weaned Huanjiang mini-piglets[J].Livestock Science,2014,160:97-101.
+
+[22]谭敏捷,孔祥峰,刘庆友,等.多胺与哺乳动物的孕体发育[J].动物营养学报,2015,27(1):43-48.
+
+[23] BLACHIER F,MARIOTTI F,HUNEAU J F,et al.Effects of amino acid-derived luminal metaboliteson the colonicepithelium andphysiopathological consequences[J].Amino Acids,2007,33(4):547-562.
+
+[24] LOPEZ-GARCIA C,LOPEZ-CONTRERAS A J,CASTELLS A,et al.Transcriptomic analysis of polyamine-related genes and polyamine levels in placenta, yolk sac and fetus during the second half of mouse pregnancy[J].Placenta,2009,30(3):241-249.
+
+[25]MILOVICV.Polyamines in the gut lumen:bioavailability and biodistribution[J].European Journal of Gastroenterology & Hepatology,2001,13(9):1021-1025.
+
+Effects of Bacillus subtilis on Fecal Microbes and Their Metabolites of Peripartum Sows HAN Li1,2 XIE Peifeng1ZHAO Yue1.2 GAO Qiankun² ZHANG Wenming³ WANG Zhanbin² YIN Yulong1KONG Xiangfeng1\* (1. Laboratory of Animal Nutritional Physiology and Metabolic Process, Key Laboratory of Agro-Ecological Processes in Subtropical Region, Institute of Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 2. College of Animal Science and Technology, Henan University of Science and Technology, Luoyang 471003, China; 3. Evonik Degussa (China)
+
+Co.,Ltd., Beijing 100600, China)
+
+Abstract: This study was conducted to determine the effects of Bacillus subtilis on fecal microbes and their metabolites of peripartum sows.Forty healthy Large White sows at close to day 85 of pregnancy during 2 to 4 parities were used and randomly allocated to 2 groups with 20 pigs per group. The sows in the control group were fed a basal diet, and the others in the experimental group were fed the basal diet supplemented with $2 5 0 ~ \mathrm { g / t }$ Bacillus subtilis preparation. The trial period was from day 85 of pregnancy to day 21 of postpartum. Eight sows per group were randomly selected and the fresh feces were collected at days 100 and 112 of pregnancy and days 7, 14 and 21 of postpartum, respectively,and the microbial population and the contents of short chain fatty acids (SCFA) and bioamine of feces were analyzed. The results showed as follows: compared with the control group,1） dietary Bacillus subtilis significantly increased the fecal Lactobacillus population and the ratio of Lactobacillus to Escherichia coli of sows at day 7 of postpartum and fecal Firmicutes population at day 21 of postpartum $( P { < } 0 . 0 5 )$ . 2) Dietary Bacillus subtilis significantly increased the contents offecal acetate, isobutyrate, branched chain fatty acid and total SCFA of sows at day 100 of pregnancy $( P { < } 0 . 0 5 )$ ， the contents of fecal valerate, straight-chain fatty acids, isobutyrate, isovalerate, branched chain fatty acid and total SCFA at day 7 of postpartum $( P { < } 0 . 0 5 )$ , and the contents of fecal propionate, butyrate and straight-chain fatty acids at day 21 of postpartum ( $( P { < } 0 . 0 5 )$ . But dietary Bacillus subtilis significantly decreased the fecal isovalerate content of sows at day 14 of postpartum ( $( P { < } 0 . 0 5 )$ . 3)Dietary Bacillus subtilis significantly increased the fecal cadaverine content of sows at day 1Oo of pregnancy $( P { < } 0 . 0 5 )$ ，the contents of fecal spermidine and spermine at day 112 of pregnancy $( P { < } 0 . 0 5 )$ , and the contents of fecal cadaverine, tyramine, spermidine and spermine at day 14 of postpartum $( P { < } 0 . 0 5 )$ ： Collectively, dietary Bacillus subtilis can increase the intestinal beneficial microbes population and contents of several bioamines and SCFA of perinatal sows, which plays important roles in improving intestinal health and nutritional status of sows.
+
+Key words: perinatal sows; Bacillus subtilis; feces; microbes; metabolites

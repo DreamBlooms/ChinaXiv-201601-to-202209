@@ -1,0 +1,366 @@
+[
+    {
+        "type": "text",
+        "text": "STATISTICALSTUDYOFSTRONGANDEXTREMEGEOMAGNETICDISTURBANCESANDSOLARCYCLECHARACTERISTICS",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E. K.J. KILPUA1,N. OLSPERT², A. GRIGORIEVSKIY², M. J. KAPYLA², E. I. TANSKANEN² H. MIYAHARA³, R. KATAOKA45, J. PELT26, AND Y. D. LIU7 Department of Physics,University Helsinki,Finland 2ReSoLVECentreofxceleceeartmentofouteiee,POox5Fo6altUiversta 3 Musashino Art University,1-736 Ogawa-cho,Kodaira-shi,Tokyo 187-8505,Japan 4NationalItituteofoareerch-dohoacaayo98 5DepartmentoflaienceeGduateUivesitodvaedudiesKE)-3doicoacaaokyo8 Tartu Observatory,61602 Toravere,Estonia 7StateKeyLaboratoryofSpaceWeatherNtioal SpaceSienceCenterCieseAcadeyofSiencesBein9China Received2015February18;accepted 2015May8;published2015 June 23 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study the relation between strong and extreme geomagnetic storms and solar cycle characteristics.The analysis uses an extensive geomagnetic index AA data set spannng over 150 yr complemented by the Kakioka magnetometer recordings.We apply Pearson correlation statistics and estimate the significance of the correlation with a bootstrapping technique.We show that the correlation between the storm occurrence and the strength of the solar cycle decreases from a clear positive correlation with increasing storm magnitude toward a negligible relationship.Hence,the quieter Sun can also launch superstorms that may lead to significantsocietal and economic impact.Our results show that while weaker storms occur most frequently in the declining phase,the stronger storms have the tendency to occur near solar maximum. Our analysis suggests that the most extreme solar eruptions do nothave a direct connection between the solarlarge-scaledynamo-generated magnetic field,butare rather associated with smaller-scale dynamo and resulting turbulent magnetic fields.The phase distributions of sunspots and storms becoming increasingly in phase with increasing storm strength,on the other hand, may indicate that the extreme storms are related to the toroidal component of the solar large-scale field. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: dynamo-solar-terrestrial relations-Sun: activity-Sun: coronal mass ejections (CMEs）-sunspots ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Extreme space weather storms are low-probability but highconsequence events that may have a significant impact on the modern technological infrastructure in space and on the ground (e.g., Pulkkinen et al. 20o5). The strongest documented storm in the geospace to date is the famous Carrington storm, which occurred in 1859 September (e.g., Carrington 1859; Tsurutani et al.2OO7).The possibility of a solar superstorm hitting the Earth has become a focus of attention in the space physics community since a record strong and fast coronal mass ejection (CME）hit the STEREO-A spacecraft in 2O12 July (Russell et al.2013;Liu et al.2014).If this CME would have been Earth directed,it would have caused severe space weather consequences (Baker et al. 2013;Ngwira et al. 2013). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Due to their potential to cause significant economical losses (e.g.,Baker 2OO9),there is a great interest to forecast the future occurrence probability for extreme space weather. Extrapolation from smaller events gives the 1O yr occurrence probability foraCarrington-sizedstorm （geomagneticindex Dst $\\angle \\mathrm { \\Omega } < - 8 5 0 \\mathrm { n T } ,$ ）tobe $12 \\%$ (Riley 2012)，or one such event in every 500 yr (Yermolaev et al. 2013).Love (2012), in turn, assumed that the occurrence of extreme geomagnetic storms can be described statistically in terms of an idealized Poisson model. They obtained the most likely Poisson occurrence probability for a Carrington-sized event in the next1O years to be $6 \\%$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, these estimations rely on strong assumptions and on Dst that covers only cycles pertaining to the“modern solar maximum,”i.e., the relatively high solar activity period that began from Solar Cycle 15 in 1914．Furthermore，the correspondence between the occurrence of extreme geomagnetic storms and the solar cycle characteristics,such as its strength and phase,is not known.While itis well established that CMEs are involved in the majority of strong and extreme storms (e.g.，Huttunen et al. 2002； Zhang et al. 2007; Richardson & Cane 2012；Yermolaev et al. 2013)，the prerequisites at the Sun that generate superstorms and connections with large-and small-scalesolar dynamo processes are not yet understood.Latest studies have given increasing evidence that the most extreme space weather storms are generated when multiple fast and strong CMEs interact with each other (e.g.，Gonzalez et al. 2011； Liu et al.2O14).It is noteworthy that both the Carrington storm and the 2O12 July CME event occurred during moderate/ weak-sized solar cycles.In particular,the recent declining trend in solar activity has raised the question whether extreme geomagnetic storms can also occur during calmer solar periods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here we seek to answer the following questions.How does the occurrence of extreme storms correlate with the solar cycle strength?In which solar cycle phase do extreme storms tend to occur? We obtain a quantitative estimation on the relation between the occurrence of extreme geomagnetic storms with the size and phase of the solar cycle using the Pearson correlation statistics and estimating the significance of the correlation coefficients with a bootstrapping technique. The characteristics of the extreme storms are compared with the characteristics of the less extreme storms.We also discuss the implications of our results in the context of solar dynamo processes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b529dcc2f84d2a3c143fab5b8ff63ef6d1a12de507ef5851f79f16ae141e40eb.jpg",
+        "img_caption": [
+            "Figure 1. Our storm definition.Fora storm it is required that the $3 \\mathrm { ~ h r }$ AA index exceeds $1 0 0 { \\mathrm { n T } }$ (red dashed line).The storm begins when AA exceeds $5 0 \\mathrm { n T }$ (solid black line) and ends when it decreases below $5 0 \\mathrm { n T }$ (the storm duration is indicated by the green-hatched area in the figure). Same definitions are used forKakioka $d H$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.OBSERVATIONS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To cover the maximally long time period,we use the $3 \\mathrm { h r }$ resolution AA index, which provides the longest continuous geomagnetic activity index data set, dating back to 1868.AA covers 14 solar cycles (solar cycles 11-23）with a large range of sizes and durations. It is calculated from two approximately antipodal mid-latitude magnetometer observatories that have changed over the years.AA indicates the severity of global geomagnetic storminess as it is affected by variations in several magnetospheric current systems,such as the auroral electrojets, ring current, field-aligned currents,and the magnetopause current. We also define storms using the amplitude of the geomagnetic field horizontal component at the Kakioka Magnetic Observatory(Kakioka dH). The Kakioka Observatory is located at the geographic latitude of 36:6N (geomag netic latitude of 27:4N),having the primary contribution from the equatorial ring current,and thus there is no one-to-one correspondence with AA.Kakioka measurements are given at 1 hr resolution,and the observations used here date back until 1926.Hence,Kakioka dH covers in total eight solar cycles (solar cycles 16-23). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our definition of a magnetic storm requires that AA or Kakioka $d H$ exceeds $1 0 0 { \\mathrm { n T } }$ ，i.e.，the threshold for intense geomagnetic activity (e.g., Gonzalez et al. 199O). The storm peak is the maximum of the $3 \\mathrm { h r }$ AA or1hrKakioka dHvalue reached during the storm. The storm is defined to start when AAorKakioka $d H$ exceeds $5 0 \\mathrm { n T }$ and to end when the index decreases below $5 0 \\mathrm { n T }$ (Figure 1).The analysis in this study is performed using storm thresholds,given in Table 1 for both indices.We also performed our analysis using the ranges (e.g., $\\mathrm { A A } = 1 0 0 { - } 2 0 0 \\mathrm { n T }$ ), but no significant differences in the results were found. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the analysis we use the international sunspot number (ISSN) from the Belgian Royal Observatory.10 The size of the sunspot cycle is estimated using the maximum of the daily ISSN and by calculating the mean of the monthly ISSN over the whole cycle. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Then we calculate the correlation between the cycle strength and the number of storms above the certain threshold,as well as the phase shift between the average sunspot number and the storm frequency distributions(see below).The confidence intervals for the correlation coefficients are calculated using the bootstrapping technique (Efron 1979).The main idea of the bootstrap is to substitute the unknown distribution by the empirical distribution of the observed data. Then the data generation process from this empirical distribution is repeated several times.The value in question is calculated on each iteration,and hence its uncertainty can be estimated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We apply two different methods to investigate the storm occurrence frequency per solar cycle phase.First,we divide each solar cycle into ascending，maximum，declining，and minimum phase using epochs defined by the method described in Hynönen (2O13). The method uses the averages and standard deviations of the smoothed ISSN,and the phases are illustrated in Figure 2 for solar cycles 22 and 23.For each phase we count the total number of storms above the certain threshold and scale it with the mean duration of the phase. The total number of storms in each AA and Kakioka $d H$ category, their distributions to different solar cycle phases,and the mean phase durations are given in Table 1.Second,we investigate the phase shift between the ISSN and storm occurrence distributions.We form a mean ISSN distribution by scaling each cycle length to unity and by superimposing all scaled cycles together. Similarly，we form the scaled mean distributionsfordifferentAAandKakiokadHstormthresholds.Then, we search the phase shift that minimizes the distances between the ISSN and AA/Kakioka dH distributions (Figure 3).Error estimates for the phase shifts are calculated using the block bootstrap technique (Kunsch 1989),where the blocks and their sizes are defined by solar cycles. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. Storm Occurrence and Solar Cycle Strength ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the annual ISSN and the occurrence times of the most extreme storms $\\mathit { \\Omega } ^ { \\prime } \\mathbf { A } \\mathbf { A } \\ > \\ 6 0 0 \\mathbf { n } \\mathrm { T }$ and Kakioka $d H > 3 5 0 \\mathrm { n T }$ ).There were in total $1 7 \\mathrm { \\ A A } > 6 0 0 \\mathrm { n T }$ storms during the period of 13 solar cycles and 11 Kakioka $d H > 3 5 0 { \\mathrm { n T } }$ storms during the period of eight solar cycles. The Carrington storm and the 2O12 July event are also marked in the top panel. We also give in Tables 2 and 3 the times of the 10 largest AA and Kakioka $d H$ storms.From Figure 4 and Tables 2 and 3 it is evident that extreme geomagnetic storms do not occur solely during strong solar cycles. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The top panels of Figure 5 give the Pearson correlation coefficients with the confidence intervals calculated with the bootstrap method(see Section 2）between the strength of the solarcycle andthenumber of AA(left） and Kakioka dH(right) storms per solar cycle for different storm magnitude thresholds.It is seen that the correlation coefficients are higher when the maximum of the ISSN is used to estimate the strength ofthe cycle thanwhen thecycle meanisused.The fewlowest storm thresholds for both indices show a strong positive correlation between the solar cycle strength and the storm occurrence.When the limiting storm magnitude is increased, the correlation starts to decline toward negligible correlation,in particular when the solar cycle strength is defined in terms of the mean ISSN.However, the width of the $9 5 \\%$ confidence intervals is large due to a small number of the most extreme storms(see Table1).Hence,it is not possible to tell reliably whether the correlation is negligible or weakly positive or negative. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f20241094145321e07cae585e7947f5f0815f9946f49947a03a199bad48f0b9c.jpg",
+        "table_caption": [
+            "Table 1 Total Numberof Storms in DifferentThershold Categories forAAand KakiokadH(KAK)and TheirDistributions to Different Solar Cycle Phases with Standard Errors of the Bootstrapped Distributions ",
+            "Note. The $\\Delta T _ { \\mathrm { S C } }$ columns givetheaverage durationofeach solarcycle phase forthesetof cycles investigated forAAand KakiokadH. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Threshold</td><td>Total</td><td>Minimum</td><td>Ascending</td><td>Maximum</td><td>Declining</td></tr><tr><td>AA > 100 nT</td><td>2073</td><td>246 ± 16.0</td><td>299 ± 17.1</td><td>665± 25.3</td><td>827 ± 27.5</td></tr><tr><td>AA > 200 nT</td><td>328</td><td>18 ± 4.2</td><td>49 ± 7.3</td><td>145 ± 11.7</td><td>116 ± 10.8</td></tr><tr><td>AA > 300 nT</td><td>106</td><td>2 ± 1.4</td><td>16 ± 4.0</td><td>49 ± 7.0</td><td>39 ±6.3</td></tr><tr><td>AA > 400 nT</td><td>54</td><td>1 ± 1.0</td><td>8± 2.8</td><td>25 ± 4.9</td><td>20 ± 4.6</td></tr><tr><td>AA > 500 nT</td><td>33</td><td>1 ± 1.0</td><td>6 ± 2.5</td><td>14 ± 3.7</td><td>12 ± 3.6</td></tr><tr><td>AA> 600 nT</td><td>17</td><td>0</td><td>4±2.0</td><td>7± 2.6</td><td>6 ± 02.5</td></tr><tr><td>△ Tsc (years)</td><td>：</td><td>2.3</td><td>1.9</td><td>2.8</td><td>3.8</td></tr><tr><td>KAK> 100 nT</td><td>472</td><td>31 ± 5.6</td><td>79 ± 8.8</td><td>189 ± 13.6</td><td>173 ± 12.7</td></tr><tr><td>KAK > 150nT</td><td>368</td><td>10 ± 3.2</td><td>28 ± 4.4</td><td>78± 8.9</td><td>63±7.8</td></tr><tr><td>KAK> 200nT</td><td>112</td><td>5±2.3</td><td>12 ± 3.5</td><td>37 ±6.2</td><td>28 ± 5.3</td></tr><tr><td>KAK > 250 nT</td><td>57</td><td>2 ± 1.04</td><td>4±1.9</td><td>20 ±4.6</td><td>17 ± 4.2</td></tr><tr><td>KAK > 300 nT</td><td>34</td><td>0</td><td>2 ±1.4</td><td>7± 2.6</td><td>11 ± 3.3</td></tr><tr><td>KAK > 350 nT</td><td>17</td><td>0</td><td>1 ± 1.0</td><td>4±2.0</td><td>6 ± 02.5</td></tr><tr><td>△Tsc (years)</td><td>：</td><td>2.2</td><td>1.8</td><td>2.2</td><td>3.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ecbe4869890dd436fe3efd24abff0f9e0f7d0c12f7d9a2c852b8972a8952485.jpg",
+        "img_caption": [
+            "FigreE $\\mathrm { A A } > ~ 2 0 0 ~ \\mathrm { n T }$ storms. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Storm Total Energy and Solar Cycle Strength ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The bottom panels of Figure 5 display the correlation between the storm“energy” (calculated over the whole storm interval) and the solar cycle strength for AA and Kakioka dH storms for different storm“energy”thresholds.By “energy\"we mean the integral of the storm magnetic field over the length of the storm. This is not exactly energy (since the energy is proportional to the integral of the square of the magnetic field), and therefore we have put the word “energy”in quotes. Again, correlation coefficients are higher when the solar cycle strength is estimated using the maximum ISSN.The storms with the lowest energy limits $( \\leqslant 1 0 0 0 )$ show a strong positive correlation for both AA andKakioka dH.For AA storms with higher total energy，the correlation fluctuates between strong and moderate positive correlation. For Kakioka $d H$ the correlation between the storm energy and solar cycle strength decreases clearly when the storm energy increases,but there is still a moderate positive correlation. The $9 5 \\%$ confidence intervals widen again considerably with increasing storm energy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.StormDistribution over Solar Cycle Phase ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The stacked histograms in Figure 6 show the relative percentage split of AA and Kakioka $d H$ storms into different solar cycle phases.It is seen that only a minority of AA and Kakioka dH storms occurred in the minimum phase.In particular,none of the most extreme storms occurred in the minimum phase.The fraction of storms in the minimum phases increases with decreasing storm magnitude,in particular for AA. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The storm frequency is highest in the maximum phase for all investigated AA storm magnitude thresholds.The frequency of storms in the maximum phase increases from $33 \\%$ to $48 \\%$ when the storm magnitude threshold increases from $\\mathbf { A } \\mathbf { A } > 1 0 0$ nT to $\\mathrm { A A } > 4 0 0 \\mathrm { n T }$ .For the two most extreme AA storm thresholds the frequency of storms in the maximum phase sligthly decreases,but the maximum phase has still clearly the largest fraction of storms ( $44 \\%$ and $40 \\%$ for $\\mathrm { A A } > 5 0 0 ~ \\mathrm { n T }$ and $\\mathrm { A A } > 6 0 0 \\mathrm { n T }$ ,respectively).Until the $\\mathrm { A A } > 4 0 0 \\mathrm { n T }$ threshold the frequency of storms is higher in the declining phase than in the ascending phase.For the $\\mathrm { A A } > 5 0 0 \\mathrm { n T }$ threshold ascending and declining phases have the equal frequency of storms,and for the most extreme threshold limit the ascending phase has a larger storm frequency. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c15c78fff20ff0046ce342ee62d6cd6b1f48817482721fe7364e5e9ddf9f7d7.jpg",
+        "img_caption": [
+            "Figure 3.Mean distributions of ISSN and AA index.The curves reflect the phase dependence of corresponding normalized measurements averaged over all cycles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae5a19b6a3aaa36a99eebefde353c99986592061c146e608c4dcb95e344b3147.jpg",
+        "img_caption": [
+            "Figure 4.Annual ISSN and the times of the most extreme geomagnetic storms, defined here by the $3 \\mathrm { ~ h r }$ AA index exceeding $6 0 0 { \\mathrm { n T } }$ (top）and Kakioka dH exceeding $3 5 0 \\mathrm { n T }$ (bottom).The blue dashed lines in the top panel show the Carrington storm in 1859 and the 2O12 July event that missed the Earth but hit the STEREO-A spacecraft.Numbers in the bottom part of the top panel give the solar cycle number for odd-numbered cycles.AA covers the years 1868-2009 (solar cycles11-23）and Kakioka dH the years 1926-2009(solar cycles 16-23). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For Kakioka $d H$ the maximum phase has clearly the largest frequency of storms from the ${ \\tt > } 1 0 0$ to ${ > } 2 5 0 \\mathrm { n T }$ threshold range. Within this range, the frequency of storms in the maximum phase again increases with increasing storm magnitude threshold, from $38 \\%$ to $47 \\%$ .For the two most extreme Kakioka $d H$ thresholds the frequency of storms in the maximum phase decreases and the largest percentage of storms is in the ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1325f28cde9afe129383d30b768494286a94cd2f0ddb698ece8ab5862560f1d6.jpg",
+        "table_caption": [
+            "Table 2 A List of the 10 Largest AA Storms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N</td><td>Date</td><td>AA Max (nT)</td><td>Solar Cycle</td><td>ISSN Max</td></tr><tr><td>1</td><td>2003 Oct 29</td><td>715</td><td>23</td><td>120.8</td></tr><tr><td>2</td><td>1989 Mar 14</td><td>715</td><td>22</td><td>158.5</td></tr><tr><td>3</td><td>1972 Aug 4</td><td>698</td><td>20</td><td>110.6</td></tr><tr><td>4</td><td>1959 Jul 15</td><td>698</td><td>19</td><td>201.3</td></tr><tr><td>5</td><td>1958 Jul 8</td><td>698</td><td>19</td><td>201.3</td></tr><tr><td>6</td><td>1921 May 14</td><td>698</td><td>15</td><td>105.4</td></tr><tr><td>7</td><td>1909 Sep 29</td><td>658</td><td>16</td><td>78.1</td></tr><tr><td>8</td><td>1903 Oct 31</td><td>658</td><td>14</td><td>64.2</td></tr><tr><td>9</td><td>1892Feb 14</td><td>658</td><td>13</td><td>87.9</td></tr><tr><td>10</td><td>1872 Feb 4</td><td>658</td><td>11</td><td>140.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note.The columns give the date of the AA maximum, the peak value of the AA index reached during the storm,solar cycle number,and the sunspot maximum of this cycle. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6d6e015c1a16f72f28a1eb0622e7ac621b2e551ea799ce8c6490153e37e2c07.jpg",
+        "table_caption": [
+            "Table 3 AList of the 1O LargestKakioka dH Storms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N</td><td>Date</td><td>dH Max (nT)</td><td>Solar Cycle</td><td>ISSN Max</td></tr><tr><td>1</td><td>1989 Mar 14</td><td>567</td><td>22</td><td>158.5</td></tr><tr><td>2</td><td>1941 Jul 5</td><td>535</td><td>17</td><td>119.2</td></tr><tr><td>3</td><td>1957 Sep 13</td><td>412</td><td>19</td><td>201.3</td></tr><tr><td>4</td><td>1958 Feb 11</td><td>411</td><td>19</td><td>201.3</td></tr><tr><td>5</td><td>1941 Sep 19</td><td>401</td><td>17</td><td>119.2</td></tr><tr><td>6</td><td>1982 Jul 14</td><td>395</td><td>21</td><td>164.5</td></tr><tr><td>7</td><td>2003 Nov 20</td><td>373</td><td>23</td><td>120.8</td></tr><tr><td>8</td><td>1967 May 26</td><td>371</td><td>20</td><td>110.6</td></tr><tr><td>9</td><td>2004 Nov 8</td><td>371</td><td>23</td><td>120.8</td></tr><tr><td>10</td><td>1938 Nov 22</td><td>370</td><td>17</td><td>119.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note.The columns give the date of the Kakioka dH maximum,the peak value of the Kakioka dH index reached during the storm,solar cycle number,and the sunspot maximum of this cycle. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "declining phase $( 4 6 \\% )$ . The declining phase has a larger frequency of storms than the ascending phase forall investigated thresholds. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The results of the phase shift analysis between the normalizedISSN distribution and the AA and Kakioka dH distributions are shown in Figure 7.As described in Section 2,the analysis is performed for different storm thresholds,including the ${ > } 5 0 \\mathrm { n T }$ threshold.For the smallest AA thresholds ( $\\mathrm { \\ A A } > 5 0$ nT and $\\mathrm { A A } > 1 0 0 \\mathrm { n T }$ ）it is apparent that the storms tend to be accumulated more toward the declining phase,i.e., they show a negative phase shift.When the storm threshold increases,this tendency vanishes,indicating that the stronger storms are in phase with the solar maximum,consistent with the results shown in Figure 6.However,owing to the low number of data points after the threshold $\\mathrm { A A } > 2 5 0 \\mathrm { n T }$ (see Table 1)，the uncertainty is too large to draw reliable conclusions.The bottom panel of Figure 7 shows that for Kakioka $d H$ also the distributions for the weakest thresholds are in phase with the ISSN distribution. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The first part of our analysis indicates that the correlation between the storm occurrence and the overall solar cycle strength decreaseswith increasing storm magnitude. In particular, the most extreme events are not well correlated with the strength of the solar cycle.This result is supported by both the Carrington superstorm and the 2O12 July extreme CME event occurring during relatively medium/weak-sized solar cycles (see Figure 4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9134f142614c9eba7d4e2ed0bf216c00e5c1722c4fec3010154f28b4569c25e.jpg",
+        "img_caption": [
+            "Figure5Peaa storm“energy”(integralof thegeomagneticindexoverthestormduration）(bottm).Leftpanelsshowtheanalysisbasedonthe $3 \\mathrm { h r }$ AAindex covering the time period 1868-2009.Right panels show the analysis based on the $1 \\mathrm { h r }$ Kakioka dH index covering the time period 1926-2009.Red curves show the correlation coefntsesalsoe estimatedusing the mean value of the monthly sunspot numbers.The blue andred dashed lines give thecorresponding $9 5 \\%$ confidence intervals. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Large-fluence $( { > } 3 0 \\mathrm { M e V } )$ solarproton events(SPEs) provide an alternative long-term proxy of solar superstorms and extreme space weather events.SPEs are accelerated at the interplanetary shocks driven by fast and strong CMEs,and they leave detectable traces in ice core nitrate concentrations.It has been reported that large-fluence SPEs occur frequently also during weak solar cycles (e.g.,McCracken et al. 20O1, 2004; Barnard etal.2O11).We calculated the correlationbetween the occurrence of large fluence SPEs in 1561-195O using a list published in McCracken et al.(2OO1）and the combination of the sunspot number from Steinhilber et al.(2O12) and Hoyt & Schatten(1997).The obtainedPearson correlation coefficient is $- 0 . 0 2$ with the standard error of O.17,hence indicating a negligible correlation.However, it is not clear how much of the SPE correlation with the solar cycle strength is influenced by interplanetary magnetic field being generally weaker during quieter times.The Alfven velocity depends linearly on the strength of the interplanetary magnetic field,which allows higher shock compression ratios,and hence large SPEs,during periods of lower solar activity (e.g., McCracken et al. 2004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our results raise an interesting question on the importance of large- and small-scale components of the solar dynamo in the generation of different sizes of space weather disturbances.It is commonly believed that the cyclic variation of the solar activity level is caused by a large-scale hydromagnetic dynamo (e.g., Parker 1955） operating in the turbulent convection zone and producing magnetic fields on global scales,commonly divided into the toroidal (azimuthal） and poloidal(meridional） field components.The toroidal component is thought to give rise to the formation of sunspots and active regions and also to the eruptive events,such as extreme flares and CMEs,originating from them.In turn, the poloidal field,obtaining its maximum during the toroidal field minimum, can be directly observed on the solar surface,and it manifests itself through,e.g.,coronal holes (e.g.,Ruzmaikin &Feynman 2001). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The first step of our analysis,however, gives an indication toward the extreme storms not being directly connected with the variations seen in the overall evolution of the solar activity level.It has indeed been proposed that, instead of the largescale dynamo,a small-scale dynamo and resulting turbulent magnetic fields would have the desired intermittent character to display burst-like activity phenomena with long waiting times (Veltri et al. 2005). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b95255f0d3690a6068de5dd34fac5e17134bdc398ff00444a79d63b9da44b6fa.jpg",
+        "img_caption": [
+            "Figure 6.Relative distribution of AA(top) and Kakioka dH(bottom） storms into different solar cycle phases.The number of storms has been weighted by the duration of each phase (see Table 1). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ae78dc54f116d54258279daa5e1810ab3e7482967005873e5cbbd3d40322415.jpg",
+        "img_caption": [
+            "Figure 7.Phase shift between the normalized ISSN distribution and the normalized AA(top）and Kakioka dH(bottom） distributions.Error estimates for the phase shifts have been calculated using the block bootstrap techique. Negative (positive） phase shifts indicate the storm occurrence in the declining (asceding）phase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As discussed in the Introduction,it is important to forecast the occurrence probability of extreme space weather events. In particular, the recent declining trend in solar activity has raised the question at what frequency major storms occur during weaker solar cycles.Estimating occurrence probabilities for rare events is problematic (e.g.,Love 2O12),and as our results show, the occurrence frequency for extreme storms cannot be directly extrapolated from weaker events.While the frequency of nominal geomagnetic activity varies clearly with the strength of the solar cycle,the occurrence probability for extreme space weather does not decrease with decreasing solar cycle strength.Also magnetohydrodynamic turbulence modeling supports this hypothesis: eruptive-type events draw their energy from the turbulent dissipation，which can be estimated from numerical models. Such modeling has shown broad exponential tails in the distribution of energy dissipation,implying a non-zero probability for an extreme event even for a system with low average activity level (e.g., Candelaresi et al. 2014). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The second part of our analysis,however, shows that the extreme events are not totally detached from the solar cycle, but they tend to occur more frequently near solar maximum. Furthermore,both the extreme CME event of 2O12 July and the Carrington storm occurred near solar activity maximum (see Figure 4).The mean magnetic field is a proxy of the solar large-scale dynamo,while the signal in the sunspot number contains both the mean field and fluctuations.Hence, from the point of view of solar dynamo，especially the averaged cycle analysis can give hints of the behavior of extreme storminess versus the behavior of the mean solar magnetic field, as by the averaging procedure one may hope to capture the regular part of the signal while eliminating the fluctuations. Our analysis suggests that the stronger the storms are,the more in phase their distributions are.Our results are also consistent with Gonzalez et al.(199O),who showed that the strongest Dst storms tend to occur at or very close to solar maximum. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As has been shown，e.g.，by Ruzmaikin & Feynman (2001)，part of the geomagnetic signal is related to the toroidal magnetic field,and part to the poloidal one. Since the monthly averaged AA usedin Ruzmaikin &Feynman (2001) is generally dominated by the lower-level activity,the AA signal in their study tends to be poorly in phase with the sunspot cycle(see also Tanskanen 2OO9). The most straightforward interpretation of this tendency in terms of the dynamo theory is that the stronger the storm,the more connected it is to the toroidal magnetic field component, therefore most likely having an origin from active-region CME(s).Consistent with Ruzmaikin & Feynman (2OO1), the distributions of weakest storm thresholds were shifted toward the declining phase,implying that they have an origin in the poloidal field component. This is consistent with several studies (e.g.,Huttunen et al. 2OO2;Richardson & Cane 2012) demonstrating that a large fraction of weak and moderatelevel storms are driven by slow-fast stream interaction regions and by fast streams. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The distributions of the weaker Kakioka dH storms being in phase with the mean ISSN distribution may be partly explained bya large contribution of the ring current to the Kakioka recordings.In contrast,AA has a significant contribution from the high-latitude currents.Turbulent high-speed streams from coronal holes,frequent when poloidal fields dominate,are efficient in driving high-latitude activity. In turn,a storm-level enhancement of the ring current requires more continuous and stronger solar wind driving,which is typically related to CMEs (e.g.,Tsurutani & Gonzalez 1987;Huttunen & Koskinen 2004; Yermolaev et al. 2O12)and hence to the toroidal field component.It is also possible that our results on the storm total energy having a moderate or strong positive correlation with the solar cycle strength are biased by the less strong geomagnetic activity occurring more frequently during strong solar cycles (see also, e.g., Stamper et al. 1999). Many CMEs that produce strong storms are followed by fast streams,which can lead to long recovery phases (e.g., Xie et al. 2005). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Another viable time-dependent process influencing the extreme event production in the Sun is the magnetic helicity (e.g., Owens et al. 2007; Schrijver 2009),i.e., the twist of the magnetic field. Magnetic helicity is a crucially important quantity for the operation of the large-scale dynamo，and without the small-scale helicity being regularly removed by flares and CMEs,the production of small-scale helicity would quench the dynamo already at field strengths much below the equipartition strength, inhibiting the dynamo process (see, e.g., the review by Brandenburg & Subramanian 2OO5). The magnetic helicity shows a clear sign ordering during a solar cycle，being dominantly negative (positive） in the northern (southern）hemisphere.Near solar maximum helicity shows a clearer sign rule than during solar minimum， when the distribution of magnetic twist is more chaotic (Hagino & Sakurai 2Oo5). One could therefore speculate that the tendency for the strong storms to occur during sunspot maximum reflects the more ordered distribution of magnetic helicity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Weacknowledge Kakioka Magnetic Observatoryfor providing the magnetometer data. E.K.acknowledges Academy of Finland projects 1218152 and 1267087 for financial support. ISSN data were obtained through SILSO data/image, Royal Observatory of Belgium,Brussels.Work by H.M.was supported by JSPSKAKENHI Grant Number 25287051.This Work has been supported by the Academy of Finland Centre of Excellence ReSoLVE(N.O.,M.J.K.,E.T., J.P.). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Baker,D. N. 2009, SpWea,7   \nBaker,N., Li, X., Pulkkinen,A., et al.2013, SpWea,11,585   \nBarnard,L.,Lockwood,M.,Hapgood,M.A.,et al. 2011,GeoRL,38,16   \nBrandenburg,A.,& Subramanian,K.20O5,PhR,417,1   \nCandelaresi,S.,Hillier,A.,Maehara,H.,Brandenburg,A.,& Shibata,K.2014, ApJ, 792, 9   \nCarrington, R. C. 1859, MNRAS,20,13   \nEfron,B.1979,AnSta,7,1   \nGonzalez,W.D.,Echer,E.,Tsurutani,B.T.,Cla de Gonzalez,A.L.,& Dal Lago, A. 2011, SSRv, 158, 69   \nGonzalez,W.D., Gonzalez,A.L.,& Tsurutani, B.T.1990,P&SS,38,181   \nHagino,M.,& Sakurai, T.2005,PASJ,57,481   \nHoyt,D.V.,& Schatten, K. H.1997,A New Construction of Solar Activity, 1610-1995,Tech.Rept.NASA/CR-97-206179;NAS 1:26:206179   \nHuttunen，K.E.J.，& Koskinen，H.E.J.2004，Ann.Geophys.Res., 22,1729   \nHuttunen,K.E.J.,Koskinen,H.E.J.,& Schwenn,R.2002,JGR,107,20   \nHynonen,R.2013,e-thesis,Univ.of Helsinki,http://hdl.handle.net/10138/ 42004   \nKunsch,H.R.1989,AnSta,17,1217   \nLiu, Y. D., Luhmann, J. G.,Kajdic,P., et al. 2014,NatCo,5, 3481   \nLove,J. 2012,GeoRL,39,L10301   \nMcCracken,K.G.,Dreschhoff,G.A.M.,Smart,D.F.,& Shea,M.A.2001, JGR，106,2159921609   \nMcCracken,K.G.,Dreschhoff,G.A.M.,Smart,D.F.,& Shea,M.A.2004, SoPh, 224, 359   \nNgwira, C., Pulkkinen,A., Mays,L., et al. 2013, SpWea,11, 671   \nOwens，M.J.，Schwadron，N.A.，Crooker，N.U.，Hughes，W.J.，& Spence,H.E. 2007,GeoRL,36,L06104   \nParker, E. N.1955,ApJ,122,293   \nPulkkinen,A.,Lindahl, S.,Pirjola,R.,&Riley,P.2005,SpWea,3,S08C03   \nRichardson,I.G.,& Cane,H.V.2012,JSWSC,2,A01   \nRiley,P. 2012, SpWea,10, S02012   \nRussell, C.T.,Mewaldt,R.A.,Luhmann,J.G.,et al.2013,ApJ, 770,38   \nRuzmaikin,A.,&Feynman,J.2001,JGR,106,15783   \nSchrijver, C.J. 2009,ApJ, 655,117   \nStamper,R.,Lockwood,M.,Wild,M.N.,& Clark,T.D.G.1999,JGR,104, 28325   \nSteinhilber,F.,Abreu, J.A.,Beer,J., etal. 2012,PNAS,109,5967   \nTanskanen,E.J.2009,JGR，114,A05204   \nTsurutani, B.T.,& Gonzalez,W.D.1987,P&SS,35,405   \nTsurutani,B.T.,Gonzalez,W.T.,Lakhina,G.S.,& Alex,S.2OO7,JGR,112, A01205   \nVeltri,P.,Nigro,G.,Malara,F., Carbone,V.,& Mangeney,A.20o5,NPGeo, 12, 245   \nXie,H.,Gopalswamy,N.,Manoharan,P.K.,et al.2005,JGR,111,A01103   \nYermolaev,Y.I.,Lodkina,I.G.,Nikolaeva,N.S.,& Yermolaev,M.Y.2013, JGR,118,4760   \nYermolaev,Y.I.,Nikolaeva,N.S.,Lodkina,I.G.,& Yermolaev,M.Y.2012, JGR,117,A00L07   \nZhang,J.,Richardson,I.G.,Webb,D.F., et al. 2007,JGR,112,A10102 ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,463 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生长停滞特异性转录本5在乳腺癌中低表达并抑制上皮细胞-间充质转化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "丁勇兴'，段克才'，陈素莲²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1蚌埠市第三人民医院普外肿瘤科,蚌埠医学院临床检验诊断学实验中心,安徽 蚌埠 233000摘要：目的 探讨生长停滞特异性转录本5(IncRNA-GAS5)在乳腺癌中发展和上皮细胞-间充质转化(EMT)过程中的影响。方法采用实时定量聚合酶链反应法检测乳腺癌组织和癌旁组织（ $\\scriptstyle { \\overbrace { n = 3 6 } }$ 、乳腺癌MCF-7亲本和耐药细胞中IncRNA-GAS5的表达,并分析GAS5表达与乳腺癌临床分期和淋巴结转移相关性;qRT-PCR法、Westemblot和免疫组化法检测细胞周期和EMT相关蛋白的表达;迁移、趋化和黏附分离实验检测细胞生物学活性;通过光学显微镜观察细胞的形态学变化;以耐药细胞株构建裸鼠乳腺癌模型，体内探讨过表达GAS5对紫杉醇抗乳腺癌作用的影响。结果LncRNAGAS5转录本水平相对于癌旁组织是显著降低的 $( P { < } 0 . 0 5 )$ ,GAS5低表达与乳腺癌TNM分期和淋巴结转移相关( $_ { ( P < 0 . 0 5 ) }$ ;耐药细胞株中GAS5表达下调 $( P { < } 0 . 0 5 )$ ，GAS5与P21表达正相关，而与CDK6表达呈负相关;体外干扰GAS5促进乳腺癌亲本细胞株发生EMT表型改变和侵袭能力增加，而过表达IncRNAGAS5可抑制乳腺癌耐药细胞株EMT表型和侵袭能力 $_ { ( P < 0 . 0 5 ) }$ ,并提高紫杉醇的药物敏感性。体内实验发现,过表达GAS5通过逆转EMT标志蛋白，提高紫杉醇抑制肿瘤生长和肺转移的作用。结论LncRNAGAS5低表达可能通过诱导EMT促进乳腺癌的肺转移，可能是乳腺癌的一个潜在治疗靶点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：长链非编码RNA;生长停滞特异性转录本5;乳腺癌;上皮细胞-间充质转化",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Low expression of lncRNA-GAS5 promotes epithelial-mesenchymal transition of breast cancer cells in vitro ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DING Yongxing1,DUAN Kecai’,CHEN Sulian   \nDepartmentofcde'alalteoc   \nDiagnosis,Bengbu Medical College,Bengbu 23300o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate the role of long non-coding RNA growth arest-specific transcript 5 (lncRNA-GAS5) in breastcancer progressionand epithelial-mesenchymal transition (EMT)ofthecancercels.Methods Real-timequantitative PCR (qRT-PCR) wasused todetect the expresionof IncRNA-GAS5in 37 pairsof breast cancer and adjacentnon-tumor tissues andin parentalMCF-7cellsand paclitaxe-resistantMCF-7 (MCF-7/PR)cels,andthecorrelatinof IncRNA-GAS expion withthe clinical stage andlymphnode metastasis of breastcancer was investigated.The expressons of the genes related with cell cycle and EMT at both the mRNA and protein levels were detected using qRT-PCR，Western bloting and immunohistochemistry.Thechangesin the biological behaviorsand morphologyof breastcancercelswith either IncRNA-GAS5 knockdown or overexpresion were observed. Nude mouse models were established bearing breast cancer xenograftsderived from MCF-7/PRcellsor MCF-7/PR celsover-expressng ncRNA-GAS5，and the inhibitoryfectof paclitaxel on tumor growth was evaluated. Results The transcriptional levels of IncRNA-GAS5 were significantly lower in breast cancer tissues than in the adjacent non-tumor tissues $( P { < } 0 . 0 5 ) .$ ，and decreased lncRNA-GAS5 expression was significantly correlated with TNM stage and lymph node metastasis of breast cancer $( P { < } 0 . 0 5 )$ . lncRNA-GAS5 expression was alsosignificantlylowered inpaclitaxel-resistantbreastcancercelsandshowedapositivecorrelationwithP21expressionnd a negative corelation with CDK6.MCF-7 cellsduring EMT presented with alowered expression of IncRNA-GA, whereas IncRNA-GAS5over-expresionstronglysuppresd MCF-7/PRcellmigrationand invasion,andincreasedthesusceptibilityof thecels to paclitaxel.Inthetumor-bearing nudemouse models,IncRNA-GAS5overexpresioninthetumorcelsobviously enhanced the inhibitory efect of paclitaxel on tumor growth and lung metastasis by reversing the EMT marker proteins. Conclusion A decreased expresion of lncRNA-GAS5 promotes lung metastasis of breast cancer by inducing EMT,suggesting the potential of lncRNA-GAS5 as a therapeutic target in breast cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: long non-coding RNA; growth arrest-specific transcript5;breast cancer; epithelial-mesenchymal ransition ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乳腺癌是女性中发病率最高的肿瘤，导致死亡的主要原因是转移和化疗的耐药性[1。紫杉醇是治疗转移性乳腺一线化疗药物，耐药是导致乳腺癌化疗失败的巨大障碍。上皮细胞-间充质转化(EMT)通过获得性凋亡抵抗而导致化疗耐受，使肿瘤细胞更具侵袭性。探讨",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EMT诱导的内在调控机制，对有效辅助临床化疗具有重要的科学价值。长链非编码RNA(lncRNA)是一类转录本长度超过 $2 0 0 ~ \\mathrm { { n t } }$ 的非编码RNA分子，大量差异表达的lncRNAs与癌症相关蛋白编码基因关联[2],从而在肿瘤发生和进展中发挥重要的作用[3]。生长停滞特异性转录本5(lncRNA-GAS5)通过靶向YBX1/p21途径抑制胃癌的发展4，下调GAS5可诱导EMT标志物促进非小细胞肺癌的转移[5]，过表达GAS5可负调控EMT标志物Vimentin的表达而诱导肝癌细胞凋亡[。在乳腺癌中，GAS5表达下调，血清GAS5与增殖指数Ki67及术后淋巴结转移状态呈反比8,但对乳腺癌细胞EMT的影响目前尚无相关研究。本研究在探讨GAS5与乳腺癌患者临床病理关联性的基础上，旨在阐明GAS5与乳腺癌细胞EMT诱导的相关性，并确定其对紫杉醇化疗敏感性的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 临床资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集蚌埠医学院第一附属医院 $2 0 0 3 { \\sim } 2 0 0 7$ 年乳腺癌及其癌旁新鲜组织36例(其中TNM分期 $\\mathbf { I } \\sim \\mathbb { I } 2 3$ 例，$\\mathbb { I } { \\sim } \\mathbb { V }$ 期13例,病理类型均为浸润性癌),液氮保存。术后病理确诊为乳腺癌，术前均未行放疗或化疗。所有病例均有完整的临床及病理资料。36例患者中年龄 ${ \\leqslant } 4 5$ 岁者14例， ${ > } 4 5$ 岁22例，年龄为 $4 9 . 1 7 { \\scriptstyle \\pm 8 . 0 5 }$ 岁；患者术前无长期服用非甾体类抗炎药物史，且手术前、手术中均未曾进行过放化疗及内分泌治疗等，无其他同时存在恶性肿瘤。于术中取下组织标本后迅速放于装有RNAlater的 $2 ~ \\mathrm { m L }$ 无酶(RNase-free)冻存管中，置于液氮灌中低温保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人乳腺癌细胞株MCF-7和SKBR-3购自中国科学院细胞研究所，紫杉醇耐药细胞株MCF-7/PR和SKBR-3/PR由本室构建并保存;DMEM培养基和G418购自Gibco;胎牛血清购自Hlyclone;逆转录试剂盒购自美国Fermentas;Lipofectamine 2ooo和TRIzol试剂购自Invitrogen;兔抗人P21抗体购自CST,CDK6抗体购自Proteintech,E-cadherin和Vimentin抗体购自Abcam,β-actin抗体购自美国SantaCruz;辣根过氧化物酶(HRP)标记山羊抗兔IgG购自北京中杉金桥生物公司；兔抗小鼠PCNA一抗和TUNEL细胞凋亡检测试剂盒购自武汉博士德公司；LncRNAGAS5过表达载体购自上海吉玛制药技术有限公司;MCF-7干扰lncRNAGAS5细胞株由本项目组构建并筛选保存[6]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1总RNA提取和qRT-PCR检测目的基因表达组织样本和细胞总RNA提取采用Trizol法，并进行逆转录反应，所有操作按照试剂盒说明书进行;以GAPDH作为内参，根据荧光定量试剂盒说明书进行PCR反应。所用的引物序列见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/29a68d6d9a809c27d43bf7bcce7e23ee5cc8e9c089740f53284a48b331a634cc.jpg",
+        "table_caption": [
+            "表1引物序列 Tab.1 Primer sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Gene name</td><td>Forward</td><td>Reverse</td></tr><tr><td>GAS5</td><td>CTTGCCTGGACCAGCTTAAT</td><td>CAAGCCGACTCTCCATACCT</td></tr><tr><td>P21</td><td>ATTCAGCATTGTGGGAGGAG</td><td>TGGACTGTTTTCTCTCGGCT</td></tr><tr><td>CDK6</td><td>CCCACTGAAACCATAAAGGA</td><td>ACCACAGCGTGACGACCA</td></tr><tr><td>E-cadherin</td><td>GAAGTGTCCGAGGACTTTGG</td><td>CAGTGTCTCTCCAAATCCGATA</td></tr><tr><td>Vimentin</td><td>TGTCCAAATCGATGTGGATGTTTC</td><td>TTGTACCATTCTTCTGCCTCCTG</td></tr><tr><td>GAPDH</td><td>CAGCCTCAAGATCATCAGCA</td><td>TATGGTCATGAGTCCTTCCA</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2乳腺癌细胞培养人乳腺癌细胞株SKBR-3和MCF-7,及其耐药细胞株SKBR-3/PR和MCF-7/PR接种于含 $10 \\%$ 胎牛血清的DMEM高糖培养基中， $5 \\% \\mathrm { C O } _ { 2 }$ $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 细胞培养箱中培养。每2\\~3d传代1次，所有实验均采用对数生长期细胞。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.3lncRNAGAS5干扰片段和过表达载体的转染在MCF-7亲本细胞中转染GAS5干扰片段，在MCF-7耐药细胞株中转染GAS5过表达载体。取对数生长期细胞种于6孔板中，密度达到 $70 \\% { \\sim } 9 0 \\%$ 后转染，每孔转染体系为：GAS5干扰片段 $( 2 0 \\mu \\mathrm { m o l / L } ) 5 \\mu \\mathrm { L }$ （或含GAS5全基因的质粒 $4 \\mu \\ g \\backslash$ 稀释于 $2 5 0 ~ \\mu \\mathrm { L }$ 无血清培养基中，同时将 ${ 5 } { \\sim } 1 0 \\mu \\mathrm { L }$ Lipofectamine 20oo稀释于 $2 5 0 \\mu \\mathrm { L }$ 无血清培养基中，室温静置 $5 \\mathrm { m i n }$ 。将上述稀释的干扰片段或质粒与Lipofectamine200o混匀，室温静置 $2 0 ~ \\mathrm { { m i n } }$ 。将转染混合物缓慢加入含无血清培养基 $1 . 5 ~ \\mathrm { m L }$ 的6孔板中，6h后换成含 $10 \\%$ 胎牛血清的完全培养基。转染GAS5质粒的细胞按照 $8 0 0 ~ \\mathrm { \\mu g / m L }$ 的G418浓度进行筛选，观察细胞的死亡情况，挑选单克隆细胞继续扩大培养。1.3.4细胞的黏附分离实验分别取对数生长期细胞，调整细胞密度为 $4 { \\times } 1 0 ^ { 4 } / \\mathrm { m L }$ ，加入24孔板， $, 3 7 \\ \\mathrm { ^ { \\circ } C } , 5 \\% \\mathrm { C O } _ { 2 }$ 条件下培养。黏附实验中，1h后胰酶消化，重悬后计数全部贴壁细胞数，细胞黏附率=[全部贴壁细胞数/( $( 4 \\times$ $1 0 ^ { 4 } ) ] { \\times } 1 0 0 \\%$ 。分离实验中，24h后，吸出各孔中培养基，$0 . 0 2 5 \\%$ 的胰蛋白酶消化细胞， $2 { \\sim } 3 ~ \\mathrm { m i n }$ 后加人培养基终止消化，计数消化下来的细胞数目；随后，以 $0 . 2 5 \\%$ 的胰蛋白酶消化剩下的细胞，并计数。细胞分离率 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ $[ 0 . 0 2 5 \\%$ 的胰酶消化下来的细胞数/( $0 . 0 2 5 \\%$ 胰酶消化下来的细胞数 $+ 0 . 2 5 \\%$ 胰酶消化的细胞数） $1 \\times 1 0 0 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5磺酰罗丹明B(SRB)法检测耐药细胞对紫杉醇的药物敏感取对数生长期MCF-7/PR细胞,接种于96孔板中，分组为空白对照组和lncRNAGAS5过表达组，每组加入不同浓度的紫杉醇。 $4 8 \\mathrm { ~ h ~ }$ 后终止培养,弃培养液，$10 \\%$ 三氯乙酸(TCA)固定 $5 0 \\ \\mathrm { m i n } , 0 . 4 \\%$ SRB染液染色$3 0 \\mathrm { m i n }$ 后， $1 \\%$ 乙酸溶液洗涤、晾干，以 $1 0 \\mathrm { m m o l / L }$ Trisbase充分溶解SRB，酶标仪检测 $\\mathbf { A } _ { 5 1 5 }$ 值。具体操作同[]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.6划痕实验检测耐药细胞的迁移能力分组同上，胰酶消化对数生长期MCF-7/PR细胞，离心将细胞制成单细胞悬液种于6孔板中，当细胞生长达到 $80 \\%$ 左右时，用 $1 0 \\mu \\mathrm { L }$ 无菌枪头划出一道伤口，注意各组伤口宽度保持基本一致，分别于培养 $0 . 4 8 \\mathrm { h }$ 在低倍镜下测量各组细胞伤口的宽度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.7Transwell实验检测耐药细胞的侵袭能力胰酶消化MCF-7/PR细胞，以无血清培养基调整到相同的细胞密度,分组同上。上室中加入 $1 0 0 \\mu \\mathrm { L }$ 细胞悬液，下室加入含 $10 \\%$ 胎牛血清的DMEM培养基，培养 $2 4 \\mathrm { h }$ 后，取出Transwell小室， $4 \\%$ 多聚甲醇固定，吉姆萨染色，高倍镜下观察穿过的细胞数目并拍照，具体操作同[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.8 荷乳腺癌裸鼠动物模型的建立 雌性裸鼠9只， $4 \\sim$ 6周龄，体质量 $2 0 { \\pm } 2 \\ \\mathrm { g }$ ，购自上海斯莱克实验动物责任有限公司，小鼠饲养于蚌埠医学院实验动物中心无菌室。分为3组：MCF-7/RP肿瘤组(分别以生理盐水作为空白对照组和以紫杉醇处理的阳性对照组）、过表达lncRNAGAS5MCF-7/PR组(紫杉醇处理)。每组细胞$1 0 0 \\mu \\mathrm { L }$ 0 $\\left. 5 \\times 1 0 ^ { 6 } \\right.$ 沿着小鼠右侧第2乳垫下接种。当移植瘤体积达约 $2 0 \\ \\mathrm { m m } { \\times } 2 0 \\ \\mathrm { m m } { \\times } 2 0 \\ \\mathrm { m m }$ 左右时，开始注射生理盐水和紫杉醇(Paclitaxel,PTX),其中PTX( $\\mathrm { \\langle 3 0 m g / k g \\rangle }$ 腹腔内注射，每周2次。4周后，小鼠断颈处死，肿瘤组织和肺组织分别进行后续免疫组化分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.9标本处理完整剥取乳腺癌肿瘤组织，并测瘤重。肿瘤组织浸泡于中性福尔马林固定;每组取2只小鼠肺脏置Bouin液(饱和苦味酸 $7 5 \\mathrm { \\ m L } + 4 \\%$ 多聚甲醛 $2 5 ~ \\mathrm { m L ^ { + } }$ 冰醋酸 $5 ~ \\mathrm { m L }$ 固定， $2 4 \\mathrm { h }$ 后用 $7 5 \\%$ 乙醇浸泡脱色，肉眼观察肺表面结节，另1只小鼠肺组织浸泡于 $10 \\%$ 中性福尔马林中固定行HE染色。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.10HE染色观察肺转移情况所有肿瘤组织和每组  \n1只肺组织石蜡包埋， $4 \\mu \\mathrm { m }$ 连续切片，常规二甲苯和酒",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精梯度脱水，苏木素染色， $1 \\%$ 盐酸酒精分化，温水蓝化，伊红复染,脱水、透明、中性树胶封片，具体实验步骤见[10]1.3.11免疫组化检测肿瘤增殖细胞核抗原(PCNA）、周期蛋白和EMT标志蛋白表达采用免疫组化法检测PCNA、周期蛋白(P21和CKD6)和EMT标志蛋白(E-cadherin和Vimentin)的表达，具体操作步骤见[10]DAB显色，以棕黄色为阳性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.12TUNEL法检测小鼠肿瘤组织细胞的凋亡 通过原位末端转移酶标记技术(即TUNEL法)对肿瘤组织细胞凋亡检测，应用武汉博士德生物工程有限公司的细胞凋亡检测试剂盒进行，按试剂盒说明书进行，具体步骤见[10]。BCIP/NBT显色,核固红复染,细胞核中有紫蓝色颗粒者为阳性细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.13统计学方法所有实验数据以均数 $\\cdot \\pm \\cdot$ 标准差表示，利用SPSS17.0软件进行单因素方差分析和两两比较分析， $P { < } 0 . 0 5$ 为差别有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1lncRNAGAS5在乳腺癌中表达下调 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前期研究发现，GAS5表达与乳腺癌细胞增殖迁移活性密切相关，参与乳腺癌细胞增殖和迁移抑制。因此，本研究检测了36份乳腺癌患者癌组织和癌旁组织中GAS5的表达(图1A)，如图1B和C所示，相对于癌旁组织，GAS5在乳腺癌组织中表达下调（ $( P { < } 0 . 0 5 )$ ，并与淋巴结转移和肿瘤分期成负相关(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2耐药细胞株中lncRNAGAS5表达下调 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用qRT-PCR技术分析发现，相对于亲本细胞株MCF-7和SKBR-3,耐药细胞株MCF-7/PR、SKBR-3/PR中GAS5的表达降低( $\\scriptstyle \\overbrace { P { < } 0 . 0 5 }$ ，图3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3pcDNA-GAS5明显上调lncRNAGAS5在MCF-7细胞中的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了评估GAS5在人乳腺癌耐药诱导中的角色，在耐药细胞MCF-7/PR中过表达GAS5,具体操作同]。pcDNA-GAS5载体被转入到MCF-7/PR细胞中,相对于空载体对照组，pcDNA-GAS5载体转染组GAS5的表达量升高 $( P { < } 0 . 0 5 )$ ,并以pcDNA-GAS5-2升高较明显(图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4LncRNAGAS5抑制细胞的黏附分离活性 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黏附和分离实验显示，亲本细胞中下调GAS5的表达后黏附和分离活性上调 $_ { ( P < 0 . 0 1 ) }$ ，耐药细胞MCF-7/PR中过表达GAS5后细胞的黏附分离活性降低( $\\scriptstyle { \\overbrace { P { < } 0 . 0 5 } }$ 图5)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5LncRNAGAS5对细胞形态的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "亲本细胞中下调GAS5的表达和在耐药细胞MCF-7/PR中过表达GAS5后，光镜下观察细胞形态，可见下调GAS5表达后的亲本细胞MCF-7由原来抱团生长的",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a584ece1e4cc4b3a24d5f3e3d880e041fed5fe81ef0031763811ec3b92a91241.jpg",
+        "img_caption": [
+            "图1LncRNAGAS5在乳腺癌和癌旁组织的表达情况 Fig.1 Expression of IncRNA GAS5 in breast cancer and adjacent normal tissues.A: Results from qRT-PCR showing the relative expressions of GAS5 in breast cancer tissues $( n { = } 3 6 )$ ; B: -△CT analysis from qRT-PCR in breast cancer tissues compared with paired non-tumor tissues; $c$ Data are presented as RQ value for B. NCT: Normal adjacent tissue; BRCR: Breast cancer. $^ { * * * } P { < } 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/498ee72a7c957bc1c0fc22f1a0e33ccf74a7bc956993117a2733dd5c202815f8.jpg",
+        "img_caption": [
+            "图2lncRNAGAS5在乳腺癌中表达下调与转移和分期相关 Fig.2 lncRNA GAS5 expression is associated with clinical stage and lymph node metastasis of breast cancer. A: Expression of GAS5 is significantly lower in breast cancer in advanced pathological stages (TNM II/IVus TNMI/ II); B: Expression of GAS5 is significantly lower in breastcancer with metastasis to more than 3 lymph nodes. $^ { \\# } P <$ 0.05, $^ { \\triangle } P { < } 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "圆形伸出伪足，变为长梭形，而上调GAS5表达后的耐药细胞由原来伸出伪足的瘦长梭形间质细胞表型转变为浑圆的上皮样细胞表型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于对照组，耐药细胞MCF-7/PR的CDK6和Vimentin的表达均降低，而P21和E-cadherin的表达升高 $\\scriptstyle \\left( P < 0 . 0 5 \\right.$ 图6。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6LncRNAGAS5调控EMT相关基因的表达 2.7LncRNAGAS5逆转MCF-7/PR的生物学活性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图4分组，亲本细胞MCF-7中下调GAS5的表达后，周期蛋白P21表达抑制，而CDK6表达上调，EMT相关蛋白E-cadherin表达下调,Vimentin表达上调 $( P { < } 0 . 0 5 )$ 反之，在耐药细胞MCF-7/PR中过表达GAS5后，相对",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步分析GAS5在耐药细胞中的生物学作用，耐药细胞过表达GAS5后检测了其侵袭和药物敏感性。结果发现，相对于未转染组，过表达GAS5后，MCF-7/PR细胞的侵袭能力下降，并提高了对紫杉醇的",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab5780ade5ad3a8057cb1de71e7f0f00ce92fe440ad9e25418496578b39e364f.jpg",
+        "img_caption": [
+            "图3耐药细胞中lncRNAGAS5表达下调 Fig.3 Downregulation of lncRNA GAS5 in paclitaxel-resistant breast cancer cells. $^ { * } P { < } 0 . 0 5$ PR vs Parental cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/91f7f49566acfa74e5dd6acedb7b5917273b12f60e441d3af03830cb0b918c97.jpg",
+        "img_caption": [
+            "图4过表达lncRNAGAS5的人乳腺癌耐药细胞株 MCF-7/PR的构建 Fig.4 Construction of MCF-7/PR cells overexpressing IncRNA GAS5. $^ { * } P { < } 0 . 0 5$ Us Control Group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "药物敏感性(图7)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8LncRNAGAS5体内实验证实提高紫杉醇的药物敏感性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8.1LncRNAGAS5抑制裸鼠乳腺原发肿瘤的生长为进一步证实GAS5逆转耐药，提高药物敏感性的作用，本研究以未过表达和过表达GAS5的MCF-7/PR细胞为研究对象，构建了裸鼠的乳腺癌模型。发现当未过表达GAS5时，相对于生理盐水对照组，紫杉醇抑制肿瘤生长的作用不明显，而过表达GAS5后，可显著提高紫杉醇抑制肿瘤生长的作用( $\\scriptstyle \\overbrace { P { < } 0 . 0 5 }$ ，图8)。增殖核抗原(PCNA)免疫组化和TdT(脱氧核糖核苷酸末端转移酶)介导dUTP缺口末端标记法(TUNEL法)检测肿瘤细胞增殖凋亡能力，发现未过表达GAS5时，相对于生理盐水对照组，紫杉醇不能诱导凋亡，而过表达GAS5后，紫杉醇可诱导调亡并抑制增殖。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8.2LncRNAGAS5抑制裸鼠乳腺癌肺转移的效应各组小鼠肺组织置于Bouin液中固定 $2 4 \\mathrm { h }$ ，脱色后观察肺组织表面的转移结节，并利用HE染色镜下观察肺转移灶。结果发现，未过表达GAS5时，相对于生理盐水对照组，紫杉醇不能抑制肺转移结节的形成，镜下可见范围广的转移性肺癌瘤灶，而过表达GAS5后，相对于未过表达组，紫杉醇明显抑制肺表面结节的形成,肺组织HE染色显微镜下可见转移性肺癌瘤灶数量少，范围小,有正常的肺泡结构(图9)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.8.3LncRNAGAS5逆转EMT标志物利用免疫组化法检测裸鼠乳腺癌肿瘤组织中E-cadhein和Vimentin的表达水平。结果显示，相对于未过表达GAS5的生理盐水对照组，紫杉醇不能诱导E-cadherin的表达，抑制Vimentin的表达;过表达GAS5后，相对于未过表达的紫杉醇处理组组，紫杉醇上调E-cadherin表达，而抑制Vimentin的表达(图10)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近期研究发现，lncRNAs在肿瘤转移，包括EMT形成中发挥重要的作用。Reiche利用乳腺癌临床标本筛查，发现大量差异表达的IncRNAs与癌症相关蛋白编码基因关联[1]。胃癌中某些lncRNA表达与TNM分期相关,在早期癌症及其癌前病变中表达失调，可能是一种潜在的早期胃癌的诊断标志物[12]。LncRNAH19通过结合转录因子eIF4A3促进结直肠癌的生长[13],LncRNAMALAT1通过结合SFPQ促进结直肠的生长和转移[14]，可作为预后不良的标志。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生长停滞特异性转录本5(LncRNAGAS5)是生长抑制因子，在乳腺癌、肾癌、膀胱癌、前例腺癌等发现lncRNA GAS5表达下调[15-16]。GAS5与糖皮质激素受体的反应元素(GRE)结构相似，与GRE竞争性的结合糖皮质激素受体，或抑制GRE下游基因，如凋亡调控因子cIAP2的表达而诱导凋亡[17-18]。本研究利用临床病例分析发现相对于癌旁组织，GAS5在乳腺癌组织中表达下调。并与淋巴结转移和肿瘤分期相关，表明IncRNAGAS5可能参与乳腺癌生长和侵袭转移的调控。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3447252d0b91b6f63322321d1c603528f7d89217514782f19ee2764ded2c510b.jpg",
+        "img_caption": [
+            "图5LncRNAGAS5抑制细胞的黏附分离能力 Fig.5 LncRNA GAS5 suppresses attachment and detachment of MCF-7 and MCF-7/PR cels.A: Atachment in parent cells with si-GAS5 and in PR cells with pcDNA-GAS5; B: Detachmentin parent cells with si-GAS5 and in PR cells with pcDNA-GAS5. $^ { \\# } P { < } 0 . 0 5$ Us Control respectively; $^ { * } P { < } 0 . 0 5$ us Control respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/820833ac4729bd7c35eeda946044c5321b6e4c567e49ebcbaf74b5735c9cc69b.jpg",
+        "img_caption": [
+            "图6LncRNAGAS5调控细胞EMT相关指标的基因表达 Fig.6 IncRNA GAS5 regulates the expresion of EMT markers in breast cancer cels.A: Western blot for (B)and (C).B:qRT-PCR analysis of the mRNA levels of EMT markers in MCF-7cels transfected with si-GAS5; C: qRT-PCR analysis of the mRNA levels of EMT markers in MCF-7/PR cels transfected with pcDNA-GAS5. $^ { * } P { < } 0 . 0 5$ Us control with si-GAS5. $^ { \\# } P { < } 0 . 0 5$ Us control with pcDNA-GAS5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "紫杉醇耐药是限制其临床应用的一个主要原因。耐药细胞在形态上发生EMT，侵袭、转移能力增强，是癌症转移早期阶段的一个关键步骤，但胞内的信号机制仍不清楚。近年来研究发现,LncRNAs与EMT有着密切的关联，下调lncRNAHOTAIR表达可阻断TGF- $_ { \\cdot \\mathrm { \\{ \\beta 1 } } $ 诱导的EMT[19]。lncRNABANCR通过调控E-cadherin和Vimentin的表达在EMT形成中发挥关键角色[20。在乳腺癌细胞EMT调控、侵袭和生长中，Notch信号通路通过诱导 Slug表达发挥关键作用[21-22],而Notch-1又可通过靶向调控GAS5刺激细胞增殖[23]，表明GAS5可能在Notch诱导EMT中发挥一定的作用。LncRNA-GAS5四号外显子能与miR-21结合抑制乳腺癌细胞的发生发展[24]。研究发现曲妥珠单抗耐药细胞株和其治疗的乳腺癌组织中GAS5表达下调，GAS5敲除可部分逆转拉帕替尼诱导的耐药细胞增殖抑制，也证实了GAS5是作为miR-21的海绵抑制其作用而发挥抑制癌细胞增殖效应的[25]。而赵遵兰等[26]证实miR-21在紫杉醇耐药细胞中表达上调，并调控耐药形成，表明GAS5可能与紫杉醇耐药及EMT形成存在关联性。本研究证实了GAS5在耐药细胞中表达下调，干扰GAS5表达使细胞的黏附和分离活性上调，乳腺癌亲本细胞株发生EMT的表型特征，EMT相关蛋白E-cadherin表达下调，Vimentin表达上调；而过表达后，耐药细胞的黏附和分离活性降低，耐药细胞由间质细胞表型逆转为亲本细胞形态，E-cadherin表达上调，Vimentin表达抑制。因此，GAS5表达与EMT诱导存在负相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dc4b6a4bf0e65fd5e07fbd5cbceadad945ac252b0081efbf0f9ae01a2c74f8d.jpg",
+        "img_caption": [
+            "图7LncRNAGAS5对MCF-7/PR细胞生物学活性的影响 Fig.7Effect of IncRNA GAS5 over-expression on biological activity of MCF-7/PR cells. A:Migration assay $( \\times 1 0 0 )$ B:Invasion array $( \\times 2 0 0 )$ ;C:SRB assay to determine the proliferation inhibition effect of paclitaxel. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究证实下调GAS5的表达，细胞周期蛋白依赖性激酶抑制剂P21表达抑制，其下游CDK6表达上调。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9dcf07036845876f7b161aac21ca360125884afbd7dacdaa029913a8753ff5bd.jpg",
+        "img_caption": [
+            "图8过表达IncRNAGAS5提高紫杉醇抑制裸鼠乳腺原发肿瘤生长的敏感性"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c864246fc2cbeed7ef9b767972e62aa9ac728558ebb4f42a025489d9460aee07.jpg",
+        "img_caption": [
+            "Fig.8 Effect of PTX on tumor weight in SCID mice with MCF-7/PR cels aftertransfection with pcDNA-GAS5.A, B: Tumor size monitored every 3 days; C: Average tumor wet weight. $^ { \\# } P { < } 0 . 0 5$ PTX group in MCF-7/PR cells after transfection with pcDNA-GAS5 vs PTX group in MCF-7/PR cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f52e1985465b5c334fc8469454688b43850fd91afbb347ecfe0d97b42c86e5a3.jpg",
+        "img_caption": [
+            "图9LncRNAGAS5抑制提高裸鼠肺表面转移结节形成 Fig.9 Lung metastatic tumor nodules inhibited inlung surface of SCID mice after transfection with pcDNA-GAS5. ",
+            "图10LncRNAGAS5逆转裸鼠肿瘤组织MET标志蛋白表达Fig.10 lncRNA GAS5 reversed the expression of EMT markersin SCID mice (Immunostaining, $\\times 4 0 0$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "反之，在耐药细胞MCF-7/PR中过表达lncRNAGAS5后，P21表达升高，而CDK6表达抑制，并可抑制耐药细胞的侵袭能力下降，提高了对紫杉醇的药物敏感性。为进一步明确GAS5对紫杉醇药物敏感性影响，建立了裸鼠EMT模型，以未过表达GAS5的耐药细胞株种瘤，紫杉醇不能抑制肿瘤的生长和肺转移，而以过表达GAS5的耐药细胞株肿瘤，提高了紫杉醇抑制增殖，促进凋亡的作用，并逆转了EMT标志蛋白的表达，从而抑制肿瘤生长和肺转移的敏感性增强。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总之，GAS5下调通过诱导EMT促进乳腺癌的肺转移，在耐药细胞中过表达GAS5可提高紫杉醇的药物敏感性，通过抑制增殖和促进凋亡，逆转EMT,从而抑制肿瘤的生长和肺转移，因此，lncRNAGAS5可作为乳腺癌EMT形成和转移判断的潜在标志物。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Gonzalez-Angulo AM，Morales-Vasquez F,Hortobagyi GN. Overview of resistance to systemic therapy in patients with breast cancer[J].Adv Exp Med Biol,2007,608(4): 1-22.   \n[2] Yang X, Xie X, Xiao YF,et al. The emergence of long non-coding RNAs in the tumorigenesis of hepatocellular carcinoma[J].Cancer Lett, 2015,360(2): 119-24.   \n[3］ Chen LL, Zhao JC.Functional analysis of long noncoding RNAs in development and disease[J].Adv Exp Med Biol,2014,825(6): 129- 58.   \n[4]Liu YC, Zhao J, Zhang WH,et al. lncRNA GAS(5) enhances G1 cell cycle arrest via binding to YBX1 to regulate p21 expression in stomach cancer[J]. Sci Rep,2015,5(3):10159-71.   \n[5]Wu Y,Lyu H, Liu HB,et al. Downregulation of the long noncoding RNA GAS5-AS1 contributes to tumor metastasis in non-small cell lung cancer[J].Sci Rep,2016,6(2): 31093-106.   \n[6] Chang L,Li CC,Lan T,et al. Decreased expression of long noncoding RNA GAS5 indicates a poor prognosis and promotes cell proliferation and invasion in hepatocellular carcinoma by regulating vimentin[J].Mol Med Rep,2016,13(2): 1541-50.   \n[7]Mourtada-Maarabouni M, Pickard MR,Hedge VL,et al. GAS5,a non-protein-coding RNA,controls apoptosis and is downregulated in breast cancer[J].Oncogene,2009,28(2): 195-208.   \n[8]Han L,Ma P,Liu SM,et al. Circulating long noncoding RNA GAS5 as a potential biomarker in breast cancer for assessing the surgical effects[J]. Tumor Biolo,2016,37(5): 6847-54.   \n[9]吴海华,李 钰,张凌宇,等.长链非编码RNAGAS5对人乳腺癌 细胞株增殖和侵袭能力的影响[J].蚌埠医学院学报,2016,41 (7): 849-53.   \n[10]Yang QL,Zhang F,Ding YQ,et al. Antitumor activity of the recombination polypeptide GST-NT21MP is mediated by inhibition of CXCR4 pathway in breast cancer[J].Br JCancer,2014,110 (11): 1288-97.   \n[11]Reiche K, Kasack K, Schreiber S,et al. Long non-coding RNAs differentially expressed between normal versus primary breast tumor tissues disclose converse changes to breast cancer-related protein-coding genes[J].PLoS One,2014, 9(9): e106076-91.   \n[12]Song HJ, Sun WL, Ye GL,et al. Long non-coding RNA expression profile in human gastric Cancer and its clinical significances[J].J Transl Med,2013,11(1):225-35.   \n[13]Han D,Gao X,Wang M,et al. Long noncoding RNA H19 indicates a poor prognosis of colorectal Cancer and promotes tumor growth by recruiting and binding to eIF4A3[J]. Oncotarget，2016,7(16): 22159-73.   \n[14] Ji Q, Zhang L,Liu X,et al. Long non-coding RNA MALAT1 promotes tumour growth and metastasis in colorectal Cancer through binding to SFPQ and releasing oncogene PTBP2 from SFPQ/PTBP2 complex[J]. Br JCancer, 2014,111(4): 736-48.   \n[15]Lu X,Fang Y, Wang Z,et al. Downregulation of gas5 incrases pancreatic cancer cell proliferation by regulating CDK6[J].Cell Tissue Res,2013,354(3): 891-6.   \n[16]Pickard MR,Williams GT. Regulation of apoptosis by long noncoding RNA GAS5 in breast cancer cells:implications for chemotherapy[J].Breast Cancer Res Treat,2014,145(2): 359-70.   \n[17]Kino T,Hurt DE,Ichijo T, et al. Noncoding RNA gas5 is a growth arrest- and starvation-associated repressor of the glucocorticoid receptor[J]. Sci Signal,2010,3(17): ra8.   \n[18]Qiao HP, Gao WS,Huo JX, et al. Long non-coding RNA GAS5 functions as a tumor suppressor in renal cell carcinoma[J].Asian Pac JCancer Prev,2013,14(2): 1077-82.   \n[19]Padua Alves C,Fonseca AS,Muys BR,et al. Brief report: The lincRNA Hotair is required for epithelial-to-mesenchymal transition and stemness maintenance of cancer cell lines [J]. Stem Cells, 2013,31(12): 2827-32.   \n[20] Sun M,Liu XH,Wang KM,et al.Downregulation of BRAF activated non-coding RNA is associated with poor prognosis for non-small cell lung cancer and promotes metastasis by affecting epithelial-mesenchymal transition [J].Mol Cancer,2014,21(13): 68.   \n[21] Shao S, Zhao XA, Zhang XJ,et al. Notchl signaling regulates the epithelial-mesenchymal transition and invasion of breast cancer in a slug-dependent manner[J].Mol Cancer, 2015,14(1): 28-45.   \n[22] D'angelo RC, Ouzounova M,Davis A,et al. Notch reporter activity in breast Cancer cell lines identifies a subset of cells with stem cell activity[J].Mol Cancer Ther,2015,14(3): 779-87.   \n[23]Pei J,Wang BZ.Notch-1 promotes breast cancer cells proliferation by regulating LncRNA GAS5[J]. Int J Clin Exp Med, 2015,8(8): 14464-71.   \n[24] Zhang Z, Zhu Z,Watabe K,et al. Negative regulation of lncRNA GAS5 by miR-21[J].Cell Death Differ,2013,20(11): 1558-68.   \n[25]Li WT, Zhai LM, Wang H, et al. Downregulation of lncRNA GAS5 causes trastuzumab resistance in breast cancer ［J]. Oncotarget, 2016, 7(19): 27778-86.   \n[26]赵遵兰,蔡 颖,王洋洋,等.微小RNA-21对人乳腺癌细胞株紫 杉醇耐药性的影响及其机制[J].浙江大学学报:医学版,2015,48 (4): 400-9. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 8
+    }
+]

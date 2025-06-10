@@ -1,0 +1,398 @@
+[
+    {
+        "type": "text",
+        "text": "Higgs decay to dark matter in low energy SUSY: is it detectable at the LHC ? ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Junjie Caot,‡, Zhaoxia Heng†， Jin Min Yang $\\ S$ ， Jingya Zhu\\$   \n（204号 $^ \\dagger$ Physics Department, Henan Normal University, Xinxiang 453007, China   \n$\\ddag$ Center for High Energy Physics, Peking University, Beijing 100871， China $\\ S$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Academia Sinica， Beijing 10019o, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Due to the limited statistics so far accumulated in the Higgs boson search at the LHC, the Higgs boson property has not yet been tightly constrained and it is still allowed for the Higgs boson to decay invisibly to dark matter with a sizable branching ratio. In this work, we perform a comparative study for the Higgs decay to neutralino dark matter by considering three different low energy SUSY models: the minimal supersymmetric standard model (MSSM),the next-to-minimal supersymmetric standard models (NMSSM) and the nearly minimal supersymmetric standard model (nMSSM). Under current experimental constraints at $2 \\sigma$ level (including the muon $g - 2$ （20 and the dark matter relic density), we scan over the parameter space of each model. Then in the allowed parameter space we calculate the branching ratio of the SM-like Higgs decay to neutralino dark matter and examine its observability at the LHC by considering three production channels: the weak boson fusion $V V  h$ , the associated production with a Z-boson $p p  h Z + X$ or a pair of top quarks $p p  h t t + X$ . We find that in the MSSM such a decay is far below the detectable level; while in both the NMSSM and nMSSM the decay branching ratio can be large enough to be observable at the LHC.We conclude that at the LHC the interplay of detecting such an invisible decay and the visible di-photon decay may allow for a discrimination of diferent SUSY models. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a cornerstone of the standard model (SM) and also the last undiscovered piece, the Higgs boson has been intensively searched in collider experiments. The foregone colliders LEP II and Tevatron yielded null search results, setting a lower bound of 114.4 GeV on the Higgs mass [1] and excluding a Higgs boson with a mass around $2 M _ { W }$ [2],respectively. The ongoing Large Hadron Collider (LHC) took over the Higgs-hunting task and recently reported its search results. Based on an integrated luminosity of 4.9 $f b ^ { - 1 }$ collected at $\\sqrt { s } = 7 T e V$ , the two experimental groups at the LHC independently further narrowed down the Higgs mass region (at 95% C.L. the CMS collaboration excluded 127-600 GeV while the ATLAS collaboration excluded 112.9-115.5 GeV, 131-238 GeV and 251-466 GeV) and both hinted to a Higgs boson around 125 GeV [3]. Such a finding has stimulated some theoretical studies for a Higgs boson near 125 GeV in low energy supersymmetry [4] and other models [5]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Of course, if the LHC hint of a 125 GeV Higgs from the di-photon channel is confirmed in the future, it would severely constrain or exclude those new physics models in which some new exotic decay modes (such as decaying invisibly into dark matter) are open and the diphoton rate is suppressed. But so far the statistics at the LHC is too smallto confirm such a Higgs, let alone the precision measurement of the Higgs decay branching ratios. Therefore, experimentally it is still allowed for the Higgs boson to decay exotically, such as invisibly to dark matter, with a sizable branching ratio 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoretically, the Higgs decay to dark matter can indeed occur in some new physics models, such as the gauge singlet extensions of the SM [7], the SM with a heavy fourth generation [8],the large extra dimension model [9], the technicolor model [10], the spontaneously broken R-parity models [11] and the non-linearly realized supersymmetric model [12] and the MSSM with a singlet [13]. In this work, we perform a comparative study for the Higgs decay to neutralino dark matter in low energy SUSY by considering three different models: the minimal supersymmetric standard model (MSSM) [14-16], the next-to-minimal supersymmetric standard models (NMSSM) [17,18] and the nearly minimal supersymmetric standard model (nMSSM) [19-21]. As will be shown, in both the NMSSM and nMSSM, the SM-like Higgs boson can decay to neutralino dark matter with a sizable branching ratio. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In case that the Higgs boson decays to dark matter with a sizable branching ratio, detecting such a decay at the LHC will be important because in this case the conventional visible decays into $\\gamma \\gamma$ ， $b b$ ， $\\tau \\tau$ ， $W W ^ { ( * ) }$ and $Z Z ^ { ( * ) }$ are often suppressed. Obviously, the main production channel via gluon fusion $g g  h$ is not usable because it just gives missing energy. It was found through Monte Carlo simulations that the production via vector boson fusion (VBF) $p p  h q q ^ { \\prime }$ and the associated productions $p p  h Z$ and $p p  h t t$ can offer the opportunity to detect the Higgs decay to dark matter [22-26]. So in this work we choose these three production channels to display the observability of Higgs decay to dark matter in low energy SUSY. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note that although in the literature the Higgs decay to nutralino dark matter has been discussed in some specific model like MSSM, it is necessary to give a revisit in low energy SUSY for two reasons: (i) Different SUSY models usually give rather different phenomenology and it is interesting to perform a comparative study for different models; (ii) We want to know in the SUSY parameter space allowed by current experiments whether or not the Higgs decay to nutralino dark matter is detectable at the LHC. If in some model this decay is found to be accessible at the LHC,we further want to know how large the parameter space can be covered by searching for such an invisible decay at the LHC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work is organized as follows. In Sec. II, we briefly describe the three supersymmetric models. In Sec. III, through a scan over the parameter space we present the branching ratio of Higgs decay to neutralino dark matter and show the observability at the LHC. Finally, the conclusion is given in Sec. IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. THE SUSY MODELS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In a renormalizable supersymmetric field theory, the interactions and masses of all particles are determined by their gauge transformation properties and superpotential. The superpotential is a holomorphic function of chiral superfields $\\hat { \\Phi } _ { i } \\supset \\left( \\phi _ { i } , \\psi _ { i } , F _ { i } \\right)$ ，with $\\phi _ { i }$ ， $\\psi _ { i }$ （20 and $\\boldsymbol { F } _ { i }$ being respectively the bosonic, fermionic and auxiliary fields, and takes a form [15] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = L ^ { i } \\hat { \\Phi } _ { i } + \\frac { 1 } { 2 } M ^ { i j } \\hat { \\Phi } _ { i } \\hat { \\Phi } _ { j } + \\frac { 1 } { 6 } y ^ { i j k } \\hat { \\Phi } _ { i } \\hat { \\Phi } _ { j } \\hat { \\Phi } _ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the parameters $L _ { i }$ should be of dimension $[ m a s s ] ^ { 2 }$ and is only allowed if $\\hat { \\Phi } _ { i }$ is a gauge singlet. The mass matrix $M ^ { i j }$ can only be non-zero when the supermultiplets $\\hat { \\Phi } _ { i }$ and $\\hat { \\Phi } _ { j }$ are conjugates of each other under gauge transformation. And the massess coefficients $y ^ { i j k }$ can only be non-zero when $\\hat { \\Phi } _ { i } \\hat { \\Phi } _ { j } \\hat { \\Phi } _ { k }$ formed a gauge singlet. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MSSM is the most economized realization of supersymmetry in particle physics, which has two Higgs doublets $\\hat { H } _ { u }$ and $\\hat { H } _ { d }$ and its superpotential is given by [15] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW ^ { M S S M } = W _ { F } + \\mu \\hat { H } _ { u } \\cdot \\hat { H } _ { d } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $W _ { F }$ given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { F } = \\overline { { { u } } } Y _ { u } \\hat { Q } \\cdot \\widehat { H } _ { u } - \\overline { { { d } } } Y _ { d } \\hat { Q } \\cdot \\hat { H } _ { d } - \\overline { { { e } } } Y _ { e } \\hat { L } \\cdot \\hat { H } _ { d } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MSSM has the so-called $\\mu$ -problem,which can be solved in some extensions by introducing a Higgs singlet $\\hat { S }$ . Among these extensions the most popular ones are the NMSSM and nMSSM, whose superpotentials are [17, 19] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { W ^ { N M S S M } = W _ { F } + \\lambda \\hat { S } \\hat { H } _ { u } \\cdot \\hat { H } _ { d } + \\frac { \\kappa } { 3 } \\hat { S } ^ { 3 } ; } } \\\\ { { W ^ { n M S S M } = W _ { F } + \\lambda \\hat { S } \\hat { H } _ { u } \\cdot \\hat { H } _ { d } + \\xi _ { F } M _ { \\mathrm { n } } ^ { 2 } \\hat { S } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The scalar potential in the Lagrangian contains the so-called F-term, D-term and soft-term [27]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { S U S Y } = V _ { F } + V _ { D } + V _ { s o f t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V _ { F } = F ^ { * i } F _ { i } , F ^ { * i } = - W ^ { i } = - \\displaystyle \\frac { \\delta W } { \\delta \\hat { \\Phi } _ { i } } ; } } \\\\ { { V _ { D } = \\displaystyle \\frac { G ^ { 2 } } { 8 } ( | H _ { d } | ^ { 2 } - | H _ { u } | ^ { 2 } ) ^ { 2 } + \\displaystyle \\frac { g _ { 2 } ^ { 2 } } { 2 } ( | H _ { d } | ^ { 2 } | H _ { u } | ^ { 2 } - | H _ { u } \\cdot H _ { d } | ^ { 2 } ) ; } } \\\\ { { V _ { \\mathrm { s o f f } } ^ { M S S M } = \\displaystyle \\tilde { m } _ { \\mathrm { H } _ { u } } ^ { 2 } | H _ { u } | ^ { 2 } + \\displaystyle \\tilde { m } _ { \\mathrm { H } _ { \\mathrm { d } } } ^ { 2 } | H _ { d } | ^ { 2 } + ( B _ { \\mu } H _ { u } \\cdot H _ { d } + h . c . ) ; } } \\\\ { { V _ { \\mathrm { s o f f } } ^ { N M S S M } = \\displaystyle \\tilde { m } _ { \\mathrm { H } _ { u } } ^ { 2 } | H _ { u } | ^ { 2 } + \\displaystyle \\tilde { m } _ { \\mathrm { H } _ { \\mathrm { d } } } ^ { 2 } | H _ { d } | ^ { 2 } + \\displaystyle \\tilde { m } _ { \\mathrm { S } } ^ { 2 } | S | ^ { 2 } + ( \\lambda A _ { \\lambda } S H _ { u } \\cdot H _ { d } + \\displaystyle \\frac { \\kappa } { 3 } A _ { \\kappa } S ^ { 3 } + h . c . ) } } \\\\ { { V _ { \\mathrm { s o f f } } ^ { N M S S M } = \\displaystyle \\tilde { m } _ { \\mathrm { H } _ { u } } ^ { 2 } | H _ { u } | ^ { 2 } + \\displaystyle \\tilde { m } _ { \\mathrm { H } _ { \\mathrm { d } } } ^ { 2 } | H _ { d } | ^ { 2 } + \\displaystyle \\tilde { m } _ { \\mathrm { S } } ^ { 2 } | S | ^ { 2 } + ( \\lambda A _ { \\lambda } S H _ { u } \\cdot H _ { d } + \\xi _ { S } M _ { \\mathrm { n } } ^ { 2 } \\hat { S } + h . c . ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here the parameter $G$ is defined as $G ^ { 2 } = g _ { 1 } ^ { 2 } + g _ { 2 } ^ { 2 }$ with $g _ { 1 }$ and $g _ { 2 }$ denoting respectively the $U ( 1 ) _ { Y }$ and $S U ( 2 ) _ { L }$ couplings. With the Higgs fields $H _ { u }$ ， $H _ { d }$ and $S$ developing respectively ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "the VEV $v _ { u }$ $v _ { d }$ and $v _ { S }$ , they can be rewritten as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { u } = \\left( \\begin{array} { c } { { H _ { \\mathrm { u } } ^ { + } } } \\\\ { { { \\frac { v _ { u } + \\phi _ { u } + i \\varphi _ { u } } { \\sqrt 2 } } } } \\end{array} \\right) , H _ { d } = \\left( \\begin{array} { c } { { { \\frac { v _ { d } + \\phi _ { d } + i \\varphi _ { d } } { \\sqrt 2 } } } } \\\\ { { H _ { \\mathrm { d } } ^ { - } } } \\end{array} \\right) , S = \\frac { v _ { S } + \\phi _ { S } + i \\varphi _ { S } } { \\sqrt 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In both the NMSSM and nMSSM we have five complex scalar fields or ten real scalar degrees of freedom, whose mass eigenstates are obtained as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left( \\begin{array} { l } { h _ { 1 } } \\\\ { h _ { 2 } } \\\\ { h _ { 3 } } \\end{array} \\right) = S _ { i j } \\left( \\begin{array} { l } { \\phi _ { u } } \\\\ { \\phi _ { d } } \\\\ { \\phi _ { S } } \\end{array} \\right) , \\left( \\begin{array} { l } { a _ { 1 } } \\\\ { a _ { 2 } } \\\\ { G ^ { 0 } } \\end{array} \\right) = P _ { i , j } \\left( \\begin{array} { l } { \\varphi _ { u } } \\\\ { \\varphi _ { d } } \\\\ { \\varphi _ { S } } \\end{array} \\right) , \\left( \\begin{array} { l } { H ^ { + } } \\\\ { G ^ { + } } \\end{array} \\right) = C _ { i j } \\left( \\begin{array} { l } { H _ { \\mathrm { u } } ^ { + } } \\\\ { H _ { \\mathrm { d } } ^ { + } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Here the three Goldstone bosons $G ^ { 0 }$ and $G ^ { \\pm }$ will be eaten by the weak gauge bosons $Z$ and （204号 $W ^ { \\pm }$ respectively. Then we have seven Higgs bosons, among which $h _ { 1 }$ ， $h _ { 2 }$ and $h _ { 3 }$ are CP-even (with the convention $m _ { h _ { 1 } } < m _ { h _ { 2 } } < m _ { h _ { 3 } }$ )， $a _ { 1 }$ and $a _ { 2 }$ are CP-odd (ordered as $m _ { a _ { 1 } } < m _ { a _ { 2 } }$ ） and $H ^ { \\pm }$ are the charged ones. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the NMSSM and nMSSM there are five neutralinos $\\left( \\chi _ { \\mathrm { i } } ^ { 0 } \\right)$ , which are the mixture of bino $( { \\tilde { B } } )$ ，wino $( \\tilde { W } ^ { 0 } )$ ),higgsino $( \\tilde { H _ { u } } , \\tilde { H _ { d } } )$ and singlino $( \\tilde { S } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { \\chi _ { 1 } ^ { 0 } } \\\\ { \\chi _ { 2 } ^ { 0 } } \\\\ { \\chi _ { 3 } ^ { 0 } } \\\\ { \\chi _ { 4 } ^ { 0 } } \\\\ { \\chi _ { 5 } ^ { 0 } } \\end{array} \\right) = N _ { i j } \\left( \\begin{array} { l } { \\tilde { B } } \\\\ { \\tilde { W ^ { 0 } } } \\\\ { \\tilde { H _ { u } } } \\\\ { \\tilde { H _ { d } } } \\\\ { \\tilde { S } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We assume the lightest neutralino is the lightest supersymmetric particle (LSP) and make up of the cosmic dark matter. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the purpose of our numerical analysis, we present the interactions of the Higgs bosons $h _ { i }$ with $b b$ ， $\\tau \\tau$ ， $W W$ and $\\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ . In the the NMSSM,they are given by [28] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { h _ { \\nu } b _ { L } b _ { \\mathrm { R } } ^ { c } : \\quad } } & { { \\displaystyle \\frac { m _ { b } } { \\sqrt { 2 } v \\cos \\beta } S _ { 2 2 } } } \\\\ { { } } & { { } } \\\\ { { h _ { \\bar { \\imath } } \\tau _ { L } \\tau _ { \\mathrm { R } } ^ { c } : \\quad } } & { { \\displaystyle \\frac { m _ { \\tau } } { \\sqrt { 2 } v \\sin \\beta } S _ { \\bar { \\imath } 1 } } } \\\\ { { } } & { { } } \\\\ { { h _ { \\bar { \\imath } } b _ { \\bar { \\imath } } ^ { + } W _ { \\bar { \\imath } } ^ { - } : \\quad g _ { \\mu \\nu } \\displaystyle \\frac { g _ { 2 } ^ { 2 } } { \\sqrt { 2 } } ( h _ { \\alpha } S _ { \\bar { \\imath } 1 } + h _ { d } S _ { \\bar { \\imath } 2 } ) } } \\\\ { { } } & { { } } \\\\ { { h _ { \\bar { \\imath } } \\chi _ { \\bar { \\imath } } ^ { 0 } \\chi _ { \\bar { \\imath } } ^ { 0 } : \\quad } } & { { \\displaystyle \\frac { \\lambda } { \\sqrt { 2 } } ( S _ { \\mathrm { i I } } \\Pi _ { 1 1 } ^ { 4 5 } + S _ { 2 2 } \\Pi _ { 1 1 } ^ { 3 5 } + S _ { \\bar { \\imath } \\bar { \\lambda } } \\Pi _ { 1 1 } ^ { 3 4 } ) - \\sqrt { 2 } \\kappa S _ { \\bar { \\imath } \\bar { \\lambda } \\bar { \\lambda } } N _ { 1 5 } N _ { 1 5 } } } \\\\ { { } } & { { } } \\\\ { { \\displaystyle \\quad } } & { { \\displaystyle - \\frac { g _ { 1 } } { 2 } ( S _ { \\mathrm { i } } \\Pi _ { 1 1 } ^ { 1 3 } - S _ { \\bar { \\imath } \\bar { \\lambda } } \\Pi _ { 1 1 } ^ { 4 } ) + \\frac { g _ { 2 } } { 2 } ( S _ { \\mathrm { i } 1 } \\Pi _ { 1 1 } ^ { 2 3 } - S _ { \\bar { \\imath } 2 } \\Pi _ { 1 1 } ^ { 2 4 } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Pi _ { 1 1 } ^ { i j } = N _ { 1 i } N _ { 1 j } + N _ { 1 j } N _ { 1 i }$ . The corresponding couplings in the nMSSM can be obtained by setting $\\kappa$ equal to zero (for MSSM, setting $\\kappa$ ， $\\lambda$ ， $S _ { 1 3 }$ and $N _ { 1 5 }$ to zero). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the NMSSM, in the basis $\\chi ^ { 0 } = ( \\tilde { B } , \\tilde { W } ^ { 0 } , \\tilde { H } _ { u } , \\tilde { H } _ { d } , \\tilde { S } )$ ， the tree-level neutralino mass matrix takes the form [17, 28] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\tilde { \\chi } ^ { 0 } } = \\left( \\begin{array} { c c c c c } { { M _ { 1 } } } & { { 0 } } & { { \\frac { g _ { 1 } v _ { u } } { \\sqrt { 2 } } } } & { { - \\frac { g _ { 1 } v _ { d } } { \\sqrt { 2 } } } } & { { 0 } } \\\\ { { 0 } } & { { M _ { 2 } } } & { { - \\frac { g _ { 2 } v _ { u } } { \\sqrt { 2 } } } } & { { \\frac { g _ { 2 } v _ { d } } { \\sqrt { 2 } } } } & { { 0 } } \\\\ { { \\frac { g _ { 1 } v _ { u } } { \\sqrt { 2 } } } } & { { - \\frac { g _ { 2 } v _ { u } } { \\sqrt { 2 } } } } & { { 0 } } & { { - \\mu } } & { { - \\lambda v _ { d } } } \\\\ { { - \\frac { g _ { 1 } v _ { d } } { \\sqrt { 2 } } } } & { { \\frac { g _ { 1 } v _ { d } } { \\sqrt { 2 } } } } & { { - \\mu } } & { { 0 } } & { { - \\lambda v _ { u } } } \\\\ { { 0 } } & { { 0 } } & { { - \\lambda v _ { d } } } & { { - \\lambda v _ { u } } } & { { 2 \\kappa S } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The corresponding mass matrix for the MSSM can be obtained by taking the upper $4 \\times 4$ （20 matrix from the above expresson,and for the nMSSM it can be obtained by set the term $2 \\kappa S$ to zero. When $| \\mu _ { e f f } |$ 0r $M _ { 2 } \\gg M _ { Z }$ ， the lightest neutralino in the MSSM becomes bino-like, with a mass given by [15] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\chi _ { 1 } ^ { 0 } } \\simeq M _ { 1 } - \\frac { m _ { \\mathrm { z } } ^ { 2 } \\sin ^ { 2 } \\theta _ { w } ( M _ { 1 } + \\mu \\sin 2 \\beta ) } { \\mu ^ { 2 } - M _ { 1 } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the nMSSM the lightest neutralino is singlino-like and its mass can be approximated as [20] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\chi _ { 1 } ^ { 0 } } \\simeq \\frac { 2 \\mu \\lambda ^ { 2 } ( v _ { \\mathrm { u } } ^ { 2 } + v _ { \\mathrm { d } } ^ { 2 } ) } { 2 \\mu ^ { 2 } + \\lambda ^ { 2 } ( v _ { \\mathrm { u } } ^ { 2 } + v _ { \\mathrm { d } } ^ { 2 } ) } \\frac { \\tan \\beta } { \\tan ^ { 2 } \\beta + 1 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICAL RESULTS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We scan over the parameter space of each model under current experiment constraints, and for each survived sample we calculate the Higgs spectrum, decay branching ratios and production rates at the LHC. In our calculation we use the package NMSSMTools [28] and extend it to the nMSSM [21]. For the calculation of $h  \\gamma \\gamma$ in the SM, we use the package Hdecay [29]. For the Higgs production cross sections, we use the code on the website [30] (this code is aimed at the MSSM,and we extend it to the NMSSM and the nMSSM).For parton distributions we use CTEQ6L [31] with the renormalization scale and the factorization scale chosen to be the sum of the masses of the produced particles. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our scan we require the models to explain the cosmic dark matter relic density measured by WMAP [32] and also explain the muon anomalous magnetic moment at $2 \\sigma$ level.In addition, we consider the following experimental constraints: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. The LEP bounds on sparticle masses and on the Higgs sector from $e ^ { + } e ^ { - } \\to h Z ( h A )$ followed by $Z \\to \\ell ^ { + } \\ell ^ { - } , \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ ， $h  b b$ and $\\tau ^ { + } \\tau ^ { - }$ [33]； We also consider the LEPI constraints on the invisible $Z$ decay ², i.e., $\\Gamma ( Z  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 } ) < 1 . 7 6 \\ \\mathrm { M e V }$ ，and the LEP-II constraints on neutralino production $\\sigma ( e ^ { + } e ^ { - }  \\chi _ { 1 } ^ { 0 } \\chi _ { i } ^ { 0 } ) < 1 0 ^ { - 2 }$ pb ( $i > 1$ ）and $\\sigma ( e ^ { + } e ^ { - }  \\chi _ { i } ^ { 0 } \\chi _ { j } ^ { 0 } ) < 1 0 ^ { - 1 }$ pb $( i , j > 1 )$ [33]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. The Tevatron bounds on sparticle masses and on stop or sbottom pair production followed by $\\tilde { t }  c \\chi , b l \\tilde { v } _ { l }$ and $\\tilde { b }  b \\chi$ [34, 35]; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. The recent LHC bounds on the Higgs sector from the measurement of the signal rates of $\\gamma \\gamma$ ， $\\tau \\tau$ ， $W W ^ { ( * ) }$ and $Z Z ^ { ( * ) }$ [36,37]; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. The constraints from B-physics, such as $b \\to s \\gamma$ and $B _ { s } \\to \\mu \\mu$ [38]; ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. The electroweak precision observables like $M _ { W }$ ， $\\sin ^ { 2 } \\theta _ { W }$ and $R _ { b }$ [39]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the number of free parameters, for the gaugino masses we assume the grand unification relation $3 M _ { 1 } / 5 \\alpha _ { 1 } = M _ { 2 } / \\alpha _ { 2 } = M _ { 3 } / \\alpha _ { 3 }$ and thus we have only one gaugino mass parameter (we choose $M _ { 2 }$ in our calculation). In order to explain the muon anomalous magnetic moment at $2 \\sigma$ level for moderate $\\tan \\beta$ ( $\\leq$ 20),for the smuon sector we assume the soft-breaking parameters to be 100 GeV [21]. For other soft-breaking parameters in the squark and slepton sectors, we assume them to be 1 TeV except that for the MSSM we allow the third-generation squark mass parameters $m _ { \\tilde { q } }$ to vary in a wide range. The parameter $M _ { n }$ in the superpotential of the nMSSM is also fixed to be 1 TeV. Other parameters are scanned in the following ranges (among which $M _ { a }$ is the mass of the $\\cos \\beta \\varphi _ { u } + \\sin \\beta \\varphi _ { d }$ field, i.e., the diagonal element of the doublet in the CP-odd Higgs mass matrix): ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. For the MSSM: $1 < \\tan \\beta < 2 0$ ,100 GeV < μ< 600 GeV,10 GeV $< M _ { 2 } < 2 0 0$ GeV, 500 GeV< $\\ < \\ M _ { a } < 3$ TeV,100 GeV $< M _ { \\tilde { q } } < 2$ TeV, $- 3$ TeV $< A _ { t , b } < 3$ TeV. In this space we scan two million random points and about three thousands points survived the experimental constraints. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. For the NMSSM: $0 . 1 < \\lambda < 0 . 7$ ， $0 . 1 < \\kappa < 0 . 5$ ， $1 < \\tan \\beta < 4$ ， $1 0 0 \\ \\mathrm { G e V } < ( \\mu , M _ { a } ) <$ 1 TeV,50 GeV $<$ M2 < 150 GeV, $0 < A _ { \\lambda } < 1$ TeV, $- 5 0 0 \\ \\mathrm { G e V } <  { A _ { \\kappa } } < 0$ .In this space we scan ten million random points and about one thousand points survived. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. For the nMSSM: $< \\lambda < 0 . 7 , 1 < \\tan \\beta < 1 0 , 5 0 \\mathrm { G e V } < ( \\mu , M _ { 2 } , M _ { a } ) < 1$ TeV, （204号 $0 < A _ { \\lambda } < 1$ TeV, $0 < M _ { \\tilde { S } } < 5 0 0 ~ \\mathrm { G e V }$ ， $- 1 < \\xi _ { F } < 1$ . In this space we scan one billion random points and about 2 thousands points survived. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note that our scan is not a general scan over the entire parameter space. Since our purpose is to figure out if the invisible decay of the Higgs boson is accessible at the LHC, we only scanned over a part of parameter space which is potentially able to allow for a light neutralino and hence the Higgs can decay into the neutralino pair. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Figs. 1 and 2 we display the scatter plots of the parameter space which survive all constraints. Fig. 1 shows the Higgs decay branching ratios and the LHC (7 TeV) di-photon rate,while Fig. 2 shows the observability of the decay $h  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ through three production channels at the LHC (7 TeV). The $2 \\sigma$ sensitivity of the ATLAS detector shown in Fig. 2 is obtained from a Monte Carlo simulation carried out in [23-25]. For the decay $h  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ ,the signature of the production via vector boson fusion $V V  h$ is two far forward and backward tagging jets of moderate $p _ { T }$ with considerable missing momentum $\\not p _ { T }$ in the central region. For the productions $p p  h Z$ and $p p  h t t$ , the signatures are obvious: for the former it is two isolated high $p _ { T }$ leptons from the Z-boson decay and large missing ${ \\rlap / v _ { T } }$ from the Higgs decay; for the latter it is di-leptons (or lepton plus jets) and large missing $\\scriptstyle { { \\vec { p } } _ { T } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From these figures we obtain the following findings: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "· In each model the SM-like Higgs can have a mass near 125 GeV,as hinted by the recent LHC results.   \n· In the MSSM the SM-like Higgs boson dominantly decays to $b b$ (just like in the SM), the decay $h  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ has a very small branching ratio (below about $1 0 \\%$ )，and the di-photon signal rate is close to the SM value. Due to the small branching ratio, the Higgs decay $h  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ is far below the detectable level.   \n· In the NMSSM the decay $h _ { 1 } \\to \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ can be comparable to $h _ { 1 }  b b$ . In the region with a sizable decay ratio of $h _ { 1 }  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ ， the lightest neutralino $\\chi _ { 1 } ^ { 0 }$ is rather light （below （20 $h _ { 1 } / 2$ ） and the coupling of $h _ { 1 }$ to $\\chi _ { 1 } ^ { 0 }$ is large (see Eq. 18). The diphoton signal rate can ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f9929fe67afb9f1daa14d415c62511bc6e227ded439849592edddb65ef26331.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FIG.1: The scatter plots of the parameter space which survive all constraints listed in the text. In the upper frames,the samples denoted by crosss (sky-blue) show the branching ratio of $h  \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ （20 while the samples denoted by circle (magenta） show the branching ratio of $h  b \\bar { b }$ . The solid curves (blue) denote the SM prediction for the branching ratio of $h  b b$ . In the lower frames, the samples denoted by times (red) show the ratio $\\sigma _ { S U S Y } ( p p  h  \\gamma \\gamma ) / \\sigma _ { S M } ( p p  h  \\gamma \\gamma )$ at the LHC(7 TeV). In this figure and below, $\\mathit { \\Delta } ^ { \\circ } h _ { S M } \\mathit { \\Psi } ^ { \\prime }$ denotes the Higgs boson in the SM,'h’ denotes the lightest nutral Higgs boson in the MSSM, and $\\boldsymbol { h _ { 1 } } ^ { \\prime }$ denotes the SM-like Higgs boson in the NMSSM and nMSSM (the doublet component of $h _ { 1 }$ is over $6 0 \\%$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "be sizably deviate from the SM prediction, either enhanced or suppressed significantly. In a large part of the parameter space, the Higgs decay $h _ { 1 } \\to \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ is accessible at the LHC. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d24b22b224e30f63e1f8875f5c4f6d43ceff2140cc6002ef62a04d97d7371e4f.jpg",
+        "img_caption": [
+            "FIG. 2: Same as Fig.1, but showing the quantity $\\begin{array} { r } { \\frac { \\sigma _ { S U S Y } } { \\sigma _ { S M } } \\times B r ( h _ { 1 } \\to \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 } ) } \\end{array}$ with σsUsY $\\left( \\sigma _ { S M } \\right)$ being the SUSY (SM) Higgs production rates for the processes $V V  h$ ， $p p  h Z$ and $p p  h t { \\bar { t } }$ .The solid curves show the $2 \\sigma$ sensitivity [23-25] of the ATLAS detector at the LHC(7 TeV） with 10 （204号 $f b ^ { - 1 }$ ，30 $f b ^ { - 1 }$ and 100 $f b ^ { - 1 }$ (the region above each curve is the observable region). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "· In a major part of the parameter space in the nMSSM, the decay $h _ { 1 } \\  \\ \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ is dominant over $h _ { 1 }  b b$ and thus observable at the LHC. The reason is the lightest neutralino is singlino-like and is always light,as can be seen from the neutralino mass matrix in Eq. (21). Also, from Eq. (18) we see that the coupling $g _ { h _ { 1 } \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 } }$ can be large (near unity). Due to the new sizable decay $h _ { 1 } \\to \\chi _ { 1 } ^ { 0 } \\chi _ { 1 } ^ { 0 }$ , the total width of the SMlike Higgs is greatly enlarged and thus its di-photon signal at the LHC is severely suppressed. So, if the recently observed di-photon signals at the LHC is verified in the near future, this model will be excluded. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IV. CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We examined the Higgs decay to neutralino dark matter in low energy SUSY by considering three different models: the MSSM, NMSSM and nMSSM. We considered current experimental constraints at $2 \\sigma$ level (including the muon $g - 2$ and the dark matter relic density) and scanned over the parameter space of each model. Then in the allowed parameter space we calculated the branching ratio of the SM-like Higgs decay to neutralino dark matter and examined its observability at the LHC by considering three production channels: the weak boson fusion $V V  h$ , the associated production with a Z-boson $p p  h Z + X$ or a pair of top quarks $p p  h t t + X$ . Our findings are: (i) In the MSSM such a decay is far below the detectable level; (i) In the NMSSM it is accessible in a sizable part of parameter space; (ii) in the nMSSM it is detectable in a major part of the parameter space. (iv) When this invisible decay is sizable, the visible di-photon decay is suppressed. So,we conclude that at the LHC the interplay of detecting such an invisible decay and the visible di-photon decay may allow for a discrimination of different SUSY models. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Jingya Zhu thanks Lei Wu for helpful discussion. This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant Nos. 10821504, 11135003,10775039,11075045,by Specialized Research Fund for the Doctoral Program of Higher Education with grant No. 20104104110001,and by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3] ATLAS collaboration, arXiv:1202.1408; CMS collaboration,arXiv:1202.1488.   \n[4]U.Ellwanger， arXiv:1112.3548[hep-ph]；J. Cao et al. arXiv:1112.4391[hep-ph]; arXiv:1202.5821 [hep-phl; Y. Bai, P. Draper and J. Shelton，arXiv:1112.4496 [hep-ph]; O.Buchmueller ,et al.， arXiv:112.3564 [hep-ph]； S. Akula，et al.， arXiv:1112.3645 [hepph]; M. Carena et al. arXiv:1112.3336 [hep-ph]； A. Arbey et al. arXiv:1112.3028 [hep-ph]; H. Baer, V. Barger and A. Mustafayev, arXiv:112.3017 [hep-ph]; H. Baer, V. Barger and A.Mustafayev,arXiv:1202.4038 [hep-ph]； S. F. King, M. Muhlleitner and R. Nevzorov, arXiv:1201.2671 [hep-ph]. J. F. Gunion, Y. Jiang and S. Kraml,arXiv:1201.0982 [hep-ph]; S.Heinemeyer, O. Stal and G. Weiglein，arXiv:1112.3026 [hep-phl; L. J. Hall, D. Pinner and J. T. Ruderman，arXiv:112.2703 [hep-ph]； P. Draper et al.， arXiv:1112.3068 [hepphl； A. Arbey, M. Battaglia and F. Mahmoudi, arXiv:1112.3032 [hep-ph]； M. Kadastik et al.arXiv:112.3647 [hep-ph]； A. Arvanitaki and G. Villadoro,arXiv:1112.4835 [hep-ph}; I. Gogoladze,Q. Shafi and C. S. Un,arXiv:1112.2206 [hep-ph]; J. L. Feng, K. T. Matchev and D. Sanford，arXiv:1112.3021 [hep-ph]； P. Fileviez Perez，arXiv:1201.1501 [hep-ph]; J. Ellis,， M. K. Gaillard and D. V. Nanopoulos,arXiv:1201.6045 [hep-ph]； N. Karagiannakis,G. Lazarides and C. Palis, arXiv:1201.2111 [hep-ph]； L. Roszkowski, E. M. Sessolo and Y. -L. S. Tsai， arXiv:1202.1503 [hep-ph]; L. Aparicio，D. G. Cerdeno and L. E. Ibanez, arXiv:1202.0822 [hep-ph]; C.-F. Chang, K. Cheung, Y. -C. Lin and T. -C. Yuan, arXiv:1202.0054 [hep-ph]； K. A. Olive,arXiv:1202.2324 [hep-ph]; J. Ellis and K. A. Olive, arXiv:1202.3262 [hep-ph]; N. Desai, B. Mukhopadhyaya and S. Niyogi, arXiv:1202.5190 [hepphl; L. Maiani, A. D. Polosa and V. Riquer,arXiv:1202.5998 [hep-ph].   \n[5] G. Guo, B. Ren and X. G. He, arXiv:1112.3188 [hep-ph]; X. G. He, B. Ren and J. Tandean, arXiv:1112.6364 [hep-ph]； C. Englert， et al.，arXiv:1112.3007 [hep-ph]； A. Djouadi, et al., arXiv:1112.3299 [hep-ph]; K. Cheung and T.-C. Yuan,arXiv:1112.4146 [hep-ph]; B. A. Dobrescu, G. D. Kribs and A. Martin,arXiv:1112.2208 [hep-ph]; C. Cheung and Y. Nomura, arXiv:1112.3043 [hep-ph]； G. Burdman,C. Haluch and R. Matheus,arXiv:1112.3961 [hepph]; A. Arhrib, et al.， arXiv:1112.5453 [hep-ph]; arXiv:1112.5527 [hep-phl； arXiv:1201.2644 [hep-ph]; P. M. Ferreira, R. Santos, M. Sher and J. P. Silva, arXiv:1112.3277 [hep-ph]; Phys. Rev. D 85, 035020 (2012) arXiv:1201.0019 [hep-ph];； B. Batell， S. Gori and L. -T. Wang, arXiv:1112.5180 [hep-ph]; E. Gabrielli，B. Mele and M. Raidal, arXiv:1202.1796 [hep-ph]; E. Cervero and J. -M. Gerard, arXiv:1202.1973 [hep-ph]; A. Falkowski, S. Rychkov and A. Urbano,arXiv:1202.1532 [hep-ph]; N. Chen and H. -J. He, arXiv:1202.3072 [hep-ph].   \n[6] D. Albornoz Vasquez, G. Belanger,R. M. Godbole and A. Pukhov, arXiv:1112.2200 [hep-ph].   \n[7] V. Barger et al. Phys.Rev.D 77,035005 (2008); Phys. Rev. D 79,015018 (2009); M. C. Bento et al.Phys. Rev.D 62，041302 (2000)；O.Bertolami，M. C. Bento and R. Rosenfeld, astro-ph/0111415.   \n[8]K.Belotsky et al. Phys. Rev. D 68, 054027 (2003); K. Belotsky et al. Eur. Phys. J. C 36, 503 (2004); W. -Y. Keung and P. Schwaller, JHEP 1106, 054 (2011); Y. Cai, X. -G. He and B. Ren, Phys. Rev. D 83, 083524 (2011).   \n[9] D. Dominici, Czech. J. Phys. 55, B627 (2005)   \n[10] R. Foadi, M. T. Frandsen and F. Sannino, Phys.Rev.D 80,O37702 (2009)   \n[11] M. Hirsch et al. Phys. Rev.D 70, 073012 (2004); D. Bertolini, K. Rehermann and J. Thaler, arXiv:1111.0628 [hep-ph].   \n[12] I. Antoniadis, M. Tuckmantel and F. Zwirner, Nucl. Phys.B 707, 215 (2005)   \n[13] V. Barger, P. Langacker and G. Shaughnessy, Phys. Rev. D 75, 055013 (2007)   \n[14] H. E. Haber and G.L. Kane,Phys. Rept.117,75 (1985); J. F.Gunion and H. E. Haber, Nucl. Phys.B 272,1 (1986) [Erratum-ibid. B 402, 567 (1993)].   \n[15] S. P. Martin,“A Supersymmetry primer”,arXiv:9709356 [hep-ph].   \n[16] A. Djouadi, Phys. Rept. 459,1 (2008)   \n[17] U. Ellwanger, C. Hugonie and A. M. Teixeira, Phys. Rept. 496,1 (2010)； M. Maniatis, Int. J. Mod.Phys. A25 (2010) 3505   \n[18] For phenomenological studies, see, e.g., J. R. Elis et al. Phys. Rev. D 39,844 (1989); M. Drees, Int. J. Mod. Phys. A4, 3635 (1989); S. F. King, P.L. White, Phys. Rev. D 52, 4183 (1995); B. Ananthanarayan, P.N. Pandita, Phys. Lett.B 353, 70 (1995); B.A. Dobrescu, K.T. Matchev, JHEP 0009, 031 (2000);； R. Dermisek,J. F.Gunion, Phys. Rev. Lett. 95,041801 (2005); G.Hiller,Phys.Rev.D 70, 034018 (2004)；F.Domingo,U. Ellwanger, JHEP 0712,090 (2007); Z. Heng et al. Phys. Rev. D 77, 095012 (2008); R. N. Hodgkinson, A. Pilaftsis, Phys. Rev. D 76, 015007 (2007); W. Wang et al. Phys. Lett.B 680,167 (2009); J. M. Yang, Int. J. Mod. Phys. D 20,1383 (2011) U. Ellwanger and C. Hugonie, Mod. Phys. Lett. A 22, 1581 (2007） Eur. Phys. J. C 25,297 (2002) U. Ellwanger, Eur.Phys. J. C 71,1782 (2011)   \n[19] A.Menon, D.E. Morrissey and C.E. M. Wagner,Phys. Rev. D 70,035005 (2004) V. Barger, P. Langacker and H. -S. Lee, Phys. Lett. B 630, 85 (2005) C. Balazs, M. S. Carena, A. Freitas ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and C.E.M. Wagner, JHEP 0706,066 (2007) [20] S. Hesselbach et al. arXiv:0810.0511 [hep-ph]. [21] J. Cao, H. E. Logan and J. M. Yang, Phys. Rev. D 79, 091701 (2009). [22] H. Davoudiasl, T. Han and H. E. Logan, Phys. Rev. D 71, 115007 (2005). [23] L. Neukermans1,B. D.Girolamo,ATL-PHYS-2003-006. [24] Frank Meisel, M. Dührssen,M. Heldmann and K. Jakobs,ATL-PHYS-PUB-2006-009. [25] B.P. Kersevan, M. Malawski and E. Richter-Was, Eur. Phys. J. C 29, 541 (2003). [26] P. Gagnon, com-phys-2003-011. [27] V. Barger et al., Phys. Rev. D 73,115010 (2006). [28] U.Ellwanger， J. F.Gunion and C. Hugonie, JHEP O502, O66 (2005)； U. Ellwanger and C. Hugonie, Comput. Phys. Commun. 175, 290 (2006). [29] http://people.web.psi.ch/spira/hdecay/ [30] http://people.web.psi.ch/spira/proglist.html [31] J. Pumplin et al., JHEP 0602, 032 (2006). [32] J. Dunkley et al. [WMAP Collaboration],Astrophys. J. Suppl. 180, 306 (2009). [33] J.Abdallah et al. [DELPHI Collaboration], Eur. Phys. J. C31,421 (2004)； G.Abbiendi et al. [OPAL Collaboration], Eur.Phys. J.C 35,1 (2004). [34] K.Nakamura et al. [Particle Data Group Collaboration], J. Phys.G G 37, 075021 (2010). [35] V.M. Abazov et al. [D0 Collaboration],Phys. Rev. Lett.103,061801 (2009); M. E. Peskin and T. Takeuchi, Phys. Rev. D 46, 381 (1992). [36] F. Domingo and U. Ellwanger, JHEP 1106, 067 (2011). [37] CMS collaboration, CMS-PAS-HIG-11-020. [38] CMS and LHCb Collaborations, LHCb-CONF-2011-047, CMS PAS BPH-11-019. [39] J. Cao and J. M. Yang, JHEP 0812, 006 (2008). ",
+        "page_idx": 13
+    }
+]

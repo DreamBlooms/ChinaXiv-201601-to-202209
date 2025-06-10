@@ -1,0 +1,446 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于遗传算法优化的大数据特征选择方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张文杰1,2，蒋烈辉1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．解放军信息工程大学 网络空间安全学院，郑州 45001;2.数字工程与先进计算国家重点实验室，郑州 450001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：特征选择是大数据集预处理的重要方法，能够使后续的数据分析与处理更加高效准确。提出了一种基于遗传算法的大数据特征选择算法。该算法首先对各维度的特征进行评估，根据每个特征在同类最近邻和异类最近邻上的差异度调整其权重，基于特征权重引导遗传算法的搜索，以提升算法的搜索能力和获取特征的准确性；然后结合特征权重计算特征的适应度，以适应度作为评价指标，启动遗传算法获取最优的特征子集，并最终实现高效准确的大数据特征选择。通过实验分析发现，该算法能够有效减小分类特征数，并提升特征分类准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大数据；特征选择；遗传算法；特征子集 中图分类号：TP391 doi: 10.19734/j.issn.1001-3695.2018.05.0495 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using genetic algorithm for feature selection optimization on big data processing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Wenjie1,2, Jiang Liehui1, 2 (1.Facultyof Cyberspace Security,PLA InformationEngineering University,Zhengzhou 450l，China;2.State Key Laboratory of Mathematical Engineering& Advanced Computing, Zhengzhou 45oo01, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Feature selection is an important method of big data set preprocessing,can make subsequent data analysis and procesing more eficientand accurate.This paper proposes anovel feature selection method based on genetic algorithm forbig data procesing.Firstly,ourmethodevaluatesthefeaturesofeachdimension,adjustsitsweghtaccordingtothediferenceof each featureonthesimilar nearest neighborandthe heterogeneous nearest neighbor,and guides the searchofgeneticalgorithm based onthe feature weight,thus improves the search abilityof thealgorithmand theaccuracyoffeature acquisition.Andthen combinesthe feature weights tocalculate thefitnessofthefeature,takesfitnessas theevaluation index,and startsthegenetic algorithmtoobtaintheoptimalfeature subset,finallachieveaneficientandaccuratebigdata feature selection.Theresultsof experiment show that our method can effctively reduce the number of classification features and improve the accuracy of feature classification. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:big data; feature selection; genetic algorithm; feature subset ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网通信、数据存储、信息处理等技术的快速发展，大数据量和数据维数与日俱增。大数据集中往往包含上千个特征维度。海量的数据和特征维度包含着大量的冗余数据和无效特征，严重影响和限制了大数据分析与挖掘的性能[1,2]。为解决上述问题，特征选择通过从大数据集中剔除冗余信息，提取出具有代表性的特征子集，从而实现对大数据规模和维度的精简，提升大数据分析和处理的效率。近年来，随着大数据分析与处理技术逐步扩展深入，特征选择方法开始受到研究者的广泛关注，特征选择技术也被广泛应用于大数据聚类、文本分类、多媒体分析等诸多场景[3.4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "特征选择的核心是通过数据处理方法提取代表性的特征子集。特征选择方法的作用主要有三项：a）通过选择大数据集合中的部分特征数据，大大减少需要分析和处理数据规模，降低大数据后期分析和处理的计算量、复杂度；b）特征选择删除大量不相关或冗余的数据信息，使得大数据易于理解和解释，更便于后期的数据处理；c）特征选择能够有效降低大数据集的维度，能够克服海量维度对大数据挖掘的限制，从而提升机器学习等方法的准确性和有效性。特征选择能够降低存储空间，计算开销等，还能揭示大数据集中隐藏的潜在结构模式和规律，对于后期的大数据挖掘和分析具有重要促进作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前，特征选择方法主要包括包装法、嵌入法和过滤法三种[5]。嵌入法融合了过滤法与包装法，能够大大缩减计算时间;但嵌入法集中在局部空间内搜索，覆盖范围有限。文献[6]提出了一种改进多目标人工蜂群算法的特征选择方法，将大数据特征选择问题转换为多目标优化问题，从而提升特征选择的效率。文献[7]提出了一种新的特征子集区分度衡量准则。区别于以往仅仅考虑单个特征对区分度指标的影响，新准则将所有特征同时纳入综合考虑，计算整体特征对区分度指标的总体影响，并结合以支持向量机作为为分类工具，引导特征选择过程。文献[8]基于人工蜂群算法，提出了一种改进的特征选择优化算法，在减少特征数量和计算量的同时，以提升特征选择的效率和准确性。文献[9]提出一种基于多准则融合的特征选择算法，区别于传统的单一准则量化的思路，同时引入多种准则选取数据特征，提升特征子集多样性和算法搜索能力。然而特征选择方法多集中于考虑单个特征的重要性，使得特征重要性考量往往过于简化，忽略了不同特征之间的关联性，以及关联性对特征重要度的影响，进而降低了大数据特征选择的整体性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了实现高效的特征选择，本文提出了一种基于遗传算法的启发式特征选择算法。该算法首先对各维度的特征进行评估，根据每个特征在同类最近邻和异类最近邻上的差异度调整其权重；然后结合特征权重计算特征的适应度，以适应度作为评价指标，启动遗传算法获取最优的特征子集，并最终实现高效准确的大数据特征选择。特征选择算法能够显著降低大数据分析、处理的计算时间，并提升大数据挖掘、数据分析的精确度和有效性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究背景概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征选择是指从完整的大数据集 $D$ 中，基于相应策略选择出一个 $k$ （ $k < M$ ）维的特征子集 $F$ ，并将该特征子集应用于后期的数据分析、处理过程中。在大数据特征选择过程中，一般认为有两类属性在大数据集中并不必要：a）与目标数据不相关的属性；b）相对于目标数据而言，存在冗余属性。为了把这两类不必要的属性减到最少，需要通过特征选择对大数据集进行精简。特征选择是从大数据集合中选择属性子集的过程，通过辨别重要的属性，去除不相关或不需要的属性冗余，获取精简提炼后的大数据。特征选择在数据挖掘、机器学习等领域都有着广泛而深入的应用，是大数据分析和处理领域里非常重要的预处理方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，有研究发现[10,1]遗传算法（genetic algorithm,GA)非常适合应用于大数据的特征选择问题。遗传算法是一种随机搜索方法，该算法能够直接对处理的对象进行操作，不受复杂的可导性、可微性或连续性等条件的限制，且在迭代过程中不受固有规则限制，可依据选择概率自主调整搜索方向，具有广泛的适应性和强大的全局搜索能力。在大数据环境中，当数据空间维度较高而对数据的内部特征无从了解时，遗传算法可以通过启发式地自学习获取优化的特征提取结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有大部分特征选择算法大多采用单个评价准则，未充分考虑同类特征与异类特征的权重的差别，从而无法有效地引导遗传算子的搜索过程，使得大数据特征选择的遗传算子变异缺乏目的性，限制了算法的整体性能。基于此，本文提出了一种基于遗传算法的启发式特征选择算法。该算法首先计算每个特征在同类最近邻和异类最近邻上的差异度，综合调整其权重；然后结合特征权重计算特征的适应度，以特征适应度引导遗传算法的变异和搜索，以提升特征选择算法的搜索性能，并最终实现高效准确的大数据特征选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于遗传算法的大数据特征选择算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1算法架构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征选择是大数据预处理一个重要步骤，能够有效删除大数据中的冗余属性，提升大数据后期处理的效率，并能有效改善大数据分析的性能。特征选择的实质就是通过搜索迭代，从大数据中获取最具代表性的特征子集，根据评价准则评估其重要性后再进行迭代选择，直至获取最优的特征子集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，特征选择的迭代过程主要包括特征评估、子集产生和迭代停止准则三个重要步骤。由于大数据具有数据量大和特征维度高等特点，本文采用了基于遗传算法的启发式特征选择方法，首先综合每个特征的同类最近邻和异类最近邻评估其特征权重，并结合该权重计算特征适应度，以此引导遗传算法的特征搜索，提升大数据环境下特征选择的精确度。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7910bda3c763014fb6656b4a08b42db2d12f3ce17583aab1ad64760ee9a8d751.jpg",
+        "img_caption": [
+            "图1特征选择的算法框架",
+            "Fig.1Algorithm framework for feature selection "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 特征权重评估 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前，有大数据研究发现[10,12]：在大数据集中，属于同一类型且距离相近的数据项都具有相似的数据特征，而距离相近但属于不同类型的数据项的数据特征差异较大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，特征权重评估算法的设计流程为：在大数据集 $D$ 中随机选择一个数据项 $x _ { i }$ ，在数据集中搜索其同类最近邻$x _ { i } ( h )$ 及异类最近邻 $x _ { i } ( m )$ ；分别计算各维度的特征与同类最近邻的差异度值，与异类最近邻的差异度值，根据两者的特征差异度相应地调整其权重。通过反复迭代，最后选择权重值最高的 $k$ 维特征组成新的特征子集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "diff $( x _ { 1 } , x _ { 2 } , j )$ 表示数据项 $x _ { 1 }$ 和 $x _ { 2 }$ 在特征 $f _ { j }$ 上的差异度。在数据项 $x _ { 1 }$ 与 $x _ { 2 }$ 上,两者在特征维度 $f _ { j }$ 上的差异度是",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i f f ( x _ { 1 } , x _ { 2 } , j ) = \\frac { \\mid x _ { 1 j } - x _ { 2 j } \\mid } { \\operatorname* { m a x } ( f _ { j } ) - \\operatorname* { m i n } ( f _ { j } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在每轮迭代过程中，根据 $x _ { i }$ 的 $\\boldsymbol { r }$ 个同类最近邻 $x _ { i } ( h )$ 和 $\\boldsymbol { r }$ 个异类最近邻 $x _ { i } ( m )$ 在特征 $f _ { j }$ 上的差异度，调整 $x _ { i }$ 关于特征 $f _ { j }$ 上的权值：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\omega ( j ) = \\omega ( j ) - \\sum _ { h \\in r } d i f f ( x _ { i } , x _ { i } ( h ) , j ) / M + } } \\\\ { { \\displaystyle \\sum _ { \\delta \\subseteq r } d i f f ( x _ { i } , x _ { i } ( \\delta ) , j ) / M } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征权重评估算法的具体描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：大数据集 $D$ ，迭代次数 $t$ ，子集维数 $k$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：特征权重ω(l,,M）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1：初始化大数据集 $D$ 中特征权重 $\\omega ( 1 , \\cdots , M ) = 0 . 5$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2:for $i = 1 \\ ^ { \\mathrm { \\ t o } } t ^ { }$ do ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3：随机获取一个数据项xi；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4：搜索 $x _ { i }$ 的 $\\boldsymbol { r }$ 个同类最近邻 $x _ { i } ( h )$ 和 $\\boldsymbol { r }$ 个异类最近邻 $x _ { i } ( m )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5:for $j = 1$ to $M$ do ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\omega ( j ) = \\omega ( j ) - { \\displaystyle \\sum _ { h \\subseteq r } } d i f f ( x _ { i } , x _ { i } ( h ) , j ) / M + } \\\\ { { \\displaystyle \\sum _ { \\delta \\subseteq r } } d i f f ( x _ { i } , x _ { i } ( \\delta ) , j ) / M } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7:end for ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8：更新特征权重ω(l,,M);",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9：end for ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "特征权重评估算法将每个样本数据项与其 $\\boldsymbol { r }$ 个同类最近邻和 $\\boldsymbol { r }$ 个异类最近邻相比，根据该样本数据项与邻域数据项在相关特征维度上的差异度调整其权值。同类差异度越小，异类差异度越大，说明该特征维度越具有代表性，权重增加；同类差异度越大，异类差异度越小，说明该特征维度越缺乏代表性，权重减小。相比一般的特征选择算法，该算法综合考虑了特征的同类、异类近邻与各维度的相关性，使得特征权重更能客观反映该维度特征的代表性，能够使后续遗传算法的特征搜索与选择的性能更优，鲁棒性更强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于遗传算法的特征选择方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用了基于遗传算法的启发式特征选择方法，首先综合每个特征的同类最近邻和异类最近邻评估其特征权重，并结合该权重计算特征适应度，以此引导遗传算法的特征搜索，提升大数据环境下特征选择的精确度。具体的操作步骤如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)随机生成初始种群 $X = \\left\\{ x _ { i } ^ { 0 } , \\cdots x _ { N } ^ { 0 } \\right\\}$ ，种群规模为 $N$ 。对解 空间进行编码、初始化。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)根据设定好的适应度函数计算第 $\\mathbf { \\Phi } _ { t }$ 代全部个体的适应度值 $f ( x _ { i } ^ { t } ) \\ , \\quad i = 1 , \\cdots , N \\ .$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)综合比较特征子集的类间、类内距离，以特征子集的类间距离与类内距离之比为适应度函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = \\frac { { \\displaystyle \\sum _ { i = 1 } ^ { c } } \\| \\overline { { x } } ( i ) - \\overline { { x } } \\| ^ { 2 } } { { \\displaystyle \\sum _ { i = 1 } ^ { c } } \\frac { 1 } { n _ { i } - 1 } { \\displaystyle \\sum _ { j = 1 } ^ { n _ { i } } } \\| \\overline { { x _ { j } } } ( i ) - \\overline { { x } } ( i ) \\| ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathbf { \\Pi } _ { x } ^ { - }$ 表示特征子集在大数据集的均值向量； $\\mathbf { \\Pi } _ { \\boldsymbol { x } ( i ) } ^ { - }$ 表示特征子集在 $i$ 类的均值向量; $\\overline { { x _ { j } } } ( i )$ 表示第 $i$ 类的第 $j$ 个样本向量; $n _ { i }$ 为第 $i$ 类的样本个数； $\\mathbf { \\Psi } _ { c }$ 为类别数。类间距离越大，类内距离越小，说明该特征子集的适应度越高；反之，类间距离越小，类内距离越大，说明该特征子集的适应度越低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)综合考虑特征权重评估算法获取的特征权重与其适应度值，估算特征选取概率，从上一代种群 $x _ { 1 } ^ { t } , \\cdots , x _ { N } ^ { t }$ 中下一轮迭代的种群 $x _ { 1 } ^ { t + 1 } , \\cdots , x _ { N } ^ { t + 1 }$ 。其中 $\\boldsymbol { x } _ { i } ^ { t }$ 被选择的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x _ { i } ^ { t } ) = \\frac { \\omega ( x _ { i } ) f ( x _ { i } ^ { t } ) } { \\displaystyle \\sum _ { i = 1 } ^ { N } \\omega ( x _ { i } ) f ( x _ { i } ^ { t } ) } , i = 1 , \\cdots , N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)以相同的概率从更新的种群 $x _ { 1 } ^ { t + 1 } , \\cdots , x _ { N } ^ { t + 1 }$ 中选择两个个体，以概率 $P _ { c }$ 完成染色体的交叉重组。同时，以概率 $\\boldsymbol { P _ { m } }$ 对个体的某基因位进行突变，获取新一代的种群 $x _ { 1 } ^ { t + 2 } , \\cdots , x _ { N } ^ { t + 2 }$ 。获取（204号 $x _ { 1 } ^ { t + 2 } , \\cdots , x _ { N } ^ { t + 2 }$ 中适应度值最高的个体 $\\boldsymbol { x } _ { * } ^ { t + 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)比较 $x _ { * } ^ { t + 2 }$ 的适应度值，若大于等于相关的适应度阈值，或迭代次数已经达到最大，则终止过程,输出 $x _ { * } ^ { t + 2 }$ ；否则，令 $t = t { + } 1$ ，跳转进入步骤b)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)从大数据 $D$ 选择适应度的排名前 $k$ 个特征，组成特征子集 $F$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验数据主要基于业界标准的UCI数据库，从中选取比较具有代表性的10个数据集作为测试数据。数据集的具体信息见表1。在本文的UCI数据集[13]实验中， $k$ 值设置为10。每次测试轮流选择1个数据集作为独立的测试数据集，其余9个数据集作为训练模型。该测试数据集包含10个多分类的数据集，样本数为150\\~569，特征数规模为4\\~255。这10个数据集数据类型各不相同，数据特征具有广泛的代表性，能够全面有效地衡量和比较各种算法特征选择的性能指标。实验环境为LenovoM9620T的台式电脑，Intel(R)6Core(TM)i3-32403.39GHzCPU,$4 . 0 \\mathrm { G B }$ 内存，Windows764位操作系统，软件环境为MATLABR2010b。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为全面比较本文算法与同类特征选择算法的性能，实验将其分别与GA_SVM算法[14]（基于遗传算法）、ReliefF 算法[15]（传统特征选择算法）进行比较。GA_SVM算法、ReliefF 算法分别是各自领域内具有代表性的算法。表2是本文算法与基于遗传算法方法的分类准确率比较结果。在实验中，迭代次数t一般依据经验或者多次实验获取，10 次重复计算以估计两种方法在UCI数据集上的分类准确率，得到的分类准确率以平均百分比 $\\pm$ 标准差来表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表1所示，在10个数据集中，由于Iris数据集的特征数与类别数较少，GA_SVM算法与本所算法的分类准确率相同；在其余9个数据集上，本文算法的性能都优于GA_SVM算法，分类准确率都有了不同幅度的提升。同时，只有在Dermatology数据集上，本文算法分类准确率的标准差略高于GA_SVM 算法；其余9个数据集上，本文算法分类准确率的标准差都要低于GASVM算法，这说明本文算法在分类准确率、分类稳定性上都要优于GA_SVM算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3是本文算法与传统特征选择算法的分类准确率比较结果。同样地，在实验中10次重复计算以估计两种方法在UCI数据集上的分类准确率，得到的分类准确率和选择特征数以平均百分比 $\\backslash \\pm$ 标准差来表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，相比传统的ReliefF算法，本文算法在分类准确率、选择特征数上的性能改善更为明显。在10个数据集中，相比ReliefF算法，本文算法的分类准确率都有了不同幅度的提升，选择的特征数均值也小于同类算法。同时，在Iris数据集上，本文算法分类准确率的标准差略高于GA_SVM算法，其余数据集上的标准差都低于ReliefF 算法；在Dermatology 数据集上，本文算法选择的特征数标准差略高于GA_SVM算法，其余数据集上的标准差都低于ReliefF 算法，这说明本文算法在分类准确率、分类稳定性上都要优于ReliefF 算法，具有最高的分类准确率、最少的选择的特征数。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/364ce71905a44e6e4514424dd972ae4c572d7f4bf42b935e487b202a866da5e1.jpg",
+        "table_caption": [
+            "表1选择测试的UCI数据集"
+        ],
+        "table_footnote": [
+            "表2本文方法和基于遗传算法方法的分类准确率比较 $/ \\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>样本个数</td><td>特征数</td><td>类别数</td></tr><tr><td>Handwrite</td><td>323</td><td>255</td><td>2</td></tr><tr><td>WPBC</td><td>194</td><td>33</td><td>2</td></tr><tr><td>Thyroid-disease</td><td>215</td><td>5</td><td>3</td></tr><tr><td>Glass</td><td>214</td><td>9</td><td>2</td></tr><tr><td>WDBC</td><td>569</td><td>30</td><td>2</td></tr><tr><td>Ionosphere</td><td>351</td><td>34</td><td>2</td></tr><tr><td>Iris</td><td>150</td><td>4</td><td>3</td></tr><tr><td>Wine</td><td>178</td><td>13</td><td>3</td></tr><tr><td>Heart disease</td><td>297</td><td>13</td><td>5</td></tr><tr><td>Dermatology</td><td>358</td><td>34</td><td>6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/46d635f361a0f95e9be37ad5f0bae94d8e1e57c479e5b26ea9124817de33b72e.jpg",
+        "table_caption": [
+            "Table 2 Comparison of classification accuracy between this method and "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">genetic algorithm/%</td></tr><tr><td>数据集</td><td>本文方法 GA_SVM算法</td></tr><tr><td>Iris</td><td>100.00±0.00 100.00±0.00</td></tr><tr><td>Dermatology</td><td>99.00±1.66 96.19±1.24</td></tr><tr><td>Glass</td><td>86.10±1.97 85.60±1.96</td></tr><tr><td>Handwrite</td><td>95.56±2.34 94.80±3.32</td></tr><tr><td>Ionosphere</td><td>99.43±1.21 98.56±2.03</td></tr><tr><td>WDBC</td><td>91.59±2.14 88.10±2.25</td></tr><tr><td>WPBC</td><td>83.84±5.14 81.50±7.13</td></tr><tr><td>Wine</td><td>99.00±2.11 98.00±3.50</td></tr><tr><td>Thyroid-disease</td><td>88.24±1.47 84.06±3.54</td></tr><tr><td>Heart disease</td><td>99.60±0.71 99.30±0.82</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对当前大数据维度爆炸、计算复杂度高等问题，本文提出了一种基于遗传算法的大数据特征选择算法，以消除大数据集中的冗余特征，提升特征子集的选择准确率。在10个UCI数据集上进行实验发现，相比其他的特征选择算法，本文算法能够有效地提升大数据分类的准确率，并减少特征子集的特征数量。同时，本文算法特征选择的稳定性也有一定程度的改善。综合而言，本文的特征选择算法能够高效准确地获取大数据特征子集，能够显著降低大数据后续分析、处理的计算复杂度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3本文方法和不带特征染色体遗传算法的实验结果",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5dfc8f5238a0f681cb8f997f321e2d94c8f64bcf3e71a8f98e57c607578e89a.jpg",
+        "table_caption": [
+            "Table1Select UCI data sets for testing ",
+            "Table 3Experimental results of this method and genetic algorithm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">without characteristic chromosom</td></tr><tr><td>数据集</td><td></td><td colspan=\"2\">本文方法</td><td colspan=\"2\">ReliefF 算法</td></tr><tr><td></td><td>特征数</td><td></td><td></td><td>分类准确率%选择的特征数分类准确率%选择的特征数</td><td></td></tr><tr><td>Iris</td><td>4</td><td>100.00±0.00</td><td>1.2±0.28</td><td>96.00±3.44</td><td>1.8±0.38</td></tr><tr><td>Dermatology</td><td>34</td><td>99.00±1.66</td><td>13.9±3.45</td><td>98.57±2.02</td><td>15.4±3.32</td></tr><tr><td>Glass</td><td>9</td><td>86.10±1.97</td><td>3.7±1.26</td><td>81.97±5.34</td><td>5.1±1.63</td></tr><tr><td>Handwrite</td><td>255</td><td>95.56±2.34</td><td>11.2±1.71</td><td>91.74±2.32</td><td>12.3±2.72</td></tr><tr><td>Ionosphere</td><td>34</td><td>99.43±1.21</td><td>10.3±1.76</td><td>94.80±2.10</td><td>11.8±3.33</td></tr><tr><td>WDBC</td><td>30</td><td>93.59±2.14</td><td>6.2±1.12</td><td>91.11±2.58</td><td>7.0±1.05</td></tr><tr><td>WPBC</td><td>33</td><td>93.84±3.18</td><td>2.5±0.88</td><td>90.04±5.14</td><td>2.9±0.99</td></tr><tr><td>Wine</td><td>13</td><td>100.00±0.00</td><td>4.2±0.50</td><td>99.44±1.76</td><td>4.6±0.72</td></tr><tr><td>Thyroid-disease</td><td>5</td><td>88.24±1.47</td><td>2.8±0.99</td><td>81.43±7.29</td><td>3.2±1.14</td></tr><tr><td>Heart disease</td><td>13</td><td>89.60±0.71</td><td>5.2±2.15</td><td>86.81±3.64</td><td>6.7±3.16</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]周琪．特征选择与特征学习算法研究[D].合肥：中国科学技术大学, 2017.(Zhou Qi. Research on feature selection and feature learning algorithm [D].Hefei: University of Science and Technology of China,2017.)   \n[2] 张钧波．面向大数据的高效特征选择与学习算法研究[D]．成都：西南 交通大学,2015.(Zhang Junbo.Research on efficient feature selection and learning algorithms for big data [D]. Chengdu: Southwest Jiaotong University, 2015.)   \n[3]李俊．基于智能优化的特征选择及分类方法研究[D].武汉：武汉大学, 2014.(Li Jun.Research on feature selection and classification based on intelligent optimization algorithms [D].Wuhan: Wuhan University,2014.)   \n[4]吕辉．基于大数据和高维数据的聚类方法的研究与设计实现[D].昆 明：云南大学,2015.(Lyu Hui.Research and design of clustering method based on big data and High-dimensional data s [D]. Kunming: Yunnan University,2015. )   \n[5]王翔，胡学钢．高维小样本分类问题中特征选择研究综述[J].计算机 应用,2017,37 (9): 2433-2438.(Wang Xiang，Hu Xuegang. Overview on feature selection in high-dimensional and small-sample-size classification [J]. Journal of Computer Applications,2017,37(9): 2433-2438.)   \n[6]巢秀琴，李炜．基于改进多目标人工蜂群算法的特征选择方法[J].计 算机科学与探索,2018,16(1):71-78.(Chao Xiuqin,LiWei.A feature selection method optimizedby artificial bee colony algorithm [J].Journal of Frontiers of Computer Science and Technology,2018,16 (1):71-78.)   \n[7] 谢娟英，谢维信．基于特征子集区分度与支持向量机的特征选择算法 [J].计算机学报，2014,37(8):1704-1718.(Xie Juanying,Xie Weixin. Several feature selection algorithms based on the discernibility of a feature subset and SupportVector machines [J]. Chinese Journal ofComputers,2014, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "37 (8): 1704-1718.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[8]Hancer E,Xue Bing,Zhang Mengjie,et al.Pareto front feature selection based on artificial bee colony optimization [J].Information Sciences,2018, 422 (1): 462-479. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[9]关晓颖，陈果，林桐.特征选择的多准则融合差分遗传算法及其应用 [J].航空学报,2016,37(11):3455-3465.(Guan Xiaoyin,Chen Guo,Lin Tong.Feature selectionmethod based on differential evolution and genetic algorithm with multi-criteria evaluation and its applications [J].Acta Aeronautica et Astronauticas Sinica,2016,37(11): 3455-3465.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[10]赵荣珍，李坤杰．基于类内类间判据与遗传算法的故障特征选择方法 [J]．兰州理工大学学报,2017,43(2):35-39.(Zhao Rongzhen;Li Kunjie. Fault feature selection method based on within-class and among-class criterion and genetic algorithm [J].Journal of Lanzhou University of Technology,2017,43 (2):35-39.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11]王娜.基于遗传算法的混合特征选择方法研究[D]．西安：陕西师范大",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "学,2015.(Wang Na. Study on hybrid feature selection method based on genetic algorithm [D]. Xi'an: Shaanxi Normal University,2015.)   \n[12]陈磊．文本表示模型和特征选择算法研究[D].合肥：中国科学技术大 学，2017.(Chen Lei.Text representation model and feature selection algorithm [D].Hefei: University of Science and Technology ofChina,2017.)   \n[13]Murphy P M,Aha D W.UCI repository of machine learning database [DB/OL]. (2006-05-12) .http://www. ics.uci. edu/mlearn/MLRepository. html.   \n[14] Huang C，Wang C.A GA-based feature selection and parameters optimization for support vector machines [J].Expert Systems with Applications,2016,31 (2): 231-240.   \n[15]伍杰华．基于RReliefF特征选择算法的复杂网络链接分类[J].计算机 工程，2017，43 (8):208-214.(Wu Jiehua.Complex network link classification based on RReliefF feature selection algorithm [J].Computer Engineering,2017,43(8):208-214.) ",
+        "page_idx": 4
+    }
+]

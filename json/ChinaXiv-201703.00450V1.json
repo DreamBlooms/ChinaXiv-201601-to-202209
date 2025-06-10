@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "单级跨音压气机非定常伴随气动优化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马灿苏欣荣袁新(清华大学热科学与动力工程教育部重点实验室，北京100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在多排叶轮机械中，动静叶干涉会在流场中产生强烈的非定常效应。公开文献中现有的多排叶轮机械气动优化设计均采用基于混合平面法的定常模型，无法考虑流动的非定常特性。本文采用课题组自行开发的多排叶轮机械非定常伴随气动优化系统，对某单级跨音压气机动叶进行了非定常气动优化设计，优化过程中采用谐波平衡法高效求解非定常流场和非定常伴随场。优化目标为降低压气机级的进出口熵增，同时限制流量和压比不低于原始设计，并控制叶片最大厚度的变化幅度。优化结果表明，本文伴随气动优化系统能够高效地对多排叶轮机械进行非定常气动优化设计。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词非定常流动；气动优化；伴随方法；压气机中图分类号：TK472 文献标识码：A 文章编号:0253-231X(2017)03-0504-05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unsteady Adjoint Aerodynamic Optimization of a Transonic Compressor Stage ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Can SU Xin-Rong YUAN Xin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Key Laboratory for Thermal Science and Power Engineering of Ministry of Education, Tsinghua University; Beijing 100084，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract In multi-row turbomachinery,the blade row interactions would impose strong unsteadiness in the flow field. However,to the authors’best knowledge,allprevious works on the aerodynamic optimization of multi-row turbomachinery are based on the steady mixing-plane model, which is not able to capture the unsteady fow features. In this work, the unsteady aerodynamic optimization of a transonic compressor stage is carried out with an in-house adjoint aerodynamic optimization system for multi-row turbomachinery.The harmonic balance method is used to effciently solve the unsteady fow equations and the unsteady adjoint equations. The optimization target is to minimize the entropy generation from the stage inlet to the outlet，with no-decreasing mass flow rate and total pressure ratio. An additional geometric constraint is applied on the variation magnitude of the maximum blade thickness. Results show the efficiency and capability of the unsteady adjoint aerodynamic optimization system for multi-row turbomachinery. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsunsteady flow; aerodynamic optimization; adjoint method; compressor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于伴随方法的梯度类优化算法在叶轮机械气动优化设计中得到了广泛应用[1-3]。实际的叶轮机械优化问题中设计变量一般较多，由于伴随方法的计算量与设计变量数目呈弱相关，采用伴随方法能够高效地求解优化所需的梯度信息。因此，现有的叶轮机械梯度类优化设计中大部分采用伴随方法。伴随方法分为连续型伴随方法和离散型伴随方法两类。通常，离散型伴随方法的梯度计算精度高于连续型伴随方法[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在多排叶轮机械中，流动本质上是非定常的，采用定常模型计算会存在较大误差，尤其是当叶片排数目较多时[5]。但公开文献中现有的针对多排叶轮机械的气动优化设计均采用定常模型计算，无法考虑流动的非定常特性。为了提高优化系统的可靠性，本文采用课题组自行开发的结构化有限体积求解器[建立了基于离散型伴随方法的多排叶轮机械非定常气动优化设计系统，并将其应用于单级跨音压气机二维叶型的非定常气动优化设计。为了提高求解效率，非定常求解采用了谐波平衡法[7]。优化结果表明，本文伴随气动优化系统能够高效地对多排叶轮机械进行非定常气动优化设计。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数值方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1流动控制方程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑有限体积方法，守恒型的Navier-Stokes 方程可写成以下形式",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\pmb { U } } { \\partial t } + \\pmb { R } ( \\pmb { U } ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\boldsymbol { \\mathbf { \\mathit { U } } }$ 为守恒变量",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { U } = \\left( \\rho , \\rho u , \\rho v , \\rho E \\right) ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle { R }$ 为空间残差项，由对流项 $ { \\boldsymbol { F } } _ { \\mathrm { c } }$ 和黏性项 $ { \\boldsymbol { F } } _ { \\mathrm { v } }$ 组成",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { 1 } { V } \\sum _ { i } \\left( F _ { \\mathrm { { c } } } - F _ { \\mathrm { { v } } } \\right) \\cdot n _ { i } S _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $V$ 为单元体积， $\\mathbf { \\delta } _ { \\mathbf { \\boldsymbol { n } } _ { i } }$ 为单元面法向， $S _ { i }$ 为面积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用谐波平衡法时，非定常流动用有限项傅立叶级数近似，求解耗时相对于传统时间推进法能降低一到两个量级[8]。设非定常流动角频率为 $\\omega$ ，有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial U } { \\partial t } = \\sum _ { k } \\mathrm { i } k \\omega \\hat { U } _ { k } \\mathrm { e } ^ { \\mathrm { i } k \\omega t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中,i为虚数单位，e为自然对数的底数。在谐波平衡法中，波数 $k$ 根据流场中非定常扰动的能量分布选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在一个周期内考虑时间序列 $t _ { j }$ ， $j = 0 , 1 , \\cdots , 2 N$ 记",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { U } ^ { * } = [ \\pmb { U } _ { 0 } , \\pmb { U } _ { 1 } , \\cdot \\cdot \\cdot , \\pmb { U } _ { 2 N } ] ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { U ^ { * } = E \\hat { U } , \\quad E _ { k , j } = \\mathrm { e } ^ { \\mathrm { i } k \\omega t _ { j } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\pmb { U } ^ { * } } { \\partial t } = \\pmb { D } \\pmb { U } ^ { * } = \\pmb { E } \\left[ \\begin{array} { c c c c } { \\ddots } & & & \\\\ & { \\mathrm { i } k \\omega } & \\\\ & & { \\ddots } \\end{array} \\right] \\pmb { E } ^ { - 1 } \\pmb { U } ^ { * }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "应用谐波平衡法，式(1)变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD { \\cal U } ^ { * } + { \\cal R } \\left( { \\cal U } ^ { * } \\right) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2离散型伴随方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "离散型伴随方法从离散型控制方程出发推导相应的伴随方程。假设设计变量为壁面网格点坐标 $x$ 记目标函数为 $J ( W , x )$ ，其中 $W$ 为原始变量",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\boldsymbol { W } } = ( \\rho , u , v , p ) ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目标函数对设计变量的梯度可写成",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } J } { \\mathrm { d } x } = \\frac { \\partial J } { \\partial x } + \\frac { \\partial J } { \\partial W } \\frac { \\partial W } { \\partial x }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于定常流动，流动控制方程为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R \\left( W , x \\right) = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过引入伴随变量 $\\pmb { A }$ 满足伴随方程",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { A } ^ { \\mathrm { T } } \\frac { \\partial \\boldsymbol { R } } { \\partial \\boldsymbol { W } } = \\frac { \\partial J } { \\partial \\boldsymbol { W } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式 (10)变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { d } J } { \\mathrm { d } x } } = { \\frac { \\partial J } { \\partial x } } - A ^ { \\mathrm { T } } { \\frac { \\partial R } { \\partial x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "求解伴随方程（12）得到 $\\boldsymbol { \\mathbf { \\mathit { \\Pi } } } _ { A }$ 后，可通过式(13)高效地计算目标函数对设计变量的梯度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于非定常流动，当流动方程采用谐波平衡法离散时，伴随方程在式(12)的基础上添加物理时间项，形式变为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal A } ^ { * \\mathrm { T } } { \\cal D } \\frac { \\partial U ^ { * } } { \\partial W ^ { * } } + { \\cal A } ^ { * \\mathrm { T } } \\frac { \\partial R ^ { * } } { \\partial W ^ { * } } = \\frac { \\partial J } { \\partial W ^ { * } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { A } ^ { * } = [ \\pmb { A } _ { 0 } , \\pmb { A } _ { 1 } , \\cdot \\cdot \\cdot , \\pmb { A } _ { 2 N } ] ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { W } ^ { * } = [ \\pmb { W } _ { 0 } , \\pmb { W } _ { 1 } , \\cdot \\cdot \\cdot , \\pmb { W } _ { 2 N } ] ^ { \\mathrm { T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中，流动方程与伴随方程均采用课题组独立开发的结构化有限体积代码求解。对于流动方程，对流项计算使用三阶WENO迎风格式[9]，黏性项计算采用二阶中心格式，湍流模型使用一方程SpalartAllmaras模型。伴随方程推导过程中未考虑湍流变量对湍流黏度的影响，即采用定涡黏性（ConstantEddy-Viscosity）近似，本文伴随求解器对黏性流动的精度已经过验证[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3优化系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文建立的优化系统如图1所示，在每一个优化循环中需要求解一次非定常流动方程，并根据目标函数和流场约束条件的个数求解数次非定常伴随方程。本文优化算法采用商业代码 SNOPT[11]中提供的SQP(Sequential Quadratic Programming)算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文优化系统中，参数化几何建模采用FFD(Free-Form Deformation）方法[12]。以二维问题为例，FFD方法定义了一个矩形控制体内所有点的位置变化。该方法数学形式简单，能够很方便地得到控制点坐标与几何体坐标之间的梯度信息，特别适用于梯度类优化方法。图2给出了通过FFD方法修改压气机尾缘几何形状的示意图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初始设计CFD 伴随方程 aJ awaWaRSxM 网格变形网格变形 0JOW OR OxMWOR OxMOxF8xF参数化几何建模参数化几何建模Sxp 优化算法 J OW OR OxMOxF W OR OxM OxFOxD 最优设计",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f09e03820cdcae2f7e0e0563222de845ac85482012bdf2e14948ceade9e1573a.jpg",
+        "img_caption": [
+            "Fig.1 Optimization system flow chart ",
+            "图2优化系统示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "几何体形状发生改变后，需要对计算域内部的网格点坐标进行调整。本文采用距离反比加权插值方法调整计算域内部的网格点坐标，任意内部网格点的位移 $\\delta d$ 为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta { \\bf d } = \\left( \\sum _ { i } \\left( \\delta d _ { i } / r _ { i } ^ { p } \\right) / \\sum _ { i } ( 1 / r _ { i } ^ { p } ) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\delta d _ { i }$ 为几何体表面及网格边界点的位移， $\\boldsymbol { r } _ { i }$ 为内部网格点到前述网格点的距离， $p$ 为插值阶数。网格调整过程中进出口、周期性边界保持固定，网格块之间的连接边界随内部网格点移动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2优化结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气动优化设计对象为某单级跨音压气机[13]中截面动叶的型线，其几何及气动参数如表1所示。优化采用的网格单元数为1.0万，原始网格二维截面如图3所示。优化选取的工况点为最高效率工况，原始设计压比为1.28，等熵效率为 $9 3 . 4 9 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1压气机二维截面参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/82c2e7294f6b0f661dcd194ce1b2f2372baa03da22a811bb70a58a017daf337a.jpg",
+        "table_caption": [
+            "Table 1 Parameters of the 2D slice of the compressor stage "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>几何及气动参数</td><td>动叶</td><td>静叶</td></tr><tr><td>弦长c/mm</td><td>53.0</td><td>29.5</td></tr><tr><td>栅距p/mm</td><td>32.8</td><td>15.3</td></tr><tr><td>雷诺数Rec</td><td>4.9×105</td><td>3.4×105</td></tr><tr><td>出口马赫数Ma</td><td>0.51</td><td>0.34</td></tr><tr><td>平动速度u/(m/s)</td><td>229</td><td>0</td></tr><tr><td>求解基频f/Hz</td><td>1.5×104</td><td>7.0×103</td></tr><tr><td>折合频率Fred</td><td>4.5</td><td>1.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "几何造型过程中固定前缘和尾缘，只对中间部分叶型进行参数化造型，从而保证叶片安装角、折转角和弦长不变。FFD控制体的阶数为 $8 { \\times } 8$ ，如图4所示。为保证叶型在交界点处一阶连续，靠近控制体边缘的两排控制点在优化过程中保持固定，实际活动的控制点有32个，共64个设计变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b769bdef0f2e86301bf2228dc4b508f6b38c97d732d96641e6d5ea8cc605c989.jpg",
+        "img_caption": [
+            "图1优化系统示意图",
+            "图3单级压气机网格 (每2点显示1点)"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a99eae6946cf6d3e91d0c5ffd76e41a08ec2f3b9d386cb85f079caf01dd4b875.jpg",
+        "img_caption": [
+            "Fig.2 Optimization system flow chart ",
+            "Fig.3 Mesh of the compressor stage (shown every two points) ",
+            "图4压气机动叶FFD 控制体Fig.4 FFD control grid of the compressor rotor"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "非定常优化的目标函数为计算域出口相对于进□的时均熵增",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta s = \\frac { 1 } { T _ { \\mathrm { s } } } \\int _ { 0 } ^ { T _ { \\mathrm { s } } } \\frac { \\displaystyle \\sum _ { s _ { \\mathrm { o u t } } } } { \\rho } u _ { n } s S _ { i } \\displaystyle \\sum _ { s _ { \\mathrm { o u t } } } \\rho u _ { n } S _ { i } \\mathrm { d } t - \\medskip\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $T$ 为周期，下标s和 $\\mathrm { ~  ~ r ~ } { }$ 分别代表静叶和动叶。优化目标是降低时均熵增，并对流量、压比进行限制，要求优化后流量、压比均不降低，同时限制叶片最大厚度变化幅度不超过 $0 . 1 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "非定常优化过程中参数变化历史如图5所示。优化过程中进行了179次流动方程求解，72次伴随方程求解，求解时只考虑每排叶片中的基频。在In-telXeonX5690CPU上使用6个进程并行，耗时54h。优化后熵增降低了 $1 1 . 4 7 \\%$ ，流量、压比均未降低，叶片最大厚度减小 $0 . 1 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/22417a60c29ef29f82bef4280509a75b36c3fa7c38db3f04965c20f830e9f74e.jpg",
+        "img_caption": [
+            "图5非定常优化参数变化历史 Fig.5History of the unsteady optimization "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作为对比，同时采用混合平面法进行了定常优化，目标函数为进出口熵增，约束条件与非定常优化相同。优化耗时 $2 . 6 \\mathrm { ~ h ~ }$ ，非定常优化的耗时约为定常优化的21倍。定常优化与非定常优化前后的压气机级性能参数变化对比如表2所示。两组优化结果相差不大，等熵效率仅相差 $0 . 0 1 \\%$ 。由于本文算例中静叶对上游动叶的影响较小，动叶中的流场非定常效应很弱，因此两组优化结果相似是符合预期的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2优化后性能参数变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5397a22f9715c9d535da1024de0ea3d8230f80c33b5b692d559541426e3ea71.jpg",
+        "table_caption": [
+            "Table 2 Performance variationsafter optimization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>定常优化</td><td>非定常优化</td></tr><tr><td>熵增</td><td>11.54%↓</td><td>11.47%↓</td></tr><tr><td>流量</td><td>0.62%↑</td><td>0.71%↑</td></tr><tr><td>压比</td><td>0.05%↑</td><td>0.06%↑</td></tr><tr><td>等熵效率总一总</td><td>0.72%↑</td><td>0.71%↑</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "优化前后动叶叶型及叶片表面时均压力系数分布如图6所示。压力系数定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { p } = ( p - p _ { \\mathrm { i n } } ) / ( p _ { t , \\mathrm { i n } } - p _ { \\mathrm { i n } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "非定常优化与定常优化结果的叶型和表面压力分布都基本一致，优化后叶片在 $5 \\%$ 到 $4 0 \\%$ 轴向弦长之间负荷明显增加，而在 $4 0 \\%$ 到 $8 0 \\%$ 轴向弦长之间负荷明显降低。同时，叶片前半部分厚度有所增大,后半部分厚度有所减小，从叶片强度的角度考虑，这一厚度变化有利的。最大厚度位置从约 $5 8 \\%$ 轴向弦长处向上游移动到约 $4 8 \\%$ 轴向弦长处。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5c90603c79dbd60ad98dbe4e6ea62ed6f06e19c0cfdf4768464ff0a044d8592.jpg",
+        "img_caption": [
+            "图6优化前后动叶叶型及表面压力分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "非定常优化前后的瞬时相对马赫数和熵分布对比如图7所示，图中结果采用谐波平衡法计算得到，每排叶片中计算的谐波数为5。原始设计在动叶吸力面近前缘附近存在局部超音区域，峰值马赫数达到1.4，同时熵值较大，最高达到 $1 6 ~ \\mathrm { J ~ k g ^ { - 1 } ~ K ^ { - 1 } }$ ；优化后该区域峰值马赫数降低到1.1，同时最高熵值降低到 $8 \\mathrm { J } \\mathrm { k g ^ { - 1 } } \\mathrm { K ^ { - 1 } }$ ，损失明显降低。另一方面，优化后动叶尾迹也明显变窄，同时尾迹区内的熵值明显降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/89517a87aa7e4b78cd012a75d370da652b21d3232be5b6bdae3bf2dc99750767.jpg",
+        "img_caption": [
+            "Fig.6 Rotor blade profiles and surface pressure distributions before and after optimization ",
+            "(a)原始设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/416455d16f2d89cc9a42b3e4e81f8df2c52fd400e55abfb37fab707972786202.jpg",
+        "img_caption": [
+            "图7瞬时相对马赫数、熵分布 Fig.7 Instantaneous relative Mach number and entropy distributions:(a) original design;(b) unsteady optimal design "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文以课题组自行开发的结构化有限体积求解器为基础，搭建了基于离散型伴随方法的多排叶轮机械非定常气动优化设计系统，对单级压气机动叶进行了二维型线优化设计。优化后压气机级熵增降低了 $1 1 . 4 7 \\%$ ，等熵效率提高了 $0 . 7 1 \\%$ ，同时压比、流量不低于原始设计，叶片最大厚度变化不超过 $0 . 1 \\%$ 。优化后动叶前半部分负荷提高，同时厚度增大；后半部分负荷降低，同时厚度减小。优化后动叶吸力面近前缘附近的局部超音区域马赫数及熵值明显降低，同时动叶尾迹也明显变窄，尾迹区内熵值明显降低。作为对比，同时采用混合平面法进行了定常优化。由于本文算例中静叶对上游动叶的影响较小,动叶中的流场非定常效应很弱，因此两组优化结果相似，非定常优化的耗时仅为定常优化的21倍。优化结果表明当前伴随优化系统能够高效地针对叶轮",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "机械内部非定常流动进行气动优化设计。",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Feng Z P,Li H T,Song L M,et al. Aerodynamic Inverse Design Optimization for Turbine Cascades Based on Control Theory [J]. Science China Technological Sciences, 2013,56(2):308-323   \n[2] 李伟伟,季路成,伊卫林.基于伴随方法的多级叶轮机三维叶 片优化设计[J].工程热物理学报,2014,35(11):2164-2167 LI Weiwei, JI Lucheng,YI Weilin.Blade Shape Optimization of Multistage Turbomachinery by Adjoint Method [J].Journal of Engineering Thermophysics , 2014, 35(11): 2164-2167   \n[3] Luo J, Zhou C,Liu F.Multipoint Design Optimization of a Transonic Compressor Blade by Using an Adjoint Method [J].Journal of Turbomachinery, 2013,136(5): 51005   \n[4] Nadarajah S, Jameson A.A Comparison of the Continuous and Discrete Adjoint Approach to Automatic Aerodynamic Optimization [Cl// 38th Aerospace Sciences Meeting and Exhibit.Reno,NV,USA:AIAA,2000   \n[5] Denton J.Some Limitations of Turbomachinery CFD [C]// Proceedings of ASME Turbo Expo 2010. Glasgow, UK:ASME,2010:GT2010-22540   \n[6]Su X,Yuan X.Implicit Solution of Time Spectral Method for Periodic Unsteady Flows [J]. International Journal for Numerical Methods in Fluids,2010, 63(7): 860-876   \n[7] Hall K C,Ekici K.Multistage Coupling for Unsteady Flows in Turbomachery [J].AIAA Journal, 2005,43(3): 624-632   \n[8] Gopinath A.Efficient Fourier-Based Algorithms for TimePeriodic Unsteady Problems [D].USA: Stanford University, 2007   \n[9] Su X,Sasaki D,Nakahashi K. On the Efficient Application of Weighted Essentially Nonoscillatory Scheme [J].International Journal for Numerical Methods in Fluids,2013, 71(2): 185-207   \n10] Ma C, Su X,Gou Jet al. Discrete Adjoint Solution of Unsteady Turbulent Flow in Compressor [C]//Proceedings of ASME Turbo Expo 2015.Montreal, Canada:ASME, 2015:GT2015-42948   \n11] Gill P E,Murray W,Saunders M A. SNOPT:An SQP Algorithm for Large-Scale Constrained Optimization [J]. SIAM Review,2005,47(1): 99-131   \n12] Sederberg T W,Parry S R.Free-Form Deformation of Solid Geometric Models [C]// ACM SIGGRAPH Computer Graphics.ACM,1986,20(4):151-160   \n13] Dunker,R. J. Flow Measurements in the Stator Row of a Single-Stage Transonic Axial-Flow Compressor with Controlled Diffusion Stator Blades [R].AGARD CP 351,1983, Paper 23 ",
+        "page_idx": 4
+    }
+]

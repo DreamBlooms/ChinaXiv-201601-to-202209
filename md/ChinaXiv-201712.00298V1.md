@@ -1,0 +1,136 @@
+# BIM+GIS技术在桥梁工程施工中的应用研究
+
+秦利赵科²李鹏云
+
+(1.中铁十二局集团第三工程有限公司，大同 037000；2.石家庄学院，石家庄 050000)
+
+【摘要】首先分析BIM和GIS的技术特征，指出BIM与GIS的结合能够为桥梁施工过程信息管理提供从宏观到微观的形式展现,更好地实现桥梁施工过程数字化、信息化、可视化建设,进一步提升工程项目施工管理水平。然后,结合桥梁工程施工阶段的需求分析，本文采用C/S 系统架构，实现了基于 $\mathrm { B I M } + \mathrm { G I S }$ 的桥梁施工进度、质量、成本的三维数字化管理,将数据库技术、桥梁三维参数化建模、数据共享技术应用于桥梁施工过程管理,实现了桥梁施工过程由3D-BIM到5D-BIM的跨越,为管理者提供更有效的决策支持。最后,分析了工程管理信息化实施效果，并指出 $\mathrm { B I M } + \mathrm { G I S }$ 技术在工程建设中的应用前景。
+
+关键词】BIM；GIS；桥梁；施工管理【中图分类号】TU17；U44；TU71 【文献标识码】A【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.10
+
+桥梁工程的建设过程是复杂多变的，并且综合性很强,具有投资大、周期长、施工管理复杂等特点，这就要求对桥梁施工过程进行信息化管理，以提高工程项目管理的效率和质量[1-3]。在现阶段的施工管理模式中,桥梁施工过程各信息的存储及管理主要依靠传统的文字、表格、图纸等静态二维的形式，这种信息的传递过程都是以一种非常缓慢且孤立的形式进行,不能够对施工信息进行实时掌控[4]。因此，该施工管理模式阻碍了各参与方之间信息的有效传递和实时共享，并降低了施工管理的效率。
+
+随着BIM技术在建筑业的快速发展，其为工程项目的信息化管理开拓了新的道路。BIM以建筑工程项目的各项相关信息数据作为模型的基础，进行建筑模型的建立，通过数字信息仿真模拟建筑物所具有的真实信息[5-8]。BIM具有三维可视化,信息收集、提取协同性等特点，是推动建筑信息化走向更高层的新技术。将BIM技术应用于建筑工程设计、建造、管理能够显著提高工程建造效率，很大程度上减少风险[9-10]。刘智敏等将 BIM 技术应用于桥梁【文章编号】1674-7461(2017)05-0056-06设计阶段，实现了工程项目设计阶段的可视化展示,并有效地提高了工程设计的效率[11]。徐萍飞等利用BIM参数化、集成化的优势，将综合管理数据与BIM模型数据进行集成，提出了基于BIM的工程信息管理框架，实现了工程过程数据的实时共享[12]。韩国 Honam 高速铁路建设中应用 BIM 技术建立了施工综合管理系统，实现了现场的综合管理[13]。通过以往研究,发现对工程项目进行信息化、数字化、可视化管理，可以有效提高项目管理的质量和效率。同时，发现以往研究大多基于BIM单体化微观模型来进行各项工程管理，未能将微观与宏观地形或场景相结合，因此本文将“ $\mathrm { B I M } + \mathrm { G I S } ^ { \prime }$ 技术引入工程信息管理中。GIS技术是集成空间信息的一个容器，是收集、存储、管理、综合分析和处理一切与空间信息的信息系统，可与多种信息分析和处理技术进行集成[14]。‘ $\mathrm { \Delta B I M + G I S } ^ { \prime }$ '技术满足了工程施工微观信息与宏观信息的结合，为此，研究基于“ $\mathrm { B I M } + \mathrm { G I S } ^ { \prime }$ 技术的桥梁施工管理平台，并将其应用于桥梁工程建设的施工阶段具有重要的意义。
+
+# 1 BIM与GIS的技术特点
+
+BIM技术目前主要应用于单体建筑，其属性信
+
+息可以精细到构件级别，具有可视化程度高、建筑信息全面、协调性好等众多优势；但是对于较大型交通工程项目而言，不仅需要道路或桥梁的模型，而且需要其所在地的地形模型及周围的宏观场景，BIM技术的宏观模型建模能力较差、模型数据量大、可视化预处理时间长[15]。GIS 技术经过长期的研究与应用，标准化和数字化程度较高，比较成熟，可以集成大型场景视觉效果与地理信息分析，便于进行实体模型与周围自然环境或地形要素之间的相关性分析[16]。因此,GIS 可以辅助 BIM 模型搭建模型实体周围的地理环境场景，提高BIM模型信息的完备性。
+
+BIM技术在地理位置精确定位、空间地理信息分析和构筑物周边环境展示上，都有很大的缺陷。8而一 维GIS可以完成构筑物地理位置定位和空间分9析，更能完善大场景展示，确保信息的完整性。三维GIS 对构筑物本身的模型精度不够，无法实现建筑单体内部的碰撞和工程量分析。而BIM模型是桥梁构筑物三维空间信息和建筑性能的集成，有助于桥梁建设过程中的信息传递、信息共享和协同工作等特点[17-20] ○
+
+2因此，BIM与GIS技术均存在优势与不足，需要将两者优势互补进行桥梁工程建设。BIM主要用于构筑物内部信息的分析和管理，GIS主要用于管理区域空间，分析空间地理信息数据。将BIM模型数据和GIS地理信息数据存储在云端，实现管理者对工程的远程控制。
+
+# 2BIM在桥梁施工阶段的需求分析
+
+桥梁施工阶段管理重点包括项目的成本、进度和质量管理。成本管理是桥梁施工建设管理中永恒的主题，融入BIM新的管理技术，采用现代化信息管理手段，加强成本管理，把浪费降至最低，节约成本，产生更高的效益。进度管理是桥梁施工工程按时完工的核心，结合BIM的特征，实现资源配置的动态管理,合理规划场地布置，加强进度管控，确保建设工期不延误。质量管理是桥梁项目建设的基本要求，运用BIM技术，从材料抓起层层把关，可视化的建设施工现场，让一切质量隐患无所遁形，提前预防，保证工程质量。
+
+基于BIM的建设环节管理应用体系包含设计环节3D-BIM、4D-BIM进度控制和5D-BIM成本管理。
+
+BIM在高速公路建设环节的全方位应用，使“成本、进度、质量”相互矛盾又相互联系的三个方面取得平衡点，协同发展。基于BIM的桥梁项目建设管理中既能有效地控制工程成本，又能加快工程进度，同时还能保证工程质量。
+
+# 3系统总体架构设计
+
+根据系统的需求分析，系统架构分为数据层、服务层和应用层，系统架构如图2所示。
+
+系统最底层是数据层，其中GIS数据库包括场景所需的地形数据、影像数据及其他矢量数据；三维模型数据库存储了桥梁BIM模型数据；属性数据库存储了与模型相关的属性数据；检测数据主要包括对桥梁及桩基的检测数据；系统数据库包含了角色管理、权限管理、系统日志等系统管理数据；其他数据包括二维图纸、检验批文件及施工日报等数据。将数据层中的数据,如地理信息数据、模型数据、其他业务数据等发布到服务器，实现服务层的布设。
+
+![](images/808953208d0abe9df22830eb9b6fb10c82a6a7df8b190d5940f56bcb09944c0b.jpg)  
+图1建设阶段需求分析
+
+![](images/d11616b3e3f6dab77107643ae9566edc4f90a22364ff51ec7b9afd320a824029.jpg)  
+图2 系统架构
+
+系统应用层主要包含三维分析、信息管理、进度管理、质量管理及成本管理等功能。
+
+# 系统功能实现
+
+一系统主要实现了三维分析、场景漫游、信息管理、进度管理、质量管理及工程量统计等功能，功能实现流程图如图3所示。
+
+# 4. 1 三维分析
+
+三维分析功能为三维场景提供了基本的分析功能，例如场景浏览、单击查询、空间距离量测、面积测量、地形分析和视域分析等功能。
+
+# 4.2 进度管理
+
+施工进度管理是一个由多个环节组成的动态循环过程，包括进度规划、控制和协调，它通过制定工程进度计划，在既定工期内监控工程的进度情况，实时、定期地将实际进度情况与计划进度进行对比，及早发现偏差，分析偏差产生的原因及其对工期的影响程度，然后采取相应的措施并更新进度计划。实现进度控制的总目标是确保工程既定目标工期实现，或者在保证工期质量和不因此增加实际成本的情况下，适当缩短工期。
+
+![](images/3d016aa979953e6a1473beba4d74b7dbbeb989c7c6948956293334116013fbec.jpg)  
+图3系统实现流程  
+图4录入施工计划
+
+2800 福位置名称 模块名称 开始日期 结束日期 预计工作日 计划用量 需要材料位置名称 A匝道 . 道 GF12L 2017//9 2017/8/10 2阿件名称 GTZATET.2 通 208/141 2开始日期 2017/10/22 □ 道 GF7017/10/20 2017/10/21 2道 GFA7_th2 2017/10/24 2017/10/26 P结束日期 2017/10/23 □ 道 F7207/10/27 2017/10/29 3道 GF2_A.70_GL 2017/10/30 2017/11/1 3预计工作日 正通 A7道 GF_A70_C_1 2017/10/22 2017/10/23 2计期用 道 GA6 提示 ：A道 GFA6_o.西村 人一 数据导入成功！请点击“用新”按把进行新道 GFZA68_o1道 GFZ_A,8_0L 确定奋注 通 人EPV道 GFLA5_ZIL 2017/11/23 2017/11/24 2道 GFZA5_h.. 2017/11/15 2017/11/16 2道 GFZ_A52/11/21 2017/11/22 2更新 Bce1导入 20/11 n票 刷新 20/7 20117 的b更道 GFLA5C_1 2017/11/23 2017/11/24 2
+
+![](images/a7da1ae2afcbaed91bb3276d74d237b305ae8a22c7e356f2a5236f7680f7262d.jpg)  
+图5三维形象进度展示
+
+![](images/6e1126a380a08c6efbd6784e40cd5c2ad2e09a3895567f58b56d6e05d1f9b131.jpg)  
+图6施工进度仿真模拟
+
+![](images/5383350359278ebf39907c53b855a35afd0fb6a84cd6f99326034744a8e2e717.jpg)  
+图7进度对比显示
+
+# 4.3 质量管理
+
+质量管理包括连续梁线形监测、桥梁桩基检测，实现对桥梁质量实时跟踪
+
+(1)连续梁线施工线形监测
+
+实现对连续梁的各个监测点的实时监测，包括位移、应力、温度等数据数据监测，以及每个监测点的历史曲线展示。
+
+![](images/6677c2c56dcdc0d363509bce933e4371a2f1274ae84f2be15eed769785d02e66.jpg)  
+图8线性检测数据对比展示
+
+# (2)桥梁桩基检测
+
+2 桩基检测主要实现第三方桩基质量检测的实施管理，实现检测结果的录入，报告上传，显示桩基质量类别，并以不同的颜色对类别进行标注。对桥梁桩基的完工情况和各类别桩基所占比例进行统计，实现桩基检测信息化管理。
+
+![](images/32f8bf6c7b8fc5a887168a5db4d7341f560d4f9d79f5396500223bd4238c4e3f.jpg)  
+图9桩基检测
+
+# 4.4 工程量统计
+
+工程量统计是工程计价的基本依据，也是桥梁设计的核心内容，工程量计算的准确与否直接影响工程造价的准确性，以及工程建设的投资控制。桥
+
+梁设计工程数据统计中设计项目繁多，计算过程复杂，有必要采用一些标准化的方法进行规范和简化。
+
+该模块主要实现了工程量统计，桥梁施工工程量可以根据时间或分包商进行统计。
+
+![](images/4e305ea5d8a8b197427ef80edea9a87602449c390c0b8177e8700f8aef3c85b7.jpg)  
+图10 工程量统计
+
+# 5结论
+
+利用桥梁BIM模型，能够实现桥梁工程建设的精细化管理。集成GIS系统，提高桥梁工程项目的空间地理环境分析能力及对空间地理信息支持。促进BIM与GIS技术的融合，是桥梁建设信息化智能化的必要条件。GIS技术在三维空间应用比较成熟,BIM技术尚在起步阶段。 $\mathrm { B I M } + \mathrm { G I S }$ 平台的应用需要加强数据集成标准化、工程操作协同化。目前，BIM模型数据格式之间的转换已经进一步优化，但还有待提高其标准化程度。因此，提高桥梁建设信息化程度，需要促进BIM与GIS技术的融合，最终提高交通桥梁建设的施工安全质量，实现过程的信息化、可视化管理。
+
+# 参考文献
+
+［1］胡振中，路新瀛,张建平.基于建筑信息模型的桥梁工程全寿命期管理应用框架［J].公路交通科技，2010(s1):20-24.  
+[2］周臻.建设项目信息化管理研究［D].天津大学，2005.  
+[3］蔡炎标.特大型桥梁施工中的项目管理[J].公路，2004(7):184-186.  
+［4］赵常清．道路桥梁施工管理中存在的问题及优化措施[J].黑龙江科学，2014，5(9)：217.  
+[5]LatiffiAA,MohdS,KasimN,etal.Building InformationModeling(BIM)Application in Malaysian Construction In-dustry[J].International Journal of Construction Engineer-ing&Management，2013，2（A）:1-6.  
+[6]Cain L,Hartway B,Thomas D,et al. Construction Manage-mentUtilizing 4D CAd and Operations Simulation Meth-odologies[J].清华大学学报自然科学版（英文版），2008，13(s1):241-247.  
+[7］张洋.基于BIM的建筑工程信息集成与管理研究[D].清华大学，2009.  
+［8］张建平，王洪钧.建筑施工 $ { 4 \mathrm { D } } +  { + }$ 模型与4D项目管理系统的研究［J].土木工程学报，2003，36（3）：70-78.  
+[9］Khosrowshahi F,Ghodous P.Construction SustainabilityThrough Visualisation of Building Operation[M].SpringerInternational Publishing,2016.  
+[10]Rad HN,Khosrowshahi F.Visualisation of building main-tenance through time:Information Visualization，1997.Pro-  
+1struction Management Integrated System Using Bim in TheHonam High-Speed Railway Lot No.4-2[J].2011.  
+[14］周汇光，王宝军，施斌.基于GIS的大型桥梁工程勘察信息管理系统设计[J].桂林理工大学学报，2004，24(2):172-176.  
+[15］马少雄，李昌宁，徐宏，等.基于BIM技术的大跨度桥梁施工管理平台研发及应用[J].图学学报，2017，38(3): 439-446.  
+[16］刘延宏．基于 $\mathrm { B I M } + \mathrm { G I S }$ 技术的铁路桥梁工程管理应用研究[J].交通世界：运输车辆，2015(9)：30-33.  
+[17］吕慧玲，李佩瑶,汤圣君，等.BIM模型到多细节层次GIS 模型转换方法[J].地理信息世界，2016，23（4）：64-70.  
+[18］范登科.BIM与GIS融合技术在铁路信息化建设中的研究［J].铁道工程学报，2016，33（10)：106-110.  
+[19］汤圣君，朱庆，赵君峤.BIM与GIS数据集成：IFC与CityGML建筑几何语义信息互操作技术[J].土木建筑工程信息技术，2014，6(4)：11-17.  
+[20］胡振中，张建平，邓资银.ConstructionProcess Simula-tion and Safety Analysis Based on Building InformationModeland4DTechnology［J].清华大学学报自然科学版（英文版），2008，13（s1)：266-272.
+
+# Research on Applications of BIM $+$ GIS Technology in Bridge Construction
+
+Qin Li $^ 1$ ， Zhao Ke²，Li Pengyun
+
+(1. The 3rd Engineering Co.， Ltd. of China Railway 12 Bureau Group，Datong O37000，China; 2. Shijiazhuang University， Shijiazhuang O5oooO，China)
+
+Abstract：This paper firstlyanalyzes technical characteristics of BIMandGIS,and points out that the combinationof BIM and GIS can exhibit the bridge construction process for construction information management，from macroscopic way to microcosmic way.In this way，the bridge construction processcan beter achieve digitalization, informatization and visualization，which will greatlypromote the construction management level of engineering project.Then，considering the demandanalysis of the bridge construction stage,this paper adopts the C/S system architecture to realize the 3D digital management base on $\mathrm { B I M } + \mathrm { G I S }$ of bridge construction progress on the project schedule，quality and cost.The system applies database technology，3D parametric modeling of bridge and data sharing technology in the bridge construction process management，and realizesa revolution from 3D-BIM to 5D-BIM application in bridgeconstruction，which can ofer stronger decision supports to the managers.Last，the implementation effectof project management informatization isanalyzed inthis paper,through which indicates theapplication prospect of $\mathrm { B I M } + \mathrm { G I S }$ technology in bridge construction engineering.
+
+Key Words:BIM Technology；GIS Technology；Bridge;Construction Management

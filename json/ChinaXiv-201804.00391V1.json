@@ -1,0 +1,311 @@
+[
+    {
+        "type": "text",
+        "text": "蒜头果内生真菌次生代谢产物抑制人类致病菌活性的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖支叶1²，华梅1，原晓龙1，邱坚²，郑科'，王毅1\\*（1.云南省林业科学院云南省森林植物培育与开发利用重点实验室，国家林业局云南珍稀濒特森林植物保护和繁育重点实验室，昆明650201；2.西南林业大学材料工程学院，昆明650224；）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：蒜头果是我国特有的单种属稀有树种。本研究对来自蒜头果的植物内生真菌（白黄笋顶孢霉、哈茨木霉、大棘黑团孢、枝状枝孢菌、斑污拟盘多毛孢、赭绿青霉、淡紫紫孢菌、朱黄青霉、Xenoacremoniumrecifei、Xylaria fejeensis）进行液体培养，10d后回收培养液并用乙酸乙酯萃取获得初提物，采用抑菌圈法检测蒜头果内生真菌初提物抑菌活性，同时测定了最低抑菌浓度（MIC）。结果表明：白黄笋顶孢霉、大棘黑团孢、枝状枝孢菌、斑污拟盘多毛孢、赭绿青霉、淡紫紫孢菌均有抑菌活性，大棘黑团孢、斑污拟盘多毛孢、淡紫紫孢菌的初提物均对缓慢芽孢杆菌、无乳链球菌和藤黄微球菌有明显抗菌活性，最低抑菌浓度在 $1 . 5 6 2 5 \\sim 6 . 2 5 ~ \\mathrm { m g { \\cdot m L ^ { - 1 } } }$ 之间。研究表明蒜头果树皮内生真菌的次生代谢产物具有抗菌活性，各内生真菌次生代谢产物的抗菌效果不同。该研究结果为蒜头果树皮内生真菌的抗菌活性化合物的开发利用奠定了基础。1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒜头果树皮，内生真菌，次生代谢产物，抗菌活性，最低抑菌浓度中图分类号：Q93 文献标识码：A 文章编号：DOl: 10.11931/guihaia.gxzw201708020",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Activity inhibition of human pathogenic bacteria by secondary metabolites from Malania oleifera endophytic fungi ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIAO Zhi-Ye12,HUA Mei', YUAN Xiao-Long1, QIU Jian², ZHENG Kel,WANG ${ \\mathrm { Y i } ^ { * } }$   \n(1.The Key LaboratoryofForest Plants Cultivation and Utilization,The Key Laboratory ofRare and Endangered   \nForest Plants ofState Forestry Administration,Yunnan Academy ofForestry, Yunnan Kunming, 650201,China; 2.SchoolofMaterials Engineering,SouthwestForestry University,Yunnan Kunming,650224,China;) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Malania oleifera is an endemicand rare species in China.In this study,the endophytic fungi (Acrostalagmusluteoalbus，Trichodermaharzianum， Periconiamacrospinosa， Cladosporium cladosporioides，Pestalotiopsis sp.，Penicillium ochrochloron，Purpureocillium lilacinum，Penicillium minioluteum，Xenoacremonium recifei，Xylaria fejeensis） from M.oleifera was cultured in liquid medium. After10 days cultured,the culture medium was colected,and then the crude extract was obtained with ethyl acetate extraction.The inoculating inhibition zone was used to evaluate theantibacterial activity of the crude extract.Meanwhile,the minimum inhibitory concentration (MIC)of antibacterial activity was also detected.The results showed that the crude extract of Acrostalagmus luteoalbus，Periconia macrospinosa， Cladosporium cladosporioides，Periconia macrospinosa，P.ochrochloronandP.lilacinum haveantibacterialactivity,the crude extract of $P .$ macrospinosa, $P .$ maculans,and $P .$ lilacinum have significant antibacterial activity against Bacillus lentus，Streptcococcus agalactiae and Micrococcus luteus.The minimum inhibitory concentration is between 1.5625 and $6 . 2 5 ~ \\mathrm { m g \\cdot m L ^ { - 1 } }$ .This study showed that the secondary metabolites of endophytic fungi of $M .$ oleifera bark had antibacterial activity and the antibacterial effects of secondary metabolites of endophytic fungi were different.This study provides the groundwork to explore and utilize the antibacterial active compoundsof endophytic fungi from $M .$ oleifera bark. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Malania oleifera bark,endophytic fungi,secondary metabolites，antibacterialactivity,the minimum inhibitory concentration ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物内生真菌是指在其生活史的一定阶段或全部阶段生活于健康植物的各种组织和器官内部的真菌(Wiyakruttaetal，2004)，与宿主植物在长期的协同进化过程中建立了和谐共生关系，在生长过程中会产生结构各异的次生代谢产物，一些代谢产物能够协同寄主植物防御病原微生物(Amold etal，2003)，一些可增强植物的抗逆性 (徐范范等，2010)。植物内生真菌是具有高度多样性的微生物资源，是植物生态的一个重要组成部分，其生物多样性及生存环境的特殊性使其产生的活性产物结构类型丰富多样。目前，科研人员已经从植物内生真菌次生代谢产物中分离到黄酮类、萜类、生物碱类、甾体类、多肽、环肽类和醌类化合物，这些不同类型的化合物具有抗菌、抗肿瘤、抗真菌等多种生物活性(孙毓焓等，2016)。例如，从药用植物 Bauhinia guianensis 内生真菌Aspergillus sp．EJCo8中分离得到生物碱FumigaclavineC，该化合物对金黄色葡萄球菌、枯草芽孢杆菌、铜绿假单胞菌和大肠杆菌具有不同程度的抑制活性(Pinheiro etal，2013)；绞股蓝的内生真菌 JY25 对革兰氏阴性细菌的抗菌机制表明，真菌发酵液会影响细胞膜的通透性，使得胞质内容物渗漏，同时影响菌体蛋白合成，从而抑制细菌生长(张慧茹等，2015)。在太平洋短叶紫杉（Taxusbrevifolia）树皮里分离获得内生真菌 Taxomyces andreanae，在半合成液体培养基中生长时能够产生紫杉醇，该化合物具有抗肿瘤活性，被认为是当今世界上广谱、活性最强的抗癌药物(Stierleetal，1993)。这些已经获得的活性化合物具有开发成为新型抗生素的潜能，通过广泛地从植物内生真菌的次生代谢产物中寻找具有活性的化合物，并研发出新型药物可以有效改善细菌耐药性现象。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蒜头果（Malaniaoleifera）为铁青树科（Olacaceae）马兰木属（MalaniaChun etS.Lee）蒜头果，又称山桐果，主要分布在广西西北部和云南东南部的狭窄地带(肖支叶等，2017)，为国家二级珍稀濒危保护树种和重要的野生经济植物(傅立国，1992)。为合理利用蒜头果资源，科研人员已对蒜头果做了化学成分和内生真菌多样性等方面的研究工作(刘雄民等，2007；Tang et al，2013；王毅等，2017)，取得了丰硕的成果。例如，科研人员在蒜头果种皮中提取获得黄酮类化合物，测定出含量；首次从蒜头果种子中分离、纯化获得一种新的植物毒蛋白(Malanin)，并鉴定了蛋白质的性质(Wu etal，2012；袁燕等，2011;Yuan etal，2009)。通过分离纯化并分析不同生境蒜头果的根、树皮及叶组织内生真菌的多样性，发现不同生境对蒜头果根内生真菌的组成及多样性影响显著(王毅等，2017)。目前没有蒜头果内生真菌的抗菌活性的相关研究，而植物内生真菌可产生大量新颖的天然产物有些能够产生与宿主植物相同或相近的次生代谢产物(何佳等，2007)，因此研究蒜头果内生真菌次生代谢产物的抗菌活性有理论与现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究所用10种内生真菌来自于无明显病害的蒜头果树皮，分别为白黄笋顶孢霉、大棘黑团孢、赭绿青霉、枝状枝孢菌、斑污拟盘多毛孢、淡紫紫孢菌、Xenoacremoniumrecifei、Xylaria feejeensis、哈茨木霉、朱黄青霉。液体培养获得乙酸乙酯初提物并分别对13 种致病菌进行活性筛选，以期找到具有抗菌效果的初提物，最后测定各提取物的最低抑菌浓度，为下一步分离提纯活性化合物的研究奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蒜头果树皮采于云南省文山州广南县（ $1 0 5 ^ { \\circ } 0 1 ^ { \\prime } \\mathrm { E }$ ， $2 3 ^ { \\circ } 9 7 ^ { \\prime } \\mathrm { N }$ ），采集时，带上无菌手套用无菌工具将蒜头果健康的树皮采集后放入无菌的离心管内， $\\angle 4 ^ { \\circ } ($ 保存备用。经中国科学院昆明植物研究所彭华研究员对所采集树种进行鉴定为蒜头果（Malaniaoleifera）。乙酸乙酯为分析纯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PDA 培养基：马铃薯淀粉 ${ 5 } \\mathrm { g }$ ，葡萄糖 $2 0 \\ \\mathrm { g }$ ，琼脂 $2 0 \\ \\mathrm { g }$ 。OMA液体培养基：大豆蛋白脉 $2 0 \\mathrm { g }$ ，葡萄糖 $2 0 \\ \\mathrm { g }$ ，蔗糖 $2 0 \\ \\mathrm { g }$ ，酵母提取物 $\\mathrm { ~ 1 ~ g ~ }$ ，分别用水定容至1L，于 $1 2 0 ^ { \\circ } \\mathsf { C } \\mathcal { K }$ 菌20min。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 检测菌种",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金黄色葡萄球菌（Staphylococcus aureus）、蜡样芽孢杆菌（Bacillus cereus）、铜绿假单胞菌（Pseudomonas aeruginosa）、藤黄微球菌（Micrococcus luteus）、枯草芽孢杆菌（Bacillus subtilis）、副溶血性弧菌（Vibrio parahaemolyticus）、短小芽孢杆菌（Bacilluspumilus）、大肠埃希菌（Escherichiacoli）、溶血性葡萄球菌（Straphylococcushaemolyticus）、福氏志贺氏菌（Shigella flexneri）、无乳链球菌（Streptcococcusagalactiae）、缓慢芽孢杆菌（Bacillus lentus）、乙型副伤寒沙门氏菌（SalmonellaparatyphiB）由昆明市食品药品检验所提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3内生真菌的分离与纯化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将新鲜采集的蒜头果树皮用大量自来水清洗表面杂物，再用自来水连续冲洗 $^ { 2 \\mathrm { h } }$ ，尽量除去表面可能的真菌孢子以及细微杂物。再将样品浸泡在 $70 \\%$ 乙醇中表面消毒 $5 \\mathrm { { m i n } }$ 后用 $3 \\%$ 双氧水处理 $7 \\mathrm { m i n }$ ，分别再用 $5 0 ~ \\mathrm { m L }$ 蒸馏水冲洗3次后。用无菌手术刀将消毒处",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "理后的植物组织切成小块，用镊子将组织小块放到含有链霉素 $( 5 0 \\mathrm { m g / u L } )$ 和氨苄青霉素(50$\\mathrm { m g / \\mu L } )$ 的 PDA培养基上，待内生真菌长出菌丝后，将边缘菌丝切下转至新的 PDA培养基上，并经过数次转接后获得纯培养菌株。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4内生菌的鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将纯培养菌株接种到不同培养基上，观察菌落生长速度、大小、产色素情况，初步确定所分离得到内生真菌的种类。用CTAB 法提取分离菌株的DNA，以真菌ITS通用引物(ITS1F 和 ITS4)进行 PCR 扩增，电泳检测 PCR扩增结果后，直接将 PCR产物送测序公司进行测序。将获得的内生真菌ITS序列与NCBI上已有的序列进行blast比对，通过形态和分子鉴定最终确定内生真菌的种名。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5制备提取物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将10 种内生真菌分别转接入OMA液体培养基（大豆蛋白肺 $2 0 \\mathrm { g }$ ，葡萄糖 $2 0 \\mathrm { g }$ ，蔗糖$2 0 \\ \\mathrm { g }$ ，酵母提取物1g）中，于 $2 8 ^ { \\circ } G$ 转速为 $1 5 0 \\mathrm { r m i n } ^ { - 1 }$ 的摇床中培养 $1 0 \\mathrm { d }$ 。过滤培养物，与等体积的乙酸乙酯混合后，超声2次，每次 $3 0 \\mathrm { m i n }$ 。滤去水相，取有机相浓缩培养液收获提取物，萃取2次。分别称取适量提取物，加入DMSO溶解成 $5 0 \\mathrm { m g } \\mathrm { \\cdot m L } ^ { - 1 }$ 提取物母液备用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6检测提取物抑菌活性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "制备检测菌悬浮液：参照(赵能等，2017)的实验方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抑菌实验：纸片法(王军等，2013)。均匀涂布各菌液在LB固体培养基上，分别滴加10$\\mu \\mathrm { L }$ 不同提取物溶液于滤纸片（ $\\scriptstyle { \\varphi = 5 \\ \\mathrm { m m } }$ ）上，一片滤纸片滴加 $1 0 ~ \\mu \\mathrm { L }$ DMSO作为阴性对照，挥干后贴在涂有供试菌的培养基上， $3 7 ^ { \\circ } \\mathrm { C }$ 恒温培养 $2 4 \\mathrm { h }$ 后测量抑菌圈直径，做3次技术性重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测定最小抑菌活性（MIC）：采用二倍稀释法，测定活性提取物的MIC值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1内生真菌的分离",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用组织块分离法，将蒜头果树皮30个组织块分别接种到含有抗生素的PDA固体培养基上，在显微镜下将生长出来的菌丝接种到新的PDA平板上，通过三次转接后，共得到28个菌落均一，菌落边缘整齐的菌株，通过形态观察初步判断得到10种内生真菌。并提取10种内生真菌的DNA,以真菌ITS通用引物进行PCR扩增，测序后首先通过比对分析初步确定属名后，再通过与临近种的ITS构建进化树确定种名（图1），最终结合分子鉴定及形态观察确定从蒜头果树皮中共分离得到10种内生真菌，分别为白黄笋顶孢霉、哈茨木霉、大棘黑团孢、枝状枝孢菌、斑污拟盘多毛孢、赭绿青霉、淡紫紫孢菌、朱黄青霉、Xenoacremonium recifei、 Xylaria feejeensis 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1.基于ITS序列构建的蒜头果树皮内生真菌系统发育树 Fig 1. Phylogenetic tree derived from ITS sequences of endophytic fungi from the bark of Malania oleifera ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2培养液乙酸乙酯萃取得率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 种内生真菌在OMA液体培养所得培养液，经乙酸乙酯萃取2次后得率如表1所示，可以看出，不同内生真菌在相同培养基中培养同等时间后，所得萃取物得率差别明显，所得提取物量均低于 $\\boldsymbol { 0 . 1 \\ \\mathrm { g } }$ ，得率均较低。得率最低的为白黄笋顶孢霉，仅有 $1 5 6 ~ { \\mu \\mathrm { g } } { \\cdot } \\mathrm { m L } ^ { - 1 }$ ；最高的为淡紫紫孢菌，初提物得率能够达到 $8 3 7 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/52e7119fbd80157d7209e6ddc3b521885eae0d600df0446ef7d44c277ac0cc9b.jpg",
+        "table_caption": [
+            "表110种植物内生真菌萃取液得率",
+            "Table1 Ten species of endophytic fungi extraction yield "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>内生真菌 编号</td><td>名称 Name</td><td>提取物净重(g) The net weight of the extract</td><td>得率（μg:mL-¹) Yield(μg:mL-1)</td></tr><tr><td>MoEF09</td><td>白黄笋顶孢霉 Acrostalagmus luteoalbus</td><td>0.0156</td><td>156</td></tr><tr><td>MoEF33</td><td>大棘黑团孢 Periconia macrospinosa</td><td>0.0395</td><td>395</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf1fc457ba190d8d529e4811ea9c8d878b8113350b661ffd558cbf3645c340da.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>MoEF47</td><td>赭绿青霉 Penicilliumochrochloron 枝状枝孢菌</td><td>0.0189</td><td>189</td></tr><tr><td>MoEF44</td><td>Cladosporium cladosporioides</td><td>0.024</td><td>240</td></tr><tr><td>MoEF35</td><td>Xenoacremonium recifei</td><td>0.0293</td><td>293</td></tr><tr><td>MoEF14</td><td>Xylaria feejeensis 斑污拟盘多毛孢</td><td>0.0341</td><td>341</td></tr><tr><td>MoEF27</td><td>Pestalotiopsis maculans 哈茨木霉</td><td>0.0392</td><td>392</td></tr><tr><td>MoEF18</td><td>Trichoderma harzianum 朱黄青霉</td><td>0.0338</td><td>338</td></tr><tr><td>MoEF45</td><td>Penicillium minioluteum 淡紫紫孢菌</td><td>0.0593</td><td>593</td></tr><tr><td>MoEF21</td><td>Purpureocillium lilacinu m</td><td>0.0837</td><td>837</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3活性提取物的MIC ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具有抑菌活性培养物的相应备试液与相应致病菌进行MIC的测定，结果如表2所示。从表2中能够看出，白黄笋顶孢霉、大棘黑团孢、赭绿青霉、斑污拟盘多毛孢、枝状枝孢菌和淡紫紫孢菌的提取物具有抗菌活性。六种内生真菌培养液乙酸乙酯浓缩物的最低抑制浓度各不相同。大棘黑团孢、斑污拟盘多毛孢和淡紫紫孢菌的抑菌范围最为广泛。大棘黑团孢、赭绿青霉、斑污拟盘多毛孢和淡紫紫孢菌对藤黄微球菌表现出明显的抑制活性，斑污拟盘多毛孢和淡紫紫孢菌的次生代谢产物对革兰氏阳性菌的抑菌活性较好，而赭绿青霉的次生代谢产物对革兰氏阴性菌的抑菌活性较好。大棘黑团孢、淡紫紫孢菌和斑污拟盘多毛孢活性均优于其他三种内生真菌。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cb864022a86cb8dd2deda9e7c79972408209477916ea379b38cd430c8e66ba8.jpg",
+        "table_caption": [
+            "表2被试液相应MIC测定 Table 2 The minimum inhibitory concentration of test solution "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">革兰氏阳性菌 Gram-positive bacteria</td></tr><tr><td colspan=\"8\">短小芽</td></tr><tr><td>名称</td><td>蜡样芽</td><td>缓慢芽孢</td><td>无乳链球菌</td><td>孢杆菌 Bumilu</td><td>枯草芽</td><td>金黄色葡 萄球菌 Staphyloc aureus</td><td>藤黄微球</td></tr><tr><td>AL</td><td>3.125</td><td></td><td></td><td>S 1</td><td></td><td></td><td></td></tr><tr><td>PM</td><td>1</td><td>1.5625</td><td>6.25</td><td>=</td><td>12.5</td><td></td><td>3.125</td></tr><tr><td>PO</td><td>1</td><td></td><td>=</td><td></td><td></td><td></td><td>1.5625</td></tr><tr><td>CC</td><td>1</td><td></td><td></td><td></td><td>-</td><td></td><td></td></tr><tr><td>PMa</td><td>1.5625</td><td>3.125</td><td>1.5625</td><td></td><td></td><td></td><td>1.5625</td></tr><tr><td>PL</td><td>6.25</td><td>6.25</td><td>3.125</td><td></td><td></td><td></td><td>1.5625</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b718a1891627ec7680e32b7db918763ca0ea4b417da894e4a1eb2311e20a07f6.jpg",
+        "table_caption": [
+            "续: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">革兰氏阴性菌 Gram negative bacteria</td></tr><tr><td></td><td>副溶血性弧菌</td><td>溶血性葡萄球</td><td>铜绿假单胞</td><td>乙型副伤 寒沙门氏</td><td>福氏志</td><td>大肠埃希</td></tr><tr><td>名称 e</td><td>Vibrio parahaemolyticu S</td><td>菌 Straphylococcu s haemolyticus</td><td>菌 Pseudomona s aeruginosa</td><td>Salmonell a paratyphi</td><td>贺氏菌 a flexneri</td><td>菌 Escherichi a coli</td></tr><tr><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr><tr><td>AL</td><td>6.25</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PM</td><td></td><td></td><td>1.5625</td><td>=</td><td>12.5</td><td>1.5625</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8eadadba8ed1182f61ffa39c96e02acc05eca488c95d7b6f736e3ee080be6f71.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：AL.白黄笋顶孢霉，PM.大棘黑团孢，PO.赭绿青霉，CC.枝状枝孢菌，PMa.斑污拟盘多毛孢，PL代表 淡紫紫孢菌。“-”：无抑菌活性；单位： $\\mathrm { { m g } { \\cdot } \\mathrm { { m L } ^ { - 1 } } }$ 。 Note: AL .Acrostalagmus luteoalbus， PM .Periconia macrospinosa，PO . Penicilium ochrochloron，CC . Cladosporium cladosporioides， PMa.Pestalotiopsis maculans，PL represent Purpureocillium lilacinum. “-\":No inhibition effect; Diameter of inhibition zone: In millimeters; Unit: mg:mL-1. "
+        ],
+        "table_body": "<html><body><table><tr><td>PO</td><td>-</td><td></td><td>1.5625</td><td></td><td>1.5625</td><td>■</td></tr><tr><td>CC</td><td>6.25</td><td></td><td>1</td><td>-</td><td>1</td><td></td></tr><tr><td>PMa</td><td></td><td>1</td><td>3.125</td><td>12.5</td><td></td><td></td></tr><tr><td>PL</td><td>二</td><td>3.125</td><td></td><td></td><td></td><td>二</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2为蒜头果的10种内生真菌对蜡样芽孢杆菌抗菌活性的初步筛选结果图，初提物初始浓度为 $5 0 \\mathrm { m g } \\cdot \\mathrm { m L } ^ { - 1 }$ ，从图中可以看出，在较高的浓度时，大棘黑团孢和赭绿青霉对蜡样芽孢杆菌有抗菌活性，但是当其初提物稀释2次以后，对蜡样芽孢杆菌的活性即明显减弱。大棘黑团孢初提物的抑菌范围最广，稀释后抑菌效果却不明显，说明其次生代谢产物中的活性成分需要达到一定的量才能表现出明显的抑菌活性。表2中仅列出了内生真菌对检测菌种抗菌活性较为稳定且明显的MIC值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图210种内生真菌对蜡样芽孢杆菌抗菌活性的初步筛选 Fig.2 Preliminary screening of antibacterial activity of ten endophytic fungi against Bacillus cereas ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：B1-1.蜡样芽孢杆菌；1.Xylaria fejeensis，2.Xenoacremonium recifei，3.赭绿青霉，4.哈茨木霉，5.白黄 笋顶孢霉，6.淡紫紫孢菌，7.大棘黑团孢，8.枝状枝孢菌，9.斑污拟盘多毛孢，10.朱黄青霉。   \nNote:B1-1.Bacilluscereus；1.Xylaria feejeensis,2.Xenoacremonium recifei,3.Penicillium ochrochloron,4.   \nTrichoderma harzianum,5.Acrostalagmus luteoalbus,6.Purpureocilium lilacinum,7.Periconia macrospinosa,8.   \nCladosporium cladosporioides,9.Pestalotiopsis maculans,10.Penicillium minioluteum. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同生态位的植物内生真菌产生的生物活性代谢产物多种多样。与温带植物内生真菌相比，热带植物内生真菌会产生更多的活性天然产物和更多的次生代谢产物。阿魏酸是从常见的热带雨林植物内生真菌—一小孢拟盘多毛孢中分离得到的一种抗真菌剂（Liet al.2001）；从斯里兰卡的一种濒临灭绝的热带雨林兰花中分离得到一种炭角菌属真菌，该菌会产生抗菌药物烟曲霉酸（Ratnaweera etal.2014）。据报道，烟曲霉酸对耐甲氧西林金黄色葡萄球菌和枯草芽孢杆菌的最低抑菌浓度分别为 $4 ~ { \\mu \\mathrm { g } } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 、 $2 ~ { \\mu \\mathrm { g } } { \\cdot } \\mathrm { m L } ^ { - 1 }$ ，表现出显著的抗菌活性。Cryptocandin 是从药用植物雷公藤内生真菌 $C _ { I }$ yptosporiopsis quercina 中分离并鉴定出的一种肽类抗真菌剂，它不但能抑制灰葡萄孢等一些植物病原真菌,而且还能抑制白假丝酵母等人类病原真菌（Strobeletal,1999）。药用植物鸡冠刺桐内生拟茎点霉属真菌会产生一种新的聚酮内脂 Phomol，有抗菌、抗真菌和抗炎活性（Weber etal,2004）。这些研究表明，有抗菌活性的植物内生真菌来源广泛，是开发新型抗生素和农用药物活性成分的资源宝库。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蒜头果树皮中广泛分布着有抗菌活性的菌株。本研究发现，具有抗菌活性的内生真菌数占总数的 $60 \\%$ ，有些内生真菌次生代谢产物的抑菌效果非常好，其中淡紫紫孢菌是生防菌。研究指出，大棘黑团孢对植物病原真菌—一尖孢镰刀菌有较好的抑菌活性(Ginting etal，2013)，白黄笋顶孢霉对多种植物病原真菌有明显的抑菌或溶菌作用，该菌具有生防菌的必备特质(何苏琴等，2010)。枝孢菌属真菌F14的有机酸——肉桂酸、环肽类化合物一—cyclo-(Phe-Pro)、cyclo-(Val-Pro)对三种污染细菌有抗菌活性，且肉桂酸可有效抑制幼虫的沉降(Qi etal，2009)。在东北红豆杉的树枝中的黑团孢属真菌代谢产生的两种 fusicoccanediterpenes二萜类化合物，具有抗菌活性(Kim etal，2004)。拟盘多毛孢属真菌是红树林内生真菌的重要类群之一，由于一些内生拟盘多毛孢菌能产生重要的代谢产物如紫杉醇(Yangetal,2012)，而引起人们对红树林的关注。来自淡紫紫孢菌的代谢产物中性肽 paecilotoxins有中等的抗菌性(Goncalves etal，2015)。这些研究结果表明，白黄笋顶孢霉、枝孢菌属、黑团孢属、拟盘多毛孢菌属和淡紫紫孢菌分别能够产生生物碱类、有机酸类、二萜类和多肽类抗菌活性物质，因此，该研究的不同真菌提取物的活性成分有可能是此四类抗菌活性物质，可为下一步的分离鉴定提供理论基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究中，淡紫紫孢菌对蜡样芽孢杆菌、缓慢芽孢杆菌、无乳链球菌、藤黄微球菌和溶血性葡萄球菌的抗菌活性，赭绿青霉对铜绿假单胞菌和福氏志贺氏菌的抗菌活性，以及白黄笋顶孢霉、大棘黑团孢、斑污拟盘多毛孢和枝状枝孢菌抗革兰氏阳性菌和阴性菌的活性为首次发现。采用OMA液体培养基培养10种真菌的提取物得率很低，此培养基可能不是活性真菌的最佳培养基。大棘黑团孢的抑菌范围最广，斑污拟盘多毛孢的抑菌活性与Maria 报道的拟盘多毛孢属真菌对枯草芽孢杆菌和铜绿假单胞菌相符(Mariaet al，2005)。大棘黑团孢和斑污拟盘多毛孢初提物在低浓度下，对多种致病细菌仍然具有抑菌效果，具备研发成新型药物先导化合物的潜力。今后，采用单菌多产物策略（OSMAC）发酵活性真菌，进一步探究它们的最优培养条件，再大量培养获得提取物，采用硅胶层析柱离析、通过薄层色谱分析，确定活性化合物的极性，进而分离、纯化并鉴定活性化合物。由于分类地位特殊，蒜头果可能会产生其他多数种群植物中没有的化合物，其树皮内生真菌可能会产生结构新颖、活性多样的化合物，这类天然活性物质是药物的重要来源。据分析1981-2006年间，大约有 $68 \\%$ 的抗生素及 $34 \\%$ 的抗肿瘤药物都直接来自天然产物或是天然产物的衍生物(Newman et al，2007)，而内生真菌次生代谢产物是一类重要的天然产物。因此，将蒜头果树皮内活性真菌代谢产生的活性化合物开发成新型抗生素或绿色农药有潜在的可能性与应用价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ARNOLD AE,MEJIALC, KYLLO D, et al,2003.Fungal endophytes limit pathogen damage in a tropical tree[J]. PROC NAT ACAD SCI USA,100(26):15649-15654.   \nFU LG，1992. Chinese plant red book-rare and endangered plants (Volume 1)[M].Beijing: Science Press, 480. [傅立国，1992.中国植物红皮书—稀有濒危植物(第1册)[M].北京：科学出版社：480.]   \nGONCALVES VN,CARVALHO CR，JOHANN S,et al,2015.Antibacterial,antifungal and antiprotozoal activities of fungal communities present in diferent substrates from Antarctica[J].Polar Biol,38(8):1143- 1152.   \nGINTING RCB, SUKARNO N, WIDYASTUTI U, et al, 2013.Diversity of Endophytic Fungi from Red Ginger (Zingiberofficinale,Rosc.）Plant and Their Inhibitory Effect to Fusarium oxysporum，Plant Pathogenic Fungi[J]. Hayati JBiosci, 20(3):127-137.   \nHEJ,CHEN J,ZHAO QM,et al,20o7.Studyon the antifungal activityof endophytes of Pseudolarix kaempferi Gord[J].JofHenan Agr Sci,36(2):46-49.[何佳，陈钧，赵启美，等，2007.金钱松内生真菌抗植物病原 真菌活性的研究[J].河南农业科学，36(2)：46-49.]   \nHE SQ,JIN XL, WANG SR,2010.Antagonistic activity of Acrostalagmus luteo-albus against plant pathogenic fungi[J].Jof Gansu Agr Uni,45(3):60-65.[何苏琴，金秀琳，王生荣，2010.白黄笋顶孢霉对几种植物病 原真菌的拮抗作用[J].甘肃农大学报，45(3)：60-65.]   \nKIM S,Dongsun Shin,Taeho Lee,et al.20o4,Periconicins,Two new fusicoccane diterpenes produced byan endophytic fungus Periconia sp.with antibacterial activity[J].JNat Pro, 67(3):448.   \nLI JY,HARPER JK,GRANT DM,et al,2001.Ambuic acid,a highly functionalized cyclohexanone with antifungal activity from Pestalotiopsis spp.and Monochaetia sp.[J].Phytochem,56:463-468   \nLIU XM,LI WG,LIPY,etal,2o7.Extractionandchemical componentsof essential oilsof Malania Oleifera Chun[J].Chinese Jof Applied Chemistry,24(8):968-970.[刘雄民，李伟光，李飘英，等，2007.蒜头果挥 发油提取及化学成分分析[J].应用化学，24(8)：968-970.]   \nMARIA GL, SRIDHAR KR, RAVIRAJA NS, 2005. Antimicrobial and enzyme activity of mangrove endophytic fungi of southwest coast of India[J]. J of Agri Tech ,   \nNEWMAN DJand CRAGG GM,2007.Natural products as sources of new drugs over the last 25 years[J]. JNat Prod, 70(3):461.   \nPINHEIRO EA, CARVALHO JM,Dos SANTOS DC,et al,2013.Antibacterial activity of alkaloids produced by endophytic fungus Aspergillus sp.EJCo8 isolated from medical plant Bauhinia guianensis[J]. Nat Prod Res, 27(18):1633-1638.   \nQI SH,XU Y, XIONG HR,et al. 2009,Antifouling and antibacterial compounds from a marine fungus Cladosporium sp. F14[J]. World JMicrobiol Biotechnol,25(3):399-406.   \nRATNAWEERAPB,WILLIAMS DE,SILVA ED,et al,2014.Helvolicacid,anantibacterial nortriterpenoid from a fungal endophyte,Xylaria sp.of orchidAnoectochilus setaceus endemic to SriLanka[J].Mycol,5:23-28.   \nSUN YH,JIANG CY,HE S,etal,2016.Application of secondary metabolites of endophytic fungi in drugs and molecular biology[J]. Hong Kong and Macao economy, (30):117-118.[孙毓焓，姜春艳，贺胜，等，2016. 内生真菌次生代谢产物在药物与分子生物学方面的应用[J].港澳经济，(30)：117-118.]   \nSTROBEL GA,MILLER RV, HessWM, et al,1999.Cryptocandin,a potent antimycotic from the endophytic fungus Cryptosporiopsiscf.quercina[J].Microbiol,145:1919-1929   \nSTIERLE A, STROBEL G, STIERLE D,1993. Taxol and taxane production by Taxomyces andreanae,an endophytic fungus of Pacific yew[J]. Sci, 260(5105):214.   \nTANG TF,LIU X M,LING M,etal,2013.Constituents of the essential oil and fatty acid from Malania oleifera[J]. Ind Crop Prod,43(1):1-5.   \nWIYAKRUTTA S, SRIUBOLMAS N,PANPHUT W,et al,2004.Endophytic fungi withanti-microbial,anticancer and anti-malarial activities isolated from Thai medicinal plants[J].World JMicrobiol Biotechnol, 20(3):265-272.   \nWANG Y, WANG J, WANG SH, et al,2017.Diversity of endophytic fungi of Malania oleifera Chun etLee[J/OL]. GenAppl Biol.[王毅，王娟，王四海，等，2017.蒜头果的内生真菌多样性分析[J/OL].基因组学与应用 生物学.]   \nWEBER D,STERNER O,ANKE T,etal,2004.Phomol, anewantinflammatory metabolite froman endophyteof the medicinal plant Erythrina crista-galli[J].Antibiot,57:559-563   \nWU X D, CHENG JT, HE J, et al,2012.Benzophenone glycosides and epicatechin derivatives from Malania oleifera[J].Fitoterapia, 83(6):1068-1071.   \nWANG J, YAN LK,LI HD, et al, 2013. Identification of Archangium gephyra NX0045 (Myxobacteria) and studyonantimicrobialactivitiesof its metabolites[J].JNorthwest Univ(Natural Science Edition),43(3):437- 441.[王军，闫立昆，李宏铎，等，2013.一株黏细菌Archangium gephyra的鉴定及其代谢产物抑菌活 性的研究[J].西北大学学报：自然科学版，43(3)：437-441.]   \nXU FF,JIN B,DING ZS,2010.Recent studies oil the secondary metabolites produced by medicinal plant endophytic fungi[J].Med Recapi,16(17):2667-2669.[徐范范，金波，丁志山，2010.药用植物内生真菌 产次生代谢产物的研究进展[J].医学综述，16(17)：2667-2669.]   \nXIAO ZY, HUTANG GR,WANG SH,et al,2017.Study on the antimicrobial activity from the crude extracts of roots of Malania Oleifera Chun et LeeJ].JWest China For Sci,46(2):68-73.[肖支叶，胡唐阁然，王四海, 等，2017.蒜头果根粗提取物的抑菌活性研究[J].西部林业科学，46(2)：68-73.]   \nYANG XL, ZHANG JZ,LUO DQ.2012.The taxonomy,biologyand chemistry of the fungal Pestalotiopsis genus[J].NatPro Rep,29(6):622.   \nYUAN Y,LIYP,CAO ZQ,etal,2011. Extractionand content determinationof total flavonoids from Malania oleifera[J].JAnhui Agri.Sci,39(21):12847-12848.[袁燕，李燕萍，曹智启，等，2011.蒜头果中黄酮类 化合物的提取及含量测定[J].安徽农业科学，39(21)：12847-12848.]   \nYUAN Y,DAI X,WANG D,et al,2O09.Purification,characterization and cytotoxicityof malanin,anovel plant toxin from the seedsof Malania oleifera[J].Toxicon,54(2):121-127.   \nZHANG HR,MENG SX,CAO J, et al,2015.Antibacterial mechanisms of endophytic fungi from Gynostemma pentaphyllum on Escherichia coli[J].Microb China,42(1):157-162.[张慧茹，孟素香，曹健，等，2015. 绞股蓝内生真菌抗大肠杆菌抗菌机制的研究[J].微生物学通报，42(1)：157-162.]   \nZHAO N, YUAN XL,HUA M, et al,2017.Antibacterial activity of secondary metabolites from lichen forming fungi[J].Guihaia,37(2):242-247.[赵能，原晓龙，华梅，等，2017.地衣型真菌次级代谢产物抗菌活性 初步研究[J].广西植物，37(2)：242-247.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

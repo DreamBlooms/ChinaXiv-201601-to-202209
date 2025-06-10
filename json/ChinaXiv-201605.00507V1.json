@@ -1,0 +1,575 @@
+[
+    {
+        "type": "text",
+        "text": "Genotype $\\times$ environment interaction analysis of North American shrub willow yield trials confirms superior performance of triploid hybrids ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ERIC S.FABIO1,TIMOTHY A.VOLK²,RAYMONDO. MILLER’,MICHELLE J. SERAPIGLIA1\\*,HUGHG. GAUCH4, KENC.J. VAN REES5,RYAN D. HANGS5,BEYHAN Y. AMICHEV, YULIA A. KUZOVKINA,MICHEL LABRECQUE,GREGG A. JOHNSON’, ROBERTG.EWY $^ { 1 0 }$ ,GARY J. KLING11 and LAWRENCE B. SMART1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1HorticultureectionhoolofIntegratiePlantSience,NeYork StateAgriculturalExperimentStationCorellity Geneva,NY4456,USA²DepartmentoforestandNatual Resources Management,StateUniversityofNew YorkColegeof Enironmentaliencedorestryyrcuse,N2orestissoationCentericiganateiy Escanaba,M82Sldroiencesctioolftegraieantience,ellesityac 14853,USA,DepartmentofSoilSience,Unersityofskatchean,Sskatoon,SKS75A8,Canda,CenterforNrth AgroforestrydforestationesityfskatcheansatoonK8,ndaepartmentoftienc UniversityofConnecticut,Storrs,CO6269,USA,nstitutdeRechercheenBiologie Vegetale,Universityofotreal, Montreal,QCC3J,adaSoutherResearchndutreachenterniesityofnesotaWaseca69 10Departmentof Biology,StateUniersityofNewYorkat otsdam,Potsdam,NY366 $^ { 1 1 }$ Department of Crop Sciences, University ofIllinois,Urbana,IL 61801,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Development ofdedicated bioenergy crop production systems willrequire accurate yield estimates,which willbe important for determining manyof the associated environmental and economic impacts of their production. Shrub willw (Salix spp) is being promoted in areas of the USA and Canada due to itsadaption to cool climates and wide genetic diversity availableforbreeding improvement.Wilow breeding inNorth Americais in an early stage,and selection of elite genotypes for commercialization willrequire testing across broad geographic regions to gain an understanding of how shrub wilow interacts withthe environment.We analyzed a datasetof first-rotation shrub wilow yields of 16 genotypes across 10 trial environments in the USA and Canada for genotype-byenvironment interactions using the additive main effects and multiplicative interactions (AMMI) model. Mean genotype yields ranged from 5.22 to 8.58 oven-dry $\\mathrm { { M g \\ h a } ^ { - 1 } \\ y r ^ { - 1 } }$ . Analysis of the main effect of genotype showed that one round of breeding improved yields by as much as $2 0 \\%$ over check cultivars and that triploid hybrids, most notably Salix viminalis $\\times \\ S$ .miyabeana,exhibited superior yields.We also found important variability in genotypic response to environments, which suggests specific adaptabilitycould be exploited among 16 genotypes for yield gains. Strong positive correlations were found between environment main effects and AMMI parameters and growing environment temperatures. These findings demonstrate yield improvements are posible in one generation and willbe important for developing cultivar recommendations and for future breeding efforts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:AMMI,biomass,ploidy,Salix,short-rotationcoppice,yield ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received6 December2015;accepted18January2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If dedicated bioenergy crops are to play a significant role in climate change mitigation strategies，a clear understanding of yield potential on a regional basis must be established.Development and delivery of highyielding， well-adapted crops isa key underlying assumption in the estimation of bioenergy production capacity in the USA (U. S. Department of Energy,2011). Crop management and breeding will play crucial roles in meeting the challenges of producing more biomass on limited land ina sustainable manner (Karp & Shield, 2008).Shrub willow (Salix spp.） grown in short rotation has shown promise as a viable,regionally based feedstock for marginal land due to its adaptability to cool, moist climates with short growing seasons (Kuzovkina &Quigley，20o5） and large potential forgenetic improvement through breeding (Smart et al.， 2005; Smart & Cameron，2Oo8).This substantial yet mostly underexploitedgeneticvariabilityamong taxais expected to provide a basis for developing key traits desirable for sustainable bioenergy production，both through traditional breeding and with advanced molecular techniques (Karp et al.,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Willow breeding for biomass production has been most extensively researched in the UK (Lindegaard & Barker,1997) and Sweden (Larsson,1998).A thorough account of the global breeding history of shrub willow isprovided by Kuzovkina et al. (2o08).In North America,shrub willow breeding efforts began at the University of Toronto in the early 198Os with collection of native species and exchange of plant material with the UK and European countries (Zsuffa,1990),but efforts were focused largely on hybridizations between North American native species (Mosseler,1990).In the USA, acquisition of plant material from collaboratorsin Canada,as well as China, Japan,New Zealand,Ukraine and Sweden provided the basis of a breeding program focused largely on novel interspecific hybridizations displaying heterosis for biomass yield traits (Kopp et al., 2001;Smart et al.,2005; Smart & Cameron,2012).Polyploidy is common in Salix and novel triploid species hybrids have been linked to improved yields and biomass quality in early selection trials (Smart et al.,2008; Serapiglia et al.，2014，2015)． Cultivar development, however， is a multistage screening process requiring substantial investments in time and resources prior to commercialization (Hanley & Karp,2014).An accurate evaluation of cultivar yield potentials isultimately assessed through testing on multiple sites with a diverse range of environmental characteristics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biomass yield is an important factor determining the environmental and economic impacts associated with growing shrub willow.Life cycle analyses have shown that yield assumptions can significantly impact net energy ratios and greenhouse gas balances (Heller et al., 2003;Keoleian & Volk,2005;Caputo et al.,2014),as well as economic returns on investment and production costs (Buchholz & Volk,2011;Hauk et al.,2014). There have been numerous research trials conducted over the past two decades in regions of the northeastern USA and Central and Eastern Canada that have quantified yields Some studies have analyzed the differential response of genotypetocontrastingenvironmental conditions (Labrecque & Teodorescu，2Oo3；Wang & Macfarlane, 2012;Serapiglia et al.,2013;Mosseler et al.,2014a);however,thelimitednumberof test sitesanduseofdiverse cultivars of various levels of genetic improvement makes it difficult to generalize specific genotypic responses to larger growing regions.Others have summarized mean yields from multiple test sites across geographical regions (Kiernan et al.,2003;Volk et al.,2011), but due to unequal representation of genotypes among trials，little insight into the genotypic contribution to yield variability can be gained.Furthermore,efforts to model yields across broad geographic ranges may use general yield estimates from obsolete cultivars or ones that may not be well adapted for a particular region (Walsh et al.，2003;Wang et al.，2015).Plant breeders and agronomists are therefore challenged with assessing genotypic sensitivity to certain edaphic and climatic conditions.This process is also important for assuring continued improvement within a breeding program and for providing a basis for recommending cultivars for broadscale production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These recommendations become complicated when significant crossovers occur in genotype (GEN） yield rankings，as a response to contrasting environments (ENV). These genotype-by-environment $( \\mathbf { G } \\times \\mathbf { E } )$ interactions are prominent and important phenomena in agriculture, which present bothchallengesand opportunities for plant breeders and agronomists. Selection and deployment of elite cultivars must be based on results of rigorous testing through coordinated multilocation trials, combined with appropriate statistical analyses for assessing the adaptability of genotypes and predicting performance in untested ENV (Annicchiarico, 2002).A long-standing theme in plant breeding is to focus the search for GEN that exhibit stable yields or broad adaptability across ENV in the targeted growing region. This concept was popularized by Finlay& Wilkinson (1963)and Eberhart & Russell (1966)，who developed regression parameters that seek to identify superior yielding GEN that maintain stable performance across ENV.Selection on the basis of stability can help to minimize the complicating effects of $\\mathbf G \\times \\mathbf E$ interactions, adding efficiency to the selection process by focusing resources on material that has the best promise for widespread optimal performance (Eberhart & Russell, 1966). Selection based on stability should also guard against a potentially detrimental tendency to select GEN based on greater yields in only favorable ENV (Simmonds,1991; Annicchiarico,2002).However，when the $\\mathbf G \\times \\mathbf E$ component is strong and meaningful, there is also a counter argument that contrasting performance among GEN can be capitalized upon，and breeding efforts should focus on specific adaptation (Cooper & Hammer,1996; Piepho & Mohring, 2005). Thus, $\\mathbf G \\times \\mathbf E$ interactions are viewed as a useful and informative aspect of cultivar testing,and subdividing a growing region into smaller areas and targeting GEN at those areas can improve overall yields (Gauch & Zobel, 1997). This argument is reinforced by the fact that much of the world's crop production occurs on land that is less favorable than that where the crops were developed (Simmonds，1991；Gauch & Zobel, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1997).As dedicated bioenergy crops are presumably targeted for marginal lands (Richards et al.，2O14; Stoof et al.,2015),perhaps this concept is particularly relevant. The relative merits of these two perspectives, exploiting onlybroad adaptations or else both broad and specific adaptations,vary from case to case and depend substantially on the relative magnitudes of genotype main effectsand $\\mathbf G \\times \\mathbf E$ interaction effects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We present an analysis of $\\mathbf G \\times \\mathbf E$ interactions in firstrotation yields across a network of shrub willow yield trials in North America covering 16 GEN and 10 ENV. The objectives of this studywere(1）to identify shrub willow genotypes with broad adaptability in biomass yield across target growing regions in North America, (2) analyze $\\mathbf G \\times \\mathbf E$ interactions for identifyingand charac terizing specific adaptation of certain genotypes and (3) identify edaphic and climatic variables that are most closely associated with $\\mathbf G \\times \\mathbf E$ interaction patterns.This represents the most comprehensive analysis of North American shrub willow yields to date and will serve as a basis for making cultivar-site matching recommendations and will inform future breeding efforts. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Breeding material and yield trial network ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Foundational breeding material used in developing the GEN tested in these yield trials was obtained from the University of Toronto and from accessions of native and naturalized species collected in the northeastern USA and eastern Canada in the 1980s to mid-1990s (Kopp et al.,2001; Smart & Cameron,2008). Crosses were performed between 1998 and 1999 at SUNY-ESF, and after initial family screening in field trials for biomass yield traits,a group of genetically diverse individuals were deployed inregional yield trials.Between 2005 and 2011,23 trials were established mainly in the northeastern and Midwestern USA and contained between six and 30 genotypes.To provide an unbiased comparison of genotype yields,we restricted our analysis to 16 cultivars (Table 1) that were all present in each of 10 environments (Table 2).The yield trials were planted between 2006and 20o9 and hosted by institutions located in six US states and two Canadian provinces,and the cultivars have been placed into diversity groups based on pedigree.Trials were established and maintained generally in a consistent manner across sites according to a standardized protocol and methods followed those described in Serapiglia et al. (2013) and Volk et al. (2011). Conventional tillage was used to prepare the sites in either the fall or spring prior to planting，which generally occurred between May and June.All trials were planted by hand using dormant $2 5 \\ \\mathrm { c m }$ cuttings sourced from nursery beds at the Tully Genetics Field Station of SUNY-ESF in Tully,NY.Trialswere laid out in a double-row configuration with $1 . 5 2 \\mathrm { ~ m ~ }$ between double rows, $0 . 7 6 \\mathrm { ~ m ~ }$ within the double rows and $0 . 6 1 \\mathrm { ~ m ~ }$ between plants along the row,for a planting density of 14 400 plants $\\mathrm { \\ h a } ^ { - 1 }$ .Within each yield trial, genotype was the experimental treatment and the experimental units were plots consisting of three double rows,each 13 plants long,with the outer double rows serving as border rows.Genotypes were replicated four times in a randomized complete block design. Preemergence herbicides,generally oxyfluorfen $( 1 . 1 ~ \\mathrm { k g }$ ai $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ ） and simazine $( 2 . 2 ~ \\mathrm { k g }$ ai $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ ),were applied prior to budbreak, except at Boisbriand,QC,where no herbicide was used.Periodic mechanical or spot chemical weed control was performed as needed.After the first year of growth,all stems were cut back during dormancy to promote coppice regrowth the following spring,at which time $1 1 2 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 }$ was applied, normally as ammonium sulfate,except for the trial located in Saskatoon, SK, where no fertilizer was applied.Harvests were conducted three years postcoppice (4-year-old root systems) during dormancy, except at Brimley,MI,which was harvested inJulyat 3.5 years postcoppice due to extreme moisture conditions in the field. Two to four plants on each end of the middle double row of each plot were excluded from harvest measurements to avoid plot-toplot edge effects,resulting in18-22 plantsavailable formeasurements.All stems from the 18-22 plants from the middle double row of each plot were cut with brush saws or cut and chipped witha mechanical harvester and weighed ina bin with weigh cells in the field.A subsample from each plot consisting of either whole stems or chips was collected,weighed fresh,dried at $6 5 ~ ^ { \\circ } C$ to a constant weight and reweighed to determine moisture content.Moisture content wasused to calculate drymatter yield foreach plotbased on the area occupied by the harvested plants across a 3-year rotation.All yields reported here are expressed as oven-dried $\\mathrm { { M g \\ h a } ^ { - 1 } \\ y r ^ { - 1 } }$ . Survival data was also recorded on the harvested plants at the time of harvest,except Boisbriand, QC,where no survival data was collected,but survival was ${ > } 9 0 \\%$ for each plot (M.Labrecque,Personal observation) and Savoy, IL where survival was assessed in the middle of the second rotation,but most of the mortality occurred early in the first rotation (G.Kling, personal observation). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/122074c44c88924acb46f01d97fc083d6ed6b8d8233afbd6d63cf01669869919.jpg",
+        "table_caption": [
+            "Table1 Description of the 16 cultivars included in the genotype $\\times$ environment interactions analysis of first-rotation shrub willov yields "
+        ],
+        "table_footnote": [
+            "Lower case letters indicates that these are subgroups of diversity group 6. \\*Diversity group refers to Species/Pedigree. tPloidy level estimated by flow cytometry (Serapiglia et al.,2015). ‡Collected in Ontario Canada,but possibly the cultivated hybrid S.viminalis $\\times$ (S.caprea $\\times \\ : S$ .cinerea) (Stott,1991). "
+        ],
+        "table_body": "<html><body><table><tr><td>Clone ID</td><td>Epithet</td><td>Species/pedigree</td><td>Mother</td><td>Father</td><td>Diversity group*</td><td>Sex</td><td>Ploidyt</td><td>Source</td></tr><tr><td>99239-015</td><td>'Allegany'</td><td>S.koriyanagi × S. purpurea</td><td>SH3</td><td>95058</td><td>6b</td><td>F</td><td>2X</td><td>Bred</td></tr><tr><td>9970-036</td><td>'Canastota'</td><td>S.miyabeana</td><td>SX61</td><td>SX64</td><td>5</td><td>M</td><td>4X</td><td>Bred</td></tr><tr><td>99202-004</td><td>Fabius'</td><td>S.viminalis × S.miyabeana</td><td>SV2</td><td>SX67</td><td>8</td><td>F</td><td>3X</td><td>Bred</td></tr><tr><td>9882-34</td><td>Fish Creek'</td><td>S. purpurea</td><td>94006</td><td>94001</td><td>6a</td><td>M</td><td>2X</td><td>Bred</td></tr><tr><td>99217-015</td><td>'Millbrook'</td><td>S.purpurea × S.miyabeana</td><td>95026</td><td>SX64</td><td>9</td><td>F</td><td>3X</td><td>Bred</td></tr><tr><td>9980-005</td><td>'Oneida'</td><td>S.purpurea × S.miyabeana</td><td>94006</td><td>SX67</td><td>9</td><td>M</td><td>3X</td><td>Bred</td></tr><tr><td>99113-012</td><td>'Onondaga'</td><td>S.koriyanagi × S.purpurea</td><td>SH3</td><td>94002</td><td>6b</td><td>M</td><td>2X</td><td>Bred</td></tr><tr><td>99201-007</td><td>'Otisco'</td><td>S.viminalis × S.miyabeana</td><td>SV2</td><td>SX64</td><td>8</td><td>F</td><td>3X</td><td>Bred</td></tr><tr><td>99207-018</td><td>'Owasco'</td><td>S.viminalis × S.miyabeana</td><td>SV7</td><td>SX64</td><td>8</td><td>F</td><td>3X</td><td>Bred</td></tr><tr><td>S25</td><td>'S25'</td><td>S.eriocephala</td><td></td><td></td><td>4</td><td>F</td><td>2X</td><td>Bred</td></tr><tr><td>9871-31</td><td>'Sherburne'</td><td>S. miyabeana</td><td>SX61</td><td>SX67</td><td>5</td><td>F</td><td>4X</td><td>Bred</td></tr><tr><td>SV1</td><td>'SV1'</td><td>S.× dasyclados</td><td></td><td></td><td>1</td><td>F</td><td>2X</td><td>Unknownt</td></tr><tr><td>SX61</td><td>'SX61'</td><td>S.miyabeana</td><td></td><td></td><td>5</td><td>F</td><td>4X</td><td>Natural accession</td></tr><tr><td>SX64</td><td>'SX64'</td><td>S. miyabeana</td><td></td><td></td><td>5</td><td>M</td><td>4X</td><td>Natural accession</td></tr><tr><td>99207-020</td><td>'Truxton'</td><td>S.viminalis × S.miyabeana</td><td>SV7</td><td>SX64</td><td>8</td><td>M</td><td>3X</td><td>Bred</td></tr><tr><td>99202-011</td><td>Tully Champion'</td><td>S.viminalis × S.miyabeana</td><td>SV2</td><td>SX67</td><td>8</td><td>F</td><td>3X</td><td>Bred</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd8a8c91b8cc05eb0b81b8ea1a3be3ad08e054c1e1ad788c8d9397d0992fea78.jpg",
+        "table_caption": [
+            "aerrspssga ",
+            "rrlrlrleerelrnlrerlltssrerertettinrltlienarrerrrrrelilrr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td><td rowspan=\"2\">Annual Annual precip. GDD</td><td rowspan=\"2\">Mean Annual</td><td colspan=\"3\">Solar</td><td rowspan=\"2\">Water table</td></tr><tr><td>Location</td><td>Code</td><td>Year planted</td><td>Latitude</td><td>Longitude</td><td>Elevation (m)</td><td>(base 10 C)</td><td>radiation Tempmin (C)</td><td>SOM (%)</td><td>Soil pH</td></tr><tr><td></td><td></td><td>2007</td><td>52.13</td><td></td><td>510</td><td>(mm)</td><td></td><td></td><td>(MJ m−1 day-1)</td><td></td><td></td><td>depth (cm)</td></tr><tr><td>Saskatoon, SK Constableville, NY</td><td>Sask</td><td>2006</td><td>43.56</td><td>-106.61 -75.53</td><td>513</td><td>408 1457</td><td>767 812</td><td>-4.1</td><td>4329</td><td>4.5 8.2</td><td>7.07 5.66</td><td>200 45</td></tr><tr><td>Skandia,MI</td><td>Cons Skan</td><td>2009</td><td>46.36</td><td>-87.25</td><td>287</td><td>822</td><td>870</td><td>-1.7 0.1</td><td>4606</td><td>3.6</td><td>6.47</td><td>30</td></tr><tr><td>Escanaba, MI</td><td>Esca</td><td>2008</td><td>45.77</td><td>-87.20</td><td>222</td><td>714</td><td>1016</td><td>-0.1</td><td>4909 5147</td><td>2.8</td><td>6.10</td><td>200</td></tr><tr><td>Brimley, MI</td><td>Brim</td><td>2009</td><td>46.40</td><td>-84.47</td><td>200</td><td>791</td><td>1021</td><td>1.7</td><td>4980</td><td>4.0</td><td>5.25</td><td>15</td></tr><tr><td>Boisbriand, QC</td><td>Bois</td><td>2007</td><td>45.63</td><td>-73.89</td><td>30</td><td>1038</td><td>1162</td><td>1.2</td><td>4612</td><td>4.0</td><td>6.09</td><td>1</td></tr><tr><td>Middlebury, VT</td><td>Midd</td><td>2007</td><td>44.01</td><td>-73.20</td><td>114</td><td>1138</td><td>1419</td><td>2.0</td><td>4612</td><td>6.8</td><td>6.70</td><td>30</td></tr><tr><td>Waseca, MN</td><td>Wase</td><td>2006</td><td>44.06</td><td>-93.54</td><td>349</td><td>843</td><td>1459</td><td>1.7</td><td>4944</td><td>5.7</td><td>5.40</td><td>30</td></tr><tr><td>Fredonia, NY</td><td>Fred</td><td>2008</td><td>42.44</td><td>-79.29</td><td>255</td><td>909</td><td>1477</td><td>4.9</td><td>5082</td><td>3.6</td><td>4.80</td><td>30</td></tr><tr><td>Storrs, CT</td><td>Stor</td><td>2009</td><td>41.80</td><td>-72.23</td><td>198</td><td>1274</td><td>1487</td><td>5.4</td><td>5171</td><td>3.4</td><td>6.12</td><td>45</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Siteenuironmentalcharacteristics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Daily temperature and precipitation data for all 4 years of the harvest cycle were obtained from weather stations nearest to each trial location with the most complete records using publicallyaccessible databases,National Oceanic and Atmospheric Agency，National Centers for Environmental Information (NOAA NCEI,2015) for US trials and Canadian National Climate Data (Environment Canada,2015) for CA trials.Daily solarradiation estimatesata $1 ^ { \\mathrm { o } }$ by $1 ^ { \\mathrm { o } }$ grid scale were obtained from National Aeronautics and Space Adminstration,Prediction of Worldwide Energy Resource (NASA POWER,2015). Soil samples were generally collected at the time of planting, or occasionally soon after harvest.Due to some differences between soil extraction methods,only $\\mathrm { \\Delta p H }$ $( 1 : 1$ soil/water by weight) and $\\%$ organic matter (typically by loss on ignition) were considered fordataanalysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Datasetrefinement ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initially,our dataset was comprised of 64O independent observations where the harvested plot was the experimental unit. While overall mean survival was $5 9 0 \\%$ across the yield trial network,some trials and individual plots experienced greater mortality.Two trials,Escanaba,MI,and Saskatoon，SK，had mean survival values below $80 \\%$ .Damage from herbicide drift appeared to be the main cause of mortality in Saskatchewan (Amichev et al.,2015),while at Escanabamortality could not be associated with any particular issue (R.Miller，personal observation).In total,39 independent observations (experimental units）with ${ > } 6 5 \\%$ mortality at the time of harvest were removed from the original dataset of 640 observations.Data were also inspected for extreme moisture content values,which can impact dry matter yield calculations.Two likely sources of error were 1） premature removal of samples from the drying oven,resulting in excessively low moisture content estimates, and 2) extraneous moisture contamination at harvest during wet conditions, leading to excessively high moisture values.Moisture values that were greater or less than three standard deviations of the mean across all samples were considered outliers and were removed from the dataset.To retaina yield value for the particular observation,the mean of the remaining three replicates was applied to the plot fresh weight of the outlying moisture content. This was performed for 15 samples in total from four of nine trials,which represented $2 . 3 \\%$ of the total observations considered in this analysis.For the Boisbriand,QC trial,a single wood sample was collected for each cultivar and the moisture content was applied to all four replicates of that cultivar. The mean moisture content of these samples was reported at $3 2 . 7 \\%$ (SD $2 . 9 0 \\%$ ),and it was assumed that all samples had not dried sufficiently,considering the overall mean moisture content across all other trials was $4 6 . 9 \\%$ (SD $4 . 7 7 \\%$ .A correction factor equaling the difference between these two mean values was added to each of the observations originally reported for the Boisbriand trial.This value was $1 4 . 2 \\%$ ，which was also very close to the value of 3 standard deviations of the overall mean $( 1 4 . 3 \\% )$ .After accounting for survival and moisture content adjustments,6O1 observations were available for analysis from the original 640 from 16 GEN in 10 ENV. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statisticalanalysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We chose to analyze $\\mathbf G \\times \\mathbf E$ interactions in our first-rotation yield dataset using the additive main effects and multiplicative interactions (AMMI) model. The AMMI model is a combination of analysis of variance (ANovA) and principal components analysis (PCA),where the $\\boldsymbol { \\mathrm { G } } \\boldsymbol { \\times } \\boldsymbol { \\mathrm { E } }$ interaction,contained in the residual of the additive GEN and ENV main effects model,is subjected to PCA and the interaction sum of squares (SS) are partitioned into a series of interaction principal component (IPC) axes,where IPC1 is the first interaction PC axis,and so on.The AMMIO model indicates that no IPC axes are included and the model is equivalent to the additive (main effects only） ANovA.AMMI1 includes the first IPC axis,and so on,while AMMIF is the full model that includes all axes and is equal to the raw data.The maximum number of IPC axes for a given dataset is one less the minimum number of GEN or ENV (Gauch,1992; p.85),but typically the majority of the interaction signal is captured in the first few IPC axes,with later IPC axes containing increasing amounts of interaction noise,and decreasing amounts of signal (Gauch, 2012).Therefore,a more parsimonious model containing a lower number of axes is favored and the remaining axes are relegated to a pooled residual. The statistical significance of each axis is often assessed with an $F$ -test where the degrees of freedom (DF) for each axis are calculated according to Gollob (1968) (see also Gauch,1988).More recently,Piepho (1995) demonstrated that the traditional $F$ -test can be too liberal and suggested a more conservative $F _ { \\mathrm { { R } } }$ -test for determining the significance of each IPC axis.Also,Gauch (1992,p. 147） suggested a simple test for model diagnosis and selection,which involves estimation of the $\\boldsymbol { \\mathrm { G } } \\boldsymbol { \\times } \\boldsymbol { \\mathrm { E } }$ noise SS by multiplying the $\\mathbf G \\times \\mathbf E$ DF by the mean square error.Consequently,the signal $\\mathbf G \\times \\mathbf E$ SS can be estimated by subtracting the $\\boldsymbol { \\mathrm { G } } \\times \\boldsymbol { \\mathrm { E } }$ noise SS from the $\\mathbf G \\times \\mathbf E$ total SS.Therefore, IPC axes can be assessed by the amount of $\\boldsymbol { \\mathrm { G } } \\boldsymbol { \\times } \\boldsymbol { \\mathrm { E } }$ signal SS that are recovered,insteadof the total $\\mathbf G \\times \\mathbf E$ SS.Selection of higher order models that include greater numbers of axes must be weighed not only in terms of statistical significance,but also in terms of practicality,because higher order AMMI models and especially the noisy AMMIF tend to have a large roster of genotypes that win in at least one environment,and hence,such models pro duce an unmanageable number of mega-environments (Gauch, 2013).Parsimonious models are often preferred,and AMMI models are most useful when the multiplicative terms have agricultural interpretability (Gauch,2013).Equation 1 gives the generalform of theAMMImodel: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { g e r } } = \\mu + \\alpha _ { g } + \\beta _ { e } + \\Sigma _ { n } \\lambda _ { n } \\gamma _ { g n } \\delta _ { e n } + \\rho _ { g e } + \\varepsilon _ { g e r }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { \\mathrm { g e r } }$ is the yield of the gth genotype in the eth environment for the rth replicate, $\\mu$ is the grand mean, $\\alpha _ { g }$ is the geno type g mean deviation (genotype mean minus grand mean), $\\beta _ { e }$ is the environment $e$ mean deviation, $\\lambda _ { n }$ is the singular value for nth IPCA axis, $\\gamma _ { g n }$ is the genotype g eigenvector value for IPCA axis $n$ $\\delta _ { \\mathrm { e n } }$ is the environment $e$ eigenvector value for IPCA axis n, $\\rho _ { \\mathrm { g e } }$ is the residual, and $\\varepsilon _ { \\mathrm { g e r } }$ is the experimental error. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The AMMI analysis was performed using MATMODEL V3.0,an open source statistical program designed specifically for the analysis of $\\boldsymbol { \\mathrm { G } } \\boldsymbol { \\times } \\boldsymbol { \\mathrm { E } }$ interactions (Gauch & Furnas,1991; Gauch，2007).MATMODEL performs the combined ANOvA/ PCA and also delineates mega-environments,which allows for the exploration of specific adaptation to particular edaphic or climatic conditions (Gauch & Zobel, 1997). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MATMODEL does not analyze the experimental design; hence,we first analyzed the experimental design using PROC MIXED in ${ \\mathsf { S A S } } ^ { \\otimes }$ version 9.4 (SAS Institute Inc.，2013)，with block nested within ENV,and coded as a random effect.The main effects of GEN and ENV and the $\\mathbf G \\times \\mathbf E$ interaction term were considered fixed effects. The TYPE3 option in PROC MIXED was invoked to obtain expected SS for the fixed effects. Tukey's studentized range (HSD) post hoc test was performed for means separation among GEN.The least squared means from the SAS output were then supplied to MATMODEL to perform the PCA of the interaction and for the mega-environment analysis.The random error variance from the SAS PROC MIXED output was used to calculate the F-tests in the AMMI analysis.Finally, the environment main effects and IPC scores wereused in correlation analyses with the various environmental variables using PROC CORR in $S \\mathrm { A } S ^ { \\circledast }$ version 9.4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ANOVA and genotype main effects ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The grand mean for first-rotation yields for this base case dataset based on the mixed model analysis of variance was $6 . 9 6 ~ \\mathrm { { M g } \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ .The main effects of ENV and GEN and the $\\mathbf G \\times \\mathbf E$ interaction were all highly significant $( P < 0 . 0 0 0 1$ ：Table 3) and accounted for 82,6 and $12 \\%$ of treatment SS，respectively. The blocking effect (nested within ENV） accounted for a relatively large amount of random error variance (Table 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the main effect of genotype accounted for only $6 \\%$ of the treatment SS,it contains important information about patterns of broad adaptation.The cultivar Salix viminalis $\\times \\ : S$ ，miyabeana Fabius',a triploidhybrid in diversity group 8 (DG8) was the overall greatest yielding GEN across the 10 ENV tested,with a mean yield of $8 . 5 8 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ (Table 4). Two other Salix viminalis $\\times \\ S$ .miyabeanatriploidhybridsinDG8, 'Otisco' and ‘Tully Champion',ranked 2nd and 4th in overall yield,respectively (Table 4,Fig.1a). Two of the top five GEN were tetraploid S.miyabeana (DG5), including ‘Canastota' a progeny selected from a cross between‘SX61'and $\\mathrm { ^ { \\prime } S X 6 4 ^ { \\prime } }$ .Two triploid S.pur$p u r e a \\times S$ ，miyabeana cultivars from DG9,‘Oneida'and Millbrook'，were ranked 6th and 7th overall,respectively (Fig.1a). Triploids showed the greatest relative yields (GEN yield/ENV mean yield averaged over all ENV)，with the exception of two cultivars，‘Truxton' and‘Owasco'，which performed at or below ENV means(Fig.1b). The cultivarsS.miyabeana $' \\mathrm { { S X 6 1 ^ { \\prime } } }$ $\\mathrm { ^ { \\prime } S X 6 4 ^ { \\prime } }$ and S. $\\times$ dasyclados‘SV1'were cultivars that showed promise in earlier trials,and subsequently were used as check cultivars in this yield trial network. The top two improved cultivars,Fabius'and ‘Otisco'，performed better than all three check cultivars,and four other improved cultivars performed better than the check clone mean yield of $\\bar { 7 . 1 4 } ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ .The GEN with thelowest mean yieldswere diploid S.eriocephala $' \\mathrm { S } 2 5 ^ { \\prime }$ (DG4),a North American native willow species, and two hybrid cultivars of S. koriyanagi $\\times \\ s$ purpurea Onondaga' and ‘Allegany' (DG6b).ENV mean yields ranged from 2.57 to $1 1 . 3 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } .$ ，with the greatest yields in eastern USA and Canada,and the lowest yields occurring in the Upper Peninsula of MI,USA, and Saskatoon, SK, CA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccb90aa5659e31e53bf929cd0032b095720007ac446f68758575a18bb42311cc.jpg",
+        "table_caption": [
+            "Table 3 Mixed model analysis of variance for first-rotation yields of 16 shrub willow genotypes in 10 environments showing $F$ -test results for fixed effects and variance components for random effects "
+        ],
+        "table_footnote": [
+            "DF,degrees of freedom; SS,sum of squares;MS,mean square; ENV,environment; GEN,genotype;BLK,block;VC,variance component; Pct, percent of total variance. "
+        ],
+        "table_body": "<html><body><table><tr><td>Source</td><td>DF</td><td>SS</td><td>MS</td><td>F Value</td><td>Pr>F</td></tr><tr><td>Fixed</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ENV</td><td>9</td><td>5247.57</td><td>583.06</td><td>28.01</td><td><0.0001</td></tr><tr><td>GEN</td><td>15</td><td>381.03</td><td>25.40</td><td>9.19</td><td><0.0001</td></tr><tr><td>GxE</td><td>135</td><td>765.39</td><td>5.67</td><td>2.05</td><td><0.0001</td></tr><tr><td></td><td></td><td>DF</td><td>VC</td><td>Pct</td><td></td></tr><tr><td>Random</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BLK (ENV)</td><td></td><td>30</td><td>1.27</td><td>31.43</td><td></td></tr><tr><td>Error</td><td></td><td>411</td><td>2.76</td><td>68.57</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f849c733d0b6c8f46b5722f03fd09a757c48b38667f02d2c4db6ffaccb42987.jpg",
+        "table_caption": [
+            "Table 4 Adjusted mean first-rotation shrub willow yields $( \\mathrm { M g \\ h a } ^ { - 1 } \\ y \\mathrm { r } ^ { - 1 } )$ for 16 genotypes in 10 environments in North America "
+        ],
+        "table_footnote": [
+            "\\*Environment names are truncated to the first four lettrs,with full environment names given in Table 2. †Check cultivars are underlined. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"10\">Environments*</td></tr><tr><td>Epithet</td><td>Midd</td><td>Bois</td><td>Stor</td><td>Wase</td><td>Fred</td><td>Cons</td><td>Esca</td><td>Sask</td><td>Skan</td><td>Brim</td><td>MEAN</td></tr><tr><td>'Fabius'</td><td>13.96</td><td>13.17</td><td>13.27</td><td>10.01</td><td>8.19</td><td>8.76</td><td>8.83</td><td>4.38</td><td>1.95</td><td>3.25</td><td>8.58</td></tr><tr><td>'Otisco'</td><td>11.95</td><td>12.39</td><td>11.10</td><td>7.66</td><td>7.54</td><td>6.55</td><td>9.38</td><td>4.46</td><td>3.18</td><td>2.91</td><td>7.71</td></tr><tr><td>'SX64'+</td><td>11.11</td><td>13.61</td><td>9.15</td><td>10.13</td><td>8.01</td><td>8.61</td><td>5.94</td><td>3.34</td><td>3.21</td><td>3.08</td><td>7.62</td></tr><tr><td>Tully Champion'</td><td>13.34</td><td>13.15</td><td>6.65</td><td>7.57</td><td>8.22</td><td>5.61</td><td>7.51</td><td>5.80</td><td>3.75</td><td>3.70</td><td>7.53</td></tr><tr><td>'Canastota'</td><td>14.56</td><td>13.36</td><td>8.78</td><td>8.98</td><td>7.71</td><td>7.75</td><td>5.20</td><td>3.53</td><td>2.29</td><td>2.47</td><td>7.46</td></tr><tr><td>'Oneida'</td><td>10.63</td><td>8.85</td><td>12.31</td><td>9.80</td><td>6.50</td><td>8.89</td><td>6.91</td><td>4.67</td><td>3.25</td><td>2.41</td><td>7.42</td></tr><tr><td>Millbrook'</td><td>10.77</td><td>10.04</td><td>9.23</td><td>9.11</td><td>8.00</td><td>8.11</td><td>7.96</td><td>4.13</td><td>2.24</td><td>2.63</td><td>7.22</td></tr><tr><td>'SX61'</td><td>11.97</td><td>10.45</td><td>9.44</td><td>9.62</td><td>6.78</td><td>7.05</td><td>7.89</td><td>2.75</td><td>3.05</td><td>3.14</td><td>7.21</td></tr><tr><td>Fish Creek'</td><td>11.18</td><td>10.78</td><td>9.77</td><td>9.07</td><td>7.59</td><td>8.17</td><td>6.30</td><td>4.03</td><td>2.00</td><td>1.74</td><td>7.06</td></tr><tr><td>'Truxton'</td><td>12.32</td><td>9.95</td><td>9.84</td><td>8.96</td><td>8.32</td><td>6.59</td><td>5.71</td><td>3.60</td><td>3.40</td><td>1.74</td><td>7.04</td></tr><tr><td>'Sherburne'</td><td>11.92</td><td>10.72</td><td>9.82</td><td>8.61</td><td>6.53</td><td>7.02</td><td>5.50</td><td>3.32</td><td>1.89</td><td>2.30</td><td>6.76</td></tr><tr><td>'SV1'</td><td>10.92</td><td>11.54</td><td>6.03</td><td>4.11</td><td>7.62</td><td>7.81</td><td>9.02</td><td>3.28</td><td>2.47</td><td>3.23</td><td>6.60</td></tr><tr><td>'Owasco'</td><td>10.13</td><td>8.75</td><td>7.18</td><td>8.85</td><td>8.29</td><td>6.32</td><td>6.44</td><td>4.20</td><td>3.15</td><td>2.56</td><td>6.59</td></tr><tr><td>'Allegany'</td><td>8.31</td><td>9.31</td><td>6.88</td><td>7.51</td><td>5.26</td><td>6.32</td><td>6.94</td><td>3.10</td><td>2.21</td><td>2.13</td><td>5.80</td></tr><tr><td>'Onondaga'</td><td>8.36</td><td>7.54</td><td>5.54</td><td>7.34</td><td>5.10</td><td>6.84</td><td>6.67</td><td>3.60</td><td>2.06</td><td>2.02</td><td>5.51</td></tr><tr><td>'S25'</td><td>9.44</td><td>8.52</td><td>5.39</td><td>6.60</td><td>6.52</td><td>3.87</td><td>3.90</td><td>3.81</td><td>2.39</td><td>1.74</td><td>5.22</td></tr><tr><td>MEAN</td><td>11.30</td><td>10.76</td><td>8.77</td><td>8.37</td><td>7.26</td><td>7.14</td><td>6.88</td><td>3.87</td><td>2.66</td><td>2.57</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a827f990e8641278575e300617c251413c5efe359d23e5f04650cefa57868bd0.jpg",
+        "img_caption": [
+            "Fig.1 First-rotation shrub willow mean yields(a)and yields as a proportion of environment means (b) for 16 genotypes in 10 environments in North America. Bars are shaded according to the diversity groups (pedigrees） presented in Table 1.Bars in (a)with different letters indicate significant $( P < 0 . 0 5 ) ,$ differences according to Tukey's studentized range test (HSD).Error bars in (a) are $\\pm$ one standard error of the mean.Proportions in (b) were calculated as the yield of a genotype divided by the environment mean,averaged across the 10 environments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AMMI analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TheAMMI2model ANovA revealed that themain effects of GEN and ENV plus the first two IPC axes accounted for $9 5 . 5 \\%$ of the treatment SS with only 68 (of 159) treatment DF (Table 5).Using the error variance obtained from the SAS PROC MIXED output (Table 3),both the F-tests and the more conservative $F _ { R }$ -testsproved IPC1 and IPC2 to be significant $( P < 0 . 0 0 0 2 )$ ；however，all subsequent axes were not significant and were therefore pooled into a discarded residual. The $\\mathbf G \\times \\mathbf E$ interaction termis inherently a mixture of true signal in the data (i.e.,systematic rank changes amount GEN) and noise. The amount of $\\mathbf G \\times \\mathbf E$ noise can be estimated by multiplying the $\\mathbf G \\times \\mathbf E$ DF by the mean square error (Gauch, 2013).Using the mean square error variance obtained from the SAS PROC MIXED output (Table 3),the $\\mathbf G \\times \\mathbf E$ noise SS for this dataset was estimated to be 373 $( 4 6 \\% )$ ， while the $\\mathbf G \\times \\mathbf E$ signal accounts for 438.5 $( 5 4 \\% )$ of the total $\\mathbf G \\times \\mathbf E$ SS.IPC1 captured 291 SS，or $6 6 . 4 \\%$ of the $\\mathbf G \\times \\mathbf E$ signal SS. The cumulative SS accounted for by the first two IPC axes is 507,which is greater than the estimated $\\mathbf G \\times \\mathbf E$ signal ${ \\mathsf { S S } } ,$ suggesting that IPC2 contains a combination of mostly signal and some noise. Therefore，AMMI1 does a reasonable job of capturing the majority of the $\\mathbf { G } { \\times } \\mathbf { E }$ signal in a parsimonious model. However，in terms of accurately describing our data, AMMI2 might be slightly better,although the more important consideration is that AMMI1 (and AMMI2) is considerablymoreaccurate than the raw data AMMIF as its additional IPC3 and higher components (which are combined in the residual in Table 5) capture a SS of 304, which is mostly noise. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A useful tool for interpreting the AMMI analysis is the AMMI1 biplot,where the additive main effects of GEN and ENV are plotted on the $x$ -axis inunitsof yield $( \\mathrm { M g \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } )$ ，and the IPC1 scores are plotted on the $y$ -axis,which have units expressed as the square root of the yield (Gauch,1992; p.85).By representing both the main effects and the majority of the interaction signal in one projection, the AMMI1 biplot captures $9 2 . 3 \\%$ of the treatment SS,and the relationships between main effects and interaction can be observed simultaneously (Fig. 2). The vertical reference line represents the grand mean yield of the dataset,and the horizontal line is placed at zero for the IPC scores,where points farther away from thisline indicate GEN or ENV with larger interactions. Genotypes that occur close to the horizontal line can be regarded ashavingrelativelystable yieldsacross ENV. Genotypes and ENV having the same sign for their IPC1 scores have positive interactions,whereas opposite signs give negative interactions.For instance,Fabius' was the highest yielding GEN,and consequently,it is farthest along the right side of the $x$ -axis. It also had one of the largest IPC1 scores,generating a positive interaction in Storrs, CT,but a negative interaction in Skandia, MI.Indeed， thelowestyieldforFabius'of $1 . 9 5 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ occurred at that location, in comparison withStorrs， CT， whereFabius'yielded $1 3 . 2 7 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ (Table 4).The IPC1 scores for ‘SV1 and ‘Tully Champion' are similar and were the most extreme negative scores out of the 16 GEN,so their interaction patterns are the opposite of Fabius'.However,Tully Champion' has a substantially greater mean yield compared to ‘SV1'，and it was the top-yielding cultivar in many low-yielding ENV (Table 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/956e7a5c5f3943e0d8d265481b19580adf44f713ba80a0efad7dd78cbf822351.jpg",
+        "table_caption": [
+            "Table5Additivemainefectsandmultiplicativeinteractions (AMM)aalysisofvarianceforfirst-rotationyieldsof16shubwillow genotypes in 10 environments showing the first two IPC axes "
+        ],
+        "table_footnote": [
+            "DF,degresoffredo;,suofqares;Mmansuare;,treatment;Eenviroent;GE,gnotype;Bblock. \\*The error mean square from Table 3 was used in calculations of $F$ and $F _ { \\mathrm { R } }$ values. "
+        ],
+        "table_body": "<html><body><table><tr><td>Source</td><td>DF</td><td>SS</td><td>MS</td><td>F value*</td><td>Pr>F</td><td>FR Value</td><td>Pr >FR</td></tr><tr><td>TRT</td><td>159</td><td>6774.19</td><td>42.60</td><td>15.42</td><td><0.0001</td><td></td><td></td></tr><tr><td>GEN</td><td>15</td><td>454.50</td><td>30.30</td><td>10.97</td><td><0.0001</td><td></td><td></td></tr><tr><td>ENV</td><td>9</td><td>5508.20</td><td>612.02</td><td>221.51</td><td><0.0001</td><td></td><td></td></tr><tr><td>GxE</td><td>135</td><td>811.49</td><td>6.01</td><td>2.18</td><td><0.0001</td><td></td><td></td></tr><tr><td>IPC1</td><td>23</td><td>290.96</td><td>12.65</td><td>4.58</td><td><0.0001</td><td>2.18</td><td><0.0001</td></tr><tr><td>IPC2</td><td>21</td><td>216.04</td><td>10.29</td><td>3.72</td><td><0.0001</td><td>1.68</td><td><0.0002</td></tr><tr><td>Residual</td><td>91</td><td>304.49</td><td>3.35</td><td>1.21</td><td>0.99</td><td>1.21</td><td>0.11</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f7c590be4078082041b1508ba5fcf8db6335d9dcc40e387e4f9096dfdb4861a.jpg",
+        "img_caption": [
+            "Fig.2AMMI1 biplot for the shrub willow yield trial network.Genotype $\\mathbf { \\delta } ( \\bullet )$ and environment $\\left( \\triangle \\right)$ means are on the $x$ -axis,and the IPC1 scores are shown on the $y .$ axis.Genotype and environment names are truncated to the first four letters,and full names can be found nTablesadespectivelyheverticaleferencelinerepresentstegrandmea,whilethezontallneoetan IPC score of zero. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When IPC2 is significant (Table 5), the AMMI2 biplot can be used to investigate the interaction pattern in IPC1 and IPC2 together (Fig. 3). The reference lines in Fig.3 are drawn through zero for both axes.The crossing of these two lines in the middle of the graph indicatesno interaction,and therefore,a GEN close to this point would be characterized as having stable yields across ENV,and for this dataset,the triploid ‘Otisco' and the tetraploids $\\mathrm { ^ { \\prime } S X 6 1 ^ { \\prime } }$ and $\\mathrm { ^ { \\prime } S X 6 4 ^ { \\prime } }$ are closest to the origin. Fabius' and ‘Tully Champion are on the opposite ends of IPC1 scores,but have very similar IPC2 scores.In contrast,‘Onondaga'and‘Canastota'were on the opposite extremes of IPC2 scores,with ‘Canastota' having a strong positive interaction with Boisbriand, QCin terms of IPC2,as theirIPC scores are of the same sign.Unlike Fig.2, there is no information about main effects in Fig.3,only interactions,but it is useful for understanding the relationships between AMMI1 and AMMI2. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mega-environment delineations ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Another useful graphical representation of AMMI1   \nanalysis isa plot of theAMMI1 nominal yields (AMMI1 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd68e0c1eed4f0e9b2ccb034f8e0018d6610cf9904f4931d32be90d4f8f7f2f3.jpg",
+        "img_caption": [
+            "Fig.3AMMI2 biplot for the shrub willow yield trial network.Genotype $\\mathbf { \\sigma } ( \\bullet )$ and environment $\\left( \\triangle \\right)$ IPC1 scores are shown on the $x \\cdot$ axis,and IPC2 scores are on the $y$ axis.Genotype and environment names are truncated to the first four letters,and full names can befoundinTables1and2,respectively.Theverticalandhorizontalreferencelinesaredrawnthrough zeroforbothaxes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/17ffd8144620f4d1e331e5a4fe5a8e5b6fbfef51eb1de95815cddb7074af167d.jpg",
+        "img_caption": [
+            "Fig.4Shrubwillowgenotypic responses according to theAMMI1 model.The10environment IPC1scores arerepresentednthe $x$ 1 axis,while the genotype nominal yields(AMMI1 model yields without the environment deviations）are shownon the $y$ axis. All 16 genotypesarerepresented individuallybyastraightline.Onlyrelevant genotypeshavebeenlabeled.Checkcultivarsaresolidblack lines.Environment names are truncated to the first four letters,and full names can be found Table 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "model yields for each GEN,without the ENV deviation, see equation 1),against the ENV IPC1 scores (Gauch & Zobel,1997).Figure 4 shows nominal yields for the 16 GEN across the 10 ENV plotted as straight lines,and thevertical positions of the lines relative to one another at a given ENV IPC1 score indicate the yield rankings This plot is very useful for visualizing GEN crossovers, and for ease of interpretation,only the most relevant GEN have been highlighted and their names provided. For instance,Fabius' had the greatest yields in five ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ENV ranging in IPC1 scores from $- 0 . 3 8$ to 2.16. But for the other five ENV with scores $- 0 . 5 0$ and lower,a switch point occurs where‘Tully Champion' outper forms Fabius' according to the AMMI1 model predicted yields.This situation illustrates the concept of narrow adaptation,where GEN perform similarly in a group of ENV with similar characteristics. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The degree of environmental sensitivity of a GEN can also be inferred by observing the slopes in Fig. 4. 'Fabius' and 'Tully Champion' have steep,but opposite slopes due to their opposite interactions.‘Otisco' was ranked 2nd in overall yield and wasrelatively insensitive to ENV,as evidenced by its near zero slope (Fig. 4). Also,similarities among GEN can be observed where slopes are nearly parallel. The line just below Fabius' on the right side of Fig.4is that of‘Oneida'，which is similar to Fabius'，suggesting that they reacted to ENV similarly.However，the mean yields of Fabius'were considerably greater than ‘Oneida'，making ‘Fabius' an obvious superiorchoice. Similarly,‘SV1'had an interaction pattern that mirrored Tully Champion',but again the predicted AMMI1 yields were lower for‘SV1'. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AMMI can also be used to delineate mega-environments，which are defined as subdivisions of a crop's potential growing range that share similar genotype winners,presumably due to similar biotic and abiotic stresses,but that are not necessarily contiguous (Gauch & Zobel,1997;Yan et al.,2000). Subdivision of a crop's growing region can help to improve yields by targeting GEN with specific adaptation to ENV where they are likely to perform best (Gauch & Zobel, 1997),especially if there are identifiable environmental or biological patterns associated with the IPC analysis that can be extended to ENV beyond those where crop yields have been tested (Gauch，2013)． MATMODEL uses key switch points in nominal yields among winning GEN across IPC1 scores to delineate mega-environments.For this shrub willow yield dataset, the main switch point for the AMMI1 model is clearly illustrated in Fig. 4, where Fabius'and 'Tully Champion' switch between first and second rank at a value of about $- 0 . 4 4$ along the ENV IPC1 range.Therefore，AMMI1 defines two winners which happen to divide the 10 ENV equally between them，where ‘Fabius'is declared the overall winner,but Tully Champion'is superior in the lower yielding ENV. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Asthe AMMI analysis consists of a family of models, with higher order models incorporating greater numbers of interaction components，higher order models generally result in an increased number of mega-environments and winners (Gauch,2013).To illustrate this point，Table6 shows the top five rankings for three AMMI model family members.The ENV are listed by IPC1 scores.AMMI1 divides the growing region into two mega-environments as described above,with only two-first place winners,Fabius' and 'Tully Champion'. Fabius' takes second place in most ENV where ‘Tully Champion' was ranked first.‘Oneida' ranks behind Fabius'in more favorable ENV,while‘Otisco' ranks thirdinmanyof theless favorableENV.Themain differences between AMMI1 and AMMI2 are that Boisbriand,QC is declared as a separate mega-environment with ‘Canastota' the top-ranking GEN，and to some degree，Fabius'is relegated to lowerranks in the less favorable ENV.The AMMIF model,which is equivalent to the raw data，is also included for comparisons. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cf0475cc96d542eb7d4ad144b7511683912b2b375fc7e682c371f2513770385.jpg",
+        "table_caption": [
+            "Table6Rankingsofthetopfivegenotypesforin10environments(ENV)basedonthreeAMMImodels.AMMI1includesonlythe first IPCaxis and AMMI2 includes both the first and second IPC axes which were both significant based on the $F _ { \\mathrm { R } }$ -test.AMMIF repre sents the raw data "
+        ],
+        "table_footnote": [
+            "\\*ENV,Environment.Names are truncated to the first four lettrs.Fullnames can be found in Table 2. +Genotypenamesaretruncatedtofourleters,withfullnamespresentedinTable1.Theoveralltop-yieldingcultivarabius'is underlined throughoutthetableandthesecondmega-environmentwinerfromAMMI1,TullyChampion'isitalicizedthroughout the table. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"5\">AMMI1 Rank</td><td colspan=\"5\">AMMI2 Rank</td><td colspan=\"5\">AMMIF Rank</td></tr><tr><td>ENV*</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>Stor</td><td>Fabit</td><td>Onei</td><td>Fish</td><td>SX64</td><td>Sher</td><td>Fabi</td><td>Onei</td><td>Fish</td><td>SX64</td><td>Sher</td><td>Fabi</td><td>Onei</td><td>Otis</td><td>Trux</td><td>Sher</td></tr><tr><td>Wase</td><td>Fabi</td><td>Onei</td><td>SX64</td><td>Otis</td><td>Cana</td><td>Fabi</td><td>Onei</td><td>Mill</td><td>Fish</td><td>Otis</td><td>SX64</td><td>Fabi</td><td>Onei</td><td>SX61</td><td>Mill</td></tr><tr><td>Fred</td><td>Fabi</td><td>Onei</td><td>Otis</td><td>SX64</td><td>Cana</td><td>Fabi</td><td>Onei</td><td>Otis</td><td>Mill</td><td>SX64</td><td>Onei</td><td>Fabi</td><td>SX64</td><td>Fish</td><td>Mill</td></tr><tr><td>Midd</td><td>Fabi</td><td>Otis</td><td>SX64</td><td>Onei</td><td>Cana</td><td>Fabi</td><td>Cana</td><td>Tull</td><td>SX64</td><td>Otis</td><td>Cana</td><td>Fabi</td><td>Tull</td><td>Trux</td><td>SX61</td></tr><tr><td>Bois</td><td>Fabi</td><td>Tull</td><td>Otis</td><td>SX64</td><td>Cana</td><td>Cana</td><td>Tull</td><td>Fabi</td><td>SX64</td><td>Otis</td><td>SX64</td><td>Cana</td><td>Fabi</td><td>Tull</td><td>Otis</td></tr><tr><td>Esca</td><td>Tull</td><td>Fabi</td><td>Otis</td><td>SX64</td><td>Cana</td><td>Tull</td><td>Fabi</td><td>Otis</td><td>Cana</td><td>SX64</td><td>Trux</td><td>Owas</td><td>Tull</td><td>Fabi</td><td>SX64</td></tr><tr><td>Sask</td><td>Tull</td><td>Fabi</td><td>Otis</td><td>SV1</td><td>SX64</td><td>Tull</td><td>Otis</td><td>Fabi</td><td>SV1</td><td>Mill</td><td>Tull</td><td>Onei</td><td>Otis</td><td>Fabi</td><td>Owas</td></tr><tr><td>Cons</td><td>Tull</td><td>Fabi</td><td>Otis</td><td>SV1</td><td>SX64</td><td>Tull</td><td>Otis</td><td>Mill</td><td>SV1</td><td>Owas</td><td>Otis</td><td>SV1</td><td>Fabi</td><td>Mill</td><td>SX61</td></tr><tr><td>Skan</td><td>Tull</td><td>Fabi</td><td>Otis</td><td>SV1</td><td>SX64</td><td>Tull</td><td>Otis</td><td>SV1</td><td>Mill</td><td>Fabi</td><td>Tull</td><td>Trux</td><td>Onei</td><td>SX64</td><td>Otis</td></tr><tr><td>Brim</td><td>Tull</td><td>SV1</td><td>Fabi</td><td>Otis</td><td>SX64</td><td>Tull</td><td>SV1</td><td>Otis</td><td>Fabi</td><td>SX64</td><td>Tull</td><td>Fabi</td><td>SV1</td><td>SX61</td><td>SX64</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Should the full data be accepted as most accurate,it would result in a very complex array of mega-environments with seven different cultivars being declared winners in seven narrowly defined subregions.AMMI1 with its simplified mega-environment winner pattern is likely best for making cultivar selections far less complicated.AMMI2 is likely the most accurate choice for modeling overall genotypic performance in this dataset, but the inclusion of one winner in one ENV complicates recommendationsand justification for itsinclusion would likely need to be verified with more testing. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Edaphicandclimaticuariables ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The AMMI analysis of the $\\mathbf G \\times \\mathbf E$ interaction operates solely on yielddata,with an implicit interpretation that general patterns in yields are a reflection of underlying environmental characteristics of test locations.However, it may be desirable to associate yield patterns with known environmental characteristics，and IPC scores can be used in simple correlations when environmental variables for test locations are available(Van Eeuwijk 1995).ENV yield was significantly $( P < 0 . 0 5 )$ correlated with mean annual growing degree-days and marginally significantly $( P < 0 . 1 0 )$ ）associated with longitude and growingseasonprecipitation(Table 7).ENV IPC1 scores were also significantly correlated with growing degree-days,mean annual minimum temperatures and latitude (Table 7),which would covary with each other, but suggest a strong relationship between interaction patterns and temperature.IPC2 scores were positively correlatedwith elevation (Table7). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Expandeddatasetsandanalyses ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asnoted earlier,our yield trial network contained more GEN and test ENV than those included in the above ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AMMI analysis (601 observations of ${ \\sim } 1 5 3 0$ available). However, the MATMODEL program allows for imputation of missing treatment cells in the two-way table of means using the expectation maximization (EM) algorithm (Gauch & Zobel,1990).To more fully explore the yield database, two additional datasets were assembled that expanded the original complete set of 16 GEN in 10 ENV.The first dataset had an additional 6 GEN that included 10 missing treatments $( 4 . 5 \\% )$ of a possible 220, fora total of 22 GEN in 10 ENV.The second dataset added 6 ENV with 15 missing treatments $( 5 . 9 \\% )$ of 256. It has recently been shown thatusing the EM method for data imputation with missing data proportions of $5 -$ $1 0 \\%$ do not significantly reduce the predictive ability of the AMMI model,especially when a small number of IPC axes (one or two) are chosen (Rodrigues et al., 2011; Paderewski & Rodrigues,2014). The ANOvA tables and mega-environment winners for the two expanded datasets are provided in Table S1.The ANovA for the two expanded datasets show greater overall variance in the treatments，as expected，but the $\\mathbf G \\times \\mathbf E$ signal SS were similar at $3 8 . 7 \\%$ for the increased GEN and $3 6 . 7 \\%$ for the increased ENV scenarios (Table S1). The IPC1 axes accounted for 82.4 and $7 6 \\%$ of the $\\mathbf G \\times \\mathbf E$ signal SS for the expanded GEN and expanded ENV scenarios,respectively.Interestingly，the mega-environment analyses remain remarkably similar to those of the base case scenario (Table S2).Even with sixadditional GEN, Fabius remains the winner in six ENV and 'Tully Champion'is the winner in four of the lowest yielding ENV.When six ENV were added fora total of 16,Fabius'wins in seven and 'Tully Champion' in eight (Table S2).'SV1' winsin one environment，Belleville，NY，but‘Tully Champion' is a close second,and often combining a small mega-environment with a larger one occupied by a close winner is justified (Gauch,2013). The addition of these two scenarios reinforces the superiority of Fabius' and ‘Tully Champion' relative to the cultivars tested in the analysis. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/07a096e5432728f16a23fea75a24a3b61e337ca91b51effffe4d05ed59ea7168.jpg",
+        "table_caption": [
+            "Table 7Pearson product-moment correlation coeficients between mean yields $( \\mathrm { M g \\ h a } ^ { - 1 } \\ y \\mathrm { r } ^ { - 1 } )$ , IPC scores and edaphic and climatic variables for the1O environmentsin theyield trial network "
+        ],
+        "table_footnote": [
+            "\\*P<0.10; $^ { * * } P < 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Variable</td><td>Yield</td><td>IPC1</td><td>IPC2</td></tr><tr><td>Latitude</td><td>-0.534</td><td>-0.619*</td><td>0.098</td></tr><tr><td>Longitude</td><td>0.587*</td><td>0.300</td><td>-0.503</td></tr><tr><td>Elevation (m)</td><td>-0.496</td><td>-0.204</td><td>0.785**</td></tr><tr><td>Mean annual precipitation (mm)</td><td>0.527</td><td>0.346</td><td>-0.221</td></tr><tr><td>Mean April-October precipitation (mm)</td><td>0.578*</td><td>0.525</td><td>-0.195</td></tr><tr><td>Mean annul growing degree-days (base 10 ℃)</td><td>0.650**</td><td>0.827**</td><td>-0.287</td></tr><tr><td>Mean annual minimum temperature (C)</td><td>0.394</td><td>0.729**</td><td>-0.166</td></tr><tr><td>Mean annual solar radiation (MJ m-1 day-1)</td><td>-0.038</td><td>0.479</td><td>0.238</td></tr><tr><td>Soil organic matter (%)</td><td>0.261</td><td>-0.116</td><td>-0.013</td></tr><tr><td>Soil pH</td><td>0.028</td><td>-0.191</td><td>-0.320</td></tr><tr><td>Depth to water table (cm)</td><td>-0.131</td><td>-0.300</td><td>0.009</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Incidentally,MATMODEL can also provide the Finlay-Wilkinson joint regressions analysis (Zobel et al., 1988;Gauch,2007)，which we applied to the original dataset of 16 GEN in 10 ENV. The joint regression analysis only accounted for $2 3 . 2 \\%$ of the $\\boldsymbol { \\mathrm { G } } \\boldsymbol { \\times } \\boldsymbol { \\mathrm { E } }$ SS, compared to $3 5 . 9 \\%$ for AMMI IPC1 (Table S3).Based on GEN slopes, the joint regression analysis of the GEN with the best combination of stable slopes and greater yields would be as ‘Otisco' and $' \\mathrm { S X } 6 4 ^ { \\prime }$ ，with the high yields and slopes slightly above 1,and ‘Tully Champion' and 'Oneida' with somewhat lower yields and slopes slightly less than 1 (Table S3). These results are somewhat in agreement with AMMI,but selection based on stability would likely rule out the potential gains from including 'Fabius'in optimal locations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our analysis of this North American shrub willow yield trial network data has demonstrated the importance of $\\mathbf G \\times \\mathbf E$ interactions in short-rotation woody crop productivity. Our evaluation of first-rotation yields using the AMMI model has accomplished the main objectives of the study，which were to identify GEN with broad adaptation,to define subregions where particular GEN exhibit specific adaptation and to identify environmental variables that help to explain patterns in yield. Despite the proven success of AMMI in accurately diagnosing $\\mathbf G \\times \\mathbf E$ interactions from a range of agronomic and horticultural crops,we have not seen any other published reports of its use in short-rotation coppice research.AMMI helped to resolve signal from noise, and we selected the more parsimonious model,AMMI1, as the best representation of the data,simplifying the mega-environment analysis with just two winning GEN,Fabius' and Tully Champion',as opposed to the raw data with seven of the 16 GEN in our dataset winning in at least one environment (Table 6).In further support of the AMMI1 analysis winners,inclusion of additional GEN or additional test locations did not change the mega-environment analysis outcomes for AMMI1 (Table S1). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "'Fabius' was the top-yielding cultivar with an overall mean of $8 . 5 8 ~ \\mathrm { { M g } ~ h a ^ { - 1 } ~ y r ^ { - 1 } , }$ ，setting a standard for optimal yields and broad adaptability.Also,because of its positive interaction with high-yielding ENV,it is well adapted to favorable growing conditions. 'Tully Cham pion'had an opposite pattern of interaction and appears to be adapted to less desirable growing conditions. 'Tully Champion' and ‘SV1'interacted with the test ENV similarly (Fig.4)，but ‘Tully Champion' consistentlyoutperformed‘SV1'make ita muchbettercheck cultivar for evaluating future breeding material. Similarly,‘Otisco'and $\\mathrm { ^ { \\prime } S X } 6 4 ^ { \\prime }$ had fairly stable yields,showing little interaction with environment regardless of quality,but ‘Otisco'was ranked second in overall mean yield.All three of these superior cultivars ('Fabius', Tully Champion'and‘Otisco'）are of the triploid pedigree of S.viminalis $\\times \\ s$ .miyabeana，and they outperformed the mean of the check cultivars by 5 to $2 0 \\%$ demonstrating that yield gains can be achieved through novel hybridization in shrub willow.This affirms the findings of Serapiglia et al. (2O14) for early selections of triploids on a single site,but extends it more broadly acrossa large set of diverse ENV. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that Fabius'and Tully Champion' are siblings from the same cross,which makes their divergent patterns in yield across our sites rather remarkable.Thesetwowereselectedafteranevaluation of the family in a replicated trial at a single location in central NY (Smart et al.,20o8). There was considerable variability in growth potential across this family，and clearly the single test location was not adequate to detect differiential response to broad environmental conditions.The cultivar with the most stable yields in our dataset，‘Otisco'，shares thesameS.viminalis mother，‘SV2'，with Fabius'andTully Champion' (Table 1).‘Owasco'and ‘Truxton'are also siblings that belong to the Salix viminalis $\\times \\ : S$ .miyabeana pedigree (DG8).They share the same father with ‘Otisco', $' S \\backslash 6 4 ^ { \\prime }$ but their overall yields were much lower, suggesting superior combiningability of‘SV2'foryield traits.This suggests that interspecific triploid hybridization in Salix can confer substantial gains in yield,and future breeding efforts will continue to exploit this potential. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "By correlating environment mean yields and IPC scores with edaphic and climatic variables from the test sites，wewereabletodemonstratethat increased temperatures were positively correlated with both mean yields and IPC1 scores，while the correlation between precipitation and mean yield was marginally significant. We have observed that the triploid hybrids tend to retainaleaf canopymuchlaterin the season compared to other pedigrees.This could be an indication of lower sensitivity to frost or an ability to exploit solarresources at the tail end of the growing season. Labrecque & Teodorescu (2003) examined yields of two willow spe cies at two contrasting sites in southern Quebec and suggested that growth in that region may be limited by precipitation,but not likely growing season temperatures,based on reported optimal growing conditions in Sweden.Wang & Macfarlane (2012)analyzed poplar (Populus spp.）and shrub willow yields of cultivars sourced from Ontario and New York collections at two locations in Michigan and estimated that the difference in growing degree-days between northern and southern locations could explain $6 0 \\%$ of the variation in yield.In theUK,Aylott etal.(2oo8) analyzed yields of three willow GEN of differing pedigrees in relation to edaphic and climatic variables from 49 locations. In general, temporal rainfall patternswere found to be the significant factors affecting yields,but the response varied by GEN,with one being particularly sensitive to soil $\\mathrm { \\Delta p H }$ We were unable to find significant correlations with soil $\\mathrm { \\Delta p H }$ or organic matter;however,because of the broad geographic range covered in this analysis,perhaps the greatest amount of variability among the test sites was dominated by climatic factors.The subject warrants additional investigation and testing in locations with higher temperaturesand moderate rainfall mayreveal a greater geographic production range than previously proposed (Walsh et al.,2003). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\mathbf G \\times \\mathbf E$ interactions have been reported elsewhere in recent studies examining willow yields in multiple locations.In eastern Canada,Mosseler et al.(2014a) studied biomass traits of multiple clones from natural accessions of two species，S.discolor and S.eriocephala,planted on three sites of contrasting fertility. They found no significant rank changes between the two species groups,but large differences in genotypic sensitivities among the GEN within species， suggesting a high degree of intraspecific genetic variability in adaptation that could be exploited for biomass yield improvement.In Denmark,Larsen et al.(2014) studied yields of Swedish and UK commercial cultivars across five locations and reported significant $\\mathbf G \\times \\mathbf E$ interactions,but there was one clear winner, Tordis'(S.viminalis $\\times \\ : S$ .schwerinii),with a mean yield of $6 . 7 ~ \\mathrm { M g } \\ \\mathrm { h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ .In earlier work involving numerous GEN of three willow species across a large number of sites in Sweden, Ronnberg-Wästljung & Thorsén (1988) used a variant of the Finlay-Wilkinson regression to analyze $\\mathbf G \\times \\mathbf E$ interactions. As in our analysis, linear regressions did not always adequately explain clonal response to ENV. The authors identified stable GEN using regression coefficients and mean yields, but they did not address specific adaptability.In poplar, Zalesny et al. (2oo9) performed an extensive analysis of 53-79 GEN across four sites and multiple ages in the upper Midwestern USA. They assessed genotypic rankings and segregated GEN based on generalists (consistently high rankings） and specialist (especially variable rankings). More recent attempts to analyze $\\mathbf G \\times \\mathbf E$ interactions in poplar have incorporated some of the more contemporary statistical techniques used in plant breeding and agronomy. In an analysis of first-year growth of nine GEN in five locations in Spain,Sixto et al. (2011) applied the genotype and genotype $\\mathrm { ~  ~ { ~ x ~ } ~ }$ environment (GGE)biplot (Yan et al.,200O),which has some similarities with AMMI biplots and is used to visualize interactions (Gauch,2006a; Gauch et al., 2008).More recently, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sixto et al. (2014) analyzed biomass production at the end of a 3-year rotation for nine GEN in four of the locations from their previous study. They applied mixed model variants of stability parameter models including Finlay-Wilkinson and Eberhart-Russell and identified patterns of broad and specific adaptation among GEN and pedigrees. These mixed model approaches often consider ENV as random and have the advantage of handlingunbalanced datasets (Smith et al.,2005). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The importance of developing cultivars with specific adaptation can be emphasized when willow cultivation is placed into broader biological and geographical contexts.In the UK and Swedish breeding programs, improved S.viminalis and hybrids such as S.viminalis $\\times \\ : S$ ，schwerinii are highly productive and have demonstrated superior yields in numerous trials compared to other pedigrees (Aylott et al., 2008; Lindegaard et al.，2011;Larsen et al.，2014). In the USA，potato leafhopper (Empoasca fabae Harris) has proven to be extremely damaging to imported European S. viminalis cultivars (Smart & Cameron,2Oo8).Hybrid crosses of S. viminalis with S. miyabeana have introduced varying degrees of resistance to potato leafhopper, in addition to improved yields.We have observed more severe damage to Tully Champion' compared with Fabius' in NY locations (Gouker & Smart,2015),which may have limited its yield potential on sites of more southern latitude and more eastern longitude.Potentially lower potato leafhopper pressure in northerly ENV may explain the superiority of Tully Champion'and ‘SV1'at those sites. In Canada, S.eriocephala and S. discolor have been evaluated as North American native species appropriate for biomass and phytoremediation applications (Mosseler et al.,2014a,b). However, testing in the USA has shown that natural accessions as well as improved cultivars of S.eriocephala can be highly susceptible to leaf rust (Melampsora spp) (Cameron et al., 2008; Serapiglia et al., 2013).The improved S.eriocephala cultivar $' \\mathrm { S } 2 5 ^ { \\prime }$ in our analysis had the lowest overall yield,and it is possible that rust infection in combination with deer browse contributed to low performance. In Europe,Melampsora rust is a major growth-limiting pathogen for multiple willow species and species hybrids (Ahman,1998;McCracken & Dawson，2003；Aylott et al.， 2008). Salix purpurea and hybrid S. koriyanagi $\\times \\ : S$ . purpurea cultivars are also susceptible to rust,but based on visual observations in the field and the yields of ‘Oneida'and 'Millbrook'in this analysis, the S. purpurea $\\times \\ S$ . miyabeana diversity group likely has increased rust resistance. Breeding for rust resistance is an important focus in the USA given the European experience. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Inclusion of some ENV in this analysis caused overall yields to belower compared to other studies,but collectively they provided strong contrasts for discriminating among GEN.In turn，this analysis likely provides a more realistic assessment of yield potentials on marginal lands,given some of the exceptionally low-yielding ENV.As trials are often performed at experiment stations,where growing conditions are optimized or at least less variable，it may seem obvious that many reported yields are often on the high end and they may not be representative (Simmonds,1991). This becomes even more relevant in the realm of dedicated bioenergy crops,as the premise is that these are purposed for marginal lands; more specifically，where the economic returns are marginal for production of traditional field crops (Stoof et al.,2015),and thus, there is reduced competition between food and energy production.Evaluations of shrub willow yield potentials in the USA have been largely geographically restricted to regions where institutional knowledge exists,and the true extent of production potential has likely not be adequately tested (Walsh et al.，20o3).Given the positive correlations of yield and IPC1 scores with factors relating to increased temperature,perhaps growing willow at lower latitudes will produce greater yields. But genotypic variation in water-use efficiency and drought resistance will be important and mayhelp to informbreeding for improved adaptation to warmer climates (Bonosi et al.,2013). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This study has demonstrated the importance of identifying genotypic adaptability for developing cultivar recommendations and guiding future breeding efforts. Genotypes with high yields but varying sensitivities to environmental conditionshave been identifiedas important check cultivars for testing the next generation of promising genotypes，which is currently underway. More work is needed in exploring the underlying environmental causes for the observed yields,and this will be the focus of a future analysis,which will incorporate an expanded dataset of North American willow yields. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Establishment and harvesting of the trials were funded largely by the North Central Regional Sun Grant Center at South Dakota State University through a grant provided by the US Department of Energy Bioenergy Technologies Office under Award number DE-FC36-05GO85041 and the US DOE Regional Feedstock Partnership.Maintenance and harvesting required thousands of person-hours,done mostly by technicians too numerous to acknowledge individually here.E.Fabio was supported by Agriculture and Food Research Initiative Competitive Grant No.2012-68005-19703 from the USDA NIFA. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ahman I(1998)Rust scorings in a plantation of Salix viminalis clones during ten consecutive years.European Journal ofForest Pathology,28,251-258. Amichev BY,Hangs RD,BelangerN,Volk TA,Vujanovic V,Schoenau JJ,Van Rees KCJ (2015)First-rotation yields of 30 short-rotation willow cultivars in central Saskatchewan,Canada. Bioenergy Research,8,292-306. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Annicchiarico P(2002) Genotype $x$ Environment Interactions: Challenges and Opportunitiesfor Plant Breeding and Cultiuar Recommendations.Food &AgricultureOrganization, Rome,Italy.   \nAylott MJ,Casella E, Tubby I, Street NR, Smith P,Taylor G (2008) Yield and spatial supply of bioenergy poplar and willow short-rotation coppice in the UK. New Phytologist,178,0.   \nBonosi L,Ghelardini L,Weih M(2013) Towards making willows potential bioresources in the South: Northern Salix hybrids can cope with warm and dry climate whenirigated.BiomassandBioenergy,51,6-144.   \nBuchholzT,VolkTA(20l1)Improving theprofitabilityof willowcrops-identifying opportunities with a crop budget model. Bioenergy Research,4,85-95.   \nCameron KD,Phillips IS,Kopp RF,Volk TA,Maynard CA,Abrahamson LP, Smart LB (2oo8) Quantitative genetics of traits indicative of biomass production and heterosis in 34 full-sib $\\mathrm { F } _ { 1 }$ Salixeriocephala families.Bioenergy Research, 1, 80-90.   \nCaputo J, Balogh SB, Volk TA, Johnson L,Puettmann M, Lippke B,O'Neil E (2014) Incorporating uncertainty into a life cycle assessment (LCA) model of short-rota tion willow biomass (Salix spp.) crops. Bioenergy Research,7,48-59.   \nCooper M, Hammer GL (1996) Synthesis of strategies for crop improvement. In: Plant Adaptationand Crop Improement (eds Cooper M,Hammer GL),pp.591-623. CABI, Wallingford, UK.   \nEberhart SA,RussllWA(1966) Stability parameters for comparing varieties.Crop Science,6,36-40.   \nEnvironment Canada 2015.National Climate Data，Availableat:http://cli mate.weather.gc.ca/ (accessed 6 October 2015).   \nFinlay KW,Wilkinson GN (1963)Theanalysis of adaptation in a plant-breeding programme.CropandPasture Science,14,742-754.   \nGauch HG (1988)Model selection and validation for yield trials with interaction. Biometrics,44,705-715.   \nGauchHG (1992) Statistical Analysisof Regional YieldTrials:AMMI Analysis of Factorial Designs.Elsevier,Amsterdam,eNthers.   \nGauch HG (2006a) Statistical analysis of yield trials by AMMI and GGE. Crop Science, 46, 1488–1500.   \nGauch HG (2006b)Winning theaccuracy game.American Scientist,94,133-141.   \nGauchHG (2007) MATMODEL Version 3.0:Open Source Software for AMMI and Related Analysesrodoilience,orellUversityaca   \nGauch HG (2012) Scientific Method in Brief.Cambridge University Press,New York, NY   \nGauch HG (2013)A simple protocol for AMMI analysis of yield trials.Crop Science, 53, 1860–1869.   \nGauch HG,Furnas RE (1991) Statistical analysis of yield trials with MATMODEL. Agronomy Journal,83,916-920.   \nGauch HGJr，ZobelRW(199o)Imputingmissingyieldtrialdata.Theoreticaland Applied Genetics,79,753-761.   \nGauch HG, Zobel RW (1997) Identifying mega-environments and targeting geno types. Crop Science,37,311-326.   \nGauch HG,Piepho H-P,AnnicchiaricoP(2008) Statistical analysisof yield trialsby AMMI and GGE: further considerations. Crop Science,48,866-889.   \nGollob HF (1968)A statistical model which combines features of factor analytic and analysisof variance techniques.Psychometrika,33,73-115.   \nGouker FE,SmartLB 2015.Willow cultivar diversity groups fact sheet.Available at: http://willow.cals.cornell.edu/ (accessed 21 October 2015).   \nHanley SJ,Karp A (2014) Genetic strategies fordissecting complex traits in bioma willows (Salix spp.).TreePhysiology,34,1167-1180   \nHauk S,Knoke T,Wittkopf S (2014) Economic evaluation of short rotation coppice systems for energy from biomass—A review.Renewable and Sustainable Energy Reviews,29,435-448.   \nHeller MC,Keoleian GA,Volk TA (2003)Life cycle assessment of a willow bioen ergy cropping system. Biomass and Bioenergy,25,147-165.   \nKarpAShield8)Benergyfroplantsandtesustaiableyieldaenge New Phytologist,179,52.   \nKarp A,Hanley SJ,Trybush SO,Macalpine W,PeiM, Shield I(2011) Genetic improvement of willow for bioenergy and biofuels. Journal of Integrative Plant Biology,53,151-165.   \nKeoleian GA,Volk TA (2005)Renewable energy from willow biomasscrops:life cycle energy,environmental and economic performance. Critical Reviews in Plant Sciences,24,385-406.   \nKiernan BD,Volk TA,Tharakan PJ,Nowak CA,Philipon SP,Abrahamson LP, White EH (2oo3) Clone-site testing and selections for scale-up plantings. Final Reportprepared fortheUnitedStatesDepartmentof EnergySUNY-ESF,Syracuse, NY, 67 pp.   \nKopp RF, Smart LB, Maynard CA,Isebrands JG,Tuskan GA,AbrahamsonLP (2001) The development of improved willow clones for eastern North America.Forestry Chronicle,77,287-92.   \nKuzovkinaYA, Quigley MF (2005)Willows beyond wetlands: uses of Salix L.species for environmental projects.Water Air and Soil Pollution,162,183-204.   \nKuzovkina YA,Weih M,Romero MA et al. (2008) Salix: botany and global horticulture.In: Horticultural Reviews (ed.Janick J),pp.447-489.John Wiley & Sons,Inc., Hoboken, NJ, USA.   \nLabrecque M, Teodorescu TI (2oo3) High biomass yield achieved by Salix clones in SRIC following two 3-year coppice rotations on abandoned farmland in southern Quebec,Canada.Biomass and Bioenergy,25,135-146.   \nLarsen SU, Jorgensen U,Laerke PE (2014) Willow yield is highly dependent on clone and site.Bioenergy Research,7,80192.   \nLarson S (1998) Genetic improvement of willow for short-rotation coppice. Biomass andBioenegy,   \nLindegaard KN, Barker JHA (1997) Breeding willows for biomass.Aspects of Applied Biology,49,155-162.   \nLindegaard KN,Carter MM,McCracken A et al.(2011) Comparative trials of elite Swedish and UK biomasswillow varieties 2001-2010.Aspects of Applied Biology, 112, 57-66.   \nMcCracken AR, Dawson WM (2003) Rust disease (Melampsora epitea) of willow (Salix spp.) grown as short rotation coppice (SRC) in inter- and intra-species mixtures.Annals ofAppliedBiology,143,381-93.   \nMosseler A (1990) Hybrid performance and species crossability relationships in willows (Salix).ndianJounalofotany68,38.   \nMosseler A,Major JE, Labrecque M (2014a) Genetic by environment interactions of two North American Salix species assessed for coppice yield and components of growth on three sites of varying quality.Tres,28,1401-1411.   \nMosseler A,Major JE,Labrecque M (2014b) Growth and survival of seven native willow species on highly disturbed coal mine sites in eastern Canada. Canadian Journal of ForestResearch,44,340-349.   \nNASA POWER 2015.Prediction of worldwide energy resource climatology resource foragroclimatology.Availableat:fromhtp://powerlarc.nasagov/(acessed6 October 2015).   \nNOAA NCEI 2015.Global historical climatology network.Available at: http:// www.ncdc.noaa.gov/data-access (accessed 6 October 2015).   \nPaderewski J,Rodrigues PC (2014) The usefulness of EM-AMMI to study the influence of missing data pattern and application to Polish post-registration winter wheat data.Australian Journal ofCrop Science,8,640-645.   \nPiepho HP (1995) Robustness of statistical tests for multiplicative terms in the additive main effects and multiplicative interaction model for cultivar trials. Theoretical andAppliedGenetics,90,438-443.   \nPiepho HP,Mohring J(2oo5) Best linear unbiased prediction of cultivar effects for subdivided target regions. Crop Science,45, 1151-1159.   \nRichards BK, Stoof CR,Cary IJ,Woodbury PB (2014) Reporting on marginal lands forbioenergy feedstock production:a modest proposal. Bioenergy Research,7, 1060-1062.   \nRodrigues PC,Pereira DGS,Mexia JT (2011)A comparison between joint regression analysis and the additive main and multiplicative interaction model: the robustess with increasing amounts of missing data.Scientia Agricola,68,679- 686   \nRonnberg-Wästljung A,Thorsen J(1988) Inter-and intraspecific variationand genotype $\\times$ siteinteraction in Salix alba L.,S.Dasyclados Wimm.and S.viminalis L. candinavianJournal ofForestResearch,3,449-463.   \nSAS Institute Inc. (2013)(Version 9.4).SAS Institute, Inc.,Cary,NC, USA.   \nSerapiglia MJ, Cameron KD,Stipanovic AJ,Abrahamson LP, Volk TA,Smart LB (2013)Yield and woody biomass traits of novel shrub willow hybrids at two con trasting sites. Bioenergy Research,6,533-546.   \nSerapiglia MJ,Gouker FE, Smart LB (2014) Early selection of novel triploid hybrids of shrub willow with improved biomass yield relative to diploids.BMC Plant Biology, 14,74.   \nSerapiglia MJ,GoukerFE,HartJF,Unda F,MansfieldSD,Stipanovic AJ,SmartLB (2015)Ploidy level affects important biomass traits of novel shrub willow (Salix) hybrids. Bioenergy Research,8,259-269.   \nSimmonds NW (1991) Selection for local adaptation in a plant breeding programme. TheoreticalandAppliedGenetics,82,6-67.   \nSixto H, Salvia J, Barro M, Ciria MP,Canellas I(20l1) Genetic variation and genotype-environment interactions in short rotation Populus plantations in southern Europe. New Forests,42,163-177.   \nSixto H,Gil P,Ciria P,Camps F, Sänchez M, Canellas I, Voltas J(2014) Performance of hybrid poplar clones in short rotation coppice in Mediterranean environments: analysis of genotypic stability.GCB Bioenergy,6,661-671.   \nSmart LB, Cameron KD (20o8) Genetic improvement of willow (Salix spp.) as a dedicated bioenergy crop.In: Genetic Improvement of Bioenergy Crops (ed.Vermerris W),pp.377-396.Springer New York,New York,NY,USA.   \nSmart LB,Cameron KD (2012) Shrub willow.In: Handbook of Bioenergy Crop Plants (eds Kole C, Joshi CP, Shonnard DR),pp.687-708.Taylor and Francis Group, Boca Raton, FL.   \nSmart LB,Volk TA,Lin J et al. (2005) Genetic improvement of shrub willow (Salix spp.) crops for bioenergy and environmental applications in the United States. Unasyloa, 56,51-55.   \nSmart LB,Cameron KD,Volk TA,Abrahamson LP (2008) Breeding,selection,and testing of shrub willow as a dedicated energy crop.NABC Report 19 Agricultural Biofuels:Technology,Sustainability,and Profitability,NationalAgricultural iotechnology Council, Ithaca, NY,85-92.   \nSmith AB,Cullis BR, Thompson R (2oo5) The analysis of crop cultivar breeding and evaluation trials:an overview of current mixed model approaches. Journal of Agricultural Science,143,449-462.   \nStoof CR,Richards BK,Woodbury PB et al.(2015) Untapped potential: opportunities and challenges for sustainable bioenergy production from marginal lands in the Northeast USA. Bioenergy Research,8,482-501.   \nStott KG (1991) Nomenclature of the promising biomass coppice willows, Salix $\\times$ （204号 sericans Tausch ex Kern., Salix dasyclados Wimm.and Salix‘Aquatica Gigantea'. Botanical Journal of Scotland,46,137-143.   \nU.S.Department of Energy (2011) U.S. bilion-ton update: biomass supply for a bioenergy and bioproducts industry.(Leads Perlack RD, Stokes BJ),Oak Ridge National Laboratory,Oak Ridge,TN, $2 2 7 \\mathrm { p }$   \nVan Eeuwijk F(1995) Linear and bilinear models for the analysis of multi-environment trials: I. An inventory of models. Euphytica,84,1-7.   \nVolk TA,Abrahamson LP,Cameron KD et al.(2011) Yields of willow biomass crops across a range of sites in North America.Aspects of Applied Biology,112, 67-74.   \nWalsh M,De La Torre UgarteD,Shapouri H, Slinsky S (2003) Bioenergy crop production in the United States:potential quantities, land use changes,and economic impacts on the agricultural sector. Environmental and Resource Economics,24, 313-333.   \nWang Z, Macfarlane DW (2012) Evaluating the biomass production of coppiced willow and poplar clones in Michigan, USA,over multiple rotations and different growing conditions. Biomass and Bioenergy,46,380-388.   \nWang DA,Jaiswal D,Lebauer DS,Wertin TM,Bollero GA, Leakey ADB,Long SP (2015)A physiological and biophysical model of coppice willow (Salix spp.） production yields for the contiguous USA in current and future climate scenarios. Plant,Cell & Environment,38,185-1865.   \nYan W,Hunt LA, Sheng Q, Szlavnics Z(2ooo) Cultivar evaluation and mega-environment investigation based on the GGE biplot.Crop Science,40,597-605.   \nZalesny RS Jr,Hall RB, Zalesny JA,Mcmahon BG,Berguson WE,Stanosz GR (2009) Biomass and genotype $\\times$ environment interactions of Populus energy crops in the Midwestern United States.Bioenergy Research,2,106-122.   \nZobel RW,Wright MJ, Gauch HG(1988)Statistical analysis of a yield trial.Agronomy Journal, 80,388-93.   \nZsuffa L (1990) Genetic improvement of willows for energy plantations.Biomass, 22, 35-47. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the onlineversion of thisarticle: ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Table S1.Additive Main effects and Multiplicative Interactions(AMMI) ANOvA tables including the first IPC axis for six additional genotypes and six additional environments. Table S2.Additive Main effects and Multiplicative Interactions (AMMI) mega-environment analysis for 6 additional genotypes and 6 additional environments. Table S3. Joint regressions ANovA table and regression coefficients for 16 shrub willow genotypes in 10 environments. ",
+        "page_idx": 14
+    }
+]

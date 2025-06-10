@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "微藻生产油脂培养新技术的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "左正三1,孙小曼²,任路静 $2 ^ { * * }$ ，黄和3（1.南京北盛荣能源科技有限公司,江苏 南京 211178；2.南京工业大学生物与制药工程学院,江苏 南京 211816；3.南京工业大学药学院,江苏 南京 211816)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来，随着全球性能源短缺和环境污染等问题日益严重，利用微藻开发绿色，清洁的生物能源已成为了研究热点。但是微藻油脂的低合成速率和高成本限制了微藻油脂的大规模生产。为了有效开发利用微藻资源，双阶段及共培养技术被发展并取得了显著进展。此外，除了改变培养条件，更为简单的添加生长代谢调节因子的策略也被证明是一种有效的提高微藻油脂的技术。本文详细介绍了各种新发展的微藻培养技术及其技术原理。在此基础上，初步展望了微藻产油研究的未来发展方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：微藻；油脂；培养技术；氧化损伤；植物激素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improvement of lipid accumulation in microalgae by novel cultivation strategies ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZUO Zheng-san¹ SUN Xiao-man² REN Lu-jing 2,\\*\\* HUANG He³ （1 Nanjing North Shengrong EnergyTechnologyCo.,Ltd,Nangjing211178,China）(2 Collge of Biotechnology andPharmaceutical Engineering,NanjingTech University,Nanjing211816,China）(3SchoolofPharmaceutical Sciences,Nanjing Tech University, Nanjing 211816, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Microalgae have received growing interest as a potential biofuel fedstock, which has been regarded as a promising alternative source for next-generation renewable fuels. However, the commercial use of microalgae for sustainable biofuel faces some challenges due to low productivity and high cost. For this reason, two-stage cultivation and co-cultivation strategies were developed to improve the lipid yield. Besides changing the cultivation modes, more simple approach,addition of chemical additives or plant growth regulator are emerging as the potential lipid enhancing strategies. In this review, the principle and method of various novel technologies for improving microalgal lipid production were described and discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words :Microalgae; Lipid; Cultivation strategy; Oxidative damage; Phytohormone ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*江苏省自然科学基金优秀青年基金(BK20160092)、国家自然科学基金(No.21306085)\\*\\*通讯作者,电子信箱：renlujing @njtech.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物柴油作为第三代新型能源，它以微生物作为生产原料，被认为是一种最具潜力的能源来源[1]。微藻细胞通常含有 $20 \\text{‰}$ 的油脂，在特定培养条件下，甚至可以达到 $80 \\%$ 。微藻油脂分为两种：一种是14-20个碳，可以用在生物柴油，另一种是超过20碳的长链多不饱和脂肪酸，可以被用在食品添加领域[2]。目前大规模培养微藻生产油脂仍存在两个重要的限制因素：一方面是微藻油脂的产率相对较低，另一方面是微藻生产和采收成本较高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微藻的生长繁殖不仅与藻种自身相关，其培养条件和培养方法有对油脂产量有重要的关系。微藻在快速的生长和优良的环境条件下仅能合成少量的油脂，而当处于营养限制或环境胁迫条件下，胞内的油脂会被大量的合成和积累[3]。其中，在所有的营养限制条件中，氮限制是最关键最有效的限制因素，而且几乎对所有的产油微藻都适用。环境胁迫条件却更取决于微藻藻种，比如海水微藻（Chlamydomonas sp.）在盐胁迫条件下油脂含量最高[4]，而小球藻（Chlorellasorokiniana）却发现在 $3 0 ^ { \\circ } \\mathrm { C }$ 培养时油脂含量最高[5]。但是各种压力策略都以牺牲微藻的生长为代价，并不能达到高效提高油脂产量的目的。因此很多研究者开发了多种新型的培养方式去同时促进细胞生长和油脂积累，如双阶段和共培养技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了一些培养条件或培养模式改变，更简单低成本的培养技术，比添加各种生长代谢调节因子也被证明是一种有效的微藻培养技术。植物激素不仅可以促进油脂积累，还可以缓解压力策略导致的生长限制[。此外，胁迫环境还会导致微藻细胞氧化应激从而大量积累氧自由基（ROS)，进而导致氧化损伤。轻度的氧化损伤会促进油脂积累，但过量的氧化损伤会导致细胞死亡及油脂过氧化。因此调控微藻胞内的ROS水平是提高油脂产量的重要手段。本文对微藻培养的新技术进行综述，并对相关研究的未来发展趋势进行了展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.双阶段培养技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了促使微藻细胞积累大量的油脂，研究人员探索和发现了多种促进油脂积累的方法，应用最为广泛的就是营养限制或环境胁迫。因为在压力环境下，微藻需要应激合成过量的油脂作为细胞的储存能源[7]。但是不良的生长环境会抑制细胞的生长，而微藻最理想的培养方式是即能够实现生物量又能够实现油脂含量的最大化。因此，工业生产中通常采用双阶段培养技术，第一阶段给予微藻细胞足够的的营养物质和良好的生长环境使其大量积累生物量，第二阶段使用胁迫环境迫使细胞积累大量的油脂[8]。目前，在第二阶段使用氮源限制，强光照条件，高温，高盐及金属离子等诱导细胞快速积累油脂的双阶段策略都被微藻工业生产广泛应用[9]。比如，Ra等[10]在第一阶段使用蓝光（ $4 6 5 \\mathrm { n m }$ ）或者红光（ $6 6 0 \\mathrm { n m }$ ）使得微拟球藻（Nannochloropsissp.）积累生物量，而在第二阶段使用 $5 2 0 \\mathrm { n m }$ 的绿光光照压力促进总油脂的积累。Mitra等[]在发酵中后期利用改变光照强度和温度使得微拟球藻的二十碳五烯酸（EPA）含量提高了3.4倍。Ra等[8在第二阶段使用低盐条件能够使球等鞭金藻（Isochrysisgalbana）的油脂含量从 $24 \\%$ 提高到$47 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，双阶段策略中除了改变营养或者环境条件以外，也可以通过切换自养/异养的培养模式来促进微藻的油脂积累[12]。第一阶段通过异养培养微藻获得高生物量，第二阶段通过自养培养积累油脂。采用这种两步法，小球藻（Chlorellaprotothecoide）的油脂含量被提高了 $6 9 \\% ^ { [ 1 3 ] }$ 。Fan 等[14]采用异-自养双阶段技术，小球藻的油脂含量可以达到细胞干重的 $2 6 . 1 1 \\%$ ，最大的油脂合成速率可以达到$8 9 . 8 9 \\mathrm { m g / L / d } ,$ 。另外，基于此技术，Han等[15]发明了种子-发酵阶段的双阶段技术，即在种子培养期间利用异养培养，而在发酵过程中采用自养培养，最终，小球藻的油脂合成速率比单一的自养培养提高了1.66倍。此外，Li等[16利用蛋白组学解析了小球藻的异-自养培养技术的积累机制。但是，微藻户外大规模培养成本较高，还有待从光生物反应器设计、培养环境选择等多方面进一步提高其经济可行性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2．微藻与其他微生物的共培养技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降低生产成本是实现微藻生物柴油大规模产业化发展的关键，因此寻找低廉的培养方式成为了近年微藻工业应用中的研究热点。在自然界中，微藻可以和其他微生物共生，其共生的特殊生化反应机理得到了越来越多的关注。很多科学家表明微藻与酵母或细菌存在着生长代谢相互促进的作用(图1)。比如，微藻生长释放的氧气可以供应酵母生长，酵母代谢释放的二氧化碳用于微藻光合作用。因此，共培养技术被视作一个全新的策略应用于微藻研究领域，以期有效提高微藻油脂产率及大幅度降低生产成本。Cheirsilp 等[17]共培养小球藻和黏红酵母，小球藻的生物量和油脂含量分别可以达到 $4 . 6 3 \\mathrm { g / L }$ 和 $2 . 8 8 \\mathrm { g / L }$ 。作者进一步以粗甘油为底物，生物量和油脂含量分别比单一培养提高了5.7倍和3.8倍[18]。除了黏红酵母，Shu 等[19]证明了共培养酿酒酵母与小球藻也非常有利于微藻生长及油脂积累，最终生物量和油脂含量分别提高了 $12 8 . 1 \\%$ 和165.2。近几年来，黏红酵母-螺旋藻，圆红冬孢酵母菌-小球藻都被证明是促进微藻生长和油脂积累的良好的共培养系统[20,21]。此外，少数研究者开始研究两种不同微藻的共生关系，Peng等[22]发现将小球藻和单针藻类共培养也能有效促进微藻生长和油脂积累。类似的，赵飞燕等[23]最近在异养条件下共培养小球藻和单针藻，结果表明，小球藻和单针藻单独培养的油脂产率分别为272.07、 $2 6 8 . 5 4 ~ \\mathrm { m g / L / d }$ ，而两株微藻共培养的油脂产率可以提高到 $3 1 5 . 6 0 \\mathrm { m g / L } / \\mathrm { d } \\circ$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了微藻-真菌共生体系，近年来，很多研究表明微藻-细菌体系也能非常有效的促进微藻油脂合成。细菌除了能够给微藻提供光合作用的碳物质以外，细菌还会生产一些生长促进因子促进微藻生长。比如，巴西固氮螺菌（Azospirillumbrasilense）能够生产植物激素吲哚-3-乙酸从而促进小球藻的生长[24]。Do 等[25]将根瘤菌和纤维藻共培养，根瘤菌生产的吲哚-3-乙酸和维生素B12 能够使得纤维藻油脂含量提高 $30 \\%$ 。Xin 等[26]在垃圾渗滤液中共培养微藻和细菌，结果表明，该培养体系可以达到最大的生物量 $1 . 5 8 \\ \\mathrm { g / L }$ 和油脂生产速率 $2 4 . 8 \\mathrm { m g / L / d }$ 。此外，Brendan等[27]发现将小球藻（Chlorellaminutissima）和大肠杆菌混合培养不仅可以增加中性脂含量，还可以促进三烯脂肪酸向单烯脂肪酸转移，从而提高生物柴油的质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，共培养技术还可以用来降低微藻的采收成本。据估计，微藻采收成本占微藻生产生物柴油生产总成本的 $2 0 \\% - 3 0 \\% ^ { [ 2 8 ] }$ 。微藻自絮凝采收方法是指在不添加任何化学物质的条件下，微藻细胞自身依靠重力沉降，实现微藻细胞的采收，具有低能耗高效率的优势。而在共培养过程中，共生菌不仅可以促进油脂的合成，还可以提高微藻的自絮凝效果，从而降低微藻收集的成本。比如，Wang等[29]从自然界中筛查了一种细菌，该细菌可以通过产生絮凝剂促使微拟球藻在3天培养后即可完成自絮凝。Agbakpe 等[30]表明大肠杆菌也可以加速小球藻（Chlorellazofingiensis）和栅藻（Scenedesmus dimorphus）的细胞自絮凝效率。Wang 等[31]研究发现根瘤菌通过合成絮凝剂，能够有效提高小球藻的收率。共培养微藻小球藻（Chlorella sp.）和单针藻（Monoraphidium sp.）后，自然沉降率能超过 $90 \\%$ ，远高于单独培养条件下的沉降率[23]。因此，微藻的共培养技术有望成为解决微藻油脂产率低、采收成本高两大瓶颈问题的解决方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9830f9e82d7f7c58b71d2ac623d4146d245855c1b59cbaef4c028ef0de7cf5d3.jpg",
+        "img_caption": [
+            "图1微藻与其他微生物共生机制示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Proposed interaction mechanism between microalgae and other microorganisms. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.添加植物激素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植物生长激素对于高等植物的生长具有调节作用，近年来研究表明植物激",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "素也对近20种单胞藻的生长有明显的促进作用，适当添加有利于促进微藻的生长和油脂积累。例如，添加一定量的黄腐酸，单针藻（Monoraphidiumsp.）的油脂含量从 $3 0 . 7 8 \\%$ 提高到 $5 4 . 6 4 \\% ^ { [ 3 2 ] }$ 。最近，Rao等人研究表明，在黄腐酸刺激下，ACCase和苹果酸酶的活性显著提高，这可能是黄腐酸促进单针藻油脂含量增加的主要原因[33]。实际上，同样的植物激素对不同的微藻造成的结果有较大差异。杨凯等[34]考察了不同浓度的吲哚-3-乙酸（IAA）对枝鞘藻（Oedocladium sp.）的生长及脂肪酸成分的影响，结果表明IAA可使枝鞘藻的生物量和油脂含量分别提高 $4 4 . 3 4 \\%$ 和1.4倍。郝宗娣等[35]研究了多种植物激素对原始小球藻（Chlorellaprotothecoides）的生长及脂肪酸组成的影响。结果表明：2,4-二氯苯氧乙酸(2,4-D)的促进效应最为明显，最终小球藻的干重为 $1 . 1 8 ~ \\mathrm { g / L }$ ，是空白对照的1.2倍。Liu等[36]也研究了多种植物激素对小球藻和栅藻生长和细胞油脂积累的影响，结果却显示在在添加吲哚-3-丙酸（IPA）时脂质含量提高最明显，是对照组的4倍。最近，刘飞等[37]比较了三种植物激素脱落酸(ABA)、萘乙酸(NAA)、二氯苯氧基乙酸(2,4-D)对小球藻(Chlorellavulgaris）细胞生物量、油脂含量及内生激素浓度的影响规律。结果NAA诱导对藻细胞生长和脂质合成积累表现出显著的促进效应，其最大油脂产率为 $4 1 8 . 6 \\mathrm { m g / L / d }$ ，分别为2，4-D 和ABA 诱导藻细胞的1.48和1.83倍。这些研究证实了及时是同一种属的微藻，对同样的植物激素的敏感程度也存在较大的差异性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，植物激素可以缓解胁迫环境对微藻生长代谢的副作用，因此通常在生产中通常和压力诱导策略结合。相比于氮源限制条件，外源添加脱落酸能够使四尾栅藻（Scenedesmus quadricauda）的生物量增加2.1倍[6]。Yoshida 等[38]也报道了脱落酸可以改善高盐和高渗环境下的微藻生长及油脂积累。最近，在氮源限制条件下外源添加IAA，小球藻（Chlorella sorokiniana）获得了最大的生物量和油脂合成速率[39]。另外，植物激素能改变微藻胞内饱和脂肪酸和不饱和脂肪酸的比例。例如，通过添加二乙基氨基已酸乙酯（DAH）和IAA能够促使斜生栅藻（Scenedesmusobliquus）的生物量比对照组分别提高1.9倍和2.5倍，且多不饱和脂肪酸分别提高了 $56 \\%$ 和 $5 9 \\% ^ { [ 4 0 ] }$ 。 $\\mathrm { Y u }$ 等[41]研究了赤霉素对破囊壶菌中脂质和二十二碳六烯酸（DHA）积累的影响，发现 $4 \\mathrm { m g / L }$ 的赤霉素使破囊壶菌的生物量，脂肪含量提高了 $14 . 4 \\%$ ， $43 . 6 \\%$ ，其中DHA的含量提高了 $7 9 . 1 \\%$ 。而在共球藻生长初期加入外源性植物激素茉莉酸（JA)，其细胞密度相比于对照组提高了 $51 \\%$ ，总油脂产量提高了 $54 \\%$ ，并且提升了棕榈酸（C16：0）和硬脂酸（C18：0）的相对含量，使之更加适合作为生物柴油的来源[42]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4．添加乙二胺四乙酸",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "乙二胺四乙酸（EDTA）能够增加细胞膜的通透性，从而增加微藻细胞对营养物质的吸收。基于该原理，EDTA被广泛添加到微藻培养过程中促进微藻生长及油脂积累。Dou 等[43]人表示微拟球藻的生物量和油脂含量随着EDTA 添加浓度的提高而增加。EDTA还可以与营养限制策略或者金属离子联合使用提高微藻的油脂合成能力。例如，EDTA可以增加栅藻（Scenedesmus sp.）对金属离子的吸收度，最终栅藻的油脂合成速率比对照组提高了 $2 9 . 7 \\% ^ { [ 4 4 ] }$ 。在限氮条件下联合添加EDTA和金属离子不仅可以减缓微藻在限氮条件下的生长限制，而且最终的油脂生产速率提高了2.18倍[45]。Gour等[46]人在限磷条件下添加EDTA，最终小球藻（Chlorella ellipsoidea）总油脂含量提高了3倍，绿球藻（Chlorococcuminfusionum）油脂含量提高了两倍多。从工业生产角度，EDTA对微藻产油能力有较强的作用且添加量较少，因此适合于微藻的大规模生产中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.添加氧化损伤诱导剂",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "微藻在胁迫条件下产生过量的ROS，主要由发生在叶绿体、线粒体和过氧化物体中的代谢反应产生，这是一个非常典型的细胞生理反应。而微藻细胞也因此进化出一套包括酶和非酶的抗氧化体系去清除ROS，以维持胞内的氧化还原平衡[47]。其中，抗氧化酶主要包括超氧化物歧化酶（SOD）、抗坏血酸过氧化物酶（APX）、谷胱甘肽过氧化物酶（GPX）和过氧化氢酶（CAT)。非酶抗氧化物主要有抗坏血酸、谷胱甘肽、色素等氧化还原缓冲物等。当细胞应激产生的氧自由基超过了微藻细胞的清除能力，就会造成细胞的氧化损伤。近年来，大量研究表明氧化损伤与油脂合成存在很强的关联性。且很多研究者把压力诱导微藻过量合成油脂的原因归结于压力引起的氧化损伤。因为在胁迫条件下微藻细胞的氧化应激状态会发生明显变化，如胞内ROS 积累和抗氧化酶活性的增加。Menon等[48]发现小球藻的中性脂含量和胞内ROS水平呈一个正相关关系。Li等[49]和Chokshi等[50l认为温度对栅藻（Scenedesmus sp.）和微藻（Acutodesmus dimorphus）油脂积累的促进作用是由于ROS变化引起的。Cho等[51通过外源添加苯酚对杜氏盐藻（Dunaliellasalina）造成氧化损伤，最终其油脂含量比对照组提高了 $2 6 \\%$ 。更直接的是，Yilancioglu等[52]通过外源添加过氧化氢造成杜氏盐藻的氧化损伤，但是最终杜氏盐藻的油脂含量达到了 $44 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近几年，很多研究者针对氧化损伤促进油脂积累的作用机制提出假说，主要集中在三个方面：首先，脂肪酸合成的第一个限速步骤是乙酰CoA经过乙酰辅酶a羧化酶（ACCase）合成丙酰CoA，再进入脂肪酸合成途径。而ROS可以和碳酸氢盐反应形成中间型碳酸氢盐离子从而上调ACCase 酶活，最终促进油脂积累[53]。其次，ROS在细胞的信号转导和基因的表达调控中占据重要作用。因此ROS水平的高低会影响脂肪酸合成基因的表达量，从而对油脂合成造成影响。最后，强的氧化损伤会直接导致细胞凋亡，微藻细胞自噬裂解形成的碳物质可以充当营养物质被未凋亡的细胞吸收，从而导致油脂积累[54]。但是以上这些理论假说还有待进一步证实。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "但是，很多造成微藻氧化损伤环境的条件比如营养限制，胁迫环境等都会造成微藻生长的限制，最终不能提高油脂合成速率。因此很多研究者利用低廉且对微藻细胞生长影响较小的化学物质造成氧化损伤，从而促进微藻油脂的积累。叠氮化物是一类剧毒化合物，能够抑制微藻的氧化还原反应及ATP合成途径，过量的叠氮化物会造成微藻细胞死亡，而微量的叠氮化物对微藻细胞不致死但会造成轻度的氧化损伤。Zalogin等[55]比较了添加叠氮化物和氮源限制两种策略对小球藻（Chlorelladesiccata）的影响，结果表明，相比于氮源限制对生物的限制，添加叠氮化物对微藻生长影响较小，而甘油三酯的含量却提高了 $60 \\text{‰}$ 。随后，叠氮化物的作用机制被阐明：叠氮化物会抑制微藻胞内SOD，CAT等抗氧化酶，引起微藻胞内的ROS 积累，从而促进了油脂积累[56]。布雷菲德菌素A（BFA)是一种内质网压力诱导剂，可以提高胞内脂滴的数量。Sangwoo 等[57]发现无论是在氮源充足或者缺乏的条件下，BFA都可以快速的促进Chlamydomonasreinhardtii和Chlorellavulgaris胞内脂滴的数量。这种现象在Chlorellasorokiniana,里也得到证实。此外，在Chlamydomonas reinhardti 中，Kato 等[58]发现甘油三酯积累的量和 $1 . 0 - 5 . 0 \\ \\mathrm { m M }$ 内BFA的添加量成正相关关系，研究进一步表明BFA可以抑制脂肪酸的反耗。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.添加抗氧化剂",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然适量的ROS造成的氧化损伤会促使微藻油脂的过量合成，但是过度的氧化损伤不仅会影响细胞生长，还会造成油脂的过氧化从而降低油脂产量。尤其是在一些需要在高氧，高盐等一些强胁迫条件下培养的微藻细胞，都难免会面临过度氧化损伤的问题。此外一些生产多不饱和脂肪酸的微藻细胞也需要考虑此类问题，因为多不饱和脂肪酸含有多个不饱和双键更容易被氧化。因此很多研究通过添加抗氧化剂来饱和微藻已合成的多不饱和脂肪酸。Liu等[59]在隐甲藻培养过程中添加芝麻酚，结果表明，隐甲藻的生物量和DHA生产速率分别比未添加组提高了 $4 4 . 2 \\%$ 和 $20 \\%$ 。Ren等[60]通过添加 $9 \\mathrm { g / L }$ 的抗坏血酸钠提高裂殖壶菌的抗氧化能力，并大幅度降低了胞内的ROS水平，最终生物量和DHA产量分别比对照组提高了 $1 6 . 2 \\%$ 和 $30 . 4 \\%$ 。Gaffney等[61]在裂殖壶菌培养基中添加了芝麻油，其抗氧化能力得到了较大提到，导致生物量比对照提高了2.8倍，DHA含量也有所增加。Singh 等[62]比较了没食子酸丙酯和丁羟甲苯两种抗氧化剂对破囊壶菌生长和油脂积累的影响，结果表明没食子酸丙酯对生物量和油脂含量更有促进作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7.总结与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来，微藻油脂由于可以应用于生物柴油、食品行业等领域而引起广泛关注。理想的微藻培养技术应该具有微藻生长速度快，油脂合成量大，采收容易，生产成本低等优点。近年来发展的双阶段培养，共培养，添加生长调节剂等技术一定程度上妥善解决了上述难题。作为发酵源头，获得高产微藻菌株也成为微藻大规模生产应用的重要基础。一方面，可以通过传统的适应性进化工程手段获得高产菌株。比如在胁迫环境下经过长期的适应性进化，可以使得微藻在胁迫环境下高产油脂而不影响生长。另一方面，微藻油脂的脂肪酸成分复杂，如何定向的调控脂肪酸合成途径进而单一大量合成目的脂肪酸还需进一步解决。代谢工程和合成生物学技术的发展为脂肪酸合成途径的调控提供了手段。此外，新发展的高效遗传转化体系，基因组编辑和转录工程技术，为建立高效的微藻细胞工程提高了更全面的信息和更高效的技术方法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[l]．郑洪立，张介，与小坏,寺．厂生物采油佩深培乔研九进展．中国生物工柱尔志,2009,29(3):110-6.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zheng HL, Zhang Q, Ma XC, et al. China Biotechnology, 2009, 29(3): 110-6. [2]. Chisti Y. Biodiesel from microalgae. Biotechnology Advances. 2007,25(3): 294-306. [3]. D'Alessandro EB, Filho NRA. Concepts and studies on lipid and pigments of microalgae: A review. Renewable & Sustainable Energy Reviews, 2016, 58: 832-841. [4]. Rasool S, Hameed A, Azooz MM, et al. Salt stress: Causes, types and responses of plants: Springer New York, 2013. [5]. Li T, Zheng Y, Yu L,et al. High productivity cultivation of a heat-resistant microalga Chlorella sorokiniana for biofuel production. Bioresource Technology, 2013, 131(2): 60-67. [6]. Sulochana SB,Arumugam M. Influence of abscisic acid on growth, biomass and lipid yield of Scenedesmusquadricauda under nitrogen starved condition. Bioresource Technology, 2016,213: 198-203. [7]. Hu QA, Sommerfeld M, Jarvis E,et al. Microalgal triacylglycerols as feedstocks for biofuel production: Perspectives and advances. Plant Journal， 2O08，54(4): 621-639. [8]. Ra CH, Kang CH, Na KK, Lee CG, Kim SK. Cultivation of four microalgae for biomass and oil production using a two-stage culture strategy with salt stress. Renewable Energy, 2015, 80: 117-122. [9]. Chen B, Wan C,Mehmood MA, et al. Manipulating environmental stresses and stress tolerance of microalgae for enhanced production of lipids and value-added products-a review. Bioresource Technology, 2017, 244: 1198-1206.. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10]. Ra CH, Kang CH, Jung JH, et al. Effects of light-emitting diodes (leds) on the accumulation of lipid content using a two-phase culture process with three microalgae. Bioresource Technology, 2016, 212: 254-261. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]. Mitra M, Patidar SK, Mishra S. Integrated process of two stage cultivation of Nannochloropsis sp. For nutraceutically valuable eicosapentaenoic acid along with biodiesel. Bioresource Technology,2015,193: 363-369.   \n[12]．汪桂林，桂小华，邓伟，等.“异养-胁迫\"分段培养对原始小球藻生物量和油 脂含量影响研究．中国生物工程杂志,2013,33(3):99-104.   \nWang GL, Gui XH, Deng W et al. China Biotechnology, 2013, 33(3): 99-104. [13]. Xiong W， Gao C， Yan D， et al. Double Co(2) fixationin photosynthesis-fermentation model enhances algal lipid synthesis for biodiesel production. Bioresource Technology, 2010,101(7):2287-2293.   \n[14]. Fan J, Huang J, Li Y, et al. Sequential heterotrophy-dilution-photoinduction cultivation for efficient microalgal biomass and lipid production. Bioresource Technology,2012,112(5):206-211.   \n[15].Han F,Huang J, Li Y, et al. Enhancement of microalgal biomass and lipid productivities by a model of photoautotrophic culture with heterotrophic cells as seed. Bioresource Technology, 2012,118(4):431-437.   \n[16]. Li Y, Xu H, Han F, et al. Regulation of lipid metabolism in the green microalga Chlorella protothecoidesby heterotrophy-photoinductioncultivation regime. Bioresource Technology, 2014,192(6):781-791.   \n[17]. Cheirsilp B, Suwannarat W, Niyomdecha R. Mixed culture of oleaginous yeast Rhodotorula glutinis and microalga Chlorella vulgaris for lipid production from industrial wastesand its use asbiodiesel feedstock. New Biotechnology, 2011,28(4):362-368.   \n[18]. Cheirsilp B, Kitcha S, Torpee S. Co-culture of an oleaginous yeast rhodotorula glutinis and a microalga chlorella vulgaris for biomass and lipid production using pure and crude glycerol as a sole carbon source. Annals of Microbiology, 2012,62:987-993. [19]. Shu CH, Tsai CC, Chen KY, et al. Enhancing high quality oil accumulation and carbon dioxide fixation by a mixed culture of Chlorella sp. and Saccharomyces cerevisiae. JournaloftheTaiwanInstituteofChemicalEngineers, 2013,44(6):936-942.   \n[20]. Ling J, Nip S, Cheok WL，et al. Lipid production by a mixed culture of oleaginous yeast and microalga from distillery and domestic mixed wastewater. Bioresource Technology, 2014,173:132-139. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]. Yen HW, Chen PW, Chen LJ. The synergistic effects for the co-cultivation of oleaginous yeast-Rhodotorula glutinis and microalgae-Scenedesmus obliquus on the biomass and total lipids accumulation. Bioresource Technology, 2015,184:148-152. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]. Peng Z, Yu X, Li J, et al. Enhancing lipid productivity by co-cultivation of chlorella sp.U4341 and monoraphidium sp. Fxy-10. Journal of Bioscience & Bioengineering, 2014,118(1):72-77. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]．赵飞燕，余旭亚，徐军伟，等．共培养微藻Monoraphidium sp.FXY-10 与 Chlorella sp.U4341提高油脂产率与沉降率．生物工程,2018,43. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zhao FY, Yu XY, Xu WJ,et al. Enhancement of lipid productivity and flocculation by co-cultivation of Chlorella sp. U4341 and Monoraphidium sp. FXY-10. China Oils and Fats,2018, 43(2).   \n[24].De-Bashan LE,Antoun H, Bashan Y. Involvement of indole-3-acetic acid produced by the growth-promoting bacterium azospirillum spp. In promoting growth of Chlorella vulgaris(1). Journal of Phycology,2008,44 (4） :938-947.   \n[25]. Do NM, Dublan ML, Ortiz-Marquez JC,et al. High lipid productivity of an ankistrodesmus-rhizobiumartificialconsortium.BioresourceTechnology, 2013,146:400-407.   \n[26]. Xin Z, Yan Z， Sheng H, et al. Characterization of microalgae-bacteria consortium cultured in landfill leachate for carbon fixation and lipid production. Bioresource Technology,2014,156(2):322-328.   \n[27].Higgins BT,Labavitch JM， Vandergheynst JS. Co-culturing Chlorella minutissima with Escherichia coli can increase neutral lipid production and improve biodiesel quality. Biotechnology & Bioengineering,2015,112:1801-1809.   \n[28]. Wu Z, Zhu Y, Huang W, et al. Evaluation of flocculation induced by ph increase for harvesting microalgae and reuse of flocculated medium. Bioresource Technology, 2012,110 (2):496-502.   \n[29].Wang H,Anderson MA,Chen F,et al. Novel bacterial isolate from permian groundwater, capableof aggregatingpotential biofuel-producingmicroalga Nannochloropsisoceanica imet1. Applied & Environmental Microbiology, 2012,78(5):1445.   \n[30]. Agbakpe M, Ge SJ, Zhang W, et al. Algae harvesting for biofuel production: Influences of uv irradiation and polyethylenimine (pei） coating on bacterial biocoagulation. Bioresource Technology, 2014,166:266-272.   \n[31]. Wang Y, Yang Y， Ma F， et al. Optimization of Chlorella vulgaris and bioflocculant - producing bacteria co-culture: Enhancing microalgae harvesting and lipid content.Letters in Applied Microbiology, 2015,60(5):497-503.   \n[32]. Che R, Ding K, Huang L, et al. Enhancing biomass and oil accumulation of Monoraphidium sp .Fxy-10 by combined fulvic acid and two-step cultivation. Journal of the Taiwan Institute of Chemical Engineers, 2016,67:161-165.   \n[33]. Che R, Huang L, Xu JW, et al. Efect of fulvic acid induction on the physiology, metabolism,and lipid biosynthesis-related gene transcription of Monoraphidium sp. Fxy-10. Bioresource Technology, 2016,227:324-334.   \n[34]．杨凯，史全良．不同浓度IAA对微藻TH6(Oedocladiumsp.)生长及脂肪酸含 量的影响．植物资源与环境学报,2009,18(2):80-83. Yang K, Shi QL. Effects of different concentrations of IAA on growth and fatty acid content of microalgae TH6 (Oedocladium sp.). Journal of Plant Resources and Environment, 2009,18(2): 80-83.   \n[35]．郝宗娣，刘平怀，时杰，等．不同植物激素对原始小球藻生长及油脂含量的 影响．广东农业科学,2012,39(8):104-107.   \nHao ZD, Liu PH, Shi J, et al. Effects of phytohormone on growth and fatty acid composition of Chlorella protothecoides. Guangdong Agricultural Sciences, 2012, 39(8): 104-107.   \n[36]. Liu J, Qiu W, Song Y. Stimulatory effect of auxins on the growth and lipid productivity of Chlorella pyrenoidosa and Scenedesmus quadricauda. Algal Research, 2016,18:273-280.   \n[37]．刘飞，王超，王振瑶，等．植物激素诱导对小球藻chlorella vulgaris 细胞生 物量和油脂合成积累的影响．中国生物制品学杂志,2017,30(4):390-394.   \nLiu F, Wang C, Wang ZY, et al. Effect of induction with phytohormones analogs on biomass and lipid accumulation in Chlorella vulgaris cells. Chinese Journal of Biologicals, 2017,30(4):390-394.   \n[38]. Yoshida K,Igarashi E, Wakatsuki E, et al. Mitigation of osmotic and salt stresses by abscisic acid through reduction of stress-derived oxidative damagein Chlamydomonas reinhardtii. Plant Science, 2004,167(6):1335-1341.   \n[39].Babu AG, Wu X, Kabra AN,et al. Cultivation of an indigenous Chlorella sorokiniana with phytohormones for biomass and lipid production under n-limitation. Algal Research, 2017,23:178-185.   \n[40]. Salama E, Kabra AN, Ji MK, et al. Enhancement of microalgae growth and fatty acid content under the influence of phytohormones.Bioresource Technology, 2014,172:97-103.   \n[41]. Yu XJ， Sun J， Sun YQ，et al. Metabolomics analysis of phytohormone gibberelin improving lipid and DHA accumulation in Aurantiochytriumsp.   \nBiochemical Engineering Journal, 2016,112:258-268. [42]. Jusoh M,Loh SH, Chuah TS,et al. Elucidating the role of jasmonic acid in oil accumulation， fatty acid composition and gene expression in chlorella vulgaris (trebouxiophyceae） duringearlystationarygrowth phase. Algal Research, 2015,9:14-20.   \n[43].Dou X, Lu XH, Lu MZ,et al. The effects of trace elements on the lipid productivity and fatty acid composition of Nannochloropis oculata. Journal of Renewable Energy, 2013.   \n[44]. Ren HY,Liu BF, Kong F, et al. Enhanced lipid accumulation of green microalga Scenedesmussp. by metal ions and edta addition. Bioresource Technology, 2014,169(5):763-767.   \n[45]. Singh P, Guldhe A, Kumari S,et al. Combined metals and EDTA control: An integrated and scalable lipid enhancement strategy to alleviate biomass constraints in microalgae under nitrogen limited conditions. Energy Conversion & Management, 2016,114:100-109.   \n[46]. Gour GS, Prakash CG, Ruma P. Efficacy of EDTA and phosphorous on biomass yield and total lipid accumulation in two green microalgae with special emphasis on neutral lipid detection by flow cytometry. Advances in Biology, 2016,2016(3):1-12. [47]. Gessler NN,Aver'Yanov AA, Belozerskaya TA. Reactive oxygen species in regulation of fungal development. Biochemistry Biokhimiia, 2007,72(10):1091-1109. [48]. Menon KR,Balan R, Suraishkumar GK. Stress induced lipid production in chlorella vulgaris: Relationship with specific intracellular reactive species levels. Biotechnology & Bioengineering, 2013,110(6):1627-1636.   \n[49]. Li X, Hu HY, Zhang YP. Growth and lipid accumulation properties of a freshwater microalga Scenedesmus sp. Under different cultivation temperature. Bioresource Technology, 2011,102(3):3098.   \n[50]. Chokshi K,Pancha I, Trivedi K,et al. Biofuel potential of the newly isolated microalgae Acutodesmus dimorphus under temperature induced oxidative stress conditions. Bioresource Technology, 2015,180:162-71.   \n[51]. Cho K, Lee CH, Ko K, et al. Use of phenol-induced oxidative stress acclimation to stimulate cell growth and biodiesel production by the oceanic microalga Dunaliella salina. Algal Research, 2016,17:61-66.   \n[52]. Yilancioglu K, Cokol M, Pastirmaci I,et al. Oxidative stress is a mediator for increased lipid accumulation in a newly isolated Dunaliella salina strain. Plos One, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2014,9:e91957. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[53]. Petri BG，Watts RJ, Teel AL，et al. Fundamentals of isco using hydrogen peroxide: Springer New York; 2011.   \n[54]. Goodson C, Roth R, Wang ZT, et al. Structural correlates of cytoplasmic and chloroplast lipid body synthesis in Chlamydomonas reinhardtii and stimulation of lipid body production with acetate boost. Eukaryotic Cell, 2011,10(12):1592.   \n[55]. Zalogin TR, Pick U. Azide improves triglyceride yield in microalgae. Algal Research, 2014,3(1):8-16.   \n[56]. Zalogin TR, Pick U. Inhibition of nitrate reductase by azide in microalgae results in triglycerides accumulation. Algal Research, 2014,3(8):17-23.   \n[57]. Sangwoo K, Hanul K, Donghwi K, et al. Rapid induction of lipid droplets in Chlamydomonas reinhardtii and Chlorella vulgaris by brefeldin a. Plos One, 2013,8:e81978.   \n[58]. Kato N, Dong T, Bailey M, et al. Triacylglycerol mobilization is suppressed by brefeldina in Chlamydomonasreinhardtii. Plant& Cell Physiology, 2013,54(10):1585.   \n[59]. Liu B, Jin L, Sun P, et al. Sesamol enhances cell growth and the biosynthesis and accumulation of docosahexaenoic acid in the microalga Crypthecodinium cohnii. Journal of Agricultural & Food Chemistry, 2015,63(23):5640-5645.   \n[60]. Ren LJ, Sun XM, Ji XJ,et al. Enhancement of docosahexaenoic acid synthesis by manipulation of antioxidant capacity and prevention of oxidative damage in Schizochytrium sp. Bioresource Technology, 2016,223:141-148.   \n[61]. Gaffney M, ORourke R, Murphy R. Manipulation of fatty acid and antioxidant profiles of the microalgae Schizochytrium sp. through flaxseed oil supplementation. Algal Research, 2014,6:195-200.   \n[62]. Singh D， Mathur AS， Tuli DK， et al. Propyl gallate and butylated hydroxytoluene influence the accumulation of saturated fatty acids,omega-3 fatty acidand carotenoidsin Thraustochytrids. Journal of Functional Foods, 2015,15:186-192. ",
+        "page_idx": 12
+    }
+]

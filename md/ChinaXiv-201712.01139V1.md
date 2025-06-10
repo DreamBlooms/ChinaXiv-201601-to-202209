@@ -1,0 +1,108 @@
+# 苍术提取物对脾虚证大鼠胃粘膜及胃肠免疫功能的影响
+
+刘 芬1²,刘艳菊²,田春漫1  
+1湖北民族学院,湖北 恩施 445000;湖北中医药大学，湖北 武汉 430065
+
+摘要：目的 探讨苍术提取物(Rhizome Atractylodes extract,ERA)保护胃粘膜的作用及对脾虚模型大鼠胃肠免疫功能的影响，阐明ERA干预脾虚证的作用机制。方法采用喂饲小承气汤煎剂加饥饱失常建立大鼠脾虚证模型,模型复制成功后动物随机分为脾虚模型组,ERA高、中、低剂量组,多潘立酮组。连续灌胃给药 $1 0 \mathrm { ~ d } _ { \circ }$ 采用肠道灌流法检测大鼠肠道灌流液IgA含量，腹主动脉采血法检测大鼠血清IgG含量，并测定大鼠胸腺、脾脏指数，HE染色行大鼠胃黏膜病理学观察,激光多普勒微循环血流计行大鼠胃黏膜血流量的测定，免疫组化法测定大鼠胃黏膜组织中TFF1及结肠TLR4的表达量。结果与正常组比较，模型组大鼠胃黏膜形态学、胃黏膜血流量、相关免疫学指标显著改变;与模型组比较，ERA各剂量组大鼠胃黏膜形态学、胃黏膜血流量、胃黏膜组织中三叶因子1(TFF1)的表达量,肠道灌流液IgA、血清IgG含量、胸腺、脾脏指数及结肠TLR4的表达量不同程度升高，差异均有统计学意义（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。结论ERA可抑制脾虚证大鼠胃粘膜损害，保护和修复损伤的粘膜组织，并改善脾虚证大鼠的免疫功能。
+
+关键词：苍术提取物；脾虚证；胃粘膜；免疫功能
+
+# Effect of Rhizoma Atractylodis extract in protecting gastric mucosa and modulating gastrointestinal immune function in a rat model of spleen deficiency
+
+LIUFen'²,LIUYangju²,TIANChunman   
+HubeiInstitutefortoalitiesnshooi;ColgfaacyofHubeesityfinseMediie,a   
+China
+
+Abstract: Objective To investigate the effect of Rhizoma Atractylodis extract (ERA) in protecting gastric mucosa and modulating gastrointestinal immune functionof arat model of spleen deficiency syndromeand elucidate the mechanism by which ERA improves spleen deficiencysyndrome.Methods Malerats fed with Xiaochengqi decoction and subjected to irregular feeding toinduce spleendeficiency syndrome.Theestablished models wererandomized intomodel group,high-, moderate- and low-dose ERA groups,and domperidone group.Aftercorresponding treatmen for 30days,thecontent of IgA inthe intestinallavagefluid,serumIG,andtheidicesof thespleenandtyus weredetermined.Tepathologicalchanges inthe gastric mucosa was observed withHE staininggastric mucosal blood flow was evaluated with laser Dopplerrheometry and the expresson of TFF1 inthe gastric mucosa and TLR4 expression in the colon tissue were detected with immunohistochemistry.ResultsTherat modelsof spleen deficiency syndrome showedobvious abnormalities in gastric mucosal morphology，blood flowand immunological indexes.Compared with themodel rats，theratsreceiving ERA treatment asdiferentdosesallshowedsignificantimprovements ingastric mucoal morphologybloodflowvolumegastric mucosatrefoilfactor1(F)expressiontestiallaagefluidIgAcoentsrumIGcotent,indicsof thseead thymus, and TLR4 expression in the colon TLR4 ( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ). Conclusion ERA can inhibit gastric mucosal damage, protect and repair the damaged mucosal tissues,and improve the immune function of in rats with spleen deficiency. Key words: Rhizome Atractylodes extract; spleen deficiency syndrome; gastric mucosa; immune function
+
+中医传统理论认为脾主运化，为后天之本，气血化生之本源，现代研究也认为，包括消化、吸收、代谢、免疫、神经、内分泌等多系统的功能均与脾(胃)有关[1，而脾虚也常表现为上述多系统的综合征。苍术性温，味甘苦，归肝脾肾三经，主要功能是燥湿健脾，临床常用于消化系统病症的治疗，具有很好的调理胃肠功能，促进胃肠动力，防治慢性胃肠疾病的作用[2]。查阅相关文献，发现国内外对苍术的研究较少，更少涉及对消化系统疾病干预机制的深层次研究。本项研究通过观察苍术提取物（Rhizome Atractylodes extract,ERA)对脾虚证模型大鼠胃粘膜损伤及胃肠免疫功能障碍的影响，评价ERA对脾虚证模型大鼠胃粘膜的保护及对胃肠免疫功能的调节作用，研究ERA调控脾虚的确切机制。
+
+# 1 材料和方法
+
+1.1 动物
+
+雄性健康SD大鼠，体质量 $2 0 0 { \pm } 2 0 \ \mathrm { g }$ ，购自同济医科大学实验动物中心，动物许可证号SKSF（鄂）20130105。
+
+# 1.2药物与试剂
+
+苍术提取物(ERA)，批号：130711，武汉市九州通医药有限公司，通过HPLC特征图谱分析苍术醇提物中主要含有苍术素、茅术醇、B-桉叶醇、苍术定醇、苍术酮、苍术呋喃烃等活性成分，与文献一致[34],药品质量合格。多潘立酮片，批号：130112,西安杨森制药有限公司；生物素化羊抗大鼠IgG、IgA试剂盒，批号分别为：20120615,20120614,亲和素-HRP,批号：121101，抗胃黏膜三叶因子1(TFF1）、ToIl样受体4(TLR4)兔多克隆抗体，批号分别为：120508,120507，以上均由南京建成生物科技有限公司提供。
+
+# 1.3仪器
+
+TP-A100电子分析天平(上海君鹰衡器有限公司);GC-1500型y放射免疫计数器(安徽中科中佳科学仪器有限公司)；DG5032型酶联免疫检测仪(南京市华东电子团体医疗装备有限责任公司）；XSP-300型-双目显微镜(上海蔡康光学仪器有限公司);Image-Pro Plus5.1分析系统、Motic图像分析系统(奥林巴斯中国有限公司);moorLDI2-HIR激光多普勒微循环血流计(吉安得尔科技有限公司)。
+
+# 1.2 方法
+
+1.2.1脾虚大鼠模型制备脾虚大鼠模型的建立参照曾益宏、刘友章等5创立的破气苦降加饥饱失常法，每日灌服小承气汤煎剂诱发大鼠脾虚模型。经观察，造模结束时，正常组大鼠毛发顺整;行为状态正常；活跃程度一般;睡眠正常;饮食、大便正常。而模型复制组大鼠均出现了以下变化：毛发不泽、枯乱;少动、拱背、眯眼、扎堆、兴奋性差;活跃度迟缓;嗜睡、倦卧;饮食明显减少；大便便溏。同时，造模结束时，与正常组比较,模型复制组大鼠无论体温（ $\mathrm { ^ { \circ } C ) }$ ( $3 5 . 2 9 { \scriptstyle \pm 0 . 6 9 }$ vs $3 6 . 9 2 { \scriptstyle \pm 0 . 4 1 , P < 0 . 0 1 } )$ 、体质量(g) $( 2 0 5 . 7 \pm 1 0 . 2 \$ vs $2 4 9 . 8 \pm 1 2 . 1 , P 5 0 . 0 1 )$ 、活动次数（次） $\cdot 1 4 . 2 0 { \pm } 3 . 0 5$ vs $4 3 . 4 5 { \pm } 8 . 3 7 , P 9 . 0 1 )$ ,还是尿D-木糖排泄率 $\left( 2 0 . 3 8 { \pm } 3 . 3 8 \right.$ vS $4 9 . 5 5 { \pm } 6 . 5 6 , P { < } 0 . 0 1 ,$ ，都明显降低，由此确定脾虚模型复制成功，且成功率达到 $90 \%$ 以上。
+
+1.2.2分组及给药确认大鼠模型造模成功后，将模型复制组大鼠随机分组：脾虚模型组(模型组)，ERA高、中、低剂量组，多潘立酮组，10只/组，并与正常组10只大鼠一同进入实验，结束造模后次日开始灌胃给药，动物连续灌胃10d,其中ERA高、中、低剂量组每天的剂量为 $2 0 . 0 \mathrm { { , } 1 0 . 0 \mathrm { { , } 5 . 0 \mathrm { { g / k g } } } }$ ，多潘立酮组为 $5 . 0 \mathrm { m g / k g }$ ，正常组和脾虚模型组则给予相同体积的生理盐水。
+
+# 1.2.3指标检测
+
+1.2.3.1大鼠肠道灌流液IgA及血清IgG含量的测定肠灌洗液IgA的测定：最后一次灌胃给药后，所有大鼠禁食不禁水 $2 4 \mathrm { h }$ ，肠灌洗液灌胃4次，每次 $2 ~ \mathrm { m l }$ ,每次间隔 $1 5 ~ \mathrm { m i n }$ ，按文献方法收集肠灌洗液，ELISA法测定肠液分泌型IgA含量。待胃黏膜血流量测定完毕后，腹主动脉采血法采血 $6 \mathrm { m l }$ ,ELISA法测定血清IgG含量。1.2.3.2 大鼠胃黏膜血流量的测定[7]大鼠麻醉后仰姿，然后经大鼠剑突下正中剪开腹壁，充分暴露胃体，并在胃体前壁切开一 $0 . 5 \mathrm { c m }$ 的切口，插入激光多普勒微循环血流仪探头，分别测量胃体大小弯，胃窦等处胃黏膜血流量（GMBF)。
+
+1.2.3.3大鼠胸腺、脾脏指数与脾淋巴细胞(T、B)增殖率测定[8]脱颈椎处死大鼠,取胸腺和脾,计算胸腺、脾脏指数(B)，计算公式是： $\mathbf { B } = { \mathbf { \underline { { \Pi } } } }$ 脏器质量 $\mathrm { ( m g ) }$ /大鼠体质量$( \mathrm { g } ) { \times } 1 0 0 \%$ 。
+
+1.2.3.4大鼠胃黏膜病理学观察选择病变的胃黏膜组织（所有大鼠均取相同部位）， $10 \%$ 甲醛液固定，常规石蜡包埋， $5 \mu \mathrm { m }$ 连续切片，HE常规染色，光镜下观察胃黏膜病理学改变并摄像。
+
+1.2.3.5大鼠胃黏膜组织中TFF1及结肠组织TLR4表达量的测定取胃黏膜及结肠组织， $4 \%$ 多聚甲醛固定，石蜡包埋，切片。按SABC法免疫组化处理,所有切片均在高倍显微镜下(同一条件)观察,阳性细胞的标准是细胞质或胞核被染为棕黄色或棕褐色。每个样本随机检测染色较好的5个高倍视野，Image-ProPlus5.1分析系统半定量分析，观察并计算胃黏膜腺体和上皮单位面积上TFF1及结肠组织横断面固有层单位面积上TLR4阳性细胞染色的积分光密度，以IOD值表示，5个高倍视野IOD值的均数即为该样本阳性细胞积分光密度值(IOD值)。
+
+# 1.3统计学方法
+
+数据以均数±标准差表示，应用SPSSl7.0统计软件进行单因素方差分析，均数两两比较采用q检验，显著性检验水平为 $\scriptstyle \mathtt { q = 0 } . 0 5$ O
+
+# 2结果
+
+# 2.1大鼠胃黏膜血流量的测定
+
+与模型组比较，正常组、ERA高、中、低剂量组、多潘立酮组的胃黏膜血流量明显升高（ $\scriptstyle \overbrace { P < 0 . 0 5 }$ 或 $P <$ 0.01);与多潘立酮组比较，ERA高、中剂量组胃黏膜血流量进一步升高，差异有显著性( $\scriptstyle - { P < 0 . 0 5 }$ 或 $P { < } 0 . 0 1 \$ ；与ERA低剂量组比较，ERA高、中剂量组胃黏膜血流量明显升高( $\scriptstyle \sum ( 0 . 0 5$ 或 $P { < } 0 . 0 1$ ，表1)。
+
+# 2.2大鼠胃黏膜病理学观察及比较
+
+正常组大鼠胃粘膜结构正常，层次清楚(图1A);模
+
+# 表1ERA对模型大鼠胃黏膜血流量的影响
+
+Tab.1 Effect of Rhizoma atractylodis extract on gastric mucosalblood flow in the rats (Mean±SD, $n { = } 1 0$ ）  
+
+<html><body><table><tr><td>Group</td><td>Dose(g·kg1·d1)</td><td>GMBF (mV)</td></tr><tr><td>Normal</td><td></td><td>60.2±3.6△</td></tr><tr><td>Model</td><td>-</td><td>30.9±8.3</td></tr><tr><td>ERA</td><td></td><td></td></tr><tr><td>Low</td><td>5</td><td>39.4±5.4</td></tr><tr><td>Middle</td><td>10.0</td><td>48.5±4.4△△▲☆</td></tr><tr><td>High</td><td>20.0</td><td>58.1±3.1△△☆☆</td></tr><tr><td>Domperidone</td><td>5×10-3</td><td>38.1±3.5△△</td></tr></table></body></html>
+
+$^ { \triangle } P { < } 0 . 0 5$ $^ { \triangle \triangle } P { < } 0 . 0 1$ us model group; $^ { \bullet } P { < } 0 . 0 5$ $^ { \pm \bullet \bullet } P { < } 0 . 0 1$ us domperidone group; $^ { \ast } P { < } 0 . 0 5$ ， $^ { * } \tilde { ^ { * } } \tilde { ^ { P } } { < } 0 . 0 1$ vs ERA low- dose group.ERA:Rhizome atractylodes extract.
+
+型组大鼠胃黏膜及黏膜下层出血、水肿明显，粘膜变薄，大片状脱落，连续性胃黏膜中断,粘膜上皮细胞坏死(图1B)；多潘立酮组大鼠胃粘膜部分中断，黏膜、黏膜卜层部分水肿，部分可见炎细胞浸润(图1C);ERA中剂量组胃黏膜及黏膜下层少量炎症、水肿，腺体排列较齐，部分可见炎细胞浸润(图1E);ERA高剂量组大鼠胃黏膜、黏膜下层充血水肿轻，腺体排列整齐，有少量炎细胞浸润(图1F)。
+
+# 2.3ERA对模型大鼠肠道灌流液IgA及血清IgG含量的影响
+
+与模型组比较，正常组、ERA高、中、低剂量组、多
+
+![](images/21f5dca28e62b03534acf070a42b61252d815e85269cb15479d5b99dffcbf7b6.jpg)  
+图1大鼠胃黏膜组织病理学检查 Fig.1 Histopathological examination of the gastric mucosa in diferent groups (HE staining,original magnification: $\times 2 0 0 ^ { \cdot }$ .A: Normal group; B: Model group; C: Domperidone group; $D , E ,$ F: ERA low-, middle-, high- dose group,respectively.
+
+潘立酮组大鼠肠道灌流液IgA及血清IgG含量不同程度升高( $\scriptstyle \phantom { + } P < 0 . 0 5$ 或 $P { < } 0 . 0 1 \rangle$ ；与多潘立酮组比较，ERA高、中剂量组肠道灌流液IgA及血清IgG含量不同程度
+
+升高 $( P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ )；与ERA低剂量组比较，ERA高、中剂量组肠道灌流液 $\operatorname { I g } \mathrm { A }$ 及血清 $\mathrm { I g G }$ 含量进一步升高 $\scriptstyle \cdot < 0 . 0 5$ 或 $P { < } 0 . 0 1$ ，表2)。
+
+表2ERA对模型大鼠肠道灌流液IgA及血清IgG含量的影响Tab.2Efectof Rhizoma atractylodis extract on intestinal lavage fluid IgAand serum IgG levels in the modelrats (Mean±SD, $n { = } 1 0$ ）  
+
+<html><body><table><tr><td>Group</td><td>Dose (g·kg‡·d1)</td><td>Serum IgG (g/L)</td><td>Intestinal perfusion fluid IgA(g/L)</td></tr><tr><td>Normal</td><td></td><td>5.69±0.86△△</td><td>1.05±0.08△△</td></tr><tr><td>Nodel</td><td>-</td><td>2.02±0.15</td><td>0.29±0.02</td></tr><tr><td>ERA</td><td></td><td></td><td></td></tr><tr><td>Low</td><td>5</td><td>3.11±0.26</td><td>0.44±0.03△</td></tr><tr><td>Middle</td><td>10.0</td><td>4.15±0.29△△▲☆</td><td>0.65±0.05△△▲☆</td></tr><tr><td>High</td><td>20.0</td><td>5.67±0.78△△▲▲☆☆</td><td>0.99±0.08△△▲▲</td></tr><tr><td>Domperidone</td><td>5x10-3</td><td>3.01±0.28△</td><td>0.40±0.03△</td></tr></table></body></html>
+
+$\overline { { P { < } 0 . 0 5 } }$ ， $^ { \triangle \triangle } P { < } 0 . 0 1$ us model group; $^ { \bullet } P { < } 0 . 0 5$ ， $^ { \pm \ \pmb { \mathscr { P } } < 0 . 0 1 }$ vs domperidone group; $^ { \ast } P { < } 0 . 0 5$ ， $^ { \ast } P { < } 0 . 0 1$ Us ERA low- dose group.ERA: Rhizome atractylodes extract.
+
+# 2.4ERA对模型大鼠胸腺和脾脏指数水平的影响
+
+与模型组比较，正常组、ERA高、中、低剂量组、多潘立酮组大鼠胸腺和脾脏指数水平不同程度升高( $P <$ 0.05或 $P { < } 0 . 0 1 \$ )；与多潘立酮组比较，ERA高、中剂量组
+
+胸腺和脾脏指数水平不同程度升高 $( P { < } 0 . 0 5$ 或 $P <$ 0.01)；与ERA低剂量组比较，ERA高、中剂量组胸腺和脾脏指数水平进一步升高( $\scriptstyle \sum \sum ( 0 . 0 5$ 或 $P { < } 0 . 0 1$ ，表3)。
+
+表3ERA对模型大鼠胸腺和脾脏指数水平的影响 Tab.3 Efect of Rhizoma atractylodis extract on thymus and spleen indices (Mean±SD, $\mathrm { n = 1 0 } ^ { \cdot }$   
+
+<html><body><table><tr><td>Group</td><td>Dose (g·kg1·d1)</td><td>Thymus index</td><td>Spleen index</td></tr><tr><td>Normal</td><td></td><td>2.85±0.31△△</td><td>3.59±0.58△</td></tr><tr><td>Model</td><td></td><td>2.02±0.23</td><td>2.69±0.39</td></tr><tr><td>ERA</td><td></td><td></td><td></td></tr><tr><td>Low</td><td>5</td><td>2.35±0.25△</td><td>2.89±0.43△</td></tr><tr><td>Middle</td><td>10.0</td><td>2.57±0.27△△▲</td><td>3.19±0.45△△▲☆</td></tr><tr><td>High</td><td>20.0</td><td>2.81±0.28△△☆☆</td><td>3.57±0.48△△☆</td></tr><tr><td>Domperidone</td><td>5x10-</td><td>2.31±0.21△</td><td>2.85±0.41△</td></tr></table></body></html>
+
+$^ { \circ } P { < } 0 . 0 5$ ， $^ { \triangle \triangle } P { < } 0 . 0 1$ us model group; $^ { \bullet } P { < } 0 . 0 5$ $^ { \pm \bullet \bullet } P { \ < } 0 . 0 1$ vs domperidone group; $^ { \mathrm { s } } P { < } 0 . 0 5$ $^ { \ast \ast } P { < } 0 . 0 1$ Us ERA lowdose group.ERA: Rhizome atractylodes extract.
+
+# 2.5ERA对模型大鼠胃黏膜组织中TFF1、结肠组织中TLR4表达量的影响
+
+TFF1主要表达在胃黏膜腺体细胞胞浆中，颜色呈棕黄色，与模型组比较，正常组、ERA高、中、低剂量组、多潘立酮组大鼠胃黏膜腺体细胞胞浆中TFF1的表达量不同程度升高( $\scriptstyle \cdot < 0 . 0 5$ 或 $P { < } 0 . 0 1 \$ );与多潘立酮组比较，ERA高剂量组大鼠胃黏膜腺体细胞胞浆中TFF1的表达量明显升高 $( P { < } 0 . 0 5 )$ ；与ERA低剂量组比较，ERA高、中剂量组大鼠胃黏膜腺体细胞胞浆中TFF1的表达量进一步升高( $\scriptstyle \left( P < 0 . 0 5 \right.$ 或 $P { < } 0 . 0 1 \$ )；大鼠结肠中TLR4阳性物质表达均呈棕黄、褐色分布。与模型组比较，正常组、ERA高、中、低剂量组、多潘立酮组大鼠结肠组织中TLR4表达量不同程度升高（ $\scriptstyle \overbrace { P < 0 . 0 5 }$ 或 $P { < } 0 . 0 1 \$ ；与多潘立酮组比较，ERA高、中剂量组大鼠结肠组织中TLR4表达量不同程度升高 $\scriptstyle \cdot - ( - 0 . 0 5$ 或 $P { < } 0 . 0 1 \rangle$ ；与ERA低剂量组比较，ERA高、中剂量组大鼠结肠组织中TLR4表达量进一步升高( $\scriptstyle \sum ( 2 . 0 . 0 5$ 或 $P { < } 0 . 0 1$ ，图2、3和表4)。
+
+![](images/20f2a9426e917216417201fb5defe63ecf4db883a6acc8a2867044a4d9deb7e2.jpg)  
+图2大鼠胃黏膜组织中TFF1免疫组化检查 Fig.2 TFF1 immunohistochemical examination of gastric mucosa tissues in diferent groups rats( $\times 2 0 0 ^ { \circ }$ . A: Normal group; B: Model group; C: Domperidone group; D,E,F: ERA low-, middle-, high- dose group,respectively.

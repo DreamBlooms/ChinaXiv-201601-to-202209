@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "定点突变改善PvEH1对邻甲基苯基缩水甘油醚的催化特性\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阚婷婷」　宗迅成²　苏永君」　王婷婷」李　闯²胡　蝶3\\*\\* 邬敏辰 3\\*\\*(1 江南大学药学院 无锡 2141222 江南大学生物工程学院 无锡 2141223 江南大学无锡医学院 无锡 214122)摘要环氧化物水解酶能够对外消旋环氧化物进行动力学拆分保留单构型的环氧化物。测定了菜豆环氧化物水解酶（ $( P \\nu \\mathrm { E H 1 } )$ ）针对苯基缩水甘油醚及其甲基衍生物的催化特性，并基于分子对接及多序列比对分析确定7个突变位点，通过单点和组合突变对 $P \\nu \\mathrm { E H 1 }$ 进行改造，以期改善 $P \\nu \\mathrm { E H 1 }$ 对邻甲基苯基缩水甘油醚（1a）的催化特性。底物谱分析表明 $P \\nu \\mathrm { E H 1 }$ 对1a的催化活性（ $1 5 7 . 2 \\mathrm { U / g }$ 湿细胞)和对映选择性 $( E = 5 . 6 )$ ）最高。单点突变结果显示E.colilpveh $I ^ { \\mathrm { L 1 0 5 I } }$ 和 $E$ coli/pvehl $\\mathsf { \\Pi } ^ { \\mathsf { V I O 6 I } }$ 对1a的催化活性和对映选择性均有明显提高；L105I和V106I位组合突变菌株 $E .$ coli/pveh1L105I/V106I的催化活性$( 4 9 3 . 8 \\mathrm { U / g }$ 湿细胞）是 $E$ .colilpveh1的3.1倍，对映选择性 $( E = 8 . 3 )$ ）也提高至 $E$ ，coli/pvehl 的1.5倍。纯化后 $P \\nu \\mathrm { E H 1 } ^ { \\mathrm { L 1 0 5 I / V 1 0 6 I } }$ 的催化活性为 $1 7 . 6 \\mathrm { U / m g }$ 是 $P \\nu \\mathrm { E H l }$ 的1.5倍，对1a的催化效率提高至PvEH1的2.1倍。SDS-PAGE分析表明提高了蛋白的可溶性表达量。利用 $E .$ coli/pvehIL105I/V106I全细胞催化$1 0 0 \\mathrm { m m o l / L }$ 1a 水解动力学拆分获得手性纯 $( R )$ -1a $( e e > 9 6 \\% )$ ）的产率和时空产率分别为 $3 1 . 2 \\%$ 和$5 . 1 2 \\ \\mathrm { g / L / h }$ ，因此，在手性纯 $( R )$ -1a的制备中， $E$ .coli/pvehIL105I/V106I是一种颇具潜力的生物催化剂。关键词 环氧化物水解酶定点突变催化活性动力学拆分　邻甲基苯基缩水甘油醚",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号 Q814.9",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "环氧化物水解酶（epoxide hydrolases，EHs，EC 3.3.2.-）广泛存在于植物、动物及微生物中，其可以立体选择性地催化环氧化物的三元环开环生成邻二醇，或保留单构型环氧化物[1]。绝大多数EHs属于 $\\alpha / \\beta$ 折叠型水解酶超家族，典型的 $\\alpha / \\beta$ 型 EHs由核心结构域(coredomain）和盖子结构域（liddomain）组成。核心结构域一般由5个 $\\alpha \\cdot$ 螺旋和8个 $\\mathbf { \\nabla } \\beta$ 折叠股组成[2]，含有催化三联体(catalytic triad)Asp-His-Asp。 $\\alpha / \\beta$ 核心结构域的上方具有一个由5个 $\\mathfrak { a }$ -螺旋组成的盖子结构域，位于该域的两个高度保守的质子供体Tyr与催化三联体共同组成活性中心[3]。根据EHs对不同底物的立体选择性，环氧化物的水解方式分为两种：动力学拆分和对映归一性水解[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "单构型环氧化物是合成手性化合物的重要砌块，在医药、农药、香料和精细化工等领域有着较高的应用价值。例如，(S)-环氧苯乙烷是合成抗HIV病毒药、杀虫剂等的重要中间体[5]， $( R )$ -邻甲基苯基缩水甘油醚是合成 $\\{ \\beta _ { 1 } \\cdot$ -肾上腺素受体拮抗剂的重要原材料[6]。传统化学合成法制备单构型环氧化物常常需要用到重金属元素等有毒物质，不仅面临着巨大的环境和资源的压力，且很难得到高光学纯度的环氧化物。EHs作为生物催化剂，因具有高对映选择性、反应条件温和和环境友好等优点，符合绿色化学的可持续发展的要求，而受到广大研究者的重视。目前，采用蛋白质/基因工程技术对EHs进行“挖掘”",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "及对现有的EHs进行改造，以获取催化活性高且对映选择性好的EHs，已成为研究热点。最近，Li等[7]从菜豆中挖掘出一种新型环氧化物水解酶PvEH2，其对外消旋环氧苯乙烷具有很高的对映选择性。Kong 等[8基于BmEH的晶体结构定点突变得到的两株突变体F128A和M145A对萘基缩水甘油醚的催化活性分别提高了42和25倍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究室前期从菜豆（Phaseolusvulgaris）总RNA中扩增出编码菜豆环氧化物水解酶的基因pvehl(Genebank:KR604729)，并实现其在大肠杆菌 E.coli BL21(DE3）中的异源表达[9]。本研究首先测定了 $P \\nu \\mathrm { E H 1 }$ 对外消旋苯基缩水甘油醚及其甲基衍生物的催化活性和对映选择性，并通过同源建模构建了 $P \\nu \\mathrm { E H 1 }$ 的蛋白质三维结构，通过单点及组合突变对其进行分子改造，改善其催化特性，为其他EHs 的改造提供了新的实施案例与宝贵经验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1菌株、质粒和培养基E.coli BL21(DE3）及携带有表达质粒pET-28a-pvehl的重组菌株E.coli/pvehl由本实验室保藏；LB 培养基：胰蛋白陈 $1 0 \\ \\mathrm { g / L }$ 、酵母提取物 $5 \\mathrm { g } / \\mathrm { L }$ 和 $\\mathrm { N a C l 1 0 \\mathrm { g / L } }$ ，自然 $\\mathsf { p H }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2工具酶和试剂DNA 聚合酶PrimeSTARHS 和限制性内切酶 DpnI购自TaKaRa公司；蛋白质 Marker 和DNAMarker 购自上海 Sangon 公司；外消旋邻甲基苯基缩水甘油醚 (1a)、外消旋间甲基苯基缩水甘油醚 (2a)、外消旋对甲基苯基缩水甘油醚(3a）由本实验室合成；外消旋苯基缩水甘油醚（4a）购自梯希爱（上海）化成工业发展有限公司；其他试剂均为国产或进口分析纯。手性正相 HPLC 色谱柱Chiralcel?OD-H( ${ \\it 5 } \\mu \\mathrm { m }$ $4 . 6 \\ : \\mathrm { m m } \\times 2 5 0 \\ : \\mathrm { m m } )$ 购自于大赛璐药物手性技术（上海)有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 $P \\nu \\mathrm { E H 1 }$ 的底物谱测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1E.coli/pveh1的诱导表达挑取工程菌 $E$ .colilpveh1的单菌落接种到 $2 { \\mathrm { m L } }$ 含100$\\mu \\mathrm { g / m L }$ 卡那霉素的LB 培养基中， $3 7 \\ \\mathrm { { ^ circ C } }$ 、220 rpm 培养 $1 2 \\mathrm { h }$ 后，以 $2 \\% \\mathrm { ( v / v ) }$ 的量转接至$1 0 0 ~ \\mathrm { m L }$ 相同的培养基中，培养至 $\\mathrm { O D } _ { 6 0 0 }$ 为 $0 . 6 { \\sim } 0 . 8$ 时，添加IPTG至终浓度为 $0 . 5 \\mathrm { m m o l / L }$ ，$2 0 \\ \\mathrm { { ^ circ C } }$ 、 $2 2 0 \\mathrm { r p m }$ 诱导培养 $1 0 \\mathrm { { h } }$ ，收集菌体[9]。利用 $\\mathrm { K _ { 2 } H P O _ { 4 } \\mathrm { - K H _ { 2 } P O _ { 4 } } }$ 缓冲液(KPB，100mmol/L， $\\mathrm { p H } 7 . 0 \\AA$ ）重新悬浮湿菌体，配制成 $1 0 ~ \\mathrm { m g / m L }$ 的菌悬液，用于后续催化性质测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2HPLC 分析条件样品分析采用高效液相色谱Waters e2695 HPLC系统、正相Chiralcel?OD-H色谱柱和紫外检测器Waters2489，检测波长 $2 2 0 \\mathrm { n m }$ ，色谱柱温 $3 0 \\ \\mathrm { ^ { \\circ } C }$ ，流动相是正己烷:异丙醇(9:1或 $\\mathbf { 8 { : } } 2 , \\mathbf { v } / \\mathbf { v } )$ ，流速 $0 . 8 ~ \\mathrm { m L / m i n }$ ，进样量 $1 0 \\mu \\mathrm { L }$ 。分析条件如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/62c17af4c3243e8e7a6faeded36f4078218d4addb56424dded9dda05bd36b2d8.jpg",
+        "table_caption": [
+            "Table1Analysis conditions "
+        ],
+        "table_footnote": [
+            "1) 1b\\~4b represent the corresponding vicinal diols of 1a\\~4a. "
+        ],
+        "table_body": "<html><body><table><tr><td>Epoxides/</td><td>Mobile</td><td>Molar extinction</td><td colspan=\"2\">Retention time (min)</td></tr><tr><td>diols 1)</td><td>phase</td><td>coefficients (ε)</td><td>(R)-/(S)-epoxide</td><td>(R)-/(S)-diol</td></tr><tr><td>1a/1b</td><td>8:2</td><td>0.9653</td><td>6.521/8.019</td><td>8.914/9.873</td></tr><tr><td>2a/2b</td><td>8:2</td><td>0.8871</td><td>6.845/10.059</td><td>8.423/16.341</td></tr><tr><td>3a/3b</td><td>9:1</td><td>1.1638</td><td>7.368/8.701</td><td>15.130/21.799</td></tr><tr><td>4a/4b</td><td>8:2</td><td>0.9381</td><td>7.511/10.791</td><td>8.951/15.675</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 $P \\nu \\mathrm { E H 1 }$ 对苯基缩水甘油醚及其甲基衍生物的催化性质测定在 $2 \\mathrm { m L }$ EP管中加入$8 5 0 ~ \\mu \\mathrm { L }$ KPB 和 $1 0 0 ~ \\mu \\mathrm { L }$ 适当稀释的菌悬液， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 保温 $1 0 \\mathrm { m i n }$ ，再加入 ${ 5 0 \\mu \\mathrm { L } }$ 的甲醇溶解的1a至终浓度为 $1 0 \\mathrm { m m o l / L }$ 进行反应。定时取样 $1 0 0 ~ \\mu \\mathrm { L }$ 至 $1 \\mathrm { m L }$ 乙酸乙酯中萃取，上层有机相经无水 $\\mathrm { M g S O _ { 4 } }$ 干燥和 $0 . 2 2 \\mu \\mathrm { m }$ 有机膜过滤，按1.2.2方法进行HPLC 样品分析。此外，2a、3a和4a 测定方法同上。 $P \\nu \\mathrm { E H 1 }$ 的酶活力单位（U）定义为：在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 反应条件下，每分钟催化 $1 \\mu \\mathrm { m o l }$ 底物转化成产物所需的酶量。 $E$ 值计算公式参考文献[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 突变位点的选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据底物谱测定结果， $P \\nu \\mathrm { E H 1 }$ 对1a表现出最高的催化活性及对映选择性，因此以1a 作为模式底物。以单点和组合突变的方法提高 $P \\nu \\mathrm { E H 1 }$ 的催化活性和对映选择性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择与 $P \\nu \\mathrm { E H 1 }$ 一级结构同源性高 $( 8 7 . 3 8 \\% )$ 且晶体结构已知的VEH1晶体结构(PDB：5XMD）为模板，运用 SWISS-MODEL (http://swissmodel.expasy.org/） 对 PvEH1的三维结构进行建模，并使用 SAVES 网站 (http://servicesn.mbi.ucla.edu/SAVES/）的在线工具Procheck及Verify_3D对建模结果进行评估，验证其可靠性。使用ChemDraw Ultra12.0 (htp://www.cambridgesoft.com/）构建(S)-1a的三维结构并进行能量最小化。以PvEH1 的三维结构为受体，运用 AutoDock 4.2 程序 (http://utodock.scripps.edu/)，将底物(S)-1a对接至活性中心的合适位置，并用GROMACS4.5程序包(http://www.gromacs.org/）进行优化。运用PyMol软件(htp://pymol.org/）软件确定距离底物6A以内的氨基酸残基，结合PvEH1与其他三种植物来源的 EHs：PvEH3[10](ATG22745)、VrEH3[1] (AKJ75505)、 $S t \\mathrm { E H } ^ { [ 1 2 ] }$ (AAA81892）的一级序列比对结果，选择其中的7个氨基酸作为拟突变位点，将其分别突变为相对应的高频氨基酸。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 引物设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于 $P \\nu \\mathrm { E H 1 }$ 的一级结构和三维结构的分析，拟将pveh1中编码L105的密码子CTA突变为I的ATT，V106的密码子GTA突变为I的ATC，M129的密码子ATG突变为L的CTG，P137的密码子CCC突变为T的ACA，M175的密码子ATG突变为I的ATT，L237的密码子CTC 突变为M的ATG,I265的密码子ATA 突变为M的ATG,根据pveh1的核苷酸序列设计PCR引物，委托苏州金唯智生物科技有限公司合成，引物名称和序列如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2突变引物序列",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f38ef0b6a97b9ff3983802441a9ec9567d0155939228cf0490f949d512836f0d.jpg",
+        "table_caption": [
+            "Table 2Sequences of primers for mutagenesis "
+        ],
+        "table_footnote": [
+            "Note: The codons encoding mutation residues are boxed. "
+        ],
+        "table_body": "<html><body><table><tr><td>Primer name</td><td>Primer sequence (5'-→3')</td></tr><tr><td>L105I-F</td><td>CCATGATTGGGGAGCGATTGTAGGATGGTAC</td></tr><tr><td>V106I-F</td><td>ATGATTGGGGAGCACTAATCGGATGGTACACA</td></tr><tr><td>M129L-F</td><td>CTCAGCGTCCCTTTCCTGCCCAGAAACCCA</td></tr><tr><td>P137T-F</td><td>CTAAGGTGAAGACAGTTGATGCCATGCG</td></tr><tr><td>M175I-F</td><td>GAAGCAATCAAGAACATTCTGACAAGTAGGAGACC</td></tr><tr><td>L237M-F</td><td>CTATAGAAATATGAACCTGAACTGGGAGC</td></tr><tr><td>I265M-F</td><td>TACAGGCGATTTGGATATGGTTCACAC</td></tr><tr><td>L105I/V106I-F</td><td>ATGATTGGGGAGCAATAATCGGATGGTACACA</td></tr><tr><td>T7-terminator primer</td><td>GCTAGTTATTGCTCAGCGG</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5单点及组合突变酶的基因构建及表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以 pET-28a-pvehl 为模板，L105I-F、V106I-F 等为上游引物，T7-terminator primer为下游引物，利用PrimeSTARHSDNA聚合酶进行全质粒PCR扩增，构建突变体质粒。其中PCR条件如下：一轮PCR：预变性 $9 5 \\ \\mathrm { ^ \\circ C }$ ， $4 \\mathrm { m i n }$ ；变性 $9 8 \\ \\mathrm { { ^ \\circ C } }$ ， $1 0 ~ \\mathrm { s }$ ；退火 $5 5 \\ \\mathrm { ^ \\circ C }$ ，$5 \\mathrm { ~ s ~ }$ ；延伸 $7 2 \\ \\mathrm { { ^ \\circ C } }$ ， $1 \\mathrm { m i n }$ ；从变性到延伸循环30次，最后充分延伸 $7 2 \\ \\mathrm { { ^ \\circ C } }$ ， $1 0 \\mathrm { m i n }$ 。二轮PCR以一轮PCR产物为引物，条件为：预变性 $9 5 \\ \\mathrm { ^ \\circ C }$ ， $4 \\mathrm { m i n }$ ；变性 $9 8 \\ \\mathrm { { ^ \\circ C } }$ ， $1 0 ~ \\mathrm { s }$ ；退火（204号 $5 5 \\ \\mathrm { ^ \\circ C }$ ， $1 5 \\mathrm { ~ s ~ }$ ；延伸 $7 2 \\ \\mathrm { { ^ \\circ C } }$ ，6min；从变性到延伸循环30次，最后充分延伸 $7 2 \\ \\mathrm { { ^ \\circ C } }$ ， $1 0 \\mathrm { m i n }$ 。将PCR产物经限制性内切酶DpnI消化后转化至 $E$ coli BL21(DE3)，培养 $1 2 \\mathrm { { h } }$ 后对转化子进行菌液PCR验证，并对阳性转化子进行测序，将测序结果正确的质粒命名为pET-28a-pveh1 突变位点（突变位点分别为L105I、V106I、M129L、P137T、M175I、L237M、I265M、L105I/V106I)，其对应的突变工程菌命名为 $E .$ colilpveh1突变位点。突变工程菌诱导表达方法参照1.2.1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 （204号 $P \\nu \\mathrm { E H 1 }$ 及 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 的蛋白纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将工程菌 $E .$ coli/pveh1及E.coli/pvehlL105I/V106I诱导表达，收集的菌体用破碎缓冲液（含Tris-HCl $2 0 \\mathrm { m m o l / L }$ ， $\\mathrm { N a C l } 5 0 0 \\mathrm { m m o l / L }$ ， $\\mathrm { p H } 7 . 5 ) \\$ ）重悬成 $5 0 ~ \\mathrm { m g / m L }$ 的浓度，菌悬液经超声破碎后， $4 ^ { \\circ } \\mathrm { C } \\ 、 1 1 0 0 0 \\mathrm { r p m }$ 离心 $1 5 \\mathrm { m i n }$ 。上清即为粗酶液，用 $0 . 4 5 \\mu \\mathrm { m }$ 水膜过滤后,采用 Ni-NTA 柱纯化蛋白。SDS-PAGE 分析表达产物。蛋白含量测定方法参照文献[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 $P \\nu \\mathrm { E H 1 }$ 及 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 的动力学常数的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以不同浓度[S] $( 1 . 0 { \\sim } 1 0 . 0 \\ \\mathrm { m m o l / L ) }$ 的1a作为底物，在 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 和 $\\mathrm { p H } 7 . 0$ 条件下反应,按照1.2.3所述的方法测定纯化蛋白的初始反应速率 $[ \\boldsymbol { V } ]$ ，采用Lineweaver-Burk双倒数作图法，分别以底物浓度倒数1/[S]和初始反应速率倒数 $1 / [ \\boldsymbol { V } ]$ 为横、纵坐标，Origin 9.0软件进行非线性拟合，计算酶的动力学常数 $k _ { \\mathrm { { c a t } } }$ 和 $K _ { \\mathrm { m } }$ 以及催化效率 $k _ { \\mathrm { { c a t } } } / K _ { \\mathrm { { m } } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8E.coli/pveh1L105I/V106l全细胞水解动力学拆分外消旋邻甲基苯基缩水甘油醚 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了确定E.coli/pvehILi05IVi06l全细胞水解动力学拆分1a 的最大浓度，以对映体过量（enantiomeric excess，ee）为指标，在 $2 { \\mathrm { m L E P } }$ 管中分别加入1a浓度 $5 0 { \\sim } 1 2 0 \\ \\mathrm { m m o l / L }$ ，并分别加入E.coli/pveh1L105I/V106I全细胞至终浓度 $1 5 \\mathrm { m g / m L }$ ，反应体系 $1 \\mathrm { m L }$ ， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 反应$3 \\mathrm { { h } }$ 。参照1.2.3进行样品处理及HPLC 测定 $e e$ 、转化率(conversion ratio, $c$ ）和产率(yield,Y)。计算公式参照文献[14]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在确定最大反应浓度后，放大反应体系至 $1 0 ~ \\mathrm { m L }$ ，含有 $E .$ coli/pveh1L105I/V106I全细胞$0 . 1 5 \\mathrm { \\ g }$ 和1a原液 $0 . 1 6 4 2 \\ \\mathrm { g }$ ， $2 5 \\ \\mathrm { { ^ \\circ C } }$ 反应。反应定时进行取样，并参照1.2.3进行样品处理及HPLC 测定的残余 $( R ) { \\bf - 1 0 }$ 及 (S)-1a 的浓度、 $e e$ 和 $\\boldsymbol { c }$ 绘制反应进程曲线。并计算时空产率(space-time yield,STY)。STY表示在一定的反应条件下，单位体积单位时间内获得目的产物总量，单位 $\\mathrm { g / L / h }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 $P \\nu \\mathrm { E H 1 }$ 的底物谱测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$P \\nu \\mathrm { E H 1 }$ 对苯基缩水甘油醚及其甲基衍生物的催化特性如表3所示，其中， $P \\nu \\mathrm { E H 1 }$ 对1a的催化活性和对映选择性均高于其他底物，故选择1a作为模式底物。针对这四种环氧化物的对映选择性，PvEH1均优先水解 (S)-构型底物，保留 $( R )$ -构型底物，与来源微变冢村氏菌（Tsukamurella paurometabola）的 TpEH类似[15]。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3c69e8d55568e7540166ea6c71f3b1bacad770024d3a52d9ba2e0dd122e5536.jpg",
+        "table_caption": [
+            "表3PvEH1的催化活性及对映选择性",
+            "Table 3The activity and enantioselectivity of PvEH1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0 PvEH1</td><td></td><td>OH OH</td></tr><tr><td>1a/2a/3a/4a Substrate</td><td>(R)-1a/2a/3a/4a</td><td>1b/2b/3b/4b</td></tr><tr><td>1a</td><td>Activity (U/g wet cell)</td><td>Evalue</td></tr><tr><td>2a</td><td>157.2±3.6 31.1±1.1</td><td>5.6</td></tr><tr><td>3a</td><td>27.4±0.9</td><td>2.8</td></tr><tr><td></td><td></td><td>2.4</td></tr><tr><td>4a</td><td>55.6±1.7</td><td>3.1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 突变位点的选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用AutoDock4.2程序对 $P \\nu \\mathrm { E H 1 }$ 和 (S)-1a进行分子对接模拟，其结果如图1所示。对接结果显示，距离底物6A以内的氨基酸残基共计有30个，通过与其他三种植物来源的EHs的一级序列比对，除去包括催化三联体和两个质子供体在内的19个保守位点，4个为相对保守位点(将 $P \\nu \\mathrm { E H 1 }$ 的氨基酸与其他3种EHs 同一位点中的2个氨基酸相同的定义为相对保守氨基酸)，选择剩下的7个非保守氨基酸作为拟突变位点L105、V106、M129、P137、M175、L237和 I265，并将其分别突变为在其他EHs中出现频率高的氨基酸I、I、L、T、I、M和M。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) D10 D264 H299 V106 L105 M129 M175 (S)-1a Y234 1265 Y150 L237 5 P137   \n(c) 1 10 20 30 \\*\\*\\* 40 50 60 PvEH1 MEGVEHRTVEVNGIKMHVAEKGEGP VLF HGE PELWYSWRHQILALSALGYRAVAPDLRGYGDT PvEH3 MEGIQHKEVEVNGIKMHVAEKGEGP VVLF HGFPELWYSWRHQILALSSRGYRAVAPDLRGYGDT AP VrEH3 MEGVEHRTVEVNGIKMHVAEKGEGP VVLF HGFPELWYSWRHQILALSSRGYRAVAPDLRGYGDT APV StEH MEKIEHKMVAVNGLNMHLAELGEGPTILFIHGFPELWYSWRHOMVYLAERGYRAVAPDLRGYGDTTGAPL 70 80 9 10米\\*\\*\\* 1 110 120 \\*\\*130 PvEH1 S VSSYTILHLVADVVALIDSLG. VDQVFLVAHDWGALVGWYTCI FRPDRIKAY CLSVPFMPRNPKVK PvEH3 SSYSCFDIVGDLVALIDLLG. VDQVFLVAHDWGAIIGWYLCMFRPDRVKAYVCLSVPLLHRNPEIR VrEH3 SYTGFHIVGDLIALIDLLG..VDQVFLVAHDWGAI IGWYLCTFRPDRVKAYVCLSVPLLHRDPNIR StEH NDPSKFSILHLVGDVVALLEAIAPNEEKVFVVAHDWGALIAWHL FRPDKVKALVNLSVHFSKRNPKMN 140\\* 1\\* 160 170 180 190 200 ? \\* PvEH1 PVDAMRALYGDDYYICRFQEPGKMETLYDNN.IEEAIKNMLTSRRPGPPILPKE..GAGSNPLASGSLPS PvEH3 TVDAMRAMYGDDYYICRFOKPGEMEAOMAEVGTGYVLKNILTTRKPGPPIFPKGEYGTGENPDMTNSLP VrEH3 TVDAMRAMYGDDYYICRFQKPGEMEAOMAEVGTEYVLKNILTTRKPGPPIEPKGEYGTGFNPDMPNSLP StEH VVEGLKAIYGEDHYISRFOVPGEIEAEFAPIGAKSVLKKILTYRDPAPFYFPKGK.GLEAIPDAPVALS. 210 220 230 240 250 260 \\*\\*270 \\*\\* 1 PvEH1 RPLPSWLSOEDLTYYASKEGKTGLTGGLNYYRNLNLNWELTAAWTGVOVKVPVKFITGDLDIVHTSLGTK PvEH3 SWLSQHDLAYYVSKFOKTGFTGPLNYYRNMNPNWELTAPWSGAKIKVPVKFITGDLDMVYTSLNMK VrEH3 SWLTQDDLAYYVSKYEKTGFTGPLNYYRNMNLNWELTAPWSGGKIOVPVKFITGELDMVYTSLNMK StEH SWLSEEELDYYANKEEOTGETGAVNYYRALPINWELTAPWTGAOVKVPTKFIVGEEDLVYHIPGAK 280 290 399 310 320 PvEH1 DYIESGAFKRDVPFLEEVVVOEGVAHFNNQEAAEDVSNHIYDFINKF PvEH3 EYIHGGGFKEDVPNLEEVIVOKGVAHFNNOEAAEEINTHIYDFINKE VrEH3 EYIHGGGFKQDVPNLEEVIVQKNVAHFNNQEAAEEINNHIYDFIKKF StEH EYIHNGGFKKDVPLLEEVVVLEGAAHFVSQERPHEISKHIYDFIOKF ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)The locally magnified 3-Dconfiguration of PvEH1 docking with (S)-1a; (b) Spatial locations of mutation sites; (c) Multiple sequence alignment of $P \\nu \\mathrm { E H 1 }$ with three plant-derived EHs. Thirty residues of $P \\nu \\mathrm { E H 1 }$ in proximity to (S)-1a within $6 \\textup { \\AA }$ are marked,among which seven ones selected for site-directed mutagenesis are highlighted in triangles. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 $P \\nu \\mathrm { E H 1 }$ 突变体的催化特性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以全细胞为生物催化剂，按1.2.3方法测定各突变体对1a的催化特性。如表4所示，与E.coli/pvehl 相比，E.coli/pvehl $\\mathbf { P } 1 3 7 \\mathrm { T }$ 的催化活性和 $E$ 值均明显下降，E.coli/pveh1L237M和E.coli/pveh $l ^ { \\mathrm { { I 2 6 5 M } } } E$ 值分别提高了 $12 . 5 \\%$ 和 $7 . 1 \\%$ ，催化活性却有不同程度的下降。 $E$ coli/pveh1M129L 和 $E .$ coli/pveh1M175I的催化活性和 $E$ 值无明显变化。E.coli/pvehIL105I和 $E .$ coli/pveh1 $\\mathrm { V } 1 0 6 \\mathrm { I }$ 的催化活性和 $E$ 值均提高 $20 \\%$ 以上，表明L105I和V106I对催化特性提高有积极作用，所以将这两个突变位点进行组合突变，以期望得到更好的效果。且有文献报道，空间位置相近且对催化特性有积极意义的氨基酸位点同时突变可能会产生协同作用，进一步增强 EHs 的催化特性[16]。按1.5 方法构建突变菌株 $E . { \\ c o l i } / { p { \\nu } e h I ^ { \\mathrm { L 1 0 5 I / V 1 0 6 I } } }$ ，其催化特性测定结果显示, $E . \\ c o l i / p \\nu e h I ^ { \\mathrm { L 1 0 5 I / V 1 0 6 I } }$ 全细胞催化活性提高到 $4 9 3 . 8 \\mathrm { U / g }$ 湿细胞,是E.coli/pveh1的3.1倍; $E$ 值提高到8.3，是E.coli/pveh1的1.5倍。Reetz 等[17]对 AnEH采用易错PCR的方法，从20000个转化子中筛选出一株最好的突变株IS002B1，其对苯基缩水甘油醚的 $E$ 值从4.6提高至10.8。Zou等[18]对来源于放射形土壤杆菌(Agrobacterium radiobacter AD1) 的 $A r { \\mathrm { E H } }$ 活性中心周围的氨基酸进行定点突变，得到的单点突变体T247K、I108L对环氧氯丙烷的 $E$ 值和催化活性均有提高，双位点组合后，突变体T247K/I108L的 $E$ 值和催化活性分别提高了 $44 \\%$ 和 $345 \\%$ 。以上研究表明，在获得有效果的单点突变体的基础上进行组合突变，能够较为显著地提高酶对于特定底物的催化性质，由此可见，该方法是一种行之有效的提高酶的催化特性的方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/384b83b20e4112efb1cab774049cc034f62e9c0ddb82e43c9f0e2e4d1fa14fad.jpg",
+        "table_caption": [
+            "表4突变体的催化特性",
+            "Table 4Catalytic properties of mutants towards 1a "
+        ],
+        "table_footnote": [
+            "2.4 $P \\nu \\mathrm { E H 1 }$ 及 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 的表达及纯化"
+        ],
+        "table_body": "<html><body><table><tr><td>Enzyme</td><td>Activity (U/g wet cell)</td><td>Relative activity (%)</td><td>E value</td></tr><tr><td>PvEH1</td><td>157.2±3.6</td><td>100</td><td>5.6</td></tr><tr><td>PvEH1L105I</td><td>320.4±8.6</td><td>203.8</td><td>6.8</td></tr><tr><td>PvEH1V106I</td><td>234.8±5.9</td><td>149.4</td><td>7.0</td></tr><tr><td>PvEH1M129L</td><td>153.2±4.6</td><td>97.5</td><td>5.7</td></tr><tr><td>PvEH1P137T</td><td>10.4±0.5</td><td>6.6</td><td>2.5</td></tr><tr><td>PvEH1M175I</td><td>170.3±4.3</td><td>108.3</td><td>5.3</td></tr><tr><td>PvEH1L237M</td><td>122.8±3.4</td><td>78.1</td><td>6.3</td></tr><tr><td>PvEH1I265M</td><td>74.6±1.8</td><td>47.5</td><td>6.0</td></tr><tr><td>PvEH1L105I/V106I</td><td>493.8±9.8</td><td>314.1</td><td>8.3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "E.coli/pveh1及E.colilpveh1L105I/V106I经诱导表达和超声破碎后，上清液采用Ni-NTA柱纯化目的蛋白。SDS-PAGE 分析显示（图2)，E.coli/pvehIL105IVi06I比E.coli/pvehl的粗酶液目的蛋白表达量明显提高，纯化后的 $P \\nu \\mathrm { E H 1 }$ 及 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 均在约 $3 5 . 7 \\mathrm { k D a }$ 处呈现单一蛋白条带。纯化后 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 的催化活性为 $1 7 . 6 ~ \\mathrm { U / m g }$ ，是原酶 $P \\nu \\mathrm { E H 1 }$ （204号（204 $( 1 1 . 7 \\mathrm { U / m g } )$ 的1.5倍，与全细胞为催化剂（3.1倍）时相比提高倍数降低，结合SDS-PAGE电泳图分析可知L105 和V106位的组合突变提高了可溶性蛋白的表达量。Li等[19]也报道了通过定点突变，在提高了催化活性的同时，也提高了 $P \\nu \\mathrm { E H 3 ^ { G 1 7 0 E / F 1 8 7 L / P 2 3 7 L } }$ 在 $E$ coliBL21中的表达量。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6bd7cb2860572b3efb1925e7ffc8584662608bf1902d86bbdc3a325b7304682.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2SDS-PAGE analysis of the purified PvEH1 and PvEH1L105I/V106I ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lane M: Protein Marker;lane1: Supermatant extractofE.colipveh1; lane2: Supernatant extractofE.colipvehLio/i06; ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "lane 3:Purified $P \\nu \\mathrm { E H l }$ ； lane 4:Purified $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 $P \\nu \\mathrm { E H 1 }$ 及 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 的动力学常数分析",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "按1.7方法，测定了 $P \\nu \\mathrm { E H 1 }$ 及 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 的动力学常数 $k _ { \\mathrm { { c a t } } }$ 和 $K _ { \\mathrm { m } }$ (表5)。分析结果表明，与 $P \\nu \\mathrm { E H 1 }$ 相比，组合突变体 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 催化1a水解动力学拆分的动力学常数发生了变化。 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 催化常数 $k _ { \\mathrm { { c a t } } }$ 从7.4 提高至10.7， $K _ { \\mathrm { m } }$ 值从0.9 降低至$0 . 6 \\mathrm { m m o l / L }$ ，从而催化效率 $( k _ { \\mathrm { { c a t } } } / K _ { \\mathrm { { m } } } )$ 提高至 $P \\nu \\mathrm { E H 1 }$ 的2.1倍。结果表明 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 催化效率提高的主要原因是提高了酶的催化常数和酶对底物的亲和力。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/84bf605c212d95f38496d342ebb38b185959e6e0fe01c6bd2b277958aad35214.jpg",
+        "table_caption": [
+            "Table 5 The kinetic parameters of $\\pmb { P } \\pmb { \\nu } \\mathbf { E } \\mathbf { H 1 }$ and $P \\nu \\mathrm { { E H 1 } ^ { L i 0 5 I / V 1 0 6 I } }$ "
+        ],
+        "table_footnote": [
+            "2.6E.coli/pveh1L105I/V106I水解动力学拆分外消旋邻甲基苯基缩水甘油醚 "
+        ],
+        "table_body": "<html><body><table><tr><td>Enzyme</td><td>kcat (1/s)</td><td>Km (mmol/L)</td><td>kcat/Km (L/mmol/s)</td></tr><tr><td>PvEH1</td><td>7.4</td><td>0.9</td><td>8.3</td></tr><tr><td>PvEH1L105I/V106I</td><td>10.7</td><td>0.6</td><td>17.7</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了更好地将 E.coli/pvehIL105IV106I应用于工业生产，本研究确定其水解动力学拆分1a 的最大浓度,使用 $E$ 、coli/pveh1L105I/V106I水解动力学拆分 50、80、100和 $1 2 0 \\mathrm { m m o l } / \\mathrm { L } \\mathrm { \\bf 1 } \\mathrm { : }$ a。结果如表6所示， $E .$ coli/pveh1L105I/V106I最高可以水解 $1 0 0 \\mathrm { m m o l / L } 1 \\mathbf { a }$ ，得到 (R)-1a的产率为 $1 9 . 9 \\%$ ， $e \\mathrm { e } > 9 9 \\%$ 。当1a浓度达到 $1 2 0 \\mathrm { m m o l / L }$ 时，即使反应时间延长至 $6 \\mathrm { n }$ ，ee仍然仅为 $80 . 3 \\%$ 。因此，确定水解1a的最大浓度为 $1 0 0 \\mathrm { m m o l / L }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b956a9e8c586e94b1f8432ab0d7bab78edc3055b356db3fb30069dd433110dae.jpg",
+        "table_caption": [
+            "表5PvEH1和 $P \\nu \\mathrm { { E H 1 } ^ { L i 0 5 I / V 1 0 6 I } }$ 的动力学常数",
+            "表6E.colilpveh1L105I/V106I水解动力学拆分高浓度1a",
+            "Table 6 Kinetic resolution of 1a at high concentrations using E. coli/pvehlL105/V106l "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1a (mmol/L)</td><td>Time (h)</td><td>c (%)</td><td>ees (%)</td><td>Yield (%)</td></tr><tr><td>50</td><td>3</td><td>90.2</td><td>>99</td><td>9.8</td></tr><tr><td>80</td><td>3</td><td>86.1</td><td>>99</td><td>13.8</td></tr><tr><td>100</td><td>3</td><td>80.0</td><td>> 99</td><td>19.9</td></tr><tr><td>120</td><td>3</td><td>74.8</td><td>80.4</td><td>22.7</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以 $1 5 \\mathrm { m g / m L } E$ . coli/pveh1L105I/V1061在 $1 0 ~ \\mathrm { m L }$ 体系中水解动力学拆分 $1 0 0 \\mathrm { m m o l } / \\mathrm { L } 1$ a。其水解反应进程如图3所示。在反应 $6 0 \\mathrm { m i n }$ 后，(S)-1a 仅剩余 $0 . 6 \\mathrm { m m o l / L }$ ，得到 $( R )$ -1a的产率为 $3 1 . 2 \\%$ 1 $( e e > 9 6 \\% )$ ，高于 $A n \\mathrm { E H } ^ { [ 2 0 ] }$ 的 $2 9 \\%$ ，但低于 $T l { \\mathrm { E H } } ^ { [ 2 1 ] }$ 的 $40 \\%$ ，STY 为5.12$\\mathrm { g / L / h }$ ，分别是 $A n \\mathrm { E H }$ 和 TIEH的21和10倍。本研究为生物酶法水解动力学拆分1a工业化生产手性纯 $( R )$ -1a，提供了一种可替代化学法制备 $( R )$ -1a的新选择。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/810c4a11fc76058789ab564ad9bab0bd649c6e64714f308757edffe613621124.jpg",
+        "img_caption": [
+            "图3E.coli/pvehIL105I/V106I催化1a的水解进程曲线 ",
+            "Fig. 3Hydrolysis progress curves of 1a by $E .$ coli/pveh1L105I/V106I "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究以 $P \\nu \\mathrm { E H 1 }$ 为研究对象，其具有广阔的底物谱，能对苯基缩水甘油醚及其甲基衍生物进行动力学拆分，基于理性设计的定点突变有效的提高了该酶对邻甲基苯基缩水甘油醚(1a）的催化活性和对映选择性。本研究采用了基于理性设计的定点突变对$P \\nu \\mathrm { E H 1 }$ 进行分子改造。 $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ 不仅提高了其对1a 的对映选择性，而且提高了其在E.coliBL21中可溶性蛋白的表达量，提高其对1a的底物亲和力，从而明显提高突变菌株 $E . { \\ c o l i } / { p { \\nu } e h I ^ { \\mathrm { L 1 0 5 I / V 1 0 6 I } } }$ 的催化活性。利用 $E .$ coli/pveh1L105I/V106I全细胞催化 $1 0 0 \\mathrm { m m o l / L }$ （204号1a 水解动力学拆分获得手性纯 $( R ) { \\mathbf { - 1 } } \\mathbf { a }$ 的 $e e > 9 6 \\%$ ，产率为 $31 . 2 \\%$ ，STY为 ${ 5 . 1 2 } \\mathrm { g / L / h }$ ，为工业化生产手性纯 (R)-1a提供了一种合理的方案。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Woo JH,Kang K M, Kwon TH, et al.Isolation, identification and characterization of marine bacteria exhibiting complementary enantioselective epoxide hydrolase activity for preparing chiral chlorinated styrene oxide derivatives. J Ind Eng Chem,2015,28: 225-228.   \n[2] Wohlgemuth R,Archelas A, Kotik M. Epoxide hydrolases and their application in organic synthesis. Curr Org Chem, 2012,16(4): 451-482.   \n[3]Mateo C，Solares L F. Improvement of the epoxide hydrolase properties for the enantioselective hydrolysis of epoxides. Curr Org Chem,2013,17(7): 744-755.   \n[4] Bala N, Chimni S S. Recent developments in the asymmetric hydrolytic ring opening of epoxides catalysed by microbial epoxide hydrolase. Tetrahedron: Asymmetry,2010,21(24): 2879-2898.   \n[5] Wu S,Li A, Chin Y S,et al. Enantioselective hydrolysis of racemic and meso-epoxides with recombinant Escherichia coli expressing epoxide hydrolase from Sphingomonas sp. HXN-200: preparation of epoxides and vicinal diols in high $e e$ and high concentration. ACs Catal, 2013, 3(4): 752-759.   \n[6] Bisi A,Rampa A,Budriesi R,et al. Cardiovascular hybrid drugs: new benzazepinone derivatives as bradycardic agents endowed with selective $\\beta _ { 1 }$ -Non-competitive antagonism. Bioorg Med Chem, 2003, 11(7): 1353-1361.   \n[7] Li C, Hu D, Zong X C, et al. Asymmetric hydrolysis of styrene oxide by PvEH2,a novel Phaseolus vulgaris， epoxide hydrolase with extremely high enantioselectivity and regioselectivity. Catal Commun, 2017,102: 57-61.   \n[8] Kong X D, Yuan S,LiL,et al. Engineering of an epoxide hydrolase for efficient bioresolution of bulky pharmaco substrates. Proceedings of the National Academy of Sciences of the United States of America Proc Nat Acad Sci,2014, 111(44): 15717-15722.   \n[9]叶慧华，胡蝶，李闯，等．新型菜豆环氧化物水解酶的异源表达及对映归一性催化特性．中国生 物工程杂志,2016,36(10): 21-27. Ye H H,Hu D,Li C, et al. Expression of a novel epoxide hydrolase from Phaseolus vulgaris and its enantioconvergent catalytic performance. China Biotechnology, 2016, 36(10): 21-27.   \n[10] 王瑞，许耀辉，王克伟,等．环氧化物水解酶 $P \\nu \\mathrm { E H } 3$ 的表达及手性邻二醇的合成．化工进展, 2018, 37(5): 1933-1939. Wang R, Xu Y H, Wang K W, et al. Expression of $P \\nu \\mathrm { E H } 3$ , a Phaseolus vulgaris epoxide hydrolase, and synthesis of chiral vicinal diols. Chemical Industry Engineering Progress， 2018，37(5): 1933-1939.   \n[11] Hu D, Tang CD,Li C, et al. Stereoselective hydrolysis of epoxides by reVrEH3,a novel Vigna radiata epoxide hydrolase with high enantioselectivity or high and complementary regioselectivity. Journal of Agricultural and Food Chemistry JAgric Food Chem,2017, 65(45): 9861-9870.   \n[12] Mowbray S L,Elfstrom L T, Ahlgren K M, et al. X-ray structure of potato epoxide hydrolase sheds light on substrate specificity in plant enzymes. Protein Sci,2006,15(7): 1628-1637.   \n[13]舒群峰，徐美娟,李静，等．钝齿棒杆菌中异源表达 N-乙酰鸟氨酸脱乙酰基酶合成L-鸟氨酸的 研究．中国生物工程杂志,2018,38(7):29-39. Shu Q F，Xu M J，Li J，et al. Producing L-ornithine by heterologous expression of N-acetyl-L-ornithine deacetylase in Corynebacterium crenatum. China Biotechnology, 2018,38(7): 29-39.   \n[14] 石小玲，阚婷婷，李闯，等．菜豆环氧化物水解酶的表达及其催化特性研究．微生物学通报, 2018, 45(4): 797-804.   \nShi X L, Kan T T,Li C, et al. Expresson and characterization of Phaseolus vulgaris epoxide hydrolase. Microbiology China, 2018, 45(4): 797-804.   \n[15] Wu K, Wang H, Sun H, et al. Efficient kinetic resolution of phenyl glycidyl ether by a novel epoxide hydrolase from Tsukamurella paurometabola.Appl Microbiol Biotechnol, 2015, 99(22): 9511-9521.   \n[16] Reetz M T, Bocola M, Wang L W, et al. Directed evolution of an enantioselective epoxide hydrolase: uncovering the source of enantioselectivity at each evolutionary stage. JAm Chem Soc,20o9,131(21): 7334-7343.   \n[17] Reetz M T,Torre C, Eipper A, et al. Enhancing the enantioselectivity of an epoxide hydrolase by ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "directed evolution. Org Lett, 2004, 6(2): 177-180. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[18] Zou S P, Zheng Y G, Wu Q,et al. Enhanced catalytic efficiencyand enantioselectivity of epoxide hydrolase from Agrobacterium radiobacter AD1 by iterative saturation mutagenesisfor $( R )$ -epichlorohydrin synthesis.Appl Microbiol Biotechnol, 2018,102(2): 733-742.   \n[19] Li C, Zhao J, Hu D,et al. Multiple site-directed mutagenesis of a Phaseolus vulgaris epoxide hydrolase to improve its catalytic performance towards $p$ -chlorostyrene oxide based on the computer-aided re-design. Int J Biol Macromol, 2019,121: 326-332.   \n[20] Choi W J,Huh E C, Park H J, et al. Kinetic resolution for optically active epoxides by microbial enantioselective hydrolysis. Biotechnol Tech,1998,12(3): 225-228.   \n[21] Xu Y, Xu JH,Pan J, et al. Biocatalytic resolution of glycidyl aryl ethers by Trichosporon loubieri: cell/substrate ratio influences the optical purity of $( R )$ -epoxides.Biotechnol Lett，2004，26(15): 1217-1221. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Site-directed Mutagenesis of PvEH1 to Improve Its Catalytic Properties towards ortho-Methylphenyl Glycidyl Ether ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "KAN Ting-ting1ZONG Xun-cheng²SU Yong-jun1 WANG Ting-ting1LI Chuang² HU Die³WU Min-chen³ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1 School of Pharmaceutical Science,Jiangnan University,Wuxi 214122, Jiangsu, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2 School of Biotechnology, Jiangnan University,Wuxi 214122,Jiangsu, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3 Wuxi School of Medicine, Jiangnan University, Wuxi 214122, Jiangsu, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AbstractEpoxide hydrolases can catalyze the kinetic resolution of racemic epoxides,retaining enantiopure single enantiomers of epoxides.In this study,the catalytic properties of Phaseolus vulgaris epoxide hydrolase $( P \\nu \\mathrm { E H 1 } \\$ ） towards phenyl glycidyl ether and its methyl derivates were assayed. Seven residues of $P \\nu \\mathrm { E H l }$ were then selected for site-directed mutagenesis based on the results of molecular docking simulation and multiple sequence alignment， followed by single-site and combinatorial mutagenesis to obtain mutants possessing enhanced catalytic properties towards ortho-methylphenyl glycidyl ether (la). The substrate spectrum analysis showed that $P \\nu \\mathrm { E H l }$ displayed both the highest activity （ $1 5 7 . 2 ~ \\mathrm { U / g }$ wet cell） and enantioselectivity( $\\ E = 5 . 6$ ） towards 1a. Thus,1a was selected as the model substrate. Among the constructed seven $E$ ，coli transformants expressing single-site mutant of $P \\nu \\mathrm { E H l }$ ， $E$ coli/pveh1L1051 and $E$ coli/pveh $l ^ { \\mathrm { V 1 0 6 I } }$ exhibited notably improved EH activity and $E$ value. Compared with E. coli/pveh1,the EHactivity and $E$ value of $E$ coli/pveh $l ^ { \\mathrm { L 1 0 5 I / V 1 0 6 I } }$ were improved by 2.1 times and $50 \\%$ ， respectively. Additionally, the specific activity $( 1 7 . 6 ~ \\mathrm { U / m g } )$ ）and the catalytic efficiency（ $\\mathrm { 1 7 . 7 L / m m o l / s } \\mathrm { ) }$ of purified $P \\nu \\mathrm { E H 1 ^ { L 1 0 5 I / V 1 0 6 I } }$ were 1.5- and 2.1-fold thse of $P \\nu \\mathrm { E H l }$ . SDS-PAGE analysis indicated that the soluble expression level of target protein was enhanced by the combinatorial mutagenesis.The kinetic resolution of $1 0 0 \\ \\mathrm { m m o l / L }$ la by E. coli/pveh $I ^ { \\mathrm { L 1 0 5 I / V 1 0 6 I } }$ whole cells afforded $( R )$ -1a ( $e e > 9 6 \\%$ ）with $3 1 . 2 \\%$ yield and a space-time yield of $5 . 1 2 ~ \\mathrm { g / L / h }$ . Therefore, the superior enzymatic properties will make $E$ coli/pveh1L05V06 a promising biocatalyst for the preparation ofoptically pure $( R )$ -1a. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "KeywordsEpoxide hydrolase Site-directed mutagenesis Catalytic activity Kinetic resolution ortho-Methylphenyl glycidyl ether ",
+        "page_idx": 11
+    }
+]

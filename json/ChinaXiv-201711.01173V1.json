@@ -1,0 +1,685 @@
+[
+    {
+        "type": "text",
+        "text": "脉冲星磁辐射制动力矩对具有磁辐射的两成分 模型自旋的长期减速 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李林森",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(东北师范大学物理学院，吉林 长春130024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用分析法研究了具有磁辐射的两成分模型(壳层和中子超流体)的脉冲星在可变的磁辐射制动力矩的作用下，两成分自旋角速度随时间的长期变化。给出了具有磁辐射两成分模型的耦合方程组的分析解。理论结果给出两成分模型在外力可变的磁辐射制动力矩的作用下，自旋角速度随时间长期减慢。利用所得的分析解对具有磁辐射的两成分模型蟹状星云脉冲星 $( \\mathrm { P S R } 0 5 3 1 + 2 1$ )(Crab)在磁辐射力矩可变的情况下做了数值计算。并讨论了所得的理论和数值结果。结果表明，蟹状星云脉冲星( $\\mathrm { P S R 0 } 5 3 1 + 2 1$ )在磁辐射制动力矩的作用下，壳层自旋角速度随时间的长期减速每年为 $- 0 . 2 4 5 \\mathrm { ~ s ~ }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脉冲星；具有磁辐射的两成分模型；磁辐射力矩；自旋减速中图分类号：P1 文献标识码：A 文章编号：1672-7673(2016)03-0277-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了解释脉冲星突然加速的现象，许多学者对脉冲星提出各式各样的模型，其中较成功的模型如磁偶极辐射模型、四极弹性能模型以及两成分模型等，两成分模型最先由文[1-3]提出。两成分模型主要是由导电较高的固体外壳和壳内的中子超流体的混合物组成。因此中子星的构造模型显然分为两部分：一部分是带电的固体外壳；另一部分是壳内的中子超流体的混合体。此外，两成分以不同角速度自转。自转使超流体成分同带电成分在粘滞作用下相耦合，尽管这种耦合是弱的，但也反应出超流体的丰富度和耦合的程度。由于脉冲星磁偶极辐射在脉冲星表层产生磁辐射制动力矩，这种力矩使两成分自旋角速度改变。因此，只要知道磁转矩变化以及可观测的宏观驰豫时间 $\\cdot$ 和中子超流体的丰富度Q，两成分的自旋耦合的微分方程可解。文[4]给出了对两成分耦合方程组在磁辐射制动力矩不变的情况下耦合方程组的解并对解做了讨论。文[5]研究了中子星的发射噪声的两成分模型，但没有研究磁辐射力矩对两成分模型角速度改变的影响。文[6]研究中子星两成分模型在广义相对论构架内的自转动力方程，并假定壳成分的转动 $\\varOmega _ { \\mathrm { c } }$ 为常数，而中子超流体层的角速度依赖于坐标，但没有研究磁辐射力矩对两成分模型角速度改变的影响。本文作者研究了在磁辐射制动力矩随时间可变的情况下，具有磁辐射的两成分角速度变化的规律，并给出方程组的解。最后将解应用于具有磁辐射两成分模型的蟹状星云脉冲星(Crab pulsar)的两成分角速度随时间变化的数值解，此解不同于文［4]给出的解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1脉冲星两成分的耦合方程式及其在磁辐射力矩不变条件下的解",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据两成分模型理论，两成分的自旋角速度并不一致。假定带电的固体外壳的转动惯量为 $I _ { \\mathrm { c } }$ 并以角速度 $\\varOmega$ 绕自转轴旋转，而壳内中子超流体的转动惯量 $I _ { \\mathrm { n } }$ 并以角速度 $\\varOmega _ { \\mathrm { n } }$ 绕自转轴旋转，但 $\\varOmega \\neq \\varOmega _ { \\mathrm { n } }$ ，带电外壳成分与壳内中子超流体成分之间的耦合由下式给出[4]：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { c } } \\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } = - N - \\frac { I _ { \\mathrm { c } } } { \\tau _ { \\mathrm { c } } } ( \\varOmega - \\varOmega _ { \\mathrm { n } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { n } } \\frac { \\mathrm { d } \\varOmega _ { \\mathrm { n } } } { \\mathrm { d } t } = \\frac { I _ { \\mathrm { c } } } { \\tau _ { \\mathrm { c } } } ( \\varOmega - \\varOmega _ { \\mathrm { n } } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)式、（2)式是在星震后不存在跃变时的方程组。其中， $N ( t )$ 为外部辐射制动力矩； $\\tau _ { \\mathrm { c } }$ 是理论上计算的脉冲星弛豫时间或称微观弛豫时间，它依赖于 $\\varOmega _ { \\circ }$ 文[7]给出计算 $\\tau _ { \\mathrm { c } }$ 的公式，文[8]将 $\\tau _ { \\mathrm { c } }$ 用下式表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { \\tau _ { \\mathrm { c } } } \\approx \\frac { \\varOmega } { 4 0 } \\left( \\frac { \\Delta } { 1 \\ \\mathrm { M e v } } \\right) \\frac { K T } { E _ { \\mathrm { F } } } \\exp \\left( - \\frac { \\pi \\Delta ^ { 2 } } { 4 E _ { \\mathrm { F } } K T } \\right) \\overrightarrow { \\mathcal { H } } \\mid \\propto \\frac { \\left[ \\frac { \\partial } { \\partial \\mathrm { F } } \\right] } { \\left[ \\frac { \\partial } { \\partial \\mathrm { F } } \\right] } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\Delta$ 为超流体间隙参数（能量间隔）； $E _ { \\mathrm { { F } } }$ 为电子的费米能量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微观弛豫时间 $\\tau _ { \\mathrm { c } }$ 可用宏观弛豫时间 $\\tau$ 表示，宏观弛豫时间 $\\cdot$ 是可以观测的时间，两者之间关系由下式表示[8]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\tau _ { \\mathrm { c } } \\frac { I _ { \\mathrm { n } } } { I } \\sharp \\sharp { \\frac { 1 } { \\tau _ { \\mathrm { c } } } } = \\left( \\frac { I _ { \\mathrm { n } } } { I } \\right) \\frac { 1 } { \\tau } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中子超流体的丰富度 $Q$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\frac { I _ { \\mathrm { n } } } { I } \\left( 1 - \\frac { \\Delta \\varOmega _ { \\mathrm { n } } } { \\Delta \\varOmega _ { \\mathrm { c } } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\Delta \\varOmega _ { \\mathrm { n } }$ 为 $\\varOmega _ { \\mathrm { n } }$ 的初始跃变，而总转动惯量 $I$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I = I _ { \\mathrm { ~ n ~ } } + I _ { \\mathrm { ~ c ~ } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文[8]指出只要 $I _ { \\mathrm { { c } } } { \\ll } I _ { \\mathrm { { n } } }$ ， $Q$ 可以表示：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ Q = I _ { \\mathrm { n } } / I .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于大多数脉冲星均满足上述条件，故：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I _ { \\mathrm { n } } = Q I , \\qquad I _ { \\mathrm { c } } = I - I _ { \\mathrm { n } } = I ( 1 - Q ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，(4)式可以写成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { \\tau _ { \\mathrm { c } } } = Q / \\tau \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文[4]给出了在磁辐射制动力矩 $N$ 不变的情况下，耦合方程组(1)\\~(2)的解：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\mathcal { Q } = - \\frac { N } { I } t + \\frac { I _ { \\mathrm { n } } } { I } \\varOmega _ { \\mathrm { \\mathrm { 1 } } } e ^ { - \\imath \\omega \\tau } + \\varOmega _ { \\mathrm { 2 } } , } \\\\ { \\displaystyle \\mathcal { Q } _ { \\mathrm { \\mathrm { n } } } = \\varOmega - \\varOmega _ { \\mathrm { 1 } } e ^ { - \\imath \\omega \\tau } + \\frac { N \\tau } { I _ { \\mathrm { c } } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以下本文给出在辐射制动力矩 $N$ 可变的情况下，方程组 $( 1 ) \\sim ( 2 )$ 的解并应用于脉冲星。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 可变磁辐射制动转矩的形式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究具有磁辐射的两成分模型的脉冲星。有磁辐射必然有磁辐射力矩作用在具有磁辐射的两成分模型上，所以方程组 $( 1 ) \\sim ( 2 )$ 中 $N$ 是磁辐射力矩。本文给出磁辐射力矩随时间变化的公式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按磁偶极辐射模型，脉冲星的辐射功率 $\\boldsymbol { W } _ { \\mathrm { d } }$ 是由自转能的变率 $\\dot { E }$ 转化来的，即",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "辐射功率和自转能的变率可写成[9]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { \\mathrm { d } } = { \\frac { 3 2 \\pi ^ { 4 } \\mu ^ { 2 } } { 3 c ^ { 3 } P ^ { 4 } } } = { \\frac { 2 \\mu ^ { 2 } \\varOmega ^ { 4 } } { 3 c ^ { 3 } } } , \\quad \\dot { E } = I \\varOmega { \\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } } , \\quad E = { \\frac { 1 } { 2 } } I \\varOmega ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由(11)和(12)式可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } } = - { \\frac { 2 } { 3 } } { \\frac { \\varOmega ^ { 3 } } { c ^ { 3 } I } } \\mu ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，磁矩 $\\mu { = } R ^ { 3 } B _ { \\mathrm { s } } \\mathrm { s i n } \\alpha$ ; $R$ 为脉冲星半径； $B _ { \\mathrm { s } }$ 为脉冲星的表面磁场。假定磁转矩垂直于自转轴，则$\\alpha = 9 0 ^ { 0 }$ ，故磁矩 $\\scriptstyle \\mu = R ^ { 3 } B _ { \\mathrm { s } }$ 。如果在短时间内不考虑磁衰减或增长，则(13)式成为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } ( I \\Omega ) } { \\mathrm { d } t } = - \\frac { 2 } { 3 } \\frac { I ^ { 3 } \\Omega ^ { 3 } } { I ^ { 3 } c ^ { 3 } } \\mu ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } J } { \\mathrm { d } t } = - \\frac { 2 } { 3 } \\frac { \\mu ^ { 2 } } { \\left( I c \\right) ^ { 3 } } J ^ { 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "积分上式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { { \\cal J } ( t _ { 0 } ) } ^ { { \\cal J } _ { \\mathrm { m } } } \\frac { \\mathrm { d } { \\cal J } } { { \\cal J } ^ { 3 } } = - \\frac { 2 } { 3 } \\int _ { t _ { 0 } } ^ { t } \\frac { \\mu ^ { 2 } } { \\left( { \\cal I } c \\right) ^ { 3 } } \\mathrm { d } t \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "积分式的下限 $t _ { 0 }$ 是在星震后不存在跃变时具有磁辐射的两成分模型统一体的初始时间。这个初始时间 $t _ { 0 }$ 不是脉冲星诞生开始 $\\scriptstyle t = 0$ 时的初始时间，它是具有磁辐射的两成分模型统一体从现在年龄开始的时间。 $J ( t _ { 0 } )$ 是 $t _ { 0 }$ 时的角动量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ \\left( t \\right) _ { \\mathrm { m } } = J \\left( t _ { 0 } \\right) _ { \\mathrm { m } } \\left[ 1 + \\frac { 4 } { 3 } \\frac { \\mu ^ { 2 } J _ { 0 } ^ { 2 } } { c ^ { 3 } I ^ { 3 } } ( t - t _ { 0 } ) \\right] ^ { - 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ( t ) _ { \\mathrm { m } } = J ( t _ { 0 } ) _ { \\mathrm { m } } [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { 1 } } = { \\frac { 4 } { 3 } } { \\frac { \\mu ^ { 2 } { J _ { \\mathrm { 0 } } } ^ { 2 } } { c ^ { 3 } I ^ { 3 } } } = { \\frac { 4 } { 3 } } { \\frac { \\mu ^ { 2 } \\Omega _ { \\mathrm { 0 } } ^ { 2 } } { c ^ { 3 } I } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用(15a)和(15b)可以给出磁辐射制动力矩 $N ( t )$ 的表达式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ( t ) = - { \\frac { \\mathrm { d } J } { \\mathrm { d } t } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将(15a)式代入上式后得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ( t ) = - { \\cal J } _ { 0 } \\frac { \\mathrm { d } } { \\mathrm { d } t } \\big [ 1 + { \\cal K } _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 1 / 2 } = \\frac { 1 } { 2 } { \\cal J } _ { 0 } { \\cal K } _ { 1 } \\big [ 1 + { \\cal K } _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 3 / 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3磁辐射制动力矩可变情况下两成分耦合方程组(1）～（2)的分析解",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将(8）、(9)和(16)式的 $I _ { \\mathrm { n } \\setminus I _ { \\mathrm { c } } } \\ I _ { \\mathrm { c } }$ 和 $\\frac { 1 } { \\tau _ { \\mathrm { c } } }$ 以及 $N ( t )$ 代人方程组 $( 1 ) \\sim ( 2 )$ 式，则 $( 1 ) \\sim ( 2 )$ 式可写成如下形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } = - \\frac { 1 } { 2 } \\frac { J _ { 0 } K _ { 1 } } { I ( 1 - Q ) } \\left[ 1 + K _ { 1 } ( t - t _ { 0 } ) \\right] ^ { - 3 / 2 } - \\frac { Q } { \\tau } ( \\varOmega - \\varOmega _ { \\mathrm { n } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega _ { \\mathrm { n } } } { \\mathrm { d } t } = \\frac { 1 - Q } { \\tau } ( \\varOmega - \\varOmega _ { \\mathrm { n } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样，方程组 $( 1 ) \\sim ( 2 )$ 可用观测到的宏观弛豫时间 $\\tau$ 表示。将方程组(1)和(2)的两端各项相加，可得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { c } } \\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } + I _ { \\mathrm { n } } \\frac { \\mathrm { d } \\varOmega _ { \\mathrm { n } } } { \\mathrm { d } t } = \\frac { \\mathrm { d } } { \\mathrm { d } t } \\big ( I _ { \\mathrm { c } } \\varOmega + I _ { \\mathrm { n } } \\varOmega _ { \\mathrm { n } } \\big ) = - \\ R ( t ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "转动惯量 $I _ { \\mathrm { c } }$ 和 $I _ { \\mathrm { n } }$ 不变或为常数的情况下，将(16)式的 $N ( t )$ 代入上式积分后可得 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } ( I _ { \\mathrm { c } } \\Omega + I _ { \\mathrm { n } } \\Omega _ { \\mathrm { n } } ) = - \\int _ { t _ { 0 } } ^ { t } N ( t ) \\mathrm { d } t = - \\frac { 1 } { 2 } K _ { 1 } J \\left( t _ { 0 } \\right) _ { \\mathrm { m } _ { t _ { 0 } } } \\int _ { 0 } ^ { t } \\left[ 1 + K _ { 1 } ( t - t _ { 0 } ) \\right] ^ { - 3 \\gamma 2 } \\mathrm { d } t ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textit { J } ( t ) _ { \\mathrm { { m } } } = I _ { \\mathrm { { c } } } \\boldsymbol { \\Omega } + I _ { \\mathrm { { n } } } \\Omega _ { \\mathrm { { n } } } = \\boldsymbol { J } ( t _ { 0 } ) _ { \\mathrm { { m } } } [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 1 / 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比式正好是(15a)式，这说明角动量变化的(19)式左端的 $\\boldsymbol { J } \\left( t \\right) _ { \\mathrm { m } }$ 是两成分角动量之和。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用(7）\\~（8)式将(19)改成下列两式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega = \\frac { J ( t _ { 0 } ) } { I _ { \\mathrm { c } } } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 1 / 2 } - \\frac { I _ { \\mathrm { n } } } { I } \\varOmega _ { \\mathrm { n } } = \\frac { J ( t _ { 0 } ) } { I ( 1 - Q ) } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 1 / 2 } - ( \\frac { Q } { 1 - Q } ) \\varOmega _ { \\mathrm { n } } ;\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { Q } _ { \\mathrm { n } } = \\frac { J ( t _ { 0 } ) } { I _ { \\mathrm { n } } } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 1 / 2 } - \\frac { I _ { \\mathrm { c } } } { I _ { \\mathrm { n } } } \\varOmega = \\frac { J ( t _ { 0 } ) } { I Q } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 1 / 2 } - \\frac { 1 - Q } { Q } \\varOmega .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\frac { J \\left( t _ { 0 } \\right) _ { \\mathrm { ~ m ~ } } } { I } = \\varOmega \\left( t _ { 0 } \\right) _ { \\mathrm { ~ m ~ } }$ ，即 $J \\left( t _ { 0 } \\right) _ { \\mathrm { m } } = I \\varOmega \\left( t _ { 0 } \\right) _ { \\mathrm { m } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将(21)式的 $\\varOmega _ { \\mathrm { n } }$ 代入(17)式，方程组(17）\\~（18)变成下列一组一阶非线性齐次方程组：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } + \\frac { 1 } { \\tau } \\varOmega = \\varOmega \\left( t _ { 0 } \\right) _ { \\mathrm { m } } \\frac { 1 } { \\tau } \\bigl [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\bigr ] ^ { - 1 / 2 } - \\varOmega \\left( t _ { 0 } \\right) _ { \\mathrm { m } } \\frac { 1 } { 2 } \\frac { K _ { 1 } } { \\left( 1 - Q \\right) } \\bigl [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\bigr ] ^ { - 3 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega _ { \\mathrm { n } } } { \\mathrm { d } t } + \\frac { \\left( 1 - Q \\right) } { \\tau } \\varOmega _ { \\mathrm { n } } = \\frac { 1 - Q } { \\tau } \\varOmega .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "解(22)式得到 $\\varOmega$ 后再代入(23)式得到 $\\varOmega _ { \\mathrm { n } }$ 的解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样，将(20)的 $\\varOmega$ 代入(18)式，方程组(17）\\~（18)式变成下列另一种形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega _ { \\mathrm { n } } } { \\mathrm { d } t } + \\frac { 1 } { \\tau } \\varOmega _ { \\mathrm { n } } = \\frac { \\varOmega ( t _ { 0 } ) _ { \\mathrm { m } } } { \\tau } [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } + \\frac { Q } { \\tau } \\varOmega = - \\frac { 1 } { 2 } \\frac { \\mathscr { Q } \\left( t _ { 0 } \\right) _ { \\mathrm { m } } K _ { 1 } } { \\left( 1 - Q \\right) } \\left[ 1 + K _ { 1 } \\left( t - t _ { 0 } \\right) \\right] { } ^ { - 3 / 2 } + \\frac { Q } { \\tau } \\varOmega _ { \\mathrm { n } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方程组 $( 2 2 ) \\sim ( 2 3 )$ 同方程组（24）\\~（25)的解是等价的。以下选取方程组（22）\\~（23)的解 $\\varOmega$ 和 $\\varOmega _ { \\mathrm { n } }$ 。首先解一阶线性非齐次方程（22）：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\varOmega } { \\mathrm { d } t } + P ( t ) \\varOmega = W ( t ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( t ) = \\frac { 1 } { \\tau } , \\ : \\ : \\ : W ( t ) = \\Omega \\left( \\iota _ { 0 } \\right) _ { \\mathrm { m } } \\left\\{ \\frac { 1 } { \\tau } \\big [ 1 + K _ { 1 } ( t - \\iota _ { 0 } ) \\big ] ^ { - 1 / 2 } - \\frac { K _ { 1 } } { 2 ( 1 - Q ) } \\big [ 1 + K _ { 1 } ( t - \\iota _ { 0 } ) \\big ] ^ { - 3 / 2 } \\right\\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "解的形式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varOmega = e ^ { - \\int _ { \\tau } ^ { \\tau } \\mathrm { d } \\omega } \\Bigg \\{ \\varOmega \\left( t _ { 0 } \\right) _ { \\mathrm { m } } \\Bigg \\} \\Bigg [ \\frac { 1 } { \\tau } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - \\nu / 2 } - \\frac { 1 } { 2 } \\frac { K _ { 1 } } { ( 1 - Q ) } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 3 \\nu / 2 } \\Bigg ] e ^ { \\int _ { \\tau } ^ { \\tau } \\mathrm { d } t } \\mathrm { d } t + C _ { 1 } \\Bigg \\} \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varOmega = e ^ { - t / \\tau } ( I _ { 1 } + I _ { 2 } ) + C _ { 1 } e ^ { - t / \\tau } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "积分式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle  \\varOmega ( t _ { 0 } ) _ { \\mathfrak { m } } \\frac { 1 } { \\tau } \\bigg \\rbrace \\int [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 1 / 2 } e ^ { \\nu \\tau } \\mathrm { d } t } \\\\ & { \\displaystyle : \\varOmega ( t _ { 0 } ) _ { \\mathfrak { m } } e ^ { \\nu \\tau } \\bigg \\lbrace [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 1 / 2 } + \\frac { 1 } { 2 } K _ { 1 } \\tau \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 3 / 2 } + \\frac { 3 } { 4 } ( K _ { 1 } \\tau ) ^ { 2 } [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 5 / 2 } \\bigg \\rbrace } \\\\ & { \\displaystyle - \\varOmega ( t _ { 0 } ) _ { \\mathfrak { m } } \\frac { K _ { 1 } } { 2 ( 1 - Q ) } \\bigg \\rbrace [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 3 / 2 } e ^ { \\nu \\tau } \\mathrm { d } t } \\\\ & { \\displaystyle - \\varOmega ( t _ { 0 } ) _ { \\mathfrak { m } } e ^ { \\nu \\tau } \\bigg \\lbrace \\frac { K _ { 1 } \\tau } { 2 ( 1 - Q ) } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 3 / 2 } + \\frac { 3 } { 4 } \\frac { ( K _ { 1 } \\tau ) ^ { 2 } } { ( 1 - Q ) } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 5 / 2 } \\bigg \\rbrace . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$I _ { \\mathrm { 1 } }$ 和 $I _ { 2 }$ 代入(26)式，得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Omega = \\mathcal { Q } _ { \\mathrm { m } } ( t _ { 0 } ) \\left\\{ \\left[ 1 + K _ { \\mathrm { l } } ( t - t _ { 0 } ) \\right] ^ { - \\nu / 2 } - K _ { 2 } \\big [ 1 + K _ { \\mathrm { l } } ( t - t _ { 0 } ) \\big ] ^ { - 3 \\nu _ { 2 } } - K _ { 3 } \\big [ 1 + K _ { \\mathrm { l } } ( t - t _ { 0 } ) \\big ] ^ { - 5 \\nu _ { 2 } } \\right\\} + C e _ { \\mathrm { r } } ^ { - \\nu _ { T } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { 1 } = \\frac { 4 } { 3 } \\frac { \\mu ^ { 2 } { \\varOmega _ { 0 } } ^ { 2 } } { c ^ { 3 } I } , K _ { 2 } = \\frac { 1 } { 2 } K _ { 1 } \\tau ~ ( \\frac { Q } { 1 - Q } ) \\ : , K _ { 3 } = \\frac { 3 } { 4 } \\frac { ( K _ { 1 } \\tau ) ^ { 2 } } { 1 - Q } \\ : Q \\ : .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用初始条件 $\\scriptstyle t = t _ { 0 }$ ， $\\varOmega ( t _ { 0 } ) = \\varOmega ( t _ { 0 } ) _ { \\mathrm { m } }$ ，这表示磁辐射和两成分统一体在星震和跃变后从现在辐射年龄（204号 $t _ { 0 }$ 开始，则由上式可得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } = \\Omega ( t _ { 0 } ) ( K _ { 2 } + K _ { 3 } ) e ^ { t _ { 0 } / \\tau } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所以壳层角速度 $\\varOmega$ 在磁辐射力矩作用下随时间变化是",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Omega = \\Omega ( t _ { 0 } ) \\{ [ 1 + K _ { 1 } ( t - t _ { 0 } )  ] ^ { - 1 / 2 } - K _ { 2 } [ 1 + K _ { 1 } ( t - t _ { 0 } ) ] ^ { - 3 / 2 } } \\\\ { - K _ { 3 } \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 5 / 2 } + \\big ( K _ { 2 } + K _ { 3 } \\big ) e ^ { - ( t - t _ { 0 } ) / \\tau } \\} \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\varOmega = \\varOmega ( t ) - \\varOmega ( t _ { 0 } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在(29)式中， $\\begin{array} { r } { t - t _ { 0 } = \\left( \\begin{array} { c } { t _ { 0 } + \\Delta t } \\end{array} \\right) - t _ { 0 } = \\Delta t } \\end{array}$ ， $\\Delta t$ 是以年为单位的时间间隔，它与脉冲星年龄无关，也与起始时间无关，所以（29)式可以写成用时间间隔表示的式子：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\varOmega = 2 ( \\iota _ { \\mathrm { 0 } } ) \\left\\{ \\left[ 1 + K _ { \\mathrm { 1 } } \\Delta t \\right] ^ { - \\nu _ { \\mathrm { 2 } } } - K _ { \\mathrm { 2 } } \\left[ 1 + K _ { \\mathrm { 1 } } \\Delta t \\right] ^ { - 3 \\gamma _ { \\mathrm { 2 } } } - K _ { \\mathrm { 3 } } \\left[ 1 + K _ { \\mathrm { 1 } } \\Delta t \\right] ^ { - 5 \\gamma _ { \\mathrm { 3 } } } + \\left( K _ { \\mathrm { 2 } } + K _ { \\mathrm { 3 } } \\right) e ^ { - ( \\iota - \\iota _ { \\mathrm { 0 } } ) } / \\tau \\right\\} \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式只与取的时间间隔有关，而与时间起点无关。故本文在计算时取时间间隔为一年。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将(29)式代入(23)式后可得到 $\\varOmega _ { \\mathrm { n } }$ 的一阶线性非齐次方程，令其解为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Omega _ { \\mathrm { n } } = e ^ { - ( 1 - Q t ) / \\tau } \\big [ I _ { 1 } + I _ { 2 } + I _ { 3 } + I _ { 4 } \\big ] + C _ { 2 } e ^ { - ( 1 - Q ) t \\tau } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用前面的积分方法可得 $I _ { 1 \\setminus I _ { 2 \\setminus I } } I _ { 3 \\setminus I }$ （20 $I _ { 4 }$ 各积分结果和所得常数 $\\boldsymbol { c }$ ，将其代入上式，由此得到中子超流体的角速 $\\varOmega _ { \\mathrm { n } }$ 随时间变化的解（推导式子较长，因篇幅关系略去）：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { Q } _ { \\mathrm { a } } = \\varOmega _ { 0 } \\left\\{ \\left[ 1 + K _ { 1 } ( t - t _ { 0 } ) \\right] ^ { - 1 / 2 } + \\frac { 1 } { 2 } K _ { 1 } \\tau \\big [ 1 + K _ { 1 } ( t - t _ { 0 } ) \\big ] ^ { - 3 / 2 } - \\left( K _ { 2 } + K _ { 3 } \\right) \\frac { ( 1 - Q ) } { Q } e ^ { - \\varepsilon \\tau } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\left\\{ \\left[ 1 + \\frac { 1 } { 2 } K _ { 1 } \\tau - \\left( K _ { 2 } + K _ { 3 } \\right) \\frac { \\left( 1 - Q \\right) } { Q } \\right] e ^ { - \\left( 1 - Q \\right) \\left( t - t _ { 0 } \\right) / \\tau } \\right\\} + \\Omega \\left( t _ { 0 } \\right) _ { \\mathfrak { n } } e ^ { - \\left( 1 - Q \\right) \\left( t - t _ { 0 } \\right) / \\tau } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\delta \\varOmega _ { \\mathrm { n } } = \\varOmega \\left( t \\right) _ { \\mathrm { n } } - \\varOmega \\left( t _ { 0 } \\right) _ { \\mathrm { n } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(29)式和(33)式就是本文给出的脉冲星磁辐射力矩对两成分模型自转角速随时间长期变化的式子。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4脉冲星 $\\mathrm { P S R 0 } 5 3 1 \\substack { + 2 1 \\left( \\mathrm { C r a b } \\right) }$ 的理论数值结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文研究的脉冲星必须具有磁辐射的两成分模型，根据文［3]，蟹状星云脉冲星（Crab，PSR0531$^ { + 2 1 }$ )是两成分模型，根据文[4］它又是磁辐射模型或是具有这两种模型的统一体。本文选取Crab脉冲星( $\\mathrm { P S R 0 } 5 3 1 + 2 1$ )作为计算实例。首先给出这个脉冲星的物理参数如表1，其中 $\\varOmega _ { 0 }$ 、Q、 $\\boldsymbol { \\tau }$ 引自文[3，10]，表面磁场 $B _ { \\mathrm { s } }$ 引自文[11]， $\\scriptstyle \\mu = R ^ { 3 } B _ { \\mathrm { s } }$ 。一般假定中子星的半径 $R = 1 . 2 \\times 1 0 ^ { 6 } ~ \\mathrm { c m }$ ，转动惯量$I { = } 1 . 4 \\times 1 0 ^ { 4 5 } ( \\mathrm { c m } ^ { 3 } \\cdot \\mathrm { g } )$ [6]",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0817a37074a3f81205d04b0bb05b9800fa7aaa4e018721fba402237c3c7c1465.jpg",
+        "table_caption": [
+            "表1蟹状星云脉冲星( $\\mathbf { P S R 0 5 3 1 + } 2 \\mathbf { 1 }$ )的物理数据",
+            "Table1 Data forPulsars $\\mathbf { P S R 0 5 3 1 + } 2 \\mathbf { 1 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脉冲星 Pulsar</td><td>Ω(rad/s)</td><td>Q=1n/I</td><td>T(d，yr)</td><td>B(G)</td><td>μ ×1030(cm³ ·G)</td></tr><tr><td>PSR0531+21(Crab)</td><td>190</td><td>0.96</td><td>7.7 (d)</td><td>0.999 553 952E+12</td><td>6.53</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将表1中的数据代入(28)式，得到 $\\mathrm { P S R 0 } 5 3 1 + 2 1$ 的 $K _ { \\scriptscriptstyle 1 } = 5 . 4 3 \\times 1 0 ^ { - 1 1 }$ ， $K _ { 2 } = 4 . 3 3 \\times 1 0 ^ { - 4 }$ ， $K _ { 3 } = 2 . 3 5 \\times 1 0 ^ { - 8 }$ ，再取时间间隔 $\\Delta t = 1$ 年。将 $K _ { 1 }$ 、 $K _ { 2 }$ 、 $K _ { 3 }$ 的数值代入（30)和(31)式,得到 $\\mathrm { P S R 0 } 5 3 1 + 2 1$ （Crab)的壳层在磁辐射力矩作用下角速每年变化的数值如表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ea34de6342e30dc3a3e5052d8f0d9b08d10a6b7c8e15a0a18151681af345d97.jpg",
+        "table_caption": [
+            "表2蟹状星云脉冲星( $\\mathbf { P S R 0 5 3 1 + } 2 \\mathbf { 1 }$ )的数值的结果(每年变化的数值： $\\Delta t = 1$ 年)",
+            "Table 2The numerical results for $\\mathbf { P S R 0 5 3 1 + } 2 \\mathbf { 1 }$ per year ( $\\Delta t = 1$ year) "
+        ],
+        "table_footnote": [
+            "$\\varOmega _ { 0 }$ 的数值在表1中给出。"
+        ],
+        "table_body": "<html><body><table><tr><td>脉冲星Pulsar</td><td>Ω(t)(rad/s)</td><td>0/50</td><td>sΩ(rad/s)</td></tr><tr><td>PSR0531+21(Crab)</td><td>189. 755 0</td><td>0. 999 871</td><td>-0.245 0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于中子超流体的角速度变化情形由于初始角速度 $\\varOmega ( t _ { 0 } )$ 难以观测到，所以中子超流体的角速度$\\boldsymbol { \\varOmega } ( t ) _ { n }$ 随时间变化也同样难以观测到。故本文只能根据所推得的理论式子对壳层角速度变化做一计算，但给出中子超流体的角速度变化的理论式子仍有理论价值和意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5讨论和结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)对推得的理论结果式子的验证。将初始时间 $\\scriptstyle t = t _ { 0 }$ 代入理论式子（29)和（33），可得到右端的初始角速度 $\\varOmega ( t _ { 0 } )$ 和 $\\varOmega ( t _ { 0 } ) _ { \\mathrm { ~ n ~ } }$ 。即(29）\\~（30)和(33）\\~（34)式变成 $\\varOmega = \\varOmega ( t _ { 0 } )$ ， $\\delta \\varOmega = 0$ ： $\\mathcal { \\Omega } _ { \\mathrm { n } } = \\mathcal { \\Omega } \\left( t _ { 0 } \\right) , \\delta \\mathcal { \\Omega } _ { \\mathrm { n } } =$ 0。这说明文中给理论结果是正确的。此外，（29)和(33)式的级数随时间增大是收敛的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)根据表2给出的数值结果，脉冲星 $\\mathrm { P S R 0 } 5 3 1 + 2 1$ 在磁辐射外力矩的作用下，外壳角速度随时间逐渐减慢，然而这种减速是长期的，而和由于壳震角速突然加速的跃变两者迥然不同。前者是长期性的，后者是突然临时性的。此外，前者长期减速不会影响后者突然跃变的加速，而后者的突然跃变加速对前者的长期变化也不产生影响。因为方程组（1）\\~（2)是在星震跃变不存在的情况下成立，因此它的解(长期变化)不受星震和跃变的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)脉冲星磁辐射的演化起点是从脉冲星诞生 $\\scriptstyle t = 0$ 开始，而两成分模型的演化起点是从星震和跃变后为起点，两者并不一致。本文致力于如何使两个模型的演化起点合二为一，这是本文解决此问题的特点。本文研究的脉冲星具有磁辐射和两成分的统一体（Crab 脉冲星就是这两种模型的统一体），因此，演化的起点 $t _ { 0 }$ 必须在星震和跃变后统一体的初始时间。如果按磁辐射的初始时间是脉冲星诞生 $\\scriptstyle t = 0$ 为起始时间，可是脉冲星诞生时的物理参量是一个不确定的较大的物理量。另外也不符合两成分模型的演化起点。因此应该采用脉冲星的现在年龄 $t _ { 0 }$ 为两个模型统一体的初始时间。在积分式子(29）\\~(30)中，取从 $t _ { 0 }$ 到 $\\mathbf { \\chi } _ { t }$ 为积分上下限，可是 ${ \\bf \\Phi } _ { t } = t _ { 0 } + \\Delta t$ ，故在(29）\\~（30)式子中取 $\\begin{array} { r } { t - t _ { 0 } = \\left( \\begin{array} { l } { t _ { 0 } + \\Delta t } \\end{array} \\right) - t _ { 0 } = } \\end{array}$ $\\Delta t$ 。按本文计算取时间间隔 $\\Delta t = 1$ 年，所以演化时间间隔与脉冲星演化的起始时间无关。这样，具有磁辐射的两成分模型，如Crab 脉冲星的演化时间可选取在星震和跃变后磁辐射和两成分的统一体的现在年龄为两者的初始时间。这个方法解决了上述两个模型演化起点不一致的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4)本文假定(13)式中的磁偶极矩 $\\mu$ 为常量，即不随时间衰减或增长。实际上，如果从长期考虑磁矩 $\\mu$ 是随时间变化的。即 $\\mu { = } \\mu _ { 0 } e ^ { - \\xi t }$ ， $\\xi = 2 / \\tau _ { \\mathrm { p } }$ 。文[9]给出的 $\\tau _ { \\mathrm { { D } } } = 1 . 6 \\times 1 0 ^ { 6 }$ 年， $\\xi = 1 . 3 \\times 1 0 ^ { - 6 }$ 年。因此,磁衰减时间较长，磁衰减系数每年很小。本文只计算每年角速的变化值，因此，磁衰减的影响可以不必考虑。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另一方面，有的脉冲星的磁场是增长的。例如文［12]给出的 $\\mathrm { P S R 0 } 5 3 1 + 2 1$ (Crab 脉冲星)属于磁场增长的脉冲星，即 $\\mu = \\mu _ { 0 } e ^ { + \\xi t } = R ^ { 3 } B _ { 0 } e ^ { + \\xi t }$ ，但磁场增量很小，增量为 $+ 0 . 0 0 0 6 \\times 1 0 1 2 \\mathrm { G } /$ 年。这样小的增量对Crab 脉冲星每年壳层角速度变化的影响也可不必考虑。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5)在第3节中 $I _ { 1 \\setminus \\mathrm { ~ } } I _ { 2 \\setminus \\mathrm { ~ } } I _ { 3 \\setminus \\mathrm { ~ } } I _ { 4 }$ 各积分式子利用了下面的积分公式：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int x ^ { n } e ^ { a x } \\mathrm { d } x = { \\frac { e ^ { a x } } { a } } \\lfloor x ^ { n } - { \\frac { n } { a } } x ^ { n - 1 } + { \\frac { n ( n - 1 ) } { a ^ { 2 } } } x ^ { n - 2 } - \\cdots \\cdots \\rfloor ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "级数展开式应用于本文 $n { = } 1 / 2$ ， $a = 1 / K _ { 1 } \\tau$ 和 $x = \\left[ 1 + K \\big ( t - t _ { 0 } \\big ) \\right]$ 。表1中 $K = 5 . 4 3 \\times 1 0 ^ { - 1 1 }$ ， $\\tau = 7 . 7 ~ \\mathrm { d } = 6 6 5 ~ 2 8 0 ~ \\mathrm { s }$ ，$K _ { \\scriptscriptstyle 1 } \\tau = 3 . 6 1 2 4 \\times 1 0 ^ { - 5 }$ ， $_ { x > 1 }$ 随时间 $\\mathbf { \\chi } _ { t }$ 延长而增加。将这些代人上式，此级数是收敛的。所以， $I _ { 1 \\setminus I _ { 2 } }$ 、$I _ { 3 \\mathrm { ~ , ~ } } I _ { 4 }$ 各积分式是收敛的，故此所得(29)式也是收敛的。另外，如果将第4节表1下面的 $K _ { 1 }$ 、 $K _ { 2 }$ 、 $K _ { 3 }$ （202",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的数值代入(29)式也可得到(29)式是收敛的，当 $\\left[ 1 + K _ { \\mathrm { 1 } } \\left( t - t _ { \\mathrm { 0 } } \\right) \\right]$ 随时间 $\\mathbf { \\chi } _ { t }$ 延长而增大。但由于在级数中略去了 $\\left[ 1 + K _ { 1 } ( t - t _ { 0 } ) \\right] ^ { - 7 / 2 }$ 以上的高阶项，所以，解(29)式是近似的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Baym G，Pethick C,Pines D,et al. Spin up in neutron stars: the future of the Vela pulsar [J]. Nature，1969，224:872-874.   \n[2] Ruderman M. Pulsar: structure and dynamics [J]. Annual Review of Astronomy and Astrophysics, 1972，10: 427.   \n[3] Pines D. Observing neutron stars: information on stellar structure from pulsars and compact X-ray sources [C] // Proceedings of the Sixteenth Solvay Conference on Physics，Brussels，Belgium, September 24-28，1973.1974:147-173.   \n[4] Shapiro S L,Teukolsky S A. Black holes，white dwarfs，and neutron stars:the physics of compact objects ［M]. New York:John Wiley & Sons，1983：247-295.   \n[5] Baykal A，Alpar A，Kizilaglu U.A shot noise model for a two-component neutron star [J]. Astronomy & Astrophysics，1991，252(2） :664-668.   \n[6] Sedrakian D M.Rotation of a two-component model neutron star in GTR [J].Astrophysics, 1997，40(3) : 260-266.   \n[7] Feibelman P J.Relaxation of electron velocity in a rotating neutron superfluid:application to the relaxation of a pulsar's slowdown rate [J]. Physical Review D,1971,4(6):1589-1597.   \n[8] Pines D,Shaham J,Rudeman M A.Physics of dense matter [J].Proceedings of the International Astronomical Union，1972，1053：21-25.   \n[9] 曲钦岳，汪珍茹，陆琰，等.脉冲星的统计分析与JP 1953[J].科学通报，1976(4)：176-177.   \n[10] 唐小英.中子星星震与脉冲星加速［J].北京天文台台刊，1975(4)：68-81.   \n[11] Manchester R N，Hobbs G B，Teoh A，et al. The Australia Telescope National Facility pulsar catalogue ［J].The Astronomical Journal，2005，129(4）：1993-2006.   \n[12] Li Linsen.A method for judging decay or growth of the magnetic field of pulsar [J]. Journal of Astrophysics & Astronomy，2009，30(3）:145-151. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Impact of Magnetic Radiation Braking Torque on the Secular Retardation of Spin of Two-Components of Pulsar ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Li Linsen （School of Physics，Northeast Normal University，Changchun 130O24,China,Email：dbsd-lls@ 163.com） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The secular influences of the variable magnetic radiation braking torque on the spin down of two-components of pulsar are studied by using analytical method.The analytical solutions of thecoupled equation system are given with due consideration of the time-dependent magnetic braking torque by solving the system of non-homogeneous equations.The analytical solutions obtained are applied to the research for $\\mathrm { P S R 0 } 5 3 1 + 2 1$ (Crab Pulsar).The numerical results are obtained in Table 2. The numerical results show that the spin of Crab pulsar speeds down $- 0 . 2 4 5 \\mathrm { r a d / y r }$ . Discussions are held on the obtained results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Pulsar； Two-component model； Magnetic radiation torque； Speed down",
+        "page_idx": 6
+    }
+]

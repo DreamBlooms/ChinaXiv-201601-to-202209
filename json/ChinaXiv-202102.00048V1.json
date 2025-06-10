@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠典型植物群落土壤风蚀可蚀性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王佳庭1,²，于明含1,²，杨海龙1,²，吴其淦1²，刘泰含1,2(1北京林业大学水土保持学院,北京100083；2北京林业大学水土保持国家林业局重点实验室,北京100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探明植被恢复对乌兰布和沙漠土壤风蚀可蚀性的影响，以乌兰布和沙漠内不同沙地固定阶段的8种典型植物群落及群落内表土作为研究对象，对土壤物理因子（可蚀性颗粒含量、土壤含水量、有机质含量）、土壤结皮因子、植被因子3类土壤风蚀可蚀性因子指标进行监测,分析土壤风蚀可蚀性因子在不同植物群落类型间、沙地固定阶段间的差异。结果表明：(1)在乌兰布和沙漠典型植物群落中,沙蓬、沙生针茅、盐爪爪等草本植物群落的土壤风蚀可蚀性最强，白刺、梭梭、沙冬青等灌木植物群落土壤风蚀可蚀性弱于草本植物群落，说明灌木林能显著降低土壤风蚀作用。(2）随着沙地的不断固定，土壤结构不断发育，土壤可蚀性不断降低，土壤风蚀可蚀性强弱表现为固定沙地<半固定沙地<流动沙地。(3)土壤可蚀性颗粒含量、土壤有机质含量、土壤含水量、土壤结皮、植被因子与植被类型及沙地固定阶段具有显著相关关系。因此，在沙区生态建设工程中，为了减少土壤风蚀量，不仅要考虑物种的选择，还要促进人工生态系统的演替和恢复，从而有效降低土壤风蚀可蚀性。研究结果可为乌兰布和沙区植被生态系统服务功能的科学评价、防沙治沙工程的建设与管理提供一定参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：乌兰布和沙漠；群落类型；土壤风蚀；可蚀性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤风蚀可蚀性是研究土壤风蚀规律的重要内容,对土壤风蚀的预报和防治有重要意义[1-2]1940—1956年间，美国著名土壤学家Chepil在风蚀可蚀性影响因子的研究中，对地表粗糙度、土壤粒径结构、土壤机械组成等因素的影响进行了初探[3-5]；我国荒漠化领域学者基于风洞模拟和野外监测，系统总结了土壤湿度、土壤硬度、土壤平均粒径、可蚀性颗粒(粒径 $< 0 . 8 4 ~ \\mathrm { m m }$ 含量、植被覆盖度等影响因子对土壤风蚀可蚀性的影响[6-9]。此后，土壤风蚀可蚀性影响因子被进一步量化，地表粗糙度被证明存在临界常数，当达到或超过该常数时，风蚀现象就会停止；粒径 $> 0 . 8 4 ~ \\mathrm { m m }$ 和 $< 0 . 0 2 \\ \\mathrm { m m }$ 的土壤颗粒增多能够有效降低土壤风蚀可蚀性[0];土壤机械组成中，粒径分级大的沙土被证明具有强风蚀可蚀性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于对风蚀可蚀性影响因子的探究结果，20世纪90年代，美国国农业部提出风蚀模拟系统(WESS)和修正风蚀预报方程(RWEQ)[\"],在该模型中，影响土壤风蚀可蚀性大小的抗蚀性因子被划分为土壤因子、结皮因子和植被因子3大类,且对各个因子的抗风蚀效应进行了定量评价，最终实现了对土壤风蚀量的有效预测和评估[2]。自此,土壤风蚀影响因子的研究成为评价区域土壤风蚀可蚀性、预测区域风蚀量的关键。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠是我国防沙治沙、生态修复和沙漠资源开发的重点试验示范区[13],几十年来，随着退耕还林、退牧还草、京津风沙源治理等多个生态建设项目在该区域实施，乌兰布和沙漠植被覆盖度显著增长[14-15]。然而,乌兰布和沙漠生态系统的重建是否降低了土壤的风蚀可蚀性，以实现真正意义上的固沙减蚀？哪种植被生态系统对土壤风蚀可蚀性的影响最为显著？至今并没有系统的研究成果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究旨在通过对乌兰布和沙漠进行全面系统取样调查，以土壤颗粒组成、含水率、有机质含量、土壤结皮因子、植被因子等风蚀可蚀性因子指标为依托，对不同植被群落、不同恢复阶段的沙漠土壤进行风蚀可蚀性分析，并进一步揭示不同植被群落下土壤风蚀可蚀性差异化的原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠位于黄河中游,内蒙古阿拉善左旗和巴彦淖尔市磴口县境内，东北部与河套平原接壤,西至查哈尔苏木，南到贺兰山北麓,北连狼山南缘，面积约为 $1 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,是阿拉善高原东北部面积较大的沙漠[16]。该沙漠属于暖温带干旱区，生态环境较为脆弱，是我国沙尘暴主要沙源之一。年降水量 $1 1 0 \\sim 1 6 0 \\mathrm { m m }$ ,年蒸发量 $2 4 0 0 \\sim 3 2 0 0 \\mathrm { m m }$ ,年平均气温 $7 . 5 \\sim 8 . 5 \\ \\mathrm { ^ { \\circ } C }$ ,无霜期 $1 4 0 \\sim 1 6 0 \\mathrm { ~ d ~ }$ ,年平均风速$3 . 0 \\sim 3 . 7 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ ,多年平均大风日数 $1 0 \\sim 3 2 \\mathrm { d }$ ,多年平均扬沙日数 $7 5 \\sim 7 9 \\mathrm { d }$ ,沙尘暴日 $1 9 \\sim 2 2 \\mathrm { d }$ 。研究区土壤以风沙土为主，结构松散，易风蚀。水资源较为丰富，地下水含量较高，可开发利用程度较高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主要天然植被群落包括白刺（Nitraria tangutorumBobr.）、沙冬青（Ammopiptanthus mongolicus Chengf.）、芦 苇（Phragmitescommunis（Cav.）Trin.exSteud.）油蒿(ArtemisiaordosicaKrasch.）沙生针茅(StipaglareosaP.Smirn.）盐爪爪（Kalidium foliatumMoq.）、沙蓬(Agriophyllum squarrosum (L.） Moq.)等,人工植被群落有梭梭（HaloxylonammodendronBunge.)等。研究区位置图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 样地设置与样品采集于2019年6—9月，在研究区内调查并选取梭梭、沙冬青、白刺、油蒿、沙蓬、沙生针茅、芦苇、盐爪爪为建群种的8种主要植物群落样地，采用空间代替时间的方法，在样地内选取流动沙地、半固定沙地和固定沙地，作为沙地的3个固定阶段。每种群落每个固定阶段设置3\\~4个 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ 的调查样方，共51个。样地基本特征表如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用手持式GPS记录经纬度、海拔等基本信息。对选取的样方进行调查，包括物种种类、多度、高度、盖度等指标。在每个样方内采用五点取样法进行土壤取样，利用ML2X土壤水分速测仪测定并记录 $3 0 \\ \\mathrm { c m }$ 深度的土壤含水量，并除去表面枯落物",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4af56d9f9fac4a29933b0ea4bad52d991fcc87968d79ace4fd6ca78154b0ff8.jpg",
+        "img_caption": [
+            "图1研究区位置图",
+            "Fig.1Location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1 样地基本特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6aca003cd9fafaab7a39858994f7abf147a5032bc55b72f936357e4764d16c2f.jpg",
+        "table_caption": [
+            "Tab.1 Basic characteristics of sample plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植物群落</td><td>沙地固定阶段</td><td>样地个数</td><td>平均盖度/%</td><td>种群平均高度/cm</td><td>主要伴生种</td></tr><tr><td rowspan=\"2\">梭梭</td><td>半固定沙地</td><td>4</td><td>34</td><td>158</td><td>油蒿、沙蓬、猪毛菜</td></tr><tr><td>固定沙地</td><td>3</td><td>37</td><td>162</td><td>油蒿、猪毛菜</td></tr><tr><td rowspan=\"2\">沙冬青</td><td>半固定沙地</td><td>3</td><td>27</td><td>141</td><td>盐爪爪、虫实、霸王、沙蓬</td></tr><tr><td>固定沙地</td><td>3</td><td>29</td><td>157</td><td>白刺、盐爪爪、霸王</td></tr><tr><td rowspan=\"2\">白刺</td><td>半固定沙地</td><td>4</td><td>20</td><td>42</td><td>驼绒藜、沙蓬、虫实、猪毛菜</td></tr><tr><td>固定沙地</td><td>3</td><td>22</td><td>46</td><td>驼绒藜、猪毛菜</td></tr><tr><td rowspan=\"2\">芦苇</td><td>半固定沙地</td><td>3</td><td>18</td><td>86</td><td>霸王、驼绒藜、无芒隐子草、猪毛菜、虫实</td></tr><tr><td>固定沙地</td><td>3</td><td>25</td><td>98</td><td>霸王、沙拐枣、驼绒藜、猪毛菜</td></tr><tr><td rowspan=\"2\">油蒿</td><td>半固定沙地</td><td>4</td><td>20</td><td>75</td><td>沙蓬、虫实、猪毛菜</td></tr><tr><td>固定沙地</td><td>4</td><td>20</td><td>80</td><td>沙蓬、虫实、猪毛菜</td></tr><tr><td rowspan=\"2\">沙蓬</td><td>半固定沙地</td><td>3</td><td>19</td><td>47</td><td>霸王、沙生针茅、虫实、猪毛菜</td></tr><tr><td>流动沙地</td><td>3</td><td>19</td><td>54</td><td>霸王、猪毛菜</td></tr><tr><td rowspan=\"2\">沙生针茅</td><td>半固定沙地</td><td>4</td><td>23</td><td>30</td><td>虫实</td></tr><tr><td>流动沙地</td><td>3</td><td>25</td><td>34</td><td>虫实</td></tr><tr><td>盐爪爪</td><td>半固定沙地</td><td>4</td><td>23</td><td>52</td><td>芦苇、无芒隐子草、猪毛菜、蓼子朴、沙芥</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "后取 $0 \\sim 5 ~ \\mathrm { c m }$ 表层土壤用于可蚀性颗粒含量、有机 质含量的测定，共取土样255个。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2风蚀可蚀性因子的指标测定及计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）土壤物理因子指标",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可蚀性颗粒含量 $( E P )$ ：土壤的机械组成对土壤可蚀性影响较大[17]。由于不同粒径大小的土粒所需的起动风速大小不同，粒径越大，所需起动风速越大，故可蚀性颗粒含量能够作为土壤可蚀性的衡量指标之一[18]。研究得到,小于 $0 . 8 4 \\mathrm { m m }$ 的土壤颗粒极容易被风侵蚀。本实验采用Mastersizer3000激光粒度分析仪测定土壤颗粒组成，颗粒粒径划分为4级 $( 0 \\sim 0 . 5 \\ \\mathrm { m m } \\ 0 . 5 \\sim 0 . 8 4 \\ \\mathrm { m m } \\ 0 . 8 4 \\sim 2 \\ \\mathrm { m m } \\ > 2 )$ （204号$\\mathbf { m } \\mathbf { m }$ )。可蚀性颗粒含量计算公式表达为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE P = \\frac { W _ { < 0 . 8 4 } } { T } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E P$ 为土壤可蚀度且无量纲； $W _ { < 0 . 8 4 }$ 为粒径小于$0 . 8 4 \\mathrm { m m }$ 的土壤质量; $T$ 为过筛土壤总质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质含量 $( O M )$ ：土壤有机质采用重铬酸钾稀释热法测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤含水量(SWC)：利用ML2X土壤水分速测仪测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）结皮因子指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤结皮的致密层可以在一定程度上增加表土强度[19],同时增加土壤的抗剪强度，能够有效地抑制沙尘物质释放，降低土壤风蚀[20]。土壤结皮因子采用修正风蚀方程(RWEQ)中计算方法，计算如公式(2）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS C F { = } 1 / ( 1 + 0 . 0 0 6 6 C l ^ { 2 } + 0 . 0 2 1 O M ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $S C F$ 为土壤结皮因子且 $S C F$ 无量纲； $C l$ 为土壤黏粒含量 $\\left( { \\bf g } \\cdot { \\bf k } { \\bf g } ^ { - 1 } \\right)$ ; $o M$ 为土壤有机质含量 $\\left( \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）植被因子指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被对土壤风蚀影响较大，一方面，植被的存在降低了下垫面的风速；另一方面，植被及其枯落物增加了地表粗糙度，增大了起动风速，同时对已起动的沙物质有一定的阻拦作用[22]。植被因子采用修正风蚀方程(RWEQ)中计算方法，计算如公式(3）所示， $S C$ 越大， $C$ 越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\mathrm { e } ^ { - 0 . 0 4 3 8 S C }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为植被因子且 $C$ 无量纲; $S C$ 为植被覆盖度 $( \\% )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3分析方法不同植物群落类型间、不同沙地固定阶段间土壤风蚀可蚀性因子进行ANOVA单因素方差分析。数据分析、处理主要应用SPSS20.0完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同植物群落类型的土壤风蚀可蚀性因子差异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠不同植被群落类型土壤可蚀性因子如图2所示。不同植物群落可蚀性颗粒含量$( E P )$ 存在一定差异性，范围在 $8 5 . 2 3 \\% \\sim 9 1 . 6 4 \\%$ 间，沙蓬、沙生针茅等草本群落可蚀性颗粒含量显著高于白刺、梭梭、沙冬青等灌木群落 $( P < 0 . 0 5 )$ 。油蒿群落与其他群落可蚀性颗粒含量无显著性差异$\\mathrm { \\langle } P > 0 . 0 5 \\mathrm { \\rangle }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠不同植被群落类型有机质( $( o M )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "/ @b Ll al al a a A /） 2018 ③a a 山 aabb abb16  \nW 2.0 abW1510 14b b bbc0.5 C 12 b  \n70 0.0 10  \n公有 沙生针茅 参 沙 武 爪爪 梭梭 茶 参 Y 参 沙生针茅 来 y 盐爪爪 物 选 Y 生我心 海 盐爪 分炒植物群落类型 植物群落类型 植物群落类型1.00 aaa a 0.81S (d) U a 0 (e) a 家b （） 0.6 ab b b b0.4 bcbcC0.20.70 0.0梭 参 参茶 绿 参 参奇 公 双 风 双 当 盐爪爪 公考 钱 心炒 生 选 沙生 新植物群落类型 植物群落类型注：图中小写字母a、b、c代表不同植物群落植被各因子差异显著( $\\scriptstyle \\cdot < 0 . 0 5$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "含量范围在 $0 . 4 2 \\sim 3 . 1 6 ~ \\mathrm { g \\cdot k g } ^ { - 1 }$ 之间,其中白刺、梭梭、沙冬青等灌木群落有机质含量显著高于其他群落中 $\\left( P < 0 . 0 5 \\right)$ ，沙蓬群落有机质含量显著低于其他群落$( P < 0 . 0 5 )$ 。土壤含水量(SWC)范围在 $1 1 . 1 0 \\sim$ $1 8 . 3 0 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ 之间，整体而言，白刺、梭梭、沙冬青等灌木群落土壤含水量显著高于沙蓬、沙生针茅等草本群落( $( P < 0 . 0 5 )$ 。草本植物中,芦苇因其生长特性所限，大多分布于水分较为充足的低洼地带，故而土壤含水量较高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠不同植被群落类型土壤结皮因子 $( S C F )$ 范围在 $0 . 8 3 \\sim 0 . 9 9$ 之间,灌木群落土壤结皮因子显著低于其他草本群落( $( P < 0 . 0 5 )$ ；梭梭、白刺、沙冬青间土壤结皮因子无显著性差异（ $( P >$ 0.05);芦苇、油蒿、沙蓬、沙生针茅和盐爪爪间土壤结皮因子无显著性差异 $( P > 0 . 0 5 )$ 。植被因子 $( C )$ 范围在 $0 . 2 9 \\sim 0 . 6 7$ 之间，植被因子受植被覆盖度影响，植被覆盖度越高，植被因子越小。沙生针茅、沙蓬草本群落植被因子显著高于其他群落 $( P < 0 . 0 5 )$ ，白刺显著低于其他群落 $( P < 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同沙地固定阶段的土壤风蚀可蚀性因子差异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "乌兰布和沙漠不同沙地固定的土壤可蚀性因子如表2所示。可蚀性颗粒含量 $( E P )$ 表现为固定沙地植物群落可蚀性颗粒含量显著低于半固定沙地 $( P < 0 . 0 5 )$ ,半固定沙地植物群落可蚀性颗粒含量显著低于流动沙地 $( P < 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有机质含量 $( O M )$ 表现为固定沙地显著高于半固定沙地 $( P < 0 . 0 5 )$ ，半固定沙地显著高于流动沙地1 $\\stackrel { \\cdot } { P } < 0 . 0 5 ,$ ，即随着沙地的固定，有机质含量增大。不同沙地固定阶段土壤含水量无显著差异。沙漠地区由于降水量少，蒸发剧烈，渗透作用强等因素，导致土壤含水量整体较低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤结皮因子 $( S C F )$ 表现为灌木群落的固定沙地显著高于半固定沙地( $\\left( P < 0 . 0 5 \\right)$ ,沙蓬、针茅、盐爪爪等草本群落的半固定沙地与流动沙地间土壤结皮因子差异不显著( $\\left( P > 0 . 0 5 \\right)$ 。土壤结皮的形成受土壤黏粒含量和土壤有机质含量的双重影响，由于沙漠地区局部空间尺度上土壤黏粒含量近乎相同，则该区域土壤结皮的形成主要受有机质含量影响，故随着沙地的固定，土壤有机质含量增大，土壤结皮因子减小。不同沙地固定阶段植被因子间未表现出显著差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合分析可知，不同沙地固定下，土壤可蚀性颗粒含量 $( E P )$ 随着沙地的固定而降低；而土壤有机质含量(OM）、土壤结皮因子(SCF)随着沙地的固定而增大。土壤含水量(SWC)和植被因子 $( C )$ 却并没有表现出固定阶段间的差异性。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c521edc7fbf9a584c284bd7669493d9a0a122628849ab1f47112111f28e6161c.jpg",
+        "table_caption": [
+            "Tab.2Soil erodibility factors in different fixed sand phases "
+        ],
+        "table_footnote": [
+            "注：表中小写字母a、b、代表不同沙地固定阶段各因子差异显著( $P { < } 0 . 0 5$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>植物 群落</td><td>沙地 固定阶段</td><td>可蚀性颗粒 含量(EP)/%</td><td>有机质含量 (OM)/g·kg-1</td><td>土壤含水量 (SWC)/ g·kg-1</td><td>结皮因子 (SCF)</td><td>植被因子 (C)</td></tr><tr><td rowspan=\"2\">梭梭</td><td>固定沙地</td><td>86.01±0.45b</td><td>3.01±019a</td><td>17.90±0.10a</td><td>0.85±0.01b</td><td>0.32±0.03a</td></tr><tr><td>半固定沙地</td><td>89.03±0.52a</td><td>2.79±0.14b</td><td>17.50±0.10a</td><td>0.92±0.01a</td><td>0.35±0.02a</td></tr><tr><td rowspan=\"2\">沙冬青</td><td>固定沙地</td><td>85.44±0.87b</td><td>3.12±0.23a</td><td>17.30±0.10a</td><td>0.85±0.02b</td><td>0.33±0.02a</td></tr><tr><td>半固定沙地</td><td>88.08±1.04a</td><td>2.85±0.21b</td><td>17.10±0.20a</td><td>0.92±0.01a</td><td>0.35±0.02a</td></tr><tr><td rowspan=\"2\">白刺</td><td>固定沙地</td><td>83.62±1.22b</td><td>3.28±0.17a</td><td>18.50±0.10a</td><td>0.83±0.02b</td><td>0.28±0.03a</td></tr><tr><td>半固定沙地</td><td>86.84±0.98a</td><td>2.97±0.22b</td><td>18.10±0.10a</td><td>0.93±0.01a</td><td>0.29±0.03a</td></tr><tr><td rowspan=\"2\">芦苇</td><td>固定沙地</td><td>88.97±0.24b</td><td>1.14±0.15a</td><td>17.80±0.10a</td><td>0.89±0.01b</td><td>0.37±0.02a</td></tr><tr><td>半固定沙地</td><td>90.39±0.22a</td><td>0.98±0.08b</td><td>17.20±0.20a</td><td>0.97±0.01a</td><td>0.40±0.03a</td></tr><tr><td rowspan=\"2\">油蒿</td><td>固定沙地</td><td>87.35±0.37b</td><td>1.30±0.16a</td><td>16.50±0.20a</td><td>0.90±0.01b</td><td>0.42±0.01a</td></tr><tr><td>半固定沙地</td><td>90.05±0.44a</td><td>1.18±0..12b</td><td>15.90±0.10a</td><td>0.96±0.01a</td><td>0.43±0.01a</td></tr><tr><td rowspan=\"2\">沙蓬</td><td>半固定沙地</td><td>90.46±0.21b</td><td>0.43±0.09a</td><td>11.20±0.10a</td><td>0.97±0.01a</td><td>0.66±0.03a</td></tr><tr><td>流动沙地</td><td>92.92±0.19a</td><td>0.42±0.14a</td><td>11.00±.020a</td><td>0.99±0.01a</td><td>0.67±0.02a</td></tr><tr><td rowspan=\"2\">沙生针茅</td><td>半固定沙地</td><td>90.15±0.31b</td><td>0.86±0.11a</td><td>12.30±0.10a</td><td>0.97±0.01a</td><td>0.62±0.02a</td></tr><tr><td>流动沙地</td><td>92.91±0.25a</td><td>0.69±0.16b</td><td>11.90±0.10a</td><td>0.98±0.01a</td><td>0.63±0.01a</td></tr><tr><td>盐爪爪</td><td>半固定沙地</td><td>90.34±1.02a</td><td>1.13±0.21a</td><td>14.30±0.20a</td><td>0.97±0.01a</td><td>0.50±0.03a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤可蚀性因子与植物群落类型和沙地固定阶段的关联度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对植物群落类型和沙地固定阶段与土壤可蚀性因子进行关联度分析，结果如表3所示，植被类型和沙地固定阶段与可蚀性颗粒含量 $( E P )$ 、土壤结皮因子(SCF)有极显著相关性;与土壤有机质含量(OM）、土壤含水量(SWC）、植被因子 $( C )$ 有显著相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤风蚀可蚀性是一个相对的概念，它具有显著的空间异质性以及时间动态，受地表植被、土壤质地、立地利用类型和人类活动等多因素的影响[23]。在本研究中,沙蓬、沙生针茅、盐爪爪3种草本植物群落的土壤可蚀性颗粒含量 $( E P )$ 显著高于其他沙生灌木植物，与李功胜等和王玉的研究结果相一致[24-25]。可见,从土壤可蚀性颗粒的角度来看，灌木植物对于土壤机械组成的改良效应优于草本植物。研究表明，土壤团聚体显著受植物根系影响[26]，乔灌木根系比草本植物发达，可有效提高有机质含量，使得土壤矿质颗粒可与有机物结合形成团粒结构，松散沙物质颗粒减少，起沙风速增",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3植物群落类型和沙地固定阶段与可蚀性因子关联度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/36bfe6e1dfd0d63ee7c146db2474f676c88f66da6f9738f3c6c5b3bdf9101d9e.jpg",
+        "table_caption": [
+            "表2不同沙地固定阶段土壤可蚀性因子",
+            "Tab.3 Correlation between plant community type and recovery stagewith erodibility factors "
+        ],
+        "table_footnote": [
+            "注：表中\"\\*\"为显著 $( 0 . 0 1 { < } P { < } 0 . 0 5 ) \\$ ；“\\*\\*”为极显著 $( P { < } 0 . 0 1 )$ "
+        ],
+        "table_body": "<html><body><table><tr><td>因子</td><td>植物群落类型</td><td>沙地固定阶段</td></tr><tr><td>可蚀性颗粒含量(EP)</td><td>0.68**</td><td>0.69**</td></tr><tr><td>土壤有机质含量(OM)</td><td>0.54*</td><td>0.49*</td></tr><tr><td>土壤含水量(SU/C)</td><td>0.65*</td><td>0.69*</td></tr><tr><td>土壤结皮(SCF)</td><td>0.68**</td><td>0.65**</td></tr><tr><td>植被因子(C)</td><td>0.53*</td><td>0.66*</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大，土壤风蚀可蚀性降低。本研究中，各灌木树种林下土壤有机质和含水率均显著高于草本植物，进一步验证了乔灌植物土壤改良效应中的优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "吴汪洋等[27对青海湖沙地沙棘林的风蚀效应结果表明，植被通过增加地表粗糙度进而影响风沙流结构，降低风蚀。此外，植物在地表的覆盖还可以隔绝风沙流对地表的直接接触，阻挡土壤受到风力侵蚀，故植被对于土壤风蚀可蚀性影响显著。本研究中，草本植物群落的植被因子 $( C )$ 高于灌木植物群落，原因是灌木植物样地比草本植物样地植被覆盖度高，且灌木平均高度高于草本植物、地表粗糙度更大，故灌木植物群落降低土壤风蚀的效应优于草本植物群落。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "移小勇等[28]对流动沙丘和农田风沙土的抗蚀性研究结果表明，生物土壤结皮具有固结地表可蚀",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "性颗粒的作用，从而限制了沙粒起动，降低了土壤风蚀。生物土壤结皮的形成和发育被证明与土壤有机质、养分含量、含水率等具有正相关关系[29，本研究中，灌木植物群落的土壤有机质、含水率都显著高于草本植物群落，为生物土壤结皮的发育提供了更为有利的环境，故从土壤结皮因子来看，草本植物群落的结皮因子(SCF)高于灌木植物群落，与谭凤翥等[30]针对怪柳灌丛所做风洞实验结果相一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，随着沙地固定，各种植物群落的可蚀性颗粒含量均有所减少，原因是沙地的固定程度越高，植被群落发展越完整，对风沙流尤其是大气降尘的拦挡效果增大，改变了沙面的机械组成，降低了土壤风蚀可蚀性。此外，植被对于土壤的改良效应使得随植被覆盖度增加，土壤有机质含量升高、团聚体增多，松散可蚀性颗粒减少;且沙地不断固定使得土壤水肥条件优化，结皮发育。所以，随着沙地固定，土壤风蚀可蚀性整体降低与王陇等[31对毛乌素沙地风沙土的风蚀研究结果相一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，基于关联分析结果可知，植被类型和恢复阶段与可蚀性颗粒含量 $( E P )$ 、土壤结皮因子(SCF)有极显著相关性；与土壤有机质含量（OM）、土壤含水量(SWC）、植被因子 $( C )$ 有显著相关性。因此，在沙区生态建设工程中，为了降低土壤风蚀可蚀性、减少土壤风蚀量，不仅要考虑物种的选择、还要关注促进人工生态系统的演替和对其恢复阶段的控制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究以乌兰布和沙漠内8种典型植被的3种不同恢复阶段样地为研究区，通过调查和计算各样地内土壤因子、植被因子、土壤结皮因子等指标，得到以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）乌兰布和沙漠典型植被群落中，土壤、植被和结皮3种风蚀可蚀性指标均表明，沙蓬、沙生针茅、盐爪爪等草本群落土壤可蚀性最大，白刺、梭梭、沙冬青等灌木群落可蚀性小于草本群落。总体而言，灌木林对降低土壤风蚀的效应更为显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）乌兰布和沙漠不同沙地固定阶段下，土壤风蚀可蚀性强弱表现为固定沙地<半固定沙地<流动沙地。随着沙地固定、土壤结构不断发育，土壤可蚀性不断降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）植被类型和恢复阶段与可蚀性颗粒含量$( E P )$ 、土壤结皮因子(SCF)有极显著相关性;与土壤有机质含量(OM）、土壤含水量(SWC）、植被因子 $( C )$ 有显著相关性。因此，在沙区生态建设工程中，为了降低土壤风蚀可蚀性、减少土壤风蚀量，不仅要考虑物种的选择，还要关注促进人工生态系统的演替和对其恢复阶段的控制，从而有效降低土壤风蚀可蚀性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究成果可为评价乌兰布和沙区植被生态系统服务功能科学评价、指导防沙治沙工程建设与管理提供技术支撑理论基础和技术参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]刘斌,高永,高志海,等.土壤风蚀新技术应用研究进展[J].内蒙 古林业科技,2017,43(2):52-57.[LIU Bin,GAO Yong,GAO Zhihai,et al.Research progress on new technology of soil wind erosion [JJ.Inner Mongolia Forestry Science and Technology,2O17,43(2): 52-57.]   \n[2]南岭,杜灵通,展秀丽.土壤风蚀可蚀性研究进展[J].土壤, 2014,46(2): 204-211.[NAN Ling,DU Lingtong, ZHAN Xiuli. Advances in study on soil erodibility for wind erosion[J]. Soils,2014, 46(2): 204-211.]   \n[3] CHEPIL W S.Measurement of wind erosiveness of soils by the dry sieving procedure[J]. Scientific Agriculture,1942,23(3):145-160.   \n[4]CHEPIL W S. Properties of soil which influence wind erosion:I The governing principle of surface roughness[J]. Soil Science, 1950, 69: 149-162.   \n[5] CHEPIL W S.Properties of soil which influence wind erosion: I Dryaggregate structure as an index of erodibility[J]. Soil Science, 1950,69: 403-414.   \n[6]董光荣,李长治,金炯,等.关于土壤风蚀风洞实验的某些研究 结果[J].科学通报,1987,32(4): 277-301.[DONG Guangrong,LI Changzhi, JIN Jiong,et al. Some results of wind tunnel experiments on soil erosion[J]. Chinese Science Bulletin,1987,32(4): 277-301.]   \n[7]董治宝,陈渭南,李振山,等.植被对土壤风蚀影响作用的实验 研究[J].土壤侵蚀与水土保持学报,1996,(2):1-8.[DONG Zhibao, CHEN Weinan,LI Zhenshan,et al.The laboratory study on the role of vegetation in soil erosion by wind,Institute of Desert Research, Chinese Academy of Sciences[J].Research of Soil and Water Conservation,1996,(2): 1-8.]   \n[8]GUO Z L, CHANG C,WANG R D,et al. Comparison of diferent methods todetermine wind-erodible fractionof soil with rock fragments under different tillage/management[J]. Soil and Tillage Research,2017,168.   \n[9]陈宇轩,张飞岳,高广磊,等.科尔沁沙地樟子松人工林土壤粒 径分布特征[J].干旱区地理,2020,43(4):1051-1058.[CHEN Yuxuan, ZHANG Feiyue,GAO Guanglei, et al. Soil particle size distribution of Pinus sylvestris var.mongolica plantations in the Horqin Sandy Land[J].Arid Land Geography,2020,43(4): 1051-1058.]   \n[10] 张科利,彭文英,杨红丽.中国土壤可蚀性值及其估算[J].土壤 学报,2007,(1):7-13.[ZHANG Keli,PENG Wenying,YANG Hongli.Soil erodibilityand its estimation for agriculture soil in China[J]. Acta Pedologica sinica,2007,(1): 7-13.]   \n[11] WOODEYFF N P, SIDDOWAYFH.A wind erosion equation[J]. Soil Science Society of America Proceedings,1956,29: 602-608.   \n[12]刘目兴.土壤风蚀可蚀性研究综述及其在风蚀预报中的应用 [C]/ 中国土壤学会.土壤资源持续利用和生态环境安全- 中国土壤学会第十一届二次理事扩大会议暨学术会议论文 集.中国土壤学会:中国土壤学会,2009:164-172.[LIU Muxing.A review of soil wind erodion erodibility and its application in wind erosion perdiction[Cl//Soil Science Society of China.Proceedings of the $1 1 ^ { \\mathrm { t h } }$ Expanded and Academic Conference of the Soil Science Socity of China: Sustainable utilization of soil resources and safety of ecological environment. Nanjing: Soil Science Society of China,2009: 164-172.]   \n[13] 刘芳,郝玉光,徐军,等.乌兰布和沙区风沙运移特征分析[J].干 旱区地理,2014,37(6): 1163-1169.[LIU Fang,HAO Yuguang, XU Jun,et al.Sand flow characteristics in Ulan Buh Desert[J].Arid Land Geography,2014,37(6): 1163-1169.]   \n[14] 于宝勒,吴文俊,赵学军,等.内蒙古京津风沙源治理工程土壤 风蚀控制效益研究[J].干旱区研究,2016,33(6):1278-1286. [YU Baole,WU Wenjun, ZHAO Xuejun,et al. Benefits of soil wind erosion control of the Beijing-Tianjin sand source control project in Iner Mongolia[J].Arid Zone Research,2016,33(6):127-1286.]   \n[15] 李有奇.乌兰布和沙漠治理状况及今后发展对策[J].内蒙古林 业,2007,(11): 25.[LI Youqi. The situation of Ulan Buh Desert management and its future development countermeasures[J]. Journal of Inner Mongolia Forestry,2007,(11): 25.]   \n[16] 贾鹏,王乃昂,程弘毅,等.基于3S技术的乌兰布和沙漠范围和 面积分析[J].干旱区资源与环境,2015,29(12):131-138.[JIA Peng, WANG Naiang, CHENG Hongyi, etal.A study on the range and area of Ulan Buh Desert based on 3S technology[J]. Journal of Arid Land Resources and Environment, 2015,29(12): 131-138.]   \n[17]ZHU G Y,TANG Z S, ZHOU P,et al. Factors affecting the spatial and temporal variations in soil erodibility of China[J].Journal of Geophysical Research. Earth Surface,2019,124(3): 737-749.   \n[18] 邢春燕,郭中领,常春平,等.RWEQ模型在河北坝上地区的适 用性[J].中国沙漠,2018,38(6):1180-1192.[XING Chunyan, GUO Zhongling, CHANG Chunping,et al.Validation of RWEQ model in the bashang area,Hebei, China[J]. Journal of Desert Research,2018,38(6): 1180-1192.]   \n[19] 马月存,陈源泉,隋鹏,等.土壤风蚀影响因子与防治技术[J].生 态学杂志,2006,(11):1390-1394.[MA Yuecun,CHEN Yuanquan, SUI Peng, et al. Research advances in affecting factors and prevention techniques of soil wind erosion[J]. Chinese Journal of Ecology,2006,(11): 1390-1394.]   \n[20] 任宏晶,李生宇,雷加强,等.不同覆盖度沙粒胶结体风蚀抑制 效益研究[J].干旱区地理,2020,43(1):56-63.[RENHongjing, LI Shengyu,LEI Jiaqiang,et al.Field experiment about inhibitory effcts on wind erosion of sand cemented bodies with different coverage[J]. Arid Land Geography,2020,43(1): 56-63.] [21] 李晓原,张文太,李建贵,等.伊犁河谷沟壑区坡面尺度地形、植 被与土壤性质的相互关系[J].新疆农业大学学报,2016,39(6):   \n477-482.[LI Xiaoyuan, ZHANG Wentai,LI Jiangui,et al.Corre lation among terrain,vegetation and soil properties at hillslope scale topography in Ili Valley[J]. Journal of Xinjiang Agricultural University,2016,39(6): 477-482.] [22] 邢恩德,马少薇,郭建英,等.植被盖度对典型草原区地表风沙 流结构及风蚀量影响[J].水土保持研究,2015,22(6):331-334. [XING Ende,MA Shaowei,GUOJianying,etal.Efectof vegetation cover on sandstorm structure and rate of wind erosion in typical steppe[J].Research of Soil and Water Conservation,2O15,22 (6): 331-334.] [23] 宋阳,刘连友,严平,等.土壤可蚀性研究述评[J].干旱区地理,   \n2006,29(1):124-131.[SONG Yang,LIULianyou,YAN Ping,et al.Areviewof soil erodibilityresearchJ].AridLand Geography,   \n2006,29(1): 124-131.] [24] 李胜功,常学礼,赵学勇.沙蓬一流动沙丘先锋植物的研究[J]. 干旱区资源与环境,1992,(4):63-70.[LI Shengong,，CHANG Xueli, ZHAO Xueyong.StudyofAgriophyllum squarroum pioring plant on shifting sand[J]. Journal of Arid Land Resources and Environment,1992,(4): 63-70.] [25] 王珏,宝音陶格涛.荒漠草原沙生针茅群落组成及其地上生物 量研究[J].中国草地学报,2014,36(3):108-111.[WANG Jue, Baoyin Taogetao. Species composition and the aboveground biomass of Stipa glareosa community in desert steppe[J]. Chinese Journal of Grassland,2014,36(3): 108-111.] [26] 马晓静,郭艳菊,张嘉玉,等.宁夏盐池县沙化草地土壤团聚体 分异特征[J].草业学报,2020,29(3):27-37.[MA Xiaojing, GUO Yanju,ZHANG Jiayu, et al. Size distribution of soil aggregates in diffrent grassand desertification in Yanchi County,Ningxia[J]. Acta Prataculturae Sinica,2020,29(3): 27-37] [27] 吴汪洋,张登山,田丽慧,等.青海湖克土沙地沙棘林的防风固 沙机制与效益[J].干旱区地理,2014,37(4):777-785.[WU Wangyang, ZHANG Dengshan,TIAN Lihui, et al. Mechanism and benefit of wind-prevention and sand-fixation of Hippophae rhamnoides forestation in Ketu Sandy Land around Qinghai Lake[J].Arid Land Geography,2014,37(4): 777-785.] [28] 移小勇,赵哈林,赵学勇,等.不同风沙土含水量因子的抗风蚀 性[J].土壤学报,2006,(4): 684-687.[YI Xiaoyong, ZHAO Halin, ZHAO Xueyong,et al.Erodibility of aeolian soils in moisture content [J].Acta Pedologica Sinica, 2006,(4): 684-687.] [29] 吴楠,张元明,潘惠霞,等.古尔班通古特沙漠苔藓结皮中可培 养细菌多样性特征[J].干旱区地理,2014,37(2):250-258.[WU Nan, ZHANG Yuanming,PAN Huixia, et al. Culture-dependent bacteria diversity of moss crusts in the Gurbantunggut Desert[J]. Arid Land Geography,2014,37(2): 250-258.] [30] 谭凤翥,王雪芹,王海峰,等.怪柳灌丛沙堆及丘间地蚀积分布 随背景植被变化的风洞实验[J].干旱区地理,2018,41(1):56-   \n65.[TAN Fengzhu,WANG Xueqin,WANG Haifeng,et al.Wind ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "tunnel simulation on distribution change of erosion and deposition around nebkhas and interdune under different background vegetation coverage[J]. Arid Land Geography,2018,41(1): 56-65.] [31]王陇,高广磊,张英,等.毛乌素沙地风沙土粒径分布特征及其 影响因素[J].干旱区地理,2019,42(5):1003-1010.[WANG Long,GAO Guanglei, ZHANG Ying,etal.Particle size distribution of aeolian soils in the Mu Us SandyLand and the influence factors[J].AridLand Geography,2019,42(5): 1003-1010.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil erosibility of typical plant communities in Ulan Buh Desert ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WANG Jia-ting1,²， YUMing-han1²， YANG Hai-longl²， WUQi-gan $^ { 1 , 2 }$ ，LIU Tai-han $\\mathbf { \\Phi } _ { . } ^ { 1 , 2 }$ (1SchoolofSoil and Water Conservation,BeijingForestry University,Beijing looo83,China; 2Key Laboratory of State Forestry Administration on Soil and Water Conservation, Beijing Forestry University,Beijing 10oo83,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorder to figure outthe effctof vegetation restorationon the winderodibilityofthe soil in Ulan Buh Desert,Inner Mongolia, China,eight typical plant communities (Nitraria tangutorum Bobr.，Ammopiptanthus mongolicus Cheng f., Phragmites communis (Cav.) Trin. ex Steud.，Artemisia ordosica Krasch., Stipa glareosa P. Smirn.,Kalidium foliatum Moq.,Agriophyllum squarrosum (L.)Moq.,Haloxylon ammodendron Bunge.) in Ulan Buh Desert were investigated in this study.The topsoil in each community at diferent sand fixing stages was sampled andthe soil physical factors (erodible particle content,soil watercontent,organic matter content),soil crust factor index,andvegetation factor index were monitoredtoanalyze thediferences ofsoil erodible factorsamong different plant community types and sand fixation stages.Results showed that: (1) In UlanBuh Desert,the erodible particle content in different plant communities was in the range of $8 5 . 2 3 \\% - 9 1 . 6 4 \\%$ , organic matter content was in the range of $0 . 4 2 - 3 . 1 6 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ ， soil water content was $1 1 . 1 0 \\mathrm { - } 1 8 . 3 0 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ ， soil crust factor index was $0 . 8 3 \\mathrm { - } 0 . 9 9$ ，and vegetation factor index was $0 . 2 9 \\mathrm { - } 0 . 6 7$ . (2) The erodible particle content,organic matter content,and soil water content in shrub communities (S.glareosa,K. foliatum,A.squarrosum） were higher than that in herbaceous communities (N.tangutorum,A.mongolicus,H.ammodendron). Itcan beconcluded that wind erosion erodibilityof shrub communities is weaker than that of herbaceous communities,indicating a stronger ability in reducing soil wind erosion in shrub community.Vegetation type significantlyafects the topsoil erodibility through the way of improving topsoil granulometric composition and organic matter content. $P$ . communis had a significantly higher soil water content that other herbaceous communities since its living condition was always in alow-lying area. (3) The erodible particlecontentof topsoil shows a decreased tendencyin the orderofflowing sandyland,semi-fixed sandy land,and fixed sandy land.Meanwhile,organic mattercontent and soil crust factor of topsoil shows an increased tendencyin theorderofflowing sandyland,semi-fixedsandyland,andfixed sandyland.No significantdierence is observed with the soil water content and vegetation factor among the sand fixation stages.Sand fixation had a significant efecton the topsoil erodibility through the wayof improving topsoil granulometriccomposition and organic mater content,and enhancing biocrusts growth.(4) Soil erodible particles,soil organic mater content,soil water content,soilcrust factor index,and vegetation factor index had significant correlations with vegetation types and sand fixation stages.Therefore,to reduce soil wind erosion,both plant species selection and community succession promotion should be considered in ecological construction in the sandy area.This research provided supports for evaluating the ecological function of vegetation ecosystem andguiding the construction sandy desertification combating projects in Ulan Buh Desert. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:Ulan Buh Desert; community type; soil wind erosion; soil erodibility ",
+        "page_idx": 7
+    }
+]

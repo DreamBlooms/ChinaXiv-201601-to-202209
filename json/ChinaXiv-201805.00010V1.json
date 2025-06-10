@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "鼎湖山南亚热带常绿阔叶林荷木种群动态变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈 青’²，李萌姣』²，李 瑶，沈 浩1\\*（1.中国科学院退化生态系统植被恢复与管理重点实验室，中国科学院华南植物园，广州510650；2.中国科学院大学，北京100049；3.华南农业大学，广州510642）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：荷木（Schima superba）是鼎湖山南亚热带常绿阔叶林群落中的优势种，其种群动态变化对于理解南亚热带常绿阔叶林的群落构建机制具有重要意义。本文分析了鼎湖山南亚热带常绿阔叶林 $2 0 \\mathrm { { h a } }$ 样地中荷木种群在2005\\~2017年间的动态变化，并从径级和生境两个方面分析了其死亡率的分布特征。结果表明，荷木种群个体数量从2005\\~2017年呈减少的态势。在径级方面，荷木的死亡率和相对生长率的变化在不同径级区间呈不同变化规律：径级在 $1 { \\sim } 1 0 ~ \\mathrm { c m }$ 范围的荷木相对生长率大并迅速下降，死亡率上升且维持在较高水平；径级在 $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 范围的荷木随着径级增大，相对生长率减缓，然后下降，而死亡率不断下降;在 $5 0 \\mathrm { c m }$ 以上的径级范围内，荷木相对生长率小、死亡率大。不同生境中，2010年各个生境死亡率相差不大，2015年高海拔生境（高坡、山脊、高谷）死亡率大于低海拔生境（低坡、低谷），2017年则为低海拔生境大于高海拔。荷木的死亡率与土壤中酸碱度呈正相关关系，而与土壤有机质、总氮、总磷、有效钾、有效氮含量呈负相关关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：径级，死亡率，相对生长率，种群生态，生境中图分类号：Q945.79；Q948.9文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Population dynamics of Schima superba in a lower subtropical evergreen broad-leaved forest ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Qing1², LI Mengjiao1,², LI Yao², SHEN Haol (1 Key Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden, Chinese Academy of Sciences, Guangdong Province Guangzhou 510650, China; 2 University of Chinese Academy of Sciences, Beijing 100049, China; 3 South China Agricultural University, Guangdong Province Guangzhou 510642, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Schima superba is a dominant species in the lower subtropical evergreen broad-leaved forest community at Dinghu Mountain. Its population dynamics is very important for understanding the construction and development of the forest community. We have established a 2O ha forest biodiversity monitoring plot at Dinghushan National Nature Reserve. The plot is characterized as a lower subtropical evergreen broad-leaved forest. The data presented in this paper are based on four field investigations of all S. superba individuals in 2005,2010,2015 and 2017 following the protocol issued by CTFS (The Center for Tropical Forest Science).We measured the height, diameter at breast height (DBH) of all individuals with $\\mathrm { \\Delta D B H { \\geq } 1 }$ cm within the plot.Live or dead status of S. superba was recorded.We further categorized all measured individuals into different groups according to diameter class and habitat type (slope, altitude and convexity). The number of S. superba individuals has been largely reduced from 20o5 to 2017. Mortality rate and growth rate of S. superba showed diffrent patterns depending on diameter class.The relative growth rate of the individuals of $1 { \\sim } 1 0 \\ \\mathrm { c m }$ DBH was high and rapidly decreased,while the mortality rate increased and maintained at a high level. With the increase of DBH class,the relative growth rate of the individuals of $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ DBH rose and decelerated,and then decreased, while the mortality rate decreased. The mortality rate of those individuals above $5 0 ~ \\mathrm { c m }$ DBH was large while the growth rate was small. The mortality rate of the individuals in each habitat in 2O1O was not apparently diferent. However, in 2O15,the mortality rate of individuals in high-altitude habitats (high slopes, ridges,and valleys) was greater than those in low-altitude habitats (low slopes and valleys), while those in low-altitude habitats in 2Ol7 were higher than those in the high-altitude habitats. The mortality rate was significantly positively correlated with soil $\\mathfrak { p H }$ and negatively correlated with soil organic matter, available potassium, total phosphorus,total nitrogen,and available nitrogen content. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: diameter class, mortality rate, growth rate, population ecology, habitat ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "种群动态变化是指种群的大小在一定的时间和空间上的分布格局和变化规律，它一直是种群生态学研究非常重要的一个部分（Andrzejczyk&Brzeziecki，1995）。其研究主要通过编制种群生命表（李清河等，2009）、存活曲线、谱分析法（伍业钢和韩进轩，1988）、动态模型法（Tilman etal，1994;Rhodes et al，1996）等方法。生命表可以表示死亡率、存活率等重要信息；存活曲线直观且常见。谱分析法一直作为昆虫种群动态变化的研究方法。伍业钢和韩进轩（1988）首次将其用于森林种群动态变化研究中。针对种群的空间分布格局，Tilman et al（1997）在Levins 模型（Levins，1969）的基础上，提出了Tilman 多物种集合模型。Rhodes etal（1996）将其分为空间隐含模型和空间显含模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "树木的死亡是森林群落中的一种普遍现象（Rice etal，2004）。树木的死亡会使群落物种组成和群落格局等发生变化，进而影响演替进程（Mencuccinietal，2005）。树木死亡也会造成环境因子的变化：如林窗增加、土壤成分改变、森林区域气候的变化等（Das etal，2007）。死亡树木的凋落物会参与到生态系统的循环中，是森林元素循环的重要环节，也是调节森林生态系统结构和动态的重要机制（McCoy&Gillooly，2008；Lewis etal，2004）。树木的死亡一般是由多因素相互作用和相互制约而形成的（Marbaetal，2007），长期因素如个体竞争、病虫害、气候变化、土壤水分条件变化、突发干扰等，突发因素如突发性的火灾、虫灾、天气干扰等（Brandt，2013）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "南亚热带常绿阔叶林是一种典型的热带向亚热带过渡的植被类型（彭少麟，1998）。鼎湖山南亚热带常绿阔叶林 20 ha样地（简称“鼎湖山大样地”）是中国森林生物多样性监测网络的核心样地之一（叶万辉等，2008）。因为当地人文环境的影响，鼎湖山很好地保存了400 多年南亚热带常绿阔叶林地带性森林群落的结构特征。针对鼎湖山大样地群落构建机制，已从群落（王志高等，2008；林国俊等，2010；叶万辉等，2008；Lietal，2009；Wang et al，2009）、种群遗传（Wang etal，2012）、进化（Pei etal，2011）等方面进行了研究。魏识广等（2008）对鼎湖山大样地的格木种群动态进行了分析，结果显示该群落中的格木正处于加速增长状态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "荷木（Schima superba）隶属于山茶科（Theaceae）木荷属，大乔木，叶革质，椭圆形，在两面明显，边缘有钝齿；叶柄长 $1 { \\sim } 2 \\mathrm { c m }$ 。花白色，生于枝顶叶腋，常多朵排成总状花序，花柄长，苞片早落；萼片半圆形，长 $2 \\sim 3 ~ \\mathrm { m m }$ ；花瓣长 $1 { \\sim } 1 . 5 ~ \\mathrm { c m }$ 。蒴果直径 $1 . 5 \\sim 2$ cm。花期6—8月（张宏达和任善湘，1998）。荷木是鼎湖山大样地中极为重要的建群种和优势种（叶万辉等，2008），对鼎湖山森林群落的构建和其它物种的空间分布都有重要作用，故而其在鼎湖山大样地的分布和动态变化在南亚热带的森林群落构建中十分具有代表性。因此，对鼎湖山南亚热带常绿阔叶林荷木种群的死亡、分布、数量变化的研究，对于探究该群落的构建机制有十分重要的意义。据此，本文以鼎湖山大样地的荷木种群为对象，研究其从 $2 0 0 5 { \\sim } 2 0 1 7$ 年期间的种群动态变化并探究可能的原因。研究结果不仅有利于探讨鼎湖山南亚热带常绿阔叶林的群落构建机制，而且对于该地带的森林生态系统保护和恢复有重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区自然概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鼎湖山国家级自然保护区（ $1 1 2 ^ { \\circ } 3 0 ^ { \\prime } 3 9 ^ { \\prime \\prime } .$ 一 $1 1 2 ^ { \\circ } 3 3 ^ { \\prime } 4 1 ^ { \\prime \\prime } \\mathrm { E }$ ， $2 3 ^ { \\circ } 0 9 ^ { \\prime } 2 1 \"$ 一 ${ } - 2 3 ^ { \\circ } 1 1 ^ { \\prime } 3 0 ^ { \\prime \\prime } \\mathrm { N }$ ）地处广东省肇庆市东北部。该地区位于亚热带季风气候区南端，接近热带（吴厚水，1982）。其年平均气温为 $2 0 . 9 ~ \\mathrm { ^ { \\circ } C }$ ，雨季月降水量均超过 $2 0 0 \\mathrm { m m }$ ，旱季月降水量不到 $1 0 0 \\mathrm { m m }$ ，土壤类型为赤红壤、黄壤和山地灌丛草甸土（叶万辉等，2008）。彭少麟等（1998）将鼎湖山森林群落的演替划分为六个阶段：（1）针叶林；（2）以针叶树种为主的针阔混交林；（3）以阳生阔叶树种为主的针阔混交林；（4）以阳生植物为主的常绿阔叶林；（5）以中生植物为主的常绿阔叶林；（6）中生群落。本研究中的南亚热带常绿阔叶林群落处于鼎湖山森林群落演替的第五阶段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2研究样地概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1大样地的设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鼎湖山南亚热带常绿阔叶林 $2 0 \\mathrm { { h a } }$ 监测样地于 2005 年根据CTFS（Centre for TropicalScience）样地建设标准（Condit，1998）在鼎湖山国家级自然保护区的核心地区建立。鼎湖山大样地是我国第一批森林生物多样性固定监测样地之一（叶万辉等，2008）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2大样地五种生境的划分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究中将鼎湖山大样地划分为五种生境类型，参考因素有海拔（H）、坡度（S）的中值、和凹凸度（C）（练琚愉等，2015）。具体如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高坡 （higher slope，HS）： $\\mathrm { s } >$ median（S），≥median（H）， $\\mathrm { { C } } { > } 0$ 高谷 （higher gully，HG）： $\\mathrm { s } >$ median（S），H≥median（H）， $\\mathrm { C } { < } 0$ 山脊 （mountain ridge，MR）：S≤median（S），H≥median（H)低坡 （lower slope，LS）： $\\mathrm { H } <$ median（H）， $\\mathrm { { C } } { > } 0$ 低谷 （lower gully，LG）： $\\mathrm { H } <$ median（H）， $\\mathrm { C } { < } 0$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 野外调查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2005 年鼎湖山大样地建立之后完成了首次调查，随后分别于2010年、2015年进行了两次复查。野外调查中，标记样地内胸径（DBH） $\\geqslant 1 \\ \\mathrm { c m }$ 的全部植物个体，记录其编号、胸径、坐标、生长情况等信息。本研究中荷木的全部个体信息均提取自这三次调查的数据库。另外，为了记录荷木种群的现况，2017年对鼎湖山大样地中所有胸径（DBH） $\\geqslant 1$ cm的荷木个体进行了补充调查，同样记录上述信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有数据用Excel13.0和SPSS21.0进行统计与分析，其中计算的指标包括：死亡率（Mortality rate） $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （本次存活个体数-上次存活个体数）／（上次存活个体数 $\\ : \\cdot \\times \\ :$ 年数）；相对生长率（Relative growth rate，RGR） $= [ 1 \\mathrm { g }$ （本次胸径）-lg（上次胸径）]/[g",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（上次胸径） $\\times$ 年数]；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "死亡率的变异系数（Coefficientofvariation， $C V ) =$ (标准差/平均值) $\\ast 1 0 0 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 Pearson 相关分析法检验荷木死亡率与土壤因子（酸碱度、有机质、有效钾、总磷、总氮和有效氮）的相关性，当 $P { < } 0 . 0 5$ 时表示有显著相关性；当 $P { < } 0 . 0 1$ 的时候，表示有极显著相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.结果与分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1鼎湖山大样地荷木种群的整体动态 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2005、2010和2015年三次调查中，鼎湖山大样地的荷木种群个体径级结构（图1）均为正态分布，即荷木的个体大部分位于中径级阶段，而小径级与大径级的个体数则相对较少，即中径级个体储备型（叶万辉等，2008）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 DBH(diameter at breast height) class distributions in 5 cm intervals of Schima superba at Dinghushan plot from 2005 to 2017 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2005 年鼎湖山大样地的荷木有2287株个体，随后于2010年略微减少到2199株，但2015年迅速下降到745株，死亡率显著增加。2015—2017年期间荷木死亡率有所下降，但其个体数量依然在减少。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/14c3bd15ea5b895eadf2b149b6b4b9c38860b5c9127de3a231dc40fe0e78cb31.jpg",
+        "img_caption": [
+            "图12005—2017年鼎湖山大样地荷木种群径级分布",
+            "图22005年一2017年鼎湖山大样地荷木种群动态变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Population dynamics of Schima superba at Dinghushan plot from 20o5 to 2017 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同径级的荷木个体数量的动态变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按照径级分段并计算死亡率，可以看出鼎湖山大样地荷木的各径级的个体死亡率总体呈U型（图3），即小径级（ $0 { \\sim } 2 5 ~ \\mathrm { c m }$ ）和大径级（ $: 5 0 { \\sim } 8 5 ~ \\mathrm { c m }$ ）的死亡率较大，均超过0.5，而中等径级（ $2 5 { \\sim } 5 0 ~ \\mathrm { c m }$ ）个体的死亡率较小，均小于0.5。其中， $5 5 { \\sim } 8 5 ~ \\mathrm { c m }$ 径级中的大径级个体在2010年存活数量较少，在2015年全部死亡，故死亡率达到1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3各径级（2010年调查数据）荷木的死亡率（2015年调查数据）比较Fig.3 Comparison of mortality rates (2015) for different DBH class (2010) in Schima superba",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对鼎湖山大样地历年荷木个体胸径计算变异系数 $C V { = } S D$ /mean（图4），发现呈逐渐下降趋势，特别是在2010年到2015年迅速下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Coefficient of variation inDBHof Schima superba ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同生境中荷木个体数量的动态变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，2010年各个生境死亡率相差不大，2015年开始出现差异，高海拔生境（高坡、山脊、高谷）死亡率大于低海拔（低坡、低谷），2017年低海拔生境大于高海拔。这是因为高海拔的荷木先受到虫害的影响，竞争力较弱的树已经死亡，环境筛选中剩下的荷木存活能力强，由此造成2017年统计的时候，其死亡率较低海拔的小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5 Comparison of mortality rate of Schima superba at different habitats over years ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4荷木种群动态变化原因的初步探究 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1荷木个体死亡率和相对生长率的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对荷木死亡率和相对生长率按照径级分组并作折线图，结果如图6所示：（1）径级在$1 { \\sim } 1 0 ~ \\mathrm { c m }$ 范围的荷木个体相对生长率逐渐下降至最低点，死亡率上升达到第一个峰值;（2）径级在 $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 范围的荷木相对生长率减速上升至峰值后开始下降，而死亡率不断降低；（3）在 $5 0 \\mathrm { c m }$ 以上的径级范围内，荷木个体的相对生长率小，而死亡率大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图62010年各径级荷木在2015年死亡率和相对生长率比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6 Comparison of mortality rates and relative growth rates in 2015 of Schima superba among various DBH class in 2010 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.2荷木个体死亡率和土壤因子的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对荷木死亡率和环境因子做Pearson相关分析，结果见表1。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fda11e191e14f493af1a78c700a30f5addc9cfb518d3a52349cdfef75038902.jpg",
+        "table_caption": [
+            "表1荷木死亡率和土壤因子之间的相关性 Table 1 Correlation analysis between mortality rate of Schima superba and soil factors "
+        ],
+        "table_footnote": [
+            "注：\\*\\*在0.01水平（双侧）上极显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>酸碱度</td><td>有机质 Total</td><td>ractois 有效钾</td><td>总磷</td><td>总氮</td><td>有效氮</td></tr><tr><td>死亡率</td><td>pH</td><td>organic matter</td><td>Available K</td><td>Total P</td><td>Total N</td><td>Available N</td></tr><tr><td>Mortalit y rate</td><td>0.157**</td><td>-0.146**</td><td>-0.134**</td><td>-0.160**</td><td>-0.158**</td><td>-0.190**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note:Asterisk $( ^ { * * } )$ indicates that there are significant correlation at $P < 0 . 0 1$ level between mortality rate and each environment variable. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，荷木个体的死亡率和土壤中酸碱度为正相关关系，而和土壤有机质、总氮、总磷、有效钾、有效氮含量呈负相关。说明荷木适宜在酸性土壤中生存，同时土壤中的有机质、有效钾、总磷、总氮、有效氮含量越高，越有利于荷木的存活。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1鼎湖山大样地荷木种群的整体动态变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在森林群落中，乔木优势种和建群种能够很好地反映出其演替状况，这是因为优势种和建群种的动态变化能够决定其群落的构建和特征（Ni，2001）。张宏达等（1955）指出，由于荷木是阳性树种，不耐阴，只能作为先锋树种向林缘发展，而不能在鼎湖山森林群落中发展下去，说明该群落发展处于不平衡状态，即荷木已达到成熟的阶段，并开始走下坡路。这与其幼苗的更新能力较差有关。彭少麟和方炜（1995）提出了鼎湖山常绿阔叶林的演替趋势为黄果厚壳桂-锥栗-厚壳桂-荷木群落向黄果厚壳桂-厚壳桂群落方向进行。本研究进一步发现，在2005—2017年之间，鼎湖山大样地荷木的个体数量持续降低，特别是2015 年统计的下降速度最快，死亡率最高。其重要值由 2005年的第二位（叶万辉等，2008）降为2017年的第8位，这些均证实了张宏达等（1955）及彭少麟和方炜（1995）的推论。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2不同径级的荷木个体数量动态变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "树木的径级和年龄呈正相关关系，因此在野外调查和研究中，出于条件的限制和成本的考虑，常常会使用径级代表年龄森林群落的树木个体年龄。而不同径级的树木死亡率往往并不均衡。刘万德等（2010）对海南霸王岭林区的热带雨林的研究表明，树木死亡主要集中于胸径小于 $3 0 \\mathrm { c m }$ 的树木。梁军等（2011）对昆崙山天然林13年演替动态的研究表明，死亡树木中，胸径小于 $1 0 \\mathrm { c m }$ 的幼树所占比例较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文研究结果表明，鼎湖山大样地荷木中径级小于 $2 5 \\mathrm { c m }$ 的幼树和大于 $5 0 \\ \\mathrm { c m }$ 的老树死亡率较高。径级大于 $5 5 \\mathrm { c m }$ 时，死亡率为 $100 \\%$ 。这符合Nepstad etal（2007）在亚马逊森林的研究结果：大树的死亡率高于小树的死亡率。大树因为繁殖消耗和自然衰老使得大树更易受到自然灾害的影响（Mueller etal，2005）。但是同时，根据梁军（2011）的研究，在虫灾的干扰下，幼树的死亡情况会更严重。在 2010—2015年期间，鼎湖山大样地森林受到虫灾干扰。因此在本文的研究结果中，幼树和老树死亡率高，而青壮年树木得以在干扰中存活，使得荷木种群的变异系数逐年变小，胸径离散度缩小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3不同生境中荷木个体数量的动态变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在生境异质性强的森林群落中，种群的分布格局和生存状态往往与其所处的生境密切相关。不同的生境下植物群落会呈现不同的群落特征（王立龙等，2015）。生境因子会导致群落树木死亡率的变化和功能群结构的变化（刘万德等，2010；周光霞等，2016）从而改变群落结构和物种生存状态。本研究结果表明，尽管 2010年各个生境中荷木的个体死亡率相差不大，但是到2010年荷木死亡率急剧增高，而且高海拔生境（山脊、高坡、高谷）的死亡率明显大于低海拔生境（低坡、低谷），这可能与 2005—2015年期间鼎湖山地区爆发的虫灾有关。鼎湖山大样地高海拔生境的林窗平均面积和林窗空隙率均大于低海拔生境（隋丹丹等，2017），而已有研究（王宏伟和蔡永立，2009）表明林窗生境的荷木遭受虫食损失率更大，这可能是导致本研究中高海拔生境荷木在遭受虫灾后死亡率更大的原因。而在 2017年，低海拔生境的荷木个体死亡率大于高海拔生境，这一方面与计算死亡率的基数有关，因为2010年高海拔生境幸存下来的荷木个体显著减少；另一方面低海拔生境的虫灾影响相比高海拔生境相对滞后于低海拔生境；最后还可能与荷木的阳性特征（不耐阴)密切相关（张宏达等，1955）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4荷木种群数量变化原因的初步探究 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如前文所示，鼎湖山大样地荷木种群数量在2005 年到2017年之间发生了巨大变化。树木的死亡一般是一个由量变到质变的过程（Franklin etal，1987）。导致荷木死亡的原因有生物因子和非生物因子。在鼎湖山大样地的荷木种群中，主要生物影响因素有植食者、种间和种内竞争等，以及非生物因素包括地形和土壤因子。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在本文的研究结果中，径级在 $1 { \\sim } 1 0 ~ \\mathrm { c m }$ 范围的荷木相对生长率大，死亡率大。这是因为幼年荷木细胞活性强，相对生长率大，而不如成年树木稳定（吴可等，2010）。而径级在$5 { \\sim } 1 0 ~ \\mathrm { c m }$ 范围的荷木相对生长率不断下降，而死亡率不断上升，可能是由于这个年龄的荷木对虫灾等环境干扰比较敏感。径级 $1 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 的荷木相对生长率减速上升至峰值后开始下降，而死亡率不断降低。这是因为青壮年荷木对干扰的抵抗能力最强，幸存荷木个体的生长性能得到恢复。而老年荷木，即 $5 0 \\mathrm { c m }$ 以上的径级范围的荷木数量少、死亡率大，相对生长率小。随着年龄增加，树木的功能器官逐渐衰老，相对生长率变小，不仅对外界干扰的抵抗力差，而且也会随着自然衰老而死亡。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同时，鼎湖山大样地的荷木受到环境中土壤因子的影响很大。荷木的死亡率与土壤中酸碱度呈正相关，和土壤有机质、总氮、总磷、有效钾、有效氮含量呈负相关。这与安树青等（1997）对南京紫金山森林群落植物的研究结果类似。安树青等（1997）研究发现土壤酸碱度、厚度、含水量、有效氮和速效磷对北亚热带森林群落有着重要影响。而地处珠江三角洲边缘的鼎湖山自然保护区降水中氮沉降量也由20世纪80年代的 $3 6 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ （黄忠良等，1998）上升到了90年代的 $3 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ （周国逸和闫俊华，2001），这一沉降量与欧洲和北美的一些高氮沉降区的氮沉降量相当。而氮沉降可能会加剧亚热带森林土壤酸化（Luetal，2014）。因此荷木死亡的可能原因是受到鼎湖山土壤环境的干扰，这些土壤因子会影响土壤中微生物的群落结构以及荷木根部的根际环境（刘菊秀等，2003），从而间接影响荷木对水分和养分的吸收，影响荷木的生长能力和防御能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在当前气候环境下，对于鼎湖山大样地荷木种群十三年来的动态变化和影响因子的研究可以让我们能够更好地理解南亚热带森林的群落构建和演替过程，对于预测种群发展，提高森林对外界干扰的抵抗能力有十分重要的价值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4．少丐乂八 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AN SQ, WANG ZF, ZHU XL, et al, 1997. Effects of soil factors on speciesdiversity in secondary forest communities[J].JWuhan Bot Res 15(2):143-150.[安树青,王峥峰,朱学雷,等,1997. 土壤因子对次生森林群落物种多样性的影响[J].武汉植物学研究,15(2):143-150.]   \nANDRZEJCZYK T, BRZEZIECKI B,1995.The structure and dynamics of old-growth Pinus sylvestris (L.) stands in the Wigry National Park, north-eastern Poland[J]. Vegetatio,117(1):81-94.   \nBRANDT AJ, KROON H, REYNOLDS HL, et al, 2013. Soil heterogeneity generated by plantsoil feedbacks has implications for species recruitment and coexistence[J].JEcol,101(2): 277- 286.   \nCONDIT R,1998. Tropical forest census plots: methods and results from Barro Colorado Island, Panama and a comparison with other plots[M]. Berlin: Springer: 23-55.   \nDAS AJ, BATTLES JJ, STEPHENSON NL, et al,2007. The relationship between tree growth patterns and likelihood of mortality: a study of two tree species in the Sierra Nevada[J]. Can J For Res, 37(3): 580-597.   \nFRANKLIN JF, SHUGART HH, HARMON ME,1987. Tree Death as an Ecological Process[J]. Bioscience, 37(8): 550-556.   \nGU YY, ZHANG SQ,LI XY, et al, 2013. Relationship between diameter at breast height and age of endangered species Populus euphratica Oliv[J]. JTarim Univ,25(2): 66-69.[顾亚亚,张世 卿,李先勇,等,2013.濒危物种胡杨胸径与树龄关系研究[J].塔里木大学学报,25(2):66- 69.]   \nHUANG ZL, KONG GH, WEI P, 1998. Plant species diversity dynamics in Dinghu Mountain forests[J].Chin Biodivers,6(2):116-121.[黄忠良,孔国辉,魏平,1998.鼎湖山植物物种多样 性动态[J].生物多样性,6(2):116-121.]   \nLEVINS R. Some demographic and genetic consequences of environmental heterogeneity for biological control[J]. Entomol Soc Amer Bull, 1969,15(3):237-240.   \nLEWIS SL,PHILLIPS OL, SHEIL D,et al, 2004. Tropical forest tree mortality, recruitment and turnover rates: calculation, interpretation and comparison when census intervals vary[J]. J Ecol, 92(6): 929-944.   \nLI L,HUANG ZL,YE WH, et al, 2009. Spatial distributions of tree species in a subtropical forest of China[J]. Oikos, 118(4): 495-502.   \nLI QH,GAO TT,LIUJF, et al,2009.The age structure and life table of rare eremophyte Helianthemum ordosicum population[J].Bull Bot Res,29(2): 176-181.[李清河,高婷婷,刘建 锋,等,2009.荒漠珍稀灌木半日花种群的年龄结构与生命表分析[J].植物研究,29(2):176- 181.]   \nLIAN JY, HUANG ZL, CAO HL, et al, 2015. Community composition and stand age in a subtropical forest,southem China[J].Biodivers Sci,23(2):174-182.[练琚愉,黄忠良,曹洪麟, 等,2015.鼎湖山南亚热带常绿阔叶林不同成熟度群落特征的比较[J].生物多样性, 23(2):174-182.]   \nLIANG J, SUN ZQ, ZHU YP, et al,2011. 13-years successon dynamic of Kunyushan natural forest[J].JCent S Univ of For& Technol,31(1): 9-17.[梁军,孙志强,朱彦鹏,等.昆崙山天然 林 13 年演替动态[J].中南林业科技大学学报,31(1):9-17.]   \nLIN JG,HUANG ZL,ZHU L, et al, 2010. Beta diversity of forest community on Dinghusha[J]. Acta Ecol Sin,30(18):4875-4880.[林国俊,黄忠良,竺琳,等,2010.鼎湖山森林群落β多样 性[J].生态学报,30(18): 4875-4880.]   \nLIU JX, ZHOU GY, ZHANG DQ, 2003. The cumulative effects of acid rain on the soil and responses of Schima superba at Dinghushan[J]. Chin Environ Sci, 23(1): 90-94.[刘菊秀,周国 逸,张德强,2003.酸雨对鼎湖山土壤的累积效应及荷木的反应[J].中国环境科学,23(1): 90-94.]   \nLIU WD, ZANG RG, DING Y,et al, 2010. Mortality of woody plants in tropical monsoon rainforests of Bawangling National Nature Reserve on Hainan Island, South China[J]. Chin J Plant Ecol,34(8):62-72.[刘万德,臧润国,丁易,等,2010.海南岛霸王岭热带季雨林树木的 死亡率[J].植物生态学报,34(8): 62-72.]   \nLU XK, MAO QG, GILLIAM FS, et al, 2014. Nitrogen deposition contributes to soil acidification in tropical ecosystems[J]. Glob Change Biol,20(12): 3790-3801.   \nMARBA N, DUARTE CM, AGUSTI S, 2007. Allometric scaling of plant life history[J]. Proc National Acad USA, 104(40): 15777-15780.   \nMCCOY MW, GILLOOLY JF, 2008. Predicting natural mortality rates of plants and animals[J]. Ecol Lett, 11(7): 710-716.   \nMENCUCCINI M, MARTINEZ-VILALTA J, VANDERKLEIN D, et al, 2005. Size-mediated ageing reduces vigour in trees[J]. Ecol Lett, 8(11): 1183-1190.   \nMUELLER RC, SCUDDER CM,PORTER M, 2005, et al. Differential tree mortality in response to severe drought: evidence for long - term vegetation shifts[J]. JEcol, 93(6): 1085- 1093.   \nNEPSTAD DC, TOHVER IM, RAY D, et al, 2007. Mortality of large trees and lianas following experimental drought in an Amazon forest[J]. Ecology, 88(9): 2259-2269.   \nNI J, 2001. Plant functional types and biomes of China at a regional scale[J]. Acta Bot Sin, 43(4):419-425.[倪健,2001.区域尺度的中国植物功能型与生物群区[J].植物学报,43(4): 419-425.]   \nPEI NC,LIAN JY, ERICKSON DL, et al, 2011. Exploring tree-habitat associations in a Chinese subtropical forest plot using a molecular phylogeny generated from DNA barcode loci[J]. PLoS ONE, 6(6): e21273.   \nPENG SL, FANG W,1995. Studies on dynamics of Castanopsis chinensis and Schima superba population in forest succession of Dinghushan mountain[J]. Acta Phytoecol Sin,19(4): 311-318. [彭少麟,方炜,1995.鼎湖山植被演替过程中椎栗和荷木种群的动态[J].植物生态学 报,19(4): 311-318.]   \nPENG SL, FANG W, REN H, et al, 1998. The dynamics on organ ization in the successional process of Dinghushan cryptocarya community[J]. Acta Phytoecol Sin, 22(3): 245-249.[彭少麟, 方炜,任海,等,1998.鼎湖山厚壳桂群落演替过程的组成和结构动态[J].植物生态学报, 22(3): 245-249.]   \nRHODES OE, CHESSER RK, SMITH MH,1996. Population dynamics in ecological space and time[M]. University of Chicago Press: 122-123.   \nRICE KJ, MATZNER SL,BYER W, et al, 2004. Patterns of tree dieback in Queensland, Australia: the importance of drought stress and the role of resistance to cavitation[J]. Oecologia, 139(2): 190-198.   \nSUI DD, WANG Y, LIAN JY, et al, 2017. Gap distribution patterns in the south subtropical evergreen broad-leavedforest of Dinghushan[J]. Biodivers Sci, 2017,25(4): 382-392.[隋丹丹, 王悦,练琚愉,等,2017.鼎湖山南亚热带常绿阔叶林林窗分布格局及其成因[J].生物多样 性,25(4): 382-392.]   \nTILMAN D, LEHMAN CL, YIN C,1997. Habitat destruction, dispersal, and deterministic extinction in competitive communities[J]. Am Nat, 149(3): 407-435.   \nTILMAN D, MAY RM, LEHMAN CL,1994. Habitat destruction and the extinction debt[J]. Nature, 371:65-66.   \nWANG HW, CAI YL, 2009. Spatial variations in insect herbivory leaves in subtropical evergreen broad leaved Forest[J]. J Shanghai Inst Technol,9(2):110-114.[王宏伟,蔡永立, 2009.昆虫取食常绿阔叶林木荷叶片的空间变化[J].上海应用技术学院学报(自然科学版), 9(2): 110-114.]   \nWANG LL, WANG L, ZHANG LF, et al, 2015. Structure and dynamic characteristics of Gymnocarpos przewalski in different habitats[J]. Chin JPlant Ecol, 39(10): 980-989.[王立龙, 王亮,张丽芳,等,2015.不同生境下濒危植物裸果木种群结构及动态特征[J].植物生态学 报,39(10): 980-989.]   \nWANG ZF, LIAN JY, HUANG GM, et al, 2012. Genetic groups in the common plant species Castanopsis chinensis and their associations with topographic habitats[J]. Oikos,121(12): 2044-2051.   \nWANG ZG, YE WH, CAO HL, et al, 2008. Spatial distribution of species diversity indices in a monsoon evergreen broadleaved forest at Dinghushan Mountain[J]. Biodivers Sci,16(5):454- 461.[王志高,叶万辉,曹洪麟,等,2008.鼎湖山季风常绿阔叶林物种多样性指数空间分布 特征[J].生物多样性,16(5): 454-461.]   \nWANG ZG, YE WH, CAO HL, et al, 2009. Species-topography association in a species-rich subtropical forest of China[J]. Basic Appl Ecol, 10(7): 648-655.   \nWEI SG,LIL,LIU HG, et al,2008. Analyses of the dynamic state of Erythrophleum fordii population[J].Ecol Environ,2008,17(1):285-289.[魏识广,李林,刘海岗,等.鼎湖山格木种群 动态分析[J].生态环境学报,2008,17(1):285-289.]   \nWU HS,1982. Dinghu mountain nature reserve in hydrothermal condition and its relationship with ecological environment[J]. Trop Geogr,2(4):14-20.[吴厚水,1982.鼎湖山 自然保护区水 热状况及其与生态环境的关系[J].热带地理,2(4):14-20.]   \nWU K,YIN MF, ZHOU YB, et al, 2010. Current Annual Growth Rate of Forest Volume in Baishilazi National Nature Reserve[J].JNWFor Univers,25(6):203-206.[吴可,殷鸣放,周永 斌,等.白石碰子国家级自然保护区森林蓄积连年生长率的研究[J].西北林学院学报,25(6): 203-206.]   \nWU YG, HAN JX,1988. A spectral analysis of the population dynamics of korean pine in the mixed broad-leaved Pinus koraiensis forest[J]. Chin JEcol,(1): 19-23.[伍业钢,韩进轩,1988. 阔叶红松林红松种群动态的谱分析[J].生态学杂志,(1):19-23.]   \nYE WH, CAO HL, HUANG ZL, et al, 2008. Community structure of a $2 0 \\mathrm { h m } ^ { 2 }$ lower subtropical evergreen broadleaved forest plot in Dinghushan, China[J]. JPlant Ecol (Chin Version), 32(2): 274-286.[叶万辉,曹洪麟,黄忠良,等,2008.鼎湖山南亚热带常绿阔叶林20 公顷样地群落 特征研究[J].植物生态学报,32(2):274-286.]   \nZHANG HD,REN SX,1998. Flora of China: [M]. Beijing: Science Press, 49(3): 1-251.[张宏达, 任善湘,1998.中国植物志:[M].北京:科学出版社,49(3):1-251.]   \nZHANG HD, WANG BS, ZHANG CC, et al,1955.The study on the plant community of Dinghu mountain in Guangdong province[J]. J Zhongshan Univ(Nat Sci Ed),(3):161-229.[张宏达,王 伯荪,张超常,等,1955.广东高要鼎湖山植物群落之研究[J].中山大学学报（自然科学 版）,(3):161-229.]   \nZHOU GX, HUANG LX, ZANG XW, et al, 2016. Effects of habitat heterogeneity on community functional diversity of Dinghu Mountain evergreen broad-leaved forest[J]. Guihaia, 36(2): 127- ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "136[周光霞,黄立新,臧晓蔚,等,2016.生境异质性对鼎湖山常绿阔叶林群落功能多样性 的影响[J].广西植物,36(2):127-136.] ZHOU GY, YAN JH, 2001.The influences of regional atmospheric precipitation characteristics and its element inputs on the existence and development of Dinghushan forest ecosystems[J]. Acta Ecol Sinica,21(12):2002-2012.[周国逸,闫俊华,2001.鼎湖山区域大气降水特征和物 质元素输入对森林生态系统存在和发育的影响[J].生态学报,21(12):2002-2012.] ",
+        "page_idx": 12
+    }
+]

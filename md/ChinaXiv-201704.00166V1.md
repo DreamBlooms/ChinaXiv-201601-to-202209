@@ -1,0 +1,207 @@
+路伟伟,余新晓,贾国栋,李瀚之,刘自强.基于树轮 $\delta ^ { 1 3 } \mathrm { C }$ 值的北京山区油松水分利用效率.生态学报,2017,37(6)：2093-2100.LuWW,YXiVceooActaEcologicaSinica,2017,37(6):2093-2100.
+
+# 基于树轮 $\delta ^ { 1 3 } \mathbf { C }$ 值的北京山区油松水分利用效率
+
+路伟伟，余新晓\*，贾国栋，李瀚之，刘自强北京林业大学水土保持学院,教育部水土保持与荒漠化防治重点实验室,北京10008摘要：水分利用效率是深入研究森林生态系统水碳循环耦合关系的重要节点之一。北京山区生态系统是北京市的天然生态屏障,研究该地区植被水分利用效率动态及其对气候变化的响应,对于评估区域碳水耦合关系及研究植物对全球气候变化的响应具有重要意义。利用北京市密云县东部山区红门川流域的油松树轮 $\delta ^ { 1 3 } \mathrm { C }$ 序列,分析了长期水分利用效率WUE的年际变化。结合密云站及上甸子站的气象数据资料分析结果表明：(1)自 1952年至2014年,北京山区红门川流域油松树轮 $\delta ^ { 1 3 } \mathrm { C }$ 值序列呈现上升趋势,变动区间为 $- 2 3 . 4 1 \% c - - 2 7 . 6 3 \%$ ，平均为 $- 2 5 . 5 6 \% o$ ;油松WUE的年际值呈现波动下降趋势,变动区间为5.77—16.53,平均值为9.6,平均每年下降0.175,20世纪80年代左右下降趋势最为显著，且之后维持在相对较低的水平,最低值（5.76)出现在1994年,最高值(16.53)出现在1976年,1964年至1980年期间WUE为研究时段内最高,平均值为13.0。由此可见,在过去几十年中,红门川流域油松林的水分利用效率持续降低,固碳能力下降。（2)油松WUE对气温变化响应较好,总体呈现显著负相关,其中与年均气温相关性指数为 $r ^ { 2 } = 0 . 8 2 4 8 , P < 0 . 0 1$ ,与生长季平均气温相关性指数 $r ^ { 2 } = 0 . 6 9 5 2$ 。平均气温每升高 $0 . 1 \mathrm { { ^ { \circ } C } }$ ,油松WUE下降0.205。且平均气温较高的年份油松WUE下降率比低温年份的WUE升高率大,由此推断,气温上升对油松林生态系统水碳循环及耦合关系影响更为显著。（3)油松WUE 随着降水量增加而提高,与降水存在一定的正相关关系,但并不显著;在降水量突然减少之后,油松的WUE值会随之上升,持续一段时期后有回落现象,说明 WUE值具有一定保守性。（4)WUE对温度变化的响应较降水变化的响应更加敏感。温度的升高及降水的减少导致植物叶片气孔导度降低,进而影响了植物的固碳速率。
+
+关键词：水分利用效率;树轮 $\delta ^ { 1 3 } \mathrm { C }$ 值；气候变化;水碳耦合
+
+# Variation characteristics of long-term water use efficiency based on tree-ring carbon isotope discrimination
+
+LU Weiwei，YU Xinxiao\*， JIA Guodong，LI Hanzhi，LIU Ziqiang BeijingFoese
+
+Abstract：Water-useeficiency（WUE）is fundamental inunderstanding thecoupling relationshipsof the water-carbon cycle of forest ecosystems.WUE is defined as the ratio of the photosynthetic uptake of $\mathrm { C O } _ { 2 }$ to the simultaneous transpiration loss of water vapor through the stomata. The stable carbon isotope ratio $( \delta ^ { 1 3 } \mathrm { C } )$ ）of tree-rings can be used to trace long-term, integrated effects of elevated $\mathrm { C O } _ { 2 }$ and climate change on WUE and tree growth，which provides insights into how naturally growing tres respond to climate change.In the mountainous area of Beijing，northern China，forest ecosystems play an importantrole inpreventingsoilerosionand waterloss，regulating theclimate，and maintaining ecological stability，acting as anaturalecological barier for Beijing city.Itisof great significancetostudythedynamicresponseof WUEand its response to climate change in thisarea.The present study adopted dendrochronological methodsand interannual $\delta ^ { 1 3 } \mathrm { C }$ measurements to analyze the inter-annualvariation inWUEofPinustabulaeformis between 1952and 2014 inthe
+
+Hongmenchuan watershed，Beijing.Moreover，weanalyzed thecorrelationbetween WUEandenvironment factors, combined with temperatureand precipitation data supported bythenearest meteorological stations.Theresults showed that the $\delta ^ { 1 3 } \mathrm { C }$ values of the $P$ .tabulaeformis tree-ring varied in a range of $- 2 3 . 4 1 \text{‰}$ to $- 2 7 . 6 3 \% o$ ，with an average value of $- 2 5 . 5 6 \text{‰}$ ，and the $\delta ^ { 1 3 } \mathrm { C }$ value reduced by $0 . 0 4 \text{‰}$ per year.With the meteorological data provided by the weather stations of Miyunand Shangdianzi，theWUEcurve showedaquadratic function trend,and changedinarangeof 5.7to16.53,with an average value of 9.6 and decrease of O.175. The advantage interval，where $P$ 、tabulaeformis WUE was higher than that in other years，was when the precipitation was between 550 and $6 0 0 ~ \mathrm { { m m } }$ ，and the average annual temperature was between 11 and $1 1 . 5 \mathrm { ^ { \circ } C }$ ，and the water use efficiency in the early growth stage was higher than that in later stages.The lowest value （5.76）appeared in1994,and the highest value（16.53）appeared in1976.From 1964 to1980,the WUE maintained at a higher level，with an average of 13.Thus，in the past decades，WUE of $P$ ，tabulaeformis in the Hongmenchuan watershed continuouslydecreased，similartothecarbonsequestrationcapacityofforestecosystems.WUEshowedanoverallsignificant negative correlation with annual temperature ( $r ^ { 2 } = \ - 0 . 8 2$ ， $P { < } 0 . 0 1$ ）and temperature of growth season ( $r ^ { 2 } = \ 0 . 6 9 5 2$ ， $P <$ 0.01），acertain but not significant correlation with precipitation.Thecorrelationof WUEand annualtemperature was stronger inthe growth season，which alsoreflectedtheinfluenceof non-growth season temperature.WUE increased slightly when temperature decreased，but declined sharply when temperature increased by 0.2O5 along with per $0 . 1 \mathrm { { ^ { q } C } }$ temperature increase.Afterthe sudden reduction in precipitation，WUE increased temporarilyand then decreased，which showed that WUE may have been conservative.This indicates thattheresponseof WUE is more sensitive to temperature change than to precipitation.Increased temperature and decreased precipitationcaused a decrease in stomatal conductance of plant leaves that affected the carbon fixation rate.
+
+Key Words: WUE（water use efficiency）; tree-ring $\delta ^ { 1 3 } \mathrm { C }$ ； climate change；water-carbon coupling cycle
+
+水分利用效率(WUE)是衡量植物耐旱性的重要指标,同时也是研究碳水耦合关系的重要切入点[1-2]。WUE可以概括为植物同化的 $\mathrm { C O } _ { 2 }$ 与蒸腾消耗水分质量之比，在一定程度上反映了植物耗水特性和对干旱的适应性,是植物对环境水分条件的一种响应[3-5]。传统研究水分利用效率的方法主要有收获法、光合仪法、微气象法等,但这几种方法由于破坏性太大或因现实条件限制应用有限。随着近几年同位素技术在我国生态学研究中的不断推进，通过测定植物组织稳定碳同位素值 $\delta ^ { 1 3 } \mathrm { C }$ ,推算水分利用效率，成为代替传统研究方法的新手段。
+
+由于植物组织的碳是在一段时间内积累起来的， $\delta ^ { 1 3 } \mathrm { C }$ 值所代表的不是瞬时WUE，而是植物组织有机质形成时间内的平均WUE。与其他方法测得的瞬时WUE相比,利用稳定同位素技术所测得的WUE 更能反映出植物在一段时间内对水分的利用以及对水分胁迫的适应状况,并且该方法采样破坏性小,不受时间、地点和下垫面情况等条件的限制,方便保存和测定[5-8]。陈平[6]等通过测定叶片稳定碳同位素值分析决明子（Cassiatora Linn)水分利用效率,对比传统方法,认为稳定同位素技术测定植物WUE是可靠的;王健林[9]等通过控制光强和 $\mathrm { C O } _ { 2 }$ 浓度,研究叶片尺度WUE变化;尹伟伦[10]等测定杨树不同组织 $\delta ^ { 1 3 } \mathrm { C }$ 值,分析不同时间尺度WUE值,认为枝、干 $\delta ^ { 1 3 } \mathrm { C }$ 相比叶片 $\delta ^ { 1 3 } \mathrm { C }$ 是评价整株水分利用效率的良好指标;张远东[11等运用生态系统模型对西南地区进行生态系统尺度水分利用效率研究,并分析其时空动态,发现WUE年际变化降低趋势显著。目前利用稳定同位素技术测定植物水分利用效率主要集中在叶片尺度,缺乏长时间尺度的研究;而现有的水分利用效率时间变化研究多是利用模型进行估测,误差较大。
+
+树木年轮同位素是研究长期水分利用效率的良好切入点。树木年轮变化不仅与树种本身的遗传特性有关,还受外部环境条件影响[12]。利用树木年轮中的信息,如宽度、密度、稳定碳同位素值等研究环境变化或进行气候重建等,是非常有效的方法[13-15]。由于树木年轮中年与年之间的纤维素并不发生转移,因此年内及年际间的变化信息都被长久的保存在了树轮 $\delta ^ { 1 3 } \mathrm { C }$ 信息中[16-17]。树木年轮碳同位素信息与生理特性（如光合能力和气孔导度)之间形成一种数量关系,在很大程度上提高了植物稳定碳同位素值和水分关系的研究,包括不同的空间尺度(从植物个体叶片、整个植株,到完整的生态系统)及时间尺度(从瞬时气体交换到古生物的树木年轮)的研究。这样不但可以了解植物当前的生理状况,而且可以通过它保存的历史信息来了解它对长期环境变化的反应,尤其是水分利用和水分状态[15-17]。
+
+本文以油松为研究对象,通过测定其树木年轮中的稳定碳同位素 $\delta ^ { 1 3 } \mathrm { C }$ 值,分析水分利用效率的长期变化,并结合当地降水和气温资料,探讨长期水分利用效率对气候变化的响应,从而提高对气候变化背景下水碳耦合过程的认识。
+
+# 1材料和方法
+
+# 1.1 研究区概况
+
+红门川流域位于北京市密云县东部山区，全长 $2 0 . 5 ~ \mathrm { k m }$ ,流域面积 $1 2 8 ~ \mathrm { k m } ^ { 2 }$ ,均为山地,是典型的北京土石山区[18]。该流域流经密云县3个乡,至邓家湾人潮河。红门川流域地貌类型复杂,处在华北平原与蒙古高原的过渡地带,属燕山山脉,境内山峦起伏,东、西、北三面群山连绵[19],中部低缓,西南开阔,地势自北向西南倾斜，呈簸箕形，海拔100— $1 2 0 0 \mathrm { ~ m ~ }$ 。流域气候属暖温带半湿润季风型大陆性气候,年平均气温 $9 \mathrm { { ^ circ C } }$ ,年无霜期175d，年日照总数 $2 8 0 1 . 8 \mathrm { ~ h ~ }$ ,年均降雨量 $6 5 0 { \mathrm { - } } 7 0 0 ~ \mathrm { m m }$ ,主要集中在6一8月，占全年降雨量的 $7 5 \%$ 。该区域土层较薄，一般为 $1 0 { - } 4 0 \ \mathrm { c m }$ ,土壤多属褐土和棕色森林土类,粗骨性比较突出[20]。该区的主要树种为油松（Pinus tabulaeformis）、侧柏(Platycladus orientalis）、刺槐（Robinia pseudoacacia）、栓皮栎（Quercus variabilis）等。
+
+# 1.2 试验材料及处理
+
+# 1.2.1 样品采集
+
+将红门川流域划分为10个样地,选取生长状况良好的标准木40株,于2015年5月进行采样。每株于胸径处沿等高线方向使用生长锥取树芯两根,具体采样方法参考树轮气候学研究采样规范[21]。为防止碳源污染,将采集的80根树芯样品置于玻璃试管中保存。一个采样点取4棵树的4根样芯,基本可以代表一个取样点的 $\delta ^ { 1 3 } \mathrm { C }$ 的绝对含量和变化趋势[22]。结合试验条件,选取了50根年轮清晰、缺轮较少的样品进行稳定碳同位素分析。
+
+# 1.2.2 样品处理
+
+样本经过自然晾干、固定、打磨等标准处理程序,然后使用骨架图对每个样点的树芯样品进行交叉定年[23],再进行年轮 $\delta ^ { 1 3 } \mathrm { C }$ 分析测定。具体操作步骤是：
+
+1)将树芯样品置于体视显微镜下,用手术刀在玻璃板上沿年轮线进行切割分离,然后将同一年的树芯样放在一个玻璃瓶内,按年编号;
+
+2)用去离子水冲洗样品两次以去除表面沾染的其他碳源;
+
+3)将清洗好的样品放于烘箱中于 $8 0 ^ { \circ } \mathrm { C }$ 条件下连续烘干 $^ { 4 8 \mathrm { ~ h ~ } }$
+
+4)用粉碎机将烘干后的样品磨碎过80目筛制成供试样品;
+
+5)分别取每年的样品 $2 ~ \mathrm { m g }$ 于总有机碳元素分析仪(TOC)中，于不含 $\mathrm { C O } _ { 2 }$ 的空气中进行燃烧,温度设置为$9 5 0 \mathrm { ^ \circ C }$ ,使干燥的样品在密封且有过量氧气的石英玻璃管中燃烧,样品中所有碳都转化为气态 $\mathrm { C O } _ { 2 }$ ,用气袋收集燃烧后的气体;
+
+6)最后利用同位素质谱仪对收集的气体进行测定,得到样品的 $\delta ^ { 1 3 } \mathrm { C }$ 值,实验系统误差小于 $0 . 2 \text{‰}$ 。
+
+# 1.3植物长期水分利用效率计算
+
+植物水分利用效率是植物同化的 $\mathrm { C O } _ { 2 }$ 与蒸腾的水分的物质的量比。植物生理学家通过测定植物的瞬时蒸腾速率(ITE），即同化速率(A)与蒸腾速率 $( E )$ 的比值 $( A / E )$ 来表示植物水分利用效率,表示为：
+
+$$
+A = g \frac { C _ { a } - C _ { i } } { P }
+$$
+
+$$
+E = 1 . 6 g \frac { e _ { i } - e _ { a } } { P } = 1 . 6 \frac { \Delta e } { P }
+$$
+
+$$
+\mathrm { W U E } = { \frac { A } { E } } = { \frac { C _ { a } - C _ { i } } { 1 . 6 \Delta e } }
+$$
+
+式中，WUE为水分利用效率( $\mathrm { \ m o l c / m o l { H _ { 2 } O } }$ ）， $g$ 为边界层和气孔对 $\mathrm { C O } _ { 2 }$ 扩散的导度， $P$ 为大气压， $C _ { a }$ 和 $C _ { i }$ 分别是大气及叶片细胞内的 $\mathrm { C O } _ { 2 }$ 气压， $\boldsymbol { e } _ { a _ { } }$ 和 $\boldsymbol { e } _ { i }$ 分别为大气及叶片细胞间水汽压， $\varDelta e$ 为叶内外水汽压差。
+
+Farquhar[24]等建立了碳同位素分辨率 $( \delta ^ { 1 3 } \mathbf { C } )$ 与 $\mathrm { C _ { i } }$ 之间的数量关系方程：
+
+$$
+\delta ^ { 1 3 } C = a + \left( b - a \right) C _ { i } / C _ { a }
+$$
+
+因此,碳同位素判别值可以作为确定在生态生理研究中 $\mathrm { C _ { i } / C _ { a } }$ 比值及WUE的一种手段,水分利用效率可以用公式(5)计算得到：
+
+$$
+\mathrm { W U E } = C _ { a } \times ( \frac { \mathfrak { d } ^ { 1 3 } C _ { a } - \mathfrak { d } ^ { 1 3 } C _ { p } - a } { b - a } ) / 1 . 6 \Delta e
+$$
+
+式中， $\delta ^ { 1 3 } \mathrm { C _ { p } }$ 和 $\delta ^ { 1 3 } \mathrm { C _ { a } }$ 分别为植物及大气的 $\mathrm { C O } _ { 2 }$ 碳同位素比率,采样地 $\delta ^ { 1 3 } \mathrm { C _ { a } }$ 为 $- 6 . 7 \text{‰}$ $a = 4 . 4 \text{‰}$ ，代表 $\mathrm { C O } _ { 2 }$ 通过气孔时扩散分馏系数; $b = 2 7 \text{‰}$ ,指 $\mathrm { C O } _ { 2 }$ 被 Rubisco 酶羧化过程中的分馏系数。
+
+# 1.4数据统计与分析
+
+运用Excel和SPSS统计软件对实验数据进行相关性分析及线性回归和多元回归分析。气象数据源自距离采样点 $2 0 ~ \mathrm { k m }$ 的北京市密云县气象站 $\langle 1 1 6 ^ { \circ } 5 2 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { E } , 4 0 ^ { \circ } 2 2 ^ { \prime } 4 8 ^ { \prime \prime } \mathrm { N } \rangle$ ，由国家气象局提供,部分 $\mathrm { C O } _ { 2 }$ 浓度值采用距离采样点 $2 7 ~ \mathrm { k m }$ 北京市密云县上甸子站( $1 1 7 ^ { \circ } 0 7 ^ { \prime } 0 7 ^ { \prime \prime } \mathrm { E }$ ， $4 0 ^ { \circ } 3 9 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { N }$ )提供的数据。
+
+# 2结果与分析
+
+2.1油松树轮稳定碳同位素序列统计特征
+
+如图1所示，油松树轮稳定碳同位素值序列(1950—2014)变动区间为 $- 2 3 . 4 1 \% o - - 2 7 . 6 3 \%$ ,平均为$- 2 5 . 5 6 \% o$ 。树轮碳同位素值呈逐年增大的趋势，平均每年增加 $0 . 0 4 \text{‰}$ 。线性回归方程的相关系数 $r ^ { 2 } = 0 . 7 1 8 1$ ，$P { < } 0 . 0 1$ ,拟合度较高，说明增长趋势显著。其一阶自相关性较差,即没有显著的“滞后效应”[25],说明气候变化主要影响油松当年的生长，对次年及之后的影响不显著，即树轮稳定碳同位素值均反映当年气候信息。
+
+# 2.2长期水分利用效率的变化特征
+
+1952—2014年间，红门川流域油松WUE变动区间为5.77—16.53，平均值为9.60，总体呈现降低趋势，平均每年下降0.175（图2);最大值出现在1976年,为16.53,最小值出现在1994年,为5.76;突变点出现在1960年及1980 年前后。在1960—1980 年期间有明显上升趋势,之后在1980—2000年期间下降趋势明显,2000 年以后变化幅度显著减小,基本平稳,保持在4—7之间。1952—2014年期间,WUE 的年际变化大致可以分为4个时期,即1952—1964年的下降期,1964—1980年的上升期,1980—1995年的下降期,以及1995—2014 年的稳定期。4个时期差异明显。研究时段内WUE出现峰值区,即第二期,此时WUE保持在较高水平,平均值为13.0。
+
+![](images/1e041c60a71295e5719b83b4344606feab313e36849ffe311c92633aca000ece.jpg)  
+图1红门川流域油松树轮 $\delta ^ { 3 } \mathbf { C }$ 序列   
+Fig.1Tree-ring $\delta ^ { 1 3 } \mathrm { C }$ of Pinus tabulaeformis chronologies in Hongmenchuan watershed
+
+# 2.3 WUE对年均温度变化的响应
+
+1952年至2011年,区域整体WUE年际变化与温度呈显著负相关。其中与年均气温相关性指数 $r ^ { 2 } = { }$   
+0.8248（图4），与生长季平均气温相关性指数 $r ^ { 2 } = 0 . 6 9 6 5$ （图5）。平均温度每升高 $0 . 1 \mathrm { { ^ { \circ } C } }$ ,油松WUE下降
+
+0.205。在研究时段的前半段,即1990年以前,年均温度变化幅度较大,WUE 响应明显；自1980年之后,年均温度有明显攀升,该时段内，WUE亦有显著下降趋势（图3）。温度升高，有 $8 2 . 2 \%$ 的年份WUE是下降的；温度降低，有 $7 0 . 0 \%$ 的年份WUE 是升高的。几段高温时期,如1960 年、1982年和 2010 年前后,可以明显看出WUE 值降低;同时,1955 和1970 年的低温时期,WUE值亦有攀升。年均气温较高的年份油松WUE下降率比低温导致WUE升高率大。
+
+![](images/eda996e83e926249ea74c6ee30db292eadd3f1a6caebe9a6bda2a81db64c17a3.jpg)  
+图2红门川流域油松水分利用效率时间动态
+
+![](images/dceeda2bb08ae6fa7d72638a0cbc584d89cee5da50506323ec74b94b71ec133f.jpg)  
+Fig.2Inter-annual variations of WUE in Pinus tabulaeformis in Hongmenchuan watershed
+
+# 2.4 WUE对降水量变化的响应
+
+结合该流域1950—2014年降水量与油松WUE年际变化及相关性分析可知,流域年降水量总体呈下降趋势,变动范围为261.4— $1 4 0 4 . 6 ~ \mathrm { m m }$ ,与WUE呈正相关关系（图7），但相关性不高( $r ^ { 2 } = 0 . 1 5 6 6 ) \$ 。在研究时段内,油松的水分利用效率大致随着降水量增加而提高。从图6中可以看出,在1960年前后,年降水量减少，此时WUE上升,出现负相关关系,之后持续到1980 年,WUE下降,而降水量仍保持在 $5 0 0 { \mathrm { - } } 6 0 0 \ \mathrm { m m }$ ,并且在2000—2010年也出现这种现象。即在降水量突然减少之后,油松的WUE 值会随之上升,持续一段时期之后会有回落现象，且回落值比上升之前低。
+
+# 2.5 降水量与年均气温的复合作用
+
+结合降雨和气温的时间变化(图8)可以看出,在第一时期,即1952—1962年期间,年降雨量逐渐减少，但均值较高,平均为 $7 6 1 . 2 \ \mathrm { m m }$ ,水分条件相对较好;年均气温呈上升趋势,但均值相对不高,平均为 $1 1 . 5 8 ^ { \circ } \mathrm { C }$ 。此时WUE值呈现降低趋势,说明此时树木消耗较多的水,但生产力并不高。在第二时期,年降水量相对稳定,约
+
+![](images/5ced8e4d49c61fbda0ab8419ebd0aeeaf6586389c198d568a51ad7fc4dbae276.jpg)  
+图4油松WUE与年均气温相关性分析  
+Fig.4Correlation analysis between WUEofP.tabulaeformis and annual temperature
+
+![](images/42957ea53ee25982e62946d4910ecbe0bcfc10c0cbbf93192922f81da6aae022.jpg)  
+图31950一2014年红门川流域年均气温与油松WUE动态 Fig.3Inter-annual variations of temperature and WUE of Pinus tabulaeformis during the period of1950—2014 in Hongmenchuan watershed   
+图5油松WUE与生长季平均气温相关性分析  
+Fig.5Correlation analysis between WUE of P.tabulaeformis and growing season average temperature
+
+为 $5 7 4 . 5 ~ \mathrm { m m }$ ;气温逐年降低，平均为 $1 1 . 2 \mathrm { ^ { \circ } C }$ 。相对前一时期,WUE维持在相对较高的水平。第三时期的降水变化不大,环境变化主要体现在年均温度的升高上,此时 WUE 出现了明显的下降。第四时期趋于稳定,但WUE 均值为研究时段最低,为7.5,此时的年均气温也相对稳定,均值为 $1 3 . 1 \mathrm { { ^ \circ C } }$ ,比第一时期高了 $2 . 5 \mathrm { ^ { \circ } C }$ 。
+
+![](images/d09ea9b2e450f57f20cc32b862b8e975750677ef6572197d49e95ad80fd726c4.jpg)  
+图61950一2014年红门川流域降水量与油松WUE年际变化 Fig.6Inter-annual variations of precipitation and WUE of Pinus tabulaeformis duringtheperiod of1950—2014 in Hongmenchuan watershed
+
+![](images/1ab9cb2bca228ca5bd23b7a89a588da682b70f9c07394ffb631693e0cdf958ec.jpg)  
+图7油松WUE与年降水量相关性分析
+
+![](images/82825553350e8ace3aaf611c0d0d6b560e47b67f5748c98338feafe11f70e83e.jpg)  
+Fig.7CorrelationanalysisbetweenWUEofPinustabulaeformis and annual precipitation   
+图8降水量与年均气温时间动态  
+Fig.8Inter-annual variations of precipitation and temperature
+
+# 3讨论
+
+3.1油松树轮稳定碳同位素值及WUE变化特征
+
+植物体组织中的稳定碳同位素值显著低于大气中的,这是由于植物在进行光合作用过程中优先吸收 $^ { 1 2 } \mathrm { C }$ 造成碳同位素分馏[26],即植物光合作用的“碳同位素效应”。这个过程的影响因素主要有两方面，一个是遗传因素，另外一个是环境因素，包括温度，降水，气压及 $\mathrm { C O } _ { 2 }$ 浓度等。1950年至2014年这段时期，油松树轮稳定碳同位素值呈波动上涨的变化趋势,说明在研究时段内,树木光合固定的 $^ { 1 3 } \mathrm { C }$ 逐年增多,从生理生态学角度看,当植物受到水分胁迫或高温影响时,植物部分气孔关闭以避免过多的水分散失,因而降低了植物叶片内部的 $\mathrm { C O } _ { 2 }$ 浓度[27」,此时植物为了维持较高光合速率,会提高对进入气孔的 $\mathrm { C O } _ { 2 }$ 的吸收利用率,因此对 $^ { 1 3 } \mathrm { C }$ 的排斥作用减小，导致 $\delta ^ { 1 3 } \mathrm { C }$ 值的升高。由此结论逆推分析得出,红门川流域油松林树木年龄 $\delta ^ { 1 3 } \mathrm { C }$ 升高，意味着近几十年该地区的水分情况变差且年均气温升高,所以对植物的生长相对之前产生了胁迫。该结论与本地区的气象资料所显示的情况吻合。
+
+1952年至2011年期间,油松WUE值总体呈现下降趋势,20世纪80年代附近下降明显,近40年WUE偏低。由此可以看出气候变化的背景下,油松生态系统的水分利用效率逐渐降低,植物在吸收利用同等质量水的同时并没有固定更多的 $\mathrm { C O } _ { 2 }$ ,即油松林生态系统碳吸收能力减弱。WUE还是作为评价植物生长适宜程度的一个综合性指标,其下降也说明植物对生存环境表现出一定程度的不适应。张远东[11]等对一些地区WUE长期变化规律的研究也表明其呈现下降趋势，且近几十年下降速率最大。
+
+# 3.2 WUE对气候变化的响应
+
+植物长期水分利用效率与气温呈显著负相关关系，且与年均气温的相关性高于与生长季的,分析其原因可能是冬季低温对树木光合能力产生影响,进而导致了水分利用效率的变化,即虽然油松在冬季生理生态过程微弱,但仍对环境变化进行响应,树木本身的生态学特征也在发生不同程度的变化。相关研究也表明,温带常绿针叶树越冬期间光合能力会受到不同程度的抑制,且恢复情况也受环境的影响[28]。
+
+植物WUE对温度变化的响应最为显著,其原因在于植物气孔导度对温度十分敏感,进而影响了植物的固碳速率;对降水变化的响应也比较明显,适当的水分胁迫对提高植物的水分利用效率有一定作用;大气 $\mathrm { C O } _ { 2 }$ 浓度改变对植物的影响主要是通过改变大气 $\delta ^ { 1 3 } \mathrm { C }$ ,进而影响植物 $\delta ^ { 1 3 } \mathrm { C }$ ,此过程虽然也影响植物叶片的气孔导度,但没有改变植物的 ${ P _ { i } } / { P _ { a } }$ ,因此对WUE 影响不显著[29]。通过分析WUE及稳定碳同位素值与环境因子之间的关系，不仅有助于了解植物生理生态指标对环境变化的响应，还能提高气候变化背景下对生态系统水碳过程的认识。植物组织稳定碳同位素值的环境影响因素之间相互关系复杂,因此得出的WUE值仍有一些不确定性，还需进一步研究。
+
+生态系统尺度上对水分利用效率的定义为森林净初级生产力(NPP)与蒸散量 $( E T )$ 的比,WUE对环境变化响应,意味着 NPP 或ET的改变,即环境变化作用于 NPP或ET,因此对WUE 产生了影响。对 NPP 和 ET的相关研究表明,森林净初级生产力和森林系统蒸散量均与温度呈显著正相关而与降水量相关性不显著[]。WUE 对温度变化的响应最为敏感,且高温对油松长期水分利用效率的影响大于低温的影响,说明在气候变化过程中,气温上升对油松林生态系统的水碳循环及水碳耦合关系的影响更为显著。
+
+温度和降水对植物WUE 的影响存在复合作用[30],结合降雨和气温的时间变化可以看出,在1964—1980年期间,降水量虽然比之前降低,WUE仍维持在较高的水平,说明年均气温降低到 $1 1 . 2 \mathrm { ^ { \circ } C }$ 没有对树木的生长产生胁迫,同时适当的水分减少反而增加了树木的水分利用效率,即年降水量在 $5 5 0 { \mathrm { - } } 6 0 0 { \mathrm { m m } }$ 之间,年均气温在 $1 1 ^ { \circ } \mathrm { C } - 1 2 ^ { \circ } \mathrm { C }$ 时,油松的水分利用效率最高,这个区间为环境条件最优区间。第三时期WUE出现了明显的下降,结合相关性分析可知,这种现象的发生主要由于是温度升高导致气孔导度下降,光合速率下降。
+
+在分析WUE值与年降水量时发现,在降水量突然减少之后,油松的WUE值会首先上升,持续一段时期之后会有回落现象,且回落值比上升之前低。结合他人研究及植物生理学知识分析,这种现象说明植物在突然受到干旱胁迫时,其水分利用效率会首先提高,在适应此时相对干旱的环境后,其WUE 值有回落现象,相比提高之前的值偏大。这可能也是植物对环境变化的一种适应策略,有待进一步研究。
+
+# 4结论
+
+1952—2014 年期间，红门川流域油松树轮 $\delta ^ { 1 3 } \mathrm { C }$ 值呈增大趋势,斜率为0.04。水分利用效率曲线呈二次函数趋势，分为上升和下降阶段,存在优势区间，即当年降水量为550— $6 0 0 ~ \mathrm { m m }$ ,年均气温为11— $1 1 . 5 \mathrm { ^ { \circ } C }$ 时，油松水分利用效率较高;WUE 总体呈现下降趋势,说明油松生长前期水分利用效率高于生长后期。
+
+区域整体WUE年际变化与温度呈显著负相关( $^ { ' } r = - 0 . 9 0 8 , P { < } 0 . 0 1 ;$ ,与降水量呈正相关。由此得出结论，WUE 对气温变化的响应相比降水变化更为敏感。空气温度变化导致的气孔导度等一系列生理生态变化是影响油松水分利用效率的关键因素。
+
+http://www.ecologica.cn
+
+# 参考文献（References）：
+
+[1]Tian HQ,ChenGS,LiuML,ZhangC,SunG,LuCQ,XuXF,RenW,PanSF,ChapelkaA.ModelestimatesofnetprimaryprducityevapotranspirationndwaterusfcecyinteteesialosstsofthesouthUitedStatesduring89.ForestEcoloadManagement，2010，259（7）：1311-1327.  
+[2］胡中民，于贵瑞，王秋凤，赵风华.生态系统水分利用效率研究进展.生态学报，2009,29（3）：1498-1507.  
+[3]BoBssabatotoiindcalotalgt(4):355-363.  
+[4]Munns R. Genes and salt tolerance：bringing them together.New Phytologist，2O05，167(3）: 645-663.  
+[5]SuX,FZ,anHaiJYngDZooecactestdtefeofbad-in the Horqin Sandland.Journal of Arid Land Resources & Environment，2OO8,22（10）：188-194.  
+[6］陈平，张劲松，孟平，何春霞，贾长荣，李建中.稳定碳同位素测定水分利用效率——以决明子为例.生态学报，2014，34（19)：5453-5459.  
+[7］桑卫国，王云霞，苏宏新，陆兆华.天山云杉树轮宽度对梯度水分因子的响应.科学通报，2007,52（19)：2292-2298.  
+［8］赵凤君，沈应柏，高荣孚，苏晓华，张冰玉.叶片 $\delta ^ { 1 3 } \mathrm { C }$ 与长期水分利用效率的关系.北京林业大学学报，2006，28(6)：40-55.  
+［9]王建林，于贵瑞，房全孝，姜德锋，齐华，王秋凤.不同植物叶片水分利用效率对光和 $\mathrm { C O } _ { 2 }$ 的响应与模拟.生态学报，2008，28（2）：525-533.  
+[10］尹伟伦，万雪琴，夏新莉.杨树稳定碳同位素分辨率与水分利用效率和生长的关系．林业科学，2007，,43（8）：15-22.  
+[11］张远东，庞瑞，顾峰雪，刘世荣.西南高山地区水分利用效率时空动态及其对气候变化的响应.生态学报，2016,36(6)：1-11.  
+[12]黄荣凤，赵有科，吕建雄，鲍甫成.侧柏年轮宽度和年轮密度对气候变化的响应.林业科学，2006,42（7）：78-82.  
+[13］冀春雷，徐庆，靳翔，刘世荣.树木年轮碳氢氧稳定同位素在全球气候变化研究中的应用.林业科学，2010,46（7）：129-135.  
+[14]Frits H C. Tree rings and climate.Scientific American,1976,226(5）: 95-99.  
+［15］吴祥定.树木年轮与气候变化.北京：气象出版社，1990.  
+[16］刘贤赵，张勇，宿庆，田艳林，全斌，王国安.现代陆生植物碳同位素组成对气候变化的响应研究进展.地球科学进展，2014，29（12）：1341- 1354.  
+[17]JonesHWaterusefinoog/conMAdWateUsfinlantoOxfodlacklblishing.  
+[18］刘旭辉，余新晓，赵阳.北京山区典型小流域景观格局变化对径流的影响.水土保持研究，2013，20(5）：39-54.  
+[19］朱丽，秦富仓，姚云峰.北京市红门川流域径流对防护林结构变化的响应.水土保持通报，2010,30(4）：63-67.  
+[20］曾宪勤，刘宝元，刘瑛娜，符素华，刘和平，赵玉明.北方石质山区坡面土壤厚度分布特征——以北京市密云县为例.地理研究，2008，27(6):1281-1289.  
+[21］陈向军，袁玉江，陈峰，张瑞波，张同文.天山北坡东部地区树轮宽度年表特征分析.中国沙漠，2008，28（5）：833-841.  
+[22］刘禹，马利民，蔡秋芳，安芷生，刘卫国，高玲瑜.采用树轮稳定碳同位素重建贺兰山1890年以来夏季(6—8月)气温.中国科学（D辑），2002，32(8)：667-674.  
+[23］刘晓宏，秦大河，邵雪梅，陈拓，任贾文.祁连山中部过去近千年温度变化的树轮记录.中国科学D辑 地球科学,2004，34（1）：89-95.  
+[24]FarquarGD,O'LeayM，BerryJA.Onheelatioshipetweencarbonisotoedisciiationandeintercellarcarbodioxideconcentration in leaves.Functional Plant Biology，1982,9(2）：121-137.  
+[25］靳翔，徐庆.川西亚高山森林岷江冷杉树轮碳稳定同位素对气候要素的响应/第二届全国稳定同位素新技术开发与应用交流研讨会论文集.无锡：中国核学会，中国化工学会，2013.  
+[26］殷树鹏，张成君，郭方琴，李晓丽，张云.植物碳同位素组成的环境影响因素及在水分利用效率中的应用.同位素，2008,21（1)：46-53.  
+［27］张庆乐，刘卫国，刘禹，宁有丰，文启彬.贺兰山地区树轮碳氧同位素与夏季风降水的相关性讨论.地球化学,205，34（1)：51-56.  
+[28］白淑菊，陶大立.长白山常绿针叶树越冬期间光合能力的抑制.应用生态学报，1995(2):138-142.  
+[29］张良侠，胡中民，樊江文，邵全琴，唐风沛.区域尺度生态系统水分利用效率的时空变异特征研究进展.地球科学进展，2014，29（6)：691- 699.  
+[30］王庆伟，于大炮，代力民，周莉，周旺明，齐光，齐麟，叶雨静.全球气候变化下植物水分利用效率研究进展.应用生态学报，2010,21(12):3255-3265.

@@ -1,0 +1,478 @@
+[
+    {
+        "type": "text",
+        "text": "基于SPEI指数的秦岭南北地区干旱时空变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高涛涛1,²，殷淑燕¹，王水霞}（1陕西师范大学地理科学与旅游学院,陕西西安710119;2陕西师范大学地理学国家级实验教学示范中心,陕西西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于秦岭南北地区47个气象站点1960—2016年实测气象资料，利用标准化降水蒸散指数(SPEI)定量分析了秦岭南北地区不同时间尺度干旱发生频率和强度的时空演变特征，并试图揭示该区域干旱发生的原因。结果表明;SPEI值能够较好的反映秦岭南北地区的干旱特征及干湿演变状况。从时间变化上看，近57a来秦岭南北地区呈干旱化趋势，以20世纪90年干旱化趋势最为显著，干旱化趋势最显著的区域为秦岭以北地区，但近22a秦岭南北地区开始出现湿润化趋势；从季节来看，四季大部分区域呈干旱化趋势，秋季干旱化趋势最显著且开始最早，春季次之，冬、夏干旱化趋势相对不显著。从空间来看，秦岭南北地区在年、季、月尺度上均有干旱发生且各地区分布极不均匀；其中秦岭以北地区干旱发生频率较高，其他子区域干旱发生频率的空间分布特征较为复杂。干旱发生强度呈现出中西部强，四周弱的特点，干旱发生强度最强的地方为陕西石泉，为$1 4 . 7 \\%$ ，最弱的地方为四川阎中，为 $2 3 . 6 \\%$ 0",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：SPEI指数；气象干旱；干旱发生强度；秦岭南北地区中图分类号： S423;P426.2 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱是最常见、最复杂的自然灾害之一，也是对人类社会影响最为严重的气象灾害之一，影响范围广、造成危害大、涉及时间长。近年来，中纬度地区气候暖干化是全球气候变化最显著的特征，它带来的主要问题之一是全球范围的干旱问题日趋严重。因此，量化研究干旱时空变化特征并阐述其形成的机制，对农业生态系统的科学管理和气象灾害预警等方面有重要的意义[1]。目前常用于量化干旱的指标包括PDSI指数、CI指数、 $\\cdot ^ { Z }$ 指数以及标准化降水指数（SPI）等。PDSI是干旱分析指标的里程碑，但是因其评估的干旱尺度局限性及自回归特征，使其在判断极端旱情时会出现滞后现象，SPI虽具有多尺度干旱检测优势，能够较好的反映干旱强度和持续时间，但是它的主要缺点是仅考虑降水因素，未考虑其他影响干旱的因素,如温度、蒸散等[2-5] C2010年VICENTE-SERRANO在SPI的基础上提出了标准化降水蒸散指数（StandardizedPrecipitationEvapotranspiration Index,SPEI)[6],该指数基于降水和蒸散，既保留了PDSI考虑蒸散对温度敏感的特点，又具备SPI适合多尺度、多空间比较的优点，特别适于监测全球变暖背景下干旱的变化特征[7]VICENTE-SERRANO用该指数建立了1901—2006年全球干旱趋势的数据集[8],以检测全球干旱分布。近些年来，国内学者们也利用该指数进行大量的研究[9-12]。李伟光[9]等应用 SPEI指数对我国1951—2009 年干旱趋势进行了研究;胡实[10]等利用SPEI分析了我国北方地区的干旱时空变化趋势；周丹、王东[11-12]等基于 SPEI对西南地区近 $5 3 \\mathrm { ~ a ~ }$ 、陕西省近50a的干旱时空特征进行分析;史本林[1]等基于SPEI指数对河南省近53a的干旱时空特征进行分析。也有一些学者将它应用到农业干旱监测中[13-14]。许玲燕[13]等利用 SPEI对云南省玉米生长季的干旱做了研究。秦鹏程[14]等应用 SPEI指数对我国近50a东北玉米生长季干旱进行分析，分析了在全球气候变暖的趋势下东北玉米生长季的干旱演变特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦岭作为中国南北地理环境的重要分界线，同时也是典型的生态环境脆弱区[15],研究全球气候变化背景下秦岭南北地区的干旱特征及其演变趋势就显得尤为重要。对此，我国学者开展了一系列的相关研究，但是研究内容大多从宏观方面对秦岭南北地区旱涝时空变化格局[15-16]、气候暖干化[17]、极端气候事件[18]以及气候干湿变化[5]等进行分析,对于秦岭南北地区干旱时空演变及特征、干旱发生累积强度的特征以及干旱原因并没有进行详细研究。基于此，本文以1960—2016年逐月气温和降水数据为基础，从不同时间尺度应用SPEI指数分析秦岭南北地区近57a干旱发生及干旱发生强度的时空演变特征，并探讨干旱发生的原因，旨在为秦岭南北地区干旱灾害的防治和制定应对政策提供了一定的参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况和研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "秦岭是横贯中国大陆中部的东西走向山脉，是中国南方和北方地理环境的重要分界线，也是暖温带与亚热带、湿润与半湿润气候的分界线[19]。周旗[19]等将秦岭南北自北向南划分为4个区域：第1个区域为秦岭北坡及其以北的暖温带地区;第2个区域为秦岭南坡，包括伏牛山及其以东平原;第3个区域为秦岭以南的汉水谷地、巴山、浥水谷地以及淮河上游北亚热带地区;第4个区域为巴山南麓、巫山谷地及江汉平原西北部。各子区域分别简称为“秦岭以北”、“秦岭南坡”、“汉水流域”以及“巴巫谷地”。秦岭地区为我国重要的商品粮产区，研究秦岭南北地区干旱时空变化特征，有利于对农业进行规划。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气象资料来源于中国气象局国家气象信息中心资料服务室，选取1960—2016年秦岭南北地区47个地面气象站点(图1)逐月平均气温、降水量等实测资料。本文使用数据为均一化订正后的数据，均通过均一性检验和质量控制，具有很好的连续性。本文以月份、季度和年为时间研究尺度，以3～5月为春季，6\\~8月为夏季， $9 \\sim 1 0$ 月为秋季，11～翌年2月为冬季。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1标准化降水蒸散指数SPEI为标准化降水蒸散指数,按照公式进行计算[20]。SPEI具有多时间尺度特征，1个月时间尺度的SPEI值可以较为清晰地反映旱涝的细微性变化;3个月时间尺度则可以反映季节的干旱发生情况，与农业干旱关系密切[21];12个月可以反映干旱的年际变化[16],干旱变化比较稳定。因此，主要分析1个月、3个月和12个月时间尺度的SPEI值来反映研究区域的干旱情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2干旱发生强度把连续3个月发生轻度干旱或以上（SPEI月尺度数值），称为一次连续干旱过程[7]。按照一次连续干旱过程的定义,筛选出所有连续3个月发生轻度以上干旱的SPEI月尺度数值，按照相关文献[12]中对于干旱的分级值和概率（表1)给月尺度的SPEI进行赋值，计算其均值作为研究点的干旱发生强度。具体公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { _ { S P E I } } = \\frac { 1 } { n } \\times \\sum _ { i = 1 } ^ { n } G _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $K _ { s P E I }$ 为单站给定日期动态气象干旱发生强",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "104°E 106°E 108°E 110°E 112°E 114°E 116E 118E  \n36N 1 36N  \n35°N 秦岭以川 ·运城 ·阳城 ?新乡 NΛ 35N  \n34°N 武功 ·西安 ·华山 ·三门峡·孟津 卢氏 ·郑州昌封 0 20Q 34°N坪秦岭南坡·商县 栾川 ·宝丰 ·西华 L km略 销 ·西峡·南阳  \n33N ·汉中 石泉 33N财 ·驻马店 图例·安康  \n32°N 元 万源 汉水流域·房县 ·老河口枣阳 ·信阳 气象站点 32°N阆中·巴中 广水 ·分界线  \n31N ·达县 巴巫谷地·巴东 ·钟祥 高程／m 31N·梁平 ?天门 高：3546·万县 ·宜昌·荆州  \n30°N 低：7 30N104°E 106°E 108E 110°E 112°E 114°E 116°E 118E",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "度； $G _ { i }$ 为单站一次干旱过程中 SPEI平均值的累积概率， $n$ 为给定日期内发生连续干旱次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1干旱发生等级SPEI值与累计概率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/50fb9dd59a311430bd2debe50854371b61909e1a1877ea5ef9cf2528270873a9.jpg",
+        "table_caption": [
+            "Tab.1SPEI drought gradation hierarchies and corresponding cumulative probability "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>极端干旱 严重干旱 中度干旱 轻度干旱</td><td></td><td></td><td>正常年份</td></tr><tr><td>SPEI</td><td>≤-2.0</td><td>≤-1.5</td><td>≤-1.0</td><td>≤-0.5</td><td>-0.5~0.5</td></tr><tr><td>累计概率／%</td><td>2.28</td><td>4.40</td><td>15.87</td><td>30.85</td><td>50.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 干旱时间特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 不同时间尺度的 SPEI对比秦岭南北地区不同时间尺度下SPEI值波动规律明显不同，随着时间尺度的增大，波动整体呈现逐步减小趋势，但是3个月时间尺度的波动幅度在1997—2001年的波动幅度加大（图2）。月尺度SPEI值波动幅度最大，季尺度和年尺度SPEI值的波动幅度较稳定。整体来说，不论月尺度、季尺度、年尺度，都可以看出，20世纪90年代秦岭南北地区经历了由湿润变为干旱的转变。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3e3b228b4a0d8aa92f5156d3c29d9743293376bdacdf2f8417558fbe2ff324c.jpg",
+        "img_caption": [
+            "图21960—2016 年秦岭南北地区不同时间尺度历年 SPEIFig.2SPEI values at different time scales in the northern andsouthern regions of Qinling Mountains from 196O to 2016"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2干旱指数的年代际和年际变化由Mann-Kendall检验可知，SPEI值在1994年开始突变降低。由图3a可知,1960—2016年秦岭南北地区的SPEI值呈现下降趋势,这说明秦岭南北地区近57a整体呈现干旱化趋势。1960—1994 年秦岭南北地区的SPEI值呈现下降趋势，但是1994—2016年SPEI值呈现上升趋势,说明秦岭南北地区开始逐步转向湿润化。由图3可知，秦岭南北地区的各个区域也呈现出不同程度的干旱化趋势,秦岭以北、秦岭南坡、汉水流域、巴巫谷地近57a的SPEI值均呈下降趋势,线性倾向率分分别为 $- 0 . \\ 1 5 4 \\ \\cdot \\ ( \\ 1 0 \\ \\mathrm { ~ a ~ } ) \\ ^ { \\ ^ { - 1 } } \\$ $- 0 . 0 6 8 \\mathrm {  ~ \\cdot ~ } ( 1 0 \\mathrm {  ~ a ~ } ) \\mathrm {  ~ \\cdot ~ } _ { \\mathrm {  ~ \\nu ~ } } - 0 . 1 \\mathrm {  ~ \\cdot ~ } ( 1 0 \\mathrm {  ~ a ~ } ) \\mathrm {  ~ \\cdot ~ } _ { \\mathrm {  ~ \\nu ~ } } - 0 . 0 5 5 \\mathrm {  ~ \\cdot ~ }$ （204$( 1 0 \\mathrm { ~ a ~ } ) ^ { - 1 }$ ,其中干旱化趋势最显著的为秦岭以北,其次为汉水流域。1995—2016年秦岭南北地区各个子区域呈现出不同程度的变化趋势，秦岭以北、秦岭南坡和汉水流域均呈现出变湿趋势，线性倾向率分别为 $0 . 1 1 6 \\cdot ( 1 0 \\mathrm { ~ a ~ } ) \\textsuperscript { - 1 } , 0 . 0 8 5 \\cdot ( 1 0 \\mathrm { ~ a ~ } ) \\textsuperscript { - 1 } , 0 . 0 3 6 \\cdot$ （ $\\mathbf { \\bar { \\rho } } _ { 1 0 \\mathrm { ~ a ~ } } \\mathbf { \\rho } _ { - 1 } ^ { - 1 }$ ;巴巫谷地呈现出干旱化趋势,线性倾向率为 $- 0 . 0 4 8 \\cdot ( 1 0 \\mathrm { ~ a ~ } ) ^ { \\mathrm { ~ } ^ { - 1 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总体来说，秦岭南北地区及各个子区域近57a均表现出干旱化趋势且变化趋势各不相同，但近22 a秦岭以北、秦岭南坡和汉水流域出现变湿趋势，而巴巫谷地呈现出干旱化趋势。从年代际变化来看，20世纪60年代秦岭南部、汉水流域以及巴巫谷地较秦岭以北地区干旱;20世纪70年代秦岭南北地区以及各个子区域均出现干旱现象；20世纪80年代秦岭南北地区干旱发生频率最低，秦岭以北和秦岭南坡地区仅1986年发生干旱现象，汉水流域和巴巫谷地地区无干旱现象发生；20世纪90年代是秦岭南北地区以及各个子区域由湿润变为干旱的转折时期，20世纪90年代后干旱发生频率大幅度增加;这主要是因为秦岭南北地区降水60年代北部增多而南部偏少，70年代均偏少，80年代降水量最大，90 年代以后减少[22]。由于秦岭南北地区20 世纪80 年代末90年代初出现明显的升温现象，以及降水的减少，导致20世纪90年代是秦岭南北地区以及各个子区域由湿润变为干旱的转折时期。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3干旱指数的季节变化从季节变化来看（表2），春季、秋季和冬季秦岭南北地区以及各个子区域均表现出干旱化趋势，干旱化趋势依次为春季$>$ 秋季 $>$ 冬季，春季干旱趋势最显著的为秦岭以北地区，其次是汉水流域；夏季仅秦岭以北表现出不显著干旱化趋势，秦岭南北地区、秦岭南坡、汉水流域和巴巫谷地呈现出不显著的变湿趋势;秋季干旱化趋势最显著的为秦岭以北和汉水流域，其次为秦岭南北地区;冬季干旱化趋势最显著的为秦岭南坡，其次为汉水流域。从年际变化来看（图略），秦岭南北地区以及各个子区域呈现出春、夏、冬季从20世纪",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9bcae4fd80b2066d9fa7f37b6f6cc428ec08c2ba7d3adc1f2ffeb8173f95933.jpg",
+        "img_caption": [
+            "图31960—2016年秦岭南北地区SPEI变化及M-K检验",
+            "Fig.3SPEI change and Mann-Kendall test in thenorthernand southern regions of Qinling Mountains of 1960—2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b918036ceb416aef824e0b11af24c5b244200c4d96643d07c808afef5405858.jpg",
+        "table_caption": [
+            "表2秦岭南北地区 SPEI指数变化趋势 $\\mathbf { \\mathcal { A } } \\mathbf { \\mathcal { C } } \\cdot \\left( \\mathbf { 1 0 } \\mathbf { \\partial } \\mathbf { a } \\right) ^ { - 1 }$ Tab.2Trends of seasonal mean maximum，minimumtemperature in the research region $\\mathbf { \\nabla } / \\mathbf { \\nabla C } \\cdot \\left( \\mathbf { 1 0 \\nabla a } \\right) ^ { - 1 }$ "
+        ],
+        "table_footnote": [
+            "注：\\*、\\*\\*分别表示相关系数通过0.05、0.01水平的显著性检验"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>春季</td><td>夏季</td><td>秋季</td><td>冬季</td></tr><tr><td>秦岭南北地区</td><td>-0.14*</td><td>0.02</td><td>-0.14 *</td><td>-0.05</td></tr><tr><td>秦岭以北</td><td>-0.19**</td><td>-0.01</td><td>-0.16 *</td><td>-0.04</td></tr><tr><td>秦岭南坡</td><td>-0.12*</td><td>0.02</td><td>-0.10</td><td>-0.08</td></tr><tr><td>汉水流域</td><td>-0.14 *</td><td>0.03</td><td>-0.16**</td><td>-0.06</td></tr><tr><td>巴巫谷地</td><td>-0.08</td><td>0.04</td><td>-0.11 *</td><td>-0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "90 年代开始呈现显著下降趋势，而秋季从20世纪80 年代开始呈显著下降趋势，且在1998—1999 年不同区域不同季节均发生大面积的严重干旱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.4不同等级干旱发生的年际变化趋势分别计算了秦岭南北地区近57a每个站点的月SPEI值,按照相关文献[12]中对于干旱的分级值（表1）,每站发生一次记为一站次，分别计算了秦岭南北地区不同等级干旱发生的站次数。由图4a可以看出秦岭南北地区严重干旱的发生频率在20世纪90 年代有一个明显的增加的趋势。由图4b可以看出，极端干旱发生频次的增长速度比严重干旱事件增长的比例大，20世纪90年代极端干旱发生频次急剧增加，达到最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20世纪90年代和21世纪初是严重和极端干旱发生频率最大的时期。李伟光[9]、王东[12]和张调风[23]分别对全国地区、西南地区和黄土高原的极端干旱发生频次进行了统计，发现极端干旱频率最大的年代和最小的年代相比，两者相差分别为4.9、2.9、1.5倍。而秦岭南北地区是4.17倍，这说明秦岭南北地区的极端干旱发生频次在年代际间差异很大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc0ef3ee612fbb707b673ae34057963ccc4b024cd66018522981cbf5d66b8262.jpg",
+        "img_caption": [
+            "图4秦岭南北地区不同年代不同等级干旱发生的频次",
+            "Fig.4Frequency of drought occurrence at diffrent levels during different years in the northern and southern regions of Qinling Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.5不同年代干旱持续时间为更全面的反映干旱变化特征，本研究对不同年代干旱事件（ $S P E I \\leqslant$ -0.5)的持续时间进行了统计(表3）。连续干旱月数达3个月以上的区域，发生次数最多的是郑州地区，57a内出现了24次；次数最少的为华山，仅出现7次。干旱时间持续最长的为8个月（出现了1次），发生在1986年的周口地区的西华县。持续时间在7个月以上的出现了10次，其中20世纪90 年代发生6次。从其他连续干旱持续时间统计结果来看，20世纪70、80年代干旱持续时间最短，之后干旱持续时间开始延长。干旱持续的时间越长，旱情则越严重，对我国农业、工业以及水利等方面的影响越大。黄承建[24]等研究了干旱对苎麻叶绿素含量的影响，结果表明干旱持续时间越长，胁迫程度越重，苎麻叶绿素含量越低，这说明干旱胁迫的持续时间和胁迫程度对叶绿素的含量具有重要影响。叶绿素是植物进行光合作用基础，所以干旱持续时间长短直接影响植物的生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c4e63932013da9f72bb344bf4a8b87fc39d734ca3864dbb08b4229af38e18cb.jpg",
+        "table_caption": [
+            "表3不同年代干旱持续时间统计表",
+            "Tab.3Statistics of drought duration in different decades "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年代</td><td colspan=\"6\">连续干旱月数</td></tr><tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>1960—1969</td><td>75</td><td>38</td><td>7</td><td>3</td><td>0</td><td>0</td></tr><tr><td>1970—1979</td><td>81</td><td>11</td><td>3</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1980—1989</td><td>55</td><td>14</td><td>2</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1990—1999</td><td>110</td><td>25</td><td>18</td><td>15</td><td>6</td><td>0</td></tr><tr><td>2000—2009</td><td>137</td><td>51</td><td>17</td><td>5</td><td>2</td><td>0</td></tr><tr><td>2010- -2015</td><td>78</td><td>30</td><td>11</td><td>2</td><td>1</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 干旱空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1干旱发生频率的空间分布特征季节尺度上，春旱主要发生在秦岭以北西部和汉水流域地区，而秦岭以北东部、秦岭南坡和巴巫谷地干旱发生频率较低，且地区差异较小(图5a)。干旱发生频率最大值为西安、阎中和老河口地区，达到 $3 7 \\%$ ，秦岭以北地区东部的新乡地区干旱发生频率最低，为 $24 \\%$ 左右,其他地区干旱发生在 $2 6 \\% \\sim 3 5 \\%$ 之间。夏旱发生频率相对春旱较高，秦岭南北地区的各个子区域均呈现出东部干旱发生频率高，西部低的特征（图5b），且各地区之间差异较大。夏旱低频区出现在秦岭南坡西部的安康地区，为 $28 \\%$ 左右;高频区出现在汉水流域东部的枣阳地区，达到 $41 \\%$ ，其他地区均在 $2 9 \\% \\sim 3 9 \\%$ 之间。秋旱发生频率呈现出秦岭以北地区高，秦岭南坡、汉水流域和巴巫谷地的干旱发生频率呈现出西部高东部低的特征（图5c），且各地区之间差异最大。发生频率最低出现在秦岭以北的运城地区和汉水流域东部的枣阳,为 $2 6 \\%$ ;发生频率最高出现在汉水流域西部的汉中，为$43 \\%$ 。冬旱秦岭南北地区各个子区域发生频率均呈现出东部高西部低的特征（图5d），大部分地区的冬旱发生频率在 $2 7 \\% \\sim 3 8 \\%$ 之间,发生频率最高区出现在秦岭以北和巴巫谷地东部的巴东和阳城，为$3 9 \\%$ 。总体来说,不同季节的干旱发生频率在空间上差异较大，主要是由于气温和降水分布不均衡，再加上秦岭山脉的影响，导致干旱发生分布具有局域性，空间上也呈现出一定的复杂性。秦岭南北地区ig.5Drought frequency distribution at diferent scales in the northern and southern regions of Qinling Mountains四季的干旱发生频率均呈现出秦岭以北地区高，而秦岭南坡、汉水流域和巴巫谷地区在空间上则表现出复杂性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "年尺度干旱发生频率呈现出秦岭以北部分地区和巴巫谷地高，秦岭南坡和汉水流域地区较低的特征（图5e），且各地区差异小。最低区出现在万州、宝鸡地区，为 $2 4 \\%$ ，发生频率最高区出现在巴巫谷地的达县地区，为 $3 9 \\%$ 左右。月尺度干旱发生频率秦岭南北地区各个子区域发生频率均呈现出东部高西部低的特征（图5f)，各地区差异小且普遍较高，均在 $31 \\%$ 以上，西部地区在 $3 1 \\% \\sim 3 3 \\%$ 之间，东部",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地区在 $3 3 \\% \\sim 3 5 \\%$ 之间。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8315910b1156a0b923a59120c0ff5b32706a832d1964c0eb78849b86e6b6851f.jpg",
+        "img_caption": [
+            "图5秦岭南北地区各尺度干旱发生频率",
+            "图6干旱发生强度空间分布特征",
+            "Fig.6Spatial distribution of drought intensity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "106°E 108°E 110°E112°E 114°E 116E  \n36N 36°N  \n35N N 35NA  \n34°N 34°N  \n33N 33N  \n32°N 32°N  \n31N 31N强度/%  \n30N 高：23.5781 30N  \n29°N 0 180km 低：14.7079 29°N106°E 108°E 110°E112°E114°E116°E",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2秦岭南北地区干旱发生强度分布特征由干旱发生强度计算方法，绘制了秦岭南北地区干旱发生强度空间分布图（图6），显示秦岭南北地区干旱发生强度呈现出中西部地区强，四周弱的特点。干旱发生程度最强的地方为陕西石泉( $1 4 . 7 \\%$ )，其次是西安、三门峡和信阳地区，干旱强度均在 $1 6 . 5 \\%$ 以下，干旱发生强度也较强。干旱发生强度最弱的地方为四川阎中 $( 2 3 . 1 \\% )$ ，其次为洛川、驻马店和万州，干旱发生强度均在 $2 2 \\%$ 以上。其余地方的干旱发生强度在 $1 7 \\% \\sim 2 2 \\%$ 之间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3秦岭南北地区干旱变化原因分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在分析秦岭南北地区干旱时空变化规律的基础上，进一步探讨旱灾成因对于监测预防干旱、减轻旱灾带来的损失有着十分重要的理论和实践意义。秦岭是我国农业、降水、气温等的重要分界线，由于其特殊的地理位置，秦岭南北地区的干旱成因主要从气候变化、海气相互作用及自然地理条件三个方面来分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "气候变化的影响主要从气温和降水两方面进行分析。研究表明[25],1951—2016 年中国地表年平均气温呈显著上升趋势,增温速率 $0 . 2 3 \\mathrm { ~ \\textdegree ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 。气温上升导致蒸发增强，加剧了干旱。1901一2016年，北京观象台年降水量呈微弱的减少趋势。20世纪80年代中期至90年代后期降水偏多，90年代末以来总体处于降水偏少阶段。胡小晖[26]等的研究结果表明秦岭南北地区气候在20世纪80年代中期发生突变，气温显著上升且降水显著减少。本文研究结果表明秦岭南北地区20世纪80年代干旱化趋势显著增加，尤其是秋季。本文研究结果与前人研究结果相一致，说明气温和降水的变化对秦岭南北地区的干旱产生重大影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "海气相互作用主要是指厄尔尼诺现象(ENSO)与拉尼娜现象（La Nina），通过对1960—2000 年出现的厄尔尼诺和拉尼娜现象与秦岭南北地区干旱进行对比分析，表明厄尔尼诺事件当年或次年秦岭南北地区均有干旱发生。如1965—1966年、1986—1987年、1994年、1997—1998年发生的ENSO与文中1966年、1985—1986年、1994年、1997年的大范围持续干旱密切联系，尤其是1997一1998年的强厄尔尼诺现象造成秦岭南北地区大范围干旱甚至全国地区[27-28]。这说明秦岭南北地区干旱受厄尔尼诺",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现象影响更大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "秦岭南北地区地处暖温带半湿润季风气候区，降水主要集中在夏季，且多雷暴雨，年均蒸发量远远大于降水量，这也是造成干旱的一个重要原因。秦岭作为地形上的天然屏障，阻挡了北上的季风，且北部地区为典型的黄土高原区，水土流失严重，黄土含水能力差，气候较干旱，而南部受东南季风和西南季风影响，气候较湿润。所以，秦岭以北地区干旱化趋势较其他子区域显著，与本文研究结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用秦岭南北地区47个气象站点的月降水和月平均气温资料，通过SPEI指数和M-K检验等方法，分析了该地区近57a不同时间尺度干旱发生频率和强度的时空变化特征，得出以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1)从时间变化上看，近57a来秦岭南北地区以及各个子区域均呈干旱化趋势，在20世纪90 年代秦岭南北地区干旱化趋势显著；但是近22a秦岭南北地区以及各个子区域均开始逐步转向湿润化趋势。在季节尺度上，秦岭南北地区四季均有变干趋势，其中秋季干旱化趋势最显著，春季次之，冬、夏干旱化趋势相对不显著。严重干旱和极端干旱发生频次均呈显著上升趋势。20世纪70、80年代干旱持续时间最短，之后干旱持续时间开始延长。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)从空间变化来看，年和季节尺度的干旱发生频率均呈现出秦岭以北地区高，而对于秦岭南坡、汉水流域和巴巫谷地地区，春季、夏季和冬季呈现出西部低东部高的特征，秋季和年尺度则呈现出西部高东部低的特征。秦岭南北地区干旱强度分布呈现出中西部强，四周弱的特点。干旱发生强度最强的地方的为陕西石泉，为 $1 4 . 7 \\%$ ，最弱的地方为四川阎中，为 $2 3 . 6 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)气温和降水的变化对秦岭南北地区的干旱产生重大影响，地表气温显著上升是导致干旱的主要原因;秦岭南北地区干旱与厄尔尼诺现象密切相关，厄尔尼诺事件当年或次年秦岭南北地区均有干旱发生；地形特征方面，秦岭山脉以及特殊的地理位置使秦岭北部地区较秦岭南部地区更趋于干旱化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文利用SPEI指数分析了秦岭南北地区的近57a不同时间尺度干旱发生的时空变化规律，弥补了以往单一尺度的局限，且考虑了蒸散对温度敏感的特点。同时，SPEI指数在秦岭南北地区应用的结果体现了对20世纪90年代以来全球气温显著升温的响应，这为其他区域干旱监测、干旱预防提供了理论参考。但是，由于干旱等级划分的不确定性，这使得干旱发生频率与等级不统一，今后应注意这方面的研究[1]。文中仅从气候变化、海气相互作用及自然地理条件三个方面来分析干旱的原因，但是造成干旱的原因有很多，比如人类活动、风速、海拔等原因。所以，有关区域干旱的成因分析还是未来需要关注的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）   \n[1］史本林,朱新玉,胡云川,等.基于 SPEI指数的近53 年河南省 干旱时空变化特征[J].地理研究,2015,34（8)：1547-1558. [SHI Benlin,ZHU Xinyu,HU Yunchuan,et al. Drought characteristics of Henan Province in 1961—2013 based on standardized precipitation evapotranspiration index[J].Journal of Geographical Sciences,2015,34(8）:1547-1558.]   \n[2］王劲松,郭江勇，周跃武,等．干旱指标研究的进展与展望 [J]．干旱区地理,2007,30(1）:61-67.[WANG Jinsong,GUO Jiangyong,ZHOU Yuewu,et al.Progressand prospect on drought indices research[J].Arid Land Geography,2007,30（1):61 - 67.]   \n[3］蔡哲,章毅之,何拥凤,等.江西省干旱洪涝的时空变化特征分 析[J]．自然灾害学报,2013,22（2）:144-149.[CAI Zhe, ZHANG Yizhi,HE Yongfeng,etal.Analysis of spatio-temporal trend characteristics of droughts and floods in Jiangxi Province[J]. Journal of Natural Disasters,2013,22(2）:144-149.]   \n[4］陈莹,陈兴伟.福建省近50 年旱涝时空特征演变一基于标准 化降水指数分析[J].自然灾害学报,2011,20（3）：57－63. [CHEN Ying,CHEN Xingwei. Evolution of spatio-temporal characteristics of flood and drought in Fujian Province for recent 50 years:An SPI-based analysis[J]. Journal of Natural Disasters, 2011,20(3):57 -63.]   \n[5］李英杰,延军平,刘永林.秦岭南北气候干湿变化与降水非均 匀性的关系[J].干旱区研究,2016,33（3):619-627.［LI Yingjie,YAN Junping,LIU Yonglin. Relationship between dryness/wetness and precipitation heterogeneity in the north and south of the Qinling Mountains[J].Arid Zone Reserach,2016,3（3）: 619 -627.]   \n[6]VICENTE-SERRANO S M,BEGUERIA S,LOPEZ-MORENO JI. A multiscalar drought index sensitive to global warming:The standardized precipitation evapotranspiration index［J]. Journal of Climate,2009,23(7):1696-1718.   \n[7]周丹,张勃,罗静,等.基于 SPEI的华北地区近50 年干旱发生 强度的特征及成因分析[J].自然灾害学报,2014,23（4)：192 - 202.[ZHOU Dan,ZHANG Bo,LUO Jing,et al. SPEI-based intensity characteristics and cause analysis of droughtin north China during recent 5O years[J]. Journal of Natural Disasters,2014,23 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4):192-202.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8] VICENTE-SERRANO S M,BEGUERIA S,LOPEZ-MORENO JI, et al.A new global $0 . \\ 5 ^ { \\circ }$ gridded dataset（1901—2006）of a multi-scalar droughtindex:Comparison with current drought index datasets based on the palmer drought severity index[J]. Journal of Hydrometeor,2010,11:1033-1043. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]李伟光,易雪，侯美亭,等.基于标准化降水蒸散指数的中国干 旱趋势研究[J].中国生态农业学报,2012,20(5)：643-649. [LI Weiguang,YI Xue,HOU Meiting,et al. Standardized precipitation evapotranspiration index shows drought trends in China[J]. Chinese Journal of Eco-Agriculture,2012,20(5）:643-649.]   \n[10］胡实,莫兴国,林忠辉.未来气候情景下我国北方地区干旱时 空变化趋势[J].干旱区地理,2015,38（2）：239－248.[HU Shi,MO Xingguo,LIN Zhonghui.Projectionsof spatial-temporal variation of drought in north China[J].Arid Land Geography, 2015,38(2) :239 -248.]   \n[11］周丹,张勃,任培贵,等.基于标准化降水蒸散指数的陕西省近 50a干旱特征分析[J].自然资源学报,2014,（4）:677－688. [ZHOU Dan,ZHANG Bo,REN Peigui,et al.Analysis of drought characteristics of Shaanxi Province in recent 5O years based on standardized precipitation evapotranspiration index[J]. Jouranal of Natural Resources,2014,（4） :677 -688.]   \n[12］王东,张勃,安美玲,等.基于 SPEI的西南地区近53a干旱时空 特征分析［J]．自然资源学报,2014,29（6）：1003－1016. [WANG Dong,ZHANG Bo,AN Meiling,et al.Temporal and spatial distributions of drought in southwest China over the past 53 years based on standardized precipitation evapotranspiration index [J].Jouranal of Natural Resources,2014,29(6）:1003 -1016.]   \n[13］许玲燕,王慧敏,段琪彩,等.基于 SPEI的云南省夏玉米生长 季干旱时空特征分析[J].资源科学,2013,35（5）：1024- 1034.[XU Lingyan,WANG Huimin,DUAN Qicai,et al. The temporal and spatial distribution of droughts during summer corn growth in Yunnan Province based on SPEI[J].Resources Science, 2013,35(5) :1024 -1034.]   \n[14］秦鹏程,姚凤梅,张佳华,等.基于 SPEI指数的近50 年东北玉 米生长季干旱演变特征[C]//中国气象学会年会,2011.[QIN Pengcheng,YAO Fengmei,ZHANG Guihua,et al.Evolution characteristics of droughts in the corn growing season in northeast China in recent 5O years based on standardized precipitation evapotranspiration index[C]//Chinese Meteorological Society,2011.]   \n[15］李敏敏,延军平.全球变化下秦岭南北旱涝时空变化格局[J]. 资源科学,2013,35（3):638-645.[LI Minmin,YAN Junping. Drought and flood spatial and temporal variation in the Qinling Mountains[J].Resources Science,2013,35(3）:638 -645.]   \n[16］宋春英,延军平,张立伟.陕西秦岭南北旱涝灾害时空变化趋 势分析[J].干旱区研究,2011,28(6):944-949.[SONG Chunying,YAN Junping,ZHANG Liwei.Temporal and spatial trends of drought and flood in the south and north of the Qinling Mountains in Shaanxi Province[J].Arid Zone Reserach,2011,28(6):944- 949.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17］李双双，延军平，万佳.全球气候变化下秦岭南北气温变化特 征[J].地理科学,2012,32（7）:853－858.[LI Shuangshuang, YAN Junping,WAN Jia.The characteristics of temperature change in Qinling Mountains[J]. Journal of Geographical Sciences,2012, 32(7) :853 -858.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18］张立伟，宋春英,延军平.秦岭南北年极端气温的时空变化趋势研究[J].地理科学,2011,31（8）：1007-1011.［ZHANGLi-wei,SONG Chunying,YAN Junping.Spatio-temporal trends of an-nual extreme temperature in northern and southern QinlingMountains[J].Journal of Geographical Sciences,2O11,31（8）：1007 -1011.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］周旗，卞娟娟，郑景云.秦岭南北1951—2009 年的气温与热量资源变化［J].地理学报，2011，66（9）：1211-1218.［ZHOUQi,BIAN Juanjuan,ZHENG Jingyun.Variation of air temperatureand thermal resources in the northern and southern regions of theQinling Mountains from 1951 to 2009[J].Acta Geographica Sinica,2011,66(9):1211-1218.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20］李伟光，侯美亭，陈汇林，等.基于标准化降水蒸散指数的华南 干旱趋势研究［J].自然灾害学报，2012，（4）：84-90.［LI Weiguang,HOU Meiting,CHEN Huilin,et al.Study on drought trend in south China based on standardized precipitation evapotranspiration index[J].Journal of Natural Disasters,2O12,（4）:84 -90.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]PATEL NR,CHOPRA P,DADHWAL VK.Analyzing spatial patterns of meteorological drought using standardized precipitation index[J].Meteorological Applications,2010,14(4）:329-336. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22］宋佃星，延军平，马莉.近50年来秦岭南北气候分异研究[J]. 干旱区研究,2011,28（3）:492-498.［SONGDianxing，YAN Junping,MALi.Study on climatic differentiation in the south and north Qinling Mountains in recent 5O years[J].Arid Zone Reserach,2011,28(3):492-498.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23］张调风，张勃，王小敏，等.基于综合气象干旱指数(CI)的干旱 时空动态格局分析——以甘肃省黄土高原区为例[J].生态环 境学报,2012,21（1）:13-20.［ZHANG Tiaofeng,ZHANG Bo, WANG Xiaomin,et al.Temporal and spatial analysis of drought for recent 5O years in Loess Plateau of Gansu Province based on meteorological drought composite index[J].Ecology and Environmental Sciences,2012,21(1):13-20.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24］黄承建，赵思毅，王龙昌，等.干旱胁迫对苎麻叶绿素含量的影 响［J].中国麻业科学，2012，34（5）208-212.［HUANG Chengjian,ZHAOSiyi,WANGLongchang,etal.Effectofdrought stress on chlorophyll contents in ramie[J].Plant Fiber Sciencesin China,2012,34(5):208-212.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25］宋连春，巢清尘，周兵，等.中国气候变化监测公报(2016年)[M].北京：科学出版社,2017：6.［SONGLianchun，CHAOQingchen,ZHOUbing,et al.China climate change monitoring bul-letin(2016)[M].Beijing:SciencePress,2017:6.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26］胡小晖.全球变化下秦岭南北气候变化及其环境效应的比较 研究［D].西安：陕西师范大学,2001.［HU Xiaohui.Studyon the climatic change and its envirionmental effcts between the north and south rigion of Qinling Mountains under global change[D]. Xi'an:Shaanxi Normal University,2001.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27］殷淑燕.近40 年秦岭南北地区气候变化及与ElNino/La Nina 事件相关性分析[J].山地学报,2002,20（4）：493-496.［YIN Shuyan.Studies on the climate changes in the northern and the southern regions of the Qinling Mountains and correlated analysis between climate changes and El Nino ／La Nina phenomenon during the recent 4O years[J].Jouranal of Mountain Science,2O02,20 (4):493-496.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28］许武成，王文，马劲松，等.1951—2007年的 ENSO 事件及其特征值[J].自然灾害学报,2009,18（4)18-24.[XU Wucheng,WANGWen,MA Jingsong,etal.ENSO events during1951—2007and their characteristic indices[J]. Journal of Natural Disasters,2009,18(4):18-24.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal variations of drought in northern and southern regions of Qinling Mountains based on standardized precipitation evapotranspiration index ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GAO Tao-tao2，YINShu-yan’，WANGShui-xia (1CollegeofGeographyScienceandTourism,Shaanxi Normal University,Xi'an70l19,Shaanxi,China；2National Demonstration CenterforExperimental GeographyEducation(Shaanxi NormalUniversity）,Xi'an70l19,Shaanxi,China） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Drought disaster is one of the significant natural disasters inthe northern and southern regions of the Qinling Mountains,and itaffcts people'sdailylifeand social production todiffrent degrees.In thispaper,based on the observed meteorological data from 47 meteorological stations in the northern and southern regions of the Qinling Mountains from 196O to 2O16,and using standardized precipitation evapotranspiration index（ $S P E I$ ）at different scales as one month,three months and twelve months,combined with M-K method and ArcGIS spatial visualized analysis,we analyzedthe spatio-temporal evolution characteristics ofthe frequencyand intensityof drought at diferent time scales in the Qinling Mountains,and revealed the drought causes.The results showed that the $S P E I$ value effctivelyreflectedthedroughtcharacteristics,andtheevolutionofthedryand wetof the northernand southernregions of the Qinling Mountains.As the time scale got increased,the amplitude of the SPEI was decreased and drought frequency was decreased.From the standpoint of time,there was an obviously growing trend in frequency of drought in recent57 years,especialy in the 199Os,the most significant area of drought is the northern of Qinling Mountains,but in thelatest22years,itbegan withthe trendofhumidification inboth the northernand southernregions of Qinling Mountains.From the seasonal perspective,most parts of theregion tend to be droughtyin all seasons,the trend of drought was the most significant in autumn,folowed byspring,winter and summer drought.From the standpoint of space,drought occurred in both the northernand southern regions with a significant diference in diffrentregions.The frequencyof droughtoccuence in the northern of Qinling Mountains is high,and the spatial distribution of drought frequency inother sub-regions is morecomplicated.Itis mainlydue to thenon-uniform distributionof temperatureand precipitation,coupled with the influence of the Qinling Mountains.The droughtintensity distribution showed higher values in the mid-west region,and lower valuesaround the Mountains.The maximum drought intensity value of $1 4 . 7 \\%$ was recorded in Shiquan,Shaanxi Province,and the minimum, $2 3 . 6 \\%$ ,occurred in Yanzhong,Sichuan Province.The intensity of drought in the rest of the region is between $1 7 \\% - 2 2 \\%$ . The changes in temperature and precipitation have a significant impact on the drought in the northern and southern regions of the Qinling Mountains,theElNino phenomenon is closelyrelatedto droughtandthe influenceof special geographical location. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words：standardized precipitation evapotranspiration index; meteorological drought；drought intensity；the northern and southern regions of Qinling Mountains ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,671 @@
+[
+    {
+        "type": "text",
+        "text": "Introduction to terminologies of tooth enamel microstructures and a proposal for their standard Chinese translations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MAO Fang-Yuan'LIChuan-Kui'MENG Jin1,² LIQian’BAIBin1 WANG Yuan-Qing1.3 ZHANG Zhao-Qun1,³ZHAO Ling-Xia' WANG Ban-Yue1 (1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,Chinese Academy of Sciences Beijing 10oo44,China maofangyuan@ivpp.ac.cn) (2 Division of Paleontology,American Museum of Natural History New York10o24,USA) (3 College of Earth Sciences,University of Chinese Academy of Sciences Beijing 10oo49,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractTooth enamel is composed of elongated, hexagonal crystallites of hydroxyapatite. Some crystalites are arranged into various regual structures and futher formed a composite structure in a hierarchical manner. The hierarchical system can provide a basis for analysis different levels of structural complexity from varitaiton of particular crystalite strucutes to variation of structural types throughout a individual's dentition.The size,orientation,distribution and the packing patterns of crystallites are gene-comtrolled and have limited range of intraspecific variability. Thus,these microstructures provide considerable and reliable morphological characters that help understanding of external dental morphology in context of both phylogeny and function in vertebrates. Because teeth are highly resistant to weathering, mainly owing to their enamel covering,so that they were commonly preserved as fossils.This organic system, particularly their microstructures,has atracted more and more attention from vertebrate paleontologists and other morphologists. However, as already recognized by many previous studies, some terminologies of the enamel microstructures have been complex and used inconsistently.Although considerable effort has been made to study enamel microstructures in China during the last few decades, a standard terminology of enamel microstructures in Chinese has not be formally brought into line with that in English literatures.Here we intend to introduce and systematize the relevant terminology used in the study of enamel microstructures and translate them into Chinese,in hoping that this systematic effort will enhance researches of enamel microstructures in China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牙齿釉质显微结构术语简介和规范汉语译名的建议",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "毛方园 李传夔 孟津1.2 李茜白滨1 王元青13张兆群1,3 赵凌霞 王伴月1",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2美国自然历史博物馆，古生物学部 纽约10024)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3中国科学院大学地球科学学院北京100049)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "摘要：脊椎动物牙齿釉质显微结构具丰富的形态学特征，承载着系统发育和生物力学等方面的信息。本文在前人的研究基础上，试图系统地介绍牙釉质显微结构的基本内容，提出牙釉质研究中相关术语的中文译名建议，并对一些重要术语做了简要解释，供相关研究者参考，以期促进牙釉质显微结构研究的进一步发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：牙齿釉质，显微结构，术语，名词解释，汉语译名 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究历史",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脊椎动物牙齿硬体由构成牙齿主体的牙本质(dentin)和覆盖其冠面的牙釉质(enamel)两种矿化组织构成。牙本质中央为一髓腔(pulp),其中的牙髓含血管和神经，通过根尖孔与牙周组织连通，能终生形成牙本质。大部分哺乳动物的牙体有一薄层支持结缔组织，包裹牙根并附着于颌骨牙槽中，该结缔组织称为白垩质(cementum,图1A)(Nanci,2008)。牙冠的釉质由有序的矿化晶体排列构成，形成复杂多样的显微结构，具有低孔隙度和高无机质含量的特征，是哺乳动物身体中最硬的组织，可以抵抗巨大的咀嚼压力和摩擦力，以及口腔环境的化学酸蚀(Boyde,1964)。釉质覆盖的牙齿的宏观外形和显微结构在埋藏后不易产生变形和变质(Brudevold and Soremark,1967),通常在化石材料中保存较好，是古生物学研究的重要内容(Korvenkontio,1934)。现代技术的发展，使研究者能够更好地提取牙釉质中含有的分类学、古生物学以及组织学等方面的信息，有关牙釉质显微结构的研究也受到了越来越多学者的重视(Pfretzschner,1992;Koenigswald,1994a,b,1997a,b,c,2012; Martin,1999; Stefen,1999; Vislobokova and Dmitrieva,2000)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近几十年来，在不同的生物类群研究中和不同的学者间，釉质结构术语的使用差别很大，一些概念的理解易产生混淆。很多学者对这些术语及其历史变革和相关问题做了相应的论述(Boyde,1964; Koenigswald and Clemens,1992; Koenigswald and Sander,1997;Sander,1997,1999)。我国一些古生物学者也相继开展了化石牙齿釉质显微结构的形态分类、系统发育和个体发育等研究(Zhang and Ouyang,1988;Ouyang and Huang,1991;Ouyang and Xu,1993; Zhao and Zhang,1994; Ouyang, 1998; Wang and Ouyang, 1999; Zhao etal.,1999,2003; Hu and Zhao,2012; Li and Meng,2013; Mao et al.,2014,2015,2016,2017)。但这些研究与现代口腔组织学在有关牙釉质结构的中文术语上并没有适当的统一，在古生物学研究中也存在某些不一致性甚至误区。因此，本文在前人的研究基础上，比较总结了中、外专家的观点意见，介绍了牙釉质微细结构的基本内容，提出了牙釉质研究中相关术语的中文译名建议，并对一些重要的术语做了简要解释，供相关研究者参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/883fe17e68bd50b6b86ecab88b7c863476e4b0ea807a02450310a60d3f3b7da7.jpg",
+        "img_caption": [
+            "图1牙齿解剖结构及切面示意图",
+            "Fig.1 Schematic diagram of tooth anatomical structure and the mostly used planes of section (modified from Nanci, 2008) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A.tooth anatomical structure 牙齿解剖结构；B.schematic diagram showing the sections of teeth 牙齿切面示意图 anatomical crown 牙冠；bone 骨质；cementum 白垩质；cross-section 横切面；dentin 齿质；   \nenamel 釉质；enamel dentin junction (EDJ)釉-齿质界面；longitudinal section 纵切面；outer enamel surface (OES)釉质外表面；pulp 牙髓；tangential section 弦切面；tooth root牙根 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 切面角度及相关结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "牙齿釉质显微结构的研究，定位是基本要求。目前常用的方法是获取纵、横和弦三个基本釉质切面信息，而不只限于二维切面的观察，从而综合探讨、正确理解釉质三维组合结构(Koenigswald and Sander,1997)。除了三个基本的切面，釉-齿质界面以及釉质外表面对于釉质显微结构的定位也非常重要。这5个面(图1)的基本含义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "釉-齿质界面(enamel dentine junction,EDJ）牙齿釉质与齿质之间的界面，为釉质发生开始的界面；釉质与齿质的成分和晶体结构有明显差别，界面清楚。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "釉质外表面(outerenamelsurface,OES）釉质层的最外表面，为釉质发生终止的界面；此面通常很光滑，但在有些类群的牙齿中，也会有不同纹饰出现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "纵切面(longitudinal $\\scriptstyle  [ =$ sagittal]section）门齿、犬齿或尖形齿的纵切面为平行于牙齿长轴的切面，它能最大深度地从EDJ到OES暴露釉质层，将牙齿平分为两半(Wahlertand Koenigswald,1985);非单尖的异形齿(比如白齿)的纵切面，通常为前-后向或颊-舌向，垂直于牙齿咀嚼(冠)面的切面。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "横切面(cross[=transverse] section）通常为垂直于牙齿长轴和纵切面，且平行于牙齿冠面(对白齿而言)的切面，同样需要从EDJ到OES暴露釉质层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "弦切面(tangential[=frontal] section）平行于牙齿OES和EDJ的切面。此切面仅通过釉质层，未暴露齿质。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 非周期性显微结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从形成过程看，牙齿釉质有两种主要结构：一种是由晶体排列组合而成，含有大量形态分类、系统发育和生物力学信息，但基本不含个体发育信息的非周期性显微结构(Koenigswald and Clemens,1992),是牙齿釉质结构中的主要内容，于本节着重介绍；二是能记录牙齿发育信息的周期性渐增特征，记录个体发育信息的周期性釉质显微结构(Smithetal.,2003),参见第4节。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从微观形态上牙齿釉质可粗略分为两大类，一是釉柱釉质(prismatic enamel)，二是无釉柱釉质(prismless enamel)。前者常见于哺乳动物的牙齿中，曾经被认为是哺乳动物和爬行动物的区别之一(Grine etal.,1979a,b;Grine andVrba,1980)；后者常见于爬行动物和早期鸟类牙齿(Sander,1999;Wood et al.,1999;Abdala and Malabraba,2007)。Koenigswald and Clemens (1992)以不同的晶体组合，将哺乳动物牙齿非周期性的釉柱釉质按结构复杂程度分为5个釉质微细结构层级(levels of complexity),用来描述和分析从牙釉质显微晶体结构到齿列整体变化的形态特征。这个釉质微细结构层级，界定了不同层级中釉质结构的讨论范围，适用于哺乳动物牙釉质显微结构的大部分描述和对比，为系统发育和形态功能研究提供了一系列详细且可以比较的特征。Sander (1997,1999)在系统研究了43类爬行动物的牙齿釉质后，将这个层级推广至爬行动物的无釉柱釉质(图2),扩展了该层级的适用范围，并融入了一些更为细致的内容，同时尽量保持了术语的前后联系和一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文综合了上述研究中提出的基本术语系统，辅以简图和啮形类门齿釉质显微结构图片，介绍了牙釉质各个层级上常见的一些特征和结构，将中文译名和相关英文术语、结构对应，对一些主要术语做了简单介绍。 L",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/508e35d9118953a9c08d3c5402146b7826c9a5e88d9e4fc878924f1e70ff3b45.jpg",
+        "img_caption": [
+            "图25个釉质微细结构层级示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Hierarchical approach showing five levels of structure complexity in tooth enamel(modified from Sander,1999)anterior tooth 前端牙齿；columnar enamel 柱形釉质；columnar unit 柱形单元；convergence 聚敛；crystallite level 晶体类型；dentition type 齿系类型；divergence 发散；enamel type 釉质类型；levels of compexity 釉质微细结构层级；microunit 微单元；microunit enamel微单元釉质；module level 模块类型；parallel平行；plesiomorphic prismatic enamel,PPE 祖型釉柱釉质；posterior tooth 后端牙齿；prism 釉柱；prismatic enamel 釉柱釉质；schmelzmuster 釉型结构",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 晶体类型(crystallite level) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "牙齿釉质的主要成分为羟基磷灰石，以针形微晶(crystallites)的形式存在，与骨质磷灰石微晶相比，前者更长更大(Lowenstam andWeiner,1989)。在牙釉质中，微晶按一定方向排列，组成釉质的一些基本单位和结构。Sander(1999)根据晶体在不同区域的组成模式和相对EDJ或OES釉质外表面的排列方向，将晶体类型分为如下3大类（见Sander,1999:fig. 3):",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)平行微晶(parallelcrystallites):微晶之间相互平行排列，与EDJ呈较为简单一致的角度。这种晶体排列形式一般出现在釉柱釉质靠近EDJ的最内层和靠近OES的最表层，也出现在很多无釉柱釉质中。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)微晶变向区(zones of changing crystallite orientation):微晶在该区域内连续变化方向，变化区域中晶体无间断。根据晶体相对EDJ的方向和晶体变向区域的空间限制，又分为4类：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚敛延长区(elongate zone ofconvergence）晶体在该区域沿着牙齿，或者沿着牙齿侧边延伸，相邻晶体呈聚敛状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发散延长区(elongate zone ofdivergence）晶体在该区域沿着牙齿，或者沿着牙齿侧边延伸，相邻晶体呈放射状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚敛柱形区(columnar zone of convergence）晶体在该区域从EDJ向OES延伸，呈柱状，相邻晶体聚敛相交。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发散柱形区(columnar zone of divergence）晶体在该区域从EDJ向OES延伸，呈柱状，相邻晶体呈发散状。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）微晶间断(crystallite discontinuities):两组微晶在该区域内排列方向不一致，在交会处形成间断。在该区域，也可以根据晶体相对EDJ的方向和晶体变向区域的空间限制，分为4类：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微晶聚敛面(plane ofcrystallite convergence）相邻两组晶体沿该面呈聚敛分布微晶发散面(plane ofcrystallite divergence）相邻两组晶体沿该面呈发散分布。微晶聚敛线(lines ofcrystallite convergence）晶体从四周向该线呈聚敛分布。微晶发散线(lines ofcrystallite divergence）晶体沿该线向四周呈发散分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 模块类型(module level) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模块类型这一釉质层级是用以描述釉质微晶如何排列，形成可重复模块，以及模块在三维结构上的组成形式。最常见的模块为釉柱(prism)(图3)。此外，大多数下孔类中常形成比较规则但形态不同的釉质单元。模块的大小会出现一定的变化，甚至有比较复杂的嵌套模式，即大模块由更小的规则模块组成。因此模块的大小可以从几个微米到几个毫米。常见如下几个模块类型(见Sander,1999:figs.5,9):",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）釉质单元(enamelunit):最小的规律重复釉质模块。每个单元由晶体间断面分隔，垂直于釉质的分泌面。一般而言，一个单元会由完整的间断面界定，当这个面不明显时，可通过大角度的晶体相交面来识别单元边界。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "发散柱形单元(columnardivergenceunit）长大于宽，由微晶聚敛面或区为边界的柱形釉质单元。横截面一般为多边形，单个柱形单元中，晶体由中心向外发散，该发散中心可呈点、线或面状。发散柱形单元为无釉柱釉质中最常见的组成单元。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "聚敛柱形单元(columnarconvergenceunit）长大于宽，由微晶发散面或区为边界的柱形釉质单元。晶体在釉质单元中心聚敛，呈点、线或面状。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "微单元(microunit）直径约为一至数微米，长度不超过 $1 0 ~ { \\mu \\mathrm { m } }$ 的小型釉质单元，所含微晶数少，晶体从单元中心呈小角度发散，并与相邻微单元相连接。其定义主要为单元中心的发散线或面，而非界定其边界的间断面，一般不具有生长线。微单元一般出现在最紧靠EDJ的釉质薄层中，单元垂直EDJ。微单元也可组成更复杂的结构单元，如下面介绍的复合单元。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "微晶束(crystallite bundles）大小位于微晶和微单元之间的釉质单元。其中微晶相互平行，无发散或聚敛状，通常具有生长线，一般位于EDJ或OES附近，由刚分化完成或处于釉质分泌后期的成釉细胞分泌的薄层釉基质形成，由于此时细胞突还未形成或已经消失，釉质中无釉柱或者釉质单元，但由于成釉细胞后退，釉质形成层层生长线。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "复合单元(compoundunit）由很多柱形单元或者微单元在空间上规律排列组合而成的一个更高阶的单元，其边界由微晶间断面或微晶变向区界定。单元组成在排列上有很大的变化，其发散轴可存在于单元中心，也可偏向一边，因此复合单元比较难以界定和描述。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)釉柱(prism或enamel rod):哺乳动物牙齿釉质中最常见的规则釉质模块，一般由极长的平行晶体组成束，形成釉柱的主体部分，以一定角度有规律地从EDJ向OES延伸(Wood and Stern,1997;Sander,1997)。釉柱的晶体束由釉柱鞘(prism sheaths)界定其外表面。釉柱鞘为一明显的微晶间断面，一般为微晶聚敛面。在现生哺乳动物的活体牙齿中，鞘内充填了较多的有机质。在化石中，有机质被矿物质替代。在组织学切片备样的酸蚀过程中，釉柱鞘通常容易被蚀刻而呈缝状。釉柱之间常存在短的、不成束的晶体，这些晶体的排列方向在进步类型中与釉柱体中的晶体排列方向呈不同的角度，构成釉柱间质(interprismatic matrix,IPM),分隔不同的釉柱。单个釉柱通常不分叉，也不和其他釉柱融合。此外，还存在一种称为釉质中缝(seam)的微晶间断聚敛面或线，在釉质横切面上呈裂缝状，从釉柱鞘开口向EDJ延伸入釉柱间质内，也常会不同程度地延伸进入釉柱的晶体间。中缝通常存在于一些原始类型的釉柱釉质中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "现代口腔组织学对牙齿的研究认为，釉柱的形成与造釉细胞呈一一对应的关系(Nanci,2008),即一个造釉细胞产生一个釉柱。在化石中因为无法观察细胞与釉质模块的对应性，有学者建议在古生物研究中尽量避免釉柱与细胞的对应性，仅用相关形态结构来定义釉柱(Sander,1997;Woodand Sterm,1997)。釉柱类型多样，主要根据釉柱鞘定义的釉柱横截面形态来区分，形态结构包括釉柱头(prism head)、釉柱颈(prism neck)、釉柱尾(prism tail)、釉柱间质组合形态，以及是否存在中缝。此外，釉柱的绝对大小，釉柱密度，釉柱内部及釉柱间质的晶体排列方向和排列方式，也是区分釉柱类型的一些主要特征。常见的釉柱有如下几类：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1)真釉柱(true prism):一般简称釉柱(prism)。除了具有上述釉柱的基本特征外，真釉柱常有如下规律：釉柱横截面直径一般为 $4 { \\sim } 5 ~ \\mu \\mathrm { m }$ ，无中缝一类的附属结构，釉柱排列较为规则(Sander,1997;Wood and Stern,1997)。真釉柱被认为只出现在幸存于K/Pg界线之后的哺乳动物支系中(Stern et al.,1989;Koenigswald et al.,1999;Wood et al.,1999;Wood,2000; Wood and Rougier, 2005; Krause, 2013; Koenigswald and Krause, 2014; Mao etal.,2017)。其横截面形态和二维排列方式多变，一些学者根据这些变化将其在模块类型一级分出了一些亚系，如常见的Boyde (1964)的分类系统中1,2,3型(patterm1,2,3),以及一些衍生的子类型(Schobusawa,1952; Boyde,1976; Boyde and Martin,1984),但是这些亚系并未覆盖所有哺乳动物的釉柱类型，且部分亚系包含了更高的层级信息(Koenigswaldand Sander,1997)。因此，本文建议按釉柱鞘是否开口将其分为以下两个主要类群，而不再使用这些亚系，且其下的子类群不一一叙述，其具体定义可参见相关文献；涉及到更高层级的内容，将在相应的章节分别简述。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "封闭型釉柱(closed prism） 近似Boyde(1964)的1型釉柱形态，但不包含釉柱排列信息(图3A)。横切面上釉柱完全由釉柱鞘包裹，釉柱鞘无开口，由釉柱间质分隔，但釉柱主体与釉柱间质的组合有可能形成不同的形状，如圆形、六边形和长圆形等(Schobusawa, 1952; Boyde,1964)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "拱形釉柱(arc-shaped prism）近似Boyde(1964)的2型和3型的釉柱形态，但不包含釉柱排列信息。釉柱横切面上釉柱鞘基部具开口，并由釉柱间质分隔。由于鞘开口的大小和与包围釉柱间质的排列，可形成不同的形态(图3A)。如Boyde (1964)和Gantt (1983)的3A型，其釉柱头部分为近半圆的釉质鞘，釉柱颈部不收缩，尾部收缩，并与釉柱间质融合呈\"蝌蚪形”(Shelis and Poolle,1979; Zhao and Zhang,1994); Boyde (1964)的3B型和Meckel et al.(1965)的锁孔型(key hole pattern),其釉柱头部分为大于半圆的釉质鞘界定，釉柱颈部收缩，尾部发散，并与釉柱间质融合呈\"鱼尾\"形。 ?",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2）祖型釉柱(plesiomorphic prism,图3)(Wood et al.,1999):晶体呈束状组合成釉柱主体，在横切面上釉柱鞘靠近OES一侧具开口，开口端具有一条称为中缝的晶体间断面或线，从釉柱头或者釉柱颈的部分向尾部延伸入釉柱间质。釉柱直径大小通常为2.5\\~6.5 um,被釉柱间质包裹四周且与其他釉柱分隔，釉柱不分叉。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)转换型釉柱(transitional prism) (Wood etal.,1999;Mao et al.,2017):其定义主要依据为雏形的釉柱鞘。釉柱鞘在此类釉质中，除了呈现晶体间断线或者面的结构外，还在靠近EDJ的一端出现由一些短晶体组成的与釉柱鞘形态一致的薄层，薄层内晶体与柱体内晶体呈小角度相交。转换型釉柱的中缝较长，釉柱鞘内是否具有釉柱体不是必要条件。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4)巨型釉柱(gigantoprism):类似拱形釉柱，但柱体直径较大，通常超过 $8 ~ { \\mu \\mathrm { m } }$ 。巨型釉柱仅发现于多瘤齿兽纹齿兽类(Taeniolaboid multitubercualtes)的釉质中。釉柱头部分的釉柱鞘呈拱形，其颈部、尾部的形态在不同属种和不同部位均有变化，部分类群具有中缝结构(Fosse et al.,1978; Carlson and Krause,1985; Clemens,1997; Mao et al.,2015)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/216727ee1cae0454e07938dfeaadd04aae94de25fbd0d941d49233cd4d24e7cf.jpg",
+        "img_caption": [
+            "图3部分釉柱釉质类型及相关结构示例",
+            "Fig.3Examples of prismatic enamel types formed by selected features "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.structures of prism 釉柱相关结构；B.Palaeomylus li,IVPP V14125.1,cross-section of lower incisor,   \nprimitive radial enamel with PLEX下门齿横切面，具无釉柱表层的原始放射型釉质；C.Mimotona   \nwana,V7416,PE for the cross-section of lower incisor,primitive radial enamel下门齿横切面外层，原始   \n放射型釉质；D.Heomysorientalis,V7514-l,PE for the cros-section of lower incisor,radial enamel with anastomosingIPM下门齿横切面外层，具网型间质放射型釉质 arc-shaped prism 拱形釉柱；closed prism封闭型釉柱；interprismatic matrix (IPM) 釉柱间质; parallel crystallite enamel(PCE)平行晶体釉质；plesiomorphic prism 祖型釉柱;   \nportio externa (PE)外层；prism (P)釉柱；prism head 釉柱头；prism neck 釉柱颈；prism tail 釉柱尾；; prismless external layer (PLEX)无釉柱表层；sheath(S)釉柱鞘；seam(Sm) 中缝。Scale bars ${ \\mathsf { \\mu } } { = } 5 \\ { \\mu } { \\mathrm { m } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 釉质类型(enamel type)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "釉质模块彼此平行或呈规律的交错，或直接无规律组合排列，占据釉质层一定区域，形成特定的釉质类型。釉质类型这一级别在不同的哺乳动物支系中普遍存在平行演化的现象，部分亚系只存在于特殊的类群中。由于无釉柱釉质和釉柱釉质的巨大差异(釉柱包括釉柱结构下的所有子集，如真釉柱、祖型釉柱、转换型釉柱、巨型釉柱等)，在此分两部分介绍：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)无釉柱釉质(prismless enamel)(Sander,1999) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "平行晶体釉质(parallelcrystallite enamel,PCE）由平行的晶体组成，无更高阶的晶体组合模式或更复杂的结构。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "波状釉质(wavyenamel）由错列的晶体排列而成，晶体与EDJ不垂直，而呈恒定角度，晶体还不断变化方向向OES延伸，使得晶体呈螺旋状排列。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "微单元釉质(microunitenamel)由平行的微单元组成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "柱形釉质(columnar enamel）由平行的柱形单元组成。可按柱形的形态和柱体的方向，将柱形釉质细分为更多亚型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基底单元层(basalunitlayer,BUL）为靠近EDJ的一薄层，由多边形柱状单元组成，层厚约 $5 { \\sim } 1 5 ~ { \\mu } \\mathrm { m }$ ，单元直径通常在 $1 { \\sim } 4 ~ \\mu \\mathrm { m }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "聚敛单元釉质(convergencecolumnarenamel）由平行的聚敛柱状单元组成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "复合单元釉质(compoundunitenamel)由平行的复合柱状单元组成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)釉柱釉质(prismatic enamel) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1)转换型釉质(transitional enamel, TrE) (Wood et al.,1999；Wood and Rougier, 2005;Mao et al.,2017):最先定义为一种转换釉质结构或阶段，在此定义为一种釉质类型。在转换型釉质中存在两种模块类型，主体部分为柱形单元，一定程度地向齿尖倾斜，但角度通常不超过 $4 5 ^ { \\circ }$ ；在相邻柱形单元之间出现另一种转换型釉柱的模块类型，即形成釉柱鞘的雏形，鞘多数为拱形，其排列、形态、大小和出现位置均不稳定，开口朝向OES,在釉柱鞘内，釉柱体可能不发育，具较长的中缝，位于两柱形单元之间，与柱形单元之间的微晶聚敛间断面一定程度重合，但是更宽更短，通常不延续至OES。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2）祖型釉柱釉质(plesiomorphic prismatic enamel,PPE)(Wood et al.,1999;Wood andRougier,2005):该釉质类型釉柱直径较小 $( 2 . 5 { \\sim } 5 . 5 \\mu \\mathrm { m } )$ ,釉柱鞘拱形，开口朝向OES,中缝对切釉柱，釉柱常呈六边形排列，釉柱间由釉柱间质分隔，釉柱无交错，无明显角度的变向。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3）放射型釉质(radial enamel):釉柱长轴从EDJ放射状地排列，向齿尖倾斜，延伸向OES。在延伸的过程中，釉柱与EDJ的角度可能发生变化。放射型釉柱的釉柱鞘在横切面上可以呈封闭型或拱形，也可具有或不具中缝结构。放射型釉质仅指釉柱的排列方式，其中的釉柱类型可以不同：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "原始放射型釉质(primitiveradialenamel）一般认为这是釉柱釉质的原始类型，釉柱大致呈放射状地从EDJ向尖延伸向OES,釉柱体和釉柱间质的晶体存在较大交角。原始放射型釉质在兽类和有袋类中的起源，被认为是平行演化，后发展出不同的适应策略：在有袋类中，发展出其他放射型釉质的亚系作为增加牙齿抗磨损的能力，而在有胎盘类一支，则演化出施氏明暗带来抵抗压力和磨耗(Koenigswald,2012)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "具网型间质放射型釉质(radial enamel with anastomosing IPM) (Boyde,1965）较进步的放射型釉质，釉柱体和釉柱间质的晶体不平行，呈较大夹角交叉，釉柱间质交织呈网状。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "具行间片状间质放射型釉质(radial enamel with interrow sheets) (Boyde,1965）较进步的放射型釉质，釉柱排列成行，釉柱间质呈席状贯穿釉柱之间。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "变形放射型釉质(modifiedradialenamel,MRE）釉柱排列成放射状的列，之间具有厚的夹层状间质(Pfretzschner,1994;Koenigswald,2012),常见于一些高齿冠的食草有蹄类牙齿釉质靠近EDJ的最内层。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "重脚类放射型釉质(arsinoitheriidradial enamel,ARE） 相邻两组明暗带中仅有一组具有行间片状间质，另一组为原始放射型。这一釉质类型仅发现于埃及重脚兽(Arsinoitherium)中。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "■4)弦切型釉质(tangential enamel) (Koenigswald,2000):釉柱之间平行排列，与放射性釉质不同在于前者存在釉柱的同向偏离。在进步类型中，釉柱并不向齿尖倾斜，但彼此严格平行。弦切型釉质经常与放射型釉质同时出现，在两种釉质类型的转换区，釉柱延伸角度发生变化，该变化见于一平行于EDJ的界面，被定义为釉柱同向偏离(simultaneous prism deviation, SPD)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5）不规则釉质(irregular enamel) (Koenigswald,20o0):单根或成束的釉柱不规则地交错排列，不形成规则的釉质层。但不规则釉质只出现在特别牙齿的特别区域内，并通常与放射型釉质一起出现。通常认为不规则釉质在不同类群中可能有着不同的演化起源。在有胎盘类中，大多数不规则釉质可能由施氏明暗带演化而来；而在有袋类中，可能由放射型釉质演化而来(Koenigswald,1997a,2000)。 0",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6)拉锁釉质(zipper enamel) (Koenigswald,1994a):见于牙齿两侧放射型釉质交汇成脊处，为一非常窄的沿脊条带，釉柱在此规律性地呈直角交叉组成薄层。这一釉质类型与施氏明暗带的差别主要在于其缺乏侧向延伸，即这个结构仅出现在牙齿边缘非常局限的部位。这种釉质类型仅见于有袋类。 qt",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7)施氏明暗带(Hunter-Schreger bands,HSB) (Koenigswald and Sander,1997):又称施雷格釉柱带。由一列或数列明暗带组成，明暗带内釉柱彼此平行，相邻的明暗带间釉柱呈角度相交，在牙齿切面上呈现重复的明暗交替的条带(Hunter,1778;Schreger,1800)。施氏明暗带在不同类群中变化较大，具有明显的分类和系统发育信息，也与生物力学因素相关，且具有一定程度的平行演化。在哺乳动物几大支系中，有下列常见的施氏明暗带类型：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a)在啮形类门齿研究中，釉质类型的鉴定一般多采用上、下门齿的纵切面，尤以下门齿纵切面较为清晰。通常将釉质面从EDJ到OES分为三层，依次为：内层(portiointerna,PI),外层(portio exterma,PE),以及无釉柱表层(prismless external layer,PLEX,又称为aprismatic enamel)。无釉柱表层，通常为平行微晶组成，不排除其组成单元可能为微晶束。外层则是放射型釉质，但在不同类群中，可能存在不同釉柱间质与釉柱体晶体夹角，因而出现不同的放射型釉质类型。内层则通常由施氏明暗带组成，利用单条明暗带釉柱个体数、釉柱与釉柱间质晶体的夹角、倾斜交角(inclination)、明暗带之间交角、有无过渡带(transition zone)等一系列特征，将啮齿类的釉质内层分为三类，即散系、复系和单系(图4),但三系又可细分若干亚系(Wahlert and Koenigswald,1985;Bruijn andKoenigswald, 1994):",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "散系明暗带(pauciserialHSB） 明暗带宽釉柱数目可达2\\~6个，但在同一件标本上常有变化；釉柱间质厚，其微晶平行于釉柱方向；明暗带的倾斜交角极小或为零并缺少过渡带；外层釉柱间质较厚，釉柱低度倾斜 $( 2 5 { \\sim } 5 5 ^ { \\circ } )$ ；整个门齿釉质层较薄 $( 5 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m } )$ 。散系明暗带出现在原始的啮齿类和啮型动物中，如副鼠类(paramyids)、梳趾鼠科的Cocomys属，及混齿目(Mixodontia)的Rhombomylus属等。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8546503db6b5e773da5c56acf272d17972b3939aff10935c23b10d114537b38b.jpg",
+        "img_caption": [
+            "图4啮齿类双层门齿釉质显微结构示意图及三种常见啮形类门齿施氏明暗带实例"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Schematic drawing of double-layered glires incisor enamel(modified from Martin,1999)and examples for three common Hunter-Schreger bands   \nA. pauciserial 散系(Cocomys sp.,unpublished data); B.uniserial 单系(Zelomys orientalis,Wang and Ouyang,1999); C.multiserial 复系(Hystrix sp.,unpublished data)   \narc-shaped prism 拱形釉柱；bright bands (Bb)亮带；closed prism 封闭型釉柱；dark bands (Db）暗带;   \ndentin 齿质；enamel dentine junction (EDJ)釉-齿质界面；Hunter-Schreger bands (HSB）施氏明暗带;   \ninclination 倾斜交角(在纵切面上明暗带与EDJ垂直线的交角，当明暗带与EDJ垂直时交角为零，交角显   \n示明暗带指向齿尖的倾斜度);outer enamel surface (OES)釉质外表面；plesiomorphic prism 祖型釉柱; portioexterna (PE)外层；portio interna (PI) 内层；prismless extermal layer (PLEX)无釉柱表层；   \nprism 釉柱；transition zone 过渡带(仅出现在复系中，指两个明暗带间的釉柱有序地从先一个釉柱带转 向下一个釉柱带所形成的过渡带，此过渡带宽度具一定的变化) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "单系明暗带(uniserialHSB）带宽仅为单一釉柱。釉柱间质与釉柱的方向可以是平行的(原始型),或成交角状(进步型)。而成垂直交角者，增强了三维空间的应力，被认为是最进步的。原始型最早出现在始新世中期的啮齿动物，如Pappocricedon antiquus(Wang and Dawson,1994)。 Sciuromorpha,eomyids,一些theridomyids和anomalurids都具有原始型的单系明暗带。而垂直型的单系明暗带则为出现在较晚期的Myomorpha中(Martin,1997),也被称为层状釉质(lamellar enamel)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "复系明暗带(multiserial HSB） 也称多系(Wangand Ouyang,1999),带宽为3\\~10个釉柱(多数为3\\~7个)。在多数情况下，釉柱间质与釉柱呈一定角度相交；而在最原始的属种中，两者之间则成大体平行状态，但不像散系中那样，釉柱间质厚且围绕着釉柱。两带间出现有过渡带。外层的釉柱通常是高度倾斜(可达 $8 0 ^ { \\mathrm { o \\cdot } }$ )。最早的复系明暗带出现在中始新世的cf.Tamquammys中，而Hystricognathi,非洲的Phiomorpha,南美的Caviomorpha和亚洲的Hystricidae,以及进步的Ctenodactyloidea等都具有复系明暗带。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "b)在奇蹄类的颊齿釉质中，依据明暗带相对牙齿咬合面和EDJ的方向，常见4种施氏明暗带(见Koenigswald etal.,2011:fig.4)。这4种明暗带的分类也可应用于部分偶蹄类和长鼻类(Rensberger and Koenigswald,1980; Koenigswald,1994b; Koenigswald et al.,2011)。4种明暗带在奇蹄类中包含有一定系统发育信息，通常认为横型明暗带为最原始的类型，具两种演化方向，一种发展为曲型，一种通过复合型，再演变为竖型：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "横型明暗带(transverse HSB)明暗带平行于牙齿咬合面和釉质冠面的基底，常会呈波状起伏或表现出些许变化，但总体趋势基本上依旧是横向排列。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "曲型明暗带(curved HSB） 也称U形明暗带(U-shaped HSB)。在部分类群中，横型明暗带向釉质咬合面弯曲，因而与牙齿剪切面有一定的角度。曲型明暗带只出现在非常局限的部位，通常与横型明暗带结合出现。当明暗带向不同的方向弯曲时，在两个方向上的交汇中心有一个结构称之为交界面(interface),该界面通常与牙齿OES上明显的凹相对应。曲型明暗带通常出现在较高的脊上，如发育很好的外脊和横脊。 ，",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "复合型明暗带(compoundHSB） 横型明暗带在釉质内层，竖型明暗带在釉质外层，内外层的相对厚度可能有变化。竖型明暗带的出现可能与釉质厚度，而非与牙齿形态的特殊位置有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "竖型明暗带(verticaIHSB） 明暗带基本垂直地从牙齿基底齿带延伸至咬合面，较少发生弯曲或波浪形浮动。竖型明暗带的发生与牙齿形态没有直接关系。类似于横型明暗带，竖型明暗带可能有着单向的分叉，但明暗带不发生交汇的情况，无交界面。当竖型明暗带与咬合面相交时，在明暗带上会出现特殊的条带状结构，称之为十字脊结构(cross-ridges) (Koenigswald et al., 2011)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "c）在食肉动物中，包括食肉目(Carnivora)、肉齿目(Creodonta)和部分踝节目(Condylarthra),大部分类型均具有施氏明暗带，条带通常近于平行地环绕齿冠，且有一定程度波状起伏，而这些明暗带通常被认为与生物力学因素有关(Stefen,1997,2010)。根据条带在弦切面的起伏程度，将其分为三个亚型，而起伏程度逐步递增(见Stefen,2010:figs. 1, 2):",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "波形暗带(undulatingHSB）较原始的明暗带类型，条带基本保持平直，起伏波峰波谷角度大于 $1 4 0 ^ { \\circ }$ ，在条带上任意地点可能产生分叉。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "锐角明暗带(acute-angledHSB）条带起伏增大，不规则性较波形明暗带增强，波峰波谷角度在 $1 4 0 { \\sim } 7 0 ^ { \\circ }$ 。分叉主要出现于波峰波谷处，为波形明暗带与拉锁型明暗带之间的过渡类型，常与另外两种釉质类型同时出现于同一齿系类型中。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "拉锁明暗带(zigzag HSB)(Rensberger,1995；Stefen,1997） 条带起伏振幅从EDJ向OES逐渐增强，在OES附近非常明显，起伏的脊之间的横向距离较前两类短，而纵向距离大于前两类。相邻条带可能在垂直向上重叠呈拉锁状，波峰波谷角度在 $7 0 { \\sim } 5 0 ^ { \\circ }$ ，分叉仅见波峰波谷处。此类釉质类型具有极高的、抵抗由咀嚼导致的内压的能力，通常发现于一些啃食骨头的食肉类，如鬣狗类(hyaenids)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4釉型结构(schmelzmuster) ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "这个源于德文的术语曾被译为“釉质结构”。由于“釉质结构”易与泛指的各种釉质显微、宏观结构相混淆，在此将该层级译为“釉型结构”，与其下分类级别釉质类型(enamel type)相对应。在牙釉质研究中，釉型结构是不同层次釉质结构中最具有信息量的一级(Koenigswald et al.,1994),指单颗牙齿釉质类型组成的三维空间结构，可能由一种或多种釉质类型组成(Koenigswald,1980,1982)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "例如，Palaeomylus的下门齿中，釉质厚度约为 $3 0 ~ { \\mu \\mathrm { m } }$ ，釉质层为单层放射型釉质，具薄的无釉柱表层；釉柱无交错，釉柱向齿尖倾斜 $1 5 ^ { \\circ }$ 。釉柱横截面为不规则圆形至椭圆形，釉柱间质极厚，间质晶体与釉柱长轴具一定夹角，间质晶体近似垂直于EDJ(图5)。而在Mimotonawana和Heomysorientalis的门齿中，门齿釉型结构是由外层的放射型釉质和内层具施氏明暗带釉质两种釉质类型构成，但具有一定程度的差别(图6,7)。如M.wana的釉质厚度约为 $9 0 { \\sim } 1 3 0 ~  { \\mu \\mathrm { m } }$ ，双层釉质，具薄的无釉柱表层；外层为放射状釉质层，占整个釉质厚度的 $40 \\%$ ；内层具施氏明暗带，施氏明暗带厚度为 $3 { \\sim } 1 0$ 个釉柱宽度，但通常为4个釉柱左右，明暗带倾斜交角为 $5 0 ^ { \\circ }$ ；内层釉柱横截面为不规则圆形，外层为长圆形；釉柱间质较厚，釉柱间质晶体与釉柱长轴呈一定角度。 $H .$ orientalis的釉质厚度约为 $1 2 5 ~ { \\mu \\mathrm { m } }$ 。釉质双层，外层为薄的放射型釉质层，占整个釉质厚度的 $30 \\%$ 。内层具施氏明暗带，施氏明暗带厚度为2\\~11个釉柱宽度，倾斜交角为 $1 0 { \\sim } 3 0 ^ { \\circ }$ ，明暗带间没有过渡区域，釉柱横截面在内层为不规则圆形，釉柱间质与釉柱长轴近似平行；在外层为卵圆形，釉柱间质与釉柱长轴具较大交角；釉柱间质较厚。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd5db2805bb9062f12a543e908a62a3f578fc31dea70e8a41c30d1ed48613718.jpg",
+        "img_caption": [
+            "图5李氏古白齿兽(IVPPV14130.2)下门齿釉型结构 Fig.5Incisor schmelzmusterofPalaeomyluslii (IVPPV14130.2) A.cross-section 横切面；B.longitudinal section 纵切面.prismless external layer (PLEX)无釉柱表层 Scalebars ${ \\mathrm { : = } } 1 0 { \\mu \\mathrm { m } }$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在一个动物的齿列中，不同牙齿，比如门齿和臼齿，会有不同的形态和功能，它们的釉型结构就可能会有不同。如啮齿类的白齿与其门齿的釉型结构存在明显差异，其白齿釉型结构可细分为下列三种(见Koenigswald,2004:fig.1):",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/5076e717c941fca58ab6aff5887cfdc1d5e8c11ae65f03eaa5db83a94a761807.jpg",
+        "img_caption": [
+            "图6安徽模鼠兔门齿釉型结构",
+            "Fig.6 Incisor Schmelzmuster ofMimotona wana "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Left upper incisor 左上门齿(IVPP V 7518): A.cros-section 横切面；B.longitudinal section 纵切面; Right lower incisor 右下门齿(IVPP V17715): C.cross-section 横切面；D.longitudinal section 纵切面 bright bands (Bb)亮带；dark bands (Db)暗带；portio externa (PE）外层；portio interna (PI）内层; prismless external layer (PLEX)无釉柱表层。Scale bars ${ \\mathop { = } } 1 0 ~ { \\mu \\mathrm { m } }$ （20 ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/135a56bb7d3ddd3c1f1678c915c2b8986d9a1a536aeb6e1b2763cf5536157243.jpg",
+        "img_caption": [
+            "图7东方晓鼠门齿釉型结构",
+            "Fig.7Incisor Schmelzmuster of Heomys orientalis "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "per incisor 上门齿(IVPP V 4321, holotype):A.longitudinal section 纵切面；B.cross-section 横切面； Lower incisor下门齿(IVPPV 7514): C.longitudinal section 纵切面；D.cross-section 横切面 bright bands (Bb)亮带；dark bands (Db)暗带；portio externa (PE)外层；portio interna (PI) 内层 Scalebars ${ \\mathop { = } } 1 0 ~ { \\mu \\mathrm { m } }$ （204号 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "P一釉型结构在啮齿类的白齿中，放射型釉质为釉质的主体，有些种类中可能会有釉柱的交错，但不形成任何规律性。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "S一釉型结构施氏明暗带厚，每个带由4\\~10列釉柱构成，通常平行于齿冠咬合面，从牙冠基部到冠面存在于白齿釉质的整个侧壁，在松鼠科的松鼠属(Sciurus)比较典型。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "C一釉型结构牙冠的上部为放射型釉质，而在牙冠基部由层状釉质形成的环状，称为层状釉质基环(basal ringof lamellar enamel,BRLE)。层状釉质由特化的施氏明暗带构成，每个带只有一排(单层)釉柱，相邻两层中，釉柱延伸方向近于垂直。首次从仓鼠科的原仓鼠属(Cricetus)中报道而得名(Koenigswald,1980,2004)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.5 齿系类型(dentition type) ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "指单个动物个体齿列中所有的釉型结构组合。在高阶元对比研究上，齿系类型是非常重要的。已有的研究结果显示，同型齿在齿列不同的牙齿上，釉质显微结构没有太大的变化。现今主要发现在兔形类、啮齿类和犀类等的异形齿的齿系类型中，在不同牙齿上有较大的差别。如在同一个动物个体中，门齿和臼齿的釉型结构会不同(Koenigswald,1997c)。具有低冠齿的啮齿类中，白齿中的釉型结构通常没有门齿中那么特化；而在有高冠齿的种类中，白齿的釉型结构会比门齿的更特化复杂。这种门齿和白齿釉型结构的明显差别，在很多哺乳动物中都存在。一般情况下，这种差别可以归因于不同部位牙齿的功能作用差异，被认为与牙齿的形态分异有着重要联系(Koenigswald.1988)。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4 周期性釉质显微结构",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "牙齿表面和内部保留着周期性的发育记录，即牙齿生长线，可以反映牙齿釉质在生长过程中以不间断地叠加釉质层的方式逐渐形成，生长线记录着该组织节律性的生长发育变化(Koenigswald and Clemens,1992)。在釉质的显微结构中，两种周期性生长纹常用于牙齿生长发育研究：釉柱横纹(enamel prism cross-striations)为一种日周期的生长纹，表现为沿釉柱长轴的规律性间隔横纹；芮氏线(Retzius lines)为一种长周期的生长纹，表现为从EDJ走向侧部OES一系列间隔规律的纹路(图8,Bromage et al.,1985)。芮氏线伸达釉质表面形成的规律纹路，则被称之为釉面横纹(perikymata,Risnes,1986)。",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/4521b0dfe0160ab98369bf3890242ff59ada2e83ba35da454907c704e693a2dc.jpg",
+        "img_caption": [
+            "图8多尖牙齿周期性釉质显微结构示意图",
+            "Fig.8Schematic for the accretional enamel structures of a multi-cusped tooth (modified from Risnes,1986; Mao et al.,2014) cross-striations 釉柱横纹；cuspal enamel 尖部釉质；enamel dentine junction (EDJ)釉-齿质界面; first continuous Retzius line 首条连续芮氏线；first lateral Retzius line 首条侧部芮氏线; lateral enamel侧部釉质；outer enamel surface(OES)牙釉质外表面；prism 釉柱; striae ofRetzius 芮氏线 "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "致谢李世杰、周伟化石修理，张文定辅助电镜拍照，邱铸鼎、童永生先生提出重要评审意见，在此表示由衷感谢。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Supplementary material can be found at the website of Vertebrate PalAsiatica (htp:/english.ivpp.cas.cn/sp PalAsiatica/vp_list/) in Vol. 55,Issue 4. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "AbdalaF,MalabarbaMC,2oo7.Enamel microstructure in Exaeretodon,aLate Triasic South American traversodontid (Therapsida: Cynodontia).Rev Bras Paleontol,10(2): 71-78   \nBoyde A,1964.The structure and development of mammalian Enamel.Ph.D thesis.London: University of London. 1-36   \nBoyde A,1965.The structure of developing mammalian enamel.In: Stack MV,FearnheadR Weds.Tooth Enamel.Bristol: John Wright. 163-167   \nBoyde A,1976.Amelogenesis and the structure of enamel.In: Cohen B,KramerIR Heds.Scientific Foundations of Dentistry. London: Heinemann. 335-352   \nBoyde A,Martin L,1984.The microstructure of primate dental enamel. In: Waterman PGed.Food Acquisition and Processing in Primates.Boston: Springer. 341-367   \nBromageG,BoksenbergA,ClavelJetal.,1985.DetailedobservationsofNGC4151 withIUE-IV.Absorption line spectrum and variability. Mon NotR Astron Soc,215(1):   \nBrudevoldF,Sremark R,1967.Chemistryof the mineral phase of enamel. In: MilesAEWed.Structural andChemical Organization of Teeth.Vol II.New York:Academic Press.247   \nBruijn Hde,Koenigswald Wv,1994.Early Miocene rodentfaunas from theeastern Mediterranean area.Part V.The genus Enginia (Muroidea) with a discussion of the structure of the incisor enamel.Proc K Ned Akad Wet,97(4): 381- 405   \nCarlson S J,KrauseDW,1985.Enamelultrastructureof multituberculate mammals: aninvestigationofvariability.Contrib Mus Paleontol, Univ Mich,27(1): 1-50 att   \nClemens WA,1997.Characterizationof enamel microstructure and applicationof the origins of prismatic structures in systematic analyses.In: Koenigswald Wv,Sander PM eds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.267-280   \nFosse G,EskildsenO,Risnes Setal.,1978.Prism size intooth enamelofsomeLate Cretaceous mammalsandits valuein multituberculate taxonomy. Zool Scripta,7: 57-61   \nGanttDG,1983.The enamelof Neogene hominoids.In:RussellL C,Robert SCeds.New Interpretations of Ape and Human Ancestry. New York: Springer. 249-298   \nGrineFE,VrbaES.1980.Prismatic enamel: apre-adaptation for mammalian diphyodonty? SAfrJSci,76:139-141   \nGrineFE,GowCE,KitchingJW,979a.Enamelstructureinthecynodonts PachygenelusandTritylodon.ProcElectron Microsc Soc S Afr, 9: 99-100   \nGrineFE,VrbaES,Cruickshank ARI,1979b.Enamel prisms and diphyodonty:linkedapomorphiesof Mammalia.SAfr Sci, 75:114-120   \nHu R,Zhao LX,2012.Perikymataand crown formationtimeofanterior teethoffossil orangutan from South China.Acta Anthrop Sin,31(4): 371-380   \nHunter J,1778.TheNatural HstoryoftheHuman Teeth:Explaining their Structure,Use,Formation,GrowthandDiseases, $2 ^ { \\mathrm { n d } }$ ed.London: J. Johnson.1-253   \nKoenigswald W v,1980.Schmelzstruktur und morphologie in den Molaren der Arvicolidae (Rodentia).Abh Senckenberg Naturforsch Ges, 539:1-29   \nKoenigswald W v,1982.Enamel structure in the molars of Arvicolidae (Rodentia,Mammalia),a key to functional morphologyand phylogeny.In: Kurten Bed.Teth:Form,Fuction,and Evolution.New York:Columbia University Press.109-122   \nKoenigswald Wv,1988.Enamel modification in enlarged front teeth among mammals and the various possible reinforcements of the enamel. Mem Mus Natl Hist Nat, C53:148-165   \nKoenigswaldWv,1994a.Diferenzierungen im Zahnschmelz der Marsupialiaim Vergleich zuden Verhaltnissen bei den Placentalia (Mammalia).Berl Geowiss Abh,E13: 45-81   \nKoenigswald W v,1994b.U-shaped orientation of Hunter-Schreger bands in the enamel of Moropus (Chalicotheriidae, Mammalia) in comparison to some other Perissodactyla.Ann Carnegie Mus,63: 49-65   \nKoenigswald Wv,1997a.Brief survey of enamel diversity at the schmelzmuster level in Cenozoic placental mammals.In: Koenigswald Wv,Sander PMeds. Tooth Enamel Microstructure. Roterdam: Balkema Press.137-161   \nKoenigswald Wv,997b.Evolutionary trends in the diferentiationof mammalianenamel ultrastructure.In: Koenigswald W v, Sander PM eds. Tooth Enamel Microstructure. Rotterdam: Balkema Press.203-235   \nKoenigswald Wv,1997c.The variabilityofenamel structureatthedentitionlevel.In: Koenigswald Wv,SanderPMeds. Tooth Enamel Microstructure. Rotterdam: Balkema Press.193-201   \nKoenigswald W v,20o0.Two different strategies in e el differentiation: Marsupialia versus Placentalia.In: Teaford MF, Smith M M,Furguson M W Jeds. Development,Function and Evolution of Teeth. New York: Cambridge University Press.107-118   \nKoenigswald Wv,2004.The threebasic typesof schmelzmusterinrodent molarsand theiroccurrence in the various rodent clades.Palaeontogr A,270: 95-132   \nKoenigswald Wv,2012.Uniquediferentiationofradial enamel inArsinoitherium (Embrithopoda,Tethytheria).Hist iol, 25(2): 183-192   \nKoenigswald W v, Clemens WA,1992.Levels of complexity in the microstructure of mammalian enamel and their application in studies of systematics. Scan Microsc,6(1): 195-217   \nKoenigswald Wv,KrauseDW,2014.Enamel microstructureofVintana sertichi (Mammalia,Gondwanatheria)fromthe Late Cretaceous of Madagascar. JVert Paleont, 34(6): 166-181   \nKoenigswald Wv,SanderPM,1997.Glossryof termsused forenamel microstructures.In: KoenigswaldWvader eds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.267-280   \nKoenigswaldWv,Sander PM,Leite Met al.,1994.Functionalsymmetries in the schmelzmuster and morphology in rootless rodent molars. Zool JLinn Soc,110: 141-179   \nKoenigswald Wv, Goin F,Pascual R,1999.Hypsodonty and enamel microstructure in the Paleocene gondwanatherian mammal Sudamerica ameghinoi.Acta Palaeontol Pol,44: 263-300   \nKoenigswald Wv,Holbrook LT,RoseKD,2011.Diversityand evolutionof Hunter-SchregerBand configurationn tooth enamel of Perissodactyl Mammals.Acta Palaeontol Pol, 56(1): 11-32   \nKorvenkontio VA,1934. Mikroskopische Untersuchungen an Nagerincisiven unter Hinweis auf die Schmelzstruktur der Backenzähne.Ann Zool Soc Zool-Bot Fenn Vanamo,2: 1-274   \nKrause DW,20l3.Gondwanatheria and ?Multituberculata (Mammalia) from the Late Cretaceous of Madagascar. CanJ Earth Sci,50: 324-340   \nLi Q,Meng J,0l3.Eoceneischyromyids(Rodentia,Mammalia)fromtheErlianBasin,NeiMongol,China.VertPalAiat, 51: 289-304   \nLowenstam HA,Weiner S,1989.On Biomineralization. New York: Oxford University Press.1-336   \nMaoFY,Wang YQ,Meng Jetal.,2014.Toth crown formation timein thre Asian coryphodontids andcomparisonof life history with extant analogues.Vert PalAsiat,52: 153-170   \nMao FY,Wang YQ,Meng J,2015.A systematic study on tooth enamel microstructures of Lambdopsalis bulla (Multituberculata,Mammalia)-implications for multituberculate biology and phylogeny. PloS One 10: e0128243   \nMao FY,LiCK,Wang YQetal.,2016.The incisor enamel microstructure of Mina hui (Mammalia,Glires)and its implication for the taxonomy of basal Glires.Vert PalAsiat,54: 137-155   \nMao F Y, Wang Y Q,Bi S D et al., 2017. Tooth enamel microstructures of three Jurassic euharamiyidans and implications for tooth enamel evolution in allotherian mammals.JVert Paleont,37(2): e1278168,doi: 10.1080/02724634.2017.1279168   \nMartin T,4997.Incisor enamel microstructure and systematics in rodents.In: Koenigswald Wv,Sander PMeds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.163-175   \nMartin T,199.Dryolestide(Dryolestoidea,Mammalia)aus dem Oberen Juravon Portugal.Abh Senckenberg Naturforsch Ges, 550: 1-119.   \nMeckel AH,Griebstein WJ,NealRJ,1965.Structure of mature human dentalenamelasobserved byelectron microscopy. Arch Oral Biol,10(5): 775-782   \nNanci A,2008.Ten Cate's Oral Histology: Development, Structure nd Function, ${ { 8 } ^ { \\mathrm { { t h } } } }$ ed. St. Louis: Elsevier Health Sciences. 1-379   \nOuyang L,1998.Microstructure analysis in Tsaganomys altaicus and Eo. vs incisor enamel. Vert PalAsiat,36: 244-251   \nOuyang L, Huang WB,1991.Discussions about the method of analysis of enamel microst ucture with SEM. Vert PalAsiat, 29: 143-151   \nOuyang L,Xu QQ,1993.Enamel structureof thequidcheek teeth from theLate Pleistocene of Dalian,Liaoning.Vert PalAsiat,31: 208-216   \nPfretzschner H U,1992.Enamel microstructure and hypsodonty in large mammals.In: Smith P,TchernovEeds.Struct Function and Evolution of Teeth.London: Freund Publishing House.147-162   \nPfretzschnerHU,1994.Biomechanik derSchmelzmikrostrukturinden Backenzahnenvon Grossugern.PalaeontogA,234: 1-88   \nRensberger JM,1995.Determinationof stresses in mammalian dental enameland theirrelevance to the interpretationof feding behaviors in extinct taxa.In: Thomason Jed.Functional Morphology in Vertebrate Paleontology.Cambridge: Cambridge University Press.151-172   \nRensberger JM,Koenigswald Wv,1980.Functional and phylogenetic interpretation of enamel microstructure in rhinoceroses.Paleobiology, 6(4): 477-495   \nRisnes S,1986.A studyof certaingrowth-related structural features of maturerat and human dental enamel.Ph.Dthesis. Oslo: University of Oslo.1-39   \nSander P M,1997.Non-mammalian synapsid enamel and the origin of mammalian enamel prisms: the bottom-up perspective.In: Koenigswald W v, Sander PM eds.Tooth Enamel Microstructure. Rottrdam: Balkema Press.41- 62   \nSanderPM,199.The microstructureofreptiliantoth enamel: terminology,function,and phylogeny.Mnchner Geowiss Abh Reihe A,38:1-102   \nSchobusawa M,1952.Vergleichende Untersuchungenuber die Form der Schmelzprismen der Saugetiere.Okaijamas Folia Anat Jpn,24: 371-392   \nSchreger D,180o.Beitrag zur geschichte der zähne.Beitr Zergliederungskunst,1: 1-7   \nShellis RP,Pooll DF,1979.Thearrangementof prismsin the enamelof theanteriorteethofthe aye-aye.Scan Electron Microsc,1979(2): 497-506   \nSmith TM,MartinLB,LeakeyMG,o3.Enamel tickness,microstructureanddevelopmentinAfropithecus turkanensis. JHuman Evol,44(3): 283-306   \nStefen C,1997.Diferenciationsof Hunter-Schreger bandsofcarnivores.In: Koenigswald Wv,SanderPMeds.Tooth Enamel Microstructure. Roterdam: Balkema Press.123-136   \nStefenC,1999.Evolution of enamel microstructure of archaic ungulates (Condylarthra'）and comments onsome other early Tertiary mammals. Paleobios,19: 15-36   \nStefen C,2010.Enamel microstructure of recent and fosil Canidae (Carnivora: Mammalia). J Vert Paleont,19(2): 576- 587   \nStern D,CromptonA W,SkobeZ,1989.Enamelultrastructureand masticatory function in molars of the Americaopoum, Didelphis virginiana.Zool JLinn Soc,9 5(4): 311-334   \nVislobokovaIA,DmitrievaEL,oo.Changes inenamelultrastructureattheearlystagesofruminantevolution.PaleotolJ, 34(supp 2): S242-S249   \nWahlert JH,Koenigswald Wv,1985.Specialized enamel inincisors eomyid rodents.Am Mus Novit,2832:1-12   \nWang BY,Dawson MR,1994.A primitivecricetid (Mammalia: Rodentia)from the Midle Eoceneof Jiangsu Province, China. Ann Carnegie Mus,63: 239-256   \nWang BY, Ouyang L,199. Incisor enamel microstructure and phylogenetic positon of Zelomys. Vert PalAsiat,37: 40- 47   \nWood CB,20oo.Tooth enamel microstructure in Deltatheridium (Metatheria,Late Cretaceous of Mongolia),with comparison to some other Mesozoic mammals.Bull Paleont Soc Korea Spec Publ, 4: 127-152 N   \nWood CB,Rougier G W,2005.Updatingand recoding enamelmicrostructure in Mesozoic mammals: in search of discrete characters for phylogenetic reconstruction.JMamm Evol,12: 433-460   \nWood CB,SternDN,1997.The earliest prisms in mammalianand reptilian enamel.In: KoenigswaldWv,SanderPM eds. Tooth Enamel Microstructure.Rotterdam: Balkema Press.63-83   \nWood C B,Dumont ER, CromptonA W,1999.New studies of enamel microstructure in Mesozoic mammals: areviewof enamel prisms as a mammalian synapomorphy.JMamm Evol, 6(2): 177-213   \nZhang WD,Ouyang L,1988.A method of preparation for the studyof tooth enamel with SEM.Vert PalAsiat,26: 306- 308   \nZhao LX,OuyangL,Lu QW,199.Incremental markingsof enamelandontogenyofLufengpithecus lufengensis.Acta Anthrop Sin,18(2): 102-108   \nZhao L X, Zheng L,Gao F etal.,2003.Preliminary study on enamel microstructure of Yuanmou Miocene hominoids of China. Sci China Ser D,46(11): 1142-1150   \nZhao ZK,Zhang WD,1994.The enamelultrastructure inGigantopithecus blacki from Guangxi,China.VertPalAsiat,32: 87-97 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

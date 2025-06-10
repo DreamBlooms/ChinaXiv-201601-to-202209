@@ -1,0 +1,577 @@
+[
+    {
+        "type": "text",
+        "text": "Drift correction for single-molecule imaging bymolecular constraint field,a distance minimum metric ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Renmin Han1,2,Liansan Wang³,Fan $\\mathsf { X } \\mathsf { U } ^ { 1 , 2 }$ ,Yongdeng Zhang4,Mingshu Zhang4,Zhiyong Liu5,Fei Ren1\\* and Fa Zhang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: The recent developments offar-field optical microscopy (single molecule imaging techniques) have overcome the difraction barrierof lightand improve image resolution byafactorof ten compared withconventional light microscopy.These techniques utilizethe stochastic switching of probe molecules toovercome the difraction limit and determinethe precise localizations of molecules,which often requires a long image acquisition time. However,long acquisition timesincreasetheriskofsample drift.Inthecaseof highresolution microscopy,sample drift would decrease the image resolution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results: In this paper,we propose a novel metric based on the distance between molecules to solve the drift correction.The proposed metric directly usesthe position information of molecules to estimate theframe drift.We also designed analgorithm to implementthe metric for the generalapplication of drift corection.There are two advantages of our method: First,because our method does not require space binning ofpositions of molecules but directlyoperates onthepositions,it ismore naturalforsinglemolecule imaging techniques.Second,ourmethod can estimate drift with asmallnumberof positions in each temporal bin,which may extendits potentialapplication. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: The efectiveness of our method has been demonstrated by both simulated dataand experiments on single molecular images. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Image reconstruction techniques, Resolution,Fluorescence microscopy,Superresolution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Far-field optical microscopy has played an important role in the biological sciences.However, the imaging capacity of a conventional light microscope is fundamentally limited by the wavelength of the light.Recent developments in optical microscopy， such as fluorescence photoactivation localization microscopy(FPALM/PALM) [1] and stochastic optical reconstruction microscopy(STORM) [2,3],have overcome the diffraction limit [4] and achieved resolution values down to $2 0 ~ \\mathrm { n m }$ ,a factor of ten lower than the resolution of conventional light microscopy. These techniques exploit the stochastic photoswitching of fluorescent probe molecules and carefully choose imaging parameters to guarantee that no molecules closer together than the point spread function (PSF) width would emit signal at the same time.Because these techniques should readout a sequence of camera frames ina diffraction limited situation for the reconstruction of a super-resolution image,it is common that the image acquisition will take a long time.Typically,1,0oo-1oo,ooo individual camera frames [1,3,5,6] are needed,with exposure times of 1-100 ms per frame; this translates to several minutes to hours in total. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Long acquisition times increase the risk of sample drift during imaging [7]. Sample drift on the nanometer scale is hard to avoid as it may be caused by a variety of reasons, such as mechanical instability of instrument and vibration.Without correction, the lateral drift will smear the imageand degenerate the resolution.The drift correction problem is a special case of image registration that has been discussed for decades in medical image processing and leads into a variety of solutions.Recently, several methods have been proposed to solve the drift correction problem in the field of single molecule imaging. Fiducial markers,typically gold nanoparticles or fluorescent beads,can be incorporated into the sample.Because the brightness of fiducial markers has a high contrast to that of probe molecules [1,3] and is stable during measurement, the positions of markers can be easily tracked and their trajectory can be used to correct the drift,which makes the method quite reliable.However, the fiducial marker-based method needs beads introduced into the sample and limits our observation area.Fiducial markers also may interfere with the sample and degenerate the localization precision of the nearby probe molecules [8].To overcome the limitation of this marker-based method,cross-correlation is an alternative option. Crosscorrelation utilizes the biological structure itself, which is stationary during the measurement, to estimate the drift.Though cross-correlation avoids the problems of introducing fiducial markers,there are also several shortcomings.Generally， the positions of molecules should be spatially binned as a 2D histogram to carry out the cross-correlation analysis [9,1O]. The behavior of crosscorrelation is close relative to the localized fluorescent position density of the 2D histogram. There are two decisive factors: the parameters of spatial binning and temporal binning.First,we should carefully choose the spatial binning parameter. If the spatial binning is too coarse,i.e.,if the pixel width of the 2D histogram is too wide,smaller features of the molecular distribution will be lost. If the density of molecules in a pixel is too low, the histogram will not represent the global distribution of molecules,which may lead to the failure of the crosscorrelation analysis. Second, the choice of the temporal binning parameter also determines the number of localized positions in a temporal bin. Typically, the number of positions in a temporal bin should be sufficient to give a meaningful description of molecule distribution.However, for applications where there are a small number of localized florescent events in each frame,the temporal bins will be too large to ignore the drift within one interval, which leads to an inaccurate estimation of the overall drift. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we propose a new metric based on the distance between molecules to solve the drift correction. The proposed metric directly uses the position information of molecules to estimate the frame drift. Thus, the introduction of fiducial markers and the problems of binning the frames into 2D histogram are avoided. Since the metric directly operates on the positions,it is more natural and conceptually straight-forward for the single molecule imaging techniques.Though the choice of parameters of temporal binning is still a problem in our metric,by directly using the distance metric,just a small amount of information on the stable molecules can uncover the relationship between different frames. Therefore,the proposed method could estimate the drift with a small number of positions in each temporal bin, which may extend the potential application scenarios of our metric.We also designed an incremental algorithm to implement the metric for the general application of drift correction.Different experiments based on simulated data and real data have been carried out and the resultsdemonstrate the effectiveness of ourmethod. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The stochastic switching of probe molecules is the fun damental mechanism of single molecule imaging. The switching on and switching off phenomenon of a single molecule obeys a Poisson process in the temporal domain [10].Because the switching events of probes are asynchronous,the observation (frame) at different time points becomes a random sampling of the molecule distribution in the structure.In addition,considering the difference between the readout rate of microscopy and switching rate of probe,a florescent event observed in a frame may change or not be recorded in the next frame.Though the molecule position can be determined by various methods [11],the essence of these localization methods is fitting the distribution of the measured photon spot to that of the ideal point spread function (PSF)[12],which will unavoidablyintroduce localization error.Therefore,itisdifficult totracean identical molecule indifferent framesand we will not make any assumption about the traceability of probe molecules in our model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The super-resolution image is reconstructed from the molecule positions.The localization precision of probe molecules has a great effect on the reconstruction quality. There are three kinds of uncertainties in the localization of probe molecules.The first uncertainty comes from the localization technique itself.The fitting methods are based on a probability model and certain assumption about the ideal PSF, but the fundamental assumption may not be completely consistent with the emitter properties in each application.In addition, the observed photon distribution may be affected by background noise or mutual interference of molecules,all of which affect the localization accuracy. The second uncertainty comes from the thermodynamic instability of probe molecules.The long acquisition of single molecule imaging gives a molecule enough chance to undergo random motion.The effect of random motion is intrinsic and inevitable in the period of measurement. The third uncertainty is the sample drift. These drifts will degenerate a reconstruction image to a great degree.Fortunately, they can be compensated by the drift correction method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Imaging model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The super-resolution image is reconstructed from all the molecule positions in the frames.Here,we introduce the concept of ‘position set.A position set (denoted by $\\phi$ ） is the set of all the localized positions measured in a time interval. If the experimental environment is ideal, $\\boldsymbol { \\phi }$ （204号 will be a random sampling of the signals that depict the biological structure.However, localization error, random motion of the probe molecule and sample drift complicate the situation.Thus,we define the measured molecule position $\\vec { p }$ by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vec { p } = \\vec { p } _ { o r a } + \\vec { \\phi } _ { f i t } + \\vec { \\phi } _ { r a n } + D\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\vec { p } _ { o r a }$ is the corresponding position of probe molecule measured in the ideal condition (a position of oracle), $\\vec { \\phi } _ { f i t }$ is the calculation error of photon distribution fitting, $\\vec { \\phi } _ { r a n }$ is the uncertainty of random motion and $D$ is the sample drift.In general, the calculation error obeys a Gaussian distribution,without considering the model bias.The probable positions of a probe molecule in random motion are also assumed to follow a Gaussian distribution,according to the most recent study and experiment by Nieuwenhuizen [13].For convenience of discussion,we ignore their difference in mechanism and define them as a combination $\\vec { \\phi }$ ,i.e. $\\vec { \\phi } = \\vec { \\phi } _ { f i t } + \\vec { \\phi } _ { r a n } ~ ($ $( \\vec { \\phi }$ also obeys a Gaussian distribution).That is to say, if we already know the ideal position $\\vec { p } _ { o r a }$ of a florescent event and the drift $D$ ,the probability that a measured position $p$ corresponds to the ideal position is: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal P } r o b ( \\vec { p } ) = \\frac { 1 } { 2 \\pi \\sigma ^ { 2 } } e x p \\left( - \\frac { \\| \\vec { p } - \\vec { p } _ { o r a } - D \\| ^ { 2 } } { 2 \\sigma ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma$ is the standard deviation of $\\vec { \\phi }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For a position set $\\phi = \\{ \\vec { p } _ { j } | j = 1 , 2 , . . . M \\}$ ， the signal distribution of fluorescent probes can be described by the following density function: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi ( \\vec { x } ) = \\sum _ { i = 1 } ^ { M } \\delta \\left( \\vec { x } - \\vec { p } _ { j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta \\left( \\cdot \\right)$ is the Dirac delta function.The Dirac delta function can depict the signal distribution exactly, but there comes a problem when processing molecule position sets in which the sample drift has not been corrected. The Dirac delta function can not be used to judge the similarity between two position sets,because it does not formulate the uncertainty in the measurement.Here,we propose a novel metric to solve the problem.Our metric is based on the distance between molecules and can directly measure the similarity of signals by molecule positions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Letus consider the most simplified situation:a structure consists of two points.Figure 1 illustrates such a structure and on each point there is a florescent probe.There are three measured position sets obtained by observation and marked on Figure 1(a) by blue,red,and green points. All of the position sets havea measurable drift.The black cross denotes the ideal position of probe.We find that the observation data has deviated from the ideal position set a lot.Obviously, these three position sets are similar to each other, but the simple overlapping of the three position sets cannot depict the signal distribution successfully.In addition, such a data set cannot be corrected by the cross-correlation ofa 2Dhistogram,because there are not enough positions.The measured signal is a random sampling of the true structure.Because the structure is only composed of two points,the drift can be corrected by distance (Euclidean distance) comparison of the corresponding position in each part.Figure 1(b) illustrates the relative position of these three position sets corrected by distance comparison. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As discussed above,the distance comparison is able to correct the drift of a structure composed of two points, but it does not work in more complex situation.However, we can extend the concept of distance comparison. First of all, we should make two basic rules clear in single molecule imaging techniques: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.For different position sets that depict the identical biological structure,the distribution of their superset should be as sharp as possible.   \n2.For a given structure (distribution) that is depicted by molecule positions, the more positions there are, the better the signal strength output will be. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These rules are coincident with the criteria introduced in the recent resolution estimation work [13] and are also the guide line for drift correction.The distribution of molecule positions should obey the signal distribution of the underlying biological structure.Because of the measurement uncertainty, the molecule positions belong to different position sets,which represents the identical structure,but with slight difference.Here,we propose a new criterion,called the Point value of Molecular Constraint Field(PMCF)，to indicate the sparseness of molecule positions around a spot.For a region centered on position $p$ ,the function is given by: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( \\vec { p } ) = \\sum _ { r e g i o n } \\mathrm { F U N } \\left( \\lVert \\vec { p } - \\vec { p } _ { j } \\rVert \\right) , j = 1 , 2 \\dots M\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $\\| \\cdot \\|$ is the l2-norm and $\\vec { p } _ { j }$ represents the point located in the region. The certain form of the kernel function FUN(·) has not been given out here.FUN(·) should be a function symmetric about the $y$ -axisand depends on the real application. The summation of kernel function maps the distance between two points into a value describing the sparseness.According to the discussion of uncertainty of the image model,Gaussian function is chosen as the kernel function. Therefore, the generalized PMCF of position $p$ is defined as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ac202a1e454895f7f0627ab1a1c18a2e4559c7b2e9d45bf51c5f0de6c128014.jpg",
+        "img_caption": [
+            "FigureIllustrationofthemeasuredpositionsetanddriftorrectioninatructurecompoedoftwoemiters.(a)Measuredositiofa probe.Theblacosdenotestedealpositioftheprobe.Thbluedandgreenpointsdenotethreemeasurdpostiosoftheprobein dierentimes.dosiooftsdbpsiosueeeptsedsft corresponding observations in (a). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP M C F ( \\vec { p } ) = \\sum _ { r e g i o n } \\frac { 1 } { 2 \\pi \\sigma ^ { 2 } } e x p \\left( - \\frac { \\| \\vec { p } - \\vec { p } _ { j } \\| ^ { 2 } } { 2 \\sigma ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $\\vec { p } _ { j }$ represents the probe molecules in region and $\\sigma$ restricts the effective width of kernel function.It is not hard to extend the idea from a molecule position to a position set.Assuming there are two position sets $\\Phi _ { A }$ and $\\Phi _ { B }$ the Molecular Constraint Field (MCF) of the given two position sets is defined as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM C F ( \\phi _ { A } , \\phi _ { B } ) = \\sum _ { j = 1 } ^ { M } \\sum _ { i = 1 } ^ { N } \\frac { 1 } { 2 \\pi \\sigma ^ { 2 } } e x p \\left( - \\frac { \\| \\vec { p } _ { i } - \\vec { p } _ { j } \\| ^ { 2 } } { 2 \\sigma ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\vec { p } _ { i } \\in \\phi _ { A } , i = 1 , 2 , . . . N$ and $\\vec { p } _ { j } \\in \\phi _ { B } , j = 1 , 2 , \\hdots M$ MCF is a metric based on the conception of position sets and directly outputs the similarity of two signal distributions representedby the Dirac delta function.Note that the properties of MCF are coincident with the above basic rules.The conception of MCF is similar to crosscorrelation analysis and is connected with the concept of the Parzen-Window Density Estimation [14,15].However,MCF directly operates on the molecule positions to judge the similarity of two signal distributions,which is more conceptually straight-forward and easy to operate compared with the cross-correlation analysis of a 2D histogram. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are several properties of MCF: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Reciprocity: If $\\vec { p } _ { i }$ contributes value to the PMCF of $\\vec { p } _ { j }$ $\\vec { p } _ { j }$ will contribute equal value to the PMCF of $\\vec { p } _ { i }$ 2.Additivity: Every molecule position contributes to the PMCF of a certain region.If there are several difference regions,the molecule will have contribution to each. 3.Regionally restraint: The output of the kernel function of MCF declines to zero when the value of the distance exceeds a threshold. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Drift correction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The super-resolution image is reconstructed froma series of frames.For convenience in our later discussion，we define the positions of all the frames,i.e.,the positions composing the super-resolution image,by $\\Phi _ { a l l }$ ,and define the positions of the ith frame by $\\Phi _ { f r ( i ) }$ . Therefore, $\\Phi _ { f r ( i ) }$ is a subset of $\\Phi _ { a l l } .$ i.e., $\\forall i , \\Phi _ { f r ( i ) } \\subseteq \\Phi _ { a l l }$ . The position sets of several successive frames can be combined (temporally binned) into a union.If the frames are binned at an interval of $t$ , we defines the union set ofthe ith interval by $\\Phi _ { T ( i ) }$ i.e., $\\begin{array} { r } { \\Phi _ { T ( i ) } = \\varPhi _ { f r ( i \\cdot t - t + 1 ) } \\bigcup \\varPhi _ { f r ( i \\cdot t - t + 2 ) } \\bigcup \\ldots \\bigcup \\varPhi _ { f r ( i \\cdot t ) } } \\end{array}$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Assuming there are two position sets $\\Phi _ { A }$ and $\\Phi _ { B } ( \\vec { p } _ { i } \\in$ $\\phi _ { A } , i = 1 , 2 , . . . N$ and $\\vec { p } _ { j } \\in \\phi _ { B } , j = 1 , 2 , . . . M )$ ,the cost function $M C F ( L )$ of drift correction is given by: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM C F ( L ) = \\sum _ { j = 1 } ^ { M } \\sum _ { i = 1 } ^ { N } \\frac { 1 } { 2 \\pi \\sigma ^ { 2 } } e x p \\left( - \\frac { \\| L ( \\vec { p } _ { j } ) - \\vec { p } _ { i } \\| ^ { 2 } } { 2 \\sigma ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L ( \\cdot )$ isa transformation function, $\\varPhi _ { B }$ is movable and $\\Phi _ { A }$ is fixed. Our aim is to find an $L ( \\cdot )$ that maximizes the MCF. The choice of the shape of $L ( \\cdot )$ depends on the method of image acquisition.In most applications,the drift is assumed to be linear [9,lO],so we will make that assumption (though affine projection may occur in some cases).Therefore,in the following contents,the transformation is defined as linear, i.e, ${ \\cal L } ( \\vec { p } ) ~ = ~ \\vec { p } + \\vec { d }$ ，where $\\vec { d } = ( \\alpha , \\beta ) ^ { T }$ $\\alpha$ is the drift compensation of the $x$ -axis and $\\beta$ is the drift compensation of the $y$ -axis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As discussed in [1O],there is a difficulty in choosing the reference image when doing drift correction based on the cross-correlation analysis of a 2D histogram.To depress the deviation of the estimation error, we propose an incremental registration algorithm based on the MCF metric.Our method is summarized in Figure 2.Firstly, the position sets of frames are binned at an interval of t.Our algorithm takes $\\{ \\phi _ { T ( i ) } \\}$ and an empty reference set $\\Phi _ { r e f }$ as input. The reference position set $\\Phi _ { r e f }$ isinitialized by $\\Phi _ { T ( 1 ) }$ and the counter $i$ is set to two.Then position set $\\Phi _ { T ( i ) }$ is selected to compare with $\\Phi _ { r e f }$ and the sample drift is estimated. The drift of $\\Phi _ { T ( i ) }$ will be compensated and the positions of $\\Phi _ { T ( i ) }$ will be merged into $\\Phi _ { r e f }$ .Repeat the selection and drift compensation process until all the subset are corrected.Finally, the reference position set $\\Phi _ { r e f }$ will be output as the data for the superresolution image reconstruction. Many techniques could be utilized to solve the maximum problem,for example,Grid Searching, Conjugate Gradient.We have implemented the algorithm in $C + +$ ，based on GNU Scientific Library(GSL);it is freely available from the authors upon request. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the process of drift estimation between $\\Phi _ { T ( i ) }$ and $\\Phi _ { r e f }$ ，all the information from the previously corrected position sets are used. Therefore,according to the study ofGeisler[1O],the deviation of drift estimation error can be controlled by this incremental strategy of our algorithm.Two parameters,the $\\sigma$ of MCF and the temporal binning interval $t ,$ should be initialized.According to the Nyquist sampling theorem, the value of $\\sigma$ should be more thandouble the standarddeviationof themolecular localization uncertainty. The choice of temporal binning interval $t$ is less restricted than that in the method of cross-correction analysis.In the following experiments, we prove that our method can achieve high drift correction accuracy with very few molecule positions in each $\\Phi _ { T ( i ) }$ ,assuming the sampling has no bias. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/438ef6ce21e321f8cd11b6ed496aa86a2e80a0c69d4e282f685a72af2a25711f.jpg",
+        "img_caption": [
+            "Figure2Flowchartof the incremental drift correctionalgorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Simulated data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three simulated data sets have been designed to evaluate the performance of our method,as showed in Figure 3.The first structure,named ‘Ring; consists of 40,000 molecules randomly distributed on a ring structure with a width of $2 0 0 ~ \\mathrm { { n m } }$ . The molecules are divided into $T = 4 0$ equal step length bins (i.e., there are 4O groups of molecules and in each group there are looo molecules) with drift imposed along the $\\mathbf { x }$ -axis.Thelinear drift in time $t _ { j } , j = 1 , 2 , . . . T$ is illustrated in Figure 3(b) and the structure after the drift is shown in Figure 3(a). The second structure,named Grid',consists of 60,ooO molecules distributed on a grid structure,the thickness of the lines of the grid is $1 2 0 \\ \\mathrm { n m }$ . The molecules are divided into $T \\ = \\ 4 0$ equal step length bins (i.e., there 4O groups of molecules and in each group there are 15oo molecules) with drift imposed along X-axis and y-axis.The drift of $\\mathbf { x }$ 1 axis and y-axis in time $t _ { j } , j = 1 , 2 , . . . T$ is illustrated in ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/03188c154424662e382adfb262535632ab485169156f37f871776e7cf483072a.jpg",
+        "img_caption": [
+            "Figure3Simulateddatawithdriftimposedonthedata.(a)Super-resolutionimageofdatasetRing,whichisdegeneratedbtedrif( $1 0 \\mathsf { n m }$ perpixel).(b)Busolidpitsdenotetheeactlyiulateduestatarempodotingdataasdrit;ancdenotetestite driftsthatarecalculatedfrotedegenerateddatasetbyouralgoi.uperresolutioimageofdatasetGridichisdegeneratedbythe drift(10mperiel.dSolidpoitsdeoeteexactsimulateduestatareimpoedtGddatatsdrifterethuee to the drift along the $\\chi$ axisand theredonerefers tothedriftalongthey-axis;cyclesdenotetheestimateddrifts thatarecalculatedfrom the degenerated data set by our algorithm,where the cyan one refers to the drift along the $\\chi$ -axis and the pink one refers to the drift along the y-axis. (e)Superesutadigeatedrifel.dtectll thatarempoedonteadiodatasetasdift,hreteblueonerefrstotedrftalongaisandtedoereferstotedriftagai; cyclesdenotetetiaeddriftaaalatdodegeeatedatayouragoritrethoeferstotifto the $\\chi$ -axis and the pink one refers to the drift along they-axis. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ebefc8b18ff8072b405599c41992e1a89642000b79936e4bb9af57d0ee3e231.jpg",
+        "img_caption": [
+            "Figure4Superresolutionimagsofdriftcoecteddata(10nmperpixel).(a)uperesolutioimageofdatasetRinghichiscoered fromtedatailstratedingu.upsoutioafataetGrdchsovedaltratedi (c) Super-resolution image of data set Radio which is recovered from the data setillustrated in Figure 3(e). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 3(d) and the structure after the drift is shown in Figure 3(c).The third structure,named Radio, consists of 60,000 molecules labeled on a structure composed of two ring structures and several lines radiating from the center, where the thickness of the ring structure is $1 2 0 ~ \\mathrm { { n m } }$ and the thickness of the line is $8 0 \\ \\mathrm { n m }$ . The molecules are divided into $T ~ = ~ 4 0$ equal step length bins (i.e., there are 40 groups of molecules and in each group there are 1500 molecules） with drift imposed along $\\mathbf { x }$ -axis and yaxis. The drift of $\\mathbf { x }$ -axis and y-axis in time $t _ { j } , j = 1 , 2 , \\ldots T$ is illustrated in Figure 3(f) and the structure after drift is shown in Figure 3(e). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 demonstrates the molecule positionsafterdrift correction.The estimated drift of every data set is illustrated in Figure 3.It should be noted that the drifts estimated by ouralgorithmalmost coincide with the simulated drifts.The effectiveness of drift compensation can be evaluatedbyresiduals,whicharecalculatedas the difference between the drift estimated by ouralgorithmand the drift simulated in the experiment.The means of residual errors of Ring,Grid and Radio are $2 . 0 \\ \\mathrm { n m }$ D $2 . 8 ~ \\mathrm { { n m } }$ and $3 . 6 \\mathrm { n m }$ ,respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Quantitative analysis of the molecule positions is carried out by Fourier ring correlation (FRC)[13] for the three data sets,as illustrated in Figure 5.The resolution in super-resolution microscopy depends on the localization uncertainty,density of probe molecule positions and the sample's spatial structure.FRC is based on the homogeneity of the distribution of position sets and could give out an estimation of resolution of the super-resolution image.Figure 5(a),(b) and (c) illustrate the FRC curves of the data sets Ring,Grid and Radio that are corrupted by sample drift.Figure 5(d),(e) and (f) illustrate the FRC curves of the data sets Ring,Grid and Radio that are corrected by our method.Figure 5(g),(h) and (i) illustrate the FRC curves of the data sets Ring,Grid and Radio that are free from drift,i.e.,the original data sets that have not had drift imposed.For low spatial frequencies,the FRC curve is close to unity; for high spatial frequencies,noise dominates the data and the FRC decays to O.The fixed threshold for determining the resolution is set to 0.143, where the value of the FRC curve announces the corresponding resolution of the super-resolution image [13]. The steeper the FRC curve is,the lower the resolution of the data. The FRC resolution of Ring corrected by our method is $1 0 6 . 7 \\mathrm { n m }$ ,while the FRC resolution of Ring after drift is $8 9 0 . 0 \\mathrm { n m }$ . The FRC resolution of Grid corrected by our method is $9 1 . 4 \\mathrm { n m }$ ,while the FRC resolutionof Grid afterdriftis $7 4 4 . 0 ~ \\mathrm { n m }$ .TheFRCresolutionofRadio corrected by ourmethod is $7 8 . 6 \\mathrm { n m }$ ,while theFRC resolution of Radio after drift is $5 2 4 . 9 \\mathrm { n m }$ .As a comparison, the FRC resolutions of the original data sets that are free of sample drift are $1 0 6 . 4 ~ \\mathrm { n m }$ ， $9 1 . 2 \\ \\mathrm { n m }$ and $7 7 . 7 ~ \\mathrm { n m }$ for Ring,Grid and Radio,respectively.It should be noted that the FRC curve of data sets restored by our method are very close to the original data sets,which proves the effectiveness of our method. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because the drift correction based on MCF does not need to bin the molecule positions into a 2D histogram, our algorithm has the potential to estimate drift with a very small number of positions in each temporal bin. Figure 6 illustrates the results of an experiment based on the data sets Grid and Radio,where all the conditions are the same as the previous experiment except that there are in total 6,ooO molecule positions in every data set (150 positions for each bin).Figure 6(a)(g) illustrate the superresolution images of Grid and Radio,respectively,which are free from drift.Figure 6(b) (h) illustrate the superresolution images of the data sets that are corrupted by drift.6(c) (i) illustrate the super-resolution images of the data sets that are corrected by our method.Figure 6(d) (e) (f)(j) (k) (l) are the corresponding FRC curves.It should be noted that the super-resolution images of the corrected data sets is very close to that of sets free of drift,and theirFRC curves are very similar.Here,the FRC resolution of Grid corrected by our method is $1 1 5 . 7 \\ \\mathrm { n m }$ ，while theFRC resolution ofGridafterdriftis $7 1 7 . 9 \\ \\mathrm { n m }$ .The FRC resolution of Radio corrected by our method is 134.8 nm,while the FRC resolution ofRadio afterdriftis 553.2 nm.As a comparison,the FRC resolutions of the data sets that are free of sample drift are $1 1 5 . 7 ~ \\mathrm { n m }$ and 133.4 nm for Grid and Radio, respectively. The resolution of the data corrected by our method is almost the same as the drift free ones.To further explain the range of possible applications,an experiment performed inacritical situation (in total 1,6oO molecule positions in every data set, i.e.,40 positions for each bin) has been illustrated in the Appendix. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d06ac2f3e2e3eb9916c38f6becbdad61821106f59db8d10eda05047a5ff0e3e1.jpg",
+        "img_caption": [
+            "Figure5ResoutioestimatiobyFRC.TheredcurveisRCvaluesandtheorzontalineisth043thresold.(a)FRCcueofdatasetRing whichisdegeeratedbytedrift.b)FCcurveofdatasetGrdhicisdegeneratedythedrft.(c)FCcurveofatasetRadioichis degeneratedhedrift.dFuredtatngfedrftsectedurmeod.e)FuratatGrdichte driftiscorrecdrd.fatafdriftisdured.rtah hasnodriftimposed.)urefataseridhichsodriftmpoed.iFCureofdataetaiohchsoifed "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is also known that the position localization precision and molecule numbers per temporal bin affect the performance of drift compensation [9].Experiments in different molecule numbers per temporal bin (denoted by $n$ ）and localization precision (denoted by $\\xi$ )of data set Grid and Radio were carried out to illustrate the impact.The mean $\\Delta _ { d }$ and the standard deviation $\\sigma _ { d }$ of residual over the $T = 4 0$ temporal intervals were calculated for each simulation.Figures 7 and 8 illustrate the curves of $\\Delta _ { d }$ and $\\sigma _ { d }$ as a function of $n$ and $\\xi$ . For both Figures 7 and 8, sub-fig (a) (c) represent the same $\\Delta _ { d }$ and sub-fig (b) (d) represent the same $\\sigma _ { d }$ ,in two different views.The tendenciesof themeanresidual andthestandarddeviation of the residual under changes in $n$ and $\\xi$ are consistent. Judging from Figure 7(a) and (b),we can find that our method behaves well in the situations in which the localization precision $\\xi ~ \\le ~ 4 0$ for data set Grid.Under the condition that localization precision $\\xi \\le 8 0$ and molecule numbers per bin $n \\geq 5 0 0$ ,theaccuracyofdrift compensation by our method can reach to $2 \\sim 1 0 \\mathrm { n m }$ . Comparing Figure 8(a) (b) to Figure 7(a) (b),we find that the performance of our method in data set Radio is not as good as that in Grid when $\\xi = 8 0$ . The reason why there is such a difference is that when the localization precision reaches $\\xi = 8 0$ , the localization uncertainty is so large compared to the width of the line structure in Radio $( 8 0 \\ \\mathrm { n m } )$ that it degenerates the sampling of the molecule distribution. Our method performs not good when $\\xi = 1 2 0 ~ \\mathrm { n m }$ (the width of line in Grid) and the molecule number per bin $n$ is very small.The performance of our method is impacted by bias sampling or mal-sampling,because our method is based on the direct recovery of position distributions. Nevertheless,according to recent studies [1,13],localizationprecisions are usually controlled to $1 0 \\sim 3 5 ~ \\mathrm { { n m } }$ in 2D,which makes the low localization precision not a problem for our method. Judging from sub-fig (c) and (d),we can find that $n = 5 0 0$ is sufficient to support a good performance of our method.Additionally, if the localization precision $\\xi \\ \\leq \\ 2 0 \\ \\mathrm { n m }$ ，judging from Figures 7 and 8,we can conclude that our method can compensate the sample drift to a residual of $2 0 \\sim 4 0 \\ : \\mathrm { n m }$ with 40 molecule positions per temporal bin and to a residual of about $1 5 \\ \\mathrm { n m }$ with 10o molecule positions per temporal bin.Readers who are interest in the details of the performance of our method in the caseswhere $n = 4 0$ and $\\xi = 0$ nm can refer to the Appendix. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/977419f98f7f442f7348c2d739e8bf7028d99c6675ab872bf465daf395515a38.jpg",
+        "img_caption": [
+            "Figure6Driftorectionofthedatasetherethereare50moleculepositionsiachtemporalbin.(a)Supersolutionimagefdataet Gridhicuttddftp ofwhichtedrftrecedurmeo.dutataetisba.e)reftataiuf)f thedataetinsubfg))uperesolutiimageataetadiicasdiftmposd.upeesolutimagefdatadi whichiscorruptrf.upeestimaatafdrifeedmetdeftai sub-fig(g).(k)FRCcurve of the data set in sub-fig(h).(I) FRC curve of the data set in sub-fig(i). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5003d2fb64ed7f0f73068e7639b7718e5148c2a264100f84ead2bd7ad704be3.jpg",
+        "img_caption": [
+            "Figure7 The values of the mean $\\Delta _ { d }$ and the standard deviation $\\sigma _ { d }$ of residual over the ${ \\boldsymbol { \\tau } } = 4 0$ time intervals for the data set Grid,as a function of molecule number per temporal bin n and localization precision $\\pmb { \\xi }$ .(a) Curve of residual $\\Delta _ { d }$ in different localization precisions $\\xi$ asa function of molecule numbers n.(b) Curve of residual's standard deviation $\\sigma _ { d }$ in different localization precisions $\\xi$ ,asa function of molecule numbers n.(c) Curve of residual $\\Delta _ { d }$ in different molecule numbers ${ \\boldsymbol { n } } ,$ as a function of localization precisions $\\xi$ .(d) Curve of residual's standard deviation $\\sigma _ { d }$ in different molecule numbers ${ \\boldsymbol { n } } ,$ as a function of localization precisions $\\xi$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Super-resolution experimental data ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To confirm the effectiveness of our drift correction method for practical applications,real super-resolution experimental data isutilized. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "COS-7 cells were cultured in DMEM complete medium (Gibco) supplemented with $1 0 \\%$ fetal bovine serum and maintained at $3 7 ^ { \\circ } \\mathrm { C }$ and $5 \\%$ CO2 in a humidified incubator (Thermo).The cells were fixed with $3 \\%$ $\\left( \\mathbf { w } / \\mathbf { v } \\right)$ paraformaldehyde and $0 . 5 \\%$ glutaraldehyde in PBS for 15 to $4 0 ~ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ and washed 3 to 5 times with filtered PBS.After that, the fixed COS-7 cels were permeabilized for $1 0 \\mathrm { m i n }$ with $0 . 1 \\%$ Triton X-1oO and then blocked in $5 \\%$ bovine serum albumin (BSA，AMRESCO) diluted in PBS for $6 0 ~ \\mathrm { { m i n } }$ .The mouse anti- $\\cdot \\beta$ tubule monoclonal antibody(Sungenebiotech) was diluted 1:2oO in PBS containing $2 . 5 \\%$ BSA and added to the COS-7 cells in $3 7 ^ { \\circ } \\mathrm { C }$ incubator for $6 0 ~ \\mathrm { { m i n } }$ .After three times rinsingwith PBS, COS-7 cells were then incubated for another $6 0 ~ \\mathrm { { m i n } }$ with the Alexa Fluor 647 labeled rabbit anti-mouse secondary antibody (Invitrogen)，which was also diluted 1:200 in PBS.At last, the cells were rinsed four times with PBS and kept in a dark place. The STORM imaging buffer containedimagingbufferbase( $1 0 \\%$ glucose $\\mathrm { ( m / v ) }$ ， $5 0 ~ \\mathrm { m M }$ Tris $\\left( \\mathrm { p H 8 } . 0 \\right)$ and $1 0 \\mathrm { m M N a C l } _ { \\prime }$ ,an oxygen scavenger system $( 0 . 5 \\mathrm { m g } \\mathrm { m l ^ { - 1 } }$ glucose oxidase (Sigma-Aldrich), $4 0 \\mu \\mathrm { g }$ $\\mathrm { m l } ^ { - 1 }$ catalase (Sigma-Aldrich)） and $1 0 \\ \\mathrm { m M }$ MEA.Two fluorescent beads were embedded on the surface of the sample. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f76ad924ff62d287e644d379ee685ec5215d240c8f8ce069f1066bc2fd67ca4.jpg",
+        "img_caption": [
+            "Figure 8 The values of the mean $\\Delta _ { d }$ and the standard deviation $\\sigma _ { d }$ of residual over the ${ \\boldsymbol { \\tau } } = 4 0$ time intervals for the data set Radio,as a function of molecule number per temporal bin n and localization precision $\\pmb { \\xi }$ .(a) Curve of residual $\\Delta _ { d }$ in different localization precisions $\\xi$ ,asa function of molecule numbers n.(b) Curve of residual's standard deviation $\\sigma _ { d }$ in different localization precisions $\\boldsymbol { \\xi }$ ,asa function of molecule numbers $n$ (c) Curve of residual $\\Delta _ { d }$ in different molecule numbers ${ \\boldsymbol { n } } ,$ as a function of localization precisions $\\xi$ .(d) Curve of residual's standard deviation $\\sigma _ { d }$ in different molecule numbers $n ,$ as a function of localization precisions $\\xi$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "STORM imaging of microtubules was performed as described in [16].We used an Olympus IX71 inverted microscope equipped with a $1 5 0 \\times 1 . 4 5$ numerical aperture (NA) oil objective (Olympus PLAN APO). Two lasers (405 nm and $6 4 7 ~ \\mathrm { n m }$ (OBIS,Coherent)） were controlled by an acousto-optic tunable filter (AA Optoelectronic).For excitation, the power of the $6 4 7 \\mathrm { n m }$ laserwas $2 9 . 7 1 \\mathrm { m W } ,$ measured near the rear pupil of the objective.The intensity of the $4 0 5 \\mathrm { n m }$ laser, typically $1 0 { - } 3 0 \\mu \\mathrm { W } _ { : }$ ,was adjusted so that a low density of molecules was activated at each frame.A $\\lambda / 4$ plate was used to produce circular polarization excitation light. The fluorescence signals were acquired using an electron-multiplying charge-coupled device (EMCCD) camera (Andor iXon DU-897). The images were acquired ata frame rate of $5 0 ~ \\mathrm { H z }$ and the EM gain of EMCCD was set to 3oo.Fluorescent beads were embedded into the sample for our convenience in comparing them. The super-resolution image reconstruction was performed as described in[17].In order to minimize the influence of the background,TIRF(total internal reflection） illumination was used in this study. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5000 frames were recorded during the experiment and in total 57,702 molecular positions were extracted.Drift correction based on both beads and our method was carried out.Every 5oo frames were binned into a“big\" time interval. The bead positions were determined in each frame within the 5Oo frame bin interval and their cumulative localizations wereusedasa reference marker in drift correction.The experimental result is illustrated in Figure 9. The raw image without drift correction is illustrated in Figure 9(a). The structure corrected by our method is illustrated in Figure 9(b) and the structure corrected by fluorescent beads is illustrated in Figure 9(c). The FRC curves for the three structures are also illustrated in Figure 9(d),(e) and (f).The FRC resolution of the rawdata is $3 9 3 . 4 \\ \\mathrm { n m }$ ，theresolutionof thedata corrected by our method is $8 4 . 3 \\ \\mathrm { n m }$ and the resolution of the data corrected by marker is $8 3 . 9 \\ \\mathrm { n m }$ .We find that the result of our method is very close to that of the fluorescent beads.In addition，the recent work[1O] has confirmed that for some special scenarios,using the biological data itself could achieve better results than the use of beads,which may move or fade during data acquisition.Thus,generally, our method could be more feasible than the method using fluorescent beads. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a521b2ba964b1bd4a9adf2895f031cfb4f92a7dc5ab67c24e9bb0fa6b2f80eea.jpg",
+        "img_caption": [
+            "Figure9Experimetadata.(a)pesolutiageofexerietaldtatfichtdriftsotnectedb)uperoluti imageofexpritaatactdrifiseouparft iscorectedbymethdbasednbeads.d)FCurveftdatasetinsub-figa).e)FRCurefthedatastinsubfgb).fFCurefe data set in sub-fig(c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion and conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we proposed a new metric based on distance minimums to cope with the drift correction in single molecule imaging. Our method is based on the restoration of the distribution of molecular position.There are two advantages of ourmethod.First,because our method does not require space binning of positions of molecules but directly operates on the positions,it is more natural to single molecule imaging techniques. Second,our method estimates the drift with a small number of positions in each temporal bin,which may extend the potential appli cation of our metric.The result of simulated test data proved the effectiveness of our method. Our method can be easily extended into 3D super-resolution photography, and the Gaussian kernel can also be replaced in some special situations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O illustrates the results of an experiment based on data sets Grid and Radio,where all the conditions are the same as the previous experiment except that there are in total 1,6oo molecule positions in every data set (40 positions for each bin).Here,the FRC resolution of Grid corrected by our method is $1 6 4 . 5 \\mathrm { n m }$ ,while the FRC resolution ofGridafterdrift is $7 3 0 . 9 \\mathrm { n m }$ . TheFRC resolution of Radio corrected by our method is $2 1 4 . 4 \\ : \\mathrm { n m }$ ,while theFRC resolution ofRadio after drift is $6 2 0 . 3 ~ \\mathrm { { n m } }$ . Asa comparison, the FRC resolutions of the data sets that are free of sampledrift are $1 5 8 . 1 \\ \\mathrm { n m }$ and $1 9 3 . 2 \\ \\mathrm { n m }$ for Grid and Radio respectively. Our method performed well for data setNet,butbarely satisfactorilyin data set Grid.The reason why there is sucha difference in behavior of our method on the two sets is that the sampling is too sparse and has introduced bias in the data set Radio.Though our method has not corrected all the sample drift under this condition, our method has corrected the majority of the drift in the situations where the cross-correlation method barely works.This experiment demonstrates that our method can correct sample drift in a very critical situation. Nevertheless,40 positions per temporal bin may not happen in a real experiment and the experiment in this Appendix is only intended to demonstrate the range of potential applications of our method. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6cadc60d3c6ee0bca06d98efc7da749e99997eadf9075a855474973beb5960c.jpg",
+        "img_caption": [
+            "Figure10Driftcoectionofthedatastwherethereare3oleculepositionsineachtemporalbin.(a)Supersolutioimageofdataset Gridhicsfidsdife fwhichhedrifisecturmetd.d)FCuftdataeisubfa).e)Freataetisbfb).Fuf thedataetinsubf)uperesoutigataetadiicsodifmpod.uperesolutimageftaadi whichiscoredif.pesmaatafrifstdedjrta sub-fig(g).(k)FRC curve of the data set in sub-fig(h).(I) FRC curve of the data set in sub-fig(i). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no competing interests. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Authors'contributions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "RH carred out the design and implementation of the algorithms,and wrote the manuscript. LW, FX,YZ and MZ participated in the design and implementation of the algorithms and modified the manuscript. ZL,FR and FZ participated in the design of the algorithms.All authors read and approved the final manuscript. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants National Natural Science Foundation of China(61232001,61202210,61472397,31270910 and 31170818); Beijing Natural Science Foundation (7131011). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Authordetails ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 Key Lab of Intelligent Information Processing and Advanced Computing Research Lab, Institute of Computing Technology, Chinese Academy of Sciences,100190 Beijing, China. ²University of Chinese Academy of Sciences, Beijing, China. ³Beijing Institute of Technology, Beijing, China.4Institute of Biophysics, Chinese Academy of Sciences,100101 Beijing, China. 5State Key Lab for Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences,100190 Beijing, China. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Received:22 October 2014 Accepted:26 November 2014 Published online:13 January 2015 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1. Betzig E, Patterson GH, Sougrat R, Lindwasser OW, Olenych S, Bonifacino JS, Davidson MW, Lippincott-Schwartz J,Hess HF.Imaging intracellular fluorescent proteins at nanometer resolution.Science 2006:313(5793):1642-1645.   \n2. Hess ST, Girirajan TPK,Mason MD.Ultra-high resolution imaging by fluorescence photoactivation localization microscopy. Biophys J 2006;91(11):4258-4272.   \n3. Rust MJ, Bates M, Zhuang X.Sub-diffraction-limit imaging by stochastic optical reconstruction microscopy (storm). Nat Methods 2006;3(10): 793-796.   \n4. Hell SW.Far-field optical nanoscopy. Science 2007;316(5828):1153-1158.   \n5. Egner A,Geisler C,Von Middendorff C, Bock H,Wenzel D,Medda R,et al. Fluorescence nanoscopy in whole cels by asynchronous localization of photoswitching emitters. Biophys J2007;93(9):3285-3290.   \n6. Bates M, Huang B, Zhuang X.Super-resolution microscopy by nanoscale localization of photo-switchable fluorescent probes. Curr Opin Chem Biol 2008;12(5):505-514.   \n7. Gould TJ, Verkhusha W, Hess ST.Imaging biological structures with fluorescence photoactivation localization microscopy. Nat Protoc 2009;4(3):291-308.   \n8. Zessin P, Kruger C,Malkusch S, Endesfelder U, Heilemann M.A hydrophilic gel matrix for single-molecule super-resolution microscopy. Opt Nanoscopy 2013;2(1):4.   \n9. Mlodzianoski MJ,Schreiner JM, Callahan SP,Smolkovä K, Dlaskovä A, Santorovä J, Jezek P, Bewersdorf J.Sample drift correction in 3d fluorescence photoactivation localization microscopy. Opt Express 2011;19(16):15009-15019.   \n10.Geisler C，Hotz T,Schonle A,HellSW,Munk A,Egner A. Drift estimation for single marker switching based imaging schemes. Opt Express 2012;20(7):7274-7289.   \n11．Deschout H, Zanacchi FC,Mlodzianoski M, Diaspro A, Bewersdorf J, Hess ST, Braeckmans K. Precisely and accurately localizing single emitters in fluorescence microscopy. Nat Methods 2014;11(3):253-266.   \n12.Thompson RE, Larson DR,Webb WW.Precise nanometer localization analysis for individual fluorescent probes. Biophys J2002;82(5):2775-2783   \n13.Nieuwenhuizen RP,Lidke KA, Bates M, Puig DL,Grünwald D, Stallinga S Rieger B.Measuring image resolution in optical nanoscopy. Nat Methods 2013;10(6):557-562.   \n14.Rosenblatt M. Remarks on some nonparametric estimates of a density function. Ann Math Stat 1956832-837.   \n15.Parzen E.On estimation of a probability density function and mode.Ann Math Stat 1962;33(3):1065-1076.   \n16.Dempsey GT,Vaughan JC, Chen KH, Bates M, Zhuang X.Evaluation of fluorophores for optimal performance in localization-based super-resolution imaging.Nat methods 2011;8(12):1027-1036.   \n17.Zhang M, Chang H, Zhang Y,Yu J,Wu L, JiW,et al. Rational design of true monomeric and bright photoactivatable fluorescent proteins. Nat 2012;9(7):727-729. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Submit your next manuscript to BioMed Central and take full advantage of: ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "· Convenient online submission   \n· Thorough peer review   \n· No space constraints or color figure charges   \n· Immediate publication on acceptance   \n·Inclusion in PubMed, CAS, Scopus and Google Scholar   \n·Researchwhich is freelyavailable for redistribution ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Submit your manuscript at www.biomedcentral.com/submit ",
+        "page_idx": 13
+    }
+]

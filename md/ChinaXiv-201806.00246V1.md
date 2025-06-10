@@ -1,0 +1,177 @@
+# 750kV变压器II型接地环流分析与抑制研究
+
+李山李伟²吴标张媛 周利兵 公多虎（1.国家电网新疆电力公司电力科学研究院乌鲁木齐 8300112.贵州理工学院电气与信息工程学院贵阳550003）
+
+![](images/af73e74f68894b94a88ae68c968c891052e562d6bbf9b2a52a3385ba5ab07913.jpg)
+
+李山男1982年生，高级工程师，主要从事电力系统分析、电磁暂态过电压方面的研究。
+
+摘要：针对 $7 5 0 \mathrm { k V }$ 变压器中性点ⅡI型接地产生较大接地环流的现象，建立接地环流数学模型，并分析了接地环流大小及其影响因素；实测接地环流并建立接地环流与负载电流的相关关系，提出了接地环流抑制措施，并通过实测电阻参数对比计算改造前后接地电流的变化，接地环流消除并与实测结果一致，从而充分验证了关于接地环流理论分析的正确性和抑制措施的有效性。
+
+关键词： $7 5 0 \mathrm { k V }$ 变压器 中性点ⅡI型接地架构接地环流数学模型抑制中图分类号：TM835
+
+# Study of Analysis and Suppression on Grounding Circulation Current of ${ 7 5 0 \ \bf { k V } }$ Transformer II Grounding
+
+Li Shan'Li Wei²Wu BiaolZhang Yuan'Zhou Libing1Gong Duohu1 (1.State Grid Xinjiang Electric Power Company Electric Power Research Institute Urumqi830011China 2.Guizhou Institute of TechnologyGuiyang550003 China ）
+
+![](images/358c9f6fc0bc0cfc38e664e92accaca13f742a6a595120853370df29c5b7e952.jpg)
+
+李伟男1973年生，博士，高级工程师，主要从事高电压与绝缘及故障诊断技术方面的研究。
+
+Abstract: To larger grounding circulation current (GCC) produced by $7 5 0 \mathrm { k V }$ transformer neutral II type grounding, GCC mathematical model is fabricated, its GCC value and factors are analyzed. Real GCC is measured, its relation is built to load current, and so GCC suppression measure is put forward. Real resistance parameters is used to analyze the GCC change before and after modification,and it is found that GCC is eliminated and consistent with real measured result. The correct theoretical analysis and valid suppression measure are fully tested with related to the GCC of $7 5 0 \mathrm { k V }$ transformer neutral II type grounding.
+
+Keywords: $7 5 0 \mathrm { k V }$ transformer, neutral $\Pi$ type grounding,grounding circulation current(GCC),mathematical model, suppression
+
+# 1 引言
+
+750kV变压器一般采用3台单相自耦变压器构成组式变压器，三相接线方式为Yna0d11，则选择正确可靠的变压器中性点接地方式，对保证变压器安全运行具有重要意义[1-5]
+
+国家电网公司《十八项电网重大反事故措施(2012 年修订版)》中第14.1.1.5条要求[：“变压器中性点应有两根与主接地网不同地点连接的接地引下线，且每根接地引下线均应符合热稳定要求”。因此， $7 5 0 \mathrm { k V }$ 主变压器中性点接地采用了汇流母线两端分别接地的ⅡI型架构接地方式。这种接地架构满足了两根接地引下线互为备用的技术要求，提高了接地可靠性。然而，实际运行中此类变电站在检测变压器接地引下线接地电流时发现中性点每一根接地引下线均有 $6 5 \sim 1 5 0 \mathrm { A }$ 大小不等的接地电流，埋下了安全生产的潜伏性隐患。
+
+针对变压器中性点I型架构及运行效果的研究成果不多。文献[7]对单相变压器组成的三相变压器中性点汇流母线三种不同接地方式的优缺点进行了探讨，并建议使用一端两点接地方式；文献[8]分析了某 $5 0 0 \mathrm { k V }$ 自耦变压器ⅡI型接地两根接地引下线电流产生的原因，实测了电流大小并进行了对比研究；文献[9]关于并联电抗器和单相自耦变压器中性点接地方式的争论存在两种观点：一种观点认为不该有两点接地：一种观点认为两点接地是可行的，建议使用两点接地；文献[10-12]对变电站单相自耦变压器中性点两点接地产生环流的原因进行了分析研究并提出了解决方法。总体来看，上述文献对环流产生的原因及分析，尤其在环流理论模型构造方面，尚需进一步深入探讨。
+
+事实上，因接地装置故障引发的变压器或电网运行事故时有报道[13]。本文针对某 $7 5 0 \mathrm { k V }$ 变压器中性点接地引下线的环流问题，构建变压器中性点II型接地架构坏流数学模型，理论分析坏流大小及成因，现场实测接地环流并分析与负荷电流的相关关系，提出抑制环流的改造措施，再通过理论计算和环流实测验证理论分析的正确性和抑制措施的有效性。
+
+# 2 中性点ⅡI型接地物理架构
+
+750kV主变压器中性点采用ⅡI型接地方式，其示意图如图1所示。在图1a中，Ao、Bo、Co分别为主变压器高压侧绕组；Am、Bm、Cm为中压侧抽头，ab、bc、ca分别为低压绕组。 $I _ { \mathrm { A } }$ ， $I _ { \mathrm { B } }$ ， $I _ { \mathrm { C } }$ 分别为变压器负荷电流，正常情况下该三相电流大体平衡。图1b中，aa、bb、cc和oo分别为低压绕组a、b、c和中性线的汇流管母线，钢构架 $1 \sim 4$ 为汇流线的支撑构架，每个构架分别引出两根接地线与变电站接地装置相连，ao、bo和co为中性点在汇流管母线上的连接位置，形成ⅡI型接地。图1c给出了ⅡI型接地的电力系统模型，可以用于理论分析与计算。
+
+![](images/24e44234762c4f7f2b83f9ba6b40b10a1de3a8fe35dd7b1e0b9c2c9e29ccfe76.jpg)  
+图1中性点汇流母线ⅡI型接地 Fig.1I grounding of neutral bus
+
+# 3架构环流理论模型及计算分析
+
+考虑了中性点汇流母线电阻、接触电阻、接地引下线及接地网电阻情况下，从主变压器中性点向接地点看进去的实际电路如图2所示。由于变电站母线电压正常情况下运行稳定，变化范围不大，因此，等效电路中采用了电压源数学模型[14]。其中,
+
+![](images/b5384887b3dac34103e1ec81921c629d6dcbbb372d75a99fc0ea1b1399ab12f8.jpg)  
+图2 $7 5 0 \mathrm { k V }$ 变压器ⅡI型接地实际电路图
+
+$U _ { \mathrm { a } }$ 、 $U _ { \mathfrak { b } }$ 、 $U _ { \mathrm { c } }$ 为等效电压源； $Z _ { \mathrm { a } }$ 、 $Z _ { \mathrm { { b } } }$ 、 $Z _ { \mathrm { c } }$ 为等效阻抗；$Z _ { 1 }$ ， $Z _ { 2 }$ 为中性点汇流母线阻抗； $Z _ { 3 1 }$ ， $Z _ { 3 2 }$ ， $Z _ { 4 1 }$ 和 $Z _ { 4 2 }$ 为中性点汇流母线到4个钢构支架的阻抗，假设该变电站接地装置的接地电阻忽略不计。
+
+考虑一般情况，在图2中，若三相平衡，则 $Z _ { \mathrm { a } } =$ $Z _ { \mathrm { b } } = Z _ { \mathrm { c } } = Z , Z _ { \mathrm { 3 } } = Z _ { \mathrm { 3 } 1 } / Z _ { \mathrm { 3 } 2 } , Z _ { \mathrm { 4 } } = Z _ { \mathrm { 4 } 1 } / Z _ { \mathrm { 4 } 2 }$ ，可得等效电路图如图3所示。依据线性电路基本理论，为求得环流，可采用节点电压法[15-16]，取图3中所给节点电压，列写方程为
+
+$$
+\begin{array} { r l } & { | ( \cfrac { 1 } { Z } ^ { + } \cfrac { 1 } { Z _ { 1 } } ^ { + } \cfrac { 1 } { Z _ { 3 } } ) { \dot { U } } _ { 1 } - \cfrac { 1 } { Z _ { 1 } } { \dot { U } } _ { 2 } = \cfrac { 1 } { Z } { \dot { U } } _ { 3 }  } \\ & {  \{ - \cfrac { 1 } { Z _ { 1 } } { \dot { U } } _ { 1 } + ( \cfrac { 1 } { Z } ^ { + } \cfrac { 1 } { Z _ { 1 } } + \cfrac { 1 } { Z _ { 2 } } ) { \dot { U } } _ { 2 } - \cfrac { 1 } { Z _ { 2 } } { \dot { U } } _ { 3 } = \cfrac { 1 } { Z } { \dot { U } _ { \mathrm { b } } }  } \\ & {  | - \cfrac { 1 } { Z _ { 2 } } { \dot { U } } _ { 2 } + ( \cfrac { 1 } { Z } ^ { + } \cfrac { 1 } { Z _ { 2 } } + \cfrac { 1 } { Z _ { 4 } } ) { \dot { U } } _ { 3 } = \cfrac { 1 } { Z } { \dot { U } } _ { \mathrm { c } }  } \\ & { | | I _ { 1 } | = | - I _ { 2 } | = { \dot { U } } _ { 1 } / Z _ { 3 } = { \dot { U } } _ { 3 } / Z _ { 4 } } \end{array}
+$$
+
+![](images/32491655a6ec9de3b9a380f021a953e9ddf42bfe1b8dd7c09e7ce567b569e2bc.jpg)  
+图3 $7 5 0 \mathrm { k V }$ 变压器ⅡI型接地等效电路图  
+Fig.3Equivalent circuit of $7 5 0 \mathrm { k V }$ transformer I grounding
+
+从而可得接地电流
+
+$$
+I _ { 1 } = \frac { Z _ { 1 } U _ { \mathrm { a } } / { Z } - Z _ { 2 } U _ { \mathrm { c } } / { Z } + ( Z _ { 1 } - Z _ { 2 } ) U _ { \mathrm { b } } / { Z } } { Z _ { 1 } + Z _ { 2 } + Z _ { 3 } + Z _ { 4 } }
+$$
+
+考虑三相负载对称时，中性线上无电流通过，阻抗中主要为电阻分量，更特殊情况下，假定 $Z _ { 1 } =$ $R _ { 1 } = Z _ { 2 } = R _ { 2 } , Z _ { 3 } = R _ { 3 } = Z _ { 4 } = R _ { 4 } , Z = R$ ，则有
+
+$$
+I _ { 1 } { = } \frac { R _ { 1 } ( U _ { \mathrm { a } } - U _ { \mathrm { c } } ) / R } { 2 ( R _ { 1 } + R _ { 3 } ) } { = } \frac { \sqrt { 3 } } { 2 } \frac { R _ { 1 } I _ { \mathrm { f h } } } { R _ { 1 } + R _ { 3 } }
+$$
+
+其中， $I _ { \mathrm { f h } } = \big ( U _ { \mathrm { a } } - U _ { \mathrm { c } } \big ) / R = I _ { \mathrm { a } } - I _ { \mathrm { c } }$ 为正常的中性点不平衡电流，与 $\pi$ 型接地架构无关。
+
+为了便于分析，可令 $R _ { 1 } = x _ { 1 }$ ， $R _ { 2 } = x _ { 2 }$ ，则有二元函数
+
+$$
+\scriptstyle y = { \frac { x _ { 1 } } { x _ { 1 } + x _ { 2 } } }
+$$
+
+求解二元函数 $y = f ( x _ { 1 } , x _ { 2 } )$ 的最值并制作其二元函数曲面图，当 $x _ { 1 }$ ， $\mathbf { \sigma } _ { x _ { 2 } \in [ 0 , 1 ] }$ 时，二元函数曲面图如图4所示。
+
+![](images/51b8f22740baf3b708359b2d3051279aa4ede4b6f19341d7a38b4974c1c35f50.jpg)  
+Fig.2Actual circuit of $7 5 0 \mathrm { k V }$ transformer $\Pi$ grounding   
+图4二元函数曲面图  
+Fig.4Cured surface figure of two dimensional function
+
+由图4可知， $x _ { 1 }$ ， $x _ { 2 } \in [ 0 , 1 ]$ 内，当 $x _ { 1 } = 0$ 时， $y _ { \mathrm { m i n } } =$ 0；当 $x _ { 2 } = 0$ 时， $y _ { \mathrm { m a x } } = 1$ ；当 $x _ { 1 } = x _ { 2 }$ 时， $y = 0 . 5$ 。
+
+此外，对二元函数 $y = f ( x _ { 1 } , x _ { 2 } )$ 还可利用求偏导[17]的方法解出最值。在上述条件下，由分析可知环流最大数值为 $\sqrt { 3 } ~ I _ { \mathrm { f h } } / 2$ ，这与使用戴维南定理分析的结果一致，即在两端接地引下线中将有循环电流流过，即为接地环流，也可认为oo汇流母线两端接地点间存在电位差从而引起该环流。
+
+事实上，在 $7 5 0 \mathrm { k V }$ 变电站中，3台单相变压器相隔距离较远，以该变电站为例，中性点汇流母线长约 $5 5 \mathrm { m }$ ，其材料为 $6 0 6 3 - \phi 1 7 0 / 5 4$ 型铝合金，电阻率为 $2 5 \mu \Omega / \mathrm { m }$ ；同时，钢构架平均高 $4 \mathrm m$ ，材料为Q235-B型，电阻为 $0 . 1 \mu \Omega / \mathrm { m }$ 。上述材料采用不对称布置，加之连接工艺（电阻焊接或者螺栓连接）不一致，难以保证连接部位接触电阻为零或均等，故这种接地方式中必然存在环流。
+
+# 4现场接地环流数据实测及对比分析
+
+# 4.1电流方向确定
+
+在三相负载平衡条件下，负荷电流为125A时，利用日置8861-50型存储记录仪分别对8根接地引下线的电流及相位进行测试，其录波图（其值为瞬时值）如图5所示，其中曲线1-1、1-2、2-1和2-2分别为支柱1、支柱2接地引下线电流，曲线3-1、3-2、4-1和4-2分别为支柱3、支柱4接地引下线电流。
+
+![](images/fa56595a3c4092b2e50aca926f81c3228a039fd95b6098e59036ffcae1b797bc.jpg)  
+图5实测电流波形
+
+由图5可见，支柱1、支柱2的接地引下线电流同相位，幅值不相同；支柱3、支柱4的接地引下线电流同相位，幅值也不相同。支柱1、2和支柱3、4的电流相位基本相反。将上述支柱1、支柱2接地引下线电流波形叠加，即为从中性点流入接地网的环流，如图6所示，其有效值约为45.2A，频率为 $5 0 \mathrm { { H z } }$ 。
+
+![](images/fb8222aa43ec9cab9f033eb68f99d8dc7b2c30306663080e012274da19ad290f.jpg)  
+Fig.5Measured current waveformes   
+图6从中性点端子注入地网的不平衡电流 Fig.6Unbalanced current injected into the ground network
+
+# 4.2负荷电流与环流的关系分析
+
+在不同负荷电流下，对变压器中性点的环流进行跟踪测量，结果见表1和图7。
+
+表1负荷电流与环流的关系  
+Tab.1Relationship of load current and circulation current   
+
+<html><body><table><tr><td>名称</td><td colspan="5">数值</td></tr><tr><td>负荷电流/A(IA=IB=I)</td><td>750</td><td>500</td><td>400</td><td>250</td><td>125</td></tr><tr><td>环流实测值I/A</td><td>125</td><td>85</td><td>65</td><td>42</td><td>20</td></tr><tr><td>环流/负荷电流(I/I)</td><td>0.167</td><td>0.170</td><td>0.163</td><td>0.168</td><td>0.160</td></tr></table></body></html>
+
+![](images/985d6edef53c673b19a980c96f680ebec56f78b8617c6436c851e59cfa2e60f8.jpg)  
+图7负荷电流与环流的关系曲线  
+Fig.7Relationship curve of load current and circulation current
+
+观察图7中曲线，很显然接地环流与负荷电流近似呈线性关系，这表明负荷电流大小决定了接地环流值的大小，因此，可推得该环流大小与ⅡI型接地架构本身几乎不存在关系。
+
+由表1可知，环流与负荷电流成正相关性，其相关系数约为0.165，即接地环流约为 $1 7 \%$ 负荷电流值，结合图7中结论，只有改变Ⅱ型接地架构本身的接地方式，才能从根本上改变或消除该比值，改变接地环流的大小，从而形成抑制接地环流的思路。
+
+# 4.3实测接地环流分析
+
+在将该变压器中性点接地方式由II型接地改为一端两点接地的同时，对电阻参数进行了实际测量。在图1b中，将4个钢构支架的接地线解开，在不同的位置进行测量，检测结果如下： $R _ { 1 } \approx R _ { 2 } = 1 . 2 5 \mathrm { m } \Omega$ $R _ { 3 } \approx R _ { 4 } = 4 . 9 8 \mathrm { m } \Omega$ ，将检测结果代入式 (3)，可得 $I _ { 1 } =$ $0 . 1 7 4 I _ { \mathrm { f h } }$ ，即环流与负载电流的比例系数为0.174，与实际测量得到的电流比例系数接近(见表1)，其误差在于钢构架和接地引下线之间存在接触电阻，从而导致测量结果略有偏差，可以接受。
+
+另一方面，利用EMTPE 仿真软件[18-19]搭建如图8所示模型，其主要参数见表2，通过改变负载阻抗值得到不同的负荷电流。图8给出了负荷电流在250A条件下的计算波形，可以看出环流（即图8中 $I _ { Z 3 }$ 、 $I _ { Z 4 }$ ）为41.9A（峰值为59.25A)，变压器两个边相流过汇流母线的电流（即图8中 $I _ { Z 1 }$ ， $I _ { Z 2 }$ ）为214.7A（峰值为303.63A)，与理论计算值较为一致，从而验证了接地环流计算模型及推导过程的正确性。
+
+![](images/9f81b25f5375181b15bd49830769ca486a054120aff47a81bc9b8e2d37cf300f.jpg)  
+图8实测电阻参数环流计算波形  
+Fig.8Circulation current waveformes of measured resistance
+
+# 表2主要仿真参数
+
+Tab.2The main simulation parameters   
+
+<html><body><table><tr><td>名称</td><td>参数</td></tr><tr><td>等值电源/kV(峰值)</td><td>636.7∠0°</td></tr><tr><td>等值阻抗/Ω</td><td>3.04 + j33.696</td></tr><tr><td>主变压器额定容量/MV·A</td><td>1500</td></tr><tr><td>主变压器阻抗电压(%)</td><td>U12:18.97；U13:45.11；U23:22.09</td></tr></table></body></html>
+
+# 5 接地环流抑制措施
+
+由上述分析可知，将 $7 5 0 \mathrm { k V }$ 单相变压器组ⅡI型接地架构两端接地方式改为一端两点接地，可以消除环流通道以限制环流产生，即在图1b中将中性点汇流母线接地1位置处接地线断开，在接地位置2处再焊接一根接地引下线，形成单端双接地，以满足文献[6]中的技术要求。
+
+在负荷电流250A的条件下，对改造后的接地装置再进行计算，其波形如图9所示，变压器两个边相流过汇流母线的电流（即图8中 $I _ { Z 1 }$ ， $I _ { Z 2 }$ ）为250A（峰值为353.5A)，而接地环流（即图8中$I _ { Z 4 }$ ）约为0A，环流抑制效果显著。
+
+改造完成后，对不同负荷电流下的接地引下线电流进行了实测，接地引下线电流在 $1 \sim 1 0 \mathrm { A }$ 之间波动，其原因在于变压器三相电流不完全对称所致。从测试结果看，改造效果良好。
+
+![](images/167d37fd114f3f6be23edcdb590ff44a2c1a4c20cb1c20dcf06ff77c681fd648.jpg)  
+图9改造后的中性点汇流母线计算波形 Fig.9Bus current waveformes after modification
+
+# 6 结论
+
+(1）构建了 $7 5 0 \mathrm { k V }$ 变压器ⅡI型接地架构环流计算模型并分析了接地环流成因，发现接地环流与Ⅱ型接地架构存在的内在关系。(2）在不同负荷电流下实测ⅡI型接地架构的接地环流，得到了接地环流与负荷电流的近似线性正相关关系，进而提出了单端接地的环流抑制措施。(3）运用现场实测参数对比分析接地改造前后接地环流的变化，改造后接地环流消除，与接地改造后实测接地电流变化一致，从而验证了接地环流理论分析和抑制措施的合理性、有效性。
+
+# 参考文献
+
+[1] 电力工业部科学技术司．DL/T620—1997交流电气装置的过电压保护和绝缘配合[S]．北京：中国电力出版社，1997.  
+[2] 付惠琪，袁东升．电力系统中性点接地方式分析与选择[J]．河南理工大学学报，2006，25(6)：493-496.Fu Huiqi,Yuan Dongsheng.Analysis and option onneutral grounding of power system[J]. Journal ofHenan Polytechnic University,2006,25(6): 493-496.  
+[3] ShippDD,AngeliniFJ.Characteristics of differentpower system neutral grounding techniques:factsand fiction[C].1990 Pulp and Paper IndustryTechnical Conference,1990:107-116.  
+[4] 肖湘宁，陶顺．中性点不同接地方式下的电压暂降类型及其在变压器间的传递（一)[J]．电工技术学报，2007，22(9)：143-147.Xiao Xiangning,Tao Shun,Voltage sags typesunder different grounding modes of neutral andtheir propagation: part I [J]. Transactions of ChinaElectrotechnical Society,2007,22(9): 143-147.  
+[5] Folliot P, Boyer JM,Bolle S. Neutral groundingreactor for medium voltage networks[C]. 16thInternational Conference and Exhibition onElectricity Distribution,London, UK,2001: 2-3.  
+[6] 国家电网公司．国家电网公司十八项电网重大反事故措施（修订版)[Z]．2011.  
+[7] 唐芳轩. $5 0 0 \mathrm { k V }$ 单相变压器组中性点接地方式探讨[J]．高压电器，2004，40(3)：233-234.Tang Fagnxuan. Discussion of the neutral groundingmodes of $5 0 0 \mathrm { k V }$ single phase transformer set[J].High Voltage Apparatus, 2004, 40(3): 233-234.  
+[8] 李德佳．单相变压器组中性点“II”型接地产生环流的原因分析[J]．变压器，2005，42(12)：32-33.Li Dejia.Analysis of transformer I neutralpoint grounding down lead circulating current[J].Transformer,2005,42(12):32-33.  
+[9] 周青山. $5 0 0 \mathrm { k V }$ 及以上并联电抗器和单相自耦变压器组中性点接地方式的讨论[J]．电网技术，2001,25(9): 55,60.Zhou Qingshan.Argumentation on neutralgrounding modes of shunt reactors and single phaseautotransformer groups in $5 0 0 \mathrm { k V }$ and higher voltageclass[J].Power System Technology, 2001,25(9): 55,60.  
+[10]杨利民，张立成. $7 5 0 \mathrm { k V }$ 超高压变压器中性点接地引下线中环流的实测与改进措施[J]．变压器,2013，50(12):63-66.Yang Limin, Zhang Licheng. Measurement of 750kVEHV transformer neutral point grounding downleadcirculating current[J]. Transformer, 2013,50(12): 63-66.  
+[11] 李显鹏，章凯峰，钱黎鸣，等． $5 0 0 \mathrm { k V }$ 单相主变中性点接地引下线中电流分析[J]．变压器，2012,49(8): 72-73.Li Xianpeng, Zhang Kaifeng, Qian Liming, etal.Analysis of $5 0 0 \mathrm { k V }$ transformer neutral pointgrounding downlead circulating current[J].Transformer, 2012,49(8): 72-73.  
+[12]吕健攀，王峰强. $7 5 0 \mathrm { k V }$ 自耦变压器中性点环流的防范措施[J]．变压器，2014，51(6)：63-66.Lü Jianpan, Wang Fengqiang. Preventive measure tocirculation in neutral point of $7 5 0 \mathrm { k V }$ autotransformer[J]. Transformer,2014,51(6): 63-66.  
+[13]湛志成，郭化冰，苗志峰．因接地不良引起的二次设备烧毁事故[J]．电力系统保护与控制，2010,12(38): 145-148.Zhan Zhibing,Guo Huabing,Miao Zhifeng. Aburnout accident of secondary caused by badgrounding[J]. Power System Protection and Control,2010, 12(38): 145-148.  
+[14]尹建华，江道灼，韩祯祥．电力系统故障分析的一种新型实用计算机分析算法及在 BPA 暂态程序中的实现[J]．中国电机工程学报，1999，19(3)：71-76.Yin Jianhau, Jiang Daozhuo, Han Zhenxiang. Newpractical algorithm and its application in BPA forpower system fault analysis[J]. Proceedings of theCSEE,1999,19(3): 71-76.  
+[15] 邱关源．电路[M]．5版．北京：高等教育出版社,2006.  
+[16] Anderson P M.Analysis of faulted powersystems[M]. Iowa: The Iowa State University Press,1973.  
+[17] 姜礼尚，孔德兴，等．应用偏微分方程[M]．北京：高等教育出版社，2008.  
+[18] Dommel H W. Electromagnetic transients programreference manual(EMTP Theory Book)[M]. Portland:Bonneville Power Administration,1986.  
+[19]陈珍珍，林集明．EMTP/EMTPE 使用说明[M].北京：中国电力科学研究院，2009.

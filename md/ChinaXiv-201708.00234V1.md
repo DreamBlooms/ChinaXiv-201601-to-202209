@@ -1,0 +1,244 @@
+# 病毒一昆虫一植物三者互作研究进展及展望 ?
+
+![](images/85438220589c9f63bf409cfe81bde215c4acd04f955a6b4f747633059829367e.jpg)
+
+叶 健1²龚雨晴1.2 方荣祥1.2\*\*
+
+1中国科学院微生物研究所北京100101  
+2中国科学院大学北京100049
+
+摘要全球气候变暖，极端天气频发，入侵型、新发和重发昆虫传作物病毒病害已经成为限制我国农作物优质高产的主要因素。因缺乏抗病抗虫的种质资源、育种周期长，虫传病害防治难度极大，目前我国农业处于几乎完全依赖化学防控媒介昆虫的被动应付局面，生态与环境成本极大。以往研究虫传病毒病害往往注重病毒和植物寄主两个方面，这些研究为理解作物病毒病害的暴发机制提供了基础知识，但尚未能深入到病害防控的关键节点—媒介昆虫介导的病毒侵染循环这一根本性问题上，导致目前在病毒病害防治实践上缺乏有效抓手。近年来，随着分子生物学和组学研究的飞速发展，以及微观生物学技术和理念对宏观生物学的快速渗透与交叉，病毒一昆虫一植物三者互作机制研究取得了诸多重要进展，在寻找病毒病害流行暴发的宏观生态学现象背后的分子生物学与生物化学机制上取得了长足进步，不但为复杂生态系统多元互作分子机制提供了参考模型，也为通过人工干扰和操纵生物间互作关键节点，从而促进虫传病毒病害的持久防控提供了科学依据和新的有效抓手，变被动应付为主动调控病害灾变过程。文章简要回顾了近年来病毒一昆虫一植物三者互作领域的主要研究进展和发展趋势，并抛砖引玉提出了对未来发展的建议和思考。建议国家组织研究力量，大力加强：（1）大田生产条件下病毒病害发生的多元生物体系互作机制及科学防控科技支撑能力建设；（2）前沿基础和新方法新策略探索及应用平台建设；（3）虫媒病害绿色防控的微生物组学颠覆性技术等方向的探索与突破，力求在虫传作物病毒病害绿色生态防控方面为农业供给侧改革提供强有力的科技创新和支撑能力。
+
+\*资助项目：中科院战略性先导科技专项（XDB11040100、XDB11040300），国家自然科学优秀青年基金（31522046），国家自然科学基金（31672001)  
+\*\*通讯作者  
+修改稿收到日期：2017年7月27日
+
+关键词虫传病毒病，介体昆虫，三者互作，植物病毒，防控策略 DOI 10.16418/j.issn.1000-3045.2017.08.006
+
+植物病毒引发的病害严重制约我国和全球农作物产量与品质。植物病毒种类繁多，全球目前已报道的植物病毒约1100 种。在农业生产中对农作物造成严重危害的植物病毒大都依赖于介体昆虫的传播，这类虫传病毒约占 $80 \%$ ，侵染寄主广泛，包括粮食作物、油料作物、蔬菜、果树、花卉、药材和林木等，引起的病害数量占植物病害的第二位；每年引起作物经济损失高达4000亿元人民币。虫传病毒不仅造成直接危害，介体昆虫发生与暴发还造成间接危害。例如，番茄双生病毒和番茄斑萎病毒自从入侵我国以后，病虫的双重危害造成了非常严重的后果[]。仅在2009年，烟粉虱传双生病毒引起番茄病害的经济损失就超过50亿元人民币，2010一2012年进一步扩大到100亿元。
+
+虫传病毒没有国界，小虫大危害。媒介昆虫个体小，隐蔽性强，可以利用不同的机制传播不同的植物病毒，并且通过病毒局部进化、寄主转变、混合侵染和远距离传播产生新型病毒，形成一波接一波的病毒病害。虫传病毒病害的防控不同于真菌与细菌等病害的防治，既要控制病毒本身，又要通过控制介体昆虫来控制病毒病害的蔓延与流行，防治策略复杂、难度很大。然而，迄今高选择性、高效性的植物病毒病药剂和高抗病毒病的优良作物种质资源与品种匮乏，以至于目前生产上仍主要依赖通过对介体昆虫的化学防治来实现病毒的预防与控制，又引起了化学杀虫药剂的不合理使用甚至滥用，进而导致害虫抗药性、杀虫剂污染与残留等问题，严重威胁农产品安全与生态安全以及农产品出口等重大社会与经济问题。因此，加强虫媒病毒病害循环中病毒一昆虫一植物这3种生命形式互作的分子信号及分子机制研究，发展更高效控制虫传重大病毒病害的技术是保障国家粮食安全和农业可持续发展的战略需求。对于三者互作过程中分子和细胞重要调控节点的阐明和互作网络的解析，将有可能通过定向分子模块化育种或特异化学干预的办法阻断虫媒病毒病害的发生，通过鉴定植物特征化合物来预警可能具有互惠共生关系的新病毒一媒介昆虫组合的出现，发展植物保护新方法，在农业生产上具有重要意义。
+
+以病毒一昆虫一植物作为研究对象，从分子水平开展多界生物间相互关系的研究，必将为新的生物学革命性技术的发展提供契机，建立新的生命科学理论。正如现代生物学发展历史所表明的那样，生物学领域很多重要的科学发现与技术进步都是在病毒学科领域内首先发端的，例如腺病毒介导的细胞转化与基因治疗技术、RNA干扰技术、CRISPR/Cas9基因组编辑技术等。这些科学发现和引发的技术进步为整个生命科学本身和人类健康产业的快速发展作出了重大贡献。自然条件下病毒一昆虫一植物互作机制的研究是极有可能提供类似契机的研究领域。
+
+# 1近年来我国植物病毒学重要进展小结及相关科研计划部署情况
+
+21世纪初以来，随着分子生物学和化学生态学等技术在传统昆虫生物学领域的发展与应用，国际上植物病毒学科不断同其他学科交融，蓬勃发展。我国植物病毒学学科在资深科学家和众多年富力强的中青年植物病毒学家、植物学家、昆虫学家的积极倡导和实践中，瞄准植物病毒学的国际发展前沿——病毒一昆虫一植物三者互作领域，提出了大量具有交叉性和前沿性的研究课题，并以国家自然基金国家杰出青年、优秀青年科学基金为基础，支持和培养了一大批优秀中青年骨干人才，形成了一批具有战略眼光和国际研究水平的中青年学科带头人。在国家多个计划和国家自然科学基金委员会的支持下，先后获得了5个“973”项目、1个基金委重大项目、12个重点、8个“杰青”、5个“优青”和3个行业公益专项支持。经过近10年的努力，我国学者的工作在病毒一昆虫一植物三者互作研究领域已处于国际前沿水平，显著提升了我国植物病毒学研究的国际地位。目前，我国病毒一昆虫一植物三者互作领域已成为植物保护和植物病理学科发展最快的分支学科之一。“十二五”期间我国在主要农作物病毒病害研究方面取得了一系列重要进展。
+
+# 1.1一些重要作物病毒的生物学和分子生物学特性得到充分认识
+
+对水稻黄矮病毒（Rice yellow stunt virus,RYSV）进行了系统的研究，在完成RYSV基因组结构特点的研究基础上[2]，对RYSVP3蛋白和P6蛋白的功能进行了深入阐明[3,4]；对多种重要病毒的基因沉默抑制子进行功能解析[5-7]；在水稻矮缩病毒基因组结构与功能方面做了大量系统的工作，对多个病毒编码的蛋白的功能及其作用机制进行了深入的研究[]；对我国境内多种植物上的双生病毒开展了广泛系统的研究，并在病毒分子生物学和病毒一植物相互分子机制研究中取得了多项重要发现；对由禾谷多黏菌（Polymyxagraminis）传播的大麦黄花叶病毒属（Barleyyellowmosaicvirus）和真菌传杆状病毒属（Furovirus）的多种麦类病毒进行了系统的研究等[12,3]
+
+# 1.2 重要病毒与其传播介体昆虫的识别和相互作用得到深入研究
+
+该方向在近些年来，得到充分的重视，并开展了卓有成效的研究：水稻条纹叶枯病毒（Rice stripe virus,RSV）在灰飞虱体内组织间的巡回侵染和经卵传播[4];水稻矮缩病毒（Ricedwarfvirus，RDV）与叶蝉的识别以及在叶蝉体内不同组织和器官的巡回侵染[15-20]；水稻黑条矮缩病毒（Rice black streaked dwarf virus，RBSDV）与灰飞虱以及水稻南方黑条矮缩病毒（Southernriceblackstreakeddwarfvirus，SRBSDV）在白背飞虱体内的扩散机制[21-23]；番茄斑萎病毒（Tomato spoted wilt virus,TSWV）的移动机制以及番茄中 $S w \ – 5$ 基因与病毒蛋白识别介导的抗性等[24]。
+
+# 1.3开创了病毒一昆虫一植物三者互作研究的新领域
+
+成功解析了植物病毒与昆虫形成互惠共生关系的分子机制，在国际上首次发现入侵型烟粉虱一双生病毒协同入侵的分子机制，拓展了植物病毒学的研究范畴，提出了病毒一昆虫一作物三者互作的新理论[25];证明双生病毒能抑制寄主植物茉莉酸途径的关键转录因子MYC2，从而调控萜烯类化合物，吸引烟粉虱的取食，促进双生病毒与烟粉虱建立互惠关系[26.27]；植物负链RNA病毒（如番茄斑萎病毒、水稻黄矮病毒、水稻条纹叶枯病毒等）在世界范围内引起多种作物的毁灭性病害，以弹状病毒科苦苣菜黄网病毒（Sonchusyellownetrhabdovirus）为模式，先后实现了微型复制子和全长侵染性克隆反向遗传学体系的突破，为该类病毒的遗传操作奠定了技术基础[28]
+
+病毒高度依赖于寄主细胞，不断进化出利用和改变寄主生理生化过程的能力，病毒可能具有影响植物激素[20]、表观遗传学修饰[30]、天然免疫、蛋白降解途径等生理学功能途径的能力（图1）。但是这些改变能否以及如何改变介体昆虫以及其他昆虫与寄主植物的互作关系，人们迄今了解的却还很少。目前已知植物病毒能抑制植物茉莉酸抗虫信号途径[31]，甚至有少数病毒在植物体内复制可以大大提高介体昆虫的适应度，形成了病一虫的互惠共生关系[32-34]
+
+图1虫传植物病毒影响植物抗性途径  
+![](images/d9394490233b7a57b4a023d784e306d3ea692b11ad552ac8daadc34ec9278e4b.jpg)  
+白色圆球表示昆虫分泌的唾液效应子，黑色圆球表示病毒基因组编码的病毒效应子
+
+植物进化出小RNA免疫防御病毒感染，但与此同时病毒也通过编码沉默抑制子来对抗植物小RNA的免疫。除了小RNA免疫以外，植物防御激素如茉莉酸（jasmonic acid，JA）、水杨酸（salicylic acid，SA）和乙烯（ethylene，ET）等在病毒一昆虫一植物三方互作中亦扮演关键角色。然而，植物对病毒和对昆虫的抗性反应并不一定是统一的，有时甚至是截然相反的[35]。由于JA和SA的相互拮抗效应，JA信号通路的激活增强了植物对昆虫的防御反应，同时导致SA信号通路的衰减，使得植物抗病能力下降[3。因此，深入了解其三者互作机制对于虫传病害的绿色防控尤为重要。
+
+# 2 虫传病毒一介体昆虫一作物三者互作的分子机制
+
+# 2.1植物激素参与昆虫和病毒之间的相互作用
+
+植物激素在植物生长发育和抗病虫害过程中发挥重要作用[7]。SA、JA和ET主要参与防御反应[38]，赤霉素（Gibberellin，GA）、生长素（Auxin，Aux）、细胞分裂素（Cytokinins，CK）、油菜素内酯（Brassinolide，BR）和脱落酸（Abscisic acid，ABA）主要参与植物的生理和发育过程，同时也参与植物防御[39-41]。病毒感染过程中,植物激素信号发生改变，植物的正常生理过程被打乱。最近，更直接的证据证明病毒可以通过影响植物激素来调节植物的生长发育和抗虫抗病性[42.43]，从而促进自身传播。
+
+# 2.2双生病毒调节植物激素促进植物与烟粉虱形成间接的互惠共生关系
+
+植物病毒通常由昆虫传播，利用宿主细胞繁殖，植物的JA信号通路可以抵抗昆虫，而昆虫可以利用病毒来抑制JA信号途径。病毒采用效应分子调控宿主植物激素信号（图1）。例如，中国番茄黄化曲叶病毒（TomatoyellowleafcurlChinavirus，TYLCCNV）和十字花科卷心菜卷叶病毒（Cabbageleafcurl virus，CaLCuV）是由烟粉虱传播的双生病毒，可以导致番茄、烟草和其他作物上的病害，其中TYLCCNV及其卫星DNA可以抑制植物萜烯类化合物合成，促进其与昆虫互惠共生。
+
+植物抗刺吸式昆虫的免疫途径与植物的多种激素途径有关，bHLH（basic helix-loop-helix）家族转录因子MYC2是这些生物胁迫和非生物胁迫途径中共有的“总开关”[44]，烟粉虱取食激活了植物MYC2转录因子。植物抗刺吸式昆虫信号途径下游的萜烯合酶基因，可以合成高效趋避昆虫的挥发性化合物，是植物对昆虫嗅觉抗性的重要组成部分，而双生病毒和番茄斑萎病毒均可抑制植物萜烯类化合物合成的关键基因。双生病毒与 MYC2互作使得烟粉虱在选择寄主时更偏好于感染双生病毒的植物，而且定殖在感染病毒植物上的烟粉虱性成熟早、产卵量多、种群密度提高，造成大范围病毒病害的发生和危害[27]。我们最新的研究表明双生病毒不仅作用于MYC2，还作用于乙烯和光信号等多个关键抗性途径的其他重要转录调控因子，全方位地抑制植物的抗虫免疫（表1）。
+
+双生病毒操控传毒介体昆虫烟粉虱不但体现在对其的嗅觉吸引，还表现在定殖在感病植物后的取食行为。从介体昆虫被吸引到寄主植物，到成功传毒，再到植物建立感染，这个过程中包括了多个关键点，例如刺探次数（numbersofprobes）、总刺探时间（totalprobing time）、筛管唾液分泌时间（time of salivatingintothesieveelement）等参数。多种双生病毒（如TYLCCNV和TYLCV）均能改变烟粉虱取食从而提高昆虫的传毒能力[45,46]。植物具有筛管闭塞（sieve tubeocclusion）抗刺吸式昆虫的通用抗性机制，蚜虫进化出通过分泌水状唾液抑制这种抗性的能力[47,48]，尚未发现双生病毒的介体昆虫烟粉虱具有蚜虫的这种能力。双生病毒是否能够代偿蚜虫水唾液的功能，通过改变植物的发育，改变韧皮部中导管的物理结构从而改变其传输过程，影响介体昆虫获取氨基酸等初级营养物和其他植保素等抗虫次级代谢物，从而影响昆虫一植物互作过程，值得深人研究。
+
+表1虫传病毒简介及效应子功能  
+
+<html><body><table><tr><td>病毒</td><td>所属科</td><td>寄主</td><td>介体昆虫</td><td>效应子*</td><td>蛋白功能</td></tr><tr><td>番茄黄化曲叶病毒 (TYLCV)</td><td>双生病毒科</td><td>番茄等</td><td>烟粉虱 (半翅目)</td><td>？</td><td></td></tr><tr><td>白菜卷叶病毒 (CaLCuV)</td><td>双生病毒科</td><td>拟南芥等</td><td>烟粉虱 (半翅目)</td><td>BV1</td><td>干扰MYC2同源二聚体的形成，降低萜烯类化合物的 含量</td></tr><tr><td>中国番茄黄化曲叶病毒的卫星病毒 (TYLCCNB)</td><td>双生病毒科</td><td>番茄等</td><td>烟粉虱 (半翅目)</td><td>βC1</td><td>降低萜烯类化合物的含量；促进烟粉虱性成熟，增 加产卵量</td></tr><tr><td>芜菁花叶病毒 (TuMV)</td><td>马铃薯Y病毒科</td><td>拟南芥等</td><td>蚜虫 (半翅目)</td><td>Nla-Pro</td><td>增强蚜虫繁殖能力</td></tr><tr><td>马铃薯卷叶病毒 (PLRV)</td><td>黄症病毒科</td><td>马铃薯等</td><td>蚜虫 (半翅目)</td><td>？</td><td></td></tr><tr><td>大麦黄矮病毒 (BYDV)</td><td>黄症病毒科</td><td>大麦等</td><td>禾谷缢管蚜 (半翅目)</td><td>？</td><td></td></tr><tr><td>黄瓜花叶病毒 (CMV)</td><td>雀麦花叶病毒科</td><td>黄瓜等</td><td>桃蚜 (半翅目)</td><td>2b</td><td>独立于其RNA沉默抑制子功能，通过与茉莉酸的共受 体JAZ互作，抑制植物的抗虫能力，有利蚜虫的繁殖</td></tr><tr><td>番茄斑萎病毒 (TSWV)</td><td>布尼亚病毒科</td><td>番茄等</td><td>西花蓟马 (缨翅目)</td><td>？</td><td></td></tr><tr><td>南方水稻黑条矮缩病毒 (SRBSDV)</td><td>呼肠孤病毒科</td><td>水稻等</td><td>白背飞虱 (半翅目)</td><td>?</td><td></td></tr></table></body></html>
+
+\*“？”表示效应子尚未知
+
+# 2.3其他病毒效应子调控植物激素吸引昆虫，促进疾病传播
+
+西花蓟马（Frankliniellaoccidentalis）是一种多食性害虫，除了捕食引起植物的机械损伤，同时也传播番茄斑萎病毒（TSWV），导致农业和经济上的严重损失[49]。一方面TSWV的侵染诱发植物SA调控基因的表达，使得植物抗病能力下降；另一方面，TSWV改变了介体昆虫西花蓟马的取食行为[50]，感染TSWV的雄性西花蓟马的捕食率比未被感染的多3倍，从而提高了病毒接种的效率[51,52]，但是其具体的分子机制和生化过程仍有待深入研究。
+
+芜菁花叶病毒（Turnipmosaicvirus，TuMV）给农业、田园、园艺、观赏作物造成重大损失，已知超过200种蚜虫可以传播芜菁花叶病毒。植物防御其中一种蚜虫——绿色桃蚜（Myzuspersicae）取食的重要抗性反应是筛管中朕抵质的沉积。正如前文提到的，感染了TuMV的植物朕胀质沉积堵塞筛管的能力下降，从而有利于绿色桃蚜繁殖，但TuMV如何实现这种有利于桃蚜的细胞学和分子生物学机制尚不清楚。最近Casteel等[53]发现，TuMV编码的核包涵体蛋白酶（NIa-Pro）可以通过操纵宿主植物乙烯信号通路来增强绿色桃蚜的繁殖能力（表1）。
+
+黄瓜花叶病毒（Cucumbermosaicvirus，CMV）是另一种重要的植物病原病毒。这种病毒在世界范围内都有分布并且宿主范围很广，在植物间通过汁液和蚜虫传播。植物病毒在寄主体内复制的过程中会诱发RNA沉默起到抗病毒作用，关键环节包括以AGO（Argonautes）蛋白为中心的沉默复合体在 siRNAs（small interferingRNAs）的指导下降解病毒RNA[54]。而病毒为了顺利建立侵染，进化出一些效应因子（蛋白或者核酸分子，即RNA沉默抑制子）来抑制RNA沉默。CMV编码的2b 蛋白就是最早发现的一种典型RNA沉默抑制子[55]烟草感染CMV后蚜虫数量增加，而缺少了2b蛋白的烟草感染CMV后，蚜虫数量减少[36.56]。最新的研究表明,CMV可调控2b蛋白作用于寄主的JA途径，因此2b 蛋白作为一种病毒诱导物可以增强宿主对昆虫的吸引力。2b蛋白通过直接相互作用抑制寄主JA途径中ZIM结构蛋白的降解[57]，但是如何特异地抑制 JA途径相关基因表达的分子机制还有待深入研究。
+
+# 2.4宿主代谢变化影响昆虫行为
+
+分析不同植物病理数据发现，病原体侵染植物主要影响宿主的光合作用、糖酵解过程和呼吸作用。植物被病毒感染后，其代谢水平的变化会影响昆虫的行为，例如：萜烯类化合物可以有效抵抗昆虫，番茄被烟粉虱感染后萜烯类化合物的释放水平升高[51]，一些萜烯生物合成基因参与了这个过程[51.58-62]；烟粉虱更偏好于缺失萜烯合酶基因的拟南芥突变体[59.63]；CMV可以通过影响寄主挥发物吸引蚜虫进行有效的病毒传播，也可以通过吸引其他有益昆虫—一授粉昆虫熊蜂来补偿植物被病毒感染后生殖力下降等不利因素，从而形成了新的生态平衡关系[64]；苹果感染植原体 Candidatus Phytoplasma mali后释放大量的石竹烯，更容易吸引木虱[65]。这些结果表明，病原可以通过改变宿主的代谢来影响介体昆虫的行
+
+为。
+
+# 2.5虫传病毒病模仿寄主结构策略促进传播
+
+病原体通过影响介体昆虫的行为和寄主的表型来增强三者的联系，从而有利于病毒的传播。虽然对于比较蛋白质组学、转录组学和代谢组学的研究已有初步进展，但是病原调控昆虫行为的具体分子机制还不太清楚。最近对病毒一昆虫一植物三者互作的研究表明，病毒可以通过编码高级结构的蛋白来模拟寄主生理过程调控因子的结构特点，从而改变植物生理状态，促进介体昆虫传播病毒[27]。因此，我们推测病毒模仿寄主调控因子结构可能是病原体促进虫媒传播的一种方式。
+
+# 3植物病毒侵染对其他植物病害的影响
+
+关于病毒初感染改变了植物对真菌病害抗病性的研究已有报道。Vorughee 等[在研究大麦黄矮病毒（Barlyyellowdwarfvirus，BYDV）和一些麦类锈病（大麦柄锈病、小麦叶锈病、燕麦冠腐病）之间的相互作用时发现大麦黄矮病毒对其后接种的大麦网斑病菌（Pyrenophorateres）和大麦叶斑病菌（Pynchosporiumsecalis）有明显的拮抗作用。感染BYDV后可以显著降低燕麦上的脓疱总数，而且大麦、小麦、燕麦上远离BYDV感染树叶的叶片脓疱数均有减少。此外，感染了马铃薯X病毒（Potato virus X，PVX）、马铃薯Y病毒（Potato virusY，PVY）、马铃薯S病毒（PotatovirusS，PVS）或马铃薯M病毒（PotatovirusM，PVM）的土豆对致病疫霉（Phytophthora infestans）的抗性增加[6,68]。在意大利修剪树木时感染了李属坏斑病毒（Prunusnecroticringspotvirus）的植株，对核果千腐壳蕉孢菌（Cytosporacincta）9的抗性增加。感染南瓜花叶病毒（Cucurbita maxima mosaic virus）的南瓜，其对腐皮镰孢霉菌（Fusarium solani）的抗性增强[70,71]。
+
+目前感病毒植株增强对真菌病害抗性的机制尚不清楚。但研究发现感染了南瓜花叶病毒的南瓜，其下胚轴微生物种群较健康植物相比增加了1一6倍，并且下胚轴分泌物增多[71]；烟草感染烟草坏死病毒（Tobacconecrosisvirus）后增加了对黄瓜炭疽病菌（Colletotrichumlagenarium）的抗性，感染烟草花叶病毒（Tobaccomosaicvirus）后增加了对烟草黑胫病（Phytophthordparasitica）的抗性。研究发现，上述过程中植株感病毒后抗真菌物质增多[72-74]。这些研究结果表明，病毒感染可能通过引起植物抗菌物质或者招募有益微生物，提高抗真菌病害能力，具体的分子机制还有待深入研究。
+
+# 4结语与建议
+
+综上所述，我们对病毒通过改变植物生理生化过程，引起介体昆虫及其他昆虫与寄主植物互作关系改变的机制已有一定了解。但是，其他的很多三者互作过程还不是很清楚，例如，病毒能否响应介体昆虫的取食行为。花椰菜花叶病毒（Cauliflowermosaic virus,CaMV）由蚜虫传播，有研究表明CaMV可以通过寄主感应蚜虫取食，并迅速在寄主植物细胞中改变成转运形态（transmission bodies，TB）以利于自身传播[75]
+
+目前虫传病毒一介体昆虫一植物以及环境因素多者互作研究已经成为国际上的研究热点，我国应在以下3方面持续支持、重点布局。
+
+（1）开展大田生产条件下病毒病害发生的多元生物体系的作用及其互作研究，探求病毒病害防治的关键节点，设计农业生产条件下有效的病毒防治策略。建议以我国主要粮食作物为对象，从平面到立体、从对病毒本身致病性研究延伸到病毒与植物、介体昆虫、有益昆虫（天敌昆虫和授粉昆虫等）、根际微生物以及内生菌等微生物菌群互作等更接近病害的自然系统研究；进行主要作物中病毒组学（Virome）研究，更加重视重大病害基础研究与设计病害防控措施的联系，挑选大田生产中重要的、难以开展抗性育种工作的病毒病害，进行多病害间交叉互作以及病毒组学研究，明确准种（quasispecies）在致病及病害过程中的作用机制。
+
+(2）加强领域的前沿基础和新方法、新策略探索。
+
+例如，昆虫神经分子生物学技术手段、化学药物合成理论与技术的应用。注重病毒与寄主、长链非编码RNA、介体昆虫及内生菌跨界信号交流、致病机理与新型农药开发的联系、耕作制度变化与病害发生的关系。
+
+(3）以绿色防控虫媒病害为导向，开展系统的虫媒病害发生流行过程相关的微生物组学研究。作为颠覆性技术，健康作物的微生物群落发挥了单一菌株无法实现的生态功能，进行重要主粮作物和经济作物地上部分/地下部分根际、根围和昆虫体内中的微生物组学研究，发现并人工设计高效生防微生物工程菌株，为绿色防控策略的制定提供理论依据。注重从生态学和病毒病害田间自然体系，研究复杂系统中多因素之间的相互影响、相互制约关系。综合利用多者关系，探讨绿色有效防控策略。
+
+系统深入研究病毒与植物、昆虫、内生菌互作等更接近病害的自然系统，设计新型绿色农药阻断病毒传播。加强昆虫学、病毒学和植物学的多学科交叉是探明介体昆虫一病毒一共生菌等微生物群落一寄主植物多者间互作关系的前提。集全国优势单位，整合一支多学科交叉的高水平创新团队，借鉴模式生物传毒机制新成果，围绕有关虫传病毒病的关键科学问题，促进植物病毒学、昆虫学、微生物学、植物学等学科的交叉、融合与发展，并引导前沿性、边缘性新学科的形成，凝练一支拥有病毒学、昆虫学、微生物学、植物学、基础生物学、生物信息学等不同学科背景交叉的创新团队，以提升我国在相关领域的国际地位和植物病虫害的综合防控能力。
+
+movement protein of Rice yellow stunt rhabdovirus. Journal of Virology,2005, 79(4): 2108-2114.   
+4 Guo HY,Song X G, XieCM,et al. Rice yellow stunt rhabdovirus protein 6 suppresses systemic RNA silencing by blocking RDR6- mediated secondary siRNA synthesis.Molecular Plant-Microbe Interactions,2013,26(8): 927-936.   
+5 Yang JY, Iwasaki M, Machida C, et al. βC1, the pathogenicity factor of TYLCCNV, interacts with AS1 to alter leaf development and suppress selective jasmonic acid responses. Genes Development,   
+2008, 22: 2564-2577.   
+6 Cao X, Zhou P, Zhang X, et al. Identification of an RNA silencing suppressor from a plant double-stranded RNA virus.Journal of Virology,2005,79(20): 13018-13027.   
+7 Ren B, Guo Y, Gao F, et al. Multiple functions of Rice dwarf phytoreovirus Pns10 in suppressing systemic RNA silencing. Jourmal of Virology,2010,84(24): 12914-12923.   
+8 Li Y, Bao Y M, Wei C H, et al. Rice dwarfphytoreovirus segment S6-encoded nonstructural protein has a cell-to-cell movement function.Jourmalof Virology,2004,78(10): 5382-5389.   
+9 Ji X,Qian D, Wei C H, et al. Movement protein Pns6 of rice dwarf phytoreovirus has both ATPase and RNA binding activities. PLoS One,2011, 6(9): e24986.   
+10 Zhu S,Gao F, Cao X,et al. The Rice dwarf virus P2 protein interacts with ent-kaurene oxidases in vivo,leading to reduced biosynthesis of gibberellins and rice dwarf symptoms.Plant Physiology,2005,139(4): 1935-1945.   
+11 Zhou F, Wu G,Deng W, et al. Interaction of Rice dwarf virus outer capsid P8 protein with rice glycolate oxidase mediates relocalization of P8.FEBS Letter,2007,581(1): 34-40.   
+12 陈剑平,Adams MJ.禾谷多粘菌体内的大麦和性花叶病毒及 其相关的风轮体.中国农业科学,1992,2:89-90.   
+13 陈剑平.中国禾谷多黏菌传麦类病毒研究现状与展望.自然科 学进展,2005,15(5): 524-533.   
+14 Huo Y,Liu W,Zhang F,et al.Transovarial transmissionofaplant
+
+# 参考文献
+
+1Pan H,Chu D,Yan W,et al.Rapid spread of Tomato yellow leaf curl virus in China is aided differentially by two invasive whiteflies.PLoS One,2012,7(4):e34817.   
+2Huang Y W, Zhao H,Luo ZL,et al.Novel structure of the genome ofRice yellow virus:identification of the gene 6-encoded virion protein. Journal of General Virology,2003,84:2259-2264.   
+3Huang Y W,Geng YF,Ying X B,et al. Identification of a
+
+virus is mediated by vitellogenin of its insect vector.PLoS Pathog, 2014,10(3): e1003949.
+
+15 Chen Q,Wang H,Ren T,et al.Interaction between non-structural protein PnslO of Rice dwarf virus and cytoplasmic actin of leafhoppers is correlated with insect vector specificity.Journal of General Virology,2014,96:933-938.
+
+16 Wei T,Shimizu T,Omura T.Endomembranes and myosin mediate assembly into tubules of Pns1O of Rice dwarf virus and intercellular spreading of the virus in cultured insect vector cells. Virology,2008,372:349-356.
+
+17 Chen H, Chen Q,Omura T,et al. Sequential infection of Rice dwarfvirus in the internal organs of its insect vector after ingestion of virus.Virus Res,2011,160:389-394.
+
+18 Wei T,KikuchiA,Moriyasu Y,et al. The spread of Rice dwarf virus among cells of its insect vector exploits virus-induced tubular structures.Journal of Virology,2006,80(17): 8593-8602.
+
+19 Chen H, Zheng L,Jia D,et al. Rice gall dwarf virus exploits tubules to facilitate viral spread among cultured insect vector cells derived from leafhopper Recilia dorsalis.Frontiers in Microbiology,2013,4:206.
+
+20 Chen Q,Chen H,Mao Q,et al.Tubular structure induced by a plant virus facilitates viral spread in its vector insect.Plos Pathogens,2012,8(11): e1003032.
+
+21 Hajano JU,Wang B,Ren Y,et al. Quantification of southern Rice blackstreakeddwarfvirusandRiceblackstreakeddwarfvirus in the organs of their vector and nonvector insect over time.Virus Research,2015,208:146-155.
+
+22 Matsukura K,Towata T, Yoshida K,et al. Quantitative analysis of southern Rice black-streaked dwarf virus in Sogatella furcifera and virus threshold for transmission.Phytopathology,2O15,105: 550-554.
+
+23Pu LL,Xie G H, Ji C Y,et al.Transmission characteristics of Southern Rice black-streaked dwarf virus by rice planthoppers. Crop Protection,2012,41:71-76.
+
+24 Zhao W, Jiang L,Feng Z,et al.Plasmodesmata targeting and intercellular trafficking of Tomato spotted wilt tospovirus movement protein NSm is independent of its function in HR induction.Journal of General Virology,2016,97(8):1990.
+
+25 Liu S S,De Barro PJ,Xu J, et al.Asymmetric mating interactions drive widespread invasion and displacement in a whitefly. Science, 2007,318(5857): 1769-1772.
+
+26 Luan JB,Yao D M, Zhang T,et al. Suppression of terpenoid synthesis in plants by a virus promotes its mutualism with vectors. EcologyLetters,2012,16:390-398.
+
+27LiR,Weldegergis B T,LiJ,etal.Virulence factors of geminivirus interact with MYC2 to subvert plant resistance and promote vector performance. The Plant Cell,2014,26: 4991-5008.
+
+28 Wang Q,Ma X, Qian S,et al. Rescue of a plant negative-strand RNA virus from cloned cDNA: insights into enveloped plant virus movement and morphogenesis.PLoS Pathogens,2015,11(10): e1005223.
+
+29 Kazan K,Lyons R.Intervention of phytohormone pathways by pathogen effectors.Plant Cell,2014,26(6): 2285.
+
+30 Ding S W.RNA-based antiviral immunity. Nature Reviews Immunology,2010,10(9): 632-644.
+
+31 Alazem M,Lin N S.Roles of plant hormones in the regulation of host-virus interactions.Molecular Plant Pathology,2015,16(5): 529-540.
+
+32 Zhou X.Advances in understanding begomovirus satellites. Annual Review Phytopathology,2013,51(1):357-381.
+
+33Luan JB,Wang YL,Wang J,etal.Detoxification activity and energy cost is attenuated in whiteflies feeding on Tomato yellow leaf curl China virus-infected tobacco plants.Insect Molecular Biology,2013.10,22(5),597-607.
+
+34Belliure B,Janssen A,Maris PC,et al.Herbivore arthropods benefit from vectoring plant viruses.Ecology Letters,2Oo5,8(1): 70-79.
+
+35 Collum T D,Culver JN.The impact of phytohormones on virus
+
+infection and disease. Current Opinion in Virology,2016,17: 25-31.   
+36 Mauck K E,De Moraes C M, Mescher MC.Biochemical and physiological mechanisms underlying effects of Cucumber mosaic virus on host-plant traits that mediate transmission by aphid vectors.Plant Cell& Environment,2014,37: 1427-1439.   
+37 Santner A, Estelle M. Recent advances and emerging trends in plant hormone signalling. Nature,2009,459(7250): 1071-1078.   
+38 Derksen H, Rampitsch C, DaayfF. Signaling cros-talk in plant disease resistance.Plant Science,2013,207(207): 79-87.   
+39 Robert-Seilaniantz A,Grant M,Jones JD.Hormone crosstalk in plant disease and defense: more than just jasmonate-salicylate antagonism. Annual Review of Phytopathology, 201,49: 317- 343.   
+40 Durbak A,Yao H,McSteen P.Hormone signaling in plant development. Current Opinion in Plant Biology,2012,15(1): 92-96.   
+41 Zhang P J, Broekgaarden C, Zheng S J, et al. Jasmonate and ethylene signaling mediate whitefly-induced interference with indirect plant defense in Arabidopsis thaliana.New Phytologist, 2013, 197(4): 1291-1299.   
+42 Collum T D, Culver JN. The impact of phytohormones on virus infectionand disease.CurrentOpinion in Virology015,17: 25-31.   
+43 Song S,Qi T, Wasternack C, et al. Jasmonate signaling and crostalk with gibberelln and ethylene. Current Opinion in Plant Biology,2014,21(C): 112-119.   
+44 Kazan K, Manners JM. MYC2: the master in action. Mol. Plant, 2013,6(3): 686-703.   
+45 Liu B, Preisser E L, Chu D,et al. Multiple forms of vector manipulation by a plant-infecting virus: Bemisia tabaci and Tomato yellow leaf curl virus. Journal of Virology,2013, 87(9): 4929-4937.   
+46 He W B.Differential profiles of direct and indirect modification of vector feeding behaviour by a plant virus. Scientific Reports, 2015, 5: 7682
+
+47 Will T, Tjallingii WF, Thönnessen A, et al. Molecular sabotage
+
+of plant defense by aphid saliva. Proceedings of the National Academy of Sciences of the United States of America,2007,104: 10536-10541.   
+48 Will T, Kornemann SR, Furch AC,et al. Aphid watery saliva counteracts sieve-tube occlusion: a universal phenomenon? Journal of Experimental Biology,2009,212: 3305-3312.   
+49 Abe H, Tomitaka Y, Shimoda T,et al.Antagonistic plant defense system regulated by phytohormones assists interactions among vector insect, thrips and a tospovirus. Plant and Cell Physiology, 2012,53(1): 204-212.   
+50 Goldbach R,Peters D.The Bunyaviridae: Molecular and biological aspects of tospoviruses.Berlin: Springer-Verlag,1996: 129-157.   
+51 Stafford C A, Walker G P, Ullman D E. Infection with a plant virus modifies vector feeding behavior. Proceedings of the National Academy of Sciences of the United States of America, 2011, 108(23): 9350-9355.   
+52 Margaria P, Bosco L, Vallino M,et al. The NSs protein of Tomato spotted wilt virus is required for persistent infection and transmission by Frankliniella occidentalis. Journal of Virology, 2014,88(10): 5788-5802.   
+53 Casteel C L,De A M,Bak A,et al. Disruption of ethylene responses by Turnip mosaic virus mediates suppresson of plant defense against the green peach aphid vector. Plant Physiology, 2015, 169(1): 209.   
+54 Bologna NG,VoinnetO.The diversity,biogenesis,and activities of endogenous silencing small RNAs in Arabidopsis.Annu Rev Plant Biol,2014, 65(1): 473-503.   
+55Ding S W, Voinnet O.Antiviral immunity directed by small RNAs. Cell, 2007,130(3): 413-26.   
+56 ZiebellH, Murphy A M, Groen S C, et al. Cucumber mosaic virus and its 2b RNA silencing suppressor modify plant-aphid interactions in Tobacco. Scientific Reports,2011,1(2842):187- 187.   
+57 Wu DW, Qi TC,Li W X, et al. Viral effector protein manipulates
+
+host hormone signaling to attract insect vectors. Cell Research, 2017,27(3):402-415.
+
+58BleekerPM,DiergaardePJ,AmentK,etal.The role of specific tomato volatiles in tomato-whitefly interaction. Plant Physiology, 2009,151(2): 925-935.
+
+59 BleekerPM,Mirabella R,Diergaarde PJ,etal.Improved herbivore resistance in cultivated tomato with the sesquiterpene biosynthetic pathway from a wild relative.Proceedings of the National Academy of Sciences,2012,109(49): 20124-20129.
+
+60 Luan JB,Ghanim M,Liu S S,et al. Silencing the ecdysone synthesis and signaling pathway genes disrupts nymphal development in the whitefly. Insect Biochemistry and Molecular Biology,2013,43(8): 740-746.
+
+61 Luan JB,Yao D M, Zhang T,et al. Suppression of terpenoid synthesis in plants by a virus promotes its mutualism with vectors. EcologyLetters,2013,16(3):390-398.
+
+62 Spyropoulou E A,Haring MA,Schuurink R C.Expression of Terpenoids 1,a glandular trichome-specific transcription factor from tomato that activates the terpene synthase 5 promoter. Plant Molecular Biology,2014, 84(3): 345-57.
+
+63Spyropoulou E A,Haring MA, Schuurink R C.RNA sequencing on Solanum lycopersicum trichomes identifies transcription factors that activate terpene synthase promoters.BMC Genomics, 2014,15(1): 1-16.
+
+64 Groen S C,Jiang S,Murphy A M,et al.Virus infection of plants alters pollinator preference:a payback for susceptible hosts?PLoS Pathogens,2016,12(8): e1005790.
+
+65 Mayer C J,Vilcinskas A,Gross MJ,et al.Phytopathogen lures its insect vector by altering host plant odor.Journal of Chemical Ecology,2008,34(8):1045-1049.
+
+66Varughese J,Griffiths E.Effect of Barley yellow dwarf virus on susceptibility of barley cultivars to net blotch (Pyrenophora teres)
+
+and leaf blotch (Rhynchosporium secalis).Plant Pathology,2007, 32(4): 435-440.   
+67 Muller K O, Munro J. The reaction of virus-infected potato plants to Phytophthora infestans.Annals of Applied Biology,1951,38: 765-773.   
+68 Pietkiewicz. Effect of viruses on the reaction of potato to Phytophthora infestans.Journal of Phytopathology,20o8,81(4): 364-372.   
+69 Helton A W. Sustained Cytosporaresistance in Italian prune cultivars infected with Prunus ringspot virus [Rootstock effect on resistance]. Phytopathology,1974, 64: 1410-1413.   
+70 Diaz-Polanco C, Smith S H, Hancock JG.Effect of virus infection on stem rot of squash caused by Fusarium solani f. Sp. cucurbitae. Phytopathology,1969,59: 18-22.   
+71 Magyarosy A C, Hancock JG. Association of virus-induced changes in laimosphere microflora and hypocotyl exudation with protection to Fusarium stem rot. Phytopathology,1974,64: 994-1000.   
+72 JennsA E,Kuc J.Localized infection with Tobacco necrosis virus protects cucumber against Colletotrichum lagenarium. Physiological Plant Pathology,1977,11: 207-212.   
+73 Jenns A E, Kuc J. Graft transmission of systemic resistance of cucumber to anthracnose induced by Colletotrichum lagenarium and Tobacco necrosis virus. Phytopathology,1979,69: 753-756.   
+74 Mclntyre JL, Dodds JA. Induction of localized and systemic protection against Phytophthora parasitica var. nicotianae by Tobacco mosaic virus infection of tobacco hypersenstive to the virus. Physiological Plant Pathology,1979,15: 321-330.   
+75 Martiniere A, Bak A,Macia JL,et al.A virus responds instantly to the presence of the vector on the host and forms transmission morphs.Australian & New Zealand Journal of Public Health, 2013,2(2): e00183.
+
+# Research Progress and Perspective of Tripartite Interaction of Virus-vector-plant in Vector-borne Viral Diseases
+
+Ye Jian1,2 Gong Yuqing1,2 Fang Rongxiang' (1Institute of Microbiology, Chinese Academy of Sciences,Beijing l00101, China;
+
+2University of Chinese Academy of Sciences,Beijing 1ooo49,China）
+
+AbstractDue to the immobility of plants,around $7 5 \%$ of 1100 plant virus species are piercing-sucking insect transmitted.Host plantmediatedinteractiosbetweenviussandisctsplayitalolesintepopulatiodamisofectsandthpidemigofntiseas Asucessfulviralpathogenhastoevolvemultiple srategiestomanipulatehostimmuneresponsesndalsothecologicalenviontto facilitate efective transmissionbyinsectvectors.Among these trategies,reprogramming theplantimmunesignalingpathways suchas phytohormoneisciticaltotheestablishmentofaneffectivevirustransmisionamongplantsanddiseasepandemic.Here,weeviewrecent studiesontheplant-virusinterrelationshipswithafocusonmoleularandbiochemicalmechanismsthatdrivevector-boevialdiseases. Thisknowledgeisesentialforthfurtherdesignndrdevelopmentofefectiveandsustainablestrateges toprotectiraldamagessoas to increasecropyieldandfoodsecurityFutureeffortsinthisareashouldbefocusedonthefollwings:l)understandingthemchanisms of multidimensioalinteractionsofvius-vector-plant-crobiomesundernaturalandfieldcnditio;2)applyigctig-edgsearh technologiesandnoelmethodstouderstandbothmacro-cologicalsoelevelandmicro-lvelnteractios;3）developingnetechology andnoveldiseaseprotectionstrategiesbyaplyingdiseaserelatedmicrobomes,integratingandmeta-analysisofbigdatageneratingfrom dynamicsandmultipledimensionalpathogen-vector-cropinteractionsunderrealagriculturalconditionstoachievesustaiableprotection against plant diseases.
+
+Keywordsvector-borne disease,insect vector, tripartite interaction, plant virus, protection strategy叶 健中科院微生物所研究员，国家优秀青年科学基金获得者（2015）。主要从事虫媒病毒—植物—介体昆虫三者互作的信号与调控机制，以及植物抗病虫免疫中分子识别的作用机制研究。E-mai:jianye@im.ac.cn
+
+YeJianResearchFellow,WinerofExcellntYoung ScientistFoundationofNSFC(2O15).Hisresearchinterests includebiologyand chemistryofinteractiosofvius-insectvector-plant,ndmolecularrecogitionadregulationbetweenplantvector-pathogeplant immunity. E-mail: jianye@im.ac.cn
+
+方荣祥男，中科院院士，发展中国家科学院院士，中科院微生物所研究员。植物病毒学家和植物生物技术专家，长期从事植物病毒学和植物生物技术的基础研究和应用基础研究。近期主要研究微生物与寄主的相互作用，包括RNA沉默与抑制RNA沉默，媒介昆虫介导植物病害的分子机制等。E-mail: fangrx@im.ac.cn
+
+FangRongxiangMale,SeniorResearchFellow,MemberofChineseAcademyofSciences(CAS),Memberof theWorldAcademyof Sciences(TWAS)forteadvancementofscience indevelopingcountries.Heasbeenengagedinbasicandapliedresearchinplantviology andplantioteoletlysteestedidbstteactogdppo silencing, molecular mechanism of insect vectors in mediating plant diseases.E-mail: fangrx@im.ac.cn

@@ -1,0 +1,116 @@
+# Isospin and $\mathbf { Z } ^ { 1 / 3 }$ Dependence of the Nuclear Charge Radii
+
+S.Q. Zhang $^ { - 1 }$ , J. Meng $^ { 1 , 2 , 3 }$ \*, S.-G. Zhou $^ { 1 , 2 , 3 }$ , and J.Y. Zeng $^ { 2 , 3 , }$ 4
+
+（20 $^ 1$ Department of Technical Physics, Peking University, Beijing 10871 （20 $^ 2$ Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100080 （204号 $^ 3$ Center of Theoretical Nuclear Physics， National Laboratory of Heavy Ion Accelerator, Lanzhou 730000 （204 $^ 4$ Department of Physics, Peking University, Beijing 100871 (August 1, 2017)
+
+# Abstract
+
+Based on the systematic investigation of the data available for $A \geq 4 0$ ，a $Z ^ { 1 / 3 }$ dependence for the nuclear charge radii is shown to be superior to the generally accepted $A ^ { 1 / 3 }$ law. A delicate scattering of data around $R _ { c } / Z ^ { 1 / 3 }$ （20 is infered as owing to the isospin efect and a linear dependence of $R _ { c } / Z ^ { 1 / 3 }$ （2 on $N / Z$ (or $( N - Z ) / 2$ ）is found. This inference is well supported by the microscopic Relativistic Continuum Hartree-Bogoliubov (RCHB) calculation conducted for the proton magic Ca, Ni, Zr, Sn and Pb isotopes including the exotic nuclei close to the neutron drip line. With the linear isospin dependence provided by the data and RCHB theory, a new isospin dependent $Z ^ { 1 / 3 }$ formula for the nuclear charge radii is proposed.   
+PACS: 21.10.-k, 21.10.Ft, 21.10.Dr, 21.60.-n,21.60.Jz
+
+Nuclear radius is one of the most fundamental bulk properties of an atomic nucleus [1,2]. Among all the size quantities describing nucleus, nuclear charge radii has been investigated by various techniques and methods experimentally [3-9], including the muonic atom spectroscopy [3], isotope shift of optical and K X-ray spectroscopy [4-8] and high energy elastic electron scattering [9], etc.. Recently more and more nuclei far from the $\beta$ -stability line become accessible experimentally thanks to the development of radioactive ion beam facilities [10,11]. The nuclear size connected with exotic phenomena such as skin and halo have become a hot topic. The understanding of its property has importance not only in nuclear physics,but also in other felds such as astrophysics and atomic physics, etc. With its accuracy, the study of the nuclear charge radiis very important to understand not only the proton distribution inside the nucleus but also the halo and skin. Particularly if one can get a simple and reliable formula for nuclear charge radii, it will be very useful to extract the de-coupling of proton and neutron in the exotic nuclei and provide information for the effective nucleon-nucleon interaction widely used in all the nuclear models. Here in this letter the available experimental charge radii data for $A \geq 4 0$ will be examined and its global behavior will be studied. Instead of the widely accepted $A ^ { 1 / 3 }$ law,a new $Z ^ { 1 / 3 }$ formula with isospin effect will be proposed.
+
+Based on the consideration of the nuclear saturation property, nuclear charge radii $R _ { c }$ （204 are usually described by the $A ^ { 1 / 3 }$ law [1,2]
+
+$$
+R _ { c } = r _ { A } A ^ { 1 / 3 } ,
+$$
+
+where $A$ is the mass number and $R _ { c } = \sqrt { \frac { 5 } { 3 } } \ \langle r ^ { 2 } \rangle ^ { 1 / 2 }$ ，with $\langle r ^ { 2 } \rangle ^ { 1 / 2 }$ the root-mean square (rms) charge radius. For very light nuclei, because of their small $A$ and large fluctuation in charge distribution due to the shell effect with short period,it seems that the charge distribution radius as a bulk property has little meaning. A detail analysis of charge radius data for $A \geq 4 0$ shows that $r _ { A }$ is by no means a constant, but systematically decreases with $A$ ; i.e., $r _ { A } \approx 1 . 3 1$ fm for light nuclei ( $A \sim 4 0$ ）and $r _ { A } \approx 1 . 2 0$ fm for very heavy nuclei (see upper left panel in Fig. 1). This fact implies that some physics is missing in Eq. (1).
+
+A definite evidence of the violation of $A ^ { 1 / 3 }$ law is also found in the measurements of isotope shift in mean square charge radi [12,13]. In particula, $\delta \langle r ^ { 2 } \rangle _ { A + 2 , A }$ values (associated with an addition of two neutrons） are often found to be considerably smaller compared to what is expected from the $A ^ { 1 / 3 }$ law $\begin{array} { r } { ( \delta \langle r ^ { 2 } \rangle _ { A + 2 , A } = \frac { 4 } { 3 A } \langle r ^ { 2 } \rangle _ { A } ) } \end{array}$ . A typical example is that the observed charge radi of the calcium isotopes $^ { 4 0 - 5 0 }$ Ca remain almost the same (except a very litle change induced by deformation or shell effect), though the mass number $A$ has changed significantly. In contrast, there is also evidence that the observed $\delta \langle r ^ { 2 } \rangle _ { A + 2 , A }$ values (associated with the addition of two protons) are often greater than what is expected from the $A ^ { 1 / 3 }$ law (e.g., $\delta \langle r ^ { 2 } \rangle$ for $^ { 4 6 } \mathrm { T i - ^ { 4 4 } C a }$ ， $^ { 5 0 } \mathrm { T i } - ^ { 4 8 }$ Ca, etc.).
+
+Along the $\beta$ -stability line,the ratio $Z / A$ gradually decreases with $A$ ，i.e.，for light nuclei $Z / A \approx 1 / 2$ ， and for the heaviest $\beta$ -stable nucleus $^ { 2 3 8 } _ { \ 9 2 }$ U， $( Z / A ) ^ { 1 / 3 } \approx 0 . 7 2 8 5$ ，thus $( 1 / 2 ) ^ { 1 / 3 } / ( Z / A ) ^ { 1 / 3 } \approx 1 . 0 9$ ， which is very close to the $r _ { A }$ ratio 1.30/1.20 shown in upper left panel of Fig. 1. A naive point of view is that the charge radius of a nucleus may be more directly related to its charge number $Z$ , rather than its mass number $A$ . Therefore, compared to the $A ^ { 1 / 3 }$ law,a $Z ^ { 1 / 3 }$ dependence for nuclear charge radii may be more reasonable
+
+$$
+R _ { c } = r _ { Z } Z ^ { 1 / 3 } .
+$$
+
+as noted in Ref. [12]. An analysis of the very limited data of charge radii then available showed that $r _ { Z }$ remains almost a constant, i.e., $r _ { Z } = 1 . 6 5 ( 2 )$ fm for $A \geq 4 0$ .The $Z ^ { 1 / 3 }$ （2 dependence of nuclear charge radii was also used to modify the Coulomb energy term in the semi-empirical nuclear mass formula [14],and it was found that the agreement between the calculated and experimental results was improved. Moreover， the $A ^ { - 1 / 3 }$ law for the nuclear giant ( monopole, dipole and quadrupole ） resonance energy ( $\propto 1 / R _ { , }$ ） also could be improved, if the $A ^ { - 1 / 3 }$ dependence is replaced by a $Z ^ { - 1 / 3 }$ dependence [15].
+
+In the past two decades, a vast amount of new experimental information on the electromagnetic structure of nuclear ground states of many nuclei has become available [3-9], and accuracy has been improved. In particular the muon factories at Los Alamos (LAMPF) and at Villigen (PSI, formerly SIN) started their operation at 1974. Almost allstable nuclei have been measured by the muonic X-ray transition technique and the corresponding charge radii have been rather accurately deduced (the experimental relative error is about $1 0 ^ { - 3 }$ ） Moreover, modern techniques for optical isotope shift measurements have made it possible to reach even short-lived (down to 1 s) unstable isotopes [3]. Therefore, it is worthwhile to reexamine the fundamental property of nuclei and to investigate whether the vast amount of improved experimental results follow the $Z ^ { 1 / 3 }$ dependence. The values of measured $\langle r ^ { 2 } \rangle ^ { 1 / 2 }$ （204号 for 536 nuclei with $A \ \geq \ 4 0$ compiled in Ref. [3-9] are analyzed in Fig. 1 by using the （20 $A ^ { 1 / 3 }$ and $Z ^ { 1 / 3 }$ dependence, respectively. The dependence of charge radii on the quadrupole deformation $\beta$ has been taken into account for the rare-earth deformed nuclei, i.e. [1]
+
+$$
+r _ { A } = r _ { A d } ( 1 + \frac { 5 } { 8 \pi } \beta ^ { 2 } ) , r _ { Z } = r _ { Z d } ( 1 + \frac { 5 } { 8 \pi } \beta ^ { 2 } ) ,
+$$
+
+and for spherical nuclei ( $\beta = 0$ )： $r _ { A } = r _ { A d }$ ， $r _ { Z } = r _ { Z d }$ ， and the values of $\beta$ are taken from Ref. [9,16].
+
+In the upper left and right panels of Fig.1, the charge radii for the most stable 159 nuclei with $A \geq 4 0$ along the $\beta$ -stability line have been analyzed by using the $A ^ { 1 / 3 }$ and $Z ^ { 1 / 3 }$ （20 dependence. In the middle left and right panels, the same has been done for the measured （204 $\langle r ^ { 2 } \rangle ^ { 1 / 2 }$ for 536 nuclei with $A \geq 4 0$ . Two significant features can be observed: (A) On the one hand, the agreement between the data and the calculated results using the $Z ^ { 1 / 3 }$ dependence is much better than that using the $A ^ { 1 / 3 }$ law, i.e., while there exists a global regular decrease of $r _ { A d }$ with $A$ ， $r _ { Z d }$ nearly remains constant ( $r _ { Z d } = 1 . 6 3 1 ( 1 1 ) \mathrm { f m } _ { , }$ ). The relative rms deviations （204号 $\sigma$ for the $Z ^ { 1 / 3 }$ dependence ( $\sigma = 7 . 5 7 \times 1 0 ^ { - 3 }$ for stable nuclei and $1 . 0 0 \times 1 0 ^ { - 2 }$ for 536 nuclei ）are much less than that for the $A ^ { 1 / 3 }$ law ( $\sigma = 1 . 9 0 \times 1 0 ^ { - 2 }$ for stable nuclei and $1 . 6 3 \times 1 0 ^ { - 2 }$ （204号 for 536 nuclei). (B) On the other hand, though the rms deviation for the $Z ^ { 1 / 3 }$ dependence is significantly reduced, an isospin induced scattering of the data in the middle panels in Fig. 1 can be also observed compared with that in the top panels. In fact, $r _ { Z d }$ generally increases with $N$ for most isotopic chains, e.g.for $^ { 9 0 - 9 6 } _ { 4 0 } Z \mathrm { r }$ ， $_ { 4 2 } ^ { 9 2 - 1 0 0 }$ Mo， $_ { 4 4 } ^ { 9 6 - 1 0 4 }$ Ru, $_ { 4 6 } ^ { 1 0 2 - 1 1 0 } \mathrm { P d }$ ， $_ { 4 8 } ^ { 1 0 6 - 1 1 6 }$ u $_ { 5 0 } ^ { 1 1 2 - 1 2 4 }$ S $_ { 5 2 } ^ { 1 2 2 - 1 3 0 }$ Te, 24- 130Xe, $_ { 6 0 } ^ { 1 4 2 - 1 4 8 }$ N $^ { 1 4 4 - 1 5 4 } _ { 6 2 }$ $^ { 1 5 4 - 1 6 0 } _ { 6 4 } \mathrm { G d }$ ,ete, (except for only a few lighter isotopicchains,e.g., $_ { 3 6 } ^ { 7 8 - 8 6 }$ Kr, $^ { 8 4 - 8 8 } _ { 3 8 } \mathrm { S r }$ , and a smallanomalous decrease of （204 $r _ { Z d }$ with $N$ due to the shell closure at $N = 5 0$ is observed). Therefore, it seems necessary to investigate an isospin dependent correction for the scattering of $r _ { Z d }$ . In Ref. [13,17], the isospin effect has been considered based on the $A ^ { 1 / 3 }$ law. However, considering the fact that the $Z ^ { 1 / 3 }$ dependence can describe the nuclear charge radi much better than the $A ^ { 1 / 3 }$ law, we take the $Z ^ { 1 / 3 }$ dependence as a more reasonable starting point for describing the isospin dependence of nuclear charge radii.
+
+To confirm that isospin dependent $Z ^ { 1 / 3 }$ formula to be developed for nuclear charge radii mentioned above is also valid for nuclei far from the $\beta$ -stability line, the charge radii in exotic nuclei is needed. However, as no such data is available, what we can do is to require that our new isospin dependent $Z ^ { 1 / 3 }$ formula should assort with a reliable and microscopic nuclear model.
+
+The fully self-consistent and microscopic relativistic continuum Hartree-Bogoliubov (RCHB) theory，which is an extension of the relativistic mean field (RMF）[18-20] and the Bogoliubov transformation in the coordinate representation [21], is a good candidate for the present purpose. The RCHB theory can describe satisfactorily the ground state properties for nuclei both near and far from the $\beta$ -stability line. A remarkable success of the RCHB theory is the self-consistent reproduction of the halo in $^ { 1 1 }$ Li [22] and prediction of the exotic phenomenon - giant halo [23]. In combination with the Glauber model, the RCHB theory successfully reproduces the interaction cross section in Na isotopes [24] and the charge changing cross section of C, N, O, F isotopes (ranging from the $\beta$ -stability line to the neutron drip line) on the target of $^ { 1 2 } \mathrm { C }$ at 930 MeV/u [25,26]. These successes encourage us to apply the RCHB theory for the description of charge radii of nuclei both close to and far from the $\beta$ -stability line and check its validity for the data available and provide information for nuclei far away from the stability line.
+
+The detailed formalism and numerical techniques of the RCHB theory can be found in Ref. [21] and the references therein. In the present calculations, we follow the procedures in Ref. [21,23,24] and solve the RCHB equations in a box with the size $R = 2 0$ fm and a step size of O.1 fm. The parameter set NL-SH [27] is used,which aims at describing both the stable and exotic nuclei. The density dependent $\delta$ -force in the pairing channel with $\rho _ { 0 } = 0 . 1 5 2 \ \mathrm { f m ^ { - 3 } }$ is used and its strength $V _ { 0 }$ is fixed by the Gogny force as in Ref. [21]. The contribution from continua is restricted within a cut-off energy $E _ { c u t } \sim 1 2 0 \mathrm { M } \mathrm { \Omega }$ V.
+
+As typical examples, we studied the even-even Ca, Ni, Zr, Sn and Pb isotopes ranging from the $\beta$ -stability line to neutron drip line. The two neutron separation energies $S _ { 2 n }$ is one of the essential quantities to test a nuclear model. In Fig. 2, the calculated $S _ { 2 n }$ （204号 (open symbols) of the even-even Ca, Ni, Zr, Sn and Pb isotopes by the RCHB theory are compared with the data available (solid symbols) [28], where a satisfactory agreement is seen. Particularly the deviation between the calculated binding energies with the data available is within 1%. In the present calculation, the neutron drip-line nuclei are predicted at $^ { 7 2 }$ Ca, （204 $^ { 9 8 }$ Ni, $^ { 1 4 0 }$ Zr and $^ { 1 7 6 }$ Sn, respectively. In the $S _ { 2 n }$ versus $N$ curve for each isotopic chain, there are some kinks due to the neutron shell or subshell closure. For example,the closed shells at $N = 2 0$ ，28 and subshell at $N = 4 0$ correspond to kinks in the $S _ { 2 n }$ versus $N$ curve for Ca isotopes at $^ { 4 0 }$ Ca, $^ { 4 8 }$ Ca and $^ { 6 0 }$ Ca, respectively. While the kink at $N = 2 0$ for $^ { 4 0 }$ Ca may be also due to the Wigner term for $N = Z = 2 0$ . However, there are no kinks at $^ { 7 0 }$ Ca and （20 $^ { 1 7 6 }$ Sn, which indicate the disappearance of magic number $N = 5 0$ and 126 for these nuclei in RCHB.
+
+The rms charge radii $\langle r ^ { 2 } \rangle ^ { 1 / 2 }$ obtained from the RCHB theory (open symbols） and the data available (solid symbols) for the even-even Ca, Ni, Zr, Sn and Pb isotopes are given in Fig. 3. As it could be seen, the RCHB calculations reproduce the data very well ( within （204号 $1 . 5 \%$ ). For a given isotopic chain，an approximate linear $N$ dependence of the calculated rms charge radii $\langle r ^ { 2 } \rangle ^ { 1 / 2 }$ is clearly seen in Fig. 3, which shows that the variation of $\langle r ^ { 2 } \rangle ^ { 1 / 2 }$ （204号 for a given isotopic chain deviates from both the the simple $Z ^ { 1 / 3 }$ dependence and the simple （204号 $A ^ { 1 / 3 }$ law (denoted by dashed lines in Fig. 3). Therefore, a strong isospin dependence of nuclear charge radii is necessary for nuclei with extreme $N / Z$ ratio.
+
+In Fig. 4, the experimental and RCHB predicted $r _ { Z d } = R _ { c } / Z ^ { 1 / 3 }$ for the proton magic isotopes are presented as a function of $\eta = N / Z$ . It is clearly seen that the coefficient $r _ { Z d }$ （20 increases linearly with $\eta$ (except some deviations due to deformation or shell effect） and the slopes are nearly the same for these isotopic chains. The linear $\eta$ （or isospin $T _ { Z } = ( N { - } Z ) / 2$ ） dependence of $r _ { Z d }$ for an isotopic chain may be understood as the effect of the first order perturbation correction of nuclear wave function due to an isospin $T _ { Z }$ dependent interaction [29]. Based on the analysis of data in the middle and upper panels of Fig. 1 and RCHB prediction in Fig. 3 and 4，we propose the following isospin dependent $Z ^ { 1 / 3 }$ formula for nuclear charge radii:
+
+$$
+R _ { c } = a Z ^ { 1 / 3 } \left[ 1 + b ( \eta - \eta ^ { * } ) \right] , ~ \eta = N / Z ,
+$$
+
+where $\eta ^ { * }$ is $\eta = N / Z$ for the nuclei along the $\beta$ -stability line which can be directly extracted from the nuclear mas formula [1], $\begin{array} { r } { a = r _ { Z d } ^ { * } ( 1 + \frac { 5 } { 8 \pi } \beta ^ { 2 } ) } \end{array}$ ， $r _ { Z d } ^ { * } = 1 . 6 3 1 ( 1 1 )$ fm obtained in upper right panel of Fig.1, and $b = 0 . 0 6 2 ( 9 )$ obtained from the least square fitting.
+
+The analysis of the available data using Eq. (4) with $r _ { Z d } ^ { * }$ and $b$ thus obtained is displayed in the lower right panel of Fig. 1. It is found the data are reproduced better by Eq. (4) than by Eq. (2) (the rms deviation is reduced by about $4 0 \%$ ). The same has been done for $A ^ { 1 / 3 }$ （204号 dependence but with less success (see the lower left panel of Fig. 1). In Ref.[13,17],a similar equation for $A ^ { 1 / 3 }$ dependence has been used to describe the isospin dependence of charge radii and a better agreement has been achieved by fitting both $r _ { A }$ and $b$ simultaneously. But then a simple explanation for $r _ { A }$ (saturation property） and $b$ (isospin effect) in Eq. (4) is missing. It is expected that the modified $Z ^ { 1 / 3 }$ formula (Eq. (4)） will become more useful with more and more data obtained for the nuclei far from the $\beta$ -stability line.
+
+In summary， we have systematically investigated the nuclear charge radii with $A \ \geq$ 40. It is clearly seen that the $Z ^ { 1 / 3 }$ dependence is superior to the $A ^ { 1 / 3 }$ law. A delicate scattering of data around $R _ { c } / Z ^ { 1 / 3 } = 1 . 6 3 1$ is infered as owing to the isospin effect and a linear dependence of $R _ { c } / Z ^ { 1 / 3 }$ on $N / Z$ （or $( N - Z ) / 2$ ）is found. This inference are well supported by the microscopic RCHB calculation conducted for the proton magic Ca, Ni, Zr, Sn and Pb isotopes including the exotic nuclei close to the neutron drip line,which reproduce $S _ { 2 n }$ and nuclear charge radii data available well. With the linear dependence of the coefficient $r _ { Z d }$ on $N / Z$ (or $( N - Z ) / 2$ ）read from data and RCHB theory， a new isospin dependent $Z ^ { 1 / 3 }$ formula for the nuclear charge radii is proposed, which improves the description of the data available for nuclei near the $\beta$ -stability line and could be very useful for new data obtained for nuclei far from the $\beta$ -stability line.
+
+We would like to thank A.Arima, B.A.Brown, I.Hamamoto, K.Matsuyanagi, W.Q.Shen, I.Tanihata, B.Tsang and V.Zelevinsky for delightful discussions. This work was partly supported by the Major State Basic Research Development Program Under Contract Number G2000077407 and the the National Natural Science Foundation of China under Grant Nos. 10025522， 19847002 and 19935030.
+
+# REFERENCES
+
+[1] A. Bohr and B.R. Mottelson, Nuclear Structure, Vol.1, W.A. Benjamn Inc., New York, Amesterdam (1969).   
+[2] P. Ring and P. Shuck, The Nuclear Many-Body Problem, Springer-Verlag, Berlin (1980).   
+[3] G. Fricke, et.al., At. Data Nucl. Data Tables 60,177 (1995),and references therein.   
+[4] P. Aufmuth, K. Heilig,and A. Steudel, Atom. Data And Nucl. Data Tables 37, 455 (1987).   
+[5] E.W.Otten, Treatise on Heavy-Ion Science vol. 8, ed D. A. Bromley (New York: Pleum) p. 515.   
+[6] J. Billowes and P. Campbell, J. Phys. G: Nucl. Part. Phys. 21, 707 (1995),and references therein.   
+[7] H.A.Schuessler， A.Alousi, R.M. Evans, et al., Phys. Rev. Lett. 65,1332 (1990).   
+[8] J. M. G. Levins, D. M. Benton, and J. Billowes et. al., Phys. Rev. Lett.82, 2476 (1999).   
+[9] H.De Vries, C.W.De Jager, and C.De Vries, At. Data Nucl. Data Tables 36, 495 (1987).   
+[10] I.Tanihata, Prog.Part.and Nucl.Phys.,35 505 (1995).   
+[11] P.G. Hansen, A.S. Jensen, and B. Jonson, Ann. Rev. Nucl. Part. Sci. 45 591 (1995).   
+[12] J.Y. Zeng, Acta Phys. Sin. 13, 357 (1957); Acta Phys. Sin. 24, 151 (1975).   
+[13] B. Nerlo-Pomorska and K. Pomorski, Z. Phys. A 344, 359 (1993).   
+[14] C.Y. Tseng (J.Y. Zeng), T.S. Cheng and F.C. Yang (F.J. Yang), Nucl. Phys. A334, 470 (1980).   
+[15] J.Y. Zeng and F.C. Yang, Scientia Sinica (series A) 25, 263 (1982).   
+[16] P. Muellr, J. R. Nix, W. D. Myers., and W. J. Swiatecki, Atomic Data Nucl. Data
+
+Tables 59, 185-381 (1995).
+
+[17] M. Warda, B. Nerlo-Pomorska and K. Pomorski, Nucl. Phys. A635,484(199 references therein.   
+[18] B.D. Serot and J.D. Walecka, Adv. Nucl. Phys. 16,1 (1986).   
+[19] P-G. Reinhard, Rep. Prog. Phys. 52, 439 (1989).   
+[20] P. Ring, Prog. Part. Nucl. Phys. 37, 193 (1996).   
+[21] J. Meng, Nucl. Phys. A635, 3 (1998); ibid. 654, 702c (1999).   
+[22] J. Meng and P. Ring, Phys. Rev. Lett. 77, 3963(1996).   
+[23] J. Meng and P. Ring, Phys. Rev. Lett. 80, 460 (1998).   
+[24] J. Meng, I. Tanihata and S. Yamaji, Phys. Lett.B419,1 (1998).   
+[25] L.V. Chulkov et.al., Nucl. Phys. A674, 330 (2000),and references therein.   
+[26] J. Meng et.al., in preparation.   
+[27] M.M. Sharma, M.A. Nagarajan, and P. Ring, Phys. Lett. B 312,377(1993).   
+[28] G. Audi and A.H. Wapstra, Nucl. Phys. A595 (1995) 409.   
+[29] E. P. Wigner, Proceeding of the Robert A. Welch Foundation Conference on C Research 1957, Edited by W.D. Millikan.
+
+# FIGURES
+
+![](images/b3521762943a9f95bc78ca61824a5ac25a88d939bb15b6f9b60e8f609be19b24.jpg)  
+FIG.1. The nuclear charge radius data for $r _ { A }$ in $A ^ { 1 / 3 }$ and $r _ { Z }$ in $Z ^ { 1 / 3 }$ law with and without isospin dependence, for the details see the text.
+
+![](images/d4231a4fcf64d544001b9d548041b338c872c790f8697f6c8dad45ef2a4f95bd.jpg)
+
+FIG.2. Two-neutron separation energies $S _ { 2 n }$ of even Ca, Ni, Zr, Sn, Pb isotopes as a function of $N$ , including the data (solid symbols) from Ref.[28] and the RCHB calculation with a $\delta$ -force (open symbols).
+
+![](images/b665dc8dc22fd0ffd0faf90026031f1ad87c327fd768d3d05d2c9343ced20e72.jpg)
+
+FIG. 3. The rms charge radii versus the neutron number $N$ for even-even Ca, Ni, Zr, Sn, Pb isotopes. The RCHB calculation with $\delta$ -force is represented by open symbols,while the corresponding data is denoted by solid symbols. The dashed lines represent the predictions by the $A ^ { 1 / 3 }$ law with $r _ { A d } = 1 . 2 2 8$ fm.
+
+![](images/6f19e359e91d18f42d7c4f10ec7b87006337816521bbd0bdbaf89e74af3f0974.jpg)
+
+FIG.4. The experimental (solid symbols） and RCHB predicted（dashed lines ） coefficient （204 $r _ { Z d } = R _ { c } / Z ^ { 1 / 3 }$ for the nuclear charge radiias a function of isospin quantity $\eta = N / Z$ in even-even Ca, Ni, Zr, Sn and Pb isotopes. An asymptotic behavior is drawn as a solid line.

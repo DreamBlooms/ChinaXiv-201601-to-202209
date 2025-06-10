@@ -1,0 +1,650 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进ER的生鲜冷链物流服务质量评估方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谷玲玲，耿秀丽(上海理工大学 管理学院，上海 200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对生鲜冷链物流服务质量评价信息高度冲突问题，采用改进的证据推理（evidence reasoning，ER）方法处理指标评估信息。首先，考虑各专家对生鲜冷链物流服务供应商的指标评估具有不确定性特点，提出采用 ER方法处理每个供应商的指标评估信息；其次，考虑各专家对每个供应商的评估信息具有高度冲突问题，采用cosine 相似函数衡量冲突变化程度，利用证据间的一致性计算证据权重，并对评估信息进行修正；然后，再运用证据推理方法集成修正后的供应商评估信息；最后以某企业选择生鲜冷链物流服务供应商为例进行分析，并将分析结果与对比方法计算的结果相对比。结果表明，所提方法能有效解决高度冲突问题，并能降低因冲突引起的不确定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生鲜冷链物流；物流服务质量；证据推理；cOsine相似函数 中图分类号：F719 doi: 10.19734/j.issn.1001-3695.2018.09.0817 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evaluation method of fresh cold chain logistics service quality based on improved ER ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gu Lingling, Geng Xiuli (Business School,University ofShanghai for Science ofTechnology,Shanghai2Ooo93,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aimingatthe high conflict problem of fresh cold chainlogisticsservice quality evaluation information,the improved Evidence Reasoning (ER) method was used to process the indicator evaluation information.Firstlyconsidering the uncertaintyofthe expert'sassssmentofthe indicatorsof thefreshcoldchainlogisticsservice providers,theERmethod was proposed to process indicator evaluation informationof each supplier.Secondlyconsider the evaluationof each supplier byeach expert.The information hasa high degreeofconflict.Thecosine similar function was usedto measure the degreeofconflictchange.The evidence weights wereused tocalculate the weightoftheevidence and theevaluation information is corrected.Then,theevidence reasoning method wasused to integrate the revised supplierevaluation information.Finally,an enterprise selectedthe fresh cold chain logisticsservice provideras anexample for analysis,and compared theanalysis results with theresults calculated bythecomparison method.Theresults show that the proposed method can effectively solve the high conflict problem and reduce the uncertainty caused by the conflict. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: fresh cold chain logistics; logistics service quality; evidence reasoning;cosine similarity function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济的快速发展以及人们生活水平的不断提高市场对生鲜食品质量要求及需求量均不断提升。在竞争激烈的市场环境下，单靠产品建立的竞争优势已经越来越不明显。许多企业将关注点转移到了物流服务质量上，希望通过提高物流服务质量来获取竞争优势。因此，生鲜冷链物流服务供应商的质量评估已成为一个重要问题。生鲜冷链物流服务质量主要是顾客/专家进行评估，但是这些评估信息往往具有主观不确定性的特点。针对属性评估不确定性问题，许多学者对其进行了研究。文献[1]针对指标评价值为语言信息、专家权重且指标权重信息不确定的多属性群决策问题，提出采用直觉模糊集处理语义评价信息的方法。文献[2]针对专家评价信息具有不自信和不确定性，导致决策信息部分丢失的问题，提出一种基于证据推理（evidence reasoning，ER）和VIKOR的决策方法。文献[3]针对不确定的属性评价信息问题，提出一种基于粗糙信息公里的方案指标评价方法。其中，ER 方法将评估专家的经验偏好转换到同一识别框架中，具有无须先验概率、推理逻辑简单等优点，是一种处理不确定性多属性决策问题的有效方法[4]，并被广泛地应用于装备保障资源评估[5]、动态系统安全性在线评估[6]、云服务适应性评估[7]等多个领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生鲜冷链物流服务质量评估中除了存在指标评估不确定性问题之外，还可能存在评估信息高度冲突的问题。若直接用ER对指标评估信息进行集成，会出现与现实相悖的融合结果。目前针对高度冲突信息的处理问题，多数学者对证据理论（Dempster-Shafertheory，D-S）进行了改进，并提出解决高度冲突信息问题的方法。文献[8]提出运用Jousselme 证据距离定义证据的一致性，采用序贯式加权证据组合方法，处理冲突证据融合问题。文献[9]提出一种置信区间的仿真距离测度来表示证据间的冲突，并根据距离测度计算证据体权重，通过加权平均法对证据进行融合，解决了冲突证据的集结问题。文献[10]运用折扣系数来修正冲突证据，提出了一种改进的基于不一致度量的冲突证据组合方法融合冲突信息。文献[11]提出采用Pignistic 概率转换求得各类证据的相似度，修正各证据的基本概率分配函数（basic probabilityassignmentBPA）缓解证据之间的冲突程度。以上方法均是针对D-S方法的改进，而目前对ER的改进研究较少，主要分为两类方法。第一类是将冲突信息平均化。例如文献[12]提出将平均信念纳入组合规则，首先是对BPA平均化，然后再对信息进行集成处理。这类方法仅仅是对信息进行了简单的平均，虽能缓解冲突，但是对高度冲突问题并不适用，也没有区分冲突信息与非冲突信息。第二类是将冲突信息全部划分到未知领域，或将冲突信息在已知领域与未知领域之间合理分配。例如文献[13]提出通过一定比例把冲突系数在已知和未知领域中进行合理分配，虽采用了冲突系数来衡量证据间的冲突，也能解决高度冲突问题，但这类处理方法会加大组合后证据的不确定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对现有ER改进方法的不足，考虑证据间相互冲突大小，提出一种基于余弦相似度的证据冲突度量方法对ER进行改进。为提高决策的可靠信，本文采用群决策的方式，对每个生鲜冷链物流服务供应商的服务质量进行评估。首先运用ER方法集结候选生鲜冷链物流服务供应商的指标评估信息，得出各评估专家对候选生鲜冷链物流服务供应商的评估信息；其次通过计算各评估专家对候选生鲜冷链物流服务供应商的综合评估信息cosine相似度，衡量各评估专家对供应商的综合评估信息的冲突程度，再根据cosine相似度计算证据可信度（即证据权重）对每个供应商的评估信息进行修正；然后再次运用ER方法融合修正后的各专家对每个供应商的评估信息，得出候选供应商的综合评估信任度；再运用效用理论计算各候选供应商的平均效用度，依据平均效用度大小对候选生鲜冷链物流服务供应商进行排序。最后，本文以某企业选择生鲜冷链物流服务质量较好的生鲜冷链物流服务供应商为例，验证所提方法的有效性和可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 评价指标体系及指标信息转换",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1建立评价指标体系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "保证生鲜产品的质量是生鲜冷链物流服务质量体系的基本目标，同时也是最主要的目标。对生鲜冷链物流服务质量的评价涉及指标较多，这些指标之间相互关联、相互影响，共同决定了生鲜企业冷链物流的服务质量。生鲜冷链物流服务质量的评价主要包括三个方面：a)企业应该具备的物流服务能力评价；b)企业提供的冷链物流服务过程质量评价；c)生鲜商品的质量评价[17]。根据这三个方面，在参考文献[18\\~22]的基础上，建立了如图1所示的指标体系。该评估指标体系包括总指标层、分指标层和基本指标层。总指标层是所要评估的生鲜冷链物流服务质量的总效能，分指标层由生鲜食品质量、冷链物流服务过程质量和物流服务能力三方面组成；基本指标层由生鲜食品感官品质、微生物指标、化学指标、储存温度控制、时效性等11项基本指标组成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物流服务质量 总指标层生鲜食品 物流服务 物流服务质量 过程质量 能力 分指标层生鲜食品感官品 微生物指标 化学指标 储存温度控制 时效性 食品包装安全性 可追溯性 订单处理能力 物流信息处理能 配送人员因素 客户需求信息处 基本层质 力 理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各评估指标的含义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)生鲜食品质量。生鲜食品质量是顾客最关心的一项指标，主要从生鲜食品的感官品质、微生物指标和化学指标方面进行评价。生鲜食品的感官品质主要从生鲜食品的色泽、气味以及弹性角度评价生鲜食品的感官品质；微生物指标反映生鲜食品表面含有的微生物菌群量。化学指标反映生鲜食品中添加的防腐剂量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)冷链物流服务过程质量。冷链物流服务过程质量主要从生鲜产品的包装、储存、运输以及配送等环节进行评价。储存温度控制是指保持食品新鲜度而设定的最佳控制温度，储存温度的控制直接影响产品的品质；时效性反映生鲜冷链物流各个部门、各个环节之间的协调性；食品包装的安全性是指生鲜冷链物流服务供应商的包装形式,能否最大程度地降低食品的货损率;可追溯性是指物流服务全过程的可追溯性",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)物流服务能力。物流服务能力是指顾客无法直接感受到的但却对服务质量有支撑性作用的内部体系。订单信息的处理反映企业对顾客需求作出反映的快慢；物流信息处理能力是指实时反馈产品处于何种物流状态的能力，顾客能否实时查看到包裹的物流信息；服务人员的素质是指工作人员是否按时有效的完成各项培训工作，工作效率是否得到保证；客户需求信息处理是指企业是否满足客户对物流服务的多样化需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2定量信息转换 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生鲜冷链物流服务质量评估体系中基本指标层包含了定量和定性指标，其中定量指标包括微生物指标、化学指标和储存温度控制；定性指标包括生鲜食品感官品质、时效性和食品包装安全性等。将这些不同类型的数据转换到统一的框架下是应用ER算法的前提。信度分布形式描述的主要优点在于精确的数值数据、不确定的主观分布型数据都可以在信度分布结构框架下建模。Yang提出的基于规则信息转换技术，依据决策者的知识与经验实现服务质量评估中定量与定性数据向统一信度框架的转换，有效减小主观不确定性。通过变换可以将定量和定性指标的评估信息转换到相同的评估模型中，其评估模型的信度分布形式可以表示为$S ( a _ { l } ( e _ { i } ) ) = \\big \\{ ( H _ { n } , \\beta _ { n , i } ( a _ { l } ) \\big \\}$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设 $e _ { i }$ 是方案 $a _ { l }$ 下的一个定量属性，且它被评估为等级$H _ { n } ( n { = } 1 , . . . . , N )$ 。定量属性下的等级标准为 $\\varsigma _ { n , i }$ ，这里 $\\varsigma _ { n , i } < \\varsigma _ { n + 1 , i }$ ，等级标准区间表示[ $\\begin{array} { r } { \\varsigma _ { n , i } \\ , \\varsigma _ { n + 1 , i } \\ \\overline { { \\ } } _ { . } ^ { \\ } } \\end{array}$ 。 $\\gamma$ 为专家给出定量指标的评估值，若y属于区间[ $\\begin{array} { r } { \\varsigma _ { n , i } \\ , \\varsigma _ { n + 1 , i } \\ . } \\end{array}$ 1，则定量指标 $e _ { i }$ 的被评估为等级$H _ { n }$ 的信任度函数 $\\beta _ { n , i }$ 可通过式（1）（2）转换得出。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { n , i } ( a _ { l } ) = \\frac { \\varsigma _ { n + 1 , i } - \\gamma } { \\varsigma _ { n + 1 , i } - \\varsigma _ { n , i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { n + 1 , i } ( a _ { l } ) = \\frac { \\gamma - \\varsigma _ { n , i } } { \\varsigma _ { n + 1 , i } - \\varsigma _ { n , i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3定性信息转换",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生鲜物流服务服务质量评价指标体系中如时效性、食品包装安全性等定性指标无法根据定量的方法计算得到，而专家对体系指标掌握全面、准确。在生鲜冷链物流研究领域具有一定的权威性，所以一般直接由专家根据经验知识给出定性指标评估以及评估等级 $H _ { n }$ 的信任度函数 $\\beta _ { n , i }$ 。例如，如果专家评估某一定性指标其等级为 $H _ { n }$ ，且可信的概率是0.7,则 $\\beta _ { n , i } { = } 0 . 7$ ，从而实现定性指标的评估的转换。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 相关理论介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1ER 的基本概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设方案集 $A { = } \\{ a _ { 1 } , . . . , a _ { l } , . . . , a _ { L } \\}$ ，其中 $a _ { l } \\big ( 1 \\leq l \\leq L \\big )$ ，方案的属性集 $E { = } \\{ e _ { 1 } , . . . , e _ { i } , . . . , e _ { I } \\}$ ，属性权重集 $w { = } \\{ w 1 , { \\ldots } , w _ { i } , { \\ldots } , w _ { I } \\}$ ，其中 $w i { \\big ( } 1 \\leq i \\leq I { \\big ) }$ 对应属性 $e _ { i }$ 的权重，满足 $0 \\leq w _ { i } \\leq 1$ ， $\\textstyle \\sum _ { i = 1 } ^ { I } w _ { i } = 1$ 。假设共有 $N$ 个评估等级 $H { = } \\{ H _ { 1 } , . . . , H _ { n } , . . . , H _ { N } \\}$ 对方案下的 $e _ { I }$ 个属性进行评估，方案 $a _ { l }$ 下的各个属性 $e _ { i }$ 评估为等级 $H _ { n }$ 的信任度可以表示为 $\\beta _ { n , i } ( a _ { l } )$ ，满足 $0 \\leq \\beta _ { n , i } ( a _ { l } ) \\leq 1$ ， $\\sum _ { n = 1 } ^ { N } \\beta _ { n , i } ( a _ { l } ) = 1$ ，则对方案 $a _ { l }$ 下属性 $e _ { i }$ 的评估的信任框架可用$S ( a _ { l } ( e _ { i } ) ) = \\big \\{ ( H _ { n } , \\beta _ { n , i } ( a _ { l } ) \\big \\}$ 表示，即对各方案属性的评估通过决策矩阵 $D \\ d = ( S ( a _ { l } ( e _ { i } ) ) ) _ { l \\times i }$ 表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义1假设概率分派函数 $m _ { n , i }$ 表示的是第 $i$ 个基本属性$e _ { i }$ 支持广义属性 $y$ 被评估为等级 $H _ { n }$ 的支持度。剩余概率分派函数 $m _ { H , i }$ 表示的是对第 $i$ 个基本属性 $e _ { i }$ 对广义属性 $y$ 未被分派给任何一个评估等级的支持度，分别记为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { n , i } \\left( a _ { l } \\right) = w _ { i } \\beta _ { n , i } \\left( a _ { l } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { H , i } ( a _ { l } ) = 1 - \\sum _ { n = 1 } ^ { N } m _ { n , i } ( a _ { l } ) = 1 - \\omega _ { i } \\sum _ { n = 1 } ^ { N } \\beta _ { n , i } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\overline { { { m } } } _ { H , i } ( a _ { l } ) + \\tilde { m } _ { H , i } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { { m } } _ { H , i } ( a _ { l } ) = 1 - w _ { i }$ 表示由于权重而为分派的剩余概率函数；$\\tilde { m } _ { H , i } ( a _ { l } ) = \\omega _ { i } [ 1 - \\sum _ { n = 1 } ^ { N } \\beta _ { n , i } ( a _ { l } ) ]$ 表示由于无知而未分派的概率函数，是由于不完全评估引起的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "概率分派函数 $m _ { n , \\Pi ( i ) }$ 表示 $E _ { I I } ( i )$ 中的第 $i$ 个属性支持广义属性 $y$ 被评估为等级 $H _ { n }$ 的支持度， $m _ { H , \\varPi ( i ) }$ 表示在 $E _ { I I } ( i )$ 中所有基本属性集成后的BPA，其由 $\\overline { { { m } } } _ { H , \\Pi } ( a _ { l } )$ 和 $\\tilde { m } _ { H , \\Pi } ( a _ { l } )$ 组成， $\\overline { { { m } } } _ { H , \\Pi } ( a _ { l } )$ 表示集成所有属性的剩余概率函数， $\\tilde { m } _ { H , \\Pi } ( a _ { l } )$ 表示集成所有属性的未分配的概率函数， $K _ { I I ( i + 1 ) } ( a _ { l } )$ 表示为方案 $a _ { l }$ 下的第 $i { + } 1$ 个属性的评估信息的归一化因子。 $m _ { n , \\varPi ( i ) }$ 和 $m _ { H , \\varPi ( i ) }$ 可通过以下的集成公式（5\\~9）[14]对 $m _ { n , i }$ 和 $m _ { H , i }$ 集成后得到。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { n , \\Pi ( i + 1 ) } ( a _ { l } ) = K _ { \\Pi ( i + 1 ) } ( a _ { l } ) ( m _ { n , \\Pi ( i ) } ( a _ { l } ) m _ { n , i + 1 } ( a _ { l } ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { n , \\Pi ( i ) } ( a _ { l } ) m _ { H , i + 1 } ( a _ { l } ) + m _ { H , \\Pi ( i ) } ( a _ { l } ) m _ { n , i + 1 } ( a _ { l } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { H , \\Pi ( i + 1 ) } ( a _ { l } ) = K _ { \\Pi ( i + 1 ) } ( a _ { l } ) m _ { H , \\Pi ( i ) } ( a _ { l } ) m _ { H , i + 1 } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { m } _ { H , \\Pi ( i + 1 ) } ( a _ { l } ) = K _ { \\Pi ( i + 1 ) } ( a _ { l } ) ( \\tilde { m } _ { H , \\Pi ( i ) } ( a _ { l } ) \\tilde { m } _ { H , i + 1 } ( a _ { l } ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { m } } } _ { H , \\Pi ( i ) } ( a _ { l } ) \\tilde { m } _ { H , i + 1 } ( a _ { l } ) + \\tilde { m } _ { H , \\Pi ( i ) } ( a _ { l } ) \\overline { { { m } } } _ { H , i + 1 } ( a _ { l } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { { m } } } _ { H , \\Pi ( i + 1 ) } ( a _ { l } ) = K _ { \\Pi ( i + 1 ) } ( a _ { l } ) \\overline { { { m } } } _ { H , \\Pi ( i ) } ( a _ { l } ) \\overline { { { m } } } _ { H , i + 1 } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\Pi , i + 1 } ( a _ { l } ) = [ 1 - \\underset { t = 1 } { \\overset { N } { \\sum } } \\underset { j \\neq t } { \\overset { N } { \\sum } } m _ { t , \\Pi ( i ) } ( a _ { l } ) m _ { j , i + 1 } ( a _ { l } ) ] ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( i = 1 , 2 , 3 , \\cdots , I - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $m _ { n , \\pi } ( 1 ) \\ l = m _ { n , 1 } ~ , \\quad m _ { H , \\pi } ( 1 ) = m _ { H , 1 } ~ , \\quad \\bar { m } _ { H , \\Pi ( 1 ) } ( a _ { l } ) = \\bar { m } _ { H , 1 } ( a _ { l } ) $ ，$\\tilde { m } _ { H , I ( 1 ) } ( a _ { l } ) = \\tilde { m } _ { H , 1 } ( a _ { l } )$ 。 $\\boldsymbol { \\varPi } ( i { + } 1 )$ 表示集成 $i { + } 1$ 个基本属性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各指标评估等级信任度，可通过式（10）（11）得出。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { n } ( a _ { l } ) = \\frac { m _ { n , \\Pi } ( a _ { l } ) } { 1 - \\overline { { { m } } } _ { H , \\Pi } ( a _ { l } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { H } ( a _ { l } ) = \\frac { \\tilde { m } _ { n , \\Pi } ( a _ { l } ) } { 1 - \\overline { { { m } } } _ { H , \\Pi } ( a _ { l } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\beta _ { n } ( a _ { l } )$ 表示方案 $a _ { l }$ 在广义属性 $y$ 下被评价为等级 $H _ { n }$ 的信任度； $\\beta _ { H } ( a _ { l } )$ 则表示未被分配给任何评价等级的信任度，即信息的无知程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设统一识别框架下共设 $N$ 个评估等级，且对用的评估等级效用度为 $u _ { n }$ ，且 $H _ { I } { < } H _ { 2 } { < } . . . { < } H _ { N }$ ，则对最大、最小和平均效用值分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { m a x } } ( a _ { l } ) = \\sum _ { n = 1 } ^ { N - 1 } \\beta _ { n } ( a _ { l } ) u _ { n } + ( ( \\beta _ { N } ( a _ { l } ) + \\beta _ { H } ( a _ { l } ) ) u _ { N } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mathrm { m i n } } ( a _ { l } ) = \\sum _ { n = 2 } ^ { N } \\beta _ { n } ( a _ { l } ) u _ { n } + ( ( \\beta _ { 1 } ( a _ { l } ) + \\beta _ { H } ( a _ { l } ) ) u _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { a v g } \\left( a _ { l } \\right) = \\frac { u _ { \\operatorname* { m a x } } \\left( a _ { l } \\right) + u _ { \\operatorname* { m i n } } \\left( a _ { l } \\right) } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 余弦相似度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "余弦相似度是由Wen 等人[15,16]提出用于余弦度量证据间的冲突程度，余弦相似度越小，冲突程度越大，反之冲突程度越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义2 设统一识别框架下两个独立证据体的BPA分别为 $m _ { 1 } ( \\cdot )$ 、 $m _ { 2 } ( \\cdot )$ ，其矢量形式可表示为 $m _ { 1 }$ 、 $m _ { 2 }$ ，则两证据的余弦相似度[15]为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ( m _ { 1 } , m _ { 2 } ) = \\frac { m _ { 1 } \\cdot m _ { 2 } ^ { \\mathrm { ~ T ~ } } } { | | m _ { 1 } | | \\cdot | | m _ { 2 } | | }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $m _ { 1 } \\cdot m _ { 2 } ^ { \\mathrm { \\scriptscriptstyle T } } = \\sum _ { i = 1 } ^ { 2 } m _ { 1 } ( A _ { i } ) m _ { 2 } ( A _ { i } )$ ; $\\| \\cdot \\|$ 表示向量的模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "毛艺帆等人[17]认为余弦相似度能够较好的度量两证据体之间的程度，提出当 $c ( m _ { 1 } , m _ { 2 } ) { = } 0$ 时，表示两证据完全冲突;当 $c ( m _ { 1 } , m _ { 2 } ) { = } 1$ 时，表示两证据完全相符。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 改进的ER方法及决策过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设候选生鲜冷链物流服务供应商集合为$A { = } \\{ a _ { 1 } , . . . , a _ { l } , . . . , a _ { L } \\}$ ，其中 $a _ { l } ( \\ 1 \\leq l \\leq L \\ )$ 。评估属性集为$E { = } \\{ e _ { 1 } , . . . , e _ { i } , . . . , e _ { I } \\}$ ，对应的属性权重集 $w { = } \\{ w 1 , ~ . . . , w _ { n } , . . . , w _ { N } \\}$ ，其中 $w _ { i } \\big ( 1 \\leq i \\leq I$ 对应属性 $e _ { i }$ 的权重，满足 $0 \\leq w _ { i } \\leq 1$ ， $\\textstyle \\sum _ { i = 1 } ^ { I } w _ { i } = 1$ 。假设共有 $H$ 个评估等级 $H _ { 1 } , H _ { 2 } , H _ { 3 } , . . . , H _ { N }$ 对方案下的 $e _ { i }$ 个属性进行评估，供应商 $a _ { l }$ 的属性 $e _ { i }$ 评估为等级 $H _ { n }$ 的信任度可以表示为 $\\beta _ { n , i } ( a _ { l } )$ ，满足 $0 \\leq \\beta _ { n , i } ( a _ { l } ) \\leq 1$ ， $\\sum _ { i = 1 } ^ { I } \\beta _ { n , i } ( a _ { l } ) = 1$ ，则对供应商$a _ { l }$ 的属性 $e _ { i }$ 的评估值可用 $S ( a _ { l } ( e _ { i } ) ) = \\smash { \\big \\{ ( H _ { n } ,  { \\beta _ { n , i } } ( a _ { l } ) \\big \\} }$ 表示。即对各方案属性的评估通过决策矩阵 $D \\ d = ( S ( a _ { l } ( e _ { i } ) ) ) _ { l \\times i }$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1BPA的获取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设供应商 $a _ { l }$ 的属性 $e _ { i }$ 被评估为等级 $H _ { n }$ 的信任度可表示为 $\\beta _ { n , i } ( a _ { l } )$ ，则其对应的BPA可通过式(16)(17)计算得出。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { n , i } \\left( a _ { l } \\right) = w _ { i } \\beta _ { n , i } \\left( a _ { l } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { H , i } ( a _ { l } ) = 1 - \\sum _ { n = 1 } ^ { N } m _ { n , i } ( a _ { l } ) = 1 - \\omega _ { i } \\sum _ { n = 1 } ^ { N } \\beta _ { n , i } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\bar { m } _ { H , i } ( a _ { l } ) + \\tilde { m } _ { H , i } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：概率分配函数 $m _ { n , i } ( a _ { l } )$ 表示的是第 $l$ 个候选供应商的基本属性 $e _ { i }$ 支持广义属性 $y$ 被评估为等级 $H _ { n }$ 的支持度；剩余概率分配函数 $m _ { H , i } ( a _ { l } )$ 表示的是对第 $l$ 个候选供应商基本属性 $e _ { i }$ 对广义属性 $y$ 未被分派给任何一个评估等级的支持度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 证据权重计算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设统一识别框架下两个独立证据体的 BPA 分别为$m _ { n , i } ( a _ { l } )$ 、 $m _ { n , i } ( a _ { p } )$ ，其矢量形式可表示为 $m _ { i } ( a _ { l } )$ 、 $m _ { i } ( a _ { p } )$ ，则两证据的余弦相似度为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ( m _ { i } ( a _ { l } ) , m _ { i } ( a _ { p } ) ) = \\frac { < m _ { i } ( a _ { l } ) , m _ { i } ( a _ { p } ) > } { | | m _ { i } ( a _ { l } ) | | \\bullet | | m _ { i } ( a _ { p } ) | | }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| | m _ { i } ( a _ { l } ) | | = \\sqrt { m _ { 1 , i } ( a _ { l } ) ^ { 2 } + m _ { 2 , i } ( a _ { l } ) ^ { 2 } + . . . + m _ { H , i } ( a _ { l } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$| | m _ { i } ( a _ { p } ) | | = \\sqrt { m _ { 1 , i } ( a _ { p } ) ^ { 2 } + m _ { 2 , i } ( a _ { p } ) ^ { 2 } + . . . + m _ { H , i } ( a _ { p } ) ^ { 2 } }$ 。当 $c ( m _ { i } ( a _ { l } ) , m _ { i } ( a _ { p } ) )$ 值越接近0时，则表示两证据冲突程度越大；当 $c ( m _ { i } ( a _ { l } ) , m _ { i } ( a _ { p } ) )$ 越接近1时，则表示两证据间的冲突程度越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了便于表示将 $c ( m _ { i } ( a _ { l } ) , m _ { i } ( a _ { p } ) )$ 简写成 $c _ { B P A } ( l p )$ ，在证据系",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统中，候选供应商 $l$ 得到的支持程度为 $s u p ( m _ { l } )$ ，则候选供应商 $l$ 的评估信息的可信度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { l } ^ { \\prime } = C r d _ { l } = \\frac { S u p ( m _ { l } ) } { M a x ( S u p ( m _ { l } ) ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $S u p ( m _ { l } ) = \\sum _ { p = 1 , l \\ne p } ^ { L } c _ { _ { B P A } } ( l p )$ 。显然， $C r d ( m _ { l } )$ 满足 $\\sum _ { l = 1 } ^ { L } C r d ( m _ { l } ) = 1$ ，即 $C r d ( m l )$ 可作为证据 $m _ { l }$ 的权重 $w _ { l } ^ { \\prime }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据证据权重对初始证据进行修正如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { n , i } ^ { \\prime } ( a _ { l } ) = w _ { l } ^ { \\prime } m _ { n , i } ( a _ { l } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3改进ER的合成方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对冲突信息融合结果与事实相悖的问题，本文提出一种改进的ER方法解决冲突问题。主要通过采用cosine相似度衡量冲突信息的冲突程度，运用相似度计算证据权重，并根据证据权重修正证据，以达到处理冲突信息的目的。改进ER的合成算法的具体流程如图2所示。其具体步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/202f5154de4f49966f012230a2cbf55baad1086062b9e39353798682d0862164.jpg",
+        "img_caption": [
+            "图2改进ER的证据合成流程 Fig.2Improved ER evidence synthesis flow chart "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）确定参与评估的候选生鲜冷链物流服务供应商、生鲜冷链物流服务质量评估指标以及评估指标权重。确定参加评估的专家，并设立评估专家权重。根据式(1)(2)统一定性和定量指标评估框架，获取各评估专家给出的各生鲜冷链物流服务供应商指标评估信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)根据式(3)(4)计算各供应商指标评估的 BPA 和剩余BPA。然后，通过式(5)\\~(9)对每个生鲜冷链物流服务供应商的指标评估信息进行融合，并根据式(10)(11)得出各专家对生鲜冷链物流服务供应商的评估等级信任度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）在由步骤b)得出的各评估专家对每个生鲜冷链物流服务供应商的评估等级信任度的基础上，通过式(3)(4)计算各评估专家对每个生鲜冷链物流服务供应商评估信息的BPA，再运用式(18)计算各个专家间评估信息的相似度，并采用式(19)计算证据权重，由式(20)修正计算得出的各专家对生鲜冷链物流服务供应商评估信息的BPA。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)再次运用式(5)\\~(9)对修正后的生鲜冷链物流服务供应商评估信息进行集成，得出每个生鲜冷链物流服务供应商的综合评估信息。再次运用式(10)(11)计算每个生鲜冷链物流服务供应商的综合评估等级信任度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e）设立各评估等级的效用值，根据式(12)\\~(14)计算每个生鲜冷链物流服务供应商评估的最大、最小和平均效用值，根据平均效用值的大小进行排序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 案例分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "某生鲜企业为拓展企业规模，增强企业的市场竞争力，欲开辟生鲜企业冷链物流新业务。现共有五家生鲜冷链物流服务供应商投标，企业欲对这五家生鲜冷链物流服务供应商的物流服务质量进行综合评估，选择一家综合评估较好的供应商进行合作，并邀请了五名评估专家 $( k _ { 1 } , k _ { 2 } , . . . , k _ { 5 } )$ 参加此次的物流服务质量评估活动。五名专家分别对五家生鲜冷链物流服务供应商（ $( Q _ { 1 } , Q _ { 2 } , . . . , Q _ { 5 } )$ 的11项物流服务质量指标$( e _ { 1 } , e _ { 2 } , . . . , e _ { 1 1 } )$ 进行评估，其中专家权重均为0.2，11项指标权重分别为 $0 . 0 9 , \\ 0 . 1 , \\ 0 . 1 , \\ 0 . 0 9 , \\ 0 . 0 8 , \\ 0 . 0 8 4 , \\ 0 . 0 9 , \\ 0 . 0 9 , \\$ 0.096、0.09、0.09，具体指标见图1。企业设定三个评估等级 $H _ { 1 }$ 、 $H _ { 2 }$ 和 $H _ { 3 }$ ，分别表示差、一般和好 $( P , A , G )$ ，其评估等级的效用度分别为0.31、0.33、0.36。此次评估采取三个评估等级的形式对五家生鲜冷链物流服务供应商的11项指标进行评估，其中专家 $k _ { 1 }$ 给出的定量指标评估信息根据等级参考的标准值，通过式(1)(2)进行转换，得出评估专家$k _ { 1 }$ 对这五家生鲜冷链物流服务供应商的物流服务质量评估的信息如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/976bcc9900f581c57ae1bb53c1390f0aba5d1c86e54e4215ac72d4a1eb9fbdb9.jpg",
+        "table_caption": [
+            "表1评估专家 $k _ { 1 }$ 对五家生鲜冷链物流服务供应商服务质量评估信息",
+            "Table1Evaluation expertkl's servicequalityassessment information for5fresh cold chain logistics service providers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">k1</td><td colspan=\"10\"></td></tr><tr><td>e1</td><td>e</td><td>e</td><td>e4</td><td>e5</td><td>属性 e6</td><td>e7</td><td>e8</td><td>e9</td><td>e10</td><td>e11</td></tr><tr><td rowspan=\"3\">Q1</td><td>(P,0.8),</td><td>(P,0.5),</td><td>(P,0.4)</td><td>(P,0.3)</td><td>(P,0.5),</td><td>(P,0.7),</td><td>(P,0.8),</td><td>(P,0.5),</td><td>(P,0.4),</td><td>(P,0.5),</td><td>(P,0.6),</td></tr><tr><td>(G,0.1)</td><td>(A,0.5)</td><td>(A,0.6)</td><td>(A,0.7),</td><td>(A,0.1),</td><td>(G,0.2)</td><td>(G,0.1)</td><td>(A,0.1),</td><td>(A,0.2),</td><td>(4,0.1),</td><td>(A,0.2),</td></tr><tr><td></td><td></td><td></td><td></td><td>(G,0.2)</td><td></td><td></td><td>(G,0.3)</td><td>(G,0.3)</td><td>(G,04)</td><td>(G,0.1)</td></tr><tr><td rowspan=\"3\">Q2</td><td>(P,0.2),</td><td>(P,0.4),</td><td>(A,0.3),</td><td>(A,0.4),</td><td>(P,0.3),</td><td>(P,0.3),</td><td>(P,0.2),</td><td>(P,0.3),</td><td>(P,0.2),</td><td>(P,0.4),</td><td>(P,0.2),</td></tr><tr><td>(A,0.6),</td><td>(A,0.6)</td><td>(G,0.7)</td><td>(G,0.6)</td><td>(A,0.5),</td><td>(A,0.4),</td><td>(A,0.5),</td><td>(A,0.4),</td><td>(A,0.5),</td><td>(A,0.2),</td><td>(A,0.5),</td></tr><tr><td>(G,0.1)</td><td></td><td></td><td></td><td>(G,0.1)</td><td>(G,0.2)</td><td>(G,0.2)</td><td>(G,0.2)</td><td>(G,0.1)</td><td>(G,0.3)</td><td>(G,0.2)</td></tr><tr><td rowspan=\"3\">Q3</td><td>(P,0.2),</td><td></td><td>(P,0.3)</td><td>(P,0.4),</td><td>(P,0.3),</td><td>(P,0.2),</td><td>(P,0.1),</td><td>(P,0.2),</td><td>(P,0.3),</td><td>(P,0.2),</td><td>(P,0.2),</td></tr><tr><td>(A,0.2),</td><td>(G,1)</td><td></td><td></td><td>(A,0.1),</td><td>(A,0.3),</td><td>(A,0.3),</td><td>(A,0.2),</td><td>(A,0.1),</td><td>(A,0.2),</td><td>(4,0.1),</td></tr><tr><td>(G,0.5)</td><td></td><td>(A,0.7),</td><td>(4,0.6)</td><td>(G,0.5)</td><td>(G,0.4)</td><td>(G,0.5)</td><td>(G,0.5)</td><td>(G,0.4)</td><td>(G,0.5)</td><td>(G,0.5)</td></tr><tr><td rowspan=\"3\">Q4</td><td>(P,0.5),</td><td>(P,0.7)</td><td></td><td></td><td>(P,0.5),</td><td>(P,0.6),</td><td>(P,0.4),</td><td>(P,0.3),</td><td></td><td>(P,0.4),</td><td>(P,0.5),</td></tr><tr><td>(A,0.3),</td><td>(A,0.3),</td><td>(P,0.3)</td><td>(A,0.3), (G,0.7),</td><td>(A,0.2),</td><td>(A,0.1),</td><td>(A,0.4),</td><td>(A,0.3),</td><td>(P,0.7),</td><td>(A,0.2),</td><td>(A,0.3),</td></tr><tr><td>(G,0.1)</td><td></td><td>(A,0.7),</td><td></td><td>(G,0.2)</td><td>(G,0.2)</td><td>(G,0.1)</td><td>(G,0.3)</td><td>(A,0.2),</td><td>(G,0.3)</td><td>(G,0.1)</td></tr><tr><td rowspan=\"2\">Q5</td><td>(P,0.4),</td><td>(P,0.4),</td><td>(P,0.3)</td><td>(P,0.6),</td><td>(P,0.5),</td><td>(P,0.7),</td><td>(P,0.7),</td><td>(P,0.5),</td><td>(P,0.4),</td><td>(P,0.2),</td><td>(P,0.2),</td></tr><tr><td>(A,0.5),</td><td>(A,0.6)</td><td>(A,0.7),</td><td>(A,0.4)</td><td>(A,0.1), (G,0.2)</td><td>(G,0.2)</td><td>(G,0.2)</td><td>(A,0.1), (G,0.4)</td><td>(A,0.2), (G,0.3)</td><td>(A,0.5), (G,0.2)</td><td>(A,0.5), (G,0.2)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由评估专家给出评估信息后，根据式(3)(4)计算每个生鲜冷链物流服务供应商评估指标的BPA和剩余BPA，而后，采用式(5)\\~(9)依次对每位评估专家给出的每个供应商评估指标进行集结处理，再运用式(10)(11)计算得出各评估专家对每个供应商的综合评估信任度，如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2各专家对每个供应商评估信息的综合信任度",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/47d6704f10d755ad7dbadc70f26606bb44315278987668fb2ebfdb600812a6ce.jpg",
+        "table_caption": [
+            "Table 2Comprehensive trustworthiness of each expert's evaluatior information for each supplier "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>k1</td><td>k2</td><td>k</td><td>11 k4</td><td>k5</td></tr><tr><td>Q1</td><td>(P,0.6666),</td><td>(P,0.6503), (A,0.1581),</td><td>(P,0.1395), (4,0.3078),</td><td>(P,0.3093), (4,0.3019),</td><td>(P,0.3512), (A,0.3253),</td></tr><tr><td rowspan=\"4\">Q2</td><td>(4,0.0928), (G,0.1598)</td><td>(G,0.1464)</td><td>(G,0.5402)</td><td>(G,0.2800)</td><td>(G,0.2522)</td></tr><tr><td>(P,0.2357),</td><td>(P,0.2026),</td><td>(P,0.4112),</td><td>(P,0.3584),</td><td>(P,0.4007),</td></tr><tr><td>(A,0.4511),</td><td>(4,0.5638),</td><td>(4,0.2919),</td><td>(4,0.3374),</td><td>(A,0.3861),</td></tr><tr><td>(G,0.1521)</td><td>(G,0.1041)</td><td>(G,0.1721)</td><td>(G,0.2006)</td><td>(G,0.0659)</td></tr><tr><td rowspan=\"4\">Q3 Q4</td><td>(P,0.1988),</td><td>(P,0.1907),</td><td>(P,0.2007),</td><td>(P,0.6534),</td><td>(P,0.5987),</td></tr><tr><td>(4,0.2105),</td><td>(A,0.2204),</td><td>(4,0.3990),</td><td>(A,0.1286),</td><td>(A,0.1664),</td></tr><tr><td>(G,0.5206)</td><td>(G,0.5263)</td><td>(G,0.2443)</td><td>(G,0.1049)</td><td>(G,0.1231)</td></tr><tr><td>(P,0.5317),</td><td>(P,0.4822),</td><td>(P,0.1980),</td><td>(P,0.6433),</td><td>(P,0.3886),</td></tr><tr><td rowspan=\"3\"></td><td>(4,0.2157),</td><td>(4,0.1967),</td><td>(4,0.2608),</td><td>(4,0.0963),</td><td>(4,0.3068),</td></tr><tr><td>(G,0.1405)</td><td>(G,0.2583)</td><td>(G,0.5114)</td><td>(G,0.1703)</td><td>(G,0.1935)</td></tr><tr><td>(P,0.5365),</td><td>(P,0.6294),</td><td>(P,0.7135),</td><td>(P,0.1746),</td><td>(P,0.3004),</td></tr><tr><td rowspan=\"2\">Q5</td><td>(A,0.1863),</td><td>(A,0.1066),</td><td>(A,0.1068),</td><td>(4,0.1997),</td><td>(4,0.4318),</td></tr><tr><td>(G,0.2076)</td><td>(G,0.1366)</td><td>(G,0.0766)</td><td>(G,0.6031)</td><td>(G,0.1147)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据ER集成方法得出各评估专家对每个供应商的综合评估信任度后，根据式(3)(4)计算每个供应商评估的BPA。而后，通过余弦相似度公式(18)(19)计算各专家对每个供应商评估信息间的相似度以及证据权重，最后采用式(20)对原通过式(3)(4)计算出的每个供应商的BPA进行修正，修正后得出各专家对每个供应商评估的BPA如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3修正后的各专家对每个供应商评估信息的BPA",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/79f540281ce8c61f2c68261fe23f51fc6d6431988ab8a3394acb404785b724eb.jpg",
+        "table_caption": [
+            "Table 3Revised BPA for each supplier to evaluate information for each supplier "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>k1</td><td>k</td><td>k</td><td>k4</td><td>k5</td></tr><tr><td>Q1</td><td>(P,0.1170),</td><td>(P,0.1181), (P,0.0214),</td><td>(P,0.0616),</td><td>(P,0.0702),</td></tr><tr><td>(A,0.0163),</td><td>(4,0.0287),</td><td>(4,0.0472), (G,0.0828)</td><td>(4,0.0601), (G,0.0557)</td><td>(4,0.0651), (G,0.0504)</td></tr><tr><td>(G,0.0280) (P,0.0470),</td><td>(G,0.0266)</td><td></td><td></td><td>(P,0.0798),</td></tr><tr><td></td><td>(P,0.0384),</td><td>(P,0.0801),</td><td>(P,0.0717),</td><td></td></tr><tr><td>Q2 (A,0.0899),</td><td>(A,0.1068),</td><td>(A,0.0568),</td><td>(A,0.0675),</td><td>(A,0.0770),</td></tr><tr><td>(G,0.0303) (P,0.0397),</td><td>(G,0.0197)</td><td>(G,0.0335)</td><td>(G,0.0401)</td><td>(G,0.0131)</td></tr><tr><td>Q3</td><td>(P,0.0378),</td><td>(P,0.0401),</td><td>(P,0.1175),</td><td>(P,0.1146),</td></tr><tr><td>(4,0.0420),</td><td>(4,0.0437),</td><td>(A,0.0798),</td><td>(4,0.0231),</td><td>(4,0.0318),</td></tr><tr><td>(G,0.1039)</td><td>(G,0.1043)</td><td>(G,0.0489)</td><td>(G,0.0189)</td><td>(G,0.0236)</td></tr><tr><td>(P,0.1026),</td><td>(P,0.0964),</td><td>(P,0.0303),</td><td>(P,0.1184),</td><td>(P,0.0757),</td></tr><tr><td>Q4</td><td>(4,0.0416),</td><td>(4,0.0399),</td><td>(4,0.0177),</td><td>(4,0.0597),</td></tr><tr><td>(G,0.0271)</td><td>(4,0.0393),</td><td></td><td></td><td></td></tr><tr><td></td><td>(G,0.0517)</td><td>(G,0.0783)</td><td>(G,0.0313)</td><td>(G,0.0377)</td></tr><tr><td>(P,0.1073),</td><td>(P,0.1182),</td><td>(P,0.1280),</td><td>(P,0.0219),</td><td>(P,0.0497),</td></tr><tr><td>Q5 (A,0.0372), (G,0.0415)</td><td>(4,0.0200), (G,0.0256)</td><td>(4,0.0192), (G,0.0137)</td><td>(4,0.0251), (G,0.0757)</td><td>(A,0.0714), (G,0.0190)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过再次运用ER 集成公式 $( 5 ) { \\sim } ( 9 )$ 集成修正后的各专家对每个供应商评估信息的BPA，并采用式(10)(11)计算每个供应商的综合评估信任度。采用效用函数(12)\\~(14)计算每个供应商的平均效用值，具体值如表4所示。根据平均效用值的大小对供应商进行排序，其排序结果为 $Q _ { 4 } \\succ Q _ { 3 } \\succ Q _ { 5 } \\succ Q _ { 1 } \\succ Q _ { 2 }$ ，据排序结果得出第四家供应商的冷链物流服务质量较好，可作为最佳选择方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4本文方法与对比方法分析得出的平均效用值",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/699d885816d923fb7e8c2864402ecd3e8fd15f25d74635e0a6ebd39516e41b7d.jpg",
+        "table_caption": [
+            "[able 4Average utility value obtained by method and compariso "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">method</td></tr><tr><td></td><td>Q1</td><td>Q</td><td>Q3</td><td>Q4</td><td>Q5</td></tr><tr><td>本文方法</td><td>0.3084</td><td>0.3064</td><td>0.3135</td><td>0.3142</td><td>0.3115</td></tr><tr><td>对比方法</td><td>0.4131</td><td>0.7458</td><td>0.6000</td><td>0.7557</td><td>0.7403</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为证明本文所提方法的有效性，采用一种将冲突在已知和未知领域合理分配的方法对本文的案例进行分析排序，分析得出的平均效用值的结果如表4所示，其排序结果为$\\mathcal { Q } _ { 4 } \\succ Q _ { 2 } \\succ Q _ { 5 } \\succ Q _ { 3 } \\succ Q _ { 1 }$ 。通过排序结果可以看出，两种方法得出第4家生鲜冷链物流服务供应商可视为最佳合作的供应商，但两者在排序上略有不同，对其产生的原因本文进行了分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过分析发现这两种方法得出的不确定信任度具有明显的差异。图3为本文所提方法与冲突在已知和未知领域分配方法得出的不确定信任度的结果对比。通过图3可以看出，两种方法计算出的综合不确定信任度大小存在显著的差距。而产生这种方案排序结果存在差异的主要原因是将冲突在已知和未知领域合理分配的方法，没有考虑到专家在给出评价信息时已存在的不确定性，若将冲突在已知和未知领域再次分配融合，会再次提高评估结果的不确定性。而本文提出采用cosine余弦相似度衡量证据间的冲突，并根据相似度计算证据权重，对证据进行修正，较好地解决了证据间的冲突问题，也能降低冲突信息融合的不确定性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/52878980d7505089493d56206fd8aad1d46071d26ff96dadfbdec73df34ad4a7.jpg",
+        "img_caption": [
+            "图3本文方法与对比方法的不确定度对比 Fig.2Comparison of uncertainty between method and comparison method "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文考虑生鲜冷链物流服务质量指标评估具有不确定性的特点，采用传统证据推理方法获取指标评估信息。为提高决策的可靠性，本文采用群决策的方式对生鲜冷链物流服务供应商的服务质量指标进行评估。考虑评估过程中，评估信息可能存在高度冲突的问题，本文提出对传统ER的方法进行改进。在对每个供应商评估指标集成后，得出各评估专家对每个供应商的综合评估结果。在此基础上，采用cosine 函数计算各评估专家对每个供应商的综合评估信息的冲突程度：并对各评估专家对每个供应商的评估信息进行修正，最后再次采用ER方法集成各评估专家对每个供应商的评估信息，得出每个供应商的综合评估结果。为验证本文所提方法的有效性及可行性，运用一种将冲突在已知和未知领域合理分配的方法对本文案例进行了分析对比。结果表明，本文所提方法与对比方法得出的结果一致，但本文所提方法能有效降低冲突信息在修正融合后的不确定性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种改进的 ER方法解决了指标不确定评估信息融合、冲突的问题。接下来本文将从专家内部冲突问题出发，继续探讨处理冲突问题的方法，不断解决决策过程中出现的冲突问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]马万元，耿秀丽．考虑不完全权重信息的直觉模糊VIKOR方法研究 [J]．计算机应用研究,2018,35(4):1066-1071.(Ma Wanyuan,Geng Xiuli. Intuitionistic VIKOR method considering incomplete weights [J]. Application Research of Computers,2018,35(4):1066-1071.)   \n[2]吴良刚，文丽．基于证据推理和VIKOR的二维语言多准则群决策方 法[J].计算机应用研究，2016,33（6)：1697-1702.（Wu Lianggang, Wen Li.2-dimension linguistic multi-criteria group decision making method based on evidence reasoning and VIKOR [J].Application Research of Computers,2016,33 (6): 1697-1702.)   \n[3]耿秀丽，董雪琦.粗糙信息公理与云模型集成的方案评价方法[J]. 计算机集成制造系统,2017,23(3):661-669.(Geng Xiuli,Dong Xueqi. Concept evaluation approach based on rough information axiom and cloud model [J]. computer integrated manufacturing systems,2017,23 (3): 661-669.)   \n[4]Yao Runming,Yang Yulan,Li Baizhan.A holistic method to assess building energy efficiency combining D-S theory and the evidential reasoning approach [J].Energy Policy,2012,45 (11): 277-285.   \n[5] 周志杰，刘涛源，李方志，等．一种基于证据推理的装备保障资源评 估方法[J]．控制与决策,2018,33(6):1048-1054.(Zhou Zhijie,Liu Taoyuan,Li Fangzhi,et al.An evaluation method of equipment support resources based on evidential reasoning [J]. Control and Decision,2018, 33 (6):1048-1054.)   \n[6]赵福均，周志杰，胡昌华，等．基于证据推理的动态系统安全性在线 评估方法[J]．自动化学报,2017,43(11):1950-1961.(Zhao Fujun, Zhou Zhijie,Hu Changhua,et al. Online safety assessment method based on evidential reasoning for dynamic systems [J].Acta Automatica Sinica,2017,43 (11): 1950-1961.)   \n[7]付超，桂鹏飞．基于证据推理的云计算服务适应性评估[J].计算机 应用研究,2012,29 (11): 4304-4308.(Fu Chao,Gui Pengfei.Adaption assessment for cloud computing service based on evidence theory [J]. Application Research of Computers,2012,29 (11): 4304-4308.)   \n[8]韩德强，韩崇昭，邓勇，等．基于证据方差的加权证据组合[J]．电 子学报,2011,39 (s1):153-157. (Han Deqiang,Han Chongzhao,Deng Yong,et al.Weighted combination of conflicting evidence based on evidence variance [J].Acta Electronicasinica,2011,39 (s1):153-157.）   \n[9]Li Jie,WangWei,Gao Xiaoli,et al. Strong conflicting evidences fusion based on belief interval distance measurement [J]. Cluster Computing, 2018: 1-10.   \n[10] Zhao Yuxin,Jia Renfeng,Shi Peng.A novel combination method for conflicting evidence based on inconsistent measurements[M]. [S.l.]:Elsevier Science Inc，2016:125-142.   \n[11] 李波．基于Pignistic 相似度与改进DS证据理论的综合评估方法 [J]. 计算机应用研究,2018,35(12).(Li Bo.Synthesis assessment method based on Pignistic similarity and improved DS evidence theory [J]. Application Research of Computers,2018,35 (12): 3682-3688.)   \n[12] Murphy C K. Combining belief functions when evidence conflicts [M]. [S.l.]:Elsevier Science Publishers B.V.2000.   \n[13]贺金凤，徐济超，吴卫东．不确定性多属性决策中的 ER 方法改进 [J]．控制与决策,2006,21(4):385-390.(He Jinfeng,Xu Jichao,Wu Weidong. Improvement of evidential reasoning approach for multiple attribute decision making under uncertainty [J]. Control and Decision 2006,21 (4): 385-390.)   \n[14] Yang Jianbao,Xu Dongling. On the evidential reasoning algorithm for multiple attribute decision analysis under uncertainty [J]. IEEE Trans on,Systems Man & Cybernetics Part A Systems & Humans,2002,32 (3):289-304.   \n[15] Wen Chenglin,Wang Yingchang,Xu Xiaobin.Fuzzy information fusion algorithm of fault diagnosis based on similarity measure of evidence [C]//ProcofInternationalSymposiumonNeuralNetworks. Berlin:Springer-Verlag,2008:506-515.   \n[16] Xiao Fuyuan.An improved method for combining conflicting evidences based on the similarity measure and belief function entropy [J]. International Journal of Fuzzy Systems,2017,20(1):1-11.   \n[17]毛艺帆，张多林，王路．基于改进余弦相似度的证据间定向冲突度 量方法[J]．系统工程与电子技术，2016,38(11):2567-2571.(Mao Yifan, Zhang Duolin，Wang Lu.Directional evidence conflict measurement based on improved cosine similarity [J]. Systems Engineering and Electronics,2016,38 (11): 2567-2571.)   \n[18]陈红丽，陆华．冷链物流服务过程的质量评价[J]．中国流通经济, 2013,27 (1): 34-39.(Chen Hongli,Lu Hua.study on the process quality evaluation of cold-chain logistics service [J].China Business and Market,2013,27(1):34-39.)   \n[19] Hsiao Y H,Chen Muchen，Chin C L.Distribution planning for perishable foods in cold chains with quality concerns:Formulation and solution procedure [J].Trends in Food Science & Technology,2017,61: 80-93.   \n[20]杨晓芳，姚宇，付强．基于新鲜度的冷链物流配送多目标优化模型 [J]．计算机应用研究,2016,33(4):1050-1053.(Yang Xiaofang,Yao Yu,Fu Qiang.Multi-objective optimization model of cold chain logistics distribution based on freshness [J].Application Research of Computers,2016,33(4):1050-1053.）   \n[21] Gulc A. Models and methods of measuring the quality of logistic service [J].Procedia Engineering,2017,182: 255-264.   \n[22] Rezaei J，Roekel W S.V, Tavasszy L.Measuring the relative importance of the logistics performance index indicators using Best Worst Method [J].Transport Policy,2018,68:158-169. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

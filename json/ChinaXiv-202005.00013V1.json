@@ -1,0 +1,477 @@
+[
+    {
+        "type": "text",
+        "text": "基于SPEI指数的中亚地区干旱时空分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张乐园¹²，王弋¹，陈亚宁'（1．中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2．中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于1961—2017年CRU（Climatic Research Unit)逐月格点数据,通过标准化降水蒸散指数(SPEI)的计算分析,探讨过去半个多世纪中亚地区的干旱时空分布及变化特征。结果表明： $\\textcircled{1}$ 在过去的半个多世纪,伴随温度的升高,中亚多数地区的潜在蒸散发增加,增加速率以咸海流域为中心,呈环形向四周递减； $\\textcircled{2}$ 1961—2017 年中亚地区平均 SPEI值整体呈持续下降趋势,但波动较大。年内变化表现为春季和冬季 SPEI值呈缓慢下降趋势,夏季和秋季显著下降，表明夏季和秋季干旱趋势加重； $\\textcircled{3}$ 空间上，夏季和秋季中亚大部分地区干旱趋势以加重为主，春季普遍呈干旱减轻趋势。本研究结果可为中亚地区干旱风险评估、水资源规划及科学管理提供重要信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：标准化降水蒸散指数；干旱分析；时空变化；中亚地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱对水资源、农业活动、生态系统、自然环境和社会经济有着广泛的影响，是最复杂且难以解决的自然灾害之一[1]。相较于其他自然灾害,干旱发展缓慢，特征不易量化，影响方式间接，危害面积较大[2]。近年来,全球变暖引起气候和环境发生重大变化,导致全球干旱事件发生频率增加[3]。尽管干旱危害较大，但受其定义的多样性、时空的变异性、复杂的物理过程和非结构性影响，干旱的识别和表征仍面临挑战[4]。正确认识多年干旱的时空特征,对干旱风险评估具有重要意义[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "众多学者对干旱的检测和表征进行了研究，并制定了一系列干旱指标用以定量分析干旱，如标准降水指数(SPI)[6]、帕尔默干旱指数(PDSI）、降水距平（PA)[7]、综合气象干旱指数（CI)[8]、作物水分系数（CMI)[9]、标准化降水蒸散指数（SPEI)[10]等。由于SPI计算简单、多时间尺度、不同气候适应性好、不同区域易比较等优点，被广泛应用于干旱检测研究[11-13]。但是 SPI仅基于降水,没有考虑到蒸散发这一在全球变暖导致的干旱发生中发挥重要作用的因素[14]。Vicente-Serrano 等[15]在 SPI基础上,基于降水和潜在蒸散发的差值所表示的水量平衡方程，提出多尺度气象干旱指标一一标准化降水蒸散指数（SPEI)。目前，SPEI已被广泛应用于全球和区域范围的干旱检测和特征描述[10,15-20]。在 SPEI 计算中关于潜在蒸散发的计算方法应用最广泛的分别是Thornthwaite[21]和 Penman-Monteith[22]。一方面 Pen-man-Monteith方法已被证实在SPEI计算中优于Thornthwaite方法，是计算潜在蒸散发最精确的方法[20]；另一方面Thornthwaite 方法计算的潜在蒸散发仅以温度为基础,在干旱半干旱区常被低估[23] ○",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中亚作为丝绸之路的核心区和国际水冲突的焦点区域[24],对中国的重要性不言而喻。随着气候变化、灌溉农业高强度的依赖性以及日益增长的人为干扰压力，干旱及水资源问题成为中亚地区发展和区域稳定的核心问题[25-26]。由于苏联解体导致政治地缘与管理的复杂变动，中亚的水文气象站点数据缺乏影响相关研究的精度;同时，中亚五国地处生态系统脆弱的干旱半干旱区，是近半个世纪全球气候变化影响最为剧烈的区域，而以往中亚干旱的相关研究所采用的干旱指数存在考量因素较少（SPI）,受本身自回归特征影响较大（PDSI)[27]等问题，无法全面反映气候变化背景下中亚的干旱情况；另外,在中亚五国基于区域整体干旱变化趋势的研究较少，多是聚焦于某一特定区域（国家）开展[28-29],忽视了中亚地区整体长期的干旱时空变化。因此，本文基于CRU数据集计算中亚五国",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SPEI,揭示了1961—2017年间中亚五国干旱的时空分布，综合分析了中亚地区SPEI的年际、年内变化以及过去半个多世纪干旱的变化特征，旨在为合理规划和配置水资源、维护区域稳定、积极应对未来气候变化带来的干旱风险提供决策参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究区为中亚五国（图1），面积约 $4 . 0 0 \\times$ $1 0 ^ { 8 } ~ \\mathrm { h m } ^ { 2 }$ ,位于西风带核心区[30],地势东南高、西北低，大致可分为3大地貌单元，即：东南部高山区、中部低山丘陵区和西部平原区。中亚地区的人口约$6 . 5 0 \\times 1 0 ^ { 7 }$ ,大部分人口依赖绿洲农业生活，灌溉用水主要源自山区[31], $9 0 \\%$ 的地区需要依靠水利发电提供能源。研究区干草原和沙漠覆盖了超过 $7 5 \\%$ 的土地面积：哈萨克斯坦 $44 \\%$ 是沙漠， $2 6 \\%$ 是干草原， $14 \\%$ 是半沙漠,约 $6 \\%$ 是森林，剩下的是山脉、海洋、湖泊和河流；吉尔吉斯斯坦地形崎岖，不同的山坡受到不同强度的阳光和气流的照射，因此其气候复杂多样;塔吉克斯坦是一个以山地为主的国家，覆盖了全国 $9 0 \\%$ 的地区，农业发展依赖灌溉;土库曼斯坦近 $80 \\%$ 的地区位于图兰低地，从南到北，从东到西倾斜;乌兹别克斯坦位于咸海流域的中心，土地资源总量 $4 . 4 4 \\times 1 0 ^ { 7 } ~ \\mathrm { h m } ^ { 2 }$ ,主要土地类型是农田、低产牧场和灌溉地。中亚地区夏季炎热干燥，水分匮缺可达 $60 \\%$ ,冬季寒冷，年降水量在 $3 0 0 ~ \\mathrm { m m }$ 以下，咸海附近和土库曼斯坦的荒漠区年降水量仅为 $7 5 \\sim$ $1 0 0 \\ \\mathrm { m m } ^ { [ 3 2 ] }$ ,而山区降水量为 $1 ~ 0 0 0 ~ \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "格网数据与传统的站点观测数据相比，具有更好的空间代表性和连续性，在干旱特征的描述中发挥着重要作用[33]。本文采用由英国 East Anglia 大学开发的ClimaticResearchUnit4.2.1（简称CRUTS4.2.1）格点数据（http://www.cru.uea.ac.uk/data/），包括从1961年1月至2017年12月的月尺度降水、气温和潜在蒸散发数据。而1960年以前的数据由于所包括的站点数目有限，准确度不高，因此不宜在本研究中使用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用CRU数据集计算中亚地区SPEI，一是CRU数据集基于大量的站点数据得到，具有良好的质量控制和同质性检验[34]；二是 $0 . 5 ^ { \\circ }$ 的月尺度时空分辨率和长时间序列( $^ { 1 0 0 \\mathrm { ~ a ~ } ) }$ 的数据可用性，可以充分满足干旱研究的需要和SPEI计算至少需要30a 记录的数据要求[35]；三是CRU数据集中的潜在蒸散发数据是基于最优的Penman-Monteith方法计算的。最近的研究多数认为CRU数据集适用于中亚地区的气候研究,且结果很好[36-37] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 计算标准化降水蒸发指数（SPEI） SPEI基于降水和潜在蒸散发之间的差值所呈现的水量平衡",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a697e0aa7c6c61b71b27dc93da61f419943e5380bb52293d969a7903ace2abc6.jpg",
+        "img_caption": [
+            "图1研究区地理位置和中亚五国边界线",
+            "Fig.1The geographical location of the study area and boundary of the five countries Asian states "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "方程进行计算[15],步骤如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一步，计算逐月降水量与潜在蒸散发量的差额：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { { \\scriptscriptstyle m } } = P _ { { \\scriptscriptstyle m } } - E T _ { { \\scriptscriptstyle 0 m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $m$ 为月数； $\\boldsymbol { P } _ { \\boldsymbol { m } }$ 为逐月降水量； $E T _ { 0 m }$ 为潜在蒸散发量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二步，根据不同的时间尺度，对 $D _ { { _ m } }$ 进行聚集和归一化：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { D _ { { n } , { n } } ^ { i } = \\sum _ { j = 1 3 - i + n } ^ { 1 2 } D _ { { m - 1 } , { j } } + \\sum _ { j = 1 } ^ { n } D _ { { m } , { j } } , } } & { { n < i } } \\\\ { { } } & { { } } \\\\ { { D _ { { m } , { n } } ^ { i } = \\sum _ { j = n - i + 1 } ^ { n } D _ { { m } , { j } } , } } & { { n \\geqslant i } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $D _ { m , n } ^ { i }$ 为 $\\mathbf { \\nabla } _ { m }$ 年第 $n$ 个月开始, $i$ 个月的降水蒸散发差额的累计值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三步，使用log-logistics 概率分布函数拟合 $D _ { { \\scriptscriptstyle m } }$ 序列[17],得到累积概率密度函数 $F ( D )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( D ) = \\left[ \\ 1 + \\ \\left( \\frac { \\alpha } { D - \\gamma } \\right) ^ { \\beta } \\ \\right] ^ { \\ - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：参数 $\\alpha \\mathcal { \\beta } _ { \\cdot } \\gamma$ 分别表示通过线性矩方法估计的尺度、形状和位置参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第四步，对累积概率密度进行正态标准化：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S P E I } = W - \\frac { c _ { 1 } + c _ { 2 } W + c _ { 3 } W ^ { 2 } } { 1 + t _ { 1 } W + t _ { 2 } W ^ { 2 } + t _ { 3 } W ^ { 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = \\sqrt { - 2 \\mathrm { l n } ( P ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 为大于某个确定的 $D _ { { _ m } }$ 值的概率， $P { \\leqslant } 0 . 5$ 时，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$P = 1 - F ( D ) ; P > 0 . 5$ 时 $, P = 1 - P ; c _ { 1 } = 2 . 5 1 5 5 1 7$ $c _ { 2 } = 0 . 8 0 2 ~ 8 5 3 , c _ { 3 } = 0 . 0 1 0 ~ 3 2 8 , t _ { 1 } = 1 . 4 3 2 ~ 7 8 8 , t _ { 2 } =$ 0.189 269, $t _ { 3 } = 0 . 0 0 1 \\ 3 0 8 ^ { [ 5 ] }$ 。SPEI值为正时,表示湿润状态，SPEI值为负时，表示干旱状态。不同尺度SPEI值可反应不同的干旱现象，水文气象干旱是长期和农业及水文干旱的先导因素，因此，本研究采用相对应的6个月尺度SPEI进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2SPEI干旱等级划分结合中亚的地理特性并参考相关研究划分的干旱等级[38-39],根据 SPEI划分为5个干旱等级来分析中亚地区的干旱特征(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/77dcc9deaa95fa182c94de298d3255db314e7cd89bde544c07304554c1f00794.jpg",
+        "table_caption": [
+            "表1 SPEI分类Tab.1 SPEI categories"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>水平</td><td>SPEI</td><td>分类</td></tr><tr><td>0</td><td>-0.5~0.5</td><td>正常</td></tr><tr><td>1</td><td>-0.99~ -0.5</td><td>轻度干旱</td></tr><tr><td>2</td><td>-1.0~ -1.49</td><td>中度干旱</td></tr><tr><td>3</td><td>-1.5~ -1.99</td><td>重度干旱</td></tr><tr><td>4</td><td><-2.0</td><td>极端干旱</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1气候变量空间变化趋势 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析1961—2017年中亚地区的气候变量空间变化速率可见（图2），不同地区的变化速率和趋势有所不同。降水变化速率在哈萨克斯坦中部、乌兹别克斯坦中部和土库曼斯坦呈现负值，最小值为$- 1 0 . 5 9 6 ~ \\mathrm { m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ ,表明此地区降水呈现负增长，即减少趋势（图2a），其他地区显示为缓慢增长趋势，最大值出现在吉尔吉斯斯坦和塔吉克斯坦交界处，为 $2 3 . 1 7 5 \\mathrm { ~ 6 ~ m m ~ } \\cdot \\mathrm { ~ ( ~ 1 0 a ) ~ } ^ { - 1 }$ ;中亚地区的气温变化速率均大于零，表明气温呈现持续上升趋势（图2b);其中，以咸海流域为中心的中亚中部地区增长速率普遍较高，最高值达 $0 . 3 5 5 \\ : 2 \\ : \\mathrm { ~ \\textdegree C }$ ·（10a）-」,而哈萨克斯坦东部和塔吉克斯坦大部增长速率较低；中亚地区的潜在蒸散发增长速率以咸海流域为中心，呈环形向四周递减（图2c），最大值为 $2 . 0 2 5 7 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,最小值为 $- 0 . 2 5 4 5 ~ \\mathrm { m m }$ ：$( \\mathrm { { 1 0 a } } ) ^ { - 1 }$ ,说明咸海流域的潜在蒸散发在增加,并且随着咸海水域面积萎缩、裸地扩大，干旱效应在加剧;SPEI值以土库曼斯坦、乌兹别克斯坦中部、哈萨克斯坦中南部为中心向四周扩散，且变化速率逐渐变大，最小值为-0.2446，最大值为0.1336(图2d）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/00f8418dbed8efef0ffce9c0d7da06cb4ea17a8bf05a0d4a5daa4f829d1a0af7.jpg",
+        "img_caption": [
+            "图21961—2017年中亚气候变量变化速率",
+            "Fig.2The change rate of Central Asian climate variables from 1961 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 SPEI时间变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图3可见，中亚地区SPEI值波动较大，但总体呈下降趋势，下降速率为 $0 . \\mathrm { { 0 5 } \\cdot \\left( \\mathrm { 1 0 a } \\right) ^ { - 1 } }$ 。分析发现，1975、1995、2008年对应的SPEI值较低，分别为$- 1 . 3 7 6 \\ 5 _ { \\mathrm { ~ , ~ } } - 0 . 6 6 5 \\ 8 _ { \\mathrm { ~ , ~ } } - 1 . 1 2 9 \\ 4$ ,说明在过去的半个多世纪，中亚地区经历了3次干旱，时间分别是1975年（中度干旱）、1995年(轻度干旱）、2008 年（中度干旱)；相对湿润的年份是1964、1970、1987和1993年，这个结果与Ta 等[40]的部分研究结果相吻合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从年内变化看（图4），春季SPEI值波动较大，整体以 $0 . \\ 0 0 3 \\ 6 4 \\cdot \\ ( \\ 1 0 \\mathrm { a } ) \\ ^ { - 1 }$ 的速率缓慢下降;夏季以 $0 . \\mathrm { { 0 6 4 } 3 \\cdot ( \\mathrm { { 1 0 a } ) ^ { - 1 } } }$ 的速率下降,但不同年份存在差异，1975年、1977年和2008年SPEI出现最低值，其中1975年达到重度干旱，1977年和2008 年达到中度干旱。但在1962—1971年和1980—1994 年，中亚夏季气候呈现出相对湿润的状态；秋季以0.1135·（10a）-的速率显著下降;冬季 SPEI值以0.0405·（10a）-的速率呈较缓慢下降趋势，其中，1961—1974年、1977—1994年气候处于较湿润时期,1995—2011年属于干旱时期。2012年以后SPEI值出现上升趋势,可能是气候变量波动所致。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/65f90a038ef58a59c54a38232af6ca33ed018a808cf84cc1bbdea6adaf8cf225.jpg",
+        "img_caption": [
+            "图31961—2017年中亚干旱年际变化趋势 Fig.3The inter-annual trend of drought in Central Asia from 1961 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0752402a524e47bbcfc85fe895b65c3836b9a7bc6640db8e36f583f46fae023e.jpg",
+        "img_caption": [
+            "图41961—2017年中亚干旱年内变化趋势",
+            "Fig.4The annual trend of drought in Central Asia from 1961 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 SPEI突变检验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近半个多世纪中亚平均SPEI值的突变曲线整体呈下降趋势，但未超过显著性水平0.05临界线，表明中亚气候变干趋势并不明显（图5）。在显著性水平0.05的临界线内，中亚地区平均SPEI值于1994年发生突变。从年内变化看（表2），干旱趋势在春季突变集中出现在1961—1994年，且未达到0.05显著性水平，说明春季干旱呈波动状态，总体趋势不明显；夏季干旱趋势突变年份分别为2000、2003、2015年，但均未超过0.05显著性水平，表明中亚夏季干旱趋势虽发生3次转变，但整体干旱状况并不显著；秋季中亚的干旱趋势于2003年发生突变，同时在2010年超过0.05显著性水平，说明中亚秋季干旱趋势自2003年起有明显增强，且在2010年加重;冬季干旱趋势则在1961—1995 年频繁发生突变，之后未发生明显变化。由此可知，1961一2017年中亚地区四季均有缓慢变干趋势，其中秋季最为显著，同时四季突变发生的年份各有不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3f21f9304ad1aceaa6e12f2fc1e9007614f8c13e285a1ebac4d91aafdc176c3.jpg",
+        "img_caption": [
+            "注：虚线为0.05显著性水平线。",
+            "图51961—2017年中亚 SPEI年际变化及M-K突变检验曲线",
+            "Fig.5The inter-annual change and M-K mutation test curve of Central Asia SPEI from 1961 to 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/94da0422b73ca89a8fb920b72162c7daedd4ec982bb89d8303573d4bdb7b9f5b.jpg",
+        "table_caption": [
+            "表21961—2017年中亚 SPEI年内变化及M-K突变检验Tab.2The annual change of Central Asia SPEI andM-K mutation test from 1961 to 2017"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>季节</td><td>突变年份</td><td>是否达到0.05显著性水平</td></tr><tr><td>春季</td><td>1961—1994</td><td>否</td></tr><tr><td>夏季</td><td>2000，2003,2015</td><td>否</td></tr><tr><td>秋季</td><td>2003</td><td>是</td></tr><tr><td>冬季</td><td>1961—1995</td><td>否</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 SPEI空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中亚地区气温和降水量在空间上存在明显异质。对中亚地区1961—2017年四季SPEI线性变化趋势空间分布可见图6，不同季节的干旱演变在空间上差异较大。春季，哈萨克斯坦中部、乌兹别克斯坦中部、土库曼斯坦西部地区呈现加重趋势，达到$0 . 1 \\sim 0 . 1 9 \\cdot \\left( 1 0 \\mathrm { { a } } \\right) ^ { - 1 }$ ;夏季，除哈萨克斯坦东北部和吉尔吉斯斯坦部分区域干旱趋势减轻外，中亚大部分地区干旱普遍呈加重趋势，其中，哈萨克斯坦中南部、乌兹别克斯坦和土库曼斯坦以 $0 . 1 5 \\sim 0 . 2 4 \\cdot$ （10a）-的趋势加重；秋季，中亚大部分地区干旱趋势加重，特别是哈萨克斯坦与乌兹别克斯坦交界处、乌兹别克斯坦与土库曼斯坦交界处干旱趋势显著，高达 $0 . 2 \\sim 0 . 3 1 \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ ,中亚东部的小部分地区干旱呈现减轻趋势;冬季,中亚中西部地区以干旱加重趋势为主，主要以哈萨克斯坦南部、土库曼斯坦以及乌兹别克斯坦干旱趋势显著，达到 $0 . 1 5 \\sim 0 . 1 9 \\cdot$ （10a）\"，吉尔吉斯斯坦和塔吉克斯坦东部沿线地区呈现减轻趋势。整体来看，中亚地区四季呈现干旱化趋势，且主要集中在中部和西部地区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 SPEI在中亚地区的适用性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于CRU数据集计算了SPEI,并对中亚地区近半个世纪以来的干旱特征及其时空演变进行了分析，为了验证计算的SPEI能否真实反映研究区的实际干旱情况，有必要将SPEI计算结果与实际发生的干旱事件进行对比，验证其可靠性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过文献和数据记录表明，1975年秋季中亚地区大部分区域经历了严重的干旱；世界银行年度报告说明,2000 年秋季除哈萨克斯坦北部外，整个中亚南部地区均发生干旱,同时2000—2001年降雨量比平均水平低了 $4 0 \\% \\sim 6 0 \\%$ ,河流径流量比正常水平下降 $3 5 \\% \\sim 4 0 \\%$ ;而1994年春季和2007年冬季中亚大部分地区未发生明显干旱事件。因此，笔者选取1975年秋季（图7a），1994年春季（图7b），",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a437a22ea07ca3b8edecbdfe80fe75992b031c2818268aa7b53e62e61d2f1e2d.jpg",
+        "img_caption": [
+            "Fig.6The spatial distribution of linear variation trend of SPEI in Central Asia seasons from 196l to 20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/304f3a188db932eb4823d91a61cad3117d3da90a65092374417e3bf1221c7036.jpg",
+        "img_caption": [
+            "图61961—2017年中亚四季SPEI线性变化趋势空间分布",
+            "图7中亚地区的 SPEI分布",
+            "Fig.7The SPEI distribution in Central Asia "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2000年秋季(图7c），2007年冬季(图7d)4个典型时期进行分析。分别展示了4个时期中亚地区SPEI计算值的分布情况，可以发现SPEI值的分布与实际干旱分布情况基本符合，1975年和2000 年中亚大部分地区SPEI值均小于-0.5，甚至达到-2.735，表明其旱情严重；而1994年和2007年中亚大部分SPEI值均在-0.5以上，表明并没有明显和严重的干旱发生。以上分析说明，本文所计算的中亚地区SPEI值具有较好的适用性和实用性，可准确反映干旱情况和时空分布，因此，可作为在中亚地区重要的干旱参考指数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于研究区观测数据的缺乏，本文选用在数据质量和序列长度上已被证实可较好反映中亚气候变化的CRU格点数据；而SPEI初始计算过程中潜在蒸散发的计算使用的是仅考虑了温度的Thornthwaite公式，得出的值在干旱半干旱区可能会存在较大误差[4I],因此,本文使用CRU 数据集和Penman-Monteith公式计算的中亚五国潜在蒸散发再分析数据。SPI和PDSI作为常用的干旱指数被广泛用于干旱分析中，但对于地处干旱与半干旱区的中亚地区，SPEI更能反映气候变化对气象干旱的影响[37]。经过与实际干旱情况的对比,证实计算结果能够有效反映中亚五国实际干旱情况。不同于以往局限于中亚某一区域的研究，本文具体计算了中亚五国各格点的 SPEI值,详细分析了中亚地区干旱时空变化趋势，其结果与其他学者相关研究基本一致[42-43]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文通过精确的再分析数据和更合理的干旱指数SPEI,弥补了研究区站点数据的不足，并分析了气候变化大背景下中亚干旱的时空变化。未来在此基础上将进一步丰富和完善，包括考虑CRU数据的分辨率，分析SPEI不同尺度反映的现象，详细统计干旱的发生频次，综合、系统地评估不同等级的干旱特征与危害，并尝试解释干旱的驱动因子，发现不同影响因子在干旱发生中的权重大小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于1961—2017年CRU逐月格点数据，通过计算不同时间尺度和空间变化的标准化降水蒸散指数(SPEI)，分析了中亚近半个世纪的干旱时空变化及特征，得出以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）1961—2017年中亚地区降水除在哈萨克斯坦中部、乌兹别克斯坦中部和土库曼斯坦小部分地区呈减少趋势外，其他大多数地区呈现缓慢增加趋势；气温在整个中亚地区呈现持续上升态势，潜在蒸散发增长速率以咸海流域为中心，呈环形向四周递减;SPEI值的变化说明，土库曼斯坦、乌兹别克斯坦中部、哈萨克斯坦中南部等地的干旱趋势加重，其他区域则有所缓解。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）时间上，1961—2008年中亚地区平均SPEI整体呈现持续下降的趋势，表明中亚地区的气候在过去半个多世纪总体呈变干趋势。中亚经历了3次干旱，分别是1975年（中度干旱）、1995年（轻度干旱）、2008 年（中度干旱），相对湿润的年份是1964、1970、1987年和1993年，同时1994年是中亚地区平均SPEI突变的开始。从年内变化可以看出，春季和冬季SPEI值呈较缓慢下降趋势,夏季和秋季呈显著下降趋势，夏季、秋季干旱明显加重。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）空间上，中亚地区的中西部干旱化趋势明显，但不同季节的差异性较大。春季主要是中部及西南部地区干旱趋势显著;夏季、秋季中亚大部分地区干旱有加重趋势，其中西部干旱趋势加重明显;秋季表现为吉尔吉斯斯坦、乌兹别克斯坦的交界处变干趋势显著，高达 $0 . \\ 2 \\sim 0 . \\ 3 1 .$ $\\left( 1 0 \\mathrm { { a } } \\right) ^ { - 1 }$ ;冬季以哈萨克斯坦南部以及土库曼斯坦、乌兹别克斯坦干旱化趋势显著，达到 $0 . 1 5 \\sim$ $0 . 1 9 \\cdot \\left( 1 0 \\mathrm { { a } } \\right) ^ { - 1 }$ ,吉尔吉斯斯坦和塔吉克斯坦东部地区呈现减轻趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中亚地区是“一带一路”建设发展的重要区域,水资源问题突出，详细分析中亚干旱的时空分布及变化情况，可为中亚地区的水资源风险评估提供重要的科学依据，为该地区经济社会发展和区域稳定提供技术支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Portela MM,Dos Santos JF,Silva A T,et al.Drought analysis in Southern Paraguay,Brazil and Northern Argentina:regionalization, occurrence rate and rainfall thresholds[J].Hydrology Research, 2014,46(5) :792 -810.   \n[2] Dai AG.Drought under global warming:a review[J].Wiley Inter Disciplinary Reviews:Climate Change,2011,2(1） :45-65.   \n[3]Mu W,Yu F,Xie Y,etal.The copula function-based probability characteristics analysis on seasonal drought & flood combination events on the North China Plain[J].Atmosphere,2014,5(4）:847 -869.   \n[4]Nam WH,Choi JY,Yoo S H,et al. A decision support system for agricultural drought management using risk assessment[J].Paddy and Water Environment,2012,10(3）:197-207.   \n[5]AyantoboOO,LiY,Song S,etal.Spatial comparabilityof drought characteristics and related return periods in mainland China over 1961-2013[J]. Journal of Hydrology,2017,550:549 -567.   \n[6]McKee TB,Doesken NJ,Kleist J.The relationship of drought frequency and duration to time scales[C]//Proceedings of the 8th Conference on Applied Climatology.Boston:American Meteorological Society,1993,17(22）:179 -183.   \n[7］李树岩,刘荣花,马志红.基于降水距平的黄淮平原夏玉米干 旱评估指标研究[J].干旱地区农业研究,2012,30(3）：252- 256.［Li Shuyan,Liu Ronghua,Ma Zhihong. Research on drought assessment index of summer maize base on precipitation anomaly [J].Agricultural Research in the Arid Areas,2012,30(3）:252- 256.]   \n[8］张调风,张勃,刘秀丽,等.基于CI指数的甘肃省黄土高原地 区气象干旱的变化趋势分析[J].冰川冻土,2012,34（5）:1076 -1083.[Zhang Tiaofeng,Zhang Bo,Liu Xiuli,etal.Trend analysis of the variation of meteorological drought in loess plateau of gansu province based on comprehensive meteorological drought Index[J].JouralofGlaciologyand Geocryology,201234（5）106 -1083.]   \n[9]Palmer W C. Keeping track of crop moisture conditions,nationwide:the new crop moisture index[J].Weatherwise,1968,21 (4) :156 -161.   \n[10］周丹,张勃,任培贵,等.基于标准化降水蒸散指数的陕西省近 50a 干旱特征分析[J].自然资源学报,2014,29(4）:677 -688. [Zhou Dan,Zhang Bo,Ren Peigui,et al.Analysis of drought characteristics of Shaanxi Province in recent 5O years based on standardized precipitation evapotranspiration index[J]. Journal of Natural Resources,2014,29(4） :677 -688.]   \n[11]Tue V M,Raghavan SV,Minh PD,et al.Investigating drought over the Central Highland,Vietnam,using regional climate models [J].Journal ofHydrology,2015,526:26573.   \n[12]Guo H,Bao A M,Liu T,et al.Evaluation of PERSIANN-CDR for meteorological drought monitoring over China[J].Remote Sensing, 2016,8(5) :379.   \n[13]Zhu Y L,Chang JX,Huang S Z,et al. Characteristics of integrated droughts based on a nonparametric standardized drought index in the Yellow River Basin,China[J].Hydrology Research,2016,47 (2) :454 -467.   \n[14]Yoon JH,Mo K,Wood E F.Dynamic-Model-Based seasonal prediction of meteorological drought over[J]. Journal of Hydrometeorology,2012,13(2）:463-482.   \n[15]Vicente-Serrano S M,Begueria S,L6pez-Moreno JI.A multiscalar drought indexsensitive to global warming:the standardized precipitation evapotranspiration index[J].Journal of Climate,2010,23 (7):1696 -1718.   \n[16]Paulo AA,Rosa RD,PereiraL S.Climate trends and behaviour of drought indices based on precipitation and evapotranspiration in Portugal[J].Natural Hazards and Earth System Sciences,2012,12 (5):1481 -1491.   \n[17]Trenberth KE,Dai A G,Van Der Scheier G,et al.Global warming and changes in drought[J].Nature Climate Change,2014,4（1): 17 -22.   \n[18]Van L,Anne F. Hydrological drought explained[J].Wiley Interdisciplinary Reviews: Water,2015,2(4） :359-392.   \n[19]Mallya G,Mishra V,Niyogi D,et al.Trends andvariability of droughts over the Indian monsoon region[J]. Weather and Climate Extremes,2016,12:43 - 68.   \n[20]Gao XR,Zhao Q,Zhao X N,et al.Temporal and spatial evolution of the standardized precipitation evapotranspiration index（SPEI) in the Loess Plateau under climate change from 2Ool to 2050[J]. Science of the Total Environment,2017,595:191- 200.   \n[21]Thornthwaite C W.An approach toward a rational classification of climate[J]. Geographical Review,1948,38(1）:55-94.   \n[22]Allen R G,Pereira L S,Raes D,et al. Crop evapotranspirationGuidelines for computing crop water requirements-FAO irrigation and drainage paper 56[C]//Food and Agriculture Organisation of the United Nations,Rome,1998,300(9）:D05109.   \n[23]Jensen M E,Burman R D,Allen R G.Evapotranspiration and irrigation water requirements[C]//American Society for Civil Engineers,1990:360.   \n[24］姚俊强,杨青,毛炜峰,等.西北干旱区大气水分循环要素变化 研究进展[J].干旱区研究,2018,35（2）:269-276.[Yao Junqiang,Yang Qing,Mao Weiyi,et al. Progress of study on variation of atmospheric water cycle factors over arid region in Northwest China[J].Arid Zone Research,2018,35(2）:269 -276.]   \n[25]Qi JG,BobushevTS,KulmatovR,et al.Addressing globalange challenges for Central Asian socio-ecosystems[J].Frontiers of Earth Science,2012,6(2):115 -121.   \n[26] Chen Y N,Li Z,Fang G H,et al. Large hydrological processes changes in the transboundary rivers of Central Asia[J]. Journal of Geophysical Research:Atmospheres,2018,123:5059-5069.   \n[27]Guttman N B.Comparing the palmer drought index and the standardized precipitation index[J]. Journal of the American Water Resources Association,1998,34(1):113-12.   \n[28］丁峰,蒲胜海,赵勇,等.吉尔吉斯斯坦气象干旱时空特征分析 [J].西北农业学报,2014,23（3）:93－100.[Ding Feng,Pu Shenghai,Zhao Yong,et al.Analysis of the spatial-temporal characteristics of climate drought in Kyrgyzstan[J].Acta Agriculturae Boreali-occidentalis Sinica,2014,23(3）:93-100.]   \n[29］加依娜古丽·窝扎提汗,巴特尔·巴克,吴燕锋,等.近百年塔 吉克斯坦潜在蒸散量时空分布特征[J].水土保持研究,2015, 22(1）:280-285.[Jiayinaguli Wozhatihan,Batur Bbke,Wu Yanfeng,et al. Spatiotemporal characteristics of potential evapotranspiration in Tajikistan in the past 1OO years[J].Research of Soil and Water Conservation,2015,22(1）:280-285.]   \n[30］杨莲梅,关学锋,张迎新.亚洲中部干旱区降水异常的大气环 流特征[J].干旱区研究,2018,35（2）:249-259.［Yang Lianmei,Guan Xuefeng,Zhang Yingxin.Atmospheric circulation characteristics of precipitation anomaly in arid regions in Central Asia [J].Arid Zone Research,2018,35(2):249 -259.]   \n[31］潘旭东,王江丽,吴玲，等.亚洲中部干旱区绿洲水热匹配与生 物，农业技术适应性分析[J].干旱区研究,2019,36(1)：52- 57.[Pan Xudong,Wang Jiangli,Wu Ling,et al.Adaptability of biology and agricultural technologies to the water-heat coordination in the arid oases in Central Asia[J].Arid Zone Research,2019,36 (1) :52 -57.]   \n[32］阿布都米吉提·阿布力克木,葛拥晓,王亚俊,等.咸海的过 去、现在与未来[J].干旱区研究,2019,36(1)：7－18.［Ablekim Abdimijit,Ge Yongxiao,Wang Yajun,et al.The past,present and feature of the Aral Sea[J].Arid Zone Research,2019,36 (1):7-18.]   \n[33]Thavorntam W,Tantemsapya N,Armstrong L.A combination of meteorological and satellite-based drought indices in a better drought assessment and forecasting in Northeast Thailand[J].Natural Hazards,2015,77(3):1453-1474.   \n[34]Mitchell TD,Jones P D.An improved method of constructing a database of monthly climate observations and associated high-resolution grids[J].International Journal of Climatology,20o5,25（6）： 693 -712.   \n[35]Burroughs W,Burroughs W S.Climate:Into the 21st Century[M]. Cambridge:Cambridge University Press,2003.   \n[36]Deng HJ,Chen Y N.Influences of recent climate change and human activities on water storage Variations in Central Asia[J]. Journal of Hydrology,2017,544:46-57. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[37]Li Y,Chen C Y,Sun CF.Drought severity and change in Xinjiang,China,over 1961-2013[J].Hydrology Research,2017,48 (5):1343 -1362. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[38］李伟光,侯美亭,陈汇林,等.基于标准化降水蒸散指数的华南 干旱趋势研究[J].自然灾害学报,2012,21（4)：84-90.［Li Weiguang,Hou Meiting,Chen Huilin,et al.Studyon drought trend in South China based on standardized precipitation evapotranspiration index[J].Journal of Natural Disasters,2012,21(4):84-90.]   \n[39］王林,陈文.近百年西南地区干旱的多时间尺度演变特征[J]. 气象科技进展,2012,2（4）:21-26.[Wang Lin,Chen Wen. Characteristics of multi-timescale variabilities of the drought over last 1OO years in Southwest China[J].Advances in Meteorological Science and Technology,2012,2(4）:21-26.]   \n[40]Ta Z J,Yu RD,Chen X,et al.Analysis of the spatio-temporal patterns of dry and wet conditions in Central Asia[J].Atmosphere, 2018,9(1) :1 -14.   \n[41］刘珂,姜大膀.基于两种潜在蒸散发算法的 SPEI对中国干湿 变化的分析[J].大气科学,2015,39（1）：23-26.［LiuKe， Jiang Dabang.Analysis of dryness/wetness over China using Standardized Precipitation Evapotranspiration Index based on two evapotranspiration algorithms[J].Chinese Journal of Atmospheric Sciences,2015,39(1) :23-26.]   \n[42］迪丽努尔·托列吾别克,李栋梁.近115a中亚干湿气候变化 研究［J].干旱气象,2018,36（2）：185-195.［Dilinuer Tuoliewubieke,Li Dongliang.Characteristics of the dry/wet climate change in Central Asia in recent 115 years[J]. Journal of Arid Meteorology,2018,36(2):185-195.]   \n[43］程航,孙国武,冯呈呈,等.亚非地区近百年干旱时空变化特征 [J].干旱气象,2018,36（2）:196-202.[Cheng Hang,Sun Guowu,Feng Chengcheng,et al. Temporal and spatial variation characteristics of drought in Asia and Africa regions from 1901 to 2010[J]. Journal of Arid Meteorology,2018,36(2）:196 -202.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatial and temporal distribution characteristics of drought in Central Asia based on SPEI index ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Le-yuan1²，WANG Yi1， CHEN Ya-ning' (1．State Key Laboratory of Desert and Oasis Ecology,Xinjiang Institute of Ecology and Geography, CAS,Urumqi 830011,Xinjiang,China ; 2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Asacoreregion ofthe Silk Road,the importanceof Central Asia to Chinais self-evident.With climate change,high dependence on irigated agriculture,and increasing human disturbance,drought and water resource availability have become a key issue restricting the development and regional stability in Central Asia.This paper focused on five Central Asian countries（Kazakhstan,Kyrgyzstan,Tajikistan,Uzbekistan,and Turkmenistan）toassess the spatial and temporal distribution characteristics using the drought standardized precipitation evapotranspiration index（SPEI）,which wascalculated based on monthly Climatic Research Unit（CRU）data from 1961 to 2017. Specifically,the CRU grid point data（including monthly precipitation,temperature,and potential evapotranspiration）wereused calculating SPEIto beter reflect theclimate change in Central Asia in terms of data qualityand sequence.SPI and PDSI are widely used as drought indices；however,this study proposed the use of SPEI to analyze thedroughtcondition in Central Asiaas itcan beterreflectthe efectsofclimate changeon meteorological drought inaridandsemi-arid regions.The Thornthwaite formulahas generaly been used in the initial calculation process of SPEI；however,this onlyconsiders temperature in the calculation of potential evapotranspiration,andthe calculated values may have large erors in arid and semi-arid regions.Therefore,the Penman-Monteith formula was used in this paper tocalculate potential evapotranspiration in the five Central Asian countries.In contrast to previous studies that mainly focusedon a particular region of Central Asia,this paper calculated the SPEI value ofeach grid point of the fivecountriesasa whole teritory,therebyanalyzingthe spatialand temporalvariation droughttrends in Central Asia in detail.The results showed the following:(1）With the increase in temperature over the past half acentury,precipitation in most parts of Central Asia showed a slow upward trendand potential evapotranspiration increased.The increase was centered in the Aral Sea basin and declined in a circular direction.(2）From 1961 to 2O17,the average SPEI index in Central Asia has continuously declined；however,it greatly fluctuated.Annual changes showed a slow downward trend in SPEI value in spring and winter,and a significant downward trend in summer and autumn, indicating thatthe drought condition increased in summer andautumn in Central Asia.（3）Spatially,drought in most parts of Central Asia mainly increased in summersand autumns,and generally decreased in springs；in winters,drought atthe borderof Kazakhstanand Uzbekistan increased,and drought decreased inthe easternregion.The results calculated using the SPEIdrought index in this study werecompared withthe actual drought events and satisfactory results were obtained,indicating thatouranalysis andcalculation of SPEIcan reflect real-time drought situations in Central Asia,both temporallyand spatially.Therefore,SPEIcan be usedasan important reference index of drought in Central Asia andcan provide a valuable reference fordrought risk asessment and water resources planning in Central Asia. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:SPEI；drought analysis； temporal and spatial variation；Central Asia",
+        "page_idx": 9
+    }
+]

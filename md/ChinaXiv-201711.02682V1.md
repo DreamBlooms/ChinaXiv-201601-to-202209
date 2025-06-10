@@ -1,0 +1,135 @@
+# 诱导多能干细胞技术在药物研发领域中的前景
+
+吴升星¹,李艳\*，张海燕1\*，刘洋¹，赖琼¹，杨明1,2(1 江西中医药大学现代中药制剂教育部重点实验室，南昌 330004；2 成都中医药大学，成都 610075；3江西中医药大学中药固体制剂制造技术国家工程研究中心，南昌330004)
+
+摘要：由于基础研究环境和临床环境之间存在的转化差异，使得药物在临床阶段取得成功仍然具有挑战性。诱导多能干(iPS)细胞的诞生为药物研发领域带来了新的希望，使研究者能在体外人性化各种药理学和毒理学模型。人iPS衍生细胞的可获得性，特别是可以定向分化成特定的功能性细胞，组织和器官，为疾病机制研究与细胞治疗提供了全新的途径。另一方面，转化研究中的生物标记物提供了评估临床前基础研究环境和临床环境下毒理学和药理学影响的可衡量的指标，而iPS 细胞给生物标记物的研究带来了全新的思路。本综述从转化研究的角度概述了基于iPS细胞药物发现的现行策略，阐明iPS细胞的潜力以及生物标志物在药物发现和发展整个过程中的作用，突出在该领域有待改进的地方，以期为进一步相关性研究提供一定参考，为新药研发提供新的思路与方法。
+
+关键词：iPS细胞 药物研发 生物标记物 临床前研究
+
+# The Prospect Of Induction Of Pluripotent Stem Cell Technology In Drug Research And Development
+
+WU Sheng-xing1,LI Yan3\* , ZHANG Hai-yan1\* ,LIU Yang 1, LAI Qiong 1, YANG Ming1,2
+
+(1 KeyLaboratory of Modern Preparation of TCM，Ministry of Education，Jiangxi University of TCM,
+
+Nanchang33004，China;2ChengduUniversityofTCM,Chengdu610075，China;3NationalEngineeringResearchCenterfor Traditional Chinese Medicie SolidChemicals Manufacturing,Jiangxi UniversityofTraditional Chinese Medicine,Nanchang 330004,China)
+
+Abstract: Despite continuous efforts to improve the process of drug discovery and development,achieving success at the clinical stage remains challenging because of a persistent translational gap between the preclinical and clinical settings. Under these circumstances, the discovery of human induced pluripotent stem (iPS) cells has brought new hope to the drug discovery field because they enable scientists to humanize a variety of pharmacological and toxicological models in vitro.The availability of human iPS cell-derived cells,their potential to differentiate into specific functional cells, tissues and organs, has provided new avenues for studying diseases and cell therapy. Biomarkers are an essential part of the translational effort to shift new discoveries from bench to bedside as they provide a measurable indicator to evaluate pharmacological and toxicological effects in both preclinical and clinical settings. In general, during the preclinical stage of drug development, in vitro models that are established to recapitulate human diseases are validated by using a set of biomarkers; however, their translatability to a clinical setting remains problematic. This review provides an overview of the current strategies for human iPS cell-based drug discovery from the perspective of translational research.
+
+Keywords: iPS cells;drug discovery; biomarker; preclinical study
+
+干细胞已经成为再生医学和药物研发两个领域快速发展轨道上不可或缺的细胞来源[1]。胚胎干（ES）细胞不仅是体外研究的一种工具，而且可以作为建立体内药理学和疾病表征实验的基因修饰动物模型的一种手段[2]，但是人类ES细胞涉及到伦理问题和异体之间的排斥反应[3]阻碍了其广泛应用。2006年Takahashi等利用载体把Oct3/4、Sox2、c-Myc和Klf4这四个转录因子导入小鼠成纤维细胞成功建立iPS 细胞，这是干细胞领域一个革命性的突破-成年哺乳动物细胞首次被有效地重新编程为多能状态[4]。随后在药物的发现和发展领域人类iPS细胞得到了极大的关注，从而广大药物研究者把注意力转移到了诱导多能干细胞（iPS）上（（图1是利用患者来源的iPS细胞研发新药的技术路线图)。iPS细胞迎来了转化医学的新时代，因为它们不仅可以重建患者来源的多能干细胞系，而且可以重现疾病表型[5]。在以往干细胞的研究基础上，iPS 细胞技术已经得到长足的发展。这些新的编程方法避免了载体随机整合到宿主基因组中的风险，并且在效率和核型方面没有观察到明显的差异或问题[6]。
+
+研发-引进新药进入市场需要巨大的时间和金钱的投入[]，而且晚期临床试验阶段就会消耗大部分的投资。大约 $90 \%$ 的临床试验阶段的失败来自于临床前基础研究和临床试验环境之间的转化差异[8]。导致临床试验中如此高的药物流失率的原因有很多，其中很大部分原因是药物非临床安全性评估中无法检测化合物毒性9。转化研究（TR）已经成为药物研发过程中不可或缺的环节，因为它能把临床和基础研究很好地衔接起来，给药物的研究现状带来实质性的突破[10]。在体外和体内模型中，iPS 细胞的应用和生物标志物是TR[11]的重要组成部分。
+
+# 1.用iPS 细胞了解疾病
+
+很难或无法获得患者样本，极大地限制了药物的研发，特别是在罕见病领域。更重要的是，利用少数的患者建立的细胞系通常只能非常有限地了解疾病病因，虽然动物模型已被用作备择方案之一，但是其的准确性受到种间差异的影响[12]。患者来源的人类iPS 细胞允许研究人员获得患者特定的iPS细胞衍生细胞，提取获得患者来源的iPS细胞之后形成的细胞库可以成为疾病模型的不竭来源，而且iPS细胞系能更进一步的重现疾病中基因突变的复杂影响。刚开始，使用患者来源
+
+![](images/5e987b1f19530a9826eb3562e2e4eb2bc20a02e9dda6166b0c37843475dedac3.jpg)  
+图1：利用患者来源的iPS细胞研发新的药物的技术路线  
+Figurel: The use of patient-derived iPS cells to develop new drug technology roadmap
+
+的iPS细胞衍生细胞的可行性研究集中在亨廷顿舞蹈、症帕金森氏症病、糖尿病和唐氏综合征[13]。不久之后，患者来源的iPS 细胞建立的疾病表型被运用于模拟脊髓性肌萎缩[14和家族性自主神经功能异常[15]。目前，有大量的公共的私人的或商业的iPS 细胞库。由于iPS 细胞的巨大价值，这些干细胞的储存库仍在扩大。
+
+# 1.1疾病机制
+
+仕科字研究中，疾病机制的探索一般建立在验证假说上。从忠者的身体上得到验证需要多年的努力，因此在期望的时间点可以获得多个样本与标准的临床前模型相比，是人iPS 细胞衍生疾病模型的一个优点[16]。目前，无论何种探索疾病机制的方法，主要关注点都是体外重现疾病病理生理特征的可行性；iPS细胞已经成为体外可靠地重现疾病状态的最有前景的工具之一。从实践的角度来看，探索正常和疾病状态的各种表型差异，例如形态学、细胞功能可以给研究者提供、积累更深入了解疾病的线索和想法。例如，从Rett综合征患者衍生的iPS细胞分化神经元的报道显示了由于电生理缺陷导致的突触减少[17]，这个iPS 细胞衍生的神经元系统已经揭示了神经元特异性 $K \left( + \right)$ （204号-Cl（－）共转运蛋白2（KCC2）是疾病途径的关键组成部分[8]。此外，分析患者来源的不同iPS细胞克隆可能有利于发现意外的通常难以分离或分析的体细胞镶嵌。例如，利用iPS细胞来模拟慢性婴儿神经系统皮肤和关节综合征[19]。虽然iPS 细胞技术能好重现疾病的各种表征，且比动物模型和永生化细胞株更有优势，但是没有一种疾病模型可以完全反应药物对患者疾病发展的影响和患者个体遗传背景与复杂环境因素之间错综复杂的相互作用。疾病表型的重现仍然是探索疾病机制的主要技术障碍，目前体外设置中的技术创新，如三维（3D）培养和“芯片上的器官”，被寄予很大的期望普遍地应用于iPS 细胞的疾病建模中。
+
+# 1.2疾病的遗传因素
+
+现实生活中很多疾病都受到遗传因素的影响，但是很难根据遗传因素建立相应疾病模型。例如，与范可尼贫血病人带有相同遗传缺失的小鼠没有自发的骨髓衰竭，而这是范可尼贫血病人的一个标志。但是基因组编辑技术通过稳定地引入感兴趣的遗传突变，能够有效地产生人iPS 细胞的疾病模型[20]。例如最近通过运用iPS 技术研究表明基因突变也是引发阿尔茨海默病的重要因素，目前已经通过iPS技术获得基因突变的iPS细胞，将其进一步分化成神经元细胞后，发现存在淀粉样肽的大量聚集，由此提示β淀粉样肽可导致阿尔茨海默病的发生[21]。
+
+# 2．iPS细胞在转化医学领域的运用
+
+目前，转化研究主要集中在iPS细胞的应用和生物标志物上。体外基础研究模型与患者体内靶细胞环境具有显著性差异，特别是与生活方式相关的疾病，会造成体外模型与临床不能很好的对接，这对iPS细胞技术来说也是一个挑战。
+
+# 2.1iPS细胞的应用
+
+在药物研发的临床试验阶段和随后的新药申请/生物制剂执照申请阶段失败的主要问题是缺乏临床的有效性 $( 4 8 \% )$ 和安全性 $( 3 1 \% )$ [22]。在临床前基础研究中，动物测试是药物体内测试的主要方法，动物模型与人类间的差异和有限的可扩展性使得难以开发和依赖临床前生物标志物来准确预测药物开发临床阶段的疗效和毒性作用。Hanna等人重编程患有镰刀型贫血症小鼠的皮肤成纤维细胞为iPS细胞,通过同源重组方式将人野生型A-珠蛋白基因替代了βB-珠蛋白基因,将这些经过基因修饰的iPS 细胞在体外诱导分化获得具有正常功能的造血前体细胞[23]。此外iPS 细胞具有重现供体表型的功能，可以利用人类iPS细胞衍生物在整个药物发现和开发过程中找到高度相关的生物标志物来衔接临床前和临床体外毒性测试的潜力。
+
+# 2.2iPS技术在生物标志物中的运用
+
+体内大多数情况下，靶细胞难以接近和进入，使得患者靶细胞的表型变化难以监测，生物标志物提供了可衡量的指标来评估临床前和临床环境下药物对疾病的影响。理想情况下，临床研究中的生物标志物应该是一个客观的，可以被准确观察到，可重现病人医疗状态的无创性指标[24]。但目前监测生物标志物时，临床前研究通常采用的是侵入性采样和测量；这种方法通常不适合在随后药物开发阶段中的临床试验中使用。利用iPS 细胞进行相关的研究将细胞外物质作为生物标志物将能最大限度的接近理想情况中的生物标志物。细胞外物质，如细胞因子激素和细胞代谢物，是细胞培养上清液，血浆和体内液体（尿液脑脊液唾液和泪液）是最好的生物标志物。临床上对生物标志物数据的检测、评定、验证需要很长一段时间[25]，而iPS 细胞能够重现供体表型的功能，对应的细胞来源不易枯竭，可以快速有效的建立和发现临床生物标志物。此外，iPS细胞与人源细胞具有高度相关性，很大程度上可以替代患者样本用于临床生物标志物的相关研究，还可作为临床前基础研究的疾病模型以缩小临床前研究和临床检验的差异发现和使用准确可靠的生物标志物不仅能有效降低药物开发过程中的失败风险，还能帮助广大研究者更好更深入的探索疾病机制。患者来源的iPS细胞分化成特定的细胞类型无疑是研究疾病相关分子机制和生物标志物的最有利的工具之—[26]。
+
+# 3.iPS在药物筛选中的作用
+
+目前，药物的发现过程设计有两种不同的方法：1.是测量特定目标靶点变化的“基于靶点的”方法；2.测量细胞表型形态变化的更一般的“表型”方法。不论运用哪种方法，都应先从预先选定的药物库中进行进一步的筛选和优化，然后对通过表型筛选鉴定的候选药物的靶点和作用机理[27][28][29]进行后续验证，后续的验证就需要对候选药物的药理和毒性作用进行早期预测和优化。
+
+# 3.1iPS在候选药物的筛选中的作用
+
+在药物研发的“筛选”阶段，主通过使用高通量筛选（HTS）的方法从预定的化合物库鉴定出一些目标药物，随后对几种有前景的药物进行选择和优化。HTS的应用中，试验的灵敏度和重现性是本阶段目标化合物筛选鉴定的先决条件[30]。Tang 等的综述总结了患者来源的 iPS 细胞的疾病模型和复合筛查的现状[31]，iPS 细胞技术不仅很好地符合这个先决条件而且还避开了通常阻碍对化合物进行准确评价的种间差异。
+
+# 3.2iPS在药理学评价中的作用
+
+目前最常用的疾病模型是鼠模型，老鼠属于啮齿类，而人是灵长类，两者存在着种间差异。来自患者自体细胞的iPS细胞是建立疾病模型的理想来源，它保有疾病独特的基因型和表型，是患者自体疾病的最好表现形式。例如Kobari等用iPS细胞分析镰状细胞贫血的基因突变和红细胞的功能，用基因序列分析显示所有患者体细胞来源的iPS细胞分化成的红细胞都有S突变，这为该疾病的机制研究带来新的突破[32]。对于罕见疾病来说，由于样本的缺乏，造成了对该疾病的研究不够深入，但是患有罕见疾病的患者又迫切希望尽快获得新药进行治疗，通过使用患者来源的iPS细胞来获得相应药物的功效和安全性的做法，可能很快推动化合物在临床环境下的药理和毒理作用的研究进展。
+
+# 3.3iPS对候选药物毒性评价的作用
+
+迄今为止，动物测试对临床症状出现前的毒性预测是重要的，因为它提供了药物吸收，分配，代谢和排泄等生物学方面的必要信息。然而，动物模型与人类之间的差异和有限的可扩展性使得难以准确预测药物研发临床阶段的毒性作用[33]。鉴于在昂贵的临床阶段经常检测到不可预见的毒性，而iPS技术具有应用相同或高度相关的生物标志物组来衔接临床前和临床体外毒性测试的潜力。药物毒性主要分为：肝毒性、心脏毒性、肾毒性以及神经毒性。
+
+不可预见的肝毒性是临床开发各个阶段药物抗性，以及撤回已经上市的药物的主要原因之一[34]。在药物开发的临床前阶段，动物模型的结果往往不足以反映人类临床试验中后来出现的内在和特异性肝毒性[35]。鉴于肝细胞的体外多重测定化合物可能引起药物诱导的肝损伤（DILI)，研究往往集中在测量肝细胞色素（CYP）诱导的变化、反应性代谢物形成、线粒体功能障碍和抑制胆汁盐泵出口。由于供体与供体之间的差异很大，特异性供体细胞来源容易耗竭，并且体外维持细胞功能困难[36]。iPS 细胞技术的诞生很大程度上解决了这些问题。尽管与新鲜原代肝细胞相比，人类iPS衍生的肝细胞具有较低CYP酶活性的特征，但已经证明这些细胞是肝细胞特异性毒性测定的有价值的平台[37]。
+
+干细胞来源的肝细胞也可能作为细胞来源，能较为准确的观察到检测DILI常见临床标志物分泌的变化，在药物开发临床前期的占据一席之地[38]。与在药物发阶段使用的任何其他肝细胞类型相比，iPS细胞来源的肝细胞具有能够模拟在施用药物之后存在的特异性DILI或随后不良药物反应的患者遗传背景的优点，因此，iPS细胞来源的肝细胞可以成为回顾性临床数据分析的工具。由于可以从血液样品中获得患者来源的iPS细胞系，所以可以在临床试验期间特异性地从患有DILI的患者中，或者是服用已经被批准用于市场释放的药物的患者获得iPS细胞来源的肝细胞。目前，iPS细胞来源的肝细胞仍然处在不成熟的阶段。
+
+不可预知的心脏毒性是药物开发过程最昂贵的支出之一[39]，虽然动物研究在预测候选药物的心脏毒性方面起着重要的作用，但是在人和动物的一些电生理特性之间的差异可能会限制转化成临床设置的结果[40]。虽然iPS 细胞来源的心肌细胞仍然处于初级阶段，但是这些细胞已经表达了成体人心脏正常功能所必需的离子通道的编码基因，从而使这些细胞成为筛选心脏离子通道细胞毒性作用的理想工具[41]。2013年，梁等报道了来自健康受试者和遗传性QT综合征，肥厚型心肌病和扩张性心肌病的个体的iPS细胞来源的心肌细胞的产生。作者已经表明，该iPS细胞分化的心脏细胞比使用HEK293细胞系的标准hERG基因的体外测定更准确地预测对心脏毒素化合物的易感性[42]。
+
+在正常情况下，肾脏每 24小时过滤大约 $1 5 0 \mathrm { - } 1 8 0 \mathrm { ~ L ~ }$ 的血浆[43]，并且接受大约 $2 5 \%$ 的心输出量，使得它们容易受到药物诱发出现损伤[44]由于常用的标准临床生物标志物如血清肌酐和血液尿素氮对肾毒性的有限的敏感性和特异性，通常在检测到肾脏损伤的时候已经晚了[45]由于体外临床前系统不能反映肾脏器官的复杂性，因此难以将这一药物开发阶段与体内毒性研究相结合。面对这些障碍，人类iPS细胞衍生的肾元细胞正在迅速成为肾毒性和疾病早期检测模型的有前景的细胞来源。Takasato等报道了人ES细胞分化为由早期肾单位组成的具有潜在的肾毒性研究价值的简单的自组织3D肾结构[46。将3D 系统和iPS细胞技术这两种技术相结合用于临床前肾毒性评价，这只是一个时间问题。
+
+神经毒性的临床前评估主要由昂贵的体内动物实验组成，大多数相关的体外实验测定是基于大鼠原代皮质模型[47]和肿瘤衍生的神经元细胞系的，由于人类中枢和外周神经系统的复杂性，其使用性有限。此外，体外神经毒性测定通常侧重于检测一般细胞毒性，而不是靶向神经元和胶质细胞特异性毒性。血脑屏障细胞作为高度专业化的内皮细胞，限制循环化合物对大脑的可接触性，在神经毒性的体外检测中也是至关重要的[48]。由于分子量超过 $5 0 0 \mathrm { D a }$ 的化合物不能通过，只有少量分子影响中枢神经系统。人类和体内动物模型之间血脑屏障的差异使得难以准确地将临床前生物标志物如P-糖蛋白（P-gp)，紧密连接蛋白和转运蛋白转移到人类试验阶段[49]。由于这些限制，多功能干细胞衍生的神经元，内皮细胞，星形细胞，神经胶质细胞和平滑肌细胞在体外神经毒性检测以及可转化生物标志物的鉴定中具有突出的作用[50]。
+
+# 4.小结
+
+人类iPS细胞在药物发现中最有利的特征是这些细胞在体外重现供体表型的能力，引发了“培养皿内临床试验”时代的来临[51]。人类诱导多能干细胞已经彻底改变了再生医学和药物研发领域，带来了各种令人兴奋的应用前景，包括生物标志物发现过程的改进，生成用于早期检测药物诱导毒性的先进的细胞平台，以及对患有罕见疾病的患者的新的治疗方法。但是iPS细胞的安全性存在着很大的争议，还没有建立可靠的评价iPS 细胞安全性的检测系统，而且在iPS衍生的细胞可以充分用于药物和生物标志物发现过程之前，主要挑战之一仍然是需要阐明细胞成熟和转化的机制。另外研究表明iPS 细胞仍然保留有其来源的体细胞的表观遗传记忆，这表明我们对干细胞表观遗传学的差异认识仍然有限，重编程方法有待进一步改进。同时在建立疾病模型时体细胞的选择上也应注意，譬如与血液系统有关的疾病采用血细胞来建立可能比成纤维细胞建立的容易体外重现疾病的发生发展。但由于人类iPS 细胞只是在十年前才产生的，因此基于iPS 细胞的研究的动态扩张是令人惊讶的，分化方法的进一步改进肯定会将基础和临床研究的各个方面衔接起来，更好探索iPS细胞潜力以把握药物发
+
+现和发展的方向。
+
+# 参考文献：
+
+[1].Caulfield T, Sipp D, Murry C E, et al. SCIENTIFIC COMMUNITY. Confronting stem cell hype[J]. Science, 2016,352(6287):776.   
+[2].Avior Y， Sagi I， Benvenisty N. Pluripotent stem cells in disease modeling and drug discovery[J]. Nature Reviews Molecular Cell Biology,2016,17(3):170.   
+[3].Wert G D, Mummery C. Human embryonic stem cels: research, ethics and policy[J]. Human Reproduction, 2013, 18(4):672.   
+[4]. Wu Y,Li O, He C,et al. Generation and characterization of induced pluripotent stem cells from guinea pig fetal fibroblasts[J]. Molecular Medicine Reports, 2017,15(6):3690-3698. [5]. Spitalieri P, Talarico V,Luchetti A, et al. Generation of disease-specific induced pluripotent stem cels from human fetal extra-embryonic tissues[J]. Cytotherapy, 2014, 16(4):S9-S9.   
+[6]. Singh A M, Perry D W, Steffey V V A, et al. Decoding the Epigenetic Heterogeneity of Human Pluripotent Stem Cells with Seamless Gene Editing[J]. Methods in Molecular Biology, 2016, 1516:153.   
+[7]. Faulknerjones A, Fyfe C, Cornelissen D J, et al. Bioprinting of human pluripotent stem cells and their directed differentiation into hepatocyte-like cells for the generation of mini-livers in 3D.[J]. Biofabrication, 2015,7(4):044102.   
+[8]. Smietana K, Siatkowski M, Moller M. Trends in clinical success rates[J]. Nature Reviews Drug Discovery, 2016, 15(6):379.   
+[9]. De V J, Bouckenheimer J, Sansac C, et al. Human induced pluripotent stem cells: A disruptive innovation[J]. Current Research in Translational Medicine, 2016, 64(2):91-96.   
+[10]. Mullane K, Winquist R J, Williams M. Translational paradigms in pharmacology and drug discovery.[J]. Biochemical Pharmacology, 2014, 87(1):189-210.   
+[11]. Zhao X, Modur V, Carayannopoulos L N, et al. Biomarkers in Pharmaceutical Research[J]. Clinical Chemistry,2015, 61(11):1343-53.   
+[12] Quintana-Bustamante O, Segovia J C. Generation of Patient-Specific induced Pluripotent Stem Cell from Peripheral Blood Mononuclear Cells by Sendai Reprogramming Vectors[J]. Methods in Molecular Biology,2016,1353:1.   
+[13]. Spitalieri P, Talarico V, Lucheti A, et al. Generation of disease-specific induced pluripotent stem cells from human fetal extra-embryonic tissues[J]. Cytotherapy, 2014,16(4):S9-S9.   
+[14]. Narayanan G, Sheila M, Chai J,et al. Generation of sibling-matched induced pluripotent stem cell lines from spinal and bulbar muscular atrophy patients[J]. Stem Cell Research, 2017, 20:30-33.   
+[15]. Slaugenhaupt S A, Gusella JF. Methods for altering mRNA splicing and treating familial dysautonomia by administering benzyladenine:, US 9265766 B2[P]. 2016.   
+[16]. Inoue H, Nagata N, Kurokawa H, et al. iPS cells: a game changer for future medicine[J]. Embo Journal, 2014, 33(5):409.   
+[17] Zhang Z N, Freitas B C, Qian H, et al. Layered hydrogels accelerate iPSC-derived neuronal maturation and reveal migration defects caused by MeCP2 dysfunction[J]. Proceedings of the National Academy of Sciences of the United States of America, 2016,113(12):3185.   
+[18]. Tang X, Kim J, Zhou L,et al. KCC2 rescues functional deficits in human neurons derived from patients with Rett syndrome.[J]. Proceedings of the National Academy of Sciences of the United States of America, 2016, 113(3):751.   
+[19]. Tanaka T, Takahashi K, Yamane M, et al. Induced pluripotent stem cells from CINCA syndrome patients as a model for dissecting somatic mosaicism and drug discovery.[J]. Blood, 2012, 120(6):1299.   
+[20]. Liu G H, Suzuki K, Qu J, et al. Targeted Gene Correction of Laminopathy-Associated LMNA Mutations in Patient-Specific iPSCs[J]. Cell Stem Cell, 2011, 8(6):688-694.   
+[21]. Bannon D, Landau A M, Doudet D J. How Relevant Are Imaging Findings in Animal Models of Movement Disorders to Human Disease?[J]. Current Neurology & Neuroscience Reports, 2015, 15(8):53.   
+[22]. Suarez C D,Littepage L E. Patient-Derived Tumor Xenograft Models of Breast Cancer[J]. Methods Mol Biol, 2016,1406:211-223.   
+[23.JRinaldi F, Perlingeiro R C. Stem cels for skeletal muscle regeneration: therapeutic potential and roadblocks.[J]. Translational Research, 2014,163(4):409-417.   
+[24]. Cevatemre B, Ulukaya E, Sarimahmut M, et al. The M30 assay does not detect apoptosis in epithelial-derived cancer cells expressing low levels of cytokeratin 18[J]. Tumor Biology, 2015, 36(9):6857-6865.   
+[25]. Ongen Z. What do biomarkers mark?[J]. Anatolian Journal of Cardiology, 2016,16(2):75. [26]. Ding Y,Qin Z H, Cun-Shuan X U. Generation of Hepatocyte-like Cells from Induced Pluripotent Stem Cells[J]. Chinese Journal of Biochemistry & Molecular Biology,2016.   
+[27]Swinney D C, Anthony J. How Were New Medicines Discovered?[J]. Nature Reviews Drug Discovery, 2011,10(7):507-19.   
+[28]. Lee H,Lee J W.Target identification for biologically active smal molecules using chemical biology approaches[J]. Archives of Pharmacal Research, 2016,39(9):1-9.   
+[29].Wagner B, Schreiber S. The Power of Sophisticated Phenotypic Screening and Modern Mechanism-of-Action Methods[J]. Cell Chemical Biology,2016,23(1):3-9.   
+[30]. Kobari L, Yates F, Oudrhiri N,et al. Human induced pluripotent stem cells can reach complete terminal maturation: in vivo and in vitro evidence in the erythropoietic differentiation model.[J]. Haematologica, 2012, 97(12):1795-803.   
+[31]. Janzen, William .Screening Technologies for Small Molecule Discovery: The State of the Art[J]. Chemistry & Biology,2014, 21(9):1162-1170.   
+[32]. Tang S, Xie M, Cao N,et al. Patient-Specific Induced Pluripotent Stem Cels for Disease Modeling and Phenotypic Drug Discovery[J]. Journal of Medicinal Chemistry,2016, 59(1):2. [33]. Bannon D, Landau A M, Doudet D J. How Relevant Are Imaging Findings in Animal Models of Movement Disorders to Human Disease?[J]. Current Neurology & Neuroscience Reports, 2015, 15(8):53.   
+[34]. Lee W M. Drug-Induced Hepatotoxicity[J]. New England Journal of Medicine, 2010, 7(5):477-485.   
+[35] Chen M, Suzuki A, Borlak J,et al. Drug-Induced liver injury: interactions between drug properties and host factors[J]. Journal of Hepatology, 2015, 63(2):503-514.   
+[36]. Schwartz M P, Hou Z, Propson N E, et al. Human pluripotent stem cell-derived neural constructs for predicting neural toxicity[J]. Proceedings of the National Academy of Sciences of the United States of America, 2015,112(40):12516.   
+[37]. Tasnim F, Toh Y C,Qu Y, et al. Functionally Enhanced Human Stem Cell Derived Hepatocytes in Galactosylated Celulosic Sponges for Hepatotoxicity Testing[J]. Molecular Pharmaceutics, 2016, 13(6):1947.   
+[38]. Zhu S, Rezvani M, Harbell J,et al. Mouse liver repopulation with hepatocytes generated from human fibroblasts.[J]. Nature,2014, 508(7494):93.   
+[49].Hay M， Thomas D W, Craighead JL，et al. Clinical development success rates for investigational drugs.[J]. Nature Biotechnology, 2014, 32(1):40.   
+[40]. Verneti L A, Senutovitch N, Boltz R,et al. A human liver microphysiology platform for investigating physiology, drug safety,and disease models[J]. Experimental Biology & Medicine, 2016,241(1):101.   
+[41]. Schwartz M P, Hou Z, Propson N E,et al. Human pluripotent stem cell-derived neural constructs for predicting neural toxicity[J]. Proceedings of the National Academy of Sciences of the United States of America, 2015,112(40):12516.   
+[42]. Yu Y, Sun S,Wang S,et al. Liensinine- and Neferine-Induced Cardiotoxicity in Primary NeonatalRatCardiomyocytesandHuman-InducedPluripotentStemCell-Derived Cardiomyocytes[J]. International Journal of Molecular Sciences, 2016,17(2):186.   
+[43]. Wei D,Mak R H. Early markers of obesity-related renal injury in childhood[J]. Pediatric Nephrol0gy, 2015, 30(1):1-4.   
+[44]. Tiong H Y, Huang P, Xiong S,et al. Drug-induced nephrotoxicity: clinical impact and pre-clinical in vitro models[J].Molecular Pharmaceutics,2014,11(7):1933-48.   
+[45]. Van M L,Moerland M, Cohen A F,et al. Urinary kidney biomarkers for early detection of nephrotoxicity in clinical drug development.[J]. British Journal of Clinical Pharmacology, 2014, 77(6):947-957.   
+[46]. Snoeck H W. Modeling human lung development and disease using pluripotent stem cells.[J]. Development, 2015,142(1):13-6.   
+[47]. Tukker A M, de Groot M W,Wijnolts F M, et al. Is the time right for in vitro neurotoxicity testing using human iPSC-derived neurons?[J]. Altex, 2016, 33(3):261.   
+[48]. Hartmann N B, Agerstrand M, Lützhoft H C H, et al. NanoCRED: A transparent framework to assess the regulatory adequacy of ecotoxicity data for nanomaterials -Relevance and reliability revisited[J]. Nanoimpact, 2017.   
+[49].Aday S, Cecchelli R,Halliervanuxeem D,et al. Stem Cell-Based Human Blood-Brain BarrierModelsfor Drug Discovery and Delivery.[J]. Trendsin Biotechnology，2016, 34(5):382-393.   
+[50]. Wheeler H E, Wing C, Delaney S M, et al. Modeling chemotherapeutic neurotoxicity with human induced pluripotent stem cell-derived neuronal cells.[J]. Plos One, 2015,10(2):e0118020. [51].Sayed N,Liu C，Wu J C. Translation of Human-Induced Pluripotent Stem Cels: From Clinical Trial ina Dish to Precision Medicine[J]. Journal of the American Colege of Cardiology, 2016,67(18):2161-2176.

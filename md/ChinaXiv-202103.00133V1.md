@@ -1,0 +1,260 @@
+# 时间跨期选择中的自我一他人决策效应
+
+赵翠霞¹，沈丝楚²，李岩³，刘鑫45，李纾4,5\*
+
+1山东师范大学心理学院，济南2503582福建师范大学心理学院，福州3501173常熟理工学院商学院，常熟2155004中国科学院心理研究所行为科学重点实验室，北京1001015中国科学院大学心理学系,北京100049
+
+摘要：许多使用金钱作为结果的跨期选择揭示了自我-他人决策效应的存在。然而，跨期选择的结果并不局限于金钱；时间亦是一种稀缺和不可再生的资源。因此，我们进行了一系列实验研究，揭示基于时间的跨期选择中的自我-他人决策效应，即关注了以时间为结果的跨期选择类型。在三个实验过程中，证实了自我-他人决策效应的存在。为他人做决策的被试更倾向于选择小而近(SS)选项而不是大而远(LL)选项，并认为 SS选项的获益显著大于LL选项。而为自己做决策的被试更喜欢LL选项而不是SS选项。然而，他们认为LL和 SS选项的获益没有显著差异。改变决策者的角色会影响个人考虑其选择的未来后果的能力。时间的跨期选择中的自我-他人决策效应可以用经济理性和建构水平理论来解释。研究结果表明，时间跨期选择中自我-他人决策效应，可以简单地通过重新描述问题而产生，在不需要增加控制的情况下，可以帮助个人做出最佳的长期选择。
+
+关键词：自我一他人决策效应，时间跨期选择，机会成本，经济理性
+
+# 1引言
+
+作为社会化的生物，人们不可避免地参与涉及到有关他人的决策中 (Sanfey,2007)。人们被雇用，甚至被选出代表他人做决策；顾问、政治家、董事会成员就是其中三个代表性例子。有时我们需要在跨期选择中为他人做决策，如，为他人决定毕业后立即工作还是继续接受教育以便未来挣得更多。在跨期选择中，人们为他人决策的方式与为自己决策的方式不一致(Pronin,Olivola,&Kennedy,2008;Chen&He,2014)。如，与为自己做决策相比，为他人做决策时人们表现出更小的时间折扣，更倾向于选择更有价值的LL选项(Pronin,Olivola,&Kennedy,2008; Chen& He,2014)。
+
+在跨期选择领域，大量已有研究使用金钱作为结果(outcome)，我们称之为金钱跨期选择(Read,Frederick,Orsel,& Rahman,2005; Read,Frederick,& Scholten,2013; Jiang,Hu,& Zhu,2014)。然而跨期选择的结果不仅限于金钱。时间是一种稀缺的、有限的资源(Moore,1963)。人类经常为他人做出时间利用的决定。例如，父母偶尔会为他们的孩子决定现在花1天时间娱乐还是一周后花2天时间娱乐。我们将这种具有时间结果的跨期选择称为时间跨期选择。资源配置理论家认为，几乎所有的经济租金都可以归因于稀缺资源的所有权和分配(Becker，1965)。基于资源观点的衍生物，包括基于知识的观点(Grant,1996)、核心能力方法(Lado& Wilson,1994; Prahalad & Hamel,2000) 和动态能力方法(Teece & Shuen,1997),都把有效的资源利用作为竞争差异化的核心(Grant,1991)。因此，人们普遍认为，竞争优势至少在一定程度上来源于最佳资源分配。
+
+很多研究者注意到了稀缺资源的无效使用，并将时间作为结果来探究人们的跨期选择（我们把这个称为时间跨期选择），结果发现时间和金钱在心理上是不等同的（Okada&Hoch,2004; Mogilner,2010; Reed,Kay,Finnel, Aquino,& Levy,2015; Zhao,Jiang,Zhou,Li,Rao,& Zheng,2015)。跨期选择中金钱和时间有两个不同点。第一，跨期选择中时间的机会成本高于金钱。对于金钱而言，“你更喜欢今天的5元还是26天后的6.2元？”如果你选了前者，你的机会成本就是后者。对时间而言，你更喜欢明天休一天假还是一个月后休两天假？如果你选了前者，你的机会成本就是一天学习或工作的时间（因为你花费时间旅行就无法再从事其他活动）和两天休假时间(Read,Olivola,&Hardisty,2017)。也就是说，获得更多钱(LL）是绝对的获益，因为我们没有任何损失，然而，得到额外的时间却不是一个绝对获益，因为我们损失了将时间花费在其他活动上的机会。也就是说金钱没有机会成本但时间有。第二，跨期选择中时间的现在偏差少于金钱。例如，我们的前期研究发现，在时间跨期选择中，被试倾向于选择LL，而不是SS选项(Zhao,Jiang,Zhou,Li,Rao,& Zheng,2015)。这一结果与金钱跨期选择的结果恰恰相反，在金钱跨期选择中，人们是没有耐心的，倾向于选择SS而不是LL选项(Frederick,Loewenstein,& O'Donoghue,2002；Read,Frederick,&Scholten,2013;Olivola&Wang,2016)。Olivola 和Wang(2016)发现与金钱出价相比，在时间出价上，人们表现出更少的现在偏差。于是，我们推测自我-他人决策效应在时间跨期选择中不同于金钱跨期选择。为了弥补相关文献中的这一重要空白，我们探究了时间跨期选择中的自我-他人决策差异。
+
+为不同的人(自己或他人)作决策时，为什么相同的选项有不同的特性呢？在相关文献中可以找到许多解释。一种观点认为，当人类为自己做出决策时，在什么都知道的情况下，因为“内脏因素"的运作，往往违背他们的自身利益，内脏因素包括饥饿、情绪和情感、身体疼痛，以及对毒品的渴望等。因此，当为自己决策时受内脏因素的影响往往表现出冲动性的行为。然而，当为他人作决策时，人们通常低估甚至忽视他人所经历的内脏因素，表现出较少的情感参与，并反映出更多的耐心(Loewenstein,1996;Albrecht,Volz,Sutter,Laibson,&VonCramon,2011)。也就是说，在金钱跨期选择中，人们在为自己决策时，更倾向于选择较小价值的SS选项，在为他人决策时，更倾向于选择较大价值的LL选项(Pronin,Olivola,& Kennedy,2008; Chen & He,2014)。
+
+另一种建构水平理论（construal level theory,CLT）的观点描述了心理距离对个体理解事件方式的影响。人们形成低级的建构（即涉及更具体和平均导向的特征；例如，写一篇论文可以被描述为在键盘上按键），以应对心理上的亲近事件。相反，人们对心理上的疏远事件形成高层次的建构(即涉及更抽象和末端导向的特征；例如，写一篇论文可以被描述为表达思想）。根据CLT，可取性指的是一个动作的结果状态的价值（例如，“讲座有趣吗？"），是抽象的，反映了高级的建构。相反，可行性是指实现行动结果状态的容易或困难程度（例如，“讲座是安排在方便的时间吗？”），是具体的，反映了低级的建构(Liberman&Trope,1998;Trope&Liberman,2010)。许多研究人员证实，随着心理距离的增加，人们更多地依赖于可取性相关因素，而不是可行性相关因素(Liberman,&Trope,1998;Lu,Xie,& Xu,2012; Todorov,Goren,& Trope,2007)。在基于金钱的跨期选择中，人们在为自己决策时选择不那么有价值的SS奖励（决策依赖于可行性相关因素），当为他人决策时
+
+（决策依赖于可取性相关因素）选择更有价值的LL奖励(Pronin,Olivola,&Kennedy,2008;  
+Chen & He, 2014; Sun,Wang,Liu, & Liu,2017)。
+
+金钱跨期选择中自我-他人决策差异的解释机制是否适合时间跨期选择呢？考虑到时间和金钱在跨期选择中的机会成本和现在偏差不同，然而成本和收益的权衡相同，我们用经济理性和建构水平理论解释时间跨期选择中的自我-他人决策效应。经济理性是指将成本效益分析的概念应用于个人决策。根据Kourilsky和Murray(1981)的说法，它可以被概念化为一个三层次决策，集成了稀缺性、替代方案和机会成本。层次结构第一层是个人可以认识到稀缺资源的存在，如金钱和时间。识别稀缺资源的特定替代用途的能力在第2层。而识别现实的独特的替代用途并根据预期效益对其进行排序的能力在第3层(Laney,1988)。
+
+根据建构水平理论，跨期选择中，人们对心理上的亲近事件形成了低水平建构（为自己决策），对心理上的疏远事件形成高水平建构（为他人决策）。基于经济理性和建构水平理论，人们在为自己和他人做决策时处于不同的决策层次。为自己做出决定的被试处于经济理性的第一层，他们可以认识到稀缺资源的存在，如金钱和时间。在金钱跨期选择中，人们更倾向于 SS选项，因为有更大的现在偏差(Olivola&Wang,2016)。但在时间跨期选择中，人们更倾向于LL 选项，因有更小的现在偏差(Zhao,Jiang,Zhou,Li,Rao,& Zheng,2015)。金钱跨期选择中，为他人决策的被试处于经济理性的第二层，可以确定特定的替代用途（替代选择），更倾向于LL选项。然而，在时间跨期选择中为他人决策的被试处于经济理性的第3层，他们可以确定现实的替代用途（机会成本），并因为更低的机会成本而倾向于 SS选项。没有机会成本的金钱跨期选择可以被看作是“获益”，有机会成本的时间跨期选择可以被看作是“损失”，“获益"和“损失”领域的选择遵循“映射效应”(Kahneman&Tversky，1979)。也就是说，“获益”中的LL 选择（金钱跨期选择）将被证明是"损失"中的 SS 选择（时间跨期选择），反之亦然。我们因此提出假设1：
+
+假设1：时间跨期选择中，为自己决策的被试可能更喜欢LL而不是SS选项；为他人决策的被试可能更喜欢SS而不是LL选项。
+
+如果同时考虑时间跨期选择和金钱跨期选择，那么假设1的逻辑便更容易理解（见图1)。
+
+![](images/9e845849c4acdc270ac340735fab4153067e4926bf867dad9c1e9cb1e1f51660.jpg)  
+图1.假设1的逻辑框架( $\mathrm { O C = }$ 机会成本， $\mathrm { I C = }$ 时间跨期选择)。没有OC（基于金钱）的IC可以被视为收益，而有OC（基于时间）的IC可以被视为损失。收益和损失领域的选择将服从预期理论提出的“映射效应”(Kahneman&Tversky,1979)。也就是说，收益(基于金钱的IC)中的LL选择将成为损失(基于时间的IC)中的SS选择，反之亦然。
+
+如果假设1得到支持，还有两种理论可以解释这一结果。第一种不同的解释是，当人们按照社会距离的观点做决策时，他们对每个人不是同样慷慨的。他们往往更愿意与他们感觉亲近的人分享货物和资源，而不是与他们不关心的人分享(Fareri,Niznikiewicz,Lee,&Delgado,2012; Goeree,McConnell,Mitchell,Tromp,& Yariv,2010; Harrison, Sciberras,& James,2011;Hoffman,McCabe,& Smith,1996)。换句话说，时间跨期选择中自我-他人差异的另一个可能原因是被试对自己非常慷慨(为自己选择LL)，但他们的慷慨在对他人时会不成比例地降低(为他人选择 SS)。第二种替代解释是 Stone 和 Allgaier (2008)提出的社会价值理论，以解释风险决策中的自我-他人差异。社会价值观是人们对其社会群体价值观的看法。他们认为，当风险承担受到社会重视时，人们会为他人做出更危险的决定，但在风险不受重视的情况下则不会这样做。也就是说，当他们为他人做出决定时，依赖于社会价值观，为个人决策时依赖于个人偏好(Stone＆Allgaier,2008)。在中国，旅游通常是个人偏好，学习或工作是社会偏好。因此，被试为自己选择LL（更多的旅游时间），为他人选择 SS（较少的旅游时间意味着更多的学习或工作时间）。在经济推理、建构水平理论、社会距离理论和社会价值观理论中，哪一种理论适合于基于时间的跨期选择中的自我-他人决策差异？在我们看来，无论被试是为自己还是为他人做出决定，他们总是追求奖励和避免损失（Zhao,Shen,Rao, Zheng,Liu,&Li,2018; Zheng,Shen,Xu,Rao,&Li.,2019)。因此，我们提出了假设2:
+
+假设2：在时间跨期选择中，为他人决策的被试认为SS选项的获益大于LL选项，而为自己决策的被试认为LL的获益大于SS选项。
+
+如果假设2得到支持，那么经济理性、理解水平理论和社会价值观理论就会得到支持， Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects ofSelf-Other Decision-Making on Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+而被试的慷慨不会得到支持。然后，我们将探查时间跨期选择中自我-他人决策差异的潜在机制。我们使用两个假设场景来测试时间跨期选择中的自我-他人决策差异：学习时间场景和训练时间场景。要求学生/运动员想象他们或他们的朋友最近进行了密集的学习/训练，学生/运动员代表建议举办一次课外活动/旅游来帮助他们放松。所提供的两种选择如下：SS 选项要求他们“明天参加一天的课外活动/旅游”。LL选项要求他们“一周后参加两天的课外活动/旅游”。根据经济理性和建构水平理论，为自己决策的被试对事件形成低层次的建构，并只认识到稀缺时间的存在（在经济理性的层次结构的第一层），即他们无法识别时间的机会成本。因此，我们推断，他们认为课外活动/旅游比学习/培训更重要；为他人决策的被试形成高级别的建构，并能识别时间的机会成本（在经济理性层次的第三层）。因此，我们推断他们认为学习/培训比课外活动/旅游更重要。这些推论与社会价值观理论是一致的：当人们为他人做出决定时，他们的决定依赖于社会价值观（考虑学习/培训比课外活动/旅游更重要），当他们为自己做出决定时，依赖于个人偏好（考虑课外活动/旅游比学习/培训更重要）。因此，我们提出了假设3：
+
+假设3：为他人决策的被试能识别时间的机会成本，因此他们认为学习/训练比课外活动/旅游更重要；为自己决策的被试不能识别时间的机会成本，因此他们认为课外活动/旅游比学习/训练更重要。
+
+如果假设3得到支持，那么下一个问题就是为什么为他人决策的被试认为学习/训练比课外活动/旅游更重要？他们是识别了时间的替代用途（机会成本）还是依据社会价值做决策？为了回答这个问题，我们进行了两步实验。一组先为他人决策后为自己决策，另一组先、后都为自己决策。我们推断，如果时间跨期选择中自我-他人差异的内在机制是被试根据社会价值做决策，基于社会价值是稳定的，则初始决策中无论被试是为自己决策还是为他人决策都不影响随后为自己的决策，因此，两组被试在第二次选择时没有显著差异。如果时间跨期选择中自我-他人差异的内在机制是时间的机会成本，那么为他人做决策的初始条件使被试形成高层次的建构，并注意到时间的机会成本。然后，在随后的决定策中，他们比初始和随后都为自己做选择的被试将更倾向于SS选项（较低的机会成本）。因此，提出假设4:
+
+假设4：如果机会成本而非社会价值是时间跨期选择中自我-他人差异的内在机制，那么，在第二次决策中，最初为他人决定并随后为自己决定的被试比最初和随后为自己决定的被试更倾向于选择SS选项。
+
+以下这些实验试图证明我们的研究假设。
+
+# 2 实验1
+
+实验1中，我们检验了时间跨期选择中自我-他人决策效应（假设1）。
+
+# 2.1被试
+
+山东师范大学95名政治科学专业的本科生在课堂环境下参加了本研究(59名女性，M年$_ { \mathrm { i j s } } = 2 0 . 0 6$ ， $S D _ { \mathit { 4 } \mathit { 4 } \mathit { 4 } } = 0 . 6 3 )$ 。所有被试都口头同意，并得到一份小礼物作为感谢。此外，所有实验都得到了中国科学院心理学研究所论理审查委员会的批准。
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects ofSelf-Other Decision-Making on Time-Based Intertemporal Choice. Journal of Behavioral Decision Making.DOI: 10.10o2/bdm.2248
+
+# 2.2材料和程序
+
+要求被试想象一下，他们或他们的朋友最近学习很紧张，学生代表提议参加一项课外活动调节一下同学们紧张的学习生活。现有两种选择，请问被试为自己或朋友选择哪一个？两种选项如下：
+
+A：明天参加一个为期1天的课外活动B:一周后参加为期2天的课外活动
+
+# 2.3结果和讨论
+
+表1结果表明，45名被试中有15人在“为自己决策”条件下更喜欢 SS选项(选项A)，50名被试中有30人在“为他人决策”条件下选择 SS选项。一个2（为自己决策vs.为他人决策) $\times 2$ (SS选项vs.LL选项)卡方检验显示实验条件与选择偏好之间存在显著的相关关系，$\chi ^ { 2 } ( 1 , N = 9 5 ) = 6 . 7 6$ ， $p = 0 . 0 0 0$ ,phi squared $= 0 . 0 6$ 。也就是说，在“为自己决策”条件下被试更倾向于选择LL选项，但在“为他人决策”条件下被试更倾向于选择 SS 选项。这一结果为假设1提供了支持性证据，并暗示时间跨期选择中存在自我-他人决策效应。
+
+表1.实验1不同条件的偏好结果  
+
+<html><body><table><tr><td rowspan="2">条件</td><td colspan="2">偏好</td></tr><tr><td>SS选项</td><td>LL 选项</td></tr><tr><td>为自己决策(N= 45)</td><td>15</td><td>30</td></tr><tr><td>为他人决策(N= 50)</td><td>30</td><td>20</td></tr></table></body></html>
+
+# 3 实验2
+
+实验2中，通过改变场景，研究时间跨期选择中自我-他人决策效应的普遍性。我们修改了实验1中使用的场景，设计了运动训练场景，并添加了操作检查。然后，我们获得了被试对每个场景的反应。学习场景类似于学校要求的任务，而运动训练类似于学生主动选择的活动。因此，我们采用了被试内设计来验证不同场景下时间权衡的稳定性。在训练场景下，要求学生想象他们是训练非常紧张的运动员，他们的队友提议外出旅游1次，调节一下紧张的训练生活。被试要在7点量表上圈出一个数字来表明他们的偏好。
+
+我们还想探究时间跨期选择中自我-他人决策差异的解释机制。当被试选择LL或SS时，我们假设他们会一致选择获益选项（假设2）。这个实验旨在求证我们的假设。
+
+# 3.1被试
+
+山东师范大学心理学专业的102名本科生参加了本研究(其中77名女性， $M _ { ☉ H } = 1 9 . 5 2$ $S D _ { \mathit { 4 } \mathit { 4 } \mathit { 5 } } { = } 1 . 2 9 \$ 。所有被试均获得口头知情同意，并得到了一份小礼物作为酬谢。
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects ofSelf-Other Decision-Making on Time-Based Intertemporal Choice. Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+# 3.2材料和程序
+
+有两种假设性场景，即学习时间场景和训练时间场景。这些场景来自于对我们前期研究的借用和修正(Zhao,Jiang,Zhou,Li,Rao,& Zheng,2015)。
+
+被试随机分为两组—为自己或其他人（他们的朋友）做选择，每个组都涉及学习时间和训练时间场景。在这两种场景之间插入一些无关问题（大概20道），以避免两种场景之间的相互影响，同时平衡了顺序效应。这样，场景（学习时间vs.训练时间）是被试内变量，决策角色（为自己决策vs.为他人决策）是被试间变量。有54名被试参与"为自己选择”条件，其他48名被试参与“为他人选择”条件。要求被试在一个七点的量表内圈出他们的选择，从1(肯定选择 A)到7(肯定选择B)。随后，所有被试(无论选择如何)都要对"1天课外活动、2天课外活动、1天旅游和2天旅游"在六点量表上进行获益或损失评分(-3为"很大损失”，3为“很大收益”）。两种假设场景和相应的操纵检查如下。
+
+# 学习时间场景
+
+请被试想象自己/朋友是一名学生，学习非常紧张，有同学提议组织一次活动调节一下紧张的学习生活，有两种选择，请问被试自己/朋友更倾向选择哪一个。被试在七点量表上圈出一个数字来表明他们自己或对朋友的建议( $1 =$ 肯定选择A1， $\ 7 =$ 肯定选择B1)。这两种选项如下：
+
+A1明天得到1天的课外活动时间
+
+B1一周后得到2天的课外活动时间
+
+# 培训时间场景
+
+请被试想象自己/朋友是一名运动员，最近训练非常紧张，有队友提议外出旅游，调节一下紧张的生活，有两种选择，请问被试自己/朋友选择哪一个。被试在七点量表上圈出一个数字来表明他们自己或对朋友的建议( $1 =$ 肯定选择A1， $\scriptstyle 7 =$ 肯定选择 B1)。这两种选项如下：
+
+A2明天得到1天的旅游时间
+
+B2一周后得到2天的旅游时间
+
+然后，问被试：“你认为‘一天的课外活动/旅游或两天的课外活动/旅游'是一种损失还是收获？请在6点量表上圈出一个数字来表示你的判断（ $- 3 =$ 很大损失， $3 { = }$ 很大增益）。”
+
+# 3.3结果和讨论
+
+图2表明不同角色(为自己Vs.为他人决策)和场景(学习Vs.训练场景)下被试的平均选择偏好(1 代表绝对选择 SS，7代表绝对选择LL)。方差分析结果显示角色的主效应显著。具Cite this article; Zhao, C.X.,Shen,S.C.,Li,Y.,Liu,X,&Li,S. (2021).Effects ofSelf-Other Decision-Makingon Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+体而言，为自己决策条件下更倾向于选择 LL(2 天课外活动/旅游时间)，为他人决策条件下更倾向于选择 SS(1天课外活动/旅游时间) $( F [ 1 , 1 0 0 ] = 1 7 . 2 9 , p = 0 . 0 0 0$ $\mathfrak { \eta } ^ { 2 } = 0 . 1 5 )$ 。被试的选择偏好在学习场景与训练场景中没有显著差异 $( F \left[ 1 , 1 0 0 \right] = 2 . 1 9 , p = 0 . 1 4 , \eta ^ { 2 } = 0 . 0 2 )$ 。此外，角色和场景的交互作用不显著 $( F [ 1 , 1 0 0 ] = 0 . 0 1 , p = 0 . 9 2 , \eta ^ { 2 } = 0 . 0 0 0 )$ ，这说明自我-他人决策效应在两个平行场景中是类似的。为时间跨期选择中的自我-他人决策效应的普遍性提供了支持性证据。
+
+![](images/f16fffda4b4af4bbb0fd1238aee79e1ba06d73fd4c792635510cc613ebe2817e.jpg)  
+图2.不同实验条件（为自己决策vs.为他人决策）和场景(学习与训练场景)下的平均选择偏好。低分表示更倾向于SS选项，高分表示更倾向于LL选项。
+
+![](images/6f9c8f212088dcbc0039b8f405c292f0a060ca646202fe4845f8a298f5639d31.jpg)
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects of Self-Other Decision-Making on Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+图3.不同条件(为自己决策vs.为他人决策)和课外活动/旅游时间(1天vs.2天)下的损失/获益评估。低分表示"1天课外活动/旅游，2天课外活动/旅游"被感知为很大的损失，高分表示"1天课外活动/旅游，2天课外活动/旅游"被感知为很大的获益。
+
+图3表明不同条件(为自己决策vs.为他人决策)和课外活动/旅游时间(1天vs.2天)的损益评估。方差分析结果表明实验条件对损益评估的主效应显著。具体来说“为自己做决策（20 $\scriptstyle ( M = 1 . 2 5 )$ ”的评分比“为他人决策 $\scriptstyle ( M = 0 . 9 3 )$ ”的评分高， $( F \left[ 1 , 1 0 0 \right] = 5 . 1 3 , p = 0 . 0 2$ $\mathfrak { \eta } ^ { 2 } = 0 . 0 5 )$ 。课外活动/旅游时间(1天vs.2天)的主效应不显著 $( F [ 1 , 1 0 0 ] = 2 . 2 3 , p = 0 . 1 4$ $\mathfrak { \eta } ^ { 2 } = 0 . 0 2 )$ 。两者的交互作用显著 $( F \left[ 1 , 1 0 0 \right] = 1 0 . 3 2 , p = 0 . 0 0 2 , \eta ^ { 2 } = 0 . 0 9 )$ 。此外，简单效应分析表明，在“为自己决策"条件下，2天课外活动/旅游时间 $( M _ { 2 } \ldots = 1 . 3 4 )$ 的评分与1天课外活动/旅游时间 $( M _ { 1 ^ { \star } }$ $= 1 . 1 6 )$ 的评分差异不显著 $( F = 1 . 6 8 , p = 0 . 2 0 )$ 。然而，在“为他人决策”条件下，1天课外活动/旅游时间的评分 $( M _ { ^ { \tt I } } = 1 . 1 8 )$ 显著高于2天课外活动/旅游时间 $( M _ { 2 } \varepsilon = 0 . 6 7 )$ 的评分 $( F = 9 . 8 6 \$ ，$p = 0 . 0 0 4 )$ 。操作检查的结果为研究假设2提供了部分支持证据。虽然，“为自己决定"的被试认为LL选项的收益大于SS选项的假设没有得到证实，但是被试明显偏爱LL而不是SS。具体而言，为自己做决策的被试认为LL选项的收益大于 SS的假设没有得到确认，但被试明显倾向于LL 而不是SS。我们推测，对LL 的偏好是由情感驱动的；课外活动/旅游的图像越生动，回忆它们的细节越多，情感反应就越大(Miller etal.,1987)。总之，由于为他人决策的被试认为SS选项的获益大于LL选项的获益，所以我们的发现支持假设2。
+
+# 4 实验3
+
+为什么为他人决策的被试认为 SS 选项的收益大于LL？我们推测，在时间跨期选择中，他们能识别时间的机会成本。接下来的实验，我们试图证明假设3和4。
+
+在这个实验中，我们还想探索有效地利用时间的方法，并使用类似的助推干预来研究决策角色（为他人做决策）的影响，以缩短现实的课堂时间。
+
+# 4.1被试
+
+共有山东师范大学汉语专业 206 名本科生在课堂环境中参加了本研究(178名女性， $M _ { ☉ }$ $_ { \mathrm { \scriptsize : \infty } } = 2 0 . 3 4$ ， $S D _ {  \ast } { = } 0 . 7 6$ )。所有被试都征得口头知情同意，并获得课堂上短暂的休息时间作为奖励。
+
+# 4.2材料和程序
+
+本实验采用两步 $2 { \times } 2$ 被试间设计（表2）。第一步使用假设场景，第二步使用真实场景。第一步的材料与实验2中的材料相似。同一天内，招募有90分钟心理学课程的两个班参加这个实验。第一个班的被试（110名学生）接受为自己决策的实验条件，第二班（96名学生）接受为他人决策的实验条件。每个条件包括两个场景。对场景顺序进行平衡。然后，被试在从1(肯定选择 A)到 7(肯定选择 B)的七点量表上圈出一个数字来表明他们的选择。随后，要求被试对"学习/训练或者课外活动/旅游"的重要性进行九级评价（1表示学习/训练更重要，9表示参加课外活动/旅游更重要）。
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects ofSelf-Other Decision-Making on Time-Based Intertemporal Choice. Journal of Behavioral Decision Making.DOI: 10.10o2/bdm.2248
+
+在第二步中，我们告诉被试，他们将得到短暂的空闲时间作为参与实验的奖励（本文作者担任被试的心理学老师）。有两种选择，他们更喜欢哪一个。
+
+A:这节课获得15分钟的休息时间。
+
+B:一周后的下次课获得30分钟的休息时间。
+
+表2.实验3研究设计  
+
+<html><body><table><tr><td>实验条件</td><td>条件1</td><td>条件2</td></tr><tr><td>第一步：假设情境</td><td>为他人决策</td><td>为他人决策</td></tr><tr><td>第二步：真实情境</td><td>为自己决策</td><td></td></tr><tr><td></td><td></td><td>为自己决策</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>
+
+# 4.3结果和讨论
+
+![](images/acbe15ca4f3c97158975ea5f1d20dbd0b83e1ac3c8c37d49c131ba9b8b53adfe.jpg)  
+图4.不同条件（为自己决策vs.为他人决策）和场景（学习vs.培训）下的平均选择偏好（1指学习/训练更重要，9是活动/旅行更重要）的对比。低分说明学习/训练比课外活动/旅游更重要；高分说明课外活动/旅游比学习/训练更重要；5分代表没有偏好。
+
+图4呈现了不同条件（为自己决策vs.为他人决策）和场景（学习vs.培训）下的平均选择偏好（1指学习/训练更重要，9是活动/旅行更重要）。方差分析的结果表明条件的主效应显著。具体来说，为自己决策条件下被试的偏好得分显著高于为他人决策条件下（ ${ \bf \nabla } ^ { \prime } F _ { \bf \cdot }$ [1,$2 0 4 ] = 1 0 . 8 7 , p = 0 . 0 0 1 , \eta ^ { 2 } = 0 . 0 5 )$ 。在"为他人决策"条件下，被试认为参与学习/训练比课外活动/旅游更重要。但是，在"为自己决策"条件下，他们认为学习/训练与课外活动/旅游没Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Efects ofSelf-Other Decision-Makingon Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+有显著差异，这表明在“为自己决策"条件下，学习/训练的重要性显著降低了。这个结果为假设3提供了部分支持性证据。
+
+被试在学习场景下对选项的偏好与训练场景是类似的 $( F \left[ 1 , 2 0 4 \right] = 0 . 1 8$ $p = 0 . 0 7$ ， $\boldsymbol { \eta } 2 =$ 0.00)。此外，我们未发现显著的交互作用 $( F \left[ 1 , 2 0 4 \right] = 0 . 0 2 , p = 0 . 8 9 , \eta 2 = 0 . 0 0 )$ 。因此自我-他人决策效应在两个相似场景下无差异。这一结果为时间跨期选择中的自我-他人决策效应的普遍性提供了进一步证据。
+
+表3.实验3不同条件的偏好结果  
+
+<html><body><table><tr><td rowspan="2">条件</td><td colspan="2">偏好</td></tr><tr><td>SS选项</td><td>LL选项</td></tr><tr><td>自-自条件：先为自己决策，再为自己决策(N=110)</td><td>26</td><td>84</td></tr><tr><td>他-自条件：先为他人决策，再为自己决策(N=96)</td><td>36</td><td>60</td></tr></table></body></html>
+
+结果（表3）显示自-自条件下的被试（先给自己做决策，再给自己做决策），110 名被试中26名被试选择 SS选项。他-自条件下的被试（先给他人做决策，再给自己做决策），96名被试中36名选择 SS 选项。一个2（自-自条件vs.他-自条件） $\times 2$ （选择偏好）卡方检验揭示了条件和偏好间的显著相关， $\chi ^ { 2 } ( 1 , N = 2 0 6 ) = 4 . 6 8$ 5 $p = 0 . 0 3$ , phi squared $= 0 . 0 3$ 。这些结果表明，在自-自条件下，被试更倾向于选择LL 选项，但在他-自条件下这种倾向显著降低，被试对LL的偏好由 $76 . 3 6 \%$ 降为 $6 2 . 5 0 \%$ 。因此，在他-自条件下的被试比在自-自条件下的被试更倾向于SS。这些结果支持了假设4。因此，我们的研究结果为经济理性和建构水平理论提供了支持，而社会价值理论没有得到支持。
+
+# 5综合讨论
+
+我们进行了一系列的实验研究揭示时间跨期选择中的自我—他人决策差异。与金钱跨期选择中的自我—他人决策差异相比，我们的实验结果显示，在时间跨期选择中，被试为他人选择时可能更喜欢SS选项，并认为SS选项的获益明显大于LL选项。为自己决策的被试很可能更喜欢LL选项，而不是SS选项。然而，他们认为LL选项和SS选项的收益没有显著差异。我们将这种现象称为时间跨期选择中的自我—他人决策效应。这种效应在本研究中的所有实验中都是高度一致的。据我们所知，本研究是第一次报告这种跨期选择的新现象。
+
+我们的结果表明，时间跨期选择中的自我—他人决策效应不能用"内脏因素”、被试的慷慨和适用于金钱跨期选择中的自我—他人决策差异的社会价值理论来解释。因为，跨期选择中时间的机会成本和金钱是不同的。对于金钱来说，一种选择的机会成本是替代选择。对于时间，一个选择的机会成本是替代选择和机会的时间成本。在"内脏因素"的影响下，人们在为自己做决定时通常表现出冲动行为(选择 SS)。此外，为他人决定的人通常低估甚至忽视他人所经历的内脏因素，因此通常表现出更多的耐心(选择LL)。这一观点与时间跨期选择中的自我—他人决策效应恰恰相反。然而，时间跨期选择中的自我—他人决策效应可以用经济理性和建构水平理论来解释。实验2表明，不管他们是为自己还是为他人决策，Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Efects ofSelf-Other Decision-Makingon Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+被试总是选择获益最大的选项。这一结果排除了“慷慨”这一可能解释。具体来说，为他人做决策被试认为 SS选项的获益显著大于LL选项，从而选择SS。为自己做决策的被试认为LL和 SS 选项的获益没有显著差异，从而选择LL(图3)。因此，LL选项在两种条件下的效用有显著差异。我们推测，在“为他人决策”条件下，社会距离增加，被试对事件形成高层次的建构，并能识别时间的机会成本（在经济理性的第三层）。这表明被试可以识别每个选项的机会成本，当他们发现LL选项的机会成本高于SS选项时，他们选择 SS选项。
+
+实验3的结果表明，在“为他人做决策"的条件下，被试认为参与学习/训练比课外活动/旅游更重要。然而，在“为自己决策"的条件下，这种重要性显著下降；也就是说，被试认为参加学习/训练和课外活动/旅游的重要性没有显著差异 (图4)。这一结果支持了经济理性和解释水平理论，排除了社会价值理论。为他人做决定的被试对事件形成高级别的建构，并能识别时间的机会成本。因此，“为他人决策"的条件可能会增加人们对每一种选择的机会成本的关注。因此人们更倾向于选择机会成本较低的替代方案（即，一天课外活动/旅游时间的机会成本低于两天课外活动/旅游时间）而不是另一种(图 4)。结合其他研究(Kray,2000; Jonas et al.,2005; Polman,2010; Polman & Emich,2011;Liu,Polman, Liu,& Jiao,2018),本研究表明，为他人做选择的人 (即代理决策者）比为自己做选择的人 (即个人决策者)会调查和寻求更多的信息（替代方案、属性和机会成本）。抵制冲动和短视倾向以增加目标导向性往往需要自我控制(Baumeister,2002; Houben&Jansen,2011; Tsukayama,Duckworth&Kim,2012)。本研究所报告的时间跨期选择中的自我—他人决策效应，可以简单地通过对问题重新措辞，来帮助个人做出最佳的长期选择，而不需要增加控制。
+
+我们的研究有三个局限性。首先，这两个场景（学习和训练）是被试内设计。两种情景之间的相似性非常明显，需求特征如此之高，以至于被试极有可能在第二种情景中对第一种情景反应进行呼应。被试间的设计可能会抵消这种效果，而且可能更合适。关注花在其他事情上的时间场景，如教育孩子，体育锻炼，为未来赚钱，或进行其他生产性活动，将是有趣和有益的细化研究。
+
+第二，主观时间知觉在时间跨期选择中起着重要的作用，但在本研究中没有提到这一点。研究表明，时间感知是客观时间的凹函数，可以在产生时间贴现行为中发挥关键作用(Han & Takahashi， 2012；Takahashi, Oono,& Radford,2008； Zauberman，Kim，Malkoc，&Bettman,2009)。其他研究表明，对未来时间的感知取决于结果的性质，比如其量级。未来时间被认为在损失领域比收益领域更短 (Bilgin&Leboeuf,2010)，在更大的奖励量级更短(Wang,Wang,&Keller,2015)，以及结果可能与更强烈的情绪相关时更短(van Boven,Kane,McGraW,&Dale,2010)。在未来，我们将测试主观时间感知对时间跨期选择中自我—他人决策效应的影响。
+
+第三，谨慎对待此效应的存在，因为主试强调了学习和训练的情况。如果不强调学习和训练的情况，被试就会把课外活动和旅游看作是快乐、娱乐和放松，而不是“浪费时间”。在这个论点中，不纯粹的场景可能会激活学习和训练更受赞赏的社会价值。因此，值得进一步研究的是，这项研究的结果是否因对情景的强调而不同，甚至是在送礼场景中出现不同结果(Lu，Liu，& Fang，2016)。
+
+# References
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects ofSelf-Other Decision-Making on Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+Albrecht, K., Volz, K. G., Sutter,M., Laibson, D. 1.,& Von Cramon,D.Y. (2011). What is for m e is not for you: brain correlates of intertemporal choice for self and other. Social Cognitive a nd Affective Neuroscience, 6(2),218-225. htps://doi.org/10.1093/scan/nsq046   
+Baumeister, R.F. (2oo2). Yielding to temptation: self - control failure, impulsive purchasing, and consumer behavior. Journal of Consumer Research,28(4), 670-676. htps://doi.org/10.1086/3 38209   
+Becker, G. S.(1965). A Theory of the Allocation of Time. The Economic Journal, 75(299), 493-5 17. https://doi.0rg/10.2307/2228949   
+Bilgin,B., & Leboeuf, R. A. (2010). Looming losses in future time perception. Journal of Marketi ng Research, 47, 520-530. http://dx.doi.org/10.1509/jmkr.47.3.520   
+Bruch,H.,& Ghoshal, S. (2002). Beware the busy manager. Harvard Business Review, 80(2), 62- 69. https://doi.0rg/10.1016/S0957-4174(01)00053-7   
+Chen, H., & He, G. (2014). The effect of psychological distance on intertemporal choice and risky choice. Acta Psychologica Sinica, 46(5), 677-690. https://doi.org/10.3724/sp.j.1041.2014.00 677   
+Fareri,D. S., Niznikiewicz,M. A., Lee, V. K., & Delgado, M. R. (2012). Social network modulati on of reward-related signals. The Journal of Neuroscience, 32(26), 9045-9052. https:/doi.or g/10.1523/jneurosci.0610-12.2012   
+Frederick S,Loewenstein G, O'Donoghue T (2002). Time discounting and time prefe-rence: A cri tical review.Journal of Economic Literature, 40: 351-401. htps://doi.org/10.2307/j.ctvcm4j 8j.11   
+Goeree, J. K., McConnell, M. A., Mitchell, T., Tromp,T.,& Yariv,L. (2010). The 1/d law of givi ng. American Economic Journal: Microeconomics, 2(1),183-203. https://doi.org/10.1257/mi c.2.1.183   
+Grant, R. M. (1991). The resource-based theory of competitive advantage: implications for strateg y formulation. California Management Review, 33(3),114-135. https://doi.0rg/10.2307/4116 6664.   
+Grant, R. M. (1996). Toward a knowledge-based theory of the firm. Strategic management Journa l, 17(2),109-122. https://doi.0rg/10.1002/smj. 4250171110   
+Han, R.,& Takahashi, T. (2012). Psychophysics of time perception and valuation intemporal disc ounting of gain and loss. Physica A, 391, 6568-6576. http://dx.doi.org/10.1016/j.physa.2012. 07.012   
+Harrison,F., Sciberras,J.,& James,R. (2011). Strength of social tie predicts cooperative investme nt in a human social network. PLoS ONE, 6(3), e18338. htps://doi.org/10.1371/journal.pone. 0018338
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects of Self-Other Decision-Making on Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+Hoffman, E., McCabe, K., & Smith, V.L.(1996). Social distance and other-regarding behavior in dictator games. The American Economic Review, 86(3), 653-660. https://doi.org/10.1017/cbo 9780511528347.009   
+Houben, K.,& Jansen, A. (2011). Training inhibitory control. a recipe for resistingsweet tempta tions. Appetite, 56(2), 0-349. htps://doi.0rg/10.1016/j.appet.2010.12.017   
+Jiang, C. M., Hu, F. P.,& Zhu, L.F. (2014). Introducing upfront losses as wellas gains decreases impatience in intertemporal choices with rewards. Judgment & Decision Making, 9(4), 297-3 02. https://doi.0rg/10.3389/fpsyg.2016.01256   
+Jonas,E., Schulz-Hardt, S.,& Frey, D. (20o5). Giving advice or making decisions in someone -el se's place: The influence of impresson, defense, and accuracy motivation on the search for n ew information. Personality and Social Psychology Bulletin,31(7),977-990. htts://doi.org/ 10.1177/0146167204274095   
+Kahneman, D.,& Tversky,A. (1979). Prospect Theory: An analysis of decision under risk. Econo metrica, 47(2), 263-292. https://doi.0rg/10.2307/1914185   
+Kourilsky,M.,& Murray, T.(1981). The use of economic reasoning to increase satisfaction with f amily decision making. Journal of Consumer Research, 8,183-88. https://doi.org/10.1086/20 8854   
+Kray,L. J. (2ooo). Contingent weighting in self-other decision making. Organizational Behavior and Human Decision Processes, 83(1), 82-106. https://doi.0rg/10.1006/obhd.2000.2903   
+Lado,A., & Wilson, M. (1994). Human resource systems sustained competitive advantage: a com petency-based perspective. Academy ofManagement Review,19 (4), 699-727. https://doi.org /10.2307/258742.   
+Laney. (1988). The impact of perceived familiarity and perceived importance on economic reasoni ng in time-allocation decisions. Journal of Economic Education, 19(3),209-216. https://doi.o rg/10.2307/1181943   
+Liberman,N., & Trope,Y. (1998). The role of feasibility and desirability considerations in near an d distant future decisions: A test of temporal construal theory. Journal of Personality and Soc ial Psychology, 75(1),5-18. htps:/doi.org/10.1037/0022-3514.75.1.5   
+Liu,Y.,Polman,E.,Liu, Y.,& Jiao,J.(2018). Choosing for others and its relation to information search. Organizational Behavior & Human Decision Processes, 147, 65-75. https://doi.org/1 0.1016/j.obhdp.2018.05.005   
+Loewenstein, G. (1996). Out of control: visceral influences on behavior. Organizational Behavior & Human Decision Processes, 65(3),272-292. https://doi.org/10.2307/j.ctvcm4j8j.31   
+Lu, J., Xie, X.,& Xu, J. (2012). Desirability or feasibility: self-other decision-making difference s. Personality and Social Psychology Bulletin, 39(2),144-155.https://doi.org/10.1177/01461 67212470146
+
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021).Effects of Self-Other Decision-Making on Time-Based Intertemporal Choice.Journal of Behavioral Decision Making.DOI:10.10o2/bdm.2248
+
+Lu, J. Y.,Liu, Z. Y.,Fang, Z. (2016). Hedonic products for you, utilitarian products for me. Judg ment & Decision Making. 2016, 11(4), 332-341. http://journal.sjdm.0rg/16/16428a/jdm16428 a.pdf
+
+Millr, G. A., Levin, D. N., Kozak, M. J., Cook II,E. W., McLean, Jr, A., & Lang,P. J. (1987). I ndividual differences in imagery and the psychophysiology of emotion. Cognition and Emoti on, 1(4), 367-390. https:/sci-hub.tw/10.1080/02699938708408058   
+Mogilner, C. (2010). The pursuit of happiness: Time, money,and social connection. Psychologic al Science, 21(9), 1348 -1354. https://doi.0rg/10.1037/e620972012-212   
+Moore, W. E. 1963. Man, Time, and Society. New York: Wiley.   
+Okada,E. M., & Hoch, S. J. (2004). Spending time versus spending money. Journal of Consumer Research,31(2), 313-323. https://doi.0rg/10.1086/422110   
+Olivola, C. Y.,& Wang S. W. (2016). Patience auctions: The impact of time vs. Money bidding o n elicited discount rates. Experimental Economics, 19, 864-885. https://doi.org/10.2139/ssrn. 1724851   
+Polman, E. (2010). Information distortion in self-other decision making. Journal of Experimental Social Psychology, 46(2), 432-435. htps://doi.0rg/10.1037/e528002014-063   
+Polman,E.,& Emich,K.J. (2Ol1). Decisions for others are more creative than decisions for the se lf.Personality and Social Psychology Bulletin,37(4), 492-501. htps://doi.org/10.1037/e5280 02014-063   
+Prahalad, C. K., & Hamel, G. (200o). The core competence of the corporation. Strategic Learning in a Knowledge Economy, (3), 3-22. https://doi.0rg/10.1007/978-3-642-14249-9_1212   
+Pronin, E., Olivola, C. Y., & Kennedy, K. A. (2oo8). Doing unto future selves as you would do un to others: Psychological distance and decision making. Personality and Social Psychology Bu lletin, 34(2), 224-236. https://doi.0rg/10.1177/0146167207310023   
+Read,D.,Frederick, S.,& Rahman, O. J. (2oo5). Four score and seven years from now: the date/d elay effect in temporal discounting. Management Science, 51(9), 1326-1335. htps://doi.org/1 0.1287/mnsc.1050.0412   
+Read, D., Frederick, S.,& Scholten, M. (2013). DRIFT: an analysis of outcome framing in interte mporal choice.Journal of Experimental Psychology Learning Memory and Cognition, 39(2), 573-588. https://doi.org/10.1037/a0029177   
+Read,D., Olivola,C. Y., & Hardisty, D.J. (2017). The value of nothing: Asymmetric attention to o pportunity costs drives intertemporal decision making. Management Science, 63(12), 4277-4 297. https://doi.org/10.1287/mnsc.2016.2547   
+Reed II, A., Kay, A., Finnel, S., Aquino, K., & Levy, E. (2015). I don't want the money,I just wan t our time: how moral identity overcomes the aversion to giving time to prosocial causes. Jou rnal of Personality and Social Psychology, 110(3), 435-457. https://doi.org/10.1037/pspp000 0058   
+Cite this article; Zhao,C. X.,Shen,S.C.,Li,Y.,Liu, X.,&Li,S. (2021). Effectsof Self-Other Decision-Making   
+on Time-Based Intertemporal Choice. Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+Sanfey,A. G. (2oo7). Social decision-making: Insights from game theory and neuroscience. Scien ce,318,598-602. http://doi.org/cdk69p
+
+Stone,E. R.,& Allgaier,L.(2oo8). A social values analysis of self-other differences in decision m aking involving risk. Basic and Applied Social Psychology,30,114-129. https://doi.org/10.1 080/01973530802208832   
+Sun, Q., Wang, P., Liu, H.,& Liu, Y. (2O17). Discrepancies in risk preference in other-regarding d ecision making. Social Behavior and Personality: an international journal, 45(2),235-242. h ttps://doi.org/info:doi/10.2224/sbp.5726   
+Takahashi, T., Oono, H.,& Radford, M. H. B.(20o8). Psychophysics of time perception and inter temporal choice models. Physica A, 387(8-9),2066-2074. htp:/dx.doi.org/10.1016/j.physa. 2007.11.047   
+Teece,D. J.,& Shuen, P. A. (1997). Dynamic capabilities and strategic management. Strategic M anagement Journal, 18(7), 509-533. https://doi.0rg/10.1002/(SIC1)1097-0266(199708)18:7< 509::AID-SMJ882>3.0.CO;2-Z   
+Todorov, A., Goren, A., & Trope, Y. (20o7). Probability as a psychological distance: Construal an d preferences. Journal of Experimental Social Psychology, 43( 3), 473-482. https://doi.org/1 0.1016/j.jesp.2006.04.002   
+Trope,Y.,&Liberman,N. (2010). Construal-level theory of psychological distance. Psychologica l Review, 117(2), 440-463. https://doi.0rg/10.1037/a0018963   
+Tsukayama, E., Duckworth, A.L., & Kim, B. (2012). Resisting everything except temptation: evi dence and an explanation for domain-specific impulsivity. European Journal of Personality, 26(3),318-334. https://doi.rg/10.1002/per.841   
+Van Boven, L., Kane, J., McGraw, A. P.,& Dale, J. (2010). Feeling close: Emotional intensity red uces perceived psychological distance. Journal of Personality and Social Psychology, 98, 87 2-885. http://dx.doi.0org/10.1037/0019262   
+Wang,Y., Wang,L., & Keler,L.R. (2015). Discounting over subjective time: Subjective time pe rception helps explain multiple discounted utility anomalies. International Journal of Resear ch in Marketing, 32, 445-448. http://dx.doi.org/10.1016/j.ijresmar.2015.08.006   
+Zauberman, G., Kim, B. K., Malkoc, S. A., & Bettman, J. R. (2009). Discounting time and time di scounting: Subjective time perception and intertemporal preferences. Journal of Marketing R esearch, 46, 543-556. http://dx.doi.0rg/10.1509/jmkr.46.4.543.   
+Zhao, C. X., Jiang, C. M., Zhou,L., Li, S., Rao,L. L., & Zheng, R. (2015). The hidden opportunit y cost of time effect on intertemporal choice. Frontiers in Psychology, 6,1-7. https://doi.org/ 10.3389/fpsyg.2015.00311   
+Zhao, C. X., Shen, S.C., Rao,L.L., Zheng, R.,Liu,H.,& Li, S. (2018). Suffering a loss is good f ortune: Myth or reality?. Journal of behavioral Decision Making, 31 (3), 324-340. https://doi. 0rg/10.1002/bdm.2056   
+Cite this article; Zhao,C.X.,Shen,S.C.,Li,Y.,Liu,X.,&Li,S. (2021). Effectsof Self-Other Decision-Making   
+on Time-Based Intertemporal Choice. Journal of Behavioral Decision Making.DOI: 10.1002/bdm.2248
+
+Zheng,Y., Shen, S. C.,Xu,M. X., Rao,L.L.,& Li, S. (2019). Worth-based choice: giving an offe red smaller pear an even greater fictional value. Journal of Pacific Rim Psychology， 13 , e10. https://doi.org/10.1017/prp.2019.4

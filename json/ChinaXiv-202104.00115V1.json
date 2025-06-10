@@ -1,0 +1,421 @@
+[
+    {
+        "type": "text",
+        "text": "环青海湖地区表层土壤重金属富集含量及其生态风险评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王若锦，邵天杰，卫佩茹（陕西师范大学地理科学与旅游学院，陕西西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为评估环青海湖地区表层土壤中重金属富集含量与生态风险状况,按网格法采集87组土壤样品,采用电感耦合等离子体原子发射光谱法(Inductively Coupled Plasma-Atomic Emision Spectrometry,ICP-AES)测定土壤重金属 $\\mathrm { C d } , \\mathrm { C r } , \\mathrm { P b } \\ldots \\mathrm { C u } , \\mathrm { Z n }$ 和Ni,并利用内梅罗综合污染指数法、污染负荷指数法、相关性分析和因子分析等方法，探析了研究区土壤重金属含量、污染程度、生态风险及污染来源。结果表明：环青海湖地区表层土壤中重金属Cd、Pb污染在所研究的元素中最为严重， $\\mathrm { C r } \\phantom { \\cdot } \\mathrm { A s } \\phantom { \\cdot } \\mathrm { C u } \\phantom { \\cdot } \\mathrm { Z n }$ 和Ni次之，且草地的表层土壤重金属污染情况相比农田和沙地较严重。从污染负荷指数法来看,研究区土壤重金属整体上未达到污染水平,但部分采样点污染严重。内梅罗综合指数法分析显示,研究区整体上为重度污染，且单项污染指数存在不同程度超标,其污染程度依次为 $\\mathrm { C d { > } P b { > } A s { > } }$ $\\mathrm { C u { > } Z n { > } N i { > } C r _ { \\odot } }$ 。潜在生态风险指数法表明,整个研究区的综合潜在生态风险为中等程度，其中Cd、As的贡献率接近$8 0 \\%$ ,部分区域潜在生态风险较高。相关性和因子分析可以发现， $\\mathrm { G r } \\ 、 \\mathrm { P b } \\ 、 \\mathrm { A s } \\ 、 \\mathrm { C u } \\ 、 \\mathrm { Z n }$ 和Ni之间的相关性显著,污染程度基本一致,很可能具有同源性。综上可知,环青海湖地区已出现土壤重金属污染,且存在潜在生态风险,需要采取适当的监测和相应治理措施。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤重金属；污染来源；生态风险评价；青海湖",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着经济的快速发展，科技不断进步，人们生活水平的不断提高，环境问题得到越来越多的关注和重视。土壤是人类环境的重要组成部分，在为人类提供食物生产资料和生活空间的同时，也在持续接受人类排放的各类污染物质。重金属作为土壤中最主要的持久性有毒污染物，具有难降解、“三致\"等特性，并不断在土壤中累积，已然成为对生态系统和人类构成潜在风险的全球性问题2-4]。土壤重金属通过废水灌溉、废渣堆肥、农药制剂、工业生产、大气粉尘干湿沉降等途径不断富集5-。随着工业不断发展，我国在20世纪80、90年代开始关注土壤重金属污染，有针对污染物的积累和变化,尤其重视火力发电厂[8、矿区(煤矿、金属矿等)9-10、工业冶炼厂以及部分农业污灌区[2-13]等重点区域的污染特征、风险评价和治理修复研究。从2000年以来，土壤重金属污染加剧，而2010年以来，关于农业区耕地[14-15]、牧草地[1]、交通道路沿线[17-18]、城市街道沉积物[19-20]、盆地[21-22]等类型的土壤重金属污染研究进入到一个新的高峰时期[23]。目前国内对湖泊重金属的研究主要在沿海、园区湖泊、城市重要景观的水质、沉积物等，还包括对湖泊及其沉积物中重金属进行特征形态研究、生态评估、风险评价等[24-27]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "青海湖既是中国最大的内陆咸水湖，也是著名旅游胜地。青海湖周边是青藏高原东北部重要的畜牧区，也是国家级重点生态保护区，流域生态环境较为脆弱[28]。该地土壤养分和土壤水资源是许多地理学者研究的重点[29-30]。关于青海湖地区土壤重金属方面的研究，已有许多重要的成果和认识。如田郁溟等3认为青海湖环湖地区土壤生态环境特征虽然由于人类活动遭到了一定的影响，但土壤重金属的增加是区域土壤重金属背景值增高的表现;芦宝良等[32分析了青海湖典型湿地(黑马河湿地)土壤重金属的空间分布特征；常华进等[33评估了沙柳河下游沉积物中重金属的污染程度和特征，并评价其生态风险程度。这些研究中主要是关注对湖泊水体的重金属以及沉积物的相关评价，且限于青海湖的某一小区域或特定地貌类型，亟待开展针对整个青海湖周边地区土壤重金属污染的系统研究。鉴于此，本文将环青海湖地区整体作为研究对象，深入探讨了该区域表层土壤中重金属的污染分布特征、潜在生态风险及其源解析等问题，以期为保护青海湖地区的生态环境和人体健康，提供理论支撑和实际参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于青藏高原东北部的环青海湖地区，即G109公路、G315公路、环湖东路和环湖西路以内的区域，处于我国东部季风区、西北干旱区和西南高寒区的交汇地带，是典型的高原半干旱高寒气候[34]，平均海拔 $3 0 0 0 \\mathrm { m }$ 以上,地势自西向东倾斜,呈西北高东南低趋势，兼具了青藏高原、黄土高原两种地形地貌，汇聚了大陆性季风气候和高原气候两种气候形态。气温低、昼夜温差大、降雨少而集中、日照长、太阳辐射强，年平均气温 $- 4 . 6 { \\sim } 4 . 0 \\mathrm { ~ } \\mathrm { ^ { \\circ } C }$ 年平均降水量介于 $2 9 1 . 0 { \\sim } 5 7 9 . 0 ~ \\mathrm { m m }$ ,多集中于6—9月[35]。近来随着气候变化和人类活动的影响，青海湖周边地区土地发生草地退化、沙漠化等生态问题[36]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重金属元素在土壤中的垂直迁移分布主要受金属元素的化学性质及土壤本身的理化性质的影响。青海湖地区的土壤类型包括山地草甸土、山地灌丛草甸土、黑钙土、栗钙土、沼泽土、风沙土等[38]。研究区土地对于草地、沙地、农耕用地等还尚未有成熟的技术使得其更好的发展，包括周边的水煤矿、畜牧业加工等企业，旅游业等发展或多或少都由于环境的破坏，导致其发展受到了一定限制。多方面的因素的不定性，都造成了土壤中重金属分布的不同，同时对其迁移转化有一定的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集与测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将研究区进行网格划分，每个网格布设一个采样点，采样密度为 $5 \\mathrm { k m }$ 。在采样时通过实地调查，对因河流、建筑、桥梁等部分采样点适当调整位置。采样点位置分布和布设样点的网格框如图1所示，采样时间为2019年5月下旬，采用五点法共采集87组土壤混合样品( $( 0 { \\sim } 2 0 ~ \\mathrm { c m } )$ 。包括草地79处、农田4处(编号54、59、60和82)和沙地4处(编号5、6、29和30)，采样点的海拔最高值为 $3 2 3 7 \\mathrm { m }$ ，最低为",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a5d18e2bce463ffe7557ce9d3d1933966e9ecf899e89fd03943f44a70e5a0fe.jpg",
+        "img_caption": [
+            "图1环青海湖地区表层土壤采样点位置示意图",
+            "Fig.1Location of surface soil sampling points around Qinghai Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$3 1 4 0 \\mathrm { ~ m ~ }$ 。将样品风干、破碎，过 $0 . 1 5 ~ \\mathrm { m m } ( 1 0 0 \\$ 目）尼龙筛。称取 $0 . 5 \\mathrm { \\ g }$ 样品进行微波消解，加入硝酸、盐酸、氢氟酸，使得样品和消解液充分混匀。经消解处理后，定容至 $2 5 ~ \\mathrm { m L }$ ,混匀、静置 $6 0 ~ \\mathrm { m i n }$ ,取上清液采用电感耦合等离子体原子发射光谱法(Inductive-ly Coupled Plasma-Atomic Emission Spectrometry,ICP-AES)，遵循环境保护部颁布的《土壤和沉积物金属元素总量的消解微波消解法(HJ832-2017)》，测定土壤重金属含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3质量控制与数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为保证试验数据的可靠程度和准确性，测定时每次消解16个中加入2个空白样，同时取样品的$1 0 \\%$ 做重复试验对分析结果的质量进行控制，结果所测的偏差符合质量控制的要求[40-41]。采用Excel2016和SPSS20.0软件对土壤重金属含量的数据进行描述性统计与分析，并用Origin2019b软件对分析结果进行绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤重金属含量特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环青海湖地区表层土壤重金属含量和统计分析结果显示，土壤中重金属 $\\mathrm { C d } , \\mathrm { C r } , \\mathrm { P b } , \\mathrm { A s } , \\mathrm { C u } , \\mathrm { Z n }$ 和Ni的平均含量为 $0 . 6 2 \\ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 } \\cdot 4 1 . 3 5 \\ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 } \\cdot 2 1 . 8 6$ $\\mathbf { m } _ { \\mathbf { g } } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\cdot 1 1 . 7 3 \\ \\mathbf { m } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\cdot 1 9 . 3 3 \\ \\mathbf { m } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\cdot 6 3 . 5 1 \\ \\mathbf { m } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\cdot \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } ^ { - 1 } \\mathbf { m } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\mathbf { s } \\qquad \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\qquad \\mathbf { m } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\mathbf { m } \\mathbf { g } \\bullet \\mathbf { k } \\mathbf { g } \\mathbf { g } \\mathbf { k } \\mathbf { g } \\mathbf { m } \\mathbf { g } \\mathbf  k \\mathbf { g } \\mathbf { k } \\mathbf { g } \\mathbf { k } \\mathbf \\mathbf { g } \\mathbf { k } \\mathbf  g \\mathbf { k } \\mathbf { g } \\mathbf \\mathbf { k } \\mathbf  g \\mathbf { k } \\mathbf \\mathbf { k } \\mathbf { g } \\mathbf \\mathbf { k } \\mathbf \\mathbf  \\mathbf { k } \\mathbf \\mathbf { k } \\mathbf \\mathbf  \\mathbf \\mathbf { k } \\mathbf \\mathbf { k } \\mathbf \\mathbf  \\mathbf \\mathbf { k } \\mathbf \\mathbf { k } \\mathbf \\mathbf \\mathbf { k } \\mathbf \\mathbf \\mathbf  \\mathbf \\mathbf { k } \\mathbf \\mathbf \\mathbf \\mathbf { k } \\mathbf \\mathbf \\mathbf { \\mathbf \\mathbf } \\mathbf \\mathbf \\mathbf  k \\mathbf \\mathbf { k } \\mathbf \\mathbf \\mathbf \\mathbf \\mathbf { } \\mathbf \\mathbf \\mathbf \\mathbf \\mathbf \\mathbf { k \\mathbf } \\mathbf \\mathbf \\mathbf \\mathbf \\mathbf  \\mathbf \\mathbf \\mathbf { k } \\mathbf$ 和 $2 1 . 1 8 ~ \\mathrm { { m g } \\cdot \\mathrm { { k g } ^ { - 1 } } }$ ,变化范围依次为 $0 . 0 5 { \\sim } 5 . 5 7 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ 、$1 1 . 5 0 \\mathrm { { \\sim } 6 0 . 9 3 ~ m g { \\cdot } k g ^ { - 1 } , 7 . 4 6 \\mathrm { { \\sim } 3 5 . 0 9 ~ m g { \\cdot } k g ^ { - 1 } , 0 . 9 6 \\mathrm { { \\sim } 1 8 . 5 2 ~ } } }$ ， $\\mathrm { n g ^ { \\bullet } k g ^ { - 1 } , 2 . 0 6 { \\sim } 7 4 . 3 8 ~ m g ^ { \\bullet } k g ^ { - 1 } , 1 7 . 3 0 { \\sim } 9 8 . 6 2 ~ m g ^ { \\bullet } k g ^ { - 1 } }$ 和$6 . 2 3 { \\sim } 3 1 . 6 2 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ (表1)。从整体看，土壤重金属Cd、Pb和As的含量均值超出了青海湖土壤重金属背景值( $ { \\mathrm { { C d } } } ,  { \\mathrm { { P b } } }$ 和As 背景值分别为 $0 . 1 4 ~ \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ 、$2 0 . 4 7 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ 和 $1 1 . 6 6 \\mathrm { \\ m g \\cdot k g ^ { - 1 } } ) ^ { [ 4 2 ] }$ ,其余重金属未超过背景值。从单一重金属元素看，Cd超出背景值的样点最多，约占 $8 4 \\%$ ，仅14个样点未超背景值；其中,7个样点含量在 $5 \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ 以上,约为土壤背景值的40倍，超出背景值较大。Pb次之，超出占比约为$5 9 . 8 \\%$ ,52个样点超出背景值的倍数均在1倍以内。而As、 $\\mathrm { { C u } , Z n , C r }$ 和Ni的超出背景值的样点数量分别为 $4 0 , 3 5 , 2 5 , 1 2$ 个和8个，但超出背景值的倍数基本均在0.5倍以内。此外，研究区土壤重金属的变异系数仅Cd较大，为2.29(表1)，表明研究区土壤中Cd受外界因素的干扰大于其他元素。综上可知,研究区土壤已出现重金属污染，且其中以Cd、Pb污染最为严重， $\\mathrm { C r } \\phantom { \\cdot } \\mathrm { A s } \\phantom { \\cdot } \\mathrm { C u } \\phantom { \\cdot } \\mathrm { Z n }$ 和Ni的污染次之，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环青海湖地区采样点按照功能区划分，对样点表层土壤重金属含量进行比较分析，其中包括79处草地、4处农田和4处沙地，具体结果见表2。从表2中可知：(1）草地中表层土壤重金属 $\\mathrm { C d \\Omega , C r \\Omega , P b \\Omega , A s \\Omega , }$ $\\mathrm { C u } , \\mathrm { Z n }$ 和Ni含量的均值均超过青海湖的土壤背景值；农田中表层土壤重金属 $\\mathrm { C d } , \\mathrm { A s } , \\mathrm { C u } , \\mathrm { Z n }$ 和Ni含量的均值超过青海湖的土壤背景值，而 $\\mathrm { { C r } , \\mathrm { { P b } } }$ 含量均未超过；沙地中表层土壤重金属只有Cd含量均值超过青海湖的土壤背景值，其余 $\\mathrm { C r } , \\mathrm { P b } , \\mathrm { A s } , \\mathrm { C u } , \\mathrm { Z n }$ 和Ni未超过。（2）表层土壤重金属Cd含量有草地中$8 4 . 8 \\%$ 的样点、沙地中 $5 0 \\%$ 的样点和全部农田样点均超过青海湖的土壤背景值;重金属 $\\mathrm { C r }$ 含量仅有草地中 $1 5 . 2 \\%$ 的样点超过背景值；重金属 $\\mathrm { P b }$ 含量有草地中 $6 3 . 3 \\%$ 的样点和沙地中 $5 0 \\%$ 的样点超过背景值；重金属As、 $\\mathrm { C u }$ 和 $Z _ { \\mathrm { { n } } }$ 含量有草地中 $6 0 \\%$ 左右的样点和全部农田样点超过背景值;重金属Ni有草地中$4 1 . 8 \\%$ 的样点和农田中 $7 5 \\%$ 的样点超过背景值。总结得出，研究区中草地的表层土壤重金属污染情况相比农田和沙地较严重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤重金属污染评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1污染负荷指数法污染负荷指数(PollutionLoadIndex，PLI)可以直观反映重金属元素对土壤造成污染贡献程度，并划分其污染标准[43-44]： $\\mathrm { P L I } { \\leqslant } 1$ （无污染）， $1 { \\ < } \\mathrm { P L I } { \\leqslant } 2$ （中度污染）， $2 { < } \\mathrm { P L I } { \\leqslant } 3$ （强污染），$\\mathrm { P L I } { > } 3$ （极强污染）。整个研究区的污染负荷指数$\\mathrm { P L I _ { z o n e } }$ 为0.89，即整体上研究区土壤重金属属于无污染(表3)。土壤重金属污染系数 $( C F )$ 均值表现为$\\mathrm { C d ( 4 . 6 8 ) { > } P b ( 1 . 0 7 ) { > } A s ( 0 . 9 0 ) { > } C u ( 0 . 8 7 ) { > } Z n ( 0 . 8 4 ) { > } }$ $\\mathrm { N i } ( 0 . 7 3 ) { > } \\mathrm { C r } ( 0 . 6 5 )$ 。其中Cd的 $C F$ 均值大于3,按其分级标准，属于重度污染； $\\mathrm { P b }$ 的 $C F$ 均值在1\\~2之间，属轻度污染，其余元素为无污染。就单个样点而言，研究区87个样点的土壤重金属污染负荷指数PLI的平均值为0.94，属于无污染，其变化范围在$0 . 2 4 \\mathrm { \\sim } 1 . 8 0$ ，污染程度为无污染到中度污染之间，这其中约有 $4 8 \\%$ 的样点PLI值在1\\~2之间，属于中度污染(图2a)。综上可知，环青海湖地区表层土壤重金属整体上虽未达到污染水平，但在部分样点土壤重金属的综合污染效应已经致使该样点的土壤出现了中度污染；土壤重金属元素的污染指数更是表明，Pb、Cd元素在整个区域已经处于轻度污染和重度污染水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/426963c559009aca38ae50ef278700977926d2ea348d5ee6e19e9ea0e1f956c6.jpg",
+        "table_caption": [
+            "表1环青海湖地区表层土壤重金属的描述性统计分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Tab.1Descriptive statistical analysis of heavy metals in surface soil in the area around Qinghai Lake</td><td>/(mg: kg1)</td></tr><tr><td>特征值</td><td>Cd</td><td>Cr</td><td>Pb</td><td>As</td><td>Cu</td><td>Zn</td><td>Ni</td></tr><tr><td>最小值</td><td>0.05</td><td>11.50</td><td>7.46</td><td>0.96</td><td>2.06</td><td>17.30</td><td>6.23</td></tr><tr><td>最大值</td><td>5.57</td><td>60.93</td><td>35.09</td><td>18.52</td><td>74.38</td><td>98.62</td><td>31.62</td></tr><tr><td>均值</td><td>0.62</td><td>41.35</td><td>21.86</td><td>11.73</td><td>19.33</td><td>63.51</td><td>21.18</td></tr><tr><td>变异系数Cu</td><td>2.29</td><td>0.32</td><td>0.30</td><td>0.32</td><td>0.46</td><td>0.31</td><td>0.33</td></tr><tr><td>青海湖土壤背景值[42]</td><td>0.14</td><td>54.17</td><td>20.47</td><td>11.66</td><td>19.72</td><td>64.28</td><td>24.96</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/267fd812995f76652ec03d282f87d3030702ff0c222c8a86b6390536eb7a0dfc.jpg",
+        "table_caption": [
+            "Tab.2 Comparative analysis of heavy metal contents in the surface soil of sampling sites around Qinghai Lake by function "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>采样点土地利用类型</td><td>特征值</td><td>Cd</td><td>Cr</td><td>Pb</td><td>As</td><td>Cu</td><td>Zn</td><td>Ni</td></tr><tr><td>草地</td><td>最小值</td><td>0.05</td><td>11.50</td><td>7.46</td><td>3.27</td><td>4.89</td><td>22.51</td><td>6.23</td></tr><tr><td></td><td>最大值</td><td>5.57</td><td>60.93</td><td>35.09</td><td>18.52</td><td>74.38</td><td>98.62</td><td>31.62</td></tr><tr><td></td><td>均值</td><td>0.66</td><td>41.76</td><td>22.35</td><td>11.88</td><td>19.55</td><td>64.47</td><td>21.42</td></tr><tr><td>农田</td><td>最小值</td><td>0.15</td><td>43.35</td><td>17.80</td><td>13.91</td><td>21.07</td><td>65.43</td><td>22.63</td></tr><tr><td></td><td>最大值</td><td>0.20</td><td>50.58</td><td>19.98</td><td>15.20</td><td>25.36</td><td>71.83</td><td>27.86</td></tr><tr><td></td><td>均值</td><td>0.18</td><td>48.30</td><td>18.90</td><td>14.56</td><td>23.73</td><td>68.10</td><td>25.56</td></tr><tr><td>沙地</td><td>最小值</td><td>0.05</td><td>12.12</td><td>8.75</td><td>0.96</td><td>2.06</td><td>17.30</td><td>6.44</td></tr><tr><td></td><td>最大值</td><td>0.25</td><td>48.85</td><td>21.36</td><td>9.76</td><td>17.51</td><td>61.33</td><td>19.37</td></tr><tr><td></td><td>均值</td><td>0.15</td><td>26.43</td><td>15.00</td><td>6.03</td><td>10.59</td><td>40.11</td><td>11.98</td></tr><tr><td colspan=\"2\">青海湖土壤背景值</td><td>0.14</td><td>54.17</td><td>20.47</td><td>11.66</td><td>19.72</td><td>64.28</td><td>24.96</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2内梅罗综合污染指数法内梅罗综合污染指数法是兼顾极大值和平均值的计权型多因子环境质量指数,被广泛应用于环境综合污染评价,用 $P _ { \\frac { 4 3 } { 9 \\hbar } \\underset { \\stackrel { . } { \\prod } } { \\hat { \\prod } } }$ 表示并对其进行等级划分： $P _ { \\stackrel { \\scriptscriptstyle 4 \\div \\sum } { \\mathrm { ~ \\tiny ~ f ~ } } } \\mathrm { s } 0 . 7$ （清洁安全），$0 . 7 { < } P _ { \\ 明 } { \\leqslant } 1$ （尚清洁警戒线）， $1 { < } P _ { \\mathit { \\Pi } _ { \\mathtt { - } \\mathtt { - } \\mathtt { - } \\mathtt { - } } \\mathit { \\triangle } _ { \\mathtt { - } } \\mathit { \\leq } 2 }$ （轻度污染），",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 { < } P _ { \\ 明 } { \\Longleftrightarrow } 3$ （中度污染）， $P _ { \\frac { 4 3 } { 9 5 } \\underset { \\div } { \\sim } 3 }$ （重度污染）。从研究区土壤重金属的内梅罗综合污染指数(表4)可以看出，87个样点的内梅罗综合污染指数均值为3.54,属于V级，即整体上污染等级为重度污染。值得一提的是有7个样点的指数值远远超过V级的阈值3（图2b)，甚至接近于30。研究区土壤中重金属的单项污染指数均值(表4)指示，其污染水平表现为Cd>$\\mathrm { P b { > } A s { > } C u { > } Z n { > } N i { > } C r }$ 。其中，首要污染物Cd的均值超过3，整体上属重度污染， $\\mathrm { P b }$ 在1\\~2之间，整体上属轻度污染，其余元素无污染。从每一个重金属元素的内梅罗污染指数(表4)来看，其污染程度由高到低表现为 $\\mathrm { C d } \\left( 3 0 . 0 0 \\right) > \\mathrm { C u } \\left( 2 . 4 4 \\right) > \\mathrm { P b } \\left( 1 . 4 3 \\right) > \\mathrm { A s }$ (1. $1 9 ) > \\mathrm { { Z n } ( 1 . 1 0 ) > \\mathrm { { N i } } } ( 0 . 9 3 ) > \\mathrm { { C r } } ( 0 . 8 2 )$ 。综上可知，采用污染负荷指数法、内梅罗综合污染指数法均表明土壤中重金属Cd为重度污染。可见，环青海湖地区表层土壤重金属的污染等级整体处于重度污染等级，其中土壤中Cd最为严重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤重金属生态风险评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "瑞典科学家Hakason[45提出的潜在生态风险指数（PotentialEcological RiskIndex,RI）,因综合考虑了重金属的毒性及其在土壤和沉积物中的迁移转化规律，而被广泛应用，并划分潜在生态风险等级[46-47]： $\\mathrm { R I } < 1 5 0$ （轻微）， $1 5 0 { \\leqslant } \\mathrm { R I } < 3 0 0$ （中等），$3 0 0 { \\leqslant } \\mathrm { R I } < 6 0 0$ （强）， $\\scriptstyle \\mathrm { { R I } } \\geq 6 0 0$ (极强)。由研究区土壤中单一重金属元素的潜在生态风险系数 $E _ { r }$ 和多种重金属的综合潜在生态风险指数RI结果可知，87个样品的 $\\overline { { E _ { r } } }$ 分别为 $1 4 0 . 2 7 ( \\mathrm { C d } ) \\ 、 1 . 3 1 ( \\mathrm { C r } ) \\ 、 5 . 3 6 ( \\mathrm { P b } )  { \\mathrm { ~ . ~ } }$ $9 . 0 2 ( \\mathrm { A s } ) , 4 . 3 3 ( \\mathrm { C u } ) , 0 . 8 4 ( \\mathrm { Z n } )$ 和3.64(Ni)。除Cd外的其余6种重金属均小于40，并且最大值也未超过40,参照潜在生态风险等级，确定潜在生态风险程度为轻微。Cd的 $\\overline { { E _ { r } } }$ 在80\\~160,潜在生态风险程度为强，这与污染评价得出的Cd在研究区土壤中污染最为严重的结果一致。研究区的综合潜在生态风险指数显示，87个样点的RI值介于16.49\\~1298.78，平均值为164.77，参照潜在生态风险等级，研究区整体的综合潜在风险程度为中等。但其中7个样点的RI值超过600，说明其潜在生态风险已达较强程度;其余样点的RI值均未超过150，说明潜在生态风险为轻微程度(图3)。从重金属元素对RI的贡献率来看， $\\mathrm { { C d } , A s , P b }$ 的贡献率分别为 $6 7 . 6 \\% . 1 2 . 0 \\% . 7 . 1 \\%$ ，合计为 $8 6 . 7 \\%$ ,表明环青海湖地区表层土壤重金属的综合潜在生态风险是主要由Cd、As和Pb引起。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3cfac6c2364a5553189eeebd50462e037faba8ac265d687e6b6cd596a2da68d4.jpg",
+        "table_caption": [
+            "表2环青海湖地区采样点按功能划分的表层土壤重金属含量对比分析",
+            "表3环青海湖地区表层土壤重金属的元素污染系数和污染负荷指数",
+            "Tab.3Element polution indexand pollution load indexof heavymetals in surfacesoil in thearea around QinghaiLake "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"7\">CF</td><td rowspan=\"2\">PLI</td><td rowspan=\"2\">PLIzone</td></tr><tr><td>Cd</td><td>Cr</td><td>Pb</td><td>As</td><td>Cu</td><td>Zn</td><td>Ni</td></tr><tr><td>最小值</td><td>0.38</td><td>0.18</td><td>0.37</td><td>0.07</td><td>0.09</td><td>0.23</td><td>0.21</td><td>0.24</td><td rowspan=\"3\">0.89</td></tr><tr><td>最大值</td><td>42.17</td><td>0.96</td><td>1.72</td><td>1.43</td><td>3.34</td><td>1.30</td><td>1.09</td><td>1.80</td></tr><tr><td>平均值</td><td>4.68</td><td>0.65</td><td>1.07</td><td>0.90</td><td>0.87</td><td>0.84</td><td>0.73</td><td>0.94</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f0e91bb1cc7c9c8d255c8c41afe45adce3778aca106d6c069c0bfc5d525f85c.jpg",
+        "table_caption": [
+            "表4环青海湖地区表层土壤重金属的单项污染指数和内梅罗综合污染指数",
+            "Tab.4SinglepolutionindexandNemeropolutionindexof heavymetals insurfacesoiloftheareaaround QinghaiLal "
+        ],
+        "table_footnote": [
+            "注：内梅罗污染指数(每一元素)指在所有样点中每一种重金属的内梅罗污染指数;内梅罗综合污染指数(每一样点)指综合所有重金属，每一个样点的内梅罗污染指数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">元素名称</td><td colspan=\"2\">单项污染指数</td><td rowspan=\"2\">内梅罗污染指数 (每一元素)</td><td colspan=\"2\">内梅罗综合污染指数(每一样点)</td></tr><tr><td>区间值</td><td>平均值</td><td>区间值</td><td>平均值</td></tr><tr><td>Cd</td><td>0.38~42.17</td><td>4.68</td><td>30.00</td><td rowspan=\"6\"></td><td rowspan=\"6\"></td></tr><tr><td>Cr</td><td>0.18~0.96</td><td>0.65</td><td>0.82</td></tr><tr><td>Pb</td><td>0.37~1.72</td><td>1.07</td><td>1.43</td></tr><tr><td>As</td><td>0.07~1.43</td><td>0.90</td><td>1.19</td></tr><tr><td>Cu</td><td>0.09~3.34</td><td>0.87</td><td>2.44</td></tr><tr><td>Zn</td><td>0.23~1.30</td><td>0.84</td><td>1.10</td></tr><tr><td>Ni</td><td>0.21~1.09</td><td>0.73</td><td>0.93</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e9816b616fe15bd15f350e1ca5e8c3a7a5657edc63496de9868f82488ae3a4f.jpg",
+        "img_caption": [
+            "图2环青海湖地区表层土壤重金属的单项污染指数和内梅罗综合污染指数图",
+            "Fig.2Pollutionload index mapand Nemero polution index mapofsurface soilheavy metalsin theareaaround Qinghai Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上可知，研究区土壤重金属的综合潜在生态风险指数为164.77，已达中等风险程度，部分样点的污染程度更高，其RI指数分别是川西高原岷江流域(106.34)[48]、大巴山西南麓的小江流域(32.28)[49]和天山南坡的博斯腾湖流域(18.63)5同为高海拔流域的1.55、5.11和8.84倍，这也说明环青海湖地区表层土壤重金属的潜在生态风险形势严峻。值得说明的一点是，上述区域的首要污染物同样也是Cd元素。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/886b6cb6b5a8119968a3792be2b089feeacfdc40295a5ccbdfdf90d355d9c297.jpg",
+        "img_caption": [
+            "图3环青海湖地区表层土壤重金属的潜在生态风险指数图",
+            "Fig.3Potential ecological risk index map of heavy metals in surface soil in the area around Qinghai Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤重金属来源解析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对解析环青海湖地区表层土壤重金属的来源，采用相关性分析和因子分析法对样点数据进行分析。其中，相关性分析用来判断两个变量之间的线性关系，随着相关系数越大，表示两个变量越相关[5，就本研究而言，可指示污染来源和污染程度可能相近或相同。除Cd外，其余6种元素相互之间均存在显著相关性 $( P { < } 0 . 0 1 )$ )，说明其污染来源、污染程度基本一致，很可能具有同源性。而Cd与其他重金属的相关性总体一般(表5)，说明这些元素在土壤中的同源性较低，污染来源不一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cd主要通常存在于锌矿、铅锌矿中，来源于矿的开采、冶炼、电镀化肥等多种工业生产方式，也能配成多种合金，用于制造电器、颜料、杀虫剂等制造业，甚至对于航空、航海领域的制造有一定的贡献[37]。 $\\mathrm { C r } \\ 、 \\mathrm { P b } \\ 、 \\mathrm { A s } \\ 、 \\mathrm { C u } \\ 、 \\mathrm { Z n }$ 和Ni中除母岩风化、火山喷发等自然源之外，主要来自煤、石油、汽油的燃烧,工业废气的排放和化肥的施用，包括用于饲料的添加剂[37.52]。因此，对于研究区采样点表层土壤中重金属Cd主要来自交通运输、工业和农业生产的人为源；对于重金属 $\\mathrm { G r } , \\mathrm { P b } , \\mathrm { A s } , \\mathrm { C u } , \\mathrm { Z n }$ 和Ni,主要来自石油、汽油等燃烧、工业和农业生产等人为源。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1346ffdf297c3465f750f544b50ce269854b3efff6c4d28660255424585bd11c.jpg",
+        "table_caption": [
+            "表5环青海湖地区表层土壤重金属的相关性分析",
+            "Tab.5 Correlation analysis of heavy metals in surface soil around Qinghai Lake "
+        ],
+        "table_footnote": [
+            "注：\\*\\*在0.01水平(双侧)上显著相关;\\*在0.05水平(双侧)上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>Pearson 相关性</td><td>Cd</td><td>Cr</td><td>Pb</td><td>As</td><td>Cu</td><td>Zn</td><td>Ni</td></tr><tr><td>Cd</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cr</td><td>0.032</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pb</td><td>0.337**</td><td>0.736**</td><td>1.00</td><td></td><td></td><td></td><td></td></tr><tr><td>As</td><td>0.243*</td><td>0.837**</td><td>0.681**</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>Cu</td><td>0.004</td><td>0.626**</td><td>0.517**</td><td>0.635**</td><td>1.00</td><td></td><td></td></tr><tr><td>Zn</td><td>0.096</td><td>0.875**</td><td>0.729**</td><td>0.777**</td><td>0.632**</td><td>1.00</td><td></td></tr><tr><td>Ni</td><td>0.174</td><td>0.955**</td><td>0.735**</td><td>0.871**</td><td>0.645**</td><td>0.881**</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步判定土壤中重金属的来源，同时采用因子分析法对样点数据进行分析。经KMO检验和Bartlett球形检验，样点数据适用于该法。分析结果表明，前两个因子对方差的累积解释贡献率为$8 3 . 6 5 \\%$ ，根据各主成分累计贡献率的原则，提取了2个作为主因子进行因子分析。由因子旋转后的分析结果如表6，可知主因子1中 $\\mathrm { C r , N i , Z n , A s , P b }$ 和$\\mathrm { C u }$ 的载荷较高，载荷因子分别为 $0 . 9 5 8 , 0 . 9 5 3$ /$0 . 9 2 4 , 0 . 8 8 6 , 0 . 7 7 9$ 和0.772，说明这6种元素有同源性，可归为一个因子，主因子2中仅Cd的载荷较高，为0.980,为一个因子。可见，研究区土壤中的土壤重金属 $\\mathrm { C r , N i , Z n , A s , P b }$ 和Cu具有相同的污染源，而Cd表现为不同的污染源，这与相关性分析的结果一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表6因子分析旋转成分矩阵",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5c687eb8d133622419ffcb4498fafad2796ac475fff40ea643ccff9510a722b.jpg",
+        "table_caption": [
+            "Tab.6Factor analysis rotation component matrix "
+        ],
+        "table_footnote": [
+            "注：提取方法为主成份分析，旋转法为具有Kaiser标准化的正交旋转法。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">成份</td></tr><tr><td>旋转前1</td><td>旋转前2 旋转后1</td><td>旋转后2</td></tr><tr><td>Cd</td><td>0.209</td><td>0.958</td><td>0.043 0.980</td></tr><tr><td>Cr</td><td>0.945</td><td>-0.160 0.958</td><td>0.003</td></tr><tr><td>Pb</td><td>0.833</td><td>0.246 0.779</td><td>0.384</td></tr><tr><td>As</td><td>0.909</td><td>0.057 0.886</td><td>0.211</td></tr><tr><td>Cu</td><td>0.742</td><td>-0.243 0.772</td><td>-0.114</td></tr><tr><td>Zn</td><td>0.920</td><td>-0.101</td><td>0.924 0.057</td></tr><tr><td>Ni</td><td>0.961</td><td>-0.033</td><td>0.953 0.131</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文通过对环青海湖地区87个表层土壤样品重金属含量的测定与分析发现，环青海湖地区的表层土壤重金属出现了不同程度的污染，其中草地污染最为严重。研究区整体上的综合潜在风险程度虽为中等，但部分样点的土壤重金属污染已较为严重，且主要是由Cd、As和Pb引起，生态污染风险较高。基于相关性分析和因子分析的初步源解析表明， $\\mathrm { G r } , \\mathrm { P b } , \\mathrm { A s } , \\mathrm { C u } , \\mathrm { Z n }$ 和Ni污染程度基本一致，很可能具有同源性，主要来自石油、汽油等燃烧、工业和农业生产等人为源；而Cd可能主要来自交通运输、工业和农业生产的人为源。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]奚旦立,孙裕生.环境监测[M].第4版.北京:高等教育出版社, 2010.[Xi Danli, Sun Yusheng.Environmental Monitoring[M]. 4th ed.Beijing: Higher Education Press,2010.]   \n[2]Wang G, Zhang S, Zhong Q, et al. Feasibility of Chinese cabbage (Brassica bara)and letuce(Lactuca sativa)cultivation in heavily metals-contaminated soil after washing with biodegradable chelators[J].Journal of Cleaner Production,2018,197(1): 479-490.   \n[3]Kim JJ,Kim Y S, Kumar V. Heavy metal toxicity: An update of chelating therapeutic strategies[J]. Journal of Trace Elements in Medicine and Biology,2019,54: 226-231.   \n[4]Wu HY, Yang F,Li HP,et al.Heavy metal polltion and health risk assessment of agricultural soil near a smelter in an industrial city in China[J]. International Journal of Environmental Health Research,2020,30(2): 174-186.   \n[5]刘培桐,薛纪渝,王华东.环境学概论[M].第二版.北京:高等教 育 出版社,2011.[Liu Peitong,Xue Jiyu,Wang Huadong.Introduction to Environmental Science[M].2nd ed.Beijing: Higher Education Press,2011.]   \n[6]葛晓颖,欧阳竹,杨林生,等.环渤海地区土壤重金属富集状况 及来源分析[J].环境科学学报,2019,39(6):1979-1988.[Ge Xiaoying,Ou Yangzhu, Yang Linsheng,et al. Concentration, risk assessment and sources of heavy metals in soil around Bohai Rim [JJ.Acta Scientiae Circumstantiae,2019,39(6): 1979-1988.]   \n[7]王加恩,康占军,潘卫丰,等.浙北嘉善县1990-2008年土壤重 金属元素及酸碱度变化和趋势预测[J].地质科技情报,2010, 29(1): 92-96,107.[Wang Jia'en, Kang Zhanjun,Pan Weifeng,et al. Content change and forecast of heavy metal and $\\mathrm { \\ p H }$ value in soil for Jiashan area,northern Zhejiang Province from 1990 to 2008[J]. Geological Science and Technology Information,2010,29 (1): 92-96, 107.]   \n[8]程胜高,邵宁,胡建民,等.火力发电厂灰渣场周围上壤与蔬菜 中重金属污染规律的研究[J].环境科学与技术,1988(3):8,17- 19.[Cheng Shenggao, Shao Ning,Hu Jianmin,etal. Study on the law of soil heavy metal pollution around and vegetables in the thermal power plant ash[J]. Environmental Science and Technology, 1988(3): 8,17-19.]   \n[9]廣先国,徐争启,滕彦国,等.攀枝花钒钛磁铁矿区土壤重金属 地球化学特征及污染评价[J].矿物岩石地球化学通报,2007, 26(2):127-131. [Tuo Xianguo,Xu Zhengqi, Teng Yanguo, et al. The geochemical characteristics of heavy metals in soils in the Panzhihua V,Ti magnetite mine and the pollution evaluation[J]. Bulletin of Mineralogy,Petrology and Geochemistry,2007,26(2): 127-131.]   \n[10] 许雅玲,欧阳通,陈江奖.某铜矿区土壤重金属污染状况研究 [J].环境科学与技术,2009,32(11):146-151.[Xu Yaling,Ouyang Tong, Chen Jiangjiang. Heavy metal contamination in the soil of acopper mine[J].Environmental Science & Technology, 2009,32(11): 146-151.]   \n[11] 吴双桃,吴晓芙,胡日利,等.铅锌冶炼厂土壤污染及重金属富 集植物的研究[J].生态环境,2004,13(2):156-157,160.[Wu Shuangtao,Wu Xiaofu,Hu Yueli,etal. Studies on soil pollution around Pb-Zn smelting factory and heavy metals hyperaccumulators[J]. Ecology and Environment,2004,13(2): 156-157,160.]   \n[12]张玉革,姜勇,李琪.沈阳西郊污灌区农田铜锌铅污染特征分析 [J].辽宁工程技术大学学报(自然科学版),2009,28(1):134- 137.[Zhang Yuge,Jiang Yong,Li Qi. Characteristicsofcopper, zinc and lead contamination in farmland soils irrigated with waste water in western Shenyang suburb[J]. Journal of Liaoning Technical University(Natural Science Edition),2009,28(1): 134-137.]   \n[13] 郑春荣,陈怀满.土壤一水稻体系中污染重金属的迁移及其对 水稻的影响[J].环境科学学报,1990,10(2):145-151.[Zheng Chunrong,Chen Huaiman. Transfer of heavy metals through soilplant system and its influence on the growth of rice[J].Acta Scientiae Circumstantiae,1990,10(2): 145-151.]   \n[14]Li G, Wang XR,Sui X Y,et al. Heavy metal pollution and ecological risk assessment of cultivated land soil in the farming areas of coastal China: A case study of Donghai County,Jiangsu Province [J]. Agricultural Biotechnology,2018,7(6): 125-129.   \n[15]Wu J,Li J,Teng Y G,etal.A partition computing-based positive matrix factorization(PC-PMF)approach for the source apportionment of agricultural soil heavy metal contents and associated health risks[J].Journal of HazardousMaterials，2O20,388: 121766.   \n[16]Edith O, Maria C,Maria C B,et al. Lead in agricultural soils and cultivated pastures irigated with river water contaminated by mining activity[J].Journal of Ecological Engineering,2019,20(8): 238-244.   \n[17]Recep Ugur Acar, Cafer Ozkul. Investigation of heavy metal pollution in roadside soils and road dusts along the Kutahya-Eskisehir Highway[J].Arabian Journal of Geosciences,2O2o,13(5): 216.   \n[18]Elio P,Chiara R,Franco A M. Bioaccessibility and size distribution of metals in road dust and roadside soils along a peri-urban transect[J].Science of the Total Environment,2O17,601:89-98.   \n[19] Niu SP,Chen Y H, Yu JH, et al. Characteristics of particle size distribution and related contaminants of highway-deposited sediment,Maanshan City, China[J]. Environ Geochem Health, 2019, 41(6): 2697-2708.   \n[20]Hanfi Mohamed Y, Mostafa Mostafa Y A, Zhukovsky Michael V. Heavy metal contamination in urban surface sediments: Sources, distribution,contamination control,and remediation[J]. Environmental Monitoring and Assessment,2020,192(1): 32.   \n[21] 张阿龙,高瑞忠,张生,等.吉兰泰盐湖盆地土壤铬、汞、砷污染 的负荷特征与健康风险评价[J].干旱区研究,2018,35(5): 1057-1O67.[Zhang Along,Gao Ruizhong, Zhang Sheng, et al. Pollution load characteristics and health risk assssment of heavy metals Cr,Hg and As in the Jilantai salt lake basin[J].Arid Zone Research,2018,35(5): 1057-1067.]   \n[22] 米晓军,任雯,雒琼,等.新疆准噶尔盆地未开垦盐碱地土壤重 金属评价及其来源[J].干旱区研究,2019,36(4):824-834.[Mi Xiaojun,Ren Wen,Luo Qiong,et al. Evaluation and their sources of heavy metals in uncultivated saline-alkaline soil in the Junggar basin, Xinjiang[J]. Arid Zone Research,2019,36(4): 824-834.]   \n[23] 陈雅丽,翁莉萍,马杰,等.近十年中国土壤重金属污染源解析 研究进展[J].农业环境科学学报,2019,38(10):2219-2238. [Chen Yali,Weng Liping,Ma Jie,etal.Review on the last ten years of research onsource identification of heavy metal pollution insoils[J]. Journal of Agro-Environment Science,2019,38(10): 2219-2238.]   \n[24] 马舒欣,乔永民,唐梦瑶,等.广州市主要湖泊沉积物重金属污 染与生态风险评价[J].生态与农村环境学报,2019,35(5):600- 607.[Ma Shuxin,Qiao Yongmin,Tang Mengyao,et al.Heavy metal pollution and potential ecological risk assessment in surface sediments from lakes located in Guangzhou City[J]. Journal of Ecology and Rural Environment,2019,35(5): 600-607.]   \n[25] 李欢娟,李会霞,史兴民.西安市主要湖泊表层沉积物重金属污 染及生态风险评估[J].干旱区资源与环境,2019,33(2):122- 126.[Li Huanjuan,Li Huixia, Shi Xingmin.Pollution characteristics of heavy metals and ecological risk assessment for the surface sediments of the lakes in Xi'an[J]. Journal of Arid Land Resources and Environment, 2019,33(2): 122-126.]   \n[26] 姜会敏,郑显鹏,李文.中国主要湖泊重金属来源及生态风险评 估[J].中国人口·资源与环境,2018,28(7):108-112.[Jiang Humin, Zheng Xianpeng, Li Wen. Source and risk asessmentof heavy metal in sediment of China[J]. China Population,Resources and Environment,2018,28(7): 108-112.]   \n[27] 杨阳,周正朝,张福平,等.沣河沿岸土壤重金属分布特征及来 源分析[J].干旱区研究,2014,31(2):237-243.[Yang Yang, Zhou Zhengchao,Zhang Fuping,et al. Spatial distribution and sources of heavy metals in soil samples collected from the riparian area of the Fenghe River[J]. Arid Zone Research,2O14,31(2): 237-243.]   \n[28] 王琪,吴成永,陈克龙,等.基于多光谱遥感图像的青海湖流域 土壤有机质估算初探[J].土壤,2019,51(1):160-167.[Wang Qi, Wu Chengyong,Chen Kelong,et al.Estimating topsoil organic mater in Qinghai Lake basin using multi-spectral remote sensing images[J]. Soils,2019,51(1): 160-167.]   \n[29] 刘英,曹生奎,曹广超,等.青海湖2种高寒湿地土壤碳氮化学 计量特征研究[J].西南农业学报,2019,32(11):2630-2637. [LiuYing,Cao Shengkui,Cao Guangchao,et al.Comparative study on soil Carbon and Nitrogen stoichiometry in two alpine wetlands of Qinghai Lake[J]. Southwest China Journal of Agricultural Sciences,2019,32(11): 2630-2637.] [30] 刘磊,李小雁,蒋志云,等.青海湖流域不同海拔高度土壤水分 时空变化特征[J].资源科学,2017,39(2):263-275.[Liu Lei,Li Xiaoyan,Jiang Zhiun,etal.Variationisoil waterontntalong different altitude gradients in the Qinghai Lake watershed[J]. Resources Science,2017,39(2): 263-275.] [31] 田郁溟,吴枫,张琳,等.人类活动影响下青海湖环湖地区土壤 的生态环境特征[J].安全与环境工程,2013,20(3):77-81.[Tian Yuming,Wu Feng, Zhang Lin,et al. Ecological environment characteristics of the soil around Qinghai Lake under the influence of human activities[J]. Safety and Environmental Engineering,2013,   \n20(3): 77-81. ] [32] 芦宝良,陈克龙,曹生奎,等.青海湖典型湿地土壤重金属空间 分布特征[J].水土保持研究,2012,19(3):190-194.[Lu Baoliang,Chen Kelong, Cao Shengkui,et al.Spatial distribution characteristics of soil heavy metals of wetlands in some representative regions around Qinghai Lake[J]. Research of Soil and Water Conservation,2012,19(3): 190-194.] [33] 常华进,曹广超,陈克龙,等.青海湖流域沙柳河下游沉积物中 重金属污染风险评价[J].地理科学,2017,37(2):259-265. [Chang Huajin, Cao Guangchao, Chen Kelong,et al. Pollution and potential ecological risk of heavy metals in sediment from the lower reaches of Shaliuhe River,Qinghai Lake watershed[J]. Scientia Geographica Sinica,2017,37(2): 259-265.] [34] 章妮,陈克龙,王恒生,等.模拟增温对青海湖鸟岛土壤微生物 的影响[J/OL].微生物学通报:1-14.[2020-09-03]. https: //doi. org/10.13344/j.microbiol.china.200494.[Zhang Ni,Chen Kelong, Wang Hengsheng,et al.Efect of simulated warming on soil microorganismof bird island in Qinghai Lake[J/OL]. Microbiology China: 1-14.[2020-09-03]. htps: //doi.org/10.13344/j.microbiol.china.200494.] [35] 韩艳莉,陈克龙,于德永.土地利用变化对青海湖流域生境质量 的影响[J].生态环境学报,2019,28(10): 2035-2044.[Han Yanli, Chen Kelong,Yu Deyong.Evaluation on the impact of land use change on habitat quality in Qinghai Lake basin[J].Ecology and Environmental Sciences,2019,28(10): 2035-2044.] [36] 连喜红,祁元,王宏伟,等.人类活动影响下的青海湖流域生态 系统服务空间格局[J].冰川冻土,2019,41(5):1254-1263.[Lian Xihong,Qi Yuan,Wang Hongwei,et al. Spatial patern of ecosystem services under the influence of human activities in Qinghai Lake watershed[J]. Journal of Glaciology and Geocryology,2019,   \n41(5): 1254-1263.] [37] 范拴喜.土壤重金属污染与控制[M].北京:中国环境科学出版 社,2011: 32-34,50-92,140-191. [Fan Shuanxi.Soil Heavy Metals Pollution and Control[M].Beijing: China Environmental Science Press,2011: 32-34,50-92,140-191.] [38] 陈克龙,曹广超,王锋,等.青海湖流域生态功能与生态补偿 [M].北京：科学出版社,2013:34-35.[Chen Kelong,Cao Guangchao, Wang Feng, et al. Ecological Functions and Eco-compensation in Qinghai Lake Basin[M]. Beijing: Science Press, 2013: 34-35.]   \n[39] 陈桂琛.青海湖流域生态环境保护与修复[M].西宁:青海人民 出版社,20O7.[Chen Guichen.Protection and Restoration of Environment in Qinghai Lake Valley[M]. Xining: Qinghai People’ s Publishing House,2007.]   \n[40] 李沅蔚,邹艳梅,王传远.黄河三角洲油田区土壤重金属的垂直 分布规律及其影响因素[J].环境化学,2019,38(11):2583- 2593.[Li Yuanwei, Zou Yanmei,Wang Chuanyuan.Vertical distribution and influencing factors of heavy metals in oilfield soil in the Yellow River Delta[J].Environmental Chemistry，2019,38 (1): 2583-2593.]   \n[41] 陈江,张海燕,何小峰,等.湖州市土壤重金属元素分布及潜在 生态风险评价[J].土壤,2010,42(4):595-599.[Chen Jiang, Zhang Haiyan, He Xiaofeng,et al. Distribution and evaluation on potential ecological risk of heavy metals in soilsof Huzhou[J]. Soils,2010, 42(4): 595-599.]   \n[42] 王平,曹军骥,吴枫.青海湖流域表层土壤环境背景值及其影响 因素[J].地球环境学报,2010,1(3):189-200.[Wang Ping,Cao JunJi,Wu Feng.Environmental background values and its impact factors of topsoil within the Lake Qinghai catchment,Northeast Tibetan Plateau,China[J]. Journal ofEarth Environment,2010,1(3): 189-200.]   \n[43] 王小莉,陈志凡,魏张东,等.开封市城乡交错区农田土壤重金 属污染及潜在生态风险评价[J].环境化学,2018,37(3):513- 522.[Wang Xiaoli, Chen Zhifan,Wei Zhangdong,et al.Heavy metal pollution and potential ecological risk assessment inagricultural soils located in the peri-urban area of Kaifeng City[J].Environmental Chemistry,2018,37(3): 513-522.]   \n[44] 樊志颖,李江荣,高鄰,等.色季拉山森林土壤重金属空间分布 特征及污染评价[J].西北农林科技大学学报(自然科学版), 2020,48(8): 93-100.[Fan Zhiying,Li Jiangrong,Gao Tan,et al. Spatial distribution characteristics and pollution assessment of heavy metals in forest soils of the Sygera Mountain[J].Journal of Northwest A&F University(Natural Science Edition),2020,48 (8): 93-100.]   \n[45]Hakanson L.An ecological risk index for aquatic polution control. asedimentological approach[J].Water Research,1980,14(8): 975-1001.   \n[46] 徐争启,倪师军,度先国,等.潜在生态危害指数法评价中重金 属毒性系数计算[J].环境科学与技术,2008,31(2):112-115. [Xu Zhengqi,Ni Shijun,Tuo Xianguo,et al. Calculation of heavy metals’toxicity coefficient in theevaluation of Potential Ecological Risk Index[J]. Environmental Science & Technology,2008,31 (2): 112-115. ]   \n[47] 范明毅,杨皓,黄先飞,等.典型山区燃煤型电厂周边土壤重金 属形态特征及污染评价[J].中国环境科学,2016,36(8):2425- 2436.[Fan Mingyi,Yang Hao,Huang Xianfei,et al. Chemical forms and risk assessment of heavy metals in soils around a typical coal-fired power plant located in the mountainous area[J]. Chi",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "na Environmental Science,2016,36(8): 2425-2436.] [48]王科,张成,杨勋,等.成都市岷江流域水稻土重金属含量及其 潜在生态危害评价[J].四川农业科技,2019(2):28-30.[Wang Ke,Zhang Cheng,Yang Xun,etal.Heavy metal contentin paddy soil and its potential ecological hazard assessment in Minjiang River Basin of Chengdu City[J]. Sichuan Agricultural Science And Technology,2019(2): 28-30.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[49]裴廷权,王里奥,包亮,等.三峡库区小江流域土壤重金属的分 布特征与评价分析[J].土壤通报,2010,41(1):206-211.[Pei Tingquan,Wang Li'ao,Bao Liang,et al.Distribution characteristics and evaluation of soil heavy metals in water-level-fluctuating zone in Xiaojiang River[J]. Chinese Journal of Soil Science,2010, 41(1): 206-211.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[50]麦麦提吐尔逊·艾则孜,阿吉古丽·马木提,艾尼瓦尔·买买提, 等.博斯腾湖流域绿洲农田土壤重金属污染及潜在生态风险 评价[J].地理学报,2017,72(9):1680-1694.[Mamattursun Eziz, Ajigul Mamut,Anwar Mohammad,et al.Assessment of heavy metal pollution and its potential ecological risks of farmland soils of oasis in Bosten Lake Basin[J].Acta Geographica Sinica,2017,72 (9): 1680-1694.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[51]吴明鑫,马杰,王森森,等.水利区周边土壤重金属含量特征及 污染评价一以宿州市新汴河为例[J].海峡科技与产业，2019 (5):34-36,43.[Wu Mingxin,Ma Jie,Wang Sensen,et al.Content characteristics and pollution assessment of heavy metal in soils around water conservancy area:A case study of Xinbian River in Suzhou City [J]. Technology and Industry Across The Strait,2019 (5): 34-36,43.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[52]Ivan S,Tatyana K.Heavy metals content in soils of Western Siberia in relation to international soil quality standards[J]. Geoderma Regional, 2020,21: e00283. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Enrichment content and ecological risk assessment of heavy metal in surface soil around Qinghai Lake ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Ruojin， SHAO Tianjie, WEI Peiru (School of Geography and Tourism,Shaanxi Normal University,Xi'an 71O119,Shaanxi, China ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To study the heavy metal enrichment content and ecological risk in the surface soil around Qinghai Lake,87 groups of soil samples were collcted by grid method,and the concentrations of the heavy metals (Cd, Cr,Pb,As,Cu,Zn,and Ni) were determined by inductively coupled plasma-atomic emisson spectrometry (ICPAES).The Nemero polution index,pollution load index,correlation analysis,and factor analyses were used to determine the content of heavy metals，polution degree，ecological risk,and pollution sources.The results showed that: Cd and $\\mathrm { P b }$ pollution in the surface soil around Qinghai Lake was the most serious, followed by $\\mathrm { C r }$ As,Cu,Zn,and Ni. Compared with farmlandand sandyland,heavy metal polution in grassland surface soil was more serious.According to the polution load index,the total amount of heavy metals in the soils of the study area did not reach the polution level, but some sampling points were seriously polluted.The Nemero polution index analysis implied that the whole study area was at the level of heavy pollution.The single polution index exceeded the standard in different degrees. The pollution degree was $\\mathrm { C d } > \\mathrm { P b } > \\mathrm { A s } > \\mathrm { C u } > \\mathrm { Z n } > \\mathrm { N i } > \\mathrm { C r }$ in turn. The potential ecological risk index analysis implied that the comprehensive potential ecological risk of the whole study area was medium,whereby the contribution rate of Cd and As was close to $80 \\%$ ,and some areas had high potential ecological risks.The correlation and factor analyses indicated that the correlation among Cr, $\\mathrm { P b }$ ,As,Cu, Zn,and Ni were significant,and the polution degree was the same, which was likely to be from the same source. In conclusion,heavy metal polution of soil had occurred in the area around Qinghai Lakeand elicited some potential ecological risks.Therefore, it is necessary to take appropriate monitoring and control measures. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil heavy metals; sources of pollution; ecological risk assessment; Qinghai Lake ",
+        "page_idx": 9
+    }
+]

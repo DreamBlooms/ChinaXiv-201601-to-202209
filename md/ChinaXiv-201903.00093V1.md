@@ -1,0 +1,348 @@
+# 感应电机三矢量模型预测磁链控制
+
+张永昌 夏波杨海涛
+
+(北方工业大学电力电子与电气传动北京市工程研究中心北京100144)
+
+![](images/a4725146a407e13e2a5b97ec3ea4cf99bc727dfc7ec1eac521cbe8ae5bdb2bba.jpg)
+
+张永昌男 1982年生，博士，研究员，研究方向为模型预测控制在电力电子与电机控制中的应用。
+
+摘要：模型预测磁链控制（MPFC）是最近才被提出来的一种新型控制方法，能够很好地解决传统模型预测转矩控制（MPTC）中权重系数选择困难的问题，因此得到了广泛的关注，但是当整个控制周期中只作用一个电压矢量时，MPFC的稳态性能较差。为了提高MPFC的稳态性能，有一些学者提出了双矢量MPFC的概念。如果在一个控制周期当中作用3个电压矢量，MPFC的稳态性能可以进一步提高，但是也会带来一系列的问题，如：矢量选择复杂、计算量较大及开关频率高等，不利于MPFC在实际当中的应用。为了解决这些问题，本文提出一种简单实用的新型三矢量MPFC，为了降低逆变器的非线性对三矢量MPFC的影响，文中基于伏秒平衡的原理，又提出一种改进型三矢量MPFC。为了比较新型三矢量MPFC的性能，引入基于空间矢量脉宽调制的MPFC（MPFC_SVM）作为对比。最终通过仿真与实验验证了提出的新型三矢量 MPFC的有效性，同时也详细地比较了以上三种控制方法在相同开关频率下的控制性能。
+
+关键词：感应电机模型预测磁链控制模型预测转矩控制权重系数中图分类号：TM351
+
+![](images/5e06055afc3cc00684fcbc3dbeaed7d9f51cc3249220ec51fb76d10ca6ad1f49.jpg)
+
+# A Three-Vectors-Based Model Predictive Flux Control of Induction Motor Drives
+
+夏波男1990年生，硕士研究生，研究方向为异步电机宽速度范围模型预测控制。
+
+Zhang Yongchang Xia BoYang Haitao (North China University of TechnologyBeijing100044 China)
+
+Abstract: Model predictive flux control (MPFC) has attracted wide attention, because it had been proposed to cope with the tedious weighting factor tuning work required in conventional model predictive torque control (MPTC). However, similar to MPTC,MPFC presents high torque and current ripples if only one voltage vector is applied during each control period. To improve the steady state performance of MPFC, various two-vectors-based schemes can be found in existing literature.Although better performance can be expected if three vectors are selected during one control period, the complexity would also be increased significantly,which makes its practical application difficult.To address this problem,a simple yet very effective three-vectors-based MPFC is proposed in this paper. To decrease the effect of inverter nonlinearity on three-vectorsbased MPFC, this paper also proposed an improved three-vectors-based MPFC based on the theory of volt-second balance. To show superior performance of three-vectorsbased MPFC,MPFC based on space vector pulse width modulation is introduced as a comparison.Finally,the effectiveness of the novel three-vectors-based MPFC is verified by the simulation and experiment testes.A detailed performance comparison for the three control methods with the same switching frequency is also presented
+
+Keywords: Induction motor, model predictive flux control, model predictive torque control, weighting factor
+
+# 1 引言
+
+在高性能交流电机控制领域当中，矢量控制与直接转矩控制已经得到广泛的应用[1-3]。在同步坐标系下，矢量控制通过把定子电流分解成 $\mathrm { d } / \mathrm { q }$ 轴电流来分别控制转子磁链与电磁转矩，然后通过PI调节器来调节 $\mathrm { d } / \mathrm { q }$ 轴电流，最终通过空间矢量脉宽调制得到逆变器驱动信号。尽管矢量控制能够获得非常好的稳态性能，但是也存在一些问题，如：PI系数设计困难、 $\mathsf { d } / \mathsf { q }$ 轴存在交叉耦合项、电流内环带宽有限和开关频率高等问题。直接转矩控制具有很快的动态响应，但是其稳态性能较差，具有开关频率不固定等缺点[4-6]。
+
+随着数字信号处理器的迅速发展，更加先进的控制算法能够被应用在交流电机控制当中。模型预测控制（MPC）是最近才被提出来的一种新型控制方法，在20世纪90年代，德国学者Holtz最早把MPC[7运用到交流电机控制领域中，MPC具有动态响应快、结构简单且易于处理非线性控制变量等优点，从而在学术界与工业界引起广泛的关注[8]。传统的模型预测转矩控制（MPTC）在目标函数中需要设计一个合适的权重系数来调节磁链幅值，但是权重系数的选择过程非常繁琐且复杂，由于缺乏相应的理论支持，通常需要大量的仿真以及实验来确定合适的权重系数。另外，为了获得较好的稳态性能，传统MPC需要提高系统的采样频率[9]。通过电机磁链与转矩的内在关系可以把转矩与定子磁链幅值转化成定子磁链矢量，从而避免MPTC中的权重系数设计[10-12]，应用这种等效变换的控制方法称为模型预测磁链控制 (MPFC)。当整个控制周期作用一个电压矢量时，MPFC的转矩与磁链的脉动较大，从而限制MPFC在高性能电机控制中的应用。
+
+为了提高MPFC的稳态性能，占空比优化的概念被应用到MPFC中，即在整个控制周期作用多个电压矢量[13-14]，然后采用磁链无差拍或者磁链脉动最小的方法来优化占空比。为了解决这个问题，一些学者提出了一种新型的多矢量选择方法，其控制周期中第一个电压矢量仍然选择上一时刻最后作用
+
+的电压矢量，然后再从所有的电压矢量中选择一个最优的电压矢量[15]，这种方法有效减少系统的开关频率与程序计算时间，同时也能改善系统的稳态性能。为了进一步提高系统的稳态性能，降低系统的采样频率，可以在整个控制周期内作用3个电压矢量，这种方法在矢量选择以及占空比优化方面显著地提高了算法的复杂度，同时系统的开关频率也会显著增加。两电平中有7个不同的空间矢量，对于三矢量来说，矢量组合有 $7 ^ { 3 } = 3 4 3$ 种，如果从这些组合中选择出最优的一组电压矢量，计算量非常大，难以在实际中应用。
+
+为了解决上面三矢量方法中存在的一些问题，本文提出一种新型的三矢量MPFC，这种方法中，第一个矢量仍然选择上一个控制周期中最后作用的电压矢量，第二个矢量选择零矢量，第三个矢量从6个不同的电压矢量中选择最优的电压矢量，这种新型的方法显著地降低了算法的复杂度与开关频率，能极大地推广MPFC在工业当中的应用。为了降低逆变器的非线性对三矢量MPFC的影响，本文基于伏秒平衡的原理，又提出了一种改进型三矢量MPFC，为了突出新型三矢量MPFC的性能，基于空间矢量脉宽调制的MPFC（MPFC_SVM）被引入作为对比。首先通过仿真来验证本文提出的方法的有效性，然后在相同的开关频率下详细地比较了以上三种控制方法转矩与磁链脉动以及电流THD的大小。通过比较可得，在相同的开关频率下，新型的三矢量MPFC的转矩与磁链脉动以及电流THD要明显地低于改进型三矢量MPFC，而MPFC_SVM的转矩脉动最大，说明相比改进型三矢量MPFC与MPFC_SVM，本文提出的新型三矢量MPFC具有良好的稳态性能以及更低的开关频率，最终通过实验验证了本文提出的新型三矢量MPFC的有效性。
+
+# 2 异步电机数学模型
+
+以定子电流 $i _ { \mathrm { s } }$ 和定子磁链 $\psi _ { \mathrm { { s } } }$ 为状态变量，异步电机在静止坐标系下的动态方程[14,16] 可以表示为
+
+$$
+p { \pmb x } = { \pmb A } { \pmb x } + { \pmb B } { \pmb u }
+$$
+
+其中
+
+$$
+\begin{array} { r l } & { \boldsymbol { x } = \left( \begin{array} { c c } { i _ { \mathrm { s } } } & { \psi _ { \mathrm { s } } } \end{array} \right) ^ { \top } } \\ & { \boldsymbol { A } = \left( \begin{array} { c c } { - \lambda ( R _ { \mathrm { s } } L _ { \mathrm { r } } + R _ { \mathrm { r } } L _ { \mathrm { s } } ) + \mathrm { j } \omega _ { \mathrm { r } } } & { \lambda ( R _ { \mathrm { r } } - \mathrm { j } L _ { \mathrm { r } } \omega _ { \mathrm { r } } ) } \\ { - R _ { \mathrm { s } } } & { 0 } \end{array} \right) } \\ & { \boldsymbol { B } = \left( \begin{array} { c c } { \lambda L _ { \mathrm { r } } } \\ { 1 } \end{array} \right) } \end{array}
+$$
+
+式中， $\lambda = 1 / ( L _ { \mathrm { s } } L _ { \mathrm { r } } - L _ { \mathrm { m } } ^ { 2 } )$ $p = \mathrm { d } / \mathrm { d } t$ 表示微分算子； $R _ { \mathrm { s } }$ ，$R _ { \mathrm { r } }$ ， $L _ { \mathrm { s } }$ ， $L _ { \mathrm { r } }$ ， $L _ { \mathrm { m } }$ ， $\omega _ { \mathrm { r } }$ 分别为电机定子电阻、转子电阻、定子电感、转子电感、定转子互感和电机转速；${ \pmb { \psi } } _ { \mathrm { s } }$ 为定子磁链。
+
+在实际应用当中，需要把电机数学模型式(1)离散来预测 $\left( k + 1 \right)$ 时刻的状态变量值，为了提高预测精度，本文采用二阶欧拉公式[17-18]来离散式(1)，可得
+
+$$
+\left\{ \begin{array} { l } { \displaystyle \boldsymbol { x } _ { \mathrm { p } } ^ { k + 1 } = \boldsymbol { x } ^ { k } + T _ { \mathrm { s c } } \left( \boldsymbol { A } \boldsymbol { x } ^ { k } + \boldsymbol { B } \boldsymbol { u } _ { \mathrm { s } } ^ { k } \right) } \\ { \displaystyle \boldsymbol { x } ^ { k + 1 } = \boldsymbol { x } _ { \mathrm { p } } ^ { k + 1 } + \frac { T _ { \mathrm { s c } } } { 2 } \boldsymbol { A } \left( \boldsymbol { x } _ { \mathrm { p } } ^ { k + 1 } - \boldsymbol { x } ^ { k } \right) } \end{array} \right.
+$$
+
+式中， $\boldsymbol { x } _ { \mathrm { p } } ^ { k + 1 }$ 与 $T _ { \mathrm { s c } }$ 分别为预测校正变量和控制周期;${ \pmb u } _ { \mathrm { s } }$ 为定子电压； $\mathbf { \boldsymbol { x } } ^ { k + 1 } = [ \mathbf { \dot { \eta } } _ { \mathrm { s } } ^ { k + 1 } ~ \boldsymbol { \varPsi } _ { \mathrm { r } } ^ { k + 1 } ] ^ { \mathrm { T } }$ 为预测得到的下一时刻的状态变量。因此下一时刻的电磁转矩 $T _ { \mathrm { e } } ^ { k + 1 }$ 能够被预测得到
+
+$$
+T _ { \mathrm { e } } ^ { k + 1 } = \frac { 3 } { 2 } N _ { \mathrm { p } } \frac { L _ { \mathrm { m } } } { L _ { \mathrm { r } } } \pmb { \psi } _ { \mathrm { r } } ^ { k + 1 } \circledast \pmb { i } _ { \mathrm { s } } ^ { k + 1 }
+$$
+
+式中， $N _ { \mathfrak { p } }$ 为电机极对数； $\textcircled { \times }$ 为叉乘； $\pmb { { \psi } } _ { \mathrm { r } }$ 为转子磁链矢量。
+
+# 3 新型三矢量MPFC
+
+图1为感应电机新型三矢量MPFC的整体控制框图，包括以下几部分：转速外环、定子磁链等效
+
+![](images/668852d8c1e9065524d2e53174df8c0091de040a91eb0a3d41b4df5465244b12.jpg)  
+图1异步电机新型三矢量MPFC框图  
+Fig.1Control diagram of a novel three-vectors-based MPFC for IM drives
+
+转换、目标函数、全阶观测器、矢量选择及占空比优化。本文不考虑弱磁运行，因此定子磁链幅值的参考值设为额定值。下面对各部分进行详细的介绍。
+
+# 3.1状态变量估计
+
+对于感应电机来说，定子磁链和电磁转矩通常无法直接得到，为了提高MPFC的控制性能，需要对电机的内部状态变量进行精确的估计。根据感应电机的数学模型来构造观测器对电机的内部状态变量进行估计。全阶观测器在较宽范围内都有很高的观测精度[19-20]，其数学模型可以表示为
+
+$$
+\frac { \mathrm { d } \hat { \mathbf { x } } } { \mathrm { d } t } = A \hat { \mathbf { x } } + B \pmb { u } + G \Big ( \pmb { i } _ { \mathrm { s } } - \hat { \pmb { i } } _ { \mathrm { s } } \Big )
+$$
+
+式中， $\hat { x } = \left( \begin{array} { l l } { \hat { i } _ { \mathrm { s } } } & { \hat { \psi } _ { \mathrm { s } } } \end{array} \right) ^ { \mathrm { T } }$ 以定子电流与定子磁链为状态变量； $G$ 为反馈增益矩阵；上标“^”表示观测值。
+
+在全阶观测器的设计中，反馈增益矩阵 $G$ 与自适应率系数的设计直接关系到系统的稳定性、鲁棒性以及收敛速度[19]。为了保证系统的稳定性与收敛性，本文采用极点左移的方法来设计增益矩阵并对其进行简化，最终得到一个常数增益矩阵[19]
+
+$$
+\mathbf { \nabla } G = - \left( \begin{array} { c } { 2 b } \\ { b \big / ( \lambda L _ { \mathrm { r } } ) } \end{array} \right)
+$$
+
+式中， $b$ 取 $- 4 0$ ，其已经被证明对于电机参数的变化具有很强的鲁棒性[20]，限于篇幅本文不再赘述。
+
+通过式（4）得到的状态变量可以估计出转子磁链矢量
+
+$$
+\hat { \pmb { { \psi } } } _ { \mathrm { r } } = \frac { L _ { \mathrm { r } } } { L _ { \mathrm { m } } } \hat { \pmb { { \psi } } } _ { \mathrm { s } } - \frac { 1 } { \lambda L _ { \mathrm { m } } } \hat { \pmb { i } } _ { \mathrm { s } }
+$$
+
+# 3.2等效定子磁链矢量转化
+
+传统的MPC以电磁转矩与定子磁链的幅值为控制目标，其相应的目标函数
+
+$$
+J _ { 1 } = \left| T _ { \mathrm { e } } ^ { \mathrm { r e f } } - T _ { \mathrm { e } } ^ { k + 1 } \right| + k _ { \psi } \left| \psi _ { \mathrm { s } } ^ { \mathrm { r e f } } - \left| \psi _ { \mathrm { s } } ^ { k + 1 } \right| \right|
+$$
+
+为了获取高性能的控制效果，需要设计合适的权重系数 $^ { [ 2 1 - 2 3 ] } k _ { \psi }$ ，但是到目前为止，权重系数的设计都是通过经验与仿真得到，缺乏必要的理论基础。因此在实际应用中，传统MPC具有一定的局限性。
+
+通过感应电机的内部关系式，可以把电磁转矩与定子磁链的幅值等效地转换成定子磁链矢量，从而省却了权重系数的设计，进一步提高了MPC的实用性。以该等效定子磁链矢量为控制目标，相应
+
+的目标函数为
+
+$$
+\begin{array} { r } { J _ { 2 } = \left| \psi _ { \mathrm { s } } ^ { \mathrm { r e f } } - \psi _ { \mathrm { s } } ^ { k + 1 } \right| } \end{array}
+$$
+
+在不考虑弱磁以及效率优化的情况下，定子磁链的幅值设为额定值，即
+
+$$
+\left| { \cal V } _ { \mathrm { s } } ^ { \mathrm { r e f } } \right| { = } { \cal V } _ { \mathrm { s } } ^ { \mathrm { r e f } }
+$$
+
+由于转子磁链矢量的估计值通过式（6）获得，把式（9）代入到式（3）可以得到转矩达到给定值时定子磁链矢量相角的参考值
+
+$$
+\angle { \psi _ { \mathrm { { s } } } ^ { \mathrm { r e f } } } = \angle { \psi _ { \mathrm { { r } } } } + \arcsin \left( \frac { T _ { \mathrm { { e } } } ^ { \mathrm { r e f } } } { \frac { 3 } { 2 } p \lambda L _ { \mathrm { { m } } } \left| \psi _ { \mathrm { { r } } } \right| \psi _ { \mathrm { { s } } } ^ { \mathrm { r e f } } } \right)
+$$
+
+通过式（9）与式（10）可以得到定子磁链矢量的参考值
+
+$$
+\begin{array} { r } { \psi _ { \mathrm { s } } ^ { \mathrm { r e f } } = \psi _ { \mathrm { s } } ^ { \mathrm { r e f } } \exp \left( \mathrm { j } \angle \psi _ { \mathrm { s } } ^ { \mathrm { r e f } } \right) } \end{array}
+$$
+
+由于数字系统中存在一拍延时[24-25]，在实际应用当中必须要补偿一拍延时对控制系统的影响，可以简单的总结如下：
+
+(1）通过式（4）得到 $\hat { \pmb { i } } _ { \mathrm { s } } ^ { k + 1 }$ ， $\hat { \psi } _ { \mathrm { s } } ^ { k + 1 }$ ，然后代入到式（6）得到 $\hat { \psi } _ { \mathrm { r } } ^ { k + 1 }$ 。
+
+（2）基于异步电机的电流模型能够得到 $\hat { \psi } _ { \mathrm { r } } ^ { k + 2 }$ 其表达式如下
+
+$$
+\psi _ { \mathrm { r } } ^ { k + 2 } = \psi _ { \mathrm { r } } ^ { k + 1 } + T _ { \mathrm { s c } } \left[ R _ { \mathrm { r } } \frac { L _ { \mathrm { s } } } { L _ { \mathrm { r } } } \pmb { i } _ { \mathrm { s } } ^ { k + 1 } - \left( \frac { R _ { \mathrm { r } } } { L _ { \mathrm { r } } } - \mathbf { j } \omega _ { \mathrm { r } } ^ { k + 1 } \right) \pmb { \mathscr { W } } _ { \mathrm { r } } ^ { k + 1 } \right] ( \mathbf { k } ) ,
+$$
+
+由于电气时间常数远小于机电时间常数[26-28],可认为ω=ωr。
+
+(3）通过 $\psi _ { \mathrm { r } } ^ { k + 2 }$ 可以得到定子磁链矢量的相角在$( k + 2 )$ 时刻的参考值如下
+
+$$
+\angle { \boldsymbol { \varPsi } _ { \mathrm { s } } ^ { \mathrm { r e f } } } = \angle { \boldsymbol { \varPsi } _ { \mathrm { r } } ^ { k + 2 } + \arcsin \left( \frac { \boldsymbol { T } _ { \mathrm { e } } ^ { \mathrm { r e f } } } { \frac { 3 } { 2 } p \lambda L _ { \mathrm { m } } \left| \boldsymbol { \varPsi } _ { \mathrm { r } } ^ { k + 2 } \right| \boldsymbol { \varPsi } _ { \mathrm { s } } ^ { \mathrm { r e f } } } \right) }
+$$
+
+(4）与式（11）类似，可以得到定子磁链矢量在 $( k + 2 )$ 时刻的参考值，从而求得补偿一拍延时之后的目标函数如下
+
+$$
+\begin{array} { r } { \boldsymbol { J } _ { 3 } = \left| \boldsymbol { \mathcal { W } } _ { \mathrm { s } } ^ { \mathrm { r e f } } - \boldsymbol { \mathcal { W } } _ { \mathrm { s } } ^ { k + 2 } \right| } \end{array}
+$$
+
+# 3.3矢量选择
+
+为了使MPFC获得更好的稳态性能，本文采用在一个控制周期内使用两个有效电压矢量以及一个零矢量类似于SVM的矢量选择，但与SVM不同的是，第一段电压矢量为上一个控制周期末段电压矢量的延续如图2所示，因此只需要在每个控制周期确定另外两个电压矢量。假设在每个控制内的作用电压矢量为 $\pmb { u } _ { \mathrm { o l d } }$ ， $\pmb { u } _ { i \setminus \pmb { u } _ { j } }$ ，显然零矢量的位置决定了算法的计算量，因此需要研究3个矢量的作用顺序如下所述：
+
+(1）如果 $u _ { \mathrm { o l d } }$ 为零矢量，那么 $\pmb { u } _ { i }$ ， $\pmb { u } _ { j }$ 均为有效电压矢量，对于两电平逆变器驱动的调速系统来说，一共有 $6 \times 6 = 3 6$ 种组合，其计算量非常大。这说明零矢量不适合安排在3个电压矢量的末段位置，否则会导致下一控制周期的计算量显著地增加。
+
+(2）如果 $u _ { i }$ 为零矢量，这意味着 $\pmb { u } _ { \mathrm { o l d } }$ ， $\pmb { u } _ { j }$ 为有效电压矢量，由于 $\pmb { u } _ { \mathrm { o l d } }$ 已经确定为上一个控制周期末段的电压矢量，只需要确定 $\pmb { u } _ { j }$ ，因此一共只有6次预测计算。而且由于 $\pmb { u } _ { j }$ 为有效电压矢量，下一控制周期重复此步顺序，依然只需要6次预测计算。
+
+(3）如果 $\pmb { u } _ { j }$ 为零矢量，根据第（1）点所述，会导致下一控制周期有36种组合，其计算量增大。
+
+综上所述，显然零矢量安排在中间位置时计算量最小，因此将3个电压矢量表述为： $\pmb { u } _ { \mathrm { o l d } }$ ， $\pmb { u } _ { 0 }$ ， $\pmb { u } _ { j \circ }$ （204其中， $\pmb { u } _ { \mathrm { o l d } }$ 为上一时刻的最优电压矢量， $\pmb { u } _ { j }$ 为待选电压矢量，如图2所示。
+
+![](images/839349c19aafb43bd8dbbaef74b70bc70989032513b6c3ed869a82fe32fe8bd4.jpg)  
+图2新型三矢量MPFC矢量选择框图  
+Fig.2Vector selection for novel three-vectors-based MPFC
+
+# 3.4矢量占空比优化
+
+根据3.3节可得新型三矢量MPFC电压矢量顺序为 ${ \pmb u } _ { \mathrm { o l d } } : { \pmb u } _ { 0 } : { \pmb u } _ { j }$ ，电压方程可以得到
+
+$$
+\pmb { \psi } _ { \mathrm { s } } ^ { k + 2 } = \pmb { \psi } _ { \mathrm { s 0 } } ^ { k + 1 } + t _ { 1 } \pmb { u } _ { \mathrm { o l d } } + t _ { 2 } \pmb { u } _ { j }
+$$
+
+$$
+\Psi _ { \mathrm { s 0 } } ^ { k + 1 } = \Psi _ { \mathrm { s } } ^ { k + 1 } - R _ { \mathrm { s } } i _ { \mathrm { s } } ^ { k + 1 } T _ { \mathrm { s c } }
+$$
+
+式中， $t _ { 1 } , t _ { 2 }$ 分别为 $\pmb { u } _ { \mathrm { o l d } } , ~ \pmb { u } _ { j }$ 的作用时间，因此零矢量的作用时间为 $t _ { 0 } = T _ { \mathrm { s c } } - t _ { 1 } - t _ { 2 }$ 。磁链矢量跟踪误差的平方为
+
+$$
+\psi _ { _ \mathrm { e r r } } ^ { 2 } = \left| \psi _ { s } ^ { \mathrm { r e f } } - \psi _ { s } ^ { k + 2 } \right| ^ { 2 } = \mathrm { R e } \left[ \left( \psi _ { s } ^ { \mathrm { r e f } } - \psi _ { s } ^ { k + 2 } \right) ^ { * } \left( \psi _ { s } ^ { \mathrm { r e f } } - \psi _ { s } ^ { k + 2 } \right) \right]
+$$
+
+将式（15）代入式（17)，然后分别对 $t _ { 1 }$ ， $t _ { 2 }$ 求偏导，可以得到两个有效电压矢量的作用时间如下
+
+$$
+t _ { 1 } = \frac { \left( \boldsymbol { \varPsi } _ { \mathrm { s } } ^ { \mathrm { r e f } } - \boldsymbol { \varPsi } _ { \mathrm { s 0 } } ^ { k + 1 } \right) \boldsymbol { \mathfrak { S } } \boldsymbol { u } _ { x } } { \boldsymbol { u } _ { \mathrm { o l d } } \boldsymbol { \mathfrak { S } } \boldsymbol { u } _ { x } }
+$$
+
+$$
+t _ { 2 } = \frac { \pmb { u } _ { \mathrm { o l d } } \circledast \left( \pmb { \psi } _ { \mathrm { s } } ^ { \mathrm { r e f } } - \pmb { \psi } _ { \mathrm { s 0 } } ^ { k + 1 } \right) } { \pmb { u } _ { \mathrm { o l d } } \circledast \pmb { u } _ { x } }
+$$
+
+# 4 仿真与实验结果
+
+# 4.1仿真结果
+
+基于本文提出的这种新型的三矢量MPFC，按照矢量顺序以及作用时间来控制逆变器的开通与关断，本文称之为MPFC_3VV。为了降低逆变器的非线性对三矢量MPFC的影响，按照伏秒平衡的原理，采用SVM的方式来控制逆变器的状态，本文简称之为 $\mathrm { M P F C } \_ { - } 3 \mathrm { V }$ 。此外引入基于空间矢量脉宽调制与MPFC相结合的控制方法作为性能对比，本文称之为MPFC_SVM。为了验证以上提到的三种控制算法的有效性，在一台 $2 . 2 \mathrm { k W }$ 感应电机调速平台上进行相应的仿真，感应电机参数见下表。最终在相同的开关频率下详细地比较了以上三种方法的控制性能。
+
+# 表仿真和实验参数
+
+Tab. Simulated and experimental parameters
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>UdV</td><td>540</td></tr><tr><td>Pn/kW</td><td>2.2</td></tr><tr><td>U/V</td><td>380</td></tr><tr><td>f/Hz</td><td>50</td></tr><tr><td>N</td><td>2</td></tr><tr><td>Tn/N· m</td><td>14</td></tr><tr><td>R/Ω</td><td>3.126</td></tr><tr><td>R/Ω</td><td>1.879</td></tr><tr><td>Lm/H</td><td>0.221</td></tr><tr><td>L/H</td><td>0.23</td></tr><tr><td>L/H</td><td>0.23</td></tr><tr><td>y/Wb</td><td>0.91</td></tr></table></body></html>
+
+对 $\mathrm { M P F C } _ { - } 3 \mathrm { V V }$ 、MPFC_SVM与MPFC_3V进行仿真时系统采样率分别设为 $1 0 \mathrm { k H z }$ 、5kHz和$1 0 \mathrm { k H z }$ 。图3为起动波形，预励磁之后电机马上加速到设定的转速 $1 ~ 5 0 0 \mathrm { r / m i n }$ 。然后在0.35s后突加额定负载，转速稍有跌落但迅速地恢复到设定值。图4为 $1 ~ 5 0 0 \mathrm { r / m i n }$ 正反转的仿真波形，从图4中可以看到，正反转切换过程平稳。图5为三种方法带额定负载运行时的平均开关频率比较。
+
+T   
+W.N/I 2010 0   
+qM/h 10   
+0   
+100 WWAWWMWMWW Wwwwwwww   
+A/   
+-10 0 0.050.10 0.15 0.200.250.30 0.35 0.40 0.450.50 t/s (a）MPFC_3VV   
+1000   
+500   
+0   
+u.N/I 2010 0   
+qM/h 105 0   
+A 10W 0 WWWWWWWW Wwwwwwww   
+-10 0 0.050.10 0.15 0.20 0.250.30 0.35 0.400.45 0.50 t/s (b）MPFC_SVM   
+1   
+W.N/I 2010 0   
+qM/ 105   
+4   
+0   
+A 10 WWWWWWWWWWWW MwwwWWW   
+-10 0 0.05 0.10 0.15 0.20 0.250.30 0.35 0.400.45 0.50 t/s (c）MPFC_3V
+
+从图5可知MPFC_3VV与MPFC_3V在全速范围内带额定载运行时平均开关频率分别为 $3 . 8 \mathrm { k H z }$ ，$7 . 2 \mathrm { k H z }$ 左右，为了实现公平比较，需要将MPFC_3VV与MPFC_3V的采样频率分别设置为 $1 3 \mathrm { k H z }$ 和
+
+(u)u/1)/ω 1500 500   
+-500   
+-1500   
+W.N/I 0 -10 -20   
+qM/h 10 0 10   
+A wwwwwww -10 0.30 0.350.40 0.450.500.550.600.650.70 t/s (a）MPFC_3VV   
+(uiu/1)/ 1500 500   
+-500   
+-1500b   
+W.N/I 0 -10 -20   
+qM/h 10 0 10   
+酒 w>wwwww -10 0.300.350.40 0.450.500.55 0.600.650.70 t/s (b）MPFC_SVM   
+(uiu/1)/ 1500 500   
+-500   
+-1500   
+w.N/I 0 -10 -20   
+qM/h 105 0 10   
+A w>Wwww 10 0.300.350.40 0.450.500.55 0.600.650.70 t/s (c）MPFC_3V
+
+$7 \mathrm { k H z }$ ，使得这两种方法的平均开关频率为5kHz,从而与7段式MPFC_SVM的开关频率基本上一致。
+
+图6与图7分别是以上三种方法在相同的开关频率下带额定负载运行时电机的转矩与磁链脉动大小的比较，从图6与图7中可知，MPFC_3VV的转矩与磁链脉动要明显地低于MPFC_3V，而MPFC_SVM的转矩脉动最大，说明本文提出的MPFC_3VV具有良好的稳态性能。
+
+![](images/5b9a9a2e3478dbf448be05b902c8d8c6fb4d320a270cfb6be0dd4511d3a2ddfe.jpg)  
+图4 $1 5 0 0 \mathrm { r / m i n }$ 正反转仿真波形  
+Fig.4Simulated speed reversal at $1 5 0 0 \mathrm { r / m i n }$ for MPFC_3VV、 MPFC_SVMand MPFC_3V   
+图5平均开关频率的比较  
+Fig.5Comparison of average switching frequency   
+图6满载时转矩脉动比较  
+Fig.6Comparison of torque ripple with rated load   
+图7满载时磁链脉动比较   
+Fig.7Comparison of flux ripple with rated load
+
+0.50 MPFC-3VV MPFC-SVM MPFC-3V   
+0.45   
+0.40   
+0.35   
+0.25   
+0.20   
+0.15 山   
+0.10   
+0.05 0 150 750 1500 转速/(r/min)
+
+0.010 MPFC-3VV 0.009 MPFC-SVM MPFC-3V 0.008 0.007 M/ 0.006 0.005 0.004 0.002 三 0.001 0 150 750 1500 转速/(r/min)
+
+图8为三种方法在相同的开关频率下带额定负载运行时电流THD的比较，从图8可得，在全速范围内相比MPFC_3V，MPFC_3VV的电流THD更少，MPFC_3VV的电流谐波含量与MPFC_SVM差不多。综上所述，相比MPFC_3V与MPFC_SVM在转矩脉动以及电流THD方面，本文提出的MPFC_3VV具有良好的稳态性能，同时限于文章篇幅原因，4.2节将只给出 MPFC_3VV的实验波形。
+
+4.0 MPFC-3VV JMPFC-SVM MPFC-3V 3.5 (%)H电 3025 2.0 山 1.5 1.0 0.5 0 150 750 1500 转速/(r/min)
+
+# 4.2实验结果
+
+除了仿真验证，也在两电平交流调速实验平台验证本文提出的新型三矢量MPFC（MPFC_3VV)的有效性。实验装置如图9所示，电机参数和系统采样频率与仿真一样，见上表。实验中采用DSPTMS320F28335来执行主算法，通过磁粉制动器来加负载。1通道为实际测量转速，2通道为估计的电磁转矩，3通道为估计的定子磁链幅值，4通道为实测的a相电流。
+
+![](images/c52861a1c3e01f78908a1e81f31b86ededa2660dbd34157b7627d63028004b80.jpg)  
+图8带载时电流THD比较  
+图9两电平异步电机实验平台Fig.9Experimental setup of two-level IM drive
+
+图10为MPFC_3VV从静止起动到 $1 ~ 5 0 0 \mathrm { r / m i n }$ 的实验波形。首先经过直流预励磁，然后电机迅速加速至额定转速，整过起动过程非常平稳且电流非常小。除了动态实验的验证，本文还测试了此算法的稳态实验，图11为电机在额定转速下带额定负载运行实验波形，从图可以看出，算法具有良好的稳态性能与带载能力，系统运行平稳，电流波形光滑且呈正弦形。
+
+![](images/fa757dc77d6a9af4e72fc4b764d1de0854eb3d6ab7745c8c437c51907d0d427f.jpg)  
+Fig.8Comparison of current THD with rated load   
+图10 $0 \sim 1 5 0 0 \mathrm { r / m i n }$ 空载起动波形
+
+![](images/619feee384063ecc9031cee9f7b08c01f641d13421ee95576f8772b6be3bcc7c.jpg)  
+Fig.10Starting response from standstill to $1 5 0 0 \mathrm { r / m i n }$   
+图11 $1 5 0 0 \mathrm { r / m i n }$ 带额定负载运行波形  
+Fig.11Steady state of $1 5 0 0 \mathrm { r / m i n }$ with $100 \%$ rated load
+
+# 5 结论
+
+本文详细地研究了三矢量模型预测磁链控制，提出的新型三矢量MPFC（MPFC_3VV）具有计算量小、矢量选择简单且开关频率低等优点，同时也解决了传统MPTC中权重系数选择困难，以及传统三矢量MPFC中矢量选择繁琐且计算量大等问题。
+
+为了降低三矢量中逆变器非线性对控制性能的影响，提出了一种改进型的三矢量MPFC（MPFC_3V）。为了比较三矢量MPFC的性能，基于空间矢量脉宽调制的MPFC（MPFC_SVM）被引入作为对比。通过比较可得，在相同的开关频率下MPFC_3VV的转矩与磁链脉动以及电流THD要明显地低于MPFC_3V，而MPFC_SVM的转矩脉动最大，说明相比MPFC_3V与MPFC_SVM，本文提出的MPFC_3VV具有良好的稳态性能以及更低的开关频率。最终通过实验验证了本文提出的新型三矢量MPFC的有效性，从而扩大了MPFC在工业中的应用范围。无论是稳态性能还是动态性能，本文提出的新型三矢量MPFC都能够满足高性能交流电机控制领域当中的性能要求。
+
+# 参考文献
+
+[1] Casadei D, Profumo F, Serra G,et al. FOC and DTC: two viable schemes for induction motors torque control[J]. IEEE Transactions on Power Electronics, 2002, 17(5): 779-787.   
+[2] Zhang Y, Zhu J, Zhao Z, et al. An improved direct torque control for three-level inverter-fed induction motor sensorless drive[J]. IEEE Transactions on Power Electronics,2012,27(3):1502-1513.   
+[3] Buja G S,Kazmierkowski MP.Direct torque control ofPWM inverter-fed AC motors -a survey[J]. IEEE Transactions on Industrial Electronics,20o4,51(4): 744-757.   
+[4] BeertenJ,VerveckkenJ,DriesenJ.Predictive direct torque control for flux and torque ripple reduction[J]. IEEE Transactions on Industrial Electronics,2010, 57(1): 404-412.   
+[5] Zhang Y, Zhu J. A novel duty cycle control strategy to reduce both torque and flux ripples for dtc of permanent magnet synchronous motor drives with switching frequency reduction[J].IEEE Transactions on Power Electronics,2011,26(10):3055-3067.   
+[6] 王成元，夏加宽，孙宜标．现代电机控制技术[M]. 北京：机械工业出版社，2009.   
+[7] Holtz J, Stadtfeld S.A predictive controller for the stator current vector of ac machines fed from a switched voltage source[C].IEEE International Power Electronics Conference,Tokyo,1983:1665- 1675.   
+[8] Cortes P, Kazmierkowski M, Kennel R,et al. Predictive control in power electronics and drives[J]. IEEE Transactions on Industrial Electronics,2008, 55(12): 4312-4324.   
+[9] Geyer T, Papafotiou G,Morari M.Model predictive direct torque control; part I: concept, algorithm, and analysis[J]. IEEE Transactions on Industrial Electronics, 2009,56(6): 1894-1905.   
+[10]Mitja Nemec,David Nedeljkovi'c, Vanja Ambrozic. Predictive torque control of induction machines using immediate flux control[J]. IEEE Transactions on Industrial Electronics, 2007, 54(4): 2009-2017.   
+[11]Zhang Y, Yang H, Xia B. Model predictive control of induction motor drives: flux control versus torque control[J]. IEEE Transactions on Industry Applications, 2016, 99: 1-11.   
+[12] Zhang Y, Yang H. Two-vector-based model predictive torque control without weighting factors for induction motor drives[J]. IEEE Transactions on Power Electronics,2016,31(2): 1381-1390.   
+[13]Zhang Y, Zhu J. Direct torque control of permanent magnet synchronous motor with reduced torque ripple and commutation frequency[J]. IEEE Transactions on Power Electronics,2011,26(1): 235- 248.   
+[14]Zhang Yongchang, Yang Haitao. Model predictive torque control of induction motor drives with optimal duty cycle control[J]. IEEE Transactions on Power Electronics,2014,29(12): 6593-6603.   
+[15]Zhang Y, Yang H. Model predictive flux control of induction motor drives with switching instant optimization[J]. IEEE Transactions on Energy Conversi0n,2015,30(3): 1113-1122.   
+[16]Holtz J. The representation of AC machine dynamics by complex signal flow graphs[J]. IEEE Transactions on Industrial Electronics,1995,42(3): 263-271.   
+[17]Zhang Y, Yang H. Torque ripple reduction of model predictive torque control of induction motor drives[C]. IEEE in Energy Conversion Congress and Exposition, 2013: 1176-1183.   
+[18]Li Q, Wang N,Yi D. Numerical analysis[M].Beijing: Tsinghua University Press,2001.   
+[19]Zhang Y, Zhu J, Zhao Z,et al. An improved direct torque control for three-level inverter-fed induction motor sensorless drive[J].IEEE Transactions on Power Electronics,2012,27(3):1502-1513.   
+[20] Zhang Yongchang,Zhao Zhengming. Speed sensorless control for three-level inverter-fed induction motors using an extended luenberger observer[C].IEEE in Vehicle Power and Propulsion Conference,20o8:1-5.   
+[21] Rojas C,Rodriguez J,Villarroel F,et al. Predictive torque and flux control without weighting factors[J]. IEEE Transactions on Industrial Electronics,2013, 60(2): 681-690.   
+[22] 张永昌，杨海涛．感应电机模型预测磁链控制[J]. 中国电机工程学报，2015，35(3)：719-726. Zhang Yongchang,Yang Haitao.Model predictive flux control for induction motor drives[J]. Proceedings of the CSEE,2015,35(3): 719-726.   
+[23] Cortés P,Kouro S,La Rocca B,et al.Guidelines for weighting factors design in model predictive control of power converters and drives[C].IEEE International Conference on Industrial Technology, Gippsland, 2009: 1-7.   
+[24] Miranda H, Cortes P, Yuz J,et al.Predictive torque control of induction machines based on statespace models[J]. IEEE Transactions on Industrial Electronics,2009,56(6):1916-1924.   
+[25] Cortes P,Rodriguez J, Silva C, et al. Delay compensation in model predictive current control of a threephase inverter[J]. IEEE Transactions on Industrial Electronics,2012,59(2):1323-1325.   
+[26] Karamanakos P, Stolze P,Kennel R,et al.Variable switching point predictive torque cont rol of induction machines[J]. IEEE Journal of Emerging and Selected Topics in Power Electronics,2014,2(2):285-295.   
+[27] Rodriguez J,KennelR M,Espinoza JR,etal.Highperformance control strategies for electrical drives: an experimental assessment[J].IEEE Transactions on Industrial Electronics,2012,59(2): 812-820.   
+[28] Wang F,Zhang Z,Alireza Davari S,et al.An encoderless predicti ve torque control for an induction machine with a revised prediction model and efosmo[J].IEEE Transactions on Industrial Electronics,2014,61(12):6635-6644.

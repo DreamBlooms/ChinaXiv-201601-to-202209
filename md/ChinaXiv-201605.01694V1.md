@@ -1,0 +1,142 @@
+# 论文
+
+# 第25太阳周太阳黑子数峰值预测
+
+苗娟①②③，龚建村の，李志涛①，任廷领
+
+$\textcircled{1}$ 中国科学院空间科学与应用研究中心，北京100190;$\textcircled{2}$ 中国科学院大学，北京100049;  
+$\textcircled{3}$ 宇航动力学国家重点实验室，西安710043  
+\*联系人,E-mail: miaoj@nssc.ac.cn
+
+收稿日期:2015-03-11；接受日期:2015-03-31；网络出版日期:2015-07-30宇航动力学国家重点实验室开放基金项目(编号:2014ADL-DW0303)和国家重点基础研究发展计划(编号:2012CB825606)资助项目摘要本文通过对历史太阳周的峰值、上升期、下降期等特征参数的统计分析，给出了峰值变化与上升期之间的三类线性拟合关系，两个太阳周峰值之间长度与下降期的两类拟合关系，并通过分析太阳周的长期变化周期和第10周之后的偶、奇数峰值的变化规律，给出第25太阳周的预测结果：预计第25太阳周在2020年6月前后开始，该周会比第 24太阳周强，太阳黑子数峰值为 $1 1 9 . 2 { \pm } 5 . 5$ ，峰值强度类似于第17太阳周和23太阳周.
+
+关键词 太阳周，峰值，上升期，下降期PACS: 96.50.Wx, 96.60.-j, 96.60.Q-, 96.60.qddoi:10.1360/SSPMA2015-00097
+
+# 1引言
+
+空间环境对航天活动的影响越来越受到技术部门的关注，无论是航天器设计、发射和回收，还是飞行计划编制、轨道飞行姿态控制操作等，都需要考虑空间环境的影响．太阳活动是空间环境的扰动源头，是引起空间环境灾害性事件的主要原因．太阳活动水平的高低直接影响到近地空间环境状态(大气环境、电离层环境等).在太阳活动剧烈变化的情况下，大气密度可达到数倍的变化幅度，严重影响正常的轨道维持．因此对太阳活动的准确预报是空间环境预报的重要课题之一.
+
+在太阳活动预报研究中，沃尔夫太阳黑子数是经常用于表示太阳活动水平的指数之一，它是由日面上的黑子群数与黑子个数组合得到[1]．尽管它不如太阳在 $2 8 0 0 ~ \mathrm { M H z }$ 的辐射流量密度或黑子群面积总数[2等指数那样具有明确的直观性和物理意义，但它有长达二百多年的观测历史，作为一个统计量能清楚地反映出太阳活动的周期性[3]．作为太阳活动区的核心成员它与太阳耀斑[4]、日冕物质抛射[5.6]等活动现象的产生有较好的统计相关，因而它比其他太阳指数更多地应用于太阳活动物理、空间天气和地球物理等领域．在分析太阳黑子数的长期变化、评价长期太阳活动水平时，广泛使用的是太阳黑子数月均值的平滑值(即平滑月均值)．该值是国际上界定太阳周的位相和黑子数极值的参量，因此也是太阳周预报的
+
+主要预报量.
+
+由于太阳黑子数可能存在约有 $2 5 \%$ 的不确定度[，对太阳黑子数的预报仍然是一个十分艰巨的任务．近百年来研究者采用了各种各样的方法对太阳活动(特别是峰值)进行预报：黑子数长短周期法、黑子数峰值变化趋势法、奇/偶周法、时间序列法、地磁先兆法、相似周法及发电机模型等．在第23太阳周以前，由于先兆方法在连续几周(20-22)进行了较为准确的预报，因而这种方法被普遍接受，由此也促进了太阳发电机模型的发展[8]，但这种方法在第 23周却失效了，得到的预报结果普遍偏高．科学工作者为了提高预报效果提出了一些新的参量，如拐点处的斜率[9]、黑子相对数与地磁指数的相对变化率[10]等.Li[11],Kane[12]和Pishkalo 等人[13]曾对第 22周、23周及24周的预报结果进行了比较，可以看到，由于研究者采用方法的不同，对同一参数的预报结果差异也比较大，比如第 24周的太阳黑子数峰值预报结果最小为50，最大达到190.通过大量的预报方法和预测效果比对来看，目前还没有一种方法对最近的几个太阳周都做出了较准确的预报，太阳周峰值预报仍然是一个有待解决的问题.
+
+通过统计分析以往各太阳周参数间的变化特征，从中寻找出与未来太阳周相关的先兆因子并进行预测，这在太阳周长期预报方法中最为常见．Wang[14],Li[5],Du 等人[1]通过统计分析上升期与峰值的关系预测第 24 周的峰值及时间;Jain[17],Hathaway 等人[18]分别开展了地磁与太阳黑子的变化统计分析；Du 等人[19,20]通过统计分析提出了一种加权方法预测峰值,Badalyan[21开展冕绿线与太阳黑子的相关性来进行黑子数预测．本文对典型太阳周特征参数间的变化关系进行统计分析，并按其变化特征进行不同分类和公式拟合，最后给出第25周预报结果，并与已发表的预报结果进行比较.
+
+# 2数据和统计方法
+
+对一个太阳周中每个月的太阳活动水平的预报，是以太阳黑子数平滑月均值作为预报量.式(1)给出了第 $i$ 月黑子数平滑月均值 ${ \bar { M } } _ { i }$ 的定义
+
+$$
+\bar { M } _ { i } = \frac { 1 } { 1 2 } \Biggl [ \frac { 1 } { 2 } ( M _ { i - 6 } + M _ { i + 6 } ) + \sum _ { j = i - 5 } ^ { i + 5 } M _ { j } \Biggr ] ,
+$$
+
+式中 $M _ { i }$ 为由观测得到的第 $i$ 月的太阳黑子数月均值，一个太阳周中， ${ \bar { M } } _ { i }$ 的极小值及极大值常分别记为$\overline { { M } } _ { \mathrm { m i n } }$ 和 $\bar { M } _ { \mathrm { m a x } }$ ，上升期的时间长度记为 $R$ ，下降期的时间长度记为 $D$ ，这些量和 $\overline { { \boldsymbol { M } } } _ { i }$ 的时变曲线的形态特点，共同描述了一个太阳周的太阳活动水平的演化概貌．为方便统计，本文中定义了相邻两个太阳周分别为第 $n$ 周和第 $^ { n + 1 }$ 周的特征参数，如图1所示．第$n$ 周的峰值为 $\bar { M } _ { \mathrm { m a x } } ( n )$ ，上升期为 $R ( n )$ ，下降期为 $D ( n )$ 第 $^ { n + 1 }$ 周的峰值为 $\bar { M } _ { \mathrm { m a x } } ( n { + } 1 )$ ，上升期为 $R ( n { + } 1 )$ ，两个太阳周峰值 $\bar { M } _ { \mathrm { m a x } } ( n )$ ， $\bar { M } _ { \mathrm { m a x } } ( n { + } 1 )$ 间的时间长度表示为 $K ( n , n { + } 1 )$
+
+本文统计过程中采用的数据是国际公开发布的太阳周黑子数相关特征参数．国际上沃尔夫太阳黑子数月均值从 1749 年 1月开始记录，根据公式(1),太阳黑子数第一个平滑月均值从1749年7月开始记录，而国际上第一个太阳周是从1755年3月开始算起，目前处于第 24太阳周．本文统计数据从1749 年7月起,为便于说明，定义该周为第0太阳周．在2002 年，Wang 等人[14]曾经统计过峰值与上升期之间的关系,并按照上升速度划分为高上升速度和低上升速度两类，统计中不包含第0太阳周.本文通过对0-23周上升期 $R ( n )$ 与峰值 $\bar { M } _ { \mathrm { m a x } } ( n )$ 的统计关系发现，24个周的峰值与上升时间的分布特征可以通过三类拟合关系来反映：第一类包括1,5，7,19周，第二类包括0,9,21周，其余太阳周属于第三类．图2给出了三类线性拟合关系及相关系数，可以看到，三种线性拟合都具有很好的相关性，相关系数分别为-0.998，-0.984和$- 0 . 9 6 3$ ．按照三类线性拟合关系，本文给出了0-23周峰值 $\bar { M } _ { \mathrm { m a x } } ( n )$ 随上升期 $R ( n )$ 的线性拟合公式.
+
+![](images/966a9bba47aab82d0d71d501f379f2900307e294f736d78a118f2c27a709f840.jpg)  
+图1太阳周特征参数定义 Figure1Definitions of parameters for solar cycle.
+
+![](images/3f4debe0ed4ae4006066f0cbcc5658904c86844672ec493fa1e56e2590addcb4.jpg)  
+图2 (网络版彩图)0-23太阳周上升期 $\pmb { R } ( \pmb { n } )$ 与峰值 $\bar { M } _ { \mathrm { m a x } } ( n )$ 的变化关系 Figure 2(Color online）Relationship between $\boldsymbol { R } ( \boldsymbol { n } )$ and $\bar { M } _ { \mathrm { m a x } } ( n )$ for $n { = } 0 , 1 , 2 , \cdots , 2 3$
+
+第1,5,7和19周峰值与上升期变化符合拟合公式(2)，拟合结果与实测值的均方根差为 $\Delta M { = } 1 . 4 6$ （24
+
+$$
+\begin{array} { r } { \bar { M } _ { \mathrm { m a x } } ( n ) = 3 6 2 . 6 5 - 4 4 . 5 3 R ( n ) . } \end{array}
+$$
+
+第0,9 和 21周峰值与上升期符合拟合公式(3),拟合结果与实测值的均方根差为 $\Delta M { = } 6 . 1 1$
+
+$$
+\begin{array} { r } { \bar { M } _ { \mathrm { m a x } } ( n ) = 3 1 7 . 2 4 - 4 2 . 4 7 R ( n ) . } \end{array}
+$$
+
+其余太阳周(包括第 $2 \mathrm { - } 4 , 6 , 8 , 1 0 \mathrm { - } 1 8 , 2 0 , 2 2$ 和23)变化符合拟合公式(4)，拟合结果与实测值的均方根差为 $\Delta M { = } 5 . 4 6$ 元
+
+$$
+\begin{array} { r } { \bar { M } _ { \mathrm { m a x } } ( n ) = 2 6 3 . 3 3 - 3 7 . 9 2 R ( n ) . } \end{array}
+$$
+
+通过上面统计分析，本文将目前已有的0-23个太阳周按照峰值与上升期的关系划分为三种类型的变化并给出相应拟合公式．如知道一个太阳周上升期，便可以通过相关拟合公式预测其峰值的变化范围．根据公式(2)-(4)，要预测第 25 周峰值，就需要知道第25周上升期长度．为确定第 25周的上升期，本文对 $R ( n ) , D ( n )$ 及 $K ( n , ~ n { + } 1 )$ 各个参数进行了统计，图3给出了0-23周中 $K ( n , \ n { + } 1 )$ 随 $D ( n )$ 分布关系．可以看到下降期 $D ( n )$ 和 $K ( n , \ n { + } 1 )$ 具有很好的相关性，并通过线性拟合关系发现，用两类拟合关系来表示其分布更为合适．第一类为 $K ( 0 , 1 )$ ， $K ( 4 , 5 )$ ， $K ( 5 , 6 )$ 和$K ( 6 , 7 )$ ，相关系数为0.995，其余属于第二类，相关系数为0.896.按照两类线性拟合关系，本文给出了0-23周下降期 $D ( n )$ 的与 $K ( n , n { + } 1 )$ 线性拟合公式.
+
+![](images/0234666d1b0b12c4ccc8a6ef730244b0752112d60ba96c5d3615519c596697bc.jpg)  
+图3 (网络版彩图)0-23太阳周下降期 ${ \pmb D } ( { \pmb n } )$ 与 $K ( n , n { + } 1 )$ 的变化关系Figure 3(Color online）Relationship between $D ( n )$ and $K ( n , n { + } 1 )$ for $n { = } 0 , 1 , 2 , \cdots , 2 3$ ：
+
+当 $n$ 为0,4,5和6时, $D ( n )$ 与 $K ( n , n { + } 1 )$ 的变化符合拟合公式(5)，拟合结果与实测值的均方根差为$\Delta T \mathrm { = } 1 . 1 1$ (a).
+
+$$
+K ( n , n + 1 ) = 4 . 0 9 + 1 . 2 3 D ( n ) .
+$$
+
+当 $n$ 为1-3,7-23时， $D ( n )$ 与 $K ( n , n { + } 1 )$ 的变化符合拟合公式(6)，拟合结果与实测值的均方根差为$\Delta T { = } 1 . 0 3$ (a).
+
+$$
+K ( n , n + 1 ) = 2 . 3 3 + 1 . 2 4 D ( n ) .
+$$
+
+# 3第25太阳周预测结果和讨论
+
+通过统计分析，第二节中给出了第 $n$ 活动周峰值$\bar { M } _ { \mathrm { m a x } } ( n )$ 随上升期 $R ( n )$ 的拟合关系，第 $n$ 周下降期$D ( n )$ 与第 $n$ ， $^ { n + 1 }$ 周峰值间时间长度 $K ( n , \ n { + } 1 )$ 的拟合关系．即知道了第 $n$ 周的下降期，便可以预测第 $^ { n + 1 }$ 周的上升期 $( R ( n + 1 ) = K ( n , \ n + 1 ) - D ( n ) )$ ，从而可以预测$^ { n + 1 }$ 周的峰值大小.
+
+第24太阳周开始于2008年的12月，截至2014年12月，已经过了6年，从已发展的态势来看，第24周的确是一个比较弱的太阳周，太阳黑子平滑月均值在2012年2月达到一个小峰值66.9之后就开始现下降，之后近1年都在58附近振荡，从2013年5月开始缓慢上升，2014年4月达到第24太阳周以来的最高值 81.9，之后的5-8月逐渐下降，分别为 80.5,79.7，78.6和75.6.那么第24周的峰值是81.9？根据目前国际、国内预报机构(NASA，IPS，SEPC)的太阳黑子数平滑月均值预报结果,81.9将是第24周的峰值，之后将进入第24周下降期．图4是我们利用相似周方法22预测的第24周的平滑月均值的变化剖线与观测结果比较，从图中可以看到，我们预测的峰值小于实测结果，峰值出现时间为2014年5月，之后黑子数开始振荡下降.
+
+按照第24周峰值为81.9的情况，第24周的上升时间为5.4年，那么按照峰值随上升期的分布特征,第 24周更加符合图2中的第二类线性拟合关系，按照对应拟合公式(3)，计算峰值为 $8 7 . 9 0 { \scriptstyle \pm 6 . 1 1 }$ ，与已经出现的81.9相近.
+
+对于第24周的下降期预测，NASA和IPS的预测结果相近，NASA预测在2019年10月结束，IPS预测在2019年12月结束．本文按照相似周特征参数相似原则[21]，取第24周的相似周(第12,14周)的平均下降期为第24周的下降长度，即为 $( 6 . 2 { \pm } 0 . 4 ) \$ 年．由第二节中 $D ( n )$ 与 $K ( n , \ n { + } 1 )$ 的两类线性拟合关系可以看到，只有4个周属于第一类，且都处在第7周之前，其后第7-23周均符合第二类线性拟合特征．因此，本文认为 $n$ 为24时 $K ( 2 4 , 2 5 )$ 的变化应符合第二类拟合关系．因此应用公式(5)可得到 $K ( 2 4 , \ 2 5 )$ 为 $1 0 . 0 2 { \pm } 0 . 5 \$ 再由 $K ( 2 4 , 2 5 ) – D ( 2 4 )$ 可预测第25周上升期为 $3 . 8 { \pm } 0 . 1$ 即第 25周预计起始于2020 年6月前后，峰值将在2024年4月前后出现.
+
+![](images/0807f4595a9a18b03fd1e71591d31fcf61236aead3df8535102a64aa540678a2.jpg)  
+图4 (网络版彩图)相似周方法预测的第24周黑子数与观测值比较
+
+得到上升时间，即可通过上升期和峰值的拟合公式(2)-(4)对应计算得到第 25周的峰值分别为$1 9 3 . 4 { \pm } 1 . 5 \$ ， $1 5 5 . 8 { \pm } 6 . 1 \$ 和 $1 1 9 . 2 { \pm } 5 . 5$ ．那么，第25周的峰值属于哪类预报结果呢？太阳活动除了准11年的周期变化外，还具有长周期变化特征[23-27]，这已获等众多研究者的公认，且一些人认为正是因为太阳黑子受到了长周期的调制，才导致第23周众多预报结果不准．2010 年 Hathaway[28拟合给出了峰值随活动周数变化的正弦函数曲线，并认为峰值具有9.1个太阳周变化长周期．而最近一个峰值出现在第19周，第25周应处于9.1个太阳周变化长周期的第6周，将不会达到强活动周水平，但会强于第24周．根据偶数周与其后奇数周峰值变化情况(图5)，可以发现，从第10周以来除了第23周呈现异常之外，紧接偶数周之后的奇数周的峰值总高于其前面的偶数周黑子数，第11,13,15,17,19,21周皆如此，这也从另一个方面反映了按规律变化第25周峰值会高于第24周.
+
+综上所述，通过太阳周的长周期变化特征、偶数周和奇数周峰值的变化规律及拟合计算结果，本文认为，第25周不会太强，但峰值要高于第 24周，预计太阳黑子数峰值为 $1 1 9 . 4 { \pm } 5 . 5 \$ ．表1给出了其他作者[13.19,20,29-35对第25周的预测结果，可以看到，预测结果并不一致,Javaraiah[29]和Abdusamatov[30]认为第25周峰值在 50 左右，Hathaway[31]预测在 70 左右, $\mathrm { D u } ^ { [ 1 9 , 2 0 , 3 5 ] }$ 给出了102，111和144三个结果.本文的预测结果与
+
+![](images/f303cb116ac4d68600873f57a69e01805710ca5753a2266a0fefc77df9134aec.jpg)  
+Figure 4(Color online) Comparison of observation and prediction for cycle 24.   
+图510-24周偶数周及奇数周峰值变化 Figure 5Variation of maximum from Even cycle to odd cycle.
+
+表1第25太阳周预报结果Table1Predictions of solar cycle 25  
+
+<html><body><table><tr><td>作者</td><td>黑子数峰值</td><td>峰值出现时间</td></tr><tr><td>Javaraiah,2014[29]</td><td>50±10</td><td>1</td></tr><tr><td>Abdusamatov,2007[30]</td><td>50±15</td><td>1</td></tr><tr><td>Hathaway,Wilson,2004[31]</td><td>70±30</td><td>2023</td></tr><tr><td>Du,2006[19]</td><td>102.6±22.4</td><td>1</td></tr><tr><td rowspan="4">Pishkalo,2008[13]</td><td>110±11</td><td>1</td></tr><tr><td>112.3±33.4</td><td>2023.4±0.7</td></tr><tr><td>117</td><td>2024</td></tr><tr><td>121</td><td>2028.5</td></tr><tr><td>Du,2006[20]</td><td>111.6±17.4</td><td>1</td></tr><tr><td>Quassim,2006[32]</td><td>116</td><td>1</td></tr><tr><td>Hamid and Galal,2013[33]</td><td>118</td><td>2020-2030</td></tr><tr><td>Rigozo,2011[34]</td><td>132.1</td><td>1</td></tr><tr><td>Du,2006[35]</td><td>144.3±27.6</td><td>二</td></tr></table></body></html>
+
+Quassim[32],Hamid 等人[33]的结果一致.
+
+# 4结论
+
+几十年来，为准确预测太阳周的特征参量，特别是太阳黑子数峰值，太阳活动研究者不断在寻找新的预报方法和相关因子．由于目前的预报方法主要建立于对历史数据的统计分析基础上，预报方法的不同，结果会有很大差异，目前还没有一种方法对最近的几个太阳周都做出了较准确的预报，太阳周峰值预报仍然是一个有待解决的问题
+
+在工程应用中，为了满足任务需求，往往需要提供未来几十年的太阳活动预报，即在第24周还在进行中时，就需要知道第25周的太阳活动情况．基于此需求，本文对0-23太阳周的峰值、上升期、下降期和峰值之间的长度等几个典型特征参数进行统计分析．按照分布特征，把峰值随上升时间的关系划分为三类，两周峰值之间的时间随下降期的关系划分为两类，并给出相应的线性拟合公式．根据目前第24周的发展趋势和预报结果，以及太阳周的长周期变化特征和第10周之后的偶、奇数峰值的变化规律，给出第25周的预报：预计第25周在2020年6月前后开始，该周会比第24周强，峰值预计会在2024年4月前后出现，黑子数为 $1 1 9 . 2 { \pm } 5 . 5$ ，峰值强度类似于第17周和23周.
+
+致谢 中国科学院空间科学与应用研究中心空间环境研究预报中心、宇航动力学国家重点实验室对本工作的支持。
+
+# 参考文献
+
+1 Bary RJ,Loughhead RE.Sunspots.New York: John Wiley and Sones,1964.237-242   
+2ZhanLS,GuoL,ZhaoHJ,etal.Theshapeofsunspotcyclesdescribedbymonthlysunspotareas.olarPhys,2Oo5,23:43-158 3WangJL,FanYH,LinBS,etal.Apredictionofthesmothedmonthlysuspotumbersfortheascendingphaseofsolarcycle(in Chinese).The Pub Beijing Astron Obs,1975,5:47-55[王家龙，范岳华，林柏森，等．第21周上升段太阳黑子相对数的预计．北京天 文台台刊,1975,5: 47-55]   
+4TangYK,DengLH.Phaseasynchronybetweenflareindexandsunspotactivityphaseasynchronybetweenflareindexandsunspot activity.Sci China-Phys Mech Astron,2013,56:1981-1986   
+5WebbDF,JacksonBV.CharacteristsofCMEobservedintheHeliospereusingeliospotometerandi-sitdata.In:Solareestrial Predictions-V,Volume2.Boulder:NatioalOceanicandAtmosphericdministration,EnvironmentalResearchLaboratori，1993. 381-388   
+6WangJL.Slaractivitystudyinsolar-terestrialsystemscience (I)(inChinese).ProgGeopys,1994,9:1-1[王家龙.日地系统学中的 太阳活动研究(I).地球物理学进展,1994,9:1-11]   
+7 Vitinsky Yu I, Kopecky M,Kuklin G V.Statistics of Sunspot Activity.Moscow: Nauka,1986   
+8 JiangJ,ChatterjeeP,ChouduriAR.Soaractivityforecastwithadyamo model.MonNotRAstronSoc,OO,381:52-1542   
+9 LantosP.Predictionofthe maximumamplitdeofsolarcyclesusingtheascendinginflexiopoint.SolarPhys,2Ooo,196:2-225   
+10 Obridko VN.Some comments on the problem of solar cycle prediction.Solar Phys,1995,156:179-190   
+11 LiKJ,YunHSGuX.Onlogtepredictiosofteaisusptumbrsofsolarcleto.stroAsros,68: 258-291   
+12 KaneRP.Aprelimiarstimateof tesizeofthecomingsolarcycle4,baseonOsprecusormethod.SolarPys,,4:217   
+13 PishkaloMIPreliminaypredictionofsolarcycles24and25basedonthecorelationbeweencycleparameers.KinematicsPysCelestial
+
+Bodies,2008,24: 242-247 14Wang JL,GongJC,LiuS,etal,hepredictionofmaximumamplitudeofcycle24.ChinJAstronAsronphs,0,2:562 15LiKJ,GaoPX,SuTW.Estimatingthesizeandtimingofthemaximumamplitudeofsolarcycle24.ChinJAstronAstrophys,05,5: 539-545 16 Du ZL,Wang HN.Predictionthe solar maximum with the rising rate.Sci China-Phys Mech Astron,20l2,55:365-370 17 JainR.Predictionoftheamplitudeinsunspotccle24.I:Theroceedingsof36thCOPARScieticAssembly.eijing,6:642 18 HathawayDH,WilsonRM.Geomagneticactivityindicateslargeamplitudeforsunspotcycle24GeophysResLet,,:L1101 19 Du Z,DuS.Therelationshipbetweentheamplitudeanddescending timeofasolaractivitycycle.SolarPhys,2O06,238:431-437 20 Du ZL.Relationship between solar maximum amplitude and Max-Max cycle length.Astron J,2006,132:1485-1489 21 BadalyaOGObridkoVN,SykoraJBrightnessof tecoroalgreenandpredictionforactivityycles3and24olarPys0199: 421-435 22 WangJL,HanYB.Forecastofsmoothed monthly meansunspotnumbersforsolarcycle23.AstrophysRep-PubBeijing AstronObs,1997, 1(Suppl): 76-80 23 Gleissberg M N.A long-periodic fluctuation of the sun-spot numbers. Observatory,1939,62: 158-159 24 Garcia A,Mouradian Z.The gleissberg cycle of minima.Solar Phys,1998,180: 495-498 25 Rozelot JP.On the stabilityof the 11-year solar cycle period(and afew others).Solar Phys,1994,149:149-154 26 OgurtsovMG,NagovitsyYA,KocharovGE,etal.Long-perodcyclesoftheSun'sactivityrecordedinirectsolardataandproies. Solar Phys,2002,211: 371-394 27 HathawayDHWilsonRM,ReichmannEJ.Asythesisofsolarcyclepredictiontechiques.JGeophyRes,199,104:3788 28 Hathaway D H.The solar cycle.Living Rev Solar Phys,2010,7: 1 29 JavaraiahJ.Longtevarationinthortouthmmetryofsolactivitdolarepredicti,dictiofrepie of solar cycle 25.New Astron,2015,34: 54-64 30 AbdusmatovKhIOptimalpredictionofthepeakofthenext11-yearactivitycycleandofthepeaksofseveralsuceedingcyclesonthe basis of long-term variations in the solarradius orsolarconstant.Kinematics Phys Celestial Bodies,2Oo7,23:97-100 31 Hathaway DH,Wilson R M.What the sunspot record tells us about space climate.Solar Phys,2O04,24: 5-19 32 QuassimM,AtiaAFElminirH.Forecastingteakamplitudeofthe4and25uspotcysdaopainggeomageticactiity Solar Phys,2007,8: 243-253 33 HamidRH,GalalAA.An early predictionof the maximu amplitudeof the solar cycle 25.JAdvRes,2O13,4:275-278 34 Rigozo NR,SouzaEcherMP,EvangelistaH.Predictionofsunspot numberamplitudeandsolarcycle length forcycles24and25.J Atmospheric Solar-Terrestrial Phys,2011,73:1294-1299 35 Du ZL,Wang HN,HeXT.Anew methodtodetermineepochs of solarcycleextrema.ChinJAstron Astrophys,2O06,6:489-494
+
+# The prediction of maximum amplitude of solar cycle 25
+
+MIAO Juan1,2.3\*, GONG JianCun1,LI ZhiTao1 & REN TingLing1
+
+Center for Space Science and Applied Research,Space Environment Prediction Center,Chinese Academy of Science, Beijing 100190,China; 2 University of Chinese Academy of Sciences, Beijing 10o049,China; 3 State Key Laboratory of Astronautic Dynamics, Xi'an 710043,China
+
+In this paper,the corrlation between various parameters of solar cycles O-23 is investigated.The parameters include maximum,rising time and descending time.Three derived regresson equations are given between maximum and rising time.Two derived regression equations are given between descending time and total of descending time and next rising time.Additionally,according to the cycle periodicity of secular trend and the regularityof maximum between evencycles and folowing odd cycles,the predictionofcycle 25 is obtained.It is expected thatsolar cycle 25 willbegin in June 2O20 and will be relatively stronger than cycle 24.The sunspot number maximum of cycle 25 is predicted to occur in April 2O24 with a sunspot number of $1 1 9 . 2 { \pm } 5 . 5 \$ ，which will be nearly the same strength of cycle 17 and 23.
+
+# solarcycle,maximumamplitude,risingtime,descending time
+
+PACS: 96.50.Wx, 96.60.-j, 96.60.Q-,96.60.qd doi:10.1360/SSPMA2015-00097

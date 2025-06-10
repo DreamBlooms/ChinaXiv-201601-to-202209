@@ -1,0 +1,537 @@
+[
+    {
+        "type": "text",
+        "text": "亚热带喀斯特地区不同地形植物群落物种多度分布格局",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田力1,2，安明态 $^ { 1 , 2 ^ { * } }$ ，余江洪1,2，吴墨栩 1,2(1． 贵州大学 林学院，贵阳 550025；2．贵州大学 生物多样性与自然保护研究中心，贵阳 550025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探究亚热带喀斯特地区不同地形下植物群落物种多度分布格局，揭示不同地形下群落的物种多度格局形成的作用机制，丰富该地区植物群落构建理论，该文以贵州茂兰喀斯特地区山脊、槽谷、鞍部、洼地四种典型地形下植物群落的乔木层与灌木层为对象，统计物种多度，采用累计经验分布曲线（ECDF）表征多度分布格局，采取wilcoxon秩和检验探究不同地形之间物种多度的差异性。采用不同生态学模型进行多度拟合，利用Kolmogorov-Smirnov（K-S）检验与赤池信息量准则(AIC)检验模型接受与拟合优度。结果表明：(1）不同地形下植物群落的个体数量与物种数存在差异，鞍部个体数最多，洼地的物种数最多，山脊的个体数、物种数均最少。(2）不同地形下植物群落的乔木层物种多度格局无显著差异，而灌木层之间出现显著差异，山脊与鞍部、洼部，鞍部与槽谷、洼部都存在显著差异。(3）不同地形下乔木层物种多度对中性模型接受较好，其中山脊拟合最优，对生态位模型接受较差，仅山脊与鞍部通过两种生态位模型，拟合优度不及中性模型。而灌木层对中性模型接受也较好，鞍部拟合最优，对生态位模型接受较差，仅洼地通过断棍模型。且整体而言，乔木层比灌木层能更好接受两种生态学模型，可能乔木层物种多度格局有更明显生态过程的印记，但是不同地形下灌木层拟合优度差异更大，可能与灌木层物种对环境变化更剧烈有关。不同地形会引起群落构建不同程度的生态学过程，物种多度分布格局会逐渐适应地形。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地形，物种多度，模型拟合，喀斯特森林，茂兰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Species abundance distribution pattern of plant communities ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "in different terrains in subtropical karst area ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TIAN Li1,2,AN Mingtai1,2, YU Jianghong1,2, WU Moxu1,2. (1. College of Forestry, Guizhou University, Guiyang550025, China; 2. Research Center of Biodiversity and Nature Conservation, Guizhou University, Guiyang55oo25, China). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract : In-depth exploration of the species abundance distribution (SAD） pattern of plant communities under diferent terrains in the subtropical karst area can reveal the mechanism of formation of the SAD of the community under diferent terrains,thereby enriching the theory of plant community construction in this area. In this paper,the arbor layer and shrub layer of plant communities under four typical landforms of ridge,trough,saddle and depression in Maolan karst area of Guizhou Province were used as the objects. The empirical cumulative distribution function(ECDF) was used to characterize the SAD,at the same time,the Wilcoxon rank sum test was used to analyze the differences in species abundance between different terrains. Then different ecological models were used for fitting， and Kolmogorov-Smirnov (K-S） test and Akaike Information Criterion (AIC) were used to detect model acceptance and goodness of fit. The results were as follows:(1） There were differences in the number of individuals and species in plant communities under different terranes,the number of individuals in saddles was the most, the number of species in depressions was the most,and the number of individuals and species in ridges was the least. (2) There were significant differences among shrub layers,between ridge and saddle, between ridge and depression, between saddle and trough valley,and between saddle and depression, while there were no significant differences in the SAD of arbor layers in plant communities under different terrains.(3） The SAD of the arbor layer under different terrains was well accepted by the neutral model. The ridge fits best, but all terrains were poorly accepted by ecological models,only the ridge and saddle passed through the two niche models,and the goodness of fit was not as good as that of the neutral model. The shrub layer was also wellaccepted by the neutral model with the best fit of the saddle,but it was poorly accepted by the niche model,and only the depression passed the broken stick model. Overall, the arbor layer was more acceptable to the two ecological models than the shrub layer, probably because the SAD of the arbor layer had more obvious imprints of ecological processes.However,the difference in the goodness of fit of the shrub layer under different terrains is greater，which may be related to the more drastic changes of the shrub layer species to the environment. Consequently， different terrains lead to different ecological processes of community construction,and the SAD pattern gradually adapts to the terrain. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:terrain, species abundance,model fitting, karst forest, Maolan ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自从群落构建的确定性进程的问题被提出以来，针对这一方向的探索一直从未间断，也被认为是群落生态学研究领域的关键方向(Chunyuetal.,2017)。对于这一过程的研究产生了许多理论与假设，其中最具争议的当属生态位理论与中性理论(Dawn etal.,2017)，传统生态位理论提出群落中所有物种得以共存主要依赖于物种生态位的分化，是物种及其所处环境互相影响的结果(柴永福和岳明，2016)，但在研究过程中，某些物种生态位的生态性状产生相似性的重叠影响了研究成效(Daliang et al.,2020)，因此适用性受到质疑。群落中性理论的提出者 Hubbell等人则认为群落中各物种不存在生态功能的差异，随机效应和扩散的限制因素才是控制物种分布方面具有主导因素，这一理论在群落构建研究中另辟蹊径，为传统生态位观点的不足提供了较为完善的补充说明，但是中性理论过度强调随机性假设而忽略确定性过程的发掘(刘浩栋等，2020)，因此也饱受质疑。尽管过去两种理论在持久的争论中逐渐相互完善，但是都不能完全兼容群落构建中的现象，因此，近年来大多数生态学家逐渐将精力从两种理论的争论转向了两种理论的整合(牛克昌等，2009)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "群落物种的多度格局在群落生态学研究中作为的基础特征之一，是揭示物种组成结构、探索构建过程的关键手段，相较于多样性系数量化群落特性的作用，物种多度格局分析更为直观(苏强，2015)。最初物种多度格局用于动物群落结构研究，后引入植物群落，在揭示群落物种多度过程中，不断有新的理论与模型被提出，丰富了群落物种多度分布的研究方法，建立物种多度拟合模型分析群落构建的生态学过程是目前流行的研究方式(臧丽鹏，2019)。模型按照生态学意义可以大致可以分为生态位模型、中性模型与数学纯统计模型三大类，而数学纯统计模型由于其生态学意义未明晰(李全弟等，2019)，因此中性模型与生态位模型成为解释物种多度的两大重要模型，代表着两种生态学过程。目前物种多度格局研究聚焦于群落水平和物种水平，由于研究对象的多样性，对于物种多度内容仍在不断扩展，如程佳佳等(2011)研究了物种多度格局对取样尺度的响应表明了模型拟合效果随取样尺度发生变化，再有闫琰等(2012)研究发现物种多度分布也受群落演替阶段的影响，此外，植物生活型(白浩楠等，2021)、稀有种比例(刘旻霞等，2020)等因素也是物种多度分布的控制因素，但物种多度格局的构建是一个复杂的演替进程，其形成过程也与诸多环境因素与密不可分(王世雄等，2016)。在大尺度上受气候控制，在小尺度上受区域环境的诸多因素干扰，如地形、海拔等(王家鸣等，2018)，尤其地形异质性是影响群落物种多度格局重要因素，但是目前对这方面的研究较少，这限制了我们理解群落物种多度格局形成机制与环境的关联。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地形是控制物种多度分布的主要因素(孙永光等，2015)，地形异质性会直接影响光照、土壤养分(廖全兰等，2020)、群落特征(赵鹏等，2019)、植物功能性状等(陈晨等，2015)，进而影响群落多样性与空间分布特征，因此地形异质性对群落变化影响的研究已有先例，但是这方面的研究多数聚焦于常态地貌，对于喀斯特地形异质性的关注较为薄弱(张忠华等，2011)，相较于常态地貌，后者的生境变异较大，地形态势起伏不定，因此与环境资源的分布产生着重要联系(黄明芝等，2021)，与群落特征的关联性更强。贵州荔波作为中国南方喀斯特地貌主要组成之一，在喀斯特地貌世界地理分布上有重要地位(盛茂银等，2015)，该地区溶岩发育典型且强烈，峰丛错综复杂，土壤瘠薄并且临时性干旱频发(罗丝琼等，2020)，在这样严酷生境下，经过长期演替，形成了典型的、原始的喀斯特顶极森林群落。该地区物种丰富多样，生理生态特性高度适应当地环境，其独特的群落结构与形成机制一直是中外学者研究的重点，但是当前对该地区研究集中于土壤水热格局，凋落物动态，微生物等(秦随涛等，2018)，但是对该地区群落物种多度格局的研究分析较少，而对于该地区地形异质性下物种多度格局的研究更是欠缺，这限制了我们对亚热带喀斯特群落物种多度构建机制的认识，也这限制了我们了解环境因素对于群落物种多度格局的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究以贵州茂兰国家级自然保护区喀斯特顶极森林群落为研究区域，依托该地区山脊、槽谷、鞍部、洼地四种典型喀斯特地形下森林群落，采用物种调查与多度拟合的方法，通过wilcoxon 秩和检验、K-S 检验、赤池信息准则检验研究结果，拟探讨以下问题：（1）该地区不同群落主要物种组成、不同地形下物种数与个体数量及形成因素；(2）四种典型喀斯特地形下群落物种多度格局的差异及影响因素；(3）不同地形下群落物种多度构建的生态学过程。以期揭示该地区地形异质性下群落物种多度分布特征与物种多度格局形成过程，为亚热带喀斯特森林群落构建过程的研究提供理论基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究开展于贵州省南部的茂兰国家级自然保护区（图1），保护区的经纬度为$1 0 7 ^ { \\circ } 5 2 ^ { \\prime }  – 1 0 8 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E }$ ， $2 5 ^ { \\circ } 0 9 ^ { \\prime }  – 2 5 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N }$ 。保护区最高海拔与最低海拔差约 $6 0 0 \\mathrm { ~ m ~ }$ ，平均海拔 $8 0 0 \\mathrm { ~ m ~ }$ 上下。该地区的喀斯特溶岩形成强烈，并且该区域温湿适宜，拥有充沛的光水热资源，全年平均温度 $1 5 . 3 \\ \\mathrm { { ^ \\circ C } }$ ，降水量充沛，全年总计达 $1 7 5 0 . 5 \\ : \\mathrm { m m }$ 。保护区森林植被构成复杂，乔木层物种丰富，林下物种多样，空间利用率高。形成了在地球上同纬度地带少见的喀斯特森林生态系统。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc6c3103dd10642be5493138ac7cf093937c4d753fed4d787e5c5ec32852139f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样地设置与物种调查",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经考察选中茂兰国家级自然保护区白山附近，该区域植被原生性好并兼具多种地形。参照李宗发(2011)对贵州喀斯特地貌形态特征的界定，结合实际调查，选中山脊、槽谷、鞍部、洼地四种典型喀斯特地形，地形之间间隔大于 $1 5 0 \\mathrm { m }$ 且均未受人为干扰。样地面积以种-面积曲线为依据，设置样地调查最小面积 $9 0 0 ~ \\mathrm { m } ^ { 2 }$ 。按照国家标准《森林生态系统长期定位观测方法》(GB/T33027—2016)中的相关规范设置样地。每种地形设置3个 $3 0 \\mathrm { m } { \\times } 3 0 \\mathrm { m }$ 相连的标准样地，将每个样地划分为9个 $1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 样方。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在调查中发现，该地区群落分层明显，为避免植物生长状况引起统计偏差，因此参照袁泉等(2021)对于植物生长型界定，以群落中木本植物为对象，计树高（H) $\\geq 5 \\mathrm { ~ m ~ }$ 且胸径（DBH)$\\geq 5 \\mathrm { c m }$ 记录为乔木层，树高（H） $< 5 \\mathrm { { m } }$ 且胸径 $< 5 \\mathrm { c m }$ 的木本植物为灌木层，为避免统计遗漏，部分个体树高 $\\mathrm { ( H ) } \\geq 5 \\mathrm { m }$ 但胸径 $< 5 \\mathrm { c m }$ 作为亚乔木种计入乔木层，树高 ${ < } 5 \\mathrm { m }$ 但胸径 ${ \\because } \\cos \\mathbf { c m }$ 的植株则计入灌木层。在统计物种种类、株数、胸径、基径、高度的同时，记录每种地形的海拔、坡向、土壤类型、坡位等信息(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cad708c4eb2f9b9f7fc799ab5498f1b4ffa156bd8ad7c04b0d818f3b0ca9cbe2.jpg",
+        "table_caption": [
+            "表1样地基本信息",
+            "Table 1 Basic information of sample plot "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地形类型 Terrain type</td><td>海拔 Altitude (m)</td><td>坡度 Slope（°)</td><td>坡向</td><td>土壤类型</td><td>调查面积</td></tr><tr><td></td><td>759</td><td>45</td><td>Aspect 南</td><td>Soil type 石灰土</td><td>Investigation area (m²) 2 700</td></tr><tr><td>山脊 Ridge 槽谷 Valley</td><td>850</td><td>40</td><td>西南</td><td>石灰土</td><td>2 700</td></tr><tr><td>鞍部 Saddle</td><td>869</td><td>21</td><td>南</td><td>石灰土</td><td>2 700</td></tr><tr><td>洼地 Depression</td><td>845</td><td>13</td><td>全向</td><td>石灰土</td><td>2 700</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3物种多度表示方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为避免模型在进行数学处理和解释时会造成困难而难以比较不同的物种分布，因此本研究采用累积经验分布函数 (empirical cumulative distribution function,ECDF)(陈俊等，2018)，使用wilcoxon秩和检验对比不同地形的群落之间的物种多度差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 主要种组成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用物种重要值（importance value，IV）衡量群落中物种的重要程度(张田田等，2020)。以四种地形群落样地物种数据为基础，计算不同地形下乔木层与灌木层树种的重要值。重要值$\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （相对多度 $\\cdot +$ 相对频度 $+$ 相对显著度）/3。其中，相对多度 $\\vdots =$ 某一物种多度/所有物种多度和，相对频度 $\\ c =$ 某一物种出现频率/所有物种出现频率，乔木层物种的相对显著度 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ 某一物种胸高断总面积/所有物种胸高断总面积，灌木层物种的相对显著度 $\\vdots =$ 某一物种基部总面积/所有物种基部",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总面积。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 多度模型拟合及检验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 中性模型",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）复合群落零和多项式模型（meta community zero-sum multinomial，mzsm）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "零和多项式模型存在两点假设：一是假设在群落中所有生物的个体数总体没有变动,群落中不同物种多度变化是一个零和过程(Luis,BDA,etal.,2012)，如果一个物种多度的增加，会导致另一物种多度等量减少，双方得失相抵，总数为零；二是群落中个体物种的生存以及物种形成速率是一致的。该模型是中性模型的代表：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S ( n ) = \\frac { \\theta } { n } \\int _ { 0 } ^ { j } f _ { n , 1 } ( y ) ( 1 - \\frac { y } { J } ) ^ { \\theta - 1 } d y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f _ { n , \\delta } ( y ) = \\frac { 1 } { { \\varGamma } ( n ) \\delta ^ { n } } \\exp \\left( - \\frac { y } { \\delta } \\right) y ^ { n - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { r ( z ) = \\int _ { 0 } ^ { \\infty } t ^ { z - 1 } e ^ { - t } d t } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { ~  ~ J ~ }$ 为样地内的个体数，0是基本生物多样性指数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）volkov 模型（volkov model，volkov）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Volkov 模型是基于零和多项式模型提出的，该模型相较于后者多了1个迁移系数(Volkov,et al.,2003)，Volkov 模型公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { S } ( \\mathrm { n } ) = \\theta \\frac { J ! } { n ! ( J - n ) ! } \\frac { { \\Gamma } ( n + y ) } { { \\Gamma } ( J + \\gamma ) } \\int _ { 0 } ^ { \\gamma } \\frac { { \\Gamma } ( n + y ) } { { \\Gamma } ( 1 + y ) } \\frac { { \\Gamma } ( J - n + \\gamma - y ) } { { \\Gamma } ( \\gamma - y ) } \\mathrm { e x p } \\mathrm { ( } - \\frac { y \\theta } { \\gamma } \\mathrm { ) } d y } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { r ( z ) = \\int _ { 0 } ^ { \\infty } t ^ { z - 1 } e ^ { - t } d t } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\gamma = \\frac { m ( J - 1 ) } { 1 - m } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\gamma$ 为迁徙的总个体数， $\\mathbf { m }$ 为迁移系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 生态位模型",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）生态位优先模型或几何级数模型（Geometric seriesmodel，gs）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该模型假设最先进入的物种优先占有群落资源总和的 $\\mathrm { ~ k ~ }$ 份，而第2个进入的物种又占有余下总资源的 $\\mathbf { k }$ 份，即 $\\mathbf { k } ( 1 - \\mathbf { k } )$ 。后面的物种依次占据先前物种进入后余下总资源的k份，直到资源殆尽，群落达到饱和无法再容纳下一物种截止。 $A _ { i }$ 为第i个种的多度（WhittakerRH.1965）。公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { i } ( 1 - k ) ^ { i - 1 } ( i = 1 , 2 , 3 . . . , S )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)断棍模型（Broken-stick model，bs）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该模型假设某一环境的群落所有生态位为长为1的小棍，将这一小棍分为s段，代表着总体生态位被s个物种占据，模型假定s个物种拥有相等的系统分类地位与竞争力，且在群落中同时出现。 $\\mathrm { j }$ 表示群落内物种的个体总数， $A _ { i }$ 表示第i物种的多度(RobertHM.1957)。公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { A _ { i } = \\frac { j } { s } { \\sum _ { x = i } ^ { s } } \\frac { 1 } { x } ( \\mathrm { i } \\mathrm { - } 1 , 2 , 3 . . . , \\mathrm { S } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 纯统计模型",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)对数级数模型(Log-seriesmodel，ls)(马克平等，1997)，公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { S } ( \\mathrm { n } ) = \\alpha \\frac { X ^ { n } } { n } } & { { } ( \\mathrm { n } { = } 1 , 2 , 3 , 4 \\ldots ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中，S（n）表示多为 $\\mathfrak { n }$ 的物种数， $\\mathfrak { a }$ 代表群落内物种多样性。  \n（2）对数正态分布模型（Log normal model，lnorm）(PrestonFW.1948)，公式如下：$A _ { i } = e ^ { \\log { ( \\mu ) } + \\log { ( \\delta ) } \\varphi } ( \\mathrm { i } \\mathrm { = } 1 , 2 , 3 , \\mathrm { . . . , } \\mathrm { S } )$ (10)  \n式中， $\\mu$ 为正态分布的均值， $\\delta$ 代表方差，Ai为第i个物种的多度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6 拟合效果检验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采取Kolmogorov-Smirnov检验（K-S）来检验模型拟合接受情况，通过比较各自检验的显著性概率(p)；采用赤池信息量准则(Akaike Information Criterion,AIC)来验证拟合优度，其公式为： $A I C = - 2 \\ln { ( L ) } + 2 k$ ，通过该公式计算出的值来比较物种多度的拟合程度，AIC兼具简约性与最优性。本研究的数据处理与分析在Excel2010中完成，拟合与检验与绘图均在R-3.6.3软件中进行，其中模型拟合、绘图与AIC 检验在\"sads\"包中完成，K-S 检验在\"Matching\"包完成(Anchi W, et al., 2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1群落物种组成",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在四种地形群落样地内共调查到乔木1442株，根据计算重要值可知（表2)，在乔木层存在黄梨木（Boniodendron minus）、化香树（Platycarya strobilacea）、光皮木(Cornus wilsoniana）、齿叶黄皮（Clausena dunniana）、多脉青冈（Cyclobalanopsis multinervis）等主要物种；调查到灌木9005株，灌木层有九里香（Murraya exotica）、南天竹（Nandina domestica）、川桂（Cinnamomum wilsonii）、小叶柿（Diospyros mollis）、黄花恋岩花（Echinacanthus lofouensis）等主要物种；四种地形的群落个体数与物种组成见表3，由表可知，鞍部群落的个体数最高（3483株)。其次是槽谷（2864株）、山脊（1626株)，个体数最低的是洼地（2474株），不同地形物种数也存在差异，在乔木层，物种数量顺序：洼地 $>$ 槽谷 $>$ 鞍部 $>$ 山脊，在灌木层物种数顺序：洼地 $>$ 鞍部 $>$ 槽谷 $>$ 山脊，两个群落层次在物种数量呈相似的格局，且灌木层的物种数在不同地形下均高于乔木层的物种数，其中洼地群落的个体数虽然最少，但是其物种最为丰富（乔木65种，灌木140种)，而山脊地形的群落个体数与物种数均较低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/14ba90ae67cb8051b04f98800599546b3a3a9d87a861bdfe375adaa30d2aa4d2.jpg",
+        "table_caption": [
+            "表2 群落主要物种组成",
+            "Table 2 Main species composition of community ",
+            "表3不同地形群落的物种组成"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">排名Rank</td><td rowspan=\"2\">乔木Trees</td><td rowspan=\"2\">重要值Importance value</td><td rowspan=\"2\">灌木 Shrub</td><td rowspan=\"2\">重要值Importance value</td></tr><tr><td></td></tr><tr><td>1</td><td>黄梨木 Boniodendron minus</td><td>7.08</td><td>九里香 Murraya exotica</td><td>17.17</td></tr><tr><td>2</td><td>化香树 Platycarya strobilacea</td><td>6.60</td><td>南天竹Nandina domestica</td><td>10.97</td></tr><tr><td>3</td><td>光皮木Cornus wilsoniana</td><td>6.58</td><td>川桂 Cinnamomum wilsonii</td><td>9.52</td></tr><tr><td>4</td><td>齿叶黄皮Clausena dunniana</td><td>5.99</td><td>小叶柿 Diospyros mollis</td><td>5.46</td></tr><tr><td></td><td>多脉青冈 Cyclobalanopsis</td><td></td><td>黄花恋岩花Echinacanthus</td><td></td></tr><tr><td>5</td><td>multinervis</td><td>4.51</td><td>lofouensis</td><td>4.57</td></tr><tr><td>6</td><td>裂果卫矛 Euonymus dielsianus</td><td>4.48</td><td>齿叶黄皮 Clausena dunniana</td><td>2.78</td></tr><tr><td>7</td><td>天峨槭 Acer wangchii</td><td>4.03</td><td>香叶树 Lindera communis</td><td>1.82</td></tr><tr><td>8</td><td>小果润楠 Machilus microcarpa</td><td>3.86</td><td>杨梅叶蚊母树 Distylium myricoides</td><td>1.80</td></tr><tr><td></td><td></td><td></td><td>狭叶方竹Chimonobambusa</td><td></td></tr><tr><td>9</td><td>铁榄 Sinosideroxylon pedunculatum</td><td>3.28</td><td>angustifolia</td><td>1.64</td></tr><tr><td>10</td><td>小叶柿 Diospyros mollis</td><td>2.80</td><td>密花树 Myrsine seguinii</td><td>1.39</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f3551fe031d825b7df05e16df079d32d1edf1f3876a4c7cb16282f5d2c51ae8b.jpg",
+        "table_caption": [
+            "Table 3 Species composition of communities under different terrains "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地形类型Terrain types</td><td rowspan=\"2\">个体数Individuals number</td><td colspan=\"3\">乔木层 Tree layer</td><td colspan=\"3\">灌木层 Brushwood layer</td></tr><tr><td>科Family</td><td>属Genus</td><td>种 Species</td><td>科Family</td><td>属Genus</td><td>种 Species</td></tr><tr><td>山脊 Ridge</td><td>1 626</td><td>30</td><td>42</td><td>47</td><td>50</td><td>76</td><td>92</td></tr><tr><td>槽谷Valley</td><td>2864</td><td>34</td><td>41</td><td>53</td><td>61</td><td>100</td><td>132</td></tr><tr><td>鞍部 Saddle</td><td>3483</td><td>30</td><td>41</td><td>51</td><td>63</td><td>105</td><td>134</td></tr><tr><td>洼地 Depression</td><td>2 474</td><td>39</td><td>55</td><td>65</td><td>61</td><td>105</td><td>140</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2不同地形下群落物种多度分布格局",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "茂兰喀斯特森林群落四种喀斯特典型地形下群落物种的累计经验分布如图2所示。由图可知，不同地形下群落两种生长型物种的ECDF均呈现一定程度的S型，所有地形下群落均有较高的稀有种比例，且不同地形下群落的稀有种比例相近，而灌木层的比例比乔木层更高。根据wilcoxon秩和检验得知，不同地形下群落的乔木层ECDF之间并无显著性差异（ $\\cdot P { > } 0 . 0 5 )$ ，四种地形下群落的灌木层的物种多度存在显著差异，其中山脊与鞍部( $\\scriptstyle P = 0 . 0 4 9 { \\mathrm { , } }$ 、洼部（ $\\scriptstyle P = 0 . 0 0 4 8$ ）差异显著，鞍部与槽谷（ $\\scriptstyle P = 0 . 0 0 1 2 6 )$ 、洼部（ $\\scriptstyle P = 0 . 0 0 0 1 { \\mathrm { ~ , ~ } }$ ）也存在显著不同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "eressgeeeee 0 A + △ 区 ssoet B 8 △&△ 双数  \n8090 央我安 组<如十  \n大  \n40 & 星哦△山脊Ridge △山脊Ridge  \n鑫  \n70 谷 Valle 4 $^ +$ 糟Vadley  \n00 X洼地Depression 00 + X洼地Depression  \n0 10 20 30 40 0 100 200 300 400物种多度 Species abundance 物种多度 Species abundanceA.乔木层；B.灌木层。  \nA.Tree layer; B.Brushwood layer.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3不同地形下群落物种多度模型拟合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1不同地形植物群落乔木层物种多度模型拟合",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "四种喀斯特典型地形下森林群落乔木层的物种多度分布格局模型拟合效果见表4。经K-S检验与AIC检验发现，山脊的拟合优度顺序为中性模型 $>$ 纯统计模型 $>$ 生态位模型，其中对复合群落零和多项式模型接受最好（ $\\scriptstyle \\cdot \\mathrm { A I C } = 2 4 2 . 1$ )，对断棍模型拟合也较好（ $\\scriptstyle \\cdot \\mathbf { A I C } = 2 6 0 . 9$ )，而对于几何级数模型接受最差（ $\\scriptstyle \\cdot \\mathrm { A I C } = 1 8 6 2 . 6 )$ ，从图3中也可直观看出山脊地形的物种多度等级与几种模型多度等级的拟合效果，表明山脊地形下的物种多度构建机制不仅受中性过程控制，还受一定程度的生态位过程影响；槽谷对于中性模型与纯统计模型接受较好，且两种模型拟合效果差异很小，而对于生态位模型接受较差，断棍模型的拟合值为319.1，拒绝了几何级数模型，说明该地形下乔木层的物种多度构建主要以中性过程为主，断棍模型代表的生态位过程也发挥作用，几何级数模型代表的过程未明晰；鞍部对不同模型拟合效果与山脊相似，同时受生态位过程与中性过程控制，拟合优度的顺序为中性模型 $>$ 纯统计模型 $>$ 生态位模型，中性过程更加强烈；而洼地仅对中性模型接受较好，拒绝了两种生态位模型和纯统计模型中的对数正态分布模型，表明该地形物种多度构建的生态位过程不明晰或被掩盖，中性过程成为主要作用机制。由上述可知，山脊、鞍部这两种地形下乔木层的多度构建机制比较复杂，受两种生态学过程控制，槽谷、洼地则主要受中性过程控制。此外，不同地形下的群落有不同的基础多样性指数0与迁移系数 $\\mathrm { ~ m ~ }$ ，这与喀斯特地区较高的生境异质性有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/be580fef935d629153f76fb9b5ff963f194d46b14ac015d0b1d24281f0947007.jpg",
+        "table_caption": [
+            "表4不同地形植物群落乔木层物种多度的模型拟合",
+            "Table 4 Model fitting of species abundance in tree layer of different terrains "
+        ],
+        "table_footnote": [
+            "注：0.基础多样性指数；m．群落迁移系数。AIC.赤池信息准则；D.k-s 检验统计量。 $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 1$ ，表示拒绝该模型；mzsm.复合群落零和多项式模型；volkov.volkov模型；bs.断棍模型;gs.几何级数模型；Is.对数级数模型；Inorm.对数正态分布模型。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地形类型 Terrain type</td><td rowspan=\"2\">①</td><td rowspan=\"2\">m</td><td rowspan=\"2\">检验方法</td><td rowspan=\"2\">mzsm</td><td rowspan=\"2\">volkov</td><td rowspan=\"2\">bs</td><td rowspan=\"2\">gs</td><td rowspan=\"2\">1s</td><td rowspan=\"2\">lnorm</td></tr><tr><td>Test method</td></tr><tr><td rowspan=\"4\">山脊Ridge</td><td rowspan=\"4\">14.94</td><td rowspan=\"4\">0.88</td><td>AIC</td><td>242.1</td><td>244.2</td><td>260.9</td><td>1 862.6</td><td>242.22</td><td>251.8</td></tr><tr><td>D</td><td>0.022</td><td>0.022</td><td>0.217</td><td>0.261</td><td>0.022</td><td>0.174</td></tr><tr><td>P</td><td>1</td><td>1</td><td>0.227</td><td>0.0873</td><td>1</td><td>0.49</td></tr><tr><td>AIC</td><td>287.9</td><td>289.8</td><td>319.1</td><td>2 537</td><td>287.8</td><td>297.7</td></tr><tr><td rowspan=\"4\">槽谷Valley 鞍部 Saddle</td><td rowspan=\"4\">15.93</td><td>1</td><td>D</td><td>0.075</td><td>0.075</td><td>0.245</td><td>0.321</td><td>0.075</td><td>0.17</td></tr><tr><td></td><td>P</td><td>1</td><td>1</td><td>0.082</td><td><0.05*</td><td>1</td><td>0.43</td></tr><tr><td>19.65</td><td>AIC</td><td>296.9</td><td>299</td><td>318.5</td><td>2 342.6</td><td>297.1</td><td>309</td></tr><tr><td>0.88</td><td>D</td><td>0.086</td><td>0.086</td><td>0.224</td><td>0.241</td><td>0.086</td><td>0.19</td></tr><tr><td rowspan=\"4\">洼地Depression</td><td></td><td></td><td>P</td><td>0.98</td><td>0.98</td><td>0.109</td><td>0.068</td><td>0.98</td><td>0.25</td></tr><tr><td></td><td></td><td>AIC</td><td>344</td><td>345.9</td><td>386.3</td><td>2 732.9</td><td>343.8</td><td>363.9</td></tr><tr><td>26.54</td><td>1</td><td>D</td><td>0.081</td><td>0.081</td><td>0.257</td><td>0.324</td><td>0.081</td><td>0.257</td></tr><tr><td></td><td></td><td>P</td><td>0.97</td><td>0.97</td><td><0.05*</td><td><0.05*</td><td>0.97</td><td><0.05*</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note：0.Basic diversity index; m. Community migration coefficient; AIC.Akaike Information Criterion; D. Statistic of k-s test. $^ { * } P < 0 . 0 5$ ， $* * P < 0 . 0 1$ , indicating that the model is rejected; mzsm.Metacommunity zero-sum multinomial distribution model;volkov.Volkov model;bs.Broken-stick model;gs.Geometric series model; Is. Log-series model; Inorm.Log normal model. The same below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2不同地形植物群落灌木层物种多度模型拟合",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "四种喀斯特典型地形下森林群落灌木层的物种多度分布格局模型拟合效果见表5，经K-S检验与AIC 检验发现，山脊对于中性模型与纯统计模型接受较好且拟合优度接近，而拒绝了两种生态位模型；槽谷与鞍部对于三种理论模型的拟合接受情况与山脊相似，对于中性模型与纯统计模型的接受优于生态位模型；洼地对中性模型与纯统计模型的接受较好，拒绝生态位理论的几何级数模型，仅接受断棍模型的拟合（ $\\scriptstyle P = 0 . 5 7 4 { \\mathrm { , } }$ )，可知洼地灌木层物种多度的构建主要受中性过程主导，断棍模型代表的生态学过程也起一定作用（图4)。由上述可知，四种地形下植物群落灌木层的物种多度对几种理论模型的接受拟合情况与乔木层相似，中性模型、纯统计模型的适用性优于生态位模型，表明四种地形下植物群落灌木层的物种多度构建也主要以中性过程为主，灌木层物种多度对于生态位模型接受情况比乔木层更差，表明生态位过程在四种地形下灌木层物种多度构建的作用更弱或更难被揭示。而对比不同地形下两种生长型植物的物种多度拟合值发现，乔木层对于模型拟合值要优于灌木层，灌木层物种多度模型拟合值随地形的不同波动也更大。不同地形下植物群落的灌木层也有更高的基础多样性指数。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffc0b98a2c143f8c70017b4498e050bd13ea03668d55cb7c8976952f59f067ae.jpg",
+        "table_caption": [
+            "表5不同地形植物群落灌木层物种多度的模型拟合",
+            "Table 5 Model fitting of shrub species abundance in different terrains "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地形类型 Terrain type</td><td rowspan=\"2\">0</td><td rowspan=\"2\">m</td><td rowspan=\"2\">检验方法 Test method</td><td rowspan=\"2\">mzsm</td><td rowspan=\"2\">volkov</td><td rowspan=\"2\">bs</td><td rowspan=\"2\">gs</td><td rowspan=\"2\">1s</td><td rowspan=\"2\">lnorm</td></tr><tr><td></td></tr><tr><td>山脊 Ridge</td><td>20.1</td><td>0.72</td><td>AIC D</td><td>635.8 0.076</td><td>636.3 0.076</td><td>723.5</td><td>11 579</td><td>634.9 0.076</td><td>642.4</td></tr><tr><td rowspan=\"5\">槽谷 Valley</td><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td></td><td>0.95</td><td></td><td>0.315</td><td>0.359</td><td></td><td>0.098</td></tr><tr><td>P</td><td></td><td>0.95</td><td><0.01**</td><td><0.01** 17 933</td><td>0.95</td><td>0.77</td></tr><tr><td>AIC</td><td></td><td>862.9</td><td>863.8</td><td>1049.4</td><td>861.8</td><td>887.4</td></tr><tr><td>1 D</td><td>P</td><td>0.128 0.23</td><td>0.12 0.29</td><td>0.383 <0.01**</td><td>0.451</td><td>0.12 0.15</td></tr><tr><td>AIC</td><td></td><td>341.2</td><td></td><td></td><td><0.01** 0.29</td><td>0.1</td></tr><tr><td rowspan=\"3\">鞍部 Saddle</td><td rowspan=\"3\">9.44</td><td>0.22</td><td>D</td><td>0.25</td><td>334 0.182</td><td>351.7 0.341</td><td>5 035.3 0.318</td><td>340.9 0.273</td><td>319</td></tr><tr><td></td><td>P</td><td>0.13</td><td>0.46</td><td><0.05*</td><td><0.05*</td><td>0.08</td><td>0.182</td></tr><tr><td></td><td>AIC</td><td>498.9</td><td>497.3</td><td>521.7</td><td>4 228.5</td><td>499.2</td><td>0.46</td></tr><tr><td rowspan=\"3\">洼地 Depression</td><td>35.36</td><td>0.23</td><td>D</td><td>0.071</td><td>0.051</td><td>0.111</td><td>0.202</td><td>0.071</td><td>505.7 0.172</td></tr><tr><td></td><td></td><td>P</td><td>0.97</td><td>1</td><td>0.574</td><td><0.05*</td><td>0.97</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.11</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d807c559cc77850213106add37374e86408780127f969e037544adad8248d0f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "mzsm.复合群落零和多项式模型；volkov.volkov 模型；bs.断棍模型；gs.几何级数模型；Is.对数级数模型；   \nInorm.对数正态分布模型；观测值，表示物种多度。下同。   \nmzsm.metacommunity zero-sum multinomial distribution model; volkov.volkov model; bs.Broken-stick model; gs.   \nGeometric series model; Is.Log-series model; Inorm.Lognormal model. Observed value represents species abundance.The same below. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/79e632df96f3b35d7401486836d62c3ce6ad252f2eb7f18a2e1ecd47e2d5e6b8.jpg",
+        "img_caption": [
+            "图3不同地形下乔木层物种多度分布及模型拟合",
+            "图4不同地形下灌木层物种多度分布及模型拟合"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Species abundance distribution and model fiting of shrub layer under different terrains ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1群落物种组成",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "群落主要物种组成是决定群落性质的基本要素，而重要值是衡量群落中物种优势度的常用指标(郑俊鸣等，2021)。调查发现，乔木层存在黄梨木、化香树、光皮俫木、齿叶黄皮、多脉青冈等主要物种，在灌木层存在九里香、南天竹、川桂、小叶柿、黄花恋岩花等主要物种，群落的垂直层次存在差异。该地区整体坡度与小生境凹凸度较大，导致群落存在间隙为灌木物种提供生长空间，因此该地区森林群落不同生长型的物种组成差异明显；不同地形下群落有着不同的物种数量与个体数，在喀斯特地区土壤条件比常态地貌严峻，因此水热条件群落维持群落个体数量的重要条件(Chen,etal.,2009)，洼地、槽谷属于低洼地势，坡度较小，有利于水热能源的积累，因此环境能支持更多个体存活，山脊水土流失性大，因此引起地形之间的群落个体数量差异。群落物种最丰富的是洼地，乔木层与灌木层的物种数均高于其他地形，该地形地势平坦，空间变异性小，为物种进入与共存创造了稳定环境(王艳红等，2020)，槽谷与鞍部这两种地形不仅开阔，其结构也适合水分保持，因此两种地形物种数也较高，山脊由于不利于水土养分积累而限制了物种的丰富度与种群扩大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2不同地形下群落物种多度分布",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "累计经验函数分布函数与wilcoxon秩和检验可以表现并验证群落的物种多度分布差异，解释稀有种、一般种和常见种的组成特征(THOMAS,etal.,2015)。本研究可知，四种喀斯特典型地形下群落的乔木层与灌木层均拥有较高稀有种比例，与白浩楠、方晓峰等(2016；2021)对同纬度带常态地貌下群落的物种多度研究结果相似，但是该地区的典型喀斯特地形下的森林群落有更高稀有种比例。茂兰喀斯特森林群落位于亚热带季风气候区，受东南季风影响，因此雨热充沛，为植物生长提供养分，而该地区空间异质性较高，限制了优势种的扩散，为稀有种进入创造了机会，一些种群在竞争中也逐渐成为稀有种，因此该地区存在着较高比例的稀有种。此外，稀有种相较于常见种在群落物种多度中具有显著贡献，刘旻霞等(2020)在对甘南亚高寒草甸稀有种的研究时已验证；经wilcoxon 秩和检验发现，四种地形下群落乔木层的物种多度分布不存在显著差异（图2)，可能研究对象均处于同一地区，该地区虽然土壤贫瘠稀少，但是充足的雨热、光照资源是该地区鲜明的特征，植物对于资源的需求极大地提升空间、资源利用率，因此乔木层的物种多度格局虽受地形异质性影响，但是经过长期适应有了更加明显的地区资源格局的特征。而灌木层之间的物种多度随地形差异出现显著不同，灌木层的物种进入环境的初期，并处于生长阶段，因此对地形异质性带来的资源差异的响应更加剧烈。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3不同地形下群落物种多度模型拟合",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "四种典型地形下群落的物种多度格局能很好的接受中性模型与纯统计模型，且不同地形对模型的拟合优度存在差异，但是对于生态位模型接受较差。纯统计模型通过数学与生态学结合的方法拟合群落物种多度格局，对于量化生态学过程、表征群落多样性有作用，但是该模型对物种多度构建机制解释不足，本研究的纯统计模型对物种多度拟合结果较优，与康佳鹏(2021)、郭跃东(2021)等人研究结果相似，丰富了该模型的适用范围；本研究也验证了中性理论在该地区森林群落的物种多度格局构建过程中的重要作用，该地区的环境相异性较高，加之溶岩形成微生境较多，所以扩散限制与随机过程发挥作用。各群落的拟合值也随地形不同发生变化，表明中性理论的作用强度受生境异质性影响，其中山脊的拟合最优，可能由于该地形生境严酷导致中性过程更强烈。此外，乔木层比灌木层能更好拟合中性模型，乔木层的物种经历中性过程作用达到稳定，因此其物种多度格局有更深的中性过程印记。而灌木层的物种处于进入、生长时期，扩散限制的作用未显现，因此中性过程未被模型量化出来，加之灌木层的物种较丰富，物种的生态性状重叠也影响了模型拟合；四种典型地形群落的物种多度格局对于生态位模型接受较差，由于该地区群落属于顶极演替阶段，物种已达到稳定共存，生态位过程已弱化，尤其是洼地、槽谷两种地形的地势平坦，资源相对丰富。而不同地形下群落的灌木层多数拒绝了生态位模型，仅洼地接受断棍模型，洼地部位地势平坦，环境相对稳定，利于物种总体生态位的分割，而其他地形的环境异质性较高，物种多度构建受到随机因素影响较深，因此生态位过程表现不明显或被掩盖。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "虽然本研究利用不同模型解释了喀斯特地区典型地形下群落的物种多度分布格局，但是作用过程有待进一步揭示(Laroche F,etal.,2020)，并且用物种多度分布格局推测其后形成的生态学机制也存在一定的不确定性，因为不同的生态学过程共同作用下，可能会导致相同或相似的物种多度格局(EtienneR S.2010)。此外，两种理论都不具有良好的兼容性，因此仅用模型拟合去探究群落物种多度分布格局形成是局限的，目前研究学者更倾向于探索两种理论的整合，量化不同群落组合机制的相对重要性，完善并丰富理论(Xiao JuanL,etal.,2013)。当然，群落物种多度格局的构建是一个伴随着演替且复杂的生态学进程，受影响的因素极多，除了关注理论的创新，还需要综合考虑环境因素，取样尺度和研究方法、土壤因子、以及功能性状等因素也会影响研究结果。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AINUIII W,AIAINU WLIN D, 1IUNULIv 11, cl dI. ∠UI7. ΛESpUISES U1 SpCUICS aUuIuaIICC uISuIUuuUI patterns to spatial scaling in subtropical secondary forests[J]. Ecol Evol, 9(9): 1-10. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BAI HN, NIU X, WANG B, et al., 2021. Distribution pattern of different life form tree species in evergreen broad - leaved forest of Dagangshan mountain[J]. JTrop Biol,12(1): 49-56.[白浩楠, 牛香，王兵，等，2021．大岗山常绿阔叶林不同生活型树种多度分布格局[J]．热带生物学 报，12(1): 49-56.]   \nCAI YF, YUE M, 2016. Research progress on plant community construction mechanism[J]. Acta Ecol Sin,36(15):4557-4572.[柴永福，岳明，2016.植物群落构建机制研究进展[J]．生态学 报，36(15): 4557-4572.]   \nCHEN C,LIU DH, WU JJ, et al., 2015. Relationship between leaf traits and topographic factors of Quercus liaotungensis in Dongling mountain area[J]. Chin JEcol, 34(8): 2131-2139.[陈晨，刘 丹辉,吴键军,等,2015．东灵山地区辽东栎叶性状与地形因子关系[J].生态学杂志,34(8): 2131-2139.]   \nCHEN J,AI XR, YAO L, et al., 2018. Responses of species 一 abundance distribution to varying sampling scales in a typical forest community in mulinzi nature reserve[J]. J Hubei Univ Nat (Nat Sci Ed),36(2):130-133.[陈俊，艾训儒，姚兰，等，2018．木林子天然次生林典型群落 物种多度分布格局的尺度效应[J]．湖北民族学院学报(自然科学版)，36(2)：130-133.]   \nCHEN X, ZHANG Z, CHEN X, et al., 2009. The impact of land use and land cover changes on soil moisture and hydraulic conductivity along the karst hilllopes of southwest China[J]. Environ Earth Sci, 59(4): 811-820.   \nCHENG JJ, MI XC, MA KP, et al., 2011. Responses of species-abundance distribution to varying sampling scales in a subtropical broad-leaved forest[J]. Biodivers Sci,19(2): 168-177.[程佳佳, 米湘成，马克平，等.2011．亚热带常绿阔叶林群落物种多度分布格局对取样尺度的响应[J]. 生物多样性，19(2):168-177.]   \nCHUN YU, LING ZHAO T, CHUN YU Z, et al., 2017, An alysing taxonomic structures and local ecological processes in temperate forests in north eastern China[J]. BMC Ecol,17(1): 33-42.   \nDA LIANG, MENG TING Y, LINWEI W, et al., 2020. A quantitative framework reveals ecological drivers of grassland microbial community assembly in response to warming[J]. Nat Comm, 11(1): 20-33.   \nDAWN MK，ADAM DS， SONYA B.， 2017. Multiple phase transitions in an agent-based evolutionary model with neutral fitness[J]. Roy Soc Open Sci, 4(4): 5-20.   \nETIENNE R S.2010. A new sampling formula for neutral biodiversity[J]. Ecol Let, 8(3): 253-260.   \nFANG XF, YANG QS,LIU H M, et al., 2016. Species abundance distribution pattern of evergreen and deciduous species in Tiantong evergreen broad-leaved forest[J]. Biodivers Sci, 24(6): 629-638.[方晓峰，杨庆松，刘何铭，等，2016.天童常绿阔叶林中常绿与落叶物种的物种 多度分布格局[J]．生物多样性，24(6)：629-638.]   \nGUO YD, ZHANG HR,LU J, et al, 2021. Species abundance patern of spruce-fir broadleaf mixed forest on the northern slope of Changbai mountain[J]. Sci Silv Sin,57(5): 93-107.[郭跃东，张 会儒，卢军,等,2021．长白山北坡云冷杉阔叶混交林的物种多度格局[J]．林业科学,57(5): 93-107.]   \nHUANG MZ,LAN JC, WEN LQ, et al., 2021. Response of soil quality to ecological restoration in karst rocky desertification area[J].JFor Environ,41(2): 148-156.[黄明芝，蓝家程，文柳茜， 等，2021．喀斯特石漠化地区土壤质量对生态修复的响应[J]．森林与环境学报，41(2): 148-156.]   \nKANG JP, HAN L,FENG CH,et al.，2021. Species abundance distribution pattern in different habitats of riparian forest in Tarim desert[J].Biodivers Sci,29(7): 875-886.[康佳鹏，韩路，冯 春晖，等，2021．塔里木荒漠河岸林不同生境群落物种多度分布格局[J]．生物多样性，29(7)： 875-886.]   \nLAROCHE F, VIOLLE C, TAUDIERE A, et al., 2020. Analyzing snapshot diversity paterns with the neutral theory can show functional groups'effects on community assembly[J]. Ecology, 101(4): 2977-2989.   \nLI QD,LIU WX, XIA SJ, et al., 2019. changes of species - abundance relationship along slope direction in alpine meadow communities in South Gansu[J]. J Plant Ecol, 43(5): 418-426.[李全 弟，刘旻霞，夏素娟，等，2019.甘南高寒草甸群落的物种-多度关系沿坡向的变化[J]．植 物生态学报，43(5)：418-426.]   \nLI ZF,2011. Karst landform zoning in Guizhou[J]. Guizhou Geol, 28(3): 177-181.[李宗发，2011. 贵州喀斯特地貌分区[J]．贵州地质，28(3)：177-181.]   \nLIAO QL,LONG CL, XUE F,et al.，2020. Soil enzyme activity and nutrient characteristics in different terrain of Maolan karst forest[J].JFor Env,40(2): 164-170.[廖全兰，龙翠玲，薛飞, 等，2020．茂兰喀斯特森林不同地形土壤酶活性及养分特征[J].森林与环境学报，40(2): 164-170.]   \nLIU HD, CHEN Q, XU ZY, et al., 2020. Interpretation of species diversity and topographic factors of Dacrydium pectinatum natural community in Bawangling, Hainan island[J]. Chin J Ecol, 39(2):394-403.[刘浩栋，陈巧，徐志扬，等，2020．海南岛霸王岭陆均松天然群落物种多 样性及地形因子的解释[J].生态学杂志，39(2)：394-403.]   \nLIU KC，LIU YN，SHEN ZH,et al.， 2009. Neutral theory and niche theory of community construction[J].Biodivers Sci,17(6): 579-593.[牛克昌，刘怪宁，沈泽昊，等，2009．群落构 建的中性理论和生态位理论[J].生物多样性，17(6)：579-593.]   \nLIU MX,LI QD, JIANG XX,et al.， 2020. Contribution of rare species to species diversity and distribution pattern in subalpine meadow of Gannan[J].Biodivers Sci, 28(2): 107-116.[刘旻霞, 李全弟，蒋晓轩，等，2020．甘南亚高寒草甸稀有种对物种多样性和物种多度分布格局的 贡献[J]．生物多样性，28(2)：107-116.]   \nLIU MX, ZHAO L, LI N, et al., 2016. Relative contribution of rare and common species to species richness patern of plant communities[J].Biodivers Sci,24(6): 658-664.[刘旻霞，赵亮，李娜， 等，2016.稀有种和常见种对植物群落物种丰富度格局的相对贡献[J].生物多样性，24(6): 658-664.]   \nLUIS B D A, PAULO A V B, Stephen P H, et al., 2012. Spatial scaling of species abundance distributions[J]. Ecology,35(6): 549-556.   \nLUO SQ, ZHAHG GQ, GUO QQ, et al., 2020. Updating composition of woody plants under window of evergreen and deciduous broad-leaved mixed forest in Maolan karst[J]. Chin JEcol, 39(7): 2131-2139.[罗丝琼，张广奇，郭其强，等，2020.茂兰喀斯特常绿落叶阔叶混交林林窗下 木本植物更新组成[J]．生态学杂志，39(7)：2131-2139.]   \nMA KP, LIU CR, YU SL, et al., 1997. Plant community diversity in Dong Ling mountain, BEIJING, CHINA[J].Acta Ecol Sin,17(6): 584-592.[马克平，刘灿然，于顺利，等，1997．北京东灵山 地区植物群落多样性的研究[J]．生态学报，17(6)：584-592.]   \nPRESTON FW. 1948. The commonness, and rarity, of species [J]. Ecology, 29(3): 254-283.   \nQIN ST,LONG CL，WU BL, 2018. Effect of topographic position on community structure and species diversity of karst forest in Maolan county, Guizhou Province[J]. J Beijing For Univ, 40(7):18-26.[秦随涛，龙翠玲，吴邦利，2018．地形部位对贵州茂兰喀斯特森林群落结构 及物种多样性的影响[J]．北京林业大学学报，40(7)：18-26.]   \nROBERT H M. 1957. On the relative abundance of bird species[J]. PNAS, 43(3): 293-295.   \nSHENG MY, XIONG KN, CUI GY, et al., 2015. Plant diversity and soil physicochemical properties in karst rocky desertification area of Guizhou Province[J].Acta Ecol Sin,35(2): 434-448.[盛茂 银，熊康宁，崔高仰，等，2015．贵州喀斯特石漠化地区植物多样性与土壤理化性质[J]．生 态学报，35(2):434-448.]   \nSU Q,2015. Fractal analysis of community species abundance pattern[J]. Prog. Geogr, 30(10): 1144-1150.[苏强，2015．群落物种多度格局的分形解析[J]．地球科学进展，30(10)： 1144-1150.]   \nSUN YG， KANG J，WANG WW，et al.， 2015. Response of spatial characteristics of island vegetation landscape heterogeneity to topographic changes - a case study of Dachangshan Island[J]. Chin JEcol, 34(6): 1705-1712.   \nTHOMAS JM, ROBERT JW, 2015. On the species abundance distribution in applied ecology and biodiversity management[J]. J Appl Ecol, 52(2): 443-454.   \nVOLKOV I, BANAVAR JR, HUBBELL S P,et al.， 2003. Neutral theory and relative species abundance in ecology[J]. Nature, 424(6952): 1035-1037.   \nWANG YH,LI SF，LANG XD，et al.， 2020. Effects of topographic heterogeneity on species diversity of monsoon evergreen broad-leaved forest in Puer, Yunnan Province[J]. Chin J Plant Ecol,44(10):1015-1027.[王艳红，李帅锋，郎学东，等，2020．地形异质性对云南普洱季 风常绿阔叶林物种多样性的影响[J]．植物生态学报，44(10)：1015-1027.]   \nWANG JM, XU H, LI YD, et al., 2018. Effects of topographic heterogeneity on community structure and diversity of woody plants in Jianfengling tropical montane rainforest[J]. Sci Silv Sin, 2018, 54(1):1-11.[王家鸣，许涵，李意德等．地形异质性对尖峰岭热带山地雨林木本植物群落结 构及多样性的影响[J]．林业科学,2018,54(1)：1-11.]   \nWHITTAKER RH. 1965. Dominance and diversity in land plant communities: numerical relations of species express the importance of competition in community function and evolution[J]. Science, 147(3655): 250-260.   \nXIAO JUAN L, NA THAN G S, JIN LONG Z,et al.， 2013. The environment and space, not phylogeny, determine trait dispersion in a subtropical forest[J]. Funct Ecol, 27(1): 264-272.   \nXU YD, DONG SK, LI S, et al., 2019. Research progress on ecological filtering mechanism of plant community construction[J].Acta Ecol Sin,39(7):2267-2281.[许驭丹，董世魁，李帅，等, 2019．植物群落构建的生态过滤机制研究进展[J]．生态学报，39(7)：2267-2281.]   \nYAN Y， ZHANG CY， ZHAO XH, 2012. Species-abundance distribution patterns at different successional stages of conifer and broad-leaved mixed forest communities in Changbai mountains,China[J].JPlant Ecol,36(9): 923-934.[闫琰，张春雨，赵秀海，2012．长白山不 同演替阶段针阔混交林群落物种多度分布格局[J]．植物生态学报，36(9)：923-934.]   \nYUAN Q, CAO JY,LIU JF, et al.,2021. Statistical bias of plant functional traits in forest ecosystem caused by different growth type classification schemes[J]. Acta Ecol Sin,41(3):1106-1115.[袁 泉，曹嘉瑜，刘建峰，等，2021．生长型分类方案不同导致森林生态系统植物功能性状的 统计偏差[J].生态学报，41(3)：1106-1115.]   \nZANG LP,2019. Spatial heterogeneity analysis of tropical mountain rain forest sample plots in Jianfengling, Hainan Island[D]. Chinese Academy of Forestry Sciences.[臧丽鹏，2019.海南 岛尖峰岭热带山地雨林大样地内空间异质性分析[D]．中国林业科学研究院.]   \nZHANG TT,WANG X,JIN Y, et al., 2020. Comparative study on species composition between Gutianshan and other eastern typical evergreen broad- leaved forests in China[J]. Guihaia, 40(8): 1061-1070.[张田田，王璇，金毅，等，2020．古田山与中国其他东部典型常绿阔叶林物种 组成特征的比较[J]．广西植物，40(8)：1061-1070.]   \nZHANG ZH, HU G, ZHU JD, et al., 2011. Spatial heterogeneity of soil nutrients in karst forest and its influence on tree species distribution[J]. Chin JPlant Ecol,35(10): 1038-1049.[张忠华，胡 刚，祝介东，等，2011．喀斯特森林土壤养分的空间异质性及其对树种分布的影响[J]．植 物生态学报，35(10)：1038-1049.]   \nZHAO P, QU JJ, XU XY, et al.,2019. Characteristics of vegetation community and its relationship with topographic factors in desertification alpine grassland in the source area of Yangtze River[J].Acta Ecol Sin,39(3):1030-1040.[赵鹏，屈建军，徐先英，等，2019．长江源区沙 化高寒草地植被群落特征及其与地形因子的关系[J].生态学报，39(3)：1030-1040.]   \nZHENG JM, LI M, ZHANG M, et al., 2021. Interspecific association and niche analysis of mixed forest communities of casuarina equisetifolia and phyllostachys praecox in coastal shelter forest[J].JTrop Subtrop Bot,29(5):465-473.[郑俊鸣，李敏，张盟，等，2021．滨海防护林 木麻黄和花吊丝竹混交林群落的种间关联和生态位分析[J]．热带亚热带植物学报，29(5): 465-473.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

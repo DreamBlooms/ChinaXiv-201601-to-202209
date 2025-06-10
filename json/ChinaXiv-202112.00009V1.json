@@ -1,0 +1,456 @@
+[
+    {
+        "type": "text",
+        "text": "Hydrochemical characteristics and evolution of groundwater in the dried-up river oasis of the Tarim Basin, Central Asia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Wanruil2, CHEN Yaning1\\*, WANG Weihual, XIA Zhenhual,LI Xiaoyang1,2, Patient M KAYUMBA1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKey Laboratoryof Desertand Oasis Ecology, Xinjiang Instituteof Ecologyand Geography,Chinese Academyof Sciences,Urumqi 830011, China;   \n2 University of Chinese Academy of Sciences,Beijing 10oo0o, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Intense human activities in arid areas have great impacts on groundwater hydrochemical cycling by causing groundwater salinization.The spatiotemporal distributions of groundwater hydrochemistry are crucial for studying groundwater salt migration， and also vital to understand hydrological and hydrogeochemical processes of groundwater in arid inland oasis areas.However, due to constraints posed by the paucity of observation data and intense human activities,these processs are not wellknown in the dried-up river oases of arid areas. Here,we examined spatiotemporal variations and evolution of groundwater hydrochemistry using data from 199 water samples collcted in the Wei-Ku Oasis,a typical arid inland oasis in Tarim Basin of Central Asia. As findings, groundwater hydrochemistry showed a spatiotemporal dynamic,while its spatial distribution was complex. TDS and $\\mathrm { 8 ^ { 1 8 } O }$ of river water in the upstream increased from west to east, whereas ion concentrations of shallw groundwater increased from northwest to southeast. Higher TDS was detected in spring for shallow groundwater and in summer for middle groundwater. Pronounced spatiotemporal heterogeneity demonstrated the impacts of geogenic, climatic,and anthropogenic conditions.For that, hydrochemical evolution of phreatic groundwater was primarily controlled by rock dominance and evaporation-crystallization process. Agricultural irrigation and drainage， land cover change,and groundwater extraction reshaped the spatiotemporal patterns of groundwater hydrochemistry. Groundwater overexploitation altered the leaking direction between the aquifers,causing the interaction between saltwater and freshwater and the deterioration of groundwater environment. These findings could provide an insight into groundwater salt migration under human activities, and hence be significant in groundwater quality management in arid inland oasis areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:spatiotemporal variations; groundwater hydrochemistry； hydrochemical evolution； human activities:dried-up river oasis; Tarim Basin",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Groundwater plays an important role in the socio-economic development and ecoenvironmental protection in arid areas due to scarce precipitation and deficient surface water (Lezzaik et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2018;Erler et al.,2019; Jasechko et al., 2021),especially in arid inland oasis areas (Wang et al., 2021). In the last decades,groundwater depletion and salinization in arid areas have led to a series of hydrological and ecological havocs owing to climatic variations and human activities that challenge the local water and ecological security (Zhang et al.,2014; Asoka et al.,2Ol7; de Graaf et al.,2019; Chen et al.， 2020; Kulmatov et al., 2020; Zhao et al.，2021). Still, groundwater salinization can affect public health, soil fertility, vegetation growth,and renewable groundwater resources (Tweed et al.,2011; Fuchs et al.,2019; Jia et al.,2020). Groundwater hydrochemistry is very important in biogeochemical cycling as it may influence the freshwater utilization and ecological functioning of surface water and groundwater in arid areas (Cary et al.,2O15; Obeidat et al.,2021).Additionally, the spatial distributions of dissolved ion concentrations in groundwater could provide insight into the origin, migration pathways,and evolution of groundwater salt (Liu et al.,2018; Wang et al., 2018),which are helpful to understand the hydrological and hydrochemical cycling in arid areas (Fuchs et al.,2019; Wu et al.,2020; Shen et al.,2021). Therefore, there is a need to improve our understanding of the hydrochemical characteristics and evolution of groundwater influenced by intense human activities in arid inland oasis areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Tarim River Basin, the largest inland river basin in Xinjiang Uygur Autonomous Region of China, is located in the arid inland area of Central Asia and is also the core area of constructing the \"Silk Road Economic Belt\" (Chen et al.,2019; Wang et al.,2021). In the last 30 years, with a continuousintensification of farmland expansion and population growth， groundwater overexploitation and the increased surface water diversion from the river for irrigation purposes have caused the river to dry up, phreatic decline，groundwater environment deterioration, ecological degradation,and desertification in the oasis-desert regions of the Tarim Basin (Wang et al.,2013; Xiao et al.,2015; Wang et al.,2020). Accordingly, the deterioration of the groundwater environment in arid oases has influenced hydrogeochemical and ecological processes,plant communities,and soil salinization (Liu et al.,2018; Jia et al.,202O; Noshadi et al.,2020). Thus, the ecological restoration of arid inland oasis areas should be based on the improvement of the groundwater environment，by focusing on the spatiotemporal characteristics and evolution mechanisms of groundwater hydrochemistry (Wang et al.,2O13).Nevertheless,due to observation data scarcity and the complex interaction between surface water and groundwater following intense human activities,the hydrochemical evolution and migration mechanism of groundwater remain poorly understood in the Tarim River Basin.All these may afect the implementation of sustainable groundwater resources management and ecological restoration (Chen et al., 2019; Zeng et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the hydrochemical and isotopic techniques， remote sensing inversion， and hydrological models, previous studies in arid inland oasis areas mainly focused on the origin and age (Ma et al., 2O13), spatial distribution and temporal variation (Gates et al., 2008; Hasan et al., 2011; Pant et al.,2018),and evolution mechanism and migration (Wang et al., 2013; Huang et al., 2017)of hydrochemical components for phreatic groundwater and confined water. As well, the fresh-salt water interaction between phreatic groundwater and confined water has been analyzed (Liu et al.,2018; Zeng et al.,202O). Last but not least, the impacts of climate change and human activities on groundwater hydrochemistry in arid inland areas have also been studied (Xiao et al., 2015; Wang et al.， 2021). In addition, several mechanisms could control the groundwater hydrochemistry, including the flushing, evaporation-condensation, dissolution and leaching, cation exchange-adsorption,and mixing (Xiao et al., 2015; Wang et al.,2018; Li et al., 2019; Zeng et al.， 2O2O). Groundwater hydrochemistry in arid inland areas may be affected by the climatic and hydrogeological conditions, groundwater recharge, land cover types, groundwater exploitation,and agricultural activities among others (Scanlon et al., 20o6; Kaur et al.,2019; Riley et al.,2019; Jia et al.,2020). Yet, the spatiotemporal heterogeneity and dominant factors of groundwater hydrochemistry have not been thoroughly investigated in the dried-up river oasis of Tarim Basin, particularly the impact of intense human activities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we analyzed the spatiotemporal variations and evolution of groundwater hydrochemistry using data of 199 water samples colected from August 2018 to August 2019 in the Wei-Ku Oasis, a typical dried-up river oasis of the Tarim Basin in Central Asia. The specific objectives of this study are to: (1） examine the spatiotemporal variations of groundwater hydrochemistry; (2) analyze the dominant factors influencing groundwater hydrochemistry evolution; and (3) explore groundwater salt migration under the influence of human activities. The results are expected not only to enhance our understanding of groundwater salt migration under intense human activities but also to help improve groundwater management in the Tarim Basin, hence the prevention of groundwater environment deterioration. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Tarim River Basin（ $( 7 3 ^ { \\circ } 2 4 ^ { \\prime } – 9 3 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { E }$ ， $3 4 ^ { \\circ } 4 8 ^ { \\prime } \\ – 4 3 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { N } )$ ，surrounded by the Tianshan Mountains and the Kunlun Mountains in Xinjiang Uygur Autonomous Region, covers an area of $1 . 0 2 \\times 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ and is the largest inland river basin of Northwest China (Fig.1). The Wei-Ku Oasis $( 8 2 ^ { \\circ } 0 5 ^ { \\prime } - 8 3 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E }$ ， $4 0 ^ { \\circ } 5 4 ^ { \\prime } - 4 1 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N } )$ ,located in the middle and lower reaches_of the Weigan-Kuqa River Basin in the northern Tarim Basin,covers an area of $7 . 1 0 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ ，with the elevation ranging from 945 to $1 1 4 7 \\mathrm { ~ m ~ }$ above sea level. It mainly includes the Weigan River and Kuqa River; the Weigan River is composed of the Kizil River, Muzhate River, Televichuk River, Kapusilang River, and Karasu River. The study region is characterized by a temperate arid continental climate. The annual mean air temperature and mean annual precipitation values are $1 1 . 4 ^ { \\circ } \\mathrm { C }$ and $7 4 . 6 \\ \\mathrm { m m }$ ， respectively (data from the Chinese National Meteorological Center; http://data. $\\mathrm { \\ c m a . c n / } ,$ ). The highest air temperature is generally recorded in July or August, and the lowest is in January (Fig.2). Precipitation mainly occurs from May to September, accounting for more than $76 \\%$ of the total annual precipitation, and peak rainfall occurs in June or July. The annual runoff flowing into the Wei-Ku Oasis is about $3 \\mathrm { ^ { i } } . 2 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ (more than $90 \\%$ of the runoff using for irrigation); it has three peaks due to reservoir regulation, occurring in March, July, and November. The groundwater level depth of the oasis ranges from 2 to $6 \\mathrm { m }$ ， and groundwater level generally declines from northwest to southeast (Wang et al., 2021). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Wei-Ku Oasis is a plain region with unconsolidated Quaternary sediments,which comprises the interstratified pebbly sandstone, fine sandstone, sandy gravel, silty fine sandstone, sandstone,and fine siltstone, forming the porous aquifers and aquitards (Fig.lc) (Wang et al., 2021).Within the oasis,from the northern piedmont plain to the southern alluvial plain, the particle size of the rock ranges from coarse to fine,the aquifer system gradually transits from single structure to multi-layer structure,and the groundwater level depth declines gradually. The aquifer sediments are pebbly sandstone and sandy gravel in the piedmont plain. The pebbly sandstone transits to silty fine sandstone in the middle alluvial-diluvial plain and fine sandstone in the alluvial plain (Fig. lc; Wang et al.,2O21). Furthermore, the dominant natural plant species are Sophora alopecuroides， Tamarix spp.， Populus euphratica， Karelinia caspica， Phragmites communis, Halostachys caspica, Glycyrrhiza sp.,and Alhagi pseudalhagi. The land cover types within the Wei-Ku Oasis were mainly dominated by cropland $( 6 2 . 5 \\%$ in this oasis)，grassland $( 1 7 . 9 \\% )$ , and bare land $( 1 3 . 0 \\% )$ in 2018.The cereal crops within the oasis mainly included wheat and corn, and dominant economic crops were cotton, sugar beet, and rapeseed (Chen et al., 2019). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Surface water and groundwater samples were collcted from August 2018 to August 2019 along the Weigan River and Kuqa River, as well as within the Wei-Ku Oasis (Fig.1b), which falls in three seasons (spring, summer, and autumn). During the sampling period, precipitation samples were also collected after each day of precipitation (rainfall and snowfall) from two sites in the upper reaches of the Weigan-Kuqa River Basin (Fig. 1b). River water samples were collected from the upstream of Weigan River and Kuqa River, along with 6 reservoir water samples that were obtained from the oasis. Additionally， groundwater was sampled from pumped wells (domestic wells, irigation wells,and industrial wells) and regularly used boreholes within the ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c7160d60ae4e68501f29e3494a1f8c33d78e125b5f41b547991689b76ac0a40.jpg",
+        "img_caption": [
+            "Fig.1Overview of the Tarim Basin and location of the Wei-Ku Oasis (a),distribution of water sampling sites in the Weigan-Kuqa River Basin (b),and hydrogeologic conditions of the Wei-Ku Oasis (c; modified from Wang et al. (2021)). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4453a22e903df7384bdac3eb2dd1814dbb9121e359887523868f217591b88308.jpg",
+        "img_caption": [
+            "Fig.2Intra-annual variations of monthly average air temperature and monthly precipitation in the Wei-Ku Oasis (a) and monthly runoff in the upstream of the Weigan River (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 199 water samples were collected for hydrochemical and stable isotope analyses, including 23 precipitation samples,10l surface water samples (95 river water samples and 6 reservoir water samples)， and 75 groundwater samples (53 shallow groundwater samples, 21 middle groundwater samples, and 1 deep groundwater samples). All samples were first filtered through a $0 . 2 2 \\mathrm { - } \\mu \\mathrm { m }$ filter, then immediately kept in $1 0 0 ~ \\mathrm { m L }$ polyethylene bottles,wrapped with parafilm for avoiding evaporation fractionation,and lately stored in the refrigerator at $4 ^ { \\circ } \\mathrm { C }$ until laboratory analyses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All the hydrochemical components and stable isotopes of the collected samples were measured at the State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences in Xinjiang of China. Major cations and anions (chloride, sulfate, sodium, potassum, magnesium, and calcium) of samples were determined by an ion chromatograph (Dionex ICS-5000, Thermo Fisher Scientific, Massachusetts, USA), while ${ \\mathrm { H C O } } _ { 3 } ^ { - }$ and $\\mathrm { C O } _ { 3 } ^ { 2 ^ { = } }$ were analyzed using the titration method. The analytical precision of major ions was below $1 \\%$ ，with the detection limit of $0 . 1 \\ \\mathrm { m g / L }$ . The ionic charge balance errors for all water samples were within $\\pm 1 0 \\%$ .Electrical conductivity (EC) and temperature were measured in the fields using a conductivity meter (YSI ProPlus, Yellow Springs Instrument Inc. Ohio, USA), with an EC measurement precision of $0 . 0 1 ~ \\mu \\mathrm { S / c m }$ (Wang et al., 2020). In addition, the $\\delta ^ { 1 8 } \\mathrm { { O } }$ and $\\delta ^ { 2 } \\mathrm { H }$ of water samples were measured using a liquid water isotope analyzer (LGR DLT-1O0, Los Gatos Research Inc., California, USA) and reported relative to the Vienna Standard Mean Ocean Water (VSMOW) in delta per million $( \\delta , \\ \\textdegree _ { 0 0 } )$ . Measurement precisions for $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ were $\\pm 0 . 8 \\text{‰}$ and $\\pm 0 . 1 \\text{‰}$ ,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, meteorological data (air temperature and precipitation) were obtained from the Chinese National Meteorological Information Centre (http://dc.cma.gov.cn), and runoff data for the outlets of the mountainous tributaries were collected from the Weigan River Basin Authority, Xinjiang， China. Besides,data statistical analyses were conducted using the SPSS software package (version 22.0), ArcGIS (version 10.5), MATLAB (version R2018a),and Origin (version 2017). The inverse distance weighting method was used to interpolate the hydrogeochemical and meteorological data into $2 5 0 \\ \\mathrm { m }$ grid data. The Piper (1944) and Gibbs (1970) plots were used to further elaborate the findings. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 General characterization of hydrochemistry ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The stable isotope values $\\mathrm { \\Delta \\cdot \\mathrm { \\Omega } }$ and $\\delta ^ { 1 8 } \\mathrm { O } \\rangle$ ）for precipitation, surface water, and groundwater are shown in Figure 3. The $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ values of different water components presented a large range in our study area and difered significantly among various water components. In general, the stable isotope values become more depleted successively from reservoir water to precipitation， river water，and groundwater, which may be atributed to the difference in evaporation and water sources (Wang et al., 2020). Both the $\\delta ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 2 } \\mathrm { H }$ values of precipitation exhibited a relatively wide range, varying from $- 1 5 . 8 \\text{‰}$ to $0 . 1 \\text{‰}$ and from $- 1 1 6 . 3 \\text{‰}$ to $1 1 . 5 \\text{‰}$ ， respectively. The mean isotopes of precipitation $( \\delta ^ { 1 8 } \\mathrm { O } = - 7 . 6 \\%$ and $\\delta ^ { 2 } \\mathrm { H } = - 4 8 . 0 \\% 0 \\mathrm { ) }$ in our study area were higher than those in the Urumqi station in northern Xinjiang $( \\delta ^ { 1 8 } \\mathrm { O } = - 1 0 . 7 \\%$ and $\\delta ^ { 2 } \\mathrm { H } { \\dot { = } }$ $- 7 2 . 8 \\text{‰}$ ，which were from the Global Network of Isotopes in Precipitation (GNIP)),but lower than those in the Hotan station in southern Xinjiang ( $\\langle \\delta ^ { 1 8 } \\mathrm { O } \\dot { = } - 5 . 5 \\% 0$ and $\\delta ^ { 2 } \\mathrm { H } = - 3 2 . 6 \\%$ , which were from the GNIP), indicating the complex water vapor sources and local recycling processes (Chen et al., 2019). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Surface water data were located near the global meteoric water line (GMWL; $\\delta ^ { 2 } \\mathrm { H } { = } 8 \\delta ^ { 1 8 } \\mathrm { O } { + } 1 0$ ， Craig,1961)，while most groundwater samples were located above the GMWL (Fig. 3). The stable isotope values of river water (mean $\\mathrm { \\Delta } ^ { \\circ } \\mathrm { H } = - 5 3 . 6 \\%$ and mean $\\delta ^ { 1 8 } \\mathrm { O } = - 8 . 9 \\% 0 \\big )$ during the sampling period were lower than the values of precipitation, maybe due to the recharge from glacier/snow meltwater and groundwater in the upstream (Chen et al., 2019). The isotope values of reservoir water ranged from $- 9 . 3 \\text{‰}$ to $- 5 . 2 \\text{‰}$ for $\\delta ^ { 1 8 } \\mathrm { O }$ (mean $\\delta ^ { 1 8 } \\mathrm { O } \\mathrm { = } - 6 . 5 \\%$ and from $- 5 7 . 9 \\text{‰}$ to $- 3 5 . 3 \\text{‰}$ for $\\delta ^ { 2 } \\mathrm { H }$ (mean $\\delta ^ { 2 } \\mathrm { H } = - 4 2 . 6 \\% \\mathrm { o }$ ). These were higher than the values of river water, due to strong evaporation fractionation in such arid region (Wang et al., 2O13). Furthermore, the mean values of $\\dot { 8 } ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 2 } \\mathrm { H }$ for shallow groundwater (from $- 1 2 . 2 \\text{‰}$ to $- 7 . 5 \\text{‰}$ and from $- 8 3 . 9 \\text{‰}$ to $- 4 9 . 7 \\text{‰}$ ,respectively) were similar to the mean values of middle groundwater ( $\\mathrm { \\Delta ^ { \\delta } O }$ ranging from $- 1 0 . 3 \\text{‰}$ to $- 8 . 4 \\text{‰}$ and $\\delta ^ { 2 } \\mathrm { H }$ ranging from $- 7 3 . 9 \\text{‰}$ to $- 5 9 . 3 \\text{‰}$ ）and deep groundwater $\\stackrel { \\cdot } { \\delta } ^ { 1 8 } \\mathrm { O } =$ $- 9 . 5 \\text{‰}$ and $\\delta ^ { 2 } \\mathrm { H } = - 6 1 . 2 \\% 0 )$ in the Wei-Ku Oasis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/491bc2ba7338871c220cb0a470911d5ab3f0b1c9d0bf47f0457a6b18cf4c72d0.jpg",
+        "img_caption": [
+            "Fig.3Stable isotopic compositions for precipitation,surface water,and groundwater samples in the Wei-Ku Oasis.Precipitation isotope data were from GNIP(Global Network of Isotopes in Precipitation) for the Hotan (HT) and Urumqi stations. WK,the Weigan-Kuqa River Basin. GMWL, global meteoric water line (Craig,1961). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table l presents the hydrochemical results of precipitation, surface water, and groundwater. Generally, main dissolved ion concentrations in groundwater were significantly higher than those in surface water, whereas ion concentrations in precipitation were lower compared to those in surface water $( \\mathrm { C l } ^ { - }$ ， $\\mathrm { S O _ { 4 } } ^ { 2 - }$ ， ${ \\mathrm { H C O } } _ { 3 } ^ { - }$ ， $\\mathrm { { N a } ^ { + } }$ ， $\\operatorname { K } ^ { + }$ $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ ，and $\\mathrm { C a } ^ { 2 + }$ ； Table 1), mainly due to strong evaporative concentration,mineral dissolution，and leaching (Jia et al.， 2O2O). Precipitation samples had low ion concentrations and salinity $\\mathrm { ( C l ^ { - } { = } } 4 . 5 ~ \\mathrm { \\ m g / L }$ and TDS (total dissolved solids) $\\mathrm { \\hbar \\mathrm { \\Omega } ) { = } 9 1 . 7 \\ m g / L }$ )，with a hydrochemical type of ${ \\mathrm { H C O } } _ { 3 }$ -Ca(Table 1；Fig. 4a). River water samples were slightly alkaline (mean $\\mathrm { p H } { = } 7 . 9 5$ ）andwere freshwater( $\\mathrm { \\ T D S { = } } 3 7 9 . 4 \\mathrm { \\ m g / L }$ ).The $\\mathrm { C l } ^ { - }$ concentration of river water samples ranged from 1.6 to $1 4 6 . 5 ~ \\mathrm { m g / L }$ ,and the EC varied from 208 to $1 2 0 6 ~ { \\mu \\mathrm { s / c m } }$ ，with $\\mathrm { S O } _ { 4 } { \\mathrm { - H C O } } _ { 3 }$ -Ca chemistry. Compared to river water, reservoir water in the oasis had slightly higher ion concentrations and salinity (EC ranging from 665 to $1 3 6 1 ~ { \\mu \\mathrm { s / c m } }$ and $\\mathrm { C l } ^ { - }$ ranging from 67.7 to $1 7 3 . 3 ~ \\mathrm { m g / L }$ ),with identical chemistry（ $\\mathrm { \\Delta ( H C O _ { 3 } - S O _ { 4 } - C a }$ ),which indicates that reservoir water was directly from the river but undergone strong evaporation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Samples of middle groundwater were intermediate between the samples of shallow groundwater and deep groundwater (Fig. 4b), which provided further evidence for the close water relationship between various aquifers in this oasis.The $\\mathfrak { p H }$ of groundwater in the oasis generally ranged from 7.48 to 8.42, indicating a slightly alkaline character, which resulted from the extremely arid condition and slow groundwater flow in our study region (Wang et al.， 2O13). Groundwater samples exhibited a high degree of hydrochemical variability,and the TDS ranged from 314.0 to $2 4 , 1 5 6 . 4 \\ \\mathrm { \\ m g / L }$ (varying from freshwater to saline water)， suggesting the great variation of groundwater quality. Vertically, highly saline groundwater was observed in the shallow aquifer, whereas lowly saline groundwater was mostly found in the deep aquifer (Table 1). Most shallow groundwater had relative high salinity and ion concentrations (mean $\\mathrm { T D S } { = } 7 5 6 0 . 3 ~ \\mathrm { m g / L }$ and mean $\\mathrm { C l ^ { - } { = } 2 8 7 5 . 2 \\ m g / L } \\$ ),with a hydrochemical type of Cl- $S O _ { 4 }$ -Na-Mg. Middle groundwater in the oasis had a similar hydrochemical type $( \\mathrm { C l { - } S O _ { 4 } { - } N a { - } M g { - } C a ) }$ compared to shallow groundwater, with an average TDS of $1 2 7 9 . 5 ~ \\mathrm { m g / L }$ ，implying the direct recharge from the overlying shallow aquifer (Zeng et al., 202O). Besides, deep groundwater was dominated by Na and Ca cations and ${ \\mathrm { H C O } } _ { 3 }$ and $\\mathrm { S O } _ { 4 }$ anions， with lowion concentrationsand salinity $\\mathrm { \\ T D S { = } 3 1 4 . 0 ~ \\Omega \\ m g / L ) }$ ，and $\\mathrm { H C O } _ { 3 } – \\mathrm { S O } _ { 4 }$ -Cl-Na-Ca chemistry (Table 1; Fig. 4b). It was obvious that there was a large difference in ion concentrations between the shallow, middle,and deep groundwater samples in the Wei-Ku Oasis,revealing that saline shallow groundwater could leak downward to confined water and undergo a mixing process between salt and fresh water (Liu et al., 2018). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/463f1fed73d07b106afff25da6868b6a174bb609c4fcee128c2a0b612148e794.jpg",
+        "table_caption": [
+            "Table1Hydrochemical characteristics for the surface water and groundwater samples obtained in the Weigan-Kuqa River Basin "
+        ],
+        "table_footnote": [
+            "Note: n,number of water samples; EC,electrical conductivity; Max., maximum value; Min., minimum value. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">n</td><td rowspan=\"2\">Statistic</td><td rowspan=\"2\">pH</td><td rowspan=\"2\">(ECm)</td><td>C1</td><td>SO4²</td><td></td><td></td><td>K</td><td>Mg²+</td><td>Ca²+</td><td rowspan=\"2\">Hydrochemical</td></tr><tr><td colspan=\"8\">HCO</td></tr><tr><td colspan=\"10\">Precipitation</td><td></td><td></td></tr><tr><td></td><td>Max.</td><td></td><td></td><td>12.6</td><td>34.7</td><td>136.2</td><td>10.1</td><td>1.9</td><td>2.6</td><td>51.2</td><td rowspan=\"3\">HCO3-Ca</td></tr><tr><td rowspan=\"2\">23</td><td>Min.</td><td></td><td></td><td>0.6</td><td>1.1</td><td>4.4</td><td>0.0</td><td>0.1</td><td>0.3</td><td>3.6</td></tr><tr><td>Mean</td><td></td><td></td><td>4.5</td><td>9.2</td><td>40.7</td><td>2.8</td><td>0.7</td><td>1.1</td><td>21.1</td></tr><tr><td colspan=\"10\">River water</td><td></td><td></td></tr><tr><td></td><td>Max.</td><td>8.25</td><td>1206</td><td>146.5</td><td>269.6</td><td>372.5</td><td>92.6</td><td>9.2</td><td>38.6</td><td>138.7</td><td rowspan=\"3\">SO4-HCO3-Ca</td></tr><tr><td>95</td><td>Min.</td><td>7.48</td><td>208</td><td>1.6</td><td>23.7</td><td>75.2</td><td>2.2</td><td>1.0</td><td>6.0</td><td>44.5</td></tr><tr><td></td><td>Mean</td><td>7.95</td><td>609</td><td>46.2</td><td>122.9</td><td>145.9</td><td>33.0</td><td>4.4</td><td>20.7</td><td>79.2</td></tr><tr><td colspan=\"10\">Reservoir water</td><td></td><td></td></tr><tr><td></td><td>Max.</td><td>7.81</td><td>1361</td><td>173.3</td><td>259.7</td><td>244.8</td><td>110.4</td><td>10.0</td><td>46.6</td><td>113.7</td><td rowspan=\"3\">HCO3-SO4-Ca</td></tr><tr><td>6</td><td>Min.</td><td>7.55</td><td>665</td><td>67.7</td><td>118.3</td><td>61.5</td><td>61.4</td><td>6.9</td><td>23.9</td><td>48.5</td></tr><tr><td></td><td>Mean</td><td>7.73</td><td>935</td><td>112.4</td><td>175.0</td><td>137.8</td><td>84.5</td><td>8.3</td><td>31.3</td><td>80.3</td></tr><tr><td colspan=\"10\">Shallow unconfined groundwater (well depth<20 m)</td><td></td><td></td></tr><tr><td></td><td>Max.</td><td>8.14</td><td>37,400</td><td>11,703.6</td><td>5502.2</td><td>754.7</td><td>6732.7</td><td>88.8</td><td>1085.6</td><td>1377.2</td><td rowspan=\"2\">Cl-SO4-Na-Mg</td></tr><tr><td>53</td><td>Min.</td><td>7.52</td><td>1134</td><td>97.0</td><td>183.7</td><td>79.0</td><td>107.9</td><td>0.0</td><td>61.2</td><td>72.2</td></tr><tr><td></td><td>Mean</td><td>7.83</td><td>11,477</td><td>2875.2</td><td>1674.4</td><td>358.6</td><td>2018.7</td><td>23.4</td><td>332.9</td><td>456.3</td><td rowspan=\"2\"></td></tr><tr><td colspan=\"10\">Middle unconfined/confined groundwater (well depth in the range of 20-100 m)</td></tr><tr><td></td><td>Max.</td><td>8.42</td><td>4520</td><td>686.8</td><td>1164.1</td><td>543.6</td><td>452.2</td><td>15.8</td><td>200.0</td><td>291.7</td><td rowspan=\"2\">Cl-SO4-Na-Mg-Ca</td></tr><tr><td>21</td><td>Min.</td><td>7.48</td><td>1012</td><td>119.1</td><td>120.9</td><td>110.5</td><td>75.2</td><td>0.3</td><td>13.7</td><td>27.1</td></tr><tr><td></td><td>Mean</td><td>7.84</td><td>2033</td><td>272.4</td><td>434.4</td><td>261.4</td><td>197.3</td><td>8.3</td><td>83.5</td><td>152.8</td><td></td></tr><tr><td colspan=\"10\">Deep confined groundwater (well depth>100 m)</td><td></td></tr><tr><td>1</td><td></td><td>8.07</td><td>572</td><td>62.4</td><td>87.0</td><td>116.9</td><td>50.1</td><td>3.5</td><td>16.3</td><td>36.3</td><td>HCO3-SO4-C1-Na-Ca</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatial variations of hydrochemistry ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generally, the salinity of river water and shallow groundwater increased along the flow paths from the recharge to discharge area in our study region (Figs. 5 and 6),connoting the occurrence of evaporation (Wang et al., 2013; Liu et al., 2O18). Figure 5 showed the spatial distributions of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Riverwater Shallow groundwater (a) 100 o Reservoir water (b) 100 % Middle groundwater 8 品 \\*Precipitation 8 品 \\*Deep groundwater 1-+SO42 0 g Ca2++Mg2+ 828 C1-+SO42 6 g Ca2++ 24.18 40 20 5828②8 0 7 TDS (mg/L) 0 TDS (g/L) 100 0 0 % 加 0 0 8 1 HCO5 品 & SO 宝 6 8 3 HCO 2 品 0 SO 品 0 CO 6 g 双 0 CO2 6 名 2 \\$ 8 楼 0 3 光 品 8 0   \n0 % 0 0 启 0 。   \n100 80 6040 20 0 0 20 40 60 80100 100 80 60 4020 0 0 20 40 60 80 100 Ca2+ C1- Ca2+ C1- ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6640992149a0157d3c855ebe5d26a29cf9ea11181421f15b841b771b4d4d6445.jpg",
+        "img_caption": [
+            "Fig. 4Piper plots for precipitation and surface water samples (a) as well as groundwater samples (b) in the Wei-Ku Oasis ",
+            "Fig.5Spatial distributions of river water hydrochemistry,air temperature and precipitation in the upstream of Weigan-Kuqa River Basin. (a), TDS of river water; (b), $\\mathbf { \\bar { \\delta } } ^ { 1 8 } \\mathbf { O }$ of river water; (c), mean annual air temperature (2018-2019); (d),mean annual precipitation (2018-20l9). TDS,total dissolved solids;Tem.,air temperature; Pre., precipitation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TDS and $\\delta ^ { 1 8 } \\mathrm { O }$ for river water in the upstream of the Weigan-Kuqa River Basin. The TDS and $\\delta ^ { 1 8 } \\mathrm { O }$ values of river water presented obvious spatial heterogeneity. The $\\delta ^ { 1 8 } \\mathrm { O }$ of river water in the upstream ranged from $- 1 0 . 9 \\text{‰}$ to $- 6 . 4 \\text{‰}$ ; the values were much lower in the western part than in the eastern part, most probably due to much larger snow area in the west, resulting in relatively low isotopes of river water recharge from snow meltwater (with low stable isotope values) (Wang et al.,2O2O). Similarly, the TDS values of river water ranged from 133.7 to $6 8 0 . 9 ~ \\mathrm { m g / L }$ and the values were lower in the west (Muzhate River) than in the east (Kuqa River). Overal, the TDS concentration of river water in the upstream increased from west to east. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figures 6 and 7, hydrochemical components of shallow and middle groundwater across the Wei-Ku Oasis varied among the sampling sites,exhibiting spatial heterogeneity, probably due to lithology and underlying surface conditions,as well as human activities (Fig. lc; Wang et al., 2021). Generally, the concentrations of hydrochemical components (TDS, $\\mathrm { C l } ^ { - }$ ， $\\mathrm { \\bar { S O } _ { 4 } } ^ { 2 - }$ $\\mathrm { N a } ^ { + } , \\mathrm { K } ^ { + } , \\mathrm { C a } ^ { 2 + }$ and $\\mathrm { M g } ^ { 2 + }$ ） in the shallow groundwater within the oasis showed horizontal zoning and increased along the regional flow direction from northwest to southeast (Fig. 6). The TDS of shallow groundwater samples ranged from 1021.9 to $2 4 , 1 3 4 . 6 ~ \\mathrm { m g / L }$ . The high value of dissolved ion concentrations for shallow groundwater was observed in several sporadic areas in the southeastern and central parts, whereas the low value was distributed in the northwestern part. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Overall, the spatial distribution pattern of dissolved ion concentrations in shallow groundwater was consistent across the oasis but lower in the northwest than in the southeast (Fig.6),which could be explained by the groundwater depth, dissolving mineral, agricultural irrigation, and drainage in this region (Pant et al., 2018). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f4759e13689eea5200dca4d1b6713b825d3bd10997aa713393214ec00d93f72.jpg",
+        "img_caption": [
+            "Fig.6Spatial distributions of shalow groundwater hydrochemistry in the Wei-Ku Oasis.(a),TDS; (b), Cl; (c), $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ；(d), $\\mathrm { { N a } ^ { + } { + } \\mathrm { { K } ^ { + } } }$ ；(e), $\\mathrm { C a } ^ { 2 + }$ ；(f)， $\\mathrm { M g } ^ { 2 + }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2280c2dd1136d060b5690bb3c3b421173bab419c7f58c217d668ee2e703d328e.jpg",
+        "img_caption": [
+            "Fig.7Spatial distributions of middle groundwater hydrochemistry in the Wei- ${ \\bf \\nabla } \\cdot \\mathrm { K u }$ Oasis. (a),TDS; (b), Cl ; (c),$\\mathrm { S O _ { 4 } } ^ { 2 - }$ ；(d）， $\\mathrm { { N a } ^ { + } { + } \\mathrm { { K } ^ { + } } }$ ；(e), $\\mathrm { C a } ^ { 2 + }$ ； (f)， $\\mathrm { M g } ^ { 2 + }$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，as shown in Figure 7, the spatial variation trend of middle groundwater hydrochemistry was not obvious in the oasis,and the spatial distribution pattern differed between various ions, probably due to the spatial heterogeneity of lithology and groundwater exploitation (Fig.lc) (Wang et al., 2013). The TDS value of middle groundwater ranged from 561.0 to 2934.8 $\\mathrm { m g / L }$ . The spatial distribution patterns of TDS, $\\mathrm { C l } ^ { - }$ ，and $\\mathrm { S O _ { 4 } } ^ { 2 - }$ of middle groundwater were consistent and were much higher in the central part than in the surrounding areas (Fig. 7). However, the cation concentrations $( \\mathrm { N a } ^ { + } , \\mathrm { K } ^ { + } , \\mathrm { M g } ^ { \\hat { 2 } + }$ ，and ${ \\mathrm { C a } } ^ { 2 + }$ ）of middle groundwater did not exhibit an obvious spatial variation trend.In addition, for middle groundwater within the oasis, the recording sites with the highest and/or lowest value varied significantly among various ions. Among the major cations,the ${ \\mathrm { C a } } ^ { 2 + }$ concentration of middle groundwater was higher in the western part of the oasis than in the eastern part, with the maximum value observed near the Xinhe County. Compared to other regions, the $\\mathrm { \\bar { M } g } ^ { 2 + }$ concentration was much higher in the central and western parts while the $\\mathrm { { N a } ^ { + } }$ and $\\mathrm { ~ \\bar { K } ^ { + } ~ }$ concentrations in the central and southwestern parts were found relatively high. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3 Seasonal variations of hydrochemistry ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 exhibited the seasonal variations of the hydrochemical components (TDS, $\\mathrm { C l } ^ { - }$ $\\mathrm { S O _ { 4 } } ^ { 2 - } .$ （号 $\\mathrm { N a } ^ { + } , \\mathrm { K } ^ { + } , \\mathrm { C a } ^ { 2 + }$ and $\\mathrm { M g } ^ { 2 + } )$ for surface water and groundwater in our study region. The dissolved ion concentrations of surface water and groundwater fluctuated during the sampling period, showing significant seasonal variations (Fig. 8). Usually, except for $\\mathrm { K } ^ { + }$ ， the seasonal variation patterns of major dissolved ion concentrations $( \\mathrm { C a } ^ { 2 + } , \\mathrm { M g } ^ { 2 + }$ ， $\\mathrm { \\Delta N a } ^ { \\mathrm { \\ddag } }$ ， $\\mathrm { C l } ^ { - }$ and $\\mathrm { S O _ { 4 } } ^ { 2 - } )$ for river water samples in the upstream were consistent. The lowest values of $\\mathrm { C l } ^ { - }$ ， $\\mathrm { \\Delta S O _ { 4 } } ^ { 2 - }$ ， $\\mathrm { { N a } ^ { + } }$ ， $\\mathrm { M g } ^ { 2 + }$ and $\\mathrm { C a } ^ { 2 + }$ concentrations of river water were observed in summer (26.7, 75.5,23.9,15.7, and $7 2 . 2 ~ \\mathrm { m g / L }$ respectively), whereas the highest values were detected in spring (67.4, 162.7,42.2, 25.0,and $8 7 . 0 ~ \\mathrm { m g / L }$ ， respectively). Nonetheless, the highest and lowest values of $\\mathrm { K } ^ { + }$ concentration were observed in autumn and spring, respectively (Fig. 8e). In contrast, the seasonal differences of $\\mathrm { C l } ^ { - }$ $\\mathrm { S O _ { 4 } } ^ { 2 - }$ $\\mathrm { { N a } ^ { + } }$ ,and $\\mathrm { M g } ^ { 2 + }$ concentrations of river water were significant, while the values of $\\mathrm { K } ^ { + }$ and Ca²+ concentrations varied slightly among seasons. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 8, the ion concentrations of middle groundwater were much lower than those of shallow groundwater across the Wei-Ku Oasis in each season. Hydrochemical components of shallow and middle groundwater samples varied significantly in different seasons, revealing the seasonal variations of hydrochemical components,which may be related to the water sources and water-salt interaction between different aquifers (Zeng et al.,2020). Except for $\\mathrm { { N a } ^ { + } }$ and $\\mathrm { M g } ^ { 2 + }$ ,the seasonal variation patterns of major dissolved ions $( \\mathrm { \\bar { C } 1 ^ { - } , \\ S O _ { 4 } } ^ { 2 - } , \\mathrm { \\bar { K } ^ { + } }$ and $\\mathrm { \\dot { C } a } ^ { 2 + }$ ） of middle groundwater in the oasis were consistent. However, the seasonal variations of different ion concentrations of shallow groundwater differed (Fig. 8). For the middle groundwater, the values of $\\mathrm { C l } ^ { - }$ and ${ \\mathrm { C a } } ^ { 2 + }$ concentrations were slightly higher in spring $\\mathrm { ( C l ^ { - } { = } } 2 8 0 . 9 ~ \\mathrm { \\ m g / L }$ and $\\mathrm { C a ^ { 2 + } } { = } 1 6 0 . 4 ~ \\mathrm { m g / L } )$ than in summer $( \\mathrm { C l ^ { - } { = } } 2 5 8 . 7 ~ \\mathrm { m g / L }$ and $\\mathrm { C \\bar { a } ^ { 2 + } { = } 1 4 0 . 4 \\mathrm { \\dot { \\ m g / L } ) } }$ , whereas the $\\bar { \\bf N } { \\bf a } ^ { + }$ and $\\mathrm { M g } ^ { 2 + }$ concentrations were lower in spring $\\mathrm { ( N a ^ { + } { = } 1 7 5 . 6 ~ \\ m g / L }$ and $\\mathrm { \\Delta \\bar { M } g ^ { 2 + } { = } 8 0 . 7 ~ \\ m g / L ) }$ than in summer $( \\mathrm { N a } ^ { + } { = } 2 3 2 . 6 ~ \\mathrm { m g / L }$ and $\\mathrm { M g } ^ { 2 + } { = } 8 8 . \\dot { 2 } \\ \\mathrm { m g } / \\mathrm { L } \\dot { }$ . For shallow groundwater, the highest and lowest values of $\\mathrm { C l } ^ { - }$ ， $\\bar { \\mathrm { S O _ { 4 } } } ^ { 2 - }$ and $\\mathrm { { \\dot { N } a } ^ { + } }$ concentrations were observed in spring_and summer, respectively. Meanwhile, the $\\mathrm { K } ^ { + }$ and $\\mathrm { C a } ^ { 2 + }$ concentrations were highest in autumn $( \\mathrm { C a } ^ { 2 + } { = } 5 1 4 . 1 ~ \\mathrm { m g / L }$ and $\\mathrm { K } ^ { + } { = } 2 8 . 9 ~ \\mathrm { m g / L } \\$ ）and lowest in summer( $\\mathrm { C a ^ { 2 + } { = } } 3 9 7 . 5 ~ \\mathrm { m g / L }$ and $\\mathrm { K ^ { + } { = } 1 8 . 1 \\ m g / L }$ , and the $\\mathrm { M g } ^ { 2 + }$ concentration was highest in spring $( 3 5 8 . 3 \\mathrm { m g / L } )$ but lowest in autumn $( 3 0 9 . 0 \\mathrm { m g / L } )$ (Fig. 8). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1Spatiotemporal variation characteristics of hydrochemistry ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mean ion concentrations $( \\mathrm { C a } ^ { 2 + } , \\mathrm { M g } ^ { 2 + } ,$ （20号 $\\mathrm { C l } ^ { - }$ and ${ \\mathrm { S O } _ { 4 } } ^ { 2 - } \\$ ）of river water in our study area were much higher than the global average (Meybeck, 2Oo3),but lower than those in the Tarim River (Table 2), probably reflecting the lower precipitation and stronger evaporation in the Tarim River Basin (Pant et al., 2018). Similarly, the $\\mathrm { \\dot { C } a } ^ { 2 + }$ ， $\\mathrm { C l } ^ { - }$ ，and $\\mathrm { S O _ { 4 } } ^ { 2 - }$ concentrations of river water in the Wei-Ku Oasis were higher than those in the Shule River, Heihe River, and Shiyang River, while ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8573ce906204f21b4ce2db2d8fd4d40fb465e1733f3c7381e5f5f0b6144ffde.jpg",
+        "img_caption": [
+            "Fig.8Seasonal variations of surface water and groundwater hydrochemistry in spring,summer,and autumnacross the study area. (a),TDS; (b), $\\mathrm { C l } ^ { - }$ (c）， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ；(d)，, $\\mathrm { { N a } ^ { + } }$ (e）， $\\mathrm { K } ^ { + }$ (f）， $\\mathrm { C a } ^ { 2 + }$ ；(g), $\\dot { \\mathrm { M g } } ^ { 2 + }$ . IQR, interquartile range."
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mg2+ concentration of river water in the Wei-Ku Oasis was higher than that in the Shule River but lower than those in the Heihe River and Shiyang River (Table 2). Such findings may be attributed to the diferent water sources and evaporation (Wang et al.， 2013； Liu et al.，2018). The concentrations of dissolved ions of groundwater samples displayed wide ranges, indicating that groundwater had undergone different hydrogeochemical processes within the aquifer system (Liu et al.,2O18). Another reason may be the water exchange between confined water and higher salinity phreatic water in the oasis (Zeng et al., 2O2O). In recent decades, farmland expansion and population increase have resulted in a sharp increase in water consumption. Due to the limited surface water resources， water consumption for agricultural irigation was increased and groundwater level was decreased, which in turn caused phreatic water leakage downward into the confined aquifer in response (Wang et al.， 2O21). Moreover, the ion concentrations of water samples significantly varied among different water components and were much higher in shallow groundwater than in river water and deep groundwater (Table 1). The higher concentrations of dissolved ions in shallow groundwater samples may be atributed to the fact that high temperature and surface water infiltration could promote the erosion,dissolution,and leaching processes of soluble minerals within the soil profile, causing large amounts of soluble salts to migrate to the shallow aquifers (Tweed et al.,2011; Ma et al.,2013; Huang et al.,2017). On the other hand, a large amount of liquid and solid wastes from nearby cropland, settlements, and factories were directly or indirectly discharged into the aquifers,which critically affected the hydrochemical components of groundwater in the oasis (Sharma et al., 2Ol2; Pant et al., 2018). ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d53bb427e10fc98e0faec373598be881c28c1217363de87da437a75df83a464.jpg",
+        "table_caption": [
+            "Table 2Hydrochemical compositions of river water for the Weigan-Kuqa River Basin and their comparisons with other rivers in arid areas of China and the global mean "
+        ],
+        "table_footnote": [
+            "Note: -, no data. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">River</td><td>Ca²+</td><td>Mg²</td><td>Na++K+</td><td>HCO3</td><td>CI</td><td>SO42-</td><td rowspan=\"2\">Reference</td></tr><tr><td colspan=\"6\">mg/L</td></tr><tr><td>Weigan-Kuqa River</td><td>79.2</td><td>20.7</td><td>37.4</td><td>145.9</td><td>46.2</td><td>122.9</td><td>This study</td></tr><tr><td>Shule River (China)</td><td>28.8</td><td>19.3</td><td>13.9</td><td>139.5</td><td>11.1</td><td>34.8</td><td>Zhou (2015)</td></tr><tr><td>Heihe River (China)</td><td>57.6</td><td>21.5</td><td>18.1</td><td>204.4</td><td>10.0</td><td>86.1</td><td>Nie et al. (2005)</td></tr><tr><td>Shiyang River (China)</td><td>65.7</td><td>29.3</td><td>4.9</td><td>64.9</td><td>1.8</td><td>30.9</td><td>Gao et al. (2006)</td></tr><tr><td>Tarim River (China)</td><td>56.7</td><td>145.3</td><td>302.4</td><td></td><td>769.3</td><td>295.1</td><td>Wang et al. (2013)</td></tr><tr><td>Global mean</td><td>15.0</td><td>4.1</td><td>8.6</td><td>58.4</td><td>7.8</td><td>11.2</td><td>Meybeck (2003)</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Spatial heterogeneity of groundwater hydrochemical components was evident in the oasis (Figs.6 and 7)，which probably overlapped with soluble minerals， groundwater depth,and cropland (Figs.1 and 9) (Pant et al.， 2018). Most major ion concentrations of shallow groundwater within the Wei-Ku Oasis followed the same increasing trend along the flow direction from northwest to southeast (Fig. 6). The higher concentrations of shallow groundwater hydrochemistry in the southeast of the Wei-Ku Oasis were found mainly in the desert region with relatively low groundwater depth (Fig. 9); it is the area most affected by strong evaporation (Huang et al.,20l7). In contrast, lower concentrations of shallow groundwater hydrochemistry in the northwestern oasis were considered to be the outcomes of irrigation and drainage processes as well as groundwater extraction (Thomas et al., 2O15), due to stronger dilution by agricultural irrigation water and more salt discharge by agricultural drainage canals (Wang et al., 2O18; Wang et al., 2021). Moreover, a higher TDS value of middle groundwater was found in the central part of the Wei-Ku Oasis (Fig. 7)，which may be related to land use types and groundwater overexploitation. Cultivated area expansion has caused groundwater overexploitation in the arid oases (Huang et al.， 20l7; Wang et al.， 2021). Groundwater overexploitation could alter the leaking direction between aquifers and redistribute soluble salt within the aquifers (Zeng et al., 2020; Wang et al.,2021). ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/31b4cd3d441711c205cbe8fbb5bb9b777990fa2dc195c794c4428352b3cb7d7a.jpg",
+        "img_caption": [
+            "Fig.9Spatial distributions of land useand land cover (LULC;a)and groundwater level depth (b)in the Wei-Ku Oasis in 2018.The data of groundwater level depth were from Wang et al.(2021). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Concentrations of most major ions in groundwater varied significantly among each season in the arid oasis (Fig. 8); they were closely related to air temperature,runoff, groundwater depth, and agricultural activities (Wang et al.， 2O13)， suggesting that the seasonal variation characteristics of groundwater salt concentration can reflect the temporal variations of recharge sources and methods,as well as hydrological and hydrogeochemical processes (Beal et al., 2019; Wang et al., 2O21). The hydrochemical values of river water in the upstream were lower in summer and higher in spring,which contradicts the seasonal variations of rainfall and runoff. Furthermore,the heavy runoff (Fig. 2) generated from the coupled effects of intense glacier/snow melting and high rainfall during the wet season was responsible for the mild low concentrations of hydrochemical components in surface water (stronger dilution effect) (Zhou,2015; Liu et al., 2018). Additionally, the TDS value of shallow groundwater was higher in spring than in summer and autumn, which may be ascribed to the infiltration from agricultural irrigation water, following the presence of chemical fertilizers and pesticides,the occurrence of dissolving mineral and soil salinity, and the dumping of post-harvest residues (flood irigation in winter and spring) (Sharma et al.,2012; Wang et al., 2021). Furthermore,a higher TDS value of middle groundwater was observed in summer (Fig.8),which was closely related to the cropland area and groundwater level depth in summer (Fig. 9)，suggesting the accumulated influences of human activities (agricultural irrigation and groundwater extraction) (Pant et al., 2018; Castellano et al., 2019). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Dominant factors of groundwater hydrochemistry evolution ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The diagram of the weight ratios between TDS and $\\mathrm { N a } ^ { + } / ( \\mathrm { N a } ^ { + } { + } \\mathrm { C a } ^ { 2 + } )$ or $\\mathrm { C \\bar { 1 } ^ { - } / ( C \\bar { 1 } ^ { - } / H C O _ { 3 } ^ { - } ) }$ exhibited the major mechanisms controlling the hydrochemistry of nature water bodies (Gibbs,1970), including rock dominance， precipitation dominance， and evaporation-crystallization process (Wang et al., 2013) (Fig.1O). As shown in Figure 10, the weight ratio $\\mathrm { N a } ^ { + } / ( \\mathrm { N a } ^ { + } { + } \\mathrm { C a } ^ { 2 + } )$ of river water in the upstream of the Wei-Ku Oasis was lower than O.5,and the salinity was low, indicating that the hydrochemical compositions of river water is primarily controlled by rock dominance. Also,referring to natural mechanisms controlling the groundwater hydrochemistry, there was an obvious difference between various aquifers in the Wei-Ku Oasis. It was noted that the hydrochemical compositions of phreatic water were mainly controlld by rock dominance and evaporation-crystallization process, likewise to the deep groundwater hydrochemistry that was primarily influenced by rock dominance mechanism. Still, the weight ratio $\\mathrm { N a } ^ { + } / ( \\mathrm { N a } ^ { + } { + } \\mathrm { C a } ^ { 2 + } )$ of some middle groundwater samples was higher than 0.6 (Fig. 1O), suggesting that additional mechanisms contribute to the hydrochemical compositions of middle groundwater in the arid oasis (e.g.,human activities) (Zeng et al., 2O2O). The major cations and TDS of deep groundwater in the oasis were similar to those of confined groundwater in the upstream of the oasis, which again reflected the deep groundwater hydrochemistry to be majorly controlled by rock dominance mechanism (such as interactions between water and rock) (Ma et al.,2O13; Pant et al.,2018). ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/542c600873c3f34d24becc8cdc23bee1d9da99ea52c903818000946f416a702c.jpg",
+        "img_caption": [
+            "Fig. 10Plots of TDS vs. $\\mathrm { N a } ^ { + } / ( \\mathrm { N a } ^ { + } { + } \\mathrm { C a } ^ { 2 + } )$ in surface water (a, b) and TDS vs. $\\mathrm { C l ^ { - } / ( C l ^ { - } / H C O _ { 3 } ^ { - } ) }$ in groundwater (c, d) in the Wei- $\\mathrm { \\cdot K u }$ Oasis.The basis for this plot was from Gibbs (1970). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，dissolved species and their relations could reveal the solute origin and hydrogeochemical processes (Fisher and Mullican,1997; Wang et al., 2013). As presented in Figure 4, river water samples were mainly located near the Ca end-member and the $\\mathrm { H C O } _ { 3 } { + } \\mathrm { C O } _ { 3 }$ end-member, informing that the major ionic compositions were mainly derived from carbonate dissolution (Xiao et al., 2015). In general, the hydrochemical compositions of deep groundwater samples were mainly derived from carbonate dissolution and evaporite， meanwhile the hydrochemical compositions of middle groundwater samples came from the carbonate dissolution,and those of shallow groundwater were from the evaporite dissolution in the Wei-Ku Oasis (Pant et al.,2018; Zeng et al., 2020). Additionally, several geochemical processes such as evaporation-condensation, dissolution and precipitation, cation exchange/adsorption,and mixing would be responsible for different groundwater types in the Wei-Ku Oasis (Wang et al., 2013; Li et al.,2019). Phreatic groundwater salinization in the arid oasis may be resulted from the increasing ionic concentrations due to the evaporation-condensation of recharge water (infiltration from riverbank,canal,reservoir,and irigation),as well as the interactions between rock and water. This eventually leads to_the mineral deposition, forming saturated zones (Wang et al., 2021).Furthermore, the $\\mathrm { N a } ^ { + } / \\mathrm { C a } ^ { 2 + }$ ratio of groundwater samples in the oasis increased along the flow path, implying the $\\mathrm { C a } ^ { 2 + }$ loss due to carbonate precipitation and the additional $\\mathrm { { N a } ^ { + } }$ increase through cation exchange (Tweed et al.， 2011; Liu et al., 2018). As well, the mixing process between groundwater and environmental flows within the aquifer system could also play an important role in groundwater hydrochemistry, especially for shallow and middle groundwater, including the mixing between groundwater and weakly mineralized surface water, as well as between confined water and high mineralized phreatic water in some areas (Su et al., 2O09; Zeng et al., 2020). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Human activities such as land use changes, groundwater extraction, agricultural irrigation, and drainage have significantly afected the hydrochemistry of phreatic water and confined water in the Wei-Ku Oasis in recent decades (Xiao et al.,2015; Li et al.,2019). In the Tarim River Basin, evapotranspiration results in the accumulation of evaporites in the upper layer of the soil profile, and the inappropriate irigation regime can exacerbate soil salinization, thus leading to the widespread soil salinization in our study region (Liu et al.,2018; Chen et al.,2019). In paralel, Wang et al. (2O021) reported that soil salinization in the irrigated district was notable due to intense evaporation, long-term irrigation, and relatively shallow groundwater in the Wei-Ku Oasis; they also observed that the soil salt content in the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil depth was $3 . 9 8 ~ \\mathrm { g / k g }$ in 2017.Our findings revealed that the cropland area in the oasis is depended on river water and groundwater extraction for irrigation purposes (Table 3) and has expanded over decades (Fig. 9). Consequently, these activities resulted in the irrigation return flow as a dominant recharge source of shallow groundwater. ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/02bc387ab1f5c686f8ab7c4e96567112c26b996dd2cd69a3860dbed872be76e6.jpg",
+        "table_caption": [
+            "Table 3Information related to land cover types,human activities,and groundwater level in the Wei- $\\mathrm { \\ K u }$ Oasis from 2000 to 2015 "
+        ],
+        "table_footnote": [
+            "Note:The data of human activities and groundwater level were from Wang et al.(2021). "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>2000</td><td>2010</td><td>2015</td></tr><tr><td>Cropland area (km²)</td><td>3969.3</td><td>4302.8</td><td>4389.5</td></tr><tr><td>Bare land area (km²)</td><td>1432.7</td><td>1077.8</td><td>965.3</td></tr><tr><td>Water-saving irrigation area (km2)</td><td>0.0</td><td>460.5</td><td>1103.0</td></tr><tr><td>Irrigation water amount (×10 m)</td><td>22.3</td><td>25.3</td><td>23.1</td></tr><tr><td>Salt recharged by inflow water (×104 t)</td><td>89.0</td><td>101.3</td><td>92.6</td></tr><tr><td>Agricultural water discharged by drainage canals (×10\" m³)</td><td>3.1</td><td>2.3</td><td>1.9</td></tr><tr><td>Agricultural salt discharged by drainage canals (×104 t)</td><td>170.6</td><td>150.9</td><td>94.5</td></tr><tr><td>Groundwater exploitation (×10& m³)</td><td>0.5</td><td>2.8</td><td>2.9</td></tr><tr><td>Depth to groundwater level (m)</td><td>2.7</td><td>4.0</td><td>5.7</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The vertical infiltration from irrigation water could promote the dissolution and leaching of soil salt and soluble mineral by agricultural activities,thus transferring the soluble salt into shallow groundwater and increasing ion concentrations (Han et al., 2O11). Previous studies observed that groundwater salinity had a significant linear correlation with soil salinity in agricultural and saline-alkaline land in arid inland oasis areas(Wang et al.，2O21),indicating that irrigated cultivation in arid inland oasis areas could easily affect groundwater salinity owing to intensive irrigation and ineficient drainage. Likewise, the improved agricultural drainage channels could also significantly affect groundwater hydrochemistry, and shallow groundwater with high salinity near cultivated land will be discharged through the drainage canals (Table 3), thus decreasing the groundwater level and salinity (Wang et al., 2O21). A large amount of salt was discharged by drainage canals in the irrigation district of the Wei-Ku Oasis,with a value of $9 4 . 5 \\times 1 0 ^ { 4 }$ t in 2015 (Table 3). Furthermore, due to river water deficiency, groundwater (especially confined water) was overexploited for agricultural irigation during the growing season over decades, causing a reduction in groundwater level (Table 3). Therefore，groundwater exploitation intensifies the process of groundwater salinization in this oasis to some extent (Wang et al.,2O13), leading to the downward leakage of phreatic groundwater into confined water with the decline of groundwater level. The process also promotes the mixing and interaction of fresh water and saline water among various aquifers (Zeng et al., 2O2O; Wang et al., 2O21). Relevant researches have shown that shallow groundwater depth and intense evaporation are the primary factors influencing the spatial distribution of phreatic groundwater hydrochemistry (Wang et al., 2021). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3Implications for groundwater salt migration under the influence of human activities ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above，spatiotemporal distributions of groundwater hydrochemistry within the aquifer system in arid inland oasis areas would provide insight into the source of groundwater salt and its migration mechanism under the influence of human activities (Wang et al.,2021). Groundwater salt migration is influenced by many factors in the arid dried-up river oasis, such as climate conditions (precipitation and temperature), runoff, hydrogeological conditions,land cover types, groundwater extraction,agricultural irigation,and drainage (Pant et al.,2O18; Porhemmat et al., 2018; Castellano et al.,2019). In the upstream of the Weigan-Kuqa River Basin, salt ions in river water migrate to the downstream with the migration primarily controlled by rock dominance.In the oasis, river water flows into the field for agricultural irrgation through canals and experiences strong evapotranspiration before infiltration, but salt ions in river water can also transfer downward into the soil layer (Chen et al.,2019). Within the vadose zone,soil moisture supplied by the infiltration of rain,riverbank,canal, reservoir, and irigation could migrate downward to recharge phreatic groundwater by gravity gradient, while soluble ions in soil moisture also migrate downward and accumulate in the phreatic aquifer due to evaporation, surface water dilution,soil salt dissolution,leaching,and cation exchange (Xiao et al.,2O15). Soil moisture and salt paterns in the irrigated district were reshaped by long-term irigated agriculture (Yin et al.,2O21).Within the aquifer, phreatic groundwater supplied by surface water infiltration and lateral groundwater flow could leak downward to confined aquifer under the driving of water potential gradient due to groundwater overexploitation. Meanwhile， high concentrations of dissolved ions in phreatic groundwater also transfer downward into the confined aquifer, leading to the deterioration of confined water quality due to the interaction of saline water and fresh water that are mainly controlled by the evaporation-crystallization process,，rock dominance (strong water-rock interaction),and mixing mechanism. So,large-scale land reclamation and groundwater extraction have dramatically altered groundwater water-salt migration processes in this region. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal variations and evolution of groundwater hydrochemistry were investigated using data of 199 water samples collected in the Wei-Ku Oasis of Tarim Basin. The results showed that the mean ion concentrations of river water in the Wei-Ku Oasis were much larger than the global average but lower than the Tarim River. Groundwater hydrochemistry showed spatiotemporal dynamics and seasonal differentiation, and its spatial distribution was complex. Vertically, groundwater ion concentrations decreased with depth along with the aquifers. Generally, the TDS and $\\delta ^ { 1 8 } \\mathrm { O }$ values of river water in the upstream increased from west to east, while shallow groundwater ion concentrations in the oasis increased from northwest to southeast. Higher values of TDS were found in spring for shallow groundwater while in summer for middle groundwater. Pronounced spatiotemporal heterogeneity demonstrated the impacts of geogenic, climatic,and anthropogenic conditions. Agricultural irrigation and drainage， land cover change， and groundwater extraction reshaped the spatiotemporal pattrns of groundwater hydrochemistry. Lately，groundwater overexploitation altered the leaking direction between the phreatic and confined aquifers， causing the salt-fresh water interaction and groundwater environment deterioration. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by the Natural Science Foundation of Xinjiang Uygur Autonomous Region, China (2021D01D0l).We would like to thank the Water-salt Monitoring Station of the Weigan River Basin Authority, Xinjiang Uygur Autonomous Region, China. We also appreciate the editors and anonymous reviewers for their time and constructive comments on the manuscript. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Asoka A,Gleeson T,Wada Y,et al.20l7.Relative contribution of monsoon precipitationand pumping tochanges in groundwater storage in India.Nature Geoscience,10(2): 109-117.   \nBealLK,WongCIautistaKK,etal.19.sotopicndgeocheicalassessmentofthesensitivityof groundwaterouces of Guam,Mariana Islands,to intra-and inter-annual variations in hydroclimate.JournalofHydrology,568:174-183.   \nCaryL,Petelet-GiraudE,BertrandG,etal.2O15.Originsand processesof groundwatersalinization intheurbancoastal aquifers ofRecife (Pernambuco,Brazil):Amulti-isotope approach.Scienceofthe Total Environment,530:411-429.   \nCastellanoMJ,ArchontoulisSV,HelmersMJ,etal.2019.Sustainable intensificationofagricultural drainage.Nature Sustainability,2(10): 914-921.   \nChen HY,ChenYN,LiWH,etal.2019.Quantifyingthecontributionsof snow/glacier meltwatertoriverrunoff in the Tianshan Mountains,Central Asia. Global and Planetary Change,174: 47-57.   \nChenYN,HaoXM,ChenYP,et al.2019.Studyonwater systemconnectivityand ecological protection countermeasuresof Tarim River Basin in Xinjiang.Bulletin of Chinese Academy of Sciences,34:1156-1164.(in Chinese)   \nChenYN,ZhangXQ,FangG H,etal.2020.Potential risksandchalengesof climatechangein thearidregionof northwestern China.Regional Sustainability,l(1): 20-30.   \nCraig H.1961.Isotopic variations in meteoric waters. Science,133(3465):1702-1703.   \nde GraafIEM,GleesonT,van BeekLPHR,etal.20l9.Environmentalflowlimits to global groundwaterpumping.Nature, 574(7776): 90-94.   \nErler AR,FreySK,KhaderO,et al.219.Evaluating climatechange impacts on soil moistureand groundwaterresources within a lake-affected region. Water Resources Research, 55(10): 8142-8163.   \nFengQ,LiuW,SuYH,etal.2O04.Distributionandevolutionof waterchemistry in HeiheRiver basin.Environmental Geology,45(7): 947-956.   \nFisher R S,Mullcan II WF.1997.Hydrochemical evolutionof sodium-sulfateand sodium-chloride groundwaterbeneath the Northern Chihuahuan Desert,Trans-Pecos,Texas,USA.Hydrogeology Journal,5(2): 4-16.   \nFuchs EH,King JP,CarollKC.2O19.Quantifying disconnectionof groundwaterfrom managed-ephemeral surface water during drought and conjunctive agricultural use.Water Resources Research,55(7):5871-5890.   \nGaoYX,WangGL,LiuHT,etal.2Oo6.Analysis theinteractionetweentheunconfined groundwaterandsurface waterbased on thechemical informationalongthe Shiyang River,northwestern China.Journalof AridLand Resourcesand Environment, 20(6):84-88.(in Chinese)   \nGates JB,Edmunds WM,Darling WG,et al.2O08.Conceptual model of recharge to southeastern Badain Jaran Desert groundwater and lakes from environmental tracers.Applied Geochemistry,23(12): 3519-3534.   \nGibbs R J.1970.Mechanisms controlling world water chemistry. Science,170:1088-1090.   \nHanDM,SongXF,Currell,etal.2O11.Asurveyof groundwaterlevelsandhdrogeochemistryinirigatedfields inthe KaramayAgricultural Development Area,northwest China:Implications for soil and groundwater salinityresulting from surface water transfer for irrigation.Journal of Hydrology, 405:217-234.   \nHasanT,TiyipT,GazatM,etal.2O11Spatialandtemporaldynamicdistributionof groundwaterdepthandmineralizationin Weigan River irrigation district. Scientia Geographica Sinica,31: 1131-1137.   \nHuang TM,Pang ZH,LiuJL,etal.2O17.Groundwaterrecharge inanarid graslandas indicated bysoilchlorideprofileand multiple tracers.Hydrological Processes,31(5):1047-1057.   \nJasechko S,SeyboldH,PerroneD,etal.2O21.Widespread potentiallossofstreamflowintounderlyingaquifersacross the   \nJiaH,Qian H,ZhengL,etal.2O2O.Alterations togroundwaterchemistrydue tomodern water transferforirigationover decades.Science of the Total Environment,717: 13717,doi: 10.1016/j.scitotenv.2020.137170.   \nKaurL,RishiMS,Sharma S,etal.2O19.Hydrogeochemical characterizationof groundwater in alluvial plainsof River Yamunain Northern India:aninsightofcontroling processes.JournalofKingSaud University-Science,31(4):1245-1253.   \nKulmatovR,Mirzev J,Abuduwaili J,etal.2O20.Chalenges forthesustainableuseof waterand landresources undera changing climateand increasing salinization inthe Jizzakh irigation zoneof Uzbekistan.Journal of Arid Land,12(1): 90-103.   \nLezaik K,Milewski A,Mullen J.2018.Thegroundwaterrisk index: Developmentand application in the Middle East and North Africa region. Science of the Total Environment, 628:1149-1164.   \nLi ZJ,YangQC,Yang YS,etal.2019.Isotopicand geochemical interpretationof groundwaterunder the influencesof anthropogenic activities. Journal of Hydrology, 576: 685-697.   \nLiu YL,Jin MG Wang JJ.2018.Insights into groundwatersalinizationfromhydrogeochemicalandisotopic evidence inan arid inland basin.Hydrological Processes,32:31o8-3127.   \nMa J,He J,Qi S,etal.2013.Groundwater rechargeandevolution in the Dunhuang Basin,northwestern China.Applied Geochemistry,28:19-31.   \nMeybeck M.2003.Global occurrence of major elements in rivers.Treatise on Geochemistry,5(1): 207-223.   \nNie ZL,Chen ZX,Cheng XX,etal.2Oo5.Thechemical informationof theinteractionofunconfinedgroundwaterandsurface wateralong the HeiheRiver,Northwestern China.Journalof Jilin University(Earth ScienceEdition),35(1):48-53.(in Chinese)   \nNoshadi M,Fahandej-Saadi S,Sepaskhah AR.2020.Applicationof SALTMED and HYDRUS-1D models for simulations of soil water content and soil salinity in controlled groundwater depth.Journal of Arid Land,12: 447-461.   \nObeidat M,AwawdehM,Al-KharabshehN,etal.2O21.Sourceidentificationofnitrateintheupperaquifersystemofthe Wadi Shueib catchment area in Jordan based on stable isotope composition.Journal of Arid Land,13(4):350-374.   \nPant RR,ZhangF,RehmanFU,etal.2O18.Spatiotemporal variationsofhydrogeochemistryanditscontrolling factors nthe Gandaki River Basin, Central Himalaya Nepal. Science of the Total Environment,622-623:770-782.   \nPiper AM.1944.A graphic procedure in thegeochemical interpretationof water-analyses.Eos,Transactions,American Geophysical Union,25(6): 914-928.   \nPoremmatJ,NakhaeiM,DadgarMA,etal.2018.Investigatingtheeffectsofirigationmethodsonpotentialgroundwater recharge: Acase study of semiarid regions in Iran.Journal of Hydrology, 565: 455-466.   \nRiley D,MienoT,Schoengold K,etal.2019.Theimpactof landcoverongroundwaterrecharge inthe High Plains:An application tothe Conservation Reserve Program.Science ofthe Total Environment，696:133871，doi: 10.1016/j.scitotenv.2019.133871.   \nScanlon BR,KeeseKE,FlintAL,etal.20o6.Global synthesisof groundwaterrecharge insemiarid andarid regions. Hydrological Processes,20(15): 3335-3370.   \nSharma A,Singh AK,KumarK.2012.Environmental geochemistryand quality assessment ofsurface and subsurface waterof Mahi River basin,western India.Environmental Earth Sciences,65(4):1231-1250.   \nShen BB,WuJL,Zhan S,etal.2O21.Spatial variationsandcontrolsonthe hydrochemistryofsurface waters across the Ili-Balkhash Basin,arid Central Asia.Journal of Hydrology,600:126565,doi:10.1016/j.jhydrol.2021.126565.   \nSu YH,Zhu GF,Feng Q,etal.2O09.Environmental isotopicand hydrochemical studyof groundwater in theEjina Basin, northwest China.Environmental Geology, 58(3): 601-614.   \nThomas J,JosephS,Thrivikramji KP.2015.Hydrochemicalvariationsofatropical mountainriver system inarain shadow region of the southern Western Ghats, Kerala,India.Applied Geochemistry, 63: 456-471.   \nTweed S,Leblanc M,CartwrightI,etal.2011.Arid zone groundwaterrechargeandsalinisationprocesses;anexample fromthe Lake Eyre Basin,Australia. Journal of Hydrology, 408(3-4): 257-275.   \nWang DD,ZhaoCY,ZhengJQ,etal.2021.Evolutionofsoil salinityandthecriticalratioof drainage toiigation (CRDI) in the Weigan Oasis in the Tarim Basin. Catena,201:105210,doi:10.1016/j.catena.2021.105210.   \nWang J,Han HD,ZhaoQD,et al.20l3.Studyon hydrochemical componentsof river water in the Tarim River Basin, Xinjiang,China.Arid Zone Research,30(1):10-15.(in Chinese)   \nWangP,YuJJ,ZhangYC,etal.2O13.Groundwaterrechargeandhydrogeochemicalevolution intheEjinaBasin,northwest China. Journal of Hydrology, 476: 72-86.   \nWang W H,WuTH,ZhaoL,et al.2O18.Hydrochemical characteristics of ground ice in permafrost regions of the Qinghai-Tibet Plateau. Science of the Total Environment, 626: 366-376.   \nWang WH,ChenYN,WangWR.2O20.Groundwaterrechargeintheoasis-desertareasofnorthernTarimBasin,northwest China.Hydrology Research,51:1506-1520.   \nWang WR,ChenYN,Wang WH,etal.2021.Evolution characteristicsof groundwaterand itsresponse toclimate and land-coverchangesintheoasisof dried-upriverin Tarim Basin.Journal of Hydrology，594:l25644，doi: 10.1016/j.jhydrol.2020.125644.   \nWuHW,WuJL,LiJ,etal.22.Spatialvariationsofhydrochemistryand stable isotopes inmountainous river waterfromthe Central Asian headwaters of the Tajikistan Pamirs.CATENA,193:104639,doi:10.1016/j.catena.2020.104639.   \nXiao J,JinZD,WangJ,etal.0l5.Hydrochemicalcharacteristics,controlingfactorsandsolutesourcesof groudwater withinthe TarimRiverBasin intheextremearidregion,NWTibetanPlateau.Quaternary International,38O:237-246.   \nYinXW,FengQ,Zheng XJ,etal.2021.Assssng theimpactsof irigatedagricultureonhydrologicalregimes inan oasis-desert system.Journal of Hydrology,594:125976,doi: 10.1016/j.jhydrol.2021.125976.   \nZeng YY,ZhouJL,Nai WH,etal.,2O20.Hydrogeochemical procesesof groundwaterformationinthe KashgarRiverBasin, Xinjiang.Arid Zone Research,37: 541-550.(in Chinese)   \nZhang X,Zhang L,He C,etal.2014. Quantifying the impactsofland use/landcover changeon groundwater depletion in Northwestern China-A case study of the Dunhuang oasis.Agricultural Water Management,146: 270-279.   \nZhao M,GeruoA,Zhang J,etal.2O21.Ecologicalrestoration impactontotal terrestrialwaterstorage.Nature Sustainability 4(1): 56-62.   \nZhou JX.2O15.Hydrograph separation in the headwater area of Shule River Basin: combining water chemistry and stable isotopes.MSc Thesis.Beijing: University of Chinese Academy of Sciences.(in Chinese) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

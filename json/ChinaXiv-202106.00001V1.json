@@ -1,0 +1,566 @@
+[
+    {
+        "type": "text",
+        "text": "注意刷新的作用机制和内部过程",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林世卿 李海峰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（福建师范大学心理学院，福州350117）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要注意刷新是一种独立于发音复述的工作记忆维持机制，它通过将工作记忆中的信息提取到注意的焦点，从而促进、延长和加强这些信息的激活。当发音复述受限时，注意刷新帮助人们维持记忆。注意刷新的常用策略是优先刷新弱激活项目，但有时经验相关的刺激也会获得优先刷新。未来的研究可以从注意刷新是否能作用于记忆的精确性、干扰或处理任务如何影响刷新速度，以及在高注意负荷条件下优先刷新弱激活项目是否仍然是一种合理的策略入手，来进一步探究注意刷新的作用机制和内部过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 注意刷新、工作记忆、内部注意",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工作记忆因其连接了记忆的维持和加工系统而成为认知的中枢。信息的遗忘和维持是工作记忆研究的一个焦点。现有的大部分理论认为，工作记忆中的信息会随着时间的推移而自然衰退（Barrouillet&Camos,2012a; Ricker et al.,2020)，而有一种依赖于注意的维持机制能够抵制记忆的遗忘，这一机制被称为注意刷新。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于刷新的构想最初出现在Johnson（1992）的多通道模块化记忆系统框架（Multiple-Entry,Modular Memory System framework）中。在该框架中，刷新是一种简单的反射过程，可以延长刚刚激活的表征的激活时间。随后，Barrouillet 和Camos（2012b）在基于时间的资源共享（Time-Based Resource-Sharing，TBRS）模型中，将刷新与注意和记忆的提取联系在一起。注意刷新通过将信息提取到注意的焦点来重新激活衰退的记忆痕迹。这一注意刷新的机制被研究者广泛接受，并为许多工作记忆的研究提供了新的思路。对注意刷新的研究能够帮助我们明确工作记忆中的内容是如何衰退和维持的。除此之外，刷新过程对注意的需求有助于我们理解工作记忆中维持和加工之间的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尽管近年来的研究极大地加深了我们对注意刷新的认识，但由于注意刷新是一种内部注意过程，难以直接观察，因而其作用机制和内部过程依然存在一些争议和未解之谜。因此，本文将聚焦于注意刷新的作用机制和内部过程，以期在现有研究的基础上较为全面地解释注意刷新是如何进行的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2注意刷新及其独立于发音复述的证据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注意刷新和发音复述是工作记忆的两种主要的维持方式。注意刷新通过将信息提取到注意的焦点从而促进和延长这些信息的激活（Camos etal.,2018)。依据进行方式的不同，注意刷新可以分为两种形式。一种是自发进行的注意刷新，通常是无意识的、快速的。在这种刷新形式下，个体刷新单个项目的时间约为 $5 0 \\mathrm { m s }$ （Vergauwe et al.,2014）。另一种是由外部线索引导进行的注意刷新，通常是有意识的、缓慢的。这种方式的注意刷新通常需要通过线索引导被试对特定的项目进行刷新(van Moorselaar etal.,2015)。而发音复述是一种发音过程，主要用于维持工作记忆中基于语音表征的信息（Oberauer,2019）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有的证据表明，注意刷新和发音复述是两个相对独立的过程。注意刷新依赖于可利用的注意资源而发音复述依赖于发音系统。它们可以单独作用于工作记忆的维持过程，并激活了不同的大脑区域（Camos et al.,2009; Raye et al.,2007; Trost ＆ Gruber,2012)。为了考察注意刷新和发音抑制对记忆的有效性，Camos 等人（2009）在实验1中设计了两种发音抑制条件，并在这两种条件下操纵了被试是否可以进行注意刷新。在一种条件下，被试需要在记忆维持期间大声朗读并完成屏幕上呈现的简单算术题（如 $3 + 5 = ?$ )。由于计算占用了被试的注意资源，因而在这种条件下，被试将无法进行注意刷新。在另一种条件下，被试在记忆维持的同时只需要大声朗读屏幕上呈现的算式（如 $3 + 5 = 8 { \\pmod { } }$ )。由于被试无需进行计算，因而可以在完成任务的同时进行注意刷新。结果表明，在这两种发音复述均被完全抑制的情况下，相较于不能进行注意刷新，被试在可以进行注意刷新的条件下有更好的回忆成绩。相应地，在实验2中，他们在两种注意刷新抑制条件下操纵了被试是否可以进行发音复述。结果表明，在注意刷新被完全阻碍的情况下，相较于不能进行发音复述，被试在可以进行发音复述的条件下有更优的回忆成绩。这两个实验表明，注意刷新和发音复述可以在其中一种过程被阻碍时，单独帮助个体维持记忆。同时，Raye 等人（2007）的研究发现，被试对语音信息的发音复述激活了腹外侧前额叶，而对信息进行注意刷新激活了背外侧前额叶。此外，Trost 和Gruber（2012）在脑损伤患者上的研究表明，布洛卡区损伤的患者很难通过发音复述来维持记忆，但注意刷新功能没有受损。相反，双额极脑损伤患者的注意刷新功能受损，但发音复述的表现则未受影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3注意刷新的研究范式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往关于注意刷新的研究多使用回溯线索（retro-cue）范式和复杂广度任务（complexspan task)。回溯线索范式通常在被试对记忆材料编码后通过一个线索来引导被试对特定项目进行刷新（Bartsch etal.,2018)。该范式测量的是被动的、引导下的注意刷新。复杂广度任务通过在维持阶段插入注意干扰任务来阻碍被试进行刷新，测量的是自发的注意刷新（Camos et al.,2017;Abadie&Camos,2018)。然而这两种范式都无法测量注意刷新的内部过程。而最近利用眼动设备开发的一种新的范式——空白屏范式（Kaldi& Babarczy,2021)，为注意刷新的研究提供了新的可能。该范式通过分析记忆维持期间被试在空白屏幕上呈现的眼动轨迹来描述注意刷新的内部过程。然而该范式的机制尚存一些疑点，还需要进一步的检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1回溯线索范式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在注意刷新的研究中，一个常用的范式是回溯线索范式。由于在该范式中，被试需要对回溯线索进行加工，并在该线索的引导下进行刷新，因而该范式研究的是缓慢、被动的注意刷新过程。该范式最早由Griffin 和 Nobre（2003）在研究中使用。在实验中，首先，被试需要记忆在屏幕的不同位置呈现的多个刺激。刺激消失后屏幕的中央会出现一个空间线索，指向其中一个刺激的位置。这个线索将引导被试将注意指向该位置刺激的内部表征，从而重新激活该表征。随后被试需要判断出现在屏幕中央的探测刺激是否是先前呈现的刺激中的一个。结果表明，相比无任何指向的中性线索，有效的回溯线索能缩短判断的反应时。这种形式的回溯线索被称为内源性线索（endogenous cue)，即呈现在屏幕中央并指向刺激位置的线索)。后续的研究进一步表明，外源性线索（exogenouscue)，即呈现在刺激位置的线索，和特征线索（feature cue)，即呈现在屏幕中央提示刺激特征的线索（如屏幕中央呈现一个红色图形，引导被试将注意聚集于先前呈现过的红色刺激),也可以引导被试进行注意刷新(Heuer& Schubo,2016;Vandenbroucke et al.,2014)。回溯线索范式直接、便捷，允许对注意刷新的目标和频率进行操纵，但无法用于研究自发的注意刷新过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2复杂广度任务",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复杂广度任务最早被用于评估被试的工作记忆容量（Daneman&Carpenter,1980)。在实验中，被试在进行记忆时需要完成额外的加工任务。例如，被试阅读一系列句子并判断句子是否有意义，同时记忆句子末尾的单词。在注意刷新的研究中，加工任务通常使用算术任务（如， $3 + 5 = ?$ ）或空间任务（如，判断呈现的刺激是在屏幕的上方还是下方)。与单纯的记忆任务相比，额外的加工任务占用了被试的注意资源，使得被试无法对记忆项进行刷新，从而降低了回忆成绩。复杂广度任务能够反映出自发刷新在工作记忆维持中的作用，使得研究者可以探究不同类型的材料（如，熟悉度）对注意刷新的影响。然而，除了注意刷新以外，记忆不可避免地会受记忆编码和巩固过程的影响，这使得复杂广度任务很难测量出注意刷新对记忆的单独贡献。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3空白屏范式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最新的研究使用了一种新的范式—一空白屏范式来研究注意刷新过程。该范式利用眼动数据来描述内部注意过程（Kaldi& Babarczy,2021)。在视觉刺激呈现后，显示一个空白屏幕，在此期间记录被试的眼动轨迹。该范式背后的基本原理是，被试在记忆的编码阶段构建刺激的表征并标记其空间位置。当刺激消失后，指向表征的内部注意反映在对应刺激的外部位置上（Martarelli et al.,2017; Scholz et al.,2016)。也就是说，提取信息会重新激活相关的位置标记，从而引发眼球在空白屏幕中向对应的空间位置移动。空白屏范式为注意刷新的研究提供了新的可能，它允许我们以更直观的形式测量注意刷新的频率和轨迹。然而，这一测量模式并不一定是准确的。Scholz等人（2018）的研究表明，即使眼球没有运动，隐蔽的注意转移同样可以提高记忆提取的绩效。这意味着，注意刷新可能发生在一些没有被眼动轨迹所记录的隐蔽的注意转移过程中。因此，眼动轨迹可能无法描述注意刷新的全部过程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4注意刷新的作用机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1注意刷新是如何起作用的",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注意刷新是通过将信息提取到注意焦点来进行的。Vergauwe 和Cowan（2015）的实验证实了这一假设。实验中，被试需要记忆一系列红色字母，并在记忆维持期间对连续呈现的4个黑色字母作出不同的反应：一种是忽略条件，要求被试忽略黑色字母；一种是位置条件，要求被试判断黑色字母呈现在屏幕的上方还是下方；一种是字母表条件，要求被试按照字母表顺序，判断黑色字母是出现在“O”之前还是之后；还有一种回忆条件，要求被试判断黑色字母是否出现在红色字母列表中。与位置条件相比，字母表条件需要被试从长时记忆中提取信息，而回忆条件需要被试从工作记忆中提取信息，因而这两种条件都需要占用被试额外的注意资源。实验结果表明，尽管相比位置条件，在回忆条件下从工作记忆中提取信息的额外注意过程占用了更多的认知资源，两者的记忆成绩却无显著差异。然而，在依赖于长时记忆的字母表条件下，被试对红色字母的回忆成绩比位置条件更差。这意味着，记忆项在工作记忆搜索过程中被重新激活，就像是对该项目进行刷新一样。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2注意刷新的作用信息",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相比于受限于语音表征的发音复述，注意刷新被认为是一种通用的记忆维持方式，适用于维持工作记忆中不同类型的信息（如语音的、视觉的或空间的信息)。但有研究表明，注意刷新对不同类型的信息所起的维持效果是不同的。如，Alessandra（2018）在实验中通过回溯线索引导被试对不同类型的信息进行刷新，结果显示注意刷新虽然能提升所有类型信息的记忆成绩，但相较于语音信息而言，注意刷新对视觉和空间信息的记忆成绩有更明显的提升。然而，这一结论是建立在使用回溯线索引导被试进行注意刷新的情况下。当被试自发进行刷新时，注意刷新是否会对不同类型的信息产生不同的影响还不得而知。此外，一些特殊的信息并不支持注意刷新。如，Vergauwe 等人（2014）的研究显示，相比要求被试在记忆维持期间执行奇偶判断任务（即抑制注意刷新)，允许注意刷新并没有提升特殊字体的字母的记忆。类似地，即使维持期间没有抑制注意刷新，非常规字符的记忆也会随着时间的延长而衰退（Ricker＆Cowan,2010)。换言之，注意刷新并不能促进上述两类项目的保持。一个合理的解释是，这些特殊的信息只能以感官的形式保存，无法形成表征，因此无法被刷新（Camos etal.,2018)。综上所述，注意刷新可以作用于所有能够形成表征的信息，但对于不同类型的信息的作用可能存在差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3什么时候使用注意刷新",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当注意刷新与发音复述同时可用时，人们会选择哪个策略进行记忆的维持？众所周知，人类有避免耗费认知资源的倾向（Stanovich&West,2000)。这意味着占用资源较少的发音复述是人们的第一选项。然而在两种情况下，注意刷新发挥了它的功效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一种是，当发音复述受限或发音复述效果不佳时，注意刷新就成为了记忆维持的优先选项。显然，在记忆信息无法用言语表征或要求被试执行发音抑制的情况时，被试会通过注意刷新来维持记忆。另外，当记忆信息的语音相似性较高导致发音复述的效果很差时，注意刷新也会接管维持系统。Camos等人（2011）在复杂广度任务中操纵了列表词的语音相似性和维持期间的注意需求来研究发音复述与注意刷新的适应性选择。结果表明，当维持期间进行的任务阻碍了注意刷新时，才会出现语音相似效应。这意味着当记忆语音易混淆的信息时，被试会使用注意刷新来维持信息以减少语音特征对记忆的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另一种是，当单一策略无法维持全部记忆项目时，注意刷新和发音复述的联合使用能够提供最大的记忆容量。虽然两种维持策略都能分别维持约4个组块的容量，但是先前的研究只能在联合使用的情况中观察到最大为6个的字母记忆容量(Dempster,1981)，而不是8个。问题可能在于，即使项目的数量超过了语音环路的容量，被试仍然会自然地依赖发音复述。Barrouillet等人（2020）最新的研究使用了一种新的范式。该范式首先要求被试记忆并不断复述数量不超过语音环路容量（3-5个）的字母。随后，在保持复述的情况下继续记忆并以注意刷新的方式维持后续呈现的字母。结果证实了注意刷新和发音复述的联合使用能够使被",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试记住8个左右的字母。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5注意刷新的内部过程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为一种内部的心理过程，注意刷新是如何进行的，以及什么样的信息会优先得到刷新？这一话题争论已久。最初，从发音复述中借鉴而来的累积前序刷新没有得到实验和计算模型的支持而被抛弃（Vergauwe et al.,2016; Vergauwe,2018; Vergauwe et al.,2018)。随后,研究者们寻找了两个代替方案：并行刷新（Portrat＆Lemaire,2015）和优先刷新弱激活信息（Jafarpour et al.,2017;Lemaire et al.,2018)。并行刷新的核心假设是注意焦点可以随着任务的要求而扩大或缩小（Cowan et al.,2012)。目前这一假设还没有清晰的结论，既有支持的证据也有反对的证据。优先刷新弱激活信息的刷新方式似乎是最符合实际的刷新方式，并且得到了脑磁图和计算模型研究的支持。此外，不同于上述的刷新方式，经验相关的刺激会在刷新过程中强制性地捕获个体的注意，从而被优先刷新（Thomas etal.,2016;Yin et al.,2019)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1累积前序刷新 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "受发音复述进行方式的启发（Tan&Ward,2008)，最初在TBRS 模型中，刷新以串行的、累积前序（cumulative forward-order）的方式进行。个体根据编码的顺序将每一个项目依次纳入刷新列表，个体的注意焦点从一个项目到下一个项目不断循环，从而依次增强了列表项目的激活水平（Barrouillet & Camos,2012a; Loaiza & McCabe,2012; Vergauwe et al.,2014）。然而实验研究的结果并不支持这一观点。Vergauwe（2018）的研究通过回溯线索引导被试以三种不同的方式进行刷新（从第一个位置开始按前序进行刷新、从随机位置开始按前序进行刷新、从随机位置开始按随机顺序进行刷新)，考察不同的注意刷新方式对字母回忆成绩的影响。如果刷新是以累积前序的方式进行的，那么引导被试以不同的方式进行刷新就会对回忆造成损害。然而实验结果表明，上述三种刷新方式对记忆成绩的影响没有显著差异，且相较于自发进行刷新的条件，这三种刷新方式都损害了记忆成绩。这说明注意刷新很可能不是以累积前序的方式进行的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2并行刷新 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "既然注意刷新并不是以累积前序进行的，那么刷新是以何种方式进行的呢？一个代替方案是个体在刷新时的注意焦点可以随着任务需求而扩大至最多4个项目，从而能够同时刷新多个项目，这种机制被称为并行刷新。并行刷新的理念来源于Cowan 等人（2012）的假设。他们认为注意的控制能力是个体差异的重要体现。个体能灵活地控制其注意力的焦点，在低认知负荷时可将注意焦点集中在单一项目上，而在高认知负荷时可扩大注意焦点以最大程度",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地维持多个项目。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "尽管没有行为实验的支持，但这种并行刷新的方式得到了计算模拟的支持。Portrat 和Lemaire（2015）的研究利用 TBRS 模型建立的计算模型表明，如果以累积前序的刷新方式拟合现实数据必须假设刷新进行的非常迅速，需要在 $1 0 \\mathrm { m s }$ 内完成一次刷新，这显然是不合理的。如果可以将注意焦点扩大至4个项目，以 $4 0 \\mathrm { m s }$ 每次的刷新速率进行刷新则能够较好地拟合现实数据（Vergauwe et al.,2014）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "然而也有一些证据并不支持并行刷新。在Oberauer（2002）的研究中，被试需要记住屏幕上呈现的所有数字。数字消失后，其中一个数字的对应位置会呈现一个运算提示（如，$+ 2$ )，要求被试对该数字进行计算并在记忆中更新。被试完成计算和更新后按空格进行下一次的计算更新。实验的结果表明，被试在连续计算更新同一个位置的数字时比连续计算更新不同位置的数字时反应更快。这意味着被试只能将注意焦点集中在一个项目上。注意焦点是否能扩大至多个项目的争论还在继续，对这一内容的深入探讨超出了本文所讨论的范围。事实上，注意刷新可能发生得过于迅速，以至于用传统的心理学方法很难明确区分注意刷新是串行还是并行进行的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.3优先刷新弱激活项目",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一些研究为串行刷新提供了新的思路，它们都强调弱激活项目在注意刷新过程中的优势。Jafarpour 等人（2017）的实验要求被试记忆三种有不同空间皮层表征的图像—一面孔、椅子（人造物体）和水果（自然物体)。他们使用脑磁图对记忆维持期间大脑活动的解码显示，有且仅有一个图像在维持阶段得到了优先反应从而增强了回忆效果。对记忆编码过程中事件相关场（event-related field）的分析表明，优先获得刷新的项目是编码时激活最弱的项目。作者认为，对弱编码项目的优先刷新可以保护它们在维持期内不受干扰，而强编码项目则可以在延迟结束后从长时记忆中恢复。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lemaire等人（2018）基于TBRS模型分别在单次刷新时间为 $4 0 ~ \\mathrm { m s }$ 和 $8 0 ~ \\mathrm { m s }$ 的两种条件下对七种刷新过程模型进行了模拟计算。这七种刷新过程包括：累积前序刷新、随机刷新、只刷新最后编码的项目、只刷新低于激活阈值项目（与累积前序刷新类似，但当所有项目都高于激活阈值时则不再刷新)、优先刷新当前激活最弱的项目、概率刷新（当前激活最弱的项目有更高的概率被刷新）和并行刷新。模拟的结果表明，优先刷新当前激活最弱的项目与现实数据的拟合最优。同时，作者提出了优先刷新弱激活项的两种可能方案。一种是被试在每次执行刷新时会对记忆项进行快速扫描以确定当前激活最低的项目。另一种是被试会在实验的多次刷新过程中累积经验，在刷新前根据项目和时间安排好刷新的进程。作者认为这两种方案作用于不同的情况，前一种方案会占用较大的认知资源，而后一种方案所需的认知资源较小，但选择哪种方案刷新则取决于当前任务的认知资源和个体的经验基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.4优先刷新经验相关刺激",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "前文所述的刷新方式体现了在记忆一些无特殊含义的项目时注意刷新的一般模式，然而一些特殊的刺激可能在刷新时具有独特的优势。在听觉注意的多层次框架模型（TheMultiple-Levels Framework of Auditory Attention，MFAA）中，个体的注意不仅可以通过当前目标（current goal)来引导，而且会受刺激显著性（stimulus salience）和经验的引导（Addleman&Jiang，2019)。回溯线索范式已经证实了当前目标能够引导被试进行注意刷新（Souza&Oberauer,2016)。由于刺激显著性被认为是外部注意的一种特性（Chun etal.,2011)，而注意刷新是一种内部注意过程，因此刺激显著性并不会影响注意刷新过程。那么，经验相关的刺激是否会在注意刷新过程中被优先刷新呢？",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thomas 等人（2016）的研究证实了奖赏相关的刺激会在注意刷新过程中被优先刷新，并提高了对应刺激的回忆成绩。他们的实验分为学习和工作记忆测试两个阶段。在学习阶段，通过颜色与分数的联结，训练被试建立起特定颜色和价值之间的联系。具体来说，屏幕中的四个位置会呈现四个方块，被试在四个方块中选择一个进行点击，随后该位置的方块被一个带有颜色的刺激替代，并呈现被试获得的分数。四个颜色的刺激始终对应一个分数（-10，0,0， $+ 1 0$ )。实验结束后，被试获得的总分可以换算成金钱奖励。在工作记忆测试阶段，被试需要记忆屏幕上呈现的四个刺激（其中三个刺激都没有颜色，一个刺激对应于之前学习过的一种颜色)，并在一定的时间间隔后判断屏幕中央呈现的刺激是否是之前记忆过的刺激。结果表明，在编码期同等的注视时间下，被试对分数 $^ { + 1 0 }$ 对应的高价值刺激的回忆成绩优于分数0对应的中性刺激，对中性刺激的回忆成绩优于分数-10对应的低价值刺激。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "另外，Yin等人（2019）的研究证实了自我相关的刺激会在注意刷新过程中被优先刷新。在该研究中，被试首先在学习阶段通过联想学习任务建立起特定颜色和自我、朋友、陌生人三个社会标签的联系。在编码阶段中，两个先前学习过的颜色的圆点出现在不可见正八边形的两个不相邻顶点上。被试需要记住这两个圆点的颜色和位置。不同于以往研究的是，在记忆的维持阶段被试需要完成一个额外的点探测任务。该任务会在之前呈现的两个彩色圆点中的一个位置上随机呈现两个垂直或水平的小点，并要求被试判断这两个小点是水平还是垂直的。在最后的回忆阶段，在不可见正八边形的八个位置之一会出现一个黑色圆点。被试需要判断黑色圆点的位置是否匹配之前呈现的两个彩色圆点中的任意一个。点探测任务的反应时用于衡量注意刷新过程中对应位置刺激的刷新优势。其依据是，当注意指向储存在工作记忆中的某个位置时会使得对该位置上呈现的外部刺激的反应变快（Awhetal.,1998)。通过这种方法，自我相关刺激所在位置在点探测时的更快反应意味着自我相关刺激在工作记忆维持阶段被优先刷新。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6总结与展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注意刷新不仅是维持记忆的一种机制，而且与信息加工过程密切相关，因而成为工作记忆研究中的一个热点。本文围绕注意刷新的作用机制和内部过程展开，尝试解答“注意刷新是如何起作用的、刷新何种类型的信息、何时使用注意刷新，以及注意刷新的方式是什么”等问题。注意刷新通过将信息提取到注意的焦点来促进、延长这些信息的激活水平。它不依赖于语音环路，因而能够作用于所有能形成表征的信息，但对于不同类型信息的作用可能存在差异，特别是对视觉和空间信息的记忆有更明显的提升。当发音复述受限或无法维持全部信息时，注意刷新帮助我们更好地维持工作记忆信息。然而，对注意需求的依赖也决定了注意刷新是一个易受干扰的过程，限制了它的使用。注意刷新在一般情况下极有可能是通过优先刷新弱激活项目来进行的，这体现了工作记忆维持系统的高效性。此外，一些经验相关的刺激，如奖赏相关和自我相关的刺激，会被个体优先刷新。最后，本文将介绍一些新的研究方向，希望能对未来的研究有所启发。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先，未来研究可进一步探究注意刷新是否能作用于记忆的精确性。记忆的可及性描述了提取特定信息的可能性；记忆的精确性描述了提取特定信息时信息细节的保存程度。过去的研究多数聚焦于记忆的可及性（Vergauwe＆Langerock,2017)，通常只区分记忆信息能否被提取，而没有考察提取时信息细节的保存程度。得益于连续报告范式和混合建模的发展，越来越多的研究开始涉及记忆的精确性（Zhang＆ Luck，2008；Souza& Oberauer，2015;Berens et al.,2020)。在连续报告范式中，被试需要在连续的刻度上指示所记住的项目（如，点击色轮来报告记忆项的颜色)。这个任务需要在检索过程中对记忆内容进行连续的量化，而不仅仅是作“是或否”的决策。在目前的刷新研究中，多数使用回溯线索的方式来考察被动刷新对记忆的精确性的贡献,然而结果却是不一致的(Gunseli et al.,2015;Israel et al.,2015;Souza et al.,2018;Ye et al.,2016)。不一致的原因，可能是这些研究中对记忆项的数量、回溯线索的呈现次数、线索呈现方式和线索可靠性等方面的操纵不同。未来的研究可以系统地操纵这些变量来探索回溯线索对记忆的精确性是否有影响及影响的边界。此外，还没有关于自发刷新和记忆精确性之间的研究。未来的研究可以结合复杂广度任务和连续报告范式来考察自发的注意刷新是否能提高记忆的精确性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二，需要进一步探究维持期间的注意干扰或处理任务对注意刷新速度的影响。过去的研究认为注意干扰或处理任务对注意刷新的影响主要在于占用了可用于刷新的时间。然而，考虑到记忆的提取难度随着时间的阻隔而不断增加，在干扰或处理任务发生后，随后的刷新也将变得更加困难。这意味着，注意资源的占用不仅导致了可用于刷新的时间减少，而且也可能导致了刷新的速度变慢。鉴于注意刷新发生的速度太快，一般的行为实验很难检验干扰或处理任务对注意刷新速度的影响，未来的研究可以通过在计算模型中改变干扰或处理任务对注意刷新的影响参数来拟合现实数据，探究干扰或处理任务是否会影响刷新速度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第三，考察高注意负荷条件下，优先刷新弱激活项目的注意刷新方式是否是合理的。在能够维持所有编码项目的情况下，优先刷新弱激活项目的方式是一种合理的资源分配方式，能为容易遗忘的项目分配更多的资源从而提升了工作记忆的维持效率。然而，当记忆维持时进行的加工或干扰任务需求过高的注意负荷导致无法维持所有编码项目的情况下，优先刷新弱激活项目可能会导致被试为了刷新易于遗忘的项目而放弃更多容易记忆的项目从而降低了记忆维持的效率。在实验中，人们也许能够通过经验来调整刷新方式。但在现实中面对突发的干扰时，要准确地判断在该情况下能否维持全部记忆项目是不现实的。这意味着，优先激活弱激活项目的刷新方式很可能是一把双刃剑，在低注意负荷的情况下，为我们提供了一种高效的维持方法，最大程度的维持所有信息；在高注意负荷的情况下，可能会导致更多的遗忘。在已知注意负荷较低的情况下，被试通常会使用优先刷新弱激活项目的策略。未来的研究可以使用脑磁图或空白屏范式来对比高、低负荷情况下被试的注意刷新方式以验证高负荷情况下，被试是否仍然会使用优先刷新弱激活项目的策略。或者，可以在低负荷条件下插入一个出乎意料的高负荷试次来探究被试在面对突发干扰时，优先刷新弱激活项目是否会降低记忆维持的效率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abadie,M.,& Camos,V.(2O18).Atentional refreshing moderates the word frequency effect in immediate and delayed recall tasks. Annalsof the New York Academyof Sciences， 1424(1)，127-136. https://doi.org/10.1111/nyas.13847   \nAddleman,D.A.,& Jiang, Y. V. (2019). Experience-Driven Auditory Attention. Trends in cognitive sciences, 23(11),927-937. https://oi.org/10.1016/j.tics.2019.08.002   \nAnderson, B. A.,Laurent, P. A.,& Yantis, S. (2O11). Value-driven atentional capture. Proceedings of the National Academy of Sciences of the United States of America,108(25),10367-10371. https://doi.org/10.1073/pnas.1104047108   \nAwh,E., Jonides, J.,& Reuter-Lorenz,P.A. (1998). Rehearsal in Spatial Working Memory. Journal of Experimental Psychology: Human Perception and Performance,24(3),780-790. https://doi.0rg/10.1037/0096-1523.24.3.780   \nBarouillet, P.,& Camos, V. (2012a). As Time Goes By: Temporal Constraints in Working Memory. Current Directions in Psychological Science,21(6), 413-419. htps:/doi.org/10.1177/0963721412459513   \nBarrouillet, P.,& Camos, V. (2O12b). The time-based resource-sharing model of working memory. In N. Osaka, R. H.Logie,& M. DEsposito (Eds.), The Cognitive Neuroscience of Working Memory. Oxford University Press. https://doi.0rg/10.1093/acprof:oso/9780198570394.003.0004   \nBarrouillet,P.,Gavens,N.,Vergauwe,E., Gailard,V.,& Camos,V. (2O9).Working memory spandevelopment: A time-based resource-sharing model account. Developmental Psychology, 45(2), 477-490. https://doi.0rg/10.1037/a0014615.   \nBarouillet, P., Gorin, S.,& Camos, V.(2O21). Simple spans underestimate verbal working memory capacity. Journal of Experimental Psychology: General,150(4),633-665. htps://doi.org/10.1037/xge0000957   \nBartsch,L. M., Singmann, H.,& Oberauer, K. (2018). The efects of refreshing and elaboration on working memory performance,and their contributions to long-term memory formation. Memory & cognition, 46(5), 796-808.https://doi.org/10.3758/s13421-018-0805-9   \nBerens，S. C.，Richards,B.A.，& Horner，A.J.(202O). Dissociating memory accessbility and precision in forgeting. Nature human behaviour, 4(8), 866-877. htps://oi.org/10.1038/s41562-020-0888-8   \nCamos,V., Johnson,M.,Loaiza, V.,Portrat, S.,Souza,A.,& Vergauwe,E. (2018). What is attentional refreshing in working memory?. Annals of the New York Academy of Sciences,1424(1),19-32. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "https://doi.org/10.1111/nyas.13616 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Camos,V.,Lagner,P.,& Barrouillet,P.(2Oo9).Two maintenance mechanisms of verbal information in working memory.Journal of Memory and Language,61(3),457-469.https://doi.org/10.1016/j.jml.2009.06.002 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Camos,V.,Lagner,P.,& Loaiza, V.M.(2017). Maintenance of item and order information in verbal working memory. Memory (Hove,England),25(8),953-968.htps://oi.org/10.1080/09658211.2016.1237654 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Camos,V.,Mora,G.,& Oberauer, K.(2011).Adaptive choice between articulatory rehearsal and attentional refreshing in verbal working memory.Memory and Cognition,39(2),231-244. https://doi.0rg/10.3758/s13421-010-0011-x ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Chun,M.M.,Golomb,J.D.,&Turk-Browne,N.B.(2O11).Ataxonomyof external and internal attention.Annual review of psychology,62,73-101. https://doi.org/10.1146/annurev.psych.093008.100427 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cowan,N.,Morey,C.C.,Chen,Z.,&Bunting,M.(2O12).What do estimates of working memory capacity tell us? In N. Osaka,R.H.Logie,& M.D'Esposito (Eds.),The Cognitive Neuroscience of Working Memory. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198570394.003.0003 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Daneman, M.,& Carpenter,P.A. (198O).Individual differences in working memory and reading.Journal of Verbal Learning and Verbal Behavior,19(4),450-466.https://doi.org/10.1016/s0022-5371(80)90312-6 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Dempster,F.N. (1981). Memory span: Sources of individual and developmental differences. Psychological Bulletin,89(1),63-100.https://doi.0rg/10.1037/0033-2909.89.1.63 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Griffin,I. C.,& Nobre,A. C.(20o3). Orienting Atention to Locations in Internal Representations. Journal of Cognitive Neuroscience,15(8),1176-1194. https://doi.org/10.1162/089892903322598139 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gunseli,E.,van Moorselaar,D.,Meeter,M.,&Olivers,C.N.L.(2Ol5).The reliabilityofretro-cues determines the fate of noncued visual working memory representations. Psychonomic Bulletin and Review,22(5), 1334-1341. https://doi.org/10.3758/s13423-014-0796-x ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Heuer, A.,& Schubo,A. (2O16).Feature-based and spatial atentional selection in visual working memory. Memory and Cognition,44(4),621-632. https://doi.org/10.3758/s13421-015-0584-5 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Israel,M., Cohen,A.,& Pertzov,Y. (2015). Exogenous retro-cue modulates the precision of Visual Working Memory. Journal of Vision,15(12),950.https://doi.org/10.1167/15.12.950 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Jafarpour,A.,Penny,W.,Barnes,G.,Knight,R.T.,&Duzel,E.(2O17).Working Memory ReplayPrioritizes Weakly Attended Events.eNeuro,4(4),ENEURO.0171-17.2017. https://doi.0rg/10.1523/ENEURO.0171-17.2017 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "JohnsonM.K. (1992).MEM: Mechanisms of Recollection. Journalofcognitive neuroscience,4(3),268-280. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "https://doi.org/10.1162/jocn.1992.4.3.268 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Kaldi,T.,& Babarczy,A. (2O21).Linguistic focus guides attention during the encoding and refreshing of working memory content. Journal of Memory and Language,116.https://doi.org/10.1016/j.jml.2020.104187 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lemaire,B.,Pageot,A.,Plancher,G.,& Portrat,S. (2O18). What is the time course of working memoryattentional refreshing?Psychonomic Bulletin and Review,25(1),370-385.https://oi.org/10.3758/s13423-017-1282-z ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Loaiza,V.M.,& McCabe,D.P.(2012).Temporal-contextual processng in working memory: Evidence from delayed cued recalland delayed free recall tests. Memory and Cognition, 4O(2),191-203. https://doi.0rg/10.3758/s13421-011-0148-2 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Martarelli, C.S.,Chiquet,S.,Laeng,B.,& Mast,F.W. (2O17).Using space torepresent categories: Insights from gaze position.Psychological Research,81(4),721-729.https://doi.org/10.1007/s00426-016-0781-2. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Oberauer,K. (2Oo2).Accessto Information in Working Memory: Exploring the Focus of Atention.Journal of Experimental Psychology:Learning Memory and Cognition,28(3),411-421. https://doi.0rg/10.1037/0278-7393.28.3.411 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Oberauer,K. (2O19).Is Rehearsal anEffective Maintenance Strategy for Working Memory? Trends in Cognitive Sciences,23(9),798-809.https://doi.0rg/10.1016/j.tics.2019.06.002 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Portrat,S.,& Lemaire,B. (2O15).Is Atentional Refreshing in Working Memory Sequential?A Computational Modeling Approach. Cognitive Computation,7(3),333-345. htps://doi.org/10.1007/s12559-014-9294-8 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Raye,C.L.,Johnson,M.K.,Mitchell,K.J.,Greene,E.J.,&Johnson,M.R.(2Oo7).Refreshing:A minimal executive function. Cortex,43(1),135-145.https://doi.org/10.1016/S0010-9452(08)70451-9 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ricker,T.J.,& Cowan,N.(2O10).Lossof Visual Working Memory Within Seconds: The Combined Use of Refreshable and Non-Refreshable Features. Journal of Experimental Psychology: Learning Memory and Cognition,36(6),1355-1368.https://doi.org/10.1037/a0020356 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ricker,T.J., Sandry,J., Vergauwe,E.,& Cowan,N. (2O2O).Do familiar memory items decay? Journal of Experimental Psychology:Learning Memory and Cognition,46(1),60-76. https://doi.org/10.1037/xlm0000719 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Scholz,A.,Mehlhorm, K.,& Krems,J.F. (20l6).Listen up,eye movements playarole in verbal memory retrieval. Psychological Research,80(1),149-158. https://doi.org/10.1007/s00426-014-0639-4. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Scholz,A.,Klichowicz,A.,&Krems,J.F.(O18).Covert shifts of attention can accountforthe functional roleof \"eye movements to nothing\". Memory & cognition, 46(2), 230-243. https://doi.0rg/10.3758/s13421-017-0760-x ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Souza,A.S.，& Oberauer,K.(2O15).Time-based forgetting in visual working memory reflects temporal distinctiveness, not decay. Psychonomic bulletin & review, 22(1), 156-162. https://doi.0rg/10.3758/s13423-014-0652-z ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Souza,A.S.,& Oberauer,K.(2016).In search of the focus of attention in working memory:13 years of the retro-cue effect. Attention, perception & psychophysics, 78(7), 1839-1860. https://doi.0rg/10.3758/s13414-016-1108-5 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Souza,A.S.,Vergauwe,E.,& Oberauer,K. (2018). Where toattend next: guidingrefreshingof visual,spatial,and verbal representations in working memory.Annals of the New York Academy of Sciences,1424(1),76-90. https://doi.org/10.1111/nyas.13621 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Stanovich,K.E.,&West,R.F.(Ooo).Individualdiferences inreasoning: Implications fortherationalitydebate? Behavioral and Brain Sciences,23(5),645-665.https://doi.org/10.1017/S0140525X00003435 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Tan,L.,& Ward,G.(2Oo8).Rehearsal in immediate serial recal. Psychonomic Bulletin and Review,15(3), 535-542. https://doi.org/10.3758/PBR.15.3.535 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Thomas,P.M.J.,Fitz Gibbon,L.,& Raymond,J.E. (2016). Value conditioning modulates visual working memory processes. Journal of Experimental Psychology: Human Perception and Performance,42(1),6-10. https://doi.org/10.1037/xhp0000144 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Trost, S.,& Gruber,O. (2O12).Evidence fora double dissociation of articulatory rehearsal and non-articulatory maintenance of phonological information in human verbal working memory. Neuropsychobiology, 65(3), 133-140. https://doi.org/10.1159/000332335 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Vandenbroucke,A.R.E., Sligte,I. G.,Barret,A.B., Seth,A. K.,Fahrenfort,J. J.,& Lamme,V.A.F. (2014). Accurate Metacognition for Visual Sensory Memory Representations.Psychological Science,25(4),861-873. https://doi.0rg/10.1177/0956797613516146 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "van Moorselaar,D., Batistoni,E.,Theeuwes,J.,& Olivers,C.N.L.(2O15).Rapid influences ofcued visual memories on attentional guidance. Annals of the New York Academy of Sciences,1339(1),1-10. https://doi.org/10.1111/nyas.12574 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Vergauwe,E.(2O18). Comparing different instructed-refreshing schedules: Evidence for cumulative, forward-order refreshing of verbal lists?Annals of the New York Academy of Sciences,1424(1),102-114. https://doi.org/10.1111/nyas.13630 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Vergauwe,E., Camos,V.,& Barrouilet,P.(2014).The impact of storage on processing: How is information maintained in working memory? Journal of Experimental Psychology: Learning Memory and Cognition, ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "40(4),1072-1095.https://doi.0rg/10.1037/a0035779 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Vergauwe,E.,& Cowan,N. (2015). Attending to items in working memory: evidence that refreshing and memory search are closely related.Psychonomic Bulletin and Review,22(4),1oo1-1006. https://doi.0rg/10.3758/s13423-014-0755-6 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Vergauwe,E.,Hardman,K.O.,Rouder,J.N.,Roemer,E.,McAllaster,S.,& Cowan,N.(2O16).Searching for serial refreshing in working memory: Using response times to track the content of the focus of attention over time.Psychonomic bulletin & review,23(6),1818-1824.https://doi.org/10.3758/s13423-016-1038-1 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Vergauwe,E.,& Langerock,N.(2Ol7).Attentional refreshing of information inworking memory:Increased immediate accessibility of just-refreshed representations.Journal of Memory and Language，96,23-25. https://doi.org/10.1016/j.jml.2017.05.001 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Vergauwe,E.,Langerock,N.,& Cowan,N. (2O18).Evidence for spontaneous serial refreshing in verbal working memory?.Psychonomic bulletin & review,25(2),674-680.htps://oi.org/10.3758/s13423-017-1387-4 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Ye,C.,Hu,Z.,Ristaniemi,T.,Gendron,M.,&Liu, Q. (2O16).Retro-dimension-cue benefit in visual working memory. Scientific Reports,6.35573. https://doi.org/10.1038/srep35573 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Yin,S.,Sui,J.,Chiu,Y.-C.,Chen,A.,&Egner,T. (2O19).Automatic Prioritizationof Self-Referential Stimuli in Working Memory.Psychological Science,30(3),415-423. https://doi.org/10.1177/0956797618818483 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Zhang,W.,& Luck,S.J.(2O08). Discrete fixed-resolution representations in visual working memory. Nature, 453(7192),233-235.https://doi.org/10.1038/nature06860 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The mechanism and internal processing of attentional refreshing ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIN Shiqing, LI Haifeng ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(School of Psychology, Fujian Normal University, Fuzhou 35O117, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Attentional refreshing，which is independent of rehearsal, is one kind of working memory maintenance mechanisms. It boosts， prolongs，and strengthens the activation of information in working memory by retrieving these information into the focus of attention. Atentional refreshing helps people maintain memory when rehearsal is limited. The common strategy of attentional refreshing is give priority to refresh weakly activated items,but sometimes experience related stimuli also get the priority to refresh.To further explore the mechanism and internal processing of attentional refreshing,future research could focus on whether attentional refreshing can afect the accuracy of memory， how interference or processing tasks impact refreshing speed,and whether prioritizing to refresh weakly activated items is still a reasonable strategy under the high attentional load condition. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words:attentional refreshing,working memory, internal attention ",
+        "page_idx": 15
+    }
+]

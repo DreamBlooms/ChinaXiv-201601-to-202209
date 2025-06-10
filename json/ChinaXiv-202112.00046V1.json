@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "Geochronology, geochemistry, and Sr-Nd isotopes of Early Carboniferous magmatism in southern West Junggar, northwestern China: Implications for Junggar oceanic plate subduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Pengde1, LIU Xijun1,2.3\\*, XIAO Wenjiao², ZHANG Zhiguo1, SONG Yujia1, XIAO Yao1, LIU Lei123, HU Rongguo1, WANG Baohua1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Guangxi Key Laboratoryof Hidden Metallc Ore Deposits Exploration,Colegeof Earth Sciences,Guilin Universityof Technology,,Guilin 541004,China;   \n2 Xinjiang ResearchCenterfor Mineral Resources,Xinjiang InstituteofEcologyandGeography,Chinese AcademyofSciences, Urumqi 830011, China;   \n3Collaborative InnovationCenterforExplorationofNonferous Metal Depositsand Efficient UtiizationofResource,Guilin Universityof Technology,Guilin 541004,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: West Junggar is a key area for understanding intra-oceanic plate subduction and the final closure of the Junggar Ocean. Knowledge of the Carboniferous tectonic evolution of the Junggar Ocean region is required for understanding the tectonic framework and accretionary processes in West Junggar, Central Asian Orogenic Belt.A series of Early Carboniferous volcanic and intrusive rocks,namely, basaltic andesite,andesite, dacite, and diorite, occur in the Mayile area of southern West Junggar, northwestern China. Our new LA-ICPMS zircon $\\mathrm { U - P b }$ geochronological data reveal that diorite intruded at 334 $( \\pm 1 )$ （204号 Ma,and that basaltic andesite was erupted at 334 (±4) Ma. These intrusive and volcanic rocks are calc-alkaline, display moderate $\\mathrm { M g O }$ $( 1 . 6 2 \\% - 4 . 1 8 \\%$ ） contents and Mg# values (40-59)，and low $\\mathrm { C r }$ （20 $( 1 4 . 5 { \\times } 1 0 ^ { - 6 } – 4 7 . 2 { \\times } 1 0 ^ { - 6 } )$ and Ni $( 7 . 5 { \\times } 1 0 ^ { - 6 } { - } 3 4 . 6 { \\times } 1 0 ^ { - 6 } )$ contents,and are characterized by enrichment in light rare-earth elements and large-ion lithophile elements and depletion in heavy rare-earth elements and high-field-strength elements, meaning that they belong to typical subduction-zone island-arc magma. The samples show low initial $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratios (range of $0 . 7 0 3 6 4 9 - 0 . 7 0 5 0 0 8 )$ ， positive $\\mathfrak { S } _ { \\mathrm { N d ( t ) } }$ values (range of 4.8-6.2 and mean of 5.4),and young $\\mathrm { T _ { D M } \\ N d }$ model ages ranging from 1016 to $6 1 6 ~ \\mathrm { M a }$ ,indicating a magmatic origin from depleted mantle involving partial melting of $10 \\% { - } 2 5 \\%$ garnet and spinel lherzolite. Combining our results with those of previous studies, we suggest that these rocks were formed as a result of northwestward subduction of the Junggar oceanic plate, which caused partial melting of sub-arc mantle. We conclude that intra-oceanic arc magmatism was extensive in West Junggar during the Early Carboniferous. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Early Carboniferous magmatism; geochronology; geochemistry; Junggar Oceanic plate subdution; West Junggar; Central Asian Orogenic Belt ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Central Asian Orogenic Belt (CAOB) (Jahn et al.,2000a,b) extends from the Urals in the west through Kazakhstan, northwestern China,Mongolia,and northeastern China to the Russian Far East (Windley et al., 2007; Xiao et al., 2010a; Xu et al.,2013,2015). It is generally accepted that the CAOB comprises a complicated and varied collage of terranes，including island arcs, ophiolites, accretionary prisms, seamounts,and microcontinents (Windley et al.,20o7; Kroner et al., 2008; Xiao et al.,2008a). The CAOB is the world's largest accretionary orogen (Sengor et al., 1993;Windley et al.， 2007; Xiao et al., 2010b; Safonova et al.,2011, 2015,2016) and is also considered a type area for studying Phanerozoic continental growth (Sengor et al.,1993; Jahn et al.,2004; Xiao and Santosh,2014; Xiao et al., 2015). The accretionary processes of the orogen might have resulted from either the progressive duplication of a single and long-lived island-arc system (Sengor et al.,1993; Sengor and Natal'in,1996) or the collsion of several island arcs and microcontinents, similar to the complex archipelago systems in the modern southwestern Pacific (Filippova et al.,2002; Khain et al.,2003; Yakubchuk et al.,2005; Windley et al.,2007; Xiao et al., 2010b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "West Junggar is located in a key area of the CAOB,at the junction of the Siberia, Kazakhstan, and Tianshan orogens,and has thus been a focus of studies of the tectonic evolution and crustal growth of the orogenic belt (Coleman,1989; Feng et al.,1989; Xiao et al., 2008b). Based on the regional geology, West Junggar has been considered by some geologists as a paleo intra-oceanic subduction system (Xiao et al., 2O08b; Zhang et al.,2011), whereas others have variously argued that West Junggar was formed by single subduction (Wang et al.， 2Oo3)，arc-arc colision (Buckman and Aitchison, 2004),or ridge subduction (Geng et al., 2009; Tang et al.,2010; Yin et al.,2010,2011),or by post-collisional processes after the Early Carboniferous (Han et al.,2010), seamounts/oceanic plateaus subduction and accretion model (Yang et al.， 2O15; Zhang et al., 2018;Du et al., 2019; Yang et al., 2020). An understanding of the Carboniferous tectonic setting is critical for determining the evolution of West Junggar (Chen and Jahn, 2O04; Chen and Arakawa, 2005; Geng et al., 2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "West Junggar is considered a key area for understanding intra-oceanic plate subduction and the final closure of the Junggar Ocean (a major southern branch of the paleo-Asian Ocean) during the Carboniferous (Coleman,1989; Feng et al.,1989; Buckman and Aitchison, 2004; Windley et al., 2007; Xiao et al., 2O10a). Some studies have suggested an Early Carboniferous age for the final closure of the Junggar Ocean (Gao et al.，1998)，whereas others have argued for the Late Carboniferous (Chen et al., 2010; Han et al.,2010; Zhang et al.,2011) or Permian (Xiao et al., 2008b; Geng et al., 2009; Tang et al., 2010). Knowledge of the timing of oceanic closure and tectonic transition is not only critical for deciphering the geological history of West Junggar, but also important for understanding the processes of continental crustal growth. Therefore,although previous studies have comprehensively investigated Carboniferous magmatic rocks in West Junggar (Jahn et al.,2000a; Chen and Jahn,2004; Chen and Arakawa, 2005; Geng et al., 2009), the tectonic setting and timing of geodynamic processes of this region remain uncertain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Early Carboniferous volcanic and intrusive rocks are widely exposed in the Mayile area in southern West Junggar. These rocks should place important constraints on the evolution of the Junggar Ocean region because they formed during different stages of evolution and might have been derived from different sources.There has been litle geochemical or geochronological research into these rocks, partly because of a lack of accessibility. Here, we focus on the Mayile Volcanic and intrusive rocks from the southern West Junggar region and, on the basis of our new geochronological, major- and trace-element, and $\\mathrm { S r - N d }$ isotopic data, establish the formation age and petrogenesis of these igneous rocks,and constrain their tectonic setting. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Geological setting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "West Junggar $( 4 4 ^ { \\circ } 5 0 ^ { \\prime }  – 4 7 ^ { \\circ } 1 3 ^ { \\prime } \\mathrm { N } _ { \\mathrm { \\scriptscriptstyle ; } }$ ， $8 2 ^ { \\circ } 1 6 ^ { \\prime } { - } 8 6 ^ { \\circ } 3 4 ^ { \\prime } \\mathrm { E } )$ ，lies along the border between northwestern China and Kazakhstan, and is surrounded by the Junggar Basin, the Kazakhstan plate,and the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tianshan and Altay Orogens (Feng et al.,1989; Chen and Jahn, 2004; Choulet et al., 2013). No Precambrian basement has been documented in this area,and the oldest rocks are ophiolitic mafic-ultramafic types of Cambrian-Ordovician age (Coleman,1989; Feng et al.,1989; Buckman and Aitchison， 2O04) (Fig. 1). West Junggar is composed of Paleozoic volcanic arcs and accretionary complexes (Windley et al., 2007; Xiao et al., 2008a). These accretionary complexes are composed of Ordovician to lower Carboniferous volcano-sedimentary rocks.The Ordovician and Silurian strata are distributed mainly in southwestern West Junggar, and the Carboniferous strata in the southeast (Fig.1), with these units incorporating extensive volcanic rocks (Yang et al.，2012).West Junggar can be tectonically divided into northern and southern parts by the Xiemisitai Fault. Northern West Junggar consists of the Zharma-Saur and Boshchekul-Chingiz arcs. Southern West Junggar contains extensively deformed ophiolitic mélanges,as wellas large fault-blocks of volcanic-sedimentary strata,which have been modified by the post-Permian Barleik,Mayile,and Darbut strike-slip faults (Fig.1). The Silurian sandstone and Carboniferous basaltic rocks are intruded by Early Carboniferous quartz monzonite, biotite granite,and diorite in southern West Junggar (XBGMR,1993). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6557989f6ced5947dff3bbe473a19da12cad1f2c46d3e28f77cb386d4e79b59.jpg",
+        "img_caption": [
+            "Fig.1Geological mapof West Junggar region (modified after Xiao et al. (2009), Yang et al. (2012),and Yang et al. (2019)). Age data are from Jian et al.(2005), Xu et al. (2006), Gu et al. (2009), Geng et al. (2011),Yang et al. (2012),and Ren et al. (2014). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Carboniferous volcanic and intrusive rocks are widespread throughout southeastern West Junggar, near the Mayile ophiolitic mélanges that formed an important Early Carboniferous volcanic arc. In the study area, the exposed strata comprise mainly the Late Carboniferous Qiergusitao $\\left( \\mathbf { C } _ { 2 } \\mathbf { q } \\right)$ and the Middle Devonian Kulumudi $\\left( \\mathrm { D } _ { 2 } \\mathbf { k } \\right)$ formations (Fig.2). The Qiergusitao Formation is composed of clastic rocks,quartz sandstone, siltstone, siliceous rock, ultramafic rock,basalt, and basaltic andesite. The Kulumudi Formation comprises sandstone, detrital sandstone,tuff, andesite,volcaniclastic rocks,basic and intermediate-felsic volcanic rocks,local limestone,rhyolite，trachyte,and andesite.In addition,a few intermediate-felsic dikes are exposed in the area, including a Carboniferous-middle Permian batholith, quartz diorite porphyry, diorite porphyry, and granite-diorite，as well as post-collisional granites. The volcanic and intrusive rocks in this study are come from Qiergusitao $\\left( \\mathbf { C } _ { 2 } \\mathbf { q } \\right)$ Formation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3413e4315f5239252971c3c44077387c65e72817daefd2afcd3fde0739af076.jpg",
+        "img_caption": [
+            "Fig.2Simplified geological map ofMayile area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Petrography ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Representative samples of magmatic rocks were selected from the Mayile area during our field trip in August 2O19 (Fig.2), including andesites,basaltic andesites,diorites,and dacites.The petrography of the individual lithological samples is described briefly below (Figs. 3 and 4). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Andesites are porphyritic,containing $< 5 \\%$ phenocryst of plagioclase and pyroxene.The groundmass has aphanitic texture and is composed of tiny plagioclase and pyroxene (Figs.3a, 3b, and 4a). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Basaltic andesites are dark gray and porphyritic,containing with $1 5 \\% - 2 5 \\%$ plagioclase and pyroxene phenocrysts that are set in a matrix of microcrystalline plagioclase $( 4 0 \\% )$ and pyroxene $( 2 0 \\% )$ with minor intergranular magnetite $( < 5 \\% )$ . Plagioclase phenocrysts are platy shapes and $0 . 2 \\mathrm { - } 0 . 8 \\ \\mathrm { m m }$ long (Figs. 3c and 4b). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diorites contain plagioclase $( 6 0 \\% - 7 0 \\% )$ ，hornblende $( 5 \\% - 1 0 \\% )$ ，and minor Fe-Ti-oxides $( < 3 \\% )$ . Plagioclase phenocrysts are euhedral and commonly altered to smectite and albite. Hornblende occurs as subhedral grains with slight chloritization (Figs.3d and 4c). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dacites contain $< 5 \\%$ phenocrysts of plagioclase and quartz. The groundmass has in a pilotaxitic texture and contains $7 5 \\%$ microcrystal plagioclase, $5 \\%$ quartz,and some glass (Figs. 3e and 4d). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathsf { U } { \\mathrm { - } } \\mathsf { P } \\mathsf { b }$ zircon dating,major elements, trace elements,and Sr and Nd isotope analyses were carried out at the Guangxi Key Laboratory of Hidden Metallic Ore Deposits Exploration, Guilin University of Technology, Guilin City, Guangxi Zhuang Autonomous Region, China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 Zircon U-Pb geochronology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zircon grains were obtained from samples 19MY-03 (basaltic andesite） and 19MY-05 (diorite) using conventional heavy-liquid and magnetic methods and then mounted in epoxy resin discs and polished with $0 . 2 5 ~ { \\mu \\mathrm { m } }$ diamond paste to section the crystals in half.All of the zircon grains selected for analysis were documented with transmitted- and reflected-light photomicrographs as wellas cathodoluminescence (CL) images to reveal their internal structures. The CL imaging was performed using a JXA8230R electron microprobe (JEOL Ltd.， Mitaka, Japan). Laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS) U-Pb zircon dating was conducted using a Agilent quadrupole 7900 ICP-MS instrument (Agilent Technologies Inc., CA, USA） coupled to a GeoLas HD LA system (Coherent Inc., CA, USA) equipped with a $1 9 3 ~ \\mathrm { n m }$ ArF-excimer laser with an automatic positioning system. The laser spot size was set to $2 4 ~ { \\mu \\mathrm { m } }$ The counting time was 50 s for U, Th, $^ { 2 0 4 } \\mathrm { P b }$ ， $^ { 2 0 6 } \\mathrm { \\bar { P b } }$ ， $^ { 2 0 7 } \\mathrm { P b }$ ,and $^ { 2 0 8 } \\mathrm { { P b } }$ ,and $3 0 ~ \\mathrm { s }$ for other elements. Calibrations for the zircon analyses involved United States National Institute of Standards and Technology (NIST) Standard Reference Material NIST61O glass as an external standard and Si as an internal standard. The $\\mathsf { U } { \\mathrm { - } } \\mathsf { P } \\mathsf { b }$ isotope fractionation effects were corrected using zircon Plesovice (Liu et al., 2O20) as an external standard. ICPMSDataCal software was used to process the ablated signal data and to obtain trace-element contents and $\\mathsf { U } { \\mathrm { - } } \\mathsf { P } \\mathsf { b }$ isotope ratios of the samples. Concordia ages and diagrams were obtained using Isoplot/Ex (Ludwig, 2003). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9120cd9c435b8b9a61c90a3491f0ffaeb8d51252fc22fc8191a2ce735230094.jpg",
+        "img_caption": [
+            "Fig.3Typical field photographs of Mayile magmatic rocks.(a),panorama of Mayile; (b),andesite; (c),basaltic andesite;(d),diorite; (e),dacite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/04af0f4ce5f859c362ca74870e26f97c51ef78f1bab2ebdfcd4db666c3bdc033.jpg",
+        "img_caption": [
+            "Fig.4Representative photomicrographsof different Mayilemagmatic rocks.(a),andesite; (b),basalticandesite; (c), diorite; (d), dacite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2Major- and trace-element analyses ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fresh rock samples (1O samples） were selected, avoiding or removing weathered surfaces, and crushed into small chips. Any strongly altered chips and secondary vein materials were removed, and the remaining chips were soaked in 4N hydrochloric acid for $3 0 ~ \\mathrm { m i n }$ to leach out alteration minerals.The rock chips were then powdered using an alumina ceramic shaterbox.Major-element contents were determined using a ZSX Primus II X-ray fluorescence (XRF) instrument (Rigaku, Tokyo,Japan) at the Guangxi Key Laboratory of Hidden Metallic Ore Deposits Exploration, Guilin University of Technology, Guilin, China. The loss on ignition (LOI) of each sample was measured before the glass frit measurement, and the sample after calcination was used for analysis. The glass frit was measured on a ZSX Primus II XRF instrument. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Trace-element analyses were performed on an Agilent 750oCX ICP-MS instrument (Agilent Technologies Inc., CA,USA) using the acid-solution method. About $5 0 ~ \\mathrm { m g }$ of sample powder and standard sample (The United States Geological Survey standards BHVO, AGV, W-2,and G-2 and national rock standards GSR-1, GSR-2, and GSR-3) was placed in a bomb,and $0 . 5 ~ \\mathrm { m L }$ of purified ${ \\mathrm { H N O } } _ { 3 }$ and $1 . 0 \\mathrm { m L }$ of purified HF. The bomb was placed in a high-pressure valve and maintained at $1 9 0 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { { h } }$ in a constant-temperature electric heating box. After evaporation to dryness, $0 . 5 ~ \\mathrm { m L }$ of purified ${ \\mathrm { H N O } } _ { 3 }$ was added, with this step being repeated again. A volume of $4 ~ \\mathrm { m L }$ of 4N purified ${ \\mathrm { H N O } } _ { 3 }$ was then added. The high-pressure valve was placed in a thermostatic electric oven at $1 7 0 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { ~ h ~ } }$ . Finally, the solution was diluted 10oo times,and $1 0 ~ \\mathrm { { n g / L } }$ of Rh internal standard was added to correct the signal drift. The solution was then shaken in a clean plastic centrifuge tube and analyzed by Agilent 7500CX ICP-MS instrument (Liu et al., 2020). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 Sr-Nd isotopes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Whole-rock powder for Sr and Nd isotope analyses was dissolved in a Savillex Teflon cup, to which 2 mL 22N HF and 1 mL 8N ${ \\mathrm { H N O } } _ { 3 }$ solutions were added, then heated under a $1 2 0 ^ { \\circ } \\mathrm { C }$ hot plate for $5 { - } 7 \\mathrm { ~ d ~ }$ to completely dissolve. After drying the sample again,a volume of 3 mL ${ \\mathrm { H N O } } _ { 3 }$ was added to dissolve sample for $^ { 2 \\mathrm { ~ h ~ } }$ . Sr was separated with a SR-B50-A( $( 1 0 0 - 1 5 0 ~ \\mu \\mathrm { m } )$ resin. Rare-earth elements (REEs) were separated with AG50-X8 cation exchange resin, and Nd was purified by HDEHP resin. The $\\mathrm { S r }$ and Nd were measured using a Neptune Plus multicollector (MC)-ICP-MS instrument. During the analysis period, the Rb-Sr and $\\mathrm { { \\cal S } m - N d }$ blanks were ${ < } 3 0 0$ pg and ${ < } 1 0 0$ pg，respectively. The isotope ratio was adjusted to $^ { 8 8 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } { = } 8 . 3 7 5 2 0 9$ and $\\hat { 1 } 4 \\hat { 6 }  \\mathrm { N d } / \\mathrm { \\Omega } ^ { 1 4 4 } \\mathrm { N d } { = } 0 . \\dot { 7 } 2 \\dot { 1 } 9$ to correct for mass fractionation. During the analysis_period, instrument stability was assessed using the international standard samples NBS-987 and JNdi-1. The measured values for the NBS-987 Sr and JNdi-1 Nd standards were $^ { 8 7 } \\mathrm { S r } / { } ^ { 8 6 } \\mathrm { S r } = 0 . 7 1 0 2 9 4 1 3$ $( \\pm 0 . 0 0 0 0 1 6 )$ 0 $\\scriptstyle { \\overbrace { n { = } 4 0 } }$ , 2SD (standard deviation） and $^ { 1 4 3 } \\mathrm { N d } / ^ { 1 4 4 } \\mathrm { N d } = 0 . 5 1 2 0 8 0 6 8$ (±0.000008) $\\scriptstyle ( n = 4 0$ ， 2SD), respectively. United States Geological Survey reference material BHVO-2 was measured to monitor the accuracy of the analytical procedures, with the following results: $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } { = } 0 . 7 0 3 5 4 9$ $( \\pm 0 . 0 0 0 0 0 8 )$ and $\\overset { 1 4 3 } { \\mathrm { N d } } / { } ^ { 1 4 4 } \\mathrm { N d } = 0 . \\overset { \\cdot } { . } 1 2 9 6 \\overset { \\cdot } { 5 }$ (±0.000004) (Liu et al.,2020). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The U-Pb zircon dating,major elements, trace elements,and Sr and Nd isotope data are presented in Tables 1,2,and 3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1Zircon U-Pb geochronology ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Basaltic andesite(19MY-03）and diorite(19MY-05) were chosen for zircon $\\mathsf { U } { \\mathrm { - } } \\mathsf { P } \\mathsf { b }$ dating in this study,and the results are presented in Table 1. Zircon grains from the basaltic andesite and diorite samples are pale yellow in color, transparent to translucent, with spindly euhedral or stubby prismatic shapes and lengths ranging from 50 to $1 5 0 ~ { \\mu \\mathrm { m } }$ . The CL images show that all of the grains possess clear oscillatory zoning (Fig. 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zircon grains from the basaltic andesite have U contents varying from $1 1 1 \\times 1 0 ^ { - 6 }$ to $6 7 1 \\times 1 0 ^ { - 6 }$ and Th contents varying from $9 8 \\times 1 0 ^ { - 6 }$ to $3 1 4 \\times 1 0 ^ { - 6 }$ ， as well as $\\mathrm { T h / U }$ ratios between 0.3 and 1.1 (Table 1), suggesting a magmatic origin for the zircons (Wiliams, 2001). Fifteen analyses yield $^ { 2 0 6 } \\mathrm { P b } / ^ { 2 3 8 } \\mathrm { U }$ ages ranging from 339 to $3 2 5 \\mathrm { { M a } }$ , with a weighted mean $^ { 2 0 6 } \\mathrm { P b } / ^ { 2 3 8 } \\mathrm { U }$ age of 334 $( \\pm 4 )$ Ma (mean square of weighted deviate $( \\mathrm { M S W D } ) { = } 0 . 2 4$ ; Fig. 5a). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zircon grains from the diorite have U and Th contents varying from $1 6 1 \\times 1 0 ^ { - 6 }$ to $2 5 8 9 \\times 1 0 ^ { - 6 }$ and from $6 0 \\times \\bar { 1 } 0 ^ { - 6 }$ to $1 0 5 6 \\times 1 0 ^ { - 6 }$ ， respectively, and $\\mathrm { T h / U }$ ratios of 0.1-0.8 (Table 1), suggesting a magmatic origin for the zircons (Williams, 2001). Twenty-nine analyses give $^ { 2 0 6 } \\mathrm { P b } / ^ { 2 3 8 } \\mathrm { U }$ ages ranging from 337 to $3 3 0 \\mathrm { M a }$ , with a weighted mean $^ { 2 0 6 } \\mathrm { P b } / ^ { 2 3 { \\bar { 8 } } } \\mathrm { U }$ age of 334 $( \\pm 1 )$ Ma (MSWD $\\scriptstyle \\mathtt { \\lambda } = 0 . 1 4$ ， Fig. 5c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In a chondrite-normalized REE diagram, trace-element contents of zircon grains from samples 19MY-03 and 19MY-05 display enrichment in heavy REEs (HREEs)， strong positive Ce anomalies $\\mathrm { ( C e / C e ^ { * } }$ in the range of 4.61-199.00),and negative Eu anomalies ${ { ( \\mathrm { E u / E u ^ { * } } } }$ ranging from 0.19 to 0.67) (Fig. 5b and d,respectively). In U/Yb vs Hf. diagrams (Grimes et al., 2007), data for both samples were plotted in the field of oceanic crust (Fig. 5e). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2 Major- and trace-element compositions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Major-and trace-element contents were determined for 1O samples of the Mayile volcanic and intrusive rocks (Table 2). Values of LOI range from 0.92 to 2.93,suggesting that any alteration of the samples was negligible. In a total-alkali-silica (TAS) diagram (Fig. 6a) (Bas et al.,1986), the magmatic rocks are classified mainly as basaltic andesite,andesite, dacite,and diorite,and in the Th vs. Co diagram (Fig. 6b) (Hastie et al.,2007),they belong to the calc-alkaline series. All samples have a wide range of $\\mathrm { S i O } _ { 2 }$ （ $( 5 3 . 2 7 \\% - 6 6 . 9 8 \\% )$ ，high ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ ( $1 5 . 4 4 \\% - 2 1 . 0 3 \\% )$ ，and moderate to low $\\mathbf { M g O }$ 1 $( 4 . 1 8 \\% - 1 . 6 2 \\% )$ ）contents， moderate to low Mg# values(molar $\\mathrm { M g / [ M g + F e ^ { 2 + } ] } { \\times } 1 0 0$ ranging from 40 to 59),and low $\\mathrm { T i O } _ { 2 }$ $( 0 . 5 0 \\% - 1 . 1 6 \\% )$ ，CaO $( 2 . 6 0 \\% - 7 . 6 0 \\% )$ ， and total ${ \\mathrm { F e } } _ { 2 } { \\mathrm { O } } _ { 3 }$ $\\mathrm { ( T F e } _ { 2 } \\mathrm { O } _ { 3 } )$ 二 $( 4 . 0 8 \\% - 6 . 8 5 \\% )$ contents.Total alkali $( \\mathrm { N a } _ { 2 } \\mathrm { O } { + } \\mathrm { K } _ { 2 } \\mathrm { O } )$ ）contents range from $5 . 2 8 \\%$ to $7 . 4 0 \\%$ . The Rittmann Serial Index $\\sigma$ (1.28-3.48; $\\scriptstyle \\mathtt { \\sigma = } ( \\mathrm { K } _ { 2 } \\mathrm { O } + \\mathrm { N } \\mathrm { a } _ { 2 } \\mathrm { O } ) ^ { 2 } / ( \\mathrm { S i O } _ { 2 } { - } 4 3 ) )$ of samples is less than 4, indicating calc-alkaline affinity. In Harker diagrams, $\\mathrm { S i O } _ { 2 }$ is negatively correlated with $\\mathrm { \\ A l } _ { 2 } \\mathrm { O } _ { 3 }$ ， $\\mathrm { T F e } _ { 2 } \\mathrm { O } _ { 3 }$ ， $\\mathrm { M g O }$ ， and CaO (Fig. 7), suggesting that crystallization and separation of clinopyroxene, hornblende,and plagioclase occurred during magma evolution. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The analyzed samples show similar ranges of trace-element contents (Table 2). In a chondrite-normalized REE diagram (Fig.8a), the samples display slight enrichment in light REEs (LREEs） and depletion in HREEs $\\mathrm { ( L a / Y b N }$ ranging from 2.99 to 7.83). Total REE content (ΣREEs） range from $5 9 . 5 { \\times } 1 0 ^ { - 6 }$ to $1 0 8 . 5 { \\times } 1 0 ^ { - 6 }$ and lie between contents of enriched mid-ocean ridge basalt (E-MORB) and ocean island basalt (OIB). The samples show insignificant negative Eu anomalies ${ { ( \\mathrm { E u / E u ^ { * } } } }$ in the range of O.74-1.12), indicating limited plagioclase fractionation. In a primitive-mantle-normalized incompatible-element diagram (Fig. 8b)， all samplesshow enrichment in large-ion lithophile elements (LILEs; e.g.,Rb,Ba, Th,and U） and depletion in high-field-strength elements (HFSEs; e.g., Nb,Ta, and Ti),which are typical characteristics of rocks from subduction-related arcs.The marked positive Sr anomalies of the samples,in contrast to those of OIB and mid-ocean ridge basalt (MORB), further indicate that limited plagioclase fractionation occurred in the magma residue and/or that seawater alteration took place. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7c26f28566c767b607276f17f5090b0760b44db83f41ae0e0656a161b1c7037.jpg",
+        "table_caption": [
+            "rrlnrreletlrrllelheerslaereiliir ",
+            "srsseteslsn reisirs lrestrererrssrstet "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>546</td><td>856 335</td></tr><tr><td>79d90z</td><td>34353636353039333533634336334353434343438333333333343438334334</td></tr><tr><td>1</td><td>８Ｂ７４１５ＢｎＢ２０２ＢＢＢ８９ｎ６７７８Ｂ８９７８６６４６７０９８７ｎ９７０П</td></tr><tr><td></td><td>313383303335483334333338433383332302330337330336283334</td></tr><tr><td>b</td><td>1361436B44938601331020140033581626860676927648426485668531528667631</td></tr><tr><td>qd902/902</td><td>48464222550210012九2247520424230282603438302300303234524822534</td></tr><tr><td>1</td><td></td></tr><tr><td>79d90z</td><td></td></tr><tr><td>1</td><td></td></tr><tr><td>951809959859996</td><td></td></tr><tr><td>1</td><td></td></tr><tr><td>qd90z/0z 959995959599969</td><td></td></tr><tr><td></td><td></td></tr><tr><td>(-0Ix)n</td><td>1216の切122322山292033720181304640155202296340初75241735330487460</td></tr><tr><td></td><td></td></tr><tr><td></td><td>8642046242282920244022958360888128302262881885279</td></tr><tr><td></td><td>023445608010Ⅱ1B41516718192021222324</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad6bc05f824aba16c80e742cc7442f9ebe1e04a0987c99bbb97a1d68edea5111.jpg",
+        "table_caption": [
+            "Penenrr ggo ",
+            "rreerrerrreereerregeeeeee "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(RSampe)</td><td></td><td></td><td></td><td></td><td></td><td>MY44 (Andesite)</td><td>19MY-06 (1)</td><td>19MY-06 (2</td><td>MY50 (Diorite)</td><td>19MY-05</td></tr><tr><td>Major element (%)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SiO2</td><td>51.80</td><td>57.80</td><td>61.70</td><td>58.70</td><td>60.90</td><td>62.90</td><td>65.70</td><td>64.30</td><td>61.40</td><td>65.90</td></tr><tr><td>TiO2</td><td>0.85</td><td>1.14</td><td>0.61</td><td>1.19</td><td>0.76</td><td>0.89</td><td>0.76</td><td>0.80</td><td>0.72</td><td>0.49</td></tr><tr><td>AlO3</td><td>20.40</td><td>18.50</td><td>17.50</td><td>18.50</td><td>16.30</td><td>16.60</td><td>14.90</td><td>15.30</td><td>16.90</td><td>16.40</td></tr><tr><td>Fe2O3T</td><td>6.62</td><td>6.47</td><td>5.45</td><td>6.33</td><td>5.77</td><td>5.83</td><td>6.69</td><td>6.79</td><td>6.06</td><td>4.01</td></tr><tr><td>MnO</td><td>0.13</td><td>0.13</td><td>0.12</td><td>0.10</td><td>0.10</td><td>0.11</td><td>0.15</td><td>0.17</td><td>0.09</td><td>0.08</td></tr><tr><td>Mg0</td><td>4.07</td><td>2.88</td><td>2.54</td><td>2.08</td><td>2.59</td><td>2.06</td><td>1.93</td><td>2.05</td><td>2.79</td><td>1.59</td></tr><tr><td>CaO</td><td>7.38</td><td>5.89</td><td>2.55</td><td>5.69</td><td>5.38</td><td>4.45</td><td>3.10</td><td>4.35</td><td>4.14</td><td>3.64</td></tr><tr><td>Na2O</td><td>5.29</td><td>3.93</td><td>5.32</td><td>4.22</td><td>3.79</td><td>4.78</td><td>4.55</td><td>3.97</td><td>3.73</td><td>4.97</td></tr><tr><td>K0</td><td>0.52</td><td>1.29</td><td>1.93</td><td>1.96</td><td>1.51</td><td>1.30</td><td>1.14</td><td>1.26</td><td>1.59</td><td>1.16</td></tr><tr><td>P2O5</td><td>0.12</td><td>0.21</td><td>0.16</td><td>0.20</td><td>0.23</td><td>0.20</td><td>0.14</td><td>0.16</td><td>0.10</td><td>0.13</td></tr><tr><td>LOI</td><td>2.93</td><td>1.97</td><td>2.36</td><td>1.05</td><td>2.86</td><td>0.92</td><td>1.09</td><td>0.98</td><td>2.61</td><td>1.56</td></tr><tr><td>Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>Mg#</td><td>58.90</td><td>50.90</td><td>52.10</td><td>43.40</td><td>51.20</td><td>45.10</td><td>40.20</td><td>41.20</td><td>51.80</td><td>48.00</td></tr><tr><td></td><td>3.48</td><td>1.78</td><td>2.74</td><td>2.39</td><td>1.51</td><td>1.83</td><td>1.41</td><td>1.28</td><td>1.49</td><td>1.62</td></tr><tr><td>NazO+KO</td><td>5.98</td><td>5.31</td><td>7.40</td><td>6.24</td><td>5.44</td><td>6.13</td><td>5.74</td><td>5.28</td><td>5.45</td><td>6.23</td></tr><tr><td>Trace element (×10-6)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ti</td><td>5250</td><td>6954</td><td>3734</td><td>7225</td><td>4652</td><td>5405</td><td>4614</td><td>4845</td><td>4454</td><td>3011</td></tr><tr><td>V</td><td>108</td><td>97.1</td><td>86.1</td><td>93.4</td><td>151</td><td>90.7</td><td>143</td><td>159</td><td>119</td><td>86.6</td></tr><tr><td>Cr</td><td>47.2</td><td>22.6</td><td>23.0</td><td>14.5</td><td>27.7</td><td>14.9</td><td>19.5</td><td>20.6</td><td>38.7</td><td>20.3</td></tr><tr><td>Co</td><td>17.5</td><td>19.1</td><td>14.0</td><td>13.6</td><td>20.8</td><td>10.8</td><td>14.0</td><td>24.8</td><td>12.3</td><td>18.3</td></tr><tr><td>Ni</td><td>34.3</td><td>15.5</td><td>19.0</td><td>8.07</td><td>34.6</td><td>10.8</td><td>8.83</td><td>7.51</td><td>29.2</td><td>10.2</td></tr><tr><td>Cu</td><td>11.7</td><td>15.9</td><td>9.92</td><td>20.9</td><td>146</td><td>32.8</td><td>26.0</td><td>58.5</td><td>21.4</td><td>31.2</td></tr><tr><td>Zn</td><td>71.0</td><td>56.3</td><td>65.6</td><td>59.7</td><td>107</td><td>40.7</td><td>74.2</td><td>91.6</td><td>44.5</td><td>63.0</td></tr><tr><td>Ga</td><td>19.6</td><td>29.3</td><td>41.6</td><td>28.8</td><td>24.0</td><td>33.0</td><td>20.3</td><td>22.1</td><td>36.3</td><td>21.8</td></tr><tr><td>Rb</td><td>6.03</td><td>9.28</td><td>33.0</td><td>35.1</td><td>42.5</td><td>11.9</td><td>26.0</td><td>31.9</td><td>29.0</td><td>15.6</td></tr><tr><td>Sr</td><td>717</td><td>594</td><td>598</td><td>398</td><td>910</td><td>431</td><td>370</td><td>360</td><td>513</td><td>767</td></tr><tr><td>Y</td><td>12.8</td><td>14.2</td><td>10.8</td><td>23.1</td><td>21.0</td><td>13.2</td><td>32.9</td><td>43.0</td><td>13.8</td><td>16.7</td></tr><tr><td>Zr</td><td>162</td><td>133</td><td>100</td><td>173</td><td>144</td><td>87.5</td><td>110</td><td>137</td><td>99</td><td>123</td></tr><tr><td>Nb</td><td>4.55</td><td>6.33</td><td>5.40</td><td>6.56</td><td>4.90</td><td>4.42</td><td>3.70</td><td>4.57</td><td>4.24</td><td>4.89</td></tr><tr><td>Ba</td><td>195</td><td>389</td><td>552</td><td>359</td><td>700</td><td>434</td><td>449</td><td>447</td><td>475</td><td>641</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/13e5416cab324a5985d551fd4897221a3c08b6432ff26251478fb809990df0a7.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(29061 1 90-X61</td><td>8</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/3afcb0e9719c0fdca71cbc2083c1eb3bf36d303490f213e1ddcd37b552ee5053.jpg",
+        "table_caption": [
+            "Table 3Srand Nd isotope ratios and Rb,Sr,Sm,and Nd contents of representative Mayile magmatic rocks in West Junggar "
+        ],
+        "table_footnote": [
+            "Note: $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ and $\\mathrm { ^ { 8 7 } S m / ^ { 8 6 } N d }$ ratios were calculated using Rb, Sr, Sm,and Nd contents (Table 2). Measured $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ was corrected to mass fractionation using $^ { 8 8 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } { = } 8 . 3 7 5 2 0 9$ . Strontium standard NBS-987 was used to monitor instrumental performance and yielded an average $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r }$ ratioof 0.710294 (±0.000016) $? n { = } 6 0$ ，2SD).SD,standard deviation.The measured $^ { 1 4 6 } \\mathrm { N d / ^ { 1 4 4 } N d }$ and fractionation-corrected $^ { 1 4 3 } \\mathrm { N d } / ^ { 1 4 4 } \\mathrm { N d }$ ratios of the JNdi-1 standard were $^ { 8 7 } \\mathrm { S r } / { } ^ { 8 6 } \\mathrm { S r } { = } 0 . 7 1 0 2 9 4$ $( \\pm 0 . 0 0 0 0 1 6 )$ $\\scriptstyle ( n = 4 0$ ，2SD）and $^ { 1 4 3 } \\mathrm { N d } / { } ^ { 1 4 4 } \\mathrm { N d } { = } 0 . 5 1 2 0 8 1$ 14 $( \\pm 0 . 0 0 0 0 0 8 )$ $\\scriptstyle { \\overbrace { n = 4 0 } }$ ,2SD),respectively.AllmeasuredNd isotopic ratios were normalized to $1 4 6 \\mathrm { N d } / { } ^ { 1 4 4 } \\mathrm { N d } { = } 0 . 7 2 1 9$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Rock type</td><td>(Ba19lMY-03-site)</td><td>(Ba19lMY-03-site)</td><td>19MY-06(1)</td><td>19MY-06(2)</td><td>19MY-05</td></tr><tr><td>Rb (×10-6)</td><td>42.5</td><td>42.5</td><td>26.0</td><td>31.9</td><td>15.6</td></tr><tr><td>Sr (×10-6)</td><td>910</td><td>910</td><td>370</td><td>360</td><td>767</td></tr><tr><td>Sm (×10-6)</td><td>4.16</td><td>4.16</td><td>4.47</td><td>5.54</td><td>3.10</td></tr><tr><td>Nd (×10-6)</td><td>20.3</td><td>20.3</td><td>16.9</td><td>21.8</td><td>13.7</td></tr><tr><td>87Rb/86Sr</td><td>0.130520</td><td>0.130520</td><td>0.195676</td><td>0.247256</td><td>0.056824</td></tr><tr><td>87Sr/86Sr</td><td>0.704271</td><td>0.704383</td><td>0.705941</td><td>0.705733</td><td>0.704477</td></tr><tr><td>±2σ</td><td>0.000027</td><td>0.000010</td><td>0.000009</td><td>0.000012</td><td>0.000010</td></tr><tr><td>87Sr/86Sr(t)</td><td>0.703649</td><td>0.703761</td><td>0.705008</td><td>0.704554</td><td>0.704207</td></tr><tr><td>147Sm/144Nd</td><td>0.126246</td><td>0.126246</td><td>0.162308</td><td>0.156245</td><td>0.138599</td></tr><tr><td>143Nd/144Nd</td><td>0.512798</td><td>0.512790</td><td>0.512809</td><td>0.512802</td><td>0.512779</td></tr><tr><td>±2σ</td><td>0.000003</td><td>0.000006</td><td>0.000003</td><td>0.000006</td><td>0.000004</td></tr><tr><td>143Nd/144Nd(t)</td><td>0.512521</td><td>0.512513</td><td>0.512453</td><td>0.512459</td><td>0.512476</td></tr><tr><td>£Nd(t)</td><td>6.1</td><td>6.0</td><td>4.8</td><td>4.9</td><td>5.2</td></tr><tr><td>TDM1 (Ma)</td><td>616</td><td>630</td><td>1016</td><td>927</td><td>755</td></tr><tr><td>fsm/Nd</td><td>-0.36</td><td>-0.36</td><td>-0.17</td><td>-0.21</td><td>-0.30</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.3 Sr-Nd isotope compositions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Five whole-rock samples were analyzed for Sr and Nd isotopes,and results for $\\mathrm { S r }$ and Nd isotopic ratios and Sr, Rb, Sm,and Nd elemental abundances are presented in Table 3.The covariation in initial Sr and Nd isotope ratios is shown in Figure 9.Although the initial $\\mathrm { S r }$ ratios $( ^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } ) _ { ( t ) }$ of the five samples show a wide range from 0.703649 to 0.705008,they have relatively uniform $( { } ^ { 1 4 3 } \\mathrm { N d } / { } ^ { 1 4 4 } \\mathrm { N d } { \\bar { \\mathrm { ) } } } _ { ( t ) }$ ratios of 0.512779-0.512809, $\\mathcal { E } _ { \\mathrm { N d } ( t ) }$ values ranging from 4.8 to 6.2, and young depleted-mantle Nd model ages (TDm) varying from 1016 to $6 1 6 \\ \\mathrm { M a }$ , indicating that these rocks were derived from a depleted-mantle source. The whole-rock $\\mathrm { \\Delta N d - S r }$ isotopic systematics (Fig. 9) are similar to those of rocks from Vanuatu island arc (Beaumais et al.,2O16) and the volcanic rocks from West Junggar (Geng et al., 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1 Petrogenesis and mantle source ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Major element contents of Mayile volcanic and intrusive rocks indicate calc-alkaline series affinity and are characterized by moderate $\\mathbf { M g O }$ contents $( 1 . 6 2 \\% - 4 . 1 8 \\% )$ ）and $\\mathbf { M g # }$ values (40-59), and low $\\mathrm { C r }$ $( 1 4 . 5 { \\times } 1 0 ^ { - 6 } – 4 7 . 2 { \\times } 1 0 ^ { - 6 } )$ and $\\mathrm { N i }$ $( 7 . 5 { \\times } 1 0 ^ { - 6 } { - } 3 4 . 6 { \\times } 1 0 ^ { - 6 } )$ contents. The major element variation of Mayile samples is due to fractional crystallization.For example,the decrease in ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ ， $\\mathrm { T F e } _ { 2 } \\mathrm { O } _ { 3 }$ ， $\\mathbf { M g O }$ , and CaO with increasing $\\mathrm { S i O } _ { 2 }$ (Fig. 7) suggest the volcanic and intrusive rocks derived from a parental magma through crystallization of clinopyroxene,hornblende, and plagioclase.These contents,together with the trace-element characteristics, enrichment in LREEs and LILEs,and depletion in HFSEs,are consistent with those of modern Vanuatu island arc (Beaumais et al., 2O16) (Fig. 8), with allof these features indicating that the studied rocks were formed from typical subduction-zone island-arc magma (Pearce and Peate,1995). The studied volcanic and intrusive rocks have similar trace-element patterns (Fig. 8) and comparable Sr-Nd isotopic values,implying that they were derived from a depleted-mantle source and same parental magma. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5a50514e610f3459a88fb9812f4b7b13c2c01e3302543b683fc24d25342c984.jpg",
+        "img_caption": [
+            "Fig. 5 $\\mathsf { \\Pi } _ { \\mathsf { U } - \\mathsf { P b } }$ concordia diagrams (a,c), chondrite-normalized REEs paterns (b,d)(Sun and McDonough,1989), U/Yb vs.Hf diagrams (e)(Grimes et al.,2007),and representative cathodoluminescence (CL) images for zircons from the Mayile magmatic rocks (f).REEs,rare-earth elements; MSWD,mean square of weighted deviate. ",
+            "Fig.6Clasification diagrams for Mayile magmatic rocks: (a) TAS diagram after Bas et al. (1986) and (b) Th vs.Co (Hastie et al.,2O07) discrimination diagram of the analyzed samples showing geochemical classification of Mayile volcanic rocks and their intrusive rocks.CA,calc-alkaline series; HKCA,high-potassium calc-alkaline series; IAT,island arc tholeiite;SHO,shoshonite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "16 102 (a) Volcanic rock (b) 14 Phonolite △ Intrusive rock (diorite) HKCA+SHO 2 Foidite TephriphonoleTrachyte TrachydaciteAlkalirhyolite 101- Phonolitie Alkaline series tephrite Trachsit (-0Ix)u Falkaline series Subalkail rhyolite 10° CA Itic OSub /Granite ? 。 42 Dacitodiorite 10-1- IATalt iteDactsrltcie dioritqAndesite /Diorte 0 10-2 35 45 55 65 75 85 70 60 50 40 30 20 10 0 SiO (%) Co(x10) (%) ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7dc31276750d39f33c2a8edad0814384c0a6491619b2a13115533f1d9e5b311.jpg",
+        "img_caption": [
+            "Fig. 7 $\\mathrm { S i O } _ { 2 }$ versus ${ \\mathrm { T F e } } _ { 2 } { \\mathrm { O } } _ { 3 }$ (a)， ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ (b)， $\\mathrm { M g O }$ (c),and CaO (d) Harker diagrams for Early Carboniferousvolcanic and intrusive rocks from Mayile area"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5550d2622826db7943add39962cb004f0549dd518e3946ef26427aeff018bf79.jpg",
+        "img_caption": [
+            "Fig.8Chondrite-normalized (a)and primitive-mantle-normalized (b)trace-element paterns for volcanic and intrusive rocks from the Mayile area.Chondriteand primitive mantle values are from Sun and McDonough (1989). Vanuatu island arc sample data are from Beaumais et al. (2O16). Values of OIB (ocean island basalt) and E-MORB (enriched mid-ocean ridge basalt) used are from Sun and McDonough (1989). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6b3bf0c1adea5853996e8ab24b6845d9feba9aa0879b97f8d0004fe939fdfac.jpg",
+        "img_caption": [
+            "Fig. 9Age-corrected $\\scriptstyle ( t = 3 3 4 \\ \\mathrm { ~ M a }$ ） ${ \\mathfrak { E } } _ { \\mathrm { N d } ( t ) }$ versus $^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } _ { ( t ) }$ ratios for Mayile volcanic and intrusive rocks compared with those for central West Junggar volcanic rocks and Vanuatu island arc rocks (Geng et al.,2011; "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Beaumais etal.,2Ol6).Data for early to middle Proterozoic crust are from Hu et al.(2000). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Many studies have shown that incompatible elements (e.g.，HFSEs and HREEs） are conservative (or immobile) elements whose contribution from the slab to the mantle wedge is minimal (Pearce and Cann,1973; Pearce and Peate,1995). Therefore, Zr, Nb,and Y can be used to discriminate the nature of the magma source (Pearce and Cann, 1973). The Mayile volcanic and intrusive rocks have low Nb and $Z \\mathrm { r }$ contents,which, together with low $\\mathrm { N b / Z r }$ ratios,indicate magma with depleted-mantle features (Fig. 10a). For understanding petrogenesis, partial melting in the mantle source with different garnet and spinel contents should be reflected in La/Sm Vs. La by curves with distinct trajectories (Aldanmaz et al., 20o0). In diagrams of $\\mathrm { L a } / \\mathrm { S m }$ vs. La (Fig. 10b), the Mayile samples were plotted mostly between the melting path of garnet and spinel lherzolite, indicating that the rocks were originated from $10 \\%$ to $2 5 \\%$ degree of partial melting of garnet and spinel lherzolite (Fig. 10b). ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab4a163142bca9c59bba9feb3dab7b1d6102949fe739c6a41af1aef902d4f114.jpg",
+        "img_caption": [
+            "Fig.10Diagrams of Nb vs. Zr (a), $\\mathrm { L a } / \\mathrm { S m }$ vs.La (after Aldanmaz et al. (20oO)) (b), ${ \\mathrm { T h / Y b } }$ Vs. $\\mathrm { B a / L a }$ (c),and ${ \\mathrm { T h / Y b } }$ vs. ${ \\mathrm { T a } } / { \\mathrm { Y b } }$ (d) (after Pearce (1983)) for Mayile magmatic rocks. N-MORB, normal mid-ocean ridge basalt; E-MORB,enriched mid-ocean ridge basalt; DM,depleted mantel; PM, primitive mantle; MORB,mid-ocean ridge basalt; OIB,ocean island basalt; VAB,volcanic arc basalt; CA,calk alkaline; TH, tholiite; SHO,shoshonite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Ratios of incompatible trace elements have been used to constrain the petrogenesis and mantle source of igneous rocks (Pearce and Peate, 1995). Since Th, Yb,and Ta are HFSEs that are immobile in fluids,Th/Yb and ${ \\mathrm { T a } } / { \\mathrm { Y b } }$ ratios of these elements are largely independent of variations caused by the degree of partial melting and crystal fractionation, and therefore reflect the degree of depletion or enrichment of the mantle source (Pearce and Peate,1995; Hawkesworth and Kemp,20o6). Importantly, Th is enrichment in marine sediments and highly soluble in melt, while Ba is mobile in fluids， thus,ratios of Ba/La can indicate the contribution of subduction-derived fluid (s),and Th/Yb ratios can indicate sediment melt contribution (Pearce and Peate,1995). Mayile rocks displaying a wide range of Ba/La for a given Th/Yb suggests that the subduction components were dominated by subduction-derived fluids,which is similar to the features of central West Junggar volcanic rocks and Vanuatu island arc rocks (Geng et al.,2011; Beaumais et al.,2016) (Fig.10c). In the Th/Yb vs. Ta/Yb diagram (Fig.10d), Mayile rocks show a higher ${ \\mathrm { T h / Y b } }$ for a given ${ \\mathrm { T a } } / { \\mathrm { Y b } }$ compared with MORB-OIB array, indicating a mantle source also enriched by addition of melt from subducted sediments and showing the geochemical characteristics of island-arc magmatic rocks. Thus, Mayile volcanic and intrusive rocks were probably produced by mixing subducted fluids and sediment melt to the depleted mantle. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, all of the samples have low $( ^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } ) _ { ( t ) }$ ratios (range of 0.7038-0.7050 and mean of 0.7042) with positive $\\mathcal { E } _ { \\mathrm { N d } ( t ) }$ values (range of 4.8-6.2 and mean of 5.4) and young TDm Nd model ages ranging from lOl6 to 6l6 Ma, which are isotopic characteristics that indicate a depleted-mantle origin and clearly differ from characteristics of crust-derived continental arc rocks. Moreover, $\\mathfrak { E } _ { \\mathrm { N d } ( t ) }$ and $( ^ { 8 7 } \\mathrm { S r } / ^ { 8 6 } \\mathrm { S r } ) _ { ( t ) }$ systematics (Fig. 9) for the samples show that these rocks plot close to the mantle array and show similar isotopic features to those of volcanic rocks from central West Junggar (Geng et al., 2O11) and modern Vanuatu intra-oceanic arc rocks (Beaumais et al.,2016), suggesting that they likely share a similar petrogenesis to that of intra-oceanic arc magmatic rocks. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To summarize, trace-element contents and isotopic compositions show that the parental magma of Mayile volcanic and intrusive rocks had a depleted-mantle source and might have ben derived by partial melting of subduction-related modified sub-arc mantle,specifically, a garnet and spinel peridotite mantle source. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.2 Tectonic implications ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A reasonable tectonic interpretation for the Mayile volcanic and intrusive rocks should account not only for their variable petrological and geochemical features but also for the tectonic evolution of Junggar Ocean region during the Carboniferous. Al of Mayile volcanic rock samples are plotted in the calc-alkaline basalt field (CAB) in an Hf/3-Th-Ta diagram (Wood et al.,1979) (Fig.1la). The studied diorites are plotted in the volcanic-arc granite (VAG) field in a Rb vs. $( \\mathrm { Y + N b } )$ diagram (Fig. 11b). In zircon U/Yb vs. Hf and U/Yb vs. Y discrimination diagrams (Grimes et al.， 2007)，Mayile magmatic rocks belong to oceanic crust (Fig. 5). Thus，the geochemical characteristics of Mayile volcanic and intrusive rocks indicate that their genesis and tectonic setting are related to intra-oceanic crust subducted arc magmatism. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The tectonic evolution of West Junggar during the Carboniferous is debated, because the study on the Carboniferous arc magmatism associated with Junggar oceanic plate subduction in southern West Junggar is insufficient. Paleomagnetic studies showed that the Junggar Ocean between Junggar island arc and Yili plate existed until the Late Carboniferous (Wang et al., 2007a).Therefore， a subduction seting continued to dominate West Junggar during the Carboniferous (Long et al.， 2006； Wang et al.， 2007b). The normal subduction calc-alkaline magmatism dominated during the Early Carboniferous. For example, Zircon U-Pb dating of volcanic rocks in Baogutu and Miaoergou regions of southern West Junggar has shown that northwestward intra-oceanic subduction of Junggar oceanic plate occurred during 344-331 Ma (Buckman and Aitchison, 2004; Geng et al., 2011). The ridge subduction-related magmatism, as represented by adakitic rock， high-Mg andesites，enriched- or high-Nb basaltic rocks, charnockites,and alkali-feldspar granite (Geng et al.,2009; Tang et al.,2010; Yin et al., 2010), commenced and took place between 331 and $3 1 0 \\ \\mathrm { \\ M a }$ and probably lasted into the latest Carboniferous $( 3 0 2 \\mathrm { M a } )$ , as evidenced by the Darbut E-MORB type basalts (Liu et al., 2009). Wu et al. (2018) proposed that subduction of Junggar oceanic plate started during the Early Devonian and continued to the Late Carboniferous $( 3 1 0 \\ \\mathrm { M a } )$ ，with subsequent post-collisional tectonic processes continuing to the latest Carboniferous $( 3 0 2 \\mathrm { M a } )$ ). However, Han et al. (2006) considered that the time frame of post-collisional magmatic activity in northern Xinjiang extended from 330 to 250 Ma. Xu et al. (2019) reported ages of 309 to $3 0 3 \\ \\mathrm { M a }$ for the Miaoergou granitoids and $3 0 4 { - } 2 9 5 \\ \\mathrm { M a }$ for the equivalent rhyolites,and proposed that a tectonic transition from oceanic subduction to collision in southern West Junggar occurred during the Late Carboniferous-Early Permian. Based on the above studies, we infer that southern West Junggar was dominated by normal subduction during the Early Carboniferous (Fig. l2a) and by ridge subduction and/or subsequent post-collision processes during the Late Carboniferous-Early Permian (Fig. 12b). Our study yielded U-Pb ages of around $3 3 4 \\ \\mathrm { M a }$ (Early Carboniferous） for the intra-oceanic arc magmatism represented by Mayile volcanic and intrusive rocks, making them coeval with arc plutonic and volcanic rocks of southern West Junggar (Shen et al.,2009; Guo et al.,2010; Geng et al., 2011； Xu et al.， 2012; Liu et al.， 2017)，which were generated in association with northwestward subduction of Junggar oceanic plate (Geng et al., 2011). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Our new results, combined with those of previous studies, allow us to propose a model for the Carboniferous tectonic evolution of West Junggar (Fig.12). During the Early Carboniferous, northwestward subduction of Junggar oceanic plate led to partial melting of the sub-arc mantle. This caused Mayile intra-oceanic arc magmatism to occur in southern West Junggar, as evidenced by the studied basaltic andesites,dacites,and diorites.After this period of normal subduction, ridge subduction occurred during the Late Carboniferous, following which Junggar Ocean closed gradually from the Late Carboniferous to Early Permian during the post-collision stage (Xiao et al., 2003; Liu et al., 2017; Xu et al., 2019). ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d5326beb3ae93bb9630d6f3bb87645004fd875792d269845f95d9908001b912.jpg",
+        "img_caption": [
+            "Fig.11Hf/3-Th-Ta diagram (after Wood et al.(1979)) for Mayile volcanic rocks (a),and Rb vs. $\\mathrm { Y + N b }$ diagram (after Pearce (1996)） for Mayile intrusive rocks (b).N-MORB,normal mid-ocean ridge basalt；E-MORB, enriched mid-ocean ridge basalt;ALK WPB,alkali within-plate basalt；IAT,island-arctholeites； CAB, calc-alkaline basalts;syn-COLG, post-colisional granite; VAG,volcanic-arc granite; WPG,within-plate granite; ORG, ocean ridge granite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/e95bca1f916706e7fc289e3306f3a5f979f1b6646dcd57a88b4efa4b752f9bbc.jpg",
+        "img_caption": [
+            "Fig.12Proposed tectonic model for the Carboniferous magmatic province in West Junggar (Mayile). Regional tectonic model was from Jahn etal. (2004),Xiao et al.(2009),and Liu et al.(2017a). Slab window model was from Tang et al.(201O) and Geng et al. (20l1).(a),Early Carboniferous: Junggar oceanic plate subducts northwestward during normal subduction; (b),Late Carboniferous: formation of a slab window in Junggar Ocean owing to subduction of a spreading ridge. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7 Conclusions ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this study, we carry the new geochronological, major- and trace-element, and Sr-Nd isotopic analyses on Mayile volcanic and intrusive rocks from the southern West Junggar region. The results show that LA-ICP-MS zircon U-Pb dating of Mayile basaltic andesite and diorite yield a crystallization age of $3 3 4 \\ \\mathrm { M a }$ ，implying that these volcanic and intrusive rocks were formed during the Early Carboniferous.The rocks are calc-alkaline and are characterized by enrichment in LILEs and LREEs and depletion in HREEs, indicating that they were formed from typical subduction-Zone island-arc setting. Their Sr-Nd isotopic compositions indicate a depleted-mantle source that underwent partial melting of $1 0 \\% - 2 5 \\%$ garnet and spinel lherzolite.We suggest that southern West Junggar region was located in an intra-oceanic arc seting related to northwestward subduction of Junggar oceanic plate during the Early Carboniferous. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This study was jointly supported by the CAS \"Light of West China\" Program (2018-XBYJRC-003), the National Natural Science Foundation of China (41772059,92055208)，the Guangxi Natural Science Foundation for Distinguished Young Scholars, China (2018GXNSFFA281009),and the Fifth Bagui Scholar Innovation Project of Guangxi Zhuang Autonomous Region,China.We are grateful for editor's excellent editorial handling and constructive comments from two anonymous reviewers, which substantially improved the final presentation of the manuscript.This is a contribution to International Geoscience Programme (IGCP) 662 and Guangxi Key Mineral Resources Deep Exploration Talent Highland. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "AldanmazE,Pearce JA,ThirlwallMF,etal.2Ooo.PetrogeneticevolutionoflateCenozoic,post-colisionvolcanismin western Anatolia,Turkey.Journal of Volcanology and Geothermal Research,102(1-2): 67-95.   \nBas $\\mathrm { ~ M ~ J ~ L ~ }$ ,Maitre RWL,Streckeisen A,et al.1986.A chemical classificationof volcanic rocks based on the Total Alkali-Silica diagram. Journal of Petrology,27(3): 745-750.   \nBeaumais A,BertrandHChazotG,etal.2O16.Temporalmagma sourcechangesatGauavolcano,Vanuatuislandarc.Joual of Volcanology and Geothermal Research,322:30-47.   \nBuckman S,and AitchisonJC.2004.Tectonic evolutionofPalaeozoic teranes in West Junggar,Xinjiang,NW China. Geological Society,London,Special Publications,226(1):101-129.   \nChenB,andJahnBM.2O04.Genesisofpost-collsional granitoidsandbasementnatureoftheJunggarTerrane,NWChina: Nd-Sr isotope and trace element evidence.Journal of Asian Earth Sciences,23(5): 691-703.   \nChen B,and ArakawaY.2O05.ElementalandNd-Srisotopic geochemistryof granitoids from the West Junggar foldbelt (NW China),with implications forPhanerozoic continental growth.Geochimica et Cosmochimica Acta,69(5):1307-1320.   \nChenJF,HanBF,JiJQ,etal.20l0.Zircon U-Pbagesand tectonic implicationsofPaleozoic plutons innorthern West Junggar, North Xinjiang,China.Lithos,115(1-4):137-152.   \nChouletF,Faure M,CluzelD,etal.20l3.Architectureandevolutionofaccretionaryorogens intheAltaidscollge:Theearly Paleozoic West Junggar (NW China).American Journal of Science,312(10): 1098-1145.   \nColeman R G.1989.Continental growth of northwest China.Tectonics,8(3): 621-635.   \nDu HY,Chen JF,Ma X,etal.2O19.Originand tectonic significanceof the Hoboksarophiolic melange innorthern West Junggar (NW China).Lithos,336-337: 293-309.   \nFeng Y,ColemanRG,TltonG,etal.1989.TctonicvolutionofthewestJunggarregion,Xinjiang,China.Tectoncs,8(4), 729-752.   \nFilippovaIB,Bush VA,andDidenkoAN.2002.MidlePaleozoic subductionbelts:The leading factorintheformationof the Central Asian fold-and-thrust belt.Russian Journal of Earth Sciences,3(6): 405-426.   \nGao J,Li MS,Xiao X C,etal.1998.Paleozoic tectonic evolutionof the Tianshan Orogen，northwestern China. Tectonophysics,287(1):213-231.   \nGeng HY,SunM,Yuan C,etal.2009.Geochemical,Sr-Ndandzircon U-Pb-Hf isotopic studiesofLate Carboniferous magmatism in the WestJunggar,Xinjiang:Implications forridge subduction?Chemical Geology,266(3-4):364-389.   \nGeng HY,SunM,YuanC,etal.2011.GeochemicalandgeochronologicalstdyofearlyCarboniferous vocanicrocksfromthe West Junggar: Petrogenesis and tectonic implications.Journal of Asian Earth Sciences,42(5): 854-866.   \nGrimes CB,John BE,KelemenPB,etal.20o7.Trace elementchemistryof zircons fromoceaniccrust:Amethod for distinguishing detrital zircon provenance. Geology,35(7): 643-646.   \nGuPY,LiYJ,ZhangB,etal.2009.LA-ICP-MSzircon U-Pbdatingof gabbrointheDarbutophiolite,WestJungar,China. Acta Petrologica Sinica,25(6):1364-1372.(in Chinese)   \nGuoLS,LiuYL,Wang Z H,et al.2010.The ziron U-PbLA-ICP-MS geochronologyof volcanicrocks in Baogutu areas, western Junggar. Acta Geologica Sinica (English Edition),26(2): 471-477.   \nHan BF,JiJQ,Song B,et al.ZUuo.LatePaleozoic vertical growthofcontinentalcrust around tne Junggar Basin,Xinjiang, China (Part I): Timing of post-colisional plutonism.Acta Petrologica Sinica (5): 1077-1086.(in Chinese)   \nHanBF,Guo ZJ,Zhang ZC,et al.2010.Age,geochemistry,and tectonic implicationsofalate Paleozoic stitching pluto in the North Tian Shan suture zone,western China.Geological Society of America Bulletin,122(3-4): 627-640.   \nHastie AR,KerrACPearceJA,etal.27.Clasificationofalteredvolanicisandarcrocksusingimmobile traceelements: development of the Th-Co discrimination diagram. Journal of Petrology,48(12): 2341-2357.   \nHawkesworth CJ,and Kemp AIS.2O06.The differentiation and ratesof generationof thecontinental crust.Chemical Geology, 226(3-4): 134-143.   \nHu A Q,JahBM,Zhang GX,etal.2o.rustalevolutionandPhanerozoiccrustal growth innorthern Xinjiang:Ndsotopic evidence.Part I. Isotopic characterization of basement rocks. Tectonophysics,328(1-2):15-51.   \nJahnBM,WuFY,and Chen B.2Ooa.MassvegranitoidgenerationinCentralAsia:Ndisotope evidenceand implication for continental growth in the Phanerozoic.Episodes,23(2):82-92.   \nJahn BM,Griffn WL,and Windley B.2Ooob.Continental growthin the Phanerozoic:Evidence from Central Asia. Tectonophysics,328(1-2): VII-X.   \nJahn BM,CapdevilaR,LiuD,etal.2O04.Sourcesof Phanerozoic granitoids inthetransect Bayanhongor-UlaanBatar, Mongolia:geochemical and Nd isotopic evidence,and implications for Phanerozoic crustal growth.Journal of Asian Earth Sciences,23(5): 629-653.   \nJian P,Liu D Y,Yuruo S,et al.2005.SHRIMP dating of SSZ ophiolites from northern Xinjiang,China: implications for generationofoceaniccrust inthecentralAsianorogenic belt.In:SlyarovEV.StructuralandTectonicCorelationacrossthe Central Asia Orogenic Collage:North-Eastern Segment.Guidebook and Abstract Volume of the Siberian Workshop ICCP-480.Institute of the Earth's Crust, Siberian Branch,Russian Academy of Science,Irkutsk,246.   \nKhainEV,BibikovaEV,SalnikovaEB,etal.2Oo.ThePalaeo-AsianoceanintheNeoproterozoicandearlyPalaeozoic:new geochronologic data and palaeotectonic reconstructions.Precambrian Research,122(1-4): 329-358.   \nKroner A,HegnerE,Lehmann B,etal.2O08.Palaeozoic arc magmatism in the Central Asian Orogenic BeltofKazakhstan: SHRIMP zircon ages and whole-rock Nd isotopic systematics.Journal of Asian Earth Sciences,32(2-4):118-130.   \nLiu B,HanBF,RenR,etal.2Ol7.Petrogenesisandtectonic implicationsoftheEarlyCarboniferous totheLatePermian Barleik plutons in the West Junggar (NW China).Lithos,272-273: 232-248.   \nLiu X J,XuJF,WangSQ,etal.2009. Geochemistryand dating ofE-MORB typemafic rocks fromDalabuteophiolite in West Junggar,Xinjiang and geological implications.Acta Petrologica Sinica,25(6):1373-1389.(in Chinese)   \nLiu XJ,Xiao WJ,XuJF,etal.217.Geochemicalsignatureandrockasociationsofoceanridge-subuctionEvidence from the Karamaili Paleo-Asian ophiolite in east Junggar, NW China. Gondwana Research, 48: 34-49.   \nLiu XJ,Zhang ZG,XuJF,etal.2020.The youngest Permian Oceanin Central AsianOrogenic Belt:Evidence from geochronologyand geochemistryof Bingdaban Ophiolitic Mélange in Central Tianshan,northwestern China.Geological Journal,55(3): 2062-2079.   \nLong XP,MS,CY,etal.2o6.GenesisofCarboniferous volcanicrocks intheeastern Junggar:constraintsontheclosureof the Junggar Ocean. Acta Petrologica Sinica,(1): 31-40.(in Chinese)   \nLudwigKR.2003.User'smanual fora geochronological tookit for Microsoft Excel (Isoplot/Exversion 3.0).Berkeley Geochronology Center, Special Publication,4: 1-71.   \nPearce J.1983.Role ofthe sub-continental lithosphere in magma genesis atactive continental margin.In: Hawkesworth CJ, Nory MJ.Continental Basaltsand Mantle Xenoliths.Nantwich,Cheshire:ShivaPublications,230-249.PearceJ,andPeate D.1995.Tectonic implications ofthe composition ofvolcanic arc magmas.Annual Reviewof Earthand Planetary Sciences, 23(1): 251-285.   \nPearce J.1996.Sourcesand setings of granitic rocks.International Union of Geological Sciences,19(4):120-125.   \nPearceJA,Cann JR.1973.Tectonic seting of basic volcanic rocks determined using trace element analyses.Earth and Planetary Science Letters,19(2): 290-300.   \nRen R,Han BF,Xu Z,etal.2014.Whendidthe subductionfirstinitiate in the southern Paleo-Asian Ocean: Newconstraints fromaCambrian intra-oceanicarc system in WestJunggar,NWChina.EarthandPlanetary Science Leters,388:222-236.   \nSafonova I, Biske G,RomerRL,et al.2O16.MiddlePaleozoic mafic magmatismandocean plate stratigraphyof the South Tianshan, Kyrgyzstan. Gondwana Research,30: 236-256.   \nSafonova IY,BuslovMM,SmonovVA,etal.20l1.Geochemistrypetrogenesis and geodynamicoriginofbasaltsfromthe Katun'accretionary complex of Gorny Altai (southwestern Siberia).Rusian Geologyand Geophysics,52(4): 421-442.   \nSengorAMC,Natal'inBA,Burtman VS.1993.EvolutionoftheAltaid tectoniccolage andPalaeozoiccrustal growth in Eurasia.Nature,364(6435): 299-307.   \nSengor A MU,Natarin B A.I9yo.urkic-type orogenyand Its roie in tne making oItne connentaicrust. Annual KeviewoI Earth and Planetary Sciences,24(1): 263.   \nShenP,ShenYC,LiuTB,etal.2O09.Geochemical signatureof porphyries in the Baogutu porphyrycopperbelt,western Junggar, NW China.Gondwana Research,16(2): 227-242.   \nSun WD,Mcdonough W.1989.Chemicalandisotopic systematicsofoceanic basalts: Implications for mantlecomposition and processes.London: Geological Society, Special Publications,42(1): 313-345.   \nTang GJ,WangQ,WymanDA,etal.2010.Ridge subductionand crustal growth intheCentralAsian OrogenicBelt:Evidence fromLateCarboniferous adakitesand high-Mg diorites in the western Junggar region,northern Xinjiang (west China). Chemical Geology,277(3-4): 281-300.   \nWang B, Shu L S, Cluzel D, et al. $2 0 0 7 \\mathrm { a }$ . Geochemical constraints on Carboniferous volcanic rocks of the Yili Block (Xinjiang, NW China): Implication forthe tectonic evolutionof Western Tianshan.Journal of Asian Earth Sciences,29(1):148-159.   \nWang Q,Wyman D A, Zhao $Z \\mathrm { ~ H ~ }$ ,etal. $2 0 0 7 \\mathrm { b }$ .Petrogenesis of Carboniferous adakites and Nb-enriched arc basalts in the Alataw area,northern Tianshan Range (western China):Implications forPhanerozoic crustal growth in the Central Asia orogenic belt. Chemical Geology,236(1-2): 42-64.   \nWang ZH,SunS,LiJL,etal.20o3.Paleozoic tectonic evolutionof thenorthern Xinjiang,China:Geochemical and geochronological constraints from the ophiolites.Tectonics,22(2),doi: 10.1029/2002TC001396.   \nWilliamsIS.20o1.Responseof detrital zirconand monazite,and their U-Pbisotopic systems,toregional metamorphism and host-rock partial melting,Cooma ComplexsoutheasternAustralia.Australian JournalofEarth Sciences,48(4):57-580.   \nWindleyBF,AlexeievD,XiaoWJ,etal.2oo7.Tectonic models foraccretionof theCentral AsianOrogenic Belt.Jouralof the Geological Society,164(1): 31-47.   \nWood DA,Joron JL,and Treuil M.1979.Are-appraisal of the useof trace elements toclassifyand discriminate between magma series erupted in diferent tectonic settings.Earth and Planetary Science Letters,45(2): 326-336.   \nWu C,Hong T,XuXW,etal.2018.Tectonic evolutionofthePaleozoic Barluk contientalarc,WestJunggar,NWChina. Journal of Asian Earth Sciences,160: 48-66.   \nXiao WJ,WindleyBF,HaoJ,etal.2O03.Acretion leading tocolisionand thePermian Solonkersuture,InnerMongolia, China: Termination of the central Asian orogenic belt. Tectonics,22(6): 1069.   \nXiao WJ,PirajnoF,and Seltmann R.20o8a.Geodynamicsand metallgenyof the Altaid orogen.Journal of Asian Earth Sciences,32(2-4): 77-81.   \nXiao WJ, HanCM,Yuan C,etal.2oo8b.MiddleCambriantoPermiansubduction-relatedaccretionaryorogenesisof Northern Xinjiang,NW China:Implications for the tectonicevolutionofcentral Asia.Journal of Asian Earth Sciences,32(2-4): 102-117.   \nXiao W J,Windley BF,Yuan C,et al.2009.Paleozoic multiple subduction-acretion processs of the southern Altaids. American Journal of Science,309(3): 221-270.   \nXiao WJ,MaoQG,WindleyBF,etal.201a.Paleozoic multipleacretionaryandcolisional processesof theBeishan orogenic collage.American Journal of Science,310(10): 1553-1594.   \nXiao WJ,HuangBC,Han C,etal.20lob.Areviewofthe westernpartoftheAltaids: Akeytounderstandingthearchitecture of accretionary orogens. Gondwana Research,18(2-3): 253-273.   \nXiao WJ,and Santosh M.2014.The western Central Asian Orogenic Belt: A window to accretionary orogenesis and continental growth. Gondwana Research,25(4): 1429-1444.   \nXiao WJ,WindleyBF,Sun S,etal.2O15.Ataleofamalgamationof three Permo-Triassccolage systems in CentralAsia: oroclines,sutures,and terminalaccretion.Annual Review of Earth and Planetary Sciences,43(1): 477-507.   \nXinjiang Bureauof Geologyand Mineral Resources (XBGMR).1993.Regional Geologyof Xinjiang Uygur Autonomy Region. Beijing: Geology Publishing House,1-841.(in Chinese)   \nXu Q Q,JiJQ,ZhaoL,et al.2013.Tectonic evolutionand continental crust growthof Northern Xinjiang in northwestern China: Remnant ocean model. Earth-Science Reviews,126:178-205.   \nXu SL,ChenXH,LiTD,etal.2019.Timeoftheocean-continenttransitionin WestJunggar:Constraints fromzconU-Pb dating and Lu-Hf isotopic composition. Geology in China, 46(05): 1061-1078.   \nXu X,He GQ,LiHQ,etal.20o6.Basiccharacteristicsofthe Karamayophiolitic melange,Xinjiang,and its zirconSHRIMP dating. Geology in China,33(3): 470-475.   \nXu Z,Han BF,RenR,etal.2012.Palaeozoic multiphase magmatismatBarleik Mountain,southern WestJunggar,Northwest China: implications for tectonic evolution of the West Junggar. International Geology Review,55(5): 633-656.   \nYakubchuk AS,Shatov V V,Kirwin D,etal.2005.Goldand base metal metalogenyof the Central Asianorogenic supercollage.In: HedenquistJW,Thompson JFH,GoldfarbRJ,et alEconomic Geology.Litleton,CO:Societyof Economic Geologists.   \nYang GX,LiYJ,Santosh M,etal.20l2.ANeoproterozoic seamountin thePaleoasian Ocean:Evidence from zircon U-Pb geochronologyand geochemistryofthe Mayileophiolitic mélange in West Junggar,NWChina.Lithos,140-141:53-65.   \nYang GX,LiYJ,Xiao WJ,etal.2015.OIB-typerocks within WestJungarophioliticmelanges:Evidencefortheaccretionof seamounts.Earth-Science Reviews,150: 477-496.   \nYangGX,LiYJ,TongLL,etal.2O2O.AnEarlyCambrianplume-induced subduction initiation event within the Junggar Ocean:Insights from ophiolitic melanges,arc magmatism,and metamorphic rocks.Gondwana Research,88: 45-66.   \nYangYQ,ZhaoL,ZhengR G,etal.2019.EvolutionoftheearlyPaleozoic Hongguleleng-BalkybeyOcean:Evidence fromthe Hebukesaier ophiolitic melange in the northern West Junggar,NW China.Lithos,324-325: 519-536.   \nYinJY,YuanC,SunM,etal.20l0.LateCarboniferous high-Mgdoriticdikesin Western Junggar,NWChina: Geochemical features,petrogenesis and tectonic implications.Gondwana Research,17(1): l45-152.   \nZhang JE,XiaoWJ,Han CM,etal.2011.ADevonianto Carboniferous intra-oceanic subductionsystem in Western Junggar, NW China.Lithos,125(1-2): 592-606.   \nZhang JE,Xiao WJ,LuoJ,etal.2O18.Colisionof the Tachengblock withtheMayile-Barleik-Tangbaleaccretionarycomplex inWesternJunggar,NWChina: ImplicationforEarly-MiddlePaleozoicarchitectureof thewesternAltaids.Journalof Asian Earth Sciences,159: 259-278. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

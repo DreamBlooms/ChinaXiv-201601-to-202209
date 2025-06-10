@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "Database tool ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NeuroPep: a comprehensive resource of neuropeptides ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Wang1, Mingxia Wang1, Sanwen $\\forall \\mathbf { i n } ^ { 2 }$ ,Richard Jang²,³, Jian Wang1Zhidong $\\mathsf { X u e } ^ { 2 , \\ast }$ and Tao $\\mathbf { X } \\mathbf { u } ^ { 1 , 4 , * }$ （204号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratory of Molecular Biophysics of the Ministry of Education, Collge of Life Science and Technology, Huazhong University of Science and Technology,Wuhan, Hubei 43074, China,²School of Software Engineering, Huazhong University of Science and Technology,Wuhan, Hubei 430074,China, $^ 3 \\mathsf { D }$ epartment of Computational Medicine and Bioinformatics, University of Michigan,Ann Arbor,Ml 48109,USA and 4National Laboratory of Biomacromolecules,Institute of Biophysics,Chinese Academy of Sciences,Beijing 100101, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author:Tel/Fax: $+ 8 6$ 27 87543285; Email: zdxue@mail.hust.edu.cn   \nCorrespondence may also be addressed to Tao Xu.Tel/Fax: $+ 8 6$ 27 87792024;Email: xutao@ibp.ac.cn   \nCitationdetails:Wang,Y,Wang,M.,Yin,S.,etalNeuroPep:acomprehensiveresourceof neuropeptides.Database (2015   \nVol.2015:article ID bav038;doi:10.1093/database/bav038 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 22 December 2014; Revised 16 February 2015;Accepted 31 March 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neuropeptides play a variety of roles in many physiological processes and serve as potential therapeutic targets for the treatment of some nervous-system disorders.In recent years,there has been a tremendous increase in the number of identified neuropeptides. Therefore,we have developed NeuroPep,a comprehensive resource of neuropeptides, which holds 5949 non-redundant neuropeptide entries originating from 493 organisms belonging to 65 neuropeptide families.In NeuroPep,the number of neuropeptides in invertebrates and vertebrates is 3455 and 2406,respectively.It is currently the most complete neuropeptide database.We extracted entries deposited in UniProt, the database (www.neuropeptides.nl) and NeuroPedia，and used text mining methods to retrieve entries from the MEDLINE abstracts and full text articles.All the entries in NeuroPep have been manually checked.2069 of the 5949 $( 3 5 \\% )$ ）neuropeptide sequences were collected from the scientific literature.Moreover,NeuroPep contains detailed annotations for each entry,including source organisms,tissue specificity，families,names，posttranslational modifications，3D structures (if available）and literature references. Information derived from these peptide sequences such as amino acid compositions, isoelectric points,molecular weight and other physicochemical properties of peptides are also provided.A quick search feature allows users to search the database with keywords such as sequence, name,family,etc.,and an advanced search page helps users to combine queries with logical operators like AND/OR.In addition,user-friendly web tools like browsing，sequence alignment and mapping are also integrated into the NeuroPep database. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Database URL: http://isyslab.info/NeuroPep ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Neuropeptides are small proteineous substances that are produced by neurons,released in a regulated fashion,and act on either neural substrates,such as neurons,glial cells or on non-neuronal target cells,such as a gland or muscle (1). It has been shown that different neuropeptides are involved in a number of physiological processes such as food intake, metabolism,stress control,pain perception,social behaviors,learning,memory,etc.(2-5).Neuropeptides are typically 3-1OO amino-acid-residue long, produced from larger precursor molecules by a series of post-translational processing (6).There are two general approaches ('function-first' or ‘peptide-first'） to discover neuropeptides.The function-first approach is based on bioassays,receptor-binding assays and genetic analysis,while the peptide-first approach is based on cDNA cloning of precursor,using neuropeptide precursor processing enzymes,peptidomics,etc.(7).Since the first neuropeptide substance P was discovered by van Euler and Gaddum in 1931 (8) and sequenced in 1971 (9),there has been a tremendous increase in the number of identified neuropeptides over the last 4O years.Furthermore,due to their wide range of roles in health and disease,neuropeptides are considered as attractive therapeutic targets for nervous-system disorders such as depression，anxietyand Parkinson's disease (1O-12). Several databases like EROPMoscow (13), SwePep (14),PeptideDB (15),PepBank (16) have been developed to hold general bioactive peptides. There are also some databases such as APD2 (17),CAMP (18),DAMPD (19),which were designed for specific antimicrobial peptides.However,there are only two recent databases specific for neuropeptides. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "About 9O genes encoding classical and candidate neuropeptides in mammalian genomes were provided in the online neuropeptide database www.neuropeptides.nl (1). It provided genes, precursors and the processed active peptide names on the website and also provides hyperlinks to bioinformatics databases on genomes,transcripts,brain expression and homologiesto otherspecies. The NeuroPedia database was mainly designed for identification of neuropeptides using mass spectrometry data (20). It extracted 847 neuropeptide sequences of eight organisms belonging to the phylum Chordata and collected 3401 identified spectra from NIST spectral libraries and their own in-house spectral datasets (2O).Since the two databases were specialized for the authors’study,many invertebrate-specific neuropeptides were not considered such as allatostatins,pyrokinins,crustacean cardioactive peptides, pigment-dispersing factors,etc.,and neither of the databases gave detailed annotations for each neuropeptide sequence.Although the invertebrate neuropeptide characterization lagged behind the vertebrate neuropeptide, there were many new invertebrate neuropeptides that were identified owing to the development of the mass spectrometry technique in recent years (21-23). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Therefore,this study focused on collecting as many known neuropeptide sequences and related information as possible and integrating them into a searchable archive.With this in mind, we not only extracted entries from the public resources ofUnitProt (24)， databases www.neuropeptides.nl and NeuroPedia,but also retrieved neuropeptide sequences in the abstracts and full texts of literatures in MEDLINE by textmining methods.To better serve the community, the database also provided comprehensive information for each entry and integrates user-friendly browsing and search facilities along with useful tools such as BLAST (25),ClustalW (26)and Map.We hope that this database will be helpful for the research community and be a valuable resource for neuropeptide-based therapeutics development. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Data collection and compilation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NeuroPep database is a comprehensive resource of neuropeptides.The data were collected from various resources including MEDLINE abstracts,full papers,UniProt,databases www.neuropeptides.nl (1） and NeuroPedia (20). First,we searched Pubmed with the keyword ‘neuropeptide'which returned 240 388 articles of which only 7277 contained peptide sequences.The Peptide::Pubmed (16) method was used to extract the peptide sequences from the abstracts of these articles.In total,1O 515 peptide sequences were extracted from the 7277 different abstracts. To check whether or not the sequence extracted from the abstract is a neuropeptide,we extracted the peptide name or the term describing the peptide sequence and then compared it with a neuropeptide name list which was built based on www.neuropeptides.nl and UniProt.It was found that many of these sequences are analogs,antagonists, agonists,fragments,motifs,etc.After filtering,2595 natural neuropeptide sequences remained.Meanwhile,we also mined name, family,modification and organism information from the corresponding texts. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,we wrote a perl script to select articles which may contain the neuropeptide sequences identified by MS/MS in their full texts.The script was designed for thekeywordsearch by‘Neuropeptide’ and‘Mass Spectrometry’from the title/abstract fields and returned 579 articles out of the 240 388 articles.Neuropeptides described inthe full text articles werealso selected based on the family or peptide names which were mentioned in the articles.3471 sequences along with their name,family and organism information were collected manually from the full texts.In addition, neuropeptide precursors were selected from the entries ofUniProt (release 2013-O5)which were annotated as‘neuropeptide’in the‘keyword’line. 2715 neuropeptide sequences annotated as‘peptide’ or ‘chain’in the‘Feature’ line were retrieved from these precursors.Moreover，we downloaded the corresponding UniProt protein file according to the UniProt ID from the blink results of all the neuropeptide precursors listed in the database www.neuropeptides.nl.2179 sequences were further retrieved from these protein files.Combined with all the 847 sequences collected from NeuroPedia database, the integrated dataset contained 11 8O7 sequences. During the process to remove redundancy according to the sequence and organism,we preferred to keep the UniProt entries.As a result,5949 non-redundant entries remained. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NeuroPep serverand web interface ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We constructed the NeuroPep server using Apache Tomcat Server7with MySQL Community Server5.6.HTML,JSP and Ajax were used to build the front-end,and Java and JDBC were used to implement the web services and data management.The Highcharts Javascript package was used to add interactive plots to the web site.An overview of the user interface of NeuroPep database is shown in Figure 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data organization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data in NeuroPep database are organized into the following fields (Figure 1B): ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Accession number:A unique identifier to tag each database entry.Each accession number begins with the characters ‘NP' followed by five digits.   \nName: The name of the neuropeptide which was collected from the literature orUniProt.   \nA BNeuropeptide NeuroPep Comprehensive Resource of Neuropeptides NPD NP03900 Home Browse T Search- Tools- Statistics Submission Help Contact Nne Neuropeptida F Organism Moniezia expans Browse by family NCBI Taxa ID 28841 26 Dowoad aFast A Show 1eies Tissue Specificity NPD Seqerce · Lph Organim 1 Family t- Name 中 PMID [ Ely NPY NP03894 YSQVARPRF , Locustamigatoria NPY Neopptde 19456328 UniProtID NPF_MONEX NP03895 SNRSPSLRLRF 11 Locwtamigntoria NPY Shortneurpeptide F 19456328 Length 39 NP03896 SPSLRLRF ： Locesta migratoria NPY Sot eropptideF4-11 19456328 Modification Modification Residue Start End NP03897 YAIVARPRF 9 Loligo vulgaris NPY Petideroigh 1510685 CO Tem DPtie 39 3idase NP03898 SSPETLISDLLMRESTENVPR 30 Macacamulata NPY ClningpeptiteofNPY Gene Ontology GO0005576 Cellular Component extnelluanregion IEA NP03899 YPSKPDNPGEDAPAEDMAR. 36 Macacamulatta NPY NenropptideY O:0007218 Biological Process neuropeptidesignalingpathway IEA NP03000 PDKDFIVNPSDLVLDNKAAL 39 Meniezia expanta NPY NeopeptideF Sequence PDKDFIVNPS[10]DLV,DNKAAL[20]RDYLRQINEY[30]FAHIGRPRF NP03901 SSPETLISDLLMKESTENAPR. 30 Musmscas NPY C-kingp Y Properties View. NP0390 17IPENEAIEA 36 Mmis NPY N Structure NP03903 36 NPY 1459125 is Showing101to110of226ees Previous 1 10 11 12 .. 23 Next Reference Iogy 102:309-316(1991).   \nC Analyze D Molecularweight:4591.438 NeuroPep Theoretical pI:6.468 a Comprehensive Resource of Neuropeptides PDKDFIVNPSDLVLDNKAALRDYLRQINEYFAIIGRPRF Redge PDB Totalumberofnegativelychargedresidues(Asp+Glu）：6 TotaberivelydesideAr+Ly6 PDKDFIVNPSDLVLDNKAALRDYLKQINEYFAIIGRPRF Green:ydophilicBackydophobic Totalberfhopobees:20 Totalnumberofhydeophilicresidues:19 Amino AcidsComposition d.t.ln.n Imol Reset to initial orien   \nOrganism: The scientifc name of the organism with the neuropeptide sequence.   \nTissue Specificity: The specific tissue expressing of the neuropeptide.   \nFamily: The classification of the neuropeptide.It was extracted from the‘SIMILARITY'line ofUniProt orliteratures.In addition,entries without family information and neuropeptide-like proteins in phylum Nematoda were annotated as‘NA'.   \nUniProt ID:the accession number in UniProt (if available) and a link to its UniProt entry.   \nModification: The type of post-translational modification and the position in the sequence for each modified residue.   \nSequence: The amino acid sequence of the peptide.   \nStructure:The three-dimensional structure of the neuropeptide from the PDB database. Jmol was integrated into the database to facilitate structure vision.   \nReference: The source of the neuropeptide sequence. External links to the abstracts of the articles are also provided. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure1.AovervieoftheuserinterfaceofeuroPep.A)ThebrowseoutputofNYeuropeptidefamily.B)AnexamplofentryN90of the NPY family. (C)The properties page of the entry NP03900.(D)The structure view page of the entry NP03900. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition to the above directly extracted information, we computed the frequency of each of the 2O standard amino acid types,isoelectric points and molecular weight of each neuropeptide.We also computed the frequency of each special type of amino acid (positive charge,negative charge,hydrophilic and hydrophobic) to help user to know which type of amino acid each neuropeptide prefers.The above information is shown in the field of properties (Figure 1C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data retrieval ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A powerful browsing facility allows a user to browse the database using three different major categories including neuropeptide family,organism and modification.There are 65 neuropeptide families and 493 organisms in the current database,and they are presented in alphabetical order. The modification field includes five most common modifications occurring in neuropeptide sequences including amidation,acetylation,pyroglutamination, sulfationand phosphorylation.The browse output has the option to sort the data by clicking on the column title. The sequences can be downloaded in fasta format,and all the information can be downloaded in txt format. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,users can query the database by two types of search tools: quick search and advanced search.Quick search enables users to search the database by the following fields:NPID,organism,family,name,UniProt ID,sequence and PMID.When the sequence field is chosen,all the neuropeptide sequences containing the input sequence will be returned.Advanced search allows users to build complex search queries usinglogical conditions like AND/ OR.In addition,advanced search allows users to specify a search range of the fields including length,molecular weight and isoelectric point. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Integration of web tools ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To facilitate analysis of neuropeptide sequences,various web-based tools have been integrated into NeuroPep.The following is a brief description of these tools. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Blast: To find sequences in NeuroPep that are similar to a user-provided sequence, we have incorporated the BLAST search tool on the website.It allows users to submit the sequence in FASTA format and choose the userdefined parameters including $E$ -value cutoff,and the substitution matrix for sequence alignment. The output is shown in the standard BLAST output,which includes the matching sequences,BLAST score and $E$ -value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ClustalW: ClustalW,one of the most commonly used tools for multiple sequence alignment,is also integrated into the database to help users find the conserved motifs in a group of neuropeptide sequences.The input consists of multiple peptide sequences in FASTA format,and the output is the standard ClustalW multiple sequence align ment format. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Map:Given the sequence of a neuropeptide precursor,one may need to find all possible processed neuropeptides in the database.To facilitate this task,we have developed the Map tool.Map finds all peptides in the database that match exactly to a substring in the user-provided sequence.For each output sequence,the starting position in the input sequence where the matching substring begins is also provided. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Submission ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Users can submit their published or newly discovered data into NeuroPep via the online submission form. The NeuroPep server will update the database automatically once the newly submitted entry is confirmed by us.A confirmation email will be sent to the submitter after validation.Periodically,we will also search for and submit new entries from the newly published literatures and UniProt. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After removing redundancy and manual checking, the current release of the database (version 1.0,2014-11-26) holds 5949 non-redundant entries,among which 4035 neuropeptide sequences have been confirmed by at least one reference.The 5949 non-redundant entries cover 493 organisms belonging to 65 different neuropeptide families. The 493 organisms can be classified into nine phyla includingAnnelida,Arthropoda， Chordata， Cnidaria, Echinodermata,Hemichordata,Mollusca,Nematoda and Platyhelminthes.Table 1 lists all the 65 neuropeptide families together with the number of different sources of neuropeptides and the phyla distribution of each family. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Source distribution of neuropeptide families ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The entries of NeuroPep were derived primarily from two types of sources.The first consists of public databases including UniProt,www.neuropeptides.nl and NeuroPedia.The second consists of scientific literature sources including MEDLINE abstracts and full texts.3880 sequences were collected from the public repositories (UniProt:2216; databaseswww.neuropeptides.nland NeuroPedia:1664). All 1664 neuropeptide sequences from www.neuropeptides.nl and NeuroPedia have UniProt entries,but they were not annotated as‘neuropeptide' in the keyword line of UniProt like the classical neuropeptides cerebellins,calcitonins,somastostatins,GnRHs,etc.To check whether the 2O69 sequences from the literature have UniProt entries that lack the‘neuropeptide’ annotation, these sequences were compared with all the ‘peptides’and ‘chains’in UniProt. This resulted in 117 such sequences. Therefore,the UniProt ID of each of these sequences was added to NeuroPep.As can be seen from Table1, there are three families including calcitonin-like peptide,ecdysis triggering hormone,orcokinin,for which $5 9 0 \\%$ of the entries were collected from the literature.All the 13 members of the neuropeptide family of calcitonin-like peptide and ecdysis triggering hormone were extracted from scientific literature.The orcokinin family contains 191 entries covering 16 organisms. Only five entries of Apis mellifera, two of Orconectes limosus, six of Procambarus clarkia and six of Rhodnius prolixus were collected from UniProt, the other 172 entries of 13 different organisms were collected from literatures.For another 45 neuropeptide families, $1 { - } 8 9 \\%$ of the entries were obtained from text mining. For the remaining 17 neuropeptide families,all the entries were retrieved from the public resources. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Phyla distribution of neuropeptide families ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fifteen out of all 65 neuropeptide families contain peptides from at least two different phyla.The most widely distributed FMRFamide-related peptide family spans seven phyla includ ingAnnelida,Arthropoda,Chordata,Cnidaria,Mollusca, Nematoda and Platyhelminthes.The other 5O neuropeptide families in the current versionof the databaseare restricted to a single phylum.Eight families including pyrokinin,orcokinin,arthropod PDH, etc.are Arthropoda specific. There are 38 neuropeptide families like bradykinin,calcitonin, cerebellin,somatostatin,etc.which are only found in Chordata.All the egg-laying hormones and small cardioactive peptides are identified from Mollusca,and all the LWamide neuropeptides and all the YGGW-amide-related peptides are from Cnidaria and Nematoda, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Neuropeptide and family distribution among phyla ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The neuropeptide frequency distribution among phyla is given in Figure 2A. More than $44 \\%$ (2635）neuropeptides are found in the phylum Arthropoda. The phylum Chordata has the second largest number of neuropeptides (2457， $4 1 \\%$ ).Themajorityofneuropeptidesin Arthropoda and Chordata are found in the organisms of Callinectes sapidus (170) and Rattus norvegicus (294),respectively.The organisms with the most identified neuropeptidesintheremainingphylaareasfollows: Caenorhabditiselegans(Nematoda,226),Aplysiacalifornica (Mollusca,15O),Anthopleura elegantissima (Cnidaria, 18)，Eisenia foetida (Annelida，7)，Fasciola hepatica (Platyhelminthes, 5)， Strongylocentrotuspurpuratus (Echinodermata, 8) and Saccoglossuskowalevskii (Hemichordata, 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 2B shows the number of families for the neuropeptides in each phylum.The chordate phylum contains the highest number of neuropeptide families,which is 48,followed by Arthropoda and Mollusca,which are 21 and 12, respectively. Comparing Figure 2A and B,it is observed that the Arthropoda phylum has more identified neuropeptides than the Chordata phylum,but Chordata has more families. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Amino acid and neuropeptide length distribution ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The amino acid composition and length distribution of neuropeptides of the current database are shown in Figure 3A and B,respectively.It is observed that residues like Leu,Ala,Ser,Glu and Gly are more abundant while residues like Trp,Cys,Met,His and Tyr are the least abundant.We have also computed separately the amino acid composition of invertebrate and vertebrate neuropeptides in the NeuroPep database.It is found that the Phe abundance in invertebrate neuropeptides is 2.6 times of that in vertebrate neuropeptides,while the Lys abundance in vertebrate neuropeptides is 3 times of that in invertebrate neuropeptides (Supplementary Figure S1).As shown in Figure 3B, the length of the majority of the neuropeptides $( 7 9 \\% )$ is ${ < } 3 0$ .There are 18 entries in the database with the shortest length of three-amino-acids long.A small portion $( 6 \\% )$ of sequences are ${ > } 1 0 0$ amino acids in length, most of which (341/346) are annotated as‘CHAIN' in the feature line of UniProt. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/733eda53cc18a342b72fb7b16be1b7a2b31e42fabade5317f4aa09f98a3b8fa8.jpg",
+        "table_caption": [
+            "Table 1.The number of neuropeptides from each data source and phyla distribution for the 65 neuropeptide families in NeuroPep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Family name</td><td></td><td>Source</td><td></td><td>Phyla</td><td></td><td>Lita</td><td>SPb</td><td>NL</td><td></td></tr><tr><td></td><td>Lita</td><td>Spb</td><td>NL</td><td></td><td>NAPRTase Natriuretic peptide</td><td>0</td><td>0</td><td>4</td><td>Chordata</td></tr><tr><td></td><td>1</td><td></td><td></td><td></td><td>Neurexophilin</td><td>1 0</td><td>0 0</td><td>83 16</td><td>Chordata Chordata</td></tr><tr><td>7B2</td><td></td><td>10</td><td></td><td>Chordata</td><td>Neuromedins</td><td>6</td><td>7</td><td>2</td><td>Chordata</td></tr><tr><td>ACBP</td><td></td><td>0</td><td>19</td><td>Chordata</td><td>Neuropeptide B/W</td><td>1</td><td>11</td><td>0</td><td>Chordata</td></tr><tr><td>Adrenomedullin</td><td>0</td><td>0</td><td>15</td><td>Chordata</td><td>Neuropeptide S</td><td>0</td><td>4</td><td>0</td><td>Chordata</td></tr><tr><td>AKH/HRTH/RPCH</td><td>69</td><td>113</td><td>0</td><td>Arthropoda</td><td>Neurotensin</td><td>15</td><td>0</td><td>21</td><td>Chordata</td></tr><tr><td>Allatostatin</td><td>275</td><td>86</td><td>0</td><td>Arthropoda; Nematoda</td><td>NPY</td><td>100</td><td>93</td><td>33</td><td>Arthropoda; Chorda</td></tr><tr><td>Apelin</td><td>0</td><td>0</td><td>16</td><td>Chordata</td><td></td><td></td><td></td><td></td><td>Mollusca; Platyhel</td></tr><tr><td>Arthropod CHH/ MIH/ GIH/VIH</td><td>68</td><td>49</td><td>0</td><td>Arthropoda</td><td></td><td></td><td></td><td></td><td>minthes</td></tr><tr><td>hormone</td><td></td><td></td><td></td><td></td><td>Nucleobindin</td><td>0</td><td>0</td><td>11</td><td>Chordata</td></tr><tr><td>Arthropod PDH</td><td>33</td><td>4</td><td>0</td><td>Arthropoda</td><td>Opioid</td><td>56</td><td>117</td><td>2</td><td>Annelida; Chordata;</td></tr><tr><td>Bombesin/neurome-</td><td>11</td><td>0</td><td>22</td><td>Chordata</td><td>Orcokinin</td><td></td><td></td><td></td><td>Mollusca</td></tr><tr><td>din-B/ranatensin</td><td></td><td></td><td></td><td></td><td></td><td>172</td><td>19</td><td>0</td><td>Arthropoda</td></tr><tr><td>Bradykinin</td><td>9</td><td>0</td><td>7</td><td></td><td>Orexin</td><td>0</td><td>11</td><td>0</td><td>Chordata</td></tr><tr><td>Calcitonin</td><td></td><td>0</td><td>39</td><td>Chordata</td><td>Parathyroid</td><td>0</td><td>4</td><td>19</td><td>Chordata</td></tr><tr><td>Calcitonin-like</td><td>4 6</td><td>0</td><td>0</td><td>Chordata</td><td>hormone</td><td></td><td></td><td></td><td></td></tr><tr><td>peptide</td><td></td><td></td><td></td><td>Arthropoda</td><td>Periviscerokinin</td><td>19</td><td>263</td><td>0</td><td>Annelida; Arthropod</td></tr><tr><td>CART</td><td>2</td><td>10</td><td>7</td><td></td><td>POMC</td><td>3</td><td>0</td><td>204</td><td>Chordata</td></tr><tr><td>CCAP</td><td>10</td><td>6</td><td>0</td><td>Chordata</td><td>ProSAAS</td><td>1</td><td>27</td><td>0</td><td>Chordata</td></tr><tr><td>Cerebellin</td><td>4</td><td>0</td><td>20</td><td>Arthropoda; Mollusca</td><td>Pyrokinin</td><td>56</td><td>210</td><td>0</td><td>Arthropoda</td></tr><tr><td>Chromogranin/</td><td>21</td><td>0</td><td>77</td><td>Chordata Chordata</td><td>Resistin/FIZZ</td><td>0</td><td>0</td><td>7</td><td>Chordata</td></tr><tr><td>secretogranin</td><td></td><td></td><td></td><td></td><td>RFamide neuropeptide</td><td>0</td><td>5</td><td>0</td><td>Chordata</td></tr><tr><td>Corazonin Cystatin</td><td>17 0</td><td>46 0</td><td>0 22</td><td>Arthropoda; Mollusca Chordata</td><td>Sauvagine/cortico-</td><td>5</td><td>0</td><td>20</td><td>Chordata; Arthropoc</td></tr><tr><td>Ecdysis triggering</td><td>7</td><td>0</td><td>0</td><td>Arthropoda</td><td>tropin-releasing factor/urotensin I</td><td></td><td></td><td></td><td></td></tr><tr><td>hormone Endothelin/</td><td>0</td><td>29</td><td>1</td><td>Chordata</td><td>SCP</td><td>2</td><td>5</td><td>0</td><td>Mollusca</td></tr><tr><td>sarafotoxin FMRFamide related</td><td></td><td></td><td></td><td></td><td>Serpin Somastostatin</td><td>17 22</td><td>0 0</td><td>87 33</td><td>Chordata Chordata</td></tr><tr><td>peptide</td><td>455</td><td>406</td><td>6</td><td>Arthropoda; Mollusca; Nematoda; Annelida;</td><td>Somatotropin/</td><td>0</td><td>0</td><td>101</td><td>Chordata</td></tr><tr><td></td><td></td><td></td><td></td><td>Platyhelminthes;</td><td>prolactin Tachykinin</td><td>84</td><td>185</td><td>0</td><td>Annelida; Arthropod</td></tr><tr><td>Galanin</td><td>7</td><td>19</td><td>4</td><td>Chordata; Cnidaria Chordata</td><td></td><td></td><td></td><td></td><td>Chordata; Molluso</td></tr><tr><td>Gastrin/cholecysto</td><td>35</td><td>86</td><td>112</td><td>Arthropoda; Chordata</td><td>TRH Urotensin-2</td><td>1 4</td><td>0</td><td>17</td><td>Chordata Chordata</td></tr><tr><td>kinin</td><td></td><td></td><td></td><td></td><td>Vasopressin/</td><td>7</td><td>0 1</td><td>8 77</td><td>Arthropoda; Chorda</td></tr><tr><td>Glucagon</td><td>14</td><td>0</td><td>228</td><td>Chordata</td><td>oxytocin</td><td></td><td></td><td></td><td>Mollusca</td></tr><tr><td>GnRH Insulin</td><td>32</td><td>0</td><td>42</td><td>Chordata; Mollusca</td><td>VGF</td><td>6</td><td>0</td><td>21</td><td>Chordata</td></tr><tr><td></td><td>9</td><td>4</td><td>194</td><td>Chordata; Mollusca; Arthropoda</td><td>YGGW-amide</td><td>0</td><td>14</td><td>0</td><td>Nematoda</td></tr><tr><td>Kinin</td><td>20</td><td>19</td><td></td><td>Arthropoda; Chordata</td><td>related peptide</td><td></td><td></td><td></td><td></td></tr><tr><td>KISS1</td><td>3</td><td>0</td><td>14</td><td>Chordata</td><td>ACBP,Acyl-CoA-binding protein; AKH/HRTH/RPCH, Adipokinetic</td><td></td><td></td><td></td><td></td></tr><tr><td>Leptin</td><td>0</td><td>0</td><td>21</td><td>Chordata</td><td>mone/ Hypertrehalosaemic factor ／Red pigment-concentrating horm</td><td></td><td></td><td></td><td></td></tr><tr><td>LWamide neuropeptide</td><td>3</td><td>23</td><td>0</td><td>Cnidaria</td><td>CHH/MIH/GIH/VIH, Crustacean hyperglycemic hormones/Molt-inhibi</td><td></td><td></td><td></td><td></td></tr><tr><td>Melanin-concentrat-</td><td>3</td><td>33</td><td>4</td><td>Chordata</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ing hormone</td><td></td><td></td><td></td><td></td><td></td><td>ELH,Egg-laying hormone; SCP,Small cardioactive peptide; CART, Coca amphetamine-regulated transcript protein; POMC,Pro-opiomelanoco</td><td></td><td></td><td></td></tr><tr><td>Molluscan ELH Motilin</td><td>0</td><td>43</td><td>0</td><td>Mollusca</td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table1. Continued "
+        ],
+        "table_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f153148d160a17240424969ecc624d46ed43a26a389b8461642c90366253429.jpg",
+        "img_caption": [
+            "Figure2.(A)Theneuropeptide frequencydistributionbasedonphyla.(B)Theneuropeptidefamilydistribution basedonphyla "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Comparison to other existing neuropeptide databases ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We compared our database,NeuroPep,to the other two specific neuropeptide databases: the database at www. neuropeptides.nl (1) and the database NeuroPedia (20). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The developers of the database www.neuropeptides.nl mainly traced back the origin and the development of the concept of neuropeptide and proposed a conservative definition of neuropeptides.Based on the definition, they collected and analyzed over 9O genes encoding classical or candidate neuropeptides of the mammalian genomes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NeuroPedia was mainly designed for identification of neuropeptides using mass spectrometry data. It offered 847 neuropeptide sequences and the corresponding spectra data along with spectral library search tools. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Comparing to the above two neuropeptide database, NeuroPep has more experiment-validated neuropeptide sequences and cover more neuropeptide families and organisms.The current version of our database contains 5949 neuropeptide sequences belonging to 65 different neuropeptide families and covering 493 different organisms of nine different phyla. There are 16 invertebrate neuropeptide families such as allatostatin,periviscerokinin,orcokinin, pyrokinin，etc. that were not included by the databases www.neuropeptides.nl and NeuroPedia,which accounts for $2 8 \\%$ of the NeuroPep database.The members of these 16 families are from Arthropoda,Mollusca, ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ec1a321a9b45aeb621a069ac3e1e9bbe4d05dc50d00b352bb1516beb7601407.jpg",
+        "img_caption": [
+            "Figure3.(A)TeainoacidompositionditributioofeuropetidesinNuroepdatabase.(B)eaminocidngthdistributioofuroep tides in NeuroPep database. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Nematoda,Annelida or Cnidaria.Note that $3 5 \\%$ of the entries of our database were collected from text mining of MEDLINE abstracts and full text articles,which have not yet been collected or annotated by other public resources. Moreover,NeuroPep offers comprehensive annotations for each entry and user-friendly search facilities.Third,powerful analysis tools including BLAST, CLUSTALW and Map are also integrated in our database.Therefore,we think theNeuroPep databasewill bea useful resource for the research community. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Summary and future perspectives ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "NeuroPep is a comprehensive neuropeptide database, which holds 5949 neuropeptide sequences originating from 493 organisms of nine different phyla.Itis the most complete specific neuropeptide database to date.The database offers a user-friendly interface coupled with powerful browsing,searching and analysis tools.It allows users to submit new entries online.Each new entry will be validated before incorporating it into NeuroPep.It is very time-consuming to manually check the peptide sequences and extract related information from science papers. Therefore,a new text mining tool based on natural language processing is currently under development. It will be integrated into NeuroPep to update the database automatically as soon as novel neuropeptides become available. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Data ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data are available at Database Online. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We thank Xinlong Jiang,Di Pi, Feng He and Jing Tang for their helpful advices to improve the database.We are grateful to the authors and curators of the resources we used: the databases www. neuropeptides.nl, NeuroPedia, UniProt and MEDLINE. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Natural Science Foundation of China [30700162，61073095] and the Fundamental Research Funds for the Central Universities of China [2014TS138]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest.None declared. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1．Burbach,J.P.(201O) Neuropeptides from concept to online database www.neuropeptides.nl. Eur.J.Pharmacol.,626,27-48.   \n2.Hokfelt,T.，Broberger,C.，Xu,Z.Q.etal. (2000) Neuropeptides—anoverview.Neuropharmacology， 39, 1337-1356.   \n3．Sobrino Crespo,C.,Perianes Cachero,A.,Puebla Jimenez,L.et al. (2014)Peptidesand food intake.Front.Endocrinol.,5,58.   \n4.Shahjahan,M.,Kitahashi,T.and Parhar,I.S.(2O14) Central pathways integrating metabolism and reproduction in teleosts.Front. Endocrinol.,5,36.   \n5．Kormos,V.and Gaszner,B.(2013) Role of neuropeptides in anxiety， stress, and depression: from animals to humans. Neuropeptides,47,401-419.   \n6．Malenka,R.(2010) Intercellular Communication in theNervous System.AcademicPress,New York.   \n7．Fricker,L.D. (2012) Colloquium Series on Neuropeptides,Vol. 1.Morgan & Claypool Life Sciences,San Rafael,pp.1-122.   \n8．van Euler,U.S.and Gaddum,J.H.(1931）An unidentified depressor substance in certain tissue extracts.J.Physiol.,72, 74-87.   \n9．Chang,M.M.,Leeman,S.E.and Niall,H.D.(1971) Amino-acid sequence of substance P.Nat.New Biol.,232,86-87.   \n10.Hoyer,D.andBartfai,T.(2012）Neuropeptidesand neuropeptide receptors: drug targets,and peptide and nonpeptide ligands:a tribute to Prof.Dieter Seebach.Chem. Biodivers.,9,2367-2387.   \n11.Holmes,A.，Heilig,M.，Rupniak,N.M.etal.(2003) Neuropeptide systems asnovel therapeutictargetsfor depression and anxiety disorders. Trends Pharmacol. Sci.,24, 580-588.   \n12.Nilsson,A.,Falth,M.,Zhang,X.et al. (20o9) Striatal alterations of secretogranin-1,somatostatin,prodynorphin,and cholecystokinin peptides in an experimental mouse model of Parkinson disease. Mol. Cell. Proteomics,8,1094-1104.   \n13. Zamyatnin,A.A., Borchikov,A.S., Vladimirov,M.G.et al. (2006) The EROP-Moscow oligopeptide database.Nucleic Acids Res., 34,D261-D266.   \n14.Falth,M.,Skold,K.,Norrman,M. et al. (2006) SwePep,a database designed for endogenous peptides and mass spectrometry. Mol. Cell.Proteomics,5,998-1005.   \n15.Liu,F.,Baggerman,G., Schoofs,L.et al. (20o8) The construction of a bioactive peptide database in Metazoa.J.Proteome Res.,7, 4119-4131.   \n16.Shtatland,T.,Guettler,D.,Kossodo,M. et al. (2007) PepBank—a database of peptides based on sequence text mining and public peptide data sources. BMC Bioinformatics,8,280.   \n17. Wang,G., Li,X. and Wang,Z. (2009) APD2: the updated antimicrobial peptide database and its application in peptide design. Nucleic Acids Res.,37,D933-D937.   \n18.Thomas,S.,Karnik,S.,Barai,R.S.et al. (201O) CAMP:a useful resource for research on antimicrobial peptides.Nucleic Acids Res.,38,D774-D780.   \n19.Seshadri Sundararajan,V.，Gabere,M.N.， Pretorius,A.et al. (2012)DAMPD: a manually curated antimicrobial peptide database.Nucleic Acids Res.,40,D1108-D1112.   \n20.Kim,Y., Bark,S.,Hook,V.et al. (2011) NeuroPedia: neuropeptide database and spectral library. Bioinformatics, 27, 2772-2773.   \n21.Nassel,D.R. (2002） Neuropeptides in the nervous system of Drosophila and other insects: multiple roles as neuromodulators and neurohormones. Prog. Neurobiol.,68,1-84.   \n22.O'Shea,M. and Schaffer,M. (1985） Neuropeptide function: the invertebrate contribution. Annu. Rev. Neurosci.，8, 171-198.   \n23.Hummon,A.B.,Amare,A.and Sweedler,J.V. (2006) Discovering new invertebrate neuropeptides using mass spectrometry. Mass Spectrom.Rev.,25,77-98.   \n24.Dimmer,E.C.,Huntley,R.P.,Alam-Faruque,Y.et al. (2012) The UniProt-GO annotation database in 2011. Nucleic Acids Res., 40,D565-D570.   \n25.Altschul,S.F., Gish,W.,Miler,W.et al. (1990) Basic local alignment search tool.J.Mol.Biol.,215,403-410.   \n26.Thompson,J.D.，Higgins,D.G.andGibson,T.J.(1994) CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting,position-specific gap penalties and weight matrix choice.Nucleic Acids Res., 22,4673-4680. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

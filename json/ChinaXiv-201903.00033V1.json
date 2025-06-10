@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "基于双小波变换的抗干扰电压暂降检测方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/56262b298b10a837d049a89e8af52e7eb604b8b2b759a19f3a8a934be9d8bf65.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许丹男1990年生，工程师，主要从事配电网电能质量优化治理方面的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许丹黄利军 杨校辉李献伟 王毅李博（许继集团有限公司许昌 461000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对目前电压暂降检测时存在的由于噪声和谐波等干扰导致的分析精度差、实时性不高等问题，提出一种基于双小波变换的电压暂降检测方法。该方法首先采用db20 小波对信号进行多尺度分解，提取含暂降信息的基波信号。然后采用db10 小波对基波信号进行单尺度分解，检测高频分量的模极大值对电压暂降实现定位，从而降低了噪声和谐波等干扰信号的影响，提高了小波分析的检测性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：电压暂降小波变换 双小波噪声谐波 中图分类号：TM727 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study of Voltage Sag Detection Method Based on Double Wavelet with Anti-Interference Feature ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xu Dan Huang Lijun Yang Xiaohui Li Xianwei Wang Yi Li Bo (Xuji Group Corporation Xuchang461000 China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f958b4c5710d36b2bb088e564eb0ac259a8998247fb652eba654e6c9ffe9417b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄利军男 1969年生，高级工程师，主要从事电力系统自动化及高压直流输电保护方面的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In view of the poor analytical accuracy and weak real-time performance caused by signal noise and harmonic wave exist in the voltage sag detection, a comprehensive voltage sag detection method is proposed to weaken the impact of the interference signals by the double wavelet analysis. This method decomposes the signal at multi-scale with db2O wavelet to catch the fundamental wave,and then decomposes the fundamental wave at single-scale with db1O wavelet to detect the modulus maximum of high-frequency components.The proposed method can suppress the interference signal and improve the performance of voltage sag detection by wavelet analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Voltage sag, wavelet analysis, double wavelet, noise, harmonic wave ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着电力电子技术的快速发展以及计算机和自动化控制设备在工业和社会领域的大规模应用，人们对供电系统的电能质量提出了更高要求。电压暂降是电能质量中的主要问题。根据我国国家电能质量标准，电压暂降是指在工频条件下，电压方均根值突然降至 $0 . 1 \\sim 0 . 9 \\mathrm { p u }$ ，并在短暂持续$1 0 \\mathrm { { m s } \\sim 1 \\mathrm { { m i n } } }$ 后恢复正常的现象[1]。电压暂降对敏感负荷造成了极大危害，如引起PLC失灵，计算机存储数据丢失等，导致巨大经济损失[2-4]，因而受到广泛关注。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，检测电压暂降信号的方法主要有时域法和坐标变换法。时域法通过求取差变信号检测电压暂降发生的时刻及持续时间；坐标变换法包括短时傅里叶变换、dq 坐标变换以及小波变换等[5-8]。其中，小波变换具有良好的暂态信号分析能力，能够准确识别电压突变点的特征量，受到研究人员的广泛关注[9-1]。文献[12]采用现场可编程序阵列(Field-ProgrammableGateArray，FPGA）实现了小波变换算法对电压暂降的实时检测，时间延迟达到1ms，满足工程应用的实时性要求。然而，滤波和去噪是确保电压暂降检测实时和精确的关键。在实际应用中，检测信号中存在的噪声和谐波干扰会影响小波变换的检测分析能力，导致误差增大甚至造成误判。文献[13]提出了采用设置阈值的方法对小波高频系数进行量化以消除噪声影响，而阈值的选取在实际应用中往往难以确定。文献[14]提出了运用多尺度小波分解的方法，充分考虑利用高频和次高频分量来抑制噪声幅值，但对于较大噪声幅值以及存在谐波的情况下容易发生误判。文献[15]提出了利用加权最小二乘估计算法和重置协方差来快速判断电压暂降，但谐波分量的频繁变化将会导致阈值不断重置。文献[16]提出了利用双小波进行粗估计和精确定位起止时刻的方法，以排除噪声干扰，但高频次谐波存在影响模极大值的奇异点，降低了小波分析的检测能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文首先研究了噪声和谐波在小波各尺度上的传播特性，提出了双小波检测思想，即在大尺度下分析提取信号基波成分，在小尺度下分析电压突变信息。在此基础上，本文研究了消失矩阶数对基波信息提取精度和暂降信息定位的影响，选取合理的小波函数，确定双小波检测方案，并通过Matlab/Simulink仿真验证了该方法的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 小波分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 小波变换 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波变换的窗口大小可根据信号频率进行调整，其本质思想是将信号表示为以小波函数和派生出的尺度函数为基的代数和。对于任意信号 $f ( t ) { \\in } L ^ { 2 } ( R )$ 和小波函数 $\\varPsi ( t )$ ，其连续小波变换可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW T _ { \\mathrm { f } } ( a , b ) = < f ( t ) , \\psi _ { a , b } ( t ) > = \\frac { 1 } { \\sqrt { a } } { \\int _ { R } f ( t ) \\psi ^ { * } \\left( \\frac { t - b } { a } \\right) } \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $< f ( t )$ ， $\\psi _ { a , b } ( t ) >$ 表示 $f ( t )$ 与 $\\varPsi _ { a , b } ( t )$ 的内积;$\\boldsymbol { \\psi } ^ { * }$ 为小波函数 $\\psi$ 的共轭函数； $\\mathbf { \\Omega } _ { a }$ 为尺度因子，表征信号在频域的伸缩； $b$ 为平移因子，表征信号在时域的平移。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2多分辨分析与滤波",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小波函数的时频窗口中心和半径随尺度因子的变化而变化。通常，将尺度因子进行离散化（ $\\quad a =$ $2 ^ { j }$ ， $j$ 为整数)，实现频域的逐层下行二分。对信号进行小波变换相当于将信号分解到不同频段中，小波系数表征各频段信号的分量信息。各频段的小波系数可以经过逆变换进行重构以还原信号分量，进而获得信号的基波或谐波信息。图1为尺度为3 $( j =$ 3）的小波分解示意图。信号 $s$ 经小波变换后表示为$S { = } A _ { 1 } { + } D _ { 1 } { + } D _ { 2 } { + } D _ { 3 }$ ， $\\boldsymbol { A } _ { 1 }$ ， $\\textstyle A _ { 2 }$ 、 $\\mathbf { \\nabla } \\mathcal { A } _ { 3 }$ 表征信号的低频轮廓，对应频段 $0 \\sim f _ { \\mathrm { s } } / 4$ ， $0 \\sim f _ { \\mathrm { s } } / 8$ ， $0 \\sim f _ { \\mathrm { s } } / 1 6$ ，其中 $f _ { \\mathrm { s } }$ 为采样频率， $D _ { 1 }$ 、 $D _ { 2 }$ 、 $D _ { 3 }$ 表征信号的高频细节，对应频段 $f _ { \\mathrm { s } } / 4 \\sim f _ { \\mathrm { s } } / 2$ 、 $f _ { \\mathrm { s } } / 8 \\sim f _ { \\mathrm { s } } / 4$ 、 $f _ { \\mathrm { s } } / 1 6 \\sim f _ { \\mathrm { s } } / 8$ ，对于信号的高频分量，采用小尺度短视窗进行分析，对于信号低频分量，采用大尺度宽视窗进行分析。通过合理地设置采样频率与分解尺度，可使信号的基波与谐波有效分离，基波信息存在于最低频段中，谐波信息分布于各高频频段中。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a2d38ac9c5ddd3c36117e6b965bf2fef6111abdbbbd2152017fa5650bd73428.jpg",
+        "img_caption": [
+            "图1小波变换分解示意图",
+            "Fig.1The schematic diagram of wavelet transform "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3奇异性检测与暂降定位",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电压暂降属于奇异信号的一种，相当于在信号的奇异点处叠加脉冲函数或阶跃函数。Mallat证明了信号的局部奇异性与小波变换模极大值密切相关。信号的奇异点与小波系数的模极大值点在时域上存在对应关系，并从一个尺度传播到另一个尺度，同时在各尺度上均保持极大值，通过检测小波分解高频段的模极大值点，进而确定原始信号中暂降发生的起止时刻。图2为电压暂降信号的单尺度分解结果， $D _ { 1 }$ 为高频段的重构信号分量。从高频分量 $D _ { 1 }$ 中可以明显识别出模极大值点，分别对应电压暂降的起止时刻。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ec7a1c7dfd5a8225e0d23d294ccfea314c448b6be3dbddd63a9f875f5ad501c.jpg",
+        "img_caption": [
+            "图2小波变换暂降定位原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 双小波暂降检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小波分析方法通过检测最高频段 $D _ { 1 }$ 或次高频段 $D _ { 2 }$ 的模极大值来实现电压暂降定位。在实际应用中，由于噪声和谐波的存在，往往会导致检测性能下降甚至失效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1传播特性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "暂降信号、噪声与谐波在小波各尺度的传播特性各不相同。以220V含有暂降的工频信号为例，加入3次谐波、13次谐波以及白噪声干扰，分别研究暂降、噪声与谐波在小波各尺度的传播特性，信号特征及分析条件见下表。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表信号特征参数及仿真分析条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/37a2ae138dea1db2e6ce034789f90d33b993a61d71581888de5e0304d7f035a2.jpg",
+        "table_caption": [
+            "Tab.Signal characteristic parameters and simulation analysis conditions ",
+            "图3为暂降信号在小波变换各尺度的传播特性。"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>电压幅值/频率</td><td>220V/50Hz</td></tr><tr><td>谐波</td><td>3、13次谐波</td></tr><tr><td>白噪声</td><td>最大幅值为1V</td></tr><tr><td>电压暂降 (%)</td><td>60</td></tr><tr><td>暂降起止时刻/s</td><td>0.2~ 0.5</td></tr><tr><td>采样频率 /Hz</td><td>3200</td></tr><tr><td>小波函数</td><td>db10</td></tr><tr><td>分解尺度</td><td>4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以看出，暂降为原始信号的一部分，分布在小波变换的各个高频尺度上，均呈现模极大值，随着分解尺度的增加，模极大值逐渐增大，在高频段 $D _ { 4 }$ 呈现最大值。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8978d835046378227a8241816b0a9d908f7ba3548157be6b967a7e70adfd05c2.jpg",
+        "img_caption": [
+            "图3暂降信号在小波各尺度的传播特性",
+            "Fig.3Propagation characteristics of voltage sag at different wavelet scales "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4为噪声在小波各尺度的传播特性。可以看出，噪声作为干扰信号随机分布在小波变换的各个高频尺度上，噪声模值呈现负奇异特性，即在高频频段上较大，随尺度的增加逐渐减小，在低频频段上基本不存在。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f0d71a104b317a68698a9b8c1e7d5f6e2e1ace5faa94fe3f0837b33680f7d1d.jpg",
+        "img_caption": [
+            "Fig.2The principle of voltage sag detection by DWT ",
+            "图4噪声在小波各尺度的传播特性",
+            "Fig.4Propagation characteristics of noise at different wavelet scales "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5为谐波在小波各尺度的传播特性。不同于噪声和暂降信号，各次谐波分布在指定高频频段中。3次谐波主要分布在 $D _ { 4 }$ 频段中，13次谐波主要分布在 $D _ { 2 }$ 频段中，基波信息分布在 $ { \\mathcal { A } } _ { 4 }$ 频段中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，噪声、暂降和谐波在小波变换中具有以下传播特性：噪声和暂降分布于各个高频尺度上，而谐波存在于小波变换的特定高次频段中。如图6所示，噪声呈现与暂降相反的奇异性，对高频尺度特别是 $D _ { 1 }$ 、 $D _ { 2 }$ 等高频频段具有较大影响，噪声和谐波（特别是高次谐波）的存在将导致模极大值变弱，影响电压暂降定位。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/02948022265ec40a9984e2b63f2a6804ea5ce389e593be0afbf1932aed7dbf23.jpg",
+        "img_caption": [
+            "图5谐波在小波各尺度的传播特性"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/82d24282578c2eba66517c485704ff1c45a081fbbcbdf77d959ad430deb13900.jpg",
+        "img_caption": [
+            "Fig.5Propagation characteristics of harmonic wave at different wavelet scales ",
+            "图6噪声与暂降在小波各尺度的模极大值 Fig.6The modulus maximum of noise and sag at different wavelet scales "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）确定合适的尺度j，将原始信号进行多尺度小波分解，获得各尺度的小波系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管噪声和谐波分布在小波变换高频频段并影响极大值的检测，但在最低频段噪声和谐波几乎没有影响。基于此，本文提出了一种利用双小波变换实现小波暂降的实时检测方法，在大尺度下提取分析电压基波成分，在小尺度下检测分析电压突变信息，从而准确定位电压暂降的起止时刻。如图7所示，双小波检测的具体步骤如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2检测原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b06e06d5768eceda5219312b1d614feb00ab877bd900ae44e85feed82f4347d1.jpg",
+        "img_caption": [
+            "Fig.7The principle of double wavelet analysis detection ",
+            "图7双小波分析检测原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）对最低频段 $A _ { j }$ 进行单支重构，得到含暂降信号的基波分量αj。(3）对基波分量 $a _ { j }$ 进行单尺度小波变换，获得高频分量 ${ D } _ { 1 } ^ { \\prime }$ 。(4）通过检测高频分量 $D _ { 1 } ^ { \\prime }$ 的模极大值，确定电压暂降的起止时刻。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3消失矩阶数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双小波检测中的关键是基波信息提取的精确性和暂降时刻检测的准确性，消失矩阶数表征小波函数逼近信号的收敛率，是小波分析的重要参数，本文选用db系小波函数作为研究对象，分别研究基波信息提取的精确度和暂降信息检测的准确度与消失矩阶数 $N$ 的关系，为双小波检测中小波函数的选取提供支撑。以 $2 2 0 \\mathrm { V }$ 含 $30 \\%$ 电压暂降的工频信号为例，暂降检测的准确度和基波检测精度分别用偏离时间 $\\Delta T$ 和误差率 $R _ { \\mathrm { e r r o } }$ 来表征，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta T = \\left| t - t _ { 0 } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { e r r o } } = \\frac { A - A _ { 0 } } { A _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $t , \\ A$ 为检测的电压暂降时间和基波幅值； $t _ { 0 }$ 、$\\scriptstyle A _ { 0 }$ 为电压暂降发生的时间和基波实际幅值。分析结果如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图8可以看到，当消失矩阶数较小时，db小波对基波特征信息的提取误差较大；随着消失矩阶数的增加，db小波基波特征信息的提取精度越来越高，误差越来越小，在消失矩 $N = 1 0$ 时具有明显的拐点；另一方面，当消失矩阶数较小时，暂降检测的时间误差较小，随着消失矩阶数的增加，暂降检测准确度逐渐降低，二者基本呈现线性关系。综合考虑时间延迟和提取精度影响，本文采用db20小波进行基波信息提取，db10小波进行暂降信息检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/781a7d9ba0845ddafe6cdea197fd6f1f27b0c448eea091b80cde90a91ac2c262.jpg",
+        "img_caption": [
+            "图8消失矩阶数对误差率及偏离时间的影响 Fig.8The effect of vanishing moments on the error rate and time deviation "
+        ],
+        "img_footnote": [
+            "Fig.10The detect results of double wavelet analysis "
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 仿真分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证双小波检测方法的可行性，首先在Matlab以第2节中的信号为例进行分析。根据双小波检测原理，首先以db20小波进行多尺度分解，各尺度的信号分量信息如图9所示，在最低频段 $ { \\mathcal { A } } _ { 4 }$ 中提取基波信息分量。然后，对基波分量 $ { \\mathcal { A } } _ { 4 }$ 以db10小波进行单尺度分解，所得高频段信息如图10所示，通过检测二次小波变换高频分量的模极大值确定电压暂降发生的起止时刻，具有较高的准确度，能够有效抑制噪声和谐波的干扰。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0caab8b09c00d147152545b6259a68d4b31c60bff6e9e16fc729594694be0ed.jpg",
+        "img_caption": [
+            "图9电压暂降信号的四层小波分解"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.9The four-layer DWT of voltage sag signal ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进一步，由于小波变换的级联有可能造成一定时间延迟，在Simulink仿真系统下对上述环境的双小波分析方法进行验证。双小波检测模型及环境如图11所示，暂降电源及其干扰条件由可编程序的三相电源提供，双小波分析方法实现采用仿真系统自带的DWT模块和IDWT模块，其中DWT模块实现信号的多分辨率分解，IDWT模块实现单支重构，选取A相电压信号进行双小波分析检测电压暂降，仿真结果如图12所示，采用双小波分析方法检测到的电压暂降起止时间分别为0.202s和0.502s，误差为2ms，具有较好的实时性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c72ff04287ab5bcf209cb867cd65ee49075666652d8a8a4e2efe0b24c4d5e17f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c161a2a2f5b91a6e448b6acf1eb80459d198d140c9c6bd48e9ab37f0970a29b4.jpg",
+        "img_caption": [
+            "图10双小波分析检测结果",
+            "图11双小波变换仿真模型图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8423225e1879bad627c3cb4f9bb61c35232d03fbd0faef18890c3c6fc7a3140.jpg",
+        "img_caption": [
+            "Fig.11Simulation model of double wavelet transform ",
+            "图12双小波分析时延性分析结果",
+            "Fig.12The time-delay analysis results of double wavelet analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种双小波电压暂降检测方法，首先采用db20小波对电压暂降信号进行分解，在低频尺度进行单支重构获取含暂降的基波信号，再用db10小波对基波信号进行奇异性检测，精确确定暂降发生的起止时刻，并通过Matlab/Simulink进行仿真验证。仿真结果表明，双小波检测方法能够有效地抑制噪声和谐波干扰，具有较强的抗干扰能力，在同时含有噪声和谐波条件下也可实现电压暂降的准确定位，有效地提高了小波变换的检测性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 全国电压电流等级和频率标准化技术委员会．GB/ T 30137—2013电能质量电压暂降与短时中断[S]. 北京：中国电力出版社，2013.   \n[2] Tuljapurkar M,Dharme AA.Wavelet based signal processing technique for classification of power quality disturbances[C]. 2014 Fifth International Conference on Signal and Image Processing(ICSIP), IEEE Computer Society,2014: 337-342.   \n[3] 电压暂降对敏感性负荷影响及抑制措施研究[D]. 广州：广东工业大学，2012.   \n[4] Barros J,Diego R I,Apraiz M D.Applications of wavelets in electric power quality: voltage events[J]. Electric Power Systems Research,2012,88(1):130- 136.   \n[5] 许丹，黄晓明，李献伟，等．基于小波变换的自 适应电网谐波检测方法研究[J]．电气技术，2017, 18(8): 37-42. Xu Dan, Huang Xiaoming,Li Xianwei,et al. The study of self-adapt harmonic detection in power grid based on the wavelet transformation[J]. Electrical Engineering,2017,18(8): 37-42.   \n[6] Latran M B,Teke A.A novel wavelet transform based voltage sag/swell detection algorithm[J]. Electrical Power & Energy Systems,2015(71): 131- 139.   \n[7] 郭继芳，冯力鸿．电压暂降检测方法分析[J]．电 气技术，2010，11(4)：28-31. Guo Jifang,Feng Lihong. Analysis of detection methods of voltage sag[J]. Electronic Technology, 2010, 11(4): 28-31.   \n[8] 徐永海，赵燕．基于短时傅里叶变换的电能质量扰 动识别与采用奇异值分解的扰动时间定位[J]．电 网技术，2011，35(8)：174-180. Xu Yonghai, Zhao Yan. Identification of power quality disturbance based on short-term Fourier transform and disturbance time orientation by singular value decomposition[J]. Power System Technology, 2011, 35(8): 174-180.   \n[9]张艳，殷礼胜，马瑞卿，等．基于复小波变换和 有效值算法的电压暂降检测方法[J]．电测与仪表, 2017, 54(10): 74-79. Zhang Yan, Yin Lisheng, Ma Ruiqing. Voltage sag detection method based on complex wavelet transform and RMS algorithm[J]. Electrical Measurement & Instrumentation, 2017,54(10): 74- 79.   \n[10]任子晖，刘昊岳，徐进霞．基于小波变换和改进 Prony 方法的电能质量扰动分析[J]．电力系统保 护与控制，2016，44(9)：122-128. Ren Zihui, Liu Haoyue, Xu Jinxia. Power quality disturbance analysis based on wavelet transform and improved Prony method[J].Power System Protection and Control,2016,44(9): 122-128.   \n[11]祁博，邹金慧，范玉刚，等．基于Hilbert -Huang 变换和小波包能量谱的电压暂降源识别[J]．中国 电力，2013，46(8)：112-117. Qi Bo, Zou Jinhui, Fan Yugang. Identification of voltage sags source based on Hilbert-Huang transform and wavelet packet wnergy spectrum[J]. Electric Power, 2013,46(8): 112-117.   \n[12]王剑雄．基于FPGA 的暂态电能质量扰动检测系 统的设计[D]．哈尔滨：哈尔滨理工大学，2017.   \n[13] 潘从茂，李凤婷．基于小波变换的暂态电能质量 的检测与识别[J]．电测与仪表，2013，50(575)： 69-72. Pan Congmao, Li Fengting. The detection and identification of transient power quality based on wavelet transform[J]. Electrical Measurement & Instrumentation,2013, 50(575): 69-72.   \n[14]葛成余，朱颂怡，韩先鹤，等．一种抗噪声的电 压暂降时刻检测方法[J]．智能电网，2017，5(5)： 417-420. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

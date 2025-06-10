@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201507291588 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐柳青，王其翔,刘洪军,张智鹏,刘骋跃,周健.小黑山岛海域刺参、魁蚶和紫贻贝生境适宜性分析.生态学报,2017,37（2）):668-682.TanQ，WagX,LuJZgZ,ioJabiatabilityicospos，boudMtludisshallow waters of Xiaoheishan Isalnd.Acta Ecologica Sinica,2017,37(2）:668-682.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "小黑山岛海域刺参、魁蚶和紫贻贝生境适宜性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐柳青}，王其翔²,刘洪军²,张智鹏},刘骋跃},周健²，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国海洋大学海洋生命学院，青岛266003  \n2 山东省海洋生物研究院，青岛266104",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以小黑山岛临近海域为研究对象,利用生境适宜性指数（habitat suitabity index,HSI）模型选划适宜刺参（Stichopusjaponicas）、魁蚶（Scapharca broughtoni ）和紫贻贝（Mytilus edulis）增殖修复的区域。分别针对每个修复物种筛选出7个生境评价因子,结合专家赋值法和层次分析法确定每个评价因子的权重,利用GIS空间分析模块将现状调查数据进行插值、重分类和栅格计算,绘制研究区域目标种群生境适宜性地图。结果表明：对于刺参和紫贻贝,研究区域均适宜其生长繁殖,同一物种,相同季节在空间上无站位差异,但各季节的生境适宜性分区变化明显;对于魁蚶来说,东北部海域较适宜增殖,其次为西部海域,四季均以较适宜生境为主,仅冬季出现基本适宜生境。水温是造成季节差异的主要因素,底质类型则是引起生境站位差异的重要原因。可为后续的生物多样性保育和生态修复提供基础资料参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生境适宜性指数；刺参（Stichopus japonicas）；魁蚶（Scapharca broughtoni）；紫贻贝（Mytilus edulis）；小黑山岛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Habitat suitability of Stichopus japonicas ， Scapharca broughtonii and Mytilus edulis in the shallow waters of Xiaoheishan Isalnd ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TANG Liuqing’，WANG Qixiang²，LIU Hongjun²，ZHANG Zhipeng'，LIU Chengyue $^ 1$ ，ZHOU Jian²，\\*   \n1 Ocean University of China College of Marine Life，Qingdao 266003,China   \n2 Marine Biology Institute of Shandong Province,Qingdao 266104，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Xiaoheishan Islandis located in Bohai Straitandafiliated with Miaodao Archipelago，which lies in Shandong province.Thepaper identifies the potentialarea forsustainablerestorationof Stichopus japonicas，Scapharca broughtoni and Mytilus eulis intheshallw watersof Xiaoheishan Islandusingahabitat suitabilityindex model（HSI).Sevenscreeed environmentalfactors were involved inthe HSImodel foreachspeciesrespectively.Insummary，thefolowing9factors: water temperature，salinity，waterdepth，pH，sediment composition，dissolvedoxygen，organiccarbon，curent velocity and Chlorophylla wereanalyzed in thisstudy.Specific factorpiecewise functions havebeenused to transform environmental factor values into normalized quality indexes（O,2,3and4).The weightof theeach factorwas judged with the expert knowledge and the analytic hierarchy process（AHP）method.Thus，the habitat suitable analysis maps were obtained after datainterpolate,reclassificationandrastercalculationwiththeaidofGISspatialanalysismodule.Inadition,theanalysis of habitatsuitabilitywasconductedforfourseasons inthispaperinorder togetmoredetailed information.First,theresults suggestthattheentirearea wassuitable forrestorationof S.japonicasandM.edulis，along withno spatial diferences but obviousseasonal changes forthe2species.ForS.broughtonii，itisnoteworthythatthestudyarea was definedas the suboptimalhabitatbythereasonof aestivation．Moreover，thenortheastregionwasdetectedastheoptimal site forS. broughtonipropagation,followedbythewesternpart.Meanwhile,thesuboptimalhabitataccountedforthemajorityofstudy areathroughout the year withthe marginal habitat onlyappeared in winter.Water temperature was the main factorcausing seasonalvariation，whilesedimentscompositionwasremainedasthekeyreasonforthediferencesinhabitatsites.Ovrall, theresults indicatedthegreatfeasibilityforthelong-term survivalandsuccesfulrestorationofS.japonicas，S.broughtoni and M.edulis.This studycould providesupportsand suggestions forsubsequentresearch of biological diversityprotection and ecological restoration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：habitat suitability index；Stichopus japonicas；Scapharca broughtonii；Mytilus edulis；Xiaoheishan Island ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受人类环境破坏行为加大的影响,许多生物赖以生存的栖息地遭到大面积破坏,导致自然生物种群出现不同程度的衰退,迫切需要加强对生物生境的保护。生境适宜性指数(habitat suitability index，HSI)模型最早是由美国地理调查局国家湿地研究中心鱼类与野生生物署于20 世纪80年代初提出[1],作为一种评价野生生物生境适宜程度的指数,被广泛应用于陆生野生生物的生境评价中。近年来,HSI模型被引入到生态需水、水产养殖、河流多样性保护和生态修复等领域,用于预测和模拟水生生物的分布特征,评价人为活动造成的栖息环境变化对水生生物的影响,受到了生物学家和生态学家的高度重视[2]。随着 HSI模型的不断发展,人们在传统方法基础上融人了遥感系统(RS）、地理信息系统(GIS)和全球定位系统(GPS)技术,尤其是依托GIS 强大的空间数据收集、存储、分析和图形化显示能力,生境适宜性分析的研究范围不断扩大,精度不断提高,分析也更加全面[3-4]。Vincezi[3]等利用溶解氧(DO）、盐度、水深和叶绿素a等生境因子对地中海马尼拉蛤（Tapesphilippinarum)生境进行研究,为管理者提供了不同地点的马尼拉蛤潜在经济产量。王家樵[5]等应用基于GIS软件的 HSI模型对印度洋大眼金枪鱼的生境分布进行研究,从而探讨了其适宜栖息的海域范围。生态位理论指出物种仅能在其特定生境条件范围内才能生存繁衍[6,而环境质量并不是一成不变的,随着时间和地理因素的变迁也会影响物种的生存[7]。生境适宜性(HSI)评价的核心内容就是确定物种所处环境的变量对物种地理空间分布的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小黑山岛临近海域水质状况良好,各种理化因子季节变化明显,该海域盐度年均值为30.62,溶解氧年均值为 $9 . 1 0 \\mathrm { m g / L }$ ,四季海水温度变化幅度较大。潮流运动形式以往复流为主,促进该海域海洋生物的摄食,适宜海洋生物的生长[8]。历史资料显示,该海域生物资源量丰富,自然生长的贝类,例如刺参、扇贝、鲍鱼、海胆等海珍品享誉海内外[9]。然而,小黑山岛海域近年来由于水域环境污染,该海域生态环境受损程度加剧,刺参、魁蚶和紫贻贝等种群资源量日趋减少。本研究通过构建基于GIS 的HSI模型,对刺参、魁蚶和紫贻贝的生境适宜性进行分析,确定修复物种适宜增殖修复的区域,以期为该海域生境修复和资源恢复决策制定提供参考资料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区域",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小黑山岛(图1)位于山东省烟台长岛县 $( 3 7 ^ { \\circ } 5 7 ^ { \\prime } 5 5 ^ { \\prime \\prime } - 3 7 ^ { \\circ } 5 8 ^ { \\prime } 4 4 ^ { \\prime \\prime } \\mathrm { N } , 1 2 0 ^ { \\circ } 3 8 ^ { \\prime } 2 1 ^ { \\prime \\prime } - 1 2 0 ^ { \\circ } 3 9 ^ { \\prime } 1 0 ^ { \\prime \\prime } \\mathrm { E } )$ 地处渤海海峡,岛陆面积为 $1 . 2 9 \\mathrm { k m } ^ { 2 }$ 。常年平均水温为 $1 2 . 3 ^ { \\circ } \\mathrm { C } ^ { [ 1 0 ] }$ ,最高水温出现在8月,达 $2 3 . 8 \\mathrm { { ^ { c } C } }$ ,最低水温出现在1月,为 $1 . 4 ^ { \\circ } \\mathrm { C }$ 。叶绿素含量较其他海域偏高,潮间带底质主要有岩礁、砾石和粗砂底质3种类型,海底地形自西向东、自南向北逐渐倾斜。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究在环小黑山岛周边海域布设10个调查站位,并以每个站位点为基准向周边延伸 $5 0 0 \\mathrm { m }$ ,划定分析研究范围，整个研究区域面积约为 $6 . 4 3 \\mathrm { k m } ^ { 2 }$ O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究所用数据来源于2013年的6月、8月、11月及2014年3月进行4个季度的航次调查。按照海洋调查规范获得该海域水文要素(温度、盐度、深度、透明度等）、化学要素( $\\mathrm { \\ p H \\cdot D O }$ 等）沉积物（粒级含量、粒组",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/22ee9abd86ca860b442196e9f5cd573f761e1e2860e69d378c53fc27e6abf7b9.jpg",
+        "img_caption": [
+            "图1小黑山岛及监测站位",
+            "Fig.1The Xiaoheishan Island and monitoring station "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系数)等生境参数。应用反距离插值法将调查数据转化为栅格数据,并进行空间分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1生境评价因子筛选",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为确保生境适宜性分析评估结果的科学有效性,查阅相关文献[1-13]中对刺参、魁蚶和紫贻贝生活史及其生态习性的研究报道,综合资料收集并结合咨询专家意见的方式从影响刺参、魁蚶和紫贻贝3个物种的生存、繁殖等诸多因素中分别筛选出7个相对重要的环境因子作为HSI模型的评价因子（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/922e7ad8038001c5757ee662aad272751dbc66ecf7d2ba8629dfe59ddbea56e7.jpg",
+        "table_caption": [
+            "表13个物种评价因子筛选",
+            "Table 1 The determination of three species of impact factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>物种 Species</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>刺参 Stichopus japonicas</td><td>底质类型</td><td>水温</td><td>水深</td><td>盐度</td><td>pH</td><td>溶解氧</td><td>有机碳</td></tr><tr><td>魁蚶 Scapharca broughtonii</td><td>底质类型</td><td>水温</td><td>水深</td><td>盐度</td><td>水流流速</td><td>pH</td><td>叶绿素a</td></tr><tr><td>紫贻贝Mytilus edulis</td><td>水流流速</td><td>水温</td><td>盐度</td><td>pH</td><td>叶绿素a</td><td>水深</td><td>溶解氧</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2构建评价因子适宜性函数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据生物在不同生境条件下生存繁育状态,将生境划分为4个等级[14-15]（即适宜生境、较适宜生境、基本适宜生境和不适宜生境,在HSI模型中用分段函数进行表述,并在GIS 中应用重分类进行赋值。其中,适宜生境指在该条件下摄食旺盛、活动力强,生物生理状态达到最佳,各生境要素的适宜性指数（Suitability Index，$S I$ )赋值为4;较适宜生境即能够满足生物生长发育的摄食所需,维持正常生长存活,生理活动相对正常， $S I$ 赋值为3;基本适宜生境为在该条件下生物能够耐受环境压力，生物能够生存， $S I$ 赋值2；不适宜生境不能提供生物生存所必需的条件，生物无法存活， $S I$ 赋值为0。对已筛选出的生境评价因子逐个构建生境适宜性函数，汇总形成生境适宜性等级划分表(表2一表4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "刺参是典型的海洋沉积食性生物,田传远[16]等研究表明刺参喜栖息在含泥量不超过 $1 0 \\%$ 的砂泥底质,于东祥[17]等也通过对刺参自然分布调查结果显示,底质含泥量在 $10 \\%$ 以下,有刺参分布,而含泥量高于 $30 \\%$ 的底质无刺参分布。王学广[18]等指出刺参为狭温性动物,最适生长水温仅为15— $1 8 \\mathrm { { ^ circ C } }$ ，当水温 $< 5 \\mathrm { { ^ { \\circ } C } }$ ,停止摄食;陈勇[19]等则通过设置6个温度梯度研究了水温对刺参生长的影响,发现当水温 ${ > } 2 0 ^ { \\circ } \\mathrm { C }$ 时,刺参停止摄食。水深的选择是对刺参进行增殖的重要因素,通常刺参大多生活在3一 $1 5 \\mathrm { m }$ 水域,成体有向深水区域移动的现象[19-20]。当盐度为27—31.5 时刺参生长速度最快,当盐度 $\\cdot > 3 4$ 或 $< 2 5$ 时,活动减弱[18,21-22]。张群乐[22]等指出刺参对海水 $\\mathrm { \\ p H }$ 适应范围较广,当 $\\mathrm { \\ p H }$ 值 ${ < } 6$ 或 $^ { > 9 }$ ,刺参会停止摄食,活动减弱。于东祥[24]研究指出养殖水体中溶解氧需 $\\geqslant 5 . 0 \\mathrm { m g / L }$ 方可维持刺参的正常生长，当溶解氧 ${ \\leqslant } 3 . 6 \\mathrm { m g / L }$ ,刺参幼体出现死亡，当溶解氧 $< 1 . 0$ $\\mathrm { m g / L }$ ,大批刺参出现死亡现象。此外,也有部分研究[17]指出有机碳含量对刺参的生长也有着一定的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/76dc077d2cf31a663c5500cdc364f6bbd67364105cc3703761b8eda756a8d3e2.jpg",
+        "table_caption": [
+            "Table2Classification of habitat suitability for Stichopus japonicus "
+        ],
+        "table_footnote": [
+            "粒径 $> 6 3 \\mathrm { m m }$ 含量：% "
+        ],
+        "table_body": "<html><body><table><tr><td>评价因子 Evaluation factors</td><td>适宜生境 Optimal habitat SI=4</td><td>较适宜生境 Suboptimal habitat SI=3</td><td>基本适宜生境 Marginal habitat SI=2</td><td>不适宜生境 Unsuitable habitat SI=0</td></tr><tr><td>底质类型 Sediment composition[16]</td><td>≤10</td><td>10-20</td><td>20--30</td><td>>30</td></tr><tr><td>水温Water temperature/C[17-18]</td><td>15-18</td><td>10—15</td><td>5—10或18—20</td><td><5或>20</td></tr><tr><td>水深Water depth/m[19-20]</td><td>3-5</td><td>5-10</td><td>10-15</td><td><3或>15</td></tr><tr><td>盐度 Salinity[18,21-22]</td><td>27-31.5</td><td>25—27或31.5—34</td><td>22—25或34-36</td><td><22 或>36</td></tr><tr><td>pH[19,22]</td><td>7.9-8.2</td><td>7.0—7.9或8.2-8.5</td><td>6.0—7.或8.5-9.0</td><td><6或>9</td></tr><tr><td>溶解氧Dissolved oxygen[23-24]</td><td>≥5.0</td><td>3.6-5.0</td><td>1.0-3.6</td><td><1.0</td></tr><tr><td>有机碳 Organic carbon[17]</td><td><2.0×10-3</td><td>3.0×10-3</td><td>4.0×10-3</td><td>>4.0×10-3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/95318f40dbfcab2d325427bc6d94e639d85534e06e051fa9d2d4a1f2f8cb0fc0.jpg",
+        "table_caption": [
+            "表2刺参生境适宜性等级划分表",
+            "表3魁蚶生境适宜性等级划分表"
+        ],
+        "table_footnote": [
+            "粒径 $> 6 3 \\mathrm { m m }$ 含量： $\\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td>评价因子 Evaluation factors</td><td>适宜生境 Optimal habitat</td><td>较适宜生境 Suboptimal habitat</td><td>基本适宜生境 Marginal habitat</td><td>不适宜生境 Unsuitable habitat</td></tr><tr><td>底质类型 Sediment composition[25]</td><td>SI=4 >80</td><td>SI=3 65—80</td><td>SI=2 50-65</td><td>SI=0</td></tr><tr><td>水温Water temperature/℃C[11,26]</td><td>14-20</td><td>8—14或20—25</td><td>5—8或25-28</td><td><50 <5或>25</td></tr><tr><td>水深Water depth/m[26,28]</td><td>10-20</td><td>7—10或20—30</td><td>3—7或30—50</td><td><3或>50</td></tr><tr><td>盐度 Salinity[26-27]</td><td>30-32</td><td>29—30或32—33</td><td>7—29或33—45</td><td><27或>45</td></tr><tr><td>水流流速 Current velocity/（cm/s）[25]</td><td>25-35</td><td>15—25或35—40</td><td>5—15或40—50</td><td><5或>50</td></tr><tr><td>pH[29]</td><td>8.0-8.5</td><td>7.3—8.0或8.5—9.0</td><td>5.5—7.3或9.0—9.2</td><td><5.5或>9.2</td></tr><tr><td>叶绿素a chlorophyll a/（μg/L)[25]</td><td>>2.0</td><td>1.0-2.0</td><td>0.5—1.0</td><td><0.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b5dcab7ce570473b4f80773ba0d2e02757bbc038bf9e237643aa3388dd89dc2.jpg",
+        "table_caption": [
+            "Table3Classification of habitat suitability for Scapharca broughtonii ",
+            "表4紫贻贝生境适宜性等级划分表",
+            "Table4ClassificationofhabitatsuitabilityforMytilusedulis "
+        ],
+        "table_footnote": [
+            "水流流速[30]参照栉孔扇贝;.水深[25]参照菲律宾蛤蜊;盐度[32-33] $\\mathrm { \\cdot p H } ^ { \\left[ 3 2 \\right] }$ 参照厚壳贻贝"
+        ],
+        "table_body": "<html><body><table><tr><td>评价因子 Evaluation factors</td><td>适宜生境 Optimal habitat</td><td>较适宜生境 Suboptimal habitat</td><td>基本适宜生境 Marginal habitat</td><td>不适宜生境 Unsuitable habitat</td></tr><tr><td>水流流速current velocity(mL/min）[30]</td><td>SI=4</td><td>SI=3 380—410</td><td>SI=2 300—380</td><td>SI=0</td></tr><tr><td>水温Water temperature/C[25,31]</td><td>410—470 10—20</td><td>7—14或25—28</td><td>5—7或23—25</td><td><300 或>470 <5或>28</td></tr><tr><td>盐度 Salinity[32-33]</td><td>25-30</td><td>30—40</td><td>15-24</td><td>≤15或≥40</td></tr><tr><td>pH[32]</td><td>7.5-8.5</td><td>7-7.5或8.5-8.7</td><td>6-7或8.7-9</td><td>≤6或≥9</td></tr><tr><td>叶绿素a chlorophyll a/（μg/L)[31,34]</td><td>1.0-2.0</td><td>>2.0</td><td>0.5—1.0</td><td><0.5</td></tr><tr><td>水深Water depth/m[25]</td><td>1-3</td><td>3-9</td><td>9-10 或<1</td><td>>10</td></tr><tr><td>溶解氧Dissolved Oxygen/(mg/L)[35]</td><td>>6.5</td><td>5.5-6.5</td><td>4.5-5.5</td><td><4.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "魁蚶营埋栖生活,底质类型对其生长非常重要,在细砂含量 $8 0 \\%$ 以上软泥底质环境中分布密度较大[25]张玉玺[1]等、谢忠明[26]等均指出魁蚶为冷水性贝类,适应的水温范围为5— $2 5 \\mathrm { { ^ \\circ C } }$ ,最适宜水温为14— $2 0 \\%$ ，而当水温 $< 5 \\mathrm { { ^ { \\circ } C } }$ 或 $> 2 5 \\mathrm { ^ { \\circ } C }$ 时,魁蚶会停止生长,出现大量死亡。魁蚶主要栖息于深度为 3— ${ \\cdot } 5 0 \\mathrm { m }$ 的海区[26,28],尤喜好10— ${ \\cdot 2 0 } \\mathrm { m }$ 水深区域，在 $\\mathrm { > } 5 0 \\mathrm { m }$ 海区几乎没有魁蚶分布。魁蚶能耐受的盐度范围为27一45,最适宜盐度为（204号 $3 0 - 3 2 ^ { [ 2 6 - 2 7 ] }$ 。魁蚶适宜生活在风浪不大,相对平静稳定水域,水流流速 25- $- 3 5 \\mathrm { c m / s }$ 为宜, $> 5 0 \\mathrm { c m / s }$ 则会影响魁蚶的正常生长[25]。张焕[29]等指出魁蚶稚贝最适宜 $\\mathrm { \\ p H }$ 值为8.0—8.5,当 $\\mathrm { \\ p H }$ 值 $> 9 . 2$ 或 $\\mathrm { \\ p H }$ 值 $< 5 . 5$ 时,魁蚶稚贝活动能力减弱,附着能力降低。水体中饵料生物浓度对魁蚶生长也非常重要,相关研究指出叶绿素a浓度 ${ > } 2 . 0 \\mu \\mathrm { g } / \\mathrm { L }$ 时,适宜魁蚶的生长,当叶绿素a浓度 ${ < } 0 . 5 \\mu \\mathrm { g } / \\mathrm { L }$ 时,则会抑制魁蚶的生长[25]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前,已有诸多文献对影响贝类生长的生境因子进行了报道,但对紫贻贝这一物种的研究相对较少。本文中紫贻贝生境适宜性等级划分表(表4)中的部分内容,参照与其生态习性相近的贝类相关资料确定。贻贝喜水流较大且通畅的海况,匡世焕等[30]通过对栉孔扇贝研究表明,其摄食率随着流速的加快而提高,当水流流速 ${ < } 3 0 0 \\mathrm { m l / m i n }$ 时,摄食率降低,当流速为 $4 7 0 \\mathrm { m l / m i n }$ 时,摄食率达到最大值。紫贻贝属寒温带物种,对低温适应能力较强,王如才[25],包永波[31]等指出紫贻贝适宜生长水温5— $2 3 ^ { \\circ } \\mathrm { C }$ ,最适水温 $1 0 { - } 2 0 ^ { \\circ } \\mathrm { C }$ ,而当水温 $<$ $5 \\mathrm { ^ { \\circ } C }$ 或 $\\mathrm { \\Omega } > 2 8 \\mathrm { \\% }$ 时,贻贝停止摄食并出现死亡。紫贻贝适宜生长盐度一般是25—30,当盐度过高或过低都会造成摄食活动下降,同时会迫使贝类体内渗透压发生改变[32-33]。潘鲁青[32]等指出贝类适宜在 $\\mathrm { \\ p H }$ 为7-9范围生长，当 $\\mathrm { p H } \\leqslant 7$ 或 ${ \\geqslant } 8 . 7$ 时,摄食明显降低。叶绿素是浮游植物生物量的一个重要体现,结合包永波[31和陈清满[34]对紫贻贝相关研究表明紫贻贝以滤食海水中颗粒物质为食,当饵料浓度为 $1 . 0 { - } 2 . 0 \\mu \\mathrm { g / L }$ ,适宜紫贻贝生长,当饵料浓度 ${ < } 0 . 5 \\mu \\mathrm { g } / \\mathrm { L }$ ，抑制贝类的生长。王如才[25]等指出,由于海水表层浮游植物等饵料资源比较丰富,贻贝多聚集分布自潮间带至 $3 \\mathrm { m }$ 水深区域。Chen[35]等研究发现溶解氧 ${ < } 4 . 5 \\mathrm { m g / L }$ 时扇贝存活率降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 权重确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在专家对评价因子赋值的基础上,应用层次分析法（Analytic Hierarchy Process，AHP）[36-37]建立层次结构模型,根据各生态因子之间关系,建立递阶层次结构,随后对同一层次的各生境因子重要性大小进行两两比较（采用1—9比例标度),分别构建刺参、魁蚶和紫贻贝的两两比较判断矩阵,并通过一致性检验（即 $\\mathrm { C R } { < } 0 . 1 \\$ ），检验结果(CR值)依次为0.0384；0.0104；0.0249。最终确定影响每个生境因子的权重值（表5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b6126d4fb45ba2be0a627bba93f40e0255f34455511b1cb365d5cf34643e2a2.jpg",
+        "table_caption": [
+            "表5刺参、魁蚶和紫贻贝评价因子权重值",
+            "Table 5Defined weightsof specificfactors for Stichopus japonicasScapharcabroughtonii and Mytilus edi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生境因子Habitat factors</td><td>刺参 Stichopus japonicas</td><td>魁蚶 Scapharcabroughtonii</td><td>紫贻贝 Mytilus edulis</td></tr><tr><td>底质类型 Sediment composition</td><td>0.1325</td><td>0.2842</td><td></td></tr><tr><td>水温Water temperature</td><td>0.2967</td><td>0.2842</td><td>0.2475</td></tr><tr><td>盐度 Salinity</td><td>0.2967</td><td>0.1134</td><td>0.1167</td></tr><tr><td>溶解氧Dissolved oxygen</td><td>0.0586</td><td></td><td>0.1884</td></tr><tr><td>水深Water depth</td><td>0.0488</td><td>0.0401</td><td>0.0416</td></tr><tr><td>pH</td><td>0.1325</td><td>0.0669</td><td>0.0416</td></tr><tr><td>水流流速 Current velocity</td><td></td><td>0.0978</td><td>0.1167</td></tr><tr><td>叶绿素a Chlorophyll a</td><td>1</td><td>0.1134</td><td>0.2475</td></tr><tr><td>有机碳 Organic carbon</td><td>0.0342</td><td></td><td>二</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.4适宜性函数分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "评价因子的适宜性等级划分及权重值确定后,将其应用到生境适宜性模型中计算HSI值,并对整个研究区域的生境适宜性做出综合分析。基于乘法原理的连乘法(CPM)和几何平均法(GMM)曾是生境评价（栅格计算环节)最常用的方法,但Layher[38|和龚彩霞[39]等人均指出这种算法不能很好地模拟生物体与各因子之间的综合复杂的关系。近年来,越来越多的加权评价模型应用到适宜性分析中[40-41]。本研究中的 HSI 值计",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H S I } = \\sum _ { i = 1 } ^ { 7 } \\ S I _ { i } \\ W _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $S I _ { i }$ 代表特定因子的适宜性值； $\\textstyle \\mathbf { \\textit { W } } _ { i }$ 代表相应特定的环境因子 $( i )$ 的权重值大小; $i = 1 \\cdots 7$ 代表的是在以上公式中所输入的7个影响因子。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.5 绘制HSI分布图",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为使分析结果更清晰直观,依据 HSI计算得分,将生境适宜性划分为4个等级,并用相对应颜色标明,最终输出生境适宜性分析图。其中0—1为不适宜生境(红色);1—2为基本适宜生境(橙色);2—3 为较适宜生境(蓝色);3—4为适宜生境(绿色）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1刺参 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "刺参的生境适宜性在季节方面存在显著不同,而调查站位间并未出现差异。该研究区域在春秋两季全部属于适宜生境,非常适宜刺参的生长;在夏季,研究区均为较适宜生境;冬季则属于基本适宜生境,刺参仅能勉强存活(图2一图5）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f592b950843c0434f2dac5f325289decdb37e7d577040e59aab936360b00996.jpg",
+        "img_caption": [
+            "图2小黑山岛区域刺参生境适宜性(春季)",
+            "Fig.2Map of habitat suitable area of Stichopus japonicas（spring) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 魁蚶 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本研究区域内,魁蚶四季均以较适宜生境为主,除S7站位邻近海域在冬季出现基本适宜生境外,其他季节均无基本适宜生境和不适宜生境出现(图6—图9）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大部分研究区域在春季属于较适宜生境（约 $5 . 6 1 \\mathrm { k m } ^ { 2 }$ ）,仅有S3、S6站位周边区域属适宜生境(约0.82$ { \\mathrm { k m } } ^ { 2 }$ );夏季适宜生境出现在小黑山岛东北部海域(约为 $0 . 4 9 \\ \\mathrm { k m } ^ { 2 }$ )，其他周边海域均属于较适宜生境(约5.94$ { \\mathrm { k m } } ^ { 2 }$ );秋季适宜生境面积比其他3个季节稍大（约 $2 . 0 9 \\mathrm { k m } ^ { 2 }$ ）,较适宜生境出现在S4、S5 和S6站位及S3站位周边区域;冬季除S7站位及其周边区域属基本适宜生境（约 $0 . 3 8 \\mathrm { k m } ^ { 2 }$ )外,其他区域则属较适宜生境范围（约$6 . 0 5 \\ \\mathrm { k m } ^ { 2 }$ )。魁蚶的4个季节生境适宜性分析统计结果见表6。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/38e2b19cf6104da3aa034eb58ceb82cc2c15239eaba51c9df2598acc66e24799.jpg",
+        "img_caption": [
+            "Fig.3Map of habitat suitable area of Stichopus japonicas（summer) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0e1285ee233ef314af5d2aeeee1f925e244198cbcb20dae760d3ace3f47caf3.jpg",
+        "img_caption": [
+            "图3小黑山岛区域刺参生境适宜性(夏季)",
+            "图4小黑山岛区域刺参生境适宜性(秋季)",
+            "Fig.4Map of habitat suitable area of Stichopus japonicas（autumn) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 紫贻贝 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与刺参的生境适宜性分析结果类似,紫贻贝的生境适宜性除在季节上表现出不同外,在调查站位间并不存在差异。紫贻贝在春、夏和秋3个季节,研究区域均属于适宜生境;而冬季所研究海域则属于较适宜生境（图10一图13）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/416772304c4bae5c63fc69cd2468631a679329b64857ddd25b08fd25ec3389a0.jpg",
+        "img_caption": [
+            "Fig.5Map of habitat suitable area of Stichopus japonicas（winter) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/474574392d8f4264b598c80166b8e58789aa7b2c49c1223f7f841c1682759fea.jpg",
+        "img_caption": [
+            "图5小黑山岛区域刺参生境适宜性(冬季)",
+            "图6小黑山岛区域魁蚶生境适宜性(春季)",
+            "Fig.6Map of habitat suitable area of Scapharca broughtonii（spring) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着人类对渔业资源需求的日益增长,物种生物多样性受到严重威胁,对其进行种群修复已成为全球关注的焦点。据联合国粮食与农业组织(FAO,2007)统计年鉴显示,全球已有94个国家实施种群增殖修复项目,专家们也明确指出确定增殖物种的修复区域是决定修复成效的关键因素[4243],但仍有许多海洋生物资源的增殖修复并未达到预期效果[44]。值得注意的是,在实证分析中许多 HSI模型往往将年度调查数据的均值作为模型的输入变量,忽略了生境因子季节差异性等因素的影响。然而,在同一区域内,部分生境因子（如底质类型)可以认为是恒定的,而其他生境因子(如盐度、溶解氧和叶绿素a)则呈现出显著的季节差异[3.45]。综上,季节尺度的生境适宜性分析缺失可能是导致预期修复效果难以确保的重要因素之一。本研究以烟台长岛县小黑山岛临近海域为研究对象,分别对刺参、魁蚶和紫贻贝的生境适宜性进行了季节性探讨,通过对比分析分别选划出3个研究物种的适宜修复区域,以期为确定更加有效的生境修复方案奠定基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f85139653499e8e0a7389c2d5456c5cd590bb56f2f6379f87b952d5ed404fa86.jpg",
+        "img_caption": [
+            "Fig.7Mapof habitat suitable areaof Scapharca broughtonii（summer) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae0ce67962502be33bfe757800e81ee2116e5f72cb6860652990c89000ccf8e7.jpg",
+        "img_caption": [
+            "图7小黑山岛区域魁蚶生境适宜性(夏季)",
+            "图8小黑山岛区域魁蚶生境适宜性(秋季)",
+            "Fig.8Mapofhabitat suitable area of Scapharcabroughtonii（autumn）"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ed881600e02796598833a96c211661df9aec9dfe0158e4bef24e0313fcde679.jpg",
+        "img_caption": [
+            "Fig.9Mapof habitatsuitablearea of Scapharcabroughtonii（winter) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4db8fdd7b01973fe1e6e0d75bb54e040f23cd6c40a7fab1a614c594e5418024.jpg",
+        "img_caption": [
+            "图9小黑山岛区域魁蚶生境适宜性(冬季)",
+            "图10小黑山岛区域紫贻贝生境适宜性(春季) ",
+            "Fig.10Map of habitat suitable area of Mytilus edulis（spring） "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c80485d6835a742b8a9cb4f19d80f9df0aeac213641b43396cd2ccdb2e377643.jpg",
+        "img_caption": [
+            "图11小黑山岛区域紫贻贝生境适宜性(夏季)"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/115b2157310d61eca1fc7cacdd94c0e7c1c3f57f729d9e3ce51134718d08b899.jpg",
+        "img_caption": [
+            "Fig.11Mapof habitat suitable area of Mytilusedulis（summer) ",
+            "图12小黑山岛区域紫贻贝生境适宜性(秋季)",
+            "Fig.12Map of habitat suitable area of Mytilusedulis（autumn）"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如图2—图5所示,小黑山岛临近海域常年较适宜刺参的生长,尤其是春季和秋季,而水温是造成刺参生境适宜性差异的主要原因。刺参为狭温性海洋底栖生物,夏眠和冬眠是刺参生活史中重要的阶段。当外界温度升高（高于 $2 0 \\%$ )或降低（低于 $5 \\%$ )到一定的界限时,刺参就会迁移到海水较深海域进行夏眠或冬眠[46]。根据对研究区域监测显示，小黑山岛海域在春秋季节水温变化范围为 $1 2 . 9 \\mathrm { ^ { \\circ } C } - 1 4 . 3 \\mathrm { ^ { \\circ } C }$ ,盐度 30.26—30.48,pH8.14—8.23,DO 高于 $4 \\mathrm { { m g / L } }$ ,有机碳 $0 . 1 2 \\% { - 0 . 3 1 \\% }$ ,各生境因子均适宜刺参的生长。夏季水温在23—$2 4 . 7 ^ { \\circ } \\mathrm { C }$ 之间（高于 $2 0 \\%$ ,得分为0分),在此期间刺参会迁移到深海区域进行夏眠,其生长速度延缓。冬季（204号 $( 4 . 8 \\mathrm { - } 5 ^ { \\circ } \\mathrm { C } )$ （水温 $\\leqslant 5 \\mathrm { ^ { \\circ } C }$ ,得分为0分),刺参进行冬眠,停止摄食。程济生指出,由于黄海海域冷水团的存在,山东半岛的岩礁海域为海洋生物资源天然的增殖修复场所[47]。此外,刘梦侠等[48]借助 ArcGIS 9.3空间分析模块,对山东省近海底播增殖区域和主要增养殖种类进行了评估,指出胶东半岛烟台、威海荣成、乳山等区域均适宜刺参的增养殖。小黑山岛海域地处渤海海峡,位于庙岛群岛西南部海域,研究表明该海域均适宜刺参生长增殖，与刘梦侠等指出的刺参适宜底播增殖区域划定结论相符。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/28032bec4ea2387410a6b4eb34b14d315a0c89d01f2cbb9c8be2a9d098429d45.jpg",
+        "img_caption": [
+            "图13小黑山岛区域紫贻贝生境适宜性(冬季)",
+            "Fig.13Mapof habitat suitable area of Mytilusedulis(winter) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/b79c3f6bcaa506c466964f12476b416a4f2ecfff509b07be152c83abab328325.jpg",
+        "table_caption": [
+            "表6魁蚶4个季节的生境适宜性分析结果",
+            "Table6The statistical calculate results of 4 seasons over the study area of Scapharca broughton "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">季节 Season</td><td colspan=\"2\">适宜生境 Optimal habitat</td><td colspan=\"2\">较适宜生境 Suboptimal habitat</td><td colspan=\"2\">基本适宜生境 Marginal habitat</td></tr><tr><td>面积/km² Area</td><td>百分比/% Percent</td><td>面积/km²</td><td>百分比/%</td><td>面积/km²</td><td>百分比/%</td></tr><tr><td>春季 Spring</td><td>0.82</td><td>0.13</td><td>Area 5.61</td><td>Percent 0.87</td><td>Area 0</td><td>Percent 0</td></tr><tr><td>夏季 Summer</td><td>0.49</td><td>0.08</td><td>5.94</td><td>0.92</td><td>0</td><td>0</td></tr><tr><td>秋季 Autumn</td><td>2.09</td><td>0.33</td><td>4.34</td><td>0.67</td><td>0</td><td>0</td></tr><tr><td>冬季Winter</td><td>0</td><td>0</td><td>6.05</td><td>0.94</td><td>0.38</td><td>0.06</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "魁蚶是营底栖生活的贝类，喜泥质或泥沙质海底，其分布区主要取决于海区的底质、水温、盐度和水深等环境因子的影响[11]。其中底质(含砂率)类型对其潜沙、水平移动、存活和生长至关重要[49],粒径越大,抵制流水冲刷的能力就越强。根据资料显示,本研究海域底质类型(含砂率)稳定,水流流速和盐度等因子受季节影响不大,但东部海域含砂率相对较高,更适宜魁蚶的生长。周珊珊[50]通过设置6种不同底质组合实验,观察魁蚶稚贝分布情况,证实了魁蚶稚贝对较大粒径中砂( $0 . 2 5 \\mathrm { m m } <$ 粒径 $< 0 . 5 0 \\mathrm { m m }$ )的选择偏好性。此外，综合叶绿素a和水温等因素影响,研究区域在4个季节均以较适宜生境为主,春季、夏季和秋季的东部研究海域则为适宜生境。 $\\mathrm { P a r k } ^ { [ 5 1 ] }$ 等研究发现冬季或早春水温的升高可以促进 Scapharca subcrenata（Lischke，1869）的产卵和孵化,而魁蚶在水温低于 $8 ^ { \\circ } \\mathrm { C }$ 时停止生长,水温超过 $2 5 \\mathrm { ^ { \\circ } C }$ 则出现大量死亡[52]。小黑山岛研究区域四季水温变化明显,受水温和叶绿素 $\\mathrm { a ( > 2 . 0 \\mu g / L ) }$ )等综合影响,春季 S3 和S6站位适宜性得分为4分,夏季 S3站位周边海域出现适宜生境;秋季综合水深 $( 6 { - } 9 . 3 \\mathrm { m } ) $ )和叶绿素a影响,S4,S5,S6站位均为适宜生境。冬季S7站位临近海域受水温( $\\mathrm { 5 ^ { \\circ } C }$ )和水深( $\\mathsf { 6 m } )$ 影响为基本适宜生境 $( 0 . 3 8 \\mathrm { k m } ^ { 2 } \\$ ),其他海域均为较适宜生境。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "紫贻贝以滤食颗粒物质为食,适宜生活在风浪小,潮流畅通的浅海区域,叶绿素a和溶解氧(DO)对紫贻贝的生存繁育有很大影响[34]。据调查资料显示,小黑山岛区域的叶绿素a含量平均为 $0 . 9 8 \\mathrm { m g / m } ^ { 3 [ 8 ] }$ ,饵料充足,溶氧含量变化范围在7.71— $1 2 . 2 6 \\mathrm { m g / L }$ 之间,基本能够满足紫贻贝生长所需。由图10一图13可知，本研究区域在春、夏和秋季均为紫贻贝生长的适宜生境,冬季则属较适宜生境。此外,水温对紫贻贝生存也存在一定的影响，在适宜温度范围内,摄食率随温度升高而增加，当温度升到最大值时，摄食率不再升高反而下降[31,53],这也是造成季节性差异的主要原因。由于配子发育被视为温度依赖性和能量需求的过程,因此配子发育和产卵周期都会受到生长海域中营养条件和温度变化的影响[5456]。Rinaldi等[57]基于长达1周年叶绿素a 和温度数据跟踪监测资料,通过能量代谢估算,指出Ganzirriz 湾适宜紫贻贝移位增殖,而Faro 湾更适宜原位增殖修复。小黑山岛冬季各站位水温均小于 $5 \\%$ （得分为0分），不适宜紫贻贝的生存,而在其他季节水温在7 $1 4 ^ { \\circ } \\mathrm { C }$ 或14— $2 3 \\mathrm { { ^ circ C } }$ 范围内，得分为3分和4分，相对适宜紫贻贝生长。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对每一物种，从10个调查站位中选择HSI值季节变化最大和最小的站位进行敏感性分析,分别对7个环境因子的实测值增减 $10 \\%$ ,计算这两个站位各季节 HSI值的变化,进而得出 HSI模型敏感性指数(Coefficientsof Sensitivity,CS)变动范围。结果显示,对于刺参来说,盐度值发生变化后,其CS 值变化幅度最大（0.812—1.571);对于魁蚶来说,底质类型变化引起的CS值变化幅度最大,并出现最高值2.859;对于紫贻贝来说,水温发生变化后,其CS 值变化幅度最大(0—2.589）。此外,表2—表4是本研究划定生境适宜等级的依据,在 HSI模型中用分段函数进行表述,并在GIS 中应用重分类进行赋值,这就经一步降低了不同生境因子实测值变化所带来的敏感性差异。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Pastres 等[58]将GIS空间分析模块和3维水动力模型相结合,构建了涵盖14个状态变量、52个环境参数的复合营养模型,并以此对菲律宾蛤蜊（Tapes philippnarum)在Venice 湖的生境适宜性和经济产量进行了分析估算。Longdill等[59]综合社会和环境因素的考量,筛选出14个模型输入变量,确定了翡翠贻贝（Permacanaliculus)在Plenty湾的适宜增殖区域。然而,Kliskey等[6]和 Jorgensen[61]均指出 HSI模型输人变量需要兼顾低成本、可操作性。本研究基于小黑山岛邻近海域的可获得数据资料,去除了Pastres 等[58]和 Longdil等[59]构建模型中一些高费用及难以量化的参数（如氧化还原电位、功能区划分等),简化形成了包含底质类型、水温、盐度、溶解氧 $\\mathrm { \\nabla \\cdot \\ p H }$ 、水深及叶绿a(或水流流速,或有机碳)等7个参数的HSI模型。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上,对于刺参和紫贻贝,本研究区域均适宜其生长繁殖,同一物种,相同季节在空间上无站位差异,但各季节的生境适宜性分区变化明显;对于魁蚶来说,东北部海域较为适宜增殖,其次为西部海域,四季均以较适宜生境为主,除冬季出现基本适宜生境外,其他季节均无基本适宜生境和不适宜生境出现。因此,在本研究区域开展刺参、魁蚶和紫贻贝3个物种的资源修复具有一定的可行性,为后续的生物多样性维护和生境修复决策制定提供了基础资料参考。HSI模型在预测方面具有一定优势,但该模型并不完善,且有一定局限性[62]。其一,本研究中生境适宜性评价虽是分季节进行的分析,但由于现有资料的不足,本模型所选用的评价指标并未纳入物种适宜因子在生活史差异上的考量,制约了评价结果的精确性;其二,该模型并未对疾病、捕食竞争以及其他的自然因素或人为干扰造成的影响进行检测，一旦这些影响因素变成可利用因素，生境适宜性分析也将更加完善。可以预见的是,随着生境数据越来越易于获取和空间分析软件(GIS)的日益完善,HSI模型对物种分析范围将不断扩大，分析精度也将进一步提高。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]U.S.Fis，iifSaddhevelopetbiatitabiltdeels,olcalrsauao ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "U.S. Fish and Wildlife Service,1981: 1-81.  \n［2］龚彩霞.基于栖息地指数的西北太平洋柔鱼渔获量估算[D].上海：上海海洋大学，2012.  \n[3]VinceniSaiG,osiR,DLG.AdbitatitabilitoelfooealyeltiatioofpesMediterranean coastal lagoon（Sacca di Goro，Italy）.Ecological Modelling，2006，193(1/2）：90-104.  \n[4］路春燕.基于GIS 与Fuzy 的野生植物生境适宜性评价与区划研究-以秦岭地区华中五味子为例[D].西安：陕西师范大学，2012.  \n[5］王家樵，朱国平，许柳雄.基于HSI模型的印度洋大眼金枪鱼栖息地研究.海洋环境科学,2009，28(6)：739-742.  \n[6]ChaseJ,LeiboldEcologicalNichs：LinkingClasicalandConteporaryproas.ndd.icago，，USAUvsityicagPress ， 2003.  \n[7]GilbertocJtalitcdspsaliateesoiofadcthe United States of America，2004，101(20）：7651-7656.  \n［8］《中国海岛志》编纂委员会.《中国海岛志》（山东卷第一册).北京：海洋出版社，2013.  \n[9］孔梅，黄海军，高兴国，马立杰，刘艳霞.长岛县海岛开发活动的环境效应评价.海洋科学，2010,34（(10)：96-100.  \n[10］李荣升，赵善伦.山东海洋资源与环境.北京：海洋出版社，2002.  \n[11］张玉玺，周学家,姜海滨，王世信，刘爱英，刘信艺，贺光明，常建波，曹旭清.山东近海魁蚶生态习性的调查/／中国贝类学会.贝类学论文集(第五、六辑).青岛：海洋大学出版社，1995.  \n[12］陈清满，章守宇，林军，赵静，叶灵娜.枸杞岛紫贻贝生长状况及其与环境因子关系．上海海洋大学学报，2012，21（5）：809-815.  \n[13］刘永宏,李馥馨，宋本祥，孙慧玲，张榭令，顾本学.刺参(Apostichopus aponicus SelenKa)夏眠习性研究I-夏眠生态特点的研究.中国水产科学，1996,3(2):41-48.  \n[14] HirzelAH,LeLayG.Habitatsuitabilitymodelingandnichetheory.JouralofAppliedEcology，2008,45(5）：137-1381.  \n[15]OrtigosaG,DeLG，GattMFiteatiodellnndGSiofafobiasuiailtesntModelling& Software，2000，15（1）：1-12.  \n[16] 田传远，李琪，梁英.刺参健康养殖技术.北京：中国海洋大学出版社，2008.  \n［17］于东祥，孙慧玲，陈四清，张岩.海参健康养殖技术.北京：海洋出版社，2005.  \n[18] 王学广.环境因子对刺参行为及生长影响的研究［D].济南：山东大学，2013.  \n[19] 陈勇，高峰，刘国山，邵丽萍，石国锋.温度、盐度和光照周期对刺参生长及行为的影响.水产学报，2007，31（5）：687-691.  \n[20] 张连庆，吴远起.坨矶岛沿海刺参的分布和生态调查.齐鲁渔业，1990，7（5)：34-36.  \n[21] 常忠岳，衣吉龙，幕康庆.影响刺参生长及成活的因素.河北渔业，2003，（2)：32-36.  \n[22] 张群乐，刘永宏.海参海胆增养殖技术.青岛：青岛海洋大学，1998;1-7，53-57，65-66.  \n[23] 杨秀兰，王鹏飞，焦玉龙，周全利，李华东,李永昌，刘刚，张华革.刺参中间培育及生长特性的研究.齐鲁渔业，2005，22（10)：1-4.  \n[24] 于东祥，燕敬平，孙慧玲，陈碧鹃．刺参养殖水质的变化特点和调控.齐鲁渔业，2008，25（3）：1-7.  \n[25] 王如才，王昭萍，张建中.海水贝类养殖学.青岛：青岛海洋大学出版社，1993：297-300.  \n[26] 谢忠明，燕敬平，陈世杰.海水经济贝类养殖技术.北京：中国农业出版社，2003.  \n[27] 孙鹏飞，徐维柱，王卫民，宋泉清，高成美.浅海底播养殖魁蚶试验.水产养殖，2009，30（11）：14-14.  \n[28] 刘世禄，杨爱国.中国主要海产贝类健康养殖技术.北京：海洋出版社，2005.  \n[29] 张焕，宋国斌，齐晓陆，田春雨.pH和氨氮对魁蚶稚贝生长与存活的影响.中国农业信息，2013（13）：139-140.  \n[30] 匡世焕，方建光，孙慧玲,李锋.桑沟湾栉孔扇贝不同季节滤水率和同化率的比较.海洋与湖沼，1996，27(2)：194-199.  \n[31] 包永波，尤仲杰.几种因子对海洋滤食性贝类摄食率的影响.水产养殖，2004，25(6)：29-33.  \n[32] 潘鲁青，范德朋，马牲，董双林.环境因子对缢蛏滤水率的影响.水产学报，2002，26(3)：226-230.  \n[33] NavaoJM.ThefectsofsalinityonthepysiologicaleologyofChromytiluschous（Molina，1782）（BivalviaMytlide）JoualoExperimental Marine Biology and Ecology，1988，122(1）：19-33.  \n［34］陈清满．枸杞岛海域养殖紫贻贝生长与生态因子关系初步研究[D]．上海：上海海洋大学，2012.  \n[35]ChenJH,MaiKS,MaHM,WangXJ,DengD,LiuXW,Xuw,ZhangWB,TanBP,AiQHEfectsofdisslvedoxygenonsurivalanimmuneresponsesof scallop（Chlamys farreri Jones etPreston).Fish& Shelfish Immunology，2007,22(3）:272-281.  \n[36］郭金玉，张忠彬，孙庆云.层次分析法的研究与应用.中国安全科学学报，2008，18（5）：148-153.  \n[37］邓雪，李家铭，曾浩键，陈俊羊，赵俊峰.层次分析法权重计算方法分析及其应用研究.数学的实践与认识,2012，42（7）：93-100.  \n[38] LayherWG，MaughanOE.Spotedbasshabitat evaluationusinganuweightedgeometrcmeantodetermineHSIvalue.ProcedingsofthOklahoma Academy of Science，1985，65：11-17.  \n[39］龚彩霞，陈新军，高峰，官文江，雷林.栖息地适宜性指数在渔业科学中的应用进展.上海海洋大学学报，2011,20(2）：260-269.  \n[40]Acevedo,ielJun-nddgexpasiofigatecaewprevousllatricdand Iberian ibex in mountainous regions of southern Spain.Annales Zoologici Fennici,20o9,46(1）：39-50.  \n[41］严辉，段金傲，孙成忠，于光，江曙.基于TCMGIS 的明党参产地适宜性研究.南京中医药大学学报，2012，28（4）：363-366.  \n[42]GoezED,ga-LaaScetsdosdistoingiantinhlseac8(1): 46-52.  \n[43]BellJD,LeberKM,lankenshipHL,LoneraganNR,MasudaeR.Aeweraforrestocking，stockhancementandsaranchingofcoastalfisheries resources.Reviews in Fisheries Science，2008，16(1/3）：1-9.  \n[44］程家骅，姜亚洲.海洋生物资源增殖放流回顾与展望.中国水产科学，2010,17（3)：610-617.  \n[45]LiFQ，CaiQH,FuXC,LiuJK.Cotructioofitatsuitabiltymodels（HMs）forbentcmacroivertebrateadteiralicatistinstreameviotalsesdyigiieofGoseioarestural9（）：359-367.  \n[46］赵鹏.刺参 Apostichopus japonicus 摄食选择性的基础研究[D].青岛：中国科学院研究生院（海洋研究所），2010.  \n［47］程济生.黄渤海近岸水域生态环境与生物群落.青岛：中国海洋大学出版社，2004：363-365.  \n[48］刘梦侠，王其翔，刘名，周健，高翔，刘洪军，官曙光.山东省近海底层生物增养殖适宜性研究.北京：海洋出版社，2011.  \n[49] 王如才.中国水生贝类原色图鉴.杭州：浙江科学技术出版社，1988：142-143.  \n[50］周珊珊，张秀梅，刘旭绪，张沛东．魁蚶稚贝的底质选择性及其潜沙能力评价.水产学报，2015，39(6)：867-875.  \n[51]ParkH,Lee,CEJoiKKangCRepructieeadgossicalosioofteaksellaprubet(Lischke，1869）rearedon subtidal mudflats in atemperate bayof Korea.Aquaculture,2011,322-323：149-157.  \n[52］卓亮亮.魁蚶养殖中有害生物东亚壳莱蛤（Muscuista senhousia）的污染控制及繁殖生物学研究[D].青岛：中国海洋大学，2010.  \n[3]Betsaeopeeleeuisst（.）（lVeec）ualxptlMarine Biology and Ecology，1987,108(3）：241-260.  \n[54]KangCKark,eeoJ soalvratisioioepructiecivityndeclfPaficsterasostregs（br），nspeedeintastalfKea.JouaofSelssearch，9）771- 778.  \n[55]Neilefrom Mundaca Estuary（Biscay，North Spain）.Marine Biology，1989，101(4）：503- 511.  \n[56]RuizCrtDaGalsdepciciicalflat oyster，Ostrea edulis，from San Cibran（Galicia，Spain).Marine Biology，1992:112(1）：67-74.  \n[7Rinaldialgalirtanfdriciistoeeealiof shelfsh culture in coastal lakes.Estuarine，Coastal and Shelf Science,2O14，144：89-98.  \n[58]Pstre,lG,aejaCaigofpeliptgesisystem.Ecological Modelling，2001,138(1/3）：231-245.  \n[59]Longdill,Heal，lackKAnintegatedSpprachforustaableqculueaagentreasiteeeoOcastalManagement，2008,51（8/9）:612-624.  \n[60]KliskyDfothECosoroSheerHuaigdatigeatioucuatesinghabitat suitability indices.Landscape and Urban Planning，1999,45(4）：163-175.  \n[61]Jorgensen S E. Ecosystem Ecology.Fletcher，NC,USA: Academic Press，2009: 379-379.  \n62]Baeiaaloo，tool for restoration of the Calosahatchee Estuary，,Florida.Journalof Shelfish Research,2007,26(4)：949-959.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

@@ -1,0 +1,53 @@
+# $2 1 \sim 2 4$ 太阳活动周首个高纬黑子和首个X级耀斑的半球特点与太阳活动的南北不对称性的关系
+
+陆阳平1,²，乐贵明²，赵浩峰}，尹志强³（1.南京信息工程大学，江苏南京210044；2.中国气象局空间天气重点实验室国家卫星气象中心，北京100081；3.中国科学院国家天文台，北京100012)
+
+摘要：利用GOES和SDO卫星监测的太阳软X射线耀斑的数据，发现在 $2 1 \sim 2 4$ 太阳活动周期间，第1个X级耀斑与第1个高纬黑子都出现在同一半球。与高纬黑子表征的太阳活动南北半球的不对称性一样，一个太阳活动周第1个X级耀斑的出现，很可能预示着首先出现X级耀斑的半球，其太阳活动将比另一半球更剧烈。
+
+关键词：太阳活动；太阳黑子；太阳耀斑
+
+中图分类号： $\mathrm { P l } 8 2 . 4 ^ { + } 1 \$ $\mathrm { P } 1 8 2 . 5 ^ { + } 2$ 文献标识码：A 文章编号：1672-7673(2016)02-0150-03
+
+在一个太阳活动周的起始阶段，在高纬区域会出现黑子。文[1]通过研究发现，在太阳活动周的起始阶段，如果在某个半球的高纬区域首先出现黑子，那么在这个太阳活动周期间，这个半球的太阳活动(指黑子数或黑子群的总面积)将比另一半球的太阳活动强烈。在第 23 周，南半球的高纬首先出现了黑子，文「1]预测第 23太阳活动周期间，南半球的太阳活动(指黑子数与活动区总面积)比北半球要剧烈，实际的观测数据证实了他们的预言[2-3]。
+
+黑子是缓变型的太阳活动，而太阳耀斑是爆发性的太阳活动。依据美国大气海洋管理局公布的太阳活动区的位置、面积和耀斑等信息（htp://legacy-www.swpc.noaa.gov/ftpmenu/warehouse.html），在第23太阳活动周期间，最大面积达到或超过 $1 0 0 0 ~ \mu \mathrm { h }$ 的活动区数目为34个，而第23太阳活动周的超级活动区的数目12个，其中9个超级活动区的最大面积超过 $1 ~ 0 0 0 ~ \mu \mathrm { h }$ ，还有3个超级活动区的面积低于 $1 0 0 0 ~ \mu \mathrm { h } ^ { \left[ 4 \right] }$ ，因此，活动区的面积大小与其爆发活动的强弱是不等同的。尽管如此，通过分析发现，第23太阳活动周期间，不仅南半球活动区的总面积超过北半球，南半球的耀斑爆发活动也比北半球强烈[2,3,5-6]。于是提出一种设想，假如某个半球的高纬首先出现黑子，那该半球是否也会首先出现某种强度的耀斑呢？即太阳的一个半球首先出现某种强度的耀斑，能否预示该太阳半球在一个太阳活动周期内，其太阳活动(活动区总面积之和)比另一半球强？为此对21\~24周的第1个太阳耀斑事件进行分析，看看什么样强度的耀斑与首个高纬黑子同时出现在同一半球。
+
+# 21\~24周的首个耀斑
+
+1976年以来，美国在地球静止轨道气象卫星上搭载的在 $0 . 1 { \sim } 0 . 8 \mathrm { n m }$ 波段探测的软X射线耀斑数据都在网上公布，通过该网站可查阅 $2 1 \sim 2 4$ 周的首个C级、M级和X级耀斑。把 $2 1 \sim 2 4$ 周期间查到的首个C级、M级和X级耀斑与高纬黑子进行比较，结果见表1。
+
+表1中，21\~23周高纬黑子的数据取自文[1]，而第24周的高纬黑子是通过查询美国大气海洋管理局给出的活动区数据确定的。表1第2列的21\~22周高纬黑子的位置采用卡林顿经度与日面纬度相结合的方法描述，如第 21周的首个高纬黑子位置L119S44 是指黑子位置位于卡林顿经度为$1 1 9 ^ { \circ }$ ，南半球纬度为 $4 4 ^ { \circ }$ 的位置。第23\~24周第1个高纬黑子的位置采用日面经度和日面纬度相结合的方法描述，如第 23周第1个高纬黑子的位置 S37E57是指南半球 $3 7 ^ { \circ }$ ，东半球 $5 7 ^ { \circ }$ 。第24周的第1个 M级耀斑和 X级耀斑的位置是依据 Hinode卫星的耀斑数据信息(htp://st4a.stelab.nagoya-u.ac.jp/hinode_flare/)查找的。
+
+表121\~24周的第1个高纬黑子和第1个C级、M级和 $\mathbf { X }$ 级耀斑  
+Table1The first sunspot occurred in high latitude and the first C,M and $\mathbf { X }$ -calssflare forcycle21-24   
+
+<html><body><table><tr><td rowspan="2">太阳活动周</td><td rowspan="2">第1个高纬黑子</td><td colspan="4">首个耀斑</td></tr><tr><td colspan="2">强度</td><td>位置</td><td>时间</td></tr><tr><td rowspan="3">21周 (1976 Mar-1986 Sep)</td><td rowspan="3">L119S44</td><td>C级</td><td>C3.0</td><td>N01E51</td><td>1976/06/16</td></tr><tr><td>M级</td><td>M2.0</td><td>S12E79</td><td>1976/08/18</td></tr><tr><td>X级</td><td>X2. 0</td><td>S09E90</td><td>1976/04/30</td></tr><tr><td rowspan="3">22周 (1986 Sep-1996 May）</td><td rowspan="3">L334S41</td><td>C级</td><td>C2.6</td><td>N30E20</td><td>1986/09/08</td></tr><tr><td>M级</td><td>M4. 7</td><td>N22E60</td><td>1986/10/19</td></tr><tr><td>X级</td><td>X1.4</td><td>S34W18</td><td>1988/01/02</td></tr><tr><td rowspan="3">23周 (1996 May-2008 Dec)</td><td rowspan="3">S37E57</td><td>C级</td><td>C1.0</td><td>S08E58</td><td>1996/05/08</td></tr><tr><td>M级</td><td>M1.4</td><td>S10W28</td><td>1996/07/09</td></tr><tr><td>X级</td><td>X2.6</td><td>S10W30</td><td>1996/07/09</td></tr><tr><td rowspan="3">24周 (2008 Dec-)</td><td rowspan="3">S36E34</td><td>C级</td><td>C2.7</td><td>S27W02</td><td>2009/07/05</td></tr><tr><td>M级</td><td>M2.3</td><td>S25E88</td><td>2010/01/19</td></tr><tr><td>X级</td><td>X2. 2</td><td>S20W10</td><td>2011/02/15</td></tr></table></body></html>
+
+从表1可以看出，第21太阳活动周的第1个C级、M级和X级耀斑分别出现在北半球、南半球和南半球，显然，第1个M级和X级耀斑与第1个高纬黑子处在同一半球，但首个C级耀斑与高纬黑子不在同一半球。第22周的第1个C级、M级和X级耀斑分别出现在北半球、北半球和南半球，显然，首个C级和M级耀斑都与第1个高纬黑子不在同一半球，只有第1个X级耀斑与第1个高纬黑子处在同一半球。在第21\~22太阳活动周，都是只有第1个X级耀斑与高纬黑子处在同一半球。第23太阳活动周的第1个X级耀斑出现在南半球，与第23周的第1个高纬黑子处在同一半球。实际观测和相关研究已经证明第 21\~23太阳活动周，首先出现高纬黑子的半球，太阳活动更剧烈[2.3,5-6]
+
+第24周的第1个高纬黑子为2009年9月23日的S36E34，第24周的第1个X级耀斑为2011年2月15日，这说明第24周期间，无论是太阳黑子数(或活动区的总面积)还是太阳耀斑活动，南半球都可能比北半球剧烈。
+
+# 2结论与讨论
+
+根据文[1]的研究，在21\~23太阳活动周期间，第1个高纬黑子所属的半球，该半球的太阳活动比另一个太阳半球要剧烈。实际观测数据和研究都已证明，第21\~23周期间，首先出现高纬黑子的半球(包括黑子数、活动区总面积)比另一半球的太阳活动更剧烈。依据美国大气海洋管理局给出的太阳耀斑信息，经过分析发现，第23 周太阳活动周期间，南半球的耀斑活动也比北半球更剧烈[6]。本文的分析表明，在一个太阳活动周期间，第1个高纬黑子和第1个X级耀斑出现在同一太阳半球，因此，第1个X级耀斑出现在哪个半球，这个半球的太阳活动(包括黑子数、活动区总面积和耀斑)可能比另一半球要剧烈。
+
+由于X级耀斑是非常强烈的太阳爆发活动，其强度远超C级和M级，因此，一个太阳活动周的第1个X级耀斑出现在某一半球，很可能就预示该半球的太阳活动比另一半球的太阳活动更强烈。第24周的第1个X级耀斑出现在南半球，南半球的太阳活动是否比北半球更剧烈，还需到第24周结束时才能进行检验。
+
+致谢：感谢美国大气海洋管理局提供的太阳耀斑和活动区的数据。
+
+# 参考文献：
+
+[1] 李可军，洪琴芳，顾啸马．日面高纬黑子与太阳活动［J].天文学报，1999，40(4)：435-438. Li Kejun，Hong Qingfang，Gu Xiaoma. Sunspots at high latitudes and solar activity ［J]. Acta Astronomica Sinica，1999，40(4) :435-438.   
+[2] Li K J，Gao P X, Zhan L S. The long-term behavior of the north-south asymmetry of sunspot activity[J]. Solar Physics，2009，254(1）:145-154.   
+[3] Li K J,Chen H D,Zhan L S,et al. Asymmetry of solar activity in cycle 23 ［J]. Journal of Geophysical Research，2009，114(A4）:1-6.   
+[4] Chen A Q，Wang J X，Li JW，et al. Statistical properties of superactive regions during solar cycles 19-23 [J].Astronomy & Astrophysics，2011，534(A47）:1-8.   
+[5] Oliver R，Ballester JL. The north-south asymmetry of sunspot areas during solar cycle 22 [J]. Solar Physics，1994，152(2) : 481-485.   
+[6] 陆阳平，赵浩峰，乐贵明，等.1996\~2008 年期间活动区与耀斑活动的特征分析［J].空间 科学学报，2016，36(1)：12-17. Lu Yangping，Zhao Haofeng，Le Guiming，et al. Analysis of the properties of solar Active Regions and the solar flares during 1996-2008 [J]. Chinese Journal of Space Science，2016, 36(1) : 12-17.
+
+# The Relationship between First X-Class Flare， First High Latitude Sunspot Hemisphere Features and the Asymmetry of Solar Activity during Solar Cycle 21-24
+
+Lu Yangping $^ { 1 , 2 }$ ,Le Guiming²，Zhao Haofeng1，Yin Zhiqiang³ （1.Nanjing UniversityofInfoationScience&Techology，Nanjing21044，China,Email:lypl99004@126.com；2.KeyLaboatoy of Space Weather,National Center for Space Weather,China Meteorological Administration,Beijing10oo81,China； 3.National Astronomical Observatories,Chinese Academy of Sciences，Beijing 1Ooo12,China)
+
+Abstract:Basedon the data of solar X-ray flares observed by GOES,the first X-classflare that occurred during solar cycle 21-24 has been picked out and analyzed.Results show that the first high latitude sunspot and the first X-clas flare occur in the same hemisphere of the Sun during solar cycle 21-24. It appears to support that if the first X-classflare occurs in one hemisphereof the Sun，then the solar activity is very likely more intense in this hemisphere during the wholecycle.The first X-class flare of solar cycle 24 occurs in the south hemisphere of the Sun，suggesting that solar activities will be more intense in the south hemisphere during the whole solar cycle 24.
+
+Keywords: Solar activity；Sunspot；Flare

@@ -1,0 +1,354 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "呼吸肌肉锻炼加序贯无创正压通气在稳定期重度慢阻肺患者中的应用：临床随机对照试验",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周露茜'，黎晓莹'，李允²,郭炳鹏'，关力理'，陈 新²，罗裕文²,罗鹏²，陈荣昌1  \n1广州医科大学附属第一医院，广东广州 510120;南方医科大学珠江医院,广东广州 510282",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨呼吸肌肉锻练序贯无创通气的肺康复策略的临床应用价值。方法88例患者随机分为序贯组、呼吸肌肉锻炼组、无创组及对照组并干预8周。评价生活质量(SRI)、呼吸肌力(MIP、MEP)、呼吸困难(MRC）、运动耐量(6MWD)及肺功能。结果序贯组、锻炼组及无创组SRI总分、6MWD、MRC均显著改变( $P$ 均 $< 0 . 0 5$ )，且序贯组△SRI、 $\\bigtriangleup$ 6MWD、 $\\bigtriangleup$ MRC和锻炼组、无创组间有显著性差异( $P$ 均 $< 0 . 0 5 \\dot { }$ 。序贯组、锻炼组MIP、MEP显著性提高（ $P$ 均 $< 0 . 0 5$ )，且序贯组△MIP、 $\\bigtriangleup$ MEP与锻炼组间有统计学差异 $( P { < } 0 . 0 5 )$ 。肺功能无统计学差异( $P$ 均 $> 0 . 0 5$ )。结论呼吸肌肉锻练序贯无创通气康复策略对于稳定期重度慢阻肺患者而言临床效果最优，与单用呼吸肌肉锻炼、单用无创正压通气或长期氧疗相比更能改善生活质量、呼吸肌力、缓解呼吸困难及提高运动耐量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：慢性阻塞性肺疾病；无创正压通气；呼吸肌肉锻炼；肺康复 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inspiratory muscle training followed by non-invasive positive pressure ventilation in patients with severe chronic obstructive pulmonary disease: a randomized controlled trial ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOULuqian',iaoing,un,UOBingpeng,GANLilHNXin,OYuwen,Oeng,HEo FristAflaedialfagoicalsiagou;Zialuedili Guangzhou 510282, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To investigate the efects of inspiratory muscle training followed by non-invasive positive pressure ventilation in patients with severe chronic obstructivepulmonary disease (COPD).Methods This investigator-initiated randomized,controled trial recruited 88 patients with stable GOLD stage IV COPD,who were randomized into 4 equal groups tocontinue oxygen therapy (control group)or toreceive inspiratory muscle training followed by non-invasive positive pressure ventilation (IMT-NPPV group), inspiratory muscle training only (IMT group)，or noninvasive positive pressure ventilation only(NPPV group)foratleast8 weeks.Teoutcomesof the patients were assessed includingthequalityof ife (SRI scores), maximum inspiratory pressre (MIP)， maximum expiratory pressure (MEP)，dyspnea (MRC scores),6-min walking distance (6MWD)and lung function. Results Compared to baseline values, SRI scores, 6MWT and MRC scores increasedsignificantlyafter8weks inI-NPPVIMandNPPVgroups,andtheimprovements weresignificantlygaterin IMT-NPPV group than in IMT and NPPV groups ( $_ { \\it P < 0 . 0 5 }$ for all). In IMT-NPPV and IMT groups, MIP and MEP increased significantly after the training $_ { ( P < 0 . 0 5 ) }$ ， and the improvement was more prominent in IMT-NPPV group $_ { ( P < 0 . 0 5 ) }$ .No significant changes were found in pulmonary functions in the groups after 8 weeks of treatment $( P { > } 0 . 0 5 )$ . Conclusion Inspiratory muscletraining followed by non-invasive positivepressure ventilation,compared withinspiratory muscle training or non-invasivepositive presure ventilationalone,can beterenhance thequalityof ife,strengthen therespiratorymuscles, improve exercise tolerance and relieve the dyspnea in patients with COPD. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: chronic obstructive pulmonary disease; noninvasive ventilation; inspiratory muscle training; pulmonary rehabilitation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "慢性阻塞性肺疾病(COPD)是一种常见的慢性呼",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吸道疾病，迄今没有满意的治疗办法，其病程长、致残率高。世界卫生组织预计，至2030年，在导致人类劳动力丧失的疾病中,COPD将从第12位跃居第7位[]。由此,肺康复治疗意义重大。运动锻炼、呼吸肌肉锻炼及无创正压通气，是COPD肺康复的几种主要策略。其中，运动锻炼是肺康复的核心内容(A级推荐)2]，但并非所有COPD患者可参与运动康复，如重度或极重度COPD患者，易在运动锻炼过程中出现呼吸衰竭和下肢疲乏而被迫终止康复训练。呼吸肌肉锻炼(1B级推荐)联合运动锻炼，可增强呼吸肌力、减轻呼吸困难、提高运动耐量。单独使用呼吸肌肉锻炼，仅对呼吸肌肉力量减弱或呼吸困难明显的患者(如最大吸气压 ${ \\leqslant } 6 0 \\ \\mathrm { c m \\ : H _ { 2 } O } ,$ 有效。无创正压通气(2B级推荐)，研究表明长期使用可改善二氧化碳潴留、提高生活质量及生存率3，但对住院率并没有改善[4,Grosu团队[2甚至发现，通气 $4 8 \\mathrm { ~ h ~ }$ 后膈肌明显变薄5，指南推荐作为运动锻炼的辅助方式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，国内外的研究，都仅限于探究单用呼吸肌肉锻炼或无创通气对COPD患者的临床作用，其结果都存在争议性，与这两种康复策略不完全符合呼吸肌肉生理有关。由此,针对现存问题,根据呼吸生理学特征，我们首次提出“呼吸肌肉锻炼序贯无创正压通气\"的康复策略，为原创性研究，并进行前瞻、随机对照研究，评价其临床价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 伦理学",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究已经通过广州医科大学伦理委员会审批并完成临床注册，临床注册号：01926275。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "招募2012年1月\\~2015年12月在广州呼吸疾病研究所就诊的稳定期COPD患者。通过病史、体检、X线检查、肺功能检查明确诊断。入选标准如下（全部满足）：(1)年龄：40\\~80岁；(2)肺功能重度或极重度COPD;(3)合并慢性呼吸衰竭(吸空气状态下，休息1h后测血气分析 $\\mathrm { P C O } _ { 2 } { \\geq } 5 0 ~ \\mathrm { m m H g }$ );(4)最近4周未出现急性加重。排除标准(满足其中1项)：(1)每日吸烟大于10支者；(2)心脏血流动力学不稳定患者，如急性左心衰，不稳定型心绞痛；(3)合并其他呼吸系统疾病，如典型支气管扩张，典型肺纤维化，睡眠呼吸暂停，肺内肿瘤,结核后遗症(毁损肺)等;(4)患有神经肌肉疾病或严重脑血管意外后遗症者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3主要仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)肺功能仪(Jaeger,德国)；(2)生物信号放大器(ADL5561，ADInstruments公司，澳大利亚）；（3)Powerlab16通道生理信号记录仪(ML796,ADInstruments公司，澳大利亚);(4)差分压力传感器(ML141,ADInstruments公司,澳大利亚);(5)四通型T型阀门(HansRudolph公司,美国)；(6)呼吸训练器（飞利浦，Threshold)；(7)无创呼吸机(Flexo ST30,凯迪泰);(8)制氧机(9F-5,鱼跃)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入选患者检测肺功能、血气分析、呼吸肌肉功能、运动耐量、呼吸困难程度、SRI评分。按区组随机化分组，随机分为呼吸肌肉锻炼-休息序贯组、呼吸肌肉锻炼组、呼吸肌肉无创组(无创组)及对照组，并将序列号置入不透光信封密封，做到分配隐藏。各组康复策略如下：所有入选患者接受规范药物治疗 $( { \\mathrm { I C S } } + { \\mathrm { L A B A } }$ 及LAMA等)及家庭长期氧疗(每天吸氧至少 $1 5 \\mathrm { h }$ ，氧流量$1 { \\sim } 3 ~ \\mathrm { L / m i n }$ ,吸氧至患者 ${ \\mathrm { S P O } } _ { 2 } { \\geqslant } 9 0 \\%$ )[6]。(1)序贯组：起始压力为 $1 5 \\%$ 最大吸气压，每周增加 $5 \\% { \\sim } 1 0 \\%$ 直至 $6 0 \\%$ 最大吸气压，每次锻炼 $3 0 ~ \\mathrm { m i n }$ ，随后序贯予无创正压通气$3 \\mathrm { { h } }$ (ST模式，最大吸气压滴定为患者的最适舒适度，呼气压设为 $4 \\ \\mathrm { c m \\ H _ { 2 } O }$ ，吸气压-呼气压大于 $1 0 \\ \\mathrm { c m \\ H _ { 2 } O } ,$ ），每天2次，每周锻炼6d,持续8周;(2)锻炼组：当患者增加至 $60 \\%$ 最大吸气压，每次锻炼 $3 0 \\mathrm { m i n }$ ，每天2次，持续8周；(3)无创组：无创正压通气(滴定方法及模式同序贯组） $ { | 3 \\mathrm { ~ h ~ } }$ ，每天2次，持续8周；(4)对照组：家庭氧疗。于第8周末对所有患者进行随访，重复采集上述观察指标数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5研究质控",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为保证研究质控，研究中所采用呼吸机均为基于远程管理的呼吸机,配置有内置数据卡，可读取患者在家庭中使用的实时数据，保证良好的依从性。并配有专业护士，在使用呼吸机及呼吸训练器其对其进行指导。研究小组于每周对患者进行一次电话随访，并设置有 $2 4 \\mathrm { h }$ 呼救中心，随时解决患者在接受治疗过程中的问题。研究结果的评估人员、数据统计者对患者分组采用盲法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6 统计分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用SPSS17.0软件进行统计学分析。正态分布计量资料用均数 $\\cdot \\pm$ 标准差表示，偏态分布数据采用中位数及四分位间距描述，组间比较采用单因素方差分析，组内前后比较采用配对样本 $t$ 检验。 $P { < } 0 . 0 5$ 表示差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 纳入对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究总计纳入88例COPD患者，随机分为4组，其中序贯组22例(男18，女4)，脱落1例；锻炼组22例(男17,女5),脱落2例;无创组22例(男18,女4)，脱落1例;对照组22例(男16,女6)，脱落1例。本研究脱落患者共计5例，其中4名男性,1名女性,脱落率为 $6 \\%$ 。研究流程见图1。4组患者在年龄、体质量指数、肺功能、呼吸肌力、血气分析、运动耐量、呼吸困难程度和生活质量评分在干预前均无显著性差异(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2质控 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究中基于远程管理的呼吸机配置的数据卡记录了患者的吸气压、呼气压、使用时间、潮气量、漏气量等数据。同时，为保证研究中使用呼吸机的准确性，我们使用Powerlab系统与呼吸机数据进行对比，显示呼吸机记录的升压斜率与Powerlab系统记录一致，呼吸机记录数据准确。在本研究中，序贯组、无创组的患者使用的吸气压分别为 $1 8 . 9 { \\pm } 3 . 5 \\ \\mathrm { c m \\ H _ { 2 } O }$ 与 $1 8 . 2 { \\pm } 2 . 3 \\ \\mathrm { c m \\ H _ { 2 } O _ { \\circ } }$ 呼气压均为 $4 \\ \\mathrm { c m \\ H _ { 2 } O }$ 。漏气量分别为 $2 5 . 2 { \\pm } 4 . 7 \\ \\mathrm { L / m i n }$ 与 $2 8 . 4 { \\pm } 5 . 3 \\mathrm { L } / \\mathrm { m i n } _ { \\mathrm { o } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed6564d4c23d603fad6a3ea7458d7c1022337694843d067d824ab13f9098fb50.jpg",
+        "img_caption": [
+            "图1研究流程图Fig.1 Flow chart of the study."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b481877f21349a72ce2bae7a19e63b2555c57dbc9625f61fbb154e99e41a42c.jpg",
+        "table_caption": [
+            "表1患者的基本特征及临床特点基线 Tab.1 Baseline demographic and clinical characteristics of patients "
+        ],
+        "table_footnote": [
+            "Data are mean $( 9 5 \\%$ CI) or median (interquartile range).FVC: Forced vital capacity; FEV1: Forced expiratory volume in1s; $\\mathrm { P a C O } _ { 2 }$ :Arterial carbon dioxide pressure; $\\mathrm { P a O } _ { 2 }$ :Arterial oxygen pressure; $\\mathrm { S a O } _ { 2 }$ :Arterial oxygen saturation; MIP: Maximal inspiratory presure; MEP: Maximal expiratory pressure; mMRC: Modified Medical Research Council; 6MWD: $6 \\mathrm { m i n }$ walking distance; SRI: Severe respiratory insuffiency questionnaire. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>IMT-NPPV group (n=21)</td><td>IMT group (n=20)</td><td>NPPV group (n=21)</td><td>LTOT group (n=21)</td></tr><tr><td>Age (year)</td><td>67.3 (7.6)</td><td>66.4 (5.5)</td><td>68.2 (8.1)</td><td>66.8 (6.2)</td></tr><tr><td>Male [n (%)]</td><td>18 (82%)</td><td>17 (77%)</td><td>18 (82%)</td><td>16 (72%)</td></tr><tr><td>BMI (kg/m2)</td><td>21.5 (2.5)</td><td>22.5 (2.1)</td><td>23.4 (2.4)</td><td>21.8 (2.2)</td></tr><tr><td>FVC (% predicted)</td><td>53.2 (5.9)</td><td>52.6 (6.2)</td><td>50.7 (7.2)</td><td>51.0 (6.0)</td></tr><tr><td>FEV1 (% predicted)</td><td>28.7 (10.3)</td><td>27.7 (8.9)</td><td>28.2 (10.1)</td><td>29.0 (8.7)</td></tr><tr><td>FEV1/FVC (%)</td><td>38.8 (4.5)</td><td>40.1 (5.5)</td><td>41.4 (3.1)</td><td>39.2 (6.0)</td></tr><tr><td>PH</td><td>7.39 (0.04)</td><td>7.38 (0.05)</td><td>7.39 (0.04)</td><td>7.39 (0.05)</td></tr><tr><td>PaCO2 (kPa)</td><td>7.7 (0.7)</td><td>7.7 (0.8)</td><td>7.8 (0.8)</td><td>7.7 (0.5)</td></tr><tr><td>PaO (kPa)</td><td>8.7 (1.9)</td><td>8.6 (2.1)</td><td>8.6 (1.9)</td><td>8.7 (1.8)</td></tr><tr><td>SaO (%)</td><td>90.3 (6.5)</td><td>90.6 (5.5)</td><td>90.1 (5.0)</td><td>90.5 (6.2)</td></tr><tr><td>MIP (cm H2O)</td><td>-57.7 (11.2)</td><td>-56.4 (13.1)</td><td>-58.3 (13.2)</td><td>-56.5 (10.8)</td></tr><tr><td>MEP (cm HO )</td><td>84.2 (22.0)</td><td>81.6 (18.3)</td><td>83.1 (19.9)</td><td>85.4 (20.7)</td></tr><tr><td>mMRC dyspnea</td><td>3.3 (1.0)</td><td>3.2 (0.7)</td><td>3.4 (0.9)</td><td>3.2 (1.0)</td></tr><tr><td>6MWD (m)</td><td>227.7 (47.8)</td><td>216.6 (46.4)</td><td>219.0 (45.4)</td><td>220.1 (43.2)</td></tr><tr><td>SRI</td><td>44.6 (10.3)</td><td>46.0 (11.6)</td><td>45.9 (9.2)</td><td>45.2 (10.6)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3对COPD患者生活质量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "序贯组、锻炼组及无创组SRI总分较干预前显著提高(图2) $\\bigtriangleup$ SRI(干预前后的SRI问卷评分差值)：序贯组、锻炼组及无创组分别为 $1 5 . 0 { \\pm } 4 . 4 . 6 . 0 { \\pm } 2 . 2 . 7 . 0 { \\pm } 2 . 1$ 序贯组和锻炼组、无创组间有显著性差异( $P$ 均 $< 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfbdcc6f80d0d264706138fa12b0d6aa24e3a2d6944e1782e727705bfea16b4d.jpg",
+        "img_caption": [
+            "图2干预前后生活质量对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4对呼吸困难及运动耐量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7eddd4c50feaa6c85a150e590cd846594390c03b07e49e3900643e4a3e15dfc.jpg",
+        "img_caption": [
+            "图3干预前后呼吸困难程度对比图 Fig.3Comparison of dyspnea before and after the treatments in the 4 groups. $^ { * } P { < } 0 . 0 5$ $* * P { < } 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)MRC：序贯组、锻炼组、无创组MRC较干预前均显著降低，氧疗组MRC无显著变化 $\\mathrm { \\langle } P { > } 0 . 0 5$ ，图3；(2)△MRC(干预前后的MRC问卷评分差值)：序贯组较锻炼组、无创组有显著性差异( $P$ 均 $< 0 . 0 5 \\AA \\AA$ ；(3)6MWD（干预前后的 $6 \\mathrm { m i n }$ 步行距离差值)：序贯组、锻炼组和无创组较训练前均显著增加( $P$ 均 $< 0 . 0 5$ ，图4)；(4) $\\bigtriangleup$ 6MWD序贯组和锻炼组、无创组之间有显著性差异（ $P$ 均 $< 0 . 0 5$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5对呼吸肌肉功能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)MIP(最大吸气压)：(吸气压小于60)干预前后序贯组： $- 5 7 . 7 { \\pm } 1 1 . 2 \\ \\mathrm { c m \\ H _ { 2 } O }$ vs $- 8 3 . 4 { \\pm } 2 4 . 6 \\ \\mathrm { c m }$ $\\mathrm { H } _ { 2 } \\mathrm { O } ( P ^ { \\angle }$ 0.05)，干预前后锻炼组： ${ - 5 6 . 4 { \\pm } 1 3 . 1 \\ \\mathrm { c m \\ H _ { 2 } O } }$ vs $- 7 4 . 3 \\pm$ $1 8 . 9 \\ \\mathrm { c m \\ H } _ { 2 } \\mathrm { O } ( P { < } 0 . 0 5 )$ ，无创组及氧疗组MIP无显著性变化( $P$ 均>0.05，图5)；(2) $| \\triangle \\mathrm { M I P } \\rrangle$ （干预前后的最大吸气压差值)：序贯组、锻炼组分别为 $2 3 . 9 { \\pm } 9 . 2 \\ \\mathrm { c m \\ H _ { 2 } O }$ 和$1 7 . 0 { \\pm } 7 . 6 \\ \\mathrm { c m \\ H _ { 2 } O }$ ，两组间具有显著性差异 $\\left( P { < } 0 . 0 5 \\right)$ ：(3)MEP(最大呼气压)：序贯组、锻炼组较干预前显著升高，分别为： $8 4 . 2 { \\pm } 2 2 . 0 \\ \\mathrm { c m \\ H _ { 2 } O }$ vs $1 0 1 . 6 { \\pm } 1 3 . 0 \\ \\mathrm { c m \\ H _ { 2 } } ($ $8 1 . 6 { \\pm } 2 3 . 3 \\ \\mathrm { c m \\ H _ { 2 } O }$ vs $9 4 . 6 { \\pm } 1 3 . 0 \\$ cm $\\mathrm { H } _ { 2 } \\mathrm { O }$ ( $P$ 均 $< 0 . 0 5$ ，无创组及氧疗组MEP无显著性变化（ $P$ 均 $> 0 . 0 5$ ，图5；",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d04a262898ff6c3b8e491bfd6cc5896fd6b8a1884dd509438c53edf0acbf25b1.jpg",
+        "img_caption": [
+            "Fig.2 Comparison of quality of life before and after the treatments in the 4 groups.IMT-NPPV:Inspiratory muscle training add non-invasive positive pressure ventilation; IMT: Inspiratory muscle training; NPPV: Noninvasive positive pressure ventilation;LTOT:Long term oxygen therapy. $^ { * } P <$ 0.05, $^ { * * } P { < } 0 . 0 1$ ： ",
+            "图4干预前后 $6 \\mathrm { m i n }$ 步行距离对比图Fig.4 Comparison of $6 \\mathrm { m i n }$ MWD. $^ { * } P { < } 0 . 0 5 ,$ $^ { * * } P { < } 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4） $\\bigtriangleup$ MEP(干预前后的最大呼气压差值)：序贯组、锻炼组△MIP分别为 $1 9 . 3 { \\pm } 4 . 6 \\ \\mathrm { c m \\ H _ { 2 } O }$ 和 $1 3 . 4 { \\pm } 2 . 2 \\ \\mathrm { c m \\ H _ { 2 } O } .$ 两组间具有统计学差异 $( P { < } 0 . 0 5 )$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6对肺功能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "序贯组、锻炼组、无创组及氧疗组8周后肺功能各项指标(FEV1、FEV1%pre $. F V C \\%$ FEV1/EVC)较前均无显著性变化( $P$ 均 $> 0 . 0 5$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究针对COPD患者呼吸肌肉的生理学特征，设计出“呼吸肌肉锻炼-无创通气序贯\"的肺康复策略，该策略兼顾了呼吸肌肉锻炼和无创正压通气的优点，既能增强呼吸肌肉力量，又能缓解肌肉疲劳，更符合呼吸肌肉生理。我们的结果显示，在改善生活质量、呼吸肌力、缓解呼吸困难及提高运动耐量方面都优于单用呼吸肌肉锻炼及无创正压通气。同时，既往涉及呼吸机治疗的研究中，漏气量多及患者依从性差往往是影响结果的重要因素，由此，在我们的研究中，我们采用基于远程管理的呼吸机，实时管理患者，最大限度保证研究的质控。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在呼吸肌力方面，序贯组与锻炼组MIP及MEP显著改善，且前者的改善更显著。新近研究表明，对于呼吸肌力较低的COPD患者，呼吸肌肉锻炼能显著改善呼吸肌的力量及耐力[8-10],并且可以改善运动状态下的呼吸模式[]。在我们的研究中,也证实了呼吸肌肉锻炼可提高呼吸肌力，且序贯康复方案临床效果更优。Gosker团队的研究显示，COPD患者的呼吸肌出现了I型纤维(抗疲劳慢收缩纤维)向Ⅱ型纤维(易疲劳快收缩纤维)的转变，同时还存在I型纤维比例的下降以及Ⅱx型纤维比例的增加，即出现了肌纤维的重塑，诱发了呼吸肌疲劳的发生[12-13]。经过吸气肌锻炼后,肋间外肌I型肌纤维的比例和Ⅱ型肌纤维的大小明显增加,表明通过呼吸肌肉锻炼可重塑肌纤维，从细胞水平解释经过呼吸肌肉锻炼,呼吸肌的肌力和耐力显著提高的原因[14]。另一方面，呼吸肌锻炼一般遵循3个原则：超负荷、针对性和可逆性，即在一定强度负荷下针对某一特定的肌肉或肌群通过锻炼达到预期最佳功能状态。在本研究中，采用阈值压力负荷锻炼的方法，以MIP的 $6 0 \\%$ 为阈值进行训练强度，与以往文献最大训练强度一致15，且针对吸气肌肉进行训练。“呼吸肌肉锻炼序贯无创正压通气\"的优势更在于使疲劳的呼吸肌肉得到充分休息，即最大限度达到可逆性，因此使呼吸肌肉力量提高更为显著",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb789a996f4d185d774f377d90d32bc69eb6dbc96fe65ec58d7c513fe1177894.jpg",
+        "img_caption": [
+            "图5干预前后最大吸气压与最大呼气压对比图 Fig.5 Comparison of maximum inspiratory pressure (MIP $A$ )and maximum expiratory pressure (MEP,B) before and after the treatments in the 4 groups. $^ { * } P { < } 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在呼吸困难缓解方面，序贯组、锻炼组、无创组均能减轻呼吸困难的症状，且序贯组优于其他两组。既往研究表明，无创通气及呼吸肌肉锻炼可改善患者呼吸困难症状[4.8.10,16],与我们的研究结果一致,且我们发现,序贯康复方案效果更优。呼吸困难是COPD特征性的症状，导致患者运动耐量的下降。当患者呼吸努力程度(PI/PImax)超过一定程度，就会出现呼吸困难症状。改善呼吸肌功能，提高呼吸肌力量，可减低肌肉的相对负荷，即PI/Pimax比值降低，可减轻患者呼吸困难的感觉并且提高最大持续通气量，并由此改善患者在运动状态下因通气不足而导致的运动耐量下降。Sanchez的研究提示：呼吸肌肌力(MIP)的增加与呼吸困难评分TDI减低显著相关,表明提高吸气肌肌力可减轻呼吸困难[17]。因此，在我们的研究中，参与吸气肌锻炼的两组患者，呼吸困难程度及运动耐量都得到显著性改善。而无创组症状的改善，则考虑为呼吸肌肉得到充分休息，有利于缓解呼吸困难，并增加运动耐力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在改善生活质量方面，序贯组、锻炼组、无创组均能显著提高SRI总分，且序贯组优于后两者。研究提示，无创正压通气及呼吸肌肉锻炼，可提高COPD患者的生活质量[39],我们的研究结果与既往研究相符，且序贯康复策略对生活质量提高更为显著。呼吸困难、活动受限-生活方式改变、社会活动减少-抑郁，共同导致了COPD患者生活质量的下降。呼吸肌肉锻炼、无创正压通气都通过改善患者症状及提高运动耐量，进而提高患者的生活质量。总的来说,序贯组生活质量改善最为显著，充分证实该康复策略更符合呼吸生理，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后，我们发现，序贯组、锻炼组、无创组及氧疗组的患者，肺功能所有指标如FEV1、FEV1%pre、FEV1/FVC等均无显著变化,与既往的一些研究报道类似[3.18]考虑解释为呼吸肌肉锻炼或呼吸肌肉休息的临床疗效，与呼吸肌肉的功能状态相关，与肺功能的改变无明显关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，多数肺康复训练是在医院或康复中心内进行的，但因经济、活动受限等原因难以长期坚持，肺康复的疗效难以持续。多项研究也表明无论院内康复还是家庭康复，COPD患者都可从中获得临床疗效1，由此，以患者自我监督为主的家庭康复模式则有更广阔的应用前景。本研究呼吸肌肉锻炼-休息序贯康复策略临床疗效最优，表明该方法可能是更有效的家庭肺康复方法。我们期待进行多中心临床研究，验证我们的想法，并在今后研究中，通过采集康复训练过程中肌电信号的变化,进一步探索其呼吸生理学机制，以期为肺康复治疗提供新的思路和方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Global strategy for the diagnosis.Management and prevention of chronic obstructive pulmonary disease[Z],2016. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]Ries AL,Bauldoff GS,Carlin BW,etal.Pulmonary rehabilitation: joint ACCP/AACVPR Evidence-Based clinical practice guidelines [J].Chest,2007,131(5 Suppl): 4S-42S.   \n[3]Koehnlein T,Windisch W,Koehler D,et al. Non-invasive positive pressure ventilation for the treatment of severe stable chronic obstructivepulmonarydisease:aprospective,multicentre, randomised,controlled clinical trial[J].Lancet Respir Med,2014,2 (9): 698-705.   \n[4] Struik FM, Sprooten RT,Kerstjens HA,et al. Nocturnal noninvasive ventilation in COPD patients with prolonged hypercapnia after ventilatory support for acute respiratory failure:a randomised, controlled,parallel-group study[J]. Thorax,2014,69(9): 826-34.   \n[5]Grosu HB,Lee YI,Lee J,et al.Diaphragm muscle thinning in patients who are mechanically ventilated[J].Chest,2012,142(6): 1455-60.   \n[6]Hardinge M,Suntharalingam J,Wilkinson T,et al.Guideline update:The British Thoracic Society Guidelines on home Oxygen use in adults[J].Thorax,2015,70(6): 589-91.   \n[7]Weiner P, Weiner M. Inspiratory muscle training May increase peak inspiratory flow in chronic obstructive pulmonary disease [J]. Respiration,2006,73(2): 151-6.   \n[8]Basso-Vanelli RP,Di Lorenzo VA,Labadessa IG,et al.Effects of inspiratorymuscletrainingandCalisthenics-and-Breathing exercises in COPD with and without respiratory muscle weakness [J].Respir Care,2016,61(1): 50-60.   \n[9]Beaumont M,Mialon P,Ber-Moy CL,et al. Inspiratory muscle training during pulmonary rehabilitation in chronic obstructive pulmonary disease:A randomized trial[J].ChronRespir Dis,2015, 12(4): 305-12.   \n[10]Majewska-Pulsakowska M,Wytrychowski K,Rozek-Piechura K. The role of inspiratory muscle training in the processof rehabilitation of patients with chronic obstructive pulmonary disease [J].AdvExp Med Biol,2016,885(4): 47-51.   \n[11] Gosker HR,Engelen MP, Van Mameren H,et al. Muscle fiber type IX atrophy is involved in the loss of fat-free mass in chronic obstructive pulmonary disease [J].Am J ClinNutr,2OO2,76(1): 113-9.   \n[12]Gosker HR,Van Mameren H,Van Dijk PJ,et al. Skeletal muscle fibre-type shifting and metabolic profile in patients with chronic obstructive pulmonary disease[J].EurRespir J,20o2,19(4): 617-25.   \n[13]Hill K,Jenkins SC,Philippe DL,et al.High-intensity inspiratory muscle training in COPD[J].EurRespir J,2006,27(6): 1119-28.   \n[14]Beckerman M,Magadle R,Weiner M,et al. The effects of 1 year of specific inspiratory muscle training in patients with COPD[J]. Chest,2005,128(5): 3177-82.   \n[15] Marquez-Martin E,Ruiz FO,Ramos PC,et al. Randomized trial of non-invasive ventilation combined with exercise training in patients with chronic hypercapnic failure due to chronic obstructive pulmonary disease[J].Respir Med,2014,108(12): 1741-51.   \n[16] Sänchez Riera H,Montemayor Rubio T,Ortega Ruiz F,et al. Inspiratory muscle training in patients with COPD:effect on dyspnea, exercise performance,and quality of Life[J]. Chest,2001, 120(3): 748-56.   \n[17] Weiner P, Magadle R,Beckerman M,et al. Specific expiratory muscle training in COPD[J].Chest, 2003,124(2): 468-73.   \n[18]Cahalin LP,Braga M,Matsuo Y,et al.Efficacy of diaphragmatic breathing in persons with chronic obstructive pulmonary disease: a review of the literature[J].JCardiopulmRehabil, 2002,22(1):7-21. (编辑：经媛) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

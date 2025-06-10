@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "能量感应网络AMPK/SIRT1/PGC-lα调节骨骼肌纤维类型转化研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文超越1,2段叶辉 2.3李颖慧 2.3 郭秋平2.3 孔祥峰² 李凤娜 2\\*（1.湖南农业大学动物医学院，长沙410128；2.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，长沙410125；3.中国科学院大学研究生院，北京",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "100049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：腺苷酸活化蛋白激酶（AMPK）、过氧化物酶体增殖激活受体γ辅助激活因子α（PGC-1α）和沉默信息调节因子1（SIRT1）构成一个调节细胞能量输出的信号网络，即能量感应网络，共同调节机体能量代谢、线粒体功能以及肌纤维类型的转化。本文拟综合国内外最新研究报道，总结AMPK/SIRT1/PGC-lα能量感应网络在肌纤维类型转化过程中所发挥的重要作用，为畜牧生产以及人的营养研究提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肌纤维类型转化；AMPK/SIRT1/PGC-lα；线粒体功能；能量代谢中图分类号：S852.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "骨骼肌占哺乳类动物机体组成的 $4 0 \\% { \\sim } 5 0 \\%$ ，并调节全身的能量代谢稳态[1]。骨骼肌主要由成熟的肌细胞即肌纤维组成，肌纤维具有很强的可塑性，通过改变其类型组成以适应机体各种不同的生理状态，这个过程被称为“肌纤维类型的转化”（fiber type transformation）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肌纤维的增殖在动物胚胎期就已完成，其数目出生时已基本固定，而肌纤维类型的转化则伴随动物整个生长发育期。对骨骼肌肌纤维类型进行考察，可为研究其发育、可塑性以及营养干预的方法途径提供理论参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1肌纤维 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 肌纤维结构与分类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据骨骼肌纤维所含肌球蛋白重链（myosin heavy chain，MyHC）表达形式的不同，将肌纤维分为4种类型[2l：MyHCI型（慢速氧化型，其标志基因为Myh7）、MyHC $\\mathrm { I I }$ a型（快速氧化型，其标志基因为Myh2）、MyHCIIb型（快速酵解型，其标志基因为Myh4)和MyHCII x型（中间型，其标志基因为Myh1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I型肌纤维被认为是氧化型代谢，又称慢氧化纤维，直径较小，主要依靠有氧代谢途径供能，依赖脂肪酸氧化生成ATP；I型肌纤维，又称快酵解纤维，主要依靠糖酵解途径供能，依赖葡萄糖作为能量底物。IIx和IIb型纤维被认为是糖酵解型代谢，IIa型纤维则是氧化-糖酵解混合型代谢。IIa型肌纤维的收缩特性和代谢特征介于I与IIx型之间，IIb与Ix型比较接近。甘油三酯在不同类型肌纤维中的含量顺序为： $\\mathrm { I } > \\mathrm { I I } { \\bf a } > \\mathrm { I I } { \\bf x } = \\mathrm { I I } { \\bf b } ^ { [ 3 ] }$ ，线粒体在不同类型肌纤维中的含量排序则因物种而有差异4。线粒体占骨骼肌细胞比例的变动范围为1%\\~45%[5]，不同类型的肌纤维其线粒体的体积与功能都存在很大的差异。氧化型肌纤维绝大部分的能量来源由线粒体提供，而糖酵解型肌纤维同样依赖线粒体维持其基础代谢以及高强度运动之后的修复代谢[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 肌纤维的生长与发育",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "骨骼肌卫星细胞非常活跃，具有调节肌纤维类型组成进而重塑骨骼肌的功能。肌卫星细胞是存在于肌肉组织中的干细胞，通常处于静息状态，如遇肌肉创伤或其他特殊生理状态则被激活并进入增殖、分化和融合的细胞周期[7]。肌卫星细胞所处不同阶段，其表达的标志性基因的表达水平存在差异。从出生至成年期，肌卫星细胞的数量无明显改变，肌纤维的直径显著增加，但 $\\mathrm { I I }$ 型肌纤维的直径随着日龄的增加反而显著减小，同时ⅡI型肌纤维的肌卫星细胞数量也随之减少[8]。I型肌纤维的特异性蛋白Myh7在增殖阶段的成肌细胞中也有表达，Myh7一旦启动表达，成肌细胞则进入分化状态，但存在向慢型或快型肌管分化的多种可能[9]，这与传统观点认为Myh7只在分化阶段的肌细胞中表达不一致。核苷类似物转录酶抑制剂（齐多夫定）介导的线粒体肌病显示，ⅡI型肌纤维显著增加，成肌分化抗原（MyoD）的表达量上调，而肌细胞生成素和雌激素相关受体γ（estrogen-related receptor γ， $E R R \\gamma$ ）的表达量下调；线粒体超微结构异常，DNA耗损，细胞色素C氧化酶的活性下降，且肌纤维类型的转化失去重建能力[10]，这说明线粒体的功能与肌纤维类型紧密联系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2能量感应网络与肌纤维类型转化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肌纤维的类型组成与线粒体关系密切，而能量代谢又是线粒体的主要功能，换言之，细胞能量代谢调节着肌纤维的类型。腺苷酸活化蛋白激酶（AMP-activated protein kinase，AMPK）、过氧化物酶体增殖激活受体γ辅助激活因子 $\\mathfrak { a }$ （peroxisome proliferator-activatedreceptor $\\gamma$ co-activator 1α,PGC-1α)和沉默信息调节因子1(silent information regulator 1,SIRT1)均被称为“能量感应器”（energy sensor)，其功能与调节作用紧密相连（图1)，形成能量感应网络，调控细胞的能量输出[11-12]，进而调节肌纤维的类型组成。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d84da337907188388ddd708c348bf6bf2a79231dbb8f23c35f6f92c433d91d79.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CaMK：钙调素依赖性蛋白激酶 calcium/calmodulin dependent protein kinase；CaMKK：钙调素依赖蛋白激 酶激酶calcium/calmodulin-dependent protein kinase kinase；AMPK：腺苷酸活化蛋白激酶 AMP-activated protein kinase；SIRT1：沉默信息调节因子1 silent information regulator1；PGC-lα：过氧化物酶体增殖激活 受体 $\\gamma$ 辅助激活因子 $\\mathbf { a }$ peroxisome proliferator-activated receptor $\\gamma$ co-activator $1 \\alpha$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1能量代谢网络AMPK/SIRT1/PGC-1α参与I型肌纤维的线粒体生物合成与氧化代谢",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Energy metabolism network of AMPK/SIRT1/PGC-1α involved in the mitochondria biogenesis and Oxidative metabolism in typeI muscle fiber[2] ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 AMPK ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AMPK在细胞内以异源三聚体形式存在，由具有催化作用的 $\\mathfrak { a }$ 亚基以及具有调节作用的 $\\beta$ 和γ亚基构成。AMPK的表达在不同的肌纤维类型中存在差异： $\\gamma 3$ 仅表达在骨骼肌中，且在ⅡIb 型肌纤维中表达最高，其次是在ⅡIa型肌纤维中，而在I型肌纤维中则很难检测到[13]。过去10年，运用转基因和基因敲除小鼠以及化学激活剂或抑制剂技术对肌纤维类型的转化进行深入研究，鉴定出了一系列调节骨骼肌纤维类型的重要因子，其中最关键的就是能量感应器 AMPK，它能调节线粒体的生物合成、I型肌纤维的形成以及长期训练中的耐力适应性[14-15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "细胞内钙离子（ $\\mathrm { C a } ^ { 2 + }$ ）浓度，AMP/ATP比值增加都能激活AMPK，并通过调节线粒体生物合成、烟酰胺腺嘌呤二核苷酸（nicotinamide adenine dinucleotide，NAD+)水平、ATP 的生成以及自噬来维持机体的能量稳态，同时关闭由雷帕霉素靶蛋白（mTOR）介导的细胞生长与蛋白质合成相关的消耗大量ATP的通道，将代谢转向产生ATP的分解途径。AMPK通过协同 $\\mathrm { C a ^ { 2 + } }$ 第二信使传递的信号调控 $P G C  – 1 a$ 以及PGC- $1 \\beta$ 的表达，调节与肌细胞相关的代谢与分化，进而促进线粒体的生物合成、有氧代谢以及慢型肌纤维的形成，但同时肌肉的生长受到限制[16-17]。最新研究显示，猪的骨骼肌在兰诺定受体1（ryanodine receptor，RyR1)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的 R615C位点突变（ $\\mathrm { \\ R y R l ^ { R 6 1 5 C } }$ ）平均增加肌纤维直径（ ${ \\sim } 3 5 \\%$ )，而同时在 AMPKγ3 的第R2000Q位点突变（ $\\mathrm { \\ A M P K } \\gamma 3 ^ { \\mathrm { R 2 0 0 Q } }$ ）能增加线粒体蛋白含量（ ${ \\sim } 5 0 \\%$ ）以及氧化能力[18]，表明肌纤维直径大小与氧化能力可同步得到改善。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 SIRT1 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沉默信息调节因子（SIRTs）家族包括7个成员SIRT1\\~7，它们根据NAD+/还原型烟酰胺腺嘌呤二核苷酸（NADH)的比值变化参与调控细胞的能量状态[19]。到目前为止，对 SIRT1的调控机制研究得较为清楚。AMPK 通过增加细胞内 NAD+水平，来增强另一能量感受器一—SIRT1的活性，导致 SIRT1下游靶点的去乙酰化以及活性调节，其中最重要的下游靶点就是PGC-1α，肌肉组织中SIRT1通过自调节回路促进 $P G C  – 1 \\alpha$ 的转录[20]。AMPK诱导、SIRT1介导的靶点去乙酰化，解释了 AMPK 和 SIRT1 对能量代谢的许多共聚性的生物效应[21]。SIRT1 调节 PGC-1α 的活性在骨骼肌组织的能量代谢中发挥着重要作用，SIRT1/PGC-1α 能量轴也说明了机体细胞可通过转录机制调节能量代谢，但能量应激状态下 SIRT1与PGC-lα的相互作用机理尚不清楚。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "骨骼肌超表达 SIRT1基因的小鼠，其肌纤维类型由快型向慢型转化，氧化代谢与线粒体生物合成的标志性基因——PGC-1α表达水平上调，而特异性敲除 SIRT1基因小鼠，肌纤维类型组成则无显著改变[22，说明体内还存在其他途径调节正常的肌纤维类型组成以维持机体的代谢平衡；但正常状态下，SIRT1发挥着特殊的作用。最新研究报道，PGC-1α能选择性调节 SIRT3或 SIRT5，且SIRT5 对氧化磷酸化具有正向作用，而AMPK与PGC-1α调节SIRT5 的作用相反[23]。我们推测，SIRTs家族不同程度的参与了机体的能量代谢以及线粒体的生物合成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 PGC-1α ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "骨骼肌细胞的线粒体生物合成需要一系列的转录因子，包括PGC-1α及其下游蛋白线粒体转录因子A、核呼吸因子1和2[24]。PGC-1α存在于线粒体内，需要翻译后修饰才具有活性，包括乙酰化和磷酸化[25]。线粒体生物合成的增加能促进钙调素依赖性蛋白激酶（calcium/calmodulin dependent protein kinase，CaMK）、p38-丝裂原活化蛋白激酶（MAPK）和AMPK的激活，AMPK的激活能促使PGC-1α在苏氨酸第177位（ $\\mathrm { T h r ^ { 1 7 7 } }$ ）和丝氨酸第538位（ $\\mathrm { S e r } ^ { 5 3 8 }$ ）发生磷酸化，启动并活化PGC- $\\cdot 1 \\mathsf { a } ^ { [ 2 6 ] }$ 。除了这些磷酸化位点，PGC-1α还有许多不同的乙酰化位点，体内与体外研究均表明，SIRT1可以介导PGC-1α发生去乙酰化从而被激活[27-28]。因此，去乙酰化酶SIRT1和激酶AMPK都能增加PGC-1α的活性。PGC-1α是线粒体氧化代谢和细胞能量稳态的主要调节子，通过其下游的效应蛋白发挥作用，包括过氧化物酶体增殖激活受体 $\\mathfrak { a }$ （peroxisome proliferator-activated receptor α，PPARα）和雌激素相关受体 α(ERRα）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PGC-1α在维持肌纤维类型的正常组成以及完整性方面发挥着关键作用。PGC-1α在慢肌I型肌纤维中的表达量很高，而且能促进慢肌的形成[29]。骨骼肌PGC-1α特异性敲除小鼠，肌纤维类型从I和 $\\mathrm { I I }$ a型向 $\\mathrm { I I }$ x和 $\\mathrm { I I }$ b型转化，耐受力下降，且运动之后的炎性因子水平显著升高[30]。另有研究报道，小鼠肌肉组织特异性超表达PGC-1α，线粒体氧化代谢的调节作用增强[32]，且心肌、骨骼肌的线粒体含量以及毛细血管密度增加[31]。相反，小鼠肌肉组织特异性敲除PGC-1α，其骨骼肌线粒体含量降低，且与线粒体相关的基因表达量下降[30]。该研究未检测肌纤维类型的组成，但我们推测其组成将随着肌细胞线粒体含量的改变而发生变化。PGC-1α还能调节肌细胞的脂滴形成[32]，这更反映出PGC-1α在肌细胞能量代谢过程中的关键作用。啮齿类动物和人的骨骼肌组织中，PGC-1α在IIa型肌纤维中的表达量高于I型肌纤维，这似乎又表明PGC-1α在肌纤维类型的决定过程中并不是最重要的，可能需要与其他因子共同发挥调节作用，比如：钙调磷酸酶、活化T细胞核因子、CaMK、p38-MAPK和（或）PPAR8等[4]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3肌纤维类型与猪肉品质和人类健康的改善 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 对猪肉品质的改善 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "猪肉品质主要由猪的肌肉生物学特性决定，I型肌纤维是决定猪肉品质的一个重要因素，提高肌肉中I型肌纤维的含量有助于肉色、系水力和嫩度的提升，还可以降低pH下降的速率和幅度。研究发现，梅山猪MyHCI型肌纤维的比例与滴水损失呈显著负相关，且与 $\\mathrm { p H } _ { 4 5 }$ 和肌内脂肪含量呈显著正相关[33]。巴马香猪与长白猪的肉品质对比试验表明，其背最长肌中AMPK和 $P G C  – 1 \\alpha$ 基因的表达与氧化型肌纤维I、ⅡIa型呈极显著正相关[34]；与大白猪相比，二花脸猪背最长肌中含有较高比例的MyHCI型和IIa型肌纤维[32]；荣昌猪MyHC IIb型肌纤维的比例低于三元猪，而 $P G C  – 1 \\alpha$ 基因的表达水平则显著提高[35]，以上结果都可能与地方猪的优良肉质相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 对人类健康的改善 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "遗传因素决定了最基本的肌纤维类型，但是生理因素比如运动，可在出生后影响肌纤维类型的组成、线粒体的生物合成以及能量代谢途径。机体的胰岛素敏感性以及胰岛素刺激的葡萄糖转运与I型肌纤维的比例呈正相关[36]。长期的运动训练能增加氧化型肌纤维的比例和线粒体的生物合成，而这又促进运动能力以及脂肪酸和葡萄糖的氧化[37-38]，并伴随 AMPK以及SIRT1介导的PGC-1α去乙酰化[39]；反之，如果减少运动，尤其是在肥胖症或者慢性病状态下，I型和Ia型肌纤维比例降低，骨骼肌利用葡萄糖的能力以及胰岛素敏感性显著下降[40]。因此，通过运动训练能改变骨骼肌纤维类型的组成从而改善机体的健康。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肌纤维类型组成决定了骨骼肌组织最基本的生物学特性，能量感应网络AMPK/SIRT1/PGC-lα介导的肌纤维类型转化伴随着动物的生长发育，但其确切机制还需要进一步研究与探讨。肌细胞分化前的胚胎期成肌细胞有着分子特征的差异[41]，有必要了解胚胎期肌纤维类型的差异以及产生这种差异的成肌细胞谱系的分子机制，针对这些差异采取相应的营养干预方法，提高畜牧生产的同时，也为人的营养研究提供参考与借鉴。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]KARAGOUNIS L G,HAWLEY J A.Skeletal muscle:increasing the size of the locomotor cell[J].The International Journal of Biochemistry & Cell Biology,2010,42(9):1376-1379.   \n[2] CHANG K C,FERNANDES K.Developmental expresson and 5 end cDNA cloning of the porcine 2x and 2b myosin heavy chain genes[J].DNA Cell Biology,1997,16(12):1429-1437.   \n[3]GOUSPILLOU G,SGARIOTO N,NORRIS B,et al.The relationship between muscle fiber type-specific PGC- $1 \\alpha$ content and mitochondrial content varies between rodent models and humans[J].PLoS One,2014,9(8):e103044. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]MOYES C D,HOOD D A.Origins and consequences of mitochondrial variation in vertebrate muscle[J].Annual Review of Physiology,2003,65:177-201. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]GUEGUEN N,LEFAUCHEURL,FILLAUTM,et al.Controlofskeletalmuscle mitochondria respiration by adenine nucleotides:differential effect of ADP and ATP according to muscle contractile type in pigs[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,2005,140(2):287-297. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6] JOANISSE S,GILLEN JB,BELLAMY L M,et al.Evidence for the contribution of muscle stem cells to nonhypertrophic skeletal muscle remodeling in humans[J].The FASEB Journal,2013,27(11):4596-4605. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7] RELAIX F,ZAMMIT P S.Satellite cells are essential for skeletal muscle regeneration:the cell on the edge returns centre stage[J].Development,2012,139(16):2845-2856. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8] WANG J H,WANG Q J,WANG C,et al.Heterogeneous activation of a slow myosin gene inproliferatingmyoblastsanddifferentiatedsinglemyofibers[J].Developmental Biology,2015,402(1):72-80. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9] VENHOFF N,LEBRECHT D,PFEIFER D,et al.Muscle-fiber transdifferentiation in an experimental modelofrespiratory chain myopathy[J].ArthritisResearch and Therapy,2012,14:R233. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10] RODGERS J T,LERIN C,GERHART-HINES Z,et al.Metabolic adaptations through the PGC-1α and SIRT1 pathways[J].FEBS Letters,2008,582(1):46-53. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11] LAGE R,DIEGUEZ C,VIDAL-PUIG A,et al.AMPK:a metabolic gauge regulating whole-body energy homeostasis[J].Trends in Molecular Medicine,2008,14(12):539-549. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12] HARDIE D G.Energy sensing by the AMP-activated protein kinase and its effects on muscle metabolism[J].Proceedings of the National Academy of Sciences of the United States of America,2011,70(1):92-99. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13] IWABU M,YAMAUCHI T,OKADA-IWABU M,et al.Adiponectin and AdipoR1 regulate PGC-1α and mitochondria by Ca2+ and AMPK/SIRT1[J].Nature,2010,464(7293):1313-1319. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14] HARDIE D G,ROSS F A,HAWLEY S A.AMPK:a nutrient and energy sensor that maintains energy homeostasis[J].Nature Reviews Molecular Cell Biology,2012,13(4):251-262. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15] PARSONS S A,WILKINS B J,BUENO O F,et al.Altered skeletal muscle phenotypes in calcineurin Aα and Aβ gene-targeted mice[J].Molecular and Cellular Biology,2003,23(12):4331-4343. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16] KRAMEROVA I,KUDRYASHOVA E,ERMOLOVA N,et al.Impaired calcium calmodulin kinase signaling and muscle adaptation response in the absence of calpain 3[J].Human Molecular Genetics,2012,21(14):3193-3204. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17] SCHEFFLER T L,SCHEFFLER J M,PARK S,et al.Fiber hypertrophy and increased oxidative capacity can occur simultaneously in pig glycolytic skeletal muscle[J].American Journal of Physiology-Cell Physiology,2014,306(4):C354-C363. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18] FELDMAN J L,DITTENHAFER-REED K E,DENU J M.Sirtuin catalysisand regulation[J].Journal of Biological Chemistry,2012,287:42419-42427. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] JENINGA E H,SCHOONJANS K,AUWERX J.Reversible acetylation of PGC-1:connecting energy sensors and effectors to guarantee metabolic flexibility[J].Oncogene,2010,29(33):4617-4624. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] CHAU M D L,GAO J P,YANG Q,et al.Fibroblast growth factor 21 regulates energy metabolism by activating the AMPK-SIRT1-PGC-1α pathway[J].Proceedings of the National Academy of Sciences of the United States of America,2010,107(28):12553-12558. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21] CHALKIADAKI A,IGARASHI M,NASAMU A S,et al.Muscle-specificSIRT1 gain-of-function increases slow-twitch fibers and ameliorates pathophysiology in a mouse model of duchenne muscular dystrophy[J].PLoS Genetics,2014,1O(7):e1004490. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22] BULER M,AATSINKI S M,IZZI V,et al.SIRT5 is under the control of PGC-1α and AMPK and is involved in regulation of mitochondrial energy metabolism[J].The FASEB Journal,2014,28(7):3225-3237. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23] WU Z D,PUIGSERVER P,ANDERSSON U,et al.Mechanisms controlling mitochondrial biogenesis and respiration through the thermogenic coactivator PGC-1[J].Cell,1999,98(1):115-124. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24] AQUILANO K,VIGILANZA P,BALDELLI S,et al.Peroxisome proliferator-activated receptor $\\gamma$ Co-activator $1 \\alpha$ (PGC-1α) and sirtuin 1 (SIRT1） reside in mitochondria[J].The Journal of Biological Chemistry,2010,285(28):21590-21599. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25] JAGER S,HANDSCHIN C,ST.-PIERRE J,et al.AMP-activated protein kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1α[J].Proceedings of the National Academy of Sciences of the United States of America,2007,104(29):12017-12022. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26] LAGOUGEM,ARGMANNC,GERHART-HINES Z,etal.Resveratrol improves mitochondrial function and protects against metabolic disease by activating SIRT1 and PGC-1α[J].Cell,2006,127(6):1109-1122. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[27] GURD B J.Deacetylation of PGC-1α by SIRT1:importance for skeletal muscle function and exercise-inducedmitochondrialbiogenesis[J].AppliedPhysiology,Nutrition,and Metabolism,2011,36(5):589-597. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28] LIN J,WU H,TARR P T,et al.Transcriptional co-activator PGC-1α drives the formation of slow-twitch muscle fibres[J].Nature,2002,418(6899):797-801. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[29] HANDSCHIN C,CHOI C S,CHIN S,et al.Abnormal glucose homeostasis in skeletal muscle-specific PGC-1α knockout mice reveals skeletal muscle-pancreatic $\\beta$ cell crosstalk[J]. The Journal of Clinical Investigation,20O7,117(11):3463-3474. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[30] ARANY Z,FOO S Y,MA Y H,et al.HIF-independent regulation of VEGFand angiogenesis by the transcriptional coactivator PGC-1α [J].Nature,2008,451(7181):1008-1012. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31] MORMENEO E,JIMENEZ-MALLEBRERA C,PALOMER X,et al.PGC-1α induces mitochondrial and myokine transcriptional programs and lipid droplet and glycogen accumulation in cultured human skeletal muscle cells[J].PLoS One,2O12,7:e29985. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32]杨飞云.猪骨骼肌肌纤维类型分布及转化的分子机理研究[D].博士学位论文.雅安:四川农业大学,2008.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33]敖秋枪.骨骼肌肌纤维类型与巴马香猪肉质性状的相关性研究[M].硕士学位论文.南宁：广西大学,2014.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34] 杨晓静.猪骨骼肌生长及肌纤维类型分布的分子机理研究[D].博士学位论文.南京：南京农业大学,2004.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35] LARZUL C,LEFAUCHEUR L,ECOLAN P,et al.Phenotypic and genetic parameters for longissimus muscle fiber characteristics in relation to growth,carcass,and meat quality traits in large white pigs[J].Journal of Animal Science,1997,75(12):3126-3137. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36] HOLLOSZY J O.Regulation by exercise of skeletal muscle content of mitochondria and GLUT4[J].Journal of Physiology and Pharmacology,2008,59:5-18. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[37] YAN Z,OKUTSU M,AKHTAR Y N,et al.Regulation of exercise-induced fiber type transformation,mitochondrial biogenesis,and angiogenesis in skeletal muscle[J].Journal of Applied Physiology,2011,110(1):264-274. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[38] LI L,PAN R P,LI R,et al.Mitochondrial biogenesis and peroxisome proliferator-activated receptor-y coactivator $1 \\alpha$ (PGC-1α) deacetylation by physical activity:intact adipocytokine signaling is required[J].Diabetes,2011,60(1):157-167. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[39] ZIERATH JR,HAWLEY J A.Skeletal muscle fiber type:influence on contractile and metabolic properties[J].PLoS Biology,2004,2(10):e348. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[40] WEIMER K,THEOBALD J,CAMPBELL K S,et al.Genome-wide expression analysis and EMX2 gene expression in embryonic myoblasts commited to diverse skeletal muscle fiber type fates[J].Developmental Dynamics,2013,242(8):1001-1020. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[41] KOLTAI E,SZABO Z,ATALAY M,et al.Exercise altersSIRT1,SIRT6,NAD and NAMPT levelsinskeletal muscle ofagedrats[J].Mechanismsof Ageing and Development,2010,131(1):21-28. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Advances of Energy Sensing Network AMPK/SIRT1/PGC-lα Involved in Regulating Skeletal ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Muscle Fiber Type Transformationi ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WEN Chaoyue1,2DUAN Yehui2.3 LI Yinghui2.3GUO Qiuping2,3KONG Xiangfeng²LI Fengna2\\*   \n(1. College of Veterinary Medicine, Hunan Agricultural University, Changsha 41O128, China; 2. Key Laboratory ofAgro-Ecological Processes in Subtropical Region, Institute of Subtropical   \nAgriculture, Chinese Academy of Sciences, Changsha 410125, China; 3. University of Chinese Academy of Sciences, Beijing 100049, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: AMP-activated protein kinase (AMPK)， peroxisome proliferator-activated receptor Y co-activator lα (PGC-1α) and silent information regulator 1 (SIRT1） act as an orchestrated network to regulate the signal of cellular energy output, that is called energy sensing,to modulate energy metabolism, mitochondria and muscle fiber transformation of the whole body. This review extracted the new advances and summarized the critical roles of the AMPK/PGC-1α/SIRT1 energy network in regulating muscle fiber transformation， so as to provide references for livestock production and human nutrition. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: skeletal muscle fiber-type transformation; AMPK/SIRT1/PGC-lα; mitochondrial function; energy metabolism ",
+        "page_idx": 13
+    }
+]

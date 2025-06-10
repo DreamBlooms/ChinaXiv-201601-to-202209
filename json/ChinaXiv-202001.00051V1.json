@@ -1,0 +1,578 @@
+[
+    {
+        "type": "text",
+        "text": "秦巴山特困区农户生计资本及生计策略研究一以商洛市为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘倩}²，张　戩²，何艳冰³，杨新军²（1重庆师范大学地理与旅游学院,重庆401331;2西北大学城市与环境学院,陕西西安710127；3河南理工大学建筑与艺术设计学院,河南焦作454000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于秦巴山商洛地区农户问卷调查数据，在可持续生计框架下，聚焦不同群体之间生计资本状况,并探讨其农户生计资本对生计策略选择的影响以及生计资本的耦合性。结果表明：（1）山区农户生计策略出现明显分化,依据非农收入比重分为纯务工型、务工主导型、兼业型和纯农型4种类型。（2）调研样本中农户生计资本有限和不均衡，呈现金融资本和社会资本相对较高，自然资本、人力资本偏低的特征。非贫困户中兼业型生计资本总值最高，务工主导型、纯务工型次之，纯农型最低;贫困户中务工主导型生计资本总值最高,纯务工型、兼业型次之，纯农型最低。（3）非贫困户中人均耕地面积、人均林地面积、耕地质量、职业技能水平、政治资源、就业网络对纯务工型农户向务工主导型、兼业型转变有着积极影响，家庭人均收入、男性劳动力比例则具有负向影响;家庭人均收入和职业技能水平对于纯务工型向纯农型转变有负向影响。贫困户中人均耕地面积、人均林地面积、政治资源对纯务工型农户向务工主导型、兼业型和纯农型转变具有正向影响，家庭人均收入、劳动力教育水平、职业技能水平、联系成本则具有负向影响。（4）非贫困农户生计资本耦合度依次为兼业型 $>$ 务工主导型 $>$ 纯务工型 $>$ 纯农型；贫困农户则为兼业型 $>$ 纯务工型 $>$ 务工主导型$>$ 纯农型。因此，开展农户可持续性生计研究，对于农户减贫、促进乡村地区发展具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：农户；生计资本；生计策略；秦巴山区 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "改革开放以来，我国扶贫工作已取得巨大成就，然而截止2017年底仍有 $3 . 0 4 6 \\times 1 0 ^ { 7 }$ 贫困人口[1],乡村贫困问题仍是统筹城乡发展与全面建成小康社会面临的现实难题[2]。20 世纪90 年代以来,生计一词被广泛应用于贫困治理和农村发展的论述中，国内外研究表明提高贫困地区人口谋生能力，帮助贫困人口建立可持续生计才是减贫的目标所在[3],尤其是偏远的生态脆弱区，非农化程度低且生计多样化发展缓慢，实现农户生计资本提升和生计策略优化才是有效脱贫的关键[4]。因此,准确量化农户生计资产和探究生计策略影响因素，不仅对从根源上识别农户发展的优势资源、关键影响要素和未来发展态势具有重要意义；同时，也为新形势下解决乡村贫困化问题乃至乡村可持续发展问题提供了理论",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生计资产是农户生计结构的物质基础，决定着生计方式的选择[5],对生计资本的测度成为探索农户生计策略的重要起点[5]。近年来,国内外学者围绕农户生计资本和生计策略展开较多案例研究，其研究内容主要涉及：（1）生计资本量化问题。SHARP[6]较早地测度非洲地区农户生计资本状况。YAN 等[7]、李小云等[8]和杨云彦等[9]讨论了中国农户生计资本测量指标的选择问题。（2）生计资本对于生计策略选择的影响因素分析。生计策略一定程度上取决于生计资本的禀赋特征[10]。如贫困地区的农户生计主要依赖土地等自然资本[5]；西南山区自然和人力资本提高对农户生计具有积极影响[1];西北高原地区物质和金融资本的短缺限制了农户生计多样化水平的提升[12],对农户选择农业与非农业也具有影响[13]。在城市化地区,人力资本在农户生计策略选择中扮演着重要角色[14]。同时,也有学者探讨地理资本[15]、心理资本[16]、社会资本[17]、人力资产[18]等对乡村生计策略的影响。（3）生计资本与生计策略耦合关系研究[19-20]。此外,也有学者关注自然灾害、城市化、乡村旅游等外部生计背景变化对农户生计资本状况及生计策略选择的影响[21-23]。在研究方法上，多以定性或定量方法为主。生计资本量化方法多通过建立评价指标体系，综合评价农户生计资产的量值，以此作为衡量农户生计资本存量的依据[8]。对生计策略的影响分析中多通过回归分析、因子分析或空间回归模型等方法[12,24],揭示农户生计资本及生计策略的复杂关系。在研究对象方面，往往聚焦生态环境脆弱区或灾害多发地区，围绕高原农牧民[7,12]、绿洲区农户[19]、林区农户[25]和灾区农户[26]等展开研究。从已有研究看，国内外学者已取得不少有价值的成果，然而，对于综合性贫困地区农户生计问题重视不够，特别是在精准扶贫的背景下，准确评估特困区农户生计资本禀赋特征以及辨识农户生计资本“短板”仍存在一定不足；更缺少对典型案例地农户生计资本对生计策略关键影响机制探讨，不同群体之间生计策略影响要素的差异性也亟需分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "秦巴山特困区是跨省份最多的区域，2016年，仍有 $2 . \\ 5 6 \\times 1 0 ^ { 6 }$ 贫困人口，占全国贫困人口的$1 1 . 7 3 \\%$ ,贫困发生率高达 $9 . 1 \\%$ ，高出全国均值4.6个百分点，贫困现象突出。本文拟以秦巴山商洛市为例，依据可持续性生计框架，探讨不同类型农户生计资本特征和差异;同时采用Logistic回归分析进一步揭示农户生计资本对生计策略选择的影响因子，并对生计资本耦合性进行评价，为特困区农户可持续生计和贫困治理的相关研究提供借鉴，为提高精准扶贫效率乃至2020年后解决相对贫困问题提供理论基础和参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "秦巴山特困区位于我国中西部，地跨豫、鄂、川、陕、甘和渝5省1直辖市的80个县区，总面积$2 . 2 5 \\times 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ ，占国土面积的 $2 . 3 4 \\%$ ；总人口$3 . 7 6 5 \\times 1 0 ^ { 7 }$ 人，占全国人口的 $2 . 8 1 \\%$ 。该片区含国家扶贫重点县72个，革命老区县47个。商洛市（ $1 0 8 ^ { \\circ } \\ 3 4 ^ { \\prime } \\ 2 0 ^ { \\prime \\prime } \\ \\sim \\ 1 1 1 ^ { \\circ } \\ 0 1 ^ { \\prime } \\ 2 5 ^ { \\prime \\prime } \\ \\mathrm { E }$ ， $3 3 ^ { \\circ } \\ 0 2 ^ { \\prime } \\ 3 0 ^ { \\prime \\prime }$ \\~$3 4 ^ { \\circ } 2 4 ^ { \\prime } 4 0 ^ { \\prime \\prime } \\mathrm { \\Delta N } \\mathrm { \\Omega } ,$ )地处秦岭腹地的陕南东部，境内岭谷相间排列，地势西北高，东南低，由西北向东南延伸，面积 $1 . 9 6 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,森林覆盖率 $6 6 . 5 \\%$ ,耕地资源$1 . 9 5 2 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ （图1）。2017年全市人口 $2 . 5 3 3 \\times$ ${ 1 0 } ^ { 7 }$ 人，地区生产总值为 $8 8 0 . 7 7 \\times 1 0 ^ { 8 }$ 元，常住人口城镇化率为 $4 5 . 6 1 \\%$ ,农村居民人均可支配收入9132元，分别比陕西省和全国平均水平低1133元和4300元。商洛市下属1区6县均属于国家级贫困县。2017年商洛市仍有 $1 . 7 6 3 \\times 1 0 ^ { 5 }$ 贫困户,$5 . 8 3 1 \\times 1 0 ^ { 5 }$ 贫困人口，贫困人口占全市总人口的$2 3 . 2 3 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以县政府、扶贫办公室等部门提供的二手资料作为背景资料，主要包括各县区的统计资料、政府工作报告、扶贫政策等。一手数据使用2017年7月在商洛市开展农户调查和关键人物（村或乡镇干部)深度访谈资料。为聚焦贫困地区农户的生存状态和特征，采用分层抽样方法选取4县12乡镇24个重点贫困村为调研点对农户进行问卷调查。以户主为调查对象，每户调研时间均为30分钟以上，共发放问卷486份，有效问卷484份，有效率为$9 9 . 5 8 \\%$ 。依据当地政府精准扶贫过程中划定的是否为建档立卡贫困户，将调查农户初步划分为贫困户和非贫困户，其中建档立卡贫困户有241户，非贫困户有243户。调查内容包括：（1）户主和其他家庭成员基本信息：人口结构、年龄、从业状况、健康状况和教育水平等。(2)家庭收支状况：收入来源与日常消费支出。(3)生计资本状况：自然资本、物质资本、社会资本和金融资本等。访谈内容涉及社区农业资源状况、农村产业发展和扶贫措施等，共计31人次。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/963fb88053f47a357a64e8272012de96e66386d32dcd94125bfd0af253e891e6.jpg",
+        "img_caption": [
+            "图1研究区域与调研点",
+            "Fig.1Sketch map of the study area and investigation samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文对所回收问卷进行信度与效度检验。Cronbach's $\\alpha$ 值为 $0 . 7 0 0 \\geqslant 0 . 7 0 0$ ,KMO检验值为$0 . 7 8 5 > 0$ .600，Bartlett's检验出的相伴概率为0.000，小于显著水平0.05。表明调查问卷的内容之间有较好的一致性，本问卷有良好的可信度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 农户类型划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "已有研究对农户类型划分进行了探索，如JANSEN等[15]依据家庭劳动力配置和作物种类将农户划分为7类、NIELSEN等[27]基于农户对创收活动的投人成本将农户划分为5类。国内学者多依据收入来源进行划分[7,28]。本文结合实地调研情况,将研究区农户生计活动划分为3类：（1）农业活动：种植和养殖活动。其中，种植包括栽种小麦、玉米、马铃薯等粮食作物，核桃、板栗、药材、香菇等经济类作物；养殖包括饲养牛、猪、蜜蜂等。（2）打工活动：本地的短期工和驻外的长期工。例如,建筑工人、矿工、运输人员或其他临时工等。（3）其他非农活动：除打工以外的非农经营。例如，经营农家乐等。本文依据非农收入占总收入的比重将农户划分为4类：纯务工型（非农业收人比重 $\\geqslant 9 0 \\%$ ）、务工主导型（ $5 0 \\%$ ≤非农业收入比重 $\\textmd { < } 9 0 \\%$ )，兼业型（ $10 \\%$ ≤非农收入 $< 5 0 \\%$ )和纯农型（非农收入 $\\angle { \\angle }$ $10 \\%$ ）。其中，纯务工型217户，务工主导型109户，兼业型81户，纯农型77户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生计资本指标选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据可持续生计框架[5],生计资本包括自然资本、物质资本、金融资本、人力资本和社会资本。参考相关研究成果[7-8,12],构建生计资本指标体系（表1)。其中，自然资本泛指生计的资源流及相关的服务，包括无形的公共资本和有形的直接用于生产的资本。采用人均耕地面积、人均林地面积和耕地质量来测度。物质资本是指用于生产与生活的基础设施与物质设备，采用家庭固定资本、牲畜养殖和房屋状况来衡量。金融资本主要是指农户可支配和筹措的现金以及贷款机会，用家庭人均收人和有无贷款机会来衡量。人力资本代表知识、技能、能力和健康状况，是最为基础的生计资本。选取男性劳动力比例、劳动力教育水平和劳动力职业技能水平来衡量。社会资本是指农户为了实施生计策略而利用的社会资源，即社会关系网络和关联。本文采用政治资源、就业网络、社会信任和联系成本进行衡量，",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/214abee4bb5dd111ce684ecb5435bf848dc738633b5e2ba7f5fff716143451ae.jpg",
+        "table_caption": [
+            "表1农户生计资本指标体系",
+            "Tab.1Index system of household's livelihood assets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>指标</td><td>权重</td><td>赋值与释义</td><td>均值</td></tr><tr><td></td><td>自然资本人均耕地面积（N）／hm²</td><td>0.0417</td><td>耕地(含旱地、田地)面积与家庭人口数比值</td><td>0.039 5</td></tr><tr><td>(N)</td><td>人均林地面积(N)／hm²</td><td>0.054 3</td><td>林地面积与家庭人口数比值</td><td>0.0317</td></tr><tr><td rowspan=\"3\">(M)</td><td>耕地质量（N3）</td><td>0.051 3</td><td>农户感知：很差、较差、一般、较好和非常好，分别赋值1、2、3、4、5</td><td>2.754 0</td></tr><tr><td>物质资本家庭固定资本(M)</td><td>0.052 0</td><td>家庭耐用消费品（电脑、洗衣机、电视机、摩托车、电瓶车、冰箱、空调、小汽2.3840 车、货车、太阳能等)拥有量</td><td></td></tr><tr><td>牲畜养殖（M）</td><td>0.0211</td><td>按羊单位计算：牛(1头）=5;羊(1只）=1,猪(1头）=1.5;兔(1只）= 0.125;鸡鸭(1只）=0.05；蜜蜂(1箱）=1</td><td>2.0240</td></tr><tr><td></td><td>房屋状况（M3）</td><td>0.0960</td><td>房屋类型与房屋质量之和。房屋类型：土房、土砖房、混凝土和楼房，分别4.2670 赋值：1、2、3、4。房屋质量：危房、一般、较好、非常好，分别赋值：1、2、3、4</td><td></td></tr><tr><td>(F)</td><td>金融资本家庭人均收入（F）／元</td><td>0.050 6</td><td>年总收入与家庭人口的比值</td><td>7 815.6</td></tr><tr><td></td><td>有无贷款机会（F2）</td><td>0.217 5</td><td>拥有农村信用社、商业银行的贷款机会赋值1，没有赋值0</td><td>0.616 0</td></tr><tr><td>(H)</td><td>人力资本男性劳动力比例(H)</td><td>0.0238</td><td>男性劳动力数量与家庭人口数量比值</td><td>0.342 0</td></tr><tr><td></td><td>劳动力教育水平(H)</td><td>0. 052 4</td><td>成年劳动力教育水平赋值,并求和。教育水平文盲赋值1,小学赋值2,初3.9690 中赋值3,高中或专科赋值4,大学及以上赋值5</td><td></td></tr><tr><td rowspan=\"5\">(s)</td><td>职业技能水平(H3)</td><td>0.048 5</td><td>成年劳动力职业技能水平赋值,并求和。劳动力职业技能水平：在企事业5.3860 单位或个体经营劳动力赋值5,受雇佣劳动力（长期受雇于企业主,有相对 稳定的收入)赋值4，非农业劳动力(无固定岗位，以打零工为主)赋值3，</td><td></td></tr><tr><td>社会资本政治资源（S）/人</td><td>0.0510</td><td>农业劳动力赋值2;其他赋值1 亲朋在企事业单位或村委会任职人数</td><td></td></tr><tr><td>就业网络（S）／户</td><td>0.139 5</td><td>寻找非农就业机会可求助亲友的家庭户数</td><td>0.229 0 0.837 0</td></tr><tr><td>社会信任（S）</td><td>0.0273</td><td>对周围人的信任程度：几乎没有赋值1,小部分赋值2,一般赋值3,绝大部3.1570</td><td></td></tr><tr><td>联系成本（S4）／元</td><td>0.0730</td><td>分赋值4，全部赋值5 通讯费：每年人均手机话费</td><td>282.38</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 生计资本测算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生计资本测算主要步骤为：（1）数据标准化。本文采用极差正规化方法将数值转化到0\\~1之间。(2)权重确定。依据指标体系的特征、数据间的相互关系，采用熵值法确定指标权重。（3)对生计资本进行测算。依据指标权重和标准化结果，确定农户生计资本的数值。其计算公式为[12]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\sum _ { i = 1 } ^ { 5 } P _ { i } = \\sum _ { 1 } ^ { 5 } \\sum _ { j = 1 } ^ { n } W _ { i j } X _ { i j } ^ { ' }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $T$ 为生计资本总量; ${ \\boldsymbol { P } } _ { i }$ 为各类生计资本值; $\\boldsymbol { W } _ { i j }$ 为第 $i$ 类生计资本的第 $j$ 个指标的权重；为原始数据标准化后的值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4生计策略影响因素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Logistic回归模型是一种针对二分类或多分类因变量进行回归分析时采用的统计方法，与线性回归不同，Logistic回归是一种非线性模型，通常采用最大似然估计法对回归参数进行估计。本文选用多项logistic回归方法分析农户生计策略选择的影响因素。将农户生计策略“纯务工型”、“务工主导型”、“兼业型”和\"纯农型”作为因变量，取值限定在[0,3]，即把4类生计策略分别定义为多项无序性变量 $y = ( y _ { 0 } , y _ { 1 } , y _ { 2 } , y _ { 3 } )$ ,并将 $y _ { 0 }$ “纯务工型”作为参照水平,自变量为 $x = \\left( \\ b { x } _ { 1 } , \\ b { x } _ { 2 } , \\cdots , \\ b { x } _ { i } \\right)$ 。 $Y$ 的条件概率为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np \\ \\bigg ( \\ y = k \\ : | \\ : x \\ \\bigg ) = \\exp \\bigg ( \\ : y _ { k } \\ \\bigg ) \\bigg / 1 + \\sum _ { k = 0 } ^ { 3 } \\exp \\big ( \\ : y _ { k } \\ : \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相应的Logistic回归模型为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { y _ { k } = \\ln \\{ \\frac { p ( \\ f y = k \\mid x ) } { p ( \\ f y = 0 \\mid x ) } \\} } } \\\\ & { } & \\\\ & { } & { = \\beta _ { 0 k } + \\beta _ { 1 k } \\times x _ { 1 } + \\beta _ { 2 k } \\times x _ { 2 } + \\dots \\beta _ { i k } \\times x _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $p$ 为事件发生的概率； $x _ { 1 } , x _ { 2 } , \\cdots , x _ { i }$ 为自变量;  \n参数 $\\beta _ { 0 k } , \\beta _ { 1 k } , \\cdots , \\beta _ { i k }$ 为回归待定系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5生计资本耦合协调度计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "耦合协调度（Coupling coordinative degree）是衡量系统或系统内部要素之间发展过程中彼此和谐一致的程度，体现了系统由无序走向有序的趋势。农户生计的可持续性不仅取决于各组成部分的量值，也与各要素之间的耦合协调状态相关。生计资本各要素之间配合得当、良性循环的关系，是生计系统保持健康发展的条件[19]。构建生计资本耦合协调度模型，其计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\Big [ \\prod _ { i = 1 } ^ { 5 } P _ { i } \\Big / \\Big ( \\sum _ { i = 1 } ^ { 5 } P _ { i } \\Big ) ^ { 5 } \\Big ] ^ { \\frac { 1 } { 5 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\sqrt { C \\times T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { P } _ { i }$ 为各类生计资本的量值； $C$ 为生计资本耦合度； $D$ 为生计资本耦合调度; $T$ 为家庭生计资本总指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3农户生计类型及生计资本测度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 不同类型农户特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各类农户特征如表2所示：（1）纯务工型占比最高，为 $4 4 . 8 3 \\%$ 。其中,非贫困户数占 $5 8 . 9 9 \\%$ 。其户主文化程度较高，家庭劳动力数量最多，家庭总收入相对较高;生计活动以“常年务工”为主，农业用地多弃耕或土地流转；生计多样性指数较低。(2）务工主导型占比 $2 2 . 5 2 \\%$ 。贫困户比例占$6 2 . 3 8 \\%$ 。该类型农户以“短期务工或季节性务工 $^ +$ 务农”为主，务工是主要收入来源,其生计多样性指数相对较高。（3）兼业型占比 $1 6 . 7 3 \\%$ 。非贫困农户比例为 $6 9 . 1 4 \\%$ 。其户主受教育程度、总收入和生计多样性指数均最高，采用多元经营为主。（4）纯农型占比最低，为 $1 5 . 9 1 \\%$ 。贫困户数比例为 $7 6 . 6 2 \\%$ 。其中，耕地数量相对最多，家庭劳动力、总收入处于最低水平，生计活动以务农为主，生计多样化指数较低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纯务工型和务工主导型占总样本的 $6 7 . 3 5 \\%$ ，这表明在山区农户务工主业化趋势较明显。相比之下，纯农型仅占总样本的 $1 5 . 9 1 \\%$ ，且纯务工型、务工主导型和兼业型的农业收入比重较少，农业边缘化或副业化现象较为明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2农户生计资本测度及差异 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1农户生计资本农户生计资本测度结果如表3所示。农户资本总量依次为：兼业型 $>$ 纯务工",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e445f1b73117204c21ff1eb1dfc88a3b2af7db52939c6ff465fa5dbd1438526b.jpg",
+        "table_caption": [
+            "Tab.2Classification of rural households'livelihood activities "
+        ],
+        "table_footnote": [
+            "注;t 检验用于检验均值,LR(likelihood ratio)检验用于检验分布。 $* , * * , * * * *$ 分别表示 $10 \\%$ （20 $5 \\%$ 和 $1 \\%$ 的显著性水平。收入多样性指数是指农户收入来源的多样性高低和各种收入的均衡程度。其计算公式为： $p \\ = - \\ \\sum _ { i \\ = 1 } ^ { s } p _ { i } \\mathrm { l n } p _ { i }$ ，式中 ${ } _ { : p }$ 为收入多样性指数,s为家庭收入来源种类， $p _ { i }$ （20为某一项收入i占家庭总收入的比重"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>纯务工</td><td>务工主导型</td><td>兼业型</td><td>纯农型</td><td>LR或t检验结果</td></tr><tr><td>非农收入比重</td><td>90% ~ 100%</td><td>50% ~90%</td><td>10% ~50%</td><td>0 ~10%</td><td>1</td></tr><tr><td>样本量</td><td>217</td><td>109</td><td>81</td><td>77</td><td>一</td></tr><tr><td>非贫困户</td><td>128</td><td>41</td><td>56</td><td>18</td><td>1</td></tr><tr><td>贫困户</td><td>89</td><td>68</td><td>25</td><td>59</td><td>1</td></tr><tr><td>户主受教育程度</td><td>2.304</td><td>2.156</td><td>2.630</td><td>1. 779</td><td>**</td></tr><tr><td>劳动力数量</td><td>3.207</td><td>3.000</td><td>2.852</td><td>0.987</td><td>***</td></tr><tr><td>人均耕地面积／hm</td><td>0.465</td><td>0.597</td><td>0.631</td><td>1.056</td><td>***</td></tr><tr><td>人均林地面积／hm</td><td>1.901</td><td>3.801</td><td>4.885</td><td>3.313</td><td>**</td></tr><tr><td>务工收入／104元</td><td>3.964</td><td>1.958</td><td>0.566</td><td>0.001</td><td>***</td></tr><tr><td>务农收入／104元</td><td>0.123</td><td>0.424</td><td>0.333</td><td>0.493</td><td>**</td></tr><tr><td>总收入／104元</td><td>4.089</td><td>2.630</td><td>4.553</td><td>0.493</td><td>***</td></tr><tr><td>生计多样性指数</td><td>0.196</td><td>0.546</td><td>0.625</td><td>0.368</td><td>***</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3不同类型农户生计资本统计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/051424de20ab000a389e9b68d4e5a0199646a817f00f5fa2bb302e3bf5b97b70.jpg",
+        "table_caption": [
+            "表2农户生计活动类型划分",
+            "Tab.3Statistics of livelihood assets of different types ofrural households "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>自然 资本</td><td>物质 资本</td><td>金融 资本</td><td>人力 资本</td><td>社会 资本</td><td>资本 总量</td></tr><tr><td>纯务工型</td><td>0.030</td><td>0.065</td><td>0.158</td><td>0.038</td><td>0.076</td><td>0.367</td></tr><tr><td>务工主导型</td><td>0.036</td><td>0.061</td><td>0.163</td><td>0.034</td><td>0.071</td><td>0.365</td></tr><tr><td>兼业型</td><td>0.039</td><td>0.073</td><td>0.166</td><td>0.041</td><td>0.098</td><td>0.418</td></tr><tr><td>纯农型</td><td>0.040</td><td>0.036</td><td>0.062</td><td>0.010</td><td>0.042</td><td>0.191</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "型 $>$ 务工主导型 $>$ 纯农型。从资本类型上看，金融资本相对最高，由于山区劳动力大量外出务工以及国家精准扶贫实施，农户收入水平和金融资源的可获性得以提高。社会资本也相对较高，表明社会资本在农户生产和生活中可提供外部支持和帮助较大。人力资本则较低,这与秦巴山区地理位置相对孤立、社会经济以及教育、医疗水平长期落后的实情不无关系，人力资本质量难以提高。同时，由于城镇化、工业化驱动，山区大量劳动力特别是素质较高的青壮年外迁，导致山区农村人力资本存量和质量进一步降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2非贫困户中各类农户生计资本测度非贫困户中总资本依次为（图2a)：兼业型 $( 0 . 4 5 1 ) >$ 务工主导型（0.393） $>$ 纯务工型（0.382）>纯农型(0.215）。各类资本间也有一定差异。其中，自然资本：各类农户总量差异不明显，主要原因是商洛地区耕地资源短缺，耕地质量总体不高。物质资本：纯务工型、务工主导型、兼业型3类相差不大，纯农型最低。金融资本差异较大，依次为：兼业型最高，务工主导型、纯务工型次之，纯农型较低。人力资本中兼业型稍高于纯务工型和务工主导型，明显高于纯农型。社会资本依次为：兼业型 $>$ 纯务工型 $>$ 务工主导型 $>$ 纯农型。务工主导型政治资源最丰富，就业网络最广泛。纯务工型农户的社会信任度最高，联系成本也最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3贫困户中各类农户生计资本测度农户生计资本总量依次为：务工主导型（0.348） $>$ 纯务工型（0.345) $>$ 兼业型（0.341) $>$ 纯农型（0.184）。如图2b所示：自然资本中纯农型较高。物质资本：兼业型最高，纯务工型、务工主导型次之，纯农型最低。兼业型农户物质资本较多，源于精准扶贫的实施，促进收入来源的多样化。金融资本：务工主导型最高、纯农型最低。与非贫困户相比，贫困户人均收入明显较低，但其贷款机会整体高于与非贫困户。人力资本：纯务工型最高，纯农型最低，纯农型贫困户高于纯农型非贫困户。社会资本：务工主导型社会资本最高，纯农型均低处于最低水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.4非贫困户与贫困户生计资本差异性各类农户资本总量中（图2），非贫困户中纯农型低于贫困户中的纯务工型、务工主导型和兼业型农户，这表明非贫困户的纯农型家庭资本较为短缺，也预示着该类农户极易陷入贫困，在精准扶贫中应防范纯农型非贫困户落入贫困陷阱。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e1efc9b655a54c8f9c1a0e8dcf4d8ca2fcf8bc006481118461b1a4de2ab5fe1.jpg",
+        "img_caption": [
+            "干吴区地理",
+            "图2非贫困户和贫困户生计资本分布",
+            "Fig.2Distribution of livelihood assets of non-poor and poor households "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS软件中独立样本T检验方法检测各类资本差异性，结果如表4所示，贫困户与非贫困户中纯农型在社会资本差异巨大（T检验结果为16.591，为 $1 \\%$ 的显著水平），预示着社会资本在帮助农户生计发展方面起着一定作用,扶贫实践中应注重纯农型贫困户社会资本的积累;兼业型、务工主导型农户在人力资本（ $T$ 检验分别为15.564、11.463，均为 $1 \\%$ 的显著水平)差异也较大,说明贫困户提高人力资本对缩小与非贫困户之间的差异具有一定作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4生计资本对生计策略选择的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1非贫困户生计策略选择的影响因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "模型的对数似然值为388.799，卡方检验值为179.304，显著性水平（Sig.）为 $0 . 0 0 0 ( \\ < 0 . 0 5 )$ ，模型具有显著意义。具体结果见表5。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1.1自然资本的影响人均耕地面积、人均林地面积和耕地质量是影响非贫困户生计策略由纯务工型向兼业型转变的关键指标，具有显著正向影响。相对纯务工型，人均耕地面积、人均林地面积和耕地质量每增加一个单位，农户由纯务工型向兼业型转变的机率分别增加 $1 1 5 9 . 7 \\% . 5 9 2 . 1 \\%$ 和$1 1 1 8 . 2 \\%$ 。这表明非贫困户的人均耕地面积、人均林地面积越多且土地质量越好，成为兼业型农户可能性越大。调查还发现非贫困户中农林资源越丰富，农户越倾向保留农业生产活动，同时在农闲时期选择在村镇周边打零工或做小生意等，促进其兼业型生计的发展。此外，耕地质量也是影响非贫困户生计策略由纯务工型转向务工主导型的关键指标，具有显著正向影响。相对纯务工型，耕地质量每增加一个单位，农户向务工主导型转变的机率增加 $5 2 1 . 0 \\%$ ,这主要是由于商洛地区人均耕地较少，农业生产条件较差，对于农户而言，耕地质量越好农业生产收益越高，农户越倾向投入劳动力，而非选择单一的纯务工生计。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c92554d1d89e1cff8860068c1a28764f80bb89443fefae15b9b8efec17fcfe19.jpg",
+        "table_caption": [
+            "表4贫困户与非贫困户差异性分析 ",
+            "Tab.4Different analysis between poor household and non-poor household "
+        ],
+        "table_footnote": [
+            "注： $* \\ 、 * * * * * *$ 分别表示 $10 \\%$ （204号 $5 \\%$ 和 $1 \\%$ 的显著性水平"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td>自然资本</td><td>物质资本</td><td>金融资本</td><td>人力资本</td><td>社会资本</td><td>资本总量</td></tr><tr><td>纯务工型</td><td>0.007</td><td>0.158 ***</td><td>3.480</td><td>4.012 ***</td><td>5.039 **</td><td>0.212 *</td></tr><tr><td>务工主导型</td><td>4.762</td><td>6.830***</td><td>0.761</td><td>11.463***</td><td>0.851</td><td>0.090 *</td></tr><tr><td>兼业型</td><td>1.430</td><td>0.027 **</td><td>0.096</td><td>15.564 ***</td><td>10.002***</td><td>1.176 **</td></tr><tr><td>纯农型</td><td>1.636</td><td>2.449</td><td>0.051</td><td>6.376 **</td><td>16.591***</td><td>0.393</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/70a9d2647f7d56b26e82dcb369c9d5b9a49ac4a66b368977ee6c12ad6406c6d4.jpg",
+        "table_caption": [
+            "表5非贫困户生计策略选择的Logistic回归分析",
+            "Tab.5Logistic regression analysis of non-poor household'livelihood strategies "
+        ],
+        "table_footnote": [
+            "注： $^ { * } \\texttt { * * } , * * * *$ 分别表示 $10 \\%$ （204号 $5 \\%$ 和 $1 \\%$ 的显著性水平。 $B$ 为自变量回归系数。未列出不显著的指标"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"2\">务工主导型</td><td colspan=\"2\">兼业型</td><td colspan=\"2\">纯农型</td></tr><tr><td>B</td><td>Exp(B)</td><td>B</td><td>Exp(B)</td><td>B</td><td>Exp(B)</td></tr><tr><td>人均耕地面积(Ni)</td><td>2.408</td><td>11. 116</td><td>2.533 *</td><td>12. 597</td><td>6.672</td><td>790. 18</td></tr><tr><td>人均林地面积(N2)</td><td>0.385</td><td>1. 469</td><td>1.935 *</td><td>6. 921</td><td>-2. 631</td><td>0.072</td></tr><tr><td>耕地质量（N3）</td><td>1.826 **</td><td>6.210</td><td>2.500***</td><td>12. 182</td><td>12. 005</td><td>163 498. 520</td></tr><tr><td>家庭人均收入（F)</td><td>-4.520***</td><td>0.011</td><td>0.345</td><td>1. 412</td><td>-27.609 **</td><td>0.000</td></tr><tr><td>男性劳动力比例(H)</td><td>0.926</td><td>2. 524</td><td>-5.142 **</td><td>0.006</td><td>-7.957</td><td>0.000</td></tr><tr><td>职业技能水平(H)</td><td>3.192 **</td><td>24. 339</td><td>3.089 **</td><td>21. 953</td><td>-41.482 *</td><td>0.000</td></tr><tr><td>政治资源(S)</td><td>0.730</td><td>2. 075</td><td>1.901**</td><td>6. 694</td><td>-0.367</td><td>0. 693</td></tr><tr><td>就业网络（S2）</td><td>0.041</td><td>1.042</td><td>0.965 *</td><td>2.624</td><td>-2.010</td><td>0.134</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.2金融资本的影响家庭人均收入是影响非贫困户生计策略由纯务工型向务工主导型、纯农型转变的关键指标，具有显著负向影响。但相对纯务工型，家庭人均收入每增加一个单位，非农户由纯务工型转为务工主导型、纯农型的机率分别下降$9 8 . 9 \\%$ ） $100 \\%$ 。由于商洛市地理位置相对闭塞，经济发展较慢，成年男性劳动力转移现象较普遍，相对于务农或从事非农活动而言，劳动力进城务工是山区农户获取资金的有效途径，农户家庭经济状况改善明显，资金越充裕，农户外出务工的成本和风险相对较低,这在一定程度上带动家庭成员外出务工的积极性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.3人力资本的影响男性劳动力比例是影响非贫困户生计策略由纯务工型转向兼业型的关键指标，具有显著负向影响。职业技能水平是影响非贫困户生计策略由纯务工型转向务工主导型、兼业型和纯农型的关键指标，其中对转向务工主导型和兼业型具有显著正向影响，而对于转向纯农型具有显著负向影响。相对于纯务工型农户，男性劳动力每增加一个单位，农户由纯务工型转向兼业型的机率下降 $9 9 . 4 \\%$ ;职业技能水平每增加一个单位非贫困户由纯务工型转向务工主导型、兼业型的机率分别增加 $2 ~ 3 3 3 . 9 \\% \\ 、 2 ~ 0 9 5 . 3 \\%$ ，由纯务工型转向纯农型的机率下降 $1 0 0 . 0 \\%$ 。这主要是由于劳动力技能水平越高获取经济回报越高，务工对改善生活条件越明显，农户为降低外出就业风险和生活成本，选择务工主导型和兼业型生计策略的可能加大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.4社会资本的影响政治资源、就业网络是影响非贫困户由纯务工型转向兼业型的关键指标，具有显著正向影响。相对纯务工型，政治资源、就业网络每增加一个单位，农户由纯务工型转为兼业型的机率分别增加 $5 6 9 . 4 \\%$ ） $1 6 2 . 4 \\%$ 。由于农户的政治资源和就业渠道越多，从事非农活动的机会、获得的社会支持就越多，特别是在山区农村社区存在的“熟人”关系，更容易促成产业模仿、行为模仿，这种“渲染\"效应增进了农户获取社区内的工作机会，促进了其向兼业型生计的转变。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2贫困户生计策略选择的影响因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "模型的对数似然值为401.564，卡方检验值为227.185，显著性水平（Sig.）为 $0 . 0 0 0 ( \\ < 0 . 0 5 )$ ，模型具有显著意义。具体结果见表6。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.1自然资本的影响人均耕地面积、人均林地面积是影响贫困户由纯务工型转向务工主导型、兼业型农户和纯农型的关键指标，具有显著正向影响。相对纯务工型，人均耕地面积每增加一个单位，贫困户向务工主导型、兼业型和纯农型转变的机率分别增加 $2 6 5 1 5 . 1 \\%$ $, 3 2 5 8 6 1 . 5 \\%$ 和 $4 5 8 4 1 7 5 . 0 \\%$ ；人均林地面积每增加一个单位，贫困户向务工主导型、兼业型和纯农型转变的机率分别增加$2 ~ 0 6 8 . 0 \\% . 2 ~ 1 1 8 . 2 \\%$ 和 $5 ~ 5 6 5 . 0 \\%$ 。由于山区劳动力质量较差、劳动能力偏弱，外出务工可雇佣性低等现象较普遍；同时，农业生产足以支付山区农户的“生存成本”，起到“保底”的作用，并解决了剩余劳动力就业问题，因此，耕地和林地面积越大，农户选择务工主导型、兼业型和纯农型生计策略的可能性越大。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/aefd34219a35b83946bbdbf3593016d91d920f222ddc74f8eead03d5b9745c56.jpg",
+        "table_caption": [
+            "表6贫困户生计策略选择的Logistic回归分析",
+            "Tab.6Logistic regression analysis of poor household'livelihood strategies "
+        ],
+        "table_footnote": [
+            "注： $^ { * } \\texttt { * * } , * * * *$ 分别表示 $10 \\%$ （20 $5 \\%$ 和 $1 \\%$ 的显著性水平，未列出不显著的指标; $B$ 为自变量回归系数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"2\">务工主导型</td><td colspan=\"2\">兼业型</td><td colspan=\"2\">纯农型</td></tr><tr><td>B</td><td>Exp(B)</td><td>B</td><td>Exp(B)</td><td>B</td><td>Exp(B)</td></tr><tr><td>人均耕地面积(N1)</td><td>5.584***</td><td>266.151</td><td>8.089***</td><td>3 259.615</td><td>10.733***</td><td>45 842.750</td></tr><tr><td>人均林地面积(N2）</td><td>3.076**</td><td>21.680</td><td>3.099 **</td><td>22.182</td><td>4.037 **</td><td>56.650</td></tr><tr><td>家庭人均收入（F1)</td><td>-4.196**</td><td>0.015</td><td>-8.406***</td><td>0.000</td><td>-27.082 ***</td><td>0.000</td></tr><tr><td>劳动力教育水(H)</td><td>0.579</td><td>1.784</td><td>-0.835</td><td>0.434</td><td>-7.905**</td><td>0.000</td></tr><tr><td>职业技能水平(H3)</td><td>-3.906 **</td><td>0.020</td><td>-0.153</td><td>0.858</td><td>-8.782***</td><td>0.000</td></tr><tr><td>政治资源(S)</td><td>3.152 *</td><td>23.382</td><td>2.106</td><td>8.216</td><td>0.235</td><td>1.265</td></tr><tr><td>联系成本（S4）</td><td>-0.859</td><td>0.423</td><td>-0.064</td><td>0.938</td><td>-5.797 **</td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.2金融资本的影响家庭人均收入是影响贫困户由纯务工型向务工主导型、兼业型和纯农型转变的关键指标，具有显著负向作用。相对于纯务工型，家庭人均收入每增加一个单位，农户向务工主导型、兼业型和纯农型转变的机率分别下降 $9 8 . 5 \\%$ 、$100 \\%$ ） $100 \\%$ 。鉴于外出务工可以在短期获取一定资金，对贫困户收入改善明显。基于家庭效用最大化考虑，贫困户大多依靠务工提高收入；同时，贫困户收入越高应对务工的风险经济能力越高，生计策略更倾向选择纯务工型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.3人力资本的影响劳动力教育水平、职业技能水平是影响贫困户由纯务工型向纯农型转变的关键因子，具有显著负向作用。相对于纯务工型，劳动力教育水平、职业技能水平每增加一个单位，贫困户向纯农型转变的机率分别下降 $100 \\%$ 、 $100 \\%$ 。此外,职业技能水平对纯务工型向务工主导型转变有显著负向作用，职业技能水平每增加一个单位，贫困户向务工主导型转变的机率下降 $9 8 \\%$ 。贫困户教育水平和职业技能水平越高，务工就业机会越多，选择纯农型的可能性降低。此外，职业技能水平越高，越容易解决农户外出就业问题，越可能选择纯务工型生计策略。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.4社会资本的影响政治资源是影响贫困户由纯务工型向务工主导型转变的关键指标，具有显著正向作用。相对于纯务工型农户，政治资源每增加一个单位，农户向务工主导型转变的机率增加$2 2 3 8 . 2 \\%$ 。联系成本是影响贫困户由纯务工型向纯农型的关键指标，具有显著负向作用。相对于纯务工型，联系成本每增加一个单位，农户向纯农型转变的机率下降 $9 9 . 7 \\%$ 。由于农户获取的政治资源和联系成本越多，地方社会关系越丰富，越容易得到政府和亲朋的帮助，农户越容易从事非农活动，农户选择务工主导可能增加，而选择纯农型生计策略可能性减少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5农户生计耦合度分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如表7所示，非贫困农户生计资本耦合度排序为：兼业型 $>$ 务工主导型 $>$ 纯务工型 $>$ 纯农型，这表明兼业型农户生计资本之间相关作用较强，各类生计资本之间协调发展程度较高；纯农型农户则较差，由于纯农型生计过度依赖经济效益较低的农业活动，影响了其他资本（如人力资本)的投资能力，导致资本协调发展能力较弱。贫困农户生计资本耦合度排序为：兼业型 $>$ 纯务工型 $>$ 务工主导型 $>$ 纯农型，说明兼业型农户生计结构较合理,生计资本协调发展能力较强。伴随着精准扶贫战略的实施，兼业型贫困户采取多元生计策略，利于生计资本累计和增长。纯农型贫困户对自然资本依赖性较强，生计结构欠合理，一定程度上也抑制了其他资本的发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从贫困户与非贫困资本耦合度均值上看，贫困户整体生计资本存量较低、相互作用弱，也限制优势资本转化为生计结果的效率。如为鼓励贫困户发展产业，政府实施优惠的贷款政策，但是由于贫困户受人力资源限制，特别是知识、技能和能力缺乏，大部分贷款用于解决生活困难（如就医、建房），仅有少数农户发展扶贫产业。因此，贫困农户的生计资本难以形成有效的协调关系，生计资本组合处于低效状态。这预示着在精准扶贫过程中应注意弥补贫困户生计资本的短板部分，促进贫困户资本向生计结果的转化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表7不同农户类型生计资本耦合度值",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/49da1069ae17ddfe38bcf58ae67e086d625239144fdef3be7872a03a896fde0e.jpg",
+        "table_caption": [
+            "Tab.7 Coupling coordination degree of different type of household'livelihood capital "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>纯务工</td><td>务工主导型</td><td>兼业型</td><td>纯农型</td><td>均值</td></tr><tr><td>非贫困农户</td><td>0.103</td><td>0.106</td><td>0.114</td><td>0.045</td><td>0.102</td></tr><tr><td>贫困农户</td><td>0.094</td><td>0.092</td><td>0.095</td><td>0.061</td><td>0.086</td></tr><tr><td>均值</td><td>0.100</td><td>0.097</td><td>0.108</td><td>0.057</td><td>二</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6结论 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)山区农户生计策略明显分化。依据非农收入比重将农户划分为纯务工型、务工主导型、兼业型和纯农型农户。务工主导型和纯农型中贫困户比例较高。山区农户务工主业化、农业边缘化或副业化现象较明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）农户生计资本有限，且不均衡，总体上呈现金融资本和社会资本相对较高，自然资本、人力资本偏低的特征。非贫困户的生计资本总量依次为兼业型 $>$ 务工主导型 $>$ 纯务工型 $>$ 纯农型；贫困户生计资本总量依次为务工主导型 $>$ 纯务工型 $>$ 兼业型 $>$ 纯农型。贫困户与非贫困户内部生计资本差异较明显，贫困户家庭资本整体低于非贫困户家庭，而纯农型非贫困户资本缺失严重。贫困户中社会资本和人力资本的提高有助于贫困的削减。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）生计资本对非贫困户与贫困户农户生计策略选择影响差异明显。非贫困户中人均耕地面积、人均林地面积、家庭人均收入、男性劳动力比例、职业技能水平、政治资源、就业网络对农户生计策略选择具有显著影响;贫困户中人均耕地面积、人均林地面积、家庭人均收入、劳动力教育水平、职业技能水平、政治资源和联系成本对农户生计策略选择具有显著影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）非贫困和贫困户中兼业型农户的生计资本耦合度均最高，各类生计资本之间协调发展程度较高，而纯农型生计资本之间协调发展能力较弱，生计资本耦合度均最低。贫困户整体生计资本存量较低、相互作用较弱。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7建议",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "特困区农户可持续生计的构建和贫困治理既要从微观层面提升农户的生计资本存量和质量入手，也需要政府在制度、政策和市场等宏观层面创建良好的环境，促进农户生计资本优化组合，创新生计活动。因此，建议从以下方面展开：（1）纯务工型和务工主导型农户要着力提高人力资本质量，特别是务工人员的教育和技能水平，拓宽生计途径。这需要积极落实“两免一补\"政策，截断教育贫困的代际传递。其次，要开展针对性、有效性的培训措施，增强外出务工人员的迁出和就业能力，拓宽就业渠道。（2）兼业型农户应通过整合多方面资源优势以提高生计资本的质量及其结构的优化组合。如在人力资本方面，通过对留守劳动力开展实用农业技术培训，提高农林活动的技术含量。（3）纯农户在保障自然资本存量前提下，尽可能的提高人力资本和社会资本，实现生计资本结构的良性发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "集中连片特困区的扶贫开发和乡村发展受到国内外学者的广泛关注与研究，本文聚焦秦巴山特困区，对比分析了同一地区不同群体之间生计资本状况及其对生计策略的影响机制，这对特困区内农户生计研究有一定的借鉴意义。然而，由于文章篇幅限制，本文未能清晰的探究生计资本与贫困发生的作用机理。因此，在未来研究还应加强从生计资本视角探究农户致贫机制、过程和结果，以揭示资本与贫困之间的复杂关系。此外，借助生计安全分析框架，如何解决农户可持续性生计与贫困、山区生态环境保护之间的问题,并结合国家精准扶贫、乡村振兴战略的实施，为政府和规划者制定区域发展政策和生态环境保护措施提供理论依据，在今后研究中需要加强这方面的研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）   \n[1］中华人民共和国国家统计局.中华人民共和国2017年国民经 济和社会发展统计公报[EB/OL].［2018-08-28].http：// www. stats.gov.cn.[State Bureau of Statistics of the People's Republic of China.National Economic and Social Development Statistics Bulletin of the People's Republic of China 2017[EB/OL]. [2018 -08-28],http://www.stats. gov.cn]   \n[2]刘彦随,周扬,刘继来.中国农村贫困化地域分异特征及其精 准扶贫策略[J].中国科学院院刊,2016,31（3）：269-278. [LIU Yangsui,ZHOU Yang,LIUJilai.Regional differentiation characteristics of rural poverty and targeted poverty alleviation strategy in China[J].Buletinof Chinese Academy of Sciences, 2016,31(3) :269 -278.]   \n[3]何仁伟,李光勤,刘邵权,等.可持续生计视角下中国农村贫困 治理研究综述［J].中国人口·资源与环境,2017,27（11）： 69 -85.[HE Renwei,LI Guangqin,LIU Shaoquan,et al.A literature review of China’s rural poverty governance from the perspective of sustainable livelihood[J].China Population,Resources and environment,2017,27(11):69 -85.]   \n[4]BEBBINGTON A.Capitals and capabilities:A framework for analyzing peasant viability,rural livelihoodsand poverty[J].World Development,199,27(12）:2021-2044.   \n[5]Department for International Development（DFID）.Beter livelihoods for poor people:The role of agriculture[M].London: Department for International Development,2002.   \n[6]SHARP K. Measuring destitution: Integrating qualitative and quantitative approaches in the analysis of survey data[R].Brighton： IDS working paper,217,2003.   \n[7]YAN JZ,WU YY,ZHANG YL,et al.Livelihood diversification of farmers and nomads of eastern transect in Tibetan Plateau[J]. Journal of Geographical Sciences,2010,20(5）:757-770.   \n[8］李小云,董强,饶小龙,等.农户脆弱性分析方法及其本土化应 用[J].中国农村经济,2007,（4）:32-39.[LI Xiaoyun,DONG Qiang,RAO Xiaolong,et al.Application of farmers’vulnerability analysis method and its localization[J].China Rural Economy, 2007,(4) :32 -39.]   \n[9］杨云彦,赵锋.可持续生计分析框架下农户生计资本的调查与 分析——以南水北调(中线)工程库区为例[J].农业经济问 题,2009,(3）:58-64.[YANG Yunyan,ZHAO Feng.Study and analysis of farmers’livable capital under the framework of sustainable livelihood analysis:Taking South-to-North water transfer project（middle line）as an example[J]. Journal of Agricultural Economics,2009,(3) :58 -64.]   \n[10］何仁伟,刘邵权,陈国阶,等.中国农户可持续生计研究进展及 趋向[J].地理科学进展,2013,32(4）:657-670.[HE Renwei, LIU Shaoquan,CHEN Guojie,et al.Research progress and tendency of sustainable livelihoods for peasant household in China[J]. Progress in Geography,2013,32（4) :657 -670.]   \n[11]FANG YP,FANJ,SHEN MY,et al. Sensitivity of livelihood strategy to livelihood capital in mountain areas：Empirical analysis basedondiferent settlements intheupperreachesof the Minjiang River,China[J].Ecological Indicators,2014,38:225-235.   \n[12］赵雪雁,李巍,杨培涛,等.生计资本对甘南高原农牧民生计活 动的影响[J].中国人口·资源与环境,2011,21（4）：111- 118.[ZHAO Xueyan,LI Wei,YANG Peitao,et al. Impact of livelihood capital on the livelihood activities of farmers and herdsmen on Gannan Plateau[J].China Population,Resources and Environment,2011,21(4):111-118.]   \n[13］苏芳,蒲欣冬,徐中民,等.生计资本与生计策略关系研究— 以张掖市甘州区为例[J].中国人口·资源与环境,2009,19 (6）:119-125.[SU Fang,PU Xindong,XU Zhongmin,et al. Analysis about the relationship between livelihood capital and livelihood strategies：Take Ganzhou in Zhangye City as a example[J]. China Population,Resourcesand Environment,2009,19（6）: 119 -125.]   \n[14]DAVIS J,LOPER-CARR D. Migration,remitances and smallholder decision-making:Implications for land use and livelihood change in Central America[J].Land Use Policy,2014,36:319 -329.   \n[15]JANSENP,PENDER J,DAMON A,et al.Policies for sustainable development in the hillside areas of Honduras:A quantitative livelihoods approach[J].Agricultural Economics,2006,34（2）:141- 153.   \n[16]LI G,FANG C,QIU D,et al. Impactof farmer households’livelihood assets on their options of economic compensation patterns for cultivated land protection[J]. Journalof Geographical Sciences, 2014,24(2) :331 -348.   \n[17]PRETTY J,WARD H. Social capital and the environment[J]. World Development,2001,29(2）:209 - 227.   \n[18]DE B A,ROZELLE S.Migration and Household Investment in Rural China[J].China Economic Review,2008,（19）:320-335.   \n[19］吴孔森,杨新军,尹莎.环境变化影响下农户生计选择与可持 续性研究—以民勤绿洲社区为例[J].经济地理,2016,36 (9）:141-149.[WUKongsen,YANG Xinjun,YIN Sha.The livelihood choice of farmers and sustainability under the influence of environmental change:A case study of Minqin Oasis community [J].Economic Geography,2016,36(9）:141 -149] [20］徐爽，胡业翠.农户生计资本与生计稳定性耦合协调分析一 以广西金桥村移民安置区为例[J].经济地理,2018,38（3）：   \n142-148.[XU Shuang,HU Yecui. Coupling coordination analysis of capital and livelihood stability of farmers:A case study of the resettement areaof Jinqiao village in Guangxi[J].Economic Geography,2018,38(3):142-148.] [21]BERG M.Household income strategies and natural disasters:Dynamic livelihoods in rural Nicaragua[J].Ecological Economics,   \n2010,69(3) :592 -602. [22］TIANQ,GUO L,ZHENGL.Urbanization and rural livelihoods:A case study from Jiangxi Province,China[J]. Journal of Rural Studies,2016,47;577 - 587. [23］何昭丽,米雪,喻凯睿,等.农户生计资本与旅游生计策略关系 研究——以西北A区为例[J].广西民族大学学报（哲学社会 科学版）,2017,39(6）:61-68.[HE Zhaoli,MI Xue,YUKairui, et al.The relationship between peasants’livelihood capital and tourism livelihood strategy:A case study canducted in area A of northwest China[J]. Journal of Guangxi University for nationalities （Philosophy And Social Science Edition）,2017,39(6）:61-68] [24］任国平,刘黎明,付永虎,等.基于GWR 模型的都市城郊村域 农户生计资本空间差异分析——以上海市青浦区为例[J].资 源科学,2016,38(8）:1594-1608.[REN Guoping,LIU Liming, FU Yonghu,et al. Spatial differentiationof rural household livelihood capital in metropolitan suburbs based on GWR model;A case study of Qingpu District in Shanghai[J].Resources Science,   \n2016,38(8) :1594 -1608] [25]SOLTANI A,ANGELSEN A,EID T,et al.Poverty,sustainability, and household livelihood strategies in Zagros,Iran[J].Ecological Economics,2012,79(4）:60 -70. [26］蔡志海.汶川地震灾区贫困村农户生计资本分析[J].中国农 村经济,2010,（12）:55-67.[CAI Zhihai.Analysis on the livelihoods assets of poverty villages farmers in the earthquake disaster area of Wenchuan[J]. Chinese Rural Economy,2010,（12）:55-   \n67.] [27] NIELSEN $\\Phi$ ,RAYAMAJHI S,UBERHUAGA P,et al. Quantifying rural livelihood strategies in developing countries using an activity choice approach[J].Agricultural Economics,2013,44（1）:57-   \n71. [28]WANG C,ZHANG Y,YANG Y,et al. Assessment of sustainable livelihoods of different farmers in hilly red soil erosion areas of southern China[J].Ecological Indicators,2016,64:123-131. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Livelihood capital and livelihood strategies of the farmer household in the exceptional poverty regions of Qinling-Daba mountainous area: A case of Shangluo City ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LIU Qian $^ { 1 , 2 }$ ，ZHANG Jian²，HE Yan-bing³， YANG Xin-jun² (1School of Geography And Tourism,Chongqing Normal University,Chongqing 401331,China; (2College of Urban and Environmental Sciences,Northwest University,Xi'an 71Ol27,Shaanxi,China; 3SchoolofArchitectural andArtistic Design,HenanPolytechnic University,Jiaozuo 4540,Henan,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：To studythesustainable livelihood is significantfor povertyalleviation andthedevelopmentof ruralarea.Based on the sustainable livelihood framework,484 farmer householders were investigated in Shangluo City of Qinling-Daba mountainous area,Shaanxi Province,China.The survey data wasused to analyze household livelihood capital between diferent groupsbyconstructing the indexes system ofhousehold'slivelihoodassets,thenthe impact of livelihood capital onthe livelihood strategies aswellas their coupling coordinative degree were discussedusing the Multinomial Logit regresion model and the livelihood capital couplingcoordinative degree model respectively. Theresults showed as follows:（1）The livelihood strategies of rural households were obviously diferent.According to the proportion of non-agricultural income,there were four typesof household livelihoods,namely,exclusively employed by others（Type A）,employed by others most of the time（Type B）,work part time for others（Type C）and $100 \\%$ doing the farm work （Type D).(2）In the survey samples,the livelihood capital of farmers was limited and unbalanced,which presentedthecharacteristicsof relatively high financial capitaland social capitalandrelatively low natural capital and human resources capital.Among the non-poor households,the total livelihood capital of the Type C was the highest (0.451),followed bythe Type B(0.393）and the Type A（O.382）,the Type D（0.215) was the lowest.While among the poor households,the Type B（O.348）was the highest,folowed by the Type A（0. 345）and the Type C（O.342）,the Type D（0.184）was the lowest.（3）The impact of livelihood capital on the livelihood strategy choice of non-poor households and poor households was diferent.Forthe non-poor households, the percapitacultivatedland,theper capita forestlandarea,thecultivated landquality,vocational skillevel,political resources and the employment network had a positive effect onthe transformation from the Type A to the Type B and the Type C,but per capita household income and male labor ratio had a negative efect.The per capita household incomeand vocational skillevel hada negative effectonthe transformation from the Type Ato the TypeD.For the poor households,the transformation from the Type A to the Type B,Type Cand Type D was positively impacted by the per capita cultivated land,the percapita forest land areaand political resources,andthe per capita household income,labor education level,vocational skilllevel and communication expenditure were negative factors.（4）If lining thecouplingcoordinative degree of non-poor households'livelihood capitalup inorder,from the largest to the smallest we have the list as follows:the Type C（O.114）,the Type B(O.106）,the TypeA（0.103）,and the Type D（0.045）.Similarly forthe coupling coordinative degree of poor households’livelihood capital we have the list as follws:the Type C（0.095）,the Type A（O.094）,the Type B（0.092）and the Type D（0.086).This study could provide useful information for the optimization of livelihood strategies and effective poverty alleviation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:household； livelihood capital； livelihood strategy；Qinling-Daba mountainous area",
+        "page_idx": 10
+    }
+]

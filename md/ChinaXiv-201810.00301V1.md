@@ -1,0 +1,156 @@
+# “标准化甲状腺结节超声培训-考核系统”的短期教学效果评估
+
+高璐滢，姜玉新，李建初，张波，王莹，刘如玉，席雪华，高琼，杨筱，赖兴建，朱沈玲，张晓燕，赵瑞娜中国医学科学院北京协和医学院北京协和医院 超声医学科通讯作者:张波电话:69155493,电子邮箱：thyroidus@163.com
+
+【摘要】目的：本研究旨在探讨应用“标准化甲状腺结节超声培训-考核系统”的短期教学效果。方法：前瞻性纳入2017年12月在北京协和医院超声科培训的学员12人，首先利用“标准化甲状腺结节超声培训-考核系统”的“考核系统”部分对12名学员进行考核，考察内容为甲状腺结节的超声特征识别和恶性风险分级，系统自动记录得分情况。随即利用该系统的培训部分进行相应的培训,培训后12小时及1个月，再次利用该系统对所有学员进行考核，系统自动记录得分情况。比较培训前后得分差异。结果：本研究中学员在接受“甲状腺结节超声培训”12小时及1个月后，甲状腺结节读图成绩均显著提高（ $\ 8 0 . 7 \pm 7 . 3$ 分vs69.9±4.0分， $\mathrm { P } { \langle } 0 . 0 1$ ；78.0±9.2分vs $6 9 . 9 { \pm } 4 . 0 \$ 分， $\mathrm { P } { \langle } 0 . 0 5 \rangle$ ，其中甲状腺结节各项超声特征识别及甲状腺结节超声分级的诊断能力均提高（ $( \mathrm { P } \langle 0 . 0 5 )$ 。与“甲状腺结节超声培训”12小时后相比较，“甲状腺结节超声培训”后1个月的甲状腺结节诊断水平未明显下降（P>0.05)。结论：“标准化甲状腺结节超声培训-考核系统”可以在短期内提高学员甲状腺结节超声诊断能力，为提高甲状腺结节的超声诊断水平及推动甲状腺结节超声诊断的规范化进程提供教学新思路。
+
+【关键词】甲状腺结节；超声；标准化培训考核系统
+
+# Short-term teaching effectiveness evaluation of standardized thyroid nodule ultrasound training and examining system
+
+Luying Gao, MD, Yuxin Jiang, MD, Jianchu Li, MD, Bo Zhang, MD, Ying Wang,   
+MD, Ruyu Liu, MB, Xuehua Xi, MB, Gao Qiong, MB, Xiao Yang MD, Xingjian Lai, MD,Shenling Zhu, MD,Xiaoyan Zhang,MD,Ruina Zhao,MD,   
+Department of Ultrasound, Chinese Academy of Medical Sciences & Peking Union Medical College Hospital, Beijing, China Corresponding author: Bo Zhang Phone number: 69155493， E-mail: thyroidus @ 163.com
+
+# Abstract
+
+Objective: The purpose of this study is to explore the value of standardized thyroid nodule ultrasound training and examining system in short-term training.
+
+Methods: We prospectively included 12 trainees who were trained in the Department of Ultrasound, Peking Union Medical College Hospital in December 2O17, and assessed using Standardized thyroid nodule ultrasound training and examining system. The ultrasonic characteristics and malignant risk classification of thyroid nodules were investigated.The scores were automatically recorded by the system. The training part of the system was then used for corresponding training. After twelve hours and one month, the system was used again to evaluate all participants and the differences in scores before and after training were compared.
+
+Results: In this study, the results of thyroid nodule reading were significantly improved after 12 hours and one month $8 0 . 7 \pm 7 . 3 \$ vS $6 9 . 9 { \pm } 4 . 0 \$ ， $\scriptstyle \mathbf { P < } 0 . 0 1$ ； $7 8 . 0 { \pm } 9 . 2 \ \$ VS $6 9 . 9 { \pm } 4 . 0 \ \$ ， $\mathrm { P } { < } 0 . 0 5 \$ ）, the diagnostic ability of recognition of ultrasonic features and thyroid node classification was improved . $( \mathbf { P } < 0 . 0 5 )$ . Compared with the results after 12 hours of training, the diagnostic level of thyroid nodule ultrasound did not drop significantly one month later $( \mathrm { P } > 0 . 0 5 )$
+
+Conclusion: Standardized thyroid nodule ultrasound training and examining system can improve students' ability of diagnosis of thyroid nodules with ultrasound in a short time,and will help the standardization diagnosis of thyroid nodules,and at the same time it provides new teaching methods for the standardization process of thyroid ultrasound in the future.
+
+Key word:Thyroid nodule ultrasound training and examining system; Thyroid nodule ultrasonography; Medical education
+
+甲状腺疾病是最常见的内分泌疾病，文献报道人群中甲状腺结节患病率为 $1 9 \% - 6 8 \%$ ，其中 $7 \% - 1 5 \%$ 为甲状腺癌。随着人们健康意识的提高和影像学检查的广泛使用，甲状腺结节和甲状腺癌的检出率逐年增加。超声是评估甲状腺结节良恶性的主要检测手段［1-5]，2017年美国放射学委员会（AmericanCollegeofRadiology,ACR）发表了“ACR甲状腺影像报告和数据系统(Thyroid Imaging-Reporting And Data System,TI-RADS): ACR TI-RADS委员会白皮书”［6]，2015年美国甲状腺学会（American Thyroid Association,ATA）发表了《成人分化型甲状腺癌诊治指南》［7］（下文简称ATA指南)。各指南均提出依据超声的特点进行甲状腺结节的风险分层，并根据风险分层来作为进一步细针抽吸活检的指征、随访和治疗的依据。因此对甲状腺结节进行正确的超声恶性风险分层尤为重要。超声是一种基于成像的诊断技术，具有相对主观的观察者依赖性，缺乏经验的医师误诊率高。这是准确应用许多甲状腺超声指南的一个重要的限制因素。然而传统的甲状腺超声教学模式主要是按照课本的顺序介绍超声原理、各脏器解剖、标准检查方法、正常及异常图像，难于记忆、理解，更难以规范化的诊断。北京协和医院超声医学科根据甲状腺超声的专业特点及多年教学、培训经验，基于ACRTIRADS指南及ATA指南，在实践基础上探索适合甲状腺超声的规范化培训的方式，构建了“标准化的甲状腺结节超声培训-考核系统”。本研究旨在前瞻性探讨该系统在甲状腺超声短期教学中的应用价值。
+
+# 资料和方法：
+
+“标准化的甲状腺结节超声培训-考核系统”包括两部分内容：“甲状腺结节超声培训系统”和基于微信版的在线“甲状腺结节超声考核系统”。
+
+# 一、甲状腺结节超声培训系统
+
+依据ACR-TIRADS 委员会明确定义的甲状腺结节超声报告词典，以线上或线下的授课的形式，利用典型图片讲解成分、回声、形态、边缘和强回声等超声征象(每个特征或亚特征5-10张图片）。
+
+1.成分：描述结节的内部结构，即软组织及液体的组成比例。
+
+1.1实性结节：结节完全或几乎完全由软组织组成，仅有极少的囊性成分  
+1.2实性为主结节：软组织占结节体积的 $5 0 \%$ 以上  
+1.3 囊性为主结节：软组织占结节体积的 $5 0 \%$ 以下  
+1.4囊性结节：完全为液性成分  
+1.5 海绵征：主要由微小囊性成分组成，占结节体积的 $5 0 \%$ 以上
+
+2．回声
+
+结节内实性部分（非钙化）的回声水平，参照物为周围甲状腺组织。
+
+2.1高回声：回声水平高于甲状腺组织  
+2.2等回声：回声水平与甲状腺组织相近  
+2.3低回声：回声水平低于甲状腺组织  
+2.4极低回声：回声水平低于邻近颈部肌肉
+
+# 3.形态
+
+纵横比大于1：横切面上前后径与横径之比 ${ > } 1$ 。
+
+4.大小：纵切面测量最大长径、横切面测量前后径及横径。
+
+轴向测量三个径： $\textcircled{1}$ 横切面最大径 $\textcircled{2}$ 同一图像上垂直于该所测径的最大径$\textcircled{3}$ 矢状面最大长径。特别注意：纵横比测量与之不同，为横切面上平行于声束的前后径与垂直于声束的横径之比。如果结节周边有晕，测量时注意将晕包括在内。
+
+5.边缘：结节与甲状腺腺体组织或邻近腺体外结构的边界或界面。
+
+5.1光滑：完整，规则的圆形或椭圆形
+
+5.2边缘不规则：结节边缘有毛刺、锯齿或成锐角，伴或不伴周围组织浸润
+
+5.3 分叶：边缘局限性圆形软组织突入邻近腺体组织，单发或多发，大小不一
+
+5.4边界不清：结节与甲状腺腺体组织边界难以辨认；无边缘不规则或分叶
+
+5.5腺体外侵犯：结节延伸突破甲状腺被膜
+
+6.强回声灶：相对于周围组织回声显著增加的局部病灶，大小、形态不一，单发或簇状分布，后可伴声影。
+
+5.1点状强回声：无后方声影，直径 $< 1$ mm，包括实性成分内的小彗星尾征
+
+6.2粗大钙化：后伴声影，可形态不规则
+
+6.3周边钙化：钙化完全、部分环绕或占据结节的大部分边缘，常遮挡结节内部成分
+
+6.4 彗星尾征：彗星尾征是一种混响伪像，随深度增加回声衰减，宽度逐渐变窄，呈三角形。大彗星尾征： ${ > } 1 ~ \mathrm { m m }$ ，0分，小彗星尾征：≤1mm
+
+# 二、甲状腺结节超声考核系统
+
+以基于微信版在线的方式，内容为甲状腺结节读图20例，每例甲状腺结节包括5项超声特征和2个分级在内的七个选择题，共140个选择题[图1]：
+
+超声特征包括：边缘/边界（清晰、毛刺、小分叶、浸润性）、形态（规则、不规则、纵横比大于1）、回声（高、中、低、极低、无)、内部结构（囊性、囊实性、实性）、钙化（无、微钙化、粗大钙化)。
+
+分级标准包括：
+
+（1）ATA指南[6]分级：超声恶性风险分层包括高度可疑恶性、中度可疑恶性、低度可疑恶性、极低度可疑恶性和良性结节（以下简称高危、中危、低危、极低危及良性)。高危：实性低回声或囊实性结节中的实性成分为低回声的结节，同时具有以下一项或多项超声特征： $\textcircled{1}$ 不规则边缘（小分叶、毛刺、浸润性）$\textcircled{2}$ 微钙化 $\textcircled{3}$ 纵横比大于 $\textcircled{4}$ 边缘钙化中断，低回声突出钙化外 $\textcircled{5}$ 甲状腺被膜外侵犯；中危：实性低回声结节，边缘光滑、规则，无微钙化、纵横比大于1及腺体外侵犯；低危：等回声或高回声实性结节或囊实性结节的实性部分偏心，无微钙化、边缘不规则、纵横比大于1及腺体外侵犯；极低危(恶性风险小于 $3 \%$ ： $\textcircled{1}$ “海绵”样的结节 $\textcircled{2}$ 囊实性结节实性部分不偏心，无微钙化、边缘不规则、纵横比大于1及被膜外侵犯。良性：主要为囊性结节。
+
+（2）Kwak等［8」TIRADS分级：5个可疑超声特征包括：实性、低回声或极低回声、边缘小分叶或不规则、微钙化和纵横比大于1。TIRADS1级（恶性风险 $0 \%$ ：正常甲状腺；TIRADS2级（恶性风险 $0 \%$ ：良性，胶质结节（囊性结节，海绵样结节，囊实性等回声结节，合并点状强回声)；TIRADS3级(恶性风险 $1 . 7 \% \big )$ ：无可疑超声特征，桥本结节（桥本背景下，高、等或低回声，部分有包膜，周围血流);TIRADS4a级(恶性风险 $3 . 3 \% \rangle$ ：出现1个可疑超声特征；TIRADS4b级(恶性风险$9 . 2 \%$ ：出现2个可疑超声特征；TIRADS4c级(恶性风险 $4 4 . 4 \% \sim 7 4 . 4 \% )$ ：出现3个或4个可疑超声特征；TIRADS5级(恶性风险 $8 7 . 5 \%$ ：出现5个可疑超声特征。
+
+# 三、研究对象及教学过程
+
+2017年12月在北京协和医院超声医学科进修培训的学员，共12人，以调查问卷的形式对学员的基本情况进行调查，包括学员的性别、年龄、电话、受教育年限等。
+
+通过基于微信版的在线考试的方式，全部12名学员参加“甲状腺结节超声考核系统”，内容为甲状腺结节读图20例，每例甲状腺结节包括5项超声特征（边缘/边界、形态、回声、内部结构、钙化）和2个分级（ATA恶性风险分层及TIRADS分级）在内的七个选择题，共140个选择题，系统自动记录得分情况。2小时后参加“甲状腺结节超声培训系统”，该培训的方式为现场授课，教师利用大量典型图片讲解成分、回声、形态、边缘和强回声等超声征象(每个特征或亚特征5-10张图片)。培训后12小时，全部学员再次在线参加“甲状腺结节超声考核系统”，系统自动记录得分情况。培训后1个月后，全部学员再次在线参加“甲状腺结节超声考核系统”，系统自动记录得分情况。
+
+# 四、统计学分析
+
+采用SPSS22.0及SAS统计软件进行统计学分析。计量资料以 ${ \overline { { x } } } \pm s$ 表示，方差一致则采用t检验，不一致采用秩和检验。计数资料采用 $\mathrm { ~ x ~ } ^ { 2 }$ 检验，Fisher精确概率法,Kappa一致性检验。 $\mathrm { P } { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 结果
+
+# 学员基本特征
+
+12名研究对象中，男性1人、女性11人，年龄 $3 3 . 0 { \pm } 3 . 3 \ \$ 岁，受教育年限17.2$\pm 0 . 9$ 年，平均超声从业时间 $9 . 7 \pm 3 . 4$ 年；影像专业2人（ $1 6 . 7 \% )$ 、临床医学专业10人（ $8 3 . 3 \% )$ ；之前接受过甲状腺超声教学的为12人（ $1 0 0 \% )$ 。
+
+# 培训前后学员分数比较
+
+开始培训前，学员“甲状腺结节超声考核系统”中平均分数为 $6 9 . 9 \pm 4 . 0$ 分，参加“甲状腺结节超声培训系统”后12小时，学员“甲状腺结节超声考核系统”中平均分数为 $8 0 . 7 \pm 7 . 3$ 分。参加“甲状腺结节超声培训系统”后1个月，学员“甲状腺结节超声考核系统”中平均分数为 $7 8 . 0 \pm 9 . 2 \$ 分。与培训前比较，“甲状腺结节超声培训系统”显著提高了学员的的甲状腺结节读图成绩（ $8 0 . 7 \pm 7 . 3$ 分vs 69.9±4.0,P<0.01；78.0±9.2 vs 69.9±4.0,P<0.05)。与参加“甲状腺结节超声培训系统”后12小时相比，参加“甲状腺结节超声培训系统”后1个月，学员的的甲状腺结节读图成绩没有统计学差异（ $8 0 . 7 \pm 7 . 3$ 分vs $7 8 . 0 \pm$ 9.2， $\mathrm { P } { > } 0 . 0 5 )$ 。
+
+# 培训前后学员甲状腺结节超声特征识别的分数比较
+
+开始培训前，学员“甲状腺结节超声考核系统”中边缘/边界平均分数为$9 2 . 5 { \pm } 6 . 6 \$ 分，形态平均分数为 $8 2 . 5 { \pm } 6 . 9$ 分，回声平均分数为69.2±12.4分，内部结构平均分数为 $8 0 . 8 \pm 7 . 0$ 分，钙化平均分数为 $8 2 . 9 { \pm } 8 . 6 \ \$ 分，ATA危险分层平均分数为47.5±17.8分，TIRADS分级平均分数为39.6±11.2分。参加“甲状腺结节超声培训系统”12小时后，学员“甲状腺结节超声考核”中边缘/边界平均分数为 $9 6 . 3 { \pm } 5 . 7 \ $ 分，形态平均分数为 $8 8 . 8 \pm 7 . 7$ 分,回声平均分数为 $7 8 . 3 { \pm } 9 . 8 \$ 分，内部结构平均分数为 $8 8 . 8 \pm 9 . 1 \$ 分，钙化平均分数为 $9 1 . 7 { \pm } 7 . 5$ 分，ATA危险分层平均分数为 $6 3 . 8 \pm 1 8 . 1$ 分，TIRADS分级平均分数为61.7±16.7分，各项超声特征及超声分级的诊断能力均提高（ $\mathrm { \cdot P { = } 0 . 0 4 }$ ， $\mathrm { P = } 0 . 0 4$ ， $\mathrm { P = } 0 . 0 4$ ， $\mathrm { P = } 0 . 0 3$ $\mathrm { P } { \langle 0 . 0 1 }$ ， $\mathrm { P = } 0 . 0 4$ ， $\mathrm { P } { \langle } 0 . 0 1$ ）[表1]。
+
+# 培训前后学员甲状腺结节超声特征识别的观察者差异比较
+
+本研究表明培训前后学员在甲状腺结节特征识别方面一致性均中等或良好，学员在接受“甲状腺结节超声培训系统”12小时后，各项超声特征及超声分级的观察者差异无明显改善[表1]。
+
+# 讨论
+
+本研究显示，学员在接受“甲状腺结节超声培训”后，甲状腺结节读图成绩显著提高，“甲状腺结节超声培训考核系统”可以提高学员甲状腺结节超声诊断能力，与“甲状腺结节超声培训”12小时后相比较，“甲状腺结节超声培训”后1个月的甲状腺结节诊断水平未下降。甲状腺超声是一门建立在图像基础上的学科，具有相对主观的观察者依赖性，缺乏经验的医师误诊率高。传统的甲状腺超声讲授过程主要采用PPT的形式，讲解标准检查方法、正常及异常图像，在短时间内学员难以规范化的扫查、诊断。我们结合最新的规范性指南，根据学员甲状腺超声识别的困难点，给予标准化甲状腺超声特征表现的图像，图像清晰，图文声像，便于理解及掌握。
+
+本研究表明在“甲状腺结节超声培训”前，学员对甲状腺结节成分、回声、形态、边缘/边界、强回声的超声特征识别中，对“回声”的识别不准确（69.2$\pm 1 2 . 4$ 分)，可能的原因是既往对“回声”判断的标准不一，本次培训根据ACR指南，规范了“回声”的定义（低回声是指回声水平低于甲状腺组织)。经过培训后，学员对“回声”特征诊断的准确性明显提高（ $7 8 . 3 \pm 9 . 8 \$ 分， $\mathrm { P } { < } 0 . 0 5 )$ 。超声对于甲状腺实性结节回声水平的识别十分重要，根据ATA指南，低回声的实性结节的风险分层为高度可疑恶性或中度可疑恶性，恶性率为 $7 0 – 9 0 \%$ 及 $1 0 \mathrm { - } 2 0 \%$ 而中等回声或高回声实性结节的风险分层为低度可疑恶性，恶性率仅为 $5 \mathrm { - } 1 0 \%$ 因此超声医师准确判断甲状腺实性结节为低回声或中/高回声，在临床实践中显得十分必要。在“甲状腺结节超声培训”前，学员对甲状腺结节成分、形态、边缘/边界、强回声的超声特征识准确度较高，提示学员可较好的识别边缘不清、微钙化、纵横比大于1等超声恶性征象。另外，在“甲状腺结节超声培训”前，学员对于ATA分层、TIRADS分级的判断能力差（ $4 7 . 5 \pm 1 7 . 8$ 分， $3 9 . 6 \pm 1 1 . 2$ 分），考虑可能的原因是学员根据原有的诊断习惯判断结节的恶性风险，没有根据指南进行标准化的分层。临床上需要根据风险分层或分级来作为进一步细针抽吸活检的指征、随访和治疗的依据，因此对甲状腺结节进行正确的超声恶性风险分层尤为重要。经过培训后，学员对ATA分层、TIRADS分级的诊断准确性明显提高（63.8±18.1，P<0.05；61.7±16.7，P<0.05)，但准确性未达到理想水平，仍待提高，未来如增加培训次数可能会达到满意的效果[6-7」。
+
+由Chang等人进行的一项纳入5名放射科医师的研究表明，依据统一的风险分层评估的观察者，其一致性达到了可接受的范围[9]。此外，MNaren等人对6名美国放射学家进行的研究表明，TIRADS分级的观察者间一致性达到了 $0 . 8 2 \AA ^ { - }$ 1.0之间[10]。本研究表明在“甲状腺结节超声培训”前，学员对各超声特征观察者差异不大，但对各超声特征分数低、识别不准确，考虑学员是在较低水平的一致性较好，经过培训后，学员对各超声特征观察者差异变化不大，但是对各超声特征诊断的准确性明显提高。
+
+传统上的甲状腺超声培训费用昂贵，受到时间和空间的限制，本系统的一个优点就是可以通过线上的方式来完成，学员可以自行通过线上系统进行考核。传统的甲状腺教学的另一个弱点是缺乏对图像的准确理解，由于每位教师都有自己的诊断经验，所以教学的内容和方法可能会有所不同。本研究首先根据ACR-TIRADS指南进行了标准化和系统化的甲状腺结节超声培训，规范了每个超声特征的识别，可以部分克服这个问题。
+
+另外，本研究还表明规范化的培训有助于提高对结节的准确风险分层，实现这一点需要通过对结节特征的准确识别，并不能改善或显著提高观察者一致性，这说明在培训前本组学员对特征的识别存在一些共性的误区，经过培训后，这些共性的误区均得到了一定程度的矫正，从而能够实现在准确性较高水准上的观察者一致。
+
+本研究受到空间和人数的限制，纳入的学员人数有限，未来需要进一步的研究来证明本甲状腺考核培训系统的有效性。综上所述，“标准化甲状腺结节超声培训-考核系统”对于短期内迅速提高超声医生的甲状腺结节超声诊断能力十分有效，为甲状腺结节超声诊断的标准化教学提供方法和依据。
+
+基金项目：国家国际科技合作专项项目（2015DFA30440）；首都卫生发展科研专项基金（2016-2-40110）；北京协和医学院教育教学改革项目( 2016zlgc0108)
+
+参考文献：
+
+[1]Guth S, Theune U,Aberle J,et al. Very high prevalence of thyroid nodules
+
+detected by high frequency ( $\mathrm { 1 3 \ M H z } )$ ）ultrasound examination [J]. Eur J Clin Invest. 2009,39:699-706.   
+[2]Tan G H,Gharib H. Thyroid Incidentalomas: Management Approaches to Nonpalpable Nodules Discovered Incidentally on Thyroid Imaging [J]. Annals of Internal Medicine.1997,126:226-31.   
+[3]Hegedus,L. The thyroid nodule. The New England Journal of Medicine [J]. 2004,351: 1764-1771   
+[4]Leenhardt L, Erdogan M F, Hegedus L，et al. European Thyroid Association Guidelines for Cervical Ultrasound Scan and Ultrasound-Guided Techniques in the Postoperative Management of Patients with Thyroid Cancer[J]. European Thyroid Journal, 2013, 2:147-159.   
+[5]Perros P, Boelaert K, Colley S,et al. British Thyroid Association Guidelines for the Management of Thyroid Cancer[J]. Clinical Endocrinology, 2014, 81:1-122. [6]Tessler F N, Middleton W D, Grant E G, et al. ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the ACR TI-RADS Committee[J]. Journal of the American College of Radiology, 2017, 14:587.   
+[7] Haugen BR, Alexander EK, Bible KC, et al. 2O15 American Thyroid Association Management Guidelines for adult patients with thyroid nodules and differentiated thyroid cancer：The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer [J]. Thyroid,2016,26: 1-133. [8] Jin Young Kwak , Kyung Hwa Han ， Yoon Hyun Yoon, et al. Thyroid Imaging Reporting and Data System for US Features of Nodules : A Step in Establishing Better Stratification of Cancer Risk[J]. Radiology. 2011, 260:892-9   
+[9] Park C S,Kim S H, Jung S L,et al. Observer variability in the sonographic evaluation of thyroid nodules[J]. Journal of Clinical Ultrasound, 2O1O, 38:287. [10] Satya S MN, Amogh V N, Satya G M, et al. A Prospective Study to Evaluate the Reliability of Thyroid Imaging Reporting and Data System in Differentiation between Benign and Malignant Thyroid Lesions[J]. Journal of Clinical Imaging Science, 2016, 6:5.
+
+图1甲状腺结节超声考核系统界面部分展示  
+
+<html><body><table><tr><td></td><td>k</td><td>得分（x± s，分） k</td><td>得分（x±s，分）</td><td></td></tr><tr><td>边缘/边界</td><td>0.89</td><td>92.5±6. 6</td><td>0.80</td><td>96.3±5.7 0.04</td></tr><tr><td>形态</td><td>0.89</td><td>82.5±6.9</td><td>0.80 88.8±7.7</td><td>0.04</td></tr><tr><td>回声</td><td>0.71</td><td>69.2±12.4 0.75</td><td>78.3±9.8</td><td>0.04</td></tr><tr><td>内部结构</td><td>0.89</td><td>80.8±7. 0</td><td>0.90 88.8±9.1</td><td>0.03</td></tr><tr><td>钙化</td><td>0.89</td><td>82.9±8.6</td><td>0.89 91. 7±7. 5</td><td><0. 01</td></tr><tr><td>ATA危险分层</td><td>0.74</td><td>47. 5±17. 8</td><td>0.76 63.8±18.1</td><td>0.04</td></tr><tr><td>TIRADS分级</td><td>0.66</td><td>39.6±11.2</td><td>0.77</td><td>61.7±16.7 <0.01</td></tr><tr><td>总分</td><td></td><td>69.9±4.0</td><td></td><td>80.7±7.3 <0.01</td></tr></table></body></html>
+
+表一“甲状腺结节超声培训”前与“甲状腺结节超声培训”后12小时学员成绩比较

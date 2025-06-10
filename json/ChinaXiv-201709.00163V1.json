@@ -1,0 +1,364 @@
+[
+    {
+        "type": "text",
+        "text": "Inflation coupled to a Gauss-Bonnet term ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng-Xu Jiang $^ { 1 , 2 , }$ \\*，Jian-Wei Hu $^ { 2 , }$ t，and Zong-Kuan Guo $^ { 2 , \\ddagger }$ $^ { 1 }$ Department of Astronomy， Beijing Normal University， Beijing 100875， China and $^ 2$ State Key Laboratory of Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，P.O.Box 2735，Beijing 100190，China (Dated:December 5,2013) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The newly released Planck CMB data place tight constraints on slow-roll inflationary models. Some of commonly discussed inflationary potentials are disfavored due mainly to the large tensorto-scalar ratio.In this paper we show that these potentials may be in good agreement with the Planck data when the inflaton has a non-minimal coupling to the Gauss-Bonnet term. Moreover, such a coupling violates the consistency relation between the tensor spectral index and tensor-toscalar ratio.If the tensor spectral index is allwed to vary freely,the Planck constraints on the tensor-to-scalar ratio are slightly improved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 98.80.Cq, 98.80.Jk, 04.62.+v ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inflation in the early Universe notonly provides a wayto solve the fatnessand horizon problems of the standard big bangcosmology but also produces density perturbations as seeds for large-scale structure in the Universe.The simplest scenarioof cosmological inflation is basedupon a single,canonical and minimaly-coupled scalar feld with afat potential.In this scenario,quantum fuctuations of the infaton give rise toan almost scale-invariant,nearly Gaussian and adiabatic power spectrum of curvature perturbations.This prediction can be directly tested by the measurement of the temperature anisotropies in cosmic microwave background (CMB).The latest CMB data,from the Planck satelite with its combination of highsensitivity,wide frequencyrange andal-skycoverage,have placed strong constraints on inflationary models from the information of the spectral index of curvature perturbations as well as the tensor-to-scalar ratio [1, 2]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "String theoryis currently regarded as the most promising candidateforunifying gravity with the other fundamental forcesand fora theoryof quantum gravity.Typically there are correction termsof higher orders in thecurvature to the lowest order efective supergravityaction coming fromsuperstrings,which may playa significant rolein the early Universe. Interestingly, there is aunique combination of the curvature squared terms,the Gauss-Bonnet (GB)term, which is ghost-freein Minkowski backgroundand keeps the order ofthe gravitational equations ofmotion unchanged. Sucha term appears inthe tre-levelefective actionof the heterotic string[3].Attheone-loop levelofstring effective action it may arise as the Gauss-Bonnet term coupled to a modulus feld,which provides the possibility of avoiding the initial singularityof the Universe[4-6].There have been many works that discuss accelerating cosmology withthe GB coupling term in four and higher dimensions[7-9].Moreover,the efect of theGBcoupling termon the evolution of primordial perturbations was investigated in [10-12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is known that the GB termcoupled to the scalar feld can drive infltionas the effctive potential,which, however,gives rise to violent negative instabilities of tensor perturbations around a de Siter background on small scales[12].In power-law inflation implemented byan exponential potential and anexponential GB coupling,tensor or scalarperturbations exhibit negative instabilities onsmallscales when theGB coupling dominates the dynamics of the background [13].In such a model when the potential is dominant,the GB coupling term with a positive (or negative)coupling may lead toa reduction(or enhancement)of the tensor-to-scalar ratio.The more general formalism of slow-rollinfation withan arbitrary potential and anarbitrary coupling was developed by introducing a combined hierarchyof Hubble and GBfowfunctions [14].In this scenario the standard consistency relation between the tensor-to-scalar ratio and the spectral index of tensor perturbations does not hold. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we apply the general formalism developed in[14] to some specific inflationary models.To confront the models with observational data, we use recent CMB measurements by the Planck experiment to bound on the ensor-to-scalarratioand scalar spectral index when the tensor spectralindex is allowed to vary freely.We find that he GB coupling may effectively suppress the tensor-to-scalar ratio, which can improve the fit to the data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The organization of the paper is as follows.In Section I we outline the relevant features of slow-roll inflation withan inflaton coupled non-minimally to the GB term.In Section II weconfront some ofcommonlydiscussed inflationary models with the Planck data. Section IV is devoted to discussions and conclusions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. SLOW-ROLL INFLATION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We consider the following action ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\int d ^ { 4 } x \\sqrt { - g } \\left[ \\frac { R } { 2 } - \\frac { 1 } { 2 } \\partial _ { \\mu } \\phi \\partial ^ { \\mu } \\phi - V ( \\phi ) - \\frac { 1 } { 2 } \\xi ( \\phi ) R _ { \\mathrm { G B } } ^ { 2 } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi$ is the inflaton field with a potential $V ( \\phi )$ ，！ $R$ is the Ricci scalar, ${ \\cal R } _ { \\mathrm { G B } } ^ { 2 } \\equiv R _ { \\mu \\nu \\rho \\sigma } R ^ { \\mu \\nu \\rho \\sigma } - 4 R _ { \\mu \\nu } R ^ { \\mu \\nu } + R ^ { 2 }$ is the GB term,and $\\xi ( \\phi )$ is a coupling function of $\\phi$ .We work in Planckian units, i.e., $\\hbar = c = 8 \\pi G = 1$ .In the weak coupling limit of the low-energy effective string theory, the coupling may take the form of $\\xi \\propto e ^ { - \\phi }$ [4]. As the system enters a large coupling region, it is expected that the form of the function $\\xi ( \\phi )$ becomes complicated. The potential may arise naturally from supersymmetry breaking or other nonperturbative efects.Hence, we work on the general action (1). In a spatially flat Friedmann-Robertson-Walker Universe with the scale factor $a$ , from the action (1） we obtain the background equations ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { 3 H ^ { 2 } = \\displaystyle \\frac { 1 } { 2 } \\dot { \\phi } ^ { 2 } + V + 1 2 \\dot { \\xi } H ^ { 3 } ~ , } } \\\\ { { \\ddot { \\phi } + 3 H \\dot { \\phi } = - V _ { \\phi } - 1 2 \\xi _ { , \\phi } H ^ { 2 } \\left( \\dot { H } + H ^ { 2 } \\right) ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where a dot represents the time derivative, ${ \\bigl ( } \\ldots { \\bigr ) } _ { , \\phi }$ denotes a derivative with respect to $\\phi$ ，and $H \\equiv \\dot { a } / a$ is the Hubble parameter. Note that the coupling function $\\xi$ works as the effective potential for the inflaton $\\phi$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As discussed in [14], since the new degree of freedom is introduced by the GB coupling function $\\xi ( \\phi )$ , it is useful to introduce a combined hierarchy of Hubble and Gauss-Bonnet fow parameters.Following Refs.[15]，we define the hierarchy as $\\epsilon _ { 1 } = - \\dot { H } / H ^ { 2 }$ ， $\\delta _ { 1 } = 4 \\dot { \\xi } H$ ， $\\epsilon _ { i + 1 } = d \\ln | \\epsilon _ { i } | / d \\ln a$ and $\\delta _ { i + 1 } = d \\ln | \\delta _ { i } | / d \\ln a$ for $i \\geq 1$ .The slow-roll conditions become $| \\epsilon _ { i } | \\ll 1$ and $| \\delta _ { i } | \\ll 1$ ,analogous to the standard slow-roll approximation.Under such conditions the background equations (2） and (3) reduce to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { H ^ { 2 } \\simeq \\frac { 1 } { 3 } V } ~ , } } \\\\ { { \\displaystyle { H \\dot { \\phi } \\simeq - \\frac { 1 } { 3 } V Q } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $Q \\equiv V _ { , \\phi } / V + 4 \\xi _ { , \\phi } V / 3$ If $Q = 0$ ,the motion of inflaton is frozen because of the force due to the slope of the potential is exactly balanced by one from the GB coupling. In the case of $V _ { , \\phi } \\xi _ { , \\phi } > 0$ ， the GB coupling makes the evolutionof the inflaton faster thaninthecaseofstandardslow-rollinflation,which decreases theHubbleexpansion rate. If $V _ { , \\phi } \\xi _ { , \\phi } < 0$ , since the GB coupling slows the field evolution, inflation may occur even for a steep potential. The number of e-folds is computed as the following ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN ( \\phi ) \\simeq \\int _ { \\phi _ { \\mathrm { e n d } } } ^ { \\phi } \\frac { d \\phi } { Q ( \\phi ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The primordial power spectra of scalar and tensor perturbations are derived in [14] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathcal { P } _ { \\mathcal { R } } ~ = ~ \\frac { H ^ { 2 } } { 4 \\pi ^ { 2 } c _ { \\mathcal { R } } ^ { 3 } F _ { \\mathcal { R } } } , } } \\\\ { { \\mathcal { P } _ { T } ~ = ~ \\frac { 2 H ^ { 2 } } { \\pi ^ { 2 } c _ { T } ^ { 3 } F _ { T } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the expressions are evaluated at the time of horizon crossing at $c _ { \\mathcal { R } } k = a H$ and $c _ { T } k = a H$ , respectively. As shownin[14],to lowest order in the slow-rollparameters this diferenceofhorizon-crossing time is unimportant.We ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "lave assumed that time derivatives of the fow parameters can be neglected during slow-rollinflation,which allows ls to obtain the leading contribution to the slow-roll approximation. Here $c _ { \\mathcal { R } }$ ， $F _ { \\mathcal { R } }$ ， $c _ { T }$ and $F _ { T }$ are given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { c _ { \\mathcal { R } } ^ { 2 } = 1 + \\frac { 8 \\Delta \\dot { \\xi } H \\dot { H } + 2 \\Delta ^ { 2 } H ^ { 2 } ( \\ddot { \\xi } - \\dot { \\xi } H ) } { \\dot { \\phi } ^ { 2 } + 6 \\Delta \\dot { \\xi } H ^ { 3 } } , } \\\\ & { F _ { \\mathcal { R } } = \\frac { \\dot { \\phi } ^ { 2 } + 6 \\Delta \\dot { \\xi } H ^ { 3 } } { ( 1 - \\Delta / 2 ) ^ { 2 } H ^ { 2 } } , } \\\\ & { c _ { T } ^ { 2 } = 1 - \\frac { 4 ( \\dot { \\xi } - \\dot { \\xi } H ) } { 1 - 4 \\dot { \\xi } H } , } \\\\ & { F _ { T } = 1 - 4 \\dot { \\xi } H , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $\\Delta \\equiv 4 \\dot { \\xi } H / ( 1 { - } 4 \\dot { \\xi } H )$ . The tensor-to-scalar ratio $r \\equiv \\mathcal { P } _ { T } / \\mathcal { P } _ { \\mathcal { R } }$ and spectral indices of scalar and tensor perturbations are given in terms of the Hubble and GB flow parameters ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { r \\simeq 8 \\left( 2 \\epsilon _ { 1 } - \\delta _ { 1 } \\right) , } } \\\\ { { } } \\\\ { { n _ { \\mathcal { R } } - 1 \\simeq - 2 \\epsilon _ { 1 } - \\frac { 2 \\epsilon _ { 1 } \\epsilon _ { 2 } - \\delta _ { 1 } \\delta _ { 2 } } { 2 \\epsilon _ { 1 } - \\delta _ { 1 } } , } } \\\\ { { n _ { T } \\simeq - 2 \\epsilon _ { 1 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For a positive $\\epsilon _ { 1 }$ ， $Q V _ { \\phi } > 0$ is required. In this scenario,we see that the degeneracy of standard consistency relation between $r$ and $n _ { T }$ is broken due to the presence of the extra degree of freedom $\\delta _ { 1 }$ .For this reason,the future experimental checking of this relation is usually regarded as an important testof the simplest forms of inflation[16]. The tensor-to-scalar ratio is suppressed for a positive $\\delta _ { 1 }$ while it is enhanced for a negative $\\delta _ { 1 }$ . The Hubble and GB fow parameters can be expressed in terms of the potential and GB coupling function ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\epsilon _ { 1 } = \\frac { Q } { 2 } \\frac { V _ { \\phi } } { V } , } \\\\ { \\displaystyle \\epsilon _ { 2 } = - Q \\left( \\frac { V _ { \\phi \\phi } } { V _ { \\phi } } - \\frac { V _ { \\phi } } { V } + \\frac { Q _ { , \\phi } } { Q } \\right) , } \\\\ { \\displaystyle \\delta _ { 1 } = - \\frac { 4 Q } { 3 } \\xi _ { , \\phi } V , } \\\\ { \\displaystyle \\delta _ { 2 } = - Q \\left( \\frac { \\xi _ { , \\phi \\phi } } { \\xi _ { , \\phi } } + \\frac { V _ { , \\phi } } { V } + \\frac { Q _ { , \\phi } } { Q } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. MODELS AND OBSERVATIONS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section we willstudy several inflationary models as an ilustration.We assume that the power spectraof scalar and tensor perturbations can be parameterized as power-law at the pivot scale $k _ { 0 } = 0 . 0 0 2 \\ \\mathrm { M p c ^ { - 1 } }$ . As described in the previous section, the inflation consistency relation $n _ { T } = - r / 8$ is violated by the GB coupling. Hence, $n _ { T }$ should be allowed to vary independent of the tensor-to-scalar ratio. We adopt a flat prior on $n _ { T }$ of $[ - 3 , 0 ]$ .We use the Planck CMB temperature likelihood[2],whichcombines a Gausian likelihoodapproximationat high multipoles with a pixel-based approach at low multipoles,supplemented by the large scale 9-year WMAP polarization data [1] that givesa constraint on the reionization optical depth.Figures 1 and 2 show the Planck+WPconstraints in the （20 $n _ { \\mathcal { R } } - r$ plane for a varying $n _ { T }$ . Compared to the Planck's results for the standard slow-roll inflation [2],relaxing the consistency relation leads to a slightly tighter upper bound on $r < 0 . 1 0$ at $9 5 \\%$ confidence level. In the standard slow-rollinflation,the consistency relation imposes a nearly scale-invariant spectrum of tensor modes since the upper limits of $r$ is of the order $1 0 ^ { - 1 }$ .Deviations from scale invariance lead to more contribution of tensor modes to the temperature power spectrum of the CMB.In what folows we consider several commonly discussed inflationary models in light of the Planck observations.Comparisons of these models with observations are implemented by using predictions of $n _ { \\mathcal { R } }$ and $r$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A. power-law inflation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let us first consider power-law inflation with an exponential potential and an exponential GB coupling ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = V _ { 0 } e ^ { - \\lambda \\phi } , \\quad \\xi ( \\phi ) = \\xi _ { 0 } e ^ { \\lambda \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0071db22e85fb6ddd51056560929b709e4d7fa2850a42912868b086c11c50028.jpg",
+        "img_caption": [
+            "FIG.1: Marginalized joint 68% and $9 5 \\%$ CL regions for $\\boldsymbol { n } _ { \\mathcal { R } }$ and $r$ without the consistency relation from the Planck $^ +$ WP data, compared to the theoretical predictions of the model (22）with $n = 2$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { 0 }$ ， $\\xi _ { 0 }$ and $\\lambda$ are constants.For later convenience we define $\\alpha \\equiv 4 V _ { 0 } \\xi _ { 0 } / 3$ throughout the rest of the paper. Such a model was consideredas power-law inflation in[13].Itcanalso provide analternative explanation for thecurrent accelerationof the Universe[8].Like the standard power-lawinfation,there is no natural end toinflation withinthe model.Henceanaditional mechanism is required tostop it.Inthe generalslow-rollformalism this model,in which （204号 $\\epsilon _ { 1 } = \\lambda ^ { 2 } ( 1 - \\alpha ) / 2$ ， $\\delta _ { 1 } = \\lambda ^ { 2 } \\alpha ( 1 - \\alpha )$ ，and both $\\epsilon _ { 2 }$ and $\\delta _ { 2 }$ vanish, predicts $n _ { \\mathcal R } - 1 = - \\lambda ^ { 2 } ( 1 - \\alpha )$ and $r = 8 \\lambda ^ { 2 } ( 1 - \\alpha ) ^ { 2 }$ ： One gets the relation between $r$ and $n _ { \\mathcal { R } }$ as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = - 8 ( 1 - \\alpha ) ( n _ { \\mathscr { R } } - 1 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which indicates that a positive (or negative) $\\alpha$ can suppress (or enhance) the tensor-to-scalar ratio.It is known that the model with $\\alpha = 0$ is now outside the joint 99.7% CL region in the $n _ { \\mathcal { R } } - r$ plane derived from the Planck $^ +$ WP data.If $\\alpha \\gtrsim 0 . 5$ , this class of models can be consistent with the Planck constraints. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. chaotic inflation with an inverse power-law coupling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We now consider another model with a monomial potential and an inverse monomial GB coupling ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = V _ { 0 } \\phi ^ { n } , \\quad \\xi ( \\phi ) = \\xi _ { 0 } \\phi ^ { - n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This classof potentials has been widely studied as the simplest inflationary model.Without the GB coupling the $\\phi ^ { 4 }$ potential is well outside of the joint 99.7% CL region and the $\\phi ^ { 2 }$ potential lies outside the joint $9 5 \\%$ CL for the Planck+WP $^ +$ high- $\\it { l }$ data,as discussed in [2]. Here we show that the GB coupling may revive this class of potentials. Such a specific choice of GB coupling allows us to find an analytic relation between $r$ and $n _ { \\mathcal { R } }$ in terms of $N$ .This model, in which $\\epsilon _ { 1 } = n / ( 4 N + n )$ ， $\\delta _ { 1 } = 2 n \\alpha / ( 4 N + n )$ and $\\epsilon _ { 2 } = \\delta _ { 2 } = 4 / ( 4 N + n )$ ，predicts [14] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { n _ { \\mathcal { R } } - 1 } & { { } = } & { - \\displaystyle \\frac { 2 ( n + 2 ) } { 4 N + n } , } \\\\ { r } & { { } = } & { \\displaystyle \\frac { 1 6 n ( 1 - \\alpha ) } { 4 N + n } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To confront the theoretical predictions with the Planck constraints,in figure $1$ we plot the values of $n _ { \\mathcal { R } }$ and $r$ in the model with $n = 2$ for different values of $N$ and $\\alpha$ . We see that for a fixed number of e-folds the parameter $\\alpha$ can shift the predicted $r$ vertically and keep $n _ { \\mathcal { R } }$ invariant.Figure 1 shows that the model with a positive $\\alpha$ can be consistent with the Planck data while one with a negative $\\alpha$ is disfavored. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86fcc8c9c084c4c71d7e585dd6a12433e2e8e91aa162e0098b1a4a5faaf878b1.jpg",
+        "img_caption": [
+            "FIG.2:Predicted $n _ { \\mathcal { R } }$ versus $r$ in the model (25) with $n = 2$ for different values of $\\lambda$ and $\\alpha$ .Here we choose $N = 6 0$ .The contoursshow the 68% and $9 5 \\%$ CL from the Planck $^ +$ WPdata. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C. chaotic inflation with a dilaton-like coupling ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the two classes of models discussed above, we notice that the GB coupling and potential satisfy $\\xi ( \\phi ) V ( \\phi ) = 3 \\alpha / 4$ so that the relation between $r$ and $n _ { \\mathcal { R } }$ can analytically be expressed in terms of model parameters. Here we consider a more general model with a monomial potential and a dilaton-like coupling ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = V _ { 0 } \\phi ^ { n } \\ , \\quad \\xi ( \\phi ) = \\xi _ { 0 } e ^ { - \\lambda \\phi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For this model the Hubble and GB flow parameters are given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\epsilon _ { 1 } = \\frac { n \\left( n - \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } \\right) } { 2 \\phi ^ { 2 } } , } \\\\ { \\epsilon _ { 2 } = \\frac { 2 n - \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } ( \\lambda \\phi - n + 1 ) } { \\phi ^ { 2 } } , } \\\\ { \\delta _ { 1 } = \\frac { \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } \\left( n - \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } \\right) } { \\phi ^ { 2 } } , } \\\\ { \\delta _ { 2 } = \\frac { n \\left( \\lambda \\phi - n + 1 \\right) - 2 \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } \\left( \\lambda \\phi - n \\right) } { \\phi ^ { 2 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From Eqs. (13) and (14) one gets the scalar spectral index and tensor-to-scalar ratio ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { n _ { \\mathcal R } - 1 = \\displaystyle \\frac { - n ( n + 2 ) + \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } ( 2 \\lambda \\phi - n ) } { \\phi ^ { 2 } } \\ : , } } \\\\ { { r = \\displaystyle \\frac { 8 \\left( n - \\alpha \\lambda e ^ { - \\lambda \\phi } \\phi ^ { n + 1 } \\right) ^ { 2 } } { \\phi ^ { 2 } } \\ : , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which involve three model parameters $n$ ， $\\lambda$ and $\\alpha$ in the slow-roll approximation.Hereafter,we restrict ourselves to a quadratic potential, $n = 2$ ,often considered the simplest example for inflation [17]. The value of $\\phi$ in (30) and (31) depends on the number of e-folds and the value of $\\phi _ { \\mathrm { e n d } }$ by setting $\\operatorname* { m a x } ( \\epsilon _ { i } , \\delta _ { i } ) ( \\phi _ { \\mathrm { e n d } } ) = 1$ . For simplicity we set $N = 6 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In figure 2 we plot the scalar spectral index and tensor-to-scalar ratio for different values of $\\lambda$ and $\\alpha$ . There exist parameter regions in which the predicted $n _ { \\mathcal { R } }$ and $r$ are excellently consistent with the Planck constraints. We see that the scalar spectral index is sensitive to $\\lambda$ for a given value of $\\alpha$ . Compared to the inverse monomial coupling discussed in subsection B,these observable quantities are more sensitive to the dilaton-like coupling. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Inthis general slow-rollinfationary senario,the potential dominates theenergy densityof the Universeand the contribution from the GBcoupling is ignorable.The GB coupling may slow down the evolution of the inflaton by balancing the potentialforce,which decreases the energyscaleof the potential tobe inagreement with the observed amplitude of scalar perturbation.Hence,the tensor-to-scalar ratio is suppresed.In principle,even for a steep potential slow-roll infation can ocur with the helpof the non-minimal coupling of theinfaton to theGB term.In the frameworkofthe standard slow-rollinflation,it known thatthe energyscaleof infation can beestablished by the detection of the amplitude of tensor perturbations[2,18].In the presenceof theGB coupling,one need further measure the tensor tilt to establish theenergyscaleof infation because the new degreeof freedom is introduced by the GB coupling. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Under the general slow-rol approximation, since the Hubble and GB flow parameters, $\\epsilon _ { i }$ and $\\delta _ { i }$ , are much smaller than1,the propagation speed of scalar perturbations (9) is very close to1.It is shown that the effectof the GB coupling on primordial non-Gaussianities appears indirectly through the change of $c _ { \\mathcal { R } } ^ { 2 }$ [19].For the equilateral configuration, the non-linearity parameter is [19] ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\mathrm { N L } } ^ { \\mathrm { e q u i l } } \\sim \\frac { 5 5 } { 3 6 } \\epsilon _ { 1 } - \\frac { 2 5 } { 7 2 } \\delta _ { 1 } + \\frac { 5 } { 1 2 } \\frac { 2 \\epsilon _ { 1 } \\epsilon _ { 2 } - \\delta _ { 1 } \\delta _ { 2 } } { 2 \\epsilon _ { 1 } - \\delta _ { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "which means that these extra contributions from the GBcoupling remain of the order of smallslow-roll parameters, ust as in the minimally-coupled single-feld case.This is consistent with the Planck's results [20]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this paper we have applied the general slow-rollformalism to some specific infationary models in which the infaton hasadirect coupling with theGB term.Sincetheconsistency relationbetweenthe tensor-to-scalarratio and tensor spectral index is brokenbytheGBcoupling,weobtainedaslightly tighterconstraintson the tensor-to-scalar ratio using the Planck $^ +$ WP data when the tensor spectral index is allowed to vary freely. In the $\\textstyle r \\mathrm { ~ - ~ } n _ { \\mathcal { R } }$ plane we then confront the models with observational constraints.We found that there exit parameter regions in which the predicted $r$ and $n _ { \\mathcal { R } }$ are excellently consistent with the Planck constraints.Moreover,in the scenario the non-linearity parameter is of the order of slow-roll parameters,which is in agreement with the observational constraints. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is partially supported by the project of Knowledge Innovation Program of Chinese Academy of Science, NSFC under Grant No.1175225,and National Basic Research Program of China under Grant No.2010CB832805. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] G.Hinshaw et al.[WMAP Collaboration],arXiv:1212.5226.   \n2] P.A.R.Ade et al. [Planck Collaboration],arXiv:1303.5082.   \n[3]C.G.Callan,Jr.,E.J.Martinec,M.J.PeryandD.Friedan,Nucl.Phys.B262,593 (1985);D.J.GrossandJ.H.Sloa, Nucl.Phys.B 291,41 (1987).   \n[4]I.Antoniadis,E.GavaandK.S.Narain,Nucl.Phys.B383,93(1992)[arXiv:hep-th/9204030];.Antoniadis,J.Rizos and K. Tamvakis,Nucl. Phys.B 415,497 (1994) [arXiv:hep-th/9305025].   \n[5]S.Kawai,M.-.SakagamiandJ.SodaPhys.LettB437,284(1998)[arXiv:gr-qc/9802];S.KawaandJ.Soda,Phs. Lett.B 460,41 (1999) [arXiv:gr-qc/9903017].   \n[6]S.Tsujikawa,Phys.Let.B526,179(2002)[arXiv:gr-qc/0110124];；A.ToporenskyandS.Tsujkawa,Phys.Rev.D65, 123509（2002）[arXiv:gr-qc/0202067}；S.Tsujikawa,R.BrandenbergerandF.Fineli,Phys.Rev.D66,083513（2002) [arXiv:hep-th/0207228].   \n[7]K.Bamba,Z.K.Guo and N.Ohta,Prog.Theor.Phys.118,879(2007)[arXiv:0707.4334];K.Andrew,B.Bolenand C.A.Middleton, Gen.Rel. Grav.39,2061 (2007)[arXiv:0708.0373}；R.Chingangbam,M.Sami,P.V.Tretyakov and A.V.Toporensky,Phys.Lett.B661,162(2008)[arXiv:07.2122]; I.V.KirnosandA.N.Makarenko,arXiv:0903.0083.   \n[8]S.Nojiri,S.D.OdintsovandM.Sasaki,Phys.Rev.D71,23509 (2005)[arXiv:hep-th/0504052]; G.Cognola,E.Elizalde, S.Nojiri，S.D.Odintsov and S.Zerbini,Phys.Rev.D73,084007(2006)[arXiv:hep-th/0601008]；T.Koivisto and D.F.Mota,Phys.Lett.B644,104 (2007）[astro-ph/0606078]；S.Tsujikawa and M.Sami,JCAP0701,006（2007) [arXiv:hep-th/0608178];T.KoivistoandD.F.Mota,Phys.Rev.D75,023518(2007)[hep-th/0609155];B.M.Leithand I.P.Neupane,JCAP0705,019(2007)[arXiv:hep-th/0702002]; B.C.Paul and S.Ghose,Gen.Rel.Grav.42,795(2010) [arXiv:0809.4131];M.R.SetareandE.N.Saridakis,Phys.Lett.B670,1(2008)[arXiv:0810.3296];J.Sadeghi,M..Setare and A.Banijamali，Phys.LettB679,302(2009)[arXiv:0905.1468];J.Sadeghi,M.R.Setare andA.Banijamali,Eur. Phys.J.C64,433(2009)[arXiv:0906.0713]；P.WuandH.Yu,Mod.Phys.LettA 25,2325 (2010);J.Moldenhauer, M.Ishak,J.Thompso andD.A.Eassn,Phys.Rev.D81,063514(2010)[arXiv:1004.2459];S.NojiriandS.D.Odintsov, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Phys.Rept.505,59 (2011)[arXiv:1011.0544;；M.Iihoshi,Gen.Rel.Grav.43,1571(2011)[arXiv:1012088]; K.Maeda, N. Ohta and R.Wakebe,Eur.Phys. J.C 72,1949 (2012) [arXiv:1111.3251]. [9]R.A.Brown,R.Maartens,E.PapantonopoulosandV.Zamarias,JCAP051,008(2005)[arXiv:gr-qc/050816];J.H.He, B.Wang andE.Papantonopoulos,Phys.LettB654,133(2007)[arXiv:0707.1180]; E.N.Saridakis,Phys.Lett.B 661, 335（2008)[arXiv:0712.3806]. [10]J.-c.Hwangand H.Noh,Phys.Rev.D61,043511(2000）[arXiv:astro-ph/9909480]；C.Cartier，J.-c.Hwangand E.J. Copeland,Phys.Rev.D64,103504 (2001)[arXiv:astro-ph/0106197];J.-c.Hwangand H.Noh,Phys.Rev.D71, 063536(2005) [arXiv:gr-qc/0412126]. [11]M.Satoh,S.KannoandJ.Soda,Phys.Rev.D77,23526(2008)[arXiv:0706.3585];M.SatoandJ.Soda,JCAP809,019 (2008)[arXiv:0806.4594]; M.Satoh,JCAP1011,024(2010)[arXiv:1008.2724]; K.NozariandN.Rashidi,arXiv:1310.3989. [12] Z.K. Guo,N. Ohta and S. Tsujikawa, Phys. Rev.D 75,023520 (2007) [arXiv:hep-th/0610336]. [13] Z.K.Guo and D. J. Schwarz,Phys.Rev.D 80,063523 (2009) [arXiv:0907.0427]. [14] Z.K.Guo and D. J. Schwarz,Phys.Rev.D 81,123520 (2010) [arXiv:1001.1897]. [15]D.J.Schwarz,C.A.Tero-EscalanteandA.A.Carcia,Phys.Lett.B517,243(2001）[arXiv:astro-ph/0106020]; S.M.Leach,A.R.Liddle,J. Martin and D.J. Schwarz,Phys.Rev.D66,023515 (2002)[arXiv:astro-ph/0202094]; D.J. Schwarz and C.A. Terrero-Escalante,JCAP 0408,003 (2004) [arXiv:hep-ph/0403129]. [16] C. Cheng, Q. G. Huang, X. D. Li and Y. Z. Ma,Phys. Rev.D 86,123512 (2012) [arXiv:1207.6113]. [17]A.D.Linde,Phys.Lett.B129,177 (1983). [18]A.R.Lidle,Phys.Rev.D49,739 (1994)[astro-ph/9307020]; Z.K.Guo,D.J.SchwarzandY.Z. Zhang,Phys.Rev.D83, 083522 (2011)[arXiv:1008.5258]; J.Martin,C.Ringevaland V.Vennin,arXiv:1303.3787; S.ChoudhuryandA.Mazumdar, arXiv:1306.4496. [19] A.De Felice and S. Tsujikawa, JCAP 1104, 029 (2011) [arXiv:1103.1172]. [20]P.A.R.Ade et al. [Planck Collaboration],arXiv:1303.5084. ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,125 @@
+# 安全依恋对共情和利他行为的影响
+
+潘彦谷」 肖遥」 胡俞」 刘广增² 李知洋3(1西南财经大学社会发展研究院，成都611130)
+
+( 西南大学心理健康教育研究中心，重庆 400715)
+
+( 四川省成都市武侯高级中学，成都 610043)
+
+摘要 利他行为(Altruistic behavior)指以增加其他个体的福利为最终目标的行为，它既是社会心理学领域的重要研究主题也是社会和谐稳定的需要。共情(Empathy)指个体感知或想象他人的情感，并部分体验到他人感受的心理过程，是利他行为的内在动机。已有研究证明，安全依恋风格和安全依恋启动对个体共情和利他行为有积极影响。根据依恋理论和相关文献可以推测，情绪调节和认知图式可能是安全依恋影响个体共情和利他行为的两种心理机制。未来可以探讨利他行为的实施者与接受者的关系远近及双方依恋风格匹配程度的调节作用，进一步验证安全依恋影响共情和利他行为的心理机制,探讨利他行为对安全依恋的反向促进作用以及开发通过安全依恋培养个体共情能力和利他行为的干预方案。
+
+关键词 依恋风格；安全依恋启动；共情；利他行为；情绪调节；认知图式
+
+利他行为(Altruistic behavior)既是社会心理学领域的重要研究主题也是社会和谐稳定的需要。利他行为指以增加其他个体的福利为最终目标的行为(Batson,2010)。利他行为对于维持个体心理健康、保持良好人际关系、促进社会和谐均有重要价值。共情(Empathy)是利他行为的内在动机，指个体感知或想象他人的情感，并部分体验到他人感受的心理过程(潘彦谷等，2013；肖凤秋，郑志伟，陈英和,2014)。共情可以帮助个体更好地理解和预测他人的情绪和行为，共情也可以促进利他与合作行为，共情在人际交往中扮演了非常重要的角色。近来，人格与社会心理学研究者从依恋理论的视角探讨共情和利他行为，发现安全依恋个体具有更高的共情能力和利他行为，安全依恋启动可以促进个体对处于困境他人的共情和无私帮助行为(Gross，Stern，Brett，& Cassidy，2O17；Shaver，Mikulincer，&Cassidy,2019; Shaver,Mikulincer,Gross,Stern,& Cassidy,2016)。本文将在依恋理论框架下综述安全依恋对个体共情和利他行为的影响及其心理机制，旨在为安全依恋与共情和利他行为关系的深入研究提供文献基础，为培养个体共情能力和利他行为、促进社会和谐提供科学依据。
+
+# 1依恋行为系统和关怀行为系统
+
+依恋行为系统(attachment behavioral system)指在生物演化过程中，婴幼儿不具备成熟的移动、觅食和自我保护能力，他们天生具有向身边人寻求亲近的能力，这种行为增加了人类存活的可能性(Bowlby,1982)。如果依恋对象(attachmentfigure)能够长期为婴幼儿提供身体和情绪方面的保护，帮助他们尝试探索世界、发展自我能力和人格，婴幼儿将形成安全依恋的个性(Mikulincer,Shaver,&Pereg,2003)。依恋行为系统不只在生命早期起重要作用，它对个体一生都会产生重要影响，完全成熟和独立的成年人也能从寻找和获得他人关爱中获益，尤其在面临危机、处于痛苦或孤独的时候(Mikulincer& Shaver,2007)。除了依恋行为系统，人天生还具备一些其他行为系统，比如关怀行为系统(caregivingbehavioralsystem)、性系统（sexual system)和探索系统(exploration system)。关怀行为系统的基本功能是回应其他个体寻求帮助的需求，在困境中为他人提供保护和支持(Mikulincer& Shaver,2010)。关怀行为(caregiving)被认为是共情、利他行为以及亲社会行为的原型(Shaver,Mikulincer,& Shemesh-Iron,2010)。依恋行为系统和关怀行为系统有怎样的关系呢？
+
+# 2安全依恋风格与共情和利他行为的关系
+
+Bowlby指出，依恋理论涉及依恋行为系统的动态特征与个体差异两个方面，前者描述了威胁情境下依恋系统激活后的信息加工特性；后者则表现为个体身上习惯化的依恋风格(attachment style)，是依恋系统的功能模块在特殊社会经验的逐步塑造下最终形成的稳定特质(李彩娜，石鑫欣，黄凤，马婧,2013)。目前对依恋风格的测量主要依据两个维度，即依恋回避和依恋焦虑。依恋回避反映个体不信任他人的善意，努力保持自己在行为和情感上的独立。如果个体在这一维度得分较高，且在另一维度得分较低，那么他/她就属于依恋回避类型。依恋焦虑反映个体担心在需要时得不到帮助，渴望能够得到他人的关注和帮助。如果个体在这一维度得分较高，且在另一维度得分较低，那么他/她就属于依恋焦虑类型。另外，如果个体在上述两个维度得分都很低，则属于安全依恋类型(Erez,Mikulincer,van Ijzendoorn，&Kroonenberg，2008)。依恋风格两个维度可以通过ECR(Experience in Close Relationships)自我报告量表进行测量(Brennan,Clark,&Shaver, 1998)。
+
+安全依恋风格与个体共情和利他行为呈正相关关系。以往研究发现，安全依恋个体对需要帮助的人表现出更多共情(Mikulincer etal.,2001)，对婚姻中另一半和陌生人表现出更多及时、敏感的关怀和回应，对外群体成员表现出更多包容(Shaver etal.,2019)。研究也表明，安全依恋的医护人员更容易对病人产生共情，有利于改善医患关系和减轻医护人员在临床环境下的压力(Khodabakhsh,2012)。另外，以往研究发现依恋焦虑和依恋回避负向预测个体的利他行为(Mikulincer,Shaver,Gillath,&Nitzberg,2005)，依恋回避与更少的志愿行为和利他动机有关，依恋焦虑与自我服务的志愿行为动机有关(Gillath etal.,2005)。研究进一步发现，控制积极人格特质（情绪稳定性、外向性、开放性、尽责性、随和性）后，依恋焦虑和依恋回避对个体参与志愿服务仍然具有显著的负向预测作用(Erez et al.,2008)。Westmaas 和 Silver(2001)研究发现，在他人需要帮助的情境中，依恋焦虑是个体焦虑程度的预测指标，依恋回避负向预测个体为他人提供帮助的可能性。这些研究结果一致表明非安全依恋风格（依恋焦虑或者依恋回避）对个体共情和利他行为有负向预测作用，进而证明安全依恋风格与个体共情和利他行为有正向关系。
+
+亲子依恋是儿童青少年与父母形成的稳定的依恋关系，亲子依恋质量越高表明儿童青少年的安全依恋水平越高。实证研究证明亲子依恋质量与儿童青少年利他行为呈正相关。关于607名中国青少年的研究发现，亲子依恋质量更高的个体拥有更好的自我控制能力，进而表现出更多帮助行为(Nie,Li,&Vazsonyi,2016)。研究也发现，亲子依恋与青少年亲社会行为存在显著正相关(侯芬，伍新春，邹盛奇，刘畅，黄彬彬,2018；王艳辉等,2017; Pan et al.,2017)。另外，国外研究发现3\~5 岁儿童的安全依恋与帮助、安慰、分享行为呈显著正相关(Beieretal.,2019)。这些研究结果表明安全依恋与儿童青少年的利他行为有正向关系。
+
+# 3安全依恋启动对共情和利他行为的影响
+
+依恋风格在一定程度上能被改变(Mikulincer& Shaver,2007)。研究者采用实验方法暂时激活个体的安全依恋心理表征，使其表现出安全依恋的一系列积极效应，这个过程被称为安全依恋启动(security priming;Mikulincer& Shaver,2015)。安全依恋启动分为阈上安全启动和阈下安全启动两种类型，二者的区分标准是刺激材料是否被个体觉察到，如未被察觉，则为阈下安全启动；如被觉察到，则为阈上安全启动。阈下安全启动主要向被试呈现安全依恋相关的词语或图片，时长一般为 $2 0 { \sim } 5 0 \mathrm { m s }$ 。阈上安全启动可使用安全依恋相关的图片、词汇等作为刺激材料，刺激呈现时长一般为 ${ 5 0 0 } \mathrm { m s }$ 及以上，或者引导被试阅读安全依恋相关故事，回忆、想象、书写安全依恋经历等(郭薇，陈旭，杨楠,2011；张鹏等,2018)。
+
+安全依恋启动能够提升个体依恋安全感，个体对他人和环境的评估更为积极，进而促进利他行为。安全依恋启动也能够增加个体对仁慈(benevolence)和普世主义(universaliam)两种自我超越价值观的认可，而这两种价值观能促使利他行为的发生。综述研究发现，安全依恋启动在情绪方面会产生治愈、安抚的效应，改善个体对自我以及身边人的评价，降低组内的敌意，增加共情和帮助他人的意愿(Mikulincer& Shaver,2007)。Mikulincer等人通过一系列安全启动实验发现，阈上或者阈下安全依恋启动都会使个体对他人的需求表现出更多共情，也会降低对个人痛苦的关注，呈现出更多利他行为倾向(Mikulincer etal.,2001;Mikulincer etal.,2005)。近来研究还发现，不同依恋风格的个体在经过安全依恋启动后，都会对处于不利处境的他人表现出更多共情。安全依恋启动削弱了阻碍帮助行为的防御机制，降低了关怀回避(caregiving avoidance)和关怀焦虑(caregiving anxiety)。换句话说，安全依恋启动使个体更加愿意关注他人需求和帮助他人，并相信自己有能力帮助他人(Cassidy, Stern,Mikulincer,Martin,& Shaver,2018)。此外，Carnelley和 Rowe(2007)研究发现，反复激活安全依恋表征可在较长时间内改善个体对亲密关系的信念，使其对自我的评价更积极，更信任关系伴侣，对伴侣行为的预期更积极。国内研究也发现，安全依恋启动能够显著提高人际信任，这种效应独立于积极情绪的作用(李彩娜，孙颖，拓瑞，刘佳,2016)。另一个国内研究发现，面孔可信度高的求助者获得的助人行为显著多于面孔可信度低的求助者，但是，安全依恋启动能够有效缓减低面孔可信度导致的助人行为下降趋势(王秀娟，王娜,韩尚锋，刘燊，张林,2018)。以上研究结果一致表明安全依恋启动对个体的共情和利他行为有促进作用。
+
+# 4安全依恋影响共情和利他行为的心理机制
+
+虽然安全依恋影响共情和利他行为已被证实，但安全依恋影响共情和利他行为的心理机制是什么，目前国内外关于这方面的实证研究很少。对安全依恋影响共情和利他行为心理机制的探讨，既可以更好地理解安全依恋与共情和利他行为的关系，又可以为培养共情能力和利他行为提供科学依据。根据依恋理论和相关文献，可以推测安全依恋影响共情和利他行为主要存在情感机制和认知机制。
+
+# 4.1情绪调节
+
+情绪调节(emotion regulation)指个体对具有什么样的情绪、情绪什么时候发生、如何进行情绪体验与表达施加影响的过程。情绪调节不仅是减弱负性情绪，还包括对正性情绪的增强调节等多个方面(Gross,1998)。首先，安全依恋的个体具有更好的情绪调节能力。一方面，相较于不安全依恋个体，安全依恋个体从依恋对象身上获得更多安抚痛苦的经验，掌握了更多情绪调节技巧，经历更少的消极情绪。依恋理论认为儿童的情绪调节能力来源于照料者对儿童痛苦的敏感应对，并认为情绪调节是早期经历影响个体后期功能的主要内在机制(Calkins &Leerkes,2011；Mikulincer etal.,2003)。而且，实证研究也证明安全依恋的婴儿、儿童以及青少年能更好地调节情绪唤醒(Kerns,Abraham,Schlegelmilch,&Morgan,2007;Leerkes&Wong,2012; Sroufe,2005)。另一方面，不同依恋风格个体具有不同的依恋策略，不同的依恋策略具有不同的情绪调节策略。安全依恋个体一般采用初级依恋策略(primary attachment strategy)，即在自身需要时向依恋对象寻求亲近，初级依恋策略也是安全依恋策略，这种策略主要是减轻个人痛苦、构造个人资源、拓宽眼界(Mikulincer etal.,2003)。不安全依恋个体一般依赖于寻求亲近以外的次级依恋策略(secondary attachment strategies)。次级依恋策略旨在管理依恋系统的激活，减轻寻求亲近受挫而造成的痛苦。次级依恋策略在调节自身痛苦时会过度激活依恋系统(hyperactivating attachment system)或者抑制激活依恋系统(deactivating attachment system)。依恋焦虑个体通常采用过度激活依恋策略，这类个体迫切想要得到他人最大程度的亲近、支持和关爱，但他们没有信心获得这一切，自我情绪调节能力不足。依恋回避个体通常使用抑制激活依恋策略，这类个体努力抑制寻求亲近的倾向，否认依恋需求，在情感和认知上与他人保持距离并只从自身寻求保护，这类个体的情绪调节能力也较低(Mikulincer& Shaver,2010)。总之，安全依恋个体具有较强的情绪调节能力，非安全依恋（依恋焦虑或依恋回避）个体的情绪调节能力较低。
+
+其次，情绪调节能力对共情和利他行为具有重要影响。情绪调节能力较差的个体由于无法平息自身的消极情绪，他们更可能经历个人痛苦；而具有较强情绪调节能力的个体能够在行为和认知上调整情绪反应，对处于困境的他人更可能表现出情感上的关心，进而更可能做出利他行为。实证研究也发现，自我情绪调节的行为和生理指标与儿童的共情和利他行为相关，然而自我悲伤（即自我关注、负性情绪调节异常）与共情和利他行为负相关或不相关(Eisenberg,2000;Eisenberg＆Fabes,1995)。因此，可以推测情绪调节可能是安全依恋影响个体共情和利他行为的心理机制之一。
+
+此外，实证研究发现情绪调节在儿童安全依恋与共情之间起中介作用(Panfile&Laible,2012)。该研究调查了63名3岁儿童和他们的母亲，母亲报告儿童的安全依恋、情绪调节以及共情能力。结果发现，儿童的安全依恋通过情绪调节对共情产生间接影响，即安全依恋水平越高的儿童，情绪调节越好，进而共情能力更高。这个研究直接证明了情绪调节可能是安全依恋影响儿童共情的内在机制之一。
+
+# 4.2认知图式(cognitive schemas)
+
+根据依恋理论，个体早期与依恋对象(attachment figure)的互动会逐渐内化为内部工作模式(internal working model;IWM)。依恋内部工作模式就是个体行为的认知图式(cognitive schemas)，对个体的具体行为有重要影响。依恋的内部工作模式分为自我模式和他人模式。安全依恋个体的自我模式是认为自己是有价值的、值得别人喜爱的；他人模式是认为他人是心怀好意的，值得信赖的等等。安全依恋个体的他人模式导致个体把处于困境的他人看作是值得同情和支持的，自我模式促使个体有信心满足处于困境的他人的需要，同时相信能有效处理自己的消极情绪(Shaver etal.,2016)。依恋焦虑个体拥有消极的自我模式，对自身形成消极的看法，使其在面对他人的需求时，更多考虑个人痛苦。依恋回避个体具有消极的他人模式，对他人保持消极的看法，害怕被拒绝而避免与他人保持亲密，从而较少表现出帮助他人的行为(Shaver etal.,2016)。以往研究发现不安全依恋个体对威胁事件具有消极的认知图式(Ein-Dor,Mikulincer,& Shaver,2011)。类似地，不安全依恋个体对处于困境的他人可能存在消极的认知图式，相反，安全依恋个体对处于困境的他人可能存在积极的认知图式（认为处于困境的他人需要且值得帮助，而且自己有能力提供恰当的帮助）。因此，根据依恋的内部工作模式理论推测，安全依恋可以通过认知图式(schemas)影响个体的共情和利他行为。
+
+# 5总结与未来研究展望
+
+已有研究证明安全依恋风格和安全依恋启动对个体的共情和利他行为均有积极作用。而且，根据依恋理论和相关文献可以推测，情绪调节和认知图式可能是安全依恋影响个体共情和利他行为的两种心理机制。未来可以在以下几方面开展进一步研究：
+
+# 5.1利他行为实施者和接受者的关系远近以及双方依恋风格匹配的调节作用
+
+个体的关怀系统天生具有利他性，起初针对的对象主要是儿女、兄弟姐妹以及具有血缘关系的同族成员(Gillath etal.,2005)。面对生活中遭遇危机的个人，朋友和家人通常会提供有效的支持与帮助；而陌生人更多表现出回避与不适，减少对后续接触的期望(Westmaas& Silver,2001)。未来可以进一步探讨安全依恋对共情和利他行为的影响是否受到利他行为实施者和接受者关系远近程度的调节。
+
+从一般意义上来讲，关怀接受者与提供者的依恋风格互相匹配时，会减少提供者对接受者的消极回应；而两者的依恋风格存在较大差异时，更可能产生拒绝反应。例如，当一个渴望与他人建立亲密关系的个体与依恋回避型个体产生互动时，会加剧依恋回避型个体在互动交往中的不适。而如果两者都属于依恋回避型个体，则更少表现出拒绝。依恋风格的匹配会对互动双方的心理和行为产生影响，未来可以探讨安全依恋与共情和利他行为的关系是否会受到利他行为实施者和接受者依恋风格匹配程度的调节。
+
+# 5.2进一步验证安全依恋影响共情和利他行为的心理机制
+
+虽然本文根据依恋理论和相关文献推测情绪调节和认知图式可能是安全依恋影响个体共情和利他行为的两种心理机制。但是已有的证据不够充分，尤其是关于认知图式的证据很少。未来应该开展更多的调查和实验研究验证情绪调节和认知图式是安全依恋影响个体共情和利他行为的心理机制。比如，可以开展追踪调查研究，探讨依恋风格、情绪调节能力、共情以及利他行为之间的关系。也可以采用实验研究方法，检验安全依恋启动对个体情绪调节和认知图式的短时作用，进而对个体共情和利他行为的影响。
+
+# 5.3探讨利他行为对个体安全依恋的反向促进作用
+
+大量研究已经证明安全依恋可以促进个体的利他行为，反过来，利他行为能够影响个体的安全依恋吗？谢晓非等人在实证研究基础上提出利他行为增加助人者适应性的双路径模型，该模型认为利他行为不仅有利于他人，而且可以通过自激励的内在过程，促进助人者身心正性互动，提高其适应性(谢晓非，王逸璐，顾思义，李蔚,2017)。以往研究也发现，对于拥有消极自我和他人模式的不安全依恋个体，通过帮助他人可以使他们对自我以及自我价值有更加积极的看法，改善他们对他人的信任度。同时，参加志愿服务也会明显减少人际交往问题（如：孤独、敌意、缺乏自信），尤其在依恋焦虑个体身上体现更加明显(Gillath et al.,2005)。未来可以深入探讨利他行为对个体安全依恋的作用，明晰安全依恋与利他行为的相互作用关系。
+
+# 5.4开发通过安全依恋培养个体共情能力和利他行为的干预方案
+
+研究证明，安全依恋启动使个体将目光从自己身上更多转移到他人身上，增加了共情和利他行为倾向。这个结果有重要的实践启示，通过采用干预方案提升个体的安全依恋水平，进而培养个体的共情能力和利他行为。不安全依恋矫正的主要目标是恢复安全依恋并促进安全情绪调节策略的形成。对于依恋焦虑个体，应该努力改善他们无助和担忧被孤立的认知，并重视锻炼他们自我管理的技巧。而对于依恋回避个体，应该努力消除他们将寻求亲近看作是没有回应甚至是惩罚的认知，并恢复他们与依恋对象之间的情感联结(Mikulincer etal.,2003)。另外，通过安全依恋培养个体共情和利他行为应该考虑安全依恋影响共情和利他行为的心理机制，即培养情绪调节能力和塑造积极认知图式。总之，未来应该研究通过安全依恋培养个体共情能力和利他行为的干预方案，为共情能力和利他行为的培养提供科学依据。
+
+# 参考文献
+
+郭薇，陈旭，杨楠.(2011).安全基地启动及其脑机制．心理发展与教育,27(05),553-560.侯芬，伍新春，邹盛奇，刘畅，黄彬彬.(2018).父母教养投入对青少年亲社会行为的影响:
+
+亲子依恋的中介作用．心理发展与教育,34(04),417-425.   
+李彩娜，石鑫欣，黄凤，马婧.(2013).安全依恋的概念，机制与功能．北京师范大学学报（社 会科学版),1(3),30-37.   
+李彩娜，孙颖，拓瑞，刘佳.(2016).安全依恋对人际信任的影响：依恋焦虑的调节效应．心 理学报,48(08),989-1001.   
+潘彦谷，刘衍玲，冉光明，雷浩，马建苓，滕召军.(2013).动物和人类的利他本性：共情的进 化．心理科学进展,21(7),1229-1238.   
+王秀娟，王娜，韩尚锋，刘燊，张林.(2018).面孔可信度对助人行为的影响：依恋安全的调 节作用．心理学报,50(11),1292-1302.   
+王艳辉，李董平，孙文强，赵力燕，赖雪芬，周月月.(2017).亲子依恋与初中生亲社会行为: 有调节的中介效应．心理学报,49(5),663-679.   
+肖凤秋，郑志伟，陈英和.(2014).共情对亲社会行为的影响及神经基础．心理发展与教育， 30(2), 208-215.   
+谢晓非，王逸璐，顾思义，李蔚.(2017).利他仅仅利他吗？——进化视角的双路径模型．心 理科学进展,25(9),1441-1455.   
+张鹏，张斌梅子，邹建科，刘翔平.(2018).安全依恋启动影响社会行为：方法、效果与机制. 心理科学,41(3),615-620.   
+Batson, C. D. (2010). Empathy-induced altruistic motivation. In M. Mikulincer & P.R. Shaver (Eds.),Prosocial motives, emotions, and behavior: The better angels of our nature (pp.15-34). Washington, DC: American Psychological Association.   
+Beier, J. S., Gross, J. T., Brett, B.E., Stern, J.A., Martin, D.R.,& Cassidy, J. (2019). Helping, sharing,and comforting in young children: Links to individual differences in attachment. Child Development, 90(2), e273-e289.   
+Bowlby, J.(1982). Attachment and loss: Vol. 1. Attachment (2nd ed.). New York: Basic Books.   
+Brennan, K.A., Clark, C.L.,& Shaver, P.R.(1998). Self-report measurement of adult attachment: An integrative overview. In J.A. Simpson & W. S.Rholes (Eds.),Attachment theory and close relationships (pp. 46-76). New York: Guilford Press.   
+Calkins,S.D.,& Leerkes,E.M. (2011). Early attachment processes and the development of emotional self-regulation. Handbook ofself-regulation: Research, theory, and applications (pp. 324-339).   
+Carnelley, K. B., & Rowe, A. C. (2007). Repeated priming of attchment security influences later views of self and relationships. Personal Relationships,14(2),307-320.   
+Cassidy, J., Stern, J.A., Mikulincer, M., Martin, D.R.,& Shaver, P.R. (2018). Influences on care for others: Attachment security, personal suffering, and similarity between helper and care recipient. Personality and Social Psychology Bulletin, 44(4), 574-588.   
+Ein-Dor, T., Mikulincer, M.,& Shaver, P.R. (2011). Atachment insecurities and the processing of threat-related information: Studying the schemas involved in insecure people's coping strategies. Journal of Personality and Social Psychology, 101(1),78-93.   
+Eisenberg,N. (20o0). Emotion,regulation, and moral development. Annual Review of Psychology, 51(1), 665-697.   
+Eisenberg,N.，& Fabes,R.A.(1995). The relation of young children's vicarious emotional responding to social competence, regulation, and emotionality. Cognition & Emotion, 9(2-3), 203-228.   
+Erez,A.， Mikulincer, M.，van Ijzendoorn, M. H.，& Kroonenberg,P. M. (2008). Attachment, personality, and volunteering: Placing volunteerism in an attachment-theoretical framework. Personality and Individual Differences, 44(1), 64-74.   
+Gillath, O., Shaver, P.R., Mikulincer, M.,Nitzberg,R.E., Erez,A.,& IJzendoorm,M.H. (2005). Attachment, caregiving, and volunteering: Placing volunteerism in an attachment-theoretical framework. Personal Relationships, 12(4), 425-446.   
+Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2(3),271-299.   
+Gross,J. T., Stern, J.A., Brett, B.E.,& Cassidy, J. (2017). The multifaceted nature of prosocial behavior in children: Links with atachment theory and research. Social Development, 26(4), 661-678.   
+Kerns,K. A.，Abraham，M. M.， Schlegelmilch，A.， & Morgan， T. A. (2007). Mother-child attachment in later middle childhood: Assessment approaches and associations with mood and emotion regulation. Attachment & Human Development, 9(1), 33-53.   
+Khodabakhsh, M. (2012). Atachment styles as predictors of empathy in nursing students. Journal of Medical Ethics and History of Medicine, 5(8),1-7.   
+Leerkes, E. M., & Wong, M. S. (2O12). Infant distress and regulatory behaviors vary as a function of attachment security regardless of emotion context and maternal involvement. Infancy, 1 7(5), 455-478.   
+Mikulincer, M., Gilath, O., Halevy, V.,Avihou, N., Avidan, S.,& Eshkoli, N. (2001). Attachment theory and reactions to others' needs: Evidence that activation of the sense of attachment security promotes empathic responses. Journal of Personality and Social Psychology， 81(6), 1205-1224.   
+Mikulincer, M.,& Shaver, P. R. (2007). Boosting atachment security to promote mental health, prosocial values, and inter-group tolerance. Psychological Inquiry, 18(3), 139-156.   
+Mikulincer,M.,& Shaver,P.R. (2010). Does gratitude promote prosocialbehavior? The moderating role of attachment security. In M. Mikulincer & P.R. Shaver (Eds.), Prosocial motives, emotions, and behavior: The better angels of our nature (pp. 267-283). Washington, DC: American Psychological Association.   
+Mikulincer, M.,& Shaver, P.R. (2015). The psychological effects of the contextual activation of security-enhancing mental representations in adulthood. Current Opinion in Psychology, 1,18- 21.   
+Mikulincer, M., Shaver, P.R., Gillath, O.,& Nitzberg,R.A. (2005). Attachment, caregiving, and altruism: boosting attachment security increases compassion and helping. Journal of Personality and Social Psychology, 89(5), 817-839.   
+Mikulincer, M., Shaver, P.R.,& Pereg, D. (2003). Attachment theory and affect regulation: The dynamics， development， and cognitive consequences of attachment-related strategies. Motivation and Emotion, 27(2),77-102.   
+Nie,Y. G.,Li, J. B.,& Vazsonyi, A. T. (2016). Self-control mediates the associations between parental attachment and prosocial behavior among Chinese adolescents. Personality & Individual Differences, 96,36-39.   
+Pan,Y.,Hu,Y., Zhang,D.,Ran, G.,Li,B.,Liu, C.,...Chen, W. (2017).Parental and peer attachment and adolescents' behaviors: The mediating role of psychological suzhi in a longitudinal study. Children and Youth Services Review, 83,218-225.   
+Panfile,T. M., & Laible, D. J. (2012). Attachment security and child's empathy: The mediating role of emotion regulation. Merrill-Palmer Quarterly, 58(1), 1-21.   
+Shaver, P.R., Mikulincer, M., & Cassidy, J. (2019).Attchment, caregiving in couple relationships, and prosocial behavior in the wider world. Current Opinion in Psychology, 25,16-20.   
+Shaver, P. R., Mikulincer, M., Gross,J. Stern, J., & Cassidy, J. (2016). A lifespan perspective on attachment and care for others: Empathy, altruism,and prosocial behavior. In J. Cassidy & P.R. Shaver (Eds.),Handbook of Attachment: Theory, Research, and Clinical Applications (Third ed., pp. 878-916). New York: Guilford Publications.   
+Shaver, P.R.,Mikulincer, M. & Shemesh-Iron,M. (2010).A behavioral systems perspective on prosocial behavior. In M. Mikulincer & P.R. Shaver (Eds.), Prosocial motives, emotions, and behavior: The better angels of our nature (pp. 73-91). Washington， DC: American Psychological Association.   
+Sroufe,L.A. (2005). Attachment and development: A prospective,longitudinal study from birth to adulthood. Attachment & Human Development, 7(4),349-367.   
+Westmaas, J.L.,& Silver,R. C.(20o1). The role of attachment in responses to victims oflife crises. Journal of Personality and Social Psychology, 80(3), 425-438.
+
+# Effects of secure attachment on empathy and altruistic behavior
+
+PAN Yangu1; XIAO Yao1; HU $\mathrm { Y u } ^ { 1 }$ ; LIU Guangzeng²; LI Zhiyang
+
+( Research Institute of Social Development, Southwestern University of Finance and Economics, Chengdu 611130, China)   
+( Research Center of Mental Health Education, Southwest University, Chongqing 400715, China) β Wuhou Senior High School of Chengdu, Chengdu 610043, China)
+
+Abstract: Altruistic behavior refers to the motivation of which ultimate goal is to increase other individuals' welfare. It is not only an important research topic in the field of social psychology but also the need of social harmony and stability. Empathy occurs when an observer perceives or imagines someone else's affect and this triggers a response such that the observer partially fels what the target is feeling. Empathy is the intrinsic motivation for altruistic behavior. Previous studies indicated that secure attachment style and security priming positively impact individuals’ empathy and altruistic behavior. According to attachment theory and literatures, emotion regulation and cognitive schema might be the mechanism explaining how secure attachment influences individuals’ empathy and altruistic behavior. Future research can further explore the moderating role of the relationship between givers and receivers of altruistic behavior, examine the mechanism underlying the relation between secure attachment and empathy or altruistic behavior, investigate the effect of altruistic behavior on secure attachment, and develop the interventions that improve empathy and altruistic behavior through secure attachment.
+
+Key words: attachment style; security priming; empathy; altruistic behavior; emotion regulation; cognitive schema

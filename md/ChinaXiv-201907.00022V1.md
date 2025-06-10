@@ -1,0 +1,208 @@
+# CCD图像中宇宙线u子甄选技术\*
+
+冯海霞1,2,3，陈建军1,3\*，邓建榕¹，赵永恒1,2,3（1.中国科学院国家天文台，北京100101；2.中国科学院大学，北京100049;
+
+3.中国科学院光学天文重点实验室（国家天文台），北京100101）
+
+摘要：CCD（ChargeCoupledDevice）图像中的宇宙线是来自于外太空的高能粒子，它穿过大气层，与大气层的粒子发生相互作用形成次级粒子，最后落在CCD上。μ子是大气层宇宙线的主要成分，为了研究这些 $\mu$ 子的性质和变化规律，首先需要对图像中的 $\mu$ 子进行甄选。本文介绍一种快速有效地从CCD图像中甄选u子的方法。采用拉普拉斯边缘检测法从CCD图像中提取宇宙线候选像素列表，去除其中的坏像素和噪声，然后使用凝聚层次聚类算法将宇宙线像素聚类成宇宙线事件，对宇宙线事件进行特征提取和分类，从中甄选宇宙线u子。最后对甄选结果进行总结分析。
+
+关键词：CCD；u子；拉普拉斯边缘检测法；凝聚层次聚类；特征提取中图分类号：TP391.41 文献标识码：A 文章编号：
+
+宇宙线是来自于外太空的高能粒子。1912年，由奥地利地理学家赫斯在电离室对电流的测量中第一次发现。宇宙线中质子和氮核占 $9 8 \%$ ，重核 $1 \%$ ，电子 $1 \%$ ，其他粒子微量1]。当初级宇宙线进入地球大气层时，质子和氨核等高能粒子与大气中的原子核相互作用产生级联的广延大气簇射，生成大量的次级粒子。在使用CCD观测目标源时，这些粒子在CCD上留下不同的径迹，其中有电子、 $\mathfrak { a }$ 粒子、X射线以及 $\mu$ 子等粒子。靠近大气底部的宇宙线主要是簇射产生的次级μ子。在CCD图像的宇宙线中，占据主要成分的是 $\mu$ 子。 $\mu$ 子和电子等带电粒子，在CCD上留下明显的特征径迹。电子大部分是由于环境中放射性同位素所产生的，并非来源于宇宙线（在参考文献[2]有详细介绍）。α粒子和X射线等其他粒子在CCD图像中图像特征呈点状，不易与CCD芯片本身产生的电子学噪声分开。因此研究CCD图像中的宇宙线，需要对宇宙线中的 $\mu$ 子进行甄选。
+
+现如今，探测宇宙线的装置有很多，例如西藏羊八井国际宇宙线观测站、印度乌蒂的GRAPES-3、阿根廷的Pierre Auger Observatory以及四川的LHAASO（高海拔宇宙线观测站）等。这些装置采用一系列探测器阵列和望远镜来探测宇宙线粒子。本文利用LAMOST的CCD图像来探测 $\mu$ 子。LAMOST(The Large Sky Area Multi-Object Fiber Spectroscopic Telescope） 是中国目前最大口径的望远镜。参考文献[3]系统性地介绍了LAMOST的结构、原理及应用。
+
+LAMOST配置有16 个光谱仪和 32 台 $4 \mathbf { k } { \times } 4 \mathbf { k }$ 的CCD相机。CCD芯片大小为 $4 9 . 2 \mathrm { m m } { \times } 4 9 . 2 \mathrm { m m }$ 像素大小为 $1 2 \mu \mathrm { m } \times 1 2 \mu \mathrm { m }$ ，工作温度在 $1 0 0 ^ { \circ } \mathrm { C }$ 左右。从2011年先导巡天至今，已经积累了一百万多张CCD原始图像，每幅图像都有很多宇宙线事件，可以用来研究宇宙线的性质和分布。CCD图像中的宇宙线个数与图像的曝光时间有关，将曝光时间归一化到分钟。在单位时间内，CCD图像中的宇宙线事件个数范围为 $5 \sim 6 0$ 。
+
+CCD的工作原理是利用光电效应将光子转化为电子，电容器吸收释放的电子，然后将收集的电子转化为电压，最后以数字信号的形式输出。 $\mu$ 子有带负电和带正电两种，电荷数为1。它的质量约为106MeV，比电子重 207倍。当它穿过CCD时，可以电离径迹上的硅原子，受到库伦散射和韧致辐射的影响比电子小，在CCD上留下可识别的直线径迹。
+
+参考文献[2]介绍CCD图像中的宇宙线事件（指在CCD图像中一组有计数的连续像素)关于质心呈现不同的分布，结合宇宙线事件的形态特征甄选 $\mu$ 子。本文基于LAMOST数据，对CCD图像进行分析处理。根据u子在CCD图像中的形态特征对其进行甄选。首先从CCD图像中提取宇宙线像素，文中采用拉普拉斯边缘检测法从CCD原始图像中提取宇宙线候选像素列表。在提取后的宇宙线候选像素列表中包含一些坏像素和噪点，需要对这些坏像素和噪点进行处理。数据处理过程中，为了得到独立完整的宇宙线事件，采用凝聚层次聚类算法将宇宙线像素聚类成宇宙线事件。提取宇宙线事件的特征，结合 $\mu$ 子在CCD图像中的形态特征甄选出宇宙线u子。在文中最后对甄选技术进行评估。
+
+# 1拉普拉斯边缘检测法提取宇宙线候选像素列表
+
+在LAMOST数据中，单次曝光的CCD图像中含有上百条流量值很强的光纤光谱。这些CCD图像中，不仅包含所要观测的目标信息，同时还包括一些噪声（主要是宇宙线和坏像素）。在对CCD图像中的 $\mu$ 子进行甄选时，首先要从CCD图像中获取宇宙线候选像素列表。检测CCD图像宇宙线的方法有很多，例如经典的中值滤波方法[4]，拉普拉斯边缘检测法[5],基于直方图的快速算法以及万能噪声消除算法等方法。本文采用改进的拉普拉斯边缘检测法对CCD图像中的宇宙线候选像素列表进行提取。相较于其他方法，该方法在图像背景流量值很强的情况下，可以有效地从单次曝光的多光纤光谱中检测宇宙线。它是在参考文献[5]介绍的算法上进行改进,使得当宇宙线落在光纤光谱轮廓内时,宇宙线可以被识别出来。
+
+改进的拉普拉斯边缘检测法的算法流程：
+
+（1）对原图像进行预处理，然后与尺寸大小为 $3 \times 3$ 的Laplacian模板进行卷积运算得到图像I；结合泊松噪声和读出噪声，在原图像基础上构造剔除宇宙线的噪声模型N；再根据I和N的比率关系，生成一个原始的宇宙线候选像素列表；
+
+（2）在原图像的基础上去除步骤（1)产生的宇宙线候选像素列表，生成一个新的图像。对图像中的每一条光纤进行处理，将距离光纤轨迹中心8个像素以内的像素点组成一个模块。结合光谱在空间方向和色散方向的分布情况，拟合这些模块的图像轮廓（这些拟合的图像轮廓不包括宇宙线），得到拟合后的图像 ${ { I } _ { I } }$
+
+（3）根据泊松噪声和读出噪声，对拟合后的图像 $I _ { I }$ 构造剔除宇宙线的噪声模型 $N _ { I }$ ；最后将原图像和拟合后图像的残差与噪声模型 $N _ { I }$ 进行比较生成宇宙线候选像素列表。
+
+采用拉普拉斯边缘检测法提取宇宙线候选像素列表的结果见图1。图1(a)是原始图像，是从CCD图像中截取的一部分图像；图1(b)对应于图1(a)采用拉普拉斯边缘检测法提取后的宇宙线像素，图中的背景为黑色，对应的流量值为0。从图1可以直观地显示出该算法可以有效地从CCD图像中提取宇宙线像素。
+
+![](images/3e3a9264af9273fd3e54c4fb55ab395e0f394d8d51287484b82ce0880f6788cc.jpg)  
+图1拉普拉斯边缘检测法提取宇宙线  
+Fig.1Extraction of cosmic rays with Laplacian edge detection algorithm
+
+# 2坏像素和噪点的处理
+
+在采用拉普拉斯边缘检测法提取的宇宙线候选像素列表中，包括了宇宙线，CCD上的坏像素，以及算法导致的噪点。CCD上的坏像素是CCD本身的坏点，基本会在同一批拍摄的CCD图像中的同一位置处出现。可以利用同一目标的多次曝光图像来标识CCD上的坏像素，然后将它们去除。在使用拉普拉斯边缘检测法提取宇宙线候选像素列表时，如果图像中的光纤轨迹中心发生偏移时，会在拟合图像轮廓时产生较大的误差，最终在生成宇宙线列表的基础上产生拟合的偏差。这些偏差就是算法导致的噪点。这些噪点在图像中呈现几列虚线，虚线处的像素点个数远超过宇宙线在图像中每一列可能的像素点个数（虚线处的像素点个数范围为 $1 5 0 { \sim } 5 0 0$ ，而图像中每一列的宇宙线像素点个数范围为 $8 \sim 5 0$ ）。利用这一特点，在CCD图像中找出异常的列来标注算法导致的噪点，然后将它们从图像中去除。
+
+# 3凝聚层次聚类算法聚类宇宙线事件
+
+从CCD图像中提取宇宙线像素后，采用凝聚层次聚类算法将宇宙线像素聚类成一个个独立的宇宙线事件。本文采用的算法是在经典的凝聚层次聚类算法上的改进。
+
+层次聚类试图在不同层次对数据集进行划分，从而形成树形的聚类结构。数据集的划分可采用“自底向上”的聚合策略，也可采用“自顶向下”的分拆策略[9]。凝聚层次聚类（AGENS）是层次聚类中的一种，它对数据集的划分采用的是“自底向上”的聚合策略。它的主要思路是将数据集中的每一个样本看成单个的聚类簇，然后计算每个聚类簇之间的距离，找出其中距离最近的两个聚类簇将它们合并，重复上述距离计算和合并的过程，直至达到预设的聚类簇个数。
+
+在经典的凝聚层次聚类算法中，算法的关键是计算类间距的方法和确定聚类簇的个数。每一个聚类簇是一个样本集合，可以采用计算集合的某种距离来计算类间距，常见的距离有最小距离，最大距离和平均距离。将宇宙线像素聚类成宇宙线事件，使得宇宙线事件之间相互独立，采用最小距离来计算类间距。最小距离计算公式见式（1），其中的 $C _ { i } , C _ { j }$ 表示给定的聚类簇； $\{ m _ { a } \} _ { a = I , 2 , . . . , I }$ 表示 $C _ { i }$ 的样本点集； $\{ m _ { b } \} _ { b = I , 2 , \dots , }$ 表示 $C _ { j }$ 的样本点集；dist是用于计算 $\ m _ { a }$ ，mb样本点的距离函数。
+
+$$
+d _ { \operatorname* { m i n } } \left( C _ { i } , C _ { \mathrm { j } } \right) = \operatorname* { m i n } _ { m _ { \mathrm { a } } \in C _ { i } , m _ { \mathrm { b } } \in C _ { j } } d i s t ( m _ { \mathrm { a } } , m _ { b } )
+$$
+
+在处理CCD图像时，无法预知图像中宇宙线事件的个数，所以无法预设聚类簇的个数。需要设定类间距 $d _ { l i m }$ 作为终止运算条件。具体算法如下：
+
+（1）假设数据集为 $D _ { : }$ ，数据集中的数据是CCD图像中宇宙线所对应的像素，将每个像素看作一个初始的聚类簇分别对应于 $C _ { l } , C _ { 2 } , \dots , C _ { n \circ }$
+
+$$
+D = \left\{ m _ { 1 } , m _ { 2 } , . . . , m _ { n } \right\}
+$$
+
+（2）计算所有聚类簇之间的类间距，式（3）采用欧氏距离和最小距离来计算类间距。如果两个聚类簇各自只含有一个样本点时，类间距是这两个样本点的欧氏距离；反之，类间距是两个聚类簇之间的最小距离。如果两个聚类簇的类间距不大于设定的阈值 $d _ { I i m }$ ，将这两个聚类簇合并成一个聚类簇。
+
+$$
+\mathbf { d } = \operatorname* { m i n } _ { m _ { a } \in C _ { i } , m _ { b } \in C _ { j } } { \sqrt { \left( x _ { \mathrm { a } } - \mathbf { x _ { b } } \right) ^ { 2 } + \left( \mathbf { y } _ { a } - y _ { b } \right) ^ { 2 } } }
+$$
+
+实验处理的数据是二维图像，式（3）中 $C _ { i } , C _ { j }$ 表示数据集中的任意两个聚类簇， $\{ m _ { a } \} _ { a = I , 2 , . . . , k }$ 表示 $C _ { i }$ 的样本点集； $\{ m _ { b } \} _ { b = I , 2 , . . . , }$ 表示 $C _ { j }$ 的样本点集， $X _ { a }$ 和 $y _ { a }$ 对应于 $\ m _ { a }$ 在图像上的位置信息， $X _ { b }$ 和 $y _ { b } .$ 对应于 $m _ { b }$ 在图像上的位置信息。
+
+（3）更新数据集；
+
+（4）重复步骤（2）、（3），直到数据集中所有聚类簇的类间距大于设定的阈值，结束运算。
+
+当CCD图像中出现大量宇宙线事件时，需要逐个计算聚类簇之间的距离，使计算量剧增，运行速率减慢。结合宇宙线事件是有计数的连续像素这一特点，通过判断与聚类簇最外层元素距离为 $d _ { l i n }$ 的范围内是否存在其他的聚类簇，来优化算法。如果存在其他聚类簇，将其他聚类簇与该聚类簇合并；如果不存在，将数据集中未处理的聚类簇重复上述判断过程，直到所有聚类簇的类间距大于 $d _ { I i m }$ ，结束运算。使用该方法将宇宙线像素聚类成宇宙线事件时，如果两个宇宙线事件的最小距离大于 $d _ { I i m }$ ，说明两个宇宙线事件相互独立；如果最小距离不大于 $d _ { l i m }$ ，说明两个宇宙事件是同一个宇宙线事件。在提取宇宙线像素的过程中，当宇宙线流量值和背景值比较接近时，有时会出现提取的宇宙线像素在图像中不连续。尽管这种情况很少出现，为减小宇宙线像素的缺失带来的误差，结合宇宙线在CCD图像中呈现随机稀疏分布的特性，设定 $d _ { I i \mu }$ 为3对提取后的宇宙线像素聚类，可以有效地聚类宇宙线事件。
+
+# 4 特征提取
+
+将CCD图像中的宇宙线像素聚类成宇宙线事件后，结合 $\mu$ 子在图像中的形态特征，对宇宙线事件进行特征提取。在特征提取的过程中，主要内容是主成分分析和Pearson相关系数。通过主成分分析获取宇宙线事件的特征值，以及通过Pearson相关系数判断宇宙线事件是否呈线性，来甄选宇宙线事件中的u子。
+
+# 4.1主成分分析（PCA）
+
+主成分分析（PCA），也称为Karhunen-Loeve扩展，是一种经典的特征提取和数据表示技术[1]。参考文献[11]对主成分分析进行了总的概括。主成分分析（PCA）也可以用于对数据进行降维处理，目的是要找一组最优的标准正交向量基，使得数据投影到这组最优标准正交向量基上的方差最大。宇宙线事件是二维数据，假设在一个宇宙线事件中含有 $\overset { \cdot } { n }$ 个像素，其样本集 $M = \langle m _ { l } , m _ { 2 } , \ldots , m _ { n } \rangle$ ；将所有样本进行中心化，如式（4）。
+
+$$
+\mathfrak { m } _ { i } ^ { * } = m _ { i } - \frac { 1 } { \mathfrak { n } } \sum _ { i = 1 } ^ { n } m _ { i }
+$$
+
+定义样本集的散度矩阵为 $S _ { t }$
+
+$$
+S _ { t } = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } ( \operatorname* { m } _ { i } ^ { * } - { \overline { { m } } } ) ( m _ { i } ^ { * } - { \overline { { m } } } ) ^ { \operatorname { T } }
+$$
+
+其中样本集均值：
+
+$$
+\overline { { \mathbf { m } } } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \mathbf { m } _ { i } ^ { * }
+$$
+
+假设从高维空间投影到低维空间的投影矩阵为 $W _ { : }$ ，使投影后样本点方差最大化的优化目
+
+标为：
+
+$$
+S _ { \mathrm { { t } } } { \boldsymbol { n } } { = } \lambda { \boldsymbol { n } }
+$$
+
+对 $S _ { t }$ 做特征值分解得到特征值 $\lambda$ ，将特征值 $\lambda$ 进行降序排序，选取最大的特征值。最大的特征值所对应的特征向量就是主成分的解，从而找到最优的标准正交向量基，得到宇宙线事件的特征向量。将宇宙线事件在特征向量方向上的投影作为宇宙线事件的特征。两个特征向量对应于两个特征值。其中一个特征值对应于宇宙线的长轴，即在CCD上宇宙线直线径迹所对应的轴；另一个特征值对应于宇宙线的短轴，即宇宙线在CCD图像上的宽度。u子在CCD图像的径迹是直线型，且径迹长度无法确定，但宽度有限，是个小量。选取标记宽度的特征作为u子的特征，并将其记为“投影宽度”。
+
+# 4.2Pearson相关系数
+
+相关系数是用来衡量变量之间线性相关程度的统计量。用于定义相关系数的方式有很多，最为常用的是Pearson相关系数。Pearson相关系数用于描述两个变量之间是否存在线性关系。参考文献[12]对Pearson相关系数进行了详细介绍。假设有两个变量分别是 $X .$ 和y，它们的Pearson相关系数用r表示，则有：
+
+![](images/805ab3308ff8c318693a5244fdaf1baf42ae4a544f0679ab4697894eff7a6b56.jpg)
+
+其中的 $\boldsymbol { \mu } _ { \boldsymbol { \scriptscriptstyle X } }$ ， $\mu$ y分别对应于变量 $X$ ，y的均值。 $\boldsymbol { r }$ 的取值范围为 $[ - 1 , 1 ]$ ， $| r |$ 越接近于1时，两个变量之间的线性相关性质越显著。当 $r { > } 0$ 时，两个变量之间呈正相关；当 $r { \langle 0 \rangle }$ 时，两个变量之间呈负相关；当 $r { = } 0$ 时，两个变量之间彼此独立。
+
+宇宙线 $\mu$ 子在CCD上呈直线轨迹，则 $\mu$ 子在CCD图像中的横纵坐标存在线性关系。利用Pearson相关系数来标记 $\mu$ 子的这一特征。由于 $\mu$ 子在图像中的位置有时会出现正相关，有时会出现负相关，为了显示线性相关性质的显著程度，在传统的Pearson相关系数的基础上取绝对值。下文提到的Pearson相关系数r对应取绝对值的Pearson相关系数。
+
+# 5实验结果及分析
+
+利用宇宙线 $\mu$ 子与其他粒子在CCD图像中的形态特征差异来甄选 $\mu$ 子。在CCD图像中最为常见的粒子是 $\mu$ 子和“worms”（“worms”是多级散射的电子，详细介绍见参考文献[2]）。α粒子在CCD图像上极少出现。CCD图像中还存在一些形状奇特的宇宙线事件，因无法确定其形态特征，难以判断属于何种宇宙线粒子，在下文中未做讨论。图2 是从LAMOST数据中获得的图像，图2(a)是宇宙线中的 $\mu$ 子，图2(b)是宇宙线中的“worm”。如图2(b)所示，“worm”形状呈现一定的弧度。
+
+图2LAMOST CCD 图像的 $\mu$ 子和"worm”  
+![](images/d6fbc733baea1f4c0247e8878fbbc49c44efbb81da62a0275db4a2cdcb43ba08.jpg)  
+Fig.2 cosmic-rays muon and “worm”in the CCD image of LAMOST
+
+利用文中章节1至章节3的处理过程，我们从2015年的LAMOSTCCD图像中随机选取了200 多张CCD图像，得到3万多个宇宙线事件，将选取的宇宙线事件的位置索引信息作为样本集C1。宇宙线事件的位置索引信息可以反映出宇宙线事件在CCD图像上呈现的形态。从样本集中通过人眼识别的方式，选取1000 个 $\mu$ 子和1000个"worms”作为数据样本1。统计这些宇宙线事件的“投影宽度”和Pearson相关系数，结果见表1。表1中宇宙线事件"投影宽度"的均值记为 $\mu _ { w p }$ ，标准差记为 ${ \sigma } _ { w p }$ ；Pearson相关系数的均值记为 $\mu _ { r }$ ，标准差记为 $\sigma _ { r }$ 。
+
+表1关于“投影宽度”和Pearson相关系数，宇宙线 $\mu$ 子、“worms”的特征对比 Tab.1 Feature comparison between muons and“worms” in cosmic rays of the“Projection width” and the Pearson correlation coefficient   
+
+<html><body><table><tr><td>Type of cosmic rays</td><td>“The projection width"(μwp±Owp)</td><td>Pearson correlation coefficient(μ,±or)</td></tr><tr><td>muons</td><td>1.43±0.50</td><td>0.93±0.06</td></tr><tr><td>"worms”</td><td>5.10±2.03</td><td>0.73±0.15</td></tr></table></body></html>
+
+根据表1可以直观的看到 $\mu$ 子和“worms”的区别。在“投影宽度”中， $\mu$ 子的特征值小，而“worms”的特征值大；在Pearson相关系数中，由于 $\mu$ 子在CCD中呈直线径迹，对应的横纵坐标的线性相关程度更显著，对应的Pearson相关系数值更接近1，而“worms”由于在CCD中发生多次散射，径迹有一定的弧度，对应的Pearson相关系数值较u子的更小。
+
+从样本集C1中，通过人眼识别的方式，随机选取2500个 $\mu$ 子和2500个不是u子的其他宇宙线事件（包含"worms”、X射线、可能的α粒子等其他粒子）作为数据样本2。这 5000个宇宙线事件的“投影宽度"和Pearson相关系数的分布结果如图 3(a)所示。在图3(a)中，利用“投影宽度"和Pearson相关系数两个特征可以将绝大多数的 $\mu$ 子和其他宇宙线区分开。在图中Pearson相关系数大于0.8和“投影宽度”小于1的范围内， $\mu$ 子和其他宇宙线事件不能很好的区分；观测这部分与 $\mu$ 子特征值相近的宇宙线事件，发现该部分宇宙线事件的像素个数很少。分析Pearson相关系数和宇宙线事件像素个数的关联，二者的分布结果见图3(b)。图3(a)中不易区分的 $\mu$ 子和其他宇宙线事件，在图3(b)中可以通过宇宙线事件的像素个数有效地区分。
+
+![](images/de175f62097d83c113e7e7cd63cbe1e6ecbf61f6e733e7bf997c4dfaa54a3b65.jpg)  
+图3不同特征值的分布结果  
+Fig.3 The distributionof differentcharacteristic values
+
+对于像素个数少的宇宙线事件，只结合“投影宽度"和Pearson相关系数甄选 $\mu$ 子会有一定的误差。当甄选 $\mu$ 子时，还需要结合宇宙线事件的像素个数。图4显示了数据样本2中宇宙线事件像素个数的统计结果。横坐标表示宇宙线事件的像素点个数，纵坐标表示像素点个数对应的宇宙线事件的个数。图4(a)是整个数据集的统计结果。图中宇宙线事件的像素点个数越多，与之对应的宇宙线事件个数越少。基于图4(a)，选取像素点个数不大于30的宇宙线事件进行统计，结果见图 4(b)。图中，宇宙线u子的像素点个数大于8，其他宇宙线事件的像素点个数大于5。在非 $\mu$ 子的其他宇宙线中，将近一半的宇宙线的像素点个数小于8。在像素点个数大于8的情况下， $\mu$ 子的个数比其他宇宙线的个数多。因此将像素点个数设置为8，对宇宙线中 $\mu$ 子和其他宇宙线事件进行分类。
+
+![](images/e9bc980311f84b4397bffa9276fab5116bddd838e8de9f0285b413397301d6dd.jpg)  
+Fig.4 The statistical result of the number of pixels in cosmic-ray event
+
+图4宇宙线事件的像素点个数的统计结果
+
+根据宇宙线事件特征值的不同分布，设定不同的特征值参数，对u子进行甄选。从样本集C1中，随机选取 2500个u子和 2500个不是u子的宇宙线在CCD上的位置索引信息作为测试数据集C2，设定不同的特征值参数对宇宙线中的 $\mu$ 子进行甄选，最后的甄选结果如表2所示。表2显示了甄选结果的准确性，表中的第一列是特征参数的设定，其中的 $\mu _ { m w }$ 对应于 $\mu$ 子“投影宽度”的均值， ${ \sigma } _ { \mathrm { m w } }$ 对应于 $\mu$ 子“投影宽度”的标准差， $\mu _ { m r }$ 对应于 $\mu$ 子Pearson相关系数的均值， $\sigma _ { m r }$ 对应于 $\mu$ 子Pearson相关系数的标准差；第二列是正确甄选宇宙线中 $\mu$ 子的个数;第三列是被错分成 $\mu$ 子的宇宙线事件个数；第四列是甄选结果的正确性；最后一列是甄选结果的灵敏度，用于衡量算法对 $\mu$ 子的识别能力。假设在整个数据集中， $\mu$ 子的个数是 $M$ ，非 $\mu$ 子的宇宙线事件个数为 $F$ 。在甄选结果中，被正确甄选为 $\mu$ 子的宇宙线事件个数为TM,被正确甄选为非 $\mu$ 子的宇宙线事件个数为 $T F$ ，则甄选结果的准确率公式见式(9)，甄选结果的灵敏度公式见式(10)。
+
+AcT
+
+从表2可以看出：当对“投影宽度”、Pearson相关系数和宇宙线事件的像素个数设定不同阈值时，会得到不同的准确率；当特征值设定合适的阈值时，可以有效地从宇宙线事件中甄选u子。表2特征参数的选择，需要结合表1中 $\mu$ 子不同特征的均值和标准差。通过统计宇宙线 $\mu$ 子的“投影宽度”和Pearson相关系数，得到描述不同特征的具体数值参数以及参数的波动情况。结合不同特征的参数波动，对测试数据集中的 $\mu$ 子进行甄选，得到最终的甄选结果。
+
+# 表2设定不同特征参数时， $\mu$ 子的甄选结果
+
+Tab.2 The results of cosmic-ray muons selection when setting different feature parameters
+
+<html><body><table><tr><td>Condition about“Projection width"(pw),Pearson correlation coefficient(r) and the number of cosmic event(pixel)</td><td>Numbers of muons detected correctly</td><td>Numbers of muons detected incorrectly</td><td>Accuracy</td><td>Sensitive</td></tr><tr><td>((r≥μmr-3omr and O<pw<μmw+Omw) or</td><td>2412</td><td>88</td><td>0.965</td><td>0.965</td></tr><tr><td>(r ≥ μmr and pw≠O)) and pixel>=8 ((r≥ μmr-3omr and 0<pw<μmw+2omw) or</td><td>2500</td><td>108</td><td>0.978</td><td>1</td></tr><tr><td>(r ≥ μmr and pw≠O)) and pixel>=8</td><td></td><td></td><td></td><td></td></tr><tr><td>(r≥ μmr-3omr and 0<pw<μmw+3omw) or (r ≥ μmr and pw≠O)) and pixel>=8</td><td>2500</td><td>117</td><td>0.977</td><td>1</td></tr></table></body></html>
+
+当对宇宙线特征设置合适阈值时，得到的准确率约为0.98，说明该方法可以有效地甄选宇宙线中的u子。该方法对u子的识别度很高，但是会将与u子特征相似、不是u子的宇宙线事件错分成 $\mu$ 子。
+
+尽管该算法在数据处理过程中会存在误差，但是通过分析u子的本征特征，结合数据集中 $\mu$ 子和其他宇宙线事件的形态差异，依然可以有效地甄选宇宙线中的 $\mu$ 子。该方法的核心是特征参数的设定。如果特征值的参数设定恰当，最后的甄选结果会更可观，也可以通过训练大量数据集的方式来调整特征参数，优化方法。根据表2中最优的甄选条件（表2中第二行所对应的特征参数），对LAMOST6号红端的CCD相机，在2017年11月份拍摄的图像进行处理。统计这一个月，曝光时间为600.0s的CCD图像中 $\mu$ 子的个数。统计结果见图5。图中横坐标表示拍摄CCD图像的mjm（修正儒略分钟数），纵坐标表示CCD图像中 $\mu$ 子的个数。图中蓝色竖线对应于第二横坐标拍摄CCD图像的日期。图中直观地显示出宇宙线u子在这一个月的涨落情况。
+
+# 6总结
+
+本文探讨了一种简单有效地对单次曝光CCD图像中的 $\mu$ 子进行甄选的方法，结合宇宙线在图像上的形态特征，达到高效处理数据的效果。该方法使用拉普拉斯边缘检测法提取宇宙线像素；采用聚类算法将图像中的宇宙线像素聚类成宇宙线事件；聚类得到宇宙线事件后，通过特征提取和宇宙线事件之间的形态特征差异对 $\mu$ 子进行甄选。在这个过程中，甄选准确率依赖于特征参数的设定，可以通过不断的统计和测试，设定更优的参数以及增加提取的特征，来提高甄选结果的准确性。
+
+在获取训练和测试样本集的过程中，通过人眼识别的方式来区分宇宙线 $\mu$ 子和其他宇宙线事件，会导致选择的数据样本集有一定的偏差，影响之后的统计和甄选结果。
+
+致谢：感谢中国科学院高能物理研究所的胡红波老师的有益讨论。
+
+![](images/5ee65e5cc16506e77f6b50398e7a4ffe2c17b0abdbc6f3c4a2cb1eff38a519d4.jpg)  
+图52017年11月份LAMOST6rCCD图像中宇宙线 $\mu$ 子个数的统计结果
+
+Fig.5 The statistical result of the numbers of cosmic-ray muons in 6r CCDof LAMOST in November 2017
+
+# 参考文献:
+
+[1] O.C.阿尔科费尔.宇宙线入门[M].徐春娴，朱清棋，译.北京：科学出版社,1987:34. O.C.Allkofer.Introduction to Cosmic Radiation[M]. C.X.Xu & Q.Q.Zhu,Trans.Beijing: Science Press,1987:34.   
+[2]Don Groom.CosmicRaysndOtherNonseseinAstronomicalCCDImagers[J].ExperimentalAstronomy,O,14(1):4555.   
+[3]Cui,X.Q.,Zhao,Y.H.,Chu,Y.Qetal.TheLargeSkyAreaMulti-ObjectiberSpectroscopicTelescope(LAMOST)[J].AA,02, 12(9): 1197 -1242.   
+[4] Gonzalez RC,Woods RE.数字图像处理[M]．阮秋琦，阮宇智等译.北京：电子工业出版社，2007:185-186. GonzalezRC,WoodsRE.Digital Image Procesing[M].Q.Q.Ruan&Y.Z.Ruan,Trans.Beijing:Electronic IndustryPres,2007: 185-186.   
+[5]Pieter G.van Dokkum.Cosmic-Ray Rejection by Laplacian Edge Detection[J].PASP,2001,113:1420-1427.   
+[6]Pych W.AFastAlgorithm for Cosmic-rayRemoval from Single Images[J].PASP,2004,116(816):148-153.   
+[7]Garet R,HuegerichT,ChuiC,etal.AUniversal NoiseRemoval AlgorithmwithAnImpulseDetector[J].IEETransactionOn Image Processing.2005,14(11): 1747 -1754.   
+[8]ZhongruiBai,Haotong Zhang,etal.CosmicRayRemoval inFiber Spectroscopic Iage[J].PASP,20l7,29(972):24(pp)   
+[9]周志华．机器学习[M].北京：清华大学出版社，2016:214.
+
+Zhou Zhihua.Machine Learning[M]. Beijing: tsinghua university press,2O16: 214.   
+[10]C.Li,Y.Diao,H.MaandY.LiAStatisticalPCAMethodforFaceRecognition[J].InteligentInformationTechnology Application,2008,pp.376-380.   
+[1SasanKaramizadeh,ShahidanM.AbdulahAnOverviewofPrincipalComponentAnalysis[J].JournalofSgnalandnfortion Processing,2013,4: 173-175.   
+[12]LeoEggh,LoetLydesdf.eelatiobtwenPeason'sortionoentandSln'sineeasure[JJalf the American Society for Information Science & Technology,2Oo9,5:1027-1036.
+
+# Cosmic-ray Muons Extraction Technology in CCD Image
+
+Feng Haixia1,2,3， Chen Jianjun1,3， Deng Jianrong'， Zhao Yongheng 1,2,3 (1.NationalAstronomicalObservatories，ChineseAcademyofScience,BeijingOolo1,China,Email:hxfeng@nao.cs.cn;
+
+2.Chinese Academy of Science，Beijing 10oo49,China;
+
+3.KeyLaboratoryofOticalAstronoy,atioalAtronomicalOserators,esecaeyofiene,ginaEmail: jjchen@nao.cas.cn）
+
+Abstract: The cosmic rays in CCD(Charge Coupled Device） image are formed by high-energy particles from outer space which pass through the atmosphere,collide with particles in the atmosphere and fall on the CCD panel finally. The cosmic-ray muons are the main component of cosmic rays in the atmosphere. In order to study cosmic-ray muons’ property and change rule, we need extract cosmic-ray muons in CCD images.This paper introduces an easy and effective method to extract cosmic-ray muons in CCD images.The main work includes the following steps: searching the cosmic rays candidate lists from CCD images by the Laplacian edge detection algorithm; removing bad pixels and noise from the extracted cosmic rays candidate lists; clustering cosmic rays pixels into cosmic ray events by AGglomerative NESting method; then extracting cosmic-ray muons according to the extracted features. Finally, the result of extracting cosmic-ray muons is summarized and analyzed.
+
+Key words: CCD; Cosmic-ray muons; Laplacian edge detection algorithm; AGglomerative ESting; Feature extracting
+
+\*Corresponding author

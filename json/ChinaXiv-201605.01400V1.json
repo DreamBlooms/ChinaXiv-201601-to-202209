@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "Core component EccB1 of the Mycobacterium tuberculosis type VII secretion system is a periplasmic ATPase ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao-Li Zhang \\*tt,1 De-Feng Li,+1 Joy Fleming,+ Li-Wei Wang,+ Ying Zhou,† Da-Cheng Wang, Xian-En Zhang \\*,t,2 and Li-Jun $\\mathbf { B i } ^ { \\dagger , 2 }$ （ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*State Key Laboratory of Virology,Wuhan Institute of Virology, Chinese Academy of Sciences,Wuhan, China; +National Laboratory of Biomacromolecules and Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China; and +Graduate School, Chinese Academy of Sciences,Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Pathogenic mycobacteria transport virulence factors across their complex cell wall via a type VII secretion system (T7SS)/early secreted antigenic target-6 of kDa secretion system (ESX). ESX conserved compo nent (Ecc) B,a core component of the T7SS architecture, is predicted to be a membrane bound protein, but little is known about its structure and function.Here,we characterize EccBl,showing that it is an ATPase with no sequence or structural homology to other ATPases located in the cell envelope of Mycobacterium tuberculosis H37Rv. We obtained the crystal structure of an EccB1-△N72 truncated transmembrane helix and performed modeling and ATP docking studies, showing that EccB1 likely exists asa hexamer. Sequence alignment and ATPase activity determination of EccB1 homologues indicated the presence of 3 conserved motifs in the N- and C-terminals of EccB1-△N72 that assemble together between 2 membrane proximal domains of the EccB1-△N72 monomer.Models oftheEccB1hexamershowthat2of theconserved motifs are involved in ATPase activity and form an ATP binding pocket located on the surface of 2 adjacent molecules. Our results suggest that EccB may act as the energy provider in the transport of T7SS virulence factors and may beinvolvedin the formation ofachannelacross the mycomembrane.—Zhang, X.-L., Li, D.-F., Fleming,J., Wang, L.-W., Zhou, Y., Wang, D.-C., Zhang, X.-E., Bi, L.-J. Core component EccB1 of the Mycobacterium tuberculosis type VII secretion system is a periplasmic ATPase. FASEB.J. 29, 4804-4814 (2015).www.fasebj.org ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:virulence $\\cdot$ ESX-1 $\\cdot \\cdot$ crystal structure ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mycobacterium tuberculosis (MTB)，the causative agent of tuberculosis,latently infects about one-third of the world's population,and deaths from active tuberculosis disease reached1.5 million in 20l3(1).The success of bacterial pathogens depends on special protein export systems that secrete virulence factors into the extracellular milieu or inject them directly into host cells (2).Seven types of secretion system have been identified,with types I-VI being distributed widely among gram-negative bacteria. As mightbe expected,MTBhas a specialized secretion system due to its complex cell wall composition. The secretion system in MTB has been proposed as a novel ESAT-6 secretion system (ESX） or type VII secretion system (TSS) (3,4);however,its architecture and secretory mechanism are poorly understood. The T7SS can export ESX and PE-PPE family proteins, some of which contribute to virulence and granuloma formation,spread between cells,and escape fromphagosomes (5-8).Understanding the T7SS will therefore be key to understanding mycobacterial pathogenesis,and should help to facilitate identification of novel drug targetsand vaccine candidates (9,10). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The T7SS was first identified in MTBand was laterfound in other mycolata species and gram-positive bacteria(11). MTB contains 5 T7SS systems (ESX-1 to 5) likely derived from gene duplication events (l2),but to date,only the ESX-1,ESX-3,and ESX-5 clusters have been shown experimentally to encode functional secretory systems (13); the ESX-1 system has been shown to be involved in virulence (l4), the ESX-3 system to be involved in iron acquisition (l5),and the ESX-5 system to secrete PE and PPE proteins (l6).These secretion systems share a number of highly conserved components [unified nomenclature: ESX-conserved component (Ecc)],EccA-E and mycosin-1 protease,and, with the exception of EccA,which is located in the cytoplasm, these components are all predicted to be membrane-bound proteins(17).Although the architecture of these systems is largely uninvestigated,EccB, EccC, EccD,and EccE in the ESX-5 secretion system of Mycobacterium marinum have been shown to form a large ${ \\sim } \\mathrm { 1 . 5 }$ MDa membrane complex (18). T7SS systems are proposed to share a common secretorymechanism; T7SS substrates are recognized in the cytosol, targeted to the innermembrane (IM),and then transported across the mycobacterial cell envelope.The precise role of each T7SS component in the secretion mechanism requires further elucidation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The best-studied T7SS, the ESX-1 secretion system, is responsible for the secretion of the important virulence factors ESAT-6 and culture filtrate protein-1O kDa (CFP-10). It isamajor virulence determinant in MTB and is related to mycobacterial survival inside the host (6).The vaccine strain Mycobacterium bovis BCG lacks the region of the genome encoding the ESX-1 system and is attenuated (19),and an orthologous ESX-l system is present in the avirulent saprophyte Mycobacterium smegmatis,where it is reported to be involved in conjugation (2O). Studies of ESX-1 suggest that substrates ESAT-6 and CFP-1O form a heterodimer and are targeted to EccC by a secretion signal located in the C-terminal of CFP-1O, then delivered across the IM via channel protein EccD(21).EccC shows homology to VirD4,a core component of the type IV secretion system(T4SS） and has ATPase activity,leading to the suggestion that it provides energy for transporting substrates through the channel (22). EccD has 11 predicted transmembrane domains and is highly hydrophobic;it has therefore been hypothesized to constitute the membrane pore through which substrates are transported, but there is no formal evidence for this (6).Although the biochemical characteristics and high-resolution structures of some ESX-1 substrates such as CFP-1O/ESAT-6 and PE/PPE(proteins rich in proline-glutamate and prolineproline-glutamate residues),and individual components such as EccA,ESX-l secretion-associated protein G,and MycP,have been obtained, the ESX-l core components, including the EccB, EccC, EccD,and EccE proteins of ESX-l,are poorly understood at the biochemical and structural level (13). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EccB is present in all 5 ESX systems,and EccBl has been shown to be essential for the secretion of virulence factors by the ESX-l system (23).It is predicted to have a transmembrane region (24),but its biochemical characteristics and structure are largely unknown.Here, we report the biochemical and structural characterization of MTB EccBl, showing that it is an ATPase that is located in the periplasmic space.We determine the structure of the periplasmic region of EccBl and perform modeling and ATP docking studies. Together with ATPase activity analysis of EccBl mutants, results from these studies suggest that periplasmic EccBl is likelya hexameric ATPase that forms a substrate transport channel and that its mechanism of action ispowered byATP hydrolysis.This studyprovides the first biochemical and structural characterization of a conserved T7SS core component and increases our understanding of how T7SSs transport substrates across the complex mycobacterial cell envelope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSAND METHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Strains,media,and culture conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MTBH37Rv strains were cultured at $3 7 ^ { \\circ } \\mathrm { C }$ in Middlebrook 7H9 broth(Difco Laboratories,Detroit,MI,USA） supplemented with $0 . 5 \\%$ glycerol, $1 0 \\%$ albumin-dextrose-catalase and $\\bar { 0 . 0 5 \\% }$ Tween 80. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cloning and mutagenesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EccBl is encoded by gene Rv3869 in MTB and is predicted to contain an N-terminal transmembrane region (24).Here,we cloned the periplasmic region (residues 72-48O),named EccBl△N72,amplifiedbyPCR from genomic DNA of the MTB H37Rv strain,into a modified pET-28a vector (pLW）encoding an N-terminal $6 \\times$ His tag followed bya 3C protease cleavage site.The following truncations ofEccBl: EccBl-△Nl06 (residues l06-480), EccB1-△C448 (residues 72-448) and EccB1-△C463(residues 72-463)，and 2 homologues of EccB1 from MTB H37Rv (M.tbEccB5-△N80；encoded byRvl782，residues 80-506）and M.smegmatisMC²155(MsEccB1-△N72; encoded byMSMEG_0060, residues 72-479)were also constructed and cloned into the above pLW vector.We also constructed site-directed mutants based on plasmid pLW-EccBl-△N72 using Pyrobest DNA polymerase(TaKaRa,Beijing,China).Constructs with mutations at residues l5O and 102 were named C150S and Rl02A，respectively.All primers are listed in Supplemental Tableland all constructs were verified by sequencing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recombinant protein production ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmids were expressed in the Escherichia coliBL21 (DE3) strain and purified following procedures described previously (25) with minor modifications. Cells were cultured to an $\\mathrm { O D ~ 6 0 0 }$ value of 0.8 in standardLBmediumat $3 7 ^ { \\circ } \\mathrm { C }$ andweretheninducedwith $0 . 4 \\mathrm { m M }$ isopropyl $\\beta$ -D-1-thiogalactopyranoside for $1 6 \\mathrm { h }$ at $1 6 ^ { \\circ } \\mathrm { C }$ Cellswere harvested by centrifugation and resuspended in lysis buffer containing $2 0 \\mathrm { { \\dot { m M } } }$ Tris $\\mathrm { \\ p H 8 . 0 }$ ,500 mMNaCl,and $2 0 \\ \\mathrm { m M }$ imidazole. The resuspended cells were lysed by sonication in lysis buffer followed by high-speed centrifugation. Supernatants were applied to $\\mathrm { N i ^ { 2 + } }$ -affinity resin (Chelating Sepharose Fast Flow, GE Healthcare, Piscataway,NJ, USA) in Poly-Prep chromatography gravity columns (Bio-Rad,Hercules, CA,USA).After washing successively with lysis buffer containing different concentrations of imidazole(2o and $6 0 \\mathrm { m M }$ ),the target protein was eluted with lysis buffer containing $3 0 0 \\mathrm { m M }$ imidazole,then further purified by ion-exchange using aHiTrap Q Sepharose FF column(GEHealthcare),eluting with a linear gradient of Tris buffer $\\mathrm { ( p H 8 . 0 ) }$ containing 1 MNaCl,and size-exclusion using a Superdex2oo column (GE Healthcare) with buffer containing $2 0 \\mathrm { m M }$ Tris pH 7.5, $1 0 0 \\mathrm { m M }$ NaCl. Proteins in the peak at ${ \\sim } 1 4 \\mathrm { \\bar { m l } }$ were collected and concentrated,quantitated usinga BCA protein assay kit (Pierce Biotechnology,Rockford, IL, USA),and then stored at $- 8 0 ^ { \\circ } \\mathrm { C }$ until required. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Computational structure prediction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The EccBl transmembrane segment was predicted using the tied mixture hidden Markov model (Tmhmm),v2.0 (26).Constructs were generated,in part guidedby the Psi-blast based secondary structure prediction (Psipred) protein analysis server(27). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subcellularlocalization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MTBH37Rv cells harvested atmidlogarithmic phase and washed 3 times in cold PBS were disrupted by bead beating using $0 . 1 \\mathrm { m m }$ silica spheres(MPFastprep-24) in lysis buffer(PBS buffer containing $2 5 0 ~ \\mathrm { m M }$ sucrose, $1 ~ \\mathrm { m M }$ EDTA,and Protease Inhibitor Cocktail (Roche,Basel, Switzerland).Unbroken cells were removed by centrifugationand supernatantswere filtered by passing through a $0 . 2 2 \\mu \\mathrm { m }$ membrane 3 times.The cell wall fraction was separated by ultracentrifugation for $^ \\textrm { \\scriptsize 1 h }$ at $2 7 { , } 0 0 0 \\ g$ and washed twice in PBS- $2 5 0 \\mathrm { m M }$ sucrose.Supernatants were divided into cell membrane and cytosolic fractions by ultracentrifugation for $^ { 4 \\mathrm { ~ h ~ } }$ at $1 0 0 , 0 0 0 \\ g .$ Pellets were processed in the same way as described above,and protein concentration was measured and aliquots were stored at $\\mathrm { - 8 0 ^ { \\circ } C }$ Cleared lysates were resolved into cell wallfractions,cytoplasmic fractions,and membrane fractions according to a previously reported method (28, 29). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protease susceptibilityofEccB1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Whole MTB H37Rv cels were treated with proteinase K according to a previously published method (28,30),with the following modifications.Freshlyprepared proteinase K $\\mathrm { { 1 0 ~ m g / m l } } ,$ ）wasadded to whole cells from a $\\bar { 2 } 0 0 \\mathrm { m l }$ culture to final concentrations of100, 200,and $4 0 0 \\mu \\mathrm { g / m l }$ ,which were then incubated on ice for $4 5 \\mathrm { { m i n } }$ = Reactions were quenched by addition of protease inhibitor PMSF to a final concentration of $2 \\mathrm { m M }$ After incubation onice for $5 \\mathrm { { m i n } }$ and addition of $6 \\times$ SDS loadingbuffer,samples were heated at $8 0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ then analyzed by SDS-PAGE and Western blotting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Antibody production and Western blotting ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EccBl antiserum was obtained by immunizing rabbits with purified recombinant EccBl-△N72.Samples were subjected to $\\mathrm { \\hat { 1 } 2 \\% }$ SDS-PAGE before transferring to a nitrocellulose membrane. The nitrocellulose membrane was blocked in $1 \\times$ phosphate buffered salinewith Tween 2O with $5 \\%$ (w/v) nonfat milk for $^ { \\textrm { 1 h } }$ at room temperature and then incubated overnight at $4 ^ { \\circ } \\mathrm { C }$ with a 1:10oo dilution of EccBl antiserum or 1:5oo dilution ofGroEL2 antibody.After washing the membrane 3 timeswith phosphate buffered saline with Tween 2O,bound primary antibody was detectedby incubating withasecondaryhorseradish peroxidaselinked anti-rabbit IgG(l:5ooo,GE Healthcare） and chemiluminescent substrate (enhanced chemiluminescence -plus substrate, GE Healthcare) according to the manufacturer's instructions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ATPase activity assays ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Purified EccB1 (a gift from D.-C.W.),EccBl-△N72,homologues and mutants were incubated in $3 0 \\mu \\mathrm { l }$ ofATPasebuffer( $2 5 \\mathrm { m M }$ Tris pH 7.5,100 mMNaCl,5 mM $\\mathrm { M g C l _ { 2 } }$ ),unless otherwise indicated. Each reaction mixture contained $\\vec { 5 } \\ \\mu \\mathrm { l } \\ ( \\gamma - [ ^ { 3 2 } \\mathrm { P } ] )$ ATP(Perkin Elmer,Waltham,MA,USA)diluted 1ooO times with $1 0 0 \\mu \\mathrm { M }$ ATP. Reactions were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { m i n }$ then stopped by addition of $4 0 ~ \\mu \\mathrm { l }$ buffer containing 0.5 M $\\mathrm { H _ { 2 } S O _ { 4 } }$ and $\\mathrm { { \\bar { 1 . 5 } } \\ m M }$ $\\mathrm { { N a H _ { 2 } P O _ { 4 } } }$ $1 0 \\mu 1 2 0 0 \\mathrm { m M N a _ { 2 } M o O _ { 4 } }$ and $1 0 0 \\mu \\mathrm { l }$ n-butanol saturated with waterwere thenadded and vortexed for $1 \\mathrm { m i n }$ .The mixture was separated by centrifugation at $1 2 , 0 0 0 \\mathrm { r p m }$ for $2 \\mathrm { m i n }$ ,and $5 0 \\mu \\mathrm { l }$ of the organic phase (containing $\\gamma ^ { - 3 2 } \\mathrm { P } ,$ was added to $2 \\mathrm { m l }$ liquid scintillation liquid 440 and vortexed. The amount of radioactivity present in the mixture was determined by liquid scintillation counting (31, 32).All experimentswere performed in triplicate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Differential scanning fluorometry ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Differential scanning fluorometry was performed according to a previously published method (33).The reaction mixture contained $0 . 2 ~ \\mathrm { { \\bar { m g } / m l } }$ proteins, Syrpro Orange (S665O; Invitrogen, Carlsbad,CA,USA）diluted $\\times 5 0 0$ ,and small molecule substrates ADP,ATP,and ATP $\\gamma$ S (Sigma-Aldrich,St.Louis,MO,USA) at a final concentration of $2 \\mathrm { m M }$ in buffer containing $2 0 \\mathrm { m M }$ Tris-HCl $\\mathrm { p H } ~ 7 . 5$ and $1 0 0 ~ \\mathrm { m M }$ NaCl.Assays( $2 5 ~ \\mu \\mathrm { l }$ assay volume）were performed in an RT-PCR system (Bio-Rad CFX96,Bio-Rad, Hercules,CA,USA) (excitation, $4 8 8 \\mathrm { n m }$ ; emission, $6 2 0 \\mathrm { n m }$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Crystallizationand structuredetermination ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Native protein crystals were grown at $1 6 ^ { \\circ } \\mathrm { C }$ using the hanging drop vapor diffusion method; $2 ~ \\mu \\mathrm { l }$ drops contained $4 ~ \\mathrm { m g / m l }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EccB1-△N72 and reservoir solution ( $2 0 \\mathrm { m M }$ Tris pH 7.5, $1 0 0 \\mathrm { m M }$ magnesium formate,and $1 5 \\%$ [w/v] polyethylene glycol 3350) in a 1:1 ratio. SeMet-EccBl-△N72 proteins were purified and crys tallized in the same way as native proteins,except for the addition of $1 \\mathrm { m M }$ DTT(34) during the protein purification process.All crystalswere harvested and soaked ina cryoprotectant solution consisting of the crystallization condition supplemented with $10 \\%$ (v/v) glycerol for several seconds,and then flash-cooled in liquid nitrogen.Diffraction data sets were collected on beam line BLl7U at the Shanghai Synchrotron Radiation Facility.All data sets were processed using Mosflm.The initial phases were calculated using the PHENIX package (35).Residues in1 asymmetric unit were automatically built using the Autobuild program and the initial model was traced manually using the Coot program (36).Structure refinementwas performed with Phenix refine and the stereochemical qualityof the refined structures was verified with Procheck (37).All structural representations were prepared with PyMol (DeLano Scientific,Palo Alto, CA,USA). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BS crosslinking ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Purified EccB1(a gift from D.-C.W.) was incubated in $2 0 \\mu \\mathrm { l }$ PBS buffer $\\mathrm { \\Delta ^ { \\prime } 1 3 7 ~ m M }$ NaCl, $2 7 ~ \\mathrm { m M }$ KCl, $1 0 . 1 ~ \\mathrm { m M }$ （204号 $\\mathrm { N a _ { 2 } H P O _ { 4 } }$ ，and $1 . 8 \\mathrm { m M K H _ { 2 } P O _ { 4 } } , \\mathrm { p H } 7 . 4 )$ .Each reaction mixture contained $8 \\mu \\mathrm { M }$ EccBl and $\\mathrm { B S } ^ { 3 }$ at different concentrations [O (control),0.375, 1.25,and $3 . 7 5 \\mathrm { m M } ]$ .Reactions were incubated at $2 2 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ before adding $1 \\ \\mu \\mathrm { l } \\ 1 \\$ M Tris, $\\mathrm { p H } ~ 7 . 5$ and incubating at room temperature for $1 5 \\mathrm { m i n }$ to quench the reaction.The migration of protein bands was examined on $8 \\%$ SDS-PAGE gels. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dynamic light scattering ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thehydrodynamic diameter of EccBl-△N72 was measured at $2 5 ^ { \\circ } \\mathrm { C }$ using dynamic light scattering (Nanostar; Malvern Instruments,Malvern,United Kingdom).A $2 . 0 ~ \\mathrm { m g / m l }$ solution of EccB1-△N72 in $2 0 ~ \\mathrm { m M }$ Tris, $\\mathrm { \\bar { p } H } = 7 . 5$ ， $1 0 0 ~ \\mathrm { { m M } }$ NaCl, with or without the addition of $\\mathrm { 0 . 5 ~ m M }$ ATP was used.An average of 10 successive measurements was made at 1-min intervals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Accessioncodes ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PDB coordinates and structure factors from the 2 structures were deposited in the ProteinDataBank archivewithaccession codes 3X3M and 3X3N. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ModelingofEccB1 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Modeling of the EccBl hexamer was performed using the SymmDock web server (38).The $2 0 \\operatorname { E c c B 1 }$ hexamer models with the highest geometric shape complementarity scores were generated,and the 5 models with the largest complex approximate interface area and atomic contact energy were chosen. All 5 models had the same hexamer oligomerization state,but showed subtle differences in the complex interface.The model with the highest score was thus chosen as the model of EccBl. An ATP molecule was docked into the EccBl structure using PatchDock (39).The 20 ATP-docked EccBl models with the highest geometric shape complementarity scores were generated. These models showed some differences in the binding surface for ATP,and 3 of the models suggested that ATP binds close to conserved motifs1and 2 but had very slight differences in the ATP contact residues.We thus chose the model with the highest score to represent the ATP-binding model.After both the EccB1 hexamerand the EccBl-ATP complex were modeled,a total of6ATP molecules were modeled into the EccB1 hexamer manually to create an ATP-bound EccB1 hexamer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EccB1 localizes to the mycobacterial cell envelope ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EccBl,encoded by gene Rv3869, is essential for ESX-1- dependent secretion and has been predicted to reside in the periplasmic space (24).Recently,Houben et al. reported that EccB5, the M. marinum homologue of EccBl, along with EccC5,EccD5,and EccE5 form a membrane complex in the cell envelope of $M .$ marinum, suggesting that these components may form a translocation channel in the my cobacterial cell envelope (l3).To provide experimental evidence of the subcellularlocation of EccBl in MTB,we fractionated MTB H37Rv cells into the cell cytoplasm, cell membrane,and cell wall fractions,and then verified the location of EccBl in these fractions using Western blotting with a set of specific antibodies (anti-GroEL2,and antiEccBl-△N72). EccBl mainly localized to the cell envelope fraction,consisting of both the IM and the mycolic-acid containing cell wall (Fig.1A),consistent with the prediction that EccBl is a periplasmic protein with an N-terminal transmembrane region.We also investigated the susceptibility of native EccBl to proteases to confirm its location. Protease treatment of whole cells with 200 or $4 0 0 ~ \\mu \\mathrm { g / m l }$ proteinase Kled to an obvious reduction in the quantity of EccBl,while no detectable reduction was found in the GroEL2 control (Fig. 1B).As EccBl is not intrinsically resistant to protease $\\begin{array} { r } { \\bar { \\bf K } , } \\end{array}$ thisresult implies thatEccBl resides predominantly outside the IMof the cell,inagreement with results from the cell fractionation experiment. Taken together, these findings indicate that EccBl residesat the cell envelope ofMTB. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EccB1 is an $\\mathbf { M g ^ { 2 + } }$ dependent ATPase ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As EccB3,a homologue ofEccB1, is predicted to contain an ATPbinding motif in its C-terminal,we investigated the ability of EccBl to hydrolyze ATP using a radioactive assay with $( \\mathsf { \\gamma } _ { \\mathsf { Y } } { \\mathsf { - } } [ { } ^ { \\mathsf { 3 2 } } \\mathsf { P } ] )$ ATP as the substrate.The kinetic parameters $K _ { \\mathrm { m } } .$ $V _ { \\mathrm { m a x } } ,$ and $k _ { \\mathrm { c a t } }$ for ATP, calculated according to the Michaelis-Menten equation (Fig.2A),demonstrate that EccBl is indeed an intrinsic ATPase,its kinetic parameters （20 $( K _ { \\mathrm { m } } ; 9 4 . 9 4 \\pm 9 . 3 \\mu \\mathsf { M }$ $V _ { \\mathrm { m a x } }$ $: 2 . 2 7 \\pm 0 . 0 8 2 \\mu \\mathrm { M } / \\mathrm { m i n }$ $k _ { \\mathrm { c a t } }$ $0 . 7 6 \\pm 0 . 0 1 2 \\mathrm { { m i n } ^ { - 1 } }$ ; and $k _ { \\mathrm { c a t } } / K _ { \\mathrm { m } } { : 0 . 4 8 \\mu \\mathrm { M } ^ { - 1 } \\mathrm { s } ^ { - 1 } ) }$ being in the same order of magnitude as values reported for EccA (Rv3868)(4O)．As we were unable to obtain sufficient quantities of full-length EccB1 to perform additional biochemical studies,we designed an N-terminal-truncated EccBl construct $( \\mathrm { E c c B 1 - } \\Delta \\mathrm { N } 7 2 )$ ,residues G72-P480)based on analysis of the transmembrane region using protein analysisserverTmhmm $\\mathrm { v } 2 . 0$ (26)and secondary structural stabilityusingPsipred(27) in orderto furthercharacterize theATPaseactivity ofEccB1.Although theATPase activity of $\\mathrm { E c c B 1 - } \\Delta \\mathrm { N } 7 2$ was significantly lower than that of fulllength EccB1,itsactivitywas still evident $( K _ { \\mathrm { m } } { : } 9 . 8 7 \\pm 1 . 6 4 \\mu \\mathsf { M }$ $V _ { \\mathrm { m a x } } { : 0 . 0 9 } \\pm 0 . 0 0 4 \\mu \\mathrm { M / m i n }$ ， $_ { \\mathrm { c a t } } \\mathrm { 0 . 0 1 1 } \\pm 0 . 0 0 0 2 \\mathrm { m i n } ^ { - 1 }$ and $k _ { \\mathrm { c a t } } / \\ K _ { \\mathrm { m } } \\colon 0 . 0 6 7 \\ \\mu \\mathrm { M } ^ { - 1 } \\ \\mathrm { s } ^ { - 1 } .$ ） (Fig. 2B).We next investigated the effect of $\\mathrm { { C a } ^ { 2 + } }$ and $\\mathrm { { \\dot { M } g ^ { 2 \\mp } } }$ ions on its ATPase activity. Addition of $\\mathrm { 5 } \\mathrm { m M }$ EDTAabolished ATPase activity, but ATPase activity in the presence of $\\mathrm { 5 \\ m M M g ^ { 2 + } }$ was not significantlydifferent from the native EccB1-△N72 control, and addition of $\\mathrm { 5 m M C a ^ { 2 + } }$ reduced ATPase activity relative to the control (Fig.2C).These results were independently corroborated by differential scanning fluorometry in the presence of $\\mathrm { { C a } ^ { 2 + } }$ and $\\mathrm { { M g } ^ { 2 + } }$ ions, EDTA, AMP, AP, ATP, and its analog ATP ${ \\boldsymbol \\gamma } { \\boldsymbol - } { \\boldsymbol \\mathrm { S } }$ The addition of ATP, $\\mathrm { { M g } ^ { 2 + } }$ ions,ora combination of both,led to an upward shift in the melting temperature of EccBl-△N72, but there was no change in the melting temperature on addition of EDTA, suggesting that the binding of ATP, or $\\mathrm { M g ^ { 2 + } }$ ions improved the stability of EccBl-△N72. Addition of other components did not result in significant conformational transitions (Supplemental Fig.1).Taken together, these results indicate that $\\mathrm { M g ^ { 2 + } }$ ions are necessary for the ATPase activity of EccB1-△N72,and that EccBl-△N72 binds ATP but not the other molecules in the presence of $\\mathrm { M g ^ { 2 + } }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/711c0b7f21f5d6004c40e13ca987d3a160655aeda05991633b5182805ee0f3d9.jpg",
+        "img_caption": [
+            "Figure 1.EccBl localizes to the mycobacterial cell envelope.A) Immunoblot of different cell fractions: cell cytoplasm(CC),cell membrane (CM),and cell wall (CW) fractions,total protein (T), and EccBl-△N72 recombinant protein (P)，using antibodies against EccB1-△N72 or GroEL2 (a cytoplasmic protein).B) Protease susceptibility of EccBl at different concentrations of protease K.Whole cells were digested at protease concentrations of 0, 200, and $4 0 0 ~ \\mu \\mathrm { g / m l }$ . Immunoblotting was performed using antibodies against EccBl-△N72 and GroEL2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ATPase activity isa common characteristic of EccB1 and its homologues ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine whether ATPase activity is a feature of EccB1 homologues，we examined ATPase activity in EccB1 homologues from MTB and $M .$ smegmatis. We cloned, expressed,and purified the periplasmic regions ofMsEccB1 (MsEccBl-△N72 NT,encoded by MSMEG_0060,residues 72-479) and MtEccB5 (MtEccB5-△N80,encoded by Rvl782,residues 8O-506）and compared their ATPase activity with that of EccB1-△N72.MtEccB5-△N80 showed about $5 0 \\%$ of the ATPase activity of EccBl-△N72,and a C-terminal 6xHis-tagged MsEccBl-△N72 CThad about 5 times the ATPase activity of EccBl-△N72. By contrast, an N-terminal 6xHis-tagged MsEccB1-△N72 NT lost its activity (Fig.3).We conclude that ATPase activity is a common characteristic of these EccBl homologues and likely involves the N-terminal, and we hypothesize that this ATPase activity may play a key role in providing the energy required for transport of virulence factors in the type VII secretion system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/39362eaa45e39237d62b1285bdb516c2610bbbf7d537203cc16d45e2e5bc0894.jpg",
+        "img_caption": [
+            "Figure 2. EccBl is an $\\mathrm { M g ^ { 2 + } }$ dependent ATPase. $A , B )$ The kinetic parameters, $K _ { \\mathrm { m } }$ (Michaelis constant） and $V _ { \\mathrm { m a x } }$ of EccB1 $( A )$ and EccB1-△N72 $( B )$ for ATP were measured by changing the concentrations of ATP at fixed concentrations of EccBl/EccBi-△N72. Kineticparameters werecalculatedbyfitingthedata totheMichaeli-Mentenequation.The insertshowsaLineweaver-Burk plot of $K _ { \\mathrm { m } }$ and $V _ { \\mathrm { m a x } }$ ， $C$ ）Effect of $\\mathrm { M g ^ { 2 + } }$ ， $\\dot { \\mathrm { C a } } ^ { 2 + }$ and EDTA on ATPase activity. ATPase activity of EccBl was measured in the presence and absence (control) of $5 \\mathrm { m M M g ^ { 2 + } }$ $\\mathrm { C a ^ { 2 + } }$ ,and EDTA. Addition of $\\mathrm { { C a } ^ { 2 + } }$ led to a $5 0 \\%$ decrease in ATPase activity and addition of EDTA abrogated ATPase activity. Addition of $\\mathrm { M g ^ { 2 + } }$ had no significant effect on ATPase activity. Results presented are from 3 replicate experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two conserved sequence motifs,located in the N- and C-terminals,and important residues are involved in ATPase activity ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next compared the sequences of EccBl and its homologues to identify any conserved sequence motifs that might be involved in its ATPase activity. Sequence alignment identified 3 conserved motifs:residues 94-103 (motif 1, $\\mathrm { P X _ { 2 } N L X S A R L } ,$ ,residues125-134 (motif2, $\\mathrm { G X _ { 2 } h G I P G A P }$ h indicates hydrophobic residues） and residues 429-463 [motif 3, $\\mathrm { \\hat { L } G L X _ { 5 - 7 } }$ $( \\mathrm { A } / \\mathrm { I } )$ $\\mathrm { P W X _ { 2 } H X _ { 2 } }$ $( \\mathrm { L } / \\mathrm { F } )$ （204号 $\\mathrm { X _ { 2 } G P X L S X _ { 3 } A X h X _ { 2 } D X h ] }$ (Fig. 4). Motifs 1 and 2 are located at the N-terminal of the periplasmic region and motif 3 at the C-terminal.To verify the effect of conserved motifs on ATPase activity，we examined the ATPase activity of 3 truncations (Fig.4B).Deletion of motif 1 (EccB1-△N106,residues 106-480) totally abolished ATPase activityand deletion of differentnumbers ofresiduesof the C-terminal ofEccB1 (EccBl-△C448 and EccB1-△C463, corresponding to residues 72-448 and 72-463，respectively） increased ATPase activity. These results indicate that motif1is directly involved inATPase activity and that the C-terminal of EccBl, including motif3,also affectsATPase activity.Aswe were unable to obtain a truncation in which motif 2 was deleted,we werenotable to determinewhethermotif2is involved in ATPase activity.However,the rich composition of proline and glycine residues in motif 2 leads us to suggest that it might be involved in stabilizing local protein confirmation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We subsequently performed mutagenesis studies on 2 conserved residues likely to be of significance in EccBl activity.Residue ArglO2 of conserved motif1 is notable in that it is the only charged residue in this motif.Mutation of thisresidue to alanine significantly decreased the ATPase activity ofEccBl-△N72,indicating that it is likely involved in ATPase activity (Fig. 4C). Sequence analysis suggests that residues Cysl50 and Cys345 may form a disulfide bond. Mutation ofresidue Cys15O to serine likely destroys this, the onlydisulfide bond within EccBl,and thusthe overall folding of the protein.Mutant Cl5oS lost most of its ATPase activity (Fig. 4C),confirming that a stable structure is important for ATPase activity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/988ed1536830bb5400b9c7f3ef52f44c39320217453df95b13ec3f43a6c314b2.jpg",
+        "img_caption": [
+            "Figure 3.ATPase activity is a common characteristic of EccB1 and its homologues.Recombinant proteins EccBl-△N72, MtEccB5-△N80 (encoded by Rvl782)，and MsEccB1-△N72 NT(encoded by MSMEG_Oo6O) with N-terminal His tags and MsEccBl-△N72 CT with a C-terminal His tag were incubated with $( \\mathsf { y } \\mathsf { - } [ { } ^ { \\mathrm { 3 2 } } \\mathrm { P } ] )$ ATP at $3 7 ^ { \\circ } \\mathrm { C }$ The hydrolytic activity of EccB1- △N72 was considered as $1 0 0 \\%$ .MtEccB5-△N80 showed $\\sim 5 0 \\%$ activityrelative to EccBl-△N72,and MsEccBl-△N72 CT showed nearly 3 times the activity of EccBl-△N72.By contrast,MsEccB1- △N72 NT lost most of its ATP hydrolytic activity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The N- and C-terminals are located in close proximity within the crystal structure ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further investigate the catalytic sites involved in EccBl's ATPase activity,we determined the crystal structure of the periplasmic region of EccB1, EccBl-△N72,at $1 . 9 \\mathring \\mathrm { A }$ resolution.Crystallographic parameters are summarized in Table 1. Initial phases were derived from a single wavelength anomalous dispersion experiment using a SeMetsubstituted protein. The model comprises 393 residues, including EccBl residues Gly72 to Ala465 and 3 residues from the vector.One asymmetric unit contains a single protein molecule. Fifteen residues are missing at the C-terminal of the model due to the flexibility of the protein sequence making interpretation impossible.The overall structure of EccBl comprises 5 domains,referred to as domains Al (residues 72-135),Bl (one half of domain B, residues 143-180),C1 (residues 181-242),A2 (residues 265-323)，B2 (the other half of domain B，residues 342-390)，and C2 (residues 391-45l) (Fig.5). These domains are arranged inan“S\"-like line in the orderA1-C2- Bl-B2-C1-A2 from membrane-proximal to membranedistal.Domains Al，Cl，A2，and C2 fold in the same $\\alpha / \\beta / \\alpha$ sandwich fold and have a common core consisting ofa 3-stranded $\\beta$ -sheet sandwichedbetween 2 $\\alpha$ -helices. The domains vary in the presence or absence or additional $\\beta$ -strands that are connected with the $\\mathbf { \\alpha } \\propto$ -helices， giving a secondary structure arrangement of $\\beta { - } \\beta { - } \\beta { - } \\alpha { - } \\beta / \\log { - }$ $\\mathbf { \\alpha } _ { \\mathrm { { \\alpha } } } \\mathbf { \\mathrm { { \\alpha } } } _ { \\mathrm { { \\beta } } } / \\mathrm { l o o p }$ . Subdomains Bl and B2 both fold into similar $3 \\beta$ -strandedmotifs,andareconnected viaadisulfidebond between residues Cysl5O and Cys345 to form an intact 6-stranded $\\beta$ -sheet witha pseudo 2-folded symmetric axis. The sequences and structures of domains Al,Bl,and C1 are similar to those of domains A2,B2,and C2, giving the overall structure of EccB1 a pseudo-2-folded axis of symmetry via the pseudo-2-folded symmetric axis observed in domainB.The3 conserved motifs involved in the ATPase activity are located at the interface of membrane-proximal domains Al and C2 and are in close proximity.The structure suggests that destruction of the only disulfide bond in EccB1 (Cysl50-Cys345) may destroy the overallfolding of the protein by disrupting the overall integrity of the B domain,in turn leading to the disruption of the interface of domains Al and C2.This may explain why mutation of Cysl50 to Ser leads to the loss of most of the ATPase activity of EccB1-△N72 (Fig. 4C). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ATP-binding pockets are formed by the N- and C- terminal conserved motifs from adjacent EccB1 molecules within a proposed hexamer arrangement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Size-exclusion chromatography and $\\mathrm { B S } ^ { 3 }$ crosslinking results confirmed that EccBl may form an oligomer (Sup plemental Fig. 3).Dynamic light scattering also indicated that EccBl-△N72 likely forms an oligomer on addition of ATP(Supplemental Fig.3).As most ATPases identified in other secretion systems function as hexamers and the EccBCDE complex identified in M. marinum contains 6 copies of EccB (l8),we hypothesized that EccBl forms a hexamer to fulfill its biologic function in the T7SS.We thus modeled a 6-fold rotational symmetric EccBl oligomer using the SymmDock Web serverand then docked the ATP molecule into the EccB1 hexameraccording to the method described above.The hexamer of EccBl has the appearance of an hourglass shaped channel with 2 large pores, 1 formed by domain A2 close to the mycolic membrane and the other by domain Al close to the IM,and 1 small pore formed by domain C2 in the middle (Fig.6A).The diameter of the small pore is about $2 0 \\mathring \\mathrm { A }$ and is comparable in diameter to the ESXA/B heterodimer $( { \\sim } 2 2 \\mathrm { \\mathring { A } } )$ and DNA duplexes $( { \\sim } 2 0 \\mathrm { \\mathring { A } } )$ ,2 potential substrates of T7SS.In this model, the ATP molecule residesat the interface of2 subunits,at the same vertical latitude as the small pore.The ATP molecule is surrounded by motif 3A( $\\mathrm { \\ L G L \\bar { X } _ { 5 - 7 } }$ [A/I] PW)and motif 1 from 1 EccBl protomer and motif 3B （号 $\\mathrm { ( X _ { 2 } H X _ { 2 } }$ （204号 $\\mathrm { L / F ] \\mathrm { X _ { 2 } G P X L S X _ { 3 } A X h X _ { 2 } D X h ) } }$ from an adjacent protomer. These 2 conserved sequence motifs together thus comprise the ATP binding pocket (Fig. 6B).This observation supports our proposal that EccBl forms a hexamer. We further propose that T7SS substrates may be secreted outside of the mycolic membrane from the periplasm via EccBl or its homologous hexamers. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thebiochemical and structural characteristicsofEccBl, a core component of the ESX-l system that is essential for its secretion of virulence factors,are largely unknown (6). Here,we demonstrate thatEccBlisan ATPase located in the periplasmic space of MTB.We solved the structure of the periplasmic region of EccBl,and these data, together with that from ATP docking studies with an EccBi hexamer oligomer model and ATPase activity analysis of EccBl mutants,suggest thatperiplasmichexamericATPase EccBl ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A Motif 1 Motif 2 90 100 110 120 130 140   \nMtEccB1 G : QLHPvYNETSARIVLGNPANPATVKSSELSKLPMGOTVGIPGAPYAT. PVSAGSTS1   \nMtEccB2 C . RLYPALNLTSARIATGTAGOPTWVKPAEIAKYPTGPLVGIPGAPAAM .PVNRCAVSA   \nMtEccB3 E QLHPVLN ！ SARI IVGRPVSPTTVKSTELDOFPR GNLIGIPGAPERM.VONTSTDAN   \nMtEccB4 D : : VWHPvLNLASARIIAATNANPOPVSEsELGHTKr PLL GIPGAPOLLDOPLAGAESA   \nMtEccB5 D . RLYPALNLASARIITGRPDNPHLVRSSOIATMPR ePLV GIPGAPSSF .SPKSPPASS   \nMsEccB1 C sNOLRPvYNtTsARI vLGNAsNPvAvKsEELNRIsr GQs IGIPGAPYAT.PTGT.PASO   \nMsEccB4 D . TVHPVLNLASARIIVONPADPVLvDDAAIDAAPEGPLVGIPGAPARIHPPLSADEIT   \nMmEccB1 D . : TWHPvLNLAsARI IAGTGANPKPVREAEVIRAKRGPLLGIPGAPOFvGOSLPVOESA   \nMbEccB1 C : : OLHPVYNLTSARI VLGNPANPATVKS SELS KL PM GOTVGIPGAPYAT. PVSAGSTSI 420 430 440 450 460   \nMtEccB1 RYGVPN AETAKS LGLSS.P.ONAPWEIVRLLVD GP LS DAALLEHDT PAD   \nMtEccB2 RFGIAND EATLR LGLD PGAAVOAPWPLLRTEAA G P LSRDAALLARDTV P TL   \nMtEccB3 RYGIDNEPOGVAGGGKAVELTGINP . PPVPI S VLI SLF S R ADALLAHDT1VPD   \nMtEccB4 RFAIHDD DVAHI LGLPTAA. IPA PVLAT R AN SVARDTVAPG   \nMtEccB5 RFGvEDS KEARD LGLTL.TPSLA VA: R T R AD LVEHDTI P . M   \nMsEccB1 RYGIAN DDAA KI LGLAG .P.VNAi 0 V 工 EA LIEHDTL PAD   \nMsEccB4 LHGIODA D AA R GLTGPA.VPAPWAMLAMLPR GP E LSSAA SVARDA PST   \nMmEccB1 RYLIRDE D TARI LGLLTP .TAAPWPMLATLPE G P E LS GAN SVAYDVV AVD   \nMbEccB1 RYGVPN AE TA K LGLSS P QNA P WEIVRLLV G LS K DA T 1 EHD PAD Motif 3   \nB C 8- 1.5-   \nnaeeaee 6- Pneeeaeee eelee 1.0- 4-   \nreiteiee 0.5 2 0 0.0   \nEccB1-△N72 EccB1-△N106 EccB1-△C448 EccB1-△C463 EccB1-△N72 EccB1-△N72 C150S EccB1-△N72 R102A ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "forms a substrate transport channel and that the mechanism of transport across the complex mycomembrane maybe powered by ATP hydrolysis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Houben et al. recently reported that EccB5,an EccBl homologue, is located in the cell envelope of M. marinum, where it forms a large membrane complex along with EccC5,EccD5,and EccE5(18).The mycobacterial cell envelope is highlycomplex and is composed of the plasma membrane, the cell wall,which is comprised of peptidoglycan，arabinogalactan，the mycomembrane，whichis mainly comprised of long chain（C60-C90） mycolic fatty acids,and an outermost layer known as the capsule(4l, 42).In line with Houben et al.,results here show that EccBl is present in both the plasma membrane and cell wall fractions ofMTB(Fig.1A) and further indicate that EccB1 resides outside the plasma membrane (Fig.1B),indicating that it is a periplasmic protein.Generally speaking,secretion system proteins located in the periplasmic space are involved in the formation of transport channels across the outer membrane,or packaging substrates.For this reason, we hypothesized that EccBl, like its EccB5 homologue, may be involved in the formation of a channel spanning both the plasma membrane and mycomembrane. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The T7SS possesses a powerful army of energy-producing molecules,including atleast 2 known ATPases: EccAand EccC (l2).EccB proteins have not previously been shown to have ATPase activity. EccBl has low sequence homology with known ATPases,and lacks the Walker A motif, also referred to as a phosphate-binding(P) loop ( $\\mathrm { G X _ { 4 } G K }$ [T/S]),present in mostATPases (Supplemental Fig.2). Our study demonstrates that the ATP binding motif of EccBl is different from those previously reported. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ab5468b0f2fbcc8f663ebfcbcdfd9ab125613c4a16f15fcf7c407a593e72df4.jpg",
+        "table_caption": [
+            "TABLE1.Crystallographic statistics "
+        ],
+        "table_footnote": [
+            "Values in parentheses are for the highest resolution shell. $\\begin{array} { r } { \\mathrm { { } ^ { a } R } _ { \\mathrm { m e r g e } } = \\sum h k l \\sum i l I _ { i } ( h k l ) \\ - \\langle \\ I ( h k l ) \\ \\rangle | \\ / \\ \\sum h k l } \\end{array}$ $\\Sigma i I _ { i } ( h k l )$ ，where $I _ { i } ( h k l )$ is the intensity of the ith measurement of reflection hkl $\\Sigma i$ is the sum over the individual measurements ofa reflection,and ∑hklis the sum over allreflections. R.m.s.d.,root-mean-square deviation; $\\langle \\mathbf { I } / \\sigma$ (I)>,intensity over intensity of $\\mathbf { \\sigma } _ { \\mathbf { \\sigma } } \\mathbf { \\sigma } _ { \\mathbf { \\sigma } }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Crystals</td><td>EccB1-△N72</td><td>SeMet-EccB1-△N72</td></tr><tr><td>Data collection</td><td></td><td></td></tr><tr><td>Space group</td><td>P212121</td><td>P21</td></tr><tr><td>Cell dimensions</td><td></td><td></td></tr><tr><td>a,b,c (A)</td><td>31.63,108.73, 114.53</td><td>31.84,122.65,60.42</td></tr><tr><td>α,β,γ (deg)</td><td>90, 90, 90</td><td>90, 101.27, 90</td></tr><tr><td>Wavelength (A)</td><td>1.5418</td><td>0.9789</td></tr><tr><td>Resolution (A)</td><td>36.02-1.90 (2.00-1.90)</td><td>33.65-2.00 (2.11-2.00)</td></tr><tr><td>Rmerge@(%)</td><td>5.6 (22.7)</td><td>10.1 (46.9)</td></tr><tr><td>(I/σ (I))</td><td>9.9 (5.4)</td><td>12.3 (4.5)</td></tr><tr><td>Completeness (%)</td><td>97.0 (84.1)</td><td>98.4 (98.3)</td></tr><tr><td>Redundancy</td><td>6.1 (4.1)</td><td>9.1 (8.9)</td></tr><tr><td>Wilson plot B</td><td>18.5</td><td>33.1</td></tr><tr><td>Refinement</td><td></td><td></td></tr><tr><td>Reflections (n)</td><td>31,051</td><td>30.094</td></tr><tr><td>Rwork/Rfree+ (%)</td><td>18.4 (22.5)</td><td>20.9 (24.0)</td></tr><tr><td>R.m.s.d.</td><td></td><td></td></tr><tr><td>Bond lengths (A)</td><td>0.004</td><td>0.006</td></tr><tr><td>Bond angles (deg)</td><td>0.936</td><td>1.051</td></tr><tr><td>Non-H atoms (n)</td><td></td><td></td></tr><tr><td>Total</td><td>3450</td><td>2979</td></tr><tr><td>Protein</td><td>2960</td><td>2851</td></tr><tr><td>Ligand/ion</td><td>2</td><td>2</td></tr><tr><td>Water</td><td>488</td><td>126</td></tr><tr><td>Average B factors (A²)</td><td></td><td></td></tr><tr><td>Total</td><td>24.5</td><td>58</td></tr><tr><td>Protein</td><td>22.9</td><td>58.3</td></tr><tr><td>Ligand/ion</td><td>31.5</td><td>67.5</td></tr><tr><td>Water</td><td>33.6</td><td>51.3</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Ramachandran plot, residues (%)</td><td></td><td></td></tr><tr><td>Favored</td><td>98.48</td><td>95.79</td></tr><tr><td>Allowed</td><td>1.01</td><td>3.16</td></tr><tr><td>Outliers</td><td>0.51</td><td>1.05</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sequence analysis indicated that there are 3 conserved motifs in the EccBl sequence (Supplemental Fig. 2). ATPase activity determination of the truncation EccB1- △N106 indicated that theWalker A motif is likely functionallysubstituted by motif1 which,like the WalkerA motif, contains a conserved ArglO2 residue (Fig.4).Different frommembers of the secretion ATPase superfamily,such asVirB11,VirD4,andVirB4 of the T4SSin Agrobacterium tumefaciens,in whichN-terminal and C-terminal domains are clearly separated (43),EccB1is comprised of 5 domains in the arrangement Al-Bl-Cl-A2-B2-C2,which interweave and foldback on themselves to form a novel 3-D structure in which the domains are arranged in the order Al-C2-Bl and B2-C1-A2 along a pseudo-2-folded symmetric axis (Fig.5).Size-exclusion chromatography and $\\mathbf { B S } ^ { 3 }$ crosslinking results showed that EccBl may forman oligomer(Supplemental Fig.3) and modeling of EccB1 to further investigate the features of its ATPase activity indicated that a hexamer arrangement gave the highest geometric shape complementarity scores.This is in line with the fact that many members of the secretion ATPase family existashexamers (43,44).NanoLC-MS/ MS analysis of the large T7SS membrane bound complex,EccBCDE,reportedbyHouben etal.anddiscussed above,also showed that it contains 6 copies of EccB (18). ATP docking showed that the ATP binding pocket is located at the interface between 2 adjacent molecules (between motif 3A and motif1 from the same molecule and motif 3B from an adjacent molecule).This was further confirmed by ATPase activity determination of EccBl truncations (Fig. 4B). Dynamic light scattering results also indicated the formation of an oligomeric form of EccBl-△N72 on addition of ATP (Supplemental Fig. 3).The diameter of the small pore of the EccB1 hourglass shaped hexamer is about $\\dot { 2 } 0 \\mathring \\mathrm { A }$ ，similar to the central channel of the EccC homologue T4SS TrwB spherical hexamer $( \\mathrm { { 2 2 \\mathring { A } } } )$ ,which transports DNA or proteins acrosstheIM(45).We thusconclude that theEccB hexamer may act as part of a transport channel to deliver substrates and that its transport mechanism may be powered by ATP hydrolysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MostATPases of the secretionATPase superfamily drive substrates across the IM by ATP dephosphorylation,converting chemical energy into biologic activity,and have all of theirATPase domains in the cytoplasm.EccBl's location in the periplasmic space suggests that it possibly functions asa motor that powers substrates across the mycomembrane of MTB.We predict that EccB needsthe help of other proteins to transport substrates across the mycomembrane as we did not detect directinteractions between EccBl and the ESXA/B complex in either ITC or SPR experiments,and such interactions have not previously been reported.Houben et al.have proposed 2 different models for the T7SS transport mechanism based on the composition of the EccBCDE membrane complex (18). Their 2-step model presumes that the EccBCDE membrane complex is located entirely within the IMand simply transports substrates from the cytoplasm across the IM. Another transport channel is required to complete transport from the periplasmic space across the mycomembrane.In their i-step model, however, EccE acts a bridge between the channel formed by the EccBCD complex and a second channel in the mycomembrane,facilitating l-step transport. Our study provides support for the l-step model: proteinase K digestion suggests that the soluble segment of EccB1 protrudes into the periplasmic space of MTB.In addition, the EccBl-△N72 structure is ${ \\sim } 1 \\mathrm { \\hat { 0 } n M }$ too short to span both the mycobacterial plasma membrane and mycomembrane $( \\sim 2 0 \\mathrm { \\ n M } )$ (41).EccBl thus requires other components to forma transport channel across the mycomembrane,but can likely act asa bridge between these 2 membranes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b626f8f26170bd02819e36ff7530909440fa0ed46d867d498c63900b1c9b08d6.jpg",
+        "img_caption": [
+            "Figure 5.The N-and C terminals are located in close proximity within the crystal structure of MTB EccB1-△N72.A) EccB1 is a membrane-bound protein with a predicted N-terminal transmembrane helix (gray cylinder） spanning the IM.The structure of EccBl-△N72 is composed of 6 domains, Al-C2-Bl-B2-C1-A2, listed from the membrane proximal N-terminal. Topological structure ofEccBl-△N72.The similarity of the protein sequence of the Al-Bl-Cl and A2-B2-C2 regions leads to folding along the axis shown into a 2-folded rotation symmetrical structure,bringing the N-terminal and C-terminal into close proximity.B) Crystal structure of EccB1-△N72 displayed as a cartoon.Domains Al,Bl,and Cl are shown in green and other domains are shown in yellow.The 3 conserved motifsare shown inmagenta (motif1),blue (motif2),and red (motif 3).IM,innermembrane; MM, mycomembrane. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "EccB is present in all 5 ESAT-6 gene clusters and is crucial for ESAT-6/CFP-10 secretion (6, 23).Although,as shown in this study,some EccB1 homologues also have ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ATPase activity,we still lack direct experimental evidence that this ATPase activity is related to substrate secretion. Verifyingthe involvement ofATPaseactivityinsubstrate transport will require experiments showing that EccBl deletion can be complemented by different EccBl truncations and EccBl mutants in which key residues are mutated.Furthermore,it will be important to determine the structure and biochemical characteristics of EccBl in complexwith the proteins it interactswithintheformation of the transport channel. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have shown that EccB is a periplasmic ATPase and have identified a putative ATP binding pocket via oligomer modeling,ATP docking,and mutagenesis experiments.We propose that EccBl existsas a hexamer and is involved in transporting substrates from the periplasm to the outside of the cell via hydrolyzing ATP. Our work provides the first biochemical and structural data on an individual core component of the T7SS membrane complex and increases our understanding of T7SS architecture.Virulence factor secretion systems are considered to be potential drug targets.As such,our characterization, molecular modeling,and mutational analysis ofEccBl may set the stage for the identification of novel inhibitors that can disrupt the export of critical tuberculosis virulence factors (lO).The subcellular location of EccBl in the periplasmic space may facilitate drug delivery,making it an attractive target. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc3f98583987b6ac3103dc2163c386c0080cec8f4e3a9932682f29e81e348db2.jpg",
+        "img_caption": [
+            "Figure 6. The N- and C- terminal conserved motifs from adjacent EccB1 molecules within a proposed hexamer arrangement form ATP-binding pockets. A) Top view of the molecular surface and cartoon of proposed 6-fold rotational symmetric oligomer of EccBl as modeled bythe SymmDock web server.The 6 molecules are indicated in different colors.B) An ATP molecule was docked into the EccBl hexamer using PatchDock.The ATP molecule is shown as astick model and is located at the interface between the molecules of 2 adjacent subunits.Enlargement of an ATP binding pocket in the EccB1 hexamer (red-boxed area).The pocket is formed from residues 440-458 of molecule M1 (motif 3B)and 429-439 of M2 (motif 1 and motif 3A).Mutation of motif1 conserved residue Arglo2,shown in red，decreases ATPase activity，providing support for this hexamer model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors express their appreciation to the staff at the Shanghai Synchrotron Radiation Facility of China for assistance with collecting protein diffraction data,and thank Yi Han and Sheng-Quan Liu from the Institute of Biophysics,Chinese Academy of Sciences,for their assistance in data collection, Xiao-Xia Yu and Xiao-Qian Xie for assistance with protein purification,Hong-Jie Zhang and Wen-Jing Wei for help with the ATPase activity assay，and Hong-Tai Zhang for helpful discussions on the manuscript. This work was supported by grants from the National Basic Research Program of China (2011CB910300,2012CB518700,2013CB911500),the Key Project Specialized for Infectious Diseases of the Chinese Ministry of Health (2013ZX10003006 and 2012ZX10003002)，the Chinese Academy of Sciences (KJZD-EW-L02,XDB08020200)，and the National Natural Science Foundation of China (3ll70132, 31270792). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1．Eurosurveillance editorial team (20l3)WHO publishes Global tuberculosis report 2013.Euro Surveill.18,39   \n2.Finlay，B.B.，and Falkow，S.(l997）Common themes in microbial pathogenicity revisited.Microbiol.Mol.Biol.Rev.61, 136-169   \n3.Bitter,W.,Houben,E.N.,Luirink,J.,and Appelmelk, B.J.(2009) Type VII secretion in mycobacteria:classification in line with cell envelope structure.TrendsMicrobiol.17,337-338   \n4．Abdallah,A.M., Gey van Pittius,N. C., Champion,P.A.D., Cox,J., Luirink,J.,Vandenbroucke-Grauls,C.M.J.E.,Appelmelk,B.J.,and Bitter,W.(2oo7） Type VII secretion-mycobacteria show the way. Nat.Reu.Microbiol.5,883-891   \n5．Abdallah，A.M.，Savage，N.D.L.，van Zon，M.，Wilson，L., Vandenbroucke-Grauls,C.M.J.E.,van derWel,N.N.,Ottenhoff, T.H.M.,and Bitter,W.(20o8) The ESX-5 secretion system of Mycobacterium marinum modulatesthe macrophage response. J.Immunol.181,7166-7175   \n6.Stoop,E.J.,Bitter,W.,and van der Sar,A.M.(2o12) Tubercle bacilli rely on a type VII army for pathogenicity.Trends Microbiol.20, 477-484   \n7.Van der Woude,A.D.,Luirink,J.,and Bitter,W.(2013) Getting across the cell envelope: mycobacterial protein secretion. Curr. Top. Microbiol.Immunol. 374,109-134   \n8.Van der Wel,N.,Hava,D.,Houben,D.,Fluitsma,D.,van Zon, M., Pierson,J.,Brenner,M.,andPeters,P.J.(2oo7)M.tuberculosisand M.leprae translocate from the phagolysosome to the cytosol in myeloid cells. Cell129,1287-1298   \n9.Simeone,R., Bottai,D.,and Brosch,R.(20o9) ESX/type VII secretion systems and their role in host-pathogen interaction. Curr. Opin. Microbiol.12,4-10   \n[0. Bitter,W.,and Kuijl,C.(20l4) Targeting bacterial virulence:the coming out of type VII secretion inhibitors.Cell Host Microbe 16, 430-432   \n[1. Pallen,M.J.(2002) TheESAT-6/WXGl00 superfamily—andanew gram-positive secretionsystem?TrendsMicrobiol.10,2o9-212   \n[2. Gey VanPittius,N.C.,Gamieldien,J.,Hide,W.,Brown,G.D.,Siezen, R.J.,and Beyers,A.D.(2oo1)The ESAT-6 gene cluster ofMycobacterium tuberculosis and other high $\\mathrm { G } { + } \\mathrm { C }$ gram-positive bacteria. GenomeBiol.2,RESEARCH0044   \n13.Houben,E.N.,Korotkov,K.V.,and Bitter,W.(20l4) Take tive—type VII secretion systems of Mycobacteria.Biochim.Biophys.Acta 1843, 1707-1716   \n14.Stanley, S.A., Raghavan, S.,Hwang,W. W.,and Cox,J. S. (2003) Acute infection and macrophage subversion by Mycobacterium tuberculosis require a specialized secretion system.Proc.Natl. Acad. Sci.USA 100,13001-13006   \n15.Siegrist,M. S., Unnikrishnan,M.,McConnell,M.J.,Borowsky,., Cheng,T.Y., Siddiqi,N.,Fortune, S.M.,Moody,D.B.,and Rubin, E.J. (20o9) Mycobacterial Esx-3 is required for mycobactin-mediated iron acquisition.Proc.Natl.Acad. Sci. USA 106,18792-18797   \n16.Sayes,F., Sun,L.,DiLuca,M., Simeone,R.,Degaiffer,N.,Fiete,L Esin,S.,Brosch,R.,Bottai,D.,Leclerc,C.,and Majlessi,L.(2012) Strong immunogenicity and cross-reactivity of Mycobacterium tuberculosis ESX-5 type VII secretion: encoded PE-PPE proteins predicts vaccine potential. Cell Host Microbe11, 352-363   \n17．Bitter,W.,Houben,E.N.,Bottai,D.,Brodin,P.,Brown,E.J.,Cox,J.S., Derbyshire,K.,Fortune,S.M.,Gao,L.Y.,Liu,J.,GeyvanPitius,N.C., Pym,A. S., Rubin,E.J.,Sherman, D.R., Cole,S.T.,and Brosch,R. (2009）Systematic genetic nomenclature for type VII secretion systems.PLoS Pathog.5,e1000507   \n18.Houben,E.N.,Bestebroer,J.,Ummels,R.,Wilson,L.,Piersma,S.R., Jiménez, C.R.,Ottenhoff, T.H.,Luirink,J.,and Bitter,W.(2012) Composition of the type VII secretion system membrane complex. Mol.Microbiol.86,472-484   \n19.Hsu,T.,Hingley-Wilson,S.M.,Chen,B.,Chen,M.,Dai,A.Z.,Morin, P.M.,Marks,C.B.,Padiar,J.,Goulding,C., Gingery,M.,Esenberg, D., Russell,R.Gick,S.CCoisF.,sS.ig C.H.,and Jacobs,W.R.,Jr.(2oo3) The primary mechanism of attenuation of bacillus Calmette-Guerin is a loss of secreted lytic function required for invasion of lung interstitial tissue.Proc. Natl. Acad. Sci.USA 100,12420-12425   \n20.Coros,A.,Callahan,B.,Bataglioli,E.,and Derbyshire,K. M.(2008) The specialized secretory apparatus ESX-1 is essential_for DNA transfer in Mycobacterium smegmatis.Mol.Microbiol. 69,794-808   \n21.Daleke，M.H.，Ummels，R.，Bawono，P.，Heringa，J., Vandenbroucke-Grauls, C. M.,Luirink, J.,and Biter,W. (2012) General secretion signal for the mycobacterial type VII secretion pathway.Proc.Natl.Acad. Sci.USA109,11342-11347   \n22. Ramsdell, T.L.,Huppert,L.A., Sysoeva,T.A., Fortune, S.M.,and Burton，B.M.(2o15）Linked domain architectures allow for specialization of function in the FtsK/SpoIIIE ATPases of ESX secretion systems.J. Mol. Biol. 427,1119-1132   \n23.Brodin,P.,Majlessi,L.,Marsollier,L.,de Jonge,M.I.,Bottai,D., Demangel, C.,Hinds,J., Neyrolles,O.,Butcher,P.D.,Leclerc, C., Cole,S.T.,and Brosch,R.(2006) Dissection of ESAT-6 system 1 of Mycobacterium tuberculosis and impact on immunogenicity and virulence.Infect.Immun.74,88-98   \n24.Das,C., Ghosh,T.S.,and Mande,S.S. (2011) Computationalanalysis of the ESX-1 region of Mycobacterium tuberculosis: insights into the mechanism of type VII secretion system.PLoS One 6,e27980   \n25.Li,H.,Zhang,X.,Bi,L.,He,J.,andJiang,T.(2011) Determinationof the crystal structure and active residues of FabV,the enoyl-ACP reductase from Xanthomonas oryzae.PLoS One6,e26743   \n26.Krogh,A.,Larsson,B.,von Heijne,G.,and Sonnhammer,E.L.(2001) Predicting transmembrane protein topology with a hidden Markov model: application to complete genomes.J. Mol. Biol. 305,567-580   \n27.Buchan,D.W.,Minneci,F.,Nugent,T.C.,Bryson,K.,and Jones, D.T. (2013) Scalable web services for the PSIPRED Protein Analysis Workbench.Nucleic Acids Res.41,W349-57   \n28.Fernandez,D.,Dang,T.A.,Spudich,G.M.,Zhou,X.R.,Berger,B.R., and Christie,P.J. (1996) The Agrobacterium tumefaciens virB7 gene product, a proposed component of the T-complex transport apparatus,is a membrane-associated lipoprotein exposed at the peri7Q21562167   \n29.Mawuenyega,K.G.,Forst,C.V.,Dobos,K.M.,Belisle,J.T.,Chen,J., Bradbury,E.M.,Bradbury,A.R.,and Chen,X.(20o5) Mycobacterium tuberculosis functional network analysis by global subcellular protein profiling.Mol.Biol. Cell16,396-404   \n30.Winans,S.C.,Kerstetter,R.A.,Ward,J.E.,and Nester,E.W.(1989)A protein required for transcriptional regulation of Agrobacterium virulence genes spans the cytoplasmic membrane.J. Bacteriol. 171, 1616-1622   \n31.Tao,J.,Han,J.,Wu,H,Hu,X.,Deng,J.,Fleming,J.,Maxwel,A.,Bi, L.,and Mi,K.(2ol3）Mycobacterium fluoroquinolone resistance protein B,a novel small GTPase,is involved in the regulation of DNA gyrase and drug resistance.Nucleic Acids Res.41,2370-2381   \n32. Leupold, C. M., Goody, R. S.,and Wittinghofer,A. (1983) Stereochemistry of the elongation factor Tu X GTP complex. European J.Biochem.135,237-241   \n33.Solomonson, M.,Huesgen, P.F.,Wasney， G.A.,Watanabe,N., Gruninger,R.J.,Prehna,G., Overall, C.M.,and Strynadka,N.C. (2013) Structure of the mycosin-l protease from the mycobacterial ESX-1 protein type VII secretion system. J. Biol. Chem. 288, 17782-17790   \n34.Doublie,S.(2oo7） Production of selenomethionyl proteins in prokaryoticand eukaryotic expression systems.Methods Mol. Biol.363, 91-108   \n35.Adams,P.D., Grosse-Kunstleve,R.W., Hung,L.W.,Ioerger, T.R., McCoy,A.J.,oriarty,N.W,Read,R.J.,Sacchetini,J. C.,uter N. K.,and Terwilliger,T.C. (2002) PHENIX: building new software forautomated crystallographic structure determination.Acta Crystallogr.D Biol. Crystallogr.58,1948-1954   \n36.Emsley,P.,and Cowtan, K. (2004) Coot: model-building tools for molecular graphics.Acta Crystallogr.D Biol. Crystallgr.60, 2126-2132   \n37.Laskowski,R.A.,Macarthur, M.W., Moss,D.S.,and Thornton,J. M. (1993)Procheck-a program to check the stereochemical quality of protein structures.J. Appl. Cryst. 26, 283-291   \n38.Duhovny,D.,Nussinov,R.,and Wolfson,H.J.(20o2） Efficient unbound docking of rigid molecules. Lect. Notes Comput. Sci. 2452, 185-200   \n39.Schneidman-Duhovny,D.,Inbar,Y.,Polak,V.,Shatsky,M.,Halperin, I, Benyamini,H.,Barzilai,A.,Dror,O.,Haspel,N.,Nussinov,R,and Wolfson,H.J. (2oo3) Taking geometry to its edge:fast unbound rigid (and hinge-bent) docking.Proteins 52,107-112   \n40.Luthra,A., Mahmood,A.,Arora, A.,and Ramachandran,R.(2008) Characterization of Rv3868,an essential hypothetical protein of the ESX-1 secretion system in Mycobacterium tuberculosis.J. Biol. Chem. 283,36532-36541   \n41.Sani,M.,Houben,E.N.G., Geurtsen,J.,Pierson,J.,de Punder,K., van Zon,M.,Wever,B.,Piersma,S.R., Jimenez, C.R.,Daffe,M, Appelmelk,B.J.,Bitter,W.,van der Wel,N.,and Peters,P.J.(2010) Direct visualization by cryo-EM of the mycobacterial capsular layer: alabile structure containing ESX-1-secreted proteins. PLoS Pathog. 6, e1000794   \n42.Brennan,P.J.,and Nikaido,H. (1995) The envelope of mycobacteria. Annu.Reu.Biochem.64,29-63   \n43.Fronzes,R., Christie,P.J.,and Waksman,G.(20o9) The structural biology of typeIV secretionsystems.Nat.Reu.Microbiol.7,703-714   \n44.Korotkov, K. V., Sandkvist, M.,and Hol, W. G. (2012) The type II secretionsystem:biogenesis,moleculararchitectureand mechanism.Nat.Rev.Microbiol.10,336-351   \n45.Gomis-Rüth,F.X., Moncalian, G., Pérez-Luque,R., Gonzalez,A., Cabezon,E.，de la Cruz,F.,and Coll,M.(20o1） The bacterial conjugation protein TrwB resembles ring helicases and Fl-ATPase. Natire 409.637-641 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

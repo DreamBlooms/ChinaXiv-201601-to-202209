@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM的建筑VR交互技术研究与应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邵正达 宋天任",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(上海建工四建集团有限公司，上海 201103)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文研究应用了基于VR的BIM数模分离技术、基于物理的动态渲染技术、基于Unity二次开发技术并通过虚拟现实引擎开发完成基于BIM建筑VR交互系统。同时研究主动式3D 分时显示技术，形成一套轻便、多人观看的VR展示方案。在上海市轨道交通运营指挥大楼项目的应用验证表明，本研究提供的方法可加快现场装饰深化设计方案的制定，减少施工样板房的返工次数，并支持在项目深化设计过程中的应用。在建筑可视化领域具有推广价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】虚拟现实；BIM；PBR材质；Unity；分时显示",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The research and application of building VR interactive technology based on BIM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhengda shao， Tianreng Song (Shanghai Construction No.4(Group) Co.,LTD， Shanghai 201103,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】This research aplies Physical dynamic rendering techniques Digitalmode separation technology based on VR，dynamicrendering technologybasedonphysics，secondarydevelopmenttechnology basedonunitytocompletethe VR interactive system based on BIM architecture. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "At the same time,theactive 3Dtime-sharing display technology isresearched to formalight and multiplayer VRdisplay scheme.Theaplicationof theprojectinShanghaiRailTransitOperation CommandBuildingshows thatthemethod provided in this studycan speedupthe designof the scene decoration deepeningplan，reduce the numberof rework of the model room，and support the application in the project depening design process.It has the promotionvalue in the field of architectural visualization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Keyword】virtual reality;BIM;PBR material;Unity; time-sharing display ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虚拟现实（Virtual Reality，简称VR）是以计算机技术为核心，结合相关科学技术，生成与一定范围真实环境在视、听、触感等方面高度近似的数字化环境。用户借助必要的装备与数字环境中的对象进行交互作用、相互影响，可以产生亲临对应真实场景的感受和体验[1]。虚拟现实技术目前在军事、医学、艺术、游戏、影视、娱乐等众多领域得到了广泛的应用。在建筑行业中，我国对于虚拟现实技术的研究应用和国外一些发达国家还存在相当大的一段距离。国内建筑行业中，虚拟现实应用点主要以样板房展示为主。应用点涵盖的技术范围小。虚拟现实内容效果不够逼真，虚拟现实交互能力弱，展示硬件选择单一等一系列现状有待改进。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术；  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM 是建筑信息模型（Building Information Modeling）的简称，该技术是以三维数字化技术为基础，利用计算机对项目建立直观可视的数字化模型。BIM信息模型的优势就是在于其突破了传统2D以及3D模型难以修改和同步的瓶颈，以实时、动态的多维模型大大方便了工程人员2]。BIM技术作为建筑行业正在迅速推广的技术，行业中没有真正以建筑信息模型为基础进行虚拟现实技术的应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过基于VR的数模分离技术将建筑信息模型分成几何信息与参数信息，接着将几何模型导入虚拟现实引擎，利用物理动态渲染技术处理材质、环境、灯光。然后基于Unity进行VR的交互功能开发，最后打包封装完成基于 BIM的建筑VR交互系统。并通过分时显示技术将系统以3D方式显示出来。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文将针对数模分离技术、物理动态渲染技术、Unity二次开发技术、分时显示技术进行基于 BIM的建筑VR交互技术研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．VR交互技术关键点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于VR的数模分离技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Revit作为一款BIM建模软件，它的模型信息包括几何信息与参数信息。本研究在Revit的基础上采用.NET语言编程技术和数据库技术自主研发了一个Revit插件。如图1，插件可以根据模型固有的规则读取模型中所有构件的参数信息，并将数据集合汇总成自定义格式的表格，通过插件为表格添加相互映射关系，完成数模分离，即形成关系型数据库并上传到云端。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c1ef1ac3c59fb3eb3b08a94f39c7f116c1c22a397c2547862720f204b948ea5.jpg",
+        "img_caption": [
+            "图1revit的数模分离插件"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对虚拟现实引擎Unity开放数据库接口，根据项目需求下载相关的净高、房间个数、门窗个数、开关个数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术；  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "等构建数据。在虚拟现实引擎Unity后台进行数据的调用实现基于BIM的建筑信息VR展示。在Revit 建模时所有的构件都会产生一个属于自己的ID名称。在数模合并时通过这个独有的ID名称使构件与信息重新链接，确保数模的零误差合并。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2基于物理的动态渲染技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物体在现实世界中表面都覆盖有一层表现自身的材质、纹理和颜色，真实反映物体的这些属性在虚拟场景中有着表现真实感和现实感的作用，合理使用可呈现出复杂的细节提高用户的真实体验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于物理的渲染（PBR)是一种着色与渲染的方法[4。现在的 PBR 算法是以支持 Cook-TorranceMicrosoft 的BRDF 理论为基础的，并在直接照明与间接照明的 Shading Model 里使用[5]。它以光学物理定律（主要有：菲尼尔反射定律、微表面理论、光能守恒定律等）来控制渲染效果，以一种在物理层面更精确的方法来表现光、模型材质和模型所处环境的相互作用。在传统渲染中需要通过工作人员自身经验来猜测最终的效果，这可能带来与现实情况的偏差。因此基于物理的渲染技术可以保证更为真实的渲染效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以SBS 软件为基础，通过逻辑链接算法，以程序化的手段动态生成贴图，即由代码生成贴图纹理效果，通过代码参数控制贴图中的纹理大小、密度、长短、对比度等贴图参数信息，例如木制材料以动态贴图的方式，如图2就可以用程序参数控制其铁锈部分的范围腐蚀程度、范围大小等。在传统美术工作中，只能通过手工绘制来表现纹理效果，而不能随项目需要快速修改。动态贴图技术大大提升了贴图的适用范围和项目效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc65e54504e72d8e3665917eab9b13256bd034f999916c407d0967c04e35bc6b.jpg",
+        "img_caption": [
+            "图2木制材料动态贴图调整界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究针对 BIM 模型完成一套基于物理动态渲染的流程如图3，将 BIM 模型通过导出、优化、合并、贴图制作等步骤，可以得到供渲染使用的模型。在这一系列步骤中，团队成员使用统一的渲染流程，通过既定流程的参数控制，即可快速、高效、协同地完成从BIM模型到渲染模型的转化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术；  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6289a64e8ae34e759d51eb8dbf85687f6e4e7fea407b7bdb4e0afbee8d17271b.jpg",
+        "img_caption": [
+            "图3基于BIM的物理动态渲染流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3沉浸式仿真交互技术",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多功能的交互技术就是让用户能从虚拟环境中获取和真实环境一样或者相似的听觉、感觉、触觉和力觉等感官认知的关键技术，包括传感器技术、识别定位技术、语音综合识别装置、视觉跟踪技术、感知建模、文字识别以及数据手套、数据衣等设备的研究[]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unity3D 是由Unity Technologies 公司开发的专业跨平台游戏开发及虚拟现实引擎。作为一款专业的虚拟现实引擎，Unity精简、直观的工作流程，功能强大的工具集，使得虚拟现实程序模块的开发周期大幅度缩短。通过 3D 模型、贴图、图像、视频、声音等相关资源整合，借助Unity 相关场景构件模块，用户可以轻松实现对复杂虚拟现实环境的创建，并运行在Windows、Mac OSX、Linux 等平台。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节基于 Unity 开发的沉浸式仿真交互模块可以让用户通过外部硬件设备实时进行控制虚拟环境中的虚拟人物模型，控制虚拟人物与环境中的构件进行交互，从而对用户的需求进行模拟仿真。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以材质替换模块为例，流程如图4所示，设计师将预制的材质交接给VR工程师，VR工程师将隔墙木饰面类型、楼梯扶手木饰面类型、休息座椅、前厅地毯等多种材质录入进数据库。通过虚拟现实引擎Unity所提供的APIUnity Application Programming Interface）接口与数据库进行链接，设计师可以点击平台内的 UI控制按钮，平台会读取数据库中的材质资源，针对设计师选中的构件进行材质的替换，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术；  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7900ef8c63d85802c43c06e4c09acafe2f1aaeb8d2ab371f824934fa8f18f7d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/713ba8b2892de0fb7a936543407da6b7b10cbec291bc0ef09ae83c6dbf4f9342.jpg",
+        "img_caption": [
+            "图4沉浸式仿真交互技术实现流程",
+            "图5基于BIM的建筑VR交互系统多材质替换模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4分时显示技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在虚拟现实行业中头戴式显示设备已成为主流的显示设备，但是在产品的实际使用体验中发现，头戴式显示器设备的使用门槛较高，在使用前需要专人陪同、反复指导才能顺利地完成VR 体验，体验者需要同时克服对场景的不熟悉、使用方法不明白、VR 观看不习惯、设备过重不舒适等多个问题，同时一台设备只能一个人进行体验，无法向场景外的同伴明确表示自己在场景内的所见所闻，因此展示效率大打折扣。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分时显示技术是一种基于主动式3D 技术的轻量VR技术。主动快门式3D 技术通过把图像按帧一分为二，形邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术;宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "成对应左眼右眼的两组连续交错画面。红外信号发射器将同步控制快门式3D眼镜的左右镜片开关，使左右双眼在正确的时刻看到相应画面。如图6。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/41074e4c9935bd6f33eb089483ad71d23fecc4c2274f7c7430cde59cf5aed5d2.jpg",
+        "img_caption": [
+            "图6主动式眼镜遮蔽右眼、左眼"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究基于虚拟现实引擎Unity3D开发了分时显示技术BIMVISION 控制插件，技术路线如图7所示。点击开启 BIMVISION，插件将通过计算把场景空间中的模型顶点坐标位置、面片信息以及相机位置传入显卡显存中，同时调用显卡进行线性矩阵计算，以原场景中的相机作为基点，向左右延伸约3厘米进行渲染，模拟人的双眼所看到的视图。完成转换后在虚拟现实引擎中将场景封装成一个.EXE 可执行文件，执行.EXE 文件在完成配置的硬件设备上进行投放，用户仅需佩戴一副重约 $3 0 0 \\mathrm { g }$ 的眼镜即可观看3D场景。BIMVISION 插件界面如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/725295748f322e58be28151a25c093efeab727882077b5d8dc3e61f7d93bb24e.jpg",
+        "img_caption": [
+            "图7分时显示技术技术流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术;  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/27599f66b6d007863782df42f8e3b6bd93d7bc0ff6d124e4796caab2947a119c.jpg",
+        "img_caption": [
+            "图8基于BIM的分时显示技术BIMVISION控制插件"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分时显示技术解决了头显设备的效率低下问题以及间接引申出的单人成本高昂等行业痛点。在保证和 VR 相似的3D效果和高真实感画面的同时，类似于3D 电影式的展示方式保证了用户之间可以清晰明确的了解到当前讨论的焦点内容；只需佩戴一副轻便眼镜即可进行体验，几乎没有不熟悉感、沉重感。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3．工程应用验证",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在上海轨道交通运营指挥中心项目，使用基于 BIM 的建筑VR 交互技术在九层指挥中心、一层大堂与地下一层机房进行了可视化展示、设计方案必选、沉浸式净高体验等应用。在项目现场设计师运用基于BIM 的建筑VR 交互系统对该工程的主要路线进行仿真模拟，通过基于物理的动态真实渲染技术模拟了三个空间的真实环境气氛，使业主对于装修的整体氛围有了直观的认识。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在讨论会现场，利用沉浸式仿真交互技术设计方直接利用系统随意切换视角的特点，直接对设计方案中的细节进行漫游，并将对各场景整合进一个系统中，规避了单张效果图视角局部的短板。并使用交互系统针对项目一楼大堂的扶手木饰面、休息座椅、前厅地毯等构件进行材质方案替换，同时利用数模联动对材质信息进行展示如图9。把方案讨论会的次数大大缩减，避免了施工样板房中大范围的设计整改，提高了整个工程进度。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/86f6432df08ceb0d6129c3a92543bdd314c96b91538f437e5b77ccfa7655e9ae.jpg",
+        "img_caption": [
+            "图9基于BIM的建筑VR交互系统多材质替换"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术;  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在上海轨道交通运营指挥中心项目VR交互平台计算机机房的环境中，不仅模拟了计算机房的竣工后的真实环境效果，而且通过VR头戴式硬件设备对机房的净高有着直观的体验。再加上针对天花背后机电管线桥架的实时调整，使机电管线对于净高的影响降到了最低如图10。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c19d5cc66d55c3a2543a9f6505b99ee9517142dc28c62570efc902d1a33250d7.jpg",
+        "img_caption": [
+            "图10基于BIM的建筑VR交互系统机房空间管线净高模拟"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在上海轨道交通运营指挥中心项目的指挥大厅环境中，采用了分时显示技术将指挥大厅竣工后的场景通过主动式3D技术进行展示。如图11，相比头戴式眼镜展示方式，分时显示技术更自由、更轻便、观看人数更多，实现VR汇报的展示方式，提升汇报时的模型沉浸感、代入感。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/45a7f5904a904fd906e35c8e33d1ed7b4c1fb9cce4d772ca3059872ea75fa89d.jpg",
+        "img_caption": [
+            "图11基于BIM的分时显示技术项目展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究针对建筑行业的特点，研究了基于BIM的虚拟现实交互技术并开发形成针对项目的基于BIM的 VR 交互系统，系统功能模块包括自主漫游、材质替换、构件替换等一系列VR应用点。通过应用时间总结得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术；  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）针对建筑行业的特点，走通 BIM模型经过数模分离与虚拟现实引擎对接。并通过读取外挂数据库实现基于VR的信息可视化。（2）应用以光学物理定律来控制渲染效果，使建筑场景更加真实，增加设计师对于材质物理参数的认识。动态贴图技术大大提升了贴图的适用范围和项目效率。（3）沉浸式仿真交互技术，通过虚拟现实引擎Unity 的二次开发，根据甲方的需求，实现VR交互体验。增加系统的实用性、操作性，能够降低装饰深化设计的整改次数，提升其设计效率并且增加场景的互动性、沉浸性、真实性。（4）基于虚拟现实引擎开发了分时显示技术 BIMVISION 控制插件，用户只需佩戴一副轻便眼镜即可进行体验，使VR 的展示方式多人化、轻便化、自由化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]赵沁平.虚拟现实综述[J].中国科学（F辑:信息科学）,2009,39(01):2-46.  \n[2]王珺．BIM理念及BIM 软件在建设项目中的应用研究[D].西南交通大学,2011.  \n[3]赵彬．面向真实感三维建模的纹理贴图技术研究[D].北京大学,2008.  \n[4]Alexandre Bagard. The Comprehensive PBR Guide Vol.2[J/0L].https://ww.allegorithmic.com/system/files/software/download/build/PBR_volume_02_rev05.pdf,2016-08-02  \n[5］郑维欣,贾金原.基于 PBR 的轻量级 WebGL 实时真实感渲染算法[J].系统仿真学报,2017,29(11)  \n[6] Doan Van Chinh,Bui Thi Kien Trinh.虚拟现实技术在测绘中的应用[J].湖南农机,2011,38(01)邵正达（1991-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术；  \n宋天任（1993-），男，学士。主要研究方向：基于BIM的建筑虚拟现实技术。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "type": "text",
+        "text": "亚洲地区自然指数分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以中国、印度、日本、韩国和新加坡为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林琳1 张国友2.3 何书金2.3",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/55238f593397132cd2c17003d8210644465bd8cf0b17213c4e87aefbc50a87b0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院人才项目办公室北京100864  \n2 中国地理学会 北京 100101  \n3 中国科学院地理科学与资源研究所北京100101",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要以亚洲地区的中国、印度、日本、韩国和新加坡5国为例，通过分析2016年5月—2017年4月自然指数（Nature Index）的文章计量数、分数式计量数和加权分数式计量数等数据，对比研究其所体现的科研创新能力、优势学科、科研效率和国际合作程度及合作国等。研究表明，中国高水平科研论文产出量明显高于其他亚洲国家，但科研效率相对较低，学科发展水平不均衡，与日本、澳大利亚之间彼此互为主要国际合作国。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词自然指数，文章计量数，分数式计量数，加权分数式计量数，科研论文产出 DOI 10.16418/j.issn.1000-3045.2017.12.012 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《自然》（Nature）出版集团通过遴选并统计68种经由同行评议产生出的、具有学科代表性的顶级学术期刊，于2014年底推出全球优质研究综合指标——自然指数（NatureIndex，NI）[作为一项新的评价指标。与其早前提出的自然出版指数的最大不同在于，NI监测和跟踪的期刊范围并不局限于Nature出版集团的出版物，NI追踪了约6万篇优质科研论文的作者单位信息，涵盖全球2万多家科研机构和高校等，一经推出便引起国内媒体与学者的广泛关注[2-7]。本文基于NI统计数据8，分析亚洲地区中国、印度、日本、韩国和新加坡5国在科研产出方面表现出的创新趋势、创新能力、优势学科和合作潜力等，希望为我国科研创新工作提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1自然指数简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自然指数（NI）是Nature出版集团在专家推荐的基础上，由独立专家组负责，遴选出各学科顶级的国际学术期刊共68种[1作为统计源期刊，并统计其最终发表的研究论文。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然这68种期刊还不到《期刊引证报告》（JournalCitationReports，JCR）所收录期刊数的 $1 \\%$ ，但贡献了JCR将近 $30 \\%$ 的被引用次数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nature 出版集团通过文章计量数（ArticleCount,AC）、分数式计量数（FractionalCount，FC）和加权分数式计量数（WeightedFractionalCount，WFC）3种方式进行数据统计分析，以12个月为统计时长，定期更新。AC 计量中，不论一篇文章有一位还是多位作者，每位作者所在单位都获得1个AC分值。FC考虑的是每位论文作者的相对贡献。一篇文章的FC总分值为1，在假定每位作者贡献相等的情况下，该分值由所有作者平等共享。例如，一篇论文有10位作者，则每位作者的FC得分为0.1。如果作者有多个工作单位，则该作者的FC分值将在这些单位中再进行平均分配。WFC根据具体情况对FC计量进行改进，以调整占比过多的天文学和天体物理学论文一—这2个学科有4种期刊入选NI，而其发表的论文量约占该领域国际期刊论文发表量的 $50 \\%$ ，大致相当于其他学科的5倍。因此，WFC方式下将这4种期刊发表的论文的权重记为其他论文的1/5。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2亚洲主要国家自然指数分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过分析亚洲地区中国、印度、日本、韩国和新加坡5国的AC、FC和WFC指标，从一个新颖视角观察不同国家的高水平科研论文产出能力、优势学科、国际合作程度及科研效率，对科研及其管理具有一定参考价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1中国科研论文产出位居亚洲地区之首",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据NI对亚洲地区主要国家2017年68种期刊来源论文数量(2016年全年)的统计，中国科研论文产出远高于日本、韩国、印度和新加坡等国，占比超过 $50 \\%$ ，为亚洲排名最高的国家；日本科研论文产出低于中国，但远高于韩国、印度和新加坡等国；韩国科研论文产出量略高于印度；新加坡科研论文产出较低，约为中国的 $7 . 3 \\%$ （图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2中国科研效率有待提高",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "李国杰认为不应过分看重科研产出的数量，而应关注产出的质量和实际影响，没有创新就没有高价值的产出。Leydesdorf和Wagner[10]通过分析欧洲及其他地区主要工业国家相关状况，认为科研投入与科研产出具有正相关性。因此，通过分析国家人均高水平科研论文产出量可以大体判断该国科研创新效率。综合对比亚洲主要国家科研论文产出量和科研人员数量（图2），可以发现新加坡的科研效率最高，2016年每千名科研人员的科研论文产出量WFC统计近11；日本和中国科研效率接近，每千名科研人员的科研论文产出量约为4；印度和韩国的科研效率相对偏低，每千名科研人员的科研论文产出量约为3。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1e5b5d5bc40e167d311bbd358d71edfe24434f92ca05278293b61ab753a932c.jpg",
+        "img_caption": [
+            "图1亚洲主要国家高水平科研论文产出量统计（2016年5月一2017年4月）[8]"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c27c8e4c359da14499bc2f8c7d799497efc623213cc72491fa28395006d369e.jpg",
+        "img_caption": [
+            "图2　亚洲主要国家科研效率对比（2016年5月—2017年4月）[8.11]"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3亚洲各国学科发展有共性亦有差异",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过分析亚洲地区中国、印度、日本、韩国和新加坡5国物理、化学、地球科学和生命科学等高水平科研论文产出量（表1），可以了解各国的优势学科和学科发展均衡程度，从而支撑我国“知己知彼”，与相关国家“精准合作”。2016年，亚洲地区主要国家各学科科研论文WFC统计（图3）表明：（1）亚洲主要国家在物理和化学领域的科研论文产出高于全球平均水平，而地球科学和生命科学科研论文产出则略低于全球平均水平，表明亚洲主要国家普遍对物理和化学领域较为重视；（2）物理学领域，韩国科研论文产出占比最高，其次为印度和日本，均超过 $40 \\%$ ，中国在该领域的科研论文产出略低于世界平均水平；（3）化学领域，中国和印度占比分别超过 $50 \\%$ ，高于其他国家,且中国超出世界平均水平近一倍，优势明显；（4）地球科学领域，韩国和新加坡高水平科研论文产出占比最低，中国和印度科研论文产出占比相似，但低于日本和全球平均水平；（5）生命科学领域，印度、中国、韩国和新加坡科研论文产出占比低，均不足 $20 \\%$ ，远低于全球平均水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7604c65785215921822338e60873f067362881aec554f27c67b1a9877e59fda5.jpg",
+        "table_caption": [
+            "表1亚洲主要国家主要学科科研论文产出量(2016年5月-2017年4月；单位：篇）[8]"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">学科</td><td rowspan=\"2\">中国</td><td rowspan=\"2\">日本</td><td rowspan=\"2\">韩国</td><td rowspan=\"2\">印度</td><td rowspan=\"2\">新加坡</td><td colspan=\"2\">全球</td></tr><tr><td>总值</td><td>平均值</td></tr><tr><td>化学</td><td>4182.3</td><td>1116.2</td><td>542.3</td><td>407.8</td><td>232.0</td><td>17 130.3</td><td>186.2</td></tr><tr><td>地球科学</td><td>304.5</td><td>113.5</td><td>16.9</td><td>30.3</td><td>10.1</td><td>3369.1</td><td>28.8</td></tr><tr><td>生命科学</td><td>852.5</td><td>581.4</td><td>141.2</td><td>81.2</td><td>79.6</td><td>13876.9</td><td>94.4</td></tr><tr><td>物理学</td><td>2551.7</td><td>1151.4</td><td>560.8</td><td>435.8</td><td>150.7</td><td>22553.3</td><td>191.1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与全球整体科研论文相比，日本各学科科研论文权重与全球水平相似，各学科发展水平较为均衡；中国的化学科研论文产出远高于全球平均水平，物理学处于全球平均水平，地球科学和生命科学低于全球平均，学科发展水平不甚均衡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4亚洲各国国际合作程度差异化明显",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对比分析AC和FC值，可以了解一个国家的科研合作方式，即AC远大于FC时，以外部合作为主，反之则以内部合作为主。进行AC/FC比值分析（图4，表2），发现4方面特征：（1）中国在物理和化学领域的国外合作者的该值分别为1.73和1.23，低于亚洲其他主要国家和全球平均水平，可见我国物理和化学领域的合作以国内合作为主。我国地球科学领域国际合作状况接近全球平均水平，生命科学领域则超过全球平均水平。（2）日本所有学科的国外合作者均小于2，以国内合作为主，趋势与全球相同但远低于全球平均水平，这从侧面反映出其具备很强的独立创新能力。（3）韩国和印度在物理和化学领域以国内合作为主；生命科学领域略超过全球平均水平，以国际合作为主；韩国地球科学国际合作强于印度。（4）新加坡各学科间国际合作程度差异性明显，物理学科以国内合作为主；而地球科学和生命科学的国外合作者均接近3，远高于全球平均水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e98c384e81a72ad6ad990a0b9688baf9dee717cec6a4b7348c29ba2d5898f15.jpg",
+        "img_caption": [
+            "图3亚洲主要国家各学科科研论文WFC值学科分布对比（2016年5月—2017年4月）[8]"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过统计分析亚洲主要国家WFC值排名前10的合作国（地区）（表3）可以发现：（1）从亚洲主要国家的欧美合作国来看，美国为亚洲主要国家的第一大合作国；英国为中国和韩国的第二大合作国并且为印度和新加坡的第三大合作国；德国为中国、日本和韩国的第三大合作国。（2）从亚洲主要国家的非欧美合作国来看，日本为亚洲其他主要国家的主要合作国，但均列于欧美合作国之后；中国为除印度之外其他主要国家的主要合作国；韩国为日本和新加坡排名前10合作国。（3）中国为日本和新加坡的第二大合作国，但日本和新加坡为中国的第4和第5位合作国。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5d69f75dc23c9933234df86a2d2040d5d2cc7e9978395afd43c5b214e8554eb.jpg",
+        "img_caption": [
+            "图4亚洲主要国家各学科AC/FC值学科分布对比（2016年5月一2017年4月）[8]"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/424999df336156c795e692f6690519b2fca57d92c4d3119d8e8f36ac6ef0a97f.jpg",
+        "table_caption": [
+            "表2 亚洲主要国家各学科AC/FC值情况 (2016年5月－2017年4月)8]"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>学科</td><td>中国</td><td>日本</td><td>韩国</td><td>印度</td><td>新加坡</td><td>全球平均值</td></tr><tr><td>化学</td><td>1.23</td><td>1.29</td><td>1.34</td><td>1.21</td><td>1.58</td><td>1.42</td></tr><tr><td>地球科学</td><td>1.73</td><td>1.69</td><td>2.36</td><td>1.68</td><td>2.78</td><td>2.01</td></tr><tr><td>生命科学</td><td>1.87</td><td>1.66</td><td>2.10</td><td>1.87</td><td>2.74</td><td>1.87</td></tr><tr><td>物理学</td><td>1.73</td><td>1.86</td><td>1.97</td><td>1.93</td><td>1.93</td><td>2.44</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3对我国科研创新工作的启示",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分析亚洲其他国家的科研效率、学科发展均衡度与国际合作等特征，对进一步提升我国科技创新能力具有重要启示意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1科研创新产出成果初显，仍需逐步提高科研效率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国高水平科研论文产出已初具规模，位居亚洲之首，但科技工作者的人均科研论文产出成果与新加坡等发达国家仍有较大差距。因此，中国若要保持领先地位，尚需进一步提高人均科研成果产出。创新是引领发展的第一动力，提升科研创新能力需要我们解放思想、了解学术动态、勤于总结等，并且顺应世界科技发展趋势，合作共享、互利共赢，通过国际合作加强思想碰撞，为提高科研创新产出开拓有效途径。科学史上诸多新成果的出现，通常发生在学科的边缘或交叉点上，学科间交叉、联合研究可使科学技术本身向着更深层次和更高水平发展，有利于科研创新成果产出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2针对性（精准）加强学科发展及国际合作",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我国各学科的高水平科研论文产出比例与日本、全球平均水平相比表现出较大的偏离，因此需要在巩固优势学科的同时，关注和加强弱势学科扶持力度，以促进各学科全面、均衡发展，保障学科间联合研究、协同创新，共同提升科研成果的产出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "国家的强盛，归根结底必须依靠人才。我国要走创新发展之路，必须高度重视创新人才的聚集。国际合作交流与研究是促进知识与人才流动的重要途径。我们可以通过加强不同层次国际人才，包括留学生、博士后、高级访问学者和国外顶级科学家的科研资助与人才引进等途径，吸引他们来华工作；另一方面鼓励中国青年科研工作者走出国门与科技强国开展合作研究及学术交流，开拓视野，提升科研创新能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "科学技术是世界性的、时代性的，发展科学技术必须具有全球视野、把握时代脉搏。科研创新成为国家战略，但创新能力提升并非朝夕之事，需要广大科技工作者持续不懈的努力。在国际高水平科技期刊上发表论文，是基础研究成果的主要表现形式。这些论文发表后能否得到同行认可、是否解决了重要科学问题，还有待时间的检验。单纯从论文发表数量的角度来评价科研创新能力只是一个方面，而从论文引用率来评价科研创新能力则是另一个方面。归根到底，科研创新能力要体现在解决关键科学问题上，而这一点不是简单地通过文献计量学能够解决的。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd6a62d40ea26629019ecdff111b29eb7e7714ffb43889366b37592d9608e547.jpg",
+        "table_caption": [
+            "表3亚洲主要国家排名前10合作国或地区及对应WFC值（2016年5月－2017年4月）[8]"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">序号</td><td colspan=\"2\">中国</td><td colspan=\"2\">日本</td><td colspan=\"2\">韩国</td><td colspan=\"2\">印度</td><td colspan=\"2\">新加坡</td></tr><tr><td>合作国或地区</td><td>WFC</td><td>合作国</td><td>WFC</td><td>合作国</td><td>WFC</td><td>合作国</td><td>WFC</td><td>合作国</td><td>WFC</td></tr><tr><td>1</td><td>美国</td><td>2 032.5</td><td>美国</td><td>837.5</td><td>美国</td><td>491.2</td><td>美国</td><td>193.4</td><td>美国</td><td>192.8</td></tr><tr><td>2</td><td>英国</td><td>279.7</td><td>中国</td><td>244.8</td><td>英国</td><td>260.1</td><td>德国</td><td>90.7</td><td>中国</td><td>161.6</td></tr><tr><td>3</td><td>德国</td><td>270.2</td><td>德国</td><td>219.1</td><td>德国</td><td>145.1</td><td>英国</td><td>51.1</td><td>英国</td><td>57.3</td></tr><tr><td>4</td><td>日本</td><td>244.8</td><td>英国</td><td>193.9</td><td>中国</td><td>127.0</td><td>法国</td><td>40.9</td><td>法国</td><td>29.0</td></tr><tr><td>5</td><td>新加坡</td><td>161.6</td><td>韩国</td><td>193.9</td><td>法国</td><td>86.5</td><td>日本</td><td>35.1</td><td>德国</td><td>28.2</td></tr><tr><td>6</td><td>澳大利亚</td><td>127.0</td><td>法国</td><td>109.8</td><td>加拿大</td><td>63.7</td><td>意大利</td><td>23.5</td><td>日本</td><td>27.9</td></tr><tr><td>7</td><td>加拿大</td><td>126.8</td><td>加拿大</td><td>81.1</td><td>日本</td><td>62.2</td><td>西班牙</td><td>22.4</td><td>澳大利亚</td><td>27.2</td></tr><tr><td>8</td><td>法国</td><td>125.6</td><td>意大利</td><td>69.8</td><td>荷兰</td><td>47.2</td><td>瑞士</td><td>19.9</td><td>韩国</td><td>26.5</td></tr><tr><td>9</td><td>中国台湾</td><td>63.1</td><td>澳大利亚</td><td>62.2</td><td>意大利</td><td>42.8</td><td>澳大利亚</td><td>18.0</td><td>瑞士</td><td>17.7</td></tr><tr><td>10</td><td>瑞典</td><td>55.2</td><td>瑞士</td><td>60.8</td><td>西班牙</td><td>34.9</td><td>瑞典</td><td>14.0</td><td>加拿大</td><td>16.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1Nature.Nature Index tables.Nature,2014,515(7526): S98-S108.  \n2《自然》出版集团．2014自然指数揭示中国十大科研领先城市.[2014-12-18].http://news.sciencenet.cn/htmlnews/2014/12/309561.shtm.  \n3唐自华.优质研究综合指标:NatureIndex.[2014-11-15].http://blog.sciencenet.cn/blog-98680-843559.html.  \n4 魏博．自然指数：中国是亚太地区科研产出增长率最高的国家.[2014-11-14].http://news.china.com.cn/2014-11/14/content_34045792.htm.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5刘伟．自然发表指数(Nature publishingIndex):中国科学院亚",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "洲排名第一.[2013-01-16].http://blog.sciencenet.cn/forum.php/ blog-858740-653764.html.   \n6Song JL.CAS in the Lens ofNature Index:A leading contributor to high quality science.Bulletin of the Chinese Academy of Sciences,2015,29(1):26-28.   \n7 林琳,何书金，朱晓华,等.Nature Index对科技创新评价的意义 与思考.中国科技期刊研究,2015,26(2):191-197.   \n8 Nature Index.Country outputs (1 May 2016 - 30 April 2017). [2017-08-18]. http://www.natureindex.com/country-outputs.   \n9 李国杰．以“产出”影响为导向提高科研效率.科技日报, 2003 -06-12.   \n10 Leydesdorff L,Wagner C.Macro-level indicators of the relations between research funding and research output.Journal of Informetrics,2009,3(4):353-362.   \n11 UNESCO.Reserchers themes.[2017-08-18].http://data.uis. unesco.org/. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Analysis on Nature Index in Asia Region: Examples of China, India, Japan, South Korea, and Singapore ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lin Lin' Zhang Guoyou2.3 He Shujin2.3 (1Talent Project Office,Chinese Academy of Sciences,Beijing 1Oo864, China; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 The Geographical Society of China, Beijing 1Oo101,China; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Institute ofGeographic Sciencesand Natural Resources Research,Chinese Academyof Sciences,Beijing l0ol01,China） AbstractInteayofanalyngthearticleountfractioalount,ndweightedfractioalcoutfrothenatureidex,takingteeaple ofChinaIaouthegareeitygibctscfai andtheinteatioalclaboraon,dicatigtatCiaasuchbeteriualityseachtanteotrAsiaacifcousut haarelativelyowersechcientadoutbalaesubectevelopnt.Ca,apandustraliaaetiouterolbg countries with each other. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Keywordsnature publishing index,articlecount,fractional count,weightedfractional count, high-qualityresearch 林 琳中科院人才项目办公室业务主管，主要从事中科院人才项目相关工作。E-mail:linlin@cashq.ac.cn LinLinTheoficeroftheTalentProject Offce,Chinese AcademyofSciences (CAS).Seis mainlyworkingonthemanagementf te talent project of CAS and the drafting of comprehensive document. E-mail: linlin@cashq.ac.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

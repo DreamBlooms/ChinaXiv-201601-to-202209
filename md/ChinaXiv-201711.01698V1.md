@@ -1,0 +1,232 @@
+葡萄原花青素对感染柔嫩艾美尔球虫肉仔鸡生长性能和免疫功能的影响  
+杨金玉1,2张海军1\*王晶 $^ 1$ 岳洪源」武书庚」齐广海」官堃²Gert-Jan GERRITS²  
+（1.中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081；2.天津帝凯维动物营养有限公司，天津 300457)
+
+摘要：本试验旨在研究饲粮中添加葡萄原花青素（GPC）对感染柔嫩艾美尔球虫肉仔鸡生长性能和免疫功能的影响。选用350只1日龄科宝-500（Cobb-500）健康肉仔鸡（公雏)，随机分为5个组，每组7个重复，每个重复10只鸡。空白对照组和负对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮基础上添加7.5、15.0 和 $3 0 . 0 \ \mathrm { m g / k g }$ GPC 的试验饲粮。14日龄时，负对照组和 3个试验组每只肉仔鸡经口腔攻毒 $5 { \times } 1 0 ^ { 4 }$ 个柔嫩艾美尔球虫卵囊，空白对照组每只肉仔鸡灌服同体积的生理盐水。试验期 $4 2 { \mathrm { ~ d ~ } }$ ，分为前期(1\~21日龄)和后期(22\~42 日龄)2个阶段。结果表明：1)与空白对照组相比，负对照组肉仔鸡试验各阶段的平均日增重（ADG）均显著降低(P<0.05),22\~42 和 1\~42 日龄时的料重比(F/G)显著增加 $( P { < } 0 . 0 5 )$ ；饲粮中添加7.5 和 $1 5 . 0 \mathrm { m g / k g }$ GPC 显著改善了柔嫩艾美尔球虫攻毒引起的 22\~42和1\~42日龄时 ADG 的降低和F/G 的增加$( P { < } 0 . 0 5 )$ ;而饲粮中添加 $3 0 . 0 \mathrm { m g / k g }$ GPC显著降低了22\~42日龄时的ADG、平均日采食量(ADFI)和1\~42 日龄时的 $\mathrm { A D G } ( P { \ < } 0 . 0 5 ) _ { \circ }$ 2）与负对照组相比，饲粮中添加GPC 显著降低了肉仔鸡的盲肠病变评分、血便堆数和球虫卵囊排出数 $( P { < } 0 . 0 5 )$ 。3）饲粮中添加 GPC 显著抑制了柔嫩艾美尔球虫攻毒引起的肉仔鸡脾脏指数增加 $( P { < } 0 . 0 5 )$ ；柔嫩艾美尔球虫攻毒引起T 淋巴细胞转化率显著增加 $( P { < } 0 . 0 5 )$ ，饲粮中添加7.5 和 $1 5 . 0 \mathrm { m g / k g }$ GPC 使T淋巴细胞转化率进一步增加 $( P { > } 0 . 0 5 )$ 饲粮中添加7.5 和 $1 5 . 0 ~ \mathrm { m g / k g }$ GPC 可使B淋巴细胞转化率增加 $( P { > } 0 . 0 5 )$ ；柔嫩艾美尔球虫攻毒引起外周血 $\gamma \delta \mathrm { T }$ 细胞比例显著增加 $( P { < } 0 . 0 5 )$ ，饲粮中添加15.0 mg/kg GPC 使外周血 $\gamma \delta \mathrm { T }$ 细胞比例进一步增加 $( P { > } 0 . 0 5 )$ 。4）与空白对照组相比，柔嫩艾美尔球虫攻毒显著增加了回肠上皮内淋巴细胞（IEL）数量和盲肠黏膜分泌型免疫球蛋白A（sIgA）水平 $( P { < } 0 . 0 5 )$ ，饲粮中添加7.5 和$1 5 . 0 \ \mathrm { m g / k g }$ GPC 使 IEL 数量和 sIgA水平进一步增加 $( P { < } 0 . 0 5 )$ 。综上所述，饲粮中添加GPC 可提高感染柔嫩艾美尔球虫肉仔鸡的免疫功能，缓解柔嫩艾美尔球虫感染造成的生长抑制，其中7.5 和15.0 mg/kg GPC 的抗球虫效果较好。
+
+关键词：葡萄原花青素；肉仔鸡；柔嫩艾美尔球虫；生长性能；免疫功能中图分类号：S816.7 文献标识码： 文章编号：
+
+球虫是寄生在家禽肠道细胞的原虫。球虫病已经成为治疗费用昂贵的疾病之一，全世界每年因球虫病造成的经济损失高达20亿英镑[I,我国每年用于球虫病防治的费用高达6\~18亿元[2]。目前，球虫的防治仍主要依赖于抗球虫药，但是近50年密集持续的药物使用已经使球虫产生了严重的耐药性[3]。因此，寻找安全可靠的抗球虫药替代物已经迫在眉睫。
+
+葡萄原花青素（grape procyanidins，GPC）是一种天然存在的植物多酚，也是葡萄副产品中的主要活性物质。大量研究表明，GPC 具有良好的抗氧化活性[4]，可有效抑制由盐酸阿霉素（DXR）造成的大鼠心肌氧化损伤[5]，显著削弱对乙酰氨基酚诱导的小鼠肝中毒和肝细胞 DNA损伤[6]，缓解二甲基亚硝胺(DMNA)诱导的小鼠脾细胞毒性[7]。研究也显示，球虫入侵家禽肠道后会引起严重的氧化应激[8]，而GPC可通过激活机体抗氧化酶系统抑制氧化应激，进而抵抗球虫损伤[9]。
+
+研究表明，GPC 在提高机体免疫功能方面也具有良好的作用[1]。Gessner 等[]发现饲粮中添加葡萄籽提取物和葡萄渣提取物可显著抑制仔猪十二指肠核转录因子kappaB 的活性，降低仔猪肠炎发生率；Hogan 等[12]研究发现葡萄渣提取物(富含 GPC)可以明显降低高脂饲粮诱导的肥胖性炎症大鼠血浆C-反应蛋白的浓度；Magrone 等[13]发现葡萄酒多酚可促进白细胞介素-12（IL-12）、干扰素-γ（IFN-γ）、白细胞介素-10（IL-10）及免疫球蛋白的分泌释放，缓解免疫紊乱；还可促进一氧化氮释放，保护感染组织。GPC的免疫调节功能是否有助于家禽对抗球虫感染目前尚不十分清楚。
+
+球虫主要损伤家禽肠道，而肠道是家禽重要的消化吸收和免疫器官，因此球虫感染势必会引起生长抑制和免疫紊乱。Mcdougald等[14]研究发现，家禽饲粮中添加 $2 \%$ 圆叶葡萄渣(MP)，可显著降低球虫引起的肠道损伤评分；Wang 等[也发现GPC可以缓解球虫引起的肉鸡生长抑制，但其机制尚不明确。本课题组的前期研究表明，体外条件下，GPC可以促进淋巴细胞的增殖活化[15]；以小麦-豆粕型饲粮为基础饲粮时，GPC 可提高肉仔鸡的免疫功能[16]，推测GPC 可能通过提高免疫功能来抵抗球虫感染。此外，本课题组研究也表明，盲肠窦分泌型免疫球蛋白 A(sIgA）和上皮内淋巴细胞(IEL)在家禽机体抵抗球虫过程中发挥着重要作用[7]，但GPC 是否可通过激活肠道免疫抵抗球虫，目前还知之甚少。
+
+本试验旨在探究GPC 对感染柔嫩艾美尔球虫肉仔鸡生长性能、肠道损伤程度、免疫器官指数、淋巴细胞增殖活化、盲肠黏膜 sIgA水平和回肠 IEL 增殖的影响，初步揭示GPC 抗球虫感染的相关机理，为其在肉仔鸡生产中的应用提供依据。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+GPC由天津市尖峰天然产物研究开发有限公司提供，原花青素含量 $9 9 . 4 7 \%$ ，其中含寡聚原花青素 $( \mathrm { O P C } ) 6 5 . 1 9 \%$ ，原花青素单体 $9 . 8 8 \%$ ，多聚原花青素 $24 . 9 3 \%$ 。
+
+# 1.2 试验设计与试验饲粮
+
+试验选用350 只1日龄科宝-500(Cobb-500)健康肉仔鸡公雏，随机分为5个组，每组7个重复，每个重复10只鸡。空白对照组和负对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮基础上添加7.5、15.0 和 $3 0 . 0 ~ \mathrm { m g / k g }$ GPC 的试验饲粮。14日龄时，负对照组和3个试验组每只肉仔鸡经口腔攻毒 $5 { \times } 1 0 ^ { 4 }$ 个柔嫩艾美尔球虫卵囊，空白对照组每只肉仔鸡灌服同体积的生理盐水。试验期 $4 2 \mathrm { d }$ ，分为前期(1\~21日龄)和后期(22\~42 日龄)2个阶段。
+
+在参照NRC(1994)和 NY/T 33-2004 的基础上，配制小麦-豆粕型基础饲粮，基础饲粮组成及营养水平见表1。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table 1Composition and nutrient levels of basal diets (air-dry basis) %
+
+项目Items
+
+含量Content
+
+1\~21 日龄 1 to 21 days of age 22\~42 日龄 22 to 42 days of
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>小麦Wheat</td><td>63.573</td><td>71.457</td></tr><tr><td>豆粕 Soybean meal</td><td>29.483</td><td>21.349</td></tr><tr><td>大豆油 Soybean oil</td><td>2.831</td><td>3.410</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.210</td><td>0.660</td></tr><tr><td>碳酸氢钙CaHCO3</td><td>1.471</td><td>1.564</td></tr><tr><td>食盐 NaCl</td><td>0.350</td><td>0.350</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.255</td><td>0.229</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.326</td><td>0.419</td></tr><tr><td>苏氨酸 Thr</td><td>0.116</td><td>0.177</td></tr><tr><td>维生素预混料 Vitamin premixl</td><td>0.020</td><td>0.020</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.200</td><td>0.200</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.100</td><td>0.100</td></tr><tr><td>植酸酶 Phytase</td><td>0.010</td><td>0.010</td></tr><tr><td>非淀粉多糖酶 NSP enzyme</td><td>0.050</td><td>0.050</td></tr><tr><td>载体 Carrier</td><td>0.005</td><td>0.005</td></tr><tr><td>合计 Total</td><td>100.000</td><td>100.000</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.34</td><td>12.55</td></tr><tr><td>粗蛋白质CP</td><td>21.00(21.13)</td><td>19.00(19.18</td></tr><tr><td>钙Ca</td><td>1.00(1.03)</td><td>0.90(0.88)</td></tr><tr><td>总磷TP</td><td>0.68(0.65)</td><td>0.62(0.60)</td></tr><tr><td>有效磷 AP</td><td>0.45</td><td>0.35</td></tr><tr><td>赖氨酸 Lys</td><td>1.10</td><td>1.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>蛋氨酸Met</td><td>0.50 0.38</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.95 0.75</td></tr><tr><td>苏氨酸 Thr</td><td>0.81 0.73</td></tr><tr><td>色氨酸Trp</td><td>0.25 0.23</td></tr></table></body></html>
+
+1 维生素预混料为每千克饲粮提供 Vitamin premix provided the following per $\mathbf { k g }$ of diets: VA12 500 IU， $\mathrm { V D } _ { 3 } 2 5 0 0 \mathrm { I U }$ ，VE 15 IU， $\mathrm { V K } _ { 3 } 2 . 6 5 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 } 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 2 5 \mathrm { m g }$ ，生物素biotin $0 . 3 5 \mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 2 \mathrm { m g }$ ，烟酸 niacin 50mg。
+
+2’矿物质预混料为每千克饲粮提供 Mineral premix provided the following per $\mathrm { k g }$ of diets: Cu $8 \ : \mathrm { m g }$ ， $\mathrm { Z n } 7 5 \mathrm { m g }$ ，Fe $8 0 ~ \mathrm { m g }$ ， $\mathrm { M n ~ 1 0 0 ~ m g }$ ，Se $0 . 1 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 3 5 \mathrm { ~ m g ~ }$ 。
+
+3）营养水平括号内为实测值，其余均为计算值。Nutrient levels in the parentheses were measured values,while the others were calculated values.
+
+# 1.3 饲养管理
+
+单层网上笼养，自然光照加人工补光，光照强度为 $3 0 \mathrm { l x }$ ，1\~7日龄每天光照 $2 4 \mathrm { h }$ ，8日龄后每天光照 $2 3 \mathrm { h }$ 、黑暗 $1 \mathrm { h }$ 。鸡舍温度第1周 $3 3 { \sim } 3 5 ~ ^ { \circ } \mathrm { C }$ ，之后每周下降 $2 ^ { \circ } \mathrm { C }$ ，至 $2 1 ^ { \circ } \mathrm { C }$ 不再下降。肉鸡自由采食和饮水，常规免疫。
+
+# 1.4 测定指标及方法
+
+# 1.4.1 生长性能
+
+试验前称雏鸡初始体重，分别于试验的第14、21、42天09:00之前，以重复为单位称空腹体重,记录试验鸡每天的耗料量,统计肉鸡1\~14、15\~21、22\~42日龄耗料量，计算平均日增重(ADG)、平均日采食量(ADFI)和料重比(F/G)。
+
+1.4.2血便堆数、盲肠病变评分和球虫卵囊排出于19日龄（攻毒后第5天）测定柔嫩艾美尔球虫感染肉仔鸡的血便堆数。
+
+于 21日龄（攻毒后第7天）时，每个重复随机选1只鸡，处死，按Johnson等[18]的方法测定盲肠病变评分，盲肠病变评分标准如下。
+
+0分：未见病变;
+
+1分：盲肠壁有极少量散在出血斑，肠壁不增厚，内容物正常;
+
+2分：盲肠内容物有极少量血液，肠壁增厚，可见多处出血斑；
+
+3分：盲肠内有多量血液或盲肠核，肠壁增厚，有明显的盲肠变形和萎缩；
+
+4\~5分：盲肠显著萎缩，病变达直肠部位，肠壁极度增厚，肠内有血凝块或盲肠核。
+
+若两侧盲肠病变不一致，则以病变重的一侧为准，进行病变评分。
+
+参照 Lillehoj[19]的方法测定球虫卵囊排出。于攻毒后第7\~10 天，采用全收粪法收集排泄物中的卵囊，用麦氏虫卵计数板(Mcmaster's chamber slide)计数卵囊，测定攻毒球虫 7\~10d 后每天每只鸡每克粪便的卵囊数(OPG)，以4d 的平均值进行统计。
+
+1.4.3免疫器官指数、淋巴细胞转化率和 $\gamma \delta \mathrm { T }$ 细胞比例于21日龄(攻毒后7d)测定免疫器官指数、淋巴细胞转化率和血液中γδT细胞比例。
+
+淋巴细胞转化试验参考 Mosmann[20]的方法并略作改动，虽然该方法不失经典但材料较陈旧，故略有修改，具体如下：翅静脉采血，肝素钠抗凝，立即将抗凝血用 D-Hanks 液作 1:1稀释，离心管中加入1mL 淋巴细胞分离液(购自军事医学科学院)，之后慢慢加入2倍体积的稀释血液，使之平铺于分离液上， $4 \mathrm { ~ \textdegree ~ } 1 8 0 0 \times g$ 离心 $3 0 \mathrm { m i n }$ ，可见液体分层，上层为血桨，中层为分离液，下层为红细胞和粒细胞。在上层和中层之间的界面上可见一薄层混浊带，即为淋巴细胞和单核细胞的混合物，取约 $1 \mathrm { m L }$ 的中间白细胞层，加入3\~5 倍体积的RPMI-1640 营养液(购自美国Gibco 公司)，洗涤3次，每次 $4 ^ { \circ } \mathrm { C } \ : \ : 2 5 0 0 \ : \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，弃上清。然后将细胞悬浮于RPMI-1640完全培养液，台盼蓝染色，计数活细胞数 $( > 9 5 \% )$ ，调整细胞浓度为 $1 \times 1 0 ^ { 7 }$ 个 $/ \mathrm { m L }$ 。将细胞植于96孔细胞培养板，每孔加入 $1 9 0 ~ \mu \mathrm { L }$ 的细胞悬液，随后分别加入 $1 0 ~ \mu \mathrm { L }$ 磷酸盐缓冲液（PBS）、刀豆蛋白（ConA）（美国 Sigma 公司，终浓度 $4 5 ~ { \mu \mathrm { g / m L } }$ 或脂多糖（LPS）（美国Sigma公司，终浓度 $2 5 \mu \mathrm { g / m L }$ ，PBS作为对照组，ConA组作为 $\mathrm { ~ T ~ }$ 淋巴细胞转化组，LPS 组作为B 淋巴细胞转化组。培养体系为 $2 0 0 ~ \mu \mathrm { L }$ ，将板置于 $5 \% \mathrm { C O } _ { 2 }$ ， $4 0 \ \mathrm { ~ \textdegree ~ }$ （ $\mathrm { C O } _ { 2 }$ 培养箱中，培养 $5 6 \mathrm { h }$ ，之后每孔轻轻吸弃上清 $1 0 0 ~ \mu \mathrm { L }$ ，加入 $1 0 0 ~ \mu \mathrm { L }$ 不含小牛血浆的 RPMI-1640 培养液，同时加入初浓度 5$\mathrm { m g / m L }$ 的3-(4,5-二甲基噻唑-2)-2.5-二苯基四氮唑溴盐(MTT）溶液(美国 Sigma 公司) $1 0 ~ \mu \mathrm { L }$ ，继续于培养箱中培养 $\boldsymbol { 4 } \mathrm { h }$ 。培养结束后，每孔加入 $1 0 0 ~ \mu \mathrm { L }$ 二甲基亚砜(DMSO）(美国 Sigma 公司)，待紫色结晶完全溶解后，酶联免疫检测仪 $5 7 0 \mathrm { n m }$ 波长下测定吸光度（OD）值。
+
+外周血淋巴细胞中 $\gamma \delta \mathrm { T }$ 细胞比例的测定参照张海军等[21]的方法进行。
+
+# 1.4.4回肠IEL数量和盲肠黏膜sIgA水平
+
+于 21日龄(攻毒后7d)测定回肠 IEL 数量和盲肠黏膜 sIgA水平，sIgA水平用覆盖有 sIgA的阳性面积与整个视野面积的比值来表示，方法参照高俊[17]的报道。
+
+# 1.5 数据分析
+
+数据经Excel2010初步处理，采用 SPSS16.0软件的单因素方差分析（one-way ANONA）程序进行统计分析，并采用Duncan 氏法进行多重比较，其中肠道损伤评分、血便堆数和卵囊排出数等非连续观察数据因不符合正态分布，采用非参数检验中的Kruskal-Wallis 方法进行分析，显著性标准设为 $P { < } 0 . 0 5$ ，结果以平均值 $\pm$ 标准差（mean±SD）表示。
+
+# 2结果与分析
+
+2.1GPC对柔嫩艾美尔球虫感染肉仔鸡生长性能的影响
+
+由表2 可知，饲粮中添加GPC 对1\~14 日龄肉仔鸡的生长性能指标无显著影响 $( P { > } 0 . 0 5 )$ 15\~21日龄时，与空白对照组相比，负对照组肉仔鸡的ADG 显著降低 $( P { < } 0 . 0 5 )$ ；而饲粮中GPC的添加缓解了球虫攻毒引起的ADG下降，其生长性能指标与空白对照相比无显著差异 $( P { > } 0 . 0 5 )$ 。22\~42 日龄时，与空白对照组相比，负对照组肉仔鸡的ADG 显著降低 $( P { < } 0 . 0 5 )$ ，F/G 显著增加$( P { < } 0 . 0 5 )$ ；而饲粮中7.5 和 $1 5 . 0 \ \mathrm { m g / k g }$ GPC 的添加显著改善了球虫攻毒引起的 ADG 的降低和F/G 的增加 $( P { < } 0 . 0 5 )$ ；与空白对照组相比，饲粮中 $3 0 . 0 ~ \mathrm { m g / k g }$ GPC 的添加显著降低了ADG 和ADFI $( P { < } 0 . 0 5 )$ 。1\~42日龄时，负对照组和 $3 0 . 0 \ : \mathrm { m g / k g \ G P }$ C 组肉仔鸡的 ADG 显著低于其他各组（204号 $( P { < } 0 . 0 5 )$ ，负对照组的F/G 显著高于其他各组 $( P { < } 0 . 0 5 )$ 。综上，球虫攻毒降低了肉仔鸡的生长性能，饲粮中7.5 和 $1 5 . 0 \mathrm { m g / k g }$ GPC 的添加缓解了球虫攻毒引起的生长抑制。
+
+表2GPC对柔嫩艾美尔球虫感染肉仔鸡生长性能的影响
+
+Table 2Effects of GPC on growth performance of broiler chicks challenged with Eimeiria tenalla 项目Items 空白对照组 负对照组 7.5 mg/kg GPC 15.0 mg/kg GPC 30.0 mg/kg GPC 料重比F/G （204号 $1 . 9 2 { \scriptstyle \pm 0 . 0 6 } ^ { \mathrm { b } }$ （204号 $2 . 0 6 { \pm } 0 . 0 7 ^ { \mathrm { a } }$ （204号 $1 . 8 4 { \pm } 0 . 0 7 ^ { \mathrm { b } }$ $1 . 8 8 { \pm } 0 . 1 0 ^ { \mathrm { b } }$ 1.93±0.06b
+
+<html><body><table><tr><td>Blank control</td><td></td><td>Negative control</td><td>组7.5 mg/kg</td><td>组15.0 mg/kg</td><td>组 30.0 mg/kg</td></tr><tr><td></td><td>group</td><td>group</td><td>GPC group</td><td>GPC group</td><td>GPC group</td></tr><tr><td>1~14日龄 1 to 14 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>32.23±4.10</td><td>32.11±4.11</td><td>34.26±3.54</td><td>32.71±4.44</td><td>33.04±2.95</td></tr><tr><td>ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>43.44±2.52</td><td>42.41±2.34</td><td>43.39±2.26</td><td>42.02±2.29</td><td>44.54±2.35</td></tr><tr><td>ADFI/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>1.35±0.15</td><td>1.32±0.10</td><td>1.27±0.09</td><td>1.28±0.08</td><td>1.35±0.14</td></tr><tr><td>15~21日龄 15 to 21 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>42.79±5.43a</td><td>36.23±4.64b</td><td>40.94±4.23ab</td><td>39.08±5.31ab</td><td>39.48±3.53ab</td></tr><tr><td>ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADFI/g</td><td>69.49±4.76</td><td>63.02±5.25</td><td>68.61±8.09</td><td>66.55±9.57</td><td>67.85±5.34</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>1.64±0.15</td><td>1.75±0.11</td><td>1.68±0.10</td><td>1.70±0.09</td><td>1.72±0.08</td></tr><tr><td>22~42日龄 22 to 42 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/g</td><td>81.58±2.16a</td><td>72.17±3.51b</td><td>77.47±1.85a</td><td>78.86±2.13a</td><td>72.98±4.60b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADFI/g</td><td>159.10±10.33a</td><td>153.90±9.54ab</td><td>143.91±11.99ab</td><td>149.78±21.03ab</td><td>140.55±14.23b</td></tr><tr><td>料重比F/G</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.04±0.09b</td><td>2.26±0.10a</td><td>1.96±0.11b</td><td>1.96±0.15b</td><td>2.05±0.10b</td></tr><tr><td>1~42日龄 1 to 42 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>58.05±1.08a</td><td>52.23±1.76b</td><td>56.14±0.92a</td><td>56.18±1.06a</td><td>53.38±2.30b</td></tr><tr><td>ADG/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>105.61±2.88</td><td>101.59±1.59</td><td>97.85±2.91</td><td>99.98±6.28</td><td>96.43±1.72</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADFI/g</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著( $P$ $< 0 . 0 5 )$ 。下表同。
+
+In the same row, values with no letter or the same lettr superscripts mean no significant difference ( $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ),while with different small letter superscripts mean significant difference ( $P <$ 0.05). The same as below.
+
+2.2GPC 对柔嫩艾美尔球虫感染肉仔鸡盲肠病变评分、血便堆数和球虫卵囊排出数的影响由表3可知，与负对照组相比，饲粮中添加GPC 显著降低了肉仔鸡的盲肠病变评分、血便堆数和球虫卵囊排出数 $( P { < } 0 . 0 5 )$ ，其中7.5、15.0 和 $3 0 . 0 \mathrm { m g / k g }$ GPC 组的卵囊排出数分别降低了$6 6 . 9 \%$ 、 $8 0 . 8 \%$ 和 $4 5 . 4 \%$ ，以 $1 5 . 0 \mathrm { m g / k g }$ GPC 组的抗球虫效果最佳。
+
+表3GPC 对柔嫩艾美尔球虫感染肉仔鸡盲肠病变评分、血便堆数和球虫卵囊排出的影响
+
+Table 3 Effects of GPC on cecal lesion score,bloody stool piles and number of coccidial oocysts excretion of broiler chicks challenged with Eimeiria tenalla
+
+<html><body><table><tr><td></td><td>负对照组性</td><td>7.5 mg/kg GPC组</td><td>15.0 mg/kg GPC组</td><td>30.0 mg/kg GPC组</td></tr><tr><td>项目Items</td><td>Negative control</td><td>7.5 mg/kg GPC</td><td>15.0 mg/kg GPC</td><td>30.0 mg/kg GPC</td></tr><tr><td>盲肠病变评分 Cecal</td><td>group</td><td>group</td><td>group</td><td>group</td></tr><tr><td>lesion score</td><td>3.07±0.31a</td><td>1.13±0.21c</td><td>1.20±0.11c</td><td>2.22±0.40b</td></tr><tr><td>血便堆数 Bloody stool</td><td>4.40±0.51a</td><td>1.60±0.40b</td><td>1.20±0.20b</td><td>2.00±0.32b</td></tr><tr><td>piles</td><td></td><td></td><td></td><td></td></tr><tr><td>球虫卵囊排出数 Number</td><td></td><td></td><td></td><td></td></tr><tr><td>of coccidial oocysts</td><td>1.30±0.46a</td><td>0.43±0.21bc</td><td>0.25±0.095c</td><td>0.71±0.32b</td></tr><tr><td>excretion/[×105/(只·d)]</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3GPC 对柔嫩艾美尔球虫感染肉仔鸡免疫器官指数和外周血淋巴细胞的影响由表4可知，与空白对照组相比，负对照组肉仔鸡的脾脏指数显著增加 $( P { < } 0 . 0 5 )$ ，而各GPC添加组与空白对照组相比无显著差异 $( P { > } 0 . 0 5 )$ 。与空白对照组相比，负对照组和各GPC添加组的外周血T淋巴细胞转化率显著增加 $( P { < } 0 . 0 5 )$ ；与负对照组相比，7.5 和15.0 mg/kg GPC 组的外周血T淋巴细胞转化率分别增加了 $1 6 . 1 \%$ 和 $5 . 4 \% ( P { > } 0 . 0 5 ) \_ 7 . 5$ 和 $1 5 . 0 \mathrm { m g / k g }$ GPC 组的外周血 B淋巴细胞转化率显著大于 $3 0 . 0 ~ \mathrm { m g / k g }$ GPC组 $( P { < } 0 . 0 5 )$ 。与空白对照组相比，负对照组的外周血$\gamma \delta \mathrm { T }$ 细胞比例显著增加 $( P { < } 0 . 0 5 )$ ， $1 5 . 0 ~ \mathrm { m g / k g }$ GPC 组的外周血 $\gamma \delta \mathrm { T }$ 细胞比例大于负对照组，但差异不显著 $( P { > } 0 . 0 5 )$ 。各组间的胸腺指数和法氏囊指数未见显著差异 $( P { > } 0 . 0 5 )$
+
+表4GPC对柔嫩艾美尔球虫感染肉仔鸡免疫器官指数和外周血淋巴细胞的影响
+
+Table 4Effects of GPC on the immune organ indexes and peripheral lymphocyte of broiler chicks   
+
+<html><body><table><tr><td colspan="6">challenged withEimeria tenella</td></tr><tr><td>项目Items</td><td>空白对照组</td><td>负对照组</td><td>7.5 mg/kg</td><td>15.0 mg/kg</td><td>30.0 mg/kg</td></tr><tr><td></td><td>Blank control</td><td>Negative</td><td>GPC组 7.5</td><td>GPC组15.0</td><td>GPC组30.0</td></tr><tr><td></td><td>group</td><td>control group</td><td>mg/kg GPC</td><td>mg/kg GPC</td><td>mg/kg GPC</td></tr><tr><td></td><td></td><td></td><td>group</td><td>group</td><td>group</td></tr><tr><td>脾脏指数 Spleen index</td><td>1.16±0.08b</td><td>1.47±0.20a</td><td>1.06±0.15b</td><td>0.99±0.17b</td><td>1.05±0.16b</td></tr><tr><td>胸腺指数 Thymus index</td><td>2.20±0.17</td><td>1.94±0.21</td><td>2.06±0.12</td><td>1.96±0.33</td><td>1.88±0.14</td></tr><tr><td>法氏囊指数 Bursa of Fabricius</td><td>1.20±0.15</td><td>1.20±0.05</td><td>0.90±0.15</td><td>0.88±0.14</td><td>1.12±0.29</td></tr><tr><td>index</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T淋巴细胞转化率 TLR</td><td>0.49±0.03b</td><td>0.56±0.09a</td><td>0.65±0.06a</td><td>0.59±0.11a</td><td>0.56±0.09a</td></tr><tr><td>B 淋巴细胞转化率BLR</td><td>0.52±0.04ab</td><td>0.50±0.06ab</td><td>0.53±0.06a</td><td>0.59±0.08a</td><td>0.43±0.05b</td></tr><tr><td>γδT细胞比例γδTcell percentage</td><td>0.15±0.04b</td><td>0.21±0.03a</td><td>0.21±0.04a</td><td>0.23±0.01a</td><td>0.21±0.02a</td></tr></table></body></html>
+
+2.4GPC对柔嫩艾美尔球虫感染肉仔鸡肠道免疫功能的影响
+
+由表5可知，与空白对照组相比，负对照组的回肠IEL数量增加了 $4 1 . 9 \% ( P { < } 0 . 0 5 )$ ；7.5 和15.0 mg/kgGPC 组的 IEL数量进一步增加，较空白对照组分别增加了 $6 9 . 3 \%$ 和 $1 1 6 . 7 \% ( P < 0 . 0 5 )$ ：而 $3 0 . 0 \mathrm { m g / k g }$ GPC 组的IEL数量与负对照组无显著差异 $( P { > } 0 . 0 5 )$ 。与空白对照组相比，负对照组的盲肠黏膜sIgA水平增加了 $3 6 . 3 \% ( P { < } 0 . 0 5 )$ ；饲粮中添加GPC 使 sIgA水平进一步升高，7.5、15.0和 $3 0 . 0 \mathrm { m g / k g }$ GPC 组的 sIgA 水平比空白对照组分别升高了 $1 0 7 . 6 \%$ 、 $1 4 9 . 6 \%$ 和$9 4 . 3 \% ( P { < } 0 . 0 5 )$ 。综上，饲粮中添加7.5 和 $1 5 . 0 \ \mathrm { m g / k g }$ GPC 均可有效调节肠道IEL数量和 sIgA水平，以 $1 5 . 0 \mathrm { m g / k g }$ GPC 组效果最好。
+
+# 表 5GPC 对柔嫩艾美尔球虫感染肉仔鸡肠道免疫功能的影响
+
+Table 5Efects of GPC on intestinal immune function of broiler chicks challenged with Eimeria
+
+tenella
+
+<html><body><table><tr><td rowspan="5">项目Items</td><td>空白对照组</td><td>负对照组</td><td>7.5 mg/kg GPC</td><td>15.0 mg/kg GPC</td><td>30.0 mg/kg GPC</td></tr><tr><td>Blank control</td><td>Negative</td><td>组7.5 mg/kg</td><td>组15.0 mg/kg</td><td>组 30.0 mg/kg</td></tr><tr><td>group</td><td>control group</td><td>GPC group</td><td>GPC group</td><td>GPC group</td></tr><tr><td>上皮内淋巴细胞数</td><td></td><td></td><td></td><td></td></tr><tr><td>11.00±1.04d 量 Number of IEL</td><td>15.61±2.01c</td><td>18.62±2.05b</td><td>23.84±2.22a</td><td>15.25±1.81c</td></tr><tr><td>分泌型IgA水平</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>17.75±2.51b</td><td></td><td></td></tr><tr><td>sIgA level/%</td><td>8.55±0.72d</td><td>11.65±1.34c</td><td></td><td>21.34±2.17a</td><td>16.61±2.64b</td></tr></table></body></html>
+
+# 3讨论
+
+3.1GPC对柔嫩艾美尔球虫感染肉仔鸡生长性能的影响
+
+球虫是寄生在家禽肠道上皮的一种原生虫，主要破坏肠道上皮细胞，影响正常的消化吸收，造成生长缓慢和饲料效率降低。本研究结果显示，1\~14日龄时各组肉仔鸡的生长性能差异不显著，与之前的研究结果相一致[16]，原因可能是饲喂时间过短GPC 还没有发挥作用；攻毒后，球虫损伤了机体肠道,引起消化吸收功能障碍,造成营养浪费,而饲粮中添加7.5和15.0 mg/kg GPC缓解了这一损伤，与Wang 等[9]和Mcdougald 等[14]的研究较为一致，提示饲粮中添加7.5和 15.0mg/kg GPC 可保持鸡只的健康生长状态，抵抗球虫感染造成的生长抑制。球虫感染会引起氧化应激和免疫抑制，课题组的前期研究结果也揭示了GPC 具有较好的抗氧化和促免疫作用[20-21],这可能是GPC改善肉仔鸡生长性能的重要原因。
+
+值得注意的是，尽管试验全期 30.0 mg/kg GPC 组的F/G 显著低于负对照组，但ADG 与负对照组差异不显著，这是由于 $3 0 . 0 ~ \mathrm { m g / k g }$ GPC 组的 ADFI较低造成的，提示饲粮中添加 30.0mg/kg GPC的抗球虫效果有限，可能是因为高剂量GPC对饲料的适口性有负面影响。
+
+3.2GPC 对柔嫩艾美尔球虫感染肉仔鸡盲肠病变评分、血便堆数和球虫卵囊排出数的影响肠道是机体最重要的消化吸收器官，其健康程度直接影响鸡只的生长速度；球虫入侵肠道上皮细胞后，破坏肠道上皮的完整性，引起出血，出现血便；球虫寄生并在肠道上皮细胞内大量增殖，并随粪便排出体外。本试验结果表明饲粮中添加GPC 显著降低了球虫攻毒肉仔鸡的盲肠病变评分、血便堆数和球虫卵囊排出数，这与Wang等[9研究结果相一致。
+
+本课题组前期试验研究显示，GPC 对球虫并无显著的直接杀伤作用（未发表资料)，故可推测GPC可能通过激活机体自身免疫系统来抵抗球虫感染。
+
+3.3GPC对柔嫩艾美尔球虫感染肉仔鸡免疫器官发育和外周血淋巴细胞的影响
+
+与哺乳动物的淋巴结相似，脾脏是鸡最大的外周免疫器官，也是机体发生免疫反应、产生抗体的重要器官，其发育状况与机体的免疫状况密切相关。此外，脾脏直接与血液相通，极易受到血液中自由基的攻击发生氧化应激。有研究表明，球虫感染会破坏肉鸡脾脏的抗氧化体系，损害脾脏组织结构[2-23]。还有报道指出肉仔鸡感染球虫后脾脏实质细胞肿胀，红髓内血细胞增多，并伴有大量炎性细胞浸润[24]。本试验研究显示，感染球虫的负对照组肉仔鸡的脾脏指数显著增加，这可能与球虫感染引起的抗氧化失衡及炎症反应有关。本课题组前期研究显示，饲粮中添加7.5 和 15.0 mg/kg GPC 对肉仔鸡的脾脏指数无显著影响，提示在正常饲养状态下GPC 可能对脾脏指数无显著作用[16]。然而，本试验结果则显示饲粮中添加GPC 可将感染球虫肉仔鸡的脾脏指数恢复至未感染时的正常水平，提示GPC对处于球虫感染状态肉仔鸡脾脏指数有较为显著的改善作用，这可能与GPC 的抗炎作用[1-12]和缓解氧化应激作用[9]有关。GPC 抑制球虫感染引起的脾脏指数升高的机制还有待于进一步研究。
+
+T 淋巴细胞转化率和B 淋巴细胞转化率反映了机体T、B淋巴细胞的反应和增殖活性，而球虫感染后机体的细胞免疫起主导作用。本试验发现球虫感染肉仔鸡的T淋巴细胞转化率显著高于空白对照组，提示机体发生了应对球虫入侵的免疫反应；而饲粮中添加GPC 提高了T淋巴细胞转化率，与之前的研究较为一致[15-16]。GPC 激活细胞免疫，促进T淋巴细胞分泌细胞因子，抵抗球虫入侵，这可能是GPC抗球虫的机理之一。而球虫感染后机体的体液免疫作用相对较弱，本试验未发现球虫感染负对照组与空白对照组之间胸腺指数和法氏囊指数的显著差异。但饲粮中添加GPC提高了B淋巴细胞转化率，可能是因为球虫入侵破坏了肠道黏膜屏障，引起病原微生物的大量入侵，激活体液免疫，促进B淋巴细胞分泌抗体，有利于机体预防球虫感染引起的继发疾病。
+
+Bessay等[25]和 Swinkels 等[26]的研究显示，球虫感染后鸡肠道γδT细胞数量迅速增多。Yun等[27]比较了2个品系蛋鸡在球虫感染后肠道淋巴细胞亚群的变化，发现在球虫感染后高耐受鸡肠道γδT细胞数量显著高于低耐受鸡。本试验研究发现球虫感染负对照组肉仔鸡外周血的γδ T细胞比例显著高于空白对照组，这与前人研究较为一致。γδT细胞通过促进角化细胞生长因子和表皮生长因子(EGF)的生成，调节上皮细胞的增殖和分化等[28-30]，而球虫感染可活化机体 γδ T细胞发挥自身免疫保护作用。本试验未发现饲粮中添加GPC 具有显著提高肉仔鸡外周血 γδ T细胞增殖的作用，可能是由于球虫感染后肠道 $\gamma \delta \mathrm { T }$ 细胞比例显著提高，但经过循环，到达血液中的γ8T细胞并未达到显著变化。
+
+# 3.4GPC 对柔嫩艾美尔球虫感染肉仔鸡肠道免疫功能的影响
+
+黏膜内免疫细胞占机体所有免疫细胞的 $80 \%$ ，黏膜免疫在机体的免疫保护中占有非常重要的地位。黏膜免疫系统是由集合黏膜相关淋巴组织和弥散黏膜相关淋巴组织组成，集合黏膜相关淋巴组织是捕捉抗原和产生免疫效应细胞与免疫记忆细胞的主要场所。盲肠扁桃体是集合黏膜相关淋巴组织的一部分，而 IEL 是弥散黏膜淋巴组织的一部分。IEL 是一类独特的淋巴细胞群，在细胞介导的黏膜免疫和维持上皮的完整性中起着重要作用，具有胞内颗粒（如穿孔素、粒酶和丝氨酸酯酶等)，有细胞杀伤作用，也可以分泌淋巴细胞因子（如肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ 、干扰素-γ、白细胞介素-2等)，在防御肠道病原菌入侵方面也发挥着重要作用[31-32]。本试验显示饲粮中添加GPC 显著提高了球虫感染后肉仔鸡回肠 IEL 数量，提示GPC 通过促进 IEL 增殖活化，分泌细胞因子和胞内颗粒，直接或间接杀灭球虫。
+
+黏膜相关淋巴组织中的B 细胞多为sIgA的产生细胞，受抗原刺激后直接将 sIgA分泌到附近黏膜，发挥局部免疫作用。郑明学等[23]发现，感染柔嫩艾美尔球虫鸡的盲肠黏膜局部淋巴细胞显著增生，盲肠黏膜局部致敏的B 淋巴细胞产生 sIgA，可将球虫阻留在肠腔，以便消化液和其他物质的作用将球虫杀灭，据此认为肠道局部分泌型抗体和细胞免疫共同协调发挥综合保护作用。刘晶[33认为 sIgA 抗球虫感染的可能作用机制为：sIgA 黏附在虫体表面，通过中和以及调理吞噬等空间阻碍作用降低虫体的活力，诱导宿主细胞受体分子构型发生改变，抗体依赖性细胞介导细胞毒性作用直接作用于子孢子和裂殖子，阻止其入侵及在细胞内的发育。本试验显示饲粮中添加GPC 显著提高了球虫感染后肉仔鸡盲肠黏膜 sIgA 的分泌水平，进而通过空间阻隔效应减少了球虫与肠壁细胞的接触损伤。
+
+# 4结论
+
+$\textcircled{1}$ 肉仔鸡饲粮中添加适量GPC可抑制球虫感染引起的生长性能下降； $\textcircled{2}$ 肉仔鸡饲粮中添加适量GPC 可提高球虫感染后外周血淋巴细胞转化率; $\textcircled{3}$ 肉仔鸡饲粮中添加适量GPC 可提高球虫感染后回肠 IEL 数量和盲肠黏膜 sIgA水平，维   
+持肠道健康; $\textcircled{4}$ 在本试验球虫感染模型条件下，肉仔鸡饲粮中GPC 的适宜添加剂量为 $7 . 5 { \sim } 1 5 . 0 \ \mathrm { m g / k g } \$   
+参考文献：   
+[1]李祥瑞.鸡球虫病的防控现状及进展[J].中国家禽,2011,33(12):37-39.   
+[2] 卢福庄,张雪娟,付媛,等.中草药防治鸡、兔球虫病的研究进展[J].浙江农业学 报,2007,19(3):253-257.   
+[3]MOLAN A L,LIU Z,DE S.Effect of pine bark (Pinus radiata) extracts on sporulation of coccidian oocysts[J].Folia Parasitologica,2009,56(1):1-5.   
+[4] SHI J,YU J,POHORLY P E,et al.Polyphenolicsin grape seeds-biochemistryand functionality[J].Journal of Medicinal Food,2003,6(4):291-299.   
+[5]DEMIRKAYA E,AVCI A,KESIK V,et al.Cardioprotective roles of aged garlic extract,grape seed proanthocyanidin,and hazelnut on doxorubicin-induced cardiotoxicity[J].Canadian Journal of Physiology and Pharmacology,2009,87(8):633-640.
+
+[6]RAY S D,PARIKH H,HICKEY E,et al.Differential effects of IH636 grape seed proanthocyanidin extract and a DNA repair modulator 4-aminobenzamide on liver microsomal cytochrome 4502E1-dependent aniline hydroxylation[J].Molecular and Cellular Biochemistry,2001,218(1/2):27-33.
+
+[7]RAY S D,WONG V,RINKOVSKY A,et al.Unique organoprotective properties of a novel IH636 grape seed proanthocyanidin extract on cadmium chloride-induced nephrotoxicity,dimethylnitrosamine(DMN)-inducedsplenotoxicityandMOCAP-induced neurotoxicityinmice[J].Research CommunicationsinMolecular Pathology and Pharmacol0gy,2000,107(1/2):105-128.
+
+[8]FERNANDO M A,LAWN A M,ROSE M E,et al.Invasion of chicken caecal and intestinal lamina propria by crypt epithelial cells infected with coccidia[J].Parasitology,1983,86(3):391-398.
+
+[9] WANG M L,SUO X,GU J H,et al.Influence of grape seed proanthocyanidin extract in broiler chickens:effect on chicken coccidiosis and antioxidant status[J].Poultry Science,2008,87(11):2273-2280.
+
+[10]KAWAGUCHI K,MATSUMOTO T,KUMAZAWA Y.Effects of antioxidant polyphenols on TNF-alpha-related diseases[J].Current Topics in Medicinal Chemistry,2011,11(14):1767-1779.
+
+[11] GESSNER D K,FIESEL A,MOST E,et al.Supplementation of a grape seed and grape marc meal extract decreases activities of the oxidative stress-responsive transcription factors NF-kB and Nrf2 in the duodenal mucosa of pigs[J].Acta Veterinaria Scandinavica,2O13,55(1):18-28.
+
+[12]HOGAN S,CANNING C,SUN S,et al.Effects of grape pomace antioxidant extract on oxidative stress and inflammation in diet induced obese mice[J].Journal of Agricultural and Food Chemistry,2010,58(21):11250-11256.
+
+[13]MAGRONE T,CANDORE GCARUSO C,et al.Polyphenols from red wine modulate immune responsiveness:biological and clinical significance[J].Current Pharmaceutical Design,2008,14(26):2733-2748.
+
+[14]MCDOUGALD L R,HOFACRE C,MATHIS G,et al.Enhancement of resistance to coccidiosis and necroticenteritisinbroilerchickensbydietarymuscadinepomace[J].Avian
+
+Diseases,2008,52(4):646-651.   
+[15]杨金玉,王晶,张海军,等.葡萄原花青素活性组分的分离及其对肉仔鸡外周血淋巴细胞增殖 的影响[J].中国畜牧兽医,2014,41(8):136-140.   
+[16]杨金玉,王晶,武书庚,等.葡萄原花青素与小麦型饲粮对肉仔鸡生长性能及免疫机能的组合 效应[J].动物营养学报,2014,26(8):2270-2280.   
+[17]高俊.酵母培养物对肉仔鸡的作用及其机理[D].博士学位论文.北京:中国农业科学 院,2008:69-70.   
+[18]JOHNSON J,REID W M.Anticoccidial drugs:lesion scoring techniques in battery and floor-pen experiments with chickens[J].Experimental Parasitology,1970,28(1):30-36.   
+[19] LILLEHOJ H S.Effects of immunosuppression on avian coccidiosis:cyclosporin A but not hormonalbursectomyabrogateshostprotectiveimmunity[J].Infection and Immunity,1987,55(7):1616-1621.   
+[20]MOSMANN T.Rapid colorimetric assay for cellular growth and survival:application to proliferation and cytotoxicity assays[J].Journal of Immunological Methods,1983,65(1/2):55-63.   
+[21]张海军,徐磊,岳洪源,等.葡多酚对肉鸡生产性能和免疫功能的影响[J].中国畜牧兽 医,2012,39(3):99-103.   
+[22] 李文超,顾有方,陈会良,等.堆型艾美耳球虫感染后组织抗氧化功能的变化[J].中国兽医学 报,2010,30(4):465-468.   
+[23]郑明学,马海利,李元平,等.肉鸡柔嫩艾美尔球虫病的病理免疫学研究[J].华北农学 报,1998,13(2):141-144.   
+[24]刘文超,马春霞,赵靓,等.毒害艾美耳球虫感染对雏鸡免疫器官指数及主要器官病理形态变 化的影响[J].中国家禽,2015,37(21):26-31.   
+[25]BESSAY M,LE VERN Y,KERBOEUF D,et al.Changes in intestinal intra-epithelial and systemic T-cel subpopulations after an Eimeria infection in chickens:comparative study between
+
+E acervulina and $E$ tenella[J].Veterinary Research,1996,27(4):503-514.
+
+[26] SWINKELS W J C,POST J,CORNELISSEN J B,et al.Immune responses to an Eimeria acervulina infection in different broilers lines[J]. Veterinary Immunology and Immunopathology,2007,117(1/2):26-34.
+
+[27]YUN C H,LILLEHOJ H S,CHOI K D.Eimeria tenella infection induces local gamma interferon production and intestinal lymphocyte subpopulation changes[J].Infection and Immunity,2000,68(3):1282-1288.
+
+[28]BOISMENU R,HAVRAN W L.Modulation of epithelial cell growth by intraepithelial $\gamma \delta$ T cells[J].Science,1994,266(5188):1253-1255.
+
+[29]DALTON JE,CRUICKSHANK S M,EGAN C E,et al.Intraepithelial $\gamma \delta ^ { + }$ lymphocytes maintain the integrity of intestinal epithelial tight junctions in response to infection[J].Gastroenterology,2006,131(3):818-829.
+
+[30]KOMORI H K,MEEHAN T F,HAVRAN W L.Epithelial and mucosal $\gamma \delta$ T cells[J].Current Opinion in Immunology,2006,18(5):534-538.
+
+[31]NEUTRA M R.V.Role of M cels in transepithelial transport of antigens and pathogens to the mucosal immune system[J].American Journal of Physiology-Gastrointestinal and Liver Physiol0gy,1998,274(5):G785-G791.
+
+[32]HODGKIN P D,YAMASHITA L C,SEYMOUR B,et al.Membranes from both Th1 and Th2 T cell clones stimulate B cell proliferation and prepare B cels for lymphokine-induced differentiation to secrete Ig[J].The Journal of Immunology,1991,147(11):3696-3702.
+
+[33]刘晶.雏鸡感染毒害艾美耳球虫后血液和免疫器官免疫变化及机理[D].硕士学位论文.哈尔滨：东北农业大学，2004:52-55
+
+Effects of Grape Procyanidins on Growth Performance and Immune Function of Broiler Chicks
+
+YANG Jinyul.2ZHANG Haijun1\*WANG Jing1YUE Hongyuan1WU Shugeng1 QI Guanghai1GUAN Kun² Gert-Jan GERRITS²   
+(1. Key Laboratory of Feed Biotechnology of Ministry ofAgriculture, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 1Oo081, China; 2. Tianjin DKVE Animal Nutrition Co., Ltd., Tianjin 300457, China)
+
+Abstract: This study was conducted to investigate the effects of dietary grape procyanidins (GPC) on the performance and immune function of broiler chicks challenged with Eimeria tenella.A total of 350 one-day-old healthy male broiler chicks (Cobb-5OO) were randomly allotted into 5 groups with 7 replicates per group and 1O chicks per replicate. Chicks in blank control (BC） group and negative control (NC) group were fed the basal diet,and the others in experimental groups were fed the basal diet supplemented with 7.5,15.0 and $3 0 . 0 \mathrm { m g / k g }$ GPC,respectively. At 14 days of age, chicks in NC group and 3 experimental groups were challenged with $5 { \times } 1 0 ^ { 4 }$ Eimeria tenella oocysts per bird by oral, whereas chicks in BC group administered by perfusion with the same amount of saline. The experimental period lasted for 42 days containing 2 periods of early period (1 to 21 days of age) and later period (22 to 42 days of age). The results showed as follows: 1) compared with BC group, the average daily gain (ADG) of broiler chicks during all experimental stages in NC group was significantly decreased and the ratio of feed to gain (F/G) during 22 to 42 and 1 to 42 days of age was significantly increased $( P { < } 0 . 0 5 )$ . Dietary supplemented with 7.5 and $1 5 . 0 ~ \mathrm { m g / k g }$ GPC significantly inhibited the ADG decrease and F/G increase induced by Eimeria tenella challenged during 22 to 42 and 1 to 42 days of age ( $( P { < } 0 . 0 5 )$ . Dietary supplemented with $3 0 . 0 \mathrm { m g / k g }$ GPC significantly decreased the ADG and average daily feed intake (ADFI) during 22 to 42 days of age and ADG during 1 to 42 days of age $( P { < } 0 . 0 5 )$ . 2） Compared with NC group,dietary supplemented with GPC significantly decreased cecal lesion score，bloody stool piles and the number of coccidial oocysts excretion $( P { < } 0 . 0 5 )$ . 3) Dietary supplemented with GPC significantly inhibited the increase of the spleen index of broiler chicks induced by Eimeria tenella challenged $( P { < } 0 . 0 5 )$ . T lymphocyte transformation rate (TLR) was significantly increased by Eimeria tenella challenged $( P { < } 0 . 0 5 )$ ,and dietary supplemented with 7.5 and $1 5 . 0 ~ \mathrm { m g / k g }$ GPC further increased it $( P { > } 0 . 0 5 )$ . Dietary supplemented with 7.5 and 15.0 mg/kg GPC increased the B lymphocyte transformation rate (BLR) $( P { > } 0 . 0 5 )$ . The $\gamma \delta$ T lymphocytes percentage in peripheral blood was significantly increased by Eimeria tenella challenged $( P { < } 0 . 0 5 )$ ， and dietary supplemented with $1 5 . 0 ~ \mathrm { m g / k g }$ GPC further increased it $( P { > } 0 . 0 5 )$ . 4) Compared with NC group,the ileum intraepithelial lymphocytes (IEL) number and caecal mucosa secretory IgA (sIgA) level were significantly increased by Eimeria tenella challenged $( P { < } 0 . 0 5 )$ , and dietary supplemented with 7.5 and $1 5 . 0 ~ \mathrm { m g / k g }$ GPC further increased them $( P { < } 0 . 0 5 )$ . In conclusion, dietary supplemented with GPC improves immune function and relieve growth inhibition of broiler chicks challnged with Eimeria tenella, and the supplementation of 7.5 and $1 5 . 0 ~ \mathrm { m g / k g }$ GPC have the better anticoccidial effect.
+
+Key words: grape procyanidins； broiler chicks； Eimeria tenella; growth performance； immunefunction

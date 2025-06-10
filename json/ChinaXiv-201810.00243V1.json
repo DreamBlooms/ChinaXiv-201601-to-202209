@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "基于知识图谱的植物功能性状与环境研究前沿态势分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾丹丹'，李雅，刘梅，雷会珠，刘杨²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．西北农林科技大学图书馆，陕西 杨凌 712100；2．西北农林科技大学农学院，陕西 杨凌 712100）摘要：植物功能性状显著影响生态系统的功能并能反映植物对环境变化的相应，是联系植物与环境的桥梁。为了系统了解国际上植物功能性状与环境的研究进展，本研究基于Webof Science 数据来源，利用 Web ofScience 数据库分析工具和 Thomson Data Analysis（TDA）进行数据清理和统计分析，并利用Ucinet 和Netdraw、EXCEL 等软件进行可视化作图。分别从文献年度变化趋势、研究主题、主要研究国家/机构、研究力量分布比较、期刊分布状况及高被引论文等方面，对1992-2017年的相关论文，尤其是近9年(2009-2017年）植物功能性状与环境研究的相关论文进行数据挖掘与定量分析。结果表明：（1）近26 年来，植物功能性状与环境研究论文数量呈持续稳步增长态势，尤其近9年来呈加速增长态势；（2）近9年来，研究主题主要围绕比叶面积、叶面积（指数）、光合作用（性能）、叶厚度、叶形态、叶氮含量、叶绿素、叶绿素荧光、比根长等功能指标，及光照、温度、水（水分利用效率、干旱等）、肥（氮、磷为主）、 $\\mathrm { C O } _ { 2 }$ 等环境因子展开；化学计量学在该领域应用广泛（3）2009-2017年间，欧美等发达国家是该领域研究的主要力量。美国发文数量和文献质量均为世界领先。中国在该领域的发文量居第二位，仅次于美国，但文献篇均被引和H指数较低。中国科学院发文量以绝对优势居第一位，但文献质量有待进一步提升。（4）该领域载文量Top10 期刊8种为JCR分区Q1区、2种为Q2区。其中，Plant and Soil和Plant Ecology载文量分居第一、二位。（5）Top10高被引论文发表于8种期刊，其第一作者分别来自美国、荷兰、加拿大、德国和法国。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物功能性状；环境；文献计量；态势分析中图分类号：G255．51",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tendency analysis of the plant functional traits and environments research based on knowledge map ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GUDandan],LI Yal,LIU Mei',LEI Huizhu],LIU Yang² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家重点研发计划（2017YFD0300202-2）中国高等教育文献保障系统（CALIS）全国农学文献信息中心研究项目（2016045）；中国科学院文献情报中心项目（A289021401）[Supported by the National KeyR &D Program of China (2017YFD0300202-2); National Agricultural Literature Information Cent of ChinaAcademic Library & Information System (CALIS)( 2016045);Foundation of National Science Library, ChineseAcademy of Science(A289021401)]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：顾丹丹（1984-)，女，山东菏泽人，硕士研究生学历，馆员，主要从事科技情报与文献计量研究，(E-mail) dandangu0726 $@$ 126.com。\\*通讯作者：刘杨，副教授，博士研究生导师，主要从事植物学研究，(E-mail) liuyang0328@126.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.Library,NorthwestA&F University,Yangling7121oo,Shaanxi,China; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.College ofAgronomy,Northwest A&F University,Yangling7121oo,Shaanxi, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Plant functional traits,a bridge between plants and the environment, significantly influence the function of the ecosystem and can reflect the corresponding changes of plants to the environment. The bibliometric method which is a common research tool used in various fields for systematic analysis, can help us understand the research progress of the relation between plant functional traits and environment and provide reference data for researchers. An effective bibliometric analysis based on the Web of Science database， was carried out to provide insights into research activities on functional traits and environment from 1992 to 2017,especially recent eight years. The Thomson Data Analyzer (TDA) and Ucinet, Netdraw, Excel were used for data mining, quantitative analysis and visualization mapping. Analyzed aspects included the number of publications per year， the subject category， main countries and institutes and their comparison, peridicals distribution and highly cited papers.The results showed that: (1) In the past 26 years,the number of papers on plant functional traits and environmental research had been steadily increasing, especially in the last nine years,the growth has accelerated.(2) Research topics mainly centered on specific leaf area， leaf area (index)， photosynthesis (photosynthetic characteristics)，leaf thickness,leaf shape, leaf nitrogen content, Chlorophyll and chlorophyll fluorescence, specific root length,and environmental factors of light, temperature，water (water use efficiency and drought, etc.), fertilizer (nitrogen, phosphorus)， $\\mathrm { C O } _ { 2 }$ and so on. Stoichiometry is widely used in this field. (3) During 2Oo9-20l7,developed countries such as Europe and America are the main force in this field. The number of American publications and the quality of documents were the world leading. China ranked second in the number of articles in the field,second only to the United States,but the cited frequency and $\\mathrm { ~ H ~ }$ index of all literatures were low. The Chinese academy of sciences ranked the first in the number of publications with absolute advantages, but the quality of the literature needed to be further improved. (4) ToplO periodicals in this field were of high quality, among these publications eight were JCR division Q,and the other two were JCR division Q2.Plant and Soil and Plant Ecology ranked first and second respectively in terms of article quantity.(5) Top 10 highly cited papers published in eight kinds of periodicals,and the first authors respectively from the United States,the Netherlands, Canada, Germany and France. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: plant functional traits; environment; bibliometrics; situation analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状，是指从细胞到整个有机体个体水平的，可测度的任何形态、生理、物候特点（周道玮，2009；龚春梅等，2011)，如比叶面积、叶厚度、叶片干物质重量、细根数量、比根长、根系组织密度、根叶的氮磷含量、冠层高度等，是植物的核心属性，能显著影响生态系统功能以及反映植被对环境变化的响应（赵新风等，2014；施宇等，2011；郑颖等，2014；PEREZetal，2013)。最常见的植物功能性状分类包括：形态性状和生理性状、营养性状和繁殖性状、地上性状和地下性状、影响性状和响应性状（刘建等，2010；黄迎新等，2015)，以及其后被广泛接受的软性状和硬性状。功能性状不仅决定了生态系统的生产力及其对环境的响应，也影响生态系统的营养结构与水平及其过程与功能，是联系植物与环境的桥梁（刘晓娟和马克平，2015)。植物功能性状已被广泛应用于进化生态学、群落生态学、生物地理学、宏观生态学及全球变化科学等各个研究领域（REICHPetal，2003；LAVOREL&GARNIER，2002；裴男才等，2011；OSTERTAG etal，2015）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物与环境的互作是生态学研究的核心问题。植物功能性状与环境间的联系是气候、干扰和生物条件筛选效应的结果。植物性状会随着环境条件的变化而变化，植物叶片形态、解剖结构和气孔会随着光照、温度和 $\\mathrm { C O } _ { 2 }$ 浓度变化而做出适应性的变化（Engineer et al.,2014)。干旱区的植物往往具有叶片厚、比叶面积小、水分利用效率高和叶寿命长等一系列性状特征以适应水分胁迫环境，湿生环境的植物则表现出相反的性状特征（冯秋红等，2008；孟婷婷，2007)；林木中最大气孔导度呈现出乔木 $>$ 灌木 $>$ 草本，落叶>常绿，阔叶>针叶（Liu et al.,2018)。近年来，大尺度、区域性的植物功能性状研究也逐渐开展，Wang等（2016）从区域尺度探讨了 $3 7 0 0 \\mathrm { k m }$ 的中国东部森林样带植物功能性状特征。Tian 等（2016）研究了树木功能性状与纬度格局的关系。而根作为植物吸收水分和养分的器官，其性状特征对植物的生长和分布具有重要的指示作用，同样能承载环境变化信息（么旭阳等，2014；EBOEHNKEet al，2014)。水分、养分等环境因子均显著影响植物根系性状（李娜等，2017；邹晓霞等，2018)。植物的一些性状与植物生长对策及资源利用的能力紧密相联。因而，研究植物功能性状与环境的关系可以很好地揭示植物对环境的适应策略，同时能够为研究当前环境条件下的生态系统功能以及预测未来全球变化对生态系统的影响提供方法和依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献计量学是针对文献的各种特征的数量表现，采用数理统计等数学方法来描述、评价其研究现状并预测其发展趋势的图书情报学分支学科（唐霞等，2016；张静辉等，2015；曹永强,等，2016；冷疏影，2016)。本研究选取具有国际影响力美国科学信息研究所的科学英文索引扩展版（Science Citation Index Expanded,SCIE）数据库为数据源，运用文献计量学方法揭示和描绘植物功能性状与环境研究相关领域学科的演进过程，分析该学科的前沿态势，以期为科研人员和管理者提供一个观察学科发展全景的新视角，为推动国内植物功能性状的研究提供一定的参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.材料与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究以Webof Science（WoS）中SCIE的核心合集为数据来源，分别从叶性状与气候，根叶性状与土壤，根叶性状与地形及根性状与气候等视角，遴选植物功能性状与环境领域的论文。经过反复试检索并与相关研究人员沟通交流后，最终确定使用高级检索中的主题方式由所选研究方向框定主题词，用布尔运算符做必要的连接，最终形成检索式（表1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "检索时间为2018年8月，文献年限设定为1992-2017年，类型限制为article、discussion、review等，检索得到3854条数据。依据文章内容筛选后，最终选择其中的3036篇作为分析样本。通过使用TDA对样本数据进行清理，并使用Ucinet、NetDraw、Excel等软件进行可视化作图。用 Keywords (Author's +Plus) $^ +$ Title (Phrases）（统一简称为关键词）作为主题词，经过数据清理去掉宽泛冗余的高频词汇，合并同义词汇，分析文献主题与热点的阶段变化、主题网络与合作国家/机构等方面的特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1植物功能性状与环境关系检索式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6060c149c4b33a50b522a4c18728a0c6f594bbf3cb17493f139ba2b94b3c301d.jpg",
+        "table_caption": [
+            "Table 1Retrieval type of plant functional traits and environments research "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称 Name</td><td>检索式Retrieval type</td><td>结果篇数 Result</td></tr><tr><td>（1）叶性 状与气候 Leaf character and climate</td><td>TS=((\"leaf thickness” or \"leaf lifespan”or \"specific leaf area”or \"leaf tissue density” or \"leaf carbon concentration”or“leaf nitrogen concentration” or \"leaf phosphorus concentration” or \"leaf N:P\" or “leaf carbon Content” or \"leaf nitrogen Content” or “leaf phosphorus Content” ）and (precipitation or rainfall or air temperature or temperature or evaporation or solar radiation or radiation or insolation duration)) AND PY=(1992-2017) TS=(\"leaf thickness”or \"leaf lifespan” or \"specific leaf area” or \"leaf</td><td>1490</td></tr><tr><td>（2）根叶 性状与土 壤 Root and leaf characters and soil</td><td>tissue density” or \"leaf carbon concentration” or “leaf nitrogen concentration” or \"leaf phosphorus concentration”or \"leaf N:P\" or “leaf carbon Content” or \"leaf nitrogen Content’ or “leaf phosphorus Content’ or“specific root length” or “root tissue density”or “fine root nitrogen concentration” or \"root nitrogen concentration\" or “root phosphorus concentration” or“fine root carbon Content” or“root carbon Content’ or \"root nitrogen Content” or “root phosphorus Content” or “root N:P” or (root “mechanical composition\") or plant</td><td>1533</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bbe62b3cdbcf01cc2df62a6d0d65d7e1b2d7606267260c06623f4e7528fd7b5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>\"ecological stoichiometry\") and (soil nutrient or soil organic matter or soil nitrogen or soil total nitrogen or soil available nitrogen or soil phosphorus or total phosphorus or soil available phosphorus or soil carbon or soil aggregate structure or soil moisture or soil bulk density)) not TS=(apple or \"white yam\" or rice or maize or barley or soybean or potato or wheat) AND PY=(1992-2017)</td><td></td></tr><tr><td>（3）根叶 性状与地 形 Root and leaf characters and topography</td><td>TS=((\"leaf thickness”or \"leaf lifespan” or \"specific leaf area” or \"leaf tissue density” or \"leaf carbon concentration” or “leaf nitrogen concentration” or \"leaf phosphorus concentration” or \"leaf N:P\" or \"leaf carbon Content” or \"leaf nitrogen Content” or“leaf phosphorus Content” or“specific root length” or “root tissue density” or “fine root nitrogen concentration” or \"root nitrogen concentration” or “root phosphorus concentration”or“fine root carbon Content’ or“root carbon Content” or \"root nitrogen Content” or“root phosphorus Content” or “root N:P” or (root “mechanical composition\") or plant \"ecological stoichiometry\") and (terrain or“terrain location”or topography or altitude or altitude gradient or elevation or “elevation gradient” or aspect or slope or latitude or“slope position” or“slope location\")) AND PY=(1992-2017)</td><td>698</td></tr><tr><td>(4) 根性状与 气候 Root characters and climate</td><td>TS=((\"specific root length” or “root tissue density” or “fine root nitrogen concentration” or \"root nitrogen concentration”’ or “root phosphorus concentration”or“fine root carbon Content” or“root carbon Content” or \"root nitrogen Content” or“root phosphorus Content’ or “root N:P\"” or root “mechanical composition” or plant \"ecological stoichiometry\") and (precipitation or rainfall or air temperature or temperature or evaporation or solar radiation or radiation or insolation duration)) AND PY=(1992-2017)</td><td>133</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2．结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1论文数量的时间变化特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文献的年度分布态势是文献量在时间维度上的映射，是了解研究进展和划分研究阶段的定量化依据（李贺等，2014)。遴选出的1992-2017年有关植物功能性状和环境研究的 SCI论文总量为3036篇，年均文献数量116.8篇。其年度分布变化及所占比例表明，国际有关植物功能性状与环境间关系的研究文献量及其所占百分比基本保持稳定增长趋势（图1)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文献数量的增加，可以反映出植物功能性状与环境的研究已经受到学者的广泛关注。依据文献数量变化特点及研究内容等方面，本研究划分为3个阶段：1992-2000年、2001-2008 年及2009-2017年。由于检索文献数量呈现稳步持续增长态势，且2009-2017年近9年间发文量1728篇，占25年发文总量的 $56 . 9 \\%$ ，因此，重点分析近9年文献。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2130d862cfcbf8a45058a2bd94af1e87ff39d8d6e347948e11fa4e042f6ebdd4.jpg",
+        "img_caption": [
+            "图11992-2017年植物功能性状与环境研究领域 SCI论文年发文量及所占比例 Fig.1 Number and proportions of SCI articles on plant functional traits and environments :esearch during 1992-2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2研究主题分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究通过近9年来（2009-2017年）国际有关植物功能性状与环境研究社会网络分析图谱，分别从叶性状与气候、根叶性状与地形、根叶性状与土壤、根性状与气候等几方面，对该领域近9年来主流学术群体及其联系作了深入分析，并制作关键词社会网络分析图谱（图2)。其中，连线条数越多，节点越大，则该研究主题的中心性越高，某两点间连线越粗，则这两点所表示的研究主题之间共现机会越多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有关叶性状与气候关系研究，关键词数量最多，且交错成密集网络（图2)。研究围绕比叶面积、光合作用、 $\\mathrm { C O } _ { 2 }$ 、 $\\mathrm { C O } _ { 2 }$ 浓度升高、干旱、气候变化和氮等核心主题进行。研究热点主要包括叶片解剖、、叶片结构、叶片寿命、叶片厚度、叶形态、比叶重等与叶片形态结构相关指标，与光合作用相关的叶绿素、叶绿素荧光、光合能力、光抑制、光合色素等，与呼吸作用相关的气孔导度、气孔密度、暗呼吸等，及对光合作用、呼吸作用有显著影响的光照、温度、水、肥等。研究一方面深入其生理机制，如光系统I、温度响应等；另一方面向建模、化学计量学交叉学科发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根作为地下部器官，受到土壤理化特性的直接影响；根系吸收的矿质营养和水分通过导管运输到地上部分，同时叶片光合作用制造的有机物能通过筛管运输到地下部。“根深叶茂”正是这种关系的体现。2009-2017年有关根叶性状与土壤研究，比叶面积、比根长、光合作用及碳、氮、磷、土壤肥力、水（利用效率）、干旱等是研究的核心热点，尤其（植物)功能性状、化学计量学也成为了研究的核心主题，同时化学计量学分支为生态化学计量学和N-P 化学计量学。有关根叶性状与地形的研究，形成了以比叶面积和功能性状为核心，气候变化、叶氮、海拔高度、光合作用、气体交换、温度等为次核心的主题群；氮、磷、表型可塑性等也是研究的核心。有关根性状与气候的研究，关键词数量显著减少，且各关键词间的共现几率也显著减少。比根长、温度、氮、磷、化学计量学是研究的核心方向，有关化学计量学研究进一步细分为生态化学计量学、N-P化学计量学和P化学计量学。根系形态、根组织密度、细根等根系自身特性研究受到较多关注，碳（分配）、氮降解、水分利用效率、外生菌根也是研究的热点。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8efe4d51dce6b1b2551d17074c7884f92df387cfeb466cda44bb70d5448bfcb0.jpg",
+        "img_caption": [
+            "图22009-2017年植物功能性状与环境关系研究关键词社会网络度分析Fig.2Social network analysis of keywords on plant functional traits andenvironments research during 2oo9-2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3主要国家、科研机构的研究力量分布与比较",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.1研究国家力量分布",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "发文量是衡量一个国家（机构）研究水平的一项重要标准（张玲玲等，2016；刘彬和邓秀新，2015)，统计了2009-2017年发文量排名前10位的 Top10 国家（表2）。排名前10位的国家除了中国和巴西是发展中国家，另外8个国家均是发达国家。Top10 国家中7个国家的发文量均大于等于100篇。美国作为世界科技最发达的国家，在许多研究领域都处于领先地位，对于植物功能性状与环境的研究也不例外。2009-2017年间，美国在这个领域的发文量为421篇，居第一位。排在第二位的是中国，发文量为380 篇。澳大利亚、德国、巴西、法国和西班牙的发文量也均大于等于100篇。另外3个国家的发文量均少于100 篇。2015年、2016年和 2017年中国的发文量均超过了美国，表明我国有关植物功能性状与环境的研究，虽起步较晚，但发展迅速；同时说明我国对植物功能性状与环境的研究越来越重视。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/72c5cfcd75cb9f76476b27c47e8972514956e08873932813bab752e621479c04.jpg",
+        "table_caption": [
+            "表22009-2016年植物性状与环境研究Top10国家论文数量的年度变化 Table 2 Annual change in the number of papers published in the top 10 countries on plant functional traits and environments research during 2oo9-2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年度</td><td>美国</td><td>中国</td><td>澳大利亚</td><td>德国</td><td>巴西</td><td>法国</td><td>西班牙</td><td>加拿大</td><td>荷兰</td><td>英国</td></tr><tr><td>Year</td><td>USA</td><td>China</td><td>Australia</td><td>German</td><td>Brazil</td><td>France</td><td>Spain</td><td>Canada</td><td>Netherlands</td><td>UK</td></tr><tr><td>2009</td><td>40</td><td>17</td><td>16</td><td>9</td><td>4</td><td>9</td><td>6</td><td>7</td><td>9</td><td>9</td></tr><tr><td>2010</td><td>28</td><td>19</td><td>19</td><td>5</td><td>14</td><td>5</td><td>8</td><td>8</td><td>6</td><td>6</td></tr><tr><td>2011</td><td>39</td><td>31</td><td>13</td><td>19</td><td>12</td><td>5</td><td>14</td><td>14</td><td>11</td><td>11</td></tr><tr><td>2012</td><td>43</td><td>29</td><td>15</td><td>13</td><td>15</td><td>12</td><td>13</td><td>5</td><td>7</td><td>3</td></tr><tr><td>2013</td><td>65</td><td>33</td><td>9</td><td>14</td><td>19</td><td>13</td><td>10</td><td>11</td><td>9</td><td>9</td></tr><tr><td>2014</td><td>48</td><td>43</td><td>23</td><td>15</td><td>21</td><td>19</td><td>14</td><td>8</td><td>7</td><td>7</td></tr><tr><td>2015</td><td>44</td><td>62</td><td>18</td><td>21</td><td>16</td><td>17</td><td>18</td><td>9</td><td>13</td><td>12</td></tr><tr><td>2016</td><td>52</td><td>71</td><td>23</td><td>23</td><td>13</td><td>22</td><td>13</td><td>16</td><td>16</td><td>12</td></tr><tr><td>2017</td><td>62</td><td>75</td><td>32</td><td>27</td><td>19</td><td>19</td><td>21</td><td>13</td><td>11</td><td>15</td></tr><tr><td>总计 Total</td><td>421</td><td>380</td><td>168</td><td>146</td><td>133</td><td>121</td><td>117</td><td>91</td><td>89</td><td>84</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.22009-2017年植物性状与环境研究Top10机构论文数量分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，2009-2017年发文量 Top10的10个机构中9个属于发达国家，只有中国属于发展中国家。排名第一位的是中国科学院（大学)，发文量为229篇，远远超过其他机构，占前10家机构发文总量（693篇）的比例达 $33 \\%$ 。4家机构属于美国，分别是美国加州大学系统、美国农业部、弗罗里达州立大学系统和明尼苏达大学系统，发文量分别为81、43、41和36篇，占前10家机构发文总量的 $2 9 \\%$ 。法国也有两家机构进入Top10，分别是法国国家农业科学研究院和法国国家科学研究院，发文量分别为60 和57篇，占前10家机构发文总量的 $1 6 . 9 \\%$ 。另外3个进入Top10的研究机构分别为西班牙高等科研理事会、荷兰的瓦赫宁根大学和澳大利亚的联邦科学与工业研究组织。从年度分布来看，中国科学院在这9年间的发文量也一直稳居第一，表明中国科学院（大学）在该研究领域一直处于领先地位。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表32009-2016年植物性状与环境研究Top10机构论文数量的年度变化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2eef0df020fec838e7a16badf2a5502eb95974a7ef7db65a20d1730f8e5474aa.jpg",
+        "table_caption": [
+            "Table3 Annual change in the number of papers published in the top 10 institutions on plant functional traits and environments research during 2oo9-2017 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>中国</td><td>美国</td><td>法国</td><td>法国</td><td>西班牙</td><td>荷兰 Netherland</td><td>美国</td><td>澳大利亚</td><td>美国</td><td>美国</td></tr><tr><td></td><td>China</td><td>USA</td><td>France</td><td>France</td><td>Spain</td><td>S</td><td>USA</td><td>a</td><td>USA</td><td>USA</td></tr><tr><td>年度</td><td>中国科学院</td><td>加州大学系</td><td>国家农业</td><td></td><td>最高科</td><td>瓦赫宁根大</td><td></td><td>联邦科学</td><td>弗罗里达州</td><td>明尼苏达大</td></tr><tr><td>Year</td><td>（大学）</td><td>统</td><td>科学研究</td><td>国家科学</td><td>研理事</td><td>学</td><td>农业部</td><td>与工业</td><td>立大学系统</td><td>学系统</td></tr><tr><td></td><td>CAS</td><td>System of</td><td></td><td>研究院</td><td></td><td></td><td></td><td></td><td>System of</td><td>System of</td></tr><tr><td></td><td>(University</td><td>California</td><td>院</td><td>CNRS</td><td>会</td><td>Wageningen</td><td>USDA</td><td>研究组织</td><td>Florida</td><td>Minne</td></tr><tr><td></td><td>）</td><td>University</td><td>INRA</td><td></td><td>CSIC</td><td>University</td><td></td><td>CSIRO</td><td>University</td><td>University</td></tr><tr><td>2009</td><td>13</td><td>6</td><td>6</td><td>3</td><td>2</td><td>4</td><td>5</td><td>6</td><td>3</td><td>5</td></tr><tr><td>2010</td><td>13</td><td>2</td><td>2</td><td>2</td><td>2</td><td>5</td><td>3</td><td>4</td><td>5</td><td>3</td></tr><tr><td>2011</td><td>24</td><td>5</td><td>2</td><td>1</td><td>9</td><td>6</td><td>6</td><td>3</td><td>9</td><td>1</td></tr><tr><td>2012</td><td>25</td><td>10</td><td>8</td><td>3</td><td>5</td><td>3</td><td>2</td><td>4</td><td>4</td><td>2</td></tr><tr><td>2013</td><td>20</td><td>9</td><td>8</td><td>5</td><td>5</td><td>4</td><td>8</td><td>3</td><td>2</td><td>1</td></tr><tr><td>2014</td><td>27</td><td>12</td><td>8</td><td>9</td><td>6</td><td>5</td><td>6</td><td>4</td><td>3</td><td>6</td></tr><tr><td>2015</td><td>46</td><td>15</td><td>7</td><td>12</td><td>10</td><td>6</td><td>3</td><td>5</td><td>3</td><td>5</td></tr><tr><td>2016</td><td>46</td><td>10</td><td>11</td><td>11</td><td>6</td><td>11</td><td>4</td><td>7</td><td>5</td><td>5</td></tr><tr><td>2017</td><td>35</td><td>12</td><td>8</td><td>11</td><td>12</td><td>5</td><td>6</td><td>4</td><td>7</td><td>8</td></tr><tr><td>合计</td><td>249</td><td></td><td>60</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3.3研究力量比较",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "论文数量、被引频次和H指数是分析评价研究成果质量的重要指标，能从论文数量角度反映国家或机构对能够领域的关注度，从质的角度反映论文水平和影响力强弱（王立伟等，2014；马梧桐和李宏，2016)。图3以研究主题（国家/机构）发文量为横轴，以篇均被引为纵轴，点的大小代表H指数高低。以平均值为中心点，建立研究力量评价坐标系。位于第1象限的国家/机构，其论文数量和质量均高于平均值，第3象限则相反。位于第2象限的国家/机构虽然其论文数量低于平均值，但其论文篇均被引却高于平均值，而第4象限与此相反（李雅等,2017）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从国家层面看(图3:a)，处于第一象限的只有美国，说明美国在该领域不仅发文量多，而且论文的质量和影响力也高；处于第二象限的有澳大利亚、法国、荷兰、加拿大和英国，虽然这5个国家的发文量低于平均值，但论文质量高。处于第3象限的德国、西班牙和巴西，在该领域的发文数量和质量均有待进一步提升；中国处于第4象限，论文数量排在第2位，但篇均被引较低，因此，其H指数较高与发表论文数量大有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从机构层面看（图3:b)，中国科学院处于第4象限，论文数量达249 篇遥遥领先其余机构，但论文质量有待进一步提升。美国加州大学系统处于第1象限，论文数量超过平均值，论文质量也明显高于其余8个机构。法国国家科学研究院，澳大利亚联邦科学与工业研究组织、法国农业科学研究院、西班牙最高科研理事会和明尼苏达大学系统均处于第2象限，尤其是明尼苏达大学系统，其篇均被引频次最高，说明其论文质量较高。美国弗罗里达州立大学系统、荷兰瓦赫宁根大学和美国农业部在第3象限，处于该领域的边缘地位。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ad75e2c020e16bbfb52de1f543ff46ecc7f68975e3f7cfc2d650bee0b000638.jpg",
+        "img_caption": [
+            "图3Top10 国家和机构力量比较"
+        ],
+        "img_footnote": [
+            "注：CAS-中国科学院（大学)，UCS-美国加州大学系统，INRA-法国国家农业科学研究院，CSIC-西班牙最高科研理事会，CNRS-法国国家科学研究院，USDA-美国农业部，WUR-荷兰瓦赫宁根大学，SUSF-美国弗罗里达州立大学系统，CSIRO-澳大利亚联邦科学与工业研究组织，UMN-美国明尼苏达大学系统。a.国家；b.机构。"
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note:CAS-Cinsecadefics (Uiversity,UC-UiversityfClfoiaateS,-renchtioalsiutefor AgriculturalRsearch,CI-panshatioalResearchoucil,-FrenchatioalCnterforientificesearchUid StatesDepartmentofAgriculture,WUR-WageningenUniversityResearch Center,SUSF-State UniversitySystemofFlorda,CIO Commonwealth Scientificand Industrial ResearchOrganisation,UMN- UniversityofMinnesota.a.Countries;b.Institutions. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Comparison on scientific research strength on plant functional traits and environments research between major countries and between major institutions ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.4本领域主要期刊",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对来源出版物进行分析，可以快速掌握某研究领域的出版物分布状况，明确科研人员的投稿取向，确定该领域的核心情报源（孙颌和原保忠，2015)。从表4可以看出，载文量位于前10位的出版物其载文量共计 400 篇，其中Plant and Soil载文量达63 篇，占前10 位载文总量的 $1 5 . 8 \\%$ ，排名第二位的是Plant Ecology，载文量 49 篇。其中，Plant and Soil主要收录有关植物生物学、土壤学及植物-土壤互作机理方面的文章或综述，Plant Ecology 主要收录与植物科学相关的研究型、综述、评论、快报等各类型文章。排名前10位的期刊，主要与植物学、（植物）生态研究相关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "载文量前10位的期刊总体质量较高，其中JCR分区8种期刊均为Q1区，另外2种期刊为Q2区；其 2017年的影响因子（IF） $\\geq 3$ 的有7种，其中 Global Change Biology 的 IF 超过了8。从出版商所属国家分布来看，10种期刊属于3个国家，分别为美国7种、荷兰2种和英国1种。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 4 ToplO journals on plant functional traits and environments research and their impacts ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/d52d51dc5b29964f80738ad27f31a50c6655cda7cba3be3fa54681fd1bdf01d7.jpg",
+        "table_caption": [
+            "表4植物功能性状领域Top10载文期刊及其影响力"
+        ],
+        "table_footnote": [
+            "注：影响因子均为2017年数据。 Note:Impact factor data is published by JCR in 2017. "
+        ],
+        "table_body": "<html><body><table><tr><td>序号 Number</td><td>刊名 Journal</td><td>载文量(篇) Number of articles</td><td>影响因子(IF) Impact Factor</td><td>出版国家 Country</td><td>JCR分区 JCR partition</td></tr><tr><td>1</td><td>Plant and Soil</td><td>63</td><td>3.306</td><td>荷兰 Netherlands</td><td>Q1</td></tr><tr><td>2</td><td>Plant Ecology</td><td>49</td><td>1.759</td><td>荷兰 Netherlands</td><td>Q2</td></tr><tr><td>3</td><td>PLoS ONE</td><td>43</td><td>2.766</td><td>美国 USA</td><td>Q1</td></tr><tr><td>4</td><td>Journal of Ecology</td><td>41</td><td>5.172</td><td>美国 USA</td><td>Q1</td></tr><tr><td>5</td><td>Tree Physiology</td><td>41</td><td>3.389</td><td>英国 UK</td><td>Q1</td></tr><tr><td>6</td><td>Functional Ecology</td><td>35</td><td>5.491</td><td>美国 USA</td><td>Q1</td></tr><tr><td>7</td><td>Journal of Vegetation Science</td><td>33</td><td>2.658</td><td>美国 USA</td><td>Q1</td></tr><tr><td>8</td><td>New Phytologist</td><td>33</td><td>7. 433</td><td>美国 USA</td><td>Q1</td></tr><tr><td>9</td><td>Global Change Biology</td><td>31</td><td>8.997</td><td>美国 USA</td><td>Q1</td></tr><tr><td>10</td><td>Oecologia</td><td>31</td><td>3.127</td><td>美国 USA</td><td>Q2</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.5高影响力论文",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "论文被引频次在一定程度上反映了其对后续研究的影响程度，分析高被引论文可以调查与评估不同国家或机构的科研实力与学术水平，同时也可以探讨学科的研究热点和发展态势（李雅等，2017；高懋芳等，2014)。表5是 2009-2017年植物功能性状与环境研究领域前10 位的高被引文献的相关信息。从第一作者国家分析，10篇论文均来自于欧美发达国家，其中，美国5篇、荷兰2篇、加拿大、德国和法国各1篇。从期刊来源看，Top10的文献发表在8种期刊上，New Phytologist和 Journal of Ecology 载文量均为2篇，其余6篇论文发表在两外6种不同的刊物。从发表时间来看，5篇发表于2009年，3篇发表于2010年，1篇发表于 2011年，另外1篇发表于 2012年。被引频次居于首位的是荷兰的Pooter,H于 2009年发表在 New Phytologist 上题目为 Causes and consequences of variation in leaf mass per area(LMA):a meta-analysis 的文章，其被引频次达到了803 次。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table 5 Times cited of top 10 papers on plant functional traits and environments research in WOS ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/337ba69c4aafe2ed733d291826b9b23febb5222aa5cf0c0e8e6fa65f44ea5f4e.jpg",
+        "table_caption": [
+            "表5Top10高被引论文"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 Number</td><td>文献题目 Title</td><td>第一作者 First author</td><td>文献来源 Source</td><td>被引频次 Citation</td><td>发表年份 Published year</td></tr><tr><td>1</td><td>Causes and consequences of variation in leaf mass per area (LMA): a meta-analysis</td><td>Poorter, H 荷兰Netherlands</td><td>New Phytologist</td><td>803</td><td>2009</td></tr><tr><td>2</td><td>Community assembly and shifts in plant trait distributions across an environmental gradient in coastal California</td><td>Cornwell, WK 加拿大Canada</td><td>Ecological Monographs</td><td>481</td><td>2009</td></tr><tr><td>3</td><td>A global study of relationships between leaf traits, climate and soil measures of nutrient fertility</td><td>Ordonez, JC 荷兰 Netherlands</td><td>Global Ecology and Biogeography</td><td>323</td><td>2009</td></tr><tr><td>4</td><td>Differential responses to changes in growth temperature between trees from different functional groups and biomes:</td><td>Way,DA 美国USA</td><td>Tree Physiology</td><td>303</td><td>2010</td></tr><tr><td>5</td><td>a review and synthesis of data Resource stoichiometry elucidates the structure and function of arbuscular</td><td>Johnson, NC 美国USA</td><td>New Phytologist</td><td>265</td><td>2010</td></tr><tr><td>6</td><td>mycorrhizas across scales Ecoenzymatic stoichiometry of microbial organic nutrient acquisition in</td><td>Sinsabaugh,RL 美国USA</td><td>Nature</td><td>230</td><td>2009</td></tr><tr><td>7</td><td>soil and sediment Quantifying photosynthetic capacity</td><td>Kattge, J</td><td>Global Change Biology</td><td>228</td><td>2009</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/e05c7799d3d49cba6e768ed491d8a635095e7e0683c663fba6cb44a9747c86a6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">and its relationship to leaf nitrogen</td><td colspan=\"5\">德国 Germany</td></tr><tr><td rowspan=\"5\"></td><td>content for global-scale terrestrial biosphere models</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intraspecific functional variability:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>extent, structure and sources of</td><td>Albert, CH</td><td></td><td>Journal of Ecology</td><td>226</td><td>2010</td></tr><tr><td>variation</td><td>法国 France</td><td></td><td></td><td></td><td></td></tr><tr><td>Inferring community assembly</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">9</td><td>mechanisms from functional diversity</td><td>Spasojevic, MJ</td><td>Journal of Ecology</td><td></td><td>186</td><td>2012</td></tr><tr><td>patterns: the importance of multiple</td><td>美国USA</td><td></td><td></td><td></td><td></td></tr><tr><td>assembly processes</td><td></td><td>Proceedings of The</td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">10</td><td>Soil warming,carbon-nitrogen</td><td>Melillo, JM</td><td></td><td>National Academy of</td><td>172</td><td>2011</td></tr><tr><td>interactions,and forest carbon budgets</td><td>美国USA</td><td>Sciences of USA</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.结论与讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "总体来说，随着研究的深入，国际上有关植物功能性状和环境的研究呈稳步增长态势。近8年来，有关植物功能性状和环境的研究呈加速增长态势。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1）欧美等发达国家是植物功能性状与环境研究的主要力量。美国在这个领域的发文量以绝对优势居第一位，中国发文量居第二位，文献质量有待提高。法国、澳大利亚、西班牙、德国、巴西、西班牙、荷兰和英国也是该领域研究的主要力量。从机构层面看，中国科学院发文量远远超过其他国家居第一位，但文献质量有待进一步提升。美国的加州大学系统文献数量多，质量也很高。Top10 机构中，美国占4个，和法国有2个。另外4个分别为中国科学院、西班牙高等科研理事会、荷兰的瓦赫宁根大学和澳大利亚的联邦科学与工业研究组织。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2）有关植物功能性状与环境研究的4个主要方向，叶性状与气候、根叶性状与土壤研究不仅相关文献数量多，研究体系和层次也较为完善，是该领域的研究热点，有较好的发展态势。尤其是叶性状与气候的研究，研究主题广泛，且各主体间密切关联，交织成密集网络。比叶面积、光合作用、 $\\mathrm { C O } _ { 2 }$ 、 $\\mathrm { C O } _ { 2 }$ 浓度升高、比根长、干旱、气候（变化）及氮、磷、土壤肥力、用水效率等是研究的核心热点。但是，目前大多叶性状与气候的研究主要集中在个体水平的叶片常规形态性状上，在生态系统、区域或全球尺度上，存在性状数据与功能数据空间不匹配的问题（Reichstein et al.,2014；何念鹏等，2018)。从个体一种群一群落一生态系统等不同水平的尺度上对植物叶功能性状进行系统研究，构建植物叶性状、气候、功能之间的定量化关系，是植物叶功能性状进一步研究需要重视的着眼点（He et al.,2018;Li et äal,2018)。目前，在该方向已有一些研究。例如中国生态系统研究网络、中国国家生态系统观测研究网络、中国森林生态系统定位观测网络、中国森林生物多样性监测网络等网络平台的建设，为开展森林植物功能性状研究提供了良好的平台（何念鹏等，2018)。在多尺度植物性状方面的研究也有一些定量模型开始应用（Roscheretal.,2012）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（3）除叶外，根也是植物的重要功能性状，对环境响应敏感。但是，对于植物根性状与气候关系研究的文献数量少，研究方向也较为单一，比根长是该方向的研究核心，其次是（生态）化学计量学、磷和氮。近年来，根性状与气候关系的研究逐渐增多，这可能与植物根系观测手段不断进步有关（王丹丹等，2016)。根是植物直接感受水、肥等环境生态因子的器官，对于地上部功能性状及其对环境的响应具有重要的反馈作用。近年来，植物根与土壤间的互作研究，尤其是菌根的研究，逐渐成为植物功能性状的研究热点（林双双等，2013)。一系列研究表明，菌根的分布、形态、种类对于植物性状响应生态环境具有显著影响，而环境因子也显著影响植物菌根（刘润进等，2017；林子然和张英俊，2018)。随着研究手段的进步，关于根系定位观测、根系形态学以及生理生态的研究也在不断开展（刘薇等，2017;谭华东等，2016)。这对于丰富植物功能性状与环境关系研究具有十分重要的意义。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4）从期刊分布来看，载文量位于前10 位的出版物其载文量共计400 篇。10 种期刊属3 个发达国家，其中美国7种、荷兰2种、英国1种。载文量 Top10 期刊总体质量较高，其中8种期刊JCR分区均为Q1区。Top10高影响力论文的第一作者均来自于欧美发达国家，其中，美国5人，荷兰2人，加拿大、法国和德国各1人。Top10 高被引文献发表在8种期刊上。发表时间分别为，5篇发表于2009年，3年发表于2010年，另外2篇分别发表于 2011和2012年。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "中国虽然在植物功能性状与环境研究方面取得了一些进展，但仍然存在一些问题值得探讨：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（1）中国与欧美、澳大利亚、日本等发达国家相比，存在一定的差距。中国虽然发文量较多，但文献质量不高，文献的篇均被引频次较低。分析其原因，可能与欧美、澳、日等发达国家经济水平高，该领域研究起步早、国际间合作多，而中国在该领域研究起步较晚，国际合作较少及国家对研究机构考核、职称评定等政策有关。因此，今后中国学者在植物功能性状与环境的研究要注重高水平论文的发表，当量变积累到一定程度时要实现质的飞跃。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（2）中国科学院在植物功能性状与环境研究领域显示出其明显的优势，2009-2017 年其产出论文数量在主要研究机构中以绝对优势居于第一位，但篇均被引频次显著低于美欧、澳、日等主要研究机构，影响力有待提高。进一步开展国际间的合作尤其是与高水平机构的合作，是提升研究水平的一个重要途径。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "因此，我国应密切关注国际植物功能性状与环境研究的发展态势与进展，了解与该领域研究实力强大的国家和机构的差距，明确该领域研究热点，掌握其发展趋势，对提升我国",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在该领域的研究实力及影响力大有裨益。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CAO YQ,GUO M,LIU SR,et al,2016.Studyon current status of ecological restoration based on bibliometric analysis[J].Acta Ecol Sin,36(8):2442-2450.[曹永强，郭明，刘思然，等，2016.基于文献计量分析的生态修 复现状研究[J]．生态学报，36（8)：2442-2450.]   \nEBOEHNKE M, EKROEBER W,WELK E,et al, 2014. Maintenance of constant functional diversity during secondary succession of a subtropical forest in China [J]. J Veg Sci, 25(3): 897-911.   \nENGINEER CB, GHASSEMIAN M, ANDERSON JC, et al, 2014. Carbonic anhydrases, EPF2 and a novel protease mediate $\\mathrm { C O } _ { 2 }$ control of stomatal development [J]. Nature, 513: 246-250.   \nFENG JH, SHI ZM,DONG LL,2008. Response of plant functional traits to environment and its application [J]. Sci Silva Sin,44(4):125-131.[冯秋红，史作民,，董莉莉，2008．植物功能性状对环境的响应及其应用[J]．林 业科学，44（4)：125-131.]   \nGAO MF, QIU JJ,LIU SC,et al,2014. Status and trends of agricultural difuse pollution research based on bibliometrics [J].Sci Agric Sin,47(6):1140-1150.[高懋芳，邱建军，刘三超，等，2014．基于文献计量的农业 面源污染研究发展态势分析 [J]．中国农业科学，47（6)：1140-1150.]   \nGONG CM,BAI J,LIANG ZS,2011. Advance on indicating functions of plant functional traits to global climate changes [J].Acta Bot Boreal Occident Sin,31(11): 2355-2363.[龚春梅，白娟，梁宗锁，2011．植物功能性状对 全球气候变化的指示作用研究进展[J]．西北植物学报，31（11)：2355-2363.]   \nHE NP,LIU CC,TIANM,et al,2017.Variation in leaf anatomical traits from tropical tocold-temperate forests and linkage to ecosystem functions [J].Funct Ecol,32(8): 10-19.   \nHUANG YX,SONG YT,FANGH, etal,2015. Alometric relationships between morphological and reproductive traits of Chenopodium glaucum[J].Acta Agrect Sin,23(5): 905-913.[黄迎新，宋彦涛，范高华，等，2015．灰 绿藜形态性状与繁殖性状的异速关系 [J]．草地学报，23（5)：905-913.]   \nLAVOREL S & GARNIER E, 2002. Predicting changes in community composition and ecosystem functioning from plant traits: revisiting the Holy Grail [J]. Funct. Ecol.,16(5): 545-556.   \nLENG SY,2016.Thirty years of geography: from theclassics to the frontier[M].Beijing: The Commercial Press. [冷疏影，2016.地理科学三十年：从经典到前沿 [M]．北京：商务印书馆.]   \nLI H,YUAN CM,LI YF,2014. A review of big data research based onbibliometrics [J]. InfSci,32(6): 148-155. [李贺，袁翠敏，李亚峰，2014.基于文献计量的大数据研究综述[J]．情报科学，32（6)：148-155.] LI N, YANG ZY, DAI Z, etal, 2017.Efectsof water-nitrogen management onoot traits, nitrogenaccumulation and utilization and grain yield inrice with diferent nitrogen useeficiency[J]. Chin JRice Sci,31(5): 500-512. [李娜，杨志远，代邹，等，2017．水氮管理对不同氮效率水稻根系性状、氮素吸收利用及产量的影响[J]．中 国水稻科学，31（5)：500-512.]   \nLI Y,LIU CC，ZHANG JH,et al, 2018. Variation in leaf chlorophyllconcentration from tropical to ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "cold-temperature forests: association with gross primary productivity [J]. Ecol Indic,85: 383-389 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LI Y,LIU M, ZENGQC,et al,2O17.Frontier situation analysis of theresearch on soil carbon sequestrationandsoil microbial diversity based on bibliometric[J].Chin JSoil Sci,48(3):745-756.[李雅，刘梅，曾全超，等，2017.基于文献计量的土壤有机碳与土壤微生物多样性研究前沿态势分析 [J].土壤通报，48（3)：745-756.]LIN SS,SUN XW, WANG XJ, et al, 2013. Mycorhizal studies and their application prospects in China[J]. ActaPratac Sin,22(5):310-325.[林双双，孙向伟，王晓娟,，等，2013．我国菌根学研究进展及其应用展望[J]．草业学报，22（5)：10-325.]  \nLIN ZR & ZHANG YJ, 2O18. Effect of arbuscular mycorhizal fungi and phosphorus on growth andphysiological properties of alfalfa seedlings under drought stress[J].Prat Sci,35(1): 115-122.[林子然和张英俊，2018．丛枝菌根真菌和磷对干旱胁迫下紫花苜蓿幼苗生长与生理特征的影响[J]．草业科学，35（1)：115-122.]  \nLIU B,DENG XX,2015.Basic research development status of horticulture based on bibliometric analysis [J]. SciAgric Sin,48(17):3504-3514.[刘彬和邓秀新，2015.基于文献计量的园艺学基础研究发展状况分析[J]．中国农业科学，48（17)：3504-3514.]  \nLIU CC,HE NP, ZHANG JH, et al, 2018. Variation of stomatal traits from cold temperate totropical forests and association with water use eficiency[J].Funct Ecol, 32(1):20-28.  \nLIU J,LIJM, YU H, et al, 2o10.The relationship between functional traitsand invasivenessof alien  \nPlants[J].Biodiv Sci,18(6):569-576.[刘建,，李钧敏，余华，等，2010．植物功能性状与外来植物入侵[J]．生物多样性，18（6)：569-576.]  \nLIU RJ, TAGN M, CHEN YL, 2017. Recent advances in the study of mycorrhizal fungi and stressresistance of plants[J].JFung Res,15(1):70-88.[刘润进，唐明，陈应龙，2017．菌根真菌与植物抗逆性研究进展[J]．菌物研究，15（1)：70-88.]  \nLIU W,DU WL, SU Y, et al, 2017. Design and analysis of a plant root soil composite in situ sheartest devices[J].JAgri Mech Res,1:82-86.[刘薇，杜文亮,，苏禹，等，2017．植物根一土复合体原位剪切试验装置的设计与分析[J]．农机化研究，1：82-86.]  \nLIU XJ,MAKP,2015.Plantfunctional traits-concepts,aplications and future directions[J]. SCI SINICA Vitae,45(4):325-339.[刘晓娟和马克平,2015．植物功能性状研究进展[J]．中国科学:生命科学,45(4):325-339.]MA WT& LIH,2016. Development trend analysis on carbon nanotube fibers research [J].Sci Fouc,11(3): 23-31.[马梧桐和李宏，2016．碳纳米管纤维研究发展态势分析[J]．科学观察，11（3)：23-31.]  \nMENG TT,NI J, WANG GH, 2007.Plant functional traits environments and ecosystem functioning [J]. Chin JPlant Ecol 31(1):150-165.[孟婷婷，倪健，王国宏，2007．植物功能性状与环境和生态系统功能[J]．植物生态学报，31（1)：150-165.]  \nOSTERTAG R，WARMAN L, CORDELL S,et al,2015. Using plant functional traits to restore Hawaiianrainforest [J]. J. Appl Ecol, 52(4): 805-809.  \nPEI NC， ZHANG JL，MI XC,et al,2011. Plant DNA barcodes promote the development of phylogeneticcommunity ecology[J].Biodiv Sci,19(3):284-294.[裴男才，张金龙，米湘成，等，2011．植物 DNA条形码促进系统发育群落生态学发展[J].生物多样性，19（3)：284-294.]",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PEREZ HN,DIAZ S,GARNIERE,etal,2013.New handbook for standardised measurement of plant functional traits worldwide[J].AustJBot., 61(3):167-234. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "REICHPB,WRIGHT IJ,CAVENDER-BARES J,et al,20O3.The evolution of plant functional variation: traits, spectra, and strategies [J]. Int JPlant Sci.,164(3): S143-S164. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "REICHSTEMM,BAHNM, MAHECHA M,et al,2014.Linking plant and ecosystem functional biogeography[J] P Natl Acad Sci USA,111(38): 13697-13702. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "ROSCHER C，SCHUMACHER J，CUBSCH M,et al，2012.Using plant functional traitsto explaindiversity-productivity relationships [J]. PloS One,7(5): e36760.  \nSHI Y,WEN ZM, GONG SH,2011. Comparisonsof relationships between leaf and fine root traits in hilly area ofthe Loess Plateau,Yanhe River basin,Shaanxi Province,China[J].Acta Ecol Sin,31(22): 6805-6814.施宇,温仲明，龚时慧，2011．黄土丘陵区植物叶片与细根功能性状关系及其变化 [J].生态学报，31（22):6805-6814.]SUN J &,YUAN BZ,2015.Bibliometrics analysis of drip irigation academic research [J]. Chin Agric Sci Bull,31(19):237-345.[孙颉和原保忠，2015．滴灌研究文献计量学分析[J]．中国农学通报，31（19)：237-345.]TAN HD,LIN RL, ZHU YX,et al, 2016.In situ Determination of anthracene adsorbed ontomangrove root surface micro-zone using microscopic fluorescence spectrometric analysis system[J].Chin JAnal Chem,44(8):1281-1285.[谭华东，李锐龙，朱亚先，等，2016．显微荧光光谱原位测定红树植物根表面微区中的蒽[J]．分析化学，44（8)：1281-1285.]  \nTANG X & ZHANG ZQ,2016.A bibliometrical analysis of oasis research [J].Acta Ecol Sin,36(10): 3115-3122.[唐霞和张志强，2016．基于文献计量的绿洲研究发展态势分析 [J]．生态学报，36（10)：3115-3122.]Tian M,Yu GR,He NP, Hou JH,et al,2016.Leaf morphological and anatomical from tropical to temperateconiferous forests: Mechanisms and influencing factors [J]. Sci Rep, 6: 19703.  \nWANG DD, XU YM, YUE SP, et al,2016. Plant root detection based on ground penetrating radar: Areview [J]. JNanjing Univ Inf Sci&Tech: Nat SciEd,8(1):46-55.[王丹丹，徐永明，岳书平，等，2016.基于探地雷达的植物根系探测研究进展[J]．南京信息工程大学学报：自然科学版，8（1)：46-55.]  \nWANG LW, ZHENG WJ, ZHAO JD,2014. A bibliometrical analysis of aluminum ore exploration research [J].Resour Sci,36(3):653-659.[王立伟，郑卫军，赵纪东，等，2014.基于文献计量的铝矿科技发展态势分析 [J].资源科学，36（3)：653-659.]  \nWANG RL,YU GR,HE NP,et al,2016.Latitudinal variation of leaf morphological traits from species tocommunities along a forest transect in eastern China [J]. JGeogr Sci, 26(1): 15-26.  \nYAO XY,HU YS,LIU YH,2014.Plant functional traitsand functional diversitiesof diferent communities inbroad-leaved Korean pine forests in the Changbai Mountain[J].JNorthwest A&F Univ:Nat SciEd,42(3): 77-84.[么旭阳，胡耀升，刘艳红，2014.长白山阔叶红松林不同群落类型的植物功能性状与功能多样性[J]．西北农林科技大学学报：自然科学版，42（（3)：77-84.]  \nZHANG JH,LUO YY, CHANG ZQ,2015.Research on the ecosystem carbon exchange: an analysis based onbibliometrics method[J].Ecol Environ,24(12):2082-2088.[张静辉，罗亚勇，常宗强，2015．基于文献计量的",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "生态系统碳交换研究发展态势分析 [J].生态环境学报，24（12)：2082-2088.]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ZHANG LL, GONG J, ZHANG Y,2016.A review of ecosystem services: a bibliometric analysis based on web ofscience[J].Acta Ecol Sin,36(18):5967-5977.[张玲玲，巩杰，张影，2016.基于文献计量分析的生态系统服务研究现状及热点[J].生态学报，36（18)：5967-5977.]  \nZHAO XF,XUHL,ZHANGP,et al,2014.Influence of nutrientand water additions on functional traitsof Salsolanitraria in desert grassland[J].Acta Phytoecol Sin,38(2):134-146.[赵新风，徐海量，张鹏，等，2014.养分与水分添加对荒漠草地植物钠猪毛菜功能性状的影响 [J]．植物生态学报，38（2)：134-146.]  \nZHENG Y,WEN ZM, SONG G, et al, 2014. The influence of environment and phylogenic background onvariation in leaf andfine roottraits in the Yanhe River catchment,Shaanxi, China[J].Acta Ecol Sin,2O14,34(10):2682-2692.[郑颖，温仲明，宋光，等，2014.环境及遗传背景对延河流域植物叶片和细根功能性状变异的影响[J].生态学报，34（10)：682-2692.]  \nZHOU DW，2009.A phylogenic approach to comparative functional plant ecology [J]. Acta Ecol Sin, 29(10):5644-5655.[周道玮，2009．植物功能生态学研究进展 [J].生态学报，29（10)：5644-5655.]  \nZOU XX, ZHANG XJ, WANG ML,et al,2018.Effects of soil bulk density on root growth traits and endogenoushormones contents in peanut (Arachis hypogaea)[J].JPlant Physiol,54(6):1130-1136.[邹晓霞，张晓军，王铭伦,等,2018．土壤容重对花生根系生长性状和内源激素含量的影响 [J].植物生理学报,54(6)：1130-1136.]",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201601010002 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滕嘉玲,贾荣亮,赵芸.沙埋对干旱沙区真藓结皮层细菌群落结构和多样性的影响.生态学报,2017,37(7):2179-2187. TengJL,JiaRaoactofndrialocteialoityucueddversiiinocustsdatedygtcta Ecologica Sinica,2017,37(7):2179-2187. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙埋对干旱沙区真藓结皮层细菌群落结构和多样性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "滕嘉玲²，贾荣亮，\\*，赵芸1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院寒区旱区环境与工程研究所，沙坡头沙漠试验研究站，兰州730000  \n2中国科学院大学，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：作为干旱沙区常见干扰之一的沙埋显著影响着生物结皮的结构和功能,但其内在的生物学机理还不清楚。利用高通量测序技术,通过对0(对照)、0.5(浅层）、2和 $1 0 ~ \\mathrm { m m }$ （深层)沙埋处理后的腾格里沙漠东南缘沙坡头地区真藓（Bryum argenteum）结皮层细菌群落物种组成与丰度的测定,研究了沙埋对真藓结皮层细菌群落结构和多样性的影响。结果表明：（1）共检测到沙坡头地区真藓结皮层细菌38门106纲181属，以放线菌、变形菌、蓝藻、浮霉菌、拟杆菌和酸杆菌等为主（占细菌群落的 $7 8 . 4 \\%$ 一$8 3 . 0 \\%$ );(2）PCA分析表明沙埋导致该地区真藓结皮层细菌群落结构组成发生明显改变。无沙埋时,真藓结皮层细菌群落中相对丰度最高的是蓝藻( $1 8 . 6 \\%$ ),随着沙埋厚度的增加，依次变为变形菌( $2 1 . 5 \\%$ ，沙埋厚度 $0 . 5 \\ \\mathrm { m m }$ ）、浮霉菌( $2 1 . 5 \\%$ ，沙埋厚度 $2 ~ \\mathrm { m m }$ )和放线菌( $2 3 . 3 \\%$ ，沙埋厚度 $1 0 \\ \\mathrm { m m }$ );浅层沙埋显著增加了真藓结皮层细菌群落中光合菌、固氮菌和产菌丝体细菌等关键功能菌的丰度,但深层沙埋降低了它们的丰度；（3）沙埋显著增加了真藓结皮层细菌群落多样性( $P { < } 0 . 0 5 \\dot  \\$ 和物种丰富度（ $P { < } 0 . 0 5 )$ ， $0 . 5 ~ \\mathrm { m m }$ 沙埋后的细菌群落丰富度指数最高， $2 ~ \\mathrm { m m }$ 沙埋后的结皮层细菌群落多样性指数最高。揭示了沙埋对干旱沙区真藓结皮层细菌群落结构与多样性的影响,为深入理解沙埋对沙区生物结皮结构和生态功能影响的生物学机制提供了一定的理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：真藓结皮；高通量测序技术；沙埋；细菌；群落结构和多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Impact of sand burial on bacterial community structure and diversity within biocrusts dominated by Bryum argenteum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TENG Jialing1²，JIA Rongliang1,\\*，ZHAO $\\mathrm { Y u n } ^ { 1 , 2 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1hapotoDeseseadEperitalttooldArdgootaldginReseciteide Sciences，Lanzhou 73000O，China   \n2 University of Chinese Academy of Sciences，Beijing10oo49,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Bacteria，as a key component of biocrusts，which constitute up to or more than $70 \\%$ of the living cover in arid andsemiarid lands worldwide,playthe primaryrole incarbonandnitrogen inputs in deserts.Thus，changes in bacterial community structureand diversitycansignificantlyaltertheirecologicalprocessesandthefunctionsofbiocrusts.Sandburial isacommonenvironmental stressofthebiocrusts inaridandsemiaridareas，yet itle informationisavailableregardingthe efectsof sand burialonbacterialcommunitystructureanddiversitywithin biocrusts.Therefore，weadopted the highthroughputsequencingtechniques to investigatetheeffectsofsandburialonbacterialcommunitystructureanddiversityof biocrusts dominated by Bryum argenteum following sand burial of O（control）,O.5，2 and $1 0 ~ \\mathrm { m m }$ in Shapotou，southeastern edge of the Tengger Desert.Bacterial community species composition,abundance variation,and diversity indices including the Shannon-Wiener diversity and the richness indices Chao and abundance-based coverage estimator were compared among biocrusts thatsuferedsandburialatvariousdepths.Theresultsshowed thefolowing：（1）Intotal,38phyla,16classes, and 181 genera were identified within biocrusts dominated by $B$ ，argenteum，of which the dominant bacterial phyla included Actinobacteria，Proteobacteria，Cyanobacteria，Planctomycetes，Bacteroidetes，andAcidobacteria，whichcomprised78. $4 \\%$ 1 $8 3 . 0 \\%$ of the whole community.（2）Principal component analysis showed that，compared to the control,the bacterial community structure was the most variable in soils at 2 and $1 0 \\ \\mathrm { m m }$ depths.Sand burial induced significant changes in bacterial communitycomposition；with the highestabundancewere Cyanobacteria，Proteobacteria，Planctomycetesand Actinobacteria following O,O.5，2 and $1 0 ~ \\mathrm { m m }$ burial depths，respectively.With the increase in burial depth，the relative abundanceofActinobacteria，Proteobacteria，Planctomycetes，Bacteroidetes，Verrucomicrobia，Gemmatimonadetes，and FBP increased，while thatof thephyla Cyanobacteria，Acidobacteria，and Chloroflexi decreased.Inadition，the abundaneofphotosytheticbacteria，itrogenfixingbacteria，ndmyelialgeneraofActinobacteriaallincreasedlargelyat 0.5 mm burial depth and decreased sharply at 2 and $1 0 \\ \\mathrm { m m }$ burial depths.（3）The total count of bacteria，species richness，and microbial diversity of biocrusts dominated by $B$ . argenteum increased following sand burial，among which the biocrusts subjected to O.5 mm burial depth had the highest richness indices and biocrusts subjected to $2 ~ \\mathrm { m m }$ burial depth had the highest diversity indices.The study demonstrated thatvarious depthsof sand burial hadsignificant eectson bacterial community and diverse features within biocrusts dominated by $B$ ．argenteum in Shapotou and thus offered the theoretical foundation forfurtherunderstandingoftheinfluencemechanismofsandburialonthe structureandecological functions of biocrusts in arid desert areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Bryumargenteum；high-throughput sequencing techniques；sand burial；bacteria；community structure and diversity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物结皮是由隐花植物如蓝藻、其他藻类、地衣、苔藓类和土壤细菌、真菌，以及相关的其它生物体通过菌丝体、假根和分泌物等与土壤表层颗粒胶结形成的十分复杂的复合体[1]。作为沙区生态系统组成和地表景观的重要特征,生物结皮在不同生物气候区的沙区景观、土壤生态、土壤水文、土壤生物和地球化学循环过程，以及干旱半干旱地区生态修复过程中发挥着重要作用[1]。由于所处地表生境、低矮结构和变水植物的特点，生物结皮的结构和功能容易受到环境和干扰因素的影响[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "风沙掩埋是干旱沙区生物结皮经常遭受的干扰之一[3]。已有研究表明,沙埋不仅显著改变藓类结皮生物量积累、生长和演替[3],降低蓝藻结皮的胞外多糖含量和总糖储备[45],还影响结皮的光合速率[3]、温室气体通量[6]及蓝藻结皮中氮的生物有效性[7]等生态功能的发挥。沙埋是如何对结皮的生态功能产生影响,其机理又如何？目前已有研究发现,沙埋可以改变结皮所处土壤温度[8]、土壤湿度[9]、水汽凝结[8]、光照和 $\\mathrm { ~ O } _ { 2 }$ 浓度等环境条件[10]。但除了这些环境因子变化以外,我们知道,上述生理活动过程均有微生物参与,而在生物群落水平上,有研究发现沙埋可能增加土壤微生物数量,改变微生物群落结构[11]。那么,沙埋是否会通过影响生物结皮层微生物群落结构和多样性,从而影响这些生物结皮功能呢？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细菌作为生物结皮层中数量最多的微生物种群,在结皮的养分循环、碳氮固定和有机质分解中发挥关键作用,其群落结构和多样性可以敏感地反映沙区的生态功能和环境变化[12-13]。例如,光合细菌[14]参与结皮的碳循环过程,可提高沙区生态系统生产力;固氮菌[15]增加结皮的固氮能力,使其更适应氮贫乏的沙区生态系统;胞外多糖产生菌兼具增加土壤碳水化合物的储备[16]、防止噬菌体与原生动物的攻击、胶结沙粒[15]和稳定土壤团聚体[12]等多重功能；一些能被生物结皮中变形虫等原生动物捕食的细菌也是土壤食物网的重要一环[17]。因此,研究生物结皮层细菌群落结构及多样性能够为更深入理解生物结皮生态功能提供重要信息。但是,目前对生物结皮层细菌群落的研究主要集中在干旱和半干旱区的蓝藻结皮及其初级生产者,关于其他类型结皮和结皮中异养生物体和干扰对结皮微生物群落的研究则相对较少[18-23]。虽然自 20 世纪60 年代起就有了关于结皮层微生物研究[24-30],这些研究为我们认知生物结皮中的细菌群落提供了基础资料,但都是基于传统研究方法，大量微生物的不可培养性是传统微生物生态学在揭示自然界微生物群落结构、生态功能及其相互关系研究中的最大障碍[31]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着分子生物学理论与技术在微生物生态学研究中的不断渗透,土壤微生物多样性的研究有了新的突破,大量未被认知的微生物新物种及其新功能得到鉴定和应用。高通量测序技术作为核酸测序研究的一次革命性技术创新,为更加全面、准确和深入挖掘微生物群落组成提供了新的科研方法和解决方案,生物结皮层微生物群落结构和功能的研究也因此进人了一个新的篇章[32]。但目前的这些研究大多集中于对不同生境下生物结皮层微生物群落的探索,如Maier等[33利用454 焦磷酸测序法研究了西班牙塔韦尔纳斯盆地地衣结皮的原核微生物群落结构与多样性,并且比较了藓类结皮层与结皮覆盖土壤中微生物群落结构的差异,Abed等[34]比较了澳大利亚南部盐湖沉积物和邻近生物结皮层风尘中的微生物群落,Angel等[3]研究了模拟降水后结皮层微生物群落的复苏过程,Dojani等[3]探索了南非干旱草原生物结皮层蓝藻的多样性,有关沙埋对生物结皮层细菌群落的影响鲜见报道。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究以腾格里沙漠东南缘沙坡头人工植被区生长的优势藓类结皮——真藓(Bryum argenteum Hedw.)结皮为研究对象,利用高通量测序技术研究了不同厚度沙埋处理对真藓结皮层细菌群落结构和多样性的影响,以期揭示该区沙埋干扰后真藓结皮层微生物群落多样性与结构变化特征,为进一步认知沙埋对沙区土壤微生物群落功能的影响和深人理解沙埋生物结皮结构和生态功能影响机理提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究地区与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试生物结皮采集自中国科学院沙坡头沙漠试验研究站包兰铁路以北的人工植被区( $3 7 ^ { \\circ } 3 2 ^ { \\prime } \\mathrm { ~ N ~ }$ ， $1 0 5 ^ { \\circ } 0 2 ^ { \\prime }$ E）。该区海拔 $1 3 3 0 \\mathrm { ~ m ~ }$ ,多年平均气温 $9 . 6 ~ \\mathrm { ^ { 9 ~ C } }$ ,年平均降水量 $1 8 6 . 5 ~ \\mathrm { m m }$ ,降水主要集中在5一9月；年蒸发量2300— $2 5 0 0 ~ \\mathrm { m m }$ ,土壤稳定含水量为 $2 \\%$ 一 $3 \\%$ 。该区人工固沙植被始建于1956年，并于1964、1981和1987年多次扩建。主要固沙灌木、半灌木为：柠条（Caragana korshinskii）、花棒（Hedysarum scoparium）和油蒿（Artemisia ordosica）,主要优势草本植物有:小画眉草（Eragrostis poaeoides）雾冰藜（Bassa dasyphylla）和刺沙蓬（Salsola ruthenica）。盖度较大且发育良好的藓类、藻类和地衣主要有真藓（Bryum argenteum）、土生对齿藓（Didymodon-vinealis）、刺叶赤藓（Syntrichiacaninervis）[37-38]、具鞘微鞘藻（Microcoleus vaginatus）、隐头舟形藻（Navicula cryptocephala）隐鞘鞘丝藻（Lyngbyacryptovaginatus）、爪哇伪枝藻（Scytonema javanicum）[39]、石果衣（Endocarpon pusillum）和糙聚盘衣（Glypholecia scabra）[40]。真藓结皮作为藓类先锋种,也是该区分布最广泛的藓类，盖度达到 $6 0 \\%$ 以上。试验采用分布于1964年建植的人工植被区迎风坡的真藓结皮。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 沙埋处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2014年5月初在研究区内选择试验样本进行沙埋处理。在研究区内的迎风坡随机选择真藓结皮覆盖区域,将12个直径 $2 0 ~ \\mathrm { c m }$ 、深度 $1 0 \\ \\mathrm { c m }$ 的PVC 管随机插入真藓结皮土壤,沙埋处理前先人工去除结皮外的其他草本和枯枝落叶,然后采用体积/表面积法进行0（control) $, 0 . 5 , 2 , 1 0 \\ \\mathrm { m m } \\ 4$ 个厚度的沙埋处理,使得PVC 管的上边缘高于内部真藓结皮或敷沙表面 $0 . 5 ~ \\mathrm { c m }$ 。每个处理设3个重复,沙埋时确保沙子均匀洒在结皮上[3]。对每个样本进行标记、编号、拍照,试验过程中管内沙子覆盖如有剧烈变化(如大风天气后),根据记录和照片，利用增添沙子或用软毛刷抚平等方法尽量使其恢复原状。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品采集于2014年10月进行,采集时用无菌毛刷轻轻扫去真藓结皮表面的敷沙,将直径 $3 5 ~ \\mathrm { m m }$ 的无菌培养皿倒扣在结皮表面,取PVC 管中心位置(避免边缘效应) $^ { [ 1 1 ] } 1 \\ \\mathrm { c m }$ 左右厚度的生物结皮样品。按照五点采样法,每个沙埋处理的真藓结皮采集5份土样,混合均匀作为一个样品，过 $2 ~ \\mathrm { m m }$ 土筛后装于无菌自封袋,",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用干冰冷藏，带回实验室后存放于 $- 2 0 \\%$ 的冰箱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4DNA提取与16SrRNA基因扩增 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用PowersoilDNA Isolation Kit（MoBio，USA)提取土壤总 DNA,经紫外分光光度计测定其浓度和纯度后，再用琼脂糖凝胶电泳检测DNA样品的完整性，最后置于 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱中保存备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取细菌通用引物 $5 2 0 \\mathrm { F }$ （5-AYTGGGYDTAAAGNG-3）和 802R（5-TACNVGGGTATCTAATCC-3）对细菌16SrDNA的V4高变区片段进行扩增,PCR条件如下： $9 8 ~ \\mathrm { { ^ { \\circ } C } }$ 预变性 $3 0 ~ \\mathrm { s }$ ,按 $9 8 ~ \\mathrm { { ^ { \\circ } C } }$ 变性 $3 0 \\mathrm { ~ s ~ } , 5 0 \\mathrm { ~ \\textdegree C }$ 退火 $3 0 \\mathrm { ~ s ~ } , 7 2$ $\\mathcal { \\mathrm { C } }$ 延伸 $3 0 \\mathrm { ~ s ~ }$ 循环27次，最后 $7 2 ~ \\mathrm { ^ { \\circ } C }$ 延伸 $5 ~ \\mathrm { m i n }$ 。PCR产物经 $2 \\%$ 琼脂糖凝胶电泳检测后 $4 \\mathrm { { ^ \\circ C } }$ 保存备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 高通量测序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将PCR产物经定量等质量控制后,建Illumina 测序文库,采用Illumina Miseq平台进行测序(委托上海派森诺生物科技有限公司完成）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6生物信息学分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先对原始数据进行质量过滤和双端序列的连接，对连接上的序列进行过滤和去除嵌合体，然后对得到的优质序列在 $9 7 \\%$ 的相似水平上进行操作分类单元（Operational Taxonomic Unit，OTU）的聚类和注释。特定的分类单元代表某特定物种,基于OTU聚类和注释的分析结果,绘制稀释曲线,进行多样性指数分析。Alpha多样性是指一个特定区域或生态系统内的多样性,根据OTU表中的各样品物种丰度情况,应用软件mothur 计算生物多样性指数 Chao、Ace 和 Shannon,利用软件Qiime 生成不同分类水平上的物种丰度表和多样品物种分布图。对属水平上的分类及物种丰度进行主成分分析,利用软件R绘制PCA 图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用单因素方差分析法(One-way ANOVA)比较不同沙埋厚度处理的真藓结皮层细菌群落的 Alpha 多样性指数（Chao，Ace and Shannon）和不同分类水平下的细菌丰度差异,显著性检验采用最小显著差异法（LSD法）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1沙埋对真藓结皮层细菌群落多样性的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对所有原始序列进行质量控制处理后(包括过滤、连接和去除嵌合体),低质量序列被删除,得到最终用于后续分析的优质序列。12个样本共获得 532632个优质序列,文库的平均大小是44386个序列。12个样本的OTU数目和多样性指数都在 $9 7 \\%$ 的相似水平下计算，共获得4209个OTUs,数目从2858—3079，分属于38个门，106个纲，181个属。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用Alpha多样性分析结皮层细菌群落丰富度和多样性。结皮层细菌群落的丰富度指数Chao和Ace 指数变化特征一致： $0 . 5 ~ \\mathrm { m m } { > } 2 ~ \\mathrm { m m } { > } 1 0 ~ \\mathrm { m m } { > }$ 无沙埋,沙埋显著增加了真藓结皮层中细菌群落的物种丰富度( $P <$ 0.05，表1）,并且物种丰富度的增加随沙埋厚度的增加而降低。细菌群落多样性指数 Shannon指数： $2 \\ \\mathrm { m m } > 1 0$ $\\mathrm { m m } { > } 0 . 5 ~ \\mathrm { m m } { > }$ 无沙埋,沙埋显著增加了真藓结皮层细菌群落的多样性指数( $P { < } 0 . 0 5$ ，表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/87af5939f1c052b74cedcede8e32043ddc80c56832aa1627035bb64501238aa5.jpg",
+        "table_caption": [
+            "表1沙埋对生物结皮层细菌群落多样性指数的影响",
+            "Table1 Effectsof sand burial onrichnessand diversity indices of bacterial communities within biocrusts "
+        ],
+        "table_footnote": [
+            "平均值 $\\pm$ 标准误差， $n = 3$ ，,不同字母表示在 $\\scriptstyle P < 0 . 0 5$ 水平下有显著差异"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">沙埋厚度/mm Treatments</td><td colspan=\"2\">丰富度指数 Richness index</td><td rowspan=\"2\">多样性指数 Diversity index Shannon-Wiener</td><td>覆盖率</td></tr><tr><td>Chao</td><td>Ace</td><td>Coverage</td></tr><tr><td>0(Control)</td><td>3464.59±21.16 a</td><td>3509.78±4.01 a</td><td>5.62±0.02 a</td><td>0.98±0.01</td></tr><tr><td>0.5</td><td>3715.12±1.39 b</td><td>3774.06±2.64 b</td><td>6.21±0.01 b</td><td>0.98±0.01</td></tr><tr><td>2</td><td>3613.62±8.59 c</td><td>3584.85±7.04 c</td><td>6.54±0.04 c</td><td>0.98±0.01</td></tr><tr><td>10</td><td>3554.45±11.80 d</td><td>3579.44±0.06 c</td><td>6.48±0.16 c</td><td>0.98±0.01</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2沙埋对真藓结皮层细菌群落结构的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对各样本细菌群落分别进行门和纲分类水平上的群落组成分析。在门的水平上，比例大于 $1 \\%$ 的门被选了出来,剩余序列归为Other（图1A）。结果显示,真藓结皮层的优势菌群包括放线菌（Actinobacteria,",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 5 . 3 \\% - 2 3 . 3 \\%$ ）、变形菌（Proteobacteria， $1 7 . 0 \\% - 2 1 . 5 \\%$ ）、蓝藻（Cyanobacteria， $0 . 7 \\% - 1 8 . 6 \\%$ ）、浮霉菌(Planctomycetes, $8 . 8 \\% - 2 1 . 5 \\%$ ）、拟杆菌（Bacteroidetes， $9 . 0 \\% - 1 6 . 9 \\%$ ）和酸杆菌门（Acidobacteria， $6 . 5 \\%$ 一$1 2 . 5 \\%$ ),这6种菌占了真藓结皮层细菌群落的 $7 8 . 4 \\% - 8 3 . 0 \\%$ （图1)。无沙埋时，真藓结皮层细菌群落中相对丰度最高的是蓝藻,随着沙埋厚度的增加,依次变为变形菌( $0 . 5 \\ \\mathrm { m m } ^ { \\cdot }$ ）、浮霉菌( $2 ~ \\mathrm { m m } ^ { \\cdot }$ )和放线菌( $1 0 \\ \\mathrm { m m }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/085f8f93b95d9da9b6fc792bed478f376022f3d47ea0c83f5f72e400a261d37b.jpg",
+        "img_caption": [
+            "图1不同沙埋处理真藓结皮层细菌在门(A)和纲(B)分类水平上群落组成"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Relativeabundancesofiferentphyla（A）andclasses（B）inthebacterialcommunitieswithinbiocrustsfollowigsandburial ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同样地,在纲分类水平上丰度最高的10 种细菌也被选了出来（图1B)。优势菌纲包括 $\\propto$ -变形菌纲(Alphaproteobacteria, $1 3 . 4 \\% - 1 5 . 5 \\%$ ）、放线菌纲（Actinobacteria， $8 . 6 \\% - 1 1 . 4 \\%$ ）、Chloroplast( $0 . 3 \\% { - } 1 5 . 5 \\%$ ）、浮霉菌纲（Planctomycetia, $4 . 2 \\% - 1 1 . 5 \\%$ ）和Phycisphaerae( $3 . 2 \\% - 9 . 9 \\% )$ 。随沙埋厚度的增加,真藓结皮层纲水平上丰度最高的菌群由蓝藻门的Chloroplast 变为了 $\\propto$ -变形菌。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过门和纲水平上的细菌群落组成(图1)可看出，无沙埋和 $0 . 5 \\ \\mathrm { m m }$ 沙埋真藓结皮层细菌群落更相似，2$\\mathbf { m } \\mathbf { m }$ 和 $1 0 ~ \\mathrm { m m }$ 沙埋结皮层细菌群落相似性更高。通过PCA分析，发现了相似的结果（图2）。PCA的前两轴解释了 $7 1 . 4 9 \\%$ 的群落变异，不同厚度沙埋处理的结皮层细菌群落与对照相比都发生了明显的位置变化，但又被分为两组。无沙埋和 $0 . 5 ~ \\mathrm { m m }$ 浅层沙埋处理在一端聚在一起， $2 ~ \\mathrm { m m }$ 和 $1 0 \\ \\mathrm { m m }$ 沙埋处理在另一端聚在一起,说明沙埋可导致真藓结皮层细菌群落的显著变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3沙埋对真藓结皮层细菌门水平物种丰度的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "沙埋后丰度增加的门类包括放线菌（Actinobacteria）、变形菌（Proteobacteria）、浮霉菌（Planctomycetes）、拟杆菌（Bacteroidetes）、疣微菌（Verrucomicrobia）、芽单胞菌（Gemmatimonadetes）和",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff2ce9ec676c098f6efa69526875af7e1f6e39a19c3d58fed6af7b9aad0881ce.jpg",
+        "img_caption": [
+            "图2不同沙埋处理真藓结皮层细菌群落的主成分分析 Fig.2Principal components analysis（PCA）of the bacterial communities within biocrusts following sand burial "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FBP（图3）。其中浮霉菌相对丰度的增加在2和 $1 0 ~ \\mathrm { m m }$ 沙埋后达到显著水平( $P { < } 0 . 0 5 )$ ,FBP的相对丰度的增加在0.5 和 $1 0 ~ \\mathrm { m m }$ 沙埋后达到显著水平( $\\scriptstyle P < 0 . 0 5$ ，图3）。沙埋后丰度降低的种包括蓝藻（Cyanobacteria）、酸杆菌（Acidobacteria)和绿弯菌（Chloroflexi）,其中只有蓝藻的相对丰度在2和 $1 0 \\ \\mathrm { m m }$ 沙埋后显著降低( $P <$ 0.05，图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/30728217f1ee8bb1672ad7bd8b0e38b15b87724202c65d8c50026dc6a06bcf47.jpg",
+        "img_caption": [
+            "图3沙埋对真藓结皮门水平上物种相对丰度的影响",
+            "Fig.3Effects of sand burial on abundant phyla( $> 1 \\%$ of OTUs）of bacterial communities within biocrusts "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "放线菌中产菌丝体属Geodermatophilus、Nocardioides 和Pseudonocardia 的丰度在 $0 . 5 \\ \\mathrm { m m }$ 沙埋后显著增加（ $P { < } 0 . 0 5 )$ ,但当沙埋厚度增加时,其相对丰度则显著下降( $P { < } 0 . 0 5 )$ 。蓝藻门中丰度最高的是产氧光合藻类一—席藻（Phormidium），同样地，它的丰度在 $0 . 5 ~ \\mathrm { m m }$ 厚度沙埋后显著增加,但在更深的沙埋后丰度急剧下降。不产氧的光合菌如Methylobacterium和Belnapia也是在 $0 . 5 \\ \\mathrm { m m }$ 厚度沙埋后显著增加,但在更深的沙埋后出现下降趋势。人们的所有样本中均未检测到丝状蓝藻——微鞘藻属（Microcoleus)的存在。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了优势菌群外,沙埋显著增加了真藓结皮层的硝化螺旋菌丰度。固氮菌 Nostoc 和 Scytonema 在 $0 . 5 \\ \\mathrm { m m }$ 厚度沙埋后显著增加，但在更深的沙埋后出现下降趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大量微生物的不可培养是传统微生物生态学研究的最大障碍,因而,传统的研究方法往往会低估土壤微生物的群落结构和多样性,无法深入详细描述出其群落结构组成方面的信息[41]。近年来,随着非传统培养方法和新一代测序技术的快速发展,对土壤微生物的研究也更加全面、精确。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同研究者通过对浑善达克沙地[15]、索诺兰沙漠[20]、科罗拉多高原[18]和贺兰山地区[42]结皮层细菌群落的研究发现,蓝藻、变形菌和放线菌是各个研究区生物结皮中普遍存在的细菌类群。我们对沙坡头地区真藓结皮的研究及Wang等[43]对沙坡头地区地衣结皮的研究结果与前人基本一致,但不同研究区结皮层的优势菌群存在差异。沙坡头地区真藓结皮层的优势菌群主要是放线菌,浑善达克沙地结皮中变形菌则占优势地位,索诺兰沙区、科罗拉多高原和贺兰山的结皮中蓝藻是丰度最高的细菌。之前已有研究表明,土壤微生物群落组成受到特定生境环境因素,如土壤 $\\mathrm { p H } ^ { [ 4 4 - 4 5 ] }$ 、土壤水分含量[46]、碳有效性[47]和含盐量等的影响[44,48]。因此,上述不同地区生物结皮的细菌群落结构差异可能是由于不同生境的环境因素差异所致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "沙埋改变生物结皮所处的环境条件,如土壤温度、土壤湿度、光照、 $\\mathrm { ~ O } _ { 2 }$ 浓度和露水沉降等[3,8,11],从而影响结皮生物生理活动。由于结皮生物体的死亡、蓝藻细胞的自我溶解及其导致的胞外氮释放,长时间的沙埋可能增加藻类结皮的生物可利用氮含量[7]。Rao 等[5]研究发现沙埋可以小幅度增加土壤 $\\mathrm { \\ p H }$ 和土壤湿度,且已有大量的研究表明,土壤的物理化学性质,如营养物质的有效性[50、土壤 $\\mathrm { \\ p H } ^ { [ 5 1 ] }$ 和气候条件（如温度和日照时间)[52]等对细菌的多样性和群落结构有着广泛的影响[49],所以,沙埋势必会对结皮层微生物群落结构和多样性造成影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文的研究表明,沙埋对真藓结皮层细菌群落结构和多样性均造成了显著影响,各个厚度的沙埋均增加了真藓结皮层细菌群落丰富度(表1)。造成变化的原因可能是因为沙埋降低了太阳辐射强度,减少了水分蒸发,增加了土壤湿度[5],从而为群落中的细菌提供了一个较适宜的生存环境造成的。但 $0 . 5 ~ \\mathrm { m m }$ 沙埋后的真藓结皮层细菌群落丰富度显著高于 $2 ~ \\mathrm { m m }$ 和 $1 0 ~ \\mathrm { m m }$ 沙埋后的结皮(表1)，这可能是因为 $0 . 5 \\ \\mathrm { m m }$ 沙埋除了适度降低辐射、减少蒸发外,并未使结皮与空气和光照隔绝,为蓝藻等光合菌和好氧菌提供了相对适宜的环境，也为原本不适于生长发育在此地的某些细菌种群提供了适宜的生存环境,提高了其在群落中的优势度,从而增加了群落丰富度。同样地,真藓结皮层细菌群落多样性在沙埋后也显著增加,但 $0 . 5 ~ \\mathrm { m m }$ 沙埋结皮的群落多样性显著低于其他两个厚度( $2 \\ \\mathrm { m m }$ 和 $1 0 \\ \\mathrm { m m }$ )的沙埋。群落多样性包含物种丰富度和均匀度两个概念。0.5mm 沙埋虽然增加了结皮层细菌群落中物种的丰富度,但可能降低了其物种分布的均匀度。 $0 . 5 \\ \\mathrm { m m }$ 厚度的沙埋为生物结皮层的微生物提供了一个相对较适宜的环境,促进了各个菌群的发展,但有限的资源势必会引起各菌群对营养物质的竞争,进而导致各菌种丰度的差异,物种分布的均匀度随之降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蓝藻、放线菌和变形菌是腾格里沙漠人工植被区真藓结皮层中丰度最高的菌种(图3)。但随着沙埋厚度的增加,蓝藻丰度逐渐下降,变形菌、浮霉菌、放线菌的丰度随沙埋增加,并依次成为 $0 . 5 \\cdot 2 \\cdot 1 0 \\ \\mathrm { m m }$ 厚度沙埋处理下真藓结皮层的优势种（图3）。一方面,虽然蓝藻可以在干旱环境下生存很长时间,但在干旱期间,沙埋所造成的湿度增加可能通过调节细菌的呼吸代谢过程,增强其分解作用,进而导致胞外多糖(EPS)的降解。另一方面,蓝藻细胞沙埋后由于缺少足够的光去激活光合作用,也易发生自溶[6。而两方面的共同作用最终使群落中的蓝藻丰度下降。一般而言,成熟的生物结皮中蓝藻优势属是 Nostoc 属和 Scytonema 属[42]。但沙坡头地区真藓结皮层丰度最高的蓝藻是席藻属（Phormidium）,它的丰度在 $0 . 5 \\ \\mathrm { m m }$ 厚度沙埋后显著增加,在更深的沙埋后又急剧下降。虽然微鞘藻属（Microcoleus)广泛存在于结皮中,但我们的所有样本中均未检测到其存在,而瘦鞘丝藻属(Leptolyngbya)是真藓结皮中丰度最高的丝状蓝藻。由此可见,不同地区的结皮可能选择不同的丝状蓝藻作为主导的细菌成员[33]。有研究表明[53-55],，生物结皮受干扰后的功能恢复依赖于丝状蓝藻对其结构的重建和光合能力的恢复。因此，浅层沙埋( $0 . 5 \\ \\mathrm { m m } ^ { \\cdot }$ )后真藓结皮层瘦鞘丝藻属丰度的增加可能是结皮对沙埋的一种积极恢复对策,生物结皮通过增加藻丝体来固定沙粒[53],同时增加系统碳氮输入[53],以使结皮生物在沙埋后能够维持其生理活动。但当沙埋厚度持续增加时,就为生物结皮营造了一个无光、缺少气体交换的微环境，蓝藻丰度的急剧下降可能会引起结皮层生物量和养分的下降,从而降低生物结皮在沙埋解除后的恢复能力[56]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "沙埋后丰度增加的门类包括放线菌、变形菌、浮霉菌、拟杆菌、疣微菌、芽单胞菌和FBP(图3)。放线菌中产菌丝体属 Geodermatophilus、Nocardioides 和 Pseudonocardia 的丰度在 $0 . 5 \\ \\mathrm { m m }$ 沙埋后显著增加( $P { < } 0 . 0 5 )$ ，但当沙埋厚度增加时,其相对丰度则显著下降( $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ ）。不产氧的光合菌如Methylobacterium和Belnapia 也是在 $0 . 5 \\ \\mathrm { m m }$ 厚度沙埋后显著增加,但在更深的沙埋后出现下降趋势。除了优势菌群外,沙埋显著增加了真藓结皮层土壤中的硝化螺旋菌丰度,其中固氮菌 Nostoc 和 Scytonema 在 $0 . 5 ~ \\mathrm { m m }$ 厚度沙埋后显著增加,但在更深的沙埋后出现下降趋势。真藓结皮层中光合菌和固氮菌丰度在浅层沙埋( $0 . 5 \\ \\mathrm { m m } ^ { \\cdot }$ )后的增加意味着结皮碳氮输入的增加,这可能有助于提高结皮的抗干扰能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "沙区面积已超过地球表面陆地面积的三分之一[57-58]。沙区土壤微生物作为沙区生态环境恢复的先锋者,其群落结构和多样性可以敏感地反映沙区生态功能和其环境变化。细菌作为沙区生物结皮的重要组成部分,对生物结皮结构和功能的维持及发挥具有重要影响。沙埋通过改变生物结皮中细菌等微生物群落结构和多样性,进而影响其结构和生态功能。浅层沙埋后产菌丝体菌、固氮菌和不产氧光合菌等菌种丰度的增加说明浅层沙埋有利于藓类结皮生理生态功能的发挥,但随着沙埋厚度的增加,异养细菌丰度的增加可能增加细菌的分解速率,加剧沙区土壤的碳氮流失。此外,深层沙埋引起的固氮菌、光合菌和产菌丝体菌类等特定功能菌群丰度的下降可能意味着生物结皮受干扰后恢复能力的降低,影响生物结皮功能发挥及演替进程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］李新荣，张元明，赵允格.生物土壤结皮研究：进展、前沿与展望.地球科学进展，2009,24（1)：11-24.  \n[2]BelapJrderilcostrucureiilfeClodateeoleftaobacteMcocolesgatusatsinNaturalist，1993,53(1)：40-47.  \n3]JiaRL,CXoosalieaeehChina.Soil Biology and Biochemistry，2008,40(11）：2827-2834.  \n[4]WangWB,YangCY,TangD,LiDH,LuYD,HuCX.Efetsfsanduriaobiomasschloropfuorescenceandetacelarpolysaccharidesofman-madecyanobacterialcrustsunderexperimentalcondtions.ScienceinChina SerisC：LifeSciences，27，50（4）:530-534.  \n[5]RaoBQ,LuYD,SB,Wu,WangW,LDfectsburalresoearlevelopntsyobacterastsifield.European Journal of Soil Biology，2012,48：48-55.  \n[6］滕嘉玲，贾荣亮，胡宜刚，徐冰鑫，陈孟晨，赵芸.沙埋对干旱沙区生物结皮覆盖土壤温室气体通量的影响.应用生态学报，2016，27(3): 723-734.  \n[7] WillamsWsdcllidSoil Ecology，2011,49：26-31.  \n[8]JiaRL,LiXR,LiuLC,PanYX,GoYH,WeiYfectsburialodewepositooossolrustirevegeaedaoftheTennger Desert，Northern China.Journal of Hydrology，2014,519：2341-2349.  \n[9］孟杰，卜崇峰，张兴昌，孙占锋.移除和沙埋对沙土生物结皮土壤蒸发的影响.水土保持通报，2011,31（1)：58-62.  \n[10] MaunMA.Burialof plantsasaselectiveforceinsanddunes//MartinezML，PsutyNP,eds.CoastalDunes：EcologicalStudies.BerlinHeidelberg:Springer,2004，171:119-135.  \n11]GrishaIJRifdlifbassdobl96.  \n[12]吴楠，潘伯荣，张元明.土壤微生物在生物结皮形成中的作用及生态学意义.干旱区研究，2004,21(4)：444-450.  \n[13] EldridgeDJ,oenCovendflritisofcroptcslustsinelatiotdicsoflansaeealhlantEol98（）：101- 114.  \n[14] 刘柯澜.内蒙古荒漠生物结皮可培养细菌及两个盐碱湖中不产氧光合细菌群落结构分析[D].呼和浩特：内蒙古农业大学，2011.  \n[15] 丛立双，刘惠荣，王瑞刚，冯福应，陶羽.浑善达克沙地生物土壤结皮细菌群落特征.内蒙古农业大学学报，2010,31（3）：168-172.  \n[16] MagerDM.CarbohydratesincnobacteralsoilcustsasasouceofcarboniesouthwestKalaari，Botswana.Solologadohistry2010,42(2):313-318.  \n[17] BamforthSS.ProozafromabovegroudandgroundsoilsofatropicalrainforestinPuertoRico.PedobiologiaO,5O(6)：15-525.  \n[18] Garcia-PichelF,Lpe-CortesA，ubelU.ylogeticndmorpolgicaldiversityofaobacteriainildesertustsfrotholodoplateau.Applied and Environmental Microbiology,2001,67（4）：1902-1910.  \n[19]YeagerCKkyJousaoteEEelapuseC.zotoicoittructuredctiiesioastagesofbiologicalsoilcrustsfromtheColoradoPlateauandChiuahuanDesertApliedandEnvironmentalMicrobiology，O04，7（2）：973-983.  \n[20]NagyML,PerezA，Garca-chelF.eprokaryotdversityofbiologicalsoilrustsinteSoranesert（OrganPipeCactuNatioalMonument，AZ).FEMS Microbiology Ecology，2005,54(2）: 233-245.  \n[21]AbedR,asiShA，obonMDcteralversitigentsntrgfatoofolgicalsetroSultanate of Oman.FEMS Microbiology Ecology，2010,72(3）：418-428.  \n22]Zanga,istrosoctegoedicthe Gurbantunggut Desert，China.Arid Land Research and Management,2011,25(3）：275-293.  \n23]BudeloolVtssilolesiBerlin Heidelberg：Springer，2005：307-323.  \n[24］張憲武，許光輝．腾格里沙漠地区沙地土壤微生物学特性的研究.土壤学报，1962，10（3)：227-234.  \n[25] 陈祝春．腾格里沙漠沙被头人工植被条件下流动沙丘固定过程中的微生物学特性.土壤通报，1985，16(3)：134-137.  \n[26］陈祝春.沙丘结皮层形成过程的土壤微生物和土壤酶活性.环境科学，1991，12（1)：19-24.  \n[27] 朱志诚.全新世中期以来黄土高原中部生物多样性研究.地理科学，1996，16(4)：351-358.  \n[28] 张威，章高森，刘光绣，王鹭，董小培，岳君，李新荣,安黎哲.腾格里沙漠东南缘可培养微生物群落数量与结构特征.生态学报，2012，32(2) : 567-577.  \n[29] 吴楠，张元明，潘惠霞，邱东.古尔班通古特沙漠地衣结皮中可培养细菌多样性初探.中国沙漠，2013，33(3)：710-716.  \n[30] 吴楠，张元明，潘惠霞，邱东.古尔班通古特沙漠苔藓结皮中可培养细菌多样性特征.干旱区地理，2014，37(2)：250-258.  \n[31] 张薇，魏海雷，高洪文，胡跃高.土壤微生物多样性及其环境影响因子研究进展.生态学杂志，2005，24（1)：48-52.  \n[32] 楼骏，柳勇，李延.高通量测序技术在土壤微生物多样性研究中的研究进展.中国农学通报，2014，30（15）：256-260.  \n[33] MaierS,SchmdtTSB，ZengLJ，PeerT,WagnerV,GubeM.Analysesofdrylandbiologicalsolcrustshighlightlichensaspatregulator of microbial communities.Biodiversity and Conservation，2014,23（7）：1735-1755.  \n[34] AbedRMM,RametteA，HubnerV，DeDeckerP，deBeerD.Microbialdiversityofeoliandustsourcesfromsalinelakesedimentsandbiological soil crusts in arid Southern Australia.FEMS Microbiology Ecology，2012,8O(2）：294-304.  \n[35]AngelR，onadREucidatingthicobalsusitatiocasdeinologicalsoilustsfoloingaulatedineentvitalMicrobiology，2013，15（10）：2799-2815.  \n36]DjaniSufbrBdeloticcieitofyacteacalolustsftNama Karoo of Southern Africa.Microbial Ecology，2014,67(2）：286-301.  \n[37] 白世冬，白学良，雍世鹏.沙坡头地区苔藓植物区系初步研究.中国沙漠，2001，21（3)：244-249.  \n[38] 徐杰，白学良，田桂泉，黄洁，张镝，冯晓慧.腾格里沙漠固定沙丘结皮层藓类植物的生态功能及与土壤环境因子的关系.中国沙漠，2005，25(2):234-242.  \n[39] 胡春香，刘永定.宁夏回族自治区沙坡头地区半荒漠土壤中藻类的垂直分布.生态学报，2003,23(1)：38-44.  \n[40] 刘萌．腾格里沙漠沙坡头地区荒漠地衣生物多样性研究[D].泰安：山东农业大学，2012.  \n[41] 张彩霞.新一代高通量测序技术研究土壤微生物群落结构对环境条件的响应[D].南京：南京农业大学，2012.  \n[42] 陈青.荒漠生物结皮微生物群落组成研究[D].银川：宁夏大学，2014.  \n[43] WangJ,BaoJ,SuJ,LiX,nGX,XFpcoforganirgdtiosoicobsioalusts.lBiochemistry，2015，88：303-313.  \n[44] FiererN,JasooresidgealcteaiirodinofildfSciences of the United States of America，2006，103(3）：626-631.  \n[45]Lubedofcecontinental scale.Applied and Environmental Microbiology，2009，75(15）：5111-5120.  \n[46] BacharA,Soaresl.hetofrsouceisadsobundaeiversitofceiidloaEolo6(3): 694-700.  \n[47] FiererN,BradfordMA,JcksonRB.Towardanecologicalclasificationofsoilbacteria.Ecology，2O7,88（6)：354-1364.  \n[48] LozuponeCA,night.obapsiacterialiversityroceingoftetioaladfiecoftUitedatesca2007，104(27）：11436-11440.  \n[49] Ritz K，Young I M.Interactions between soil structure and fungi. Mycologist，2OO4，18(2）：52-59.  \n[50] DemligF,eathocolohls：2485-2495.  \n[51]GoransoentekOathlctelgohdrtoooefracefrefldlland Biochemistry，2011,43(6）：1333-1340.  \n[52]GiffitRB,JsellleiecteraoggfritisilEviroetal2011,13(6):1642-1654.  \n[53] BelnapJ,LangeOL.Biological SoilCrusts；Structure，Function，and Management.Berlin Heidelberg：Springer，2O01,363-379.  \n[54]CenL,XieZ,u,LiD,ngG,uaadeesertlglustssdoetalcosiergoliaaalof Arid Environments，2006,67(3)：521-527.  \n[55］贾荣亮,李新荣，谭会娟，贺郝钰，苏洁琼，刘扬.沙埋干扰去除后生物土壤结皮光合生理恢复机制.中国沙漠，2010，30（6)：1299- 1304.  \n[56]KuskeC,YgerC,JsonS，ckOeJRespsedsileeoflusbceloitstcicaldisturbance in arid shrublands.The ISME Journal,2011,6(4）：886-897.  \n[57]PeelMC,B,MaTAUpadoofteK-Geigelateasfatio.HrondErthSec，2007，11(5):1633-1644.  \n8]Adeeletknowledge //Lee C，Schaaf T,eds.The Future of Drylands.Netherlands：Springer,2008：677-685.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "统计学习的认知神经机制及其与语言的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐贵平1,2 范若琳³金花4.5.6（1暨南大学华文学院；²暨南大学应用语言学研究院，广州510610）(广东金融学院公共管理学院，广州510521)（4教育部人文社会科学重点研究基地天津师范大学心理与行为研究院；5天津师范大学心理学部；国民心理健康评估与促进协同创新中心，天津300387)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 统计学习是指个体在连续刺激流中发现转移概率等统计规律的过程，在 Saffran 等（1996）的经典婴儿语音切分研究中首次被提出。大量研究证实了统计学习的普遍存在，近期学界开始关注统计学习的特异性及其对认知的影响，尤其是从学习过程及其特异性两个方面阐述统计学习的认知神经机制并揭示其和语言的交互作用。未来应从脑和行为的多模态数据视角，丰富统计学习结果的行为和神经指标，考察不同类型统计学习过程的动态神经活动模式，建立统计学习行为和脑的关联，深化对统计学习认知神经机制的认识，在统计学习与语言交互作用的基础上，从成人二语学习切入结合音乐统计学习训练探讨促进语言学习的统计学习干预手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词统计学习；转移概率；特异性；语言；多模态数据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The cognitive and neural mechanisms of statistical learning and its relationship with language ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Guiping1,2; FAN Ruolin³; JIN Hua4,5.6   \n（ $^ 1$ Collge of Chinese Language and Culture; ² Institute of Applied Linguistics, Jinan University, Guangzhou, 510610, China) ( School of Public Administration, Guangdong University ofFinance, Guangzhou, 510521, China）   \n(4 Key Research Base of Humanities and Social Sciences of the Ministry of Education, Academy   \nof Psychology and Behavior, Tianjin Normal University;5 Faculty of Psychology, Tianjin Normal   \nUniversity; Center of Collborative Innovation for Assessment and Promotion of Mental Health, Tianjin, 300387, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Statistical learning (SL), which was first addressed in the seminal study on speech segmentation of infants by Saffran et al. (1996), is a process of detecting the statistical regularities such as transitional probability in continuous flow of stimuli. Previous studies have proven the general existence of SL,and in recent years close attention has been placed on its specificity and its impact on other cognitive activities, especially revealing the cognitive neural mechanisms of SL and its interaction with language by exploring the process and the specificity of SL. According to the multimodal data from brain and behavior measures, future studies should seek more behavioral and neural indexes to evaluate the performance of SL,to explore the dynamic changes in neural activities of different types of SL and to construct the connection between neural correlates and behavioral performance, which willhelp to have an in-depth understanding of SL. Based on previous discoveries on the interaction between SL and language, future studies could determine whether SL is an effective intervention to improve language acquisition and how it works in the improvement, through exploring the effect of music SL training on second language learning of adult learners. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: statistical learning; transitional probability; specificity; language; multimodal data ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "统计学习（statisticallearning，SL）是指个体在外部环境的连续刺激流中逐渐发现刺激统计规律的过程，个体在统计学习上的差异体现在其对频率、概率等统计结构信息的敏感性，统计学习对语言等认知活动有重要的影响(Armon,2019;Erickson&Thiessen,2015;Saffran &Kirkham,2018;Thiessen,Kronstein,& Hufnagle,2013；武秋艳，邓园,2012)。统计学习最早是在 Saffran，Aslin 和 Newport（1996）关于8个月大婴儿听觉语音切分的经典研究中提出，研究者给婴儿呈现2分钟的连续语音流，语音流由四个三音节的无意义单词 bidaku,padoti，golabu 和 tupiro 组成，结果发现婴儿能在连续语音流刺激中感知到不同音节间的转移概率（transitionalprobability，以下简称TP）差异从而表现出词汇切分能力。TP作为一种条件概率其计算方法如下：假设X和Y两个音节联合出现时顺序为XY，那么Y在X出现的条件下出现的概率（称之为“顺序TP\")：P $ \\mathbf { \\nabla } \\cdot \\left( \\mathbf { Y } | \\mathbf { X } \\right) = \\mathbf { P } $ （XY）/P（X)，而X在Y出现的条件下出现的概率（称之为“逆序TP\")：P $( \\mathbf { X } | \\mathbf { Y } ) \\mathbf { \\Psi } = \\mathbf { P }$ （XY）/P（Y)，其中，P（XY）指整个刺激序列中刺激XY联合出现的频率， $\\mathrm { ~ \\bf ~ P ~ }$ （X）指刺激X出现的频率，P（Y）指刺激Y出现的频率，如无特别说明统计学习研究中的TP一般指顺序TP。由此可知，同一单词内两个音节间的TP 肯定高于单词间两个音节的TP，若个体能感知到不同音节间TP的差异，那么个体就能进行词汇切分和词汇识别(Aslin,Saffran,& Newport,1998；Saffran,Aslin,& Newport,1996)。个体对TP的敏感性具有一定的神经电生理基础，研究发现失匹配负波（mismatchnegativity，MMN）的波幅能有效地反映听觉刺激序列中 TP 的差异(Fitzgerald&Todd,2018;Koelsch,Busch,Jentschke,&Rohrmeier,2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经典统计学习范式中包括刺激熟悉过程和学习结果测试两个阶段，以视觉统计学习任务为例，刺激材料为24个抽象黑色图形（如图1所示)，共形成8个三联体（triplet)。刺激熟悉过程：给受试者呈现10分钟视觉图形流，每次呈现1个图形 $2 0 0 ~ \\mathrm { { m s } }$ ，间隔 $2 0 0 ~ \\mathrm { { m s } }$ 。8个三联体的顺序伪随机，同一个三联体不连续出现，三联体内三个图形呈现的先后顺序固定，每个三联体重复75次。要求受试者注意屏幕中央依次出现的视觉图形，但指导语中不会告知受试者三联体的存在。学习结果测试：受试者需完成32个试次的二选一的迫选再认测试（two-alternative-forced-choice,2AFC）。每个试次中会给受试者先后呈现两个三联体，其中，一个三联体是在熟悉阶段重复出现的目标刺激（ $\\mathrm { T P } = 1$ )，而另一个三联体则是由24个图形中的三个图形组成但从未在熟悉阶段出现过的干扰刺激（ $\\mathrm { T P } = 0$ )。测试任务是要求受试者判断其对先后呈现的两个三联体中哪一个更熟悉。受试者成功从干扰项中再认出熟悉阶段见过的三联体，即说明其在熟悉阶段对图形之间的TP进行了统计学习，再认正确率即为视觉统计学习分数，是衡量个体视觉统计学习能力的重要行为指标(Frost,Siegelman,Narkiss,&Afek,2013)。Batterink 和Paller提出统计学习至少包含了与知觉和记忆加工相关的两个子成分，一是知觉组合，二是记忆存储和提取，以语言的听觉统计学习为例，知觉组合主要是将反复同时出现的相邻单个刺激（如：音节“tu”和“be”）组合成一个复合体（如：双音节单词“tube\")，也就是词汇切分的过程，而记忆存储则是将这些复合体保存下来以备结果测",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试阶段提取用(Batterink&Paller,2017,2019)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X×++ 士 IxX xIw ?   \nL   \n★   \nW ★   \nT ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统观点认为统计学习过程中主要有两个外在特征：一是学习者在学习过程中没有接受外部指导，在刺激熟悉阶段学习者不会被告知要学习的内容，二是学习者对学习到的统计知识没有外显意识，从再认测试结果可以推测其是否掌握了刺激的统计规律，但是学习者即使掌握了统计规律也不能将其外显报告出来。研究者常把统计学习和内隐学习联系在一起，内隐学习是指个体在没有外部指导下学习且对所学的东西没有外显意识的一种学习，最早由Reber（1967）提出(Batterink,Reber,Neville,&Paller,2015)，此外，统计学习和内隐学习的内容都涉及序列及概率等统计结构信息，由此，不少研究者也直接将统计学习称为内隐统计学习(Goujon,Didierjean,& Thorpe,2015；Jost， Conway, Purdy，Walk,& Hendricks,2015;Perkovic&Orquin,2018)。然而，有研究者开始质疑用“个体不能外显报告刺激的统计规律”这个单一的外部行为指标来判断“统计学习者没有外显意识”这个学习特征的合理性，这种“全或无”式的指标可能过于简单和严格，会导致低估学习者的外显知识。研究者以再认测试后学习者对测试阶段的选择的主观自信程度这个外部行为指标作为统计学习外显知识的评价指标之一，结果发现个体对迫选测试阶段的选择的主观自信程度和其统计学习的再认成绩是密切相关的(Batterink et al.,2015; Bertels,Franco,&Destrebecqz,2012)。也就是说，即使个体不能报告具体的统计规律也并不代表个体对统计学习没有外显知识。新近有研究者提出统计学习和内隐学习虽有重叠但实际上各自侧重学习的不同方面，前者更关注学习内容，如刺激所蕴含的频率和概率分布等统计结构信息，而后者则更关注学习特点，包括知识表征形式到底是抽象规则还是样例以及学习者对于知识的外显意识程度等(Armon,2019)。要厘清统计学习和内隐及外显学习之间的相对关系还需结合统计学习过程的认知神经方面的研究证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统计学习提出后，后续研究相继证实了其在语言和非语言等不同认知领域，在视、听不同通道，在婴儿、儿童及成人等不同年龄个体，在健康、自闭症谱系障碍等不同人群，甚至在人类和猴子等不同物种上的普遍存在(Arnon,2019;Kirkham,Slemmer,&Johnson,2002;Milne,Petkov,& Wilson,2018; Monroy,Meyer, Schroer, Gerson,& Hunnius,2019; Newport,2016;Raviv & Arnon,2018; Roser, Aslin, McKenzie, Zahra,& Fiser,2015; Saffran & Kirkham, 2018;Santolin & Saffran,2018; Schwab et al.,2016; Shufaniya & Arnon,2018; Slone & Johnson,2018;唐溢 等,2015)。早期观点认为婴儿已经具备统计学习能力，因此，这是一种早期成熟的能力且不会随着年龄增长而有显著变化，例如，研究发现6岁儿童和成人听觉统计学习任务中的成绩并无显著差异(Saffran,Newport,Aslin,Tunick,& Barrueco,1997)，而近期不少研究者则支持“个体统计学习能力会随年龄增长而发展变化且同时受刺激类型和通道等因素的制约”这一观点(Frost,Armstrong,Siegelman,& Christiansen,2015)，5\\~12 岁儿童听觉语言刺激的统计学习不受年龄影响，但视觉统计学习及听觉非语言刺激的统计学习都可随年龄增长而进步(Arciuli & Simpson,2011; Raviv & Arnon,2018; Shufaniya& Armon,2018)。近年来，研究者开始关注不同个体在不同领域和不同通道下的不同类型统计学习所具有的特异性及其在语言等认知中的作用(Frost et al.,2015;Krogh,Vlach,& Johnson,2012)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近期研究表明统计学习存在显著的个体差异，从统计学习的测试成绩来看，样本总体的平均成绩显著优于机遇水平，但就个体统计学习成绩的分布来看是存在显著个体差异的，约有三分之一的受试者成绩低于机遇水平(Armon,2019;Frost etal.,2015; Siegelman,Bogaerts.&Frost,2017; Siegelman&Frost,2015)，而对老、中、青三个不同年龄组的成人听觉统计学习的一项差异研究也发现，统计学习随着年龄增长存在退化现象，并且这种退化跟工作记忆更新能力随年龄增长的下降有关(Palmer,Hutson,&Mattys,2018)。来自儿童识字能力(Spencer,Kaschak,Jones,&Lonigan,2015)，儿童对被动句和宾语从句的句法理解(Kidd&Arciuli,2016)和大学生对关系从句的加工(Misyak,Christiansen,&Tomblin,2010)等方面的证据都表明统计学习的这种个体差异也会直接影响统计学习在语言中的作用，该部分内容将在介绍统计学习在语言中的作用时具体阐述。由此，本研究将侧重从统计学习的认知神经机制和统计学习与语言的关系两个方面总结分析该领域的新进展并提出未来研究展望。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2统计学习的认知神经机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "继大量行为研究证实了统计学习在跨领域、跨通道、跨群体中的普遍存在，研究者开始探讨这种普遍存在的统计学习的内在认知神经机制，主要围绕对统计学习过程和统计学习特异性这两方面的神经机制展开，以下将从这两方面进行阐述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1统计学习过程的神经机制 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "统计学习全程包括了刺激熟悉和学习结果测试两个阶段，事实上，刺激熟悉阶段是真正“纯粹”的在线学习过程，包含了知觉组合和记忆存储的过程，而学习结果测试阶段则主要反映了记忆的提取过程。Cunillera及其团队通过听觉统计学习的ERP研究发现，在刺激熟悉阶段呈现的音节流中，构成无意义词的三个音节相对非词的三个音节会在 $3 0 0 { \\sim } 5 0 0 ~ \\mathrm { m s }$ 的时间窗诱发一个显著的类似N400的负成分，并且随着词汇音节暴露的时间越长该成分的波幅会变小，研究者认为该成分就是词汇切分的神经电生理标记，进一步的fMRI研究则发现词汇切分过程中颞上回后部和腹侧前运动皮层的上部有显著激活(Cunillera etal.,2009;Cunillera,Toro,Sebastian-Galles,& Rodriguez-Fornells,2006)。Batterink 和 Paller（2017）比较了刺激熟悉阶段符合组词规律和随机两种音节流下诱发的脑电的神经夹带（neuralentrainment）差异，进一步揭示了知觉组合过程的神经电生理模式。研究通过莫莱小波变换以两种条件下词频率和音节频率的试次间同步性（inter-trialcoherence，ITC）的比例为词汇学习指标（word learning index，WLI)，结果发现符合组词规律的音节流诱发的WLI大于随机音节流所诱发的，随着个体对刺激熟悉度的增加该差距会增大，且刺激熟悉阶段的脑电WLI能预测测试阶段词汇学习的行为表现。此外，Batterink 和Paller（2019）采用视觉的跨通道干扰任务对比了有无干扰下听觉统计学习的神经夹带差异，结果发现两种条件下统计学习知觉组合过程中的神经夹带并无显著差异，结果表明知觉组合过程并不需要有意注意的参与。但是，基于当前研究结果，本研究认为目前还很难分离知觉组合和存储两个子过程，未来需要整合多模态的神经数据来进一步揭示知觉组合和存储之间的关系，寻找二者在时间或空间上分离的证据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时，以往对学习结果测试阶段的研究主要关注学习者离线的再认正确率，而忽视对学习者在线的再认过程本身的研究。对统计学习效果的判断是依据个体在学习结果测试阶段是否对具有不同TP的刺激做出差别化反应去推测其在刺激熟悉阶段是否掌握了刺激流所蕴含的统计规律，而这个差别化的反应不仅应体现在学习者从干扰刺激中再认出刺激熟悉阶段的三联体这个离线的行为指标，还应体现在大脑的再认过程中的神经活动模式。研究发现，相对干扰刺激，学习者在再认阶段看到目标三联体会在 $7 0 0 { \\sim } 1 0 0 0 \\mathrm { m s }$ 的时间窗诱发更大的后正成分（late positive component，LPC)，进一步比较学习者对目标三联体中前、中、后不同位置的音节刺激进行再认时的反应时及P300波幅的差异，结果发现，在启动效应的作用下，目标三联体中越靠后的音节被正确再认的速度越快，其在 $4 0 0 { \\sim } 8 0 0 \\mathrm { m s }$ 的时间窗诱发的P300效应也越小，因为概率越大及越容易被预测的刺激诱发的 P300 效应会越小(Batterink,2017;Batterink et al., 2015)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，以往在学习结果测试阶段对统计学习中的外显知识的考察也主要依赖于对三联体出现概率的离线估计，这可能导致低估了统计学习过程中外显学习的参与而高估了内隐学习的参与。已有研究表明，内隐学习记忆系统主要依赖于纹状体等基底神经节核团（basalganglia)，而外显学习记忆系统主要依赖于海马等内侧颞叶皮层（medialtemporallobe,MTL）(Knowlton,Mangels,& Squire,1996; Squire,Stark,& Clark,2004)。由此，研究者通过考察不同类型统计学习过程中外显学习和内隐学习的脑功能区的激活和连接等神经模式，进一步揭示了统计学习过程中外显和内隐学习系统的动态卷入，结果发现，不同类型的统计学习中外显和内隐两个学习记忆系统的卷入是不同的(Batterink,Paller,&Reber,2019; Sawi&Rueckl,2018)。研究者采用睡眠监控和 fMRI技术考察睡眠对于听觉声调统计学习的影响，结果发现，受试者间隔24小时经历睡眠后测试的成绩优于仅间隔30分就测试的成绩，且慢波睡眠的量能有效其预测统计学习的成绩和脑功能区的激活，睡眠后纹状体和旁海马回的连接减弱而壳核和颞平面的连接增强，结果表明统计学习过程伴随着学习记忆系统从海马到纹状体的逐渐转移，且睡眠有助于该转移过程(Durrant,Cairmey,&Lewis,2013)。也就是说，统计学习并非由统一的内隐学习记忆系统所支配，在统计学习全程中，个体的外显和内隐两个学习记忆系统的卷入是动态变化的，统计学习的具体类型会调节这种变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2统计学习特异性的神经机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管统计学习被证实是一种普遍存在，但近年来研究者开始关注统计学习特异性的神经机制，即不同个体在不同领域、不同通道的不同类型统计学习的神经特异性。从统计学习的领域特异性来看，大脑对不同领域的统计信息进行加工时，其神经活动模式是存在差异的。内侧颞叶皮层在提取时间统计规则中起着重要作用(Schapiro,Gregory,Landau,McCloskey,&Turk-Browne,2014)，而当根据声音的统计规律进行类别学习时，纹状体后部对刺激的统计结构信息比较敏感，其与左侧颞上沟的连接强度和类别学习的离线成绩相关(Lim,Fiez,&Holt,2019)。来自婴儿面孔识别的ERP研究则发现6.5个月大婴儿可根据双峰分布而非单峰分布的频率信息进行统计学习(Altvater-Mackensen,Jessen,& Grossmann,2017)。而 Monroy 团队通过脑电和眼动的系列研究表明，婴儿能够通过观察连续的动作序列而掌握统计规律从而产生一定的动作预期，这种动作预期可反映在其眼动模式上(Monroy,Gerson,& Hunnius,2017)，而当测试阶段出现违背预期的动作时会在中部电极250\\~750ms 的时间窗诱发一个负电位(Monroy,Gerson,Dominguez-Martinez,et al.,2019)，脑电的频域分析则发现预期动作会伴随mu节律（ $: 7 { \\sim } 9 \\mathrm { H z }$ ）的抑制(Monroy et al.,2019)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从统计学习的通道特异性来看，视、听不同通道的统计学习可能存在大脑偏侧化差异，统计学习对语言等认知影响也可能受到这种差异的制约(Karuzaetal.,2013;Qi,SanchezAraujo,Georgan, Gabrieli,& Arciuli,2018; Roser,Fiser,Aslin,& Gazzaniga,2011)。Roser 等人（2011)采用左右视野下的视觉统计学习任务比较了裂脑人和控制组的学习成绩以考察统计学习的大脑不对称性，结果支持了视觉统计学习的大脑右半球优势。Karuza等人（2013）采用 fMRI技术探讨了听觉分词任务下的统计学习的神经活动模式，则发现左脑额下回的激活和统计学习成绩存在显著相关。Qi 等人（2018）进一步比较了听觉统计学习和视觉统计学习对儿童和成人的阅读发展的影响差异，结果发现听觉统计学习对阅读发展的影响更大，这可能与听觉统计学习和语言大脑功能区的左侧化有关，但还需要未来研究进一步确认统计学习通道的神经特异性和语言等认知的神经特异性之间的关联。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从统计学习的个体特异性来看，大量行为研究表明统计学习存在显著的个体差异，但关于统计学习个体差异的神经机制尚不清楚。一方面，有研究者通过比较成人、9\\~12岁和6\\~9岁儿童等三组人群在视觉统计学习测试阶段诱发的P300指标，结果发现三组人群无显著差异，作者认为这是支持个体统计学习的发展不变性（developmental invariance）的神经电生理证据(Jostetal.,2015)。而另一方面，有研究者认为不同个体的统计学习存在神经特异性。研究者采用sMRI技术考察了5\\~8.5岁儿童的左侧额下皮层、海马和尾状核等三个兴趣脑区的皮层厚度和统计学习成绩之间的关系，结果表明，儿童左侧额下皮层的厚度和右侧海马的体积能预测其统计学习成绩，尽管两个区域的厚度和体积不随年龄而变化，但是年龄越大的儿童，右侧海马对其统计学习的预测更强(Finn,Kharitonova,Holtby,& Sheridan,2019)。此外，与正常儿童相比，自闭症谱系障碍儿童在视觉统计学习中诱发的N1和 P300 效应都较弱,N1 波幅与其非言语智力分数相关,P300 波幅与其社会适应能力相关(Jeste etal.,2015)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3统计学习和语言的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计学习的概念来自经典的婴儿语音切分研究，早期研究侧重探讨统计学习对语言习得的影响，近期研究开始关注二者之间的交互作用，在进一步深入探讨统计学习在不同语言学习领域的具体作用的基础上，考察个体母语和双语等语言学习经验对其统计学习的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1统计学习在语言中的作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计学习对语言的影响研究主要在两方面得到了扩展：一是探讨统计学习对语音之外的其他语言任务的影响，二是探讨统计学习对二语学习的影响。统计学习在语言中的作用最初是在语音词汇识别中得到确认，后续研究则进一步证实其在语法、拼写、阅读等较复杂的语言任务中的作用(Elleman, Steacy,& Compton,2019; Treiman,Kesser, Boland, Clocksin,&Chen,2018)。大学生可以根据统计的分布信息学习人工语法中的内容词(Reeder,Newport,&Aslin,2013)，而进一步对比20岁左右青年人和70岁以上老年人的统计学习，则发现老年人也能根据统计信息学习人工语法词类，但是成绩要差于青年人(Schwab etal.,2016)。此外，个体统计学习成绩存在个体差异且这种差异能有效预测其关系从句的理解成绩(Misyak et al.,2010)。统计学习和阅读成绩之间的相关在儿童和成人两个群体上都得到了证实，统计学习能力是预测阅读成绩的重要指标之一(Arciuli& Simpson,2012)。而结构方程建模分析结果也揭示了统计学习对幼儿早期识字技能的预测作用(Spencer et al.,2015)。此外，ERP 和 fMRI的研究表明统计学习和语言加工过程中诱发的脑电和激活的脑区等神经模式有相似之处，为统计学习在语言中的作用存在神经基础提供了支持证据(Christiansen,Conway,& Onnis,2012;Petersson,Folia,& Hagoort,2012)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，统计学习在语言学习中的作用也在语言发展障碍人群中得到进一步确认(Saffran,2018)。例如，阅读障碍大学生其听觉统计学习成绩优于机遇水平，但是仍然显著差于正常对照组，结果表明阅读障碍存在一般性统计学习缺陷(Gabay,Thiessen,&Holt,2015)。对有、无发展性语言障碍（developmental language disorder，DLD）的两组受试者的听觉语言统计学习的研究进行元分析，结果发现有发展性语言障碍的个体伴随明显的统计学习缺陷，这也进一步确认了统计学习在语言学习中的作用(Lammertink,Boersma,Wijnen,&Rispens,2017)。此外，植入人工耳蜗的聋童由于早期的语言剥夺导致其统计学习成绩差于健听儿童，而统计学习成绩相对好的聋童在其植入耳蜗后语言改善更好(Conway,Pisoni,Anaya,Karpicke,&Henning,2011)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除上述研究，研究者也开始关注个体的统计学习能力是如何影响其二语学习的，主要是因为二语学习存在有别于母语学习的特异性。语言特点和习得时间是影响语言学习的两个重要变量，母语研究中可以分别探讨这两个因素的影响，例如，通过比较不同母语阅读障碍者在行为和神经上的共性与差异可以考察语言特点的影响(D'Mello&Gabrieli,2018;Hu et al.,2010; Siok,Perfetti,Jin,&Tan,2004)，也可以通过比较不同年龄开始学习母语的学习者在行为和神经上的的共性与差异考察习得时间的影响，尤其是关键期前后的学习者，例如，成年后脱盲者和文盲就提供了很好的被试模型(Carreiraset al.,2009;Dehaene,Cohen,Morais,&Kolinsky,2015)。研究者对比了前哥伦比亚游击队成员中的成年脱盲者和文盲及儿童期开始识字的成人等三组人群的大脑结构，结果发现，相对文盲，识字的成人胼抵体压部的白质更多，而双侧角回、背侧枕回和颞中回以及左侧缘上回和颞上回等区域的灰质更多，而相对儿童期开始识字的成人，成年脱盲者连接左右角回和背侧枕回的胼抵体部分白质更多(Carreirasetal.,2009)。然而，二语学习的研究中这两个因素会变得更复杂且很难分离。首先，母语学习和二语学习之间存在交互作用，二语学习必须同时考虑母语和二语的语言特点，而不同类型的二语学习者其母语和二语的语言特点的差异本身也存在差异(de Bruin,2019)，那么，统计学习对母语学习的影响就不能直接推论到其对二语学习的影响，尤其是母语和二语存在很大语言差异时。其次，即使二语学习者的母语和要学习的二语是相同的，如果学习者开始学习二语的年龄不同，其二语学习的认知神经机制也会存在差异(Das,Padakannaya,Pugh,&Singh,2011)。同时，相对母语学习，二语学习者开始学习二语的年龄存在更大变异，且关键期后的母语学习者属于少数情况(尤其是口语的习得)而关键期后的二语学习者却并非如此，尤其在当前全球化进程中的多语需求刺激下，成人外语学习者数量也是与日俱增(Cores-Bilbao,Fernandez-Corbacho,Machancoses,& Fonseca-Mora,2019; Kramsch,2014)，那么，统计学习对关键期前的婴儿、儿童语言学习的影响也不能直接推论到其对关键期后的成人语言学习的影响。因此，探讨统计学习对二语学习的影响具有重要的理论和现实意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "统计学习影响婴儿非母语加工的研究主要探讨了2岁以内单语婴儿是如何加工非母语语言刺激的。研究发现，婴儿同样能对非母语语言刺激进行统计学习，但其统计学习在1岁左右会发生重要转变，从跨语言普遍性转变为母语特异性。婴儿能根据非母语语言刺激中的统计线索进行音义的联结学习(Hay,Pelucchi,Estes,& Saffran,2011)。Kuhl团队研究表明，婴儿的语言习得具有高度可塑性，随年龄增长其学习新语言的能力急速下降。婴儿一开始具有跨语言的普遍统计学习能力，6\\~8个月的英语母语婴儿即便是短期接触非母语的普通话语音刺激/tch/和/c/，也能表现出跟普通话母语婴儿一样的语音分辨能力，然后婴儿逐渐对母语刺激的统计信息更加敏感，对母语语音的辨别能力逐渐增强而对非母语语音的辨别能力则逐渐减弱， $8 { \\sim } 1 0$ 个月是发生转变的关键期，10\\~12个月的婴儿对非母语语音的敏感性下降(Kuhl,2004;Kuhl,Tsao,&Liu,2003)。新近研究者对 88 名5、11、14个月大的三组荷兰婴儿的非母语普通话一声和四声的声调统计学习进行了研究，结果发现婴儿随着月龄的增加其辨别非母语声调的能力也逐渐下降(Liu&Kager,2017)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "然而，统计学习影响成人二语学习的研究则相对匮乏，且主要是来自视觉统计学习方面的证据。Frost等（2013）作为先驱者首先采用视觉统计学习任务考察了母语为英语的成人希伯来语二语学习者个体统计学习能力和二语识字能力之间的关系。结果发现，视觉统计学习能力好的二语学习者能更好地掌握希伯来语单词中的闪族结构。此外，吴娴团队以成人的汉语母语者和汉语二语学习者为研究对象，比较分析了两组人在中文假形声字的形音转换任务中的大脑神经模式，计算了两组人在视觉统计学习任务中的成绩和负责形音转换加工的6个兴趣区脑激活之间的相关，结果发现，汉语母语者视觉统计学习成绩和左侧顶下小叶的激活存在显著负相关，而汉语二语学习者视觉统计学习成绩和左侧额下回的激活显著负相关，研究表明个体统计学习的能力和单词识别中的形音转换加工密切相关(Yu etal.,2019)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2语言经验对统计学习的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与大量关于统计学习对语言的影响研究相比，语言经验对统计学习的影响研究则匮乏得多，这些研究主要探讨了母语经验和双语经验对统计学习的影响。首先，不同母语者的统计学习会受其母语特点的影响而表现出语言特异性。英语和韩语中分别采用“in Sapporo”这样的中心语在前（head-initial）和“Sapporo in”这样的中心语在后（head-final）的语序结构，这种语序结构就会导致英语中顺序TP偏低而逆序TP偏高，因为“in”之后可以搭配很多其他词而“Sapporo”之前则只有很少的词可以组合，而韩语则反之。由此，研究者考察了语言中不同语序结构对其成年母语使用者的听觉语言刺激（无意义音节）、视觉非语言刺激（抽象图形）和听觉非语言刺激（纯音）等不同类型统计学习的影响，结果发现，语言特点会制约个体的统计学习偏好，母语韩语者对顺序TP 更敏感，而母语英语者对逆序 TP 更敏感，且这种偏好只表现在语言刺激的统计学习中(Onnis& Thiessen,2013)。进一步对比不同月龄英语和韩语婴儿听觉统计学习的特点发现，7个月大英语婴儿对顺序和逆序TP没有偏好，但13个月大英语婴儿已表现出和英语成人一样的逆序TP 偏好。由此，研究者认为个体的统计偏好是在母语经验的影响下而逐渐发展起来的(Thiessen,Onnis,Hong,&Lee,2019)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "其次，双语经验有利于语言刺激的统计学习。有研究比较了英语单语者、汉语单语者、汉语-英语双语者、英语-非声调语（韩语、西班牙语、德语、法语等）双语者等四组成人完成一项人工声调语言统计学习任务的表现以考察先前语言经验（母语和双语）对后继学习的影响。结果发现，汉语单语者成绩高于机遇水平，但和英语单语者的成绩没有显著差异，而汉语-英语双语者和英语-非声调语双语者的统计学习成绩显著高于机遇水平且优于其他两组单语者。该研究表明，母语声调语言的经验对学习新的声调语言并没有显著的正迁移作用，但无论双语经验中是否有声调语言的经验，双语经验都有助于学习新的人工声调语言(Wang&Saffran,2014)。随后的一项追踪研究也进一步证实了双语经验在新语言刺激的统计学习中的作用。研究者比较了母语非声调语的汉语初学者学习汉语前后半年在人工声调语言听觉统计学习和视觉统计学习的表现及其与控制组的差异，结果发现汉语学习组和控制组的视觉统计学习半年后均有显著改善，但听觉统计学习成绩仅汉语学习组有显著改善(Potter,Wang,&Saffran,2017)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，来自双语婴儿和单语婴儿的对比研究也进一步支持了双语经验对语言统计学习的促进作用。通过对比14个月大的两组婴儿在两种人工语言中利用音节转移概率进行词汇切分的能力，结果发现，当单独呈现一种人工语言的语音流时，单语婴儿能够进行统计学习并表现出词切分能力，而当两种人工语言的语音流交替出现时，仅双语婴儿能根据各自的统计转移概率完成两种语言的词切分(Antovich& Estes,2018)。然而，新近也有研究者质疑了双语经验对统计学习的促进作用，研究者比较了英语单语者、西班牙语-加泰罗尼亚语双语者、西班牙语-英语双语者等三组人在视觉图形统计学习中的表现，该统计学习中同时包含了两种统计规律，结果发现三组受试者均能发现两种统计规律且学习成绩无显著差异，由此，研究者认为双语经验对统计学习并无显著的促进作用(Bulgarelli,Bosch,&Weiss,2019)。对比以上研究可以发现，双语经验对统计学习的促进作用主要体现在听觉语言刺激的统计学习中，在视觉非语言刺激的统计学习中并没有体现出来。因此，双语经验对统计学习的影响可能受到领域或通道的制约，未来研究需进一步探讨制约双语经验对统计学习的影响的因素及其内在的认知神经机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4统计学习研究展望",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尽管统计学习的普遍存在被大量证实，但当前对统计学习内在认知神经机制的认识还不够清楚(Sawi&Rueckl,2018)，未来研究需整合脑-行为不同层面的多模态数据信息，探讨统计学习自身及其与语言等认知活动交互作用的认知神经机制，更好地服务于当前全球化进程下外语学习的国际性需求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1多模态数据视角下的统计学习",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以往统计学习的研究主要集中在证实普遍存在和探讨其特异性两个方面，但大多依赖测试阶段的再认成绩这个指标，指标单一且相对缺乏对刺激熟悉阶段的研究，而实际上统计学习真正的“纯粹”学习过程是在刺激熟悉阶段，即个体是如何逐步掌握刺激所蕴含的统计结构的动态过程及其神经活动模式的变化，未来可从以下两个方面进一步研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，在离线评价基础上，进一步丰富测试阶段关于学习效果和学习者外显知识的在线评价手段。对学习效果的评价，除了经典的学习者对三联体整体的再认正确率以外，可进一步考察三联体再认过程的大脑神经活动模式，以及学习者对三联体中前、中、后不同位置刺激的局部加工的行为和神经模式(Batterink etal.,2015)。对学习者外显知识的离线评价，除了测试后学习者主观信心程度的总体评价，可让受试者对每个测试试次中的选择进行主观评价(Batterink etal.,2015;Bertels et al.,2012)。Batterink 等人（2015）要求受试者对每一个测试试次中的选择进行三类评价：“记住”（remember)，是指受试者根据之前的学习对选项有记忆并对作出的选择是有信心的；“熟悉”（familiar），是指受试者觉得二选一的选项中有一个是相对更熟悉的，但是没有特定的记忆；“猜”（guess)，是指受试者不知道哪一个选项是正确的，感觉是随机作出选择的。结果表明，受试者对选择的三种分类条件下的再认成绩存在显著差异，判断为“猜”的情况下其正确率和机遇水平无显著差异。此外，还可通过受试者在测试阶段内隐和外显学习系统的神经指标的动态变化推测其外显知识情况，这对于研究婴幼儿、自闭症甚至猴子等不能通过外部评价测量其外显知识的特殊对象的统计学习的神经机制显得尤为重要(Finn etal.,2019)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其次，如何在缺乏外部行为评价指标的情况下，整合fMRI、sMRI、ERP、DTI、MEG等脑的多模态数据揭示刺激熟悉阶段的统计学习的动态变化，可包括三个方面的内容：一是对比分析刺激熟悉的不同阶段其神经模式差异，揭示在线学习过程中的动态变化模式，例如，采用MEG技术分析比较了听觉统计学习的不同阶段，结果发现修正已习得统计知识比学习新的统计知识更耗费时间(Daikoku,Yatomi,& Yumoto,2017)。二是建立在线学习过程中的神经指标和测试阶段的学习效果的直接联系，例如，学习第二阶段背侧听觉和前运动皮层的连接强度和听觉词汇学习的成绩相关(Lopez-Barroso et al.,2015)；左侧额下回的激活和统计学习成绩相关(Karuzaetal.,2013)；视觉统计学习 $5 0 0 { \\sim } 1 0 0 0 ~ \\mathrm { m s }$ 诱发的事件相关电位与语法判断反应时相关(Daltrozzo et al.,2017)。三是在线学习过程中内隐和外显学习系统的神经卷入和测试阶段外显认知评价结果之间的关系，例如，统计学习过程伴随着学习记忆系统从海马到纹状体的逐渐转移(Durrant et al.,2013)；内隐和外显学习记忆脑区的结构和统计学习成绩之间的关系(Finn et al.,2019)。在以上内容的研究基础上，通过分析比较不同个体在不同领域和不同通道下的不同类型统计学习的动态学习过程，提高对统计学习特异性的认识，从而进一步丰富统计学习的认知神经机制。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2统计学习在成人二语学习中的作用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当前全球化进程对成人的多语竞争力提出了更高需求，本研究认为未来统计学习研究的一个重要方面是揭示统计学习在成人二语学习中的独特作用机制以促进语言学习。当前该方面的研究还处于初步探索阶段，未来研究应整合多模态数据，进一步确认统计学习影响成人二语学习的认知机制和神经基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先，并非所有的双语者都是相同的，个体在语言经验和认知能力上的差异会制约统计学习在其二语学习中的作用，如何在这些因素制约下提高个体对二语中不同类型刺激的统计规律的敏感性是促进二语学习的关键问题，尤其是当二语和母语存在较大的差异时。双语研究中需要非常细致地描述和评估双语者的语言经验和个体在统计学习、认知控制、工作记忆、智力等认知方面的差异(de Bruin,2019; Hung et al.,2019; Kuo et al.,2015)。以阅读为例，阅读的神经机制会受到语言特点和习得时间的影响，因表音和表意文字中形-音和形-义之间的匹配度不同，英文阅读障碍者存在左脑颞顶区的激活异常，而中文阅读障碍者在左脑额中回存在结构和功能的异常，但中文阅读障碍者在左脑颞顶区的激活是否异常还存在分歧(D'Mello&Gabrieli,2018;Huetal.,2010; Siok etal.,2004)。即使同样是表音文字，形-音之间的透明度也存在差异，阅读意大利语和印地语等形-音透明度较高的文字时，背侧通路中与语音加工相关的脑区激活会增强，而阅读英语等形-音透明度较低的文字时，腹侧通路中与语义加工相关的脑区激活会增强，对于印地语-英语双语者而言，其阅读印地语和英语时的神经活动模式差异则与英语学习时间有关(Das etal.,2011)。因此，当母语和二语分属表音表意不同文字系统或有声调无声调不同语言的话，在母语迁移的影响下二语学习者对视、听等不同类型统计学习的统计规律可能具有不同的敏感性，从而影响统计学习在二语学习中的作用。此外，不同刺激不同通道下的不同类型统计学习能力的个体差异与听、说、读、写等不同方面语言能力之间是什么样的关系？与学习者的智力、认知控制、工作记忆等其他认知因素相比，二语学习者统计学习能力独立解释二语学习成绩的变异程度究竟如何？这些都是未来研究需回答的问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次，已有研究表明成人二语学习具有重要的神经生物学基础(Kuhletal.,2016;Mamiya,Richards,Coe,Eichler,&Kuhl,2016)。Mamiya 等人（2016）采用DTI技术追踪了留美中国大学生参加英语语言课程前后的大脑白质结构变化，结果发现，大学生参加课程时间越久其右上纵束的各向异性分数（fractionalanisotropy，FA）越高而径向扩散系数（radial diffusivity，RD）越低，并且个体儿茶酚胺氧位甲基转移酶（catechol-O-methyltransferase，COMT）基因的类型会影响其二语学习时间和大脑白质结构变化之间的关系，COMTgenotype 和FA 两个因素能很好地解释学生语言课程的成绩的变异。类似地，Kuhl等人（2016）采用DTI技术考察了生活在美国的成人西班牙语-英语的双语者的大脑白质结构和其在美国生活时间及二语使用时间的关系，结果发现，左侧额枕下束的各向异性分数与受试者在美生活及讲英语的年限均有显著正相关，而该区域的径向扩散系数则与受试者在美生活及听英语的年限均有显著负相关。那么，在伴随二语学习发生的这些大脑结构变化过程中，统计学习究竟起到什么样的作用呢？统计学习和成人二语学习在行为和脑两个层面的关联究竟是怎样的？以及这些关联又在不同类型二语学习者以及二语学习不同阶段发生哪些动态变化呢？这些也都是未来研究需回答的问题。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "最后，统计学习是一种在年龄、通道、刺激类型等因素的制约下具有一定可塑性的能力，未来研究可以在探讨有效促进统计学习的因素的基础上，针对不同群体的不同语言需求有针对性地设计统计学习的干预方案，从而促进语言学习等认知能力的提高(Deocampo,Smith,Kronenberger,Pisoni,& Conway,2018)。统计学习的干预是通过提高个体对统计结构信息的敏感性来达到提高相应认知能力的目的，干预思路可考虑从直接干预和间接干预两方面入手。直接干预可考虑通过结合不同个体的统计学习偏好来设计统计学习材料及其呈现方式来提高个体对统计规律的敏感性。研究表明，双峰分布信息较单峰分布信息更有利于婴儿的语音和面孔的统计学习(Altvater-Mackensen et al.,2017；宋新燕，孟祥芝,2012)，而与刺激的统计规律一致的二级跨通道线索能有效促进统计学习，研究发现当视觉的形状和色彩的联结一致性与听觉语音刺激的统计规律一致时听觉统计学习成绩会提高(Forest,Lichtenfeld,Alvarez,&Finn,2019)，因此，未来研究可考虑将语言信息分布特点和视听通道整合等两个因素结合进一步探讨促进不同人群语言统计学习的最佳组合。而间接干预则是通过跨领域的音乐训练等达到促进语言统计学习的目的。研究表明音乐训练能提高个体对听觉刺激的一般性的识别和预测能力从而促进其语言统计学习的能力(Francois,Chobert,Besson,& Schon,2013;Francois & Schon,201l; Zhao& Kuhl,2016)。ERP 研究发现，与未接受专业音乐训练的普通人相比，接受过12年以上专业音乐训练的成人音乐家在新的人工语言中的听觉统计学习成绩更好(Francois& Schon,2011)。对8岁儿童进行音乐训练并追踪研究2年发现，接受音乐训练的儿童在行为和脑电指标上都表现出了更好地语音切分能力(Francois etal.,2013)。Zhao 和 Kuhl等（2016）进一步采用 MEG 技术在oddball 范式下考察了音乐训练对于9个月大婴儿音乐和语音加工的影响，结果发现，与控制组婴儿相比，音乐和语音违背的刺激会在受音乐训练的婴儿的听觉皮层和前额叶皮层诱发更大的失匹配反应（mismatch response，MMR)。未来研究需进一步检验传统音乐训练对个体语音统计学习的促进作用并深入探讨其作用的认知神经机制，帮助建立促进语言学习的最佳音乐训练方案，包括音乐训练的形式和时间等。同时，以语音和音乐刺激为材料，直接比较两种材料的统计学习训练在不同人群语言学习中的促进作用，检验不同统计学习训练在不同人",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "群中的适用性。   \n参考文献   \n唐溢，张智君，曾玫媚，黄可，刘炜，赵亚军.(2015).基于名人面孔视觉特征和语义信息的视觉统计学习. 心理学报,47(7),837-850.   \n宋新燕，孟祥芝.(2012).婴儿语音感知发展及其机制．心理科学进展,20(6),843-852.   \n武秋艳，邓园.(2012).统计学习的认知机制及其神经基础．生物化学与生物物理进展,39(12),1167-1173.   \nAltvater-Mackensen,N., Jessen, S.,& Grossmann,T.(2ol7). Brain responses reveal that infants' face discrimination is guided by statistical learning from distributional information. Developmental Science, 20(2),el2393. doi:10.1111/desc.12393   \nAntovich,D.M.,& Estes, K. G. (2018).Learning across languages: Bilingual experience supports dual language statistical word segmentation. Developmental Science, 21(2), el2548.doi:10.1111/desc.12548   \nArciuli,J.,& Simpson,I. C. (2011).Statistical learning in typicallydeveloping children: The role of age and speed of stimulus presentation. Developmental Science,14(3), 464-473. doi:10.1111/j.1467- 7687.2009.00937.x   \nArciuli,J., & Simpson, I. C. (2O12). Statistical learning is related to reading ability in children and adults. Cognitive Science,36(2),286-304. doi:10.1111/j.1551-6709.2011.01200.x   \nArnon, I (2019). Statistical learning, implicit learning,and first language acquisition: Acritical evaluation of two developmental predictions. Topics in Cognitive Science.1(3), 504-519.doi:10.1111/tops.12428   \nAslin,R. N.,Safran,J.R.,&Newport,E.L.(1998).Computationofconditionalprobabilitystatistics by8-montold infants. Psychological Science, 9(4),321-324.   \nBatterink, L. J. (2O17). Rapid statistical learning supporting word extraction from continuous speech. Psychological Science,28(7), 921-928. doi:10.1177/0956797617698226   \nBatterink,L. J.,& Paler, K. A. (2017). Online neural monitoring of statistical learning. Cortex, 90,31-45. doi:10.1016/j.cortex.2017.02.004   \nBatterink,L.J.,& Paller, K.A.(2O19). Statistical learming of speech regularities can occuroutside the focus of attntion. Cortex, 115, 56-71. doi:10.1016/j.cortex.2019.01.013   \nBatterink,L. J., Paller,K.A.,& Reber, P.J. (2019). Understanding the neural bases ofimplicit and statistical learning. Topics in Cognitive Science. 11(3), 482-503 doi:10.111/tops.12420   \nBatterink,L.J.,Reber,P.J.,Neville,H.J.,&Pallr,K.A.(2O15).Implicit and explicitcontributions tostatistical learning. Journal ofMemory and Language, 83, 62-78. doi: 10.1016/j.jml.2015.04.004   \nBertels,J.,Franco,A.,& Destrebecqz,A.(2o12). How implicit is visual statistical learning? Journal of Experimental Psychology: Learning, Memoryand Cognition,38(5),1425-1431.doi:10.1037/a0027210   \nBulgarelli,F.,Bosch,L.,& Weis,D.J. (2Ol9).Multi-pattern visual statistical learning inmonolinguals and bilinguals.Frontiers in Psychology,10,204.doi:10.3389/fpsyg.2019.00204   \nCarreiras,M.,Seghier,M.L.,Baquero,S.,Estevez,A.,Lozano,A.,Devlin,J.T.,&Price, C.J. (2009).An anatomical signature for literacy. Nature,461(7266), 983-986. doi:10.1038/nature08461   \nChristiansen, M. H., Conway, C.M.,& Onnis,L. (2o12). Similar neural corrlates for language and sequential learning: Evidence from event-related brain potentials.Language and Cognitive Processes, 27(2), 231- 256. doi:10.1080/01690965.2011.606666   \nConway, C.M., Pisoni,D.B., Anaya,E. M., Karpicke,J.,& Henning,S. C. (2o11). Implicit sequence learning in deaf children with cochlear implants. Developmental Science,14(1), 69-82. doi:10.111/j.1467- 7687.2010.00960.x   \nCores-Bilbao,E.,Fernandez-Corbacho,A.,Machancoses,F.H.,&Fonseca-Mora,M. C. (2019).Amusic-mediated ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "language learning experience: Students' awareness of their socio-emotional skils. Frontiers in Psychology, 10,2238. doi:10.3389/fpsyg.2019.02238 Cunilera,T., Camara,E.,Toro,J. M.,Marco-Pallares,J., Sebastian-Galles,N.,Ortiz,H,..Rodriguez-Foels, A. (2009). Time course and functional neuroanatomy of speech segmentation in adults. Neuroimage, 48(3), 541-553. doi:10.1016/j.neuroimage.2009.06.069 Cunillra,T.,Toro,J.M.,Sebastian-Galles,N.,&Rodriguez-Fornells,A.(2006).The efects of stress and statistical cues on continuous speech segmentation: An event-related brain potential study. Brain Research,1123(1),168-178.doi:10.1016/j.brainres.2006.09.046 D'Mello,A. M.,& Gabrieli, J. D.E.(2018). Cognitive neuroscience of dyslexia. Language, Speech, and Hearing Services in Schools,49(4),798-809.doi:10.1044/2018_LSHSS-DYSLC-18-0020 Daikoku,T.,Yatomi,Y.,&Yumoto,M.(2O17).Statistical learning of an auditory sequenceand reorganization of acquired knowledge: Atime course of word segmentation and ordering. Neuropsychologia, 95,1-10. doi:10.1016/j.neuropsychologia.2016.12.006 Daltrozzo, J.,Emerson, S.N., Deocampo,J.,Singh, S.,Freggens,M., Branum-Martin,L,&Conway,C.M. (2017). Visual statistical learning is related to natural language ability in adults: An ERP study. Brain and Language,166, 40-51. doi:10.1016/j.bandl.2016.12.005 Das,T.,Padakannaya,P.,Pugh, K. R.,& Singh, N. C. (2o11). Neuroimaging reveals dual routes to reading in simultaneous proficient readers of two orthographies. Neuroimage, 54(2),1476-1487. doi:10.1016/j.neuroimage.2010.09.022 de Bruin,A. (2019). Not all Bbilinguals are the same: Acallfor more detailed assessments and descriptions of bilingual experiences. Behavioral Sciences,9(3),33. doi:10.3390/bs9030033 Dehaene,S., Cohen,L., Morais,J.,& Kolinsky,R. (O15).Iiterate to literate: Behavioural and cerebralchanges induced by reading acquisition. Nature Reviews Neuroscience,16(4),234-244. doi:10.1038/nrn3924 Deocampo, J. A., Smith, G. N.L., Kronenberger, W. G., Pisoni, D.B,& Conway, C.M. (2018). The role of statistical learning in understanding and treating spoken language outcomes in deaf children with cochlear implants.Language, Speech, and Hearing Services in Schools, 49(3S),723-739. doi:10.1044/2018_LSHSS-STLT1-17-0138 Durrant, S.J., Cairney, S.A.,& Lewis,P.A. (2013).Overnightconsolidation aids the transfer of statistical knowledge from the medial temporal lobe to the striatum. Cerebral Cortex, 23(10),2467-2478. doi:10.1093/cercor/bhs244 Elleman, A. M., Steacy,L. M.,& Compton,D.L.(2019). The role of statistical learning in word reading and speling development: More questions than answers. Scientific Studies of Reading, 23(1), 1-7. doi:10.1080/10888438.2018.1549045 Erickson,L.C.,&Thiessen,E.D.(O15).Statistical learning oflanguage: Theory,validity,and predictions ofa statistical learning account of language acquisition. Developmental Review, 37, 66-108. Finn,A.S., Kharitonova, M., Holtby,N.,& Sheridan,M.A.(2O19). Prefrontal and hippocampal structure predict statistical learning ability in early childhood. Journal of Cognitive Neuroscience,31(1),126-137. doi:10.1162/jocn_a_01342 Fitzgerald, K.,&Todd,J. (2O18). Hierarchical timescales ofstatisticallearning revealedby mismatch negativityto auditory pattern deviations. Neuropsychologia,120,25-34.doi:10.1016/j.neuropsychologia.2018.09.015 Forest,T.A.,Lichtenfeld,A., Alvarez,B.,&Finn,A. S. (2o19). Superior learning in synesthetes: Consistent grapheme-color associations facilitate statistical learning. Cognition,186,72-81. doi:10.1016/j.cognition.2019.02.003 Francois, C.,Chobert,J.,Besson,M.,& Schon, D.(2013).Music training for the development of speech ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "segmentation. Cerebral Cortex, 23(9),2038-2043. doi:10.1093/cercor/bhs180   \nFrancois, C.,& Schon,D.(2011). Musical expertise boosts implicit learning of both musical and linguistic structures.Cerebral Cortex,21(10),2357-2365. doi:10.1093/cercor/bhr022   \nFrost, R.,Armstrong,B.C., Siegelman,N.,& Christiansen,M. H.(2015). Domain generalityversus modality specificity: The paradox of statistical learning. Trends in Cognitive Sciences,19(3),117-15. doi:10.1016/j.tics.2014.12.010   \nFrost,R.,Siegelman,N.,Narkis,A.,& Afek,L.(2O13).What predicts successfuliteracy acquisition inasecond language? Psychological Science,24(7),1243-1252. doi:10.1177/0956797612472207   \nGabay,Y.,Thiesen,E.D.,&Holt,L.L.(2o15).Impairedstatistical learning indevelopmental dyslexia.Journal of Speech,Language,and Hearing Research,58(3),934-945.doi:10.1044/2015_JSLHR-L-14-0324   \nGoujon,A., Didierjean,A.,& Thorpe, S. (2015). Investigating implicit statistical learning mechanisms through contextual cueing. Trends in Cognitive Sciences,19(9),524-533. doi:10.1016/j.tics.2015.07.009   \nHay, J. F.,Pelucchi,B.,Estes,K.G.,&Saffran,J.R. (2o1).Linking sounds to meanings: Infant statistical learning in a natural language. Cognitive Psychology, 63(2), 93-106. doi:10.1016/j.cogpsych.2011.06.002   \nHu, W.,Lee,H.L.,Zhang, Q.,Liu,T., Geng,L.B.,Seghier,M.L....Price,C.J.(201).Developmental dyslexia in Chinese and English populations: Dissociating the effect of dyslexia from language differences. Brain, 133(Pt 6), 1694-1706. doi:10.1093/brain/awq106   \nHung,Y. H.,Frost,S.J.,Molfese,P., Malins,J. G.,Landi,N.,Mencl,W.E,.Pugh,K.R. (2019).Common neural basis of motor sequence learning and word recognition and its relation with individual diferences in reading skill Scientific Studies of Reading, 23(1),89-100. doi:10.1080/10888438.2018.1451533   \nJeste,S. S.,Kirkham,N.,Senturk,D.,Hasenstab,K.,Sugar, C.,Kupelian, C.,...Johnson, S.P. (2015). Electrophysiological evidence of heterogeneity in visual statistical learning in young children with ASD. Developmental Science,18(1), 90-105. doi:10.111/desc.12188   \nJost,E.,Conway,C.M.,Purdy,J.D., Walk,A.M.,& Hendricks,M. A. (2015).Exploring the neurodevelopment of visual statistical learning using event-related brain potentials. Brain Research, 1597, 95-107. doi: 10.1016/j.brainres.2014.10.017   \nKaruza,E.A.,Newport,E.L.,Aslin,R.N.,Starling, S.J.,Tivarus,M.E.,& Bavelier,D. (2O13). The neural correlates of statistical learning in a word segmentation task: An fMRI study. Brain and Language, 127(1),46-54. doi:10.1016/j.bandl.2012.11.007   \nKidd,E.,&Arciuli,J. (206).Individual differences in statistical learning predictchildren's comprehensionof syntax. Child Development, 87(1),184-193. doi:10.1111/cdev.12461   \nKirkham,N.Z.,Slemmer,J.A.,&Johnson,S.P. (2oo2). Visual statistical learning ininfancy: Evidence fora domain general learning mechanism. Cognition, 83(2), B35-B42.   \nKnowlton, B.J.,Mangels,J.A.,& Squire,L.R.(1996). Aneostriatal habit learning system inhumans.Science, 273(5280), 1399-1402.   \nKoelsch,S.,Busch,T.,Jentschke,S.,&Rohrmeier,M. (2016).Under the hood ofstatistical learning: Astatistical MMN reflects the magnitude of transitional probabilities in auditory sequences. Scientific Reports,6, 19741. doi:10.1038/srep19741   \nKramsch, C. (2014). Teaching foreign languages in an era of globalization: Introduction. The Modern Language Journal, 98(1),296-311. doi:10.111/j.1540-4781.2014.12057.x   \nKrogh,L.,Vlach,H.A.,&Johnson, S.P. (2012).Statisticallearning acrossdevelopment: Flexible yetconstrained. Frontiers in Psychology,3,598.doi:10.3389/fpsyg.2012.00598   \nKuhl, P.K. (2o04). Early language acquisition: Cracking the speech code. Nature Reviews Neuroscience, 5(11), 831-843.doi:10.1038/nrn1533   \nKuhl,P. K., Stevenson,J., Corrigan,N.M.,van den Bosch,J.J.F., Can,D.D.,& Richards,T.(2016). Neuroimaging of the bilingual brain: Structural brain correlates of listening and speaking in a second language. Brain and Language,162,1-9. doi:10.1016/j.bandl.2016.07.004   \nKuhl, P.K.,Tsao,F M.,&Liu,H.M. (20o3).Foreign-language experience ininfancy: Effects of short-term exposure and social interaction on phonetic learning. Proceedings of the National Academy of Sciences of the United States of America, 100(15), 9096-9101. doi:10.1073/pnas.1532872100   \nKuo,L. J., Kim,T.J.,Yang,X,Li,H.,Liu,Y., Wang, H...Li,Y. (2015). Acquisition of Chinesecharacters:The effects of character properties and individual diferences among second language learners. Frontiers in Psychology, 6,986. doi:10.3389/fpsyg.2015.00986   \nLammertink,1., Boersma, P., Wijnen,F.,& Rispens,J.(2O17). Statistical learing in specific language impairment: A meta-analysis. Journal of Speech, Language, and Hearing Research, 60(12),3474-3486. doi:10.1044/2017_JSLHR-L-16-0439   \nLim, S. J.,Fiez,J.A.,& Holt,L.L. (2019).Role of the striatum in incidental learning of sound categories. Proceedings ofthe National Academy of Sciences of the United States of America, 116(10), 4671-4680. doi:10.1073/pnas.1811992116   \nLiu,L.,& Kager,R. (2O17). Statistical learning of speech sounds is most robust during the period of perceptual attunement.Journal of Experimental Child Psychology,164,192-208.doi:10.1016/j.jecp.2017.05.013   \nLopez-Barroso,D.,Ripolles,P.,Marco-Palares,J., Mohammadi,B., Munte,T.F.,Bachoud-Levi,A. C.,.de Diego-Balaguer, R. (2015). Multiple brain networks underpinning word learning from fluent speech revealed by independent component analysis. Neuroimage, 110,182-193. doi:10.1016/j.neuroimage.2014.12.085   \nMamiya, P.C., Richards,T.L., Coe,B.P.,Eichler,E.E.,& Kuhl,P.K. (016).Brai white mater structure and COMT gene are linked to second-language learning in adults. Proceedings of the National Academy of Sciences ofthe United States of America, 113(26),7249-7254.doi:10.1073/pnas.1606602113   \nMilne,A.E.,Petkov, C.I.,& Wilson, B. (2o18). Auditory and visual sequence learming in humans and monkeys using an artificial grammar learning paradigm. Neuroscience, 389,104-117. doi:10.1016/j.neuroscience.2017.06.059   \nMisyak,J.B., Christiansen,M.H.,&Tomblin,J.B.(20l0).On-line idividual differences instatisticallearing predict language processing.Frontiers in Psychology, 1,31. doi:10.3389/fpsyg.2010.00031   \nMonroy,C.D.,Gerson,S.A.,Dominguez-Martinez,E.,Kaduk,K.,Hunnius,S.,&Reid,V. (2019).Sensitivityto structure in action sequences: An infant event-related potential study. Neuropsychologia,126, 92-101. doi:10.1016/j.neuropsychologia.2017.05.007   \nMonroy, C.D., Gerson, S.A.,& Hunnius,S.(017). Toddlers'action prediction: Statistical learning ofcontinuous action sequences.Journal of Experimental Child Psychology, 157,14-28. doi:10.1016/jjecp.2016.12.004   \nMonroy, C.D.,Meyer,M., Schroer, L., Gerson,S.A., & Hunnius, S. (2o19). The infant motor system predicts actions based on visual statistical learning. Neuroimage,185, 947-954. doi: 10.1016/j.neuroimage.2017.12.016   \nNewport,E.L. (2o16). Statistical language learning: Computational, maturational,and linguistic constraints. Language and Cognition, 8(3), 447-461. doi:10.1017/langcog.2016.20   \nOnnis,L.,& Thiessen,E. (2013).Language experience changes subsequent learning. Cognition, 126(2),268-284. doi:10.1016/j.cognition.2012.10.008   \nPalmer, S.D.,Hutson,J.,&Mattys,S.L. (2o18).Statisticallearning forspeech segmentation: Age-related changes ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and underlying mechanisms. Psychology and Aging,33(7),1035-1044.doi:10.1037/pag0000292 Perkovic,S.,& Orquin,J.L. (2018). Implicit statistical learning inreal-world environments leads to ecologically rational decision making. Psychological Science,29(1),34-44. doi:10.1177/0956797617733831 Petersson, K. M.,Folia, V.,& Hagort,P.(2O12). What artificial grammar learning revealsabout the neurobiology of syntax. Brain and Language,120(2),83-95. doi:10.1016/j.bandl.2010.08.003 Potter, C.E., Wang,T.,& Safran,J.R. (Ol7). Second language experience facilitates statistical learning of novel linguistic materials. Cognitive Science, 41(S4), 913-927. doi:10.111/cogs.12473 Qi, Z., Sanchez Araujo,Y., Georgan, W.C., Gabrieli,J.D.E.,& Arciuli,J. (2018). Hearing matters more than seeing: A cross-modality study of statistical learning and reading ability. Scientific Studies of Reading, 23(1),101-115. doi:10.1080/10888438.2018.1485680 Raviv, L.,&Arnon,I. (2O18).The developmental trajectoryofchildren's auditory and visual statistical learning abilities: Modality-based diferences inthe effect ofage.Developmental Science,21(4),e1593. doi:10.1111/desc.12593 Reeder,P.A.,Newport,E.L.,&Aslin,R.N.(20l3).From shared contexts to syntactic categories: The roleof distributional information in learning linguistic form-classes. Cognitive Psychology, 66(1), 30-54. doi:10.1016/j.cogpsych.2012.09.001 Roser,M.E.,Aslin,R.N.,McKenzie,R.,Zahra,D.,&Fiser,J. (2O15).Enhanced visual statisticallearning in adults with autism. Neuropsychology 29(2),163-172. doi:10.1037/neu000137 Roser,M.E.,Fiser,J.,Aslin,R.N.,&Gazzaniga,M.S.(2Ol1).Right hemisphere dominance in visual statistical learning. Journal of Cognitive Neuroscience, 23(5),1088-1099.doi:10.1162/jocn.2010.21508 Saffran, J. R. (2O18). Statistical learning as a window into developmental disabilities.Journal of Neurodevelopmental Disorders,10(1),35.doi:10.1186/s11689-018-9252-y Saffran, J.R.,Aslin,R.N.,& Newport,E.L. (1996). Statistical learning by8-month-old infants.Science, 274(5294),1926-1928. doi: 10.1126/science.274.5294.1926 Saffran,J.R.,& Kirkham, N.Z.(2018). Infantstatistical learning.Annual Review Psychology, 69,181-203. doi:10.1146/annurev-psych-122216-011805 Saffran, J.R.,Newport,E.L.,Aslin,R.N.,Tunick,R.A.,& Barrueco,S. (1997). Incidental language learing: Listening (and learning) out of the corner of your ear. Psychological Science,8(2),101-105. Santolin, C.,& Saffran, J.R. (2O18). Constraints on statistical learning across species.Trends in Cognitive Sciences,22(1), 52-63. doi:10.1016/j.tics.2017.10.003 Sawi, O.M.,&Rueckl,J. (2018). Reading and the neurocognitivebases of statistical leaming. Scientific Studies of Reading, 23(1), 8-23. doi:10.1080/1088438.2018.1457681 Schapiro,A. C., Gregory,E.,Landau,B.,McCloskey,M.,& Turk-Browne,N.B.(2014). The necesityof the medial temporal lobe for statistical learning. Journal of Cognitive Neuroscience,26(8),1736-1747. doi:10.1162/jocn_a_00578 Schwab,J.F., Schuler,K.D.,Stillman,C.M.,Newport,E.L.,Howard,J.H.,&Howard,D.V.(2016).Agingand the statistical learning of grammatical form classes.Psychology and Aging, 31(5), 481-487. doi: 10.1037/pag0000110 Shufaniya, A.,& Arnon,I. (2O18). Statistical learning is not age-invariant during childhood: Performance improves with age across modality. Cognitive Science, 42(8), 3100-3115. doi:10.1111/cogs.12692 Siegelman,N.,Bogaerts,L.,&Frost,R. (2017).Measuring individual diffrences instatistical learning: Current pitfalls and possible solutions.Behavior Research Methods, 49(2),418-432. doi:10.3758/s13428-016- 0719-z Siegelman,N.,& Frost, R. (2015). Statistical learning as anindividualability: Theoretical perspectives and ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "empirical evidence.Journal of Memory and Language,81,105-120.doi:10.1016/j.jml.2015.02.001   \nSiok,W.T.,Perfeti,C.A.,Jin,Z.,&Tan,L.H.(2Oo4).Biologicalabnormalityofimpairedreadingisconstrained by culture. Nature,431,71-76.   \nSlone,L.K.,&Johnson, S.P. (2O18).When learning goes beyond statistics: Infants represent visual sequences in terms of chunks.Cognition, 178,92-102. doi:10.1016/j.cognition.2018.05.016   \nSpencer,M.,Kaschak,M.P.,Jones,J.L.,&Lonigan, C.J. (2O15).Statistical learning is related to earlyliteracyrelated skills.Reading and Writing,28(4),467-490. doi:10.1007/s11145-014-9533-0   \nSquire,L.R.,Stark,C.E.,& Clark,R.E.(2oo4).The medial temporal lobe.Annual Review Neuroscience.,27, 279-306.   \nThiessen,E.D.,Kronstein,A.T.,& Hufnagle,D.G. (2O13).The extraction and integration framework: A twoprocess account of statistical learning.Psychological Bulletin,139(4),792-814.   \nThiessen,E.D.,Onnis,L.,Hong,S.J.,&Lee,K.S.(2019).Earlydeveloping syntactic knowledge influences sequential statistical learning in infancy. Journal of Experimental Child Psychology,177,211-221. doi:10.1016/j.jecp.2018.04.009   \nTreiman,R.,Kessler,B.,Boland,K., Clocksin,H.,& Chen,Z. (2018).Statistical learning and speling: Older prephonological spellers produce more wordlike spellings than younger prephonological spellers. Child Development, 89(4),e431-e443.doi:10.1111/cdev.12893   \nWang,T.,& Saffran,J.R.(2O14).Statistical learning of a tonal language: The influence of bilingualismand previous linguistic experience.Frontiers in Psychology,5,953.doi:10.3389/fpsyg.2014.00953   \nYu,A., Chen, M.S.Y., Cherodath,S.,Hung,D.L.,Tzeng,O.J.L.,& Wu,D.H. (2019). Neuroimaging evidence for sensitivity to orthography-to-phonology conversion in native readers and foreign learners of Chinese. Journal of Neurolinguistics, 50,53-70. doi:10.1016/j.jneuroling.2018.07.002   \nZhao,T. C.,& Kuhl, P.K. (2O16). Musical intervention enhances infants' neural processing of temporal structure in music and speech. Proceedings of the National Academy of Sciences of the United States ofAmerica, 113(19), 5212-5217. doi:10.1073/pnas.1603984113 ",
+        "page_idx": 15
+    }
+]

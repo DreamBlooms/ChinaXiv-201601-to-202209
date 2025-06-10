@@ -1,0 +1,411 @@
+# 中国人的善与恶：人格结构与内涵
+
+焦丽颖」杨颖」 许燕」 高树青」 张和云2
+
+(1北京师范大学心理学部，应用实验心理北京市重点实验室,心理学国家级实验教学示范中心(北京师范大学)，北京 100875)(上海政法学院政府管理学院，上海 201701)
+
+摘要为了探究中国人善恶人格的结构和内涵，研究基于人格的词汇学假设，从现代汉语词典和开放式问卷调查获得的人格词汇中选取善与恶的人格词，分别建立了善、恶人格词表。通过探索性因素分析和验证性因素分析 $( \mathrm { N } = 1 4 6 7 )$ ，最终得到27个善人格词汇与28个恶人格词汇，因素分析的结果显示：中国人的“善”人格包含尽责诚信、利他奉献、仁爱友善、包容大度四个维度；“恶”人格包含凶恶残忍、虚假伪善、污蔑陷害、背信弃义四个维度。
+
+关键词善；恶；人格结构；词汇学；中国文化
+
+# 1引言
+
+自古以来，“善”与“恶”便是一个焦点话题。早在《周易·系辞下传》中就有“善不积，不足以成名；恶不积，不足以灭身”之说，孟子也曾言“君子莫大乎与人为善”（《孟子·公孙丑上》)。哲学家罗素亦总结道：“伦理学的基本概念是内在善与内在恶”。可以说，在中西方的伦理思想史上，思想家们都是从人性善恶之争开始建构自己的理论体系的(费丹乙，2017)。善恶作为道德评价研究的基础，一直受到哲学、心理学、社会学等多方学者的关注和重视(Saxton,2006;Staub,2003)。中国人持有强烈的“善有善报、恶有恶报”世道正义观(吴胜涛,2011)。而我们所处的世界里善恶亦是无处不在：国家之间对灾后重建的援助；以及文明社会中的欺诈与伪善、忘恩负义、幸灾乐祸等恶习，种族和国家间的野蛮战争(舒远招,2008)。人格心理学家认为，个体所做出的善行和恶行不能仅仅归因到情境因素或道德因素，还应该考虑到人格因素的影响(Jonason,Zeigler-Hill,& Okan,2017；王云强,2009)。因此，深入探究善恶人格的内涵，理解其在中国文化下的结构尤为重要。本研究旨在人格心理学领域对善恶人格的结构进行探索，并初步确定其测量方式，以期为相关研究的开展和道德文明的建设提供研究基础。
+
+# 1.1善恶人格的概念界定
+
+人格是个体的一种内在品质，是在遗传与环境的交互作用下，个体所具有的稳定而独特的心理品质组合系统(许燕,2009)，包含了个体在认知、情感和行为等各方面的特点(王云强，2009)。目前众多人格心理学家采用心理特质(psychological traits)来描述个体的人格特征，将人格看作是个体内部的心理特质和机制的集合(Larsen& Buss,2015)。实际上，其中一些人格特质具有道德属性，例如仁慈、诚实、有同情心(Miller,2014)。
+
+自从Allport和Odbert (1936)运用词汇学的方法探究人格结构以来，人格心理学家一直致力于发现能够准确描述人格特征的各个维度。而在人格心理学不断发展的过程中，研究者更加看重人格的社会属性，逐渐将人格特质扩展到道德领域。例如，早期弗洛姆就提出了社会性格(social character)的概念(Fromm,1994)，而近几十年来，道德心理学研究者开始对道德人格展开研究(moral personality;Walker&Frimer,2007)，他们认为，将人格因素引入道德领域能更好的解释个体的道德行为(Hill& Roberts，2010；王云强，2009；王云强，郭本禹，2011)。也有研究者认为，中国文化中的“格”离不开道德，道德是人格的社会成分(贾馥茗,1999)。可以说，道德是善恶人格的外化表现，也是评价人们善恶行为的一种价值标准(万俊人,1988)。因此，本研究对善恶人格做以下界定：善恶人格是个体在社会化过程中形成的一种具有社会道德评价意义的内在心理品质。
+
+# 1.2善恶人格的相关研究
+
+以往人格理论的很多概念支持了善人格的存在。在日常生活中，我们也会发现与有些人相比另外一些人会更加乐于助人、慷慨友好，这些人也往往被评价为更加利他。拉什顿等研究者通过调查和对以往研究的综述分析发现了利他人格的存在，并编制了《自我报告利他主义量表》测量个体的利他人格(Rushton,Chrisjohn,& Fekken,1981)。在大五人格的宜人性和尽责性等因素中也包括了一些可以理解为善人格的子维度，如坦诚、利他、责任感(John,Naumann,& Soto,2008)。后来有研究者再次通过词汇学方法探讨人格结构，提出了新的六因素模型(HEXACO)，比大五人格多出的一个新因子是诚实-谦恭(Honesty-Humility)，且位于第一因子,它反映了一个人正直、谦逊、真诚和坦率等倾向(Ashton&Lee,2007; Ashton,Lee,& de Vries,2014)。此外，Cawley,Martin 和 Johnson(2000)采用词汇学方法抽取描述美德的术语，并编制了美德量表(Virtues Scale;VS)。在随后的近十年来，关于人格心理学中如美德、谦虚等人格的研究文献不断涌现(Krueger,Hicks,& McGue,2001; Shryack,Steger,Krueger,&Kallie,2010;Xiong,Wang,&Cai,2018)，并有研究者正式提出了“光明三人格”(Light Triad
+
+Personality)的概念以描述人们在生活中的积极特质(Kaufman，Yaden，Hyde，& Tsukayama,2019)。
+
+在以中国文化为背景的人格心理学研究中，杨国枢等研究者采用词汇学方法，对涉及他人、事物和个人取向的人格形容词进行收集整理，发现中国人的人格结构包含“善良诚朴—阴险浮夸”的维度(Yang&Bond,1990)。张妙青等研究者采用合理建构法、实践标准法及因子分析法构建了中国人的人格特质结构，并编制了“中国人个性测量表(Chinese PersonalityAssessment,CPAI)",其中就包含了宽容—刻薄(Graciousness—Meanness)、和谐性(Harmony)责任感(Responsibility)，老实—圆滑(Veraciousness—slickness)等维度，而这些人格维度代表了中国文化所传承下来的与人为善、重情重义、甘于奉献等美德特征(Cheung,Leung，Fan,Song,Zhang,& Zhang,1996)。王登峰等研究者建构的中国人“大七”人格结构中，“善良”是其中一个稳定的人格维度，高分者表现出对人真诚、友好、顾及他人等行为，低分者则有对人虚假、欺骗、不择手段等特点(王登峰，崔红,2005a,2005b)。在此基础上，张和云，赵欢欢和许燕(2018)更明确地提出了“善良人格”这一概念，并探索了其内部结构。不仅仅是形容词，在动词方面，许燕和王萍萍(2011)也发现了人格三因子模型(CLP 模型)中与善有关的"施爱"这一维度。另外，诚实—谦恭维度在中国文化背景下也得以验证(杨帆，夏之晨，陈贝贝，吴继霞,2015)。这些人格构念在一定程度上折射出中国人在几千年的历史积累中留存下来的丰厚而又独特的人格特质(张建新，周明洁,2006)。
+
+同样，已有研究也提出了属于恶人格范畴的消极人格因素，人格心理学家荣格提出了人格中的阴影(shadow)，即潜意识和人性中黑暗的方面，是人不良思想、邪恶感和罪恶行为的根源。艾森克提出了人格层次模型中，将特质分为内外性、神经质和精神质，其中精神质便包含如攻击的、自我中心的、缺乏同理心的和冲动的等特质。精神质得分高的个体很容易卷入到暴力事件、犯罪活动中(Larsen& Buss,2015)。近十年来，更是许多研究者开始关注非临床群体中不被社会所赞许的人格特质(socially aversive personality)，有研究证明暗黑人格(theDark Triad)和反社会行为或犯罪行为有关(Goodboy&Martin，2015；Jones，&Neria,2015)。随着有“恶”人格的兴起，研究者们不断开发出了测量人格黑暗面的量表，并探究了这些恶人格与大五人格之间的关系。
+
+近几年，暗黑人格已经成为研究者们关注的热点主题之一(秦峰，许芳，2013；左世江，王芳，许燕,2015)，从包含马基雅维利主义、精神病态和自恋开始，越来越多的研究者开始对“暗黑”人格进行扩充：如虐待特质(sadistic personality)，表达人们喜欢通过他人的痛苦而体验到快乐(Buckels,Jones,& Paulhus,2013;Davies & Hand,2003)，与之类似的还有幸灾乐祸，被称为人性底部的邪恶快感(曹红蓓，许燕，辛霞，2012)；恶意(spitefulness)，表达人们刻意伤害他人的特征(Marcus，Zeigler-Hill，Mercer，& Norris，2014)；以及非道德性(Amoralism)，表达人自私自利的内在特质(Knezevic,2012)。有生命史研究发现，对于人类七宗罪(傲慢、嫉妒、暴怒、懒惰、贪婪、色欲和暴食)的预测，暗黑类的人格比道德具有更重要的作用(Jonason,etal.,2017)。国内研究者对中国人的厚黑人格进行了探索，发现厚黑人格结构包括了性恶推断、手段扭曲、感情冷漠、利益执着(汤舒俊，郭永玉,2015)。可以说，恰恰是人格的这些黑暗的方面，更好地解释了人性中其他人格分类如大五人格、HEXACO模型没有充分包含的因素(Jonason,etal.,2017)。
+
+# 1.3善恶人格的结构探索
+
+结合以往人格研究的理论可以发现，许多研究者已对人格中“阳光”和“黑暗”面进行了多方面、多维度的探索与验证。这些研究均表明，善与恶作为人格特质的一部分，已经嵌入到了人格心理学研究中。然而，以往研究都是将善恶作为同一个问题进行分析，研究者前期对善恶单双维结构进行了探索和验证，共收集有效被试 700 名(男性195名，女性 505 名)。研究结果发现相比善恶为一个维度的两端，善恶的双维度结构模型拟合度更好(单维度模型拟合指标： $\chi ^ { 2 } = 3 3 8 5 . 2 1$ ，d $\mathrm { f } = 5 6 0$ $\chi ^ { 2 } / \mathrm { d f } = 6 . 0 5$ $\mathrm { C F I } = 0 . 7 3$ $\mathrm { T L I } = 0 . 7 1$ ,RESEA $= 0 . 1 2$ ,SRMR $\mathbf { \tau } = \mathbf { \tau }$ 0.10;双维度模型拟合指标： $\chi ^ { 2 } = 1 3 4 6 . 9 4 , \mathrm { d f } = 5 2 6 , \chi ^ { 2 } / \mathrm { d f } = 2 . 5 6 , \mathrm { C F I } = 0 . 9 2 , \mathrm { T L I } = 0 . 9 1 ,$ RESEA$= 0 . 0 7 , \mathrm { S R M R } = 0 . 0 5 )$ 。鉴于善恶人格是两个独立人格维度，本研究将对善与恶的人格分别进行人格结构的探查。
+
+人格心理学中对人格结构探索多通过词汇学方法来进行。词汇学研究取向的基本假设是：每一种文化下的自然语言包含了所有能描述人格的维度，有什么样的人格表现就会有什么词来描述它。反过来，我们可以通过词汇来研究人格维度，因为“所有的人格特质都会被编码到自然语言中去”(Allport&Odbert,1936；许燕,2009)。很多心理学家采用类似方法提出不同的人格特质理论模型和测量工具，例如，大五人格模型就是建立在词汇学和因子分析方法的基础上的(Goldberg，1992)。杨中芳(1991)曾说：“探研中国人当用的词汇及分析中国人用自己的语言，来找出我们用以看某一问题的概念是很重要的。从中去研究我们的思想看法及我们的世界观，可以更彻底地帮助我们了解我们行为背后所含的意义”。通过对语言中具有人格特点的形容词分析，能够获得人格结构的具体维度，同时也可以折射出文化的内涵(王登峰，崔红,2000)。因此，本研究拟在借鉴国内外已有的理论和实证研究成果的基础上，从现代汉语和日常用语中提取描述人善恶的词汇进行分析，以期探查中国文化下与善恶相关的人格特质的具体结构，并进一步分别编制出信效度较好的中国人善恶人格的测量工具。
+
+# 2研究1善恶人格词表的确定
+
+# 2.1研究目的
+
+本研究旨在基于现代汉语词典和开放性问卷调查的结果，采用词汇学方法，对中国文化下的善恶特质词汇进行系统的收集、整理和归类，编制善和恶人格词表。
+
+# 2.2研究过程
+
+研究者对 Gorbaniuk,Budzinska, Owczarek,Bozek 和 Juros (2013)与张和云(2016)的方法进行改进。首先，为获得生活中常用的善恶人格词汇，编制开放式调查问卷。共有64 名被试参与开放式问卷调查，其中男性14名，女性50名。开放式问卷包含4个问题（你认为什么是善？你认为一个善的人具有什么样的品质，请写出10个他/她所具有的人格特征；你认为什么是恶？你认为一个恶的人具有什么样的品质，请写出10个他/她所具有的人格特征)。根据问卷的调查结果，请3名受过心理学专业训练的研究生对开放式问卷调查结果的内容进行分析和整理。最终得到 374 个词汇，其中描述善的词汇有173个，描述恶的词汇有 201个。
+
+随后对善恶人格词汇的确定共经历以下几个步骤：
+
+第一，选取源自词典的人格词汇。词典为商务印书馆出版的《现代汉语词典（第7版)》(2016 年版)，由中国社会科学院语言研究所词典编辑室编写。词典中词汇部分包含至少74,000个单独的词条。由4组受过心理学专业训练的研究生，每组3人，分组对词典中有“能描述人类的善与恶的词汇”进行筛选。第一轮的原始词汇列表中包含所有人最初选的词汇，共有 3,240个词汇被选出，其中描述善的词汇1,175个，描述恶的词汇2,065 个。
+
+第二，选出组内研究者一致认同的词汇。在原始词汇列表的基础上进行组内讨论，选出同一组内3名研究者一致认为可以描述善恶特征的词汇，得到1,375个词汇，其中描述善的词汇 424个，描述恶的词汇951个。
+
+第三，对所选词汇整理合并。研究者对从《现代汉语词典》中挑选出的和开放问卷调查中得到的人格词汇(597善，1152恶)进行整理，随后由15名受过心理学专业训练的研究生和1名人格心理学专业教授对存在异议和分歧的词汇进行讨论分析，删除生僻的、晦涩难懂的和有歧义的词汇，并对意义相同的词汇进行合并，得到描述善的词汇118个，描述恶的词汇132个。
+
+第四，整理、筛选、补充和完善词汇。本过程分为两个步骤，首先由7名受过心理学专业训练的研究生对以上所得词汇，参考《现代汉语常用词词频词典》、《同义词大词典：辞海版》与《新华同义词典（中性本)》对词汇进行整理。第二，将所有收集到的词汇与王登峰和崔红(2005c)编制的1520 个中国人人格特质形容词表、沐守宽(2007)编制的 378 个美德形容词表以及张和云(2016)编制的善良人格词表进行比对和替换等，整理出初步的善恶词汇共107个，其中描述善的词汇为42个，描述恶的词汇为65个。
+
+第五，词汇确定。以整理所得的107个词汇为基础，编制成他评问卷，分别请66 名心理学专业和111名非心理学专业的被试判断这些词汇在多大程度上符合一个“善”或“恶”的人所具有的人格特质，采用5点计分( $\mathbf { \nabla } \cdot \mathbf { 1 } = \mathbf { \nabla }$ 非常不符合， $5 =$ 非常符合)。在参与评定的被试中，男性 54名，女性123名，目前为止所接受的最高教育高中(包括中专)及以下3名，大专1名，本科79名，硕士及以上94名，平均年龄 $M = 2 3 . 7 5$ ， $S D = 2 . 8 9$ ，被试在完成问卷后获得2元奖励。被试对词汇认同度的评定结果显示，所有词汇认同度评分均在3.5分以上，因此未对词汇进行删减。并加入张和云等人(2016,2018)编制的《善良人格问卷》33 个词汇(其中有13个词汇是重复的)，最终保留描述善的人格词汇62个，描述恶的人格词汇65个。
+
+# 3研究2善人格的结构及词汇评定量表编制
+
+# 3.1研究目的
+
+本研究旨在单独探索善的人格结构。将研究1得到的62个善人格词汇编制成问卷，通过因素分析和信效度检验，最终确立中国人的善人格结构，编制善人格词汇评定量表。
+
+# 3.2研究方法
+
+# 3.2.1被试
+
+通过网络调查平台，在全国范围内招募被试。施测时在题目中加入一道陷阱题目：“为确保您在认真答题，此题请选择不确定”，没有通过陷阱题目测试的被试，其答题结果将被标记为无效作答。样本一：用于探索性因素分析，共招募 321名被试，得到有效被试 313名(男性131名，女性 182名)。被试年龄范围在15到 66 岁之间，平均年龄为30.32 岁 $\boldsymbol { S } \boldsymbol { D } =$ 7.82)。样本二：用于验证性因素分析和信效度检验。被试共 553 名，有效被试 518名(男性228 名，女性 290 名)。被试年龄范围在13到60 岁之间，平均年龄为25.78 岁 $( S D = 9 . 7 2 )$ 。
+
+研究者对填写的结果审核通过后，被试将获得4\~7元的奖励。
+
+# 3.2.2研究程序
+
+第一步，将62个善人格词汇编制成问卷对样本一进行施测，采用自评式5点李克特量表，请所有被试评定这些描述与自己相符合的程度， $1 =$ 完全不符合， $5 =$ 完全符合。通过探索性因素分析，初步揭示善人格的结构。
+
+第二步，根据初测分析得到的善人格词汇问卷，加入效标工具，对样本二进行施测。通过验证性因素分析和信、效度检验，验证和确立善人格结构，编制出善人格词汇评定量表(Good Personality Lexical Rating Scale,VPRS)。效标工具采用的是简版国际人格五因子量表(Donnellan,Oswald,Baird,&Lucas,2006；何剑骅,2015)和中文版利他人格自陈量表(Rushton,et al.,1981；汤舒俊，舒博，张文渊,2015)。
+
+# 3.3研究结果
+
+# 3.3.1探索性因素分析结果
+
+使用 SPSS20.0 软件对数据进行统计分析。首先，通过KMO 和Bartletts 球形检验分析发现，KMO 值为 0.93，Bartletts 球形检验结果显著(近似 $\chi ^ { 2 } = 9 5 6 1 . 0 0$ ， $d f = 1 8 9 1$ ， $p < 0 . 0 0 1 \$ ，表明该问卷的项目适合做探索性因素分析。
+
+然后，采用主轴因子分析法(Principal axis factoring analysis)和最优斜交转轴法(Promax)对62个词汇进行因素分析。依据心理测量学理论，在本研究中，根据以下几个标准进行题目筛选：删除（1）项目在所有因子上负荷都很低，项目的负荷值小于0.30 的题项；（2）共同度小于0.30；（3）同一个题项不能在2个或2个以上的因子上负荷值高于0.30的；（4)某个或某几个只有1到2个题项的因子。以上步骤遵循的基本原则是：先删除在所有因子上的载荷都很低的题项，然后删除跨因子载荷量最大的题项，最后删除少于2个题项的因子，每次只删一个题项或一个因子。
+
+基于上述步骤删除不符合标准的题项，最终保留30个词汇，累计解释总变异达到了$5 0 . 5 1 \%$ ，具体因子载荷和共同度见表1。
+
+表1善良人格的四因子结构  
+
+<html><body><table><tr><td>题目</td><td>因子1</td><td>因子2</td><td>因子3</td><td>因子4</td><td>共同度</td></tr><tr><td>A23 守信的</td><td>.710</td><td></td><td></td><td></td><td>.418</td></tr><tr><td>A6 可信任的</td><td>.709</td><td></td><td></td><td></td><td>.438</td></tr><tr><td>A54诚信的</td><td>.695</td><td></td><td></td><td></td><td>.484</td></tr></table></body></html>
+
+<html><body><table><tr><td>A42尽责的 .686</td><td></td><td></td><td>.398</td></tr><tr><td>A5真诚的</td><td>.655</td><td></td><td>.451</td></tr><tr><td>A4 诚实的</td><td>.591</td><td></td><td>.412</td></tr><tr><td>A39正义的</td><td>.551</td><td></td><td>.444</td></tr><tr><td>A24坦诚的</td><td></td><td></td><td>.396</td></tr><tr><td>A40 正直的</td><td>.508</td><td></td><td>.367</td></tr><tr><td>A62至诚的</td><td>.456</td><td></td><td>.367</td></tr><tr><td>A60 品行良好的</td><td>.441 .439</td><td></td><td>.325</td></tr><tr><td>A48 肯牺牲的</td><td>.871</td><td></td><td>.603</td></tr><tr><td>A21舍己为人</td><td>.811</td><td></td><td>.590</td></tr><tr><td>A9 大公无私</td><td>.685</td><td></td><td>.534</td></tr><tr><td>A14见义勇为</td><td>.642</td><td></td><td>.402</td></tr><tr><td>A30无私的</td><td></td><td></td><td>.513</td></tr><tr><td>A55 雪中送炭</td><td>.633</td><td></td><td>.403</td></tr><tr><td>A32以德报怨</td><td>.626</td><td></td><td>.326</td></tr><tr><td>A12 肯奉献的</td><td>.557</td><td></td><td>.426</td></tr><tr><td>A52热心公益的</td><td>.542</td><td></td><td>.515</td></tr><tr><td>A36 有同情心的</td><td>.533</td><td>.712</td><td>.502</td></tr><tr><td>A1仁爱的</td><td></td><td>.526</td><td>.361</td></tr><tr><td>A51重感情的</td><td></td><td>.452</td><td>.365</td></tr><tr><td>A29 为人着想的</td><td></td><td>.444</td><td>.374</td></tr><tr><td>A44 善解人意的</td><td></td><td>.421</td><td>.378</td></tr><tr><td>A33友善的</td><td></td><td>.331</td><td>.355</td></tr><tr><td>A43 宽宏大量的</td><td></td><td>.687</td><td>.623</td></tr><tr><td>A8大度的</td><td></td><td>.676</td><td>.441</td></tr><tr><td>A2有包容力的</td><td></td><td>.547</td><td>.310</td></tr><tr><td>A15 心胸开阔的</td><td></td><td>.452</td><td>.400</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>特征值</td><td>9.533 2.959</td><td>1.361</td><td>1.301</td></tr><tr><td>贡献率%</td><td>31.775 9.863</td><td>4.536</td><td>4.337</td></tr><tr><td>累积贡献率%</td><td>31.197 41.638</td><td>46.175</td><td>50.511</td></tr></table></body></html>
+
+注：因子提取方法：主轴因子分析法；旋转法：具有Kaiser标准化的倾斜旋转法。
+
+# 3.3.2验证性因素分析结果
+
+使用 Mplus 7.0软件，建立结构方程模型，对善良人格的四因子模型进行验证性因素分析，根据修正指数(modification index,MI)和词汇含义对模型进行修订，删掉了3个词条，分别是因子1中的“守信的”和因子2中的“雪中送炭”及“舍己为人”，因而有 27题进入模型。此外，将四因子模型与其他可能存在的竞争模型进行对比。竞争模型1：单因子模型，善人格的四个因子之间的关联性较强，是否意味着善良人格可能存在单因素结构，所有词汇测量的是单独的一个维度，因此有必要检验单因素结构模型与观测数据之间的拟合度。竞争模型2：三因子模型，张和云(2016)对善良人格的测量中有一个维度为“诚信友善”，其中的词汇包含了忠厚、真挚、与人为善、友善、尽责等词汇，与因子1和因子3部分有所重合，且因子1与因子3潜变量的标准化相关较高，因此将其合并为一个因子，检验三因子模型的拟合情况。
+
+三个模型的拟合指数如表2所示。一般结构方程模型拟合可接受的标准为： $\chi ^ { 2 } / \mathrm { d f }$ 接近2,CFI 和 TLI大于0.90(接近或大于0.95 更好),RESEA小于0.06,SRMR 小于0.08(Hu&Bentler,1999)。结果显示：四因子的各项拟合指标最优，比单因子模型 $( \Delta \chi ^ { 2 } \left( 6 \right) = 6 2 3 . 5 0 > 1 6 . 8 1$ ， $p <$ 0.01）和三因子模型 $\left( \Delta \chi ^ { 2 } \left( 3 \right) = 6 2 . 3 9 > 1 1 . 3 4 \right.$ ， $p < 0 . 0 1 \AA .$ 拟合显著更好。因此接受四因子模型，最终善人格词汇评定量表的四因子结构，如图1所示。
+
+表2善人格的各竞争模型拟合指数  
+
+<html><body><table><tr><td>模型</td><td>x²</td><td>df</td><td>x21df</td><td>CFI</td><td>TLI</td><td>RESEA</td><td>SRMR</td></tr><tr><td>单因子模型</td><td>1227.304</td><td>324</td><td>3.79</td><td>0.81</td><td>0.80</td><td>0.07</td><td>0.06</td></tr><tr><td>三因子模型</td><td>666.196</td><td>321</td><td>2.08</td><td>0.93</td><td>0.92</td><td>0.05</td><td>0.05</td></tr><tr><td>四因子模型</td><td>603.809</td><td>318</td><td>1.90</td><td>0.94</td><td>0.94</td><td>0.04</td><td>0.04</td></tr></table></body></html>
+
+分析每个因子所包含的词汇及内涵，对各因子命名如下：
+
+因子1包含了“可信任的”、“诚信的”、“尽责的”等描述了个体在行为处事方面的负责、诚实等优秀人格品质的词汇，命名为“尽责诚信”。
+
+因子2包含了“肯牺牲的”、“大公无私”、“肯奉献的”等描述了个体舍弃自我利益、奉献他人的善良行为特征的词汇，命名为“利他奉献”。
+
+因子3包含了“有同情心的”、“仁爱的”、“重感情的”等体现了个体在社会中和他人互动关系中待人和善、为人着想的词汇，命名为“仁爱友善”。
+
+因子4包含了“宽宏大量的”、“大度的”、“有包容力的”等描述了个体待人处事上不斤斤计较的善良人格特征词汇，命名为“包容大度”。
+
+# 3.3.3善人格词汇评定量表的信、效度检验
+
+效标关联效度：本研究采用利他人格和大五人格作为善人格的效标，其中，利他人格包含了4个维度：社会责任、人际信任、移情和社交兴趣。研究结果发现，善人格及其四个因子与宜人性、责任心、利他人格等存在显著的相关 $( p s < 0 . 0 1 )$ 。这说明该善人格问卷具有良好的效标关联效度。具体的相关系数见表3。
+
+内部一致性信度分析：经过分析发现，善人格词汇评定量表的内部一致性 $\alpha$ 系数均在
+
+0.7 以上，表明善良人格问卷的内部一致性信度较高，具体各维度的内部一致性结果如表4所示。
+
+表4善人格词汇问卷的内部一致性信度  
+
+<html><body><table><tr><td>指标</td><td>善人格</td><td>尽责诚信</td><td>利他奉献</td><td>仁爱友善</td><td>包容大度</td></tr><tr><td>Cronbach's α</td><td>0.92</td><td>0.85</td><td>0.83</td><td>0.72</td><td>0.80</td></tr></table></body></html>
+
+![](images/6865c5574d68327a1a5fd145237018a7bfbb8b834c20b8f4d3fc17d6d60bc80d.jpg)  
+图1善人格词汇评定量表四因子结构
+
+与  
+S0'0>d\*‘10'0>d\*\*“   
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>1.善人格</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.尽责诚信</td><td>.847**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.利他奉献</td><td>.842**</td><td>.501**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.仁爱友善</td><td>.862**</td><td>.736**</td><td>.615**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.包容大度</td><td>.800**</td><td>.566**</td><td>.635**</td><td>.596**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.外倾性</td><td>.217**</td><td>.092*</td><td>.273**</td><td>.158**</td><td>.202**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.宜人性</td><td>.493**</td><td>.398**</td><td>.403**</td><td>.474**</td><td>.397**</td><td>.382**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8.责任心</td><td>.371**</td><td>.420**</td><td>.204**</td><td>.320**</td><td>.309**</td><td>.200**</td><td>.406**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9.神经质</td><td>-.236**</td><td>-.205**</td><td>-.194**</td><td>-.119**</td><td>-.278**</td><td>-.276**</td><td>-.290**</td><td>-.493**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10.想象力</td><td>.279**</td><td>.192**</td><td>.249**</td><td>.302**</td><td>.206**</td><td>.189**</td><td>.355**</td><td>.178*</td><td>-.042</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11.利他人格</td><td>.463**</td><td>.313**</td><td>.488**</td><td>.398**</td><td>.331**</td><td>.265**</td><td>.391**</td><td>.194**</td><td>-.207**</td><td>.260**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>12.社会责任</td><td>.449**</td><td>.308**</td><td>.458**</td><td>.412**</td><td>.312**</td><td>.211**</td><td>.374**</td><td>.170**</td><td>-.144**</td><td>.270**</td><td>.902**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>13.人际信任</td><td>.402**</td><td>.262**</td><td>.439**</td><td>.347**</td><td>.272**</td><td>.286**</td><td>.345**</td><td>.154**</td><td>-.174**</td><td>.217**</td><td>.856**</td><td>.708**</td><td>1</td><td></td><td></td></tr><tr><td>14.移情</td><td>.367**</td><td>.242**</td><td>.384**</td><td>.297**</td><td>.301**</td><td>.238**</td><td>.317**</td><td>.190**</td><td>-.216**</td><td>.158**</td><td>.806**</td><td>.603**</td><td>.604**</td><td>1</td><td></td></tr><tr><td>15.社交兴趣</td><td>.277**</td><td>.195**</td><td>.307**</td><td>.204**</td><td>.193**</td><td>.153**</td><td>.227**</td><td>.130**</td><td>-.190**</td><td>.175**</td><td>.732**</td><td>.496**</td><td>.516**</td><td>.586**</td><td>1</td></tr></table></body></html>
+
+# 4研究3恶人格的心理结构
+
+# 4.1研究目的
+
+研究旨在探究恶人格的心理结构，考虑到自我评价恶的程度容易受到社会赞许性的影响而出现地板效应，因此将研究1中得到的65个描述恶的人格词汇编制为他评恶人格问卷。随后通过因素分析和信效度检验，最终编制出他评版恶人格词汇评定量表，确立恶人格的心理结构。
+
+# 4.2研究方法
+
+# 4.2.1被试
+
+通过网络调查平台，在全国范围内招募被试。施测时在题目中加入一道陷阱题目：“为确保您在认真答题，此题请选择不确定”，没有通过陷阱题目测试的被试，其答题结果将被标记为无效作答。样本一：用于探索性因素分析，被试共446名，有效被试 367名(男性141名，女性 226 名)。被试年龄范围在14 到 52 岁之间，平均年龄为26.19 岁 $\langle S D = 5 . 9 6 \rangle$ 。被试的受教育程度初中及以下占 $1 . 6 \%$ ，高中占 $7 . 9 \%$ ，大专占 $1 5 . 8 \%$ ，本科占 $6 6 . 5 \%$ ，硕士及以上占 $8 . 2 \%$ 。样本二：用于验证性因素分析和信效度检验。被试共 271名，有效被试 269 名(男性111名，女性158 名)。被试年龄范围在18 到 48 岁之间，平均年龄为28.25 岁 $( S D = 5 . 8 2 )$ 。受教育程度初中及以下的占 $3 . 0 \%$ ，高中为 $9 . 7 \%$ ，大专为 $3 2 . 0 \%$ ，本科为 $5 2 . 8 \%$ ，硕士及以上为 $2 . 6 \%$ 。研究者对填写的结果审核通过后，被试将获得1.5\~7元的奖励。
+
+# 4.2.2研究程序
+
+第一步，将65个恶人格词汇编制成问卷对样本一进行施测，采用他评式5点李克特量表，请被试回忆一个心中的恶人形象，并评价这些词汇描述多大程度上与该人物特点相符合。通过探索性因分析，初步揭示恶人格的结构，编制再测工具。
+
+第二步，根据初测分析得到的恶人格的词汇量表，加入效标工具，对样本二进行施测。通过验证性因素分析和信、效度检验，验证和确立恶人格结构，编制恶人格词汇评定量表(EvilPersonality Lexical Rating Scale,VPRS)。效标工具采用崔红和王登峰(2005c)编制的中国人人格形容词评定量表(QZPAS)的中F6善良友好维度，以及中文版的黑暗十二条量表(Jonason&
+
+Webster，2010；耿耀国，孙群博，黄婧宜，朱远征，韩晓红，2015)，在施测时将量表中描述“我”的词汇改为“此人”。
+
+# 4.3研究结果
+
+# 4.3.1探索性因素分析结果
+
+使用 SPSS 20.0 对恶人格问卷的数据结果进行探索性因素分析。首先，通过KMO 和Bartletts球形检验分析发现，KMO值为0.97,Bartletts球形检验结果显著(近似 $\cdot \chi ^ { 2 } = 1 7 5 0 4 . 6 2$ $d f = 2 0 8 0$ ， $p < 0 . 0 0 1 )$ ，表明该问卷的项目适合做探索性因素分析。
+
+然后，采用主轴因子分析法(Principal axis factoring analysis)和最优斜交转轴法(Promax)对65个词汇进行因素分析，删除不符合标准和理论预期的题项，删除标准同研究2，最终保留了37个题项，累计解释总变异达到 $6 1 . 5 1 \%$ ，具体因子载荷和共同度如表5所示。
+
+表5恶人格的四因子结构  
+
+<html><body><table><tr><td></td><td>因子1</td><td>因子2</td><td>因子3</td><td>因子4</td><td>共同度</td></tr><tr><td>A58凶残的</td><td>.949</td><td></td><td></td><td></td><td>.766</td></tr><tr><td>A5残暴的</td><td>.946</td><td></td><td></td><td></td><td>.662</td></tr><tr><td>A34 凶恶的</td><td>.924</td><td></td><td></td><td></td><td>.738</td></tr><tr><td>A11 残忍的</td><td>.867</td><td></td><td></td><td></td><td>.660</td></tr><tr><td>A56 心狠手辣的</td><td>.851</td><td></td><td></td><td></td><td>.617</td></tr><tr><td>A50 无恶不作的</td><td>.793</td><td></td><td></td><td></td><td>.694</td></tr><tr><td>A37 十恶不赦的</td><td>.789</td><td></td><td></td><td></td><td>.691</td></tr><tr><td>A31 好虐待的</td><td>.782</td><td></td><td></td><td></td><td>.590</td></tr><tr><td>A14 歹毒的</td><td>.771</td><td></td><td></td><td></td><td>.648</td></tr><tr><td>A19 恶毒的</td><td>.710</td><td></td><td></td><td></td><td>.628</td></tr><tr><td>A55邪恶的</td><td>.674</td><td></td><td></td><td></td><td>.608</td></tr><tr><td>A36 伤天害理的</td><td>.669</td><td></td><td></td><td></td><td>.643</td></tr><tr><td>A45 为非作歹</td><td>.618</td><td></td><td></td><td></td><td>.599</td></tr><tr><td>A33 好侵犯的</td><td>.552</td><td></td><td></td><td></td><td>.484</td></tr><tr><td>A22黑心的</td><td>.423</td><td></td><td></td><td></td><td>.529</td></tr><tr><td>A23 胡作非为</td><td>.407</td><td></td><td></td><td></td><td>.483</td></tr><tr><td>A9 好剥削的</td><td>.310</td><td></td><td></td><td></td><td>.320</td></tr><tr><td>A15道貌岸然</td><td></td><td>.768</td><td></td><td></td><td>.528</td></tr><tr><td>A16 表里不一</td><td></td><td>.723</td><td></td><td></td><td>.628</td></tr><tr><td>A52伪善的</td><td></td><td>.713</td><td></td><td></td><td>.554</td></tr><tr><td>A59 虚伪的</td><td></td><td>.683</td><td></td><td></td><td>.510</td></tr><tr><td>A65 善于作假的</td><td></td><td>.419</td><td></td><td></td><td>.469</td></tr><tr><td>A26 狡诈的</td><td></td><td>.381</td><td></td><td></td><td>.496</td></tr><tr><td>A42 好挑拨的</td><td></td><td></td><td>.872</td><td></td><td>.604</td></tr></table></body></html>
+
+<html><body><table><tr><td>A24 爱嫁祸于人的</td></tr><tr><td>.713 A48 好污蔑的</td><td>.606 .707 .608</td></tr><tr><td>A62 栽赃陷害的</td><td>.663 .660</td></tr><tr><td>A17 好低毁他人的</td><td>.636 .550</td></tr><tr><td>A29 落井下石的 .596</td><td>.508</td></tr><tr><td>A18 好刁难的 .470</td><td>.374</td></tr><tr><td>A54 好陷害他人的 .446</td><td>.514</td></tr><tr><td>A1 好暗算的 .352</td><td>.397</td></tr><tr><td>A44 忘恩负义</td><td>.756 .655</td></tr><tr><td>A8 背信弃义</td><td></td></tr><tr><td>A7 好背叛的</td><td>.720 .585</td></tr><tr><td></td><td>.472 .462</td></tr><tr><td>A25见利忘义</td><td>.471 .483</td></tr><tr><td>A20 恩将仇报</td><td>.449 .510</td></tr><tr><td>4.298</td><td>1.202</td></tr><tr><td>特征值 16.177</td><td>1.081 11.615 3.248 2.921</td></tr><tr><td>贡献率% 43.722 累积贡献率% 43.722</td><td>55.337 58.585 61.506</td></tr></table></body></html>
+
+注：提取方法为主轴因子分解。旋转法为具有Kaiser 标准化的倾斜旋转法。
+
+# 4.3.2验证性因素分析结果
+
+使用 Mplus 7.0软件，建立结构方程模型，对恶人格的四因子模型进行验证性因素分析。由于部分词汇的含义相似度较高，在进行模型修订时根据MI指数和词汇含义对冗余和交叉载荷较高的词条进行删除。最终删掉了9个词条，有28 题进入模型。此外，由于四个因子的相关性较强，仍有必要检验单因子结构模型与观测数据之间的拟合度，并建立三因子模型(合并相关最高的因子3和因子4)作为竞争模型进行对比。三个模型的拟合指数如表6所示。
+
+表6恶人格的单因子和四因子模型拟合指数  
+
+<html><body><table><tr><td>模型</td><td>x²</td><td>df</td><td>x21df</td><td>CFI</td><td>TLI</td><td>RESEA</td><td>SRMR</td></tr><tr><td>单因子模型</td><td>1649.985</td><td>350</td><td>4.71</td><td>0.79</td><td>0.76</td><td>0.12</td><td>0.07</td></tr><tr><td>三因子模型</td><td>835.394</td><td>347</td><td>2.41</td><td>0.92</td><td>0.92</td><td>0.07</td><td>0.04</td></tr><tr><td>四因子模型</td><td>757.591</td><td>344</td><td>2.20</td><td>0.93</td><td>0.93</td><td>0.07</td><td>0.04</td></tr></table></body></html>
+
+结果显示，三个模型中，四因子模型的各项拟合指标最优，比单因子模型( $\Delta \chi ^ { 2 }$ (6)$= 8 9 2 . 3 9 > 1 6 . 8 1$ ， $p < 0 . 0 1 \AA .$ 和三因子模型( $: \Delta x ^ { 2 } ( 3 ) = 7 7 . 8 0 > 1 1 . 3 4$ ， $p < 0 . 0 1 \AA .$ 拟合显著更好。因此接受四因子模型，最终得到恶人格的内容结构包括4个维度共28个词汇，详见图2，各因子命名如下：
+
+因子1包含了“凶残的”、“凶恶的”、“残忍的”、“心狠手辣的”等描述个体在行为处事方面的残忍、凶狠非人性的人格特征词汇，命名为“凶恶残忍”。
+
+因子2包含了“表里不一”、“伪善的”、“虚伪的”、“善于作假的”描述个体不真实、为人虚假的行为特征词汇，命名为“虚假伪善”。
+
+因子3包含了“好挑拨的”、“爱嫁祸于人的”、“好污蔑的”、“栽赃陷害的”等体现个体在人际关系间歪曲现实、暗算陷害他人的恶劣品行词汇，命名为“污蔑陷害”。
+
+因子4包含了“忘恩负义”、“背信弃义”、“好背叛的”等描述个体在情感情义方面不讲道义、不知回报的人格特征，因此可以命名为“背信弃义”。
+
+![](images/155892ea53ad751f30305aa4ac61d1c5b73d0d49ee5a886bb57aec1f6af21f99.jpg)  
+图2恶人格词汇评定量表四因子结构
+
+# 4.3.3恶人格词汇评定量表的信、效度检验
+
+效标关联效度：研究结果发现，恶人格及其四个因子与善良友好存在显著的负相关，与马基雅维利主义、精神病态和自恋存在显著的正相关 $( p s < 0 . 0 1 )$ 。这说明该恶人格问卷具有
+
+良好的效标关联效度。具体的相关系数见表7。
+
+表7恶人格词汇问卷与善良友好和黑暗十二条的相关分析   
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>1.恶人格</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.凶恶残忍</td><td>.920**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.虚假伪善</td><td>.812**</td><td>.634**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.污蔑陷害</td><td>.920**</td><td>.742**</td><td>.738**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.背信弃义</td><td>.854**</td><td>.659**</td><td>.753**</td><td>.791**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>6.善良友好</td><td>-.702**</td><td>-.626**</td><td>-.576**</td><td>-.662**</td><td>-.613**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>7.马基雅维利主义</td><td>.811**</td><td>.663**</td><td>.759**</td><td>.797**</td><td>.735**</td><td>-.680**</td><td>1</td><td></td><td></td></tr><tr><td>8.精神病态</td><td>.805**</td><td>.789**</td><td>.684**</td><td>.670**</td><td>.671**</td><td>-.723**</td><td>.714**</td><td>1</td><td></td></tr><tr><td>9.自恋</td><td>.681**</td><td>.541**</td><td>.612**</td><td>.705**</td><td>.612**</td><td>-.671**</td><td>.784**</td><td>.599**</td><td>1</td></tr></table></body></html>
+
+注： $^ { * * } p < 0 . 0 1$ ， $^ { * } p < 0 . 0 5$ 0
+
+内部一致性信度分析：经过分析发现，本研究中，恶人格及各维度的内部一致性 $\mathfrak { a }$ 系数均在0.85以上，结果如表8所示。
+
+表8恶人格词汇问卷的内部一致性信度  
+
+<html><body><table><tr><td>指标</td><td>恶人格</td><td>凶恶残忍</td><td>虚假伪善</td><td>污蔑陷害</td><td>背信弃义</td></tr><tr><td>Cronbach's α</td><td>0.97</td><td>0.96</td><td>0.86</td><td>0.94</td><td>0.85</td></tr></table></body></html>
+
+# 5讨论
+
+研究者通过3个研究探索了中国文化下善恶人格的心理结构。根据全面的词汇学分析和探索，得到了62个善人格词汇和65个恶人格词汇。然后通过探索性因素分析和验证性因素分析，最终确立善人格包含四个因子：尽责诚信、利他奉献、仁爱友善、包容大度；恶人格包含四个因子：凶恶残忍、虚假伪善、污蔑陷害、背信弃义。
+
+有研究发现道德是人们知觉他人时的首要维度，在与他人社会互动(social interactions)过程中，人们最关注的就是他人是否有帮助或者伤害自己的意图，是否会威胁到自身的利益，可以说，由诚实、忠诚和残忍等特质构成的道德类品质(moral character)在社会交往过程中具有核心地位(Brambilla & Leach,2014; Goodwin,2015; Goodwin,Piazza,& Rozin,2014)。而从根本上讲，善恶人格便是对两类道德品质的具体解读，善人格水平高的个体，可能在面临模糊情境时会不假思索地伸出援手(张和云，2016)，而伤害、欺骗和背叛等行为经常发生在恶人格水平高的个体上。简单而言，如果个体拥有某个特质，这种特质能够使他人对其形成较为稳定的与道德或人性相关的评价，那么这种特质就属于善恶人格特质。
+
+# 5.1善恶人格对以往理论的整合
+
+本研究建立在中国文化基础上，结合人格的特质理论和词汇学方法，探究了善恶人格结构的理论模型，在一定程度上对以往的道德特质和人格研究进行了整合。首先，“文化与人格有着密切的相关，人格的形成即是将文化模式内化为心智的过程，最后养成一个人稳定的行为倾向中国人人格形成和变化的机理，嵌埋于传统文化积淀的整个历史长河中”(杨波,1999)。在中国文化下，杨波(2005)以古代典籍《史记》为材料，对其中记载的 102 名古代中国人作评定，发现古代中国人的人格维度是以仁为核心，由仁、智、勇、隐4个因素组成。“仁”是儒家思想的核心，是君子首先必须具备的心理素质，是统率形成一系列道德规范的标准(郭永玉，2016；杨波，2005)。在本研究结果中，“仁爱友善”的维度用仁爱的、有同情心的、友善的、重感情的等词汇标定，而“凶恶残忍”这一维度用凶残的、恶毒的、为非作歹、心狠手辣的等词汇所标定，体现了中国文化中君子-小人的人格所蕴含的思想。
+
+同时，“尽责诚信”维度用诚信的、真诚的等词汇标定，反映了中国文化中“诚”和“信”的人格内涵。《中庸》云：“诚者，天之道”，而荀子明确将“诚”作为君子应具备的一种品德(郭永玉，2016)。孔子明确主张：“君子喻于义，小人喻于利”，一个人处理义与利的态度上便可以看出其的为人(汪凤炎，郑红,2008)。本研究结果也同样说明，“利他奉献”这一特质用肯牺牲的、大公无私、见义勇为、无私的等词标定，表现出个体无私奉献、义大于利的人格特征，是善所必备的心理品质之一。不仅如此，古人还主张待人“宽”和“容”，劝诫人要有一定的度量，为人须以宽容态度对待万物，退己谦和。冯梦龙在《增广智囊补》言“能容小人，方成君子”，意指为人处世要有所宽容，德行才可高尚宏大。本研究结果发现“包容大度”特质为善的一个维度，用宽宏大量、大度、包容、心胸开阔等词汇标定，与古人思想传承下的概念不谋而合。
+
+研究还发现，恶人格结构中包含“虚假伪善”维度，用表里不一、虚伪的等词汇标定，用以形容人的虚假不真实；以及“污蔑陷害”这一维度，该人格特质对应的行为主要有对他人栽赃陷害，捏造事实败坏他人名声、在他人困难时落井下石等，这两个维度的存在进一步支持了善恶人格结构的完整性。此外，现在常人所言的“义”有“情义”之意，是亲属、同志、朋友相互间应有的感情（《现代汉语词典 第七版》)，“一日为师，终身为父”讲的便是师生之情义。本研究结果发现，“背信弃义”这一维度用忘恩负义、见利忘义、背叛等词汇标定，在一定程度上概括了恶人格特质的一部分。
+
+此外，善恶人格各维度对道德特质分类进行了更上位抽取和概括。在有关道德的研究中，道德特质被认为包括怜悯的、仁慈的、诚实的和忠诚的等积极特质，而不道德特质被认为是包含不诚实的、自私的和残忍的等消极特质(Goodwin et al.，2014)。也有研究发现，人们认为善良、诚实、值得信赖和公平的美德是无条件的核心善特质(Piazza,Goodwin，Rozin，&Royzman,2014)。而在这些涉及道德特质的研究中，研究者对特质词汇的使用存在不一致的情况，本研究抽取的善恶各四个维度对这些道德类特质加以概括和补充提供了契机。Melnikoff 和 Bailey(2018)选择了仁慈(Mercifulness)、诚实(honesty)、忠诚(Fidelity)和利他(Altruism)作为研究道德特质的四个方面，亦对应了本研究结果中的仁爱友善、尽责诚信、背信弃义、利他奉献四个维度。
+
+可以看出，本研究虽支持了善与恶各有四个维度，但它们并非是一一对应的关系。但目前关于道德判断、道德知觉、印象形成等研究，都是将善恶作为一个整体概念，在这个整体概念里，同时包含了积极(道德)和消极(不道德)方面，而没有单独区分好和坏。而在我们的生活中存在许多道德的不同领域，说谎、偷窃、帮助....在每一个领域都有其背后独特的善概念和恶概念(Miller,2014)。以伤害他人(harm)举例，我们不止一次的看到新闻的报道：2013年广西13岁女生因同学比自己漂亮将其杀害并肢解；2019 年辽宁的一名男子将结婚十年的妻子杀害后，将室内伪造成猥亵和盗窃现场，若无其事的去上班和同事洽谈业务....可以毫无疑问的说，在该领域，恶的概念就是“残忍的(cruelty)”。但值得一提的是，与"残忍的"相对应的概念并不是善中的"有同情心的(compassion)”，这是因为有"有同情心的"是与帮助有关的特质，而不是与伤害有关。在这里，残忍的对立面应该是"没有恶意的(non-malevolence)”，意味着拥有该特质的个体即使有正当理由和合适时机，也不会去伤害他人(Miller,2014)。
+
+# 5.2善恶人格的理论与现实意义
+
+本研究具有一定的理论意义，首先，善恶人格的构建进一步明晰了中国文化背景下善恶人格的结构，补充和丰富了以往有关道德相关的人格理论，也对传统人格理论进行了完善。其次，目前仍然没有一个可信的、信息丰富的标准来区分人格的道德领域和其他规范领域(Miller,2014)，而善恶人格结构的探索与研究，对人的善恶品性进行了细致的刻画，分别确立了四个主要成分，反映了大众对人性善恶的认识的基本评价标准。这不仅为探究中国人性善恶问题提供了新的依据，而且还可以与国外道德与美德心理学的研究内容相呼应，对人性善恶观的普适性内容提供研究思路。第三，本研究以双维的视角研究善恶人格，这一定程度上为解决人性善恶共存与否的争议提供了证据，并且这种两维结构的善恶模型为传统单维的道德心理理论提出了新的挑战，善恶人格的研究结果有助于厘清人性中两个维度的善恶成分与其它变量的关系，也为未来探索善恶人格的内在机制提供一种研究依据。
+
+此外，人性善恶问题一直是大众关切的社会现实问题，探究善恶包括哪些方面为结构性地观察人性善恶提供了窗口，从社会治理与社会心理服务体系建设的角度出发，研究主题符合当今社会发展的需要，具有一定的现实意义。尤其是在党的十八大后，提出了社会主义核心价值观，将“诚信”、“友善”作为对人的基本人格要求。在一定程度上，有助于为践行社会主义核心价值观提供参考。2017年习近平总书记在十九大报告中提出：要加强社会心理服务体系建设，培育自尊自信、理性平和、积极向上的社会心态。而在2019年，习近平总书记再次强调：要健全社会心理服务体系和疏导机制，塑造自尊自信、理性平和、亲善友爱的社会心态。其中，建设亲善友爱等积极的人格品质是社会心态塑造的核心。对善恶人格的分析有助于在更为全面理解人性善恶的基础上，对大众善恶问题进行探讨。同时本研究建立两套善恶人格的词表与测量工具，在一定程度上有助于测量个体在善恶问题上的基本差异性倾向，从而为针对性地实现引人向善的终极目标。
+
+# 5.3不足与展望
+
+本研究基于人格的词汇研究和结构研究，选取不同年龄段和工作群体的被试，严格按照探索人格结构的一般流程，全面、客观地对善恶结构进行了探索和验证。研究结果各因子的信效度均符合心理测量学的基本要求。但是本研究仍有一定的局限：首先，研究采用词汇的方式呈现量表，对被试语言理解能力有一定的要求，未来研究可以根据词汇编制成相应的句子，不仅可以对结构进行再次验证，同时增强测验的可推广性。其次，本研究对恶的结构探讨采用他评的方式，但自评结果是否同样类似仍待未来研究进一步探讨。再次，虽然人们对上位抽象层面的善恶理解有较高的一致性，但每个人对具体善恶行为的判断上可能存在差异，不同文化对善恶的标准也可能存在适度变化，未来可针对此问题开展进一步研究。此外，善恶研究是充满复杂问题的领域，本研究只是探索了其中部分内容，未来还有许多问题有待研究。
+
+# 6结论
+
+本研究得到以下结论：
+
+（1）中国人的善恶人格有其独特的内涵与结构，其中善包含四个因子：尽责诚信、利他奉献、仁爱友善、包容大度；恶包含四个因子：凶恶残忍、虚假伪善、污蔑陷害、背信弃义。
+
+（2）研究建立了善与恶两个人格词表，其中善包含62个词汇，恶包含65个词汇。
+
+（3）编制的善人格词汇评定量表、恶人格词汇评定量表（他评版）信度和效度良好，符合心理测量学的要求，可作为进一步研究的测评工具。
+
+# 参考文献
+
+Allport,G.W.,&Odbert,H..(1936).Trait-names: Apsycho-lexical study.Psychological Monographs,47(1),1-171.   
+Ashton,M.C.&Lee,K.(o).Empirical,teoreticalandpracticaldvantagesoftheHXACOmodelofpersonalityrcture. Personality and Social Psychology Review,ll(2),150-166.   
+Ashton,M.C.Lee,K.,&dVies,R.E.(4).eEXACoest-Humilitygreablens,ndEmotioityFactors:eview ofResearch and Theory.Personality and Social Psychology Review,l8(2),139-152.   
+Brambil,M.,&Leach,C.W.(O14).Ontheimportanceofbeingmoral:Thedistinctiveroleofmoraltyinsocialjudgment.Social Cognition,32(4),397-408.   
+Buckels,E.E,Jones,D.,&Pulhus,D.L.(Ol).BehavioralConfimationofEverydaySadism.PsyhologicalScience4(1), 2201-2209.   
+Cao,H.B.,Xu,Y,&Xin,X.(2Ol2).chadenfreude:MaiciousJoyattheBaseofHuman Nature.AdvancesinPsychologicalScience, 20(3),443-456.   
+[曹红蓓，许燕，辛霞.(2012).幸灾乐祸:人性“底部”的邪恶快感.心理科学进展,20(3),443-456.]   
+Cawley,.toohsiaidal() 997-1013.   
+Cheung,FM.,Leung,K.Fan,R.M.,Song,W.Z.,Zhang,J.X.&Zhang,J.P.(1996).DevelopmentoftheChinesePersoality Assessment Inventory.Journal of Cross-Cultural Psychology,27(2),181-199.   
+Davies,J,&Hand.Oach)istcrest:AnploatoydaprpreseedatvisiofFesicoal Conference,Cambridge,England.   
+Donnelln,M.BOswald,FLd,.,cas,.E.(6).e-cales:ye-efectivemeasuresoftiiv
+
+factors of personality.Psychological Assessment,18(2),192-203.
+
+Fei,D.Y.(2Ol7).Ongoodandevilaspects in "humannature".JournalofBohaiUniversity39(3),121-125   
+[费丹乙.(2017).“人性"何以言道德善恶.渤海大学学报,39(3),121-125.]   
+Fromm,E.(1994)."Appendix:Characterandthesocialprocess".InEscapefromfreedom.NewYork: HenryHoltandCompany   
+Geng,Y.G.,un.BHuangJ.Zu,Y.,an,X.H.().irtydozadshortdarktriadaesealidatioot measuresof thedark triad.ChineseJournalofClinicalPsychology,23(2),246-250.   
+[耿耀国，孙群博，黄婧宜，朱远征，韩晓红.(2015).黑暗十二条与短式黑暗三联征量表：两种黑暗三联征测量工具中文版的检 验.中国临床心理学杂志,23(2),246-250.]   
+Goldberg,L.R.(1992).“TheDevelopmentofMarkers fortheBig-FiveStructure".PsychologicalAssessment,4(1),26-42.   
+Goodboy,A.K.,&artin,M.M.(2ol5).hepersonalityprofileofayberbully:ExaminingtheDarkTiad.ComputersinHuman Behavior, 49, 1-4.   
+Goodwin,GP. (2O15).Moralcharacter inpersonperception.Current Directions inPsychological Science,24(1),8-44.   
+Goodwin,GP.,iaa,J,&oin,P.4).oalarcterprdoatesinrsopereptidevuatioJoualofalit and social psychology,06(1),48-168.   
+Gorbaniuk,O.,Budziska,A.,Owczarek,M.,Bozek,E.,&Juros,K.(2Ol3).Thefactorstructureofpolishpersonality-descrtie adjectives:analternative psycho-lexical study.European Journal of Personality,27(3),304-318.   
+Guo,Y.Y. (2O16).Personality Research.Shanghai: East China Normal University Press.   
+[郭永玉.(2016).人格研究.上海：华东师范大学出版社.]   
+He,J.H.(2Ol5).hrevisionofMiniInternationalPersonalityfivefactorscale(Mini-P).JoualofChizhouUniversity29(6) 93-95.   
+[何剑骅.(2015).迷你国际人格五因素量表(Mini-IPIP)的修订.池州学院学报,29(6),93-95.]   
+Hil,P.L.,&oberts..().opsitosfortesudyforaprsoalitdeveopentuetitiosilogical Science,19(6),380-383.   
+Hu,L.T.,&entler.(999).Cutoffciteriaforfitidexesinovarancestructureaalsis:Convetioalriterarsusnew alternatives.Structural equation modeling:amultidisciplinary journal,6(1),-55.   
+Jia,F.M. (1999).Personal pedagogy. Taipei: Wu-nan Book Publishing Company   
+[贾馥茗.(1999).人格教育学.台北：五南图书出版公司.]   
+Jonason,P.KebteG).onoseeaureofkrdoicsmnt).   
+Jonason,P.K.Zeigler-HillV.，&Okan,C.(2Ol7).Goodvs.Evil:Predictingsinningwithdarkpersonalitytraitsandmoral
+
+foundations.Personality and Individual Differences,lO4,180-185.
+
+Jones,D.N.,a.()aasposiolggsssoalidiafrenc6   
+John,O.,Naumann,L&SotoC.().ParaigmiftoeintegativebigfetraitaxooyIOJh,L.NumanCt (Eds.),HandbookofPersonality,hirdEdition:TheoryandResearch(ThirdEd.,pp.114-58).NewYork: Guilfordre.   
+Kaufman,S.B.,Yaden,D.B.,Hyde,E.,&Tsukayama,E.(2O19).TheLightvs.Dark TriadofPersonality:ContrastigTwo Very Different Profiles of Human Nature.Frontiers in Psychology,10,1-26.   
+Knezevic,G.(2012,July).How much can the Five-Factor model $^ { ' + }$ Disintegration) tell us about the dark side of human nature? Proceedings of the 16th European Conference on Personality,Trieste,Italy.   
+Krueger,R.F,Hicks,B.M.,& McGue,M.(2oo1).Atruismandantisocial behavior: Independenttendencies,uniquepersonality correlates,distinct etiologies.Psychological Science,12(5),397-402.   
+Larsen,R.J.,&Bus,D.M.(2oo5).PersonalityPsychology:Domainsofnowledgeabouthumannature.NewYork:McGraw-Hil Education.   
+Marcus,D.K.，Zeigler-Hill，V.，Mercer,S.H.，&Norris，A.L.(2014).Thepsychologyofspiteand the measurementof spitefulness.Psychological Assessment,26(2),563-574.   
+Melnikoff,D.E,ily.H.(8).rfereesforalmoalraitsiersreonditioalrocdngsofttiol AcademyofSciences,115(4),E592-E600.   
+Miller, C.B.(2014). Character and moral psychology. Oxford: Oxford University Press.   
+Mu,S.K.(O).evelopmentoftsdjectiatingSaleditppledd(Upublsdotoaldseati) Normal University.   
+[沐守宽.(2007).美德形容词评定量表的建立及其应用(博士学位论文).上海师范大学.]   
+Piazza,J.,Goodwin,GP.Rozin,P.,&Royzman,E.B.(2Ol4).WhenaVirtueisNotaVirtue:Conditional VirtuesinMoral Evaluation. Social Cognition,32(6),528-558.   
+Qin,F.,Xu,F.(2O13).ReviewontheStudiesoftheDarkTriad.AdvancesinPsychologicalScience,21(7),1248-1261.   
+[秦峰，许芳.(2013)．黑暗人格三合一研究述评.心理科学进展,21(7),1248-1261.]   
+Rushton,J.P,Chrisjon,R.D&Fekken,GC.(981).Thealtruisticpersonalityndteself-reportarusmscale.Persoliy& IndividualDifferences,2(4),93-302.   
+Saxton,C.(206).The SocialPsychologyofGoodandEvil.TheJournalofNervousand Mental Disease,94(4),06-307.   
+Shu,YZ.(oo8).hetoryofumanatre'soodandevildirectlyefengtotheumaneartaieraricalnalysfKant's
+
+theory of human nature's good and evil.Philosophical Researches,(4),60-66 [舒远招.(2008).直指人心的人性善恶论—康德人性善恶论的层次分析.哲学研究,(4),60-66.] Shryack,Jec of the virtues in action inventory of strengths.Personality and Individual Differences,48(6),714-719.
+
+Staub,E.(20o3).ThePsychologyofGoodandEvil:WhyChildren,AdultsndGroupsHelpndHarmOthers.Cambridge:Cambridge University Press.   
+Tang,S.J.,&Guo,Y.Y.(ol5).TheStructureofChinese MachiavelianPersonalityandQuestionnaireDevelopment.Psychological Exploration,35(1),72-77.   
+[汤舒俊，郭永玉.(2015).中国人厚黑人格的结构及其问卷编制.心理学探新,35(1),72-77.]   
+Tang,S.J.,Shu,B.,&Zhang,W.Y.(2Ol5).Revisionofself-reportaltruismscaleinChinesecollegestudents.JournalofYangtze University (Social Sciences),(7),87-89.   
+[汤舒俊，舒博，张文渊.(2015)．《利他人格自陈量表》在大学生群体中的修订.长江大学学报(社会科学版)(7),87-89.]   
+Walker,L.J.，&Frimer,J.A.(2OO7).MoralPersonalityofBraveandCaringExemplars.JournalofPersonalityandSocial Psychology,93(5),845-860.   
+Wan, J.R. (1988). History of Modern Western Ethics. Beijing: China Renmin University Press.   
+[万俊人.(1988)．现代西方伦理学史.北京：中国人民大学出版社]   
+Wang,D.F.,&Cui.H.(o).Culture,anguage,andpersonalitytructure.JouralofPekingUniversityHumanitiesndSocial Sciences,37(4),38-46.   
+[王登峰，崔红.(2000).文化，语言，人格结构．北京大学学报：哲学社会科学版,37(4),38-46.]   
+Wang,D.F,&Cui.H.(a).Prsoalityracteristicsoftehinse(II):innsssyhlogyExploation,(3),8.   
+[王登峰，崔红.(2005a).中国人的人格特点(II):善良.心理学探新,25(3),52-58.]   
+Wang,D.F.,&Cui.H.(Oo5b).Exploringpersonalitystructureof theChinese.JournalofSouthwestChina NormalUniversity (Humanities and Social Sciences Edition),31(5),5-16.   
+[王登峰，崔红.(2005b).对中国人人格结构的探索--中国人个性量表与中国人人格量表的交互验证.西南大学学报(社会科学 版),31(5),5-16.]   
+Wang,D.F.,&Cui.H.(2Oo5c).ExplorationsofChinesepersonality.Beijing:Social Sciences Academic Pres(China).   
+[王登峰，崔红.(2005c)．解读中国人的人格.北京：社会科学文献出版社.]   
+Wang,FY.,&Zheng,H.(Oo8).Thirteen Standards Confucius DefiedontheGentlemanandthe VillinMoralityadCiviliztion,(4),
+
+46-51.
+
+[汪凤炎，郑红.(2008).孔子界定"君子人格"与"小人人格"的十三条标准.道德与文明,(4),46-51.] Wang,Y.Q.(Ol1).ResearchontheStructure,CharacteristicsndInterventionofUndergraduates'MoralPersonality(Unpublishd doctorial dissertation).Nanjing Normal University.
+
+[王云强.(2009).大学生道德人格的结构、特点及其干预研究(博士学位论文).南京师范大学.]  
+Wang,Y.Q.,&Guo,B.Y.(20l1).APreliminary StudyontheCharacteristicsofUndergraduates’MoralPersonality.JournalofPsychological Science,34(6),1436-1440.  
+[王云强，郭本禹.(2011).大学生道德人格特点的初步研究.心理科学,34(6),1436-1440.]  
+Wu,S.T.(2Ol1).GeneralBeliefinaJustWorldofChineseandItsFunctioninsychologicalAdaptation(Unpublisheddoctorialdissertation). Chinese Academy Sciences, Beijing.  
+[吴胜涛.(2011).中国人的一般世道正义观及其心理适应功能(博士学位论文).中国科学院研究生院，北京.]  
+Xiong,M.,Wang,F,&Cai,R.(O18).DevelopmentandValidationoftheChineseModestyScale.Frontiers inPsychology9,1-14.  
+Xu,Y.(2Oo9).Personality Psychology. Beijing,China: Beijing Normal University Publishing Group.  
+[许燕.(2009).人格心理学．北京：北京师范大学出版社].  
+Xu,Y.&WangP.P.(Ol,Oct).Verb-basedAnalysistoExploretheChneseModelofpersonalityStructure.Paperpresentedatthemetingof the9OthAniversaryConferenceof theChinesePsychologicalSocietyandthe14thNational PsychologicalConference,Beijing, China.  
+[许燕，王萍萍.(2011,10月).基于动词分析的中国人人格结构模型探索.增强心理学服务社会的意识和功能- -中国心理学会成立 90 周年纪念大会暨第十四届全国心理学学术会议论文摘要集].  
+Yang,B.(1999). Chinese Personality Structure.Beijing: Xinhua Publishing House.  
+[杨波.(1999).中国人的人格结构.北京：新华出版社.]  
+Yang,B.(2Oo5).Afactoranalysis of theancientChinese personalitystructure.Psychological Science,28(3),68-672.  
+[杨波.(2005).古代中国人人格结构的因素探析.心理科学,28(3),668-672.]  
+Yang,F,Xia,Z.C.,Chen,B.B,&Wu,.X.(Ol5).TheCharacteristicsofCineseeople'sHonest-HumilityersoalitydIsImplicit and Explicit Relationships.Psychological Science,38(5),1162-1169.  
+[杨帆，夏之晨，陈贝贝，吴继霞.(2015).中国人诚实-谦虚人格的特点及其内隐外显关系.心理科学,38(5),1162-1169.]  
+Yang,K.S.,&Bond,M.H.(199).ExploringImplitPersonalityTheorieswith IndigenousorImportedConstructs:TheChineseCase.Journal of Personality and Social Psychology,58(6),1087-1095.  
+Yang.Z.F.(1991).FromChina's "socialpsychology"to"Chinesesocialpsychology"——Trying toclarifysome misconceptionsaboutindigenization. Sociological Studies,(1),32-38.  
+[杨中芳.(1991).由中国"社会心理学"迈向"中国社会心理学”—试图澄清有关"本土化"的几个误解.社会学研究,(1),32-38.]  
+Zhang,H.Y.,Zhao,HH,&Xu,Y.(O18).ThestructureofChinesevirtuouspersonalityandquestioairedevelopment.PsychologicalExploration,38(3),221-227.  
+[张和云，赵欢欢，许燕.(2018).中国人善良人格的结构研究.心理学探新,38(3),221-227.]  
+Zhang,H.Y.(2Ol6).ResearchontheStructure,CognitiveProcesingCharacteristicsofVirtuousPersonalityndItsInfuenceoeExhibition of Virtuous Deeds (Unpublished doctorial dissertation).Beijing Normal University.  
+[张和云.(2016).善良人格的结构、认知加工特点及其对善行表达的影响研究(博士学位论文).北京师范大学.]  
+Zhang,J.X,&Zou,M.J.(O6).SearchngfoPersonalityructureofinese:AoreticalHypothesisofaixFctordelfPersonality Traits.Advances in Psychological Science,l4(4),574-585.  
+[张建新，周明洁.(2006).中国人人格结构探索——人格特质六因素假说.心理科学进展,14(4),574-585.]  
+Zuo,S.J,Wang,F,&XuY.(2O15).TheFragilebutBrightFacetinthelDarkGem:NarcisismPositivelyPersonalMoralityWhenIndividuals Self-esteem is atLow Level.The Research of Social Psychology.2O3(3)，23-37.  
+[左世江，王芳，许燕.(2015)．黑暗中的一丝光亮：低自尊水平时自恋能积极预测个人道德，社会心理研究,203(3),23-37.]
+
+# Good and Evil in Chinese Culture: Personality Structure and Connotation
+
+JIAO Liying1, YANG Ying1,XU Yan1,GAO Shuqing1, ZHANG Heyun²
+
+(Beijing Key Laboratory of Applied Experimental Psychology, National Demonstration Center   
+for Experimental Psychology Education (Beijing Normal University), Faculty of Psychology, Beijing Normal University,Beijing 100875, China)   
+(2 School of Government, Shanghai University of Political Science and Law, Shanghai 201701, China)
+
+# Abstract
+
+The ideas of good and evil characteristics have a long history in Chinese language and culture，with these characteristics considered to be two aspects of the Chinese personality. Abundant descriptions of good and evil characteristics can be found in human nature. However, the specific structures of good and evil concepts have not yet been delineated clearly and detailed studies on these concepts are limited.A careful definition is important with regard to what comprises a good or evil personality and to understand the psychological structure of the two concepts.
+
+A lexical approach was applied to determine constitutes a good or evil personality in Chinese culture.In Study 1,a set of 3,240 good and evil personality descriptors was selected from The Contemporary Chinese Dictionary and accompanied by daily life expressions.The list was condensed into 62 good and 65 evil items folowing evaluation and selection by 12 psychology graduates. In Study 2, we explored the dimensions of a good personality using exploratory factor analysis (EFA) with Sample 1( $[ { \mathfrak { n } } = 3 1 3$ ） and confirmatory factor analysis (CFA) with Sample 2 (n $= 5 1 8 \dot { }$ ).Results revealed that good personality contained four dimensions: conscientiousness and integrity, altruism and dedication, benevolence and amicability,and tolerance and magnanimity. We refined the four-dimensions good personality lexical rating scale, which contained 27 items. In Study 3,we used the same method as in Study 2 to explore the structure of an evil personality (EFA: Sample 1, $\mathtt { n } = 3 6 7$ ; CFA: Sample 2, ${ \mathrm { n } } = 2 6 9 { \mathrm { \Omega } }$ ).Results showed the evil personality contained four dimensions: atrociousness and mercilessness,mendacity and hypocrisy,calumniation and circumvention，and faithlessness and treacherousness. Thus，we employed a 37-item evil personality lexical rating scale.The internal consistency,reliability,and criterion-related validity of the two scales were verified.
+
+The study found four-factor structures of good and evil personalities using the lexical approach and psychometrics methods,which contributes to knowledge on personality. In China, Confucius regarded benevolence as the highest moral principle for a person. Therefore, good and evil traits are embedded naturally in the personality structure of Chinese people. Understanding the structure of good and evil is useful for researchers interested in Chinese culture and for studies in Chinese indigenous psychology.
+
+Keywords: Good; evil; personality structure; lexical method; Chinese culture
+
+附1：研究1善恶人格词表  
+
+<html><body><table><tr><td></td><td>善</td><td>恶</td></tr><tr><td>1</td><td>仁爱的</td><td>好暗算的</td></tr><tr><td>2</td><td>有包容力的</td><td>横行霸道</td></tr><tr><td>3</td><td>成全他人</td><td>爱搬弄是非的</td></tr><tr><td>4</td><td>诚实的</td><td>爱报复的</td></tr><tr><td>5</td><td>真诚的</td><td>残暴的</td></tr><tr><td>6</td><td>可信任的</td><td>卑鄙的</td></tr><tr><td>7</td><td>惩恶扬善</td><td>好背叛的</td></tr><tr><td>8</td><td>大度的</td><td>背信弃义</td></tr><tr><td>9</td><td>大公无私</td><td>好剥削的</td></tr><tr><td>10</td><td>有担当的</td><td>不择手段的</td></tr><tr><td>11</td><td>守法的</td><td>残忍的</td></tr><tr><td>12</td><td>肯奉献的</td><td>乘人之危的</td></tr><tr><td>13</td><td>关怀的</td><td>好出卖人的</td></tr><tr><td>14</td><td>见义勇为</td><td>歹毒的</td></tr><tr><td>15</td><td>心胸开阔的</td><td>道貌岸然</td></tr><tr><td>16</td><td>乐善好施</td><td>表里不一</td></tr><tr><td>17</td><td>乐于助人</td><td>好诋毁他人的</td></tr><tr><td>18</td><td>热心的</td><td>好刁难的</td></tr><tr><td>19</td><td>仁慈的</td><td>恶毒的</td></tr><tr><td>20</td><td>有善心的</td><td>恩将仇报</td></tr><tr><td>21</td><td>舍己为人</td><td>公报私仇</td></tr><tr><td>22</td><td>拾金不昧</td><td>黑心的</td></tr><tr><td>23</td><td>守信的</td><td>胡作非为</td></tr><tr><td>24</td><td>坦诚的</td><td>爱嫁祸于人的</td></tr><tr><td>25</td><td>体谅人的</td><td>见利忘义</td></tr><tr><td>26</td><td>体贴的</td><td>狡诈的</td></tr><tr><td>27</td><td>将心比心</td><td>居心回测的</td></tr><tr><td>28</td><td>推己及人</td><td>坑蒙拐骗</td></tr><tr><td>29</td><td>为人着想的</td><td>落井下石的</td></tr><tr><td>30</td><td>无私的</td><td>六亲不认的</td></tr><tr><td>31</td><td>孝顺的</td><td>好虐待的</td></tr><tr><td>32</td><td>以德报怨</td><td>爱欺骗的</td></tr><tr><td>33</td><td>友善的</td><td>好侵犯的</td></tr><tr><td>34</td><td>有爱心的</td><td>凶恶的</td></tr><tr><td>35</td><td>有公德心的</td><td>缺德的</td></tr><tr><td>36</td><td>有同情心的</td><td>伤天害理的</td></tr><tr><td>37</td><td>与人为善</td><td>十恶不赦的</td></tr><tr><td>38</td><td>肯援助的</td><td>损人利己</td></tr><tr><td>39</td><td>正义的</td><td>爱唆使的</td></tr></table></body></html>
+
+<html><body><table><tr><td>40</td><td>正直的</td><td>贪婪的</td></tr><tr><td>41</td><td>知恩图报</td><td>恬不知耻</td></tr><tr><td>42</td><td>尽责的</td><td>好挑拨的</td></tr><tr><td>43</td><td>宽宏大量的</td><td>同流合污的</td></tr><tr><td>44</td><td>善解人意的</td><td>忘恩负义</td></tr><tr><td>45</td><td>博爱的</td><td>为非作歹</td></tr><tr><td>46</td><td>感恩的</td><td>唯利是图</td></tr><tr><td>47</td><td>随和的</td><td>齷齪的</td></tr><tr><td>48</td><td>肯牺牲的</td><td>好污蔑的</td></tr><tr><td>49</td><td>温良的</td><td>无耻的</td></tr><tr><td>50</td><td>爱家的</td><td>无恶不作的</td></tr><tr><td>51</td><td>重感情的</td><td>无赖的</td></tr><tr><td>52</td><td>热心公益的</td><td>伪善的</td></tr><tr><td>53</td><td>一心向善的</td><td>好侮辱人的</td></tr><tr><td>54</td><td>诚信的</td><td>好陷害他人的</td></tr><tr><td>55</td><td>雪中送炭</td><td>邪恶的</td></tr><tr><td>56</td><td>厚道的</td><td>心狠手辣的</td></tr><tr><td>57</td><td>平易近人</td><td>兴风作浪的</td></tr><tr><td>58</td><td>通情达理的</td><td>凶残的</td></tr><tr><td>59</td><td>真挚的</td><td>虚伪的</td></tr><tr><td>60</td><td>品行良好的</td><td>徇私舞弊</td></tr><tr><td>61</td><td>忠厚的</td><td>阴险的</td></tr><tr><td>62</td><td>至诚的</td><td>栽赃陷害的</td></tr><tr><td>63</td><td></td><td>好诈骗的</td></tr><tr><td>64</td><td></td><td>仗势欺人</td></tr><tr><td>65</td><td></td><td>善于作假的</td></tr></table></body></html>
+
+# 附2：利他人格自陈量表
+
+请下面是一些生活中的小事件，请根据你的情况，判断在你的生活中，这些事发生的频率
+
+<html><body><table><tr><td></td><td>从 不</td><td>两 次</td><td>时常</td><td>一有常很</td><td>经 常</td></tr><tr><td>我曾在别人少收我钱时指出来(比如在银行，超市等)</td><td>1</td><td>2</td><td>3</td><td>4</td><td></td><td>5</td></tr><tr><td>我曾在排队时给人让过位(比如在超市结账时，注册时等)</td><td>1</td><td>2</td><td>3</td><td></td><td>4</td><td>5</td></tr><tr><td>我曾帮别人寻回失物(比如笔、书、包等)</td><td>1</td><td>2</td><td>3</td><td>4</td><td></td><td>5</td></tr><tr><td>我帮别人提过东西(比如书、包裹等)</td><td>1</td><td>2</td><td>3</td><td>4</td><td></td><td>5</td></tr></table></body></html>
+
+<html><body><table><tr><td>我曾在拥挤的房间、火车或公车上给站着的人让过座</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾为等别人而让电梯的门开着</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾让别人搭过我的顺风车</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我帮过车在路上出问题的人（比如更换轮胎，叫维修公司，帮忙推 出土坑等)</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾在路上帮别人指路</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾借给别人贵重的东西(比如衣服、珠宝等)</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾帮别人换过零钱</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾做过义工</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾给过需要帮助或向我乞讨的人钱</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾帮别人搬过家</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾帮学习比我差的人完成家庭作业</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我献过血</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我曾义务帮别人照顾过房子、孩子、植物或宠物</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></table></body></html>
+
+# 附3：简版国际人格五因子量表
+
+以下是一些有关自我情感、态度和行为的陈述。请仔细阅读每个陈述，看看是否适合用来描述你自己。请逐题在相应的选项上选择数字（ $1 =$ 非常不同意； $2 =$ 不同意； $\scriptstyle 3 =$ 没有意见； $\scriptstyle 4 =$ 同意； $\scriptstyle 5 =$ 非常同意)，表明你同意该看法的程度。
+
+<html><body><table><tr><td></td><td>非常不 同意</td><td>不同 意</td><td>没有 意见</td><td>同 意</td><td>非常 同意</td></tr><tr><td>我是聚会中的灵魂人物</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我能对他人的情感产生共鸣</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我能迅速处理好日常琐事</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我情绪容易波动</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我有着生动的想象力</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我话不多</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我对他人的困难不感兴趣</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></table></body></html>
+
+<html><body><table><tr><td>我经常忘记把东西放回原处</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我很多时候感到放松</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我对抽象的观念不感兴趣</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我在聚会中和许多不同的人交谈</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我能体会他人的内心感受</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我喜欢秩序</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我很容易感到失落</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我对抽象观念的理解感到困难</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我喜欢在幕后，很少显山露水</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我对其他人不感兴趣</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我做事情总是混乱且没有头绪</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我很少感到忧郁</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>我想象力不好</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr></table></body></html>
+
+# 附4：中国人人格形容词评定量表(QZPAS)的中F6善良友好维度
+
+该人物有多大程度上符合下面描述：
+
+<html><body><table><tr><td></td><td>完全不符 合</td><td>比较不符 合</td><td>有点不符 合</td><td>有点符合</td><td>比较符合</td><td>完全符合</td></tr><tr><td>爱责怪人的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>急躁的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>爱发牢骚的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>爱教训人的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>暴躁的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>易迁怒的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>脾气好的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></table></body></html>
+
+# 附5：中文版的黑暗十二条量表(他评)
+
+你多大程度上同意对该人物进行如下描述：
+
+<html><body><table><tr><td rowspan="4"></td><td>完</td><td>部</td><td>略</td><td>不</td><td>略</td><td>部</td><td>非</td></tr><tr><td>全</td><td>分</td><td>微</td><td></td><td>确微</td><td>分</td><td>常</td></tr><tr><td>不 同</td><td>不 同</td><td>不 同</td><td>定同</td><td>意</td><td>同</td><td>同</td></tr><tr><td>意</td><td>意</td><td>意</td><td></td><td></td><td>意</td><td>意</td></tr><tr><td>该人物倾向于操纵别人以达到自己的目的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物习惯于欺骗别人以达到自己的目的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物习惯于奉承别人以达到自己的目的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物习惯于利用别人以达到自己的目的</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物缺乏悔恨之心</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物不太关心自己的行为是否符合道德规范</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物冷酷、麻木</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物愤世嫉俗</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物希望别人赞美他/她</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物希望别人关注他/她</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物追求名誉地位</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>该人物期望从别人那里获得特殊礼遇</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr></table></body></html>

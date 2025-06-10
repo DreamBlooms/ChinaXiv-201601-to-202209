@@ -1,0 +1,108 @@
+临床研究
+
+# 同型半胱氨酸与糖尿病微血管病变的相关性及药物干预后的变化
+
+谢 芳，吕冬，陈伟斌,林艳足中国海洋石油南海西部医院内科，广东 湛江 524057摘要：目的探讨同型半胱氨酸与糖尿病微血管病变的相关性及药物干预后的变化。方法2型糖尿病患者200例，根据患者微血管并发症情况分为无微血管病变组和合并微血管病变组，所有患者治疗前及治疗6个月后进行血脂、血糖、肾功能及血清同型半胱氨酸测定。另外按年龄和性别匹配的原则选择同期进行体检的健康受试者100例作为正常对照组。结果（1)无血管病变组和合并微血管病变组患者常规测量收缩压(SBP）、舒张压(DBP)、甘油三酯(TG)、血脂测定包括总胆固醇(TC）、低密度脂蛋白(LDL)、血糖测定包括空腹血糖(FBG）餐后 $^ { 2 \mathrm { ~ h ~ } }$ 血糖( $^ { 2 \mathrm { ~ h ~ } }$ PBG)糖化血红蛋白(HbA1)、肾功能测定包括血清尿素氮(SUN）、血清肌酐(Scr)和血浆同型半胱氨酸(HCY)水平均显著高于正常对照组 $( P { < } 0 . 0 1 )$ ,HDL水平显著低于正常对照组( $P <$ 0.01);(2)合并微血管病变组患者的SBP、DBP、SUN、SCr和HCY水平显著高于无血管病变组 $( P { < } 0 . 0 1 )$ ；(3)多因素logistic回归分析显示舒张压、尿素氮、血清肌酐和同型半胱氨酸水平是糖尿病患者发生微血管并发症的危险因素；(4)治疗后无微血管病变组和合并微血管病变组组患者HCY水平均较治疗前显著降低( $( P { < } 0 . 0 1 )$ 。结论高同型半胱氨酸水平是糖尿病微血管病变的高危因素，经治疗后可降低患者同型半胱氨酸水平。
+
+关键词：糖尿病;微血管病变；同型半胱氨酸；临床相关性
+
+# Correlation of homocysteine with diabetic microangiopathy and the change after drug intervention
+
+XIEFang,LVDong,CHEN Weibin,LINYanzu DepartmentofaldicesteHspialofutnantioaloeilpatig
+
+Abstract: Objective To explore thecorrelation of homocysteine with diabetic microangiopathyandthe change after drug intervention.MethodsAtotalof 2O0 patients with type2diabeteswere selected betweenJanuaryandDecember 2013.The patients were divideinto groupof no microvascular disease and group of microvascular lesion according to the complications. Blood ipid,bloodgluose,renalfunctionandserumhomocysteine weredeteced pre-treatmentandafter6monthstreatmnt. Atotal of 100 cases of healthy subjects with physical examination over the same period were selected as control group according to the principleof ageand gender matching.Results SBP,DBP,TG,TC,LDL,FBG,2hPBG, HbA1,SUN,Crd HCY in group of no microvascular disease and group of microvascular lesion were significantly higher than that in control group $\left( P { < } 0 . 0 1 \right)$ ， while HDL were significantly lower $( P { < } 0 . 0 1 )$ ; SBP、DBP、SUN、SCr and HCY in group of microvascular lesion were significantly higher than that in group of no microvascular disease $( P { < } 0 . 0 1 )$ ; Multi factor Logistic regression analysis showed blood presure，urea nitrogen,serum creatinine and homocysteine levels arerisk factors for microvascular complications in patients with diabetes melitus; HCYafter treatment were significantly lower than thatbefore treatment in group of no microvascular disease and group of microvascular lesion than( $P { < } 0 . 0 1 )$ . Conclusion High homocysteine levels are risk factor of diabetic microvascular disease, and the homocysteine levels can be reduced after treatment.
+
+Key words: diabetes; microvascular lesions; homocysteine; clinical correlation
+
+微血管病变是2型糖尿病患者最为常见且严重的慢性并发症之一[1-3]。目前认为有多种因素参与了糖尿病微血管并发症发病过程，其中较为公认的为糖尿病的病程及糖代谢紊乱的程度，即随着糖尿病病程的增加，特别是5年以上的病程，其糖尿病微血管发生率明显增加；此外糖代谢紊乱的程度越高，特别是长期的高血糖得不到有效控制，其微血管并发症发生的风险也明显增加。长期高血糖将导致蛋白质发生非酶作用的糖基化，大量过度的糖基化蛋白导致血管尤其是全身微小血管损害，主要表现为管壁的损伤、血管基底膜的增厚、通透性的增加、血管硬化、阻塞及狭窄等，进而导致糖尿病微血管并发症的发生[4。同型半胱氨酸水平与心脑血管疾病之间有密切联系，同型半胱氨酸水平升高是心脑血管疾病的独立高危因素[5]。同型半胱氨酸与糖尿病大血管病变有显著相关性。已有研究显示，高HCY血症患者颈动脉内膜中层厚度及C反应蛋白明显高于HCY水平正常人群，并且随着HCY水平增高，颈动脉内膜中层厚度逐渐增厚，提示高HCY血症与糖尿病心脑血管并发症的发生密切相关，此外高HCY血症患者的踝肱指数明显降低，相关分析也显示随着HCY水平的升高，踝肽指数显著下降，均提示HCY可能参与糖尿病下肢血管病变的发生。另有研究显示，糖尿病合并肾脏微血管病变组研究对象的同型半胱氨酸及尿微量白蛋白水平高于单纯糖尿病组患者和健康对照组研究对象，同型半胱氨酸随血糖升高、肾脏损害程度的加深而升高。但是，对于同型半胱氨酸水平在糖尿病微血管病变患者治疗前后变化如何，是否可以与糖尿病微血管病变临床疗效相关却尚不明确。
+
+# 1资料和方法
+
+# 1.1一般资料
+
+选取2013年1月\~2014年12月在本院初诊的2型糖尿病患者200例，根据患者微血管并发症情况分为无微血管病变组和微血管病变组，每组各100例。另外按年龄和性别匹配的原则选择同期进行体检的健康受试者100例作为正常对照组。
+
+# 1.2 纳入标准
+
+1.2.1诊断标准2型糖尿病标准采用2006年世界卫生组织修订的糖尿病诊断标准[8。糖尿病肾病(DN)诊断标准：微量白蛋白尿 $\geqslant 3 0 \mathrm { m g } / 2 4 \mathrm { h }$ ，且排除其他泌尿系统自身疾病。糖尿病视网膜病变(DR)诊断标准：按2002年糖尿病视网膜病变的国际临床分级标准诊断。
+
+定包括总胆固醇(TC)、甘油三酯(TG)高密度脂蛋白(HDL）低密度脂蛋白(LDL)。血糖测定包括空腹血糖(FBG)和餐后2h血糖(2hPBG)及糖化血红蛋白(HbA1)。肾功能测定包括血清尿素氮(SUN)、血清肌酐(Scr)。
+
+# 1.4 统计学方法
+
+1.2.2纳入标准无微血管病变组患者：符合2型糖尿病标准,但是不符合DN和DR诊断标准。微血管病变组患者：符合2型糖尿病标准，同时符合DN或/和DR诊断标准。1.2.3排除标准以下患者不参加本次研究：(1)处于酮症、糖尿病非酮症性高渗性昏迷、急性心脑血管病等应激状态的患者；(2)合并感染的患者；(3)1型糖尿病、继发糖尿病、妊娠糖尿病或其他特殊类型糖尿病的患者;(4)并发血液性疾病的患者；(5)并发非糖尿病肾病、梗阻性肾病、尿路结石、感染及存在有影响动脉血管的结缔组织疾病的患者;(6)并发过敏性疾病的患者;(7)并发严重心脏、肝脏和肾脏的患者；(8)并发免疫性疾病并且接受激素治疗的患者；(9)临床已诊断为大血管病变的患者。
+
+# 1.3 方法
+
+健康体检者体检当天进行体格及实验室检查。所有糖尿病患者开始治疗前1d进行体格检查、实验室检查，给予控制血糖，治疗6个月后再次进行实验室检查。体格检查：常规测量收缩压(SBP)、舒张压(DBP)、体质量指数(BMI)。实验室检查：抽取空腹外周静脉血及餐后2h静脉血测定血脂、血糖、肾功能及血清同型半胱氨酸，餐后2h静脉血仅用于测定餐后2h血糖。所有测定采用贝克曼BXC600全自动生化分析仪。血脂测
+
+采用SPSS19.0统计软件，计量资料多组间比较采用F检验，两组间比较采用独立样本t检验；用多因素Logistic回归分析评价同型半胱氨酸与2型糖尿病微血管病变之间的相关性；采用配对 $t$ 检验评价糖尿病患者治疗前后血清同型半胱氨酸的变化。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1一般临床资料的比较
+
+无血管病变组和合并微血管病变组患者SBP、DBP、TG、TC、LDL、FBG、2hPBG、HbA1、SUN、SCr和HCY水平均显著高于正常对照组 $( P { < } 0 . 0 1 )$ ,HDL水平显著低于正常对照组 $\left( P { < } 0 . 0 1 \right)$ );合并微血管病变组患者的SBP、DBP、SUN、SCr和HCY水平显著高于无血管病变组 $( P { < } 0 . 0 1 )$ ;3组患者性别、年龄和BMI差异均无统计学意义( $\mathrm { P { > } 0 . 0 5 }$ ，表1)。
+
+# 2.2 Logistic 回归分析
+
+以有无微血管病变为因变量，将性别、年龄、BMI、SBP、DBP、TG、TC、HDL、LDL、FBG、2hPBG、HbA1、SUN、SCr和HCY进行多因素logistic回归分析,结果显示DBP、SUN、SCr和HCY是糖尿病患者发生微血管并发症的危险因素(表2)。
+
+# 2.3治疗前后同型半胱氨酸的变化
+
+治疗后无微血管病变组和合并微血管病变组患者HCY水平均较治疗前显著降低 $( P { < } 0 . 0 1 )$ ；治疗前及之后合并微血管病变组患者HCY水平均较无微血管病变组患者显著升高( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ ，表3)。
+
+# 3讨论
+
+糖尿病是临床内分泌科最常见的疾病，是导致患者残疾、死亡以及医疗负担增加的主要原因之一。随着社会经济的快速发展，糖尿病已成为危害公众健康的主要疾病之一。目前尚没有治愈糖尿病的有效治疗方法，主要治疗目标是降低患者血糖值，最大限度减少糖尿病并发症的发生。近年来随着社会经济的高速发展、人们生活水平以及方式的持续变化、人口老龄化的发展，糖尿病的发病率逐年上升，其与癌症、心血管疾病并称为世界3大疾病,严重威胁人们健康和生活质量[]。微血管病变是糖尿病的重要并发症之一，主要发生在视网膜、肾脏、心肌、神经组织及足趾，临床上常以DR、DN等为主要表现[]。
+
+糖尿病肾病是导致慢性肾脏病的主要原因之一，而糖尿病肾病是终末期肾病的首要原因。糖尿病肾病早期病理改变为肾小球肥大、细胞外基质聚集、基底膜增厚，晚期出现弥漫性肾小球硬化，导致肾功能衰竭。糖尿病视网膜病变主要病理变化是视网膜微血管结构和功能的改变,结构改变包括毛细血管基底膜增厚、毛细血管通透性增加、周细胞减少以及毛细血管微动脉瘤形成，伴随视网膜血流下降、毛细血管阻塞、新生血管形成和牵拉性视网膜脱离，最终导致视力的部分或完全丧失。视网膜微血管异常主要包括视网膜病变和视网膜动脉硬化，其不仅是引起成人失明的主要原因之一，近年研究还发现，糖尿病视网膜微血管异常还与糖尿病大血管病变关系密切[12-13]。临床上很多疾病都和微循环障碍密切相关，糖尿病性微血管病变是糖尿病并发症的病理基础，也是决定糖尿病预后的主要因素之一，严重影响患者的临床预后和生活质量[1416]。
+
+表1糖尿病患者的临床资料 Tab.1 Clinical data of patients with Diabetic Mellitus (n=100)   
+
+<html><body><table><tr><td></td><td>Normal Control Group</td><td>Diabetic Mellitus without Microangiopathy Group</td><td>Diabetic Mellitus with Microangiopathy Group</td></tr><tr><td>Gender (male/Female)</td><td>52/48</td><td>53/47</td><td>52/48</td></tr><tr><td>Years (y)</td><td>52.4±11.3</td><td>55.6±10.7</td><td>54.5±11.8</td></tr><tr><td>BMI (kg/m²)</td><td>26.3±5.4</td><td>26.5±5.7</td><td>26.7±5.6</td></tr><tr><td>SBP(mmHg)</td><td>114.4±19.7</td><td>125.6±17.6*</td><td>147.3±21.7*#</td></tr><tr><td>TG (mmol/L)</td><td>79.2±11.5</td><td>83.7±10.6*</td><td>87.4±11.8*#</td></tr><tr><td>TC(mmol/L)</td><td>1.6±1.6</td><td>2.2±1.6*</td><td>2.2±1.5*</td></tr><tr><td>HDL(mmol/L)</td><td>4.5±1.5</td><td>5.1±1.6*</td><td>5.4±1.6*</td></tr><tr><td>LDL (mmol/L)</td><td>1.8±0.5</td><td>1.4±0.4*</td><td>1.4±0.5*</td></tr><tr><td>FBG（mmol/L)</td><td>2.7±1.0</td><td>3.4±0.8*</td><td>3.5±1.1*</td></tr><tr><td>2hPBG(mmol/L)</td><td>4.3±0. 7</td><td>6.3±0.6*</td><td>6.5±0.6*</td></tr><tr><td>HbA1 (%)</td><td>6.5±1.3</td><td>8.0±1.5*</td><td>8.1±1.5*</td></tr><tr><td>SUN (mmol/L)</td><td>4.5±0.6</td><td>8.9±0.6*</td><td>9.1±0.6*</td></tr><tr><td>SCr（μmol/L)</td><td>4.3±1.3</td><td>6.3±1.3*</td><td>8.3±1.3*#</td></tr><tr><td>HCY（μmol/L)</td><td>75.5±15.5</td><td>85.4±14.8*</td><td>96.6±16.4**</td></tr></table></body></html>
+
+Compared with Normal Control Group, $^ { * } P { < } 0 . 0 1$ ; Compared withDiabetic MellituswithoutMicroangiopathy Group, $^ { \# } P { < } 0 . 0 1$
+
+表2糖尿病微血管病变的Logistic回归分析结果 Tab.2 The results of Logistic regression analysis on diabetic mellitus with microangiopathy   
+
+<html><body><table><tr><td>Variable</td><td>B</td><td>SE</td><td>Wals</td><td>P</td><td>OR (95%CI)</td></tr><tr><td>DBP</td><td>0.032</td><td>0.015</td><td>5.124</td><td>0.037</td><td>1.241 (1.056-1.415)</td></tr><tr><td>SUN</td><td>0.826</td><td>0.162</td><td>15.430</td><td>0.000</td><td>2.926 (1.761-2.258)</td></tr><tr><td>SCr</td><td>0.247</td><td>0.053</td><td>7.642</td><td>0.025</td><td>1.364 (1.126-1.574)</td></tr><tr><td>HCY</td><td>0.547</td><td>0.094</td><td>9.759</td><td>0.012</td><td>1.673 (1.424-1.820)</td></tr><tr><td>Constant</td><td>2.570</td><td>0.653</td><td>8.252</td><td>0.014</td><td>1.250</td></tr></table></body></html>
+
+表3糖尿病患者治疗前后同型半胱氨酸水平 Tab.3 The homocysteine level in patients with diabetic mellitus before and after treatment ( $_ { ( n = 1 0 0 ) }$ 1   
+
+<html><body><table><tr><td>Group</td><td>Before treatmetn</td><td>6th month after treatment</td></tr><tr><td>Diabetic Mellitus without Microangiopathy Group</td><td>11.24±1.52</td><td>9.43±1.35&</td></tr><tr><td>Diabetic Mellitus with Microangiopathy Group</td><td>14.38±1.94</td><td>12.51±1.73&</td></tr></table></body></html>
+
+Compared with that before treatment, $^ { \mathrm { \tiny { s } } } P { < } 0 . 0 1 \$
+
+同型半胱氨酸是一种含硫的氨基酸，是蛋氨酸脱甲基代谢的中间产物。同型半胱氨酸是蛋氨酸代谢过程中的重要中间产物,在正常情况下经肾脏代谢,血清含量很低。在某些发病机制下，同型半胱氨酸不能进一步转化，就会从滞留的细胞内释入血中，引起高同型半胱氨酸血症。高同型半胱氨酸血症增加氧自由基和过氧化氢产生，削弱血管内皮NO的生物活性而导致内皮损害,破坏机体凝血和纤溶之间的平衡，从而促进血栓形成[17-18]。研究表明,糖尿病状态下出现高同型半胱氨酸血症,并与血管并发症相关[19]。已有研究[20-23]显示,同型半胱氨酸与糖尿病大血管病变有显著相关性。虽然目前对于同型半胱氨酸与糖尿病神经病变、大血管病变的相关关系已有大量研究，但是对于同型半胱氨酸与糖尿病微血管病变的相关性研究较少。本研究结果显示，无微血管病变组和合并微血管病变组患者HCY水平均较正常对照组患者显著升高 $( P { < } 0 . 0 1 )$ ,而合并微血管病变组患者HCY水平较无微血管病变组患者显著升高( $\scriptstyle ( P <$ 0.01)，并且多因素Logistic回归分析显示HCY是糖尿病患者发生微血管并发症的危险因素，这可能与同型半胱氨酸损伤血管内皮以及促进血栓形成有关。本研究结果与元海萍等研究相比，除了2型糖尿病合并肾脏微血管病变患者的糖化血红蛋白、同型半胱氨酸及尿微量白蛋白水平显著升高，本研究结果依显示2型糖尿病合并肾脏微血管病变患者SBP、DBP、SUN、Scr显著升高。另袁捷等24研究显示糖尿病合并微血管病变组Hcy水平较单纯糖尿病组升高,2型糖尿病微血管病变的发生与血清Hcy水平有关，与本研究结果基本一致。此外本研究还揭示了糖尿病患者治疗前后同型半胱氨酸的变化情况，结果显示经过6个月治疗后无微血管病变组和合并微血管病变组患者HCY水平均较治疗前显著降低 $( P { < } 0 . 0 1 )$ ,因此对糖尿病微血管并发症的治疗可降低HCY水平而降低微血管并发症恶化的风险。
+
+总之，高同型半胱氨酸水平是糖尿病微血管病变的高危因素，经治疗后可降低患者同型半胱氨酸水平。
+
+# 参考文献：
+
+[1］员许民.血浆血管内皮生长因子与2型糖尿病微血管病变的关系研究 [J].现代中西医结合杂志,2011,20(34):4327-8.   
+[2]王庆国,丁静,权翠侠.同型半胱氨酸在糖尿病视网膜病变诊断中的 应用[J].临床荟萃,2011,26(2):108-9.   
+[3] Zhang D,Chen Y,Xie X,et al.Homocysteine activates vascular smooth muscle cells by DNA demethylation of platelet-derived growth factor in endothelial cells[J].J Mol Cell Cardiol,2012,53 (4): 487-96.   
+[4]Hirsch IB,Brownlee M.Beyond hemoglobin A1 c-need for additional markers of risk for diabetic microvascutar complications [J].JAMA,2010,303(22): 22912.   
+[5］曹立平,徐 青,洪丽萍,等.原发性高血压患者同型半胱氨酸水平与动 脉病变及左心室肥厚关系的临床研究[J].中国循环杂志,2015,30 (2): 133-5.   
+[6] 刘宋芳,王述进,左 红,等.2型糖尿病患者同型半胱氨酸与大血管病 变的关系[J].中国循环杂志,2015,30(2):130-2.   
+[7］元海萍,吕卫华,武琳.糖化血红蛋白、同型半胱氨酸及尿微量白蛋白 与2型糖尿病合并肾脏微血管病变的关系研究[J].中国实验诊断学, 2015, 19(11): 1840-3.   
+[8]Koga T,Fujikawa K,Horai Y,etal. The diagnostic utility of anti-melanoma diffrentiation-associated gene 5antibody testing for predicting the prognosis of Japanese patients with DM[J]. Rheumatology,2012,51(7): 1278-84.   
+[9]李志强,常红娟,桑文凤.特效三消汤加减治疗2型糖尿病的临床研究 [J].中药材,2013,36(1): 163-6.   
+[10]中华医学会糖尿病学分会.中国2型糖尿病防治指南(2010年版) [M].北京:北京大学医学出版社,2010:11-4.   
+[11]文婷,黄秋霞.2型糖尿病患者血清25-羟维生素D水平与微血管 病变的相关性[J].广东医学,2015,36(8):1229-31.   
+[12]张晓会,赵 伟,郑 晓,等.中性粒细胞与淋巴细胞比值与2型糖尿病 微血管病变的相关性研究[J].中华内分泌代谢杂志,2014,30(9): 752-4.   
+[13]KeeffeJ, Taylor HR,Fotis K,et al.Prevalence 8nd causes of visionloss in Southeast Asia and Oceania: 1990-2010[J].Br J Ophthalmol, 2014, 98(5): 586-91.   
+[14]Lim CP, Loo AV,Khaw KW,et al. Plasma,aqueous and vitreous homocysteine levels in proliferative diabetic retinopathy[J]. Br J Ophthalmol,2012,96(5): 704-7.   
+[15]黎 涛.糖化血红蛋白、同型半胱氨酸、纤维蛋白原与2型糖尿病患者 微血管病变的相关性[J].海南医学,2012,23(24):91-3.   
+[16]李运成.沙格列汀对糖尿病微血管病变患者血浆hs-CRP和Hcy 水 平的影响[J].山东医药,2014,54(38):75-6.   
+[17]Papatheodorou L,Weiss N. Vascular oxidant stress and inflammation in hyperhomocysteinemia[J].Antioxid Redox Signal,2007, 9(11): 1941-58.   
+[18] Spares AL, Sousa-Mde O, Dusse LM, et al. Type 2 diabetes: assessment of endothelial lesion and fibrinolvtic system markers[J]. Blood Coagul Fibrinolysis,2007,18(5): 395-9.   
+[19] Karabag T,Kaya A,Temizhan A,et al.The influence of homocysteine levels on endothelial function and their relation with microvascular complications in T2DM patients without macrovascular disease[J].Acta Diabetol,2007,44(2): 69-75.   
+[20] Buysschaert M,Dramais AS,Wallemacq PE,et al. Hyperhomocysteinemiaintype2 diabetes:relationship to macroangiopathy, nephropathy，and insulin resistance[J].FASEB J，200o,23(12): 1816-22.   
+[21]刘树娇,唐 灵,陈春莲,等.内脂素、同型半胱氨酸、高敏C反应蛋白与 2型糖尿病大血管病变的关系[J].实用医学杂志,2013,29(10): 1704-5.   
+[22] Ozmen B,Ozmen D，Turgan N,et al． The association between homcysteinemia and renal function in patients with type 2 diabetes Mellitus[J]. Ann Clin Lab Sci,2002,32(3): 279-86.   
+[23]黄漓莉,苏珂,于 健,等.2型糖尿病患者大血管病变与Hcy CysC、 hs-CRP的关系[J].广东医学,2015,36(10):1518-20.   
+[24]袁 捷,杜彦丽,王 肃.2型糖尿病患者血清Hcy、CysC、VEGF水平与 微血管病变的关系[J].山东医药,2015,55(21):86-7.
+
+(编辑：孙昌朋)

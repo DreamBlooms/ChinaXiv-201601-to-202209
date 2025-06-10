@@ -1,0 +1,732 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进YOLOv2的无标定3D机械臂自主抓取方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余玉琴a，魏国亮ʰ，王永雄‘(上海理工大学a.光电信息与计算机工程学院;b.理学院，上海 200093;）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：提出了一种多物体环境下基于改进YOLOv2的无标定3D机械臂自主抓取方法。首先为了降低深度学习算法YOLOv2检测多物体边界框重合率和3D距离计算误差，提出了一种YOLOv2改进的算法。利用此算法对图像中的目标物体进行检测识别，得到目标物体在RGB图像中的位置信息；然后根据深度图像信息使用K-means $^ { + + }$ 聚类算法快速计算目标物体到摄像机的距离，估计目标物体大小和姿态，同时检测机械手的位置信息，计算机械手到目标物体的距离；最后根据目标物体的大小、姿态和到机械手的距离，使用PID 算法控制机械手抓取物体。提出的改进YOLOv2算法获得了更精准的物体边界框，边框交集更小，提高了目标物体距离检测和大小、姿态估计的准确率。为了避免了繁杂的标定，提出无标定抓取方法，代替了基于雅克比矩阵的无标定估计方法，通用性好。实验验证了提出的系统框架能对图像中物体进行较为准确的自动分类和定位，利用Universal Robot3机械臂能够对任意摆放的物体进行较为准确的抓取。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：改进YOLOv2；无标定；PID控制；机械臂抓取 中图分类号：TP391.4 doi: 10.19734/j.issn.1001-3695.2018.10.0821 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3D uncalibrated robotic grasping method based on improved YOLOv2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yu Yuqina, Wei Guoliangb, Wang Yongxionga (a.SchoolofOptical-Electrical &ComputerEngineering,b.Collegeof Science,Universityof Shanghai forScience& Technology, Shanghai 200093,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper proposed an uncalibrated 3D robotic arm grabbing method based on improved YOLOv2 in a multi-object environment.Firstly,inorder toreduce thedepth learning algorithm YLOv2detection multi-object bounding box overlapping rate and 3D distancecalculation error.It proposed an improved algorithm for YOLOv2.Using this algorithmtodetectand identifythetargetobject intheimage,obtaintheposition informationof thetargetobjectin the RGB image,and then use the $\\mathbf { k }$ -means $^ { + + }$ clustering algorithm to quickly calculate the distance from the target object to the camera according to the depth image information,and estimate the target object size and pose.Simultaneously，use the improved YOLOv2 to getthe bounding box of the gripperand calculate the distance fromtherobottothetarget object. Thenthe system estimates the distance betweenthe fixture,cameraandobject in the manipulator coordinate system.Finaly, the systemuses the PIDalgorithmto controlthe gripper to grabtheobjectaccording tothe sizeand postureof the object andthe distance fromtheobjecttothegripper.In this paper,the detected boundary boxesof thetarget objectismore accurate basedonthe improved YOLOv2 thanonoldone.It also enhances the distance fromthe fixture totheobject and the sizeof theobjectaswellastheaccuracyofthepose estimation.Inaddition,inorder tovoidcomplicatedcalibration,this paper proposes a non-calibration method.This learning scheme is diferent from the traditional uncalibrated estimation method basedon Jacobian matrix,because it has good universality.A simulation experiment shows that the proposed methodcanaccurately classifyand locate theobjects intheimage,The Universal Robot 3robotic arm uses this framework to verify the effectiveness of capturing objects in a cluttered environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: improved YOLOv2; uncalibration; PID control algorithm; robotic grasping ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于视觉的智能机械臂物体抓取具有广泛的应用场景和较高的应用价值，物品分拣、垃圾分拣就是其典型任务。传统的垃圾分拣工作采用人工分拣的形式，有些电子垃圾、化学品垃圾对人体危害较大。基于视觉的智能机械臂系统可自动识别不同种类、不同大小的垃圾，分辨出可再利用部分并自动实现分拣。因此可用于快递分拣、工厂流水线上的零件摆放，逐步代替人工从事劳动强度大、重复单调的工作，同样也是工业4.0 和人工智能的主要研究方向之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在传统的机械臂物体抓取中，对位姿固定的单目标物体采用人工示教的方式抓取。在常规的视觉伺服中，摄像机和机械臂的位置相对固定，目标物体单一且位姿固定；由于不能自主感知工作环境、物体类别、形状、尺寸和位姿等信息，传统机械臂系统的物体抓取方法具有诸多不确定性，只能在特定环境下使用。多个物体存在、物体的种类不同、大小不同、物体的位姿变化、摄像机和机械臂的相对位置不固定等问题使得传统视觉机械臂系统无法完成复杂的抓取任务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了能够在自然环境中实现自主物体抓取，研究人员不断改进基于视觉的机械臂物体抓取方法。文献[1]介绍了传统的基于图像二值图位置检测的机械臂物体抓取方法，文献[2\\~4]提出了一种基于雅可比矩阵估计的视觉伺服控制方案，以上方法都是单个物体场景下，机器人和摄像机的位置相对固定。在视觉识别阶段，大多数方法还是手工设定特征，但是在实际的抓取任务中，目标物体的大小、形状、外部光照强度、角度变化和采样角度不确定，传统的特征提取方法提取的物体特征鲁棒性差，不能适应新物体和多变的环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2012年，Hinton课题组使用深度学习方法AlexNet[5],在ImageNet图像识别比赛中夺得冠军，此后深度学习迅速受到广泛的关注，并逐步应用于机械臂物体抓取领域。文献[6]提出在抓取姿态不确定的情况下，使用卷积神经网络学习抓取函数，此方法泛化能力强、能够适应新物体，但都只适用于单个物体场景，无法在多个物体共存的杂乱环境下应用。因此，研究人员提出了多个物体杂乱共存环境下的物体抓取方法。文献[7]提出基于深度学习的多视图、自监督方法来估计物体6D姿态，完成物体抓取。此方法需要通过繁杂的视觉标定确定摄像机和机械臂之间的相对位置。针对此问题，文献[8]提出了一种基于深度学习无标定手眼协调抓取方法。他们使用了6到14个机器人，经历3个月收集了超过80万次的抓握尝试数据集，训练了一个深层卷积网络控制机械臂抓取物体。此方法泛化能力强，但此方法的数据集收集难度大，成本高，并且此方法只适用于某一特定型号的机械臂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对多目标、环境杂乱、物体位姿不固定、大小不固定、摄像机和机械臂相对位置不固定的抓取环境，本文提出了一种YOLOv2改进的算法，实现杂乱环境中多物体的自动检测，克服原算法检测物体框重叠率过高等问题，并识别物体的类别，估计目标物体的边界框信息、大小和姿态，同时检测机械手的边界框，然后使用K-means $^ { + + }$ 聚类算法快速计算摄像机、机械手和物体三者之间的距离，最后根据目标物体的大小、姿态及机械手到目标物体的距离，使用PID控制算法控制机械手抓取物体。本方法的创新性如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)提出了一个全新的基于机器视觉和机器学习的无标定3D机械臂抓取框架，首先使用深度学习检测物体，获取物体大致位姿，再采用K-means $^ { + + }$ 聚类算法计算摄像机、机械臂和物体三者之间的距离，最后利用PID控制方法实现物体抓取。此方法通用性好。使用机器学习方法获得位姿信息，代替了传统的无标定视觉伺服中的雅克比矩阵估计，优点是计算简便，实时性好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）改进了YOLOv2 算法的物体边界框确定方法，改进后检测出的目标物体边界框与邻近物体边界框的交集更小，提高了目标物体到摄像机之间距离的计算精度，进而提高了物体的姿态估计精度和大小估计精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）相比于传统的人工特征提取方法，采用改进YOLOv2方法学习目标物体的特征，借助深度学习预训练，能够适应没有经过训练的新物体，具有较高的泛化能力和稳定性。相比于传统的抓取位置检测的方法，利用图像信息和深度信息进行无标定PID控制，避免了摄像机和机械臂基座之间相对位置的繁复标定。相对于大规模数据集的手眼协调无标定抓取方法[8]，避免使用成本高昂的设备收集数据集，此方法和人类抓取物体的方法更相似，实现过程更经济、更快捷，符合人工智能自主抓取的理念。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 系统框架和流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统框架及算法流程如图1所示。该系统主要包括RBG-D摄像机（Kinect2.0）和UR3机械臂，摄像机固定在工作台一端，摄像机成像平面垂直于工作台桌面。此抓取方法主要包括三部分：物体检测算法、目标物体姿态和大小估计、物体抓取控制。首先使用摄像机采集目标物体的彩色图像和深度图像，将RGB图像输入到改进YOLOv2物体检测算法中，检测并识别系统空间下各个物体的类别、目标物体在RGB图像中的位置和边界框；然后结合深度图像使用K-means $^ { + + }$ 聚类算法快速计算目标物体到摄像机的距离，根据目标物体的距离和边界框估计目标物体的姿态和大小；通过使用聚类算法实时计算机械手到摄像机的距离，获得目标物体和机械手在机械臂坐标系XR方向上的距离。依据RGB图像计算目标物体和机械手在机械臂坐标系YR方向上的距离。最后根据目标物体的大小和姿态调节机械手，采用以XR和YR方向上的距离作为输入的PID闭环控制算法实现机械臂抓取物体。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/512ca9eff9fe9b75f887818ff9b983e6d71e7e24bb519e59467411cf2d307d79.jpg",
+        "img_caption": [
+            "Fig.1Experimental framework and algorithm flow "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 目标检测算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经典的目标检测算法(R-CNN)[9首先用选择性搜索方法[10]在图像中搜素 $1 \\mathrm { k } { \\sim } 2 \\mathrm { k }$ 个候选框,再使用卷积神经网络(CNN)模型提取特征。每一个候选框都需要输入到CNN 模型中提取特征，上千个候选框存在大量的范围重叠，重复的特征提取产生巨大的计算量，使得目标检测不具备实时性。Faster-RCNN[11实现了较快速的目标检测，此方法提高了目标检测的精度和速度，但是候选框的生成和分类过程计算量大，无法达到实时检测目标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[12]提出了YOLO物体检测方法，此算法将物体检测任务当做一个回归问题来处理，将整张图片输入到YOLO网络，此方法的优点是检测物体速度很快，能够有效的避免背景错误、学习物体的泛化特征，但其物体检测精度低，对于密集的小物体检测效果差。为了让目标检测算法同时具备检测速度快和检测精度高的优点，文献[13]提出了YOLOv2物体检测算法。使用VOC 数据集训练YOLOv2模型，mAP(mean average precision)为 76.8，检测速度为 67FPS。VOC 数据集训练FasterR-CNN 模型，mAP为 $7 3 . 2 ^ { [ 1 3 ] }$ ，检测速度为7FPS。YOLOv2的检测精度优于FasterR-CNN，检测速度快于YOLO。所以本文最终采用YOLOv2作为机械臂抓取任务中的目标检测模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1YOLOv2目标检测模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YOLOv2的分类网络是Darknet-19网络模型，由19个卷积层和5个池化层组成，大多使用 $3 { \\times } 3$ 的滤波器，每个池化操作后使通道数加倍，使用全局平均池化做预测[14]，使用$1 \\times 1$ 滤波器来压缩卷积之间的特征表示[15]。使用批归一化来稳定训练，加速收敛，并正则化模型[16]。YOLOv2 的检测网络使用了Anchor预测框的卷积层，并且使用 $\\mathbf { k }$ -means聚类算法优化了先验预测框的选取，去掉了全连接层，使得YOLOv2能够准确快速的检测物体。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YOLOv2采用多任务损失来最小化目标函数，目标函数定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\lambda _ { c o n d } \\displaystyle \\sum _ { i = 0 } ^ { g ^ { 2 } } \\sum _ { j = 0 } ^ { B } \\log [ ( x _ { i } - \\hat { x } _ { i } ) ^ { 2 } + ( y _ { i } - \\hat { y } _ { i } ) ^ { 2 } ] } \\\\ & { + \\lambda _ { c o n d } \\displaystyle \\sum _ { i = 0 } ^ { g ^ { 2 } } \\sum _ { j = 0 } ^ { B } \\mathbf { 1 } _ { i j } ^ { a b } \\left[ ( \\sqrt { w _ { i } } - \\sqrt { \\hat { w } _ { i } } ) ^ { 2 } + ( \\sqrt { h _ { i } } - \\sqrt { \\hat { h } _ { i } } ) ^ { 2 } \\right] } \\\\ & { + \\displaystyle \\sum _ { i = 0 } ^ { g ^ { 2 } } \\sum _ { j = 0 } ^ { B } \\mathbf { 1 } _ { i j } ^ { a b } ( \\mathbf { C } _ { i } - \\hat { C } _ { i } ) ^ { 2 } + \\lambda _ { n o n \\hat { b } } \\displaystyle \\sum _ { i = 0 } ^ { g ^ { 2 } } \\sum _ { j = 0 } ^ { B } \\mathbf { 1 } _ { i j } ^ { a b j } ( \\mathbf { C } _ { i } - \\hat { C } _ { i } ) ^ { 2 } } \\\\ & { + \\displaystyle \\sum _ { i = 0 } ^ { g ^ { 2 } } \\mathbf { 1 } _ { i } ^ { a b } \\displaystyle \\sum _ { c \\in a \\delta \\times \\delta } \\ ( p _ { i } ( c ) - \\hat { p } _ { i } ( c ) ) ^ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：i为单元网格的索引， $B$ 表示一个网格单元预测的边界框数目，此处 $B { = } 5$ ， $j$ 为网格单元预测的边界框索引。 $1 _ { i } ^ { o b j }$ 表示目标是否出现在网格单元 $i$ 中， $1 _ { i j } ^ { o b j }$ 表示网格单元i中的第 $j$ 个边界框预测器负责该网格单元的目标预测， $1 _ { i j } ^ { n o o b j }$ 表示网格单元i中的第 $j$ 个边界框预测器不负责该网格单元的目标预测。 $( x , y )$ 为中心点的归一化偏移坐标， $w , h$ 分别为边界框归一化的宽度和高度，(x,）为图片中物体真实边界框的中心点， $\\hat { w } , \\hat { h }$ 为物体真实边界框归一化的宽度和高度， $c$ 为预测的单元格的置信率， $\\hat { c }$ 为真实的单元格的置信率， $p$ 为预测的物体置信率， $\\hat { p }$ 为真实的物体置信率。classes为待检测物体的类别数目， $\\lambda _ { c o o r d } = 5$ ， $\\lambda _ { n o o b j } = 0 . 5$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进的 $\\mathsf { Y O L O v 2 }$ 目标检测模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YOLOv2物体检测算法输出待测物体边界框的中心点在图像的位置 $( b _ { x } , b _ { y } )$ 、边界框的宽 $t _ { \\scriptscriptstyle { w } }$ 与高 $t _ { h }$ 、置信率 $\\boldsymbol { p }$ 。在自制数据集中，需要对每张图片中的 $m$ 个进行标注，标注内容包括各类物体的类别Class_i、各类物体的边界框的长 $t _ { w \\_ i }$ 和宽 $t _ { h \\_ i }$ 及边界框的中心点坐标 $( b _ { x _ { - } i } , b _ { y _ { - } i } )$ ， $i = 1 \\cdots m$ ，边界框内仅包含物体。在复杂环境下检测物体，物体与物体之间距离太近时，边界框有重合部分。重合率过高时，采用深度信息计算物体到摄像机的距离会产生较大的误差。为了解决此问题，提出了一种改进的YOLOv2 检测模型，将原 YOLOv2 输出的边界框的宽与高分别缩小 $k _ { w } , ~ k _ { h }$ 倍， $k _ { w } , ~ k _ { h }$ 计算方法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)标注训练集中多张图片 $N$ 个物体的边界框$t _ { { \\scriptscriptstyle { w \\_ t r a i n \\_ i } } , t _ { h \\_ t r a i n \\_ i } } \\ i = 1 \\cdots N$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)使用原YOLOv2方法检测训练集 $N$ 物体的边界框的$t _ { w \\_ i } , t _ { h \\_ i } \\ i = 1 \\cdots N$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)使用以下公式计算每个物体的边界框对应的$k _ { w _ { - } i } , k _ { h _ { - } i } \\ i = 1 \\cdots N$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { k _ { w \\_ i } = t _ { w \\_ i } / t _ { w \\_ t r a i n \\_ i } } \\\\ { k _ { h \\_ i } = t _ { h \\_ i } / t _ { h \\_ t r a i n \\_ i } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)计算 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { \\displaystyle { { k _ { w } } = \\sum _ { 1 } ^ { N } k _ { w _ { - } i } \\Bigg / N } } \\\\ { \\displaystyle { { k _ { h } } = \\sum _ { 1 } ^ { N } k _ { h _ { - } i } \\Bigg / N } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进的YOLOv2模型如图2所示。使用改进的YOLOv2方法大幅度减小了物体间边界框的重合率。改进后的模型更加适用于复杂多目标下的目标检测。改进后的效果示意图如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "行 416 3Y Route 208 bx by Co 多 2 k Conv.Layer 26 Conv.Layer Conv.Layer 26 r51 Con7.Layer 70 3x3x32 3x3x64 3x3x128 3x3x256 3x3x512 3x3x1024 3x3x1024 MaxpoolLayer MaxpoolLayer Conv.Layer Conv.Layer Conv.Layer Conv.Layer Conv.Layer 2x2 2x2 1x1x64 1x1x128 1x1x256 1x1x512 1x1x70 Conv.Layer Conv.Layer Conv.Layer Conv.Layer 3x3x128 3x3x256 3x3x512 3x3x1024 MaxpoolLayer Maxpool Layer Conv.Layer Conv.Layer 2x2 2x2 1x1x256 1x1x512 Conv.Layer Conv.Layer 3x3x512 3x3x1024 Maxpool Layer Conv.Layer 2x2 3x3x1024 Conv.Layer 3x3x1024 Maxpool Layer 2x2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f32b50fc1d0bfe75a4bcc93a3ae90742b96377e80c6329bda65fc8329af25a0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 物体距离和物体大小、姿态估计 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1基于 K-means $^ { + + }$ 的物体距离计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经典的K-means聚类算法具有聚类效果不佳和收敛速度慢等问题，难以保证机械臂抓取物体的实时性。本文选用K-means $^ { + + }$ 聚类算法[18]。它采用初始中心点彼此尽可能远离的策略来解决上述问题，将 $n$ 个样本点聚类为 $k$ 类算法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初始化一个空的集合 $\\textbf { \\em M }$ ，用于存储选定的中心点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)从输入样本中随机选定第一个中心点 $\\mu ^ { ( j ) } , j \\in \\left\\{ 1 , \\cdots k \\right\\}$ ，并将其加入到集合 $\\textbf { \\em M }$ 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)对于集合 $\\textbf { \\em M }$ 之外的任一样本点 $x ^ { ( i ) } , i \\in \\{ 1 , \\cdots n \\}$ ，通过计算找到与其平方距离最小的样本 $d ( x ^ { ( i ) } , M ) ^ { 2 }$ 其中：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( x ^ { ( i ) } , M ) ^ { 2 } = ( x ^ { ( i ) } - M ) ^ { 2 } = \\left\\| x ^ { ( i ) } - M \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)计算每个样本点成为下一个聚类中心的概率：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i } = \\frac { d ( x ^ { ( i ) } , \\pmb { M } ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } d ( x ^ { ( i ) } , \\pmb { M } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照轮盘法选择出下一个聚类中心点 $u ^ { ( p ) }$ ，并将其加入到集合 $\\textbf { \\em M }$ 中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)重复步骤 $\\mathbf { b } ) \\mathbf { c }$ ，直到选定 $k$ 个中心点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)将每个样本点划分到距离它最近的中心点 $u ^ { ( j ) }$ 所代表的簇中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)将各簇中所有样本点的中心代替原来的中心点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)重复步骤e)f)使得簇内误差平方和 $S S E$ 最小，直到中心点不变或者达到预期迭代次数时，算法中止。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS S E = \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { k } w ^ { ( i , j ) } \\left\\| x ^ { ( i ) } - \\mu ^ { ( j ) } \\right\\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果样本 $x ^ { ( i ) }$ 属于簇 $j$ ，则 $w ^ { ( i , j ) } = 1$ ，否则 $w ^ { ( i , j ) } = 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文首先利用改进的YOLOv2得到目标物体的边界框，根据边界框内每个像素对应的深度值，基于上述K-means $^ { + + }$ 步骤，将深度值快速聚类为三类，再将三个聚类中心值按照升序排列，选择排序第2的聚类中心值作为物体到摄像机的距离。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2物体的大小、姿态估计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1物体大小估计 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据改进YOLOv2检测的目标物体边界框的长宽$b _ { o b j e c t _ { - } w }$ 、 $b _ { o b j e c t _ { - } h }$ ，取其中的较小值作为目标物体在图像。坐标系中的宽度值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { i \\_ o b j e c t } = \\left\\{ { b } _ { o b j e c t \\_ w } , \\atop { b _ { o b j e c t \\_ h } , \\ b _ { o b j e c t \\_ h } }  < b _ { o b j e c t \\_ h } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "物体大小估计模型如图4所示，根据相似三角形性质可以列出如下等式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { W _ { i \\_ o b j e c t } } { f } = \\frac { W _ { r \\_ o b j e c t } } { d _ { o b j e c t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据等式可以计算出目标物体真实的宽度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { r _ { - } o b j e c t } = \\frac { W _ { i _ { - } o b j e c t } f } { d _ { o b j e c t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $f$ 为摄像机的焦距。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e7e41c1c002f6a35d6d29b4919ef70f1377cb8c04fdd530ece00008195d9cc6.jpg",
+        "img_caption": [
+            "图3改进YOLOv2模型检测效果示意图 Fig.3Improved yolov2 model detection effect ",
+            "图4物体大小估计模型 Fig.4Object size estimation model "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2物体姿态估计 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于机械臂有三种抓取姿态，本文将目标物体的姿态也对应分为三种。根据改进YOLOv2检测的目标物体的边界框的长和宽分别为 $b _ { o b j e c t \\_ w }$ 和 $b _ { o b j e c t \\_ h }$ ，计算物体的长宽比 $r _ { o b j e c t }$ 来估计目标物体的姿态。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { o b j e c t } = b _ { o b j e c t \\_ h } / b _ { o b j e c t \\_ w }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 $r _ { o b j e c t }$ 分为三段，进而估计出目标物体的姿态：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\mathbf { \\Sigma } } & { { } } & { r _ { o b j e c t } \\leq r _ { 1 } } \\\\ { \\mathbf { \\Sigma } } & { { } } & { r _ { 1 } < r _ { o b j e c t } \\leq r _ { 2 } } \\\\ { \\mathbf { C } } & { { } } & { r _ { o b j e c t } > r _ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $r _ { 1 } , \\ r _ { 2 }$ 为分段系数，根据实验经验可得。三种抓取姿态如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/da79bf21d9edbc71ab85638d549604ce7f27157487515c87ca74e4654a387c04.jpg",
+        "img_caption": [
+            "图5物体的三种姿态及对应的机械手抓取状态",
+            "Fig.5Three poses of the object and the corresponding grabbing state "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 无标定闭环抓取控制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了实现快速无标定的视觉物体抓取，本文提出采用PID控制方法实现无标定闭环抓取，主要包括以下三步：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）通过改进的YOLOv2 算法检测目标物体的边界框$b _ { o b j e c t _ { - } x }$ 、 $b _ { o b j e c t _ { - } y }$ 、 $b _ { o b j e c t _ { - } w }$ 、 $b _ { o b j e c t \\_ h }$ 及目标物体的类别 $C l a s s _ { o b j e c t }$ 。使用K-means $^ { + + }$ 聚类算法计算出目标物体到摄像机的距离d object",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b）根据长宽比 $r _ { o b j e c t }$ 判断目标物体的姿态，根据姿态调整机械手的抓取姿态。实时检测机械手的边界框 $b _ { r o b o t i q \\_ x }$ 、$b _ { r o b o t i q \\_ y }$ 、 $b _ { r o b o t i q \\_ w }$ 、 $b _ { r o b o t i q \\_ h }$ ，通过K-means $^ { + + }$ 聚类算法计算出机械手到摄像机的距离 $d _ { r o b o t i q }$ ，使用PID控制算法控制机械臂移动，不断靠近目标物体，直到误差小于给定阈值。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle { \\big | b _ { o b j e c t \\_ x } - b _ { r o b o t i q \\_ x } \\big | \\leq T h r e s h _ { i m a g e } } } \\\\ { \\displaystyle { \\big | d _ { o b j e c t } - d _ { r o b o t i q } \\big | \\leq T h r e s h _ { d i s t a n c e } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中: $T h r e s h _ { i m a g e }$ 为图像坐标系下目标物体和机械手的中心点的误差阈值， $T h r e s h _ { d i s \\tan c e }$ 为摄像机坐标系下目标物体和机械手的距离差阈值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c）控制机械臂垂直向下移动到距离桌面1cm 处，根据估计的物体宽度 $W _ { r \\_ o b j e c t }$ 控制机械手闭合，抓取物体并移动到存放物体位置，打开机械手，完成抓取。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了使机械臂末端到达目标点的运动时间最短，本文设置机械臂的运动速度为机械臂能够承受的最大速度，并且设置机械臂的运动路径为直线路径，即机械臂末端以最大速度沿直线从当前点运动到目标点。此方法减少了机械臂末端到达目标点所需时间，提高了机械臂无标定闭环抓取的效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用PID控制算法控制机械臂移动，计算期望机械手位置与当前机械手位置差值，利用差值使用PID控制算法控制机械手靠近目标物体，再次计算期望机械手位置与反馈回来的当前机械手位置差值，使用PID控制算法控制机械手移动，直到机械手运动到目标物体正上方位置。机械手位置图如图6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2eccc6fc67237caee2c3ee70249167242ed6068ebcf5b73779e3bfb5e4338399.jpg",
+        "img_caption": [
+            "图6机械手位置图",
+            "Fig.6Location of gripper "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "机械手在机械臂坐标系需要移动距离的数学表达式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { d _ { x } = ( d _ { o b j e c t } - d _ { r o b o t i q } ) p _ { x } } \\\\ { d _ { y } = ( b _ { o b j e c t \\_ x } - b _ { r o b o t i q \\_ x } ) p _ { y } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中: $d _ { x }$ 表示机械手在机械臂坐标系 $X _ { R }$ 方向上需要移动的距离， $\\boldsymbol { d } _ { y }$ 表示机械手在机械臂坐标系 $Y _ { _ R }$ 方向上需要移动的距离。 $p _ { x } , p _ { y }$ 为PID 控制算法系数， $p _ { x }$ 和目标物体距离摄像机的距离成正比，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { x } = d _ { o b j e c t } p _ { \\ x } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$p _ { \\mathrm { ~ } , \\mathrm { ~ } } ^ { \\prime }$ 和 $p _ { y }$ 根据实验经验可得。机械手的目标位置表达式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { x _ { n e x t } = x _ { n o w } + d _ { x } } \\\\ { y _ { n e x t } = y _ { n o w } + d _ { y } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中: $x _ { n e x t }$ 为机械手下一时刻的在机械臂坐标系 $X _ { R }$ 方向上的位置， $y _ { n e x t }$ 为机械手下一时刻的在机械臂坐标系 $Y _ { _ R }$ 方向上的位置， $x _ { n o w }$ 为机械手当前时刻在机械臂坐标系 $X _ { R }$ 方向上的位置， $y _ { n o w }$ 为机械手当前时刻在机械臂坐标系 $Y _ { _ R }$ 方向上的位置。为了防止机械手触碰到目标物体，改变了目标物体位置，所以在机械手到达目标物体的正上方之前，不改变机械手在 $Z _ { \\scriptscriptstyle R }$ 方向上的位置。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "机械臂抓取仿真实验环境为Ubuntu16.04系统，摄像机的图像采集环境为ROSKinetic，改进YOLOv2物体检测算法、K-means $^ { + + }$ 聚类算法与PID控制算法的编程环境都是在标准Python环境IDLE集成开发环境中进行实验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验按照PASCALVOC数据集格式自建数据集，用于训练目标检测模型。数据集图片采集使用Kinect2.0，仅使用摄像机采集的彩色图像。在目标类别检测阶段，使用的数据集包括九类物体，共9000张图片，其中九个类别分别为“battery”“cream”“jar”“chutty”“lotions”“bag”“box”“sols”“robotiq\"。用于模型训练的图片每类随机各选取800张，每类剩余200张用于模型测试。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1仿真实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.1目标检测实验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在对改进的YOLOv2目标检测网络进行训练时，使用显卡GTX1080对训练过程进行加速。改进的YOLOv2模型所依赖的深度学习框架为Darknet，模型训练所需的参数设置如下：基础学习率为0.001；最大迭代次数(max_batches)为45000；学习率的衰减策略(policy)为“steps”，步长为“100,25000，35000\"，相对于当前学习率的变化比率(scales)为“10，0.1， $0 . 1 ^ { \\prime \\prime }$ ；每次迭代输入的图片数量(batch)为“ $6 4 ^ { \\prime \\prime }$ ，图片的子集数目subdivision为“8\"；动量(momentum)为“O.9\"；权重衰减率(decay)为 $^ { \\mathrm { * } } 0 . 0 0 0 5 ^ { \\prime \\prime }$ ；训练结果如图7所示。图7中，(a)中的损失曲线显示该模型的损失函数最终稳定趋于0，(b)的区域平均IOU曲线显示平均IOU稳定在0.7\\~0.85。从这两幅曲线图可以看出，整个模型的检测效果较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "改进YOLOv2目标检测算法的检测速度约为0.014592s/张。目标检测实验结果如图8所示。目标检测实验准确率如表1所示。检测结果显示：在多物体共存环境下，未改进的YOLOv2检测得到的物体的边界框重合部分很大，改进后YOLOv2检测得到的边界框重合部分极小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1.2目标物体到摄像机距离计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图9为使用K-means $^ { + + }$ 聚类算法对“sols”目标物体边界框对应的深度值进行聚类的结果图，第一类中心值为$5 9 5 \\mathrm { m m }$ ，第二类中心值为 $6 0 3 \\mathrm { m m }$ ，第三类中心值为 $6 I 2 ~ \\mathrm { m m }$ ，选择第二类中心值 $6 0 3 ~ \\mathrm { { m m } }$ 作为目标物体“sols”到摄像机的距离。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在多物体环境下，首先根据改进的YOLOv2检测识别出的图像中目标物体的类别、置信率、和边界框的中心坐标、边界框的长和宽。将预测的物体去除机械手，按照置信率大小降序排列，选取置信率最高的物体作为目标物体，根据目标物体的边界框信息，利用K-means $^ { + + }$ 聚类算法计算该物体到摄像机的距离，并将此距离和物体边界框信息保存下来。因为在抓取的过程中机械臂和机械手运动可能会遮挡住目标物体，所以在最开始需要将目标物体的边界框信息和距离信息保存下来，避免由遮挡引起的边界框误差和距离误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d10fce558f8c6022efccc9b833569a30ecbb4d600e6c9f2b181a1309f41c847.jpg",
+        "img_caption": [
+            "图7YOLOv2训练过程损失值变化和区域平均IOU值变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e36769b9f0bc172b64e6d5b37382d0aec47f75e16ac0f880c960f5febdd765ad.jpg",
+        "img_caption": [
+            "Fig.7YOLOv2 training process loss value curve and regional average IOU value curve ",
+            "图8物体检测结果",
+            "Fig.8Object detection result "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce250547f9e2ed439dfbfc67005fc13ab9b67af658185199514720c3500b4ece.jpg",
+        "table_caption": [
+            "表1改进YOLOv2 物体检测的准确率",
+            "Table 1Accuracy based on improved YOLO2 detection algorithm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别</td><td>battery cream jar chutty lotions bagboxsolsrobotiq</td><td></td><td></td><td></td><td></td></tr><tr><td>准确率 (%)</td><td>81.9</td><td>80.287.5 94.095.1 95.7 96.1 95.54</td><td></td><td></td><td>93.86</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证改进YOLOv2能够有效提高目标物体到摄像机距离的计算精度，本文使用两类物体做了七组对比实验，物体摆放位置如图8（a）所示，“cream”在“lotions”后方距离恒定为 $4 0 \\mathrm { m m }$ ，放置\"lotions\"到摄像机的距离为： $4 5 0 \\mathrm { m m }$ ，$5 0 0 \\mathrm { m m }$ ， $5 5 0 \\mathrm { m m }$ ， $6 0 0 \\mathrm { m m }$ ， $6 5 0 \\mathrm { m m }$ ， $7 0 0 \\mathrm { m m }$ ， $7 5 0 \\mathrm { m m }$ 。每组实验的距离计算了五次，取五次的平均值作为最终的距离。实验结果如表2所示。根据表2计算得到，使用改进的YOLOv2输出的边界框计算的距离平均相对误差为 $0 . 3 8 \\%$ .平均距离绝对误差为 $2 . 3 2 5 7 \\mathrm { m m }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2机械臂抓取实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验不需要对摄像机和机械臂的相对位置进行繁杂的标定，不需要计算目标物体在机械臂坐标系下准确的3维位置信息，只需要确定摄像机坐标系和机械臂坐标系的关系，通过计算机械手和目标物体在图像中的位置、计算机械手和目标物体到摄像机的距离便可以完成抓取。并且摄像机在工作台上前后、左右移动适当的距离不影响抓取，也不需要调整任何参数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验环境模拟实际工业生产环境，实验台周围布置了很多的干扰物体，这些干扰物体颜色、形状、大小各异，用来测试本文提出方法在实际工业生产环境中进行物体分类抓取的鲁棒性。抓取实验采用6自由度人机协作型工业机械臂UR3，机械臂实物图如图10所示，机械手采用ROBOTIQ二指夹手。安装在机械臂末端上。该机械臂可在半径 $6 0 0 \\mathrm { m m }$ 的可到达范围内任意移动。摄像机的测距范围为 $0 . 4 \\sim 3 \\mathrm { ~ m ~ }$ ，相机和目标物体的距离必须超过 $0 . 4 \\mathrm { m }$ ，使得相机能够“看”到工作台的全部即可。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/317a55b8f7f08968888ec946f09ff139bdf434386eed2582fc41ca66000044c3.jpg",
+        "img_caption": [
+            "sols深度值聚类结果",
+            "图9“sols”目标物体深度信息的聚类结果",
+            "Fig.9Clustering result of depth information of \"sols\" target object "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9e093fffed2cc74c3d2025bcf44c7a0954a1df2561db2ccffd45a22549e3bf7.jpg",
+        "table_caption": [
+            "表2距离计算的对比实验结果",
+            "Table 2Comparison of experimental results of distance calculatior "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">组别</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td rowspan=\"2\">真实距离值/mm</td><td>cream</td><td>490</td><td>540</td><td>590</td><td>640</td><td>690</td><td>740</td><td>790</td></tr><tr><td>lotions</td><td>450</td><td>500</td><td>550</td><td>600</td><td>650</td><td>700</td><td>750</td></tr><tr><td rowspan=\"2\">YOLOv2得到的距离/mm</td><td>cream</td><td>490.57</td><td>510.45</td><td>557.19</td><td>612.67</td><td>657.06</td><td>739.59</td><td>755.90</td></tr><tr><td>lotions</td><td>490.46</td><td>493.92</td><td>547.13</td><td>602.90</td><td>648.10</td><td>705.28</td><td>755.16</td></tr><tr><td rowspan=\"2\">改进 YOLOv2得到的距离/mm</td><td>cream</td><td>490.46</td><td>539.78</td><td>591.28</td><td>643.14</td><td>688.34</td><td>749.90</td><td>792.62</td></tr><tr><td>lotions</td><td>456.68</td><td>502.02</td><td>548.71</td><td>600.37</td><td>651.70</td><td>699.76</td><td>749.00</td></tr><tr><td>YOLOv2得到的距离绝对误差/mm</td><td>cream</td><td>0.57</td><td>29.54</td><td>32.81</td><td>27.33</td><td>32.94</td><td>0.41</td><td>34.10</td></tr><tr><td rowspan=\"2\">改进YOLOv2 得到的距离绝对误差/mm</td><td>lotions</td><td>40.46</td><td>6.08</td><td>2.87</td><td>2.90</td><td>1.90</td><td>5.28</td><td>5.16</td></tr><tr><td>cream</td><td>0.46</td><td>0.22</td><td>1.28</td><td>3.14</td><td>1.66</td><td>9.90</td><td>2.62</td></tr><tr><td rowspan=\"2\">YOLOv2得到的距离相对误差/%</td><td>lotions</td><td>6.68</td><td>2.02</td><td>1.29</td><td>0.37</td><td>1.70</td><td>0.24</td><td>1.00</td></tr><tr><td>cream</td><td>0.12</td><td>5.47</td><td>5.56</td><td>4.27</td><td>4.77</td><td>0.06</td><td>4.32</td></tr><tr><td rowspan=\"2\">改进 YOLOv2 得到的距离相对误差/%</td><td>lotions</td><td>8.99</td><td>1.21</td><td>0.52</td><td>0.48</td><td>0.29</td><td>0.75</td><td>0.69</td></tr><tr><td>cream</td><td>0.09</td><td>0.04</td><td>0.22</td><td>0.49</td><td>0.26</td><td>1.33</td><td>0.33</td></tr><tr><td></td><td>lotions</td><td>1.48</td><td>0.40</td><td>0.23</td><td>0.06</td><td>0.26</td><td>0.03</td><td>0.13</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验前，根据摄像机放置的位置，图像坐标系的 $u$ 坐标轴的方向与机械臂坐标系 $Y _ { R }$ 坐标轴方向，摄像机坐标系 $Z _ { c }$ 坐标轴的方向与机械臂坐标系 $X _ { R }$ 坐标轴方向的对应的关系已确定，即当机械手和目标物体的边界框的中心点在图像坐标系的 $u$ 轴方向上的距离满足以下条件时：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| b _ { o b j e c t \\_ x } - b _ { r o b o t i q \\_ x } \\right| > T h r e s h _ { i m a g e }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "控制机械臂在机械臂坐标系下的 $Y _ { _ R }$ 坐标轴方向上朝着",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "靠近目标物体的方向运动;当机械手和目标物体在摄像坐标系下 $Z _ { c }$ 坐标轴方向上的距离满足以下条件时：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| d _ { o b j e c t } - d _ { r o b o t i q } \\right| > T h r e s h _ { d i s \\tan c e }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "控制机械臂在机械臂坐标系下的 $X _ { R }$ 轴方向上朝着靠近目标物体的方向运动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抓取步骤如第4章a）\\~c）所述，UR3机械臂抓取实验结果如图10所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/78f0346a5bfaa1541cee04f8e6970ea955e960f69bfc73418ef8ced5fe56c7bb.jpg",
+        "img_caption": [
+            "图10UR3机械臂抓取实验结果",
+            "Fig.10Grasping experiment results of UR5 robot "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文采用改进的YOLOv2实现了在杂乱环境下对不同种类、不同尺寸的物体分类和定位，利用K-means $^ { + + }$ 聚类算法获得目标物体到摄像机距离，并提高了目标物体大小、姿态和目标物体到机械手距离的估计精度，最后使用无标定的PID 控制方法实现抓取，避免了繁杂的标定。在多目标、环境杂乱、目标物体位姿、大小不固定、摄像机和机械臂相对位置不固定的抓取环境下，实验验证了改进的YOLOv2检测方法能够对目标物体实现较为准确分类和定位。未来的研究方向是优化本文方法，包括使用的数据集标注框优化、机械臂路径优化等，提高检测物体的稳定性，增加数据集物体种类，提高抓取速度，将该技术推广应用到实际生产中。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 杜学丹，蔡莹皓，鲁涛，等．一种基于深度学习的机械臂抓取方法 [J]．机器人,2017,39(6):820-828.(Du Xuedan,Cai,Yinghao Lu Tao. A robotic grasping method based on deep learning [J].Robot,2017,39 (6):820-828.)   \n[2]Hosoda K,Asada M.Versatile visual servoing without knowledge of true jacobian [C]//Proc of IEEE/RSJ/GI International Conference on. Intelligent Robots and Systems.Berlin: Springer,1994:186-193.   \n[3]Su Jianbo,Zhang Yanjun,Luo Zhiwei.Online estimation of image Jacobian matrix for uncalibrated dynamic hand-eye coordination [J]. International Journal of Systems,Control and Communications,2008,1 (1): 31-52.   \n[4]Horaud R,Dornaika F,Espiau B. Visually guided object grasping [J]. IEEE Trans on Robotics and Automation,1998,14(4):525-532.   \n[5]Krizhevsky A,Sutskever I,Hinton G E. Imagenet classification with deepconvolutional neural networks[C]//AdvancesinNeural Information Processing Systems.2012:1097-1105.   \n[6]Johns E,Leutenegger S,Davison AJ.Deep learning a grasp function for grasping under gripper pose uncertainty [C]//Procof IEEE/RSJ International Conference on Intelligent Robots and Systems.2016: 4461-4468.   \n[7]Zeng A,Yu Kuanting,Song Shuran,et al.Multi-view self-supervised deep learning for 6d pose estimation in the amazon picking challenge [C]//IEEE International Conference on Robotics and Automation. Piscataway,NJ:IEEE Press,2017:1386-1383.   \n[8]Levine S,PastorP,Krizhevsky A,et al.Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection [J].International Journal of Robotics Research,2018,37(4-5): 421-436.   \n[9]Girshick R,Donahue J,Darrell T,et al.Rich feature hierarchies for accurate object detection and semantic segmentation [C]// Proc of IEEE Conference On Computer Vision and Pattern Recognition. Washington DC: IEEE Computer Society,2014: 580-587.   \n[10] UijlingsJRR,De Van Sande KEA,Gevers T,et al.Selective search for object recognition [J].International journal of computer vision, 2013,104 (2): 154-171.   \n[11] He Kaiming,Zhang Xiangyu,Ren Shaoqing，et al.Deep residual learning for image recognition [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition．Washington DC:IEEE Computer Society,2016:770-778.   \n[12] Redmon J,Divvala S,Girshick R,et al. You only look once:Unified, real-time object detection[C]//Proc ofIEEE Conference on Computer Vision and Pattern Recognition.Washington DC::IEEE Computer Society,2016: 779-788.   \n[13] Redmon J,Farhadi A.YOLO90oO: Better,Faster, Stronger [C]/Proc of IEEE Conference on Computer Vision and Pattrn Recognition. Washington DC: IEEE Computer Society,2017: 6517-6525.   \n[14] Simonyan K,Zisserman A．Very deep convolutional networks for large-scale image recognition [EB/OL].(2015-04-10). https://arxiv.org/abs/1409.1556.   \n[15]Lin Min,Chen Qiang,Yan Shuicheng.Network in network [EB/OL]. (2013-12-16)[2018-10-22].https://arxiv.org/abs/1312.4400   \n[16]Ioffe S,Szegedy C.Batch Normalization:Accelerating Deep Network Training by Reducing Internal Covariate Shift [C]/Proc of International Conference on Machine Learning.[S.1.] :CRC Press,2015.   \n[17]Darknet:open source neural networks in C[EB/OL]. [2O18-05-05]. https://pjreddie.com/darknet/.   \n[18] Arthur D,Vassilvitskii S.K-means+: the advantages of careful seeding [C]// Proc of the 18th Annual ACM-SIAM Symposium on Discrete Algorithms.Philadelphia,PA:Society for Industrial and Applied Mathematics,2007:1027-1035. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

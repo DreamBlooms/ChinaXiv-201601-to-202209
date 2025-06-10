@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "失败恐惧的形成及对创业行为的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝喜玲1刘依冉²杜晶晶1郑方（'安徽财经大学工商管理学院，233030，蚌埠）(天津大学教育学院，300350，天津)(天津财经大学商学院，天津300222)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要创业活动的高风险性和不确定性导致创业者时常体验失败恐惧。对于创业者而言，失败恐惧亦敌亦友。已有研究较多关注失败恐惧对创业行为的抑制作用，忽略了失败恐惧的形成及其对创业行为的激励作用。本研究基于情绪和认知属性分析创业情境下失败恐惧，认为损失相关和暴露能力不足的创业事件可能诱发失败恐惧，创业者的执念激情和预防定向能够诱发失败恐惧；然后，阐述失败恐惧对创业行为的3种不同影响：激励、抑制和压抑，并考察创业环境特征对失败恐惧与创业行为的调节效用。本研究拓展了失败恐惧的应用范围和适用情境，丰富心理学的情绪认知评价理论、情感事件理论和经典压力理论，也为理解复杂多样的创业行为提供新视角，深化创业心理与创业行为关系的理论认知。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词失败恐惧，创业认知，创业行为，创业事件，情绪认知评价理论",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "恐惧在人类进化基因中留下深刻印记，以便及时处理危险进而适应环境。失败恐惧是我们“趋利避害”动机下的产物。创业过程中最大恐惧便来源于对潜在失败后果的担忧，几乎每个创业者都有恐惧失败的感受和体验。在 2019 年的全球创业观察（Global entrepreneurship monitor,GEM）报告中，我国18到64周岁的人群中识别到机会，但因为害怕失败而不敢进行创业的比率高达 $4 1 . 7 \\%$ 。由此可见，失败恐惧在准备创业和已经开启创业旅程的不同阶段都具有普遍性和常见性。对于创业者而言，失败恐惧是创业过程中重要组成部分，亦敌亦友（Caccioti&Hayton,2015;Cacciotti&Hayton,2020），既可能通过“退出创业、减少投入”等方式抑制创业行为，也可能由于害怕失败而提升警觉、加大努力积极应对创业危机。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "失败恐惧是理解创业者在成就情境中如何定义和体验失败，失败怎样影响情绪、认知和行为的重要切入点（Stroeetal.,2020）。一方面，失败恐惧揭示个体复杂行为背后的心理活动，不仅可以解释创业进入和创业退出，也为理解复杂多变的创业行为提供一个新的研究视角。但失败恐惧内涵的模糊性限制了其理论发展（Cacciotti& Hayton，2015;Cacciotti& Hayton,2020）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鉴于失败恐惧的消极作用，已有研究较多分析如何抑制失败恐惧，而对其形成过程及其诱发因素研究比较匮乏。但创业情境下失败恐惧的普遍性和常见性，意味着其诱发机制研究对于深刻理解并有效管理失败恐惧更有价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另一方面，既有实证研究主要关注失败恐惧对创业行为的阻碍和抑制作用，也有学者从创业案例访谈中提炼出失败恐惧对创业行为的激励效应，但并没有分析作用机理（Mitchell&Shepherd,2011；郝喜玲等,2020）。失败恐惧是抑制还是激励创业行为，这种差异性与失败恐惧动态性以及不同作用方式有关。既有研究较多分析创业进入前和创业初期失败恐惧的作用。随着创业进程的变化，创业者遭遇到创业事件和外部情境变化，失败恐惧最初可能会抑制创业行为，但在随后阶段可能会激发创业者付出更多努力（Cacciottietal.,2016；郝喜玲等,2020；陈江涛等,2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究基于已有研究不足重点关注以下3个问题： (1)哪些因素能够诱发创业者产生失败恐惧？(2)失败恐惧如何影响创业行为?(3)失败恐惧影响创业行为的边界条件有哪些？为回答上述问题，本研究将失败恐惧界定作为研究问题的入口，基于情绪认知评价理论、情感事件理论和经典压力理论，以创业者与创业事件作为思考失败恐惧诱发因素的起点，建立创业情境、创业认知、失败恐惧与创业行为之间的逻辑联系，相对完整地揭示失败恐惧形成及其对创业行为影响机理，解读失败恐惧对创业行为影响的边界条件，深化理论界和实践界对这一复杂现象的认知。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2国内外研究现状及评述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 失败恐惧的内涵 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有研究多从成就动机理论、情感事件理论和情绪认知评价理论出发分析失败恐惧的本质。成就动机理论将失败恐惧视为个体具有的回避性动机，将失败恐惧来源和核心归为“避免失败”或者是由失败障碍激活的“回避性动机”（Belanger etal.,2013)。情感事件理论则认为失败恐惧是由外部事件激发“避免失败”的倾向（McClelland,1985)。创业过程中，当威胁个人能力和成就的情感事件出现时，创业者对失败厌恶性后果的信念被激活，并将注意力集中于外部环境中的威胁刺激、失败的潜在后果以及自身的消极状态，进而诱发自身情感反应（Stroe etal.,2020)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "情绪认知评价理论侧重分析情绪如何通过影响个体认知来对信息处理和行为方式产生影响（Conroy,2001;Conroy et al.,2002)。外部信息刺激创业者的认知过程和信息处理方式，当创业者感知到威胁和障碍时，创业者感知外部威胁，认为完成目标任务的能力受到威胁，进而对失败带来的厌恶性后果进行评估，并通过对外部环境威胁程度评估后，产生与失败恐惧相关的消极情绪（Conroy,2001)。情绪认知评价理论将失败威胁情境、认知评估、失败后果、情绪反应联系起来，突出失败恐惧的反应性和情境依赖性，拓展了失败恐惧的研究边界。本研究后续分析将采用情绪认知评价理论视角下的操作化定义，将失败恐惧视为一种心理状态，这种状态基于创业者在不确定和复杂的创业背景下对失败可能性的认知评估（Cacciotti& Hayton,2020)。综上，本研究将失败恐惧界定为创业者通过对特定情境威胁和失败可能性进行评估后产生的一种心理状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2失败恐惧的影响因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然失败恐惧成为一个重要的研究话题，但是大多研究集中在失败恐惧对后续创业活动的影响，而失败恐惧形成过程及其驱动要素的研究比较匮乏。概括起来，失败恐惧影响因素的相关研究主要从创业者个体和外部环境两方面进行分析，个体层面包括性别（Koellnger etal.,2013;Patzelt & Shepherd,2011））、教育水平（Sepulveda&Bonilla,2011）、自我效能感（Tsai et al.,2016）和创业激情（Vallerand etal.,2003;Belanger et al.,2013）等。环境层面影响因素研究主要分为微观环境和宏观环境两方面，微观环境方面的研究包括创业过程中创业者遇到的障碍，宏观环境层面的研究包含“包容失败”制度规范和文化氛围等（Kollmann etal.,2017;Wagner,2007; Chuaet al,2016)。这些研究也回应了学者们从个体与环境互动来界定失败恐惧的内涵。另外，从失败恐惧的负向作用视角思考，大多研究分析创业者特征或外部环境中的哪些要素可以有效抑制失败恐惧的产生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3失败恐惧对创业行为的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "失败恐惧对创业行为的研究结论存在差异性：一方面，不少实证研究发现失败恐惧抑制创业意图，不利于创业进入，阻碍新生创业活动（Arenius& Minniti，2005;Koelinger，Minnit &Schade,2007;Morgan& Sisak,2016；丁桂凤等,2018)，降低对创业机会的评估和利用（Mitchell& Shepherd,2010; Kollmann et al.,2017；张秀娥，张坤,2018; Boudreaux et al.,2019)，不利于创业者追求机会型创业（王博，朱沆,2020)，甚至拖延创业行动进程（Cacciottietal.,2016)，影响失败后再创业选择（Hessels etal.,2011）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另一方面，也有学者采用数据分析发现失败恐惧并不会阻碍创业进入，具有失败恐惧的创业者仍在从事创业活动（何良兴等,2020)，甚至有学者提出失败恐惧会督促创业者寻求新的解决方案（McGrath,2001），将注意力集中于学习（Shepherd etal.,2011)，让创业者进行更多探索式和利用式学习（徐菊，陈德棉,2020)，增加创业参与度，提升创业努力（Cacciotti& Hayton,2016)。导致这一差异的原因可能与失败恐惧构成内容及其动态变化有关，失败恐惧并不是一个静态、孤立的结构，它动态存在于时间和空间中，并贯穿于整个创业过程，影响新生、年轻和成熟创业者的创业行为（Cacciotti&Hayton，2015)。既有失败恐惧对创业行为影响研究多集中于创业进入前行为，如创业意图和创业进入，以及创业初期的机会识别与开发行为，而对创业过程中的其他关键创业行为研究较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 已有研究述评",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本研究认为创业情境下失败恐惧研究还存在着以下不足和亟待解决的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一，失败恐惧的内涵界定。已有研究关于失败恐惧是一种稳定特质还是因为环境威胁而产生的一种情绪状态仍存在争议（Kollmann et al.,2017)。但不论是将失败恐惧视为稳定特质还是暂时状态，都忽略了创业过程的动态性和复杂性，导致失败恐惧构成要素复杂且呈现出动态性和多样性。未来研究需要根据创业情境的独特性，从失败恐惧的认知评估和情绪表现等出发，结合典型案例深度访谈和文献分析等途径，揭示失败恐惧内涵，包括其构成维度和要素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第二，哪些因素会诱发创业者的失败恐惧？已有研究基于失败恐惧的负面效用重点关注抑制失败恐惧的因素，但是失败恐惧的普遍性和双面性意味着其诱发因素研究更加重要。在采用深度访谈和案例研究基础上，辅助实验研究方法，以环境刺激、情感和认知的动态交互为主线解剖失败恐惧，借鉴心理学已有研究成果，分析诱发失败恐惧的因素，根据创业动态性并结合创业者特征挖掘不同情境下失败恐惧的形成规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三，失败恐惧如何影响创业行为研究。鉴于大多数研究者都将失败恐惧视为阻碍创业行为的要素，而创业者的案例访谈和理论分析文章指出失败恐惧对创业行为具有积极作用。未来需要深入分析创业失败恐惧对创业行为的双重效应，以期全面理解创业失败恐惧的作用机制。另外，已有研究大多聚焦于创业进入前或创业早期，失败恐惧对创业行为的影响，对创业过程中作用机制关注不足。未来研究需要辩证的看待创业过程中失败恐惧对创业行为的动态性和差异性影响，为培育高质量创业决策和高效的创业行为提供结构性分析框架。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第四，失败恐惧对创业行为作用的边界条件。失败恐惧对创业行为的作用效果与外部环境有关。在明确创业情境下失败恐惧内涵以及发挥作用逻辑的基础上，从创业者所处的环境出发寻找降低失败恐惧对创业行为的负面效用的调节变量，了解失败恐惧对创业行为正面效用的边界条件。这不仅有助于为制定科学合理创业政策提供支撑与依据，而且能为已有研究提供有益补充。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "情感事件理论（Affective events theory,AET）主要探讨组织个体在工作中经历情感事件、情感反应与其态度及行为关系，该理论认为工作环境特征会导致积极或消极工作事件，对事件的体验引发情感反应，综合个体特质进一步影响员工工作行为与态度（Weiss&Cropanzano,1996;段锦云等,2011)。基于情感事件理论的“事件-情感-行为\"核心逻辑(Weiss&Cropanzano,1996),构建“创业事件\\*创业者-失败恐惧-创业行为”的理论框架（如图1)。具体来说，主要包括如下3 个方面内容：第一，采取客观的创业事件和主观的创业者特征两方面来分析失败恐惧的诱发因素，探讨失败恐惧形成规律；第二，分析失败恐惧对创业行为的3种不同影响；第三，基于外部环境特征分析失败恐惧作用于创业行为的边界条件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究基于情绪认知评价理论将失败恐惧定义为创业者通过对特定情境威胁和失败可能性进行评估后产生的心理状态。根据创业情境的独特性和创业过程的连续性，从失败恐惧的情绪来源和认知评估出发，揭示创业情境下失败恐惧的内涵。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7839200690d7043e79b09d69f1a97d13b2a26e672339a4c936deeeed635b19e6.jpg",
+        "img_caption": [
+            "图1失败恐惧的诱发及其影响的研究框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，失败恐惧表现为一种负性情绪反应。失败恐惧是由创业者对失败带来的潜在后果评估后引发的负性情绪。这种负性情绪的产生既来源于创业者自身，也来源于包括重要他人在内的外部群体。从创业者内部自我方面来说，创业活动是创业者证明自己、实现自我价值的重要途径，失败潜在后果会破坏个体价值感，对能力产生威胁，让创业者感到自责、羞耻和否定自我价值等负面情绪。从外部方面来说，失败在带来实际损失的同时，也会让创业者“丢面子”，破坏他人对其价值和能力的认可（郝喜玲等,2020），而这种压力会给创业者带来负面情绪。其次，失败恐惧也包含创业者对环境威胁的评估方式。失败恐惧作为一种负性情绪反应，这种情感反应基于创业者在不确定和复杂的创业背景下对失败可能性的认知评估。在真实的创业环境中，必要的任务、评估标准和所需的能力是模糊和不确定，且因人而异（Caccioti&Hayton,2020)。创业者对环境威胁的评估，因信息搜集和信息加工方式不同而产生差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1研究模块一：从创业事件与创业者特征来分析失败恐惧形成规律",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "创业本质上具有动态性和过程性（McMullenand Dimov,2013），但已有创业情境下失败恐惧研究忽视了人与环境的关系（Lazarus,1991;Cacciotti etal.,2016）。Lazarus和Folkman（1984）提出的经典压力理论认为压力是个体评价自身资源无法应对威胁时而产生，需要从个体和环境间相互作用来分析压力形成的原因，而且更重要的是压力形成随时间和面临的任务而产生变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有学者提出在创业领域内，个体与环境间的关系是理解失败恐惧产生的基础（Cacciotti et al.,2016）。根据经典压力理论，同时基于失败恐惧的内涵和已有研究不足，我们提出失败恐惧产生需要考虑相关的环境刺激与创业者两方面因素。因此，本部分从创业事件（外部环境刺激）和创业者特征（内部创业者特质）两方面来分析诱发失败恐惧的关键因素，进而挖掘失败恐惧的形成规律。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）创业事件诱发失败恐惧形成的规律",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "创业是一系列复杂事件的集合，这些事件提供多种潜在的触发因素诱发失败恐惧。分析创业事件对失败恐惧的影响，首要考虑哪些可能引起失败恐惧反应的“创业事件”，这就需要检查创业环境特征以找出诱发失败的近因。失败恐惧是一种短暂的状态，随着环境线索的变化而出现或消失，这种观点与创业过程观一致（Lazarus,1991;Weiss＆Cropanzano,1996）。基于已有文献研究，我们主要从带来损失和暴露创业者能力不足的创业事件来分析诱发失败的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "损失相关的创业事件。诱发失败恐惧需要把触发失败的反馈信号激活(Belanger etal.,2013)。失败恐惧是通过由失败相关的线索来激活，而不会通过与失败无关的线索激活，与失败相关的线索包括给企业带来外生性损失的创业障碍，如财务资源的损失、顾客的流失和外部社会关系的破裂等（Kolmann etal.,2017）。损失相关事件激活创业者对潜在失败后果的害怕，开始关注失败相关的反馈信号。失败恐惧的最主要来源是指个人对失去或可能失去生计和财富的担忧，这是失败恐惧的触发点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "暴露能力不足的创业事件。追求机会和创建新企业需要各种不同的能力，但创业者会对自己是否具备创业过程所需要的能力产生担忧和焦虑（Cacciottietal.,2016）。一旦创业事件中的某些因素让创业者暴露出其能力不足或能力缺陷，失败恐惧被激活。这是因为创业被看作是一个典型的成就情境，成功经营一个企业是创业者希望实现的价值性目标。在这个重要的成就情境中，失败可能性代表着个体实现价值性目标的能力受到威胁（Cacciotti&Hayton,2020），甚至还严重威胁到个人的自我定义和自我价值（Ucbasaran etal.，2009）。因此，当暴露个人能力不足的事件发生时，由失败带来的潜在后果线索被激活，创业者产生失败恐惧。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，创业过程中对失败恐惧取决于个人相信或预期的程度，当创业事件表明创业者及其新创企业面临更大的失败风险时，包括可能带来的损失，威胁到个体能力，暴露个体能力弱点，都会激活失败恐惧。由此提出命题1：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "命题1：损失相关和暴露能力不足的创业事件诱发创业者产生失败恐惧。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）创业者特征对失败恐惧形成的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "情绪认知评价理论解释了外部环境如何激发个体的情绪，主要将情绪视为个体对外部环境的一种适应性反应，而这种适应性反应根据个体的特征不同产生差异。个体对同一现象的不同情绪反应受到个体特征影响（Llewellyn&Wilson,2003；单标安等,2019），基于已有研究，我们主要从创业激情和调节定向这两个方面分析创业者特征对失败恐惧的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "创业激情是指个体将他们喜欢且认为重要的活动内化为个体身份认同的一部分，并愿意为此投入时间和精力。不同的创业激情对创业决策、创业心理和创业行为产生差异化的影响（Stroeet al.,2018;Cardon etal.，2017;陈春晓等,2020）。创业激情根据内化方式不同分为和谐激情（Harmonious passion）和执念激情（Obsessive passion），和谐激情是指由于活动本身带来的挑战和快乐，个体自主地将创业活动内化为身份的一部分；执念激情则是指个体出于人际和外部压力（如得到社会认可），将创业活动内化为个体认同，以达到或维持积极的结果（Valerandet al,2003）。具有执念激情的创业者，在面对失败信息时采取僵硬和防御的运作模式，通过对感知到的外界威胁过多解读，触发失败的认知反馈信号，激活失败恐惧。具有和谐激情的创业者拥有自我安全感，能自主控制自己，在面对失败信息时采取灵活、非防御的运作模式，失败反馈信号对创业者影响小（Belanger etal.，2013）。和谐激情会使创业者认可并自愿参与活动，减少对失败相关负面后果的关注，进而抑制失败恐惧的形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "个体在实现自己特定目标的过程中会努力控制自身思想和反应，而这个调节过程中会表现出特定的方式或倾向。调节定向理论将这个调节过程分为两种不同的方式：预防定向(Preventionfocus）和促进定向（Promotion focus）（Crowe&Higgins，1997）。当创业者采用预防定向时，其动力来自保护和免受伤害需求，这些需求促使他们对责任和安全做出反应，在目标追求过程中更多关注事件的消极结果和不利信息，因为这样才能满足安全需求。因此，创业者的预防定向使其更容易由失败相关的信号激活失败恐惧。而当创业者采用促进定向时，受到成长和进步的激励，需要使自己与“理想自我”保持一致，表现为在目标追求过程中更多关注积极结果和有利信息，对失败相关的信号不敏感，进而抑制失败恐惧的形成。由此，提出如下命题：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "命题2a：创业者的和谐激情抑制失败恐惧，执念激情诱发失败恐惧。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "命题2b：创业者的促进定向抑制失败恐惧，预防定向诱发失败恐惧。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2研究模块二：失败恐惧对创业行为的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "个体面临恐惧存在3种行为反应：逃离（Flight）、反抗（Fight）、吓呆（Freeze）（Lazarus,1991）。基于此，本研究认为创业情境下失败恐惧对创业行为存在3种影响：抑制、激励和压抑。“抑制”主要表现为失败恐惧使创业者减少或者停止追求机会行为；“激励”主要表现为失败恐惧督促创业者强化危机意识，积极应对创业威胁；“压抑”主要指创业者通过从事一系列分散注意力的活动来消除、忽略失败恐惧的感受，或将失败恐惧推到潜意识层面。下面将详细介绍失败恐惧如何通过这3种方式对创业行为产生影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "抑制。抑制作为一种行为反应，表现为减少或停止追求机会行为、偏好不采取行动，或者延迟创业行为倾向。创业者的失败恐惧抑制创业行为，主要表现为可能会避免尚未进入的情况，从已经参与的活动中退出，减少创业者的努力或将这些努力转向更容易实现的目标。抑制机制也表现为在创业活动中极为谨慎。失败恐惧在某种程度上挫伤了他们的积极性，促使他们少付出努力，最终导致他们不去追求自己的创业理念。虽然有时候失败恐惧并没有完全抑制所有的创业行动，但延缓创业行动，推迟创业进程。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "激励。激励包括增加资源投入、对一项任务投入新的精力、在给定的方向上保持努力以及选择具有特定挑战级别的任务。失败恐惧对创业行为的激励作用表现为在创业活动中创业者积极应对而不是消极应付创业中的困难、挫折和危机。创业者由于害怕失败而朝着机会或冒险的方向不断增强的行为，其行为的强度和持久性都可能会增大；除此之外，还包括创业者采取一些行动来处理引起恐惧的威胁，以支持创业目标的达成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "压抑。压抑表现为创业者进行一系列分散注意力的活动，目的是消除或忽略失败恐惧体验。部分创业者会把与失败相关的不舒服想法推入潜意识，迫使自己忽略这种感觉。从事与创业过程无关的活动，试图忘记那些不舒服的想法和感觉从何而来。虽然压抑也可能被归类为一种回避行为，但我们将其与抑制机制做区分的原因：压抑作用过程中不涉及面向或远离机会或冒险的行为。相反，它包含了与机会、创业想法或冒险完全无关的行为，假装失败恐惧不存在的一种逃避行为反应。这种行为试图使自己不感到失败恐惧，忽略相应的消极思想和情绪。由此，本研究提出研究命题3：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "命题3：失败恐惧通过抑制、激励或压抑等三种不同方式影响创业行为。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3研究模块三：环境特征对失败恐惧与创业行为关系的调节",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "失败恐惧对创业行为的抑制、激励和压抑作用，外部环境特征会对上述作用关系起到约束作用。基于已有文献，本研究将环境区分为微观环境和宏观环境，前者主要包括创业者得到的社会支持，后者包括制度和文化环境（Wennberg et al.,2013;Boudreaux etal.,2019）。这些环境特征可以解释为什么以及什么时候失败恐惧更有可能导致抑制行为、激励或压抑行为，能够深入分析失败恐惧对创业行为的作用，更全面的理解失败恐惧的作用机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）社会支持的调节作用",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "社会支持作为创业者获取外部资源的有效途径，是指创业者从社会网络中获得的各种有形和无形的关心和帮助，其对创业者的认知、情感和行为都起着催化作用（鲁喜凤，郭海,2018）。社会支持根据获取支持的类型分为情感性支持和功能性支持（Doeglas etal,1996）。当创业者获得较高情感性支持时，能够从与自己密切相关的社会群体中获得更多鼓励和认可，以积极的心态将失败恐惧视为创业者需要面对的挑战而非无法逾越的障碍。情感性支持作为一种生理压力的缓冲资源（王学军，王春国,2020），可以放大潜在收益的显著性，这种显著性又会鼓励创业者采取行动，即显著增大失败恐惧对创业行为的激励作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从功能性支持的维度看，创业者得到的资源、信息等功能性支持越多，使得既定压力下的创业者能够获得更多的资源，及时抓住创新性机会（Polack etal,2012）。从资源保存理论视角分析，创业者产生失败恐惧后，会通过多种途径来积极地寻求资源以缓解失败恐惧或者降低失败威胁的因素，尤其是通过资源获取来减轻由恐惧所带来的多种消极后果。社会支持作为创业者从外界获取资源补充的一种重要途径，当创业者从社会网络中获得较高功能性支持时，创业者会重新评估资源，并对多种资源进行整合利用，最终使失败恐惧对创业行为的负向作用得到抑制。即当创业者获得功能性支持时，降低失败恐惧对创业行为的抑制和压制影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本研究提出如下研究命题：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "命题4a：当创业者获得情感性支持时，增大失败恐惧对创业行为的激励作用。  \n命题4b：当创业者获得功能性支持时，降低失败恐惧对创业行为的抑制和压抑作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）制度和文化环境的调节作用",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "首先，先前研究表明当国家创业政策对创业者友好时，失败恐惧对创业抑制作用降低，促进激励行为。Boudreaux等（2019）研究发现当国家经济自由度提高，失败恐惧将促进机会型创业。美国的破产法允许创业者相对较快的重新创业，欧洲破产的人往往被视为“失败者”，因此，美国的创业政策中创业者的失败“污名化”程度也较低（Vaillant&Lafuente,2007）。相比之下，美国的创业政策对创业者更友好，创业活动更活跃，更容易激活创新性创业活动，也更有利于降低失败恐惧对创业行为的负向作用。因此，当国家的制度环境对创业者友好时，增大失败恐惧对创业行为的激励作用，降低失败恐惧对创业行为的抑制和压抑作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "其次，在文化环境方面，已有研究发现失败恐惧对创业行为影响会因文化背景而异（Chua& Bedford,2016）。Wennberg等（2013）提出随着文化环境中集体主义水平提高、不确定性规避程度降低，失败恐惧对创业行为的抑制作用将减弱。“面子”在集体主义文化中得到强调，中国人由于害怕“丢面子”，因此相较西方社会对创业的失败恐惧程度也较高（Begley& Tan,2001）。“宽容失败”文化环境也可以通过宣传有失败经历再创业成功榜样起到示范效用和合法性效用。榜样通过传递创业的积极信息，以降低非创业者的信息成本并减少对失败的认知污名，同时提供创业的合法性支持（Lafuente&Vaillant，2013;Ferreto et al.,2018），这些都会降低失败恐惧抑制效用。此外，营造“宽容失败”的文化不仅有助于缓解开始采取行动的创业者心理负担，而且能鼓励更多人开始创业活动。当国家的文化环境更包容失败时，增大失败恐惧对创业行为的激励作用，同时降低失败恐惧对创业行为的抑制和压抑作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于以上分析，本研究提出如下研究命题：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "命题5a：当国家的制度环境对创业者友好时，增大失败恐惧对创业行为的激励作用，降低失败恐惧对创业行为的抑制和压抑作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "命题5b：当国家的文化环境更包容失败时，增大失败恐惧对创业行为的激励作用，降低失败恐惧对创业行为的抑制和压抑作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4理论建构",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究探究失败恐惧形成、发展和作用规律，挖掘创业情境下失败恐惧的构成要素，从创业者和创业事件两方面，主客观结合分析诱发失败恐惧的因素，剖析失败恐惧对创业行为的不同影响，并提出失败恐惧与创业行为关系的作用边界和启动条件，主要从以下4个方面对现有研究进行了理论延伸与拓展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一，本研究基于情绪和认知两重属性分析创业情境下失败恐惧的内涵。基于情绪认知评价理论，从负面情绪来源和威胁评估方式两方面识别出失败恐惧构成的关键要素，为科学识别并描述创业情境下失败恐惧的类型提供支撑。目前学术界对于失败恐惧的研究大多采用心理学的研究范式，并将失败恐惧与风险态度、回避失败动机和负面情绪状态等比较研究，凸显创业情境的独特性和动态性方面存在不足。创业情境具有高度不确定性、时间压力和挑战性，创业者的失败恐惧可能会随创业阶段不同而表现出异质性。而已有研究大多采用静态的思路和方法来研究失败恐惧，导致相关研究并没有捕捉到相似的失败恐惧结构，这限制了失败恐惧构念认知的有效性（Cacciotti et al.，2016)。未来研究应该基于负面情绪来源和威胁评估方式不同，识别出失败恐惧构成的关键要素，在典型案例研究基础上，采用心理学中情景实验法，根据不同创业任务类型和环境特点分析失败恐惧的内容和表现。以大量真实案例为素材，在多轮次访谈基础上对实验场景进行设计，邀请创业者（被试）就不同创业情境（不同威胁来源和认知处理风格）做出情感反应和决策，通过环境刺激、情感和认知的动态交互为主线，解剖创业失败恐惧的构成要素，为科学识别并准确描述失败恐惧提供新思路，充分反映创业情境下失败恐惧的动态性和多样性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二，本研究从创业事件和创业者特征两方面提炼失败恐惧形成的理性规律。在创业过程中，失败恐惧体验基于外部社会线索和创业者内部认知评价相互依赖的组合而触发（Cacciotti etal,2016)。外部环境激活了创业者关于失败的多重后果的内部认知评估（Conroy&Elliot,2004)。但具有不同特征的创业者对类似创业事件评估并不相同。创业事件所在情境中的线索（财务安全、融资能力、执行能力等）是失败恐惧产生的原因，但是这些外部环境线索需要和创业者的内部认知评估相互作用后引发失败恐惧。事实上，失败恐惧是创业者评估与外部环境（创业事件）相互作用而产生。创业事件的认知评价是基于威胁的外部线索，外部环境线索触发了创业者对行动选择的可行性和可取性的内部认知评估（Krueger,1993)，具有不同创业激情和调节定向的创业者对其行动的评估也会存在差异。而关于行动选择的可行性和可取性的内部认知评估，也会反过来影响创业者如何看待产生失败恐惧的外部环境。基于情感事件理论提出引发失败恐惧的创业事件（情感事件）和具有不同特征的创业者评估效果不同，进一步分析二者互动诱发失败恐惧。在研究方法上，本研究基于事件的抽样方法拟采取体验抽样法（Experience samplingmethod,ESM)。当动态跟踪发现需要调查的关键事件发生时，邀请创业者进行相应的记录和汇报，对创业者的心理和行为变量进行动态跟踪。利用体验抽样法可以实现跟踪创业者真实的创业活动，捕捉其压力、情绪和创业行为等随时间变化，并结合创业者特征挖掘不同情境下失败恐惧的形成规律。从创业情境独特性和心理学中失败恐惧的研究成果入手，同时融入创业关键情感事件增强理论对现实的解释力和预测力，有助于进一步解释失败恐惧形成的不同原因，是对情感事件理论和情绪认知评价理论视角下的失败恐惧研究的重要拓展和深化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三，本研究从理论层面上分析失败恐惧对创业行为的影响，揭示了复杂创业行为背后变化的深层次原因，完善创业行为理论。在文献分析和案例访谈的基础上，拟采用大样本的问卷调查来开发失败恐惧与创业行为等主要构念的量表，并检验所提出的理论模型。我们考虑到失败恐惧对行为影响的滞后性，问卷分两个时间点发放，每次数据收集间隔大约半年。大样本问卷调研不仅有助于检验已有理论的解释力，也有助于探索尚未引起关注的新问题，甚至产生新的理论发现。本研究分析不同情境下失败恐惧的3种影响及其启动机制，不仅有助于系统提炼和检验以企业实践为基础的理论框架适用性，而且有助于在理论层面分析创业行为变化规律增加新的理论解释，拓展失败恐惧对行为反应的研究空间。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第四，本研究从环境特征角度归纳失败恐惧作用于创业行为的边界条件。失败恐惧对创业行为的作用效果受到外部环境的影响。失败恐惧贯穿于整个创业过程，失败恐惧随创业者对创业活动承诺水平的增加而逐渐强化，同时有可能由于学习和经验累积而慢慢减少（Cacciotti et al,2016)。在不同的创业阶段里，创业者面临的外部环境发生变动，其对创业投入程度和承诺水平也会改变，进而影响失败恐惧对创业行为的作用效用。从创业者所处的微观环境比如社会支持，和宏观环境如对创业制度和文化环境的理解和感知入手，寻找降低失败恐惧对创业行为的负面效用的调节变量，了解失败恐惧对创业行为发挥正面效用的边界条件。这样可以解释为什么以及什么时候失败恐惧更有可能抑制或激励创业行为，能够深入分析失败恐惧对创业行为的影响，全面理解失败恐惧的作用机制，为探索失败恐惧在什么条件下以及在多大程度影响创业行为提供微观知识基础，丰富创业者认知、情绪与创业环境的互动关系的理论认知（Lazarus，1991)。此外，从外部环境特征分析也为创业政策制定和环境建设提供科学依据。创业环境建设在提高硬件环境支持和优惠政策鼓励的同时，需要营造“宽容失败”的文化氛围，健全“降低失败成本”的政策保障，建立“创业友好型”的规章制度。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n陈江涛，吴燕晴，邓志华.(2020)．眼观六路还是吐丝自缚？创业失败恐惧的双刃剑效应,中国地质大学学报， 20(6),138-152.   \n陈春晓，张剑，李精精.(2020)．创业激情:研究现状及未来展望．中国人力资源开发,37(10),109-125.   \n单标安，于海晶，鲁喜凤.(2019).感知的创业激情、信任与员工创新行为关系研究．管理科学,32(1),80-90. 丁桂凤，张媛，古纯文.(2018).大学生乐观、创业失败恐惧与创业意向的关系.中国心理卫生杂志,32(4),339-343. 段锦云，傅强，田晓明，孔瑜.（2011).情感事件理论的内容、应用及研究展望．心理科学进展,19(4),599-607. 郝喜玲，陈雪，杜晶晶，刘依冉.(2020).创业失败恐惧研究述评与展望．外国经济与管理,20(7),82-94. 何良兴，张玉利.(2020).失败恐惧与创业抉择关系研究——宽容氛围与创业精神的视角．研究与发展管理,32(2), 94-105.   \n孔凡柱，赵莉.(2017)．失败恐惧、创业教育对创业意愿与行为的调节效应研究．软科学,260(11),39-43. 鲁喜凤，郭海.(2018)．机会创新性、资源整合与新企业绩效关系．经济管理,40(10),44-57.   \n王博，朱沆.(2020).制度改善速度与机会型创业的关系研究.管理世界,36(10),111-126.   \n王学军,王春国.(2020).创业压力与退出意愿—创业激情的中介作用与社会支持的调节效应．经济管理,42(3), 40-54.   \n徐菊，陈德棉.(2020)．非连续事件对创业学习的作用机制研究．科学学研究,38(7),1260-1267.   \n张秀娥，张坤.(2018).创造力与创业意愿的关系：一个有调节的中介效应模型．外国经济与管理,40(3),67-78. Allnson,C.W.,& Hayes,J. (1996).Thecognitivestyle index:Ameasureof intuition-analysisfor organizational research. Journal of Management Studies, 33(1),119-135.   \nArenius,P.，&Minniti, M.(20o5).Perceptual variablesand nascent entrepreneurship.Small Business Economics, 24(3),233-247.   \nBegley,T.M.,& Tan, W.L.(2Oo1).The socio-cultural environment for entrepreneurship: a comparison between east Asian and Anglo-Saxon countries. Journal of International Business Studies,32(3),537-553.   \nBelanger,JocelynJ.,Lafreniere,Marc-AndreK.,Valerand,R.J.,&Kruglanski,A.W.(2O13).Drivenbyfear:Theect of success and failure information on passionateindividuals' performance.Journal of Personality & Social Psychology, 104(1), 180-196.   \nBoudreaux, C.J.,Nikolaev,B.N,& Klein,P.(2O19).Socio-cognitivetraitsand entrepreneurship:The moderatingrole of economic institutions.Journalof Business Venturing,34(1),178-196.   \nCaccioti, G.,& Hayton,J.C.(20l5).Fear and entrepreneurship:Areview and research agenda. International Journalof Management Reviews,17(2),165-190.   \nCacciotti, G.,Hayton,J.C.,Mitchell,J.R.,&Alen,D.G. (2020).Entrepreneurial fearoffailure: Scale development and validation. Journal of Business Venturing, 35(5),1-25.   \nCacciotti,G.,Hayton,J.C.，Mitchel,J.R.,& Giazitzoglu,A.(2016).Areconceptualizationoffearoffailurein entrepreneurship.Journal of Business Venturing, 31(3),302-325.   \nCardon,M.S., Glauser,M.,& Murnieks,C.Y. (2017).Pasion for what?Expanding the domainsof entrepreneurial passion. Journal of Business Venturing Insights, 8,24-32.   \nChua,H.S.,&Bedford,O.A.(2O16). Qualitativeexplorationoffearoffailureand entrepreneurial intent inSingapore. Journal of Career Development, 43(4),319-334.   \nConroy,D.E.& Willow,J.P.,&Metzler,J.N. (2o2).Multidimensional fearoffailure measurement:the performance failure appraisal inventory.Journal ofApplied Sport Psychology,14 (2),76-90.   \nConroy,D.E.,Eliot,A.J.,&Hall,R. (2o4).Fearoffailureandachievementgoals insport,addressingtheissueofte chicken and the egg. Anxiety Stress & Coping, 17(3),271-285.   \nConroy,D.E. (2Ool).Progressin the development ofa multidimensional measure offearoffailure,The performance failure appraisal inventory (PFAI).Anxiety， Stress& Coping, 14(4), 431-452.   \nCrowe,E.,& Higgins,E.T. (1997).Regulatory focus and strategic inclinations,promotion and prevention in decision making. Organizational Behavior and Human Decision Processes, 69(2),117-132.   \nDoeglas,D.,Suurmeijer,T.Briancon,S.,Torbjorn,M.,Boudien,K.,Anders,B.,Robbert,S.,& WimvandenH.(1996). An international study on measuring social support: Interactions and satisfaction， Social Science & Medicine, 43(9),1389-1397.   \nFerreto,E.,Lafuente,E,&Leiva,J.C.(ol8).Canetrepreneurialrolemodelsalleviatethefearofentrepreneurialfailure? International Journal of Business Environment,10(2),160-173.   \nHessels,J., GriloI.,Thurik,R.,&Zwan,P.VD. (2O11).Entrepreneurialexitand entrepreneurialengagement.Journal of Evolutionary Economics, 21(3),447-471.   \nKoelinger,P.,Miniti,M.,Schade,C.(2o7).“IthinkIcan,IthinkIcan\",Overconfidenceandentrepreneurialbehavior. Journal of Economic Psychology, 28(4),502-527.   \nKoellnger，P.,Minniti,M.,Schade，C.(20l3). Gender diferencesinentrepreneurial propensity. Oxford Bulltinof Economics and Statistics， 75(2),213-234.   \nKollmann,T.,Stockmann,C.，& Kensbock,J.M. (2017).Fear offailureasa mediatorof the relationship between obstacles and nascent entrepreneurial activity-Anexperimental approach.Journal of Business Venturing 32(3),280- 301.   \nKrueger，N. (1993). The impact of prior entrepreneurial exposure on perceptions of new venture feasibility and desirability. Entrepreneurship Theory & Practice,18 (1),5-22.   \nLafuente,E.M.,& Vailant,Y. (2o13).Age driven influence of role-models onentrepreneurship in atransitioneconomy. Journal of SmallBusiness & Enterprise Development,20(1),181-203.   \nLazarus, R. S.(1991). Emotion and adaptation. Oxford, Oxford University Press.   \nLazarus, R.S.,Folkman, S.(1984). Stress,appraisal, and coping. New York, Springer.   \nLlewellyn,D.J.& Wilson,K.M. (20o3).Thecontroversial roleof personalitytraits in entrepreneurial psychology. Education & Training,45(6),341-345.   \nMcClelland, D.C.(1985). Human motivation. New York, Cambridge University Press.   \nMcgrath,R.G.(2Oo1).Exploratorylearning,innovativecapacityand managerial oversight.TheAcademyofManagement Journal, 44(1),118-131.   \nMcmullen,J.S.，& Dimov,D. (2013).Time and the entrepreneurial jourmey: the problems and promiseof studying entrepreneurship as a process.Journal of Management Studies, 50(8),1481-1512. Mitchell,J,R.，& Shepherd,D.A. (2ol0).To thine own self be true,Imagesof self,imagesof opportunity,and entrepreneurial action. Journal of Business Venturing,25(1),138-154.   \nMitchell,J.R.，&Shepherd,D.A.(2O11).Afraidofopportunity,The efectsoffearoffailureonentrepreneurial action.Frontiers of Entrepreneurship Research,31(6),195-209.   \nMorgan,J.,&Sisak,D.(2O16). Aspiring tosucceed,Amodel ofentrepreneurshipandfearoffailure.JournalofBusiness Venturing, 31(1), 1-21.   \nPollack,J.M.,Vanepps,E.M.,& Hayes,A.F. (20l2).The moderating roleof social ties on entrepreneurs'depressed affect and withdrawal intentions inresponsetoeconomic stressJournalofOrganizational Behavior,33(6),789-810. Sepulveda,J.P.,&Bonill,C.A.(20l1).Theatitude toward therisk of entrepreneurial activity,evidence fromChile. Academia Revista Latinoamerica de Administracion, 23(46),72-80.   \nShepherd,D.A.,Haynie,J.M.,&Mcmulen,J.S. (2012).Confirmatorysearch asauseful heuristic?Testing the veracity of entrepreneurial conjectures.Journal of Business Venturing, 27(6), 637-651.   \nStroe,S.，Siren，Charlotta,Shepherd,D.,& Wincent,J.(2O20).The dualistic regulatory effectof passion on the relationshipbetween fearoffailureand negative affect,insights from facial expression analysis.JournalofBusiness Venturing, 35 (4),1-20.   \nStroe,S.,Parida,V,& Wincent,J.(2O18).Effectuation orcausation: AnfsQCAanalysis of entrepreneurial passion,risk perception,and self-efficacy. Journal of Business Research,89,265-272.   \nTsai, K.H., Chang H. C.,& Peng, C.Y(20l6).Refining the linkage between perceived capability and entrepreneurial intention,Rolesofperceivedopportunityfearoffilure,and gender.International Entrepreneurshipand Management Journal, 12(4), 1-19.   \nUcbasaran,D., Westhead,P.,& Wright,M.(2o9).Theextentand natureofopportunity identificationbyexperienced entrepreneurs.Journal of Business Venturing, 24(2),99-115.   \nVaillnt,Y,&Lafuente,E.(2Ol7).Dodifferent institutionalframeworkscondition theinfluenceoflocalfearoffailure and entrepreneurial examplesover entrepreneurial activity?Entrepreneurship and Regional Development,19(4),13- 337.   \nValerand,R.JBlanchard,C.,ageau,G.A.,Koester,R.,&arsoais,J.().Lespaionsdeame: onobssive and harmonious passion.Journal of Personality and Social Psychology， 85(4),756-767.   \nWagner,J.(20o7). What a diference a Y makes-female and male nascent entrepreneur in Germany.Small Business Economics, 28(1),1-21.   \nWeissH.M.,& Cropanzano,R.(1996).Affective events theory,atheoretical discussonofthe structure,causes and consequences of affective experiences at work. Research in Organizational Behavior,18(3),1-74.   \nWennberg K.,Pathak,S.，Autio,E.(2013).How culture moulds the efects of self-eficacyand fear of failure on entrepreneurship.Entrepreneurship & Regional Development, 25(9-10),756-780. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The formation of fear of failure and its mechanism on entrepreneurial behavior ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "HAO Xi-lingl ,LIU Yi-ran ²， DU Jing-jing, ZHENG Fang³ ('Anhui UniversityofFinance and Economics,School of Business Administration,23303o,Bengbu, China) (²Tianjin University,School of Education,300350,Tianjin, China) (School of Business,Tianjin University ofFinance and Economics,300222, Tianjin,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Entrepreneurship is an emotional journey that is companied with fear of failure.Fear of failure can be both an enemy and a friend. It has adark side of discouraging entrepreneurs from carrying out entrepreneurial activities,and a bright side of motivating them to move forward.Despite mounting research on entrepreneurs'fear offailure,most studies focus on its inhibitory effect on entrepreneurial behavior.Few studies pay attention to formation of fear of failure and its incentive effect on the behaviors in the whole process of entrepreneurship. Draw on the review of the existing research, we explore the emotional and cognitive atributes of fear of failure in entrepreneurship context.From Cognitive Appraisal Theory,fear offailure is an emotional state results from the appraisal of the threats in the environment. We investigate the antecedents of fear of failure and how does it evolve in the process of entrepreneurship. Building on the assumption of Affective Events Theory,emotion is shaped by both the objective event and individuals’ subjective atitude. We thus focus on two important factors to address the antecedents，including entrepreneurial event such as loss-relevant event and lowcapability-relevant event and characteristics of entrepreneurs,such entrepreneurs'obsessive passion and prevention regulatory focus.This paper expounds three different effects of fear of failure on entrepreneurial behavior: incentive, inhibition and repression.We further disentangle the boundary conditions of the relationship between fear of failure and entrepreneurial behaviors.The research not only expands the application scope and applicable situation of fear of failure,but also enriches the Cognitive Appraisal Theory of Emotion, Affective Events Theory and Classical Stress Theory. It also offers novel perspective to understand entrepreneurial behavior and entrepreneurial psychology. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: fear of failure, entrepreneurial cognition, entrepreneurial behavior,entrepreneurial event, cognitive appraisal theory of emotion ",
+        "page_idx": 14
+    }
+]

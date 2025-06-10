@@ -1,0 +1,831 @@
+[
+    {
+        "type": "text",
+        "text": "CP violation from spin-1 resonances in a left-right dynamical Higgs context ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kunming Ruan,1,\\* Jing Shu $^ { 1 , \\dag }$ and Juan Yepes $^ { 1 , \\ddagger }$ $^ { 1 }$ State Key Laboratory of Theoretical Physics and Kavli Institute for Theoretical Physics China (KITPC) Institute of Theoretical Physics，Chinese Academy of Sciences，Beijing 10019o,P.R.China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "New physics field content in the nature, more specificaly, from spin-1 resonances sourced by the extension of the SM local gauge symmetry to the larger local group $S U ( 2 ) _ { L } \\otimes S U ( 2 ) _ { R } \\otimes U ( 1 ) _ { B - L }$ ,may induce CP-violation signalling NP efects from higher energy regimes. In this work we completely list and study all the CP-violating operators up to the $p ^ { 4 }$ -order in the Lagrangian expansion,for a non-linear left-right electroweak chiral context and coupled toa light dynamical Higgs.Heavy right handed fields can be integrated out from the physical spectrum,inducing thus a physical impact in the efective gauge couplings,fermionic electric dipole moment,and CP-violation in the decay $h  Z Z ^ { * }  4 l$ that are briefly analysed.The final relevant set of effective operators have also been identified at low energies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Standard Model (SM) has been finally established as a coherent and consistent picture of electroweak symmetry breaking (EWSB) after the LHC experimental confirmation of a new scalar resonance [1,2] in our nature, that resembles the long ago proposed Higgs boson particle [3-5]. Nevertheless,new physics (NP) effects are still awaiting to be detected as it is demanded by the longstanding hierarchy problem in particle physics.Among those possible NP manifestations, CP-violating low energy effects could prove the existence of higher energy regimes,reachable and detectable at the LHC and future facilities.Indeed,the electroweak interactions taking place in our nature do not conserve completely the product of the charge conjugation and parity symmetries of particle physics.Moreover,the observed matterantimatter asymmetry of our universe compel us to consider new sources of CP-violation, that are signalled as well by the extreme fine-tuning entailed by the strong CP problem. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phenomenological analysis pursuing effective signals have been performed [6-43] in order to search for anomalous CP-odd fermion-Higgs and gauge-Higgs couplings. Complementary studies from the theoretical side are very relevant to establish and analyse the complete set of independent CP-violating bosonic operators,as they may shed a direct light on the nature of EWSB and pinpoint NP effects from higher energy regimes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motivated by these tantalizing and challenging prospects，this work copes with the possibility for detecting non-zero CP-violating signals arising out from some emerging new physics feld content in the nature, more specifically, from spin-1 resonances brought into the game via the extension of the SM local gauge symmetry ${ \\mathcal G } _ { S M } = S U ( 2 ) _ { L } \\otimes U ( 1 ) _ { Y }$ up to the larger local group $\\mathcal { G } = S U ( 2 ) _ { L } \\otimes S U ( 2 ) _ { R } \\otimes U ( 1 ) _ { B - L }$ (see [44,45] for left-right symmetric models literature).Such extended gauge field sector is tackled here through a systematic and model-independent EFT approach.The basic strategy is to employ a non-linear $\\sigma$ -model to account for the strong dynamics giving rise to the GB, that is the $W _ { L } ^ { \\pm }$ and $Z _ { L }$ longitudinal components that leads to introduce the Goldstone scale $f _ { L }$ ，together with the corresponding GB from the extended local group,i.e. the additional $W _ { R } ^ { \\pm }$ and $Z _ { R }$ longitudinal degrees of freedom and the associated Goldstone scale $f _ { R }$ .Finally, this non-linear $\\sigma$ -model effective Lagrangian is coupled a posteriori to a scalar singlet $h$ in a general way through powers of $h / f _ { L }$ [46],being the scale suppression dictated by $f _ { L }$ ，as it is the scale where $h$ is generated as a GB prior to the extension of the SM local group $\\vec { \\mathcal { G } } _ { S M }$ to the larger one $\\mathcal { G }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work we analysed the physical picture of spin1 resonances dictated by the larger local gauge group $\\mathcal { G }$ with an underlying strong interacting scenario coupled to a light Higgs particle,via the non-linear EFT construction of the complete tower of pure gauge and gauge- $h$ operators up to the $p ^ { 4 }$ -order in the Lagrangian expansion and restricted only to the CP non-conserving bosonic sector. The corresponding CP-conserving counterpart was recently analysed in [47]. The work in here enlarges and completes the operator basis previously considered in [48,49] (for the CP-breaking sector) in the context of left-right symmetric EW chiral models,completing and generalizing also the work done in [5O-54] (for the CPviolating sector),and it extends as well [55] to the case of a larger local gauge symmetry $\\mathcal { G }$ in the context of nonlinear EW interactions coupled to a light Higgs particle. The theoretical framework undertaken in here may be considered as well as a generic UV completion of the low energy non-linear approaches of [50-54] and [55]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[I. THEORETICALFRAMEWORK ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transformation properties of the longitudinal degrees of freedom of the electroweak gauge bosons will be parametrized at low-energies as it is customary via ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the dimensionless unitary matrix $\\mathbf { U } ( x )$ ，more specifically through $\\mathbf { U } _ { L } ( x )$ and ${ \\bf { U } } _ { R } ( x )$ for the symmetry group $S U ( 2 ) _ { L } \\otimes S U ( 2 ) _ { R }$ ,and defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf U } _ { L ( R ) } \\left( x \\right) = e ^ { i \\tau _ { a } \\pi _ { L ( R ) } ^ { a } \\left( x \\right) / f _ { L ( R ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\tau ^ { a }$ Pauli matrices and $\\pi _ { L ( R ) } ^ { a } ( x )$ the corresponding Goldstone bosons fields suppressed by their associated non-linear sigma model scale $f _ { L ( R ) }$ ，where the scale $f _ { R }$ comes from the additional Goldstone boson dynamics introduced by $S U ( 2 ) _ { R }$ group.It is customary to introduce the corresponding covariant derivative objects for both of the Goldstone matrices ${ \\mathbf { U } } _ { L ( R ) } ( x )$ as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle D ^ { \\mu } { \\bf U } _ { L ( R ) } \\equiv } } \\\\ { { \\displaystyle \\partial ^ { \\mu } { \\bf U } _ { L ( R ) } + \\frac { i } { 2 } g _ { L ( R ) } W _ { L ( R ) } ^ { \\mu , a } \\tau ^ { a } { \\bf U } _ { L ( R ) } - \\frac { i } { 2 } g ^ { \\prime } B ^ { \\mu } { \\bf U } _ { L ( R ) } \\tau ^ { 3 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with the $S U ( 2 ) _ { L }$ ， $S U ( 2 ) _ { R }$ and $U ( 1 ) _ { B - L }$ gauge fields denoted by $W _ { L } ^ { u \\mu }$ ， $W _ { R } ^ { u \\mu }$ and $B ^ { \\mu }$ correspondingly,and the associated gauge couplings $g _ { L }$ ， $g _ { R }$ and $g ^ { \\prime }$ respectively. Adwotrk tlestiat $S U ( 2 ) _ { L ( R ) } .$ tointrdtieia $\\mathbf { V } _ { L ( R ) } ^ { \\mu }$ and the covariant scalar $\\mathbf { T } _ { L ( R ) }$ objects as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf V } _ { L ( R ) } ^ { \\mu } \\equiv \\left( D ^ { \\mu } { \\bf U } _ { L ( R ) } \\right) { \\bf U } _ { L ( R ) } ^ { \\dagger } , { \\bf T } _ { L ( R ) } \\equiv { \\bf U } _ { L ( R ) } \\tau _ { 3 } { \\bf U } _ { L ( R ) } ^ { \\dagger } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "covariantly transforming all them under local transfor mations of the larger group $\\mathcal { G }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notice that the local gauge invariance of the theory allows to build operators made out of traces depending either on products of purely left-handed or right-handed covariant objects.As soon as the operators mixing the left and right-handed structures are considered, new covariant objects emerge to fully guarantee their construction. In fact,considering for instance the simple trace $\\mathrm { T r } \\left( \\mathcal { O } _ { L } ^ { i } \\mathcal { O } _ { R } ^ { j } \\right)$ mixing the left and right-handed covariant objects $\\mathcal { O } _ { L } ^ { i }$ and $\\mathcal { O } _ { R } ^ { i }$ respectively (with $i$ labelling either a scalar,vector,or tensor object)，the gauge invariance no longer holds. Proper insertions of the Goldstone matrices $\\mathbf { U } _ { L }$ and $\\mathbf { U } _ { R }$ will make it invariant through $\\operatorname { T r } \\left( { \\mathcal { O } } _ { L } ^ { i } { \\mathcal { O } } _ { R } ^ { j } \\right) \\to \\operatorname { T r } \\left( \\mathbf { U } _ { L } ^ { \\dagger } { \\mathcal { O } } _ { L } ^ { i } \\mathbf { U } _ { L } \\mathbf { U } _ { R } ^ { \\dagger } { \\mathcal { O } } _ { R } ^ { j } \\mathbf { U } _ { R } \\right)$ ， motivating thus the introduction of the following objects ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\mathcal { O } } _ { L } ^ { i } \\equiv { \\bf U } _ { L } ^ { \\dagger } \\mathcal { O } _ { L } ^ { i } { \\bf U } _ { L } , \\qquad \\widetilde { \\mathcal { O } } _ { R } ^ { i } \\equiv { \\bf U } _ { R } ^ { \\dagger } \\mathcal { O } _ { R } ^ { i } { \\bf U } _ { R } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "that are required hereafter for the construction of operators made out of mixed $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ covariant structures. Notice that under the local $\\mathcal { G }$ transformations ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf L } ( x ) \\equiv e ^ { { \\frac { i } { 2 } } \\tau ^ { a } \\alpha _ { L } ^ { a } ( x ) } , { \\bf R } ( x ) \\equiv e ^ { { \\frac { i } { 2 } } \\tau ^ { a } \\alpha _ { R } ^ { a } ( x ) } , { \\bf U } _ { \\bf Y } ( x ) \\equiv e ^ { { \\frac { i } { 2 } } \\tau ^ { 3 } \\alpha ^ { 0 } ( x ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\alpha _ { L , R } ^ { a } ( x )$ and $\\alpha ^ { 0 } ( x )$ space-time dependent variables parametrizing the local rotations,the new defined objects in Eq. (4) are transforming as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\mathcal { O } } _ { L } ^ { i } \\to { \\bf U } _ { Y } \\widetilde { \\mathcal { O } } _ { L } ^ { i } { \\bf U } _ { Y } ^ { \\dagger } , \\qquad \\widetilde { \\mathcal { O } } _ { R } ^ { i } \\to { \\bf U } _ { Y } \\widetilde { \\mathcal { O } } _ { R } ^ { i } { \\bf U } _ { Y } ^ { \\dagger }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The corresponding definitions in (4) for the covariant vectorial Vμ YL(R) and the scalar TL(R) objects in (3) are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { { \\bf V } } _ { L ( R ) } ^ { \\mu } \\equiv { \\bf U } _ { L ( R ) } ^ { \\dagger } { \\bf V } _ { L ( R ) } ^ { \\mu } { \\bf U } _ { L ( R ) } = - \\left( D ^ { \\mu } { \\bf U } _ { L ( R ) } \\right) ^ { \\dagger } { \\bf U } _ { L ( R ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\bf T } _ { L ( R ) } \\equiv { \\bf U } _ { L ( R ) } ^ { \\dagger } { \\bf T } _ { L ( R ) } { \\bf U } _ { L ( R ) } = \\tau _ { 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the unitary property of the Goldstone matrices has been employed in addition.Similar definitions forthe strength gauge felds $W _ { L ( R ) } ^ { \\mu \\nu }$ are straightforward ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { W } _ { L ( R ) } ^ { \\mu \\nu } \\equiv { \\bf U } _ { L ( R ) } ^ { \\dagger } W _ { L ( R ) } ^ { \\mu \\nu } { \\bf U } _ { L ( R ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is possible to infer therefore the mandatory introductionofthecovariantobjects $\\widetilde { \\mathcal { O } } _ { L ( R ) } ^ { i }$ in order to construct any possible operator mixing the left and right-handed covariant quantities ${ \\mathcal { O } } _ { L ( R ) } ^ { i }$ As it was realized in [47], operators made out of products of purely left or righthanded covariant quantities can be constructed out also via the covariant objects $ { \\widetilde { \\mathcal { O } } } _ { L ( R ) } ^ { i }$ defined in Eq (4). Henceforth the set $\\{ \\widetilde { \\mathbf { V } } _ { L ( R ) } ^ { \\mu } , \\widetilde { \\mathbf { T } } _ { L ( R ) } \\}$ (together with Eq.(9)) will make up the building blocks for the construction of the effective EW non-linear left-right CP-violating approach undertaken in this work，whose corresponding CP-conserving counterpart was already explored in Ref.[47]. Construction that will be enlarged after accounting for all the possible gauge-Higgs couplings arising out in this scenario via the generic polynomial light Higgs function $\\mathcal { F } ( h )$ [56],singlet under $\\mathcal { G }$ ，and defined through the generic expansion ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } _ { i } ( h ) \\equiv 1 + 2 a _ { i } \\frac { h } { f _ { L } } + b _ { i } \\frac { h ^ { 2 } } { f _ { L } ^ { 2 } } + \\dots ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with dots standing for higher powers in $h / f _ { L }$ [46]，not considered below. The scale suppression for each $h -$ insertion is dictated by $f _ { L }$ ，as it is the scale where $h$ is generated as a GB prior to the extension of the SM local group $\\vec { \\mathcal { G } } _ { S M }$ to the larger one $\\mathcal { G }$ .Gauge $h$ interactions will arise by letting the non-linear operators to be coupled either directly to $\\mathcal { F } ( h )$ or through its derivative couplings,e.g. via $\\partial ^ { \\mu } { \\mathcal { F } } ( h )$ ， $\\left( \\partial ^ { \\mu } { \\mathcal { F } } ( h ) \\right) ^ { 2 }$ ， $\\partial ^ { \\mu } { \\mathcal { F } } ( h ) \\partial _ { \\mu } { \\mathcal { F } } ( h )$ and $\\partial ^ { \\mu } \\partial _ { \\mu } { \\mathcal { F } } ( h )$ . Thus the building blocks set gets complemented by accounting for all the possible interactions from $\\mathcal { F } ( h )$ and its corresponding derivative couplings,under the assumption of a CP-even behaviour for $h$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The local gauge symmetry $\\mathcal { G }$ has been demanded throughout the non-linear effective approach considered up to now.Another relevant symmetry emerges once the initial SM local group $\\vec { \\mathcal { G } } _ { S M }$ is enlarged to $\\mathcal { G }$ and related with the exchange of the left and right-handed components of the group $S U ( 2 ) _ { L } \\otimes S U ( 2 ) _ { R }$ :the discrete parity symmetry $P _ { L R }$ ，useful for protecting the $Z b b$ -coupling from large corrections in the context of composite Higgs models [57],and helpful in here for bringing more effective operators in the scenario as it will be realized when listing the operators afterwards. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The CP-violating set-up described in the next section follows the dynamical Higgs scenario in [55, 56, 58, 59] (see also [61, 62],and for a short summary [63]),as well as the left-right bosonic $^ 1$ CP-conserving picture in [47]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. THEEFFECTIVELAGRANGIAN ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effective CP-violating NP contributions from the strong dynamics assumed in here will lead to non-zero departures with respect to the SM Lagrangian $\\mathcal { L } _ { 0 }$ and will be encoded in the Lagrangian ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ through ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { \\mathrm { c h i r a l } } = \\mathcal { L } _ { 0 } + \\mathcal { L } _ { 0 , L R } + \\Delta \\mathcal { L } _ { G F } + \\Delta \\mathcal { L } _ { G F , L R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Concerning only the bosonic interacting sector, the first piece in ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ reads as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } } _ { 0 } = - \\frac { 1 } { 4 } B _ { \\mu \\nu } B ^ { \\mu \\nu } - \\frac { 1 } { 4 } W _ { \\mu \\nu , L } ^ { a } W _ { L } ^ { \\mu \\nu , a } - \\frac { 1 } { 4 } G _ { \\mu \\nu } ^ { a } G ^ { \\mu \\nu , a } + } } \\\\ { { \\displaystyle ~ + \\frac { 1 } { 2 } ( \\partial _ { \\mu } h ) ( \\partial ^ { \\mu } h ) - V ( h ) - \\frac { f _ { L } ^ { 2 } } { 4 } \\mathrm { T r } \\Big ( { \\bf V } _ { L } ^ { \\mu } { \\bf V } _ { \\mu , L } \\Big ) \\left( 1 + \\frac { h } { f _ { L } } \\right) ^ { 2 } + } } \\\\ { { \\displaystyle ~ - \\frac { g _ { s } ^ { 2 } } { 3 2 \\pi ^ { 2 } } \\theta _ { s } \\epsilon ^ { \\mu \\nu \\rho \\sigma } G _ { \\mu \\nu } ^ { a } G _ { \\rho \\sigma } ^ { a } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "providing the SM strength gauge kinetic terms canonicallynormalized in the first line,whereas $h$ -kinetic terms and the effective scalar potential $V ( h )$ triggering the EWSB from the first two terms at the second line,plus the $W _ { L } ^ { \\pm }$ and $Z _ { L }$ masses² and their couplings to the scalar $h$ together with the GB-fermion kinetic terms from the remaining piece in the second line of Eq. (12).Finally, the last term in Eq.(12) corresponds to the well-known total derivative CP-odd gluonic coupling. Notice that the $S U ( 2 ) _ { L }$ -kinetic term and the custodial conserving $p ^ { 2 _ { - } }$ operator $\\operatorname { T r } \\left( \\mathbf { V } ^ { \\mu } \\mathbf { V } _ { \\mu } \\right)$ have been properly labelled in order to keep clear the notation according to the assumed local symmetry group $\\mathcal { G }$ . GB-kinetic terms are already canonically normalized from the scale factor of $\\mathrm { T r } \\left( \\mathbf { V } _ { L } ^ { \\mu } \\mathbf { V } _ { \\mu , L } \\right)$ ， in agreement with $\\mathbf { U } _ { L }$ -definition of Eq.(1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Non-zero NP departures with respect to those from $\\mathcal { L } _ { 0 }$ will play a role into the game once the symmetric counterpart sourced by the corresponding local $S U ( 2 ) _ { R ^ { - } }$ extension is called in,being encoded through the remaining pieces of ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ Eq.(11)，focused only on the CPviolating operators,and defined by ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ". $\\mathcal { L } _ { 0 , L R }$ :accounting for all of the possible $p ^ { 2 _ { - } }$ operators mixing the left and right handedcovariant objects, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "： $\\Delta \\mathcal { L } _ { G F } .$ encoding all those operators up to the $p ^ { 4 }$ contributions made out of purely left or right handed covariant objects,and ： $\\Delta \\mathcal { L } _ { \\mathrm { C F } , L R }$ :parametrising any possible mixing interacting terms between $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R ^ { - } }$ covariant objects up to $p ^ { 4 }$ -operators permitted by the underlying left-right symmetry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is worth to comment that at the LO $p ^ { 2 }$ -order,the corresponding CP-violating $S U ( 2 ) _ { R }$ -strength gauge kinetic term would be encoded in the Lagrangian $\\mathcal { L } _ { 0 , R }$ ，turns out to be proportional to a cuadridivergence,being thus disregarded from the Lagrangian ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ in Eq. (11). As soon as the light Higgs couplings are switched on through $\\mathcal { F } ( h )$ in (10), such $S U ( 2 ) _ { R }$ kinetic term has to be retained in the effective approach as it will be done later soon. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A． $S U ( 2 ) _ { L } - S U ( 2 ) _ { R }$ $p ^ { 2 }$ -interplay: $\\mathcal { L } _ { 0 , L R }$ （20 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The LO $p ^ { 2 }$ -Lagrangian for the $S U ( 2 ) _ { R }$ -extension of the framework brings operators made of mixed products of left and right-handed objects via the covariant objects $\\widetilde { \\mathcal { O } } _ { L ( R ) }$ defined in Eq. (4),specifically from $\\widetilde { { \\mathbf V } } _ { L ( R ) } ^ { \\mu }$ ， $\\widetilde { \\mathbf { T } } _ { L \\left( R \\right) }$ and $\\widetilde { W } _ { L ( R ) } ^ { \\mu \\nu }$ definedinEqs.（7)，(nd9）spectivel In fact,the $p ^ { 2 }$ -interplaying Lagrangian for such contributions is parametrized by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { 0 , L R } = - \\frac { 1 } { 2 } \\epsilon _ { \\mu \\nu \\rho \\sigma } \\mathrm { T r } \\left( \\widetilde { W } _ { L } ^ { \\mu \\nu } \\widetilde { W } _ { R } ^ { \\rho \\sigma } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Contrary to the case of either the left or right handed strength gauge kinetic terms,the latter operator has to be maintained in the effective Lagrangian,as it can not be traded by a cuadridivergence due to the mixed fields involved in Eq. (13). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At higher orders in the momentum expansion more interactions are sourced by the local symmetry group $\\mathcal { G }$ part of them accounted by the third piece of ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ in Eq. (11), i.e. $\\Delta \\mathcal { L } _ { G F }$ ,and described in the following. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B. $\\mathfrak { s }$ extension of $\\mathcal { L } _ { 0 } ~ + ~ \\mathcal { L } _ { 0 , L R }$ ： $\\Delta \\mathcal { L } _ { S F }$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta \\mathcal { L } _ { \\mathrm { { G F } } }$ describes deviations from the LO Lagrangian $\\mathcal { L } _ { 0 } ~ + ~ \\mathcal { L } _ { 0 , L R }$ ，encoding all the possible CP-violating gauge- $h$ interactions up to $p ^ { 4 }$ -operators,and are split in here as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathcal { L } _ { Q F } = \\Delta \\mathcal { L } _ { Q F , L } + \\Delta \\mathcal { L } _ { Q F , R }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with the suffix $L ( R )$ labelling all those operators built up via the $S U ( 2 ) _ { L ( R ) }$ building blocks provided in Section $\\mathrm { I I }$ In the context of purely EW chiral effective theories coupled to a light Higgs, the first contribution to $\\Delta \\mathcal { L } _ { \\mathrm { { G F } } }$ ,i.e. $\\Delta \\mathcal { L } _ { \\mathrm { Q F } , L }$ , has already been provided in Refs. [55], whereas part of $\\Delta \\mathcal { L } _ { \\mathrm { Q F } , L }$ and $\\Delta \\mathcal { L } _ { \\mathrm { { G P } , \\it { R } } }$ were already analysed for the left-right symmetric frameworks in Refs. [48，49]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Both of the contributions in Eq. (14) can be correspondingly written down as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\Delta \\mathcal { L } _ { S P , L } = } } \\\\ { { \\displaystyle c _ { G } S _ { G } ( h ) + c _ { B } S _ { B } ( h ) + \\sum _ { i = \\{ W , 2 D \\} } c _ { i , L } S _ { i , L } ( h ) + \\sum _ { i = 1 } ^ { 1 6 } c _ { i , L } S _ { i , L } ( h ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathcal { L } _ { Q \\mathcal { F } , R } = \\sum _ { i = \\{ W , 2 D \\} } c _ { i , R } S _ { i , R } ( h ) + \\sum _ { i = 1 } ^ { 1 6 } c _ { i , R } S _ { i , R } ( h ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the coefficients $c _ { B }$ ， $c _ { G }$ and $c _ { i , \\chi }$ ，(with $\\chi$ standing for $\\chi = L , R$ ）are model-dependent constant coeficients, whilst the first three terms of $\\Delta \\mathcal { L } _ { \\mathrm { Q P } , L }$ in Eq.(15) and the first term in Eq.(16) can be jointly written as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { S } } _ { G } ( h ) = - \\frac { 1 } { 4 } g _ { s } ^ { 2 } \\epsilon ^ { \\mu \\nu \\rho \\sigma } G ^ { a \\mu \\nu } G _ { \\rho \\sigma } ^ { a } { \\mathcal { F } } _ { G } ( h ) , } } \\\\ { { \\displaystyle { \\mathcal { S } } _ { B } ( h ) = - \\frac { 1 } { 4 } g ^ { \\prime 2 } \\epsilon ^ { \\mu \\nu \\rho \\sigma } B ^ { \\mu \\nu } B _ { \\rho \\sigma } { \\mathcal { F } } _ { B } ( h ) , } } \\\\ { { \\displaystyle { \\mathcal { S } } _ { W , \\chi } ( h ) = - \\frac { 1 } { 4 } g _ { \\chi } ^ { 2 } \\epsilon _ { \\mu \\nu \\rho \\sigma } \\mathrm { T r } \\Big ( W _ { \\chi } ^ { \\mu \\nu } W _ { \\chi } ^ { \\rho \\sigma } \\Big ) { \\mathcal { F } } _ { W , \\chi } ( h ) , } } \\\\ { { \\displaystyle { \\mathcal { S } } _ { 2 D , \\chi } ( h ) = i \\frac { f _ { L } ^ { 2 } } { 4 } \\mathrm { T r } \\Big ( { \\bf T } { \\mathcal { D } } _ { \\mu } \\mathbf { V } _ { \\chi } ^ { \\mu } \\Big ) { \\mathcal { F } } _ { 2 D , \\chi } ( h ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with suffix $\\chi$ labelling again as $\\chi ~ = ~ L , R$ ，and the generic $\\mathcal { F } _ { i } ( h )$ -function of the scalar singlet $h$ is defined for all the operators following Eq. (1O). The Higgsindependent terms are physically irrelevant for operators $S _ { B } ( h )$ ， ${ \\cal S } _ { W , \\chi } ( h )$ and $S _ { 2 D } ( h )$ as the first two operators can be written in terms of a cuadridivergence and the latter one turns out to be vanishing after integration by parts. The covariant derivative ${ \\mathcal { D } } _ { \\mu }$ of a field transforming in the adjoint representation of $S U ( 2 ) _ { L }$ is defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { D } } ^ { \\mu } { \\mathbf { V } } _ { \\chi } ^ { \\nu } \\equiv \\partial ^ { \\mu } { \\mathbf { V } } _ { \\chi } ^ { \\nu } + i g _ { \\chi } \\left[ W _ { \\chi } ^ { \\mu } , { \\mathbf { V } } _ { \\chi } ^ { \\nu } \\right] , \\quad \\chi = L , R .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The complete linearly independent set of 16 CP-violating pure gauge and gauge- $\\boldsymbol { \\cdot } h$ non-linear $\\mathcal { G }$ -invariant operators and up to the $p ^ { 4 }$ -order in the effective Lagrangian expansion, are encoded by $S _ { i , L } ( h )$ (fourth term in $\\Delta \\mathcal { L } _ { \\mathrm { Q F } , L }$ Eq.(15)）and have completely been listed in Ref.[55] On the other hand, the symmetric counterpart extending the aforementioned set $S _ { i , L } ( h )$ and accounting for all the possible CP-violating pure gauge and gauge- $h$ interactions up to the $p ^ { 4 }$ -operators is described by the complete linearly independent set of 16 operators $S _ { i , R } ( h )$ (second term in $\\Delta \\mathcal { L } _ { \\mathrm { Q F } , R }$ of Eq. (16), therefore in total one has 32 non-linear operators,among the which, 20 of them $( 1 0 ~ S _ { i , L } ( h ) + 1 0 ~ S _ { i , R } ( h ) )$ had already been listed in Refs. [48,49]. In here 12 additional operators have been found (6 $S _ { i , L } ( h ) + 6 \\ S _ { i , R } ( h ) )$ and naturally promoted by the symmetries of the model (together with the $P _ { L R }$ -symmetry),such that the whole tower of operators making up the basis $\\{ S _ { i , L } ( h ) , S _ { i , R } ( h ) \\}$ is given by: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { S _ { 1 } ( \\hat { \\mathbf { x } } ) - \\delta \\alpha _ { \\mathrm { X } } \\hat { \\mathbf { \\xi } } _ { x \\in \\mathcal { X } _ { n } } \\mathbb { P } _ { t } \\bigg [ \\Gamma _ { X } \\hat { \\mathbf { v } } _ { x } ^ { \\mathrm { a r } } \\bigg ] \\mathbb { P } _ { t } \\bigg [ \\Gamma _ { X } \\hat { \\mathbf { v } } _ { x } ^ { \\mathrm { a r } } \\bigg ] \\beta ^ { \\mathrm { F } } \\mathbb { F } _ { \\mathbb { X } } ( \\hat { \\mathbf { h } } ) } \\\\ & { \\delta _ { 1 \\times \\mathcal { X } _ { n } } ( \\hat { \\mathbf { k } } ) - \\operatorname { i n } \\bigg ( \\mathbb { P } _ { t } \\overline { { X } } \\hat { \\mathbf { v } } _ { x } ^ { \\mathrm { a r } } \\big ) \\mathbb { P } _ { t } \\bigg [ \\big ( \\Gamma _ { X } \\hat { \\mathbf { v } } _ { x } ^ { \\mathrm { a r } } \\big ) \\bigg ] \\beta ^ { \\mathrm { F } } \\mathbb { I } _ { \\mathbb { X } _ { n } } ( \\hat { \\mathbf { k } } ) , } \\\\ & { \\delta _ { 1 \\times \\mathcal { X } _ { n } } ( \\hat { \\mathbf { k } } ) = \\delta \\mathrm { I n } \\bigg ( \\mathbb { P } _ { t } \\overline { { X } } \\hat { \\mathbf { v } } _ { x } ^ { \\mathrm { a r } } \\big ) \\mathbb { I } _ { \\mathbb { X } } \\bigg [ \\big ( \\mathbf { v } _ { x } ^ { \\mathrm { a r } } \\big ) \\mathbf { v } _ { x } \\bigg ] \\beta _ { 1 } ( \\hat { \\mathbf { k } } ) , } \\\\ & { S _ { 2 , x } ( \\hat { \\mathbf { k } } ) = \\delta \\mathrm { I n } \\bigg ( \\mathrm { P r } _ { x } \\overline { { \\Gamma } } _ { x } \\big ) \\mathbb { P } _ { t } \\bigg [ \\mathrm { P r } _ { x } \\mathcal { T } _ { 1 } \\big ] \\beta ^ { \\mathrm { F } } \\mathcal { I } _ { 1 } ( \\hat { \\mathbf { k } } ) , } \\\\ & { S _ { 3 , x } ( \\hat { \\mathbf { k } } ) = \\delta \\mathrm { I n } \\bigg ( \\mathrm { T r } _ { x } \\mathcal { P } _ { 0 } \\mathrm { P r } _ { x } \\big ) \\beta ^ { \\mathrm { F } } \\sigma _ { 2 } \\hat { \\mathbf { v } } _ { x } \\hat { \\mathbf { u } } ( \\hat { \\mathbf { k } } ) , } \\\\ &  S _ { 4 , x } ( \\hat { \\mathbf { k } } ) = - \\operatorname { i n } \\bigg ( \\Gamma _ { X } \\hat { \\mathbf { v } } \\nabla _ { \\mathbf { v } _ { n } } \\hat { \\mathbf { k } } \\big ) \\beta ^ { \\mathrm { F } } \\delta \\mathbf { I } _ { \\mathcal { X } _ { n } } ( \\hat { \\mathbf { k } } ) - \\delta \\mathrm { I n } \\bigg ( \\mathrm { P r } _ { x } \\mathcal { P } _ { 0 } \\hat { \\mathbf { k } } \\big  \\end{array}\n$$$$\n\\begin{array} { r l r l } & { S _ { 1 , x } ( { \\boldsymbol { b } } ) - 2 { \\boldsymbol { b } } \\widetilde { \\sigma } _ { c  \\sigma } ^ { \\prime } \\mathrm { p o r } { \\boldsymbol { p } } ^ { \\prime \\prime } \\mathrm { T } \\Big ( \\mathbf T _ { x } { \\boldsymbol { W } } _ { x } ^ { \\prime } \\Big ) { \\boldsymbol { F } } _ { 1 , x } ( { \\boldsymbol { b } } ) , } & & { S _ { 3 , x } ( { \\boldsymbol { b } } ) - 4 \\widetilde { \\sigma } _ { c  \\sigma , \\sigma , \\sigma } \\mathrm { r e f p } ^ { \\prime \\prime } \\Big ( \\mathbf T _ { x } { \\boldsymbol { W } } _ { x } ^ { \\prime } \\Big ) \\mathrm { t r } , } \\\\ & { S _ { 3 , x } ( { \\boldsymbol { b } } ) - 3 \\widetilde { \\sigma } _ { c  \\sigma , \\sigma , \\sigma } ^ { \\prime } \\mathrm { p o r } { \\boldsymbol { F } } _ { 1 , x } ^ { \\prime \\prime } \\Big [ \\mathrm { e x } _ { 1 } \\mathbf { \\overline { { \\mathbf { V } } } } _ { x } ^ { \\prime } \\Big ] \\sigma ^ { \\prime \\prime } \\sigma _ { 3 , \\sigma } ( { \\boldsymbol { b } } ) , } & & { S _ { 3 \\sigma , \\sigma , \\sigma } ( { \\boldsymbol { b } } ) - 5 \\mathrm { i f f f } \\big ( \\mathbf T _ { x } ^ { \\prime \\prime } \\boldsymbol { \\nabla } _ { x } \\boldsymbol { W } _ { x } ^ { \\prime } \\big ) \\mathrm { t r } \\Big [ \\mathrm { e } \\mathbf { T } _ { x } } \\\\ & { S _ { 3 , x } ( { \\boldsymbol { b } } ) - 3 \\mathrm { g } _ { 3 , x } \\mathrm { e } _ { \\sigma  \\sigma , \\sigma } \\mathrm { R e } _ { x } ^ { \\prime \\prime } \\Big [ ( \\mathbf T _ { x } ^ { \\prime \\prime } \\boldsymbol { \\nabla } _ { x } ^ { \\prime } ) \\sigma _ { 3 , \\sigma } ^ { \\prime } \\sigma _ { 3 , \\sigma } ( { \\boldsymbol { b } } ) , } & & { S _ { 3 , x } ( { \\boldsymbol { b } } ) - 5 \\mathrm { i f f } \\big ( \\mathbf T _ { x } ^ { \\prime \\prime } \\boldsymbol { \\nabla } _ { x } \\boldsymbol { W } _ { x } ^ { \\prime } \\big ) \\mathrm { T } \\Big ( \\mathbf { V } _ { 3 , x } ^ { \\prime } } \\\\ &  S _ { 4 , x } ( { \\boldsymbol { b } } ) - 2 \\mathrm { e x } _ { 1 } \\mathrm { e x } _ { \\sigma , \\sigma } ^ { \\prime \\prime } \\mathrm { p o r } { \\boldsymbol { F } } _ { 1 , x } ^ { \\prime } \\Big ] \\sigma _ { 3 , \\sigma , \\sigma } ^ { \\prime \\prime } \\mathrm { E } _ { x , \\sigma , \\sigma } ( \\mathbf { b } ) - 6 \\mathrm { i f f } \\big ( \\mathbf T _ { x } ^ { \\prime \\prime } \\boldsymbol { \\nabla } _ { x } ^ { \\prime } ) \\sigma _ { 3 , \\sigma , \\sigma } ^ { \\prime \\prime } \\mathrm { p o r } { \\boldsymbol { F } } _   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $W _ { \\chi } ^ { \\mu \\nu } \\equiv W _ { \\chi } ^ { \\mu \\nu , a } \\tau ^ { a } / 2$ . In red color have been highlighted all those operators already listed in the context of CP-violating EW chiral effective theories coupled to a light Higgs in Ref. [55] and not provided in the leftright symmetric EW chiral treatment of Refs. [48,49]. Notice that operators $\\{ \\boldsymbol { S } _ { 1 0 - 1 4 , \\chi } ( h )$ ， $S _ { 1 6 , \\chi } ( h ) \\}$ containing the contraction $\\mathcal { D } _ { \\mu } \\mathbf { V } _ { \\chi } ^ { \\mu }$ ， $( S _ { 1 3 - 1 4 , \\chi } ( h )$ with double derivatives of $\\mathcal { F } ( h )$ ),are not present in Refs. [48, 49],and are the resulting additional ones after extending the SM local symmetry through $S U ( 2 ) _ { R }$ ，being naturally allowed by the local symmetries of the model. Notice as well that the entire basis $S _ { i , R } ( h )$ contained in Eq.(19)(for $\\chi = R$ ）comes out just from the straightforward parity action under $P _ { L R }$ of the operators tower $S _ { i , L }$ in Ref.[55], or in other words, the whole basis $S _ { i , R } ( h )$ is mapped from $S _ { i , L } ( h )$ via $P _ { L R }$ -transformation (concerning the Goldstone boson part only, i.e before gauging the scenario). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It can be realized that the number of independent operators in the non-linear expansion turns out to be larger than for the analogous basis in the linear expansion,a generic feature when comparing both type of effective Lagrangians [58,66]. The basis is also larger than that for the chiral expansions developed in the past for the case of a very heavy Higgs particle (i.e. absent at low energies) [50-52,54], as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "i) Terms which in the absence of the $\\mathcal { F } _ { i } ( h )$ functions were shown to be equivalent via total derivatives, are now independent.   \nii） New terms including derivatives of $h$ appear. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The connection of the non-linear framework analysed in here to the effective linear scenarios explicitly implementing the SM Higgs doublet，has been done for the CP-conserving Lagrangian $\\mathcal { L } _ { \\mathrm { c h i r a l } } = \\mathcal { L } _ { 0 } + \\Delta \\mathcal { L } _ { \\mathrm { C P } , L }$ previously through [56，58]，where all the corresponding non-linear CP-conserving operators were correspondingly weighted by powers of $\\xi = v ^ { 2 } / f _ { L } ^ { 2 }$ , in order to keep track of their corresponding operator siblings in the linear side.Likewise,a similar connection to the effective linear scenarios has been done in [55] for the CP-violating nonlinear Lagrangian $\\mathcal { L } _ { \\mathrm { c h i r a l } } = \\mathcal { L } _ { 0 } + \\Delta \\mathcal { L } _ { Q F , L }$ ，where each one of the operators in the tower of Eq.(19) (for the case of $\\chi = L$ ）were weighted as well by their corresponding powers of $\\xi = v ^ { 2 } / f _ { L } ^ { 2 }$ .For the whole CP-violating Lagrangian in Eq. (11) assumed in this work, such linking between both of the EFT sides would lead to account for the corresponding left-right symmetric extension of the effective linear approaches and it is beyond the scopes of this work. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Concerning the symmetry $P _ { L R }$ mentioned in Section $\\mathrm { I I }$ , in the context of a general effective $S O ( 5 ) / S O ( 4 )$ composite Higgs model scenario [67], the discrete parity $P _ { L R }$ was shown to be an accidental symmetry up to $p ^ { 2 _ { - } }$ order and broken by several $p ^ { 4 }$ -operators.Exactly the same properties are shared by the non-linear EW bosonic $\\mathcal { G }$ -invariant scenario studied recently in [47],as it is suspected from the fact that $S U ( 2 ) _ { L } \\otimes S U ( 2 ) _ { R } \\sim S O ( 4 )$ Indeed,the corresponding LO $p ^ { 2 }$ -Lagrangian analysed there in [47],explicitly exhibited $P _ { L R }$ as an accidental symmetry of the approach (before the gauging). At higher momentum order in the Lagrangian expansion, the $p ^ { 4 }$ -operators encoded in the corresponding $\\Delta \\mathcal { L } _ { \\mathrm { C P } }$ did not break $P _ { L R }$ either.As soon as the $p ^ { 4 }$ -operators made of mixed left and right-handed covariant structures were called in,non-zero contributions appeared to be triggering the breaking of $P _ { L R }$ (see [47] for more details). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Up to now all the possible CP non-invariant pure gauge and gauge- $h$ interactions allowed by the local $\\mathcal { G }$ symmetry have been encoded up to the $p ^ { 4 }$ -non-linear operators contribution in the first three pieces of ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ in Eq. (11),i.e. in $\\mathcal { L } _ { 0 } + \\mathcal { L } _ { 0 , L R } + \\Delta \\mathcal { L } _ { Q F }$ through Eqs.(12)- (19).In the following section the $S U ( 2 ) _ { L } - S U ( 2 ) _ { R }$ interplay between both of the symmetries is faced by accounting for all the possible left-right symmetric CPbreaking interactions up to the $p ^ { 4 }$ -order in the chiral Lagrangian ${ \\mathcal { L } } _ { \\mathrm { c h i r a l } }$ and parametrized by the remaining piece in Eq. (11), i.e. △LCP,LR: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C. SU(2)L - SU(2)R interplay: △LP,LR ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theimplementationof thecovariantjetsV() $\\widetilde { \\mathbf { T } } _ { L ( R ) }$ and $\\widetilde { W } _ { L ( R ) } ^ { \\mu \\nu }$ giveninEs.（7)(dr tively,allows to build up the complete basis of independent CP-violating operators accounting for the mixing between $S U ( 2 ) _ { L }$ and $S U ( 2 ) _ { R }$ covariant structures,and can be encoded as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathcal { L } _ { G P , L R } = c _ { W , L R } S _ { W , L R } ( h ) \\ + \\ \\sum _ { i = 3 , i \\neq 1 3 , 1 4 } ^ { 1 6 } c _ { i ( j ) , L R } S _ { i ( j ) , L R } ( h ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the index $j$ spans over all the possible operators that can be built up from each $S _ { i , \\chi } ( h )$ in Eq. (19),and here labelled as $S _ { i ( j ) , L R } ( h )$ (as well as their corresponding coefficients $c _ { i ( j ) , L R } )$ ，whilst the first term in $\\Delta \\mathcal { L } _ { \\mathrm { C F } , L R }$ （204号 encodes the operator ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { W , L R } ( h ) \\ = - \\frac { 1 } { 2 } g _ { L } g _ { R } \\epsilon _ { \\mu \\nu \\rho \\sigma } \\mathrm { T r } \\left( \\widetilde { W } _ { L } ^ { \\mu \\nu } \\widetilde { W } _ { R } ^ { \\rho \\sigma } \\right) \\mathcal { F } _ { W , L R } ( h )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The complete set of operators $S _ { i ( j ) , L R } ( h )$ in the second term of $\\Delta \\mathcal { L } _ { \\mathrm { C F } , L R }$ are listed as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { \\mathrm {  ~ \\xi ~ } _ { \\mathrm { 1 0 } } ^ { ( h ) } ( h ) = i g _ { L } \\epsilon _ { \\mu \\nu \\rho \\sigma } \\mathrm { T r } \\left( \\widetilde { W } _ { L } ^ { \\mu \\nu } \\widetilde { \\mathbf { V } } _ { R } ^ { \\rho } \\right) \\partial ^ { \\sigma } \\mathcal { F } _ { 3 ( 1 ) } ( h ) , } & { S _ { 9 ( 2 ) } ( h ) = i g _ { R } \\epsilon _ { \\mu \\nu \\rho \\sigma } \\mathrm { T r } \\left( \\widetilde { \\mathbf { T } } _ { R } \\widetilde { W } _ { R } ^ { \\mu \\nu } \\right) \\mathrm { T r } \\left( \\widetilde { \\mathbf { T } } _ { R } \\widetilde { \\mathbf { V } } _ { R } ^ { \\rho } \\right) } \\\\ & { \\mathrm {  ~ \\xi ~ } _ { \\mathrm { 2 0 } } ^ { ( h ) } ( h ) = i g _ { R } \\epsilon _ { \\mu \\nu \\rho \\sigma } \\mathrm { T r } \\left( \\widetilde { W } _ { R } ^ { \\mu \\nu } \\widetilde { \\mathbf { V } } _ { L } ^ { \\rho } \\right) \\partial ^ { \\sigma } \\mathcal { F } _ { 3 ( 2 ) } ( h ) , } & { S _ { 1 0 ( 1 ) } ( h ) = i \\mathrm { T r } \\left( \\widetilde { \\mathbf { V } } _ { L } ^ { \\mu } \\mathcal { D } _ { \\nu } \\widetilde { \\mathbf { V } } _ { L } ^ { \\nu } \\right) \\mathrm { T r } \\left( \\widetilde { \\mathbf { T } } _ { R } \\widetilde { \\mathbf { V } } _ { R } ^ { \\rho } \\right) } \\\\ & { \\mathrm {  ~ \\xi ~ } _ { \\mathrm { 1 0 } } ^ { ( h ) } = g _ { L } \\mathrm { T r } \\left( \\widetilde { W } _ { L } ^ { \\mu \\nu } \\widetilde { \\mathbf { V } } _ { \\mu , L } \\right) \\mathrm { T r } \\left( \\widetilde { \\mathbf { T } } _ { R } \\widetilde { \\mathbf { V } } _ { \\nu , R } \\right) \\mathcal { F } _ { 4 ( 1 ) } ( h ) , } & { S _ { 1 0 ( 2 ) } ( h ) = i \\mathrm { T r } \\left( \\widetilde { \\mathbf { V } } _ { R } ^ { \\mu } \\mathcal { D } _ { \\nu } \\widetilde { \\mathbf { V } } _ { R } ^ { \\nu } \\right) \\mathrm { T r } \\left( \\widetilde { \\mathbf { T } } _ { L } \\widetilde { \\mathbf { V } } _ { R } ^ { \\rho } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r l r l } & { S _ { \\mu , \\nu , \\lambda } : S _ { \\nu , \\lambda } : = \\frac { \\gamma _ { \\nu } ( \\overline { { S } } ^ { \\nu } ) } { \\gamma _ { \\lambda } } , \\nabla _ { x , \\lambda } \\times \\overline { { S } } _ { \\nu , \\lambda } : \\mathcal { F } _ { \\nu , \\nabla _ { x , \\lambda } } , \\mathcal { F } _ { \\nu , \\nabla _ { x , \\lambda } } , \\mathcal { F } _ { \\nu , \\nabla _ { x , \\lambda } } , \\mathcal { F } _ { \\nu , \\nabla _ { x , \\lambda } } , } & & { \\mathcal { F } _ { \\nu , \\nu , \\lambda } \\langle \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\rangle } \\\\ & { S _ { \\nu , \\nu , \\lambda } : S _ { \\nu , \\nu , \\lambda } : = \\frac { \\gamma _ { \\nu } ( \\overline { { S } } ^ { \\nu } ) } { \\gamma _ { \\lambda } } \\langle \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\rangle \\int _ { \\mathbb { R } } \\langle \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\nabla _ { x } \\rangle \\int _ { \\mathbb { R } } \\langle \\hat { \\textbf { e } } _ { \\mathbb { R } } \\hat { \\textbf { e } } _ { \\mathbb { R } } \\hat { \\textbf { e } } _ { \\mathbb { R } } \\hat { \\textbf { e } } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } } \\\\ & { S _ { \\nu , \\nu , \\lambda } : S _ { \\nu , \\nu , \\lambda } : \\mathbb { E } [ \\mathcal { F } _ { \\nu , \\overline { { S } } ^ { \\nu } \\nabla _ { x , \\lambda } } \\nabla _ { x } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } , } & &  \\delta _ { \\nu , \\nu } \\rho _ { \\nu , \\lambda } : \\nabla _ { x } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _ { \\mathbb { R } } \\hat { e } _   \\end{array}$ Tr (T[ Vμ,L) F10(3)(h), Tr (TRVμ,R) F10(4)(h), Tr(TRVμ,R) F10(5)(h), Tr(T[ Vμ,L) F10(6)(h), Tr (VRVv,R) F(1)(h),   \n（24号 $\\begin{array} { r l r l } & { \\mathrm { S y s u b s \\ - 1 . } \\ \\gamma \\leq \\alpha _ { 2 } \\leq \\alpha _ { 3 } > \\alpha _ { 3 } < 1 \\ ( \\beta + \\gamma _ { 1 } < \\gamma _ { 2 } ) \\leq \\alpha _ { 2 } \\leq \\beta _ { 3 } < \\gamma < \\beta _ { 4 } , } & & { \\ e _ { 1 , \\leq \\beta + \\gamma _ { 1 } - \\gamma } = \\gamma \\leq \\alpha _ { 3 } < \\beta _ { 4 } , } \\\\ & { \\leq \\beta _ { 4 } < \\alpha _ { 3 } < \\gamma > \\alpha _ { 3 } \\geq \\gamma < \\gamma > \\alpha _ { 3 } < \\gamma > \\alpha _ { 4 } , } & & { \\delta _ { 4 } < \\alpha _ { 3 } = ( \\beta - \\gamma _ { 1 } > \\gamma ) < \\alpha _ { 3 } \\geq \\gamma < \\beta _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } < \\gamma > \\alpha _ { 3 } \\leq \\gamma > \\alpha _ { 4 } , } & & { \\delta _ { 4 } < \\alpha _ { 3 } < ( \\gamma > \\alpha _ { 3 } ) < \\gamma > \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } \\leq \\gamma > \\alpha _ { 4 } , } & & { \\delta _ { 4 } < \\alpha _ { 4 } < ( \\gamma > \\alpha _ { 3 } ) < \\gamma > \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } \\leq \\gamma > \\alpha _ { 4 } , } & & { \\delta _ { 4 } > \\alpha _ { 4 } < \\gamma < \\beta _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } \\leq \\gamma > \\alpha _ { 4 } \\leq \\gamma > \\alpha _ { 4 } , } & & { \\delta _ { 4 } < \\alpha _ { 4 } < ( \\gamma > \\alpha _ { 4 } ) < \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } , } & & { \\gamma > \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } , } & & { \\gamma > \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } < \\gamma > \\alpha _ { 4 } , } & & { \\gamma > \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\gamma > \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } \\leq \\gamma < \\gamma > \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ & { \\leq \\alpha _ { 4 } \\leq \\gamma > \\alpha _ { 4 } \\leq \\gamma > \\alpha _ { 4 } \\leq \\gamma < \\alpha _ { 4 } , } \\\\ &  \\leq \\alpha _  4  \\end{array}$ $\\begin{array} { r l } & { \\delta _ { \\mathbf { k } \\neq \\mathbf { k } } = \\mathcal { \\{ S } } _ { \\mathbf { k } } ( \\mathbf { r } _ { 1 } ^ { \\prime } , \\mathbf { N } ) \\times \\widetilde { \\mathbf { r } } _ { 1 } ^ { \\prime } \\widetilde { \\mathbf { N } } \\leq \\widetilde { \\mathbf { r } } \\leq \\mathbf { k } , \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 1 } ^ { \\prime } ,  \\\\ & { \\delta _ { \\mathbf { k } \\neq \\mathbf { k } } = \\mathcal { \\{ S } } _ { \\mathbf { k } } \\left( \\mathbf { r } _ { 1 } \\Delta \\mathbf { r } _ { 1 } ^ { \\prime } \\right) \\times \\left( \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 2 } \\right) ^ { 2 } \\nu \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 1 } \\sim \\mathcal { S } _ { \\mathbf { k } } \\times \\mathbf { r } _ { 1 }  \\\\ & { \\mathrm { ~ c o s e ~ \\mathcal { } } \\mathcal { ~ N } \\left( \\mathbf { r } _ { 1 } \\Delta \\mathbf { r } _ { 2 } ^ { \\prime } \\right) \\times \\widetilde { \\mathbf { r } } \\left( \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 2 } \\right) ^ { 2 } \\nu \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 1 } \\sim \\mathcal { S } _ { \\mathbf { k } } } \\\\ & { \\delta _ { \\mathbf { k } \\neq \\mathbf { k } } = \\mathcal { \\{ S } } _ { \\mathbf { k } } \\left( \\mathbf { r } _ { 2 } ^ { \\prime } \\Delta \\mathbf { r } _ { 1 } ^ { \\prime } \\right) \\times \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 2 } ^ { \\prime } \\left( \\widetilde { \\mathbf { k } } \\times \\mathbf { r } _ { 2 } ^ { \\prime } \\right) ^ { 2 } \\nu \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 1 } \\sim \\mathcal { S } _ { \\mathbf { k } }  \\\\ & { \\delta _ { \\mathbf { k } \\neq \\mathbf { k } } = \\mathcal { \\{ S } } _ { \\mathbf { k } } \\left( \\mathbf { r } _ { 2 } ^ { \\prime } \\Delta \\mathbf { r } _ { 1 } ^ { \\prime } \\Delta \\mathbf { r } _ { 2 } ^ { \\prime } \\right) \\times \\widetilde { \\mathbf { r } } \\leq \\mathbf { r } _ { 2 } ^ { \\prime } \\left( \\mathbf { r } _ { 2 } ^ { \\prime } \\Delta \\mathbf { r } _ { 2 } ^ { \\prime } \\right)  \\\\ & { \\delta _ { \\mathbf { k } \\neq \\mathbf { k } } \\left( \\mathbf { r } _ { 1 } \\Delta \\mathbf { r } _ { 2 } ^ { \\prime } \\right) \\times \\widetilde { \\mathbf { r } } \\left( \\mathbf { r } _ { 1 } \\Delta \\mathbf { r } _ { 1 } ^ { \\prime } \\right) \\times \\widetilde { \\mathbf { r } } \\left( \\mathbf { r } _ { 2 } ^ { \\prime } \\Delta \\mathbf { r } _ { 1 } ^ { \\prime } \\right) } \\\\ &  \\delta _  \\mathbf { k } \\neq \\mathbf  k  \\end{array}$ （20   \n（2 ， Tr(T[V) Tr (TR Vv,R) F16(4)(h),   \nS9(1)(h)=igL ∈μvpTr (TL WL)Tr(TRVR) dFg(1)(h), (93) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the suffix $L R$ in all $S _ { i ( j ) , L R } ( h )$ and their corresponding $\\mathcal { F } _ { i ( j ) , L R } ( h )$ has been omitted as well. Among the total 43 operators $S _ { i ( j ) , L R } ( h )$ listed in Eqs. (22)-(23), 16 operators (highlighted in red color again）are missingin the left-right symmetric EW chiral treatment of Refs. [48, 49]. Through the operators tower in Eqs. (22)- (23) the definition for $\\mathcal { D } _ { \\mu } \\tilde { \\mathbf { V } } _ { L ( R ) } ^ { \\mu }$ follows a similar one as ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "in Eq. (4) ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { D } _ { \\mu } \\widetilde { { \\mathbf { V } } } _ { L ( R ) } ^ { \\mu } \\equiv { \\mathbf { U } } _ { L ( R ) } ^ { \\dagger } \\mathcal { D } _ { \\mu } { \\mathbf { V } } _ { L ( R ) } ^ { \\mu } { \\mathbf { U } } _ { L ( R ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $D ^ { \\mu } { \\mathbf { V } } _ { L ( R ) } ^ { \\nu }$ has been defined in Eq.(18). Notice that operators $S _ { 1 0 ( 1 - 6 ) } ( h )$ ， $S _ { 1 1 ( 1 - 4 ) } ( h )$ and $S _ { 1 6 ( 1 - 4 ) } ( h )$ containing the contraction $\\mathcal { D } _ { \\mu } { \\mathbf { V } } _ { L ( R ) } ^ { \\mu }$ ，whereas $S _ { 1 2 ( 1 - 2 ) } ( h )$ involving one derivative of $\\mathcal { F } ( h )$ ,are not present in [48, 49] and are the resulting additional ones from the allowed $S U ( 2 ) _ { L } – S U ( 2 ) _ { R }$ interplay of $\\Delta \\mathcal { L } _ { \\mathrm { { G P } , \\it { L R } } }$ ，together with the $P _ { L R }$ -symmetry. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/12ca49932f88134d48126880d7545a5288a758db9564aaf50c7ac0fae9d38be2.jpg",
+        "table_caption": [
+            "TABLE I: $P _ { L R }$ -symmetry acting over a subset of operators from $\\Delta \\mathcal { L } _ { \\mathcal { E } \\mathcal { S } , L R }$ inEqs.(22)-(23).The rest of the operators from CP,LRnot listed here are PLR-even.For the CP_ violating case，there are no operators explicitly breaking $P _ { L R }$ although some non-linear CP-conserving $p ^ { 4 }$ -operatorswill trigger its breaking [47]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">PLRsymmetry</td></tr><tr><td>S5(1,3,5)(h)</td><td>S5(2,4,6)(h)</td></tr><tr><td>S6(1,3)(h)</td><td>S6(2,4) (h)</td></tr><tr><td>S10(1,3,5)(h)</td><td>S10(2,4,6) (h)</td></tr><tr><td>S11(1,3) (h)</td><td>S11(2,4)(h)</td></tr><tr><td>S12(1) (h)</td><td>S12(2)(h)</td></tr><tr><td>S15(1,3) (h)</td><td>S15(2,4) (h)</td></tr><tr><td>S16(1,3)(h)</td><td>S16(2,4) (h)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The interplaying CP-breaking non-linear operators listed in Eqs. (22)-(23),can be catalogued as: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a) $S _ { 3 ( 1 - 2 ) } ( h ) , \\quad S _ { 4 ( 1 - 6 ) } ( h ) , \\quad S _ { 5 ( 1 - 6 ) } ( h ) , \\quad S _ { 6 ( 1 - 4 ) } ( h )$ $S _ { 7 ( 1 - 2 ) } ( h )$ ， $S _ { 8 ( 1 ) } ( h )$ and $S _ { 9 ( 1 - 2 ) } ( h )$ coming from a direct extension of the original AppelquistLonghitano chiral Higgsless basis already considered in [50-54] (for the CP-breaking sector)，coupled to the light Higgs $\\mathcal { F } ( h )$ insertions,and after applying the discrete parity $P _ { L R }$ ：   \nb) $S _ { 1 0 ( 1 - 6 ) } ( h )$ ， $S _ { 1 1 ( 1 - 4 ) } ( h )$ and $S _ { 1 6 ( 1 - 4 ) } ( h )$ containing the contraction $\\mathcal { D } _ { \\mu } \\mathbf { V } _ { \\chi } ^ { \\mu }$ and no derivative couplings from $\\mathcal { F } ( h )$ ：   \nc) $S _ { 3 ( 1 - 2 ) } ( h ) , \\quad S _ { 5 ( 1 - 6 ) } ( h ) , \\quad S _ { 6 ( 1 - 4 ) } ( h ) , \\quad S _ { 7 ( 1 - 2 ) } ( h )$ （20 $S _ { 9 ( 1 - 2 ) } ( h )$ ， $S _ { 1 2 ( 1 - 2 ) } ( h )$ and $S _ { 1 5 ( 1 - 4 ) } ( h )$ with one derivative coupling from $\\mathcal { F } ( h )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Finally, the transformation properties under the parity symmetry $P _ { L R }$ of some of the operators from $\\Delta \\mathcal { L } _ { \\mathrm { Q F } , L R }$ in Eqs. (22)-(23) are exhibited in the Table I, with the operators not collected in there transforming as $P _ { L R ^ { - } }$ even. Compact notation $S _ { i ( j , k , l ) , L R } ( h )$ in the left column stands for operators $S _ { i ( j ) , L R } ( h )$ ， $S _ { i ( k ) , L R } ( h )$ ， $S _ { i ( l ) , L R } ( h )$ reflected to $S _ { i ( m ) , L R } ( h )$ ， $S _ { i ( n ) , L R } ( h ) { \\ S } _ { i ( p ) , L R } ( h )$ (or vice versa）respectively,and collected by the operator notation $S _ { i ( m , n , p ) , L R } ( h )$ in the right column.As it can be noticed,the $P _ { L R }$ still holds as an accidental symmetry up tp $p ^ { 4 }$ -contributions in the Lagrangian expansion. Conversely, some non-linear CP-conserving $p ^ { 4 }$ -operators will trigger its breaking explicitly [47],as it was expected from the general composite Higgs models grounds [67, 68]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Some of the CP non-conserving bosonic operators provided above can be directly translated into pure bosonic operators plus fermionic-bosonic ones.In fact，some of the operators in Eq. (19) (for the case of $\\chi = L$ )had not been explored,but traded instead by fermionic ones via the equations of motion [61]. Such connection can be established through the covariant derivative $\\mathcal { D } _ { \\mu } \\mathbf { V } _ { \\chi } ^ { \\mu }$ and the corresponding equation of motion (EOM） for the light Higgs field,as it has been described in the non-linear left-right CP-conserving treatment of Ref. [47]. Following the same reasoning line as in [47],it is inferred that · Forthemasslessfermion case, operators $\\{ S _ { 1 0 - 1 2 , R } ( h ) , S _ { 1 4 , R } ( h ) , S _ { 1 6 , R } ( h ) \\}$ with the contraction $\\mathcal { D } _ { \\mu } \\mathbf { V } _ { R } ^ { \\mu }$ in Eq. (19)，can be traded by pure bosonic operators contained in $\\Delta \\mathcal { L } _ { G F }$ (Eq.(19))， some of them with the structure （204号 $\\mathcal { D } _ { \\mu } \\mathbf { V } _ { L } ^ { \\mu }$ ，and therefore they can be disregarded from the final operator basis in $\\Delta \\mathcal { L } _ { \\mathrm { { G F } } }$ .Similar feature appliesfor the operators $S _ { 1 0 ( 1 - 6 ) } ( h )$ （204号 $S _ { 1 1 ( 1 - 4 ) } ( h ) , ~ S _ { 1 2 ( 1 - 2 ) } ( h )$ ，and $S _ { 1 6 ( 1 - 4 ) } ( h )$ from （204号 $\\Delta \\mathcal { L } _ { \\mathcal { S } \\mathcal { F } , L R }$ (Eqs.(22)-(23)).In general, for the massive fermion case,all the previous operators have to be retained in the final basis. · For the vanishing fermion case,operator $S _ { 1 3 , R } ( h )$ with double derivatives of $\\mathcal { F } ( h )$ in Eq.(19)is rewritable in terms of bosonic operators,with some of them contained in $\\Delta \\mathcal { L } _ { \\mathrm { { G F } } }$ and others in （204号 $\\Delta \\mathcal { L } _ { \\mathrm { C F } , L R }$ ， and thus can be disregarded from the final operator basis. No operators from $\\Delta \\mathcal { L } _ { \\mathrm { Q P } , L R }$ （204号 (Eqs. (22)-(23))are trade-able to bosonic operators as there is no double derivative couplings of $\\mathcal { F } ( h )$ in $\\Delta \\mathcal { L } _ { \\mathrm { Q F } , L R }$ . When fermion masses are switched on, $S _ { 1 3 , R } ( h )$ is physical and it has to be included in the final basis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D.Integrating-out heavy right handed fields ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is possible to integrate out the right handed gauge fields from the physical spectrum via the equations of motion for the strength gauge fields $W _ { R } ^ { \\mu , a }$ as it was done for the CP-conserving case in [47,69]. A nontrivial EOM for the CP-violating case is obtained by including the analogous right handed counterparts for the strength kinetic and custodial conserving terms of $\\mathcal { L } _ { 0 }$ in (12)，together with the mixing effects from the term $c _ { C , L R } \\mathcal { P } _ { C , L R } ( h )$ ，with $c _ { C , L R }$ the coefficient for the CP-conserving left-right operator $\\mathcal { P } _ { C , L R } ( h ) \\ =$ $- \\textstyle { \\frac { 1 } { 2 } } f _ { L } f _ { R } \\operatorname { T r } \\left( \\widetilde { { \\mathbf V } } _ { L } ^ { \\mu } \\widetilde { { \\mathbf V } } _ { \\mu , R } \\right) { \\mathcal F } _ { C , L R } ( h )$ .By accounting for these contributions it is obtained then ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf V } _ { R } ^ { \\mu } \\equiv - \\epsilon { \\bf V } _ { L } ^ { \\mu } , \\qquad \\mathrm { w i t h } \\qquad \\epsilon \\equiv \\frac { f _ { L } } { f _ { R } } c _ { C , L R } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The latter relation can be translated into the unitary gauge as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { W _ { \\mu , R } ^ { \\pm } } } & { { \\Rightarrow } } & { { - \\displaystyle \\frac { g _ { L } } { g _ { R } } \\epsilon W _ { \\mu , L } ^ { \\pm } , } } \\\\ { { W _ { \\mu , R } ^ { 3 } } } & { { \\Rightarrow } } & { { \\displaystyle \\frac { g ^ { \\prime } } { g _ { R } } \\left( 1 + \\epsilon \\right) B _ { \\mu } - \\displaystyle \\frac { g _ { L } } { g _ { R } } \\epsilon W _ { \\mu , L } ^ { 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "By replacing the Eq. (25) through (16)-(19)(for $\\chi = R$ ） and (2O)-(23),all the right handed and left-right operators will collapse onto the left ones,affecting the corresponding global coefficients $c _ { i , L }$ in a generic manner as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { i , L } \\implies \\tilde { c } _ { i , L } = c _ { i , L } + \\sum _ { k = 1 } ^ { 4 } \\epsilon ^ { k } \\mathcal { F } ^ { ( k ) } \\left( c _ { i , R } , c _ { i ( j ) } , c _ { l ( m ) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where the functions $\\mathcal { F } ^ { ( k ) } \\left( c _ { i , R } , c _ { i ( j ) } , c _ { l ( m ) } \\right)$ will encode linear combinations on the coefficients $c _ { i , R }$ ， $c _ { i ( j ) }$ and additional mixing left-right operators via $c _ { l ( m ) }$ . The number of fields $\\mathbf { V } _ { R } ^ { \\mu }$ through each one of the right and leftright operators determines the $f _ { L } / f _ { R }$ -suppression for the contributions induced onto the left handed operators. Consequently, in the limiting case $f _ { L } \\ll f _ { R }$ at low energies,it is realized that the set of non-linear operators ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ S _ { B } ( h ) , S _ { 2 D , L } ( h ) , S _ { 2 , L } ( h ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "is sensitive to the contributions,up to the order $\\mathcal { O } ( \\epsilon )$ . from the right handed operators ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ S _ { W , R } ( h ) , S _ { 1 , R } ( h ) , S _ { 8 , R } ( h ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and the mixing left-right set ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ S _ { 2 D , L R } ( h ) , S _ { 9 ( 2 ) } ( h ) \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It can also be realized that the CP-violating selfcouplings of the electroweak gauge bosons will be sensitive only to the left handed operators at low energies.In fact， following Ref.[7O],the CP-odd sector of the Lagrangian that describes triple gauge boson vertices (TGVs) can be parametrised as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } &  \\mathcal { L } _ { \\mathrm { e f f } , Q \\bar { \\Psi } ^ { \\nu } } ^ { W W V } = g _ { W W V } \\Bigg ( \\begin{array} { c } { g _ { 4 } ^ { V } W _ { \\mu } ^ { \\dagger } W _ { \\nu } ( \\partial ^ { \\mu } V ^ { \\nu } + \\partial ^ { \\nu } V ^ { \\mu } ) - i \\tilde { \\kappa } _ { V } W _ { \\mu } ^ { \\dagger } W _ { \\nu } \\tilde { V } ^ { \\mu \\nu } - i \\frac { \\tilde { \\lambda } _ { V } } { M _ { W } ^ { 2 } } W _ { \\sigma \\mu } ^ { \\dagger } W _ { \\nu } ^ { \\mu } \\tilde { V } ^ { \\nu \\sigma } } \\\\ { + \\tilde { g } _ { 6 } ^ { V } ( W _ { \\nu } ^ { \\dagger } \\partial _ { \\mu } W ^ { \\mu } + W _ { \\nu } \\partial _ { \\mu } W ^ { \\dagger \\mu } ) V ^ { \\nu } + \\tilde { g } _ { 7 } ^ { V } W _ { \\mu } ^ { \\dagger } W ^ { \\mu } \\partial ^ { \\nu } V _ { \\nu } \\Bigg ) , } \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $V \\equiv \\{ \\gamma , Z \\}$ and $g _ { W W \\gamma } \\equiv e$ ， $g _ { W W Z } \\equiv e c _ { W } / s _ { W }$ ， with $W _ { \\mu \\nu } ^ { \\pm }$ and $V _ { \\mu \\nu }$ standing for the kinetic part of the implied gauge field strengths. The dual field-tensor of any field strength $V _ { \\mu \\nu }$ is defined as $\\tilde { V } ^ { \\mu \\nu } \\equiv { \\textstyle \\frac { 1 } { 2 } } \\epsilon ^ { \\mu \\nu \\rho \\sigma } V _ { \\rho \\sigma }$ .The compact notation $c _ { W } \\equiv \\cos \\theta _ { W }$ and $s _ { W } \\equiv \\sin \\theta _ { W }$ is implicit，with $\\theta _ { W }$ the Weinberg angle. In writing_Eq. (31) we have introduced the coefficients $\\tilde { g } _ { 6 } ^ { V }$ and $\\tilde { g } _ { 7 } ^ { V }$ associated to operators that contain the contraction $\\mathcal { D } _ { \\mu } \\mathbf { V } ^ { \\mu }$ ; its $\\partial _ { \\mu } { \\mathbf { V } } ^ { \\mu }$ part vanishes only for on-shell gauge bosons; in all generality $\\mathcal { D } _ { \\mu } \\mathbf { V } ^ { \\mu }$ insertions could only be disregarded in the present context when fermion masses are neglected. In the SM all couplings in Eq. (31) vanish. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Electromagnetic gauge invariance requires $g _ { 4 } ^ { \\gamma } ~ = ~ 0$ ， while $\\tilde { g } _ { 6 } ^ { \\gamma } = \\tilde { g } _ { 7 } ^ { \\gamma } = \\tilde { \\lambda } _ { \\gamma } = \\tilde { \\lambda } _ { Z } = 0$ .All the other effective couplings in (31） are given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l } { { \\displaystyle { \\tilde { \\kappa } _ { \\gamma } = - \\frac { 4 e ^ { 2 } } { s _ { W } ^ { 2 } } \\left( c _ { 1 , L } + 2 c _ { 8 , L } \\right) , } } } & { { \\displaystyle { \\tilde { \\kappa } _ { Z } = \\frac { 4 e ^ { 2 } } { c _ { W } ^ { 2 } } \\left( c _ { 1 , L } - 2 \\frac { c _ { W } ^ { 2 } } { s _ { W } ^ { 2 } } c _ { 8 , L } \\right) } } } \\\\ { { } } & { { \\displaystyle g _ { 4 } ^ { Z } = \\frac { e ^ { 2 } } { 2 c _ { W } ^ { 2 } s _ { W } ^ { 2 } } c _ { 4 , L } , \\qquad \\quad \\tilde { g } _ { 6 } ^ { Z } = \\frac { e ^ { 2 } } { 2 c _ { W } ^ { 2 } s _ { W } ^ { 2 } } \\left( c _ { 4 , L } + c _ { 1 0 , L } \\right) , } } \\\\ { { } } & { { \\displaystyle \\tilde { g } _ { 7 } ^ { Z } = - \\frac { e ^ { 2 } } { 2 c _ { W } ^ { 2 } s _ { W } ^ { 2 } } \\left( c _ { 4 , L } - 2 c _ { 1 1 , L } \\right) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An additional contribution to the $Z Z Z$ vertex arises out ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "from the operators $S _ { 1 0 - 1 1 , L } ( h )$ and ${ \\cal S } _ { 6 , L } ( h )$ as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { \\mathrm { e f f } , , C { \\bf F } } ^ { 3 Z } = \\tilde { g } _ { 3 Z } Z _ { \\mu } Z ^ { \\mu } \\partial _ { \\nu } Z ^ { \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widetilde g } _ { 3 Z } = { \\frac { e ^ { 3 } } { 2 c _ { W } ^ { 3 } s _ { W } ^ { 3 } } } \\left( c _ { 1 0 , L } + c _ { 1 1 , L } + 2 c _ { 1 6 , L } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "which,alike to the phenomenological couplings $\\tilde { g } _ { 6 } ^ { V }$ and （204号 $\\tilde { g } _ { 7 } ^ { V }$ in Eq. (31)，vanishes for on-shell $Z$ bosons and in general can be disregarded in the present context when the masses of fermions coupling to the $Z$ are neglected. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The coupling $\\tilde { \\kappa } _ { \\gamma }$ induces one-loop contributions to the fermion electric dipole moments (EDMs),the which are generically the best windows on BSM sources of CPviolation,due to the combination of the very stringent experimental bounds with the fact that they tend to be almost free from SM background contributions.The amplitude corresponding to the one-loop fermionic EDM can beparametrised as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { A } _ { f } \\equiv - i d _ { f } \\overline { { { u } } } \\left( p _ { 2 } \\right) \\sigma _ { \\mu \\nu } q ^ { \\nu } \\gamma ^ { 5 } u \\left( p _ { 1 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $d _ { f }$ denotes the fermionic EDM strength. The $1 -$ loop integral diverges logarithmically3;assuming a physical cut-off $\\Lambda _ { s }$ for the high energy BSM theory, following the generic computation in Ref. [72] and implementing the coupling $\\ddot { \\kappa } _ { \\gamma }$ in (32),we obtain the EDM coefficient ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { f } = \\left( c _ { 1 , L } + 2 c _ { 8 , L } \\right) \\frac { e ^ { 3 } G _ { F } T _ { 3 L } } { \\sqrt 2 \\pi ^ { 2 } s _ { W } ^ { 2 } } m _ { f } \\left[ \\log \\left( \\frac { \\Lambda _ { s } ^ { 2 } } { M _ { W } ^ { 2 } } \\right) + \\mathcal { O } ( 1 ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { 3 L }$ stands for the fermion weak isospin and $G _ { F }$ the Fermi coupling constant.The present experimental bound on the electron EDM [73] $\\lvert d _ { e } / e \\rvert < 8 . 7 \\times 1 0 ^ { - 2 9 }$ cm at $9 0 \\%$ CL，and the corresponding one for the neutron [74] $| d _ { n } / e | < 2 . 9 \\times 1 0 ^ { - 2 6 } \\mathrm { c }$ n at 90% CL4,entails thena limit5 ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| ( c _ { 1 , L } + 2 c _ { 8 , L } ) \\left[ \\log \\left( \\frac { \\Lambda _ { s } ^ { 2 } } { M _ { W } ^ { 2 } } \\right) + \\mathcal { O } ( 1 ) \\right] \\right| < 5 . 2 ( 2 . 8 ) \\times 1 0 ^ { - 5 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Direct constraints on CP-violating effects in the $W W Z$ vertex can be imposed by combining the results using theLEP collaboration studies on the observation of the angular distribution of $W ^ { \\prime } s$ and their decay products in $W W$ production at LEPII [76-78]. Such combination yields the $1 \\sigma$ (68% CL） constraints [55] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 1 . 8 \\le c _ { 4 , L } \\le - 0 . 5 0 , \\quad - 0 . 2 9 \\le c _ { 1 , L } - 2 \\frac { c _ { W } ^ { 2 } } { s _ { W } ^ { 2 } } c _ { 8 , L } \\le - 0 . 1 3 .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effective CP-violating $h V V$ -couplings turns out to be also affected in the framework.In particular the vertex $h Z Z$ can be parametrized as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { \\mathrm { e f f } , C { \\mathcal P } } ^ { h V V } \\supset \\tilde { g } _ { H Z Z } h Z _ { \\mu \\nu } \\tilde { Z } ^ { \\mu \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "witha treelevel contribution ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { 1 } = 2 i , \\qquad d _ { 2 } = - 2 i f _ { L } \\tilde { g } _ { H Z Z } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "with $f _ { L }$ the EW scale and $\\sigma _ { 1 }$ ( $o _ { 2 }$ ）the corresponding cross section for the process $h  Z Z$ when $d _ { 1 } = 1$ （ $d _ { 2 } = 1$ ） and $d _ { 2 } = 0$ （ $d _ { 1 } = 1$ ).For $M _ { h } = 1 2 5 . 6$ GeV,g = 6.36. In Ref. [79] $f _ { d _ { 2 } }$ was fitted as one of the parameters of the multivariable analysis,obtaining the measured value $f _ { d _ { 2 } } ~ = ~ 0 . 0 0 _ { - 0 . 0 0 } ^ { + 0 . 1 7 }$ ，implying then $\\begin{array} { r l r } { \\frac { | d _ { 2 } | } { | d _ { 1 } | } ~ = ~ } & { { } 0 . 0 0 _ { - 0 . 0 0 } ^ { + 1 . 1 4 } } \\end{array}$ and pointing to the CP-even nature of the state. Furthermore, $9 5 \\%$ CL exclusion bounds on $f _ { d _ { 2 } }$ were derived as $f _ { d _ { 2 } } ~ < ~ 0 . 5 1$ ， entailing thus $\\textstyle { \\frac { | d _ { 2 } | } { | d _ { 1 } | } } ~ < ~ 2 . 5 7$ .We can directly translate these bounds to $6 8 ( 9 5 ) \\%$ CL constraints on the coefficients of the relevant CP-violating operators through the coupling in (41） as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { f _ { L } c _ { W } ^ { 2 } } { 4 e ^ { 2 } s _ { W } ^ { 2 } } \\tilde { g } _ { H Z Z } \\leq 1 0 . 3 \\ ( 2 3 . 3 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "None of the involve coefficients through the previous couplings receive contributions at low energies from the right handed operators nor the left-right ones. For a high energy scale $f _ { R }$ not far above the EW scale $f _ { L }$ ，additional operators would contribute onto the left handed ones as the ratio $f _ { L } / f _ { R }$ would be non-negligible. Nonetheless，these additional contributions turn out to be small as the small allowed range $- 0 . 0 2 < c _ { C , L R } < 0 . 0 2$ [69] suppresses the scale ratio and therefore the parameter （204号 $\\epsilon$ in (25). For the hypothetical case of $c _ { C , L R } \\sim 1$ and $f _ { R } \\approx f _ { L }$ , the right and left-right operators contribution are enhanced,and all the coefficients through the couplings in (32),(34),(38),(39) and(41) become ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { { \\displaystyle \\frac { f _ { L } c _ { W } ^ { 2 } } { 4 e ^ { 2 } s _ { W } ^ { 2 } } \\widetilde { g } _ { H Z Z } = - \\frac { 1 } { 4 } \\widehat { a } _ { \\widetilde { B } } + \\frac { c _ { W } ^ { 4 } } { s _ { W } ^ { 4 } } \\widehat { a } _ { 8 , L } - \\frac { c _ { W } ^ { 2 } } { s _ { W } ^ { 2 } } \\widehat { a } _ { 1 , L } + \\frac { 1 } { 2 s _ { W } ^ { 2 } } \\widehat { a } _ { 2 , L } + } } } \\\\ { { - \\frac { c _ { W } ^ { 4 } } { 8 s _ { W } ^ { 4 } } \\widehat { a } _ { W , L } - \\frac { c _ { W } ^ { 2 } } { 2 s _ { W } ^ { 4 } } \\widehat { a } _ { 9 , L } - \\frac { c _ { W } ^ { 2 } } { 4 s _ { W } ^ { 4 } } \\widehat { a } _ { 3 , L } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where the coefficients $\\hat { a _ { i } }$ are defined for simplicity as $\\hat { a } _ { i } \\equiv { }$ （204号 $c _ { i } a _ { i }$ ，with $a _ { i }$ the coefficients from the $\\mathcal { F } ( h )$ -definition in (10). The coupling $\\stackrel { \\cdot } { g } _ { H Z Z }$ is useful in parametrising the decay $h  Z Z$ as [16,79]. In Ref.[79] a measure of CP-violation in the decay $h  Z Z ^ { * }  4 l$ was defined as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { d _ { 2 } } = \\frac { | d _ { 2 } | ^ { 2 } \\sigma _ { 2 } } { | d _ { 1 } | ^ { 2 } \\sigma _ { 1 } + | d _ { 2 } | ^ { 2 } \\sigma _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad \\mathrm { S p } = - \\epsilon _ { 0 } - \\epsilon _ { 1 } - \\epsilon _ { 2 } \\| \\boldsymbol { \\mathcal { Q } } _ { \\epsilon , \\epsilon } - \\boldsymbol { \\mathcal { Q } } _ { \\epsilon , \\epsilon } - \\epsilon _ { 3 } - \\epsilon _ { 3 } - \\epsilon _ { 4 } \\epsilon _ { 2 } \\epsilon _ { 3 } + \\epsilon _ { 3 } \\epsilon _ { 1 } \\epsilon _ { 1 } \\bigg | , } \\\\ & { \\quad \\epsilon _ { 0 } = - \\epsilon _ { 0 } \\epsilon _ { 2 } - \\epsilon _ { 3 } \\epsilon _ { 4 } - 2 \\epsilon _ { 3 } \\epsilon _ { 2 } \\epsilon _ { 3 } , } \\\\ & { \\quad \\delta _ { \\epsilon , \\epsilon } = \\epsilon _ { 1 } - \\frac { \\delta _ { \\epsilon } } { 4 } \\left( \\epsilon _ { 0 } \\kappa _ { 1 } - 4 \\epsilon _ { 3 } \\alpha _ { 1 } + \\epsilon _ { 3 } \\alpha _ { 1 } \\right) , } \\\\ & { \\quad \\delta _ { \\epsilon , \\epsilon } = \\epsilon _ { 3 } - \\epsilon _ { 1 } \\left( \\frac { \\delta _ { \\epsilon } \\omega _ { 0 } + \\epsilon _ { 3 } - \\epsilon _ { 1 } \\omega _ { 1 } + \\epsilon _ { 3 } \\alpha _ { 1 } } { \\epsilon _ { 1 } + \\epsilon _ { 2 } } - \\frac { \\delta _ { \\epsilon } \\omega _ { 0 } + \\epsilon _ { 3 } } { \\epsilon _ { 2 } \\epsilon _ { 3 } } \\right) , } \\\\ & { \\quad \\epsilon _ { 1 } = \\epsilon _ { 3 } - \\epsilon _ { 2 } \\omega _ { 1 } + \\epsilon _ { 3 } \\epsilon _ { 3 } - \\epsilon _ { 4 } \\omega _ { 1 } , } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad \\quad \\quad \\quad \\quad \\times \\quad \\quad \\quad \\quad \\quad } \\\\ &  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Counting the number of right handed and left-right operators appearing through the coefficients in (45)，lead us to have finally an effective set of 4O operators in to$\\mathrm { { t a l } = 2 0 }$ left ops. (set in Eq.(17) $^ +$ Eq. (19)) $+ \\textup { 5 }$ right ops. (in Eq. (45)) $+ ~ 1 5$ left-right ops (in Eq. (45)).A right handed gauge sector far above the EW scale will imply a hierarchical case with NP effects parametrized via a much smaller operator basis as the $f _ { L } / f _ { R }$ -suppression would entail,and leaving us therefore with 25 operators in $\\mathrm { { t o t a l } = 2 0 }$ left ops. $+ \\ 3$ right ops. (in Eq.(29)) $+ \\ 2$ left-right ops (in Eq. (30)). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "IV.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The electroweak interactions taking place in our nature have exhibited a non-exact product of the charge conjugation and parity symmetries of particle physics.Moreover,the observed matter-antimatter asymmetry of our universe compel us for considering new sources of CPviolation,that are signalled as well by the extreme finetuning entailed by the strong CP problem. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Low energy effects from a CP-violating sector may be sourced from a NP field content playing a role at high energy regimes,reachable at the LHC,future facilities and colliders.An effective approach is in order thus to parametrize all those effects. In this paper,and concerning only the bosonic gauge sector, the NP field content is dictated by the existence of a spin-1 resonance sourced by the extension of the SM local gauge symmetry $\\mathcal { G } _ { S M } = S U ( 2 ) _ { L } \\otimes U ( 1 ) _ { Y }$ up to the larger local group ${ \\mathcal G } = S U ( 2 ) _ { L } \\otimes S U ( 2 ) _ { R } \\otimes U ( 1 ) _ { B - L }$ ，here described via a non-linear EW scenario with a light dynamical Higgs, up to the $p ^ { 4 }$ -contributions in the Lagrangian expansion, and focused only on the CP-violating sector. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This paper completes the CP-violating pure gauge and gauge $h$ operator basis given in Refs. [48,49] (for the CPbreaking sector） in the context of left-right symmetric ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EW chiral models, completing and generalizing as well the work done in Refs. [50-54] (for the CP-violating sector)with a heavy Higgs chiral scenario,and extending as well Ref. [55] for the CP-violating light Higgs dynamical framework, to the case of a larger local gauge symmetry $\\mathcal { G }$ in the context of non-linear EW interactions coupled to a light Higgs particle. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The work done in here may be considered as well as a generic UV completion of the low energy non-linear approaches of Refs. [50-54] (for the CP-breaking sector) and Ref. [55],assuming the extended gauge field sector arising out from an energy regime higher than the EW scale.The physical effects induced by integrating out the right handed fields from the physical spectrum are analysed, in particular, the effects on the CP-violating gauge couplings (Eqs. (31)-(34), (37) and (39))， EDM observables (Eqs.(36) and (38))，effective coupling $h Z Z$ and CP-violation in the decay $h  Z Z ^ { * }  4 l$ (Eqs. (40)- (41)).The relevant set of operators have been identified at low energies,25 operators in total = 20 left ops. $+ \\ 3$ right ops. (in Eq. (29)) $+ \\ 2$ left-right ops (in Eq. (30)). More low energy effects from a higher energy gauge sector [69,80] could shed some light on the underlying NP playing role in our nature,and likely will aid us in understanding better the origin of the electroweak symmetry breaking mechanism. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors of this paper acknowledges valuable comments from R. Alonso，I. Brivio， M. B. Gavela J.Gonzalez-Fraile,D.Marzocca,L.Merlo and J. SanzCillero.J.Y and R.K acknowledge KITPC financial support during the completion of this work. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pnys.Kev.D74(2UUb) Uy5UUl，[nep-pn/0609075].   \n[21] G. Klamke and D. Zeppenfeld, JHEP 0704 (2007) 052, [hep-ph/0703202].   \n[22] C.Englert, M. Spannowsky,and M. Takeuchi, JHEP 1206 (2012) 108, [arXiv:1203.5788].   \n[23] K.Odagiri, JHEP 0303 (2003) 009, [hep-ph/0212215].   \n[24] V. Del Duca,G. Klamke,D. Zeppenfeld, M. L. Mangano,M. Moretti,et. al., JHEP 06i0(2006) 016, [hep-ph/0608158].   \n[25] J.R. Andersen, K. Arnold,and D. Zeppenfeld, JHEP 1006 (2010) 091, [arXiv:1001.3822].   \n[26] C. Englert, D. Goncalves-Netto, K. Mawatari, and T.Plehn, JHEP 1301 (2013)148,[arXiv:1212.0843].   \n[27] A. Djouadi, R.Godbole,B.Mellado,and K.Mohan, Phys.Lett. B723 (2013) 307-313,[arXiv:1301.4965].   \n[28] M.J.Dolan,P.Harris,M. Jankowiak and M. Spannowsky,Phys.Rev.D 90(2014) 7, 073008, arXiv:1406.3322.   \n[29] N. D. Christensen, T. Han,and Y. Li, Phys.Lett.B693 (2010) 28-35, [arXiv:1005.5393].   \n[30] N.Desai, D.K.Ghosh,and B.Mukhopadhyaya, Phys.Rev. D83 (2011) 113004, [arXiv:1104.3327].   \n[31] J.Ellis,D.S.Hwang,V. Sanz,and T.You, JHEP 1211 (2012) 134, [arXiv:1208.6002].   \n[32] R.Godbole,D. J. Miller,K. Mohan,and C.D. White, Phys.Lett. B730 (2014) 275-279, [arXiv:1306.2573].   \n[33] C. Delaunay, G. Perez, H. de Sandes, and W. Skiba, Phys.Rev. D89 (2014) 035004, [arXiv:1308.4930].   \n[34] M.Voloshin,Phys.Rev.D86 (2012) 093016, [arXiv:1208.4303].   \n[35] A. Y. Korchin and V. A. Kovalchuk, Phys.Rev. D88 (2013), no. 3 036009,[arXiv:1303.0365].   \n[36] F.Bishara, Y. Grossman, R. Harnik,D. J. Robinson, J. Shu,et.al., JHEP 1404(2014) 084, [arXiv:1312.2955].   \n[37] Y. Chen,A. Falkowski, I. Low and R. Vega-Morales, Phys. Rev.D 90 (2014) 11, 113006,arXiv:1405.6723.   \n[38] A. Freitas and P. Schwaller, Phys.Rev. D87 (2013), no. 5 055014, [arXiv:1211.1980].   \n[39] A.Djouadi and G.Moreau, The couplings of the Higgs boson and its CP properties from fits of the signal strengths and their ratios at the 7+8 TeV LHC, Eur.Phys.J. C73 (2013) 2512, [arXiv:1303.6591].   \n[40] H. Belusca-Maito, arXiv:1404.5343.   \n[41] J. Shu and Y. Zhang, Phys. Rev. Lett. 111 (2013) 9, 091801, arXiv:1304.0773.   \n[42] K. Cheung,J. S.Lee and P.-Y. Tseng, JHEP 1305 (2013) 134 arXiv:1302.3794.   \n[43] S.Dwivedi,D.K.Ghosh,B.Mukhopadhyaya and A. Shivaji, arXiv:1505.05844 [hep-ph].   \n[44] J.C.Pati, A.Salam,Phys.Rev.D10, 275(1974).   \n[45] R.N.Mohapatra, J.C.Pati, Phys. Rev. Di1, 566(1975); R.N.Mohapatra, J.C.Pati, Phys. Rev. D11, 2558(1975); G.Senjanovic, R.N.Mohapatra,Phys.Rev.D12, 1502(1975).   \n[46] H. Georgi and D.B. Kaplan,Phys.Lett. B145 (1984) 216.   \n[47] J. Yepes,arXiv:1507.03974 [hep-ph].   \n[48] Y. Zhang, S. Z. Wang,F. J. Ge and Q.Wang,Phys. Lett.B 653 (2007) 259 [arXiv:0704.2172 [hep-ph]]   \n[49] S. Z. Wang, S. Z. Jiang, F. J. Ge and Q. Wang, JHEP 0806（2008)107 [arXiv:0805.0643 [hep-ph].   \n[50] T.Appelquist and C.W. Bernard,Phys.Rev.D22 (1980) 200.   \n[51] A. C.Longhitano, Phys.Rev.D22(1980) 1166.   \n[52] A. C. Longhitano, Nucl. Phys. B188(1981) 118.   \n[53] F. Feruglio, Int.J.Mod.Phys. A8 (1993) 4937-4972, [hep-ph/9301281].   \n[54] T.Appelquist and G.-H. Wu, Phys.Rev.D48 (1993) 3235-3241, [hep-ph/9304240].   \n[55] M. B. Gavela, J. Gonzalez-Fraile, M. C.Gonzalez-Garcia,L. Merlo, S.Rigolin and J. Yepes,JHEP 1410 (2014) 44 [arXiv:1406.6367 [hep-ph]].   \n[56] R. Alonso,M. B. Gavela, L. Merlo, S. Rigolin, and J.Yepes,Phys.Lett.B722（2013) 330-335, [arXiv:1212.3305].   \n[57] K. Agashe, R. Contino, L. Da Rold et al., Phys. Lett. B641（2006) 62-66.[arXiv:0605341[hep-ph]].   \n[58] I.Brivio,T.Corbett,O.Eboli,M.B.Gavela, J. Gonzalez-Fraile,et. al., JHEP 1403 (2014) 024, [arXiv:1311.1823].   \n[59] R.Alonso,M. B. Gavela, L. Merlo, S. Rigolin,and J. Yepes,Phys.Rev.D87 (2013) 055019, [arXiv:1212.3307].   \n[60] G.Buchalla and O.Cata, JHEP 1207 (2012） 101 [arXiv:1203.6510].   \n[61] G. Buchalla, O. Cata and C. Krause, Nucl. Phys. B 880 (2014） 552 [arXiv:1307.5017 [hep-ph].   \n[62] G. Buchalla, O. Cata and C. Krause, Phys. Lett. B 731 (2014) 80 [arXiv:1312.5624 [hep-ph].   \n[63] I. Brivio,arXiv:1505.00637 [hep-ph].   \n[64] G. Cvetic and R.Kogerler, Nucl.Phys. B328 (1989) 342.   \n[65] R.Alonso,M. Gavela,L.Merlo, S.Rigolin,and J. Yepes, JHEP 1206 (2012) 076, [arXiv:1201.1511].   \n[66] I.Brivio,O. J.P.Eboli,M.B.Gavela, M. C.Gonzalez-Garcia,L.Merlo and S.Rigolin, JHEP 1412 (2014) 004, arXiv:1405.5412.   \n[67] R. Contino,D. Marzocca, D. Pappadopulo,and R.Rattazzi, JHEP 1110 (2011) 081, [arXiv:1109.1570].   \n[68] R. Alonso, I. Brivio, B. Gavela, L. Merlo and S. Rigolin, JHEP 1412 (2014) 034,arXiv:1409.1589.   \n[69] J. Shu and J. Yepes, [arXiv:1512.09310].   \n[70] K.Hagiwara,R. Peccei, D. Zeppenfeld,and K.Hikasa, Probing the Weak Boson Sector in E+ E-- W+ W-, Nucl.Phys. B282 (1987) 253.   \n[71] T.Appelquist,M. Piai and R. Shrock,Lepton Dipole Moments in Extended Technicolor Models,Phys.Lett.B 593 (2004) 175, [arXiv:hep-ph/0401114].   \n[72] W. J. Marciano and A. Queijeiro, Bound on the W Boson Electric Dipole Moment, Phys.Rev.D33 (1986) 3449.   \n[73] ACME Collaboration, J.Baron et. al.， Order of Magnitude Smaller Limit on the Electric Dipole Moment of the Electron, Science 343 (2014),no. 6168 269-272, [arXiv:1310.7534].   \n[74] C. Baker,D. Doyle,P. Geltenbort, K. Green, M.van der Grinten,et.al.,An Improved Experimental Limit on the Electric Dipole Moment of the Neutron, Phys.Rev.Lett. 97 (2006) 131801, [hep-ex/0602020].   \n[75] S. Dawson, S. K. Gupta, and G. Valencia, CP violating anomalous couplings in $W \\gamma$ and $Z \\gamma$ production at the LHC,Phys.Rev.D88 (2013),no.3 035008, [arXiv: 1304.3514].   \n[76] OPAL Collaboration,G.Abbiendi et.al.,Measurement of W boson polarizations and CP violating triple gauge couplings from $W ^ { + } W ^ { - }$ production at LEP,Eur.Phys.J. C19 (2001) 229-240, [hep-ex/0009021].   \n[77]DELPHI Collaboration,J.Abdallah et.al.,Study of Wboson polarisations and Triple Gauge boson Couplings in the reaction e+e- ->W+W- at LEP 2, Eur.Phys.J. C54 (2008) 345-364, [arXiv:0801.1235].   \n[78]ALEPH Collaboration,S.Schael et.al.,Improved measurement of the triple gauge-boson couplings gamma ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WWand ZWW in e+ e- collisions,Phys.Lett.B614 (2005)7-26. [79] CMS Collaboration,S. Chatrchyan et.al., Measurement of the properties of a Higgs boson in the four-lepton final state,Phys.Rev.D89 (2014) 092007, [arXiv:1312.5353]. [80] J. Shu and J. Yepes, [arXiv:1601.06891] ",
+        "page_idx": 11
+    }
+]

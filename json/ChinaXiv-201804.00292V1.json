@@ -1,0 +1,514 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201701230187 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "袁嫚嫚,朱建国,刘钢,王伟露.不同天气水稻光合日变化对大气 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的响应—FACE 研究.生态学报,2018,38(6):1897-1907. Yuan M M, Zhu JG,Liu G,Wang W L.Response of diurnal variation in photosynthesis to elevated atmospheric $\\mathrm { C O } _ { 2 }$ concentration and temperature of rice between cloudy and sunny days：a free air $\\mathrm { C O } _ { 2 }$ enrichment study.Acta Ecologica Sinica,2018,38(6) :1897-1907. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同天气水稻光合日变化对大气 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的响应——FACE研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "袁嫚嫚1,2,3，朱建国1，\\*，刘 钢」,王伟露1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院南京土壤研究所,土壤与农业可持续发展国家重点实验室,南京210008  \n2 安徽省农业科学院土壤肥料研究所,安徽省养分循环与资源环境省级实验室，合肥230031  \n3中国科学院大学，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：人类活动导致大气二氧化碳浓度( $\\mathrm { C O } _ { 2 }$ )升高、全球气候变暖和光合有效辐射(PAR)降低,影响着绿色作物的光合作用。为了明确高 $\\mathrm { C O } _ { 2 }$ 浓度、高温和低PAR对水稻光合日变化特征的影响,利用中国稻田开放空气 $\\overrightarrow { \\mathrm { C O } _ { 2 } }$ 浓度升高系统（free air $\\mathrm { C O } _ { 2 }$ enrichment,FACE）,以常规粳稻南粳9108 为试验材料,设置了环境 $\\mathrm { C O } _ { 2 }$ 和高 $\\mathrm { C O } _ { 2 }$ 浓度(增 $2 0 0 \\mu \\mathrm { m o l } / \\mathrm { m o l }$ )、环境温度和增高温度（增1- $2 ^ { \\circ } \\mathrm { C }$ )交互的4个处理,从9:00到17:00每隔1h测定了阴天和晴天水稻的光合作用,研究了不同天气对水稻光合日变化对大气 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的响应。观察到不同天气条件下水稻光合日变化的不同特征,晴天 $P n$ 为双峰曲线,发生了光合“午休”,阴天未发生。结果表明,高 $\\mathrm { C O } _ { 2 }$ 浓度显著提高了水稻 $P n$ ,温度升高有降低水稻 $P n$ 趋势， $\\mathrm { C O } _ { 2 }$ 浓度增加 $2 0 0 \\mu \\mathrm { m o l / m o l }$ 对水稻光合作用的促进效应远大于增温1一 $2 ^ { \\circ } \\mathrm { C }$ 对其的抑制效应。高 $\\mathrm { C O } _ { 2 }$ 浓度显著增加了水稻胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C i )$ ,降低了水稻蒸腾速率 $( T r )$ ,平均降幅为 $1 0 . 8 \\% { - 2 2 . 0 \\% }$ 。高温有降低 $\\boldsymbol { C } i$ 的趋势,增加了 $T r$ ,平均增幅达 $5 . 0 \\% - 1 3 . 5 \\%$ 。晴天比阴天增加了水稻 $T r$ ，平均增幅为 $9 . 8 \\% - 3 1 . 2 \\%$ 。 $\\mathrm { C O } _ { 2 }$ 浓度和温度同时升高显著降低了水稻气孔导度 $( G s )$ 。这些结果说明 $\\mathrm { C O } _ { 2 }$ 浓度、温度和PAR 对水稻水分利用率(WUE)产生综合影响。阴天PAR 比晴天平均低 $5 3 . 3 \\%$ ,阴天水稻 $P n$ 比晴天显著低,平均降幅达 $3 7 . 1 \\%$ 一$7 2 . 0 \\%$ 。与对照比较,高 $\\mathrm { C O } _ { 2 }$ 浓度处理,较高PAR(晴天)条件下水稻 $P n$ 的增幅 $( 3 8 . 6 \\% - 5 8 . 4 \\%$ )显著大于较低PAR(阴天)条件下水稻 $P n$ 的增幅 $( 2 1 . 6 \\% - 3 8 . 8 \\%$ ),这一现象值得关注和深入探讨。研究结果表明,评估气候变化对水稻生产的影响,需同时考虑未来大气 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高以及PAR下降的因素及其相互作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： $\\mathrm { C O } _ { 2 }$ ;温度；光合有效辐射；光合日变化;水稻 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response of diurnal variation in photosynthesis to elevated atmospheric $\\mathbf { C O } _ { 2 }$ concentration and temperature of rice between cloudy and sunny days : a free air $\\mathbf { C O } _ { 2 }$ enrichment study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YUAN Manman1,2.3， ZHU Jianguo1,\\*， LIU Gang1，WANG Weilu1,3   \n1StateKeyLboratoyfSoildustableAgricuurestefSilieeinseAcdefencs，in   \n2LaboratoryofrtC，odotofustiefSldrti，Adeofruualcsee   \n230031, China   \n3 University of Chinese Academy of Sciences，Beijing 10o049，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To understand the effect of elevated $\\mathrm { C O } _ { 2 }$ concentration，temperature，and different weather of photosynthetically activeradiation（PAR）on diurnal variationphotosyntheticcharacteristicsof rice，apaddyfield experiment utilizing freeair $\\mathrm { C O } _ { 2 }$ enrichment（FACE） technology was conducted at two concentration levels of $\\mathrm { C O } _ { 2 }$ (ambient and elevated $2 0 0 \\mu \\mathrm { m o l / m o l }$ ） and two temperature regimes （ambient and elevated 1- $2 \\mathrm { { ^ { \\circ } C } }$ ）between cloudy and sunny days，using the widely cultivated inbred Japonicarice（OryzasativaL.）Nanjing 9108asthetest material.Diurnalvariationinthephotosynthetic characteristicsofrice were measured every hour from9:OOto17:OOinthetwo kindsof weather.Thediurmal variations in net photosynthetic rate $\\left( P n \\right)$ under each treatment followed a single-peak curve during cloudy days without a midday depresion in photosynthesis，andadouble-peak curve during sunnydays with a midday depresion.Theresults showed that elevated atmospheric $\\mathrm { C O } _ { 2 }$ concentrations significantly increased rice $P n$ . However，elevated temperature tended to reduce （204号 $P n$ . Therefore，elevating atmospheric $\\mathrm { C O } _ { 2 }$ concentration by $2 0 0 \\mu \\mathrm { m o l / m o l }$ had a greater effect on the photosynthetic characteristics of rice than elevating temperature by 1- $2 \\%$ .Elevated $\\mathrm { C O } _ { 2 }$ concentration improved rice intercellular CO2 concentration $( \\ C i$ ）and inhibited transpiration rate $\\textit { ( T r }$ ）by an average $1 0 . 8 \\%$ -22. $0 \\%$ . Elevated temperature nonsignificantly decreased $\\mathit { C i }$ and increased $T r$ by an average $5 . 0 \\% - 1 3 . 5 \\%$ . Rice $T r$ on sunny days was larger than on cloudy days，by an average of $9 . 8 \\% - 3 1 . 2 \\%$ . Rice stomatal conductance $( G s )$ decreased significantly under elevated $\\mathrm { C O } _ { 2 }$ （204号 concentrations and temperature.This indicated that $\\mathrm { C O } _ { 2 }$ concentration， temperature，and PAR had a comprehensive effect on rice water use eficiency（WUE). The PAR on cloudy days was $5 3 . 3 \\%$ lower than on sunny days. At the same time， the average $P n$ on cloudy days was lower by an average of $3 7 . 1 \\% { - 7 2 . 0 \\% }$ than that on sunny days. Compared with ambient conditions, $P n$ increased under elevated $\\mathrm { C O } _ { 2 }$ concentrations average by $2 1 . 6 \\% - 3 8 . 8 \\% \\mathrm { a n d } 3 8 . 6 \\% - 5 8 . 4 \\%$ in the low PAR of cloudy days and in the high PAR of sunnydays，respectively.Itis sugested that more atention should be focused on the effect of elevated $\\mathrm { C O } _ { 2 }$ concentration，elevated temperature，and the downward trend of PAR on rice，which would be conducive to a more comprehensive assessment of climate change impacts on rice production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words : $\\mathrm { C O } _ { 2 }$ ； temperature；photosynthetically active radiation；diurnal variation photosynthesis； rice",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "工业革命以来,人类活动通过燃烧化石燃料和汽车 航天器的尾气排放等途径在大气中排放了大量温室气体和气溶胶,造成大气二氧化碳( $\\mathrm { C O } _ { 2 } )$ 浓度持续和温度同时持续升高，光合有效辐射（PAR)下降。根据不同模型预测,到 2050 年大气 $\\mathrm { C O } _ { 2 }$ 浓度升高到 $4 7 0 { \\ : - } 5 7 0 \\mu \\mathrm { m o l / m o l }$ ,温度上升 $0 . 8 \\mathrm { - } 3 . 2 ^ { \\circ } \\mathrm { C } ^  [ \\$ 1]。 $\\mathrm { { W i l d } } ^ { [ 2 ] }$ 的综述认为,从1950—1980 年是全球暗化时期,即 PAR 在全球范围普遍下降,平均每10 年下降 $0 . 8 \\% - 7 \\%$ ,但1980—2000 年,全球多数地区PAR开始上升,但远未弥补长时期的下降。而Che等[3]研究认为中国从1950—2000年PAR平均每10年下降了 $1 . 3 \\%$ ，近年的研究表明中国华北平原和长江中下游等地区的PAR仍在下降中[4-6]。 八I $\\bigcirc$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "水稻是光温敏感作物， $\\mathrm { C O } _ { 2 }$ 浓度、温度和PAR变化势必影响水稻光合作用。 $\\mathrm { C O } _ { 2 }$ 浓度升高加速了水稻生育进程,导致叶片光合速率增加,气孔导度、蒸腾速率减小; $\\mathrm { C O } _ { 2 }$ 浓度和温度增加的幅度和方式影响着水稻光合作用结果[7-8]。Figueiredo等[9]利用开顶式气室控制 $\\mathrm { C O } _ { 2 }$ 浓度和温度,与ambient 比较,高 $\\mathrm { C O } _ { 2 }$ 浓度对水稻生产力的促进作用能够弥补增温对生产力的损伤。而Cai等[10]利用放空气 $\\mathrm { C O } _ { 2 }$ 浓度升高系统（FACE），采用红外加热的方式增温,结果表明与 $\\mathrm { C O } _ { 2 }$ 浓度增加效应相反,增温大大削弱了水稻的生产力,二者共同作用,水稻产量仍显著下降。不同试验模拟平台上，高 $\\mathrm { C O } _ { 2 }$ 浓度和高温对水稻生产力影响的结果不一致，而从光合作用角度解析作物生产力变化的原因有待进一步研究。谢立勇等[1]利用FACE 研究表明,高 $\\mathrm { C O } _ { 2 }$ 浓度提高了北方粳稻光合能力,以覆盖地膜的方式增温对水稻光合作用影响不明显,这种增温方式仅能影响水稻根部区域,增温效果有限。2013年课题组为了模拟 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的流动大气环境,在江苏江都原有的FACE系统基础上进行了提升,建立了同时升高水稻冠层空气 $\\mathrm { C O } _ { 2 }$ 浓度和温度的新试验平台（T-FACE）[12]。周宁等[13]基于此平台研究发现,增温对水稻光合日变化的影响因生育期不同而异， $\\mathrm { C O } _ { 2 }$ 浓度对水稻光合作用的影响明显大于增温,而不同天气对其光合特性的影响则未见研究。不同天气PAR 相差较大,PAR 是太阳辐射中波长为 $4 0 0 { - } 7 0 0 \\mathrm { n m }$ ,是能被植物利用进行光合作用的唯一能量来源[14],晴天和阴天通过PAR的强弱影响着水稻光合作用。因此，本试验以目前生产上大面积种植的高产优质粳稻“南粳9108”为试验材料，利用T-FACE稻田开放系统模拟21世纪中叶大气环境，研究 $\\mathrm { C O } _ { 2 }$ 浓度、温度和天气对水稻剑叶光合作用日变化的影响，以期为评估和应对气候变化对水稻生产的影响提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验地点与平台",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于2015年在中国稻田T-FACE研究技术平台上进行。平台位于江苏省扬州市江都区小纪镇良种场试验田 $\\mathrm { ' } 1 1 9 ^ { \\circ } 4 2 ^ { \\prime } 0 ^ { \\prime \\prime } \\mathrm { E } , 3 2 ^ { \\circ } 3 5 ^ { \\prime } 5 ^ { \\prime \\prime } \\mathrm { N } )$ 。试验田所在地区年均降水量 $9 8 0 \\mathrm { m m }$ 左右,年均蒸发量大于 $1 1 0 0 \\mathrm { m m }$ ，年平均温度约 $1 4 . 9 \\%$ ,年日照时间大于 $2 1 0 0 \\mathrm { h }$ ,年平均无霜期220d,耕作方式为水稻-冬小麦轮作。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验田土壤类型为砂壤土,土壤理化性质为;有机质 $1 8 . 4 \\mathrm { g / k g }$ ，全氮 $1 . 4 5 \\mathrm { g / k g }$ ,全磷 $0 . 6 3 \\mathrm { g } / \\mathrm { k g }$ ,全钾 $1 4 . 0 \\mathrm { g / }$ $\\mathbf { k g }$ ,速效磷 $1 0 . 1 \\mathrm { m g / k g }$ ,速效钾 $7 0 . 5 \\mathrm { m g / k g }$ ,容重 $1 . 1 6 \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ $\\mathrm { p H } 7 . 2$ 。 C/5 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平台共有3个FACE试验圈和3个对照（Ambient)圈。FACE 圈设计为正六角形,直径 $\\mathrm { i } 2 \\mathrm { m }$ ，平台运行时通过FACE 圈周围的管道向中心喷射纯 $\\mathrm { C O } _ { 2 }$ 气体,并在FACE 和Ambient圈中特定位置加装热水增温管道,以热辐射形式向增温区域进行增温处理, $\\mathrm { C O } _ { 2 }$ 放气管的高度距水稻冠层为 $5 0 \\mathrm { { c m } }$ 左右,增温管道约5- $1 0 \\mathrm { { c m } }$ ,增温管道高度距水稻冠层为 $2 0 \\mathrm { c m }$ 左右。利用计算机网络对平台 $\\mathrm { C O } _ { 2 }$ 浓度和水稻冠层温度进行监测和控制，根据大气中的 $\\mathrm { C O } _ { 2 }$ 浓度、风向、风速、作物冠层高度的 $\\mathrm { C O } _ { 2 }$ 浓度和温度自动调节 $\\mathrm { C O } _ { 2 }$ 气体的释放速度和方向以及增温管道中热水流速,使水稻主要生育期FACE 圈内 $\\mathrm { C O } _ { 2 }$ 浓度保持比大气高 $2 0 0 \\mu \\mathrm { m o l / m o l }$ ,所有圈内增温区域水稻冠层空气温度比大气环境温度高1一 $2 ^ { \\circ } \\mathrm { C }$ 。FACE 圈之间以及FACE圈与对照圈之间的间隔大于 $9 0 \\mathrm { m }$ ，以减少 $\\mathrm { C O } _ { 2 }$ 释放对其他圈的影响。对照田块没有安装FACE 管道,所有田块非增温区域没有安装热水增温管道,其余环境条件与自然状态一致[2.15]。为监测大气增温幅度,在 FACE 和 Ambient 圈增温与非增温区域,距水稻冠层 $2 0 \\mathrm { c m }$ 处安装 SI-111 红外温度(Campbell 公司,美国)实时记录气温,每1min 记录一次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平台 $\\mathrm { C O } _ { 2 }$ 熏气时间为6月25日至10月19日,增温时间为7月1日至10月19日,FACE圈每日熏气和增温处理时间为日出至日落。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试水稻品种为南粳9108,大田旱育秧,5月20 日播种,6月17日移栽,种植密度为24穴 $/ \\mathrm { m } ^ { 2 }$ ,每穴2苗,秧苗均为1蘖苗。采用复合肥（有效成分 ${ \\bf N } : { \\bf P } _ { 2 } 0 _ { 5 } : { \\bf K } _ { 2 } 0 = 1 5 \\% : 1 5 \\% : 1 5 \\% )$ 和尿素(含 $\\mathrm { ~ N ~ } 4 6 . 7 \\%$ )配合施用。施N总量为 $2 2 . 5 \\mathrm { g } / \\mathrm { m }$ ,其中基肥占 $4 0 \\%$ （6月17日）施用； $30 \\%$ 作分藥肥施用（7月1日）， $3 0 \\%$ 作穗肥施用（7月26日）。施P、K量均为 $9 \\mathrm { { g } / m }$ ,作基肥施用。水分管理：6月17日至7月20日保持水层（约 $3 \\mathrm { c m }$ ），7月21日至8月10日多次轻搁田（自然落干后保持3天 $$ 灌水1天 $$ 干旱4天 $$ 灌水1天,如此4天干旱1天灌水反复）,8月11日至收获前10天间隙灌溉（3天保水2天干旱),之后断水至10月26日收获。其它管理亦按高产田标准和要求执行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3试验处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验为裂区设计,主区为 $\\mathrm { C O } _ { 2 }$ 处理,设大气背景 $\\mathrm { C O } _ { 2 }$ 浓度（AC,ambient $\\mathrm { C O } _ { 2 }$ ,约 $3 9 0 \\mu \\mathrm { m o l / m o l }$ )和高 $\\mathrm { C O } _ { 2 }$ 浓度（EC,elevated $\\mathrm { C O } _ { 2 }$ ，约 $5 9 0 \\mu \\mathrm { m o l / m o l }$ ,比大气背景 $\\mathrm { C O } _ { 2 }$ 浓度高 $2 0 0 \\mu \\mathrm { m o l / m o l } ) \\AA$ 2个水平。裂区为温度处理，设大气环境温度（AT,ambient temperature）和高温(ET,elevated temperature,比环境温度高1一 ${ \\bf \\nabla } \\cdot 2 \\mathrm { ^ { \\circ } C }$ )2 个水平。即4个处理,分别为环境 $\\mathrm { C O } _ { 2 }$ 浓度和温度处理（ACAT）、环境 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理（ACET）、高 $\\mathrm { C O } _ { 2 }$ 浓度和环境温度处理（ECAT）、高 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理（ECET）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用LI-6400 便携式光合系统分析仪(LI-COR,USA)测定水稻剑叶净光合速率 $( P n )$ 、气孔导度 $( G s )$ 、胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C i )$ 和蒸腾速率 $\\left( T r \\right)$ ,并根据净光合速率与蒸腾速率的比值计算叶片水分利用率（WUE）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别选择阴天和晴朗天气,于8月30日（阴天,相当于齐穗期),9月16日（晴天,相当于灌浆中期),从",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$9 \\colon 0 0 { \\mathrm { - } } 1 7 \\colon 0 0$ 每隔1h 测定一次。测定剑叶叶片顶端的1/2至1/3 处的上表面,每个处理连续测定3片有代表性的剑叶取平均值。采用LI-COR注人系统控制 $\\mathrm { C O } _ { 2 }$ 浓度，Ambient圈和FACE圈 $\\mathrm { C O } _ { 2 }$ 浓度分别设定为$3 9 0 \\mu \\mathrm { m o l / m o l }$ 和 $5 9 0 \\mu \\mathrm { m o l / m o l }$ 。选用红蓝光源,依据测定时自然光源设置光强,温度设定取决于当时的作物冠层温度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理与统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用Excel2007进行数据处理和图表绘制。统计分析软件采用一般线性模型,以 SPSS 17.0进行方差分析,采用Duncan 法进行多重比较,显著水平设 $P { < } 0 . 0 1$ (极显著) $\\cdot P { < } 0 . 0 5$ (显著)和 $P { \\geqslant } 0 . 0 5$ （无显著差异），分别用 $* * , *$ 和 ns 表示,相关性分析采用Pearson 双侧显著检验。 C)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 阴天与晴天天气条件比较 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出，不同天气条件下大气温度和PAR变化规律不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0926b45778cfdc4a5b301c1dd06ce6538d28118989b4d3ef01ba7a9ff8b93f8.jpg",
+        "img_caption": [
+            "图1不同天气下大气温度和光合有效辐射的日变化",
+            "Fig.1 Diurnal variation of temperature and photosynthetic active radiation between cloudy and sunny days "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8:00—17:00,阴天大气温度为 $2 4 . 0 5 ^ { \\circ } \\mathrm { C } - 2 8 . 0 6 ^ { \\circ } \\mathrm { C }$ ,平均为 $2 6 . 3 4 ^ { \\circ } \\mathrm { C }$ ,在13:00 左右达到高峰;晴天大气温度为 $1 8 . 5 9 ^ { \\circ } \\mathrm { C }$ 一 $2 2 . 9 1 \\mathrm { ^ { \\circ } C }$ ,平均为 $2 0 . 7 4 ^ { \\circ } \\mathrm { C }$ ,在15:00左右达到峰值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阴天比晴天降低了PAR。9:00—17:00,阴天PAR 随时间变化比较平缓,其值为 $1 1 4 . 3 { \\mathrm { - } } 6 2 1 . 5 { \\mathrm { m o l ~ m } } ^ { - 2 }$ （204号 $\\mathbf { s } ^ { - 1 }$ ,均值为 $4 4 8 . 3 \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { ~ s } ^ { - 1 }$ ;晴天PAR 变为单峰曲线,范围为 $1 9 7 . 5 { \\mathrm { - } } 1 5 8 5 . 3 { \\mathrm { m o l } } { \\mathrm { ~ m } } ^ { - 2 } { \\mathrm { ~ s } } ^ { - 1 }$ ,均值为 $9 6 0 . 8 \\mathrm { m o l ~ m } ^ { - 2 }$ $\\mathbf { s } ^ { - 1 }$ ,在13:00左右达到峰值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出,利用红外线测温仪测定, $\\mathrm { C O } _ { 2 }$ 浓度升高 $2 0 0 \\mu \\mathrm { m o l / m o l }$ 导致大气温度升高,数据显示阴天和晴天分别使水稻冠层气温平均增加了 $0 . 3 0 ^ { \\circ } \\mathrm { C }$ 和 $0 . 3 9 ^ { \\circ } \\mathrm { C }$ 。阴天和晴天增温设施对水稻冠层大气增温幅度相近。环境 $\\overline { { \\mathrm { C O } _ { 2 } } }$ 浓度的增温处理的阴天和晴天分别平均增温 $1 . 4 8 ^ { \\circ } \\mathrm { C }$ 和 $1 . 1 5 ^ { \\circ } \\mathrm { C }$ ,水稻在高温条件下,蒸腾作用提高,导致冠层温度下降,因此,这个增温效应是热水管道增温和蒸腾降温的综合效应; $\\mathrm { C O } _ { 2 }$ 浓度升高的增温处理阴天和晴天分别平均增温 $0 . 9 2 ^ { \\circ } \\mathrm { C }$ 和 $1 . 0 4 \\mathrm { ^ { \\circ } C }$ ，一方面 $\\mathrm { C O } _ { 2 }$ 浓度升高,温度升高,一方面管道增温,蒸腾降温,因此,这个增温效果是 $\\mathrm { C O } _ { 2 }$ 增温、管道增温、蒸腾降温的综合效应。从整体看,整体增温幅度在 $0 . 9 2 ^ { \\circ } \\mathrm { C }$ 1 $\\cdot 1 . 4 8 ^ { \\circ } \\mathrm { C }$ （20号之间,变幅不是太大,达到了试验设计使水稻冠层气温增高1一 $\\cdot 2 ^ { \\circ } \\mathrm { C }$ 的目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻光合作用的日变化特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻净光合速的日变化特征由图2可知, $\\mathrm { C O } _ { 2 }$ 浓度升高显著增加了水稻净光合速率 $( P n )$ ，而温度升高呈相反趋势,仅在阴天的13：00、",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14:00、16:00 和晴天的12:00 达到显著水平， $\\mathrm { C O } _ { 2 }$ 浓度和温度同时升高对水稻剑叶 $P n$ 的交互作用不明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "晴天比阴天提高了水稻 $P n$ 对 $\\mathrm { C O } _ { 2 }$ 浓度升高响应的幅度。与环境 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理(ACET)比较，晴天水稻 $P n$ 均值分别比高 $\\mathrm { C O } _ { 2 }$ 浓度和环境温度处理(ECAT)和高 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理(ECET)分别增加了 $5 8 . 4 \\%$ 和 $56 . 7 \\%$ ,阴天分别增加了 $3 8 . 9 \\%$ 和 $2 4 . 7 \\%$ (表2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/44bd75fed40e20d114d702a642d8333bfebae89af5e2bfff3b0e13539b2408d4.jpg",
+        "table_caption": [
+            "Table 1Results of elevated temperature between cloudy and sunny days "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>天气Weather</td><td>ACET—ACAT</td><td>ECET—ACAT</td><td>ECAT—ACAT</td><td>ECET-ECAT</td></tr><tr><td>阴天Cloudy</td><td>1.48</td><td>1.23</td><td>0.30</td><td>D 0.92</td></tr><tr><td>晴天 Sunny</td><td>1.15</td><td>1.43</td><td>0.39</td><td>1.04</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACET—ACAT:环境 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理—环境 $\\mathrm { C O } _ { 2 }$ 浓度和温度处理ambient $\\mathrm { C O } _ { 2 }$ and elevated temperature-ambient $\\mathrm { C O } _ { 2 }$ and ambient temperature;ECET—ACAT:高 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理—环境 $\\mathrm { C O } _ { 2 }$ 浓度和温度处理elevated $\\mathrm { C O } _ { 2 }$ and elevated temperature—ambient CO2 and ambient temperature;ECAT—ACAT;高 $\\mathrm { C O } _ { 2 }$ 浓度和环境温度处理一环境 $\\mathrm { C O } _ { 2 }$ 浓度和温度处理elevated $\\mathrm { C O } _ { 2 }$ and ambient temperature -ambient COz and ambient temperature;ECET—ECAT:高 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理—高 $\\mathrm { C O } _ { 2 }$ 浓度和环境温度处理elevated $\\mathrm { C O } _ { 2 }$ and ambient temperature-elevated CO $^ 2$ and ambient temperature ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c3295530a4f18a9aeffaad713135880cce40858d0be534a1ec859b2329a5386.jpg",
+        "img_caption": [
+            "图2 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻净光合速率的日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Diurnal variation of rice net photosynthetic rat of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy and sunny daysT：温度 temperature;ACAT:环境 $\\mathrm { C O } _ { 2 }$ 浓度和温度处理ambient $\\mathrm { C O } _ { 2 }$ and ambient temperature;ACET;环境 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理ambient $\\mathrm { C O } _ { 2 }$ andelevated temperature;ECAT:高 $\\mathrm { C O } _ { 2 }$ 浓度和环境温度处理elevated $\\mathrm { C O } _ { 2 }$ and ambient temperature;ECET：高 $\\mathrm { C O } _ { 2 }$ 浓度和高温处理elevated $\\mathrm { C O } _ { 2 }$ andSelevated temperature。图中数据为平均值 $\\pm$ 标准差( $n = 3 { \\mathrm { ~ } }$ ）,ns,不显著， $*$ 和 $^ { * * }$ 分别表示在 $\\scriptstyle P < 0 . 0 5$ 和 ${ P { < } 0 . 0 1 }$ 水平上差异显著",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5fc7af8607b4d199673c8128e0432a8c5abb4a54e8a20f03c3ce1d668b7d674.jpg",
+        "table_caption": [
+            "表1不同天气下增温设施的增温效果/ $\\mathrm { ^ { \\cdot } c }$ ",
+            "表2 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻剑叶全天平均光合特征",
+            "Table 2 Average value of photosynthetic parameters of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy and sunny d: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>天气 Weather</td><td>处理 Treatment</td><td>净光合速率 Photosynthetic rat(Pn)/ （μmol m-² s-1）)</td><td>气孔导度 Stomatal conductance (Gs)/ (mol m-² s-1)</td><td>胞间CO浓度 Intercellular CO2 concentration(Ci)/</td><td>蒸腾速率 Transpiration rate(Tr)/ (mmol m-² s-1)</td><td>水分利用率 Water use efficiency (WUE)/ (mmol/mol)</td></tr><tr><td>阴天</td><td>ACAT</td><td>10.99±5.89</td><td>0.55±0.16</td><td>(μmol/mol) 342±18</td><td>8.36±2.32</td><td>1.22±0.55</td></tr><tr><td>Cloudy</td><td>ACET</td><td>9.62±5.74</td><td>0.48±0.16</td><td>338±18</td><td>9.03±2.49</td><td>0.98±0.51</td></tr><tr><td></td><td>ECAT</td><td>13.36±6.27</td><td>0.46±0.17</td><td>536±25</td><td>7.00±2.45</td><td>1.84±0.63</td></tr><tr><td></td><td>ECET</td><td>12.00±5.90</td><td>0.44±0.16</td><td>532±31</td><td>7.37±2.38</td><td>1.54±0.57</td></tr><tr><td>晴天</td><td>ACAT</td><td>15.07±3.80</td><td>0.54±0.21</td><td>321±15</td><td>6.56±1.42</td><td>2.46±0.75</td></tr><tr><td>Sunny</td><td>ACET</td><td>13.18±4.03</td><td>0.44±0.16</td><td>319±30</td><td>6.89±1.36</td><td>1.83±0.66</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dda88abe5e5d75d24097ed72e66f51b0b591fb539f8a25f91b52cd5790bf6a99.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [
+            "图中数据为平均值 $\\pm$ 标准差 $\\left( n = 2 7 \\right)$ );ns，差异不显著； $*$ 和 $* * *$ 分别表示在 $\\scriptstyle P < 0 . 0 5$ 和 $P { < } 0 . 0 1$ 水平上差异显著"
+        ],
+        "table_body": "<html><body><table><tr><td>天气 Weather</td><td>处理 Treatment</td><td>净光合速率 Photosynthetic rat(Pn)/ （μmol m-² s-1))</td><td>气孔导度 Stomatal conductance (Gs)/ (mol m-² s-1)</td><td>胞间CO浓度 Intercellular CO2 concentration(Ci)/</td><td>蒸腾速率 Transpiration rate(Tr)/ (mmol m-² s-1)</td><td>水分利用率 Water use efficiency (WUE)/</td></tr><tr><td></td><td>ECAT</td><td>20.88±5.14</td><td>0.43±0.15</td><td>(μmol/mol) 480±16</td><td>5.92±1.12</td><td>(mmol/mol) 3.75±1.37</td></tr><tr><td></td><td>ECET</td><td>20.65±5.23</td><td>0.42±0.17</td><td>470±22</td><td>6.72±1.17</td><td>2.95±0.88</td></tr><tr><td></td><td>CO2</td><td>**</td><td>**</td><td>**</td><td>**</td><td>**</td></tr><tr><td></td><td>温度(T)</td><td>ns</td><td>*</td><td>ns</td><td>*</td><td>**</td></tr><tr><td></td><td>天气（W)</td><td>**</td><td>ns</td><td>**</td><td>**</td><td>**</td></tr><tr><td></td><td>COXT</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td></td><td>CO2xW</td><td>**</td><td>ns</td><td>**</td><td>ns</td><td>** ?</td></tr><tr><td></td><td>TxW CO2xTxW</td><td>ns</td><td>ns</td><td>ns</td><td>ns ns</td><td></td></tr><tr><td></td><td></td><td>ns</td><td>ns</td><td>ns</td><td></td><td>ns</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同处理,水稻 $P n$ 阴天为单峰曲线,13:00 达到峰值,与PAR 显著相关;晴天为双峰曲线,分别于12:00和14:00出现两个峰值，且12:00出现全天 $P n$ 最大值,在12：00与14：00 之间出现了光合“午休”。同一处理,晴天水稻 $P n$ 显著高于阴天的,ACAT、ACET、ECAT和ECET 晴天水稻 $P n$ 均值比阴天的分别增加了$3 7 . 1 \\% . 4 0 . 0 \\% . 5 6 . 3 \\%$ 和 $7 2 . 0 \\%$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻气孔导度的日变化特征",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同天气下， $\\mathrm { C O } _ { 2 }$ 浓度和温度升高均不同程度降低了水稻气孔导( $\\cdot \\ : \\mathcal { G } s ^ { \\dagger }$ ）（图3），其响应程度经统计分析，所测的9h日变化时间中阴天和晴天分别有 $3 3 . 3 \\%$ 和 $4 4 . 4 \\%$ 达到显著水平，二者同时升高对水稻 $G s$ 的交互作用不明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/46e8d28e07ad50d4d6a72cf4e4f131cadeb0011121af37b7ad51335437ce2b90.jpg",
+        "img_caption": [
+            "图3 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻气孔导度的日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Diurnal variation of rice stomatal conductance of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy and sunny days ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2知，不同天气下水稻 $G s$ 度均以ACAT最高，阴天和晴天分别比ACET、ECAT和ECET平均提高了$1 3 . 8 \\% . 1 9 . 7 \\% . 2 6 . 0 \\%$ 和 $2 1 . 7 \\% . 2 7 . 0 \\% . 2 9 . 5 \\%$ ,表明水稻晴天对高 $\\mathrm { C O } _ { 2 }$ 浓度和高温的响应程度大于阴天。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "阴天水稻 $G s$ 日变化趋势比较复杂,各处理的 $\\quad G s$ 均值由9:00 的 $0 . 7 4 \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 下降到10:00 的 $\\phantom { + } 0 . 4 8 \\mathrm { m o l }$ $\\mathbf { m } ^ { - 2 } \\mathbf { s } ^ { - 1 }$ ,继而上升到11:00 的 $0 . 6 9 \\mathrm { m o l \\ m } ^ { - 2 } \\mathrm { \\ s } ^ { - 1 }$ ,再下降到14:00 的 $0 . 2 3 \\mathrm { m o l ~ m } ^ { - 2 } \\mathrm { ~ s } ^ { - 1 }$ ,然后有所提高又下降到17：00的 $0 . 2 0 \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 。晴天水稻 $\\quad G s$ 变化呈双峰曲线,峰值出现的时间与 $P n$ 一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻胞间 $\\mathrm { C O } _ { 2 }$ 浓度的日变化特征",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出，不同天气下， $\\mathrm { C O } _ { 2 }$ 浓度升高显著增加了水稻胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C i )$ ，温度升高表现为抑制趋势。经统计分析,与增温效应相似,高 $\\mathrm { C O } _ { 2 }$ 浓度和高温交互作用对水稻 $\\boldsymbol { C } i$ 影响仅在11:00 和12：00达到显著差异,其他时间差异不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水稻 $\\boldsymbol { C } i$ 受环境影响较大,FACE 圈水稻剑叶 $\\boldsymbol { C } i$ 明显高于Ambient圈,而同一圈中不同处理水稻 $\\boldsymbol { C } i$ 日变化幅度不大。不同天气下，相同处理阴天的水稻 $\\boldsymbol { C } i$ 日变化均值显著高于晴天,ACAT、ACET、ECAT和ECET分别增加了 $6 . 8 \\% , 6 . 0 \\% , 1 1 . 7 \\%$ 和 $1 3 . 4 \\%$ (表2）。 2",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0dd293da34a8f8203336f035fc05405f3e956b9e18d249e6d0aa669207dc59e.jpg",
+        "img_caption": [
+            "图4 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻胞间 $\\mathbf { C O } _ { 2 }$ 浓度的日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Diurnal variation of rice intercellular $\\mathbf { C O } _ { 2 }$ concentration of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy and sunny days 0 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻蒸腾速率的日变化",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出， $\\mathrm { C O } _ { 2 }$ 浓度和温度升高对不同天气下水稻蒸腾速率 $( T r )$ 日变化的影响程度不一致,前者表现为抑制趋势,后者表现为促进趋势,二者交互作用不明显。由表2可以知,从均值上比较， $\\mathrm { C O } _ { 2 }$ 浓度升高对水稻 $T r$ 日变化的抑制作用达到极显著水平,降幅为 $1 0 . 8 \\% { - 2 9 . 0 \\% }$ ,温度升高的促进作用达到显著水平,增幅为 $5 . 0 \\%$ 1 $1 3 . 5 \\%$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同天气条件水稻 ${ { T } _ { r } }$ 差异极显著。水稻 ${ { T } _ { r } }$ 日变化为单峰曲线,阴天和晴天分别于13:00 和14:00 左右达到峰值，阴天的日变化的峰值和变幅度均大于晴天的。阴天ACAT、ACET、ECAT和ECET水稻剑叶 $T r$ 的日变化均值分别比晴天增加了 $2 7 . 4 \\% , 3 1 . 2 \\% , 1 8 . 3 \\%$ 和 $9 . 8 \\%$ ,平均增加了 $2 0 . 9 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻水分利用率的日变化",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图 $\\overline { { 6 } }$ 可知， $\\mathrm { C O } _ { 2 }$ 浓度升高显著提高了不同天气下水稻水分利用率(WUE),增温降低了不同天气下水稻WUE,二者交互作用不明显。不同处理,水稻WUE日变化均值对 $\\mathrm { C O } _ { 2 }$ 浓度和温度的响应均达到显著水平。阴天水稻WUE 的 ECAT比ACAT、ACET和ECET 提高了 $5 0 . 9 \\% . 8 7 . 1 \\% . 1 9 . 7 \\%$ ,晴天提高了 $5 1 . 7 \\% . 9 6 . 3 \\%$ 、$2 3 . 3 \\%$ (表2)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C O } _ { 2 }$ 浓度和温度升高,水稻WUE阴天的日变化表现为随时间变化先上升后下降的趋势，而晴天表现为下降的趋势。同一处理,晴天水稻WUE日变化均值显著高于阴天的,ACAT、ACET、ECAT和ECET均值分别增加了 $1 0 1 . 5 \\%$ ） $8 5 . 5 \\%$ ） $1 0 4 . 1 \\%$ 和 $9 2 . 2 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/117f0b533defb627c5c38f740fa8bb04bbcbc52605e67c0d57a4bf466c0e0f95.jpg",
+        "img_caption": [
+            "图5 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻蒸腾速率的日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Diurnal variation of rice transpiration rate of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy and sunny day! ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8c3ac22f25fb567be15ec8d86bf73b0a4fed84839d90c99f57ae320d0a0e67c.jpg",
+        "img_caption": [
+            "图6 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻水分利用率的日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Diurnal variation of rice water use effciency of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy and sunny days ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻光合特征参数的相关性不同环境因素对水稻光合特征的影响差异明显,具体表现在与水稻光合特征参数相关性不同,光合特征参数间的相关性亦不同(表3）。天气状态(W)是PAR 和温度共同作用的结果,与PAR极显著相关。PAR 与水稻 $P n \\sqrt { s } \\mathrm { , } C i \\mathrm { , } T r$ 、WUE 成不同程度正向相关。 $\\mathrm { C O } _ { 2 }$ 浓度与水稻 $P n \\_ C i$ 、WUE向相关,而与 $G s$ 和 ${ { T } _ { r } }$ 负相关。温度与 $P n \\sqrt { \\mathrm { \\Lambda } } G s \\lrcorner C i \\mathrm { \\ 、 } \\mathrm { W U E }$ 负相关,其中与 $G s$ 和WUE 达到显著水平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "光合参数中， $P n$ 与 $\\mathit { G s } , \\mathit { C i } , \\mathit { T r }$ 、WUE 正显著相关。 $\\boldsymbol { C } i$ 与 $\\mathit { G s } , \\mathit { T r }$ 负显著相关。这些相关分析表明,PAR、 $\\mathrm { C O } _ { 2 }$ 浓度和温度通过调解水稻光合参数 $\\mathit { G s } , \\mathit { C i } , \\mathit { T r }$ 、WUE 的变化,进而影响水稻 $P n$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/da5e5f3399ef8896a52c5d59cc79f231bfff1325da41a3282645b0e071961da7.jpg",
+        "table_caption": [
+            "表3 $\\mathbf { C O } _ { 2 }$ 浓度和温度升高的不同天气下水稻剑叶光合特征参数相关关系",
+            "Table 3Relationships among rice photosynthesis characteristic parameters of elevated $\\mathbf { C O } _ { 2 }$ concentration and temperature between cloudy anc sunnv davs "
+        ],
+        "table_footnote": [
+            "自由度Degree of freedom， $d f = 4 5$ $*$ 和 $* *$ 分别表示在 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 水平上差异显著"
+        ],
+        "table_body": "<html><body><table><tr><td>指标 Index</td><td>天er</td><td>CO2</td><td>Teate (T)</td><td>光合有eical active radiation</td><td>净光合速率 Pn</td><td>气孔导度 Gs</td><td>胞间CO浓度 Ci</td><td>蒸腾速率 Tr</td><td>水分利用率 WUE</td></tr><tr><td></td><td>（W）</td><td>-0.014</td><td>0.014</td><td>(PAR) 0.544 **</td><td>0.454 **</td><td>-0.075</td><td>-0.228 **</td><td>-0.329 **</td><td>0.582 **</td></tr><tr><td>W CO2</td><td>1 -0.014</td><td>1</td><td>0.024</td><td>0.045</td><td>0.342**</td><td>-0.198**</td><td>0.940 **</td><td>-0.215 **</td><td>0.379**</td></tr><tr><td>T</td><td>0.014</td><td>0.024</td><td>1</td><td>-0.007</td><td>-0.073</td><td>-0.139 *</td><td>-0.019</td><td>0.124</td><td>S -0.193 **</td></tr><tr><td>PAR</td><td>0.544 **</td><td>0.045</td><td>-0.007</td><td>1</td><td>0.694 **</td><td>0.505**</td><td>-0.068</td><td>0.175 *</td><td>0.534 **</td></tr><tr><td>Pn</td><td>0.454 **</td><td>0.342 **</td><td>-0.073</td><td>0.694 **</td><td>1</td><td>0.547 **</td><td>0.151 *</td><td>0.264 **</td><td>0.809 **</td></tr><tr><td>Gs</td><td>-0.075</td><td>-0.198**</td><td>-0.139 *</td><td>0.505**</td><td>0.547**</td><td>1</td><td>-0.177 **</td><td>0.570 **</td><td>0.233 **</td></tr><tr><td>Ci</td><td>-0.228**</td><td>0.940**</td><td>-0.019</td><td>-0.068</td><td>0.151 *</td><td>-0.177 **</td><td>1</td><td>-0.244 **</td><td>0.204 **</td></tr><tr><td>Tr</td><td>-0.329 **</td><td>-0.215 **</td><td>0.124</td><td>0.175 *</td><td>0.264 **</td><td>0.570 **</td><td>-0.244 **</td><td>1</td><td>-0.227 **</td></tr><tr><td>WUE</td><td>0.582 **</td><td>0.379 **</td><td>-0.193 **</td><td>0.534**</td><td>0.809 **</td><td>0.233**</td><td>0.204**</td><td>-0.227 **</td><td>1</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "水稻光合的测定多选择稳定的人工PAR或晴朗无云的天气条件，很少考虑阴天PAR大幅降低的情况。但江都FACE 试验点 2015年水稻生育期137d(6月17日至10月26日)中,晴天、多云或阴天、雨天数分别为$3 0 \\mathrm { d } \\ 、 7 3 \\mathrm { d } \\ 、 3 4 \\mathrm { d } ^ { [ 1 6 ] }$ ,其中多云或阴天天数占水稻生育期 $5 3 . 3 \\%$ 。2015 年水稻齐穗期阴、雨天多,晴天少。我们在测定了 $\\mathrm { C O } _ { 2 }$ 响应曲线后,齐穗期已无晴天可期,就利用阴天观测了光合日变化。比较水稻阴天(齐穗期)和晴天(灌浆中期)的光合日变化对高 $\\mathrm { C O } _ { 2 }$ 浓度响应时，发现高 $\\mathrm { C O } _ { 2 }$ 浓度条件下水稻 $P n$ 与对照比的增幅,阴天显著低于晴天，说明较低的PAR减弱高 $\\mathrm { C O } _ { 2 }$ 浓度对水稻光合的正效应。由于工业发展大气中气溶胶等颗粒物增加导致我国大气PAR不断下降[3-6],已经严重影响到水稻光合作用。为更好地评估未来情景下水稻光合生产力变化，不同天气条件下水稻光合日变化对高 $\\mathrm { C O } _ { 2 }$ 浓度和高温的响应差异值得进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究表明,水稻阴天和晴天 $\\mathbf { \\Delta } P n$ 日变化分别为单峰和双峰曲线。阴天 $P n$ 峰值出现在13:00,而后随PAR的下降而降低,未发生光合“午休”;晴天 $P n$ 在12:00 和14:00 两个峰值间出现了明显的下降,产生了光合\"午休”。周宁等[13]在本FACE平台的研究并未发现水稻的光合“午休\"现象,可能与其测定间隔较长（2h)有关。对于叶片光合“午休\"的机理存在不同的观点。许大全等[14]研究认为,自然条件下晴天中午过饱和光强抑制及呼吸作用的增强,是植物光合作用效率降低的主要原因。李霞等[17]研究发现,中午强光高温引起PSⅡ反应中心可逆失活影响到ATP和NADPH同化力的产生,进而发生 $\\boldsymbol { F _ { v } } / \\boldsymbol { F _ { m } }$ 值下降,这可能是叶片 $P n$ 中午降低的主要生理原因之一。但也有研究认为[18」，“午休”的发生与维持主要由气孔限制引起,非气孔限制在光合\"午休\"中所占的比例远低于气孔限制。本试验南粳9108 剑叶根据光响应曲线数据得到其饱和PAR 值在1300molm²s-'左右,晴天中午PAR 超过了其饱和值,导致叶片气孔关闭， $G s$ 降低,是光合“午休\"现象产生的主要原因,其机理需进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通常水稻齐穗期或灌浆初期光合能力最强,本试验所测的阴天(齐穗期)Pn却低于晴天(灌浆中期),表明低 PAR大大削弱了水稻光合能力。通过PAR与光合参数相关性的分析,PAR与 $G s$ 正显著相关,由此可以推测阴天PAR下降，导致水稻剑叶 $G s$ 关闭。气孔限制是阴天 $P n$ 下降的主要原因。阴天 $P n$ 的下降不利于水稻生产力的提高,因此,从环境改善或品种改良等方面提高阴天水稻的 $P n$ ,值得深入研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作物的光合日变化是一个极其复杂的生理过程,极易受外界环境条件影响。外界环境中的 $\\mathrm { C O } _ { 2 }$ 浓度、温度、PAR 等通过改变水稻叶片内部生理生化过程而影响水稻光合作用[19]。通过相关性分析表明,环境因素与水稻光合参数呈不同程度的正相关或负相关, $\\mathrm { C O } _ { 2 }$ 浓度升高促进了水稻光合作用,增温的效应相反,这与前人研究结果一致[9-13.20-21]。本试验中,不同天气下 FACE 圈两个处理水稻剑叶 $P n$ 平均比 Ambient 圈增加了$3 5 \\%$ ,可能与水稻剑叶光合作用关键酶——核酮糖1,5-二磷酸羧化酶/加氧酶(Rubisco)在大气 $\\mathrm { C O } _ { 2 }$ 浓度升高时,羧化效率增强有关[22]。Ambient 圈增温处理阴天和晴天水稻剑叶 $P n$ 下降幅度相近,平均下降了 $1 2 . 5 \\%$ ，FACE圈增温处理两种天气下水稻剑叶 $P n$ 降幅差异较大，阴天平均下降了 $1 0 . 2 \\%$ ,晴天降幅不明显。增温削弱了高 $\\mathrm { C O } _ { 2 }$ 浓度对水稻光合作用的促进效果,但随水稻生长发育的进程这种影响减弱,总体看高 $\\mathrm { C O } _ { 2 }$ 浓度和高温下水稻光合生产力仍是增强的。水稻生长在高 $\\mathrm { C O } _ { 2 }$ 浓度、高温、PAR超过饱和的环境下会主动降低Gs以适应这种环境变化[19]。 $\\mathrm { C O } _ { 2 }$ 浓度升高使水稻叶片气孔阻力增加, $G s$ 下降,导致冠层温度升高[20]；气温升高时植物通过增强蒸腾作用调低叶片温度[21],因此增温有减弱叶片 $G s$ 对 $\\mathrm { C O } _ { 2 }$ 的响应。 $\\mathrm { C O } _ { 2 }$ 浓度升高时，晴天增温处理对水稻 $P n$ 的影响比阴天降低,可能还与观测时间对应的生育期不同有关。高 $\\mathrm { C O } _ { 2 }$ 浓度和高温促进水稻生长发育,剑叶等光合作用器官的衰老加速、光合作用相关酶活性降低和光合色素含量的减少有关[11.23]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "水稻光合日变化特征与 $\\mathrm { C O } _ { 2 }$ 浓度、温度、PAR 等环境因素紧密相关。在本研究中,阴天因PAR比晴天低,导致了水稻 $P n$ 的下降了 $3 7 . 1 \\% { - 7 2 . 0 \\% }$ ,晴天水稻光合日变化发生了光合“午休”,阴天并未发生此现象。不同天气下， $\\mathrm { C O } _ { 2 }$ 浓度升高对水稻光合作用促进幅度不同,阴天和晴天水稻 $\\gamma _ { n }$ 分别增加了 $2 1 . 6 \\% - 3 8 . 8 \\%$ 和$3 8 . 6 \\% - 5 8 . 4 \\%$ ,阴天降低了 $\\mathrm { C O } _ { 2 }$ 增加对水稻光合作用的正效应;温度升高表现出抑制水稻光合作用的趋势，但未改变 $\\mathrm { C O } _ { 2 }$ 浓度对水稻光合作用的促进。 $G s$ 在水稻光合作用发挥着重要调解作用,当 $\\mathrm { C O } _ { 2 }$ 浓度增加、温度升高或PAR 大于水稻饱和光强时,水稻通过 $G s$ 降低以适应环境变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]IPCC（IntergoverentalPanelonCliateChange)Climatechange27thePhysicalsiencebasis//SolonS,QinD,MaingChnZ,MarquisM，AvetK,gor,MilldsCotrbutioofWoigGrouptFourthessntReportoftheItergtalPanel on Climate Change.Cambridge，United Kingdom，New York:Cambridge University Press，2007：996.  \n[2]WildM.Global dimmingandbrightening:areview.Journalof Geophysical Research:Atmospheres，2O09,114(D10):00D16.  \n[3]Che H Z, Shi GY,Zhang X Y, Arimoto R, Zhao $\\mathrm { { J } \\it { Q } , \\ X u \\mathrm { { L } } }$ ,Wang B,Chen Z H.Analysis of 40 years of solar radiation data from China,1961-2000.Geophysical Research Letters，2005，32（6）:L06803.  \n[4］郭梁，胡波，戴君虎，许建初.近五十年北京板栗始花物候对光合有效辐射变化的响应.植物分类与资源学报，2014，36(4)：523-532.  \n［5］白建辉.光合有效辐射在大气中的衰减.环境科学学报，2010，30(2)：302-313.  \n［6］宣守丽，石春林，金之庆，曹宏鑫，魏秀芳，王晶晶.长江中下游地区太阳辐射变化及其对光合有效辐射的影响.江苏农业学报，2012，28(6) : 1444-1450.  \n［7］景立权，赖上坤，王云霞，杨连新，王余龙.大气 $\\mathrm { C O } _ { 2 }$ 浓度和温度互作对水稻生长发育的影响.生态学报，2016，36(14)：4254-4265.  \n[8]WangDR,BunceJA,Tmeek MB,GealyD,MclungA,ccouchSR,ZisaLHEvidencefordivergenceofresponseinIdicaJpoica,and wild rice to high $\\mathrm { C O } _ { 2 } \\times$ temperature interaction.Global Change Biology，2016,22(7）：2620-2632.FigueiredoN,aranaC,rindadeH,ereiraJ,GoufoP,CoutinhJ,arquesP,MaricatoR,dVarees.Elevatedcarbondioidetemperatureetsoiceyeld,eafgeesndpenolicalagesdurationddyndWaterEnvioent,l,（4）：24.10] Cai C,YinXY,HeSQ,JiangWY,SCF,StruikPC,LuoWH,LiG,XieYT,XiongY,PanGX.Responsesof wheatandceactorialcombinations of ambient and elevated $\\mathrm { C O } _ { 2 }$ and temperature in FACE experiments. Global Change Biology，2016,22(2）： 856-874.  \n[] 谢立勇，姜乐，冯永祥，赵洪亮，王惠贞，林而达.FACE 条件下 $\\mathrm { C O } _ { 2 }$ 浓度和温度增高对北方水稻光合作用与产量的影响研究.中国农业大学学报,2014，19（3)：101-107.  \n［12］赖上坤，庄时腾，吴艳珍，王云霞，朱建国，杨连新，王余龙.大气 $\\mathrm { C O } _ { 2 }$ 浓度和温度升高对超级稻生长发育的影响.生态学杂志，2015,34(5):1253-1262.  \n[13］周宁，沈士博,景立权，王云霞,朱建国,杨连新，王余龙.自由空气中 $\\mathrm { C O } _ { 2 }$ 浓度和温度增高对粳稻叶片光合作用日变化的影响.生态学杂志，2016，35(9)：2404-2416.  \n[14］许大全，徐宝基,沈允钢. $\\mathrm { C } _ { 3 }$ 植物光合效率的日变化.植物生理学报，1990，16(1)：1-5.  \n[15］刘钢，韩勇，朱建国，冈田益己，中村浩史，吉本真由美.稻麦轮作FACE系统平台I.系统结构与控制.应用生态学报，2002，13(10)：1253-1258.  \n[16] 江都历史天气预报查询.htp://www.tianqihoubao.com/lishi/jiangdu.html.  \n[17] 李霞，焦德茂，戴传超，王守海，吴爽,李成荃.转育 PEPC 基因的杂交水稻的光合生理特性.作物学报，2001,27(2)：137-143.  \n[18] 王焘，郑国生，邹琦.干旱与正常供水条件下小麦光合午休及其机理的研究.华北农学报，1997，12(4)：48-51.  \n[19] 翁晓燕，蒋德安.生态因子对水稻 Rubisco 和光合日变化的调节.浙江大学学报：农业与生命科学版，2002，28(4)：387-391.  \n[20]Matsui T,Namuco O S,Ziska L H,Horie T.Effects of high temperature and $\\mathrm { C O } _ { 2 }$ concentration on spikelet sterility in indica rice.Field CropsResearch，1997,51(3)：213-219.  \n[21]BakerJT,Allen Jr L H. Effects of $\\mathrm { C O } _ { 2 }$ and temperature on rice：a summary of five growing seasons.Journal of Agricultural Meteorology，1993,48(5):575-582.  \n[22]ChenCP,Sakai H,TokidaT，UsuiY，NakamuraH，HasegawaTDotherichalwasbecomericher?Characterizingtheleafphysiologicalresponse of the high-yielding rice cultivar takanari to free-air $\\mathrm { C O } _ { 2 }$ enrichment.Plant & Cell Physiology，2014，55(2）:381-391.  \n[23］张黎萍，荆奇，戴延波，姜东，曹卫星.温度和光照强度对不同品质类型小麦旗叶光合特性和衰老的影响.应用生态学报，2008，19（2)：311-316.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bb967e7465049504c7b814543bc2f1b60e10f6a6047cb6775544641026a47b5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    }
+]

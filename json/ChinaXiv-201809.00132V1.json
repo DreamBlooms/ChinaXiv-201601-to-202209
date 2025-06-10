@@ -1,0 +1,969 @@
+[
+    {
+        "type": "text",
+        "text": "一种基于信道状态信息的人员轨迹跟踪方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝占军1,²，李倍倍1，党小超1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．西北师范大学 计算机科学与工程学院，兰州 730070;2.甘肃省物联网工程研究中心，兰州 730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对在室内环境的轨迹跟踪过程中，通信开销较大和算法复杂度较高的问题，对一种基于CSI(chanel stateinformation)信号的人员轨迹跟踪方法进行研究。首先从CSI中提取代表目标位置(角度)概率的AOA(angle-of-arrival)频谱，通过MUSIC算法得到的多普勒频移与AOA频谱相结合来确定人员移动速度及位置；最后利用改进的三边定位质心算法确定人员位置，模拟人员移动轨迹，实现对室内人员精准的跟踪定位。通过与其他算法以及不同人员移动速度的对比，仿真实验表明本文提出的人员追踪方法可以大幅度提高定位的精确性与稳定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：CSI信号；轨迹跟踪；三边定位；质心算法；跟踪定位 中图分类号：TP doi: 10.3969/j.issn.1001-3695.2018.07.0367 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Method of trajectory tracking based on channel status information ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hao Zhanjun1,2, Li Beibei', Dang Xiaochao1, 2 (1.CollegeofomputerScience&Enginering,NorthwestNormalUnversityLnouoo,China;2.Gasurovince Internet of Things Engineering Research Center,Lanzhou 73o070,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:For high communication overhead and greater algorithm complexityofthe problem,researchers on aprogressive track CSI(channeltate information)signal tracking methodbasedonthe trajectoryofthe indoor environment ofthetracking proces.Extractingfirstrepresentativeofte CSItarget position (angle)probabilityAOA(ngle-of-arrval) spectrumobtained bytheDopplershiftMusicAOAalgorithm incombinationwithspectral determinethe moving speedand position theart;finally theimproved trilateral positioning centroidalgorithmtolocate personnel,modelers moving track toachieveaccurate dor tracking and locating personnel.Bycomparison with other algorithms and diferent speeds of movement of persons,person tracking simulation results show that the proposed method can greatly improve the accuracy and stability of positioning. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: CSI signal; tracking trajectory ; trilateral positioning ; centroid algorithm; tracking positioning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "定位技术作为普适计算和物联网的一个重要组成部分，受到了越来越广泛的关注。全球卫星导航系统(globalnavigationsatellite system，GNSS)在室外精准定位方面起着关键作用，但是由于在室内环境下，GNSS由于信号在传播过程中表现出来的多径效应、散射、衍射等特性，使其无法再发挥其高精度定位的优势。目前基于CSI的定位技术研究已经取得了一定的成果，甚至已经达到了米级或是亚米级的定位精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几年以来，麻省理工学院、斯坦福大学、华盛顿大学、香港科技大学、清华大学等高校都对CSI感知应用系统进行了大量的研究。文献[1]中使用商用Wi-Fi实现无设备室内人员跟踪，实现在丢包、延迟的情况下也能实现很高的定位精度，但没有考虑到多人追踪、实时跟踪、多径效应的影响问题。文献[2]使用软件无线电(USRP)实现了整个实验区域的手势识别，并使用FFT来检测多普勒频移。文献[3]中使用RFID 构建虚拟触摸屏，并利用AoA信息进行细粒度跟踪。WiDraw利用AoA信息很好的提供了使用相位信息确定位置的思路，但需要Wi-Fi发射机在环境中覆盖所有方向[4]。而在实际环境中受多径效应的影响，实现起来存在一定难度。文献[5]中利用CSI，构建了基于CSI模型的低成本高精度被动式目标定位方法LIFS，将CSI的特点有效的结合在了目标定位方面，但未考虑检测区域与检测率的关系。文献[6]中将CSI中的相位信息应用在通过人员说话时口腔的运动，很好的达到更细粒度的定位的效果，但是相位信息不易获取，并且要利用专用设备USPR，稳定性和实用性不高。文献[7]中FIMD系统通过利用CSI的稳定性，在静态环境下实现了更细粒度的人员检测，但未达到高检测率，并且会受实验环境的改变而影响整体性能。文献[8]中的BFP系统利用CSI进行行为无关移动检测，整体性能较好，但其算法的整体效率不高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对现有的轨迹跟踪方法大都是以牺牲较高的通信开销和较高算法复杂度为代价来提高精度，本文提出的基于CSI信号的人员轨迹追踪方法很好地规避了上述存在的问题。首先提取到的CSI信号用平滑算法进行处理，形成增强型的CSI算法。增强型CSI算法是将前一个CSI的值大小与当前的CSI值进行对比，降低了移动人员目标的动能波动。最后再利用改进的三边定位质心算法确定每一个活动点，将所有的活动点绘制成轨迹图像直观显示出来，实现对室内人员进行更加精准的跟踪定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关理论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1信道状态信息 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CSI是衡量信道情况的信道状态信息,属于PHY层，来自OFDM系统下解码的子载波[9-10]。CSI是细粒度的物理信息，对环境更加敏感，应用于动作识别，手势识别，击键识别，跟踪等领域。首先需要知道被测节点的收功率，发射节点信号功率作为参考，然后利用信号传播衰减模型转换为节点间的距离，最后再用改进的三边测量算法就可以简单确定未知节点的位置。无线信号的发射功率和接收功率之间的关系可以用式(1)表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\scriptscriptstyle R } = P _ { \\scriptscriptstyle T } / d ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { \\scriptscriptstyle R }$ 是无线信号的接收功率， $P _ { \\scriptscriptstyle T }$ 是无线信号的发射功率， $r$ 是收发单元之间的距离， $n$ 传播因子,数值大小取决于无线信号传播的环境。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对式(1)的两边取对数可以得到式(2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 0 ^ { * } n \\lg r = 1 0 \\lg { \\frac { P _ { _ T } } { P _ { _ R } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "节点发射功率是已知的,将发送功率代入式(2)中得式(3)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 0 \\log { P _ { R } } = A - 1 0 ^ { * } n \\log { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(3)的左半部分 $1 0 \\mathrm { l g } P _ { \\scriptscriptstyle R }$ 是接收信号功率转换为 $d B m$ 的表达式，可以直接写成式(4)在式(4)中 $A$ 可以看做信号传输 $ { \\mathrm { ~ 1 m } }$ 远时接收信号的功率.",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\scriptscriptstyle R } ( d B m ) = A - 1 0 ^ { * } n \\lg r\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(4)中 $P _ { \\scriptscriptstyle R } ( d B m )$ 就是CSI常数， $A$ 和 $n$ 的数值决定了接收信号强度和信号传输距离的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为每个参考点的信号衰减程度不同，所以只有一个 $n$ 的值不具有一般性，也很难说明其准确性。由式(4)得到式(5)，从而得到一组 $n _ { i }$ 的值，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn _ { i } = - [ \\frac { C S I _ { i } - A } { 1 0 \\mathrm { l g } r _ { i } } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(5)求出的一组 $n _ { i }$ 的值 $n _ { 1 } , n _ { 2 } , n _ { 3 } \\cdots n _ { n _ { n } }$ 求这组数的平均值n’n这里的即为所求的传播因子。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2CSI信号的多普勒频移提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多径传播就是在带有一对发射器和接收器的室内环境中，信号不仅沿直达路径传播，还存在被其他物体(如人)和墙壁遮挡反射的现象[1I-13]。在接收器处接收的信号因此是来自所有路径的信号的叠加。当一个人在环境中移动时，路径的长度受人的反射信号不同相应地改变，这时引起载波频率多普勒频移反射信号发生改变，载波频率如式(6)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { D o p p l e r } = f \\frac { \\nu _ { p a t h } } { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $f$ 是信号的原始载波频率， $\\nu _ { p a t h }$ 是路径长度变化的速度，$c$ 是Wi-Fi信号在空中的传播速度。当人在移动时，引入多普勒Wi-Fi信号的频率转换对于5GHz信道来说只有几十赫兹。显然对细粒度如此小的多普勒载波频移进行检测是十分困难的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 基于CSI的轨迹追踪方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1基于MUSIC的多普勒估计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "状态信息在采集时，由于实际环境噪声和干扰造成的分组丢失/延迟，容易引起不能正常发送、接收样本数据包的问题。为了解决这些问题，如何使用Wi-Fi设备获得准确的多普勒频移估计成为关键，本文提出了一个基于MUSIC的算法来获得准确的多普勒频率转移估计的算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设在 $t _ { 0 }$ 时刻收集第一个CSI样本，每个样本对第一个样本的采样间隔为 $[ 0 , _ { ^ { \\Delta } } t _ { _ { 2 } } , . . . , _ { ^ { \\Delta } } t _ { _ { M } } ]$ ,其中 $\\triangle t _ { 1 } = 0$ 。在一个短采样窗口，因为不同CSI样本跨越衰减差异不同，所以把路径的改变速度$\\nu _ { p a t h }$ 视为一个常数。第 $i$ 个CSI之间的相位差样本，第一个样本是 $e ^ { - j 2 \\pi f ^ { \\frac { v \\Delta t _ { i } } { c } } }$ ，其中 $f$ 是信号的原始载波频率。因此，阶段第Mth个CSI样本与第一个CSI样本之间的差异可以表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel {  } { a } ( \\nu ) = [ 1 , e ^ { - j 2 \\pi f ^ { \\frac { \\nu \\Delta t _ { 2 } } { c } } } , e ^ { - j 2 \\pi f ^ { \\frac { \\nu \\Delta t _ { 3 } } { c } } } , \\cdots , e ^ { - j 2 \\pi f ^ { \\frac { \\nu \\Delta t _ { M } } { c } } } ] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overset {  } { a } ( \\nu )$ 多普勒矢量和具有 $M$ 个样本的 CSI 样本矩阵表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal X } ( f ) = [ x ( f , t _ { 0 } ) , x ( f , t _ { 0 } + \\Delta t _ { 2 } ) , . . . , x ( f , t _ { 0 } + \\Delta t _ { M } ) ] = } } \\\\ { { \\displaystyle [ 1 , e ^ { - j 2 \\pi f ^ { \\frac { \\nu \\Delta t _ { 2 } } { c } } } , e ^ { - j 2 \\pi f ^ { \\frac { \\nu \\Delta t _ { 3 } } { c } } } , \\cdots , e ^ { - j 2 \\pi f ^ { \\frac { \\nu \\Delta t _ { M } } { c } } } ] ^ { T } { \\bf x } ( { \\bf f } , { \\bf t } _ { 0 } ) + \\mathrm { n ( f ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Sigma } = \\stackrel {  } { a } ( \\nu ) \\mathbf { x } ( \\mathbf { f } , \\mathbf { t } _ { 0 } ) + \\mathbf { n } ( \\mathbf { f } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $n ( f )$ 是噪声。当只有一个路径信号存在时，可以很容易地从CSI样本的相位测量中计算多普勒频移。在具有多路径的实际情况中，L路径信号将到达接收器。由(7)式和式(8)CSI样本矩阵可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal X } ( f ) = \\sum _ { i = 1 } ^ { L } \\stackrel {  } { a } ( \\nu ) \\mathrm { x ( f , t _ { 0 } ) } { \\scriptstyle + \\mathrm { n ( f ) } } = } \\ ~ } \\\\ { { \\displaystyle { { \\cal \\Sigma } } } \\stackrel {  } { [ a ( \\nu _ { 1 } ) , a ( \\nu _ { 2 } ) , \\cdots , a ( \\nu _ { L } ) ] [ s _ { 1 } ( f , t _ { 0 } ) , } \\ ~ = A S ( f ) + N ( f ) \\ ~ }  \\\\ { { \\displaystyle s _ { 2 } ( f , t _ { 0 } ) , \\cdots , s _ { L } ( f , t _ { 0 } ) ] ^ { T } \\mathrm { x ( f , t _ { 0 } ) } + \\mathrm { N ( f ) } } \\ ~ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\nu _ { i }$ 是第 $i$ 个路径信号的路径变化速度;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A=[a(νi),a(ν2),,a(v)]是全部的M\\*L矩阵多普勒频移普勒矢量是在第一个采样时间 $t _ { 0 }$ 测量的第 $i$ 个路径信号的CSI,矩阵 $\\boldsymbol { s } ( \\boldsymbol { f } ) = [ s _ { 1 } ( \\boldsymbol { f } , t _ { 0 } ) , s _ { 2 } ( \\boldsymbol { f } , t _ { 0 } ) , \\cdots , s _ { L } ( \\boldsymbol { f } , t _ { 0 } ) ] ^ { T }$ 是信号矩阵， $N ( f )$ 是噪声矩阵。为了得到每个路径信号的多普勒频移。本文采取每个CSI样本频率域中的多个快照，如图1所示。设备在多个子载波上提供CSI。设K是CSI的子载波数，有CSI的 $K$ 个快照CSI样本。对于第 $i$ 个CSI样本，可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel {  } { \\mathrm { x } } ( \\mathrm { f } , \\mathrm { t } _ { 0 } + \\Delta \\mathrm { t } _ { \\mathrm { i } } ) = [ \\mathrm { x } ( \\mathrm { f } _ { \\mathrm { _ 1 } } , \\mathrm { t } _ { 0 } + \\Delta \\mathrm { t } _ { \\mathrm { i } } ) , \\mathrm { x } ( \\mathrm { f } _ { \\mathrm { _ 2 } } , \\mathrm { t } _ { 0 } + \\Delta \\mathrm { t } _ { \\mathrm { i } } ) , . . . , \\mathrm { x } ( \\mathrm { f } _ { \\mathrm { _ K } } , \\mathrm { t } _ { 0 } + \\Delta \\mathrm { t } _ { \\mathrm { i } } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $f _ { k }$ 是第 $k$ 个子载波的原始载波频率。信号矩阵 $S ( f )$ 中的第 $i$ 个路径信号可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel {  } { s _ { i } } ( f , t _ { 0 } ) = [ s _ { i } ( f _ { 1 } , t _ { 0 } ) , s _ { i } ( f _ { 2 } , t _ { 0 } ) , . . . , s _ { i } ( f _ { K } , t _ { 0 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $s _ { i } ( f _ { K } , t _ { 0 } )$ 是在第一采样时间 $( t _ { 0 } )$ 第 $i$ 个路径信号的第 $k$ 个快照的CSI。为了提高多普勒频移估计的准确性，从所有的子载波中选取CSI，从而避免选择低信噪比的特定子载波。由式（10）和（11），式（9）可以被表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { X ( f ) = \\underset {  } { \\overset {  } { [ \\chi ( f , t _ { 0 } ) , \\overset {  } { x } ( f , t _ { 0 } + \\Delta t _ { 2 } ) , \\dots , \\overset {  } { x } ( f , t _ { 0 } + \\Delta t _ { M } ) ] ^ { T } } } } \\\\ & { { \\overset {  } { = [ a ( \\nu _ { 1 } ) , a ( \\nu _ { 2 } ) , \\cdots , a ( \\nu _ { L } ) ] } } } \\\\ & { { \\overset { \\ast } { \\ast } } [ s _ { 1 } ( f , t _ { 0 } ) , s _ { 2 } ( f , t _ { 0 } ) , \\cdots , s _ { L } ( f , t _ { 0 } ) ] ^ { T } \\times ( \\mathbf { f } , \\mathbf { t } _ { 0 } ) + \\mathrm { N } ( \\mathbf { f } ) } \\\\ & { \\qquad - \\underset { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } { \\overset {  } { \\times } } \\mathbf { c } \\mathbf { \\mathscr { \\alpha } } ( \\mathbf { f } ) \\quad , \\mathbf { \\alpha } , } \\end{array}\n$$$$\n{ \\bf \\Lambda } = { \\bf A } { \\bf S } ( \\mathrm { f } ) + { \\bf N } ( \\mathrm { f } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用MUSIC算法来估计使用CSI样本的多普勒频移。具有M个特征值的相关矩阵 $R _ { \\scriptscriptstyle { X } }$ 可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm {  ~ R _ { x } = E [ X X ^ { H } \\Sigma ] } = \\mathrm { A E [ S S ^ { H } ] } \\mathrm { \\bf A ^ { H } } + \\mathrm { E } [ \\mathrm { \\bf N N ^ { H } } ] } \\\\ & { \\quad \\quad = \\mathrm { A R _ { s } } \\mathrm { \\bf A ^ { H } } + \\sigma ^ { 2 } \\mathrm { I \\bf \\Sigma } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $R _ { s }$ 是信号矩阵的相关矩阵， $I$ 是单位矩阵， $\\delta ^ { 2 }$ 是噪声的方差。相关矩阵 $R _ { \\scriptscriptstyle { X } }$ 具有 $M$ 个特征值。最小的 $M - L$ 特征值对应于噪声，而其他 $L$ 特征值对应于 $\\mathrm { ~ L ~ }$ 路径信号。特征向量对应于最小的 $M - L$ 特征值构造一个噪声子空间EN =[e,,em-s]。信号和噪声子空间是正交的，所以多普勒速度谱函数可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( \\nu ) _ { \\mathit { M U S I C } } = \\frac { 1 } { a ^ { H } ( \\nu ) - E _ { \\mathit { N } } E _ { \\mathit { N } } ^ { \\mathit { \\Pi } _ { { M } } } a ( \\nu ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：尖峰对应频谱函数的最大值处。由于信号的原始载波频率和传播速度已知，可以获得多普勒速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/969964d9222d21974e7c24e984668ed72cd1841721d20c27c5d40d4fcd88d39a.jpg",
+        "img_caption": [
+            "图1从M个分组中提取每个样本K个副载波的K个CSI快照图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进的三边定位质心算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在复杂室内定位的时候，检测到的人员移动轨迹是是时刻变化的[14-16]，再加上外界不确定因素的影响。导致得到的 CSI信号的值波动较大，从而导致对人员的定位产生较大的误差，达不到预期的效果，本文引入平滑算法，把相邻的CSI信号值进行对比分析，去掉波动较大的值，实现精准定位。本文提出改进平滑算法的实现分为两个阶段：距离的估计；位置的估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1距离的估计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提到的CSI定位机制由参考节点和未知节点两部分组成的。在二维坐标系中表示出由固定位置的参考节点的位置坐标和未知节点收到的CSI值进行计算。求二者的标准化欧氏距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "欧氏距离计算：取出参考点的位置坐标为横轴的值记做 $x _ { i }$ ：每次收集到未知节点的CSI值记为 $y _ { i }$ ；则二者的标准化欧氏距离如式(15)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( x , y ) = { \\sqrt { ( x _ { 1 } - y _ { 1 } ) ^ { 2 } + ( x _ { 2 } - y _ { 2 } ) ^ { 2 } + \\cdots + ( x _ { n } - y _ { n } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= { \\sqrt { \\sum _ { i = 1 } ^ { n } ( x _ { i } - y _ { i } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了避免偶然误差，由式(15)得到式(16)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( x , y ) = { \\frac { 1 } { n } } ( d ( x _ { 1 } , y _ { 1 } ) + d ( x _ { 2 } , y _ { 2 } ) + \\cdots + d ( x _ { n } , y _ { n } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据平滑处理定义：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$R _ { e s t ( n ) }$ 是第 $n$ 个平滑估计的 CSI的范围;  \n$R _ { p r e ( n ) }$ 是第 $n$ 个预测的 CSI的范围;  \n$R _ { m e a ( n ) }$ 是第 $n$ 个测量的的 CSI的范围;  \n$R _ { r a t ( n ) }$ 是第 $n$ 个平滑估计的范围比率;  \n$R _ { p r e r a t ( n ) }$ 是第 $n$ 个预测范围比率;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda , \\xi$ 表示增益常量, $T _ { n }$ 是变化的时间段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "处理步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)计算出 $R _ { e s t ( n ) }$ 和 $R _ { r a t ( n ) }$ ，如式(17)(18)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { e s t ( n ) } = R _ { p r e ( n ) } + \\lambda ( R _ { m e a ( n ) } - R _ { p r e ( n ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { e s t ( n ) } = V _ { p r e ( n ) } + \\frac { \\xi } { T _ { s } } ( R _ { m e a ( n ) } - R _ { p r e ( n ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)通过比较第 $n$ 个CSI值的范围与比率的估算和第 $n + 1$ 个 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CSI范围与比率的估算，如式(19)(20)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { p r e ( n + 1 ) } = R _ { e s t ( n ) } + V _ { e s t ( n ) } T _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { p r e ( n + 1 ) } = V _ { e s t ( n ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)由式(20)得到第 $n + 1$ 个参考点的值，再由式(5)计算出CSI的值，由于计算过程中加上了传播因子对信号衰减的影响，所以CSI值存在一定误差，把求得的CSI值进行求平均数的处理，得到较为准确的值发送到未知节点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2位置的估计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传统的三边测量法过程是求3个已知半径和坐标圆心的圆的交点，如图2所示，在测距时，3个圆的圆心连接线无法准确精确到一点。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9318bd5ae85d6174a0a93aa3f218abd56d642fb09b5c12822b692c5fc6a101ed.jpg",
+        "img_caption": [
+            "图2三边定位原理图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，为了减少估计坐标与实际坐标的误差，本文提出了改进的三边测量方法，使用加权最小二乘法来估计未知节点的坐标。具体方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)从总体中获取 $n$ 组位置坐标 $( \\mathbf { x } _ { 1 } , \\mathbf { y } _ { 1 } )$ 、 $( \\mathbf { x } _ { 2 } , \\mathbf { y } _ { 2 } )$ ，…（204号 $( \\mathbf { x } _ { \\mathrm { n } } , \\mathbf { y } _ { \\mathrm { n } } )$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)对二维坐标系中的这 $n$ 个点，用处于样本数据的中心位置的曲线来拟合；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)引入平方损失函数。 $\\boldsymbol { \\mathcal { Q } }$ 为残差平方和，样本回归模型如式(21)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = \\hat { \\boldsymbol { \\beta } } _ { 0 } + \\hat { \\boldsymbol { \\beta } } _ { 1 } \\boldsymbol { X } _ { i } + \\boldsymbol { e } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { i i } = Y - \\hat { \\beta } _ { 0 } - \\hat { \\beta } _ { 1 } X _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { e } _ { i }$ 为样本 $( x _ { i } , y _ { i } )$ 的误差。平方损失函数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = \\sum _ { i = 1 } ^ { n } { e _ { i } } ^ { 2 } = \\sum _ { i = 1 } ^ { n } ( Y _ { i } - { \\hat { Y } } _ { i } ) ^ { 2 } = \\sum _ { i = 1 } ^ { n } ( Y _ { i } - { \\hat { \\beta } } _ { 0 } - { \\hat { \\beta } } _ { 1 } X _ { i } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则通过 $\\boldsymbol { Q }$ 最小确定这条直线，即确定 $\\hat { \\boldsymbol { \\beta } } _ { 0 } , \\hat { \\boldsymbol { \\beta } } _ { 1 }$ ，以 $\\hat { \\beta } _ { 0 } , \\hat { \\beta } _ { 1 }$ 为变量，把它们看做是 $\\boldsymbol { \\mathcal { Q } }$ 的函数，就变成了一个求极值的问题，可以通过求导数得到。求 $\\boldsymbol { \\mathcal { Q } }$ 对两个待估参数的偏导数：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { \\hat { \\boldsymbol { \\sigma } } Q } { \\hat { \\boldsymbol { \\sigma } } \\hat { \\boldsymbol { \\beta } } _ { 0 } } = 2 \\sum _ { i = 1 } ^ { n } ( Y _ { i } - \\hat { \\boldsymbol { \\beta } } _ { 0 } - \\hat { \\boldsymbol { \\beta } } _ { 1 } X _ { i } ) ( - 1 ) = 0 } \\\\ { \\displaystyle \\frac { \\hat { \\boldsymbol { \\sigma } } Q } { \\hat { \\boldsymbol { \\beta } } _ { 1 } } = 2 \\sum _ { i = 1 } ^ { n } ( Y _ { i } - \\hat { \\boldsymbol { \\beta } } _ { 0 } - \\hat { \\boldsymbol { \\beta } } _ { 1 } X _ { i } ) ( - X _ { i } ) = 0 \\Bigg ] } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "函数的极值点为偏导为0的点。即活动点位置，解得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { \\displaystyle { \\hat { \\boldsymbol { \\beta } } } _ { 0 } = \\frac { n \\sum X _ { i } Y _ { i } - \\sum X _ { i } - \\sum Y _ { i } } { n \\sum X _ { i } ^ { 2 } - ( \\sum X _ { i } ) ^ { 2 } } } } \\\\ { { \\displaystyle { \\hat { \\boldsymbol { \\beta } } } _ { 1 } = \\frac { \\sum X _ { i } ^ { 2 } \\sum Y _ { i } - \\sum X _ { i } - \\sum X _ { i } Y _ { i } } { n \\sum X _ { i } ^ { 2 } - ( \\sum X _ { i } ) ^ { 2 } } } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所得 $\\hat { \\boldsymbol { \\beta } } _ { 0 } , \\hat { \\boldsymbol { \\beta } } _ { 1 }$ 即为所求活动点的位置坐标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于CSI的人员轨迹跟踪方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上述理论模型分析，本文提出基于CSI信号的人员轨迹跟踪方法。算法具体实现过程如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a0958fbc116aedb96a6508ba12ff1d6452e68cf64106dacdc2c487b02006feb.jpg",
+        "img_caption": [
+            "图3轨迹追踪的流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)通过布设的实验环境提取CSI信号值。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)首先利用Music 算法估计多普勒频移(即提出的Doppler-music 算法)，然后估计AOA频谱，从而确定人员位置是否在预设范围内，如果在就执行步骤c)，否则转回步骤a)运行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)采用平滑算法对步骤b)中得到的活动点进行去除冗余点处理，最后用改进的三边定位算法确定活动点位置，判断结果是否在参考范围内，如果在就执行步骤d)，否则返回。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)对得到的在活动范围内的点进行处理，采集足够多的点模拟出轨迹图像，程序结束。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4通信开销和算法复杂度分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了计算通信开销 $E$ 引入一下几个参数： $N$ 表示网络中节点的数量；A表示网络中锚节点的数量；G表示网络的平均连接度；C表示平均邻居节点的数量；K表示参与一定多边测量定位的锚节点个数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文算法的开销主要表现在节点间的通信开销和数据包的传递过程，所以节点间距离对通信开销的大小有着重要的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当未知节点获得与3个或3个以上锚节点的距离,则执行三边测量定位。设未知节点坐标为 $A ( x , y )$ ，锚节点坐标为 $L _ { 1 } ( x _ { 1 } , y _ { 1 } ) , \\cdots$ $L _ { k } ( x _ { k } , y _ { k } )$ ,未知节点到锚节点的距离分别为 $r _ { 1 } , r _ { 2 } , . . . , r _ { k }$ ，则可建立线性方程组并表示为式(26)的形式。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { C x = b }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = - 2 \\times { \\left[ \\begin{array} { l l l } { ( x _ { 1 } - x _ { k } ) } & { } & { ( \\mathbf { y } _ { 1 } - \\mathbf { y } _ { \\mathbf { k } } ) } \\\\ { ( x _ { 2 } - x _ { k } ) } & { } & { ( \\mathbf { y } _ { 2 } - \\mathbf { y } _ { \\mathbf { k } } ) } \\\\ { \\vdots } & { } & { \\vdots } \\\\ { ( x _ { k - 1 } - x _ { k } ) } & { } & { ( \\mathbf { y } _ { \\mathbf { k } - 1 } - \\mathbf { y } _ { \\mathbf { k } } ) } \\end{array} \\right] } , x = { \\left[ \\begin{array} { l } { x } \\\\ { y } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = { \\left[ \\begin{array} { l } { r _ { 1 } ^ { 2 } - r _ { k } ^ { 2 } - x _ { 1 } ^ { 2 } + x _ { k } ^ { 2 } - y _ { 1 } ^ { 2 } + y _ { k } ^ { 2 } } \\\\ { r _ { 2 } ^ { 2 } - r _ { k } ^ { 2 } - x _ { 2 } ^ { 2 } + x _ { k } ^ { 2 } - y _ { 2 } ^ { 2 } + y _ { k } ^ { 2 } } \\\\ { \\vdots } \\\\ { r _ { k - 1 } ^ { 2 } - r _ { k } ^ { 2 } - x _ { k - 1 } ^ { 2 } + x _ { k } ^ { 2 } - y _ { k - 1 } ^ { 2 } + y _ { k } ^ { 2 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "建立线性方程组之后，可以通过最小二乘法求解未知节点的位置估计：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol { x } } = ( C ^ { T } C ) ^ { - 1 } C ^ { T } \\boldsymbol { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先由式（29）得到未知节点的位置，通过节点位置计算相邻节点之间的距离设为 $\\mathrm { \\Delta X }$ ，所以C个邻居节点的平均距离为CX，其中 $X = \\sum _ { i = 1 } ^ { n } { \\overset { \\land } { ( x - x _ { i } ) } }$ 。其次数据包的传递过程也带来一定的通信开销，由于采用可控的泛洪在网络中传送消息，每个锚节点发送广播数据包，中间节点只发送未发送的数据包,每个节点平均发送A个数据包，因为要经过两次泛洪过程，所以网络中每个节点平均发送2A个数据包, $\\mathrm { \\Delta N }$ 个网络节点的通信开销为2AN。故总的通信开销 $scriptstyle \\mathrm { E = } \\left( \\mathrm { C X } + 2 \\mathrm { A N } \\right)$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由以上三边定位测量得到未知节点位置以后，使用最小二乘法处理矩阵乘法的过程中需要锚节点的数量K和参与多边测量定位的锚节点个数A分别计算，所以本文算法的时间复杂度为T(AK)，即近似为 $\\mathrm { T } ( \\mathrm { n } ^ { 2 } )$ ，空间复杂度为O（n）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1实验环境 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，CSI信号可以通过Intel5300 和Atheros9380 型号无线网卡获取，本文采用Atheros9380网卡的方案，定位算法所需设备为：两台安装有Atheros9380网卡的台式电脑，CPU 型号为IntelCorei3-4150，操作系统为Ubuntul0.04LTS，且内核和无线网卡驱动均经过定制，其中一台台式机作为信号发送机，另一台作为接收机，实验场地选择 $9 \\textrm { m } \\times 6 \\textrm { m }$ 的办公区域，部署了25个正方形区域，每个正方形区域为 $0 . 8 \\mathrm { m } \\times 0 . 8 \\mathrm { m }$ ，接收机与发射机相距 $4 . 5 \\mathrm { m }$ ，天线高度为 $1 . 2 \\mathrm { m }$ ，其平面图及详细区域划分布局如图4所示，图5为测试人员现场测试图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "办公室环境的平面图如图所示，实际测试图如图6所示。本文的跟踪感应区的大小是9米 $\\times 6$ 米。在地板上放置一些标记，并使用摄像机记录人物何时走过标记。在实验中，选择5名同学在2周的时间内（每天相同的时刻）沿着不同的线条，矩形，圆等轨迹行走。本文为每个人收集100个轨迹，报告跟踪错误显示追踪的性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/943ab51e369fe733eb35bac7f87f8ea17b4415bdc60b095591a015509064647c.jpg",
+        "img_caption": [
+            "图4实验环境平面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a210c7d9b9078afa1ff967209501bf370af746edae55f70f6ef46ab43d5b2835.jpg",
+        "img_caption": [
+            "图5测试人员现场测试图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/27d7bfb297c69238230928f185d5b28f0933138f7341a076066140fcbf5d4e70.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e75d6a52e39c401ac46fac5b9abdde12ce36b5c4e908c5d393ce08842271b88.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7是在实际环境中使用本文算法实现的跟踪结果；图8描述的是人体速度方向的准确性。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/97afdb7f8fa16024c34f5147612496d30c09df970d4c345653a66268e1b53cfa.jpg",
+        "img_caption": [
+            "图6办公室环境平面图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d6320e6b7e94dd310e75b6743f74bf7d3908e57be046318fcad1f38780ab8cc.jpg",
+        "img_caption": [
+            "图8人体速度方向准确性"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图7可以看出当被测人员的运动轨迹为圆形时，追踪效果与预期结果最为接近，说明此时的追踪效果最好。由图8说明，中速运动的振幅误差小至 $14 \\%$ ，而方向误差仅为7°。又将本文所提出的Droppler-Music方法与基于划分的K-means算法进行比较，由于K-means算法是根据CSI的幅度来估计多普勒速度，所以提供不了方向信息，在比较过程中，只使用K-means方法来估计多普勒速度的幅度，并使用Droppler-Music方法来提供方向信息。如图9所示，在加上方向信息来提高性能的前提下，K-means方法的中速误差仍然为 $44 \\%$ ，方向误差为 $1 7 ^ { \\circ }$ ，远大于Droppler-Music 方法，原因是Droppler-Music方法估计多普勒速度的CSI相位，这比K-means 方法中使用的CSI幅度更稳定。另外，和其他方法相比，本文的Droppler-Music方法可以同时估计多普勒速度的幅度和方向。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7da876407e1d7cc5ad51cca3c745f5a5b32ed8420b4ef77687a9d0bf557747a9.jpg",
+        "img_caption": [
+            "图7轨迹跟踪结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "天线功率(PA)和静态分量(RS)对轨迹追踪精度的影响如图9所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图9中可以看出，当不调整天线的功率也不去除静态分量，则速度误差为 $37 \\%$ ，方向误差为 $2 6 ^ { \\circ }$ ；只调整天线的功率，相对速度误差为 $19 \\%$ ，方向误差为 $1 7 ^ { \\circ }$ ；只去除静态分量，相对速度误差为 $17 \\%$ ，中值方向误差为 $8 ^ { \\circ }$ ；调整天线功率又去除静态分量，相对速度误差为 $11 \\%$ ，中值方向误差为 $7 ^ { \\circ }$ 。可见，除去强干扰静态分量后，追踪性能显着提高。同时，调整两个天线的功率，得到的多普勒速度的方向信息更加准确。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 跟踪性能分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为验证分组丢失/延迟对跟踪性能的影响，通过控制分组比较丢失和时延大小进行实验，结果如图10所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bc0d910f00227fe5e188975843f5ba533360678253fda6b96a2085215a31b43.jpg",
+        "img_caption": [
+            "图10 丢包率影响图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图10表明，在没有丢包/延迟的情况下，该算法的跟踪误差在 $8 \\%$ 左右，在实际环境中，由于环境噪声和干扰而会受到丢包/延迟的影响，因此，随机丢弃一些CSI数据包来模拟数据包损失/延迟情况，即使有 $50 \\%$ 的数据包丢失，本方法仍然具有和没有数据包丢失相似的高跟踪精度。图10显示了在在实验室中跟踪错误的CDF，因为实验室遮挡物较多，所以多径效应比较明显，可见该方法也能实现很好的追踪性能，说明静态环境下的追踪性能明显高于动态环境下。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究速度对追踪性能的影响，让目标以三种不同速度步行：慢速 $\\mathrm { { ( < l m / s ) } }$ ，中速 $\\mathrm { ( 1 { \\sim } l . 5 m / s ) }$ 和快速 $( 1 . 5 { \\sim } 3 \\mathrm { m / s } )$ 速度对追踪性能的影响如图11、12所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fe732995b109feeb1202ef8a28f1df0ff06dfd122e767a8a6f689e782052db5.jpg",
+        "img_caption": [
+            "图11速度差异影响图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad58738759d520626dcd75ebd95b0081063b55b9da19ce22168fb0593531e561.jpg",
+        "img_caption": [
+            "图12速度方向影响图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11说明目标的速度对于本方法的跟踪性能影响，速度最慢比速度最快的时候误差约为 $8 \\%$ ，说明速度越慢跟踪性能越好；图12 说明不同运动速度下人员运动速度方向对跟踪性能的影响，说明速度方向误差随着运动速度的增大而增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本方法对5个目标进行跟踪，误差分析如图13所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/daeee2babb09829b1a7892d02cb179316fb9d3674dcf356dc18de37562fe9153.jpg",
+        "img_caption": [
+            "图9相关误差图",
+            "图13追踪误差图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图13可以看出，本文方法在不同目标间能达到一致的精度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上，通过实验分析得到，在丢包率、速度差异、方向差异、多人效应都存在的情况下，本文算法在定位方面有很大的提高。有效的缓解了由于多径衰弱、非视距环境影响带来的追踪精度的问题。尤其是在速度方向误差方面本文算法提出了一种很好的解决思路。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 性能比较 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了进一步表现本文算法在追踪性能方面的优势，与传统经典算法K-means 和PCA算法进行对比。通信开销性能对比如图14所示，算法复杂度性能对比如图15所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/61b5bc6cde0c14b1048fd2c212e499797d6dda665495c1351d16e72e553ba41a.jpg",
+        "img_caption": [
+            "图14算法通信开销对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图14可知，本文算法随着时间的推移更早的表现出较稳定通信开销，且明显优于PCA算法。性能越稳定表示通信开销越低，得到的节点位置就越准确，所得轨迹追踪的性能就越好。由图15可知，Doppler-music 算法的时间复杂度在一段时间后始终保持不变且性能明显高于其他两种算法，说明较PCA和K-means算法本文算法的时间复杂度相对较低，节省时间开销的同时降低能耗，从而实现更加精准的追踪轨迹。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b395c065e944abd6fe4f1782c8f4d3b298e3b5266a839567d2bf5afe9b1e45f.jpg",
+        "img_caption": [
+            "图15算法时间复杂度对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上，基于Doopler-Music 算法的CSI轨迹追踪算法在通信开销和时间复杂度上都明显优于其他两种算法，为实现精准轨迹追踪提出一种新的解决思路。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文中，旨在设计一个利用CSI信号实现室内人员轨迹追踪的方法。实现了一个人的轨迹精确追踪。以后的工作中需要解决的问题有多人追踪、实时追踪等，室内人员方法的应用还有很广泛的前景。此外一个重要难点还有目前的实验环境是2.4GHZ的，下一步工作就是把开发环境移植到5GHZ的环境下，以获得更加精准的定位性能。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 徐渊，许晓亮，李才年，等．结合SVM分类器与HOG特征提取的行人 检测[J].计算机工程,2016,42(1):56-60.(Xu Yuan,Xu Xiaoliang,Li Cainian,et al.Pedestrian detection based on SVM classifier and HOG feature extraction [J]. Computer Engineering,2016,42(1): 56-60.)   \n[2]谢娟英，王艳娥．最小方差优化初始聚类中心的 K-means 算法[J].计 算机工程,2014,40 (8):205-211.(Xie Juanying,Wang Yanqi.K-means algorithm for minimum clustering optimization of initial cluster center [J]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Computer Engineering,2014,40(8): 205-211.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]李传朋，秦品乐，张晋京．基于深度卷积神经网络的图像去噪研究[J]. 计算机工程,2017,43(3):253-260.(Li Chuanpeng,Qin Pinle,Zhang Jinjing.Image denoising based on deep convolutional neural network [J]. Computer Engineering,2017,43 (3):253-260.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]Wang Jue,Vasisht D,Katabi D.RF-IDraw:virtual touch screen in the air usingRF signals[J].ACM SIGCOMMComputer Communication Review, 2014,44 (4): 235-246. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]Sun Li, Sen S,Koutsonikolas D,et al.Widraw: enabling hands-free drawing in the air on commodity wifi devices [C]// Proc of the 2lst Annual International Conference on Mobile Computing and Networking.New York: ACM Press,2015:77-89. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]Wang Wei,Liu A X,Sun Ke.Device-free gesture tracking using acoustic signals [C]//Proc of the 22nd Annual International Conference on Mobile Computing and Networking.New York:ACMPress,2016: 82-94. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7]Yun Sangki, Chen Yichao,Qiu Lili. Turning a mobile device into a mouse in the air[C]//Proc of the 13th Annual International Conference on Mobile Systems,Applications,and Services.New York:ACMPress,2015:15-29. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]Sen S,Choudhury RR,Radunovic B,et al.Precise indoor localization using PHY information [C]//Proc of the 1Oth ACMWorkshop on Hot Topics in Networks.New York:ACMPress,2011:413-414. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]Qian Kun,Wu Chenshu,Yang Zheng,et al.Decimeter level passive tracking withWi-Fi[C]//Proc of the 3rdWorkshop onHot Topics inWireless.New York:ACMPress,2016:44-48. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10]杨铮，吴陈述，刘云浩.位置计算：无线网络定位与可定位性[M].北 京：清华大学出版社,2014.(YangWei,Wu Chenxi,Liu Yunhao.Location Computing:Wireless Network Positioning and Positionability [M].Beijing: Tsinghua University Press,2014.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]彭玉旭，杨艳红．一种基于RSSI的贝叶斯室内定位算法[J].计算机 工程，2012,38(10):237-240.(Peng Yuxu,Yang Yanhong.A Bayesian indoor location algorithm based on RSSI[J]. Computer Engineering,2012, 38 (10):237-240.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12]王琦.基于RSSI测距的室内定位技术[J].电子科技,2012,25(6):64- 66.(Wang Qi. Indoor positioning technology based on RSSI ranging [J]. Electronic Science & Technology,2012,25(6): 64-66.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13]石欣，印爱民，陈曦．基于RSSI的多维标度室内定位算法[J].仪器 仪表学报,2014,35(2):261-268.(Shi Xin,Yin Aimin,Chen Wei.Multidimensional scale indoor positioning algorithm based on RSSI[J]. Journal of Scientific Instrument,2014,35 (2): 261-268.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]张勇，黄杰，徐科宇.基于PCA-LSSVR 算法的WLAN室内定位方法 [J].仪器仪表学报,2015,36(2):408-414.(ZHANG Yong,HUANG Jie, XU Keyu.WLAN indoor positioning method based on PCA-LSSVR algorithm [J]. Journal of Scientific Instrument, 2015,36 (2): 408-414.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]Wang Xuyu,Gao Lingjun,Mao Shiwei,et al.CSI-based fingerprinting for indoor localization: a deep learning approach [J].IEEE Trans on Vehicular Technology.IEEE,2017,66(1): 763-776. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]Xiao Jiang,Wu Kaishun,Yi Youwen,et al.FIFS:fine-grained indoor fingerprinting system [C]// Proc of International Conference on Computer Communications and Networks.Picataway,Nj:IEEE Press,2012:1-7. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17] Wu Zhefu,Xu Qiang,Li Jianan,et al.Passive indoor localization based on CSI and naive Bayes classification [J]. IEEE Trans on Systems Man & Cybernetics Systems,2017,PP(99):1-12. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]吴哲夫，周言．基于信道状态信息的无源被动定位[J].传感技术学报, 2015,28 (5): 677-683.(Wu Zhefu, Zhou Yan.Passive positioning based on channel state information [J].Journal of Transduction Technology,2015,28 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(5):677-683.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19]Li Shengjie,Li Xiang,Niu Kai,et al.AR-alarm:an adaptive and robust intrusion detection system leveraging CSI from commodity Wi-Fi [C]//Proc of International Conference on Smart Homes and Health Telematics.Cham: Springer,2017:211-223. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20]Pu Qifan,Gupta S,Gollakota S,et al.Whole-home gesture recognition using wireless signals [C]//Proc of International Conference on Mobile Computing& Networking.New York:ACM,2013:27-38. ",
+        "page_idx": 8
+    }
+]

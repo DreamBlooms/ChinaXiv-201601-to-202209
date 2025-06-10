@@ -1,0 +1,186 @@
+# 卵黄免疫球蛋白对雏鸡生长性能和免疫机能的影响
+
+杨海明」巨晓军」王志跃1\*马尹鹏 $^ 1$ 马义国²张建平2
+
+(1.扬州大学动物科学与技术学院，扬州 225009；2.金湖县吕良中心兽医站，金湖 211621)摘要：本试验旨在研究饲粮中添加卵黄免疫球蛋白（IgY）对雏鸡生长性能和免疫机能的影响。选取同一批出雏、体重相近的1日龄罗曼褐蛋鸡公雏 240 只，随机分为2组（对照组和试验组），每组6个重复，每个重复20 只鸡。对照组饲喂基础饲粮，试验组在对照组饲粮基础上添加 $0 . 1 \%$ 的 $\mathrm { I g Y }$ 。试验期5周。分别于1、3、5周龄，每个重复选取接近该重复平均体重的试验鸡2只，称重、采血并用于血清免疫指标测定，然后取免疫器官、空肠食糜用于相关指标测定。结果表明：1）与对照组相比，试验组1、3、5周龄雏鸡平均日增重有增大的趋势（ $0 . 0 5 { < } P { < } 0 . 1 0$ ）。2）试验组1、5周龄雏鸡胸腺相对重和1周龄脾脏相对重显著高于对照组（ $. P { < } 0 . 0 5$ ），试验组1、5周龄雏鸡法氏囊、脾脏、胸腺中IgY含量与对照组差异均不显著（ $P { > } 0 . 0 5$ ）。3）试验组1周龄雏鸡血清球蛋白、 $\mathfrak { a }$ 干扰素、白细胞介素-2 含量和溶菌酶活性，3周龄雏鸡血清总蛋白、球蛋白和白细胞介素-2含量，5周龄雏鸡血液淋巴细胞数量均显著高于对照组（ $P { < } 0 . 0 5$ ）。4）试验组1周龄雏鸡肠道食糜中分泌型免疫球蛋白A含量显著高于对照组（ $P { < } 0 . 0 5$ ）。由此可知，雏鸡饲粮中添加 $\mathrm { I g Y }$ 可以促进雏鸡1\~5 周龄生长性能和免疫机能的提高，但从提高免疫机能的角度看，育雏前期（1\~3 周龄）的作用效果更为明显。关键词：雏鸡；卵黄免疫球蛋白；生长性能；免疫机能
+
+中图分类号：S831
+
+卵黄免疫球蛋白（IgY），又称卵黄抗体，是存在于鸡蛋蛋黄中的抗体，能有效地填补雏禽自身建立免疫机能的空档期，刺激雏鸡肠道生长发育及免疫机能的建立。近几年来，IgY作为一种产量高、价格低廉、绿色安全的添加剂越来越引起人们的重视。有研究表明， $\mathrm { I g Y }$ 在储存和加工过程中均有很好的稳定性[1]； $\mathrm { I g Y }$ 饲料添加剂具有提高畜禽生长性能和免疫机能[2]、改善肠道功能、提高产品品质及疫病防治等方面的作用[3-10]。前人的研究主要集中于特异性免疫球蛋白对畜禽的影响，而非特异性IgY对畜禽生长、生产及免疫的广谱作用鲜见报道，本论文主要研究非特异性 $\mathrm { I g Y }$ 对蛋鸡育雏期生长性能和免疫机能的影响，以期为IgY在畜禽生产中的研究和应用提供参考。
+
+# 1材料与方法
+
+# 1.1 试验设计及饲粮
+
+本试验采用单因子设计，选取同一批出雏、体重接近的1日龄罗曼褐蛋鸡公鸡 240只，称重，编号，随机分为2个组（对照组和试验组），每组6个重复，每个重复20只鸡。对照组饲喂基础饲粮，试验组饲粮在对照组饲粮基础上添加 $0 . 1 \%$ 的 $\mathrm { I g Y }$ 。试验期5周。采用玉米-豆粕型基础饲粮，参照 NRC（1994）营养需要并结合本品种实际情况配制粉状开食配合饲粮，预混料由扬州大学饲料厂提供，基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平(风干基础)   
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis)   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corm</td><td>64.27</td><td>代谢能 ME/(MJ/kg)</td><td>11.98</td></tr><tr><td>豆粕 Soybean meal</td><td>27.63</td><td>粗蛋白质 CP</td><td>19.08</td></tr><tr><td>玉米蛋白粉 Corn protein meal</td><td>3.00</td><td>钙Ca</td><td>0.59</td></tr><tr><td>碳酸氢钙CaHPO4</td><td>1.50</td><td>总磷TP</td><td>0.72</td></tr><tr><td>石粉 Limestone</td><td>0.10</td><td>非植酸磷 NPP</td><td>0.47</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>赖氨酸Lys</td><td>0.93</td></tr><tr><td>小麦麸 Wheat bran</td><td>2.20</td><td>蛋氨酸 Met</td><td>0.31</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 11 000 IU, VD3 3 000 IU,VE 15 IU, $\mathrm { V K } _ { 3 } 2 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 0 \mathrm { m g }$ ， $\mathrm { V B } 6 2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 2 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $6 0 0 ~ \mathrm { { m g } }$ ，泛酸 pantothenic acid 180 mg，叶酸 folic acid $1 0 \mathrm { m g }$ ，生物素biotin $0 . 8 ~ \mathrm { m g }$ ，胆碱choline $7 \ : \mathrm { m g }$ ，Fe (as ferrous sulfate) $1 . 2 \ \mathrm { g }$ ， Cu (as copper sulfate) $0 . 2 \ \mathrm { g }$ ，Mn (as manganese sulfate) $1 . 9 \ : \mathrm { g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $1 . 8 \ \mathrm { g }$ ，I (as potassium iodide) $1 0 \mathrm { m g }$ ，Se (as sodium selenium) 6 mg。
+
+2）营养水平均为计算值。Nutrient levels were calculated values.
+
+# 1.2 饲养管理
+
+试验鸡网上平养，自由采食和饮水，按常规方法进行饲养管理。饲养试验在扬州大学动物房家禽舍进行。
+
+# 1.3 测定指标与方法
+
+# 1.3.1 生长性能指标
+
+分别于1、3、5周龄末禁食1夜后以重复为单位记录各重复试验鸡体重和周耗料量，计算平均
+
+日增重（ADG）、平均日采食量（ADFI）、料重比（F/G）。
+
+料重比 $\ c =$ 全期总耗料量/全期总增重。
+
+# 1.3.2 免疫器官指标
+
+分别于1、3、5周龄末，从各重复中取体重接近该重复平均体重的雏鸡2只，屠宰，完整取下胸腺、脾脏和法氏囊，剔除脂肪称重。
+
+免疫器官的相对重 $\scriptstyle  = |$ (免疫器官重/雏鸡重 $) { \times } 1 0 0$ 。
+
+利用生物素双抗体夹心酶联免疫吸附试验（ELISA）法测定脾脏、胸腺、法氏囊中IgY的含量。
+
+# 1.3.3 血清免疫指标
+
+分别于1、3、5周龄从各重复中取体重接近该重复平均体重的雏鸡2只，称重，翅静脉采1滴血用于淋巴细胞计数，心脏采血 $2 { \mathrm { ~ m L ~ } }$ ，离心分离血清用于血清免疫指标测定。用Uniceldxc-800synchron 全自动生化分析系统（beckmancoulter，美国）测定血清中总蛋白（TP）（双缩脲法）、白蛋白（ALB）含量（溴甲酚绿法）及溶菌酶（LZM）活性（比浊法），计算血清球蛋白（GLB）含量。采用ELISA法测定血清中白细胞介素-2（IL-2）、 $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } . ~ } }$ 干扰素（IFN- $\mathbf { \nabla } \cdot \mathbf { a }$ ）、 $\mathrm { I g Y }$ 的含量，用BIORADModel-680多功能酶标仪进行分析。翅静脉采血制作血涂片，采用快速瑞氏-姬姆萨染色法进行染色，显微镜下观察、统计淋巴细胞数量。
+
+# 1.3.4肠道食糜中分泌型免疫球蛋白A（sIgA）含量
+
+分别于1、3、5周龄末，采集雏鸡空肠后端（卵黄囊憩室处）内容物，内容物与生理盐水按1:1（W/V）稀释，混匀后 $3 0 0 0 \mathrm { r / m i n }$ ， $4 ^ { \circ } \mathrm { C }$ 离心 $1 5 \mathrm { m i n }$ ，分装上清液。采用ELISA 法检 sIgA含量。
+
+# 1.4主要试剂
+
+IgY 购自浙江省长兴艾格生物制品有限公司；鸡 $\mathrm { I g Y }$ 定量 ELISA Kit 试剂盒、鸡 sIgA 定量 ELISAKit 试剂盒、溶菌酶检测试剂盒、淋巴细胞计数中血涂片制作快速瑞士姬姆萨染液均购自南京建成生物工程研究所有限公司。
+
+# 1.5 统计分析
+
+试验数据用Excel2013 进行整理，利用 SPSS 20.0 软件中的独立样本 $\mathbf { \chi } _ { t }$ 检验法比较组间的差异显著性，以 $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { < } P { < } 0 . 1 0$ 为具有提高或降低的趋势。试验结果用"平均值 $\pm$ 标准误”表示。利用 SPSS 20.0 软件中的条形图进行图的绘制。
+
+# 2结果与分析
+
+# 2.1 $\mathrm { I g Y }$ 对雏鸡生长性能的影响
+
+由表2可知，饲粮添加 $\mathrm { I g Y }$ 对1、3、5周龄雏鸡的平均日采食量、料重比影响均未达到显著水
+
+平（ $\cdot P { > } 0 . 0 5 \$ ），但试验组1、3、5周龄雏鸡平均日增重具有高于对照组的趋势（ $\scriptstyle P = 0 . 0 6 7$ 、 $\scriptstyle P = 0 . 0 6 9$ ，$\scriptstyle P = 0 . 0 9 6$ ），即饲粮添加 $\mathrm { I g Y }$ 对雏鸡平均日增重产生了一定影响。
+
+Table 2Effects of IgY on growth performance of chicks   
+
+<html><body><table><tr><td>周龄</td><td>项目</td><td>对照组</td><td>试验组</td><td>P值</td></tr><tr><td>Weeks of age</td><td>Items</td><td>Control group</td><td>Experimental group</td><td>P-value</td></tr><tr><td rowspan="4">1</td><td>平均日采食量 ADFI/g</td><td>10.23±0.36</td><td>10.34±0.50</td><td>0.473</td></tr><tr><td>平均日增重 ADG/g</td><td>4.67±0.07</td><td>4.94±0.39</td><td>0.067</td></tr><tr><td>料重比F/G</td><td>2.19±0.05</td><td>2.09±0.03</td><td>0.545</td></tr><tr><td>平均日采食量 ADFI/g</td><td>26.38±0.29</td><td>28.29±0.40</td><td>0.363</td></tr><tr><td rowspan="3">3</td><td>平均日增重 ADG/g</td><td>11.09±0.24</td><td>11.56±0.48</td><td>0.069</td></tr><tr><td>料重比 F/G</td><td>2.39±0.06</td><td>2.46±0.08</td><td>0.531</td></tr><tr><td>平均日采食量 ADFIg</td><td>47.09±1.62</td><td>47.44±0.85</td><td>0.390</td></tr><tr><td rowspan="2">5</td><td>平均日增重 ADG/g</td><td>14.10±0.71</td><td>14.13±0.30</td><td>0.096</td></tr><tr><td>料重比F/G</td><td>3.36±0.15</td><td>3.37±0.14</td><td>0.835</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。In the same row,values with different small letter superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ ，while with the same orno letter superscripts mean no significant diference $( P { > } 0 . 0 5 )$ .The same as below.
+
+# 2.2 $\mathrm { I g Y }$ 对雏鸡免疫器官生长发育的影响
+
+由表3可知，1周龄时，试验组雏鸡胸腺相对重、脾脏相对重显著高于对照组（ $. P { < } 0 . 0 5 \$ ），法氏囊相对重与对照组差异不显著（ $P { > } 0 . 0 5$ ）；3周龄时，试验组雏鸡各免疫器官相对重与对照组差异均不显著 ( $\cdot P { > } 0 . 0 5$ ）；5周龄时，试验组雏鸡胸腺相对重显著高于对照组（ $P { < } 0 . 0 5$ ），脾脏相对重、法氏囊相对重与对照组差异不显著（ $P { > } 0 . 0 5$ ）。由此可知，饲粮添加 $\mathrm { I g Y }$ 主要影响雏鸡胸腺和脾脏的生长发育。
+
+表2IgY对雏鸡生长性能的影响  
+表3IgY对雏鸡免疫器官生长发育的影响  
+Table 3Effects of $\mathrm { I g Y }$ on growth and development of immune organs of chicks   
+
+<html><body><table><tr><td>周龄</td><td></td><td></td><td></td><td></td></tr><tr><td>Weeks of</td><td>项目</td><td>对照组</td><td>试验组</td><td>P值</td></tr><tr><td>age</td><td>Items</td><td>Control group</td><td>Experimental group</td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">胸腺相对重 Thymus relatively weight</td><td rowspan="2">3.30±0.04a</td><td rowspan="2">3.29±0.09b</td><td rowspan="2">0.002</td></tr><tr><td>2.31±0.18</td></tr><tr><td rowspan="2">1</td><td>法氏囊相对重 Bursa of Fabricius relatively weight</td><td></td><td>2.45±0.13</td><td>0.308</td></tr><tr><td>脾脏相对重 Spleen relatively weight</td><td>1.11±0.13a</td><td>1.01±0.06b</td><td>0.050</td></tr><tr><td rowspan="3">3</td><td>胸腺相对重 Thymusrelativelyweight</td><td>5.27±0.27</td><td>5.44±0.18</td><td>0.222</td></tr><tr><td>法氏囊相对重BursaofFabricius relatively weight</td><td>3.35±0.20</td><td>3.06±0.26</td><td>0.563</td></tr><tr><td>脾脏相对重 Spleen relatively weight</td><td>1.58±0.08</td><td>1.56±0.10</td><td>0.117</td></tr><tr><td rowspan="3">5</td><td>胸腺相对重 Thymus relatively weight</td><td>4.75±0.16a</td><td>5.47±0.33b</td><td>0.045</td></tr><tr><td>法氏囊相对重 Bursa of Fabricius relatively weight</td><td>4.60±0.45</td><td>3.83±0.32</td><td>0.180</td></tr><tr><td>脾脏相对重 Spleen relatively weight</td><td>2.04±0.21</td><td>2.21±0.23</td><td>0.373</td></tr></table></body></html>
+
+由图1、2可知，饲粮添加 $\mathrm { I g Y }$ 对1和5周龄雏鸡法氏囊、脾脏、胸腺中 $\mathrm { I g Y }$ 含量的影响均不显著（ $. P { > } 0 . 0 5 \$ ）。
+
+![](images/1fcc29b82da4f4b5df6fde26215ba24be7b5596853a58b4e0476bb1c38131555.jpg)  
+图1 $\mathrm { I g Y }$ 对1周龄雏鸡免疫器官中IgY含量的影响
+
+数据柱标注不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下图同。Value columns with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with no letter superscriptsmean no significant difference $( P { > } 0 . 0 5 )$ ).Thesameasbelow.
+
+![](images/fb6d5b888a66746c892266f7177f37792dfbc39ec41e88c2f27155f0e075b8a4.jpg)  
+Fig.1Effects of $\mathrm { I g Y }$ on $\mathrm { I g Y }$ content in immune organs of chicks at 1 week of age   
+图2IgY对5周龄雏鸡免疫器官中IgY含量的影响  
+Fig.2Effects of IgY on immune organs IgY content of chicks at 5 weeks of age
+
+# 2.3 $\mathrm { I g Y }$ 对雏鸡血清免疫指标的影响
+
+由表4可知，1周龄时，试验组雏鸡血清球蛋白含量显著高于对照组！ $( P { < } 0 . 0 5$ ），血清总蛋白含量与对照组差异不显著（ $P { > } 0 . 0 5$ ）；3周龄时，试验组雏鸡血清总蛋白、球蛋白含量均显著高于对照组（ $. P { < } 0 . 0 5$ ）；5周龄时，试验组雏鸡血清总蛋白、球蛋白含量与对照组差异不显著（ $P { > } 0 . 0 5$ ）。1周龄时，试验组雏鸡血清溶菌酶活性显著高于对照组（ $P { < } 0 . 0 5 \$ ）；3和5周龄时，试验组雏鸡血清溶菌酶活性与对照组差异不显著（ $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ）。1、3和5周龄时，试验组雏鸡血清 $\mathrm { I g Y }$ 含量与对照组差异不显著( $\cdot P { > } 0 . 0 5$ )。1和3周龄时，试验组雏鸡血清白细胞介素-2含量显著高于对照组( $_ { . } { P } { < } 0 . 0 5 )$ ;5 周龄时，试验组雏鸡血清白细胞介素-2的含量与对照组差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）。1周龄时，试验组雏鸡血清 $\mathfrak { a }$ -干扰素的含量显著高于对照组（ $P { < } 0 . 0 5$ ）；3、5周龄时，试验组雏鸡血清 $\mathfrak { a }$ -干扰素的含量与对照组差异不显著（ $\cdot P { > } 0 . 0 5$ ）。由此可知，饲粮添加 $\mathrm { I g Y }$ 对雏鸡血清总蛋白、球蛋白、白细胞介素-2、 $a -$ 干扰素含量及溶菌酶活性均产生了一定影响，且这种影响主要集中于1和3周龄。
+
+表4IgY 对雏鸡血清免疫指标的影响  
+Table 4Effects ofIgYon serum immune indicators of chicks   
+
+<html><body><table><tr><td>周龄</td><td>项目</td><td>对照组</td><td>试验组</td><td>P值</td></tr><tr><td>Weeks of age</td><td>Items</td><td>Control group</td><td>Experimental group</td><td>P-value</td></tr><tr><td rowspan="6">1</td><td>总蛋白 TP/(g/L)</td><td>27.11±0.33</td><td>28.96±0.31</td><td>0.562</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>16.63±0.13a</td><td>17.96±0.42b</td><td>0.033</td></tr><tr><td>溶菌酶 LZM/(U/mL)</td><td>80.70±4.36a</td><td>89.791±1.73b</td><td>0.049</td></tr><tr><td>IgY (mg/mL)</td><td>3.45±0.33</td><td>4.72±0.24</td><td>0.282</td></tr><tr><td>白细胞介素-2IL-2/(ug/L)</td><td>4.83±0.13a</td><td>5.98±0.35b</td><td>0.029</td></tr><tr><td>α-干扰素 IFN-α/(μg/L)</td><td>343.61±5.57a</td><td>403.51±16.17b</td><td>0.008</td></tr><tr><td rowspan="6">3</td><td>总蛋白 TP/(g/L)</td><td>32.74±0.10a</td><td>33.42±0.76b</td><td>0.050</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>20.12±0.08a</td><td>20.93±0.73b</td><td>0.034</td></tr><tr><td>溶菌酶 LZM/(U/mL)</td><td>138.80±2.51</td><td>131.11±2.70</td><td>0.976</td></tr><tr><td>IgY (mg/ml)</td><td>4.24±0.39</td><td>4.28±0.29</td><td>0.127</td></tr><tr><td>白细胞介素-2IL-2/(μg/L)</td><td>5.65±0.22a</td><td>6.10±0.08b</td><td>0.036</td></tr><tr><td>α-干扰素 IFN-α/(μg/L)</td><td>442.30±2.92</td><td>495.04±3.08</td><td>0.417</td></tr><tr><td rowspan="6">5</td><td>总蛋白 TP/(g/L)</td><td>32.57±0.11</td><td>31.77±0.30</td><td></td></tr><tr><td>球蛋白 GLB/(g/L)</td><td></td><td></td><td>0.103</td></tr><tr><td>溶菌酶 LZM/(U/mL)</td><td>20.77±0.18 139.92±2.98</td><td>20.49±0.22 118.46±2.90</td><td>0.988 0.778</td></tr><tr><td>IgY (mg/mL)</td><td>5.47±0.42</td><td>4.64±0.28</td><td>0.422</td></tr><tr><td>白细胞介素-2IL-2/(ug/L)</td><td>5.80±0.17</td><td>5.76±0.17</td><td>0.966</td></tr><tr><td>α-干扰素 IFN-α/(μg/L)</td><td>447.40±4.30</td><td>396.99±7.27</td><td>0.595</td></tr></table></body></html>
+
+# 2.4IgY对雏鸡血液淋巴细胞数量的影响
+
+由图3可知，1和3周龄时，试验组雏鸡血液淋巴细胞数量与对照组差异不显著（ $\cdot P { > } 0 . 0 5$ ）；5周龄时，试验组血液淋巴细胞数量显著高于对照组（ $. P { < } 0 . 0 5$ ）。由此可知，饲粮添加 $\mathrm { I g Y }$ 提高了5周龄雏鸡血液淋巴细胞数量。
+
+![](images/2f524f3852e8786a38b335d0c575c37049334be020d6c6e9247775c1ce54c17e.jpg)  
+图3IgY对雏鸡血液淋巴细胞数量的影响
+
+# 2.5IgY对雏鸡肠道食糜 sIgA含量的影响
+
+由图4可知，1周龄时，试验组雏鸡肠道食糜中 sIgA的含量显著高于对照组（ $. P { < } 0 . 0 5$ ）；3和5周龄试验组肠道食糜中 sIgA的含量与对照组差异不显著（ $\mathrm { \Delta } P { > } 0 . 0 5$ ）。由此可知，饲粮添加 $\mathrm { I g Y }$ 提高了1周龄雏鸡肠道食糜中 sIgA 的含量。
+
+![](images/09dddb5702cd82fbb2f6c6fd3444dee6e5419a791f1a0106b1781e9cb6205a2f.jpg)  
+Fig.3Effects of IgY on blood lymphocytes number of chicks   
+图4IgY对雏鸡肠道食糜中sIgA含量的影响  
+Fig.4Effects of IgY on intestinal tract chyme sIgA content of chicks
+
+3讨论
+
+# 3.1 $\mathrm { I g Y }$ 对雏鸡生长性能的影响
+
+$\mathrm { I g Y }$ 经母鸡血液中的免疫球蛋白传递至鸡蛋卵黄并在鸡胚孵育过程中及孵育后对雏鸡生长发育、抵抗疾病、适宜外界环境起保护作用。随着人们对IgY的不断深入研究，发现IgY作为替代抗生素的新型饲料添加剂并引起人们的关注， $\mathrm { I g Y }$ 取代抗生素用作免疫增强剂和生长促进剂，不会产生药物残留，是一种安全的绿色添加剂。使用IgY为机体产生免疫球蛋白，可以减少对动物的应激，提高动物的福利。近年来，已有相关研究证实饲粮中添加适量的IgY有促进家禽生长的作用[2]。
+
+美国的洛阿尔托研究中心(PARC)进行了关于胆囊收缩素 IgY（CCKIgY）粉对肉鸡生长性能影响的试验，研究表明，肉鸡饲粮中添加适量的CCKIgY可显著提高肉鸡的生长速度和饲料效率[]。杨海明等[5]和陆健等[7]将 $\mathrm { I g Y }$ 添加到1周龄内的海兰公雏鸡的开食饲粮中，发现IgY可提高雏鸡的生长性能、内脏器官重以及血清蛋白的含量。丁雪梅[2]和臧海军[13]在肉鸡饲粮中添加含有特异性抗体的IgY粉，发现对 21日龄雏鸡的平均日增重和饲料转化率均未产生显著影响，但42日龄时出现了显著差异。朱锦兰等[14]在肉鸭饲粮中添加 $0 . 1 \%$ 的 $\mathrm { I g Y }$ ，结果表明，添加 $\mathrm { I g Y }$ 可显著提高肉鸭平均日增重。本试验研究发现，在雏鸡饲粮中添加非特异性 $\mathrm { I g Y }$ ，雏鸡平均日增重有增加的趋势，对平均日采食量和料重比未产生显著影响。这可能是由于非特异性 $\mathrm { I g Y }$ 对其生长性能作用效果不如特异性IgY 强，或添加剂量偏低，对其生长性能作用还不够明显。
+
+# 3.2IgY对雏鸡免疫器官生长发育的影响
+
+免疫器官是机体执行免疫功能的组织结构，是淋巴细胞和其他免疫细胞发生、分化、增殖以及产生免疫应答的场所。脾脏、胸腺、法氏囊的发育能反映免疫器官和免疫细胞功能状况，间接反映了机体的免疫水平[15-16]。机体免疫功能的强弱与免疫器官的发育有着密切联系。本试验研究结果发现，雏鸡饲粮中添加IgY主要影响雏鸡的胸腺和脾脏生长发育。雏鸡在1、3和5周龄时，试验组胸腺相对重均高于对照组，尤其是在1和5周龄时试验组胸腺相对重显著增加。雏鸡在5周龄时，试验组胸腺相对重显著高于对照组。
+
+雏鸡组织器官中含有 $\mathrm { I g Y }$ ，且免疫组织器官中IgY 含量相对较高。在饲粮中添加IgY 对雏鸡免疫器官中IgY含量未产生显著影响。
+
+# 3.3IgY对雏鸡血清免疫指标的影响
+
+血清总蛋白含量主要反映肝脏的合成功能，也可以通过血清总蛋白含量间接了解畜禽机体的营养水平，判断雏鸡饲粮中营养素的代谢状况。血清球蛋白作为血清蛋白的一部分，能与外来的特异性抗原结合起免疫反应而保护机体，其含量一定范围内的提高是免疫力提高的体现。本试验研究发现，饲粮中添加 $\mathrm { I g Y }$ 主要影响雏鸡血清总蛋白和球蛋白含量，与陆健等[7的研究结果一致。血清球蛋白含量在1和3周龄时显著增高。由此可知，饲粮添加IgY主要影响雏鸡育雏前期血清蛋白含量。
+
+$\mathrm { I g Y }$ 是体液免疫应答产生的主要抗体，是家禽血清中含量最高的免疫球蛋白，约占免疫球蛋白总量的 $7 5 \%$ ，在抗细菌、抗病毒和抗外毒素等多种免疫防御机制中发挥着重要作用[17]。本试验研究发现，雏鸡血清中 $\mathrm { I g Y }$ 含量呈现随周龄的增大而逐渐升高的趋势，在饲粮中添加IgY之后，对雏鸡血清IgY含量影响不大，但从总体上看，试验组雏鸡血清中 $\mathrm { I g Y }$ 含量随周龄的增大维持在一个稳定的水平，使机体的免疫水平维持在一个稳定范围内。
+
+溶菌酶是动物免疫防御系统的重要组成成分，通过测定血清中溶菌酶活性可以评价机体吞噬系统功能[18]。溶菌酶活性高表明吞噬细胞处于较高活化状态，抗原活性增强，从而增强机体的抗菌防御机能。本试验结果表明，饲粮中添加IgY对1周龄雏鸡血清溶菌酶活性影响最大，说明1周龄试验组雏鸡的巨噬细胞的激活状态要高于对照组，饲粮中添加IgY对育雏后期的血清溶菌酶活性影响较小。
+
+白细胞介素-2是保障机体正常免疫功能的关键物质，具有广谱的免疫增强活性。可刺激自然杀伤细胞（NK 细胞）生长并增强其溶细胞功能，产生杀伤细胞，具有增强B细胞和巨噬细胞的作用。$\mathfrak { a }$ -干扰素在免疫调节中起重要作用，具有广谱的抗病毒、抗肿瘤和免疫调节的作用。本试验研究发现，雏鸡血清中白细胞介素-2含量呈现随周龄的增大而逐渐升高的趋势，在饲粮中添加IgY之后，对雏鸡育雏早期血清白细胞介素-2 含量的影响较大，显著提高了1和3周龄血清白细胞介素-2 含量，并使得试验组雏鸡血清中白细胞介素-2 含量随周龄的增大维持在一个稳定的水平。由此可知，在雏鸡饲粮中添加IgY 可以提高育雏早期雏鸡的免疫活性。育雏后期试验组雏鸡血清白细胞介素-2 含量与对照组趋于相等，说明育雏后期IgY 的影响作用变小，因此从血清中白细胞介素-2 含量来看，IgY更适合在育雏前期添加。饲粮添加 $\mathrm { I g Y }$ 对血清 $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } . ~ } }$ -干扰素含量的影响与血清IgY含量结果相类似。
+
+淋巴细胞是白细胞中参加机体免疫功能最重要的成分。本试验研究结果中，在雏鸡育雏期血液中淋巴细胞的数量随周龄的增大呈现先降低后升高的趋势。饲料中添加IgY 对1周龄雏鸡淋巴细胞数量有升高的趋势，5 周龄时达到差异显著水平，由此可知饲粮添加 IgY 对育雏后期雏鸡血液淋巴细胞数量影响较大。
+
+# 3.4IgY对雏鸡肠道食糜中sIgA含量的影响
+
+sIgA 是分泌到黏膜表面的免疫球蛋白A，通过在局部凝集特异性抗体，中和病毒、毒素，阻止病原体吸附到黏膜表面而使其丧失黏附和活动能力。它能抵御微生物的侵袭，使其不能进入血液，是黏膜表面抗感染免疫的第一道屏障[7]。Hanna 等[19]认为，胃肠黏膜免疫应答以 sIgA 介导的体液免疫为主。故一旦 sIgA功能不全，机体就会出现相应的疾病。本试验的研究结果表明，肠道食糜中 sIgA含量在雏鸡出雏后的1周内最高，之后呈现先降低后升高的趋势。雏鸡饲粮中添加IgY 提高了肠道食糜中 sIgA 含量，尤其是在育雏1周龄时影响显著。这说明饲粮中添加IgY可以提高肠道黏膜对微生物的抵御功能，增强机体表面抗感染的保护作用及局部黏膜免疫清除的作用。
+
+4结论
+
+雏鸡饲粮中添加IgY可以促进1\~5 周龄雏鸡生长性能和免疫机能的提高，但从提高免疫机能的角度看，育雏前期（1\~3 周龄）的作用效果大于育雏后期。
+
+# 参考文献：
+
+[1]NILSSON E,STALBERG J,LARSSON A.IgY stability in eggs stored at room temperature or at $+ 4 ^ { \circ } \mathrm { C }$ [J].British Poultry Science,2012,53(1):42-46.   
+[2] THOMSENK,CHRISTOPHERSENL,JENSENPO,etal.Anti-Pseudomonas aeruginosa IgY antibodies promote bacterial opsonization and augment the phagocytic activity of polymorphonuclear neutrophils[J].Human Vaccines & Immunotherapeutics,2016,12(7):1690-1699. [3]文英先.卵黄抗体饲料添加剂在家禽生产中的应用[J].中国动物保健,2015,17(7):25-26.   
+[4]朱锦兰,李焕友,陈晓生,等.卵黄抗体添加剂对肉鸭生长性能的影响[J].中国饲料,2004(21):15-16. [5]杨海明,王志跃,江栋材,等.开食日粮中添加IgY 对雏鸡生长性能及免疫器官、肠道生长发育的影 响[J].中国饲料,2013(16):26-29.   
+[6]朱锦兰,李焕友,冯定远,等.卵黄抗体和金霉素对肉鸭小肠绒毛高度的影响[J].中国家 禽,2006,28(23):18-19.   
+[7]陆健,张得才,韩娟,等.日粮中添加IgY 对雏鸡生长性能、内脏器官生长和血清蛋白含量的影响[J]. 上海畜牧兽医通讯,2013(6):22-23,25.   
+[8]MAHDAVI A H,RAHMANI H R,NILI N,et al.Eects of dietary egg yolk antibody powder on growth performance,intestinal Escherichia coli colonization,and immunocompetence of challenged broiler chicks[J].Poultry Science,2010,89(3):484-494.   
+[9] XU J,REN C,WANG S,et al.Protection eficacy of multivalent egg yolk immunoglobulin against Eimeria tenella infection in chickens[J].Iranian Journal of Parasitology,2013,8(3):449-458.   
+[10]王振辉,武桂梅,张秀峰,等.抗鸡白痢沙门氏菌病卵黄抗体粉饲料添加剂的研制[J].饲料工 业,2012,33(20):7-10.   
+[11]COOK M E,MILLER C C,PIMENTEL JL.CCK antibodies used to improve feed eficiency:United States,5989584 A[P].1999-11-23.   
+[12]丁雪梅.胆囊收缩素主动免疫产蛋鸡的营养生理效应研究[D].硕士学位论文.雅安:四川农业大 学,2003.   
+[13]臧海军.胆囊收缩素卵黄抗体粉在肉鸡饲粮中适宜添加量的研究[D].硕士学位论文.雅安:四川农
+
+业大学,2007.
+
+[14]朱锦兰,李焕友,冯定远,等.卵黄抗体添加剂与金霉素对肉鸭生长性能的影响比较研究[J].中国畜 牧杂志,2005,41(6):36-37,50.   
+[15]李志清,呙于明,袁建敏,等.β-葡聚糖对肉仔鸡生产性能及免疫功能的影响[J].中国家 禽,2004,26(9):39-42.   
+[16]刘建欣,郑昌学.现代免疫学-免疫的细胞和分子基础[M].北京:清华大学出版社,2002.   
+[17]崔治中,崔保安.兽医免疫学[M].北京:中国农业出版社,2004:42-43.   
+[18]马彦博,呙于明,袁建敏,等.爱拔益加肉鸡和北京油鸡免疫器官功能及巨噬细胞活性的比较研究 [J].饲料工业,2006,27(15):25-27.   
+[19] HANNA M K,ZARZAUR B L,Jr,FUKASTSU K,et al.Individual neuropeptides regulate gut-associated lymphoid tissue integrity,intestinal immunoglobulin A levels,and respiratoryantibacterial immunity[J].Journal of Parenteral and Enteral Nutrition,2000,24(5):261-269. Effects of Yolk Immunoglobulin on Growth Performance and Immune Function of Chicks   
+YANG Haiming1JU XiaojunlWANG Zhiyuel\*MA Yinpeng1MA Yiguo²ZHANG Jianping²   
+(1. College of Animal Science and Technology, Yangzhou University, Yangzhou 225oo9, China;2. Jinhu County Lvliang Center Veterinary, Jinhu 211621, China)
+
+Abstract: This experiment was conducted to study the effects of dietary yolk immunoglobulin $( \mathrm { I g Y } )$ on growth performance and immune function of chicks. Two hundred and forty one-day-old Roman rooster hens with same batch of hatching and similar body weight were randomly divided into 2 groups (control and experimental groups） with 6 replicates in each group and 2O chicks in each replicate.Chicks in the control group were fed with a basal diet,and the others in the experimental group fed the basal diet supplemented with $0 . 1 \%$ IgY. The experiment lasted for 5 weeks. At the age of 1,3 and 5 weeks,2 chickens with average weight of each replicate were weighed,slaughtered,and the blood was collected for the serum immune parameters,and then the immune organ, jejunum chyme were taken and used for the determination of relevant indicators. The results showed as folows: 1) compared with the control group, the average daily gain of chicks in experimental group had a tendency to increased at the age of 1,3 and 5 weeks $( 0 . 0 5 { < } P { < } 0 . 1 0 )$ . 2) The thymus relatively weight of chicks at the age of 1 and 5 weeks and spleen relatively weight of chicks at age of 1 week in experimental group were significantly higher than those in control group $( P { < } 0 . 0 5 )$ . The content of $\mathrm { I g Y }$ in bursa of Fabricius, spleen and thymus of chicks at the age of 1 and 5 weeks in experimental group had no significant difference with what in control group $( P { > } 0 . 0 5 )$ .3) The content of globulin, $\mathfrak { a }$ -interferon interleukin-2 and the activity of lysozyme in serum of chicks at the age of 1 week,the content of total protein, globulin and interleukin-2 in serum of chicks at the age of 3 weeks,and the number of blood lymphocytes of chicks at the age of 5 weeks in experimental group were significantly higher than those in control group $( P { < } 0 . 0 5 )$ . 4) The content of secretory immunoglobulin A in intestinal tract chyme of chicks at the age of 1 week in experimental group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . In conclusion，dietary supplementation of $\mathrm { I g Y }$ can enhance growth performance and immune function at the age of 1 to 5 weeks. But from the perspective of improving immune function, the effect at early stage of brood (1 to 3 weeks of age) is more obvious. Key words: chicks; yolk immunoglobulin; growth performance; immune function

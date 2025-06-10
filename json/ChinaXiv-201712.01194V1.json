@@ -1,0 +1,302 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顺铂上调STAT1蛋白抑制宫颈癌细胞增殖",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷瑞霖，肖松舒，薛 敏中南大学湘雅三医院妇科，湖南 长沙 410013",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 研究Stat1蛋白对宫颈癌Hela细胞生长、增殖及顺铂敏感性的影响及其作用机制。方法 采用蛋白印迹法(Westernblot)检测不同浓度DDP处理Hela细胞后Stat1蛋白表达差异;转染Stat1-siRNA后，通过Westemblot验证干扰效果;应用四甲基偶氮唑蓝(MTT)法和5-溴脱氧尿嘧啶核苷(BrdU)观察转染Stat1-siRNA后Hela细胞对DDP敏感性变化，并检测 Stat1相关细胞因子c-Myc的表达变化。结果 随着DDP浓度的增加,Hela细胞中Stat1蛋白的表达量逐渐增加,DDP浓度为 $5 \\mathrm { m g / L }$ 时,Stat1蛋白表达上调1.5倍，DDP浓度为 $1 0 ~ \\mathrm { { m g / L } }$ 时,Stat1蛋白表达上调近2倍;特异性Stat1-siRNA使Hela细胞中Stat1的表达下调$70 \\%$ ,促进细胞生长和增殖;Stat1-siRNA可以降低DDP对Hela细胞生长和增殖的抑制效应,削弱DDP对c-Myc的抑制作用。结论 Hela细胞中c-Myc是STAT1发挥抑癌作用的靶点基因之一;STAT1/c-Myc通路介导了DDP抑制Hela细胞生长、增殖的作用;STAT1可增强Hela细胞对DDP的敏感性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Stat1;c-Myc;宫颈癌;Hela细胞;顺铂;化学治疗",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cisplatin inhibits proliferation of cervical carcinoma cell line by up-regulating Statl expression ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LEIRuilin,XIAOSongshu,XUin DepartmentofGynecology,Third Xiangya Hospital,Central South University,Changsha 41o0l3,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:ObjectiveToinvestigatetheroleof Statlgeneintheproliferationandchemotherapeuticsensitivityofcervical cancer HeLa cels. Methods The protein expressionof Stat1 in the Hela cels exposed to gradient concentrations of cisplatin (DDP) was detected by Western blotting with or without smal interfering RNA (siRNA)-mediated Statl gene silencing.The efect of Sata1 silencing on the sensitivitytoDDPand cellproliferationofthe celswas tested using MTTassyandBrdUassay andthe expressionofc-Myc wasdetectedby Westernbloting inte celstreated withsiRNAandDDP.Results Theexpression of Stat1 in Helacels exposedto DDP increasedwith theDDPconcentrations,reaching1.5 folds of thebaselineata DDP concentration of $5 ~ \\mathrm { m g / L }$ and 2 folds at $1 0 ~ \\mathrm { { m g / L } }$ . Stat1-siRNA effectively reduced Stat1 expression in Hela cells, promoted the cellproliferation,andenhancedtheexpresionof-Myc;DDPinibitedthecellgrowthanddown-regulatedc-Mycexpion. Stat1-siRNArescued DDP-induced inhibition of cellgrowthandc-Myc down-regulation. Conclusion The expressionof Stat1 is associated withDDPsensitivityincervicalcancercels,andStat1silencingcan increasethesensitivitytoDDPandc-Myc expression of the cells. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Statl; c-Myc; cervical carcinoma; HeLa cells; cisplatin; chemotherapy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宫颈癌是全球女性最常见的恶性肿瘤之一，发病率仅次于乳腺癌[1]。顺铂(cisplatin,DDP)广泛应用于恶性肿瘤的化学治疗，宫颈癌新辅助化疗方案多以顺铂为基础，疗效肯定。但顺铂的毒性反应突出，主要为肾功能损害、耳毒性、血液毒性、胃肠道反应等，寻找一类安全可靠的可增强肿瘤化疗敏感性的基因靶点药物以降低DDP用量、减轻毒副作用，具有重要的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "信号转导和转录激活子-1(signal transducers andactivatorsof transcription1,Stat1)被认为是一种抑癌因子,可通过直接调控多种靶基因的转录如c-Myc,CDKs等调控肿瘤细胞的生长与凋亡[2-3]。癌基因c-Myc与肿瘤的发生、发展和演变转归有重要关系，宫颈癌等多种肿瘤中都有c-Myc基因的扩增或过度表达[4]。T细胞淋巴瘤和卵巢癌的研究发现Stat1可以改善肿瘤细胞对化疗药物耐药性[5-6]。而Stat1及c-Myc在宫颈癌化疗敏感性中的研究，尚未见文献报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究通过研究顺铂、Stat1-siRNA处理宫颈癌Hela细胞后Stat1、c-Myc表达及细胞生长、增殖能力的差异，探讨Stat1蛋白对于Hela细胞生长与增殖的影响以及Stat1、c-Myc在宫颈癌顺铂化疗敏感性中的作用及机制，为开发协同顺铂化疗的基因靶点药物提供实验依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人宫颈癌细胞株Hela由中国科学院细胞库提供，注射用DDP购自江苏豪森药业股份有限公司，3-（4，5-二甲基噻唑-2)-2、5-二苯基四氮唑溴盐(商品名:噻唑蓝，MTT)购自美国Sigma公司,BrdU试剂盒购自南京凯基生物科技发展有限公司，兔抗Stat1抗体 $\\cdot \\beta \\cdot$ -actin抗体、兔抗c-Myc抗体均购自美国Abcam公司，应用于RNA干扰实验的对照小RNA片段Con-siRNA和Stat1干扰片段Stat1-siRNA均购自上海纽恩生物技术有限公司,细胞转染试剂lipo-2000购自美国Life Technology公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养人宫颈癌细胞Hela在含 $10 \\%$ 胎牛血清 $. 1 0 0 \\mathrm { U / m l }$ 青霉素、 $\\mathrm { . 1 0 0 \\ m g / L }$ 链霉素的1640高糖培养基中，置于 $3 7 ~ \\mathrm { ^ { \\circ } C } \\setminus { 5 \\% } \\mathrm { ~ C O } _ { 2 }$ 、饱和湿度培养箱内常规传代培养。实验用细胞均为对数生长期细胞。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2细胞转染在6孔细胞培养板中种入状态良好的Hela细胞 $1 \\times 1 0 ^ { 5 } / \\mathrm { m l } , 8 \\mathrm { ~ h ~ }$ 后，依据lipo-2000转染试剂说明书加入适量lipo-2000转染试剂和 $5 0 ~ \\mathrm { { n g / m l } }$ 的Stat1-siRNA及其对照siRNA，24h后取细胞裂解提蛋白。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3Westernblot检测蛋白表达提取各组全细胞蛋白质，Bradford法测定蛋白质含量。按每孔 $1 0 ~ \\mu \\ g$ 上样,常规SDS-PAGE电泳。电泳完成后以半干式电泳转移法将蛋白条带转移到PVDF膜上。电转完成后取出PVDF膜， $3 \\%$ BSA $4 ^ { \\circ } \\mathrm { C }$ 封闭过夜。倾去BSA,在其上加入相关蛋白的一抗， $\\beta$ -actin作为内参与PVDF膜在室温共孵育 $\\boldsymbol { 2 } \\mathrm { h } _ { \\odot }$ 。PBS漂洗后再分别用结合辣根过氧化物酶的二抗孵育。ECL化学发光法进行显色，X光胶片上曝光，随后显影、定影，用图像分析系统测定蛋白条带的光密度，进行定量分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.4MTT检测细胞生长曲线收集各组处于对数生长期的Hela细胞，把细胞悬液浓度调节为 $1 { \\times } 1 0 ^ { 5 } / \\mathrm { m l } _ { \\mathrm { c } }$ 将$1 0 0 ~ \\mu \\mathrm { l }$ （含 $1 \\times 1 0 ^ { 4 }$ cell)的细胞悬液种入每孔中，每组设5个复孔，种5块96孔板。置于 $3 7 \\ \\mathrm { ^ { \\circ } C } , 5 \\% \\mathrm { C O } _ { 2 }$ 培养箱孵育，把种板时间作为起始时间点 $0 \\mathrm { { h } }$ ，在 $0 \\mathrm { { h } }$ 取出一块96孔细胞培养板，每孔加入 $1 0 \\mu 1 0 . 5 \\%$ MTT溶液,继续培养 $^ { 4 \\mathrm { h } }$ 。离心 $\\mathrm { 1 0 0 0 ~ r / m i n { \\times } 1 0 ~ m i n } )$ ,小心吸掉孔内上清液，每孔均加入 $1 0 0 \\mu \\mathrm { l }$ 二甲基亚矾,将96孔板置摇床上，低速振荡 $1 0 \\mathrm { m i n }$ ，充分溶解结晶物。在酶联免疫检测仪$\\mathrm { O D 4 9 0 \\ n m }$ ，分别测量各孔的吸光值。同时设置调零孔(MTT、培养基、二甲基亚矾)。此后每隔1d取1块培养板检测 $4 9 0 \\mathrm { n m }$ 的D值，一共检测 $5 \\mathrm { d } _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5BrdU检测细胞增殖能力细胞以 $1 . 5 { \\times } 1 0 ^ { 5 } / \\mathrm { m l }$ 细胞数接种于直径 $3 5 \\mathrm { m m }$ 培养皿中(内放置一盖玻片),培养1d,用含 $0 . 4 \\%$ FCS培养液同步化3d,使绝大多数细胞处于G0期。终止细胞培养前，加入BrdU(终浓度为$3 0 \\mu \\mathrm { g } / \\mathrm { L } ) , 3 7 \\ \\mathrm { ^ { \\circ } C }$ ，孵育 $4 0 \\mathrm { m i n }$ 。弃培养液,玻片用PBS洗涤3次。甲醇/醋酸固定 $1 0 \\mathrm { m i n }$ 。经固定的玻片空气干燥， $0 . 3 \\% \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 甲醇 $3 0 \\mathrm { m i n }$ 灭活内源性氧化酶。 $5 \\%$ 正常兔血清封闭。甲酰胺 $1 0 0 \\ \\mathrm { ^ { \\circ } C } , 5 \\ \\mathrm { m i n }$ 变性核酸。冰浴冷却后PBS洗涤，加1抗即抗兔抗BrdU单抗(工作浓度1：50)，阴性对照加PBS或血清。按ABC法进行检测，苏木素或伊红衬染，在显微镜下随机计数10个高倍视野中细胞总数及BrdU阳性细胞数，计算标记指数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6统计学分析采用SPSS17.0统计软件储存和分析数据，计量资料以均数 $\\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } { \\bf \\underline { { \\sigma } } } \\stackrel { \\cdot } \\bf$ 标准差表示，两个独立样本均数比较呈正态分布的采用 $\\mathbf { \\Phi } _ { t }$ 检验， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1DDP对Stat1蛋白表达的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了在Hela细胞中验证DDP对Stat1表达的影响，分别用 $0 , 2 . 5 , 5 , 1 0 \\mathrm { m g / L }$ 浓度的DDP处理Hela细胞$4 8 \\mathrm { ~ h ~ }$ ，收集细胞进行蛋白提取，经过电泳、转膜和抗体杂交得到Westernblot结果(图1)。结果显示：DDP刺激Hela细胞 $4 8 \\mathrm { ~ h ~ }$ 后，随着DDP浓度的升高，Stat1表达逐步增加,在 $5 ~ \\mathrm { m g / L }$ 时与对照组比较有显著差异( $P <$ 0.001)；至 $1 0 ~ \\mathrm { { m g / L } }$ 时更明显，上调蛋白表达量超过2倍，说明DDP可上调Stat1的表达,Stat1的上调程度与DDP处理浓度成正相关。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/589ed545fb24c583c6a80b8949559da5b2bb0dfdcf7f9562e01db9a77116101b.jpg",
+        "img_caption": [
+            "图1不同浓度DDP处理Hela细胞后Stat1蛋白的表达Fig.1 Expression of Statl protein in Hela cells exposedto different concentrations of DDP."
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2转染Stat1-siRNA对Stat1蛋白水平的表达影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用化学合成的Con-siRNA和Stat1-siRNA分别用脂质体转染Hela细胞 $4 8 \\mathrm { { h } }$ ，收集细胞，进行处理后，进行westernblot检测(图2)。结果显示:Stat1-siRNA转染的Hela细胞中Stat1蛋白的表达量较阴性对照Con-siRNA转染组显著下调，通过灰度分析得出可下调 $70 \\%$ 左右，说明Stat1-siRNA转染Hela细胞后可有效下调Stat1蛋白的表达。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e39b1e14f6032737d03a6f0989bb06a81348b96ef4d18eff8a1ff52534ac03b.jpg",
+        "img_caption": [
+            "图2Stat1沉默后蛋白的表达 Fig.2Expression of Statl protein in Hela cells after Statl gene silencing. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Stat1在顺铂抑制Hela细胞过程中的作用及对c-Myc蛋白表达的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为验证DDP是否可以通过上调Stat1来达到抑制Hela细胞生长增殖的作用,用DDP( $1 0 ~ \\mathrm { { m g / L } }$ 联合Stat1-siRNA处理Hela细胞,得到四个实验组,Con-siRNA,Stat1-siRNA,DDP $^ +$ Con-siRNA以及 $\\mathrm { D D P + }$ Stat1-siRNA，采用MTT及Brdu实验检测各组细胞生长与增殖情况。在细胞培养期间，每 $2 4 \\mathrm { h }$ 取细胞转移到96孔板，加MTT, $4 9 0 \\ \\mathrm { n m }$ 检测吸光值，一共测5个时间点，每个检测点3个平行，取每个检测点的平均值做折线图，得到MTT结果(图3A)。同样的分组，BrdU $2 4 \\mathrm { h }$ 四组增殖能力无明显变化(图3B)，但在 $4 8 \\mathrm { h }$ 时，亦得到MTT相同的结果。结果显示：Stat1-siRNA组Stat1下调，Hela细胞的生长增殖状态最佳，DDP组Hela细胞生长增殖抑制最明显； $\\mathrm { \\Delta D D P + S t a t { 1 } }$ 沉默组Hela细胞的生长增殖介于DDP组及Stat1-siRNA组之间，说明Stat1抑制Hela细胞生长增殖；DDP通过上调Stat1抑制细胞生长增殖；下调Stat1后,DDP对Hela细胞生长增殖的抑制作用被削弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd19e620378e23cc7782942dcca21c72d1145ed2c5be182726226f9d812ea1c3.jpg",
+        "img_caption": [
+            "图3Hela细胞生长 $( A )$ 和增值能力 $( B )$ 的变化 Fig.3Cisplatin inhibits the proliferation of Hela cells by up-regulating Statl expression. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Westernblot实验验证DDP是否可以通过上调Stat1来抑制其下游因子c-Myc蛋白的表达，采用检测前述各组细胞，得到。结图4果表明：未经DDP处理的两组，c-Myc蛋白表达高于DDP处理的两组;DDP未处理组中，Stat1沉默组c-Myc蛋白的表达高于空白对照组;经DDP处理的两组中， $\\mathrm { \\Delta D D P + S t a t { 1 } }$ 沉默组c-Myc蛋白表达高于DDP组；同时可以看出， $\\mathrm { \\Delta D D P + S t a t { 1 } }$ 沉默组c-Myc蛋白的表达,介于DDP组及Stat1沉默组之间，说明:Stat1可介导DDP对c-Myc抑制作用;DDP通过上调Stat1抑制c-Myc 的表达,下调Stat1后,DDP对c-Myc蛋白表达的抑制被削弱。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Stat1 $\\therefore c$ -Myc对Hela细胞生长与增殖的作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "酪氨酸蛋白激酶-信号传导和转录激活因子(januskinase-signal transducers and activators of transcrip-tion,JAK-Stats)途径是一条极为快速的信号通路,激活后，可以将细胞外信号传递到细胞核。在人类多种实体肿瘤(如乳腺癌、结肠癌、前列腺癌等[8-10])和血液病[11-12]（如淋巴瘤)的研究中发现,其参与了肿瘤发生、发展、浸润和转移。Stat1是其中重要成员之一，参与细胞生长调节、抗病毒和免疫防御[13],主要可触发抗增殖和促凋亡反应，在肿瘤细胞和免疫系统中被认为是一种肿瘤抑制因子[3]。Stat1主要是直接通过对多种靶基因的转录调控如c-Myc,CDKs等[2-3],或间接地通过调节肿瘤血管生成、组织浸润或抗肿瘤免疫反应对肿瘤细胞生长和凋亡进行调控。而宫颈癌细胞中Stat1及c-Myc的相关研究较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8673be94e9f9cb67b71fc677401a83b8145d63ef8d4decc04a40946423f46ce.jpg",
+        "img_caption": [
+            "图4四组Hela细胞c-Myc蛋白的表达 Fig.4 Expression of c-Myc protein in Hela cells after Statl gene silencing. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Beppuetal研究发现，IFN-y可同时促进宫颈癌细胞系Caski中Stat1(促调亡)和NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ (抑凋亡)表达上调，当IFN-y和环孢菌素A(抑制NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 活性)同时使用时，生长停滞明显增加[14]。本研究通过用靶向 Stat1干扰RNA对Hela细胞进行转染，有效沉默Stat1的表达后发现Stat1对Hela细胞的生长与增殖有抑制作用，同时发现在宫颈癌Hela细胞中c-Myc受到Stat1的调控，c-Myc的表达量与细胞的生长增殖状态呈正相关。c-Myc基因是最早于禽类骨髓瘤病毒中发现的一种癌基因，其表达水平与细胞的增殖及分化状态有关，其表达产物在调节细胞生长、分化或恶性转化中发挥作用4]。结合文献得出，在宫颈癌Hela细胞中，癌基因c-Myc具有促进其生长增殖的作用,c-Myc是Stat1发挥抑癌作",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用的靶点基因。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2DDP对Hela细胞Stat1表达的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DDP是广谱抗癌药，属细胞周期非特异性药物，主要作用靶点为DNA，属细胞周期非特异性药物，在宫颈癌的化疗中占有重要地位，其具体作用机制仍未完全探明。有文献报道DDP可通过ERK途径下调Stat3抑制肿瘤细胞的生长与增殖[318],另有文献显示DDP可通过抑制c-Myc的表达而抑制肿瘤细胞的生长与增殖[19-20]而宫颈癌中DDP与Stat1的关系并无相关研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究通过DDP对Hela细胞的梯度浓度处理，发现DDP抑制Hela细胞生长与增殖的过程中显著上调了Stat1的表达，且其上调程度与DDP的处理浓度呈正相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3Stat1在顺铂抑制Hela细胞过程中的作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究进一步使用靶向Stat1干扰RNA与DDP联合处理细胞，发现Stat1-siRNA可以削弱DDP对Hela细胞生长和增殖的抑制效应;另一方面，DDP可以抑制Stat1下游因子c-Myc的表达,Stat1-siRNA可削弱DDP对c-Myc的抑制作用。证明随着Stat1的下调,Hela细胞对DDP的敏感性被削弱，Stat1可增强Hela细胞对顺铂的敏感性;Stat1介导了DDP对Hela细胞的抑制效应，Stat1是宫颈癌顺铂化疗的作用新靶点。另外证明文献中报道DDP对c-Myc的抑制作用,是通过Stat1介导的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4靶向Stat1的化疗增敏研究的意义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在接受单次单药的顺铂化疗( $\\mathrm { 5 0 m g / m ^ { 2 } } ,$ 患者中，约$2 8 { \\sim } 3 6 \\%$ 出现肾毒性，约 $31 \\%$ 出现耳毒性，约1/3出现血液学毒性，大部分患者胃肠道反应重[17]。随着分子靶向药物问世，多种靶向药物已在临床上和铂类抗癌药物联合应用，并取得了不错的疗效。如盐酸厄洛替尼片(tarceva)[21]、吉非替尼(gefitinib)[22]与顺铂联用都可有效治疗中晚期肺癌患者，此外，还有多靶点药物索拉菲(sorafenib)等与铂类联合治疗肝癌患者[23],在改善化疗耐药性、提高化疗敏感性、减轻化疗副作用方面有可喜的效果。最近在T细胞淋巴瘤和卵巢癌的研究中发现Stat1可以改善肿瘤细胞对化疗药物耐药性[56,而本研究在宫颈癌Hela细胞中证明了Stat1也具有同样的作用，提示开发以Stat1为靶点的化疗协同药物有诱人的前景。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述,Stat1 $\\cdot ^ { \\mathrm { c } }$ -Myc介导了DDP抑制Hela细胞生长、增殖的作用;Stat1可增强Hela细胞对顺铂的敏感性。本研究补充了DDP对宫颈癌的作用靶点，揭示了宫颈癌细胞中可能存在STAT1/c-Myc通路，初步探讨了其在DDP化疗中可能的机制及作用。在宫颈癌及其他细胞株或者宫颈癌在体实验中的进一步研究，以及DDP能激活Stat1/c-Myc通路是靶向调控哪个蛋白等等，都将在本课题组后期的研究中进行进一步探讨。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1］魏丽惠.子宫颈癌防治任重道远[J].中华妇产科杂志,2013,48(4): 304-6.   \n[2]Ramana CV,Grammatikakis N,Chernov M,et al.Regulation of c-myc expression by IFN-gamma through Statl-dependent andindependent pathways[J].EMBO J,2000,19(2): 263-72.   \n[3]Avalle L，Pensa S,Regis G,et al. STAT1 and STAT3 in tumorigenesis: A matter of balance[J]. JAKSTAT,2012,1(2): 65-72.   \n[4]Matsushita K,Shimada H, Ueda Y,et al.Non-transmissible Sendai virus vector encoding c-myc suppressor FBP-interacting repressor for cancer therapy[J].World JGastroenterol,2014,20(15):4316-28.   \n[5]Fantin VR,Loboda A,Paweletz CP,et al. Constitutive activation of signal transducers and activators of transcription predicts vorinostat resistance in cutaneous T-cell lymphoma[J].Cancer Res,2O08,68 (10): 3785-94.   \n[6]Stronach EA,Alfraidi A,Rama N,et al. HDAC4-regulated STAT1 activation mediates Platinum resistance in ovarian cancer [J]. Cancer Res,2011,71(13): 4412-22.   \n[7]Darnell JE,Kerr IM, Stark GR.Jak-STAT pathways and transcriptional activation in response to IFNs and other extracellular signaling proteins[J]. Science,1994,264(5164): 1415-21.   \n[8]Proieti C，Salatino M，Rosemblit C,et al.Progestins induce transcriptional activation of signal transducer and activator of transcription 3(Stat3) via a Jak-and Src-dependent mechanism in breast cancer cells[J].Mol Cell Biol,2005,25(12): 4826-40.   \n[9]Lin Q,Lai R,Chirieac LR,et al. Constitutive activation of JAK3/ STAT3 in colon carcinoma tumors and cell lines:inhibition of JAK3/STAT3 signaling induces apoptosis and cell cycle arrest of colon carcinoma cells[J].Am JPathol,2005,167(4): 969-80.   \n[10]Abdulghani J,Gu L,Dagvadorj A,et al. Stat3 promotes metastatic progression of prostate cancer[J].Am J Pathol,2008,172(6): 1717-28.   \n[11] Derenzini E,Younes A. Targeting the JAK-STAT pathway in lymphoma: a focus on pacritinib[J]. Expert Opin Investig Drugs, 2013,22(6): 775-85.   \n[12]Mitchell TJ,John S. Signal transducer and activator of transcription (STAT) signalling and T-cell lymphomas[J].Immunology,2005,114 (3): 301-12.   \n[13] Schindler C,Brutsaert S.Interferons as a paradigm for cytokine signal transduction[J]. Cell Mol Life Sci,1999,55(12):1509-22.   \n[14］Reed JC,Bischoff JR.BIRinging chromosomes through cell division--nd survivin' the experience[J].Cell,20oo,102(5): 545-8.   \n[15]Leppert U,Henke W,Huang X,et al.Post-transcriptional finetuning of COP9 signalosome subunit biosynthesis is regulated by the c-Myc/Lin28B/let-7 pathway [J].J Mol Biol,2011,409(5): 710-21.   \n[16]Gerbitz A,Sukumar M,Helm F,et al. Stromal interferon-y signaling and cross-presentation are required to eliminate antigen-loss variants of B cell lymphomas in mice[J].PLoS One,2012,7(3): e34552.   \n[17]Long HJ. Management of metastatic cervical cancer: review of the literature[J]. J Clin Oncol,2007,25(20): 2966-74.   \n[18]李银燕,王秀君.铂类抗癌药物作用靶点及耐药机制的研究进展[J]. 中国细胞生物学学报,2013,(7):1008-17.   \n[19]Phesse TJ,Myant KB,Cole AM,et al.Endogenous c-Myc is essential for p53-induced apoptosis in response to DNA damage in vivo[J]. Cell Death Differ,2014,21(6): 956-66.   \n[20]Xie X,Ye Z, Yang D,et al. Effects of combined c-myc and Bmi-1 siRNAson thegrowthand chemosensitivityof MG-63 osteosarcoma cells[J].Mol Med Rep,2013,8(1):168-72.   \n[21]Di Maio M,Leighl NB,Gallo C,etal.Quality of Life analysis of TORCH,a randomized trial testing first-line erlotinib followed by second-line cisplatin/gemcitabine chemotherapy in advanced nonsmall-cell lung cancer[J].J Thorac Oncol,2012,7(12): 1830-44.   \n[22]Yu H, Zhang J,Wu X,et al. A phase II randomized trial evaluating gefitinib intercalated with pemetrexed/Platinum chemotherapy or pemetrexed/Platinum chemotherapy alone in unselected patients with advanced non-squamous non-small cell lung cancer[J]. Cancer Biol Ther,2014,15(7): [Epub ahead of print].   \n[23]Wei Y, Shen N,Wang Z,et al. Sorafenib sensitizes hepatocelular carcinoma cell to cisplatin via suppression of $\\mathrm { { W n t / \\beta } }$ -catenin signaling[J].Mol Cell Biochem,2013,381(1/2):139-44. (编辑.旱雅） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,308 @@
+# 组织行为学中的时间相关研究与未来方向
+
+董小炜」秦昕」陈晨」黄鸣鹏² 邓惠如」周汉森」宋博迪1
+
+(1 中山大学管理学院，广州 510275)( 对外经济贸易大学国际商学院，北京 100029)摘要 目前，绝大部分组织行为学研究都是从静态视角聚焦变量在一段时间内的整体平均水平，而忽视了时间的角色，如变量在一段时间内的动态变化特征。通过引入时间的角色，从动态视角关注变量的动态变化特征并探讨其影响因素和结果，可能为现有研究提供新的、突破性视角，进而帮助拓展传统管理理论。鉴于其对理论发展的重要性，近年来，部分新近研究开始逐步关注时间的角色，从动态视角探索变量的动态变化特征。然而，整体来看，这类研究仍相对较少，且分散在不同的研究领域，还未能形成结构化体系。基于此，在将相关研究按照两个维度—一变量的动态变化特征的类别(趋势 vs.波动)与变量的动态变化特征的角色(自变量 vs.因变量)分为四大类别后，系统地回顾和梳理相关研究，并厘清研究背后的理论机制。最后，基于以上梳理分析，未来研究可从关注变量的波动；考察趋势、波动和整体平均水平等的交互作用等角度出发，更加全面、系统地扩展组织行为学理论。
+
+关键词时间；动态；组织行为学；趋势；波动
+
+“时间可以完全改变理论构念和它们之间的关系被概念化的方式，进而改变从理论中衍生出来的命题。”
+
+George & Jones (2000,p. 658)
+
+# 1引言
+
+时间，是个人生活和工作经验的基本元素，无处不在(Bluedom,2002)。然而，在组织行为学领域中，绝大部分研究都是从静态视角聚焦变量在一段时间内的整体平均水平，而忽视了时间的角色，进而无法探究变量在一段时间内的动态变化特征(杜旌,2013；韩翼，廖建桥,2005;Bluedom,2002;George＆Jones,2000)。例如，公平领域的众多研究探讨领导公平行为如何以及何时影响员工的工作态度和行为，但所关注的都是领导在一段时间内的公平行为的整体平均水平对员工的影响(李超平，时勘,2002; Cohen-Charash & Spector,2001; Colquittet al.,2001; Colquittet al.,2013)。相对而言，很少有研究探讨领导在一段时间内的公平行为的趋势(如越来越公平)或波动(如时而公平时而不公平)等动态变化特征对员工的影响(Colquit etal.,2013;Qin,Ren,etal.,2018)。类似的，也极少有研究探讨领导的公平行为如何影响员工的结果变量随时间的变化。这种被广泛采用的、忽略时间的角色的静态视角，一定程度上让现有的组织行为理论保持“静态”。
+
+鉴于其对理论发展的重要性，近年来，部分新近研究开始逐步关注时间的角色，即从动态视角探索变量随时间推移所呈现的变化特征(如趋势、波动等)，并分析其影响因素和结果(Juet al.,2019;Matta et al.,2017; Matta et al.,2020; Qin,Huang, et al.,2018; Qin,Ren, et al.,2018; Zhu et al.,2016)。这些研究表明，将变量的动态变化特征纳入理论模型，能够在探索变量整体平均水平影响的基础上增加解释效力(Chen et al.,2011; Hausknecht et al.,2011;Liu et al.,2012)。例如，Matta 等(2017)发现，领导的公平行为在一段时间内的波动并非无意义的系统性测量误差，而是具有区别于公平行为整体平均水平的独特理论意义，对员工的工作结果具有额外的解释力，领导波动的公平行为甚至比持续的不公平行为对员工的负面影响更大。
+
+简言之，正如George 和 Jones(2000)所指出的，“时间可以完全改变理论构念和它们之间的关系被概念化的方式，进而改变从理论中衍生出来的命题”(p.658)。比如，在对某一构念进行探索时，将个人过去的经历、对未来的预期等融入到当下的构念中，进而从一个更加系统的、“真实的”角度，探讨过去、现在和未来等时间特性如何在某一构念中呈现、以及如何产生作用(Hausknecht et al,2011; Liu et al.,2012; Ng et al.,2014; Qin,Huang, et al.,2018; Rubenstein et al.,2019)。可见，通过引入时间的角色，现有研究可以更好地“从本体论为现象的本质提供精准描述”(George&Jones,2000,p.658)。
+
+然而，现有引入时间的角色、从动态视角关注变量的动态变化特征的相关研究，仍相对较少，且分散在不同的研究领域，还未能形成结构化体系，这既不利于现有研究之间形成有效对话，也不利于为后续研究提供参考借鉴。基于此，本文系统梳理了引入时间的角色、以变量的动态变化特征为核心的研究文献，归纳总结出时间在组织行为学研究中的应用模式，以期为未来相关研究提供启发。具体地，本文首先按照两个维度——变量的动态变化特征的类别(趋势 vs.波动)与变量的动态变化特征的角色(自变量 vs.因变量)——将相关研究分为四大类别：(1)趋势是自变量；(2)趋势是因变量；(3)波动是自变量；(4)波动是因变量；进一步，以此分类为基础，系统地回顾和梳理相关研究，并厘清研究背后的理论机制。最后，基于以上梳理分析，本文为未来研究提供有价值的指引和建议。
+
+# 2研究分类
+
+本文重点梳理在组织行为学领域中引入时间的角色、探索变量的动态变化特征的实证研究，由于这类研究话题较为分散(如公平、领导力、员工社会化等)，我们将其分类梳理1。第一，虽然这类实证研究的话题较为分散，但其本质都是关注某个(或多个)变量在一段时间内的动态变化特征。其中，绝大部分相关研究聚焦于变量的趋势(trend)和波动(variability)这两类动态特征(Bentein etal., 2005; $\mathrm { N g }$ et al.,2014; Peterson et al.,2011; Scott et al.,2012; Taylor et al.,2017)2。因此，本研究选取变量的动态变化特征的类别(趋势 vs.波动)作为分类的第一个维度。具体的，趋势反映了变量在一段时间内的变化动向(velocity;Hsee &Abelson,1991)，包括增长和衰减(growth and decay;McClean et al.,2019)，在研究中多用斜率(slope)进行衡量(Chen et al.,2011; Liu et al.,2012; Zhu et al,2016)。波动则反映了变量在一段时间内随时间推移所呈现出的(不)稳定程度(un)stability;Matta etal.,2017; Matt et al.,2020)，在研究中多用标准差(standard deviation)进行衡量(Fleeson,2001; Mattaet al.,2017; Scott et al.,2012)。第二，在不同的研究中，针对变量的动态变化特征，研究者既可以将其作为自变量，探讨其影响结果，也可以将其作为因变量，探索其影响因素。因此，本文选取变量的动态变化特征在理论模型中的角色(自变量 vs.因变量)作为分类的第二个维度。
+
+综上，本文将结合以上两个维度——变量的动态变化特征的类别(趋势 vs.波动)与变量的动态变化特征的角色(自变量 vs.因变量)——将相关研究分为四大类别(如图1所示)进行梳理：(1)趋势是自变量；(2)趋势是因变量；(3)波动是自变量；(4)波动是因变量。在每个类别中，再进一步根据研究话题进行梳理(见表1)。
+
+![](images/e5ab3098a6ac7ad995b9cb0b9bcaa21a403b5ad23363d06fc07f7d852018be05.jpg)  
+图1研究分类框架图
+
+# 2.1趋势是自变量
+
+把变量的变化趋势作为自变量的研究，试图解释个人如何根据以往经历等信息来对自身当下经历的整体或绝对水平进行评估、解释与判断，以及进一步引发的态度、行为等方面的反应(Chen etal,2011; Rubenstein etal.,2019)。与传统研究相比，在这类研究中，个人不再是将自身当下经历的整体或绝对水平作为独立的信息来评价，而是将其与以往经历关联起来，进而为个人的态度、行为等方面的反应提供额外的解释力(Hausknecht et al.,2011;Li et al.,2017; Liu et al.,2012)。目前这类实证研究主要涉及四个研究话题4：公平、领导力、员工态度与知觉、组织情境。
+
+# 2.1.1 公平
+
+Fortin(2008)提出，“任何时候的公平感都与过去的经验和现在的情况有关，并且可能会影响对未来情况的预期。然而，时间效应在公平感方面的影响还没有得到充分的研究”(p.11)。因此，公平领域的研究将受益于整合时间过程的理论的发展(Fortin,2008;Jones& Skarlicki,2013)。近年来，研究者逐渐开始关注个人过去的公平感的影响。例如，Hausknecht 等(2011)发现，在控制当前公平感水平后(时间点4)，员工公平感的趋势(时间点1到时间点4的斜率)对其工作满意度、组织承诺和离职意向都具有额外的解释力：员工公平感的趋势与其工作满意度、组织承诺正相关，与其离职意向负相关；进一步，程序公平感的趋势对工作结果的影响比其他公平维度(即分配公平、人际公平、信息公平)更强。类似的，Kim 等(2015)发现，在控制当前(时间点 2)公平感水平后，公平感的趋势(时间点2和时间点1的差值)可以显著解释工作满意度的差异。Rubenstein 等(2019)则发现，员工分配和程序公平感的趋势都与其职场帮助行为显著正相关；分配和程序公平感的趋势还会调节分配和程序公平感水平对职场帮助行为的积极影响：分配和程序公平感的上升趋势越明显，分配和程序公平水平与职场帮助行为间的正向关系越强。此外，他们还进一步探究了不同类型公平感的水平和趋势之间的交互作用(即分配公平感水平和程序公平感趋势，程序公平感水平和分配公平感趋势)，并发现上述交互作用对职场帮助行为也具有显著影响。
+
+# 2.1.2 领导力
+
+在领导力方面，Yu(2017)发现领导苛责管理行为(abusive supervision)的趋势与员工的工作绩效、组织公民行为显著负相关，与越轨行为显著正相关。Drescher 等(2014)发现共享型领导(sharedleadership)的趋势与团队信任的趋势显著正相关，进而正向影响团队绩效的趋势。 $\mathrm { N g }$ 等(2014)发现，领导-成员交换(leader-member exchange)的上升趋势会削弱员工心理契约破裂(psychological contractbreaches)与侵犯型建言行为(aggressive voice behavior)之间的正向关系；进一步，该研究还发现同事交换(coworker exchange)的上升趋势不仅会削弱员工心理契约破裂与攻击性建言之间的正向关系，还会削弱员工心理契约破裂与关怀型建言(constructive voice behavior)之间的负向关系。
+
+# 2.1.3员工态度与知觉
+
+关于员工态度与知觉话题的动态变化特征的研究涉及工作满意度、组织承诺、其他等话题。工作满意度方面，Liu等(2012)发现，在控制了员工工作满意度的平均水平之后，其趋势与员工离职行为显著负相关；团队整体工作满意度的趋势也与团队整体离职率显著负相关。此外，当团队整体工作满意度呈下降趋势且离散程度较低时，员工工作满意度趋势与其离职行为的负向关系不显著；而当团队整体工作满意度呈增长趋势且离散程度较低时，员工个人工作满意度趋势与其离职行为的负向关系最强。Chen 等(2011)发现员工工作满意度的趋势与其离职意愿的趋势显著负相关，且工作期望(work expectations)部分中介了这一关系。组织承诺方面，Bentein等(2005)发现，员工情感承诺和规范承诺的下降趋势越明显，其离职意愿的上升趋势越明显，离职的可能性也越大。
+
+其他方面，Peterson 等(2011)发现，员工心理资本(psychologicalcapital)的趋势与领导评价的绩效和客观绩效的趋势都显著正相关。Johnson 和 Avolio(2019)发现，当团队的初始心理安全感较高时，团队关系冲突的趋势与员工的团队认同感的趋势、团队满意度的趋势负相关；当团队初始心理安全感较低时，这些关系不显著。Ng 和 Feldman(2013)发现，员工感知的领导组织嵌入感(perceivedsupervisor embeddedness)的趋势与员工自身的组织嵌入感的趋势显著正相关，且组织信任的趋势中介了上述关系。同时，组织信任的趋势与员工自身的组织嵌入感趋势、员工建言行为显著正相关。Jokisaari 和 Nurmi(2009)发现，新员工感知的主管支持(perceived supervisor support)在入职后的 6-21个月内呈下降趋势。新员工感知的主管支持下降趋势越明显，其角色清晰度和工作满意度的下降趋势越明显，工资的增长趋势越不明显。类似的，Zhu等(2017)发现，新员工感知的组织威望(perceivedorganizational prestige)的趋势与组织认同感的趋势显著正相关，心理契约履行(psychological contractfulfillment)的趋势中介了上述关系。
+
+# 2.1.4组织情境
+
+在组织情境方面，Li等(2017)发现，在控制工作复杂性的整体平均水平后，工作复杂性的趋势与员工工作压力正相关；对于情绪稳定性较高的员工，工作自主性会削弱工作复杂性的趋势与工作压力的正向关系，对于情绪稳定性较低的员工，工作自主性并不能削弱上述的正向关系。Taylor 等(2017)则聚焦于工作场所不文明行为(workplace incivility)的趋势。他们发现，体验的工作场所不文明行为的趋势会通过职业倦怠的趋势间接影响离职认知(tumovercognition)的趋势；员工的尽责性会强化工作场所不文明行为的趋势对后续职业倦怠的趋势的影响。
+
+# 2.2趋势是因变量
+
+以变量的变化趋势作为因变量的研究聚焦于探讨变化趋势的影响因素。相较于探究自变量如何导致因变量整体平均水平发生改变的研究，这类研究更加关注哪些自变量会导致因变量在一段时间内变得越来越好或越来越差(即趋势;Kim et al.,2020;Ritter et al.,2016)，有助于我们更好地理解影响变量的变化趋势的源头。目前这类实证研究主要涉及四个研究话题：公平、领导力、员工态度与知觉、组织情境。
+
+# 2.2.1 公平
+
+Konradt 等(2016)探索了大五人格特质对个人在招聘过程中对选拔过程的公平感趋势的影响。研究发现，外倾性和宜人性高的个人的公平感趋势更易呈现低下降趋势(即公平感轻微下降)而非悲观增长趋势(即初始感知较低且公平感变化斜率为正)；高外倾性的个人的公平感趋势更易呈现高下降趋势(即公平感显著下降)而非悲观增长趋势(即初始感知较低且公平感变化斜率为正);具有更高尽责性的个人的公平感趋势更易呈现乐观增长趋势(即初始公平感较高且斜率为正)而非悲观增长趋势(即初始感知较低且公平感变化斜率为正)。
+
+# 2.2.2 领导力
+
+关于领导-成员交换，Nahrgang 等(2009)发现，在同一团队内，领导和不同成员之间的关系质量都会随着时间的推移呈现上升趋势，然后趋于稳定；进一步，成员绩效与领导评价的领导-成员交换质量的趋势显著正相关，领导绩效与成员评价的领导-成员交换质量的趋势显著正相关。Miscenko 等(2017)发现领导身份认同(leader identity)的变化呈现出J型曲线，前期下降一些，后期会显著增加;
+
+进一步，领导自我感知的定规型领导(initiating structure leadership)能力的趋势与随后的领导身份认同的趋势显著负相关。
+
+# 2.2.3员工态度与知觉
+
+关于员工态度与知觉话题的动态变化特征的研究涉及工作满意度、工作倦怠、效能感等话题。工作满意度方面，Boswell等(2009)发现，对于自己先前的工作不满意、对新工作有更多积极经历(例如，更能兑现承诺和更高的社会化程度)的新员工来说，其对当前工作的满意度最可能符合此趋势一一在进入新组织后达到顶峰，随后下降。Ritter 等(2016)发现员工先前的工作满意度水平与之后的工作满意度的趋势呈负相关，即先前的工作满意度水平较高，之后的工作满意度更易呈现下降趋势；而先前的工作满意度水平较低，之后的工作满意度更易呈现上升趋势。Kim 等(2020)发现工作满意度和情感承诺的趋势与人-岗匹配度的趋势显著正相关。
+
+工作倦怠方面，Dunford 等(2012)研究发现不同的职业转换类型(career transition type)的员工，职业倦怠会呈现出不同的趋势。具体而言，组织新员工和内部工作变更者(intemal job changers，即晋升或横向移动)的情绪耗竭(emotional exhaustion)和去人格化(depersonalization)在到达新岗位的第一年略有增加，在第二年趋于平稳。而组织内部人员(即在职人员)的职业倦怠相对稳定，只是随着时间推移略有下降。相关的，关于工作恢复(recovery),Hulsheger 等(2014)探究了正念对工作恢复的作用，发现对于低正念者而言，心理脱离(psychological detachment)在工作周内呈现上升趋势，而对于高正念者则没有系统性的变化。
+
+效能感方面， $\mathrm { N g }$ 和Lucianetti(2016)发现，员工感知的尊重的趋势与其创新自我效能感(creativeself-efficacy)的趋势、说服自我效能感(persuasion self-efficacy)趋势和改变自我效能感(change self-efficacy)的趋势显著正相关；员工组织信任的趋势与其说服和改变效能感的趋势显著正相关。此外，员工的这三种效能感的趋势分别与其想法的产生(idea generation)、传播(dissemination)和实施(implementation)的趋势显著正相关。相关的，在探究外派人员的工作适应时，Zhu 等(2016)发现外派人员的工作适应程度通常会呈现上升趋势；外派人员工作适应的初始水平(截距)与工作适应的趋势的陡峭程度(斜率)呈负相关；过往的文化和相关工作经验与工作适应的趋势陡峭程度存在负向关系;外派人员的核心自我评价水平与适应的趋势陡峭程度存在正向关系。
+
+# 2.2.4组情境
+
+Tremblay 等(2018)探索了定规型领导和关怀型领导(consideration leadership)对团队内分配公平和程序公平氛围趋势以及团队水平的员工角色外行为趋势的影响。研究结果表明，关怀型领导与两种公平氛围的趋势存在正向关系；定规型领导与程序公平氛围的趋势呈现倒U的关系，即低水平的定规型领导会导致程序公平氛围呈下降趋势，而中等水平的定规型领导会使得程序公平氛围呈现上升趋势。此外，在高定规型领导下，团队水平的员工角色外行为会随着时间的推移呈上升趋势，而在高关怀型领导下，团队水平的员工角色外行为却会随时间推移呈下降趋势。
+
+# 2.3波动是自变量
+
+把变量在一段时间内的波动作为自变量的研究，试图探究变量的波动在整体平均水平之外的解释力。这类研究不只考虑一段时间内的整体平均水平，而是将其与波动结合起来，进而为个人的态度、行为等方面提供额外的解释力(Matta etal.,2017;Mat et al.,2020)。目前这类实证研究主要涉及三个研究话题：公平、情绪劳动和领导力。
+
+# 2.3.1公平
+
+Matta 等(2017)引入了公平波动(justice variability)的概念，以描述领导公平行为在一段时间内的波动或不稳定性。与“公平总是更好”的直觉观点相反，该研究表明，对员工而言，领导时而公平时而不公平(公平波动大)比领导一直不公平的影响更糟糕。领导公平行为的波动会导致员工更大的压力，从而间接导致员工更低的工作满意度、更高的情绪耗竭。在该研究的基础上，Matta 等(2020)进一步提出，公平波动会抵消平均人际公平带来的好处，即人际公平会通过提高群体自豪感对自主合作行为产生正向的间接影响，而人际公平波动会削弱这种积极影响。Qin,Ren 等(2018)也发现了领导公平行为的波动可以预测下属对整体公平感知的额外变异。
+
+# 2.3.2情绪劳动
+
+Scott 等(2012)引入了情绪劳动波动(emotionallabor variability)的概念，它描述了表层动作(surfaceacting)和深层动作(deepacting)在一段时间内的波动或不稳定性。他们发现，在使用表层动作上波动越大的员工，表现出更低的工作满意度水平和更高的工作退缩(work withdrawal)水平；而员工深层动作的波动与其工作满意度水平和工作退缩水平均无显著关系。
+
+# 2.3.3领导力
+
+Yu (2017)引入苛责管理波动(abusive supervision variability)，以描述领导苛责管理行为在一段时间内的波动或不稳定性。该研究发现，苛责管理波动会导致员工的不确定感更大，进而消耗员工的认知资源并引发焦虑感，从而降低员工的工作绩效和组织公民行为，增加越轨行为。该研究表明，对员工而言，在苛责管理的平均水平相同时，领导间或实施苛责管理行为(苛责管理波动大)比领导稳定实施苛责管理行为对下属的影响更糟糕。
+
+# 2.4波动是因变量
+
+将变量在一段时间内的波动作为因变量的研究，试图探究影响变量波动的影响因素。相较于传统研究关注因变量整体平均水平的影响因素，此类研究试图解释什么导致了因变量的波动，以及这种波动是否存在稳定的个人差异(Matta et al.,2017;Qin,Ren,etal.,2018)。目前这类实证研究主要涉及两个研究话题：公平、情绪劳动。
+
+# 2.4.1公平
+
+如前文所述，Matta 等(2017)引入了公平波动的概念，并进一步探究了公平波动的影响因素。他们发现，领导的自我控制能力与公平波动负相关，即领导公平行为的波动具有相对稳定的个人(领导者)差异。同时,Qin,Ren 等(2018)认为领导公平行为的动机可以分为功利性动机(instrumental motives)和价值表达动机(value-expressive motives)。当领导的功利性动机较低时，其价值表达动机对公平行为及其波动的正向关系更强。其次，Herr 等(2015)将医学变量心率波动(heart rate variability，即心跳快慢的变化情况)作为因变量，探究组织公平对员工心率波动的影响。他们发现，互动公平和程序公平与白领员工的心率波动显著负相关，但与蓝领员工的心率波动无显著关系。
+
+# 2.4.2情绪劳动
+
+如前文所述，Scott 等(2012)引入了情绪劳动波动的概念，除了将其作为自变量进行探索，他们还将情绪劳动波动作为因变量，进一步探索了情绪劳动波动的影响因素。具体的，他们发现员工的自我监控(self-monitoring)水平与其表层动作的平均水平和波动均存在正向关系，而与其深层动作的平均水平和波动均无显著关系。
+
+表1研究分类总结  
+
+<html><body><table><tr><td>类别</td><td>文献数量</td><td>话题</td><td>自变量</td><td>因变量</td><td>文献</td></tr><tr><td rowspan="18">趋势是自变量</td><td>16</td><td>公平</td><td>公平感趋势</td><td>工作满意度、组织承诺、离职意向 工作满意度、情感性组织承诺</td><td>Hausknecht et al., 2011 Kim et al., 2015</td></tr><tr><td rowspan="6"></td><td rowspan="6">领导力</td><td></td><td>职场帮助行为</td><td>Rubenstein et al., 2019</td></tr><tr><td>苛责管理行为趋势</td><td>工作绩效、组织公民行为、越轨行</td><td>Yu,2017</td></tr><tr><td>共享领导趋势</td><td>为 团队绩效趋势</td><td>Drescher et al., 2014</td></tr><tr><td>领导-成员交换趋势</td><td></td><td></td></tr><tr><td>工作满意度趋势</td><td>建言行为</td><td>Ng et al., 2014</td></tr><tr><td>情感承诺趋势、规范承诺趋势和持</td><td>离职行为、离职意愿趋势</td><td>Chen et al.,2011; Liu et al., 2012</td></tr><tr><td rowspan="6"></td><td rowspan="6">员工态度与知觉</td><td>续承诺趋势</td><td>离职意愿趋势</td><td>Bentein et al., 2005</td></tr><tr><td>心理资本趋势</td><td>领导评价绩效趋势、客观绩效趋势</td><td>Peterson et al., 2011</td></tr><tr><td>团队关系冲突趋势</td><td>团队认同</td><td>Johnson & Avolio,2019</td></tr><tr><td>感知的领导组织嵌入感趋势</td><td>员工自身组织嵌入感趋势</td><td>Ng & Feldman, 2013</td></tr><tr><td>主管支持感趋势</td><td>员工组织社会化</td><td>Jokisaari & Nurmi, 2009</td></tr><tr><td>感知的组织威望趋势</td><td>组织认同感趋势</td><td>Zhu et al., 2017</td></tr><tr><td rowspan="3"></td><td rowspan="2">组织情境</td><td>工作复杂性趋势</td><td>员工压力趋势</td><td>Li et al., 2017</td></tr><tr><td>工作场所不文明行为趋势</td><td>职业倦怠、离职意愿</td><td>Taylor et al., 2017</td></tr><tr><td>公平</td><td>人格特质</td><td>公平感趋势</td><td>Konradt et al., 2016</td></tr><tr><td rowspan="3">趋势是因变量 11</td><td rowspan="2">领导力</td><td>绩效</td><td>领导-成员交换水平趋势</td><td>Nahrgang et al., 2009</td></tr><tr><td>自我感知的领导能力</td><td>领导身份认同趋势</td><td>Miscenko et al.,2017</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2"></td><td>与工作变动有关的因素、新来者的 经验</td><td>工作满意度趋势</td><td>Boswell et al., 2009</td></tr><tr><td rowspan="7">员工态度与知觉</td><td>工作满意度水平</td><td>工作满意度趋势</td><td>Riter et al., 2016</td></tr><tr><td>人岗匹配度</td><td>工作满意度趋势、情感性组织承诺 趋势</td><td>Kim et al., 2020</td></tr><tr><td>职业转换类型</td><td>职业倦怠趋势</td><td>Dunford et al., 2012</td></tr><tr><td>正念</td><td>工作恢复趋势</td><td>Hulsheger et al., 2014</td></tr><tr><td>组织信任趋势、尊重感知趋势</td><td>自我效能感趋势</td><td>Ng & Lucianetti., 2016</td></tr><tr><td>自我效能感趋势 工作适应初始水平、文化经验、自</td><td>想法的产生、传播和实施趋势</td><td></td></tr><tr><td>我评估 领导类型</td><td>工作适应程度趋势</td><td>Zhu et al., 2016</td></tr><tr><td rowspan="6">波动是自变量 5</td><td>组织情境 公平波动</td><td>公平感趋势、角色外行为趋势</td><td>Tremblay et al., 2018</td></tr><tr><td>公平</td><td>工作满意度、情绪耗竭</td><td>Matta et al., 2017</td></tr><tr><td>人际公平波动</td><td>群体自豪感</td><td>Matta et al., 2020</td></tr><tr><td>领导公平行为一致性</td><td>员工公平感</td><td>Qin, Ren, et al., 2018</td></tr><tr><td>情绪劳动</td><td>表层动作波动</td><td>工作满意度、工作退缩 Scott et al., 2012</td></tr><tr><td>领导力</td><td>工作绩效、组织公民行为、越轨行 苛责管理波动 为</td><td>Yu, 2017</td></tr><tr><td rowspan="4">波动是因变量 4</td><td></td><td>自我控制水平</td><td>公平波动</td><td>Matta et al., 2017</td></tr><tr><td>公平</td><td>对公平的态度</td><td>公平行为一致性</td><td>Qin, Ren, et al., 2018</td></tr><tr><td></td><td>公平感</td><td>心率变异性</td><td>Herr et al., 2015</td></tr><tr><td>情绪劳动</td><td>自我监控</td><td>表层动作波动</td><td>Scott et al., 2012</td></tr></table></body></html>
+
+# 3 理论机制
+
+在前文介绍的基础上，我们进一步提炼了引入时间的角色的相关研究的理论机制。值得指出的是，由于相关研究主题较为分散，涉及到理论较多，也鉴于本文的梳理重点在于时间在组织行为学研究中的应用及未来研究方向。因此，本文主要总结与时间相关的理论5，这些理论涉及了变量随时间推移所呈现的变化特征(即趋势、波动)。同时，本文将延续前文的研究分类，即从变量的动态变化特征的类别(趋势 vs.波动)与变量的动态变化特征的角色(自变量 vs.因变量)两个维度四类研究，对各分类中常用的理论机制进行阐述(见表2)。
+
+表2与时间相关的理论总结  
+
+<html><body><table><tr><td rowspan="2">理论</td><td colspan="4">研究使用数量</td></tr><tr><td>趋势是自变量</td><td>趋势是因变量</td><td>波动是自变量</td><td>波动是因变量</td></tr><tr><td>格式塔特征理论</td><td>5</td><td></td><td></td><td></td></tr><tr><td>资源保存理论</td><td>3</td><td>2</td><td></td><td></td></tr><tr><td>前景理论</td><td>3</td><td>1</td><td></td><td></td></tr><tr><td>意义建构理论</td><td>3</td><td></td><td></td><td></td></tr><tr><td>个人螺旋理论</td><td>2</td><td></td><td></td><td></td></tr><tr><td>记忆重建理论</td><td></td><td>1</td><td></td><td></td></tr><tr><td>适应理论</td><td></td><td>1</td><td></td><td></td></tr><tr><td>不确定性管理理论</td><td></td><td></td><td>3</td><td></td></tr><tr><td>道德自我调节理论</td><td></td><td></td><td></td><td>1</td></tr><tr><td>情绪波动理论</td><td></td><td></td><td></td><td>1</td></tr></table></body></html>
+
+# 3.1趋势是自变量的相关理论
+
+# 3.1.1格式塔特征理论
+
+格式塔特征理论(gestalt characteristics theory; Ariely& Carmon,20oo; Varey & Kahneman,1992)认为，个人在构建经验或对离散经验进行总结评估时，不是简单地平均所有的经验，而是使用显著的特征，来构建总结性的评估和描述。具体的，由于认知的局限性，人们倾向于提取经验剖面的两个格式塔特征—一反映特定时间点的静态特征(如峰值或末端状态等)以及反映随着经验的进展而变化的动态特征(如趋势等)(Liet al.,2017)。比如，末端状态和趋势信息是两个极其突出的格式塔信息，个人往往会参考它们来构建独特的经验档案(unique experience profile; Ariely & Carmon,2000; Reb &Cropanzano,2007)。这些格式塔信息为个人提供了关于未来可能状态的线索，从而使其能够根据这些信息推断出是否要重复类似的经历，并据此作出反应。
+
+可见，当趋势作为自变量时，这一典型的格式塔信息会影响个人随后的反应。因此，格式塔特征理论被广泛用于趋势是自变量的研究中。比如，基于格式塔特征理论，Hausknecht 等(2011)发现，在控制当前公平感水平后，员工公平感的趋势对其工作满意度、组织承诺和离职意向都具有额外的解释力。简言之，当个人利用公平感来决定他们对未来的反应时，这种随时间变化的感知(即感到越来越公平或越来越不公平)就是格式塔特征(Hausknecht etal.,2011)。类似的，在探究苛责管理的影响时，Yu(2017)基于格式塔特征理论发现，员工通过使用他们在一段时间内受到苛责管理的变化趋势描述过去、预期未来，进而独特地塑造他们的工作绩效、组织公民行为和越轨行为，这是以前的静态视角(即仅考虑整体平均水平)所无法捕捉的。
+
+# 3.1.2资源保存理论
+
+资源保存理论(conservation of resource theory; Hobfoll,1989; Hobfoll et al.,2003)认为，个人总是努力保护自己的现有资源和寻求获取新资源，当个人面临实际或潜在的资源损失时，个人会感到不适、产生压力，并会做出相应的反应。资源是指"具体的物质(objects)、个人特征(personal characteristics)、条件(conditions)或能量(energies)等个人觉得有价值的东西，以及能够获取这些东西的途径和方式"(Hobfoll,1989,p.516)。由于上述资源会在个人之间和个人内部随时间发生变化(Qin etal.,2014)，所以资源保护理论本质上是一个动态理论(Halbesleben et al.,2014; Johnson et al.,2017)。
+
+基于资源保存理论，由于资源的变化是动态的，由此而导致的个人压力的产生也是动态的。因此，越来越多的研究采用资源保存的视角来理解工作环境中的压力产生与应对的动态过程(Taylor etal.,2017)。比如，员工工作满意度随时间呈下降趋势会给其带来压力，基于资源保存理论，个人出于保护自己关键资源的动机，会对工作满意度的下降趋势作出反应，例如，离职意向提高(Chen et al.,2011; Liu et al., 2012)
+
+# 3.1.3前景理论
+
+前景理论(prospect theory;Kahneman&Tversky,1979,1984)主要被用来解释个人在不确定性下的决策。该理论认为，在不确定环境中，个人如何决策很大程度上取决于个人是采用收益框架还是损失框架进行决策。具体的，个人在收益框架下倾向于采取规避风险的行动，而在损失框架下则倾向采取高风险的行动。而个人采用收益框架还是损失框架，取决于他们所选取的参考框架(frame ofreference)和主观价值函数(subjective value function)。参考框架反映了个人评估当前状态所采用的内部标准(即参考点)，而主观价值函数则反映了当前状态与参考点之间的差异(收益为正，损失为负)，且得失离参照点越远，影响越显著(Chen etal.,2011)。
+
+可见，前景理论中所涉及的参考框架和主观价值函数都与变量随时间的变化趋势中所提供的信息有重要关联，因此，前景理论在趋势是自变量的研究中被广泛应用。基于前景理论，Chen 等(2011)
+
+认为，即使是相同水平的工作满意度，对于不同员工来说也可能具有不同的主观意义，因为这还取决于他们在该时间点的工作满意度水平相较于之前是增加了还是减少了。基于前景理论，该研究发现，员工工作满意度的趋势会影响离职意向的趋势。具体的，当人们在一项任务中的主观体验变得更差(得到提升)时，他们再次参与的意图将减少(增加)(Kahneman,1999;Kahneman et al.,1993)，所以当员工的工作满意度呈现下降趋势时，其离职意向会呈现上升趋势。
+
+# 3.2趋势是因变量的相关理论
+
+# 3.2.1资源保存理论
+
+资源保持理论也同样被应用于趋势作为因变量的研究中。基于资源保存理论，个人具有保护自身关键资源的动机(Chen et al.,2011; Hobfoll,1989,Hobfoll et al.,2003)，其中职业倦怠被普遍认为是这样一种典型的压力结果。Taylor 等(2017)探究了员工所接受的工作场所不文明行为的上升趋势会使得职业倦怠也呈现上升趋势，并导致其随后的离职认知发生变化。离职认知的上升趋势表明个人正在补充应对工作压力源所需的心理社会资源，因此，个人可能会重新考虑跳槽的必要性，以避免将来再发生不文明事件(Porath& Pearson,2013)。
+
+# 3.2.2记忆重建理论
+
+记忆重建理论(reconstruction memory theory; Lilly et al.,2010; Sitton& Griffin,1980)认为人们会根据事件发生后所接受的信息，改变他们对之前事件的感知，从而改变他们的行为。在一段时间内，个人或团队可能会经历一系列的积极和消极事件，这些事件可能会重塑他们对之前事件的看法。
+
+因此，记忆重建理论可用于考虑了时间的角色的研究中，帮助解释因变量的动态变化特征。比如，由于公平感会随着时间的推移而变化，Tremblay 等(2018)认为，这种变化会导致员工记忆的频繁“重建”(reconstructions,Lilly et al.,2010)，员工对公平对待的回报动机也会相应改变，从而影响员工的角色外行为。
+
+# 3.2.3适应理论
+
+适应理论(adaptation theory; Brickman& Campbell,1971)认为，当人们对生活中的事件产生情绪反应时，会出现类似于感觉适应(sensory adaptation)的过程。即尽管人们会对积极或消极事件产生短暂的反应(如短暂的幸福感增加或减少)，但他们通常很快就会适应，幸福感会恢复到事件发生之前或基线水平(Brickman& Campbell,1971)。
+
+因此，将适应理论应用于考虑了时间的角色的研究中，有助于解释变量的绝对水平(自变量)对其随后的变化趋势(因变量)的影响。Ritter 等(2016)基于适应理论，认为若员工先前的工作满意度水平较高，之后的工作满意度更易呈现下降趋势；而先前的工作满意度水平较低，之后的工作满意度更易呈现上升趋势。
+
+# 3.3波动是自变量的相关理论
+
+# 3.3.1不确定性管理理论
+
+不确定性管理理论(uncertainty management theory;Van den Bos & Lind,2002)认为员工希望对自己的世界及自己在世界中所处的位置感到确定。当个人感到不确定时，便会产生压力。在该理论中，“不确定性”的定义非常广泛，当个人无法预测未来时，或认知、经验、行为之间出现不一致时，都会感到不确定性(Van den Bos&Lind,2002)。
+
+行为随时间的波动是个人产生不确定感知的重要来源，因此，不确定性管理理论被广泛用于波动作为自变量的研究中，并用来解释波动所导致的个人压力。因此，基于不确定性管理理论，Matta等(2017)提出，公平波动会使员工产生不确定感，因此，相比于一直不公平的对待下属，领导时而公平时而不公平会引发下属更多的压力。此外，Matta 等(2020)认为，个人希望通过人际公平感来解决与群体社会认同相关的风险和与状态相关的不确定性，但如果人际公平感本身具有不确定性(即波动大)，那么平均人际公平感的好处会被削弱。即若公平感本身存在波动，那其本身就具有不确定性，并不能帮助个人管理外部的不确定性，不过是两种不确定性的交换(Lind&Van den Bos,2002)。
+
+# 3.4波动是因变量的相关理论
+
+# 3.4.1道德自我调节理论
+
+道德自我调节理论(moral self-regulation theory; Bandura,1991)认为，引发不道德行为的一个关键机制是行为人是否认为这种行为是可以辩护的。Qin,Ren等(2018)认为，领导公平行为的动机(功利主义动机 vs.价值表达动机)可能会影响他们对不公平行为的辩护，进而影响其公平行为平均水平以及公平行为的一致性。例如，当领导价值表达动机很高时，由于高价值表达动机与高道德标准相关，在不同的时间情境下，其都很难为不公平行为辩护，从而降低了其公平行为的波动。
+
+# 3.4.2情绪波动理论
+
+情绪波动理论(affect variability theory; Fleeson,2001; Larsen,1987; Penner et al.,1994)认为，人们具有不同的、随着时间推移相对稳定的情绪波动模式，即情绪波动存在较为稳定的个人间差异。这个观点和人格理论(personality variability theory; H.J.Eysenck &M.W.Eysenck,1985)中个人在人格特质上的不同会导致其情绪波动的差异的观点类似。基于情绪波动理论，Scott 等(2012)探究了自我监控这一较为稳定的个人特质对情绪劳动波动的潜在影响。研究发现，员工的自我监控与其表层动作的波动存在正向关系；进一步，当自我监控水平较高时，表层动作波动对工作满意度和工作退缩的影响较弱。
+
+# 4研究总结与未来研究方向
+
+通过对文献的梳理，可以发现引入时间的角色的研究已经取得了一些有意义的成果。另一方面，相关研究较为松散，缺乏系统性，也存在三个主要不足。第一，现有研究多关注变量的动态变化特征中的“趋势”而非“波动”，研究数量严重不均。第二，现有研究多只关注变量的动态变化特征的某一类别，忽略了不同类别动态变化特征的联系或者交互作用。第三，现有研究只关注了变量的趋势和波动，而极少关注其它动态变化特征。此外，现有研究在本土化和跨文化研究、对行为者研究等方面也十分缺乏。因此，本文在梳理现有文献的基础上，提出一些亟待探讨的未来研究方向，旨在为探索变量的动态变化特征的研究提供有价值的启发。
+
+# 4.1关注变量的波动
+
+从本文的研究分类梳理中可以发现，现有相关研究多关注变量的趋势，而较少关注变量的波动。
+
+事实上，对变量波动程度的探究可能可以在变量平均水平和趋势的基础上，提供额外的解释力。比如，同样是上升趋势，稳定上升与“大起大落”式的波动上升，其影响可能大不相同。因此，未来研究应该进一步扩展关于变量的波动的相关研究。目前这方面的研究基本上限于领导公平行为，未来研究还可以探究其它领导行为的波动及其影响因素和结果。例如，以往研究表明领导的苛责管理行为每天都会波动，这种波动可能受到多种情境因素的影响，也可能对员工产生重要影响(李爱梅 等，2013;Bames et al.,2015; Courtright et al.,2016)。借鉴 Matt 等(2017)关于领导公平行为波动的研究，可以推测领导苛责管理行为的波动也可能会让员工感受到较大的不确定性(Yu,2017)，从而增加额外的心理压力，提高离职意向。
+
+# 4.2考察趋势、波动和整体平均水平等的交互作用
+
+趋势和波动是描述变量随时间变化的两个重要的动态特征，现有文献多从其中一个方面进行探究。为了更全面和准确地探究变量的变化情况及其影响等，未来研究需要考虑趋势、波动和平均水平等的交互作用。首先，未来研究可以考察变量的动态变化特征与整体平均水平的交互作用。现有大多数研究在探究变量的动态变化特征时，只是控制整体平均水平(Chen etal.,2011;Liu etal.,2012)，而极少分析动态变化特征与整体平均水平的交互作用。以Matta等(2020)的研究为例，若人际公平具有较大的波动，则这种大波动会削弱平均人际公平的积极影响。可见，人际公平的波动和平均水平会对个人产生交互作用，而不是简单的独立的影响。其次，还可以分析变量的动态变化特征(如趋势、波动等)之间的交互作用，甚至与其整体平均水平的三重交互作用。若变量的波动存在差异，其趋势对结果变量的影响可能会不同。综上，通过对这些交互作用的探究，可帮助我们更全面地理解变量之间的动态关系。
+
+# 4.3关注时刻、持续时间等其他重要动态变化特征
+
+现有相关研究多是关注一段时间内的整体性变化，包括趋势和波动。但其他变化特征也至关重要，比如变化出现的时刻、持续时间、峰值和低谷等。领导行为动态变化的时间点是出现在员工入职之初还是出现在员工较长期的工作之后，其对员工的影响可能很不一样。因为根据意义建构理论，员工会参考领导以前的行为变化对当下领导行为做出合理预期(Liuetal.,2012)，而资深员工和入职员工在当下可参考的时间段不同，资深员工的参考时间段更长，波动的领导行为在他们眼中更具规律性，因此，资深员工会有较强的心理适应性，受到的消极影响自然也就更少，相反，若变化出现在员工入职之初，员工的心理不适应性会更强，从而产生更消极的认知或行为表现。进一步，未来研究还应该更多地关注出现变化峰值和低谷的节点，每个人都有自己可以接受的峰值和底线，对于波动较大的变化的消极影响，也可能是因为其超过了个人所不能容忍的范围。此外，关于变化的持续时间也值得探究。比如，领导行为在不同时间窗口可能对其自身产生不同的影响(秦昕 等,2019;Qin,Huang,etal.,2018)。因此，将变化的持续时间纳入考量，能为管理实践提供更加有效的指引。
+
+# 4.4加强本土化和跨文化比较研究
+
+现有相关研究大多数都是基于西方样本的。由于文化和价值观背景不同，在本土情境中的结果可能与在西方情境中得到的结果有所不同，因此，有必要拓展更具中国特色的本土化研究(王辉，张翠莲,2012;Au et al.,2017)。例如，集体主义是中国社会的重要特征之一(李锐 等,2012; Connection,1987)。集体主义文化影响下的员工对集体有更强烈的依恋渴望(杨帅 等,2012;Brewer&Chen,2007;Earley,1993)，所以在面对同样的变化时，中国组织中的员工受到的负面影响可能会较少，相比非集体主义的员工会有更低的离职意向等。类似的，未来研究也有必要进一步拓展在不同文化特征下的跨文化比较研究。以不确定性规避为例，在不确定性规避强弱不同的国家/地区或群体中，个人在经历相同程度的变化时，其内心感受及行为表现可能大相径庭。例如，当领导的行为呈现波动时，与不确定性规避文化弱的个人相比，不确定性规避文化强的个人可能会体验到更多的压力，从而产生较高的离职意向或导致更多的消极行为。这些不同文化特征对引入时间的动态研究的影响仍有待进一步地探索。
+
+# 4.5探索变量的动态变化特征对行为方自身的影响
+
+现有相关研究主要是从接受者的角度出发进行研究的，但一个行为的发出，除了对接受方产生影响，对行为发出方自身亦存在一定的影响(康勇军，彭坚,2019;Lin et al.,2016)。结合时间动态视角和行为者视角的研究是未来关于变量的动态变化特征研究的又一个重要的思考方向。比如，领导公平行为的变化趋势或波动对员工的影响的相关研究较多，但几乎没有研究关注领导公平行为的变化趋势或波动对领导自身的影响。以往研究证实领导公平行为会给领导带来一定的成本，比如资源损耗、情绪耗竭等，因此，领导公平行为往往会减少领导组织公民行为(Johnson et al.,2014; Patient,2011)；关注领导公平行为的变化趋势或波动对领导自身的影响能为这一动态过程提供更加丰富的见解。类似的，从员工视角出发，员工行为的动态变化特征对员工自身的影响也值得探究。
+
+参考文献：   
+杜旌.(2013).本土文化情境下领导行为对员工变革反应的影响：基于图式理论的动态研究.心理科学进展,21,1531- 1541.   
+韩翼，廖建桥.(2005).企业雇员组织承诺周期模型研究.南开管理评论,5,41-49.   
+康勇军，彭坚.(2019)．累并快乐着：服务型领导的收益与代价—一基于工作-家庭资源模型视角．心理学报,51,227- 237.   
+李爱梅，华涛，高文.(2013).辱虐管理研究的“特征-过程-结果”理论框架.心理科学进展,21,1901-1912.   
+李超平，时勘.(2003).分配公平与程序公平对工作倦怠的影响.心理学报,35,677-684.   
+李锐，凌文轻，柳士顺.(2012).传统价值观，上下属关系与员工沉默行为— 一项本土文化情境下的实证探索．管理 世界,3,127-140.   
+秦昕，薛伟，陈晨，刘四维，邓惠如.(2019).为什么领导做出公平行为：综述与未来研究方向．管理学季刊,4,39- 62.   
+王辉，张翠莲.(2012).中国企业环境下领导行为的研究述评：高管领导行为，领导授权赋能及领导-部属交换.心理 科学进展,20,1519-1530.   
+杨帅，黄希庭，王晓刚，尹天子.(2012).文化影响自我解释的神经机制.心理科学进展,20,149-157.   
+Ancona,D.G.,Okhuysen,G.A.,&Perlow,L.A. (20ol).Time-out: Taking time to integrate temporalresearch.Academyof Management Review, 26, 512-529.   
+Ariely,D.,& Carmon,Z.(2o). Gestalt characteristicsof experiences:The defining featuresofsummarized events. Journ of Behavioral Decision Making,13,191-201.   
+Au,E.,Qin,X.,& Zhang,Z.(2017).Beyond personalcontrol: When and how executives'beliefs innegotiable fate foster entrepreneurial orientation and firm performance. Organizational Behavior and Human Decision Processes,143, 69-84.   
+Bandura,A.(1991).Socialcognitive theoryofself-regulation. Organizational Behaviorand Human Decision Processes,0 248-287.   
+Barnes,C.M.,Lucianeti,L.,Bhave,D.P.,& Christian,M.S.(2O15).“You wouldn'tlike me when Im sleepy": Leaders' sleep,daily abusive supervision,and work unit engagement. Academy of Management Journal, 58,1419-1437.   
+Bentein,K.,Vandenberghe,C.,Vandenberg,R.,&Stinghamber,F.(Oo5).Theroleofchangeintherelationshipbetwen commitment and turnover: A latent growth modeling approach. Journal ofApplied Psychology, 90, 468-482.   
+Bluedorn,A. C. (2oo2). The human organization oftime: Temporal realities and experience. Stanford University Press.   
+Boswell,W.R.,Shipp,A.J.,Payne,S.C.,& Culbertson,S.S.(20o9).Changes innewcomerjob satisfactionovertime: Examining the patern of honeymoons and hangovers. Journal of Applied Psychology, 94, 844-858.   
+Brewer,M. B.,& Chen, Y.R. (207). Where (who)are collectives in collctivism? Toward conceptual clarification of individualism and collectivism. Psychological Review, 114,133-151.   
+Brickman, P.,& Campbell, D.T. (1971). Hedonic relativism and planning the good society. In M. H. Appley (Ed.), Adaptation level theory: A symposium (pp. 287302). New York, NY: Academic Press.   
+Chen,G.,Ployhart,R.E.,Thomas,H.C.,Anderson,N.,&Bliese,P.D.(20l1).The power of momentum: Anew modelof dynamic relationships between job satisfaction change and turnover intentions. Academy of Management Journal,54,159-181.   
+Cohen-Charash,Y.,& Spector,P.E. (20ol).Theroleofjustice inorganizations: Ameta-analysis. Organizational Behavior and Human Decision Processes, 86,278-321.   
+Colquit,J.A.,Conlon,D.E.,Wesson,M.J.,Porter,C.O.,&Ng,K.G. (21).Justiceat the milenum: Ameta-analytic review of 25 years of organizational justice research. Journal of Applied Psychology,86,425-445.   
+Colquit,J.A,Scot,B.A.,Rodel,J.B.ong,D..,ZapataC.P.,Colon,D.E.,& Wesson,.J.(2).Jusiatthe milennium,a decade later: A meta-analytic test of social exchange and affect-based perspectives.Journal of Applied Psychology, 98,199-236.   
+Conection, C.C.(1987). Chinese values andthe search forculture-freedimensions of culture.Journalof Cros Cultural Psychology,18,143-164   
+Courtright,S.H., Gardner,R. G.,Smith,T.A.,Mccormick,B.W.,& Colbert,A.E. (2016).Myfamily made me do it: A cross-domain, self-regulatory perspective on antecedents to abusive supervision. Academy of Management Journal,59,1630-1652.   
+Drescher,M.A., Korsgard,M.A., Welpe,I.M.,Picot,A,& Wigand,R.1.(U14).he dynamicsot shared leadershp: Building trust and enhancing performance. Journal of Applied Psychology, 99,771-783.   
+Dunford,B.B.Shipp,A.J.,BossR. W.,Angermeier,I.,&Bos,A.D. (2012). Is burout static or dynamic?Acareer transition perspective of employee burnout trajectories. Journal of Applied Psychology, 97, 637-650.   
+Earley,P. C.(1993).East mets West meets Mideast: Further explorationsofcoectivisticand individualistic work groups. Academy of Management Journal, 36, 319-348.   
+Eysenck,H.J.,&Eysenck,M.W.(1985).Personalityand individual differences: Anatural scienceapproach.Personality and Individual Differences,9,343-363.   
+Fleson,W. (2ool).owardastructure-and processintegrated viewof personality:Traitsasdensitydistributionsofstates. Journal of Personality and Social Psychology, 80,1011-1027.   
+Fortin,M. (20o8).Perspectives onorganizational justice: Concept clarification,ocialcontext integration,timeand links with morality. International Journal of Management Reviews, 10, 92-126.   
+Fortin,M.,Cojuharenco1.,Patient,D.,& German,H. (2016).Itistime forjustice: Howtime changes what weknowabout justice judgments and justice effects. Journal of Organizational Behavior; 37, S30-S56.   
+George,J.M.,&Jones,G.R. (2oo).Theroleoftimein theoryandtheorybuilding.JournalofManagement,26,657-684.   
+Halbesleben,J.R.B.,Neveu,J.-P.,Paustian-Underdahl,S.C.,&Westman,M. (2014).Geting tothe“COR": Understanding the role of resourcesin conservation of resources theory. Journal of Management, 40,1334-1364.   
+Hausknecht,J.P.,Sturman,M.C.,&Roberson,Q.M. (2011).Justiceas a dynamicconstruct: Efectsof individual trajectories on distal work outcomes. Journal of Applied Psychology, 96,872-880.   
+Her,R.M.,Bosch,J.A.vanVianen,A.E.,Jrczok,.N.,hayerJ.F.,i,J,..&Loerbroks,A.(25).Organzational justiceis related to heart rate variability in white-collr workers,but not in blue-collar workers—findings from a cross-sectional study. Annals of Behavioral Medicine,49, 434-448.   
+Hsee,C.K.,& Abelson,R.P.(1991). Velocity relation: Satisfaction as a function of thefirst derivative ofoutcome over time.Journal of Personality & Social Psychology, 60, 341-347.   
+Hobfoll,S.E. (1989). Conservationofresources: Anew atempt atconceptualizing stress.American Psychologist,44,513- 524.   
+Hobfoll,S.E.,Johson,R.J.,Ennis,N.,&Jackson,A.P. (23).Resourcelos,resource gain,and emotionaloutcomes among inner city women. Journal of Personality & Social Psychology, 84, 632-643.   
+Hulsheger,U.R.,Lang,J.W.B.,Depenbrock,F,Fehrmann,C.,Zijlstra,F.R.H.,&Alberts,H.J.E..(2014).Thepower of presence: The role of mindfulness at work fordaily levels and change trajectories of psychological detachment and sleep quality. Journal of Applied Psychology, 99, 113-1128.   
+Johnson,H. H.,&Avolio,B.J. (2019).Team psychological safetyand conflict trajectories'efecton individual's team identification and satisfaction. Group & Organization Management, 44, 843-873.   
+Johnson,R.E.Lanaj,K.,&Barnes,C.M. (2O14).Thegoodandbadofbeing fair: Efects ofprocedural andinterpersonal justice behaviors on regulatory resources.Journal of Applied Psychology, 99,635-650.   
+Johnson,R.E.,Muraven,M.,Donaldson,T.,&Lin,S.-H.(2o17).Self-controlinwork organizations.InD.L.Ferris,R.E. Johnson & C.Sedikides (Eds.),The selfat work: Fundamental theory and research (pp. 119-144).New York,NY: Routledge.   
+Jokisaari, M., & Nurmi,J. E. (20o9). Change innewcomers’supervisorsupportandsocialization outcomes after organizational entry. Academy of Management Journal, 52, 527-544.   
+Jones,D.A.,& Skarlicki,D.P.(20l3).How perceptions offairmesscanchange:Adynamic model oforganizational justice. Organizational Psychology Review, 3,138-160.   
+Ju,D.,Huang, M.,Liu,D.,Qin,X.,Hu,Q.,& Chen, C. (2019).Supervisoryconsequences of abusive supervision: An investigation ofsense of power,managerial self-eficacy,and task-oriented leadership behavior. Organizational Behavior and Human Decision Processes,154,80-95.   
+Kahneman,D. (1999). Objective happines.InD.Kahneman,E.Diener,&N.Schwartz (Eds.), Well-being: Thefoundations of hedonic psychology (pp. 3-25). New York: Russel Sage Foundation.   
+Kahneman,D.,Fredrickson,B.L.,Schreiber, C.A.,&Redelmeier,D.A.(993).When more pain is prefered toless: Adding a better end.Psychological Science, 4, 401-405.   
+Kahneman,D.,&Tversky,A.(1979). Prospect theory: An analysis of decision under risk. Econometrica, 47,263-291.   
+Kahneman,D., & Tversky,A. (1984). Choices, values,and frames. American Psychologist, 39, 341-350.   
+Kim,T.Y.,Lin,X.,&Leung,K.(2o15).Adyamic approach tofires: Efects oftemporalchangesoffiress pereptions on job atitudes.Journal of Business and Psychology, 30,163-175.   
+Kim,T. Y.,Schuh,S.C.,& Cai, Y. (2020).Personor Job?Change in person-job fit and its impact on employee work attitudes over time.JournalofManagement Studies,57,287-313.   
+Konradt,U., Garbers,Y.,Erdogan,B.,&Bauer,T. (2O16).Patterns ofchange infairness perceptions duringthehiring process. International Journal of Selection and Assessment, 24,246-259.   
+Larsen,R.J. (1987).The stabilityof mood variability:Aspectral analytic approach todailymoodassessments.Journalof Personality and Social Psychology,52,1195-1204.   
+Li,J.,Burch,T.C.,&Lee,T.W.(17).Intra-idividualvariabilityinjobcomplexityovertie:Examiing theetofjob complexity trajectory on employee job strain. Journal of Organizational Behavior; 38,671-691.   
+Lilly, J.,Virick,M.,&Hadani,M.(0l).hedyamic natureofjustice: Influentialefectsof timeandworkoutcomeson long-term perceptions. Social Justice Research, 23,37-59.   
+Lin,S.H.,Ma,J.,&Johnson,R.E. (2O16).When ethical leaderbehaviorbreaksbad: How ethical leaderbehaviorcanturn abusive via ego depletion and moral licensing. Journal of Applied Psychology, 101, 815-830.   
+Lind,E.A.,Kray,L.,&Tompson,L.(oo1).Primacyeffectsinjusticejudgments: Testing predications fromfaiss heuristic theory. Organizational Behavior and Human Decision Processes,85,189-210.   
+Lind,E.A.,& Van denBos,K. (20o2). When fairness works: Towarda general theoryofuncertainty management.Research in Organizational Behavior, 24,181-223.   
+Liu,D.,Mitchell,T.R.,Lee,T.W.,Holto,B.C.,&Hinkin,T.R.(12).Whenemployesareoutofstep withcoworkers: How job satisfaction trajectory and dispersion influence individual- and unit-level voluntary turnover. Academy of Management Journal, 55,1360-1380.   
+Matta,F. K.,Scot,B.A.,Coquit,J.A.,Kooa,J.,&Pasntio,L.G. (2).Isonsistentyunfirbtra sporadically fair?An investigation of justice variability and stres.AcademyofManagement Journal, 60,743-70.   
+Matta,F.K.,Scot,B.A.GuoZ. (A.),& Matusik,J. G.(2). Exchangingoneuncertaintyforanothr: Justicevariability negates the benefits of justice. Journal of Applied Psychology, 105, 97-110.   
+McClean,S.,Barnes,C.M.,Courtright,S.H.,&Johnson,R.E. (2019).Reseting theclock ondynamic leaderbehaviors:A conceptual integration and agenda for future research. Academy of Management Annals,13, 479-508.   
+Miscenko,D., Guenter,H.,& Day,D.V. (2017).Am Ia leader? Examining leader identity development over time.The Leadership Quarterly, 28, 605-620.   
+Nahrgang,J.D.,Morgeson,F.P.,& Ilies,R. (209).The development of leader-member exchanges: Exploring how personality and performance influence leader and member relationships over time. Organizational Behavior and Human Decision Processes,108,256-266.   
+Ng,T. W. H.,& Feldman, D. C. (2013). Changes in perceived supervisor embeddedness: Effects on employees embeddedness, organizational trust, and voice behavior. Personnel Psychology, 66, 645-685.   
+Ng,T. W. H.,Feldman,D.C.,& Buts,M.M. (2014).Psychological contract breaches and employee voicebehaviour:The moderating effcts of changes in social relationships. European Journal of Work and Organizational Psychology,23, 537-553.   
+Ng,T.W.H.,&Lucianeti,L. (2O16). Within-individual increases in innovative,behavior and creative,persuasion,and change self-efficacy over time: Asocial cognitive theory perspective.Journal ofApplied Psychology,101,14-34.   
+Patient,D.L. (2011).Pitfalsof administering justice inan inconsistent world: Some reflections on theconsistency rule. Journal of Organizational Behavior, 32,1008-1012.   
+Pener,L.A.iffman,S.,Paty,J.A.,&Fritzche,B.A. (1994).Indiviualdifrences inintrapersonvariabilityinod. Journal of Personality and Social Psychology, 66,712-721.   
+Peterson, S.J.,Luthans,F.,Avolio,B.J., Walumbwa,F. O.,& Zhang, Z. (2011). Psychological capital and employee performance: A latent growth modeling approach. Personnel Psychology, 64, 427-450.   
+Porath, C.,& Pearson, C. (2013). The price of incivility. Harvard Business Review, 91,115-121.   
+Qin, X.,Direnzo,M.S.,Xu,M.,& Duan,Y.(2014). When do emotionaly exhausted employees speak up?Exploring the potential curvilinear relationship between emotional exhaustion and voice. Journal of Organizational Behavior, 35, 1018-1041.   
+Qin,X.,Huang,M.,Johnson,R.E.,Hu,Q.&Ju,D. (2018).The short-livedbenefits ofabusive supervisory behaviorfor actors: An investigation of recovery and engagement. Academy of Management Journal, 61,195i-1975.   
+Qin, X.,Ren,R., Zhang,Z.X.,&Johnson,R.E. (2018). Considering self-interestsand symbolism together: How instrumental and value-expressve motives interact to influence supervisors' justice behavior. Personnel
+
+Psychology， 71,225-253.   
+Reb,J.,& Cropanzano,R. (2oo7).Evaluating dynamic performance: The influence of salient Gestalt characteristicson performance ratings.Journal ofApplied Psychology, 92,490-499.   
+Ritter,K.J.,attews,R.A.,Ford,M.T.,&Henderson,A.A. (6).Understandingrolestreosandjobsatisactionve time using adaptation theory. Journal of Applied Psychology, 101,1655-1669.   
+Rubenstein,A.L.,Allen,D.G.,&Bosco,F.A.(20l9).Whatspast(and present) isprologue: Interactions betweenjustice levels and trajectories predicting behavioral reciprocity. Journal of Management, 45,1569-1594.   
+Scott,B.A.,Barnes, C.M.,& Wagner,D.T. (20l2).Chameleonicorconsistent: Amultilevel investigation of emotional labor variability. Academy of Management Journal, 55, 905-926.   
+Shipp,A.J.,&Cole,M.S.(2Ol5).Tmeinindividual-levelorganizationalstudies: Whatisit,howis itusedand whys'tit exploited moreoften?Annual Review of Organizational Psychology and Organizational Behavior,2,237-260.   
+Sitton,C.,&Griin,S.(1980).Thesleepereffctofreconstructive memory.JournalofGeneralPsychology03,21-25.   
+Taylor, S.G.,Bedeian,A. G., Cole,M.S.,& Zhang,Z. (2017).Developing and testing a dynamic model of workplace incivilitychange.Journal ofManagement,43,645-670.   
+Tremblay,M.,Gaudet,M.C.,&Parent-Rocheleau,X.(2018).Goodthingsare noteternal: Howconsideration leadership and initiating structure influence the dynamic nature of organizational justice and extra-role behaviors at the collective level. Journal of Leadership & Organizational Studies,25,211-232.   
+Van denBos,K.,&Lind,E.A.(2o02). Uncertainty management by means offairnessjudgments.InM.P.Zanna (Ed.), Advances in experimental social psychology (pp.1-60). San Diego,CA: Academic.   
+Varey, C.,&Kahneman,D.(1992).Experiences extendedacross time:Evaluationof momentsand episodes.Journalof Behavioral Decision Making,5,169-185.   
+Yu,Lingtao. (2Ol).Some tings,ifnotallthings,areaboutchange:Atime-based theoryofabusivesupervisionRetrieved October 17,2020, from https://conservancy.umn.edu/handle/11299/206390   
+Zhu,J.,Tatachari,S.,& Chattopadyay,P. (2017).Newcomer identification:Trends,antecedents,moderators,and consequences.Academy ofManagement Journal, 60, 855-879.   
+Zhu,J.,Wanberg,C.R.,Harrison,D.A.,&Diehn,E.W. (2016). Ups and downs of the expatriate experience? Understanding work adjustment trajectories and career outcomes.Journal of Applied Psychology,101, 549-568.
+
+# Time related research and future direction in organizational behavior field
+
+DONG Xiaowei1; QIN Xin1; CHEN Chen1; HUANG Mingpeng²;
+
+DENG Huiru1; ZHOU Hansen1; SONG Bodil ( Sun Yat-sen Business School, Sun Yat-sen University,Guangzhou 510275,China)
+
+2 Business School, University of International Business and Economics, Beijing 10o029, China)
+
+Abstract: Most of the existing literature on organizational behavior has taken a static perspective and has focused on overall variable levels over a period of time, while the role of time, such as the dynamic characteristics of variables over a period of time,has been largely neglected.Taking the role of time into consideration,that is,focusing on the dynamic characteristics of variables and exploring their antecedents and outcomes from a dynamic perspective, is an important approach that provides a new perspective on existing research, which in turn expands traditional management theories. In line with this approach, in recent years,some scholars have begun to focus on the role of time and to explore the dynamic characteristics of variables. However,in general, this type of research is stillquite rare and disorganized in different fields.Therefore,this review first divides the relevant research into four categories according to two dimensions: the first of the dimensions being the type of dynamic characteristics of variables (i.e., trend vs. variability)and the second being the role of dynamic characteristics of variables in the theoretical model (i.e.,independent variable vs. dependent variable).Based on this categorization, this review systematically reviews the related studies and the theories applied in them. Finally,suggestions for future research are provided by taking the role of time into consideration (e.g., paying more atention to the variability of variables).
+
+Key words: Time; Dynamic; Organizational Behavior; Trend; Variability

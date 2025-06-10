@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "Interacting Phantom Energy ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo\\* Institute of Theoretical Physics，Chinese Academy of Sciences，P.O.Box 2735， Beijing 10080， China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yuan-Zhong Zhang CCAST（World Lab.)，P.O. Box 8730,Beijing 100080 Institute of Theoretical Physics,Chinese Academy of Sciences,P.O.Box 2735，Beijing 10o080，China (Dated: August 26,2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigate the role of a suitable interaction between a matter fluid and a phantom field for the coincidence problem. There exists a stationary scaling solution which is a stable attractor at late times.Furthermore,the cosmic doomsday is avoided in one region of the parameter space. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 98.80.Cq, 98.80.-k ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scalar field plays an important role in modern cosmology.Dark energy can be attributed to the dynamics of a scalar field,called quintessence [1,2],which convincingly realize the present accelerated expansion of the universe by using late-time attractor solutions in which the scalar field mimics the perfect fluid in a wide range of parameters. But regarded as dark energy,quintessence field with the state equation parameter $w > - 1$ may be not consistent with recent observation [3].In order to obtain $w < - 1$ ，phantom field with reverse sign in its dynamical term may be a simplest implementing and can be regarded as one of interesting possibilities describing dark energy [4]. The physical background for phantom type of matter with strongly negative pressure would be found in string theory [5]. Phantom field may also arise from a bulk viscous stress due to particle production [6] or in higher-order theories of gravity [7],Brans-Dicke and non-minimally coupled scalar field theories [8]. The cosmological models which allow for phantom matter appear naturally in the mirage cosmology of the braneworld scenario [9] and in k-essence models [1O]. In spite of the fact that the field theory of phantom fields encounters the problem of stability which one could try to bypass by assuming them to be effective fields [11],it is nevertheless interesting to study their cosmological implication. Recently, there are many relevant studies of phantom energy [12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The physical properties of phantom energy are rather weird,as they include violation of the dominant-energy condition,naive superluminal sound speed and increasing energy density with time. The latter property ultimately leads to unwanted future singularity called big rip.This singularity is characterized by the divergence of the scale factor in a finite time in future [13]. To avoid the cosmic doomsday， specific scalar field models were proposed [14]. It requires a special class of phantom field potentials with local maximum. Moreover, the energy density of the phantom field increases with time,while the energy density of the matter fluid decreases as the universe evolves. Why the energy densities of dark matter and phantom energy are of the same order just at the present epoch? In this paper we investigate the role of a possible coupling of dark matter and phantom field for the coincidence problem.With the help of a suitable coupling [15,16],we find that there exists a stationary scaling solution and demonstrate numerically that it is a stable attractor at late times. Furthermore,the cosmic doomsday is avoided in one region of the parameter space. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We consider the case in which both the phantom energy with constant $w < - 1$ and the cold dark matter are present.Then,if the universe ceases to be matterdominated at cosmological time $t _ { m }$ , the scale factor can be written as ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\na ( t ) = a ( t _ { m } ) \\left[ - w + ( 1 + w ) \\left( \\frac { t } { t _ { m } } \\right) \\right] ^ { 2 / 3 ( 1 + w ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "at $t > t _ { m }$ . It is easy to see that the scale factor blows up at $t = w t _ { m } / ( 1 + w )$ .This occurs because,even though the energy densities in ordinary types of matter are redshifting away,the energy density of phantom energy increases in an expanding universe.It is possible that both components decrease with time if there is a transfer of energy from the phantom field to the matter fluid.Then the cosmic doomsday may be avoided. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For a spatially flat FRW universe with the matter fuid $\\rho _ { m }$ and the phantom field $\\phi$ , Friedmann equation can be written as ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { 2 } = \\frac { \\kappa ^ { 2 } } { 3 } \\left( \\rho _ { p } + \\rho _ { m } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa ^ { 2 } \\equiv 8 \\pi G _ { N }$ is the gravitational coupling and the energy density and pressure, $\\rho _ { p }$ and $P _ { p }$ ，of the homoge neous phantom field $\\phi$ are given by ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\rho _ { p } ~ = ~ - \\frac { 1 } { 2 } \\dot { \\phi } ^ { 2 } + V ( \\phi ) , } } \\\\ { { \\displaystyle P _ { p } ~ = ~ - \\frac { 1 } { 2 } \\dot { \\phi } ^ { 2 } - V ( \\phi ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "respectively,in which $V ( \\phi )$ is the phantom field potential. We postulate that the two components, $\\rho _ { p }$ and $\\rho _ { m }$ ， ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "interact through the interaction term $Q$ according to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\dot { \\rho } _ { p } + 3 H \\gamma _ { p } \\rho _ { p } \\ = \\ - Q , } \\\\ { \\dot { \\rho } _ { m } + 3 H \\gamma _ { m } \\rho _ { m } \\ = \\ Q , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { { } } & { { \\gamma _ { p } ~ \\equiv ~ 1 + w = \\frac { \\rho _ { p } + P _ { p } } { \\rho _ { p } } } } \\\\ { { } } & { { } } \\\\ { { \\gamma _ { m } ~ \\equiv ~ \\frac { \\rho _ { m } + P _ { m } } { \\rho _ { m } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "satisfy $\\gamma _ { p } \\leq 0$ and $1 \\leq \\gamma _ { m } \\leq 2$ .The interaction term $Q$ represents an additional degree of freedom which can be specified by the existence of solution with a stationary energy density ratio $r \\equiv \\rho _ { m } / \\rho _ { p }$ at late times. Using Eqs.(5) and (6) we obtain the evolution equation of the ratio $r$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { r } = r \\left( \\frac { Q } { \\rho _ { m } } + \\frac { Q } { \\rho _ { p } } - 3 H \\gamma _ { m } + 3 H \\gamma _ { p } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Obviously, the suitable interaction ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = 3 H ( \\gamma _ { m } - \\gamma _ { p } ) \\frac { r \\rho _ { p } } { 1 + r }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "guarantees the existence of the stationary solution. Note that $Q > 0$ ，which implies there is a transfer of energy from the phantom field to the matter fluid. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We assume an interaction characterized by $\\begin{array} { r l } { Q } & { { } = } \\end{array}$ （204号 $3 H c ^ { 2 } ( \\rho _ { p } + \\rho _ { m } )$ where $c ^ { 2 }$ denotes the transfer strength, which has already been discussed in Ref. [15]. When $\\gamma _ { p }$ and $\\gamma _ { m }$ are assumed to be constants, the two stationary solutions to Eq.(10) are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { s } ^ { \\pm } = \\frac { \\gamma _ { m } - \\gamma _ { p } } { 2 c ^ { 2 } } - 1 \\pm \\sqrt { \\left( \\frac { \\gamma _ { m } - \\gamma _ { p } } { 2 c ^ { 2 } } - 1 \\right) ^ { 2 } - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which imply. $0 < r _ { s } ^ { - } \\ \\le \\ 1 \\ \\le \\ r _ { s } ^ { + }$ and $r _ { s } ^ { - } r _ { s } ^ { + } = 1$ when $\\gamma _ { m } - \\gamma _ { p } \\geq 4 c ^ { 2 }$ . A stability analysis of the stationary solution indicates that the matter-dominated scaling solution $r _ { s } ^ { + }$ is unstable,while the phantom-dominated scaling solution $r _ { s } ^ { - }$ is stable [16]. The energy density ratio $r$ evolves from the unstable stationary value $r _ { s } ^ { + } > 1$ to the stable stationary solution $r _ { s } ^ { - } < 1$ ，which is clearly compatible with the presently favored observational data $\\Omega _ { m } \\approx 0 . 3$ and $\\Omega _ { \\Lambda } \\approx 0 . 7$ . This may provide us with the dynamics of the density ratio that is relevant to the solution of the coincidence problem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Now consider the case of $\\gamma _ { m } = 1$ (i.e.cold dark matter).We will investigate the cosmological evolution with the stationary density ratio $r$ . Substituting Eq.(10) into Eq.(5),it follows that ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho } _ { p } + 3 \\frac { \\gamma _ { p } + r } { 1 + r } H \\rho _ { p } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which yields ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { p } \\propto a ^ { - 3 \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\textstyle \\nu \\equiv { \\frac { \\gamma _ { p } + r } { 1 + r } }$ Yp+r.If the expansion is matter dominated until the time $t _ { m }$ , then we can write the scale factor as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na ( t ) = a ( t _ { m } ) \\left( 1 - \\nu + \\nu \\frac { t } { t _ { m } } \\right) ^ { 2 / 3 \\nu } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using the definitions of $r$ and $\\gamma _ { p }$ ,the Friedmann equation (2） gives ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na \\propto \\exp \\left( \\frac { \\sqrt { 1 + r } } { \\sqrt { - 3 ( 1 + w ) } } \\kappa \\phi \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In terms of $\\phi$ ，(13）becomes ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { p } \\propto \\exp \\left( - \\frac { \\sqrt { 3 ( 1 + r ) } \\nu } { \\sqrt { - ( 1 + w ) } } \\kappa \\phi \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since $\\gamma _ { p }$ is a constant, that is, potential and kinetic energies of the phantom field remain proportional, it follows that ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( \\phi ) = V _ { 0 } \\exp \\left( - \\frac { \\sqrt { 3 ( 1 + r ) } \\nu } { \\sqrt { - ( 1 + w ) } } \\kappa \\phi \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is reassuring to find an exponential potential because this type potentials arise very naturally in the models of unification,such as Kaluza-Klein theories,supergravity theoriesand string theories.Similarresult has been obtained in Refs.[1,17]. These authors started with an exponential potential in which there is a free parameter and then investigated the parameter range for which there exists a stable scaling solution.We have first constructed a solution with expected properties and then derived the corresponding potential. In the coupled phantom scenario,it is surprising that the signs of the exponent in Eq.(17) are different in different regions of the parameter space,which are determined by the signs of the parameter $\\nu$ .We will find that the increasing potential corresponds to a climbing-up phantom field while the decreasing potential corresponds to a rolling-down phantom field. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The recent observations indicate that approximately 0.3 and O.7 of the total energy density of the universe attribute to dark matter and dark energy, respectively. To solve the coincidence problem of our present universe, the stable stationary ratio of the energy densities should satisfy $r _ { s } ^ { - } < 3 / 7$ , which corresponds to $c ^ { 2 } < 0 . 2 1 ( 1 - \\gamma _ { p } )$ (i.e.the regions I and II in Figure 1).In the region I ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 - \\frac { 1 } { 1 - \\gamma _ { p } } < c ^ { 2 } < \\frac { 2 1 } { 1 0 0 } ( 1 - \\gamma _ { p } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for $- 3 / 7 < \\gamma _ { p } < 0$ , since $0 < \\nu < 2 / 3$ ,the energy density of the phantom field decreases in an expanding universe and the universe accelerates without a big rip in the future.However,in the region II ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ^ { 2 } < 1 - \\frac { 1 } { 1 - \\gamma _ { p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b0a8615656fd8eed004075554db85a3398eb0b34ee8ff0d24028a28c434f815.jpg",
+        "img_caption": [
+            "FIG.1: Regions of the $( \\gamma _ { p } , c ^ { 2 } )$ parameter space with $\\gamma _ { m } = 1$ In the regions Iand II, the scaling solution is a stable attractor.In the region III,there exist no stable scaling solutions with $r _ { s } ^ { - } < 3 / 7$ ．The universe accelerates for ever in the region I,while the universe leads to a big rip in the future in the region II. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for $- 3 / 7 < \\gamma _ { p } < 0$ and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ^ { 2 } < \\frac { 2 1 } { 1 0 0 } ( 1 - \\gamma _ { p } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for $\\gamma _ { p } < - 3 / 7$ ， $\\nu < 0$ indicates that the universe accelerates until a big rip occurs at $t = ( 1 - 1 / \\nu ) t _ { m }$ .We see that the energy transfer from the phantom field to the cold dark matter prolongs the lifetime of the universe. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study an explicit numerical evolution of the energy density ratio $r$ and the phantom energy density (or the matter energy density),it is most convenient to rewrite the evolution equations (9) and(5)(or Eq.(6)）as a set of two first-order differential equations with two independent variables $r$ and $\\rho _ { p }$ (or $\\rho _ { m }$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { { r ^ { \\prime } } ~ = ~ 3 c ^ { 2 } r \\left( 2 + r + { \\frac { 1 } { r } } - { \\frac { \\gamma _ { m } ~ - \\gamma _ { p } } { c ^ { 2 } } } \\right) , } } \\\\ { { } } & { { } } & { { } } \\\\ { { \\rho _ { p } ^ { \\prime } } ~ = ~ - 3 \\rho _ { p } \\left( \\gamma _ { p } + c ^ { 2 } r + c ^ { 2 } \\right) , }  \\\\ { { } } & { { } } & { { } } \\\\ { { \\rho _ { m } ^ { \\prime } } ~ = ~ - 3 \\rho _ { m } \\left( \\gamma _ { m } - c ^ { 2 } - { \\frac { c ^ { 2 } } { r } } \\right) , }  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the prime denotes a derivative with respect to the logarithm of the scalar factor, $N \\equiv \\ln a$ . Let us consider two points, $( - 0 . 2 , \\ 0 . 2 )$ and ( $-$ 1.4,0.2）in the regions I and I of the $( \\gamma _ { p } , c ^ { 2 } )$ parameter space in Figure 1, respectively. We choose different initial conditions and follow the evolution.We find that an initial energy density ratio decreases and there exist an attractor curve,which corresponds to the stationary scaling solution.It implies that the universe evolves from a dark matter dominance to a phantom dominance and the energy density ratio of the two components becomes a constant ultimately. Furthermore,we find that the stationary energy density ratio increases as the transfer strength $c ^ { 2 }$ increases when $\\gamma _ { p }$ is fixed. In Figures 2 and 3,the energy densities of the two components redshift away. From Eqs.(16) and (17), we note that the phantom field rolls down the exponent potential. In Figures 4 and 5,the energy density of the phantom field increases with time,while the energy density of the cold dark matter decreases initially and then increases ultimately with time.From Eqs.(16) and(17), we note that the phantom field climbs up the exponent potential. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We have considered above that the present accelerated expansion of our flat FRW universe is driven by an interacting mixture of a matter fluid and a phantom field with $w < - 1$ .In the absence of interaction，as shown in Ref. [18], there exist no scaling solutions because the phantom energy increases while the matter energy decreases with time. With the help of a suitable coupling, there exists a stable,stationary scaling solution，which requires a transfer of energy from the phantom field to the matter fluid.Furthermore,we demonstrate numericallythat an interaction between cold dark matter and phantom field can drive the transition from a matter dominance to a phase of accelerated expansion with a stationary ratio of the energy densities of the two components. This interacting phantom approach indicates a phenomenological solution of the coincidence problem. The different regions in the $( \\gamma _ { p } , c ^ { 2 } )$ parameter space lead to different fates of the universe. In the region I,the phantom field rolls down the exponent potential and the universeaccelerates without the cosmic doomsday.However,in the region II, the phantom energy increases as the phantom field climbs up the potential,which lead to the divergence of scale factor in the future. Coupling of the quintessence field to dark matter may be worrisome because of quantum corrections to the quintessence potential [19]. It is valuable to study the stability of the phantom potential under quantum fluctuations in the case with a coupling to dark matter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note added.While this letter is under review, Ref.[20] presents a similar idea. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is a pleasure to acknowledge helpful discussions with Winfried Zimdahl. This project was in part supported by National Basic Research Program of China under Grant No.2003CB716300 and also by NNSFC under Grant No.10175070. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e70ec1abaede29906f705dd48e99df22448a45db40313ff19cf27fd55161911d.jpg",
+        "img_caption": [
+            "FIG. 2: $r { - } \\rho _ { p }$ with $\\gamma _ { m } = 1$ ， $\\gamma _ { p } = - 0 . 2$ and $c ^ { 2 } = 0 . 2$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/43a0ddbab3a014c2eb20ad744839781116175e1c2f49ae746af1d9e20d2f9e02.jpg",
+        "img_caption": [
+            "FIG.3: $r { - } \\rho _ { m }$ with $\\gamma _ { m } = 1$ ， $\\gamma _ { p } = - 0 . 2$ and $c ^ { 2 } = 0 . 2$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3a218c034684f461d42572341fea7d6a2a13ac26cbb9b7abf7af2063336b413.jpg",
+        "img_caption": [
+            "FIG. 4: $r { - } \\rho _ { p }$ with $\\gamma _ { m } = 1$ ， $\\gamma _ { p } = - 1 . 4$ and $c ^ { 2 } = 0 . 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/231ca33a23b096b0eae2968c374169ff1d8219578b22bfd68445ca66717e309b.jpg",
+        "img_caption": [
+            "FIG. 5: $r { - } \\rho _ { m }$ with $\\gamma _ { m } = 1$ ， $\\gamma _ { p } = - 1 . 4$ and $c ^ { 2 } = 0 . 2$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "82（1999） 896；P.J.Steinhardt，L.Wang and I.Zlatev, Phys.Rev.D59 (1999)123504.   \n[3] U.Alam, V.Sahni, T.D.Saini and A.A.Starobinsky, astro-ph/0311364; U.Alam, V.Sahni and A.A.Starobinsky，astro-ph/0403687；D.Huterer and A.Cooray，astro-ph/0404062；B.Feng，X.L.Wang and X.Zhang,astro-ph/0404224. [4] R.R.Caldwell,Phys.Lett.B545(2002) 23.   \n[5] L.Mersini,M.Bastero-Gil and P.Kanti,Phys.Rev.D64 (2001） O43508；M.Bastero-Gil， P.H.Frampton and L.Mersini, Phys.Rev. D65 (2002) 106002; P.H.Frampton, Phys.Lett.B555 (2003) 139;F.Piazza and S.Tsujikawa, JCAP 0407 (2004) 004.   \n[6] J.D.Barrow,Nucl.Phys.B310(1988) 743.   \n[7] M.D.Pollock,Phys.Lett.B215 （1988) 635；G.Calcagni, gr-qc/0410027.   \n[8] D.F.Torres，Phys.Rev.D66（2002） 043522；E.Elizalde, S.Nojiri and S.D.Odintsov，Phys.Rev. D70 (2004) 043539.   \n[9] A.Kehagias and E.Kiritsis,JHEP 9911(1999) 022.   \n[10] T.Chiba,T.Okabe and M.Yamaguchi, Phys.Rev. D62 (2000） 023511；J.M.Aguirregabiria，L.P.Chimento and R.Lazkoz,Phys.Rev.D70 (2004) 023509.   \n[11] G.W.Gibbons, hep-th/0302199; S.Nojiri and S.D.Odintsov,Phys.Lett.B562 (2003) 147; S.Nojiri and S.D.Odintsov,Phys.Lett.B565(2003） 1.   \n[12]A.E.Schulz and M.White， Phys.Rev. D64 (2001) 043514; M.P.Dabrowski, T.Stachowiak and M.Szydlowski, Phys.Rev. D68 (2003) 103519; Y.S.PiaoandE.Zhou, Phys.Rev. D68 (2003) 083515；V.B.Johri, Phys.Rev. D70(2004) 041303; X.H.Meng and P.Wang，hep-ph/0311070;Y.S.Piao and Y.Z.Zhang, astro-ph/0401231； J.Lima and J.S.Alcaniz, astro-ph/O402265；M.Bouhmadi-Lopez and J.J.Madrid, astro-ph/0404540;Y.H.Wei and Y.Tian，gr-qc/0405038; L.P.Chimento and R.Lazkoz, astro-ph/0405518； B.Feng, M.Li, Y.S.Piao and X.Zhang, astro-ph/0407432; P.F.Gonzalez-Diaz,astro-ph/0408450.   \n[13]R.R.Caldwell, M.Kamionkowski and N.N.Weinberg, Phys.Rev.Lett. 91(2003) 071301; M.Sami and A.Toporensky，Mod.Phys.Lett. A19 (2004) 1509; P.F.Gonzalez-Diaz, Phys.Lett. B586 (2004) 1; L.P.Chimento and R.Lazkoz,gr-qc/0405020.   \n[14]S.M.Carroll,M.Hoffman and M.Trodden，Phys.Rev. D68（2003) 023509；P.Singh，M.Sami and N.Dadhich, Phys.Rev.D68 (2003) 023522；Z.K.Guo，Y.S.Piao and Y.Z.Zhang,Phys.Lett.B594(2004) 247.   \n[15]W.Zimdahl,D.Pavon and L.P.Chimento,Phys.Lett. B521(2001）133.   \n[16] L.P.Chimento，A.S.Jakubi,D.Pavon and W.Zimdahl, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Phys.Rev.D67 (2003) 083513. [17] C.Wetterich,Astron.Astrophys.301(1995) 321. [18] Z.K.Guo, Y.S.Piao, X.Zhang and Y.Z.Zhang, astro-ph/0410654. [19] M.Doran and J.Jaeckel, Phys.Rev.D66(2002) 043519. [20] R.G.Cai and A.Wang,hep-th/0411025. ",
+        "page_idx": 4
+    }
+]

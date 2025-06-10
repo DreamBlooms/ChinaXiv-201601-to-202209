@@ -1,0 +1,151 @@
+# 异叶泽兰的遗传多样性和居群历史动态研究
+
+潘跃芝，赵玉娟，龚洵（中国科学院昆明植物研究所云南省野生资源植物研发重点实验室，昆明650201）
+
+摘要：异叶泽兰属于菊科泽兰属，是该属分布海拔相对较高的植物，分布在青藏高原东部和横断山海拔 $1 7 0 0 { \sim } 3 0 0 0 \mathrm { m }$ 左右的地区。本研究利用ycf6-psbM和 $r p l { 3 2 - t r n L }$ 两个叶绿体DNA（cpDNA）片段以及核DNA片段ITS（nITS）作为分子标记，研究了异叶泽兰的遗传多样性及其分布特征，同时探讨了其居群历史动态。叶绿体片段联合分析结果显示单倍型多态性指数 $H \mathrm { d }$ 为0.656,核苷酸多态性 $( \pi )$ 为0.00161；而TS的平基因型多态性指数 $H \mathrm { d }$ 为0.687,核苷酸多态性为0.00235。因此异叶泽兰在物种水平遗传多样性水平不高。cpDNA和nITS分析结果都显示异叶泽兰居群水平总的遗传多样性大于居群内平均遗传多样性，遗传变异主要发生在居群间，居群间存在明显的遗传分化（cpDNA： $G \mathrm { s t } { = } 0 . 6 7 9$ ， $N \mathrm { s t } { = } 0 . 6 5 5$ ， $F _ { \mathrm { S T } } { = } 0 . 6 5 5$ nITS: $G \mathrm { s t } = 0 . 5 4 3$ ， $N \mathrm { s t } = 0 . 3 7 0$ ， $F _ { \mathrm { S T } } { = } 0 . 5 8 4 )$ 。但是，由于Nst 值小于 $\boldsymbol { G } \mathrm { s t }$ 值，异叶泽兰的分布不具有明显的谱系地理结构。基于单倍型地理分布以及Network 分析推测横断山区南部（川西南-滇西北）和云南中部可能是异叶泽兰在第四纪冰期时的两个避难所，中性检验和失配分析的结果支持异叶泽兰在冰期后未发生过居群扩张。
+
+关键词：异叶泽兰，遗传多样性，居群历史动态，横断山区，避难所中图分类号：Q948.15 文献标识码：A开放科学（资源服务）标识码（OSID）：
+
+# Study on genetic diversity and population demography of
+
+Eupatorium heterophyllum (Asteraceae)
+
+PAN Yuezhi, ZHAO Yujuan, GONG Xun (Department of Economic Plants and Biotechnology, Yunnan key Laboratory for Wild Plant Resources, Kunming Institute of Botany, Chinese Academy of Sciences, Kumming 650201, China)
+
+Abstract: Eupatorium heterophyllum, belonging to Eupatorium (Asteraceae), is distributed in the eastern Qinghai-Tibet Plateau and Hengduan Mountain regions,and has relatively high elevation in comparison with those of other species within this genus.A survey of two chloroplast DNA (cpDNA) fragments (ycf6-psbM and rpl32-trnL),and one nuclear DNA fragment ITS (nITS) was carried out to assess the genetic diversity and infer the population demography history of $E .$
+
+heterophyllum. The results showed that the haplotype diversity $( H \mathrm { d } )$ of combined cpDNA fragments was O.656,and the nucleotide diversity $( \pi )$ was O.OO1 61 at the species level. These two index values of ITS were O.687 and O.0O2 35,respectively. All these data showed that $E .$ heterophyllum had relatively low level of genetic diversity. Both cpDNA and ITS data indicated that the total genetic diversity of $E$ ，heterophyllum was higher than the average value of populations,and the genetic variations occurred mainly among populations. Significant genetic differentiation exists among populations (cpDNA: $G \mathrm { s t } = 0 . 6 7 9$ ， $N \mathrm { s t } = 0 . 6 5 5$ ， $F _ { \mathrm { S T } } { = } 0 . 6 5 5$ ; nITS: （204 $G { \mathrm { s t } } = 0 . 5 4 3$ ， $N \mathrm { s t } = 0 . 3 7 0$ ， $F _ { \mathrm { S T } } { = } 0 . 5 8 4$ ). However, there is no obvious phylogeographical structure occurred in $E$ ，heterophyllum $( N \mathrm { s t } < G \mathrm { s t } )$ .Both the pattern of haplotype distribution and Network structure of haplotypes indicated that the southern Hengduan Mountian regions and central Yunnan province probably were the two refugia for $E$ ，heterophyllum during the Quaternary Glaciation period. And $E$ ，heterophyllum has not undergone population expansion after glacial period which was supported by the neutral test and mismatch analysis.
+
+Key words: Eupatorium heterophylum, genetic diversity， population demography, Hengduan mountains, refugium
+
+异叶泽兰（Eupatorium heterophyllum）属于菊科泽兰属（Eupatorium)，该属曾被认为是分布在美洲及欧亚大陆的菊科大属，约600种，被国人所熟知的外来入侵物种紫荆泽兰就曾被置于该属，拉丁名为 E.adenophora(林容等，1985；Chen et al.,2011)。但后来该属被重新界定为仅分布在欧亚大陆的北极-第三纪分布小属，仅包含45个种左右（King＆Robinson,1970)，而分布于中南美洲的类群不再被归入该属内，如紫荆泽兰被归并到紫茎泽兰属Ageratina，定名为 Ageratina adenophora（King & Robinson,1970；Chen et al.,2011）。被重新定义的泽兰属属北温带类群，北美分布有27种，东亚有25种，1种在欧洲，是个典型的东亚北美间断分布类群(Schilling et al,1999;Ito et al.,2000)，在中国大陆和台湾地区约分布有14 种，其中6种为特有种（Chen etal.,2011)。系统发育和植物地理学分析表明，该类群为北美起源和分化，其一分支大约在 $6 . 1 8 { \sim } 1 1 . 6 \mathrm { M a }$ （晚第三纪）时经白伶海峡陆桥扩散至欧亚大陆，随后在亚洲经历了辐射演化（Schilling et al.,1999; Schmidt & Schilling,2000）。其中，东亚分布的种类在形态表型以及染色体核型上差异都比较小（Watanabe etal.,1990)，物种间可能存在自然杂交的现象（Schmidt& Schilling,2000)。在中国分布的约14 个种中，异叶泽兰分布在青藏高原东部和横断山海拔 $1 7 0 0 { \sim } 3 0 0 0 \mathrm { m }$ 左右的地区，是泽兰属唯一一个分布海拔较高的物种，生于山坡林下、林缘、草地及河谷（Chenetal.,2011)，其化学成分在不同居群间存在差异（Saito etal.,2014）。
+
+横断山区是泛北极植物区系的一个区（李锡文和李捷，1993)，该地区的种子植物区系基本上是温带性质的，尤其是北温带成分，这其中许多又是北极-第三纪植物，这类植物在中新世以后伴随气温的急剧下降而南迁。秦岭-黄河一线并环沿四川盆地可能是北极第三纪成分向喜马拉雅-横断山迁移的主要路线（孙航，2002)。该地区在第四纪冰期时未被统一的大冰盖覆盖，同时又受东亚季风气候和印度季风气候的影响，这给许多植物类群提供了避难所，尤其是海拔相对较低的地区（Qiu etal.,2011；更吉卓玛等，2018)。在冰后期，横断山区成为现代温带植物的重要起源地和辐射地(李锡文和李捷，1993；于海彬和张镜锂,2013)，物种多样性和遗传多样性都非常高（Yuetal.,2019)。异叶泽兰作为泽兰属在高海拔地区分布物种，在第四纪冰期及冰期后存在怎样的居群历史动态，现有分布居群又具有怎样的遗传多样性分布式样。本文基于两个叶绿体DNA片段（ycf6-psbM和 rpl32-trnL）和核DNA片段ITS 的测序数据，利用群体遗传学和谱系地理学的分析方法，对以上问题进行了初步的探讨和回答。
+
+# 1材料与方法
+
+# 1.1材料
+
+本研究中我们共采集甘肃、四川、云南及贵州27个居群的 261个样本的叶片材料(表1;图1，图 2)，硅胶干燥后带回实验室。
+
+# 1.2DNA提取、PCR扩增及测序
+
+依据CTAB 法（Doyle& Doyle,1987）提取总DNA。对 nrDNA 的ITS 区段进行 PCR扩增，扩增引物为ITS4(TCCTCCGCTTATTGATATGC）和ITS5(GGAAGTAAAAGTCGTAACAAGG) (White et al.， 1990)，对 cpDNA 的 ycf6-psbM 和rpl32-trnL 区段进行 PCR扩增，扩增引物为ycf6F（ATGGATATAGTAAGTCTYGCTTGGGC）和psbMR（ATGGAAGTAAATATTCTYGCATTTATTGCT）（ShaWet al.，2005）及rpl32F(CAGTTCCAAAAAAACGTACTTC） 和 trnLR（CTGCTTCCTAAGAGCAGCGT）(Shaw et al.,2007)。ITS 的PCR 扩增条件为 $9 5 \ \mathrm { ^ \circ C }$ 变性 $2 ~ \mathrm { m i n }$ ，接着以 $9 5 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ， $5 3 \mathrm { ~ \textdegree ~ { ~ I ~ } { ~ m i n ~ } ~ }$ $6 5  { \mathrm { ~ \textrm ~ { ~ ~ } ~ } }  { \mathrm { { C ~ } ~ } } 1  { \mathrm { { \ m i n } } }$ 的条件循环30次，最后在 $6 5 \ \mathrm { ^ \circ C }$ 条件下延伸 $7 ~ \mathrm { m i n }$ 。ycf6-psbM的PCR反应条件与ITS 基本一致，但其退火温度为 $5 2 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 。rpl32-trnL 的 PCR 扩增条件为 $8 0 \ \mathrm { ^ \circ C }$ 变性 $2 ~ \mathrm { m i n }$ ，接着以 $9 5 \mathrm { ~ ^ { \circ } C ~ 1 ~ m i n }$ ， $5 0 \ \mathrm { ^ \circ C }$ 1min, $6 5 \ \mathrm { ^ { \circ } C } \ 1 . 5 \ \mathrm { m i n }$ 的条件循环33次，最后在 $6 5 ~ \mathrm { { ^ \circ C } }$ 条件下延伸 $5 \mathrm { m i n }$ 。PCR 产物用上海生工生物技术有限公司的纯化试剂盒W5211进行纯化，纯化产物用ABI3730 测序仪进行双向测序。
+
+# 1.3数据分析
+
+测序的原始数据用DNAStar 软件包的 Seqman（DNAStar，Inc.，Madison，USA）进行拼接，用Clustal X(Thompson et al.,1997)进行比对。用 $\mathrm { P A U P ^ { * } 4 . 0 b 1 0 }$ （Swofford，2002）软件将两个叶绿体片段的序列进行联合。用 DnaSP5.10（Librado&Rozas,2009）统计单倍型数目和变异位点特征，以及单倍型多样性 $( H \mathrm { d } )$ 和核苷酸多样性 $( \pi )$ ；利用该软件进行中性检验，包括Tajima's $D$ 和 Fu and Li's $F$ \*检验，在居群扩张模型下推测居群大小变化。运用ArcGis10.2编辑各单倍型在地形图上的地理分布。利用Network5.011(http://www.fluxus-engineering.com)构建单倍型网状进化关系。
+
+用 Permut（Pons& Petit,1996）软件计算计算居群内平均遗传遗传多样性Hs、总的遗传多样性 $H \mathrm { t }$ 和居群间遗传分化系数Gst和Nst值。
+
+应用Arlequin3.5（Excoffier&Lischer,2010）软件包中的分子变异分析(AMOVA)分别检测该研究物种在居群间和居群内的遗传变异水平。利用该软件对单倍型分布的 $F \mathrm { s t }$ 进行评价，同时利用该软件包中的 Mantel统计学检验，比较地理距离矩阵与平均遗传距离矩阵之间的相关性，并进行1,O00次重复的显著性检验;此外，失配分析（mismatch distribution analysis）也由该软件来完成,即分别计算歧点观测值与期望值的方差(SSD)、糙度指数(r:raggednessindex)以及它们的显著性( $P$ value)。
+
+# 表1样本采集地信息及各居群遗传多样性参数统计值
+
+Table 1 Information of sampling location and the values of genetic diversity index   
+
+<html><body><table><tr><td>居 群 号</td><td>采样地 Location</td><td>经度/纬度 Longitude /Latitude</td><td>海 拔 Altitude (m)</td><td>cpDNA单倍型 （序列数） cpDNA Haplotype</td><td>多态性 cpDNA nucleotide</td><td>cpDNA 核苷酸 cpDNA</td><td>cpDNA单倍 型多态性 数） Haplotype</td><td>ITS 单倍型组成（序列 ITS Haplotype (sequence number)</td><td>性 cpDNA</td><td>ITS 核苷酸多态</td><td>ITS单倍 态性 ITS</td></tr><tr><td>Pop ID</td><td>甘肃文县</td><td>104.67%/33.05°</td><td>1 700#</td><td>(sequence number) H1(9)</td><td>0</td><td>diveristy (π)</td><td>Diversity (Hd) 0</td><td>H1(3) H2(2)</td><td>H3(2)</td><td>nucleotide diveristy (π) 0.002 53</td><td>Haplotype Diversity 0.837</td></tr><tr><td>1</td><td>Wenxian, Gansu</td><td></td><td></td><td>H1(10)</td><td></td><td></td><td></td><td>H4(2) H15(5)* H3(10) H12(5)*</td><td>H5(6)</td><td></td><td></td></tr><tr><td>2</td><td>四川小金 Xiaojin, Sichuan 四川雅江</td><td>102.5/31.02° 100.99/30.03°</td><td>2300 2 700</td><td>H1(12)</td><td>0 0</td><td>0 0</td><td></td><td>H13(1) * H3(24)</td><td>H14(4)</td><td>0.001 68</td><td>0.679</td></tr><tr><td>3</td><td>Yajiang, Sichuan 四川乡城</td><td>99.87/28.75°</td><td>2800</td><td>H1(2) H7(8)</td><td>0.000 61</td><td>0.356</td><td></td><td>H3(20)</td><td></td><td>0 0</td><td>0</td></tr><tr><td>4</td><td>Xiangcheng, Sichuan 四川得荣</td><td>99.53/28.03°</td><td>3180</td><td>H1(10)</td><td>0</td><td>0</td><td></td><td>H3(20)</td><td></td><td>0</td><td>0</td></tr><tr><td>5</td><td>Derong, Sichuan 云南中甸</td><td>99.75/28.08°</td><td>3 600#</td><td>H1(4) H7(7)</td><td>0.000 88</td><td>0.509</td><td></td><td>H3(22)</td><td></td><td></td><td>0</td></tr><tr><td>6</td><td>Zhongdian, Yunnan</td><td></td><td></td><td>H1(5) H7(5)</td><td>0.000 96</td><td></td><td></td><td></td><td></td><td>0</td><td>0</td></tr><tr><td>7</td><td>云南中甸 Zhongdian, Yunnan</td><td>100.03/27.5°</td><td>2 630</td><td></td><td></td><td>0.556</td><td></td><td>H3(19) H9(1)</td><td></td><td>0.000 16</td><td>0.1</td></tr><tr><td>8</td><td>云南玉龙</td><td>100.23/27.29°</td><td>1650</td><td>H1(8) H7(2)</td><td>0.000 57</td><td>0.327</td><td></td><td>H3(20) H8(2)</td><td></td><td>0.000 54</td><td>0.173</td></tr><tr><td>9</td><td>Yulong, Yunnan 云南维西</td><td>99.25/27.19°</td><td>3000#</td><td>H1(10)</td><td>0</td><td>0</td><td></td><td>H3(20)</td><td></td><td>0</td><td>0</td></tr></table></body></html>
+
+<html><body><table><tr><td>10</td><td>云南维西</td><td>99.33/27.12°</td><td>2 330</td><td>H1(10)</td><td>0</td><td>0</td><td>H3(20))</td><td></td><td>0</td><td>0</td></tr><tr><td></td><td>Weixi, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>云南怒江</td><td>98.7/25.79°</td><td>2 700#</td><td>H1(9)</td><td>0</td><td>0</td><td>H3(15)</td><td>H14(3)</td><td>0.000 83</td><td>0.358</td></tr><tr><td></td><td>Nujiang, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>云南玉龙</td><td>99.88/26.63</td><td>2380</td><td>H1(2) H2(5)</td><td>0.000 82</td><td>0.476</td><td>H1(5)</td><td>H2(5)</td><td>0.001 47</td><td>0.714</td></tr><tr><td>13</td><td>Yulong, Yunnan 云南玉龙</td><td>100.4/26.85°</td><td>2100</td><td>H1(8) H3(1)</td><td>0.000 52</td><td>0.378</td><td>H2(1)</td><td></td><td></td><td></td></tr><tr><td></td><td>Yulong, Yunnan</td><td></td><td></td><td>H9(1) *</td><td></td><td></td><td>H10(1)</td><td>H3(16) H8(2)</td><td>0.001 44</td><td>0.363</td></tr><tr><td>14</td><td>云南永仁</td><td>101.47/26.42°</td><td>1400#</td><td>H1(8)</td><td>0</td><td>0</td><td>H1(3)</td><td>H2(1) H3(2)</td><td>0.003 03</td><td></td></tr><tr><td></td><td>Yongren, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td>H4(4)</td><td></td><td></td><td>0.858</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>H6(2) *</td><td>H5(4)</td><td></td><td></td></tr><tr><td>15</td><td>云南宁蒗</td><td>100.84/27.4°</td><td>2 740</td><td>H1(9) H3(1)</td><td>0.000 35</td><td>0.200</td><td>H3(16) H8(2)</td><td>H9(2)</td><td>0.000 83</td><td>0.358</td></tr><tr><td></td><td>Ninglang, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td>四川盐源</td><td>101.23/27.72°</td><td>3050</td><td>H1(10)</td><td>0</td><td>0</td><td>H3(14) H8(6)</td><td>H22(2)</td><td>0.001 39</td><td>0.442</td></tr><tr><td></td><td>Yanyuan, Sichuan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td>四川冕宁</td><td>28.4/102.02°</td><td>2 110</td><td>H1(5) H6(6)</td><td>0</td><td>0</td><td>H1(14) H16(5)*</td><td></td><td>0.009 07</td><td>0.550</td></tr><tr><td></td><td>Mianning, Sichuan</td><td></td><td></td><td></td><td></td><td></td><td>H17(3) *</td><td></td><td></td><td></td></tr><tr><td>18</td><td>四川九龙</td><td>101.72/28.53°</td><td>1 600</td><td>H1(9) H6(1)</td><td>0.00104</td><td>0.200</td><td>H1(4) H8(2) H18(8)</td><td></td><td>* 0.005 85</td><td>0.737</td></tr><tr><td></td><td> Jiulong, Sichuan</td><td></td><td></td><td></td><td></td><td></td><td>H19(6) * H20(4) *</td><td></td><td></td><td></td></tr><tr><td>19</td><td>云南昭通</td><td>103.72%/27.45°</td><td>2 160</td><td>H4(2) H11(8)</td><td>0.000 31</td><td>0.356</td><td>H1(9)</td><td>H2(5) H4(1)</td><td>0.002 13</td><td>0.705</td></tr><tr><td></td><td>Zhaotong, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td>H5(5)</td><td></td><td></td><td></td></tr><tr><td>20</td><td>云南禄劝</td><td>102.7/26.17°</td><td>2 050</td><td>H4(10)</td><td>0</td><td>0</td><td>H1(16) H7(4)</td><td></td><td></td><td></td></tr><tr><td></td><td>Luquan, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.000 53</td><td>0.337</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>21</td><td>云南寻甸</td><td>102.84/25.9°</td><td>1100</td><td>H7 (1) H8(11)</td><td>0.000 29</td><td>0.167</td><td>H1(22) H7(2)</td><td></td><td>0.000 25</td><td>0.159</td></tr></table></body></html>
+
+<html><body><table><tr><td>22</td><td>云南东川</td><td>103.27/25.85°</td><td>2 150</td><td>H2(1)</td><td>H8(8)</td><td>0.002 06</td><td>0.378</td><td>H1(17) H7(3)</td><td>0.000 42</td><td>0.268</td></tr><tr><td rowspan="2">23</td><td>Dongchuan, Yunnan</td><td></td><td></td><td>H10(1) *</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>云南东川</td><td>103.08/25.9°</td><td>2 500</td><td>H1(1) H4(8)</td><td></td><td>0.000 19</td><td>0.222</td><td>H1(16) H11(2)</td><td>0.000 33</td><td>0.209</td></tr><tr><td>24</td><td>Dongchuan, Yunnan</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2"></td><td>云南昆明</td><td>102.78/25.32°</td><td>2 000#</td><td>H1(1)</td><td>H4(4)</td><td>0.002 57</td><td>0.644</td><td>H1(19) H2(1)</td><td>0.000 16</td><td>0.1</td></tr><tr><td>Kunming Yunnan</td><td></td><td></td><td>H5(5) *</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>25</td><td>云南澄江</td><td>102.88/24.73°</td><td>2 650</td><td>H4(10)</td><td>0</td><td></td><td>0</td><td>H1(18) H11(2)</td><td>0.000 30</td><td>0.189</td></tr><tr><td rowspan="2">26</td><td>Chengjiang, Yunnan</td><td></td><td></td><td>H11(6)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>云南元江</td><td>101.8/23.65°</td><td>1760</td><td></td><td></td><td>0</td><td>0</td><td>H1 (12)</td><td>0</td><td>0</td></tr><tr><td>27</td><td>Yuanjiang, Yunnan</td><td></td><td></td><td>H1(2) H3(3)</td><td></td><td></td><td>0.600</td><td></td><td></td><td></td></tr><tr><td></td><td>贵州施秉 Shibing, Guizhou</td><td>108.1/27.1°</td><td>850</td><td></td><td></td><td>0.001 04</td><td></td><td>H2(2) H3(4) H21(2) *</td><td>H8(2) 0.003 91</td><td>0.8</td></tr></table></body></html>
+
+注：\*表示居群特有单倍型；“表示此海拔高度由GoogleEarthPro 查询得到。 Note: \*means private haplotypes; # means data estimated using GoogleEarthPro.
+
+# 2结果与分析
+
+# 2.1cpDNA数据分析
+
+共有260个样本的ycf6-psbM和rpl32-trnL同时测序成功，两个片段联合并比对后矩阵长度为 $1 1 7 9 { \mathrm { ~ b p ~ } }$ 。DnaSP5.10分析共生成11个单倍型，每个居群的核苷酸多样性 $( \pi )$ 、单倍型多样性（Hd）见表1。物种水平单倍型多态性指数Hd为0.656，核苷酸多态性 $( \pi )$ 为0.001 61。
+
+单倍型 H1 主要分布在云南西北部、四川西南部以及甘肃文县和贵州施秉县的11 个居群中，昆明（居群 24）及东川（居群 23）有少量分布；单倍型H4 则分布在云南中部的 5个居群中；H5仅分布在云南昆明的居群 24中，H9仅分布在丽江玉龙县的居群13中，H10仅分布在昆明东川居群 22中（图1，表1)。Network 分析表明，发生频率最高的单倍型H1和 H4 位于网状结构的中间位置，单倍型 H3、H10、H11、H8、H5、H6 和H5 位于网状结构的末端位置(图3)。
+
+居群的 SSD 值以及糙度指数 $\boldsymbol { r }$ 值都为不显著的正值 $( P > 0 . 0 5 )$ ，中性检验表明Tajima'sD (-0.59)与 Fu and Li's $F$ （-0.06）值虽然均为负值，但不显著小于零 $( P > 0 . 0 5 )$ ，失配分布曲线为多峰曲线（图5)，观测值背离了期望值，违背了居群扩张模型。这些结果都表明异叶泽兰居群未发生显著居群扩张。
+
+异叶泽兰总遗传多样性（ $\cdot \boldsymbol { H } \mathrm { t } { } )$ 为0.682，居群内平均遗传多样性 $( H \mathrm { s } )$ 为0.219，居群间遗传分化系数 $\boldsymbol { G } \mathrm { s t }$ 和Nst值分别为0.679和0.655,Nst小于Gst。AMOVA分析结果表明，异叶泽兰较多的遗传变异（ $6 5 . 5 5 \%$ ）发生在居群间，仅 $3 4 . 4 5 \%$ 的变异发生在居群内，固定指数 $F \mathrm { s t } = 0 . 6 5 5$ 。遗传距离和地理距离呈正相关，但显著度不高（ $r = 0 . 1 8$ $P = 0 . 0 4 5$ )。
+
+# 2.2 ITS分析
+
+共有 261个样本的ITS 测序成功，其中197个体是纯合体，其余64个为杂合体。序列比对后的数据矩阵长度为 $6 3 8 \mathrm { b p }$ ，经软件DnaSP5.10的"phase"功能拆分后生成522条序列。这522条序列共生成21种基因型（H1-H21）（图2，表1)，物种水平基因型多态性指数 Hd为0.6869，核苷酸多态性为0.00235；每个居群的核苷酸多样性 $( \pi )$ 和基因型多样性（Hd)值见表1。
+
+分布频率最高的为基因型H1和 H3，其中H1分布在云南中部及四川的冕宁和九龙地区，云南中部为其主要分布地区；而H3从甘肃文县沿四川盆地西部边缘一直分布到分云南西北部地区，贵州施秉居群中也有分布，其中云南西北部及四川西南部为主要分布区（图2，表1)。基因型H2分布在居群1、12、13、14、19、24和27中，除甘肃文县（居群1）外，呈现从云南西北部到云南中部到云南中北部，再到贵州（居群 27）的分布格局。H4 和 H5也呈现出在甘肃文县（居群1）、云南西北部（居群14）和云南中北部（居群19）的分布式样。H7仅分布在云南中北部的三个居群中（居群 20和21、22)，H11仅分布在云南中北部的两个居群中（居群23和居群25)，基因型H8分布在四川西南部（居群16）、云南西北部（居群8、13和15）以及贵州地区（居群27）。H6为居群14所特有，H10为居群13所特有，H12和H13仅分布在居群2中，H15仅分布在居群1中，H16 和H17仅分布在居群17中，H18、H19 和H20仅分布在居群18中，H21仅分布在居群 27中。因此，ITS 基因型主要分布模式可以归纳为：A.以H3为代表的“甘肃-川西南-滇西北-贵州”地区分布类型，以H1为代表的“川西南-滇中”地区分布类型；B.“四川盆地边缘”特有基因型分布类型，如H12、H13、H15等。出现频率较高的单倍型H1和H3位于网状进化图的中间位置，同时网状进化图出现多个环状结构，说明核基因重组事件的发生（图4)。
+
+居群的 SSD 值以及糙度指数 $\boldsymbol { r }$ 值都为不显著的正值 $( P > 0 . 0 1 )$ ；中性检验表明Tajima's
+
+$D$ (-1.14)为负值，但它不显著小于零 $( P > 0 . 1 )$ ， Fu and Li's $F$ 为0.64，失配分布曲线为双峰曲线（图5)，观测值背离了期望值，违背了居群扩张模型。由此推断居群未发生过扩张而是处于动态平衡，这与叶绿体DNA的分析结果相一致。
+
+ITS数据分析显示异叶泽兰总的遗传多样性 $( H \mathfrak { t } )$ 为0.712，居群内平均遗传多样性( $\langle H \mathrm { s } \rangle$ ）为0.325，居群间遗传分化系数 $\boldsymbol { G } \mathrm { s t }$ 值为0.543、Nst值为0.370，Nst小于Gst。AMOVA分析结果表明，异叶泽兰 $5 8 . 4 4 \%$ 的遗传变异发生在居群间，其余 $4 1 . 5 6 \%$ 发生在居群内，固定指数 $F \mathrm { s t } = 0 . 5 8 4$ 。同时，统计分析显示异叶泽兰遗传距离和地理距离呈显著正相关( ${ \bf \dot { \rho } } _ { r = 0 . 4 3 }$ $P = 0$ 。
+
+![](images/17368b3e45a97e88980cab14bec67f806a2fd1e212a91cfca51e14d759dac333.jpg)  
+图1异叶泽兰叶绿体单倍型地理分布。
+
+Fig.1 Geographical distribution of combined cpDNA haplotypes of Eupatorium heterophyllum注：图中每个圆圈代表一种单倍型，圆圈的大小与单倍型的频率成正比，每一分支代表一次突变，黑色的小圆圈代表缺失单倍型（ $\mathbf { \dot { m } } \mathbf { v } ^ { \mathrm { ~ \ ~ } }$ 。下同。
+
+![](images/3043d5fa417c29e9f4c46aa2e9880900347fdb9c75489fa74a5d120b500e6f12.jpg)  
+图2异叶泽兰ITS基因型地理分布。  
+Fig.2 Geographical distribution of ITS genotypes of Eupatorium heterophyllum
+
+![](images/eafa07fc8ca58bebefb447766fee73d76065086cd04bbee3fdc73ab95adf1dbe.jpg)  
+图3叶绿体DNA联合分析的单倍型网状进化树Fig.3Network analysis of the combined cpDNA sequences
+
+Note: Each circle represents one haplotype,the size of circles corrsponds to the frequencyof each haplotype,each branch represents one mutation,and the black open circle represents hypothetical missing haplotype (mv).The same below.
+
+![](images/2fd7a3bd0fdf778e9b7509a93710ff37bf93173337735a2d7116b34495cd408b.jpg)  
+图4ITS序列网状进化树分析
+
+![](images/e27710b0ad86a8ef76c7376828f32f982b52bc088d9bc58df1014ef29b857d03.jpg)  
+Fig.4Network analysis of theITS sequences   
+图5叶绿体DNA序列数据的岐点分布（左）和ITS序列数据的岐点分布（右） Fig.5 Mismatch distribution for cpDNA data (left) and mismatch distribution for ITS data (right)
+
+# 3讨论
+
+# 3.1异叶泽兰的遗传多样性和遗传结构
+
+本研究中，我们对27个居群的 261个个体的三个cpDNA 片段及ITS 进行了测序和分析，三个cpDNA片段联合分析后共生成11个单倍型，ITS序列经PHASE 拆分后共生成 21个单倍型，表现出较高的单倍型多样性。在物种水平上，cpDNA 的核苷酸多态性 $( \pi )$ 为0.001 61，ITS 序列核苷酸多态性为0.00235。在菊科植物中，内蒙古革苞菊Tugarinoviamongolica 是菊科一个单种属植物，包含一变种 Tugarinovia mongolica var.ovatifolia，原变种分布在内蒙古北部地区，其卵叶变种分布在内蒙古南部。基于两个叶绿体 DNA 片段（psbA-trnH 和psbK-psbI）的数据分析表明，内蒙古革苞菊具有非常高的核苷酸多样性（ $\pi$ $= 0 . 0 0 9 2$ ）和单倍型多样性 $( H \mathrm { d } = 0 . 9 0 8 \ 6 )$ ，两个变种之间遗传分化明显(Zhao etal.,2019)。白菊木（Leucomeris decora）为菊科落叶小乔木，其 trnQ-rpsl6,rpll6 和 rpl32-trnL 联合数据的核苷酸多态性为 $\pi = 0 . 0 0 1 0 2$ ，而变异率相对较高的核基因片段GAPDH的 $\pi = 0 . 0 0 2 \ : 3 7$ （Zhao &Gong,2012）。鹿蹄橐吾（Ligularia hodgsonii）为中国-日本间断分布的菊科橐吾属植物，在中国主要是围绕四川盆地分布，其 23个居群的三个叶绿体片段联合分析(trnQ-5'rps16,trnL-rpl32和psbA-trnH)的核苷酸多态性 $\pi = 0 . 0 0 2 \ 9 9$ ，单倍型多态性为 $H \mathrm { d } =$ 0.847(Wang etal.,2013)。因此，与这些菊科植物相比，异叶泽兰物种水平的核苷酸多态性和单倍型多态性都相对较低。但是，在居群水平，ITS 数据显示四川盆地边缘的几个居群存在相对较高的单倍型多样性（表1，图2）。
+
+cpDNA单倍型数据显示居群水平总的遗传多样性（ $\mathrm { \Delta } H \mathrm { \ t } = 0 . 7 6 4 )$ 大于居群内平均遗传多样性（ $\mathrm { \Delta } H \mathrm { s } = 0 . 2 5 0 \rangle$ ，同样，ITS数据显示总的遗传多样性（ $\mathrm { \Delta } H \mathrm { { t } = 0 . 7 4 6 \dot { \mathrm { { \Omega } } } }$ ）也大于居群内平均遗传多样性 $\langle H \mathrm { s } = 0 . 3 8 2 \rangle$ 。AMOVA分析表明，异叶泽兰居群间遗传变异高于居群内（cpDNA：$F \mathrm { s t } = 0 . 6 5 5$ ；nITS: $F \mathrm { s t } = 0 . 5 8 4 )$ 。而Permut分析显示居群水平的遗传分化系数相对较高(cpDNA: $G \mathrm { s t } = 0 . 6 7 9$ ， $N \mathrm { s t } { = } 0 . 6 5 5$ ；nITS: $G \mathrm { s t } = 0 . 5 4 3$ ， $N \mathrm { s t } = 0 . 3 7 0 \AA$ 。Petit et al. （2005）曾统计了124种被子植物的属于母性遗传的分子标记遗传分化系数 $G \mathrm { s t }$ 平均值和77种被子植物的属于双亲遗传的分子标记遗传分化系数 $\boldsymbol { G } \mathrm { s t }$ 平均值。结果显示，属于母性遗传的遗传分化系数 $\boldsymbol { G } \mathrm { s t }$ 平均值为0.637，而属于双亲遗传的遗传分化系数 $\boldsymbol { G } \mathrm { s t }$ 值平均为0.184，异叶泽兰分化系数高于这两个值。以上数据都表明，异叶泽兰居群间存在较明显的遗传分化。然而，由于Nst值小于 $\boldsymbol { G } \mathrm { s t }$ 值，异叶泽兰的分布不具有明显的谱系地理结构（Pons&Petit,1996)。但是，从单倍型分布式样看，却存在着较明显的“甘肃-川西南-滇西北-贵州”和“滇中”两个相对分离的分布区，两个分布区都存在各自特有单倍型和主要单倍型。然而单倍型网状进化树显示，两个分布区所拥有的单倍型并没有各自形成两大谱系分支，同时两个分布区间也存在分布频率相对较低的共享单倍型。作为一种多年生菊科植物，异叶泽兰具有较强的适应能力，而种子具有较强的远距离传播能力，两分布区间应该存在较强的基因交流，这可能是导致异叶泽兰遗传多样性分布式样的主要原因。
+
+# 3.2异叶泽兰的居群历史动态
+
+谱系地理学研究的主要目的之一是推测第四纪冰期时某物种的避难所及冰后期分布范围的扩展（Avise,2000;Liu etal.,2012)。青藏高原东部及邻近的中国西南地区，分布着大量的古老种和新起源种，其中许多植物的分布范围在冰后期发生过扩张（Liuetal.,2012；Qiuet al.,2011),但也有未生扩张的物种,如偏花报春(Primula secundiflora）（Wang etal.,2008）。而异叶泽兰作为分布在青藏高原东部和横断山脉的物种，中性检验和失配分析表明其未发生过居群的扩张。
+
+冰期时的避难所往往会保留较高的遗传多样性和单倍型多样性，而单倍型分布能够反映一个物种的地理分布格局特征 (Hewitt,1996,2000;Petit et al.,2003)。根据溯祖理论，分布频率较高的，位于网状进化树中间位置的单倍型可能为较古老的单倍型，而居群特有单倍型可能是通过近期辐射分化衍生而来的较年轻的单倍型（Emerson etal.,2001)。依据 Network分析结果，异叶泽兰叶绿体DNA两个单倍型H1和H4以及ITS两个单倍型H1和H3分布的地理范围较广，且位于网状结构的内部位置，可能为古老单倍型（Templeton etal.,1992;Crandall& Templeton,1993)。其中，叶绿体 DNA 单倍型 H1和 ITS 的单倍型 H3 的广泛分布于甘肃-川西南-滇西北一带及贵州地区，而叶绿体DNA 单倍型 H4 和ITS 的单倍型 H1则分布于云南中部地区。由此推测，横断山区南部（川西南-滇西北）和云南中部可能是异叶泽兰在第四纪冰期尤其是末次冰盛期（LGM）时的两个避难所所在地。
+
+# 参考文献：
+
+LI XW,LI J,1993. A preliminary floristic study on the seed plants from the region of Hengduan Mountain [J]．Acta Bot Yunnan,15(3): 217-231.[李锡文和李捷，1993．横断山脉地区种子 植物区系的初步研究[J]．云南植物研究,15(3):217-231.]   
+LIN R,CHEN YL， SHI T,1985.Compositae (1） [M]// Flora Reipublicae Popularis Sinicae, Beijing:Science Press: 54-69.[林容，陈艺林，石铸，1985．中国植物志：第74 卷[M]．北 京：科学出版社:54-69.   
+GENGJI Z, LI Y, JIAL, et al., 2018. Phylogeography of Saxifraga tangutica Engl. (Saxifragaceae). Acta Bot Boreal-Occident Sin,38(2):370-380.[更吉卓玛，李彦，贾留坤等，2018．唐古特 虎耳草谱系地理学研究[J]．西北植物学报，38（2)：370-380.]   
+SUN H,2OO2.Evolution of Arctic-Teriary flora in Himalaya-Hengduan Mountain. Acta Bot Yunnan,24(6):671-688.[孙航，2002．北极-第三纪成分在喜马拉雅-横断山的发展及演化 [J]．云南植物研究，24（6)：671-688.]   
+YU H, ZHANG Y, 2O13. Advances in phylogeography of alpine plants in the Tibetan Plateau and adjacent regions [J].Acta Bot Boreal-Occident Sin,33(6): 1268-1278.[于海彬,张锂,2013. 青藏高原及其周边地区高山植物谱系地理学研究进展[J]．西北植物学报，33（6)： 1268-1278.]   
+AVISE JC，20o0. Phylogeography: the history and formation of species[M]. Cambridge, Massachusetts, London, England: Harvard University Press.   
+CHEN Y, TAKAYUKI K, HIND DJN, 2011. Tribe Eupatorieae. In: WU ZY, RAVEN PH, HOND DY,(eds.). Flora of China (Volume 2O-21). Beijing: Science Press； St. Louis: Missouri Botanical Garden Press: 879-891.   
+CRANDALL KA, TEMPLETON AR,1993.Empirical tests of some predictions from coalescent theory with applications to intraspecific phylogeny reconstruction [J]. Genetics，134(3): 959-969.   
+DOYLE JJ,DOYLE JL,1987. A rapid DNA isolation method for small quantities of fresh tissues [J]. Phytochem Bull,19: 11-15.   
+EXCOFFER L,LISHCHER HEL, 2010. Arlequin suite ver 3.5: A new series of programs to perform population genetics analyses under Linux and Windows [J]. Mol Ecol Resour, 10: 564-567.   
+EMERSON BC,PARADIS E, THEBAUD C,20O1. Revealing the demographic histories of species using DNA sequences [J]. Trends Ecol Evol,16:707-716   
+HEWITT GM,1996. Some genetic consequences of ice ages, and their role, in divergence and speciation [J]. Biol J Linn Soc, 58(3): 247-276.   
+HEWITT G, 2000. The genetic legacy of the Quaternary ice ages [J]. Nature, 405: 907-913.   
+ITO M, WATANABE K, KITA K, et al.， 2000. Phytogeography of Euapatorium (Eupatorieae, Asteraceae): Insights from sequence data of the nrDNA regions and cpDNA RFLP [J]. J Plant Res, 113: 79-89.   
+KING RM, ROBBINSON H, 1970. Eupatorium, a composite genus of Arcto-Tertiary distribution [J]. Taxon, 19: 769-774.   
+LIBRADO P,ROZAS J, 2009.DnaSP v5: A software for comprehensive analysis of DNA polymorphism data [J]. Bioinformatics, 25: 1451-1452.   
+LIU JQ, SUN YS, GE XJ, et al., 2012. Phylogeographic studies of plants in China: Advances in the past and directions in the future [J]. J Syst Evol, 50(4): 267-275.   
+PETIT RJ,AGUINAGALDE I, BEAULIEU JL,et al.,2O03. Glacial refugia: Hotspots but not melting pots of genetic diversity [J]. Science, 300(5625): 1563-1565.   
+PETIT RJ,DUMINIL J,FINESCHI S,et al.，2OO5.Comparative organization of chloroplast, mitochondrial and nuclear diversity in plant populations [J]. Mol Ecol, 14(3): 689-701.   
+PONS O,PETIT RJ，1996. Measuring and testing genetic diffrentiation with ordered versus unordered alleles [J]. Genetics,144(3): 1237-1245.   
+QIN YX, FU CX, COMES HP, 2011. Plant molecular phylogeography in China and adjacent regions: Tracing the genetic imprints of Quaternary climate and environmental change in the world's most diverse temperate flora [J]. Mol Phylogen Evol, 59:225-244   
+SAITO Y，MUKAI T, IWAMOTO Y,et al.， 2014. Germacranolides and their diversity of Eupatorium heterophyllum collected in P.R.China [J]. Chem Pharm Bull 62(11): 1092-1099.   
+SCHILLING EE, PANERO JL, COX PB,1999. Chloroplast DNA restriction site data support a narrowed interpretation of Eupatorium (Asteraceae) [J]. Plant Syst Evol, 219: 209-223.   
+SCHMIDT GJ, SCHILLING EE, 200. Phylogeny and biogeography of Eupatorium (Asteraceae: Eupatorieae) based on nuclear ITS sequence data [J]. Amer JBot, 87(5): 716-726.   
+SHAW J, LICKEY EB,BECK J, et al., 2OO5. The tortoise and the hare I: Relative utility of 21 noncoding chloroplast and sequences for phylogenetic analysis [J]. Amer J Bot, 92(1): 142-166.   
+SHAW J, LICKEY EB, SCHILLING EE, et al., 2007. Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: the tortoise and the hare III [J]. Amer JBot, 94(3): 275-288.   
+SWOFFORD DL, 2002. PAUP: phylogenetic analysis using parsimony ( and other methods), version 4.0 b10 [M]. Sunderland, MA: Sinauer Associates.   
+TEMPLETON AR,CRANDALL KA， SING CF, 1992. A cladistic analysis of phenotypic associations with haplotypes inferred from restriction endonuclease mapping and DNA sequence data. II. cladogram estimation [J]. Genetics,132(2): 619-633.   
+THOMPSON JD, GIBSON TJ, PLEWINAK F, et al., 1997. The Clustal X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools [J]. Nucleic Acids Res, 25: 487-4882.   
+WANG FY, GONG X, HU CM, et al., 2008. Phylogeography of an alpine species Primula secundiflora inferred from the chloroplast DNA sequence variation [J]. J Syst Evol, 46: 13-22.   
+WANG JF, GONG X, CHIANG YC, et al., 2013. Phylogenetic patterns and disjunct distribution in Ligularia hodgsonii Hook. (Asteraceae) [J]. J Biogeogr, 40: 1741-1754   
+WATANABE K, ITO M, YAHARA T, et al., 1990. Numerical analyses of karyotypic diversity in the genus Eupatorium (Compositae, Eupatorieae)[J]. Plant Syst Evol, 17O: 215-228.   
+WHITE TJ,BRUNS T,LEE S.，et al.，1990.Amplification and direct sequencing of fungi ribosomal RNA genes for phylogenetics [M]. In: Innis M, Gelfand D, Sninsky J, White T eds. PCR Protocols: a guide to methods and applications. San Diego: Academic Press, 315-322.   
+YU H,FAVRE A, SUI X, et al., 2O19. Mapping the genetic patterns of plants in the region of the Qinghai-Tibet Plateau: Implications for conservation strategies [J].Diver Distrib， 25: 310-324.   
+ZHAO YJ, GONG X, 2012. Genetic structure of the endangered Leucomeris decora (Asteraceae) in China inferred from chloroplast and nuclear DNA markers [J]. Conserv Genet, 13:271-281.   
+ZHAO Y， PAN B， ZHANG M，2019. Phylogeography and conservation genetics of the endangered Tugarinovia mongolica (Asteraceae） from Inner Mongolia, Northwest China [J]. PLoS ONE,14(2): e0211696.

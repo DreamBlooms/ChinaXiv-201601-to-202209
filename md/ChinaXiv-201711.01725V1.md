@@ -1,0 +1,198 @@
+# 活化腐植酸-尿素施用对小麦-玉米轮作土壤氮肥利用率及其控制因素的影响
+
+刘艳丽」丁方军²　张　娟³戚兴超」　谷端银²吴钦泉²李成亮」(1.土肥资源高效利用国家工程实验室/山东农业大学资源与环境学院泰安271018;2.山东省腐植酸高效利用工程技术研究中心/山东农业大学肥业科技有限公司泰安271000;3．山东省产品质量检验研究院济南250100)
+
+摘要腐植酸-尿素是近年来的一种新型有机无机复合肥料，其增产效应显著，但是在小麦-玉米轮作中该肥料的利用率和环境调控因素尚不清楚。本研究通过田间定位与室内培养试验，以不施肥处理(Control)和单施尿素处理(Urea)为对照，研究腐植酸-尿素直接掺混处理 $\mathrm { ( U { + } H A l \dot { \Omega } }$ 、腐植酸-尿素活化处理 $( \mathrm { U } { + } \mathrm { H A } 2 \$ )和腐植酸-尿素活化催化处理 $( \mathrm { U } { + } \mathrm { H A } 3 ^ { \cdot }$ )对小麦和玉米生长、土壤理化性质、氮肥利用率和土壤氮转化及土壤脲酶含量的影响。研究结果表明：活化腐植酸-尿素处理的小麦、玉米籽粒产量分别较Urea处理增产 $1 5 \% { \sim } 2 8 \%$ 和 $8 \% { \sim } 1 0 \%$ 。活化腐植酸-尿素施用显著地降低土壤容重、pH和土壤颗粒粒径的中位粒径，提高了土壤的比表面积、电导率、有机碳含量和矿质态氮含量。小麦季活化腐植酸-尿素处理下氮肥回收利用率较Urea 处理显著增加，增加幅度为 $3 7 \% { \sim } 9 1 \%$ ，玉米季的增加幅度为 $78 \% { \sim } 9 3 \%$ 。活化腐植酸-尿素处理下小麦和玉米的氮肥农艺利用率和偏生产力均较Urea 处理高。此外，回归分析表明活化腐植酸-尿素的氮肥当季回收利用率随土壤硝化比率、有机氮的矿化量及脲酶含量的增加而降低，而随土壤颗粒比表面积的增大而提高。本研究结果明确了腐植酸一尿素活化处理对小麦、玉米的增产效果较好，可改善土壤理化性质，其中腐植酸-尿素活化催化处理 $\mathrm { ( U { + } H A } 3 ^ { \cdot }$ ）的效果最好。研究结果为活化腐植酸-尿素肥料的深入研发与推广提供基础资料。
+
+关键词 活化腐植酸-尿素　小麦　玉米　产量　土壤理化性质　氮肥利用率中图分类号:S512.1; S158.3 文献标识码：A 文章编号：1671-3990(2016)10-1310-10
+
+# Effect of activated humic acid-urea on nitrogen use efficiency and its driving factors under wheat-maize rotation system
+
+LIU Yanli',DING Fangjun², ZHANG Juan³, QI Xingchao1, GU Duanyin², WU Qinquan², LI Chengliang1 (1.NationalEngineeringLaboratoryforEficientSoilandFertlerUtilation/CollgeofResourcesandEnvironment,Sandong AgriculturalUniversity,Tai'an27l8,China;2.EngineringTechnologyResearch CenterforEficientHumicAcidUilationin Shandong Province/FertilizerScience Tech.Co.,Ltd.,Shandong Agricultural University,Tai'an27o,China;3.handong Institute of Product Quality Inspection, Jinan 25o10o,China)
+
+AbstractHumicacid-urea isaninnovated fertilizerused widely inagricultural production inrecent years.However, understanding on nutrientuseeficiencyof humic acid-urea under wheat-maize rotationsystem andits driving factors has so farbeen limited.In this study,the effcts of activated humic acid-ureaon wheat and maize growth,soil physicochemical properties,nitrogenuseeficiency,soilnitrogenformsandcontents were investigated inbothfieldandincubationexperiments.
+
+Three activated humic acid-urea treatments used in the experiments included mixed humic acid and urea $\mathrm { ( U + H A l }$ ),activated humic acid-urea $( { \mathrm { U } } { + } { \mathrm { H A } } 2 ) ,$ and activated and catalyzed humic acid-urea ( $\mathrm { { U + H A } } 3 ^ { \cdot }$ ). For comparison with those urea treatments, no fertilizer application treatment (Control)and single urea application (Urea)were setup.Wheatand maize grain yields in $\mathrm { U } { + } \mathrm { H A } 2$ and $\mathrm { U } { + } \mathrm { H A } 3$ treatments were enhanced respectively by $1 5 \% - 2 8 \%$ and $8 \% - 1 0 \%$ , compared with Urea treatment. The application of activated humic acid-urea not only significantly reduced soil bulk density, $\mathfrak { p H }$ and center diameter of soil granule,butalsosignificantlyincreased soil specificsurfacearea,electrical conductivityorganiccarbonconcentrationand mineral nitrogen content.In wheat season,nitrogenrecovery eficiencieswith activated humic acid-urea treatments were markedly higher than that of Urea treatment. The rate of increase for wheat was $3 7 \% - 9 1 \%$ and that for maize was $78 \% - 9 3 \%$ ： The trends in nitrogen agronomic eficiencyand nitrogenpartial productivity were then same foractivated humic acid-urea treatments under wheat-maize rotation system.In addition,regresionanalysis showed that nitrogen recovery effciency decreased withincreasingsoilnitrification,soilorganicnitrogenmineralizationandsoilureaseactivity.However,itinreased with increasing soil specific surface area. In the study, $\mathrm { U } { + } \mathrm { H A } 3$ was the best treatment for crop yield, soil physicochemical properties,etc.,which was thereforerecommendedforapplication inagriculturalproduction.Theresultsofthe studyprovided the basis for the development and promotion of activated humic acid-urea used in agriculture.
+
+KeywordsActivated humicacid-urea;Wheat; Maize;Grain yield;Physical and chemical propertiesof soil; Nitrogen fertilizer use efficiency
+
+氮肥施用是农业生产中保持土壤肥力与作物产量的主要措施[1-3]，但是不合理施用等原因造成氮肥挥发、淋溶与径流损失，进而使氮肥利用率降低，因此提高氮肥利用率是当前农业与肥料工作者研究的重要课题[4-5]。目前通过新型肥料提升氮肥利用率引起了人们的广泛关注和认可[6-8]，氮肥与有机肥配合施用显著地提高了氮肥利用率[9-10]，以此为基础的新型肥料—腐植酸-尿素的研发与推广对提高氮肥利用率具有重要意义。
+
+腐植酸-尿素作为一种新型有机无机复合肥料，是腐植酸分子与尿素氮络合作用形成，可减缓尿素氮的释放速率进而提高其利用率[11-12]。有关腐植酸-尿素的施肥效应已开展了一定的研究。腐植酸-尿素肥料对玉米(Zeamayz)生长的试验表明，与普通尿素相比，腐植酸-尿素肥料抑制了土壤脲酶活性，延长了在玉米生长期内肥料的供氮时间，从而提高氮素的利用效率[13]。不同腐植酸施用量改善不同土壤小麦(Tritiumaestivum)生长和土壤养分含量的试验表明，中等用量对小麦生长和土壤养分含量具有较好的促进作用[14]。此外，腐植酸-尿素施用促进了土壤团粒结构的形成，有利于土壤保持氮素养分及作物对氮素的吸收，从而提高尿素氮的利用率[15]。截至目前，活化腐植酸-尿素施用土壤氮素转化及其对氮肥利用率的影响还鲜见报道。
+
+在腐植酸-尿素肥料的研发与推广过程中发现腐植酸-尿素肥料肥效的发挥与腐植酸的活化程度有关[16]。腐植酸活化过程使其游离的腐植酸含量增加，提高其施用效果与农用价值，不同活化方式下制备的腐植酸-尿素肥料的施肥效应还需要进一步研究。因此，本研究采用直接掺混、活化、活化催化处理的腐植酸-尿素肥料，以不施肥处理和单施尿素处理为对照，通过田间定位与室内培养试验，研究不同活化处理腐植酸-尿素施用后作物生长、土壤基本理化性质、氮素转化过程与氮肥利用率，探讨尿素氮肥利用率的变异特征及其控制因素。该结果将明确不同活化处理腐植酸-尿素肥料施用对提高氮肥利用率的贡献，并为该肥料的研发与推广提供支持资料。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+试验地设在山东省肥城农业示范园区(山东省泰安市肥城潮泉)，属暖温带大陆性半湿润季风气候年均降雨量为 $9 0 3 . 2 \ \mathrm { m m }$ 。供试土壤类型为砂壤质褐土。试验始于2012年小麦，耕作制度为小麦-玉米轮作制，小麦品种为‘山农 $0 5 3 6 ^ { , }$ 、玉米品种为‘山农$2 0 0 0 ^ { \cdot }$ 。试验中施用尿素 $( \ N 4 6 \% )$ 、过磷酸钙 $( \mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 6 \% )$ 和氯化钾 $( \mathrm { K } _ { 2 } \mathrm { O } 6 0 \%$ 。腐植酸经过尿素活化处理和活化催化处理后的游离腐植酸含量分别为 $1 8 . 2 \%$ 和$1 8 . 8 \%$ ，较未经处理的原始腐植酸(游离腐植酸含量为 $14 . 4 \%$ 提高了 $2 6 . 4 \%$ 和 $3 0 . 6 \%$ 。以上肥料及材料均由山东农业大学肥业科技有限公司提供。试验前土壤基本理化性质见表1。
+
+该试验在每季施氮量均为 $2 2 5 \mathrm { \ k g ( N ) ^ { \cdot } h m ^ { - 2 } }$ 的条件下设4个处理，以单施尿素处理(Urea)为对照，以腐植酸与尿素直接掺混处理为腐植酸-尿素处理$\mathrm { ( U { + } H A l }$ （总氮含量为 $2 7 . 9 \%$ )，另设腐植酸-尿素活化处理 $( { \mathrm { U } } { + } { \mathrm { H A } } 2 )$ 和腐植酸-尿素活化催化处理 $( { \mathrm { U } } { + } { \mathrm { H A } } 3 ) ,$ ：
+
+表1试验前土壤基本理化指标 Table 1Physicochemical characteristics of the tested soil   
+
+<html><body><table><tr><td>容重 Bulk density (g·cm-3)</td><td>pH (水) (HO)</td><td>有机碳 SOC (g:kg-1）</td><td>全氮 Total N （g:kg-1）</td><td>全磷 Total P （g:kg-1）</td><td>全钾 Total K （g:kg-1）</td><td>铵态氮 NH4-N (mg.kg-1)</td><td>硝态氮 NO3-N (mg·kg-1)</td><td>速效磷 Available P (mg·kg-1)</td><td>有效钾 Available K (mg·kg-1)</td><td>黏粒 Clay (%)</td></tr><tr><td>1.55</td><td>7.22</td><td>8.18</td><td>0.99</td><td>3.94</td><td>16.32</td><td>20.34</td><td>6.26</td><td>21.00</td><td>191.11</td><td>3.53</td></tr></table></body></html>
+
+同时设置不施氮肥处理为空白对照(Control)，共计5个处理。 $\mathrm { U } { + } \mathrm { H A } 2$ 活化处理是先将尿素与硫酸铵按$1 0 : 1$ 比例加热至熔融液化后，再按尿素量的 $6 5 \%$ 加入腐植酸，搅拌均匀，降温固化即为腐植酸-尿素活化处理，总氮含量为 $2 7 . 8 \text{‰}$ $\mathrm { U } { + } \mathrm { H A } 3$ 活化催化处理先将尿素与硫酸铵按总量 $1 0 : 1$ 比例混匀，加热至熔融液化后，再按尿素量的 $6 5 \%$ 加入腐植酸，搅拌均匀，置于超声波仪中搅拌超声处理使其均匀，降温固化即为活化催化处理，总氮含量为 $2 7 . 9 \text{‰}$ 在小麦季，所有处理中氮肥总用量的2/3做基肥，于2012年9月底撒施于地表然后翻耕；1/3在小麦灌浆期(2013年5月中旬)采用冲施方式进行追肥；在玉米季，所有处理中氮肥总用量的2/3做基肥，于2013年6月上旬撒施于地表然后翻耕，1/3在玉米喇叭口期采用撒施方式进行追肥。各处理的磷肥用量为 $1 3 5 \mathrm { \ k g ( P _ { 2 } O _ { 5 } ) ^ { . } h m ^ { - 2 } }$ ，钾肥用量为 $1 0 5 \mathrm { \ k g } ( \mathrm { K } _ { 2 } \mathrm { O } ) { \cdot } \mathrm { h m } ^ { - 2 }$ ，于 2012年9月底撒施于地表，然后翻耕。小麦于2012年10月21日播种，播种量 $2 0 2 . 5 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；玉米于2013年6月15日播种，密度为60000 株 $\cdot \mathrm { h m } ^ { - 2 }$ 。
+
+试验小区面积为 $3 0 ~ \mathrm { ~ m } ^ { 2 }$ ，随机区组排列，重复3次。小麦与玉米在整个生育期严格按照高产农田的田间管理措施执行，具体参照小麦高产优质高效栽培技术规程(DB37/T190—93)和夏玉米高产优质高效生产技术规程(DB37/T538—2005)。本研究的时间是2012年9月到2013年9月。
+
+# 1.2 样品采集与分析
+
+2013年小麦、玉米收获后晒干每个小区单独记籽粒产量、秸秆产量。小麦、玉米收获后，在每个小区内随机采集5个点的混合土壤样品，同时采集原状土壤样品，带回实验室并使其自然风干。土样风干后混合样品用于测定土壤养分指标，原状土样用于土壤物理性质的测定。
+
+土壤容重的测定采用环刀法；土壤pH采用蒸馏水溶解土样酸度计法测定；土壤电导率的测定利用电导率仪；土壤CEC的测定采用中性醋酸铵浸提法；土壤有机碳含量采用浓硫酸-重铬酸钾氧化外加热法测定；土壤全氮含量的测定用半微量凯氏法;土壤铵态氮和硝态氮含量用 $0 . 0 2 ~ \mathrm { m o l { \cdot } L ^ { - 1 } ~ C a C l _ { 2 } }$ 溶液浸提，流动分析方法测定；土壤脲酶含量测定采用比色法。植株样品粉碎后采用 $\mathrm { H } _ { 2 } \mathrm { S O } _ { 4 } { \mathrm { - } } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 联合消煮，利用凯氏法测定植株全氮含量，具体操作步骤参考鲁如坤主编的《土壤农化分析方法》[17]。土壤颗粒粒度分布利用激光粒度分布仪(BT-9300H型，丹东市百特仪器有限公司)测定，主要参数中位粒径也就是平均粒径D50，表示粒径分布中占 $50 \%$ 所对应的粒径，其大小反映土壤颗粒的主要组成；粒度分布的离散度反映土壤颗粒粒径分布的范围，利用$( \mathrm { D 9 0 - D 1 0 } ) / \mathrm { D } 5 0$ 来表征，其中D10 表示粒径分布中占 $10 \%$ 所对应的粒径，D90表示粒径分布中占 $90 \%$ 所对应的粒径。
+
+氮肥利用率根据作物产量与秸秆产量、籽粒和秸秆氮含量计算，具体计算公式如下[5]:
+
+氮肥回收利用率(RE， $0 \%$ )-(收获期施氮区地上部吸氮量-收获期不施氮区地上部吸氮量)/氮肥施用量 $\ : \times \ :$ $100 \%$ （204号 (1)
+
+氮肥偏生产率(PP, $\mathbf { k g } { \cdot } \mathbf { k g } ^ { - 1 } ) =$ 施氮区产量/氮肥施用量 (2)
+
+氮肥农艺利用率(AE， $\mathbf { k g } { \cdot } \mathbf { k g } ^ { - 1 }$ )=(施氮区籽粒产 量-不施氮区籽粒产量)/氮肥施用量 (3)
+
+# 1.3土壤有机氮(SON)矿化培养试验
+
+以不施肥处理的新鲜土样过 $2 ~ \mathrm { m m }$ 筛为供试土样，调整土壤含水量为田间持水量的 $6 5 \%$ ，按田间试验设置的肥料类型及用量的两倍均匀混入肥料，分别称取每种处理土样10g于 $1 0 0 ~ \mathrm { { \ m L } }$ 离心管中，管口盖上塑料薄膜以保持土壤水分，置于 $2 8 \mathrm { ~ \textdegree C }$ 培养箱中培养，每个处理15份。培养后第1d、3d、7d、14d和21d取样测定，每次取出每个处理的3个离心管，加入 $5 0 ~ \mathrm { m L } ~ 0 . 0 2 ~ \mathrm { m o l { \cdot } L ^ { - 1 } ~ C a C l _ { 2 } }$ 溶液，振荡1h后过滤，取滤液适量利用流动注射分析仪测定铵态氮和硝态氮含量。
+
+土壤有机氮矿化量以土样培养前后的矿质氮量(铵态氮与硝态氮之和)之差来计算。土壤有机氮矿化率 $( \% ) { = }$ 土壤氮素矿化量/土壤全氮量 $\times 1 0 0 \% ^ { [ 1 8 ] }$ 。
+
+硝化作用通过矿化过程中，铵态氮的转化计算得到。土壤硝化比率的计算公式如下：
+
+土壤硝化比率 $( \% ) =$ 硝态氮量 $\sqrt [ n ] { 6 5 }$ 质氮总量 $\times 1 0 0 \%$ (4)
+
+# 1.4 数据统计
+
+数据处理采用MicrosoftExcel2003进行；不同处理之间数据差异的统计分析利用SPSS17.0软件ANOVA 方差分析和LSD 差异显著性检验 $( P { < } 0 . 0 5 )$
+
+作图采用Origin8.5软件。
+
+# 2 结果与分析
+
+# 2.1不同施肥处理小麦玉米籽粒产量、秸秆产量与籽粒、秸秆氮含量
+
+作物籽粒产量是衡量施肥效应常用的指标，反映施肥的经济效益。不同施肥处理下小麦玉米籽粒产量均存在显著差异 $( P { < } 0 . 0 5 )$ (图1a)。小麦籽粒产量的变化范围是 $4 0 4 8 { \sim } 7 3 1 9 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，玉米籽粒产量为 $6 ~ 0 4 5 { \sim } 9 ~ 5 1 8 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ,$ 。腐植酸-尿素处理的小麦、玉米籽粒产量分别较Urea处理增产 $1 5 . 0 6 \% { \sim } 2 7 . 6 9 \%$ /$7 . 8 4 \% { \sim } 9 . 5 5 \%$ ，较Control处理增产 $6 2 . 9 2 \% { \sim } 8 0 . 8 1 \% .$ $5 4 . 9 7 \% { \sim } 5 7 . 4 4 \%$ (图1A)。Urea处理的小麦、玉米籽粒产量与Control处理存在显著增产效果。对于不同腐植酸-尿素肥料而言， $\mathrm { U } { + } \mathrm { H A } 3$ 处理小麦籽粒产量较其他两种活化处理的存在显著提高，增产幅度为$\mathrm { U } { + } \mathrm { H A } 2$ 处理的 $6 . 3 2 \%$ 、 $\mathrm { \Delta U { + } H A l }$ 处理的 $10 . 9 8 \text{‰}$ （204号
+
+异规律相同，玉米秸秆产量范围是 $6 \ 1 3 3 { \sim } 9 \ 2 2 2 \ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 与其产量相近。腐植酸-尿素处理的玉米秸秆产量最高，显著高于Urea处理和Control处理，但是不同腐植酸-尿素活化处理之间差异不显著(图 1B)。小麦秸秆产量在不同处理间的差异显著，大小依次为 $\mathrm { U + H A 3 > U + H A 2 > U + H A 1 }$ 、Urea $\triangleright$ Control。小麦秸秆产量范围是 $2 \ 2 8 3 { \sim } 5 \ 4 0 0 \ \mathrm { k g { \cdot } h m } ^ { - 2 }$ ，较玉米秸秆产量有显著减少(图1B)。
+
+![](images/346700a7a1d539ed55437dc3fc0dca22f74b480184decde373461f1ec75dcdee.jpg)  
+玉米秸秆产量与籽粒产量在不同施肥处理间的变
+
+不同处理小麦籽粒中氮含量范围是 $1 4 . 4 { \sim } 2 3 . 9 \mathrm { g } \mathrm { \cdot } \mathrm { k g } ^ { - 1 }$ 秸秆中氮含量范围是 $2 . 7 { \sim } 5 . 6 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。不施肥处理显著低于施肥处理。 $\mathrm { U } { + } \mathrm { H A } 2$ 和 $\mathrm { U } { + } \mathrm { H A } 3$ 处理的小麦籽粒全氮含量显著高于 $\mathrm { U } { + } \mathrm { H A } 1$ 和 Urea 处理(图 2A)。与小麦相比，玉米籽粒中氮含量显著地降低，范围为 $1 0 . 6 { \sim } 1 3 . 3 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。玉米秸秆中氮含量范围是 $4 . 6 \sim$ $7 . 0 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，较小麦秸秆高，尤其是腐植酸-尿素活化处理的(图2B)。玉米籽粒与秸秆中氮含量在不同施肥处理间的差异不显著，但均显著高于Control处理(图2B)。
+
+![](images/09dc3a23b6053ad5f1228c2d1fbc3a40d96d1e81ff01cd6cf4b0e7540d539568.jpg)  
+图1不同施肥处理对小麦、玉米籽粒产量(A)和秸秆产量(B)的影响 Fig.1Grain yield (A)and straw yield (B)of wheat and maize under different fertilization treatments Control为空白处理;Urea为单施尿素处理; $\mathrm { U } { + } \mathrm { H A } 1$ 为腐植酸与尿素直接掺混处理; $\mathrm { \ U { + } H A } 2$ 为腐植酸-尿素活化处理; $\mathrm { U } { + } \mathrm { H A } 3$ 为 腐植酸-尿素活化催化处理。图中柱上字母不同表示不同施肥处理间差异达 $P { < } 0 . 0 5$ 显著水平，下同。Control: free N fertilizer treatment; Urea:urea treatment; $\mathrm { \Delta U { + } H A l }$ : direct mixture of humic acid and urea; $\mathrm { U } { + } \mathrm { H A } 2$ :activated humic acid-urea; $\mathrm { U } { + } \mathrm { H A } 3$ :activated and catalyzed humic acid-urea. Different letters above the column show significant difference at $P < 0 . 0 5$ among fertilization treatments in the figure.The same below.   
+图2不同施肥处理小麦(A)、玉米(B)籽粒与秸秆中全氮含量g.2Total nitrogen contents in grain and straw of wheat(A)and maize (B)under different fertilization treatmen
+
+# 2.2不同施肥处理土壤基本理化性质
+
+小麦、玉米两季作物种植后，3种腐植酸-尿素处理土壤容重较Control处理均显著降低，但处理间差异不显著。土壤pH 值在腐植酸-尿素处理间的差异不显著，均较Control处理和Urea处理显著降低(表2)。腐植酸-尿素处理土壤电导率显著高于Control处理，腐植酸-尿素处理间差异不显著，其中 $\mathrm { U } { + } \mathrm { H A } 3$ 处理土壤电导率比Urea处理显著提高。不同施肥处理的土壤有机碳含量范围是 $8 . 1 8 { \sim } 1 0 . 5 2 ~ \mathrm { g { \cdot } k g ^ { - 1 } }$ ，不同处理间的变异规律与土壤电导率相同。土壤矿质态氮含量在不同处理间的差异显著，处理间的大小规律为 $\mathrm { U } { + } \mathrm { H A } 3 { > } \mathrm { U } { + } \mathrm { H A } 2 .$ 、U+HA1>Urea>Control。Control处理的土壤有效磷含量较施氮肥处理显著降低，然而施氮肥处理间的差异不显著。腐植酸-尿素处理土壤速效钾含量较空白处理显著增加，但Urea处理与Control处理和活化腐植酸-尿素处理间的差异均不显著。
+
+表2玉米收获后不同施肥处理土壤基本理化指标  
+Table 2Physicochemical characteristics of soil with different fertilization treatments   
+
+<html><body><table><tr><td>处理 Treatment</td><td>容重 Bulk density (g.cm-3)</td><td>pH</td><td>电导率 EC (μS·cm-1)</td><td>土壤有机碳 SOC (g·kg-1)</td><td>矿质态氮 Mineralized N (mg·kg-1)</td><td>速效磷 Available P (mg·kg-1)</td><td>有效钾 AvailableK (mg:kg-1)</td></tr><tr><td>Control</td><td>1.55±0.01a</td><td>7.23±0.01a</td><td>81.97±3.52c</td><td>8.18±0.87c</td><td>26.60±0.67d</td><td>21.00±0.99c</td><td>191.11±10.55b</td></tr><tr><td>Urea</td><td>1.54±0.03ab</td><td>7.10±0.06a</td><td>93.47±5.16bc</td><td>8.96±0.26bc</td><td>32.42±0.33c</td><td>36.69±1.28ab</td><td>214.52±6.69ab</td></tr><tr><td>U+HA1</td><td>1.49±0.01abc</td><td>6.93±0.02b</td><td>98.60±4.89ab</td><td>10.52±0.20a</td><td>40.43±0.79b</td><td>42.19±4.08a</td><td>234.79±4.03a</td></tr><tr><td>U+HA2</td><td>1.42±0.02c</td><td>6.91±0.05b</td><td>102.53±18.51ab</td><td>9.09±0.16ab</td><td>42.11±0.19b</td><td>32.59±2.36b</td><td>227.80±13.64a</td></tr><tr><td>U+HA3</td><td>1.47±0.03bc</td><td>6.86±0.07b</td><td>111.50±21.57a</td><td>9.66±1.09ab</td><td>44.30±0.50a</td><td>38.72±0.69ab</td><td>232.69±7.01a</td></tr></table></body></html>
+
+土壤颗粒粒径分布结果显示，不同施肥处理显著地影响土壤颗粒粒径的中位粒径 D50 大小(图 3),中位粒径颗粒大小反映土壤颗粒的主要组成，其大小变异规律为 $\mathrm { U + H A } 3 ( 2 3 . 5 ~ \mu \mathrm { m } ) < \mathrm { U + H A } 2 ( 3 0 . 5 ~ \mu \mathrm { m } ) <$ $\mathrm { U + H A 1 ( 3 5 . 6 ~ \textmu m ) < C o n t r o l ( 4 7 . 4 ~ \textmu m ) < U r e a ( 5 9 . 3 ~ \textmu m ) _ { o } }$ 采用 $( \mathrm { D 9 0 - D 1 0 } ) / \mathrm { D } 5 0$ 表征土壤颗粒粒径分布的范围，不同施肥处理土壤颗粒粒径分布范围的顺序分别为
+
+U+HA3(7.11)、U+HA2(6.62)、U+HA1(5.07)、Urea(3.29)Control(1.66)，说明施肥扩大了土壤颗粒的粒径分布范围，且不同腐植酸-尿素活化处理比Urea处理的影响更大。施肥处理显著提高了土壤颗粒的比表面积(图3)，不同腐植酸-尿素活化处理比Urea处理有显著的增加， $\mathrm { U } { + } \mathrm { H A } 3$ 处理比其他活化处理的效果更强。
+
+A ←Cretrol D90 B a b h U+HA1   
+200 U+HA2 1200   
+150 \*U+HA3 D50 800   
+100 C D10 400 d   
+50 ！   
+0L 3610162550 7584909798 ControlUreaU+HA1 U+HA2 U+HA3 累积百分数Accumulation percentage $( \% )$ 施肥处理Fertilizationtreatment
+
+# 2.3 不同施肥处理小麦、玉米收获后土壤不同形态氮含量
+
+小麦收获后 $\mathrm { \Delta U { + } H A 1 }$ 处理土壤硝态氮含量显著高于Urea处理，但是 $\mathrm { \Delta } \mathrm { U } { + } \mathrm { H A } 2$ / $\mathrm { U } { + } \mathrm { H A } 3$ 与Urea处理间差异不显著，且以Control处理最低，与施肥处理间的差异显著(表3)。小麦收获后所有处理土壤铵态氮与土壤全氮含量间的差异不显著。与小麦收获后土壤氮含量相比，玉米收获后不同形态土壤氮含量在不同处理间的差异较显著。土壤硝态氮含量以Control处理最低，其次为Urea处理，腐植酸-尿素处理较高。不同活化处理中，玉米收获后 $\mathrm { U } { + } \mathrm { H A } 2$ 处理土壤硝态氮含量较其他两种活化处理有显著的降低，但其土壤铵态氮含量较高，与 $\mathrm { U } { + } \mathrm { H A } 3$ 处理之间没有显著差异，较 $\mathrm { U } { + } \mathrm { H A } 1$ 处理存在显著的升高(表3)。土壤矿质氮含量在不同处理间的差异显著，大小规律为 $\mathrm { U } { + } \mathrm { H A } 3 { > } \mathrm { U } { + } \mathrm { H A } 2$ 、U+HA1>Urea>Control(表3)。
+
+表3小麦、玉米收获后不同施肥处理土壤氮形态及含量  
+Table3Contents of soil nitrogen fractions under differentfertilization treatments after wheat and maize harvest   
+
+<html><body><table><tr><td rowspan="2">施肥处理 Fertilization treatment</td><td colspan="3">小麦收获后 After wheat harvest</td><td colspan="3">玉米收获后 After maize harvest</td></tr><tr><td>硝态氮 NO3-N (mg:kg-1)</td><td>铵态氮 NH4-N (mg·kg-1)</td><td>矿质氮 Mineralized-N (mg·kg-1)</td><td>硝态氮 NO3-N</td><td>铵态氮 NH4-N</td><td>矿质氮 Mineralized-N</td></tr><tr><td>Control</td><td>7.19±0.23c</td><td>20.60±2.33a</td><td>27.79±2.12a</td><td>(mg:kg-1) 6.26±0.10d</td><td>(mg·kg-1) 20.34±0.60c</td><td>(mg·kg-1) 26.60±0.67d</td></tr><tr><td>Urea</td><td>9.22±0.51b</td><td>19.72±1.63a</td><td>28.93±1.96a</td><td>9.71±0.39c</td><td>22.70±0.35b</td><td>32.42±0.33c</td></tr><tr><td>U+HA1</td><td>11.05±0.16a</td><td>20.58±1.19a</td><td>31.63±1.24a</td><td>19.73±0.24a</td><td>20.70±0.72c</td><td>40.43±0.79b</td></tr><tr><td>U+HA2</td><td>10.26±0.61ab</td><td>23.48±2.21a</td><td>33.74±2.81a</td><td>17.99±0.05b</td><td>24.12±0.16ab</td><td>42.11±0.19b</td></tr><tr><td>U+HA3</td><td>9.69±0.06b</td><td>18.26±2.91a</td><td>27.95±2.97a</td><td>19.59±0.17a</td><td>24.71±0.51a</td><td>44.30±0.50a</td></tr></table></body></html>
+
+# 2.4不同施肥处理土壤氮素矿化与硝化比率
+
+不同施肥处理土壤脲酶活性存在显著差异(图 4)。以Urea处理的土壤脲酶活性最高，与Control处理、$\mathrm { U } { + } \mathrm { H A } 2$ 、 $\mathrm { U } { + } \mathrm { H A } 3$ 处理差异显著。 $\mathrm { U } { + } \mathrm { H A } 3$ 处理土壤脲酶活性比其他两种活化处理低，但3种活化处理间的差异不显著(图4)。Control处理土壤脲酶活性与$\mathrm { U } { + } \mathrm { H A } 3$ 处理的差异不显著。
+
+空白处理土壤有机氮的矿化比率随培养时间的增加而减小。培养初期不同施肥处理间土壤有机氮的矿化比率差异不显著，随着培养时间的延长，Urea处理土壤有机氮的矿化比率较其他处理显著增加，到培养结束以Urea处理土壤有机氮矿化比率最高，达 $3 . 7 9 \%$ ，其次是 $\mathrm { \Delta U { + } H A l }$ 处理为 $2 . 9 8 \%$ ，其他处理土壤有机氮的矿化比率较低且处理间的差异不显著(图5A)。土壤有机氮的累积矿化量与矿化比率有相同的变化规律(图 5B), $\mathrm { U r e a } { > } \mathrm { U } { + } \mathrm { H A } 1 { > } \mathrm { U } { + } \mathrm { H A } 3$ 、 $\mathrm { U } +$ HA2、Control。土壤有机氮的累积矿化量范围为 $2 3 . 0 3 \sim$ $3 7 . 3 6 ~ \mathrm { m g { \cdot k g } ^ { - 1 } }$ 。此结果表明，活化处理和催化活化处理腐植酸-尿素肥料的施用显著抑制了土壤有机氮
+
+矿化过程， $\mathrm { \Delta U { + } H A l }$ 处理对有机氮矿化作用抑制较弱，但其矿化量低于Urea处理。对土壤有机氮矿化比率相关的影响因子进行相关分析，结果表明土壤有效磷含量与土壤有机氮矿化比率具有正相关关系，相关系数为0.4559。这一结果与李辉信等[18的研究相一致，土壤有效磷是土壤微生物活动的主要营养元素，对土壤有机氮的矿化作用具有促进作用。
+
+![](images/fd48889ec0dab2b630743de358e93b4386b53e6ecd666675608b96e6e16f50c9.jpg)  
+图4不同施肥处理的土壤脲酶活性 Fig.4Soil urease activities under different fertilization treatments
+
+![](images/0e3ba5288a7ecfec63a02d7099ea78a5c1bf3645d5141a0d93615c24b0027451.jpg)  
+图5不同施肥处理土壤有机氮的矿化比率(A)和累积矿化量(AQ)(B) Fig.5Soilorganic nitrogen mineralizationrate(A)andaccmulativequantity(AQ)(B)underdifferent fertilization treatments
+
+不同施肥处理土壤硝化比率随培养时间的延长而升高，于培养后期趋于稳定(图6)。所不同的是Urea处理土壤硝化比率在培养初期比其他处理的升高幅度明显提高，随培养时间的延长其土壤硝化比率比其他处理均高，最终达 $84 \text{‰}$ Control处理士壤硝化比率处于最低水平，为 $53 \text{‰}$ 与Urea处理相比,活化腐植酸-尿素处理降低了土壤的硝化比率，幅度达Urea处理的 $2 4 \% \sim 2 9 \%$ 0
+
+![](images/fc0f6252e2d3a40e10b59b8164ac22e593b5941bcd28b083fd152078f6a57b93.jpg)  
+图6不同施肥处理土壤硝化比率 Fig.6Soil nitrification rates under different fertilization treatments   
+图7小麦(A)、玉米(B)不同施肥处理氮肥利用率Fig.7Nitrogen use eficiency in different fertilization treatments for wheat (A)and maize (B)
+
+# 2.5 小麦玉米不同施肥处理氮肥利用率
+
+氮肥回收利用率反映了作物对施入土壤中肥料氮的回收效率。本研究中小麦Urea处理氮肥回收利用率为 $3 2 . 9 1 \%$ ，腐植酸-尿素处理的氮肥回收利用率显著高于Urea处理, $\mathrm { U } { + } \mathrm { H A } 2$ 和 $\mathrm { U } { + } \mathrm { H A } 3$ 处理的氮肥回收利用率分别比 $\mathrm { \Delta U { + } H A l }$ 处理提高 $20 \%$ 和 $3 9 \%$ (图7A)。玉米Urea处理氮肥回收利用率为 $2 2 . 9 1 \%$ 显著低于腐植酸-尿素处理。不同活化处理腐植酸-尿素间的差异不显著，大小范围是 $4 0 . 8 2 \% \sim 4 4 . 2 2 \%$ (图7B)，分别比Urea处理提高 $78 \text{‰}$
+
+氮肥偏生产力是指单位投入的肥料氮所能生产的作物籽粒产量,小麦Urea处理偏生产力为 $2 5 . 4 8 \mathrm { k g } { \cdot } \mathrm { k g } ^ { - 1 }$ 腐植酸-尿素处理 $\mathrm { U } { + } \mathrm { H A } 1$ 、 $\mathrm { U } { + } \mathrm { H A } 2$ 和 $\mathrm { U } { + } \mathrm { H A } 3$ 分别比单施尿素处理提高 $1 5 \%$ 、 $20 \%$ 和 $2 8 \%$ （图7A)。玉米Urea 处理为 $3 8 . 6 1 ~ \mathrm { { \ k g { \cdot k g } ^ { - 1 } } }$ ，腐植酸-尿素处理比Urea处理提高 $8 \% { \sim } 1 0 \%$ ，但腐植酸-尿素处理间差异不显著。玉米氮肥偏生产力比小麦高，是因为玉米产量显著高于小麦产量(图1)。
+
+氮肥农艺利用率是指单位施氮量所增加的作物籽粒产量，本研究中不同处理间小麦氮肥农艺利用率差异显著，Urea处理氮肥农艺利用率最低，为$7 . 4 8 ~ \mathrm { { k g } { \cdot k g } ^ { - 1 } }$ ， $\mathrm { U } { + } \mathrm { H A } 3$ 处理最高，为 $1 4 . 5 4 ~ \mathrm { k g { \cdot k g } ^ { - 1 } }$ (图7A)。 $\mathrm { U } { + } \mathrm { H A } 3$ 处理与 $\mathrm { U } { + } \mathrm { H A } 2$ 处理间的差异不显著，比 $\mathrm { \Delta U { + } H A l }$ 处理有显著增加。玉米所有处理的氮肥农艺利用率均比小麦季高，但活化处理间的差异不显著，均比Urea 处理显著提高(图7B)。
+
+■回收利用率RE $( \% )$ （20 □偏生产率PP $( \mathbf { k g \cdot k g } ^ { - 1 } .$ ）■农艺利用率AE(kg·kg-1)rei 70605040 a丙 aA aAb丙A A A3020 丙B 舍 出 b ab 出 a 20 壬 b a a aC 1010N0 0Urea U+HA1 U+HA2 U+HA3 Urea U+HA1 U+HA2 U+HA3施肥处理Fertilization treatment
+
+# 2.6 不同施肥处理氮肥利用率与其他相关指标间的联系
+
+经回归分析表明，土壤氮肥回收利用率分别与土壤硝化比率、土壤有机氮的矿化量和土壤脲酶含量呈显著的负线性相关关系(表4)。土壤颗粒比表面积与土壤氮肥回收利用率呈正线性相关关系。由此说明氮肥回收利用率随土壤硝化比率、土壤有机氮矿化量和土壤脲酶含量的增加有降低的趋势，随土壤颗粒比表面积增加有增加的趋势(表4)。
+
+表4不同施肥处理氮肥回收利用率与其他相关指标间的回归关系 Table 4Regression analysis ofNrecovery eficiency and other soil indexes in different fertilization treatments   
+
+<html><body><table><tr><td>因变量 Dependent variable (y)</td><td>自变量 Independent variable (x)</td><td>回归方程 Regression equation</td><td>R²</td></tr><tr><td>氮肥回收利用率 Recovery efficiency of nitrogen</td><td>土壤硝化比率 Soil nitrification rate</td><td>y=-0.44x+97.42</td><td>0.939 6</td></tr><tr><td rowspan="4">fertilizer</td><td>土壤有机氮的矿化量</td><td>y=-0.47x+51.42</td><td>0.8652</td></tr><tr><td>Mineralized quantity of soil organic nitrogen</td><td></td><td></td></tr><tr><td>土壤脲酶活性 Soil urease activity</td><td>y=-2.97x+571.94</td><td>0.993 6</td></tr><tr><td>土壤颗粒比表面积 Soil particle specific surface</td><td>y=39.16x-603.58</td><td>0.895 4</td></tr></table></body></html>
+
+# 3讨论
+
+本研究中 3 种活化腐植酸-尿素处理的小麦籽粒产量较Urea处理增产 $1 5 . 0 6 \% { \sim } 2 7 . 6 9 \%$ ，玉米籽粒产量则提高了 $7 . 8 4 \% { \sim } 9 . 5 5 \%$ 。Urea处理的小麦、玉米籽粒产量较空白处理存在显著增产效果。李兆君等[13]也取得了类似研究结果，即施用腐殖酸长效尿素显著提高了玉米籽粒产量。其原因归结于腐殖酸长效尿素在玉米生长前期抑制了土壤中脲酶活性，向土壤环境供氮的速度基本与玉米生长发育需氮的速度相一致，另外可提高玉米不同生育期叶片叶绿素含量和光合作用强度。Tahir等[14]发现，腐殖酸施用量为 $6 0 \ \mathrm { m g \cdot k g ^ { - 1 } }$ (土壤)时，显著地促进了小麦的株高、鲜根重和干物质的量，同时也提高了植株对氮的吸收量，在非石灰性土壤上这一现象尤为显著，主要是因为腐殖酸可以络合土壤中非有效态的养分，并调节土壤的 $\mathrm { \ p H } _ { \circ }$
+
+本研究发现，腐植酸-尿素施用后可显著降低土壤容重和 $\mathfrak { p H }$ ，提高了土壤电导率、土壤有机碳含量和矿质态氮含量(表2)，另外，还降低了土壤颗粒粒径的中位粒径D50，提高了土壤颗粒粒径分布的范围和土壤的比表面积(图3)。此外，较Urea处理,腐植酸尿素施用显著地降低了土壤脲酶活性，说明腐植酸的存在延缓了尿素的水解与转化，间接地延长尿素的有效性从而促进作物的生长。 $\mathrm { U } { + } \mathrm { H A } 2$ 和$\mathrm { U } { + } \mathrm { H A } 3$ 处理显著抑制了土壤有机氮矿化过程， $\mathsf { U } +$ HA1处理对有机氮矿化作用抑制较弱(图5)。许多学者[11-12,19]也得到了类似的研究结果，即腐植酸施用降低了土壤的供氮速率，其原因是腐植酸与尿素的络合作用降低了氮素养分的释放速率和土壤脲酶活性。上述因素均表明，腐植酸尿素的施用改善了土壤物理化学性质，减缓了尿素等氮肥形态的转化，提高了土壤对不同氮素形态的吸储和释放能力(表 3),使得肥效期延长，肥料利用率提高，最终提高作物产量。
+
+本研究中应用3种肥料利用率指标研究氮肥利用率，因为不同利用率指标反映不同的施肥效应[16,20],肥料回收利用率是一个反映作物对肥料利用状况的综合指标，它集中表现了影响肥料利用率的多种因素，如土壤性质、作物特征、耕作模式、管理方式以及肥料的用量、种类和施肥时间[4-5,20-22]。由于施肥技术和土壤肥力状况等其他因素相同，因此，施肥处理对氮肥利用率存在显著的影响(图7)。腐植酸-尿素处理氮肥回收利用率较Urea处理显著增加，增加幅度为 $3 6 . 7 3 \% { \sim } 9 1 . 4 3 \%$ 腐植酸-尿素活化处理对氮肥利用率也存在不同的影响，与尿素与腐植酸直接掺混处理相比，腐植酸-尿素活化催化处理对氮肥回收利用率提高具有更好的促进作用。该研究结果主要的影响因素在于活化处理腐植酸-尿素是有机无机混合肥料，已有的研究表明有机无机肥料配合施用可以提高无机肥料的利用率[8-9]。另外，不同活化处理对氮肥回收利用率的提高效应可能在于不同活化处理游离腐植酸含量的差异造成的，腐植酸经过尿素活化处理和活化催化处理后的游离腐植酸含量分别为 $1 8 . 2 \%$ 和 $1 8 . 8 \%$ ，较未经处理的原始腐植酸(游离腐植酸含量 $1 4 . 4 \%$ 提高了 $2 6 . 4 \%$ 和$30 . 6 \text{‰}$ （204号
+
+本研究中 $\mathrm { U } { + } \mathrm { H A } 1$ / $\mathrm { U } { + } \mathrm { H A } 2$ 和 $\mathrm { U } { + } \mathrm { H A } 3$ 处理的氮肥回收利用率在当季小麦上表现比较明显，分别为$45 \%$ 、 $54 \%$ 和 $63 \%$ ，高于张福锁等[5]报道的山东、山西地区(2001—2005年)小麦氮肥回收利用率平均值$40 . 5 \%$ 。本研究中单施尿素处理氮肥回收利用率为$3 2 . 9 1 \%$ ，低于上述报道的氮肥回收利用率平均值。造成结果差异的原因在于该报道中氮肥与磷肥、钾肥配合施用，且多次追施氮肥。此结果位于国际报道粮食作物适宜的氮肥回收利用率范围 $30 \text{‰}$ $5 0 \% ^ { [ 2 1 ] }$ 。本研究中所有处理玉米氮肥回收利用率均低于小麦，单施尿素处理仅为 $2 2 . 9 1 \%$ ，腐植酸-尿素处理为 $41 \% \sim 4 4 \%$ ，活化处理间的差异不显著，可能是由于上季小麦秸秆还田使土壤有效氮含量升高导致氮肥的施肥效应不显著[23]。不同处理氮肥回收利用率差异显著的原因主要在于不同施肥处理影响土壤氮素的转化过程与不同形态氮含量及其他土壤性质，氮肥回收利用率与相关影响因素的回归分析表明，土壤的硝化比率、有机氮的矿化量与土壤脲酶含量均对氮肥回收利用率具有负面影响。活化处理腐植酸-尿素氮肥回收利用率较高，可能的原因为：1)腐植酸尿素施用改善了土壤的理化性质，例如土壤容重、土壤比表面积和土壤有机碳含量等，提高了土壤对不同形态氮的保持能力；2)由于腐植酸尿素处理抑制了土壤脲酶活性，尿素的分解速率降低(图4)，使尿素的转化与作物生长需氮规律趋于一致；3)腐植酸尿素活化处理均显著抑制土壤有机氮矿化速率和硝化比率(图5和图6)，这与 Sharif等[24]的研究结果类似。综上所述，腐植酸尿素延长了尿素的有效性，从而提高其利用率。氮肥回收利用率随土壤颗粒比表面积的增加而增大，可能是由于土壤颗粒比表面积的增加，促进对土壤氮素的吸附与保持，减少土壤氮素的流失，使作物对氮素的吸收利用增加，从而提高氮素的回收利用率。
+
+土壤氮肥利用率的提高促进作物产量的形成。本研究中尽管土壤铵态氮、硝态氮含量在活化腐植酸-尿素处理间的差异不显著，但土壤矿质态氮含量在玉米收获后不同处理间的差异显著(表3)，并与作物产量之间存在一致的变异特征。本研究不同活化处理腐植酸-尿素中游离腐植酸含量存在差异，外源有机碳进入土壤促进土壤有机碳的矿化过程使土壤有效养分含量提高[25]。但是氮肥的回收利用率与土壤有机氮的矿化量呈负线性相关关系，可能是由于活化腐植酸尿素的添加抑制脲酶活性和土壤硝化比率，最终使尿素的分解速率降低造成的。本研究未在作物生育期对肥料的释放特征进行监测研究，需要在以后的工作中继续开展该方面的研究。
+
+# 4结论
+
+腐植酸-尿素处理的小麦、玉米籽粒产量分别较Urea处理增产 $1 5 \% { \sim } 2 8 \%$ 和 $8 \% { \sim } 1 0 \%$ ，较Control处理增产 $6 3 \% { \sim } 8 1 \%$ 和 $5 5 \% { \sim } 5 7 \%$ 。其中腐植酸-尿素活化催化处理， $( { \mathrm { U } } { + } { \mathrm { H A } } 3 ) ,$ 小麦籽粒产量比其他两种活化处理有显著提升，增产幅度为 $\mathrm { \ U { + } H A } 2$ 处理的$6 \%$ 、腐植酸与 $\mathrm { \Delta U { + } H A l }$ 处理的 $11 \%$ 。不同施肥处理间小麦、玉米秸秆产量的变异趋势与籽粒产量的相似。活化腐殖酸-尿素在小麦上的施用效果显著高于玉米。
+
+3种腐植酸-尿素处理均显著降低土壤硝化比率、有机氮矿化量及脲酶含量，提高了土壤颗粒的比表面积。腐植酸-尿素处理显著提高了氮肥回收利用率、氮肥农艺利用率和偏生产力，其中以腐植酸-尿素活化催化处理 $( { \mathrm { U } } { + } { \mathrm { H A } } 3 )$ 效果最好。
+
+# 参考文献 References
+
+[1]刘恩科，赵秉强，胡昌浩，等．长期施氮、磷、钾化肥对玉 米产量及土壤肥力的影响[J]．植物营养与肥料学报，2007, 13(5): 789-794 Liu E K,Zhao B Q,Hu C H,et al.Effects of long-term nitrogen,phosphorus and potassium fertilizer applications on maize yield and soil fertility[J].PlantNutritionandFertilizer Science,2007,13(5): 789-794   
+[2]刘占军，李书田，周卫，等．不同施氮方式对春玉米产量、 氮素吸收及经济效益的影响[J].中国土壤与肥料，2012(3): 59-64 Liu Z J,Li S T,Zhou W,et al.Effects of various nitrogen managements on grain yield,nitrogen uptake and economic benefits of spring maize in Northeast China[J]. Soil and Fertilizer Sciences in China,2012(3):59-64   
+[3] Zhong Y Q W,Yan W M,Shangguan Z P.Soil carbon and nitrogen fractions in the soil profile and their response to long-term nitrogen fertilization in a wheat field[J].Catena, Yan X,Jin JY, He P,et al. Recent advances in technology of increasing fertilizer use efficiency[J]. Scientia Agricultura Sinica,2008,41(2): 450-459   
+[5] 张福锁，王激清，张卫峰，等．中国主要粮食作物肥料利用 率现状与提高途径[J]．土壤学报,2008,45(5):915-924 Zhang F S,Wang JQ,Zhang W F,et al.Nutrient use efficiencies of major cereal crops in China and measures for improvement[J].Acta Pedologica Sinica,2008,45(5): 915-924   
+[6]石岳峰，张民，张志华，等．不同类型氮肥对夏玉米产量、 氮肥利用率及土壤氮素表观盈亏的影响[J]．水土保持学报, 2009,23(6): 95-98 Shi YF, Zhang M, Zhang Z H,et al. Effects of differenttypes of nitrogen fertilization on yield,N use efficiency and apparent budget of soil nitrogen in summer maize[J]. Journal of Soil and Water Conservation,2009,23(6): 95-98   
+[7] 徐钰，刘兆辉，江丽华，等．不同氮肥运筹对冬小麦氮肥利 用率和土壤硝态氮含量的影响[J]．水土保持学报，2010, 24(4):90-93 Xu Y,Liu Z H,Jiang L H,et al. Effects of different nitrogen regulation on nitrogen fertilizer use of winter wheat and content of soil Nitrate-N[J]. Journal of Soil and Water Conservation,2010,24(4): 90-93   
+[8] 杜伟，赵秉强，林治安，等．有机无机复混肥优化化肥养分 利用的效应与机理研究I．有机物料与尿素复混对玉米产 量及肥料养分吸收利用的影响[J]．植物营养与肥料学报, 2012, 18(3): 579-586 Du W,Zhao B Q,Lin Z A,et al.Effect and mechanism of organic-inorganiccompound fertilizationonchemical fertilizer utilization I. Effect of urea compounded with organic material on maize yield and fertilizer utilization[J]. Plant Nutrition and Fertilizer Science,2012,18(3):579-586   
+[9] 刘艳丽．长期施肥下水稻土土壤性质变化及其与生产力的 关系研究[D]．南京：南京农业大学,2007 Liu YL.Changes in soil properties and its relation with soil productivity under long-term fertilization in paddy fields[D]. Nanjing: Nanjing Agricultural University,2007   
+10] 梁斌，赵伟，杨学云，等．小麦-玉米轮作体系下氮肥对长 期不同施肥处理土壤氮含量及作物吸收的影响[J].土壤学 报,2012,49(4): 748-757 Liang B, Zhao W,Yang X Y, et al. Effects of N application on N content and N uptake by crops in soils under different long-term fertilization managements in wheat-maize rotation system[J].Acta Pedologica Sinica,2012,49(4):748-757   
+11]闫双堆，刘利军，洪坚平．腐殖酸-尿素络合物对尿素转化 及氮素释放的影响[J]．中国生态农业学报，2008，16(1): 109-112 Yan S D,Liu L J,Hong JP. Effect of humic acid-urea complex on urea transformation and nitrogen release[J]. Chinese Journal of Eco-Agriculture,2008,16(1): 109-112   
+[12]隽英华，陈利军，武志杰，等．尿素氮形态转化对腐殖酸的 响应[J]．±壤通报,2011,42(1):112-116 Juan Y H,Chen L J,Wu Z J,et al.Response of urea-N transformation to humic acid[J]. Chinese Journal of Soil Science,2011,42(1):112-116   
+[13]李兆君，马国瑞，王申贵，等．腐殖酸长效尿素在土壤中转 化及其对玉米增产的效应研究[J].中国生态农业学报, 2005,13(4): 121-123 Li Z J，Ma G R，Wang S G,et al. Transformation of long-lasting UHA in soil and its effect on maize yield[J]. Chinese Journal of Eco-Agriculture,2005,13(4): 121-123   
+[14]Tahir M M,Khurshid M,Khan M Z,et al.Lignite-derived humic acid effect on growth of wheat plants in different soils[J].Pedosphere,2011,21(1):124-131   
+[15]Vlckova Z,Grasset L，Antosóva B,et al.Lignite pretreatment and its effect on bio-stimulative properties of respectivelignitehumicacids[J].Soil Biologyand Biochemistry,2009,41(9): 1894-1901   
+[16]张悦熙，索全义，胡秀云，等．活化条件对褐煤中水溶性腐 植酸含量的影响[J]．腐植酸,2011(3):10-12 Zhang Y X,Suo Q Y,Hu X Y,et al.Effect of activation conditions on content of water soluble humic acid in lignite[J]. Humic Acid,2011(3):10-12   
+[17]鲁如坤．土壤农化分析方法[M]．北京：中国农业科技出版 社,2000 Lu R K. Soil Agricultural Chemistry Analysis Method[M]. Beijing: Chinese Agricultural Science Press,2000   
+[18]李辉信，胡锋，刘满强，等．红壤氮素的矿化和硝化作用特 征[J]．±壤,2000,32(4):194-197 Li H X,Hu F,Liu M Q,et al.Characteristics of nitrogen mineralization and nitrification in red soil[J]. Soils,2000, 32(4):194-197   
+[19]程亮，张保林，王杰，等．腐植酸肥料的研究进展[J]．中国 土壤与肥料,2011(5):1-6 Cheng L,Zhang B L，Wang J,et al. Research progress of humic-acid containing fertilizer[J]. Soil and Fertilizer Sciences in China,201l(5):1-6   
+[20]苗建国，金继运，仇少君，等．生态集约化养分管理对春玉 米产量和氮素利用率的影响[J].植物营养与肥料学报, 2012,18(3): 571-578 Miao JG,Jin JY,Qiu S J,et al.Effect of ecological intensification nutrient management on the yield and nitrogen use efficiency of spring maize[J]. Plant Nutrition and Fertilizer Science,2012,18(3): 571-578   
+[21]Dobermann A.Nitrogen use efficiency-state of the art[R]. IFA International Workshop on Enhanced-Eficiency Fertilizers. Frankfurt, Germany,28-30 June 2005   
+[22]姜丽娜，刘佩，齐冰玉，等．不同施氮量及种植密度对小麦 开花期氮素积累转运的影响[J]．中国生态农业学报，2016, 24(2): 131-141 Jiang L N,Liu P,QiB Y, et al.Effects of different nitrogen application amounts and seedling densities on nitrogen accumulation and transport in winter wheat at anthesis stage[J].Chinese Journal of Eco-Agriculture,2016,24(2): 131-141   
+[23]闫翠萍，裴雪霞，王姣爱，等．秸秆还田与施氮对冬小麦生 长发育及水肥利用率的影响[J]．中国生态农业学报，2011, 19(2): 271-275 Yan C P,Pei X X,WangJA,et al.Effect of corn straw returned to soil and N application on growth，water and nitrogen use efficiency of winter wheat[J]. Chinese Journal of Eco-Agriculture,2011,19(2): 271-275   
+[24]Sharif M,KhattakRA,SarirMS.Effectof different levels of lignitic coal derived humic acid on growth of maize plants[J]. Communications in Soil Science and Plant Analysis,2002, 33(19/20):3567-3580   
+[25]刘艳丽，丁方军，谷端银，等．不同活化处理腐植酸-尿素 对褐土小麦-玉米产量及有机碳氮矿化的影响[J]．土壤, 2015,47(1): 42-48 Liu YL,Ding F J,Gu D Y, et al. Characteristics of wheatmaize yield and soil organic carbon/nitrogen mineralization in cinnamon soil with application of different activation humic acid-urea[J]. Soils,2015,47(1): 42-48

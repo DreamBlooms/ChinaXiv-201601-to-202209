@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "来源指标与被引指标关系及对期刊评价的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以JCR数学期刊为例",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "俞立平",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(宁波大学商学院城市经济研究中心宁波 315211)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】分析学术期刊来源指标与目标指标之间的关系以及由此导致的对期刊评价的影响。【方法】以JCR2015年数学期刊为例，采用典型相关分析对期刊来源指标与影响力指标的关系进行研究。【结果】实验结果表明：特征因子是期刊影响力的主要指标；期刊来源指标与影响力指标相关关系显著，以特征因子为主的影响力指标与载文量的相关系数最高，其次是引用半衰期，最后是文献选出率；总被引频次、被引半衰期、影响因子、影响因子百分位对特征因子的贡献较大，而其他诸如他引影响因子、5年影响因子、即年指标的贡献较小；影响力指标比来源指标包含更多信息量。【局限】来源指标与影响力指标的关系尚需进一步检验。【结论】从期刊多属性评价角度，影响力指标的权重应大于来源指标的权重；在影响力指标中，有必要增加特征因子分值与标准特征因子的权重，并合理分配总被引频次、被引半衰期、影响因子、影响因子百分位的权重，另一方面要适当降低他引影响因子、5年影响因子、即年指标的权重。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：学术期刊来源指标 影响力指标典型相关关系评价",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号：G203 G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "学术期刊评价中，有两大类指标，一类为来源指标，如载文量、基金论文比、引用半衰期、地区分布数、海外论文比等，另一类为影响力指标，如影响因子、5年影响因子、H指数[1]、特征因子Eigenfactor[2]等。影响力是期刊评价中的焦点和重要内容，因此相对来源指标而言，影响力指标数量众多，设计更加精妙，应用也更为广泛，而来源指标数量相对较少，也缺少变化。研究期刊来源指标与影响力指标的关系，有助于分析两者关系特点和规律，对于期刊评价也具",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于来源指标和影响力指标是两类指标，涉及指标众多，因此只有少数学者关注两者关系研究，如俞立平等3以中国科学技术信息研究所医学类学术期刊为例，发现期刊来源指标较高并不代表期刊影响力就很大，各期刊来源指标与影响力之间存在着较低的相关关系，但是在不同数据段它们的相关程度又不一样。更多学者关注某个来源指标与影响力指标的关系，主要分为三类:",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)关注出版频次、引用半衰期等时间因素与影响力指标的关系。Tsay等4的研究结果表明，出版频次较高的期刊的被引频次也高，并有着较高的影响因子和即时指数，且通常伴随着较短的引用半衰期。Sangam[5]研究发现，文献数量增长越快，文献老化程度越快、半衰期也越短。周志中[基于CSSCI、JCR 数据库，比较了图书情报领域期刊被引半衰期和引用半衰期之间的差异，研究发现，国外的图书情报学期刊的被引半衰期和引用半衰期都较长，并且基本呈正相关关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)关注期刊载文量与影响力指标的关系。黄明睿研究发现期刊的载文量取决于期刊的定位，与读者作者群的大小有关；期刊的载文量与其学科扩散指标、学科影响指标之间都具有显著相关性，且为正向相关关系。赵金燕[采用Spearman等级秩相关研究发现，文献来源量、地区分布数和机构分布数与总被引频次呈显著正相关；文献来源量、平均引文数与综合评价总分呈显著正相关。严美娟以2010年JCR为依据，对其收录的239种神经科学期刊的载文量与影响因子、5年影响因子之间的关系进行统计，结果显示在一定范围内呈正相关关系。安梅[1通过对Web ofScience中的工程技术综合类期刊群中的高影响因子期刊进行研究，发现发表论文数较多的期刊其影响因子的排名和特征因子的排名相对稳定，而发表论文数较少的期刊其特征因子与影响因子的排名相比大多出现大幅度下滑的现象。余建青[11对农业大学学报的研究结果表明，在来源指标中，来源文献量的多少几乎决定了来源指标累积排名的名次，来源文献量多的期刊，一般参考文献量、地区数、机构分布数都会相应提高。刘岩[12]认为创刊时间早、来源文献量大、学术质量高的期刊，学术影响力必然大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）关注基金论文比等指标与影响力指标的关系，但结论并不一致。刘睿远等[13研究发现，无论是论文被引率还是篇均被引频次，基金论文均明显高于非基金论文；期刊基金论文比与影响因子、5年影响因子、特征因子及读者调查得分均呈显著正相关。但也有学者有不同结论，王谦等[14基于中文医学核心期刊的研究发现，基金论文比与影响因子并无显著相关性(P值均大于0.05)，基金论文比与其他期刊评价指标也不完全有相关性。严燕等[15认为基金论文比指标使评价主体与客体位置颠倒，评价逻辑关系混乱，对非基金论文作者存在不公平因素，抑制和浪费了宝贵的人才资源与研究资源，不宜作为期刊评价指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从目前的研究现状看，关于来源指标与影响力指标的关系，学术界已经开始关注，研究主要集中在期刊载文量与影响力指标的关系。关于引用半衰期、基金论文比等与影响力的关系研究较少，并且对于基金论文比与影响力关系的研究结论存在较大差异。此外由于研究对象和数据库不同，研究结果也存在一些差别，因此有必要对来源指标与影响力指标的关系进行深入研究。从研究方法看，现有的研究主要采用回归分析法、相关系数法、简单统计法等，并没有采用多组变量相关分析为主的典型相关分析法(CanonicalCorrelationAnalysis,CCA)。对于来源指标与影响力指标关系导致的对期刊多属性评价的影响，学术界尚有待进一步深入研究。本文以 JCR(Journal CitationReports）2015年数学期刊为例，研究来源指标与影响力指标的关系，并在此基础上讨论对期刊多属性评价的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法 典型相关分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文主要研究学术期刊来源指标与影响力指标两类变量之间的关系，无论是来源指标还是影响力指标，均超过两个，因此涉及两组变量中多变量相关问题。由于期刊来源指标较少，传统研究一般研究某个单一来源指标与多个影响力指标之间的关系，这种研究方法不够系统，另外由于期刊影响力指标之间存在多重共线性问题，也使得研究结论的稳健性不够。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "典型相关分析为解决来源指标与影响力指标的相关问题提供了一种全新的思路，Hotelling[16提出典型相关分析，用来解决多个变量组之间的相关关系问题。早期由于没有计算机辅助计算，对于需要大量矩阵运算的典型相关分析而言，曾受到一定的限制。随着计算机技术飞速发展，典型相关分析于20世纪70年代开始日趋成熟。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设随机矩阵 $\\mathrm { X = ( x _ { 1 } , x _ { 2 } , \\cdots , x _ { p } ) , Y = ( y _ { 1 } , y _ { 2 } , \\cdots , y _ { q } ) , }$ 为了研究矩阵X与矩阵 $\\mathrm { Y }$ 之间的典型相关关系，作出 $\\mathrm { \\Delta } \\mathrm { X }$ 、Y的线性组合如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\mathrm { U } = \\mathrm { a } ^ { \\prime } \\mathrm { X } = \\mathrm { a } _ { 1 } \\mathrm { x } _ { 1 } + \\mathrm { a } _ { 2 } \\mathrm { x } _ { 2 } + \\cdots + \\mathrm { a } _ { \\mathrm { p } } \\mathrm { x } _ { \\mathrm { p } } } \\\\ { \\mathrm { V } = \\mathrm { b } ^ { \\prime } \\mathrm { Y } = \\mathrm { b } _ { 1 } \\mathrm { y } _ { 1 } + \\mathrm { b } _ { 2 } \\mathrm { y } _ { 2 } + \\cdots + \\mathrm { b } _ { \\mathrm { q } } \\mathrm { y } _ { \\mathrm { q } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "求系数a、b，使得U、 $\\mathrm { \\Delta V }$ 的相关系数 $\\mathrm { ~ \\bf ~ r ~ }$ 达到极大值，计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { r = c o v ( U , V ) / \\sqrt { v a r ( U ) v a r ( V ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准化随机矩阵U和 $\\mathrm { \\Delta V , \\quad }$ 得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\operatorname { v a r } ( \\mathrm { U } ) = \\operatorname { v a r } ( \\mathrm { a } ^ { \\prime } \\mathrm { X } ) = 1 } \\\\ { \\operatorname { v a r } ( \\mathrm { V } ) = \\operatorname { v a r } ( \\mathrm { b } ^ { \\prime } \\mathrm { Y } ) = 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { r = c o v ( U , V ) = a ^ { \\prime } c o v ( X , Y ) b }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于是，问题就转化为在公式(3)的约束下，求系数a和 $\\boldsymbol { \\mathbf { b } }$ ，使得相关系数 $\\mathbf { r }$ 达到最大。其方法是通过构造拉格朗日函数求得，并且要进行统计量检验，计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q _ { i } = - [ n - j - \\frac { 1 } { 2 } ( p + q + 1 ) ] \\ln [ \\prod _ { i = j } ^ { p } ( l - \\lambda _ { i } ^ { 2 } ) ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果 $\\mathrm { Q } _ { \\mathrm { i } } { > } \\mathbf { x } ^ { 2 }$ ，则认为相应的典型相关系数是显著的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 研究数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文数据来自于2015年JCR数据库，以数学期刊为例进行研究。2015 年JCR 公布的影响力指标共有10个，分别是总被引频次(TotalCites)、影响因子(JournalImpact Factor)、他引影响因子(Impact Factorwithout Journal Self Cites)、5 年影响因子(5-Year ImpactFactor)、即年指标(Immediacy Index)、被引半衰期(CitedHalf-life)、特征因子分值(Eigenfactor Score)、论文影响分值(Article Influence Score)、平均影响因子百分位(Average JournalImpactFactorPercentile)、标准化特征因子(Normalized Eigenfactor)；来源指标共有3个，分别是载文量(CitableItems)、引用半衰期(CitingHalf-life)、文献选出率(ArticlesinCitable Items)。其中,期刊影响因子百分位和标准化特征因子两个指标是首次公布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年JCR数学期刊共有312种，其中部分期刊数据缺失，将其删除，最后得到281种期刊，各指标的描述统计量如表1所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/216f8454e6fce3091187dad33d6c6ced0b092828b061e1631641f50b9feef9db.jpg",
+        "table_caption": [
+            "表1指标描述统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标类型</td><td>指标名称</td><td>均值</td><td>中位数</td><td>极大值</td><td>极小值</td><td>标准差</td><td>离散系数</td></tr><tr><td rowspan=\"9\">影响力指标</td><td>总被引频次</td><td>1327.59</td><td>602.00</td><td>18695.00</td><td>42.00</td><td>2152.00</td><td>1.62</td></tr><tr><td>影响因子</td><td>0.743</td><td>0.632</td><td>3.236</td><td>0.144</td><td>0.481</td><td>0.648</td></tr><tr><td>他引影响因子</td><td>0.682</td><td>0.555</td><td>3.146</td><td>0.134</td><td>0.471</td><td>0.690</td></tr><tr><td>5年影响因子</td><td>0.817</td><td>0.660</td><td>3.654</td><td>0.000</td><td>0.559</td><td>0.684</td></tr><tr><td>即年指标</td><td>0.164</td><td>0.120</td><td>2.273</td><td>0.000</td><td>0.194</td><td>1.185</td></tr><tr><td>被引半衰期</td><td>8.04</td><td>10.00</td><td>10.00</td><td>0.00</td><td>2.52</td><td>0.31</td></tr><tr><td>特征因子分值</td><td>0.00533</td><td>0.00293</td><td>0.05134</td><td>0.00023</td><td>0.00759</td><td>1.42455</td></tr><tr><td>论文影响分值</td><td>0.96591</td><td>0.69100</td><td>6.77100</td><td>0.00000</td><td>1.00045</td><td>1.03576</td></tr><tr><td>平均影响因子百分位</td><td>49.26</td><td>48.56</td><td>99.52</td><td>1.17</td><td>27.08</td><td>0.55</td></tr><tr><td rowspan=\"3\">来源指标</td><td>标准化特征因子</td><td>0.59670</td><td>0.32858</td><td>5.75041</td><td>0.02575</td><td>0.85003</td><td>1.42456</td></tr><tr><td>载文量</td><td>84.01</td><td>54.00</td><td>941.00</td><td>5.00</td><td>94.23</td><td>1.12</td></tr><tr><td>引用半衰期 文献选出率</td><td>9.97 99.94</td><td>10.00 100.00</td><td>10.00 100.00</td><td>6.40 95.83</td><td>0.29 0.40</td><td>0.03 0.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4实证结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1相关关系总体情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "典型相关系数及显著性检验如表2所示。U表示影响力指标，V表示来源指标，共有三组典型相关系数，它们的对应关系分别用U1-V1、U2-V2、U3-V3表示，第一组和第二组在 $1 \\%$ 的水平下通过了Wilks'Lambda检验，相伴概率为0.000，第三组相关系数在$10 \\%$ 的水平下通过了统计检验。第一组相关系数最高，为0.830，第二组相关系数次之，为0.575，第三组相关系数最低，为0.234，总体上期刊影响力指标与来源指标之间具有非常密切的相关关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec45ff446901fee26648227bc9fc80bf360ab31d4d5afc69c8004c0f5c20a30b.jpg",
+        "table_caption": [
+            "表2典型相关系数及显著性检验"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>相关 关系组</td><td>典型相 关系数</td><td>Wilk's Lambda</td><td>Chi-SQ</td><td>DF</td><td>Sig.</td></tr><tr><td>U1-V1</td><td>0.830</td><td>0.197</td><td>443.329</td><td>30.000</td><td>0.000</td></tr><tr><td>U2-V2</td><td>0.575</td><td>0.632</td><td>125.057</td><td>18.000</td><td>0.000</td></tr><tr><td>U3-V3</td><td>0.234</td><td>0.945</td><td>15.348</td><td>8.000</td><td>0.053</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个变量的典型系数如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/37fbca47f18b97e9c0258682c416c844fd2393a7e4ac4e2999a1d4c8a31ec45f.jpg",
+        "table_caption": [
+            "表3典型变量与各变量组中的每个变量的典型系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>影响力指标</td><td>U1</td><td>U2</td><td>U3</td></tr><tr><td>总被引频次</td><td>-0.477</td><td>0.098</td><td>-0.29</td></tr><tr><td>影响因子</td><td>-0.741</td><td>5.189</td><td>3.489</td></tr><tr><td>他引影响因子</td><td>0.872</td><td>-4.568</td><td>-4.007</td></tr><tr><td>5年影响因子</td><td>0.059</td><td>0.337</td><td>0.387</td></tr><tr><td>即年指标</td><td>-0.024</td><td>-0.031</td><td>-0.117</td></tr><tr><td>被引半衰期</td><td>0.138</td><td>-0.149</td><td>0.679</td></tr><tr><td>特征因子分值</td><td>-27.828</td><td>157.547</td><td>1051.399</td></tr><tr><td>论文影响分值</td><td>0.369</td><td>-0.4</td><td>0.697</td></tr><tr><td>影响因子百分位</td><td>0.03</td><td>-0.277</td><td>-0.465</td></tr><tr><td>标准化特征因子</td><td>27.181</td><td>-157.942</td><td>-1051.220</td></tr><tr><td>来源指标</td><td>V1</td><td>V2</td><td>V3</td></tr><tr><td>载文量</td><td>-1.029</td><td>-0.117</td><td>-0.058</td></tr><tr><td>引用半衰期</td><td>-0.150</td><td>-1.006</td><td>-0.111</td></tr><tr><td>文献选出率</td><td>-0.018</td><td>-0.121</td><td>0.997</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在第一组相关关系中，从期刊影响力指标看，特征因子分值和标准化特征因子系数的绝对值最大，分别为-27.828和27.181；而来源指标中，载文量系数的绝对值最大，为-1.029，说明第一组相关关系主要反映了特征因子与载文量之间的相关关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在第二组相关关系中，从期刊影响力指标看，同样是特征因子分值和标准化特征因子系数的绝对值最大，分别为157.547和-157.942；而来源指标中，引用半衰期系数的绝对值最大，为-1.006，说明第二组相关关系主要反映了特征因子与引用半衰期之间的相关关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在第三组相关关系中，从期刊影响力指标看，也是特征因子分值和标准化特征因子系数的绝对值最大，分别为1051.399和-1051.220；而来源指标中，文献选出率系数的绝对值最大，为0.997，说明第三组相关关系主要反映了特征因子与文献选出率之间的关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 典型结构分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "典型结构分析主要是计算典型负荷，相当于权重，它是衡量原始变量与典型变量之间相关性的重要指标，并且能够保证原始变量之间不存在多重共线性的问题。典型负荷的绝对值越大，说明原始变量对典型变量解释的重要性越高。表4表示影响力指标与来源指标的典型负荷与交叉负荷。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/86c5cb9908a700ce36aef27a2fb1f6bc2315cf5c2bdc25e6e7c16a240201fcf1.jpg",
+        "table_caption": [
+            "表4影响力指标和来源指标典型结构分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>U1典型负荷</td><td>U2典型负荷</td><td>U3典型负荷</td><td>U1交叉负荷</td><td>U2 交叉负荷</td><td>U3交叉负荷</td></tr><tr><td>总被引频次</td><td>-0.818</td><td>-0.114</td><td>0.097</td><td>-0.679</td><td>-0.066</td><td>0.023</td></tr><tr><td>影响因子</td><td>0.010</td><td>0.291</td><td>-0.105</td><td>0.009</td><td>0.167</td><td>-0.025</td></tr><tr><td>他引影响因子</td><td>0.056</td><td>0.154</td><td>-0.137</td><td>0.046</td><td>0.089</td><td>-0.032</td></tr><tr><td>5年影响因子</td><td>0.023</td><td>0.178</td><td>0.010</td><td>0.019</td><td>0.102</td><td>0.002</td></tr><tr><td>即年指标</td><td>0.000</td><td>0.160</td><td>0.060</td><td>0.000</td><td>0.092</td><td>0.014</td></tr><tr><td>被引半衰期</td><td>-0.017</td><td>-0.431</td><td>0.678</td><td>-0.014</td><td>-0.248</td><td>0.159</td></tr><tr><td>特征因子分值</td><td>-0.801</td><td>-0.192</td><td>0.075</td><td>-0.665</td><td>-0.11</td><td>0.018</td></tr><tr><td>论文影响分值</td><td>0.139</td><td>-0.133</td><td>0.150</td><td>0.116</td><td>-0.076</td><td>0.035</td></tr><tr><td>影响因子百分位</td><td>-0.054</td><td>0.156</td><td>-0.281</td><td>-0.045</td><td>0.090</td><td>-0.066</td></tr><tr><td>标准化特征因子</td><td>-0.801</td><td>-0.192</td><td>0.075</td><td>-0.665</td><td>-0.110</td><td>0.017</td></tr><tr><td>载文量</td><td>-0.989</td><td>0.148</td><td>0.000</td><td>-0.821</td><td>0.085</td><td>0.000</td></tr><tr><td>引用半衰期</td><td>0.118</td><td>-0.986</td><td>-0.118</td><td>0.098</td><td>-0.567</td><td>-0.028</td></tr><tr><td>文献选出率</td><td>-0.031</td><td>-0.210</td><td>0.977</td><td>-0.026</td><td>0.121</td><td>0.228</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析各组相关关系及指标负荷，将其整理绘制成典型因素结构图，分别如图1-图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一组相关关系中(图1)，从影响力指标来看，总被引频次(-0.818)、特征因子分值(-0.801)、标准化特征因子(-0.801)系数的绝对值最大；从来源指标看，载文量(-0.989)系数的绝对值最大，进一步验证了特征因子与载文量的相关关系，并且总被引频次也具有较大的解释能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8360fa0cf38f9800f810d471ff6b01521cceac22f86488201271aea636e7cd1.jpg",
+        "img_caption": [
+            "图1特征因子与载文量相关关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad4a33e9dd74c112ec6d7c25c562be301059ec6db56724d5e02be6adac77ec00.jpg",
+        "img_caption": [
+            "图2特征因子与引用半衰期相关关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/199feaa4ad393c663547a6b857818035b28b6162f5b93fdda860565571d41521.jpg",
+        "img_caption": [
+            "图3特征因子与文献选出率相关关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第二组相关关系中(图2)，从影响力指标来看，被引半衰期(-0.431)、影响因子(0.291)的系数绝对值最大,其他指标系数总体上相差不大；从来源指标看，引用半衰期(-0.986)系数的绝对值最大，说明总体上虽然反映了特征因子与引用半衰期的相关关系，但被引半衰期和影响因子具有较大的解释能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第三组相关关系中(图3)，从影响力指标来看，被引半衰期(0.678)、影响因子百分位(-0.281)的系数绝对值最大，其他指标系数总体上相差不大；从来源指标看，文献选出率(0.977)系数的绝对值最大，说明总体上虽然反映了特征因子与文献选出率之间的相关关系，但被引半衰期和影响因子百分位具有较大的解释能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 冗余度分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "冗余度分析是对构建的典型相关模型的解释能力进行总体的判定，如表5所示。期刊影响力指标中，三组相关关系自身方差的解释比例分别为 $1 9 . 8 \\%$ 、 $4 . 8 \\%$ ）$6 . 1 \\%$ ，合计为 $30 \\%$ ，被来源指标解释比例分别为$1 3 . 6 \\%$ ， $1 . 6 \\%$ 、 $0 . 3 \\%$ ，总体上自身的解释水平不高，并且以第一组典型关系的解释比例最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/65e8f1958024b6d83f74edf6b0bc1d37966edc52b9f7cb7820cc7093f1541c9f.jpg",
+        "table_caption": [
+            "表5冗余度分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>典型 关系</td><td>影响力指标 自身解释 比例</td><td>影响力指标 由来源指标 解释比例</td><td>来源指标 自身解释 比例</td><td>来源指标由 影响力指标 解释比例</td></tr><tr><td>U1-V1</td><td>19.8%</td><td>13.6%</td><td>33.1%</td><td>22.8%</td></tr><tr><td>U2-V2</td><td>4.8%</td><td>1.6%</td><td>34.6%</td><td>11.5%</td></tr><tr><td>U3-V3</td><td>6.1%</td><td>0.3%</td><td>32.3%</td><td>1.8%</td></tr><tr><td>合计</td><td>30.7%</td><td>15.5%</td><td>100%</td><td>36.1%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "来源指标中，三组相关关系自身方差的解释比例分别为 $3 3 . 1 \\%$ 、 $34 . 6 \\%$ 、 $32 . 3 \\%$ ，合计 $100 \\%$ ，被影响力指标解释比例分别为 $2 2 . 8 \\%$ 、 $1 1 . 5 \\%$ 、 $1 . 8 \\%$ ，总体上自身的解释比例很高，并且三组相关关系的解释比例大致相当。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，期刊影响力指标包含了较多自身和来源指标无法反映的信息，而期刊来源指标包含了自身的所有信息以及少量影响力指标包含的信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结果与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）特征因子是期刊影响力的主要指标",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文的实证研究表明，期刊影响力指标与来源指标的三组相关关系中，影响力指标均主要反映了特征因子分值与标准化特征因子的贡献，说明特征因子在期刊影响力指标中占据十分重要的地位。本质上，这是由特征因子的特点所决定的，特征因子采用类似",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PageRank算法迭代计算出期刊的权重影响值，保证了引文数量与价值的同步。在期刊评价中，有必要增加特征因子分值与标准化特征因子的权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）期刊来源指标与影响力指标相关关系显著",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "期刊影响力指标与来源指标的相关关系显著，以  \n特征因子为主的影响力指标与载文量的相关系数最高  \n(0.830)，其次是引用半衰期(0.575)，最后是文献选出  \n率(0.234)。许多研究认为载文量与期刊影响力指标相  \n关程度较高，本文的研究支持了这个结论。引用半衰  \n期较新说明期刊的信息量较新，知识更新更快，容易  \n获得更多引用。而文献选出率高说明期刊被引的源头有效论文比例较高，当然容易获得较高的引用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）部分影响力指标对特征因子贡献较大",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在典型相关分析的三组相关关系中，总被引频次、被引半衰期、影响因子、影响因子百分位对特征因子的贡献较大，而其他诸如他引影响因子、5年影响因子、即年指标的贡献较小。所以在期刊评价中，一方面要重视特征因子的权重，并合理分配总被引频次、被引半衰期、影响因子、影响因子百分位的权重，另一方面要适当降低他引影响因子、5年影响因子、即年指标的权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）影响力指标比来源指标包含更多信息量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对典型相关关系的冗余度分析，发现期刊影响力指标包含较多自身和来源指标无法反映的信息，而期刊来源指标包含自身的所有信息以及少量影响力指标包含的信息。这说明，期刊影响力指标所包含的信息量更大，期刊来源指标包含的信息量较少，并且期刊来源指标和影响力指标虽然相关，但互相之间的解释比例都不高，深层次说明了期刊来源指标与影响力指标不能互相替代。所以在期刊评价中，影响力指标权重应该大于来源指标权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于JCR数学期刊数据，对期刊来源指标与影响力指标之间的关系进行深入分析，深化了来源指标与影响力指标对期刊评价的影响。在研究方法上，提供了基于典型相关分析的新思路，在实践上对于期刊评价指标的权重赋值可以提供借鉴。由于数据库不同、指标不同，学术期刊来源指标与影响力指标的关系特点有待进一步研究，本文仅仅提供了一种研究范式。此外，由于JCR公布的来源指标较少，也给本文的研究结论造成一定的局限，未来研究可以采用拥有更多来源指标的数据，以加深对问题的了解。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Hirsch JE.An Index to Quantify an Individual's Scientific Research Output [J].Proceedings of the National Academy of Sciences,2005,102 (46): 16569-16572.D0I: 10.1073/pnas. 0507655102.   \n[2]Bergstrom C T,West JD,Wiseman M A. The Eigenfactor Metrics [J].The Journal of Neuroscience，2008，28(45): 11433-11434.   \n[3]俞立平，潘云涛，武夷山．学术期刊来源指标与影响力关 系的实证研究[J]．科研管理，2010,31(6):173-179.(Yu Liping,Pan Yuntao,Wu Yishan. Study on Source Indexes and Influence of the Academic Journal Evaluation [J]. Science Research Management, 2010,31(6): 173-179.)   \n[4]Tsay M Y,Chen Y L．Journals of General & Internal Medicine and Surgery: An Analysis and Comparison of Citation [J]. Scientometrics,2005,64(1): 17-30.   \n[5]Sangam S L.Obsolescence of Literature in the Field of Psychology[J]. Scientometrics,1999,44(1): 33-46.   \n[6] 周志中．国内外图书情报期刊半衰期分析[J]．西南民族大 学学报：人文社会科学版，2013(9):233-240.(Zhou Zhizhong.Half-life Period Analysisof Libraryand Information Journals [J]. Journal of Southwest University for Nationalities: Humanitiesand Social Science,2013(9): 233-240.)   \n[7]黄明睿．载文量对科技期刊影响力评价的影响[J].中国科 技期刊研究，2015,26(7):749-757.(Huang Mingrui.The Effect of Paper Quantity in Evaluation of Scientific Journals' Influence [J].Chinese Journal of Scientific and Technical Periodicals,2015,26(7): 749-757.)   \n[8]赵金燕．期刊来源指标与期刊影响力之间的关系[J]．黄冈 师范学院学报,2015,35(5):115-117.(Zhao Jinyan. Study on Source Indexes and Influence of the Academic Journal [J]. Journal of Huanggang Normal University， 2015，35(5): 115-117.)   \n[9]严美娟．239 种 SCI 收录神经科学杂志载文量与影响因 子和5 年影响因子的关系[J]．东北农业大学学报：社会科 学版,2012,10(5): 83-85.(Yan Meijuan. The Relationship of Paper Amounts, Impacting Factors and 5-year Impacting Factors Among 239 Kinds of Neuroscience Journals [J]. Journal of Northeast Agricultural University: Social Science Edition,2012,10(5):83-85.)   \n[10]安梅.科技期刊的主要影响力指标的波动与期刊载文量的 关系[J]．中国科技期刊研究,2011,22(5):711-714.(An Mei. Research on Impact Index Wave and Citable Items [J]. Chinese Journal of Scientific and Technical Periodicals,2011, 22(5): 711-714.)   \n[11]余建青．农业大学学报引用与来源指标统计分析[J]．农业 图书情报学刊，2009,21(9):63-65.(Yu Jianqing.Statistic Analysis of the Citing Source Indicators of the Journals of Agricultural University[J]. Journal of Library and Information Sciences in Agriculture,2009,21(9):63-65.)   \n[12]刘岩．编辑出版类期刊学术影响力指标综合评价分析[J]. 科技与出版,2013(10):108-112.(Liu Yan.Comprehensive Evaluation and Analysis on the Academic Influence Index of Editing and Publishing Journals [J]. Science and Publish, 2013(10): 108-112.)   \n[13]刘睿远，刘雪立，王璞，等．基金论文比作为科技期刊评 价指标的合理性[J]．中国科技期刊研究，2013，24(3): 473-476.(Liu Ruiyuan,Liu Xueli,Wang Bu,et al.The Rationality of Ratio of Fund-subsidized Papers on Academic Journals Evaluation [J].Chinese Journal of Scientific and Technical Periodicals,2013,24(3):473-476.)   \n[14]王谦，林萍，孙昌朋．医学期刊基金论文比与影响因子等 指标的关系及影响因素[J]．中国科技期刊研究，2015, 26(6):634-638.(Wang Qian,Lin Ping,Sun Changpeng. The Relationship and Influencing Factors of Medical Journals' Funding Ratio,Impact Factor,and Other Evaluation Indexes [J].Chinese Journal of Scientific and Technical Periodicals, 2015,26(6): 634-638.)   \n[15]严燕，顾冠华.“基金论文比\"：一个欠科学的期刊评价指标 [J]．东南大学学报：哲学社会科学版,2011,13(6):123-125. (Yan Yan,Gu Guanhua.Ratio of Fund-subsidized Papers:An Unreasonable Evaluation Index of Journals [J].Journal of Southeast University:Philosophy and Social Science,2011, 13(6): 123-125.)   \n[16]Hotelling H. Ralations Between Two Sets of Variates[J]. Biometrics,1936,28(3-4):321-377. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者声明不存在利益冲突关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。[1]俞立平.sj1.xls.数学期刊原始数据[2]俞立平.sj2.xls.数学期刊筛选后数据.[3]俞立平.spss-1.rar.SPSS处理过程及结果.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-03-21  \n收修改稿日期:2016-04-16",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "New Method to Evaluate Academic Journals: Case Study of Mathematics Journals ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yu Liping (Research Centre of Urban Economy,Business School of Ningbo University, Ningbo 315211, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective] This paper evaluates academic journals with the help of their source indexes and impact indicators.[Methods] We collcted data from the Jourmal Citation Report (JCR) in2015 for Mathematics ones,and thenconductedcanonicalcorrelationanalysis withthedata.[Results]Firstly,eigenfactor was the major indicatorof the influence ofjournals.Secondly, the journal source indexes and impact indicators were significantlycorrelated with each other.Thirdly,total citation numbers,citationhalf-life,journal impact factorsand journal impactfactor percentilehad higher contribution to the eigenfactor.Fourthly,impact indicators contain more information than the source indexes. [Limitations]More research is needed to investigate the relationship between the source indexes and impact indicators. [Conclusions]The impact indicators are more important than the source indexes.We need to increase the eigenfactor score and the weight of normalized eigenfactor. We should also decrease the weights of impact factor without journal self citations,5-year impact factor and immediacy index. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Academic journalsSource indexesImpact indicatorsCanonical correlation analysisEvaluation ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,495 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 3o October 2014   \nAccepted: 23 April 2015   \nPublished: 11 June 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Novelty seeking is related to individual risk preference and brain activation associated with risk prediction during decision making ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ying Wang¹, Ying Liu²,Lizhuang Yang¹, Feng Gu¹, Xiaoming Li²,3, Rujing Zha², Zhengde Wei², Yakun Pei¹, Peng Zhang4, Yifeng Zhou¹ & Xiaochu Zhang1,5,6,7 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Novelty seeking (NS) isa personality trait reflecting excitement in response to novel stimuli. High NS is usually a predictor of risky behaviour such as drug abuse. However, the relationships between NS and risk-related cognitive processes,including individual risk preference and the brain activation associated with risk prediction, remain elusive.In this fMRl study, participants completed the Tridimensional Personality Questionnaire to measure NS and performed a probabilistic decision making task. Using a mathematical model, we estimated individual risk preference.Brain regions associated with risk prediction were determined via fMRl.The NS score showed a positive correlation with risk preference and a negative correlation with the activation elicited by risk prediction in the right posterior insula (r-Pl),left anterior insula (l-Al),right striatum (r-striatum) and supplementary motor area (SMA). Within these brain regions,only the activation associated with risk prediction in the r-Pl showed a correlation with NS after controling for the effect of risk preference.Resting-state functional connectivity between the r-Pland r-striatum/l-Al was negatively correlated with NS. Our results suggest that high NS may be associated with less aversion to risk and that the r-Pl plays an important role in relating risk prediction to NS. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In many circumstances, humans and other animals are naturally inquisitive and have a characteristic tendency to explore novel and unfamiliar stimuli and environments1. Cloninger proposed Novelty Seeking (NS)as a personality trait that refers to the tendency to be intensely exhilarated or excited in response to novel stimuli². ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High NS is usually a predictor of risky behaviour such as drug abuse34,alcohol dependence5 and eating disordersé.As such,characterising the neural correlates of NS has been a focus of cognitive neuroscience and psychiatric research. Biochemical studies have identified the noradrenergic system and the dopamine system' as potential neurobiological substrates of NS.Human neuroimaging studies have reported that NS is asociated with the activation elicited by emotional stimuli in the medial frontal gyrus9,D2 receptors in the insula10,inflammation1,visual processing12,and other personality traits such as harmavoidancel3. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c191a385184ef79db6f53f8da0d46f9150972e810cd45ad6460a8e7f2d4f734d.jpg",
+        "img_caption": [
+            "Figure 1.An illstration of the task.Each trial was divided into the follwing events: (1)the choice phase, from the moment of presentation of the four decks until the execution of the choice.Four seconds were allowed for pondering on the choice and selection.The computer would make arandom choice if 4 seconds were hesitated of; (2)the outcome evaluation phase,the second card of the selected deck and the outcome were presented for 1 second on screen.After each trial,all cards were refreshed and the next trial began immediately without inter-trial intervals (ITIs). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, how NS influences choice preference and enhances exploration during decision makingl remains unclear. Regarding this question,we hypothesise that NS is related to individual risk preference and associated with the neural activation related to risk prediction during decision making,for the reasons outlined below. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First,the reward prediction and the risk prediction of a choice collectively determine the utility of the choice during decision makingl4-16.Risk prediction refers to the predicted reward variance (all positive)14-17,and it is weighted by (i.e.,multiplied by) individual risk preference (positive or negative)16. Therefore,with respect to individual risk preference,a risk prediction could either enhance (with positive risk preference)or reduce (with negative risk preference)the utility of a choice.In other words,for individuals with a higher (from negative to positive) risk preference,a risk prediction would be more beneficial to the utility of a choice. Considering that risk arises from uncertaintyl5 and the uncertain nature of a novel choicel,a novel choice usually contains risk. Clearly,a novel choice is more attractive to individuals with high NS than to individuals with low NS.Therefore,we hypothesise that higher NS is associated with a higher risk preference. Other lines of evidence also support this idea.Previous studies have demonstrated that alcoholism is accompanied by a high risk preference18,19 and high NS5.A recent study reported high NS in people who participate in pathological gambling20.However, no direct evidence of a relationship between risk preference and NS has been provided by previous studies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Second,risk prediction itself also impacts on the utility of a choice.Whether the neural activation associated with risk prediction is related to NS is not clear.An association between insula activation and $\\mathrm { N S ^ { 1 0 } }$ has been suggested,and the insula is a risk-related brain region21. In addition, given our first hypothesis in the present study (i.e.,NS is related to risk preference) and previous reports relating risk preference to the neural process of $\\mathrm { r i s k } ^ { 2 2 , 2 3 }$ ，we hypothesise that the neural activation elicited by risk prediction is associated with NS during decision making. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous studies1,24 have reported that novel stimulus-elicited activation in the striatuml and substantia nigra/ventral tegmental area $\\mathrm { ( S N / V T A ) ^ { 2 4 } }$ is correlated with NS.However, the question of the relationships between NS and risk preference,as well as the neural processing of risk prediction, has yet to be addressed24.Moreover,therisk ofa novel choice is confounded with novelty,and it is difficult to investigate our hypotheses.Therefore,in the present fMRI study,participants performed a probabilistic decision making task (Fig.1).In this task,the risk is derived from the probabilistic eventand nota novel choice. Therefore,the risk is pure without confounded novelty. Participants also completed the Novelty-Seeking Scale from the Tridimensional Personality Questionnaire (TPQ) to measure the personality trait of $\\mathrm { N S } ^ { 2 \\dot { 5 } }$ ： Using a mathematical model15, we quantitatively estimated individual risk preference and the predicted risk and reward of each choicel6,as wellas the difficulty of choice comparison (measured by Shannon's entropy26,27).Then,brain regions related to the risk prediction,reward predictionand the difficulty of choice comparison were localised as regions of interest (ROIs).The relationships between the NS score, risk preference and the activation of ROIs were analysed with a Pearson correlation. Then,a partial correlation analysis was performed to verify the relationship between NS and activation associated with risk prediction after controlling for the effct of risk preference.In addition,the possible mediation effect of risk preference on the relationship between NS and the activation of risk prediction was tested with the Sobel test. Finally, because networks identified with resting state functional connectivity (rsFC)are intrinsic representations of the brain’s functional repertoire28,29,whether the rsFC in the neural network of risk prediction provides an index of individual differences in NS was also investigated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/436ff16e21cc7c5a210c894169f653004738c632a86a582a7fa67372dfe6b578.jpg",
+        "table_caption": [
+            "Table 1.Goodness of fit of the model for our participants’ data and computer-simulated random data. MLL, maximum likelihood; AIC,Akaike information criterion values; AICc,the corrected form of AIC;and BIC, Bayesian exceedance probability "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>participants’ data</td><td>random data</td><td>independent t-test</td><td> p value</td></tr><tr><td>AIC</td><td>2.62±0.30</td><td>4.78±0.02</td><td>t= -212.49</td><td>p<0.001</td></tr><tr><td>AICc</td><td>2.77±0.30</td><td>4.79±0.02</td><td>t=-198.83</td><td>p<0.001</td></tr><tr><td>BIC</td><td>4.03±0.30</td><td>9.69±0.02</td><td>t= -557.475</td><td>p<0.001</td></tr><tr><td>MLL</td><td>0.31±0.15</td><td>1.39±0.01</td><td>t= -212.49</td><td>P<0.001</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d25a7213034640dee3c30c3bca53d3baeabdc2b298f5b3c6a2e0dd27342db1a.jpg",
+        "img_caption": [
+            "Figure2.Behavioural result. The NS score was positively correlated with risk preference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Behavioural Results. We simulated l0oo random data sets with a computer, and the total score for the simulated random data was $3 3 1 6 . 5 8 \\pm 9 9 1 . 8 4$ $( \\mathrm { m e a n } \\pm \\mathrm { S D }$ ，ranging fr0m 200.00 to 6150.00). The total score for our human participants was $1 1 2 6 5 . 0 0 \\pm 8 5 6 . 2 8$ 0 $\\mathrm { \\Delta m e a n ~ \\pm ~ S D } _ { \\mathrm { \\Delta } }$ ，ranging from 9400.00 to 12375.oo),and no data were discarded as a result of being outliers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All parameters measuring the goodness of fit of the model, including the AIC,AICc,BIC and the absolute value of $\\mathrm { M L L } ^ { 3 0 }$ ,were significantly smaller in our participant data than in random data (Table 1). The accuracy of choice prediction with the model was $9 0 . 5 3 \\% \\pm 4 . 3 8 \\%$ (mean and SD,ranging from $7 9 . 4 4 \\%$ to $9 5 . 5 6 \\%$ ),which was significantly better than the $2 5 \\%$ random level $( t = 8 1 . 9 5 , p < 0 . 0 \\dot { 0 } 1 )$ .These results suggest that the theoretical model is a good approximation of human decision making in this task. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The NS score was $1 4 . 5 7 \\pm 3 . 8 1$ (mean $\\pm \\ \\mathrm { S D }$ ，ranging from 6.00 to 22.00),and the risk preference $( l )$ value was $- 0 . 1 5 \\pm 0 . 2 7$ (mean $\\pm \\mathrm { S D }$ ,ranging from $- 0 . 8 5$ to 0.39） in our participants. The frequency distributions of the NS score and $l$ are shown in Fig. S1. We found a positive correlation between risk preference and the NS score ( $_ { r = 0 . 5 5 5 }$ $\\scriptstyle { p = 0 . 0 0 1 }$ ) (Fig.2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Neuroimaging Results. We observed significant activation elicited by risk prediction in the right inferior parietal lobule (r-IPL),supplementary motor area (SMA), right striatum (r-striatum),left anteriorinsula (l-AI) and the right posterior insula (r-PI) (Fig.3a,Table 2).Moreover,we found significant activation elicited by reward prediction in several cortical regions,including the right inferior parietal lobule,and in several subcortical brain regions,including the bilateral striatum (Fig.3b,Table 2).We also observed significant activation elicited by the difficulty of choice comparison in the dorsal anterior cingulate cortex (dACC),anterior insula (AI),and other brain regions (Fig. 3c,Table 2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,we found significant correlations that exceeded the Bonferroni-corrected threshold between the NS score and activation elicited by risk prediction in four ROIs related to risk prediction,including the SMA $\\prime { = } - 0 . 5 6 8$ 2 $\\scriptstyle P = 0 . 0 0 1$ )，r-striatum( $r = - 0 . 5 0 9$ 2 $\\begin{array} { r } { p = 0 . 0 0 4 , } \\end{array}$ ，1-AI( $\\stackrel { \\prime } { r } = - 0 . 5 3 7 ;$ $\\scriptstyle P = 0 . 0 0 2 )$ and $\\mathbf { r } { - } \\mathrm { P I }$ 0 $r = - 0 . 5 1 2$ $\\begin{array} { r } { p = 0 . 0 0 4 , } \\end{array}$ (Fig. 4).For the ten ROIs related to reward prediction or the eight ROIs related to the difficulty ofchoice comparison,the threshold for the Bonferroni correction should have been smaller than O.oi.However, even if we set the threshold to $\\textstyle p < 0 . 0 1$ (the threshold for the ROIs of risk prediction), no significant correlation was found between NS and the activation elicited by reward prediction or the difficulty of choice comparison in these ROIs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b98e4ff9b8caadeb43be0199bf81ec975943acb7031be75b9b3d5828a9697779.jpg",
+        "img_caption": [
+            "Figure 3.Localised ROIs. Brain regions responding to $a$ ，the risk prediction; $^ { b , }$ the reward prediction; $\\mathbf { \\boldsymbol { c } } ,$ （20 the difficulty of choice comparison. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Risk Prediction Processed in the r-Pl and NS.To verify the relationships between NS and brain activation related to risk prediction,we conducted a partial correlation and mediation analysis.In the partialcorrelation analysis,we found that only the activation elicited by risk prediction in the $\\mathbf { r }$ -PI showed a significant correlation with NS after controlling for the effect of risk preference $\\mathbf { \\check { r } } = - 0 . 4 6 2$ $\\mathtt { p } = 0 . 0 1 2 )$ (Bonferroni correction with an adjusted alpha level, $0 . 0 5 / 4 = 0 . 0 1 2 5$ ). The relationships between NS and activation of the SMA $\\mathbf { \\tilde { r } } = - 0 . 4 2 5$ ， $\\mathtt { p } = 0 . 0 2 2 \\AA$ ), $\\mathbf { r }$ -striatum( $\\mathrm { \\ddot { r } } = - 0 . 3 8 6$ ， $\\mathrm { p } { = } 0 . 0 3 9 \\$ ）andl-AI $( \\mathbf { r } = - 0 . 3 6 1$ $\\mathfrak { p } = 0 . 0 5 4 )$ were not significant after controlling for risk preference. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd458e17057204062320e75e3abb4fe3170146aabc3624e6636a60c250467abb.jpg",
+        "table_caption": [
+            "Table 2.Brain regions responding to the risk prediction,the reward prediction,and the diffculty of choice comparison,all survived whole-brain correction for familywise error at a cluster-level threshold of $\\mathtt { p } < 0 . 0 1$ and a voxel-level threshold of $\\mathtt { p } < 0 . 0 0 1$ .aCoordinates in Talairach space $\\mathbf { \\dot { X } } ,$ positive left and negative right; y, positive posterior to negative anterior; $\\mathbf { z } _ { \\mathrm { { : } } }$ ，positive superior and negative inferior). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ROI</td><td>Brain region</td><td>Voxels</td><td>xa</td><td>y</td><td></td></tr><tr><td colspan=\"6\">risk prediction</td></tr><tr><td>r-IPL</td><td>right inferior parietal lobe</td><td>726.0</td><td>-40.5</td><td>31.5</td><td>35.5</td></tr><tr><td>SMA</td><td>supplementary motor area</td><td>310.0</td><td>-13.5</td><td>-4.5</td><td>32.5</td></tr><tr><td>r-striatum</td><td>right striatum</td><td>193.0</td><td>-12.7</td><td>13.2</td><td>10.8</td></tr><tr><td>1-AI</td><td>left anterior insula</td><td>112.0</td><td>34.2</td><td>-18.1</td><td>6.8</td></tr><tr><td>r-PI</td><td>right posterior insula</td><td>92.0</td><td>-44.2</td><td>28.1</td><td>23.1</td></tr><tr><td colspan=\"6\">reward prediction</td></tr><tr><td>r-striatum</td><td>right striatum</td><td>1133.0</td><td>-10.5</td><td>-7.5</td><td>-6.5</td></tr><tr><td>1-striatum</td><td>left striatum</td><td>195.0</td><td>10.0</td><td>1.2</td><td>12.0</td></tr><tr><td>PCC/precuneus r-IPL</td><td>posterior cingulate cortex/precuneus right inferior posterior lobe</td><td>1791.0</td><td>-5.0</td><td>36.5</td><td>39.7</td></tr><tr><td>r-STG</td><td>right superior temporal gyrus</td><td>1440.0</td><td>-36.6 -44.7</td><td>31.7</td><td>48.7</td></tr><tr><td>1-STG</td><td>left superior temporal gyrus</td><td>2600.0</td><td></td><td>28.5</td><td>2.6</td></tr><tr><td>ACC</td><td></td><td>2369.0</td><td>32.6</td><td>36.5</td><td>-13.8</td></tr><tr><td>1-SFG</td><td>anterior cingulate cortex</td><td>412.0</td><td>3.3</td><td>-29.3</td><td>14.9</td></tr><tr><td>r-lingual gyrus</td><td>left superior frontal gyrus</td><td>139.0</td><td>21.1</td><td>-30.7</td><td>43.2</td></tr><tr><td></td><td>right lingual gyrus</td><td>134.0</td><td>-21.2</td><td>91.2</td><td>0.2</td></tr><tr><td>1-MTG</td><td>left middle temporal gyrus</td><td>132.0</td><td>35.4</td><td>77.5</td><td>25.0</td></tr><tr><td colspan=\"6\">choice difficulty</td></tr><tr><td>dACC</td><td>dorsal anterior cingulate cortex</td><td>2475.0</td><td>8.7</td><td>-6.0</td><td>43.6</td></tr><tr><td>1-precuneus</td><td>left precuneus</td><td>2294.0</td><td>13.8</td><td>67.4</td><td>23.2</td></tr><tr><td>thalamus</td><td>bilateral thalamus</td><td>834.0</td><td>-1.5</td><td>18.7</td><td>0.2</td></tr><tr><td>1-AI</td><td>left anterior insula</td><td>306.0</td><td>31.8</td><td>-14.9</td><td>7.2</td></tr><tr><td>r-AI</td><td>right anterior insula</td><td>279.0</td><td>-35.4</td><td>-14.0</td><td>5.4</td></tr><tr><td>r-MFG</td><td>right middle frontal gyrus</td><td>258.0</td><td>-36.8</td><td>-29.4</td><td>30.9</td></tr><tr><td>r-IOG</td><td>right inferior occipital gyrus</td><td>114.0</td><td>-27.7</td><td>87.1</td><td>-3.9</td></tr><tr><td></td><td>right inferior frontal gyrus</td><td></td><td></td><td></td><td></td></tr><tr><td>r-IFG</td><td></td><td>89.0</td><td>-47.0</td><td>-0.8</td><td>31.9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results of mediation analysis were consistent with those from the partial correlation,and only the activation elicited by risk prediction in the $\\mathbf { r } { - } \\mathrm { P I }$ was correlated with NS without significant mediation of risk preference. The detailed results of mediation analysis are shown in the Supplementary Materials (Fig. S2 and Fig. S3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NS and rsFC among the ROls.For ROIs with activation that was correlated with NS (i.e., the SMA, r-striatum,l-AI and r-PI, which were also related to risk prediction),the rsFC among them was calculated,and the group statistics of the correlation coeficient matrix are shown in Fig. S4.Then, the correlation between the rsFC among these regions and the NS score was calculated.The NS score demonstrated a negative correlation with the rsFC between the r-PI and $\\mathbf { r }$ -striatum ${ ' r = - 0 . 5 1 1 }$ ， $p = 0 . 0 0 4 )$ and the rsFC between the r-PI and l-AI ( $r = - 0 . 4 4 7$ ， $\\scriptstyle p = 0 . 0 0 9$ ,nearly significant after Bonferroni correction) (Fig.5). However, the NS score showed no significant correlation with the rsFC between the SMA and $\\mathbf { r }$ -striatum 0 $\\scriptstyle { r = - 0 . 4 3 3 }$ $p { = } 0 . 0 1 7 .$ ),rsFC between the SMA andl-AI ( $r = - 0 . 3 4 8$ 0 $p { = } 0 . 0 6 0 \\mathrm { , }$ ),rsFC between the SMA and r-PI ( $_ { r = - 0 . 0 8 1 }$ ， $\\scriptstyle P = 0 . 6 7 1$ ),or the rsFC between the r-striatum and l-AI ( $\\stackrel { \\cdot } { r } = - 0 . 2 9 7$ 0 $\\scriptstyle p = 0 . 1 1 1$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we found that NS was positively correlated with individual risk preference.Moreover, consistent with previous studies15,731-33，activation elicited by risk prediction was observed in the $\\mathbf { r }$ -IPL, SMA,r-striatum,l-AI and $\\mathbf { r }$ -PI. The activation in the SMA,r-striatum,l-AI and $\\mathrm { \\bf r { - } P I }$ showed a negative a 24 r = -0.511 b 24 -0.447 2o p = 0.004 20 0 p = 0.009 4 4 -0.10.0 0.1 0.20.30.40.50.60.7 -0.4-0.3-0.2-0.1 0.00.10.20.30.4 rsFCbetween the r-striatum and the r-Pl rsFC between the l-Al and the r-Pl correlation with the NS score.Within these four brain regions,only the activation associated with risk prediction in the r-PI showed a significant correlation with NS after controlling for the effect of risk preference.The resting-state functional connectivity between the r-PI and r-striatum/l-AI was negatively correlated with NS. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5c584db3df9272dd1b2a97fe56a944851d2ceb50b235fe7edf455e2c2d9e3ec.jpg",
+        "img_caption": [
+            "Figure4.Negative correlations between NS and activation elicited by risk prediction in $^ a$ ,the SMA; $b ,$ the r-striatum; c, the l-AI; $d ,$ ther-PI ",
+            "Figure 5. The correlation between rsFC and NS.The rsFC between r-PI and $1 { \\cdot } \\mathrm { A I / r }$ -striatum was negatively correlated with theNS score. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Consistent with our first hypothesis,NS was found to be positively correlated with risk preference. Previous studies have demonstrated that alcoholism is accompanied by high risk preference18,19 and high NS5. These results were consistent with ours,but they did not reveal the relationship between NS and risk preference. Our results indicate a higher risk preference in people with a higher NS,suggesting that a novel choice with risk is more attractive to individuals with a higher NS. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Consistent with our second hypothesis,NS showed a negative correlation with activation elicited by risk prediction in the SMA,r-striatum,l-AI and r-PI. This suggests that NS interacts with the brain activities related to risk prediction.In addition,risk prediction,reward prediction and the diffcultyof choice comparison might influence choice preferencel6 in different ways (e.g.,decreased aversion to risk, changed processing of reward and different attitudes to diffculty when dealing with choice comparison). However,we did not find a significant correlation between the NS score and activation related to reward prediction or diffculty of choice comparison.This might suggest that NS predicts individual differences in risk prediction processing but not necessarily in reward prediction processing or choice comparison. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These brain activities elicited by risk prediction influence NS,and they have been reported to be important in sensation,emotion,and risk processing.For example,PI has been reported to be involved in somatosensory information processing34.35， emotional and cognitive processing36.37and risk15,38; A1 plays an important role in emotion, risk and risk prediction error17,39; the striatum responds to risk15, sensory information input40 and intuition/automatic cognitive computing41. This suggests that risk prediction processing may influence NS through risk sensation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In particular,the correlation between NS and activation associated with risk prediction in these brain regions was negative.A previous study reported that for risk-seeking individuals,compared to risk-aversive individuals,risk elicited a lower activation in the striatum and insula³3.Furthermore,we found that the correlation of NS with the rsFC between the r-PI and r-striatum/l-AI was also negative. Cox et al.42 reported that increased risk aversion was associated with a stronger rsFC between the insula and other brain regions.These results suggest that low activation of risk prediction-related brain regions and a low rsFC among these brain regions reflect decreased aversion to risk in high novelty seekers. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In brief,the present study centres around two relationships,the relationship between NS and risk preference and the relationship between NS and activation elicited by risk prediction.A positive correlation between NS and risk preference suggests that higher NS is related to higher risk preference. Alternatively,the mechanism of higher risk preference could be interpreted as preferring risk or ignoring risk. Considering the neuroimaging result showing that the correlation between NS and activation in brain regions related to risk prediction or the rsFC was negative,we speculate that high NS is related to less neural sensitivity or less aversion to risk. Therefore, both relationships collectively suggest that higher NS may be associated with less aversion to risk. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the partial correlation analysis and supplemental mediation analysis,we found that only the activation associated with risk prediction in the r-PI showed acorrelation with NS after controlling for the effect of risk preference and that only the correlation between NS and activation associated with risk prediction in ther-PI was not significantly mediated by risk preference.These results help to confirm the relationship between risk prediction processed in the r-PI and NS.Moreover,the rsFC between the r-PI and r-striatum/l-AI was negatively correlated with NS,and no significant correlation was found between NS and rsFC among other pairs of ROIs.These results consistently indicate the role of the r-PI in linking risk predictionand NS.Why is this processassociated with the r-PI? The functional segregation of the insula in the anterior-posterior dimension and the posible functional significance of the rsFC between the r-PI and other ROIs are discussed below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Numerous studies have examined the sub-regional segmentation of the insula. Most studies have reported that the AI is mostly related to self-awareness,salience detection,cognition,and other emotional/ocial behaviours,but the PI is mostly linked to sensory perception and motor-related functions43. However,a previous study demonstrated that the uncertain expectation of painful stimuli enhances responses to non-painful stimuli in the $\\mathrm { P I ^ { 4 4 } }$ .Another study36 showed that social rejection shares somatosensory representations with physical pain in the PI.Therefore,it seems that the PI is involved not only in sensory perception but also in influencing an individual's inner state and motivation to outside stimuli.Therefore,in the present study, the PI might influence the personality trait of NS by modulating the internal state of risk sensation during risk processing. Moreover,a previous study45 suggested that somatosensory information is first processed in the PI and then conveyed to the AI where the emotional reaction is elaborated.Another study46 reported altered intrinsic functional connectivity between the AI and the PI in individuals with autism spectrum disorder, which suggests that a network involving emotional and interoceptive awareness is important for social abilities.Therefore,it seems that the PI is also involved inmodulation of the affective aspect through connections with the AI.Inaddition,arecent study47reported decreased striatal-posterior insula connectivity in cocaine-addicted individuals,and this connectivity decline predicts relapse risk and impulsivity. Considering both the previous evidence and our results,the PI might play a role in influencing the internal state of risk sensation and the motivation to outside stimuli by risk,which then manifests the personality trait of NS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In a previous studyl, novel stimulus-related brain activation in the striatum was found to be correlated with individual NS scores.The activation related to the reward overlapped with the striatum,and Wittmann proposed that exploration of novelty shares properties with reward processng. However, the novel stimuli in that study were complex and had more properties than the reward.Although the striatum is a reward-related brain region,it also responds to riski5.In particular,another study found that NS was positively correlated with reward system SN/VTA activation elicited by novel cues without expected reward24.In the present study,only activation elicited by risk prediction was found to be correlated with NS.Therefore,we speculate that the results of Whitman’ study could be alternatively explained as an effect of the risk prediction or novelty per se. Of course,this requires further evidence. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There are two limitations of the present study. First,the present study uses a block design,and there is no inter-trial jiter in the task implementation.Instead,we used a parametric analysis for the brain activities related to risk prediction,and the risk prediction varied trial by trial.Therefore,our task design should not greatly influence the robustness of our results.Second,although we found significant partial correlation results only in the r-PIand not in the other three brain areas,the coefficients of the other three brain regions did not show significant differences from that of the r-PI.Therefore,it is dificult to judge the functions of the other three brain regions are functional dissociated from the r-PI. In the present study, we employed two types of data analyses (the mediation analysis and the rsFC data),and both showed consistent results to those of the partial correlation, suggesting converging evidence and further supporting our conclusion. Moreover, future studies are required to reveal the different roles of these four brain areas in decision making and NS processing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, using the TPQ and a probabilistic decision making task,the present study examined the relationships between NS and risk-related cognitive processes.The NS score showed a positive correlation with risk preference and a negative correlation with the activation elicited by risk prediction, suggesting that higher NS might be associated with less aversion to risk.The results of partial correlation, mediation analysis and rsFC-related correlation confirm the role of the $\\mathbf { r }$ -PI in relating risk prediction to NS. Our findings possibly offer new insight into the neural mechanisms of NS and NS-related disorders, and future studies on the PI,as well as its related neural network,might provide a new basis for the treatment of NS-related disorders. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Participants. Thirty normal participants completed the task (3 females; mean $\\pm \\mathrm { S D }$ age, $2 3 . 5 7 \\pm 2 . 3 4$ years;mean $\\pm \\mathrm { S D }$ years of education, $1 6 . 8 3 \\pm 2 . 0 7$ years).All were graduate or undergraduate students from the University of Science and Technology of China.Allparticipants gave informed consent in agreement with the Declaration of Helsinki.The Research Ethics Committee of the University of Science and Technology of China approved allexperimental procedures.The methods were carried out in accordance with the approved guidelines. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Task.The task was modified from a former studyl5.There were l8O trials in total. In each trial, four decks (Deck A,B, C,and D) were presented horizontally on the computer screen. A number randomly selected from an arithmetic sequence (from O to l00,step 5） was explicitly presented on each card. The participants chose one deck among the four decks.If the number on the first card of the selected deck was larger than that on the second card of the deck,the participant would win a certain number of points. Otherwise,the participant would lose a certain number of points (Fig.1). Specifically, the participants would win 100 points or lose 125 points by selecting Deck A or Band would win 50 points or lose 25 points by selecting Deck C or D.The numbers were pseudo-randomised and were the same across all participants.In each deck, the numbers on adjacent cards were never the same.In each trial, the number on Deck A was different from that on Deck B because of their shared possible winning and losing, the number on Deck C was different from that on Deck D.The number on Deck A could be the same as that on Deck C or D,etc. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Procedure.Participants were clearly informed the instructions regarding the task described above and were informed that the experiment did not involve deception. Participants were also briefed on the payment,including the fact that the payment would be sensitive to the task performance.Subsequently, participants completed the training session for the task outside the scanner, which lasted $\\sim 5 \\mathrm { { m i n } }$ and did not involve any payment. During the training session,each participant performed a short version of the task to become familiar with it.Then,after a ${ \\sim } 1 0 \\mathrm { m i n }$ break and before entering the MR scanner,all participants were told to keep their heads steady during allscans. One 8 min functional scan for resting-state fMRI data was performed while participants kept their eyes closed,followed by three functional scans consisting of 18O trials for fMRI data collection during the task; each scan lasted for $7 \\mathrm { { m i n } }$ . There was an interval of ${ \\sim } 1 \\mathrm { m i n }$ between each scan. Each scan consisted of 3 task blocks separated by a $3 0 s$ -resting (fixation)block,and each task block contained 20 trials.Participants received the accumulated outcomes from the task in the scanner plus the base endowment of 30 RMB (approximately 4.8 U.S. dollars). Finally,the amount of the payment participants received was between 94.0o RMB (approximately 15.06 U.S.dollars) to 123.75 RMB (approximately 19.83 U.S. dollars). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Novelty-Seeking Scale.All participants completed the Tridimensional Personality Questionnaire, which contains three subscales including the Novelty Seeking Scale.In this study, we only analysed data from the Novelty-Seeking Scale,which contains 34 true-false questions,and higher scores reflect greater NS. Cronbach's Alpha value of internal consistency measurement was 0.698.The Novelty-Seeking scale has been widely used in the Chinese population; it has good psychometric properties in the literature and is reported to be cross-culturally robust25,48. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Data Acquisition.AllMRI scans were collcted on a Siemens Magnetom Trio 3.0-T scanner (Siemens Medical Solutions,Erlangen, Germany) in the Anhui Provincial Hospital.A circularly polarised head coil was used,with foam padding to restrict head motion.Functional images,including the task-related fMRI data and the resting state fMRI data,were acquired with a ${ \\mathrm { T } } 2 ^ { * }$ -weighted echo-planar imaging sequence L $\\mathrm { T E } = 3 0 \\mathrm { m s }$ ， $\\mathrm { T R } = 2 0 0 0 \\mathrm { m s }$ ， $\\mathrm { F O V } = 2 4 0 \\mathrm { m m }$ ，Matrix $= 6 4 \\times 6 4$ ，flipangle $= 8 5 ^ { \\circ }$ ）with 33 axial slices (no gaps,voxel size: $3 . 7 5 \\times 3 . 7 5 \\times 3 . 7 \\mathrm { m m } 3 \\mathrm { \\cdot }$ ）covering the whole brain. Corresponding high-resolution ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "T1-weighted spin-echo (for anatomical overlay) images and three-dimensional gradient-echo (for stereotaxic transformation） images were also collected $\\mathrm { \\bar { T R } } = 1 9 0 0 \\mathrm { m s }$ $\\mathrm { T E } = 2 . 2 6 \\mathrm { m s }$ $\\mathrm { T I } = 9 0 0 \\mathrm { m } s$ $1 \\mathrm { m m }$ isotropic voxel; $2 5 0 \\mathrm { m m }$ field of view (FOV)). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Behavioural Data Modelling.The utility of each choice was measured in combination with its predicted reward and risk (variance of the rewardl5,17). The algorithms were implemented with MATLAB (version 7.6.0.324, The Mathworks Inc,Natick,MA). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In accordance with previous studies of risk during decision makingl5,17, in this study, $\\boldsymbol { r } _ { t }$ denoted the reward and $\\nu _ { t }$ denoted the expected reward based on the number on the first card, i.e., ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { t } = E \\left[ r _ { t } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The prediction error equals $r _ { t } - \\nu _ { t } . h _ { t }$ denotes the risk prediction,the risk prediction is the expected size-squared of this prediction error, namely, the variance, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { t } = E [ ( r _ { t } - \\nu _ { t } ) ^ { 2 } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on the reward prediction and the risk prediction,the utility of choice i at trial t could be estimated16. ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i t } = \\nu _ { i t } + l \\cdot \\sqrt { h _ { i t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $l$ is the risk preference49 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\pi _ { i t }$ is the probability to select the choice i in trial t; $\\pi _ { i t }$ was calculated with the softmax rulel6 $\\scriptstyle ( \\mathrm { n = 4 } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pi _ { i t } = \\frac { e ^ { \\hat { u } _ { i t } } } { \\sum _ { i = 1 } ^ { n } e ^ { \\hat { u } _ { i t } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The algorithm was fitted to the data from the l8O decisions (trials)made by each participant. The risk preference $( l )$ was estimated for each participant by maximising the log transformed likelihood16: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM L L = \\operatorname* { m a x } _ { k , l \\sum _ { t = 1 } ^ { 1 8 0 } } \\log \\ \\pi _ { t , i _ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For it, the deck chosen at trial t, t = 1...,180, $\\mathbf { i } _ { \\mathrm { t } } \\in \\{ 1 , 2 , 3 , 4 \\}$ ,and $\\pi _ { t , i _ { t } } ^ { } ,$ is the probability of selecting deck $\\mathbf { i } _ { \\mathrm { t } }$ in trial t.The global maximum was a search with 10oo steps and for 4 restarts; the parameter constraint was $l \\in [ - 1 , \\bar { 1 } ]$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Shannon's Entropy26,27 was computed to measure the difficulty of choice comparison in a trial: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH t = - \\sum _ { i = 1 } ^ { 4 } \\pi _ { i t } \\log _ { 2 } \\pi _ { i t }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary, through behavioural modeling,the reward prediction,risk prediction and difficulty of choice comparison were estimated.At the same time,the risk preference $( l )$ was also estimated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Behavioural Data Analysis.We simulated 100O random data sets of the task with a computer. We modelled the random data with the same algorithm as that used for the participants' data.The goodness of fit of the model was evaluated using the maximum likelihood $( \\mathrm { M L L } ) ^ { 3 0 }$ ，Akaike information criterion (AIC) values, AICc (the corrected form of the AIC),and Bayesian exceedance probability $( \\mathrm { B I C } ) ^ { 3 0 }$ The statistics of the model for participant data were compared with those for the random data with anindependent-samples t-test.In addition,the probabilities of choosing the four decks in a trial were obtained in the modelling. The deck with maximal probability was considered the predicted choice by our model. The prediction accuracy of the model was compared with the random level $( 2 5 \\% )$ with an independent-samples t-test.Finally,the Pearson correlation between individual risk preference and the NS score was also computed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "fMRI Data Analysis. Preprocessing for task-related fMRI data. The imaging data were processed with $\\mathrm { A F N I } ^ { 5 0 }$ .Linear and quadratic detrending was first applied to each participant's raw data, then it was corrected for temporal shifts between slices and head motion,spatially smoothed with a Gaussian kernel (full width at half maximum $\\ r = 8 \\ \\mathrm { m m }$ ),and temporally normalised. Head movement in the MRI scanner for all data was less than $2 \\mathrm { m m }$ or 2 degrees in displacement or rotation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Localising of regions of interest (ROIs).After preprocessing of the task-related fMRI data,a General Linear Model (GLM) was used to localise the regions of interest (ROIs) related to the risk prediction, reward prediction,and dificulty of choice comparison for each participant.This analysis included the regressors constructed from trial-by-trial estimates of the risk prediction,reward prediction,and difculty of choice comparison. These regressors were convolved by the gamma function to approximate the haemodynamic response of the brain to a stimulus. The regresson analysis also included six regressors for head motion. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The resultant activation ( $\\mathbf { z }$ -transformed $\\beta$ -value） of each regressor in each participant was transformed to the Talairach space and then entered into a group-level one-sample t test.Responses were identifed if they survived whole brain correction for family-wise error ata cluster-level threshold of $\\mathfrak { p } < 0 . 0 1$ (e.g., risk prediction, cluster size $> 2 4 3 0 \\mathrm { m m } ^ { 3 } .$ ）andavoxel-level threshold of $\\mathrm { p } < 0 . 0 0 1$ . Clusters in which the activation showed a positive correlation with risk prediction were defined as ROIs related to risk prediction.ROIs related to the reward prediction or difficulty of choice comparison were obtained in a similar manner. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Correlation between NS and activation of ROIs.For each risk prediction-related ROI,the averaged activation of voxels elicited by risk prediction ( ${ \\bf \\Phi } _ { Z }$ -transformed $\\beta$ -value) within this ROI was calculated for each participant. The correlation coeffcient between the activation and his/her NS score was calculated with a Pearson correlation.Because there were five ROIs related to risk prediction in total, the significance level for each correlation coefficient was performed with multiple comparisons correction (Bonferroni correction with an adjusted alpha level, $0 . 0 5 / 5 = 0 . 0 1$ ). The same procedure was applied to ROIs related to reward prediction and the difficulty of choice comparison. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Partial corelation and mediation efect of the risk preference. One of the main findings in this study was the correlation between neural activation associated with risk prediction and NS.However, consistent with previous reports2,23,our fMRI results showed a correlation between the neural activation elicited by risk prediction and risk preference. Our behavioural results showed that risk preference was in turn associated with the NS score.Therefore, it is reasonable for us to suspect that the neural basis of risk prediction influences NS via a mediation efect of individual risk preference.Because it is rational to consider neural activation the biological basis relating an individual trait (e.g.,risk preference) to another personality trait (e.g.,Novelty Seeking),we used a directed mediationanalysis (See details in Supplementary Materials).To verify the relationship between the activation related to risk prediction and NS,an analysis of partial correlation between NS and the brain activation associated with risk prediction after controlling for individual risk preference was also performed with multiple comparisons correction (Bonferroni correction with an adjusted alpha level, $0 . 0 { \\bar { 5 } } / 4 = 0 . 0 1 2 5$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Correlation between rsFC and NS. Resting-state fMRI data processing was also conducted with AFNI. Initial procesing included linear and quadratic detrending, correction for temporal shifts between slices and head motion, spatially smoothing with a Gaussian kernel (full width at half maximum $= 8 \\mathrm { m m }$ ,and temporal normalisation.We further performed a regression of allvoxels' time serials with regard to 6 motion parameters,and data scrubbing was performed following the method of Power and coleagues51, excluding any volume with a framewise-dependent value exceeding 0.5. During the scrubbing step, the number of removed volumes ranged from O to 21 (less than $1 0 \\%$ of all the 240 volumes) among all participants.Then,bandpass temporal filtering $( 0 . 0 1 \\mathrm { - } 0 . 0 8 \\mathrm { H z } )$ was performed on the residual signals to obtain the low-frequency fluctuation. Next, to further reduce nuisance signals,we regressed out the average signals in the white matter and the CSF. The mask of white matter for each participant was determined from the high-resolution structural image using the FAST segmentation program of Functional MRI of the Brain software library (www.fmrib.ox.ac.uk).The CSF mask for each participant was manually drawn according to the anatomical boundaries of the cortical structures of a standardised Talairach atlas brain,transformed onto the image space of the individual,and then modified according to the cortical structures of the individual brain by referencing to the anatomical boundaries in the high resolution three-dimensional structural image. These nuisance signals were used to account for fluctuations that were likely not relevant to neuronal activity.The resultant resting-state fMRI data were then subjected to functional connectivity analysis52. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ROIs that were significantly correlated with the NS score were selected as seed regions.Then,for each participant, the seed region defined in Talairach space was transformed to his/her original image space. The preprocessed resting-state fMRI time series were averaged within each seed region. Correlation coefficients (r values) were calculated among averaged time series of the seed regions and then transformed to Fisher z values.Then,the correlation between the z values and the NS scores was calculated. We performed a multiple comparisons correction with a threshold of 0.Oo8 (Bonferroni correction with anadjustedalphalevel, $0 . 0 5 / 6 = 0 . 0 0 8$ ） ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.Wittmann,B.C.Daw,N.D.Seymour,B.&Dolan,R.J.riatalactivityunderliesnoveltybasedchoiceinumans.Neuron8,   \n967-973,doi:10.1016/j.neuron.2008.04.027 (2008).   \n2.Cloniger,C.R.Przybeck,T.R.&Svrakic,D.M.TheTridimensionalPersonalityQuestionnaire:US.normativedata.Psychol. Rep.69,1047-1057,doi:10.2466/pr0.1991.69.3.1047 (1991). 4. Stansteld, Etects of novelty on behavior in the adolescent and adult rat. Dev. Psychobiol. 48,10-15, doi:10.1002/dev.20127 (2006).   \n5.Grucza,R.A.etlNoveltyseekingsmoderatoroflialisfalcooldependencelcool.ClnExp.Res3,8, doi: 10.1111/j.1530-0277.2006.00133.x (2006).   \n6.Krug,I.etal.Lifetimesubstanceabuse,family historyofalcoholabuse/dependenceand noveltyseking ineatingdisorders: comparisonstudyof eatingdisorder subgroups.Psychiatry Clin.Neurosci.63,82-87,doi:10.111/j.1440-1819.2008.01908.x (2009). 7.Sara,S.J,Dyon-Laurent,C.&Herve,A.Noveltyseekingbeaviorintheratisdependentupotheintegrityofthenoradreergic system.Brain Res.Cogn. Brain Res.2,181-187(1995).   \n8.Savage,S.W.etal.RegulationofnoveltysekingbymidbraindopamineD2/D3signalingadhrelinisalteredinobesityObesity 22,1452-1457,doi:10.1002/oby.20690 (2014).   \n9.Bermpohl,Fetal.Noveltyseekingmodulatesmedialprefrotalactivityuringtheaticipationofemotialtiuli.syatry Res.164,81-85,doi:10.1016/j.pscychresns.2007.12.019 (2008).   \n10.Suhara,T.etal.DopamineD2receptorsintheinsularcortexandthepersonalitytraitofnoveltyseking.Neuromage13, 891-895,doi:10.1006/nimg.2001.076i (2001).   \n11.Harrison,N.A,Cercigani,,Von,V.&richleyH.D.fectsofIfamationoHipoampusandubtanaiga Responses to Novelty in Healthy HumanParticipants.Neuropsychopharmacology,doi:10.1038/npp.2014.222 (2014).   \n12.Lawson,A.L.etal.Sensationsekingpredictsbrainresponsesintheold-newtask: Converging multimodal neuroimaging evidence.Int.J.Psychophysiol.84,260-269,doi:10.1016/j.ijpsycho.2012.03.003 (2012).   \n13.Nagavi,Hd,J,g,le in the hippocampal region.Psychiatry Res 173,94-99,doi:10.1016/j.pscychresns.2008.09.011 (2009).   \n14.Preuschoff,K.&Bosserts,PAddingpredictionrsktothetheoryofrewardlearning.Ann.N.YAcad.Sci10,135-146, doi:10.1196/annals.1390.005 (2007).   \n15.Preuscoff,Kosserts,P.&Quartz,S.uraldietiatiofexpctedwarddisinumanuborticactre. Neuron 51,381-390,doi:10.1016/j.neuron.2006.06.024 (2006).   \n16.dAcremont,M,Lu,Z.LLi,XVanderLinden,M.&Becara,A.Nuraelateorispredictionrorduringrenfrcent learning in humans. NeuroImage 47,1929-1939,doi:10.1016/j.neuroimage.2009.04.096 (2009).   \n17.Preuschoff,K.,Quartz, S.R.& Bossaerts,P.Human insula activation reflects risk prediction errors as well as risk.J. Neurosci. 28,2745-2752,doi: 10.1523/Jneur0sci.4286-07.2008 (2008).   \n18.Nasrallah,N.A., Yang,T.W.H.& Bernstein, ong-term risk preference and suboptimal decision making following adolescent alcohol use.Proc.Natl.Acad.Sci. USA 106,17600-17604,doi:10.1073/pnas.0906629106 (2009).   \n19.McMurray.S.moeo,LR.&oan,J.Dfctsfvountaryloltakeoskpreerenceadbvioaelit during rat adolescence.PLoS One 9,el00697,doi:10.1371/journal.pone.0100697 (2014).   \n20.BlackDtalersoaitisrdersIpsiveessdovelteeinginerssit-Vathogicalbng and Their First-Degree Relatives.JGambl Stud,doi:10.1007/s10899-014-9505-y (2014).   \n21.Bosserts,PRiskandriskpredictionerorsignals inanteriorinsula.rainstructurefunction214,645-653,doi:10.10/ s00429-010-0253-1 (2010).   \n22.Engelma,JB.&amir,DIdivualdfrencesiniskpreferenceprdicturalresponsesdurngfancialecision-aking. Brain Res.1290,28-51,doi:10.1016/j.brainres.2009.06.078 (2009).   \n23.Roitman,JD.&oian,M.Rsk-preferencedifereniatesoitofrontalcortexsponss tfrelyoseneardcomes. Eur.J. Neur0sci. 31,1492-1500,doi:10.1111/j.1460-9568.2010.07169.x (2010).   \n24.Krebs,R.,chottB.H.&uzel,E.Personalittraitsaredierentiallyassociatedwithpatternsofrewardandnovelty procesing intheumansubstantiangraventraltegmentalareaBiol.Psychiatry5,03-10,doi:0.016biopsych08.19 (2009).   \n25.Zald,D.H.etal.MibrainDopamineReceptorAvailabilityIsInverselyAsociatedwithNovelty-SekingTraitsinHuans.J. Neurosci.28,14372-14378,doi:10.1523/Jneurosci.2423-08.2008 (2008).   \n26.Fan,J.Aninformationtheryountofogitiveontrol.Front.Hm.Neurosci.,680doi:389/fnum2468(01).   \n27.Bach,D.R,Hulme,O.Penny,WD.&Dolan,R.JTheKnownUnknows:NeuralRepresentationofSecond-OrderUncertainty and Ambiguity.J.Neurosci.31,4811-4820,doi:10.1523/Jneurosci.1452-10.201(2011).   \n28.Wei,D.T.et al. Increased resting functional connectivity C ne medial prefrontal cortex in creativity by means of cognitive stimulation. Cortex 51,92-102,doi: 10.1016/j.cortex.2013.09.004 (2014).   \n29.Wang,T.etal.LinkinginterdivdualdferencesintecoflictdptatiofecttosotaeousbainactiityNeroge90, 146-152,doi:10.1016/j.neuroimage.2013.12.055 (2014).   \n30.Suzuki,S.etal.Learning tosmulateothers'decisions.Neuron74,125-1137,doi:0.016/j.neuron2012.04.030(2012).   \n31.Hsu,M.,at,,Adolhs,R.,anel,D.&Camerer,C.FNeuralsystemsresponingtoegrsofucertaintyan decision-making.Science 310,1680-1683,doi:10.1126/science.1115327 (2005).   \n32.Huetel,S.Atowe,C.JGordon,E.Warner,B.T&att,.LNeuralsignaturesofeconomicpreferencesforsad ambiguity. Neuron 49,765-775,doi:10.1016/j.neuron.2006.01.024 (2006).   \n33.Rudorf,S.,reusoff,K.&Weber,uralCrelatsofntipatinisRefctiskPreferences.Jeurosci 16692,doi: 10.1523/Jneurosci.4235-11.2012 (2012).   \n34. zuEulenburg,P,Baumgarter,U.Treede,R.D.&Dieterich,M.Interoceptiveandmultimodalfunctionsofteoperculoinsular cortex:tactile,nociceptiveandvestibularrepresentations.Neuromage83,75-86,doi:10.016/jeuroimage.2013.6.057(03).   \n35.Heydrich,L.&Blanke,O.Distinctilusoryown-bodyperceptionscausedbydmage toposteriorinsulaandextrastriateortex. Brain 136,790-803,doi:10.1093/brain/aws364 (2013).   \n36.Kross,En.G,el,WiE..&geroljectiotossystatiit physical pain. Proc.Natl.Acad.Sci. USA 108,6270-6275,doi:10.1073/pnas.1102693108 (2011).   \n37.Wright,N,monds,.Feing,S..&Dolan,R.J.NuraggationofbectiveandContextualspectse. J.Neurosci.31,5244-5252,doi: 10.1523/Jneurosci.3138-10.2011 (2011).   \n38.Xue,G.,Lu,ZL,Levin,1.P&Bechara,A.AnfMStudyofRskakingollowing WinsandLoses: Implicatiosforte Gambler's Fallacy? Hum. Brain Mapp.32,271-281,doi:10.1002/Hbm.21015 (2011).   \n39.Lawrence,E.J.etal.Self-regulationof theanteriorinsula:Reinforcementlearningusingreal-timefMRI neurofeedback. NeuroImage 88C,113-124,doi:10.1016/j.neuroimage.2013.10.069 (2013).   \n40.Vazquez,Y,ioslvarez,M,asE.&omo,euralodngandperceptaldetectioninheprmateoatoo thalamus.Proc.Natl.Acad.Sci. USA 109,15006-15011,doi:10.1073/pnas.1212535109 (2012).   \n41.Yamamoto,S.,Kim,H.F&Hikosaka,O.Reward Value-ContingentChangesof VisualResponsesinthe PrimateCaudateTail Associated with a Visuomotor Skill.I. Neurosci.33.11227-11238.doi:10.1523/Ineurosci.0318-13.2013 (2013).   \n42.Cox,C.L.etal.YourrestingbrainCAREsaboutyouriskybehavior.PLoSOne5,el2296,doi:10371journalpone.001296 (2010).   \n43.Alcauter,S,in,WKeithith,Jlmore,JH.&GaoWCosistentAnterir-PosterioSregtionofthIsulauing the First 2 Years of Life.Cereb.Cortex,doi:10.1093/cercor/bht312 (2013).   \n44.Sawamoto,N.etalExpectationofpaiehancesresponse tononpainfulsmatosensorystiulationintheanteriorcglate cortex and parietaloperculum/posteriorinsula:an event-related functional magneticresonance imaging study.J.Neurosci.0, 7438-7445 (2000).   \n45.FrotM.,FillenotI.&ugere,Frocessngofociceptiveinutfromosteriortnteroriulainmas.Humran Mapp. 35,5486-5499,doi:10.1002/hbm.22565 (2014).   \n46.Ebisch,S.Jtal.Aleredtrinsicfunctialonectiviyfanterradosterioisulaegionsgfunctioingpartats with autism spectrum disorder. Hum. Brain Mapp.32,1013-1028,doi:10.1002/hbm.21085 (2011).   \n47.McHugh,M.Jetal.tratasulauitsinocaieaddicti:iplicatisformpulsivitydelapsskAm.JDgool Abuse 39,424-432,doi:10.3109/00952990.2013.847446 (013).   \n48.Chen,W.Jetal.Cloninger'sTridimensional PersonalityQuestionnaire:psychometric propertiesandconstructvalidityin Taiwanese adults.Compr.Psychiatry 43,158-166 (2002).   \n49.Bell,D.E.Risk,return,and utility. Management science 41,23-30 (1995).   \n50.Cox,R.W.AFNI:softwareforanalysisandvisualizationoffunctional magneticresonance neuroimages.Comput.Biomed.Res. 29,162-173 (1996).   \n51.PowerJ.DBrnes,KA.Syder,A.,chaggar,B.L.&Petersen,S.E.Spuriousutsystematiccorrelationsinfunctioal conectivityMRInetworksarise fromsubjectmotion.NeuroImage59,2142-2154,doi:10.1523/neurosci1342-12.20l3(2012).   \n52.LiN.etal.Resting-StateFunctional ConnectivityPredictsImpulsivityinEconomicDecision-Making.JNeurosci486- 4895,doi:10.1523/Jneurosci.1342-12.2013 (2013). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Natural Science Foundation of China (31230032, 31171083，31471071)，the Fundamental Research Funds for the Central Universities of China (WK2070000033), Natural Science Fund Project of Anhui Province (1208085MH179), fund of State Key Laboratory of Brain and Cognitive Science,and 1oo Talents Programme of The Chinese Academy of Sciences (BJ2070ooo047).A portion of the numerical calculations in this paper were performed on the supercomputing system in the Supercomputing Centre of USTC. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "X.Z.and Y.W.designed the experiments; Y.W.,R.Z.,and Z.W.conducted the experiments; Y.W.,L.Y.,and FG. analysed the data; Y.W.,L.Y., FG., X.L.,Y.L., Y.Z.,P.Z., Y.P. and X.Z. wrote the manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Wang,Y.et al. Novelty seeking is related to individual risk preference and brain activation associated with risk prediction during decision making.Sci. Rep.5,10534; doi: 10.1038/srep10534 (2015). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,199 @@
+# 海南中部山区到东部沿海区域植物区系比较研究
+
+陈琳，杨小波"，李东海，田璐嘉，张培春，李龙，梁彩群，李晨笛(海南大学 生态与环境学院，海口 570228)
+
+摘 要 海南岛地形中高周低，从中部山区到东部沿海平原地区，由于自然条件及历史上人类干扰程度的不同，植物区系组成发生了一定程度的变化。该研究采用样方和样线调查法，对海南岛中偏东部会山保护区进行物种调查，并结合团队以往调查的中部的五指山原自然保护区（现属热带雨林国家公园）、东部非沿海的白石岭保护区和东北部沿海的铜鼓岭自然保护区的数据，对4个保护区的植物区系组成特点进行比较分析，拟探讨植物区系组成的变化与保护区的次生性、面积及海拔高度等因素的关系。研究结果表明：(1)五指山、会山、白石岭、铜鼓岭保护区分别分布有1893种、1415种、634 种、913种野生种子植物，中部的 2个保护区植物种类明显高于其他2个保护区。(2)保护区之间的物种相似性与海拔差和面积差显著负相关 $( P { < } 0 . 0 5 )$ 。(3)4个保护区均为热带成分占主导地位，但在属水平上五指山热带亚洲分布最多，其他3个保护区泛热带分布最多；种水平上均为热带亚洲分布最多，且为铜鼓岭占比最大。综上所述，从中部山区到东部沿海平原地区表现出，次生性越大，海拔高度越低，生境类型越少，植物物种数越少；同时在属和种的水平上，呈现热带成分增加，温带成分、中国特有分布和子遗属、种的减少的特征。
+
+关键词：地理成分，海南，区系，物种多样性，种子植物中图分类号：Q948.5 文献标识码：A
+
+# A comparative study of floristic elements from central mountainous area to eastern coastal area of Hainan
+
+CHEN Lin, YANG Xiaobo\*,LI Donghai, TIAN Lujia, ZHANG Peichun,LI Long, LIANG Caiqun, Li Chendi (College of Ecology and Environment, Hainan University,Haikou 57O228, China)
+
+Abstract: The terrain of Hainan is high in the middle and surrounded by low terrain on allsides. From the central mountains to the eastern coastal plains,due to the diference of natural conditions and historical human interference,the composition of flora has changed. In this study,quadrant sampling and line transect survey was carried out in Huishan Nature Reserve (in the middle and north of Hainan Island) to discover its composition.Then combined with the data of Wuzhishan Nature Reserve in the middle of Hainan Island (now part of the Tropical Rainforest National Park), Baishiling Nature Reserve in the eastern noncoastal area and Tongguling Nature Reserve in the northeastern coast,which investigated by our the team，compared and analyzed their flora composition characteristics.Try to explore the relationship between the change of flora composition and the secondary,area and altitude of Nature Reserve. The results were as follows: (1) There were 1 893 species,1415 species, 634 species,and 913 wild seed plants in Wuzhishan, Huishan，Baishiling，and Tongguling Nature Reserves，the number of species in the central protected areas was significantly higher than that in the other 2 protected areas.(2)Species similarities between protected areas were significantly correlated with differences in altitude and area $( P { < } 0 . 0 5 )$ . (3) Four protected areas were dominated by tropical elements,but at the level of genera,Wuzhishan was dominated by tropical Asia,while others were dominated pan-tropical distribution; At the level of species, distribution of tropical Asia were the most in four reserves. In conclusion, from the central mountains to the eastern coastal plains,the more secondary, the lower the altitude,the less habitat types,and the number of plant species is poorer; At the same time,at the level of genera and species,the tropical composition were increased, while temperate, endemic and relict elements were decreased.
+
+Key word: geographical element, Hainan, flora, species diversity, seed plant
+
+植物区系指在某一区域、某一时期、某一分类群或者某类植被等所有植物种类的集合；是植物界在一定自然地理条件下，特别是在自然历史条件下，综合作用、发展、演化的结果(马丹炜，2008；Murdjokoet al.,2021)。植物区系的特征可以通过区系植物多样性、生态与地理差异而得到体现(Abdela et al.,2021; Fadl et al.,2021; Nsa et al.,2021)。而生境的差异性会导致植物区系成分在局部呈现差异，如新疆的北疆含有热带亚洲至热带非洲分布的科，但南疆并不含有(冯缨等，2014)。高黎贡山南段和北段因海拔跨度差异，热带成分南段高于北段，温带成分则为北段高于南段(刘经伦等，2016)。此外，朱华(2008)提出云南种子植物区系地理成分中热带成分多度与地区海拔高度密切相关，海拔越低热带成分占比越大。除自然地理因素外，植物区系还受到人类活动强度的影响，过度人为干扰会导致物种区系成分趋于单一，或者造成特征种、狭域分布种减少，广布种、入侵种增多(关卓今等，1998；程占红等，2014)。因此，影响一个地区的植物区系组成变化的因素是错综复杂的。
+
+海南岛为我国第二大岛，面积 $3 . 3 9 \times 1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ ，地形中高周低，植物多样性丰富，具有较高的保护价值（《中国生物多样性国情研究报告》编写组，2018)。近年来许多学者对海南岛的不同保护区做了相应的植物群落调查和区系研究（邢福武等，1993；唐恬等，2002；符国瑷和洪小江，2008；江海声，2013；许哲，2017；胡璇等，2017；罗文等，2020)。均发现，在这些地区植物区系成分热带性质较强，区系起源古老，地理成分来源广泛，呈现一定程度的特有成分分化。目前这些研究大部分集中在保护区的植物区系组成，对不同保护区植物区系组成差异及其形成因素的研究较少。欧芷阳等(2008)研究发现中部山区和沿海地区的植物区系组成有一定差距，铜鼓岭以泛热带分布为主，五指山则以热带亚洲分布为主。黄运峰等(2009)对海南南部和北部植物区系组成进行比较研究，发现南部和北部区系组成差异较大，认为这种差异的形成主要是由气候和地质等自然因素导致。那中部到沿海地区的植物区系组成的差异受哪些因素的影响？目前还未有学者探究。本研究以海南岛中部的五指山原自然保护区（现属热带雨林国家公园）、东部非沿海的白石岭和东北部沿海的铜鼓岭及中偏东部会山保护区等自然保护区为研究区域，依托本团队以往对前3个保护区的调查数据，采用样方和样线的方法，对会山保护区的植物种类进行调查，通过对4个保护区的植物区系组成特点的比较分析，拟探讨植物区系组成的变化与保护区的次生性、面积及海拔高度等因素的关系。为揭示影响海南植物区系组成差异的因素提供一个案例。
+
+# 1研究区自然概况与研究方法
+
+# 1.1研究区概况
+
+海南岛位于 $1 0 8 ^ { \circ } 3 7 ^ { \prime } - 1 1 1 ^ { \circ } 0 3 ^ { \prime }$ ， $1 8 ^ { \circ } 1 0 ^ { \prime } - 2 0 ^ { \circ } 1 0 ^ { \prime } \mathrm { N }$ 之间，形状近似一个呈东北至西南向的椭圆形大雪梨，地质基底以花岗岩为主，部分地区有玄武岩、页岩、砂岩和石灰岩。全岛可划分为2个地貌区，14个地貌亚区；中部五指山、鹦哥岭为隆起核心，向四周外围逐级递
+
+降，由山地、丘陵、台地、平原组成环形层状地貌，梯级结构明显(袁建平等，2006；杨小波，2019)。此次研究的4个自然保护区其基本概况如表1所示。
+
+表1各自然保护区基本概况  
+Table1Basic overview of each nature conservation areas   
+
+<html><body><table><tr><td>保护区 Conservation area</td><td>位置 Location</td><td>面积 Area (km²)</td><td>自然植被保存率 Preservation rate of natural vegetation (%)</td><td>最大高程 Maximum elevation (m)</td><td>典型植被类型 Typical vegetation type</td></tr><tr><td>五指山 Wuzhishan</td><td>109°39'-109°48'E, 18°49'-18°59'N</td><td>133.86</td><td>92.56</td><td>1 867</td><td>山顶灌丛、高山云雾林、山地雨林、低地雨 林、低地雨林次生林 (杨小波等，1994) Alpine shrub,alpine mist forest,mountain rain forest,lowland rainforest，secondary lowland rainforest</td></tr><tr><td>会山 Huishan</td><td>110° 05'— 110°12'E, 18°59'-19°05'N</td><td>54.37</td><td>53.51</td><td>1 256</td><td>山地雨林、低地雨林、低地雨林次生林 Mountain rain forest,lowland rainforest,</td></tr><tr><td>白石岭 Baishiling</td><td>110°22'— 110°24'E, 19°08'—19°10'N</td><td>16.24</td><td>10.05</td><td>328</td><td>secondary lowland rainforest 低地雨林次生林 (宋佳煜，2019) Secondary lowland rainforest</td></tr><tr><td>铜鼓岭 (陆域) Tongguling</td><td>110° 00'—110°02'E, 19°37'-19°41' N</td><td>8.45</td><td>85.47</td><td>338</td><td>低地雨林、滨海沼泽、红树林、滨海沙生性 丛林 (陶楚等，2014) Lowland rainforest, coastal marsh, mangrove,</td></tr></table></body></html>
+
+# 1.2研究方法
+
+本研究在会山保护区不同坡向、海拔高度的森林开展路线调查和样方调查，记录区内植被类型与种子植物种类。样方设置情况如下：在会山保护区共设置了20 个 $2 0 \ \mathrm { m } \times 2 0 \ \mathrm { m }$ 以及4个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的乔木样方，样方内再设置 $5 \mathrm { m } \times 5 \mathrm { m }$ 的灌木样方和 $1 \ \mathrm { m } \times 1 \mathrm { m }$ 的草本植物样方，累计调查面积 $8 \ 4 0 0 \ \mathrm { m } ^ { 2 }$ ，样方点如图2所示。对样方内所有胸径 $\geqslant 1 \ \mathrm { c m }$ 的乔、灌木树种进行每木调查，详细记录植物的名称、树高、胸径，并记录样地海拔、坡度、坡向、坡位。并沿样方点四周开展样线调查，每条样线长度 ${ \geqslant } 5 0 0 \mathrm { ~ m ~ }$ ，宽度 $\geqslant 1 0 \mathrm { m }$ ，对样线内的种子植物种类进行详细记录。而五指山、白石岭、铜鼓岭的植物名录均来自团队自1991年到2021年的调查数据，其中五指山样方面积为 $1 0 0 0 0 \mathrm { m } ^ { 2 }$ ，白石岭样方面积为 $5 7 0 0 \mathrm { m } ^ { 2 }$ ，铜鼓岭样方面积为 $8 5 8 0 0 { \mathrm { m } } ^ { 2 }$ 。
+
+![](images/f5a9501bda74276e03fb2e7afd47affbcee5f660b0dbf60afc9e57b46ded57ec.jpg)  
+图1样方位置  
+Fig.1 The location of quadrats
+
+种子植物的物种鉴别，以《中国植物志》（中国科学院中国植物志编辑委员会，1959-2004)、《广东植物志》（中国科学院华南植物园，1987—2011)、《海南植物图志》（杨小波，2016)为主。中国特有种依据《中国特有种子植物的多样性及其地理分布》(黄继红等,2014);海南特有种依据《海南植物图志》(杨小波，2016)确定。子遗属的确定主要参考廖文波等(2014)及Tang 等(2018)的研究成果。并参考吴征镒等(1993，2006)中国种子植物属的分布区类型的概念和范围划分4个保护区内种子植物的植物属、种的分布区类型。
+
+采用Jaccard相似性系数 $( C _ { j } )$ (姜汉侨，2010)表征各地区物种组成的相似程度。并采用SPSS25进行相关性分析。相关性系数公式如下：
+
+$$
+C _ { j } = \frac { c } { a + b - c } \times 1 0 0 \%
+$$
+
+式中： $\mathbf { \Psi } _ { c }$ 为区域A与B的共有物种数； $\mathbf { \Delta } _ { a }$ 为区域A含有的全部物种数； $b$ 为区域B含有的全部物种数。
+
+# 2结果与分析
+
+# 2.1植物组成
+
+由表2和表3可知，五指山保护区分布有1893种野生种子植物，隶属775属，157科，会山保护区分布有1415种野生种子植物，隶属718属，150科，白石岭保护区分布有 634种野生种子植物，隶属 404 属，117科，铜鼓岭保护区分布有913种野生种子植物，隶属 563属，139科，分别占海南种子植物的 $34 . 2 9 \ \%$ 、 $2 5 . 6 3 \ \%$ 、 $1 1 . 4 9 \%$ 和 $1 6 . 5 4 \%$ 。4个地区的植物组成在数量上有所差异，但在科的分级上，均为含少数种的科(1\~10种)占主导地位。物种数 $\geqslant 5 1$ 种的科相对较少，其中：五指山保护区分布的最多，有7科，分别为菊科(Compositae,59 种)、樟科(Lauraceae，73 种)、蝶形花科(Papilionaceae，77 种)、大戟科(Euphorbiaceae，79种)、茜草科(Rubiaceae,97种)、兰科(Orchidaceae,113 种)和禾本科 (Poaceae,104 种)；白石岭保护区仅分布1科，为大戟科(54种)。相似的，属级上，属内种含量为1\~5 种的属多于含有物种数 ${ \geqslant } 6$ 的属数，并且五指山保护区出现的含有物种数 ${ \geqslant } 6$ 属总数最多，有69属，占比$8 . 9 0 \%$ 。
+
+# 表2各自然保护区植物组成
+
+Table 2 Plant composition of each nature conservation area
+
+<html><body><table><tr><td rowspan="3">类群Type</td><td colspan="3">五指山 Wuzhishan</td><td colspan="3">会山 Huishan</td><td colspan="3">白石岭 Baishiling</td><td colspan="3">铜鼓岭 Tongguling</td></tr><tr><td>科 Family</td><td>属 Genus</td><td>种 Species</td><td>科 Family</td><td>属 Genus</td><td>种 Species</td><td>科 Family</td><td>属 Genus</td><td>种 Species</td><td>科 Family</td><td>属 Genus</td><td>种 Species</td></tr><tr><td>裸子植物 Gymnosperms</td><td>6</td><td>9</td><td>20</td><td>4</td><td>7</td><td>10</td><td>2</td><td>2</td><td>3</td><td>2</td><td>2</td><td>2</td></tr><tr><td>被子植物 Angiosperm</td><td>151</td><td>766</td><td>1837</td><td>146</td><td>711</td><td>1 405</td><td>115</td><td>402</td><td>631</td><td>137</td><td>561</td><td>911</td></tr><tr><td>双子叶植物 Dicotyledon</td><td>132</td><td>590</td><td>1 476</td><td>128</td><td>539</td><td>1075</td><td>99</td><td>328</td><td>525</td><td>111</td><td>472</td><td>776</td></tr><tr><td>单子叶植物</td><td>19</td><td>176</td><td>397</td><td>18</td><td>172</td><td>330</td><td>16</td><td>74</td><td>106</td><td>26</td><td>89</td><td>135</td></tr><tr><td>Monocotyledon 合计 Total</td><td>157</td><td>775</td><td>1893</td><td>150</td><td>718</td><td>1 415</td><td>117</td><td>404</td><td>634</td><td>139</td><td>563</td><td>913</td></tr></table></body></html>
+
+Table 3 Classification statistics on the number of species within families and genera   
+
+<html><body><table><tr><td rowspan="2">保护区 Conservation area</td><td colspan="5">科 Family</td><td colspan="3">属Genus</td></tr><tr><td>1(%)</td><td>2~10 (%)</td><td>11~30 (%)</td><td>31~50(%)</td><td>≥51(%)</td><td>1(%)</td><td>2~5(%)</td><td>≥6(%)</td></tr><tr><td>五指山 Wuzhishan</td><td>27(17.20)</td><td>82(52.23)</td><td>34(21.66)</td><td>7(4.46)</td><td>7(4.46)</td><td>409(52.77)</td><td>297(38.32)</td><td>69(8.90)</td></tr><tr><td>会山 Huishan</td><td>26(17.33)</td><td>88(58.67)</td><td>27(18.00)</td><td>4(2.67)</td><td>5(3.33)</td><td>428(59.61)</td><td>254(35.38)</td><td>36(5.01)</td></tr><tr><td>白石岭 Baishiling</td><td>38(32.48)</td><td>63(53.85)</td><td>13(11.11)</td><td>2(1.71)</td><td>1(0.85)</td><td>277(68.56)</td><td>119(29.46)</td><td>8(1.98)</td></tr><tr><td>铜鼓岭 Tongguling</td><td>43(30.94)</td><td>71(51.08)</td><td>21(15.11)</td><td>2(1.44)</td><td>2(1.44)</td><td>389(69.09)</td><td>159(28.24)</td><td>15(2.66)</td></tr></table></body></html>
+
+# 2.2物种相似性系数
+
+各保护区之间的共有物种数和物种相似性系数如表4所示。其中：五指山保护区和会山保护区的物种相似性最高，共有种子植物142科570属1001种；铜鼓岭保护区的物种相似性最低，共有种子植物105 科321属456种；铜鼓岭保护区和白石岭保护区保护区之间的物种相似性高于其他两个保护区。
+
+物种相似性系数 $C _ { j }$ 与保护区的部分特征的相关分析显示 $r _ { \mathrm { { A } } } { = } - 0 . 9 4 3  ^ { * * }$ ， $r _ { \mathrm { R A } } { = } - 0 . 4 2 9$ ， $r _ { \mathrm { H } } { = }$ 1 ${ \boldsymbol { \cdot } } 0 . 8 2 9 ^ { \ast }$ ， $r _ { \mathrm { D } } { = } - 0 . 6 0 0$ ， $r _ { \mathrm { V } } = - 0 . 2 6 5$ ，A、RA、H、D和 $\mathrm { \Delta V }$ 分别表示两个保护区之间的面积比、自然植被保留比、最大高程比、两个保护区之间的距离和自然植被类型数量比。结果表明，$C _ { j }$ 与最大高程比显著负相关 $( P { < } 0 . 0 5 )$ ，与保护区的面积极显著负相关！ $( P { < } 0 . 0 1 )$ 。与其他参数有负相关性，但不显著 $( P { > } 0 . 0 5 )$ 。
+
+表3科和属内种数量分级统计  
+表4各自然保护区共有种统计  
+Table 4 Statistics of common species in each nature conservation area   
+
+<html><body><table><tr><td rowspan="2">保护区</td><td colspan="4">种数/相似性系数</td></tr><tr><td></td><td colspan="3">Species /Similaritycoefficient (%)</td></tr><tr><td>Conservation</td><td>五指山</td><td>会山</td><td>白石岭</td><td>铜鼓岭</td></tr><tr><td>area</td><td>Wuzhishan</td><td>Huishan</td><td>Baishiling</td><td>Tongguling</td></tr><tr><td>五指山Wuzhishan</td><td>1 893/100</td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>会山 Huishan</td><td>1 001/43.39</td><td>1 415/100</td><td></td><td></td></tr><tr><td>白石岭 Baishiling</td><td>417/19.76</td><td>387/23.29</td><td>634/100</td><td></td></tr><tr><td>铜鼓岭 Tonguling</td><td>456/19.40</td><td>424/22.27</td><td>414/36.54</td><td>913/100</td></tr></table></body></html>
+
+# 2.3区系分析
+
+# 2.3.1属的区系组成
+
+参考吴征镒等(2003)中国种子植物属的分布区类型，划分出4个保护区内的植物属的分布区类型。各保护区种子植物的属均可划分为14个分布区类型(表5)。
+
+它们均为热带成分占主导地位。热带成分分别占五指山、会山、白石岭和铜鼓岭保护区非世界分布的 $8 6 . 3 5 \%$ 、 $8 9 . 2 3 \%$ 、 $9 3 . 8 3 \%$ 和 $9 1 . 9 0 \%$ 。在热带成分中，五指山保护区热带亚洲分布最多 $( 2 6 . 2 4 \% )$ ；泛热带分布次之 $( 2 3 . 9 6 \%$ 。然而，会山保护区、白石岭保护区和铜鼓岭保护区为泛热带分布占主导地位，分别占其各自地区非世界分布的 $3 7 . 0 7 \% . 3 1 . 1 0 \%$ 和 $3 5 . 7 8 \%$ 。铜鼓岭保护区泛热带成分比例最大，其次为白石岭保护区、会山保护区。热带亚洲分布在铜鼓岭保护区仅占 $1 8 . 1 0 \%$ ，例如，亚洲热带雨林特征科-龙脑香科植物并未在铜鼓岭出现，但在五指山保护区[坡垒(Hopea hainanensis)、青梅(Vatica mangachapoi)]、会山保护区(青梅)和白石岭保护区(青梅)均有分布。4个保护区温带分布的属占比不高，且有所差异，五指山保护区含有的温带成分最多，白石岭保护区分布的最少。
+
+Table 5 Genera areal-types of the spermatophytic flora of each nature conservation area
+
+表5各自然保护区种子植物属的分布区类型  
+
+<html><body><table><tr><td rowspan="2">分布类型 Areal-type</td><td colspan="4">属数 No.of genus (%)</td></tr><tr><td>五指山 Wuzhishan</td><td>会山 Huishan</td><td>白石岭 Baishiling</td><td>铜鼓岭 Tongguling</td></tr><tr><td>1．世界广布Cosmopolitan</td><td>28</td><td>31</td><td>31</td><td>32</td></tr><tr><td>2．泛热带分布 Pantropic</td><td>179(23.96)</td><td>186(27.07)</td><td>116(31.10)</td><td>190(35.78)</td></tr><tr><td>3．热带亚洲至热带美洲间断分布</td><td>27(3.61)</td><td>33(4.80)</td><td>24(6.43)</td><td>26(4.90)</td></tr><tr><td>Trop.Asia & Trop.Amer. 4．旧世界热带分布 Old World Tropics</td><td>87(11.65)</td><td>85(12.37)</td><td>60(16.09)</td><td>81(15.25)</td></tr><tr><td>5．热带亚洲至大洋洲分布</td><td>112(14.99)</td><td>101(14.70)</td><td>57(15.28)</td><td>70(13.18)</td></tr><tr><td>Trop.Asia to Trop.Austr. 6．热带亚洲至热带非洲分布</td><td>44(5.89)</td><td>41(5.97)</td><td>22(5.90)</td><td>35(6.59)</td></tr><tr><td>Trop. Asia to Trop. Africa 7．热带亚洲分布</td><td>196(26.24)</td><td>167(24.31)</td><td>71(19.03)</td><td>86(16.20)</td></tr><tr><td>Tropical Asia (Indo-Malesia) 热带成分合计 (2～7)</td><td></td><td></td><td></td><td></td></tr><tr><td>Subtotal tropical elements (2-7)</td><td>645(86.35)</td><td>613(89.23)</td><td>350(93.83)</td><td>488(91.90)</td></tr><tr><td>8．北温带分布 North Temperate 9．东亚和北美间断分布</td><td>30(4.02)</td><td>22(3.20)</td><td>5(1.34)</td><td>15(2.82)</td></tr><tr><td>E.Asia &N.Amer.Disjuncted</td><td>21(2.81)</td><td>18(2.62)</td><td>7(1.88)</td><td>11(2.07)</td></tr><tr><td>10.旧世界温带分布 Old World Temperate</td><td>8(1.07)</td><td>8(1.16)</td><td>1(0.27)</td><td>8(1.51)</td></tr><tr><td>11．温带亚洲分布 Temp.Asia</td><td>1(0.13)</td><td>2(0.29)</td><td>1(0.27)</td><td>1(0.19)</td></tr><tr><td>12．地中海区、西亚至中亚分布 Mediterranean,W.Asia to C.Asia</td><td>1(0.13)</td><td>1(0.15)</td><td>1(0.27)</td><td>1(0.19)</td></tr><tr><td>13．东亚分布EastAsia</td><td>27(3.61)</td><td>19(2.77)</td><td>6(1.61)</td><td>6(1.13)</td></tr></table></body></html>
+
+<html><body><table><tr><td>温带成分合计 (8~13)</td><td>88(11.78)</td><td>70(10.19)</td><td>31(5.63)</td><td>42(7.91)</td></tr><tr><td>Subtotal temperate elements (8-13) 14．中国特有分布 Endemic to China</td><td>14(1.87)</td><td>4(0.58)</td><td>2(0.54)</td><td>1(0.19)</td></tr><tr><td>合计Total</td><td>747(100)</td><td>687(100)</td><td>373(100)</td><td>531(100)</td></tr></table></body></html>
+
+注：不含世界分布的属。 Note:Cosmopolitan is not included in the genus areal-types.
+
+中国特有成分在4个保护区也有分布。五指山保护区分布有14属，占比 $1 4 . 8 7 \%$ ，其中有5属为海南特有属，分别为扁蒴苣苔属(Cathayanthe)、刺毛头黍属(Setiacis)、盾叶苣苔属(Metapetrocosmea)、多核果属(Pyrenocarpa)和山铜材属(Chunia)；会山保护区分布有4个中国特有属，占比 $0 . 5 8 \%$ ，其中盾叶苣苔属为海南特有属(邢福武等,1995；朱华，2017)；白石岭保护区分布有蕉木属(Chieniodendro)和少穗竹属(Oligostachyum)这2属中国特有属，占其非世界分布的 $0 . 5 \%$ ；铜鼓岭保护区仅分布1属，为少穗竹属。其中白石岭保护区和铜鼓岭保护区均未分布海南特有属。
+
+# 2.3.2种的分析
+
+# 2.3.2.1种的区系分析
+
+参考吴征镒(1993，2006)关于中国种子植物的分布区类型的概念和范围以及《中国特有种子植物的多样性及其地理分布》(黄继红等，2014)和《海南植物图志》(杨小波，2016)将4个保护区的种子植物划分为12个分布区类型和6个变型(表6)。
+
+种分布区类型同样以热带分布的种最多,分别含有热带成分的种子植物有1319(五指山)、1026(会山)、429(白石岭)和 739(铜鼓岭)种。与属不同的是，在种的水平上，会山、白石岭、铜鼓岭这3个保护区不再以泛热带分布为主，而是以热带亚洲成分占主导地位，4个保护区的热带亚洲成分分别占各自种的 $5 8 . 2 4 \%$ （五指山）、 $5 9 . 5 8 \%$ （会山）、 $5 9 . 6 8 \%$ (白石岭)和$6 0 . 3 9 \%$ (铜鼓岭)。其中属于越南(或中南半岛)至中国华南和西南的分布变型的种类较多。与属相似，铜鼓岭保护区含有泛热带分布的种的比例最大，其次为白石岭保护区、会山保护区、五指山保护区 $( 3 . 3 5 \ \% )$ ）
+
+表6各自然保护区种子植物种的分布区类型  
+Table 6 Species areal-types of the spermatophytic flora of each nature conservation area   
+
+<html><body><table><tr><td rowspan="2">分布类型 Areal-type</td><td colspan="4">种数 No.of species (%)</td></tr><tr><td>五指山 Wuzhishan</td><td>会山 Huishan</td><td>白石岭 Baishiling</td><td>铜鼓岭 Tongguling</td></tr><tr><td>1．世界分布 Cosmopolitan</td><td>42</td><td>47</td><td>35</td><td>47</td></tr><tr><td>2．泛热带分布及其变型 Pantropic</td><td>54(2.92)</td><td>37(2.70)</td><td>43(7.18)</td><td>59(6.81)</td></tr><tr><td>2-1．热带亚洲、大洋洲和中、南美</td><td>2(0.11)</td><td>3(0.22)</td><td>1(0.17)</td><td>5(0.58)</td></tr><tr><td>Trop.Asia,Australasia.&C.to S.Amer. 2-2．热带亚洲、非洲和中、南美洲</td><td></td><td></td><td></td><td></td></tr><tr><td>Trop. Asia, Africa & S.Amer.</td><td>6(0.32)</td><td>8(0.58)</td><td>3(0.05)</td><td>6(0.69)</td></tr><tr><td>3．热带亚洲和热带美洲 Trop.Asia & Trop.Amer. 4．旧世界热带分布及其变型 Old World Tropics Distr.</td><td>23(1.24) 11(0.59)</td><td>17(1.24)</td><td>8(1.34)</td><td>11(1.27)</td></tr><tr><td>4-1．热带亚洲、非洲/大洋洲 Trop.Asia,Africa& Australasia</td><td>17(0.92)</td><td>10(0.73) 15(1.10)</td><td>6(1.00)</td><td>13(1.50)</td></tr><tr><td>5．热带亚洲-大洋洲 Trop.Asia-Trop.Australasia</td><td>102(5.51)</td><td>98(7.16)</td><td>9(1.50)</td><td>14(1.62)</td></tr><tr><td>6．热带亚洲-热带非洲分布 Trop.Asia-Tropic Africa</td><td>26(1.40)</td><td>23(1.68)</td><td>51(8.51) 14(2.34)</td><td>86(9.93)</td></tr><tr><td>7．热带亚洲分布 Trop.Asia</td><td>781(42.19)</td><td>589(43.06)</td><td></td><td>22(2.54)</td></tr><tr><td>7-1．热带印度至中国华南分布 Trop.India to S.China</td><td>16(0.86)</td><td>9(0.66)</td><td>287(47.91) 5(0.83)</td><td>411(47.46) 6(0.69)</td></tr></table></body></html>
+
+<html><body><table><tr><td>7-2.中南半岛至中国华南/西南 Indochina to S./SW.China</td><td>281(15.18)</td><td>217(15.86)</td><td>65(10.85)</td><td>106(12.24)</td></tr><tr><td>热带成分合计(2～7） Subtotal tropical elements (2-7)</td><td>1 319(71.26)</td><td>1 026(75.00)</td><td>492(82.14)</td><td>739(85.33)</td></tr><tr><td>8.北温带分布 North Temperate</td><td>52(2.81)</td><td>40(2.92)</td><td>16(2.67)</td><td>22(2.54)</td></tr><tr><td>9．东亚和北美洲 E.Asia &N.Amer.</td><td>9(0.49)</td><td>5(0.37)</td><td>1</td><td>1</td></tr><tr><td>10.旧世界温带分布 Old World Temperate</td><td>2(0.11)</td><td>4(0.29)</td><td>1</td><td>1</td></tr><tr><td>11．东亚 East Asia (8～11)</td><td>10(0.54)</td><td>1(0.07)</td><td>1</td><td>1</td></tr><tr><td>温带成分合计 Subtotal temperate elements (8-11)</td><td>73(3.94)</td><td>50(3.65)</td><td>16(2.67)</td><td>22(2.54)</td></tr><tr><td>12.中国特有分布 Endemic to China</td><td>263(14.21)</td><td>196(14.33)</td><td>64(10.68)</td><td>70(8.08)</td></tr><tr><td>12-1．海南特有分布 Endemic to Hainan</td><td>196(10.59)</td><td>96(7.02)</td><td>27(4.51)</td><td>35(4.04)</td></tr><tr><td>合计Total</td><td>1 893(100)</td><td>1 415(100)</td><td>634(100)</td><td>913(100)</td></tr></table></body></html>
+
+注：不含世界分布的种。 Note：Cosmopolitan is not included in the species areal-types.
+
+# 2.3.2.2特有植物和子遗植物分析
+
+在4个保护区中，五指山保护区分布的特有种最多，有459种，隶属97科291属，占中国特有种总数的 $3 . 0 4 \%$ ；会山保护区次之；白石岭保护区分布的特有种最少，仅91种，隶属41科75属，占中国特有种的 $0 . 4 2 4 \%$ 。五指山保护区分布的海南特有种数量也是最多的，有196种，占海南特有种总数的 $4 0 . 5 8 \%$ 。据子遗种、子遗属的概念和甄别原则(廖文波等，2014;Tang et al.,2018)，统计得出4个保护区共存有子遗属 55属，77种，地理成分主要为热带分布(40 属)，其中热带亚洲成分的属最多，共22属，占子遗属的 $4 0 . 0 0 \%$ 。五指山保护区有子遗植物52属74种，会山保护区有子遗植物30属38种，白石岭保护区有子遗植物12属14种，铜鼓岭保护区有子遗植物10属10种。从子遗植物组成来看，4个保护区的子遗植物多为古特有属种，但也仍有部分为生物地理上间断分布类型，其中五指山含有的间断分布属最多，如东亚和北美洲间断分布的八角属(Illicium)、三白草属(Saururus)、珍珠花属(Lyonia)和万寿竹属(Disporum)。
+
+# 2.3.2.3外来植物分析
+
+根据闫小玲等(2014)对4个保护区含有的外来入侵植物进行统计和等级划分，统计得到五指山保护区、会山保护区、白石岭保护区和铜鼓岭保护区分别含有外来入侵植物29、39、52和49种，分别占总物种数的 $1 . 5 3 \%$ 、 $2 . 7 6 \%$ 、 $8 . 2 0 \%$ 和 $5 . 3 4 \%$ 。其中：五指山保护区含有恶性入侵植物最少，为刺苋(Amaranthus spinosus)、藿香蓟(Ageratum conyzoides)、鬼针草(Bidens bipinnata)、马缨丹(Lantana camara)、飞机草(Eupatorium odoratum)和光荚含羞草(Mimosa sepiaria)等6种；会山保护区有9种，如光荚含羞草、鬼针草、飞机草、阔叶丰花草(Spermacoce alata)、加拿大蓬(Erigeron canadensis)、银胶菊(Parthenium hysterophorus)等;铜鼓岭保护区有10 种，如五爪金龙(pomoeaCairica)、藿香蓟、鬼针草、飞机草等；白石岭保护区含有的恶性入侵植物最多，有16种，较五指山保护区还新增了喜旱莲子草(Alternanthera philoxeroides)、凤眼蓝(Eichhornia crassipes)、大漂(Pistia stratiotes)、蒺藜草(Cenchrus echinatus)等10种。严重入侵植物为铜鼓岭保护区分布最多，有22种，如蛇婆子(Waltueria Americana)、洋金花(Datura metel)、假马鞭(Stachytarpheta jamaicensis)、南美蝶菊(Sphagneticola trilobata)；白石岭保护区次之，有15种。此外五指山、会山、白石岭和铜鼓岭也分别含有局部入侵植物5、7、7、6种，一般入侵植物4、3、8、6种，有待观察占比均较少。这说明4个保护区的维管束植物均以乡土植物为主，但白石岭保护区和铜鼓岭保护区的入侵植物种类较五指山保护区和会山保护区多。
+
+# 3讨论与结论
+
+# 3.1植物组成差异
+
+一般地，随着面积的增大，生境类型也越多，尤其在低纬度地区(Kerretal.,1997)，而物种多样性依赖于生境异质性，生境多样性越高，物种丰富度越大(方精云等，2009；彭思羿等，2014)。海南岛由于长时间的林业采伐和种植橡胶、槟榔等农业活动，自然植被面积越来越小，因此，沿海到丘陵一带建立的保护区，多数是有一定特色的次生林，较好的原始林则分布在人类相对难以到达的中部山区(彭红元等，2008)。在这4个保护区中，五指山保护区面积最大，自然植被保留率达 $9 2 . 5 6 \%$ ，次生性最小，生境类型也多，它含有的物种数最多；会山保护区虽有部分被的开发，但还保留有山地雨林和低地雨林，所以含有的物种数也相对较多；白石岭则位于中部山区边缘的沿海平原区，较容易开发，在经历过长时间的农业活动后，自然植被的保留率仅为 $1 0 . 0 5 \%$ ，且全是次生植被(宋佳煜，2019)，因此保留的物种数最少；铜鼓岭保护区由于靠近沿海地区，次生性也较强，但它还分布热带滨海沙质丛林、泥质红树林和其他滨海植物(陶楚等，2014)，所以它分布的物种数虽多于白石岭保护区却仍次于五指山和会山保护区。
+
+4个保护区物种相似性系数根据相关性分析发现，面积与最高海拔相差越大，物种相似性越低，因此五指山保护区和会山保护区的物种相似性最高。除此之外，会山保护区含有的38 种子遗植物均是两地共有的，这说明从系统学和区系学上来看，这两个保护区也具有明显的相似性。五指山保护区和铜鼓岭保护区的之间的物种相似性系数最小，除与海拔和面积相关外，可能也与地貌相关，两个保护区分属不同的地貌区，它们的生境相差较大，共有种也就相对较少。
+
+# 3.2植物区系组成差异
+
+4个保护区在属和种的水平上均表现出强烈的热带性质，这和海南其他地区的植物区系组成相似(尹菡怪等，2019；何彦巧等，2020)。属的水平上，除五指山保护区外，其他保护区均以泛热带成分为主；种的水平上则均以热带亚洲成分为主。这说明4个保护区种的区系具有强烈的热带亚洲性质，并具有热带亚洲或印度-马来西亚亲缘性(Zhu，2017)。
+
+朱华(2008)在对云南种子植物区系地理成分进行研究的时候，提出云南种子植物区系地理成分中热带成分多度与地区海拔高度密切相关，海拔低的部分，热带分布占比越大。这可能是因为海拔跨度较大的地区，年平均气温较低，能包含的温带分布种类也较多。因此4，个保护区的温带成分为五指山保护区含有的比例最大，铜鼓岭保护区和白石岭保护区含有的比例相对较小。
+
+五指山保护区和会山保护区含有的特有种较白石岭和铜鼓岭多。有研究发现，海南岛特有种的分布主要集中在中南部山区，占海南特有种的 $8 0 . 1 2 \%$ ，四周的滨海丘陵、台地分布特有种仅占17.81 $\%$ (林泽钦，2016)。而特有属和特有种的产生和分化主要由生境的特异性促使(Zhang etal.,2010;Lietal.,2018)。山地较丘陵和台地具有更复杂的地形，因此可孕育的海南特有种的几率相对较大，如五指山保护区和会山保护区共有的石碌含笑(Micheliashiluensis)、皱皮油丹(Alseodaphne rugosa)和琼中柯(Lithocarpus chiungchungensis)均生长在中高海拔地区。且五指山因其更为复杂的地形也特化出地区特有种，如五指山含笑(Micheliawuzhishangensis)。白石岭保护区和铜鼓岭保护区的特有种大多生长在低海拔区域，如锈毛野桐(Malltus anomalus)、光叶巴豆(Croton laevigatus)、闭花耳草(Hedyotis cryptantha)。广布于海南低海拔至中海拔地区的海南韶子(Nephelium topengii)在五指山保护区和会山保护区均有分布，却未见于白石岭保护区和铜鼓岭保护区。海南韶子在90年代于低海拔至中海拔地区常见，如今除中部山区较为常见外，在海南南部的三亚市北面和海南北部的澄迈县南端也有分布(李毓敏，1991；林泽钦，2016)，在上述两个保护区未发现其分布，这可能是受人为干扰影响，尤其是侵占自然植被的农业生产活动，使适宜特有种生长的生境受到迫害，从而消失。
+
+在第三纪末期，北极进入冰期准备阶段，亚洲气候逐渐变凉，我国温暖地区逐渐南移，许多植物也逐渐向南移动，因此自第三纪以来,海南岛种子植物组成逐渐丰富(金建华，2008)。并且在第四纪的冰川作用下，华南地区出现偏冷而干季明显的气候条件，使得部分植物向南收缩，退避至海南(Harrisonetal.,2001；马丹炜，2008)。保留下来的子遗属部分是生于陡坡、山麓、河岸、沟谷等不稳定地形，如海南粗榧(Cephalotaxus hainanensis)多散生在沟谷、溪涧旁或山坡 (陈玉凯，2011)。五指山保护区因面积大的同时自然植被保留较好，生境的类型更为复杂，并且由于东侧的山地效应(郑卓，1991)，使其成为了大部分子遗植物的避难之处，会山保护区次之；生境类型简单的白石岭和铜鼓岭保护区则分布的子遗属较少。4个保护区共存有子遗属为热带亚洲成分最多，它们大多为第三纪的残遗成分，如木莲属(Manglietia)、重阳木属(Bischofia)、水杨柳属(Homonoia)、蚊母树属(Distylium)、赤杨叶属(Alniphylum)、马蹄荷属(Exbucklandia)等(Hemsley,1880;Mai，1991；廖文波等，2014)。在这之中马蹄荷属共4种，其化石可追寻到古新世(张志耘等，1995；Wu etal.,2009)，五指山含有的大果马蹄荷(Exbucklandia tonkinensis)于我国主要分布在南部、西南部，并且在越南的北部地区也有分布；除此之外，同为热带亚洲分布的肖榄属(Platea)我国产2种，这4个保护区含有的阔叶肖榄(Platea latifolia)产中国云南南部、广西南部、广东南部和海南(朱华，2017)，它们反映了海南岛曾经可能连接着越南和中国广西，这与朱华(2020)提出的观点一致。
+
+综上所述，从中部山区到东部沿海平原地区表现出，次生性越大，海拔高度越低，生境类型越少，植物物种数越少；同时在属和种的水平上，呈现热带成分增加，温带成分、中国特有分布和子遗属、种的减少的特征。
+
+致谢 在野外调查中得到五指山保护区、会山保护区、白石岭保护区和铜鼓岭保护区工作人员的协助，特此致谢！
+
+# 参考文献：
+
+ABDELA T, SUFIYAN A,ABDURAZAK S,et al., 2021. Floristic composition, structure andregeneration status of Hamdo natural forest, Gursum Woreda east Hararghe[J]. Int JEcotoxicol Ecobiol, 6(3): 53-58.CANELLES Q, BASSOLS E, VAYREDA J, et al., 2021. Predicting the potential distribution andforest impact of the invasive species Cydalima perspectalis in Europe[J]. Ecol Evol,11(10):  
+5713-5727.CHEN YK,2O11. Studies on distribution patern of national protected plants in Bawangling ofHainan[D].Haikou:Hainan University:11．［陈玉凯，2011．海南霸王岭国家级保护植物分布格局研究[D]．海口：海南大学：11.]CHENG ZH, NIU LQ, HU YQ,2014. Ecological change of species of wetland plant with humandisturbance in scenic area of Wutai Mountains[J].Wetland Sci,12(1): 89-96.[程占红，牛莉芹,胡亚晴,2014．五台山风景区人为干扰下湿地植物物种的生态变化［J]．湿地科学，  
+12(1):89-96.]Compilation group of China's biodiversity: a country study,2O18. China's biodiversity: a countrystudy[M].Beijing:China Environmental Science Press:132-162.[《中国生物多样性国情研究报告》编写组），2018．中国生物多样性国情研究报告[M]．北京：中国环境科学出版社：132-162.]  
+Editorial Committee of Flora Reipublicae Popularis Sinicae，1959-2O04.Flora ReipublicaePopularis Sinicae(Vol.1-80)[M].Beijing:Science Press.[中国科学院中国植物志编辑委员会，1959－2004．中国植物志(1-80 卷)[M]．北京：科学出版社.]  
+FADL MA, AL-YASI HM, ALSHERIF EA, et al., 2021. Impact of elevation and slope aspect onfloristic composition in wadi Elkor, Sarawat mountain, Saudi Arabia[J]. Sci Rep,11(1): 1-10.  
+FANG JY, WANG XP, TANG ZY, et al.， 2009. Local and regional processes control speciesrichness of plant communities: the species pool hypothesis[J]. Biodivers Sci, 17(6): 605-612.[方精云，王襄平，唐志尧，等，2009．局域和区域过程共同控制着群落的物种多样性：种库假说[J]．生物多样性，17(6)：605-612.]  
+FENG Y, ZHANG YT, WANG XY, et al., 2014. Comparison on composition and flora of shrubsbetween north and south of Xinjiang[J].JPlant Resour Environ, 23(2): 94-99.[冯缨,张月婷,王喜勇，等，2014．新疆南北疆灌木植物组成及区系比较［J]．植物资源与环境学报，23(2):94-99.]  
+FU GA,HONG XJ, 2O08.Flora of vascular plants of Jianfengling, Hainan island[J]. Guihaia, 3(2):226-229.[符国瑷,洪小江，2008．海南岛尖峰岭的维管植物区系［J]．广西植物，3(2)：226-229.]  
+GUAN ZJ, WANG J, LIU SR,1998. A preliminary investigation on the effects of man-madedestruction on the flora of natural vegetation in Inner Mongolia[J]. Yinshan Acad J,12(4),21-28．[关卓今，王静，刘书润，1998．人为破坏对内蒙古天然植被植物区系影响的初步调查[J]．阴山学刊，12(4)：21-28.]  
+HARRISON SP, YU G, TAKAHARA H, et al., 2001. Diversity of temperate plants in EastAsia[J]. Nature, 413(6852),129-130.  
+HE YQ,YANG ZX, SONG XQ,et al.， 2020. Vascular plant species floristic composition inwetland of Baoting[J]. Zhejiang Sci Technol,40(1): 76-81.[何彦巧，杨泽秀，宋希强，等，2020．海南保亭县湿地维管植物种类和区系组成特征[J]．浙江林业科技，40(1)：76-81. ]  
+HEMSLEY WB,1880.Versuch einer entwicklungsgeschichte der pflanzenwelt, insbesondere derflorengebiete sett der tertiadrperiode[J]. Nature, 22(557): 190.  
+HU SH, SONG EP, YU JT, et al., 2O05. Rainforest composition and history of human disturbancein Hainan Province[J].JHubei Inst Nat（Nat Sci Ed),23(4): 388-391.[胡胜华，宋鄂平，于吉涛，等，2005．海南的雨林组成与人类干扰的历史［J]．湖北民族学院学报（自然科学版)，23(4)：388-391.]  
+HU X, XU RJ, QI LH, et al., 2017. Plant composition and geographical elements of the tropicallowland rain forest of Ganshenling,Hainan Island[J]. Chin J Trop Crop,38(7):1243-1252.[胡璇，徐瑞晶，漆良华，等，2017．海南岛甘什岭热带低地雨林植物组成与地理成分[J]．热带作物学报，38(7)：1243-1252.]  
+HUANG JH,MA KP,CHEN B， 2014. Diversity and geographical distributions of Chineseendemic seed plants[M]. Beijing: Higher Education Pres: 81-425.[黄继红,马克平,陈彬,2014．中国特有种子植物的多样性及其地理分布[M]．北京：高等教育出版：81-425.]  
+HUANG YF, YANG XB,DANG JL, et al.,2009. Studies on floristics of seed plants in coastalhilly areas of southern Hainan Island[J].JTrop Subtrop Bot,17(4): 343-350.[黄运峰，杨小波，党金玲，等，2009．琼南沿海低山丘陵森林种子植物区系初步分析［J]．热带亚热带植物学报，17(4)：343-350.]  
+JIANGHQ,2010.Phytoecology[M].Beijing: Higher Education Press.[姜汉侨,2010． 植物生态学[M]．北京：高等教育出版社.]  
+JIANG HS, 2O13. Biodiversity and conservation of Hainan Yinggeling Nature Reserve[M].Beijing:Chinese Forestry Publishing House: 68-170.[江海声,2013．海南鹦哥岭自然保护区生物多样性及其保育[M]．北京：中国林业出版社：68-170.]  
+JIN JH, SHEN RJ, LIAO WB et al., 2O08. Analysis of the families of cenozoic spermatophyticflora in Hainan Island[J].Acta Bot Boreal-Occident Sin,28(10): 2125-2131.[金建华，沈如江，廖文波，2008．海南岛新生代种子植物区系科的多样性分析［J]．西北植物学报，28(10): 2125-2131.]KERR JT,PACKER L, 1997. Habitat heterogeneity as a determinantof mammal species richness in high-energy regions[J]. Nature, 385(6613): 252-254.  
+LI BJ,WANG JY,LIU ZJ, et al., 2O18. Genetic diversity and ex situ conservation of Loropetalumsubcordatum, an endangered species endemic to China[J]. BMC Genet, 19(1): 1-11.  
+LI YM,1991. Litchi chinensis and Nephelium lopengi[J]. Life World,1(1): 7. [李毓敏，1991.山荔枝和海南韶子[J]．生命世界，1(1)：7.]  
+LIAO WB，WANG YY，LI Z，et al.， 2014. Integrated study on biodiversity of MountJinggangshan regions in China[M]. Beijing :Science Press: 535-551. [廖文波，王英永，李贞，等，2014．中国井冈山地区生物多样性综合科学考察[M]．北京：科学出版社：535-551.]  
+LIN ZQ,2O16. Flora of vascular plants and the composition characteristics & distribution featuresof endemic plants in Hainan[D].Haikou: Hainan Unversity:1-67.[林泽钦，2016．海南维管植物区系及特有种的组成特征和分布特点[D]．海口：海南大学：1-67.]  
+LIU JL,CHEN K,WANG JY,et al.， 2016. Comparative study on seed plant flora betweensouthern and northern Gaoligong mountains[J]. J Trop Subtrop Bot,24(3): 327-332.[刘经伦,陈凯，汪建云，等，2016．高黎贡山南北段种子植物区系比较研究［J]．热带亚热带植物学报，24(3)：327-332.]  
+LUO W, ZHONG YF, CHEN J, et al., 2020. Analysis of floristic composition and geographicaldistribution of ancient trees in Jianfengling national forest park of Hainan[J]. Chin JTropAgric,40(12):62-67.[罗文，钟育飞，陈江，等，2020．海南尖峰岭国家森林公园古树地理区系成分分析[J]．热带农业科学，40(12)：62-67.]  
+MA DW,2008.Phytogeography[M]. Beijing: Science Press: 1-74.[马丹炜，2008．植物地理学[M]．北京：科学出版社：1-74.]  
+MAI DH， 1991. Paleofloristic changesin Europe andtheconfurnation oftheArctotertiary-Paleotropical geofloral concept[J]. Rev Palaeobot Palynol, 68(91): 29-36.  
+MURDJOKO A, UNGIRWALU A, MARDIYADI Z, et al., 2021. Floristic composition of buahhitam habitats in lowland tropical mixed forest of west Papua, Indonesia[J]. Floresta eAmbiente,28(3): 1-13.  
+NSA IY,OYEBANJI OO,IGBINIGIE EE,et al., 2021.Floral distribution of a sub-bituminouscoal dumpsite in Enugu, Nigeria[J]. Front Ecol Evol, 6(9): 1-10.  
+OU ZY，YANG XB，2008. Comparison on genus of seed plants between Tongguling andWuzhishan national nature reserve,Hainan Island[J]. Guihaia,28(3): 344-351.[欧芷阳，杨小波，2008．海南铜鼓岭与五指山种子植物属的比较研究［J]．广西植物，28(3)：344-351.]PENG HY, ZHANG JF, JIANG HS,et al., 2008. Distribution change and cause of HylobatesHainanus in Hainan Island[J]. Sichuan JZool,27(4): 671-675.[彭红元，张剑锋，江海声,等，2008．海南岛海南长臂猿分布的变迁及成因［J]．四川动物，27(4)：671-675.]RENEE SL, KIAN HO,ROLAND JHK,et al., 2019. Stand structure, floristic composition andspecies diversity along altitudinal gradients of a Bornean mountain range 3O years afterselective logging[J]. JMt Sci, 16(6): 1419-1434.PENG SY, HU G, YU MJ, et al., 2O14. Beta diversity of vascular plants and its influencing factorson islands in the Thousand Island Lake[J]. Acta Ecol Sin,34(14): 3866-3872.[彭思羿，胡广,于明坚，等,2014．千岛湖岛屿维管植物 $\beta$ 多样性及其影响因素[J]．生态学报,34(14)：  
+3866-3872.]SONG JY, 2O19. The evaluation and application research about natural plant communities andornamental plant resources in area of Baishiling in the Qionghai District, Hainan Island[D].Haikou:Hainan University:72-88.［宋佳昱，2019．海南琼海白石岭自然植物群落及野生观赏植物资源调查应用研究，硕士学位论文[D]．海口：海南大学：72-88.]South China Botanical Garden, Chinese Academy of Sciences, 1987-2011. Flora of Guangdong(Vol.1-9)[M].Guangdong: Guangdong Science and Technology Press.[中国科学院华南植物园，1987－2011．广东植物志(1-9卷)[M]．广东：广东科技出版社.]TANG CQ, MATSUI T, OHASHI H, et al., 2018. Identifying long-term stable refugia for relictplant species in east Asia[J]. Nat Commun, 9(1): 4488-4502.TANG T,LIAO WB，WANG BS,et al.，2OO2. Studies on the flora of Wuzhishan, HainanIsland[J].Guihaia,22(4):297-304.[唐恬，廖文波，王伯荪，等，2002．海南五指山地区种子植物区系的特点［J]．广西植物，22(4)：297-304.]TAO C, CHEN YK， YANG XB,et al.， 2014. Quantitative classification and ordination ofvegetations in Tongguling National Nature Reserve, Hainan[J]. Chin Agric Sci Bull, 30(22):  
+84-91．[陶楚，陈玉凯，杨小波，等，2014．海南铜鼓岭国家级自然保护区植被数量分类与排序［J]．中国农学通报，30(22)：84-91.]WANG BS,1996. Hytocoenology laboratory manual[M]. Guangdong: Higher Education Pres:  
+1-10．[王伯荪，1996．植物群落学实验手册[M]．广东：高等教育出版社：1-10.]WU JY, SUN B,LIU YS, et al.,2O09. A new species of Exbucklandia (Hamamelidaceae) fromthe pliocene of china and its paleoclimatic significance[J]. Rev Palaeobot Palynol, 155(1-2):  
+32-41.WU ZY,ZHOU ZK,LI DZ, et al.,2003.Revision on the areal-types of the world families of seedplants[J].Acta Bot Yunnan,25(3):352-358.[吴征镒，周浙昆，李德铁，等，2003．世界种子植物科的分布区类型系统[J]．云南植物研究，25(3)：245-257.]WU ZY, ZHOU ZK, SUN H, LI DZ, et al., 20O6. The areal-types of seed plants and their originand differentiation[J]. Kunming: Yunnan Science and Technology Press: 1-451.[吴征镒，周浙昆，孙航，李德铁，等，2006．种子植物分布区类型及其起源和分化［J]．昆明：云南科技出版社：1-451.]XING FW,LI ZX,WU DL, et al.,1993. A preliminary study on the flora of Ganshiling of southHainan[J].Bull Bot Res,13(3):227-242.[邢福武，李泽贤，吴德邻，等，1993．海南岛南部甘什岭植物区系的初步研究［J]．植物研究，13(3)：227-242.]XING FW，WU TL ,LI Z X ,et al., 1995. Endemic plants of Hainan Island[J]. J Trop SubtropBot,3(1):1-12.[邢福武，吴德邻，李贤，等，1995．海南岛特有植物的研究［J]．热带亚热带植物学报，3(1)：1-12.]  
+XU Z,2O17. Flora and phytogeography of Mt. Houmiling nature reserve, Hainan, China[D].Guangzhou: South China Agricultural University:43.[许哲，2017．海南猴猕岭的植物区系地理学初步研究[D]．广州：华南农业大学：43.]  
+YAN XL, LIU QR, SHOU HY, et al., 2014. The categorization and analysis on the geographicdistribution paterns of Chinese alien invasive plants[J]. Biodivers Sci,22(5): 667-676.[闫小玲，刘全儒，寿海洋，等，2014．中国外来入侵植物的等级划分与地理分布格局分析［J].生物多样性，22(5)：667-676.]  
+YANG XB,2016. Checklist of plant species in Hainan (Vol. 1-14) [M]. Beijing: Science Press.[杨小波，2016．海南植物图志(1-14卷)[M]．北京：科学出版社.]  
+YANG XB,2019.Vegetation of Hainan[M].Beijing: Science Press: 79.[杨小波，2019．海南植被志[M]．北京：科学出版社：79.]  
+YANG XB,LIN Y,LIANG SQ, et al.,1994. The forest vegetation of Wuzhishan in Hainan IslandI. The forest vegetation types of Wuzhishan[J]. JHainan Univ,12(3): 220-236.[杨小波，林英，梁淑群，等，1994．海南岛五指山的森林植被I．五指山的森林植被类型［J]．海南大学学报，12(3)：220-236.]  
+YIN HY, SHEN YC, JU QQ, et al., 2019. Vascular plant flora of wetland in Yangshan of HaikouCity[J].JTrop Biol,10(2):165-171.[尹菡怿，申益春，琚青青，等，2019．海口羊山湿地野生维管束植物资源的调查[J]．热带生物学报：10(2)：165-171.]  
+YUAN JP,YU LS, DENG GQ, et al., 2006. Geomorphologic division and classification of HainanIsland[J].Nat Sci JHainan Univ(Nat Sci Ed),24(4): 364-370．[袁建平，余龙师，邓广强,等，2015．海南岛地貌分区和分类[J]．海南大学学报(自然科学版)，24(4)：364-370.]  
+ZHANG XM, WEN J, DAO ZL, et al., 2010. Genetic variation and conservation assessment ofChinese populations of Magnolia cathcartii (Magnoliaceae), a rare evergreen tree from theSouth-Central China hotspot in the Eastern Himalayas[J]. JPlant Res,123(3): 321-331.  
+ZHANG YY,FENG JZ, SANG WG, et al., 2012. Distribution of invasive plant species in speciesin relation to environmental and anthropogenic factors in five nature reserves in northernChina[J]. JResour Ecol, 3(3): 278-283.  
+ZHANG ZY，LU AM，1995.Hamamelidaceae: geographic distribution， fossil history andorigin[J].Acta Phytotax Sin,33(4):313-339.[张志耘，路安民，1995．金缕梅科：地理分布、化石历史和起源［J]．植物分类学报，33(4)：313-339．]  
+ZHENG Z,1991. The distribution of Dacrydium in southern China of quaternary[J]. Acta Bot Sin,33(2):130-139．[郑卓，1991．晚第四纪陆均松属在中国南方的分布［J]．植物学报，33(2)：130-139.]  
+ZHU H,2O08.Distribution paterns of genera of Yunnan seed plants with references to theirbiogeographical significances[J].Adv Earth Sci,8(8): 830-839.[朱华，2008．云南种子植物区系地理成分分布格局及其意义[J]．地球科学进展，8(8)；830-839.]  
+ZHU H,2O17. Biogeographical evidences help revealing the origin of Hainan Island[J]. PLoSONE, 11(4): 1-12.  
+ZHU H,2O17. Families and genera of seed plants in relation to biogeographical origin on HainanIsland[J].Biodivers Sci,25(8),816-822.[朱华,2017．探讨海南岛生物地理起源上有意义的一些种子植物科和属[J]．生物多样性，25(8)：816-822.]  
+ZHU H,2O20.On the biogeographical origin of Hainan Island in China[J]. Plant Sci J,38(6):839-843．[朱华，2020．论中国海南岛的生物地理起源[J]．植物科学学报，38(6)：839-843.]

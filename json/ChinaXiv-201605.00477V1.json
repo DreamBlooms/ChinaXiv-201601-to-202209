@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "Integration of small RNAs, degradome and transcriptome sequencing in hyperaccumulator Sedum alfredii uncovers a complex regulatory network and provides insights into cadmium phytoremediation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaojiao Han1,2.a，Hengfu Yin2aXixi Song1,2，Yunxing Zhang1,2，Mingying Liu12,Jiang Sang1,2，Jing jiang1.2 Jihong $\\mathsf { L i } ^ { 3 , \\star }$ and Renying Zhuo1,2,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKey LaboratoryofTree Geneticsand Breeding,ChineseAcademy of Forestry,Beijing,China $^ 2 K e y$ Laboratorofijhbrtrdso $^ 3 K e y$ LaboratoryofgriculturalcologndnvironmentColgeofrestryandongAgriculturalUniversityaianadoin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received21May2015;   \nrevised5November2015;   \naccepted 13 November2015.   \n\\*Correspondence (Tel +86-18615226737; fax +86-538-8249164;email jhli@sdau.edu. cn)   \nand   \n(Tel 86-0571-63311860; fax $+ 8 6 - 5 7 1 .$   \n63341304;email zhuory@gmail.com)   \naThese authors contributed equally to this work. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The hyperaccumulating ecotype of Sedum alfredii Hance is a cadmium (Cd)/zinc/lead co-hyperaccumulating species of Crassulaceae.It is a promising phytoremediation candidate accumulating substantial heavy metal ions without obvious signs of poisoning. However, few studies have focused on the regulatory roles of miRNAs and their targets in the hyperaccumulating ecotype of S.alfredi. Here,we combined analyses of the transcriptomics,sRNAs and the degradome to generate a comprehensive resource focused on identifying key regulatory miRNAtarget circuits under Cd stress.A total of 87 721 unigenes and 356 miRNAs were identified by deep sequencing,and 79 miRNAs were differentially expressed under Cd stress.Furthermore, 754 target genes of 194 miRNAs were validated by degradome sequencing.A gene ontology (GO)enrichment analysis of differential miRNA targets revealed that auxin,redox-related secondary metabolism and metal transport pathways responded to Cd stress.An integrated analysis uncovered 39 pairs of miRNA targets that displayed negatively correlated expression profiles.Ten miRNA-target pairs also exhibited negative correlations according to a real-time quantitative PCR analysis.Moreover,a coexpression regulatory network was constructed based on profiles of differentially expressed genes.Two hub genes,ARF4 (auxin response factor 4)and AAP3 (amino acid permease 3),which might play central roles in the regulation of Cd-responsive genes,were uncovered.These results suggest that comprehensive analyses of the transcriptomics,sRNAs and the degradome provided a useful platform for investigating Cd hyperaccumulation in S.alfredii,and may provide new insights into the genetic engineering of phytoremediation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Sedum alfredii Hance, cadmium stress,phytoremediation, integrationanalysis,coexpression network. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the food safety issues caused by heavy metals being highly emphasized worldwide,more and more intensive studies on the decontamination of polluted environments have been carried out inrecent years (Järup,2003;Schmitt,2009).Among the several types of ubiquitous heavy metal pollutants,cadmium (Cd)is known as a harmful agent,which is toxic to all living cells by interfering with DNA repair machines, generating reactive oxygen species (ROS) and disturbing regular gene expresson (Jomova and Valko,2011;Valko et al.,2005).In most edible plants,Cd,as a nonessential element,can be competitively accumulated against the uptake of some essential metals,impeding vegetative growth and decreasing crop quality (Seth et al.，2oo8;Varotto et al., 2013).However,a special kind of plant,called hyperaccumulating,evolved strategies not only for extreme tolerance to Cd stress but also for hyperaccumulating Cd ions from polluted soils into its above-ground component (Verbruggen et al.，2oo9)．Taking advantage of these plants for the remediation of heavy metals incontaminated soils， namely phytoremediation，hasbeen regardedasan environmentally friendlyand economical method (Lombi et al.，2001).Among the more than 400 identified hyperaccumulating plants, the hyperaccumulating ecotype of Sedum alfredii Hance is a Cd/zinc/lead co-hyperaccumulating species of Crassulaceae in China (Yang et al.,2oo2). Possessing a high-performance cellular detoxification system，this plant isa promising phytoremediation candidate that accumulates substantial heavy metal ions in shoots without obvious signs of poisoning (Yang et al.，20o6).However，more studies at the molecular level are needed to illustrate the mechanism underlying its hyperaccumulating ability. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cd toxicity in plants can indirectly lead to the overproduction of ROS,such as hydrogen peroxide $( \\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 } )$ ，superoxide $( \\mathsf { O } _ { 2 } ^ { \\cdot - } )$ and hydroxyl radical (OH'）(Gill and Tuteja，201O; Jaspersand ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kangasjärvi,201O),and subsequently causes lipid peroxidation, enzyme inactivation,cell membrane integrity damage,ion leakage and eventually cell death (Boominathan and Doran,2003). The biochemical efficient enzymatic and nonenzymatic antioxidant defence systems protect plant cells from oxidative stress damages by preventing dangerous elevations of ROS levels (Gill and Tuteja,2010; Petrov et al.,2015).Additionally, the increased ROS concentrations may induce plant programmed cell death (PCD) when the plants were exposed to Cd (Arasimowicz-Jelonek et al.，2012).Plants exposed to Cd can also induce signalling perception through an external signal,and the signal is rapidly transmitted to the responsible transcription factors (Lin and Aarts, 2012).Plant hormones together with some signalling molecules canregulate plant PCD (Gadjev etal.，20o8)．Thus,plants regulate the response to Cd exposure through a complex mechanism. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent years, the ever-accelerated updating of sequencing platforms has made it possible to conduct a large-scale association analysis of both mRNAs and small RNAs (sRNAs) in nonmodel plants (Morozova and Marra，2oo8; Mutz et al., 2013).Although the whole transcriptome sequencing of the hyperaccumulating ecotype of S.alfredii was described in previous research (Gao et al.，2013)，a more detailed comparative transcriptome analysis among different Cd stress durations was required to further elucidate the mechanism underlyingits hyperaccumulation and hypertolerance of Cd.In the past few years,research has suggested that plant miRNAs and their targets play important regulatory roles in their adaptation to different heavy metal stresses (Gupta et al.，2014;Yang，2013). Highthroughput analysis of these endogenous conserved miRNAs under heavy metal stress might provide a new viewpoint on stress-response mechanisms in plants (Hsieh et al.，20o9).At present,many potential heavy metal-responsive miRNA candidateswere identified in rice，medicago,Brassica juncea,radish and many other plants (Liu and Zhang,2012;Wang et al.,2015; Zhou et al.，2012a,b).A number of miRNAs regulated by aluminium stress were detected in wild soya bean (Zeng et al., 2012).Brassica napus miRNAs and their targets were profiled on a genomewide scale in response to Cd (Zhou et al.，2012a). Furthermore,a genomewide identification of radish miRNAs and their targets was conducted under the stress of Pb exposure (Wang et al.，2015).However, little is known regarding miRNA expression profiles in S.alfredii in response to heavy metal stress. Therefore,there isalsoa need fora comprehensive identification of miRNAs involved in heavy metal absorption and resistance in the hyperaccumulating ecotype of S.alfredii. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study is to systematically identify potential heavy metal-responsive miRNAs and their targets in the hyperaccumulating ecotype of S.alfredii.Thus,the combination of the transcriptomics,sRNAs and degradome generated a comprehensiveresource focused on identifying key regulatory miRNAtargeted circuits under Cd stress.Our results will provide valuable information regarding Cd-responsive mechanism in the hyperaccumulating ecotype of S.alfredii,and help to improve the genetic engineering of phytoremediation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transcriptome sequencing in hyperaccumulating S.alfredii under Cd treatments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The transcriptome library was constructed from mixed RNA pools consisting of root,stem and leaf samples from plants treated with ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ca78f161ae96512277baf38c2e20029d436c0cb6198908daa6026b638f073f3.jpg",
+        "table_caption": [
+            "Table1 Summary of Illumina transcriptome sequencing for S.alfredii "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Species S.alfredii</td></tr><tr><td>Raw reads 44495 628</td></tr><tr><td>Total nucleotides (bp) 8 851 634 796</td></tr><tr><td>Number of contigs 4 362 619</td></tr><tr><td>Average contig length (bp) 56</td></tr><tr><td>Number of transcripts 140 912</td></tr><tr><td>Average transcripts length (bp) 766</td></tr><tr><td>Number of unigenes 87 604</td></tr><tr><td>Average unigenes length (bp) 586</td></tr><tr><td>Q20 (%) 100</td></tr><tr><td>GC (%) 45.18</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$4 0 0 \\mu \\nu \\mathsf { C d } \\mathsf { C l } _ { 2 }$ for eight durations.Then,44 495 628 raw reads weregenerated， accounting for approximately 8.8 Gbof sequencing data.After quality control, the remaining high-quality reads were assembled into 87 721 unigenes,having an average length of 586 bp.The summary of the Illumina transcriptome sequencing of S.alfredii is shown in Table 1.The unigenes were annotated by sequence alignments to the NCBl nonredundant protein (Nr) database.According to the BLASTX algorithm's results,59 319 unigenes were detected to have homologs in the Nr database.To capture the gene expression profiles，we performed RNA sequencing on eight samples from the Cd treatments (control,0.5 h,6 h,12 h,24 h, $4 8 \\ h ,$ 72 h and 96 h) to identify differentially expressed genes (DEGs). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sequencing and identification of known and novel miRNAs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The small sRNA library was assembled from eight batches of sequencing data sets to increase coverage (Table S1).After removing the low-quality sequences,17- to 25-nt-long sequences were obtained.The size distribution of the unique sRNAs is summarized in Figure S1，and no significant differenceswere found among the eight libraries.The displayed lengths of these S.alfredii sRNAs ranged from 18 to 25 nt,and the 24-nt sRNAs displayed the highest redundancy size class among all eight libraries. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All clean and unique sRNAs read sequences were queried using the BLAST algorithm to search against the relevant noncoding RNAs deposited in the Rfam and NCBl GenBank databases to remove rRNA,tRNA,snRNA and snoRNA sequences.To predict novel miRNAs,the remaining unannotated sRNA unique reads that did notmatch the transcriptome of any library were retrieved and subjected to a secondary structure prediction.All of the locigenerating sRNAs that could be folded into a secondary structure were considered as potential novel miRNA candidates. In total 356 miRNAs were found in S.alfredii and categorized into four different groups based on their abundance in the miRNA database and sequencing reads (Figure 1，Table S2).Of these miRNAs，260 pre-miRNAs corresponding to 299 known unique mature miRNAs were identified as having high similarity compared with known plant miRNAs.These miRNAs belonged to 82 already documented miRNA families (Figure S2).The 21 nt length occupied $4 1 . 4 7 \\%$ of the known unique miRNAs (Table S3).In total,40 pre-miRNAs,corresponding to 57 mature miRNAs,were identified as novel miRNA candidates that were not registered in miRBase.The lengths of these miRNAs varied from 18 to 25 nt, with $4 7 . 3 7 \\%$ being 24 nt long (Table S3).Based on Mfold calculations,the Minimum Free Energy (MFE) and MFE index of these predicted pre-miRNAs ranged from $- 2 3 . 9$ to $- 1 4 7 . 1 \\ k \\mathtt { c a l } /$ mol and 0.9 to $1 . 1 2 \\mathrm { ~ k c a l } / \\mathrm { m o l }$ ，respectively (Table S4)．These characteristics meet the requirements to maintain the stability of the hairpin structures of miRNAs.To further identify authentic miRNAs without a reference in the Sedum genome， the secondary structures of pre-miRNAs and the reads coverage in mature and star areas were analysed.We found 128 highly confident miRNAs (Table S5)，of which 30 miRNAs were not found in other plant species. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f53585939e0fa75e70e0501c5f91edf4a8da7c84c0e46c03aed52d94ea6de86.jpg",
+        "img_caption": [
+            "Figure1SummaryofthedistrbutionofthefouridentfiedgroupsofmiRNAsinSedumlfredi.CountsMRb:thecountsofmiRNAsfrommiRBase Expression level: low indicates ${ < } 1 0 ;$ middle indicates ${ > } 1 0$ but less than average; high indicates over average. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cd-responsive miRNAsin S.alfredii ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toidentify miRNAs in S.alfredii that respond to Cd， the differential expression of miRNAs in the eight librarieswas analysed and compared using the read counts generated from the high-throughput sequencing. In total,153 miRNAs( $\\cdot P$ -value $< 0 . 0 5 )$ ：showed differential expression patterns.When a stricter criterion of total expression abundance ${ > } 1 0$ was used，79 differentially expressed miRNAs，including 67 known miRNAs and 12 novel miRNAs,were found among the eight libraries.The heatmap of potential differentially expressed miRNAs is illustrated in Figure 2a.Most miRNA members of the same family had similar expression profiles.For example,three miR408 and three miR171 family members were significantly up-regulated by Cd exposure. Five miR2916,three miR6173 and three miR8005 familymembers were found to be significantly down-regulated by Cd treatments. Among the 12 novel miRNAs,10 miRNAs were up-regulated by Cd exposure,while the other two miRNAs (PC-5p-98092_120 and PC-5p-207477_71) were down-regulated (Figure 2a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition to the validation of differentially expressed miRNAs, we also examined the distribution of 153 differential miRNAs between control and treatments (Figure 2b). Among these miRNAs,the largest number (45 miRNAs) of up-regulated miRNAs was found with a $\\mathsf { C d C l } _ { 2 }$ treatment of $4 8 \\mathrm { ~ h ~ }$ compared with the control,while 32 miRNAs were significantly down-regulated with a $\\mathsf { C d C l } _ { 2 }$ treatment of $0 . 5 { \\mathrm { ~ h ~ } }$ compared with the control (Figure 2b).These data indicated that the duration of Cd treatments might cause short-term as well as long-term effects on the expression levels of miRNAs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Target prediction of the known and novel miRNAs by degradome sequencing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Through degradome sequencing，9 649 268 raw reads representing 4 721 650 unique reads,were generated from the mixed degradome pools.After removing the reads lacking the adaptor, 6812869（ $7 0 . 6 \\%$ of all reads) sequences were successfully mapped to the 48 446 unigenes $( 5 5 . 2 2 \\%$ of the 87 721 input cDNA sequences) of the hyperaccumulating S.alfredii.The CleaveLand 3.0 pipeline was used to identify degraded targets for each of the miRNA families (Addo-Quaye et al.,20o9).All of the potential cleaved transcripts were classified into five categories，based on the signature abundance at each occupied transcript position (Xu et al.,2013;Yang et al.,2013):category 0 over one raw readat the position,abundance at the position is equal to the maximum on the transcript,and there is only one maximum on the transcript; category 1—over one raw read at the position,abundance at the position is equal to the maximum on the transcript,and there is more than one maximum position on the transcript;category 2—over one raw read at the position, abundance at position is less than the maximum but higher than the median for the transcript; category 3—over one raw read at the position,abundance at the position is equal to or less than the median for the transcript; and category 4—only one raw read at the position.Among these identified targets,there were 171,16, 216，8 and 346 in categories 0，1，2，3 and 4 respectively (Table S6,Figure S3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a611af2e382cb3893b9c2a811ec4ecd6c775383e34302d6f074f413fc9bed75.jpg",
+        "img_caption": [
+            "Figure2Cadmium (Cd)-responsive miRNAs in Sedumalfredii.(a) Differential expressed miRNAs in eight different Cd treatment durations $( 0 \\ h ,$ （20 0.5 h,6 h, $1 2 \\ h ,$ $2 4 \\mathrm { ~ h ~ }$ $4 8 \\mathrm { ~ h ~ }$ $7 2 \\mathrm { ~ h ~ }$ and 96 h) by hierarchical clustering. Red indicates higher levels of miRNAs and green indicates lower levels of miRNAs.The names of the samples are shown at the top.The original expression values of the miRNAs were normalized using Z-score normalization.The absolute signal intensity ranges from $- 3 . 0$ to $+ 3 . 0 .$ .with corresponding colour changes from green to red.(b) The number of differentially expressed miRNAs under Cd stress compared with the control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A total of 722 targets for 180 known miRNAs were identified from the mixed degradome (Table S6).We also identified the targets of 57 novel newly discovered miRNAs by degradome sequencing and analysis.Finally only 14 novel miRNAs targeted 32 transcripts (Table 2).Most of the miRNAs (187) cleaved a single transcript target,while 29 miRNAs were detected to cleave two or more different transcript targets (Table S6).Forty-seven targetswereidentifiedtobecleaved by ptc-miR171i$p 3 _ { - } 1 s s 2 1 T G$ ，which was the highest amount of transcripts cleaved by the same miRNA;while 11 miRNAs were detected to cleave only one transcript target,which was annotated to an unknown protein with hydrolase activity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Annotation and enrichment analysis of targets for miRNAs under cadmium stress ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An analysis using the BLASTX algorithm showed that the identified target transcripts detected in our degradome library shared homology with other plant proteins.A gene ontology (GO)functional classification analysis was conducted to further understand the functions of these 754 identified targeted genes (Figure 3a).These target genes predominantly participated in biological processes,cellular component and molecular function. Fifteen transcripts were identified in biological processes,with the two most frequent categories being‘regulation of transcription'and‘transcription'.Of the 15 molecular component categories， the two most highly represented were 'nucleus' and‘integral to membrane'.Finally,there were 15 molecular function categories，with the most abundant being‘DNA binding' (Figure 3a).The functional annotations indicated that there were five transcription factors,NAC82,NAC90,HD-Zip Ill, ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8829d48719b746184c030089a1fe4175e728e2c237743451e0c27b210fff1f1b.jpg",
+        "table_caption": [
+            "Table 2 Target genes of 14 novel miRNAs and their functional annotation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Alignment</td><td>Cleavage</td><td></td><td></td><td></td></tr><tr><td>Small RNA</td><td>Targets</td><td>Score</td><td>Site</td><td>Category</td><td>Target annotation</td><td>Biological process</td></tr><tr><td>PC-3p-1507684_5</td><td>BMK.61478</td><td>3</td><td>1247</td><td>4</td><td>GPl-anchored protein</td><td>Anchored to plasma membrane</td></tr><tr><td>PC-3p-1650016_5</td><td>BMK. 62314</td><td>3.5</td><td>2225</td><td>4</td><td>Unknown</td><td>-</td></tr><tr><td>PC-3p-1662_4367</td><td>BMK.83121</td><td>4</td><td>259</td><td>2</td><td>Unknown</td><td></td></tr><tr><td>PC-3p-3238323_4</td><td>BMK. 53452</td><td>2.5</td><td>992</td><td>4</td><td>GRF1-interacting factor 3</td><td>Regulation of transcription,</td></tr><tr><td></td><td>BMK.62570</td><td>2.5</td><td>59</td><td>2</td><td>Class  HD-Zip protein 8</td><td>Regulation of transcription</td></tr><tr><td>PC-3p-343059_26</td><td>BMK. 62457</td><td>3</td><td>819</td><td>0</td><td>Homeobox-leucine zipper protein</td><td>Regulation of transcription</td></tr><tr><td></td><td>BMK.21295</td><td>4</td><td>304</td><td>4</td><td>REVOLUTA-like Unknown</td><td></td></tr><tr><td></td><td>BMK.51337</td><td>3</td><td>2136</td><td>2</td><td>Retrotransposon protein</td><td>1</td></tr><tr><td></td><td>BMK. 61478</td><td>0</td><td>1233</td><td>4</td><td>GPl-anchored protein</td><td>Anchored to plasma membrane</td></tr><tr><td>PC-3p-3461203_2</td><td>BMK.36956</td><td>3.5</td><td>1616</td><td>4</td><td>Leucine-rich repeat receptor-like protein kinase (LRR-RLK)</td><td>Protein phosphorylation</td></tr><tr><td></td><td>BMK.39438</td><td>3.5</td><td>1163</td><td>4</td><td>Cytochrome P450</td><td>Secondary metabolites biosynthesis</td></tr><tr><td></td><td>BMK.46596</td><td>3.5</td><td>1907</td><td>2</td><td>Subtilisin-like protease</td><td>Proteolysis</td></tr><tr><td></td><td>BMK.48392</td><td>4</td><td>2113</td><td>4</td><td>Nitrate transporter</td><td>Oligopeptide transport</td></tr><tr><td></td><td>BMK.49292</td><td>4</td><td>1691</td><td>4</td><td>Run and tbc1 domain containing 3</td><td>Regulation of Rab GTPase activity</td></tr><tr><td></td><td>BMK.52038</td><td>4</td><td>1970</td><td>4</td><td>Alpha-glucan water dikinase</td><td>Starch catabolic process</td></tr><tr><td></td><td>BMK.52079</td><td>4</td><td>2014</td><td>4</td><td>Serine/threonine protein phosphatase 2A</td><td>Signal transduction</td></tr><tr><td></td><td>BMK.59928</td><td>4</td><td>1455</td><td>4</td><td>Translocase subunit SecA</td><td>Protein targeting</td></tr><tr><td></td><td>BMK.61399</td><td>3.5</td><td>2024</td><td>4</td><td>Transcription factor APETALA2</td><td>Regulation of transcription</td></tr><tr><td></td><td>BMK.83033</td><td>4</td><td>948</td><td>4</td><td>Lyrata myb family transcription factor</td><td>Regulation of transcription</td></tr><tr><td>PC-5p-123438_88</td><td>BMK.51365</td><td>4</td><td>969</td><td>4</td><td>Sentrin-specific protease</td><td>Nuclear-transcribed mRNA catabolic process</td></tr><tr><td>PC-5p-126214_87</td><td>BMK.52369</td><td>4</td><td>287</td><td>2</td><td>Unknown</td><td></td></tr><tr><td>PC-5p-20273079_1</td><td>BMK.49984</td><td>2</td><td>170</td><td>2</td><td>Unknown</td><td></td></tr><tr><td></td><td>BMK.51107</td><td>4</td><td>1355</td><td>1</td><td>Unknown</td><td></td></tr><tr><td></td><td>BMK.56528</td><td>3.5</td><td>987</td><td>4</td><td>Receptor-like cytosolic serine/threonine</td><td>Protein phosphorylation</td></tr><tr><td></td><td>BMK.85664</td><td>3.5</td><td>385</td><td>4</td><td>protein kinase RBK2-like Galacturonosyltransferase-like 9-like</td><td>Response to oxidative stress</td></tr><tr><td>PC-5p-207477_71</td><td>BMK.35227</td><td>3</td><td>1258</td><td>4</td><td>Polyamine oxidase</td><td>Oxidation-reduction process</td></tr><tr><td></td><td>BMK.40236</td><td>4</td><td>662</td><td>4</td><td>Unknown</td><td></td></tr><tr><td>PC-5p-2679901_5</td><td>BMK. 61478</td><td>2</td><td>1326</td><td>0</td><td>GPl-anchored protein</td><td>Anchored to plasma membrane</td></tr><tr><td>PC-5p-3760_2402</td><td>BMK.50544</td><td>1</td><td>1587</td><td>2</td><td>Auxin response factor 4</td><td>Response to hormone stimulus</td></tr><tr><td></td><td>BMK.58380</td><td>0</td><td>1763</td><td>2</td><td>Auxin response factor 3</td><td>Response to hormone stimulus</td></tr><tr><td>PC-5p-51499_238</td><td>BMK. 61478</td><td>0</td><td>1326</td><td>0</td><td>GPl-anchored protein</td><td>Anchored to plasma membrane</td></tr><tr><td>PC-5p-6279784_1</td><td>BMK.62367</td><td>4</td><td>1505</td><td>4</td><td>Unknown</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AP2-like ethylene-responsive transcription factor and Auxin signalling F-box 2，that responded to various stresses (Krishnamurthyand Rathinasabapathi,2013;Naika et al.,2013).Another fourtargets，Squamosa promoterbinding protein-like12, Squamosa promoter binding protein-like 3，Senescence-associated protein DiN1 and ATP sulphurylase 1，had functions related to heavy metal stress (Contreras-Porcia etal.，2011; Perea-Garcia et al.,2010;Wangeline et al.,2004).This analysis suggested that the miRNA targets were concentrated in the transcription factors and respond to stimuli. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/815575aed45889f11fcea6d385a8cdc5c7d0135f148fb41855bfc2f4d2aefbd4.jpg",
+        "img_caption": [
+            "igure3Guasiceteas b) GO enrichment of target genes.The arrows represent the important biological pathways. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "An analysis of the GO term enrichment indicated that key biological pathways were involved in the Cd responses. Significantly enriched GO terms (Fisher's test $P$ -value $\\mathopen < 0 . 0 5 \\mathclose \\bgroup $ ）were visualized using the reviGO tool (Supek et al.,2011) and plotted (Figure 3b).Some interesting GO terms related to metal transport (GO:0000287 magnesium ion binding and GO: 0005234 extracellular-glutamate-gated ion channelactivity),redox-related secondary metabolism (GO:0016706 oxidoreductase activity, GO:0000822 inositol hexakisphosphate binding，GO:0008295 spermidine biosynthetic process),and phytohormone auxin (GO: 009734,GO:0o10011auxin binding)were revealed,which was in agreement with our current understanding of Cd responses. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Correlation analysis of miRNAs expression profiles and theirtarget genes ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To investigate the variable trend of the global transcriptome in thehyperaccumulating S.alfredii under different Cd stress treatment durations,the previously assembled unigenes were applied to a DEG analysis. In total,342 target genes presented differential expression levels under Cd stress.There were 45 differentially expressed targets from 40 miRNAs (Table 3)when the targets corresponded to differentially expressed miRNAs,and 39miRNA-target pairs showed a reverse expression pattern (negatively correlated;Figure 4).For example，cme-miR858_L$1 R + 1$ was significantly down-regulated by Cd exposure,while its target MYB12 (BMK.57978) was significantly up-regulated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Areal-time quantitative PCR (RT-qPCR)analysis wasalso performed to validate the expression profile of 12 interesting miRNA-target modules.Our results showed that the RT-qPCR analysis for mostof thedifferentially expressed miRNAsand their targets displayed similar expression pattern to those generated from high-throughput sequencing (Figure 5). Furthermore，10 miRNA-target pairs (mtr-miR166C-2SS20TC21CA/GIF3，mtr-miR 172d-3p_R+1/ABP/AP2/ERFc/APRR2，PC-3P-3461203-2/SBT1/ CYP/PP2A,mtr-miR164a_1ss17GA/NAC80/NAC92，cme-miR858_ L-1R+1/MYB12，bra-miR2111a-5p/F-BOX，ptc-miR162a_1ss8AG/ DICER， cpa-miR167d_R-1/PPR， han-miR3630-3p_L-1_1ss2GA/ AAP3，and PC-5p-3760_2402/ARF4)exhibitedanegative relationship at the expression level,indicating that a transcriptional repression may be mediated on these targets through their corresponding miRNAs (Figure 5a-j).In addition，we detected two othermiRNAs (rco-miR535and mtr-miR2592bj-p3_1ss12TC) and their targets in roots,leavesand stems (Figure $5 k - 1 ,$ .Thetwo miRNA-target pairs presented a positive relationship at the expression level.The expression levels of these genes gradually increased from $0 \\ h$ to $4 8 \\mathrm { ~ h ~ }$ after Cd stress and then decreased after $4 8 \\mathrm { ~ h ~ }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gene coexpression network analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine the genes related to the coexpressed target genes, the DEG data set was used to construct a network.After excluding nonexpressed and lowly expressed genes,we identified 60gene coexpression modules containing 31 985 unigenes (Figure S4). Ultimately, the resulting network was composed of 31 distinct gene modules.The constructed gene modules ranged in size from 4238 (turquoise module) to 136 genes (plum1 module).To investigate the network connections for the target genes,we focused on the two target genes ARF4 (BMK.50544, auxin response factor 4，PC-5p-3760_2402 target gene)and AAP3 (BMK.21215,amino acid permease3,han-miR3630-3p_L2R-1_1ss21TA target gene)，which play a prominent roles in heavy metal stress (Gielen et al.，2012;Xu et al.，2012).A complete list of module assignments and network metrics for the two genes is included in Table S7. In this network,the two hub genes ARF4 and AAP3 were directly connected with 1754 edges and 1212 edges.Among them,1115 edges were coregulated by the two hub genes,suggesting that the coexpressed genes were most likely coregulated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We also created a subnetwork containing 91 genes by identifying five categories that were related to signal transduction，transcription factor，antioxidant-related genes，PCDand metal transport (Figure 6).Of the 91 genes,32 and 36 were in thesignal transduction and transcription factor categories respectively when testing the functional assignments (Table S8). The two categories may trigger transport processes for detoxification,activate biochemical defence reactions,and PCD under Cd stress.Seventeen metal transport-related genes might be involved in Cd uptake， transport and sequestration processes. Five members of the peroxidase family found in the subnetwork may remove ${ \\sf H } _ { 2 } { \\sf O } _ { 2 }$ formed because of Cd tress,and lead to the activation of other defence mechanisms.When the plants experienceheavy metal tress，plant PCD，asa positiveand negative aspect of environment adaptation，provides survival benefits for the whole plant.More importantly,this network can be exploited in future studies to identify novel genes that interact with ARF4 and AAP3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In comparison with miRNAs identified from the other plants, little research has been conducted on the role of miRNAs in Crassulaceae plants.Only 146 EST sequences of S.alfredii have been deposited in GenBank，which is insufficient to analyse miRNA behaviour under Cd stress.Here,a transcriptome data set was used as reference sequence for miRNA and degradome sequencinganalyses in S.alfredii.The approach highlighted the benefits of providing more qualitative and quantitative descriptions of the miRNA functions during stress tolerance.Furthermore，356 miRNAs,including 128 highly confident miRNAs,were identified based on the transcriptome data in the hyperaccumulating S.alfredii.Of these miRNAs，more than half $( 6 8 . 3 5 \\% )$ ）had relatively low expression abundances，indicating that highthroughput sequencing is a most powerful strategy to identify miRNAs with low expression levels in plants.Additionally，the sRNA length distribution patterns peaked at 24 nt (Figure S1), which is consistent with previous results for most angiosperms, such as peanut (Zhao et al.,201O),soya bean (Song et al.,2011), Medicago truncatula (Szittya etal.，2oo8)，Paulownia australis (Niu et al.,2014) and cotton (Yang etal.,2013). Therefore, the sRNA length distribution pattern in S.alfredii is similar to that in other plants. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study，we identified 79 miRNAs differentially regulated by Cd exposure (Figure 1).Most miRNA members of the same familyshowed similar expression profiles.For instance，three miR396 and three miR171 family members were significantly upregulatedby Cd exposure.InM.truncatula,itwas reported that miR171 was also up-regulated by Cd stress (Zhou et al.,2008). However,miR171 in rice was reported to be down-regulated in response to Cd treatment (Ding et al.,2011;Tang et al.,2014); miR171 and miR396 were also down-regulated by Cd exposure in B.napus (Xie et al.，2007； Zhou et al.，2012a).Thus，the differential expression patterns of miR171 and miR396 might be due to the different Cd treatment conditions of plant species. We also discovered that some previously known miRNAs were ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/aac21a997652b560736c732867d934e635cb18670b6cb23bdd29f6763e705478.jpg",
+        "table_caption": [
+            "Table3 The differentially expressed targets of Cd-responsive differentially expressed miRNAs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>miRNA Family</td><td>miRNAname</td><td>Targets</td><td>Annotation</td></tr><tr><td>miR156</td><td>mtr-miR156b-5p</td><td>BMK. 22553</td><td>Squamosa promoter binding protein-like 12</td></tr><tr><td></td><td>ptc-miR156a_R +1_1ss15GA</td><td>BMK.22553</td><td>Squamosa promoter binding protein-like 12</td></tr><tr><td></td><td></td><td>BMK.31642</td><td>Squamosa promoter binding protein-like 3</td></tr><tr><td></td><td>mtr-miR156a_1ss14AT</td><td>BMK.22553</td><td>Squamosa promoter binding protein-like 12</td></tr><tr><td></td><td></td><td>BMK. 31642</td><td>Squamosa promoter binding protein-like 3</td></tr><tr><td>miR164</td><td>bra-miR164b-5p_1ss20CT</td><td>BMK. 23103</td><td>NAC domain-containing protein 80</td></tr><tr><td></td><td></td><td>BMK. 54779</td><td>NAC domain-containing protein 92</td></tr><tr><td></td><td></td><td>BMK. 23103</td><td>NAC domain-containing protein 80</td></tr><tr><td></td><td>mtr-miR164a</td><td>BMK. 54779</td><td>NAC domain-containing protein 92</td></tr><tr><td></td><td>mtr-miR164a_1ss17GA</td><td>BMK. 23103</td><td>NAC domain-containing protein 80</td></tr><tr><td></td><td></td><td>BMK. 54779</td><td>NAC domain-containing protein 92</td></tr><tr><td>miR166</td><td>mtr-miR166a</td><td>BMK.62570</td><td>HD-Zip II</td></tr><tr><td></td><td>mtr-miR166c_2ss20TC21CA</td><td>BMK.62570</td><td> HD-Zip I</td></tr><tr><td>miR167</td><td>cpa-miR167d_R-1</td><td>BMK. 47519</td><td>Senescence-associated protein DIN1</td></tr><tr><td>miR168</td><td>mtr-miR168b</td><td>BMK.53489</td><td>Argonaute 1</td></tr><tr><td>miR172</td><td>ptc-miR172a-p5</td><td>BMK. 17485</td><td>S-adenosyl-L-methionine-dependent methyltransferases superfamily prote</td></tr><tr><td></td><td></td><td>BMK. 58875</td><td>Nonphototropic hypocotyl 1</td></tr><tr><td></td><td></td><td>BMK.58935</td><td>Monoglyceride lipase</td></tr><tr><td></td><td>mtr-miR172d-3p_R + 1</td><td>BMK.39895</td><td>Two-component response regulator-like APRR2</td></tr><tr><td></td><td></td><td>BMK. 61091</td><td>AP2-like ethylene-responsive transcription factor</td></tr><tr><td></td><td></td><td>BMK. 61399</td><td>Floral homeotic protein APETALA 2</td></tr><tr><td></td><td></td><td>BMK. 62738</td><td>Pre-mRNA-splicing factor CWC22</td></tr><tr><td></td><td></td><td>BMK.61091</td><td>AP2-like ethylene-responsive transcription factor TOE3</td></tr><tr><td></td><td>mtr-miR172b_1ss1AG</td><td>BMK.61399</td><td>Floral homeotic protein APETALA 2</td></tr><tr><td>miR393</td><td></td><td>BMK.60895</td><td>Auxin signalling F-box 2</td></tr><tr><td></td><td>mtr-miR393a</td><td>BMK.62158</td><td></td></tr><tr><td></td><td></td><td>BMK. 60895</td><td>Unknown</td></tr><tr><td></td><td>bdi-miR393a_R+ 1_1ss21CT</td><td>BMK. 62158</td><td>Auxin signalling F-box 2 Unknown</td></tr><tr><td>miR394</td><td></td><td>BMK. 39348</td><td></td></tr><tr><td></td><td>csi-miR394_L + 1</td><td>BMK. 34136</td><td>Mediator of RNA polymerase I transcription subunit 37a</td></tr><tr><td>miR395</td><td>mtr-miR395a_1ss1AC</td><td></td><td>Unknown</td></tr><tr><td></td><td></td><td>BMK.59583</td><td>sulphate transporter 2.1</td></tr><tr><td></td><td></td><td>BMK.61906</td><td>ATP sulphurylase 1</td></tr><tr><td>miR396</td><td>mtr-miR396b-5p</td><td>BMK. 38439</td><td>Unknown protein</td></tr><tr><td></td><td></td><td>BMK.63219</td><td> KRR1 small subunit processome component homolog</td></tr><tr><td></td><td>mtr-miR396a-5p_1ss21TG</td><td>BMK.38439</td><td>Unknown</td></tr><tr><td></td><td></td><td>BMK. 63219</td><td> KRR1 small subunit processome component homolog</td></tr><tr><td></td><td>mtr-miR396b-3p</td><td>BMK. 38439</td><td>Unknown protein</td></tr><tr><td></td><td></td><td>BMK. 63219</td><td>KRR1 small subunit processome component homolog</td></tr><tr><td>miR408</td><td>cme-miR408_L-1R+2</td><td>BMK.85914</td><td>Basic blue copper protein</td></tr><tr><td></td><td>smo-miR408</td><td>BMK. 85914</td><td>Basic blue copper protein</td></tr><tr><td></td><td>ptc-miR408-3p</td><td>BMK. 85914</td><td>Basic blue copper protein</td></tr><tr><td>miR530</td><td>ptc-miR530a_R + 1</td><td>BMK. 57478</td><td>Unknown</td></tr><tr><td></td><td>ptc-miR530b_R + 1_1ss17TC</td><td>BMK. 57478</td><td>Unknown MYB12</td></tr><tr><td>miR858</td><td>cme-miR858_L-1R+1</td><td>BMK. 57978</td><td></td></tr><tr><td>miR2609</td><td>mtr-miR2609a-p5_1ss17AT</td><td>BMK. 21051</td><td>RING finger and CHY zinc finger domain-containing protein 1</td></tr><tr><td></td><td></td><td>BMK. 39828</td><td>Fructose-1,6-bisphosphatase</td></tr><tr><td></td><td></td><td>BMK.52950</td><td>Glutathione S-transferase U17-like</td></tr><tr><td></td><td></td><td>BMK.59655</td><td>Disulphide isomerase</td></tr><tr><td></td><td></td><td>BMK. 83779</td><td>Glycerol-3-phosphate acyltransferase</td></tr><tr><td>miR2916</td><td>peu-miR2916-p3_1ss13CT</td><td>BMK. 21569</td><td>UDP-glucose transporter 3</td></tr><tr><td>miR3630</td><td>han-miR3630-3p_L-2R-1_1ss21TA</td><td>BMK.21215</td><td>Amino acid permease 3</td></tr><tr><td>miR5139</td><td>rgl-miR5139_L-1</td><td>BMK. 35885</td><td>DEAD-box ATP-dependent RNA helicase 3</td></tr><tr><td></td><td></td><td>BMK. 60148</td><td>UDP-glycosyltransferase 75D1-like</td></tr><tr><td>miR6173</td><td>hbr-miR6173-p3_1ss1GC</td><td>BMK. 38333</td><td>Calcium-binding EF-hand family protein</td></tr><tr><td></td><td>hbr-miR6173-p5_1ss1GC</td><td>BMK. 38333</td><td>Calcium-binding EF-hand family protein</td></tr><tr><td></td><td>hbr-miR6173-p3</td><td>BMK.37451</td><td>ATP synthase subunit alpha</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>BMK. 56391 BMK.57790</td><td>Probable inactive purple acid phosphatase 27 Aspartic protease in guard cell 1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fce1e49b6257e121cff186025c6621ea67f33de0c6a99a4e5ac04f3195edbc16.jpg",
+        "table_caption": [
+            "Table 3 Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>miRNA Family</td><td>miRNA name</td><td>Targets</td><td>Annotation</td></tr><tr><td>miR8005</td><td>stu-miR8005c-p5_1ss13AG</td><td>BMK.45712</td><td>Haloacid dehalogenase-like hydrolase (HAD) superfamily protein</td></tr><tr><td></td><td></td><td>BMK.57949</td><td>BEL1-like homeodomain protein 1</td></tr><tr><td></td><td>stu-miR8005a-p3_1ss21GT</td><td>BMK.45712</td><td>Haloacid dehalogenase-like hydrolase (HAD) superfamily protein</td></tr><tr><td></td><td></td><td>BMK.57949</td><td>BEL1-like homeodomain protein 1</td></tr><tr><td></td><td>stu-miR8005c-p3_1ss12AG</td><td>BMK.45712</td><td>Haloacid dehalogenase-like hydrolase (HAD) superfamily protein</td></tr><tr><td>Novel miRNA</td><td>PC-5p-3760_2402</td><td>BMK.50544</td><td>Auxin response factor 4</td></tr><tr><td></td><td>PC-3p-1662_4367</td><td>BMK.83121</td><td>Unknown</td></tr><tr><td></td><td>PC-5p-126214_87</td><td>BMK.52369</td><td>Knob-associated histidine-rich protein</td></tr><tr><td></td><td>PC-5p-207477_71</td><td>BMK.35227</td><td>Polyamine oxidase</td></tr><tr><td></td><td></td><td>BMK.40236</td><td>DNA topoisomerase 1-like</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(a) 一 郎   \nmtr-miR164a_1ss17GA BMK.54779   \nmtr-miR164a BMK.54779   \nbra-miR164b-5p_1ss20CT BMK.54779   \npeu-miR2916-p3_1ss13CT BMK.21569   \nhbr-miR6173-p3 BMK.56391   \nPC-5p-207477_71 BMK.35227   \nhbr-miR6173-p5_1ss1GC BMK.38333   \nhbr-miR6173-p3_1ss1GC BMK.38333   \n一 hbr-miR6173-p3 一 BMK.57790   \nstu-miR8005a-p3_1ss21GT BMK.57949   \nstu-miR8005c-p5_1ss13AG BMK.57949   \nrgl-miR5139_L-1 BMK.35885   \nmtr-miR2609a-p5_1ss17AT BMK.39828   \nmtr-miR2609a-p5_1ss17AT BMK.52950   \nck 0.5h6h 12h24h 48h 72h 96h ck 0.5h6h 12h 24h 48h72h 96 h ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "regulated by Cd stress.Five miR2916, three miR6173 and three miR8005 family members were found to be significantly downregulated by Cd treatments (Figure 2a). In plants,miR2916was found to be responsive to abiotic stresses,such as salinity (Qin et al.,2015)and boron stress (Ozhuner et al.,2013).In Saccharina japonica,miR6173 was reported to regulate the response to heat stress (Liu et al.，2015).These findings implied that the known miRNAs were most likely involved in cross-adaptation to regulate plant tolerance to abiotic stresses,including heavy metal stress.However，their exact functions remain to be verified in future investigations.Different miRNA members within the same family were present at different expression levels after Cd exposure.Similar events also occured with miRNA family members in other plants.In soya bean，miR396a ${ \\cdot 3 p }$ and miR396i ${ \\cdot 3 p }$ were significantly up-regulated,while miR396b-5p was downregulated by Cd exposure (Fang et al.，2013).Thus,a complex mechanism may regulate the expression profiles of members of the same family. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A transcriptome-wide analysis of the degradome was performed,and numerous target transcripts for the known and novel miRNAs were determined.For the miRNAs，754 targets were identified by degradome sequencing (Table S6).Most targets of known miRNAs are conserved,including transcription factors, and those involved in signal transduction and plant response to heavy metals,all of which are found in other plant species (Cao et al.，2013;Zhang et al.，2012，2014).Recent studies showed that a number of miRNAs regulate the expression of their targets through transcript cleavage or translation repression (Brodersen et al.,2oo8).An integrated analysis of miRNA expression profiles and their targets can help to identify the functional miRNA-target modules involved in regulating specific biological processes (He et al.，2014;Pei et al.，2013). In this study，we identified 45 differentiallyexpressed targets from 4Odifferentiallyexpressed miRNAsby DEG analysis and RT-qPCR (Table 3)，and most of these miRNA-target pairs showed reverse expression patterns (Figure 4).For example，cme-miR858_L-1R+1 was significantly down-regulated by Cd exposure，while its target MYB12 (BMK. 57978)was significantly up-regulated.However，miR858 was also reported to be up-regulated in roots exposed to different Pb concentrations in cotton (He et al.，2014). However，many miRNA-target pairs involved in heavy metal stress in previous reports were not detected in our study,such as miR6o4/LTP(lipid transfer protein) (Huang et al.，2009) and miR167/NRAMP (Burklew et al.，2012；Srivastava et al.，2013). S.alfredii may have evolved some unique miRNA-target regulatory mechanisms in response to Cd stress. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc0bd57710db99e8d3da27af93cba37ac85f5aa1e072fb275705107e5a39d8cc.jpg",
+        "img_caption": [
+            "Figure5xpressoelaotageshtftCdrearatos.）rb)t miR172d-3p_R+1;(c) PC-3P-3461203-2;(d)mtr-miR164a_1ss17GA; (e) cme-miR858_L- $1 \\mathsf { R } + 1$ ；(f) bra-miR2111a-5p; (g) bra-miR162-3p_1ss8AG;(h) cpamiR167dR-(36;4;(5;()rsdat miRNAsand accordingly the target abundance,respectively,based on the RT-qPCR results. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f859b79c5bacead4c9b5a8346baee0a517a62500e9e7bd8eadb5c48d126c662c.jpg",
+        "img_caption": [
+            "Figure 6 The coexpression subnetwork of ARF4 and AAP3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It was revealed that two hub genes,ARF4 and AAP3,might play central roles in the regulation of Cd-responsive genes by a coexpression regulatorynetwork construction.Aminoacid transport is highly regulated by environmental signals,such as light,cold，high salt and drought，and mechanical signals (Liu and Bush,2oo6).In Populus, the expression levels of most AAP genes were down-regulated by salt stress (Wu et al.，2015). Additionally， three amino acid transporters showed downregulated expression patterns in S.nigrum roots with a Cd treatment (Xu et al.，2012). Similarly，our investigation indicated that the expression of AAP3 in S.alfredii exhibited a down-regulated pattern under Cd stress (Figure 5i).Furthermore,many ARF transcription factors,as critical components of auxinsignalling，play importantrolesinregulatingvarious abiotic stressors (Jain and Khurana,20o9;Wang et al.，2010). The expression levels of numerous ARF genes change when plants respond to abiotic stresses in soya bean (Ha et al., 2013),Sorghum bicolor (Sekhwal et al.，2015)andbanana (Hu et al.，2o15).In this study，we found that the expression of ARF4 was up-regulated by Cd stress (Figure 5j).Thus，AAP3 and ARF4 are potentially relevant to Cd responses in S.alfredi. In conclusion,our study reported an integrated analysis of the transcriptomics,sRNAs and degradome to generate a comprehensive resource focused on identifying key regulatory miRNAtarget circuits under Cd stress.A total of 87 721 unigenes and 356 miRNAs were identified,and 79 miRNAs were significantly differentially expressed and identified as Cd-responsive miRNAs. The target genes for Cd-responsive miRNAs functioned in signal transduction，response to heavy metal stress and secondary metabolite pathways.Furthermore，45 differentially expressed targets were screened from 40 differentially expressed miRNAs using an integrated analysis of miRNA-target expression profiles. Ninety-one coexpressed genes formed a coregulation subnetWork in which two hub targets,ARF4 and AAP3,might play a central role in controlling the transcriptomic regulationin response to Cd.These results will facilitate a comprehensive understanding of Cd hyperaccumulation in S.alfredii,and help elucidate miRNA-mediated molecular mechanisms underlying plant responses to Cd stress and provide insights into Cd phytoremediation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plant materials and Cd stress treatment ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hyperaccumulating S.alfredii plants were originally collected from a disused zinc/lead mining area in Quzhou City, Zhejiang Province，P.R. China， and then grown inan artificial climate chamber under control conditions $( 2 5 - 2 8 ^ { \\circ } \\mathsf C ,$ $1 6 \\mathrm { ~ h ~ }$ photoperiod). After 2O days in water culture， plantswith similar growth status were treated with $4 0 0 ~ \\mu \\nu \\mathsf { C d } \\mathsf { C l } _ { 2 }$ .Their roots，stems and leaves were sampled at $0 \\mathrm { ~ h ~ }$ (S1), $0 . 5 { \\mathrm { ~ h ~ } }$ (S2), 6 h (S3), $1 2 \\mathrm { ~ h ~ }$ (S4), $2 4 \\ h$ (S5), $4 8 \\mathrm { ~ h ~ }$ (S6), $7 2 \\mathrm { ~ h ~ }$ (S7)and $9 6 ~ \\mathsf { h }$ (S8),respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "All of the samples were frozen in liquid nitrogen immediately, and stored at $- 8 0 ^ { \\circ } \\mathsf C$ .Total RNA was extracted using the Total RNA Purification Kit(NORGEN，Thorold，Canada)．All RNA samples were treated with DNase I(TaKaRa,Dalian,China) to avoid genomic DNA contamination.RNA quality and purity were checked using denaturing $1 . 0 \\%$ （20 $( \\mathsf { p } / \\mathsf { v } )$ agarose gel electrophoresis and a NanoDrop 2oo0 spectrophotometer (Thermo,Wilmington, DE)at $2 6 0 / 2 8 0 ~ \\mathsf { n m }$ (ratio $> 2 . 0 )$ ．The total mixed RNA samples，consisting of roots，stems and leaves，treated with $4 0 0 ~ \\mu \\mathsf { M } \\mathsf { C } \\mathsf { d } { \\mathsf { C } } | _ { 2 }$ for eight different durations,were prepared for de novotranscriptomeanddegradomesequencing.Then, equal parts of RNA roots,stem and leaf samples for the same time point were mixed together for sRNA sequencing and DEG analysis. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transcriptome sequencing and de novo assembly analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The sequencing library for transcriptome analysis was prepared according to Illumina's kit.mRNA with Poly (A) was purified from the total RNA， using oligo(dT) magnetic beads，and then fragmented with an RNA fragmentation kit.First-strand cDNA wassynthesized using six randomhexamer primers anda template ofshort fragments. Second-strand cDNA was synthesized using the buffer，dNTPs，RNase H and DNA polymeraseland then ligated to sequencing adapters.Following the isolation of suitable cDNA fragments by gel electrophoresis analysis,and PCR enrichment,the final products were loaded onto an Illumina HiSeqM 2ooo platform for transcriptome sequencing.Total readswere trimmed of low-qualityand adapter sequences using the Ilumina Pipeline,and then the remaining high-quality reads were assembled into nonredundant unigenes using Trinity (http://trinityrnaseq.github.io/).Unigenes were tentatively identified based on the best hits against known sequences in the database. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "sRNA sequencing and miRNAs identification ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Equal amounts of RNA samples from roots,stems and leaves at each of the eight different Cd treatment durations were pooled to generate eightsRNA libraries.The raw RNA reads generated by NGS from the eight sRNA libraries were processed to remove $5 ^ { \\prime }$ and $3 ^ { \\prime }$ adapters,and contaminated and low-quality sequences,as well as those smaller than 18 nt,through Illumina's Genome Analyzer Pipeline V1.5.Then,the filtered readswere subjected to a further filtration step，to remove the common RNA families (rRNA，tRNA and snRNA)with a proprietary pipeline script ACGT101-miR v4.2 (LC Sciences，Houston，TX)．Then， the remaining clean and unique reads were aligned against the latest miRBase database,version 20.0 (http://www.mirbase.org/),using the BLAST algorithm to identify known miRNAs.The stem-loop hairpin structures were aligned to sequencing reads and mature miRNAs from miRBase using Bowtie (Langmead et al.，2009). Four groups of miRNAs were revealed through bioinformatics analysis of sRNA sequencing based on the classification method (Ambady et al.，2012).The reads distribution was checked to meet the principles for miRNA prediction and authentic miRNAs were regardedasdescribed previously (Tarveretal.,2o12;Taylor et al.,2o14).All of the sequencing data set, including transcriptome sequencing and sRNA sequencing results,were deposited into the NCBl SRA database under accession number SRPO58333. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Degradome sequencing, target identification and analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Equal amounts of all 24 RNA samples were mixed together to generate one degradome library.Then，the eight sRNA mixed samples and one degradome mixed sample were sent to Hangzhou LC-Bio Co.，Ltd (Hangzhou,China) for cDNA library construction and Illumina Genome Analyzer GA-I Sequencing (Ilumina，San Diego，CA)．The extracted sequencing reads generated by degradome sequencing having 2O and 21 nucleotideswere used to identify potentially cleaved targets by the CleaveL and 3.0 pipeline.Then，the degradome readswere mapped to the hyperaccumulatingS.a/fredii transcriptome data. The targets selected were categorized as O,1,2,3 and 4 as in a previous study (Xu et al.，2013;Yang et al.，2013).Based on the signatures (and abundances)along the hyperaccumulating ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "S.alfredii transcriptome data，t-plots were built for the highefficiency analysis of the potential miRNA targets.Finally,all of the identified potential target genes were subjected to an NCBl search using the BLASTX algorithm and a GO analysis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Differentially expressed target gene analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To discover the expression profiles of the target genes,eight independent libraries were constructed from each of the RNA samples from eight different Cd treatment durations.For each library,all of the sequences were processed to filter out adaptor sequences and low-quality sequences.Then,allof the clean tags were mapped to the assembled unigenes of the hyperaccumulating S.alfredii for annotation.The reads per kb per million reads method was used to calculate the gene expression level. Then,a rigorous algorithm method was performed to identify the differentially expressed genes between two samples.The false discovery rate method was used to determine the $P .$ -value threshold in multiple tests and analyses.The significantly differentially expressed genesamongall of the different sampleswere judged by the threshold as follows: $P .$ -value $< 0 . 0 0 5$ ，false discovery rate ${ \\tt \\leq } 0 . 0 0 1 \\$ and the absolute value of log2 ratio $\\geq 1$ The heatmap of the differentially expressed miRNAs and their corresponding targets was constructed using the ggplot2 package in R (version 3.1.3). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "RT-qPCR validation ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To validate the high-throughput sequencing results,RT-qPCR on miRNAs and their targets was performed on a 73oO Real-Time PCR System (Bio-Rad,Hercules,CA).We chose 12 miRNA-target pairs，including 12 differentially expressed miRNAs and 20 targets，for the RT-qPCR analysis.The RNA samples used for RT-qPCR were the same as for the experiments mentioned above.The reverse transcription reactions for miRNAsand cDNA were carried out using the $\\mathsf { S Y B R } ^ { \\circledast }$ PrimeScriptTM miRNA RT-PCR Kit (TaKaRa，Dalian，China)and the Superscript Ill First-Strand Synthesis system followed by RNase H treatment (Invitrogen, Carlsbad,CA),respectively.The specific miRNA forward primers weredesigned based on the sequences ofthe respective miRNAs,and the primers for the target genes were designed usingtheonlinePrimer3program(http://frodo.wi.mit.edu/ primer3/).Beta-tubulin (TUB) was selected asa reference gene (Sang et al.,2o13).The gene names,sequences and the primers used for RT-qPCR analysis are available in File S1.RT-qPCR reactions for miRNAs and their targets were performed in 96- well plates using a $\\mathsf { S Y B R } ^ { \\textregistered }$ Premix Ex TaqTM Kit (TaKaRa,Dalian, China）and $\\mathsf { S Y B R } ^ { \\circledast }$ PrimeScriptTM miRNA RT-PCR Kit (TaKaRa, Dalian，China).The amplification procedure and further data analysis were performed according to a previous study (Han et al.，2012). Each PCR reaction was repeated three times independently. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Coexpression network construction ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Construction of the network was performed using WGCNA to identify modules of highly correlated genes based on the DEG data (Langfelder and Horvath,2oo8; Zhang and Horvath,2005). Expression values with more than four zeros for each gene were selected and log2 transformed before being processed through the WGCNA package (version 1.46)in R (version 3.1.3).An extensive overview of WGCNA explaining the analysis steps can be found on the webpage: http://labs.genetics.ucla.edu/horvath/ CoexpressionNetwork/Rpackages/WGCNA/Tutorials/index.html (Langfelder and Horvath，2Oo8)．For quality control,we performed a clustering and principal components analysis based on the gene expression levels of the DGE data. The correlation networks were produced using the WGCNA package with the default power of six (Venables etal.，2012).All of the other parameters were used with the default values. Eigengenes were calculated for each gene coexpression module to visualize the geneexpression patterns.The coexpressed genes with strong interconnection were defined as hub genes.Subsequently，we selected the differentially expressed target genes from the hub genes to analyse their edges.Results of coexpression analysis were visualized in Cytoscape (version3.2.1) as described by Saito et al. (2012). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by National High Technology Research and Development Program of China No.2013AA102701-3, National Nonprofit Institute Research Grant of CAF(No. TGB2013oo8) and National Natural Science Foundation of China No.31200465. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Addo-Quaye,C.,Miller,W.and Axtell,M.J. (2oo9) CleaveLand: a pipeline for using degradome data to find cleaved small RNA targets. Bioinformatics 25, 130-131.   \nAmbady,S.,Wu, Z.and Dominko,T.(2012) Identification of novel microRNAs in Xenopus laevis metaphase I arrested eggs. Genesis,50,286-299.   \nArasimowicz-Jelonek，M.，Floryszak-Wieczorek，J.，Deckert，J.，RucinskaSobkowiak，R.，Gzyl,J.，Pawlak-Sprada,S.，Abramowski,D.et al. (2012) Nitric oxide implication in cadmium-induced programmed cell death in roots and signaling response of yellow lupine plants.Plant Physiol. Biochem.58, 124-134.   \nBoominathan,R.and Doran, P.M. (2oo3) Cadmium tolerance and antioxidative defensesinhairy roots ofthecadmium hyperaccumulator， Thlaspi caerulescens.Biotechnol. Bioeng.83,158-167.   \nBrodersen，P.，Sakvarelidze-Achard，L.，Bruun-Rasmussen，M.，Dunoyer，P., Yamamoto，Y.Y.，Sieburth，L.and Voinnet，O．(20o8)Widespread translational inhibition by plant miRNAs and siRNAs.Science,320,1185- 1190.   \nBurklew,C.E.，Ashlock,J.，Winfrey，W.B．and Zhang，B.(2012)Effects of aluminum oxide nanoparticles on the growth,development,and microRNA expression of tobacco (Nicotiana tabacum).PLoS ONE,7,e34783.   \nCao,S.,Zhu,Q.H.,Shen,W.,Jiao,X., Zhao,X.,Wang,M.B.,Liu,L.et al.(2013) Comparative profiling of miRNA expression in developing seeds of high linoleic and high oleic safflower (Carthamus tinctorius L.) plants.Front.Plant Sci. 4, 489.   \nContreras-Porcia,L.，Dennett，G.，Gonzalez，A.，Vergara，E.，Medina，C., Correa，J.A.and Moenne，A.(2011） Identification of copper-induced genes in the marine alga Ulva compressa (Chlorophyta).Mar. Biotech.13, 544-556.   \nDing，Y.，Chen，Z.and Zhu，C.(2011） Microarray-based analysisof cadmium-responsive microRNAs in rice (Oryza sativa).J. Exp.Bot.，62, 3563-3573.   \nFang,X.,Zhao,Y.，Ma,Q.,Huang,Y.，Wang,P.,Zhang,J.，Nian,H.et al. (2013） Identification and comparative analysis of cadmium toleranceassociated miRNAs and their targets in two soybean genotypes. PLoS ONE, 8, e81471.   \nGadjev,I.,Stone,J.M.and Gechev,T.S.(2oo8) Programmed cell death in plants: new insights into redox regulation and the role of hydrogen peroxide.Int. Rev. cel. Mol. Biol.270,87-144.   \nGao，J.，Sun,L.，Yang,X.and Liu,J.X.(2013)Transcriptomic analysis of cadmium stress response in the heavy metal hyperaccumulator Sedum alfredii Hance.PLoS ONE,8,e64643.   \nGielen,H., Remans,T.,Vangronsveld,J.and Cuypers,A. (2012) MicroRNAs in metal stress: specific roles or secondary responses? Int. J.Mol.Sci.13, 15826-15847.   \nGill,S.S.and Tuteja，N.(2010) Reactive oxygen species and antioxidant machinery in abiotic stress tolerance in crop plants.Plant Physiol. Biochem. 48,909-930.   \nGupta,O., Sharma,P.,Gupta,R.and Sharma,I.(2014) MicroRNA mediated regulation of metal toxicity in plants: present status and future perspectives. Plant Mol. Biol.84,1-18.   \nHa,C.V.，Le,D.T.，Nishiyama,R.，Watanabe，Y.，Sulieman,S.，Tran,U.T., Mochida,K.et al. (2o13)The auxin response factor transcription factor family insoybean:genome-wide identification and expressionanalyses during development and water stress. DNA Res.20,511-524.   \nHan,X.,He,G.,Zhao,S.,Guo,C.and Lu,M. (2012)Expression analysis of two NAC transcription factors PtNAC068 and PtNAC154 from poplar. Plant Mol. Biol. Rep.30,370-378.   \nHe,Q.,Zhu,S.and Zhang,B.(2014) MicroRNA-target gene responses to leadinduced stress in cotton (Gossypium hirsutum L.).Funct. Integr. Genomics, 14, 507-515.   \nHsieh,L.C.,Lin，S.，Shih，A.C.C.，Chen,J.W.，Lin,W.Y.，Tseng，C.Y.Li W.H.et al.(2o09) Uncoveringsmall RNA-mediated responsesto phosphate deficiency in Arabidopsis by deep sequencing.Plant Physiol. 151, 2120-2132.   \nHu,W., Zuo,J., Hou,X.,Yan,Y.,Wei,Y.,Liu,J.,Li,M.et al. (2o15) The auxin response factor gene family in banana: genome-wide identification and expression analyses during development,ripening,and abiotic stress.Front. Plant Sci. 6, 742.   \nHuang,S.Q.,Peng,J.,Qiu, C.X.and Yang,Z.M. (2009) Heavy metal-regulated new microRNAs from rice.J.Inorg.Biochem.103,282-287.   \nJain,M.and Khurana,J.P.(2O09)Transcript profing reveals diverse roles of auxin-responsive genes during reproductive development and abiotic stress in rice.FEBS J.276,3148-3162.   \nJärup,L.(2O03) Hazards of heavy metal contamination.Brit. Med.Bull 68, 167-182.   \nJaspers,P.and Kangasjarvi,J. (2010) Reactive oxygen species in abiotic stress signaling.Physiol. Plant 138,405-413.   \nJomova,K.and Valko,M.(2011) Advances in metal-induced oxidative stress and human disease. Toxicology 283, 65-87.   \nKrishnamurthy,A.and Rathinasabapathi, B.(2013) Oxidative stress tolerance in plants: Novel interplay between auxin and reactive oxygen species signaling Plant Signal. Behav.8,e25761.   \nLangfelder,P.and Horvath,S.(2008)WGCNA: an R package for weighted correlation network analysis.BMC Bioinformatics 9,559.   \nLangmead,B.,，Trapnell,C.，Pop,M.and Salzberg,S.L. (20o9) Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biol.10, R25.   \nLin,Y.F.and Aarts,M.G.(2012)The molecular mechanism of zinc and cadmium stress response in plants. Cell. Mol.Life Sci.69,3187-3206.   \nLiu,X.and Bush,D.R.(2006) Expression and transcriptional regulation of amino acid transporters in plants.Amino Acids 30,113-120.   \nLiu,Q.and Zhang,H. (2012) Molecular identification and analysis of arsenite stress-responsive miRNAs in rice.J.Agr. Food Chem.60,6524-6536.   \nLiu,F.,Wang,W,Sun,X.,Liang,Z.and Wang,F.(2015) Conserved and novel heat stress-responsive microRNAs were identified by deep sequencing in Saccharina japonica (Laminariales，Phaeophyta).Plant，Cell Environ.，38, 1357-1367.   \nLombi,E.,Zhao,F.,Dunham,S.and McGrath,S.(2001) Phytoremediation of heavy metal-contaminated soils.J. Environ. Qual.30,1919-1926.   \nMorozova，O．and Marra，M.A.(2oo8)Applications of next-generation sequencing technologies in functional genomics. Genomics,92,255-264.   \nMutz,K.O.，Heilkenbrinker,A.,Lonne,M.,Walter,J.G.and Stahl,F.(2013) Transcriptome analysisusing next-generation sequencing. Curr.Opin. Biotech.24,22-30.   \nNaika,M.,Shameer,K.,Mathew, O.K.,Gowda,R.and Sowdhamini,R.(2013) STIFDB2:an updated version of plant stress-responsive transcription factor database with additional stress signals,stress-responsive transcription factor binding sitesand stress-responsive genes in Arabidopsisand rice.Plant Cell Phvcinl 54 p8   \nNiu,S.,Fan,G.,Xu,E., Deng,M.,Zhao,Z.and Dong, Y.(2014) Transcriptome/ degradome-wide discovery of microRNAs and transcript targets in two Paulownia australis genotypes.PLoS ONE,9,e106736.   \nOzhuner,E.,Eldem,V.,Ipek,A.,Okay,S.,Sakcali,S.,Zhang,B.,Boke,H.etal. (2013) Boron stress responsive microRNAs and their targets in barley. PLoS ONE,8, e59543.   \nPei,H.，Ma,N.,Chen,J.,Zheng,Y.，Tian,J.,Li,J.，Zhang,S.et al. (2013) Integrative analysis of miRNA and mRNA profiles in response to ethylene in rose petals during flower opening. PLoS ONE,8,e64290.   \nPerea-Garcia，A.，Andrés-Colas，N.and Penarrubia，L.(2010）Copper homeostasis influences the circadian clock in Arabidopsis.Plant Signal. Behav. 5,1237-1240.   \nPetrov,V., Hille,J.,Mueller-Roeber, B.and Gechev,T.S.(2015) ROS-mediated abiotic stress-induced programmed celldeath in plants.Front.Plant Sci.6, Article 69. Qin，Z.，Chen，J.，Jin,L.，Duns，G.J.and Ouyang，P.(2015） Differential expression of miRNAs under salt stress in Spartina alterniflora leaf tissues.J. Nanosci. Nanotechno.15,1554-1561.   \nSaito,R., Smoot, M.E.,Ono,K.,Ruscheinski,J.,Wang,P.L.,Lotia,S.,Pico,A.R. et al.(2012)A travel guide to Cytoscape plugins.Nat. Methods 9,1069-1076.   \nSang,J., Han,X., Liu,M., Qiao,G., Jiang,J.and Zhuo,R.(2013) Selection and validationofreferencegenesforreal-timequantitativePCRin hyperaccumulating ecotype of Sedum alfredi under different heavy metals Stresses.PLoS ONE,8,e82927.   \nSchmitt,G.(2oo9) Global needs for knowledge dissemination,research,and development in materials deterioration and corrosion control.New York: World Corrosion Organization.   \nSekhwal,M.K.,Swami,A.K., Sharma,V.and Sarin,R.(2015) Identification of drought-induced transcription factors in Sorghum bicolor using GO term semantic similarity. Cell. Mol. Biol.Lett.20,1-23.   \nSeth,C.S., Chaturvedi,P.K.and Misra,V. (2Oo8)The role of phytochelatins and antioxidants in tolerance to Cd accumulation in Brassica juncea L.Ecotox. Environ. Safe.71,76-85.   \nSong, Q.X., Liu, Y.F., Hu,X.Y., Zhang,W.K., Ma,B.,Chen,S.Y.and Zhang,J.S. (2011)Identification of miRNAsand their target genes in developing soybean Seeds by deep sequencing.BMC Plant Biol. 11,5.   \nSrivastava，S.，Srivastava，A.K.，Suprasanna，P.and D'Souza，S.(2013) Identification and profiling of arsenic stress-induced microRNAs in Brassica juncea.J.Exp.Bot.64,303-315.   \nSupek,F.,Bosnjak,M.,Sjak,M.and Boea,T. (2011) REVIGO summarizes and visualizes long lists of gene ontology terms.PLoS ONE,6,e21800.   \nSzittya,G.,Moxon,S.,Santos,D.M.,Jing,R.,Fevereiro,M.P.,Moulton,V.and Dalmay,T. (2oo8) High-throughput sequencing of Medicago truncatula short RNAs identifies eight new miRNA families. BMC Genom.9,593.   \nTang,M.，Mao,D.,Xu,L.,Li,D.,Song,S.and Chen,C.(2014) Integrated analysis of miRNA and mRNA expression profiles in response to Cd exposure in rice seedlings. BMC Genom.15,835.   \nTarver,J.E.，Philip，C.J.D.and Kevin，J.P.(2012)Do miRNAs have a deep evolutionary history? BioEssays 34,857-866.   \nTaylor,R.S.,Tarver,J.E., Hiscock,S.J.and Donoghue,P.C.(2014)Evolutionary history of plant microRNAs.Trends Plant Sci.19,175-182.   \nValko，M.，Morrs,H.and Cronin，M.(2005)Metals，toxicity and oxidative stress. Curr. Med. Chem.12,1161-1208.   \nVarotto，L.，Domenegheti，S.，Rosani，U.，Manfrin，C.，Cajaraville，M.P., Raccaneli,S.，Pallavicini,A.et al. (2013) DNA damage and transcriptional changes in the gillsof Mytilus galloprovincialis exposed to nanomolar doses of combined metal salts (Cd, Cu, Hg). PLoS ONE,8,e54602.   \nVenables，W.N.，Smith，D.M.and Team，R.C.(2012）R:A language and environment for statistical computing.Vienna，Austria:R foundation for statistical computing. ISBN 3-900051-07-0.   \nVerbruggen,N., Hermans,C.and Schat, H.(2009) Mechanisms to cope with arsenic or cadmium excess in plants. Curr. Opin. Plant Biol.12,364-372.   \nWang,S.,Bai,Y.,Shen,C.,Wu,Y., Zhang,S., Jiang,D.,Guilfoyle,T.J.et al. (2010)Auxin-related gene families in abiotic stress response in Sorghum bicolor. Funct. Integr. Genomics,10,533-546.   \nWang,Y., Liu,W.,Shen,H.,Zhu,X.,Zhai,L.,Xu,L.,Wang,R.et al.(2015) Identification of radish (Raphanus sativus L.) miRNAs and their target genes to exnlnre miRNA-mediated reailatorv networks in lead (Ph) stress resnnnses hv high-throughput sequencing and degradome analysis. Plant Mol. Biol. Rep. 33,358-376.   \nWangeline,A.L., Burkhead,J.L.,Hale,K.L.,Lindblom,S.D., Terry, N., Pilon,M. and Pilon-Smits，E.A.(2oo4) Overexpression of ATP sulfurylase in indian mustard.J.Environ.Qual.33,54-60.   \nWu,M.,Wu,S.,Chen,Z.,Dong,Q.,Yan,H.and Xiang,Y. (2015) Genomewide survey and expression analysis of the amino acid transporter gene family in poplar. Tree Genet. Genomes 11,83.   \nXie,F.L., Huang, S.Q.,Guo,K., Xiang,A.L., Zhu, Y.Y.,Nie,L.and Yang, Z.M. (2007）Computational identification of novel microRNAs and targets in Brassica napus.FEBS Lett. 581,1464-1474.   \nXu,J.,Sun,J., Du,L.and Liu,X.(2012) Comparative transcriptome analysis of cadmium responses in Solanum nigrumand Solanum torvum.New Phytol. 196,110-124.   \nXu,X.,Yin,L.,Ying,Q.,Song,H.,Xue,D., Lai,T.,Xu,M.et al. (2013) Highthroughput sequencing and degradome analysis identify miRNAs and their targets involved in fruit senescence of Fragaria ananassa.PLoS ONE，8, e70959.   \nYang,Z. (2013)A potential role of microRNAs in plant response to metal toxicity.Metallomics 5,1184-1190.   \nYang,X., Long,X.and Ni,W.(2oo2) Sedum alfredii Hance-a new ecotype of Zn-hyperaccumulator plant species native to China. Chin. Sci. Bull.47,1003- 1006.   \nYang，X.，Li，T.，Yang，J.，He，Z.，Lu，L．and Meng，F.(2O06）Zinc compartmentation in root, transport into xylem,and absorption into leaf cells in the hyperaccumulating species of Sedum alfredii Hance.Planta 224, 185-195.   \nYang,X.,Wang,L.,Yuan,D., Lindsey, K.and Zhang,X. (2013) Small RNA and degradome sequencing reveal complex miRNA regulation during cotton somatic embryogenesis.J.Exp. Bot.64,1521-1536.   \nZeng,Q.Y.,Yang,C.Y.,Ma,Q.B.,Li,X.P.,Dong,W.W.and Nian,H. (2012) Identification of wild soybean miRNAs and their target genes responsive to aluminum stress. BMC Plant Biol.12,182.   \nZhang,B.and Horvath,S. (2oo5)A general framework for weighted gene coexpression network analysis. Stat. Appl. Genet. Mol.,4,Article 17. Zhang, J.Z.,Ai,X.Y.,Guo,W.W.,Peng,S.A., Deng,X.X.and Hu, C.G.(2012) Identification of miRNAs and their target genes using deep sequencing and degradome analysis in trifoliate orange [Poncirus trifoliate (L.）Raf].Mol. Biotechnol. 51,44-57.   \nZhang,Y.,Zhu,X.,Chen,X.,Song,C.,Zou,Z.,Wang,Y.,Wang,M.et al. (2014) Identification and characterization of cold-responsive microRNAs in teaplant (Camellia sinensis) and their targets using high-throughput sequencing and degradome analysis.BMC Plant Biol.14,271.   \nZhao,C.Z.,Xia,H.,Frazier,T.P.,Yao,Y.Y,Bi,Y.P.,Li,A.Q.,Li,M.J.et al. (2010) Deepsequencing identifies novel and conserved microRNAs in peanuts (Arachis hypogaea L.).BMC Plant Biol.10,3.   \nZhou,Z.S., Huang, S.Q.and Yang,Z.M. (2oo8) Bioinformatic identification and expression analysis of new microRNAs from Medicago truncatula.Biochem. Bioph.Res. Co.374,538-542.   \nZhou,Z.S., Song, J.B.and Yang,Z.M.(2012a) Genome-wide identification of Brassica napus microRNAs and their targets in response to cadmium.J. Exp. Bot.63,4597-4613.   \nZhou,Z.S.，Zeng，H.Q.，Liu,Z.P．and Yang,Z.M. (2012b)Genome-wide identification ofMedicago truncatula microRNAs and their targets reveals their differential regulationby heavy metal.Plant,Cell Environ. 35,86-99. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of thisarticle: ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Length distributions of the unique sRNAs.   \nFigure S2 Numbers of identified miRNAs in known miRNA families in Sedum alfredii.Graphical representation of the different members of conserved miRNA families by sequencing andbioinformatics prediction．‘Other'represents 34 of the known miRNA families containing only one member.   \nFigure S3 Five categories based on target cleavage positions. Figure S4 WGCNA coexpression modules based on DEG data. Table S1 Overview of sRNA sequencing.   \nTable S2 The list of miRNAs identified through the bioinformatics pipeline.   \nTable S3 Length distribution of unique miRNA.   \nTable S4 Profiles of novel miRNAs originating from predicted RNA hairpins.   \nTable S5 miRNA genes supported by miRBase and reads coverage.   \nTable S6 The predicted targets of known and novel miRNAs. Table S7 A complete list of ARF4 and AAP3 module assignments. Table s8 The edge genes annotated in the coexpression subnetwork of ARF4 and AAP3.   \nFile S1 miRNA and their targets names, sequences and primers for RT-qPCR. ",
+        "page_idx": 13
+    }
+]

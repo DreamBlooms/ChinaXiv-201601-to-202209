@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201510152078 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱纪元,李景科,高梅香,胡媛媛,张雪萍.帽儿山红松人工林鞘翅目成虫群落小尺度空间异质性变化特征.生态学报,2017,37(6)：1975-1986.ZhuJYiJlealeplantation on Maoer Mountain.Acta Ecologica Sinica,2017,37(6):1975-1986.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "帽儿山红松人工林鞘翅自成虫群落小尺度空间异质性变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱纪元1,²，李景科1,²，高梅香1,2,\\*，胡媛媛1,²，张雪萍 1，2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1哈尔滨师范大学地理科学学院，哈尔滨150025  \n2 黑龙江省普通高等学校地理环境遥感监测重点实验室，哈尔滨150025",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：空间异质性是群落空间格局形成的基础,也是物种共存的重要前提。基于地统计空间分析方法，研究 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 空间尺度上帽儿山红松人工林鞘翅目成虫群落及物种的空间自相关性及异质性分布格局。结果显示;5次调查共捕获鞘翅目成虫 10科、42 种、2721只个体,群落组成具有中等或较强的空间变异性和明显的时间变异性;Moran's $I$ 系数表明群落及部分物种具有显著的空间自相关性,各调查月份接近甚至超过一半的物种不存在空间自相关性;群落及部分物种表现为异质性特征并在特定空间尺度内形成集群，且这种空间分异多由结构性因素或结构性因素和随机性因素共同调控;物种之间表现为具有复杂正的或负的空间作用关系,这种空间关联性的形成主要是结构性因素或随机性因素单一调控的结果，但简单Mantel检验并未发现物种之间存在显著的空间关联性;群落的空间格局梯度分布特征较明显,随着季节的变化(夏天到秋天)聚集物种数量的斑块复杂程度降低。本文旨在揭示鞘翅目成虫空间异质性的变化特征,为鞘翅目成虫群落物种构建机制研究奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：鞘翅目成虫;空间异质性;空间关联性；动态变化；小尺度；红松人工林;帽儿山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatially heterogeneous dynamics of adult Coleoptera communities at a small scale in a Pinus koraiensis plantation on Maoer Mountain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHU Jiyuan1,2,LI Jingke12,GAO Meixiang1,2,\\*,HU Yuanyuan1,2, ZHANG Xueping ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College of Geographical Sciences，Harbin Normal University,Harbin 150025,China   \n2KeyLaboratofesingongofnfaontlfrocrbolUit Harbin150025，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Spatial heterogeneityisthebasisofspatialpaternforacommunity，aswellas thecoexistenceofacommunity. Manystudies haveuncoveredthespatial heterogeneities of communities atrelativelylargescales，but itremains unclearat small scales，especiallforartificialecosystems.Todeterminethespatialheterogeneitydynamicsofacommunityatasmall scale，astudywas conducted toinvestigateadult ColeopteracommunityinaPinus horaiensis plantationatthe Maoershan Ecosystem Research Station.The study site comprised a permanent plot was of $2 0 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ and was divided equally into 100 squares.Pitfalltraps were usedtocollcttheadult Coleoptera.In2013and2O14,100trapsweresetat thebottom-right corner of the 1OO squares，with traps in 2O13 containing $4 \\%$ formalin solution，and traps in 2O14 containing saturated salt solution.This study wasconducted in June,Julyand Septemberin2O13andin August andOctoberin2O14.Global Moran' s $I$ index was used toexplainthespatial autocorrelationoftheabundanceofColeopteracommunityand species.Spatial semivariogram wasselected toreveal the spatial heterogeneityof theabundanceof Coleoptera communityand species.A combinationofacross-variogramandasimple Manteltest wasperformedtoidentifythespatial relationshipsbetween diffrent species.Ordinary kriging method wasused tomapthe spatial heterogeneityof the abundancesof Coleoptera communityand species.Intotal，2721 individualsbelonging to10familiesand42 specieswerecolected.Community composition showed significant spatial and temporal variabilityatdiferent times.In2Ol3，significantdiferences ( ${ \\cdot } P { < } 0 . 0 1$ ） in abundances among June，July，and September were observed.And significant diferences ( $_ { p } < 0 . 0 1 \\$ ）inabundances between August and October were detected in 2O14.The results of Moran's $I$ coefficient showed that abundances of adult Coleopteracommunities，andarelatively small partof Coleopteraspeciesineach season，had significantly spatial autocorrelations.The abundance of adult Coleoptera communities and someof the Coleoptera species in each season,showed spatial heterogeneouspattrns，andthosecommunitiesand species formed spatialaggregationsatcertainspatial scales. According to the values of $( \\ C _ { _ 0 } / ( \\ C _ { _ 0 } + C ) \\ _ { . }$ ），those spatial heterogeneities mainly were controlled by structured factors or combination of structuredand random factors.The structure proportions of some species showed pure nugget efectresulting from sampling errors or spatial variability occurring within the minimum distance interval ( $2 \\mathrm { ~ m ~ }$ ).For each community，the resultsofcross-variograme showed that thecomplex spatialrelationshipsamong diferentadult Coleoptera speciesexistedat different spatio-temporal scales and were positive，negative or random spatial relationships.The values of $\\ d ( C _ { 0 } / ( \\ d C _ { 0 } + C ) \\ d C )$ （20 demonstratedthat thespatial diferentiationsof adult Coleopteraspecieswere mainlycontrolledbystructured factorsor random factors.However，significant spatial relationships betwen Coleoptera species were observed throughtheresults of a simple Mantel test.Themapsofordinary kriging interpolationshowed that thespatial paterns ofcommunities with gradient distributionwereobviouslydifferentindiferentseasons，andthestrengthof gradientdistribution weakenedfromsummerto autumn foreach community.Thisstudy indicated thatadult Coleoptera communitieswere obviouslyaggregatedspatial distribution at a small scale( $2 0 ~ \\mathrm { ~ m ~ }$ ).Spatial relationships between different species were complex，and the spatial relationshipswereseasonallyvariation.Theresultsof thisstudywillhelpus tounderstandthetemporalandspatialvariation mechanism of adult Coleoptera communities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：adult Coleoptera；spatial heterogeneity；spatial relationship；dynamicsvariability；small scale；Pinus koraiensis plantation；Maoer Mountain ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空间异质性是生态系统属性在空间上的复杂性和变异性[1],土壤动物作为重要的生态系统分解者,在空间尺度上表现为异质性特征[2]。鞘翅目昆虫大多以不同形态在生活史中的一个时期或全部时期生活在土壤中,成为土壤动物的重要组成部分[3],在维持生物多样性和生态系统功能方面具有重要作用[4]。空间格局与生态过程是揭示生物多样性维持机制的重要途径[5],地统计学适于区域化变量空间分布特征的描述,可以将空间格局和生态过程联系起来,有效地解释空间格局对生态过程与功能的影响[6-7],其空间分析方法为揭示土壤生物的异质性分布对土壤生物多样性和土壤生物动态变化的影响[8]提供了新的视角。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在帽儿山地区,谷加存等[9-10]利用地统计方法研究了采伐对天然次生林土壤表层温度及水分空间异质性的影响,林英华等[11]和仲伟彦等[12]对本区土壤动物群落进行了调查和对比研究,而针对本区红松人工林基于地统计方法揭示小尺度鞘翅目成虫空间异质性及分布格局的研究还未见报道。本文旨在揭示鞘翅目成虫空间异质性的变化特征,为多尺度空间抽样提供最优抽样方法[13」,为鞘翅目成虫群落物种构建机制研究奠定基础,以期为维持该区森林生态系统平衡及生物多样性保护提供科学依据和支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于黑龙江省尚志市境内的东北林业大学帽儿山实验林场( $1 2 7 ^ { \\circ } 3 0 ^ { \\prime }$ 127°34'E, $4 5 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N }$ 45°25' N)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该区是松嫩平原向张广才岭过渡的低山丘陵地区,土壤发育为典型的地带性暗棕色森林土。属温带大陆性季风气候,冬季寒冷干燥,夏季湿热多雨,降水主要集中在7、8月份。植被是由地带性顶级植被阔叶红松（Pinuskoraiensis）林经人为干扰后形成的次生林,实验样地设置在林龄约为60a的红松人工林内,平均坡度 $1 2 ^ { \\circ }$ ，西北坡向,平均胸径 $1 2 \\ \\mathrm { c m }$ ,林分密度3145个/ $\\cdot \\mathrm { h m } ^ { 2 }$ ,主要的乔木树种有红松（Pinuskoraiensis）、白桦（Betulaplatyphylla）、水曲柳（Fraxinus mandshurica）、枫桦（B.costata）、山杨（Populus davidiana）和胡桃楸（Juglansmandshurica）,下木层主要由春榆(Ulmus japonica)和山梨(Pyrus ussuriensis)组成[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于2012年在红松人工林内随机设置一个 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 的样地，以 $2 \\mathrm { ~ m ~ }$ 为间隔均分成100个 $2 { \\mathrm { ~ m } } { \\times } 2 { \\mathrm { ~ m } }$ 的单元格,在每个单元格左下角用内径约 $7 \\ \\mathrm { c m }$ 的土钻挖一个大小合适的陷阱,将高 $9 \\ \\mathrm { c m }$ ,内径 $6 . 5 \\ \\mathrm { c m }$ 的诱捕杯置于陷阱捕获样品（每次共计100 个），在杯口上部距地面 $1 0 \\ \\mathrm { c m }$ 处支起1个一次性餐盘,以防止凋落物或穿透雨的进入。2013年6月、7月和9月内置 $4 \\%$ 福尔马林,2014年8月和10月内置饱和NaCl溶液，每次将陷阱置于野外7天7夜。室内采用手捡法分拣鞘翅目昆虫，并将样品置于 $9 5 \\%$ 医用酒精内，参照《中国东北的葬甲科研究》《原色中国东北土壤甲虫图鉴步行虫类》、《原色中国东北土壤甲虫图鉴隐翅虫类拟步甲类》将鞘翅目昆虫鉴定到种[15-17],成虫与幼虫分别计数,仅将成虫用于后续处理分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 鞘翅目成虫描述统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以每个陷阱获取的数据作为一个样本,采用经典统计方法计算鞘翅目成虫个体数的平均值、标准差和变异系数（Coefficientof Variation,CV）,以此来衡量调查月份的平均状况和总变异程度, $\\mathrm { C V } { < } 0 . 1$ 为弱变异,CV在0.1—1.0之间为中等变异, $\\mathrm { C V } { > } 1 . 0$ 为强变异[18],同时对每个陷阱获取的鞘翅目成虫个体数进行正态分布检验,对不符合正态分布的数据进行平方根转换,使其符合或近似符合正态分布,以此作为鞘翅目成虫个体数的数值进行地统计分析。利用单因素方差分析相同诱捕液类型下鞘翅目成虫物种数量和个体数量的差异显著性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 空间自相关性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间自相关是空间依赖的重要形式[19],是同一变量在不同空间位置上的相关性[20],利用 Moran's $I$ 系数度量变量的空间自相关性,反映空间邻接或空间邻近的区域单元的属性值的相似程度,其表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\frac { n \\sum \\sum Z _ { i } Z _ { j } } { \\sum Z _ { i } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $n$ 是每个分离距离内样本位点的数目， $\\overset { \\triangledown } { \\boldsymbol { Z } _ { i } } = \\boldsymbol { X } _ { i } - \\bar { \\boldsymbol { X } }$ ， $\\overset { \\triangledown } { \\boldsymbol { Z } _ { j } } = \\boldsymbol { X } _ { j } - \\bar { \\boldsymbol { X } }$ 。Moran's $I$ 系数使用 $1 0 \\mathrm { ~ m ~ }$ 的活跃滞后距离（研究样地长度的一半),定义第一滞后距离为 $2 \\mathrm { ~ m ~ }$ （取样尺度),滞后间隔为 $1 \\ \\mathrm { m } ^ { [ 2 1 ] }$ 。 $I$ 的取值范围为[-1,1],当 $\\scriptstyle { I = 0 }$ 时代表空间无关， $I { > } 0$ 时为空间正相关， $I { < } 0$ 时为空间负相关[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 半方差函数分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "半方差函数(semivariograms)是区域化变量在分割距离上对样本空间变异的量度[23],是研究尺度依赖性和空间变异的有效方法[24]。其计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma ( h ) = { \\frac { 1 } { 2 N ( h ) } } \\sum _ { i = 1 } ^ { N ( h ) } \\ \\left[ \\left( Z ( X _ { i } ) - Z ( X _ { i } + h ) \\ \\right) \\ \\right] \\ ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\gamma ( h )$ 为变异函数， $N ( h )$ 为距离为 $h$ 时对应的样点对数， $Z ( x _ { i } )$ 和 $Z { \\big ( } x _ { i } + h { \\big ) }$ 分别为区域化变量 $Z$ 在空间位置 $x _ { i }$ 和 $\\mathbf { \\nabla } x _ { i } + h$ 处的观测值。根据模型参数[13]定量描述鞘翅目成虫的空间异质性。块金值 $( C _ { 0 } )$ 代表了由实验误差和小于最小取样尺度引起的随机部分的空间异质性[25]。结构比 $C _ { 0 } / ( C _ { 0 } { + } C )$ 表示空间相关性的程度和结构性因素引起的空间异质性占总变异的比例[26]， $C _ { 0 } / (  { \\mathrm { ~ C ~ } } _ { 0 } + C ) > 0 . 7 5 , 0 . 2 5 - 0 . 7 5 , < 0 . 2 5$ 分别表示变量空间相关性较强(空间变异主要由结构性因素引起）、中等(空间变异由随机性因素和结构性因素共同决定)和很弱（随机部分引起的空间变异起主要作用）。变程（ $( A _ { 0 } )$ )表示区域化变量存在空间自相关特性的平均最大距离[26],是野外研究选样尺度的理论依据[27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4交叉方差函数分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "交叉方差函数(Cross-variogram)用于分析鞘翅目成虫物种之间的相关关系以及相互作用的范围大小[28],其计算公式为[29]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { _ \\mathrm { A B } } ( h ) = { \\frac { 1 } { 2 N ( h ) } } \\sum _ { i = 1 } ^ { N ( h ) } \\left[ Z _ { A } ( x _ { i } ) - Z _ { A } ( x _ { i } + h ) \\right] \\left[ Z _ { B } ( x _ { i } ) - Z _ { B } ( x _ { i } + h ) \\right] ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\gamma _ { A B } ( h )$ 为相距为 $h$ 的变量 $A$ 与变量 $B$ 之间的交叉方差函数值; $N ( h )$ 为相隔距离为 $h$ 的所有点的配对数： $ ; Z _ { A } ( x _ { i } ) { - } Z _ { A } ( x _ { i } { + } h )$ 分别是变量 $A$ 在 $x _ { i }$ 和 $\\left( x _ { i } + h \\right)$ 处的观测值； $Z _ { B } { \\big ( } x _ { i } { \\big ) } - Z _ { B } { \\big ( } x _ { i } { + } h { \\big ) }$ 分别是变量 $B$ 在 $x _ { i }$ 和 $\\left( x _ { i } + h \\right)$ （204处的观测值。利用简单 Mantel检验（Simple Mantel test）进一步检验鞘翅目成虫物种之间空间关系的显著性[2]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 普通克里格空间插值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "普通克里格(Ordinary Kriging)插值是在有限区域内对区域化变量进行的无偏最优估计[16],其估计方差反映了取样本身的变异以及空间内插所用分散样点内在的不确定性[30]。其计算公式是：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ ( x _ { 0 } ) = \\sum _ { i = 1 } ^ { n } \\lambda Z ( x _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $Z ( x _ { 0 } )$ 是在未经观测的点 $x _ { 0 }$ 上的内插估计值, $Z ( x _ { i } )$ 是在点 $x _ { 0 }$ 附近的若干观测点上获得的实测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在Microsoft Excel2010中对原始数据进行基本的分析和预处理。非参数的 $K { - } S$ 正态分布检验与单因素方差分析在 SPSS 21.0中完成。空间自相关性、半方差函数和交叉方差函数分析在软件 $\\mathrm { G S + 9 . 0 }$ 中实现。Mantel检验和普通克里格空间插值分别在R软件中的\"vegan\"软件包和 SURFER 软件中实现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1鞘翅目成虫群落的统计描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5次采样共捕获鞘翅目成虫个体2721只,隶属10科、42种。2013年捕获的物种数量和个体数量,均为6月最多、7月次之、9月最少,2014年则为8月多于10月。2013年各月份物种数量没有显著差异,而个体数量差异显著( $P { < } 0 . 0 1 \\rangle$ ),2014年不论物种数量还是个体数量均为显著差异( $P { < } 0 . 0 1 \\$ )，表明物种数量和个体数量所反映的群落组成具有明显的时间变化特征。2013年各月份和2014年8月鞘翅目成虫群落均为中等变异，2014年10月为强变异(表1),说明在不考虑空间位置和取样尺度的条件下,鞘翅目成虫群落在水平方向上存在异质性现象。 $K { - } S$ 正态分布检验表明,调查月份鞘翅目成虫个体数量均不符合正态分布,通过平方根转换使其符合正态或近似正态分布。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc0d94cac0103e15212d3ffb67c6e20d4aafe8bfe1ad40dfd5c205fc277f80ae.jpg",
+        "table_caption": [
+            "表1调查月份鞘翅目成虫群落的描述性统计",
+            "Table1The statistical characteristic of adult Coleoptera community in different survey months "
+        ],
+        "table_footnote": [
+            "同列相同字母表示差异不显著( $\\scriptstyle P > 0 . 0 5$ )，同列不同字母差异显著( $P { < } 0 . 0 1$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>调查时间 Survey time</td><td>物种数 Species number</td><td>个体数 Individual number</td><td>平均值±标准误 Mean±Standard</td><td>标准差 Standard deviation</td><td>极小值 Minimum</td><td>极大值 Maximum</td><td>变异系数 Coefficient</td></tr><tr><td>2016-06</td><td>33 a</td><td>1178 a</td><td>error 11.78±1.059</td><td>10.592</td><td>0</td><td>37</td><td>of variation 0.899</td></tr><tr><td>2013-07</td><td>27 a</td><td>710 b</td><td>7.10±0.682</td><td>6.825</td><td>0</td><td>25</td><td>0.961</td></tr><tr><td>2013-09</td><td>21 a</td><td>467c</td><td>4.67±0.442</td><td>4.425</td><td>0</td><td>23</td><td>0.947</td></tr><tr><td>2014-08</td><td>23A</td><td>330A</td><td>3.30±0.291</td><td>2.911</td><td>0</td><td>19</td><td>0.882</td></tr><tr><td>2014-10</td><td>7B</td><td>36B</td><td>0.36±0.578</td><td>0.578</td><td>0</td><td>2</td><td>1.605</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2鞘翅目成虫群落及物种的空间自相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据Moran's $I$ 系数说明鞘翅目成虫群落及物种随分割距离的增大而变化的空间自相关性。当 $\\mid I \\mid > 0 . 3$ 时被认为变量具有显著的空间自相关性[31],鞘翅目成虫群落水平具有显著的空间正自相关性( $\\ : ( 0 . 3 0 6 < I <$ 0.473）。利用受距离约束的空间自相关分析结果进一步说明在0— $1 0 \\mathrm { ~ m ~ }$ 的空间尺度上鞘翅目成虫物种的空间自相关性随样点距离的变化关系（表2）,除共有种 Carabus bilergi maoershanensis、2013年6月的 Scepticusgriseus 2013年7月和9月的Aulonocarabus canaliculatu hailiniensis 和2014年8月的Pterostichus chenpengi表现为显著的空间正自相关性外,其他存在空间自相关性的物种仅在某一空间尺度上具有显著的空间自相关性或在整个空间尺度上空间自相关性均不显著,各月份接近甚至超过一半的物种不存在空间自相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/230bcd5dc5a3179f9b411d85090b335c70ec8492c2dc82d5ce4c5f0982ccaefb.jpg",
+        "table_caption": [
+            "表2不同月份鞘翅目成虫物种的Moran'sI系数",
+            "Table 2The Moran's I Coeficient of adult Coleoptera species in different months "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 Time</td><td rowspan=\"2\">物种 Species</td><td colspan=\"9\">分割距离 Separation distance</td></tr><tr><td>2 m</td><td>3m</td><td>4m</td><td>5m</td><td>6m</td><td>7m</td><td>8m</td><td>9m</td><td>10m</td></tr><tr><td>2013-06</td><td>QC01</td><td>0.0421</td><td>0.0000</td><td>0.0263</td><td>0.0283</td><td>0.0725</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td></tr><tr><td></td><td>QC06</td><td>0.4578 *</td><td>0.3703 *</td><td>0.3627 *</td><td>0.3563 *</td><td>0.2026</td><td>0.3665 *</td><td>0.2006</td><td>0.2720</td><td>0.3125 *</td></tr><tr><td></td><td>QC07</td><td>0.0946</td><td>0.0000</td><td>0.2264</td><td>0.0419</td><td>0.1537</td><td>0.0479</td><td>0.0351</td><td>0.0716</td><td>0.1537</td></tr><tr><td></td><td>QC08</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.1364</td><td>0.0000</td><td>0.0679</td><td>0.1282</td></tr><tr><td></td><td>QC09</td><td>0.3550 *</td><td>0.3153 *</td><td>0.2183</td><td>0.1737</td><td>0.2085</td><td>0.1663</td><td>0.1750</td><td>0.1241</td><td>0.1612</td></tr><tr><td></td><td>QC16</td><td>0.7438 *</td><td>0.7114 *</td><td>0.7568 *</td><td>0.7521 *</td><td>0.7250 *</td><td>0.7285 *</td><td>0.7059 *</td><td>0.7188 *</td><td>0.6816 *</td></tr><tr><td></td><td>QC19</td><td>0.0000</td><td>0.0000</td><td>0.1102</td><td>0.0000</td><td>0.0000</td><td>0.1315</td><td>0.0000</td><td>0.0348</td><td>0.0000</td></tr><tr><td></td><td>QC21</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.1483</td><td>0.0000</td><td>0.0000</td></tr><tr><td></td><td>QC24</td><td>0.0000</td><td>0.0000</td><td>0.0734</td><td>0.0000</td><td>0.0438</td><td>0.0000</td><td>0.0683</td><td>0.0232</td><td>0.0877</td></tr><tr><td rowspan=\"15\"></td><td>QC25</td><td>0.1447</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.1033</td><td>0.0000</td><td>0.1029</td><td>0.0000</td></tr><tr><td>QC27</td><td>0.1135</td><td>0.0000</td><td>0.0638</td><td>0.0709</td><td>0.1143</td><td>0.0811</td><td>0.1485</td><td>0.1615</td><td>0.1525</td></tr><tr><td>QC28</td><td>0.8160 *</td><td>0.9414 *</td><td>0.8355 *</td><td>0.7796 *</td><td>0.8060 *</td><td>0.7758 *</td><td>0.6500 *</td><td>0.6919 *</td><td>0.6830 *</td></tr><tr><td>QC32</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.2025</td><td>0.0000</td><td>0.0000</td><td>0.0000</td></tr><tr><td>QC33</td><td>0.2560</td><td>0.1896</td><td>0.0000</td><td>0.1067</td><td>0.1146</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0573</td></tr><tr><td>QC38</td><td>0.1875</td><td>0.1805</td><td>0.2109</td><td>0.0640</td><td>0.0857</td><td>0.0304</td><td>0.1922</td><td>0.2063</td><td>0.2233</td></tr><tr><td>QC39</td><td>0.0000</td><td>0.1170</td><td>0.2025</td><td>0.1592</td><td>0.0000</td><td>0.1286</td><td>0.0000</td><td>0.0266</td><td>0.0000</td></tr><tr><td>QC01</td><td>0.0000</td><td>0.0000</td><td>0.2290</td><td>0.0000</td><td>0.1367</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td></tr><tr><td>QC02</td><td>0.0000</td><td>0.3149 *</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td></tr><tr><td>QC06</td><td>0.0000</td><td>0.0000</td><td>0.1628</td><td>0.0904</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0515</td><td>0.0972</td></tr><tr><td></td><td>QC07</td><td>0.0000</td><td>0.1272</td><td>0.0000</td><td>0.0000</td><td>0.0444</td><td>0.0945 0.0346</td><td>0.0878</td><td>0.1778</td></tr><tr><td></td><td>QC09</td><td>0.6158 *</td><td>0.5397 *</td><td>0.5789 *</td><td>0.5459 * 0.5507 *</td><td>0.5876 *</td><td>0.5388 *</td><td>0.5419 *</td><td>0.6357 *</td></tr><tr><td>QC12</td><td>0.1909</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.1364</td><td>0.0999</td><td>0.0000</td><td>0.0000</td></tr><tr><td>QC16 QC24</td><td>0.5478 *</td><td>0.4928 *</td><td>0.5337 *</td><td>0.4863 *</td><td>0.5610 *</td><td>0.5708 *</td><td>0.5310 *</td><td>0.5457 *</td><td>0.5897 *</td></tr><tr><td></td><td>0.0000</td><td>0.2498</td><td>0.0000</td><td>0.0000</td><td>0.1186</td><td>0.0000</td><td>0.0000</td><td>0.1133</td><td>0.0000</td></tr><tr><td rowspan=\"9\">2013-09</td><td>QC28</td><td>0.2957</td><td>0.3208 *</td><td>0.1866</td><td>0.1180</td><td>0.0836</td><td>0.1010</td><td>0.1116</td><td>0.1054</td><td>0.0671</td></tr><tr><td>QC01</td><td>0.0000</td><td>0.1094</td><td>0.0000</td><td>0.0616</td><td>0.0662</td><td>0.0704</td><td>0.0000</td><td>0.0350</td><td>0.0662</td></tr><tr><td>QC03</td><td>0.0289</td><td>0.0000</td><td>0.0325</td><td>0.1336</td><td>0.0775</td><td>0.0915</td><td>0.0000</td><td>0.0859</td><td>0.0581</td></tr><tr><td>QC06</td><td>0.1809</td><td>0.1244</td><td>0.1656</td><td>0.1295</td><td>0.1357</td><td>0.1128</td><td>0.0842</td><td>0.1429</td><td>0.2407</td></tr><tr><td>QC07</td><td>0.0000</td><td>0.1233</td><td>0.1504</td><td>0.0000</td><td>0.1118</td><td>0.1514</td><td>0.0290</td><td>0.0790</td><td>0.0000</td></tr><tr><td>QC09</td><td>0.5699 *</td><td>0.4490 *</td><td>0.3920 *</td><td>0.3862 *</td><td>0.4341 *</td><td>0.4339 *</td><td>0.3511</td><td>0.4313 *</td><td>0.4045 *</td></tr><tr><td>QC19</td><td>0.4152 *</td><td>0.4055 *</td><td>0.1362</td><td>0.1655</td><td>0.1299</td><td>0.0447</td><td>0.0879</td><td>0.1227</td><td>0.1511</td></tr><tr><td>QC24</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0588</td><td>0.0000</td><td>0.0586</td><td>0.1106</td></tr><tr><td>QC26</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.1808 *</td><td>0.0000</td><td>0.0000</td><td>0.0757</td><td>0.0972</td><td>0.0515</td></tr><tr><td rowspan=\"7\">2014-08</td><td>QC27</td><td>0.0617</td><td>0.0000</td><td>0.2083</td><td>0.1543</td><td>0.1658</td><td>0.0882</td><td>0.0646</td><td>0.1098</td><td>0.1658</td></tr><tr><td>QC33</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.1671</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td></tr><tr><td>QC01</td><td>0.1105</td><td>0.0719</td><td>0.0000</td><td>0.0573</td><td>0.1789</td><td>0.0983</td><td>0.0677</td><td>0.0690</td><td>0.1485</td></tr><tr><td>QC06</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0000</td></tr><tr><td>QC09</td><td>0.0000 0.3804*</td><td>0.0000 0.2158</td><td>0.0000 0.1413</td><td>0.1462 0.1526</td><td>0.0000 0.1821</td><td>0.0000 0.0847</td><td>0.0612 0.1100</td><td>0.0832 0.1340</td></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcb7b50d35a32c36f5497c53571e567963a7e054b4f9aff87e801e2e21324533.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间 Time</td><td rowspan=\"2\">物种 Species</td><td colspan=\"9\">分割距离 Separation distance</td></tr><tr><td>2m</td><td>3m</td><td>4m</td><td>5m</td><td>6m</td><td>7m</td><td>8m</td><td>9m</td><td>10m</td></tr><tr><td rowspan=\"7\"></td><td>QC13</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0000</td><td>0.0662</td><td>0.0704</td><td>0.1546</td><td>0.0350</td><td>0.0000</td></tr><tr><td>QC16</td><td>0.7194 *</td><td>0.6060 *</td><td>0.5518</td><td>0.6363 *</td><td>0.6509 *</td><td>0.6018 *</td><td>0.5379 *</td><td>0.5562 *</td><td>0.5837 *</td></tr><tr><td>QC19</td><td>0.4840 *</td><td>0.3583 *</td><td>0.3761 *</td><td>0.4107 *</td><td>0.5585 *</td><td>0.4448 *</td><td>0.3606 *</td><td>0.4009 *</td><td>0.3974 *</td></tr><tr><td>QC20</td><td>0.0934</td><td>0.0000</td><td>0.1434 *</td><td>0.0966</td><td>0.1764</td><td>0.0820</td><td>0.1480</td><td>0.0613</td><td>0.1045</td></tr><tr><td>QC24</td><td>0.1344</td><td>0.0000</td><td>0.3645 *</td><td>0.0840</td><td>0.1650</td><td>0.0563</td><td>0.0994</td><td>0.2026</td><td>0.1541</td></tr><tr><td>QC34</td><td>0.1447</td><td>0.1608</td><td>0.0000</td><td>0.1808</td><td>0.0000</td><td>0.1033</td><td>0.0000</td><td>0.0515</td><td>0.0000</td></tr><tr><td>QC16</td><td>0.4910 *</td><td>0.3701 *</td><td>0.2627</td><td>0.3949 *</td><td>0.3102 *</td><td>0.4342 *</td><td>0.3028 *</td><td>0.3451 *</td><td>0.3690 *</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "QCO1：Nicrophorustenuipes，QCO2；Nquadripunctatus，QCO3：Phosphugaatrata，QCO4；Silphaperforata，QCO5：Catopidaeptomaphagus siicus ailiensis，QCsapdocidQC1：HrpausbefactusMgodotsetigfingioocauseli smaragdulus，QobustraQ：otoimpresfs，Q：Cbusilieesis，d QC18：P.miroceplus，19：Phegi，C2dstrcus，2embdolotC2BdoC2Elsctus, QC24：Cymindisporacatuiupde，6apcdesou2te， QC29：Poasosdoelu PobertiQ36uo， QC40：Maladera ovatula，QC41：Ampedus sanguinolentus，QC42：Melanotus legatus； $\\ast$ 表示鞘翅目成虫物种空间自相关性显著 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3鞘翅目成虫群落及物种的空间异质性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鞘翅目成虫群落的理论模型2013年6月拟合为指数模型,2013年7、9月和2014年10月拟合为球状模型、2014年8月拟合为高斯模型,群落基台值2013年6月 $( 4 . 1 9 2 ) > 7$ 月 $( 2 . 2 9 4 ) > 9$ 月（1.378），2014年8月（204号 $( 0 . 7 6 9 ) { > } 1 0$ 月（0.256）,群落结构比 $C _ { 0 } / ( C _ { 0 } { + } C )$ 均 $> 0 . 7 5$ ,说明群落具有较强的空间相关性且空间分异主要由结构性因素决定（图1)。各调查月份接近甚至超过一半的物种其理论模型拟合为线状模型,结构比为0表现为纯块金效应，一些物种的结构比 $C _ { 0 } / ( C _ { 0 } { + } C )$ 介于0.25与0.75之间,说明物种的空间变异由随机性因素和结构性因素共同决定,其他物种的空间变异受结构性因素表现为较强的空间异质性,并在大于取样尺度（2m)的 $2 . 0 1 ~ \\mathrm { m } { - 5 . 6 4 } ~ \\mathrm { m }$ 空间尺度范围内形成聚集分布（表3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ce12c86ce0bcbb0b3d4593d93aa849ee6160700de98628db9b0070ef0bd22bc.jpg",
+        "table_caption": [
+            "表3鞘翅目成虫物种的半方差函数理论模型和空间异质性参数",
+            "Table 3Theoretical models and corresponding parameters for semivariograms of a( "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td>时间 Time</td><td>物种 Species</td><td>模型 Model</td><td>块金值 Nugget variance</td><td>correspohdngParuheter 基台值 Structure variance sill</td><td>变程 Range A0/m</td><td>决定系数 Coefficient of determination</td><td>残差 Residual sum of squares</td><td>块金值/基台值 Proportion [Co/(Co+C)]</td></tr><tr><td>2013-06</td><td>QC01</td><td>Sph.</td><td>(Co） 0.001</td><td>(C0+C) 0.103</td><td>2.01</td><td>(R²) 0.378</td><td>(RSS) <0.001</td><td>0.999</td></tr><tr><td></td><td>QC06</td><td>Exp.</td><td>0.001</td><td>0.281</td><td>2.10</td><td>0.247</td><td><0.001</td><td>0.973</td></tr><tr><td></td><td>QC07</td><td>Sph.</td><td>0.002</td><td>0.084</td><td>2.36</td><td>0.023</td><td><0.001</td><td>0.998</td></tr><tr><td></td><td>QC08</td><td>Exp.</td><td>0.002</td><td>0.029</td><td>2.49</td><td>0.207</td><td><0.001</td><td>0.939</td></tr><tr><td></td><td>QC09</td><td>Exp.</td><td>0.001</td><td>0.257</td><td>2.31</td><td>0.253</td><td><0.001</td><td>1.000</td></tr><tr><td></td><td>QC25</td><td>Sph.</td><td>0.008</td><td>0.047</td><td>3.11</td><td>0.694</td><td><0.001</td><td>0.815</td></tr><tr><td></td><td>QC27</td><td>Sph.</td><td>0.004</td><td>0.098</td><td>2.24</td><td>0.102</td><td><0.001</td><td>0.996</td></tr><tr><td></td><td>QC28</td><td>Exp.</td><td>0.921</td><td>1.865</td><td>11.19</td><td>0.561</td><td><0.001</td><td>0.504</td></tr><tr><td></td><td>QC30</td><td>Sph.</td><td>0.006</td><td>0.012</td><td>18.76</td><td>0.504</td><td><0.001</td><td>0.501</td></tr><tr><td></td><td>QC32</td><td>Sph.</td><td>0.017</td><td>0.033</td><td>23.30</td><td>0.729</td><td><0.001</td><td>0.729</td></tr><tr><td></td><td>QC33</td><td>Exp.</td><td>0.004</td><td>0.066</td><td>4.53</td><td>0.527</td><td><0.001</td><td>0.942</td></tr><tr><td></td><td>QC35</td><td>Exp.</td><td>0.004</td><td>0.024</td><td>2.76</td><td>0.125</td><td><0.001</td><td>0.815</td></tr><tr><td></td><td>QC36</td><td>Exp.</td><td>0.001</td><td>0.008</td><td>3.00</td><td>0.058</td><td><0.001</td><td>0.999</td></tr><tr><td></td><td>QC37</td><td>Sph.</td><td>0.007</td><td>0.016</td><td>7.67</td><td>0.922</td><td><0.001</td><td>0.503</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bd1b1206979155cbbfa433acb04bc689da54e06129aef5bad186cc10e433e72.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [
+            "Exp.，Sph.,Gau.分别表示指数模型，球状模型和高斯模型，调查月份未在表格中出现的物种均拟合为线状模型"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"11\">续表</td></tr><tr><td>时间</td><td></td><td>模型</td><td>块金值</td><td>基台值</td><td>变程</td><td>决定系数f</td><td></td><td>Resiua sum</td><td>块金值/基台值</td></tr><tr><td rowspan=\"4\">Time</td><td>物种 Species</td><td>Model</td><td></td><td></td><td>A0/m</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>v(co)e</td><td></td><td></td><td>determnagin</td><td>o( RSs)</td><td></td><td>[Co/(Co+C)]</td></tr><tr><td>QC38</td><td>Exp.</td><td>0.024</td><td>0.149</td><td>4.53</td><td>0.656</td><td><0.001</td><td></td><td>0.836</td></tr><tr><td>QC01</td><td>Exp.</td><td>0.007</td><td>0.069</td><td>2.58</td><td>0.271</td><td><0.001</td><td></td><td>0.918</td></tr><tr><td></td><td>QC02</td><td>Exp.</td><td>0.004</td><td>0.023</td><td>2.67</td><td></td><td>0.134</td><td><0.001</td><td>0.810</td></tr><tr><td></td><td>QC08</td><td>Sph.</td><td>0.006</td><td>0.012</td><td>18.71</td><td></td><td>0.561</td><td><0.001</td><td>0.504</td></tr><tr><td></td><td>QC09</td><td>Sph.</td><td>0.001</td><td>0.418</td><td>2.48</td><td></td><td>0.149</td><td><0.001</td><td>0.998</td></tr><tr><td></td><td>QC10 QC13</td><td>Gau.</td><td>0.003</td><td>0.013</td><td>2.63</td><td></td><td>0.295</td><td><0.001</td><td>0.743</td></tr><tr><td></td><td></td><td>Sph.</td><td>0.006</td><td>0.036</td><td>3.29</td><td></td><td>0.466</td><td><0.001</td><td>0.838</td></tr><tr><td rowspan=\"9\">2013-09</td><td>QC14</td><td>Sph.</td><td>0.015</td><td>0.031</td><td></td><td>7.71</td><td>0.922</td><td><0.001</td><td>0.502</td></tr><tr><td>QC15</td><td>Gau.</td><td>0.003</td><td>0.013</td><td>2.63</td><td>0.295</td><td><0.001</td><td></td><td>0.743</td></tr><tr><td>QC24</td><td>Exp.</td><td>0.021</td><td>0.108</td><td>5.64</td><td>0.326</td><td><0.001</td><td></td><td>0.808</td></tr><tr><td>QC28</td><td>Exp.</td><td>0.071</td><td>0.143</td><td>5.69</td><td>0.874</td><td></td><td><0.001</td><td>0.504</td></tr><tr><td>QC32</td><td>Sph.</td><td>0.002</td><td>0.012</td><td>2.58</td><td>0.026</td><td></td><td><0.001</td><td>0.847</td></tr><tr><td>QC05</td><td>Gau.</td><td>0.004</td><td>0.014</td><td>3.10</td><td>0.242</td><td></td><td><0.001</td><td>0.703</td></tr><tr><td>QC08</td><td>Exp.</td><td>0.008</td><td>0.045</td><td>4.50</td><td>0.571</td><td></td><td><0.001</td><td>0.823</td></tr><tr><td>QC09</td><td>Exp.</td><td>0.010</td><td>3.648</td><td>3.21</td><td>0.369</td><td></td><td><0.001</td><td>0.997</td></tr><tr><td>QC12</td><td>Sph.</td><td>0.006</td><td>0.012</td><td>18.76</td><td>0.561</td><td><0.001</td><td></td><td>0.504</td></tr><tr><td rowspan=\"10\">2014-08</td><td>QC19</td><td>Sph.</td><td>0.123</td><td>0.514</td><td>3.80</td><td></td><td>0.998</td><td><0.001</td><td>0.998</td></tr><tr><td>QC24</td><td>Sph.</td><td>0.015</td><td>0.083</td><td>2.61</td><td></td><td>0.392</td><td><0.001</td><td>0.821</td></tr><tr><td>QC26</td><td>Exp.</td><td>0.034</td><td>0.068</td><td>32.82</td><td>0.501</td><td></td><td><0.001</td><td>0.704</td></tr><tr><td>QC01</td><td>Exp.</td><td>0.001</td><td>0.114</td><td>3.27</td><td>0.226</td><td></td><td><0.001</td><td>0.979</td></tr><tr><td>QC04</td><td>Exp.</td><td>0.001</td><td>0.008</td><td>3.00</td><td>0.058</td><td></td><td><0.001</td><td>0.999</td></tr><tr><td>QC09</td><td>Sph.</td><td>0.001</td><td>0.261</td><td>3.99</td><td></td><td>0.570</td><td><0.001</td><td>1.000</td></tr><tr><td>QC13</td><td>Exp.</td><td>0.006</td><td>0.058</td><td>3.48</td><td>0.344</td><td></td><td><0.001</td><td>0.898</td></tr><tr><td>QC16</td><td>Exp.</td><td>0.005</td><td>0.058</td><td>2.91</td><td>0.116</td><td></td><td><0.001</td><td>0.918</td></tr><tr><td>QC18</td><td>Sph.</td><td>0.015</td><td>0.840</td><td>3.16</td><td>0.542</td><td></td><td>0.016</td><td>0.942</td></tr><tr><td>QC19</td><td>Sph.</td><td>0.041</td><td>0.575</td><td>2.81</td><td>0.214</td><td></td><td><0.001</td><td>0.929</td></tr><tr><td></td><td>QC20</td><td>Exp.</td><td>0.002</td><td>0.305</td><td>2.58</td><td>0.153</td><td><0.001</td><td></td><td>0.986</td></tr><tr><td></td><td>QC24</td><td>Sph.</td><td>0.101</td><td>0.153</td><td>2.52</td><td>0.030</td><td><0.001</td><td></td><td>0.929</td></tr><tr><td></td><td>QC28</td><td>Sph.</td><td>0.008</td><td>0.016</td><td>7.57</td><td>0.929</td><td></td><td><0.001</td><td>0.503</td></tr><tr><td></td><td>QC34</td><td>Sph.</td><td>0.025</td><td>0.054</td><td>6.30</td><td>0.904</td><td></td><td><0.001</td><td>0.533</td></tr><tr><td></td><td>QC35</td><td>Exp.</td><td>0.001</td><td>0.024</td><td>2.01</td><td>0.732</td><td></td><td><0.001</td><td>0.998</td></tr><tr><td>2014-10</td><td>QC16</td><td>Sph.</td><td>0.011</td><td>0.204</td><td>2.91</td><td>0.420</td><td></td><td><0.001</td><td>0.947</td></tr><tr><td></td><td>QC19</td><td>Exp.</td><td>0.013</td><td>0.026</td><td>22.62</td><td>0.854</td><td></td><td><0.001</td><td>0.514</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4鞘翅目成虫物种的空间关联性及变化性",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "鞘翅目成虫物种的空间关联性因时间和空间而有所差别,在时间尺度上表现为多样性的空间关联性,根据鞘翅目成虫物种之间交叉方差函数模型的块金值和基台值确定彼此之间的空间作用关系,通过结构比判断物种空间关联性的决定因素（表4）。鞘翅目成虫物种在空间尺度上具体表现为正的或负的空间关联性,不同的物种之间具有不同的空间作用关系,仅个别物种在同年调查取样间与其他物种始终表现为相同的空间关联性。结构比显示物种之间的空间关联性形成主要是结构性因素或随机性因素单一调控的结果,各调查月份均有一些物种不存在空间关联性,2014年10月尤为明显。简单 Mantel检验结果表明,鞘翅目成虫物种之间的空间关联性均不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffdc886aac8970191aca6e5f221e82b13c9d8e6e06068383d4d29dba00ec76e1.jpg",
+        "img_caption": [
+            "图1鞘翅目成虫群落的半方差函数理论模型图",
+            "Fig.1Theoretical models for semivariograms of adult Coleoptera community "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5鞘翅目成虫群落的空间分布格局及变化性",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "依据变异函数理论模型，进行克里格空间局部插值。鞘翅目成虫群落梯度分布特征较明显，随着时间的变化斑块复杂程度降低,形成取值较高的斑块与取值相对低的斑块镶嵌分布的空间格局(图2)。聚集物种的个体数量斑块等级2013年6月从样地中心向样地边缘逐渐减弱,而7月和9月则是逐渐增强,最大值大都出现在样地边缘;2014年8月在样地中心区域形成斑块聚集,斑块等级从中心向四周逐渐减弱;10月则是在样地的中心区域形成半凹月形斑块聚集区,最小值区域所占得比例较大,在样地周围散落分布斑块聚集区。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5次调查共捕获鞘翅目成虫个体 2721只,隶属10科、42种,群落组成具有中等或较强的空间变异性和明显的时间变异性,2013年调查月份鞘翅目个体数量均存在显著差异,2014年8月和10 月物种数量和个体数量均为显著差异。研究表明鞘翅目成虫的数量变化以及空间分布受土壤含水量、植物生物量、枯落物盖度以及林冠层覆盖率的影响[32-3],影响因子的季节变化必然导致群落组成的动态变化[34]。2014年10外部环境条件的变化（温度降低使鞘翅目成虫对环境耐受力的减弱）食物资源减少（一些捕食性物种的食物死亡或者迁移地下)以及地表甲虫自身的季节性活动规律[35],导致群落的物种数量和个体数量明显减少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/74f198ce6d9cdd28ebedc0979f19397581e023c524a25f888244a8b97c082303.jpg",
+        "table_caption": [
+            "表42013年9月和2014年8月鞘翅目成虫物种之间的空间关联性",
+            "Table 4The spatial relationships between adult Coleoptera species in September 2O13 and August 2 "
+        ],
+        "table_footnote": [
+            "表格呈现的是2013年9月和2014年8月所有表示正的空间作用关系的物种,未在表格中出现的物种之间的空间作用关系表现为负或不存在， $\\ast$ 表示同年调查月份物种之间具有相同的空间作用关系"
+        ],
+        "table_body": "<html><body><table><tr><td>时间 Time</td><td>物种 Species</td><td>块金值/ 基台值 Proportion [Co/(Co+C)]</td><td>决定系数 Coefficient of determination</td><td>时间 Time</td><td>物种 Species</td><td>块金值/ 基台值 Proportion [Co/(Co+C)]</td><td>决定系数 Coefficient of determination</td></tr><tr><td>2013-09</td><td>QC01xQC03 *</td><td>0.932</td><td>(R²） 0.616</td><td>2013-09</td><td>QC16xQC38</td><td>0.095</td><td>(R²） 0.000</td></tr><tr><td></td><td>QC01×QC06 *</td><td>0.999</td><td>0.151</td><td></td><td>QC17xQC24</td><td>0.610</td><td>0.097</td></tr><tr><td></td><td>QC01xQC09</td><td>0.000</td><td>0.055</td><td></td><td>QC19xQC27</td><td>0.000</td><td>0.012</td></tr><tr><td></td><td>QC01×QC16 *</td><td>0.999</td><td>0.025</td><td></td><td>QC24xQC27</td><td>0.000</td><td>0.020</td></tr><tr><td></td><td>QC01xQC19</td><td>0.996</td><td>0.184</td><td>2014-08</td><td>QC01xQC16</td><td>0.998</td><td>0.686</td></tr><tr><td></td><td>QC02xQC06 *</td><td>0.998</td><td>0.000</td><td></td><td>QC01×QC19</td><td>0.998</td><td>0.288</td></tr><tr><td></td><td>QC02×QC09</td><td>0.501</td><td>0.099</td><td></td><td>QC01xQC20</td><td>0.000</td><td>0.216</td></tr><tr><td></td><td>QC02×QC16 *</td><td>0.748</td><td>0.000</td><td></td><td>QC01xQC35</td><td>0.000</td><td>0.002</td></tr><tr><td></td><td>QC03xQC04</td><td>0.997</td><td>0.136</td><td></td><td>QC02xQC06</td><td>0.976</td><td>0.170</td></tr><tr><td></td><td>QC03xQC09</td><td>0.996</td><td>0.000</td><td></td><td>QC02xQC08</td><td>0.000</td><td>0.343</td></tr><tr><td></td><td>QC03×QC16 *</td><td>0.000</td><td>0.030</td><td></td><td>QC02xQC08</td><td>0.000</td><td>0.343</td></tr><tr><td></td><td>QC03xQC17</td><td>0.000</td><td>0.292</td><td></td><td>QC02xQC16</td><td>0.999</td><td>0.684</td></tr><tr><td></td><td>QC03xQC19</td><td>0.877</td><td>0.301</td><td></td><td>QC02xQC21</td><td>0.000</td><td>0.343</td></tr><tr><td></td><td>QC03xQC24 *</td><td>0.999</td><td>0.033</td><td></td><td>QC03xQC12</td><td>0.000</td><td>0.713</td></tr><tr><td></td><td>QC03xQC25</td><td>0.000</td><td>0.047</td><td></td><td>QC03xQC16</td><td>0.000</td><td>0.613</td></tr><tr><td></td><td>QC03xQC38</td><td>0.000</td><td>0.047</td><td></td><td>QC04xQC13</td><td>0.999</td><td>0.108</td></tr><tr><td></td><td>QC05xQC09</td><td>0.000</td><td>0.229</td><td></td><td>QC04×QC20</td><td>0.998</td><td>0.032</td></tr><tr><td></td><td>QC06xQC13</td><td>0.993</td><td>0.009</td><td></td><td>QC06xQC13</td><td>0.999</td><td>0.002</td></tr><tr><td></td><td>QC06xQC16 *</td><td>0.000</td><td>0.136</td><td></td><td>QC06xQC16 *</td><td>0.997</td><td>0.000</td></tr><tr><td></td><td>QC06xQC19</td><td>0.998</td><td>0.218</td><td></td><td>QC08xQC12</td><td>0.000</td><td>0.343</td></tr><tr><td></td><td>QC06xQC28</td><td>0.999</td><td>0.047</td><td></td><td>QC08xQC16</td><td>0.998</td><td>0.314</td></tr><tr><td></td><td>QC07xQC09</td><td>0.000</td><td>0.071</td><td></td><td>QC09xQC16</td><td>0.000</td><td>0.023</td></tr><tr><td></td><td>QC07×QC19 *</td><td>0.000</td><td>0.153</td><td></td><td>QC09xQC24</td><td>0.909</td><td>0.756</td></tr><tr><td></td><td>QC08×QC16 *</td><td>0.999</td><td>0.278</td><td></td><td>QC09xQC35</td><td>0.000</td><td>0.165</td></tr><tr><td></td><td>QC09xQC12</td><td>0.999</td><td>0.278</td><td></td><td>QC12xQC16</td><td>0.999</td><td>0.041</td></tr><tr><td></td><td>QC09×QC16 *</td><td>0.000</td><td>0.409</td><td></td><td>QC16xQC35</td><td>0.999</td><td>0.032</td></tr><tr><td></td><td>QC09xQC24</td><td>0.000</td><td>0.089</td><td></td><td>QC19xQC34</td><td>0.000</td><td>0.335</td></tr><tr><td></td><td>QC16xQC17</td><td>0.000</td><td>0.007</td><td></td><td>QC24xQC34</td><td>0.999</td><td>0.000</td></tr><tr><td></td><td>QC16xQC25</td><td>0.000</td><td>0.001</td><td></td><td>QC28xQC34</td><td>0.604</td><td>0.816</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "空间自相关性存在是空间异质性分析的前提，Moran's $I$ 系数表明鞘翅目成虫群落及部分物种具有显著的空间自相性。相关研究发现[3除了4种数量稀少的螨类,土壤螨群落和多数螨类的个体数量具有显著的空间自相关性,物种丰富度可能是影响物种空间自相关性的重要因素,与土壤螨类相比鞘翅目昆虫有更大的活动范围和迁移距离,也在一定程度上削弱了空间自相关性。受距离约束的空间自相关分析结果表明,可能是受到某些小尺度干扰或各向异性导致空间自相关性的局部变化,复杂的变化反映了鞘翅目成虫空间结构的特殊性以及影响因子的复杂性[37]。调查月份仅个别物种在整个空间尺度上始终表现为正的空间关联,若要深刻揭示其变化规律及作用机制,需要通过扩大或缩小取样尺度进行多尺度的对比分析,探讨不同尺度上的空间异质性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "异质性是在许多基本生态过程和物理环境过程中,在空间尺度和时间尺度连续系统上共同作用的产物[38],而影响鞘翅目昆虫空间分布的土壤含水量、凋落物厚度及土壤腐殖质等非确定性过程本身也存在明显的空间异质性[39-41],必然会对鞘翅目昆虫的空间异质性产生影响。半方差函数分析表明鞘翅目成虫群落和接近一半的物种的空间变异是结构性因素或结构性因素和随机性因素共同调控的结果,可能受到某些确定性过程(基于生态位理论的环境筛选和种间竞争以及自身的生物学特性)的控制[42],各调查月份接近甚至超过一半物种的结构比为0表现为纯块金效应,即存在由实验误差（陷阱法反映的是物种的活动性密度[43]、诸如植被密度等一些影响物种活动性的因素会给取样结果带来误差）、小于取样尺度和微尺度空间变异等因素带来的块金效应，说明小于采样尺度( $\\cdot 2 \\mathrm { ~ m } )$ 的空间过程不容忽视，在现有的空间幅度内减小采样密度或扩大调查范围增加空间粒度来进行对比研究,或许这些物种数量稀少,也是导致难以揭示其空间相关性的一个原因。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/65e4130ceac90e2a942762288f723001f680ce35122cbc1bee9b514a0dbe91c2.jpg",
+        "img_caption": [
+            "图2鞘翅目成虫群落空间分布格局",
+            "Fig.2Spatial distribution patterns of adult Coleoptera community "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究种间空间关联性将有助于了解群落内物种之间的相互作用,以及不同物种在不同生境中定居的分异[44],交叉方差函数表明鞘翅目成虫物种间存在复杂正、负空间关联性,而这种空间作用关系受结构性因素或随机性因素单一调控,但简单Mantel检验表明物种间的空间关联性均不显著,表明鞘翅目成虫物种之间存在伪的（spurious)空间关联性[2]。物种在多种空间尺度上呈负相关,可能与物种间重叠的生态位、食性类型相似有关,以及空间作用过程不确定因素的空间差异不能同时满足彼此生物学需要而在某一空间尺度上形成竞争性的共存关系,说明物种空间关联性的复杂性和不确定性。有研究表明土壤螨群落和不同螨类物种的空间格局与环境因子的空间格局在多种尺度上表现出复杂的空间关联性（正的或负的)[45],鞘翅目成虫物种间的空间关联性不显著是否受环境因子的空间作用,还有待进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "群落中的各种生态学过程因具体观察尺度的不同导致了空间格局的差异性[46],本研究表明鞘翅目成虫群落在 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 的尺度上空间分布格局梯度分布特征较明显,随着季节(夏天到秋天)的变化斑块复杂程度降低,其形成可能与微域地形、植被斑块、食物资源梯度[47]或者地面植被位置、生物繁殖和竞争等[48]有关,空间格局随时间变化斑块的形状和大小均存在较大差异,可能与土壤含水量、地表温湿度以及凋落物厚度等非确定性因素具季节性变化有关。在2013年7月和9月调查月份聚集物种个体数量的斑块等级从样地中心向四周逐渐增强，可能与样地外物种进入开放性样地,在样地周围形成最大值区,而在样地的中心斑块等级较小可能与多次实验活动对样地的破坏有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究表明帽儿山红松人工林内，在 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 研究尺度上，鞘翅目成虫群落和物种表现为复杂的空间自相关性,在特定尺度上形成集群表现为空间异质性特征,结构性因素或结构性因素和随机性因素对这种空间分异起主要调控作用,并没有发现物种之间存在显著的空间关联性,群落的空间格局梯度分布特征较明显并具有一定的季节变化性。本研究仅能表明 $2 0 ~ \\mathrm { m } { \\times } 2 0 ~ \\mathrm { m }$ 尺度下的鞘翅目成虫的空间格局，其他空间尺度的相关研究有待于进一步开展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "致谢：石昊、刘俊、钟雨晴、闫龙同学帮助野外调查;王兴昌老师确认植物学名,赖江山老师帮助写作,黑龙江省帽儿山森林生态系统国家野外科学观测研究站提供样地等基础设施服务和支持,特此致谢。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]LiHR,Reynolds JF.On definition and quantification of heterogeneity.Oikos，1995,73(2）：280-284.  \n[2]GutieigoJelatsoirfls,earthworm species and soil properties.Pedobiologia,2010,53(6）：381-389.  \n[3］路有成，王宗英,李景科，方明刚，陈友顺，蒋业科，潘志强，余益胜.皖南低丘板栗林土壤甲虫群落研究.生态学杂志，1994，13（6)：1-6.  \n[4]AvironurelFdryheabideblagsiicuralldsasactsfabiatures，dsatetdifferent spatial scales and farming intensity.Agriculture Ecosystems&Environment，2O05,108(3）：205-217.  \n[5]HortalJ-asUn）sale:51-53.  \n[6］张朝生，章申，何建邦.长江水系沉积物重金属含量空间分布特征研究——地统计学方法.地理学报，1997,52（2)：184-192.  \n[7]RossiR，ullueGEGostatisialfoelingdintepetiogcalsatialepedeolicalMonographs，1992，62(2）：277-314.  \n[8]Ettema CH,Wardle DA.Spatial soil ecology.Trends in Ecology&Evolution,2002，17(4)：177-183.  \n［9］谷加存，王政权，韩有志，王向荣，梅莉，张秀娟，程云环.采伐干扰对帽儿山地区天然次生林土壤表层温度空间异质性的影响.应用生态学报，2006，17(12)：2248-2254.  \n[10］谷加存，王政权，韩有志，王向荣，梅莉.采伐干扰对帽儿山天然次生林土壤表层水分空间异质性的影响.生态学报，2005，25（8)：2001-2009.  \n[11] 林英华，孙家宝，刘海良，张夫道，孙龙，金森.黑龙江帽儿山土壤动物群落组成与多样性分析.林业科学,2006,42（4)：71-77.  \n[12] 仲伟彦，殷秀琴.帽儿山不同林型土壤动物的对比研究.东北师大学报：自然科学版，1998，（1)：69-74.  \n[13] 王政权.地统计学及在生态学中的应用.北京：科学出版社，1999.  \n[14] 杨金艳，王传宽.东北东部森林生态系统土壤碳贮量和碳通量.生态学报，2005，25(11)：2875-2882.  \n[15] 李景科，张雪萍，林琳，FlutschG，于强.中国东北的葬甲科研究.哈尔滨：哈尔滨地图出版社，2011.  \n[16] 李井科，林琳，张雪萍.原色中国东北土壤甲虫图鉴(步行虫类).哈尔滨：哈尔滨地图出版社，2015.  \n[17] 李井科，张利敏，张雪萍.原色中国东北土壤甲虫图鉴(隐翅虫类，拟步甲类).哈尔滨：哈尔滨地图出版社，2015.  \n[18] YonkerCM,elousE,eiaeofcrboulaioiidossteplodeSociety of America Journal,1988,52(2）:478-583.  \n[19］华娟，涂建军，孔露平，张戈，简洁，周轶.基于空间自相关的重庆区域经济时空差异研究.西南大学学报：自然科学版,2012,34（10)：118-123.  \n[20]Cliff A D,Ord JK. Spatial Processes:Models and Applications.London：Pion Ltd,1981.  \n21]Jugthdiaceilaof America Journal,2006，70(4)：1387-1397.  \n[22］张海森，宋向东，邓建梅.基于模型的Moran'sI检验在信息软件业中的应用.河北北方学院学报：自然科学版，208，24（1）：66-68.  \n[23］龚元石，廖超子，李保国.土壤含水量和容重的空间变异及其分形特征.土壤学报，1998，35(1)：10-15.  \n[24］葛剑平，郭海燕，仲莉娜.地统计学在生态学中的应用（I）——基本理论和方法.东北林业大学学报，1995，23(2)：88-94.  \n[25］吴青柏，沈永平，施斌.青藏高原冻土及水热过程与寒区生态环境的关系.冰川冻土，2003，25(3）：250-255.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26]Cambardella C A，Moorman TB,Parkin TB,Karlen D L，Novak $\\mathrm { ~ J ~ M ~ }$ ，Turco RF,Konopka A E.Field-scale variability of soil properties incentral Iowa soils.Soil Science Society of America Journal，1994，58(5)：1501-1511.  \n[27］李元寿，王根绪，丁永建，王一博，赵林，张春敏.青藏高原高寒草甸区土壤水分的空间异质性.水科学进展,2008，19（1)：61-67.  \n[28] 王正军，李典谟，商晗武，程家安.地质统计学理论与方法及其在昆虫生态学中的应用.昆虫知识,2002，39(6)：405-511.  \n29]RossiJelldatisaXsatisalyisroaJlf)：173-181.  \n[30］毕华兴,李笑吟，刘鑫，李俊，郭孟霞.晋西黄土区土壤水分空间异质性的地统计学分析.北京林业大学学报，2006,28（5)：59-66.  \n[31]LauzonJD,'HallVBerAsallablflsidsoils.Agronomy Journal，2005，97(2）:524-532.  \n[32］王玉，高光彩，付必谦，吴专.北京野鸭湖湿地地表甲虫群落组成与空间分布格局.生物多样性,2009，17(1)：30-52.  \n[33］于晓东，罗天宏，周红章，杨建.边缘效应对卧龙自然保护区森林-草地群落交错带地表甲虫多样性的影响.昆虫学报，2006，49（2)：277-286.  \n[34］于晓东，罗天宏，周红章.东灵山地区地表甲虫群落组成及季节变化.昆虫学报，2002,45(6)：785-793.  \n[35]LoveiGL,SunderlandKDologdbehavirofoundbees（Coleoptera:Carabidae）AnualReviewofEtomology996,4（）:231-256.  \n[36］高梅香，何萍，刘冬，郭传伟，张雪萍，李景科.温带落叶阔叶林土壤螨群落多尺度空间自相关性.土壤通报，2014（5)：1104-112.  \n［37］张涛.北亚热带秭归县马尾松林土壤呼吸时空异质性研究[D].武汉：华中农业大学，2012.  \n[38］王存国，韩士杰，张军辉，王树堂，徐媛.长白山阔叶红松林表层土壤水分空间异质性的地统计学分析.应用生态学报，2010，21（4)：849-855.  \n[39］王丽霞，段文标，陈立新，杜珊，魏全帅，赵健慧，张琛.红松阔叶混交林林隙大小对土壤水分空间异质性的影响.应用生态学报，2013，24(1): 17-24.  \n[40］邵方丽,余新晓,杨志坚,王贺年.天然杨桦次生林表层土壤水分与枯落物的空间异质性.水土保持学报，2012，26（3）：199-204.  \n[41］范宁宁,马超,王树力.不同经营类型红松林下土壤腐殖质的空间异质性.水土保持学报，2012，26(3)：184-188.  \n[42]Ingidbldispersal and local environment. Oecologia，2012，170(3）：745-754.  \n[43]Mitchellolooftoabides，embolmos（rbs）ndcdrisrtus（Sk）Iuesoolofulsinthefield,withspecialreference tothetechniqueof pitfall tapping.JournalofAnimalEcology，1963,32（3)：377-392.  \n[44]Wiegaiaileieipteouait(4):E77-E95.  \n[45］高梅香，刘冬，张雪萍，吴东辉.三江平原农田地表和地下土壤螨类丰富度与环境因子的空间关联性.生态学报,2016,36(6)：1-11.  \n[46] Murell J,PurvesDW,LawR.UnitingpattandprocssinplantcologyTrendsinEolog&EvolutioO6(）：-30.  \n[47] Lavelle P，Spain A V. Soil Ecology.Dordrecht：Kluwer Academic Publishers,2001.  \n[48MoreirausingEellE.oofroicalooapligdaacteaiooflogostScience Society of America Journal,2012，76(3）:373-373.",
+        "page_idx": 11
+    }
+]

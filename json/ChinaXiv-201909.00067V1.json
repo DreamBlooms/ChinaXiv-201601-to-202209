@@ -1,0 +1,425 @@
+[
+    {
+        "type": "text",
+        "text": "陕北固沙林恢复过程中土壤碳氮组 分库特征与固存效应 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "哈斯尔'，郑嗣蕊²，涂伊南²，万家鸣²，杨咪咪²，黄悦²，余可²，佟小刚²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．西北农林科技大学水土保持研究所,黄土高原土壤侵蚀与旱地农业国家重点实验室,陕西 杨凌712100；2．西北农林科技大学资源环境学院，陕西 杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：选取陕北毛乌素沙地从半固定沙地到恢复23\\~54a的灌木和乔木固沙林地,采用密度分组法分析表层土壤轻、重组分碳氮含量、 $\\mathrm { C } / \\mathrm { N }$ 的演变及累积速率、固定碳氮贡献率特征。结果表明：固沙林从恢复 $2 3 \\sim 5 4 \\mathrm { ~ a ~ }$ ，乔木和灌木林土壤轻组碳分别增加了 $1 4 . 0 \\sim 4 0 . 6 \\$ 倍和 $8 . 8 \\sim 1 9 . 2$ 倍,显著高于对应重组碳3.2\\~7.7倍和3.5\\~8.1倍的增幅;对应轻组氮分别增加了 $1 4 . 5 \\sim 4 0 . 9 \\$ 倍和 $1 1 . 8 \\sim 2 9 . 1$ 倍，也显著高于重组氮4.6\\~8.5倍和4.4\\~12.6倍的增幅,说明轻组碳氮相对重组碳氮对固沙林恢复更加敏感。土壤轻重组碳氮含量增加使得乔木和灌木林轻组碳密度增速分别达 $0 . 5 7 \\mathrm { \\ m g \\cdot h m ^ { - 2 } \\cdot \\ a ^ { - 1 } }$ 和 $0 . 2 6 \\mathrm { \\ m g \\cdot \\ h m ^ { - 2 } \\cdot \\ a ^ { - 1 } }$ ,重组碳密度增速则仅为 $0 . 1 8 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - }$ 1和0.20（20 $\\mathrm { m g \\cdot \\ h m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 }$ ;同时,轻组氮密度增速分别达 $0 . 0 3 ~ \\mathrm { m g } \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - }$ 1和 $0 . 0 2 \\mathrm { \\ m g \\cdot \\ h m ^ { - 2 } \\cdot \\ a ^ { - 1 } }$ ,重组氮密度增速则分别达 $0 . 0 2 \\mathrm { \\ m g \\cdot \\ h m } ^ { - 2 } \\mathrm { \\cdot \\ a } ^ { - 1 }$ 和 $0 . 0 4 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。按此碳氮组分增速,到固沙林恢复54a时,乔木林和灌木林土壤轻组碳可分别贡献 $7 5 . 9 \\%$ 和 $5 9 . 4 \\%$ 的全有机碳增量;土壤重组氮则可贡献 $4 4 . 6 \\%$ 和 $6 3 . 9 \\%$ 的全氮增量。另外，恢复54a两种林地土壤重组 $\\mathrm { C } / \\mathrm { N }$ 分别比半固定沙地降低 $1 1 . 4 \\%$ 和 $3 8 . 5 \\%$ 。但轻组 $\\mathrm { C } / \\mathrm { N }$ 在乔木林并无显著变化，在灌木林恢复23\\~54a土壤轻组 $\\mathrm { C } / \\mathrm { N }$ 降低了 $2 1 . 7 \\% \\sim 3 1 . 0 \\%$ ,显著改变了土壤碳库性质。表明陕北固沙林恢复土壤表现出显著的固定碳氮效应,并且乔木林有更好的固碳能力,灌木林则有较好的固氮效应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：固沙林；恢复过程；土壤碳氮；固碳；毛乌素沙地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "截至2014年，我国沙化土地总面积 $1 . 7 \\times 1 0 ^ { 8 }$ $\\mathrm { { h m } } ^ { 2 }$ ,占国土总面积的 $1 7 . 9 \\% ^ { [ 1 ] }$ ,造成了严重的土壤退化与植被衰亡[2}。但经过“三北防护林\"“退耕还林”“京津风沙源治理”等一系列大规模生态工程的实施,使得包括毛乌素沙地在内的东部沙区植被盖度比 2009 年增加了 $8 . 3 \\% ^ { [ 1 ] }$ ,局部地区实现了“沙退人进”[3]。因此,研究掌握沙漠化地区植被恢复的生态效应与机制成为人们探寻快速有效治沙途径的关键科学问题。有机碳和氮作为土壤肥力的核心物质，在土壤结构形成与保持、土壤养分循环及土壤生物多样性养育中发挥着重要作用[4-5],土壤碳氮库演变特征与固定机制也成为反映植被恢复生态功能与过程的重要指标之-[5-6] ○",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，多数研究已表明植被恢复能够显著提升土壤总有机碳和全氮含量，并且在沙漠化逆转过程也有同样的效应[7-8]。但由于土壤中碳氮是由活性、功能、周转速率不同的组分构成的复合体[9，总有机碳和全氮变化还不能有效揭示固沙林恢复土壤固存碳氮过程与机制[6,10]。因此,分组成为研究认知土壤碳氮库累积与变化过程的热点[6.9]。这其中按照比重法分成土壤轻组与重组碳氮组分受到普遍关注(1-14]。这在于其分组为物理过程,对土壤破坏性小,能够反映土壤存贮碳氮的原始状况(12-13]。同时，研究也说明轻组碳氮主要来源于土壤颗粒间的有机残体，属于活性组分，对生态措施影响敏感于总有机碳和全氮，可作为快速响应土地利用变化的指示碳氮库(1,13]。重组碳氮则主要与土壤矿物结合态存在，抗分解能力强，有利于长期稳定固存碳氮[9-10]。但近年该分组碳氮技术研究主要集中于非沙漠化区域的人工植被恢复和农田土壤[6,12-14]还鲜有沙漠化逆转植被恢复过程中土壤轻重组碳氮库特性与累积特征的报道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "毛乌素沙地是我国四大沙区之一，属于典型的生态脆弱区[15]。建国以来大力兴建防风固沙林,引水拉沙，引洪淤地，使得沙区2014年的流动沙地减少了 $4 3 . 0 \\%$ ，固定和半固定沙地分别增加了 $7 . 5 \\%$ 和 $3 . 8 \\%$ [16],导致土壤质地、理化性质和碳氮库储量也发生了显著变化[17-18]。因此,本研究选择陕北毛乌素沙地治沙区从半固定沙地到不同恢复年限的灌木和乔木固定沙地，通过比重法物理分组技术，探究土壤轻重组碳氮库及其累积演变特征，以期为深刻认知固沙林植被恢复过程的土壤固定碳氮效应与机制提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于陕西省榆林市红石峡治沙试验林场（ $( 3 8 ^ { \\circ } 1 9 ^ { \\prime } 2 9 ^ { \\prime \\prime } \\mathrm { N } , 1 0 9 ^ { \\circ } 4 3 ^ { \\prime } 8 2 ^ { \\prime \\prime } \\mathrm { E } )$ ,地处毛乌素沙地南缘，海拔 $1 1 1 4 \\mathrm { ~ m ~ }$ ，年均气温约为 $8 . 5 ~ \\mathrm { { ^ { 8 } C } }$ ,年降水量为$2 5 0 \\sim 4 0 0 ~ \\mathrm { m m }$ ,平均风速 $2 . 8 \\mathrm { ~ m ~ } ^ { \\cdot } \\mathrm { ~ s ~ } ^ { - 1 }$ ,干燥度1.48,无霜期 $1 6 0 \\mathrm { ~ d ~ }$ ,年总辐射量为 $5 5 2 . 6 \\mathrm { ~ k J ~ } \\cdot \\mathrm { ~ c m ~ } ^ { - 2 }$ ，属温带半干旱气候。土壤类型以风沙土为主，土质疏松瘠薄、抗风蚀性能差，植被属于荒漠草原一森林草原的过渡类型。该治沙试验林场由陕西省治沙研究所于1958年建立，并进行了优良固沙植物引种与选育、沙区立地分类和适地适树选择试验，同时结合大面积飞播造林种草，沙化地多年植树造林等综合治理措施，改善了沙地生态环境。到目前为止，区域内植被覆盖率已达 $80 \\%$ 以上,并形成了占地 $2 5 0 0 \\ \\mathrm { h m } ^ { 2 }$ 的试验与示范固沙林区[18],有油松（Pinus tabulae-formis Carr.）、樟子松（Pinus sylvestris L. var. mong-holicaLitv.）狗尾草［Setaria viridis（L.）Beauv.]、杨柴（Hedysarum mongolicum Turcz.）和花棒(HedysarumscopariumFisch.etMey.）等典型固沙植被，同时布设有不同恢复年限样地，这为本研究的开展提供了良好平台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样地选取及采样 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于时空互代法，2017年7月于研究区选择了半固定沙地、恢复年限分别为 $2 3 \\textrm { a } , 3 3 \\textrm { a } , 5 4$ a的灌木固沙林地和乔木固沙林地，共计7种样地。其中乔木林优势种为樟子松，灌木林随恢复年限有油蒿（ArtemisiaordosicaKrasch.）、花棒、杨柴等，具体样地信息见表1。各样地土壤均为风沙土，砂粒含量达 $8 9 . 4 \\% \\sim 9 6 . 5 \\%$ 。不同恢复年限固沙林地均选择3个立地条件基本一致的重复样地，样地间距离大于 $5 0 \\mathrm { ~ m ~ }$ ,并于每个样地内设置 $2 0 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ 的标准采样区。采样前在重复样地内对乔木林（样方面积 $2 0 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ ）、灌木地和半固定沙地（样方面积$1 0 \\ \\mathrm { m } \\times 1 0 \\ \\mathrm { m } \\$ )的植物种类、胸径、高度、盖度和植株密度等植被群落特征进行调查。采样时按照“S”形采样法在标准采样区内选取12个样点，代表固沙林土壤。除去地面枯落物后，用直径 $5 \\ \\mathrm { c m }$ 的土钻钻取。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4566bfbc67f359c5546c0883b85a0f913f15e9901743221f98702c524c7a653.jpg",
+        "table_caption": [
+            "表1样地信息及 $\\mathbf { 0 } \\sim \\mathbf { 1 0 } \\ \\mathrm { c m }$ 土层基本物理化学性质",
+            "Tab.1Information of the sample plots and physiochemical properties of soil in O-10 cm depth "
+        ],
+        "table_footnote": [
+            "注： $\\textcircled{1}$ 灌木 $^ { \\cdot _ { 2 3 } }$ a、灌木 $_ { 3 3 }$ a、灌木 $5 4 ~ \\div$ 分表代表恢复年限为23a、33a.54a的灌木林地;乔木 $_ { 2 3 }$ a、乔木 ${ } _ { \\cdot 3 3 }$ a、乔木 $_ { 5 4 }$ a分别代表恢复年限为23 a $\\cdot ^ { 3 3 }$ a $\\cdot 5 4$ a的乔木林地;灌木地为灌木树种种植密度,乔木林为樟子松的种植密度;同列不同小写字母表示样地间差异显著( $P < 0 . 0 5$ )。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>样地①</td><td>植被覆盖度 1%</td><td>种植密度 /（株数·hm-2）</td><td>容重 /(g·cm-3)</td><td>轻组质量 /%</td><td>重组质量 /%</td><td>pH</td><td>植被优势种</td></tr><tr><td>半固定沙地</td><td>19e</td><td>1</td><td>1.69a</td><td>0.37f</td><td>99.63a</td><td>8.09</td><td>油蒿（Artemisia desertorum Spreng.Syst.Veg.）、 沙竹［Psammochloa villosa（Trin.）Bor.]</td></tr><tr><td>灌木23a</td><td>75d</td><td>870d</td><td>1. 68a</td><td>1.93e</td><td>98.07b</td><td>8.05</td><td>油蒿、杨柴（Hedysarum mongolicum Turcz.）、花 棒（Hedysarum scoparium Fisch.et Mey.）、沙竹</td></tr><tr><td>灌木33 a</td><td>85b</td><td>930c</td><td>1.59bc</td><td>2.25d</td><td>97.75bc</td><td>7.92</td><td>油蒿、花棒、杨柴</td></tr><tr><td>灌木54a</td><td>95a</td><td>820e</td><td>1.52d</td><td>4.08c</td><td>95.92d</td><td>7.71</td><td>花棒、杨柴、猫头刺(Oxytropis aciphylla Ledeb.)</td></tr><tr><td>乔木23a</td><td>80c</td><td>1 231b</td><td>1.69a</td><td>3.87c</td><td>96.13d</td><td>8.08</td><td>樟子松（Pinus sylvestris L．var.mongholica Litv.）紫穗槐（Amorpha fruticosa L.）、狗尾草</td></tr><tr><td>乔木33a</td><td>80c</td><td>1 379a</td><td>1.62b</td><td>6.40b</td><td>93.60e</td><td>8.01</td><td>[Setaria viridis（L.）Beauv.] 樟子松、狗尾草 藜(Chenopodium album L.)</td></tr><tr><td>乔木54 a</td><td>85b</td><td>1 231b</td><td>1.48d</td><td>8.55a</td><td>91.45f</td><td>7.97</td><td>樟子松、狗尾草</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所采土壤样品经过自然风干过 $2 \\ \\mathrm { m m }$ 筛，并弃除留在筛上的植物残体与石砾后备用。同时，在每个标准采样区采用 $1 0 0 ~ \\mathrm { c m } ^ { 3 }$ 环刀测定 $0 \\sim 1 0 \\ \\mathrm { c m }$ 层土样容重，重复3次，用以计算土壤有机碳与全氮密度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤轻重组分离及其有机碳与全氮测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用改进 Strickland 等[19]描述的比重液法分离：称取 $1 0 \\mathrm { ~ g ~ }$ 土样置于 $5 0 ~ \\mathrm { m L }$ 离心管中，加入密度$1 . 7 ~ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ 的碘化钠(NaI)重液 $3 5 ~ \\mathrm { m L }$ ,先于 $2 0 0 \\mathrm { ~ r ~ } \\cdot$ .$\\operatorname* { m i n } ^ { - 1 }$ 震动频率条件下震荡 $^ \\mathrm { ~ 1 ~ h ~ }$ ,然后在 $3 \\ 0 0 0 \\mathrm { ~ r ~ }$ ·$\\operatorname* { m i n } ^ { - 1 }$ 转速下离心 $1 0 ~ \\mathrm { m i n }$ ,最后将浮于重液表面的组分倒入装有孔径为 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 尼龙滤纸的漏斗中，通过真空抽气过滤，留在滤纸上的部分即为轻组土壤。轻组继续用 $7 5 \\mathrm { \\ m L } 0 . 0 1 \\mathrm { \\ m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的氯化钙溶液洗涤抽滤，然后再用 $7 5 ~ \\mathrm { m L }$ 蒸馏水分3～4次冲洗抽滤后，全部转移至铝盒。轻组被提取后，离心管底部沉淀即为土壤重组，先加入 $2 0 ~ \\mathrm { m L }$ 蒸馏水用玻棒搅匀，再在 $3 ~ 5 0 0 \\mathrm { ~ r ~ } \\cdot \\mathrm { ~ m i n } ^ { - 1 }$ 转速下离心 $1 5 ~ \\mathrm { m i n }$ 后弃去上清液，如此反复4次除去重液并将重组转移至铝盒。所得土壤轻组和重组组分在 $6 0 ~ \\mathrm { { ^ { \\circ } C } }$ 下烘干至恒重后称重。全土及轻重组分研磨过 $0 . 1 \\ \\mathrm { m m }$ 筛后采用德国Eelementar元素分析测定有机碳与全氮含量。轻组与重组本身含碳、氮量单位以 $\\mathbf { g } \\cdot \\mathbf { \\mathrm { k g } } ^ { - 1 }$ 表示，再乘以对应所占全土质量百分数，即得到全土中轻组和重组碳氮含量，单位以 $\\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据计算与统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳、氮密度是指单位面积一定厚度土层中有机碳或氮的质量，可以指示土壤有机碳或氮的储量(20]。本文采用公式(1)计算表层土壤全土有机碳、全氮及轻重组碳、氮密度：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = C \\rho D / 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $s$ 表示土壤有机碳或氮的密度( $\\mathrm { \\ m g \\ell } \\cdot \\mathrm { h m } ^ { - 2 }$ ）； $C$ 表示土壤中全土有机碳、全氮及轻重组分碳氮含量（204号 $( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ）； $\\rho$ 表示土壤容重( ${ \\bf \\underline { { g } } } \\cdot { \\bf { \\mathrm { c m } } } ^ { - 3 }$ ）； $D$ 表示土层厚度( $1 0 \\ \\mathrm { c m }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同恢复年限灌木和乔木固沙林土壤轻重组碳、全氮增量对土壤全土有机碳和全氮增量的贡献率以公式(2)计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { \\big ( C _ { \\mathrm { F i \\boxplus \\nmid \\nmid V \\nmid \\nmid \\ L } } - C _ { \\mathrm { F \\nmid \\nmid \\nmid \\nmid \\nmid \\ L } } \\big ) } { \\big ( C _ { \\mathrm { T i \\boxplus \\nmid \\nmid V \\nmid \\ L } } - C _ { \\mathrm { T \\nmid \\nmid \\nmid \\nmid \\nmid \\ L } } \\big ) } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：R表示土壤轻重组碳氮增量贡献率;CF半固定沙地表示半固定沙地土壤轻重组有机碳或氮含量 ${ \\bf \\Xi } ( { \\bf \\Lambda } _ { \\bf g } \\cdot { \\bf \\Lambda } )$ $\\mathbf { k g } ^ { - 1 }$ ） $C _ { \\mathrm { F i } \\boxplus \\cdots \\nmid \\cdots }$ 表示固沙林恢复 $2 3 \\mathrm { ~ a ~ } , 3 2$ a及 $5 4 \\mathrm { ~ a ~ }$ 时对应土壤轻重组有机碳或氮含量 ${ \\bf \\Phi } ( \\mathrm { \\bf \\Phi } _ { \\bf g } \\mathrm { \\bf ~ \\cdot ~ } \\mathrm { \\bf ~ \\underline { { \\bf ~ \\psi } } { \\bf ~ \\cdot ~ } \\bf { \\sigma } } \\mathrm { \\bf ~ k } \\mathrm { \\bf g } ^ { - 1 } \\mathrm { \\bf \\Phi } ^ { \\cdot } )$ ；CT半固定沙地表示半固定沙地全土全有机碳或全氮含量（204号 $( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ）； $C _ { \\mathrm { T i } | \\sharp | \\tilde { \\mathcal { Y } } \\mathcal { k } \\mathcal { k } }$ 表示固沙林恢复 $^ { 2 3 \\mathrm { ~ a ~ } , 3 2 }$ a及54a时对应全土全有机碳或全氮含量 $( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上不同恢复年限固沙林地土壤中全有机碳、全氮及轻重组碳、氮含量、贡献率、密度的差异显著性采用方差分析与Duncan氏新复极差法进行检验（ $\\scriptstyle P < 0 . 0 5 )$ 。土壤有机碳和氮含量年变化速率以有机碳、全氮含量与固沙成林年限的线性回归方程斜率确定。采用Excel2010和SPSS21.0软件进行以上数据结果的统计分析与绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 固沙林土壤轻重组分质量及其含碳、氮量特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相比半固定沙地，从恢复 $2 3 \\sim 5 4$ a土壤轻组质量百分比在灌木林增加了 $4 . 2 \\sim 1 0 . 0$ 倍,在乔木林增幅达到 $9 . 5 \\sim 2 2 . 1 \\$ 倍(表1)。相反地,土壤重组质量百分比随固沙林恢复年限延长呈下降趋势，直到恢复54a时灌木和乔木林土壤重组质量比分别比半固定沙地显著下降了 $3 . 7 \\%$ 和 $8 . 2 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，所有固沙林土壤轻重组分本身含有机碳与全氮量均显著高于半固定沙地(表2）。不同恢复年限乔木林土壤轻组和重组含碳量均表现为 $2 3 \\mathrm { ~ a ~ } <$ $3 3 \\mathrm { ~ a ~ } { < } 5 4 \\mathrm { ~ a ~ }$ ,分别比半固定沙地增加了 $0 . 4 \\sim 0 . 8$ 倍和3.3\\~8.4倍。但灌木林土壤轻组含碳量从恢复23～54a并未显著变化，平均比半固定沙地提高0.9倍；重组含碳量从23a显著增长33a后趋于稳定，比半固定沙地增加了 $3 . 5 \\sim 8 . 2$ 倍。灌木和乔木林土壤轻组含氮量从恢复 $2 3 \\sim 3 3 \\mathrm { ~ a ~ }$ 并未显著增加,但$2 3 \\sim 5 4 \\mathrm { ~ a ~ }$ 时显著升高，分别比固定沙地增加了 $1 . 4 \\sim$ 1.7倍和 $0 . 4 \\sim 0 . 7$ 倍。土壤重组含氮量在灌木林恢复 $2 3 \\sim 5 4$ a 持续显著增加，相对半固定沙地增幅达到 $4 . 5 \\sim 1 3 . 1$ 倍。乔木林土壤重组含氮量则从恢复23\\~33a并未显著增加，直到54a时显著升高，总体比半固定沙地增加了3.5\\~8.2倍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "固沙林土壤组分含碳、氮量的不同程度增加，也导致其C:N比发生显著变化（表2）。从恢复 $2 3 \\sim$ 54a土壤轻组 $\\mathrm { C } : \\mathrm { N }$ 在灌木林降低了 $2 1 . 7 \\%$ \\~$3 1 . 0 \\%$ ,在乔木林保持不变，平均为 $2 0 . 5 \\%$ 。乔木和灌木林土壤重组C:N比均先由恢复23\\~33a显著升高，再到恢复54a时显著下降，分别比半固定沙地显著降低 $1 1 . 4 \\%$ 和 $3 8 . 5 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a92f7e6403282d0b15d947a4dbbe2174fabe0ae8f1d41d5f4a7252eca21aa80d.jpg",
+        "table_caption": [
+            "表2不同恢复年限固沙林土壤轻重组分含碳氮量特征",
+            "Tab.2Contents of organic carbon and nitrogen in soil under sand-fixing forest with diferent regeneration ages "
+        ],
+        "table_footnote": [
+            "注：同列不同小写字母表示样地间土壤含碳量差异显著( $\\textstyle P < 0 . 0 5 .$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样地</td><td>轻组碳</td><td>重组碳</td><td>轻组氮</td><td>重组氮</td><td>轻组碳氮比</td><td>重组碳氮比</td></tr><tr><td colspan=\"4\">/（g·kg-1)</td><td>C/N</td><td>C/N</td></tr><tr><td>半固定沙地</td><td>135.4 ±5.64d</td><td>0.85 ±0.05d</td><td>6.76 ±0.84e</td><td>0.10±0.01d</td><td>20.2 ±1.75a</td><td>8.9 ±0.64b</td></tr><tr><td>灌木23a</td><td>254.5 ±11.40a</td><td>3.85 ±0.60c</td><td>16.15 ±0.82b</td><td>0.55 ±0.05c</td><td>15.8 ±1.54b</td><td>7.0±0.20c</td></tr><tr><td>灌木33 a</td><td>257.6 ±15.26a</td><td>7.86 ±0.81a</td><td>17.54 ±1.46ab</td><td>0.87±0.14b</td><td>14.7 ±0.47bc</td><td>9.2 ±0.57ab</td></tr><tr><td>灌木54a</td><td>250.9 ±21.09a</td><td>7.72 ±0.60a</td><td>18.02 ±1.31a</td><td>1.41 ±0.11a</td><td>13.9 ±0.31c</td><td>5.5 ±0.27d</td></tr><tr><td>乔木23a</td><td>193.5 ±14.24c</td><td>3.68 ±0.41c</td><td>9.71 ±0.85d</td><td>0.58 ±0.06c</td><td>19.9 ±1.50a</td><td>6.3 ±0.47b</td></tr><tr><td>乔木33 a</td><td>224.3 ±1.33b</td><td>6.38 ±0.41b</td><td>10.75 ±0.70cd</td><td>0.65 ±0.02c</td><td>20.9±1.50a</td><td>9.8±0.31a</td></tr><tr><td>乔木54 a</td><td>243.3 ±4.81a</td><td>7.96 ±0.45a</td><td>11.79 ± 1.08c</td><td>1.04 ±0.14b</td><td>20.7 ±1.44a</td><td>7.9 ±0.82c</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：灌木 $^ { \\cdot _ { 2 3 } }$ a、灌木 $_ { 3 3 }$ a、灌木 $_ { \\cdot 5 4 }$ a分表代表恢复年限为23a、33a、54a的灌木林地;乔木 $^ { 2 3 }$ a、乔木 $_ { \\cdot 3 3 \\mathrm { ~ a ~ } }$ 、乔木 $_ { 5 4 } :$ 分表代表恢复年限为23a $\\phantom { + } \\cdot 3 3$ a $\\cdot ^ { 5 4 }$ a的乔木林地;不同小写字母代表不同恢复年限固沙林间有机碳含量差异显著( $\\cdot P < 0 . 0 5 \\$ 。下同。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/952bb077a7865fcd6e38c7801247326a2dd8a7af29831299d48d4590d117568a.jpg",
+        "img_caption": [
+            "图1不同恢复年限固沙林土壤全有机碳、轻重组有机碳含量",
+            "Fig.1Content of organic carbon in soil under sand-fixing forest with different regeneration ages "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 固沙林恢复过程土壤轻重组分碳氮含量演变 特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着恢复年限延长，两种固沙林地土壤全碳及轻、重组碳含量均呈显著增加趋势（图1)。其中乔木林地土壤全碳、轻组碳、重组碳含量均表现为恢复23a $< 3 3$ a $< 5 4$ a，分别比半固定沙地增加了7.4\\~19.7倍 $. 1 4 . 0 \\sim 4 0 . 6 \\$ 倍和 $3 . 2 \\sim 7 . 7$ 倍。灌木林土壤全碳、轻组碳含量也表现出相同增长特征，分别比半固定沙地增加了 $5 . 5 \\sim 1 2 . 1 \\$ 倍和 $8 . 8 \\sim 1 9 . 2$ 倍；但重组碳含量仅在恢复23\\~33a持续增加，到恢复54a时并未显著变化，总体上比半固定沙地增加了3.5\\~8.1倍。可见,两种固沙林均以轻组碳含量增幅最大，对固沙林恢复响应敏感于全土碳和重组碳。同时，相同恢复年限乔木林土壤全碳和轻组碳含量均显著高于灌木林地，表现出更强的固碳效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "固沙林恢复也显著提升了土壤全氮及轻、重组分氮含量(图2）。从恢复 $2 3 \\sim 5 4 \\mathrm { ~ a ~ }$ ,乔木林土壤全氮、轻组氮呈持续增加特征，相对半固定沙地增幅分别达到 $7 . 2 \\sim 1 5 . 7$ 倍和 $1 4 . 5 \\sim 4 0 . 9 \\$ 倍。相同恢复期内，灌木林土壤全氮、重组氮亦呈持续增加趋势，比半固定沙地显著提高了 $6 . 3 \\sim 1 6 . 9$ 倍和 $4 . 4 \\sim$ 12.6倍。但灌木林土壤轻组氮与乔木林土壤重组氮含量从恢复 $2 3 \\sim 3 4$ a并无显著变化,到54a时显著提高，总体比半固定沙地分别增加了 $1 1 . 8 \\sim 2 9 . 1 \\$ 倍和4.6\\~8.5倍。以上分析也显示，两种固沙林轻组氮增幅显著高于全土氮和重组氮，对固沙林植被恢复响应最敏感。另外，固沙林恢复54a时，灌木林重组氮含量显著高于乔木林，使得其全土氮增量比乔木林高出 $4 3 . 1 \\%$ ，表现出较强的固氮效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 固沙林土壤固定碳氮速率 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两种固沙林地全土碳及轻重组碳密度均随固沙林恢复年限延长呈线性增长（图3）。土壤重组碳、轻组碳及全土碳密度增速在灌木林分别为0.20、$0 . 2 6 \\ 、 0 . 4 8 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ h m } ^ { - 2 } \\textbf { } \\cdot \\textbf { a } ^ { - 1 }$ （图3a);在乔木林则达到 $0 . 1 8 \\ 、 0 . 5 7 \\ 、 0 . 7 6 \\enspace \\mathrm { m g } \\cdot \\mathrm { h m } ^ { - 2 } \\enspace \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ （图3b）。可见，两种林地均以轻组碳增速高于重组碳，并且乔木林轻组碳速率达到了灌木林的2.2倍，使得乔木林比灌木林有更高的全土碳增速。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样，两种固沙林地土壤各组分氮密度均与固沙林恢复年限呈线性增长关系（图4）。灌木林土壤重组氮、轻组氮及全土氮密度增速分别为0.04、$0 . 0 2 \\ 、 0 . 0 6 \\ \\mathrm { m g \\cdot h m ^ { - 2 } \\ ^ { . } \\ a ^ { - 1 } }$ （图4a），乔木林则分别为 $0 . 0 2 \\ 、 0 . 0 3 \\ 、 0 . 0 5 \\enspace \\mathrm { m g } \\cdot \\mathrm { h m } ^ { - 2 } \\enspace \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ （图4b）。可见，灌木林土壤重组氮密度固定速率显著高于轻组氮，但乔木林两种氮组分密度增速则无显著差异。并且灌木林重组氮增速是乔木林的2倍，使得灌木",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ca7939d94741859bcc136dd4dc215fefed8f284c3b9c67c1ab25d7b12c99326.jpg",
+        "img_caption": [
+            "注：不同小写字母代表不同恢复年限固沙林间氮含量差异显著 $( P < 0 . 0 5 )$ □"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e407532a24bec50aa6ae9a96d6a13a4427702df25772d59a267c1c2ea703c33.jpg",
+        "img_caption": [
+            "Fig.2Content of total nitrogen in soil under sand-fixing forest with different regeneration ages ",
+            "注： $*$ 和\\*\\*分别表示线性回归方程显著性达到0.05和0.01水平。下同。",
+            "图3灌木与乔木固沙林恢复年限与土壤有机碳密度线性回归关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Linear regresion relationship between regeneration age of sand-fixing forest and soil organic carbon content ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae0e1555bf59303e612ac61b0dcc7b4b454f580aa3d402b1af3a5e5a78491153.jpg",
+        "img_caption": [
+            "图2不同恢复年限固沙林土壤总氮、轻重组氮含量",
+            "图4灌木与乔木固沙林恢复年限与土壤全氮碳密度线性回归分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Linear regression relationship betweenregeneration age of sand-fixing forest and soil total nitrogen cont ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/87697c26b3b682699d148d9c25a8d2dc31bb6edab023c31cf129f3f1d30fcbbc.jpg",
+        "img_caption": [
+            "图5固沙林恢复过程土壤轻重组固定有机碳和全氮的贡献率 ",
+            "Fig.5Contributionrates ofsoilorganiccarboncontentandtotal nitrogencontentduringregeneratingthesand-fixing forest "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "林比乔木林有较高的全土氮固定速率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤轻重组分固定碳氮贡献率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同恢复年限下乔木固沙林轻组碳对土壤全有机碳库增加的贡献率并无显著差异（图5a），平均为$7 3 . 7 \\%$ ,即平均仅有 $2 7 . 3 \\%$ 的全有机碳来自于重组碳。虽然灌木林轻组碳在恢复33a时与重组碳的贡献率无差异，但在恢复前期 $2 3 \\mathrm { ~ a ~ }$ 和后期54a仍以轻组碳贡献为主，平均达到了 $5 9 . 7 \\%$ 。说明轻组碳库是固沙林恢复土壤固存碳的主要形式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5b显示固沙林恢复过程轻重氮对土壤全氮增加的贡献不同于全有机碳库。灌木林不同恢复年限下土壤全氮增加主要来源于重组氮，平均贡献率达到了 $6 3 . 6 \\%$ ,轻组氮平均贡献率仅为 $3 6 . 0 \\%$ 。乔木林在恢复23a时重组氮对土壤全氮增加贡献率显著低于重组氮，但恢复33\\~54a时，轻组氮贡献率平均为 $5 5 . \\ 1 \\%$ ，重组氮贡献率则平均下降到$4 4 . 6 \\%$ ，说明乔木林还是以轻组为主要固存氮组分。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "陕北毛乌素沙地固沙林从半固定沙地到恢复54a表层土壤全有机碳和全氮分别增加了 $5 . 5 \\sim$ 19.7倍和 $6 . 3 \\sim 1 6 . 9$ 倍，显示出极显著的固定碳氮效应，这与大多数植被恢复提升土壤碳氮库的研究结论一致[7,18.21-22]。并且该固沙林表层土壤全有机碳 $( 0 . 6 2 \\mathrm { \\ m g \\ ^ { \\bullet } \\ h m ^ { - 2 } \\ ^ { \\bullet } \\ ^ { - 1 } }$ )与全氮平均固定速率$( 0 . 0 6 \\mathrm { \\ m g \\cdot h m ^ { - 2 } \\cdot ^ { - 1 } } )$ )分别显著高于黄土丘陵区退耕刺槐林地的固碳速率 $( 0 . 2 1 \\mathrm { \\ m g } \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 } \\mathrm { \\Omega } )$ 以及固氮速率 $( 0 . 0 2 \\mathrm { \\ m g \\ ^ { - } \\ h m ^ { - 2 } \\ ^ { - } \\ a ^ { - 1 } } ) ^ { [ \\Omega ] }$ 23]。同时也比腾格里沙漠固沙林恢复的碳氮累积效应更明显[24]。这一方面在于固沙林植被恢复,使得返还于表层土壤植物源碳氮极显著增加，前期研究表明，恢复50a的固沙林地枯落物量能够达到半固定沙地的52.4倍，而黄土丘陵区退耕林恢复39a枯落物比坡耕地增幅仅为23.1倍[25]；另一方面,研究区半干旱季风性水热条件与黄土高原区近似,但明显好于干旱沙漠区，该条件使土壤生物学性状明显提升，土壤容重降低结构改善，加速了有机残体的腐解和养分累积[18]。在这一过程中,研究区乔木林近2倍于灌木林的枯落物归还量也使得其碳固定量高于灌木。郭胜利等研究也得出，黄土区乔木林类凋落物是灌木林类的1.9倍，使得表层土有机碳含量前者是后者的2.3倍[26]。可见,榆林毛乌素沙区沙漠化逆转、植被恢复，使表层土壤有着较强的富集碳氮作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管两种固沙林土壤截存碳氮效应明显，但是54a恢复期内其全有机碳和全氮平均有 $6 4 . 0 \\%$ 和$4 3 . 6 \\%$ 来自活性的轻组分,这一比例显著高于非沙漠化地区的农田[27]、草地[14]、林地[28]中轻组碳$1 0 . 1 \\% \\sim 3 7 . 2 \\%$ 的比例9,也高于轻组氮 $1 1 . 4 \\%$ \\~$1 5 . 9 \\%$ 的比例[14]。说明沙地土壤碳氮库周转较快,稳定性相对不高。这在于沙区较粗的土壤质地，使得返还土壤的有机残体以更多的自由颗粒形式存储于土壤间隙,也就是土壤轻组碳氮组分[9-10]。本研究中土壤轻组本身接近于有机残体的含碳、氮量以及高于重组碳组分的质量增幅、 $\\mathrm { C } / \\mathrm { N }$ 、碳氮含量增幅、碳密度增速、固碳贡献率都证明轻组碳对固沙林恢复显著敏感于重组碳，说明轻组碳可作为固沙林恢复土壤碳库变化的敏感指标和主要固存碳组分库。乔木林土壤轻组质量达到灌木林的2.3倍（表1），也进一步说明了轻组碳的增加导致乔木林有更高的累积碳效应，实际大多数研究也得出乔木林土壤比灌木林土壤有更强的固碳效应(6,25 -26) 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤重组碳氮主要存在于土壤有机-无机复合体的有机质中,主要成分是腐殖质[9-10],在固沙林恢复中起到长期稳定固存碳氮的作用。两种固沙林土壤重组分小于10的C/N说明重组碳氮组分抗分解性相对较强[14]。除了有机物的大量返还土壤外，沙漠化逆转恢复使表层土壤黏粒含量显著提高[29）使得土壤有更大比表面积吸附碳氮，形成有机－无机复合体,也促进了重组碳氮含量的增加[7]。研究区固沙林恢复过程中，灌木林土壤轻重组平均含氮量显著高于乔木林,并且灌木林土壤重组氮密度增速和固氮贡献率显著高于轻组氮，使得重组氮对灌木林土壤氮库增加作用强于乔木林。这与灌木林返还土壤枯落物氮含量总体是乔木林的2倍直接相关，直接来源于枯落物的轻组含氮量在灌木林显著高于乔木林(表1)也印证了这一点。此外，灌木林豆科植物花棒、杨柴也具有固氮作用，这使得固沙灌木林土壤比乔木林有更强的固氮效应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "陕北毛乌素沙地乔木和灌木固沙林54a恢复过程土壤全有机碳分别比半固定沙地提升了19.7倍和12.7倍，土壤全氮则分别提升了15.7倍和16.9倍，说明固沙林植被恢复土壤表现出良好的固碳氮效应，并且乔木林土壤有更强的固碳能力，灌木林则有相对更明显的固氮效应。这种差异直接源于土壤碳氮组分特征及其对土壤碳氮增加贡献的不同。两种固沙林恢复过程均以轻组的质量增幅、含碳氮量、C/N、碳氮含量增幅、碳密度增速、固碳贡献率显著高于土壤重组，表明轻组碳可作为固沙林恢复土壤碳库变化的敏感指标和主要固存碳组分库。乔木林土壤轻组碳含量增幅和碳密度增速平均是灌木林的2.2倍，使得乔木林土壤利于固碳。相对的，固沙林土壤重组C/N较低，属于慢性碳氮库,对于土壤长期稳定固定碳氮有重要作用。灌木林重组氮密度增速和固氮贡献率显著高于土壤轻组氮，并且其含量增幅也显著高于乔木林土壤重组氮，使得灌木林土壤利于固氮。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]屠志方，李梦先，孙涛.第五次全国荒漠化和沙化监测结果及",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析[J].林业资源管理,2016（1）:1-5,13.[Tu Zhifang,Li Mengxian,Sun Tao.The statusand trend analysis of desertification and sandification[J].Forest Resources Management,2016（1）: 1-5,13.]   \n[2]王涛.荒漠化治理中生态系统、社会经济系统协调发展问题探 析——以中国北方半干旱荒漠区沙漠化防治为例[J].生态学 报,2016,36(22）:7 045-7 048.[Wang Tao.Study on the coordinated development of ecosystem and socio-economic system in desertification control：A case study of desertification control in semiarid area in North China[J].Acta Ecologica Sinica,2016,36 (22):7 045 -7 048.]   \n[3］陈泳.“沙进人退\"到\"人进沙退”的壮举—甘肃省防沙治沙 工作综述[J].甘肃林业,2017(4）:11-12.[Chen Yong.“Sand in people retreat”to“people into the sand retreat”feat:Summarizationof anti-esertificationcontrolin GansuprovinceJ.Frestry of Gansu,2017(4) :11-12.]   \n[4]Murty D,Muf K,Mcmurtrie R E,et al.Does conversion of forest to agricultural land change soil carbon and nitrogen:A review of the literature[J].Global Change Biology,2010,8（2）:105-123.   \n[5]Post W M,Kwon K C.Soil carbon sequestration and land-use change:Processes and potential[J].Global Change Biology,2000, 6(3) :317 -327.   \n[6]佟小刚,韩新辉,李娇,等.黄土丘陵区不同退耕还林土壤颗粒结 合态碳库分异特征[J].农业工程学报,2016,32(21)：170-176. [Tong Xiaogang,Han Xinhui,Li Jiao,etal.Variances of carbon storageinsoil particle-sized fractions following conversionofcopland to forest in Loess Hilly Region[J].Transactions of the Chinese Society of Agricultural Engineering,2016,32(21）:170-176.]   \n[7］王迎菊,靳正忠,雷加强,等.人工防护林对风沙土有机碳动力 学的影响[J].干旱区研究,2017,34（3）:495－503.[Wang Yingju,Jin Zhengzhong,Lei Jiaqiang,etal.Effects of artificial shelter forest on dynamic change of organic carbon pool of aeolian sandy soil[J].Arid Zone Research,2017,34(3):495 -503.]   \n[8］张玉兰,陈利军.沙漠化逆转过程中土壤性质演变综述[J].生 态学杂志,2010,29(7）:1 440-1 450.[Zhang Yulan,Chen Lijun.Evolvement of soil properties during reversal of desertification: Research progress[J]. Chinese Journal of Ecology,2010,29（7）: 1 440 -1 450.]   \n[9]武天云，JeffJS,李凤民,等.土壤有机质概念和分组技术研究 进展［J].应用生态学报，2004，15（4）：717－722.〔Wu Tianyun,Jeff JS,Li Fengming,etal. Concepts and relative analytical techniques of soil organic mattr[J]. Chinese Journal of Applied Ecol0gy,2004,15(4）:717-722.]   \n[10]Mvon L,Kögel-KnabnerI,Ekschmitt K,et al.SOM fractionation methods:Relevance to functional pools and to stabilization mechanisms[J].Soil Biology and Biochemistry,2007,39（9）:2 183- 2 207.   \n[11]Leifeld J,Kogel-Knabner I. Soil organic matter fractions as early indicators for carbon stock changesunder different land-use[J]. Geoderma,2005,124(1-2）:143-155. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12]孙宗玖,李培英,杨合龙,等.短期放牧对昭苏草甸草原土壤轻 组及颗粒碳氮的影响[J].水土保持学报，2014，28（5)：147- 152.[Sun Zongjiu,LiPeiying,Yang Helong,et al.Effectsof shortperiod grazing on soil light fraction and particulate carbon and nitrogen in Zhaosu meadow steppe[J]. Journal of Soil and Water Conservation,2014,28(5）:147 -152.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13］蓝家程,肖时珍,林俊清,等.土壤利用方式对岩溶山地土壤轻 组和重组有机碳的影响[J].浙江农业学报,2017,29（10)： 1 720 -1 725.[Lan Jiacheng,Xiao Shizhen,Lin Junqing,etal. Effctofland use types on soil lightand heavyfraction organiccarbon in Karst mountain area[J].Acta Agriculturae Zhejiangensis, 2017,29(10):1 720-1 725.]   \n[14］王合云,董智,郭建英,等.不同放牧强度对大针茅草原土壤全 土及轻组碳氮储量的影响[J].水土保持学报,2015,29（6)： 101 -107.[Wang Heyun,Dong Zhi,Guo Jianying,etal.Effcts of diferent grazing intensities on total and light fraction organic carbon and nitrogen storages of soil in stipa grandis steppe[J]. Journal of Soil and Water Conservation,2015,29(6):101-107.]   \n[15］闫峰,吴波.近40a毛乌素沙地荒漠化过程研究[J].干旱区地 理,2013,36(6）:987-996.[Yan Feng,Wu Bo.Desertification progress in Mu Us Sandy Land over the past 4O years[J].Arid Land Geography,2013,36(6）:987 -996.]   \n[16］刘娟,刘华民,卓义,等.毛乌素沙地1990—2014 年景观格局 变化及驱动力[J].草业科学,2017,34（2）：255-263.［Liu Juan,Liu Huaming,Zhuo Yi,et al.Dynamics and driving forces of landscape patterns in Mu Us Sandy Land,from 1990 to 2014[J]. Pratacultural Science,2017,34(2）:255-263.]   \n[17］熊好琴,段金跃,王妍,等.围栏禁牧对毛乌素沙地土壤理化特 征的影响[J].干旱区资源与环境,2012,26（3）：150－155. [Xiong Haoqin,Duan Jingyue,Wang Yan,et al.Efects of continuous grazing and livestock exclusion on soil properties in a degraded Mu Us Sandy Grassland,Inner Mongolia,Northern China[J]. Journal of Arid Land Resources and Environment,2012,26(3）:150- 155.]   \n[18]Li J,Tong XG,Mukesh KA,et al.Dynamics of soil microbial biomass and enzyme activities along a chronosequence of desertified land revegetation[J].Ecological Engineering,2018,111:22-30.   \n[19]Strickland TC,Sollins P.Improved method for separating light-and heavy-fraction organic material from soil[J].Soil Science Society of America Journal,1987,51(5):1 390-1 393.   \n[20]Zhang C,Liu G,Xue S,et al.Soil organic carbon and total nitrogen storage as affected by land use in a small watershed of the Loess Plateau,China[J]. European Journal of Soil Biology,2013,54: 16 -24.   \n[21］淑敏,姜涛,王东丽,等.科尔沁沙地不同林龄樟子松人工林土 壤生态化学计量特征[J].干旱区研究,2018,35（4）：789- 795.[Shu Min,Jiang Tao,Wang Dongli,etal.Soil ecological stoichiometry under the planted of Pinus sylvestris var.mongolica forests with different stand ages in the Horqin Sandy Land[J].Arid Zone Research,2018,35(4) :789 -795.]   \n[22]刘玉林,朱广宇,邓蕾,等.黄土高原植被自然恢复和人工造林 对土壤碳氮储量的影响[J].应用生态学报,2018,29（7）： 2 163-2 172.[Liu Yulin,Zhu Guangyu,Deng Lei,et al.Effects of natural vegetation restoration and afforestation on soil carbon and nitrogen storage in the Loess Plateau,China[J].Chinese Journalof Applied Ecology,2018,29(7）:2163 -2172.]   \n[23］吴建平,韩新辉,任成杰,等.黄土丘陵区不同恢复年限退耕林 地土壤碳氮差异及其影响因素〔J].西北农林科技大学学报 （自然科学版）,2017,45（6）:123－133.[Wu Jianping,Han Xinhui,Ren Chengjie,etal.Diferences insoil carbonandnitrogen and the influencing factors in abandoned cultivated lands for different years in Loess Hilly Area[J]. Journal of Northwest A&F University（Natural Science Edition）,2017,45(6）:123-133.]   \n[24］贾晓红,李新荣,李元寿.干旱沙区植被恢复中土壤碳氮变化 规律[J].植物生态学报,2007,31（1）:66-74.[Jia Xiaohong， Li Xinrong,Li Yuansou.Soil organic carbon and nitrogen dynamics during the re-vegetation process in the arid desert region[J]. Chinese Journal of Plant Ecology,2007,31(1）:66-74.]   \n[25]Han XH,Zhao F Z,Tong XG,et al. Understanding soil carbon sequestration following the afforestation of former arable land by physical fractionation[J]. Catena,2017,150:317-327.   \n[26]郭胜利,马玉红,车升国,等.黄土区人工与天然植被对凋落物 量和土壤有机碳变化的影响[J].林业科学,2009,45（10）： 14-18.[Guo Shengli,Ma Yuhong,Che Shengguo,et al. Efects of artificial and natural vegetations on litter production and soil organic carbon change in Loess Hill areas[J].Scientia Silvae Sinicae, 2009,45(10):14 -18.]   \n[27］韩晓日,苏俊峰,谢芳,等.长期施肥对棕壤有机碳及各组分的 影响[J].土壤通报,2008,39(4）：730-733.[Han Xiaori,Su Junfeng,Xie Fang,et al.Efect of long-term fertilization on organic carbon and the different soil organic fractions of brown earth[J]. Chinese Journal of Soil Science,2008,39(4):730-733.]   \n[28]Gruneberg E,Scho ning I,Hessenmo ller D,et al. Organic layer and clay content control soil organic carbon stocks in density fractions of differently managed German beech forests[J].Forest Ecology& Management,2013,303（5）:1-10.   \n[29］马建业,佟小刚,李占斌,等.毛乌素沙地沙漠化逆转过程土壤 颗粒固碳效应[J].应用生态学报,2016,27（11）：3487- 3 494.[Ma Jianye,Tong Xiaogang,Li Zhanbin,et al. Carbon sequestration in soil particle-sized fractions during reversion of desertification at Mu Us Sand Land[J]. Chinese Journal of Applied Ecology,2016,27(11) :3 487-3 494.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sequestration Efficiency and Component Characteristics of Soil Carbon and Nitrogen Contents during Restoration of Sand-Fixing Forests in North Shaanxi Province ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hasier'， ZHENG Si-rui²，TU Yi-nan²， WAN Jia-ming²， YANG Mi-mi² HUANG Yue²， YU $\\mathrm { K e } ^ { 2 }$ ， TONG Xiao-gang²   \n(1.Instituteof Soil and WaterConservation,NorthwestA&F University,StateKeyLaboratoryof Soil Erosion and Dry Land Farming on the Loess Plateau,Yangling 71210o,Shaanxi,China;   \n2.College of Nature Resources and Environment,Northwest A&F University,Yangling 71210o,Shaanxi,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The soil samples were collected from $0 - 1 0 ~ \\mathrm { c m }$ topsoil in the semi-fixed sand land and fixed sand land undertheshrubberies and arbor forests regenerated for23-54years inthe MUUSsandy land in North Shaanxi Province.Each soil sample was separated as the light and heavy fractions by density grouping method,and the evolutionand accumulation rates of organic carbon and total nitrogen,C/Nand the characteristics of contribution proportion for sequestrating carbon and nitrogen inthesetwo soil fractions were analyzed.Theresults indicated that the organiccarbon contents in soil light fractionunderthe shrubberies and arbor forests regenerated for 23-54 years increased by14.O-40.6times and8.8-19.2 times respectively,hich were significantlyhigher than those inthe corresponding heavy fractions（3.2-7.7 times and 3.5-8.1 times）.In the same period of vegetation regeneration,thetotal nitrogen contents insoil light fraction underthe arborforestsand shrubberies were increased by14.5- 40.9 timesand11.8-29.1 times respectively,which were also significantly higher than those of the corresponding heavy fractions (4.6-8.5 times and 4.4-12.6 times).These results indicated that the soil organic carbon and total nitrogen in light fraction were more sensitive to thedesertification reversionthan thatinheavy fraction.Increaseof thecontents of organiccarbonand total nitrogen inthe lightfraction and heavy fractionof soil also made the growth rates of organic carbon density of light fraction under the forests and shrubberies reach to $0 . 5 7 ~ \\mathrm { m g } ~ \\cdot$ （204 （204 $\\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 }$ and $0 . 2 6 ~ \\mathrm { m g } \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ respectively. The growth rates of the organic carbon density in heavy fraction under the forests and shrubberies were only $0 . 1 8 ~ \\mathrm { m g } \\cdot \\mathrm { h m } ^ { - 2 } \\cdot \\mathrm {  ~ a ~ } ^ { - 1 }$ and $0 . 2 0 \\mathrm { \\ m g \\cdot \\ h m ^ { - 2 } \\cdot \\ a ^ { - 1 } }$ respectively. Moreover,the growth rates of the total nitrogen density in light fraction reached to $0 . 0 3 \\mathrm { \\ m g \\cdot \\ h m ^ { - 2 } \\cdot \\ a ^ { - 1 } }$ and 0. 02 $\\mathrm { m g \\cdot \\ h m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - }$ ,and hey in heavy fraction reached to $0 . 0 2 \\mathrm { \\ m g \\cdot \\ h m ^ { - 2 } \\cdot \\ a ^ { - 1 } }$ and $0 . 0 4 \\mathrm { ~ m g ~ } \\cdot \\mathrm { ~ h m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,respectively.According to these growth rates ofcarbonand nitrogen fractions,thecarbonof light fractionunderthe forests and shrubberies could contribute $7 5 . 9 \\%$ and $5 9 . 4 \\%$ of the total organic carbon increment respectively during the 54 -year restoration. The nitrogen in heavy fraction could contribute $4 4 . 6 \\%$ and $6 3 . 9 \\%$ of total nitrogen increment respectively. In addition,the $\\mathrm { C } / \\mathrm { N }$ ratios of soil heavy fraction under the two woodlands regenerated for 54 years were significantly reduced by $1 1 . 4 \\%$ and $3 8 . 5 \\%$ respectively compared with those in semi-fixed sand land. However,there was no significant change of $\\mathrm { C } / \\mathrm { N }$ in the light fraction under the forests,and the $\\mathrm { C } / \\mathrm { N }$ in the light fraction under the shrubberies regenerated for 23 - 54 years was decreased by $2 1 . 7 \\% - 3 1 . 0 \\%$ . As a result the qualityof soil carbon pool was improved significantly.Therefore,thesoil of restoration under the sand-fixing forests in North Shaanxi affcted significantly the sequestration of carbonand nitrogen.Moreover,arbor forests has better carbon sequestration ability and shrubberies has better nitrogen sequestration effect. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:sand-fixing forest；restoration process；soil carbon and nitrogen;carbon sequestration；Mu Us sandy land ",
+        "page_idx": 8
+    }
+]

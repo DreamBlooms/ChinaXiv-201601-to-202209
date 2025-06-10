@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "22个木槿品种花粉形态与分类研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵艺璇1，冯琪1，田琳1，张家培1，王鑫1，刘易超1,2，刘冬云1\\*(1．河北农业大学 园林与旅游学院，河北 保定071000；2．河北润丰林业科技有限公司，石家庄050000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为研究木槿(Hibiscus syriacus)不同品种花粉形态的多样性及其亲缘关系，本研究以22个木槿品种的花粉为材料，通过扫描电镜进行形态特征及外壁纹饰观测，然后使用R型聚类分析和主成分分析提取合适的指标进行UPGMA聚类分析。研究结果如下：（1）木槿的花粉均为单粒近球形，直径为 $1 4 8 . 9 8 ~ \\mu \\mathrm { m } - 1 1 1 . 6 5 ~ \\mu \\mathrm { m }$ ；表面具有刺状纹饰，长度为 $2 7 . 4 2 ~ \\mu \\mathrm { m } - 1 4 . 7 9 ~ \\mu \\mathrm { m }$ ，刺先端较尖，细刺周围均匀分布散孔；花粉表面分布有颗粒状突起，萌发孔性状不规则。（2）对测量指标提取主成分后进行 UPGMA聚类分析，当欧氏平均距离阈值为6时，22个木槿品种被分为6大类，单瓣蓝紫色品种‘蓝鸟’、‘单瓣紫粉’、‘细叶’等亲缘关系较近，半重瓣品种‘薰衣草雪纺’、‘中国雪纺’、‘粉色雪纺’等亲缘关系较近，而‘木桥’、‘汉帛’等粉白色单瓣木槿品种亲缘关系相对较近。本研究认为木槿种内蓝紫色品种相对较为原始，白色半重瓣品种次之，紫色半重瓣品种相对较为进化，白色单瓣品种进化程度更高。本研究结果为木槿种内遗传演化、分类地位以及亲缘关系的鉴定提供了依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：木槿，扫描电镜，花粉形态，主成分分析，聚类分析中图分类号：S759.95 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pollen morphology and numerical taxonomy of 22 Hibiscus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "syriacus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Yixuan1，FENG $\\mathrm { Q i ^ { 1 } }$ ，TIAN Lin1, ZHANG Jiapei1，WANG $\\Chi { \\mathrm { i n } } ^ { 1 }$ ， LIU Yichaol1,²,LIU Dongyun1 (1. College ofLandscape and Travel,Hebei Agriculture University,Baoding O710o0,Hebei, China; 2. Hebei Runfeng Forestry Science&Technology Limited Company , Shijiazhuang O5ooo0, China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to study the morphological diversity of HHibiscus syriacus cultivars and their relationships, this study observed morphological characteristics and exine sculpture of $2 2 \\ H .$ syriacus polen grains by scanning electron microscope. Then we used R-type cluster analysis and principal component analysis to extract appropriate indicators for UPGMA cluster analysis.The results were as follows:(1） The pollen of $H .$ syriacus was single-spherical， nearly spherical， with thorn-like ornamentation on the surface.The tip of the thorn was sharp,and the thorns distributed around scattered pores.The pollen surface was distributed with granular protrusions and the apertures were iregular. (2) UPGMA cluster analysis was performed after extracting principal components of the measured indicators. When the Euclidean mean distance threshold was 6, $2 2 \\ H .$ syriacus cultivars were divided into 6 categories.The single-petal blue-violet cultivars 'Bluebird' and'Dan Ban Zi Fen'，'Xi Ye' had close relationships. Semidouble cultivars 'Lavender Chiffon'，'China Chiffon'，'Pink Chiffon' had close relationships,while white single-petal'Wood Bridge' and Hamabo' were relatively close.This study ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "believed that the blue-purple cultivars in $H .$ syriacus were more primitive than the pink and white semidouble cultivars,whlie purple semidouble cultivars were more evolved.The white single-petal cultivars were highly evolved.The results of this study provide theoretical basis for genetic evolution, taxonomic status,and genetic relationship studies in $H .$ syriacus . ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Hibiscus syriacus, scanning electron microscope, pollen morphology, principal component analysis, cluster analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木槿（Hibiscus syriacus）是我国园林绿化常用的灌木或小乔木。木槿花色繁多有纯白、米黄、紫色、粉色、红色等，瓣型有单瓣、半重瓣、重瓣三类，花期极长，可在6-10月连续开花，弥补了我国北方园林绿化中夏季至秋季缺少开花木本植物的不足（刘小冬等，2008）。木槿品种繁多，欧美国家和韩国已培育出200余个品种，常用于欧美园林的有近40余种，但我国对于木槿分类和繁育工作研究较少，缺乏系统深入研究，长时间以来，由于不断的人工杂交和自然选择，使得木槿品种关系混乱，来源不明，亲缘关系模糊，分类与进化关系难以确认。因此，研究木槿品种分类、亲缘关系对于木槿品种间杂交，培育新品种具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同植物的花粉形态差异较大，可以反映出植物的遗传差异性。在遗传基因的控制下，花粉形态具有保守、可靠和稳定的特性（黎怀成等，2018）。国外进行了有关锦葵科植物的胞粉学研究，ELNaggarSM（2010）等人研究了锦葵科10个属21种植物的花粉形态，BiBiN（2010）等人研究了锦葵科6个属下9个种的花粉形态，均认为锦葵科植物花粉的形态性状、花粉外壁表面纹饰对本科内物种划分有很大的参考价值。近年来关于其他科属植物种内花粉形态研究均发现不同种质间花粉形态具有一定差异，可作为划分品种，进行品种间亲缘关系研究的重要依据（张锐等，2018;刘秀丽等，2018；罗乐等，2017）。因此，进行花粉形态观察，进行孢粉学标记研究对于研究植物品种遗传多样性及亲缘关系具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了研究木槿品种间亲缘关系，本试验以22个木槿品种的花粉为材料，通过扫描电镜观察测量其形态差异，根据测量结果进行聚类分析，进而探讨木槿种内亲缘关系，旨在为木槿品种分类和亲缘关系研究提供孢粉学理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取22个品种木槿的成熟花粉为供试材料，品种名称及来源详见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/34e921ad8c9f2ca7a9ecf45d4438edb2e54656fead8a86bd7628d618ccb3f6b5.jpg",
+        "table_caption": [
+            "表1 供试木槿的22个品种名称",
+            "Table 1Names of 22 cultivars of Hibiscus syriacus for test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号 Serial number</td><td>品种名称 Genotype name</td><td>来源 Get</td><td>编号 Serial material from number</td><td>品种名称 Genotype name</td><td>来源 Get material from</td></tr><tr><td>1</td><td>柔粉红心 Hibiscus syriacus‘Rou Fen Hong Xin'</td><td>山东 Shandong</td><td>12</td><td>粉色雪纺 H.syriacus‘Pink Chiffon'</td><td>湖南 Hunan</td></tr><tr><td>2</td><td>玫瑰木槿 H. syriasus‘Duede Brabaul'</td><td>湖南 Hunan</td><td>13</td><td>蓝色雪纺 H. syriacus ‘Blue Chiffon'</td><td>湖南 Hunan </td></tr><tr><td>3</td><td>普通粉色重瓣 H. syriacus ‘Pu Tong Fen Se Chong Ban'</td><td>山东 Shandong</td><td>14</td><td>薰衣草雪纺 H.syriacus‘Lavender Chiffon'</td><td>湖南 Hunan</td></tr><tr><td>4</td><td>紫色法国酒馆 H. syriacus ‘Purple French Carbet’</td><td>湖南 Hunan</td><td>15</td><td>细叶 H. syriacus ‘Xi Ye</td><td>湖南 Hunan</td></tr><tr><td>5</td><td>中国雪纺</td><td>湖南</td><td>16</td><td>汉帛</td><td>湖南</td></tr><tr><td>6</td><td>H. syriacus'China Chiffon' 玛丽娜</td><td>Hunan 浙江</td><td>17</td><td>H. syriacus ‘Hamabo' 粉红巨人</td><td>Hunan 湖南</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/25e5ea6988308b42bcedc33e2f653347f9aa0d21f1b803bfcecbfdc9b0c3e27f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>H._syriacus ‘Marina' 夏威夷</td><td>Zhejiang</td><td></td><td>H. syriacus ‘Pink Giant’ 木桥</td><td>Hunan </td></tr><tr><td>7</td><td>H. syriacus ‘Hawaii' 蓝鸟</td><td>浙江 Zhejiang 湖南</td><td>18</td><td>H. syriacus ‘Wood Bridge' 蓝色锦缎</td><td>湖南 Hunan 湖南</td></tr><tr><td>8</td><td>H.syriacus‘Oiseau Bleu' 紫柱</td><td>Hunan 湖南</td><td>19</td><td>H.syriacus‘Blue Stain' 薄荷</td><td>Hunan 山东</td></tr><tr><td>9 10</td><td>H. syriacus‘Purple Pillar' 胭脂红</td><td>Hunan 湖南</td><td>20 21</td><td>H. syriacus‘Mint' 单瓣紫粉</td><td>Shandong 湖南</td></tr><tr><td>11</td><td>H.syriacus ‘Yan Zhi Hong' 红心 H. syriacus ‘Red Heart'</td><td>Hunan 湖南</td><td>22</td><td>H.syriacus‘Dan Ban Zi Fen' 木槿 Hibiscus syriacus</td><td>Hunan 河北 Hebei</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1花粉采集及不同储藏方法处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择健康无病虫害的木槿样本，采集新鲜花粉，加入 $4 \\%$ 戊二醛溶液浸泡，储存于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中等待检测（ErdtmanG,1978）。每品种采集3个不同单株花朵的花粉，重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2脱水预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电镜观察前，取出待测储藏花粉。首先用去离子水浸泡3次，时长分别为6，7，8min，再经过 $50 \\%$ 乙醇 $1 4 \\mathrm { m i n } {  } 7 0 \\%$ 乙醇 $14 \\mathrm { m i n } {  } 8 5 \\%$ 乙醇 $1 4 \\mathrm { m i n } {  } 9 5 \\%$ 乙醇 $1 5 \\mathrm { \\ m i n } {  } 1 0 0 \\%$ 乙醇 $1 5 \\mathrm { m i n }$ 进行逐级脱水处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3干燥处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "打开二氧化碳临界点干燥仪气阀，制冷到 $1 0 \\ \\mathrm { { ^ \\circ C } }$ ，放入试验样品，充入 $\\mathrm { C O } _ { 2 }$ 液体，静置 $2 7 \\mathrm { m i n }$ 后放出 $\\mathrm { C O } _ { 2 }$ 液体，这个步骤重复3次，然后再次充入 $\\mathrm { C O } _ { 2 }$ 液体，加热 $4 5 \\mathrm { m i n }$ 后关闭总气阀，等待气体全部缓慢放出之后，取出处理后的试验样品。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4电镜观察 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对木槿花粉进行喷金处理后使用HITACHISU8010扫描电镜观察。选取典型花粉粒进行拍照，在 $2 0 0 \\times$ 视野下拍摄花粉群体图像，在 $5 0 0 \\times$ 视野下拍摄花粉个体图像，在 $3 0 0 0 \\times$ 下拍摄花粉局部图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考彭焕文（2018）和刘金兰等（1987）的方法，测量不同花粉直径、刺状凸起长度、两刺间距离等花粉形态指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 SPSS 22.0根据 Tukey检验法对测量指标进行显著性检验。以最小值和最大值表示变异幅度。变异系数（CV） $\\scriptstyle \\% = S \\times 1 0 0 \\% { \\overline { { x } } }$ ，其中， $S$ 为标准差。根据计算所得平均值对所选指标进行R型检验，提取主成分并将所得主成分作为因子进行UPGMA聚类方法分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1花粉的基本特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据彭焕文（2018）及刘金兰等（1987）对锦葵科植物花粉形态分类所使用指标进行测量，分析 22个木槿样本花粉电镜扫描结果。如附件图版I所示，22个品种木槿品种的花粉形态为单粒近球形，表面分布刺状纹饰，刺为圆锥形，先端钝圆，细刺周围均匀分布散孔。花粉表面分布有颗粒状突起，萌发孔形状不规则，细刺脱落后，萌发孔暴露于花粉表面。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4580f876c36fddc0d2e138b0ce346298fcc94d35f9256cd6761ec36a25b19a81.jpg",
+        "img_caption": [
+            "图版Ⅰ 花粉群体观 $( \\times 2 0 0 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.柔粉红心；2.玫瑰木槿；3.普通粉色重瓣；4.紫色法国酒馆；5.中国雪纺；6.玛丽娜；7.夏威夷；8.蓝鸟； 9.紫柱；10.胭脂红；11.红心；12.粉色雪纺；13.蓝色雪纺；14.薰衣草雪纺；15.细叶；16.汉帛；17．粉红巨 人；18.木桥；19.蓝色锦缎；20.薄荷；21.单瓣紫粉；22.木槿。下同。 1.Hibiscus syriacus‘Rou Fen Hong Xin’;2.H. syriacus‘Duede Brabaul’;3.H. syriacus‘Pu TongFen SeChong Ban'; 4.H.syriacus‘Purple French Carbet’;5.H. syriacus‘China Chiffon’；6.H. syriacus‘Marina’;7.H.syriacus ‘Hawai' ; 8.H. syriacus ‘Oiseau Bleu’; 9.H. syriacus‘Purple Pilar';10.H. syriacus‘Yan Zhi Hong';11.H. syriacus‘Red Heart'; 12.H.syriacus‘Pink Chiffon’;13.H.syriacus ‘Blue Chiffon’;14.H.syriacus ‘Lavender Chiffon';15.H.syriacus‘Xi Ye';16.H.syriacus‘Hamabo’;17.H. syriacus‘Pink Giant’ ;18.H. syriacus‘Wood Bridge’ ;19.H. syriacus ‘Blue Stain' ; 20.H.syriacus ‘Mint’ ; 21.H.syriacus ‘Dan Ban ZiFen’ ; 22.Hibiscus syriacus. The same below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/635b685a771cbfd8059ccb7ab0b16e9e3f4b08f2b4eca695e5654cef9b18dc2d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图版ⅡI 花粉个体观 $( \\times 5 0 0 )$ 。 Plate IIIndividual view of pollen( $( \\times 5 0 0 )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/90d29962647dcb840c6a4016f088d3743b874d0b8a87a489e62fb022178c7e59.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ab7dbbcd4dfa7803d950b97cb81c9097172f2ace78fee6d3119f4e61c970f49.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 花粉的大小",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总体而言，木槿花粉均以单粒近球形形式存在，平均直径为 $1 2 2 . 5 4 \\ \\mu \\mathrm { m }$ ，直径这一指标变异系数为 $1 . 0 1 \\%$ 。其中，‘法国紫色酒馆’直径最大，为 $1 4 8 . 9 8 \\ \\mu \\mathrm { m }$ ，‘蓝鸟’直径最小，为 $1 1 1 . 6 5 ~ { \\mu \\mathrm { m } }$ 。2.3 花粉外壁纹饰特征",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "22 种木槿花粉表面均分布有刺状纹饰，刺状纹饰粗细大小不一，且在花粉表面分布状况各不相同。细刺平均长度为 $2 1 . 1 8 ~ \\mu \\mathrm { m }$ ，变异系数为 $1 . 5 6 \\%$ ，‘单瓣紫粉’刺长最长，为 $2 7 . 4 2 ~ \\mu \\mathrm { m }$ ，‘蓝色雪纺’刺长最短，为 $1 4 . 7 9 \\mu \\mathrm { m }$ ；22个品种刺基部宽度为 $1 0 . 4 4 \\mu \\mathrm { m }$ ，变异系数为 $1 . 7 9 \\%$ ，‘薄荷’基部宽度最大，为 $1 3 . 2 6 \\mu \\mathrm { m }$ ，‘紫柱’基部宽度最小，为 $6 . 8 4 \\mu \\mathrm { m }$ ；22个木槿品种两刺距离平均值为 $3 0 . 2 1 ~ { \\mu \\mathrm { m } }$ ，变异系数为 $1 . 1 4 \\%$ ，木槿花粉两刺间距离最大，为 $3 6 . 1 8 \\mu \\mathrm { m }$ ，‘蓝色雪纺’两刺距离最小，为 $2 4 . 0 9 \\mu \\mathrm { m }$ 。对于刺长/刺基部宽这一指标来说，‘紫柱’刺基部长/刺基部宽比值最大，为2.81，说明‘紫柱’花粉表面刺状突起最为细长，‘薄荷’刺长/基部宽比值最小，为1.42，说明‘薄荷’花粉表面刺状突起最为粗短。‘蓝鸟’花粉直径/刺长比值最大，其刺状突起相对较短，‘单瓣紫粉’花粉直径/刺长比值最小，其刺状突起相对较长，从各指标变异系数来看，该指标变异系数最大，为 $2 . 2 4 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/90e218d665d781db5a3232046a704728dbe8f667e3e3e987cbd3961b76c638ce.jpg",
+        "table_caption": [
+            "表222个木槿品种花粉大小及表面纹饰特征",
+            "Table 2Pollen grain size and morphology of 22 Hibiscus syriacus cultivars "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>000</td><td>品种名称 Cultivar</td><td>刺长 Thorn length （μm）</td><td>刺基部宽度 Width of Thorn base （μm）</td><td>两刺距离 Thorn distance （μm）</td><td>花粉直径 Pollen diameter （μm）</td><td>刺长/基部宽 Thorn length/ Width of thron base</td><td>花粉直径/刺长 Pollen diameter/ Thorn length</td></tr><tr><td></td><td></td><td>23.16</td><td>10.39</td><td>31.16</td><td>122.20</td><td>2.23</td><td>5.28</td></tr><tr><td></td><td>玫瑰木槿 H. syriacus ‘Duede Brabaul’</td><td>21.87</td><td>11.37</td><td>33.17</td><td>114.18</td><td>1.93</td><td>5.22</td></tr><tr><td></td><td>普通粉色重瓣</td><td>24.13</td><td>9.97</td><td>30.82</td><td>118.47</td><td>2.42</td><td>4.91</td></tr><tr><td>C</td><td>紫色法国酒馆 H. syriacus ‘Purple French Carbet 中国雪纺</td><td>22.12</td><td>9.51</td><td>31.69</td><td>111.65</td><td>2.33</td><td>5.05</td></tr><tr><td></td><td>H. syriacus‘China Chiffon' 玛丽娜</td><td>22.15</td><td>11.23</td><td>33.89</td><td>115.80</td><td>1.97</td><td>5.23</td></tr><tr><td></td><td>H. syriacus‘Marina' 夏威夷</td><td>18.23</td><td>10.79</td><td>28.36</td><td>119.67</td><td>1.69</td><td>6.57</td></tr><tr><td></td><td>H. syriacus‘Hawai'’ 蓝鸟</td><td>21.40</td><td>8.89</td><td>28.63</td><td>120.81</td><td>2.41</td><td>5.65</td></tr><tr><td>紫柱</td><td>H. syriacus ‘Oiseau Bleu'</td><td>24.56</td><td>12.18</td><td>29.98</td><td>148.98</td><td>2.02</td><td>6.07</td></tr><tr><td>胭脂红</td><td>H. syriacus ‘Purple Pillar'</td><td>19.20</td><td>6.84</td><td>30.49</td><td>117.32</td><td>2.81</td><td>6.11</td></tr><tr><td>红心</td><td>H. syriacus ‘Yan Zhi Hong'</td><td>18.88</td><td>8.15</td><td>29.17</td><td>119.85</td><td>2.32</td><td>6.35</td></tr><tr><td></td><td>H. syriacus ‘Red Heart'</td><td>18.65</td><td>10.91</td><td>28.91</td><td>120.92</td><td>1.71</td><td>6.48</td></tr><tr><td>粉色雪纺</td><td>H.syriacus‘Pink Chiffon'</td><td>21.35</td><td>10.16</td><td>31.69</td><td>118.78</td><td>2.10</td><td>5.57</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/90eb888a7e64335de42df0d56e09c1ef6744ec077aecf8e088dca2e26b9e7365.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>蓝色雪纺 H.syriacus‘Blue Chiffon'</td><td>14.79</td><td>10.71</td><td>24.09</td><td>141.03</td><td>1.38</td><td>9.54</td></tr><tr><td>薰衣草雪纺</td><td>23.54</td><td>12.13</td><td>31.76</td><td>123.70</td><td>1.94</td><td>5.26</td></tr><tr><td>H.syriacus ‘Lavender Chiffon’</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>细叶 H. syriacus ‘Xi Ye'</td><td>19.59</td><td>8.46</td><td>32.60</td><td>116.38</td><td>2.31</td><td>5.94</td></tr><tr><td>汉帛</td><td>19.87</td><td>10.95</td><td>26.69</td><td>124.05</td><td>1.82</td><td>6.25</td></tr><tr><td>H. syriacus ‘Hamabo' 粉红巨人</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>H.syriacus ‘Pink Giant'</td><td>19.09</td><td>8.61</td><td>26.11</td><td>120.40</td><td>2.22</td><td>6.31</td></tr><tr><td>木桥</td><td>22.48</td><td>11.12</td><td>29.35</td><td>111.80</td><td>2.02</td><td>4.97</td></tr><tr><td>H.syriacus‘Wood Bridge' 蓝色锦缎</td><td></td><td>10.73</td><td>29.51</td><td></td><td></td><td></td></tr><tr><td>H.syriacus ‘Blue Stain' 薄荷</td><td>22.27</td><td></td><td></td><td>114.33</td><td>2.07</td><td>5.14</td></tr><tr><td>H. syriacus‘Mint'</td><td>18.91</td><td>13.26</td><td>33.18</td><td>146.60</td><td>1.42</td><td>7.75</td></tr><tr><td>单瓣紫粉 H.syriacus‘Dan Ban Zi Fen'</td><td>27.42</td><td>10.95</td><td>27.17</td><td>125.53</td><td>2.50</td><td>4.58</td></tr><tr><td>木槿</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hibiscus syriacus</td><td>22.23</td><td>12.29</td><td>36.18</td><td>123.47</td><td>1.81</td><td>5.56</td></tr><tr><td>平均值Mean</td><td>21.18</td><td>10.44</td><td>30.21</td><td>122.54</td><td>2.07</td><td>5.90</td></tr><tr><td>标准差SD</td><td>0.33</td><td>0.19</td><td>0.35</td><td>1.24</td><td>0.01</td><td>0.01</td></tr><tr><td>最小值Minimum</td><td>14.79</td><td>6.84</td><td>24.09</td><td>111.65</td><td>1.38</td><td></td></tr><tr><td>最大值Maximum</td><td>27.42</td><td>13.26</td><td>36.18</td><td></td><td></td><td>4.58</td></tr><tr><td></td><td></td><td></td><td></td><td>148.98</td><td>2.81</td><td>9.54</td></tr><tr><td>极差Range</td><td>12.63</td><td>6.42</td><td>12.09</td><td>37.33</td><td>1.43</td><td>4.96</td></tr><tr><td>变异系数CV（%)</td><td>1.56</td><td>1.82</td><td>1.16</td><td>1.01</td><td>0.48</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.422个木槿品种6个花粉形态R型聚类分析和主成分分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "R 型聚类分析可分析所选取指标之间有无相关性，从而选取代表性强的性状指标进行下一步分析。由图1R型聚类分析结果可知，图中各性状指标较为分散，说明选取指标较为合理，可用于下一步Q型聚类分析。对测定的6个木槿花粉外壁形态指标提取主成分，进行主成分分析。结果表明，测定的6个形态指标可以被划分为2个主成分。第一主成分包括刺长、花粉直径、刺长/刺基部直径和花粉直径/刺长4个指标，其中，贡献率较大的为花粉直径/刺长和刺长/刺基部宽2个指标；第二主成分包括刺基部直径和两刺距离2个指标。这6个指标累积贡献率可达 $7 7 . 6 1 1 \\%$ ，说明可以较为完整地反映出木槿花粉外壁形态指标信息。综合R型聚类分析结果和主成分分析结果来看，选取的6个形态指标具有代表性，可用于对木槿花粉进行Q型聚类分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.422个木槿品种花粉外壁形态的聚类分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据这6个指标对22种花粉进行Q型聚类分析。欧氏平均距离阈值为6时，22个木槿品种被分为6大类，第1类仅‘蓝色雪纺’，第2类仅‘薄荷’1个品种，这两类花粉形态具有刺基部相对较宽、花粉直径和花粉直径/刺长值较大的特点；第3类包含‘蓝鸟’1个品种，第4类包含‘单瓣紫粉’1个品种，该品种花粉刺长较短，刺基部宽，两刺距离较长，花粉直径较大，刺长/基部宽值较小，花粉直径/刺长值较大；第5类包括‘紫柱’、‘细叶’、‘粉红巨人’和‘胭脂红’4个单瓣粉紫色木槿品种，第5类花粉中4个品种木槿花粉刺长/基部宽值均相对较大；第6类花粉刺长/基部宽值相对较小，花粉直径/刺长值相对较大，主要包括‘红心’、‘汉帛’、‘木桥’等粉白色单瓣品种，‘法国紫色酒馆’、‘玫瑰’、‘薰衣草雪纺’3个紫色半重瓣品种以及‘粉色雪纺’和‘中国雪纺’2个粉白色半重瓣品种。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a255c8407ad337d903b909de846f7eba423c83a45afd94ceff445a041b5b91e1.jpg",
+        "img_caption": [
+            "图1R型聚类分析图",
+            "Fig.1Dendrogram of R-type clustering analysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表3木槿品种各指标的特征值和贡献率",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf45ada88d8c1e796f21c7ad989a6f6ef661fdfbc425632dcb88cab7fbcb99b0.jpg",
+        "table_caption": [
+            "Table 3Eigenvalue and contribution rate of test indexes of Hibiscus syriacus "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">主成份 Principal</td><td colspan=\"6\">初始特征值 Initital eigenvalue</td></tr><tr><td>特征值</td><td>贡献率</td><td>累积贡献率</td><td>特征值</td><td>贡献率</td><td>累积贡献率</td></tr><tr><td>Eigenvalue</td><td>Contribution rate (%)</td><td>Cumulative contribution rate（%）</td><td>Eigenvalue</td><td>Contribution rate (%)</td><td>Cumulative contribution rate（%）</td></tr><tr><td>1</td><td>2.839</td><td>47.317</td><td>47.317</td><td>2.839</td><td>47.317</td><td>47.317</td></tr><tr><td>2</td><td>1.818</td><td>30.294</td><td>77.611</td><td>1.818</td><td>30.294</td><td>77.611</td></tr><tr><td>3</td><td>0.817</td><td>13.61</td><td>91.222</td><td></td><td></td><td></td></tr><tr><td>4</td><td>0.506</td><td>8.431</td><td>99.653</td><td></td><td></td><td></td></tr><tr><td>5</td><td>0.015</td><td>0.247</td><td>99.901</td><td></td><td></td><td></td></tr><tr><td>6</td><td>0.006</td><td>0.099</td><td>100</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4主成分分析规格化特征向量",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b16da53978c2caaba3cc114bdd77bef0b862d9a30ee8e2d9035fb0b24290dc6.jpg",
+        "table_caption": [
+            "Table 4Characteristic vector of normalization by principal component analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">主成份 Principal component</td></tr><tr><td>刺长</td><td>1</td><td>2</td></tr><tr><td>Thorn length</td><td>-0.681</td><td>0.576</td></tr><tr><td>刺基部直径</td><td>0.398</td><td>0.889</td></tr><tr><td>Width of thorn base 两刺距离</td><td></td><td></td></tr><tr><td>Thorn distance</td><td>-0.356</td><td>0.599</td></tr><tr><td>花粉直径</td><td></td><td></td></tr><tr><td>Pollen diameter</td><td>0.731</td><td>0.29</td></tr><tr><td>刺长/基部宽</td><td></td><td></td></tr><tr><td>Thorn length/Width of thorn</td><td>-0.833</td><td>-0.394</td></tr><tr><td>base</td><td></td><td></td></tr><tr><td>花粉直径/刺长 Pollen diameter/ Thorn length</td><td>0.929</td><td>-0.311</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图中纵坐标1-22分别代表22个木槿品种编号，详见表1。   \n1-22 on the ordinate represent 22 Hibiscus syriacus cultivars,see details in Table 1. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3926bc34d314195c357d0dd88158785ec1da8a6af6ead8c133e47bb3c82324a.jpg",
+        "img_caption": [
+            "遗传距离Geneticdistance ",
+            "图222个木槿品种的花粉形态聚类图",
+            "Fig. 2Pollen morphology dendrogram of 22 Hibiscus syriacus cultivars "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1关于木槿花粉系统进化特征",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "花粉体积越小，对植物体营养竞争越小，进化程度越高（杨晨漩等，2014；周守标等,2005）。22种木槿花粉直径范围为 $1 4 8 . 9 8 ~ \\mu \\mathrm { m } - 1 1 1 . 6 5 ~ \\mu \\mathrm { m }$ ，属于大粒花粉。花粉壁表面纹饰特征可以反映植物进化规律，一般来说，花粉表面平滑的较为原始，其次为花粉表面为颗粒状突起，再到棒状、刺状，最终演化为网状、皱波状及条纹状。花粉进化趋势为大型、表面粗糙到小型表面光滑。综合来看，木槿花粉为大粒近球形花粉，花粉萌发孔属于单一的不规则萌发孔，表面均分布有粗细长短不一的刺状纹饰，属于进化程度较低的植物类群。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2关于木槿在锦葵科内进化地位",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "花粉形态受遗传基因控制，具有稳定性，受外界环境因子影响较小，因此孢粉学标记可用作植物分类和亲缘关系分析的重要依据。在分类水平较高的科与亚科之间，花粉形态差异较大，而在同科不同属中，各种之间差异较小，而各品种之间遗传差异则更小，相似点更多。前人已有研究表明，在锦葵科内，花粉外壁纹饰进化趋势为从中等大小到体积增大，从3孔沟到多散孔，从基部膨大短尖刺到基部平长尖刺（孙京田等，1993；ELNAGGARSM,2004；EINAUUARSM&SAWADYN,2008；彭焕文等，2018）。本试验中所观察木槿品种体积较大，表面分布有不规则散孔，刺细长且基部平坦，符合锦葵科内较进化种的花粉外壁纹饰特征，因此，木槿在本科内属于进化程度较高的",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "类群。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3关于木槿花粉形态研究的分类学意义",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "根据R型聚类分析和主成分分析得出的6个木槿花粉外壁形态指标对22个木槿品种进行聚类分析是对变量进行分类处理。结果发现，木槿花粉聚类分析结果与其花形态指标有一定的相关性。在第5类中，单瓣蓝紫色品种‘蓝鸟’‘单瓣紫粉’‘细叶’、‘粉红巨人’单独聚为一类，说明花粉形态特征与其花色花型具有一定相关性。肖芬等（2019）利用形态学标记、孢粉学标记及ISSR分子标记对27个木槿品种亲缘关系进行了综合分析，其研究得出27个木槿品种形态学、孢粉学以及ISSR分子标记分析结果具有一定相似性，与本试验研究结果具有一致性。张铮和史刚荣（2009）从木材解剖学角度研究了5个品种木槿进化关系，该研究认为,紫花单瓣木槿属于最为原始的类群，紫花单瓣木槿在分化出牡丹木槿的基础上再分化出了紫花重瓣木槿。在本研究中，当欧氏平均距离阈值为3时，木槿与半重瓣品种‘薰衣草雪纺’、‘中国雪纺’和‘玫瑰’聚为一类，而‘薰衣草雪纺’、‘中国雪纺’、‘玫瑰’和牡丹木槿在形态上具有高度相似性，均属于粉色半重瓣品种，因此说明这3个品种是紫色单瓣木槿最初分化得来的，相对较为原始。粉白色单瓣品种如‘木桥’、‘汉帛’、‘红心’遗传关系较近，但和木槿遗传关系相对较远，说明此花型品种相对较为进化，由此推测较其他花型品种来说，白色单瓣品种进化程度相对较高。由于木槿是本种的原种，而木槿与其他单瓣蓝紫色品种遗传关系较近，因此本研究认为木槿种内蓝紫色品种相对较为原始，白色半重瓣品种次之，紫色半重瓣品种相对较为进化，白色单瓣品种与木槿遗传关系较远，相对于其他花形态的木槿进化程度更高。木槿花粉形态与其花形态存在一定联系，而花形态可能会受外界环境因子影响，两者可共同作为木槿系统分类标准。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "总体而言，木槿属于相对较为原始的类群，但在锦葵科内，木槿属于较为进化的类群，其花粉形态与花色花型具有一定的相关性。花粉外壁纹饰受基因控制，具有一定的稳定性（赵娜，2014），但单凭孢粉学作为判断品种间亲缘关系及分类依据，还不够全面，存在一定局限性，在今后研究中需要结合形态学标记、分子标记等多方面研究对其进行综合分析。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BIBI N,AKHTAR N, HUSSAIN M, et al.,2010. Systematic implications of polen morphology in the family Malvaceae from north west frontier province, Pakistan[J]. Pakistan J Bot, 42(4): 2205-2214.   \nEI NAUUAR SM, SAWADY N, 2008. Polln morphology of Malvaceae and its taxonomic significance in Yemen[J]. Flo Medit,18: 431-439.   \nEL NAGGAR S M, 2004. Pollen morphology of Egyptian Malvaceae: An assessment of taxonomic value[J]. Turkey JBot, 28: 227-240.   \nERDTMAN G,1978.The Plant Surface[M]. Beijing: Science Pres: 238.[ERDTMAN G,1978.孢粉学手册 [M]．北京：科学出版社:238.]   \nLI HC,XU B, GAO XF,2018.Pollen morphology and its taxonomic significance for Desmodium Desv. in China[J].ChinJAppl Environ Biol,24(6):1330-1337.[黎怀成，徐波，高信芬,2018．国产山蚂蝗属植物 花粉形态及其分类意义[J]．应用与环境生物学报,24(6):1330-1337.]   \nLIU JL,LAN SY,NIE YC,1987. A study on the morphology and structure of polen grains of 16 species of Gossypium[J].Sci Agric Sin,(6): 34-38.[刘金兰，兰盛银，聂以春,1987．棉属(Gossypium)不同棉种花 粉形态和结构研究[J].中国农业科学,(6):34-38.]   \nLIU N,2011.Pollen morphology[J]. BullBio,46(9):13-14.[刘宁,2011，花粉的形态[J]．生物学通报,46(9): 13-14.]   \nLIU XD, JIANG WB,WENG ML,2008. On Tree Species of Hibiscus Linn and their Application in landscape architecture[J].Chin Agric Sci Bul,2008(8):315-320.[刘小冬，姜卫兵，翁忙玲,2008．论木槿属树种及 其在园林绿化中的应用[J]．中国农学通报,2008(8):315-320.]   \nLIU XL,CHEN J, WANG CY,2018. The research on pollen morphology and numerical taxonomy of 37 Yulania varieties[J].Mol Plant Breed,16(7): 2389-2400.[刘秀丽，陈金金，王晨宇,2018.37个玉兰品种 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "的花粉形态及数量分类研究[J]．分子植物育种,16(7):2389-2400.] LUO L, ZHANG QX,YU C, et al., 2017. Polen morphology analysis of 29 Rosa germplasm[J]. Acta Bot Boreal-Occident Sin,37(5):885-894.[罗乐，张启翔，于超，等,2017.29 个蔷薇属植物的孢粉学研究[J]. 西北植物学报,37(5):885-894.] PENG HW, ZHOU SJ,HE XJ,2018. Polen morphology of 26 taxa from 15 genera of Malvaceae in China and its systematic significance[J].Acta Bot Boreal-Ocident Sin,38(10): 1832-1845.[彭焕文，周颂东，何兴金,   \n2018．中国锦葵科15属 26个分类群植物花粉形态及其系统学意义[J]．西北植物学报,38(10):   \n1832-1845.] PRFVEEN A, SIDDIQUI S,FATIMA A, et al.,1994. Pollen flora of Pakistan-1. MalvaceaeJ].Pakistan JBot,   \n26(2): 421-440. QI XJ,WANG R,LAN YP, et al.,2017. Morphologic study of pollns of three cultivated Actinidia species by scanning electron microscopy[J].JFruit Sci,34(11):1365-1373.[齐秀娟，王然，兰彦平,等,2017.3个猕 猴桃栽培种花粉形态扫描电镜观察[J]．果树学报,34(11):1365-1373.] SUN JT, XIE YB, YANU DK,et al.,1993. TEM observation of the ultramicorstructures of the pollen grain wall of Malvaceae Plants[J].J Shandong Norm Univ (Nat Sci Ed),8(3): 91-95.[孙京田，谢英渤，杨德全, 等,1993．锦葵科植物花粉壁的超微结构观察[J]．山东师大学报(自然科学版),8(3):91-95. SUN Y,DING SQ,SHI YM, et al,2019.Pollen morphologyof 15 cultivars of Freesia hybrida[J].Bull Bot Res,39(1):19-28.[孙忆，丁苏琴，史益敏，等,2019.15 个小苍兰品种的花粉形态研究[J]．植物研究,   \n39(1): 19-28.] XIAO F,2019.The research on classfication of27 Hibiscus cultivars[D]. Changsha: Central South University ofForestry and Technology.[肖芬,2019.27 个木槿品种分类研究[D]．长沙：中南林业科技大学.] XIONG X H, ZHOU X M, LI M, et al., 2019. Polen morphology in Rubus,(Rosaceae)and its taxonomic implications[J]. Plant Sys Evol: 305(8), 705-716. YANG CX,CHEN L,WANG J, et al.， 2014. Pollen morphology of the Chinese endemic Clematoclethra (Actinidiaceae)and its taxonomic implications[J].Plant Divers Res,36(5): 569-577.[杨晨漩，陈丽，王娟, 等,2014.中国特有属藤山柳属的花粉形态及其分类学意义[J]．植物资源与分类学报,36(5):569-577.] ZHAO N,2014. Study on morphology and chromosome karyotype of distant hybridization progenies and their parents of tree peony[D].Beijing: Beijing Forestry University.[赵娜,2014．牡丹远缘杂交后代及亲本形 态与核型研究[D]．北京：北京林业大学.] ZHANG R, MAO MM,LIU ZL, et al.,2018. SEM observation of pollen morphology of different ornamental crabapple varieties[J].Mol Plant Breed,16(16): 5407-5414.[张锐，毛萌萌，刘振林,等,2018．观赏海棠 不同品种花粉形态扫描电镜观察[J].分子植物育种,16(16):5407-5414.] ZHANG Z, SHI GR,2009. Wood comparative anatomy of five intraspecies of Hibiscus syriacus[J]. Guihaia,   \n29(02):182-186.[张铮，史刚荣,2009．木槿5个种下类群木材的比较解剖学[J]．广西植物,29(02):   \n182-186.] ZHOU SB,YU BQ,LUO Q,et al.,2005.Pollen morphology of Lycoris Herh and its taxonamic significance[J]. Acta Hortic Sin,32(5):914-917.[周守标，余本祺,罗琦，等,2005．石蒜属植物花粉形态及分类研究[J]. 园艺学报,32(5): 914-917.] ",
+        "page_idx": 13
+    }
+]

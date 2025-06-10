@@ -1,0 +1,426 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201705130884 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阎欣，安慧.土壤非保护性有机碳对荒漠草原沙漠化的响应.生态学报,2018,38(8);2846-2854. YaX,AnHspotedcttdctc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤非保护性有机碳对荒漠草原沙漠化的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阎欣,安 慧 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宁夏大学西北土地退化与生态恢复省部共建国家重点实验室培育基地/西北退化生态系统恢复与重建教育部重点实验室，银川750021摘要：沙化草地的恢复与重建是干旱半干旱区生态建设的重要内容,分析荒漠草原沙漠化过程中土壤非保护性有机碳分配比例的变异规律对于探讨沙化草地恢复机制具有重要的理论价值。以干旱、半干旱地区荒漠草原不同沙化阶段的土壤为研究对象，分析土壤粗颗粒有机碳、细颗粒有机碳、轻组有机碳含量和分配比例的分布特征、土壤非保护性有机碳转化为保护性有机碳的速率。结果表明:荒漠草原发生逆向演替后,土壤细颗粒有碳含量和分配比例表现为固定沙地>荒漠草地>半固定沙地>流动沙地;粗颗粒有机碳含量表现为荒漠草地 $. >$ 半固定沙地 $>$ 流动沙地 $>$ 固定沙地，粗颗粒有机碳分配比例表现为流动沙地 $>$ 半固定沙地>荒漠草地>固定沙地;轻组有机碳含量和分配比例递减。颗粒有机碳、轻组有机碳、土壤有机碳对草地沙漠化的敏感性不同,颗粒有机碳较轻组有机碳和土壤有机碳敏感性强,其中细颗粒有机碳较粗颗粒有机碳敏感性强。随着草地沙漠化程度的增强土壤非保护性有机碳分配比例呈下降趋势,表明草地沙漠化降低土壤质量。荒漠草地退化至流动沙地土壤非保护性有机碳转化为保护性有机碳的速率整体呈上升趋势。 八",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：颗粒有机碳;轻组有机碳;非保护性有机碳;沙漠化;荒漠草原 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response of unprotected soil organic carbon to desertification in desert grassland {AN Xin，AN Hui \\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BredingaseforStateKeyLboatorfLndegadtidEologiclRestoratioinestCinaMinistrofducatioKeybatof Restoration and Reconstructionof Degraded Ecosystem in Northwest China，Ningxia University，Yinchuan 75021，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Therestorationandreconstructionof desertification grasland inaridand semiaridregionarecritical constituents of regional ecologicalconstruction.Changesofunprotectedsoilorganiccarbonindiferentdesertificationstagesof desert grasland isimportant in discussing the mechanism of desertification grassand.The characteristicsof the content and proportion of coarse particulate organic carbon（CPOC），fine particulate organic carbon（FPOC），light-fraction organic carbon（LFOC）and the rate constant for C transferring from the unprotected to the protected soil pool $( k )$ in different desertification stages of desert grassland inaridand semiaridregion were studied.Theresults demonstratedthatduring the desertification process of desert grassand，the rank of the content and proportion of FPOC was fixed dunes $>$ grasslands $>$ semi-fixed dunes > mobile dunes， the rank of the CPOC content was grasslands $>$ semi-fixed dunes $>$ mobile dunes $>$ fixed dunes；and the rank of the CPOC proportion was mobile dunes $>$ semi-fixed dunes $>$ grasslands $>$ fixed dunes. The LFOC contentand proportion decreased graduallyduring thedesertification processof desert grassland.Particulate organiccarbon （POC）was more sensitive to desertification grassand than LFOC and SOC，and FPOC was more sensitive than CPOC, LFOC and SOC.The proportion of unprotected soil organic carbon decreased gradually during the deserification processin desert grassand，which indicated thatthere wasadecrease insoil quality.Therateconstant for C transferring fromthe unprotected to the protected soil pool $( k )$ increased gradually during the desertification process in desert grassland（from grasslands to mobile dunes）. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:particulateorganic carbon；light-fraction organic carbon；unprotected soil organiccarbon；desertification; desert grassland ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳(SOC)对生态系统功能维持和土壤质量保持具有重要作用[1]。土壤有机碳储量是土壤有机碳输入与分解动态平衡的结果[2]。土壤有机碳因其结构复杂和高度异质,周转速率几年到几千年不等,因此土壤有机碳组分的研究是探知土壤有机碳对人为干扰和全球变化响应的重要环节。根据土壤有机碳稳定性及周转速率,土壤有机碳可分为惰性(50—5000a）、缓效性(5—50a)及活性(0.1—4.5a)土壤有机碳库[3]。其中,惰性有机碳库是指存在于土壤中的惰性碳和极难分解的被物理保护的部分有机碳,其化学和物理性质非常稳定;缓效性有机碳活性介于活性和惰性碳库之间,也被称为难分解有机碳;活性有机碳只占土壤有机碳的$7 \\% - 3 2 \\%$ ,在土壤中移动比较快、不稳定、易氧化、分解、易矿化,它即可参与土壤物质交换过程也可随溶剂运动从而参与更大范围的碳循环,是土壤有机碳的活性部分[4]。土壤活性有机碳较其他两种有机碳对环境变化更敏感,是土壤潜在生产力和土地管理引起的土壤碳库变化的早期预警指标。不同研究获得的活性有机碳组分不同,Blair等[5]认为能被 $3 3 3 \\mathrm { m m o l / L \\ K M n O _ { 4 } }$ 氧化的部分为活性有机碳;柳敏等[6]指出易被土壤微生物利用与转化的物质为活性有机碳;而杨慧等[7]直接利用土壤有机碳矿化量估值土壤活性有机碳量。尽管研究目的、实验方法不同,但根据实验方法的性质及所获得组分的差异,这些方法可分为物理、化学及生物学3种，其中物理分组方法对土壤破坏较小,是研究土壤活性有机碳的主要方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活性有机碳物理分组方法主要利用土壤有机碳与矿物质结合的粒径大小或土壤有机碳在重液中的离散程度分为颗粒有机碳（POC， $5 3 - 2 0 0 0 \\mu \\mathrm { m }$ )和轻组有机碳(LFOC）。颗粒有机碳和轻组有机碳因缺乏物理、生物等保护成分,周转速率快,又被称为非保护性有机碳[8]。土壤非保护性有机碳对土壤碳源输入量、土壤结构改变响应敏感[9]。当生态系统发生正向演替或逆行演替时,土壤结构和性质发生剧烈变化,如土壤非保护性有机碳含量和土壤稳定性改变。与森林生态系统相比,耕地和裸地土壤轻组有机碳含量降低[10];林地转变为草地或耕地增加了颗粒有机碳、轻组有机碳和非保护性有机碳分配,降低了土壤稳定性[11]。草地恢复成林地保护性有机碳和颗粒有机碳含量的增加是土壤有机碳增加的主要原因[12]。因此,土壤保护性有机碳与非保护性有机碳间的相互转化是研究土壤有机碳变化和稳定性机制的关键。以往的研究主要集中在农田耕作、施肥管理对土壤颗粒有机碳、轻组有机碳演变特征[3-16],不同土地利用方式土壤非保护性有机碳的变化特征[1,17]、放牧与围封草地轻组有机碳的变化特征[18-19],但荒漠草原沙漠化对土壤非保护性有机碳组分的研究较少。因此,本研究以干旱、半干旱地区荒漠草原不同沙漠化阶段土壤为研究对象,分析荒漠草原沙漠化过程中土壤粗颗粒有机碳、细颗粒有机碳和轻组有机碳含量和分配比例的变异规律,探讨荒漠草原沙漠化过程中土壤非保护有机碳及碳库稳定机制,以期为荒漠草原生态系统的恢复提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况和研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于宁夏回族自治区盐池县花马池镇皖记沟村 $( 3 7 ^ { \\circ } 4 9 ^ { \\prime } \\mathrm { ~ N ~ } , 1 0 7 ^ { \\circ } 2 7 ^ { \\prime } \\mathrm { ~ E ~ } )$ 。该区地处陕、甘、宁、蒙四省(区)交界带,属鄂尔多斯台地向黄土高原过渡地带,海拔1411— $1 4 3 5 \\mathrm { m }$ ,地势南高北低。气候属于典型大陆季风气候,年平均气温 $8 . 2 \\%$ ,温差较大,最热月和最冷月分别为7月（平均气温 $2 2 . 4 \\mathrm { ^ { \\circ } C }$ )和1月(平均气温$- 8 . 7 \\%$ )。年均降水量为 $2 8 0 \\mathrm { m m }$ ,集中于7一9月份,且年际变幅大,多年潜在蒸发量 $2 7 1 0 \\mathrm { m m }$ ,是年降雨量的9—10倍。年无霜期为 $1 6 5 \\mathrm { d }$ 。年平均风速 $2 . 8 \\mathrm { m / s }$ ,冬春风沙天气较多，每年 $1 7 \\mathrm { m / s }$ 的大风日数为 $2 4 \\mathrm { d }$ 。研究区土壤类型以地带性的灰钙土和淡灰钙土为主,土壤结构松散,粒径组成主要为细砂粒( $( 1 0 0 - 2 5 0 \\mu \\mathrm { m }$ ）、极细砂粒 ${ \\mathop { \\bf \\left( 5 0 - 1 0 0 \\mu \\mathrm { m } \\right) } } =$ ）、粉粒 $( 2 - 5 0 \\mu \\mathrm { m } )$ )和粘粒( $< 2 \\mu \\mathrm { m }$ )。土壤偏碱性， $\\mathrm { \\ p H }$ 值为8.94—9.22。土壤肥力较差,土壤基本理化性状为：土壤有机碳含量 $2 . 3 \\mathrm { g } / \\mathrm { k g }$ ，全氮 $0 . 2 \\mathrm { g / k g }$ ，全 $0 . 4 \\mathrm { g / k g }$ ,碱解氮 $9 . 0 \\mathrm { m g / k g }$ ,速效磷 $2 . 1 \\mathrm { m g / k g }$ 。植被类型以荒漠植被和沙生植被为主。优势植物有中亚白草（Pennisetumcentrasiaticum）、赖草（Leymussecalinus）、猪毛蒿（Artemisia scoparia）、阿尔泰狗娃花（Aster altaicus）、虫实（Corispermum hyssopifolium）、苦豆子（Sophora alopecuroides）、牛枝子（Lespedeza potaninii)等。由于干旱少雨以及基质较差,植物生长矮小,群落层片结构不明显,多呈单层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 样地选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "过度放牧等人为干扰和干旱少雨等环境因子导致荒漠草原严重退化和荒漠化。根据地上植被群落特征及盖度的一系列变化过程可推断草地沙漠化过程总体上表现为荒漠草地—固定沙地一半固定沙地一半流动沙地—流动沙地动态演化序列[20]。研究区在空间上分布着不同沙漠化程度的荒漠草地,根据植被的指示性及盖度分级标准[21]（表1),在研究区选择不同沙漠化阶段的荒漠草地、固定沙地、半固定沙地和流动沙地作为试验样地。以荒漠草地作为对照,每个样地中设置3个 $5 0 \\mathrm { m } { \\times } 5 0 \\mathrm { m }$ 的重复取样区，每个取样区间地形与环境条件基本一致。 C>5",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 土壤样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2016 年7月底在草地不同沙漠化阶段的取样区内随机设置3个 $\\widehat { 1 \\mathrm { m } \\times 1 \\mathrm { m } }$ 的样方,每个样方内按0—10,$1 0 { - } 2 0 , 2 0 { - } 3 0 \\mathrm { c m }$ 的层次，用直径 $9 \\mathrm { c m }$ 的土钻采集土壤样品，每个样方内5钻土壤混合均匀装入土壤袋中带回实验室,自然风干,过 $2 \\mathrm { m m }$ 细筛并去除枯枝落叶和肉眼可见根等杂物。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/15959b59c0a6f8c06a40a2780d8f80e0a712bd24a834c44151eb72f78207da9b.jpg",
+        "table_caption": [
+            "表1草地沙漠化分级指数",
+            "Table1 The grading index of desertification of desert grassland "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>沙漠化阶段 Desertification stages</td><td>植被盖度 Vegetation cover/%</td><td colspan=\"2\">地表结皮 优势种 Surface crust Dominant species</td></tr><tr><td>荒漠草地 Grasslands(G)</td><td>70-80</td><td>地表被土层和大量结 皮覆盖</td><td>牛枝子（Lespedeza potaninii）、 猪毛蒿（Artemisia scoparia）、 中亚白草（Pennisetum centrasiaticum)</td></tr><tr><td>固定沙地 Fixed dunes(FD)</td><td>60—70</td><td colspan=\"2\">土层和结皮覆盖率达 50%以上</td></tr><tr><td>半固定沙地 Semi-fixed dunes(SFD)</td><td>40-50</td><td colspan=\"2\">生物结皮或土壤覆盖 率为20%-50%</td></tr><tr><td>流动沙地 Mobile dunes(MD)</td><td>0-10</td><td colspan=\"2\">无结皮或少量物理 结皮</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3土壤样品测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用重铬酸钾外加热法测定土壤总有机碳含量(表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "颗粒有机碳测定：参考刘梦云[22]测定方法,取过 $2 \\mathrm { m m }$ 风干土 $2 0 \\mathrm { g }$ ,放人 $2 5 0 \\mathrm { m L }$ 三角瓶中,加入 $1 0 0 \\mathrm { m L } 5 \\mathrm { g }$ L的六偏磷酸钠溶液,手摇 $1 5 \\mathrm { m i n }$ 后在往复式振荡器( $9 0 \\mathrm { r / \\mathrm { m i n } }$ )上振荡18h,分散。分散液置于 ${ 5 3 \\mu \\mathrm { m } }$ 筛上，反复用清水冲洗直至滤液澄清。再将筛上保留物分离为粗颗粒态有机质（Coarse particulate organic matter,CPOM,250- $2 0 0 0 \\mu \\mathrm { m } \\dot { }$ )和细颗粒态有机质（Fine particulate organic matter,FPOM,53— $2 5 0 \\mu \\mathrm { m }$ )。各分离组分在${ \\bf \\dot { 6 } 0 \\% }$ 下烘干称重,计算其占全土的百分比。之后将各粒级土壤颗粒研磨过100目土壤筛,取一定重量样品测定其有机碳含量,乘以各自所占土壤的百分比计算出粗、细颗粒有机碳含量。细颗粒、粗颗粒有机碳含量分别与土壤总有机碳的比值为相应颗粒有机碳的分配比例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "轻组有机碳测定：参考Janzen 等[23]离析轻组有机碳的方法,取过 $2 \\mathrm { m m }$ 筛的风干土 $1 0 \\mathrm { g }$ ，放入 $1 0 0 \\mathrm { m L }$ 离心管,加入40mLNaI溶液,手摇30s,超声 $1 5 \\mathrm { m i n } ( 3 0 0 \\mathrm { W } )$ ，离心 $1 5 \\mathrm { m i n } ( 3 5 0 0 \\mathrm { r / m i n } )$ ,取上清液,共重复3次,将上清液过 $0 . 4 5 \\mu \\mathrm { m }$ 滤膜,用 $\\mathrm { 1 0 0 m L 0 . 0 1 m o l / L }$ 的 $\\mathrm { C a C l } _ { 2 }$ 溶液洗涤,再用 $2 0 0 \\mathrm { m L }$ 蒸馏水洗涤,收集滤膜上的残留物，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$6 0 ^ { \\circ } \\mathrm { C }$ 烘约17h,测定有机碳含量,即轻组有机碳含量。轻组有机碳与总有机碳含量的比值为轻组有机碳分配比例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤非保护性有机碳分配比例：土壤颗粒有机碳和轻组有机碳是土壤活性有机碳物理组分中两种不同分离方法所得的产物,均为土壤有机碳中的非保护组分,两者单独表征土壤非保护性有机碳不够充分,因此利用土壤颗粒有机碳和轻组有机碳分配比例的平均值表征土壤非保护性有机碳的分配比例[24]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳和非保护性组分的敏感性指标采用Bremer[25]的计算方法：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "敏感性指标 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (变量最大值-变量最小值)/变量最小值土壤非保护性有机碳向保护性有机碳转化速率常数 $( k )$ 计算公式参考[24]：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk = \\frac { P } { ( T T _ { p } ) \\times U }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$P$ ：保护性有机碳含量（土壤有机碳与非保护性有机碳的差值）; $U$ ：非保护性有机碳含量;TT,：保护性有机碳周转时间（100a）。 QOp",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用 SPSS 19.0软件进行数据统计与分析,采用单因素方差分析(One-Way ANOVA)和最小差异法（LSD)分析不同沙漠化阶段各变量的差异显著性( $\\scriptstyle P < 0 . 0 5 )$ 。 315",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f348d586d10b7160f4cb3f4bbed32562e418dbe14cd98143ee92b76e657c2d5e.jpg",
+        "table_caption": [
+            "表2不同沙漠化阶段土壤有机碳含量/（g/kg)",
+            "Table 2The content of soil organic carbon at different desertification stages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层深度 Soil depth/cm</td><td>流动沙地 Mobile dunes</td><td>半固定沙地 Semi-fixed dunes</td><td>固定沙地 Fixed dunes</td><td>荒漠草地 Grasslands</td></tr><tr><td>0-10</td><td>1.7±0.1</td><td>1.9±0.0</td><td>2.3±0.1</td><td>3.3±0.3</td></tr><tr><td>10-20</td><td>1.8±0.2</td><td>2.5±0.3</td><td>2.6±0.0</td><td>3.2±0.1</td></tr><tr><td>20-30</td><td>1.4±0.2</td><td>2.2±0.1</td><td>2.3±0.0</td><td>2.3±0.1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1荒漠草原沙漠化过程中土壤粗颗粒有机碳含量及其分配比例",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "草地沙漠化对土壤粗颗粒有机碳含量及其分配比例影响显著( $\\scriptstyle P < 0 . 0 5$ ,图1)。流动沙地、半固定沙地和固定沙地 $_ { 0 - 3 0 \\mathrm { c m } }$ 土层土壤粗颗粒有机碳含量分别比荒漠草地减小 $5 . 3 \\%$ $. 5 . 1 \\%$ 和 $1 5 . 9 \\%$ 。随着草地沙漠化加剧,0一 $1 0 \\mathrm { { c m } }$ 土层荒漠草地粗砂粒有机碳含量显著高于固定沙地、半固定沙地和流动沙地,10—20、20—$3 0 \\mathrm { c m }$ 土层不同沙漠化阶段土壤粗颗粒有机碳含量差异不显著。草地不同沙漠化阶段土壤粗砂粒含量垂直分布随着土壤深度的增加变化规律不同。流动沙地、半固定沙地和固定沙地土壤粗砂粒有机碳含量随土层增加呈升高趋势;荒漠草地土壤粗砂粒含量随土层深度的增加呈先降低后升高趋势，在 $1 0 { - } 2 0 \\mathrm { c m }$ 土层达到最小值,各沙漠化阶段不同土层间的差异不显著（图1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "草地不同沙漠化阶段0一 $3 0 \\mathrm { c m }$ 土层土壤粗颗粒有机碳分配比例为 $7 . 7 \\% - 3 3 . 4 \\%$ 。随着草地沙漠化程度的加剧,土壤粗颗粒有机碳分配比例呈先降低后升高趋势,固定沙地值最小。 $0 { - } 1 0 \\ldots 1 0 { - } 2 0 \\ldots 2 0 { - } 3 0 \\mathrm { c m }$ 土层流动沙地和半固定沙地土壤粗颗粒有机碳分配比例均显著高于固定沙地和荒漠草地(图1)。随着土层深度的增加,流动沙地和半固定沙地土壤粗颗粒有机碳分配比例呈减小趋势;固定沙地土壤粗颗粒有机碳分配比例为先降低后升高趋势,各土层间差异显著;荒漠草地 $1 0 { - } 2 0 \\mathrm { c m }$ 土层土壤粗颗粒有机碳分配比例显著高于0—10 和20—30cm土层。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2荒漠草原沙漠化过程中土壤细颗粒有机碳含量及其分配比例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "荒漠草原不同沙漠化阶段土壤细颗粒有机碳含量和分配比例差异显著( $\\textstyle P < 0 . 0 5$ ,图2)。荒漠草地、半固定沙地和流动沙地 $_ { 0 - 3 0 \\mathrm { c m } }$ 土层土壤细颗粒有机碳含量分别比固定沙地减少 $1 7 . 4 \\% . 5 9 . 0 \\%$ 和 $6 3 . 6 \\%$ 。随着",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d087c21c84cb82dc3cfa245d70451beecb96b323fd38c4b0e9eb618034f23be.jpg",
+        "img_caption": [
+            "Fig.1 The content and proportion of coarse particulate organic carbon at different desertification stages "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "G:草地Graslands；FD:固定沙地Fixed dunes；SFD:半固定沙地 Sem-fxed dunes；MD:流动沙地 Mobile dunes;大写字母表示同一土层不同沙漠化阶段在0.05 水平差异性;小写字母表示同一沙漠化阶段不同土层在0.05 水平差异性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "草地沙化的加剧,0—10、10—20、20—30cm 土层,荒漠草地和固定沙地土壤细颗粒有机碳含量均显著高于半固定沙地和流动沙地。土壤细颗粒有机碳含量在土壤剖面的分布不同。随着土层深度的增加,流动沙地和固定沙地土壤细颗粒有机碳含量呈先升高后降低趋势,均在 $1 0 { - } 2 0 \\mathrm { c m }$ 土层为最大值;半固定沙地土壤细颗粒有机碳含量呈先降低后升高趋势,10—20cm土层为最小值;荒漠草地土壤细颗粒有机碳含量随土层深度的增加而减小（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2835ec0591a628a1148389063847ec196fd6e0f2a654235bd489802b68961463.jpg",
+        "img_caption": [
+            "图1草地沙漠化阶段土壤粗颗粒有机碳含量及其分配比例",
+            "图2草地沙漠化阶段土壤细颗粒有机碳含量及其分配比例",
+            "Fig.2Thecontent and proportion of fine particulate organic carbon at different desertification stages "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "G:草地 Grassands；FD;固定沙地 Fixed dunes；SFD:半固定沙地 Semi-fixed dunes；MD:流动沙地 Mobile dunes,大写字母表示同一土层不同沙漠化阶段在0.05 水平差异性;小写字母表示同一沙漠化阶段不同土层在0.05 水平差异性",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "荒漠草原不同沙化阶段0—30cm 土层土壤细颗粒有机碳分配比例为 $6 4 . 2 \\% - 7 7 . 5 \\%$ 。随着草地沙漠化加剧,0—10、10—20cm土层,荒漠草地、半固定沙地和流动沙地土壤细颗粒有机碳分配比例显著低于固定沙地;20—30cm土层不同沙漠化阶段土壤细颗粒有机碳分配比例差异不显著(图2)。随着土层深度的增加,流动沙地和半固定沙地土壤细颗粒有机碳分配比例呈升高趋势;固定沙地土壤细颗粒有机碳分配比例呈降低趋势;荒漠草地土壤细颗粒有机碳分配比例呈先降低后升高趋势，10一 $2 0 \\mathrm { c m }$ 土层为最小值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3荒漠草原不同沙漠化阶段土壤轻组有机碳含量及其分配比例",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "草地不同沙漠化阶段土壤轻组有机碳含量及其分配比例差异显著( $\\scriptstyle P < 0 . 0 5$ ,表3）。随着草地沙漠化程度的增加,固定沙地、半固定沙地和流动沙地0— $3 0 \\mathrm { c m }$ 土层土壤轻组有机碳含量分别比荒漠草地减小 $7 . 1 \\%$ 、$4 2 . 8 \\%$ 和 $5 1 . 0 \\%$ 。0—10、10—20、20—30cm 土层荒漠草地和固定沙地土壤轻组有机碳含量均显著高于半固定沙地和流动沙地。随着土层深度的增加,半固定沙地和固定沙地土壤轻组有机碳含量呈降低趋势;流动沙地和荒漠草地 $1 0 { - } 2 0 \\mathrm { c m }$ 土层土壤轻组有机碳含量显著低于 $0 { - } 1 0 \\ldots 3 0 \\mathrm { c m }$ 土层。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着草地沙漠化程度的增加,0—30cm土层土壤轻组有机碳分配比例介于 $6 0 . 4 \\%$ 一 $8 1 . 1 \\%$ 之间。随着草地沙漠化的加剧,轻组有机碳分配比例表现为荒漠草地 $>$ 固定沙地 $>$ 半固定沙地 $>$ 流动沙地。0—10、10—20cm土层,荒漠草地和固定沙地土壤轻组有机碳分配比例均显著高于半固定沙地和流动沙地;荒漠草地 $2 0 { - } 3 0 \\mathrm { e m }$ 土层土壤轻组有机碳分配比例显著高于流动沙地。土壤轻组有机碳分配比例垂直分布随土壤深度的增加呈先降低后升高趋势,在10—20cm土层为最小值。其中,荒漠草地和半固定沙地10—20cm土层土壤轻组有机碳分配比例显著低于0—10、20— $3 0 \\mathrm { c m }$ 土层。 \\~y",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9000c64b66efc9786e37ab03983320737ed828eb75b3b8db29b521d1a891606.jpg",
+        "table_caption": [
+            "Table 3The content and proportion of LFOC at different desertification stages "
+        ],
+        "table_footnote": [
+            "大写字母表示同一土层不同沙漠化阶段在0.05 水平差异性;小写字母表示同一沙漠化阶段不同土层在0.05 水平差异性；LFOC:轻组有机碳Light-fraction organic carbon N"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">沙漠化阶段 Desertification stages</td><td colspan=\"2\">0—10cm</td><td colspan=\"2\">10-20cm</td><td colspan=\"2\">20-30cm</td></tr><tr><td>轻组有机碳含量 The content of LFOC/(mg/g)</td><td>轻组有机碳 分配比例 The proportion of LFOC/%</td><td>轻组有机碳含量 The content of LFOC/(mg/g)</td><td>轻组有机碳 分配比例 The proportion</td><td>轻组有机碳含量 The content of LFOC/(mg/g)</td><td>轻组有机碳 分配比例 The proportion</td></tr><tr><td>荒漠草地 Grasslands</td><td>0.65±0.00Aa</td><td>85.8±0.7Aa</td><td>0.57±0.03Ab</td><td>of LFOC/% 72.4±2.1Ab</td><td>0.65±0.00Aa</td><td>of LFOC/% 85.1±0.6Aa</td></tr><tr><td>固定沙地 Fixed dunes</td><td>0.61±0.01Ba</td><td>75.4±3.8Ba</td><td>0.56±0.02Aa</td><td>70.5±4.5Aa</td><td>0.56±0.00Ba</td><td>80.0±0.4ABa</td></tr><tr><td>半固定沙地 Semi-fixed dunes</td><td>0.38±0.02Ca</td><td>72.5±1.9Ba</td><td>0.35±0.03Ba</td><td>54.0±0.3Bb</td><td>0.34±0.02Ca</td><td>79.6±9.3ABa</td></tr><tr><td>流动沙地 Mobile dunes</td><td>0.33±0.00Da</td><td>58.5±2.9Cb</td><td>0.27±0.02Bb</td><td>51.8±3.6Bb</td><td>0.31±0.01Ca</td><td>70.8±1.4Ba</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤有机碳和非保护性有机碳对荒漠草地沙漠化的敏感性 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "颗粒有机碳和轻组有机碳作为土壤活性有机碳库的一部分,对土壤管理措施反应敏感。土壤粗颗粒有机碳、细颗粒有机碳和轻组有机碳含量及分配比例对草地沙漠化响应程度未表现出一致性,因此,进行了敏感性指标计算（表4）。 $\\scriptstyle 0 \\neq 3 0 \\mathrm { c m } 3$ 个王层均表现为细颗粒有机碳的敏感性最高,粗颗粒有机碳的敏感性最低。因此,细颗粒有机碳更能反映荒漠草原沙漠化过程中土壤碳库变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e1ab74866081b51eb861218b150b667367112ee5502a515010566a2132418d7.jpg",
+        "table_caption": [
+            "表3草地沙漠化过程中土壤轻组有机碳含量及其分配比例",
+            "表4土壤有机碳和非保护性有机碳对荒漠草原沙漠化的敏感性指标 ",
+            "Table 4Sensitivity index of FPOC,CPOC,POC,LFOC and SOC under diferent desertificati "
+        ],
+        "table_footnote": [
+            "FPOC:细颗粒有机碳Fine particulateorganiccarbon；CPOC:粗颗粒有机碳Coarse particulate organiccarbon；POC:颗粒有机碳Particulate organiccarbon；LFOC;轻组有机碳Lightfractionorganiccarbon；SOC：有机碳Soilrganiccarbon；Max.最大值Maximumvalue；Min.最小值 Minimum value；Sen.:敏感性 Sensibility "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td rowspan=\"3\">土层深度 Soil depth/cm</td><td colspan=\"4\">细颗粒有机碳FPOC</td><td colspan=\"3\">粗颗粒有机碳CPOC</td><td colspan=\"3\">颗粒有机碳POC</td><td colspan=\"3\">轻组有机碳LFOC</td><td colspan=\"3\">有机碳 SOC</td></tr><tr><td>最大值</td><td>最小值</td><td>敏感性</td><td></td><td>最大值 最小值</td><td></td><td>敏感性</td><td>最大值 最小值</td><td></td><td>敏感性</td><td>最大值 最小值</td><td></td><td></td><td>敏感性 最大值 最小值</td><td></td><td>敏感性</td></tr><tr><td>Max.</td><td>Min.</td><td></td><td>Sen</td><td>Max.</td><td>Min.</td><td>Sen</td><td>Max.</td><td>Min.</td><td>Sen</td><td>Max.</td><td>Min.</td><td>Sen</td><td>Max.</td><td>Min.</td><td>Sen</td></tr><tr><td></td><td>0 -10</td><td>0.45</td><td>0.15</td><td>2.07</td><td></td><td>0.08</td><td>0.06</td><td>0.40</td><td>0.51</td><td>0.21</td><td>1.45</td><td>0.65</td><td>0.33</td><td>0.97</td><td>3.84</td><td>1.54</td><td>1.49</td></tr><tr><td></td><td>10-20</td><td>0.47</td><td>0.14</td><td>2.31</td><td></td><td>0.09</td><td>0.06</td><td>0.61</td><td>0.54</td><td>0.21</td><td>1.51</td><td>0.62</td><td>0.24</td><td>1.57</td><td>3.44</td><td>1.39</td><td>1.47</td></tr><tr><td>20-</td><td>-30</td><td>0.40</td><td>0.15</td><td>1.75</td><td></td><td>0.10</td><td>0.06</td><td>0.52</td><td>0.49</td><td>0.21</td><td>1.33</td><td>0.65</td><td>0.30</td><td>1.21</td><td>2.55</td><td>0.99</td><td>1.58</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5荒漠草原沙漠化过程中土壤非保护性有机碳分配比例及向保护性有机碳转化速率草地不同沙漠化阶段对土壤非保护性有机碳分配比例影响显著( $\\scriptstyle P < 0 . 0 5$ ,表5）。固定沙地、半固定沙地和流动沙地0一 $3 0 \\mathrm { c m }$ 土层土壤非保护性有机碳分配比例分别比荒漠草地减小 $3 . 5 \\% . 0 . 6 \\%$ 和 $5 . 9 \\%$ 。0—10cm土层和 $2 0 { - } 3 0 \\mathrm { c m }$ 土层土壤非保护性有机碳分配比例均在半固定沙地达到最大值； $1 0 { - } 2 0 \\mathrm { c m }$ 土层土壤非保护性有机碳分配比例随草地沙化程度的增加而降低。随着土层深度的增加土壤非保护性有机碳分配比例呈“V\"形变化,在 $1 0 { - } 2 0 \\mathrm { c m }$ 土层达到最小值。随着荒漠草地沙漠化加剧,除半固定沙地较小波动外,土壤非保护性有机碳分配比例及向保护性有机碳转化速率整体呈上升趋势。随着土层深度的增加,草地不同沙漠化阶段土壤非保护性有机碳分配比例及向保护性有机碳转化速率均在 $1 0 { - } 2 0 \\mathrm { c m }$ 土层最高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fddd06c68393d2718246bbafed9422e0bc287fd6361227b3cbc16487358634ed.jpg",
+        "table_caption": [
+            "表5草地不同沙化阶段土壤非保护性有机碳分配比例及向保护性有机碳转化速率常数",
+            "Table 5TheproportioofuprotectedorganiccarbonadratecostantforCtransferingfromteuprotectedtoteprotetedsilpoli different desertification stage "
+        ],
+        "table_footnote": [
+            "k：土壤非保护性有机碳向保护性有机碳转化速率常数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层深度 Soil depth/cm</td><td colspan=\"2\">荒漠草地Grasslands</td><td colspan=\"2\">固定沙地 Fixed dunes</td><td colspan=\"2\">半固定沙地 Semi-fixed dunes</td><td colspan=\"2\">流动沙地 Mobile dunes</td></tr><tr><td>分配比例 Proportion/%</td><td>转化速率 常数k</td><td>分配比例 Proportion/%</td><td>转化速率 常数k</td><td>分配比例</td><td>转化速率</td><td>分配比例</td><td>转化速率</td></tr><tr><td>0-10</td><td>84.9±0.4Aa</td><td>0.0017</td><td>81.2±1.6Ba</td><td>0.0023</td><td>Proportion/% 84.0±0.5ABab</td><td>常数k 0.0019</td><td>Proportion/% 75.5±0.9Cb</td><td>常数k 0.0033</td></tr><tr><td>10-20</td><td>78.7±1.3Aa</td><td>0.0024</td><td>77.6±1.3ABa</td><td>0.0028</td><td>75.6±0.7ABb</td><td>0.0032</td><td>73.3±2.4Bb</td><td>0.0036</td></tr><tr><td>20-30</td><td>85.7±0.5Aa</td><td>0.0016</td><td>81.8±0.7Ab</td><td>0.0022</td><td>88.2±5.5Aa</td><td>0.0014</td><td>85.7±1.5Aa</td><td>0.0017</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤颗粒有机碳(POC)主要是有机物质与无机物质过渡的中间体，周转周期短,是土壤非保护性有机碳[26]。李海波等[27]研究不同土地利用和施肥管理对东北黑土颗粒有机碳分配特征的影响,结果表明草地退化至裸地,土壤粗颗粒有机碳和细颗粒有机碳含量均显著减小,本研究结果与其基本一致。植物残体和根系有机碳是土壤颗粒有机碳的主要来源[28],其中,根系有机碳比植物残体对土壤颗粒有机碳贡献更高， $1 1 \\%$ 的根系有机碳形成了粒径为 $5 0 0 { \\mathrm { - } } 2 0 0 0 \\mu \\mathrm { m }$ 的粗颗粒有机碳， $1 6 \\%$ 的根系有机碳形成了粒径为53- ${ \\cdot } 5 0 0 \\mu \\mathrm { m }$ 的细颗粒有机碳[29]。土壤颗粒有机碳的变化也与土壤团聚体密切相关,颗粒有机碳通过粘连等方式将土壤颗粒汇集成不同大小的团聚体或作为核被包裹成大小不一的团聚体[30-32]。土壤真菌和其他土壤微生物首先利用$> 2 5 0 \\mu \\mathrm { m }$ 的土壤团聚体中的粗颗粒有机碳,粗颗粒有机碳又进一步分解为细颗粒有机碳[27]。随着荒漠草原沙漠化程度加剧,牛枝子、中亚白草等优势种的移除,减小土壤颗粒有机碳输入的同时,对风蚀等的抑制作用减弱,加重土壤颗粒有机碳的流失。土壤微生物也是影响土壤颗粒有机碳的主要因素,草地沙漠化过程中土壤微生物量和土壤酶活性显著下降[33],减少细颗粒有机碳形成的一条途径。固定沙地中优势种植物为中亚白草和苦豆子,苦豆子植株大,竞争能力强,根系“广布\"生长[34],对土壤结构较其他优势植物影响大,土壤养分富集率高[35-36]。因此，固定沙地中土壤粗颗粒有机碳含量最小，细颗粒有机碳含量最高。地上植被类型、土壤结构、土壤含水量、土壤孔隙度等的差异是土壤颗粒有机碳随土壤深度未表现出一致性规律的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "轻组有机碳(LFOC)与颗粒有机碳相似,均为非保护性有机碳,对环境变化敏感。植物残体、根系及真菌、放线菌等微生物是土壤轻组有机碳的主要成分[6]。本研究中,随草地沙漠化程度增强土壤轻组有机碳含量呈下降趋势,荒漠草地和固定沙地土壤轻组有机碳含量显著高于半固定沙地和流动沙地。一方面放牧是荒漠草地沙漠化的主要原因[37],放牧的草地生态系统中,放牧导致植被的初级生产力下降,土壤有机碳的输入量下降[38]。沙漠化草地系统中长期放牧使得土壤轻组有机碳含量降低 $5 6 . 6 \\% ^ { [ 3 9 ] }$ ;内蒙古大针茅草原重度和中度放牧土壤轻组有机碳含量分别比轻度放牧减少 $4 2 . 2 \\%$ 和 $2 3 . 7 \\% ^ { [ 1 9 ] }$ ;另一方面荒漠草地沙漠化过程中土壤微生物数量递减[40],土壤轻组有机碳输入量降低。Tan 等[10]发现土壤轻组有机碳含量随土层深度的增加而递减,本研究中未得出一致结论。干旱半干旱荒漠草原生态系统脆弱,易受环境及人为活动的影响。地上植被、地下根系、微生物和土壤结构复杂多变是草地沙漠化过程中轻组有机碳随土层深度的增加未表现出一致性规律的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳含量改变的主要原因是通过影响土壤保护性有机碳和非保护性有机碳含量而改变土壤有机碳的分解速率[11]。粒径为 53- $- 2 0 0 0 \\mu \\mathrm { m }$ 的颗粒有机碳和轻组有机碳为土壤有机碳的非保护性部分[8],但两者对环境变化的敏感性不同。本研究结果表明,颗粒有机碳较轻组有机碳对草地沙漠化的响应敏感,颗粒有机碳中53- $2 5 0 \\mu \\mathrm { m }$ 的细颗粒有机碳较 $2 5 0 { \\mathrm { - } } 2 0 0 0 \\mu \\mathrm { m }$ 的粗颗粒有机碳更敏感,与刘梦云等[2]研究颗粒有机碳对不同土地利用的敏感性结果不一致。出现这一结果的主要原因为荒漠草地沙漠化初期在弱风蚀作用和强集尘作用下,土壤粘粉粒等细小颗粒的迁移损失小[41-42],土壤粘粉粒等细小颗粒与土壤有机碳结合的活性位点较多,易形成细颗粒有机碳[43]。随着草地沙漠化程度加剧,土壤风蚀作用增强,细颗粒有机碳较粗颗粒有机碳易流失。 C",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤非保护性有机碳是草地生态系统能量转化的先驱,随草地沙漠化加剧土壤非保护性有机碳整体呈下降趋势,表明草地沙漠化降低了土壤质量。土壤非保护性有机碳向保护性有机碳的转化是维持土壤长期有效性的重要因子,非保护性有机碳转化为保护性有机碳有利于土壤有机碳的稳定[24]。吕茂奎等[44]研究表明马尾松人工林植被恢复过程中土壤非保护性有机碳逐渐向保护性有机碳转化,本研究结果发现荒漠草地沙漠化过程中土壤非保护性有机碳亦逐渐向保护性有机碳转化。荒漠草地处于草地与荒漠的过渡阶段,生态环境脆弱且不稳定,土壤有机碳主要以非保护性有机碳形式储存,利于地上植被等的吸收利用,流动沙地生态环境极端恶化,土壤有机碳稳定。荒漠草地退化至流动沙地的过程中土壤结构改变并配合新鲜动植物残体、真菌等有机碳的输入减小,土壤物理、化学性质极端恶化,是从一个不稳定状态向稳定状态变化的过程。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)随着草地沙漠化加剧,土壤粗颗粒有机碳含量和分配比例在0—30cm土层均表现为先降低后升高趋势,均在固定沙地达到最小值;土壤细颗粒有机碳含量和分配比例在0— $3 0 \\mathrm { c m }$ 土层表现趋势与粗颗粒有机碳相反,呈先升高后降低趋势,均在固定沙地达到最大值;轻组有机碳含量和分配比例在0— $3 0 \\mathrm { c m }$ 的3个土层均表现为降低趋势，均在荒漠草地达到最大值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)土壤颗粒有机碳、轻组有机碳和土壤有机碳对草地沙漠化的敏感性不同,其中颗粒有机碳较轻组有机碳和土壤有机碳敏感性高,颗粒有机碳中的细颗粒有机碳较粗颗粒有机碳敏感性更高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)土壤非保护性有机碳随草地沙漠化加剧整体呈下降趋势,土壤质量降低。荒漠草地退化至流动沙地 土壤非保护性有机碳逐渐向保护性有机碳转化。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Xu XR,Zg WJ,XuG,LiSY,An,PeiJB,XiaJ,XieH,WgJKracterissdierentlysabilisedcbonfractionsieltgefertilisatioinowearthoforthstCa.SceofeTotalEviront16,7：.  \n[2]SharaVsainKR,ryVLabilarbolslgaarbotocsinthillasuderifduesystems.Geoderma，2014，232-234(12）:81-87.  \n[3] PartonWJ,helDoleCVjDAalysctotrolgslacalvesieatpsgrassadlSociety of America Journal,1987,51(5）:1173-1179.沈宏，曹志洪，胡正义.土壤活性有机碳的表征及其生态效应.生态学杂志，1999，18（3)：32-38.BlairGJ,LefroR,isleLolbonfractiosdoegrefidationdthevelopentofarbonaageeeforagricultural systems.Australian Journal of Agricultural Research，1995,46(7）：1459-1466.6 柳敏，宇万太，姜子绍，马强.土壤活性有机碳.生态学杂志，2006，25(11)：1412-1417.  \n[7] 杨慧，张连凯，曹建华，于爽.桂林毛村岩溶区不同土地利用方式土壤有机碳矿化及土壤碳结构比较.中国岩溶,2011,30(4)：410-416.  \n[8]SixJatulEustKabltesflalfouratofldl,2002，241(2):155-176.  \n[9]YoukaA,dldiocKulchiddfoforestrycesothabledbillcslBiology and Biochemistry，2011,43(5）：961-966.  \n0]TanZlwsLuCistrifghtdcsoflbsetdelcicSoil and Tillage Research，2007,92(1/2）:53-59.  \n[12]LiaoJDutWJstrcaeroerlalfafongoplantasiofgrassdvnatural $^ { 1 3 } \\mathrm { C }$ and $^ { 1 5 } \\mathrm { N } .$ Soil Biologyand Biochemistry，2006,38（11）：3197-3210.  \n[13]Bidisha，oKfesegioprostriofeteizefdcCtetofertilized soil. European Journal of Soil Biology，2010,46(6）：365-370.  \n[14] YangXY,RenWD,unBH,ZanSLEftsofotrastingsolanagementregimsototalandlbilesolganicarbonfractiosinloess soil in China.Geoderma，2012，177-178：49-56.  \n[15］刘立生，徐明岗，张璐，文石林，高菊生，董春华.长期种植绿肥稻田土壤颗粒有机碳演变特征.植物营养与肥料学报，2015，21（6)1439- 1446.  \n[16]Raa,VroR，WgerRideC,DfiedKE.ovetioaldgefetsohdistrtiofoesiufraction organic matter. Soil Science Society of America Journal，,2015,79:74-80.  \n[17] Mendham D S,Heagney E C,Corbeels M, $0 ^ { \\prime }$ Connell A M，Grove T S，McMurtrieR E. Soil particulate organic mater effectson nitrogeravailability after afforestation with Eucalyptus globulus.Soil Biologyand Biochemistry,2O04,36(7）：1067-1074.  \n[18] 王蕙，王辉，黄蓉，马维伟.不同封育管理措施对沙质草地土壤轻组及全土碳氮储量的影响.水土保持学报，2013，27（1)：252-257.  \n[19] 王合云，董智，郭建英，李红丽，李锦荣，陈新闯.不同放牧强度对大针茅草原土壤全土及轻组碳氮储量的影响.水土保持学报，2015，29(6): 101-106.  \n[20] 唐庄生，安慧，邓蕾，上官周平.荒漠草原沙漠化植物群落及土壤物理变化.生态学报，2016,36(4)：991-1000.  \n[21] 丁国栋.区域荒漠化评价中植被的指示性及盖度分级标准研究一 一以毛乌素沙区为例.水土保持学报，2004，18（1）：158-160.  \n[22] 刘梦云，常庆瑞，齐雁冰，孙宁.黄土台塬不同土地利用土壤有机碳与颗粒有机碳．自然资源学报，2010，25(2)：218-226.  \n[23] JanzenHH,CampbellCA,radtSA,fodG,leSmihLLighfractiooacaeinilsfrolg-eopotatislScience Society of America Journal,1992,56(6)：1799-1806.  \n[24] GartenJrCT,ostWMHansoPJ，CoperLWorestsoilarboniventorisanddyamicsaloganlevationgradientinsouthAppalachian Mountains.Biogeochemistry，1999,45(2）：115-145.  \n[25] BremerEilgcissoil. Canadian Journal of Soil Science，1994,74(2)：131-138.  \n[26] ChristensenBalfctiaifldcualdalpleicaeroalofl2001，52(3):345-353.  \n[27］李海波，韩晓增，尤孟阳.不同土地利用与施肥管理下黑土团聚体颗粒有机碳分配变化.水土保持学报，2012，26(1）：184-189.  \n[28] 余健，房莉，卞正富，汪青，俞元春.土壤碳库构成研究进展.生态学报，2014，34（17)：4829-4838.  \n[29] GaleWJ,CambadellCCarbonaicsofufacesiedo-erivedancaterudersiulated-tll.SoilSeietyfAmerica Journal,2000,64（1）：190-195.  \n[30] TisdallJM,OadesJM.Organicmaterandwaterstableaggregates insoils.EuropanJoualofSoilScience，98233（2）:41-163.  \n]ieecarbon.Soil Science Society of America Journal,2000,64(2）: 681-689.  \n[32] 李江涛，张斌，彭新华，赖涛.施肥对红壤性水稻土颗粒有机物形成及团聚体稳定性的影响.土壤学报，2004，41(6)：912-917.  \n[33] 曹成有，朱丽辉，富瑶，陈家模，崔振波，高恩亮.科尔沁沙质草地沙漠化过程中土壤生物活性的变化.生态学杂志，2007，26(5)：622-627.  \n[34] 郝鹏,李景文，丛日春,张楠，井家林，黄晶晶.苦豆子根系对土壤异质性和竞争者的响应.北京林业大学学报，2012，34（5)：94-99.  \n[35］陈波浪，柴仲平,吴海华，郝丽娜，宋菲菲，胡苗苗，江月.施用绿肥(苦豆子鲜草)对立架甜瓜土壤速效养分与产量的影响.中国土壤与肥料，2015，（5)：94-98．  \n[36] 杨阳，刘秉儒.荒漠草原不同植物根际与非根际土壤养分及微生物量分布特征.生态学报，2015，35(22）：7562-7570.  \n[37] ZhangC，McBeanEA.Estimationofdesertficationriskfromsoilrosion：acasesudyforGansurovince，China.StochasticEnviroentalResearch and Risk Assess， 2016,30(8): 2215-2229.[38] 安慧，李国旗.放牧对荒漠草原植物生物量及土壤养分的影响.植物营养与肥料学报，2013，19(3)：705-712.  \n[39] 陈银萍，李玉强，赵学勇，罗永清，尚雯.放牧与围封对沙漠化草地土壤轻组及全土碳氮储量的影响.水土保持学报，2010,24（4)：182-186.  \n[40] 吕桂芬,吴永胜，李浩，马万里，卢萍.荒漠草原不同退化阶段土壤微生物、土壤养分及酶活性的研究.中国沙漠，2010，30（1)：104- 109.  \n[41] 刘树林，王涛，屈建军.浑善达克沙地土地沙漠化过程中土壤粒度与养分变化研究.中国沙漠，2008，28(4)：611-616.  \n[42] 闫玉春，王旭，杨桂霞,辛晓平.退化草地封育后土壤细颗粒增加机理探讨及研究展望.中国沙漠，2011，31（5)：1162-1166.  \n[43] 刘满强，胡锋，陈小云.土壤有机碳稳定机制研究进展.生态学报，2007，27(6)：2642-2650.  \n[44] 吕茂奎，谢锦升，周艳翔，曾宏达，江军，陈细香，胥超，陈坦，付林池.红壤侵蚀地马尾松人工林恢复过程中土壤非保护性有机碳的变化.应用生态学报，2014，25(1)：37-44.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

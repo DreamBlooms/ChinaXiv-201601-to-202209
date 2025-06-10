@@ -1,0 +1,374 @@
+[
+    {
+        "type": "text",
+        "text": "CD133（Prominin-1）的结构、功能及其相关抗体的研究进展\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程雨涵 龚熹罗玉萍\\*\\*（南昌大学生命科学学院南昌330031）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要CD133（Prominin-1）是五次跨膜糖蛋白Prominin 家族的成员之一，最初作为特异性标志物用于筛选人造血干细胞和祖细胞，随后用于分离鉴定各种肿瘤干细胞的特定细胞亚群。研究表明，CD133是肿瘤治疗预后的标志物，能与血管内皮生长因子等物质相互作用，参与细胞通路的信号传导，在维持视网膜形态和功能中发挥着重要作用。根据是否与CD133的糖基化表位结合，可将CD133的相关抗体分为糖基化抗体、非糖基化抗体以及其他未指明是否与糖基化表位结合的抗体。本文将围绕CD133近年的研究成果对Prominin家族、CD133的功能、相关抗体和相关研究方法进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 CD133 Prominin-1 信号通路 视网膜抗体",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advances in Studies on the Structure, Function and Related Antibodies of CD133 (Prominin-1) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHENG Yu-han GONG Xi LUO Yu-ping (School of Life Sciences, Nanchang University, Nanchang 33oo31, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractCD133 （Prominin-1） is one of members which are the five-time transmembrane glycoprotein Prominin family. CD133 was originally used as a specific marker for the screening of human hematopoietic stem and progenitor cells, which was subsequently used to isolate and identify specific cell subsets of various cancer stem cells. Many studies have shown that CD133 is a prognostic marker for tumor therapy, interacts with substances such as vascular endothelial growth factor, participates in signal transduction in cell pathways,and plays an important role in maintaining retinal morphology and function. Depending on whether or not it binds to a glycosylation epitope of CD133,antibodies related to CD133 can be classified into glycosylated antibodies, non-glycosylated antibodies,and other antibodies that are not indicated to bind to a glycosylated epitope. This article will focus on the recent years’ research of CDl33 and review the Prominin family，and the functions,related antibodies and related research methods of CD133. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words CD133 Prominin-1 signal pathway retina antibody ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CD133 又名 Prominin-1。1997年 Miraglia 等[1]在 $\\mathrm { C D } 3 4 ^ { + }$ 人造血干细胞和祖细胞（hematopoietic stem and progenitor cells，HSPCs）的表面发现 CD133 后，人们对 CD133 的研究便不断升温。2000年6月前CD133被称作AC133，同年举行的第七届人类白细胞分化抗原国际会议将AC133正式命名为CD133[2]，AC133仅作为其抗原表型存在。CD133是人类发现的首个五次跨膜糖蛋白，也是第一个被鉴定为\"Prominin\"的蛋白质[3]。人们对CD133的研究常借助于它的特异性抗体或借助对其基因、转录组以及蛋白质水平的研究来发现具体的生物学功能。起初CD133的功能是作为造血祖细胞的特异性标志物，随后科学家发现CD133也可用于分离鉴定肿瘤干细胞（cancer stemcells，CSCs）[4]，但其能否作为CSCs的通用标记仍然存在争议。随着研究的不断深入，人们逐渐认识到CD133不仅能作为各种干细胞、CSCs以及肿瘤细胞的标记，还能介导PI3K/Akt、AKT、Src-FAK等信号通路，影响 $\\mathrm { C D } 1 3 3 ^ { + }$ 细胞的行为，其表达量与癌症治疗的效果也密切相关[5]。因此，为治疗癌症及标记癌细胞，人们开始尝试降低CD133的表达或开发能结合其暴露表位的抗体等，以抑制肿瘤细胞生长和致瘤能力，达到治疗的目的。在视网膜中，CD133的存在与视网膜的形态功能相关，当CD133 的等位基因突变或缺失时将导致黄斑变性[]、Stargardt 样黄斑营养不良[7]、视锥-视杆营养不良[8]、视网膜色素变性[9等疾病。本文对近年有关CD133的研究结果做以下综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Prominin家族",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1Prominin家族及其结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Prominin来源于希腊语“prominere”[4]，是“突起”的意思。Prominin 家族有2个成员，Prominin-1和Prominin-2，其中Prominin-1又被人们称为CD133。人类的PROMININ-1和PROMININ-2基因分别定位于染色体 $\\mathsf { 4 p 1 5 . 3 2 }$ 和 2q11.1，小鼠的 PROMININ-1和PROMININ-2基因分别定位于染色体 5pB3和2qF1，大鼠的PROMININ-1和PROMININ-2基因分别定位于染色体14q21和3q36。这三个物种间的PROMININ-1的基因组成非常相似[10]。虽然 Prominin-1 和 Prominin-2 的同源性较低（ $\\text{‰}$ ）[1]，但是两者具有相同的空间结构，为五次跨膜的胆固醇结合糖蛋白， $\\mathrm { \\Delta N }$ 末端位于细胞外侧，C末端位于细胞内侧，细胞内的2个环富含半胱氨酸,细胞外的2个环分别包含4个N连接的糖基化位点(如图1)[1,11-13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "典型的Prominin-1分子包含约850个氨基酸残基，表观分子量约为 $1 1 5 \\mathord { \\sim } 1 2 0 \\mathrm { k D a } ^ { [ 1 0 ] }$ 。人类的PROMININ-1至少包含37个外显子，长度超过 $1 5 0 \\mathrm { k b }$ ，并受5个启动子控制[14,15],编码一个由 865个氨基酸组成的 $1 2 0 \\mathrm { { k D a } }$ 的跨膜蛋白。小鼠PROMININ-1基因至少包含34个外显子[16]，长度跨越约 $1 6 0 \\mathrm { k b }$ ，编码一个由858个氨基酸组成的 $1 1 5 \\mathrm { { k D a } }$ 的跨膜蛋白。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/850fefdeeb3d25dde8cce4107915cff3c8ce0d6743729aa5b940945a3fd20f07.jpg",
+        "img_caption": [
+            "图1跨膜糖蛋白CD133的示意图。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Schematic representation of the transmembrane glycoprotein, CD133. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2Prominin家族的表达和分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Prominin-1和 Prominin-2定位于细胞膜的突起。Prominin-1主要在胰腺、肝脏、前列腺、肾脏、皮肤等上皮细胞和干细胞、CSCs、胶质细胞、光感受细胞等非上皮细胞表达，定位于细胞膜上表面突起[4,17]。Prominin-2主要在肾小管等上皮细胞表达，定位于细胞膜的上表面和下表面的突起[18]。人体内PROMININ-1的mRNA在成体肾、乳腺、气管、唾液腺、胎盘、胰腺、消化道和睾丸等组织高表达[3,19]。PROMININ-2 的mRNA 则在肾脏、消化道、前列腺、气管、唾液腺、甲状腺、乳腺和胎盘以及人类肺和神经系统的肿瘤中表达[3,]。因在大部分组织Prominin-1和Prominin-2同时表达，并拥有相似的结构，因此它们在生物体中的功能可能也是相似的，当其中一个基因表达受到抑制或者缺失时，另外一个基因可能会进行部分的代偿[20]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，Prominin-1和其旁系同源物Prominin-2具有 $60 \\%$ 的氨基酸同一性[9]，因此两者的表达分布具有大部分重叠性。但视网膜仅有 Prominin-1表达[I]，分布于胎鼠的视网膜色素上皮（retinal pigment epithelium,RPE)[21,22、光感受细胞外节基部的膜外翻部位[6,23]和成年小鼠视网膜的内核层（inner nuclear layer，INL）[24]，但位于 INL 的何种细胞仍不清楚。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.CD133的相关功能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1CD133作为干细胞、CSCs和肿瘤细胞的标志物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自1997年，Yin等[25]发现CD133可识别CD34+造血干细胞群后，CD133作为某些细胞表面标记的潜在作用便成为了一个有趣的研究方向。随后，越来越多的科研人员发现CD133可以用作各种干细胞、CSCs、肿瘤细胞的标志物，如小肠干细胞[26]、人肾脏顶叶上",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "皮细胞[27]、脑瘤、结直肠癌[28]、前列腺癌[29]和食管鳞状细胞癌（esophageal squamous cellcarcinoma，ESCC）[30]等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2CD133和肿瘤相关 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1CD133和肿瘤治疗预后相关 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来的研究显示，CD133的过度表达与卵巢癌患者总生存率降低高度相关，表明CD133可能是卵巢癌预后不良的标志[5]。靶向CD133的溶瘤腺病毒能选择性感染 $\\mathrm { C D } 1 3 3 ^ { + }$ 结直肠癌细胞[31]，对肿瘤表现出抗性和一定的治疗效果。这种靶向CD133的新型选择性病毒可能是预防结直肠癌转移和复发的有力工具。原发性 ESCC 中，CD133 和胰岛素样生长因子 2[30]（insulin-like growth factor 2，IGF2）的表达水平呈正相关，二者同时升高预示着患者存活率较差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2CD133与肿瘤中其他物质的相互作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究表明，CD133对其他物质的作用，或其他物质对CD133的作用能影响各种细胞、组织的生长和疾病的发生。如CD133 能稳定血管内皮生长因子164（vascular endothelial growthfactor164， ${ \\mathrm { V E G F } } _ { 1 6 4 }$ ）二聚体的形成，进而增强VEGF抗凋亡能力，支持血管生成，抑制肿瘤细胞凋亡，促进肿瘤生长[32]。CD133通过β-连环蛋白介导的细胞间交流来调节真皮乳头细胞（dermal papilla cells，DPcells）的大小[33]。当 $\\beta$ -连环蛋白被激活时，毛发生长初期和终期 DP 的大小增加。但是CD133 对真皮乳头细胞的数量没有影响，也不参与DP的修复。最近科研人员发现[34]，CD133也有可能作为 $\\beta$ -连环蛋白信号传导的允许因子，阻止 $\\beta \\cdot$ -连环蛋白在细胞质中降解，维持肾脏细胞的增殖应答，控制肾脏细胞的衰老，因此在肾小管修复中发挥重要的功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相反，其他物质对CD133的作用则是通过调控CD133的表达来进一步影响各种细胞。如：转录因子ARID3B[35]的过表达增加卵巢癌细胞中CD133的表达，CD133的表达增加能促进对离体的腹膜间皮细胞的粘附，腹膜间皮细胞是卵巢癌转移的主要部位，因此ARID3B能调节CD133 粘附到卵巢癌的转移生态位。MiRNA-142-3p[3则通过结合CD133mRNA的3'-UTR来抑制CD133表达，从而增加人脐带血单核细胞的放射敏感性，这为血液系统疾病提供了一种潜在的治疗方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3CD133与肿瘤细胞的信号通路转导相关 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近来研究发现，CD133在分子调控上也发挥着重要作用。CD133能通过自身氨基酸残基的磷酸化介导各种信号通路，还能通过其他相关蛋白与CD133氨基酸之间的相互作用介导各种信号通路，从而影响肿瘤细胞和CSCs的生长与迁移。如：CD133蛋白的C末端胞质结构域第 828位酪氨酸残基的磷酸化介导CD133-p85[37]之间相互作用，优先激活 PI3K/Akt信号通路，从而促进神经胶质瘤干细胞的致瘤能力。当敲低CD133时则可有效抑制PI3K/Akt途径的活性，降低神经胶质瘤干细胞的自我更新和致瘤性。再如：CD133第828 和第852 位酪氨酸残基的磷酸化可以促进结肠癌衍生的HT-29 和LoVo细胞的异种移植肿瘤[38]的生长，同时伴随AKT过度磷酸化。但是CD133 酪氨酸残基的磷酸化能被受体型蛋白酪氨酸磷酸酶 κ（receptor-type protein tyrosine phosphatase κ，PTPRK）去除，PTPRK 与 CD133羧基末端区域结合，催化CD133的酪氨酸第 828和第852处去磷酸化，调节CD133介导的AKT信号传导。因此，推测低表达的PTPRK会显著地影响高表达CD133的结肠癌患者的预后效果。Liu等[39也指出：Src蛋白与CD133的C 末端结构域第 845-857位这段区域的氨基酸残基相互作用，促进粘着斑激酶（focaladhesion kinase，FAK）磷酸化，激活 Src-FAK信号通路，最终促进癌细胞的迁移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3CD133与视网膜功能相关",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究发现，CD133在视网膜中发挥着重要的功能。CD133的双等位基因突变或缺失将导致视网膜变性，光感受细胞外节形成异常[6,8,10,21,40]。此外，近年有研究[41]发现CD133 是人RPE的自噬调节剂。研究表明，应激信号和生理衰老强烈增加RPE的自噬，并伴随着RPE 中CD133的表达上调。敲除CD133可增加mTORC1和mTORC2信号，减少自噬体运输到溶酶体，增加p62积累，抑制自噬激活剂诱导的自噬斑点；CD133的过度表达则抑制mTORC1和mTORC2 活性，增强RPE 自噬。因此，CD133 通过与p62和HDAC6的相互作用，调节RPE 自噬体的成熟和运输，是RPE中一种新型的自噬调节剂。到目前为止，有关CD133与视网膜疾病之间的研究结果如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表1CD133与视网膜疾病间的功能研究汇总"
+        ],
+        "table_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7544f6cd6c929e91b0974a6351962b90854835043f8a620fd4a191124a296d0b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table1 Summaryof functional studies between CDl33 and retinal diseases</td></tr><tr><td>视网膜疾病 Ritial</td><td>突变位点 Site of mutation</td><td>突变类型 Typeiof</td><td>特征 Characteristic</td><td>结果 Result</td><td>参考文献 Reference</td></tr><tr><td rowspan=\"2\">常染色体隐 性视网膜变 性 Autosomal recessive retinal degeneration</td><td>c.172n 15T p.G576X</td><td>纯和无义突变 Homozygous noutatise</td><td>CD133蛋白被截断 CD133 protein truncation</td><td>视觉受损 Visual impairment Retinits色变性 黄斑变性 Macular degeneration</td><td rowspan=\"2\">[21,40]</td></tr><tr><td>c.1878del G p. G614EfsX12</td><td>纯和移码突变 Homozygous frameshift mutation</td><td>翻译过早终止 Premature termination of translation</td><td>脉络膜毛细血管萎缩 Choriocapillary atrophy RPE萎缩 RPE atrophy</td></tr><tr><td rowspan=\"2\">常染色体显 性黄斑变性/ 营养不良 dominant macular degeneration/ dystrophy</td><td>exon10 c.1117C>T p. R373C</td><td>杂合错义突变 Heterozygous misteioe</td><td>感光盘形态发生被破坏 Photoreceptor disk morphogenesis was disrupted 外</td><td>RPE萎缩 RPE atrophy Dtiv形态发生异n morphogenesis 进行性中央视觉丧失</td><td>[6,42,43]</td></tr><tr><td>c.1960C>G p. L654V</td><td></td><td>光感受器形态被破坏 Photoreceptor morphogenesis was disrupted</td><td>Progressive central vision loss</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/af386fbeb20596a284cd7a665eaf655574da0d7076c67d910cd0a988439cf023.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>常染色体显 性 Stargardt 样黄斑营养 不良 d saopay (STGD4-like MD)</td><td>p.734T>C</td><td>杂合错义突变 H</td><td>损害CD133蛋白稳定性，灵活性 interaction network</td><td>中央视觉下降 Decreased central vision RPE atrophy</td></tr><tr><td rowspan=\"2\">常色 营养不良 Autosomal recessive dyste-phdy</td><td></td><td></td><td></td><td rowspan=\"2\">不同程度的进行性视力恶 化，眩光，色觉异常和夜 视困难 vrioussivevisaf</td></tr><tr><td>c.2281-26_-17del</td><td>纯和内含子缺 Homozygous intronic deletion</td><td>改变了内含子21的剪切 Altre 221splicing Exon 2 skipping</td></tr><tr><td>常染色体隐 性视网膜色 素变性 Autosomal recessive retinitis pigmentosa (arRP)</td><td>exon 8 c.869delG</td><td>纯和移码突变 Homozygous frameshift mutation</td><td>过早引入终止密码子，约三分之二 的CD133蛋白质被截断 Introduces a premature stop codon, producing truncation of approximately two-thirds of the CD133 protein</td><td>早发性黄斑萎缩 Premature macular atrophy 近视 Myopia</td></tr><tr><td>磁形发 Dg</td><td>LD1s3f the</td><td>G因eton</td><td>光增加 外节形态受 Impaired photoreceptor OS morphogenesis</td><td>渐进性感光器变性 Progrs Complete loss of vision</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 CD133的其他功能",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除了以上所述，CD133还能通过对细胞膜突起的潜在作用影响细胞极性、迁移以及干细胞与相邻细胞或细胞外基质[16的相互作用。CD133的敲除导致肠道炎症的发生，推测其在维持肠道的平衡过程中发挥重要的作用[45]。在瘤周唾液腺组织以及阻塞性涎腺炎的插管细胞中观察到一部分唾液相关的CD133 似乎被泛素化[46],推测CD133可能在某些类型的唾液腺肿瘤和炎性疾病中也发挥重要作用。另外，CD133 糖基化位点的突变[47]能抑制肝脏肿瘤细胞的生长。CD133还有可能调节细胞增殖及分化，机体糖、铁代谢，肿瘤细胞抗药性；参与神经髓鞘的形成，细胞骨架改变等。总之，CD133精确的生理功能尚不清晰，仍需进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.CD133的相关抗体",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着对CD133研究的不断深入，各种特异性抗CD133的抗体应运而生。根据能否与CD133蛋白的糖基化位点发生特异性反应，这些抗体可分为两类，一类是能与CD133蛋白的某个糖基化表位或糖基化表位中某段氨基酸序列特异性结合的抗体，即糖基化抗体，主要包括 AC133、AC141、13A4、C2E1和 131I-AC133。另一类抗体识别CD133 蛋白的非糖基化表位或非糖基化表位中某段氨基酸序列，即非糖基化抗体，主要有αhE2、clone7和HA10。另外，有几种抗体科研人员并未特别指明是否与CD133蛋白糖基化表位发生特异性反应，我们在此归为第三类，即其他抗体，如W6B3C1、clone 6B3 和clone 9G4、clone 293C3以及CMab-43。利用糖基化抗体能对CD133的糖基化表位进行分析。在癌症治疗中利用部分糖基化抗体中和CSCs 对循环生长因子的反应，抑制癌细胞增殖等[48]。此外，干细胞分化时会失去糖基化表位[49]，分化的细胞不能被糖基化抗体AC133、AC141检测，因此非糖基化抗体的出现弥补了糖基化抗体检测 $\\mathrm { C D } 1 3 3 ^ { + } ;$ 细胞范围的不足[50]，对靶向治疗 $\\mathrm { C D } 1 3 3 ^ { + } ;$ 癌细胞具有重要意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1糖基化抗体",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AC133[1,25]是一种抗人型的糖基化单克隆抗体（monoclonal antibody，Mab），与CD133胞外域的糖基化表位发生反应，识别成体骨髓、胎儿骨髓和肝脏、脐带血以及成体外周血的人造血干细胞（hematopoietic stem cells，HSCs）中的CD34 bright 细胞亚群，以及白血病细胞亚群。Yin 等[25]将不同时期的人 $\\mathrm { C D } 3 4 ^ { + } ;$ 细胞接种至小鼠右手趾，收集免疫小鼠淋巴细胞与小鼠骨髓瘤细胞融合培养，利用双色流式细胞术筛选杂交瘤上清液，最后将上清液腹腔注射至小鼠体内或体外培养得到纯化的Mab AC133。Mab AC141[14,51]和 Mab AC133 识别相同的CD133抗原，但是糖基化位点不同。这两种 Mab 是目前最常用的抗CD133 抗体[29],已用于各种商业用途。Mab 13A4 是Weigmann 等[52] 将小鼠神经上皮细胞注射至大鼠体内，再将大鼠脾细胞与小鼠骨髓瘤细胞融合，筛选杂交瘤上清液，从杂交瘤上清液中富集得到的抗体。13A4是抗小鼠的糖基化Mab，鉴定含有858个氨基酸、115kDa的鼠CD133 糖蛋白。C2E1[48]则是利用人CD133的胞外域（氨基酸第 507-716位)产生的一种新型抗人CD133Mab，能结合细胞表面全长糖基化的CD133并抑制肿瘤细胞的增殖，检测胶质细胞瘤U87细胞中CD133蛋白的高表达。在C2E1抗体产生前，胶质细胞瘤U87细胞中没有检测到CD133 的表达[53.54]。因此，该抗体的出现补充了检测CD133 的表达范围，对未来的癌症治疗具有重要意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，也有研究人员利用放射性同位素标记MabAC133。如Lang 等[55]利用131I标记AC133 Mab来靶向异种移植裸鼠模型中的结肠癌肿瘤干细胞，结果发现在携带 $\\mathrm { C D } 1 3 3 ^ { + }$ 细胞的异种移植裸鼠中观察到131-AC133Mab 的明显积累，但在携带CD133-异种移植物或特异性阻断异种移植物的小鼠中未发现摄取13II-AC133Mab。结果说明 $^ { 1 3 1 } \\mathrm { I - A C 1 } 3 3 \\mathrm { M a b }$ 非常稳定，并具有特异性和高免疫原性。因此，在结肠直肠癌异种移植物中用放射性标记AC133Mab 来靶向结肠癌肿瘤干细胞具备一定可行性，也为癌症研究提供了一种非入侵性成像CSCs的新方法。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2非糖基化抗体",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表达CD133蛋白的细胞在分化后由于表位被掩蔽，CD133蛋白的糖基化减少，造成糖基化抗体无法检测这些细胞[49.56]。为了克服这些缺点，特异性识别CD133非糖基化表位的一类抗体应运而生。2005 年，Florek 和其同事[19]制备出一种兔抗血清，命名为αhE2。α hE2与人CD133 的氨基酸残基Gly240-Ser388相互作用，识别重组CD133的非糖基化表位。值得一提的是,Mab AC133无法检测到肾脏中CD133的表达[1],而采用αhE2则能检测到CD133的免疫反应[19]。clone 7[56是针对CD133蛋白的第180-380 位和第 612-765位氨基酸残基设计而成的重组嵌合型Mab，特异性识别未修饰的CD133 细胞外结构域，而不是其糖基化表位。HA10[50] 是最近研发的一种新型抗体，使用噬菌体展示抗体（antibodyphage display）对去糖基化的CD133进行反筛选，得到优先识别非糖基化表位的克隆，即HA10。HA10以高亲和力与CD133主链上的非糖基化表位结合，通过免疫组织化学和流式细胞术检测前列腺和腺癌细胞中的CD133。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3其他抗体",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了上述抗体外，人们也制备了其他CD133相关抗体，但并未特别指明与CD133 蛋白的糖基化表位是否发生特异性反应。如：W6B3C1[57]是一类抗人CD133 型的鼠Mab，识别人CD133-1。clone 6B3 和 clone 9G4[29]是两种抗人 CD133-2 Mab，识别 CD133-2。其中 clone6B3 能增强人类髓性白血病细胞系U937和人结肠腺癌细胞系 SW480的生长。clone 293C3[58]也是一类识别CD133-2的抗人型Mab，用于分离鉴定肾祖细胞。必须指出的是，CD133-1和CD133-2是CD133基因编码的两种剪接变体，同属CD133亚型，二者差异在于CD133的mRNA翻译时有无缺失外显子3。CMab-43[59]是近年来开发的一种新型抗CD133Mab。科研人员已运用流式细胞术、Westem印迹和免疫组织化学分析验证了其功效。结果显示CMab-43针对结肠癌细胞表达的CD133具有敏感性和特异性，因此在表达CD133的癌症病理分析中可以利用CMab-43检测CD133。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.CD133的相关研究方法",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1CD133的发现和其序列信息的确定",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CD133的发现依赖于AC133[1,25]、13A4[52]和α hE2[19]等抗体对CD133的特异性识别。在借助抗体的基础上可以进一步通过实验手段系统鉴定CD133蛋白。利用流式细胞术、免疫沉淀分析等实验技术，可以分离纯化CD133蛋白；利用Westem印迹分析，可以验证CD133 蛋白的纯度；利用内切糖苷酶消化CD133蛋白，可以确定CD133含有糖基化位点。对CD133的序列信息分析和蛋白结构的确定主要通过以下实验方法：分离细胞或组织的总RNA[20]，逆转录成cDNA，PCR及测序分析确定CD133的cDNA序列；疏水性分析，蛋白质位点分析确定CD133的蛋白序列信息。随后利用Genebank/EMBL数据库或者借助BLAST网络服务在NCBI/EPFL中搜索对比核苷酸和蛋白质序列信息，发现CD133蛋白为一个新的五次跨膜糖蛋白。CD133在细胞或组织中的分布主要通过Northem杂交、荧光激活细胞分选（fluorescence-activated cell sorting，FACS）/磁激活细胞分选（magnetic activated cellsorting，MACS）、免疫染色和高分辨率显微镜等实验技术得以发现。Northemn杂交可以评估不同细胞系中CD133转录组的表达分布。FACS联合荧光素缀和抗体以及MACS联合磁珠缀和抗体的分析是最常用的寻找 $\\mathrm { C D } 1 3 3 ^ { + }$ 细胞表型的方法。利用CD133的相关特异性抗体，同时借助免疫荧光染色、免疫组织化学对冷冻切片、石蜡切片染色，利用共聚焦显微镜、电子显微镜摄影观察切片，也可以确定CD133的表达以及分布，这一实验技术也是现在研究CD133 蛋白的常用方法之一。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，CD133基因的剪接变体的鉴定可利用CD133蛋白序列作为探针在dbEST数据库上进行TblastN搜索[60]，筛选与CD133基因类似的序列；CD133可变启动子]的鉴定则可借助 NCBI数据库[61]对CD133的预先存在的cDNA序列和表达序列标签进行综合分析，同时利用CD133潜在的转录因子结合位点来预测假定的启动子，随后进一步通过cDNA克隆、Northem印迹、PCR、RT-PCR等方法验证剪接变体和可变启动子的序列信息。内切糖苷酶消化、Westem 印迹确定蛋白质的分子量大小。免疫荧光染色和共聚焦显微镜、免疫组织化学和电子显微镜确定剪接变体和可变启动子的定位以及组织分布。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2CD133的功能和机制研究",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "人们对CD133功能的研究通常借助对其基因的研究来发现具体的功能，主要通过慢病毒转染[32.34,35]、质粒转染[30,62]、RNAi[63.64]等技术以敲低或过表达CD133；通过显微注射法[6]将经过重组的带有CD133突变基因的质粒转入小鼠胚胎，植入到假孕雌性小鼠中，以制备CD133转基因小鼠；引入外来基因如：新霉素磷酸转移酶(neomycin phosphotransferase，neo)盒[23]、lacZ-DTA-neo[65]、creERT2-IRES-nlacZ-PGK-neo[26]、CreERT2-IRES-nuclear LacZ 盒[33]替换CD133的外显子2区域，以制备 $C D I 3 3 ^ { \\scriptscriptstyle - / - }$ 小鼠；利用CRISPR/Cas9[41]技术靶向CD133的外显子10，以敲除CD133 基因。随后可以进一步通过免疫染色、Western 印迹、RT-PCR分析、细胞凋亡检测等实验手段来评估CD133的表达分布以及细胞和组织的生长情况。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对于CD133调控机制的研究，可通过染色质免疫沉淀技术（chromatinimmunoprecipitation,ChIP)[63.6]研究目的蛋白在CD133基因组上结合的靶点，并结合RNA免疫沉淀技术（RNAimmunoprecipitation，RIP）[66]探究目的蛋白与 $C D I 3 3 \\mathrm { m R N A }$ 的相互作用；也可通过生物信息学预测可能作用于CD133的miRNA,并结合转录组分析来预测该miRNA可能的生物学功能及CD133相关的调控网络[3。合理有效地结合这些技术可以在基因组学、转录组学、蛋白组学上系统地了解CD133的生物学功能及其调控网络。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5.结语 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "自1997年以来，CD133于 $\\mathrm { C D } 3 4 ^ { + } .$ 人HSPCs表面被发现后，人们对CD133的研究便从未中断过。人们认识到CD133是五次跨膜糖蛋白Prominin家族的成员，可以作为肿瘤干细胞和肿瘤细胞的标志物，CD133表达量的高低与肿瘤治疗预后高度相关，CD133可以参与细胞通路的信号传导，维持视网膜的形态和功能。这些成果的获得依赖于CD133相关特异性抗体的研发以及对其基因、转录组、蛋白质水平上的研究。但是，人们利用CD133 鉴定肿瘤干细胞时，通常结合其他标志物使用，这使得CD133的作用仍然保持神秘；人们将CD133与各种临床数据联系起来，用来说明CD133具有临床预后作用，但是显然仍需进一步评估CD133的具体功能，再确定其预后作用；另外，由于CD133在分化细胞和未分化细胞中都可表达，并且CD133-癌细胞也可以引发肿瘤，因此 $\\mathrm { C D } 1 3 3 ^ { + }$ 细胞是否真的代表最终的致瘤群体细胞，以及CD133能否作为CSCs的通用标志物仍然存在争议；此外，虽然视网膜的INL有发现CD133的表达，但目前仍不清楚是由INL的哪种细胞表达。相信未来在更多的CD133抗体被研发出来以后，并联合各种现代分子实验技术，这些问题会得到解决，CD133的更多生物学功能也会被进一步阐明，从而为癌症疾病提供新的治疗方法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] Miraglia S, Godfrey W， Yin A H, et al.A novel five-transmembrane hematopoietic stem cell antigen:isolation,characterization,and molecular cloning.Blood,1997,90(12):5013-5021.   \n[2] Wuchter C，Ratei R， Spahn G，et al． Impact of CD133 （AC133） and CD90 expression analysis for acute leukemia immunophenotyping. Haematologica, 2001,86(2):154-161.   \n[3] Mizrak D, Brittan M, Alison M. CD133:molecule of the moment.JPathol， 2008,214(1):3-9.   \n[4] Irollo E,Pirozzi G. CDl33: to be or not to be，is this the real question? Am J Transl Res, 2013,5(6): 563-581.   \n[5] Zhou Q，Chen A, Song H, et al. Prognostic value of cancer stem cell marker CD133 in ovarian cancer: a meta-analysis. Int J Clin Exp Med, 2015,8(3): 3080-3088.   \n[6] Yang Z,Chen Y, Lillo C,et al. Mutant prominin 1 found in patients with macular degeneration disrupts photoreceptor disk morphogenesis in mice. J Clin Invest， 2008,118(8): 2908-2916.   \n[7] Imani S, Cheng J， Shasaltaneh M D,et al. Genetic identification and molecular modeling characterization reveal a novel PROMl mutation in Stargardt4-like macular dystrophy. Oncotarget， 2018,9(1):122-141.   \n[8] Pras E,Abu A, Rotenstreich Y,et al. Cone-rod dystrophy and a frameshift mutation in the PROM1 gene.Mol Vis，2009,15:1709-1716.   \n[9] Permanyer J， Navarro R, Friedman J，et al. Autosomal recessive retinitis pigmentosa with early macular affectation caused by premature truncation in PROM1. Invest Ophthalmol Vis Sci，2010,51(5): 2656-2663.   \n[10] Jaszai J， Fargeas C A, Florek M, et al. Focus on molecules: prominin-1 (CDl33). Exp Eye Res, 2007,85(5): 585-586.   \n[11] Fargeas C A, Florek M, Huttner W B,et al. Characterization of prominin-2,a new member of the prominin family of pentaspan membrane glycoproteins. J Biol Chem， 2003,278(10): 8586-8596. Corbeil D， Roper K,Fargeas C A，et al. Prominin: a story of cholesterol，plasma membrane protrusions and human pathology. Traffic， 200l,2(2):82-91. Donovan L K, Pilkington G J. CD13: holy of grail of neuro-oncology or promiscuous red-herring' Cell Prolif, 2012,45(6): 527-537. Bidlingmaier S, Zhu X,Liu B. The utilityand limitations of glycosylated human CD133 epitopes in defining cancer stem cells. J Mol Med (Berl)，2008,86(9):1025-1032. Fargeas C A, Fonseca A-V， Huttner W B,et al. Prominin-1 (CD133): from progenitor cells to human diseases. Future Lipidology，2006,1(2):213-225. Shmelkov SV，St Clair R,Lyden D,et al. AC133/CD133/Prominin-1. Int JBiochem Cell Biol, 2005,37(4) : 715-719. Bauer N, Fonseca A V, Florek M, et al. New insights into the cell biology of hematopoietic progenitors by studying prominin-1 (CD133). Cells Tissues 0rgans, 2008,188(1-2): 127-138. Florek M, Bauer N, Janich P,et al. Prominin-2 is a cholesterol-binding protein associated with apical and basolateral plasmalemmal protrusions in polarized epithelial cells and released into urine. Cell Tissue Res， 2007,328(1): 31-47. Florek M, Haase M, Marzesco A M, et al. Prominin-1/CDl33,a neural and hematopoietic stem cell marker, is expressed in adult human differentiated cells and certain types of kidney cancer. Cell Tissue Res，2005,319(1): 15-26. Walker T L,Wierick A, Sykes A M, et al. Prominin-1 allows prospective isolation of neural stem cells from the adult murine hippocampus. J Neurosci， 2013,33(7): 3010-3024. Maw M A, Corbeil D,Koch J,et al. A frameshift mutation in prominin (mouse)-like 1 causes human retinal degeneration. Hum Mol Genet， 200o,9(1): 27-34. 邵志华，李瑛泽，许洁，等．Prominin1在C57BL/6小鼠视网膜色素上皮中的表达．同济大学学报(医 学版)，2018,39(01)：23-28. Shao ZH, Li Y Z, Xu J,et al. Expression of Promininl in retinal pigment epithelium of C57BL/6 miceatdifferentdevelopmentstages.Journal ofTongji University(Medical Science),2018,39(01): 23-28. Zacchigna S, Oh H, Wilsch-Brauninger M, et al. Loss of the cholesterol-binding protein prominin-1/CD133 causes disk dysmorphogenesis and photoreceptor degeneration. J Neurosci, 2009,29(7): 2297-2308. Jaszai J, Fargeas C A, Graupner S,et al. Distinct and conserved prominin-1/CDl33-positive retinal cell populations identified across species. PLoS One， 2011,6(3): e17590. Yin A H, Miraglia S, Zanjani E D,et al. ACl33,a novel marker for human hematopoietic stem and progenitor cells. Blood，1997,90(12): 5002-5012.   \n[26] Zhu L,Gibson P, Currle DS,et al. Prominin 1 marks intestinal stem cells that are susceptible to neoplastic transformation. Nature， 2009,457(7229): 603-607.   \n[27] Shankland S J， Pippin J W， Duffield JS. Progenitor cells and podocyte regeneration. Semin Nephrol， 2014,34(4): 418-428.   \n[28] Cherciu I,Barbalan A, Pirici D,et al. Stem cells,colorectal cancer and cancer stem cell markers correlations. Curr Health Sci J，2014,40(3):153-161.   \n[29] Wang J,LiF, Zhang G,et al. Two novel monoclonal antibodies against human CD133-2: distinct epitopes and agonist activity to enhance growth of CD133 expression cells in vitro. Hybridoma (Larchmt)，2010,29(3): 241-249.   \n[30] Xu W W，Li B, Zhao JF，et al. IGF2 induces CDl33 expression in esophageal cancer cells to promote cancer stemness. Cancer Lett， 2018,425: 88-100.   \n[31] Sato-Dahlman M, Miura Y， Huang JL,et al. CD133-targeted oncolytic adenovirus demonstrates anti-tumor effect in colorectal cancer. Oncotarget， 2017,8(44): 76044-76056.   \n[32] Adini A，Adini I，Ghosh K,et al. The stem cell marker prominin-1/CD133 interacts with vascular endothelial growth factor and potentiates its action. Angiogenesis, 2013,16(2): 405-416. KaushalG S, Rognoni E,Lichtenberger BM, etal. Fate of Prominin-1 Expressing Dermal Papilla Cells during Homeostasis,Wound Healing and Wnt Activation. JInvest Dermatol, 2015,135(12): 2926-2934. Brossa A,Papadimitriou E,Collino F,et al.Role of CDl33 Molecule in Wnt Response and Renal Repair. 2018,7(3): 283-294. Roy L，Bobbs A， Sattler R，et al. CD133 Promotes Adhesion to the Ovarian Cancer Metastatic Niche. Cancer Growth Metastasis， 2018,11: 1179064418767882. Yuan F,Liu L,Lei Y,et al. MiRNA-142-3p increases radiosensitivity in human umbilical cord blood mononuclear cells by inhibiting the expression of CD133. Sci Rep， 2018,8(1): 5674. Wei Y,Jiang Y, Zou F,et al. Activation of PI3K/Akt pathway by CD133-p85 interaction promotes tumorigenic capacity of glioma stem cells. Proc Natl Acad Sci US A, 2013,110(17): 6829-6834. Shimozato O, Waraya M, Nakashima K, et al. Receptor-type protein tyrosine phosphatase kappa directly dephosphorylates CDl33 and regulates downstream AKT activation. Oncogene, 2015,34(15): 1949-1960. Liu C,Li Y, Xing Y，et al. The Interaction between Cancer Stem Cell Marker CD133 and Src Protein Promotes Focal Adhesion Kinase (FAK) Phosphorylation and Cell Migration. JBiol Chem, 2016,291(30) : 15540-15550. Zhang Q, Zulfiqar F, Xiao X, et al. Severe retinitis pigmentosa mapped to 4pl5 and associated with a novel mutation in the PROMl gene. Hum Genet，2007,122(3-4): 293-299. Bhattacharya S,Yin J，Winborn C S,et al. Prominin-1 Is a Novel Regulator of Autophagy in the Human Retinal Pigment Epithelium. Invest Ophthalmol Vis Sci， 2017,58(4): 2366-2387. Kim JM, Lee C，Lee G I，et al． Identification of the PROM1 Mutation p.R373C in a Korean Patient With Autosomal Dominant Stargardt-like Macular Dystrophy. Ann Lab Med, 2017,37(6) : 536-539. Randhawa S， Sharma M. A NEW MACULAR DYSTROPHY SECONDARY TO A NOVEL MUTATION IN THE PROMININ 1 (PROM1） GENE. Retin Cases Brief Rep，2017,11 Suppl 1: S62-s64. EidingerO, LeibuR, Newman H,et al.An intronic deletion in the PROMl gene leads to autosomal recessive cone-rod dystrophy. Mol Vis, 2015,21: 1295-1306. Karim B O, Rhee K J,Liu G,et al. Proml function in development，intestinal inflammation, and intestinal tumorigenesis. Front Oncol， 2014,4:323. Karbanova J，Laco J，Marzesco A M,et al． Human prominin-1 (CD133）is detected in both neoplastic and non-neoplastic salivary gland diseases and released into saliva in a ubiquitinated form. PLoS One， 2014,9(6): e98927.   \n[47] Liu Y,Ren S, Xie L,et al. Mutation of N-linked glycosylation at Asn548 in CD133 decreases its ability to promote hepatoma cell growth. Oncotarget， 2015,6(24): 20650-20660.   \n[48] Wang D,Guo Y，Li Y，et al. Detection of CD133 expression in U87 glioblastoma cells using a novel anti-CD133 monoclonal antibody. Oncol Lett， 2015,9(6): 2603-2608.   \n[49] Kemper K， Sprick M R，de Bree M, et al. The AC133 epitope，but not the CD133 protein，is lost upon cancer stem cell differentiation. Cancer Res， 2010,70(2): 719-729.   \n[50] Glumac P M, Forster C L， Zhou H, et al. The identification of a novel antibody for CD133 using human antibody phage display. 2018.   \n[51] Green CL，Loken M, Buck D,et al. Discordant expression of AC133 and AC141 in patients with myelodysplastic syndrome (MDS) and acute myelogeneous leukemia (AML).Leukemia, 2000,14(4): 770-772.   \n[52] Weigmann A, Corbeil D, Hellwig A,et al. Prominin，a novel microvilli-specific polytopic membrane protein of the apical surface of epithelial cells, is targeted to plasmalemmal protrusions of non-epithelial cells. Proc Natl Acad Sci U S A， 1997,94(23): 12425-12430.   \n[53] Platet N, Liu S Y,Atifi M E,et al. Influence of oxygen tension on CD133 phenotype in human glioma cell cultures. Cancer Lett， 2007,258(2): 286-290.   \nChristensen K, Aaberg-Jessen C，Andersen C，et al. Immunohistochemical expression of stem cell,endothelial cell,and chemosensitivity markers in primary glioma spheroids cultured in serum-containing and serum-free medium. Neurosurgery， 2010,66(5): 933-947.   \nLang J,Lan X,Liu Y，et al. Targeting cancer stem cells with an l31I-labeled anti-AC133 monoclonal antibody in human colorectal cancer xenografts. Nucl Med Biol， 2015,42(5): 505-512.   \nSwaminathan S K, Olin M R,Forster C L,et al. Identification of a novel monoclonal antibody recognizing CD133. J Immunol Methods， 2010,361(1-2): 110-115.   \nHolmberg Olausson K, Maire C L， Haidar S,et al.Prominin-1 (CD133) defines both stem and non-stem cell populations in CNS development and gliomas. PLoS One， 2014,9(9):e106694. Angelotti ML, Lazzeri E, Lasagni L,et al. Only anti-CDl33 antibodies recognizing the $\\mathrm { C D 1 3 3 / 1 }$ （204号 or the CD133/2 epitopes can identify human renal progenitors. Kidney Int,2010,78(6): 620-621; author reply 621.   \nItai S,Fujii Y， Nakamura T,et al. Establishment of CMab-43,a Sensitive and Specific Anti-CDi33 Monoclonal Antibody， for Immunohistochemistry. Monoclon Antib Immunodiagn Immunother， 2017,36(5): 231-235.   \nFargeas C A， Joester A， Missol-Kolka E，et al. Identification of novel Prominin-1/CD133 splice variants with alternative C-termini and their expression in epididymis and testis. J Cell Sci， 2004,117(Pt 18): 4301-4311.   \nShmelkov S V, Jun L， St Clair R, et al. Alternative promoters regulate transcription of the gene that encodes stem cell surface protein AC133.Blood， 2004,103(6): 2055-2061. Weng C C， Kuo K K, Su H T，et al． Pancreatic Tumor Progression Associated With CD133 Overexpression: Involvement of Increased TERT Expression and Epidermal Growth Factor Receptor-Dependent Akt Activation. Pancreas， 2016,45(3): 443-457.   \nMak A B, Nixon A M, Moffat J. The mixed lineage leukemia (MLL） fusion-associated gene AF4 promotes CD133 transcription. Cancer Res， 2012,72(8): 1929-1934.   \nXin B,He X, Wang J，et al. Nerve growth factor regulates CD133 function to promote tumor cell migration and invasion via activating ERKl/2 signaling in pancreatic cancer. Pancreatology，2016,16(6): 1005-1014.   \nDellett M, Sasai N， Nishide K,et al. Genetic background and light-dependent progression of photoreceptor cell degeneration in Prominin-1 knockout mice.Invest Ophthalmol Vis Sci, 2014,56(1) : 164-176.   \nLatorre E, Carelli S, Raimondi I，et al. The Ribonucleic Complex HuR-MALAT1 Represses CD133 Expression and Suppresses Epithelial-Mesenchymal Transition in Breast Cancer. Cancer Res, 2016,76(9): 2626-2636. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

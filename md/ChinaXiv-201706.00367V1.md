@@ -1,0 +1,191 @@
+# 横流热源塔传热传质系数实验研究
+
+黄世芳　吕珍余　梁彩华　张小松(东南大学能源与环境学院，南京210096)
+
+摘要热源塔热泵系统由于其可实现高效制冷制热，无结霜问题，且不受地理条件限制，受到了越来越多的关注。热源塔作为热泵系统冬季取热的核心部件，对系统整体性能有着重要影响。本文构建了以乙二醇溶液为循环工质的横流热源塔实验系统，研究了空气流量、温度、含湿量及溶液流量、温度、浓度对传热传质系数的影响规律，并拟合出了关联式，结果显示传热传质系数主要受空气流量密度及淋液密度的影响，Le数在 $0 . 9 1 { \sim } 1 . 1 2$ 之间变化。
+
+关键词热源塔；传热系数；传质系数；刘易斯数中图分类号：TU831.6 文献标识码：A 文章编号:0253-231X(2017)05-0914-06
+
+# Experimental Study of Heat and Mass Transfer Coefficients in a Cross-Flow Heating Tower
+
+HUANG Shi-FangLU Zhen-YuLIANQCai-Hua ZHANG Xiao-Song (School of Energyand Environment,Southeast University，Nanjing，210096,China)
+
+Abstract A heating tower heat pump(HTHP),las a novel integrated heating and cooling unit, is drawing more and more attention due toits bigh effciency, low limitation of geographic conditions and no frost issue. Heating tower is aSignificant unit of HTHP system and greatly affects system performance.This paper experimnpally studies the heat and mass transfer characteristics of a cros-flow heating tower， whieTuses PVC structured packing and takes glycol as cycling fluid. The effects of the inlet parameters, including air and solution flow rates, air inlet temperature and humidity ratio,solution inlet temperature and concentration,on heat and mass transfer coefficients are investigated. Correlation expressions of heat and mass transfer coefficients are proposed, which shows the coefficients mainly depend on air and solution flow rates. And the Lewis number in this research is about $0 . 9 1 { \sim } 1 . 1 2$ ： e
+
+Key wordsheating tower; heat transfer coefficient; massCtransfer coefficient; Lewis number
+
+# 0引言
+
+常规的空调系统冷热源方案可分为三类：冷水机组加锅炉，空气源热泵，水地源热泵。冷水机组在夏季有着较高的效率[1，但是冬季机组处于闲置状态，只能依靠锅炉供热，而锅炉一次能源利用率较低，且对环境有污染；空气源热泵可实现冬夏兼顾，但是夏季机组效率与冷水机组相比较低，且冬季结霜时系统COP及供热量衰减的问题[2]；水地源热泵在冬夏季都拥有较高的效率[3.4]，但是其初投资较大，受到地理地质条件限制。基于此，发展出了一种新型的热泵系统—热源塔热泵系统，其夏季运行工况与常规冷水机组一致，依靠塔中循环水的蒸发冷却将机组冷凝热排放到室外，冬季工况下，塔内循环工质为低温溶液 (或水)，主要依靠温差从室外空气中吸热作为热泵的低位热源。热源塔热泵系统实现了冬夏兼顾，无结霜问题，且不受地理条件限制，是一种具有较大潜力的冷热源解决方案。
+
+在冬季气温较高的地区，水即可作为循环工质，Tan 与 $\mathrm { D e n g ^ { [ 5 - 7 ] } }$ 对以水为循环工质的逆用冷却塔 (热源塔)进行了研究，指出了逆用冷却塔与冷却塔在原理及运行模式上的区别，并结合热泵机组的获得了系统COP的变化规律。在寒冷地区，冬季工况下热源塔内的循环工质为具有较低冰点的溶液，Liang[8]对以乙二醇溶液为循环工质的开式逆流热源塔系统进行了研究，在环境温度 $- 2 ^ { \circ } \mathrm { C }$ ，系统蒸发温度为 $- 1 3 . 1 \sim - 8 . 7 ^ { \circ } \mathrm { C }$ 时，系统COP为$2 . 7 2 { \sim } 3 . 0 2$ 。 $\mathrm { L i } ^ { [ 9 ] }$ 对以尿素溶液作为循环工质的闭式热源塔系统进行了研究，在室外温度 $- 1 \sim 5 ^ { \circ } \mathrm { C }$ ，湿度 $7 1 \% \sim 9 5 \%$ 的条件下，系统COP可达 $2 . 5 8 { \sim } 3 . 9$ 。前人对于热源塔热泵的研究主要集中在系统性能方面，热源塔作为热泵系统从空气中取热的核心部件，其传热传质系数是热源塔设计及优化中的关键参数，但相关研究较少。 $\mathrm { W u } ^ { [ 1 0 ] }$ 利用神经网络算法，避免了热源塔中复杂的耦合传热传质计算，得出了热源塔的出口参数。神经网络算法虽然能获得出口参数的数值解，但无法反映传热传质过程的规律，亦无法获得传热传质系数。Wen[11] 对基于Muten 填料的横流热源塔进行了实验研究，在假设Le数近似为1的条件下，获得出了传热系数的关联式。对于水一空气系统，Le数可近似取为1，而在热源塔的热质传递过程中，Le数是否仍可取1尚无定论。
+
+本文通过实验研究，获得了空气流量、温度、含湿量及溶液流量、温度、浓度对传热传质的影响规律，并在不假设Le数的前提下，利用耦合传热传质模型，通过有限差分法分别校核空气出口温度及含湿量获得了传热传质系数，并拟合出了关联式，为热源塔的设计及优化提供了依据。 学护
+
+# 1热源塔耦合热质传递模型
+
+本文选用的横流热源塔填料模块如图1(a）所示，溶液通过孔板布液器均匀分希至填料上方，在重力作用下沿填料表面呈液膜状流下，空气从填料侧面进入，流经填料表面与溶液进行热质交换。若空气与溶液沿截面分布均匀，则在 $z$ 方向空气与溶液的参数不发生变化，所以可以将模型简化成 $x - y$ 平面的二维模型[12]，如图1(b）所示。
+
+下面对该模型进行以下几点假设：1）传热系数及传质系数在整个填料中保持一致；2)填料表面的传热与传质面积相同；3)流动方向的热传导或热扩散可以忽略；4)填料在二维方向润湿均匀。图 1(b)所示的二维模型可以分成若干个微元，单个微元如图1(c）所示，微元体积为 $d V = L \times d x \times d y .$ 。单个微元内空气与溶液的显热传递方程为：
+
+$$
+h _ { \mathrm { c } } \cdot L \cdot \mathrm { d } x \cdot \mathrm { d } y \cdot \alpha _ { \mathrm { w } } \cdot ( T _ { \mathrm { s } } - T _ { \mathrm { a } } ) =
+$$
+
+$$
+m _ { \mathrm { a } } \cdot \left( C _ { p , \mathrm { a } } + w _ { \mathrm { a } } \cdot C _ { p , \mathrm { v } } \right) \cdot \mathrm { d } T _ { \mathrm { a } }
+$$
+
+式中 $h _ { \mathrm { c } }$ 为传热系数， $\mathrm { W { \cdot m } ^ { - 2 } . { ^ \circ } C ^ { - 1 } }$ ; $\alpha _ { \mathrm { w } }$ 为填料比表面积， $\mathrm { m ^ { 2 } { \cdot } m ^ { - 3 } }$ ; $ { T _ { \mathrm { s } } }$ 为溶液温度, $^ { \circ } \mathrm { C }$ ; $T _ { \mathrm { a } }$ 为空气温度， $^ { \circ } \mathrm { C }$ $m _ { \mathrm { a } }$ 为空气质量流量, $\mathrm { k g { \cdot } s ^ { - 1 } }$ $C { p , \mathrm { { a } } }$ 为空气比热容, $\mathrm { k J \cdot k g ^ { - 1 . \circ } C ^ { - 1 } }$ $w _ { \mathrm { a } }$ 为空气含湿量, $\mathrm { k g { \cdot } k g ^ { - 1 } }$ ; $C _ { p , \mathrm { v } }$ 为水蒸气比定压热容， $\mathrm { k J \cdot k g ^ { - 1 . \circ } C ^ { - 1 } }$ 。
+
+空气与溶液的潜热传递方程：
+
+$$
+\sin ( \frac { \pi } { 2 } \pi \times \pi ) \sin ( \frac { \pi } { 2 } \pi \times \pi ) + \frac { \textstyle } { 2 } ( y \cdot \alpha _ { \mathrm { w } } \cdot ( w _ { \mathrm { s } } - w _ { \mathrm { a } } ) = m _ { \mathrm { a } } \cdot \mathrm { d } w _ { \mathrm { a } }
+$$
+
+式中， $h _ { \mathrm { d } }$ 为传质系数， $\mathrm { g \cdot m ^ { - 2 } \cdot s ^ { - 1 } }$ ： $w _ { \mathrm { s } }$ 为溶液表面等效含湿量, $\mathrm { k g { \cdot } k g ^ { - 1 } }$ 。
+
+能量守恒、水分质量守恒、溶液溶质守恒可由式 $( 3 ) { \sim } ( 5 )$ 表示：
+
+$$
+m _ { \mathrm { a } } \cdot \mathrm { d } h _ { \mathrm { a } } = - C _ { p _ { \mathrm { s } } } \cdot m _ { \mathrm { s } } \mathrm { d } \cdot T _ { \mathrm { s } } - C _ { p _ { \mathrm { s } } } \cdot T _ { \mathrm { s } } \cdot \mathrm { d } m _ { \mathrm { s } }
+$$
+
+$$
+{ \mathfrak { c } } ^ { \ q _ { m _ { \mathrm { s } } } } = - m _ { \mathrm { a } } \cdot \mathrm { d } w _ { \mathrm { a } }
+$$
+
+$$
+X _ { 8 } \times m _ { 3 } = ( X _ { 8 } + d X _ { 8 } ) ( m _ { \mathrm { s } } + d m _ { \mathrm { s } } )
+$$
+
+式中， $\mathcal { A } _ { \mathrm { a } } ^ { \dagger }$ 为空气焓值， $\mathrm { k J \cdot k g ^ { - 1 } }$ ; $C _ { p _ { \mathrm { s } } }$ 为溶液比热容， $\mathrm { \measuredangle { \vec { \Delta } { \Psi } \cdot \vec { k } \mathrm { g } ^ { - 1 } \cdot { ^ { \circ } C ^ { - 1 } } } }$ ; $m _ { \mathrm { s } }$ 为溶液质量流量， $\mathrm { k g \cdot s ^ { - 1 } }$ ; $X _ { \mathrm { s } }$ 为溶液质量分数， $\%$ 。
+
+![](images/ff7cef48f2a892faa0e4452a717e210134b437de57e109738768b672f05faa27.jpg)  
+图1(a)横流热源塔三维模型(b)横流热源塔二维模型(c)单个微元示意图 Fig.1(a)Schematicofthecross-fow heating tower(b)Twodimensionalschematicofthecross-fow heating tower(c)An infinitesimal element of the cross-flow heating tower
+
+![](images/d26f6b9c51391dbf4a17f6475a0ec3cd95bf5d7759a88af84729b2a264b349a2.jpg)  
+Fig.2 Schematic diagram of the experimental setup
+
+用于描述对流过程中传热和传质相对大小的刘易斯数 $L e$ 可表示为：
+
+$$
+L e = { \frac { h _ { \mathrm { c } } } { h _ { \mathrm { d } } \cdot C _ { p _ { \mathrm { a } } } } }
+$$
+
+乙二醇溶液表面水蒸气分压力[13,14]为：
+
+$$
+\begin{array} { r } { \log \displaystyle \frac { P } { P _ { 0 } } = 5 . 3 5 1 - 6 . 4 \times 1 0 ^ { - 2 } X \mathrm { _ s } - \displaystyle \frac { 3 ^ { 2 } } { 8 ^ { 3 } } } \\ { \displaystyle \frac { 1 8 1 7 + 0 . 8 X \mathrm { s } \left( 1 0 0 X \mathrm { s } + 1 0 \right) \mathrm { M } } { T _ { \mathrm { s } } + 2 4 0 \mathrm { \quad } \lambda _ { \mathrm { s } } ^ { \mathrm { M } } } } \end{array}
+$$
+
+式中， $P$ 为溶液表面水蒸气分压力， $\mathrm { \ k P a }$ ; $P _ { 0 }$ 为大气压， $1 0 1 . 3 2 5 ~ \mathrm { k P a }$ 。
+
+乙二醇溶液表面等效含湿量为：
+
+$$
+w _ { \mathrm { s } } = 0 . 6 2 2 { \frac { P } { P _ { 0 } - P } }
+$$
+
+热源塔中的传热传质过程相互耦合，无法通过简单的平均势差或对数平均势差计算，本文采用有限差分法对划分的微元逐个计算[12]，为减少迭代计算的次数，采用平均温差及含湿量差计算的传热传质系数作为迭代的初始值，并利用牛顿迭代法计算的传热传质系数作为迭代的返回值，直至出口空气温度和含湿量符合误差要求。
+
+# 2 实验设置
+
+# 2.1实验系统
+
+实验系统如图2所示，其中热质交换模块为PVC人字波纹填料，是实验系统的核心部件，如图3所示，其比表面积为 $1 7 2 ~ \mathrm { m ^ { 2 } { \cdot } m ^ { - 3 } }$ ，片间距为 $\mathrm { 1 5 ~ m m }$ ，结构尺寸为 $L \times W \times H { = } 2 8 0 \mathrm { m m } { \times } 4 3 0 \mathrm { m m } { \times } 7 0 0 \mathrm { m m } .$ 实验系统主要包括两个部分：空气处理系统和溶液循环系统。空气处理系统由表冷器、电加热器、蒸汽加湿器及风机组成，控制填料入口空气的温度与湿度。溶液循环系统由溶液槽、套管式蒸发器、电加热器及溶液泵组成，控制填料入口溶液的温度。选取乙二醇溶液作为系统的循环工质。
+
+![](images/7159699dd0a5b910cfc14a4ae26f22a804e30c2e3eecbb866587e82987b9aa5f.jpg)  
+图2横流热源塔实验原理图  
+图3填料示意图  
+Fig.3 Diagram of PVC structured packings
+
+# 2.2测量装置
+
+实验过程中主要测试的数据填料进出口空气温度、含湿量，溶液进出口温度、浓度，以及空气溶液的流量，测量仪器型号及精度如表1所示，测量数据通过 Agilent 34970A进行采集记录。
+
+# 3实验结果与分析
+
+# 3.1能量平衡
+
+实验研究了空气流量密度、空气温度、空气含湿量、淋液密度、溶液温度、溶液浓度对传热传质系数的影响规律，各工况下实验参数设置如表2所示。30组实验的空气侧与溶液侧的能量平衡均在 $\pm 1 5 \%$ 以内，平均 $7 . 1 \%$ ，符合实验误差要求。
+
+# 表1测量仪器说明
+
+Table1 Specification of the different measuring devices   
+表2实验参数设置  
+
+<html><body><table><tr><td>Devices</td><td>Type</td><td>Parameters</td><td>Accuracy</td><td>Range</td></tr><tr><td rowspan="3">Temperature and Humidity sensor</td><td rowspan="3">HMT330</td><td rowspan="3">Air temperature and humidity</td><td>0.2°C</td><td>-40~80°℃</td></tr><tr><td>1% RH(0-90RH%)</td><td>0~100%RH</td></tr><tr><td>1.7%(90-100RH%)</td><td></td></tr><tr><td>Air flow meter</td><td>CP300</td><td>Air flow rate</td><td>0.5 FS</td><td>0~2000 m/h</td></tr><tr><td>thermometer</td><td>PT RTD</td><td>Solution temperature</td><td>0.1C</td><td>-200~ +500°</td></tr><tr><td>Solution flow meter</td><td>LWC-15C</td><td>Solution flow rate</td><td>1% FS</td><td>0~6 m³/h</td></tr><tr><td>Densitometer</td><td>一</td><td>Solution density</td><td>1kg/m3</td><td>1000~1100 kg/m3</td></tr></table></body></html>
+
+Table 2 The experimental operating conditions   
+
+<html><body><table><tr><td>No.</td><td>Ga/ kg·m-2.s-1</td><td>Tai/ C</td><td>dai/ g·kg-1</td><td>Gs/ kg·m-2.s-1</td><td>Tsi/ C</td><td>Xs/ %</td></tr><tr><td>1</td><td>1.44~3.21</td><td>1.50±0.20</td><td>3.55±0.05</td><td>4.30±0.05</td><td>-7.10±0.20</td><td>30.09</td></tr><tr><td>2</td><td>2.95±0.05</td><td>2.83~9.73</td><td>4.15±0.05</td><td>2.85±0.05</td><td>-3.40±0.10</td><td>20.64</td></tr><tr><td>3</td><td>2.95±0.05</td><td>6.05±0.10</td><td>2.84~4.78</td><td>2.85±0.05</td><td>-3.20 ±0.10</td><td>20.64</td></tr><tr><td>4</td><td>3.20±0.05</td><td>1.90±0.10</td><td>3.40±0.10</td><td>244.29</td><td>-7.10 ±0.20</td><td>30.09</td></tr><tr><td>5</td><td>2.95±0.05</td><td>8.10±0.10</td><td>5.10±0.10</td><td>.90±0.05.</td><td>-4.77 ~ 1.51</td><td>17.65</td></tr><tr><td>6</td><td>2.95±0.05</td><td>7.10±0.10</td><td>4.65±0.05</td><td>N3.05±0.05</td><td>1.20±0.10</td><td>18.15~31.09</td></tr></table></body></html>
+
+# 3.2传热传质系数受各参数的影响规律
+
+传热传质系数主要与流体性质、壁面何形状和粗糙度、流体速度有关。在本文实验史不同组实验所用填料保持一致，因此壁面几狗形状和粗糙度的影响可以忽略，仅需分析流体性质和流体速度对传热传质系数的影响。
+
+由图4和图7可知，随着空气流量密度或淋液密度的增加，传热传质系数均显著增加。这是因为空气流量密度及淋液密度的增加均使得溶液表面与空气主流的扩散渗透加强，同时液膜扰动加剧，因此传热传质系数增加显著。由图 $5 { \sim } 6$ 可知，传热传质系数基本不受空气入口温度及含湿量的影响。这是因为入口空气温度和含湿量仅通过影响空气及溶液的物性来影响热质传递过程，而在本文对应的两组实验中，空气平均温度仅变化 $5 . 7 1 ^ { \circ } \mathrm { C }$ 和 $0 . 0 4 ^ { \circ } \mathrm { C }$ 溶液温度仅变化 $0 . 5 2 ^ { \circ } \mathrm { C }$ 和 $0 . 2 3 ^ { \circ } \mathrm { C }$ ，在该温度变化范围内，两种流体的性质变化十分有限。由图 $8 { \sim } 9$ 可知，传热传质系数基本不受溶液入口温度及浓度的影响。这是因为入口溶液温度和浓度仅通过影响空气及溶液的物性来影响热质传递过程，而在对应的两组实验中，空气平均温度仅变化 $0 . 9 1 ^ { \circ } \mathrm { C }$ 和 $0 . 0 4 ^ { \circ } \mathrm { C }$ 溶液温度仅变化 $1 . 0 4 ^ { \circ } \mathrm { C }$ 和 $0 . 0 4 ^ { \circ } \mathrm { C }$ ，在该温度变化范围内，两种流体的性质变化十分有限。
+
+# 3.3热质传递系数拟合
+
+由3.2分析可知，空气入口温度、含湿量，溶液入口温度、浓度仅通过影响两种流体的物性来影响传热传质系数，而在热源塔的运行工况范围内，该
+
+![](images/bb6059ba021652108e4deb6b9d2c2e81d7e9d89d986a78f7b11b4426abe53bbd.jpg)  
+图4 空气流量密度对传热传质系数的影响Fig.4 Effect of air flow flux on heat and mass transfercoefficients
+
+![](images/d85259dfb0500d0e33191b023aa5428c5098b40a17f1891776d0eaac3bd8ba11.jpg)  
+图5空气入口温度对传热传质系数的影响Fig.5 Effect of air inlet temperature on heat and masstransfer coefficients
+
+![](images/1df58d542e43fa332e646c310c1dc4a1976f704726ba0014547ec5463ff7575f.jpg)  
+图6 空气入口含湿量对传热传质系数的影响Fig.6 Effect of air inlet humidity ratio on heat and masstransfer coefficients
+
+![](images/607439f3c09075ee70f036b5c6cce25b1e1129e71a2a900c021ca793716a19db.jpg)  
+图7淋液密度对传热传质系数的影响 Fig.7 Effect of solution flow flux on heat and mass transfer coefficients
+
+![](images/319a146d40d9c79cec1729479743ca5535e738e6e596e8788cfcbb1125f077d1.jpg)  
+图8溶液入口温度对传热传质系数的影响 Fig.8 Effect of solution inlet temperature on heat and mass transfer coefficients
+
+影响导致的物性变化十分有限，可以忽略。而空气流量密度与淋液密度的变化都会显著影响传热传质
+
+系数。利用Levenberg-Marquardt算法对所得传热传质系数与空气流量密度、淋液密度的关系进行了拟合，拟合结果如下。
+
+$$
+h _ { \mathrm { c } } = 4 . 7 6 0 0 \cdot G _ { \mathrm { s } } ^ { 0 . 4 2 8 9 } \cdot G _ { \mathrm { a } } ^ { 0 . 8 6 7 8 }
+$$
+
+$$
+h _ { \mathrm { d } } = 4 . 8 2 6 4 \cdot G _ { \mathrm { s } } ^ { 0 . 4 2 9 8 } \cdot G _ { \mathrm { a } } ^ { 0 . 8 6 4 6 }
+$$
+
+式中， $G _ { \mathrm { s } }$ 为空气质量流速， $\mathrm { k g { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ ; $G _ { \mathrm { a } }$ 为淋液密度， $\mathrm { k g { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ 。
+
+![](images/e5b2b7592afdba054573b92fba1bb3c5fc4ab96103ff1eefaf1f602105231fec.jpg)  
+图9溶液入口浓度对传热传质系数的影响  
+Fig.9 Effect of solution inlet concentration on heat and mass transfer coefficients
+
+式 $( 9 \underset { 5 } { \overset { \times } { \bigcirc } } , \overset { \times } { \bigcirc } )$ 的相关系数分别为0.955，0.954，适用的淋水密度范围为 $2 . 3 2 { \sim } 4 . 3 0 \ \mathrm { k g { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ ，空气流量密度范围为 $1 . 4 3 { \sim } 3 . 3 1 \ \mathrm { k g { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ ，实验的 $L e$ 数在 $0 . 9 1 \mathrm { \sim } 1 . 1 2$ 之间。
+
+# 4结论
+
+本文构建了横流热源塔实验系统，研究了空气流量、温度、含湿量及溶液流量、温度、浓度对横流热源塔传热传质系数的影响规律：在热源塔的运行工况内，空气温度、空气含湿量、溶液温度、溶液浓度这四个参数变化造成的空气和溶液的物性变化范围较小对传热传质系数的影响可以忽略；传热传质系数主要受空气流量密度及淋液密度的影响，空气流量密度和淋液密度的增加都会导致传热传质系数的增加，得出了传热传质系数与空气流量密度及淋液密度的关联式，相关系数为0.95，适用的淋水密度范围为 $2 . 3 2 { \sim } 4 . 3 0 \ \mathrm { k g { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ ，空气流量密度范围为$1 . 4 3 { \sim } 3 . 3 1 \ \mathrm { k g { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ ，空气流量密度的影响较淋液密度大；本实验工况范围内， $L e$ 数在 $0 . 9 1 { \sim } 1 . 1 2$ 之
+
+间变化。
+
+# 参考文献
+
+[1]Stanford III HW.HVAC Water Chillers and Cooling Towers:Fundamentals,Application,and Operation [M].CRC Press,2011   
+[2]Gong G,Tang J,Lv D,et al.Research on Frost Formation in Air Source Heat Pump at Cold-moist Conditions in Central-South China [J]．Applied Energy，2013,102: 571-581   
+[3]Sarbu I,Sebarchievici C.General Review of GroundSource Heat Pump Systems for Heating and Cooling of Buildings [J].Energy and Buildings,2014,70:441-454   
+[4] Yang W, Zhou J,Xu W,et al. Current Status of GroundSource Heat Pumps in China [J].Energy Policy,2010, 38(1):323-332   
+[5] Tan K,Deng S.A Numerical Analysis of Heat and Mass Transfer Inside a Reversibly Used Water Cooling Tower [J].Building and Environment,2003,38(1):91-97   
+[6] Tan K,Deng S.A Method for Evaluating the Heat and Mass Transfer Characteristics in a Reversibly Used Water Cooling Tower (RUWCT) for Heat Recovery [J].International Journal of Refrigeration,2002,25(5): 552-561 S   
+[7] Tan K X,Deng S M.A Simulation Study on a Wate Chiller Complete With a Desuperheater and a Reversibly Used Water Cooling Tower (RUWCT） for Serviee Hot Water Generation [J].Building and Environment,2002, 37(7): 741-751 丸物奶   
+[8] 梁彩华，文先太，张小松.基于热源塔的热泵系统构建与试 验[J].化工学报,2010,61(S2):142-146 Liang C,Wen X,Zhang X.Construction and Experimental Research on Heat Pump System Based on Heat Source Tower [J].CIESC Journal,2010,61(S2):142-146 [9]NianpingL,Wenjie Z,LijieW,et al.Experimental Study on Energy Efficiency of Heat-Source Tower Heat Pump Units in Winter Condition[C]//Third International Conference on Measuring Technology and Mechatronics Automation．IEEE,2011:135-138   
+[10] Wu J,Zhang G,Zhang Q,et al．Artificial Neural NetworkAnalysis of the Performance Characteristics ofa Reversibly Used Cooling Tower Under Cross Flow Conditions forHeat Pump Heating System in Winter [J].Energy and Buildings,2011,43(7):1685-1693   
+[11]Wen X,Liang C,Zhang X.Experimental Study on Heat Transfer Coeffcient Between Air and Liquid in the Crossflow Heat-Source Tower [J].Building and Environment, 2012,57:205-213   
+[12] Liu X H, Jiang Y,Qu K Y. Heat and Mass Transfer Modelof Cross Flow Liquid Desiccant air Dehumidher Regenerator [J]. Energy Conversion and Management，2007,48(2):546-554 FUJIT T,KAMETANI S.Thermal Characteristicsof Heating Towers [J].Transactions of the Japan Society of Refrigerating and Air Conditioning Engineers,1998,6(3): 265-274   
+[14]FUJIT T,KIKUCHI S.Vapor Pressure of Aqueous Solutions of Ethylene Glycol [J].Transactions of the Japan Society of Refrigerating and Air Conditioning Engineers, 1989,6(2): 183-186
+
+![](images/07a8ce56292e7d3dec05d0a4a0043676a0affccfeb0c629b7d2d122244411ddf.jpg)

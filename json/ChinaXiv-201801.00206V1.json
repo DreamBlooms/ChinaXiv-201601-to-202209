@@ -1,0 +1,479 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201610132072 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘旻霞.亚高寒草甸不同坡向植物光合生理和叶片形态差异.生态学报,2017,37(24):8526-8536.  \nLiuMXStddalic(24):8526-8536.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "亚高寒草甸不同坡向植物光合生理和叶片形态差异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘旻霞\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北师范大学地理与环境科学学院，兰州730070",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;绿色植物叶片的功能性状能用来解释不同层次复杂的生态学过程,被认为对植物的生存、生长和繁殖具有重要的影响。该研究对甘南亚高寒草甸坡向梯度代表物种的叶片形态和光合特性进行测定,分析了各坡向的土壤因子,比较不同物种（矮嵩草、米口袋、蒲公英和金露梅)之间的性状差异,研究叶片光合及形态特征与土壤因子之间的相关性。结果表明:1)不同坡向的土壤因子有着显著差异,土壤含水量、土壤全磷、土壤全氮及有机碳含量总体表现为北坡 $>$ 南坡，而土壤温度及光照度则是南坡>北坡。2)坡向上不同物种在比叶面积、净光合速率和叶 $\\mathbf { \\delta } ^ { \\mathbf { \\delta } } \\mathbf { \\delta } ^ { \\mathbf { \\delta } } \\mathbf { C } .$ 值等方面有着显著的差异，比如物种在北坡具有较高的比叶面积和叶片含水量,而物种在南坡具有较高的净光合速率、相对叶绿素、叶干物质量及8lC值。3)冗余分析结果显示,物种的叶片形态及光合特性与土壤因子之间都具有显著的相关关系，其中土壤含水量变化的响应最为敏感。该研究揭示了亚高寒草甸坡向梯度上植物物种在叶片功能性状上的显著分化,使得这些物种能在同一个草地群落中共存。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：亚高寒草甸；功能性状；叶片形态；光合生理特征;稳定碳同位素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Studies on physiological and leaf morphological traits for photosynthesis on different slopes in a subalpine meadow ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Minxia Geographical and Environmental Department，Northwest Normal University，Lanzhou 73OO70,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The functional traitsof plant leaves are considered tohavesignificant efectsonthesurvival，growth，and reproductionof plants.These traitsare thus widelyused to explain complex ecological processesatdiferent levels.In this study，measurements of leaf morphologicaltraitsand photosynthesis taken from plantsgrowing along typical slope aspect gradients in asubalpine meadowofGannan wereutilized tocharacterizethesoilfactorsof eachaspect，differences inplant species(Kobresia humilis，Gueldenstaedtiaverna，Taraxacum lugubre，andPotentill fruticosa），andcorrelations between thephotosyntheticand morphological characteristicsand soil factors.The follwing results were obtained（1）Soil factors were distinctlydiffrenton different slopes.Soil water content（SWC），soil total phosphorus（STP），soil total nitrogen （STN），and soil organic carbon（SOC）were generally higher on the northern slope（N）than on the southern slope（S）， whereas soil temperature（ST）and light intensity（LI)were apparently greater on Sthan on N.（2）The specific leaf area （ SLA），net photosynthetic rate $( P _ { \\mathrm { ~ n ~ } } )$ ，and leaf $\\delta ^ { 1 3 } \\mathrm { C }$ value were significantly different among the different plant species. SLA and leaf water content （LWC） were higher on N，where as $P _ { \\mathrm { ~ n ~ } }$ ，SPAD，leaf dry matter content（LDMC）,and $\\delta ^ { 1 3 } \\mathrm { C }$ （204号 were higheronS.（3）Redundancyanalysis showedahigh corelation between leaf traitsand soil factors.In particular, SWC showed the mostsensitiveresponse to change.This studyrevealed that thesignificant differences inplant leaf functional traitsat diferent slope gradients ina subalpine meadow enablesspecies tocoexist in thesamegrassand ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "community. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:subalpine meadow；functional traits；leaf morphology；photosyntheticphysiological characteristics；stable carbon isotope ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状是植物响应环境变化并对生态系统功能有一定影响的植物结构和生理特性,这些特性对生态系统结构特征具有一定的响应[1]。功能性状通过影响个体的生存、生长、生殖来间接地影响其适合度,可以作为预测有机体生长表现的重要指标[2]。物种间在功能性状间的差异既反映了其所处的生境特征,也体现了它们不同的资源利用方式。比如生长在水分不足生境中的植物一般具有较小的比叶面积(SLA)和较低的叶片含水量(LWC),体现了在控制水分散失和提高生长速率之间的权衡[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶片是植物与外界环境进行物质与能量交换的主要器官,是植物获取能量的最重要的组织结构,因此叶片水平功能性状的研究是植物生态学长期以来研究的重点之一[4-5]。植物叶片的光合生理和形态特征（例如SLA、干物质量（LDMC）、净光合速率 $( P _ { \\mathrm { _ n } } ) \\mathrm { , } 8 ^ { 1 3 } \\mathrm { C } \\mathrm { . }$ 、相对叶绿素（SPAD)等)体现了植物的生长策略和资源利用方式,是植物与环境长期相互作用的结果,也是植物完成生活史周期和适应环境的重要生理生态特性[6-7]。植物的光合生理和叶片形态特征除了受到诸多自然环境因子的影响外[8],在不同物种之间也有很大差异[7],比如杂草类植物一般具有较大的 SLA 和较低的水分利用效率（WUE),而禾草类植物则具有较高的WUE 等。因此,研究同一地域不同植物物种光合和叶片形态特征之间的差异,对于理解和预测整个群落的资源利用及群落结构动态具有重要的意义[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高寒草甸是青藏高原重要的草地类型,在这个特殊的地理单元上具有其独特的气候特征,被认为是气候变化的敏感区域。而坡向是青藏高原地区的主要地形因子之一,坡向影响了地面与风向的夹角和地面接受的太阳光辐射,这使得不同坡向之间的光照度(LI）土壤温度(ST）、土壤含水量(SWC）、养分和植被分布均受到影响,是研究群落在微气候生境的发展、群落结构和功能变化,尤其是研究植物功能性状对生态系统功能响应的良好载体。研究认为,从北坡到南坡的生境梯度上,SWC在不断减少,ST和LI在不断增加,在此过程中,植物为适应减少的水分供给,其在功能性状方面必然也会表现出一定的响应[10]。在此情况下,我们提出如下科学假说：在甘南亚高寒草甸中,植物功能性状对不同坡向 SWC、ST、LI及养分的响应具有一定的规律性,则可以推测：在北坡-南坡梯度上,随着环境因子的变化,植物的光合生理和叶片形态等也会发生相应变化。另外，植物需要从土壤中吸收水分和养分等用于光合作用和蒸腾作用,所以,叶片的 SL $\\mathrm { ~ A ~ } \\mathrm { , L D M C } \\ , P _ { \\mathrm { ~ n ~ } } \\delta ^ { 1 3 } \\mathrm { C } \\ , \\mathrm { S P A D }$ 值等与土壤因子存在直接关系。一般来说,随着坡向 SWC 的增加,ST和LI的减少， $P _ { \\mathrm { ~ n ~ } }$ 、气孔导度等随坡向有降低的趋势[10]。因此,叶片的 SLA、LDMC $\\smash { \\mathcal { P } _ { \\mathrm { ~ n ~ } } }$ ） $\\delta ^ { 1 3 } \\mathrm { C }$ 、SPAD 与这些土壤因子间理应存在显著的关系。为了验证以上科学假说,本研究选择在甘南亚高寒草甸的山地坡向间,通过研究植物功能性状和SWC、土壤养分、ST及LI的规律以及它们之间的相关关系,分析植物SLA、LDMC、 $\\delta ^ { 1 3 } \\mathrm { C }$ 值 $\\cdot ^ { P _ { \\mathrm { n } } }$ 、SPAD 及LWC 等植物功能性状是否与其环境因子间具有显著关系。解决上述科学问题,将有助于揭示微气候生境植物适应环境因子变化的功能策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验地位于甘肃省甘南藏族自治州合作市附近的兰州大学高寒草甸与湿地生态系统定位研究站，地理位置为 $\\mathbf { N } 3 4 ^ { \\circ } 5 6 ^ { \\prime }$ ， $\\mathrm { E } 1 0 2 ^ { \\circ } 5 4 ^ { \\prime }$ ,海拔 $3 0 1 0 \\mathrm { m }$ 。年均气温 $2 . 1 \\mathrm { { ^ { \\circ } C } }$ ,年均降水量 $5 5 8 . 9 \\mathrm { m m }$ 。最冷的12月至次年2月平均气温 $- 8 . 8 \\mathrm { { ^ { \\circ } C } }$ ,最热的6月—8月平均气温为 $1 1 . 6 ^ { \\circ } \\mathrm { C }$ ， $\\geqslant 0 \\dag \\mathrm { C }$ 的年积温为 $1 7 3 2 \\mathrm { ^ { \\circ } C }$ 左右,南坡和西南坡主要以矮嵩草（Kobresia humilis）、三刺草（Aristida triseta）、及蒲公英（Taraxacum lugubre）等为主;西坡主要以黄花棘豆（Oxytropis ochrocephala）、米口袋（Gueldenstaedtia verna）等为优势种;西北坡和北坡主要以金露梅（Potentilla",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "fruticosa）灌丛及珠芽蓼（Polygonum vivipurum）、鹅绒萎陵菜（Potentill anserine）等杂类草为主要优势种。土壤为高寒草甸土。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验于 2015年7月上旬到8月上旬进行,在合作站附近选择一座南北坡分异明显的山地,测定坡向使用$3 6 0 ^ { \\circ }$ 罗盘,在海拔 $3 0 0 0 \\mathrm { { m } }$ 的山体中部(坡度见表1）,采用顺时针方向布设5个研究样地,样地间距约 25—$3 5 \\mathrm { m }$ ,分别标记N（北坡）、NW（西北坡）、 $\\mathbb { W }$ (西坡）、SW(西南坡)及S(南坡)。在每个样地中部,沿山体垂直方向布设4个调查样方，大小均为 $5 0 \\mathrm { c m } \\times 5 0 \\mathrm { c m }$ ,间隔 $\\mathrm { 1 m }$ ,调查每个样方的物种数、个体数及盖度。同时，用直径 $5 \\mathrm { c m }$ 规格的土钻在每个样方内采用对角线方法分别钻取5钻土壤( $_ { ( 0 - 2 0 \\mathrm { c m } ) }$ 及 $( 2 0 { - } 4 0 \\mathrm { c m } )$ ，混合装入铝盒,用来做后续的水分分析。其样地布设见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6e5fe91be47bd574a62e72718556cfe053e2f5485a7333244d1f5f6548c5194.jpg",
+        "table_caption": [
+            "表1不同坡向植被变化特征(平均值±标准误)",
+            "Table1Variation characteristics of vegetation in different slope aspect（Mean±SE) "
+        ],
+        "table_footnote": [
+            "$\\ast$ 为各坡向优势种"
+        ],
+        "table_body": "<html><body><table><tr><td>坡向 Slope aspect</td><td>优势种及重要值 Dominant species and important value</td><td>坡度 Gradient(°)</td><td>盖度 Coverage(%)</td><td>丰富度 Richness</td><td>多样性指数 Shannon</td></tr><tr><td>北坡N</td><td>金露梅Potentilla fruticosa(0.533）* 珠芽蓼Polygonum vivipurum(0.308） *</td><td>20.02±1.05</td><td>96.61±2.1</td><td>33.57±1.03</td><td>4.2617±0.09</td></tr><tr><td></td><td>鹅观草 Roegneria kamoji(O.109）* 绵毛凤毛菊 Saussurea longifolia(0.105) 线叶龙胆 Gentiana farreri(0.099) 老鹳草 Geranium wilfordii(0.098) 金露梅Potentilla fruticosa(O.401）*</td><td></td><td>0</td><td></td><td></td></tr><tr><td></td><td>珠芽蓼Polygonum vivipurum(0.299） *</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>羊茅Festuca ovina(0.066)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>圆叶堇菜Viola rockiana（0.085）</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>西坡W</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>黄花棘豆Oxytropis ochrocephala(0.288）</td><td>24.38±1.26</td><td>80.04±2.5</td><td>25.62±1.52</td><td>3.8445±0.21</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>米口袋Gueldenstaedtia verna(0.263）*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>苜蓿Medicago sativa(0.203)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>多枝黄芪 Astragalus polycladus(0.199） *</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>火绒草Leontopodium chuii(0.102)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>西南坡SW</td><td>狼毒 Stellera chamaejasme(0.092)</td><td>29.25±1.42</td><td>70.12±2.8</td><td>20.37±1.08</td><td>3.8169±0.11</td></tr><tr><td></td><td>狼毒 Stellera chamaejasme(0.253） *</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>火绒草 Leontopodium chuii(O.249） *</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>矮嵩草Kobresia humilis(O.208）*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>狗娃花 Heteropappus hispidus(0.197）*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>米口袋Gueldenstaedtia verna(0.101)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>南坡S</td><td>蒲公英 Taraxacum lugubre(0.094)</td><td>32.08±1.36</td><td>63.38±2.35</td><td>17.41±1.23</td><td>3.4443±0.12</td></tr><tr><td></td><td>三刺草Aristida triseta(0.311）*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>矮嵩草Kobresia humilis(O.289）*</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>秦苏Gentiana macrophylla(O.276） *</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蒲公英 Taraxacum lugubre(0.189)</td><td>米口袋 Gueldenstaedtia verna(O.198）*</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 环境因子测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用烘干法重复3次测定土壤含水量,并用此公式 $\\mathrm { S W C = ( \\ m a s s _ { f } - m a s s _ { d } ) / m a s s _ { f } } .$ 进行计算。测量土壤温度用EM50（Decagon,USA）,并重复3次。测量各样地光照度用 Sunfleck Ceptometer(型号 ZDS-10)进行测量,并与",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地面保持水平,测量高度距离地面 $6 0 \\mathrm { c m }$ ;设置测量时间从 $6 { : } 0 0 \\mathrm { a m } - 2 0 { : } 0 0 \\mathrm { p m }$ ,每1个小时测量1次。在2015年的6—9月份,在每个样地相隔20 天左右测量土壤含水量、土温和光照度共4次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土壤养分的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤全氮采用硫酸 $\\mathrm { . K _ { 2 } S O _ { 4 } \\mathrm { : C u S O _ { 4 } \\mathrm { : } } }$ Se催化法消煮，然后用SmartChem200化学分析仪器（WestCoScientificInstruments，Brookfield，CT，USA)进行测试。土壤全磷用 $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 } \\mathrm { - H C l O } _ { 4 }$ 消煮后,采用钼锑抗法显色法测定。土壤有机碳采用重铬酸钾容量法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3物种多样性指数及重要值的计算公式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "丰富度指数 $R = S$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "物种多样性指数的计算方法采用Shannon-Wiener指数计算法",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\sum _ { i = 1 } ^ { s } ( P _ { i } \\mathrm { l n } P _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$s$ 为 $i$ 所在样方中物种的总数。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/656fda019181593c65e1fb162f5681c06cc9d62950eb815e3526ecdfdf9ff077.jpg",
+        "img_caption": [
+            "图1研究区样地布置图",
+            "Fig.1Sample plot of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "N:北坡 North slope；NW：西北坡 North west slope；W：西坡West slope；SW:西南坡 West south slope；S:南坡 South slope ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了确定各个坡向的优势种,通过计算其重要值来判定。重要值计算方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "重要值 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （相对多度 $+$ 相对盖度 $\\mathrm { . }$ 相对频度)/3",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4植物叶片性状的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2015年7月上旬到8月上旬，选择晴朗天气(大气温度为 $2 5 \\mathrm { { ^ \\circ C } }$ ,光照强度为92K），使用便携式光合测定仪（LI-6400,LI-COR,Lincoln,NE,USA）,于上午9:00—I1:30,测定植物叶片的气体交换参数。测定时选用开放气路,空气流速为 $5 0 0 \\mu \\mathrm { m o l / s }$ ,用红蓝光源提供 $\\boldsymbol { 1 0 0 0 \\mu } \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ 光强。随机选取长势良好的物种3一6株,取中端健康叶片进行测量,并做3—4次重复,数据稳定后读数。用便携式叶绿素仪（SPAD-502,MinoltaCameraCo,Osaka,Japan）测定植物叶片 $\\mathrm { s p a p }$ 值,所测物种及重复数与测定光合特征值时的一致。SPAD-502是在比较 $6 5 0 \\mathrm { n m }$ 和 $9 4 0 \\mathrm { n m }$ 波长的光线投射率的基础上测定的[11」,因此所测叶绿素含量是一个相对值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在各样地内摘取物种的健康叶片,标记好并装入自封袋带回实验室,扫描叶片保存图像并称其鲜重及饱和鲜重,之后烘干称重,计算叶面积用ImageJ软件。比叶面积(SLA)表示为叶面积/叶片干重;叶片干物质量(LDMC)用叶片干重>叶片饱和鲜重表示;叶片相对含水量表示为（叶片鲜重-叶片干重)/（叶片饱和鲜重-叶片干重) $\\times 1 0 0 \\%$ 。●",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 植物叶片 $\\delta ^ { 1 3 } \\mathrm { C }$ 值的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在实验室内把摘回的植物叶片用超纯水洗净并自然晾干， $7 0 \\%$ 烘干 $4 8 \\mathrm { h }$ ,使样品完全干燥,粉碎后,过100目筛,使样品均一化。取植物粉末 $2 \\mathrm { m g }$ 置入 TOC/TNb 分析仪中将样品燃烧成 $\\mathrm { C O } _ { 2 }$ ,并收集。再将收集到的$\\mathbb { C } \\overline { { \\mathbf { 0 } _ { 2 } } }$ 气体注入碳同位素分析仪(CCIA-36d)进行稳定碳同位素值分析[12]。分析精度 $\\pm \\ : 0 . 1 \\% o$ 。其中,稳定碳同位素 $\\left( { \\delta } ^ { 1 3 } \\mathrm { C } \\right)$ 的计算公式可表示为：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "） ${ \\delta ^ { 1 3 } } \\mathrm { C } = \\left( \\mathrm { R } _ { \\mathrm { s a m p l e } } / \\mathrm { R } _ { \\mathrm { s t a n d a r d } } - 1 \\right) \\times 1 0 0 0$ ，式中， $\\mathrm { R _ { \\mathrm { s a m p l e } } }$ 指植物样品的 ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ 值； $\\mathrm { \\bf R } _ { \\mathrm { s t a n d a r d } }$ 指通用的 ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ 标准化石标样（一种出自美国南卡罗来纳州的碳酸盐陨石）。由于植物样品的 ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ 值总是低于标样的 ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ 值,因此上式计算结果为负值,其绝对值越大,表示 $^ { 1 3 } \\mathrm { C }$ 丰度越低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用Excel2007统计计算数据,用 SPSS18.0软件进行one-way ANOVA差异性检验和相关性分析,并用sigmplot10.0作图,RDA分析应用国际标准通用软件CANOCO4.5.1进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 SWC、ST及LI随坡向的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从北坡到南坡,环境因子均发生了变化,其中SWC在3个月的4次测量中差异最明显,从测量的平均值来分析，不同坡向之间均有显著差异( $_ { _ { P < 0 . 0 5 ) } }$ ,表现是从南坡到北坡的递增趋势;ST和LI则表现出了相反的变化趋势,从南坡到北坡呈递减趋势,7月份的土温高于其他两个月,各测量月平均值在不同坡向之间有显著差异( $P { < } 0 . 0 5 )$ ;LI北坡只有 $5 8 0 \\mathrm { { l x } }$ ,而南坡最高为 $7 3 0 \\mathrm { { l x } }$ ,从不同测量月份来看,8、9月份的LI在不同坡向均低于7月份的。各月测量平均值南坡与北坡之间有显著差异( $P { < } 0 . 0 5 )$ ，其他坡向差异不大（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b211a16e1e6b6a351a810648d9af600097ad878ee0106871f07ac81580d0366.jpg",
+        "img_caption": [
+            "图2土壤水分(SWC）、温度(ST)及光照度(LI)随坡向的变化( $\\mathrm { M e a n \\pm S E }$ ）Fig.2Change in SWC,ST and LI on different slope aspects( $\\mathrm { M e a n \\pm S E }$ ）N：北坡;NW：西北坡;W：西坡;SW：西南;S：南坡"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤养分在不同坡向的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0- $2 0 \\mathrm { c m }$ 的土层中,土壤全氮(STN)和土壤有机碳含量(SOC)都是北坡 $>$ 南坡,西坡相对较低,STN 北坡、西北坡、西南坡、南坡与西坡之间有显著差异( $P { < } 0 . 0 5 )$ 。SOC是北坡、西北坡和西坡、西南坡、南坡之间均有显著差异( $_ { _ { P < 0 . 0 5 ) } }$ 。而土壤全磷含量(STP)的变化则不同,自南坡、西南坡、西坡、西北坡到北坡依次增大,对不同坡向 STP 进行差异显著性检验， $0 { - } 2 0 \\mathrm { c m } \\ \\mathrm { S T P }$ 在不同坡向均表现出显著差异( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ 。20—40cm 的STN、SOC、STP的变化趋势与0一 $2 0 \\mathrm { c m }$ 一致,但总体都低于0一 $2 0 \\mathrm { c m }$ 土壤,表现出表层土壤养分富集现象。20— $4 0 \\mathrm { c m }$ STN的变化与0一 $2 0 \\mathrm { c m }$ 不一致,趋势为北坡 $>$ 西北坡 $>$ 南坡 $>$ 西坡 $>$ 西南坡，但其值在不同坡向低于",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表层土壤(图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/00e7126885be625819ebb9b2e91f2ef31e7cef2e084655ba16e2aa64fa1520cc.jpg",
+        "img_caption": [
+            "图3不同坡向土壤养分的变化特点( $\\mathrm { M e a n \\pm S E }$ ）",
+            "Fig.3 Variation of the soil nutrients in different slope aspects ( $\\mathrm { M e a n \\pm S E }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "N：北坡;NW：西北坡;W：西坡;SW：西南;S：南坡；同一部分具有不同字母的表示差异显著( $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同坡向植物群落结构的变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出,优势种及群落结构在坡向梯度上发生了显著的变化：南坡、西南坡的物种分布较少,主要物种有莎草科的矮嵩草(Kobresia humilis)与菊科的蒲公英(Taraxacum lugubre)等;西坡的豆科类物种占据比较大的优势;而北坡、西北坡则主要以金露梅(Potentilla fruticosa)灌丛为主,并伴生一些杂类草（即非豆科杂草)。物种丰富度、多样性指数及盖度自北坡到南坡呈递减趋势,而且南坡的坡度( $3 2 . 0 8 ^ { \\circ }$ )明显大于北坡( $( 2 0 . 0 2 ^ { \\circ } )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4光合生理和叶片形态特征的生境差异",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图4可知,北坡-南坡梯度上,4种代表物种的6个性状均发生了不同程度的变化,其中矮嵩草在西南坡具有最大的LDMC(0.38）,北坡、西北坡与西坡、西南坡及南坡之间有显著差异( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ 。蒲公英在西北坡具有最小的LDMC(0.17）,北坡、西坡、西南坡与西北坡及南坡之间有显著差异( $P { < } 0 . 0 5 )$ 。米口袋的LDMC北坡、西北坡、西坡与西南坡、南坡之间有显著差异( $P { < } 0 . 0 5 )$ 。金露梅北坡与西北坡及西坡之间有显著差异（ $\\cdot < 0 . 0 5 )$ 。 $P _ { \\mathrm { ~ n ~ } }$ 的最大值出现在南坡的矮嵩草( $\\mathrm { ' 1 8 . 6 9 \\mu m o l C O _ { 2 } \\ m ^ { - 2 } \\ s ^ { - 1 } \\mu }$ ），而最小值是西坡的金露梅（8.01$\\mathrm { \\mu } \\mathrm { m o l } \\mathrm { C O } _ { 2 } \\mathrm { \\ m } ^ { - 2 } \\mathrm { \\ s } ^ { - 1 } \\mathrm { \\ }$ ）,总体来看,物种在北坡-南坡梯度上 $\\boldsymbol { P _ { \\mathrm { ~ n ~ } } }$ 不断增大。SLA 的最大值是北坡的蒲公英（252.73$\\mathrm { c m } ^ { 2 } / \\mathrm { g } )$ ,最小值是南坡的矮嵩草 $( 7 8 . 2 6 \\mathrm { c m } ^ { 2 } / \\mathbf { g } )$ )。在北坡-南坡梯度上,SLA呈减小趋势。4个共有种的叶片$\\delta ^ { 1 3 } \\mathrm { C }$ 值在坡向梯度上均有显著差异( $P { < } 0 . 0 5 )$ ,其中,矮嵩草的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值在南坡最大为 $( - 2 3 . 0 2 \\% o )$ ，金露梅的 $\\delta ^ { 1 3 } \\mathrm { C }$ 值在北坡最小为 $( \\mathrm { ~ - ~ } 3 1 . 0 1 \\% o )$ 。LWC从北坡-南坡呈逐渐减少趋势，其中蒲公英的LWC在北坡最大为（20 $( 7 . 0 5 \\% )$ ,最小值是西坡的矮嵩草 $( 2 . 2 1 \\% )$ )。北坡-南坡梯度上,4个物种的 SPAD 值不断增大,其中米口袋在北坡具有最大的 SPAD值（43.41）,最小值是西北坡的金露梅(23.04）。对同一物种在不同坡向的性状特征值进行比较发现，LDN $\\mathrm { 1 C } , P _ { \\mathrm { n } } , \\delta ^ { 1 3 } \\mathrm { C } ,$ 及SPAD值在北坡-南坡梯度上呈递增趋势，而SLA、LWC呈递减趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5植物叶性状与环境因子的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究采用冗余分析(RDA)方法,按5个坡向统一处理数据进行分析,将植物叶片的6个主要性状作为物种（species）,将6项土壤因子作为环境因素（environments）,并将2个变量组进行RDA分析（图5）。图中实线箭头所处的象限表示环境因子与排序轴之间的正负相关性,箭头连线的长度代表着某个环境因子与研究对象相关程度的大小,连线越长,影响越大。箭头与箭头之间的夹角越小,相关性越大,反之越小。实线箭头与排序轴的夹角代表着某个环境因子与排序轴的相关性大小。图5显示,矮嵩草、米口袋、蒲公英及金露梅的SLA、LWC 总体上与 SWC、STN、STP 及 SOC 呈正相关,与 ST、LI呈负相关,性状指标 SPAD、 $P _ { \\mathrm { n } } \\delta ^ { 1 3 } \\mathrm { C }$ 、LDMC 则与 SWC、STN、STP及SOC 呈负相关关系,与ST、LI呈正相关相关系,且相关性大小表现为： $\\mathrm { S W C > S T P > S T > }$ SOC >LI> STN。表2为各物种 RDA第一、二排序轴与环境及土壤因子的相关系数,由表 $\\scriptstyle 2$ 可以看出,环境因子对植物叶片性状的前2轴的累积解释量占特征值的总和均达 $9 9 \\%$ 以上,表明排序轴可有效反映甘南亚高寒草甸微气候生境上土壤及其他环境因子的梯度变化特征。 】",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/97a8765571565e7bf982092126d767bc27957eba83d8eff139dd8a7e39e38d03.jpg",
+        "table_caption": [
+            "表2各物种RDA排序轴与环境因子的相关系数",
+            "Table 2Correlation coeficients of first two RDA axes and environmental factors of each species "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">环境因子 Environmental factors</td><td colspan=\"2\">矮嵩草 Kobresia humilis</td><td colspan=\"2\">米口袋 Gueldenstaedtia verna</td><td colspan=\"2\">蒲公英 Taraxacum lugubre</td><td colspan=\"2\">金露梅 Potentilla fruticosa</td></tr><tr><td colspan=\"2\">轴1</td><td colspan=\"2\"></td><td colspan=\"2\"></td><td colspan=\"2\"></td></tr><tr><td>Axes 1</td><td>轴2 Axes 2</td><td>轴1 Axes 1</td><td>轴2 Axes 2</td><td>轴1</td><td>轴2 Axes 2</td><td>轴1</td><td>轴2</td></tr><tr><td>TN</td><td>0.4089</td><td>-0.8801</td><td>0.2478</td><td>0.2745</td><td>Axes 1 -0.3322</td><td>0.0428</td><td>Axes 1 -0.8597</td><td>Axes 2</td></tr><tr><td>TP</td><td>0.9392</td><td>0.123</td><td>0.9819</td><td></td><td></td><td></td><td>-0.6083</td><td>0.5107</td></tr><tr><td>SOC</td><td>0.8239</td><td>-0.5193</td><td>0.7614</td><td>0.1219</td><td>-0.9709 -0.7725</td><td>0.2378 0.1881</td><td>-0.8672</td><td>0.7937</td></tr><tr><td>LI</td><td>-0.5987</td><td>-0.4824</td><td>-0.5199</td><td>0.0204 -0.2301</td><td>0.5974</td><td>0.6986</td><td>0.6184</td><td>0.4979 -0.7859</td></tr><tr><td>ST</td><td>-0.8298</td><td>-0.5075</td><td>-0.9281</td><td>-0.0139</td><td>0.8885</td><td>-0.1508</td><td>0.2469</td><td>-0.969</td></tr><tr><td>SWC</td><td>0.9564</td><td>-0.0766</td><td>0.9455</td><td>0.2196</td><td>-0.9672</td><td>0.1653</td><td>-0.6588</td><td>0.7523</td></tr><tr><td>物种环境相关性累积百分 比变化率</td><td>99.60%</td><td>99.90%</td><td>99.40%</td><td>100%</td><td>98.80%</td><td>99.90%</td><td>98.10%</td><td>100%</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 南北坡梯度上环境因子变化特征",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "光照强度容易受地形因素的影响,而土壤温度、水分等又会受到光照强度的影响。本研究中,从北坡-南坡的坡向梯度上,环境因子发生了很大变化,土壤含水量在4次测量中都呈现出了明显的下降趋势,南坡明显低于北坡,而土壤温度和光照度则呈明显的上升趋势(图2)。在北半球，太阳辐射较多的是南坡,日照时数长,蒸发量大,因此热而干旱;而北坡受到了较少的太阳辐射,日照时数短,蒸发量小,因此比较潮湿、阴冷[13]。这些因素使得南坡矿化作用较强,养分含量低,比较贫瘠;而北坡有机质降解较低、累积较多、土壤腐殖化较强。本研究显示:在北坡-南坡梯度上,土壤全氮、全磷及有机碳含量总体是北坡较高,南坡较低。有研究表明,湿度越大,土壤中的氮素越容易积累;温度越高,土壤有机质分解加速,氮素越难积累[14]。以前的研究也表明水分是这个梯度上的主要限制因子[15]。西坡的土壤全氮及有机碳含量比南坡更低,这可能是由于西坡处于放牧通道,动物的踩踏行为导致部分土壤养分含量减少。总的来说，一个地区土壤环境因子不但受水热因子影响,同时也受到土壤特性、放牧干扰和群落类型等的综合作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2南北坡梯度上植物群落结构变化特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于不同坡向的光照、热量、水分及养分等一些自然因素的不同,植被的空间分布格局也不同,同时有一定的规律性[16]。另外,坡向梯度上的土温、土壤含水量、物种分布等和经纬度及海拔等大尺度上的变化一致[15]。在北坡-南坡梯度上,物种的组成类型发生了明显的梯度变化(表1)。本研究结果显示禾草类（包括矮嵩草和三刺草)是南坡的优势种,这说明禾草类具有比较高的营养利用率[17],能够在南坡贫瘠的生境中,凭a:矮嵩草b;米口袋 $ { \\mathbf { \\rho } } _ { \\mathrm { c } }$ ：蒲公英d:金露梅；N:北坡,NW:西北坡，West:西坡,SW:西南,South:南坡;SWC:土壤含水量；ST:土壤温度；LI:光照度；STP:土壤全磷；SOC:土壤有机碳；STN:土壤全氮；LWC:叶片相对含水量；SLA;比叶面积；LDMC:叶片干物质量; $P _ { \\mathrm { ~ n ~ } }$ ：净光合速率；SPAD：相对叶绿素；C13； $\\delta ^ { 1 3 } ( \\$ 值",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c881b7f3a0459c9c15c5efddca107ad730fd4a1dd699c0ea4cc4162a83d43b89.jpg",
+        "img_caption": [
+            "图4不同坡向物种在叶干物质量(LDMC）、净光合速率 $( P _ { \\mathrm { ~ n ~ } } )$ ）、比叶面积（SLA）、叶片同位素 $\\langle \\delta ^ { 1 3 } \\mathrm { C } \\dot { }$ ）、叶片相对含水量（LWC）及相对叶绿素（SPAD）的差异（平均值 $\\pm$ 标准误差)Fig.4 Comparison of species for LDMC, net photosynthesis rate $( P _ { \\mathrm { { n } } } )$ ， specific leaf area（SLA）, $\\delta ^ { 1 3 } \\mathbf { C }$ ,relative leaf water content （LWC）andSPAD in difference slope aspects ( $P { < } 0 . 0 5 )$ ：不同小写字母表示同一物种在不同坡向间差异显著( $P < 0 . 0 5$ );AS：矮嵩草Kobresia humilis;MKD;米口袋Gueldenstaedtia verna;PGY;蒲公英Taraxacum lugubre;JLM:金露梅Potentilla fruticosa"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd0df8ef08a2d9249a1aac96622c493b9a0cff09fa70c97b9d7e5c8226bc9a42.jpg",
+        "img_caption": [
+            "图5植物叶性状与环境因子的RDA二维排序图",
+            "Fig.5RDA two-dimensional ordination diagram of the plant leaf traits and the environmental factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "借着对地下养分资源较强的竞争能力而占据优势。而灌木(金露梅)和杂类草则是北坡的优势种,这表明在北坡充足的资源条件下,杂类草和灌木快速地获取资源而生长迅速,在竞争中占据优势。与禾草和杂类草及灌木相比,豆科物种占有相对较小的数量,在西坡分布相对较多(表1)。沿着北坡-南坡的微生境格局,物种的 Shannon-Wiener 指数、Richness 指数和盖度都显著的降低了（表1)。有研究表明:在干旱到湿润的生境梯度上,物种多样性指数和丰富度指数不断增加[18]。这与本研究结果一致,这是因为物种多样性和丰富度一般被认为是由资源供给所决定的[19]。这表明在高寒草甸地区,坡向梯度上物种的多样性变化是由可利用资源所决定的，北坡丰富的资源能够使得更多的物种存活下来。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3坡向梯度上物种性状变化特征 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "许多研究表明,植物在叶片形态特征(如 SLA、LWC 等)和光合生理特征（如 $\\mathrm { P n } \\ 、 8 ^ { 1 3 } \\mathrm { C }$ 等)上存在着显著的种间和种内差异[20],即使它们生长在非常相似的环境中[21],被认为是长期自然选择的结果。我们对甘南亚高寒草甸4个主要物种的叶片形态和光合生理特征的分析表明,不同物种之间在LWC、SLA、LDMC $\\phantom { } \\cdot { P } _ { \\mathrm { ~ n ~ } }$ 、SPAD和 $\\mathrm { \\delta ^ { 8 } C }$ 之间有非常明显的差异,说明这些物种虽然生长在非常相似的环境中,但是在叶片形态和光合策略上有着显著的不同[20，以不同的方式适应相似的生境条件。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "叶片形态特征的中心性状 SLA能充分反映温度、水分、光照等气候特点。本研究中的4种物种的 SLA 分布范围是在 $7 8 . 2 6 { - } 2 5 2 . 7 3 \\mathrm { c m } ^ { 2 } / \\mathrm { g }$ 之间。由此可见,相对于北坡的物种,亚高寒草甸南坡的物种叶片结构趋向于单位叶面积分配更多的生物量,表现出低水分和营养元素地带植物的生长策略特点,其具有阳生叶特点（低 SLA,高LDMC)的叶片更有利于对光照的利用和自身的生存。LDMC可反映叶片对干旱气候适应程度，LDMC 越高则叶密度越大,细胞壁越厚,具有更强的抵抗胁迫的能力[22]。本研究中的4种物种从北坡-南坡的梯度上,LDMC都有不同程度的增大,其中南坡的矮嵩草LDMC 最大,表明它抵抗干旱胁迫的能力更强。LWC随北坡南坡变化而减少,说明随土壤含水量减少、土壤温度和光照度增加,植物叶片含水量也随之减少（图4)。一般而言,土壤水分越充足,植物叶片含水量也就越高。说明植物叶片含水量随着土壤水分条件的改善而增加。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "光合作用决定着植物物质积累能力的高低，一定程度上也决定了植物生长的快慢。北坡-南坡梯度上，4个物种的 $P _ { \\mathrm { ~ n ~ } }$ 和 SPAD 逐渐增大(图4),与前人的研究一致[21]。一般而言,阳生植物的净光合速率高于阴生植物,较高光合速率的物种也被认为在能量获取和竞争力上有优势[23]。本研究中,4个物种在北坡的光合能力较弱(图4),可能是养分等限制的原因[24-26]。在一个土壤水分、养分逐渐升高北坡(图4),养分和水分对植物的限制作用逐渐减小,4个物种的 $\\boldsymbol { P } _ { \\mathrm { n } }$ 和 SPAD值的降低,反映了不同物种通过对营养物质的不同分配策略来保护匮乏资源。植物叶片 $\\delta ^ { 1 3 } \\mathrm { C }$ 值是反应植物水分利用效率最直接的指标,其含量的多少不仅与植物本身有关,还与植物生长的环境有密切关系,其中最主要的就是土壤含水量[18」。本文研究结果显示,南坡的优势物种矮嵩草叶 $\\delta ^ { 1 3 } \\mathrm { C }$ 含量明显高于北坡代表物种金露梅(图4）,表明矮嵩草比金露梅具有较高的水分利用效率,更能适应南坡的贫瘠生境。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4坡向梯度上物种性状与环境因子的相关关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "植物叶性状值能清楚的反映环境变化对植物的影响。冗余分析进一步研究了坡向梯度上的环境因子和各物种性状之间的相关关系,探索了环境因子对物种组成及性状的影响大小。6个环境因子均对群落物种分布及性状变化起了作用（图5)。分析结果表明,环境因子对物种组成及性状影响顺序为： $\\mathrm { S W C } > \\mathrm { S T P } > \\mathrm { S T } >$ （2$\\mathrm { S O C } > \\mathrm { L I } > \\mathrm { S T N }$ 。表明土壤含水量的影响力最大,是坡向梯度上群落结构变化、物种组成及性状值变化的主导因子,这一结果与其他研究结果一致,即SWC 是坡向梯度上物种组成及多样性的主要限制性因素[18]。坡向梯度上物种的 SLA及LWC 与第一轴正相关,与土壤温度及光照度呈负相关,这进一步说明了物种的 SLA 与LWC 与可利用资源有关,北坡丰富的水分资源和养分资源有利于灌木金露梅和杂草类生存。南坡由于光照及土壤温度导致的蒸发量较大,且坡度较大（均值 $3 2 . 0 8 ^ { \\circ }$ )，土壤含水量相对北坡较少，因此南坡物种的叶片$\\delta ^ { 1 3 } \\mathrm { C } , P _ { \\mathrm { n } }$ 、SPAD及LDMC 相对较高,反映了植物为适应南坡贫瘠的生境,其功能性状具有明显的响应特征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]CavenderBaresJ，iaK，zFltiraisoatiosilatotbitatfreiatooaspiEcological Monographs,2004，74(4）: 635-662.  \n[2]ViolleC，NavasL,VileD,azakouE,FortunelC，Hummell，GarierE.Lettheconceptoftraitbefunctioal!Oikos，,16（5）：882-892.  \n[3]NicotraAsJesCcigCDgacraodplstitedtrtsinelgtleePhytologist,2007,176(1) : 136-149.  \n4 SmithEC,GrisWoilJtraspeifoioosesposofotlrastiatNew Phytologist，1998，138(2）：213-224.王海珍，韩路，徐雅丽，牛建龙，于军.干旱胁迫下胡杨光合光响应过程模拟与模型比较.生态学报，2017，doi：10.5846/stxb201511242373.（in press)  \n[6]CungaSumeayes，WestobyEvolutioarydiergeesieafstructuredsromparinginfallandilurtgradients.Ecological Monographs，1999,69(4）：569-588.  \n[7］牛书丽，蒋高明，高雷明，李永庚，刘美珍.内蒙古浑善达克沙地97种植物的光合生理特征.植物生态学报，2003，27（3)：318-324.  \n[8] Lawlor D W.Photosynthesis，productivityand environment.Journal of Experimental Botany,1995,46：149-1461.  \n[9]WagRotossistraspationdateuseffvegeaiedroductissofadseiesfrosteChina.Photosynthetica，2001,39(4）：569-573.  \n[10］刘晏霞，马建祖.甘南高寒草甸植物功能性状和土壤因子对坡向的响应.应用生态学报，2012，23（12)：3295-300.  \n[11]Maneasatopsisefableestructi（）oollevarying trichome density and anthocyanin content.Journal of Plant Physiology，1998,153( $3 / 4 ^ { \\cdot }$ ：513-516.  \n[12]Swap RJ,AranibarJN,Dowty PR,Gilhooly IIIWP,MackoSA.Natural abundance of ${ } ^ { 1 3 } \\mathrm { C }$ and $^ { 1 5 } \\mathrm { N }$ in $\\mathbf { C } _ { 3 }$ and $\\mathrm { C } _ { 4 }$ vegetation of southern Africa:patterns and implications.Global Change Biology，2004，10(3）：350-358.  \n[13]SterberghosanyInfluencofeaspetonMediteaeanodyfoatios：omparisoofsiariddanriditeinsael.Ecological Research，2001，16(2）：335-345.  \n[14] 林丽，李以康，张法伟，郭小伟，韩道瑞，李婧，曹广民.青藏高原高寒矮嵩草草甸退化演替主成分分析.中国草地学报，2012，34（1)：24-30.  \n15]BadanoEoeCosssindecentral Chile.Journal of Arid Environments，2005,62(1）：93-108.  \n[16] 方精云，沈泽昊，崔海亭.试论山地的生态特征及山地生态学的研究内容.生物多样性，2004，12(1)：10-19.  \n[17] KullO,AanA.TelativeshareofgamiodandforbifefosinanaturalgadientofhrblayerproductiviyEcogaph，99（2)：146- 154.  \n18]DeBellpstitidcaltesiogggtso(6):801-810.  \n[19] Morin P J. Biodiversity’s ups and downs.Nature,2000,406(6795）：463-464.  \n[20] YuQ,ChnQlseriesisioscuecdbi,：1390-1399.  \n21]BassoazzzFtraadinterspeifcratioinootosytsisiieduoforo（)：507-515.  \n[22] 毛伟,李玉霖，赵学勇，黄迎新，罗亚勇，赵玮.3种藜科植物叶特性因子对土壤养分、水分及种群密度的响应.中国沙漠,2009,29(3)：468-473.  \n[23] Givnish T J.Adaptation to sun and shade：a whole-plant perspective. Australian Journal of Plant Physiology，1988,15(2）：63-92.  \n[24] 安慧，上官周平.黄土高原植被不同演替阶段优势种的光合生理特性.应用生态学报，2007，18(6)：1175-1180.  \n[25] 代存芳，易映彤，刘妍，巴秋爽，范亚文.扎龙湿地硅藻植物群落季节变化及其对环境的响应.生态学报，2017，doi：10.5846/stxb201603100424.（in press)  \n[26］孟令军，张利敏，张丽梅，冯仲科.五大连池药泉山大型土壤动物对旅游踩踏的响应.生态学报，2016，36(20)：6607-6617.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

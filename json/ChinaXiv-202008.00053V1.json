@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "小立碗藓LysM型类受体激酶基因家族生物信息学分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高梅¹，辛健康¹，姜山 $^ { 2 * }$ （1.贵州师范大学 生命科学学院，贵阳 550001；2.贵州师范大学 国际教育学院，贵阳 550001）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物LysM型类受体激酶（lysin motif receptor-like kinase，LYKs）是植物中发现的一类重要的 RLK，在植物生长发育、抵御逆境胁迫等方面具有不可忽视的作用，是植物中基因功能的研究热点。为更好地了解小立碗藓中的LYK基因，该文利用生物信息学的方法对小立碗藓（Physcomitrella patens）LysM型类受体激酶基因家族成员进行鉴定及分析。通过分析小立碗藓LYK家族成员的基本物理信息、基因结构、染色体定位及系统发生关系，初步探讨了其LYK基因结构、进化与功能间的联系。结果表明：小立碗藓中共有21个LYK基因，其氨基酸序列大小在625\\~755aa之间，分子量范围为 $6 9 . 5 4 \\mathrm { \\sim } 8 2 . 0 2 \\mathrm { k D a }$ ，等电点在 $5 . 9 8 { \\sim } 7 . 7 8$ 之间。将小立碗藓所有LYK蛋白与3种典型模式植物（水稻、拟南芥和蒺藜苜蓿）的LYK蛋白共同构建系统进化树，所有 LYK蛋白被分为4个亚组（LYK-I、LYK-II、LYR-I和LYR-II)。小立碗藓各亚组内成员的基因结构、保守域特征显示出较为相似的特征，由此推测其可能具有相同或相似的功能。染色体定位发现，21个LYK基因集中分布于4条染色体上并出现小型基因簇，这可能同样与基因功能相联系。该文分析了小立碗藓LysM型类受体蛋白激酶基因家族的基本信息，可为后续深入研究其LYK基因家族成员的生理生化功能奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：小立碗藓，LysM型类受体激酶，基因家族，生物信息学，基因结构，染色体定位，系统进化关系中图分类号：Q786 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bioinformatics analysis of lysin motif receptor-like kinase gene family in Physcomitrella patens ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Mei', XIN Jiankang1, JIANG Shan2\\* (1.Schoolofifeience,uzouNral Universityyang,,China;2.hoolofInternationalEducationGzo Normal University,Guiyang,550001, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Plant lysin motif receptor-like kinase (LYKs)are an important type of RLK found in plants.They have a non-negligible role in plant growth and development,resistance to adversity stres,etc.It is a gene function in plants research hotspots.In order to beter understand the LYK gene in Physcomitrella patens,this article uses bioinformatics to identify and analyze members of the LysM-type receptor kinase gene family of Physcomitrella patens( $P .$ patens).By analyzing the basic physical information，gene structure，chromosomal location and phylogenetic relationship of the LYK family members,the relationship between LYK gene structure,evolution and function was preliminarily discussed.The results show that there are 21LYK genes in the moss,the amino acid sequence size ranges from 625 to 755aa, the molecular weight ranges from 69.54 to $8 2 . 0 2 \\mathrm { k D a }$ ,and the isoelectric point ranges from 5.98 to 7.78.A phylogenetic tree was constructed by combining allthe LYK proteins of Physcomitrella patens with the LYK proteins of three typical model plants (Rice,Arabidopsis,and Medicago truncatula).All LYK proteins were divided into 4 subgroups (LYK-I,LYK- II,LYR-I and LYR-I).The genetic structure and conserved domain characteristics of the members in each subgroup of Physcomitrell patens showed relatively similar characteristics,and it was speculated that they might have the same or similar functions. Chromosome mapping found that 21 LYK genes were concentrated on 4 chromosomes and there were small gene clusters,which mayalso be related to gene function.This article analyzes the basic information of the LysM receptor-like protein kinase gene family of Physcomitrella patens,which can lay the foundation for the in-depth study of the physiological and biochemical functions of its LYK gene family members. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Physcomitrella patens,lysin motif receptor-like kinase,gene family,bioinformatics, gene structure chromosome location, phylogenetic relationship ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物类受体蛋白激酶是植物中一类重要的蛋白激酶，这些蛋白激酶与动物中受体蛋白激酶的分子结构类似，由于与其特异结合的胞外信号分子或配体尚未被鉴定，因此被称为类受体蛋白激酶（Receptor-likeprotein kinase，RLK)。典型的RLK 由胞外结构域、跨膜结构域和胞内激酶域三部分构成，其中胞外结构域含特异性结构基元，能够特异性识别细胞信号分子（田丽梅，2016；Lehti-Shiu et al.,2009)。其中植物LysM型类受体激酶（Lysin Motif Receptor-like Kinase，LYKs）是植物中发现的一类重要的类受体蛋白激酶。LysM型类受体蛋白激酶（LysMReceptor-like Kinase，LYKs）的典型特征是其胞外结构域中含有1-3个LysM结构基元（Afzal et al.,2008）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同植物中LYKs 家族成员数存在差异,拟南芥和水稻中分别含有5和10个LysM-RLKs(Zhang,2007;Shiu et al.,2004)，同时不同植物中LYKs胞外含有的LysM结构基元数也有所不同。除古细菌外，大多数生物中LysM蛋白结构域长度约为40aa。植物中LYKs家族成员根据其激酶结构域的不同，可以划分为两种主要类型：LYK或LysM-I和LYR或LysM-II，其中LYK亚家族又可分为LYK-I和LYK-II；LYR亚家族分为LYR-I和 LYR-II（Limpens et al.,2003;Arrighi et al.,2006)。目前，大多数 LysM-RLK 能够感知病原菌分子或参与植物-微生物间的相互作用，包括建立防御反应或根内共生体（Wan et al.,2008;Radutoiu et al.,2003）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物LysM型类受体蛋白激酶在植物防御反应及与微生物共生过程中的重要作用已被证实，但少有对小立碗藓中LysM-RLK家族基因功能的研究报道。小立碗藓(Physcomitrella patens)是非维管束植物中的模式植物，也是早期登陆陆生植物代表，小立碗藓基因组大小为 ${ 5 1 1 } \\mathrm { M b }$ ，共含27条染色体且全基因组测序已完成(Rensing etal.,2002)，基于此，本文采用生物信息学手段，在基因组范围鉴定小立碗藓 LYKs 基因家族成员，并对其进行蛋白序列分析、结构域预测、染色体定位及进化分析等，意在为后续研究该基因家族成员的生理生化功能提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究对象与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象及序列数据下载",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以模式植物小立碗藓为研究对象，小立碗藓基因组注释序列下载于 Ensembl Plants 数据库（http://plants.ensembl.org/index.html）（Kersey,2018），拟南芥基因组注释序列从 TAIR数据库（https://www.arabidopsis.org/）下载（Poole,2007）。水稻基因组注释序列下载于国家水稻数据中心（http://www.ricedata.cn/gene/）（樊颖伦，2009），蒺藜苜蓿基因组注释序列从Phytozome vl2.1数据库（https://phytozome.jgi.doe.gov/pz/portal.html）下载。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2小立碗藓LYK基因家族成员的鉴定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用TAIR数据库中拟南芥LYK基因家族成员（共5个）蛋白序列作为参考序列集合，在小立碗藓基因组序列（http://sia.ensembl.org/index.html）中进行同源搜索，查找小立碗藓中 LYK基因家族成员，并进一步利用 NCBI Conserved Domain Search (htps://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi） 筛选，确保氨基酸序列同时存在N-末端LysM和C-末端 Pkinase 结构域，最终得到21条候选 LYK基因，用 TBtools 软件对基因保守结构域可视化（Chenetal.,2018）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3小立碗藓LYK基因家族的蛋白特征分析及亚细胞定位预测",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将鉴定得到的 21条候选类受体蛋白激酶家族蛋白序列，利用 ExPASy 网站（htp:/expasy.org/）进行分子量、理论等电点的预测，并利用 SMART 网站(htp://smart.embi-heidelberg.de/)对所有基因进行保守结构域",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "位置预测（陈紫华，2019)；利用 CELLO 在线网站（http://cello.life.nctu.edu.tw/）预测小立碗藓 LYK 基因家族的亚细胞定位，图中\\*表示可信度最高（宋希茜，2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4小立碗藓LYK蛋白的保守域结构分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 MEME 网站（htp://meme-suite.org/）基于相似度较高的基序，即 Motif，分析 LYK基因家族成员蛋白序列保守特征，用TBtools 软件进行可视化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5小立碗藓LYK基因家族成员基因结构分析和基因组定位分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据检索到的小立碗藓LYK基因家族成员的基因组信息，利用从EnsemblPlants 数据库(ttp://plants.ensembl.org/index.html)下载的小立碗藓基因染色体定位文件（.gfs)，获得小立碗藓 LYK基因家族成员的外显子及内含子分布情况和它们在小立碗藓基因组染色体上的位置信息，最后利用 TBtools 软件绘制基因结构图和染色体定位图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6小立碗藓LYK基因家族的进化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对小立碗藓LYK基因家族成员构建系统进化树：利用进化树分析软件MEGA7.0中的Muscle对小立碗藓LYK蛋白序列进行多序列比对（Edgar，2004)。利用进化树分析软件MEGA7.0，执行参数 Partial deletion，选用合适的氨基酸替代模型( $\\mathrm { L G + G + I } ,$ ，使用基于LG 矩阵模型的最大似然法推断进化历史（Sagulenko et al.,2018）。执行参数Poission correction、partial deletion，校验参数bootstrap $\\mathrel { \\mathop : } 1 0 0 0$ ，构建系统进化树，对小立碗藓LYK基因进行初步的亚族分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对小立碗藓LYK基因家族成员与水稻、拟南芥和蒺藜苜蓿中的同源家族成员构建系统进化树，方法同上，对小立碗藓LYK基因进一步分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1小立碗藓LYK基因家族成员基本信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 TAIR（htps://www.arabidopsis.org/）数据库下载的拟南芥LYK（LysM-RLK）家族基因序列作为基因家族的参考序列（共5个)，使用 TBtools 软件中的 Blast Wrapper，调取小立碗藓中的可能的LYKs 基因家族成员序列，得到160个候选基因，再利用 NCBIBLASTp 进行双向 Blast，去重复得到 50条候选 LYK基因，最后利用 NCBI Conserved Domain Search （https://ww.ncbi.nlm.nih.gov/Structure/cd/wrpsb.cgi）基于保守结构域进一步筛选，最终得到21条候选LYK基因，TBtools 软件可视化如图1。利用生物信息学方法，对小立碗藓LYK基因家族成员的蛋白长度、染色体位置、分子量、理论等电点等基本信息进行分析并编号，详见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过蛋白特征分析，小立碗藓LYK蛋白的分子量为 $6 9 . 5 4 \\mathrm { \\sim } 8 2 . 0 2 \\mathrm { k D a }$ ，变化较稳定，理论等电点最小为5.98，最大为7.78。这些LYK基因编码蛋白的氨基酸长度从 $6 2 5 \\sim 7 5 5$ aa之间波动。运用SMART网站鉴定和Pfam数据库(htp://fam.xfam.org)验证结果显示,21个LysM型类受体蛋白激酶同时具有PKc_like 和LysM特征结构域，不同LYK所含LysMdomain 的数目存在差异。这一结果与拟南芥中已鉴定出的LYK 蛋白特征相似（Shiu etal.,2004）。亚细胞定位显示，通过CELLO 网站预测小立碗藓 LYK基因家族成员全部位于质膜。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/048cfcc535be9e1632978cd9a671b6a95d95ee5b6a60ddb31334657949b3b45e.jpg",
+        "table_caption": [
+            "表1小立碗藓LYK蛋白家族成员基本信息 Table.1 Identification of LYK protein gene family members from P.patens "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">基因编号 Gene name</td><td rowspan=\"2\">基因号 Gene ID</td><td rowspan=\"2\">蛋白长度 Length of</td><td rowspan=\"2\">理论等电点 Theoretical isoelectric point（Pi）</td><td rowspan=\"2\">内含子数目 Intron</td><td rowspan=\"2\">分子量（kDa) Molecular</td><td rowspan=\"2\">亚细胞定位 Subcellular localization CELLO 预测 CELLO prediction</td></tr><tr><td>weight（Mw）</td></tr><tr><td>PpLYK1</td><td>Pp3c7_26350V3.1</td><td>678</td><td>6.65</td><td>1</td><td>74.13</td><td>质膜 plasma membrane</td></tr><tr><td>PpLYK2</td><td>Pp3c7_26350V3.9</td><td>716</td><td>7.78</td><td>3</td><td>78.11</td><td>(4.002 *) 质膜 plasma membrane</td></tr><tr><td>PpLYK3</td><td>Pp3c7_26350V3.7</td><td>678</td><td>6.65</td><td>2</td><td>74.13</td><td>(4.101 *) 质膜 plasma membrane</td></tr><tr><td>M</td><td>Pp3c7_26350V3.8</td><td>678</td><td>6.65</td><td>1</td><td>74.13</td><td>(4.002 *) 质膜 plasma membrane (4.002 *)</td></tr><tr><td>53LYk4 0 PpLYK5</td><td>Pp3c7_26350V3.10</td><td>716</td><td>7.78</td><td>2</td><td>78.11</td><td>质膜 plasma membrane (4.101 *)</td></tr><tr><td>0 OPpLYK6</td><td>Pp3c1_6050V3.1</td><td>671</td><td>6.24</td><td>1</td><td>72.56</td><td>质膜 plasma membrane (3.086 *)</td></tr><tr><td>0 0 2pLYK7</td><td>Pp3c1_6050V3.2</td><td>755</td><td>6.04</td><td>3</td><td>82.02</td><td>质膜 plasma membrane (3.837 *)</td></tr><tr><td>PpLYK8 22</td><td>Pp3c1_6050V3.3</td><td>755</td><td>6.04</td><td>2</td><td>82.02</td><td>质膜 plasma membrane</td></tr><tr><td>PpLYK9</td><td>Pp3c11_6330V3.3</td><td>640</td><td>7.11</td><td>13</td><td>70.45</td><td></td></tr><tr><td>eu LYK10</td><td>Pp3c11_6330V3.5</td><td>640</td><td>7.11</td><td>13</td><td>70.45</td><td>质腹 p(2.5793gmbramc (2.579 *)</td></tr><tr><td>C PpLYK11</td><td>Pp3c11_6330V3.4</td><td>640</td><td>7.11</td><td>13</td><td>70.45</td><td>质膜 plasma membrane (2.579 *)</td></tr><tr><td>PpLYK12</td><td>Pp3c11_6330V3.6</td><td>640</td><td>7.11</td><td>13</td><td>70.45</td><td>质膜 plasma membrane (2.579 *)</td></tr><tr><td>PpLYK13</td><td>Pp3c7_25560V3.3</td><td>625</td><td>5.98</td><td>13</td><td>69.54</td><td>质膜 plasma membrane (3.864 *)</td></tr><tr><td>PpLYK14</td><td>Pp3c7_25560V3.4</td><td>625</td><td>5.98</td><td>12</td><td>69.54</td><td>质膜 plasma membrane (3.864 *)</td></tr><tr><td>PpLYK15</td><td>Pp3c7_25560V3.1</td><td>625</td><td>5.98</td><td>13</td><td>69.54</td><td>质膜 plasma membrane (3.864 *)</td></tr><tr><td>PpLYK16</td><td>Pp3c7_25560V3.2</td><td>625</td><td>5.98</td><td>14</td><td>69.54</td><td>质膜 plasma membrane (3.864 *)</td></tr><tr><td>PpLYK17</td><td>Pp3c9_5820V3.1</td><td>697</td><td>6.23</td><td>1</td><td>75.27</td><td>质膜 plasma membrane</td></tr><tr><td>PpLYK18</td><td>Pp3c9_5820V3.2</td><td>697</td><td>6.23</td><td>1</td><td>75.27</td><td>(2.659 *) 质膜 plasma membrane</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/53f8bf6e4eb601adafd02bb1e6c8b294df0dde4b174611a62a50067c8c54ee68.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>PpLYK19</td><td>Pp3c9_5820V3.3</td><td>697</td><td>6.23</td><td>1</td><td>75.27</td><td>质膜plasmamembrane (2.659 *)</td></tr><tr><td rowspan=\"2\">PpLYK20</td><td rowspan=\"2\">Pp3c9_5820V3.4</td><td rowspan=\"2\">697</td><td rowspan=\"2\">6.23</td><td rowspan=\"2\">2</td><td rowspan=\"2\">75.27</td><td>质膜plasma membrane</td></tr><tr><td>(2.659 *)</td></tr><tr><td>PpLYK21</td><td>Pp3c9_5820V3.5</td><td>697</td><td>6.23</td><td>2</td><td>75.27</td><td>质膜plasma membrane (2.659 *)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2小立碗藓LYK基因结构与蛋白保守结构域分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过MEME 网站分析小立碗藓 LYK基因序列，得到10个保守性较高的motif（图1：B)，并且motif间的排布具有一定规律，主要分为两大类：3‘端排布顺序相同，均为motif 5-motif 4-motif 7-motif 1-motif2-motif3;5‘端排布顺序分为两类:motif9-motif 6-motif10-motif 8和 motif 8-motif 6-motif 9-motif 10。可见，小立碗藓 LYK家族成员均具有 motif 5-motif 4-motif 7-motif 1-motif 2-motif 3的相对稳定结构，且位于基因3‘端，但各成员5‘端会出现 motif排列顺序的差异。MEME 预测的小立碗藓 LYK蛋白motif信息见表2。发现小立碗藓LYK蛋白的motif长度最小为29，最大为50，并且存在长度相同的 motif。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过 SMART网站和Pfam 网站分析小立碗藓 LYK蛋白保守结构域，即通常所说的domain，结果如图2和图1：C。21个LYK蛋白均含有激酶结构域和LysM结构域，但所含LysM结构域的个数存在一定差异。利用进化树软件MEGA7.0构建小立碗藓 LYK基因家族的系统发育树（图1：A)，发现21个LYK家族成员从上至下分为3个分支，为更准确的分类，后文与已鉴定的3种模式植物的LYK成员一同构建系统进化树，以更好地了解物种与进化间的联系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分析21个小立碗藓LYK基因的外显子、内含子结构（图1：C)，发现约 $62 \\%$ 的 $L Y K$ 基因含有1\\~3 个内含子;其中有6个LYK基因均含有13个内含子,分别为 $P p L Y K 9 , P p L Y K I 0 , P p L Y K I I , P p L Y K I 2 , P p L Y K I 3 ,$ （20PpLYK15；PpLYK16含有14个内含子，为21个基因中内含子数量最多的基因，猜测其编码的蛋白生物学功能较为多样。LysM-RLKs家族中未发现不含内含子的成员，其中 $P p L Y K I 4$ 为仅有的不含非编码区的LYK基因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将所有LysM-RLKs家族成员的保守结构域和基因结构整合在一起（图1：C)，可以发现两类特征结构域（LysM和PKc_like）均存在于基因编码区（即CDS），说明这两类结构域均对基因的功能起作用。图中发现PpLYK9至PpLYK13在外显子-内含子结构上与其它LYK家族成员存在显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd14595a6eb587fafa983e0101e9860f30340fd32b1b2e5faeebc83b66180479.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A.21个LYK蛋白的系统发育树。用MEGA7.0构建系统发育树，使用21个LYK成员的全长氨基酸序列，选用Poisson model，Bootstrap $_ { \\mathrm { \\Pi } } = 1 0 0 0$ 。B.LYK基因的保守基序（motif）分布。10个motif用不同颜色矩形框表示，不同motif在图中用数字标明。C.LYK基因的保守结构域及外显子、内含子分布。绿色矩形框表示蛋白的非编码区（即UTR)，黄色矩形框表示蛋白的编码区（即CDS)，中间隔断的黑色线条表示内含子区域，通过底部比例尺可推断各区域长度，数字表示相位。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A.Phylogenetic tree of 21LYK proteins.Phylogenetic tree was constructed with MEGA7.0, with ful-length amino acid sequences of 21 LYK members and poisson model, bootstrap $_ { \\mathrm { \\Pi = 1 0 0 0 } }$ . B. Conserved motifs distribution of LYK genes.10 motif are represented by rectangular boxes of diferent colors,and different motif are indicated in figures. C.Conserved domain and exon and intron distribution of $L Y K$ genes.The green box indicates noncoding region of protein (ie, UTR),the yellow box indicates the coding region of the protein (ie, CDS),and the black line n the middle ofthe gap indicates the intron region,and the length of each region can be inferred from thebottom scale. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Numbers represent phase. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1小立碗藓LYK家族成员的系统发育关系、保守基序、保守结构域及基因结构分析Fig.l Phylogenetic relationship,conserved motifs， conserved domains and gene structure analysis of the membersof the family of LYK in Physcomitrella patens",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d64e9f584b4eb9a751a1575213ea0c0b3198e7c42acd9d58d2dc3d3165a0b06.jpg",
+        "table_caption": [
+            "表2MEME预测的LYK蛋白motif信息Table.2MEME predictedLYK proteinsmotif information"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Motif</td><td>E-value</td><td>Sites</td><td>Width</td><td>Logo</td></tr><tr><td>motif1</td><td>9.3e-815</td><td>21</td><td>50</td><td></td></tr><tr><td>motif2</td><td>1.5e-711</td><td>21</td><td>50</td><td></td></tr><tr><td>motif3</td><td>2.4e-590</td><td>21</td><td>50</td><td></td></tr><tr><td>motif4</td><td>4.1e-411</td><td>21</td><td>29</td><td></td></tr><tr><td>motif5</td><td>1.4e-465</td><td>21</td><td>41</td><td>MyGsps SLDNK</td></tr><tr><td>motif6</td><td>5.3e-528</td><td>21</td><td>50</td><td></td></tr><tr><td>motif7</td><td>9.1e-363</td><td>21</td><td>29</td><td>LVEYAENSLsSDCHRXAXDSF</td></tr><tr><td>motif8</td><td>1.5e-283</td><td>21</td><td>31</td><td>TYEG RH8IEELAA</td></tr><tr><td>motif9</td><td>3.6e-361</td><td>21</td><td>41</td><td></td></tr><tr><td>motif10</td><td>5.0e-261</td><td>21</td><td>29</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同颜色方框表示不同的domain，各蛋白长度可通过底部比例尺推断。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bd5051a93e4fe611dc71f448ae58a966aeb4df9bad9eb714d9ff5296a4a3b1e.jpg",
+        "img_caption": [
+            "图2小立碗藓LYK蛋白保守结构域（domain）分析Fig.2 Conservative domain analysis ofLYK protein in Physcomitrella patens"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Diferent color boxes indicate different domains,andthe length of each protein can be inferred by the bottom scal ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3小立碗藓LYK蛋白的系统发育分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过 MEGA对小立碗藓 LYK基因家族成员的蛋白序列进行多序列比对后构建系统发育树（图1：A)，结果显示：其LYK基因家族的系统发育树有三个非常明显的分支，3大分支中均发现了独立的进化分支，说明小立碗藓 LYK基因家族成员在漫长的进化历史中产生了不同的进化方式，推测同一大分支延伸出的不同分支成员间功能可能有所差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了进一步将小立碗藓LYK基因家族成员分类并研究其与其它植物LYK基因间的进化关系，分别选取10个水稻（单子叶模式植物）、5个拟南芥（双子叶模式植物）和23个蒺藜苜蓿（豆科模式植物）中已鉴定出的所有LysM-RLK基因的氨基酸序列，与小立碗藓 LysM-RLK共同构建系统进化树，如图3所示，分析发现，发现4种植物中的LYK 蛋白存在于4个亚族（LYK-I、LYK-II、LYR-I、LYR-II）中，而小立碗藓LYK 蛋白仅存在于2个亚家族:LYK-II和 LYR-I中,LYK-II亚族中有8个小立碗藓 LYK家族成员 $( P p L Y K 9$ $- P p L Y K I 6 )$ ，另外13个成员属于LYR-I亚族。LYK-II亚族中的小立碗藓LYK家族成员有两个分支，同源性达 $90 \\%$ 以上；LYR-I亚族中的小立碗藓LYK家族成员也存在两个分支，同源性达 $90 \\%$ 以上，可能为直系同源基因。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "红色菱形框表示小立碗藓LYK基因，蓝色框表示蒺藜苜蓿 $L Y K$ 基因，绿色三角形表示水稻LYK基因，棕色圆形表示拟南芥 $L Y K$ 基因。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9e4fc3f37b3fa5f10ca511caca3c371dcf34ce2b0a0f1dc487a26d69e98c863.jpg",
+        "img_caption": [
+            "图3小立碗藓和几种模式植物LYK基因系统进化树Figure.3 Phylogenetic tree ofLYK gene of Physcomitrella patensand several model plants"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The red diamond-shaped box represents the $L Y K$ genes of Physcomitrella patens, the blue box represents the Medicago truncatula LYK genes,the green triangle represents the Rice LYK genes,and the brown circle represents the Arabidopsis LYK genes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4小立碗藓LYK基因家族的染色体定位",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过EnsemblPlants 数据库获得小立碗藓LYK染色体定位信息，将小立碗藓 21个LYK基因定位在4条染色体上，如图4所示。小立碗藓第7条染色体上定位了9个基因，为定位LYK基因数目最多的一条染色体；第1、9、11条染色体上分别定位了3、5、4个基因，可见小立碗藓21个LYK基因在染色体分布上是相对集中的。图中可明显看到在4条染色体上均出现小型基因簇，根据基因簇的定义，基因簇成员在结构和功能上可能具有明显的相似性。其中,4条染色体上均出现位置接近的基因,如1号染色体上基因PpLYK6、PpLYK7和PpLYK8，9号染色体上的PpLYK17、PpLYK18、PpLYK19、PpLYK20 和 $P p L Y K 2 I$ 等，可能为串联重复。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c91328cbe2c15e5adecf0daf83fed07d0dd0cbf1a5c50d60cbd4c05f26b40e0.jpg",
+        "img_caption": [
+            "图4小立碗藓LYK基因染色体定位图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure. 4 Chromosome localization map of LYK gene in Physcomitrella patens ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文鉴定了小立碗藓基因组中的LysM-RLK基因，并对其进行生物信息学相关分析。共鉴定出小立碗藓中 21个LysM-RLK家族成员，它们在染色体上的分布相对集中，仅位于4条染色体上，且出现5组小型基因簇，推测可能为串联重复。每个LYK均含有1\\~3个LysM保守结构域和1个激酶结构域（图2）,MEME结果显示同一亚家族各成员具有相同或相似的domain（图1：B)，说明该亚家族成员可能在小立碗藓整个生命过程中执行相似的功能。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从LysM-RLK家族成员数量看，小立碗藓（21个）多于拟南芥（5个）和水稻（10个）中LYK基因个数，但和蒺藜苜蓿（23个）同源家族的数量相差不大。研究发现该家族成员在高等植物中普遍存在较多成员，如苹果中有12个LysM-RLK，百脉根（Lotus japonicus）中有17个LysM-RLK（周喆等，2014；Lohmannet al.,2010)。小立碗藓是早期登陆的植物代表，其LysM-RLK家族成员数量多于拟南芥和水稻，推测该家族成员在小立碗藓中可能存在基因功能的冗余。随着不断进化，一些高等植物中该家族成员数量得到扩展，意味着该家族新功能的引入。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过系统进化分析，将小立碗藓 LysM-RLK基因分为2个亚组（LYK-II和LYR-I)，它们均与水稻、拟南芥和蒺藜苜蓿同源家族中的部分成员聚为一类，而高等植物中LysM-RLK家族分为4个亚组，推断小立碗藓中LysM-RLK家族成员的功能相对单一。与进化分析表征相似，同一亚组内，LYK基因的外显子-内含子的排布特征较为接近，同时，此基因结构特征与水稻、拟南芥和蒺藜苜蓿的外显子-内含子分布特征较为相似（Shiu et al.,2004；Arrighi et al.,2006)。综上所述，同一亚组内基因家族成员具有相近的保守域特征、同源关系和基因结构特征，说明其可能具有相同或相似的功能。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LysM 型类受体蛋白激酶基因在植物生长发育及逆境胁迫中发挥重要功能，已成为当今植物中基因功能研究的热点之一，LysM-RLK基因家族在高等植物中数量较多，功能也具有多样性，但在小立碗藓中功能的研究不够深入，大部分LYK基因功能尚不明确。本研究以已有数据库资源为基础，在小立碗藓中筛选得到21个LYK基因，并利用生物信息学方法，对其LYK基因家族成员进行蛋白特征、染色体定位、基因结构及进化关系等分析，将小立碗藓 LYK基因家族进行初步分类，从基因层面显示了小立碗藓的特征，为之后研究LysM型类受体蛋白激酶功能提供了理论依据。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AFZAL AJ，WOOD AJ，LIGHTFOOT DA，2008.Plant Receptor-Like Serine Threonine Kinases:Roles in Signaling and Plant Defense[J]. Mol Plant Microbe Interaction, 21(5):507-517.   \nARRIGHI JF,BARRE A,AMOR BB,et al.,2006.The Medicago truncatula Lysine Motif-Receptor-Like Kinase Gene Family Includes NFPand New Nodule-Expressed Genes[J]. Plant Physiol,142(1):265-279.   \nCHEN CJ,CHEN H,HEYH,etal.,2018.TBtools,a Toolkit for Biologists integrating various biological data handling tools with a user-friendly interface.BioRxiv 289660.   \nCHEN ZH,2019.Conservation and functional diferentiation ofE (z) homologous genes in plants [D].[陈紫华, 2019.．植物中E(z)同源基因的保守性和功能分化研究[D].]   \nKERSEY PJ,2018.Ensembl Genomes 2018:an integrated omics infrastructure for non-vertebrate species[J]. Nucl Acid Res, (D1):D1.   \nEDGAR RC,2004.MUSCLE: Multiple sequence alignment with high accuracy and high throughput[J]. Nucl Acid Res, (5):5.   \nFAN YL,2009. Simple repeated sequence analysis of the genome of Xanthomonas oryzae pv. Oryzae [J]. Anhui Agricultural Sciences,No.273(20):9387-9390.[樊颖伦,2009．水稻白叶枯病菌基因组简单重复序列分析 [J]．安徽农业科学,No.273(20):9387-9390.]   \nARRIGHI JF,ANNICK B,BENAB,et al,2006.The Medicago truncatula Lysine Motif-Receptor-Like Kinase Gene Family Includes NFP and New Nodule-Expressed Genes[J]. Plant Physiol,142(1):265-279.   \nLEHTI-SHIU MD, ZOU C,HANADA K,et al.，2009.Evolutionary History and Stress Regulation of Plant Receptor-Like Kinase/Pelle Genes[J]. Plant Physiol, 150(1):12-26.   \nLIMPENS E,FRANKEN C, SMIT P, et al.， 2003. LysM Domain Receptor Kinases Regulating Rhizobial Nod Factor-Induced Infection[J]. Science, 302(5645):630-633.   \nLOHMANN GV,SHIMODA Y,NIELSEN MW,et al.， 2010.Evolution and Regulation of the Lotus japonicus LysM Receptor Gene Family[J]. Mol Plant Microbe Interaction, 23(4):510-521.   \nPOOLE RL,2007. The TAIR database[J]. Methods Mol Biol, 406(406):179-212.   \nRADUTOIU S, MADSEN LH, MADSEN EB,et al.,2003.Plant recognition of symbiotic bacteria requires two LysM receptor-like kinases[J]. Nature, 425(6958):585-592.   \nRENSING SA,ROMBAUTS S,PEER YVD,et al.， 2002. Moss transcriptome and beyond. Trends Plant Sci, 7(12):535-538.   \nSTONE J,1995. Plant protein kinase families and signal transduction[J]. Plant Physiol,108(2):451-457.   \nSHIU S, KARLOWSKI WM, PAN R, TZENG Y, MAYER KFX,LI W, 2004. Comparative analysis of the Receptpes-Like kinase family in Arabidopsis and rice[J]. Plant Cell, 16: 1220-1234.   \nSONG XQ,2016. Cloning and functional analysis of the super-accumulating SaCAD gene of Jingtiandongtian [D]. [宋希茜,2016．超积累型东南景天 SaCAD 基因的克隆及其功能分析[D].]   \nSAGULENKO P,PULLER V,NEHER RA，2018. TreeTime:Maximum-likelihood phylodynamic analysis[J]. Virus Evol, 4(1):1.   \nSHIU SH, KARLOWSKI WM, PAN R, et al.,2004. Comparative Analysis of the Receptor-Like Kinase Family in Arabidopsis and Rice[J]. Plant Cell, 16(5):1220-1234.   \nTIAN LM, 2016. Identification, expression pattern analysis and functional study of tomato $\\mathrm { I M P a \\ / \\ \\beta }$ and LYK family genes [D].[田丽梅,2016.番茄 $\\mathrm { I M P a } / \\beta$ 和LYK家族基因的鉴定、表达模式分析和功能研究[D].]   \nWAN J,ZHANG XC，NEECE D, et al.,2008.A LysM Receptor-Like Kinase Plays a Critical Role in Chitin Signaling and Fungal Resistance in Arabidopsis[J]. Plant Cell Online,20(2):471-481.   \nWANG L,LI G,WANG J,et al.,2009.Molecular cloning and evolutionary analysis of the GJAl (connexin43) gene from bats (Chiroptera)[J]. Genet Res, 91(02):101.   \nZHANG XC,2007.Molecular evolution of Lysin motif-type receptor-like kinase in plants[J].Plant Physiol,144.   \nZHOU Z, ZHANG CX, ZHANG LY, et al.，2014. Bioinformatics and Expression Analysis of the LysM Gene Family in Apple [J]. Chinese Journal of Agricultural Sciences,000 (013): 2602- 2612.[周喆，张彩霞，张利 义，等，2014.苹果LysM基因家族的生物信息学及表达分析%Bioinformatics and Expression Analysis of the LysM Gene Family in Apple[J]. 中国农业科学,000(013):2602-2612.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

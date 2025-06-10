@@ -1,0 +1,274 @@
+# 鸡沙门氏菌病的生物预防和控制研究进展
+
+阚刘刚1 赵丽杰2 李秀业² 曾丹²王忠1\*（1.中国农业大学动物科技学院，北京100193；2.河北华裕家禽育种有限公司，邯郸 0560
+
+00）
+
+摘要：鸡沙门氏菌病严重威胁着世界家禽产业，造成巨大的经济损失。加强生物安全防控、疾病净化、沙门氏菌疫苗免疫、抗生素预防与治疗在鸡沙门氏菌病预防控制方面发挥了重要作用。然而，随着沙门氏菌耐药菌株的出现以及禽产品抗生素残留问题突出，迫切需要新的预防手段替代抗生素进行沙门氏菌病的预防。本文首先叙述了鸡沙门氏菌流行菌株及其流行特点和机体对沙门氏菌的免疫清除机制，然后重点介绍了近年来有关功能性饲料添加剂以及饲料和饮水处理在预防和控制鸡沙门氏菌感染方面的研究进展。
+
+关键词：沙门氏菌病；鸡；生物防控；饲料添加剂中图分类号：S816；S855
+
+# 1鸡沙门氏菌流行菌株及宿主免疫清除机制
+
+# 1.1鸡沙门氏菌流行菌株及特点
+
+沙门氏菌为两端钝圆的革兰氏阴性菌，无芽孢，一般无荚膜，除鸡白痢沙门氏菌和鸡伤寒沙门氏菌外，其他血清型沙门氏菌都有周身鞭毛，是食源性病原菌之一。目前发现沙门氏菌属约有2 555 种血清型可导致人和畜禽发生胄肠炎[。沙门氏菌无宿主特异性，可感染人、畜和禽等，由沙门氏菌感染引起的沙门氏菌病同样也是主要的人畜禽共患病之一。Jackson等[2]报道美国1998—2008年超过 $80 \%$ 的沙门氏菌病与鸡蛋和鸡肉的沙门氏菌污染直接相关。从家禽生产中沙门氏菌传播流行途径来看，主要包括3个途径：一是通过接触沙门氏菌污染的环境、笼具、器械和饮水等导致沙门氏菌感染；二是鸡群采食沙门氏菌污染的饲料，主要由啮齿类动物如老鼠，还有苍蝇等造成饲料污染，导致家禽沙门氏菌感染；三是通过沙门氏菌感染的种鸡，沙门氏菌感染后可由肠道侵入，导致全身系统性感染和持续性感染，沙门氏菌进入卵巢，或者盲肠内沙门氏菌在发生其他严重疾病的情况下，逆行到阴道导致输卵管感染，进而导致种鸡产蛋时输卵管内的种蛋内部带菌或表面带菌，如果种蛋消毒不严格则会导致后代雏鸡发生沙门氏菌感染和疾病[3-5]。家禽生产中沙门氏菌的主要危害菌种包括：鸡白痢沙门氏菌（Salmonella pullorum，SP）、鸡肠炎沙门氏菌（Salmonella enteritidis,SE）、鸡鼠伤寒沙门氏菌（Salmonella typhimurium，ST）和鸡伤寒沙门氏菌（Salmonella gallinarum,SG），可引起鸡下白痢、胃肠道炎症、脾炎、肝炎、禽伤寒和输卵管感染等疾病，导致鸡免疫功能下降、生长速度降低、死亡率升高[6-10]，并造成鸡蛋、鸡肉等禽源性食品污染，危害人类健康。
+
+# 1.2鸡沙门氏菌宿主免疫清除机制
+
+从分子和细胞水平上理解沙门氏菌感染鸡后的免疫调节机制，有助于形成新的策略来预防和控制沙门氏菌对肉鸡和蛋鸡的定植和入侵。鸡发生沙门氏菌感染时，宿主的免疫系统如以异嗜白细胞、巨噬细胞和树突状细胞为主的先天性免疫以及适应性免疫（主要是细胞免疫和体液免疫）在沙门氏菌识别和清除中发挥重要作用[11]。沙门氏菌感染的最初阶段，主要是鸡的异嗜白细胞、巨噬细胞发挥先天性免疫作用，沙门氏菌经消化道进入鸡体内后，首先被盲肠的模式识别受体，如 Toll 样受体（Tol-like receptor，TLR）-2、TLR-4、TLR-5、TLR-15和 TLR-21等识别，激活核转录因子 $\mathbf { \sigma } \cdot \mathbf { \kappa } \mathbf { B }$ （nuclear factor-kappa B， NF $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ ）信号通路，刺激先天性免疫相关的促炎细胞因子和趋化因子表达量增加，如白介素（interleukin，IL）-1β、IL-6、IL-8、IL-17、IL-18、IL-22、干扰素-γ（interferon-γ，IFN-γ）、肿瘤坏死因子诱导蛋白和诱导型一氧化氮合酶等，此外抗菌分子如抗菌肽-1、抗菌肽-2、防御素-1、防御素-2、防御素-7、溶菌酶、补体3以及黏蛋白-2的表达也出现明显提高[12]；同时树突状细胞识别抗原后，将抗原呈递给T淋巴细胞激活细胞免疫，主要为Th1类型反应，产生CXCLi1、CXCLi2和IFN- $\cdot \gamma$ ，促使异嗜白细胞（粒细胞）、巨噬细胞、树突状细胞在沙门氏菌感染部位发生大量浸润[13]，产生一氧化氮、活性氧等杀菌物质进一步增强先天性免疫的清除杀菌效果。而在感染后期（感染14d后），细胞免疫反应逐渐减弱，体液免疫反应逐渐增加，产生大量的免疫球蛋白(immunoglobulin，Ig)G 和 IgA，协助肠道和内脏器官内的沙门氏菌清除[12]。因此新的预防和控制沙门氏菌感染的策略要求能够提高宿主先天性免疫和细胞免疫机能，提高沙门氏菌的清除效率。
+
+# 2 鸡沙门氏菌生物防治进展
+
+抗生素可有效地控制鸡群中沙门氏菌感染[14]。然而，这种做法会增加鸡蛋和组织中抗生素残留或多重抗生素耐药细菌出现的风险[15-16]。因此，迫切需要新的生物防治手段来控制鸡群沙门氏菌感染。鉴于沙门氏菌病在鸡群中流行的复杂性，亟需根据沙门氏菌细菌学和血清学检测结果，建立一整套切实可行的预防和控制鸡沙门氏菌感染和传播的综合方案。环境卫生消毒措施在控制沙门氏菌感染和定植方面发挥部分作用，只有结合其他一些措施如添加功能性饲料添加剂、饲料加热或消毒处理、饮水处理、种蛋消毒或疫苗免疫接种等生物安全措施才能有效预防和控制沙门氏菌病[17]。本文将重点介绍近年来有关功能性饲料添加剂以及饲料和饮水处理在预防和控制鸡沙门氏菌感染方面的研究进展。
+
+# 2.1 功能性饲料添加剂
+
+# 2.1.1 益生菌
+
+直接饲喂（通过饲料或饮水）家畜家禽益生菌或其培养物是减少动物肠道病原菌定植和入侵的一种潜在干预措施。益生菌进入动物消化道后能与病原菌竞争肠道结合位点，阻止病原菌的占位和定植；与病原菌竞争营养物质；分泌抗菌物质如过氧化氢、挥发性脂肪酸（乳酸、乙酸和丁酸等）和一些特异性抑菌蛋白（也称细菌素），抑制病原菌生长，降低病原菌侵袭力相关毒力基因的表达[18]；发挥免疫刺激作用，促进肠道免疫成熟分泌免疫抗菌物质，杀灭病原菌[19-24]。创建一个不利于病原菌生存的肠道环境，从而大大降低肠道有害微生物如沙门氏菌、产气荚膜梭菌和弯曲杆菌的定植和入侵[25-26]。此外，大量的试验研究和临床研究表明益生菌可加速鸡肠道正常微生物区系的形成以及恢复被破坏的肠道微生物区系平衡，不仅可以增强宿主抵抗沙门氏菌感染的能力，而且对家禽的生产性能具有一定的改善作用[27-28]。
+
+Van Coillie 等[29]从健康鸡的盲肠、输卵管和阴道分离出包括唾液乳杆菌、嗜酸乳杆菌、瑞特氏乳杆菌、植物乳杆菌和鼠李糖乳杆菌等乳酸菌；研究发现它们对沙门氏菌都具有强烈的抑制作用[30]。Somplang 等[31]报道1日龄雏鸡饲料和饮水中添加唾液乳杆菌可显著降低 SE 感染，主要原因是唾液乳杆菌刺激机体免疫系统，如刺激鸡异嗜白细胞，激活先天性免疫系统，提高其免疫吞噬活性和吞噬指数，从而杀灭病原菌。然而，Andreati 等[32]报道，鸡胚胎气囊接种唾液乳杆菌，孵化后2d内对雏鸡肠道和肝脏 SE 感染无显著改善作用，反而降低了种蛋孵化率。此外，Zhang 等[33]报道瑞特氏乳杆菌ATCC 55730可产生罗伊氏菌素，体内试验显示瑞特氏乳杆菌ATCC 55730 可显著提高 SP 感染鸡的成活率。Van Coillie 等[29]等报道，新孵出小鸡口服接种 $2 \times 1 0 ^ { 8 }$ CFU瑞特氏乳杆菌R-17485或约翰氏乳杆菌R-17504小鸡 SE 攻毒（每只鸡 $1 0 ^ { 4 }$ CFU）6d后，小鸡盲肠、肝脏和脾脏中SE的数量与对照组相比下降了 $90 \%$ 。但也有研究发现添加约翰氏乳杆菌对家禽 SE 的定植无抑制作用[34]。
+
+其他益生菌如屎肠球菌、枯草芽孢杆菌等也具有良好的抑菌能力。Karaffova等[35]报道，屎肠球菌AL41可通过调节肠道转化生长因子-β4、IL-17的基因表达，上调肠道分泌型免疫球蛋白A（secretory immunoglobulin A，sIgA）表达来降低肉鸡肠道 SE 数量，屎肠球菌EF55 也可通过调节肠道黏蛋白的表达来抑制 SE 的定植[36]。此外，枯草芽孢杆菌孢子可竞争性排斥青年鸡肠道内 SE、大肠杆菌和产气荚膜梭菌定植[37]。Vila等[38]报道给肉鸡或蛋鸡饲粮添加芽孢杆菌孢子（ $1 0 0 \ \mathrm { m g / k g }$ ），结果显示肉鸡和蛋鸡沙门氏菌阳性率分别下降了 $42 \%$ 和 $2 5 \%$ 。
+
+此外，多种益生菌的混合使用更有利于发挥益生菌的抑菌功效，具有一定的协同效应。Carter 等[39]报道将唾液乳杆菌59 和屎肠球菌PXN33混合使用既可改善家禽的生产性能，又可降低肠道酸度，保护肠道黏膜屏障完整性，显著降低鸡肠道 SE 的定植和入侵，其抑菌效果优于添加单一菌种。Filho 等[19]报道应用含有4 种乳酸菌菌株（嗜酸乳杆菌、发酵乳杆菌、瑞特氏乳杆菌和唾液乳杆菌）的益生菌产品预处理对 SE 易感的1日龄白来航小母鸡，一段时间后感染 SE，结果显示乳酸菌产品可通过调节TLR-NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 信号通路上促炎和抗炎细胞因子的表达，显著降低 SE感染引起的炎症反应，减轻肠道组织损伤并降低 SE 对肠道的定植与入侵。
+
+Kerr 等[40]综合评价了益生菌产品在降低养殖场鸡盲肠沙门氏菌定植的效果。评价指标有：文章出版年限、试验设计、益生菌产品特点（菌种来源、菌种组成、菌种含量以及是否与其他添加剂复配）、使用途径、使用时间、沙门氏菌感染特点（沙门氏菌株类型、感染剂量、感染途径、感染日龄、感染次数和感染程序等）、感染鸡种类、采样（采样时间、采样的器官和采样手法等）、实验室沙门氏菌检测方法、沙门氏菌清除情况判断标准以及实验结果可重复性等。结果发现：1）大量益生菌商业产品如 PreemptTM、Aviguard@、FM?-B11、Primalac?、Broilact@、Avian Pac Plus 以及含有乳酸菌的竞争性排斥产品等长期在饲粮中添加使用时，可显著降低鸡肠道沙门氏菌的定植和肉鸡盲肠沙门氏菌数量；2）商业产品如 Aviguard?、 $\mathrm { F M ^ { \textregistered } }$ -B11、Primalac?、MSC、Avifree 和部分菌种明确且包含乳酸菌的益生菌复合产品，饲喂肉鸡后鸡群肠道沙门氏菌带菌率显著高于益生菌菌种未明确的益生菌产品。导致这些商业产品清除鸡沙门氏菌效果下降的原因，作者认为主要有3个：一是这些商业产品的设计从最初就不包含某些抑制沙门氏菌的关键菌种或某些主要成分；二是这些商业产品在长期使用过程中，由于菌种一直维持不变，导致沙门氏菌对其产生了抗性；三是感染鸡的沙门氏菌类型主要有4种（SP、SE、ST 和 SG），益生菌对不同沙门氏菌表现出不同的作用效果。
+
+# 2.1.2 益生元与多糖
+
+益生元是消化道前段不可消化的饲料成分，主要是一些低聚寡糖，可抵抗消化道前段的消化酶和酸的破坏，到达肠道后段，作为后段肠道中有益菌的发酵底物，促进有益菌如乳酸菌、双歧杆菌的生长，调节肠道微生物菌群结构。益生元作为病原体定植的潜在抑制剂，主要通过竞争性排斥或者形成抗菌代谢产物如乳酸、丙酸和细菌素等来达到抑菌效果[41-43]。常用的益生元包括甘露寡糖（mannose-oligosaccharide，MOS）、果寡糖（fructooligosaccharide，FOS）、寡木糖（xylooligosaccharide，XOS）和低聚半乳糖（galacto-oligosaccharide，GOS）等。MOS 可以黏附于病原菌的菌毛上，阻止病原菌黏附到宿主肠上皮细胞[44]。另外，Pourabedin 等[45]报道MOS 和XOS 均可通过调节肠道细胞因子表达、微生物菌群结构和微生物代谢等降低盲肠沙门氏菌数量，增强鸡抵抗SE 感染的能力。Shang 等[46]报道饲粮添加0.$5 \%$ FOS，可改善来源于SE的脂多糖（lipopolysaccharide，LPS）攻毒肉鸡肠道黏膜形态，增强细胞因子如 $I L \mathrm { - } 1 \beta$ 、IL-10 和IFN-γ的表达，增强LPS 特异性抗体合成等，从而降低肠道沙门氏菌定植，保护肠道健康。Hughes 等[47]研究发现，在 SE 和 ST攻毒的仔鸡饲粮中添加$1 \%$ GOS 后，沙门氏菌数量低于未添加组，但试验结束时差异不显著；然而添加GOS 可改变仔鸡盲肠扁桃体基因表达和盲肠微生物组，表明GOS 可作为干预沙门氏菌定植的潜在手段。
+
+益生元和益生菌同时应用于宿主动物则定义为合生元。Totton 等[48]综合了大量有关益生元降低盲肠沙门氏菌的研究发现，添加到饲粮或饮水中的益生元可降低盲肠沙门氏菌数量，但结果差异性较大，不一致结论较多，总体降低程度有限，作用效果较弱，而益生元配合益生菌联合使用作用效果优于单独使用益生元。其他试验研究也表明，在促进家禽生长和降低沙门氏菌数量方面，使用合生元比单纯使用益生菌或益生元更有效[49-51]。
+
+除了典型的益生元外，还有一些非典型的益生元物质，其生理学功能和益生元类似，多糖就是其中一种（这里所说的多糖主要指非淀粉多糖）。其也不会被消化道前段的消化酶水解，而是同样作为盲肠中微生物的发酵底物。Brufau 等[52报道β-半乳甘露聚糖可改善沙门氏菌感染肉鸡的肠道形态，肠道杯状细胞数量和黏蛋白分泌增多，肉鸡抗沙门氏菌感染的能力增强。 ${ \mathfrak { \beta } }$ -半乳甘露聚糖的抗菌功效可能与其在肠道发酵促进有益菌生长和提高黏蛋白的表达量有关。此外，Feye 等[53]等报道肉鸡饲喂XPC（酵母培养物产品，富含β-葡聚糖和甘露聚糖）可显著降低鸡粪中多重抗生素抗性ST的排泄，并抑制其侵袭相关基因hilA 和抗生素抗性基因的表达。Shao 等[54]报道饲粮添加 $0 . 0 2 \%$ 酵母葡聚糖可调节鸡内源抗菌肽的表达而显著提高其清除肠炎沙门氏菌的能力。
+
+# 2.1.3有机酸、硝基化合物及饲料酸化剂
+
+有机酸自1960 年起就被用作饲料添加剂，然而这些产品在不同条件下的试验结果差异较大，其原因可能与配方组成、使用剂量、使用时间、目标动物和试验设计等有关。已有的研究发现，有机酸包括短链脂肪酸和中链脂肪酸都能通过调节沙门氏菌侵袭相关基因的表达，降低沙门氏菌在家禽肠道或内脏器官中的定植或入侵，但根据有机酸浓度或试验动物的不同，其抗菌效果存在差异。Cerisuelo 等[55]报道肉鸡饲粮中添加 $\mathrm { ~  ~ { ~ 1 ~ } ~ } \mathrm { g / k g }$ 丁酸钠和 $5 0 \mathrm { \ m g / k g }$ 精油显著降低了肉鸡盲肠中沙门氏菌定植量。体外试验也证明丁酸可以下调沙门氏菌侵袭相关基因hiID 和hilA的表达，从而下调沙门氏菌致病性岛Ⅰ的基因表达，导致沙门氏菌入侵性减弱，定植能力下降[56]。Machado Junior 等[57]报道肉鸡饲粮和饮水中分别添加有机酸和牛至提取物复合产品（ $0 . 2 0 \%$ 或 $0 . 0 8 \%$ ），结果显示，22d后 SE 感染肉鸡盲肠内容物沙门氏菌检测呈阴性。Evans 等[58]报道新生火鸡饲粮中添加中链脂肪酸产品，结果显示添加量为 $3 ~ \mathrm { g / k g }$ 时能显著降低盲肠沙门氏菌数量。Van Immerseel等[59]报道仔鸡饲粮添加 $3 ~ \mathrm { g / k g }$ 的己醛可显著降低肠道和内脏器官中 SE 的数量；且其研究发现，中链脂肪酸如己醛、己酸、辛酸均可降低沙门氏菌hilA基因的表达，该基因与沙门氏菌侵入能力紧密相关，hilA基因表达下调表明沙门氏菌的入侵和定植能力下降。Kollanoor-Johny 等[60]报道肉鸡饲粮补充 $0 . 7 \%$ 或 $1 . 0 \%$ 的辛酸也可显著降低小肠、盲肠、泄殖腔、肝脏和脾脏的沙门氏菌数量，体外试验表明辛酸可下调沙门氏菌hilA和hilD 基因的表达，沙门氏菌的侵袭能力下降 $80 \%$ 。Raeisi等[61]发现在体外月桂酸酯也能显著抑制 ST 的生长。但也有研究发现，饲粮添加乳酸和乙酸对肉鸡肠道沙门氏菌的抑制作用是有限的[62]。此外，有机酸的施用方式也对其抑菌效果有影响。例如，Fermandez-Rubio 等[63]报道，饲喂植物脂肪部分包被的丁酸盐可有效降低肉鸡嗪囊、肠道沙门氏菌的定植数量，降低沙门氏菌的肝脏移位，下调沙门氏菌侵袭相关基因表达，总体效果优于未包被丁酸盐。其原因可能是包被的丁酸盐能在消化过程中缓慢释放，在机体内的停留时间更长，到达消化道后段的丁酸盐的量更大，抗菌作用更持久[63]。有机酸除了通过下调沙门氏菌毒力基因的表达来有效抑制沙门氏菌定植入侵外，有机酸还可以改变肠道、pH肠内渗透压和细菌细胞膜通透性等，这些因素的改变是否与有机酸的抑菌功能相关还需进一步研究。
+
+硝基化合物也具有广谱抑菌作用，特别是硝基丙醇，可抑制 ST、弯曲杆菌、大肠杆菌和李斯特杆菌的生长[64]。Adhikari 等[65]报道蛋鸡饲粮添加 $1 0 0 { \sim } 2 0 0 \ \mathrm { m g / k g }$ 的硝基乙醇或硝基丙醇均可以显著预防和降低蛋鸡（45 周龄）肠道和内脏器官沙门氏菌感染数量，调节肠道炎症细胞因子的表达，抑制肠道炎症反应。因此硝基化合物也可作为饲料添加剂控制沙门氏菌感染。
+
+此外，饲料酸化剂可有效杀灭污染饲料中的病原菌，保证饲料安全。例如，使用添加$1 \%$ 的甲酸和丙酸（ $80 \%$ ： $20 \%$ ）混合酸处理饲粮 $4 8 { \sim } 1 2 0 \mathrm { ~ h ~ }$ 可显著降低饲粮中沙门氏菌数量，效果优于添加单一酸；并且发现复合酸在室温（ $( 2 3 \ ^ { \circ } \mathsf C )$ ）条件下的杀菌效果优于低温（5和1$5 ~ ^ { \circ } \mathrm { C } )$ 条件下的杀菌效果[66]。此外，多种有机酸的混合物对饲粮中沙门氏菌的杀灭效果是显著的，并随添加剂量的增加（ $1 \% \sim 7 \%$ ）呈上升趋势[67]。影响酸化剂杀菌效果的因素有很多，除了温度、添加量外，饲粮类型、湿度和作用时间都会影响酸化剂的杀菌效果。酸化剂添加量升高，杀菌效果相应增强，但会破坏饲粮中维生素等营养成分，另外饲粮酸度下降影响饲口性，并会腐蚀生产设备，因此酸化剂添加量应保持在一个合理水平。
+
+# 2.1.4 植物提取物
+
+饲料植物提取物添加剂的有效成分主要为次级代谢产物，包括萜类化合物、糖苷类化合物、多酚化合物、精油和生物碱类等，具有抗菌、抗氧化、免疫刺激、平衡肠道菌群以及促进肠道发育等一系列生理功能[68-72]。Rajani等[73]发现，攻毒 ST 的肉仔鸡饲粮中添加松木提取物（ $0 . 1 \%$ 、 $0 . 2 \%$ 和 $0 . 3 \%$ ）能显著降低肉鸡回肠、盲肠和肝脏中的ST定植量，且添加量为 $0 . 2 \%$ 时效果最佳。Upadhyaya 等[74]报道蛋鸡饲粮添加反式肉桂醛（ $1 . 0 \% { \sim } 1 . 5 \%$ ）可显著降低蛋壳和蛋黄中 SE 数量，蛋鸡盲肠、肝脏和输卵管中沙门氏菌数量也显著减少；体外试验发现，反式肉桂醛可显著降低沙门氏菌对鸡输卵管上皮细胞的黏附和入侵，沙门氏菌在巨噬细胞内的生存能力也显著降低。Varmuzova 等[6]发现饲粮中添加姜黄和黄芩提取物可显著减少 SE 感染蛋鸡盲肠、肝脏和脾脏中沙门氏菌的数量，同时，机体炎症细胞因子如 IL-1β、IL-8、IL-17、IFN-γ、诱导型一氧化氮合酶和卵黄抗体（immunoglobulinof yolk，IgY）的表达量也显著降低。植物提取物能通过影响沙门氏菌多种基因，包括侵袭、定植和细胞膜成分相关基因的表达，直接对沙门氏菌产生抑制作用。有研究报道，肉鸡饲粮中添加反式肉桂醛（ $0 . 5 0 \%$ 和 $0 . 7 5 \%$ ）或丁香酚（ $0 . 7 5 \%$ 和 $1 . 0 0 \%$ ）显著降低了SE 感染肉鸡盲肠沙门氏菌数量;添加反式肉桂醛对肉鸡体增重和采食量均无显著影响，但丁香酚显著降低了体增重；体外试验发现反式肉桂醛和丁香酚处理可显著降低沙门氏菌的定植和侵袭能力，这种作用是通过下调运动相关基因motA、flhC 和侵袭相关基因hilA、hilD及invF的表达来实现的[75]。另外，反式肉桂醛和丁香酚也可下调沙门氏菌PT8的鞭毛运动，下调肠上皮入侵和致病性岛Ⅰ相关基因以及细胞转运系统、外膜蛋白、细胞代谢和生物合成途径的基因表达，还可刺激沙门氏菌PT8热休克蛋白基因 dnaK、dnaJ、ibpB 和 ibpA的转录来发挥对沙门氏菌的抑制能力[76]。Amerah 等[77]报道饲粮添加肉桂醛和百里香酚复配的精油，同时再添加木聚糖酶，相比于单独添加复合精油产品，可显著降低肉鸡肠道沙门氏菌定植和水平传播。
+
+# 2.1.5 噬菌体
+
+噬菌体是感染特定细菌并能在其体内繁殖的天然病毒。根据噬菌体对宿主的破坏能力不同将噬菌体分为2类，一类是温和性噬菌体，它的基因组能与宿主细胞的DNA结合，并同宿主DNA一起进行复制，而不会破坏裂解宿主细胞；另一类是裂解性噬菌体，它会破坏宿主细胞的DNA，在宿主细胞内进行复制，然后溶解宿主细胞并释放大量子噬菌体[78]。噬菌体具有很强的特异性，能针对细菌种水平以下的个别菌株，有时候只感染细菌种群中的几种特定菌株[43]。例如，Wong 等[79]报道分离自鸡粪的 ST 溶菌性噬菌体φST1可有效降低 ST 在鸡盲肠和内脏器官中的数量，利于沙门氏菌的生物防治。此外，Adhikari 等[80]报道饲粮添加噬菌体（ $0 . 2 \%$ ）可显著降低 SE 感染蛋鸡盲肠、肝脏和脾脏中沙门氏菌数量和沙门氏菌阳性率。Bardina 等[81]报道3种噬菌体混合物（UAB_Phi20、AB_Phi78 和UAB_Phi87）可显著降低 ST 感染蛋鸡盲肠中沙门氏菌数量。但噬菌体的应用还受到较大的限制。如在口服噬菌体时，噬菌体的耐酸性非常关键，要求噬菌体能通过胃和小肠，并保持足够高的浓度，保证在病原体定植位点有足够的活性感染和裂解病原菌；另外，为了避免对肠道共生菌群产生不良影响，我们需要噬菌体具备窄谱抗菌性，需要筛选出只针对特定或某些病原菌的噬菌体。因此，需要进一步研究来解决类似问题，实现噬菌体的广泛应用。
+
+# 2.1.6 IgY
+
+IgY 是蛋鸡经疫苗免疫后B淋巴细胞在疫苗的刺激下分泌的能与抗原特异性结合的免疫球蛋白，特异性免疫球蛋白进入血液循环后流经卵巢时可在卵细胞中蓄积，随着卵细胞逐渐发育特异性免疫球蛋白最终形成IgY。IgY可为新生雏鸡提供被动免疫保护，同时 IgY 可作为绿色药物，对禽类消化道疾病的预防和治疗有较理想的效果。杨海明等[82]报道，雏鸡饲粮中添加 $0 . 1 \% \mathrm { g Y }$ ，雏鸡日增重有升高趋势；雏鸡免疫器官重量、血清中免疫分子含量以及肠道食糜中 sIgA的含量显著升高，这对沙门氏菌感染起到很好的抵抗效果。此外，Li等[83]报道小鼠口服 ST特异性 $\mathrm { I g Y }$ 可缓解 ST 感染引起的肠道黏膜炎症反应，显著减轻 ST 对肠道的损伤，也表明了 $\mathrm { I g Y }$ 对沙门氏菌的抑制作用。但IgY 制作过程中特异性菌株的选择以及IgY的稳定性保护和污染防治等问题限制了其作为功能性饲料添加剂的大规模应用。解决这些问题才能保证IgY的大规模应用并产生良好的经济效益。
+
+# 2.1.7 其他
+
+此外，还有一些饲料添加剂如抗菌多肽和矿物质等对沙门氏菌感染也具有防治作用。Kogut 等[84]报道口服 $1 2 { \sim } 4 8 \ \mathrm { m g / k g }$ 的 BT阳离子抗菌肽（革兰氏阳性细胞产生）可刺激并增强雏鸡早期先天性免疫能力，增强雏鸡对 SE 等病原菌侵袭的抵抗力。在另一个试验中，Kogut 等[85]发现BT 阳离子抗菌肽可显著提高 SE 感染鸡盲肠 TLR4、TLR15、LR21以及促炎细胞因子（IL-1、IL-6、IL-18和 IFN）和趋化因子（CxCLi2）的表达量，增强雏鸡免疫力，抵抗 SE 感染。另外饲粮中添加含锌的斜发沸石可抑制鸡肠道内 SP的定植，其抗菌功效可能与吸附细菌和毒素功能相关[86]。这些饲料添加剂在抗家禽沙门氏菌方面的研究较少主要原因其抗菌效果变异大，抗菌机制不清晰或经济效益低。
+
+# 2.2 饲料处理
+
+# 2.2.1 热处理
+
+污染的饲料是畜禽行业引入沙门氏菌和大肠杆菌等病原菌的最大来源之一，饲料中的水分含量是沙门氏菌生存的关键。因此，饲料干热处理降低饲料水分含量能有效减少沙门氏菌污染。Jones 等[87]报道饲料在 $8 0 { \sim } 8 5 ~ ^ { \circ } \mathrm { C }$ 下干热处理 $1 ~ \mathrm { m i n }$ ，能杀死饲料中绝大多数沙门氏菌。但近几年有关饲料干热处理的研究很少、几乎没有，并且干热处理不能完全杀灭饲料中污染的病原菌，温度过高甚至会破坏饲料中一些不耐热的营养成分如维生素、脂肪酸等，并且饲料在运输过程中容易发生二次污染，因此饲料热处理的效果较为局限。
+
+# 2.2.2 微生物发酵
+
+饲料微生物发酵是现在研究的一个热点问题，饲料的微生物发酵不仅结合了益生菌添加和饲料酸化剂的优点；另外，饲料在微生物发酵过程中一些难以被宿主消化利用的营养素被微生物分解为可吸收的小分子，提高了饲料消化率。例如，Park 等[88报道 SG攻毒肉鸡饲粮中添加 $0 . 2 \%$ 副干酪乳杆菌发酵姜茎，肉鸡采食量、体重显著升高，此外，肉鸡死亡率、血清IgA、IgG含量和盲肠沙门氏菌定植量均显著下降。Ashayerizadeh 等[89]报道应用嗜酸乳杆菌、枯草芽孢杆菌和黑曲霉真菌发酵油菜粕饲喂肉鸡，可显著提高肠道乳酸菌数量，降低肉鸡回肠和盲肠中 ST数量，减少内脏器官 ST入侵，增加肉鸡体重，提高饲料转化率。证明微生物发酵饲料在控制沙门氏菌感染方面发挥积极作用。
+
+# 2.3 饮水处理
+
+家禽生产系统中水的微生物质量被认为是生产系统中重要的一环，是造成病原菌传播的主要危险因素之一。研究发现应用氯制剂、二氧化氯、有机酸、过氧乙酸或过氧化氢处理可降低水中沙门氏菌、大肠杆菌数量和生物膜形成[90-91]，其有效成分被动物食入后，也可在体内发挥一定的抑菌效果。Bourassa 等[92]研究发现，在 ST 感染肉鸡饮水中添加 $1 \ \mathrm { m L / L }$ 甲酸，饲粮中添加 $2 ~ \mathrm { g / k g }$ 丙酸，结果显示添加组肉鸡盲肠中 ST数量与对照组相比下降了 $2 5 \%$ 。病原菌形成的生物膜能增强病原菌对抗生素和宿主免疫反应的抵抗力，使其感染毒力增强，此外，病原菌也可在家禽的饮水管道中形成生物膜，难以清除，并严重威胁家禽健康。有研究报道，在饮水中添加商业有机酸产品，能抑制 ST生物膜的形成[93]；另外，在乳酸存在的情况下也能抑制 ST 生物膜的形成[94]。
+
+# 2.4带菌动物处理
+
+养殖场和饲料加工厂中的带菌动物如老鼠、麻雀等对家禽或饲料的污染是造成沙门氏菌流行的重要原因之一，应定期对鸡舍或饲料仓进行消毒灭鼠工作，建立完善的带菌动物防治管理措施对预防沙门氏菌的引入和流行十分必要。
+
+# 3小结
+
+综上所述，尽管大量研究表明多种干预措施可用于鸡沙门氏菌病的预防和控制，但这些干预措施的实际应用效果变异性较大，或表现清除鸡体内沙门氏菌效果不如敏感抗生素，或清除沙门氏菌率低、不彻底等；另外也发现单一的处理措施不如多种措施结合应用的实际效
+
+果，甚至某些措施也可能造成沙门氏菌对其产生抗性。因此，对于鸡沙门氏菌病的防控需要形成一种联合多种生物控制手段并结合生物安全、改善饲养管理等的综合防治措施，才能用于指导家禽安全生产。
+
+# 参考文献：
+
+[1] GRIMONT P A D,WEILL F X.Antigenic formulae of the Salmonella serovars[R].Paris:Institut Pasteur,WHO Collaborating Centre for Reference and Research on Salmonella,2007.
+
+[2] JACKSON B R,GRIFFIN M P,DANA C,et al.Outbreak-associated Salmonella enterica serotypes and food commodities,United States,1998-2008[J].Emerging Infectious Diseases,2013,19(8):1239-1244.
+
+[3] KELLER L H,BENSON C E,KROTEC K,et al.Salmonella enteritidis colonization of the reproductive tract and forming and freshly laid eggs of chickens[J].Infection & Immunity,1995,63(7):2443-2449.
+
+[4] MIYAMOTO T,HORIE T,FUKATA T,et al.Changes in microflora of the cloaca and oviduct of hensafterintracloacalor intravaginalinoculationwith Salmonellaenteritidis[J].Avian Diseases,1998,42(3):536-544.
+
+[5] MIYAMOTO T,BABA E,TANAKA T,et al.Salmonell enteritidis contamination of eggs from hens inoculated by vaginal,cloacal,and intravenous routes[J].Avian Diseases,1997,41(2):296-303.
+
+[6]SHIVAPRASAD H L.Fowl typhoid and pullorum disease[J].Revue Scientifiqueet Technique,2000,19(2):405-424.
+
+[7] WIGLEY P,HULME S D,POWERS C,et al.Infection of the reproductive tract and eggs with Salmonella enterica serovar pullorum in the chicken is associated with suppression of celular immunity at sexual maturity[J].Infection and Immunity,2005,73(5):2986-2990.
+
+[8] VAN IMMERSEEL F,DE BUCK J,PASMANS F,et al.Intermitent long-term shedding and induction of carrier birds after infection of chickens early posthatch with a low or high dose of Salmonella enteritidis[J].Poultry Science,2004,83(11):1911-1916.
+
+[9] NAKAMURA A,OTA Y,MIZUKAMI A,et al.Evaluation of aviguard,a commercial competitive exclusion product for efficacy and after-effect on the antibody response of chicksto Salmonella[J].Poultry Science,2002,81(11):1653-1660.
+
+[10] WALES A D,DAVIES R H.A critical review of Salmonella typhimurium infection in laying
+
+hens[J].Avian Pathology,2011,40(5):429-436.
+
+[11] WIGLEY P.Immunity to bacterial infection in the chicken[J].Developmental & Comparative Immunol0gy,2013,41(3):413-417.   
+[12] RYCHLIK I,ELSHEIMER-MATULOVA M,KYROVA K.Gene expression in the chicken caecum in response to infections with non-typhoid Salmonella[J].Veterinary Research,2014,45(1):119. [13] AYRES J S,VANCE R E.Cellular teamwork in antibacterial innate immunity[J].Nature Immunology,2012,13(13):115-117.   
+[14] SEO K H,HOLT P S,GAST R K,et al.Combined efect of antibiotic and competitive exclusion treatment on Salmonella enteritidis fecal shedding in molted laying hens[J].Journal of Food Protection,2000,63(4):545-548.   
+[15]DONOGHUEDJ.Antibioticresiduesinpoultrytissuesandeggs:humanhealth concerns?[J].Poultry Science,2003,82(4):618-621.   
+[16] HALL R M.Salmonella genomic islands and antibiotic resistance in Salmonella enterica[J].Future Microbiology,2010,5(10):1525-1538.   
+[17] VANDEPLAS S,DUBOIS D R,BECKERS Y,et al.Salmonell in chicken:current and developing strategies to reduce contamination at farm level[J].Journal of Food Protection,2010,73(4):774-785. [18] TANNER S A,CHRISTOPHE C,EUGENIA R,et al.Bifidobacterium thermophilum RBL67 impacts on growth and virulence gene expression of Salmonella enterica subsp. enterica serovar Typhimurium[J].BMC Microbiology,2016,16:46.   
+[19] FILHO R A C P,DiAZ S J A,FERNANDO F S,et al.Immunomodulatory activity and control of Salmonella enteritidis colonization in the intestinal tract of chickens by Lactobacillus based probiotic[J].Veterinary Immunology and Immunopathology,2015,167(1/2):64-69.   
+[20] THIRABUNYANON M,THONGWITTAYA N.Protection activity of a novel probiotic strain of BacillussubtilisagainstSalmonellaenteritidisinfection[J].ResearchinVeterinary Science,2012,93(1):74-81.   
+[21] PATTERSON J A,BURKHOLDER K M.Application of prebiotics and probiotics in poultry production[J].Poultry Science,2003,82(4):627-631.   
+[22] CASTILLO N A,PERDIGON G,DE MORENO DE LEBLANC A.Oral administration of a probiotic Lactobacillus modulates cytokine production and TLR expression improving the immune responseagainstSalmonellaentericaserovarTyphimuriuminfectionin mice[J].BMC 12
+
+Microbiology,2011,11:177.
+
+[23] WITHANAGE G S K,KAISER P,WIGLEY P,et al.Rapid expression of chemokines and proinflammatory cytokines in newly hatched chickens infected with Salmonella enterica serovar Typhimurium[J].Infection and Immunity,2004,72(4):2152-2159.
+
+[24] WITHANAGE G S K,WIGLEY P,KAISER P,et al.Cytokine and chemokine responses associated with clearance of a primary Salmonella enterica serovar Typhimurium infection in the chicken and in protective immunity to rechallenge[J].Infection and Immunity,2005,73(8):5173-5182.
+
+[25] FULLER A R.Probiotics in man and animals[J].Journal of Applied Bacteriol0gy,1989,66(5):365-378.
+
+[26] STEER T,CARPENTER H,TUOHY K,et al.Perspectives on the role of the human gut microbiota and its modulation by pro- and prebiotics[J].Nutrition Research Reviews,20o0,13(2):229-254.
+
+[27] WOLFENDEN A D,PIXLEY C M,HIGGINS J P,et al.Evaluation of spray application of a Lactobacillus-based probiotic on Salmonella enteritidis colonization in broiler chickens[J].International Journal of Poultry Science,2007,6(7):493-496.
+
+[28] WOLFENDEN A D,VICENTE JL,HIGGINS J P,et al.Effect of organic acids and probiotics on Salmonella enteritidis infection in broilerchickens[J].InternationalJournal ofPoultry Science,2007,6(6):403-405.
+
+[29] VAN COILLIE E,GORIS J,CLEENWERCK I,et al.Identification of lactobacilli isolated from the cloaca and vagina of laying hens and characterization for potential use as probiotics to control Salmonella enteritidis[J].Journal of Applied Microbiology,2007,102(4):1095-1106.
+
+[30] YAMAZAKI M,OHTSU H,YAKABE Y,et al.In vitro screening of lactobacili isolated from chicken excreta to control Salmonella enteritidis andTyphimurium[J].BritishPoultry Science,2012,53(2):183-189.
+
+[31] SORNPLANG P,LEELAVATCHARAMAS V,SOIKUM C.Heterophil phagocytic activity stimulated by Lactobacillus salivarius L61 and L55 supplementation in broilers with Salmonella infection[J].Asian-Australasian Journal of Animal Sciences,2015,28(11):1657-1661.
+
+[32] ANDREATTI F R L,OKAMOTO A S,LIMA E T,et al.Efeito da microbiota cecal e do Lactobacillus salivarius inoculados in ovo em aves desafiadas com Salmonella enterica sorovar Enteritidis[J].Arquivo Brasileiro De Medicina Veterinaria E Zootecnia,2006,58(4):467-471.
+
+[33] ZHANG D X,RUI L,LI J C.Lactobacillus reuteri ATCC 55730 and L22 display probiotic potential in vitro and protect against Salmonella-induced pullorum disease in a chick model of infection[J].Research in Veterinary Science,2012,93(1):366-373.
+
+[34] LA RAGIONE R M L,NARBAD A,GASSON M J,et al.In vivo characterization of Lactobacillus johnsonii FI9785 for use as a defined competitive exclusion agent against bacterial pathogens in poultry[J].Letters in Applied Microbiology,2004,38(3):197-205.
+
+[35] KARAFFOVA V,BOBIKOVA K,HUSAKOVA E,et al.Interaction of TGF- ${ \cdot \beta } 4$ and IL-17 with IgA secretion in the intestine of chickens fed with $E$ ：faecium AL41 and challenged with S. enteritidis[J].Research in Veterinary Science,2015,10o:75-79.
+
+[36] LEVKUT M,REVAJOVA V,LAUKOVA A,et al.Leukocytic responses and intestinal mucin dynamics of broilers protected with Enterococcus faecium EF55 and challnged with Salmonella enteritidis[J].Research in Veterinary Science,2012,93(1):195-201.
+
+[37] LA RAGIONE R M,WOODWARD M J.Competitive exclusion by Bacillus subtilis spores of Salmonella enterica serotype Enteritidis and Clostridium perfringens in young chickens[J].Veterinary Microbiol0gy,2003,94(3):245-256.
+
+[38] VILA B,FONTGIBELL A,BADIOLA I,et al.Reduction of Salmonella enterica var. Enteritidis colonization and invasion by Bacilus cereus var. Toyoi inclusion in poultry feeds[J].Poultry Science,2009,88(5):975-979.
+
+[39] CARTER A,ADAMS M,LA RAGIONE R M,et al.Colonisation of poultry by Salmonella enteritidis S140o is reduced by combined administration of Lactobacillus salivarius 59 and Enterococcus faecium PXN-33[J].Veterinary Microbiology,2017,199:100-107.
+
+[40] KERR A K,FARRAR A M,WADDELL L A,et al.A systematic review-meta-analysis and meta-regression on the effect of selected competitive exclusion products on Salmonella spp. prevalence and concentration in broiler chickens[J].Preventive Veterinary Medicine,2013,111(1/2):112-125.
+
+[41] ROBERFROID M.Prebiotics:the concept revisited[J].The Journal of Nutrition,2007,137(2):830S-837S.
+
+[42] VAN IMMERSEEL F,DE ZUTTER L,HOUF K,et al.Strategies to control Salmonella in the broiler production chain[J].Worlds Poultry Science Journal,2009,65(3):367-392.
+
+[43] DOYLE M P,ERICKSON M C.Opportunities for mitigating pathogen contamination during on-farm food production[J].International Journal of Food Microbiology,2012,152(3):54-74.
+
+[44] BAURHOO B,FERKET P R,ZHAO X.Effects of diets containing different concentrations of mannanoligosaccharide or antibiotics on growth performance,intestinal development,cecal and liter microbial populations,and carcass parameters of broilers[J].Poultry Science,2009,88(11):2262-2272.
+
+[45] POURABEDIN M,CHEN Q L,YANG M M,et al.Mannan- and Xylo-oligosaccharides modulate caecal microbiota and expresion of inflammatory-related cytokines and reduce caecal Salmonella enteritidis colonisation in young chickens[J].FEMS Microbiology Ecology,2016,93(1):fiw226.
+
+[46]SHANG Y,REGASSA A,KIM J H,et al.The effect of dietary fructooligosaccharide supplementation on growth performance,intestinal morphology,and immune responses in broiler chickens challenged with Salmonella enteritidis lipopolysaccharides[J].Poultry Science,2015,94(12):2887-2897.
+
+[47] HUGHES R A,ALI R A,MENDOZA M A,et al.Impact of dietary galacto-oligosaccharide (GOS) on chicken's gut microbiota,mucosal gene expression,and Salmonella colonization[J].Frontiers in Veterinary Science,2017,4:192.
+
+[48] TOTTON S C,FARRAR A M,WILKINS W,et al.The effectiveness of selected feed and water additives for reducing Salmonella spp. of public health importance in broiler chickens:a systematic review,Meta-analysis,and Meta-regression approach[J].Preventive Veterinary Medicine,2012,106(3/4):197-213.
+
+[49] REVOLLEDO L,FERREIRA C S A,FERREIRA A J P.Prevention of Salmonella typhimurium colonizationandorganinvasion by combination treatment inbroilerchicks[J].Poultry Science,2009,88(4):734-743.
+
+[50]VANDEPLASS,DAUPHINR D,THIRY C,etal.Efficiencyofa Lactobacilus plantarum-xylanase combination on growth performances,microflora populations,and nutrient digestibilities of broilers infected with Salmonella typhimurium[J].Poultry Science,2009,88(8):1643-1654.
+
+[51] AWAD W A,GHAREEB K,ABDEL-RAHEEM S,et al.Effects of dietary inclusion of probiotic andsynbiotic on growth performance,organ weights,and intestinal histomorphology of broiler chickens[J].Poultry Science,2009,88(1):49-56.
+
+[52] BRUFAU M T,MARTIN-VENEGASR,GUERRERO-ZAMORA A M,et al.Dietary $\beta$ -galactomannans have beneficial effects on the intestinal morphology of chickens challnged with Salmonella enterica serovar Enteritidis[J].Journal of Animal Science,2015,93(1):238-246.
+
+[53] FEYE K M,ANDERSON K L,SCOTT M F,et al.Inhibition of the virulence,antibiotic resistance,and fecal shedding of multiple antibiotic-resistant Salmonella typhimurium in broilers fed original XPCTM[J].Poultry Science,2016,95(12):2902-2910.
+
+[54] SHAO Y J,WANG Z,TIAN X Y,et al.Yeast $\beta$ -D-glucans induced antimicrobial peptide expressions against Salmonella infection in broiler chickens[J].International Journal of Biological Macromolecules,2016,85:573-584.
+
+[55] CERISUELO A,MARiN C,SANCHEZ-VIZCAiNO F,et al.The impact of a specific blend of essential oil components and sodium butyrate in feed on growth performance and Salmonella counts in experimentally challenged broilers[J].Poultry Science,2014,93(3):599-606.
+
+[56] GANTOIS I,DUCATELLE R,PASMANS F,et al.Butyrate specifically down-regulates Salmonella pathogenicity island 1 gene expression[J].Applied and Environmental Microbiol0gy,2006,72(1):946-949.
+
+[57] MACHADO JUNIOR P C,BEIRAO B C B,FILHO T F,et al.Use of blends of organic acids and oregano extracts in feed and water of broiler chickens to control Salmonella enteritidis persistence in thecropand cecaofexperimentallyinfectedbirds1[J].JournalofAppliedPoultry Research,2014,24(3):671-682.
+
+[58] EVANS N P,COLLINS D A,PIERSON F W,et al.Investigation of medium chain fatty acid feed supplementation for reducing Salmonella typhimurium colonization in turkey poults[J].Foodborne Pathogens and Disease,2017,14(9):531-536.
+
+[59] VAN IMMERSEEL F V,DE BUCK J,BOYEN F,et al.Medium-chain fatty acids decrease colonization and invasion through hilA suppresson shortly after infection of chickens with Salmonella enterica serovar Enteritidis[J].Applied and Environmental Microbiology,2004,70(6):3582-3587.
+
+[60] KOLLANOOR-JOHNY A,MATTSON T,BASKARAN S A,et al.Caprylic acid reduces Salmonella enteritidis populations in various segments of digestive tract and internal organs of 3- and 6-week-old broiler chickens,therapeutically[J].Poultry Science,2012,91(7):1686-1694.
+
+[61] RAEISI M,TAJIK H,AMINZARE M,et al.The role of nisin,monolaurin,and EDTA in antibacterial effect of Rosmarinus officinalis L. and Cinnamomum zeylanicum blume essential oils on foodborne pathogens[J].Journal of Essential Oil Bearing Plants,2016,19(7):1709-1720.
+
+[62] HERES L,ENGEL B,URLINGS H A P,et al.Effect of acidified feed on susceptibility of broiler chickens to intestinal infection by Campylobacter and Salmonella[J].Veterinary Microbiology,2004,99(3/4):259-267.
+
+[63] FERNANDEZ-RUBIO C,ORDONEZ C,ABAD-GONZALEZ J,et al.Butyric acid-based feed additiveshelpprotectbroilerchickensfromSalmonellaenteritidisinfection[J].Poultry Science,2009,88(5):943-948.   
+[64] JUNG Y S,ANDERSON R C,EDRINGTON T S,et al.Experimental use of 2-nitropropanol for reduction of Salmonella typhimurium in the ceca of broiler chicks[J].Journal ofFood Protection,2004,67(9):1945-1947.   
+[65] ADHIKARI P,COSBY D E,COX N A,et al.Effect of dietary supplementation of nitrocompounds on Salmonella colonization and ileal immune gene expression in laying hens challenged with Salmonella enteritidis[J].Poultry Science,2017,96(12):4282-4286.   
+[66] KOYUNCU S,ANDERSSON M G,LOFSTROM C,et al.Organic acids for control of Salmonellain different feed materials[J].BMC Veterinary Research,2013,9:81.   
+[67] AXMANN S,KOLAR V,ADLER A,et al.Effciency of organic acid preparations for the elimination of naturally occurring Salmonella in feed material[J].Food Additives & Contaminants:Part A,2017,34(11):1915-1924.   
+[68] VARMUZOVA K,MATULOVA M E,GERZOVA L,et al.Curcuma and Scutellaria plant extracts protectchickensagainstinflammationandSalmonellaenteritidisinfection[J].Poultry Science,2015,94(9):2049-2058.   
+[69] TABARI M,GHAZVINIAN K,IRANI M,et al.Effects of dietary supplementation of nettle root extract and pumpkin seed oil onproduction traitsand intestinal microflora in broiler chickens[J].Bulgarian Journal of Veterinary Medicine,2016,19(2):108-116.   
+[70] DU E C,WANG W W,GAN L P,et al.Eects of thymol and carvacrol supplementation on intestinal integrity and immune responses of broiler chickens challenged with Clostridium perfringens[J].Journal of Animal Science and Biotechnology,2016,7:19.   
+[71] FARAHAT M H,ABDALLAH F M,ALI H A,et al.Effect of dietary supplementation of grape seed extract on the growth performance,lipid profile,antioxidant status and immune response of broiler chickens[J].Animal,2016,11(5):771-777.   
+[72] PENG Q Y,LI J D,LI Z,et al.Effects of dietary supplementation with oregano essential oil on growth performance,carcass traits and jejunal morphology in broiler chickens[J].Animal Feed Science and Technology,2016,214:148-153.   
+[73] RAJANI J,DASTAR B,SAMADI F,et al.Effect of extracted galactoglucomannan oligosaccharides
+
+from pine wood (Pinus brutia) on Salmonella typhimurium colonisation,growth performance and intestinal morphology in broiler chicks[J].British Poultry Science,2016,57(5):682-692.
+
+[74] UPADHYAYA I,UPADHYAY A,KOLLANOOR-JOHNY A,et al.In-feed supplementation of trans-cinnamaldehyde reduces layer-chicken egg-borne transmission of Salmonella enterica serovar Enteritidis[J].Applied and Environmental Microbiology,2015,81(9):2985-2994.
+
+[75] KOLLANOOR JOHNY A,MATTSON T,BASKARAN S A,et al.Reduction of Salmonella enterica serovar Enteritidis colonization in 2O-day-old broiler chickens by the plant-derived compounds trans-cinnamaldehyde and eugenol[J].Applied and Environmental Microbiology,2012,78(8):2981-2987.
+
+[76] KOLLANOOR A J,FRYE J G,DONOGHUE A,et al.Gene expression response of Salmonella enterica serotype Enteritidis phage type 8 to subinhibitory concentrations of the plant-derived compounds Trans-cinnamaldehyde and eugenol[J].Frontiers in Microbiology,2017,8:1828.
+
+[77] AMERAH A M,MATHIS G,HOFACRE C L.Effect of xylanase and a blend of essential oils on performance and Salmonella colonization of broiler chickens challenged with Salmonella heidelberg[J].Poultry Science,2012,91(4):943-947.
+
+[78] JOHNSON R P,GYLES C L,HUFF W E,et al.Bacteriophages for prophylaxis and therapy in cattle,poultry and pigs[J].Animal Health Research Reviews,2008,9(2):201-215.
+
+[79] WONG C L,SIEO C C,TAN W S,et al.Evaluation of a lytic bacteriophage,Φ st1,for biocontrol of Salmonellaenterica serovar Typhimurium inchickens[J].InternationalJournalofFood Microbiology,2014,172:92-101.
+
+[80] ADHIKARI P A,COSBY D E,COX N A,et al.Effect of dietary bacteriophage supplementation on internal organs,fecal excretion,and ileal immune response in laying hens challenged by Salmonella enteritidis[J].Poultry Science,2017,96(9):3264-3271.
+
+[81] BARDINA C,SPRICIGO D A,CORTES P,et al.Significance of the bacteriophage treatment schedulein reducingSalmonellacolonization ofpoultry[J].AppliedandEnvironmental Microbiology,2012,78(18):6600-6607.
+
+[82]杨海明，巨晓军，王志跃，等.卵黄免疫球蛋白对雏鸡生长性能和免疫机能的影响[J].动物营养学报,2016,28(11):3429-3436.
+
+[83] LI X Y,YAO Y,WANG X T,et al.Chicken egg yolk antibodies $( \mathrm { I g Y } )$ modulate the intestinal mucosal immune response in a mouse model of Salmonella typhimurium infection[J].International
+
+Immunopharmacology,2016,36:305-314.
+
+[84] KOGUT M H,GENOVESE K J,HE H,et al.The effects of the BT/TAMUS 2032 cationic peptides on innate immunity and susceptibility of young chickens to extraintestinal Salmonella enterica serovar Enteritidis infection[J].International Immunopharmacology,2007,7(7):912-919.
+
+[85] KOGUT M H,GENOVESE K J,HE H Q,et al.Modulation of chicken intestinal immune gene expression by small cationic peptides as feed additives during the first week posthatch[J].Clinical and Vaccine Immunology,2013,20(9):1440-1448.
+
+[86] WANG L C,ZHANG T T,WEN C,et al.Protective efects of zinc-bearing clinoptilolite on broilers challenged with Salmonella pullorum[J].Poultry Science,2012,91(8):1838-1845.
+
+[87] JONES F T,RICHARDSON K E.Salmonella in commercially manufactured feds[J].Poultry Science,2004,83(3):384-391.
+
+[88] PARK K T,OH M,SIM I,et al.Effects of Lactobacillus-fermented ginger stem on Salmonella-infected broiler chicks[J].Biotechnology and Bioprocess Engineering,2016,21(2):331-336. [89] ASHAYERIZADEH A,DASTAR B,SHARGH M S,et al.Fermented rapeseed meal is effective in controlling Salmonella enterica serovar Typhimurium infection and improving growth performance in broiler chicks[J].Veterinary Microbiology,2017,201:93-102.
+
+[90] SPARKS N H C.The role of the water supply system in the infection and control of Campylobacter in chicken[J].Worlds Poultry Science Journal,2009,65(3):459-474.
+
+[91] ANDERSON R C,HUME M E,GENOVESE K J,et al.Effect of drinking-water administration of experimental chlorate ion preparations on Salmonella enterica serovar Typhimurium colonization in weaned and finished pigs[J].Veterinary Research Communications,2004,28(3):179-189.
+
+[92] BOURASSA D V,WILSON K M,RITZ C R,et al.Evaluation of the addition of organic acids in the feed and/or water for broilers and the subsequent recovery of Salmonella typhimurium from littr and ceca[J].Poultry Science,2017,97(1):64-73.
+
+[93] PANDE V,MCWHORTER A R,CHOUSALKAR K K.Anti-bacterial and anti-biofilm activity of commercial organic acid products against Salmonella enterica isolates recovered from an egg farm environment[J].Avian Pathology,2017,47(2):186-196.
+
+[94] O'LEARY D,MCCABE E M,MCCUSKER M P,et al.Acid environments affect biofilm formation and gene expression in isolates of Salmonella enterica Typhimurium DT104[J].International Journal of Food Microbiology,2015,206:7-16.
+
+Progress on Biological Prevention and Control Strategies in Avian Salmonellosis
+
+KAN Liugang1ZHAO Lijie² LI Xiuye²ZENG Dan²WANG Zhong1\* (1. College of Animal Science and Technology, China Agricultural University, Beijing 100089, China; 2. Hebei Huayu Fowl Breeding Co.,Ltd., Handan O56000, China)
+
+Abstract: Avian Salmonellosis is a serious threat to the world poultry industry， leading to tremendous economic losses. Strengthening biosafety prevention and control, disease purific ation， Salmonella vaccine immunization, antibiotic prevention and treatment act as importan t roles in the prevention and control of chicken Salmonellosis. However， with the advent of Salmonella-resistant strains and the prominent antibiotic residues in poultry products，no vel strategies on substitute of antibiotics are required to prevent and control Salmonellosis. This review first summarized the epidemic Salmonella strains and their epidemiological c haracteristics and the mechanism of immune clearance of Salmonella in chicken,and then highlighted the research progress in recent years on functional feed additives, feedstuff and drinking water treatment in prevention and control Salmonella infections in chicken.
+
+Key words: Salmonellosis； chicken; biological control and prevention; feed additives

@@ -1,0 +1,299 @@
+[
+    {
+        "type": "text",
+        "text": "Microwave Assisted Sintering and Photoluminescence Properties of $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : } \\mathrm { E u } ^ { 2 + }$ Green Phosphors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAN Bin12, WANG Yi-Fei1,LIU Qian³, HUANG Qing (1.StructuralandFunctional IntegratioofCeramicsGroup,theDivisioofFunctionalMaterialsandNanodevices,Ningbostiute ofMaterialscholgdEgeingeseadeofienes,ingb2,ina;2itteofateralsi UniversityShanghai2o72,China;3.StateKeyLaboratoryofHghPerformanceCeramicsandSuperfineMicrostructure,Shanghai Institute of Ceramics, Chinese Academy of Sciences,Shanghai 20oo50, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ${ \\mathrm { E u } } ^ { 2 + }$ -doped $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ green phosphors were prepared by microwave assisted sintering method at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { h } }$ ,while the counterparts using conventional solid-state reaction method were synthesized at temperature higher than $1 3 0 0 ^ { \\circ } \\mathrm { C }$ and for to $1 0 \\mathrm { ~ h ~ }$ . Microwave assisted sintering could reduce the activation energy and enhance the diffusion rate, thus greatly improved the sintering.Moreover, the influence of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content on phase formation,morphology,absorption,and quantum eficiency,and photoluminescence properties of phosphors were studied.As aresult, the $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ ${ \\mathrm { E u } } ^ { 2 + }$ samples sintered by microwave assisted sintering method have a higher phase purity and photoluminescence intensity under ultraviolet excitation as compared with samples sintered inthe conventional tube furnace. The proposed method is a potential preparation method for the oxynitride phosphors with strong photoluminescence and high phase purity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ ${ \\mathrm { E u } } ^ { 2 + }$ phosphors; oxynitride; microwave assisted sintering; photoluminescence ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The phosphor-converted light-emitting diodes (pc-LEDs), emerging as an indispensable solid-state light source for illumination, have attracted increasing attention due to its high efficiency,energy savings,environment-friendliness, small volume and long lifetime,compared with the conventional incandescent and fluorescent lamps[1-2].Phosphors as a wavelength converter have been considered as pivotal and technologically important componentsin white LEDs[2]. A new hot topic of nitride and oxynitride phosphors has recently attracted much attention[3-9]. Many rare-earth activated nitride and oxynitride phosphors such as Ca- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -SiAlON: $\\mathrm { C e } ^ { 3 + [ 6 ] } ;$ ： $\\beta$ SiAlON: $\\mathrm { E u } ^ { 2 + [ 7 ] } ,$ CaAl$\\mathrm { S i N } _ { 3 } { : } \\mathrm { E u } ^ { 2 + [ 9 ] }$ # $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : E u } ^ { 2 + [ 1 0 - 1 3 ] }$ have been designed and studied.Among the oxynitride phosphors,the M-Si-O-N $\\scriptstyle \\mathrm { { M = C a } }$ ，Sr,Ba） system has attraction as a new phosphor system due to its easy fabrication,good thermal stability, andhighluminescenceefficiency.However,the $\\mathrm { M S i _ { 2 } O _ { 2 } N _ { 2 } } { : } \\mathrm { E u } ^ { 2 + }$ phosphor in the system is not an efficient phosphor with high color purity.It has to be emphasized that $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } \\mathrm { E u } ^ { 2 + }$ phosphor has a similar crystal structure and chemical formula to a N-rich $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 9 } \\mathrm { N } _ { 4 } \\mathrm { : E u } ^ { 2 + }$ , but the optical properties are quite different between them.In addition,the $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ ：： ${ \\mathrm { E u } } ^ { 2 + }$ phosphor also shows a high efficiency and a good thermal stability compared with other green phosphors such as (Ba, Sr)2SiO4:Eu2+[13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Up to now, several methods have been used to synthesize the high efficiency $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : E u } ^ { 2 + }$ phosphors,for instance, gas reduction nitridation method[1], solid state reactionmethod[12]，and $\\mathrm { B a } _ { 3 } \\mathrm { S i O } _ { 5 } { : } \\mathrm { E u } ^ { 2 + }$ precursor method[13]. However, a pure phase of $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ is hardly obtained, due to the low chemical reactivity of starting powders $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 } ^ { [ 6 ] }$ ． And more,these fabrication methods mentioned above are not energy-saving,with disadvantages oflong heating time as well as long duration time which can influence the particles morphology and optical features of the product. To overcome the sintering difficulty for $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } \\mathrm { E u } ^ { 2 + }$ systems, this study employed microwave sintering (MWS） method by increasing the chemical reactivity and enhancing the diffusion of ions.The microwave sintering method is developed as a new tool in powder manufacture industries. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "During the heating process,the electromagnetic wave can penetrate into materials and heat them owing to the interaction between polarized molecular (or ions） and electromagnetic field, finally resulting in volumetric heating. The volumetric heating ability of microwaves allows for a more rapid and uniform heating,then decreases processing time,and finally enhances material properties[14-16]. For the $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ systems, microwave heating has been observed to accelerate or enhance diffusion processes,such as sintering and grain growth[17]. In this study, $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : E u } ^ { 2 + }$ green phosphors were synthesized by the microwave sintering method, as well as solid state reaction(SSR）method for comparison,and their photoluminescence(PL） properties， absorptionand quantum efficiency of the phosphors were investigated. The influence of the contents of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ in raw materials and duration time of microwave sintering on the PL properties and phase purity were also discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Preparations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Green phosphors $( \\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } ; 0 . 2 \\mathrm { E u } ^ { 2 + } )$ were synthesized at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { ~ h ~ } }$ using starting powders of ${ \\mathrm { B a C O } } _ { 3 }$ (Aladdin, AR), $\\mathrm { S i O } _ { 2 }$ (Aladdin, $9 9 . 9 9 \\%$ ), $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 } ( \\mathrm { U B E }$ ，SNE10),and $\\mathrm { E u } _ { 2 } \\mathrm { O } _ { 3 }$ (Sinopharm Chemical Reagent Co., Ltd, 4N).The weighted raw powders were mixed in a mortar by hand and packed into the BN crucibles.For the microwave sintering technique, firstly,we put the filled BN crucible into an attemperator with heating assistant materials, then put the attemperator into microwave reaction furnace, and finally sintered the powder samples under a reducing atmosphere $( 1 5 \\% \\mathrm { H } _ { 2 } / \\mathrm { N } _ { 2 } )$ .For comparison,the same samples were prepared by the solid state reaction method, in which the samples were loaded into a conventional alumina tubular furnace and sintered at $1 3 0 0 ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { ~ h ~ }$ at the same reducing atmosphere in a flowing gas mixture $( 1 5 \\% \\mathrm { H } _ { 2 } / \\mathrm { N } _ { 2 } )$ .Furthermore, to investigate the influence of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content on the final phase formation in MWS process, the $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content of raw materials was varied with a wide range from O.6 to 1.0.In order to keep the amount of Si constant in the formular of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } ; 0 . 2 \\mathrm { E u } ^ { 2 + }$ ，the $\\mathrm { S i O } _ { 2 }$ content was decreased accordingly. In addition, the effect of soaking time (2,4, and $6 \\mathrm { ~ h ~ }$ respectively) on final phase formation was evaluated for the MWS.Post-treatments of the phosphor were also conducted with the aim to improve the PL properties. The treatments include powder smashing and acid washing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The crystalline phase of the samples was analyzed by an X-ray powder diffraction (XRD， Advance D8, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bruker,Karlsruhe,German） using the Cu Kα, $\\lambda =$ $0 . 1 5 4 1 8 \\ \\mathrm { n m }$ ，operating at $4 0 ~ \\mathrm { k V }$ and $4 0 ~ \\mathrm { m A }$ in the $2 \\theta$ range of $1 0 ^ { \\circ } - 6 0 ^ { \\circ }$ with a step size of $0 . 0 2 ^ { \\circ }$ and 0.2 s per step. The PL spectra were measured at room temperature using a fluorescent spectrophotometer (F-4600, Hitachi Ltd., Tokyo, Japan) with a 15oW Xe lamp as an excitation source at room temperature.The absorption and quantum efficiency of the prepared phosphor were measured using a QE-2100 (Otsuka Electronics Co., Ltd.,Japan) and the reflection spectrum of $\\mathrm { B a S O _ { 4 } }$ white standards was used for calibration.The particle size was analyzed on a particle size analyzer (S35oo-special, Microtrac,USA). The morphology of the samples was observed by scanning electron microscopy (FE-SEM, S-4800,Hitachi, Japan). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Properties of $\\mathbf { B a } _ { 2 . 8 } \\mathbf { S i } _ { 6 } \\mathbf { O } _ { 1 2 } \\mathbf { N } _ { 2 } \\mathbf { : } \\mathbf { E u } ^ { 2 + }$ synthesizedbyMWSandSSR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 presents the XRD patterns of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ $0 . 2 \\mathrm { E u } ^ { 2 + }$ synthesized by $\\mathrm { M W S } ( 1 2 7 5 ^ { \\circ } \\mathrm { C } , 4 \\mathrm { h } )$ and SSR(1300 $\\mathrm { { ^ \\circ C } }$ ， $1 0 \\mathrm { ~ h ~ }$ )methods at the stoichiometric ratios of $4 . 5 \\mathrm { S i O } _ { 2 }$ ： $0 . 5 \\mathrm { S i _ { 3 } N _ { 4 } }$ in the starting materials, respectively. As seen from Fig.1, for the sample prepared by the microwave sintering method, most of the high intensity peaks match well with the reported data by Mikami, et al[18],and a few unreacted $\\mathrm { \\sf { a } { - } \\mathrm { { S i } _ { 3 } \\mathrm { \\tilde { \\Lambda } _ { 4 } , } } }$ orthosilicate phases ${ \\mathrm { B a S i } } _ { 2 } { \\mathrm { O } } _ { 5 }$ and $\\mathrm { B a } _ { 5 } \\mathrm { S i } _ { 8 } \\mathrm { O } _ { 2 1 }$ are still remained. While for the sample prepared by the conventional solid-state reaction method,many weak diffraction peaks of impurities are detected,which also can be identified as $\\mathrm { \\bf { q } } { \\mathrm { - } } \\mathrm { \\bf { S i } } _ { 3 } \\mathrm { \\bf { N } } _ { 4 }$ ，orthosilicate phases $\\mathrm { B a S i } _ { 2 } \\mathrm { O } _ { 5 }$ ， $\\mathrm { B a } _ { 4 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 0 }$ and $\\mathrm { B a } _ { 5 } \\mathrm { S i } _ { 8 } \\mathrm { O } _ { 2 1 }$ . In addition, the phosphor prepared by the MWS method has higher peak intensity in XRD patterns, indicating that high crystallinity is obtained. Through theseresults,itisclear that MWS method is a very effective synthesis method as it can reduce processing time to some extent. This may be due to the fact that strong microwave electric fields induce a nonlinear driving force (named as ponderomotive force) for (ionic) mass transport near surfaces and structural interfaces (e.g.,grain boundaries) in ceramic materials[19-21]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2c5a8910b04584e90a40c6f82dd10e50c3438b6d07572fe26016239535233ba.jpg",
+        "img_caption": [
+            "Fig. 1 XRD patterns of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } ; 0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphors synthesizedbySSRandMWSmethods "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The PL excitation spectra of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ ：： $0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphors synthesized by SSR and MWS show a typical broad absorption band from near-UV to blue region $( 3 0 0 - 5 0 0 ~ \\mathrm { n m } )$ ,consisting of two bands with maxima at 313 and $4 2 8 ~ \\mathrm { n m }$ , respectively. While the emission spectra exhibitasinglebroadbandcenteredat $5 2 7 \\mathrm { n m }$ under the excitation of $\\lambda _ { \\mathrm { e x } } { = } 4 2 8 ~ \\mathrm { n m }$ ，which is attributed to the typical $4 \\mathrm { f } ^ { 6 } 5 \\mathrm { d }  4 \\mathrm { f } ^ { 7 }$ transition of ${ \\mathrm { E u } } ^ { 2 + }$ ions.It has been noticed that the emission intensity of the phosphor prepared by the microwave sintering method is higher than that of the phosphor synthesized by the solid state reaction method,as illustrated inFig.2.This may be attributed to that the phosphor prepared by the microwave sintering method is endowed with a much pure phase formation of $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ having high crystallinity as mentioned above. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The morphologies of the samples prepared by MWS and SSR methods are presented in Fig.3(a) and 3(b) The particle size is about $3 { - } 8 ~ \\mu \\mathrm { m }$ for samples prepared by the MWS method, but larger particle size distribution is for SSR method.It can be observed that the particles in the sample prepared by MWS have a fine morphology and regular shape,whereas the appearance of the one prepared by SSR exhibits hard aggregation. The particle size of the phosphors synthesized by the MWS method is effectively modified with the particle size of ${ \\sim } 3 . 0 4 ~ \\mu \\mathrm { m }$ $( D _ { 5 0 } )$ ，whereas the SSR phosphor reaches the particle size of ${ \\sim } 5 . 0 5 \\ \\mu \\mathrm { m } \\ \\left( D _ { 5 0 } \\right)$ ，as shown in Fig. 3(c) and 3(d). These may be another reason for higher emission intensity of the sample synthesized by MWS,which was addressed in the photoluminescence and morphology of $\\mathrm { C a } _ { 3 } \\mathrm { L a } _ { 3 } ( \\mathrm { B O } _ { 3 } ) _ { 5 }$ ： ${ \\mathrm { E u } } ^ { 3 + }$ phosphors[22]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the absorption,internal and external quantum efficiency of the samples prepared by MWS and SSR methods.The external quantum efficiency of the MWS sample is higher than that of the SSR samples under 365,405,or $4 5 0 \\ \\mathrm { n m }$ excitation, respectively. The enhanced quantum efficiency may be due to that the crystallinityof the powders is enhanced by the different preparation method and conditions,resulting in the reduction of the defects in the host lattice and on the surface of the particles.As a result, the possibility of the non-radiation transition within and among the particles is reduced. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfbc54d822dfe8931cb31f04f49647852913cefb5d7d0f9a63664d5652517416.jpg",
+        "img_caption": [
+            "Fig.3Micro-morphologies of the samples prepared by (a)SSR and (b)MWS methods,and size distribution of the particles prepared by (c) SSR and (d) MWS methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e02129a37b35143e4ea36e0d18a9daa2c384db537b0b4bed2f624c166a6769b3.jpg",
+        "img_caption": [
+            "Fig.2Excitation and emission spectra of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ $0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphor prepared by SSR and MWS methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/afe0d642cf10c2dc5248990dd3a4b4d2bbe731dc2c7bd1e6c240a6cdff3d5ec1.jpg",
+        "img_caption": [
+            "Fig.4Absorption,internal and external quantum efficiencies of the samples prepared by MWS and SSR methods "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Properties of $\\mathbf { B a } _ { 2 . 8 } \\mathbf { S i } _ { 6 } \\mathbf { O } _ { 1 2 } \\mathbf { N } _ { 2 } \\mathbf { : } \\mathbf { E u } ^ { 2 + }$ synthesized by MWS with different ratio of $\\mathrm { \\bf S i _ { 3 } N _ { 4 } }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Originally for the $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ synthesis, the staring host materials were designed as a stoichiometric ratio of $2 . 8 \\mathrm { B a C O } _ { 3 } ; 4 . 5 \\mathrm { S i O } _ { 2 } ; 0 . 5 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ However, the stoichiometric mixture of these starting materials yielded much more impurity phase formation of orthosilicate in the final products (as shown in Fig.1),beyond the expected single $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ phase.The resulting oxide formation might be attributed to the deficiency of nitrogen $( \\Nu )$ ， partly because $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ commonly contains the oxygen impurity and partly because a gas mixture $( 1 5 \\% \\mathrm { H } _ { 2 } / \\mathrm { N } _ { 2 } )$ is used in the sintering process23]. To overcome this problem, the influence of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content in the starting materials was tested with an increased tendency from O.6 to 1.0,and in order to keep the amount of Si constant, we decreased the $\\mathrm { S i O } _ { 2 }$ content accordingly. Figure 5 presents the XRD patterns of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ synthesized with difference $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content. All the phosphors were synthesized at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { ~ h ~ } }$ by the MWS method, indicating that with increasing the content of $\\mathrm { \\Phi } _ { \\mathrm { { ( - S i _ { 3 } N _ { 4 } } } }$ ，orthosilicate phase gradually reduces and transforms into $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ when the content of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ is less than O.8.If the content of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ is above 0.8, the peaks indexed as $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ and more diverse orthosilicate phase are detected.According to the reference[10], we can suppose that the phase formation of the $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ ： $0 . 2 \\mathrm { E u } ^ { 2 + }$ samples can be composed of three sequential processes: Firstly, the low-melting point barium orthosilicates emerge when the temperature is above $1 0 0 0 ^ { \\circ } \\mathrm { C }$ · Secondly, silicon nitride starts to dissolve in the Ba-Si-O liquid phase when the temperature further rises to $1 2 0 0 -$ $1 3 0 0 ^ { \\circ } \\mathrm { C }$ ； Thirdly, the target phase precipitates from the nitrogen saturated liquid phase.As a result, the desired product forms with an excess of silicon nitride and the remained unreacted $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ accompanies the formation of barium orthosilicates.The inset in Fig.5 indicates XRD patterns of the sample with $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ for different soaking time of 2,4, and $6 \\mathrm { ~ h ~ }$ ,respectively.Itisclear thata highly pure $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ can be realized under MWS conditions at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $4 { \\ - } 6 \\mathrm { h }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e65b2c609ad8a8b8e2430372e2fa71d98ffecf9061521a94158ba14edf2de4e.jpg",
+        "img_caption": [
+            "Fig.5XRD patterns of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ ： $0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphors as a function of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content (a) $0 . 6 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ ，(b） $0 . 7 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ ，(c) $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ (d) $0 . 9 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ and (e) $1 . 0 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 } ,$ by MWS method at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 4 h }$ .The inset indicates XRD of the sample with $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ for different soaking time (2,4,and $6 \\mathrm { h }$ ,respectively) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the excitation and emission spectra of $\\mathrm { B a _ { 2 . 8 } S i _ { 6 } O _ { 1 2 } N _ { 2 } { : } 0 . 2 E u ^ { 2 + } }$ phosphors prepared by MWS method with difference $\\mathrm { S i _ { 3 } N _ { 4 } }$ contents.As seen in Fig.6,it shows a great similar shape of the spectra except for the PL intensity, which resulted from the same dominant phase $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 }$ $\\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ . Because the orthosilicate phases as impurities have no luminescence under blue light irradiation, they only have a negative influence on the PL intensity of the phosphors.The maximum PL intensity is found in the phosphor prepared with a composition of $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ ，which owns a highly pure phase and high crystallization degree. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0c9078abf1774a6206d09e4a3162f036e495118417f8152d0d3ccda443e3531.jpg",
+        "img_caption": [
+            "Fig.6Excitation and emission spectra of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ $0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphors as a function of $\\mathrm { S i _ { 3 } N _ { 4 } }$ contents,by MWS method at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $4 \\mathrm { h }$ .The inset indicating $\\mathrm { P L }$ intensity of the sample with $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ for different soaking time (2,4,and $6 \\mathrm { h }$ ,respectively) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown above, the phase purity plays an important role for enhancing the luminescence intensity of the $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphors.However, the emission properties are also strongly affected by the particle size and morphology. As seen in Fig.7,with increasing the $\\mathrm { S i _ { 3 } N _ { 4 } }$ （20 content, the particle coarsening occurs, thus the particle size increases first and then decreases.Moreover, the particle shape becomes irregular. For instance,the particle size of $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphor with $0 . 6 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ .is ${ \\sim } 5 ~ \\mu \\mathrm { m }$ with a narrow size distribution. While for the $\\mathrm { 1 . 0 S i _ { 3 } N _ { 4 } }$ composition, the phosphor exhibits a rough and irregular fracture morphology with an inhomogeneous size distribution. The Variation in the particle morphology and particle size distribution can be attributed to the different sintering ability of powders with different compositions.Although $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ is stable and not easy to melt during sintering, $\\mathrm { S i O } _ { 2 }$ can act as co-solvent at higher sintering temperatures. So the raw powders with compositions of lower $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content react with other components earlier and more quickly because of the presence of a large amount of the transient liquid phase[24], which would accelerate the material transferring via the solution-diffusion-precipitation process. So the influence of $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ contents on PL intensity may be attributed to following aspects: i) The stoichiometric ratio of $0 . 5 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ in the starting materials cannot lead to a pure phase formation of $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ (Fig. 1) because the $\\mathrm { S i O } _ { 2 }$ layer on the $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ surface is not considered or compensated during weighing out of the starting materials; ii) Grain sizedistribution of the phosphor with a high $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ content becomes wider (indicated in Fig. 7),then the uneven distribution of the powders leads the scattering enhancement and reduces the luminous efficiency of the phosphor; iii） Diffusion rate of raw materials is lower during the reaction and leads to an incomplete reaction, therefore,the degree of crystallinity is reduced. Besides, the experimental results show that the particles with a uniform shape and a smooth surface had a better PL intensity than that of the particles with an irregular shape and a rough surface[22]. So, combinating the previous formation process of the $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ ,the phosphor with a $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ starting content is expected to have a higher PL intensity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 7(c) and (f) presents the morphologies of the phosphor with a $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ starting content before and after post-treatment. We can see that the as-prepared sample (without treatment) shows a large agglomerate consisting of many small particles.While these post-treatments play a role in reducing surface defects,removing the tiny residues,and narrowing the particle size distribution,which has the particle size of ${ \\sim } 4 . 2 0 ~ \\mu \\mathrm { m } ~ ( D _ { 5 0 } )$ in Fig. 8(a),and thus enhance the absorption of the incident light and decrease the nonradiative transition probability. Figure 8(b) shows the absorption and quantum efficiency of the phosphor after post-treatment. The external quantum efficiency of the samples with $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ after the acid washing was high,under 365,405,and $4 5 0 ~ \\mathrm { n m }$ excitation,respectively. This is most likely due to the reason discussed above.As a results, the particle has a smooth surface (Fig.7(f)) and the PL intensity is improved after post-treatment (Fig. 8(c)). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/35beaddfc72415ee7e85e9fba2e354ed67184a0040456c1ee66319c2c9e255e5.jpg",
+        "img_caption": [
+            "Fig.7Morphologies of sampleswith different $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ contents (a) $0 . 6 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ (b) $0 . 7 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ (c） $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ (d) $0 . 9 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ (e) $\\mathrm { 1 . 0 S i _ { 3 } N _ { 4 } }$ by MWS method at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $^ \\textrm { \\scriptsize 4 h }$ ，(f)a SEM image of the post-treated sample with $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ by smashing and acid washing "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/daa2de6a8cd0c6545a0c7b090b6179a97bc79b61385f21db7307caee32aad822.jpg",
+        "img_caption": [
+            "Fig.8(a) Particle size distribution of the post-treated sample with $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ ，(b）absorption and quantum efficiency of the post-treated sample and (c） PL intensity of as-prepared and post-treated sample "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, ${ \\mathrm { E u } } ^ { 2 + }$ -doped $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ green phosphors were synthesized by both solid state reaction and microwave sintering methods. Comparatively， the microwave sintering method could significantly reduce the firing time for $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } \\mathrm { E u } ^ { 2 + }$ phosphors.The highest PL intensity was obtained in the $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphor prepared by microwave sintering method at $1 2 7 5 ^ { \\circ } \\mathrm { C }$ for $^ { 4 \\mathrm { ~ h ~ } }$ using a $0 . 8 \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ rich composition.Furthermore,the PL intensity could be enhanced greatly by post-treatments of smashing and acid washing.The $\\mathrm { B a } _ { 2 . 8 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } 0 . 2 \\mathrm { E u } ^ { 2 + }$ phosphor with high quantum efficiency and suitable excitation range is a promising stable green phosphor for white LED application.The proposed method is expected to be potentially applicable to other oxynitride phosphors with higher photoluminescence and phase purity. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]PUSTPHILIPP,WEILER VOLKER,HECHT CORA,et al.NarroWband red-emitting $\\mathrm { S r } [ \\mathrm { L i A l _ { 3 } N _ { 4 } } ] { \\cdot } \\mathrm { E u } ^ { 2 + }$ as a next-generation LEDphosphormaterial.Nature Materials,2014,13:891-896.   \n[2]YE S,XIAO F,PAN Y X,et al.Phosphors in phosphor-converted white light-emitting diodes:recent advances in materials,techniquesand properties.Materials Science and EngineeringR,2010, 71: 1-34.   \n[3]LIU JIA-QING, WANG XIAO-JUN,XUAN TONG-TONG, et al. Photoluminescence and thermal stability of $\\mathrm { M n } ^ { 2 + }$ co-doped $\\mathrm { S r S i _ { 2 } O _ { 2 } N _ { 2 } { : } E u ^ { 2 + } }$ green phosphor synthesized by Sol-Gel method. JournalofAlloysand Compounds,2014,593:128-131.   \n[4]XIE RONG-JUN,HIROSAKI NAOTO. Silicon-based oxynitride and nitride phosphors for white LEDs—a review. Science and TechnologyofAdvancedMaterials,2007,8:588-600.   \n[5]LU YA-JUN,WANG HONG-ZHI,LI YAO-GANG, et al.Photoluminescence properties of $\\mathrm { E u } ^ { 2 + }$ ， $\\mathrm { D y } ^ { 3 + }$ ， ${ \\mathrm { L i } ^ { + } }$ co-doped $\\mathrm { C a S i } _ { 2 } \\mathrm { O } _ { 2 } \\mathrm { N } _ { 2 }$ phosphors.Journal of Inorganic Materials，2012，27(10): 1095-1098.   \n[6]XIE RONG-JUN,HIROSAKI NAOTO,MITOMO MAMORU,et al.Photoluminescence of rare-earth-doped Ca-α-SiAlON phosphors: composition and concentration dependence. Journal of the American Ceramic Society,2005,88(10): 2883-2888. [7] HIROSAKI NAOTO, XIE RONG-JUN,KIMOTO KOJI, et al Characterization and properties of green-emitting $\\beta$ -SiAlON:Eu2+ powder phosphors for white light-emitting diodes.Applied Physics Letters,2005,86(21): 211905. [8] LI Y Q, HIROSAKI N, XIE R J, et al. Photoluminescence properties of rare earth doped $\\mathrm { \\pmb { a } { - } } \\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 }$ .Journal ofLuminescence,2010, 130: 1147-1153. [9]HU WEI-WEI, CAI CHAO, ZHU QIANG-QIANG, et al. Preparation of high performance $\\mathrm { C a A l S i N } _ { 3 } { : } \\mathrm { E u }$ ${ \\mathrm { E u } } ^ { 2 + }$ phosphors with the aid of $\\mathrm { B a F } _ { 2 }$ flux. Journal ofAlloys and Compounds,2014, 613: 226-231.   \n[10]LI WAN-YUAN, XIE RONG-JUN, ZHOU TIAN-LIANG, et al. Synthesis of the phase pure $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } \\mathrm { E u } ^ { 2 + }$ green phosphor and its application in high color rendition white LEDs.Dalton Transactions,2014,43: 6132-6138.   \n[11] SONG Y H, KIMB S, JUNG M K,et al. Synthesis and photoluminescence properties of green-emitting $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ oxynitride phosphor using boron-coated $\\mathrm { E u } _ { 2 } \\mathrm { O } _ { 3 }$ for white LED applications. Journalofthe Electrochemical Society,2012,159(5): J148-J152.   \n[12] TANG JIA-YE, CHEN JUN-HUA,HAO LU-YUAN,et al.Green $\\mathrm { E u } ^ { 2 + }$ -doped $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ phosphor for white light-emitting diodes: Synthesis,characterization and theoretical simulation. Journal of Luminescence,2011,131: 1101-1106.   \n[13] KANG EUN-HEE,CHOI SUNG-WOO, HONG SEONG-HYEON. Synthesis of $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } \\mathrm { E u } ^ { 2 + }$ green phosphors using $\\mathrm { B a _ { 3 } S i O _ { 5 } }$ :Eu2+ precursor and their luminescent properties. Journal of Solid State Science and Technology,2012,1(1): R11-R14.   \n[14] THOSTENSON E T, CHOU TW. Microwave procesing: fundamentalsand applications.CompositesPartA:Applied Science and Manufacturing,1999,30(9): 1055-1071.   \n[15] CLARK DAVID E,FOLZ DIANCE C,WEST JON K. Processing materials with microwave energy.Materials Science and Engineering,2000,A287: 153-158.   \n[16] LIU LI-HONG, ZHOU XIAO-BING, XIE RONG-JUN,et al. Facile synthesis of Ca-α-SiAlON:Eu2+ phosphor by the microwave sintering method and its photoluminescence properties.Chinese Science Bulletin,2013,58(7): 708-712.   \n[17]TIEGS TN, KIGGANS JO, KIMREYHD. Microwave sintering of silicon nitride. Ceramic Engineering & Science Proceedings, 1991,12(9/10): 1981-1992.   \n[18]MASAYOSHI MIKAMI，SATOSHI SHIMOOKA，KYOTA UHEDA,et al. New green phosphor $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ :Eu for white LED: crystal structureandoptical properties.Key Engineing Materials,2009,403:11-14.   \n[19]BOOSKEJH,COOPERRF,FREEMANSA,etal.Microwave ponderomotive forces in solid-state ionic plasmas.Physics of Plasmas,1998,5(5):1664-1670.   \n[20]BOOSKE JOHNH,COOPER REIDF,FREEMAN SAMUEL A. Microwave enhanced reaction kinetics in ceramics.Materials Research Innovations,1997,1:77-84.   \n[21]WANG YI-FEI,LIU LI-HONG,XIE RONG-JUN,et al.Microwave assisted sintering of thermally stable $\\mathrm { B a M g A l _ { 1 0 } O _ { 1 7 } { : } E u ^ { 2 + } }$ phosphors.Journal of Solid State Science and Technology,2013, 2(9):R196-R200.   \n[22]ZHANG YUE,LI YA-DONG,YIN YAN-SHENG.Red photoluminescence and morphology of ${ \\mathrm { E u } } ^ { 3 + }$ doped $\\mathrm { C a } _ { 3 } \\mathrm { L a } _ { 3 } ( \\mathrm { B O } _ { 3 } ) _ { 5 }$ phosphors.JournalofAlloys and Compounds,2005,400:222-226.   \n[23]PEUCKERT MARCELL,GREIL PETER.Oxygen distribution in silicon nitride powders.Journal ofMaterials Science,1987,22: 3717-3720.   \n[24]XIE RONG-JUN,MITOMO MAMORU,XU FANG-FANG, et al. Preparation of Ca-alpha-sialon ceramics with compositions along the $\\mathrm { S i } _ { 3 } \\mathrm { N } _ { 4 } { - } 1 / 2 \\mathrm { C a } _ { 3 } \\mathrm { N } _ { 2 }$ 3AINline.ZeitschriftfirMetallkunde,2001, 92(8):931-936. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "微波法合成 $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : } \\mathrm { E u } ^ { 2 + }$ 绿色氮氧化物荧光粉及其光学性能研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "韩 斌¹²，王义飞¹，刘茜³，黄庆¹ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1．中国科学院 宁波材料技术与工程研究所，宁波315201；2.上海大学 材料研究所，上海 200072；3.中国科学院上海硅酸盐研究所，高性能陶瓷和超微结构国家重点实验室，上海 200050)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "摘 要：分别采用微波法和传统固相法制备了 $\\mathrm { E u } ^ { 2 + }$ 掺杂的 $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 }$ 绿色氮氧化物荧光粉，利用 X 射线衍射仪(XRD)、扫描电子显微镜(SEM)、荧光光谱仪等检测方法研究 $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } { : } \\mathrm { E u } ^ { 2 + }$ 的物相、表面形貌及光致发光特性。研究结果表明：在微波场下 $1 2 7 5 ^ { \\circ } \\mathrm { C }$ 保温4h合成的 $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : E u } ^ { 2 + }$ 绿粉的发光强度高于在传统固相法 $1 3 0 0 ^ { \\circ } \\mathrm { C }$ 保温10h的样品强度。微波辅助烧结可以降低活化能，从而提高扩散率，并大大提高了晶体的结晶性。研究了氮化硅含量对物相的形成、形貌和光致发光性能的影响。结果表明：氮化硅不仅能够促进晶体的结晶度，而且还能提高其在紫外激发下的发光强度。因此，微波法有望应用于合成具有高的相纯度和发光强度的其他氮氧化物荧光粉体。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关键词: $\\mathrm { B a } _ { 3 } \\mathrm { S i } _ { 6 } \\mathrm { O } _ { 1 2 } \\mathrm { N } _ { 2 } \\mathrm { : E u } ^ { 2 + }$ 荧光粉；氮氧化物；微波烧结技术；光致发光中图分类号：TQ174 文献标识码：A",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

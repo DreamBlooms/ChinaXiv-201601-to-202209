@@ -1,0 +1,125 @@
+# ${ \mathrm { H C O } } _ { 3 }$ 对植物生长发育及代谢的促进作用
+
+童成英1,2，吴沿友1\*（1.中国科学与地球化学研究所，环境地球化学重点实验室，贵阳，5500812．中国科学院大学，北京，100049）
+
+摘要：重碳酸盐（bicarbonate, $\mathrm { H C O } _ { 3 } ^ { - }$ ）是碳酸盐岩经岩溶作用风化的产物，它深刻地影响着植物的生长发育和岩溶地区的生态环境。以往研究大都关注 ${ \mathrm { H C O } } _ { 3 } { \mathrm { \cdot } }$ 对植物生长代谢的负面影响，如抑制植物的光合作用、降低碳氮代谢关键酶活性、破坏离子平衡等，少有人关注其对植物生长代谢的积极作用。该文依据前人研究结果，综述了 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 对植物生长代谢的促进作用。已有的研究工作显示， ${ \mathrm { H C O } } _ { 3 }$ 不仅在干旱等逆境胁迫下为植物提供短期的碳源和水源，促进气孔打开，恢复光合作用；同时，它还通过调节碳氮代谢关键酶活性促进植物的碳氮代谢，参与调控植物的碳同化和氮还原等复杂的生理过程；再者， ${ \mathrm { H C O } } _ { 3 } { \mathrm { ; } }$ 还通过影响葡萄糖代谢歧化，改变植物糖酵解途径和磷酸戊糖途径的分配，以增强植物的抗逆能力，获取生存机会。 ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 的这些积极作用不仅使之成为促进植物生理代谢的关键因子，同时也成为连接光合作用和岩溶作用的纽带，阐明 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 对植物生长发育的积极作用，可为维护喀斯特生态系统的生物多样性和稳定性、优化喀斯特生态系统功能提供理论依据。
+
+关键词：重碳酸盐，植物，生长，耦合，代谢中图分类号：Q948
+
+# Promoting effect of bicarbonate on plant growth and
+
+# metabolism
+
+TONG Chengying1,2，WU Yanyoul\* (1.State Key Laboratory of Environmental Geochemistry, Institute of Geochemistry, Chinese Academy of Sciences, Guiyang 550081, China 2. University of Chinese Academy of Sciences, Beijing, 100049, China)
+
+Abstract:Bicarbonate $\mathrm { ( H C O _ { 3 } ^ { - } }$ ) is the product of karst weathering of carbonate rocks,which profoundly affects the growth and development of plants and the ecological environment in karst areas.Previous studies mostly focused on the negative effects of $\mathrm { H C O } _ { 3 } ^ { - }$ on plant growth and metabolism， such as inhibiting plant photosynthesis, reducing the activity of key enzymes in carbon and nitrogen metabolism,and damaging ion balance.Few people paid attention to its positive effects on plant growth and metabolism. Based on the results of previous studies,this paper reviewed the role of $\mathrm { H C O } _ { 3 } ^ { - }$ in promoting plant growth and metabolism. Previous studies have shown that $\mathrm { H C O } _ { 3 } ^ { - }$ is not only provides short-term carbon and water sources for plants under stress such as drought, but also promotes stomatal opening and restores photosynthesis.At the same time,it also promotes plant carbon and nitrogen metabolism by regulating the key enzyme activities of carbon and nitrogen metabolism,and participates in the rgulation of complex physiological processes such as carbon assmilation and nitrogen reduction in plants. In addition, $\mathrm { H C O } _ { 3 } ^ { - }$ can also change the distribution of glycolysis pathway and pentose phosphate pathway by affecting glucose metabolism disproportionation,so as to enhance the stress resistance of plants and obtain survival opportunities. These positive effects of $\mathrm { H C O } _ { 3 } ^ { - }$ are not only make it a key factor to promote plant physiological metabolism,but also become a link connecting photosynthesis and karstification. Clarifying the positive effect of $\mathrm { H C O } _ { 3 } ^ { - }$ on plant growth and development can provide a theoretical basis for maintaining the biodiversity and stability of karst ecosystem and optimizing the function of karst ecosystem.
+
+Keywords: bicarbonate，plant，growth，coupling，metabolism
+
+$\mathrm { H C O } _ { 3 } \cdot$ 是碳酸盐岩经岩溶作用风化的产物，它深刻地影响着植物的生长代谢和岩溶地区的生态环境。以往研究大都报道了 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 对植物生长代谢的负面影响，如，抑制植物的光合作用(Zhang et al.,2019)、降低碳氮代谢关键酶活性(Gong et al.,2013)、破坏离子平衡（孙晓华等，2020）等，缺乏有关 $\mathrm { H C O } _ { 3 }$ 对植物生长代谢促进作用的报道。近年来有学者提出，干旱等非生物胁迫下， ${ \mathrm { H C O } } _ { 3 }$ 通过为植物提供短期的碳源和水源(吴沿友,2011a;Tang&Lian,2012)、缓解气孔关闭(Wu,201lc;Wang et al.,2017)、调节碳氮代谢关键酶活性(吴沿友等，2018)及影响葡萄糖代谢歧化(Yao&Wu,2021)等方面促进植物的生长发育及代谢，并深刻影响着"岩-土"界面的碳酸盐岩的溶蚀和沉积作用，表明 ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 是连接光合作用和岩溶作用的耦合因子。基于已有研究，该文从碳源作用、气孔运动、碳氮代谢、葡萄糖代谢歧化等方面评述了 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 对植物生长发育的积极作用，以期为维护喀斯特生态系统的生物多样性和稳定性、优化喀斯特生态系统功能提供理论依据。
+
+# 1 $\mathrm { \Sigma \ H C O _ { 3 } }$ 的碳源作用
+
+${ \mathrm { H C O } } _ { 3 } { \cdot }$ 是干旱等逆境下植物的重要碳源，一方面，广袤的碳酸盐岩面积和强烈的岩溶作用促进了干旱、高重碳酸盐、高 $\mathfrak { p H }$ 等喀斯特逆境形成，导致植物叶片气孔关闭，抑制了光合作用。为适应逆境，植物CA活性上调，将根系的 $\mathrm { H C O } _ { 3 }$ 催化为 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { H } _ { 2 } \mathrm { O }$ ，使叶片气孔打开，以回补光合作用(Wang etal.,2015；杭红涛等，2018)。已有学者基于 $\mathrm { H C O } _ { 3 } ^ { - }$ 的碳源作用开展了相关研究， $\mathrm { H C O } _ { 3 }$ 利用能力来是表征 $\mathrm { \Delta H C O _ { 3 } }$ 碳源作用的重要指标（Wanget al.,2017；吴沿友等，2018)。外源 ${ \mathrm { H C O } } _ { 3 }$ 浓度为5、10、 $1 5 \mathrm { m m o l ^ { \bullet } L ^ { - 1 } }$ 时， $\mathrm { H C O } _ { 3 }$ 增加导致诸葛菜的总光合作用降低，但 ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 利用能力随 ${ \mathrm { H C O } } _ { 3 }$ 浓度增大而增大，分别为 $5 . 2 8 \%$ 、$1 3 . 2 8 \%$ 和 $1 7 . 3 1 \%$ （Hang& $\mathrm { w } _ { \mathrm { u } }$ ，2016)。干旱胁迫下，桑树、构树、油菜和诸葛菜对$\mathrm { 1 0 m m o l ^ { \bullet } L - 1 }$ 的 $\mathrm { H C O } _ { 3 } \cdot$ 利用能力分别为 $1 5 \%$ 、 $30 \%$ 、 $2 \%$ 、 $3 7 \%$ ，表明了构树和诸葛菜具有更高的 ${ \mathrm { H C O } } _ { 3 }$ 利用能力（吴沿友等，2018)。模拟干旱和重碳酸盐胁迫下，Wuetal.(2012）基于双向碳同位素标记法计算桑树和构树的 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 利用能力，构树的 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 利用份额高达$30 \%$ ，而桑树为0，表明 ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 对构树的碳源作用更显著。Rao（2017）研究了0、100、$2 0 0 \cdot \mathrm { L } ^ { - 1 }$ PEG模拟干旱胁迫下 ${ \mathrm { H C O } } _ { 3 }$ 对喜树的碳源作用， ${ \mathrm { H C O } } _ { 3 }$ 为喜树总无机碳同化的贡献率增加了 $6 . 2 6 \% { \sim } 9 . 7 1 \%$ 。 $\mathrm { H C O } _ { 3 } \cdot$ 作为光合作用的重要碳源，不仅提高了植物的无机碳利用能力，同时， ${ \mathrm { H C O } } _ { 3 } { \mathrm { \cdot } }$ 可为光反应器官PSII提供电子，缓解光合器官"空转”，促进植物碳同化(吴沿友,201la；Banerjee et al.,2019)。另一方面， $\mathrm { H C O } _ { 3 }$ 促进了植物光合作用和生长代谢，有利于生物多样性的形成，对岩溶作用和喀斯特生境也存在重要的正向调节作用（吴沿友等，2018)，以上研究表明， $\mathrm { H C O } _ { 3 } ^ { - }$ 是植物的重要碳源，也是连接植物光合作用和岩溶作用的重要耦合因子(图1)。
+
+$\mathrm { C O } _ { 2 }$ ．二氧化碳； ${ \mathrm { H C O } } _ { 3 } { \mathrm { - } }$ ．碳酸氢根离子；P680．光系统ⅡI(PSII）吸收高峰为波长 $6 8 0 \mathrm { n m }$ 处；P700．光系统(PSI）吸收高峰为波长 $7 0 0 \mathrm { { n m } }$ 处； $\mathrm { C } ( \mathrm { H } _ { 2 } \mathrm { O } )$ ：碳水化合物；PGA．三磷酸甘油酸；RUBP.1,5-二磷酸核酮糖。
+
+![](images/3555fdf11f1fcc7e3f1cb215c1f39ed9b9a8382c41714c8c100fda9363a7412e.jpg)  
+图 ${ 1 \mathrm { H C O } _ { 3 } } ^ { - }$ 对植物光合作用的回补效应和固碳增汇作用(吴沿友等，2018)
+
+$\mathrm { C O } _ { 2 }$ . Carbon dioxide; $\mathrm { H C O } _ { 3 } ^ { - }$ .Bicarbonate ion； P68o. The absorption peak of PSII was at 680 nm ; P700. The absorption peak of the optical system (PS I) was at $7 0 0 \mathrm { n m }$ ; $\mathrm { H ^ { + } }$ . Hydrogen ion; $_ \mathrm { H _ { 2 } O }$ .Water；C( $_ \mathrm { H _ { 2 } O }$ ). Carbohydrate；PGA. 3-phosphoglycerate；RUBP.Ribulose-1,5- bisphosphate.
+
+Fig. $1 \mathrm { H C O } _ { 3 } \mathrm { ^ { - } }$ compensation effect on plant photosynthesis and carbon sequestration （Wu et al., 2018)
+
+# 2 $\mathrm { H C O } _ { 3 } ^ { - }$ 对植物其他代谢的正向调节作用
+
+# 2.1气孔运动
+
+$\mathrm { H C O } _ { 3 } \cdot$ 在调控气孔运动中发挥着重要作用（图2）(Meyeretal.,2010)。高 $\mathrm { H C O } _ { 3 } ^ { - }$ 胁迫下，植物体内CA上调，将 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 分解为 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { H } _ { 2 } \mathrm { O }$ ，参与调节保卫细胞气孔运动，弥补因气孔关闭导致的 $\mathrm { C O } _ { 2 }$ 供应不足，获取生存机会(吴沿友,201la；杭红涛，2016;Shahsavandi etal.,202O)。研究表明，高 ${ \mathrm { H C O } } _ { 3 } ^ { - }$ 环境下，植物的S型阴离子通道（SLAC1)被激活，促进CI或 $\mathrm { N O } _ { 3 }$ 等阴离子排出细胞，同时促进R型通道（AtALMT12/QUAC1）排出苹果酸(Stefan et al.,2010)。此外， ${ \mathrm { H C O } } _ { 3 } { \mathrm { \cdot } }$ 是脱落酸（ABA）途径的重要信号，而ABA通过激活蛋白激酶（RHC1）的表达，抑制热激蛋白（HT1）的表达正向调节阴离子通道蛋白(OST1)，促进细胞排出阴离子，从而调节植物叶片的气孔运动(Meyer etal.,2010)
+
+![](images/ef564eb617541a24d3b95efdadfca7fcfe58e792943a5652063c6ca1fe814058.jpg)
+
+CA．碳酸酐酶；ABA．脱落酸；PYR／RCAR．吡菌素ABA受体（RCAR）的抗性（PYR）  
+调节剂成分；ABI1/PP2C2．脱落酸不敏感的蛋白磷酸盐C2；RHC1.耐高浓度的 $\mathrm { C O } _ { 2 }$ ，此  
+时MATE 型转运蛋白被 $\mathrm { H C O } _ { 3 }$ 激活；HT1．叶片高温激酶；OST1.开放式气孔蛋白激酶;SLAC1．慢阴离子通道1；QUAC1．快速阴离子通道1。CA. Carbonic anhydrase； ABA.Abscisic acid; PYR/RCAR. Pyrabactin resistance (PYR)  
+regulator component of ABA receptor (RCAR)； ABIl/PP2C2. Abscisic acid insensitive protein  
+phosphates C2； ${ \mathrm { H C O } } _ { 3 }$ /RHC1. Resistant to high $\mathrm { C O } _ { 2 }$ ，MATE-type transporter specific activated  
+by $\mathrm { H C O } _ { 3 } ^ { - }$ ；HT1. High leaf temperature kinase； OST1. Open stomatal protein kinase; SLAC1.Slow anion channell； QUAC1. Quick anion channell.图 $2 \mathrm { H C O } _ { 3 } ^ { \cdot }$ 调节植物的气孔运动(Charlotte etal.,2018)Fig. $2 \mathrm { H C O } _ { 3 } \cdot$ regulates the stomatal movement of plants(Charlotte et al., 2018)
+
+# 2.2碳氮代谢
+
+一些学者报道了 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 参与调节碳氮代谢的研究，主要表现在调节碳氮代谢关键酶、有机酸代谢及相关基因的表达等方面（图3）。一方面， $\mathrm { H C O } _ { 3 } ^ { - }$ 与乙酰辅酶a羧化酶(Acetyl-CoAcarboxylase,ACC）和磷酸烯醇丙酮酸羧化酶（PEPC）等共同参与协调植物碳氮代谢，脂肪酸是参与三羧酸循环和类黄酮A环生物合成反应的重要物质(Yukiko etal.,2004)，参与调控乙烯的合成代谢(Nikolau etal.,2003b)，而 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 则通过影响ACC催化乙酰辅酶A羧化反应，调控脂肪酸前体-丙二酰辅酶A（Malonyl-CoA）的形成。另一方面， ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 与PEPC共同参与C4和CAM植物的碳代谢过程。PEPC基因过表达被认为是C4和CAM植物适应逆境的进化机制， $\mathrm { H C O } _ { 3 } ^ { - }$ 在PEPC 催化下生成草酰乙酸（OAA)，而OAA在调控植物的苹果酸代谢和碳氮同化中发挥着重要作用，在NADPH或NADP辅助下OAA经苹果酸脱氢酶(malatedehydrogenase,MDH)催化形成苹果酸等有机酸储存在植物体内，以提高植物的抗逆性(Doubnerova et al., 2011)。 $\mathrm { H C O } _ { 3 }$ 参与调节植物的有机酸代谢，NaHCO3胁迫能诱导蒺藜苜蓿GsPEPCs 基因过表达，苹果酸脱氢酶(malate dehydrogenase,MDH)、丙酮酸激酶(pyruvate kinase,PK)等基因与Gs PEPCs 基因存在显著的共表达(Zhang et al.,2019)。低NaHCO3胁迫下，玉米体内的PEPC 活性显著增强，有机酸含量较高，PEPC 活性显著下降时，有机酸含量也大幅降低(贾双杰等，2020)。干旱诱导转基因水稻中 PEPC 过表达，能显著缓解干旱对植物光合作用的抑制(Doubnerov etal.,2011)。此外， ${ \mathrm { H C O } } _ { 3 }$ 参与调节植物的氮代谢， $\mathrm { H C O } _ { 3 } ^ { - }$ 在PEPC催化下不可逆生成草酰乙酸（OAA）和磷酸盐（Pi)，其中一部分的OAA 则参与了根部的氮同化，最终产物为天冬氨酸（Asp）供植物代谢利用(赵洲,2019)。
+
+CA.碳酸酐酶；PEPC．磷酸烯醇丙酮酸羧化酶；ACC．乙酰辅酶A羧化酶；MACC．丙二酰 基-1-氨基环丙烷-1-羧酸。
+
+![](images/8988dfd5909537c2c93b66f7a661d42a38d55c82d20c94f58b46c30bf85d70e7.jpg)  
+图 $3 \ \mathrm { H C O } _ { 3 } \cdot$ 调节植物的碳氮代谢(Charlotte et al.，2018)
+
+.Carbonic anhydrase; PEPC. Phosphoenolpyruvate carboxylase; ACC.Acetyl-coa carbo xylase； MACC. Malonyl-1-aminocyclopropane-1-carboxylic acid.
+
+Fig. 3 $\mathrm { H C O } _ { 3 } ^ { - }$ regulates carbon and nitrogen metabolism in plants(Charlotte et al.,201
+
+# 2.3葡萄糖代谢歧化
+
+研究表明，干旱等逆境胁迫下， $\mathrm { H C O } _ { 3 } ^ { - }$ 通过影响葡萄糖代谢歧化增强植物的抗逆能力。植物主要的葡萄糖代谢途径包括糖酵解途径（embden-meyerhof pathway,EMP）和磷酸戊糖途径（phosphopentose pathway,PPP)，EMP 途径产生的 ATP 为驱动植物碳氮代谢等生理过程提供了重要的能量来源，因此常用EMP途径表征植物的光合生产力(吴沿友等，2018)。PPP途径产生的NAD(P)H为光合作用、氮代谢等提供还原力，NAD(P)H在植物抵抗逆境中发挥着重要作用，因此常用PPP途径来表征植物适应逆境的能力。糖代谢强度常用糖代谢限速酶活力来表示，磷酸果糖激酶（PFK）和葡萄糖-6-磷酸脱氢酶（G6PDH）是主要的碳代谢限速酶(Mutuku& Nose,2012; Zhao etal.,2015)。PFK 是EMP 途径的限速酶，它能不可逆催化果糖-6-磷酸生成果糖-1,6-二磷酸，使葡萄糖进入EMP 途径代谢并产生ATP，因此PFK 活性可用来表征植物EMP 途径的强弱。G6PDH是PPP 途径的限速酶，它能不可逆地催化葡萄糖-6-磷酸为6-磷酸葡萄糖酸，使葡萄糖进入PPP途径代谢并产生 $\mathrm { { N A D } ( P ) H }$ 等还原性辅酶，因此G6PDH活性可表征植物PPP 途径的强弱(Mutuku andNose,2012;Yao&Wu.,2021;Li etal.,2020)，PFK、G6PDH是植物抵抗逆境的重要物质，研究表明，低浓度 $\mathrm { H C O } _ { 3 }$ 能同时促进植物的EMP途径和PPP途径，提高植物的抗逆能力。Yao＆Wu（2021）提出，模拟干旱胁迫下， $3 \mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 } \mathrm { H C O } _ { 3 } ^ { - }$ 促进了构树光合作用和葡萄糖代谢歧化，Rubisco酶活性、净光合速率、EMP途径和PPP途径升高。而9$\mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 } \mathrm { H C O } _ { 3 } ^ { . }$ 则限制了构树叶片细胞的气孔运动，不利于构树的光合作用及葡萄糖代谢（图4)。吴沿友等(2018)用 PFK、G6PDH活力分别表示植物的光合生长力和碳代谢受体RuBP的再生能力， $1 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { N a H C O } _ { 3 }$ 和模拟干旱的复合环境下，植物的光合生长力与PFK活力及日均光合速率（ $\mathsf { A P } _ { \mathrm { N } }$ ）呈正相关关系，RuBP再生能力则与G6PDH活力及日均光合速率（ $\mathsf { A P } _ { \mathrm { N } }$ ）呈正关关系，表明逆境胁迫下植物可能会优先选择PPP途径维持自身生
+
+产力。
+
+![](images/cd0c1f0e0c1cc5b10e379da89f2237b0faf10e4c566906d45725fd4ab25df607.jpg)
+
+对照.1/2Hogland营养液；T1.1/2Hogland营养液 $+ 5 0 \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ PEG6000；T2.1/2Hogland营养液 $+ 5 0 \mathrm { g } \bullet \mathrm { L } ^ { - 1 } \mathrm { P E G } 6 0 0 0 + 3 \mathrm { m m o l } \bullet \mathrm { L } ^ { - 1 } \mathrm { N a H C O } _ { 3 } ;$ T3.1/2Hogland 营养液 ${ + 5 0 \ \mathrm { g \cdot L ^ { - 1 } } }$   
+$\mathrm { P E G 6 0 0 0 + 6 \ m m o l \bullet L ^ { - 1 } N a H C O _ { 3 } }$ ；T4.1/2Hogland 营养液 $\left. + 5 0 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \ \mathrm { P E G 6 0 0 0 + 9 \ m m o l \cdot L ^ { - 1 } } \right.$   
+${ \mathrm { N a H C O } } _ { 3 }$ 。箭头向上和向下分别表示测量值增加或减少，短划线表示测量值无显著变化。  
+红色箭头(1)表示 T1与对照相比的调节作用；蓝色箭头和短划线(2)表示T2相对于T1的调节作用；黑色箭头(3)表示T4相对于T1的调节作用。
+
+Control.1/2 Hoagland nutrient solution； T1. 1/2 Hoagland nutrient solution $+ 5 0 \mathrm { ~ g \cdot L ^ { - 1 } }$ PEG6000； T2.1/2 Hoagland nutrient solution ${ } + 5 0 \ \mathrm { g \cdot L ^ { - 1 } }$ PEG $6 0 0 0 + 3 \ \mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 } \mathrm { N a H C O } _ { 3 }$ ；T3.
+
+1/2 Hoagland nutrient solution ${ } + 5 0 \ \mathrm { g \cdot L ^ { - 1 } }$ PEG $6 0 0 0 + 6$ mmol·L-1 NaHCO3； T4.1/2   
+Hoagland nutrient solution $\mathrm { \Omega _ { 1 } + 5 0 \mathrm { ~ g \bullet \mathrm { ~ L ^ { - 1 } \mathrm { \mathrm { \ P E G \ 6 0 0 0 + 9 \ m m o l { \bullet L ^ { - 1 } \mathrm { \ N a H C O _ { 3 } } } } } } } }$ Arrows indicate,   
+whether measurements have increased or decreased,and short dash indicate measurements have   
+no significant changes.Brown arrows (1) indicate moderating effect of T1 compared with control;   
+Blue arrows and short dash (2) indicate moderatingeffect of T2 compared with T1; Black arrows (3) indicate moderating effect of T4 compared with T1.
+
+图4 模拟干旱胁迫下重碳酸盐对构树葡萄糖代谢和抗逆性的影响（Yao&Wu,2021) Fig. 4.Schematic representation of rhizospheric bicarbonate modulates glucose metabolism and stress tolerance of paper mul-berry seedlings under simulated drought stress(Yao & Wu, 2021)
+
+# 3总结和展望
+
+${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 对植物生长发育和代谢的促进作用体现在：（1）干旱等逆境下，植物根系将吸收的 ${ \mathrm { H C O } } _ { 3 } { \mathrm { . } }$ 储存在叶片中，在CA作用下可将 $\mathrm { H C O } _ { 3 } \cdot$ 转化为 $\mathrm { H } _ { 2 } \mathrm { O }$ 和 $\mathrm { C O } _ { 2 }$ ，以缓解气孔限制，回补光合作用；（2） ${ \mathrm { H C O } } _ { 3 }$ 能提高植物交替利用 $\mathrm { C O } _ { 2 }$ 和 $\mathrm { \Delta H C O _ { 3 } }$ 的能力，并通过改变有机酸代谢等影响植物的碳氮代谢；（3） ${ \mathrm { H C O } } _ { 3 }$ 通过改变植物的葡萄糖代谢途径，促使植物优先选择PPP途径以维持生命活力等。由此可见， ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 是岩溶作用和光合作用的耦联因子，在喀斯特生态系统的水、碳以及多元素循环中发挥着重要作用（图5)。这些研究可为筛选植物抗逆性的生化指标，选育喀斯特适生植物以及提高喀斯特生态系统生产力提供理论依据。今后研究应重视 $\mathrm { H C O } _ { 3 } \cdot$ 的碳源作用，进一步明确 ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 在碳酸盐岩-土壤-植被生态系统的水碳循环中的调控作用及调控机制。同时，要加强研究植物代谢对 $\mathrm { H C O } _ { 3 } \cdot$ 的耦合响应，例如在干旱等逆境下，植物气孔运动、碳氮代谢以及葡萄糖歧化等多项代谢对 ${ \mathrm { H C O } } _ { 3 } { \mathrm { \cdot } }$ 的耦合响应特征。整体阐明 ${ \mathrm { H C O } } _ { 3 }$ 对植物生长发育和代谢的促进作用，完善 ${ \mathrm { H C O } } _ { 3 } { \cdot }$ 对植物积极作用的研究，可为增加岩溶地区生物多样性以及促进生态可持续发展奠定良好的理论基础。
+
+![](images/98e46db9bc2212033d09aa9e9489e5d8d4dae212aeb13355c14dff038cb9b824.jpg)  
+图 $5 \mathrm { H C O } _ { 3 } \mathrm { \cdot }$ 对喀斯特生态系统"岩-土-植物"及其界面水碳循环的调控作用（吴沿友等，2018)Fig. $5 \mathrm { H C O } _ { 3 } \cdot$ regulates the water-carbon cycle of "rock-soil-plant" in the karst ecosystem and itsinterface（Wu et al., 2018）
+
+# 参考文献
+
+BANERJEE G,GHOSH I,KIM CJ,et al.， 2019.Bicarbonate rescues damaged protontransfer pathway in photosystem II[J].Biochim Biophys Acta,1860(8): 611-617.   
+CHARLOTTE P,JOS F,LOURDES R,et al.,2018.Transport and use of bicarbonate in plants: current knowledge and challenges ahead[J]. Int JMol Sci,19(5): 1352-1377.   
+DOUBNEROV V, RYSLAV H,2011. What can enzymes of C4 photosynthesis do for C3 plants under stress?[J]. Plant Sci, 180(4): 575-583.   
+GONG B,WEN D,VANDGK,et al.,2013.Comparative effects of NaCl and ${ \mathrm { N a H C O } } _ { 3 }$ stress on photosynthetic parameters,nutrient metabolism,and the antioxidant system in tomato leaves[J]. Sci Hortic,157: 1-12.   
+HANG HT, WU YY,2016. Quantification of photosynthetic inorganic carbon utilisation via a bidirectional stable carbon isotope tracer[J].Acta Geochim, 35:130-137.   
+HANG HT, WUYY, XINGDK,et al.,2018.Photosynthetic and pysiological characteristics of three afforestation plants in Guizhou yushe national forest park[J].Guihaia,38(1):36-47.[杭红涛，吴沿友,邢德科，等，2018. 贵州玉舍国家森林公园三种造林植物光合生理特征研究[J].广西植物，38(1):36-47.]   
+JIA SJ,LiHW,JIANG YP,etal.,2020.Effectsof drought stress on photosyntheticcharacteristicsand panicle development characteristics of maize leaves[J].Acta Oncol,40(3):1-9.[贾双杰，李红伟，江艳平，等， 2020.干旱胁迫对玉米叶片光合特性和穗发育特征的影响[J].生态学报，40(3):1-9.]   
+LI C,WEI M, GE Y, et al., 2020.The role of glucose-6-phosphate dehydrogenase in reactive oxygen species metabolism in apple exocarp induced by acibenzolar-S-methyl[J]. Food Chem,308:125-663.   
+LIU CG, WUYB, XUE JH,et al.,2012. Studyon the correlation between soil enzymes and nutrients in mixed and pure forests of robinia pseudoacacia, yunnan and cypressJ]. Soil Bul, 43(6): 1427-1431.[刘成刚，吴永 波，薛建辉，等，2012．刺槐滇柏混交林及纯林土壤酶与养分相关性研究[J].土壤通报，43(6):1427- 1431.]   
+MEYER S,MUMM P, IMES D,et al., 2010.AtALMT12 represents an R-type anion channel required for stomatal movement in arabidopsis guard cells[J]. Plant J, 63(6):1054-1062.   
+MUTUKU JM, NOSE A, 2012. High activities and mRNA expression of pyrophosphate-fructose-6-phospha te-phosphotransferase and 6-phosphofructokinase are induced as a response to Rhizoctonia solani infec tion in rice leaf sheaths[J]. Physiol Mol Plant Pathol,77(1):41-51.   
+NIKOLAU BJ, OHLROGGE JB,WURTELE ES,2003.Plant biotin-containing carboxylases[J]. Arch Biochem Biophys,414(2): 211-222.   
+RAO S,WU YY,2017. Root derived bicarbonate assimilation in response to variable water deficit in camptotheca acuminata seedlings. Photosynth Res,134(1): 59-70.   
+SHAHSAVANDIF,ESHGHI S, GHARAGHANI A,et al.,2020. Efects of bicarbonate induced iron chlorosis on photosynthesis apparatus in grapevine[J]. Sci Hortic, 270(109):4-27.   
+STEFAN M,PATRICK M,et al.，2010. ALMT12 represents an R type anion channel required for stomatal movement in arabidopsis guard cells[J]. Plant J, 63(6): 1054-1062.   
+SUN XH, DONG XJ, LI XJ,et al., 2020. Response of growth and physiological characteristics of muskmelon seedlings to alkali stress[J].North Hortic,9(7): 51-59.[孙晓华，董晓静，李晓静，等，2020．甜瓜幼苗生 长及生理特性对碱胁迫的响应[J].北方园艺，9(7):51-59.]   
+TANG Y,LIAN B,2012. Diversity of endolithic fungal communities in dolomite and limestone rocks from Nanjiang canyon in Guizhou karst area, China[J]. Can JMicrobiol, 58(6): 685-693.   
+WANG R, WU YY, XING DK,et al.,2O15. Physiological characteristics and inorganic carbon usage capacityof three biomass plants under simulative karst adversity (bicarbonate stress)[J].Earth Environ,43(1): 21-30.   
+WANG R, WU YY, XING DK, 2017. Biomass production of three biofuel energy plants'use of a new carbon resource by carbonic anhydrase in simulated karst soils: Mechanism and capacity[J].Energies,10: 1370-1383.   
+WU YY,201la. Strategy of carbon squestration and increasing foreign exchange in karst suitable plants[J]. Chin Karst,30(4):461-465.[吴沿友，2011a.喀斯特适生植物固碳增汇策略[J].中国岩溶，30(4):461-465.]   
+WU YY,LIANG Z, XING DK, 2011b. Comparison of physiological characteristics of broussonetia papyrifera and mulberry under simulated drought stres[J]. Guihaia,31(1): 92 -96.[吴沿友，梁铮，邢德科，2011b.模拟干 旱胁迫下构树和桑树的生理特征比较[J]．广西植物，31(1):92-96.]   
+WU YY, SHI QQ, WANG K, 2011c.An electrochemical approach coupled with Sb microelectrode to determine the activities ofcarbonic anhydrase in the plant leaves[M]. Future intelligent information systems. Berlin : Springer: 87-94.   
+WU YY,XING DK,LIU Y,2011d. Characteristic analysis of plants using bicarbonate ion[J].Earth Environ,39(2): 273-277.[吴沿友，邢德科，刘莹，2011d.植物利用碳酸氢根离子的特征分析[J]．地球与环境，39(2): 273-277.]   
+WU YY, XING DK, ZHAO K,et al.,2018.Principles and techologyof determination on plant'sadaptation to karst environment.[吴沿友，邢德科，赵宽，等，2018．植物的喀斯特适生性检测原理和技术[M]．北京 科学出版社].   
+XING DK,WU YY,WU YS,et al.,2016.Photosynthetic physiological responses of jatropha curcas and populus tomentosa seedlings to five simulated karst stresses[J].Chin Karst,35(6): 649-656.[邢德科，吴沿友，吴沿 胜，等，2016．麻疯树和枫杨幼苗对5种模拟喀斯特逆境的光合生理响应[J).中国岩溶，35(6):649- 656.]   
+YAO K，WU YY,2021. Rhizospheric bicarbonate improves glucose metabolism and stress tolerance of Broussonetia papyrifera L. seedlings under simulated drought stress[J]. Russ JPlant Physiol, 68(1): accepted May 19,2020.   
+YAO YH,2014. Research progress and prospects of karst rocky desertification in southwest China[J]. Adv Geo Sci, 33(1):76-84.[姚永慧，2014．中国西南喀斯特石漠化研究进展与展望[J]．地理科学进展，33(1):76-84.]   
+YUKIKO, SASAKI, YUKIO,et al.， 2004. Plant acetylcoa carboxylase: structure, biosynthesis,regulation,and gene manipulation for plant breeding[J].Biosci Biotechnol Biochem, 68(6):1175-1184.   
+ZHANG X,PU P,TANG Y,et al.,2019.C4 photosynthetic enzymes play a key role in wheat spike bracts primary carbon metabolism response under water deficit[J].Plant Physiol Biochem,142:163-172.   
+ZHAO C,WANG X,WANG X,et al.，2015. Glucose-6-phosphate dehydrogenase and alternative oxidase are involved in thecross tolerance of highland barley to salt stressand UV-Bradiation[J].JPlant Physiol,181: 83-95.   
+ZHU C, ZHAI X, XIY, et al.,2020. Efficient $\mathrm { C O } _ { 2 }$ capture from the air for high microalgal biomass production by a bicarbonate pool[J]. J $\mathrm { C O } _ { 2 }$ Utiliz, 37: 320-327.   
+ZHAO Z,2019.Physiological and molecular mechanisms of oats responding to alkali stressD]. Hohhot: Inner Mongolia Agricultural University.[赵洲,2019.燕麦响应碱胁迫的生理及分子机制研究[D]．呼和浩特： 内蒙古农业大学.]

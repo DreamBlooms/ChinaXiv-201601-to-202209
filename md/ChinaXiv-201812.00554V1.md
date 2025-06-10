@@ -1,0 +1,187 @@
+# 桦木酸对地塞米松致小鼠氧化应激的机制研究1
+
+朱利娟1,2 易想炼」　赵　静」王喜红’ BLAZEJPozniak³文利新1,4　邬　静1\*易 金娥1,4\*
+
+（1.湖南农业大学动物医学院，长沙410128；2.长沙绿叶生物科技有限公司，长沙410125；3.弗罗兹瓦夫环境与生命科学大学兽医学院，弗罗兹瓦夫 50-375，波兰；4.湖南畜禽安全生产协同创新中心，长沙 410128)
+
+摘要：本试验旨在研究桦木酸（BA）对地塞米松（Dex）诱导氧化应激小鼠的保护作用和机制。将40只健康雄性昆明小鼠随机分为5组，即对照（NC）组、Dex 组、 $0 . 2 5 \mathrm { m g / k g }$ BA组、 $0 . 5 0 \mathrm { m g / k g \ B A }$ 组、 $1 . 0 0 \mathrm { m g / k g }$ BA组。NC 组和Dex 组小鼠灌服 $1 \%$ 的可溶性淀粉溶液，其余各组按不同剂量的BA灌服，连续14d后，除对照组注射生理盐水外，其余4组均腹腔注射Dex（ $2 5 \mathrm { m g / k g }$ ）诱导氧化应激模型。检测各组小鼠肝脏、脾脏和胸腺总抗氧化能力（T-AOC）、抑制羟自由基能力和过氧化物酶（POD）的活性，反转录（RT）-PCR检测脾脏和胸腺丝裂原活化蛋白激酶（MAPK）信号通路中凋亡信号调节激酶1（ASK1）、c-jun 氨基末端激酶（JNK)和 $P 3 8$ 基因的表达量，蛋白质免疫印迹（WesternBlot)法检测脾脏MAPK信号通路中ASK1、JNK和P38 蛋白的表达量。结果表明：1）与NC 组相比，Dex 组的肝脏 T-AOC、抑制羟自由基能力，脾脏 POD 活性，胸腺T-AOC、抑制羟自由基能力均极显著下降（ $P { < } 0 . 0 1 \rangle$ ；与Dex 组相比，0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组肝脏 T-AOC、抑制羟自由基能力以及 POD 活性均显著或极显著的升高（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )， $0 . 5 0 \mathrm { m g / k g \ B A }$ 组脾脏 T-AOC、0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组脾脏抑制羟自由基能力、0.25 和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组脾脏 POD 活性均显著或极显著的升高（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )，0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组胸腺T-AOC、抑制羟自由基能力和POD 的活性均显著或极显著升高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。2）与NC 组相比，Dex组脾脏和胸腺 ASK1、JNK 和 $P 3 8 ~ \mathrm { { m R N A } }$ 表达量均极显著升高（ $_ { \cdot } P { < } 0 . 0 1 \rangle$ ；与Dex 组相比，0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组脾脏和胸腺ASK1、JNK 和 $P 3 8 ~ \mathrm { { m R N A } }$ 表达量均显著或极显著下降（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。3）与NC 组相比，Dex 组脾脏JNK和P38蛋白的表达量极显著升高（ $_ { . P < 0 . 0 1 } )$ ；与Dex 组相比， $0 . 5 0 \mathrm { m g / k g \ B A }$ 组脾脏ASK1蛋白的表达量显著降低（ $_ { . P < 0 . 0 5 ) }$ ，0.25、0.50和 $1 . 0 0 \ \mathrm { m g / k g \ B A }$ 组脾脏JNK和P38蛋白的表达量显著或极显著降低（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。由此可见，BA预处理后，增强了Dex应激小鼠肝脏、脾脏和胸腺的T-AOC、抑制羟自由基能力和 POD 活性,降低了Dex 应激小鼠脾脏和胸腺MAPK 信号通路中 ASK1、JNK 和P38 mRNA表达量以及脾脏ASK1、JNK和P38蛋白的表达量。BA对Dex造成的氧化损伤具有预防性的保护作用，并且这种保护作用与JNK-P38MAPK信号通路相关。
+
+关键词：桦木酸；地塞米松；氧化应激；丝裂原活化蛋白激酶中图分类号：S816.7 文献标识码： 文章编号：
+
+氧化应激是指机体内氧化系统和抗氧化系统的平衡失调从而引起的一系列适应性反应。在畜牧生产过程中，氧化应激对动物的健康产生一系列的影响，例如，畜产品品质下降、种畜繁殖障碍、幼畜成活率低和发病率高、神经毒性等[1-3]。研究发现，一些抗氧化剂能清除自由基和减少自由基产生的危害，提高动物的生产和繁殖性能，增强机体的免疫力和提高幼畜的成活率，延长寿命及改善畜产品质量[3]。天然抗氧化剂由于其安全和低毒副作用成为了研究的热点。
+
+桦木酸（betulinic acid,BA）是植物源性五环三萜类物质，具有抗氧化应激、免疫调节、抗肿瘤、抗炎、抗微生物和抗寄生虫等多种生物活性[4-6]。本课题组前期研究发现，BA对地塞米松（dexamethasone,Dex）诱导的氧化应激具有预防性的保护作用，该保护作用与BA增强机体超氧化物歧化酶（SOD）和谷胱甘肽过氧化物酶（GSH-Px）的活性，抑制自由基和脂质过氧化物产生，从而提高抗氧化能力有关；进一步研究发现，BA阻断活性氧（ROS）对线粒体膜通透性的影响，有效清除ROS 对细胞的损伤，通过抗氧化应激从线粒体信号转导通路减少淋巴细胞凋亡，从细胞内源性途径对淋巴细胞起到保护作用[7-10]。丝裂原活化蛋白激酶（MAPK）信号转导通路与氧化应激有着极其密切的关系，因此，根据前期的研究基础[10]，本试验采用Dex 诱导小鼠氧化应激模型，旨在研究BA 是否能通过调控c-jun 氨基末端激酶（JNK）-P38MAPK信号通路缓解氧化应激，从而进一步探讨BA抗氧化应激的分子机制。
+
+# 1材料与方法
+
+# 1.1 试验试剂
+
+BA，来源参照参考文献[10]，具体制备方法按参考文献[11]，高效液相色谱（HPLC)测定BA纯度为 $9 6 . 5 3 \%$ ；Dex 磷酸钠注射液购自濮阳市汇元药业有限公司；总抗氧化能力（T-AOC）、抑制羟自由基能力和过氧化物酶（POD）试剂盒均购自南京建成生物工程研究所；Trizol提取试剂盒购自Life 公司；反转录(RT)-PCR 试剂盒、实时定量(qRT)-PCR引物和荧光染料 SYBR green 均购自 Takara 公司；二喹啉甲酸(bicinchoninic acid disodium,BCA)法蛋白浓度检测试剂盒购自联科生物技术有限公司；Westem及IP细胞裂解液购自碧云天生物技术研究所；调亡信号调节激酶1（ASK1）、JNK 和 P38抗体购自Cell Signaling Technology;辣根酶标记山羊抗兔免疫球蛋白G（IgG）购自美国KPL 公司；ECL 检测试剂盒购自凯基生物技术股份有限公司；十二烷基硫酸钠聚丙烯酰胺凝胶电泳（SDS-PAGE）标准蛋白购自北京全式金生物技术有限公司。
+
+# 1.2 试验动物与饲料
+
+试验动物为40只健康雄性昆明小鼠，4周龄，无特定病原体（SPF）级，体重为（ $2 0 { \pm } 2$ g。饲料为小鼠普通育成料，由湖南斯莱克景达试验动物有限公司提供，其主要原料是小麦、玉米、豆油、麸皮、豆粕、鱼粉、麦芽糊精、酵母、草粉和预混料；主要营养水平（风干基
+
+础）如下：粗蛋白质（CP） $2 0 . 5 0 \%$ 、粗脂肪（EE） $4 . 6 2 \%$ 、钙（Ca） $1 . 2 3 \%$ 、磷（P) $0 . 9 1 \%$ 、赖氨酸（Lys） $1 . 3 0 \%$ 、蛋氨酸 $^ +$ 半胱氨酸（Met+Cys） $0 . 6 8 \%$ 。
+
+# 1.3 试验分组与处理
+
+将40只健康雄性昆明小鼠置于室温（22\~25） $^ { \circ } \mathrm { C }$ ，相对湿度为 $50 \% { \sim } 7 0 \%$ 的动物饲养室，饲养1周后，小鼠随机分为5组，即对照（normal control,NC）组、Dex 组、 $0 . 2 5 ~ \mathrm { m g / k g }$ BA组、 $0 . 5 0 \mathrm { m g / k g \ B A }$ 组、 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组，每组8只。将不同剂量的BA 混悬于 $1 \%$ 的可溶性淀粉中，每天09：00 定时给药1次，按 $0 . 0 1 \mathrm { m L / g B V }$ V灌胃，NC 组和Dex 组小鼠灌服等量的 $1 \%$ 可溶性淀粉，连续14d。除NC 组外，其余各组小鼠第14天17：00 腹腔注射 Dex$( 2 5 \mathrm { m g / k g } )$ ，诱导氧化应激模型，NC 组小鼠腹腔注射等量的生理盐水。禁食15h（自由饮水）后，眼眶采血收集血液，颈椎脱臼处死小鼠，收集肝脏、脾脏和胸腺。取适量肝脏、脾脏和胸腺，称重，生理盐水漂洗，用滤纸吸干水分后，按组织与预冷生理盐水按1：9质量体积比制成 $10 \%$ 组织匀浆， $2 \ : 5 0 0 \ : \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，收集上清液待测。
+
+# 1.4 指标检测及方法
+
+1.4.1肝脏、脾脏和胸腺T-AOC、抑制羟自由基能力和POD 活性的检测肝脏、脾脏和胸腺的T-AOC、抑制羟自由基能力和POD 活性均按试剂盒进行操作检测。T-AOC 采用化学比色法测定，抑制羟自由基能力采用Fenton反应法测定，POD 活性采用比色法测定。
+
+# 1.4.2qRT-PCR检测脾脏和胸腺MAPK信号通路中相关基因的表达量
+
+# 1.4.2.1 引物设计与合成
+
+根 据GenBank 登录号 ASK1（NM_008580.4）、JNK（NM_001310452）、P38（NM_001168508.1）和β-肌动蛋白（β-actin）（NM_007393）的基因序列，按照qRT-PCR引物设计要求来设计引物。引物如下：ASK1上、下游引物分别为${ 5 } ^ { \prime }$ CCTGTGTGCCACCTGAACTCTC-3'， ${ 5 } ^ { \prime }$ -ACTAGCGTGTAATCCTCAGCCAGAA-3'；JNK上 下游引物分别为 ${ 5 } ^ { \prime }$ -TCTCCAGCACCC ATACATCAA-3'${ 5 ^ { \prime } }$ -CCCTCTCATCTAACTGCTTGTCC- $3 ^ { \prime }$ ； $P 3 8$ （204号 上、下游引物分别为${ 5 ^ { \prime } }$ -CGTTCTGAGCCAGGCAAGTG ${ \cdot } 3 ^ { \prime }$ ， $5 ^ { \prime }$ -CAAACAGCTTGCTCCTGAAGTGA-3'; $\beta$ -actin上、下游引物分别为 $5 ^ { \prime } .$ CATCCGTAAAGACCTCTATGCCAAC- ${ \cdot } 3 ^ { \prime }$ ， $5 ^ { \prime }$ -ATGGAGCCACCGATCCACA- $3 ^ { \prime }$ 。引物由广州瑞真生物技术有限公司合成。
+
+# 1.4.2.2总RNA 提取、RT-PCR 和qRT-PCR
+
+取 $0 . 0 5 { \sim } 0 . 1 0 \ \mathrm { g }$ 组织进行匀浆，使用Trizol法提取总RNA。用核酸紫外分析仪测定RNA样品的浓度与纯度，用 $0 . 8 \%$ 的琼脂糖凝胶电泳检测RNA的质量与完整性。用逆转录试剂盒合成 RNA，使用 SYBR Green I荧光染色法和 Rotor Gene 7300 Real-time PCR 仪进行qRT-PCR。反应条件： $9 5 ~ ^ { \circ } \mathrm { C }$ 预变性 $3 0 ~ \mathrm { s }$ ， $9 5 ~ ^ { \circ } \mathrm { C }$ 反应5s与 $6 0 ~ ^ { \circ } \mathrm { C }$ 反应30s交替40个循环，仪器将目的基因和内参基因的溶解曲线和扩增曲线记录下来分析，保存样本的 $\beta$ -actin和目的基因的Ct值，采用 $2 ^ { - \Delta \triangle _ { \mathrm { C t } } }$ 法计算进行相对定量分析。
+
+1.4.3蛋白质免疫印迹(Western Blot)法检测脾脏 MAPK信号通路中相关蛋白的表达量
+
+取适量组织加裂解液匀浆裂解， $4 ^ { \circ } \mathrm { C }$ 、 $1 2 0 0 0 \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，取上清，BCA 法测定蛋白浓度。将蛋白样品煮沸变性，用 $10 \%$ 的SDS-PAGE电泳，SDS-PAGE电泳后将目的蛋白转移到聚偏二氟乙烯（PVDF）膜上，用含 $0 . 2 \%$ 的明胶和 $0 . 1 \%$ 的 TBST 的封闭液封闭1h,弃封闭液，再用封闭液稀释的ASK1、JNK、P38 和 $\beta$ -actin抗体 $4 ^ { \circ } \mathrm { C }$ 孵育过夜，洗膜后用稀释后的二抗 $3 7 ^ { \circ } \mathrm { C }$ 孵育1h,洗膜后加ECL显影液在蛋白条带成像仪上进行显影，使用Bio-Rad仪器进行蛋白曝光读图，使用ImageJ软件测得各个条带的灰度值，将每一个目的条带的灰度值与 $\beta$ -actin 的灰度值进行比较，以NC 组蛋白的相对含量为1，试验组目的蛋白的相对含量与NC组目的蛋白的相对含量进行比较，计算出与NC组的比值。
+
+# 1.5 数据分析与处理
+
+采用 SPSS17.0软件对试验结果进行数据分析，多组间平均值比较采用单因素方差分析，
+
+两两比较采用 $q$ 检验，结果以平均值 $\scriptstyle \pm$ 标准差表示， $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+2.1BA对小鼠肝脏T-AOC、抑制羟自由基能力和POD 活性的影响由表1可见，与 NC 组相比，Dex 组肝脏T-AOC 和抑制羟自由基能力均极显著下降L $_ { . } { P } { < } 0 . 0 1 \$ )，肝脏POD活性有所下降，但差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )；与Dex组相比，0.25、0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组肝脏 T-AOC、抑制羟自由基能力以及POD 活性（除 $0 . 2 5 ~ \mathrm { m g / k g ~ B A }$ 组POD活性）均显著或极显著升高（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。
+
+表1BA对小鼠肝脏T-AOC、抑制羟自由基能力和POD 活性的影响
+
+Table 1Effects of BA on T-AOC,ability of inhibiting hydroxyl radical and POD activity in liver
+
+<html><body><table><tr><td colspan="2"></td><td>of mice</td><td colspan="3">U/mg</td></tr><tr><td rowspan="2">项目Items</td><td colspan="6">组别 Groups</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>NC</td><td>Dex</td><td>0.25 mg/kg BA</td><td>0.50 mg/kg BA</td><td>1.00 mg/kg BA</td><td></td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.35±0.04</td><td>0.22±0.08b</td><td>0.45±0.10d</td><td></td><td>0.65±0.07d</td><td>0.48±0.10d</td></tr><tr><td>抑制羟自由基能力</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>29.78±4.97</td><td>19.31±5.00b</td><td>30.45±4.63d</td><td></td><td>29.08±5.98d</td><td>31.28±3.09d</td></tr><tr><td>Ability of inhibiting</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.12±0.09</td><td>1.06±0.10</td><td>1.08±0.07</td><td></td><td>1.19±0.13c</td><td>1.21±0.05d</td></tr><tr><td>hydroxyl radical</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 过氧化物酶POD
+
+与对照组比较，a表示差异显著（ $\cdot P { < } 0 . 0 5$ )，b表示差异极显著（ $_ { \scriptstyle P < 0 . 0 1 }$ )；与Dex组比较，c表示差异显著（ $\scriptstyle P < 0 . 0 5$ )，d表示差异极显著（ $P { < } 0 . 0 1 \$ )。下表同。
+
+Compared with control group,a indicated significant difference $( P { < } 0 . 0 5 )$ ，andb indicated extremely significant difference（ $P { < } 0 . 0 1$ ）； compared with Dex group,c indicated significant difference $( P { < } 0 . 0 5 )$ , and d indicated extremely significant difference（ $P { < } 0 . 0 1$ ）.The same as below.
+
+2.2BA对小鼠脾脏T-AOC、抑制羟自由基能力和POD 活性的影响
+
+由表2可见，与NC 组相比，Dex 组脾脏T-AOC 和抑制羟自由基能力有所下降，但差异不显著（ $. P { > } 0 . 0 5 \$ )，脾脏POD活性极显著下降（ $_ { \cdot P < 0 . 0 1 } )$ )；与Dex 组相比， $0 . 5 0 \mathrm { m g / k g }$ BA组脾脏T-AOC 极显著升高（ $_ { . } { P } { < } 0 . 0 1 \$ ，0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组脾脏抑制羟自由基能力显著升高（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，0.25和 $1 . 0 0 \mathrm { m g / k g }$ BA 组脾脏POD 活性显著升高（ $_ { . } { \cal P } { < } 0 . 0 5 )$ 。
+
+表2BA对小鼠脾脏T-AOC、抑制羟自由基能力和POD 活性的影响
+
+Table 2Effects of BA on T-AOC,ability of inhibiting hydroxyl radical and POD activity in   
+
+<html><body><table><tr><td colspan="4">spleen of mice U/mg</td></tr><tr><td colspan="2"></td><td colspan="4">组别 Groups</td></tr><tr><td>项目Items</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>NC</td><td>Dex</td><td>0.25 mg/kg BA</td><td>0.50 mg/kg BA</td><td>1.00 mg/kg BA</td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.88±0.09</td><td>0.82±0.07</td><td>0.94±0.18</td><td>1.03±0.14d</td><td>0.89±0.23</td></tr><tr><td>抑制羟自由基能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>21.39±1.76</td><td>18.56±2.34</td><td>21.37±1.77</td><td>22.10±1.92c</td><td>21.77±1.76c</td></tr><tr><td>Ability of inhibiting</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>hydroxyl radical</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4.33±0.54</td><td>3.62±0.29b</td><td>4.20±0.46c</td><td>4.07±0.64</td><td>4.21±0.22c</td></tr></table></body></html>
+
+# 过氧化物酶POD
+
+2.3 BA对小鼠胸腺T-AOC、抑制羟自由基能力和POD活性的影响
+
+由表3可见，与 NC 组相比，Dex 组胸腺T-AOC 和抑制羟自由基能力均极显著下降（ $P { < } 0 . 0 1$ )，胸腺 POD活性显著下降（ $P { < } 0 . 0 5 )$ ；与Dex组相比，0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组胸腺T-AOC、抑制羟自由基能力和POD 活性均显著或极显著升高（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。
+
+表3BA对小鼠胸腺T-AOC、抑制羟自由基能力和POD 活性的影响
+
+Table 3Efects of BA on T-AOC,ability of inhibiting hydroxyl radical and POD activity in
+
+thymusof mice U/mg过氧化物酶POD
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>NC</td><td>Dex</td><td>0.25 mg/kg BA</td><td>0.50 mg/kg BA</td><td>1.00 mg/kg BA</td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.60±0.07</td><td>0.50±0.06b</td><td>0.51±0.04</td><td>0.58±0.10c</td><td>0.64±0.06d</td></tr><tr><td>抑制羟自由基能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>19.77±3.08</td><td>12.08±1.61b</td><td>13.79±3.70</td><td>15.76±2.65c</td><td>16.52±2.66d</td></tr><tr><td>Ability of inhibiting</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>hydroxyl radical</td><td>1.72±0.30</td><td>1.37±0.11a</td><td>1.57±0.16</td><td>2.03±0.15d</td><td>2.42±0.24d</td></tr></table></body></html>
+
+2.4BA对小鼠脾脏MAPK信号通路中ASK1、JNK 和 $P 3 8 \mathrm { m R N A }$ 表达量的影响
+
+由图1可见，与NC组相比，Dex 组脾脏ASK1、JNK和 $P 3 8 \mathrm { m R N A }$ 表达量均极显著升高 $( P { < } 0 . 0 1 )$ ；与Dex 组相比， $0 . 2 5 \mathrm { m g / k g \ B A }$ 组脾脏ASK1mRNA表达量显著降低（ $_ { , P < 0 . 0 5 ) }$ ，0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组脾脏ASK1、JNK 和 $P 3 8 ~ \mathrm { { m R N A } }$ 表达量均极显著降低（ $_ { \cdot P < 0 . 0 1 } )$ °
+
+![](images/8e6176577a1f5384ec81cfeb0c4e722050cfa84e9c035740374b3ab26a42788f.jpg)
+
+与对照组比较，#表示差异显著（ $_ { . { P < 0 . 0 5 } }$ )，##表示差异极显著（ $_ { \scriptstyle P < 0 . 0 1 }$ )；与Dex组比较，\*表示差异显著（ $_ { \cdot P < 0 . 0 5 } )$ ，\*\*表示差异极显著（ $_ { \scriptstyle P < 0 . 0 1 }$ )。下图同。
+
+Compared with control group,# indicated significant difference $( P { < } 0 . 0 5 )$ ，and ## indicated extremely significant difference（ $_ { \cdot \textcircled { P < } 0 . 0 1 }$ ）; compared with Dex group,\* indicated significant difference $( P { < } 0 . 0 5 )$ ,and \*\* indicated extremely significant difference（ $P { < } 0 . 0 1$ ）.The same as below.
+
+图1BA对小鼠脾脏ASK1、JNK和 $P 3 8 \mathrm { m R N A }$ 表达量的影响
+
+Fig.1Effects of BA on mRNA expression of ASK1, JNK and $P 3 8$ in spleen of mice
+
+2.5BA对小鼠胸腺MAPK信号通路中 $A S K 1$ 、JNK 和 $P 3 8 \mathrm { m R N A }$ 表达量的影响由图2可见，与NC相比，Dex 组胸腺ASK1、JNK和 $P 3 8 ~ \mathrm { { m R N A } }$ 表达量均极显著升高（ $P { < } 0 . 0 1 \rangle$ ；与Dex 组相比，0.25、0.50和 $1 . 0 0 \mathrm { m g / k g \ B A }$ 组胸腺ASK1、JNK 和 $P 3 8 \mathrm { m R N A }$ 表达量均显著或极显著下降 （ $\cdot P { < } 0 . 0 5$ 或 $P { \ < } 0 . 0 1 \$ ）°
+
+![](images/cd67e14ae8c9a8ce92eea7309b180aca548c02d20d5131c9b2522c9eae4a73c7.jpg)  
+图2BA对小鼠胸腺ASK1、JNK和 $P 3 8 \mathrm { m R N A }$ 表达量的影响  
+Fig.2Effects of BA on mRNA expression of ASK1, JNK and $P 3 8$ in thymus of mice
+
+2.6BA对小鼠脾脏MAPK信号通路中ASK1、JNK和P38蛋白表达量的影响由图3可见，与NC 组相比，Dex 组脾脏ASK1蛋白表达量有所上升，但差异不显著（ $. P { > } 0 . 0 5 )$ ），脾脏JNK 和P38蛋白表达量极显著上升（ $_ { \cdot } P { < } 0 . 0 1 \$ ；与Dex 组相比， $0 . 5 0 \mathrm { m g / k g }$
+
+BA组脾脏ASK1蛋白表达量显著降低（ $. P { < } 0 . 0 5 \$ )，0.25、0.50和1.00mg/kgBA组脾脏JNK和P38蛋白表达量显著或极显著降低（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。
+
+![](images/00e66e9793ed36c10bb96d051f4eb3a1c24ab7296f8d72ae0c716fcbeae4a449.jpg)
+
+A：Western Blot 检测脾脏中 ASK1、JNK 和 P38 蛋白表达量；B：脾脏中ASK1、JNK 和 P38蛋白条带密度柱状图。
+
+A: the ASK1, JNK and P38 protein expresson in spleen which detected by Western Blot; B: protein bands density histogram of ASK1, JNK and P38 in spleen.
+
+图3WestermBlot检测 BA对小鼠脾脏ASK1、JNK和P38蛋白表达量的影响 Fig.3Effects of BA on proteins expression of ASK1, JNK and P38 in spleen of mice detected by
+
+# WesternBlot
+
+3讨论
+
+T-AOC、抑制羟自由基能力和POD 活性可以反映组织的氧化损伤程度。在本试验中，用 Dex 诱导氧化应激模型后，肝脏、脾脏和胸腺的T-AOC、抑制羟自由基能力和POD 活性显著下降，说明Dex成功诱导了氧化应激模型并对小鼠造成了氧化损伤。BA是一种植物源性的抗氧化剂和免疫调节剂。前期体内试验发现，BA 能有效增强小鼠免疫器官的 SOD 和GSH-Px 活性，降低丙二醛含量，从而增强免疫器官的抗氧化能力[12]。此外BA 能通过改善肝脏的氧化还原体系，增强抗氧化能力，降低脂质过氧化作用，对酒精诱导的肝损伤有预防性的保护作用[13]。在本试验研究中，BA预处理增强了肝脏和淋巴器官 T-AOC、抑制羟自由基能力和POD活性，对Dex诱导的氧化损伤具有保护作用。
+
+MAPK 是所有真核生物和大部分原核生物所共有的，在细胞生物信号传导中起到非常重要的作用。MAPK 通过三级激酶反应依次激活，来共同调节着细胞的生长、分化、对环境的应激适应、炎症反应等多种重要的细胞生理/病理过程。MAPK家族主要包括有 JNK、P38 和细胞外受体活化激酶（ERKs）等亚族，ASK1是MAPK激酶激酶（MAPKKK）家族成员之一，在生理状态下，ASK1与硫氧还蛋白（Trx）结合而不具有激活活性。在氧化应激状态下，ROS 直接激活 ASK1或者使 Trx形成二聚体与 ASK1分离而激活 ASK1，激活的ASK1 磷酸化活化MAPK 激酶（MAPKK）中 MKK4/MKK7-JNK 和 MKK3/MKK6-P38，JNK和P38被激活后由细胞质转移至细胞核，促进相关基因转录、表达，同时JNK与P38 还磷酸化激活MAPK、PK2与PK3，活化低分子质量的热休克蛋白，最终激活含半胱氨酸的天冬氨酸蛋白水解酶（Caspase）级联反应，从而导致细胞凋亡[14-7]。因此，在本研究中，我们通过检测JNK-P38MAPK信号通路中相关基因和蛋白的表达来研究BA对Dex 诱导的氧化损伤的分子机制。
+
+有研究报道，Dex主要通过激活JNK或P38MAPK信号通路来诱导肉仔鸡胸肌骨骼肌卫星细胞的氧化应激[18]。与本研究相似，Dex 导致小鼠淋巴器官的 ASK1、JNK 和 $P 3 8 ~ \mathrm { { m R N A } }$ 和蛋白表达量上升。说明Dex 能通过JNK或 P38信号通路诱导淋巴细胞氧化应激。Zheng等[19]报道，BA对 $D _ { \mathbf { \alpha } }$ -半乳糖胺/脂多糖（LPS）诱导的肝损伤有保护作用，其保护机制主要是提高谷胱甘肽的表达，抑制脂质过氧化，促进B淋巴细胞瘤 $- 2 ( B c l - 2 )$ 基因的表达，通过线粒体依赖性机制抑制 JNK和 ERK的磷酸化。Szuster-Ciesielska 等[16]报道，BA作为抗氧化剂，对酒精引起肝星状细胞ROS 的产生具有明显的抑制作用，并通过下调JNK信号通路，减少氧化损伤，从而提高肝星状细胞的活性。在本试验中，BA预处理后，淋巴器官ASK1、JNK和 $P 3 8 ~ \mathrm { { m R N A } }$ 和蛋白表达量下降，说明BA可以通过抑制JNK-P38MAPK信号通路缓解Dex
+
+对淋巴细胞的氧化损伤。
+
+4结论
+
+BA对Dex致淋巴细胞氧化损伤有保护作用，并且这种保护作用与JNK-P38MAPK信号通路有关。
+
+参考文献：
+
+[1] CLIFFORDAA.氧化应激与疾病[J].武书庚译.饲料与畜牧（新饲料）,2009(3):10-12.[2] CLIFFORDAA.氧化应激与疾病[J].武书庚译.饲料与畜牧（新饲料）,2009(4):20-22.[3] 黄权,苏琳.动物体内氧化应激与抗氧化剂应用研究进展[J].中国兽医杂志,2013,47(5):66-69.
+
+[4] PANDEY H,PANDEY P,SINGH S,et al.Production of anti-cancer triterpene (betulinic acid) from callus cultures of different Ocimum species and its elicitation[J].Protoplasma,2015,252(2):647-655.
+
+[5] LIN C K,TSENG C K,CHEN K H,et al.Betulinic acid exerts anti-hepatitis C virus activity via the suppression of NF-kB-and MAPK-ERK1/2-mediated COX-2 expression[J].British Journal of Pharmacology,2015,172(18):4481-4492.
+
+[6]易金娥,邬静,文利新,等.桦木酸的药理作用研究进展[J].中草药,2014,45(14):2118-2124.
+
+[7]朱若岑,夏伟,谭柱良,等.桦木酸对Dex 致小鼠氧化损伤的保护作用[J].中国兽医学报,2016,36(2):305-309.
+
+[8] YI J E,ZHU R C,WU JP,et al.In vivo protective effect of betulinic acid on dexamethasone induced thymocyte apoptosis by reducing oxidative stress[J].Pharmacological Reports,2016,68(1):95-100.
+
+[9] YI J N,ZHU R C,WU J,et al.Ameliorative effect of betulinic acid on oxidative damage and apoptosis inthesplenocytesofdexamethasone treated mice[J].International Immunopharmacology,2015,27(1):85-94.
+
+[10]朱利娟,赵静,向思亭,等.桦木酸对地塞米松致氧化应激小鼠血清指标的影响[J].动物营养学报,2017,29(5):1627-1633.
+
+[11]易金娥,文利新,袁莉芸,等.白桦树中桦木醇的提取与桦木酸合成研究[J].湖南农业大学学报（自然科学版）,2010,36(3):574-580.
+
+[12]易金娥,屠迪,邬静,等.桦木酸对小鼠免疫器官抗氧化能力的影响[J].动物营养学报,2012,24(4):786-790.
+
+[13]夏伟,朱若岑,蒋维维,等.桦木酸对小鼠酒精性肝损伤的保护作用[J].营养学 报,2015,71(1):68-72.
+
+[14]刘乐江,唐圣松.ROS介导JNK信号通路的研究进展[J].现代生物医学进展,2010,10(7):1378-1380.
+
+[15]刘仪,王凯,王介非.氧化应激诱导细胞凋亡的机制[J].中华临床感染病杂志,2008,1(3):185-188.
+
+[16] SZUSTER-CIESIELSKA A,PLEWKA K,DANILUK J,et al.Betulin and betulinic acid attenuate ethanol-induced liver stellate cell activation by inhibiting reactive oxygen species (ROS),cytokine(TNF- $\mathbf { \alpha } \cdot \mathbf { a } .$ TGF- $\beta$ ）production and by influencing intracellular signaling[J].Toxicology,2011,280(3):152-163.
+
+[17] SOGA M,MATSUZAWA A,ICHIJO H.Oxidative stress-induced diseases via the ASK1 signaling pathway[J].International Journal of Cell Biology,2012,2012(3):439587.
+
+[18]王成,武书庚,张海军,等.肉仔鸡卫星细胞氧化应激时MAPK信号通路[J].中国农业科学,2010,43(20):4286-4294.
+
+[19] ZHENGZW,SONG S Z,WU YL,etal.Betulinicacidpreventionof $D$ -galactosamine/lipopolysaccharide liver toxicity is triggered by activation of Bcl-2 and antioxidant mechanisms[J].Journal of Pharmacy and Pharmacology,2011,63(4):572-578.
+
+ZHU Lijuan1,2YI XianglianlZHAO Jing1WANG Xihong1 BLAZEJPozniak3 WEN Lixin1,4 WU Jing1\* YI Jin'e1,4\*   
+(1. College of Veterinary Medicine, Hunan Agricultural University, Changsha 410128, China; 2. Changsha Lvye Bio-Technology Co., Ltd. Changsha 410125 China; 3. Department of   
+Biochemistry, Pharmacology and Toxicology, Faculty of Veterinary Medicine, Wroctaw University of Environmental and Life Sciences,Wroclaw 50-375,Poland; 4. Hunan Co-Innovation Center Production Safety, Changsha 410128, China)
+
+Abstract: The objective of this research was to evaluate the effects of betulinic acid (BA） on ameliorating dexamethasone (Dex)-induced oxidative damage and the mechanism for the BA-mediated antioxidative efects.Forty male healthy Kunming mice were randomly divided into 5 groups,which were control (NC） group,Dex group, $0 . 2 5 ~ \mathrm { m g / k g }$ BA group, $0 . 5 0 ~ \mathrm { m g / k g }$ BA group and $1 . 0 0 ~ \mathrm { m g / k g }$ BA group. NC and Dex groups were administered orally with $1 \%$ starch solution,and the other groups were administered orally with different doses of BA for 14 days. Except NC group, mice in the other groups were intraperitoneal injected Dex ( $( 2 5 \mathrm { m g / k g ) }$ to set up oxidative damage model. The total antioxidant capacity (T-AOC),ability of inhibiting hydroxyl radical and peroxidase (POD) activity in liver, spleen and thymus were were determined. The gene expressions of apoptosis signal-regulating kinase 1 (ASK1), c-Jun N-terminal kinase (JNK) and $P 3 8$ in spleen and thymus through mitogen-activated protein kinase (MAPK) signal transduction pathway were determined by RT-PCR. The protein expressons of ASK1, JNK and P38 in spleen through MAPK signal transduction pathway were determined by Western Blot. The results showed as follows: 1) compared with NC group,the T-AOC,ability of inhibiting hydroxyl radical and POD activity in liver,and POD activity in spleen, and T-AOC and ability of inhibiting hydroxyl radical in thymus of Dex group were significantly decreased $( P { < } 0 . 0 1 )$ ). Compared with Dex group, the T-AOC,ability of inhibiting hydroxyl radical and POD activity in liver of 0.50 and $1 . 0 0 ~ \mathrm { m g / k g }$ BA groups were significantly increased $_ { . } { \cal P } { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ); the T-AOC in spleen of
+
+$0 . 5 0 ~ \mathrm { m g / k g }$ BA group,the ability of inhibiting hydroxyl radical in spleen of 0.50 and $1 . 0 0 ~ \mathrm { m g / k g }$ BA groups, and the POD activity in spleen of 0.25 and $1 . 0 0 ~ \mathrm { m g / k g }$ BA groups were significantly increased ( $_ { \it P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ); the T-AOC,ability of inhibiting hydroxyl radical and POD activity in thymus of 0.50 and $1 . 0 0 ~ \mathrm { m g / k g }$ BA groups were significantly increased ( $\scriptstyle \overbrace { P { < } 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). 2) Compared with NC group, the mRNA expressions of ASK1, JNK and $P 3 8$ in spleen and thymus of Dex group were significantly increased $( P { < } 0 . 0 1 )$ ； compared with Dex group， the mRNA expressions of ASK1, JNK and $P 3 8$ in spleen and thymus of 0.50 and $1 . 0 0 ~ \mathrm { m g / k g }$ BA groups were significantly decreased ( $_ { \it P - 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). 3) Compared with NC group, the protein expressions of JNK and P38 in spleen of Dex group were significantly increased $( P { < } 0 . 0 1 )$ ); compared with Dex group，the ASKl protein expressions in spleen of $0 . 5 0 \mathrm { \ m g / k g }$ BA group was significantly decreased $( P { < } 0 . 0 5 )$ ，the protein expressions of JNK and P38 in spleen of O.25, O.50 and 1.00 $\mathrm { m g / k g }$ BA groups were significantly decreased( $_ { ( P < 0 . 0 5 }$ or $P { \ < } 0 . 0 1$ )．In conclusion，BA pretreatment can increase T-AOC,ability of inhibiting hydroxyl radical and POD activity in liver, spleen and thymus of mice induced by Dex, decrease the gene expressions of ASK1, JNK and $P 3 8$ in spleen and thymus and the protein expressons of ASK1, JNK and P38 in spleen of mice induced by Dex. BA shows preventive protection of oxidative damage induced by Dex,and the protection is related to JNK-P38 MAPK signal pathway. .
+
+Key words: betulinic acid; dexamethasone; oxidative stress; MAPK²

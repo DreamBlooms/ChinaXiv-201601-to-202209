@@ -1,0 +1,214 @@
+# 全球寡核苷酸类药物开发现状与趋势
+
+毛开云 陈大明 范月蕾 王跃 江洪波\*\*（中国科学院上海生命科学信息中心，上海，200031)
+
+摘要：目的：从产品开发角度分析寡核苷酸类药物的发展现状和未来趋势。方法：检索科睿唯安（Clarivate Analytics）的Cortellis 数据库的数据，利用定量分析法和对比分析法对检索结果进行分析。结果：目前已有7种寡核苷酸类药物上市，4种寡核苷酸类药物处于预注册及16种处于临床I期，未来市场上的寡核苷酸类药物将呈现快速增长趋势。此外，寡核苷酸类药物的商业交易也越来越多，目前共发生包括药物开发及商业化许可、专利资产出售以及早期药物研发合作等10余起交易，其中药物开发及商业化许可是最主要的交易模式。结论：虽然寡核苷酸类药物市场尚处于起步阶段，但随着未来技术的不断发展改进，相信未来有更多的寡核苷酸类药物上市，为癌症及其他疾病的治疗提供新的契机。
+
+关键词：寡核苷酸类药物；市场竞争；临床研发
+
+# Development Status and Trend Analysis of Oligonucleotide Therapies
+
+MAOKai-yun, CHENDa-ming,FAN Yue-lei, WANG Yue, JIANG Hong-bo (Shanghai Information Center forLife Sciences,Chinese Academy of Sciences，Shanghai,2Ooo31,China)
+
+【Abstract】 Objective: To analyze the development status and trend of Oligonucleotide therapies in the sense of product manufacturing. Methods:Based on the Cortellis database of Clarivate Analytics, this paper analyzed the searching results with utilizing quantitative analysis and comparative analysis methods. Results: Currently， 7 Oligonucleotide therapies have been launched into markets,another 4 Oligonucleotide therapies are at registration phase and 16 at Phase III clinical trial. In addition，business deals related to Oligonucleotide therapies are increasing in recent years, including more than l2 deals so far,ranging from drug development, commercial license,and patent assets sales to drug R&D cooperation in early phase.As for China, several Oligonucleotide therapies are at clinical stage, and a bright prospect can be expected for Chinese Oligonucleotide therapeutic product markets. Conclusion: Although Oligonucleotide therapies market still at its preliminary stage,however, with the continuous development and improvement of future technology, it is believed that more Oligonucleotide therapies will be launched in the future,providing a new opportunity for the treatment of cancer and other diseases.
+
+Key Words: Oligonucleotide Therapies ;Market Competition; Clinical R&D寡核苷酸是一类20个左右碱基的短链核苷酸的总称，包括脱氧核糖核酸
+
+DNA 或核糖核酸 RNA 内的核苷酸[I]。寡核苷酸可以很容易地和它们的互补链结合，所以常用来作为探针确定DNA或RNA的结构；而其作为候选药物应用的研究则始于大约30年前，包括反义寡核苷酸、三链DNA、CpG 寡核苷酸、核酸适配体（Aptamer）、Decoy、核酶、siRNA、microRNA等[2]。寡核苷酸可以抑制或替代某些基因的功能，因而具有药物开发价值，有些内源性寡核酸（如microRNA）对疾病诊断、治疗和预后评估等有重要意义。目前医药工业界开展临床试验比较多的是反义寡核苷酸、siRNA及核酸适配体。因此，本文将寡核苷酸类药物作为主要的研究对象，研究寡核苷酸类药物及市场发展现状，希望为我国相关产业的发展提供参考。
+
+# 1．研究方法
+
+# 1.1数据来源
+
+采用科睿唯安（Clarivate Analytics，原汤森路透知识产权与科技事业部）的Cortellis（原名ThomsonReutersPharma）数据库检索对象，检索时间是2017年12月7日，其中药物研发和药物交易分别从高级检索中"Drugs"和"Deals"两个入口检索。其中药物研发和药物交易检索均采用"技术（Technologies）”分类中"生物技术概念（Biotechnology concept）”，选择"核酸技术（Nucleic acid technology ）”技术中"核苷酸技术（Nucleotide technology)，在核苷酸子结构中找到"寡核苷酸（Oligonucleotide）”，并将其作为检索对象。
+
+# 1.2分析方法
+
+主要采用定量分析法和对比分析法。在定量分析法方面，将数量特征、数量关系与数量变化进行统计分析，以作为对比分析的基础；在对比分析法方面，通过实际数与基数的对比来提示实际数与基数之间的差异，借以了解分析对象目前所处的现状和趋势。
+
+# 2．结果
+
+# 2.1总体研发现状
+
+从Cortellis 的数据来看，全球至今共记录有1590个寡核苷酸类药物，除去处于暂停、终止和没有研发报道状态的药物外，目前处于有效研发阶段药物共计731个，其中绝大多数产品处于研发与临床阶段，处于研发阶段的产品占产品总量的 $3 6 . 1 \%$ ，处于临床阶段的产品占产品总量的 $9 . 2 \%$ ，可见寡核苷酸类药物研
+
+发的热度升温。
+
+![](images/f804b5f60fa44edc4a735ffff431e033cdb9878461f5d35faa0183e0f08210ab.jpg)  
+图1全球寡核苷酸类药物总体研发现状
+
+注：（1）预注册：已提交该药物上市的申请，在等待批准的阶段；（2）发现：包括发现/探索及临床前的阶段，在动物体内的临床前药理学/毒理学评价；（3）临床：原始信息中已经提到临床试验，但未明确说是哪个阶段。
+
+# Fig.1 the Global R&D Status of Oligonucleotide Therapies
+
+# 2.2重要产品研发进展
+
+目前，共有27件产品处于临床IⅢI期、注册与上市阶段，这些产品都是或极大可能上市造福患者，这些产品中有7件产品处于上市阶段（表1)，4件产品处于预注册阶段（表2)，16件产品处于临床II期（表3)。对这些产品上市的国家和地区进行分析后发现，发达国家是寡核苷酸类药物的优先上市国家，源于这些国家先进的科研技术、完善的药品审核流程及监管体制，印度、巴西和以色列等发展中国家也相继有寡核苷酸类药物进入注册阶段与临床IⅢI期。
+
+# 2.2.1已上市
+
+# (1) Mipomersen sodium/Kynamro
+
+由Ionis Pharmaceuticals 公司 和 Kastle Therapeutics 公司合作开发的Mipomersen Sodium（商品名：Kynamro）于2013年1月29日获美国食品药品管理局（FDA）批准，用于纯合子型家族性高胆固醇血症（HoFH）患者，作为降脂药物和饮食的辅助药物，以降低低密度脂蛋白胆固醇（LDL-C）、载脂蛋白
+
+B（Apo B）、总胆固醇（TC）和非高密度脂蛋白胆固醇（非HDL-C)[3]。MipomersenSodium 是一种以人类apo B-100 信使核糖核酸为靶点的反义寡核苷酸，而 apoB-100 是LDL及其代谢前体极低密度脂蛋白的主要载脂蛋白。MipomersenSodium为一种注射剂，每周给药1次，与降脂药物及饮食联合使用，以阻止脂肪微滴的分泌。一项共有51名HoFH患者参加的临床研究对Mipomersen Sodium的有效性和安全性进行了评价，结果显示，接受Mipomersen Sodium 的受试者在治疗阶段的前 26周，其LDL一C平均降低了 $2 5 \%$ ；最常见不良反应包括注射部位反应、流感样症状、恶心、头痛及肝酶水平升高。
+
+# (2) Nusinersen/Spinraza
+
+由Ionis Pharmaceuticals 公司和百健（Biogen）公司共同合作开发的Nusinersen（商品名：Spinraza）分别于2016年12月23日获得美国FDA 批准和 2017年6月1日获得欧盟药品监管（EMA）批准上市，用于治疗儿童和成人脊髓性肌萎缩症（又称脊肌萎缩症，Spinal Muscular Atrophy，SMA），这也是 FDA 首次批准用于治疗该疾病的药物。Nusinersen 为一种反义寡核苷酸，用于治疗染色体 5q突变导致的运动神经元存活基因（SMN）蛋白缺乏所致 SMA。SMA 转基因动物模型的体外分析和试验显示,Nusinersen 可增加 SMN2mRNA转录体所含的外显子7及产生完整SMN 蛋白所含的外显子 $7 ^ { [ 4 ] }$ 。Nusinersen剂型为注射剂，可直接注射到围绕脊髓的体液中，适用于各类SMA患者。Nusinersen的有效性经临床试验得到验证，结果显示 $40 \%$ 的治疗组患者运动能力有改善，而对照组患者则无1例运动能力有改善。
+
+# (3) Eteplirsen/Exondys 51
+
+由Sarepta Therapeutics 公司研发 Eteplirsen（商品名：Exondys 51）于2016年9月19 日获得美国FDA加速批准上市，用于治疗可跳跃外显子51的杜氏肌营养不良症（Duchenne Muscular Dystrophy,DMD）。Eteplirsen 采用了一种新颖的磷酰二胺吗啉代寡核苷酸和外显子跳跃技术，目的是修复mRNA的阅读框来部分纠正遗传缺陷。作为一种反义RNA，Eteplirsen 通过与肌营养不良蛋白前体信使RNA 外显子 51 结合，在信使 RNA 过程中去除可跳跃外显子 51的基因突变患者的外显子51，大约 $13 \%$ 的DMD症患者可能适合通过该机制靶向第 51个外显子的治疗方案[5]。
+
+# (4) Defibrotide Sodium /Defitelio
+
+由Gentium公司研发Defibrotide Sodium（商品名：Defitelio）分别于2013年10月22日获得欧盟批准上市和2016年3月30获得美国FDA批准上市，用于治疗成人和儿童接受造血干细胞移植后发生的重度肝小静脉闭塞症（HepaticVeno-Occlusive Disease，HVOD）（通常并发肾、肺功能异常），这是FDA 批准的首种用于治疗重度肝小静脉闭塞症的药物[6]。Defibrotide Sodium 是一种具有抗血栓及促进纤溶作用的单链寡核苷酸混合物，最早由Gentium研发，后由JazzPharma 公司在2013年以10亿美元收购意大利药企Gentium时一并收购。一项包括 528名患者的临床实验表明，Defibrotide Sodium 治疗的肝静脉阻塞患者在血液干细胞移植（HSCT）100天后的生存率为 $3 8 \text{‰}$ ，而仅接受支持性护理的患者，其生存率只有 $2 1 - 3 1 \%$ 。
+
+# (5) Rintatolimod/Rintamod
+
+由 Hemispherx Biopharma 公司研发Rintatolimod（商品名：Ampligen）于 2017年3月6 日获得阿根廷 Administracion Nacional de Medicamentos,Alimentos yTecnologiaMedica（ANMAT）授予的新药申请（NDA）批准，用于治疗重症肌痛性脑脊髓炎（Myalgic Encephalomyelitis,ME）/慢性疲劳综合征（Chronic FatigueSyndrome,CFS）（ME/CFS）[7]，Rintatolimod 是一种RNA 寡核苷酸，是全球获得批准用于治疗该适应症的首款药物。该药品由Hemispherx 在拉丁美洲的商业合作伙伴GPPharm 进行营销，Hemispherx 和 GPPharm 正在致力于扩大rintatolimod的批准范围到其他国家，但侧重点是拉丁美洲。
+
+# (6) Pegaptanib Sodium /Macugen
+
+由 NeXstar 公司研发Pegaptanib Sodium（商品名：Macugen）于 2004 年12月获美国 FDA 批准上市，用于治疗年龄相关性黄斑变性（Age-Related MacularDegeneration,AMD）的唯一抗VEGF 适体。Pegaptanib Sodium为一种化学合成的寡核苷酸序列，对血管内皮生长因子VEGF具有高度的亲和力，它能阻止血管生长，抑制新生血管形成，对任何大小和组成的脉络膜新生血管（Choroidal NeoVascularisation，CNV）均有治疗作用，其钠盐用于治疗湿性年龄相关性黄斑变性[8]。Pegaptanib Sodium 最早由 NeXstar 公司研发，2000 年转让给 EyeTech，之后由Pfizer负责美国市场，2005 年销售额达到1.85亿美元，后来随着抗体类药物Lucentis、Avastin 和Eylea上市，2006 年销售额降到 500 万美元，2008 年则
+
+降到120万美元。
+
+# (7) Fomivirsen/Vitravene
+
+由由Ionis Pharmaceuticals 公司和诺华公司共同研发Fomivirsen（商品名：Vitravene)分别于1998 年获得美国FDA批准上市和1999 年获得欧盟 EMA批准上市。Fomivirsen 是FDA批准上市的第一个反义寡核苷酸类药物，由21个硫代脱氧核苷酸组成，核苷酸序列为 $5 ^ { \circ }$ -GCGTTTGCTCTTCTTCTTGCG-3'，主要用于治疗艾滋病（AIDS）病人并发的巨细胞病毒（CMV）性视网膜炎，通过对人类巨细胞病毒（CMV）mRNA的反义抑制发挥特异而强大的抗病毒作用，该药疗效维持久，给药次数少，不良反应轻[9]。上市初期，市场对于抗巨细胞病毒药物的需求甚为迫切，随后由于高活性抗逆转录病毒疗法的发展，巨细胞病毒病例数量急剧下降，于2002年及2006年在欧洲及美国分别退市。
+
+# 2.2.2预注册
+
+# (1) Patisiran
+
+2017年9月AlnylamPharmaceuticals 和赛诺菲旗下健赞公司宣布其RNAi在研新药patisiran在治疗多发神经病变性遗传性ATTR型淀粉样变的3期临床试验中，取得了极佳的结果[10]，Patisiran 利用身体的天然机制，降低引起TTR 淀粉样变的TTR蛋白水平。它可以靶向和沉默特定信使RNA，阻碍TTR蛋白生成。有助于清除周围组织的TTR淀粉样蛋白沉积，并恢复这些组织的功能。Alnylam于2017年11月提交首个新药申请，并随后推出营销授权申请。从2018年上半年开始,SanofiGenzyme 目前正准备向日本、巴西和其他国家提交patisiran的监管文件。在获得监管部门批准后，Alnylam将在美国、加拿大和西欧商业化patisiran，而 SanofiGenzyme 将在世界其他地区商业化该药物。
+
+# (2）Volanesorsen
+
+2016 年12月，由Akcea Therapeutics 与Ionis Pharmaceuticals 共同研发的新药 Volanesorsen 完成了期临床试验，结果表明患者体内的甘油三酯水平显著降低[11]。Volanesorsen 旨在治疗两种代谢疾病：家族性乳糜微粒血症综合征（FamilialChylomicronemia Syndrome，FCS）与家族性部分脂肪营养不良（FamilialPartialLipodystrophy，FPL）。2017年8月Akcea Therapeutics公司向美国FDA 提交了volanesorsen的新药申请（NDA)，用于治疗家族乳糜微粒综合征（FCS)，预计
+
+于2018年上市。
+
+# (3) Inotersen
+
+2017年周围神经系统学会（Peripheral Nerve Society）年上，IonisPharmaceuticals 公布用于治疗家族性淀粉样多发神经病变（FamilialAmyloidPolyneuropathy,FAP）的在研新药 Inotersen 的3期临床试验最新试验数据[12]。Inotersen 是一种反义核苷酸药物，专门针对甲状腺素转运蛋白（Transthyretin,TTR）淀粉样变性，可以抑制所有TTR蛋白（包括突变型和野生型）的生成，该药已经在多种不同的TTR蛋白淀粉样变性引起的疾病患者上进行临床试验，并展示出了强劲且持久的对TTR蛋白表达的抑制功效。针对FAP 适应症，Inotersen已经获得美国FDA颁发的孤儿药和快速通道资格认定，以及欧洲EMA的孤儿药认定。2017年11月Ionis Pharmaceuticals 向美国 FDA 提交了 Inotersen的新药申请，用于治疗FAP，预计于2018年上市。
+
+# (4) Alicaforsen
+
+Alicaforsen是一种细胞间粘附分子1（ICAM-1）的反义寡核苷酸，用于治疗慢性肠炎及结肠袋炎[13]。2017年5月Atlantic Healthcare 向美国FDA 提交了Alicaforsen的新药申请（NDA)，用于治疗憩室炎。
+
+# 2.2.3临床II期
+
+除了已经上市和进入新药申请阶段的寡核苷酸类药物外，还有多个产品进入临床I期，如寡核苷酸类药物QPI-1007被用于治疗非动脉炎性前部缺血性视神经病变（NAION)，同时具有治疗青光眼的潜力。苏州瑞博生物技术有限公司与其战略合作伙伴美国Quark 制药公司（QuarkPharmaceuticals，Inc）开发的寡核苷酸类药物QPI-1007在中国的国际多中心临床试验正式获得国家食品药品监督管理局（CFDA）批准，本次批准的是针对NAION的国际多中心II/III期关键研究，此前QPI-1007已被美国FDA认定为孤儿药。QPI-1007是获CFDA批准中国临床试验的第一例寡核苷酸类药物。该药物在中国以及亚洲区域（除少数特定国家外)的开发和市场权益由注册于昆山小核酸基地的昆山瑞博夸克医药科技有限公司承担和持有。
+
+其他还有 QPI-1002，Cobitolimod/Kappaproct，Inclisiran/ALN-PCSsc 等（表3),Inclisiran 是由美国专注核酸干扰药物研发的AlnylamPharmaceuticals 研制的、采用一种多糖基团修饰并具有肝细胞靶向的小干扰核酸（siRNA）药物。Belagenpumatucel-L由NovaRx公司研发，是一种经过基因改造转染了包含免疫抑制因子转化生长因子-β2（TGF- ${ \bf \beta } \cdot { \bf \{ \beta }  \mathrm { ~ } \beta 2 \mathrm { ~ }$ ）反义转基因质粒的同型异体疫苗，可阻断TGF- $_ { \cdot \beta 2 }$ 的免疫抑制作用，阻止肿瘤细胞逃逸免疫监视。Tivanisiran由Sylentis研发，是一种化学合成的辣椒素受体（TRPV1）的小干扰RNA（siRNA）抑制剂，用于治疗眼痛。Aganirsen是DNA翻译寡核苷酸，可抑制胰岛素受体底物1（IRS-1)，被研究用于治疗眼部的新生血管。
+
+表1全球寡核苷酸类药物研发现状（最高研发状态：上市） Table 3 the Global R&D Status of Oligonucleotide Therapies (Highest Status: Launched)   
+
+<html><body><table><tr><td rowspan="2">药物名称/商品名</td><td rowspan="2">靶点</td><td rowspan="2">原研公司</td><td colspan="5">目前研发状态</td></tr><tr><td>在研公司</td><td>适应症 脊髓性肌萎缩</td><td>状态</td><td>国家/地区</td><td>时间</td></tr><tr><td rowspan="8">Nusinersen/ Spinraza</td><td rowspan="8"></td><td rowspan="8">Ionis Pharmaceuticals Inc</td><td rowspan="8">Biogen Inc</td><td>脊髓性肌萎缩</td><td>上市 上市</td><td>美国 北欧</td><td>2016年12月 2017年6月</td></tr><tr><td>脊髓性肌萎缩</td><td></td><td></td><td>2017年8月</td></tr><tr><td>脊髓性肌萎缩</td><td>上市 上市</td><td>日本 德国</td><td>2017年6月</td></tr><tr><td></td><td></td><td>欧洲</td><td></td></tr><tr><td>脊髓性肌萎缩</td><td>上市</td><td></td><td>2017年6月</td></tr><tr><td>脊髓性肌萎缩</td><td>注册</td><td>瑞士</td><td>2017年11月</td></tr><tr><td>脊髓性肌萎缩</td><td>注册</td><td>加拿大</td><td>2017年6月</td></tr><tr><td>脊髓性肌萎缩 脊髓性肌萎缩</td><td>注册 注册</td><td>巴西 澳大利亚</td><td>2017年8月 2017年11月</td></tr><tr><td rowspan="6"></td><td rowspan="6"></td><td>脊髓性肌萎缩</td><td>预注册</td><td>韩国</td><td></td><td>2017年7月</td></tr><tr><td>脊髓性肌萎缩</td><td>预注册</td><td>以色列</td><td></td><td>2017年7月</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脊髓性肌萎缩</td><td>预注册</td><td>阿根廷</td><td></td><td>2017年7月</td></tr><tr><td>脊髓性肌萎缩</td><td>临床Ⅲ期</td><td>台湾</td><td></td><td>2016年8月</td></tr><tr><td>脊髓性肌萎缩</td><td>临床Ⅲ期</td><td></td><td>香港</td><td>2016年8月</td></tr><tr><td rowspan="5">Apolipoprotein B inhibitor/ Mipomersen sodium/Kynamro</td><td rowspan="5">ApoB 基因抑制 剂；载脂蛋白 B100 拮抗剂</td><td rowspan="5">Ionis Pharmaceuticals Inc</td><td rowspan="5">Kastle Therapeutics</td><td>家族性高胆固醇血症 家族性高胆固醇血症</td><td>上市 上市</td><td>美国 阿根廷</td><td>2016年5月 2016年5月</td></tr><tr><td>家族性高胆固醇血症</td><td>上市</td><td>墨西哥</td><td>2016年5月</td></tr><tr><td>家族性高胆固醇血症</td><td>上市</td><td>韩国</td><td>2016年5月</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>家族性高胆固醇血症 家族性高胆固醇血症</td><td>注册 临床Ⅲ期</td><td>秘鲁 南非</td><td>2016年5月 2016年5月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="11">Eteplirsen/ 抗肌萎缩蛋白 Exondys 51 刺激剂</td><td rowspan="9"></td><td rowspan="8"></td><td>高胆固醇血症 高胆固醇血症</td><td>临床Ⅲ期 临床Ⅲ期</td><td>南非 英国</td><td>2016年5月 2016年5月</td></tr><tr><td>高胆固醇血症</td><td>临床Ⅲ期</td><td>巴西</td><td>2016年5月</td></tr><tr><td>家族性高胆固醇血症</td><td>临床Ⅲ期</td><td>新加坡</td><td>2016年5月</td></tr><tr><td>高胆固醇血症</td><td>临床Ⅲ期</td><td>新加坡</td><td>2016年5月</td></tr><tr><td>家族性高胆固醇血症</td><td>临床Ⅲ期</td><td>巴西</td><td>2016年5月</td></tr><tr><td>高胆固醇血症</td><td>临床Ⅲ期</td><td>美国</td><td></td></tr><tr><td>家族性高胆固醇血症</td><td>临床Ⅲ期</td><td>加拿大</td><td>2016年5月 2016年5月</td></tr><tr><td>家族性高胆固醇血症</td><td></td><td>台湾</td><td>2016年5月</td></tr><tr><td>高胆固醇血症</td><td>临床Ⅲ期</td><td>加拿大</td><td></td></tr><tr><td></td><td></td><td>临床Ⅲ期</td><td></td><td>2016年5月</td></tr><tr><td></td><td>高胆固醇血症 杜兴氏肌营养不良症</td><td>临床Ⅲ期 上市</td><td>台湾 美国</td><td>2016年5月</td></tr><tr><td>Sarepta Sarepta Therapeutics Inc Therapeutics Inc Sarepta</td><td></td><td>预注册</td><td></td><td>2016年9月</td></tr><tr><td rowspan="8">Defibrotide/ Defitelio</td><td> Therapeutics Inc</td><td>杜兴氏肌营养不良症</td><td></td><td>欧洲</td><td>2016年11月</td></tr><tr><td rowspan="8">Gentium SpA</td><td>Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>德国</td><td>2014年3月</td></tr><tr><td>Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>奥地利</td><td>2014年3月</td></tr><tr><td>Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>欧洲</td><td>2014年3月</td></tr><tr><td> Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>意大利</td><td>2014年4月</td></tr><tr><td> Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>英国</td><td>2014年5月</td></tr><tr><td>Swedish Orphan Biovitrum AB</td><td>静脉闭塞性疾病</td><td>上市</td><td>欧洲</td><td>2014年11月</td></tr><tr><td>Swedish Orphan Biovitrum AB</td><td>静脉闭塞性疾病</td><td>上市</td><td>北欧</td><td>2014年11月</td></tr><tr><td> Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>法国</td><td>2016年2月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="6"></td><td rowspan="5"></td><td rowspan="5"></td><td> Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>美国</td><td>2016年4月</td></tr><tr><td> Gentium SpA</td><td>静脉闭塞性疾病</td><td>上市</td><td>加拿大</td><td>2017年8月</td></tr><tr><td> Gentium SpA</td><td>静脉闭塞性疾病</td><td>注册</td><td>以色列</td><td>2015年5月</td></tr><tr><td>Handok Inc</td><td>静脉闭塞性疾病</td><td>注册</td><td>韩国</td><td>2016年2月</td></tr><tr><td rowspan="2"> Gentium SpA</td><td rowspan="2">移植物抗宿主病</td><td rowspan="2">临床Ⅲ期 上市</td><td rowspan="2">欧洲 阿根廷</td><td rowspan="2">2012年2月</td></tr><tr><td colspan="2">Hemispherx Biopharma Inc</td></tr><tr><td>Rintatolimod/ Rintamod</td><td>2,5-寡腺苷酸合 成酶的刺激剂； I型干扰素受体 激动剂刺激剂; 核糖核酸酶; Toll 样受体3拮</td><td>Hemispherx Biopharma Inc</td><td>Hemispherx Biopharma Inc</td><td>慢性疲劳综合征 慢性疲劳综合征</td><td>临床Ⅲ期</td><td>美国</td><td>2017年3月 1992年12月</td></tr><tr><td rowspan="9">Pegaptanib/ Macugen</td><td rowspan="9">抗剂 VEGF受体拮抗 NeXstar</td><td rowspan="9"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pfizer Inc Valeant</td><td>湿性年龄相关性黄斑变性 湿性年龄相关性黄斑变性</td><td>上市</td><td>加拿大 美国</td><td>2005年9月</td></tr><tr><td>Pharmaceuticals International Inc</td><td></td><td>上市</td><td></td><td>2012年4月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>希腊</td><td></td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>日本</td><td>2008年10月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>斯洛伐克</td><td></td></tr><tr><td>Pharmaceuticals Inc Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>西班牙</td><td></td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>葡萄牙</td><td>2008年3月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>丹麦</td><td></td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>EU</td><td>2006年5月</td></tr><tr><td></td><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>捷克</td><td></td></tr><tr><td></td><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>上市</td><td>法国</td><td>2008年8月</td></tr><tr><td></td><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>注册</td><td>阿根廷</td><td>2006年2月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="10"></td><td rowspan="10"></td><td rowspan="10"></td><td>Pfizer Inc Pfizer Inc</td><td>湿性年龄相关性黄斑变性 湿性年龄相关性黄斑变性</td><td>注册 注册</td><td>巴西</td><td>2005年5月</td></tr><tr><td></td><td>湿性年龄相关性黄斑变性</td><td></td><td>菲律宾 拉脱维亚</td><td>2006年2月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>注册</td><td></td><td>2007年11月</td></tr><tr><td>Pfizer Inc Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>注册</td><td>秘鲁</td><td>2006年2月</td></tr><tr><td></td><td></td><td>注册</td><td>巴基斯坦</td><td>2006年2月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>注册</td><td>德国</td><td>2006年12月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>注册</td><td>克罗地亚</td><td>2007年4月</td></tr><tr><td>Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>注册</td><td>比利时</td><td>2007年11月</td></tr><tr><td>Pfizer Inc Pfizer Inc</td><td>湿性年龄相关性黄斑变性</td><td>预注册</td><td>瑞士</td><td>2005年5月</td></tr><tr><td>CIBA Vision</td><td>湿性年龄相关性黄斑变性 巨细胞病毒性视网膜炎</td><td>预注册 上市</td><td>澳大利亚 瑞士</td><td>2005年1月 2000年4月</td></tr><tr><td>Fomivirsen/</td><td>CIBA Vision Corp</td><td></td><td></td><td></td><td></td></tr><tr><td>Vitravene</td><td>Ionis Pharmaceuticals Inc Corp</td><td></td><td>巨细胞病毒性视网膜炎 上市</td><td>巴西</td><td></td><td>2000年4月</td></tr></table></body></html>
+
+表2全球寡核苷酸类药物研发现状（最高研发状态：预注册）  
+able 4 the Global R&D Status of Oligonucleotide Therapies （Highest Status: Pre-Registratio!   
+
+<html><body><table><tr><td rowspan="2">药物名称/商品名</td><td rowspan="2">靶点</td><td rowspan="2">原研公司</td><td colspan="5">目前研发状态</td></tr><tr><td>在研公司</td><td>适应症</td><td>状态</td><td>国家/地区</td><td>时间</td></tr><tr><td rowspan="5">Patisiran</td><td rowspan="5">淀粉样蛋白沉 积抑制剂；TTR 基因抑制剂</td><td rowspan="5">Alnylam Pharmaceuticals Inc</td><td>Alnylam Pharmaceuticals Inc</td><td>家族性淀粉样变性神经病</td><td>预注册</td><td>美国</td><td>2017年11月</td></tr><tr><td>Alnylam Pharmaceuticals Inc</td><td>家族性淀粉样变性神经病</td><td>临床Ⅲ期</td><td>台湾</td><td>2014年10月</td></tr><tr><td>Alnylam Pharmaceuticals Inc</td><td>家族性淀粉样变性神经病</td><td>临床Ⅲ期</td><td>欧洲</td><td>2014年10月</td></tr><tr><td>Alnylam Pharmaceuticals Inc</td><td>家族性淀粉样变性神经病</td><td>临床Ⅲ期</td><td>韩国</td><td>2014年10月</td></tr><tr><td> Sanofi Genzyme</td><td>家族性淀粉样变性神经病</td><td>临床Ⅲ期</td><td>日本</td><td>2015年3月</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td colspan="2"></td><td> Alnylam Pharmaceuticals Inc</td><td>家族性淀粉样变性神经病</td><td>临床Ⅱ期</td><td>巴西</td><td>2012年6月</td></tr><tr><td rowspan="5">volanesorsen</td><td rowspan="6">载脂蛋白C3受 Ionis 体拮抗剂 Pharmaceuticals Inc</td><td>Akcea Therapeutics Inc Akcea Therapeutics Inc</td><td>I型高脂蛋白血症 I型高脂蛋白血症</td><td>预注册 预注册</td><td>欧洲 美国</td><td></td><td>2017年7月 2017年8月</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Akcea Therapeutics Inc</td><td>I型高脂蛋白血症</td><td>预注册</td><td>加拿大</td><td></td><td>2017年9月</td></tr><tr><td> Akcea Therapeutics Inc</td><td>高脂蛋白血症</td><td>临床Ⅲ期</td><td>美国</td><td></td><td>2015年1月</td></tr><tr><td>Akcea Therapeutics Inc</td><td>高脂蛋白血症</td><td>临床Ⅲ期</td><td>加拿大</td><td></td><td>2015年6月</td></tr><tr><td rowspan="4">淀粉样蛋白沉</td><td> Akcea Therapeutics Inc</td><td>脂肪代谢障碍 脂肪代谢障碍</td><td>临床Ⅲ期</td><td></td><td>加拿大</td><td>2015年10月</td></tr><tr><td>Akcea Therapeutics Inc</td><td></td><td></td><td>临床Ⅲ期</td><td>美国</td><td>2015年10月</td></tr><tr><td>Ionis</td><td>Ionis Pharmaceuticals Inc Ionis Pharmaceuticals Inc</td><td>家族性淀粉样变性神经病 家族性淀粉样变性神经病</td><td>预注册 预注册</td><td>EU</td><td>2017年11月 2017年11月</td></tr><tr><td>Pharmaceuticals Inc</td><td></td><td></td><td></td><td>美国</td><td></td></tr><tr><td rowspan="4">Alicaforsen</td><td rowspan="4">ICAM-1基因抑 制剂 Pharmaceuticals Inc</td><td rowspan="4">Ionis</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Atlantic Healthcare plc</td><td>憩室炎</td><td>预注册</td><td>美国</td><td>2017年5月</td></tr><tr><td>Atlantic Healthcare plc Atlantic Healthcare plc</td><td>憩室炎 溃疡性结肠炎</td><td>临床Ⅲ期 临床Ⅲ期</td><td>欧洲</td><td>2007年12月</td></tr><tr><td></td><td></td><td></td><td>英国</td><td>2007年12月</td></tr><tr><td rowspan="4"></td><td rowspan="4"></td><td>Atlantic Healthcare plc</td><td>憩室炎</td><td>临床Ⅲ期</td><td>加拿大</td><td></td><td>2016年2月</td></tr><tr><td> Atlantic Healthcare plc</td><td>憩室炎</td><td>临床Ⅲ期</td><td>以色列</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>2016年2月</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表3全球寡核苷酸类药物研发现状（最高研发状态：临床III期）  
+Table 5 the Global R&D Status of Oligonucleotide Therapies （Highest Status: Phase II Clinical Trail   
+
+<html><body><table><tr><td rowspan="2">药物名称/商品名</td><td rowspan="2">靶点</td><td rowspan="2">原研公司</td><td colspan="5">目前研发状态</td></tr><tr><td>在研公司</td><td>适应症</td><td>状态</td><td>国家/地区</td><td>时间</td></tr><tr><td>QPI-1007/cosdosiCASP2 基因抑制</td><td></td><td>Quark</td><td> Quark Pharmaceuticals Inc</td><td>眼外伤</td><td>临床Ⅲ期</td><td>美国</td><td>2015年10月</td></tr></table></body></html>
+
+zrB7041-11111:71151111   
+
+<html><body><table><tr><td rowspan="8">ran</td><td rowspan="8">剂</td><td rowspan="8"></td><td>Pharmaceuticals Inc Quark Pharmaceuticals Inc</td><td>眼外伤 眼外伤</td><td>临床Ⅲ期</td><td>欧洲</td><td>2016年3月</td></tr><tr><td>Biocon Ltd</td><td></td><td>临床Ⅲ期</td><td>印度</td><td>2016年3月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>眼外伤</td><td>临床Ⅲ期</td><td>印度</td><td>2016年3月</td></tr><tr><td>Quark Pharmaceuticals Inc Kunshan RiboQuark Pharmaceutical</td><td>眼外伤 眼外伤</td><td>临床Ⅲ期 临床Ⅲ期</td><td>以色列</td><td>2016年3月 2017年8月</td></tr><tr><td> Technology Co Ltd</td><td></td><td></td><td>中国</td><td></td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>眼外伤</td><td>临床Ⅲ期</td><td>中国</td><td>2017年11月</td></tr><tr><td> PYRAMID Laboratories, Inc</td><td>眼外伤</td><td>临床Ⅲ期</td><td>中国</td><td>2017年11月</td></tr><tr><td>Fountain Medical Development</td><td>眼外伤</td><td>临床Ⅲ期</td><td>中国</td><td>2017年11月</td></tr><tr><td>Quark Pharmaceuticals Inc Quark Pharmaceuticals Inc</td><td>眼外伤 眼外伤</td><td></td><td>临床Ⅲ期</td><td>澳大利亚</td><td>2017年11月</td></tr><tr><td rowspan="5"></td><td></td><td></td><td></td><td>临床Ⅲ期</td><td>新加坡</td><td>2017年11月</td></tr><tr><td> Quark Pharmaceuticals Inc</td><td>青光眼</td><td>临床Ⅱ期</td><td>美国</td><td></td><td>2013年12月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>青光眼</td><td>临床Ⅱ期</td><td>新加坡</td><td></td><td>2014年6月</td></tr><tr><td> Quark Pharmaceuticals Inc</td><td>青光眼</td><td>临床Ⅱ期</td><td></td><td>越南</td><td>2014年6月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td></td><td>肾移植排斥反应</td><td>临床Ⅲ期</td><td>美国</td><td>2015年12月</td></tr><tr><td rowspan="6">QPI-1002</td><td rowspan="6">TP53基因抑制剂</td><td rowspan="7">Quark Pharmaceuticals Inc</td><td>Quark Pharmaceuticals Inc</td><td>肾移植排斥反应</td><td>临床Ⅲ期</td><td>欧洲</td><td>2015年12月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>肾移植排斥反应</td><td>临床Ⅲ期</td><td>加拿大</td><td>2015年12月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>肾移植排斥反应</td><td>临床Ⅲ期</td><td>南美</td><td>2015年12月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>肾移植排斥反应</td><td>临床Ⅲ期</td><td>澳大利亚</td><td>2015年12月</td></tr><tr><td> Quark Pharmaceuticals Inc</td><td>肾损伤</td><td>临床Ⅱ期</td><td>美国</td><td>2008年10月</td></tr><tr><td>Quark Pharmaceuticals Inc</td><td>肾损伤</td><td>临床Ⅱ期</td><td>德国</td><td>2017年6月</td></tr><tr><td></td><td> Quark Pharmaceuticals Inc</td><td>肾损伤</td><td>临床Ⅱ期</td><td>加拿大</td><td>2017年6月</td></tr><tr><td>Cobitolimod/Kap paproct</td><td>核因子-kB 抑制 剂；TLR9 激动剂</td><td>Karolinska Institutet</td><td>InDex Pharmaceuticals AB</td><td>溃疡性结肠炎</td><td>临床Ⅲ期</td><td>欧洲</td><td>2011年12月</td></tr><tr><td> Inclisiran/ALN-P</td><td>PCSK9 基因抑制</td><td>Alnylam </td><td> The Medicines Company</td><td>高胆固醇血症</td><td>临床Ⅲ期</td><td>南非</td><td>2017年11月</td></tr></table></body></html>
+
+CrB7031-771311:71151111   
+
+<html><body><table><tr><td rowspan="4">CSsc</td><td rowspan="4">剂</td><td rowspan="4"> Pharmaceuticals Inc</td><td> The Medicines Company</td><td>高胆固醇血症</td><td>临床Ⅲ期 欧洲</td><td>2017年11月</td></tr><tr><td> The Medicines Company</td><td>高胆固醇血症</td><td>临床Ⅱ期 美国</td><td>2016年1月</td></tr><tr><td> The Medicines Company</td><td>家族性高胆固醇血症</td><td>临床Ⅱ期 欧洲</td><td>2016年12月</td></tr><tr><td>The Medicines Company</td><td>家族性高胆固醇血症</td><td>临床Ⅱ期 美国</td><td>2016年12月</td></tr><tr><td rowspan="2">Casimersen/SRP- 4045</td><td rowspan="2">抗肌萎缩蛋白刺</td><td rowspan="2">Sarepta Therapeutics Inc</td><td>Sarepta Therapeutics Inc</td><td>杜兴氏肌营养不良症</td><td>临床Ⅲ期 美国</td><td>2016年8月</td></tr><tr><td> Sarepta Therapeutics Inc</td><td>杜兴氏肌营养不良症</td><td>临床Ⅲ期 欧洲</td><td>2016年8月</td></tr><tr><td rowspan="2">Golodirsen/SRP-4</td><td rowspan="2">激剂 抗肌萎缩蛋白刺</td><td rowspan="2">Sarepta Therapeutics Inc</td><td> Sarepta Therapeutics Inc</td><td>杜兴氏肌营养不良症</td><td>临床Ⅲ期 美国</td><td>2016年8月</td></tr><tr><td> Sarepta Therapeutics Inc</td><td>杜兴氏肌营养不良症</td><td>临床Ⅲ期 欧洲</td><td>2016年8月</td></tr><tr><td rowspan="9">053</td><td rowspan="9">激剂</td><td rowspan="9"></td><td> Sarepta Therapeutics Inc</td><td>杜兴氏肌营养不良症</td><td>临床Ⅲ期 加拿大</td><td>2016年8月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓增生异常综合征</td><td>临床Ⅲ期 欧洲</td><td>2015年12月</td></tr><tr><td>Geron Corp</td><td>骨髓增生异常综合征</td><td>临床Ⅲ期 欧洲</td><td>2015年12月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓增生异常综合征</td><td>临床Ⅲ期 美国</td><td>2015年12月</td></tr><tr><td>Geron Corp</td><td>骨髓增生异常综合征</td><td>临床Ⅲ期 美国</td><td>2015年12月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓增生异常综合征</td><td>临床Ⅲ期 韩国</td><td>2016年3月</td></tr><tr><td>Geron Corp</td><td>骨髓纤维化</td><td>临床Ⅱ期 美国</td><td>2012年11月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓纤维化</td><td>临床Ⅱ期 美国</td><td>2014年11月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓纤维化</td><td>临床Ⅱ期 加拿大</td><td>2015年6月</td></tr><tr><td rowspan="5"></td><td rowspan="5"></td><td> Janssen Biotech Inc</td><td>骨髓纤维化</td><td>临床Ⅱ期 台湾</td><td>2015年6月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓纤维化</td><td>临床Ⅱ期 以色列</td><td>2015年6月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓纤维化</td><td>临床Ⅱ期 韩国</td><td>2015年6月</td></tr><tr><td> Janssen Biotech Inc</td><td>骨髓纤维化</td><td>临床Ⅱ期 欧洲</td><td>2015年6月</td></tr><tr><td>Alnylam Pharmaceuticals Inc</td><td>急性间歇性卟啉病</td><td>临床Ⅲ期 美国</td><td>2016年11月</td></tr><tr><td rowspan="2">Givosiran</td><td rowspan="2">5氨基酮戊酸合成 酶1抑制剂</td><td rowspan="2">Alnylam Pharmaceuticals Inc</td><td> Alnylam Pharmaceuticals Inc</td><td>急性间歇性卟啉病</td><td>临床Ⅱ期 瑞典</td><td>2016年10月</td></tr><tr><td>Alnylam Pharmaceuticals Inc</td><td>急性间歇性卟啉病</td><td>临床Ⅱ期 英国</td><td>2016年10月</td></tr><tr><td>Fitusiran</td><td>Antithrombin III</td><td>Alnylam</td><td> Alnylam Pharmaceuticals Inc</td><td>因子V缺乏症</td><td>临床Ⅲ期 美国</td><td>2017年7月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="5"></td><td rowspan="5">抑制剂</td><td rowspan="5">Pharmaceuticals Inc</td><td> Sanofi Genzyme</td><td>因子IX缺乏</td><td>临床Ⅲ期</td><td>美国</td><td>2017年7月</td></tr><tr><td> Sanofi Genzyme</td><td>因子V缺乏症</td><td>临床Ⅲ期</td><td>美国</td><td>2017年7月</td></tr><tr><td> Alnylam Pharmaceuticals Inc</td><td>因子IX缺乏</td><td>临床Ⅲ期</td><td>美国</td><td>2017年7月</td></tr><tr><td>Alnylam Pharmaceuticals Inc</td><td>血友病</td><td>临床Ⅱ期</td><td>欧洲</td><td>2015年9月</td></tr><tr><td>Alnylam Pharmaceuticals Inc Sanofi Genzyme</td><td>出血 出血</td><td>临床Ⅱ期 临床Ⅱ期</td><td>欧洲</td><td>2015年9月</td></tr><tr><td rowspan="5"></td><td rowspan="5">TLR9 激动剂</td><td rowspan="5">Mologen Ag</td><td> Sanofi Genzyme</td><td>血友病</td><td>临床Ⅱ期</td><td>欧洲 欧洲</td><td>2015年10月 2015年10月</td></tr><tr><td> Mologen Ag</td><td>转移性结直肠癌</td><td>临床Ⅲ期</td><td>欧洲</td><td>2010年6月</td></tr><tr><td> Mologen Ag</td><td>小细胞肺癌</td><td>临床Ⅱ期</td><td>比利时</td><td>2014年3月</td></tr><tr><td>Mologen Ag</td><td>小细胞肺癌</td><td>临床Ⅱ期</td><td>西班牙</td><td>2014年10月</td></tr><tr><td> Mologen Ag</td><td>小细胞肺癌</td><td>临床Ⅱ期</td><td>德国</td><td>2014年10月</td></tr><tr><td rowspan="5"> STNM-01</td><td rowspan="5">CHST15基因抑制</td><td rowspan="5"></td><td>Mologen Ag</td><td>小细胞肺癌</td><td>临床Ⅱ期</td><td>奥地利</td><td>2014年10月</td></tr><tr><td> Mologen Ag</td><td>HIV感染</td><td>临床Ⅱ期</td><td>丹麦</td><td>2015年4月</td></tr><tr><td> Stelic Institute & Co</td><td>胰腺肿瘤</td><td>临床Ⅲ期</td><td>日本</td><td>2016年8月</td></tr><tr><td>Stelic Institute & Co Stelic Institute & Co</td><td>克罗恩病</td><td>临床Ⅲ期</td><td>日本</td><td>2016年8月</td></tr><tr><td> Stelic Institute & Co</td><td>溃疡性结肠炎</td><td>临床Ⅱ期</td><td></td><td></td></tr><tr><td></td><td>剂</td><td></td><td> Stelic Institute & Co</td><td>溃疡性结肠炎</td><td>临床Ⅱ期</td><td>日本 德国</td><td>2017年2月 2013年6月</td></tr><tr><td>Nexagon</td><td>GJA1 基因抑制剂</td><td>CoDa Therapeutics Inc（NZ)</td><td>OcuNexus Therapeutics Inc</td><td>角膜损伤</td><td>临床Ⅲ期</td><td>美国</td><td>2017年6月</td></tr><tr><td rowspan="4">Belagenpumatuce l-L</td><td rowspan="4"></td><td rowspan="4">Sidney Kimmel Cancer Center</td><td> Activate Immunotherapy</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>加拿大</td><td>2008年8月</td></tr><tr><td> Activate Immunotherapy</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>印度</td><td>2008年8月</td></tr><tr><td> Activate Immunotherapy</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>欧洲</td><td>2008年8月</td></tr><tr><td> Activate Immunotherapy</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>北美</td><td>2008年8月</td></tr><tr><td>Tivanisiran/SYL1 001</td><td>TRPV1 基因抑制 剂</td><td>Sylentis SAU Sylentis SAU</td><td> Sylentis SAU</td><td>干眼症 眼痛</td><td>临床Ⅲ期</td><td>西班牙</td><td>2017年5月</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td> Sylentis SAU</td><td></td><td>眼痛</td><td>临床Ⅱ期</td><td>爱沙尼亚</td><td>2016年2月</td></tr><tr><td rowspan="3">Aganirsen/GS-10 1</td><td rowspan="3">IRS1 基因抑制剂</td><td rowspan="3">Gene Signal SAS Gene Signal SAS</td><td></td><td>角膜移植排斥反应</td><td>临床Ⅲ期</td><td>瑞士</td><td>2008年11月</td></tr><tr><td>Gene Signal SAS</td><td>角膜移植排斥反应</td><td>临床Ⅲ期</td><td>德国</td><td>2008年11月</td></tr><tr><td>Gene Signal SAS</td><td>角膜移植排斥反应</td><td>临床Ⅲ期</td><td>法国</td><td>2008年11月</td></tr><tr><td>NF-kB Decoy Oligonucleotide/A MG-0101</td><td>核因子-kb 抑制剂</td><td>AnGes MG Inc AnGes MG Inc</td><td>Shionogi & Co Ltd</td><td>特应性皮炎</td><td>临床Ⅲ期</td><td>日本</td><td>2014年8月</td></tr></table></body></html>
+
+# 2.3产品交易现状
+
+目前寡核苷酸类药物研发领域的交易类型主要有三种，包括药物开发及商业化许可、专利资产出售以及早期药物研发合作，这几种交易类型中，药物开发及商业化许可是最主要的寡核苷酸类药物领域的交易形式（占到所有交易的 $50 \%$ (表4)。详细如下：
+
+# (1）Ionis和诺华达成16亿美元协议，开发两款降血脂RNA药物
+
+2017年1月5日，诺华与Ionis旗下Akcea 签订总值为16亿美元的合作项目，包括 2.25 亿近期支付款项，共同开发其降低血脂RNA药物AKCEA-APO（a)-LRx 和 AKCEA-APOCIII-LRx。Akcea 将获得 7500 万美元首付和一亿美元股票收购。但2017年2月16日，Ionis公司宣布，公司及其全资子公司Akcea 将终止与诺华在全球范围内开发和商业化AKCEA-APO（a）-LRx和AKCEA-APOCIII-LRx 的独家合作协议。
+
+# (2）Alnylam与Vir达成10亿美元协议，开发新型RNAi疗法
+
+2017年10月18日，RNAi疗法开发领域的领军企业Alnylam与美国加州Vir生物技术公司签署了一份价值10亿美元的协议，开发和营销RNAi疗法ALN-HBV-02用于乙型肝炎病毒感染治疗。双方将推进 Alnylam 公司的乙型肝炎病毒项目，同时将合作开发多达4个额外的RNAi疗法治疗其他感染性疾病。
+
+# (3）Sosei收购MiNA $2 5 . 6 \%$ 的股份，开发saRNA技术
+
+2017年5月2日，日本制药公司SoseiS收购了MiNATherapeutics公司 $2 5 . 6 \%$ 的股份，并以4500万美元现金获得该公司的独家选择权。目前，MiNA把小激活 RNA（saRNA）技术在肝癌进行I/IIa期试验，如果试验成功，根据协议，Sosei将完成1.8亿现金外加3.09亿里程碑，总额5.34亿美元的交易。
+
+# (4）Boehringer与MiNA达成3.5亿美元协议，开发非酒精性脂肪肝RNA疗法
+
+2017年11月8日，勃林格殷格翰公司和MiNATherapeutics 公司两家公司签署了一项合作和许可协议，总金额3.55亿美元，主要基于MiNA的小激活RNA（saRNA）疗法平台，开发治疗肝纤维化和非酒精性脂肪性肝炎的RNA疗法。
+
+# (5）IONS与Dynacure 签署2.1亿美元协议，开发反义靶向药物Dyn101
+
+2017年11月9日，Dynacure 和IONS 签署总金额达2.1亿美元的协议，开发用于治疗肌病的反义靶向药物IONSDNM2-2.5Rx（Dyn101）。其中IONS 以
+
+Dynacure 股权的形式获得 500万美元许可费用，现在Dynacure将承担项目所有开发和商业化的责任。
+
+# (6）Dicerma与勃林格殷格翰达成2亿美元协议，开发治疗慢性肝病的新型RNAi疗法
+
+2017年11月27日，DicernaPharmaceuticals与勃林格殷格翰达成研究协作和许可协议，共同开发用于治疗慢性肝病的新型RNAi疗法，其中将首先关注非酒精性脂肪性肝炎（NASH）的治疗。根据协议，Dicerma将获得高达2.01亿美元的前期费用、开发及商业里程碑费等。Dicerna也将有资格从全球净销售额中获得高达两位数的特许权使用费。
+
+# (7）IPharma斥资1.23亿美元买下lefitolimod免疫疗法的中国专利权
+
+2017年8月25日，由孵化器健桥资本（I-BridgeCapital）与以色列生物医药公司BioLineRx成立的合资企业iPharma与德国生物科技公司Mologen签署协议，购买Mologen主打产品lefitolimod免疫疗法的中国专利权，加上专利提成，该交易价值高达1.23亿美元。目前该药处于治疗结直肠癌的ⅡI期和治疗肺癌的III期临床试验。
+
+# (8）Alexion以8.25亿美元购买ArbutusLNP药物传送及制剂技术
+
+2017年3月15日，Alexion以8.25亿美元购买ArbutusLNP药物传送及制剂技术，开发用于治疗罕见疾病的单信使RNA候选产品。根据协议，Alexion将支付750万美元的预付款，并支付高达7500万美元的开发，监管和商业里程碑，以及个位数的特许权使用费。
+
+# (9）Sarepta以6000万美元与BioMarin达成杜氏肌营养不良产品的专利独占许可权
+
+2017年7月17日，Sarepta以6000万美元与BioMarin达成杜氏肌营养不良产品EXONDYS-51及所有外显子跳跃产品（casimersen,golodirsen）的专利独占许可权。
+
+# (10)阿斯利康与Ethris合作开发新RNA疗法
+
+2017年8月21日，阿斯利康与德国 Ethris公司达成2939万美元的协议，共同开发针对呼吸系统的新的稳定且非免疫原性修饰的RNA疗法。Ethris 将其SNIMRNA技术应用于开发哮喘、慢性阻塞性肺疾病和特发性肺纤维化药物。
+
+表42017年寡核苷酸类药物商业化交易TOP10（例举）Table 7 2017 Commercial Transactions of Oligonucleotide Therapies TOP10（Examples ）  
+
+<html><body><table><tr><td rowspan="2">序号</td><td rowspan="2">转让人</td><td rowspan="2">合伙人</td><td rowspan="2">交易类型</td><td rowspan="2">交易覆盖</td><td rowspan="2">交易不覆</td><td rowspan="2">根据合同当 前的预计值 (USD M)</td><td rowspan="2">根据合同实际 已支付的金额 (USD M)</td><td rowspan="2">适应症</td><td rowspan="2">药物</td><td rowspan="2">药物最高研</td><td>药物最高 研发状态</td><td>交易 开始</td></tr><tr><td>发状态（交 易时）</td><td></td></tr><tr><td>1</td><td>Ionis</td><td>Novartis AG</td><td>药物—开发／全球</td><td></td><td></td><td>1655.0</td><td>175.0</td><td>心血管疾病</td><td>AKCEA-APO</td><td>临床Ⅱ期</td><td>（目前） 临床Ⅱ期</td><td>时间 2017/1</td></tr><tr><td>V N</td><td>Pharmace uticals Inc</td><td></td><td>商业化许可</td><td></td><td></td><td></td><td></td><td></td><td>(a）-LRx; AKCEA-APOC III-LRx</td><td></td><td></td><td>/5</td></tr><tr><td>2</td><td>Alnylam Pharmace uticals Inc</td><td>Vir Biotechnolog y Inc</td><td>药物—开发/ 商业化许可</td><td></td><td></td><td>1000.0</td><td>未明确</td><td>乙型肝炎病 毒感染</td><td>ALN-HBV-02</td><td>发现</td><td>发现</td><td>2017/1 0/18</td></tr><tr><td>8</td><td>MiNA Therapeut</td><td>Sosei Group Corp</td><td>公司一并购 （部分）</td><td></td><td></td><td>534.0</td><td>未明确</td><td>肝癌</td><td>MTL-501</td><td>临床I期</td><td>临床Ⅱ期</td><td>2017/5 /2</td></tr><tr><td>2 AI</td><td>ics Ltd MiNA</td><td>Boehringer</td><td>药物—开发/</td><td></td><td></td><td>355.7</td><td>未明确</td><td>肝纤维化；非saRNA</td><td></td><td>发现</td><td>发现</td><td>2017/1</td></tr><tr><td>eu</td><td>Therapeut ics Ltd</td><td>Ingelheim Corp</td><td>商业化许可</td><td></td><td></td><td></td><td></td><td>酒精性脂肪 性肝炎</td><td>therapeutics, MiNApeutis</td><td></td><td></td><td>1/8</td></tr><tr><td>C</td><td>Ionis Pharmace</td><td>Dynacure</td><td>药物一开发/ 商业化许可</td><td></td><td></td><td>210.0</td><td>5.0</td><td>肌病；罕见病</td><td>Dyn-101</td><td>发现</td><td>发现</td><td>2017/1 1/9</td></tr><tr><td></td><td>uticals Inc</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>Dicerna Pharmace</td><td>Boehringer Ingelheim Corp</td><td>药物一发现/ 设计</td><td></td><td></td><td>201.0</td><td>10.0</td><td>肝病；非酒精 性脂肪性肝</td><td>RNAi therapeutics</td><td>发现</td><td>发现</td><td>2017/1 0/27</td></tr></table></body></html>
+
+<html><body><table><tr><td>7</td><td>Mologen Ag</td><td>iPharma Ltd</td><td>药物—开发/ 商业化许可</td><td>中国大 陆；中国 香港；中 国澳门； 新加坡；</td><td>123.9</td><td>未明确</td><td>癌症</td><td>lefitolimod</td><td>临床Ⅲ期</td><td>临床Ⅲ期</td><td>2017/8 /25</td></tr><tr><td></td><td>Arbutus</td><td>Alexion</td><td>技术一药物</td><td>中国台湾</td><td>82.5</td><td>7.5</td><td>未明确</td><td> mRNA therapy</td><td>发现</td><td>终止</td><td>2017/3</td></tr><tr><td>260 2</td><td>Biopharm a Corp</td><td>Pharmaceutic als Inc</td><td>传送及制剂 技术许可</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>/15</td></tr><tr><td></td><td>BioMarin</td><td>Sarepta</td><td>专利-独占许 全球</td><td></td><td>60.0</td><td>15.0</td><td></td><td>杜氏肌营养 SRP-4045;</td><td>上市</td><td>上市</td><td>2017/7</td></tr><tr><td></td><td>Pharmace</td><td>Therapeutics</td><td>可</td><td></td><td></td><td></td><td>不良</td><td>eteplirsen;</td><td></td><td></td><td>/17</td></tr><tr><td>10 010</td><td>utical Inc Ethris</td><td>Inc AstraZeneca</td><td>药物-早期研全球</td><td></td><td>29.39</td><td>未明确</td><td>哮喘；慢性阻</td><td>golodirsen SNIM-RNA</td><td>发现</td><td>发现</td><td>2017/8</td></tr><tr><td></td><td>GmbH</td><td>plc</td><td>究/开发</td><td></td><td></td><td></td><td>塞肺肺病：</td><td>therapeutics</td><td></td><td></td><td>/21</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>维化；呼吸系</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>统疾病</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3．总结与展望
+
+近年随着对寡核苷酸类药物研发的深入，寡核苷酸类药物在基因疾病、肿瘤等人类束手无策的疾病治疗方面显出了极大的应用前景。但目前寡核苷酸类药物的治疗途径尚不成熟，仍有许多问题亟待克服。其中 siRNA作为药物的障碍主要在于体内干扰素反应、体内不稳定状态、靶向性和脱靶效应、递药系统、给药方式以及安全性等。故而大部分小RNA基因药物的研究仍停留在早期开发阶段即临床前研究阶段。
+
+经过二十多年研究努力，2016年FDA先后批准了Eteplirsen和Nusinersen两个寡核苷酸类药物，相信未来有更多的寡核苷酸类药物上市。随着未来技术的不断发展改进、国家政策与资金长期稳定支持以及研究者的不断努力，相信以反义核酸、小干扰RNA为代表寡核苷酸类药物必将为癌症等疾病的治疗提供新的契机，必将在医药产业掀起一股新的浪潮，成为以基因表达调控为导向的第三代医药产业革命中不可或缺的中坚力量。
+
+# 参考文献
+
+[1]Stein C A, Castanotto D. FDA-Approved Oligonucleotide Therapies in 2017. Molecular Therapy. 2017,25(5):1069-1075.   
+[2]Fei J. The Development Technology of Small Nucleic Acid Drug. Beijing: Military Medical Science Press,2011. 1-5.   
+[3] Geary R S,Baker B F,Crooke S T. Clinical and Preclinical Pharmacokinetics and Pharmacodynamicsof Mipomersen (Kynamro(R)): A Second-Generation Antisense Oligonucleotide Inhibitor of Apolipoprotein B. Clinical Pharmacokinetics, 2015，54(2): 133-146.   
+[4]Bishop K M, Montes J, Finkel R S. Motor Milestone Assessment Of Infants With Spinal Muscular Atrophy Using The Hammersmith Infant Neurological Exam-Part 2: Experience From A Nusinersen Clinical Study. Muscle & Nerve.2018, 57(1): 142-146.   
+[5]Macaulay R, Evans J. The Fda Approval Of Eteplirsen - Necessary Flexibility Or A Worrying Precedent? Value In Health, 2017,20(9): A728-A728.   
+[6]Stein C Y,Castanoto D,Krishnan A.Defibrotide (Defitelio):A New Addition to the Stockpile of Food and Drug Administration-approved Oligonucleotide Drugs. Molecular Therapy-Nucleic Acids, 2016,(5): e346   
+[7]Mitchel W M.Effcacy of rintatolimod in the treatment of chronic fatigue syndrome/myalgic encephalomyelitis (CFS/ME). Expert Review Of Clinical Pharmacology，2016,9(6): 755-770.   
+[8]Earnshaw S R, Javitt J C, Zlateva G P. Cost-effectiveness model for age-related macular degeneration: Comparing early and late Macugen treatment. Value In Health, 2O05,8(6): A177-A177.   
+[9] Bejanian M, Lieberman R M, Goldstein D A.A pharmacokinetic study of intravitreal fomivirsen (Vitravene (TM)) in patients with CMVR.Investigative Ophthalmology & Visual Science.1999, 40(4): S874-S874   
+[10] Adams D, Suhr O B, Dyck P J et al. Trial design and rationale for APOLLO,a Phase 3, placebo-controlled study of patisiran in patients with hereditary ATTR amyloidosis with polyneuropathy.Bmc Neurology,2017,17: 181   
+[11] Gouni-Berthold I，Alexander V，Digenio A，et al.Apolipoprotein C-Iii Inhibition With VolanesorsenIn PatientsWith Hypertriglyceridemia (Compass):A Randomized, Double-Blind,Pbo-Controlled Trial. Clinical Cardiology,2017, 40(1): 13-14.   
+[12] Wang A K, Coehlo T, Waddington-Cruz M et al. Safety and Efcacy of Inotersen in Patients with Hereditary Transthyretin Amyloidosis with Polyneuropathy (NEURO-TTR).142nd Annual Meeting of the American-Neurological-Association (ANA). San Diego, CA . OCT 15-17, 2017.   
+[13] Jairath V, Khanna R, Feagan, Brian G. Alicaforsen for the treatment of inflammatory bowel disease.EXPERT OPINION ON INVESTIGATIONAL DRUGS.2017, 26(8): 991-997.

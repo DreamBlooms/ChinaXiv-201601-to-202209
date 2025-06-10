@@ -1,0 +1,329 @@
+# Word2Vec-ACV：OOV语境含义的词向量生成模型
+
+王永贵，郑泽，李玥(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125105)
+
+摘要：针对Word2Vec 模型生成的词向量缺乏语境的多义性以及无法创建集外词（OOV）词向量的问题，引入相似信息与Word2Vec 模型相结合，提出 Word2Vec-ACV模型。该模型首先基于连续词袋（CBOW）和Hierarchical Softmax的 Word2Vec 模型训练出词向量矩阵即权重矩阵；然后将共现矩阵进行归一化处理得到平均上下文词向量，再将词向量组成平均上下文词向量矩阵；最后将平均上下文词向量矩阵与权重矩阵相乘得到词向量矩阵。为了能同时解决集外词及多义性问题,将平均上下文词向量分为全局平均上下文词向量(GlobalACV)和局部平均上下文词向量(LocalACV)两种，并对两者取权值组成新的平均上下文词向量矩阵。将Word2Vec-ACV模型和Word2Vec 模型分别进行类比任务实验和命名实体识别任务实验，实验结果表明，Word2Vec-ACV模型同时解决了语境多义性以及创建集外词词向量的问题，降低了时间消耗，提升了词向量表达的准确性和对海量词汇的处理能力。
+
+关键词：Word2Vec模型；词向量；共现矩阵；平均上下文词向量 中图分类号：TP391.1 doi:10.3969/j.issn.1001-3695.2017.12.0800
+
+# Word2Vec-ACV: word vector generation model of OOV context meaning
+
+Wang Yonggui, Zheng $Z \mathrm { e } ^ { \dagger }$ ,Li Yue (CollegeofSoftware Liaoning Technical University,Huludao Liaoning125105,China)
+
+Abstract: The Word2Vec modelisaneural network model (NNLM)thatconverts words intext intoa word vector.Itis widely used in natural language processng tasks such as emotional analysis，question answering robot and soon.Word vectors generated forthe Word2Vec modelackedthe ambiguityofcontext and theinability tocreate OOVword vectors.Based on the similarity information of documentcontext and Word2Vec model,this paper proposed a word vector generation model that conforms to the meaning ofOOVcontext.It is called the Word2Vec-ACVmodel.The model was similar to the process of the word vectorgeneratedbythe Wrd2Vec model,but it wasdiferent.Firstofall,Word2Vec modelof thecontinuous word bag (CBOW)andthe Hierarchical Softmaxtrainedthe wordvector matrix,namelytheweight matrix.Secondly,theco-occurrence matrix was normalized to getthe average context word vector.Then,the word vector consisted of an average context word vectormatrix.Finally,the vector matrixoftheaveragecontext wordvector matrixand theweight matrix weremultipliedtoget the Wordvector matrix.In order to simultaneously solved the ambiguity problem of out of vocabulary words andout of vocabulary words to create.In this paper,the averagecontext word vectors were divided into two kinds:the global average context word vector(global ACV)andthelocalaveragecontext wordvector (local ACV).Inaddition,thetwotaken the weight value to formanewaverage context word vector matrix.The Word2Vec modelcanefectively express the wordin vector form. Experiments onanalogical tasksand named entityrecognition (NER)tasksrespectively,theresults showthatthe Word2VecACVmodelissuperiortothe Word2Vec model intheaccurate expressonofthe word vector.Itisaword vectorrepresetation method to create a contextual context for OOV words.
+
+Key words:Word2Vec model; Word Vector; The co-occurrence matrix; ACV
+
+在自然语言处理领域中，表征学习（representation learning）是指从单个或一组符号中学习其赋予的含义或其指代的事物。表征学习的主要内容是词汇学习(vocabulary learming)，如何将词汇中隐藏的信息以词向量的形式表达出来已经成为学术界和工业界普遍研究的热点。伴随对深度学习[1的深入研究，在监督学习任务中，将神经网络语言模型（NNLM）训练出来的词向量作为文本特征，与简单且标准化的词袋模型（BOW）[2,3]映射生成的词向量作为文本特征相比，有显著地提高。
+
+词袋模型将文本看成由词组成的集合，忽略词序、语法和句法等信息，集合中各词都是相互独立，不受其他词出现地影响。词袋模型将文本映射成与训练集相同维度的向量，各向量的分量值分别表示该分量所对应的词在文本中出现的次数。在传统分类器上词袋模型有很好的分类效果，但随着新词的增加，向量的维数也会随之增加，这样会导致维数灾难现象地产生。
+
+在Bengio 等人[4提出三层神经网络语言模型的基础上Mikolov等人[5,6]于2013年首次提出Word2vec 模型，该模型仅考虑“局部上下文”来学习有意义的词向量，得益于浅层的神经网络结构，使得其可以从大型的语料库中有效地训练出词向量。然而Word2vec模型只能从给定的语料库中训练出词向量。假如在任务中，遇到一个在训练过程中没有出现过的新单词，就必须重新使用Word2vec模型为这个新词单独创建词向量，这就导致大量重复的时间消耗在模型的训练上。此外，单一的词向量并不能最优地表示一个具有多重含义的词。例如，“包袱"既是指用布包起来的包儿，也是比喻某种负担，只有考虑到这个词的局部语境，才能确定恰当的含义。
+
+# 1 相关工作
+
+过去，NNLM以多种方式解决了多义性的问题。由于Word2Vec 模型对文本中单词顺序不敏感，Wang等人[7提出了基于Word2Vec改进的 Wang2Vec 模型。该模型由结构化的 Skip-gram 模型和连续窗口方法组成，将语序纳入到Word2vec中，对语法效果有明显的提高。Reisinger 等人[8]提出StatisticalMulti-Prototype Vector-SpaceModels ofWordMeanig 模型，通过聚合单词出现的上下文信息来编码单词的多重含义。Trask等人[9]提出 Sense2Vec 模型，是对Word2Vec 模型的改进，在语料训练的过程中加入词性的标注，生成新表示形式。例如，一个词同时拥有名词和动词两种词性。但是以上模型都不是针对同时解决OOV和多义性问题而设计的，并且有些模型需要更多的参数和训练过程中增加额外步骤使得模型变得复杂。针对以上模型不能同时解决OOV和多义性问题，本文提出Word2Vec-ACV模型。
+
+Word2vec-ACV首先把整个语料库放入到Word2Vec模型中训练出权重矩阵 $W$ ，然后将共现矩阵 $C o$ 进行归一化处理得到平均上下文词向量矩阵S，最后将平均上下文词向量矩阵S与权重矩阵W相乘得到词的向量表示。应用Text8语料库数据集训练生成的词向量分别对QuestionWord类比任务[5,6]和命名实体识别（NER）[10]任务进行实验，实验结果表明，Word2vec-ACV模型生成词向量的准确性优于Word2Vec模型，能有效地创建OOV词向量以及赋予词向量多重含义。
+
+# 2 Word2Vec及Word2Vec-ACV的原理介绍
+
+Word2Vec-ACV模型是在Word2Vec 模型的基础上针对词之间的相似特性所提出，通过结合词之间的相似性信息提高词嵌入的准确性，是一种用于生成词向量的神经网络语言模型。
+
+# 2.1基于 CBOW和 Hierarchical Softmax 的Word2vec 模型
+
+Word2Vec模型是建立在神经网络语言模型（NNLM）基础上，移除前向反馈神经网络中非线性的隐藏层（hidden layer），直接将中间的嵌入层（embedding layer）与输出层（softmax layer)相连。忽略其上下文中的语序信息，将输入层输入的上下文词向量汇总到嵌入层得到一个连续的词向量 $e \in R ^ { N }$ ，然后直接与hierarchical softmax相连得到Word2vec模型，如图1所示。
+
+输入层包含预测目标词的 $\boldsymbol { \mathbf { \mathit { c } } }$ 个上下文的词向量，其中V表示词向量的长度。嵌入层先将输入的上下文词向量$\nu ( w _ { i + 1 } ) , \nu ( w _ { i + 2 } ) , \cdots , \nu \big ( w _ { i + c } \big ) \in R ^ { V }$ 求和取平均值作为输出得到 $e \in { \boldsymbol { R } } ^ { N }$ □其中， $\boldsymbol { \mathscr { e } }$ 是一个N维向量。输出层对应一颗二叉树，用语料中出现过的词当叶子节点，以各词在语料中出现的次数当权重构造出 Huffman 树。在Huffman 树中，叶子节点共 $V { \big ( } { = } | D | { \big ) }$ 个，分别对应词典 $D$ 中的词 $w$ （图1中标为白色的若干节点），非叶子节点 $\boldsymbol { V } - \boldsymbol { 1 }$ 个（图1中标为黑色的若干节点）。其中，在层次Softmax 模型中每个非叶子节点对应一个辅助向量 $V _ { \left( n , j \right) } ^ { ' }$ 。 $L { \big ( } w _ { 2 } { \big ) }$ 表示从根节点到达叶子节点 $w _ { 2 }$ 的路径长度（图1中用黑线标注的线段）。 $n \big ( w , j \big )$ 表示从根节点到目标词 $w$ 路径上的第 $j$ 个节点
+
+叶子节点上的任意词 $w$ ，在Huffman 树中必存在一条从根节点到目标词 $w$ 对应非叶子节点 $n { \big ( } w , j { \big ) }$ 的路径。路径上存在$L { \big ( } w { \big ) } - 1$ 个分支，将每一个分支看做一次二分类，每一次二分类就产生一个概率，将概率相乘，得到该模型的目标函数$p \big ( \boldsymbol { w } = \boldsymbol { w } _ { o } \big )$ 。先对目标函数取对数得到似然函数E，再通过随机梯度算法对似然函数进行迭代，得到最优的参数，从而获得最优的权重矩阵 $W$ 。
+
+![](images/04f59cc1e3af10d3a419bd77e62f88f0ded839fd6bf163029d378fa3b0c071df.jpg)  
+图1基于CBOW 和Hierarchical Softmax 的Word2vec 模型
+
+# 2.2Word2Vec-ACV模型
+
+本文有针对性地对一定量的文献进行研究[5-9],发现根据上下文单词出现的频率，所构成的词向量矩阵 $C \in R ^ { V \times N }$ 能计算出词典 $D$ 中V个词相互之间的相似度，得到由相似度为0到1之间的一个值所构成的相似矩阵 $S i m \in R ^ { V \times V }$ 或者词 $w$ 的相似向量$S i m _ { w } \in R ^ { V }$ 。这些相似性将会保留在词向量中。例如，相似的两个词之间的词向量的余弦值接近1，或者词向量矩阵 $\boldsymbol { C } \in \boldsymbol { R } ^ { V \times N }$ 的标量积近似于相似矩阵 $S i m \in R ^ { V \times V }$ 。显然，获得词向量矩阵$C \cdot C ^ { T } \approx S i m$ 最优的方式就是计算相似矩阵 $S i m \in R ^ { V \times V }$ 的奇异值分解（SVD），并使用对应于N最大特征值的特征向量[11,12]。由于语料库中数以万计的词组成的相似矩阵是非常巨大的，但大多数词都不是同义词，所以相似矩阵是稀疏矩阵便于进行SVD计算。
+
+Word2Vec 模型的输入层是将与目标词相连的K个上下文词作为输入，经过嵌入层，将中间结果沿着输出层Huffman 树上的非叶子节点到达目标词所在的叶子节点，此时选择的K个词与目标词的相似度较大，如果随机选择K个词，则与目标词之间的相似度接近于0。因此，一个词的词向量 $c _ { \scriptscriptstyle w } \in R ^ { N }$ 与所有词构成的词向量矩阵 $\boldsymbol { C } \in \boldsymbol { R } ^ { V \times N }$ 相乘得到一个向量 $\hat { \nu } _ { { } _ { w } } \in R ^ { V }$ 的相似度接近目标词 $\nu _ { { } _ { w } }$ 。基于 CBOW 和 Hierarchical Softmax 的Word2vec模型在训练词向量的过程中能很好地解释这一相似性过程。在训练过程中，每个出现的词 $w _ { i }$ 是以一个二进制向量$\nu _ { w _ { i } } \in R ^ { V }$ 的形式通过输入到模型中与权重矩阵 $\boldsymbol { W } \in \boldsymbol { R } ^ { V \times N }$ 权重矩阵相乘得到 $e _ { i }$ ，然后经过HierarchicalSoftmax层抵达叶子节点为 $w _ { i }$ 的目标节点，说明 $e _ { i }$ 包含有词 $w _ { i }$ 与其他词的相似信息。可以很好地解释一个词的词向量 $\boldsymbol { c } _ { \boldsymbol { w } } \in { \boldsymbol { R } } ^ { N }$ 与所有词构成的词向量矩阵 $\boldsymbol { C } \in \boldsymbol { R } ^ { V \times N }$ 相乘得到一个向量 $\hat { \nu } _ { { } _ { w } } \in { \cal R } ^ { V }$ 的相似度接近目标词Vwo
+
+将相似性信息保留在词向量中，会在一定程度上提升词的嵌入效果，然而Word2Vec模型并没有考虑将相似信息纳入到该模型中。本文提出的Word2Vec-ACV模型是将相似性信息纳入Word2Vec模型所创建。Word2Vec-ACV模型如图2所示。
+
+![](images/ff2cb791f3fc653938b72fc0a3e2fb3209541b21f006d4511dfe9a9b4fd463ff.jpg)  
+图2ACV-Word2vec 模型
+
+Word2Vec-ACV模型与Word2Vec 模型的词向量生成过程类似，但细节不同。Word2Vec-ACV首先将语料通过Word2Vec训练出词向量的权重矩阵 $\boldsymbol { W } \in \boldsymbol { R } ^ { V \times N }$ ，再将由共现矩阵 $C o \in R ^ { V \times V }$ 进行归一化处理得到的平均上下文词向量 $\overline { { \nu } } _ { w _ { i } } \in R ^ { V }$ 组成得到平均上下文词向量矩阵 $\boldsymbol { S } \in \boldsymbol { R } ^ { V \times V }$ ，最后将权重矩阵 $\boldsymbol { W } \in \boldsymbol { R } ^ { V \times N }$ 与经过归一化处理后得到的平均上下文词向量矩阵 $\boldsymbol { S } \in \boldsymbol { R } ^ { V \times V }$ 相乘得到新的权重矩阵 $W _ { n e w } \in R ^ { V \times N }$ 。其中，平均上下文词向量矩阵$\boldsymbol { S } \in \boldsymbol { R } ^ { V \times V }$ 构造过程如下：首先是由第 $i$ 次出现的词 $w$ 与词 $w$ 在同一个窗口出现的词所构成的二进制向量 $\nu _ { w _ { i } } \in R ^ { V }$ ，其中上下文词出现的位置为1，其余的位置为0。对每个词每次的出现结果累加得到共现矩阵 $C o \in R ^ { V \times V }$ 。再对共现矩阵 $C o \in R ^ { V \times V }$ 每一行除以词 $w _ { i }$ 在文本中出现的次数 $M$ 得到平均上下文词向量矩阵$\boldsymbol { S } \in \boldsymbol { R } ^ { V \times V }$ ，其中每一行代表词 $w _ { i }$ 的平均上下文词向量 $\overline { { \nu } } _ { w _ { i } } \in R ^ { V }$ 。
+
+为了能够快速、高效地为集外词创建词向量以及使创建出来的词向量符合上下文语境，本文将平均上下文词向量分为全局平均上下文词向量（globalACV）和局部平均上下文词向量（localACV）组成两种。其中globalACV是对整个语料库中的词 $w _ { i }$ 的词向量根据词 $w _ { i }$ 出现的次数 $M _ { { { \nu } _ { g l o b a l } } }$ 求平均值，即由语料生成的共现矩阵 $C o _ { g l o b a l }$ 中的每一行除以该词在文本中出现的次数 $M _ { w _ { g l o b a l } }$ 获得，记为 $V _ { w _ { g l o b a l } }$ 。
+
+$$
+V _ { w _ { g l o b a l } } = \frac { 1 } { M _ { w _ { g l o b a l } } } \sum _ { i = 1 } ^ { M _ { w _ { g l o b a l } } } \nu _ { w _ { i } }
+$$
+
+同理，localACV是对集外词所在的文档中词 $w _ { i }$ 的词向量根据词 $w _ { i }$ 出现的次数 $M _ { w _ { l o c a l } }$ 求平均值，记为 $V _ { w _ { l o c a l } }$ 。
+
+$$
+V _ { w _ { l o c a l } } = { \frac { 1 } { M _ { w _ { l o c a l } } } } \sum _ { i = 1 } ^ { M _ { w _ { l o c a l } } } \nu _ { w _ { i } }
+$$
+
+对 $V _ { w _ { g l o b a l } }$ 与 $V _ { w _ { l o c a l } }$ 中相同词 $w _ { i }$ 对应的词向量按一定的比例$\boldsymbol { a }$ 求和得到加权平均上下文词向量矩阵 $s$ ，如式(3)所示。
+
+$$
+S = \big ( a \cdot V _ { w _ { g l o b a l } } + ( 1 - a ) \cdot V _ { w _ { l o c a l } } \big ) ^ { \gamma }
+$$
+
+将式(3)中得到的加权平均上下文词向量矩阵 $s$ 与权重矩阵 $W$ 相乘最终得到词向量矩阵 $W _ { n e w }$ 。
+
+$$
+W _ { n e w } = S \times W
+$$
+
+其中： $a \in \left[ 0 , 1 \right]$ ， $\boldsymbol { a }$ 的设置用于调节词 $w$ 受上下文影响的程度，这有助于解决语境多义性问题[13]。
+
+虽然该模型与Word2Vec模型训练词向量的过程相同，但训练完成后，词向量的计算方式存在差异。在Word2Vec的情况下，词向量是调整后权重矩阵 $W$ 的行向量。Word2Vec-ACV模型是将权重矩阵 $W$ 与经过归一化处理后得到的平均上下文词向量矩阵 $S \in R ^ { V \times V }$ 相乘得到的新权重矩阵 $W _ { n e w } \in R ^ { V \times V }$ 的行向量表示词的向量。
+
+# 3 Word2Vec-ACV模型推导及其实现
+
+本文对Word2Vec-ACV模型的参数推导时将采用随机梯度法（stochastic gradient method），简称 SG法。因为SG 法对参数的推导过程实现简单且高效，在Word2Vec-ACV模型中输入的词向量 $\boldsymbol { \nu } _ { { } _ { w } }$ 是已知的，而权重W和嵌入层的输出向量ei以及Hierarchical Softmax 模型中的辅助向量 $V _ { n } ^ { ' } ( w , j )$ 是未知的，这就需要采用SG法对参数进行优化。
+
+# 3.1输入层到嵌入层的推导过程
+
+输入层输入的是上下文词向量的平均值，其中每个词用独热编码向量（one-hot encodedvector）[14]表示，即将给定的上下文词表示成 $\nu _ { \scriptscriptstyle w } \{ x _ { 1 } , x _ { 2 } , \cdots , x _ { \scriptscriptstyle \nu } \}$ 的向量形式，其中向量的分量 $x _ { i }$ 中只有一个为1，其他分量全为0。权重矩阵 $W$ 的每一行可理解为输入词 $w$ 的 $N$ 维词向量 $\nu _ { { } _ { w } } \in {  R } ^ { N }$ 。计算嵌入层输出时，将输入上下文词向量的平均值作为输出，即为 $e \in { \boldsymbol { R } } ^ { N }$ 。则有
+
+$$
+e = \frac { 1 } { C } \Big ( \nu _ { { \scriptscriptstyle w _ { 1 } } } + \nu _ { { \scriptscriptstyle w _ { 2 } } } + \cdots + \nu _ { { \scriptscriptstyle w _ { c } } } \Big ) ^ { \zeta }
+$$
+
+其中： $c$ 是上下文词向量的个数； $w _ { 1 } , w _ { 2 } , \cdots , w _ { c }$ 是上下文中的词;  
+$\nu _ { { } _ { w } }$ 是词 $w$ 的输入向量。
+
+将输入词向量更新公式定义为
+
+$$
+\nu _ { w _ { I , c } } ^ { \left( n e w \right) } = \nu _ { w _ { I , c } } ^ { \left( o l d \right) } - \frac { 1 } { C } \cdot \eta \cdot E H ^ { T }
+$$
+
+其中： $c = 1 , 2 , \cdots , C$ ； $\nu _ { { { \scriptscriptstyle w } } _ { I , c } }$ 是上下文中输入的第 $\mid c \mid$ 个词的向量； $\eta$   
+是学习率； $E H = \frac { \hat { \sigma } E } { \hat { \sigma } e }$ 是对数似然函数对输出向量e的导数。
+
+# 3.2嵌入层到输出层的推导过程
+
+神经网络语言模型的目标函数通常是取条件概率函数的对数似然函数，最关键的是对条件概率函数 $p \big ( \boldsymbol { w } = \boldsymbol { w } _ { o } \big )$ 的构造。在HierarchicalSoftmax模型中，将目标词 $w$ 的概率输出作为条件概率函数。定义如下：
+
+$$
+p \big ( \boldsymbol { w } = \boldsymbol { w } _ { o } \big ) = \prod _ { j = 1 } ^ { L ( w ) - 1 } \sigma \Big ( \big \| n \big ( \boldsymbol { w } , j + 1 \big ) = c h \big ( n \big ( \boldsymbol { w } , j \big ) \big ) \big \| \cdot \dot { \boldsymbol { \nu _ { n ( w , j ) } } } ^ { T } \cdot e \Big )
+$$
+
+其中： $c h ( n )$ 是节点 $n \big ( w , j \big )$ 的左孩子节点； $V _ { n ( w , j ) } ^ { ' }$ 是非叶子节点$n \big ( w , j \big )$ 的辅助向量; $e$ 是嵌入层的输出值； $\left\| x \right\|$ 是一个特殊函数，在 Huffman 树中用于给非叶子节点的左右孩子节点指定一个类别，即哪个是正类（标签为1），哪个是负类（标签为-1）。定义为
+
+$$
+\left\| x \right\| = \left\{ { \begin{array} { l } { 1 } & { i f ~ x ~ i s ~ t r u e ; } \\ { } \\ { } \\ { - 1 } & { o t h e r w i s e . } \end{array} } \right.
+$$
+
+通过预测目标词 $w _ { 2 }$ 说明推导过程。在图2中，从根节点出发到达叶子节点 $w _ { 2 }$ ，中间共经历了4次分支，每次分支都可视为进行了一次二分类。使用 $\left\| x \right\|$ 函数对节点进行标注，其中，左孩子节点的标签为1，右孩子节点标签-1。根据逻辑回归知识，利用 Sigmoid 函数，可计算出分到左孩子节点的概率 $p { \big ( } n , l e f t { \big ) }$ 。
+
+$$
+p \big ( n , l e f t \big ) = \sigma \Big ( \boldsymbol { \nu } _ { n } ^ { \cdot T } \cdot \boldsymbol { e } \Big )
+$$
+
+则分到右孩子节点的概率 $p ( n , r i g h t )$ 为
+
+$$
+p \big ( n , r i g h t \big ) { = } 1 - \sigma \Big ( \boldsymbol { \nu } _ { n } ^ { ' T } \cdot \boldsymbol { e } \Big ) { = } \sigma \Big ( - \boldsymbol { \nu } _ { n } ^ { ' T } \cdot \boldsymbol { e } \Big )
+$$
+
+从根节点到叶子节点 $w _ { 2 }$ 的路径可得到 $w _ { 2 }$ 作为词输出的条件概率 $p \big ( w _ { 2 } , w _ { o } \big )$ ，将式(9)(10)代入到 $p \big ( w _ { 2 } , w _ { o } \big )$ 中，计算公式如式(11)和(12)所示。
+
+$$
+p \big ( w _ { 2 } = w _ { O } \big ) = p \big ( n \big ( w _ { 2 } , 1 \big ) , l e f t \big ) \cdot p \big ( n \big ( w _ { 2 } , 2 \big ) , l e f t \big ) \cdot p \big ( n \big ( w _ { 2 } , 3 \big ) , r i g h t \big )
+$$
+
+$$
+p \big ( w _ { 2 } = w _ { O } \big ) = \sigma \bigg ( \nu _ { n \left( w _ { 2 } , 1 \right) } ^ { \prime } \cdot e \bigg ) \cdot \sigma \bigg ( \nu _ { n \left( w _ { 2 } , 2 \right) } ^ { \prime } \cdot e \bigg ) \cdot \sigma \bigg ( - \nu _ { n \left( w _ { 2 } , 3 \right) } ^ { \prime } \cdot e \bigg )
+$$
+
+经归一处理得到
+
+$$
+\sum _ { i = 1 } ^ { V } p \big ( w _ { i } = w _ { O } \big ) = 1
+$$
+
+以下开始推导非叶子节点对应的辅助向量 $V _ { n ( w , j ) } ^ { ' }$ 的参数更新方程，为下文梯度函数的推导方便，将式(7)中的符号Ⅲ里的
+
+内容简记为 $\left\| \bullet \right\|$ ，将 $V _ { n ( w , j ) } ^ { ' }$ 简记为 $\nu _ { j } ^ { ' }$ ，如式(14)(15)所示。
+
+$$
+\| \bullet \| : = \| n ( w , j + 1 ) = c h { \bigl ( } n ( w , j ) { \bigr ) } \|
+$$
+
+$$
+\dot { \nu _ { j } ^ { \dot { \mathbf { \nu } } } } : = \dot { \nu _ { n _ { w , j } } ^ { \dot { \mathbf { \nu } } } }
+$$
+
+一般基于神经网络语言模型的目标函数通常取对数似然函数，即如式(16)所示。
+
+$$
+E = \sum _ { w \in c } \log p \big ( w = w _ { O } \mid w _ { I } \big )
+$$
+
+将式(7)代入对数似然函数式(16)中得到目标函数 $E$ ，即如式(17)所示。
+
+$$
+E = - \log p \big ( \boldsymbol { w } = w _ { o } \mid \boldsymbol { w } _ { I } \big ) = - \sum _ { j = 1 } ^ { L \left( w \right) - 1 } \log \sigma \Big ( \big \lVert \bullet \big \rVert \nu _ { j } ^ { \cdot T } e \Big )
+$$
+
+式(17)推导出的对数似然函数 $E$ 就是CBOW模型的目标函数。为了使目标函数 $E$ 的值最大，式（18）采用随机梯度上升算法，梯度类算法的关键是给出梯度计算公式，下文为梯度计算的推导过程。
+
+随机梯度上升算法的过程是每对样本进行一次采样，就会对目标函数中的相关参数进行一次更新。由目标函数 $\boldsymbol { \mathbf { \mathit { E } } }$ 式(17)可知，该函数参数包括向量 $e$ ， $\nu _ { j } ^ { ' }$ ， $w \in c$ ， $j = 1 , \cdots , { \cal L } \big ( w \big ) - 1$ 。首先考虑 $E$ 关于 $\nu _ { j } ^ { ' } e$ 的梯度计算，即
+
+$$
+\frac { \partial E } { \partial \dot { \nu _ { j } } e } = \left( \sigma \big ( \lVert \bullet \rVert \big ) \dot { \nu _ { j } } e \right) - 1 \big ) \lVert \bullet \Big \rVert = \left\{ \begin{array} { l l } { \sigma \Big ( \nu _ { j } ^ { ' T } e \Big ) - 1 } & { \big ( \lVert \bullet \rVert = 1 \big ) } \\ & { = \sigma \Big ( \nu _ { j } ^ { ' T } e \Big ) - t _ { j } \left( \lVert \bullet \rVert = 1 \right) } \\ { \sigma \Big ( \nu _ { j } ^ { ' T } e \Big ) } & { \big ( \lVert \bullet \rVert = - 1 \big ) } \end{array} \right.
+$$
+
+其中：如果 $\left\| \bullet \right\| = 1$ 则 $t _ { j } = 1$ ，否则 $t _ { j } = - 1$ 。
+
+接下来考虑 $E$ 关于非叶子节点 $n \big ( w , j \big )$ 的辅助向量 $\nu _ { j } ^ { ' }$ 的梯度计算，即
+
+$$
+\frac { \partial E } { \partial \dot { \nu _ { j } } } = \frac { \partial E } { \partial \dot { \nu _ { j } } e } \cdot \frac { \partial \dot { \nu _ { j } } e } { \partial \dot { \nu _ { j } } } = \big ( \sigma \big ( \dot { \nu _ { j } } e \big ) - t _ { j } \big ) \cdot e
+$$
+
+于是， $\boldsymbol { \nu } _ { j } ^ { \dot { } }$ 的更新公式可写为
+
+$$
+\boldsymbol { \nu } _ { j } ^ { ' ( n e w ) } = \boldsymbol { \nu } _ { j } ^ { ' ( o l d ) } - \eta \biggl ( \sigma \biggl ( \boldsymbol { \nu } _ { j } ^ { ' T } \boldsymbol { e } \biggl ) - \boldsymbol { t } _ { j } \biggl ) \cdot \boldsymbol { e }
+$$
+
+其中： $\eta$ 表示学习率； $\sigma \biggl ( \nu _ { j } ^ { ' T } e \biggr ) - t _ { j }$ 表示非叶子节点 $n \big ( w , j \big )$ 的预测误差； $t _ { j } = 1$ 表示接下来到左孩子节点； $t _ { j } = 0$ 表示接下来到右孩子节点； $\sigma \bigg ( \nu _ { j } ^ { ^ { \prime } T } e \bigg )$ 是预测值，是预测非叶子节点接下来是左孩子节点还是右孩子节点的概率值。
+
+# 3.3嵌入层到输入层的推导过程
+
+通过对数似然函数反向推导出权重矩阵 $W$ 的更新公式，考虑 $E$ 关于嵌入层的输出向量 $e$ 的梯度计算式(21)，即
+
+$$
+\frac { \partial E } { \partial e } = \sum _ { J = 1 } ^ { L \left( w \right) - 1 } \frac { \partial E } { \partial \dot { \nu _ { j } } e } \cdot \frac { \partial \dot { \nu _ { j } } e } { \partial e } = \sum _ { j = 1 } ^ { L \left( w \right) - 1 } \left( \sigma { \left( \dot { \nu _ { j } } ^ { ' T } e \right) } - \dot { t _ { j } } \right) \cdot \dot { \nu _ { j } } : = E H
+$$
+
+将式(21)直接代入式(6)可得到权重矩阵 $W$ 的更新公式。
+
+# 3.4权重矩阵Wnew的推导过程
+
+将更新后的权重矩阵W与平均上下文词向量矩阵 $\boldsymbol { S } \in \boldsymbol { R } ^ { V \times V }$
+
+相乘得到新的权重矩阵 $W _ { n e w } \in R ^ { V \times N }$ 作为词的向量表示。
+
+$$
+W _ { n e w } = S \times W
+$$
+
+# 4 实验
+
+# 4.1实验环境
+
+实验环境为PentiumDual-Core CPU $\mathrm { E } 5 3 0 0 ^ { \{ \varpi \} } 2 . 6 0 ~ \mathrm { G H z }$ ，2GB 内存、500GB 硬盘的台式机。操作系统为Windows7，实验工具为 Anaconda2(64-bit)以及 JetBrains PyCharm CommunityEdition 2017.1.2 x64
+
+# 4.2 数据集的获取
+
+类比任务中使用到的text8 和questions-words 数据集均是从Google官网下载得到，语料库 text8是由 $1 0 ^ { \{ 8 \} }$ 个单词组成的一行句子，其中包含27种字符，即小写的从a到 $z$ 的字母及空格符。数据集questions-words中包含family等14个类别，每个类别中的数据是4列。
+
+命名实体识别任务中使用的数据是CoNLL-2003命名实体[10]任务中的数据。其中一份用于训练Word2Vec 词向量的 Traing数据，以及两份用于测试的Development数据和Testa、Testb 数据。数据中每行包含4个字段：单词、POS 标签[15]、块标签、命名实体标签。用O标记的是外来的命名实体，I-XXX标签用于XXX类型的命名实体中的单词。数据包含4种类型的实体：PER、ORG、LOC、MISC。
+
+# 4.3 两组实验任务
+
+为了有效地说明Word2Vec-ACV模型的优点，本文分别通过类比任务（analogytask）和命名实体识任务（NERtask）对Word2Vec-ACV模型进行评估实验。
+
+# 4.3.1类比任务
+
+为了表明Word2Vec-ACV模型创建的词向量能有效地反映出词之间的语义的关系，本文借用Mikolov等人在Word2Vec论文中提到的类比任务[67进行评估实验。本实验首先运用基于CBOW和Hierarchical Softmax 的Word2vec 模型对 text8语料库进行训练，其中式(3)中的 $a$ 赋值为1， $h s = 1$ ，嵌入维度200维，随机种子为3，且上下文窗口取值为5。然后将从含有17005207个单词（删除掉那些计数 $< 5$ 的单词）的语料库中训练出来的253854个Word2Vec词向量和再将Word2Vec词向量与这 253854个词相应的平均上下文词向量矩阵相乘得到的Word2Vec-ACV词向量运用到类比任务中。其中，类比任务是一系列 $A - B = C - D$ 类问题。即通过类比词向量A减去词向量 $B$ （204号的形式预测出词向量 $c$ 对应的词向量 $D$ 然后再与正确答案进行匹配，从而评估出模型性能。例如，给定A：King、B:Queen、C：Man 预测 D：Woman。
+
+为了评估Word2Vec模型和Word2Vec-ACV模型在类比任务中的准确性，引入准确性[16计算式(23)。
+
+$$
+A c c u r a c y = { \frac { c o r r e c t } { c o r r e c t + i n c o r r e c t } }
+$$
+
+其中：correct 表示预测正确的个数；incorrect 表示预测错误的个
+
+数。实验结果如表1所示。
+
+表1Word2Vec 和Word2Vec-ACV模型1次迭代类比任务准确性 $\%$   
+
+<html><body><table><tr><td>类别</td><td>Word2Vec</td><td>Word2Vec-ACV</td></tr><tr><td>capital-common-countries</td><td>10.5</td><td>36.0</td></tr><tr><td>capital-world</td><td>4.3</td><td>19.9</td></tr><tr><td>currency</td><td>4.5</td><td>11.6</td></tr><tr><td>city-in-state</td><td>10.9</td><td>20.7</td></tr><tr><td>family</td><td>53.9</td><td>61.4</td></tr><tr><td>graml-adjective-to-adverb</td><td>6.1</td><td>8.6</td></tr><tr><td>gram2-opposite</td><td>15.4</td><td>18.3</td></tr><tr><td>gram3-comparative</td><td>44.9</td><td>44.3</td></tr><tr><td>gram4-superlative</td><td>22.9</td><td>20.4</td></tr><tr><td>gram5-present-participle</td><td>11.9</td><td>17.3</td></tr><tr><td>gram6-nationality-adjective</td><td>36.0</td><td>37.6</td></tr><tr><td>gram7-past-tense</td><td>17.3</td><td>18.5</td></tr><tr><td>gram8-plural</td><td>27.9</td><td>29.5</td></tr><tr><td>gram9-plural-verbs</td><td>23.5</td><td>20.2</td></tr><tr><td>total</td><td>20.5</td><td>25.7</td></tr></table></body></html>
+
+表1列出了Word2Vec和Word2Vec-ACV模型对14个类别下进行1次迭代各自的准确性。在前3个类比任务中，Word2Vec-ACV模型的准确性都是Word2vec模型的2倍以上，其中capital-common-countries 类别任务中的准确性高达3.43倍。通过对实验结果分析表明Word2Vec-ACV模型在类比任务中的准确性要比Word2Vec模型在类比任务中的准确性要高。这是由于在某些类比任务中词只有单一含义，而其他类比任务中词有多重含义。说明词义的多样性对准确性计算的影响较大，也表明在获取词之间的语义关系方面，Word2Vec-ACV模型要优于Word2vec 模型。
+
+表2Word2Vec和Word2Vec-ACV模型10次迭代类比任务准确性 $/ \%$   
+
+<html><body><table><tr><td>类别</td><td>Word2Vec</td><td>Word2Vec-ACV</td></tr><tr><td>capital-common-countries</td><td>64.8</td><td>79.01</td></tr><tr><td>capital-world</td><td>33.9</td><td>57.9</td></tr><tr><td>currency</td><td>15.9</td><td>19.6</td></tr><tr><td>city-in-state</td><td>29.3</td><td>44.3</td></tr><tr><td>family</td><td>79.5</td><td>76.4</td></tr><tr><td>graml-adjective-to-adverb</td><td>11.01</td><td>16.7</td></tr><tr><td>gram2-opposite</td><td>24.4</td><td>27.3</td></tr><tr><td>gram3-comparative</td><td>64.9</td><td>64.3</td></tr><tr><td>gram4-superlative</td><td>41.9</td><td>38.4</td></tr><tr><td>gram5-present-participle</td><td>30.9</td><td>31.3</td></tr><tr><td>gram6-nationality-adjective</td><td>71.6</td><td>67.6</td></tr><tr><td>gram7-past-tense</td><td>30.3</td><td>33.3</td></tr><tr><td>gram8-plural</td><td>48.9</td><td>49.5</td></tr><tr><td>gram9-plural-verbs</td><td>41.5</td><td>32.2</td></tr><tr><td>total</td><td>42.1</td><td>47.4</td></tr></table></body></html>
+
+表2列出了Word2Vec和Word2Vec-ACV模型对14个类别下进行10次迭代各自的准确性。实验结果表明10次迭代的类比任务的准确率整体优于在1次迭代中的准确率，且在10 次迭代中的capital-world类别任务，Word2Vec-ACV模型训练出的词向量准确率是Word2Vec 模型的1.7倍。通过对实验结果分析表明Word2Vec-ACV模型在类比任务中的准确性要比Word2Vec模型在类比任务中的准确性要高，表明Word2Vec-ACV 模型训练出的词向量要优于Word2Vec 训练出的词向量，并说明语料迭代的次数会影响到实验的结果。
+
+# 4.3.2NER任务
+
+Word2Vec-ACV模型的主要优点是能够使用局部平均上下文词向量矩阵来创建OOV词向量，并区分词的不同含义。实验采用CoNLL2003NER任务[10]作为外部评估，与常规的Word2vec模型相比来说明Word2Vec-ACV模型的这一优点，将CoNLL2003NER任务中的Traing 数据用于Word2Vec 模型训练出词向量 $T _ { c \nu }$ ，其中在Development 和一份包含 Testa，Testb的测试数据中的OOV用零向量表示。并将得到的词量 $T _ { c \nu }$ 分别与Development和Test数据中的平均上下文词向量矩阵相乘创建Word2Vec-ACV词向量 $D _ { \boldsymbol { c } \nu }$ 、 $T a _ { c \nu }$ 和 $T b _ { c \nu }$ 。将训练出来的词向量同时与逻辑回归分类模型一起使用。其中，为排除其他因素对结果的影响，本实验只使用词向量作为特征信息，不使用例如POS标签等其他信息。为了评价本文提出的Word2Vec-ACV模型实验结果的质量，将实验得到的结果引入一个评价标准F1-Measure [17]。 $F _ { \beta } - M e a s u r e$ 是一种计算准确率和召回率加权调和平均的统计量。准确率和召回率是广泛应用于信息检索和统计学分类领域的两个度量值，用来评价结果的质量。准确率是检索出相关文档数与检索出的文档总数的比率，衡量的是检索系统的查准率；召回率是指检索出的相关文档数和文档库中所有的相关文档数的比率，衡量的是检索系统的查全率。计算公式如下：
+
+$$
+F _ { \beta } - M e a s u r e = \frac { ( \beta ^ { 2 } + 1 ) * \operatorname* { P r } e c i s i o n * \operatorname { R e } c a l l } { \left( \beta ^ { 2 } * \operatorname* { P r } e c i s i o n + \operatorname { R e } c a l l \right) }
+$$
+
+其中：当 $\beta = 1$ 时，即为。Precision是准确率，表示为命名实体识别任务中识别正确的样本数与总样本的比率；Recau是召回率，表示为命名实体识别任务中识别正确的样本数与实际任务中的总样本数的比率。根据模型和CoNLL2003NER任务将准确率和召回率定义为如下公式：
+
+依据公式，本实验验证过程分别将Training生成Word2Vec词向量 $T _ { c \nu }$ ，测试数据中的Testa和Testb分别生成的Word2Vec-ACV词向量 $T a _ { c \nu }$ 和 $T b _ { c \nu }$ ，其中式（3）中的 $\boldsymbol { a }$ 赋值为0.6。将这三种词向量用于4种类型的命名实体任务中，得到的各自的$F _ { 1 }$ -Measure值比较分别如图3\~6所示。
+
+![](images/42054e7734f7a55434cd912d1d0ac247618b6243a541eeac9ec18cb9a404851d.jpg)  
+图3training、Testa 和 Testb 词向量LOC 任务中 $\mathrm { F } _ { 1 }$ -Measure的比较
+
+![](images/a429061700aa1745992ad1ff29885998b0526408ae9c0b85e52f288143b47654.jpg)  
+图4training、Testa 和 Testb 词向量MISC 任务中 $\mathrm { F } _ { 1 }$ -Measure的比较
+
+![](images/3f82b4fc17bd30d0d0a0c576baef6e5139df6ff10a13fe095d4f9dbffe568d10.jpg)  
+图5training、Testa 和 Testb 词向量ORG 任务中 $\mathrm { F } _ { 1 }$ -Measure的比较
+
+![](images/a31e2592e18ea22f58c82a516dad42ccfa3023213164e788ada6250517b1ff32.jpg)  
+图6training、Testa 和Testb 词向量FER任务中 $\mathrm { F } _ { 1 }$ -Measure的比较
+
+根据图3\~6的结果显示，用Training训练出的Word2Vec词向量 $T _ { c \nu }$ 、Testa训练出的Word2Vec-ACV词向量 $T \boldsymbol { a } _ { c \nu }$ 和Testb训练出的Word2Vec-ACV词向量 $T b _ { c \nu }$ 与逻辑回归分类模型一起应用于CoNLL2003NER任务中得到当 $\boldsymbol { a }$ 赋值为0.6时，LOC、MISC、ORG和FER这四类命名实体任务任务中的 $F _ { 1 }$ -Measure值，在LOC 命名实体任务中Training、Testa 和 Testb 的$F _ { 1 }$ -Measure值分别为61.14、65.75和62.4；在MISC命名实体任务中Training、Testa 和 Testb 的 $F _ { 1 }$ -Measure值分别为25.62、29.64和28.4；在ORG命名实体任务中Training、Testa和Testb的 $F _ { 1 }$ -Measure值分别为21.55、24.2和26.95；在FER命名实体任务中Training、Testa 和Testb 的 $F _ { 1 }$ -Measure值分别为42.5、45.69 和43.93。其中Testa训练出的Word2Vec-ACV词向量 $T a _ { c \nu }$ 在LOC、MISC 和FER任务的F-Measure值最高，Training训练出的Word2Vec词向量 $T _ { c \nu }$ 在LOC、MISC和FER命名实体任务的 $F _ { 1 }$ -Measure 值最低。其中在MISC任务中，利用Testa 的Word2Vec-ACV词向量 $T a _ { c \nu }$ 得到的 $F _ { 1 } - M e a s u r e$ 值比单纯利用Training 数据训练出的Word2Vec 词向量的 $F _ { 1 } - M e a s u r e$ 值高出4.02个百分点，利用Testb的Word2Vec-ACV词向量 $T b _ { c \nu }$ 得到的 $F _ { 1 } - M e a s u r e$ 值比单纯利用Training 数据训练出的Word2Vec词向量的 $F _ { 1 } - M e a s u r e$ 值高出2.78个百分点。
+
+经过对实验结果的分析，采用Word2Vec-ACV模型训练出来的词向量 $T a _ { c \nu }$ 和 $T b _ { c \nu }$ 在区分词的不同含义方面要优于单纯采用Word2Vec模型训练出来的词向量 $T _ { c \nu }$ 。
+
+为了验证Word2Vec-ACV模型对OOV创建词向量有很好的效果，先对Training 数据使用Word2Vec 模型进行100 次迭代训练出词向量，其中Development 和 Test 数据中的OOV 词用零向量表示。然后分别对Training、Development、和 Test数据训练出来的词向量进行NER实验。
+
+实验时，对式(3)中的 $a$ 分别赋值为0、0.1、0.2、0.3、0.4、0.5、0.6、0.7、0.8、0.9、1。当 $a = 1$ 时，分两种情况：第一种是将Training 数据训练出来的Word2Vec 词向量 $T _ { c \nu }$ 与Training数据的全局平均上下文词向量（globalACV）相乘得到Global词向量，如图7、8所示的global；第二种是将Development和Test数据训练出的Word2Vec 词向量分别与Development 和Test数据局部平均上下文词向量（localACV）相乘创建出OOV词向量，如图7、8所示的OOV。当 $0 \leq a < 1$ 时，分别将单个Development、Test 数据的局部平均上下文词向量（localACV）与 Training 数据的全局平均上下文词向量（globalACV）在0\~1间取一个权值 $a$ 与词向量 $T _ { c \nu }$ 相乘创建混合型OOV词向量。实验采用 $F _ { 1 } - M e a s u r e$ 值进行评估，评估结果如图7、8所示。
+
+实验结果显示，使用Word2Vec-ACV模型生成的词向量在NER 任务中要优于Word2Vec 模型生成的词向量,其中 Training代表Word2Vec 模型生成的词向量用于NER任务。当 $a$ 赋值为1时，Globale对应的 $F _ { 1 } - M e a s u r e$ 值与OOV对应的 $F _ { 1 }$ -Measure值相差不大，因为其词向量的计算都是基于它们各自的全局上下文训练出的Word2Vec词向量与它们各自的平均上下文词向量相乘得到的；当 $0 \leq a < 1$ 时，混合型Word2Vec-ACV生成的词向量对应 $F _ { 1 } - M e a s u r e$ 值随着 $a$ 的取值成在一定的相关性，其中当 $a$ 赋值为0.6时， $F _ { 1 }$ -Measure值最高，明显高于 $a$ 赋值不为0.6时的 $F _ { 1 }$ -Measure值，这说明单个文档的LocalACV和全语料库的GlobalACV混合起来的Word2Vec-ACV模型创建出来的混合型词向量优于单个文本创建出来的词向量。经过对实验结果的分析说明，将单个文档的LocalACV和全语料库的GlobalACV混合起来创建出混合型的Word2Vec-ACV词向量相比于Word2Vec 模型生成的词向量更能有效地为集外词创建词向量并使词向量符合其上下文语境的含义。
+
+![](images/e4c2615d6924350e4bdec3243e122fe3f238d2dfae54d66189c7072b520f397e.jpg)  
+图7Test词向量与Training词向量的 $\mathrm { F } _ { 1 }$ -Measure值比较
+
+![](images/f924b930f52fc1d06fc1f9496e76bd1398ceac0fa9dd5221f6659a0729724465.jpg)  
+图8Development 词向量与 Training 词向量的 $\mathrm { F } _ { 1 }$ -Measure值比较
+
+# 5 结束语
+
+本文将上下文语境环境的相似性信息纳入到Word2Vec 模型中，针对传统的自然语言模型不能根据语境环境为集外词创建词向量的问题，本文提出了一种基于平均上下词向量的Word2Vec-ACV模型。
+
+该模型基于 CBOW 和 Hierarchical Softmax 框架的Word2vec模型训练出权重矩阵 $W$ ，再分别对语料库和集外词所在的文档生成共现矩阵 $C o _ { g l o b a l }$ 和 $C o _ { l o c a l }$ ，再对共现矩阵进行归一化处理分别得到语料库的平均上下文词向量矩阵 $V _ { w _ { g l o b a l } }$ 和集外词所在的文档的平均上下文词向量矩阵 $V _ { w _ { l o c a l } }$ 。再对 $V _ { w _ { g l o b a l } }$ 与$V _ { w _ { l o c a l } }$ 中相同词 $w _ { i }$ 对应的词向量按一定的比例 $a$ 求和得到加权平均上下文词向量矩阵S，最后将平均上下文词向量矩阵 $s$ 与权重矩阵 $W$ 相乘得到最终的词向量矩阵 $W _ { n e w }$ ，该模型会在一定程度上提升词的嵌入效果。
+
+将Word2Vec-ACV模型与Word2Vec 模型应用于类比任务实验和命名实体识别任务中。在类比任务的实验中，Word2Vec-ACV模型训练出来的词向量应用在capital-world类别任务中的准确率是Word2Vec-ACV模型训练出来的词向量的1.7倍以上，能更加准确地反映出词在特定语境的意义。在命名实体识别任务的实验中，基于globalACV和localACV的Word2Vec-ACV模型训练出来的词向量得到的 $F _ { 1 }$ -Measure值要高于单独使用globalACV 的 Word2Vec-ACV 模型训练出来的词向量得到的$F _ { 1 }$ -Measure值。其中，当 $\boldsymbol { a }$ 取值为0.6时指标 $F _ { 1 } - M e a s u r e$ 的值最高，表明结合localACV创建的Word2Vec-ACV词向量在不同语境下能有效地区分词的不同含义。在下一步研究中，将考虑上下文向量矩阵中是否能融入更多元信息，如将语序信息加入到模型中，以期望能更加完善模型生成词向量的准确性。
+
+# 参考文献：
+
+[1]张军阳，王慧丽，郭阳，等.深度学习相关研究综述[J/OL].计算机应 用研究,2018,35(7).[2017-08-17].http://www.arocmag.com/article/02- 2018-07-067. html.   
+[2]Baeza-Yates R,Ribeiro-Neto B.Modern information retrieval [M]. New York:ACMPress,1999:1-5.   
+[3]Manning C D, Schutze H.Foundations of statistical natural language   
+[4]processing [M].Cambridge:MIT Press,1999:1-4.   
+[5]Bengio Y,Ducharme R,Vincent P,et al.A neural probabilistic language model [J]. Journal of Machine Learning   
+[6]Research,2003 (3): 1137-1155.   
+[7]Mikolov T, SutskeverI, Chen K,et al.Distributed representations of words and phrases and their compositionality[C]//Advances in Neural Information Processing Systems.2013:3111-3119.   
+[8]Mikolov T,Chen K,Corrado G,et al.Efficient estimation of word representations in vector space [J].arXiv preprint,arXiv:13o1.3781   
+[9]WangL,Dye C,Black AW,et al.Two//too simple adaptations of Word2 Vec for syntax problems [C]//Proc ofConference ofthe North American Chapter of the Association for Computational Linguistics- Human Language Technologies. 2015.   
+[10] Reisinger J,Mooney R J. Multi-prototype vector-space models of word meaning [C]//Proc of Conference of the North American Chapter of the Association for Computational Linguistics.201o:109-117.   
+[11] Trask A,Michalak P,Liu J.sense2vec-a fast and accurate method for word sense disambiguation in neural word embeddings [J].arXiv preprint,arXiv: 1511. 06388.   
+[12] Sang EFTK,MeulderFD.Introduction to the CoNLL-2003 shared task: language independent named entity recongnition [C]// Proc of Conference on Natural Language Learning at Hlt-naacl. 2oo3:142-147.   
+[13] Levy O,Goldberg Y,Dagan I. Improving distributional similarity with lessons learned from word embeddings [J].Bulletin De La Societé Botanique De France,2015,75 (3): 552-555.   
+[14] Levy O,Goldberg Y,Ramat-Gan I. Linguistic regularities in sparse and explicit word representations [C]// Proc of the 18th Conference on Computational Natural Language Learning.2014:171-180.   
+[15] Melamud O,Dagan I, Goldberger J.Modeling word meaning in context with substitute vectors [Cl//Proc of Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.2015: 472-482.   
+[16]唐明，朱磊，邹春显．基于Word2Vec的一种文档向量表示[J].计算机 科学,2016,43 (6): 214-217.   
+[17] Zheng X, Chen H, Xu T. Deep learning for Chinese word segmentation and POS tagging [C]/ Proc of EMNLP,2013: 647-657.   
+[18] Diebold F X,Mariano R S.Comparing predictive accuracy [J]. Journal of Business&Economic Statistics,2012,13(1):134-144   
+[19] David M W. EvaluTion: form precision,recall and f-measure to ROC, informedness,markedness & CORRE-LATION [J].Journal of Machine Learning Technologies,2011(1):37-63.

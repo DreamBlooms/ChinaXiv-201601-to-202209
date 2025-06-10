@@ -1,0 +1,95 @@
+# NSTL集成第三方来源元数据的实践与探索
+
+于倩倩1,2 张建勇1,2
+
+（1中国科学院文献情报中心；2NSTL数据研究管理中心）
+
+摘要：本文在分析Web of Science、Scopus 和NSTL 联合数据加工系统采用的文献元数据规范基础上，以期刊论文为例，实现三者数据库元数据的映射，并对元数据的描述方式和特点进行了比较，同时结合实践，提出了元数据映射过程中需要注意的问题，为相关系统的元数据建设和利用第三方数据提供参考依据。
+
+关键词：Web of Science,Scopus,NSTL，元数据
+
+# 1引言
+
+国家科技图书文献中心（NSTL）“十三五”发展规划提出，要优化国家科技文献资源保障体系，拓展元数据资源采集方式。通过与国内外出版商、相关信息机构协商、购买、交换、赠与、缴存等多渠道获取第三方元数据，是拓展建设元数据资源的方式之一。因此，需要在NSTL联合数据加工系统采用的文献资源元数据规范基础上，深入分析其它来源数据的类型特点和建设需求，建立健全元数据规范，以便有效地集成第三方来源元数据。
+
+然而，不同的文献数据库，元数据规范描述的内容和方式往往存在差异，这影响了相互间的数据交互和共享，也对集成和利用其它数据库资源产生障碍。第三方元数据格式的多样性与NSTL加工资源需求接口单一性之间的冲突，使得第三方来源元数据与NSTL文献资源元数据之间的互操作成为必然。明确元数据的内容和组织方式，制订相关规则实现第三方来源与NSTL文献资源元数据的映射，是有效集成和利用第三方数据库数据的可操作方式之一。
+
+本文在分析Web of Science（以下简称 WOS）数据库1、Scopus 数据库²和NSTL采用的文献资源加工规范基础上，结合相关实践，以期刊论文为例，对三者的元数据映射内容、映射效果、元数据描述方式和特点进行比较，以期为相关文献信息系统的元数据建设和利用已有第三方数据库资源提供借鉴。
+
+# 2期刊论文元数据结构
+
+根据DC元数据设计的模块化原则4，并结合分析三个文献数据库的元数据内容，期刊论文元数据可以分为论文元数据、作者元数据、作者机构元数据、期刊元数据、会议元数据、基金元数据、参考文献元数据、施引文献元数据等。按照实体分析法，期刊论文实体间的关系如图1所示，一篇期刊论文可能由一个或多个作者撰写，一个作者属于一个或多个机构，论文发表在期刊上，可能来自于某个会议，也可能挂靠某个基金，可能具有1篇或多篇参考文献，也可能被1
+
+篇或多篇文献引用等。
+
+WOS、Scopus、NSTL的期刊论文元数据类型如表1所示，可以看出，WOS、Scopus 对8类元数据均有描述，NSTL缺乏对会议、基金和施引文献元数据的描述。分析原因，一是，WOS、Scopus 使用一套元数据 Schema 描述多种文献类型如期刊论文、会议论文、图书、专利等，因此，如果期刊论文中涉及到会议、基金信息，会出现相关的会议、基金描述信息，NSTL虽然相同含义字段元素通用，但以文献类型为基础划分元数据Schema，会议元数据出现在会议论文 Schema中；二是，NSTL目前还没有基金数据、施引文献数据的描述。
+
+表1WOS、Scopus、NSTL 的期刊论文元数据  
+
+<html><body><table><tr><td>元数据类型</td><td>论文</td><td>作者</td><td>作者机构</td><td>期刊</td><td>会议</td><td>基金</td><td>参考文献</td><td>施引文献</td></tr><tr><td>WOS</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>Scopus</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>NSTL</td><td>√</td><td>√</td><td>√</td><td>√</td><td></td><td></td><td>√</td><td></td></tr></table></body></html>
+
+# 3元数据映射与比较
+
+以 NSTL 期刊论文元数据（部分字段是必备(Required)字段，以R表示）为基础，对比WOS、Scopus在论文元数据、作者/机构元数据、期刊元数据、参考文献元数据中相同字段的描述内容和方式，并分析不同文献数据库元数据描述的特点，以期取长补短，更好地对文献数据进行管理。
+
+# 3.1论文元数据的映射比较
+
+NSTL论文描述信息是期刊论文描述元数据规范的主体部分，描述的内容包括论文题名、关键词、文摘和分类信息等几个部分。WOS论文描述信息包括论文唯一标识UID、题名、文献类型信息等，起页、止页、总页数在期刊元数据中进行描述。Scopus论文描述信息包括论文题名、摘要、文献类型等信息，主题词、分类号信息在增强描述集中描述，起页、止页、总页数在期刊元数据中描述，参考文献总数在参考文献元数据中描述，论文唯一标识符包括eid、pui、pii 等。WOS、Scopus与NSTL论文元数据映射如表2所示。
+
+表2论文元数据映射  
+
+<html><body><table><tr><td>元数据标签</td><td>NSTL Schema</td><td>WOS Schema</td><td>Scopus Schema</td></tr><tr><td>记录号</td><td>paper_id(R)</td><td></td><td></td></tr><tr><td>题名</td><td>title (R)</td><td>title type="item"</td><td>titletext original="y"</td></tr><tr><td>其他语种题名</td><td>alternative</td><td>title type="foreign"</td><td>titletext original="n"</td></tr><tr><td>文摘</td><td>abstract</td><td>abstract_text</td><td>abstract original="y"</td></tr><tr><td>其它语种文摘</td><td>abstract_alternative</td><td></td><td>abstract original="n"</td></tr></table></body></html>
+
+<html><body><table><tr><td>关键词</td><td>keyword</td><td>keyword</td><td>author-keyword</td></tr><tr><td>其它语种关键词</td><td>keyword_alternative</td><td></td><td></td></tr><tr><td>主题词</td><td>subject_heading</td><td>subject</td><td>mainterm</td></tr><tr><td>主题词表</td><td>thesaurus</td><td></td><td>descriptors controlled="y" type="*</td></tr><tr><td>分类号</td><td>classification</td><td></td><td>classification</td></tr><tr><td>分类法</td><td>classification_scheme</td><td></td><td>classifications type="*</td></tr><tr><td>正文语种</td><td>language (R)</td><td>language</td><td>citation-language xml:lang=""</td></tr><tr><td>其它语种</td><td>other_language</td><td></td><td></td></tr><tr><td>起页</td><td>start_page (R)</td><td>page begin=""</td><td>pagerange first=*</td></tr><tr><td>止页</td><td>end_page</td><td>page end="*</td><td>pagerange last="</td></tr><tr><td>总页数</td><td>total_page_number (R)</td><td>page page_count="""</td><td>pagecount</td></tr><tr><td>参考文献总数</td><td>total_reference_number</td><td>refs count=""*</td><td>refcount=*"*</td></tr><tr><td>文献号</td><td>paper_no</td><td></td><td></td></tr><tr><td>本地唯一标识符</td><td>local_doi (R)</td><td></td><td></td></tr><tr><td>DOI</td><td>doi</td><td>identifier type="doi" value=""*</td><td>doi</td></tr><tr><td>论文类型</td><td>paper_type</td><td></td><td></td></tr><tr><td>资源类型</td><td>type(R)</td><td>doctype</td><td>citation-type code=*"*</td></tr></table></body></html>
+
+从表2可以看出，在22个NSTL论文元数据字段中，WOS有11个字段实现映射，仅占1/2，Scopus 有16个字段完成映射。在未映射的字段中还包含了必备字段 paper_id 和 local_doi，这样的话，如果想要将映射后的数据以 NSTLSchema格式输出则无法完成，解决方法可以将必备字段取值为内部id或输出为空标签。
+
+另外，不同数据库相同字段的元数据枚举值可能不同，例如 NSTL 的 type、WOS 的doctype、Scopus 的citation-type，虽然都是描述文献的类型，但三者的类型值不同，需要进行统一或指定枚举值映射方式；同一字段的元素取值类型可能不同,例如NSTL中作者顺序 author_sequence 取值类型为byte5,WOS 中 seq_no取值类型为positiveInteger，需要调整为一致。
+
+从表2中还可以看出，NSTL通过元素方式进行描述，WOS、Scopus多用属性进行描述,例如,在WOS Schema 中,描述题名(title)元素的属性有类型(type)，type 的取值除了论文(item)、其它语种(foreign)还包含出版物(source)、iso 出版物缩写(abbrev_iso)、11 位出版物缩写(abbrev_11)等，页码、参考文献数等都采用了属性限定元素的方式，更好地将描述内容进行归并。
+
+# 3.2作者/机构元数据的映射比较
+
+在 NSTL中，作者是指期刊论文撰写者，在WOS、Scopus 中，论文作者与出版者、图表制作者、翻译者等共用子元素，因此需要指定父元素author才能实现准确映射，如表3所示。除了映射元素外，WOS、Scopus 中都有对作者姓、名、通讯作者、机构地址、所属国家和城市的描述，以及唯一标识符的描述。WOS 中作者的唯一标识符包括ResearcherID、ORCID、dais_id 等，Scopus 中作者唯一标识符为AuthorId，机构唯一标识符为afid，均是可选属性。作者唯一标识符对唯一识别作者具有重要作用。
+
+表3作者/机构元数据映射  
+
+<html><body><table><tr><td>元数据标签</td><td>NSTL Schema</td><td>WOS Schema</td><td>Scopus Schema</td></tr><tr><td>作者顺序</td><td>author_sequence</td><td>name seq_no=""”’ 且 role="author"</td><td>author seq=""</td></tr><tr><td>作者姓名</td><td>(R) author_name(R)</td><td>name(role="author") display_name</td><td>author indexed-name</td></tr><tr><td>其它形式作 者姓名</td><td>author_name_alt ernative</td><td>有full_name 时对照 name(role="author") wos_standard; 无 full_name，无对照字段</td><td>author initials</td></tr><tr><td>作者所属机 构</td><td>affiliation</td><td>address_name address_spec organization</td><td>affiliation organization</td></tr><tr><td>其它形式机 构</td><td>affiliation_altern ative</td><td></td><td></td></tr><tr><td>作者Email 地址</td><td>email</td><td>name(role="author") email_addr</td><td>author e-address type="email"</td></tr></table></body></html>
+
+在WOS 数据库中，通过addr_no 建立了作者和机构之间的一一对应关系，如果作者姓名(name)元素中的属性 addr_no 和地址 address_spec 元素中的属性addr_no相同，则表示此机构是该作者的机构。这样，不管作者有几个机构，都可以方便地实现对应，避免重复记录。
+
+相较于WOS 对作者和机构信息的对应描述，NSTL和 Scopus 的表达方式相对繁琐。NSTL顺序描述作者和机构信息，如果文献作者隶属于同一机构，则会出现多次相同机构的描述信息，造成机构信息的冗余。Scopus以机构为基准对作者进行划分，同一机构的作者会出现在同一描述记录中，如果作者属于多个机构，则会在多个描述记录中出现该作者的姓名和联系方式等描述信息，造成作者信息的冗余。
+
+# 3.3期刊元数据的映射比较
+
+期刊是期刊论文的载体，在NSTL中，期刊元数据包括期刊描述信息见表4中的前14个元素和卷期描述信息见表4中的后3个元素，在WOS、Scopus 中卷期描述信息包含在期刊描述信息中。除了表4中的映射元素，WOS包含了更详细的期刊名称的缩写信息、卷期出版日期信息和出版商地址信息，Scopus 描述了期刊唯一标识符 srcid、期刊名称缩写、文献来源网址、期刊编辑者信息等。
+
+表4期刊元数据映射  
+
+<html><body><table><tr><td>元数据标签</td><td>NSTL Schema</td><td>WOS Schema</td><td>Scopus Schema</td></tr><tr><td>母体数据源编 号</td><td>catalog_code(R)</td><td></td><td></td></tr><tr><td>订购号</td><td>subscription_number</td><td></td><td></td></tr><tr><td>ISSN</td><td>issn</td><td>identifier type="issn"</td><td>issn type="print"</td></tr><tr><td>EISSN</td><td>eissn</td><td>identifier type="eissn"</td><td>issn type="electronic""</td></tr><tr><td>CODEN</td><td>coden</td><td></td><td>codencode</td></tr><tr><td>国内统一书刊 号</td><td>cn</td><td>identifier type="cn”</td><td></td></tr><tr><td>母体文献名称</td><td>host_title(R)</td><td>title type="source"</td><td>sourcetitle</td></tr><tr><td>其他语种母体 文献名称</td><td>host_title_alternative</td><td></td><td>translated-sourcetitle</td></tr><tr><td>语种</td><td>host_language(R)</td><td></td><td></td></tr><tr><td>母体文献分类 号</td><td>host_classification</td><td></td><td></td></tr><tr><td>出版地</td><td>publishing_place</td><td>publisher address_spec city</td><td>publisher affliation</td></tr><tr><td>出版者</td><td>publisher</td><td>publisher name</td><td>city publishername</td></tr><tr><td>起始年</td><td>start_year(R)</td><td>(role="publisher")display_name</td><td></td></tr><tr><td>终止年</td><td>end_year</td><td></td><td></td></tr><tr><td>卷期出版年</td><td>year(R)</td><td>pub_info pubyear="""</td><td>publicationyear first=""</td></tr><tr><td>卷信息</td><td>volume</td><td>pub_info vol=*"*</td><td>voliss volume=**</td></tr><tr><td>期信息</td><td>issue</td><td>pub_info issue="”’ part_no=" supplement=""’ special_issue="*</td><td>volississue=* or supplement</td></tr></table></body></html>
+
+在 NSTL17个元数据字段中，WOS有9个字段实现映射，Scopus有10 个字段实现映射，对于未实现映射的必备字段处理方式同论文元数据未映射的必备字段。在NSTL中，只有期信息字段，没有划分增刊、特刊、分期字段，但指定了这些字段在期信息字段中的著录规则，例如有期号，但该期又分为若干分期的，分期前缀照录，增刊、专刊填写在期号后，若无期号则直接填写增刊信息等，可根据这些著录规则对WOS、Scopus相应数据进行数据抽取合并。
+
+# 3.4参考文献元数据的映射比较
+
+在 NSTL中，参考文献内容包括引文作者、题名、出处、卷期以及获取访问路径等。参考文献信息可以让用户从作者研究脉络角度查找到一组相关文献。WOS包含了参考文献中的作者、题名、刊名、卷、页信息，没有参考文献原始信息字段，Scopus既包含了原始信息字段，也包含了作者、题名等拆分字段。
+
+三者参考文献元数据映射如表5所示，对于未实现映射的必备字段处理方式同前。
+
+表5参考文献元数据映射  
+
+<html><body><table><tr><td>元数据标签</td><td>NSTL Schema</td><td>WOS Schema</td><td>Scopus Schema</td></tr><tr><td>引文类型</td><td>citation_type(R)</td><td></td><td></td></tr><tr><td>引文原始信息</td><td>citation_orig_info(R)</td><td></td><td>ref-fulltext</td></tr><tr><td>引文第一作者</td><td>citation_author1</td><td>citedAuthor</td><td>ref-authors author seq="1"</td></tr><tr><td>引文第二作者</td><td>citation_author2</td><td></td><td>ref-authors author seq="2"</td></tr><tr><td>引文第三作者</td><td>citation_author3</td><td></td><td>ref-authors author seq="3"</td></tr><tr><td>引文题名</td><td>citation_title</td><td>citedTitle</td><td>ref-titletext</td></tr><tr><td>引文出处</td><td>citation_sourcetitle</td><td>citedWork</td><td>ref-sourcetitle</td></tr><tr><td>引文出版年</td><td>citation_year</td><td>reference year</td><td>ref-publicationyear first=*"*</td></tr><tr><td>引文卷号</td><td>citation_volume</td><td>reference volume</td><td>ref-volisspag voliss volume=*"</td></tr><tr><td>引文期号</td><td>citation_issue</td><td></td><td>ref-volisspag voliss issue="*</td></tr><tr><td>引文页</td><td>citation_page</td><td>reference page</td><td>ref-volisspag pagerange first="" last=""`</td></tr><tr><td>引文主编</td><td>citation_editor_in_chief</td><td></td><td></td></tr><tr><td>引文出版者</td><td>citation_publisher</td><td></td><td></td></tr><tr><td>链接地址</td><td>citation_url</td><td></td><td></td></tr></table></body></html>
+
+在WOS中，通过一篇论文作为参考文献的次数可以得到此论文的被引次数。原文献中具有唯一标识符UID，参考文献也包含唯一标识符ut，如果UID 与 ut值相同，则表示这是同一篇文献，具有UID的文献被包含ut的文献引用了，UID与多少个ut值匹配上，就表示具有此UID的文献被引用了多少次。需要注意的是，文献的UID是不会变的，但参考文献的ut值可能会因为施引文献的改动而被删除或被替代，此外有些参考文献的ut值无法获得、数据更新或修改等都可能影响文献被引次数的计算。
+
+# 4元数据映射方式的优势和不足
+
+对于同一篇期刊论文，不同的文献数据库，信息组织方式和内容揭示方式都存在差异，有的数据库描述信息更加详细，元数据字段更加齐全，有的数据库描述信息相对简略，元数据字段也相对较少，而且不同的数据库元数据侧重点也有所不同。在不同数据库间元数据较难实现统一的情况下，通过元数据映射的方式，是实现数据集成管理的可行方式。对于不同的数据库，元数据字段映射的数量越多，外部来源数据库的数据利用越充分。
+
+通过对 WOS、Scopus 与 NSTL 元数据的映射，可以看出，WOS、Scopus与NSTL在通用字段上描述相同，能够进行映射，但未实现全部字段的映射，一定程度上影响了加工数据的全面性。另外，WOS、Scopus 对作者、机构、期刊等有更多较为详细的描述字段，在NSTL中没有体现，这些数据对于文献资源信息的揭示更为细颗粒化，通过元数据映射输出的方式，也在一定程度上造成了这些外部数据源数据的失真。
+
+此外，WOS、Scopus 在不同的元数据描述粒度上设置了多种唯一标识，例如 WOS 对论文(uid)、作者(r_id)、期刊卷期(ids)等有唯一标识的描述，Scopus 对论文(eid)、作者(auid)、机构(afid)、期刊(srcid)等有唯一标识的描述。在 NSTLSchema中添加外部论文唯一标识字段，与其它数据库唯一标识进行映射，可以唯一识别来自于WOS 等外部数据库的论文，添加外部作者、作者机构、期刊等的唯一标识还可以对这些数据进行唯一识别，区分自加工数据与外部来源数据。
+
+# 5结语
+
+在当前不同文献数据库元数据描述字段不尽相同的情况下，如果相互之间的元数据能够进行映射，对实现不同数据库之间数据的交互和流转具有重要意义，元数据字段映射数量越多，数据越能得到充分利用。本文以NSTL期刊论文元数据为基础，完成了WOS、Scopus元数据与NSTL元数据的映射，分析了三者元数据描述的特点，并提出元数据映射过程中需要注意的问题。NSTL目前已将购买的WOS数据装入准备库，陆续还将装入其它文献数据库数据，装入的数据根据不同数据库 Schema 对照表以NSTL Schema 格式输出，将加工人员从繁琐的加工工作中解脱出来，并通过利用第三方数据库数据大大提升了NSTL数据加工速度和系统的自动化水平。

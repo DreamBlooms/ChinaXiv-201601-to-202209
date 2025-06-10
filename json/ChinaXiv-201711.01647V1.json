@@ -1,0 +1,733 @@
+[
+    {
+        "type": "text",
+        "text": "敌草快和硫辛酸对育肥猪肠道结构及消化功能的影响！",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "鲍伟光」郝月 $^ 1$ 崔艳军」李洁蕾 $^ 1$ 张校军」李淦」王占彬²顾宪红1\\*（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "河南科技大学动物科技学院，洛阳471003）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文旨在研究敌草快和硫辛酸（LA）对育肥猪肠道结构及消化功能的影响，以探究LA对敌草快引起的应激是否有缓解作用。选取24头 $( 7 0 . 6 4 \\pm 3 . 6 1 ) \\mathrm { k g }$ 的健康大白阉公猪，按照 $2 { \\times } 2$ 因子设计，随机分为对照组、LA组、敌草快组和 $\\mathrm { L A } +$ 敌草快组，每个组设6个重复，每个重复1头猪。试验期 29d。LA添加剂量为 $8 0 0 ~ \\mathrm { m g / k g }$ 饲粮，饲喂贯穿试验全程，而一次性腹腔滴注敌草快于试验第15天进行，无腹腔滴注敌草快试验猪滴注等量的生理盐水。于试验第29天对所有试验猪前腔静脉采血后屠宰取样，运用试剂盒检测血浆和肠道氧化损伤标志物的含量以及空肠食糜消化酶的活性，苏木精-伊红（HE）染色后运用图像分析软件观察肠道形态结构并测定绒毛高度、隐窝深度，并计算绒毛高度/隐窝深度（V/C），荧光定量PCR法检测闭合蛋白（occludin）和紧密结合蛋白（ZO-1）的相对表达量。结果表明：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1）敌草快极显著升高了试验猪血浆和肠道丙二醛（MDA）、蛋白质羰基（PCO）和8-羟基鸟苷（8-OHdG）的含量（ $P { < } 0 . 0 1$ ），极显著降低了十二指肠、空肠及回肠绒毛高度、隐窝深度( $( P { < } 0 . 0 1 )$ ),极显著增大了十二指肠和空肠V/C( $P { < } 0 . 0 1$ ），显著增大了回肠V/C(P<0.05），极显著降低了空肠occludin 和ZO-1mRNA相对表达量（ $P { < } 0 . 0 1$ ），极显著降低了空肠食糜中淀粉酶、胰蛋白酶以及脂肪酶的活性（ $P { < } 0 . 0 1$ ）。2）饲粮中添加LA对试验猪血浆和肠道MDA、PCO和8-OHdG含量的影响均不显著（ $. P { > } 0 . 0 5$ ），对十二指肠、空肠和回肠的绒毛高度、隐窝深度以及V/C 的影响均不显著（ $. P { > } 0 . 0 5$ ），对空肠occludin 和 ZO-1mRNA相对表达量的影响也不显著（ $. P { > } 0 . 0 5 .$ ），对空肠食糜中淀粉酶、胰蛋白酶以及脂肪酶活性的影响差异也均不显著（ $P { > } 0 . 0 5$ ）。3）在应激状态下，饲粮中添加LA使猪血浆8-OHdG含量显著降低( $. P { < } 0 . 0 5 )$ ,十二指肠绒毛高度、空肠绒毛高度以及回肠隐窝深度显著升高( $_ { . } P { < } 0 . 0 5 { \\ : } )$ ），空肠V/C 显著降低（ $. P { < } 0 . 0 5 )$ ，回肠V/C 极显著降低 $( P { < } 0 . 0 1 \\$ ），空肠occludin 和 ZO-1 mRNA相对表达量显著升高（ $P { < } 0 . 0 5$ ），空肠食糜淀粉酶和胰蛋白酶的活性显著提升（ $P { < } 0 . 0 5$ ）。由此可见，敌草快引起了育肥猪强烈的氧化应激，导致了肠道结构的严重损伤并减弱了肠道的消化功能；在敌草快引起的应激状态下，饲粮中添加 $8 0 0 ~ \\mathrm { { m g / k g } }$ LA 能够减缓肠道结构的损伤并能一定程度地提高肠道的消化功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：敌草快；硫辛酸；育肥猪；氧化应激；肠道",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S828",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物体内的能量代谢将氧气作为有氧代谢过程中的电子接受体，不可避免地产生活性氧自由基（reactive oxygen species,ROS）和活性氮自由基（reactive nitrogen species,RNS），过量的ROS产生及引发的脂质过氧化损伤及炎症反应可通过多种途径导致氧化应激状态和疾病[-2]。在氧化应激条件下，肠黏膜的特殊结构及氧的对流交换机制决定了它更容易造成氧化损伤，经常出现肠道蠕动异常、黏膜渗透性增高、电解质分泌、肠上皮形态及细胞的结构和消化功能异常等症状[3]。因此，研究氧化应激对肠道的损伤及消化功能的影响变得尤为重要。敌草快（diquat）为氧化还原型双吡啶除草剂，属中等毒性化合物，敌草快进入动物体内后，利用分子氧产生氧自由基和其他ROS，导致氧化应激。硫辛酸（lipoic acid,LA）作为一种高效的抗氧化剂可以减少ROS 的产生，减弱 DNA的氧化损伤，抑制脂质过氧化，并能很大程度地改善体内抗氧化防御系统，对氧化应激引起的疾病有显著的缓解作用[4-5]。Guven 等报道，LA 可以通过清除ROS 和RNS 对大鼠小肠缺血性再灌注损伤进行修复。Powell 等[7报道，小肠细胞系DLD-1高糖损伤组的谷胱甘肽（GSH）含量与对照组相比显著降低，添加LA后细胞中GSH含量恢复正常；同时发现高糖损伤组诱导型一氧化氮合酶（iNOS）启动子基因表达上调，而LA损伤修复组显著降低了iNOS启动子表达上调量，在转录水平证明了LA对小肠细胞氧化损伤的修复作用。Cui 等8进一步从肠道免疫细胞受体基因表达量验证LA 的抗氧化作用，高脂饲粮能引起慢性氧化损伤，抑制肠道相关淋巴细胞的信号转导，导致了对黏膜免疫力的抑制，而LA能够通过从转录水平修复相关基因、肠道氧化损伤和免疫抑制反应。近年的研究显示，LA有非常强的抗氧化效果，而且现有研究未发现任何副作用。然而，LA的研究多选用小型动物建立氧化应激模型，且有关LA 缓解氧化应激的研究大多都限制在细胞水平，对建立大中型动物模型研究LA调控肠道氧化应激的试验相对较少。本课题组以育肥猪为研究对象，选用敌草快诱导试验猪产生氧化应激，探讨氧化应激对试验猪肠道氧化损伤标志物、肠道形态结构、上皮细胞紧密结合性以及消化酶活性的影响，选择LA为营养素，探究饲粮中添加LA对氧化应激育肥猪肠道损伤及消化功能的调控作用，为进一步揭示其缓解大中型动物氧化应激的作用机制提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计试验采用 $2 { \\times } 2$ 因子设计，腹腔是否滴注敌草快（0、8mg/kg体重）和饲粮中是否添加",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LA (0、 $8 0 0 \\mathrm { m g / k g }$ 饲粮）为2个主效应，共形成4个组（对照组、LA组、敌草快组和 $\\mathrm { L A } +$ 敌草快组）。敌草快购自美国 Sigma 公司；LA购自美国Amresco 公司，纯度 $2 9 9 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取24头体重 $( 7 0 . 6 4 \\pm 3 . 6 1 \\$ ） $\\mathbf { k g }$ 的健康大白阐公猪，根据体重相近的原则随机分为4个组，每个组6个重复，每个重复1头猪。试验期为29d。其中LA从试验第1天就开始添加，直到全程；腹腔滴注敌草快于试验第15天进行，每头试验猪一次性滴注量为 $8 \\mathrm { m g / k g \\ B W }$ 以 $2 5 0 ~ \\mathrm { m L }$ 生理盐水稀释后采用输液器滴注，其他试验猪滴注等量的生理盐水，滴注耗时约5 min。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲粮与饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验饲粮为粉料，基础饲粮为玉米-豆粕型饲粮，参考NRC（2012）及中国猪饲养标准（2004）相应阶段营养需要配制，基础饲粮组成及营养水平见表1。为保证饲粮质量，根据试验猪日采食量估算每周采食总量，并根据配方每周配料1次，配料时按照试验设计向基础饲粮中分别添加0、800 mg/kgLA构成2种试验饲粮。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平(风干基础) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Composition and nutrient levels of the basal diet（air-dry basis） % ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/32c13fc233566fac02234867344f7d59ff51f2f9097eae7d79d21c627224bfd1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>66.20</td><td>消化能 Digestive energy/(MJ/kg)</td><td>13.39</td></tr><tr><td>豆粕 Soybean meal</td><td>20.00</td><td>粗蛋白质 Crude protein</td><td>15.73</td></tr><tr><td>小麦麸 Wheat bran</td><td>6.50</td><td>钙 Calcium</td><td>0.65</td></tr><tr><td>次粉 Wheat middlings</td><td>4.00</td><td>总磷 Total phosphorus</td><td>0.41</td></tr><tr><td>石粉 Limestone</td><td>1.00</td><td>有效磷 Available phosphorus</td><td>0.17</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.60</td><td>赖氨酸Lys</td><td>0.92</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.54</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td><td></td><td></td></tr><tr><td>L-赖氨酸盐酸盐 L-Lysine·HCl</td><td>0.30</td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 预混料为每千克饲粮提供 Premix provided the following per $\\mathbf { k g }$ of the diet: VA 2 512 IU, VD31 200 IU, $\\mathrm { V E } _ { 3 }$ 4IU， $\\mathrm { V K } _ { 3 } 1 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } \\ 1 7 . 6 \\ \\mu \\mathrm { g }$ ，核黄素riboflavin $2 . 5 \\mathrm { m g }$ ，泛酸 pantothenicacid $6 . 8 \\mathrm { m g }$ ，烟酸 niacin $2 0 . 3 \\mathrm { m g }$ ，胆碱choline $3 5 1 \\mathrm { \\ m g }$ ， $\\mathrm { M n } \\ 1 0 \\mathrm { m g }$ ，Fe $5 0 \\mathrm { m g }$ ， $\\mathrm { Z n } 5 0 \\mathrm { m g }$ Cu $1 0 \\mathrm { m g }$ ， $\\mathrm { ~ I 0 . 3 ~ m g }$ ，Se $0 . 3 ~ \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 消化能为计算值，其余营养水平为实测值。DE was acalculated value,while the other nutrient levels were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验在中国农业科学院北京畜牧兽医研究所试验基地猪场进行。试验前，圈舍进行彻底清洗打扫，以 $2 \\% \\sim 3 \\%$ 浓度的烧碱和百毒杀先后进行2次消毒，再熏蒸消毒（高猛酸钾：甲醛 $\\mathrel { \\mathop : } = 1 { : } 2$ ，室内密闭） $2 4 \\mathrm { ~ h ~ }$ ，通风干燥5d，转入试验猪当天再用百毒杀消毒。转入的试验猪饲养在 $1 6 0 \\mathrm { c m } { \\times } 9 0 \\mathrm { c m } { \\times } 1 2 0 \\mathrm { c m }$ 的代谢笼中，单笼饲养，适应约1周后开始正式试验，试验期间由专人对试验猪进行管理和饲喂，所有操作均严格按照饲养手册进行，尽可能减少与试验无关的应激因素，环境温度控制在 $1 5 { \\sim } 2 0 \\ \\mathrm { ~ \\textdegree C }$ ，相对湿度 $4 0 \\% \\sim 6 0 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验的第29天前腔静脉采血，离心后取上清液分装至 $1 . 5 ~ \\mathrm { m L }$ 离心管， ${ } - 2 0 { } ^ { \\circ } \\mathrm { C }$ 保存。用电击棒（ $1 1 0 \\mathrm { V }$ 、5A）将猪只击晕、悬挂、颈动脉放血，整个过程在半分钟内完成以确保将试验猪的痛苦降到最低。待猪只没有角膜反射后，立即沿腹中线剖开，取出内脏。找到空肠中段部位剪取 $_ { 1 \\sim 2 \\mathrm { c m } }$ 空肠段，用预冷的生理盐水冲洗掉食糜后，放入离心管中，液氮速冻，$- 8 0 ~ ^ { \\circ } \\mathrm { C }$ 保存。取距幽门口 $5 \\sim 1 0 \\mathrm { c m }$ 处的十二指肠；整个空肠组织中段部位的空肠；距离回盲连接处 $5 \\sim 1 0 \\mathrm { c m }$ 的回肠；各取 $1 \\mathrm { c m }$ 的十二指肠、空肠、回肠肠段用预冷的生理盐水冲洗掉食糜后，放入 $10 \\%$ 的福尔马林溶液中固定。接取空肠食糜，放入离心管中，液氮速冻，-20‘℃保存。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4检测指标和测定方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 血浆生化指标的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用含肝素钠抗凝剂的采血管采集前腔静脉血液，静置 $1 0 \\mathrm { \\sim } 1 5 \\mathrm { m i n }$ 后，在离心机中以3000$\\mathrm { { r } / \\mathrm { { m i n } } }$ 离心 $1 0 \\mathrm { m i n }$ 分离血浆， ${ } - 2 0 { } ^ { \\circ } \\mathrm { C }$ 保存。血浆中丙二醛（malondialdehyde,MDA）和蛋白质羰基（protein carbonyl,PCO）含量都采用比色法测定，试剂盒均由南京建成生物工程研究所提供；使用酶联免疫吸附试验（ELISA）方法检测猪血浆8-羟基脱氧鸟苷（8-hydroxydeoxyguanosine,8-OHdG）的含量，试剂盒购自R&D公司。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 空肠组织生化指标的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将肠道组织样品从-80℃冰箱取出放入研钵，边倒入液氮边研磨，直至磨成粉末，准确称量粉末重量，并按照1:9加入生理盐水制成 $10 \\%$ 的组织匀浆；在 $4 ^ { \\circ } \\mathrm { C }$ 的低温冷冻离心机中以 $3 0 0 0 \\mathrm { r / m i n }$ 的转速离心 $1 5 \\mathrm { m i n }$ ，取上清后原液备用；将原液用生理盐水稀释至 $1 \\%$ 的组织匀浆，用南京建成生物工程研究所提供的考马斯亮蓝试剂盒测定 $1 \\%$ 组织匀浆中的蛋白质浓度，再用南京建成生物工程研究所提供的试剂盒测定组织中 MDA 和 PCO 的含量。使用ELISA方法检测猪肠段8-OHdG的含量，试剂盒购自R&D公司。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 空肠食糜消化酶活性的测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将采集的空肠食糜在 $4 ~ { } ^ { \\circ } \\mathrm { C }$ 冰箱中解冻后，用 $4 ~ { ^ \\circ } \\mathrm { C }$ 的低温冷冻离心机以 $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 的转速离心 $1 5 \\mathrm { m i n }$ ，取上清液稀释相应的倍数用于测定。食糜中的淀粉酶、脂肪酶、胰蛋白酶活性测定均采用南京建成生物工程研究所提供的试剂盒。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 肠道组织切片",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从固定液中取出肠道组织，经一系列由低到高浓度的乙醇脱水，二甲苯透明后，55°℃于铜质模具进行石蜡包埋，用切片机切成 $5 ~ { \\mu \\mathrm { m } }$ 厚度的切片，苏木精-伊红（HE）染色。每个样品做3张不连续性切片进行观察，每个样品各选取6个完整、典型的绒毛视野，采用图像分析软件（Image-Pro Plus 6.0）采集图像并测定绒毛高度（绒毛顶端至隐窝开口处的垂直距离）、隐窝深度（隐窝开口至隐窝基底部的垂直距离），并计算绒毛高度/隐窝深度（V/C）的值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.5空肠闭合蛋白（occludin）和紧密结合蛋白（zonula occludens protein-1,ZO-1）转录水平的相对表达量",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将空肠组织样品从-80℃冰箱取出放入研钵，边倒入液氮边研磨，直至磨成粉末，取少量粉末于 $1 . 5 ~ \\mathrm { m L }$ 离心管中，使用ThermoSCRIPTTM荧光定量PCR（RT-PCR）试剂盒，参照其说明书进行总RNA提取和mRNA反转录，然后使用荧光实时定量检测方法对occludin 和ZO-1 的相对表达量进行定时定量分析。双链DNA 染色使用嵌合荧光染色法染色。根据猪",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3-磷酸甘油醛脱氢酶基因（glyceraldehyde-3-phosphate dehydrogease gene,GAPDH）、occludin和 ZO-1的基因序列，用Primer 5.0 设计引物，并用NCBI中Blast 初步检测引物的特异性。引物序列如表2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2目的基因引物序列",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd03b349f6c2c4b05e01c8e5e40771aeba0c7ff9cc48f28aeee479bd6cdec50c.jpg",
+        "table_caption": [
+            "Table 2The primer sequence of target genes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物名称</td><td>引物序列</td><td>产物大小</td></tr><tr><td>Primers’name</td><td>Primer sequences(5'-3')</td><td>Product size/bp</td></tr><tr><td>3-磷酸甘油醛脱氢酶基因</td><td>上游：5'-GAAGGTCGGAGTGAACGGAT-3'</td><td>149</td></tr><tr><td>GADPH</td><td>下游：5'-CATGGGTAGAATCATACTAGGAACA-3'</td><td></td></tr><tr><td>闭合蛋白</td><td>上游：5'-TCGTCCAACGGGAAAGTGAA-3'</td><td>179</td></tr><tr><td>Occludin</td><td>下游：5'-ATCAGTGGAAGTTCCTGAACCA-3</td><td></td></tr><tr><td>紧密结合蛋白</td><td>上游：5'-TGAGTTTGATAGTGGCGTTG-3'</td><td></td></tr><tr><td>Z0-1</td><td>下游：5'-TGGGAGGATGCTGTTGTC-3'</td><td>298</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用 SAS9.2软件对数据进行双因素有互作的方差分析，并在氧化应激的情况下对是否添加LA的2组进行 $\\mathbf { \\chi } _ { t }$ 检验，所有数据均采用平均值 $\\pm$ 标准差表示，以 $P { < } 0 . 0 5$ 为显著差异,$P { < } 0 . 0 1$ 为极显著差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1敌草快和LA对育肥猪肠道氧化损伤及屏障功能的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.1敌草快和LA对育肥猪血浆和肠道氧化损伤产物的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，腹腔滴注敌草快均使育肥猪血浆和肠道MDA、PCO 和8-OHdG 含量极显著升高（ $P { < } 0 . 0 1$ ）；饲粮中添加LA对育肥猪血浆和肠道MDA、PCO 和8-OHdG含量均无显著影响（ $P { > } 0 . 0 5$ ）；腹腔滴注敌草快和饲粮中添加LA对育肥猪血浆PCO含量有显著的交互作用（ $P { < } 0 . 0 5 \\$ ），对血浆8-OHdG含量的交互作用接近显著（ $\\scriptstyle P = 0 . 0 9$ ），对血浆和肠道MDA、肠道PCO以及肠道8-OHdG含量的交互作用均不显著（ $. P { > } 0 . 0 5$ ）。对应地，在非应激的情况下饲粮中添加LA对育肥猪血浆8-OHdG 的含量并无显著影响（ $. P { > } 0 . 0 5$ ），然而在氧化应激的情况下，饲粮中添加LA使育肥猪血浆8-OHdG 的含量显著降低（ $. P { < } 0 . 0 5$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3敌草快和LA对育肥猪血浆和肠道氧化损伤产物的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3Effects of diquat and LA on plasma and intestinal tract oxidative damage product of ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b48a2b978ce7436929ddf8f080e520d5652db6d81147a19517c18ef2312c7d6.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Diquat：敌草快；LA：硫辛酸；DxLA：敌草快 $\\times$ 硫辛酸； $^ +$ 表示添加或滴注，一表示未添加或未滴注。同"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">finishing pigs (n=6)</td></tr><tr><td></td><td colspan=\"2\">-Diquat</td><td colspan=\"2\">+Diquat</td><td colspan=\"3\">P值P-value</td></tr><tr><td>项目Items</td><td>-LA</td><td>+LA</td><td>-LA</td><td>+LA</td><td>Diquat</td><td>LA</td><td>DxLA</td></tr><tr><td>血浆 Plasma</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛</td><td></td><td>1.89±0.60</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MDA/(nmol/mL)</td><td>1.82±0.39</td><td></td><td>2.91±0.18</td><td>2.71±0.55</td><td><0.01</td><td>0.74</td><td>0.45</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋白质炭基</td><td>0.49±0.10</td><td>0.53±0.06</td><td>0.64±0.07</td><td>0.57±0.09</td><td><0.01</td><td></td><td>0.04</td></tr><tr><td>PCO/(nmol/mg</td><td></td><td></td><td></td><td></td><td></td><td>0.48</td><td></td></tr><tr><td>prot）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8-羟基脱氧鸟苷</td><td>39.39±5.47</td><td>40.56±10.81</td><td>60.00±5.10a</td><td>50.01±12.69b</td><td><0.01</td><td>0.18</td><td>0.09</td></tr><tr><td>8-OHdG/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肠道 Intestinal tract</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛</td><td>1.90±0.44</td><td>2.05±0.87</td><td>3.38±0.83</td><td>2.93±0.53</td><td></td><td></td><td></td></tr><tr><td>MDA/(nmol/mg</td><td></td><td></td><td></td><td></td><td><0.01</td><td>0.62</td><td>0.32</td></tr><tr><td>prot)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋白质羰基</td><td>2.44±0.62</td><td>2.58±0.40</td><td>3.79±0.64</td><td>3.40±0.52</td><td><0.01</td><td>0.49</td><td>0.16</td></tr><tr><td>PCO/(nmol/mg prot)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8-羟基脱氧鸟苷</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8-OHdG/(ng/mg</td><td>157.67±22.82</td><td>142.63±25.47</td><td>237.58±32.09</td><td>210.99±35.10</td><td><0.01</td><td>0.13</td><td>0.66</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ），相同小写字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。  \nDiquat: diquat; LA: lipoic acid; $\\mathrm { { D } \\times \\mathrm { { L A } } }$ : diquat xlipoic acid; $^ +$ mean added or injection;- mean without added orno injection. In the same row, values with different small letter superscripts mean significant diference $( P { < } 0 . 0 5 )$ and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same small letteror no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ .The same as below.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1.2敌草快和LA对育肥猪肠道形态结构的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出,对照组和LA组试验猪肠结构完整，无明显的损伤出现；滴注敌草快的所有试验猪肠绒毛出现断裂、肿胀的现象，肠道形态结构受损；然而，腹腔滴注敌草快相比没有腹腔滴注敌草快的试验猪，饲粮中添加LA一定程度地减弱了试验猪肠道形态结构受损的程度。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/db94ad1060094447440893e4751a5afd1ec7f39756519d2921e6655f3a50e878.jpg",
+        "img_caption": [
+            "图1敌草快和LA对育肥猪肠道形态结构的影响",
+            "Fig.1Effects of diquat and LA on intestinal morphology of finishing pigs ( $4 0 0 \\times 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，腹腔滴注敌草快均使育肥猪十二指肠、空肠及回肠绒毛高度、隐窝深度极显著降低( $_ { ( P < 0 . 0 1 ) }$ ,十二指肠和空肠V/C极显著增大( $_ { \\scriptstyle P < 0 . 0 1 }$ ),回肠V/C显著增大( $_ { _ { P < 0 . 0 5 } ) }$ ;饲粮中添加LA对育肥猪肠道绒毛高度、隐窝深度以及V/C均无显著影响（ $. P { > } 0 . 0 5$ ）；腹腔滴注敌草快和饲粮中添加LA对回肠V/C有极显著的交互作用（ ${ \\cdot } P { < } 0 . 0 1$ ），对十二指肠绒毛高度（ ${ \\scriptstyle P = 0 . 0 7 }$ ）、空肠绒毛高度（ $scriptstyle \\cdot = 0 . 0 7$ ）和V/C（ ${ \\cal P } { = } 0 . 1 1$ ）以及回肠隐窝深度（ $\\scriptstyle P = 0 . 0 9$ ）交互作用接近显著，对十二指肠隐窝深度和V/C、空肠隐窝深度以及回肠绒毛高度的交互作用均不显著（ $. P { > } 0 . 0 5$ ）。对应地，腹腔滴注敌草快相比没有腹腔滴注敌草快的育肥猪，饲粮中添加LA对肠道的影响更为明显；表现为十二指肠绒毛高度、空肠绒毛高度以及回肠隐窝深度显著升高 （ $( P { < } 0 . 0 5 \\$ ），空肠V/C 显著降低（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ ），回肠V/C 极显著降低（ $_ { \\cdot  { P } < 0 . 0 1 }$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4敌草快和LA对育肥猪肠道形态结构的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a927080773a2d541c5c2b1a98d74aae7d8c5cb9f557290b85ec0e1b107e075e4.jpg",
+        "table_caption": [
+            "Table 4Effects of diquat and LA on intestinal morphology of finishing pigs $( n { = } 6 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"2\">-Diquat</td><td colspan=\"2\">+Diquat</td><td colspan=\"3\">P值P-value</td></tr><tr><td>-LA</td><td>+LA</td><td>-LA</td><td>+LA</td><td>Diquat</td><td>LA</td><td>DxLA</td></tr><tr><td>十二指肠 Duodenum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度 Villus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>393.71±43.38</td><td>395.52±48.51</td><td>253.58±49.78b</td><td>345.84±58.51a</td><td><0.01</td><td>0.06</td><td>0.07</td></tr><tr><td>length/μm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>隐窝深度 Crypt</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>depth/μm</td><td>199.62±61.21</td><td>209.25±76.47</td><td>90.69±21.42</td><td>151.82±62.41</td><td><0.01</td><td>0.21</td><td>0.36</td></tr><tr><td></td><td></td><td></td><td>2.83±0.25</td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度/隐窝深度V/C</td><td>2.07±0.41</td><td>2.04±0.52</td><td></td><td>2.43±0.46</td><td><0.01</td><td>0.27</td><td>0.35</td></tr><tr><td>空肠 Jejunum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度 Villus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>426.99±41.59</td><td>422.43±51.52</td><td>310.71±37.45b</td><td>385.89±50.64a</td><td><0.01</td><td>0.11</td><td>0.07</td></tr><tr><td>length/μm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>隐窝深度 Crypt</td><td>186.07±53.23</td><td>185.43±56.13</td><td>79.35±20.68</td><td>138.27±57.67</td><td><0.01</td><td>0.22</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/55ad9d295ff38404195e96ecd116456f97f2897498fe4422de373c566e6393d4.jpg",
+        "table_caption": [
+            "depth/um "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>绒毛高度/隐窝深度 V/C</td><td>2.41±0.51</td><td>2.41±0.56</td><td>4.02±0.52a</td><td>3.07±0.85b</td><td><0.01</td><td>0.10</td><td>0.11</td></tr><tr><td>回肠Ileum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度 Villus</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>387.27±77.95</td><td>394.79±84.40</td><td>241.86±33.16</td><td>321.16±75.08</td><td><0.01</td><td>0.20</td><td>0.29</td></tr><tr><td>length/μm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>隐窝深度 Crypt</td><td></td><td></td><td>97.75±23.98b</td><td></td><td></td><td></td><td></td></tr><tr><td>depth/um</td><td>187.17±35.44</td><td>179.02±40.33</td><td></td><td>150.88±45.60a</td><td><0.01</td><td>0.21</td><td>0.09</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绒毛高度/隐窝深度V/C</td><td>2.07±0.03</td><td>2.21±0.12</td><td>2.54±0.32A</td><td>2.16±0.17B</td><td>0.03</td><td>0.21</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.1.3敌草快和LA 对育肥猪空肠occludin 和 ZO-1mRNA相对表达量的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，腹腔滴注敌草快均使育肥猪空肠occludin 和 ZO-1mRNA相对表达量极显著降低（ $P { < } 0 . 0 1$ ）；饲粮中添加LA对育肥猪空肠occludin和ZO-1mRNA相对表达量的影响均不显著 （ $. P { > } 0 . 0 5$ ）；腹腔滴注敌草快和饲粮中添加LA 对空肠occludin 和 ZO-1 mRNA相对表达量交互作用影响均不显著（ $P { > } 0 . 0 5$ ）。然而，在非应激的情况下LA对育肥猪空肠occludin 和 ZO-1mRNA相对表达量的影响不显著（ $P { > } 0 . 0 5$ ）；在氧化应激的情况下，饲粮中添加LA对育肥猪空肠occludin 和 $Z O { - } 1 \\ \\mathrm { m R N A }$ 相对表达量均有显著地提升（ $. P { < } 0 . 0 5 .$ ）。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e93898bf4c407621cfa638ea86de57771d564ad536dce4aabce37c20660ad300.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "D：敌草快；LA：硫辛酸； $\\mathbf { D { \\times } L A }$ ：敌草快 $\\cdot \\times$ 硫辛酸；\\*\\*： $P { < } 0 . 0 1$ ；\\*： $P { < } 0 . 0 5$ ; n.s.: $P { > } 0 . 0 5$ 。  \nD: diquat; LA: lipoic acid; $\\mathrm { { D } { \\times } \\mathrm { { L A } } }$ : diquat xlipoic acid; \\*\\*: $P { < } 0 . 0 1$ ； \\*: $P { < } 0 . 0 5$ ; n.s.: $P { > } 0 . 0 5$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图2敌草快和LA对育肥猪空肠occludin（A）和 ZO-1（B）mRNA 相对表达量的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effects of Diquat and LA on the relative expression abundance of occludin (A) and ZO-1 (B) mRNA in jejunum of finishing pigs（ $\\scriptstyle n = 6$ ） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.2敌草快和LA对育肥猪空肠食糜中消化酶活性的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，腹腔滴注敌草快均使育肥猪空肠食糜中淀粉酶、胰蛋白酶以及脂肪酶的活性极显著降低（ ${ \\scriptstyle \\cdot } { \\cal P } { \\scriptstyle < } 0 . 0 1$ ）；饲粮中添加LA对育肥猪空肠食糜中淀粉酶、胰蛋白酶以及脂肪酶活性的影响不显著（ $. P { > } 0 . 0 5$ ）；腹腔滴注敌草快和饲粮中添加LA对空肠食糜中淀粉酶和胰蛋白酶活性的交互作用接近显著（ $scriptstyle \\cdot = 0 . 0 9$ ），对空肠食糜中脂肪酶活性的交互作用不显著（ $P { > } 0 . 0 5$ ）。对应地，在非应激的情况下LA对育肥猪空肠糜中淀粉酶和胰蛋白酶的影响均不显著（ $. P { > } 0 . 0 5$ ），然而在氧化应激的情况下，饲粮中添加LA对育肥猪空肠食糜中淀粉酶以及胰蛋白酶的活性均有显著地提升（ $. P { < } 0 . 0 5 ^ { \\cdot }$ ）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表5敌草快和LA对育肥猪空肠食糜中消化酶活性的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table 5Effects of diquat and LA on digestive enzyme activity in jejunum chyme of finishing ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/b665fad26479602317cbb9c4409c609b3a337f1a60b00251d0a80096a3acf036.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">pigs (n=6)</td></tr><tr><td>项目Items</td><td colspan=\"2\">-Diquat</td><td colspan=\"2\">+Diquat</td><td colspan=\"3\">P值P-value</td></tr><tr><td rowspan=\"3\">淀粉酶 Amylase/(U/dL)</td><td>-LA</td><td>+LA</td><td>-LA</td><td>+LA</td><td>Diquat</td><td>LA</td><td>DxLA</td></tr><tr><td>157 867±14</td><td>155 454±11365</td><td>60 768±7 418b</td><td>75 020±8 034a</td><td><0.01</td><td>0.22</td><td>0.09</td></tr><tr><td>749 81 249±8 035</td><td>80 676±9 024</td><td>35 999±4 358b</td><td>45 643±8 481a</td><td><0.01</td><td>0.12</td><td>0.09</td></tr><tr><td>胰蛋白酶 Trypsase/(U/mL) 脂肪酶Lipase/(U/L)</td><td>7 346±712</td><td>7 277±704</td><td>4 573±1 087</td><td>5 688±1 180</td><td><0.01</td><td>0.23</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "LA 属于维生素B族物质，同时也是一些微生物的内源性生长因子。外源性LA具有抗氧化以及抗炎症作用。敌草快为氧化还原型双吡啶除草剂，属中等毒性化合物。敌草快进入动物体内后，利用分子氧产生氧自由基和其他ROS[9]，导致氧化应激，作为一种氧化应激诱导剂分别应用于野生型大鼠[10]、断奶仔猪[1]和生长猪[12]，并成功建立了氧化应激模型。本试验中腹腔滴注 $8 ~ \\mathrm { m g / k g }$ 体重敌草快依据李丽娟等[]使用 $1 2 { \\mathrm { ~ m g / k g } }$ 体重敌草快诱导了断奶仔猪产生氧化应激，徐静等[2]按 $8 ~ \\mathrm { m g / k g }$ 体重剂量一次性腹腔注射敌草快溶液，可诱导生长猪氧化应激，氧化应激效应可持续28d，血清超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）、过氧化氢酶（CAT）活性和 MDA含量可作为反映氧化应激的敏感指标。本试验腹腔滴注 $8 ~ \\mathrm { m g / k g }$ 体重敌草快所有试验猪均出现急躁、空口咀嚼、呕吐、厌食等现象，持续1周左右后，采食量逐渐恢复，非应激组滴注等量的生理盐水未见猪只行为异常，这与前人的研究结果[1-15]类似，而本研究选择育肥猪作为试验动物为建立大中型氧化应激动物模型奠定了基础。虽然LA作为缓解敌草快导致的氧化应激未见报道，但是有研究表明LA可以用于治疗百草枯（paraquat）引起的中毒[16]，而百草枯作为一种有机杂环类接触性除草剂与敌草快结构功能相似。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1敌草快和LA对育肥猪肠道氧化损伤及屏障功能的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "肠道极易受氧化的损伤[17]，腹腔滴注的敌草快进入机体首先通过的是肠黏膜，肠黏膜氧化应激所产生的过多的氧自由基如ROS 和RNS 可以破坏DNA、生物脂质大分子、蛋白质和其他生物大分子，过多的氧自由基可以通过抗氧化系统消除，包括非酶成分和抗氧化酶系[18-19]。LA 的特殊结构决定了它具有清除机体过量的自由基、抑制脂质过氧化、减弱 DNA的氧化损伤等功能[20]。因此，饲粮中添加LA 能很大程度地改善体内抗氧化防御系统。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "宋小珍等[21]在断奶仔猪上的研究表明，氧化应激使猪肠道 SOD、GSH-Px 的活性显著降低，而 MDA的含量显著上升。Chen 等[22]研究表明，氧化应激导致仔猪小肠功能障碍并显著降低了SOD等抗氧化物酶的活性。王远孝等[23]的研究结果显示，氧化应激降低了空肠黏膜总抗氧化能力、谷胱甘肽还原酶和GSH-Px 活性，提高了MDA含量。Kataria 等[24]的研究也证明了氧化应激对猪抗氧化物酶有抑制作用。以上试验表明，氧化应激导致了抗氧化酶活性的降低。本试验则通过检测氧化损伤标志物来说明肠道是否遭受了氧化损伤，结果表明，所有氧化应激的试验猪血浆和肠道MDA、PCO 以及8-OHdG含量均极显著升高，说明氧化应激造成了试验猪脂质、蛋白质和DNA的严重损伤。张海超[25]的研究结果表明，氧化应激造成了肠道的氧化损伤，显著降低了血浆MDA 和空肠PCO 的含量。张焱等[26的研究结果显示，过高的氧化应激水平参与胃肠道肿瘤的发生，造成MDA 和8-OHdG含量明显升高。这些研究结果与本试验的结果类似。LA 缓解氧化应激分别于小鼠[27-28]、肉鸡[29]、奶牛[30]以及细胞水平31I有了一定的研究，然而对于育肥猪的研究还尚属空缺，在本试验中，同在氧化应激的情况下，摄食LA的试验猪相比摄食基础饲粮的试验猪损伤程度更低，说明LA有缓解氧化应激的能力，而饲粮中添加LA的试验猪血浆8-OHdG含量降低达到了显著水平，说明LA有可能对试验猪DNA有一定的修复能力。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "小肠结构的正常是营养物质消化吸收和机体正常生长的生理基础，肠道绒毛高度、隐窝深度、V/C 等是衡量小肠结构的重要指标。从组织学上讲，绒毛萎缩引起的绒毛表面积的减少会造成小肠吸收功能的下降，即绒毛高度的下降会降低小肠的吸收功能[32]；隐窝深度反映的是细胞的生成率，隐窝变浅表明细胞成熟率上升，分泌功能增强，隐窝的深浅对维持肠道结构稳定具有重要的意义[3]；V/C 则综合反映了小肠的功能状态，其比值的下降表明黏膜受损，消化吸收功能下降。王蕾等[34]的研究表明，应激导致猪绒毛高度显著降低，隐窝深度显著增大，V/C 显著降低。本试验的结果显示，氧化应激显著降低了肠道绒毛高度、隐窝深度，显著增加了V/C，此结果中隐窝深度和V/C 的变化正好与王蕾等[34]的结果相悖。而Xiao 等[35]研究表明，氧化应激使猪肠道绒毛高度、隐窝深度降低，使V/C 增加，与本试验结果类似。据推测，在强烈氧化应激的情况下，小肠为了抵御应激会生成大量的细胞以更新死亡的细胞，反而引起分泌功能加强，隐窝深度变浅；而V/C增加也可能是由于在剧烈氧化应激状态下隐窝深度变浅的程度强于绒毛高度降低的程度。本试验中试验猪所遭受的氧化应激是剧烈的，此外，同在氧化应激的情况下，饲粮中添加LA使十二指肠和空肠的绒毛高度显著增加，说明LA 对氧化应激状态下试验猪十二指肠和空肠绒毛有了一定的修复；然而，在强烈的应激状态下LA组回肠隐窝深度显著高于非LA组，说明LA一定程度的减弱了氧化应激，进而减缓了回肠氧化应激状态下新生细胞的速度；由于LA的强氧化性使氧化应激急速减缓，进而使隐窝深度显著升高，而此时氧化应激导致肠道的绒毛高度断裂还未能修复，因此空肠和回肠的V/C显著降低。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "紧密连接是构成上皮屏障功能最重要的结构，由occludin和 ZO-1等结构蛋白及各类连接蛋白分子共同组成。ZO-1与维持和调节上皮细胞和屏障功能有关，还参与调节细胞物质转运、维持上皮极性等重要过程。occludin功能涉及细胞间黏附、移动及通透性，一旦发生变异、减少和缺失可引起肠上皮细胞间隙通透性增加，因此occludin 和 ZO-1常被用来作为观察各种组织紧密连接屏障功能和通透性功能的指标[36-39]。本试验结果显示，氧化应激极显著降低了试验猪空肠occludin 和 ZO-1mRNA相对表达量，更深度地证明氧化应激造成了试验猪肠道的损伤，而同在氧化应激的状态下，LA 组的试验猪occludin 和 ZO-1 mRNA 相对表达量显著高于敌草快组，说明LA在氧化应激的情况下起到了修复试验猪肠道的作用，在非应激的情况下LA并无显著的作用。根据前文的试验结果我们推测LA并没有直接修复肠道的作用，而是通过其特殊结构清除肠道过量的自由基使得肠道免受其害，进而达到了保护肠道的作用。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.2 敌草快和LA对育肥猪消化功能的影响",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "消化和吸收营养物质是小肠的首要功能。其中空肠位于小肠中段，相比十二指肠和回肠更长，是动物消化吸收饲料的主要场所[40]。空肠内食糜消化酶的活性能够直接地反映出肠道消化吸收的能力，当肠道损伤时，消化酶会一定程度地减少，活性也会相应降低[41]。近几年，国内外研究氧化应激对育肥猪消化功能的影响相对较少。Guo 等[42]对小鼠的研究显示，氧化应激造成肠道的病变并显著降低了肠道消化酶的活性。Gessner等[43]的研究表明，氧化应激使仔猪消化酶活性显著降低。本试验中，氧化应激极显著地降低了肠道淀粉酶、胰蛋白酶以及脂肪酶活性，进一步印证了氧化应激对肠道消化功能的负作用。此外，本试验加入的LA显著增加了氧化应激试验猪淀粉酶和胰蛋白酶的活性，说明LA可能具有提高氧化应激状态下育肥猪的消化功能，根据本试验中其他试验结果的分析，推测LA可能是通过清除体内的自由基来缓解氧化应激对肠道的损伤，进而增加了肠道绒毛高度，提高了消化能力，而具体的生理机制还需进一步探究。然而，LA对动物消化功能的作用未见报道，根据本试验的结果可以初步推测LA可能是通过清除体内过量的自由基缓解了应激，维持了机体正常的氧化还原状态，从而增加了肠道绒毛高度、减缓了黏膜受损度并提高了空肠食糜中消化酶的活性，进而改善了育肥猪的消化功能。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本试验研究表明，腹腔滴注 $8 ~ \\mathrm { m g / k g }$ 体重敌草快对育肥猪肠道结构造成了严重损伤并减弱了肠道的消化功能；饲粮中添加 800mg/kgLA对肠道结构和消化功能的影响较小；然而，在敌草快引起的应激状态下，LA 能够减缓肠道的结构损伤并能一定程度地提高肠道的消化功能。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1] DRYDEN G W,Jr,DEACIUC I,ARTEEL G,et al.Clinical implications of oxidative stress and antioxidant therapy[J].Current Gastroenterology Reports,20o5,7(4):308-316. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[2] JENA G,TRIVEDI P P,SANDALA B.Oxidative stress in ulcerative colitis:an old concept but a new concern[J].Free Radical Research,2012,46(11):1339-1345. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[3] DATTA K,SUMAN S,KALLAKURY B V S,et al.Exposure to heavy ion radiation induces persistent oxidative stress in mouse intestine[J].PLoS One,2012,7(8):e42224. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[4] SPALDING M D,PRIGGE S T.Lipoic acid metabolism in microbial pathogens[J].Microbiology and Molecular Biology Reviews,2010,74(2):200-228. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[5] ROCHETTE L,GHIBU S,RICHARD C,et al.Direct and indirect antioxidant properties of $\\mathfrak { a }$ -lipoic acid and therapeutic potential[J].Molecular Nutrition & Food ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Research,2013,57(1):114-125. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[6] GUVEN A,TUNC T,TOPAL T,et al.α-lipoic acid and ebselen prevent ischemia/reperfusion injury in the rat intestine[J].Surgery Today,2008,38(11):1029-1035. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[7]POWELL L A,WARPEHA K M,XU W M,et al.High glucose decreases intracellular glutathione concentrations and upregulates inducible nitric oxide synthase gene expression in intestinal epithelial cells[J].Journal of Molecular Endocrinology,20O4,33(3):797-803. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[8] CUI J,LE G W,YANG R L.et al.Lipoic acid attenuates high fat diet-induced chronic oxidative stressand immunosuppression inmice jejunum:a microarrayanalysis[J].Cellular Immunology,2009,260(1):44-50. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[9] YAMAUCHI M,NAKANO H,MAEKAWA J,et al.Oxidative stress in obstructive sleep apnea[J].Chest,2005,127(5):1674-1679. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[10] FU Y X,CHENG W H,ROSS D A,et al.Cellular glutathione peroxidase protects mice against lethal oxidative stress induced by various doses of diquat[J].Proceedings of the Society for Experimental Biology and Medicine,1999,222(2):164-169. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[11] 李丽娟,陈代文,余冰,等.氧化应激对断奶仔猪肌体氧化还原状态的影响[J].动物营养学报,2007,19(3):199-203.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[12] 徐静,余冰,陈代文.Diquat 诱导的生长猪氧化应激持续时间及适宜的应激标识[J].中国农业科学,2008,41(12):4359-4364.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[13] ZHENG P,YU B,HE J,et al.Protective effects of dietary arginine supplementation against oxidative stress in weaned piglets[J].British Journal of Nutrition,2013,109(12):2253-2260. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[14] LV M,YU B,MAO X B,et al.Responses of growth performance and tryptophan metabolism to oxidative stress induced by Diquat in weaned pigs[J].Animal,2012,6(6):928-934. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[15] 赵娇,周招洪,梁小芳,等.葡萄籽原花青素及维生素E 对氧化应激仔猪生长性能、血清氧化还原状态和肝脏氧化损伤的影响[J].中国农业科学,2013,46(19):4157-4164.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[16] 杜斌,陈炜,陈俊良,等.α-硫辛酸对百草枯中毒大鼠胸腺 Bax、Bcl-2 表达及 SOD 活力、MDA 水平的影响[J].中国医院药学杂志,2015,35(23):2071-2074.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[17] 蔡旋,王静娴,陈小连,等.肠道上皮氧化应激细胞模型的研究进展[J].畜牧兽医学报,2014,45(3):337-346.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[18] LANGIE S A S,WILMS L C,HAMALAINEN S,et al.Modulation of nucleotide excision repair in human lymphocytes by genetic and dietary factors[J].British Journal of Nutriti0n,2010,103(4):490-501. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[19]NEUBAUER O,REICHHOLD S,NICS L,et al.Antioxidant responsesto an acute ultra-endurance exercise:impact on DNA stability and indications for an increased need for nutritive antioxidants in the early recovery phase[J].British Journal of Nutriti0n,2010,104(8):1129-1138. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[20] GORACA A,HUK-KOLEGA H, PIECHOTA A,et al.Lipoic acid-biological activity and therapeutic potential[J].Pharmacological Reports,2011,63(4):849-858. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[21] 宋小珍,鲁琳,刘凤华,等.高温应激对仔猪小肠上皮脂质过氧化的动态影响[J].动物营养学报,2008,20(1):75-79.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[22] CHEN Q,LE G W,SHI Y H,et al.Effect of iron supplementation on intestinal function and oxidative stressin pigletswith induced colitis[J].Journal of Animal and Feed Sciences,2007,16(2):205-213. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[23] 王远孝,张莉莉,周根来,等.大豆卵磷脂对子宫内发育迟缓仔猪肠道抗氧化和热休克蛋白70 表达的影响[J].中国农业科学,2012,45(13):2711-2717.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[24] KATARIA A K,KATARIA N.Evaluation of oxidative stress in pigs affected with classical swine fever[J].Porcine Research,2012,2(2):35-38. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[25] 张海超.氧化应激对肉仔鸡肠道氧化损伤和屏障功能的影响[D].硕士学位论文.泰安:山东农业大学,2012.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[26] 张焱,马双余,孙晓力.胃肠道肿瘤患者机体氧化应激状态的研究[J).西安交通大学学报:医学版,2013,34(6):793-796.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[27]崔珏,肖瀛,王斌,等.硫辛酸高脂日粮对小鼠免疫功能的影响[J].营养学 报,2010,32(1):35-38. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[28] 吴聪,朱丽丽,杨永兰,等.硫辛酸对高脂饲养小鼠氧化应激及血糖血脂的影响[J].营养学报,2010,32(5):489-494.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[29] 李杏,陈小连,朱丽慧,等.硫辛酸对黄羽肉鸡生长性能、抗氧化能力和免疫功能的影响[J].动物营养学报,2012,24(3):515-521.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[30] 朱家桥,曹随忠,熊桂林,等.硫辛酸对围产期奶牛血清脂肪代谢和肝功能酶的影响[J].中国农业科学,2010,43(9):1933-1938.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[31]张康保,高倩,张雅静,等.镉对PC12细胞的氧化损伤及 $\\mathfrak { a }$ -硫辛酸的保护效应[J].中国兽医学报，2014,34(8):1349-1352,1357.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[32] EID Y Z,OHTSUKA A,HAYASHI K.Tea polyphenols reduce glucocorticoid-induced growth inhibition and oxidative stress in broiler chickens[J].British Poultry Science,2003,44(1):127-132. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[33] 左之才,刘兵,李莉,等.早期断乳应激性腹泻对仔猪肠道形态结构与肠道菌群的影响[J].中国兽医科学,2012,42(1):64-68.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[34]王蕾,刘坚,侯永清,等 $\\mathbf { \\nabla } . \\mathtt { a } .$ -酮戊二酸对LPS慢性应激仔猪小肠黏膜形态与功能的影响[J].畜牧兽医学报,2010,41(1):46-52",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[35] XIAO K,SONG Z H,JIAO L F,et al.Developmental changes of TGF- $_ { \\cdot \\beta 1 }$ and smads signaling pathway in intestinal adaption of weaned pigs[J].PLoS One,2014,9(8):e104589. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[36] 肖定福,唐志如,印遇龙,等.壳聚糖对仔猪肠黏膜通透性及Occludin和ZO-1表达的影响[J] 畜牧兽医学报,2012,43(6):894-900. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[37] 杨凤娟,曾祥芳,谯仕彦.罗伊氏乳杆菌I5007对新生仔猪肠道形态、二糖酶活性和紧密连接蛋白表达的影响[J].中国农业科学,2014,47(22):4506-4515.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[38] YANG K M,JIANG Z Y,ZHENG C T,et al.Effect of Lactobacillus plantarum on diarrhea and intestinal barrier function of young piglets challenged with enterotoxigenic Escherichia coli K88[J].Journal of Animal Science,2014,92(4):1496-1503. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[39] ZHANG B K,GUO Y M.Supplemental zinc reduced intestinal permeability by enhancing occludin and zonula occludens protein-1 (ZO-1） expression in weaning piglets[J].British Journal of Nutrition,2009,102(5):687-93. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[40] KATO A,ROMERO M F.Regulation of electroneutral NaCl absorption by the small intestine[J].Annual Review of Physiology,2011,73(1):261-281. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[41]MATTSSON O.Book review:radiologic examination of the small intestine[J].Acta Radiologica,1961,55(3):239. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[42] GUO M Y,SATOH K,QI B,et al.Thiol-oxidation reduces the release of amylase induced by $\\beta$ -adrenergic receptor activation in rat parotid acinar cells[J].Biomedical Research,2010,31(5):293-299. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[43] GESSNER D K,FIESEL A,MOST E,et al.Supplementation of a grape seed and grape marc meal extract decreases activities of the oxidative stress-responsive transcription factors NF-kB and Nrf2 in the duodenal mucosa of pigs[J].Acta Veterinaria Scandinavica,2013,55:18. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Effects of Diquat and Lipoic Acid on Intestinal Morphology and Digestive Function of Finishing ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Pigsi ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "BAO Weiguang1HAO Yue1 CUI Yanjun1 LI JieleilZHANG Xiaojun1LIGan1WANG Zhanbin²GU Xianhong1\\*   \n(1. State Key Laboratory of Animal Nutrition, Chinese Academy of Agricultural Sciences, Institute   \nof Animal Sciences, Beijing 100193, China; 2. College ofAnimal Science and Technology,Henan University of Science and Technology,Luoyang 471003, China) ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was to investigate the effects of diquat and lipoic acid (LA) on intestinal morphology and digestive function of finishing pigs,in order to explore whether diquat induced stress on the LA had a role in alleviating. Twenty-four healthy finishing pigs (Yorkshire) with the body weight of $( 7 0 . 6 4 \\pm 3 . 6 1 \\$ ） kg were randomly allocated to control, LA，diquat, LA $^ +$ diquat groups with 6 replicates per group and 1 pig per replicate by a $2 { \\times } 2$ factorial arrangement. The trial period was 29 days. LA was given all in the trial ( $8 0 0 ~ \\mathrm { m g / k g }$ diet) . Diquat challenged pigs were given a single intraperitoneal injection of diquat at the 15th days and non-challenged pigs were injected intraperitoneally with the equal physiological saline amount at the same time. All the pigs were slaughtered after the vena cava blood on the 29th day. Using kits to detected the content of plasma and intestine oxidative damage markers and the activity of digestive enzymes in jejunum chyme.After hematoxylin and eosin (HE） staining,using image analysis software to observed intestinal morphology structure and determined villus height, crypt depth, and calculated the value of the vills height to crypt depth (V/C). Using fluorescence quantitative PCR to detected the relative expression abundance of occludin and zonula occludens protein-1 (ZO-1） mRNA in jejunum. The results showed as follows: 1） diquat significantly increased the content of malondialdehyde (MDA), protein carbonyl (PCO) and 8-hydroxy deoxyguanosine (8-OHdG) in plasma and intestine $( P { < } 0 . 0 1 )$ ，significantly reduced the villus height and crypt depth in duodenum and jejunum and ileum ( $( P { < } 0 . 0 1 )$ ，while significantly increased the V/C in duodenum and jejunum $( P { < } 0 . 0 1 )$ ，and significantly increased the V/C of the ileum $( P { < } 0 . 0 5 )$ ，significantly reduced the relative expression abundance of occludin and ZO-1 mRNA in jejunum $( P { < } 0 . 0 1 )$ ,and significantly reduced the activity of amylase, trypsase and lipase in jejunum chyme $( P { < } 0 . 0 1 )$ . 2) There were no significant difference on the content of MDA,PCO and 8-OHdG in plasma and intestine when dietary supplementation of LA( $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ ）,as same as the villus height, crypt depth and V/C in duodenum and jejunum and ileum, the relative expression abundance of occludin and ZO-1 mRNA in jejunum, the activity of amylase, trypsase and lipase in jejunum chyme ( $_ { . } { P > } 0 . 0 5 )$ ： 3） Under the oxidative stress, dietary supplementation of LA significantly reduced the content of 8-OHdG in plasma $( P { < } 0 . 0 5 )$ ，while significantly improved the villus height in duodenum and jejunum $( P { < } 0 . 0 5 )$ , and significantly improved crypt depth in ileum $( P { < } 0 . 0 5 )$ , significantly reduced V/C in jejunum $( P { < } 0 . 0 5 )$ and ileum $( P { < } 0 . 0 1 )$ ， significantly increased the relative expression abundance of occludin and ZO-1 mRNA in jejunum $( P { < } 0 . 0 5 )$ ， significantly improved the activity of amylase and trypsase in jejunum chyme ( $( P { < } 0 . 0 5 )$ . In conclusion, diquat caused oxidative stress in pigs is strong, leading to serious injury of intestinal structure and weakened intestinal digestive function. Dietary supplementation of $8 0 0 \\mathrm { m g / k g }$ of LA can suppress the oxidative stress caused by diquat injection on intestinal injury of finishing pigs,and may improve digestive function. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words: diquat; lipoic acid; finishing pigs; oxidative stress; intestine ",
+        "page_idx": 21
+    }
+]

@@ -1,0 +1,115 @@
+# 煤基甲醇动力多联产系统关联性研究
+
+涂聪¹²，李胜¹，高林1\*，金红光‘（1.中国科学院工程热物理研究所，北京1001902.中国科学院大学，北京100049）
+
+摘要：在 IGCC 基础上发展起来的煤基甲醇动力多联产系统作为一种高效清洁的能源系统在中国具有广泛的应用前景。该文基于相对节能率，单位能量生产成本研究了联产系统热力性能和经济性能间的关联关系。研究表明，对甲醇动力多联产系统而言，不仅存在使相对节能率最高的最佳循环倍率，而且还存在使单位成本最低的最佳循环倍率。当化工岛的未反应气循环倍率位于2.17\~4.44时，可以使相对节能率和单位成本二者都达到比较优化的状态。
+
+关键词多联产；热力性；经济性；评价准则中图分类号：TK123 文献标识码：A1
+
+# Association Studies of Coal-based Methanol /Power Poly-generation System
+
+TU Cong' LI Shengl GAO Lin'JIN Hongguang (1. Institute of Engineering Thermophysics,Chinese Academy of Science,Beijing 100190, China; 2.University of Chinese academy of sciences,Beijing 10o149,China)
+
+Abstract: Coal-based Methanol/Power Poly-generation System, which based on IGCC,has been regarded as one of promising technologies to use fossil fuel more eficiently and cleanly.The relevance of the thermodynamic and economic performances of this system was investigated by Relative energy saving rate $( E R )$ and Unit Energy Production Cost are respectively presented as a criterion to evaluate thermodynamic and economic performances. The study shows ,for Methanol/Power Poly-generation System,not only existing the best circulation ratio to make relative energy saving rate highest,but also there is the best circulation ratio making Unit Energy Production Cost lowest. The system was revealed that when the circulation ratio is between $2 . 1 7 { \sim } 4 . 4 4$ , both of Relative energy saving rate $( E _ { \mathrm { R } } )$ and Unit Energy Production Cost could reach an optimal state.
+
+Key words: Poly-generation; thermodynamic; economic; evaluation criteria
+
+# 0 引言
+
+当今二十一世纪能源与环境的交叉问题已越来越成为各国经济发展遇到的不可回避的问题。我国是一个煤炭资源丰富，而油气资源非常匮乏的国家。煤炭是一种成分非常复杂的资源，煤炭作为燃料直接燃烧不仅会产生很多污染物，其中最主要的几种污染物包括 $\mathrm { N O } _ { x }$ ， $\mathrm { S O } _ { x }$ 以及重金属污染，而且还会有很大的不可逆损失。以煤气化为核心的多联产系统是针对我国面临的能源需求增长，液体燃料短缺，环境污染严重等一系列问题，提出的一条解决我国能源领域可持续发展的主要途径[1]。目前以甲醇合成和发电为代表的联产是最典型的多联产系统。
+
+由于在能源系统中，系统的热力性能的变化往往会导致系统流程结构和单元规模也发生变化，进而引起设备投资的变化。当前国内外的相关研究比较成熟以及热门的是火用经济分析法，把热力过程或系统的火用损失转化为过程或系统的生产成本的一部分，从而建立了系统火用损失与生产成本之间的关系。当前国内外的相关研究比较成熟以及热门的是火用经济分析法，把热力过程或系统的火用损失转化为过程或系统的生产成本的一部分，从而建立了系统火用损失与生产成本之间的关系。文献2采用矩阵模式热经济学方法分析甲醇，电多联产系统和单产系统，比较他们的产品成本形成过程的差异，并详细阐述多联产系统效益的来源。另外，还有从能源利用的角度分析多联产系统的能耗特性和相对节能率的特性，文献[3针对甲醇/电联产系统能耗特性的研究，得出全系统的热量耦合是联产系统节能的主要原因。国内外的很多文献中对煤基甲醇多联产系统的评价主要偏向热力性能或者经济性能，而大部分研究对系统的热力性能与经济性能关联性论述较少[4-6]。
+
+# 1系统流程介绍
+
+本文将以煤基甲醇动力串并联综合型系统为分析对象，流程如图1所示。该系统由合成气制备子系统，化工岛，动力岛三部分组成。首先煤粉与水制备的水煤浆与空分单元的氧气在气化炉里气化为合成气，然后高温合成气在废锅中冷却制备高温高压饱和水蒸汽，进一步冷却后的合成气在分流器中分成两股合成气。其中一股合成气在净化单元除去灰分，硫化物和 $\mathrm { C O } _ { 2 }$ 后进入化工岛。另一股合成气仅除去灰分和硫化物后进入动力岛。用分流比$r _ { 1 }$ 来表示这两股合成气中分别进入化工岛和动力岛之间的比例，进入化工岛的洁净合成气经压缩后与未反应气混合后首先在甲醇合成单元实现向甲醇的转化。甲醇合成单元的出口产物在热回收单元冷却后实现粗甲醇和未反应气的分离。粗甲醇在精馏单元中实现精制得到纯净甲醇，精馏过程的驰放气回收作为燃料气进入燃气轮机系统。未反应气在第二个分流器中被分为两部分，一部分未反应经循环压缩机再次进入甲醇合成单元，另一部分未反应气与 驰放气混合后作为燃料气进入动力岛。化工岛中的流程特点为，合成气不经过成分调整直接进入甲醇合成单元。化工岛中的另一部未反应与来自气化岛的净化合成气混合后共同作为动力岛的燃料。
+
+![](images/2c7a7f074bcf4e25e3cdaa88943c0525b10ce4105446883568f363bfeb3c10d4.jpg)  
+图1煤基甲醇/动力多联产系统串并联综合型流程图Fig.1Flowchart of coal-based Methanol /Power poly-generation system
+
+# 2研究方法
+
+# 2.1影响联产系统热力性能的关键参数
+
+在不同集成特征的多联产系统中，相对节能率常常被用来作为评价系统的热力性能的参数。本文选取相对节能率作为热力性能的评价准则。对应每一个既定的分流比 $r _ { 1 }$ ，系统在不同的循环倍率时，相对于分产系统，按相同的甲醇和净输出功为比较基准，以相对节能率为评价准则进行比较。其中循环倍率 $R u$ 为未反应气与合成新气之比， $E _ { \mathrm { { R } } }$ 为相对节能率，定义为：
+
+$$
+E _ { \mathrm { { R } } } \ = \ \frac { \mathcal { Q } _ { \mathrm { { r e f } } } \ - \mathcal { Q } _ { \mathrm { { P G } } } } { \mathcal { Q } _ { \mathrm { { r e f } } } } \bullet 1 0 0 \ \%
+$$
+
+式中： $\varrho$ 为系统输入的燃料热值，单位 MW;
+
+下标ref为参比系统，即IGCC系统和甲醇分产系统；下标PG代表多联产系统。
+
+然后利用独立变量法分析该系统中影响到相对节能率的独立参数。在分流比 $r _ { 1 }$ 不变的情况下：
+
+$$
+E _ { R } = f ( C R , \eta _ { _ { \mathrm { p o w e r i s l a n d } } } \eta _ { c h e m i c a l i k u n d } ) = f ( R u , \tau , \varepsilon , \eta _ { s e p } )
+$$
+
+式中： $\tau$ 为温比， $\boldsymbol { \varepsilon }$ 为压比， $\eta _ { \mathrm { \scriptsize ~ s e p } }$ 为 $\mathrm { C O } _ { 2 }$ 分离能效。本文设定燃气轮机的温比 $\boldsymbol { \tau }$ 和压比 $\boldsymbol { \varepsilon }$ 不变，且系统不考虑 $\mathrm { C O } _ { 2 }$ 减排。所以上述等式可以简化为：
+
+$$
+E _ { R } = f ( R \mathrm { u } )
+$$
+
+即当系统不考虑 $\mathrm { C O } _ { 2 }$ 分离能效的情况下，相对节能率只随循环倍率变化。
+
+# 2.2 影响联产系统经济性能的关键参数
+
+# 2.2.1设备投资
+
+在系统的投资分析中，根据相关公开的文献提供的设备规模和对应的投资，采用规模因子法计算各个过程的投资。规模因子法计算如下式：
+
+$$
+I = I _ { 0 } \bullet ( \frac { X } { X _ { 0 } } ) ^ { f }
+$$
+
+其中I为设备投资，X为规模参数，f为规模因子，下角标0为参考系统。参考投资和规模参数参考文献[3-4]
+
+# 2.2.2单位能量生产成本
+
+能源系统的单位能量生产成本COE（CostofEnergy）可由下面的公式计算得到：
+
+$$
+C O E = \frac { C R F \cdot \displaystyle \int I _ { \mathrm { i } } + \displaystyle \int C _ { C M , i } + C _ { F U E L } } { C F \cdot 8 7 6 0 \cdot 3 6 0 0 \cdot P }
+$$
+
+式中 $i$ 表示设备；分子第一项表示年投资成本，其中CRF取值0.126；第二项表示年固定运行维护成本，一般由系统总投资成本乘以一定的系数（该系数称之为运行和维护因子，一般取0.04）得到；第三项表示年燃料成本。CF(Capacity Factor)表示系统的容量因子，本文中假定为0.85。P表示系统净输出功率，KW。假定建设期为3年来计算，工程款 $70 \%$ 来源于贷款，第一年贷款 $30 \%$ ，第二年贷款 $40 \%$ ，第三年贷款 $3 0 \%$ 。商业贷款年利率假定为 $6 . 1 5 \%$ （由中国建设银行提供)。运行和维护因子取0.04。假定煤价为 $9 0 \mathbb { S } / \mathrm { t }$ 。
+
+# 3分析与结果
+
+图2表示的是系统循环倍率与相对节能率之间的关系，对应每个既定的分流比 $r _ { 1 }$ 联产系统存在最佳循环倍率。当化工岛中没有未反应气循环时,未反应气全部进入到动力岛作为燃料，所以此时系统的节能率为最小。随着循环倍率的增大，更多的未反应气经过循环压缩机再次进入甲醇合成单元，更多的能量被分配到了化工岛之中，使系统的节能率逐步提高。但是当循环倍率提高到一定程度以后甲醇的产出变得平缓[7]，但是未反应气所消耗的压缩功却在不断增加，所以系统的相对节能率会达到一个高点后就逐渐下降。因为 $\boldsymbol { r } _ { 1 }$ 也决定着能量在化工岛与动力岛之间的分配，且 $r _ { 1 }$ 越大越多的能量被分配到化工岛中，所以对每个循环倍率，本系统的相对节能率随 $\boldsymbol { r } _ { 1 }$ 的增加而增加。当 $r _ { 1 } { = } 0$ 时，串并联综合型多联产系统转化为IGCC动力系统，同时节能率为0；当 $r _ { 1 } { = } 1$ 时，串并联综合型多联产系统转化为串联型多联产系统，在循环倍率为4.4左右时系统节能率最高为 $1 3 . 8 \%$ 。
+
+![](images/389aac9502fb2059fe95e9aedf5048e39dcd81f5e29a824796285cddefdee7e7.jpg)  
+图2循环倍率与相对节能率之间的关联关系 Fig.2Relationship between $R \mathrm { u }$ and $E _ { \mathrm { { R } } }$
+
+图3表示的是循环倍率与单位能量生产成本之间的关系，在每个既定的 $r _ { 1 }$ 的情况下，单位能量生产成本随循环倍率的增加先减少而后增加，即存在一个最佳的单位能量生产成本值。从曲线的走势中可以得出在循环倍率为2.17时，单位能量生产成本达到最小。对于每个既定的循环倍率，单位能量生产成本随 $r _ { 1 }$ 的增加而减少。随着循环倍率的增加，进入化工合成过程的合成气量也随之增加，该化工合成过程对应的投资呈 $\left( R \mathrm { u } { + } 1 \right) ^ { \mathrm { f } }$ 上升[8]。此时合成过程的甲醇产出随循环倍率的增加而急剧增加，进入动力岛的燃料化学能急剧减少，品位降低，所以动力岛的规模也随之减少，由于联合循环投资随 规模的变化较为敏感，动力岛的投资急剧下降，从而使得系统整体投资出现下降的趋势，因此该系统的单位能量生产成本呈下降趋势；但是随着循环倍率进一步增加，甲醇产出的增加开始变得平缓，动力岛的投资规模不断减少，而合成过程的设备投资规模仍按 $\left( R \mathrm { u } { + } 1 \right) ^ { \mathrm { f } }$ 的趋势上升，且当循环倍率的值大于2.17时设备总投资额会不断增大。所以系统的单位能量生产成本会达到一个最小值之后开始逐步增大。
+
+![](images/545a96e9569adcde49296499e4338dce5e05185cae6727d5b6072d479dd4fc9d.jpg)  
+图3循环倍率与单位能量生产成本之间的关联关系 Fig.3Relationship between Ruand COE
+
+从上述两幅图表中可以发现，对应于最佳热力性能（相对节能率）的循环倍率值，并不能使系统的经济性能（单位能量生产成本)达到最优化的值，即最佳循环倍率不一致。对系统热力性能与经济性能分别进行分析后，本文想通过循环倍率这个系统参数，使二者建立起关联性，同时兼顾二者的性能。本文将相对节能率以及单位能量生产成本和未反应气循环倍率这三个参数建立起关联性，使这三者在同一图表中被表示出来，同时为了简化图表，本文只选取了 $r _ { 1 } { = } 0 . 8$ 时的曲线。如图4所示，纵坐标的左边表示相对节能率，其随循环倍率 先增加后减少，在循环倍率为4.44 时达到最大的相对节能率。而纵坐标的右边表示该系统的单位能量生产成本，其随循环倍率 先减小后增加，在循环倍率2.17时达到最小的单位能量生产成本。
+
+![](images/311bfb599128368f07cecfaae3db54d8c0316edc4173500622c591d3c93f2b7c.jpg)  
+图4 $E _ { \mathrm { { R } } }$ 和 COE 随循环倍率的变化规律 Fig.4 $E _ { \mathrm { R } }$ and COE, changing with the Ru
+
+# 4结论
+
+（1）本文通过研究发现在既定的煤基甲醇动力串并联综合型多联产系统中对应于最佳热力性能即最多燃料节约的循环倍率参数，并不意味着其具有最佳的投资节约效果即单位能量生产成本。本文提出的关联性研究，同时兼顾煤基甲醇动力多联产系统的热力性能与经济性能。
+
+（2）通过独立变量法分析影响到多联产系统的参数变量，本文发现对多联产系统热力性能和投资节约的主要影响因素是化工合成过程的合成结构，未反应气的循环量即循环倍率直接影响化工岛与动力岛之间的能量耦合，同时也直接影响到动力岛的规模，从而决定系统的整体投资节约。
+
+（2）循环倍率取值在2.17\~4.44区间，系统的热力性能 $E _ { R }$ 存在最佳值，且偏离最优值的最大幅度为 $2 . 3 \%$ ；经济性能单位千瓦总投资的最优值不在此区间，但它偏离最优值的最大幅度为 $4 . 7 \%$ 单位能量生产成本COE 存在最佳值，且偏离最优值的最大幅度为 $2 . 2 \%$ 。当循环倍率的数值在2.17\~4.44之外，系统的相对节能率加速降低以及单位能量生产成本加速增加，系统的热力性能和经济性能都将偏离最优状态。
+
+# 参考文献
+
+[1]麻林巍，倪维斗，李政,任挺进.以煤气化为核心的甲醇， 电的多联产系统分析（上）[J].动力工程，2004,24（3) Ma Linwei,Ni Weidou,Li Zheng,Ren Tingjin. Analysis of the Polygeneration System of Methanol and Electricity Based on Coal Gasification [J]. Power Engineering,2004. 24(3)   
+[2]王云波，倪维斗，李政，王灵梅．多联产能源系统的热 经济学分析[J]．煤炭转化，2005,28（4) Wang Yunbo，Ni Weidou,Li Zheng,Wang Lingmei. Thermo-economic Analysis of Polygeneration System[J]. Journal of Coal Conversion,2005,28（4)   
+[3]张晋．以煤气化为核心的多联产系统的能量分析[M]. 北京：清华大学，2003 Zhang Jin.Energy Analysis of Polygeneration Systems BasedonCoalGasification[M].Beijing:Tsinghua University,2003   
+[4]Eric D.Larson，Ren Tingjin.Synthetic fuel production by indirect coal liquefaction [J]． Energy for Sustainable Development，2003(4): 79-101   
+[5] Thomas Kreutz，Robert Wolliams，Stefano Consonni，et al．Coproduction of hydrogen electricity and CO2 from coal with commercially ready technology，Part B: economic analysis[J]． Int.J. of Hydrogen Energy, 2005(30): 769-784   
+[6] Energy Information Administration． International Energy Outlook 2007[R].Washington DC：Office of Integrated Analysis and Forecasting，Department of Energy，2007   
+[7] 林湖，金红光，高林，韩巍．煤基多联产系统热力与经 济性分析[J]．中国电机工程学报 2009,29（8) Lin Hu, Jin Hongguang, Gao Lin, Han
+
+Wei.Thermo-economic Analysis of Coal-basedPolygeneration System[J].Proceedings of the CSEE[8]林湖，金红光．多联产CCS 的全生命周期综合评价与系统集成研究[D]．北京，中国科学院大学，2010Lin Hu，Jin Hongguang. Study on Polygeneration SystemCCS Life Cycle Assessment and System Integration[D].Beijing，UniversityofChineseacademy ofsciences,2010

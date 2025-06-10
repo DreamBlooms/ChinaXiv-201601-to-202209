@@ -1,0 +1,548 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701120098 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何影，马淼.入侵植物意大利苍耳种子萌发对环境因子的响应.生态学报,2018,38(4)：1226-1234.HYaa",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "入侵植物意大利苍耳种子萌发对环境因子的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何 影,马 淼\\*石河子大学生命科学学院，石河子832003",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;室内受控条件下,研究了意大利苍耳种子萌发阶段对环境因子(外界温度、光照、土壤湿度、土壤盐分以及土壤酸碱度)的响应。结果表明：意大利苍耳对各环境因子都有较宽泛的耐受幅度,10一 $3 5 \\mathrm { ^ { \\circ } C }$ 条件下均有种子萌发,而最适宜温度为 $2 5 \\mathrm { ^ { \\circ } C }$ 。其种子萌发阶段对光照没有严格需求,光照和黑暗条件下的萌发率均超过了 $9 3 \\%$ 。意大利苍耳表现出了极强的土壤水分耐受性，在相对湿度为 $3 0 \\% - 1 0 0 \\%$ 的土壤环境中,均有超过 $7 0 \\%$ 的种子可以正常萌发。其种子萌发率随土壤盐分浓度的升高呈下降趋势,但在 $2 8 0 \\mathrm { m m o l / L }$ 的土壤 $\\mathrm { \\Delta N a C l }$ 环境中,仍有1/3 的种子可以萌发。其种子对土壤酸碱度表现出较强的耐受性,在 $\\mathrm { \\Delta p H }$ 值是4—10 的土壤环境中,种子萌发率均高达 $9 0 \\%$ 以上。意大利苍耳在种子萌发阶段对温度、光照、土壤水分、盐分及土壤酸碱度均表现出了极强的耐受性,说明无论是温凉的高原山区,还是炎热的盆地沙漠;无论是开阔地,还是郁闭的林下、田间;无论是干旱的荒漠,还是湿润的河谷湿地;也无论是甜土,还是盐碱地都是意大利苍耳种子萌发的适宜生境。鉴于其宜生生境的广谱性和其生态危害的严重性,建议在所有的生境类型中对意大利苍耳进行全方位的严格监控，一经发现须立即铲除。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：入侵植物;意大利苍耳;种子;萌发;耐受性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Responses of seed germination of the invasive plant Xanthium italicum to environmental factors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HEYing，MA Miao CollegeofLife Sciences，Shihezi University，Shihezi 832OO3，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Westudied theresponses of Xanthiumitalicum seed germination to theenvironmental factors temperature,light, soil moisture，soil salinity，and soil pH. Our results showed that $X$ ，italicum seeds were highly tolerant to environmental fluctuations. The seeds germinated at $1 0 \\%$ to $3 5 \\mathrm { ^ { \\circ } C }$ with $2 5 \\mathrm { ^ { \\circ } C }$ being the optimal temperature. The germination percentage was higher than $9 3 \\%$ under both light and dark conditions，suggesting that light was not strictly required at the germination stage of $X$ 、italicum. Many seeds germinated at $3 0 \\% { \\mathrm { - } } 1 0 0 \\%$ relative soil humidity，suggesting that $X$ . italicum seeds also hadastrong tolerance to soil moisture.The germination percentage decreased with the increase of soil salinity.However, even withahighsalinityof80mmol/LNaCl,one-thirdof theseeds stillgerminated.Mostseeds wereabletogerminate ina wide range of soil pH values ，and the germination percentage was above $90 \\%$ with soil pH 4—10. These results showed that X. italicum had strong adaptability to temperature,light，soil moisture，soil salinity and soil $\\mathrm { \\ p H }$ in the germination stage. Our results suggested that $X$ ，italicum seeds can germinate energetically in a wide variety of drastically different habitats suchas frigid high-altitude mountains，hot basin desert，open terrin，forestcanopy，ariddesert，humidriver valey, saline-neutral soilandalkalisoil.Consideringthisspeciesisaserious ecological hazardand theuniversalityof itssuitable habitats，we recommend strict monitoring for $X$ .italicum in all habitat types and eradicating this alien plant immediately when it is found. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:invasive plant；Xanthium italicum；seed；germination；tolerance ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "意大利苍耳(Xanthium italicum)属菊科苍耳属一年生草本植物,原产于欧洲地中海地区,现却广泛分布于东、西半球的中纬度地区。由于意大利苍耳生态适应性强,在群落中极易形成单一优势种,对入侵地的农业、畜牧业和生物多样性造成了严重危害[1],我国虽已在1997年将其列为入境检疫性杂草,但近年来意大利苍耳仍呈快速扩散的趋势。该植物在新疆有分布记载的文献始见于 2012年[2],据本课题组 2015 年野外调查结果显示,现已广泛分布于北疆的伊犁哈萨克自治州、博尔塔拉蒙古自治州、塔城地区、阿勒泰地区、石河子垦区、昌吉回族自治州和乌鲁木齐市,占据了路旁、田边、林缘以及河流、湖泊及水库周边的浅水区等多种生境,呈现出强劲的快速蔓延态势,而且有从中生生境向旱生及湿地生境扩张的趋势,对于新疆本就脆弱的绿洲生态系统而言无疑是雪上加霜。 O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对外来入侵物种的入侵力与环境可入侵性的研究是外来物种入侵生态学两个重要的研究领域,而种子萌发阶段是植物生活史中对环境生态因子反应最为敏感的时期之一，也是外来入侵植物得以成功定植的关键时期[3]。植物在该阶段对外界温度、土壤水分、土壤盐分、土壤pH以及光照的耐受性幅度在很大程度上决定了该物种潜在分布区的范围。因此,系统地研究外来植物种子萌发对环境因子的需求和响应,将有助于准确预测其潜在的可入侵区域,对入侵植物的防范和当地生态系统的管理有着十分积极的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国外对意大利苍耳的研究主要集中在化学成分的分析[4-5]、药理活性的评价[6-7]、对农田作物的竞争与化感影响[8-10]、生长发育[11]等方面。国内对意大利苍耳的报道始于 1992 年[12],相关研究主要集中在外部形态[12]、物候特征[13]、分布区范围[2.14]、种子二形性特点[15]、化学防除措施[16]、化感作用[17-18]等领域,而针对其种子萌发阶段对生态因子响应的研究却未见报道。新疆地形复杂,生境类型多样,高山与盆地相间,湿地与荒漠并存,并且有大面积的盐渍化土壤。因此,本课题拟采取室内严格受控的实验研究方法,系统研究意大利苍耳种子萌发对于外界温度、光照、土壤水分、土壤盐分以及土壤pH的响应,以期为该物种潜在分布区的预测、防范控制和生态系统的管理提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试材料为2014年10月采自新疆奎屯市( $8 4 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { E }$ $4 4 ^ { \\circ } 2 7 ^ { \\prime } \\mathrm { N }$ ;种子采集地的土壤 $\\mathrm { \\ p H }$ 值为7.84,电导率为$2 0 2 \\mathrm { d s } / \\mathrm { m }$ )的完全成熟的意大利苍耳果实,采集后将果实快速运回实验室阴干备用。选取大小一致、成熟饱满的意大利苍耳果实(本文中的果实实际上是指意大利苍耳具总苞的果序,每个果序中有一大一小两枚瘦果，每个瘦果中具一粒种子)，在室温下置于水中浸泡 $2 4 \\mathrm { h }$ 。因意大利苍耳果实中具有2枚种子且种子具有二形性,在相同条件下，上位种子有较长的休眠时间,其萌发较下位种子晚5一 $- 7 \\mathrm { d } ^ { [ 1 5 ] }$ ,所以为了消除上、下位种子的萌发不同步性对实验结果的影响,剪除了意大利苍耳总苞顶端的2个果喙,当下位种子萌发时,子叶将会从总苞上剪除果喙后留下的小孔中钻出,连同总苞和未萌发的上位种子一并顶出土面,从而排除了上位种子的萌发干扰,因此萌发实验数据统计中每粒果实只统计了1枚种子的萌发状况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在盛满营养土（土壤 $\\mathrm { \\ p H }$ 值为7.3)的无色透明塑料萌发盒( $2 0 \\mathrm { c m } \\times 1 2 \\mathrm { c m } \\times 5 \\mathrm { c m } \\rangle$ 中进行萌发实验,每个萌发盒均匀水平摆放30粒果实，埋藏深度为 $1 \\mathrm { { c m } }$ （光质处理组除外），每种处理重复3次。实验过程中每日定时采用称量法添加蒸馏水以补充蒸发损失的水分,维持土壤湿度在 $70 \\%$ 的水平（除土壤水分处理外）,实验中萌发盒均置于恒温光照培养箱中，温度控制在白天 $2 0 \\%$ ，夜晚 $1 5 \\mathrm { ^ \\circ C }$ （除温度处理组外），每日给予12h光照，光照强度为 $4 5 0 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 温度对意大利苍耳种子萌发行为的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将恒温光照培养箱的温度设置为 $1 0 ^ { \\circ } \\mathrm { C } \\ 、 1 5 ^ { \\circ } \\mathrm { C } \\ 、 2 0 ^ { \\circ } \\mathrm { C } \\ 、 2 5 ^ { \\circ } \\mathrm { C } \\ 、 3 0 ^ { \\circ } \\mathrm { C } \\ 、 3 5 ^ { \\circ } \\mathrm { C }$ 等6个温度梯度,进行种子萌发 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2光质对意大利苍耳种子萌发行为的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设置3个不同光质处理;实验中萌发盒中均匀水平摆放30粒果实,果实埋藏上表面与土面平齐但不被土壤覆盖,以不包裹塑料片(全色光)的萌发盒组为对照,模拟落置在开阔地上果实的环境;用绿色透明塑料片包裹萌发盒,以模拟林荫下或田间富含绿光的环境;用黑色塑料袋包裹萌发盒，以模拟被完全埋藏在土壤中不见光的环境，进行种子萌发实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3土壤水分对意大利苍耳种子萌发行为的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将营养土配置成相对湿度为 $30 \\%$ ） $4 0 \\%$ ） $5 0 \\%$ ） $6 0 \\%$ ） $70 \\%$ ） $8 0 \\%$ ， $90 \\%$ 及 $100 \\%$ 等8个水分梯度,进行种子萌发实验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4土壤盐分对意大利苍耳种子萌发行为的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "配制0（CK） $\\mathrm { . 8 0 } \\phantom { . 1 6 0 } \\mathrm { , 2 0 0 } \\phantom { . 2 4 0 } \\mathrm { , 2 4 0 } \\phantom { . 2 8 0 } \\mathrm { m m o l / L }$ 等6个浓度梯度的NaCl溶液，将等量溶液与营养土充分混合，维持土壤相对湿度为 $70 \\%$ 的水平,将果实置于其中开展萌发实验。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5土壤 $\\mathrm { \\ p H }$ 值对意大利苍耳种子萌发行为的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用HCI或 $\\mathrm { \\Delta N a O H }$ 配制 $\\mathrm { \\ p H }$ 为2、4、6、7、8、10、12等7个梯度的溶液后,将等量溶液与营养土充分混合，维持土壤相对湿度为 $70 \\%$ 的水平,将果实置于其中进行萌发实验。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验以子叶露出土面作为判断种子萌发的标准,每24h观察并记录萌发种子的个数,萌发持续时间15d（霉烂的种子视为无活力的种子）,计算种子的萌发率和萌发指数。种子萌发率 $\\left( G P \\right) =$ 萌发种子数/受试种子总数;萌发指数 $\\begin{array} { r } { \\mathbf { \\Pi } \\left( G I \\right) = \\sum \\left( G t / D t \\right) } \\end{array}$ ( $G _ { }$ 为 $\\mathbf { \\chi } _ { t }$ 天种子萌发数， $D t$ 为萌发天数）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用SPSS19.0软件进行实验数据的统计分析,对意大利苍耳种子在不同处理下在第5天、第10天及第15天的萌发指数、累积萌发率数据进行重复测量方差分析,对种子15天的萌发指数和累积萌发率数据进行单因素方差分析(One-way ANOVA）,用 Duncan 多重比较（Duncan's multiple range test）检测不同处理间的差异显著性，同时用Origin9.0对所得数据进行绘图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同温度对意大利苍耳种子萌发的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在不同温度条件下及不同萌发阶段间(第5天、第10天及第15天),无论是萌发指数还是累积萌发率均存在极显著差异(表1和表2),而且萌发时间与温度之间存在极显著的交互作用( $P { < } 0 . 0 0 1 )$ 。意大利苍耳种子在很广的温度范围 $( 1 0 { \\div } 3 5 ^ { \\circ } \\mathrm { C }$ )内均可萌发(图1,图2)。当温度为 $1 0 ^ { \\circ } \\mathrm { C }$ 时,种子的萌发指数(1.07)和萌发率 $2 2 . 2 \\%$ )均较低；在 $1 5 \\mathrm { ^ \\circ C }$ 和 $2 0 \\%$ 条件下，尽管种子前期的萌发速度较缓,但15d之后萌发率仍能达到 $9 0 \\%$ 以上;当温度为 $2 5 \\mathrm { { ^ circ C } }$ 时,其种子的萌发指数(19.07)和萌发率( $100 \\%$ )均达到最大值;而温度升至 $3 0 \\%$ 时，意大利苍耳种子萌发指数和萌发率开始显著下降( $\\scriptstyle \\cdot { P < 0 . 0 5 } )$ ；当温度达到 $3 5 \\mathrm { ^ \\circ C }$ 时,其种子的萌发率依然可以维持在$6 0 \\%$ 的水平;因此， $2 5 \\mathrm { ^ { \\circ } C }$ 是意大利苍耳种子萌发的最适宜温度。从累积萌发率(图2)可以看出,在 $3 5 \\mathrm { ^ \\circ C }$ 温度条件下,意大利苍耳种子初始萌发天数最早,而其他温度条件下,其种子均表现出不同程度的萌发延迟现象,并且在10- $2 0 \\mathrm { { ^ { \\circ } C } }$ 下,种子萌发延迟现象(延迟了3—8d)更明显,这表明,高温条件有利于意大利苍耳种子提早萌发,而在低温条件下其种子萌发受抑制,并且偏离最适温度越远,对种子萌发的延迟效应就越明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同光质对意大利苍耳种子萌发的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光质对意大利苍耳种子的萌发具有极显著的影响（表3和表4）,不同萌发阶段（第5天、第10天及第15天)间的萌发指数与累积萌发率也均存在极显著的差异,萌发时间与光质之间存在极显著的交互作用( $P <$ 0.001）。由图3和图4可以看出,意大利苍耳种子具有极大萌发潜力。比较3种光质处理下意大利苍耳种子的萌发指数,发现在黑暗处理下其种子的萌发速度显著快于其他两种处理( $P { < } 0 . 0 5 )$ 。其种子在黑暗、全色光和绿色光条件下的萌发率分别是 $9 6 \\% 9 3 \\% , 6 9 \\%$ ,说明处于黑暗环境中或落置在开阔地土壤表面的意大利苍耳种子均具有较高的萌发率,而且以黑暗环境中的种子萌发速度最快、萌发率最高,而落置在郁闭冠层下方(绿光环境)的种子萌发率较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4770dfddd158d010db4e619af884e2efd2e4b13645e3a7a7fca6aa631d41f7ff.jpg",
+        "table_caption": [
+            "'able1Variance analysis of accumulative germination index of X.italicum under different ten "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检验： $\\lambda \\ = \\ 0 . 4 2 0$ ， $\\chi ^ { 2 } = 9 . 5 4 5$ ，Sig. $\\mathit { \\Theta } = \\ 0 . 0 0 8$ ，G-Ge $\\mathbf { \\epsilon } = \\mathbf { \\epsilon } _ { 0 . 6 3 3 }$ ，H-Fe $\\mathbf { \\tau } = \\mathbf { \\tau }$ 0.968 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变异来源 Source</td><td rowspan=\"2\">df</td><td rowspan=\"2\">典型平方和 Type Il s</td><td rowspan=\"2\">均方 Mean square</td><td rowspan=\"2\">F</td><td rowspan=\"2\">Sig.</td><td colspan=\"2\">调整概率 Epsilon</td></tr><tr><td>G-Ge</td><td>H-Fe</td></tr><tr><td>时间 Time</td><td>2</td><td>534.070</td><td>267.035</td><td>4441.739</td><td><0.0001</td><td><0.0001</td><td><0.0001</td></tr><tr><td>温度 Temperature</td><td>5</td><td>769.454</td><td>153.891</td><td>155.873</td><td><0.0001</td><td></td><td></td></tr><tr><td>时间×温度 Time × Temperature</td><td>10</td><td>159.053</td><td>15.905</td><td>264.562</td><td><0.0001</td><td><0.0001</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b588e909581924d1f3cda3c1ffce19cfc8baad752bd6dd3da36bcaeee61f3fe5.jpg",
+        "table_caption": [
+            "表11一15d不同温度处理下意大利苍耳种子萌发指数方差分析表",
+            "表21一15d不同温度处理下意大利苍耳种子累积萌发率方差分析表",
+            "Table 2Variance analysis of accumulative germination percentage of X.italicumunder diferent temperature in 15 day！ "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检验： $\\lambda \\ : = \\ : 0 . 8 3 2$ ， $\\chi ^ { 2 } = 2 . 0 2 2$ ，Sig.= 0.364. "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源</td><td rowspan=\"2\">df</td><td rowspan=\"2\">典型平方和 Type I sum of squares</td><td rowspan=\"2\">均方 Mean square</td><td rowspan=\"2\">F</td><td rowspan=\"2\">Sig</td></tr><tr><td>Source</td></tr><tr><td>时间 Time</td><td>2</td><td>26079.012</td><td>13039.506</td><td>576.109</td><td><0.0001</td></tr><tr><td>温度 Temperature</td><td>5</td><td>289.444</td><td>28.944</td><td>1.854</td><td><0.0001</td></tr><tr><td>时间×温度 Time × Temperature</td><td>10</td><td>8785.185</td><td>878.519</td><td>38.815</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/82f481588e83ff9862fb66ecb2fceaf3f0c28d4a703346e891dc1525d0249061.jpg",
+        "img_caption": [
+            "图1温度对意大利苍耳种子的萌发指数的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cb3c744580009b2b8c49b9f460bb7f9456afbd7fc6f013278d9e58effbec67a.jpg",
+        "img_caption": [
+            "图2温度对意大利苍耳种子的累积萌发率的影响Fig.2Effect of temperature on accumulative germinationpercentageofX.italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effect of temperature on germination index of $X$ 、italicum图中各条柱所标字母不同，表示条柱对应的处理间在第15天时的差异达到显著水平( $P { < } 0 . 0 5$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8eca4169384ebb1db413095e560be6a7ae10d7cf82b704a689e17c0018916dac.jpg",
+        "table_caption": [
+            "",
+            "表31一15d不同光照下意大利苍耳种子萌发指数方差分析表",
+            "Table 3Variance analysis of accumulative germination index of X.italicum under diferent light in15 days "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检验： $\\lambda = 0 . 7 0 0$ ， $\\chi ^ { 2 } = 1 . 7 8 5$ ，Sig. $= \\ 0 . 4 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源 Source</td><td>df</td><td>典型平方和 Type II sum f squares</td><td>均方 Mean square</td><td>F</td><td>Sig</td></tr><tr><td>时间 Time</td><td>2</td><td>263.687</td><td>131.843</td><td>4302.361</td><td><0.0001</td></tr><tr><td>光质Light</td><td>2</td><td>50.538</td><td>25.269</td><td>120.527</td><td><0.0001</td></tr><tr><td>时间×光质 Time×Light</td><td>4</td><td>21.750</td><td>5.438</td><td>177.440</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d09eb3ba8b8e3251554feff53eb58796f24399430b83c929ac9aa9cdf7ad9ba3.jpg",
+        "table_caption": [
+            "Table4Variance analysisof accumulative germination percentageof X.italicumunderdifferent light in15d: "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检验： $\\lambda \\ : = \\ : 0 . 4 5 7$ ， $\\chi ^ { 2 } = 3 . 9 1 5$ ，Sig. $= \\ 0 . 1 4 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源</td><td>df</td><td>Type典型平方和uares</td><td>Mea方uare</td><td>F</td><td>Sig.</td></tr><tr><td>时间 Time</td><td>2</td><td>29277.366</td><td>14638.683</td><td>468.053</td><td><0.0001</td></tr><tr><td>光质Light</td><td>2</td><td>4190.947</td><td>2095.473</td><td>127.3</td><td><0.0001</td></tr><tr><td>时间×光质 Time × Light</td><td>4</td><td>1547.325</td><td>386.831</td><td>12.368</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e302ff42c819a8961db8bdf91aaf97e7edae2026cafd81ca508876cd093c7d7.jpg",
+        "img_caption": [
+            "图3光照对意大利苍耳种子萌发指数的影响 Fig.3Effect of light on germination index of $X .$ italicum "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/22cf4bef19c166e07f362bad2c8099a57e98c6d1d950feeed59087d154a3bd0a.jpg",
+        "img_caption": [
+            "图4光照对意大利苍耳种子的累积萌发率的影响Fig.4 Effect of light on accumulative germination percentage ofX.italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同土壤水分对意大利苍耳种子萌发的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤湿度对意大利苍耳的种子萌发具有极显著的影响(表5,表6),不同萌发阶段(第5天、第10天及第15 天)间的萌发指数及累积萌发率也存在显著差异,萌发时间与土壤水分间具有极显著的交互作用（ $P <$ 0.001）。意大利苍耳种子在不同土壤水分条件下均可萌发（图5,图6)。当土壤相对湿度仅为 $30 \\%$ 和 $4 0 \\%$ 的干旱环境中，其种子萌发指数(10.63—11.26)和萌发率( $7 1 \\% )$ 就已达到了比较高的水平；当相对湿度为 $70 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc4dd2bfe3a990ea5062772373ca7876a94576512823c5d7914deb62a76269e8.jpg",
+        "table_caption": [
+            "表41一15d不同光照下意大利苍耳种子累积萌发率方差分析表",
+            "表51一15d不同土壤水分处理下意大利苍耳种子萌发指数方差分析表"
+        ],
+        "table_footnote": [
+            "Mauchly's球性检验： $\\lambda \\ : = \\ : 0 . 5 1 5$ ， $\\chi ^ { 2 } = 9 . 9 4 0$ ，Sig. $\\mathbf { \\epsilon } = \\mathbf { \\epsilon } _ { 0 . 0 0 7 }$ ， $\\mathrm { G - G e } ~ = ~ 0 . 6 4 7$ ,H-Fe $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 1.000 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变异来源 Source</td><td rowspan=\"2\">df</td><td rowspan=\"2\">典型平方和 Type Il s</td><td rowspan=\"2\">均方 Mean square</td><td rowspan=\"2\">F</td><td rowspan=\"2\">Sig.</td><td colspan=\"2\">调整概率 Epsilon</td></tr><tr><td>G-Ge</td><td>H-Fe</td></tr><tr><td>时间Time</td><td>2</td><td>1225.002</td><td>612.501</td><td>20057.342</td><td><0.0001</td><td><0.0001</td><td><0.0001</td></tr><tr><td>土壤水分 Soil moisture</td><td>7</td><td>108.721</td><td>15.532</td><td>52.455</td><td><0.0001</td><td></td><td></td></tr><tr><td>时间×土壤水分 Time × Soil moisture</td><td>14</td><td>30.958</td><td>2.211</td><td>72.413</td><td><0.0001</td><td><0.0001</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/78f135549216c09341e0dd092d7acb8dd7475c29986c0108f37e1589cf249653.jpg",
+        "table_caption": [
+            "Table 5Variance analysis of accumulative germination index of X.italicum under diferent soil moisture in15 d: ",
+            "表61一15d不同土壤水分处理下意大利苍耳种子累积萌发率方差分析表",
+            "lysis of accumulative germination percentage of X.italicum under diferent soil moisture in 15 day "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检验： $\\lambda = 0 . 7 0 8$ ， $\\chi ^ { 2 } = 5 . 1 7 0$ ，Sig. $\\mathbf { \\epsilon } = \\mathbf { \\epsilon } _ { 0 . 0 7 5 }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源 Source</td><td>df</td><td>典型平方和 Type I sum of squares</td><td>均方 Mean square</td><td>F</td><td>Sig.</td></tr><tr><td>时间 Time</td><td>2</td><td>48318.393</td><td>24159.197</td><td>745.558</td><td><0.0001</td></tr><tr><td>土壤水分 Soil moisture</td><td>7</td><td>5656.965</td><td>808.138</td><td>16.163</td><td><0.0001</td></tr><tr><td>时间×土壤水分 Time × Soil moisture</td><td>14</td><td>2583.533</td><td>184.538</td><td>5.695</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "时，其种子的萌发指数(14.72)和萌发率( $1 0 0 \\%$ )达到最大值;在相对湿度达到 $100 \\%$ 的水涝条件下，尽管种子的萌发速度明显变缓( $_ { _ { P < 0 . 0 5 ) } }$ ，但15d之后的萌发率依然可以达到 $7 5 \\%$ 以上。因此,意大利苍耳种子萌发的最适宜土壤相对湿度是 $70 \\%$ ,且无论在干旱还是水涝的极端土壤水分条件下,其种子均可大量萌发。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/11d70f0da0e2c9a530e96ea6482153d56217069859c79c5d9d3ad43f9cf75d28.jpg",
+        "img_caption": [
+            "图5土壤湿度对意大利苍耳种子萌发指数的影响Fig.5Effect of soil moisture on germination index of $X _ { \\ l }$ italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8addc8afd7a6ab02b2446d3caea96e3f95fa5ae0836709b4e51b8892e27d6267.jpg",
+        "img_caption": [
+            "图6土壤湿度对意大利苍耳种子的累积萌发率的影响Fig. 6 Effect of soil moisture on accumulative germinationpercentageof X.italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4不同土壤盐分对意大利苍耳种子萌发的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤NaCI浓度对意大利苍耳的种子萌发具有极显著的影响（表7,表8),不同萌发阶段(第5天、第10 天及第15天)的种子萌发指数、累积萌发率也存在显著差异，“时间与土壤盐分”间存在显著的交互作用（ $P <$ 0.001）。由图7和图8可以看出：意大利苍耳种子萌发阶段具有很宽的土壤盐分耐受性（NaCI浓度为0—280mmol/L)。当土壤 $\\mathrm { { N a C l } }$ 浓度为 $8 0 \\mathrm { m m o l / L }$ 时,与CK相比,意大利苍耳种子的萌发指数下降约 $5 0 \\%$ （ $P <$ 0.05）,但是二者最终萌发率间却无显著差异( $P { > } 0 . 0 5 )$ ；当 $\\mathrm { { N a C l } }$ 浓度在 $8 0 { - } 2 0 0 \\mathrm { m m o l / L }$ 时,尽管种子的萌发速度较缓慢,但萌发率依然可达到 $7 5 \\%$ 以上;而当 NaCl 浓度为 $2 8 0 \\mathrm { m m o l / L }$ 时,虽然萌发指数和萌发率与CK相比均显著下降( $_ { P < 0 . 0 5 ) }$ ，但是最终种子的萌发率仍可维持在 $3 3 \\%$ 的水平。以上结果表明,虽然总体上，随土壤盐分的升高,意大利苍耳种子萌发受到明显抑制,但在NaCl浓度为 $2 8 0 \\mathrm { m m o l / L }$ 的高盐环境下,仍有1/3的种子可以萌发。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/aac6a529012c3b45123dd0f860827935fcbe7500191b09cbfc3fc3bd3aa2c1f3.jpg",
+        "table_caption": [
+            "表71—15d不同土壤盐分处理下意大利苍耳种子萌发指数方差分析表"
+        ],
+        "table_footnote": [
+            "Mauchly's球性检测： $\\lambda = 0 . 6 3 4$ ， $\\chi ^ { 2 } = 5 . 0 0 5$ ，Sig. $\\mathit { \\Theta } = \\ 0 . 0 8 2$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变异来源 Source</td><td rowspan=\"2\"></td><td rowspan=\"2\">df</td><td rowspan=\"2\">典型平方和 Type II sum of squares</td><td rowspan=\"2\">均方 Mean square</td><td rowspan=\"2\">F</td><td rowspan=\"2\">Sig.</td></tr><tr><td></td></tr><tr><td>时间Time</td><td></td><td>2</td><td>590.532</td><td>295.266</td><td>3387.874</td><td><0.0001</td></tr><tr><td>土壤盐分 Soil salinity</td><td></td><td>5</td><td>1088.680</td><td>217.736</td><td>285.552</td><td><0.0001</td></tr><tr><td>时间×土壤盐分 Time × Soil salinity</td><td></td><td>10</td><td>189.403</td><td>18.940</td><td>217.320</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef8ce69beb7780ddb555a20a3c74d3ed1c5be17ab3ed7b430a344f644737c2ce.jpg",
+        "table_caption": [
+            "analysis of accumulative germination index of X.italicum under different soil salinity in 15 day: ",
+            "表81一15d不同土壤盐分处理下意大利苍耳种子累积萌发率方差分析表",
+            "ariance analysis of accumulative germination percentage of X.italicum under diferent soil salinity in15 days "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检测： $\\lambda = 0 . 9 8 2$ ， $\\textstyle \\chi ^ { 2 } = \\ 0 . 2 0 5$ ，Sig. $\\mathbf { \\varepsilon } = \\mathbf { \\varepsilon } _ { 0 . 9 0 3 }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源</td><td rowspan=\"3\">df</td><td rowspan=\"3\">典型平方和</td><td rowspan=\"3\">均方 Mean square</td><td rowspan=\"3\">F</td><td rowspan=\"3\">Sig.</td></tr><tr><td>Source</td><td>Type I sum f squares</td></tr><tr><td>时间Time</td><td>18579.424</td></tr><tr><td></td><td>2</td><td></td><td>9289.712</td><td>442.627</td><td><0.0001</td></tr><tr><td>土壤盐分 Soil salinity</td><td>5</td><td>36362.140</td><td>7272.428</td><td>368.167</td><td><0.0001</td></tr><tr><td>时间×土壤盐分 Time × Soil salinity</td><td>10</td><td>5272.428</td><td>527.243</td><td>25.122</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/283b140ce12d46e0cad8e04cec907aa085b4f014ba3e10d3ee99480f282c230f.jpg",
+        "img_caption": [
+            "图7土壤盐分对意大利苍耳种子的萌发指数的影响Fig.7 Effect of NaCl concentrations on germination index of $X _ { \\ l }$ italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9d5bb422997aa691f4ad8f954ad4efcd693630e9a1ef06d812f99042ad7f08c.jpg",
+        "img_caption": [
+            "图8土壤盐分对意大利苍耳种子的累积萌发率的影响Fig.8Effect of NaCl concentrations on accumulative germinationpercentage ofX.italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5不同土壤 $\\mathrm { \\ p H }$ 值对意大利苍耳种子萌发的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤酸碱度对意大利苍耳的种子萌发具有极显著地影响(表9,表10),不同萌发阶段(第5天、第10 天及第15 天)的种子的萌发指数及累积萌发率之间也存在显著差异，萌发时间与土壤酸碱度之间存在极显著的交互作用 ( $\\stackrel { \\cdot } { P } < 0 . 0 0 1 \\stackrel { \\cdot } { _ { , } }$ )。意大利苍耳种子的萌发对土壤酸碱度也同样具有很强的耐受性(图9,图10)。当土壤 $\\mathrm { \\ p H }$ 值为2时,意大利苍耳种子的萌发率就可高达 $8 2 \\%$ ;当土壤 $\\mathrm { \\ p H }$ 值为4—8时,其种子的萌发速度和萌发率均随土壤 $\\mathrm { \\ p H }$ 值的增大而升高,种子萌发率均高达 $9 5 \\%$ 以上，在 $\\mathrm { \\ p H }$ 值为8的土壤环境中其萌发率达到了最大值 $( 1 0 0 \\% )$ ；之后随土壤 $\\mathrm { \\ p H }$ 值的继续增加,意大利苍耳种子的萌发指数和萌发率开始下降,当土壤 $\\mathrm { \\ p H }$ 值达到12时,其种子的萌发率依然可以达到 $7 5 \\%$ 以上。综上结果表明,土壤 $\\mathrm { \\ p H }$ 值为8是意大利苍耳种子萌发的最适宜土壤酸碱条件,且当土壤pH为强酸 $\\mathrm { ( ~ p H } = 2 \\mathrm { ) }$ 或强碱( $\\mathrm { p H } = 1 2 \\$ )的条件时,意大利苍耳仍有超过 $7 5 \\%$ 的种子可以萌发。 10/n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9404a031f91b687e260462d331d7c1cd56f58b34aa293792e1ab980d2dae85ef.jpg",
+        "table_caption": [
+            "Table 9Variance analysis of accumulative germination index of $X .$ italicum under different soil pH value in 15 days "
+        ],
+        "table_footnote": [
+            "Mauchly's球性检测： $\\lambda = 0 . 3 2 4$ ， $X ^ { 2 } = \\ 1 4 . 6 5 9$ ，Sig. $\\mathit { \\Theta } = \\ 0 . 0 0 1$ ，G-Ge $\\mathbf { \\varepsilon } = \\mathbf { \\varepsilon } _ { 0 . 5 9 7 }$ ， $\\mathrm { H - F e } ~ = ~ 0 . 9 0 0$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变异来源 Source</td><td rowspan=\"2\">型平方和 of squares</td><td rowspan=\"2\">均方 Mean square</td><td rowspan=\"2\"></td><td rowspan=\"2\">F</td><td rowspan=\"2\">Sig.</td><td colspan=\"2\">调整概率Epsilon</td></tr><tr><td>G-Ge</td><td>H-Fe</td></tr><tr><td>时间Time</td><td></td><td>1800.105</td><td>900.053</td><td>22782.939</td><td><0.0001</td><td><0.0001</td><td><0.0001</td></tr><tr><td>土壤 pH值 Soil pH value</td><td>404.493</td><td></td><td>67.415</td><td>166.684</td><td><0.0001</td><td></td><td></td></tr><tr><td>时间×土壤 pH值 Time × Soil pH value</td><td></td><td>34.247</td><td>2.854</td><td>72.241</td><td><0.0001</td><td><0.0001</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/33c948b56bb745dbf47e3b6b92903fc348f7190b5ff8faf9a3ccde88f1058a5f.jpg",
+        "table_caption": [
+            "表91一15d不同土壤pH值下意大利苍耳种子萌发指数方差分析表",
+            "表101—15d不同土壤pH值下意大利苍耳种子累积萌发率方差分析表"
+        ],
+        "table_footnote": [
+            "Mauchly's球性检测： $\\lambda = 0 . 9 5 9$ ， $\\textstyle \\chi ^ { 2 } = \\ 0 . 5 5 1$ ，Sig. $\\mathrm { ~  ~ { ~ \\ b ~ = ~ } ~ 0 . 7 5 9 }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>变异来源</td><td>df</td><td>Typ典型平方和ures</td><td>Meagare</td><td>F</td><td>Sig.</td></tr><tr><td>时间 Time</td><td>2</td><td>13821.517</td><td>6910.758</td><td>435.378</td><td><0.0001</td></tr><tr><td>土壤 pH值 Soil pH value</td><td>6</td><td>11683.951</td><td>1947.325</td><td>102.235</td><td><0.0001</td></tr><tr><td>时间×土壤 pH值 Time × Soil pH value</td><td>12</td><td>4311.817</td><td>359.318</td><td>22.637</td><td><0.0001</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b460cd6c386d83346907c5233cb91f7e54e45d879d4e4b3849420b9767265997.jpg",
+        "img_caption": [
+            "图9土壤 $\\mathbf { p H }$ 值对意大利苍耳种子的萌发指数的影响Fig.9Effect of soil $\\mathbf { p H }$ value on germination index of X.italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fd3b39f9b78c6e5ac01f13e2e55089fae8b34d84ab198beafa78989b301555a.jpg",
+        "img_caption": [
+            "图10土壤 $\\mathbf { p H }$ 值对意大利苍耳种子的累积萌发率的影响Fig.10 Effect of soil pH value on accumulative germinationpercentageof X.italicum"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生物入侵已成为威胁我国生态安全与生物安全的严重问题,外来入侵物种在我国每年造成的经济损失高达 2000 亿元人民币,民众自然生态保护意识的淡薄和政府有效防控措施落实的欠缺是造成该局面的主要原因。有效预防和控制外来物种的危害正成为各国政府、学术界与公众广泛关注的热点问题[18]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "意大利苍耳是近年来在我国扩散速度较快的外来人侵物种之一，博乐和昌吉是其在新疆扩散的中心[2]入侵物种种群的建立是外来物种成功入侵的重要基础,而其种子的顺利萌发则为该物种的种群的快速建立提供了可能。同时,入侵物种的种群建立与环境因素有很大关系,环境因素对种子萌发能力的影响直接决定了人侵植物的扩张速度和种群数量[19]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究表明环境温度、光照、土壤湿度、土壤盐分和土壤酸碱度会对意大利苍耳种子的萌发事件造成不同程度的影响,然而其种子也表现出了极强的生态适应性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "意大利苍耳种子萌发阶段的温度生态幅很宽，10— $3 5 \\mathrm { ^ { \\circ } C }$ 条件下均有种子萌发， $2 5 \\mathrm { ^ { \\circ } C }$ 为其萌发的最适宜温度,这说明从早春到盛夏期间其种子均可萌发成苗。同时也暗示,无论是炎热的盆地沙漠还是气候温凉的高原山区，均可满足意大利苍耳种子萌发时的温度需求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "无论是黑暗环境还是全色光条件下,意大利苍耳的种子都能大量萌发,说明意大利苍耳的种子为光中性种子，无论是落置于开阔地的地表,还是被埋藏在土壤下层,都不会影响意大利苍耳种子的正常萌发。这与许慧男等[20]对菊科其他入侵植物种子需光萌发的特性存在差异,这也恰是意大利苍耳种群能够快速扩张,成功入侵的一个重要原因。然而,绿光对意大利苍耳的种子萌发表现出极显著地抑制效应,绿光下种子的萌发率仅为 $6 9 \\%$ ,较开阔环境中的萌发率下降了近 $3 0 \\%$ 。这说明被绿叶郁闭的环境不利于意大利苍耳的种子萌发，这可能是其为避免幼苗出土后所面临的激烈种间或种内竞争的一种适应性对策[21]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "意大利苍耳的种子萌发对土壤水分的生态位需求非常宽泛,这说明其种子萌发阶段对土壤水分的需求并不严格。这可能是其种群之所以能够快速扩张的另一个重要原因,同时也说明无论是干旱的荒漠地带还是湿润的河谷或湿地都可能成为其潜在的分布区[22]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤盐分是影响植物种子萌发的一个重要生态因子[23-24],随土壤盐分浓度的升高,意大利苍耳种子的萌发率呈下降趋势,但在NaCl浓度为280mmol/L的土壤环境中仍有1/3的种子可以正常萌发,与本地植物苍耳（Xanthium sibiricum)相比[25],意大利苍耳种子表现出了更强的耐盐性能,使得该外来植物的种子在中度盐渍化土壤中可以萌发成苗。而北疆地区春季融雪和降雨后的水分下渗会使土壤表层的盐度降低,水势升高,这将可能更有利于意大利苍耳种子在盐渍化土壤中的萌发[26]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "意大利苍耳在种子萌发阶段还表现出了对土壤酸碱度具有极广的耐受幅度，在 $\\mathrm { p H } 2$ -12的土壤环境中均有超过 $7 5 \\%$ 的种子可以萌发,并且在 $\\mathrm { \\ p H \\ 4 - 1 0 }$ 的土壤环境中,其种子的萌发率均超过了 $9 0 \\%$ ,这与李孟良等对本地苍耳的研究结果是一致的[27]。而新疆具有大面积盐碱地(包括盐渍化耕地和荒漠),其群落植物丰富度较低,抗干扰能力弱,所以很有可能成为意大利苍耳潜在的分布区。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对适宜分布区的研究和预测是对外来人侵物种有效预防和科学管控的关键[15]。种子对不同环境因子的萌发策略反映了植物在种子萌发阶段对其环境所形成的适应。意大利苍耳在种子萌发阶段对温度、光照、土壤水分、土壤盐分以及土壤酸碱度均表现出了极强的适应能力,说明无论是温凉的高原山区,还是炎热的盆地沙漠;无论是开阔地,还是林下、田间的郁闭环境;无论是干旱的荒漠,还是湿润的河谷湿地;也无论是甜土,还是盐碱地,都是意大利苍耳种子萌发的适宜生境,都可能进而沦为意大利苍耳的入侵地。鉴于其宜生生境的广谱性和其生态危害的严重性[28],建议在意大利苍耳的潜在人侵区进行全方位的严格监控，一经发现,及时铲除;鉴于绿光能显著抑制意大利苍耳种子的萌发,故建议在其入侵区域播种早萌植物,提前造成郁闭条件，从而抑制下层意大利苍耳种子的萌发。 \\~",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］郭文超，吐尔逊，周桂玲，刘忠军，张祥林，秦晓辉，李晶，张伟．新疆农林外来生物入侵现状、趋势及对策．新疆农业科学，2012，49(1):86-100.  \n[2］杜珍珠，徐文斌，阎平，王少山，郭一敏.新疆苍耳属3种外来入侵新植物.新疆农业科学，2012，49(5）：879-886.  \n[3］徐承远，张文驹，卢宝荣，陈家宽.生物入侵机制研究进展.生物多样性，2001，9(4）：430-438.  \n[4]AndreabstliostauselletoalbliMoretti from Corsica.Flavour& Fragrance Journal,2012,27(3）:227-236.  \n[5]ShoH,angX,eiXagCotoicftsdotifroesieantXntmretes,17(4): 4037-4046.  \n[6]TsankovaET,edafloaABKujumgievAIlaboAS,obevaPXantanolidsfXnmticmMoretindoloicalactivity.Zeitschrift Fur Naturforschung C:A Journal of Biosciences，1994,49(1/2):154-155.  \n[7]KovacsA，VasasA，ForgoP，RethyB,upk6I，HhannJ.XanthanolideswithantitumouactivifroXntmtalicu.ZeitschifFrNaturforschung C：A Journal of Biosciences，2007,64(5/6):343-349.  \n[8] CasiniP.llopaicencsfmoclbur（tteti）aleopatual,）：199.  \n[9] KazincziG，TormaM，BeresI，HorvathJCompetitionbetwee Xanthiumitalicumandcropsunderfeldconditions.CerealResearchCommunications，2009,37（S1）：77-80.  \n[10] TakakuraKepduciefeedeatebiattlsnttaleand $X$ ，italicum（Compositae）.Plant Ecology，2010,206(2）：309-319.  \n11]StanisciAcostaA,iDVegitLeafdtrabitfdatiespeslodratastalaly).Plant Biosystems，2010，144(1）:47-52.  \n[12] 贺士元.北京植物志：下册.北京：北京出版社，1993：1504-1505.  \n[13] 车晋滇，胡彬.外来入侵杂草意大利苍耳.杂草科学，2007，（2)：57-59.  \n[14] 王瑞，万方浩.外来入侵植物意大利苍耳在我国适生区预测.草业学报，2010，19(6)：222-230.  \n[15] 吴冬，黄姝博，李宏庆.意大利苍耳二形性种子萌发、植株生长差异及生态适应性.生态学报，2009,29（10)：5258-5264.  \n[16] 车晋滇，胡彬．意大利苍耳的药剂防除.杂草科学，2007，（3)：59-60.  \n[17] 邵华，部凤娇，韩彩霞.外来植物意大利苍耳入侵对土壤微生物的影响及其生态效应//中国第七届植物化感作用学术研讨会论文摘要集．成都：中国植物保护学会，2015：36.  \n[18]部凤姣，韩彩霞，邵华.入侵植物意大利苍耳不同部位挥发油的化感作用及其化学成分的比较分析.生物学杂志，2015，32（2）：36-41.  \n[19] 马金双.中国外来入侵植物调研报告.北京：高等教育出版社，2014：233-233.  \n>[20] 许慧男，王文杰，于兴洋，贺海升，关宇，祖元刚.菊科几种入侵和非入侵植物种子需光发芽特性差异.生态学报，2010，30（13)：3433-3440.  \n[21] 张风娟，李继泉，徐兴友，郭艾英，胡京蕊，杜淑欣，万方浩.环境因子对黄顶菊种子萌发的影响.生态学报，2009,29（4)：1947-1953.22] MathiasA,KisdiE.daptiediversificationofgernatiostrategies.ProcedingsologicalSieces,02,6948）：-155.  \n[23] 贺宇，丁国栋，汪晓峰，李家国，肖萌.水分和沙埋对4种沙生植物种子萌发和出苗的影响.中国沙漠,2013，3（6)：1711-1716.  \n[24] 尤佳，王文瑞，卢金，贾鹏翔，缪建顺，杨颖丽.盐胁迫对盐生植物黄花补血草种子萌发和幼苗生长的影响.生态学报，2012，32（12)：3825-3833.  \n[25] 马杰.苍耳种子萌发对盐胁迫和不同温度的响应.重庆理工大学学报：自然科学，2012，26(12)：54-58.  \n[26] 渠晓霞，黄振英.盐生植物种子萌发对环境的适应对策.生态学报，2005，25(9)：2389-2398.  \n[27] 李孟良，汪从顺，万军.苍耳种子萌发和出苗特性的研究.种子，2004，23(4)：35-38.  \n[28] 张祥林，张伟，吴卫.新疆植物检疫性有害生物.北京：中国质检出版社，2012：112-113.",
+        "page_idx": 8
+    }
+]

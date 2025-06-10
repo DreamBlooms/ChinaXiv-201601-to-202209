@@ -1,0 +1,226 @@
+饲料中添加低聚木糖对凡纳滨对虾幼虾消化酶活力、肠道形态及细菌数量的影响 陈晓瑛1,2.3.4王国霞1,2.3,4孙育平1,2.3,4 陈冰1,2.3,4 莫文艳1,2.3.4赵红霞1,2.3,4 曹俊明 $^ { 1 , 2 , 3 ^ { * } }$ 黄燕华 $^ { 1 , 2 , 3 , 4 ^ { * } }$
+
+（1.广东省农业科学院动物科学研究所，广州510640；2.农业部华南动物营养与饲料重点实验室，广州 510640；3.广东省畜禽育种与营养研究重点实验室，广州510640；4.广州飞禧特生物科技有限公司，广州510640)
+
+摘要：本试验旨在研究饲料中添加低聚木糖（XOS）对凡纳滨对虾（Litopenaeus vannamei)消化酶活力、肠道形态及细菌数量的影响。试验选用平均体重为（ $0 . 6 7 { \scriptstyle \pm 0 . 0 2 }$ ）g的凡纳滨对虾幼虾800尾，随机分成4组，每组4个重复，每个重复50尾虾。对照组投喂基础饲料，试验组分别投喂在基础饲料中添加 200、400 和 $6 0 0 ~ \mathrm { { m g / k g } ~ \mathrm { { X O S } } }$ 的试验饲料。试验期为42 d。结果表明：1）与对照组相比，试验组对虾肠道淀粉酶活力和肝胰腺蛋白酶活力显著提高（ $P { < } 0 . 0 5 )$ ， $2 0 0 ~ \mathrm { { m g / k g } }$ 组肠道和肝胰腺蛋白酶活力、 $4 0 0 \mathrm { m g / k g }$ 组肠道和肝胰腺脂肪酶活力、$4 0 0 \mathrm { m g / k g }$ 组胃中蛋白酶活力显著升高（ $\scriptstyle \cdot - 0 . 0 5$ )。2）与对照组相比， $4 0 0 \mathrm { m g / k g }$ 组虾肝胰腺总蛋白含量、肠壁厚度和肠绒毛高度均显著升高（ $. P { < } 0 . 0 5 )$ )。3）与对照组相比，试验组对虾肠道总菌和双歧杆菌（Bifidobacterium）数量显著升高（ $_ { \cdot P < 0 . 0 5 ) }$ ，肠道弧菌(Vibrio)数量显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。由此可见，饲料中添加XOS 能提高凡纳滨对虾幼虾消化酶活力，改善肠道形态，提高肠道总菌和双歧杆菌数量，降低弧菌数量。
+
+关键词：低聚木糖；凡纳滨对虾；消化酶活力；肠道形态；肠道细菌文献标识码： 文章编号：
+
+凡纳滨对虾（Litopenaeus vannamei)是当今世界养殖产量最高的对虾三大优良品种之一，是我国对虾的主导养殖品种和重要出口水产品之一，具有生长快、抗病力强等优点，养殖经济效益显著。然而，随着集约化、规模化养殖模式及饲料中鱼粉替代比例升高，对虾疾病逐渐增多，抗生素及其他药品的滥用，导致对虾代谢紊乱，免疫力和抗病力下降，肠道健康受到威胁，严重影响对虾产业的可持续发展。目前，通过营养手段调控肠道健康来降低疾病的发生，减少药品的使用已成为现代营养学研究的热点之一。因此，寻找和开发绿色环保、安全有效的无抗添加剂，研究其调控对虾的肠道健康具有重要意义[I]。
+
+功能性寡糖是一种新型饲料添加剂[2]。低聚木糖（xylo-oligosaccharides，XOS）是功能性寡糖常用种类，是低度聚合糖，有效成分主要是木二糖和木三糖。与其他功能性寡糖相比，XOS 具有独特的性能，包括不易被动物的消化酶分解、有独特的酸和热稳定性、无配伍禁忌、可显著增殖双歧杆菌等特点，并在低剂量添加就能表现出显著效果。有研究发现，XOS具有维持畜禽动物肠道微生物区系的稳定性、促进有益菌增殖、抑制有害菌的生长、改善消化道结构、增强机体免疫和抗氧化能力、促进生长等作用[3-6]。有研究发现，饲料中添加 XOS或合生素能提高刺参(Apostichopus japonicus Selenka)和草鱼(Ctenopharyngodon idellus)肠道蛋白酶和淀粉酶活力[7-8]；提高草鱼肝胰腺的胰蛋白酶、脂肪酶活力[8]；提高草鱼[]、奥尼罗非鱼(Oreochromis aureus×O.niloticus)[10]和凡纳滨对虾[1]肠道中双歧杆菌等有益菌数量，减少肠道中大肠杆菌或弧菌等有害菌数量。但研究XOS对凡纳滨对虾肠道消化酶活力及肠道功能的影响尚未见报道。为此，本试验在前期研究XOS 对凡纳滨对虾幼虾生长性能和免疫、抗氧化功能作用效果[12]的基础上，研究了饲料中添加XOS 对凡纳滨对虾消化酶活力、肠道形态和细菌数量的影响，以便为XOS在甲壳动物饲料中的应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验饲料
+
+以鱼粉、豆粕和菜籽粕为主要蛋白质源，以鱼油和大豆磷脂为主要脂肪源，以面粉为主要碳水化合物源，配制蛋白质和脂肪水平分别为 $4 1 . 9 0 \%$ 和 $6 . 0 3 \%$ 的基础饲料，其组成及营养水平见表1。在基础饲料中分别添加200、400 和 $6 0 0 ~ \mathrm { { m g / k g } ~ \mathrm { { X O S } } }$ （购自山东龙力生物科技有限公司，纯度 $9 5 \%$ )，配制3种试验饲料。各种原料粉碎后均通过60目筛，用SLX-80 型双螺杆压机制成粒径为 $1 . 2 { \sim } 1 . 5 \ \mathrm { m m }$ 的颗粒料， $5 5 ~ ^ { \circ } \mathrm { C }$ 下烘干，冷却后过筛，放入密封袋中于${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C } .$ 冰箱中保存备用。
+
+# 表1基础饲料组成及营养水平 (风干基础)
+
+项目Items 含量Content  
+原料 Ingredients  
+鱼粉 Fish meal 28.00  
+豆粕 Soybean meal 15.00  
+花生粕 Peanut meal 19.00  
+虾壳粉 Shrimp shell meal 4.00  
+维生素C酯 Vitamin C ester 0.10  
+胆固醇 Cholesterol 0.10  
+面粉Wheat flour 23.30  
+乌贼膏 Cuttlefish cream 5.00  
+鱼油Fish oil 1.50  
+磷酸二氢钙 $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } }$ （204号 1.05  
+氯化胆碱 Cholinechloride 0.25  
+大豆磷脂 Soybeanlecithin 2.00  
+维生素预混料 Vitamin premixl 0.20  
+矿物质预混料 Mineral premix2) 0.50  
+合计 Total 100.00  
+营养水平 Nutrient levels²)  
+粗蛋白质 CP 41.90  
+粗灰分 Ash 11.56  
+粗脂肪 EE 6.03  
+水分Moisture 7.36
+
+1)每千克维生素预混料含有 Per $\mathbf { k g }$ vitamin premix contented:V $/ \mathrm { A } 4 0 0 0 0 0 0 0 \mathrm { I U }$ ， $\mathrm { V D } _ { 3 } 2 0 0 0 0 0 0$ IU,VE 30g， $\mathrm { V K } _ { 3 } 1 0 \mathrm { g }$ ， $\mathrm { V B } _ { 1 } \thinspace 5 \mathrm { ~ g ~ }$ ， $\mathrm { V B } _ { 2 } 1 5 \ \mathrm { g }$ ， $\mathrm { V B } _ { 6 } 8 \ \mathrm { g }$ ，泛酸钙 calcium pantothenate $2 5 \mathrm { g }$ ，叶酸folic acid $2 . 5 \ : \mathrm { g }$ ，生物素biotin $0 . 0 8 \mathrm { g }$ ，烟酸 nicotinic acid $3 0 . 1 5 \mathrm { g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 5 \mathrm { g }$ ，肌醇inositol $1 5 0 ~ \mathrm { g }$ 0
+
+2)每千克矿物质预混料含有 Per $\mathrm { k g }$ mineral premix contented: $\mathrm { M g S O _ { 4 } { \bullet } H _ { 2 } O ~ 1 2 ~ g }$ ，KCI $9 0 \ \mathrm { g }$ ，Met- $\operatorname { C u } 3 \mathrm { g }$
+
+Fe $\mathrm { \cdot S O _ { 4 } } { \bullet } \mathrm { H _ { 2 } O } \mathrm { ~ l ~ g ~ }$ ， $\mathrm { Z n S O _ { 4 } \bullet H _ { 2 } O }$ $1 0 \mathrm { g }$ ， $\mathrm { C a ( I O _ { 3 } ) _ { 2 } 0 . 0 6 ~ g }$ ，Met-Co $0 . 1 6 \mathrm { g }$ ，NaSeO3 0.003 6g。 3）营养水平为实测值。Nutrient levels were analyzed values.
+
+# 1.2 试验设计与饲养管理
+
+试验用凡纳滨对虾虾苗由正大集团有限公司珠海种苗场提供。用暂养料驯养4周后，在广东省农业科学院动物科学研究所水产研究室的室内循环水养殖系统中进行饲养试验。对虾饲养于16个容积为 $3 5 0 \mathrm { L }$ 的玻璃纤维桶（直径 $8 0 ~ \mathrm { c m }$ ，高 $7 0 \mathrm { c m }$ ，水体容积 $3 0 0 \mathrm { { L } }$ )，进水速率为 $3 . 4 \mathrm { L } / \mathrm { m i n }$ 。挑选体质健康、个体重量（ $( 0 . 6 7 { \scriptstyle \pm 0 . 0 2 }$ ）g的凡纳滨对虾苗 800尾，随机分为4组，每组4个重复，每个重复50尾虾。各组分别投喂基础饲料和3种试验饲料，记作G0（对照）、G200、G400 和G600 组。采用饱食投喂法，每天在08:00、14:00 和 20:00 分3次投喂，投喂半个小时后收集残饵。每天观察对虾健康状况，记录死亡情况。试验水源为海水和自来水混合后的咸淡水，经过沙滤、消毒后添入，盐度为 $4 . 0 \% 0 \sim 5 . 0 \%$ ，自然光照，水温 $2 8 . 5 { \sim } 3 2 . 0 ^ { \circ } \mathrm { C }$ ， $\mathrm { p H } 7 . 8 { \sim } 8 . 0$ ，溶氧含量 ${ > } 6 . 0 \ \mathrm { m g / L }$ ，氨氮含量 ${ \leq } 0 . 1 \ \mathrm { m g / L }$ ，亚硝酸盐含量 $\leq 0 . 0 1$ $\mathrm { m g / L }$ 。试验期为 $4 2 { \mathrm { ~ d ~ } }$ 。
+
+# 1.3样品采集及指标检测
+
+# 1.3.1 样品采集
+
+饲养试验结束后，禁食 $1 2 \mathrm { h }$ 。每个重复中随机取3尾虾，剥离肠道，放入 $10 \%$ 的福尔马林溶液中固定，用于肠道形态分析。每个重复再随机取3尾对虾置于冰盘内解剖，剥离对虾的胃、肠道和肝胰腺，剪开胃和肠道，用对虾生理盐水清洗胃、肠道内容物，用滤纸擦干表面水分，装入Eppendorf管中，置于 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 冰箱中保存，用于胃、肠道和肝胰腺消化酶活力测定。同时，每个重复随机取3尾对虾，在无菌操作下，将对虾解剖，取出肠道装入Eppendorf 管中，置于 $4 ^ { \circ } \mathrm { C } .$ 冰箱内，用于肠道细菌数量测定。
+
+肝胰腺、胃和肠道组织匀浆上清液：从 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冰箱中取出肝胰腺、胃和肠道样品， $4 ^ { \circ } \mathrm { C }$ 解冻，然后称取一定质量的样品，剪碎，放入玻璃匀浆器中，加入6倍样品重的预冷的生理盐水，在冰浴中匀浆（T10 basic 型电动玻璃匀浆机，IKA)，充分匀浆后，倒入离心管中，再加入3倍样品重的预冷生理盐水，冲洗匀浆器，倒入离心管，制成 $10 \%$ 组织匀浆液。取一部分置于 $4 ^ { \circ } \mathrm { C }$ 冰箱，用于测定脂肪酶活力。其余以 $3 ~ 5 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ ，取上清液，分装成2份，一份置于 $4 ^ { \circ } \mathrm { C }$ 冰箱保存，用于测定蛋白酶和淀粉酶活力；一份置于 $- 8 0 ~ ^ { \circ } \mathrm { C } .$ 冰箱中保存，用于组织总蛋白（TP）含量测定。 $4 ^ { \circ } \mathrm { C }$ 冰箱内的肠道样品采用同样的匀浆方法，制成$10 \%$ 肠道匀浆液。
+
+# 1.3.2 消化酶活力测定
+
+蛋白酶、淀粉酶和脂肪酶活力测定方法分别按王玉梅等[13]的方法、3,5-二硝基水杨酸显色法（DNS 法）[14]和聚乙烯醇橄榄油乳化液水解法[15]。
+
+[.3.3匀浆上清液TP含量测定制备肝胰腺和肠道匀浆上清液，以牛血清蛋白做标准，用考马斯亮蓝法测定[16]。
+
+# 1.3.4 肠道组织切片观察
+
+从 $10 \%$ 的福尔马林溶液中取对虾肠道，常规法脱水，石蜡包埋，连续切片，用苏木精-伊红（HE）染色，树胶封片，在光学显微镜下观察其形态和结构的变化。按组织学样品采集与图像数据测量中的随机等距原则选取测量对象。肠壁厚度：在每张切片中随机测量 30处肌层的厚度，取平均值。肠绒毛高度：从绒毛的顶端至肌部凹陷处的垂直距离表示，每张切片随机选取10处进行测量，取平均值。
+
+# 1.3.5 肠道细菌数量测定
+
+参考李继秋[17]的稀释涂布法。取 $10 \%$ 匀浆液，依次以10倍系列稀释，充分振荡混匀，分别取 $0 . 1 ~ \mathrm { m L }$ 的 $1 0 ^ { - 3 }$ 、 $1 0 ^ { - 4 }$ 和 $1 0 ^ { - 5 }$ 菌液来涂布，每个重复的稀释菌液进行3个平行测定。在$2 8 ^ { \circ } \mathrm { C }$ 培养箱中，无光照，培养基的 $\mathsf { p H }$ 为 $7 . 0 { \sim } 7 . 4$ ，总菌和弧菌静止培养 $2 4 \mathrm { h }$ ，乳酸菌静止培养 $4 8 \mathrm { { h } }$ 。双歧杆菌为厌氧菌，菌液涂布后，再倒入一层 $4 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 左右的双歧杆菌琼脂培养基(BBL 琼脂培养基)，置于 $2 8 \mathrm { ~ \ ^ { \circ } C }$ 培养箱中，无光照，静止培养 $4 8 \mathrm { h }$ 。根据菌落数可数性原则，对微生物进行平板菌落计数。选取菌落数为30\~300的稀释度，求3个平行的菌落数平均值，并计算每克肠道所含的细菌数量，以对数值（lgCFU/g）表示。培养基均采购于广东环凯微
+
+生物有限公司。
+
+# 1.4 数据统计分析
+
+数据采用平均值 $\pm$ 标准差表示。采用SPSS17.0软件进行数据分析和统计，对数据作单因素方差分析（one-way ANOVA)。若组间差异显著，再用Duncan 氏法进行多重比较，以$P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果
+
+2.1饲料中添加 XOS 对凡纳滨对虾肠道、肝胰腺和胃消化酶活力的影响
+
+由表2可知，与对照组相比，饲料中添加XOS 能显著提高对虾肠道的淀粉酶和肝胰腺的蛋白酶活力（ $_ { . P < 0 . 0 5 }$ ），对虾肠道、肝胰腺和胃的其他消化酶活力也有不同程度地提高。G200 组对虾肠道、肝胰腺和胃的淀粉酶活力最高，显著高于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 { \ : } .$ ）。G200组对虾肠道的蛋白酶活力最高，其次是G400 组，且均显著高于对照组（ $_ { . } P { < } 0 . 0 5 )$ ；G400组对虾肝胰腺和胃的蛋白酶活力最高，且显著高于对照组（ $P { < } 0 . 0 5$ ）。G400组对虾肠道的脂肪酶活力最高，且显著高于对照组（ $. P { < } 0 . 0 5$ ）；对虾肝胰腺脂肪酶活力随着饲料中XOS添加量的增加而升高，其中G400 和G600 组显著高于对照组（ $\cdot P { < } 0 . 0 5$ ）。各组对虾胃的脂肪酶活力无显著差异（ $_ { . P > 0 . 0 5 } )$ ）°
+
+表2饲料中添加XOS 对凡纳滨对虾肠道、肝胰腺和胃消化酶活力的影响
+
+项目Items
+
+Table 2 Effects of dietary XOS on activities of digestive enzyme in intestine, hepatopancreas and stomach of Litopenaeus vannamei( $\scriptstyle n = 4$ ） U/mg prot 组别 Groups   
+
+<html><body><table><tr><td></td><td></td><td>G0</td><td>G200</td><td>G400</td><td>G600</td></tr><tr><td></td><td>淀粉酶 Amylase</td><td>1 203.37±15.59a</td><td>1 241.17±11.41c</td><td>1 224.71±16.46b</td><td>1222.2±18.59b</td></tr><tr><td>肠道</td><td>蛋白酶</td><td></td><td></td><td></td><td></td></tr><tr><td>Intestine</td><td>Protease</td><td>326.51±17.49a</td><td>429.74±26.74b</td><td>384.79±11.63b</td><td>348.16±10.57ab</td></tr><tr><td></td><td>脂肪酶</td><td>50.42±3.43a</td><td></td><td></td><td></td></tr><tr><td></td><td>Lipase</td><td></td><td>54.17±2.88ab</td><td>57.09±2.10b</td><td>52.50±2.45ab</td></tr><tr><td>肝胰腺</td><td>淀粉酶</td><td>796.43±13.51a</td><td></td><td></td><td></td></tr><tr><td>Hepatopan</td><td>Amylase</td><td></td><td>814.88±10.71b</td><td>802.14±8.64ab</td><td>808.10±8.24ab</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">creas</td><td>蛋白酶 Protease</td><td>1 278.71±56.42a</td><td>1 575.40±55.23b</td><td>1 697.56±27.76b</td><td>1 591.00±49.67b</td></tr><tr><td>脂肪酶 Lipase</td><td>77.92±4.38a</td><td>79.17±3.19a</td><td>104.58±7.62b</td><td>127.84±2.79c</td></tr><tr><td>淀粉酶</td><td>336.55±16.93a</td><td>373.57±15.68b</td><td>359.28±17.22ab</td><td>371.55±14.21b</td></tr><tr><td>Amylase</td><td></td><td></td><td></td><td></td></tr><tr><td>蛋白酶 Protease</td><td>1 282.41±14.41a</td><td>1 458.11±19.52ab</td><td>1485.78±15.45b</td><td>1 408.47±10.74ab</td></tr><tr><td>脂肪酶</td><td></td><td></td><td></td><td></td></tr><tr><td>Lipase</td><td>53.50±7.58</td><td>65.42±10.22</td><td>53.34±6.09</td><td>57.09±9.46</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { . } P { < } 0 . 0 5 { : }$ ，相同或无字母表示差异不显著（ $\scriptstyle P > 0 . 0 5 ,$ 。下表同。 In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2饲料中添加XOS对凡纳滨对虾肝胰腺和肠道TP含量的影响
+
+由表3可知，各试验组对虾肝胰腺和肠道TP含量均高于对照组，并呈现先增加后减少的趋势，其中G400肝胰腺TP含量最高，显著高于对照组（ $. P { < } 0 . 0 5 )$ ，与其他试验组没有显著差异（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )。G400 组肠道TP含量最高，但各组间差异不显著（ $_ { . P > 0 . 0 5 }$ ）
+
+Table 3Effects of dietary XOS on content of TP in hepatopancreas and intestine of Litopenaeus   
+
+<html><body><table><tr><td colspan="2">vannamei (n=4)</td><td colspan="3">g/L</td></tr><tr><td>项目Items</td><td colspan="3">组别Groups</td><td></td></tr><tr><td></td><td>G0</td><td>G200</td><td>G400</td><td>G600</td></tr><tr><td>肝胰腺 Hepatopancreas</td><td>26.57±4.31a</td><td>31.04±3.12ab</td><td>33.65±2.12b</td><td>30.30±1.95ab</td></tr><tr><td>肠道 Intestine</td><td>4.24±0.44</td><td>4.73±0.49</td><td>4.87±0.69</td><td>4.53±0.46</td></tr></table></body></html>
+
+2.3 饲料中添加XOS对凡纳滨对虾肠壁厚度和肠绒毛高度的影响
+
+由表4可知，凡纳滨对虾肠壁厚度和肠绒毛高度均随着饲料中XOS 添加量的增加呈先升高后降低的趋势，其中以G400 组最高，且显著高于对照组（ $( P { < } 0 . 0 5 )$ ；而G400组对虾肠壁厚度与其他试验组无显著差异（ $\scriptstyle P > 0 . 0 5 .$ )。各组凡纳滨对虾肠道组织切片图见图1。
+
+表3饲料中添加 XOS 对凡纳滨对虾肝胰腺和肠道 TP含量的影响  
+表4饲料中添加XOS对凡纳滨对虾肠壁厚度和肠绒毛高度的影响   
+Table 4Effects of dietary XOS on jejunum wall thickness and villus height of Litopenaeus   
+
+<html><body><table><tr><td></td><td>vannamei</td><td>(n=4)</td><td>μm</td><td></td></tr><tr><td></td><td colspan="4"></td></tr><tr><td>目 Items</td><td></td><td>组别Groups</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>G0</td><td>G200</td><td>G400</td><td>G600</td></tr></table></body></html>
+
+肠壁厚度 Intestinal wall94.87±4.31a 97.94±3.12ab 104.65±2.12b 99.46±1.95ab  
+thickness  
+肠绒毛高度 Intestinal villus99.24±1.44a 100.73±1.49a 105.53±2.46b 103.87±1.69b  
+height图中V表示肠绒毛，J表示肠壁。  
+V in the figure represents intestinal villus,and J represents the intestinal wall.
+
+![](images/62599f97491c24d75a63bbafc6997675a652649dd3f3f2b7694c91dadde4ee49.jpg)  
+图1凡纳滨对虾肠道组织切片图
+
+Fig.1Intestinal section morphology diagram of Litopenaeus vannamei （ $\times 1 0 0 \dot s$ ））
+
+2.4饲料中添加XOS对凡纳滨对虾肠道细菌数量的影响
+
+由表5可知，各试验组的对虾肠道总菌和双歧杆菌数量显著高于对照组（ $_ { ( P < 0 . 0 5 ) }$ ，肠道弧菌（Vibrio）数量显著低于对照组（ $. P { < } 0 . 0 5 )$ 。各试验组乳酸菌数量不同程度地高于对照组，但各组间无显著差异（ $_ { . P > 0 . 0 5 ) }$ 。
+
+表5饲料中添加XOS对凡纳滨对虾肠道细菌数量的影响
+
+Table 5Effects of dietary XOS on intestinal bacteria numbers of Litopenaeus vannmei( $\scriptstyle n = 4$ ） lg (CFU/g)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>G0</td><td>G200</td><td>G400</td><td>G600</td></tr><tr><td>总菌Total bacteria</td><td>8.02±0.29a</td><td>8.93±0.25b</td><td>8.60±0.21b</td><td>8.98±0.14b</td></tr><tr><td>双歧杆菌Bifidobacterium</td><td>5.93±0.03a</td><td>6.28±0.03b</td><td>6.17±0.02b</td><td>6.28±0.06b</td></tr><tr><td>乳酸菌Lactobacillus</td><td>5.97±0.21</td><td>6.26±0.28</td><td>6.20±0.12</td><td>6.14±0.26</td></tr><tr><td>弧菌Vibrio</td><td>4.46±0.03c</td><td>4.29±0.02b</td><td>3.73±0.05a</td><td>4.17±0.02b</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲料中添加XOS对凡纳滨对虾消化酶活力的影响
+
+肠道是动物体内消化吸收的主要场所，其消化酶活力的高低反映基本的消化生理特征，直接影响动物对营养物质的吸收和利用，进而影响动物的生长和发育，是反映机体消化能力是否良好的重要指标。本试验中，随着饲料中XOS 添加量的增加，肠道的淀粉酶、蛋白酶和脂肪酶活力均先升高后下降，其总的变化趋势与本实验室前期研究中所呈现的增重率、特定生长率表现相似，其中G200 组肠道的蛋白酶和淀粉酶活力显著高于对照组，该组的增重率和特定生长率也最好[12]。以上结果间接表明，肠道消化酶活力与生长指标具有一定的相关性。这与XOS 在异育银鲫(Carassius auratus gibelio)[18]、奥尼罗非鱼[19]、仿刺参[7]和凡纳滨对虾[1]在肠道中的消化酶活力的研究结果相似。Sugita 等[20]研究发现，肠道菌群在淡水鱼的淀粉消化中具有非常重要的作用。例如，双歧杆菌、乳酸杆菌及其代谢产物能够促进动物消化酶的分泌和肠道蠕动，从而提高肠道的消化酶活力，而有害菌会损害肠黏膜上的绒毛和微绒毛，减少消化酶的分泌[21]。本试验证实，XOS 能促进有益菌双歧杆菌、乳酸菌等的增殖，抑制有害菌弧菌的生长。此外，XOS 还可以增强肠绒毛高度和肠壁厚度。由此可知，XOS主要通过改善微生物区系和肠道组织结构来促进肠道消化酶的分泌。但是，试验中肠道 TP含量与肠道蛋白酶活力变化趋势不一致，说明肠道中蛋白质沉积不仅受到蛋白酶活力的影响，可能还受其他因素（如肠道微生物数量）的影响。
+
+目前，有关低聚寡糖对动物肝胰脏和胃的消化酶活力影响的研究报道很少，而且作用效果不一致。饲粮中添加果寡糖（fructooligosaccharide，FOS）对肉鸡[2]和饲料中添加 XOS对凡纳滨对虾[23]消化道消化酶活力均无显著影响。而肖明松等[24]和熊沈学等[25]分别发现，在中华鳖(Trionyx sinensis)和异育银鲫的饲料中添加适量低聚寡糖，能显著提高肝胰脏蛋白酶活力。在本试验中，XOS 能显著提高肝胰腺和胃的消化酶活力。对虾肝胰腺和胃各消化酶没有表现出与前期研究显示的生长性能之间的相关性。但是肝胰腺的TP含量的变化趋势与肝胰腺的蛋白酶活力的变化趋势一致，说明肝胰腺的蛋白质沉积与蛋白酶活力具有一定的相关性。
+
+# 3.2饲料中添加XOS对凡纳滨对虾肠道形态的影响
+
+肠道健康是动物快速生长和保持健康的重要保障。其中肠道黏膜形态结构是机体消化吸收的结构基础，肠壁厚度、隐窝深度和绒毛高度的增加，可增强动物的消化吸收能力。目前关于低聚寡糖对动物肠道形态的研究有一定的进展，但XOS的研究较少。有学者发现，饲料中添加适量低聚寡糖能明显改善罗非鱼[10,26-27]、草鱼[28]、齐口裂腹鱼(Schizothoraxprenati)[29]的肠道形态。本试验结果发现，饲料中添加XOS 能增加对虾肠道肠壁厚度和肠绒毛高度，这将有利于肠道吸收面积的增加和营养物质消化利用率的提高[30]。分析其原因，应该是XOS作为益生菌的增殖因子，促进了有益微生物大量增殖，调节了微生态平衡，改善了肠道组织形态和代谢功能[31]。另外，肠道中有益菌的代谢产物如丁酸、丙酸和乙酸等短链脂肪酸可以作为能源促进黏膜细胞增殖，有利于肠壁厚度和肠道绒毛高度的增加[32-33]。
+
+# 3.3饲料中添加XOS对凡纳滨对虾肠道细菌数量的影响
+
+肠道细菌的组成和数量是评价肠道健康的重要指标。肠道细菌对肠细胞增殖、组织形态有极大的影响[34]，对营养物质的消化吸收、机体免疫、正常生长等起着重要作用。低聚寡糖影响肠道细菌的作用已经在畜禽和水产动物中有所报道，在饲料中添加适量的XOS 能提高畜禽动物肠道内双歧杆菌和乳酸杆菌数量，降低有害菌大肠杆菌数量[34-38]。在水产动物奥尼罗非鱼[10]、草鱼[8]、刺参[39]等也有类似的效果。本试验亦证实，饲料中添加 XOS 对凡纳滨对虾肠道乳酸菌数量没有显著影响，但能显著提高双歧杆菌和总菌数量，显著降低弧菌数量。XOS 作为有益菌的碳源，能增殖有益菌，使有益菌形成竞争优势，抑制了有害菌的定植，同时双歧杆菌等有益菌能形成一个生物学屏障组织阻止致病菌的侵入[39-40]。Pestova 等[41]研究发现，XOS具有与许多病原微生物外源凝集素相似的结构物质，能竞争性与病原菌结合，由于XOS具有不被消化道内源酶分解的特点，可携带着病原菌排出，起到了防止病原菌在肠道内繁殖的作用。在这些作用下，XOS能显著增加有益菌增殖，抑制有害菌增殖。
+
+# 4结论
+
+饲料中添加适量的XOS 能显著提高凡纳滨对虾幼虾消化酶活力，改善肠道形态，提高肠道总菌和双歧杆菌数量，降低弧菌数量。  
+参考文献：  
+[1]MITSUOKA T.Prebiotics and intestinal flora[J].Bioscience & Microflora,2010,21(1):3-12.[2] FRANCIS R J,BROUNS F.Immune-stimulating and gut health-promoting properties ofShortchain Fructo-oligosaccharides[J].Nutrition Reviews,2002,60(10):326-334.  
+[3]DE MAESSCHALCK C,EECKHAUT V,MAERTENSL,et al.Effects of  
+Xylo-oligosaccharides on broiler chicken performance and microbiota[J].Applied and  
+Environmental Microbiology,2015,81(17):5880-5888.  
+[4]石宁.地衣芽孢杆菌和低聚木糖及乳酸对肉鸡肠绒组织及肠道菌群的影响[D].硕士学位论文.郑州:河南工业大学,2010.  
+[5] 杨海英,杨在宾,杨维仁,等.益生素和低聚木糖对断奶仔猪生产性能、消化酶活性、血液指标和肠道微生物的影响[J].中国兽医学报,2009,29(7):914-919.  
+[6]刘亚利,刑贞召,翟蒲荣.低聚木糖对仔猪生产性能和肠道菌群的影响[J].西北农业学报,2009,18(6):63-65.  
+[7]李君华,刘佳亮,曹学彬,等.饲料中添加低聚木糖对仿刺参幼参生长性能、肠道消化酶活力和免疫力的影响[J].动物营养学报,2016,28(8):2534-2541.  
+[8]姚东林,邹青,刘文斌,等.地衣芽孢杆菌和低聚木糖对草鱼生长性能、肠道菌群和消化酶活性的影响[J].大连海洋大学学报,2014,29(2):136-140  
+[9]熊娟,吴志新,张朋,等.投喂低聚木糖对草鱼肠道菌群的影响[J].微生物学通  
+报,2011,38(3):317-321.  
+[10]张荣斌,曹俊明,黄燕华,等.低聚木糖对奥尼罗非鱼肠道形态、菌群组成和抗嗜水气单胞菌感染的影响[J].上海海洋大学学报,2012,21(2):233-240.  
+[11]胡毅.凡纳滨对虾饲料配方优化及几种饲料添加剂的应用[D].硕士学位论文.青岛:中国海洋大学,2007.  
+[12] 陈晓瑛,曹俊明,黄燕华,等.饲料中添加低聚木糖对凡纳滨对虾幼虾生长性能、非特异性免疫力、抗氧化功能及抗对虾白斑综合征病毒能力的影响[JJ.动物营养学  
+报,2014,26(8):2397-2407.  
+[13]刘玉梅,朱谨钊.对虾消化酶的研究[J].海洋科学,1984,8(5):144-159.  
+[14]潘鲁青,王克行.中国对虾幼体消化酶活力的实验研究[J].水产学报,1997,21(1):26-31.[15]朱俭.生物化学实验[M].上海:上海科学技术出版社,1981:190-193.  
+[16]BRADFORD M M.A rapid and sensitive method for the quantitation microgram quantitiesof protein utilizing the principle of protein-dye binding[J].Analytical  
+Biochemistry,1976,72(1/2):248-254.  
+[17]李继秋.对虾微生态制剂的研究和应用[D].博士学位论文.青岛:中国海洋大学,2004.[18] 刘波,谢骏,刘文斌,等.地衣芽孢杆菌与低聚木糖对异育银鲫消化酶活性、肠道菌群及生长的影响[J].大连水产学院学报,2006,21(4):336-340.  
+[19]强俊,王辉,李瑞伟,等.低聚木糖对奥尼罗非鱼幼鱼生长、体成分和消化酶活力的影响[J].淡水渔业,2009,39(6):63-68.  
+[20]SUGITA H,SHIBUYA K,SHIMOOKA H,et al.Antibacterial abilities of intestinal bacteria infreshwater cultured fish[J].Aquaculture,1996,145(1/2):195-203.  
+[21]高丽松.消化生理与保健[M].北京:中国医药科技出版社,1998:173-230.  
+[22]胡彩虹,占秀安.果寡糖对肉鸡消化机能的影响[J].中国粮油学报,2003,18(1):49-54.[23]黄燕华,王国霞,刘襄河,等.低聚木糖对凡纳滨对虾生长及消化道主要消化酶活性的影响[J].华南农业大学学报,2010,31(3):61-64.  
+[24]肖明松,王志耕,崔峰,等.果寡糖和糖萜素对中华鳖生长性能及免疫功能的影响[J].水利渔业,2004,24(3):20-22.  
+[25]熊沈学,刘文斌,方星星.低聚木糖梯度添加对异育银鲫生长及肠道消化酶活性的影响[J].
+
+畜牧与兽医,2005,37(10):23-24.
+
+[26]刘爱君,冷向军,李小勤,等.甘露寡糖对奥尼罗非鱼(Oreochromisniloticus $\times O .$ aureus)生长、肠道结构和非特异性免疫的影响[J].浙江大学学报（农业与生命科学版）,2009,35(3):329-336.
+
+[27]田娟,孙立威,文华,等.壳寡糖对吉富罗非鱼幼鱼生长性能、前肠组织结构及肠道主要菌群的影响[J].中国水产科学,2013,20(3):561-568.
+
+[28]徐介民.壳聚糖对草鱼生长影响的研究[D].硕士学位论文.长沙:湖南农业大学,2008.
+
+[29]曾丽萍.两种多糖对齐口裂腹鱼肠道消化酶、形态及菌群的影响[D].硕士学位论文.雅安:四川农业大学,2015.
+
+[30]CASPARY F W.Physiology and pathophysiology of intestinal absorption[J].The American Journal of Clinical Nutrition,1992,55(1S):299S-308S.
+
+[31]MOURAOA J L,PINHEIROA V,ALVESA A,et al.Efect of mannan oligosaccharides on the performance,intestinal morphology and cecal fermentation of fattening rabbits[J].Animal Feed Science and Technology,2006,126(1/2):107-120.
+
+[32]DUAN Y F,ZHANG Y,DONG H B,et al.Effect of dietary Clostridium butyricum on growth,intestine health status and resistance to ammonia stress in Pacific white shrimp Litopenaeus vannamei[J].Fish & Shellfish Immunology,2017,65:25-33.
+
+[33]刘小华,李舒梅,熊跃玲.短链脂肪酸对肠道功效及其机制的研究进展[J].肠外与肠内营养,2012,19(1):56-58.
+
+[34]占秀安,胡彩虹,许梓荣.果寡糖对肉鸡生长、肠道菌群和肠形态的影响[J].中国兽医学报,2003,23(2):196-198.
+
+[35]王继成,潘灵辉,李淑云,等.低聚木糖对断奶仔猪生产性能、肠道菌群及免疫水平影响的研究[J].中国畜牧兽医,2006,33(5):3-7.
+
+[36]SUO H Q,LIN L U,XU G H,et al.Effectiveness of dietary xylo-oligosaccharides for broilers fed a conventional corn-soybean meal diet[J].Journal of Integrative   
+Agriculture,2015,14(10):2050-2057.
+
+[37]刘卫东,宋素芳,程璞.甘露寡糖和益生菌对肉仔鸡生产性能和肠道菌群的影响[J].家畜 生态学报,2011,32(1):32-35.
+
+[38]温若竹,江芸,刘泽兴,等.甘露寡糖对肉仔鸡肠道微生物区系发育的影响[J].浙江大学学 报:农业与生命科学版,2011,37(1):83-90.
+
+[39] 梁超.饲料中添加二甲酸钾、低聚木糖和菊粉对刺参的生长、免疫和抗灿烂弧菌感染能 力的影响[D].硕士学位论文.青岛:中国海洋大学,2011.   
+[40]盛清凯,姚惠源.低聚糖对肠道菌群的调节机理[J].动物科学与动物医   
+学,2002,19(2):35-38.   
+[41] PESTOVA M 1,CLIFT R E,VICKERS R J,et al.Effect of weaning and dietary galactose supplementation on digesta glycoproteins in pigs[J].science of food and   
+agriculture,80(13):1918-1924. Effects of Dietary Xylo-Oligosaccharides on Digestive Enzymes Activities, Intestinal Morphology and Bacteria Numbers of Juvenile Litopenaeus vannamei CHEN Xiaoying1,2,3.4WANG Guoxia1,2,3,4SUN Yuping1,2,3,4CHEN Bing1,2,3,4 MO Wenyan1,2,3.42 ZHAO Hongxia1,2.3.4 CAO Junming1,2,3\* HUANG Yanhual1.2.3,4\* (1. Institute of Animal Science, Guangdong Academy of Agricultural Sciences, Guangzhou   
+510640, China; 2. Key Laboratory of Animal Nutrition and Feed Science in South China of   
+Ministry of Agriculture, Guangzhou 510640, China; 3.Guangdong Key Laboratory of Animal   
+Breeding and Nutrition, Guangzhou 510640, China; 4. Guangzhou Fishtech Biotechnology Co. Ltd., Guangzhou 510640, China)
+
+Abstract:Thisexperimentwasconductedto investigatetheeffectsofdietary xylo-oligosaccharides (XOS) on digestive enzyme activities, intestinal morphology and bacteria numbers of juvenile Litopenaeus vannamei. A total of 800 juvenile Litopenaeus vannamei with an average body weight of $( 0 . 6 7 { \scriptstyle \pm 0 . 0 2 } )$ g were randomly assigned to 4 groups with 4 replicates per group and 5O shrimps per replicate. Shrimps in the control group were fed a basal diet, and others in the experimental groups were fed the basal diets supplemented with 20o, 400, and $6 0 0 ~ \mathrm { { m g / k g } }$ XOS,respectively.The experiment lasted for 42 days.The results showed as follows: 1) compared with the control group, the intestinal amylase activity and hepatopancreas protease activity of shrimps in experimental groups were significantly increased $( P { < } 0 . 0 5 )$ ， the intestinal and hepatopancreas protease activity in $2 0 0 ~ \mathrm { m g / k g }$ group,the intestinal and hepatopancreas lipase activity in $4 0 0 ~ \mathrm { { m g / k g } }$ group, and stomach protease activity in $4 0 0 ~ \mathrm { { m g / k g } }$ group were significantly increased $( P { < } 0 . 0 5 )$ . 2) Compared with the control group, the hepatopancreas total protein content, intestinal wall thickness and intestinal villus height of shrimps in $4 0 0 \mathrm { \ m g / k g }$ group were significantly increased ( $_ { ( P < 0 . 0 5 ) }$ . 3) Compared with the control group, the intestinal total bacteria and Bifidobacteria numbers of shrimps in experimental groups were significantly increased （204 $( P { < } 0 . 0 5 )$ ,while the intestinal vibrio number was significantly decreased $( P { < } 0 . 0 5 )$ . In conclusion, dietary XOS can improve digestive enzyme activities and intestinal morphology， increase intestinal total bacteria and Bifidobacteria numbers, decrease intestinal Vibria number of juvenile Litopenaeus vanname.
+
+Key words: xylo-oligosaccharides; Litopenaeus vannamei; digestive enzyme activities; intestinal morphology; intestinal bacteria²

@@ -1,0 +1,570 @@
+[
+    {
+        "type": "text",
+        "text": "基于Landsat8影像时间序列NDVI的作物种植结构提取",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白燕英'，高聚林²，张宝林³(1内蒙古农业大学水利与土木建筑工程学院,内蒙古呼和浩特 010018；2 内蒙古农业大学农学院，内蒙古呼和浩特010019；3内蒙古师范大学化学与环境科学学院,内蒙古呼和浩特 010018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为提高内蒙古平原灌区作物种植结构遥感监测精度和效率,提出一种基于时序 NDVI曲线的作物种植结构提取方法。以内蒙古土默特右旗平原区为研究区域，以2015年覆盖作物生育期的多时相Landsat影像为数据源，根据不同地物其NDVI值范围不同，将研究区地表分为植被覆盖地表,无植被覆盖地表和水体3类。在植被覆盖区域内,根据林地和荒草地时序NDVI曲线特征，提取林地和荒草地，其余区域即为农田。根据小麦、玉米、葵花和西葫芦的时间序列NDVI曲线特征差异构建分类决策树模型，在农田区域内提取上述作物的空间种植分布信息。研究区各类地物及作物遥感提取面积与实际统计面积接近，土地利用分类总体精度达到 $8 5 . 7 1 \\%$ ，作物分类总体精度达到 $8 2 . 6 9 \\%$ 。研究结果表明该方法提取作物种植信息的精度较高，能够实现区域作物种植信息的高效准确监测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Landsat；时间序列；NDVI；作物种植结构；决策树文章编号： 1000 -6060(2019)04 -0893-09(0893\\~0901)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作物种植结构是作物长势监测和估产分析、种植结构调整及优化、作物灌溉管理的主要依据，充分利用作物的季相节律特征是区分作物与其他绿色植被以及作物之间的关键理论依据[1]。在我国现行农业土地使用制度下，农业用地由农民自由支配，插花种植现象普遍，光谱混合现象普遍存在，应用中高分辨率遥感影像可明显提高作物分类精度[2-4]。基于多时相影像的作物分类方法充分利用作物季相节律特征，能清晰反映不同作物随时间的变化趋势，有效减少作物误分现象，是当前作物种植结构遥感提取的主流方法[5-10] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘焕军等[\"]研究表明以多源多时序影像对土地利用覆被信息分类，决策树分类方法精度最高；在提取的耕地范围内根据作物生育关键期的影像，采用最大似然法对作物分类的精度最高。周静平等[12]根据多时序环境卫星影像,采用决策树和面向对象相结合的分类方法成功提取了作物分布信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨闫君等[13]以多时序高分影像对作物分类的研究表明：支持向量机分类方法总体精度最高。刘佳等[14]认为：以多时序环境卫星影像,采用基于NDVI阈值的决策树法对作物分类的精度理想。张荣群等[15]采用基于Landsat8 影像时序植被指数NDVI的作物决策树分类方法对作物进行了分类研究。李鑫川等[16]以多时序环境卫星影像对作物分类表明：决策树分类效果最好。黄健熙[17]等以多时序高分卫星影像，构建基于NDVI植被指数的决策树对作物种植信息进行提取表明：该精度高于最大似然法的分类精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综上所述，应用基于时序植被指数的决策树分类方法提取作物精度理想，该方法根据作物季相节律特征构建，能充分体现同一作物在不同生育期及不同作物在同一生育期的差异。针对内蒙古土默特右旗平原区，基于2015年多时相Landsat影像，根据林地、荒草地及作物季相节律特征,构建基于林地、荒草地和主要作物时间序列NDVI曲线的分类决策树模型，提取不同地物和主要作物，为内蒙古平原灌区作物种植结构探索科学、高效、准确的遥感监测方法，为区域作物种植信息遥感监测提供方法指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土默特右旗位于内蒙古自治区包头市东南部，总面积 $2 \\ 3 6 9 . 1 8 \\ \\mathrm { k m } ^ { 2 }$ ,北倚阴山山脉，南邻黄河，阴山山脉与黄河之间的区域属于土默川平原。本文以该区域为研究区，地理范围为 $1 1 0 ^ { \\circ } 1 3 ^ { \\prime } \\sim 1 1 0 ^ { \\circ } 1 3 ^ { \\prime } \\mathrm { E }$ ，$4 0 ^ { \\circ } 1 4 ^ { \\prime } \\sim 4 0 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { N }$ 之间,面积 $1 6 6 7 . 5 ~ \\mathrm { k m } ^ { 2 }$ （图1)，土地利用类型主要为农田，其中北部 $9 \\%$ 的农田依赖地下水灌溉，其余 $91 \\%$ 的农田依赖黄河水灌溉。研究区属于大陆性半干旱气候带，其主要特征是降水量少而集中，蒸发量大，温差变化大，冬季寒冷漫长，夏季短暂酷热，春季干燥多风，秋季光照充足，四季分明。年平均气温 $7 . 0 \\ \\mathrm { { ^ { c } } }$ ,多年平均降水量357.6$\\mathbf { m } \\mathbf { m }$ ,多年平均蒸发量 $1 ~ 9 4 7 . 8 6 ~ \\mathrm { m m }$ 。土地平阔，土壤肥沃,水源充分，适应各种农作物的栽培种植。主要粮食作物有小麦、玉米、高梁、莜麦、荞麦、豆类、马铃薯等，经济作物有西葫芦，甜菜、向日葵、籽瓜等。其中玉米是种植面积最大的农作物，约占总播种面积的 $70 \\%$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1遥感影像数据及处理选用2015年Land-sat8-OLI和Landsat7-ETM $^ +$ 影像为数据源，共获取覆盖作物生育期的12景影像，影像类型、获取时间及云量见表1，研究区2015年4月28日和8月2日的云量稍大，分别为 $8 . 6 3 \\%$ 和 $1 7 . 7 9 \\%$ ，其余影像的云量都小于 $3 \\%$ ，说明获取的多时相遥感影像质量较高。Landsat影像覆盖研究区的行号为127，列号为32,过境周期16d,过境时间为北京时间上午11点18分左右，影像数据处理主要包括辐射定标、大气校正、图像裁剪、去云处理,并对 $\\mathrm { E T M } +$ 数据进行去条带处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc25ce35d7e97cd5c217046a57a7cc1fbb49eb420d41beb32f0a80766c3064f2.jpg",
+        "img_caption": [
+            "图1研究区地理位置图",
+            "Fig.1Geographical location in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2野外采样数据 野外采样时间为Landsat8-OLI影像过境后第二天，可参考获取的Landsat8-OLI影像对地物进行采样，尽量选取作物种类一致、长势均匀且面积大于 $5 0 \\mathrm { ~ m ~ } \\times 5 0 \\mathrm { ~ m ~ }$ 的区域作为采样点。野外采样工作共进行7次，时间分别是2015 年的5月1日 $\\sim 2$ 日、5月16日 $\\sim 1 7$ 日、5月31日、6月21日、7月4日、7月20日和9月26日，共计采样点510个，均匀分布在整个研究区域，其中：作物采样点共329个，包括小麦49个、玉米120个、葵花 70 个、西葫芦 42个、其他作物 31 个;其他地物采样点共181个，包括林地53个、荒草地 40个、村庄55个、道路渠道24个。主要作物采样点分布详见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 主要作物生育期",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农作物种植时间从3月底到10月初，本文主要对研究区2015年种植面积最大的小麦、玉米，葵花和西葫芦的种植信息进行遥感提取，其余的农作物都归为其他作物一类，四种作物的生育期详见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1作物NDVI时间序列曲线特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NDVI可以反映作物的旺衰信息，其值的增长或降低与作物生长变化过程相对应，在一景影像上不",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ba86276222c904680afb3095f6d994f46ec7e38c4bb131255899826a7270e8f.jpg",
+        "table_caption": [
+            "表1土右旗平原区Landsat遥感影像列表",
+            "Tab.1 Landsat images lists of the study area "
+        ],
+        "table_footnote": [
+            "注：研究区云量 $( \\% ) =$ 研究区云覆盖面积 $\\div$ 研究区面积 $\\times 1 0 0$ "
+        ],
+        "table_body": "<html><body><table><tr><td>序 号</td><td>传感 器</td><td>过境 日期</td><td>研究区云 量/%</td><td>序 号</td><td>卫星传 感器</td><td>过境 日期</td><td>研究区云 量/%</td></tr><tr><td>1</td><td>OLI</td><td>2015.4.28</td><td>8.63</td><td>7</td><td>ETM +</td><td>2015.7.25</td><td>2.08</td></tr><tr><td>2</td><td>OLI</td><td>2015.5.14</td><td>0.98</td><td>8</td><td>OLI</td><td>2015.8.02</td><td>17.79</td></tr><tr><td>3</td><td>ETM +</td><td>2015.5.22</td><td>1.02</td><td>9</td><td>ETM +</td><td>2015.8.26</td><td>1.87</td></tr><tr><td>4</td><td>OLI</td><td>2015.5.30</td><td>2.49</td><td>10</td><td>OLI</td><td>2015.9.03</td><td>0.74</td></tr><tr><td>5</td><td>OLI</td><td>2015.6.15</td><td>2.53</td><td>11</td><td>OLI</td><td>2015.9.19</td><td>0.00</td></tr><tr><td>6</td><td>OLI</td><td>2015.7.01</td><td>0.04</td><td>12</td><td>OLI</td><td>2015.10.05</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c570fa967065939829459714740c053320a73f9c1b23a24db1667b885aa58b05.jpg",
+        "img_caption": [
+            "图2主要作物采样点分布",
+            "Fig.2Distribution of sampling points for major crops "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2主要作物生育期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a90d3c908013cc9c731ac7e8ef221feb2e724dc9b30bb09724489e47316b99d.jpg",
+        "table_caption": [
+            "Tab.2Growth period of main crops "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">4月</td><td colspan=\"2\"></td><td colspan=\"3\">5月</td><td colspan=\"3\">6月</td><td colspan=\"3\">7月</td><td colspan=\"3\">8月</td><td colspan=\"3\">9月</td></tr><tr><td>上旬中旬</td><td></td><td>下旬</td><td>上旬</td><td>中旬</td><td>下旬</td><td></td><td>上旬 中旬</td><td>下旬</td><td>上旬</td><td>中旬</td><td>下旬</td><td>上旬</td><td>中旬</td><td>下旬</td><td>上旬</td><td>中旬</td><td>下旬</td><td>上旬</td></tr><tr><td>小麦</td><td>播种</td><td></td><td>出苗</td><td>分</td><td></td><td>拔节</td><td></td><td>孕穗</td><td>抽穗</td><td>乳熟</td><td></td><td>成熟</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米</td><td></td><td></td><td>播种</td><td></td><td>出苗</td><td></td><td></td><td></td><td>拔节</td><td></td><td>抽雄</td><td></td><td></td><td></td><td>乳熟</td><td></td><td></td><td>成熟</td><td></td></tr><tr><td>葵花</td><td></td><td></td><td></td><td></td><td></td><td>播种</td><td></td><td></td><td>出苗</td><td></td><td></td><td>现蕾</td><td>开花</td><td></td><td></td><td></td><td></td><td></td><td>成熟</td></tr><tr><td>西葫芦</td><td></td><td></td><td></td><td>播种</td><td>出苗</td><td></td><td></td><td>初花</td><td></td><td>结果</td><td></td><td></td><td></td><td>成熟</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "易区分的作物，通过NDVI时间序列曲线可以清晰的区分，NDVI时间序列曲线能清晰的反映同一作物在不同生育期差异，也能反映不同作物在同一时期的差异。根据小麦、玉米、葵花、西葫芦，林地和荒草地采样点的坐标，提取每个采样点在每景影像NDVI值，得到每个采样点的12个时间序列NDVI值，即时间序列NDVI曲线。同一种作物不同采样点由于长势、种植模式等因素的差异导致NDVI时间序列曲线也不完全一致，但其趋势基本一致。由图3可知,在同一时期长势好的作物NDVI值高，长势差的作物NDVI值低，即同一种作物NDVI曲线随其长势高低不同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对每景影像小麦49个采样点NDVI值取平均值,得到小麦时间序列NDVI平均曲线,其他作物，林地和荒草地的时间序列NDVI平均曲线获取方法相同。各作物，林地和荒草地的时间序列NDVI平均曲线详见图4。建立基于时序NDVI的分类决策树对各作物NDVI阈值的选取至关重要，不仅要考虑作物，林地和荒草地NDVI平均曲线差异，还要充分考虑每种作物(植被)在同一个时期本身NDVI值变化的范围，以便实现地物及作物更为精确的分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图4可见，林地NDVI4月底大于0.4，随时间推移NDVI逐渐增大，到8月底达最大值，以后开始缓慢下降，10月初林地NDVI值仍明显高于其他作物，主要因为此时其他作物都已收获。林地从4月底到10月初的NDVI曲线明显高于其他作物，且变化平缓。荒草地NDVI值从4月底到10月初，一直变化平缓，基本保持在0.4左右。林地和荒草地NDVI曲线特征明显，与作物的NDVI曲线差异较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小麦NDVI值从4月下旬出苗后开始增加，6月底进入抽穗期达最大值，7月下旬成熟收获NDVI曲线迅速下降。5月份玉米和西葫芦处于苗期,葵花还未播种，小麦和林地的NDVI值明显高于其他作物；7月下旬小麦收割后NDVI值迅速下降，而林地和其他作物仍处于生长旺盛期，小麦NDVI值显著低于其他作物，这是小麦区别于其他作物的两个明显特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88c2c66d635674359eb64c940e94278a8d78216c5413e6a6eecb8842460d234.jpg",
+        "img_caption": [
+            "图3不同长势作物、林地和荒草地和时间序列NDVI曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/089ab42e72884d8678325d74f0845e935eea738d555bd22617abb5890d59e0da.jpg",
+        "img_caption": [
+            "Fig.3Time series NDVI curves of diferent growing state of crops,woodland and weeds ",
+            "图4作物、林地和荒草地NDVI时间序列曲线",
+            "Fig.4Time-series NDVI curves of crops，woodland and weeds "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "葵花6月初播种，7月初处于苗期，此时其他作物和林地都处于生长旺盛期，NDVI值明显高于葵花；葵花7月份生长迅速，到7月底处于现蕾期，其NDVI曲线从7月1日 $\\sim 2 5$ 日迅速增加，这是葵花区别于其他作物和林地的两个明显特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "玉米和西葫芦从6月份都开始迅速生长，NDVI曲线都明显升高，不易区分。西葫芦7月底瓜蔓开始变黄，NDVI值开始下降;而此时玉米正值抽雄期，NDVI仍在继续升高，8月底玉米NDVI值达到峰值，利用这一特征可区别西葫芦和玉米。9月份进入秋季，作物进入成熟期生长缓慢开始收获，所有作物和林地NDVI曲线开始下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 土地利用分类",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据不同地物类型NDVI值范围不同，将研究区的土地利用分为植被覆盖地表，无植被覆盖地表和水体三类，研究区覆盖地表的植被类型主要为作物、林地、荒草地等;无植被覆盖地表主要为城镇村庄、道路渠道、煤场、盐荒地、裸荒地等，本文统称为裸地;水体包括河流，水库，渠道等，研究区河流主要是黄河。由于作物有各自的生育期，选择合适的影像进行区分地表有无植被覆盖较为困难，采用2015年时间序列NDVI最大值合成图像对植被区域，裸地和水体进行分类较为理想。在NDVI最大值合成图像上，选取区分像元有无植被覆盖的NDVI阈值成为关键问题。大气校正后的图像，植被覆盖度大于 $30 \\%$ 的地表光谱反射率才表现出植被的光谱特征,NDVI的临界值约为 $0 . \\ 3 ^ { [ 1 8 - 1 9 ] }$ ,本文选取0.35作为区分像元有无植被覆盖的NDVI阈值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "荒草地的NDVI年内最大值一般都小于0.5，根据这一特征提取荒草地;林地从4月底到10月初的NDVI曲线明显高于其他作物，且变化平缓（图4），根据该特征可提取林地；植被覆盖地表其余区域即为农田。土地利用分类决策树见图5，分类后得到的土地利用空间分布结果见图6。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图6土地利用空间分布图可以看出，研究区域主要土地利用类型为农田，面积 $1 1 4 6 . 1 9 { \\mathrm { ~ k m } } ^ { 2 }$ ，占研究区域总面积的 $6 6 . 7 0 \\%$ ;林地占研究区域总面积的 $3 . 6 7 \\%$ ,主要分布在平原区北部，即阴山脚下，和南部沿黄河一带;荒草地占研究区域总面积的$9 . 5 8 \\%$ ，主要分布在平原区中部和南部；裸地占研究区域总面积的 $1 7 . 8 2 \\%$ ;水体占研究区域总面积的$2 . 2 2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 作物提取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究区主要作物的时间序列NDVI曲线特征（图4)差异如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）小麦5月30日的NDVI明显高于其他作物；在7月25日已经收获，小麦收割后的NDVI值迅速下降，因此小麦在5月30日的NDVI值大于7月25日的NDVI值，利用上述特征提取小麦种植信息",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）葵花7月初处于苗期,NDVI值低于0.3，而此时其他作物和林地都处于生长旺盛期，NDVI值较大。进入7月份葵花处于迅速生长期，葵花NDVI曲线从7月1日\\~25日上升明显，葵花在8月2日处于现蕾期，此时正值生育高峰期，其NDVI值高于葵花7月25日NDVI值，利用上述特征提取葵花种植信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e997508593029bd3e5ddb9af7fc25331d1b78a23d6e7646d2caf4ee1c3e72b9.jpg",
+        "img_caption": [
+            "图5土地利用分类决策树",
+            "Fig.5Classification decision tree of land cover information "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0333700d63793e656be257e7f508beae538f9b5748e6d7dac0d464b77036cd43.jpg",
+        "img_caption": [
+            "图62015年土地利用空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）玉米和西葫芦的NDVI曲线特征在7月1日前接近，难以区分，但在7月1日以后差异明显，西葫芦在7月下旬瓜蔓开始变黄，NDVI开始下降，而玉米NDVI值一直增加到8月初，此时玉米正值抽雄期，然后NDVI值才开始下降，根据上述特征可依次提取玉米和西葫芦的种植信息。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在提取的农田区域范围内，根据上述作物NDVI",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农田£ √ ? ↑ ?小麦 葵花 西葫芦 玉米  \n5.30NDVI≥0.4 7.1NDVI<0.35 5.30NDVI<0.3 5.30NDVI<0.4 其他  \n5.30NDVI>7.25NDVI 7.25NDVI-71ND>0.15 7.1NDVI>7.25NDVI 7.1NDVI-7.25NDVI>0.1 作物9.3NDVI>0.4 9.3NDVI<0.5 9.3NDVI>0.5注：5.30NDVI表示5月30号影像像元NDVI值，其他类同",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "时序曲线特征差异构建分类决策树（图7），分类后得到的作物种植空间分布详见图8。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdf85b68292177a52cd88750cbf11f7fcf2573b66cc3882280dc2ca3c5d6df7e.jpg",
+        "img_caption": [
+            "Fig.6Classification map of land cover information in 2015 ",
+            "图7作物分类决策树",
+            "Fig.7Classification decision tree of crops ",
+            "图82015年作物种植空间分布",
+            "Fig.8Spatial distribution of crop planting in 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图8作物空间分布可以看出，农田区域大部分被玉米覆盖，占农田面积 $7 2 . 4 3 \\%$ ，小麦占农田面积的 $1 . 1 2 \\%$ ,零星分布在北部和中部。葵花占农田面积 $7 . 3 7 \\%$ ,集中分布在南部沿黄河一带。西葫芦占农田面积 $1 . 6 1 \\%$ ，主要分布在将军尧镇和双龙镇。其他作物(瓜类,甜菜，马铃薯，胡麻等)占农田",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "面积的 $2 . 2 2 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 精度验证 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据地物采样点和作物采样点分别对土地利用分类结果和作物分类结果进行精度验证，计算土地利用分类的混淆矩阵和作物分类的混淆矩阵，结果见表3和表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d897235ff91f6628cc2fe40b32854c95f07cf6d53a489ee6bdcd2d7df8180f85.jpg",
+        "table_caption": [
+            "Tab.3 Confusion matrix of classification for land cover information "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">用户精度/制图精度(%)</td><td rowspan=\"2\">总体精度/ Kappa系数 (%）</td></tr><tr><td>农田</td><td>林地</td><td>荒草地</td><td>裸地</td><td>水体</td></tr><tr><td>94.77/</td><td>79.17/</td><td>59.65/</td><td>73.91/</td><td>100.00/</td><td>85.71/</td></tr><tr><td>88.15</td><td>71.70</td><td>85.00</td><td>86.08</td><td>80.00</td><td>0.75</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8077b6f55d8673ee292804f53c1810e9eeb684de9b4651f3910c8b72d0543de4.jpg",
+        "table_caption": [
+            "表3土地利用分类混淆矩阵",
+            "表4作物分类混淆矩阵 Tab.4 Confusion matrix of classification for crops "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">用户精度/制图精度(%)</td><td rowspan=\"2\">总体精度/ Kappa系数 (%）</td></tr><tr><td>玉米</td><td>小麦</td><td>葵花</td><td>西葫芦</td><td>其他作物</td></tr><tr><td>81.20/</td><td>94.59/</td><td>91.67/</td><td>87.50/</td><td>59.52/</td><td>82.69/</td></tr><tr><td>90.00</td><td>71.43</td><td>78.57</td><td>83.33</td><td>80.65</td><td>0.77</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b00426ee5472be672115e5b070ebfd0ab2831fa45e32c59f170c0126086cf12.jpg",
+        "table_caption": [
+            "表5土地利用及作物遥感提取面积及统计面积比较",
+            "Tab.5 Comparison of extraction area of land cover information and corps and statistical area "
+        ],
+        "table_footnote": [
+            "三：表格中括号（)内的数字代表作物占农田总面积的比例;土地利用类型面积及作物种植面积来自土右旗2015 年统计数"
+        ],
+        "table_body": "<html><body><table><tr><td>土地利 用类型</td><td>植被类型</td><td>作物</td><td>提取面积 /km²</td><td>提取比例 /%</td><td>统计面积 /km²</td><td>统计比例 /%</td><td>相对误差 /%</td></tr><tr><td>植被</td><td>农田</td><td>玉米</td><td>830.16</td><td>48.31(72.43)</td><td>815.74</td><td>47.47(70.05)</td><td>1.77</td></tr><tr><td></td><td></td><td>小麦</td><td>12.83</td><td>0.75(1.12)</td><td>14. 674</td><td>0.85(1.26)</td><td>-12.57</td></tr><tr><td></td><td></td><td>葵花</td><td>84.52</td><td>4.92(7.37)</td><td>121.39</td><td>7.06(10.42)</td><td>-30.37</td></tr><tr><td></td><td></td><td>西葫芦</td><td>18.51</td><td>1.08(1.61)</td><td>20.01</td><td>1.16(1.72)</td><td>-7.50</td></tr><tr><td></td><td></td><td>其他作物</td><td>200.18</td><td>11.65(17. 46)</td><td>192.66</td><td>11.21(16.54)</td><td>3.90</td></tr><tr><td></td><td></td><td>小计</td><td>1 146.19</td><td>66.70(100)</td><td>1 164.47</td><td>67.76(100)</td><td>-1.57</td></tr><tr><td></td><td>林地</td><td></td><td>63.14</td><td>3.67</td><td>54.87</td><td>3.19</td><td>15.07</td></tr><tr><td></td><td>荒草地</td><td></td><td>164.68</td><td>9.58</td><td>165.27</td><td>9.62</td><td>-0.36</td></tr><tr><td></td><td>小计</td><td></td><td>1 374.01</td><td>79.95</td><td>1384.62</td><td>80.57</td><td>-0.77</td></tr><tr><td>裸地</td><td></td><td></td><td>306.31</td><td>17.82</td><td>310.78</td><td>18.08</td><td>-1.44</td></tr><tr><td>水体</td><td></td><td></td><td>38.19</td><td>2.22</td><td>23.10</td><td>1.34</td><td>65.32</td></tr><tr><td>合计</td><td></td><td></td><td>1 718.50</td><td>100.00</td><td>1 718.50</td><td>100.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3和表4可知，土地利用分类的总体精度为 $8 5 . 7 1 \\%$ ,Kappa系数为0.75，作物分类的总体精度为 $8 2 . 6 9 \\%$ ,Kappa系数为0.77，说明土地利用分类和作物分类精度理想。土地利用及作物遥感提取面积及统计面积比较结果见表5。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5的土地利用分类结果可知农田、荒草地和裸地提取面积与统计面积基本一致，林地提取面积比统计面积多 $1 5 . 0 7 \\%$ ,水体提取面积比统计面积多 $6 5 . 3 2 \\%$ 。近几年随着对荒地种植林木进行绿化，部分农田由于经济原因也改种苗木，导致实际林地面积增加;鄂尔多斯和土默特右旗以黄河为界，本文提取的水体面积是研究区过境黄河全部面积，大于统计数据中归属土右旗部分黄河面积。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作物分类结果中，玉米、小麦、西葫芦的提取面积基本接近统计面积,葵花的提取面积小于统计面积，原因在于葵花主要分布在黄河北岸，该地区农田盐碱化程度较高且没有灌溉条件，2015年研究区生长季降雨量偏少，部分葵花长势较差或极差，在遥感图像上表现为NDVI值偏低或很低，这部分葵花被误提取为荒草地或裸地。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）基于2015年时序NDVI最大值合成图像根据NDVI阈值对研究区的植被覆盖地表，裸地和水体进行分类，在植被覆盖区域内根据荒草地和林地的时序NDVI曲线特征分别提取荒草地和林地，其他区域即为农田。用该方法逐层提取地物，简便易行，符合地物实际特征，且简单易行，容易操作实施。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）建立基于时序NDVI的决策树主要依据作物，林地和荒草地的时序NDVI平均曲线特征差异，但还要充分考虑它们在同一时期由于长势不同其本身NDVI变化范围。尽量根据获取的影像进行多次实时野外采样,参考实时下载的影像可以将各时期作物在影像上的信息与其实际长势及所处的生育阶段相对应，有助于在影像上对地物类型及作物类型的识别，也有助于分析作物间NDVI时间序列曲线特征差异原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）基于Landsat影像时序NDVI的决策树分类法对研究区的土地利用分类的总体精度为$8 5 . 7 1 \\%$ ,Kappa系数为0.75，作物分类总体精度为$8 2 . 6 9 \\%$ ,Kappa系数为0.77，地物和作物提取面积与实际统计面积接近，结果表明应用该方法对研究区作物种植结构提取精度理想，该研究成果可为内蒙古平原灌区区域作物种植结构遥感监测提供方法参考。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）研究区作物插花种植现象普遍，在不同植被或作物交界处混合像元较多，其时序NDVI曲线特征不明显;另外生育期相近的不同作物其时间序列NDVI曲线趋势也可能一致，或部分作物由于缺乏灌溉或管理不善导致长势差，其NDVI曲线位置偏低，与该作物的平均NDVI曲线差异较大，上述现象是地物分类和作物分类产生误差的主要原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] ARVORD,JONATHANM,MEIRELLESMSP,etal.Classification of MODIS EVI time series for crop mapping in the state of MatoGrosso,Brazil[J].International Journal of Remote Sensing, 2011,32(22):7847-7871. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]宋茜,周清波,吴文斌,等.作物遥感识别中的多源数据融合研究进展[J].中国农业科学，2015，48（6)：1122-1135.［SONGQian,ZHOUQingbo,WUWenbin,etal.Recent progresses in re-search of integrating multi-source remote sensing data for cropmapping[J].Scientia Agricultura Sinica,2015,48（6）:1122-1135.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3］吴炳方,李强子.基于两个独立抽样框架的作物种植面积遥感估算方法［J].遥感学报.2004,8（6）：551-569.［WU Bing-fang,LI Qiangzi. Crop acreage estimation using two individual sam-pling frameworks with stratification[J].Journal of Remote Sensing,2004,8(6) :551-569.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4］刘佳，王利民,姚保民，等.基于多时相OLI数据的宁夏大尺度 水稻面积遥感估算[J].农业工程学报，2017，33（15）：200- 209.[LIU Jia,WANGLimin,YAO Baomin,et al.Ningxia rice area remote sensing estimation on large scale based on multi-temporal OLI data[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33（15）:200-209.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]胡琼,吴文斌,宋茜,等.作物种植结构遥感提取研究进展[J].中国农业科学,2015,48（10）：1900－1914.[HUQiong，WUWenbin,SONG Qian,et al.Recent progresses in research of croppatterns mapping by using remote sensing[J].Scientia AgriculturaSinica,2015,48（10):1900-1914.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6］马丽,徐新刚,刘良云,等.基于多时相 NDVI及特征波段的作物分类研究［J].遥感技术与应用，2008，23（5）：520-524.[MALi,XU Xingang,LIULiangyun,etal.Study oncrops classifi-cation based on multi-temporal NDVI and characteristic Bands[J].Remote Sensing Technology and Application,20o8,23（5）：520 -524.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7]康峻,侯学会,牛铮,等.基于拟合物候参数的植被遥感决策树 分类[J].农业工程学报,2014,30(9）：148-156.［KANGJun， HOUXuehui,NIU Zheng,et al.Decision tree classification based on fitted phenology parameters from remotely sensed vegetation data [J].Transactions of the Chinese Society of Agricultural Engineering,2014,30(9):148-156.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8］张焕雪,曹新,李强子,等.基于多时相环境星 NDVI时间序列的作物分类研究[J].遥感技术与应用，2015，30（2）：304-311.［ZHANGHuanxue,CAO Xin,LI Qiangzi,et al.Research oncropidentification using multi-temporal NDVI HJ images[J].Re-mote Sensing Technology and Application,2015,30（2）:304 -311.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9］李晓东，姜琦刚.基于多时相遥感数据的农田分类提取[J].农 业工程学报,2015,31（7）:145-150.[LI Xiaodong,JIANGQigang.Extraction of farmland classification based on multi-temporal remote sensing dada[J].Transactions of the Chinese Society of Agricultural Engineering,2015,31（7）:145-150.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10］陈君颖，田庆久.高分辨率遥感植被分类研究[J].遥感学报， 2007,11(2）:221-227.[CHEN Junying,TIANQingjiu.Vegetation classification based on high-resolution satellite image[J]. Journal of Remote Sensing,2007,11(2）:221-227.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11］刘焕军，于胜男，张新乐，等.一年一季作物遥感分类的时效性分析[J].中国农业科学，2017，50（5）：830-839.[LIUHuanjun,YU Shengnan,ZHANG Xinle,et al.Timeliness analysisofcrop remote sensing classification one crop a year[J].Scientia Ag-ricultura Sinica,2017,50(5):830-839.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12］周静平，李存军，史磊刚，等.基于决策树和面向对象的作物分 布信息遥感提取[J].农业机械学报,2016,47（9）：318-326， 333.[ZHOU Jingping,LI Cunjun,SHI Leigang. Crops distribution information extracted by remote sensing based on decision tree and object-oriented method[J」.Transactionsof the Chinese Society for AgriculturalMachinery,2016,47(9):318-326,333.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13］杨闫君，占玉林，田庆久，等.基于GF-1/WFVNDVI时间序列数据的作物分类[J].农业工程学报，2015，31（24)：155-161.[YANG Yanjun,ZHAN Yulin,TIANQingjiu,etal.Crop classifi-cation based on GF-1/WFV NDVI Time Series[J].Transactionsof the Chinese Society of Agricultural Engineering,2O15,31(24）：155 -161.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14］刘佳，王利民，杨福刚，等.基于HJ时间序列数据的作物种植面积估算[J].农业工程学报，2015，31（3）：199-206.［LIUJia,WANG Limin,YANG Fugang,etal.Remote sensing estimationof crop planting area based on HJ time-series images[J].Transac-tions of the Chinese Society of Agricultural Engineering,2O15,31(3):199-206.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15］张荣群，王盛安，高万林，等.基于时序植被指数的县域作物遥 感分类方法研究[J].农业机械学报，2015，46（增刊)：246- 252.[ZHANGRongqun,WANG Sheng'an,GAO Wanlin,et al. Remote-sensing classification method of county-level agricultural cropsusing time-series NDVI[J].Transactions of the Chinese Society for Agricultural Machinery,2015,46(Suppl):246-252.] [16］李鑫川，徐新刚，王纪华，等.基于时间序列环境卫星影像的作 物分类识别[J].农业工程学报,2013,29（2)：169-176.［LI Xinchuan,XU Xingang，WANG Jihua,et al.Crop classification recognition based on time-series images from HJ satellite[J]. Transactions of the Chinese Society of Agricultural Engineering, 2013,29(2):169-176.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17］黄健熙,贾世灵,武洪峰,等.基于GF-1WFV 影像的作物面积提取方法研究[J].农业机械学报，2015，46（增刊)：253-259.[HUANGJianxi,JIA Shiling，WUHongfeng，et al.Extractionmethodof crop planted area based on GF-1 WFV image[J].Trans-actions of the Chinese Society for Agricultural Machinery,2015,（Suppl） :253-259.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18」贾海蜂，刘雪华.环境遥感原理与应用[M].北京：清华大学出 版社,2OO6.［JIA Haifeng,LIU Xuehua.Principle and application of environmental remote sensing[M].Beijing:Tsinghua University Press,2006.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19」白燕英.基于多时相遥感影像的盐渍化农田表层土壤水分反 演研究[D].呼和浩特：内蒙古农业大学,2014.［BAI Yanying. Study on surface soil moisture inversion of salinized farmland based on multi-temporal remote sensing images[D].Hohhot :Inner Mongolia Agricultural University,2014.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Extraction of crop planting structure based on time-series NDVI of Landsat8 images ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BAI Yan-ying1， GAO Ju-lin²， ZHANG Bao-lin³ (1ColegeofWaersecdCilgrinergocualUitt8roi; 2Agricultural Colege,Inner Mongolia Agricultural University,Hohhot OlO0l8,Inner Mongolia,China; 3ColegeofhemistryndEironmentalienceInnerongoliaNoralUniversityHotOOl8,Innerongolihina) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Inorder to improve the accuracy and eficiency of remote sensing monitoring of crop planting information in plain irigationarea in Inner Mongolia,China,this paper proposes a method ofcropplanting information extractionbased on time-series NDVI profile.Selecting Tumoteyou County of Inner Mongolia as the study area,using the multi-temporal Landsat images covering crop growing season in 2O15 as data sources,the study area was divided into vegetation covering area,non-vegetation covering area and water covering area according to the NDVI value range of ground objects.Inthe areaof vegetation covering,the forest area and grassarea were extracted successively according to the NDVI curve diferences offorest and grass.The rest areas were farmland in vegetation covering area.According tothe NDVI profileof wheat,corn,sunflowerand zucchini,thedecision-tree was built,andthe spatial planting informationof the crops was extracted successively aording tothedecision-tree.Building thedecision-tree is mainly based on the difference of $N D W$ average curve characteristics between crops,forest and grass. However, the change rangeof each crop NDVIdue to theirown different growth at the same time should alsobe fully considered.Appling the decision-tree,the extraction area of land use and crop is close to the actual statistical area.The overall accuracy of land use classification was $8 5 . 7 1 \\%$ and the Kappa coefficient is O.75.The overall accuracy of crop classification was $8 2 . 6 9 \\%$ and the Kappa coeficient was O.77.The results show that the research method can monitor crop spatial planting information in the region accurately and effectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Landsat； time-series ； NDVI； crop planting structure；decision-tree",
+        "page_idx": 8
+    }
+]

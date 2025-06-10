@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201609191884 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦进,白红英,刘荣娟,翟丹平,苏凯,王俊,李书恒.近144年来秦岭太白山林线区3—6月平均气温的重建.生态学报,2017,37（22)：7585-7594.QiJBaiHYKgJocieueobelitmountains，northwest China，over the last 144 years.Acta Ecologica Sinica,2017,37(22）:7585-7594.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近144年来秦岭太白山林线区3一6月平均气温的重建",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦进,白红英\\*，刘荣娟,翟丹平，苏凯,王俊,李书恒 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北大学城市与环境学院，西安710127",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要;秦岭太白山林线植被因海拔较高且受人为扰动较轻,对气候变化的响应尤为敏感,为获取过去气候变化信息提供了可靠代用资源。然而,结合树木年代学方法及 Arcgis 空间插值功能进行秦岭林线气候变化重建的工作至今仍处于空白。利用采自太白山林线地带太白红杉（Larix chinensis)所建立的树轮宽度资料,与提取自太白山保护区气温栅格数据中的采样点位置气象数据进行相关分析。结果表明,太白红杉与3—6月平均气温相关性最显著,采用线性回归建立了两者的拟合模型,剔除重建方程中的1997、1998 年之后,方差解释量达 $5 7 . 2 \\%$ （调整自由度后为 $5 5 . 5 \\%$ );重建气温序列显示偏冷时段平均跨度(16年)较偏暖时段平均跨度(10.8年)长,偏冷时段有：1870—1881年、1903—1918年和1977—1996年;偏暖的时段有:1882—1892 年、1919—1929 年和1997—2013年;在1931—1978 年这一时期,气温相对稳定,1988年之后升温强烈;周期分析显示近144 年以来3—6月气温存在22—31a,18—22a以及10—13 a的3个振荡周期,可能与大尺度气候驱动及太阳活动存在联系。以上结果均得到历史记录以及周边重建结果的支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：秦岭；林线；太白红杉；树轮宽度；气温插值；气候重建 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reconstruction of March-June mean air temperature along the timberline of Mount Taibai， Qinling mountains，northwest China，over the last 144 years ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QIN Jin,BAI Hongying\\* ,LIU Rongjuan,ZHAI Danping,SU Kai,WANG Jun,LI Shuheng College of Urban and Environment Science，Northwest University，Xi'an71O127,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Since thevegetationof thetimberlineareaat Mount Taibai intheQinling mountainsisof high elevationand rarelydisturbed byanthropogenicactivities,itissensitive to climate change，therebyprovidingaproxyresourceof past climate change information.However,todate，there havebeenno investigations thathave integrateddendrochronological methods with Arcgis spatial analysis techniques toreconstruct the past climate change at specific elevations and locations. Herein，we presented areconstruction basedon extracted meteorologicaldata from spatial interpolationand Larixchinensis tree ring widths.Climate growth response analysis revealedthattheairtemperature,particularlyfrom Marchto June,was the principle factor that limited theradial growthof L.chinensis．Byusing dendrochronology techniques，weobtaineda reconstructionofthe March to June mean air temperature forthe timberlineof Mount Taibai over the period from 1870 to 2013. The reconstruction captured $5 7 . 2 \\%$ of the temperature variance( $5 5 . 5 \\%$ after the degree of freedom is adjusted）after removingthetree—ring width values of 1997and 1998during thecalibration periods.Onthe decadal scale,the patern of cool-warm fluctuations exhibited frequent repetitivefeatures.，Onaverage,thecold periods（16 years）always persist longer thanthe warm periods(10.8 years）.The years 1870—1881，1903—1918，and1977—1996 were colder periods，whereas the years 1882—1892，1919—1929，1950—960，and1997—2013 were relatively warmer.The temperature variations indicatedthree quasi—periodic changes onscalesof 22—31a,18—22aand10—13a，which suggested that the Mount Taibai region maybeassociated witha huge—scaleclimate driveand solaractivity.Ourreconstruction exhibited god consistency withlocal historicalrecordsand reconstructionresults from similar climaticregions forthe same intervals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：Qinling mountain；Timberline；Larix chinensis；Tree-ring width；Temperature interpolation；Climate reconstruction ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着近年来全球气候变化对生态环境的影响越来越深,对可持续发展构成严重威胁,已经被世界各国广泛关注[1]。为了应对未来气候变化的不确定性,历史时期气候变化规律及机制的研究价值逐渐显现,已经成为PAGES 重点研究的方向之一[2]。然而,因地势、环境等条件不便,秦岭地区高山气象站点分布稀疏,气象数据相对短缺,大多数台站资料年份较短,因此利用非常规的代用资料进行历史气候的研究近年来进展十分迅速[3]。在众多代用资料中,树木年轮与其他代用资料相比具有定年准确、连续性强、分辨率高、与气候要素相关性好、地域分布广且易于采样等优点,从而得到了广泛的应用[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为西北地区乃至全国重要的地理分界线,在过去的20年内,秦岭地区树木年代学工作发展十分迅速[5]。刘洪斌、邵雪梅[6-7]最初重建了镇安地区1755年以来的初春温度变化,并发现镇安地区初春温度重建序列具有显著的准 $5 0 \\mathrm { ~ a ~ }$ 及准2—3a周期,随后结合镇安鹰嘴崖、佛坪光头山、华山和太白山南北坡年表,重建了近300a来秦岭地区的初春温度变化;刘禹、马利民等[8重建了过去 $2 5 1 \\%$ 镇安地区3—4月平均气温序列，发现秦岭冷杉与该地区旱涝指数存在显著负相关关系,可视作旱涝灾情的预警信号,而刘禹、刘娜[9]等发现了秦岭落叶松轮宽序列与1—7月平均气温存在较好的正相关,并重建了该地区1814—2003年1—7月的平均气温;戴俊虎、邵雪梅[10]等则采用太白山高山林线附近的太白红杉树木年轮资料,重建了太白山地区近300a 的温暖指数;田沁花[]等,则利用伏牛山油松树轮宽度年表,重建了该区域1874 年以来5—7月平均最高温度,发现在过去 134年中,伏牛山区5—7月平均最高气温经历了4次冷期和5次暖期。由以上可见,秦岭地区气候重建研究工作已经得到一定的成果,然而,秦岭以东西跨度较大,南北地形复杂著称,加之存在气温直减率的客观事实,重建周边气象站的气候变化并不能够准确代表林线地带的气候变化,为解决这一问题,本课题组尝试借助气象站资料利用Arcgis 软件进行空间差值并重新提取目标位置、海拔的逐年气温数据以重建林线地带的气候变化过程,研究对象太白山为我国青藏高原以东的最高峰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太白山作为全球和区域气候变化的敏感区域[12],虽然气象资料短缺,但太白红杉作为当地唯一的可成纯林的树种[13],轮宽变化特征明显,提供了气候变化研究的理想条件。另外,太白山为西安市水源地黑河的源头汇水区,其林线环境的变化不仅对周边地区气候产生影响,还关系着关中,西安地区社会和经济发展,重建其林线地区气候变化具明确指示意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以树轮样本为基础,以气温空间插值技术[14]为辅助,旨在准确、可靠得重建近144 年太白山林线地带气温变化过程。此方法在秦岭地区乃至全国范围内仍十分少见，不仅能丰富西北地区的历史气候变化资料,为其他的重建资料提供对比数据,还可以为制定太白山林线生态保护决策方案提供一定的科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况与数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1树芯样本的采集与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于太白山最高点拔仙台( $3 7 6 7 \\mathrm { ~ m }$ )附近的太白红杉森林上限处,地理坐标为( $\\langle \\mathrm { ~ N ~ } 3 3 ^ { \\circ } 4 9 ^ { \\prime } - 3 4 ^ { \\circ } 1 0 ^ { \\prime }$ ，$\\mathrm { E 1 0 7 ^ { \\circ } 1 9 ^ { \\prime } - } 1 0 7 ^ { \\circ } 5 8 ^ { \\prime } \\rangle$ ,该地区年平均气温1.8- $2 . 1 \\mathrm { { ^ { \\circ } C } }$ ,降雨量 $8 0 0 { \\ - } { \\ - } 9 0 0 \\ \\mathrm { m m }$ ,属大陆性季风气候区,冬季多风少雨,夏季高湿多雨。太白山植被带垂直分布特点明显,林线以上为第四季冰期形成的冰川遗迹和高山草甸,以下接巴山冷杉群系,土壤类型以森林草甸土为主[15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本课题组于2013 年10 月沿太白山东侧山脊在海拔 $3 2 3 5 \\mathrm { ~ m ~ }$ 的太白红杉纯林区设立了采样点（图1）,树木平均树高为 $8 . 8 5 \\mathrm { ~ m ~ }$ ,平均胸径为 $2 4 . 4 1 ~ \\mathrm { c m }$ 。由于采样点距离上板寺较近，将其命名为SBS。样地树间距较小,树木分布集中，土层厚度均在( $2 0 \\pm 1 0$ )cm 范围内，立地坡度均在( $3 0 { \\pm } 1 5$ )°范围内。采样的策略依据国际树轮数据库的标准（ITRDB），综合了敏感性原则、生态环境原则和复本原则等，挑选健康、直立的植株进行采样,使用生长锥在胸高位置从不同方向取A、B两芯作为复本，累计采得50个原始树芯样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "树轮样本经过粘贴、晾晒、打磨等一系列惯例步骤预处理后，随即进行初步定年工作。采用精度为0.01mm的LINTAB轮宽仪对每一棵树芯每一年的树轮宽度进行测量。完成测量工作后使用COFECHA程序对轮宽序列进行检验和交叉定年，检验过程中，对受外界因素导致变异的树芯或是部分年份进行筛选、剔除，与主序列相关性差的个别树芯也要去除掉，最终剩下46条轮宽序列。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2太白红杉树轮宽度年表建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef44930608aa2b9045a5acdb27ab4a28fbaa579b126f124c61ba95a3fcfc3454.jpg",
+        "img_caption": [
+            "图1采样点及气象站位置示意图",
+            "Fig.1Locations of tree ring sample site and meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于研究目的为重建历史气候序列,所以在完成交叉定年后，要剔除轮宽序列中的非气候信号。年表的建立采用ARSTAN程序[17]完成,在此过程中,采用负指数函数或线性函数对各宽度序列进行拟合,最后得到标准化年表(STD)和差值年表(RES),为尽量保存年表的低频信息,采用标准化年表进行气候响应和重建分析。STD 年表的统计特征列表见表1。 A",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "年表的起始年代以子样本信号强度 SSS（Sub—sample signal strength）[18]来确定,为尽可能延长年表,本研究取 SSS 门限为0.75,结合Rbar值,确定可信年表时段为1870—2013年。从表1可以看出,STD 年表平均敏感度(MS)较高,反映树轮宽窄变化大,径向生长对环境变化的敏感度较高。树间相关系数、信噪比（SNR）、第一主成分方差解释量(PC1)及样本总体代表性(EPS)均较高,表明采样点树轮宽度变化有较好的一致性。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ad092919691c944852c33f1f82f5d543ece56839b9edecd1f6e57c31cd6e7cf.jpg",
+        "table_caption": [
+            "表1采样点概况及树轮样本的统计特征",
+            "Table 1General situation of sampling sites and the statistical characteristics of tree ring samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征参数 Statistical characteristics</td><td>STD</td><td>特征参数 Statistical characteristics</td><td>STD</td></tr><tr><td>采样海拔 Elevation of sampling sites/m</td><td>3235</td><td>树内相关系数 Correlation within trees</td><td>0.60</td></tr><tr><td>所用样本量 Samples used/(棵/芯)</td><td>26/46</td><td>树间相关系数 Correlation between trees</td><td>0.48</td></tr><tr><td>年表平均敏感度 Mean sensitivity</td><td>0.19</td><td>样本总体代表性 Expressed population signal</td><td>0.92</td></tr><tr><td>年表标准差 Standard deviation</td><td>0.21</td><td>序列长度 Series length/a</td><td>165</td></tr><tr><td>一阶自相关系数 1 order auto correlation</td><td>0.51</td><td>子样本信号强度 SSS>0.75(beginning year/trees）</td><td>1870/9</td></tr><tr><td>第一主成分所占方差量 Variance in first eigen vector</td><td>54.04%</td><td>子样本信号强度 SSS>0.80（beginning year/trees）</td><td>1882/12</td></tr><tr><td>信噪比 Signal to noise ratio</td><td>10.44</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 1 . 3 } ^ { \\gamma }$ 气象资料处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区由于海拔过高,附近缺乏长期的器测数据,为实现对林线区气候变化的重建,我们利用Arcgis 空间分析功能通过以下步骤实现多元数据的太白山林线区气温资料提取：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)计算太白山逐月气温直减率。根据太白山自然保护区以内的11个高山气象站点的2012—2014 年气 温实测资料,计算太白山南、北坡逐月的气温垂直递减率,结果见表2[19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)太白山空间气温插值。根据太白山自然保护区以外的太白县、佛坪县、眉县等15个临近气象站",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1983一2013年的气温资料，结合来自国家测绘局的 $2 5 ~ \\mathrm { m } { \\times } 2 5 ~ \\mathrm { m }$ 分辨率DEM高程数据,采用普通Kriging插值法[20]对气温要素进行空间插值,变异函数均选择球面函数。首先,利用表2中的垂直递减率将各站点实测气温值订正至海平面气温,在 ArcGIS10.1中进行插值计算。随后,利用栅格计算工具,基于气温垂直递减率将插值后的栅格数据与区域DEM数据相叠加,最终得到具有地形特征的太白山保护区整体、保护区南北坡的气温栅格数据。通过交叉验证显示插值结果的平均标准差为0.877,对比插值计算结果与部分高山气象站点的实测数据,显示插值误差在 $\\pm 1 \\mathrm { { ^ { \\circ } C } }$ 以内,表明插值结果可靠性较好,可以代表太白山保护区高山气候特征[21]",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4be486c8b0c5bb8e0dd5ca5538759d6a7a6d9bebb5f710e954de20380bad1f2c.jpg",
+        "table_caption": [
+            "表2太白山高海拔区南北坡逐月气温垂直递减率/( $\\mathcal { \\mathbf { C } } / 1 0 0 \\mathrm { ~ m ~ }$ ）",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"9\">Table 2 Temperature lapse rate of Mt.Taibai alpine area from northernand southern aspects</td><td></td><td></td></tr><tr><td></td><td>1月</td><td>2月</td><td>3月</td><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td><td>11月</td><td>12月</td></tr><tr><td>北坡(℃C/100 m)</td><td>January</td><td>February</td><td>March</td><td>April</td><td>May</td><td>June</td><td>July</td><td>August</td><td>September</td><td>October</td><td>November</td><td>December 0.44</td></tr><tr><td>North aspect 南坡(C/100 m)</td><td>0.38 0.44</td><td>0.33 0.55</td><td>0.58</td><td>0.54 0.56</td><td>0.63</td><td>0.62</td><td>0.68 0.54</td><td>0.59 0.55</td><td>0.47</td><td>0.48 0.48</td><td>0.47 0.55</td><td>0.48</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)提取林线31a逐月平均气温。采用点值提取的方法,在具有地形特征的太白山南北坡气温栅格数据中提取了海拔为 $3 2 3 5 \\mathrm { ~ m ~ }$ 的采样区( $\\mathrm { ~ N ~ } 3 4 ^ { \\circ } 0 0 ^ { \\prime } 0 0$ $\\mathrm { E } 1 0 7 ^ { \\circ } 4 2 ^ { \\prime }$ )1983—2013年的逐年、逐月气温，并计算这31a的1—12月的逐月平均气温值 $T _ { { _ m } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将步骤(1)中距离采样点距离最近的汤峪2号(海拔： $2 7 6 7 \\ \\mathrm { m } ,$ 经纬度： $\\mathrm { ; N 3 4 ^ { \\circ } 0 0 ^ { \\prime } 0 1 , E 1 0 7 ^ { \\circ } 4 8 ^ { \\prime } 5 6 ^ { \\prime \\prime } } )$ 高山气象站点的气温实测数据与 $T _ { _ m }$ 进行比较(图2）,可见,逐月平均气温变化趋势吻合的同时,两地温差也符合该地区的气温直减率特征。考虑到降水随海拔分布特征没有明显的规律,且受地形影响较明显,因此插值方法暂未应用于降水数据,而是采用太白山周边的太白、佛坪两地月总降水量的平均值,两地降水数据如图3所示。可见,太白山林线最高平均气温出现在7月为 $1 2 . 0 5 \\mathrm { ^ { \\circ } C } ,$ 而最低为12月的 $- 1 1 . 8 6 ^ { \\circ } \\mathrm { C }$ ,这与海拔相对较低的太白、佛坪两气象站月均温的最高值( $2 0 . 8 1 \\mathrm { { ^ { \\circ } C } }$ 及最低值 $( - 1 . 8 3 ^ { \\circ } \\mathrm { C }$ )存在明显差异[22]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/81bf3d17f991acbb0f35099bfe0648009b0ae6539e252647f0636cea484414b6.jpg",
+        "img_caption": [
+            "图2采样点逐月平均气温提取值( $T _ { m }$ )与汤峪2号气象站平均气温实测值比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Comparison betweenextractedmonthlymean air temperature( $T _ { m }$ ）and instrumentalmonthlymean air temperature from Tangyu No.2 meteorological station ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c3089f38ebc2b757f6d590b2d6cb01ac2805c482385a5bb7636c6640db04ba.jpg",
+        "img_caption": [
+            "图3太白、佛坪逐月平均总降水量分布",
+            "Fig.3Monthly mean total precipitation of Taibai county and Foping county "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4太白红杉径向生长主导气候因子的提取 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上文处理的气温、降水量及不同月份组合,考虑到气候要素对植物生长的滞后作用,选择上年9月至当年10月为分析时段与树轮宽度指数序列进行Pearson相关分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相关分析结果显示,太白红杉与气温的相关性较与降水的相关性强且大致呈正相关(图4)。序列与当年生长季2—7月逐月气温呈不同程度的正相关,并在3、4、5、6月均通过了 $9 5 \\%$ 的显著性检验。将当年生长季1一9月不同时段的气温组合后，相关分析结果显示序列与太白山林线地区1一9月整体平均气温的相关系数达0.519( $P { < } 0 . 0 0 1 \\rangle$ ,尤其与3一6月平均气温的相关值达到最高( $_ { r = 0 . 6 7 1 }$ $P { < } 0 . 0 0 1$ )。而序列与3—7月降水均呈负相关关系，降水负相关最强的时段与气温正相关最强的时段相对应，均为3一6月，与4月单月总降水量的负相关最高( $\\stackrel { \\prime } { r } = 0 . 3 9 8 , P { < } 0 . 0 5 )$ 。反映研究区生长季气温一定程度的增高是有助于树木生长的，有利于较宽年轮的形成，但生长季降水若增多则会对树木生长产生明显抑制作用。因此，3一6月气温是太白红杉年轮生长的主导因子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从树木生理学角度来看，树木年轮的宽度波动往往是由一个或多个气候因素共同作用的结果，而本研究样本均采自 $3 0 0 0 \\mathrm { ~ m ~ }$ 海拔以上的极端生境,树木进行正常生命活动所依赖的气温与降水都较匮乏，但是，秦岭地区具有海拔高、气候湿润、土层较厚及土壤含水量高的特点[9]，在树木生长季前期，气温过低会无法满足树木维持正常生长代谢活动的需要，使树木形成层活动推迟，从而形成较窄的年轮，而气温升高有利于地温升高，促使植物根系开始活动，当气温升高至树木生长的最低温度时，树木形成层细胞开始开裂，有利于延长生长季和早材宽年轮的形成[23-24]。基于以上原因,在秦岭主脊太白山林线地区，春季至初夏的气温成为树木生长的主要限制因子,而前人在研究秦岭其他地区、树种[25-27]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "eeegrneleeteir 0.7 0.5 α=0.05 0.3   \n）   \n0.1   \n0.3   \n0.5 α=0.05 9 10 11 12 1 2 3 4 5 6 7 8 9 103-6 月份Month ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b29ddf6b0648466fc4dc10648b8efaa7668faff47f516338432777e161ddfb1.jpg",
+        "img_caption": [
+            "图4树轮宽度STD年表与逐月平均气温及总降水量相关结果 Fig.4The correlation analysis between STD chronology and monthlymean temperature,total precipitation ",
+            "图53一6月气温实测值与重建值的去趋势化指数比较 Fig.5The comparison between the detrended indicesof reconstructed temperature（March—June）and the instrumental data "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的过程中也得到了生长季气温为树木生长主导因子的结论。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 回归模型的建立与调整 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据相关性计算结果,以太白山林线地带3—6月气温作为因变量,太白山太白红杉 STD 年表作为自变量,采用线性回归方法对太白山林线公元1870至2013年以来3—6月平均气温进行模拟重建,转换方程为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { _ { 3 - 6 } } = 2 . 5 0 5 \\mathrm { { I S T D } + 3 . 9 3 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $T _ { _ { 3 - 6 } }$ 为3-6月平均气温， $I _ { s T D }$ 为太白红杉 STD 年表,该方程的相关系数 $r { = } 0 . 6 7 0 (  { P } { < } 0 . 0 0 1 )$ ,方差解释量为 $4 4 . 9 \\%$ ，（调整自由度后方差解释量为 $4 2 . 8 \\%$ ） $F { = } 2 1 . 1 8 4$ 。鉴于从插值所得气象记录只有31年,我们采用逐一剔除法来检验转换方程的稳定性。发现存在奇异年份1997、1998年使方程(1)稳定性下降,去除 1997、1998年后,相关系数 $\\boldsymbol { r }$ 升为 $0 . 7 5 7 ( P { < } 0 . 0 0 1 )$ 。气象观测记录表明,1996年出现了3—6月气温均低于多年平均值的现象,其滞后作用可能对1997树木年轮组织生长造成了较显著的影响,虽然 1998 年3—6月气温有所回升，但是3—5月降水却出现了多年来的罕见极高值( $8 4 . 9 5 ~ \\mathrm { m m } ,$ ),树木生长受到严重抑制,产生窄轮,加之1997、1998 年我国气候受ENSO事件严重波及发生异常[28],共同导致回归模型对 1997、1998年3—6月平均气温的拟合结果偏差较大,因此考虑从回归方程中剔除[9]。在去除1997、1998 年之后,转换方程为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { 3 - 6 } = 3 . 0 1 5 \\mathrm { { I S T D } + 3 . 3 5 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可见,与方程(1)相比,方程(2)在各个统计指标上优势更明显,表明方程更加稳定。经过交叉检验分析,重建序列与观测序列的符号检验（S1）、一阶差符号检验（S2）,误差缩减值( $( R E )$ ,乘积平均数 $\\mathbf { \\eta } ( t )$ 以及方程的 $F$ 检验值等统计量均体现了重建结果的可靠性。图5为运用转换方程(2)重建的太白山林线3—6月平均气温与实测值插值结果的对比。在观测时段内(1983—2013年),去趋势后的重建值与实测值吻合较好，证明重建结果可靠,能够反映太白山林线地区气温波动规律[29]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c82b9846eb59c17128c1e8ec6ba13dc21c062e1759e0835b5f0f7ed018d2fa33.jpg",
+        "table_caption": [
+            "表3各项检验参数",
+            "Table3Calibration and verification statistics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时段Period</td><td>r</td><td>R²</td><td>Rad</td><td>S1</td><td>S2</td><td>RE</td><td>F</td><td>t</td><td>P</td></tr><tr><td>1983—2013</td><td>0.757</td><td>57.2%</td><td>55.5%</td><td>20(19*,21**)</td><td>23(21*,22**）</td><td>0.543</td><td>32.129</td><td>2.571</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { r }$ 为相关系数， $R ^ { 2 }$ 为方差解释量， $R _ { \\mathrm { a d j } } ^ { 2 }$ 为调整自由度后的方差解释量,S1为符号检验,S2为一阶差符号检验,RE 为误差缩减值,t为乘积平均数， $F$ 为方差检验值; $*$ 代表 $9 5 \\%$ 的置信水平， $\\ddot { * } \\ast \\$ 代表 $9 9 \\%$ 的置信水平 >",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2太白山林线区3—6月平均气温的重建",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于转换方程(2），将子样本代表性 $> 0 . 7 5$ 的年份1870 年作为起始年,2013作为终止年，我们重建了太白山林线地区历史时期3—6月平均气温（图6）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可见,1870年以来,研究区3—6月平均气温波动频繁,波动幅度在1.83—4.89℃之间,最低和最高温度相差达到 $3 . 0 6 ^ { \\circ } \\mathrm { C }$ ,重建时段3一6月气温平均值 $T _ { \\mathrm { m e a n } }$ 为 $3 . 5 1 \\mathrm { ^ { \\circ } C }$ ,标准差 $\\scriptstyle { \\hat { \\boldsymbol { \\sigma } } }$ 为 $0 . 6 3 \\mathrm { ^ { \\circ } C } _ { \\circ }$ 在本研究中,定义气温高于$T _ { \\mathrm { m e a n } } { + } 1 \\sigma ( 4 . 1 4 \\mathrm { ^ c } )$ 的年份为高温年份,气温低于 $T _ { \\mathrm { m e a n } } { - } 1 \\sigma ( 2 . 8 8 ^ { \\circ } \\mathrm { C } )$ 的年份为低温年份，而介于两者之间的气温为正常值[30]。由表4可见,在过去144年中,偏暖年份出现19次,偏冷年份出现26次,分别占总年份的 $1 3 \\%$ 和 $1 8 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6832bdc239f676534591a74220829b6806ae5a9be646aa717295bc01d03c4c86.jpg",
+        "img_caption": [
+            "图6太白山林线区1870—2013年3一6月平均气温重建序列"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6/The March—June temperature reconstruction for the timberline of Mt.Taibai from 1870 to 2013 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "重建结果中出现的偏暖、偏冷年份(表4)与陕西地情资料库近200 年所发生的气象灾害记录有较好的对应（数据来源于陕西地情网 htp://www.sxsdq.cn）。偏暖年份基本伴随着大范围的严重干旱事件并对农业产生了严重影响,例如1892、1928、1929、1959年,记载有春旱、夏旱、大旱等现象,这些年份“收成歉薄”“粮食缺乏\"\"夏秋收成不到二成”。而偏冷年份在陕西出现了较大范围的洪水灾害,例如1881、1921、1948、1949年,记载有“雨雹伤禾\"“山水陡涨”“河水暴涨”等现象其中连续超过2a及以上的高温时段为1966—1968年、2005—2007年,连续超过2a及以上的低温时段为1871—1873年、1880—1883年、1997—1999年。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了反映重建序列的低频特征,更好地观察3—6月平均气温的年代际变化,对序列作11a滑动平均,并定义滑动平均值连续11a以上高于平均值的时间段为暖期,滑动平均值连续11a以上低于平均值的时间段为冷期[31]。由图6可见,在重建期间气温偏高的 $\\mathrm { \\Phi } ( { > } 3 . 5 1 { ^ { \\circ } } \\mathrm { C } \\mathrm { \\Phi } )$ )时段主要有1882—1892 年、1919—1929 年和1997—2013年，总持续时间为29年，而在重建期间气温较低( $\\left( < 3 . 5 1 ^ { \\circ } \\mathrm { C } \\right)$ )的时段主要：1870—1881年、1903—1918 年和1977—1996年,总持续时间为39年。重建时段的低频变化趋势中偏冷时段较偏暖时段多,这与极端年所占总年的比例一致,其中1977—1996年冷期持续时间最长（22a),20 世纪90年代以前暖期持续时间较短、升温幅度较小。总体而言,19 世纪末期是一个以1881年为界限的显著冷暖交替时期,在20 世纪初至20 年代为一显著冷期,而20—30年代末是一个显著的暖期,1919—1931年的高温期与我国北方 20年代出现的干旱事件相吻合[32]。随后,在1931—1978年这一时期,40 a的初春温度变化不存在明显的变暖趋势,气温变化幅度较小,冷暖交替频繁,气温相对比较稳定,而在20 世纪70年代末期气温开始下降,从20世纪90 年代后期至今气温又明显持续增暖。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f065c6bb838cc85cf1744f4fe43ba3da3e2a6c0594cf3492533efe6d8266439.jpg",
+        "table_caption": [
+            "表4144年以来偏暖、偏冷年份及重建温度值",
+            "Table 4 Extreme years and reconstructed temperature in recent 144 year "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.1</td><td>偏暖年份 Warm year</td><td>重建值/C Reconstreted</td><td>偏冷年份 Cold year</td><td>重建值/℃ Recnstreted</td><td>序号 No.1</td><td>偏暖年份 Warm year</td><td>重建值/C Reconstreted</td><td>偏冷年份 Cold year</td><td>重建值/C Reconstretede</td></tr><tr><td>1</td><td>1886</td><td>4.636125</td><td>1871</td><td>2.679565</td><td>14</td><td>1977</td><td>4.490705</td><td>1949</td><td>2.51762</td></tr><tr><td>2</td><td>1891</td><td>4.398165</td><td>1872</td><td>2.507705</td><td>15</td><td>1995</td><td>4.17673</td><td>1956</td><td>2.81507</td></tr><tr><td>3</td><td>1892</td><td>4.93688</td><td>1873</td><td>2.758885</td><td>16</td><td>2005</td><td>4.36842</td><td>1964</td><td>2.87456</td></tr><tr><td>4</td><td>1928</td><td>4.57333</td><td>1880</td><td>2.415165</td><td>17</td><td>2006</td><td>4.79146</td><td>1969</td><td>2.884475</td></tr><tr><td>5</td><td>1929</td><td>4.89061</td><td>1881</td><td>1.826875</td><td>18</td><td>2007</td><td>4.26266</td><td>1971</td><td>2.765495</td></tr><tr><td>6</td><td>1935</td><td>4.27588</td><td>1882</td><td>2.540755</td><td>19</td><td>2013</td><td>4.391555</td><td>1986</td><td>2.706005</td></tr><tr><td>7</td><td>1943</td><td>4.206475</td><td>1883</td><td>2.692785</td><td>20</td><td></td><td></td><td>1987</td><td>2.580415</td></tr><tr><td>8</td><td>1945</td><td>4.669175</td><td>1899</td><td>2.79524</td><td>21</td><td></td><td></td><td>1989</td><td>2.421775</td></tr><tr><td>9</td><td>1959</td><td>4.77163</td><td>1920</td><td>2.216865</td><td>22</td><td></td><td></td><td>1990</td><td>2.249915</td></tr><tr><td>10</td><td>1960</td><td>4.629515</td><td>1921</td><td>1.998735</td><td>23</td><td></td><td></td><td>1997</td><td>2.52423</td></tr><tr><td>11</td><td>1966</td><td>4.24283</td><td>1933</td><td>2.765495</td><td>24</td><td></td><td></td><td>1998</td><td>2.276355</td></tr><tr><td>12</td><td>1967</td><td>4.199865</td><td>1940</td><td>2.86795</td><td>25</td><td></td><td></td><td>1999</td><td>2.34576</td></tr><tr><td>13</td><td>1968</td><td>4.325455</td><td>1948</td><td>2.29949</td><td>26</td><td></td><td></td><td>2010</td><td>2.818375</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3重建结果的对比与验证 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 重建结果冷暖期的区域对比",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过与田沁花等[1],所重建的过去134 a伏牛山5—7月平均最高气温变化趋势进行对比,发现该研究中得到的偏冷时段1900—1917年、1974—1989 年和偏暖时段 1889—1899 年、1918—1940 年、1990—2002 年与本研究重建所得偏冷期与偏暖期基本重合,然而,在1931—1978 年这一时期 $4 0 \\mathrm { ~ a ~ }$ 伏牛山5—7月平均最高气温变化存在着明显的变暖趋势,但在相同时段,太白山林线区3一6月平均气温上升趋势不明显。与刘禹、刘娜等］重建秦岭中段分水岭地区1—7月平均气温的结果进行比较发现,太白山与佛坪光头山均在在19 世纪末以及20 世纪30 年代之前存在低—高—低—高的两次显著震荡,在1934—1990年这一时期的气温变化均不存在明显的变暖趋势,气温变化幅度小,气温相对稳定,持续到20 世纪90年代初期又出现了明显的气温升高现象。而蔡秋芳、刘禹[33]等,在陕西中北部地区1826 年以来4—9月气温的重建结果中发现,20 世纪 20年代末期是自1826年以来陕西中北部地区4—9月温度最高的时段,陕西中北部地区自 1923年以来4—9月平均气温不断上升,到1929年温度达到重建时段内最高记录，而在本研究区,20世纪20年代末期同样为3—6月气温的最高时段,并且,重建气温自进入20 世纪以来,极端最高气温也出现在1929 年 $( 4 . 8 9 ^ { \\circ } \\mathrm { C }$ )，而这次极端高温事件所导致的灾害在中国北方其他地区的树轮研究中也得到了印证[34]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与甘肃省东南部天水石门山5—6月最高气温的树轮重建结果(数据来源于htp://www.ncdc.noaa.gov/paleo/study/17033)进行比较（图7）发现,两研究区高、低温波动大体一致,相关系数为0.171( ${ \\mathrm { N } } = 1 3 3$ ,P<",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.05），表明在低频变化上两序列是显著相关的。冷暖时段的变化上两者出现局部时段的不同步性，这可能是由于所表征的月份、气象要素以及海拔并不完全一致造成的，然而20世纪30年代的高温期,40、50 年代的低温期、60、80年代的高温期以及90年代以来的气温明显上升趋势在两条曲线中共存,表明太白山林线地带与石门山地区的气温变化序列经历了极为相似的冷暖波动过程，两个曲线的同步变化表现出较好的区域一致性，印证了本重建结果的可靠性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2太白山林线区3一6月平均气温的周期性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究选用Morlet连续小波变换对气温序列进行分析，为减弱小波变换资料的始、末区域所对应变换结果的边界效应，文中采用对称延伸法减弱这种影响[35]。结合图6可清楚看到太白山林线地区3一6月平均气温在过去144a 的演化过程中存在多时间尺度特征并与方差图中的峰谷变化一致。与重建序列曲线(图7)进行比较可以发现，周期信号比较强的时段气温波动也相对明显，周期信号不明显的时段，气温的波动相对缓和。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "太白山林线区3一6月气温演变过程中存在着相对显著的31—22a，22—18a以及13—10a的3类尺度准周期变化规律。13—10 a尺度的周期信号在时间尺度上并不稳定[36],振幅随时间推移产生了明显变化的情况,在1900s之前和1940s以后表现的较为稳定,但在1900s—1940s和1990s—2010s 期间发生了较大浮动。22—18a的变化周期与马利民、刘禹[37]等,对秦岭 SOI(The Southern Oscilation Index)重建序列的功率谱分析中发现的自 1743 年以来该序列存在明显的21.82—17.14 a周期比较吻合,而22年的周期是 Hale 周期,这很可能说明了南方涛动对太白山林线区树木生长存在显著影响。在13—10a尺度上出现的显著冷—暖交替准17次震荡,与太阳黑子活动周期特征相似并对应了西北干旱灾害的11a准周期[38]。这些周期暗示全球的气候变化特征也存在于该地区的气候历史,太白山林线地区3一6月气温可能受到了大范围的气候变化影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/41f086a2cc1b1615b7a36925b98cbdcd808cabc0f9748f4ba18fa31b7f13eaa3.jpg",
+        "img_caption": [
+            "图7同期石门山5—6月最高气温(a)与太白山林线3-6月 平均气温(b)对比 Fig.7/Comparison between the reconstruction of May-June maximum temperature ofMt.Shimen（a） andthe reconstruction of March—June timberline mean temperature ofMt.Taibai（b）attheirinterval "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1476e2355e810384e4a16e4989b43750e4ba0c9e4387c132507374f21d5f59b.jpg",
+        "img_caption": [
+            "图8太白山林线区气温重建序列的小波分析",
+            "Fig.8Wavelet analysis for the reconstructed temperature series of Mt.Taibai timberline "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "论文以太白山林线区的太白红杉树轮样本建立的 STD年表为基础,与借助 Arcgis 软件气温插值功能提取的采样点过去31a气温数据进行相关分析,发现树轮年表对温度变化响应敏感,与研究区生长季气温呈显著正相关。在此基础上,实现了太白山林线1870—2013 年间3—6月平均气温的重建,并得到如下结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)重建结果显示,太白山林线区3—6月平均气温在过去144a经历了3次冷期和3次暖期的波动。19世纪末与 20 世纪初的冷—暖交替、20 世纪20—30年代末的显著高温期、1931—1978 年间相对比较稳定的冷暖波动以及在20 世纪90年代初期出现的明显气温升高等现象与周边地区同期气温重建结果相似。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)研究区3—6月平均气温重建序列与天水石门山地区5—6月最高气温同期重建结果在高、低频变化上均表现出较好的一致性,从另一方面佐证了本研究方法以及重建结果的可靠性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)周期分析结果表明,太白山林线地带气温存在31—22a,22—18a以及13—10a的3 种主要变化周期,周期特征与太阳活动及 SOI的周期特征接近,意味着太白红杉宽度可能包含更大尺度的气候波动信号。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢宝鸡文理学院地理与环境学院周旗老师领导下的陕西省灾害监测与机理模拟重点实验室为本次实验提供了LINTAB 树轮分析仪和实验室,以及包光老师在对年轮样品的处理及分析过程中给予的极大技术帮助。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］刘禹，马利民，蔡秋芳，安芷生，刘卫国，高玲瑜.采用树轮稳定碳同位素重建贺兰山1890年以来夏季(6—8月)气温.中国科学（D辑：地球科学）,2002,32(8):667-674.  \n[2]Mober,chiolgrenK,seko,alnigbertsphretpaurescostuctdroloand high-resolution proxy data.Nature，2005,433(7026)：613-617.  \n[3］汪青春，秦宁生，李栋梁，时兴合，王振宇,李林，朱西德.利用多条树轮资料重建青海高原近 250年年平均气温序列.高原气象,2005，24(3) :320-325.  \n[4]EsperJ，CookER，ShwengberFHLow-freqncysigalsinlgtreingholgisforosructingasttempaturevabityScience,2002,295(5563）:2250-2253.  \n[5] 蔡秋芳，刘禹，王艳超.陕西太白山树轮气候学研究.地球环境学报,2012,3（3):874-880.  \n[6] 刘洪滨，邵雪梅.采用秦岭冷杉年轮宽度重建陕西镇安1755 年以来的初春温度.气象学报,2000,58(2）:223-233.  \n[7] 刘洪滨,邵雪梅.利用树轮重建秦岭地区历史时期初春温度变化.地理学报,2003,58(6):879-884.  \n[8] 刘禹，马利民，蔡秋芳，安芷生.依据陕西秦岭镇安树木年轮重建3—4月份气温序列．自然科学进展，2001,11（2)：157-162.  \n[9] 刘禹，刘娜，宋慧明，蔡秋芳，包光，王伟平.以树轮宽度重建秦岭中段分水岭地区1—7月平均气温.气候变化研究进展，2009,5（5)：260-265.  \n[10］戴君虎，邵雪梅，崔海亭，葛全胜，刘鸿雁，唐志尧.太白山树木年轮宽度资料对过去生态气候要素的重建.第四纪研究，2003，23（4)：428-435.  \n[11] 田沁花，刘禹，蔡秋芳，包光，王伟平，薛文亮，朱文杰，宋慧明，雷莺.油松树轮记录的过去134年伏牛山5-7月平均最高温度.地理学报，2009,64(7) :879-887.  \n[12]张文辉，王延平，康永祥，刘祥君.太白红杉种群结构与环境的关系.生态学报，2004,24(1):41-47.  \n[13] LiuHY,TangZY,DaiJH,TangYX,CuiHT.LarchtiberieaditsdevelopentinorthCina.outaiResearchndDeet,2002，22(4):359-367.  \n［14］白红英，马新萍，高翔，侯钦磊.基于DEM 的秦岭山地1月气温及 $0 \\mathrm { { ^ { c } } }$ 等温线变化.地理学报,2012,11:1443-1450.  \n［15］任毅，刘明时，田联会，田先华,李智军.太白山自然保护区生物多样性研究与管理.北京：中国林业出版社，2006.  \n[16]HolmesRL.DenrochronologyProgramLibraryVersion.LaboratoryofTree-RingResearch，Universityofrizona,Tucso,94.  \n[17] Cook ER.A time series analysis approach to tree ring standardization[D].Tucson：Universityof Arizona,1985.  \n[18] WigleyTML，BriffKR，JonesPD.Onheaveragevalueofcorelatedtimeseries，witaplicationsindendroclimatologndhydrometeorology.Journal of Climate Applied Meteorology,1984,23(2）：201-213.  \n[19］翟丹平，白红英,秦进，邓晨晖，刘荣娟，何红.秦岭太白山气温直减率时空差异性研究.地理学报,2016,71(9):1587-1595  \n[20］彭彬，周艳莲，高苹，居为民.气温插值中不同空间插值方法的适用性分析：以江苏省为例.地球信息科学学报,2011,13(4):539-548.  \n[21］刘荣娟，白红英，马新萍，冯林林，秦进，程德强.太白山保护区气温变化及其空间差异性分析.中国农业气象,2016,37（1)：1-10.  \n[22］秦进,白红英,李书恒,王俊,甘卓亭,黄安.太白山南北坡高山林线太白红杉对气候变化的响应差异.生态学报,2016,36(17)：5333-5342.  \n[23]Graumlich L. J. Subalpine tree growth,climate,and increasing $\\mathrm { C O } _ { 2 }$ :an assessment of recent growth trends.Ecology,1991,72(1）：1-11.  \n24]Shedlcoedlaseste(1): 62-68.  \n[25］康永祥，刘婧辉，代拴发，何晓军.太白山不同海拔太白红杉年轮生长对气候变化的响应.西北农林科技大学学报：自然科学版，2010,38(12): 141-147.  \n[26]DangHSJianX,ZangF,ZangYJGowhesposofsubalifir（efrgesi）tatevarabiltineQiginChina.Forest Ecology and Management，2007,240(1/3）：143-150.  \n[27]LiuY,LinderholmHW,SongHM,CaiQF,TianQH,SunJY,ChenDL,SimelonE,SeftigenK,TianH,WangRY,BaoG,AnZS.TemperaturvratiosrecdedinPinustbuaefomistreringsfromtheuteadorteslopsofteentralQiingoutas，etalChina.Boreas，2009，38（2）：285-291.  \n[28］蒲书箴，于非，赵新，胡筱敏.1997/1998厄尔尼诺的发生与发展.海洋学报(中文版)，1998，20(6):124-131.  \n[29］勾晓华，陈发虎，王亚军，邵雪梅.利用树轮宽度重建近 280年来祁连山东部地区的春季降水.冰川冻土，2001，23（3）:292-296.  \n[30] 包光，刘禹，刘娜.内蒙古呼伦贝尔地区伊敏河过去135年以来年径流总量的树轮重建.科学通报，2013，（12):1147-1157.  \n[31] 蔡秋芳，刘禹，包光，雷莺，孙铂.树轮记录的吕梁山地区公元1836年以来5—7月平均气温变化.科学通报，2010,55（20）：2033-2039.  \n[32] 梁尔源，邵雪梅，黄磊，王丽丽.中国中西部地区树木年轮对 20世纪20年代干旱灾害的指示.自然科学进展，2004，14(4)：469-474.  \n[33］蔡秋芳，刘禹，宋慧明，孙军艳.树轮记录的陕西中-北部地区1826年以来4—9月温度变化.中国科学D辑：地球科学，2008，38（8)：971-977.  \n[34]LiangEY,LiuXH,YuanYJ，QinNS,FangXQ,HuangHL,ZhuHF,WangL,ShaoXM.The1920sdroughtrecordedbytreringsandhistorical documents in the semi-arid and arid areas of northern China.Climate Change,2O06,79：403-432.  \n[35］林振山，邓自旺等.子波气候诊断技术的研究.北京：气象出版社，1999;1-174.  \n36]Aydinuleeteeaduealsalin(10):278-280.  \n[37］马利民,刘禹,安芷生.秦岭树轮记录中的 ENSO事件.海洋地质与第四纪地质,2001,21（3):93-98.  \n[38］蔡秋芳,刘禹.油松树轮记录的1776年以来贺兰山地区气温变化.地理学报,2006,61(9):929-936.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

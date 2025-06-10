@@ -1,0 +1,497 @@
+[
+    {
+        "type": "text",
+        "text": "1期性饥饿再投喂对虎斑乌贼幼体生长性能、抗氧化指标、消化酶活性、氨基酸组成和脂肪酸   \n2 组成的影响 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晨晨 朱婷婷 陆游罗嘉翔 金敏袁野 周歧存\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 (宁波大学海洋学院鱼类营养研究室，宁波 315211)  \n5 摘要：本试验旨在研究周期性饥饿再投喂对虎斑乌贼幼体生长性能、抗氧化指标、消化酶  \n6號 活性、氨基酸组成和脂肪酸组成的影响。选用初始体重为（ $\\left( 6 . 8 3 { \\pm } 0 . 0 1 \\right.$ ）g虎斑乌贼幼体360  \n7 尾，随机分为4组,每组3个重复，每个重复放养30尾。采取周期性饥饿1d再投喂6d(S1F6  \n8 组)、周期性饥饿 2d再投喂5d(S2F5 组)，周期性饥饿3d再投喂4d(S3F4 组)和持续投喂(对  \n9 照组)4种投喂模式，进行为期 $1 4 { \\mathrm { ~ d ~ } }$ 的投喂试验。结果显示：1)不同饥饿时间对增重率、  \n10 存活率和特定生长率均有显著影响 $( P { < } 0 . 0 5 )$ ，上述3个指标 S3F4 组显著低于对照组  \n11 （2 $( P { < } 0 . 0 5 )$ ，S1F6 组、S2F5 组和对照组之间差异不显著 $( P { > } 0 . 0 5 )$ 。2)肌肉水分、粗脂肪以及  \n12 粗蛋白质的含量在各组间无显著差异 $( P { > } 0 . 0 5 )$ 。3)不同饥饿时间对肝脏超氧化物歧化酶活  \n13 性有显著影响 $( P { < } 0 . 0 5 )$ ，肝脏超氧化物歧化酶活性在 S2F5 组达到最大值；不同饥饿时  \n14 间对肝脏丙二醛和还原型谷胱甘肽含量及谷胱甘肽过氧化物酶活性均无显著影响  \n15 （204号 $( P { > } 0 . 0 5 )$ 。4)不同饥饿时间对肝脏淀粉酶和脂肪酶的活性有显著影响 $_ { ( P < 0 . 0 5 ) }$ 。随着饥饿时间  \n16 的延长，肝脏淀粉酶活性先降低后升高，在 S1F6组有最小值，肝脏脂肪酶活性则先升高后  \n17 降低再升高，在 S2F5 组有最小值。5)在虎斑乌贼幼体的肌肉组织中共检测出17 种  \n18 氨基酸，10种必需氨基酸、7种非必需氨基酸的含量以及氨基酸总量（TAA）、必需氨基  \n19 酸总量(TEAA)、TEAA/TAA 各组间均差异不显著 $( P { > } 0 . 0 5 )$ 。6肝脏和肌肉饱和脂肪酸、单  \n20 不饱和脂肪酸、多不饱和脂肪酸各组间均无显著差异 $( P { > } 0 . 0 5 )$ ，肌肉C20:5n-3（EPA）、  \n21 C22:5n-3(DPA)、C22:6n-3（DHA）以及肝脏DPA、DHA含量在各组间亦无显著差异 $( P { > } 0 . 0 5 )$   \n22 但 S3F4 组肝脏EPA、n-3多不饱和脂肪酸含量显著低于对照组 $( P { < } 0 . 0 5 )$ 。综上所述，S1F6  \n23 组与 S2F5组的虎斑乌贼幼体均出现了补偿生长，且肌肉常规营养成分没有发生显著变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从节约成本、减少污染以及补充生长等方面综合来看，建议在虎斑乌贼幼体的养殖过程中采用周期性饥饿2d再投喂5d的投喂模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：虎斑乌贼幼体；饥饿再投喂；常规营养成分；消化酶活性；氨基酸；脂肪酸",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S963",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "虎斑乌贼（Sepia pharaonis）隶属于软体动物门(Mollusca)，头足纲(Cephalopoda)，乌贼目(Sepiida)，乌贼科(Sepiidae)，乌贼属(Sepia)，个体大，味道鲜美，营养丰富，具有很高的营养价值，是一种养殖前景明朗的头足类生物。在自然环境中，动物常常因为季节、气温、水质、食物在空间上的分布不均等原因而面临饥饿胁迫。在饥饿状态下，许多动物会通过减少代谢率以及消耗自身组织的贮存物质以应对饥饿胁迫[1]。动物通过调节身体内各种酶的活性来达到积极利用体内储存物质的目的，从而维持生命[2]。在应对饥饿胁迫的过程中，氨基酸和脂肪酸的利用顺序也有一定的差别。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "动物经饥饿或者营养不足之后再恢复正常摄食时，所表现出来的超过正常生长速度的现象称为补偿生长[3]。水生动物补偿生长的程度会因为种类、生长阶段、饥饿以及恢复投喂时间的不同而有很大的差异[4-6]。根据恢复生长期间试验动物的特定生长率、体质量的变化程度，可将水生动物的补偿生长分为4类：超补偿生长、完全补偿生长、部分补偿生长、不能补偿生长[7]。研究表明，补偿生长可以促进水生动物的生长、提高饲料利用率、降低劳动成本[8-10]，减少氮排放量从而降低水体污染[1]。目前国内外相关研究报道主要集中在鱼类[12-14]、甲壳类[15]、双壳类[16]，而关于头足类[17]的报道较少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在研究水生生物补偿生长时，采用不同的饥饿和恢复投喂方式会使得试验结果差异较大[18]。循环饥饿是获得理想补偿生长效果的一种方式[19]，它可以降低饲养人员的劳动强度，节约人工成本，缩短饥饿时间。乐可鑫等[3]对虎斑乌贼初孵幼体阶段的补偿生长进行了研究，但对虎斑乌贼幼体阶段多重周期性饥饿胁迫后的补偿生长缺乏深入研究。鉴于此，本试验以虎斑乌贼幼体为研究对象，拟研究不同周期性饥饿再投喂模式对虎斑乌贼生长性能、肌肉常规营养成分、抗氧化指标、消化酶活性、氨基酸组成和脂肪酸组成的影响，探讨其在饥饿肋迫下的生理响应机制，以期为制订适合虎斑乌贼幼体的高效投喂策略提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计试验用虎斑乌贼幼体为象山来发水产育苗厂提供，试验在浙江省宁波市海洋与科技创新基地完成。虎斑乌贼幼体在试验前用冰鲜虾暂养1周，分组前停食 $2 4 \\mathrm { h }$ ，挑选体格健壮、规格基本一致的个体[初始体重为 $\\left( 6 . 8 3 { \\pm } 0 . 0 1 \\right) ^ { . }$ )g]360尾，随机分为4组，即1个对照组和3个周期性饥饿再投喂组（S1F6组、S2F5组和 S3F4组），每组3个重复，每个重复30尾，以重复为单位放养于 $3 0 0 \\mathrm { { L } }$ 养殖桶中。每天上、下午各换水1次，每次换水量为 $50 \\%$ 左右。使用经暗沉淀和沙滤后的自然海水，盐度为 $2 1 . 2 \\% \\sim 2 6 . 7 \\%$ ，温度为 $2 3 . 8 { \\sim } 2 7 . 4 ^ { \\circ } \\mathrm { C }$ ， $\\mathsf { p H }$ 为 $7 . 5 \\sim$ 8.0；采用自然光照，微流水充气养殖，饵料为小个体的冰鲜虾(冰鲜虾体成分以及氨基酸组成和脂肪酸组成见表1)，每天投喂2次，投喂时间分别为07:30与15:30，投喂后1h内观察其摄食情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计对照组：持续投喂14d；S1F6组：饥饿1d，再投喂6d，共2个周期；S2F5组：饥饿",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2d，再投喂5d，共2个周期；S3F4组：饥饿3d，再投喂4d，共2个周期。试验期为 $1 4 { \\mathrm { ~ d ~ } }$ 表1冰鲜虾体成分(湿重基础)、氨基酸(干重基础)和脂肪酸(占总脂肪酸的百分比)组成",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1Body composition (wet weight basis),amino acid composition (dry weight basis) and fatty acid composition （percentage of total fatty acids） of chilled shrimps% ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/987af998659ce61b8abefc95b04fd6098355ea597b10234f5b37ad027ffd9a6d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td></tr><tr><td>体成分Body composition</td></tr><tr><td>水分Moisture 79.91</td></tr><tr><td>粗脂肪 Crude lipid 2.15</td></tr><tr><td>粗蛋白质 Crude protein 12.45</td></tr><tr><td>粗灰分 Ash 2.89</td></tr><tr><td>氨基酸组成 Amino acid composition</td></tr><tr><td>必需氨基酸 Essential amino acids</td></tr><tr><td>苏氨酸 Thr 2.44</td></tr><tr><td>氨酸 Val 2.62</td></tr><tr><td>蛋氨酸Met 1.95</td></tr><tr><td>异亮氨酸 Ile 2.61</td></tr><tr><td>亮氨酸 Leu 4.19</td></tr><tr><td>苯丙氨酸Phe 2.47</td></tr><tr><td>赖氨酸Lys 4.41</td></tr><tr><td>组氨酸 His 1.40</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed6e4163978ce8b08a8bf36c434c2f35001df422578ad98b71bbf1f7e52e1131.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>0 非必需氨基酸 Non-essential amino</td><td></td></tr><tr><td>acids</td><td></td></tr><tr><td>天门冬氨酸 Asp</td><td>5.67</td></tr><tr><td>丝氨酸Ser</td><td>2.25</td></tr><tr><td>谷氨酸Glu</td><td>8.68</td></tr><tr><td>甘氨酸Gly</td><td>2.77</td></tr><tr><td>丙氨酸 Ala</td><td>3.01</td></tr><tr><td>胱氨酸Cys</td><td>0.42</td></tr><tr><td>酪氨酸Tyr</td><td>1.83</td></tr><tr><td>脯氨酸 Pro</td><td>2.69</td></tr><tr><td>氨基酸总量 TAA</td><td>52.90</td></tr><tr><td>必需氨基酸总量 TEAA</td><td>25.59</td></tr><tr><td>非必需氨基酸总量 TNEAA</td><td>27.32</td></tr><tr><td>必需氨基酸总量/氨基酸总量</td><td>0.48</td></tr><tr><td>TEAA/TAA</td><td></td></tr><tr><td>脂肪酸Fatty acid composition</td><td></td></tr><tr><td>C12:0</td><td>0.17</td></tr><tr><td>C14:0</td><td>11.55</td></tr><tr><td>C14:1n</td><td>0.24</td></tr><tr><td>C16:0</td><td>23.14</td></tr><tr><td>C16:1n</td><td>9.84</td></tr><tr><td>C18:0</td><td>2.52</td></tr><tr><td>C18:1n-9</td><td>18.13</td></tr><tr><td>C18:2n-6</td><td>1.92</td></tr><tr><td>C18:3n-6</td><td>0.19</td></tr><tr><td>C18:3n-3</td><td>0.62</td></tr><tr><td>C18:4n-3</td><td>0.93</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/760573568e4d326718d2a30082383b9a48f2c7f571e8becc585d800478ca155c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C20:0</td><td>0.11</td></tr><tr><td>C20:1n-9</td><td>1.92</td></tr><tr><td>C20:2n-6</td><td>0.06</td></tr><tr><td>C20:3n-6</td><td>0.13</td></tr><tr><td>C20:4n-6</td><td>0.65</td></tr><tr><td>C20:3n-3</td><td>0.06</td></tr><tr><td>C20:5n-3 (EPA)</td><td>15.51</td></tr><tr><td>C22:0</td><td>0.20</td></tr><tr><td>C22:1n-9</td><td>1.78</td></tr><tr><td>C22:5n-6</td><td>0.08</td></tr><tr><td>C22:5n-3</td><td>0.41</td></tr><tr><td>C24:0</td><td>0.05</td></tr><tr><td>C22:6n-3 (DHA)</td><td>9.76</td></tr><tr><td>饱和脂肪酸 SFA</td><td>37.74</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>31.91</td></tr><tr><td>多不饱和脂肪酸PUFA</td><td>30.32</td></tr><tr><td>n-3 多不饱和脂肪酸n-3PUFA</td><td>27.29</td></tr><tr><td>n-6 多不饱和脂肪酸n-6PUFA</td><td>3.03</td></tr><tr><td>n-3/n-6</td><td>9.01</td></tr><tr><td>DHA/EPA</td><td>0.63</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 样本采集与分析方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "投喂试验结束后，鱼停食 $2 4 \\mathrm { ~ h ~ }$ ，取样前每桶单独称重并计数，计算增重率、特定生长率和存活率；每个养殖桶随机取4尾乌贼，分别剥离肌肉用于肌肉常规成分以及氨基酸与脂肪酸组成的分析，剥离肝脏用于抗氧化指标与消化酶活性的测定以及脂肪酸组成的分析。所有操作均在冰上进行。饵料、肌肉常规营养成分分析：水分含量测定采用 $1 0 5 ^ { \\circ } \\mathrm { C }$ 常压干燥法；粗灰分含量的测定采用马弗炉550℃焚烧失重法；粗蛋白质含量测定使用蛋白质分析仪(LECOFP-528)；粗脂肪含量测定使用脂肪测定仪(SX360)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "氨基酸组成测定：在样品中加入 $6 \\mathrm { m o l / L }$ 盐酸沙浴 $2 4 \\mathrm { h }$ 后，用 $5 0 ~ \\mathrm { m L }$ 容量瓶定容并吸取1mL 溶液进行旋转蒸发，将旋转蒸发后的样品加入 $0 . 0 2 \\mathrm { m o l / L }$ 的盐酸后使用高速氨基酸自动分析仪(L-8900，HITACHI公司，日本)测定氨基酸组成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "脂肪酸组成测定：饵料、肝脏及肌肉样品经过 $4 8 \\mathrm { h }$ 冷冻干燥后，在盐酸-甲醇溶液和氢氧化钾-甲醇溶液中抽提脂肪进行前处理后，送往中国科学院宁波材料技术与工程研究所测定中心，使用气相-质谱仪(GCMS-QP2010 Plus，SHIMADZU 公司，日本)测定脂肪酸组成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "抗氧化指标测定：先准确称取一定重量的待测组织，按重量(g)：体积 $( \\mathrm { m L } ) { = } 1 { : } 9$ 的比例加入9倍体积的生理盐水，冰水浴条件机械匀浆， $2 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { { m i n } }$ ，取上清液于-80℃保存，待测。超氧化物歧化酶、谷胱甘肽过氧化物酶活性及还原型谷胱甘肽、丙二醛含量均采用南京建成生物工程研究所生产的相关试剂盒测定，相应操作均参照说明书进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "消化酶活性测定：待测组织的前处理与抗氧化指标测定时的前处理方法一致。脂肪酶、淀粉酶活性均采用南京建成生物工程研究所生产的相关试剂盒测定，相应操作均参照说明书进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4计算公式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "增重率 $( \\% ) = 1 0 0 \\times ($ 终末均重-初始均重)/初始均重；  \n特定生长率 $( \\% / \\mathrm { d } ) { = } 1 0 0 \\times ($ ln终末体重-In初始体重)/饲养天数；  \n存活率 $( \\% ) = 1 0 0 \\times ($ (终末尾数-初始尾数)/初始尾数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "数据均以平均值 $\\pm$ 标准误(mean±SE)表示。用 SPSS19.0软件对所有数据进行单因素方差分析(one-wayANOVA)，当组间有差异显著时，进行 Tukey's多重比较，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "L.1 间[冉又刘沉』贼幼工长[能的影啊 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，饥饿时间对增重率、特定生长率及存活率均有显著影响 $_ { ( P < 0 . 0 5 ) }$ 。S3F4组的增重率、特定生长率及存活率均显著低于对照组 $_ { ( P < 0 . 0 5 ) }$ ，而S1F6组和S2F5 组与对照组相比则无显著差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2周期性饥饿再投喂对虎斑乌贼幼体生长性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2Effects of periodical starvation-refeeding on growth performance of juvenile Sepia pharaon $( n { = } 3 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/05f9fe3b0fd46a97d76fd6d3409d1dcd13de73bd71a80851ff7eacfd5214242e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>对照Control</td><td>S1F6</td><td>S2F5</td><td>S3F4</td><td>P-value</td></tr><tr><td>增重率WGR/%</td><td>58.50±4.10a</td><td>50.37±1.72ab</td><td>50.98±1.80ab</td><td>36.81±6.75b</td><td>0.035</td></tr><tr><td>成活率 SR/%</td><td>63.33±1.93a</td><td>47.78±7.78ab</td><td>46.66±8.82ab</td><td>27.78±4.45b</td><td>0.027</td></tr><tr><td>特定生长率 SGR/ (%/d)</td><td>3.28 ±0.19a</td><td>2.91±0.08ab</td><td>2.94±0.09ab</td><td>2.22±0.35b</td><td>0.037</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标无字母或有相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ 。下表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2周期性饥饿再投喂对虎斑乌贼幼体肌肉常规营养成分的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，3个周期性饥饿再投喂组虎斑乌贼幼体水分、粗蛋白、粗脂肪与对照组相比均无显著性差异 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/04f0a1793d517f305b26fb0080e00d1555f7e356c1745a55a0148edb3fc3eed0.jpg",
+        "table_caption": [
+            "Table 3Effects of periodical starvation-refeeding on muscle conventional nutrients of juvenile Sepia pharaoni (wet weight basis, $n { = } 3$ ） $\\%$ 号 "
+        ],
+        "table_footnote": [
+            "115 2.3周期性饥饿再投喂对虎斑乌贼幼体肝脏抗氧化指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别 Groups</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>Control</td><td>S1F6</td><td>S2F5</td><td>S3F4</td></tr><tr><td>水分 Moisture</td><td>14.65±0.48</td><td>14.14±0.27</td><td>14.42±0.73</td><td>13.74±0.45</td><td>0.593</td></tr><tr><td>粗蛋白质 Crude</td><td>11.88±0.65</td><td>11.29±0.35</td><td>11.76±0.76</td><td>11.04±0.42</td><td>0.530</td></tr><tr><td>protein 粗脂肪 Crude lipid</td><td>0.48±0.14</td><td>0.43±0.06</td><td>0.52±0.09</td><td>0.41±0.05</td><td>0.330</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，不同饥饿时间对肝脏超氧化物歧化酶活性有显著影响 $_ { ( P < 0 . 0 5 ) }$ 。随饥饿时间的延长，肝脏超氧化物歧化酶活性呈先降低后升高再降低的趋势，在 S2F5组达到最大值。不同饥饿时间对肝脏对丙二醛和还原型谷胱甘肽含量以及谷胱甘肽过氧化物酶活性均无显著影响 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/47200965e32433c1c0b2d3aa14eb9209227efb3fbf6b18a2520234782a9bbfbe.jpg",
+        "table_caption": [
+            "表3周期性饥饿再投喂对虎斑乌贼幼体肌肉常规营养成分的影响(湿重基础)",
+            "表4周期性饥饿再投喂对虎斑乌贼幼体肝脏抗氧化指标的影响",
+            "Table 4 Effects of periodical starvation-refeeding on liver antioxidant indexes of juvenile Sepia pharaoni $( n { = } 3 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别 Groups</td><td rowspan=\"2\">P值P-value</td></tr><tr><td>对照Control</td><td>S1F6</td><td>S2F5</td><td>S3F4</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mg prot)</td><td>10.26±1.39ab</td><td>8.12±0.29a</td><td>12.00±0.27b</td><td>10.53±0.21ab</td><td>0.034</td></tr><tr><td>丙二醛 MDA/(nmol/mg prot)</td><td>2.90±0.87</td><td>1.25±0.18</td><td>1.77±0.28</td><td>1.63±0.25</td><td>0.166</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7acd38b2ff326c2178a2594bc5cec32d79ed2451567b7394bd4e9027fc2d3050.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>谷胱甘脑氧化物酶 GSH-Px/(U/mg prot)</td><td>63.50±11.26</td><td>46.87±10.72</td><td>64.25±4.63</td><td>46.93±6.87</td><td>0.358</td></tr><tr><td>124 还原型谷胱甘肽 GSH/(umol/g prot) 125</td><td>11.81±0.27</td><td>10.92±1.98</td><td>11.01±1.81</td><td>14.80±3.82</td><td>0.630</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4周期性饥饿再投喂对虎斑乌贼幼体肝脏消化酶活性的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "132 由表5可知，不同饥饿时间对肝脏淀粉酶和脂肪酶的活性有显著影响 $_ { ( P < 0 . 0 5 ) }$ 。  \n133 随着饥饿时间的延长，肝脏淀粉酶活性先下降后升高，在 S1F6 组有最小值，在 S3F4  \n134 组有最大值，这2组间差异显著 $_ { ( P < 0 . 0 5 ) }$ ；肝脏脂肪酶活性则先升高后降低再升高，  \n135 在 S2F5组有最小值，显著低于其他各组 $_ { ( P < 0 . 0 5 ) }$ ，在S1F6组有最大值，显著高于  \n136 S2F5 组和 S3F4 组 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b719d911cb5d9aa8638ab834f0c96585c1ca11d3a801192074e2dac5c1a00d28.jpg",
+        "table_caption": [
+            "表5周期性饥饿再投喂对虎斑乌贼幼体肝脏消化酶活性的影响",
+            "Table 5Effects of periodical starvation-refeeding on hepatic digestive enzyme activities of juvenile Sepia pharaoni $\\scriptstyle ( n = 3 )$ （2号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Itemk41 n</td><td colspan=\"4\">组别 Groups</td><td>P值</td></tr><tr><td>对照 Control</td><td>S1F6</td><td>S2F5</td><td>S3F4</td><td>P-value</td></tr><tr><td>粉酶 AMS/(U/mg prot)</td><td>0.54±0.05ab</td><td>0.44±0.01a</td><td>0.51±0.03ab</td><td>0.67±0.05b</td><td>0.013</td></tr><tr><td>脂肪酶 LPS3U/g prot）</td><td>94.14±3.78ab</td><td>117.63±13.33a</td><td>47.13±3.27c</td><td>81.16±2.42b</td><td>0.001</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 周期性饥饿再投喂对虎斑乌贼幼体肌肉氨基酸组成的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，在虎斑乌贼幼体的肌肉组织中共检测出17种氨基酸，其中必需氨基酸有10 种，非必需氨基酸有7种。经分析发现，10种必需氨基酸、7种非必需氨基酸的含量以及氨基酸总量、必需氨基酸总量、必需氨基酸总量/氨基酸总量各组间均差异不显著 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表6周期性饥饿再投喂对虎斑乌贼幼体肌肉氨基酸组成的影响(干物质基础)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 6Effects of periodical starvation-refeeding on muscle amino acid composition of juvenile ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/237f074e0242754a4dadb33786c851d8858aa7d2dc1e79014b5a8b6cb738e099.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">154 氨基酸 Amino acids 155</td><td colspan=\"4\">组别Groups</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>对照 Control</td><td>S1F6</td><td>S2F5</td><td>S3F4</td></tr><tr><td>无冬氨酸 Asp</td><td>6.23±0.13</td><td>5.92±0.18</td><td>6.32±0.25</td><td>6.04±0.13</td><td>0.439</td></tr><tr><td>苏氢酸Tr</td><td>2.71±0.05</td><td>2.58±0.05</td><td>2.74±0.09</td><td>2.61±0.06</td><td>0.324</td></tr><tr><td>丝氨酸 Ser</td><td>2.75±0.06</td><td>2.61±0.04</td><td>2.78±0.10</td><td>2.65±0.06</td><td>0.293</td></tr><tr><td>158 谷氨酸Glu</td><td>10.73±0.22</td><td>10.01±0.35</td><td>10.91±0.46</td><td>10.24±0.27</td><td>0.276</td></tr><tr><td>酸Gly</td><td>2.58±0.03</td><td>2.62±0.10</td><td>2.62±0.12</td><td>2.66±0.03</td><td>0.895</td></tr><tr><td>丙酸 Ala</td><td>3.13±0.06</td><td>2.94±0.05</td><td>3.16±0.15</td><td>3.01±0.07</td><td>0.334</td></tr><tr><td>胱氨酸Cys</td><td>0.74±0.00</td><td>0.6±0.06</td><td>0.72±0.04</td><td>0.65±0.06</td><td>0.230</td></tr><tr><td>氨酸Val 162</td><td>2.46±0.04</td><td>2.3±0.05</td><td>2.46±0.09</td><td>2.36±0.07</td><td>0.338</td></tr><tr><td>蛋氨酸Met</td><td>1.48±0.05</td><td>1.19±0.14</td><td>1.54±0.17</td><td>1.17±0.14</td><td>0.187</td></tr><tr><td>163 异亮氨酸 Ile</td><td>2.64±0.04</td><td>2.51±0.06</td><td>2.64±0.12</td><td>2.55±0.05</td><td>0.525</td></tr><tr><td>亮酸Leu</td><td>4.91±0.11</td><td>4.61±0.17</td><td>4.95±0.21</td><td>4.71±0.06</td><td>0.352</td></tr><tr><td>酪氨酸Tyr</td><td>1.92±0.01</td><td>1.62±0.08</td><td>1.91±0.15</td><td>1.69±0.09</td><td>0.131</td></tr><tr><td>苯氨酸 Phe</td><td>2.43±0.05</td><td>2.31±0.13</td><td>2.40±0.11</td><td>2.35±0.05</td><td>0.791</td></tr><tr><td>赖氨酸Lys 167</td><td>5.11±0.11</td><td>4.77±0.21</td><td>5.16±0.23</td><td>4.95±0.07</td><td>0.396</td></tr><tr><td>组氨酸His</td><td>1.35±0.03</td><td>1.26±0.07</td><td>1.29±0.08</td><td>1.30±0.05</td><td>0.775</td></tr><tr><td>168 精氨酸Arg</td><td>6.24±0.66</td><td>6.16±0.68</td><td>6.23±0.88</td><td>5.55±0.23</td><td>0.854</td></tr><tr><td>脯酸Pro</td><td>2.44±0.10</td><td>2.36±0.00</td><td>2.43±0.16</td><td>2.36±0.10</td><td>0.915</td></tr><tr><td>氨酸总量TAA</td><td>59.84±1.42</td><td>56.35±1.91</td><td>60.26±3.39</td><td>56.85±0.93</td><td>0.484</td></tr><tr><td>TEAA 172 需氨基酸总量</td><td>21.74±0.34</td><td>20.27±0.66</td><td>21.90±1.02</td><td>20.70±0.42</td><td>0.305</td></tr><tr><td>必需氨基酸总量/氨 量 TEAA/TAA 基73酸总</td><td>2.75±0.03</td><td>2.78±0.01</td><td>2.75±0.03</td><td>2.75±0.02</td><td>0.728</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "175  \n176 2.6周期性饥饿再投喂对虎斑乌贼幼体肝脏脂肪酸组成的影响  \n177 由表7可知，在虎斑乌贼幼体肝脏组织中共检测出24种脂肪酸，起始碳链长度  \n178 在 $1 2 \\sim 2 4$ ，其中饱和脂肪酸7种，单不饱和脂肪酸5种，多不饱和脂肪酸12种。  \n179 肝脏单不饱和脂肪酸、多不饱和脂肪酸、饱和脂肪酸、n-6多不饱和脂肪酸含量各组间均无  \n180 显著差异 $( P { > } 0 . 0 5 )$ 。肝脏C22:5n-3(DPA)、C22:6n-3（DHA)含量在各组间无显著差异 $( P { > } 0 . 0 5 )$ ，  \n181 但3个周期性饥饿再投喂组的肝脏C20:5n-3(EPA)含量与对照组相比均出现了一定程度的降  \n182 低，其中 S1F6 组和 S2F5 组与对照组的差异不显著 $( P { > } 0 . 0 5 )$ ，S3F4 组则显著低于对照组",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$( P { < } 0 . 0 5 )$ 。3个周期性饥饿再投喂组的肝脏n-3多不饱和脂肪酸含量均较对照组出现了一定程度的降低，其中 S3F4 组与对照组的差异达到显著水平 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，在虎斑乌贼幼体肌肉组织中共检测出18种脂肪酸，起始碳链长度在 $1 2 \\sim 2 2$ ，其中饱和脂肪酸4种，单不饱和脂肪酸4种，多不饱和脂肪酸10种。肌肉饱和脂肪酸、单不饱和脂肪酸、多不饱和脂肪酸、 $\\mathtt { n } { - } 3$ 多不饱和脂肪酸各组间均无显著差异 $( P { > } 0 . 0 5 )$ ，肌肉EPA、DPA、DHA含量各组间也无显著差异 $( P { > } 0 . 0 5 )$ 。3个周期性饥饿再投喂组的肌肉 $\\mathrm { n } { - } 6$ 多不饱和脂肪酸含量与对照组均无显著差异 $( P { > } 0 . 0 5 )$ ，但 S1F6 显著高于S2F5 组 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d8684e4eb8c93c3575649bcd4aa9764da0fdebc2883ce98d2957bf64998134c.jpg",
+        "table_caption": [
+            "表7周期性饥饿再投喂对虎斑乌贼幼体肝脏脂肪酸的影响(占总脂肪酸的百分比) Table 7Effects of periodical starvation-refeeding on hepatic fatty acid composition of juvenile Sepia pharaoni (percentage of total fatty acids, $\\scriptstyle n = 3$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">脂肪酸Fatty acids</td><td colspan=\"4\">组别Groups</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>对照 Control</td><td>S1F6</td><td>S2F5</td><td>S3F4</td></tr><tr><td>C12:0</td><td>0.12±0.01</td><td>0.17±0.02</td><td>0.15±0.03</td><td>0.18±0.02</td><td>0.216</td></tr><tr><td>C14:0</td><td>9.9±0.10</td><td>11.14±0.26</td><td>10.44±0.53</td><td>10.93±0.40</td><td>0.151</td></tr><tr><td>C14:1n</td><td>0.14±0.01</td><td>0.175±0.01</td><td>0.16±0.02</td><td>0.16±0.02</td><td>0.330</td></tr><tr><td>C16:0</td><td>19.34±0.28</td><td>20.93±0.37</td><td>20.04±1.42</td><td>21.82±0.48</td><td>0.210</td></tr><tr><td>C16:1n</td><td>9.88±0.04</td><td>10.96±0.07</td><td>10.54±0.37</td><td>10.62±0.30</td><td>0.069</td></tr><tr><td>C18:0</td><td>5.59±0.20</td><td>6.48±0.59</td><td>5.95±0.73</td><td>6.89±0.20</td><td>0.313</td></tr><tr><td>C18:1n-9</td><td>17.24±0.51</td><td>19.01±0.08</td><td>18.16±0.89</td><td>19.58±0.39</td><td>0.070</td></tr><tr><td>C18:2n-6</td><td>1.84±0.21</td><td>1.96±0.31</td><td>2.06±0.15</td><td>2.10±0.23</td><td>0.858</td></tr><tr><td>C18:3n-6</td><td>0.19±0.00</td><td>0.18±0.01</td><td>0.19±0.01</td><td>0.21±0.01</td><td>0.053</td></tr><tr><td>C18:3n-3</td><td>0.57±0.05</td><td>0.43±0.04</td><td>0.54±0.07</td><td>0.47±0.04</td><td>0.255</td></tr><tr><td>C184n-3</td><td>0.73±0.08</td><td>0.50±0.03</td><td>0.61±0.07</td><td>0.52±0.03</td><td>0.087</td></tr><tr><td>C20:0</td><td>0.19±0.00a</td><td>0.25±0.02ab</td><td>0.21±0.03ab</td><td>0.28±0.01b</td><td>0.045</td></tr><tr><td>C20:1n-9</td><td>2.09±0.05</td><td>2.42±0.14</td><td>2.20±0.10</td><td>2.36±0.10</td><td>0.159</td></tr><tr><td>C20:2n-6</td><td>0.24±0.01</td><td>0.24±0.02</td><td>0.26±0.04</td><td>0.31±0.00</td><td>0.138</td></tr><tr><td>C20:3n-6</td><td>0.16±0.01</td><td>0.17±0.02</td><td>0.17±0.00</td><td>0.16±0.05</td><td>0.998</td></tr><tr><td>C20:4n-6</td><td>1.18±0.08</td><td>1.05±0.05</td><td>1.07±0.13</td><td>1.13±0.19</td><td>0.877</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d56254db5ad1f4227842c1268c634902590f5ece5306f45541ac061be6507d6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C20:3n-3</td><td>0.13±0.00</td><td>0.11±0.01</td><td>0.12±0.01</td><td>0.12±0.00</td><td>0.384</td></tr><tr><td>C20:5n-3(EPA)</td><td>13.51±0.09a</td><td>10.23±0.69ab</td><td>12.17±1.43ab</td><td>9.63±0.61b</td><td>0.043</td></tr><tr><td>C22:0</td><td>0.13±0.01a</td><td>0.19±0.00ab</td><td>0.15±0.02ab</td><td>0.24±0.04b</td><td>0.035</td></tr><tr><td>C22:1n-9</td><td>1.04±0.11</td><td>1.25±0.03</td><td>1.05±0.17</td><td>1.24±0.08</td><td>0.399</td></tr><tr><td>C22:5n-6</td><td>0.17±0.01</td><td>0.13±0.01</td><td>0.17±0.02</td><td>0.21±0.05</td><td>0.240</td></tr><tr><td>C22:5n-3 (DPA)</td><td>0.66±0.01</td><td>0.55±0.04</td><td>0.63±0.13</td><td>0.51±0.04</td><td>0.499</td></tr><tr><td>C24:0</td><td>0.15±0.02</td><td>0.19±0.01</td><td>0.17±0.02</td><td>0.18±0.02</td><td>0.373</td></tr><tr><td>C22:6n-3</td><td>14.85±0.96</td><td>11.30±0.54</td><td>12.79±1.74</td><td>10.14±0.80</td><td>0.075</td></tr><tr><td>(DHA)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饱和脂肪酸 SFA 单不饱和脂肪酸</td><td>35.41±0.18</td><td>39.35±1.26</td><td>37.12±2.59</td><td>40.52±0.74</td><td>0.149</td></tr><tr><td>MUFA 多不饱和脂肪酸</td><td>30.38±0.64</td><td>33.80±0.32</td><td>32.10±1.47</td><td>33.96±0.84</td><td>0.077</td></tr><tr><td>PUFA</td><td>34.21±0.82</td><td>26.86±1.58</td><td>30.77±3.61</td><td>25.51±1.46</td><td>0.074</td></tr><tr><td>n-3多不饱和脂肪 酸 n-3 PUFA</td><td>30.43±0.93a</td><td>23.15±1.33ab</td><td>26.85±3.34ab</td><td>21.39±1.37b</td><td>0.048</td></tr><tr><td>n-6多不饱和脂肪 酸n-6PUFA</td><td>3.77±0.12</td><td>3.71±0.25</td><td>3.92±0.27</td><td>4.12±0.20</td><td>0.578</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表8周期性饥饿再投喂对虎斑乌贼幼体肌肉脂肪酸组成的影响(占总脂肪酸的百分比) Table 8Effects of periodical starvation-refeeding on muscle fatty acid composition of juvenile Sepia pharaoni (percentage of total fatty acids, $\\scriptstyle n = 3$ ） ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/558b902d0f114a93227acac347c3e8298332b33aff54ea839474b99a4783827a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">(percentage of</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>total fatty acids, n=3)脂肪酸 Fatty</td><td>对照 Control</td><td>组别 Groups S1F6</td><td>S2F5 S3F4</td></tr><tr><td>acids C14:0</td><td>226±0.085</td><td>2.13±0.15</td><td>2.54±0.34</td><td>2.24±0.18</td><td>0.594</td></tr><tr><td></td><td></td><td></td><td>22.75±0.44</td><td></td><td></td></tr><tr><td>C16:0</td><td>22.82±0.63</td><td>21.64±0.36</td><td></td><td>21.47±0.59</td><td>0.210</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b8408f79d63b2a2c3c6e60afb153abbeb38ac8f86c17047f5b47af914bfe790.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>C16:1n</td><td>0.59±0.08</td><td>0.57±0.04</td><td>0.58±0.04</td><td>0.55±0.01</td><td>0.958</td></tr><tr><td>C18:0</td><td>13.63±0.23ab</td><td>15.32±0.30a</td><td>13.58±0.60b</td><td>14.85±0.29ab</td><td>0.028</td></tr><tr><td>C18:1n-9</td><td>4.07±0.13</td><td>3.94±0.22</td><td>3.93±0.28</td><td>3.99±0.08</td><td>0.949</td></tr><tr><td>C18:2n-6</td><td>0.59±0.03</td><td>0.75±0.11</td><td>0.59±0.01</td><td>0.60±0.03</td><td>0.199</td></tr><tr><td>C18:3n-6</td><td>0.20±0.01</td><td>0.31±0.09</td><td>0.17±0.01</td><td>0.21±0.01</td><td>0.247</td></tr><tr><td>C18:3n-3</td><td>0.14±0.03</td><td>0.05±0.03</td><td>0.08±0.01</td><td>0.12±0.01</td><td>0.092</td></tr><tr><td>C20:0</td><td>0.44±0.06</td><td>0.53±0.07</td><td>0.39±0.03</td><td>0.51±0.04</td><td>0.273</td></tr><tr><td>C20:1n-9</td><td>3.81±0.10</td><td>4.04±0.19</td><td>3.81±0.21</td><td>3.97±0.14</td><td>0.706</td></tr><tr><td>C20:2n-6</td><td>0.68±0.02a</td><td>0.85±0.02b</td><td>0.70±0.04a</td><td>0.73±0.02ab</td><td>0.011</td></tr><tr><td>C20:4n-6</td><td>2.91±021</td><td>3.57±0.29</td><td>2.85±0.15</td><td>3.38±0.13</td><td>0.100</td></tr><tr><td>C20:3n-3</td><td>0.27±0.01</td><td>0.39±0.13</td><td>0.26±0.01</td><td>0.27±0.01</td><td>0.487</td></tr><tr><td>C20:5n-3 (EPA)</td><td>11.37±0.25</td><td>10.77±0.28</td><td>11.75±0.53</td><td>11.23±0.03</td><td>0.271</td></tr><tr><td>C22:1n-9</td><td>0.07±0.04</td><td>0.05±0.05</td><td>0.10±0.02</td><td>0.11±0.02</td><td>0.576</td></tr><tr><td>C22:5n-6</td><td>2.21±0.37</td><td>2.80±0.25</td><td>2.22±0.02</td><td>2.45±0.08</td><td>0.338</td></tr><tr><td>C22:5n-3 (DPA)</td><td>1.44±0.56</td><td>1.88±0.04</td><td>1.79±0.02</td><td>2.00±0.04</td><td>0.568</td></tr><tr><td>C22:6n-3 (DHA)</td><td>31.18±0.72</td><td>30.35±0.73</td><td>31.77±0.97</td><td>31.18±0.13</td><td>0.445</td></tr><tr><td>饱和脂肪酸 SFA</td><td>39.72±1.11</td><td>39.70±0.32</td><td>39.37±0.82</td><td>39.20±0.43</td><td>0.947</td></tr><tr><td>单不饱和脂肪酸 MUFA</td><td>8.55±0.20</td><td>8.60±0.39</td><td>8.42±0.34</td><td>8.63±0.08</td><td>0.953</td></tr><tr><td>多不饱和脂肪酸 PUFA</td><td>51.73±1.10</td><td>51.71±0.66</td><td>52.20±1.09</td><td>52.16±0.39</td><td>0.960</td></tr><tr><td>n-3 多不饱和脂肪 酸 n-3 PUFA</td><td>45.13±0.56</td><td>43.43±0.95</td><td>45.66±1.00</td><td>44.79±0.14</td><td>0.258</td></tr><tr><td>n-6 多不饱和脂肪 酸 n-6 PUFA</td><td>6.60±0.57ab</td><td>8.28±0.30a</td><td>6.54±0.11b</td><td>7.37±0.36ab</td><td>0.035</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1周期性饥饿再投喂对虎斑乌贼幼体生长性能的影响饥饿会影响水生动物的行为、存活、生长、代谢等一系列生理变化，饥饿胁迫",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "207 后恢复投喂的水生动物会出现不能补偿生长、部分补偿生长、完全补偿生长、超补  \n208 偿生长等响应状态[20]。Ribeiro 等[21]认为摄食率和饲料转化率、蛋白质合成率及能量  \n209 储备是反映试验动物是否出现补偿生长的衡量指标。张涛等[22]考虑到曼氏无针乌贼  \n210 在受到饥饿胁迫时发生互相残杀的现象，在研究曼氏无针乌贼的周期性饥饿投喂模  \n211 式时，将增重率与成活率作为衡量指标。阿荣等[23]在研究大菱鲆的补偿生长时，将  \n212 体质量变化率以及特定生长率作为衡量标准。在综合前人试验的基础上，本试验将  \n213 增重率、特定生长率及存活率作为衡量标准，结果表明，在饥饿与投喂总时间相等  \n214 的情况下，不同饥饿时间对增重率、存活率、特定生长率均有显著优先。S1F6组和  \n215 S2F5 组与对照组相比存活率则有下降趋势，这可能是因为饥饿胁迫因子会影响虎斑  \n216 乌贼幼体消化酶活性，进而影响其存活率，而增重率与特定生长率变化不显著，表  \n217 明 S1F6 组与 S2F5 组虎斑乌贼幼体出现了补偿生长，与阿荣等[23]在大菱鲆幼鱼补偿  \n218 生长研究中得到的结果相似。S3F4 组增重率、存活率及特定生长率均显著低于饥饿  \n219 时间较短的S1F6组、S2F5组及对照组，表明在饥饿3d再投喂4d的模式下，虎斑  \n220 乌贼幼体不能出现补偿生长，说明饥饿时间过长可能不能出现补偿生长，不利于虎  \n221 斑乌贼的产业化养殖。在本试验中虎斑乌贼幼体各组的存活率均较低，尤其 S3F4  \n222 组，该组的存活率与对照组相比出现了显著降低，这可能是因为在养殖过程中虎斑  \n223 乌贼幼体由于饥饿胁迫而出现了自相残杀的现象。从节约劳动成本、提高饲料利用  \n224 率以及减少水体环境污染的角度来看，虎斑乌贼幼体的最佳投喂模式为周期性饥饿  \n225 2d再投喂5d。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2 周期性饥饿再投喂对虎斑乌贼幼体肌肉常规营养成分的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "脂肪、糖类以及蛋白质是水生动物维持生命活动的主要储能物质，在饥饿期间，水生动物会消耗体内的储能物质，从而达到一种动态平衡。不同水生动物在饥饿期间对储能物质的利用不同[24]，林小涛等[25]研究发现南美白对虾主要利用脂肪作为能量来源，沈文英等[26]研究发现草鱼能较好的利用糖类作为能量来源，Mehner 等[27]研究发现河鲈主要利用蛋白质作为能量来源。本试验结果显示，3个周期性饥饿再投喂组虎斑乌贼幼体的肌肉水分、粗蛋白质、粗脂肪含量与对照组相比无显著差异，表明经补偿生长后，水分、粗蛋白质、粗脂肪在短期内均能恢复至对照组水平，周期性饥饿再投喂不会影响虎斑乌贼幼体的营养品质。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3周期性饥饿再投喂对虎斑乌贼肝脏抗氧化指标的影响氧自由基是生物抗应激与新陈代谢时产生的一种物质，体内的抗氧化酶与抗氧化剂所组成的抗氧化体系会不断地清除产生的氧自由基，从而形成一种动态平衡[28]。水生动物在遭受胁迫时，这些抗氧化酶的活性会发生相应的变化[29]。超氧化物歧化酶是生物防御体系中的关键酶，可以催化生物体内的超氧阴离子自由基（ $\\mathrm { O } _ { 2 } ^ { - } \\cdot \\mathrm { \\ i }$ ）进行歧化反应，减少自由基，同时产生大量的过氧化氢（ $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ）。本试验中，不同饥饿时间对肝脏超氧化物歧化酶活性有显著影响。肝脏超氧化物歧化酶活性随饥饿时间的延长呈现先降低后升高再降低的趋势，在 S2F5组有最大值且显著高于S1F6组，说明此时虎斑乌贼幼体的抗氧化应激能力较强。这可能是由于饥饿胁迫引起了超氧阴离子自由基的生成，从而诱导超氧化物歧化酶基因的大量表达。谷胱甘肽过氧化物酶能还原过氧化氢以及有机过氧化物，还原型谷胱甘肽既可抵抗活性氧（ROS）的氧化损伤，同时还是其他抗氧化酶作用的底物[30]，丙二醛是机体内自由基作用于脂肪发生过氧化反应的氧化中产物，具有细胞毒性[31]，其含量大小可反映机体中脂质过氧化程度以及细胞的损伤程度[32]。本试验中，3个人周期性饥饿再投喂组的肝脏丙二醛、还原型谷胱甘肽含量及谷胱甘肽过氧化物酶活性均与对照组相比均无显著差异，表明周期性饥饿再投喂不会对虎斑乌贼幼体肝脏丙二醛、还原型谷胱甘肽含量及谷胱甘肽过氧化物酶活性产生负面影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4周期性饥饿再投喂对虎斑乌贼肝脏消化酶活性的影响",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在饥饿胁迫条件下，水生动物通过调节消化酶活性积极利用体内储能物质，从而维持机体生命[3-35]。目前，有关于饥饿胁迫引起消化酶活性下降的原因主要是因为食物会通过嗅觉、视觉等影响中枢神经对消化腺的分泌支配，而在饥饿胁迫下缺乏这些刺激[36-37]。饥饿会引起消化器官的实质性变化，如肝胰腺萎缩等，进而降低消化酶的分泌[38]。本试验结果表明，虎斑乌贼幼体肝脏中淀粉酶与脂肪酶活性在S2F5 组均处于较低水平，这与乐可鑫等[3]所得到的结果类似。这表明，虎斑乌贼幼体在饥饿初期由于脂肪的匮乏，降低了肝脏脂肪酶的分泌以增强其适应性，而在饥饿3d时，虎斑乌贼幼体对饥饿胁迫已具有一定适应性，从而肝脏脂肪酶活性又有一定升高。这与肌肉粗脂肪含量随着饥饿时间的延长呈先升高后降低的趋势相吻合。虎斑乌贼为肉食性动物，对碳水化合物的利用率较低，因此其淀粉酶的活性较低。在饥饿初期，由于食物的匮乏，肝脏淀粉酶的活性也随之降低，而在 S3F4 组肝脏淀粉酶的活性却出现升高，这可能是因为肝脏加大了对体内肌糖原与肝糖原的利用，以满足代谢活动的需要。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.5周期性饥饿再投喂对虎斑乌贼肌肉氨基酸组成的影响在水生动物的生长过程中，氨基酸起着重要的作用。在饥饿胁迫下，机体可将氨基酸转换成葡萄糖，从而提供能量，因而会表现出必需氨基酸和氨基酸总量呈现不同程度下降的趋势[39]。不同水生动物利用氨基酸的优先次序不尽相同，斑点叉尾鮰在饥饿状态下优先利用非必需氨基酸作为能量来源[40]，而大鳍在受到饥饿胁迫时优先利用必需氨基酸作为能量来源[411，饥饿胁迫则不会影响曼氏无针乌贼的氨基酸含量[22]。本试验结果显示，虎斑乌贼幼体肝脏中10 种必需氨基酸、7种非必需氨基酸的含量以及氨基酸总量、必需氨基酸总量、必需氨基酸总量/氨基酸总量各组之间均无显著差异，这说明周期性饥饿再投喂对虎斑乌贼幼体的氨基酸含量没有产生显著影响，这与张涛等[22]在曼氏无针乌贼中得到的研究结果相似。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.6 周期性饥饿再投喂对虎斑乌贼肝脏和肌肉脂肪酸组成的影响",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在饥饿胁迫下，水生动物对体内的不同种类的脂肪酸有着一定的利用顺序，首先是饱和脂肪酸，其次是低不饱和脂肪酸，最后是高不饱和脂肪酸[42]。本试验研究了周期性饥饿再投喂对虎斑乌贼幼体肝脏与肌肉中脂肪酸组成的影响，结果显示，3个周期性饥饿再投喂组肝脏和肌肉饱和脂肪酸、单不饱和脂肪酸和多不饱和脂肪酸的含量与对照组无显著性差异。从3种脂肪酸含量的总变化来看，在虎斑乌贼幼体肌肉组织中，首先被利用的是饱和脂肪酸，随饥饿时间延长，单不饱和脂肪酸和多不饱和脂肪酸交替被利用。而在虎斑乌贼幼体肝脏中，最先被利用的是多不饱和脂肪酸，随饥饿时间的延长，饱和脂肪酸和单不饱和脂肪酸变交替被利用。这表明在虎斑乌贼幼体不同组织中，不同种类脂肪酸的被利用顺序也不尽相同。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "EPA与DHA是人体必需的高度不饱和脂肪酸，且哺乳动物自身不能合成。一般海水鱼中的 EPA与DHA 含量要高于淡水鱼[43]。EPA、DHA、DPA 均属于n-3 多不饱和脂肪酸，是海洋生物里的重要营养成分。EPA在免疫和炎症反应上起着至关重要的作用，DHA对神经功能发挥重要作用，且为视网膜正常发育以及发挥正常功能不可或缺的成分[43]，DPA具有很强的抑制血小板凝集，促进牛主动脉内皮细胞迁移[44-45]，可用于治疗高甘油三酯血症等[46]。3种周期性饥饿再投喂模式下，虎斑乌贼幼体肌肉中 EPA、DHA 和 DPA 的含量与对照组相比均无显著差异，而在肝脏中，虎斑乌贼幼体的 EPA含量在 S1F6 组和 S2F5组与对照组相比差异不显著，但 S3F4组则显著低于对照组，但是肝脏DHA 和DPA含量3个周期性饥饿再投喂组与对照组相比均无显著差异。这表明，在饥饿1d再投喂6d和饥饿2d再投喂5d投喂模式下，饥饿胁迫没有对虎斑乌贼幼体中的重要营养成分产生显著影响，但在饥饿3d再投喂4d投喂模式下，饥饿胁迫会造成虎斑乌贼幼体的营养成分缺失。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 综上所述，S1F6组与S2F5组的虎斑乌贼幼体均出现了补偿生长，且肌肉常规营养成分没有发生显著变化。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\textcircled{2}$ 从节约成本、减少污染以及补充生长等方面综合来看，建议在虎斑乌贼幼体  \n的养殖过程中采用周期性饥饿2d再投喂5d的投喂模式。  \n参考文献：  \n[1]林学群.饥饿和再投喂对虹鳟生理参数的影响[J].汕头大学学报（自然科学版）,1998,13(2):51-57.  \n[2]区又君,刘泽伟.饥饿和再投喂对千年笛鲷幼鱼消化酶活性的影响[J].海洋学报(中文版),2007,29(1):86-91.  \n[3]乐可鑫,汪元,彭瑞冰,等.饥饿和再投喂对虎斑乌贼幼体存活、生长和消化酶活力的影响[J].应用生态学报,2016,27(6):2002-2008.  \n[4]高露姣,陈立侨,宋兵.饥饿和补偿生长对史氏鲟幼鱼摄食、生长和体成分的影响[J].水产学报,2004,28(3):279-284.  \n[5]WANG Y,LI C,QIN J G,et al.Cyclical feed deprivation and refeeding fails to enhancecompensatorygrowthinNiletilapia,OreochromisniloticusL.[J].AquacultureResearch,2009,40(2):204-210.  \n[6]房景辉,田相利,姜海滨,等.不同循环投喂模式对半滑舌鳎的生长、体成分组成、代谢和能量收支的影响[J].水产学报,2011,35(7):1090-1097.  \n[7]郑曙明,王燕妮,聂迎霞,等.虎鲨饥饿后的补偿生长及淀粉酶活性研究[J].华中农业大学学报,2003,22(5):483-487.  \n[8]HUANG G,WEI L,ZHANG X,et al.Compensatory growth of juvenile brown flounderParalichthys olivaceus (Temminck & Schlegel) following thermal manipulation[J].Journal ofFish Biol0gy,2008,72(10):2534-2542.  \n[9]EROLDOGAN ORHANTUFAN,TASBOZAN O,TABAKOGLU S.Effects 0f restrictedfeeding regimes on growth and feed utilization of juvenile gilthead sea bream,Sparusaurata[J].Journal of the World Aquaculture Society,2008,39(2):267-274.  \n[10]MACLEAN A,METCALFE N B.Social status,access to food,and compensatory growth injuvenile Atlantic salmon[J].Journal of Fish Biology,2001,58(5):1331-1346.  \n[11]BLANQUET I,OLIVA-TELES A.Effect of feed restriction on the growth performance of",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "327 turbot (Scophthalmus maximus L.) juveniles under commercial rearing   \n328 conditions[J].Aquaculture Research,2010,41(8):1255-1260. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[12]BOLASINA S,PEREZ A,YAMASHITA Y.Digestive enzymes activity during ontogeneticdevelopmentandeffectofstarvationinJapaneseflounder,Paralichthysolivaceus[J].Aquaculture,2006,252(2/3/4):503-515.  \n[13]李云,朱志强,ORTEGONO,等.短期饥饿和再投喂对岩原鲤仔鱼生存生长以及RNA/DNA 和RNA/蛋白质比率的影响(英文)[J].水生生物学报,2012,36(4):674-681.  \n[14]曾令清,彭韩柳依,王健伟,等.饥饿对南方鲇幼鱼游泳能力个体变异和重复性的影响[J].水生生物学报,2014,38(5):883-890.  \n[15]刘璐,吴立新,张伟光,等.饥饿及再投喂对日本囊对虾糖代谢的影响[J].应用生态学  \n报,2007,18(3):697-700.  \n[16]闫喜武,姚托,张跃环,等.冬季饥饿再投喂对菲律宾蛤仔生长、存活和生化组成的影响  \n[J].应用生态学报,2009,20(12):3063-3069.  \n[17]范帆,尹飞,彭士明,等.饥饿胁迫对曼氏无针乌贼幼体的影响[J].生态学杂志,2011,30(10):2262-2268.  \n[18]ALI M,NICIEZA A,WOOTTON R J.Compensatory growth in fishes:a response to growthdepression[J].Fish and Fisheries,2003,4(2):147-190.  \n[19]TURANO M J,BORSKI R J,DANIELS H V.Effects of cyclic feeding on compensatorygrowth of hybrid striped bass (Morone chrysops $\\times M .$ saxitilis) foodfish and water quality inproduction ponds[J].Aquaculture Research,2010,39(14):1514-1523.  \n[20]刘波,何庆国,唐永凯,等.饥饿胁迫对吉富罗非鱼生长及生理生化指标的影响[J].中国水产科学,2009,16(2):230-237.  \n[21]RIBEIRO F F,TSUZUKI M Y.Compensatory growth responses in juvenile fatsnook,CentropomusparallelusPoey,followingfooddeprivation[J].AquacultureResearch,2010,41(9):e226-e233.  \n[22]张涛,平洪领,史会来,等.周期性饥饿再投喂对曼氏无针乌贼(Sepiella japonica)幼体生长、体组成及氨基酸和脂肪酸的影响[J].海洋与湖沼,2017,48(1):190-197.  \n[23] 阿荣,吴立新,姜志强,等.周期性饥饿再投喂对大菱鲆幼鱼生长、生化组成和能量收支的影响[J].大连海洋大学学报,2013,28(5):462-467.  \n[24]KIM M K,LOVELL R T.Effect of restricted feeding regimens on compensatory weight gainandbodytissuechangesinchannelcatfishIctaluruspunctatusinponds[J].Aquaculture,1995,135(4):285-293.  \n[25]林小涛,周小壮,于赫男,等.饥饿对南美白对虾生化组成及补偿生长的影响[J].水产学报,2004,28(1):47-53.  \n[26]沈文英,林浩然,张为民.饥饿和再投喂对草鱼鱼种生物化学组成的影响[J].动物学报,1999,45(4):404–412.  \n[27]MEHNER T,WIESER W.Energetics and metabolic correlates of starvation in juvenile perch(Perca fluviatilis)[J].Journal of Fish Biology,2010,45(2):325-333.  \n[28方允中,杨胜,伍国耀.自由基稳衡性动态[J].生理科学进展,2004,35(3):199-204.  \n[29]蒋玫,黄世林,伦凤霞,等.微小亚历山大藻对黑鲷仔鱼的抗氧化酶和ATPase 的胁迫影响[J].海洋通报,2010,29(4):427-431.  \n[30]MEISTER A.Glutathionemetabolismanditsselective modification.[J].Journal ofBiological Chemistry,1988,263(33):17205-17208.  \n[31]付晶晶,黄燕华,曹俊明,等.五种植物蛋白源替代鱼粉对花鲈血清生化指标、转氨酶活性及抗氧化应激参数的影响[J].湖北农业科学,2015,54(20):5087-5091,5095.  \n[32]周显青,梁洪蒙.拥挤胁迫下小鼠肝脏脂质过氧化物含量和抗氧化物酶活性的变化[J].动物学研究,2003,24(3):238-240.  \n[33]乔秋实.周期性饥饿再投喂对团头鲂和建鲤生长性能、体组成、消化酶及抗氧化酶的影响[D].硕士学位论文.南京:南京农业大学,2011:34-35.  \n[34] 李志华,谢松,王军霞,等.间歇性饥饿对日本沼虾生长和几种消化酶的影响[J].水产学报,2007,31(4):456-462.  \n[35] 薛明,柯才焕,魏永杰.饥饿对方斑东风螺幼螺生化组成和消化酶活力的影响[J].热带海洋学报,2010,29(3):120-125.  \n[36]钱国英.不同驯食方式对鳜鱼胃肠道消化酶活性的影响[J].浙江大学学报（农业与生命科学版）,1998,24(2):207-210.  \n[37]钱云霞.饥饿对养殖鲈蛋白酶活力的影响[J].水产科学,2002,21(3):6-7.  \n[38]李霞,姜志强,谭晓珍,等.饥饿和再投喂对美国红鱼消化器官组织学的影响[J].中国水产科学,2002,9(3):211-214,294.  \n[39]柳敏海,罗海忠,傅荣兵,等.短期饥饿胁迫对鲍鱼生化组成、脂肪酸和氨基酸组成的影响[J].水生生物学报,2009,33(2):230-235.  \n[40]谭肖英,罗智,王为民,等.饥饿对小规格斑点叉尾体重及鱼体生化组成的影响[J].水生",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "生物学报,2009,33(1):39-45.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[41]马珊,姜海波,姚俊杰.短期饥饿对大鳍生化组成、氨基酸和脂肪酸组成的影响[J].水生 态学杂志,2010,3(2):61-65.   \n[42]谢小军,邓利,张波.饥饿对鱼类生理生态学影响的研究进展[J].水生生物学 报,1998,22(2):181-188.   \n[43]李妍,王静,李麒龙,等.EPA与DHA 最新研究进展[J].农产品加工(学刊),2013(2):6-13.   \n[44] AKIBA S,MURATA T,KITATANI K,et al.Involvement of lipoxygenase pathway in docosapentaenoicacid-induced inhibition ofplateletaggregation[J].Biologicaland Pharmaceutical Bulletin,2000,23(11):1293-1297.   \n[45] TSUJI M,MUROTA SI,MORITA I.Docosapentaenoic acid(22:5,n-3)suppressed tube-forming activity in endothelial cels induced by vascular endothelial growth factor[J].Prostaglandins Leukotrienes & Essential Fatty Acids,2003,68(5):337-342.   \n[46] BYELASHOV O A,SINCLAIR A J,KAUR G.Dietary sources,current intakes,and nutritional role of omega-3docosapentaenoic acid[J].Lipid Technology,2015,27(4):79-82. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Effects of Periodical Starvation-Refeeding on Growth Performance,Antioxidant Indices, Digestive Enzyme Activities,Amino Acid Composition and Fatty Acids of Juvenile Sepia pharaoni ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LI Chenchen ZHU Tingting LU You LUO Jiaxiang JIN Min YUAN Ye ZHOU Qicun\\* (Laboratory ofFish Nutrition,School ofMarine Sciences, Ningbo University, Ningbo 315211, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A 14-day feeding trial was conducted to evaluate the effects of periodical starvation-refeeding on growth performance, antioxidant indices, digestive enzyme activities, amino acid composition and fatty acids of juvenile Sepia pharaoni. A total of 36O juvenile Sepia pharaoni with an initial body weight of $( 6 . 8 3 { \\scriptstyle \\pm 0 . 0 1 } )$ g were randomly divided into 4 groups ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Win ə replicates per group and su sepia pnaraont ior eacn replicate. in ine experiment, lour different repetitive cycles of starvation-refeeding modes were used,they were starvation 1 day and refeeding 6 days (S1F6), starvation 2 days and refeeding 5 days (S2F5), starvation 3 days and refeeding 4 days (S3F4) and continuous feeding (control group). Results showed as follows: 1) the weight gain ratio (WGR)， specific growth rate (SGR) and survival ratio were significantly affected by diferent starvation time，and above three indicators of the S3F4 group were significantly lower than control group $( P { < } 0 . 0 5 )$ , but those had no significant differences among the control group, S1F6 group and S2F5 group ( $_ { ( P > 0 . 0 5 ) }$ .2）No significant differences in the moisture, crude protein and crude lipid contents in muscle among groups $( P { > } 0 . 0 5 )$ . 3）Hepatic superoxide dismutase (SOD） activity was significantly affected by different starvation time （204 $_ { ( P < 0 . 0 5 ) }$ ， and its highest value was found in S2F5 group. Hepatic glutathione peroxidase (GSH-Px) activity and the contents of glutathione (GSH) and malondialdehyde (MDA) were not significantly affected by different starvation time $( P { > } 0 . 0 5 )$ . 4) Hepatic amylase (AMS） and lipase (LPS) activities were affected by different starvation time ( $_ { ( P < 0 . 0 5 ) }$ ).With the starvation time prolong, the hepatic AMS activity was decreased at first and then increased,and the lowest value was found in S1F6 group; while the hepatic LPS was increased at first, next decreased and then increased, and the lowest value was found in S2F5 group. 5) Seventeen kinds of amino acids were detected in muscle of juvenile Sepia pharaoni, and the contents of 10 kinds of essential amino acids and 7 kinds of non-essential amino acids，total amino acids (TAA), total essential amino acids (TEAA） and TEAA/TAA were not significantly affected by different starvation time $( P { > } 0 . 0 5 )$ .6） The contents of saturated fatty acids (SFA), monounsaturated fatty acids (MUFA), polyunsaturated fatty acids (PUFA） in liver and muscle were not significantly diferent among groups $( P { > } 0 . 0 5 )$ ， and the content of C20:5n-3 (EPA), C22:5n-3 (DPA) and C22:6n-3（DHA） in muscle,and the content of DPA and DHA in liver were also significantly diferent among groups $( P { > } 0 . 0 5 )$ , but the hepatic EPA and n-3 PUFA contents in S3F4 group was significantly lower than that in control group $( P { < } 0 . 0 5 )$ . In conclusion，compensatory growth is observed in the juvenile Sepia pharaoni of S1F6 and S2F5 group,and the muscle conventional nutrients have no significantly changes. Synthesizes the cost saving,reduce pollution and compensatory growth, we that the feeding mode of periodical starvation 2 days and refeeding 5 days can be suggested ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "to use in juvenile Sepia pharaoni culture.   \nKey words: juvenile Sepia pharaoni; starvation-refeeding; conventional nutrients; digestive enzyme activities;amino acids；fatty acids ",
+        "page_idx": 20
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "type": "text",
+        "text": "Microwave-induced $\\pi$ -junction transition in a superconductor / quantum-dot / superconductor structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yu Zhu, Wei Li, and Tsung-han Lin\\*   \nState Key Laboratory for Mesoscopic Physics and   \nDepartment of Physics, Peking University, Beijing, 100871， China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qing-feng Sun ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Center for the Physics of Materials and Department of Physics， McGill University， Montreal, PQ, Canada H3A 2T8 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using the nonequilibrium Green function,we show that microwave irradiation can reverse the supercurrent flowing through a superconductor $/$ quantum dot / superconductor structure. In contrast with the conventional sideband effect in normal-metal / quantum-dot / normal-metal junctions, the photonassisted structures appear near $\\begin{array} { r } { E _ { 0 } = \\frac { \\pi } { 2 } \\hbar \\omega } \\end{array}$ ( $n = \\pm 1 , \\pm 2 \\cdots _ { , }$ )，where $E _ { 0 }$ is the resonant energy level of the quantum dot and $\\omega$ is the frequency of microwave field. Each photon-assisted structure is composed of a negative and a positive peak, with an abrupt jump from the negative peak to the positive peak around $\\begin{array} { r } { E _ { 0 } = \\frac { n } { 2 } \\hbar \\omega } \\end{array}$ . The microwave-induced $\\pi$ -junction transition is interpreted in the picture of photon-assisted Andreev bound states, which are formed due to multiple photon-assisted Andreev reflection between the two superconductors. Moreover, the main resonance located at $E _ { 0 } = 0$ can also be reversed with proper microwave strength and frequency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 74.50.+r, 73.63.Kv, 72.23.Ad. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When two superconductors are weakly linked, dc current can flow even without bias voltage. The driven force of the supercurrent is the phase gradient in the macroscopic wave function of Cooper pair condensate. The supercurrent and the phase difference across the junction has the relation $I = I _ { c } \\sin \\phi$ ，with $I _ { c } > 0$ being the critical supercurrent. If the link area of the junction is controlled by some external conditions, $I _ { c }$ may be enhanced , suppressed, or even reversed. The reverse sign of $I _ { c }$ is referred as to $\\pi$ -junction transition, since the minus sign can be absorbed into $\\phi$ as an internal phase shift of $\\pi$ . The ground state of $\\pi$ -junction is $\\phi = \\pi$ rather than $\\phi = 0$ as in usual O-junction. This is easily seen from the relation $\\begin{array} { r } { I = \\frac { 2 e } { \\hbar } \\frac { \\partial F ^ { \\prime } } { \\partial \\phi } } \\end{array}$ and therefore $\\begin{array} { r } { F = - \\frac { \\hbar } { 2 e } I _ { c } \\cos \\phi + F _ { 0 } } \\end{array}$ ,where $F ^ { \\prime }$ is the free energy of the junction. The studies of $\\pi$ -junction have not only academic interests, but also potential applications, e.g., realization of qubit in a superconducting loop with O- and $\\pi$ - junctions [1]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to the intrinsic $\\pi$ phase shift in the order parameter of high T superconduc$c$   \ntors due to the d-wave symmetry [2], several mechanisms were also proposed and investigated for carrying out $\\pi$ -junction with the conventional BCS superconductors. (1） Coupling two superconductors through a ferromagnetic layer: The idea can be traced back to the original works of Fulde and Ferrel [3] and Larkin and Ovchinnikov [4], who independently predicted that superconducting order parameter can be modulated by an exchange field, and contains nodes where the internal phase shift is $\\pi$ . With the growing interests in the hybrid system of superconducting / ferromagnetic (S/F） materials, $\\pi$ -junction behavior in SFS sandwiches and SF superlattices were intensively studied [5-8]. Very recently, experiments on Josephson junction inserted with a weakly ferromagnetic interlayer did observe the $\\pi$ -junction transition [9]. (2) Coupling two superconductors by an Anderson impurity or a quantum dot: The early papers of Glazman and Matveev [10] and Spivak and Kivelson [11] showed that when the impurity is singly occupied due to Coulomb repulsion, the sign of Josephson current is opposite to that without the repulsion.. In the last decade,a number of theoretical papers were devoted to this issue [12-15]. Experimentally, the technique of fabricating Josephson junctions containing nanoparticles was available [16], yet no relevant results on （20 $\\pi$ -junction transition was reported. (3) Introducing a nonequilibrium distribution in the central mesoscopic region: In a mesoscopic superconductor / normal-metal / superconductor (SNS) structure,the quasiparticle distribution can be driven far from the equilibrium by a ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "control voltage across the N region. When the control voltage exceeds a certain value, the nonequilibrium distribution has so much weight on the negative part of the current carrying density of states that the supercurrent reverses its sign. After a few years of the prediction [17-20], the reverse of the supercurrent was successfully observed in a controllable Josephson junction [21]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we propose a new mechanism for the realization of $\\pi$ -junction, schematically shown in the inset of Fig.1. Consider a Josephson junction consist of two BCS superconductors (S) coupled through a quantum dot (QD). Applying a microwave (MW） on the QD,the resonant energy level of QD will shift adiabatically with the time dependent external field. We shall show below that $\\pi$ -junction transition occurs in the photon-assisted Josephson current, and the main resonance can also be reversed by a proper choice of MW strength and frequency. The MW-induced $\\pi$ -junction transition is related to the formation of photon-assisted Andreev bound states (PAABS)，which is a generalization of the usual Andreev bound states (ABS). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We model the S-QD-S system by the following Hamiltonian, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = H _ { L } + H _ { D } + H _ { R } + H _ { T } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r l r } { H _ { \\beta } } & { = } & { \\sum _ { k \\sigma } \\epsilon _ { \\beta k } a _ { \\beta k \\sigma } ^ { \\dagger } a _ { \\beta k \\sigma } + \\sum _ { k } \\left\\lfloor \\Delta e ^ { - \\mathrm { i } \\phi _ { \\beta } } a _ { \\beta k \\uparrow } ^ { \\dagger } a _ { \\beta \\bar { k } \\downarrow } ^ { \\dagger } + H . c . \\right\\rfloor } \\end{array}$ with $\\beta ~ = ~ L ~ / ~ R$ is the standard BCS Hamiltonian for the left $/$ right superconducting electrode; $H _ { D } = ( E _ { 0 } +$ （204号 $\\begin{array} { r } { W \\cos \\omega t ) \\sum _ { \\sigma } c _ { \\sigma } ^ { \\dagger } c _ { \\sigma } } \\end{array}$ is for the QD under MW irradiation, in which the intradot interaction is ignored for simplicity [22], and $\\begin{array} { r } { H _ { T } = \\sum _ { \\beta k \\sigma } ( v _ { \\beta } a _ { \\beta k \\sigma } ^ { \\dagger } c _ { \\sigma } + H . c . ) } \\end{array}$ is the tunnel Hamiltonian , connecting the three parts together. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The time dependent current flowing through S-QD-S can be formulated using the nonequilibrium Green function [23], ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\beta } ( t ) = \\frac { e } { \\hbar } 2 \\operatorname { R e } \\left\\{ T r \\sigma _ { z } \\int d t _ { 1 } \\left[ G ^ { r } ( t , t _ { 1 } ) \\Sigma _ { \\beta } ^ { < } ( t _ { 1 } , t ) + G ^ { < } ( t , t _ { 1 } ) \\Sigma _ { \\beta } ^ { a } ( t _ { 1 } , t ) \\right] \\right\\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in which the full Green function of QD and the self energy induced by the coupling with $\\beta$ （20 electrode are defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { G ^ { r , a , < } ( t _ { 1 } , t _ { 2 } ) \\equiv \\left( \\begin{array} { l } { \\langle \\langle c _ { \\uparrow } ( t _ { 1 } ) | c _ { \\uparrow } ^ { \\dagger } ( t _ { 2 } ) \\} \\rangle \\rangle \\langle \\langle c _ { \\uparrow } ( t _ { 1 } ) | c _ { \\downarrow } ( t _ { 2 } ) \\} \\rangle \\rangle } \\\\ { \\langle \\langle c _ { \\downarrow } ^ { \\dagger } ( t _ { 1 } ) | c _ { \\uparrow } ^ { \\dagger } ( t _ { 2 } ) \\} \\rangle \\rangle \\langle \\langle c _ { \\downarrow } ^ { \\dagger } ( t _ { 1 } ) | c _ { \\downarrow } ( t _ { 2 } ) \\} \\rangle \\rangle } \\end{array} \\right) } & { , } \\\\ { \\Sigma _ { \\beta } ^ { r , a , < } ( t _ { 1 } , t _ { 2 } ) \\equiv \\sum _ { k } \\left( \\begin{array} { l l } { v _ { \\beta } ^ { * } } & { 0 } \\\\ { 0 } & { - v _ { \\beta } } \\end{array} \\right) g _ { \\beta k } ^ { r , a , < } ( t _ { 1 } , t _ { 2 } ) \\left( \\begin{array} { l l } { v _ { \\beta } } & { 0 } \\\\ { 0 } & { - v _ { \\beta } ^ { * } } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { \\beta k } ^ { r , a , < } ( t _ { 1 } , t _ { 2 } ) \\equiv \\left( \\begin{array} { c } { { \\langle \\langle a _ { \\beta k \\uparrow } ( t _ { 1 } ) | a _ { \\beta k \\uparrow } ^ { \\dagger } ( t _ { 2 } ) \\rangle \\rangle _ { 0 } \\langle \\langle a _ { \\beta k \\uparrow } ( t _ { 1 } ) | a _ { \\beta \\bar { k } \\downarrow } ( t _ { 2 } ) \\rangle \\rangle _ { 0 } } } \\\\ { { \\langle \\langle a _ { \\beta \\bar { k } \\downarrow } ^ { \\dagger } ( t _ { 1 } ) | a _ { \\beta k \\uparrow } ^ { \\dagger } ( t _ { 2 } ) \\rangle \\rangle _ { 0 } \\langle \\langle a _ { \\beta \\bar { k } \\downarrow } ^ { \\dagger } ( t _ { 1 } ) | a _ { \\beta \\bar { k } \\downarrow } ( t _ { 2 } ) \\rangle \\rangle _ { 0 } } } \\end{array} \\right) ^ { r , a , < }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and $\\sigma _ { z }$ in Eq.(2) is the third Pauli matrix,with the diagonal element $+ 1$ for the electron current (spin↑） and -1 for the hole current (spin↓). $G ^ { r }$ and $G ^ { < }$ obey the corresponding Dyson equation and Keldysh equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle G ^ { r } ( t _ { 1 } , t _ { 2 } ) = g ^ { r } ( t _ { 1 } , t _ { 2 } ) + \\int \\int d t d t ^ { ' } g ^ { r } ( t _ { 1 } , t ) \\Sigma ^ { r } ( t , t ^ { ' } ) G ^ { r } ( t ^ { ' } , t _ { 2 } ) ~ , } } \\\\ { { \\displaystyle G ^ { < } ( t _ { 1 } , t _ { 2 } ) = \\int \\int d t d t ^ { ' } G ^ { r } ( t _ { 1 } , t ) \\Sigma ^ { < } ( t , t ^ { ' } ) G ^ { a } ( t ^ { ' } , t _ { 2 } ) ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The remaining task is to solve these equations properly. It should be pointed out that finite perturbation expansion of Eq.(6) is inadequate in the problem， because the formation of PAABS involves up to infinite order of tunneling processes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although $G ^ { r } ( t _ { 1 } , t _ { 2 } )$ is no longer the function of $t _ { 1 } - t _ { 2 }$ , it still holds that $\\begin{array} { r } { G ^ { r } ( t _ { 1 } + \\frac { 2 \\pi } { \\omega } , t _ { 2 } + } \\end{array}$ （204号 $\\begin{array} { r } { \\frac { 2 \\pi } { \\omega } ) = G ^ { r } ( t _ { 1 } , t _ { 2 } ) } \\end{array}$ due to the periodical time dependence of the MW. Hence $G ^ { r } ( t _ { 1 } , t _ { 2 } )$ can be Fourier expanded as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ^ { r } ( t _ { 1 } , t _ { 2 } ) = \\sum _ { l } e ^ { \\mathrm { i } l \\omega t _ { 1 } } \\int \\frac { d \\epsilon } { 2 \\pi } e ^ { - \\mathrm { i } \\epsilon ( t _ { 1 } - t _ { 2 } ) } \\tilde { G } _ { l } ^ { r } ( \\epsilon ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Define the Fourier transformed Green function ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf G } _ { m n } ^ { r } ( \\epsilon ) = \\tilde { G } _ { m - n } ^ { r } ( \\epsilon - n \\omega ) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which has the property that if $\\begin{array} { r l r } { C ( t _ { 1 } , t _ { 2 } ) } & { { } = } & { \\int d t A ( t _ { 1 } , t ) B ( t , t _ { 2 } ) } \\end{array}$ then $\\begin{array} { r l } { \\mathbf { C } _ { m n } ( \\epsilon ) } & { { } = } \\end{array}$ $\\begin{array} { r } { \\sum _ { k } \\mathbf { A } _ { m k } ( \\epsilon ) \\mathbf { B } _ { k n } ( \\epsilon ) } \\end{array}$ . The Fourier transformed $\\mathbf { g } ^ { \\scriptscriptstyle \\prime }$ and $ { \\Sigma } ^ { r , < }$ can be obtained as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathbf { g } _ { m n } ^ { r } ( \\epsilon ) = \\left( \\begin{array} { c c } { \\sum _ { l } J _ { l - m } ( \\alpha ) \\frac { 1 } { \\epsilon - l \\omega - E _ { 0 } + i 0 ^ { + } } J _ { l - n } ( \\alpha ) } & { 0 } \\\\ { 0 } & { \\sum _ { l ^ { \\prime } } J _ { m - l ^ { \\prime } } ( \\alpha ) \\frac { 1 } { \\epsilon - l ^ { \\prime } \\omega + E _ { 0 } + i 0 ^ { + } } J _ { n - l ^ { \\prime } } ( \\alpha ) } \\end{array} \\right) } \\\\ & { \\Sigma _ { m n } ^ { r , < } ( \\epsilon ) = \\Sigma ^ { r , < } ( \\epsilon - m \\omega ) \\delta _ { m n } \\enspace , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "in which $J _ { n } ( \\alpha )$ is the nth Bessel function with the argument $\\begin{array} { r } { \\alpha \\equiv \\frac { W } { \\hbar \\omega } } \\end{array}$ ， $\\Sigma ^ { < } ( \\epsilon ) = f ( \\epsilon ) [ \\Sigma ^ { a } ( \\epsilon ) -$ （204号 $\\Sigma ^ { r } ( \\epsilon ) ]$ with $f ( \\epsilon )$ being the Fermi function, and $\\Sigma ^ { r } ( \\epsilon ) = \\Sigma _ { L } ^ { r } ( \\epsilon ) + \\Sigma _ { R } ^ { r } ( \\epsilon )$ with ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Sigma _ { \\beta } ^ { r } ( \\epsilon ) = - \\frac { \\mathrm { i } } { 2 } \\Gamma _ { \\beta } \\frac { \\epsilon + \\mathrm { i } \\eta } { \\sqrt { ( \\epsilon + \\mathrm { i } \\eta ) ^ { 2 } - \\Delta ^ { 2 } } } \\left( \\begin{array} { c } { { 1 \\frac { - \\Delta } { \\epsilon + \\mathrm { i } \\eta } e ^ { - \\mathrm { i } \\phi _ { \\beta } } } } \\\\ { { \\frac { - \\Delta } { \\epsilon + \\mathrm { i } \\eta } e ^ { + \\mathrm { i } \\phi _ { \\beta } } 1 } } \\end{array} \\right) \\qquad ( \\mathrm { I m } \\sqrt { x } > 0 ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the self energy, $1 _ { \\beta }$ is the coupling strength between QD and $\\beta$ electrode,in is the dephasing rate in the S electrodes which determines the broadening of PAABS.In the numerical calculation, the limit $\\eta  0 ^ { + }$ is achieved by extrapolation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Fourier transformed Dyson equation can be expanded as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { G } ^ { r } ( \\epsilon ) = \\mathbf { g } ^ { r } ( \\epsilon ) + \\mathbf { g } ^ { r } ( \\epsilon ) \\Sigma ^ { r } ( \\epsilon ) \\mathbf { g } ^ { r } ( \\epsilon ) + \\mathbf { g } ^ { r } ( \\epsilon ) \\Sigma ^ { r } ( \\epsilon ) \\mathbf { g } ^ { r } ( \\epsilon ) \\Sigma ^ { r } ( \\epsilon ) \\mathbf { g } ^ { r } ( \\epsilon ) + \\cdot \\cdot \\cdot .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To re-sum up the series, we adopt the resonant approximation: [24] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle \\frac { 1 } { ( \\epsilon - l _ { 1 } \\omega - E _ { 0 } + \\mathrm { i } 0 ^ { + } ) } \\cdot \\frac { 1 } { ( \\epsilon - l _ { 2 } \\omega - E _ { 0 } + \\mathrm { i } 0 ^ { + } ) } \\approx \\delta _ { l _ { 1 } l _ { 2 } } \\frac { 1 } { ( \\epsilon - l _ { 1 } \\omega - E _ { 0 } + \\mathrm { i } 0 ^ { + } ) ^ { 2 } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which is justified for the weak coupling case of $\\Gamma _ { \\beta } \\ll \\omega$ .Under this approximation，the Dyson equation can be exactly solved as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { G } _ { m n } ^ { r } ( \\epsilon ) = \\sum _ { l l ^ { \\prime } } \\left( \\begin{array} { c c } { J _ { l - m } ( \\alpha ) } & { 0 } \\\\ { 0 } & { J _ { m - l ^ { \\prime } } ( \\alpha ) } \\end{array} \\right) \\tilde { G } _ { l l ^ { \\prime } } ^ { r } ( \\epsilon ) \\left( \\begin{array} { c c } { J _ { l - n } ( \\alpha ) } & { 0 } \\\\ { 0 } & { J _ { n - l ^ { \\prime } } ( \\alpha ) } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\tilde { G } _ { \\mu } ^ { \\nu } ( \\epsilon ) = \\left[ \\left( \\partial _ { \\mu } ^ { \\nu } ( \\epsilon ) \\right) ^ { - 1 } - \\Sigma _ { \\mathtt { M } } ^ { \\nu } ( \\epsilon ) \\right] ^ { - 1 } + \\left( - 1 + \\delta _ { \\mu } \\nu _ { * } \\right) \\left[ \\left( \\partial _ { \\mu } ^ { \\nu } ( \\epsilon ) \\right) ^ { - 1 } - \\tilde { \\Sigma } _ { \\mathtt { M } } ^ { \\nu } ( \\epsilon ) \\right] ^ { - 1 } : } } \\\\ { { \\displaystyle \\qquad \\tilde { g } _ { \\mu } ^ { \\nu } ( \\epsilon ) = \\left( \\begin{array} { c c } { { \\displaystyle \\frac { 1 } { \\epsilon - \\delta - \\alpha - \\alpha } } } & { { 0 } } \\\\ { { 0 } } & { { \\displaystyle \\frac { 1 } { \\epsilon - \\delta - \\alpha - \\delta _ { \\mu + \\mu + \\sigma } } } } \\end{array} \\right) } } \\\\ { { \\displaystyle \\qquad \\Sigma _ { \\mathtt { M } } ^ { \\nu } ( \\epsilon ) = - \\sum _ { k } \\left( \\begin{array} { c c } { { \\displaystyle \\ J _ { k - k } ( \\alpha ) } } & { { 0 } } \\\\ { { 0 } } & { { \\displaystyle J _ { k } \\ \\prime ( \\alpha ) } } \\end{array} \\right) \\Sigma ^ { \\nu } ( \\epsilon - k w ) \\left( \\begin{array} { c c } { { \\displaystyle J _ { k - k } ( \\alpha ) } } & { { 0 } } \\\\ { { 0 } } & { { \\displaystyle J _ { k - \\ell } ( \\alpha ) } } \\end{array} \\right) } } \\\\ { { \\displaystyle \\qquad \\tilde { \\Sigma } _ { \\mathtt { M } } ^ { \\nu } ( \\epsilon ) = \\left( \\begin{array} { c c } { { \\displaystyle \\Sigma _ { \\mathtt { M } } ^ { \\nu } ( \\epsilon ) } } & { { 0 } } \\\\ { { 0 } } & { { \\displaystyle \\Sigma _ { \\mathtt { M } } ^ { \\nu } ( \\epsilon ) } } \\end{array} \\right) } } \\end{array} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The time dependent current is Fourier transformed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle I _ { \\beta } ( t ) = \\frac { e } { \\hbar } \\sum _ { l } e ^ { \\mathrm { i } l \\omega t } I _ { \\beta } ^ { ( l ) } ~ , } } \\\\ { { \\displaystyle I _ { \\beta } ^ { ( l ) } = \\frac { e } { \\hbar } \\int \\frac { d \\epsilon } { 2 \\pi } 2 \\mathrm { R e } ~ T r ~ \\sigma _ { z } \\left[ \\mathbf { G } ^ { r } ( \\epsilon ) \\Sigma _ { \\beta } ^ { < } ( \\epsilon ) + \\mathbf { G } ^ { < } ( \\epsilon ) \\Sigma _ { \\beta } ^ { a } ( \\epsilon ) \\right] _ { l 0 } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the relations ${ \\bf G } ^ { < } ( \\epsilon ) = { \\bf G } ^ { r } ( \\epsilon ) \\Sigma ^ { < } ( \\epsilon ) { \\bf G } ^ { a } ( \\epsilon )$ ， $\\mathbf { G } ^ { a } ( \\epsilon ) \\ = \\ [ \\mathbf { G } ^ { r } ( \\epsilon ) ] ^ { \\dagger }$ ，and $\\mathbf { G } ^ { r } ( \\epsilon )$ solved in Eq.(16)， the current can be evaluated. In this work, we concentrate on the time averaged current $\\bar { I } \\equiv I _ { L } ^ { ( 0 ) } = - I _ { R } ^ { ( 0 ) }$ Notice that $\\bar { I } = \\left( \\Gamma _ { R } I _ { L } ^ { ( 0 ) } - \\Gamma _ { L } I _ { R } ^ { ( 0 ) } \\right) / \\left( \\Gamma _ { L } + \\Gamma _ { R } \\right)$ and define $\\Sigma \\ = \\ \\left( \\Gamma _ { R } \\Sigma _ { L } - \\Gamma _ { L } \\Sigma _ { R } \\right) / \\left( \\Gamma _ { L } + \\Gamma _ { R } \\right)$ . Again， we adopt the resonant approximation in ${ \\bf G } ^ { < } ( \\epsilon ) = { \\bf G } ^ { r } ( \\epsilon ) \\Sigma ^ { < } ( \\epsilon ) { \\bf G } ^ { a } ( \\epsilon )$ , and the current formula is simplified as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { I } = { \\frac { e } { \\hbar } } \\int { \\frac { d \\epsilon } { 2 \\pi } } \\sum _ { l l ^ { \\prime } } J _ { l } ( \\alpha ) J _ { - l ^ { \\prime } } ( \\alpha ) 2 \\mathrm { R e } T r \\sigma _ { z } \\left[ G _ { l l ^ { \\prime } } ^ { r } ( \\epsilon ) \\bar { \\Sigma } ^ { < } ( \\epsilon ) + G _ { l l ^ { \\prime } } ^ { < } ( \\epsilon ) \\bar { \\Sigma } ^ { a } ( \\epsilon ) \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $G _ { l l ^ { \\prime } } ^ { r } ( \\epsilon ) = \\left[ \\left( g _ { l l ^ { \\prime } } ^ { r } ( \\epsilon ) \\right) ^ { - 1 } - \\Sigma _ { l l ^ { \\prime } } ^ { r } ( \\epsilon ) \\right] ^ { - 1 }$ and $G _ { l l ^ { \\prime } } ^ { < } ( \\epsilon ) = G _ { l l ^ { \\prime } } ^ { r } ( \\epsilon ) \\Sigma _ { l l ^ { \\prime } } ^ { < } ( \\epsilon ) G _ { l l ^ { \\prime } } ^ { a } ( \\epsilon )$ . One can see in the formula that $I$ is contributed by various photon-assisted Andreev reflections,in which an electron absorbs $l$ photons and a hole emits $l ^ { ' }$ photons. Eq.(23) is the central result of this paper. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Below we shall numerically study the influence of the MW field on the Josephson current flowing through S-QD-S. In the calculation, we set $e = \\hbar = 1$ ， take $k _ { B } T = 0$ ， and choose （204号 $\\Delta = 1$ as the energy scale. In a qualitative discussion, we regard $\\begin{array} { r } { I _ { c } \\equiv I ( \\phi = \\frac { \\pi } { 2 } ) } \\end{array}$ as the critical supercurrent, and use the sign of $I _ { c }$ as the criterion of the O-junction vs the $\\pi$ -junction. Fig.1 shows the curves of the critical supercurrent $I _ { c }$ vs the resonant energy level $E _ { 0 }$ ， for different MW strengths. There are two remarkable features in the plot: (1） With the increase of MW strength, the main resonance located at $E _ { 0 } = 0$ is gradually suppressed, while several photon-assisted tunneling structures grow up around $E _ { 0 } = { \\textstyle \\frac { 1 } { 2 } } n \\hbar \\omega$ ( $n = \\pm 1 , \\pm 2 \\cdots$ ). (2)Each of the structures contains a negative and a positive peak,and $I _ { c }$ reverses its sign abruptly near $E _ { 0 } = { \\textstyle { \\frac { 1 } { 2 } } } n \\hbar \\omega$ . Meanwhile, the magnitudes of these structures exhibit a non-monotonous dependence on the MW strength. Feature (1） is quite different from the sideband effect in N-QD-N, where photon-assisted peaks appear near $E _ { 0 } ~ = ~ n \\hbar \\omega$ . In N-QD-S junctions, however， photon-assisted peaks also appear near $E _ { 0 } ~ = ~ { \\textstyle { \\frac { 1 } { 2 } } } n \\hbar \\omega$ ，which can be explained in the picture of photon-assisted Andreev reflection (PAAR) [24]. Basically, feature (1） can be understood in the similar way as in N-QD-S, but should be noticed that in S-QD-S the photon-assisted electrons and holes undergo up to infinite order of PAAR processes, so that PAABS are formed in the QD (schematically shown in the inset of Fig.1). Feature (2) is dramatically distinguished from those in either N-QD-N or N-QD-S, indicating that MW irradiation can lead to $\\pi$ -junction transition in the photon-assisted current through S-QD-S. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To understand the feature (2） requires the knowledge of PAABS . For this purpose, the time averaged current is rewritten in the form $\\begin{array} { r } { \\bar { I } ~ = ~ \\frac { e } { \\hbar } \\int \\frac { d \\epsilon } { 2 \\pi } f ( \\epsilon ) j ( \\epsilon ) } \\end{array}$ .The analysis of the current carrying spectrum $j ( \\epsilon )$ provides the information of the supercurrent carried by each of the PAABS. Fig.2 illustrates the spectrum of $j ( \\epsilon )$ for MW strength $\\alpha = 0 . 6$ ，with $E _ { 0 } = 0$ ，0.05，0.10，0.15，0.20. For comparison， the spectrum of $E _ { 0 } = 0$ and $E _ { 0 } = 0 . 2$ （204 without MW irradiation are also shown on top of Fig.2. Without MW irradiation， the spectrum of S-QD-S has two ABS within the superconducting gap, located near $\\epsilon = \\pm E _ { 0 }$ ， carrying supercurrent with opposite signs. The spectrum also has continuous parts outside the superconducting gap, negative for $\\omega < - \\Delta$ and positive for $\\omega > \\Delta$ . Turning on the MW, the original two ABS split into two sets of PAABS, due to various photon-assisted processes. The PAABS marked with $\\mathrm { A } _ { n }$ locate near $\\epsilon = E _ { 0 } ^ { \\prime } + n \\omega$ , carrying supercurrent with positive signs;while those marked with $\\mathrm { B } _ { n }$ locate near $\\epsilon = - E _ { 0 } + n \\omega$ ， carrying supercurrent with negative signs. On the contrast， MW has negligible effect on the continuous spectrum, because the contribution from these parts depends strongly on the density of states in the S electrodes and hence photon-assisted processes is largely suppressed. Notice that at zero temperature $I$ is contributed by the spectrum in the range of $\\epsilon < 0$ For $E _ { 0 } = 0$ (Fig.2a), the states $\\mathrm { A } _ { n }$ and $\\mathrm { B } _ { n }$ are energy degenerate, carrying opposite supercurrent weighted by a distribution factor $J _ { n } ^ { 2 } ( \\alpha )$ ， similar to the sideband in N-QD-N. The contributions from A $- 1$ （204 and B $- 1$ ， $\\mathrm { A } _ { - 2 }$ and $\\mathrm { B } _ { - 2 }$ ，etc. cancel with each other exactly, and the positive contribution from $\\mathrm { A } _ { 0 }$ overwhelms the negative contribution from $\\mathrm { C ^ { - } }$ , resulting in a positive current. With the change of the resonant energy level $E _ { 0 }$ ， $\\mathrm { A } _ { n }$ and B $n$ move toward $- \\Delta$ and $+ \\Delta$ , respectively. For $\\begin{array} { r } { E _ { 0 } = \\frac { 1 } { 2 } \\hbar \\omega } \\end{array}$ (Fig.2d), the states $\\mathrm { A } _ { n }$ and $\\mathrm { B } _ { n - 1 }$ are energy degenerate, and therefore strongly hybridized with each other. So the weight of $\\mathrm { A } _ { n }$ and $\\mathrm { B } _ { n - 1 }$ are re-distributed, such that they carry the same amount of supercurrent with opposite signs. The contributions from A $_ 0$ （20 and B $^ { - 1 }$ ， $\\mathrm { A } _ { - 1 }$ and $\\mathrm { B } _ { - 2 }$ , etc.cancel with each other exactly, leaving the negative continuous spectrum $\\mathrm { C ^ { - } }$ contribute to the supercurrent. This is the origin of the $\\pi$ -junction transition in the photon-assisted supercurrent. Further investigation shows that the evolution of PAABS from (a) to (d) is more complex than stated above. In fact, the hybridization of $\\mathrm { A } _ { n }$ and $\\mathrm { B } _ { n - 1 }$ （204号 already occurs before the energy degeneracy (see Fig.2d and its inset). The hybridizing of PAABS obeys the following rule: when two states $\\mathrm { A } _ { i }$ and $\\mathrm { B } _ { j }$ approaches each other, they \"interact” with each other only if the energy of $\\mathrm { A } _ { i }$ is higher than that of $\\mathrm { B } _ { j }$ . With this rule, the abrupt sign change in the current near $\\begin{array} { r } { E _ { 0 } = \\frac { 1 } { 2 } \\hbar \\omega } \\end{array}$ is readily understood. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the above, we have shown that MW irradiation can reverse the sign of photon-assisted Josephson current. We are still curious whether the main resonance located at $E _ { 0 } = 0$ can also be reversed. In the case of $E _ { 0 } = 0$ , the current formula is further simplified since ${ \\mathit { l } } = { { l } ^ { ' } }$ （204号 is required by the resonant tunneling. Fig.3 shows the curves of $\\begin{array} { r } { I _ { 0 } \\equiv I ( \\phi = \\frac { \\pi } { 2 } , E _ { 0 } = 0 ) , } \\end{array}$ vs the MW strength $\\alpha$ , for four groups of MW frequencies. These numerical results reveal some of the properties of $I _ { 0 }$ ：(1) $I _ { 0 }$ has non-monotonous dependence on $\\alpha$ ,which is natural due to the oscillatory nature of Bessel function. (2) For some frequencies, e.g., $\\omega = 0 . 3$ in Fig.1, （204 $I _ { 0 }$ is always positive; while for others, e.g., $\\omega = 0 . 6$ ， $I _ { 0 }$ reverses its sign in a certain range of $\\alpha$ . In other words, MW with proper strength and frequency may also induce $\\pi$ -junction transition on the main resonance. (3) The dependence of $I _ { 0 }$ on $\\alpha$ changes abruptly around the frequency of $\\omega = \\Delta / n$ ( $n = 1 , 2 , 3 \\cdots$ ). Roughly, the reason is that when the frequency crosses $\\Delta / n$ ，A $\\pm n$ and B $\\pm n$ jump out of the superconducting gap and feel the singularity in the density of states of S electrodes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we have shown theoretically that MW irradiation has a non-trivial effect on the Josephson current flowing through S-QD-S structure. The photon-assisted tunneling structures appear near $\\begin{array} { r } { E _ { 0 } = \\frac { n } { 2 } \\hbar \\omega } \\end{array}$ ， and each contains a negative and a positive peak, indicating $\\pi$ -junction transition induced by MW. The main resonance located at $E _ { 0 } = 0$ may also reversed with proper MW strength and frequency. The understanding of these results requires the knowledge of PAABS, which are formed due to multiple PAAR. We hope that this work can stimulate experimental interests in S-QD-S structure, where QD may be a nanoparticle or a gate defined geometry in 2DEG. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This project was supported by NSFC under Grant No. 10074001. T. H. Lin would also like to thank the support from the State Key Laboratory for Mesoscopic Physics in Peking University. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "\\* To whom correspondence should be addressed. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] L. B. Ioffe et al., Nature (London) 398, 679 (1999).   \n[2] D. J. Van Harlingen, Rev. Mod. Phys. 67, 515 (1995).   \n[3] P. Fulde and A. Ferrel, Phys.Rev. 135,A550 (1964).   \n[4] A.Larkin and Y. Ovchinnikov, Sov. Phys. JETP 20, 762 (1965).   \n[5] A. I. Buzdin and M. V. Kupriyanov, JETP Lett. 52,487 (1990).   \n[6] A.V. Andreev, A. I. Buzdin,and R. M. Osgood II, Phys. Rev. B 43,10124 (1991).   \n[7] V. Prokic, A. I. Buzdin, and L. Dobrosavljevic-Grujic, Phys. Rev. B 59, 587 (1999).   \n[8] S. -K. Yip, Phys. Rev. B 62, R6127 (2000).   \n[9] V. V. Ryazanov et al., Phys. Rev. Lett. 86, 2427 (2001); A. V. Veretennikov et al., Physica B 284-288,495 (2000).   \n[10] L. I. Glazman and K.A. Matveev, JETP Lett. 49,659 (1989).   \n[11] B. I. Spivak and S. A. Kivelson, Phys. Rev. B 43, 3740 (1991).   \n[12] S. Ishizaka, J. sone, and T. Ando, Phys. Rev. B 52, 8358 (1995).   \n[13] A. V. Rozhkov and D. P. Arovas, Phys. Rev. Lett. 82, 2788 (1999).   \n[14] A. A. Clerk and V. Ambegaokar, cond-mat/9910201.   \n[15] A. V. Rozhkov, D. P. Arovas, and F. Guinea, cond-mat/O011201.   \n[16] D. C. Ralph, C. T. Black,and M. Tinkham, Phys. Rev. Lett. 74, 3241 (1995); 78, 4087 (1997).   \n[17] A. F. Volkov, Phys. Rev. Lett. 74, 4730 (1995).   \n[18] A. F. Volkov and H. Takayanagi, Phys. Rev. B 56, 11184 (1997).   \n[19] S.-K. Yip, Phys. Rev. B 58, 5803 (1998).   \n[20] F. K. Wilhelm, G. Schon,and A. D. Zaikin, Phys. Rev. Lett.81, 1682 (1998).   \n[21] J. J. Baselmans et al., Nature (London) 397, 43(1999). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22] This is valid for the cases where Coulomb blockade effect are not significant.For Physical discussions, see A. L. Yeyati et al., Phys. Rev. B 55,R6137 (1997). [23] Q. -F. Sun et al., Phys. Rev. B 61, 4754 (2000). [24] Q. -F. Sun, J. Wang, and T. -H. Lin, Phys. Rev. B 59,13126 (1999). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FIGURECAPTIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 The curves of the critical supercurrent $I _ { c }$ vs the resonant energy level $E _ { 0 }$ ，with the increase of MW strengths. Parameters are: $\\omega = 0 . 3$ ， $\\Gamma = 0 . 0 1$ .The inset in $\\alpha = 0$ （204号 schematically shows the setup of an S-QD-S structure under the MW irradiation. The inset in $\\alpha = 0 . 3$ demonstrates the formation of PAABS around ${ \\cal E } _ { 0 } = - { \\textstyle \\frac { 1 } { 2 } } \\hbar \\omega$ ， ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 The analysis of current carrying spectrum $j ( \\epsilon )$ for the point (a)-(e) marked in the curves of $\\alpha = 0 . 6$ in Fig.1. For comparison，the spectrum for $E _ { 0 } ~ = ~ 0$ (solid）and $E _ { 0 } = 0 . 2$ (dotted) without MW irradiation are also shown on the top. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 The curves of the main resonance $I _ { 0 }$ vs the MW strength $\\alpha$ ， for MW frequencies $\\omega$ chosen near $\\Delta / 3 , \\Delta / 2 , \\angle$ $\\Delta$ ，and $\\omega > \\Delta$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d86560ae2e0e345b15e66cc171b44d024555268f184812f4f9596e6d54949e1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/467b25d39eba329cdc84037b647ccb270927b74cd96da0659ef79f289de43b22.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad337bcff99d705dbc8f406cd73f554873309500d368c03073ba311d6e984383.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    }
+]

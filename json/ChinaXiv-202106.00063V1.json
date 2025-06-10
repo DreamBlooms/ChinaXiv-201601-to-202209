@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "新疆天山西段夏季河流水化学特征及其影响因素研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "玛尔胡拜·牙生1²，马　龙2.3.4，吉力力·阿不都外力2.34，张伟燕2.3.4(1.新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054；2.中国科学院新疆生态与地理研究所 荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011；3.中国科学院中亚生态与环境研究中心,新疆 乌鲁木齐830011；4.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在对天山西段两条主要河流(伊犁河、博尔塔拉河)常量离子组成进行分析基础上,结合数理统计学方法、水化学图解等方法探讨了水化学特征及其影响因素;在此基础上,对两条河流的灌溉适宜性进行了评价,以期为天山西段水环境状况评估提供科学依据。结果表明：(1）伊犁河和博尔塔拉河水体均呈弱碱性， $\\mathrm { \\ p H }$ 分别为8.01和8.55;主要离子浓度排序一致，其中：阳离子 $\\mathrm { C a ^ { 2 + } { > } N a ^ { + } { > } M g ^ { 2 + } { > } K ^ { + } }$ ,阴离子 $\\mathrm { H C O _ { 3 } ^ { - } { > } S O _ { 4 } ^ { 2 - } { > } C l ^ { - } }$ ，Piper分类图显示水化学类型为 $\\mathrm { H C O _ { 3 } - C a \\cdot M g }$ (2)博尔塔拉河和伊犁河水体离子组成主要受岩石风化作用的影响；(3）水样中 $9 3 \\%$ 的样品落在优良区,表明伊犁河和博尔塔拉河河水灌溉适应性评价为水质适宜灌溉。研究结果对天山西段水环境评价及水资源可持续利用具有较为重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：天山；伊犁河；博尔塔拉河；水化学特征；灌溉适宜性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水是人类宝贵的自然资源，是人类与生物赖以生存和发展的物质基础。地球上淡水资源的时空分布极其不均匀，加上水污染日益严重以及工农业和生活用水量的增加，许多国家和地区出现了水资源严重短缺的局面。地表水化学参数是关系水质优劣的重要指标之一，水体中主要离子的含量反映了离子组成与自然环境的关系[，包含了流域内的气候2、基岩类型[3-4、人类活动等重要的环境信息。研究河流水化学特征对于正确理解河流水体的离子组成及来源具有重要意义。天山横亘于欧亚大陆腹地,被誉为\"中亚水塔\"6-7],近年来,众多学者广泛关注国内天山西段水资源和环境问题，有些学者研究出有关国内天山西段流域气候的不断变化,水土流失严重，河流总体水质下降等问题[8-1,但有关水化学等基础资料方面的研究仍非常缺乏。开展河流水化学特征及灌溉适宜评价研究不仅对流域内人民的生活用水、工业用水、农业灌溉等都有重要的现实意义[11-12];通过对河流水化学影响因素的研究，可以更好地揭示地表水与环境的相互作用机制，为流域水资源管理提供科学依据",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析常量离子组成及相关关系的基础上，运用数理统计方法、Piper和Gibbs水化学图解[13-14]等方法研究天山西段两条主要河流伊犁河和博尔塔拉河的水化学组成，并探讨影响河流水化学特征的主要因素，结合USSL[15]、Wilcox[1等评价方法研究伊犁河和博尔塔拉河河水的灌溉适宜性，为区域水资源保护与可持续利用提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "伊犁河和博尔塔拉河均属中亚内陆河水系。伊犁河由上游的特克斯河、喀什河、巩乃斯河三大支流及众多小支流组成，巴尔喀什湖为其尾闾。河流全长 $1 2 3 6 . 5 ~ \\mathrm { k m }$ ,流域面积 $1 . 5 { \\times } 1 0 ^ { 5 } \\mathrm { k m } ^ { 2 }$ ，我国境内河长 $5 5 8 . 5 \\mathrm { k m }$ ，流域面积 $5 . 7 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 [ 1 7 - 1 8 ] }$ 。晚第三纪以来，新构造运动使得天山大幅上升，古构造带活化从而产生若干条逆向断层，断块升降作用加剧，伊犁盆地相对下降，从而形成了三山夹两谷的地貌。现代盆地地表为第四系广泛覆盖，广大冲积平原大部分由黄土状物质和砂砾石组成。研究区出露地层由岩性为冲洪积沉积物和砂砾的第四系，岩性为白云岩的二叠系以及岩性为灰岩、砂砾岩、凝灰质砾岩的石炭系构成[19-20]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "博尔塔拉河位于新疆博尔塔拉蒙古自治州的西部,尾闾为艾比湖,全长 $2 5 2 \\mathrm { k m } ^ { [ 2 1 ] }$ 。博尔塔拉河流域气候冬夏漫长，春秋短暂，年平均气温 $5 . 6 ~ \\mathrm { { ^ { \\circ } C } }$ 。降水较少而集中，太阳辐射强烈，气候干燥，日照充足，为典型的温带大陆性气候。降水量自西向东渐少，降水的年内分配很不均匀，5一9月的降水量占全年的 $6 5 . 3 \\% ^ { [ 2 2 ] }$ 。温泉以西为河流上游,主要由粗颗粒碎屑堆积组成。温泉-博乐为中游，沉积物粗颗粒的砂砾为主，夹有多层薄的砂土、粉砂。博乐以东为下游，上部由戈壁砾石组成，河道分散，向下游沉积物颗粒变细，并成为多层结构。研究区出露地层由岩性为冲洪积沉积物的第四系，岩性为炭质粉砂岩、灰岩的二叠系以及岩性为石英斑岩的石炭系构成[23]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2样品采集与分析方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1样品采集与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2017年8月对天山西段进行了野外考察和地表水水质样品采集，新疆境内的伊犁河和博尔塔拉河分别沿程布设42个和15个采样点(图1，表1)，采样中考虑样品的代表性，采样间距平均设置为伊犁40$\\mathrm { k m }$ ;博尔塔拉 $8 ~ \\mathrm { k m }$ ;设定点位置不可时，采样时适当调整，最终采样点见图1。使用多参数水质测量仪（意大利哈纳 $\\mathrm { H I ~ } 9 8 2 8$ )在现场测量 $\\mathrm { \\ p H }$ 、电导率 $( E C )$ 和总溶解固体(TDS)。采样前使用原水现场冲洗3次，用直立采样器在水面以下 $0 . 5 \\mathrm { ~ m ~ }$ 处采集水样。将采集的河流水样储存在 $1 . 5 \\mathrm { L }$ 的聚对苯二甲酸乙二醇酯瓶中，该瓶用取样水冲洗3次。水样采集后经 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 过滤器(醋酸纤维素)过滤，并收集在高密度聚乙烯管中,用于测量离子含量。阳离子 $\\mathrm { C a } ^ { 2 + }$ ，$\\mathrm { K ^ { + } }$ $\\mathrm { M g } ^ { 2 + }$ 和 $\\mathrm { \\Delta N a } ^ { + }$ 以及阴离子 $\\mathrm { C l } ^ { - }$ 和 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 通过离子色谱系统测定(美国戴安ICS-5000)。阴离子 $\\mathrm { H C O } _ { 3 } ^ { - }$ 和$\\mathrm { C O } _ { 3 } ^ { - }$ 浓度通过电位滴定法用梅特勒G20型电位滴定仪测定[24-25],测试精度均控制在 $5 \\%$ 以内。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2数据处理方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通常绘制Piper图[3对主要离子组成进行分类，用来判断不同岩性的岩石风化作用对水体化学组成的影响[26-30]。Gibbs图[14]中阳离子 $[ \\mathrm { N a ^ { + } } / ( \\mathrm { N a ^ { + } } \\mathrm { C a ^ { 2 + } } ) ]$ 和阴离子[ $\\mathrm { \\Delta \\Sigma ] ^ { - } / ( C l ^ { - } + H C O _ { 3 } ^ { - } }$ j与TDS的比值揭示了影响水化学性质的三种影响因素(水岩相互作用、蒸发浓缩和区域降水等)[31-34]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为评价河流水质的灌溉适宜性，利用电导EC和钠吸收比(SAR)绘制USSL图[2], $E C$ 和钠含量$( \\mathrm { N a } \\%$ )绘制Wilcox图[35]，共同进行评价。 $S A R$ 反映了作物受到碱或钠危害的风险[3，当 $\\mathrm { \\Delta N a } ^ { + }$ 被 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 和$\\mathrm { C a } ^ { 2 + }$ 置换并被黏土颗粒吸附时，灌溉水中的高 $\\mathrm { N a } ^ { + }$ 浓度会对土壤结构产生负面影响3。如果没有在下面指出，离子浓度以每升毫当量 $( \\mathrm { m e q } \\cdot \\mathrm { L } ^ { - 1 }$ )表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS A R { = } \\frac { \\mathbf { \\vec { N } { a } ^ { + } } } { \\sqrt { \\frac { \\left( \\mathbf { \\vec { C } { a } ^ { 2 + } + \\mathbf { \\vec { M } } { \\mathbf { g } ^ { 2 + } }  } { 2 } } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N a ^ { \\circ } / o = \\frac { N a ^ { \\cdot } } { N a ^ { \\cdot } + C a ^ { 2 + } + M g ^ { 2 + } + K ^ { + } } \\times 1 0 0 \\% }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed9fd728594b39530d00851ee6321bd772a2945f8437a685554ade28443cd934.jpg",
+        "img_caption": [
+            "图1研究区及采样点分布示意图",
+            "Fig.1 Location of study area and the distribution map of sampling points "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1研究区采样点信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d31090325b5fe0ce07aeb3eb80be7e17e19b8535424cdb40a0c6426c5fc33670.jpg",
+        "table_caption": [
+            "Tab.1 Sampling point information in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>经度/()</td><td>纬度/()</td><td>海拔/m</td><td>编号</td><td>经度/()</td><td>纬度/()</td><td>海拔/m</td><td>编号</td><td>经度/()</td><td>纬度/()</td><td>海拔/m</td></tr><tr><td>A1</td><td>80.6656</td><td>43.8423</td><td>539</td><td>B5</td><td>81.9124</td><td>44.9236</td><td>600</td><td>B24</td><td>80.9407</td><td>45.0015</td><td>1430</td></tr><tr><td>A2</td><td>81.2592</td><td>43.8918</td><td>598</td><td>B6</td><td>81.8736</td><td>44.9284</td><td>612</td><td>B25</td><td>80.9734</td><td>44.9875</td><td>1378</td></tr><tr><td>A3</td><td>81.7934</td><td>43.6271</td><td>697</td><td>B7</td><td>81.8401</td><td>44.9394</td><td>634</td><td>B26</td><td>80.8738</td><td>44.9823</td><td>1495</td></tr><tr><td>A4</td><td>81.9216</td><td>43.8113</td><td>819</td><td>B8</td><td>81.8023</td><td>44.9510</td><td>657</td><td>B27</td><td>81.1136</td><td>44.9581</td><td>1250</td></tr><tr><td>A5</td><td>82.3725</td><td>43.8330</td><td>1023</td><td>B9</td><td>81.7619</td><td>44.9613</td><td>683</td><td>B28</td><td>81.3228</td><td>44.9312</td><td>1209</td></tr><tr><td>A6</td><td>82.7829</td><td>43.8430</td><td>1241</td><td>B10</td><td>81.7303</td><td>44.9983</td><td>759</td><td>B29</td><td>81.3338</td><td>44.9094</td><td>1256</td></tr><tr><td>A7</td><td>82.5683</td><td>43.5765</td><td>800</td><td>B11</td><td>81.7310</td><td>45.0065</td><td>777</td><td>B30</td><td>81.5890</td><td>44.9823</td><td>815</td></tr><tr><td>A8</td><td>82.2592</td><td>43.5996</td><td>762</td><td>B12</td><td>81.6761</td><td>45.0154</td><td>795</td><td>B31</td><td>81.7443</td><td>44.9301</td><td>724</td></tr><tr><td>A9</td><td>82.4854</td><td>43.4216</td><td>866</td><td>B13</td><td>81.6800</td><td>44.9906</td><td>745</td><td>B32</td><td>81.9620</td><td>44.9073</td><td>560</td></tr><tr><td>A10</td><td>82.2404</td><td>43.2411</td><td>1008</td><td>B14</td><td>81.6114</td><td>44.9985</td><td>792</td><td>B33</td><td>82.0960</td><td>44.8563</td><td>476</td></tr><tr><td>A11</td><td>81.9832</td><td>43.2413</td><td>1120</td><td>B15</td><td>81.5893</td><td>45.0132</td><td>813</td><td>B34</td><td>82.1268</td><td>44.8366</td><td>450</td></tr><tr><td>A12</td><td>81.8972</td><td>43.1709</td><td>1188</td><td>B16</td><td>81.5420</td><td>45.0218</td><td>849</td><td>B35</td><td>82.1269</td><td>44.8716</td><td>471</td></tr><tr><td>A13</td><td>81.7595</td><td>43.1571</td><td>1242</td><td>B17</td><td>81.4027</td><td>45.0315</td><td>954</td><td>B36</td><td>82.2426</td><td>44.7795</td><td>363</td></tr><tr><td>A14</td><td>81.1150</td><td>42.9851</td><td>1626</td><td>B18</td><td>81.3110</td><td>45.0245</td><td>1031</td><td>B37</td><td>82.3004</td><td>44.7270</td><td>310</td></tr><tr><td>A15</td><td>80.9648</td><td>42.9526</td><td>1642</td><td>B19</td><td>81.2213</td><td>45.0215</td><td>1130</td><td>B38</td><td>82.3713</td><td>44.6694</td><td>273</td></tr><tr><td>B1</td><td>82.0554</td><td>44.8735</td><td>511</td><td>B20</td><td>81.1814</td><td>44.9985</td><td>1171</td><td>B39</td><td>82.4469</td><td>44.6873</td><td>256</td></tr><tr><td>B2</td><td>82.0382</td><td>44.8745</td><td>534</td><td>B21</td><td>81.0723</td><td>44.9874</td><td>1277</td><td>B40</td><td>82.5476</td><td>44.7093</td><td>237</td></tr><tr><td>B3</td><td>82.0463</td><td>44.8599</td><td>537</td><td>B22</td><td>81.0294</td><td>44.9856</td><td>1319</td><td>B41</td><td>82.6527</td><td>44.7646</td><td>219</td></tr><tr><td>B4</td><td>81.9761</td><td>44.9291</td><td>575</td><td>B23</td><td>81.0190</td><td>44.9918</td><td>1340</td><td>B42</td><td>82.6754</td><td>44.7935</td><td>213</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 主要离子特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，伊犁河河水样品中的阳离子浓度高低顺序为： $\\mathrm { C a ^ { 2 + } { > } N a ^ { + } { > } M g ^ { 2 + } { > } K ^ { + } }$ ,其中含量最高的$\\mathrm { C a } ^ { 2 + }$ 介于 $3 2 . 4 6 { \\sim } 6 5 . 7 9 \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ,平均值为 $5 5 . 4 5 \\mathrm { \\ m g ^ { \\bullet } L ^ { - 1 } }$ ，占阳离子总质量浓度的 $6 1 . 1 6 \\%$ 以上。阴离子浓度高低顺序为： $\\mathrm { H C O _ { 3 } ^ { - } { > } S O _ { 4 } ^ { 2 - } { > } C l ^ { - } }$ 。其中含量最高的$\\mathrm { H C O } _ { 3 } ^ { - }$ 介于 $1 0 0 . 4 7 { \\sim } 2 1 3 . 8 4 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ，平均值为164.49$\\mathbf { m g \\cdot L } ^ { - 1 }$ ,占阴离子总质量浓度的 $6 8 . 2 8 \\%$ 以上。水质整体呈现弱碱性， $\\mathrm { \\ p H }$ 平均为8.01;电导率介于$1 9 7 . 9 { \\sim } 5 7 3 . 5 ~ { \\mu } \\mathrm { { S } } \\cdot \\mathrm { { c m } } ^ { - 1 }$ ，平均值 $4 0 7 . 2 6 ~ \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ ; TDS变化范围为 $1 6 9 . 1 7 { \\sim } 4 3 6 . 6 2 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ，平均值为331.58$\\mathrm { m g \\cdot L ^ { - 1 } }$ 。博尔塔拉河河水样品中阳离子浓度高低顺序为： $\\mathrm { C a ^ { 2 + } { > } N a ^ { + } { > } M g ^ { 2 + } { > } K ^ { + } }$ ,其中含量最高的 $\\mathrm { C a } ^ { 2 + }$ 介于$2 5 . 0 0 { \\sim } 1 4 0 . 4 1 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ,平均值为 $5 3 . 0 7 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 。阴离子浓度高低顺序为： $\\mathrm { H C O _ { 3 } ^ { - } { > } S O _ { 4 } ^ { 2 - } { > } C l ^ { - } }$ ,其中含量最高的 $\\mathrm { H C O } _ { 3 } ^ { - }$ 介于 $5 4 . 7 7 { \\sim } 2 7 1 . 2 5 ~ \\mathrm { m g } { \\cdot } \\mathrm { L } ^ { - 1 }$ ，平均值为153.34$\\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ 。水质整体呈现弱碱性， $\\mathrm { \\ p H }$ 平均为8.55；电导率反映了水体中离子强度，其变化范围为 $1 3 7 . 4 0 \\sim$ $1 2 3 2 ~ { \\mu \\mathrm { S } } \\cdot { \\mathrm { c m } } ^ { - 1 }$ 之间,平均值 $3 7 4 . 8 6 ~ \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ ;TDS变化范围为 $1 2 5 . 3 6 { \\sim } 1 0 6 1 . 2 3 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ，平均值为323.09$\\mathrm { { m g } \\cdot L ^ { - 1 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/328e11b7767fb1bc8c7340a1cc0f3c2063fe05486d49d289d94673c028da0f98.jpg",
+        "table_caption": [
+            "表2伊犁河和博尔塔拉河水化学特征",
+            "Tab.2Summary statistics for the hydrochemical variables of Ili River and Bortala River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水体</td><td rowspan=\"2\">特征值</td><td rowspan=\"2\">pH</td><td rowspan=\"2\">电导率 /(μS·cm-1)</td><td></td><td>Na+</td><td>K</td><td>Ca2+</td><td>Mg2+</td><td>Cl</td><td>SO42-</td><td>HCO3</td></tr><tr><td colspan=\"8\">/(mg·L-1)</td></tr><tr><td>伊犁河 (n=15)</td><td>最大值</td><td>8.14</td><td>573.50</td><td>436.62</td><td>56.55</td><td>5.05</td><td>65.79</td><td>19.85</td><td>33.04</td><td>130.17</td><td>213.84</td></tr><tr><td rowspan=\"9\"></td><td>最小值</td><td>7.85</td><td>197.90</td><td>169.17</td><td>5.31</td><td>1.60</td><td>32.46</td><td>5.31</td><td>2.47</td><td>21.56</td><td>100.47</td></tr><tr><td>平均值</td><td>8.01</td><td>407.26</td><td>331.58</td><td>19.43</td><td>2.36</td><td>55.45</td><td>13.41</td><td>12.81</td><td>63.62</td><td>164.49</td></tr><tr><td>标准差</td><td>0.07</td><td>91.13</td><td>70.20</td><td>11.59</td><td>0.78</td><td>9.16</td><td>3.66</td><td>6.97</td><td>25.17</td><td>29.07</td></tr><tr><td>变异系数/%</td><td>0.87</td><td>22.38</td><td>21.17</td><td>59.65</td><td>33.05</td><td>16.52</td><td>27.29</td><td>54.41</td><td>39.56</td><td>17.67</td></tr><tr><td>最大值</td><td>9.46</td><td>1232.00</td><td>1061.23</td><td>127.89</td><td>3.99</td><td>140.41</td><td>31.63</td><td>83.28</td><td>402.78</td><td>271.25</td></tr><tr><td>最小值</td><td>8.21</td><td>137.40</td><td>125.36</td><td>2.48</td><td>0.95</td><td>25.00</td><td>1.72</td><td>1.06</td><td>14.35</td><td>54.77</td></tr><tr><td>平均值</td><td>8.55</td><td>374.86</td><td>323.09</td><td>21.92</td><td>2.24</td><td>53.07</td><td>7.81</td><td>14.37</td><td>70.33</td><td>153.34</td></tr><tr><td>标准差</td><td>0.22</td><td>211.22</td><td>170.16</td><td>22.30</td><td>0.76</td><td>20.56</td><td>5.56</td><td>15.92</td><td>66.80</td><td>48.65</td></tr><tr><td>变异系数/%</td><td>2.57</td><td>56.35</td><td>52.67</td><td>101.73</td><td>33.93</td><td>38.74</td><td>71.19</td><td>110.79</td><td>94.98</td><td>31.73</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2各离子相关性分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pearson相关系数矩阵显示各个参数之间的相关关系(表3、表4)。由表3可知，伊犁河水样中TDS与CI、 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ ） $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 相关性显著，相关系数 $( r )$ 分别为 $0 . 8 1 6 \\ 、 0 . 8 6 2 、 0 . 8 9 4 \\ 、 0 . 9 3 1 \\left( P < 0 . 0 0 1 \\right)$ 。 $\\mathrm { { N a } ^ { + } }$ 与$\\mathrm { C l ^ { - } }$ 、 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 相关性显著，相关系数 $( r )$ 分别为0.973和0.895( $P { < } 0 . 0 0 1 )$ 。 $\\mathrm { H C O } _ { 3 } ^ { - }$ 与 $\\mathrm { C a } ^ { 2 + }$ ） $\\mathrm { M g } ^ { 2 + }$ 相关性显著，相关系数 $( r )$ 分别为0.952和0.780。由表4可知，博尔塔拉河水样中TDS与各离子相关性显著， $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 与$\\mathrm { C a } ^ { 2 + }$ ） $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 和 $\\mathrm { \\Delta N a } ^ { + }$ 相关性显著，相关系数 $( r )$ 分别为$0 . 8 5 7 \\cdot 0 . 9 3 6 \\cdot 0 . 9 8 1 \\left( P { < } 0 . 0 0 1 \\right)$ 。 $\\mathrm { C l ^ { - } }$ 与 $\\mathrm { { N a } ^ { + } }$ 相关性显著，相关系数为0.992 $\\scriptstyle ( P < 0 . 0 0 1 )$ 。 $\\mathrm { H C O } _ { 3 } ^ { - }$ 与 $\\mathrm { C a } ^ { 2 + }$ 和$\\mathrm { M g } ^ { 2 + }$ 相关性显著，相关系数 $( r )$ 分别为0.879、0.810。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从两条河的相关性分析来看，TDS与 $\\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\\mathrm { C a } ^ { 2 + }$ 相关性极大，由于 $\\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\\mathrm { C a } ^ { 2 + }$ 是河水中浓度最高的阴阳离子，TDS的大小主要受 $\\mathrm { H C O } _ { 3 } ^ { - }$ ， $\\mathrm { C a } ^ { 2 + }$ 的浓度影响。 $\\mathrm { C a } ^ { 2 + }$ ） $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 和 $\\mathrm { H C O } _ { 3 } ^ { - }$ 表现出显著的正相关，这反应了 $\\mathrm { C a } ^ { 2 + }$ 、 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 和 $\\mathrm { H C O } _ { 3 } ^ { - }$ 可能具有相似的来源，受同一影响因素影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1水化学控制类型及离子来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，在阳离子三角图上，伊犁河河水样点分布较为集中，主要落Piper三线图的左下角位置， $\\mathrm { C a } ^ { 2 + }$ 是主要的阳离子，占阳离子总毫克当量数的$5 7 . 8 1 \\%$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 所占比例为 $2 3 . 3 1 \\%$ ， $\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { K ^ { + } }$ 约占$1 7 . 6 2 \\%$ ） $1 . 2 6 \\%$ 。在阴离子三角图中，样点主要落在$\\mathrm { H C O _ { 3 } ^ { - } { + C O _ { 3 } ^ { 2 - } } }$ 线附近，阴离子中 $H ( C O _ { 3 } ^ { - }$ 含量最高，平均占阴离子总毫克当量数 $6 1 . 5 3 \\%$ ,其次是 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ ，含量为 $3 0 . 2 4 \\%$ $\\mathrm { C l ^ { - } }$ 含量最低，为 $8 . 2 3 \\%$ 。菱形中样点主要落在 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ -CI线附近，伊犁河河水水化学类型主要为 $\\mathrm { H C O _ { 3 } ^ { - } { - } C a ^ { 2 + } { - } M g ^ { 2 + } }$ 。同样,在阳离子三角图上，博尔塔拉河河水样点分布较为分散，主要落Piper三线图的左下角位置， $\\mathrm { C a } ^ { 2 + }$ 是主要的阳离子，占阳离子总毫克当量数的 $6 1 . 5 0 \\%$ ， $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 所占比例为 $1 5 . 0 9 \\%$ ，$\\mathrm { N a } ^ { + }$ 和 $\\mathrm { K } ^ { + }$ 约占 $2 2 . 0 8 \\% . 1 . 3 2 \\%$ 。在阴离子三角图中，样点主要落在 $\\mathrm { H C O _ { 3 } ^ { - } + C O _ { 3 } ^ { 2 - } }$ 线附近，阴离子中 $\\mathrm { H C O } _ { 3 } ^ { - }$ 含量最高，平均占阴离子总毫克当量数的 $5 7 . 3 4 \\%$ ，其次是 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ ，含量为 $3 3 . 4 2 \\%$ ， $\\mathrm { C l ^ { - } }$ 含量最低，为$9 . 2 3 \\%$ 。菱形中样点主要落在 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ -Cl，博尔塔拉河河水水化学类型主要为 $\\mathrm { H C O _ { 3 } ^ { - } { - } C a ^ { 2 + } { - } M g ^ { 2 + } }$ 。在阳离子三角图中,碳酸盐岩风化区域靠近 $\\mathrm { C a } ^ { 2 + } { - } \\mathrm { M g } ^ { 2 + }$ 一端，而蒸发岩风化区域靠近 $\\mathrm { N a } ^ { + }$ 和 $\\mathrm { K } ^ { + }$ 一侧。在阴离子三角图上，碳酸盐岩风化区域则靠近 $\\mathrm { H C O _ { 3 } } ^ { - } { + } \\mathrm { C O _ { 3 } } ^ { 2 - }$ 一侧,而蒸发岩风化区域靠近 $\\mathrm { S O _ { 4 } ^ { 2 - } { - } C l ^ { - } }$ 一端。由此推断伊犁河和博尔塔拉河水体主要受碳酸盐岩风化作用的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f39dc0b6868bf2a7eb037e6e34f53cf48d4ea42305a1492a6aeb38b62f4d75a.jpg",
+        "table_caption": [
+            "Tab.3Pearson's correlation coeficient (r)among the water quality parameters for Ili River (two-tailed test) "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平(双侧)上显著相关。\\*表示在0.05水平(双侧)上显著相关。下同"
+        ],
+        "table_body": "<html><body><table><tr><td>伊犁河</td><td>Cl-</td><td>SO4²</td><td>Ca2+</td><td>K+</td><td>Mg2</td><td>Na+</td><td>HCO3</td><td>TDS</td></tr><tr><td>Cl-</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SO42-</td><td>0.958**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ca²+</td><td>0.479</td><td>0.577*</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>K</td><td>0.056</td><td>0.017</td><td>0.313</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>Mg2+</td><td>0.663**</td><td>0.787**</td><td>0.905**</td><td>0.15</td><td>1</td><td></td><td></td><td></td></tr><tr><td>Na+</td><td>0.973**</td><td>0.895**</td><td>0.389</td><td>-0.028</td><td>0.534*</td><td>1</td><td></td><td></td></tr><tr><td>HCO3</td><td>0.277</td><td>0.347</td><td>0.952**</td><td>0.304</td><td>0.780**</td><td>0.215</td><td>1</td><td></td></tr><tr><td>TDS</td><td>0.816**</td><td>0.862**</td><td>0.894**</td><td>0.19</td><td>0.931**</td><td>0.750**</td><td>0.770**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fb437b5ad528211ff6fed4d86f06376cf6d7505f39fcb972265359991ac5db0.jpg",
+        "table_caption": [
+            "表3伊型河水质参数Pearson相关系数（双侧检验）",
+            "表4博尔塔拉河水质参数Pearson相关系数（双侧检验）",
+            "Tab.4Pearson'scorrelation coefficient (r)among the water quality parameters for Bortala River (Two-tailed test "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>博尔塔拉河</td><td>Cl-</td><td>SO4²</td><td>Ca²+</td><td>K</td><td>Mg2+</td><td>Na+</td><td>HCO3</td><td>TDS</td></tr><tr><td>Cl-</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SO4-</td><td>0.974**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ca2+</td><td>0.845**</td><td>0.857**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>K</td><td>0.878**</td><td>0.788**</td><td>0.730**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>Mg2+</td><td>0.902**</td><td>0.936**</td><td>0.839**</td><td>0.755**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>Na+</td><td>0.992**</td><td>0.981**</td><td>0.874**</td><td>0.849**</td><td>0.907**</td><td>1</td><td></td><td></td></tr><tr><td>HCO3</td><td>0.795**</td><td>0.748**</td><td>0.879**</td><td>0.840**</td><td>0.810**</td><td>0.794**</td><td>1</td><td></td></tr><tr><td>TDS</td><td>0.969**</td><td>0.964**</td><td>0.933**</td><td>0.860**</td><td>0.940**</td><td>0.975**</td><td>0.895**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/45c200d0b1e288e57aae44ae195d1712be1b5e0a46e49bf7a19e0a041c0592af.jpg",
+        "img_caption": [
+            "图2伊犁河和博尔塔拉河水化学Piper图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一般在Gibbs图溶解性物质含量中等的河流（离子总量为 $7 0 { \\sim } 3 0 0 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } ,$ 具有较低的 $\\mathrm { { N a } ^ { + } / ( \\mathrm { { N a } ^ { + } + } }$ $\\mathrm { C a } ^ { 2 + }$ 比值或 $\\mathrm { C l ^ { - } / ( C l ^ { - } / H C O _ { 3 } ^ { - } }$ )比值在0.5左右或者 $<$ 0.5，并且河水样点分布在图的中部左侧，这类河流主要源于岩石的风化释放，反映了该区域主要受到岩石风化的影响；相反的，河流溶解性固体含量最高(如干旱区的河流)又具有较高的 $\\mathrm { N a ^ { + } / \\big ( N a ^ { + } { + } C a ^ { 2 + } \\big ) }$ 比值或 $\\mathrm { C l ^ { - } / ( C l ^ { - } / H C O _ { 3 } ^ { - } }$ )比值(接近于1)，此种河水的点分布在图的右上角，这类河流主要分布在蒸发结晶作用很强的干旱地区，反映了干旱地区蒸发结晶作用对河水的影响。由图3可知，除了极个别点之外，伊犁河绝大部分的河水样品 $\\mathrm { N a ^ { + } / ( N a ^ { + } { + } C a ^ { 2 + } }$ 值在$0 . 0 9 \\mathrm { \\sim } 0 . 3 7$ 之间， $\\mathrm { C l ^ { - } / ( C l ^ { - } / H C O _ { 3 } ^ { - } }$ )值在0.01\\~0.12范围内，博尔塔拉河绝大部分的河水样品 $\\mathrm { N a ^ { + } / ( N a ^ { + } { + } C a ^ { 2 + } ) }$ 1值在0.05\\~0.34之间， $\\mathrm { C l ^ { - } / ( C l ^ { - } / H C O _ { 3 } ^ { - } }$ )值在 $0 . 0 1 { \\sim } 0 . 1 7$ 范围内，总体上看，研究区大部分河水样品落在岩石风化控制区域内，河水主要组分基本上属于“岩石风化类型”，主要反映了水岩相互作用对河水水化学的影响，并且几乎不受蒸发结晶作用的影响，这与Piper图中显示的河流水化学组成主要源自碳酸盐岩的溶解的结果相一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一般情况下，认为河水中的 $\\mathrm { \\Delta N a } ^ { + }$ $\\mathrm { K } ^ { + }$ 和CI来自于钾盐、岩盐、钾长石、钠长石等蒸发岩和硅酸盐的风化溶解作用。当量浓度比为1:1时，流域内水体的$\\mathrm { { N a } ^ { + } }$ 和 $\\mathrm { K } ^ { + }$ 主要来自于 $\\mathrm { { N a C l } }$ 和KCl的蒸发盐溶解作用。研究表明，在图 $\\mathrm { 4 a }$ 伊犁河河水样品均落在1:1线上，说明河水中的 $\\mathrm { \\Delta N a } ^ { + }$ 与 $\\mathrm { K } ^ { + }$ 来自于岩盐的溶解。偏离1:1线说明 $\\mathrm { \\Delta N a } ^ { + } , \\mathrm { K } ^ { + }$ 与CI来源复杂，除岩盐之外还有其他矿物溶解。而博尔塔拉河河水样品则落",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/50cb998b9d596d68546ea620b3d6d277e5a2ae3e5b885e6409780dcd84d485ba.jpg",
+        "img_caption": [
+            "Fig.2PiperdiagramformajorionsofIli andBortala rivers ",
+            "图3伊犁河和博尔塔拉河水化学Gibbs图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Gibbs diagram represented the key processes controling river water chemistry of Ii and Bortala rivers在1:1线之上，说明河水中的 $\\mathrm { { N a } ^ { + } . }$ 与 $\\mathrm { K } ^ { + }$ 除了有蒸发岩的溶解之外，可能受到硅酸盐矿物溶解的影响[38]。结合离子间的相关性分析结果(表2、表3)，伊犁河河水中的 $\\mathrm { C } 1 ^ { - }$ 离子与 $\\mathrm { K } ^ { + }$ 的相关性不显著，因此伊犁河河水的 $\\mathrm { N a } ^ { + }$ 和 $\\mathrm { K ^ { + } }$ 来自蒸发岩的溶解作用。博尔塔拉河河水中 ${ \\mathrm { C } } 1 ^ { - }$ 与 $\\mathrm { N a } ^ { + }$ 和 $\\mathrm { K ^ { + } }$ 均有一定的显著相关性，其中与 $\\mathrm { N a } ^ { + }$ 的相关性显著，因此该河流受硅酸盐矿物溶解的影响较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d280609c1badba86683719a9abdd5bf7bec3919b305fc3b8f92a21b0da6cf25.jpg",
+        "img_caption": [
+            "图4研究区天然水体主要离子比例关系",
+            "Fig.4Ratios of the main ions in natural waters in the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过 $( \\mathrm { C l ^ { - } } { + } \\mathrm { S O _ { 4 } } ^ { 2 - } ) / \\mathrm { H C O _ { 3 } } ^ { - }$ ，可以区分碳酸岩风化和蒸发岩风化。由图4b可以看出，伊犁河样点几乎位于1:1线上方，说明主要发生碳酸岩风化。博尔塔拉河样点大部分在1:1线之上少部分在1:1线上，说明即发生碳酸岩风化又存在有蒸发岩风化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过 $( \\mathrm { C a ^ { 2 + } { + } M g ^ { 2 + } } ) / \\mathrm { H C O _ { 3 } } ^ { - }$ 可以分析 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 的来源。天然水体中 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ 主要受碳酸盐岩、蒸发岩和硅酸岩等岩石的风化作用控制，而碳酸岩控制的流域中的 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 主要来自白云石和石灰岩的风化作用和水解。图4c显示伊犁河和博尔塔拉河河水样品落在等值线之下，表明这些样品中的$\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 主要源于碳酸盐岩。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4d中，伊犁河水样中 $\\mathrm { ( C a ^ { 2 + } { + } M g ^ { 2 + } ) }$ 与 $\\mathrm { \\cdot } \\mathrm { H C O _ { 3 } } ^ { - } +$ $\\mathrm { S O _ { 4 } } ^ { 2 - }$ )的比值落在1:1线上附近,说明该河流中 $\\mathrm { C a } ^ { 2 + }$ 、$\\mathrm { M g } ^ { 2 + }$ 含量高，并且 $\\mathrm { C a } ^ { 2 + }$ 和 $\\mathrm { M g } ^ { 2 + }$ 来源丰富。博尔塔拉河中的比值落在1:1线上及线下附近，说明该河流中的 $\\mathrm { C a } ^ { 2 + } \\cdot \\mathrm { M g } ^ { 2 + } \\cdot \\mathrm { H C O } _ { 3 } ^ { - }$ 与 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 来自碳酸盐与硫酸盐的溶解。这表明大气中的酸沉降引起的 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 参与了流域内碳酸盐岩的溶解过程，除了碳酸盐风化作用外,还存在其他蒸发物的风化作用,例如石膏[39-40]。由 $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 和 $\\mathrm { C a } ^ { 2 + }$ 的显著相关性(相关系数为0.857)可知， $\\mathrm { S O _ { 4 } } ^ { 2 - }$ 可能来自石膏 $\\mathrm { ( c a S O _ { 4 } } \\cdot 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ )等蒸发岩的风化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2各离子沿程变化特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合以上对河水中各化学组分分析的基础上，利用ArcGIS软件对伊犁河和博尔塔拉河河水中各常量离子和TDS组分制作沿程变化图（图5）。$\\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\\mathrm { C a } ^ { 2 + }$ 离子是伊犁河和博尔塔拉河的主要阴阳离子，从图上可以看出：伊犁河河水样中 $\\mathrm { H C O } _ { 3 } ^ { - }$ 、$\\mathrm { C a } ^ { 2 + }$ ） $\\mathrm { M g } ^ { 2 + }$ 和 $\\mathrm { K ^ { + } }$ 随着海拔高度的升高逐渐增加，其他离子浓度的空间分布基本一致。博尔塔拉河河水样的各离子浓度的变化规律明显，从博尔塔拉河上游到下游逐渐增高趋势。各离子在博尔塔拉河下游灌区的浓度很高，可能是因为博尔塔拉河下游灌区，是博州最为重要的经济区域和农业经济生产区[4I]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3灌溉适应性评价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$E C$ （电导率)与钠吸收率 $( S A R )$ 的关系图（USSL图)应用于评价灌溉用水水质[15。从图6a可以看出,伊犁河 $E C$ 的变化范围是 $1 9 7 . 9 { \\sim } 5 7 3 . 5 ~ { \\mu } \\mathrm { { S } } \\cdot \\mathrm { { c m } } ^ { - 1 }$ ，均值为 $4 0 7 . 3 ~ \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ ,样点均在C1、C2区。博尔塔拉河 $E C$ 的变化范围是 $1 3 7 . 4 { \\sim } 1 2 3 2 \\ { \\mu } \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ ，均值为$3 7 4 . 9 ~ \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 }$ 。伊犁河和博尔塔拉河水样中 $9 3 . 1 \\%$ 样品属于C1-S1、C2-S1和C2-S2的低等盐碱度危害、中等盐度低等碱度危害和中等盐碱度危害，说明该两条河流水质适宜灌溉。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/55fb3862abcd8cbbfa3e7787cdf3424e4c563841198530888e0ba061b6c11071.jpg",
+        "img_caption": [
+            "图5伊犁河和博尔塔拉河常量离子和TDS组分沿程变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ea4ae1664688888068e6b1aabe39fdabe8e3c9f04612a259adf897dbd82ab6f.jpg",
+        "img_caption": [
+            "Fig.5Changes of major ions and TDS components in the Ili River and Bortala River ",
+            "图6用于评估灌溉用水水质标准的USSL图和Wilcox图Fig.6Standards of the USSL diagram and Wilcox diagram"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EC（电导率）与 $\\mathrm { N a } \\%$ 的关系图（Wilcox图)应用于评价灌溉用水水质。一般Wilcox图中将水质分为水质优良区、水质良好区、水质可使用区、水质保留区、水质不可使用区5种类型。将水样点绘制在Wilcox图中(图6)，由图6b可知，伊犁河和博尔塔拉河 $9 2 . 9 \\%$ 水样均落在水质优良灌溉用水类别区。总体来看，研究区水化学组成主要受水岩相互作用影响。河流作为一个整体，不可避免的同时受到上游以及采样区范围内的自然环境的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以新疆天山西部地区伊犁河和博尔塔拉河为对象，研究了河流水化学变化特征及主要影响因素，并对水质进行了灌溉适应性评价，得出如下主要结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）伊犁河和博尔塔拉河河流水质均为弱碱性$\\mathrm { \\ p H }$ 为8.01和8.55;TDS平均值为 $3 3 1 . 5 8 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 和$3 2 3 . 0 9 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ;主要阴离子 $\\mathrm { H C O } _ { 3 } ^ { - }$ 及主要阳离子 $\\mathrm { C a } ^ { 2 + }$ 均分别占阴、阳离子质量浓度的 $6 0 \\%$ 以上,Piper水化学分类表明均为 $\\mathrm { H C O _ { 3 } - C a \\cdot M g }$ 型",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）伊犁河和博尔塔拉河河水水样中TDS的大小主要由水中的 $\\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\\mathrm { C a } ^ { 2 + }$ 的浓度决定，因此，$\\mathrm { H C O } _ { 3 } ^ { - } \\cdot \\mathrm { C a } ^ { 2 + }$ 是河水水质的主控离子，并且河流水化学特征主要受采样区范围内的岩石风化作用的控制，其中碳酸盐岩风化程度高，而蒸发盐岩和硅酸盐岩的风化程度较低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）根据水化学组分沿程变化特征，得出伊犁河各离子浓度的变化趋势基本一致，博尔塔拉河各离子浓度的变化是从上游到下游逐渐增加趋势，尤其在博尔塔拉河下游罐区各离子浓度相对中上游高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）根据河流水质灌溉适宜性评价结果显示伊犁河和博尔塔拉河河水 $9 3 \\%$ 水样落在水质优良级别区，表明河流水质适宜灌溉。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]张倩,李孟.水环境化学[M].北京：中国建材工业出版社,2008.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[Zhang Qian,Li Meng.Water Environmental Chemistry[M]. Beijing: China Building Materials Press,2008.]   \n[2]李瑞,张飞,高宇潇,等.艾比湖区域地表水水化学特征干湿季 变化及其控制因素[J].冰川冻土,2016,38(5):1394-1403.[Li Rui, Zhang Fei, Gao Yuxiao,et al. Surface hydrochemistry characteristics and controlling factors in the EbinurLakeregionduring dryand wetseasons[J].Journal of GlaciologyandGeocryology, 2016,38(5):1394-1403.]   \n[3]何天丽,许建新,韩积斌,等.柴达木盆地西北部库拉木勒克萨 伊河—阿拉尔河流域水化学特征分析[J].盐湖研究,2017,25 (2): 21-27.[He Tianli,Xu Jianxin,Han Jibin,etal. Hydrogeochemical characteristics of Kulamulekesayi-Alaer River Valley in Northwestern Qaidam Basin[J]. Journal of Salt Lake Research, 2017,25(2): 21-27.]   \n[4]曾海鳌,吴敬禄,刘文,等.哈萨克斯坦东部水体氢、氧同位素和 水化学特征[J].干旱区地理,2013,36(4): 662-668.[Zeng Hai' ao,Wu Jinglu,Liu Wen,et al. Characteristics of hydroche-mistry and hydrogen,oxygen isotopes of waters in Kazakhstan[J].Arid Land Geography,2013,36(4): 662-668.]   \n[5]侯祎亮,安艳玲,吴起鑫,等.贵州省三岔河流域水化学特征及 其控制因素[J].长江流域资源与环境,2016,25(7):1121-1128. [Hou Yiliang,An Yanling,Wu Qixin,etal. Hydrochemical characteristics in the Sanchahe River Basin and the possible controls[J]. Resources and Environment in the Yangtze Basin, 2016,25(7): 1121-1128.]   \n[6]陈亚宁,李稚,方功焕,等.气候变化对中亚天山山区水资源影 响研究[J].地理学报,2017,72(1):18-26.[Chen Yaning,Li Zhi, Fang Gonghuan, et al. Impact of climate change on water resources in the Tianshan Mountians,Central Asia[J].Acta Geographica Sinica,2017,72(1):18-26.]   \n[7]姚俊强,杨青,毛炜峰,等.气候变化和人类活动对中亚地区水 文环境的影响评估[J].冰川冻土,2016,38(1):222-230.[Yao Junqiang,Yang Qing,Mao Weifeng,et al. Evaluation of the impacts of climate change and human activities on the hydrological environmentinCentralAsia[J].JournalofGlaciologyandGeocry ology,2016,38(1): 222-230.]   \n[8]Barnet T P,Adam JC,Lettenmaier D P.Potential impacts of a warming climate on water availability in snow dominated regions [J]. Nature,2005,438: 303-309.   \n[9]陈亚宁,李稚,范煜婷,等.西北干旱区气候变化对水文水资源 影响研究进展[J].地理学报，2014,69(9):1295-1304.[Chen Yaning,Li Zhi,FanYutig,etal.Research progessonthempact of climate change on water resources in the arid region of Northwest China[J].Acta Geographica Sinica,2014,69(9): 1295-1304.]   \n[10]Sorg A,Bolch T, Stofel M,et al. Climate change impacts on glaciers and runof in Tien Shan (Central Asia)[J].Nature Climate Change,2012,2(10): 725-731.   \n[11]谢菲,蔡焕杰,赵春晓,等.泾惠渠灌区地下水化学特征及其对 不同水源灌溉的响应[J].灌溉排水学报,2017,36(4):77-82. [Xie Fei,Cai Huanjie,Zhao Chunxiao,etal. Chemical properties of the groundwater in Jinghuiqu irrigation district and their response to irrigationusing water from different sources[J]. Journal of Irrigation and Drainage,2017,36(4): 77-82.]   \n[12] 高延康,刘祖发,卓文珊,等.基于模糊综合优化模型的湛江市 地下水灌溉适宜性评价[J].亚热带资源与环境学报,2019,14 (3): 29-37.[Gao Yankang,Liu Zufa, Zhuo Wenshan,et al. Suitabilityevaluationof groundwaterirrigation in Zhanjiang City based on optimization of fuzzy synthetic evaluation[J]. Journal of Subtropical Resources and Environment,2019,14(3): 29-37.]   \n[13]Piper A M.A graphic procedure in the geochemical interpretation of water-analyses[J].Transactions,American Geophysical Union, 1944, 25(6):914-928.   \n[14]Gibbs R J. Mechanisms controling world water chemistry[J]. Science,1970,170(3962): 1088-1090.   \n[15]Gu X, Xiao Y, Yin S,et al.Hydrogeochemical characterization and quality assessment of groundwater in a long-term reclaimed water irrigation area,North ChinaPlain[J].Water,2O18,1O(9): 1209.   \n[16]Wilcox L V. Classification and Use of Irrigation Waters,USDA, Circular,United States Departmentof Agriculture: Washington, DC, USA,1955,969: 19.   \n[17]张军民.伊型河流域地表水资源优势及开发利用潜力研究[J] 干旱区资源与环境,2005,19(7):142-146.[Zhang Junmin. Study on the suface water advantage and its exploitation potential in Yili River Basin[J]. Journal of Arid Land Resources and Environment,2005,19(7): 142-146.]   \n[18] 王玉娟,国冬梅.中哈界河伊犁河流域生态环境演变及其驱动 力[J].欧亚经济,2016(4):100-107,126,128.[Wang Yujuan, Guo Dongmei.The ecological environment evolution and its driving forces inthe IliRiverBasinoftheSino-Kazakh boundary River [J]. Russian Central Asian & East European Market, 2O16(4): 100 107,126,128.]   \n[19] 张军民.伊犁河流域地质构造及其地形地貌特点的研究[J].石 河子大学学报(自然科学版),2006,24(4): 442-445.[Zhang Junmin.Studies on the geological structures and characteristic of ter rain and landform in Yili River Basin[J]. Journal of Shihezi University (Natural Science Edition),2006,24(4): 442-445.]   \n[20] 张良臣,吴乃元.天山地质构造及演化史[J].新疆地质,1985,3 (1):1-14.[Zhang Liangchen,Wu Naiyuan.The geotectonic and its evolutionof Tianshan[J]. Xinjiang Geology,1985,3(1): 1-14.]   \n[21]张晶.博尔塔拉河水化学空间分布特征对生态环境的影响[J] 水利科技与经济,2015,21(7):7-9.[Zhang Jing.Impact of spatial distribution of water chemistry on the ecological environment in Bortala River[J].Water Conservancy Seienee and Technology and Economy,2015,21(7): 7-9.]   \n[22] 陈志军,曾庆江,王前进.博尔塔拉河水化学时空变化规律分析 [J].沙漠与绿洲气象,2007,1(6):10-13.[Chen Zhijun, Zeng Qingjiang,Wang Qianjin.The hydrochemistryanalysisof spatial and temporal variations in Boertala River[J]. Desert and Oasis Meteorology,2007,1(6): 10-13.]   \n[23] 赵顺阳,王文科,乔冈,等.地质构造对生态环境的控制作用分 析——以博尔塔拉河为例[J].新疆地质,2006,24(1):67-70. [Zhao Shunyang, Wang Wenke,Qiao Gang, et al.Analysis the control of geotectonic on flow and eco-environment in Bortala River [J]. Xinjiang Geology,2006,24(1): 67-70.]   \n[24]Burkhardt S, Zondervan I, Riebesell U.Effect of CO2concentration on C:N:P ratio in marine phytoplankton:A species comparison [J]. Limnol Oceanogr,1999,44: 683-690.   \n[25]Talling JF.The depletion of carbon dioxide from lake water by phytoplankton[J]. Journal of Ecology,1976,64(1): 79-121.   \n[26] 邵跃杰,罗光明,王建,等.新疆克里雅河上游主要离子化学特 征及其成因[J].干旱区研究,2018,35(5):1021-1029.[Shao Yuejie,Luo Guangming,Wang Jian,et al. Hydrochemical characteristics and formation causes of main ions in water of the Keriya River, Xinjiang[J].Arid Zone Research,2018,35(5): 1021-1029.]   \n[27] 唐玺雯,吴锦奎,薛丽洋,等.锡林河流域地表水水化学主离子 特征及控制因素[J].环境科学,2014,35(1):131-142.[Tang Xiwen,WuJinkui,Xue Liyang,etal.Majorion chemistry ofsurface water in the Xilin River Basin and the possible controls[J]. Environmental Science,2014,35(1): 131-142.]   \n[28] 王甜,蔡林钢,牛建功,等.乌鲁木齐河地表水化学组成及时空 分布特征[J].干旱环境监测,2017,31(3):102-109.[Wang Tian, Cai Lingang, Niu Jiangong,et al. Composition and temporal-spatial distributionof surface water in Urumqi River[J].Arid Environmental Monitoring,2017,31(3):102-109.]   \n[29] 肖捷颖,赵品,李卫红.塔里木河流域地表水水化学空间特征及 控制因素研究[J].干旱区地理,2016,39(1):33-40.[Xiao Jieying,Zhao Pin,Li Weihong.Spatial characteristic and controlling factors of surface water hydrochemistry in the Tarim River Basin [J]. Arid Land Geography,2016,39(1): 33-40.]   \n[30] 周嘉欣,丁永建,曾国雄,等.疏勒河上游地表水水化学主离子 特征及其控制因素[J].环境科学,2014,35(9):3315-3324. [Zhou Jiaxin,Ding Yongjian, Zeng Guoxiong,et al. Major ion chemistry of surface water in the upper reach of Shule River Basin and the possible controls[J]. Environmental Science,2O14,35(9): 3315-3324.]   \n[31]Ma L,Abuduwaili J,Li Y,et al. Hydrochemical characteristics and water quality assessment for the upper reaches of Syr Darya River in Aral Sea Basin,Central Asia[J]. Water,2O19,11: 1893.   \n[32] 吴丽娜,孙从建,贺强,等.中天山典型内陆河流域水化学时空 特征分析[J].水土保持研究,2017,24(5):149-156.[Wu Lina Sun Congjian,He Qiang,et al. Analysis of temporal and spatial variation of hydrochemical characteristics of the typical inland tiverin the middle of Tianshan Mountains[J].Research of Soil and Water Conservation,2017,24(5): 149-156.]   \n[33] 于奭,杜文越,孙平安,等.亚热带典型河流水化学特征、碳通量 及影响因素[J].水文,2015,35(4):33-41.[Yu Shi,Du Wenyue, Sun Pingan,et al. Study on chemical characteristics,carbon flux and influencing factors of typical rivers in subtropics[J]. Journal of China Hydrology,2015,35(4): 33-41.] [34] 李巧,周金龙,高业新,等.新疆玛纳斯河流域平原区地下水水 文地球化学特征研究[J].现代地质,2015,29(2):238-244.[Li Qiao,Zhou Jinlong,Gao Yexin,et al.Groundwater hydro-geochemistry in plain of Manasi River Basin,Xinjiang[J].Geoscience,   \n2015,29(2): 238-244.] [35]Zhang B, Song X, Zhang Y,et al.Hydrochemical characteristics and water quality assessment of surface water and groundwater in Songnen plain,Northeast China[J].Water Research,2O12,46(8):   \n2737-2748. [36]Wang Y,Jiao JJ. Origin of groundwater salinity and hydrogeochemical processes in the confined quaternary aquifer of the Pearl River Delta,China[J]. Journal of Hydrology,2012,438-439(none):   \n112-124. [37]Wang X,Ozdemir O,Hampton M A,et al. The effect of zeolite treatment by acids on sodium adsorption ratio of coal seam gas water[J].Water Research,2012,46(16): 5247-5254. [38]Stallard RF,Edmond JM. Geochemistry of the Amazon: 2. The influence of geology and weathering environment on the dissolved load[J]. Journal of Geophysical Research Oceans,1983,88(C14):   \n9671-9688. [39] 安艳玲,吕婕梅,吴起鑫,等.赤水河流域上游枯水期水化学特 征及其影响因素分析[J].环境科学与技术,2015,38(8):117-   \n122.[An Yanling,Lyu Jiemei,Wu Qixin,et al. Hydro-chemical characteristics of upper Chishui River basin in dry season[J]. Environmental Science & Technology,2015,38(8):117-122.] [40]张亚男,甘义群,李小倩,等.2013年长江丰水期河水化学特征 及控制因素[J].长江流域资源与环境，2016,25(4):645-654. [Zhang Yanan,Gan Yiqun,Li Xiaoqian,et al.Water chemical characteristic and controlling factors of the Yangtze River in the Wet Season,2O13[J]. Resources and Environment in the Yangtze Basin,2016,25(4): 645-654.] [41] 徐继红,王奕烨.新疆博尔塔拉河下游灌区的水资源可持续利 用刍议[J].水资源开发与管理,2016(3):35-37,59.[Xu Jihong, Wang Yiye.On the sustainable utilization of water resources in the irrigationarea of theLower Bortala Riverin Xinjiang[J].Water Resorces Development and Mnagement,2016(3): 35-37,59.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hydrochemical characteristics and their influence on rivers in the Western part of the Tianshan Mountains, Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Maerhubai Yasheng1²， MA Long2,3,4，Jilili Abuduwaili2,3,4， ZHANG Weiyan2,3,4 (1.School ofGeographical Scienceand Tourism,Xinjiang Normal University,Urumqi 83oo54,Xinjiang,China;   \n2.State KeyLaboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecologyand Geography,Chinese Academy   \nof Sciences, Urumqi 8300l1,Xinjiang, China; 3.Research Centerfor Ecology and Environment ofCentral Asia,   \nChinese Academy of Sciences, Urumqi 830011, Xinjiang, China; 4.Universityof Chinese Academy of Sciences, Beijing 100049, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: We analyzed the composition of constant ions in two primary rivers in the western section of the Tianshan Mountains: Ii River and Bortala River. Statistics and graphical ilustration of water chemistry were used to examine the characteristics of water chemistry and their influence on these rivers.The water environment in the western section of the Tianshan Mountains was assssed to evaluate the irigation suitability of the two rivers.Research results: The water bodies of the Il River and Bortala River are weakly alkaline, with pH values of 8.01 and 8.55,respectively,and their primary ion concentrations were in the same order. Among them,cation $\\mathrm { C a ^ { 2 + } { > } N a ^ { + } { > } M g ^ { 2 + } { > } K ^ { + } }$ and anion $H C O _ { 3 } ^ { - } { > } \\mathrm { S O } _ { 4 } ^ { 2 - } > C$ l-.A Piper classification diagram shows that the water chemistry type is $\\mathrm { H C O _ { 3 } } { - } \\mathrm { C a } \\cdot \\mathrm { M g }$ .The macro ions in the water bodies of the Ili River and Bortala River are primarily affected by the weathering of rocks. Ninety-three percent of the water samples had excellent water quality, indicating that the irigation adaptabilityof the Bortala and Ili Rivers issuitable for irrigation.Theresearch results are of substantial significance to the assessment of the water environment in the western section of the Tianshan Mountains and the sustainable use of water resources. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Tianshan Mountains； Ii River;Bortala River;hydrochemical characteristics； irrigation suitability",
+        "page_idx": 9
+    }
+]

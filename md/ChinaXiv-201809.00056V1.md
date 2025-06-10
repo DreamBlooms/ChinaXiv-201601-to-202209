@@ -1,0 +1,237 @@
+# 基于计算机视觉的材料感知技术综述
+
+邹凌云1,²，伍世虔1，方红萍³，黄志开²
+
+(1．武汉科技大学 冶金装备及其控制教育部重点实验室，武汉 430081;2.南昌工程学院 机械与电气工程学院，南昌330099;3．武汉科技大学 冶金自动化与检测技术教育部工程研究中心，武汉 430081)
+
+摘要：材料视觉感知是智能机器人与环境交互的重要前提，同时也是计算机视觉领域的基本课题。与物体识别不同，由于材料外在表现形式的多变性，使得材料视觉感知成为计算机视觉领域近些年来的一个新挑战。针对计算机视觉的材料感知问题，综述了国内外的主要研究成果，介绍这些研究的主要方法及其典型算法和基本思想，归纳出材料视觉感知的两种主要研究方法：材料识别和分类；材料属性及其参数估计。最后，提出目前研究所存在的关键问题，并指出材料视觉感知的未来可能发展方向。
+
+关键词：材料感知；计算机视觉；视觉感知；材料识别；材料属性 中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2018.07.0364
+
+# Survey on material perception via computer vision
+
+Zou Lingyun1., Wu Shiqian1, Fang Hongping³, Huang Zhikai² (1.KeyLaboratoryofMetallurgicalEquipment&ControlTechnology,MinistryofEducation,WuhanUniversityofcience& Technology，Wuhan430o81,China;2.SholofMechanical&ElectricalEngineering,Nanchang Instituteof Technology, Nanchang33099,China;3.EngineeringResearchCenterforMetalurgicalAutomation&DetectingTechnologyMiistryof Education,Wuhan University ofScience& Technology,Wuhan 430o81,China)
+
+Abstract:Material visualperceptionisanimportant premiseforintellgentrobots to interact withtheenvironment,and itis alsoabasic subject inthefieldofcomputervision.Unlikeobjectrecognition,materialperceptionhasbecomeanewchallenge forcomputer vision inrecentyearsduetoavarietyofmaterialsurface formations.This paperprovidedabriefreviewonmaterial perceptionbasedoncomputer vision,including the keymethodologiesand basic algorithms.Two frameworks for visual perceptionof materials are summarized:1.Material recognitionand classification;2.Estimationof material propertiesand parameters.Finally,several major isues existing in the current researchareilustrated,and further researchesonvisual perception of materials are provided.
+
+Key words: material perception; computer vision; vision perception; material recognition; material properties
+
+# 0 引言
+
+每个物体都是由某种或多种材料组成，仅通过扫视一眼人们就能够很好地了解它的组成材料。人们能轻易地判断所看到的桌子是否是木材、电脑是否是金属材质、地毯是否由柔软的纤维做成，这种识别和区分材料及其属性的能力被称为材料感知[1]。人类对材料的感知是通过大量诸如听觉、视觉和触觉等感觉器官来获得。而基于计算机视觉的材料感知系统主要是利用计算机技术对目标物体的图像进行处理和分析，获得材料的种类及其属性的了解，为后续行为或操作提供分析、判断的依据。
+
+对材料视觉感知技术的研究有着非常重要的意义。操作目标物体时，机器人系统需要根据目标物体的重量、表面粗糙度、柔软度等物理属性进行自适应抓取[2,3]；机器人导航过程中判别道路是否光滑、生产过程中判断食物和水果是否新鲜等。通过材料视觉感知技术，从而让机器人能像人一样感知周围环境并进行交互，根据不同材料采取不同行动策略：智能地避开刀片或破碎玻璃的锋利边缘，而对衣服的角线却不用那么敏感；人们在拿取易碎陶瓷材质的杯子要比朔料材质的更加小心翼翼等等[4]。
+
+然而，由于材料种类繁多、颜色各异、外形不一等特点，使得材料视觉感知研究非常具有挑战性。近年来，来自计算机、心理学、生物学，乃至认知学方面的研究人员一直都在努力探索使计算机视觉能够智能感知材料的类别和属性。日本电报电话公司(NTT)通信科技实验室联合美国麻省理工学院（MIT）的大脑认识科学（BCS)和计算机科学人工智能实验室（CSAIL），通过计算机视觉研究物体的光照灰度统计图和子带滤波器输出的偏移来判断材料表面属性，如光泽度和反射率[5]。自此，很多研究开始针对材料的属性估计，如光泽度 $[ 6 ^ { \sim } 1 0 ]$ 、透明度 $[ 1 1 ^ { \sim } 1 4 ]$ 和表面粗糙度 $[ 1 5 ^ { - } 2 0 ]$ 。Sharan[1]通过实验表明人类能从物体的图片中识别物体的材料种类，并在综合利用图片中的多方面信息后，其识别准确率显著提高。但是人类视觉系统在材料识别过程中，究竟利用了什么样的信息，至今仍然不太清楚[4。为了揭示人类对材料视觉感知的认识规律，最近许多生物视觉专家在这方面进行研究。Okazawa等人[21,22]利用大脑腹侧视觉皮层信息来提取物体复杂的纹理统计，并对其进行一系列表达。一些研究者利用功能性磁共振成像（FMRI）将大脑早期视觉皮层区、海马旁回与材料分类的表达之间联系起来，但这些表达模型仍然没有得到很好地解决。
+
+事实上，人类在物体识别和材料视觉感知方面的能力相差无几。然而在计算机视觉研究领域，不管是从识别正确率还是从研究文献数量相比较，材料视觉感知方面的研究都远远落后于物体识别 $[ 2 3 ^ { - } 2 5 ]$ 。相对于物体识别、人脸识别和场景识别，材料视觉感知的研究正处于初始阶段[26]，研究人员仍只是用常规的方法应用于材料视觉感知。如何针对材料本身特点，提出一种新颖而且有效的方法来提取材料的鲁棒性特征，仍是一个非常新颖而具挑战性的课题。
+
+目前国内还没有材料视觉感知相关的综述。本文首先介绍材料视觉感知系统及其流程；其次根据研究方向不同，从材料识别和分类、材料属性和参数估计两个方向综述目前研究成果；最后提出在材料视觉感知方面研究存在的关键问题，并指出未来可能的发展方向。
+
+# 1 材料视觉感知系统
+
+在计算机视觉系统结构中，一般处理流程为：图像获取到图像处理再到图像识别。而材料视觉感知系统的流程与上述基本一致，不同的是将图像处理分为低级图像处理、中级图像处理（估计材料属性）和高级图像处理（高级特征空间)，如图1所示。
+
+低级图像处理指的是提取图像的局部特征，如提取不同方向的灰度统计、空间频率、颜色等特征。这个阶段主要描述图片本身的信息，没有描述图片所蕴涵真实世界的物理意义。然后根据特征之间的关系进行分组处理，在大邻域中进行池化和比较，以创建更加复杂（通常是非线性）的响应。在这个处理阶段，视觉系统能够识别像角落、纹理渐变、虚幻轮廓等复合特征。这些特征虽然没有语义信息，但相对于直线和条纹等简单的图像信息，它能描述更为丰富的图像信息。从这里开始，逐渐进入到中级视觉处理阶段。在这个阶段，将前期的输出响应进行池化、分组并比较，以便视觉系统可以开始制定远端场景结构（即将表面光照强度梯度分解成的光照图和反射图)。这种盲源分离技术对从描述图像的初级特征阶段跨越到稳定地识别材料属性阶段而言是必不可少的。中级视觉阶段终极目标是描述表面特性，如光泽度、纹理、透明度等，甚至可能还有其他物理特性，如硬度、粗糙度或粘度等。这样，在中级视觉阶段中估计出来的不同属性值将用于建立表达不同材料的高维特征空间，而每种材料可以表示为该特征空间中的一个点。其具体过程如下：对给定的材料图像块都具有无光泽反射率、镜面反射率、不透明度等一系列的估计值，每一个估计值表示为高维空间中的一个维度。整个过程为高级视觉提供了基础，即根据它们在高维特征空间中的位置，将不同材料样本聚类。高层次视觉的目标就是组织并理解远端激励之间的关系，从而达到识别材料并提取其相关的语义信息。
+
+# 2 材料视觉感知研究现状
+
+根据研究方向的不同，可以将材料视觉感知研究方法分为两大类：a)材料识别和分类；b)材料属性和参数估计。材料识别和分类是自上而下即利用目标识别方法识别材料后推断其属性和参数。例如，当人们识别出目标物体为玻璃杯时，可以推断出它的透明度、硬度、粗糙度等信息。相反，材料属性和参数估计是自下而上即利用中级图像处理得到材料属性和参数后再进行材料的识别，如利用透明度、硬度、粗糙度等属性信息来识别目标是否为玻璃，如图2所示。这两种方法并不是相互排斥的，而是相互促进。每个材料属性或者参数都代表着目标物体在高维特征空间的某一维信息；反过来，材料的类别又有助于推断出材料属性或者参数[27]。
+
+图像获取初级图像 （灰度特征、颜处理 色、材料识 目标识别 中级图像物= = == 理属性） 体= 别 1 属 ！和分 材料识别 = 高级视觉 高维特征空间 性和1 类 1 1 参 ！= 1 数 == 二= 1 估 =物理属 材料识别 计== 理属性） --- -L
+
+![](images/7388a25512bf8f666716067cb2760f9031cedc5354d990641d09791eb20097ea.jpg)  
+图1材料视觉感知系统流程  
+图2两种材料视觉感知研究方法的相互关系
+
+# 2.1材料识别和分类
+
+材料视觉感知的主要功能之一就是对其进行识别和分类。人们很自然想到利用现有的目标识别、场景识别的方法对材料进行识别分类。将材料视觉感知归纳为目前已经比较成熟的物体识别问题，比如咖啡杯常用陶瓷制作，汽车用金属和玻璃做成，椅子材质常常为木材。用目标识别的方法在图片中进行目标检测，这样很容易就能推断出目标物体的材质种类。然而采用现有的目标识别、场景识别的方法对材料进行识别也存在问题。物体种类与材料种类之间并不是一一映射，尤其是人造产品，如图3所示；同一种物体可以用不同材料做成，同时不同物体可以用同一种材料做成，如图4所示。不同于物体和场景识别，要在图像中找到可靠识别材料的特征是非常困难。
+
+尽管目前在目标识别方面，计算机视觉的识别成功率超越人类[28,29]。但是在材料识别方面，计算机视觉的表现远远比不上人类。有研究者认为，材料识别落后于物体识别的原因或许是因为缺少训练的数据库[26]。表1为近些年研究者们创建用于材料识别的数据库。CUReT和KTH-TIPS这两个数据库主要用于材料属性和参数估计。最初，一些研究者们采用人工选取的特征（如颜色、sift等）提供给标准分类器，基于这种材料识别系统，Sharan 等人[4,30]通过网上下载1000 张图片（组成10种材料，每种材料包含100张图片），建立FlickrMaterialDatabase(FMD)。这个数据库成为人类和计算机识别材料的经典数据库。通过志愿者参与实验，Sharan及其同事发现，人类可以在短短的 $4 0 ~ \mathrm { m s }$ 的时间内从假材料中精确地识别出真实材料[31\~33]。根据人类材料识别经验，Sharan 等人[34]在图片中提取出人类在材料识别过程中运用到的低级和中级视觉特征，并提供给SVM分类器，识别正确率达到 $57 \%$ 。Liu等人[35]利用FMD数据库，在贝叶斯框架下结合图片的低级和中级特征，提出增强LDA模型。实验识别率达到 $46 \%$ 。Badami[36通过SVM分类器达到 $5 3 . 1 \%$ 。接着更多的模型趋向采用CNN自动提取特征，Schwartz等人[37,38]结合无监督学习和手工选取的特征，达到$4 8 . 9 \%$ 准确率。为了弥补像物体识别中ImageNet[39]那样的带有标签图片的数据库缺失，Wieschollek等人[40]建立谷歌材料数据库（GMD)，并用迁移学习法在GMD 和FMD 数据库进行实验，识别率分别达到 $74 \%$ 和 $64 \%$ 。Bell等人[41]利用众包技术建立了自然环境下的材料数据库，该数据库由含有3百万张手工标记区图片组成23种材料。毫无疑问，随着材料识别数据库的建立并完善，必将促进材料视觉感知的发展。
+
+表1材料识别数据库  
+
+<html><body><table><tr><td>数据库</td><td>创建者</td><td>创建时间</td><td>图片数量/张</td><td>材料种类</td></tr><tr><td>CUReT</td><td>Dana</td><td>1999</td><td>12505</td><td>61</td></tr><tr><td>KTH-TIPS</td><td>Hayman</td><td>2004</td><td>810</td><td>10</td></tr><tr><td>FMD</td><td>Sharan</td><td>2009</td><td>1000</td><td>10</td></tr><tr><td>MINC</td><td>Bell</td><td>2015</td><td>3000000</td><td>23</td></tr><tr><td>GMD</td><td>Wieschollek</td><td>2016</td><td>10000</td><td>10</td></tr></table></body></html>
+
+![](images/4151a0b72287ec6fb9578758708969c50e8bede6e226447f5361a49e3b944a3d.jpg)  
+图3材料各异的杯子
+
+![](images/454314b280053a08db137e128674648b8413f5d9e01412ecd659f2d6e069a89c.jpg)  
+图4同种材料的不同外在表现
+
+# 2.2材料属性和参数估计
+
+Fleming 等人[27邀请一些志愿者，在FMD 数据库的子集上进行实验，这些志愿者既没有明确地告诉图片来自不同类别，也没有要求对这些材料进行归类，但他们对有助于材料识别的九种属性的判断正确率高达 $90 \%$ 。这表明图片可以用来准确地进行材料识别，同时材料属性与材料种类密切相关。采用分类识别的方法对材料进行分门别类（木材、皮革、玻璃、塑料等）不能体现出人类对材料丰富的主观感受。计算机模式识别技术将图像赋予相应的边界和标签，这使得它们忽略了材料大部分感观[26]，然而正是这些感观特征才使得不同的材料显得诱人、弥足珍贵和与众不同。人类对材料的视觉感知正是对物体的某种固有属性和参数的感知（反射率、刚度、半透明度)，将其称之为材料属性和参数估计。材料属性和参数估计大致可分为两类：a)材料的光学属性估计，如目前研究比较多的表面反射率、光泽度、透明度等；b)材料的机械性能，如粘度、弹性等。
+
+# 2.2.1材料的光学属性估计
+
+当光线照射到物体表面，光线可能被吸收，可能被反射，也可能被透射。这样不同的物体，就表现出不同的光学属性。对于不透明物体，光线传播特征可以用双向反射分布函数（BRDF）进行描述[42,43]。该分布函数描述入射光线经过发射后的反射光线在各个角度的分布情况，如图5所示。BRDF定义为
+
+$$
+f ( l , \nu ) = \frac { d { \cal L } _ { 0 } ( \nu ) } { d E ( l ) } \Rightarrow f ( \theta _ { i } , \varphi _ { i } , \theta _ { r } , \varphi _ { r } ) = \frac { d { \cal L } _ { 0 } ( \theta _ { r } , \varphi _ { r } ) } { d E ( \theta _ { i } , \varphi _ { i } ) }
+$$
+
+其中： $\mathbf { \xi } _ { l }$ 是入射光方向； $\nu$ 是观察方向； $d L _ { 0 } ( \nu )$ 是表面反射到 $\nu$ 方向的反射光的微分辐射率； $d E ( l )$ 是表面上来自入射光方向l的微分辐照度。双向反射分布函数原始模型具有较多的变量，实际处理过程中，常常用含有部分变量的近似解析模型来替代原始模型 $[ 4 4 ^ { - } 4 7 ]$ 。
+
+目前，对材料光学属性的研究主要集中在表面反射率的感知 $[ 4 8 ^ { \sim } 5 1 ]$ 。表面反射率感知就是从照片中估计双向反射分布函数中未知参数的过程。然而人类到底推断出哪些参数、利用了多少参数目前仍然不清楚。目前，大多数研究工作只考虑那些简单图片信息，最近一些研究正考虑更能表达真实世界的图片信息。真实物体的图片[5,52,53]和用图像软件合成的图片 $[ 6 , 7 , 2 7 , 5 4 ^ { - } 5 6 ]$ 被用来识别真实材料。Nishida、Shinya以及其他研究者表明类似于光照灰度图的形状等图片信息与漫反射和镜面反射的反射率有着密切的关系[5,6,53]。
+
+物体内部可视图呈现碎片或扭曲状。当透射光透射到物体内部时，一部分被分散，部分被吸收。散射使材料内部充满光线，从而使背景图案无法看清，并导致材料呈现出独特的乳白色、轻微发光、半透明的外观，如大理石、玉石等。
+
+大多数双向反射分布函数（BRDF）解析模型被分解为漫反射（图6（a)）和镜面反射（图6（b)）两部分，并利用参数控制这两者的相对比例。漫反射和镜面发射的线性组合能够粗略估计一系列光泽度不同的材料，如朔料、金属和油漆等。但是仍然有部分材料(丝绒等)，不能够用这个模型进行表达。一般来说表面反射率估计本质上就是对光泽度的研究[57]。最近，很多有关光泽度的研究主要集中在以下几个方面：a)改变以下条件：光照的改变[7,8,15]、外形的改变[9,27,54,58,59]、颜色的改变[56],测量光泽度的不变性；b研究引起表面光照强度梯度变化的原因（如通过表面光照强度梯度特点来区别表面的划痕、无光泽阴影和镜面高亮部分)；c)寻找材料视觉感知成功和失败的视觉信息 $[ 7 , 6 0 ^ { \sim } 6 3 ]$ 。Fleming 等人[7]认为光照的本身特性会影响表面光泽度估计能力。Berzhanskaya等人[64]已经通过实验证明表面光泽度感知是空间分布不一致的，并且它受到镜面反射亮点的影响。对于像玉石和瓷器这样的半透明材料来说，类似镜面高光、渲染着色和背景等信息对光泽度估计影响比较大[11]。Anderson及其同事强调几何外形对强度梯度影响[61,62,65]，人类视觉系统将物体几何表面法线变化编码成强度变化率[66]。
+
+![](images/d91aaf23a39585b1bfacae72600897404b2c19fb18f3df90a782a50871a26f7f.jpg)  
+图5双向反射分布模型
+
+双反射分布函数(BRDF)尝试分离出反射率和材料相关信息，然而这项技术没有考虑纹理和几何外形的影响因素。不同材料表面可以呈现出相同的反射率属性[34]，如玻璃、朔料、腊都能表现出透明性质，如图7（a）所示。因此，材料表面反射率信息不是材料识别的必要条件。再者，估计BRDF模型和参数也不是一件容易的事。对图7（b）中单张图片，在没有关于3D 外形或者材料属性等简单假设条件下 $[ 6 7 ^ { \sim } 7 0 ]$ ，想估计它的BRDF几乎是不可能的[71,72]。
+
+前面只讨论不透明物体，然而现实生活中人们常常遇到像玻璃、水、果酱、水晶等透明物体。这些透明物体不能够用双反射分布函数（BRDF）来描述，因为对透明物体来说，从A点入射的光线，会从其他点发射出去，如图8所示。透明物体的这种特性可以用双向表面散射分布函数模型进行描述。由于这些物体都比空气的光学密度高，这将导致：a)镜面发射，这使得大多数透明物体看起来都有光泽度；b)折射，这个特性使透明
+
+![](images/1bf71979eca83a5a03ea825e7578dcd960922e8d5806ecfed7ff06eccb36548e.jpg)  
+图6漫反射模型和镜面反射模型
+
+![](images/d22e292beee52375db3b2319767f57944f90f7bf98907bfec6779d85ff243d4e.jpg)  
+图7不同材料呈现相同的反射率属性[34]
+
+![](images/37393e06accb80f28dd5c6dcbcb93fb87ec3206ec5868bb3297f26d787db1624.jpg)  
+图8透明材料的光线传播
+
+大多数对透明材料的研究把对象理想化成透明过滤薄片，这样就可以忽略折射和散射效应 $[ 7 3 ^ { \sim } 7 6 ]$ 。透过过滤片观察表面时，所得到的图像块是背景和过滤片颜色的融合后的结果。为了感知过滤片的本身固有颜色和透射率，视觉系统必须分解背景和过滤片的相对贡献率，这一过程称为颜色分离。然而现实生活中大多数透明物体都不是这样理想的透明薄片，使得薄过滤片模型不具有普遍性。如何估计这些透明材料的属性仍然是个棘手的问题。Fleming等人在带纹理背景前模拟玻璃状卵石，在物理折射率的变化条件下，使用最大似然差异缩放（MLDS）[77]来测量折射率是如何变化。他们发现了一个非线性压缩函数，这个函数与折射引起的背景纹扭曲程度具有较强的相关性。具体而言，他们注意到，根据透明物体的形状，透射纹理图案在图像中出现压缩或放大。产生失真的大小不仅取决于折射率，还取决于其他场景变量，如物体的厚度和背景的距离[78]。尽管没有这些可见的扭曲信息，人们也能轻易地识别出透明物体。这表明在识别透明物体属性时，人类还利用其他的很多信息。比如，由于折射率的增加镜面发射也相应地增加，就可以根据光泽度来判断折射率[78,79]。为了研究透明度的视觉信息，Fleming和Bulthoff通过渲染材料，使得它具有参数变化的散射特性表面。他们做了关于透明材料和他们属性的非常正规的记录，包括亮度、对比度、强度梯度的平滑度、色彩饱和度。他们发现半透明材料在角落和边缘周围具有特征性明亮条纹，将这种局部明亮的条纹添加到不透明物体可以使其整个外观变为半透明。同时，他们也测量了半透明度随照明方向的变化，发现从后面照射的物体看起来比从前面照射的物体更加透亮，这一发现被Xiao 等人[13]验证和推广。改变透明材料的局部光照强度分布可能使它们看起来更加不透明或透明[5,II]。这表明，与不透明材料一样，人类视觉系统可根据表面形状引起的光照强度变化进行透明度相关编码。然而与不透明材料不同，这种关系不能用单一反射函数来概括，即将物体表面法向映射到图像光照强度[80,81]。Marlow 等人[14]指出无法得到这种映射关系可能暗示该表面是透明的，并且指出表面法向与强度之间映射的连续性决定强度梯度是由漫反射阴影还是透明辉光引起的。然而许多其他的光学现象（如相互反射、投射阴影、表面纹理）也能影响这种映射关系，因此该发现对区别透明表面有多大程度的帮助依然值得商榷。
+
+# 2.2.2材料机械性能估计
+
+许多材料（如纺织品和流体）都是可变形的，这意味着它们会根据外力以独特的方式运动或变形。例如，羊毛或丝绸在重力作用下呈现独特的形状和运动特征，这些特征为材料视觉感知提供了丰富信息。羊毛具有较大的弹性和高摩擦力，而丝绸往往更密集和更滑。
+
+材料的机械性能估计的研究目前还处于起步阶段。液体是引起大家对机械性能研究兴趣的典型材料。Kawabe,Maruya,Fleming，和Nishida基于单独的运动信息，就可以推断液体的存在及其粘度[82].随后,V.C.Paulun,Kawabe,Nishida 和Fleming从浇注液体的静态快照中推断粘度[83]。编织物是另外一种重要而又典型的变形材料。人类能够估计不同织物的相对密度和刚度[84]，而且这些性质不会随着施加在织物上的有限外力而发生改变[85]。
+
+对视觉信息进行物理推理的研究，尤其是人们对事物行为的预测的研究，往往需要丰富的内部模型。当人们将粘稠的蜂蜜滴入面包上，预测弹性球的轨迹，或者警告朋友不要将过多的书放在架子上以免将书架压垮，这些行为表示人们不是简单地估计材料的属性，而是预测材料的未来状态。材料视觉感知的这方面研究很少有人涉及[86\~90]，或许这方面要求比物体识别和属性估计更深层次的表达。物体识别（确定场景中是否有液体存在）和属性估计（推断出液体的粘性）只需要判断图片中与材料相关的特征。然而对于预测物体未来的位置、形状、和状态，需要某种内部模型，这种模型能够以泛化和开环的方式将当前的观察结果转换为对未来的预测。
+
+物体表面粗糙度估计相对来说成熟得多。目前，国内外已经提出了不少表面粗糙度的测量技术。根据其测量原理不同可分为基于光学干涉原理 $[ 9 1 ^ { \sim } 9 4 ]$ 、散射原理[95\~101]、散斑原理的测量方法和基于机器视觉技术的测量方法[102-105]。利用光学原理测量粗糙度的方法具有较高的精度，但是该类方法对操作环境和仪器要求很高。而基于机器视觉技术测量方法具有测量速度快、范围广、成本相对低廉等优点，使得它越来越受到研究者们的关注。
+
+# 3 结束语
+
+人们生活在由不同材料组成的物质世界里，如果要让机器能感知丰富多彩的现实世界，就需要计算机视觉从物体识别的低级阶段飞跃到材料视觉智能感知的高级阶段。然而由于以下原因，使得材料视觉感知变得非常具有挑战性：
+
+a)材料种类繁多、颜色各异、外形不一等特点，要从图像中提取材料识别的稳定特征是非常困难的。
+
+b)传统视觉识别方法在材料识别时不适用。现有的目标识别、场景识别、纹理识别等方法直接应用于材料识别时存在诸多问题，其主要原因是至今仍然不清楚人类视觉系统在材料识别过程中，究竟利用了什么样的信息。或许人类在材料视觉感知时很有可能不只是简单地利用单一信息而是综合利用图像的低级、中级、高级阶段多种交叉信息，这依然值得研究者们继续探索。
+
+c)用于材料识别的数据库很不完善。目前比较经典的材料识别的数据库是由sharan 通过互联网下载1000 张10 种材料的图片。相对用于物体识别数据库ImageNet而言，这个数据库无论从种类还是数量都相差很大。这也是部分研究者认为材料识别落后于物体识别的原因之一[26]。
+
+综合上述材料视觉感知的困难，今后可能需要从以下几个方面进行探索：
+
+a)从解剖学、生理学、认知学方面研究，究竟哪些因素对材料视觉感知至关重要。基于此，对图像进行指导性处理，综合低级、中级视觉信息，提取材料的鲁棒性特征，为高维特征空间表达奠定基础。
+
+b)研究新的适用于材料视觉感知的理论方法。传统的方法如分类、匹配、参数估计等在材料识别方面遇到很多问题，比如物体表面反射率属性常常与材料种类有关，不同材料表面可以呈现出相同的反射率属性，因此，仅仅利用材料表面反射率信息是很难通过视觉感知材料及其属性。
+
+c)研究人类在小样本数据条件下快速的泛化能力。在很多情况下，人们只需要看一次新材料就可以在新环境中识别它，并将它与人们熟悉的其他材料相联系。如何让计算机具有这种能力，是一项非常值得研究的工作。
+
+# 参考文献：
+
+[1]Sharan L.The perception of material qualities in real-world images [D]. Cambridge,MA: Massachusetts Institute of Technology,2009.   
+[2]Paulun VC,Gegenfurtner KR,Goodale MA,et al. Effects of material properties and object orientation on precision grip kinematics[J]. Experimental Brain Research,2016,234(8):2253-2265.   
+[3]WeirPL,MacKenzieCL,Marteniuk RG,et al. Is object texture a constraint on human prehension!: kinematic evidence [J]. Journal of Motor Behavior, 1991,23 (3): 205-210.   
+[4]Sharan L, Rosenholtz R, Adelson E H. Accuracy and speed of material categorization inreal-world images [J]. Journal ofVision,2014,14(9): 1- 24.   
+[5]Motoyoshi I, Nishida S,Sharan L,et al. Image statistics and the perception of surface qualities [J]. Nature,2005,447(7141): 206-209.   
+[6] Nishida S, Shinya M. Use of image-based information in judgments of surface-reflectance properties [J].Journal ofthe Optical Society of America A Optics Image Science & Vision,1998,15 (12): 2951-2965.   
+[7]Fleming R W, Dror R O,Adelson E H. Real-world ilumination and the perception of surface reflectance properties [J]. Journal of Vision,2003,3 (5): 347-368.   
+[8]Motoyoshi I,Matoba H. Variability in constancy of the perceived surface reflectance across different illumination statistics[J]. VisionResearch,01, 53 (1): 30-39.   
+[9] Olkkonen M, Brainard D H. Joint effects of illumination geometry and object shape in the perception of surface reflectance [J].i-Perception, 2011, 2 (9): 1014-1034.   
+[10] Olkkonen M, Brainard D H. Perceived glossiness and lightness under realworld illumination [J]. Journal of Vision,2010,10 (9):1-19.   
+[11] Fleming R W, Bülthoff H H.Low-level image cues in the perception of translucent materials [J].Acm Transapplpercept,2005,2 (3): 346-382.   
+[12] Gkioulekas I, WalterB,Adelson EH,et al. On the appearance of translucent edges [C]//Proc of IEEE CVPR.Piscataway,NJ: IEEE Press,2015:5528- 5536.   
+[13] Xiao Bei,Walter B,Gkioulekas I,et al.Looking against the light: how perception of translucency depends on lighting direction [J]. Journal of Vision,2014,14 (3): 1-22.   
+[14] Marlow P,Kim J,Anderson B. Coupled computations of 3D shape and translucency[J]. Journal of Vision,2016,16 (12): 947.   
+[15] Pont SC, te Pas SF. Material-illumination ambiguities andthe perception noise surfaces [J]. Vision Research,2008,48 (17): 1791-1797.   
+[17] Bergmann Tiest W M, Kappers A M. Haptic and visual perception of roughess [J]. Acta Psychol (Amst),2007,124(2):177-189.   
+[18] Ho Y X,Landy M S,Maloney L T.How direction of illumination affects visuallyperceived surface roughness[J]. Journal of Vision,2oo6,6(5): 634- 648.   
+[19] Stone R A. Roughness and reflection in machine vision [D]. Pennsylvania: Carnegie Mellon University,1994.   
+[20] Granzier JJ, Vergne R, Gegenfurtner K R. The effects of surface gloss and roughness on color constancy for real 3-D objects [J]. Journal of Vision, 2014,14 (2): 1-20.   
+[21] Okazawa G,Tajima S,Komatsu H. Image statistics underlying natural texture selectivity ofneurons in macaque V4 [J].Proceedings ofthe National Academy of Sciences of the United States ofAmerica,2015,112(4): E351- E360.   
+[22] Okazawa G,Tajima S,Komatsu H. Gradual development of visual textureselective properties between macaque areas V2 and V4[J]. Cereb Cortex, 2016,27 (10): 4867-4880.   
+[23] Adelson EH. On seeing: stuff the pereption of materials by humans and machines [Cl/ Proc of SPIE 4299, Human Vision and Electronic Imaging VI. Bellingham, Washington: SPIE Press,2001:1-12.   
+[24] Fleming R W. Visual perception of materials and their properties [J]. Vision Research,2014, 94 (1): 62-75.   
+[25]Fleming R W, Gegenfurtner KR,Nishida S. Visual perception of materials: the science of stuff[J]. Vision Research,2015,109 (Pt B): 123-124.   
+[26] Fleming R W. Material perception [J].Annual Review of Vision Science, 2017,3 (1): 365-388.   
+[27] Fleming R W, Wiebel C, Gegenfurtner K. Perceptual qualities and material classes [J].Jourmalof Vision,2013,13(8):1-20.   
+[28] Krizhevsky A,Sutskever I, Hinton G E. ImageNet classification with deep convolutional neural networks [Cl// Proc of the 25th International Conference on Neural Information Processing Systems. New York: ACM Press,2012: 1097-1105.   
+[29] He Kaiming,Zhang Xiangyu,Ren Shaoqing,et al. Deep residual learning for image recognition [C]//Proc ofIEEE CVPR.Piscataway,NJ: IEEE Press: 770-778.   
+[30] Sharan L,Rosenholtz R,Adelson E. Material perception: what can you see in a brief glance?[J]. Journal of Vision,20o9,9(8):784.   
+[31] Thorpe S,Fize D,Marlot C.Speed of processing in the human visual system [J]. Nature,1996,381(6582): 520-522.   
+[32] Fabrethorpe M,Delorme A,Marlot C,et al.A limit to the speed of processng in ultra-rapid visual categorization of novel natural scenes [J]. Journal of Cognitive Neuroscience,2001,13 (2): 171-180.   
+[33] Wichmann FA,Drewes J,Rosas P,etal. Animaldetection in natural scenes: critical features revisited[J].JournalofVision,2010,10(4):1-27.   
+[34] Sharan L,Liu Ce,Rosenholtz R,et al.Recognizing materialsusing perceptually inspired features [J]. International JournalofComputer Vision, 2013,103 (3): 348-371.   
+[35] Liu Ce,SharanL,Adelson EH,et al.Exploring featuresina Bayesian framework for material recognition [J].Computer Vision and Pattern Recognition,2010,119 (5): 239-246.   
+[36] Badami I.Material recognition Bayesian inference or SVMs [C]//Proc of the 16th Central European Seminar on Computer Graphics for Students. 2012.   
+[37] Schwartz G,NishinoK. Visual material traits:recognizing per-pixelmaterial context [C]//Proc of IEEE CVW.Piscataway,NJ: IEEE Press,2013: 883- 890.   
+[38] Schwartz G,Nishino K.Automatically discovering local visual material atributes [C]/ Proc of IEEE CVPR.Piscataway,NJ: IEEE Press,2015: 3565-3573.   
+[39] Deng Jia,Dong Wei,SocherR,et al.ImageNet:a large-scale hierarchical image database [C]//Proc ofIEEECVPR.Piscataway,NJ: IEEEPress,2009: 248-255.   
+[40] Wieschollek P,Lensch HPA.Transfer learning formaterial classification using convolutional networks [EB/OL](2016)[2018-07-07].https:/rxiv org/pdf/1609. 06188. pdf.   
+[41] BellS,Upchurch P,SnavelyN,et al.Material recognition in the wild with the materials incontext database [C]//Proc of IEEE CVPR.Piscataway, NJ: IEEE Press,2015: 3479-3487.   
+[42] Nicodemus FE.Directional reflectance and emissivity of an opaque surface [J]. Applied Optics,1965,4(7): 767-773.   
+[43] NicodemusFE,RichmondJC,HsiaJJ,et al.Geometrical considerations and nomenclature for reflectance [M]. New York: ACMPres,1992: 94-145.   
+[44] Cook R L,Torrance K E.A reflectance model for computer graphics [C]// Proc of the 8th annual conference on Computer graphics and interactive techniques.New York: ACMPress,1981: 307-316.   
+[45] Ngan A,Matusik W. Experimental analysis of BRDF models [C]/ Proc of the16th Eurographics conference on Rendering Techniques.Switzerland: EurographicsAsociationAire-la-Vill,2005:117-126.   
+[46] Ngan A,Matusik W. Image-driven navigation of analytical BRDF models [C]// proc of the 17th Eurographics conference on Rendering Techniques. Switzerland: Eurographics Association Aire-la-Vile,2006: 399-407.   
+[47] WardGJ. Measuring and modeling anisotropic reflection[J]. Acm Siggraph Computer Graphics,1992,26 (2): 265-272.   
+[48] Bloj MG,Kersten D,HurlbertAC.Perceptionof three-dimensional shape influences colour perception through mutual ilumination [J].Nature,1999 402 (6764): 877-879.   
+[49] Boyaci H,MaloneyLT,Hersh S.The effect of perceived surface orientation on perceived surface albedo in binocularly viewed scenes [J]. Journal of Vision,2003,3 (8): 541-553.   
+[50] BrainardDH,Kraft JM,LongereP.Color constancy: developing empirical tests of computational models[J].Mausfeld& Heyer,2003,167(3):173 180.   
+[51]Maloney L,Yang Joongnam.The illumination estimation hypothesis and surface color perception [M].Oxford: Oxford University Press,2003: 335 358.   
+[52]RobilotoR,Zaidi Q.Limits oflightness identification forrealobjects under naturalviewing conditions [J].Journal of Vision,2004,4(9):779-797.   
+[53] SharanL,Li Yuanzhen,Motoyoshi I,et al. Image statistics for surface reflectanceperception [J]. Journal of the Optical Society of America a Optics Image Science and Vision,2008,25 (4):846-865.   
+[54] Ho Y X,Landy M S,Maloney LT.Conjoint measurement of gloss and surface Texture[J].Psychological Science,2008,19 (2): 196-204.   
+[55] Pellacini F,FerwerdaJA, Greenberg DP.Toward a psychophysicall-based light reflection model for imagesynthesis $[ \mathrm { C } ] / \AA$ Proc of the 27th Annual Conference on Computer Graphics and Interactive Techniques.New York: ACMPress,2000:55-64.   
+[56] Xiao Bei,Brainard D H. Surface glossand color perception of 3D objects [J].Visual Neuroscience,2008,25(3):371-385.   
+[57] Chadwick AC,Kentridge RW.The perception of gloss: areview [J]. Vision Research,2015,109:221-235.   
+[58] Marlow P J, Kim J,Anderson B L.The perception and misperception of specular surface reflectance [J]. Curent Biology Cb,2012,22 (20):1909- 1913.   
+[59] Vangorp P,Laurijssen J.The influence ofshapeon the perception ofmaterial reflectance [J].Acm Transon Graphics,2007,26(3):77.   
+[60] Motoyoshi I, Nishida S,Sharan L,et al. Image statistics and the perception of surface qualities [J].Nature,2007,447(7141): 206-209.   
+[61] Anderson BL,Kim J.Image statistics do not explain the perceptionof gloss and lightness[J]. JournalofVision,2009,9(11):1-17.   
+[62] Kim J, Anderson BL. Image statistics and the perception of surface gloss and lightness[J]. JournalofVision,2010,10 (9):3.   
+[63] Baumgartner E,Wiebel C B, Gegenfurtner K R.A comparison of haptic material perceptionin blindand sighted individuals[J].Vision Research, 2015,115 (PtB):238-245.   
+[64] Berzhanskaya J,Swaminathan G,Beck J,et al. Remote effects ofhighlights on gloss perception [J].Perception,2005,34(5): 565-575.   
+[65] Marlow PJ,Anderson B L.Generative constraints on image cues for perceived gloss[J].JournalofVision,2013,13 (14):1-23.   
+[66] VergneR,BarlaP,FlemingRW,et al.Surface flows for image-based shading design [J].Acm Transon Graphics,2012,31(4):1-9.   
+[67] Boivin S,Gagalowicz A. Image-based rendering of diffuse,specular and glossy surfaces from a single image [Cl// Proc of the 28th Annual Conference on Computer Graphics and Interactive Techniques.New York: ACM Press,2001: 107-116.   
+[68]RomeiroF,Vasilyev Y,Zickler T.Passive reflectometry[C]//Proc of the 10th European Conference on Computer Vision: Part IV. Berlin: SpringerVerlag,2008: 859-872.   
+[69] Romeiro F, Zickler T. Blind reflectometry[C]// Proc of 11th European Conference on Computer Vision.Berlin: Springer-Verlag,2010: 45-58.   
+[70] Tominaga S,Tanaka N.Estimating reflection parameters from a single color image [J]. IEEE Computer Graphics & Applications,2000,20 (5): 58-66.   
+[71]Marschner SR,Westin SH,Lafortune EPF,etal.Image-based BRDF measurement including human skin [Cl// Proc of the 1Oth Eurographics conference on Rendering. Switzerland:Eurographics Association Aire-laVille. 1999: 131-144.   
+[72] Ramamoorthi R, Hanrahan P.A signal-processing framework for inverse rendering [C]// Proc of the 28th Annual Conference on Computer Graphics and Interactive Techniques.New York:ACMPress,2001: 117-128.   
+[73]MeteliF.Analgebraic development ofthe theoryofperceptualtransparency [J].Ergonomics,1970,13(1): 59-66.   
+[74] Singh M,AndersonBL.Towardaperceptualtheoryoftransparency[J]. PsychologicalReview,2002,109 (3): 492-519.   
+[75] Robiloto R, Zaidi Q. Perceived transparencyofneutral density filters across dissimilar backgrounds [J]. Journal of Vision,2004,4(3): 183-195.   
+[76]FaulF,ErollVOhefiappoachteptalaspayJ]. Journal of Vision,2011,11(7): 1-33.   
+[77]MaloneyLT,Yang J.Maximum likelihood difference scaling [J].Journal of Vision,2003,3 (8): 573-585.   
+[78]Fleming R W, Jakel F, Maloney L T. Visual perception ofthick transparent materials [J]. Psychol Science,201,22(6):812-820.   
+[79] Schluter N,Faul F.Are optical distortionsused asa cue for material propertiesof thick transparent objects?[J].Journal ofVision,2014,14 (14) 2.   
+[80] Ikeuchi,Katsushi.Numerical shape from shading and occluding contours in a single view [J].MIT Artificial Intelligence Laboratory,1979:   
+[81] Horn B K P, Brooks M J. The Variational approach to shape from shading [J].Computer Vision Graphics & Image Processing,1985,33 (2): 174-208.   
+[82] Kawabe T,Maruya K,FlemingRW,etal. Seeing liquids from visual motion [J].Vision Research,2015,109 (Pt B): 125-138.   
+[83]PaulunVC,KawabeT,NishidaS,et al.Seing liquids from staticsnapshots [J].Vision Research,2015,115 (PtB): 163-174.   
+[84] Bouman KL, XiaoBei,BattagliaP,etal. Estimating the material properties of fabric from video [C]/ Proc of IEEE CV. Piscataway,NJ: IEEE Press, 2013: 1984-1991.   
+[85] Bi Wenyan, Xiao Bei. Perceptual constancy of mechanical properties of cloth under variation of external forces [C]/ Proc of ACM SAP. New York: ACM Press,2016: 19-23.   
+[86] Bates CJ, Yildirim I,Tenenbaum JB,et al. Humans predict liquid dynamics using probabilistic simulation [EB/OL] (2015)[2018-07-07]. http://www. mit. edu/\~ilkery/papers/probabilistic-simulation-model. pdf.   
+[87] Battaglia PW,Hamrick JB,TenenbaumJB.Simulation asan engine of
+
+physical scene understanding [J].Proceedings of the National Academy of Sciencesof theUnited StatesofAmerica,2013,110(45):18327-18332.
+
+[88]Denil M,AgrawalP,KulkarniTD,etal.Learningtoperformphysics experiments via deep reinforcement learning [EB/OL] (2016)[2018-07-07]. https://arxiv. org/abs/1611. 01843.   
+[89] HamrickJB,Battaglia W,Grifiths TL,et al. Inferring mass incomplex scenes by mental simulation[J]. Cognition,2016,157: 61-76.   
+[90] Nusseck,Manfred,Lagarde,etal.Perceptionand predictioofsimplebject interactions [C]//Proc of the 4th Symposium on Applied Perception in Graphics and Visualization. New York: ACMPress,2007: 27-34.   
+[91]梁嵘，李达成，曹芒等．在线测量表面粗糙度的共光路激光外差干涉仪 [J]．光学学报,1999(7): 95-98.(Liang Rong,LiDacheng,Cao Mang,et al. Common optical path laser heterodyne interferometer for measuring surface roughness on-ine[J].Acta OpticaSinica,99(7):95-98）   
+[92]罗忠生，杨建坤，张美敦．光学外差法检测超光滑表面粗糙度[J].上 海交通大学学报,1999(1): 55-58.(Luo Zhongsheng, Yang Jiankun,Zhang Meidun. Measurement of the roughness of supersmooth surface using optical heterodyne method[J]. Journal of Shanghai Jiaotong University, 1999, (01): 55-58.)   
+[93] Minsik J. Performance optimization of phase-shifting interferometry using data average on wide range roughness measurement [J]. Optical review, 2004, (1): 55-59.   
+[94] Alvarez I, Enguita JM. Toward online non-contact roughness profile measurements with a sensor based on conoscopic holography:current developments [C]// Proc of SPIE 6382，Two-and Three-Dimensional Methods for Inspection and Metrology IV,Washington: SPIE Press,2006: 176-177.   
+[95]李丽娟．目标激光散射特性在钢板表面微观轮廓精度测量中的应用研 究[D]．长春：长春理工大学,2005.(Li Lijuan.Research on applying laser scattering characteristic of object to measure surface microcosmic profile precision of steel plate [D].Changchun:Changchun University of Science and Technology,2005.)   
+[96] Persson U. Measurement of surface roughness using infrared scattering [J]. Measurement,1996,18 (2): 109-116.   
+[97]程路，张炳泉．激光束在漫射表面上的散射（I）[J].物理学报，1980, (12): 1570-1580. (Cheng Lu,Zhang Bingquan.Scattering of the laser beam on a diffuse surface [J].ActaPhysica Sinica,1996,18 (2): 109-116)   
+[98]Cheng Lu,Siu Gueigu. Measurement of surface roughness with core-ring ratio method using incoherentlight [J]. Measurement Science & Technology, 1990, 1 (11): 1149.   
+[99] Duparre A, Gliech S. Quality assessment of supersmooth to rough surfaces bymultiple-wavelength light scattering measurement $[ \mathrm { C } ] / \AA$ Proc of SPIE, Scatering and Surface Roughness.Bellingham,Washington: SPIE Press, 1997: 57-64.   
+[100] Bjuggren M,Krummenacher L，Mattsson L.Noncontact surface roughness measurement of engineering surfaces by total integrated infrared scattering[J].Precision Engineering,1997,20(1):33-45.   
+[101]Rinder T,Rothe H.Development review of an angle-resolved light scatter (ARS) sensorLARISSA[C]//Proc of SPIE.ISOE: SPIE Press,20O3:116- 127.   
+[102]Chen C.A study of texture classification using spectral features [C]//Proc of IAPR ICPR,1982:1074-1077.   
+[103]Lu Shinyee,Fu K.A syntactic approach to texture analysis [J].Computer Graphics & Image Processing,1978,7(3):303-330.   
+[104]Lu Rongsheng，Tian Guiyun，Gledhill D，et al.Grinding surface roughness measurement based on the co-occurrence matrix of speckle pattern texture [J].Applied Optics,2006,45 (35): 8839-8847.   
+[105]Lu Rongsheng.Geometrical information extraction from laser speckle pattern images using texture analysis [C]//Proc of Third International Symposium on Precision Mechanical Measurements. Bellingham, Washington: SPIE Press,2006: 62801V-62806V.

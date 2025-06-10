@@ -1,0 +1,310 @@
+[
+    {
+        "type": "text",
+        "text": "听觉预测编码：对声音重复和变化的神经反应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吕雪靖²；侯欣1²1.中国科学院心理健康重点实验室（中国科学院心理研究所），北京1001012.中国科学院大学心理学系，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Predictive coding in auditory cortex: The neural responses to sound repetition and auditory change ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LU Xuejing1,2; HOU Xin1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. CAS Key Laboratory of Mental Health, Institute of Psychology, Beijing 100101, China 2. Department of Psychology, University of Chinese Academy of Sciences, Beijing 100049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要预测编码被认为是脑与复杂环境交互的重要机制之一，有效感知外界环境并对未来事件做出预测，对个体生存有着至关重要的意义。人类大脑会基于感觉输入以迭代的方式持续优化表征外部环境的内部模型，并不断预测接下来的感觉输入。以听觉模态为例，人类及动物对声音重复和听觉变化的神经反应(如失匹配负波和刺激特异性适应)是大脑预测编码的重要体现，表现为重复抑制和预测误差。结合人类和动物模型在此理论框架下开展跨物种研究将有助于加深我们对听觉加工，甚至是大脑工作机制的认识。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词 预测编码；重复抑制；预测误差；MMN；SSA分类号",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对外界环境进行快速有效地感知并确定感觉信息的来源，是感觉系统的首要功能。以听觉为例，外界环境中往往含有大量并行发生的且无论在时域上还是频域上声学特性都相互重叠的声音事件。然而，面对这些看似毫无章法的声音信息时，大脑却能有效地将其归类和组织(Bregman,1994)，从而方便个体轻松地选择信息，再认声音模式以及探测新异刺激等。Näatänen,Tervaniemi， Sussman,Paavilainen 和 Winkler (2001)将这种在感觉皮层上进行的认知活动称为初始感觉智力(primitive sensory intelligence)。与传统观点认为大脑仅被动接收“自下而上”的信息输入不同，这种观点还强调了大脑对感觉信息“自上而下”的调节。更重要的是，大脑会基于感觉输入以迭代的方式持续优化表征外部环境的内部模型，并不断预测接下来的感觉输入。这一概念最先由Rao 和 Ballard (1999)基于视觉模态提出，他们将视觉加工视为一种预测编码(predictivecoding)。具体而言，感觉系统采用预测编码的方式对每一个层级的信息进行处理。每个层级接收自下而上的信息输入和自上而下的预测。如果输入的信息和现有的预测相矛盾，那么误差信号就会产生并向上传送，以在更高水平调整预测。修正后的预测向下传递预测信号，并在较低水平依此产生预期，从而抑制预测误差。后来，预测编码的概念被广泛应用于听觉模态(Friston,2005；Rubin,Ulanovsky,Nelken,& Tishby,2016),这主要得益于研究者们对听觉失匹配负波(mismatch negativity,MMN)和刺激特异性适应(stimulus-specific adaptation,SSA)的充分研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预测编码被认为是脑与复杂环境交互的重要机制之一。基于这个理论框架，大量理论、实证和计算模型的研究迅速开展。为更好地理解预测编码是如何在听觉皮层上进行的，本文从实证研究的角度总结了人类及动物对声音重复和听觉变化的神经反应，并讨论了预测编码存在于听觉模态的两个主要证据：重复抑制(repetition suppression)和预测误差(prediction error)。具体而言，文章首先梳理了人类听觉MMN的相关研究，并基于预测编码的视角解释了大脑自上而下的活动对 MMN 所涉及的不同加工阶段的影响；然后，文章以动物模型为研究对象，以 SSA为切入点，进一步讨论了预测编码的神经基础；最后，文章讨论了预测编码作为一种理论框架目前所面临的困境和未来发展的趋势，从而提示开展跨物种研究对加深理解听觉加工机制的重要性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于人类的听觉预测编码研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1听觉MMN ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MMN 被认为是反映变异探测(deviance detection)的良好的神经指标 (Näatänen,Paavilainen,Rinne,& Alho,2007;Winkler,2007)。诱发MMN的经典范式为oddball 范式，即以不同的发生概率交替呈现两种或多种声音刺激(Näatänen,Pakarinen，Rinne，&Takegata,2004)。不同的声音刺激可以是空域上的不同(如空间位置)，可以是频域上的不同(如音高、音色)，也可以是时域上的不同(如刺激时长、刺激间隔)(Näätänen et al.,2007)。频繁重复出现和偶尔随机出现的声音刺激分别被称为标准刺激(standard)和变异刺激(deviant)。MMN 指的是标准刺激和变异刺激所诱发的神经响应之间的差异波(difference wave)，通常在变异刺激呈现后150\\~250 ms 出现。MMN的分布主要集中在头皮的前中部(Näatänen,Paavilainen,&Reinikainen,1989)，其主要发生源被定位在听觉皮层和前额叶(Näatänen et al.，2007)。MMN 的潜伏期和波幅会受标准刺激和变异刺激之间声学差异(Sams,Paavilainen,Alho,& Näätänen,1985)、变异刺激出现概率(Taaseh,Yaron,& Nelken,2O11)以及刺激时域信息复杂性(Lumaca,Trusbak Haumann,Brattico,Grube,&Vuust,2018)等因素的影响。值得注意的是，随着标准刺激和变异刺激之间差异的增大，MMN的潜伏期提前且会和听觉N1成分重叠，导致两者无法分离。然而，N1 更多的是和刺激的物理属性相关，而很少受刺激间差异的影响。因此，MMN 的潜伏期会随变异程度的不同而发生改变，相比之下 N1 的潜伏期则相对稳定(Näatänen &Picton, 1987)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管 MMN 被认为反映的是前注意加工(pre-attentive processing)，无需意识参与,但 MMN 的波幅和潜伏期仍会受到自上而下的注意和预期的影响(Chennu et al.,2013;Heilbron&Chait,2018)，且两种影响因素的作用方式并不相同(Auksztulewicz＆Friston,2015;Cacciaglia, Costa-Faidella, Zarnowiec,Grimm,& Escera, 2019)。在某些情况下，注意条件下的 MMN 会与反映注意变异探测(attentional deviance detection)的 N2b 成分的重叠，但一般而言N2b 的潜伏期要晚于MMN，大约在变异刺激呈现后 $2 0 0 { \\sim } 3 0 0 ~ \\mathrm { m s }$ 达到峰值。此外，N2b 的头皮分布也与 MMN 的不同，主要集中在中央顶叶且极性在乳突位置不反转，提示其发生源可能在听觉皮层之外(Naätänen，Simpson，&Loveless,1982)。实际上，MMN可以分为两个阶段：标准形成(standard formation)和变异探测(deviance detection)。标准形成是 MMN 生成的基石，为变异探测确立了基础，当一个变异刺激被探测到时，MMN随之被诱发(Sussman，2007)。一般来说，标准形成阶段会受到注意、预期和音乐训练等自上而下的因素的影响，而变异探测阶段不受注意影响，反映的是真正的前注意感觉加工(Sussman,Winkler,&Wang,2003)。但是需要指出的是，对变异刺激的探测依赖于标准形成过程中对输入声音序列规则的提取以及其在大脑中的表征或记忆痕迹(Näätänen& Picton，1987)。最直接的证据来自Sussman，Winkler,Huotilainen,Ritter 和 Näätänen(2O02)的研究。在这项研究中，研究者给被试呈现声音序列并要求被试或者忽略声音(ignore condition)，或者注意音高变化(attend-pitchcondition)，或者注意声音模式违反(attend-pattern condition)。结果发现，在忽略声音和注意音高变化条件下，变异音都会诱发 MMN成分，然而这一现象并没有在注意声音模式条件下出现。这主要是因为在注意声音模式条件下，局部的变异音会被当作整体的标准音，因此并没有违背之前建立起来的规则，提示听觉皮层对声音表征的保持会受到自上而下注意的影响，进而影响到MMN 变异探测过程。此外，虽然注意音高条件比忽略声音条件多诱发出了N2b 成分，但这两种条件下的 MMN成分相当，表明注意并不会影响 MMN 变异探测过程本身(Sussman et al.,2002; Sussman et al.,2003)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前学术界对 MMN 的解释主要依赖于两大假说：适应假说(adaptation hypothesis)和记忆痕迹假说(memory-trace hypothesis)。适应假说主要从神经元水平来解释 MMN现象，认为神经元细胞对区分标准刺激和变异刺激各维度特征具有高度选择性，即对标准刺激和变异刺激响应的神经元细胞的集合并不完全一致。频繁重复出现的标准刺激会让负责对标准刺激做出N1响应的神经元细胞出现适应，然而对变异刺激做出 N1响应的神经元细胞则处于一种未适应的状态，因此会在变异刺激出现时表现为增强的N1 响应。该假说指出这种神经反应是一种刺激特异性适应，而且并没有单独的大脑区域负责产生 MMN，因此 MMN 并不是一个独立的成分，而是延时衰弱的 N1 成分(Jääskeläinen etal.,2004;May& Tiitinen,201O)。然而，现有实验数据无法完全支持这一假说(Näätänen,Jacobsen,&Winkler,2005)。例如，变异音能够在没有诱发N1的情况下诱发MMN(Yabe,Tervaniemi,& Reinikainen,1997;Yabe et al.,1998)。相比之下，传统的记忆痕迹理论认为MMN 是一个独立的反映失匹配成分的信号。当大脑接收到声音刺激后，会和基于先前声音序列形成的记忆模板(memory template)进行比较，当大脑探测到新的声音输入与记忆模板不一致时，就会产生MMN。因此，该假说认为MMN反映的是一个更高水平的对比系统：当大脑探测到差异，系统产生误差信号，并调整记忆模板(Näätänen et al.，1989)。与传统的记忆痕迹理论的观点类似，预测编码理论也强调MMN反映的不是简单的适应，而是一种失匹配信号。但是和传统的记忆痕迹理论不同的地方在于，预测编码理论认为系统所产生的误差信号是由感觉输入和预测模型不匹配所产生的，也就说 MMN 反映的是输入不符合预测刺激后大脑表征更新的过程，是大脑对未来事件主动预测的过程(Friston，2005,2010;Winkler，2007)。目前，有越来越多的证据表明大脑是以一种主动预测的方式与外界复杂环境进行交互，而非被动的通过感觉系统接收外界信息(Friston,2018)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MMN 是指变异刺激诱发的神经反应和标准刺激诱发的神经反应之间的差异，因此MMN 幅值的增大，一方面可能是在变异探测阶段由于大脑对变异刺激反应的增大导致，另一方面也可能是在标准形成阶段由于大脑对标准刺激反应的减小导致。例如有研究发现，随着标准刺激个数的增加，MMN 波幅增大的主要原因并不是因为变异刺激出现概率减小而诱发了更大的负向波，而是因为标准刺激在呈现后 $5 0 { \\sim } 2 5 0 ~ \\mathrm { m s }$ 之间诱发出一个正向慢波(包括 P50、N1 和 P2 成分)，这个慢波又被称为重复正波(repetition positivity)(Haenschel, Vernon, Dwivedi, Gruzelier,& Baldeweg,2O05)。换言之,MMN 本身所包含的两个不同的神经反应阶段(标准形成和变异探测)，分别表现为重复抑制和预测误差。下文将分别从这两个方面讨论听觉皮层如何以预测编码的方式对声音重复和听觉变化进行加工。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2重复抑制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着标准刺激的重复出现，大脑对声音规则的表征逐渐形成，在神经反应上则表现为重复抑制(Baldeweg,2006)，其神经发生源涉及听觉和非听觉区域(Recasens,Leung,Grimm，Nowak，&Escera，2015)。实际上，不同领域的研究者经常使用习惯化(habituation)、不应性(refractoriness)、适应(adaptation)来解释重复抑制现象(Budd,Barry,Gordon,Rennie,&Michie,1998)。这些基于不同视角的表达方式或多或少阻碍了研究者们对重复抑制的理解，造成了一定的混乱。具体而言，习惯化主要是从心理学视角出发，指的是由于重复呈现某一刺激而导致其失去新异性后，对其反应减弱的现象。按照习惯化假设，可以做出以下三个预测： (1)在出现习惯化后，无论刺激如何变化(变大或者变小)，一定会出现一个去习惯化(dishabituation)的过程；(2)习惯化是随着刺激重复呈现而逐渐形成的，因此对重复刺激的反应也应该是逐渐减弱的；(3)短时间内习惯化不会受到刺激之间的间隔(inter-stimulus interval,ISI)的影响。然而，对去习惯化的预测并没有得到实验数据的支持(Barry，Cocker，Anderson，Gordon，&Rennie，1992;Muenssinger et al.,2013; Rosburg et al.,2O06)。此外，Ritter,Vaughan 和 Costa (1968)发现个体的电生理指标在刺激重复出现几次之后就迅速降低，而不是逐渐降低；并且这种现象仅在ISI为2s时出现，在ISI为10s时并没有发现，提示刺激重复出现所造成的神经反应减弱并不是一个简单的习惯化现象。不应性以及适应表述的是一种神经生理现象，即神经反应的减弱是由听觉神经元产生动作电位后的不应性或者神经元适应导致的(May& Titinen,2010)。然而，神经元的不应期都是毫秒级的，因此用神经元的不应性来解释 MMN 并不合适。基于这个原因，O'Shea (2015)建议用适应来替代不应性，但这种做法需要谨慎对待(Stefanics,Kremlacek,&Czigler,2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "按照预测编码的观点，重复抑制不仅与先前刺激的发生率相关，还与未来刺激的可预测性有关，即重复抑制不仅包含由刺激重复出现本身所导致的神经反应抑制，也包含由刺激重复出现而产生的预期所导致的神经反应抑制(Grotheer& Kovacs,2016;Winkler,Denham,& Nelken,2009)。最早的实验证据来自 Summerfield,Trittschuh,Monti,Mesulam和Egner(2008)对面孔加工的研究。研究者通过操控刺激重复出现的概率，发现当刺激重复不可预测时大脑所表现出的重复抑制减小，表明重复抑制是大脑在加工不可预期刺激时所产生的自上而下的感知预测误差。在听觉模态的研究中，较早的证据来自Costa-Faidella,Baldeweg,Grimm 和 Escera(2011）对刺激呈现时间的可预测性如何影响重复抑制的探讨。该研究采用了徘徊标准频率范式(roving standard frequencyparadigm)，在这种 oddball变式中，由3个、6个和12个单音组成的三种声音序列随机呈现，每个序列内部的所有单音音高一致。这样的操作可以保证每个序列中的第一个音较前一个序列而言是一个低概率的变异刺激，而序列中的最后一个音是该序列中高概率的标准刺激。具体实验中，根据序列内刺激间间隔是否固定，实验试次被划分为两类：可预测试次和不可预测试次。结果发现，当被试被动听声音序列时，相比于可预测试次，不可预测试次所诱发的重复抑制效应减弱，表现为重复正波早期成分(如N1)的消失和后期成分的完整无损 $( \\sim > 2 0 0 ~ \\mathrm { m s }$ ，如P2)。这一结果也提示了时间可预测性(\"when\")在听觉皮层水平上对刺激特异性记忆痕迹形成的影响，而且这种影响可能在听觉加工皮层下(subcortical)阶段已经存在(Gorina-Careta,Zarnowiec,Costa-Faidell，&Escera, 2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "类似地，Wacongne,Changeux 和 Dehaene (2012)通过向被试频繁交替呈现声音对AB 和偶尔重复呈现声音对AA，让被试在听到A后产生对B出现的额外预期。按照预测编码的假设，由于AA 出现的概率很小，是不可预期刺激，因此不存在因刺激重复出现而产生的预期抑制，即 AA 会比 AB 诱发更大的神经反应。实验结果也确实支持了这种假设，而且这一结果并不能简单地归结为大脑中可能存在更高级的神经元特异性地对 AB 模式反应(即适应观点)，因为当AA和AB刺激间间隔时间远大于突触抑制的恢复时间时，AA依旧诱发了MMN。Todorovic,van Ede,Maris 和de Lange (2011)的研究也得到了相似的结果，发现听觉皮层中存在对AA的重复抑制现象，但这种抑制在 AA 不可预期时变小，说明重复抑制中存在预期抑制。以上结果皆表明对未来事件内容(\"what\")的预期也会影响重复抑制。在随后的研究中，Todorovic 和de Lange (2012)通过正交操控重复和预期，首次尝试从重复抑制中分离预期抑制。结果发现，重复和预期对听觉响应的影响阶段并不相同，且不存在交互。具体来说，受重复影响发生的时间更早(大约在刺激呈现后 $4 0 { \\sim } 6 0 ~ \\mathrm { m s } ,$ ，而受预期影响的时间相对较晚(大约在刺激呈现后 $1 0 0 { \\sim } 2 0 0 ~ \\mathrm { m s } )$ 。相比之下，重复和预期都会影响到晚期反应 $( 2 0 0 { \\sim } 5 0 0 ~ \\mathrm { m s } )$ 。这也提示感觉反应在神经加工的时间进程中受不同调节作用的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如上文所述，大量的实验证据表明在标准刺激呈现阶段(即标准形成阶段)，大脑不仅会因为刺激重复出现本身减弱由标准刺激诱发的神经反应(即重复抑制)，也会提取刺激间的内在关系并在不同的加工水平建立对下一个刺激的预期(即预期抑制)。前者可以看作是一种基于刺激本身出现概率的低水平预期，而后者可以被认为是基于刺激之间更复杂的统计规律的高水平预期，它们都反映了对重复声音的预测编码。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3预测误差 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在变异刺激呈现后，随着标准刺激重复出现而建立起的规则被违背，预测误差信号产生(Winkler& Schroger,2015)。为了检验不同水平的规则违背(即局部和整体)对MMN 的影响，Wacongne 等人(2011)向被试呈现由多个相同单音组成的声音序列(如XXXXX)，并通过改变最后一个音产生局部变异(如XXXXY)和操控不同类型声音序列的发生概率产生整体变异(如 $7 5 \\%$ XXXXX, $1 5 \\%$ XXXXY, $10 \\%$ XXXX_)。结果发现,当局部变异因为发生概率低而不可预期时(即 XXXXX 组块中的 XXXXY 试次)要比其发生概率高而可预期时(即 XXXXY 组块中的 XXXXY试次)诱发更大的MMN，这也符合预测编码理论的假设，表明存在更高等级的预测可以抵消局部变异所诱发的失匹配信号。此外，在XXXXY 组块中，并无局部变异的 XXXXX 试次也诱发了新异反应，为听觉皮层中存在更高等级的预测提供了证据。然而，这种前瞻性的层级式预测会因睡眠而被干扰，但反映信息失匹配早期加工的 N1,N2 等成分不受影响(Strauss et al,2015)，提示很可能存在独立的加工阶段对失匹配信息进行加工，即不受睡眠影响的被动适应阶段和受睡眠影响的主动预测阶段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "感觉系统是分层组织的且不同层的神经元结构相似，因此相似的预测编码计算原理可以在大脑皮层的多个层级水平下适用(Friston,2005)。这就意味着在预测编码理论下每个层级中都存在因为违背预测而产生的预测误差和自上而下传递而来的预测。然而，如何从预测误差信号中分离出预测信号一直是预测编码研究中的一个难题(Heilbron＆Chait,2018)。为解决这一问题，很多研究从声音序列中缺失刺激(omission；即无任何刺激输入)所诱发的神经反应入手，间接证明听觉皮层对感觉输入的主动预测。具体来说，刺激缺失是刺激持续时间改变诱发MMN中的极端情况，即刺激时长为0(Yabe etal.,1997)。由于缺失刺激排除了物理刺激本身的干扰，因此其所诱发的 MMN被认为反映的是听觉加工中主动预测与无感觉输入之间的失匹配。SanMiguel,Widmann,Bendixen,Trujillo-Barreto 和 Schroger (2O13)让被试自主按键生成声音并操控按键后出现声音的概率( $8 8 \\%$ ， $5 0 \\%$ 或者 $0 \\%$ )，结果发现只有按键后更可能得到声音反馈条件下的声音缺失才会诱发MMN，证明对缺失刺激的神经反应也需要建立在按键生成声音可预测的前提下。而且这种可预测性不仅需要基于刺激出现的时间同时也需要基于刺激的内容，否则个体无法形成准确的预测(SanMiguel，Saupe,& Schroger,2013)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chennu 等人(2016)采用了与 Wacongne 等人(2011)类似的研究范式，即在连续呈现的五音序列中，第五个音可能是高出现概率 $( 7 4 \\% )$ 的整体标准刺激(AAAAA或BBBBB),可能是低出现概率 $( 1 3 \\% )$ 的整体变异(AAAAB 或 BBBBA)，也可能是低出现概率 $( 1 3 \\% )$ 的缺失刺激(AAAA_或 BBBB_)。通过与缺失音可预测的两个额外的控制条件对比，结果发现只有当缺失发生在不可预测时 MMN 才被诱发。这一发现也表明对声音缺失的神经反应是预测的结果，而非被动的神经振荡的延续效应(carry-over effect)，提示了缺失刺激MMN的预测本质。Wacongne 等人(2011）认为当个体预期某个变异刺激发生的时候，这个刺激的缺失实际上违背了两种预期：一种是对声音序列中最后一个声音刺激会出现的局部预期，即对“会有声音”的预期；一种是基于出现概率等对声音序列中最后一个声音刺激是什么的更高水平的预期，即对“具体声音内容”的预期。而且需要强调的是，缺失刺激诱发的 MMN 幅值在注意条件下要比非注意条件下大(Chennuet al.,2016;Chouiter etal.,2015)，提示缺失刺激MMN受注意的调节，这也与预测编码模型中强调注意可以调节预测的强度和准确度的观点相一致(Auksztulewicz& Friston,2015)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关于预测和预测误差分离更直接的证据来自Durschmid 等人(2018)的研究，他们假设发生在下一个刺激呈现之前的预测信号最能体现前瞻主动的预测过程。通过重新分析Durschmid等人(2016)对手术病人被动接受声音序列的颅内皮层记录数据。结果发现与不可预期的变异刺激相比，病人前额叶皮层的宽波段高频振幅(high-frequencyamplitude,HFA）在可预期的变异刺激呈现之前下降，这与此种条件下刺激呈现后误差信号的降低显著相关，提示刺激前HFA的降低和对可预期变异神经反应的降低之间存在内在联系。此外，他们还观察到随着不可预测条件下声音序列中标准刺激的重复出现，刺激前的HFA降低。由于在不可预测条件下不断出现重复刺激，意味着下一个刺激为变异刺激的可能性增加，这也从另一个角度说明HFA大小和变异出现可能性之间的关系，为存在独立于预测误差的预测信号提供了证据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上，当变异刺激不符合预测的时候，大脑产生预测误差信号，并且自下而上传输到更高级的加工水平，同时也会调整内在模型从而产生新的自上而下的预测并向下传递用于解释消除预测误差，以减少大脑的计算负荷和感知的不确定性，提高加工效率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3 基于动物模型的听觉预测编码研究",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "人类和动物在某些神经加工过程中存在极大的相似性，因此基于动物模型的研究结果在一定程度上可以推用到人类。采用局部场电位(local field potentials，LFPs)、硬膜外事件相关电位(epidural ERPs)、多通道记录(multiunit recordings)等技术有助于揭示听觉皮层中预测编码的神经基础。虽然大多数与听觉预测相关的早期动物研究主要聚焦在初级听觉皮层(primary auditory cortex，A1)神经元的刺激特异性适应(SSA)，只有很少一部分的动物实验是真正以听觉皮层中的预测编码为主要研究对象。但是，目前越来越多基于动物模型的预测编码研究提示皮层 SSA并不是单纯的神经元细胞对特异性刺激的适应，其本身也受到自上而下的因素的影响，这也提示 A1神经元可能是预测编码的神经基础。因此，人类和动物研究的结合有助于研究者对预测编码理论的深入理解和验证(Heilbron& Chait,2018)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 SSA ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与人类MMN类似，SSA指的是在A1神经元中记录到的对重复刺激的选择性反应减弱(Fishman & Steinschneider,2O12; von der Behrens,Bauerle,Kossl,& Gaese, 2009)。因此，SSA也常被认为是单细胞水平的 MMN(Nelken,2014; Ulanovsky,Las,& Nelken,2003)。Szymanski,Garcia-Lazaro 和 Schnupp (2009)使用 oddball 范式，记录了氯胺酮(ketamine)麻醉条件下大鼠A1神经元对标准音和变异音的LFPs，并对其进行了电流源密度分析(current source density analysis)。结果发现，同一频率的声音作为变异刺激时要比其作为标准刺激时诱发更大的神经反应，而且A1各层神经元的响应大小并没有显著性差异。类似地，利用语音中的元音作为刺激材料，发现在清醒大鼠听觉皮层深层(IV-VI)的神经元对违背预期的声音刺激有响应(Eriksson&Villa,2005)。然而，有研究指出大鼠对变异刺激的探测和对标准刺激的适应在下丘(inferiorcolliculus)就已经可以体现(Malmierca,Cristaudo,Perez-Gonzalez,& Covey,2O09)。最近的证据也表明早在小鼠的耳蜗核(cochlear nucleus)就发现了 SSA 的存在，说明非特异性的短时适应可能早在听觉神经纤维就已经开始(Duque,Pais,& Malmierca,2018)。值得注意的是，听觉信息的传递主要通过两条通路：丘系(lemniscal)和非丘系(nonlemniscal)通路。对于丘系通路而言，其包含的神经元更多的是对声音刺激的物理特征而非刺激之间的关系响应，因此皮层下丘系部分的神经元并不会产生预测误差；相比之下，非丘系通路中的神经元更多地受皮层调节，可以接收自上而下的预测并传递自下而上的预测误差，为加工复杂听觉信息提供了可能性(Parras etal.,2017)。已有研究证明可以在位于皮层下核团非丘系部分神经元中记录到完整的或者更强烈的SSA，而在丘系神经元中仅能部分记录到 SSA(Malmierca et al.,2009; Polterovich, Jankowski,& Nelken,2018)。因此，发生时间较早的皮层下SSA $( < 1 0 0 ~ \\mathrm { m s } )$ 虽然不存在心理预期等成分，但在一定程度上可能反映了早期的变异探测。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "然而，目前学术界对皮层 SSA 和 MMN之间的确切关系仍存在争议。一方面，皮层 SSA 和 MMN 特征相似(Grimm,Escera,& Nelken,2016; Ulanovsky et al.,2003)，主要表现为它们都是由刺激间差异导致的。皮层 SSA和MMN的幅值大小都与变异出现的概率负相关，与标准刺激与变异刺激之间的差异大小正相关；另一方面，很多证据表明皮层 SSA 并非是 MMN 的直接基础，两者存在本质性的差异(Carbajal& Malmierca,2018)。例如，皮层SSA要比MMN出现的更早，大约在变异刺激呈现后 $1 0 0 ~ \\mathrm { { m s } }$ 之内就能观测到，因此SSA可能是A1记录到的MMN的前身，而MMN本身可能是初级和更高级皮层反应的结合体。此外，NMDA拮抗剂可以干扰MMN，但是对皮层 SSA无任何影响(Khouri&Nelken,2015)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2听觉皮层神经元中的预测",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "虽然 SSA这一命名本身强调了刺激特异性和适应，但它是否真的只是神经元对特定刺激的简单适应仍不确定。Ulanovsky 等人(2003)发现猫的 A1神经元对出现频率低的音高和音强都会有更大的反应，类似于皮层水平的MMN，因此认为A1的神经元不仅加工声音特征，可能还涉及感觉记忆和变异探测，即 MMN 在 A1的发生源可以用皮层上的 SSA 来解释。在后续研究中，Ulanovsky,Las,Farkas 和 Nelken(2004)将麻醉状态下的猫暴露在以固定概率独立呈现的声音对序列中，发现 SSA的诱发不仅依赖于当下刺激本身，同时也依赖于一段时间内(超过秒级)的刺激序列。由于对刺激序列的保持或加工时间远超过突触抑制所持续的时间，因此不能简单地认为 SSA只是由突触可塑性决定的(Taaseh etal.,2O11;Yaron,Hershenhoren,&Nelken,2012)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rubin 等人(2016)重新分析了Ulanovsky 等人(2004)的数据，尝试量化 SSA 的生成在多大程度上依赖于以往信息的数量和细节。他们假设大脑对以往信息的表征是一种简化的表征，以用于对未来事件的预测。通过利用信息论来定量这些简化表征的复杂性(complexity)以及对未来事件所携带的预测信息，研究者发现 A1神经元的神经反应和根据刺激序列所计算出来的理论预测误差相关。对某些神经元来说，预测误差可以解释超过 $5 0 \\%$ 的观测变异。因此，他们推断 A1神经元可以对未来做出预测。更多的证据来自 Yaron 等人(2012)的研究，通过对麻醉和清醒大鼠听觉皮层细胞内和细胞外记录，发现大鼠对声音序列的结构敏感，表现为对随机序列会比对周期性的序列诱发出更大的响应，这为 SSA 中存在预测提供了有力的证据。此外，Rummell,Klee 和Sigurdsson(2016)通过记录并对比小鼠听觉皮层对自发生成声音和非自发生成声音的神经元活动，结果发现小鼠听觉神经元对自己动作生成的声音的响应减弱，提示预测加工可能是声音信息在神经元水平加工的基础。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "与人类 MMN 研究类似，神经元对变异刺激的响应即所观察到的皮层 SSA(对变异刺激的神经反应减去对标准刺激的神经反应)，包含了两个很难在经典范式所诱发的SSA 中分离的部分：对重复刺激的抑制和对新异刺激违背预期的反应，即真正的变异探测(true deviance detection)或者预测误差。Taaseh 等人(2011）利用多种标准刺激控制条件(many standard control condition)，消除了因为单一标准刺激重复出现所诱发的预期，因此认为该范式下记录到的 SSA 反映的是真正的变异敏感性(deviance sensitivity)。他们在麻醉大鼠(halothane-anesthetized rats)模型中发现，单一标准刺激和多种标准刺激条件下的变异刺激在听觉皮层诱发的 SSA大小相当。由于单一标准刺激要比多种标准刺激控制条件的疲劳效应大，所以研究者认为当两种条件下SSA相当的时候，那么很可能是因为在多种标准刺激控制条件下多了一个成分，即对变异的敏感性。这一结果在自由活动大鼠模型中得到了进一步的证实 (Polterovich et al.,2018)，证明 A1中存在真正的变异探测。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总的来讲，皮层 SSA与人类 MMN 有很大的相似性，可以作为反映神经元水平变异探测的指标。目前基于猫、大鼠和小鼠等动物模型的结果都表明，皮层SSA并不是单纯的神经元细胞对特异性刺激的适应，其本身也受到自上而下的因素的影响，这也提示 A1神经元可能是预测编码的神经基础。然而，由于目前仍缺乏直接的证据表明听觉皮层中存在分别产生预测和预测误差的独立神经元，因此未来需要开展更多真正以听觉预测编码为主要研究对象的动物研究。此外，利用动物模型开展 SSA的研究也有助于我们揭示预测编码如何在时间维度上发生与发展，例如在语义内容启动等听觉加工中预测编码发生的最早阶段以及这一过程是否有皮层下神经元的参与。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4 总结与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "预测编码理论将大脑看作是一个分级组织且高度主动的加工系统，这依赖于大脑对感觉输入的持续预测并根据新输入的信息对内部表征进行迭代式调整。这种动态的神经活动最终的目的在于减少预测误差。作为一种机制理论模型，预测编码理论受到了极大的欢迎，并被用于解释多种实证数据(Clark,2013;Friston,2010)。然而，这一理论目前也面临着巨大的挑战(Friston,2018)。首先，其核心概念不明确。例如，目前学术界对预测的精准定义仍未达成共识。理论上，“预测”既可以指两个事件之间的相关关系，也可以指两个事件之间的因果关系(Denham&Winkler，2018)。因此，研究者对“预测”本身的不同理解，会偏倚他们在预测编码研究中的重点。其次，基于实证研究、理论模型和计算建模等不同研究领域，研究者对于某一个概念往往从不同角度进行表述。例如，对重复抑制现象心理学采用“习惯化”而神经生理学采用“不应性\"来解释。这也造成了不同学科间对预测编码理论的理解存在差异。最后，部分核心假设不可验证(Kogo& Trengove,2015)。例如，预测编码理论认为感觉皮层中存在独立的神经元分别负责预测和预测误差，然而这一假设很难被现有的技术所验证。这也导致目前仍缺乏预测编码物质基础的直接证据(Heilbron&Chait,2018)。因此，有研究者认为预测编码可能更多的是一种计算机制(决策相关)，而不是一种对神经反应的现象学解释(Denham & Winkler,2018; Stefanics et al., 2016)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "但无论如何，预测编码都是目前感觉研究中主流的理论框架，可以用来解释多种重要的听觉感知现象。面对现有的挑战，未来对听觉预测编码的研究可以集中在以下几个方面：（1）开展跨物种研究。基于皮层 SSA 和人类 MMN的相似性，越来越多的研究开始认为皮层 SSA可能和 MMN中反映变异敏感性的部分相关。而且，目前对听觉系统中的 SSA本身已经开展了较为充分的研究，尤其是对其分子和网络机制以及其短时可塑性的计算原理，这也为进一步理解预测编码的神经环路提供了良好的研究模型。因此，未来研究中可以利用相同的研究范式分别记录人类MMN 和动物皮层 SSA，以更好地了解听觉加工中的预测编码，并尝试寻找其物质基础；(2)尝试利用经典oddball范式的变式或者添加实验控制组，分离 MMN中可能包含的不同成分(Harms etal.,2014;Symonds et al.，2017)。例如在人类和动物研究中分离重复抑制与预期抑制、分离预测与预测误差等，用以寻找听觉加工中存在预测编码更可靠的证据，这些变式和控制条件的使用对于加深理解预测编码模型以及听觉加工机制有着重要的意义；(3)从神经振荡的角度探讨预测编码可能的物质基础(Morillon& Schroeder,2015)。已有研究表明包括 gamma振荡和beta振荡在内的神经节律可能是大脑预测刺激内容和刺激时间的神经基础(Amal&Giraud,2012)，因此未来的研究可以关注声音重复和听觉变异对脑电信号频域特征的影响，从不同的角度认识和理解听觉加工中的预测编码机制；(4)从预测编码的视角理解更高级的听觉现象，并联合不同的感觉模态，加深我们对感觉加工机制的理解。目前预测编码模型已经被用于解释多种高级听觉加工的现象，如音位规则(Ylinen et al.,2016)，言语感知(Sohoglu,Peelle,Carlyon,& Davis,2012)，言语生成(Okada,Matchin,& Hickok,2O18)，言语理解(Bendixen,Scharinger, Strauss,& Obleser,2014)和音乐感知(Koelsch,Vuust,& Friston，2O19； Salimpoor,Zald, Zatorre,Dagher，&McIntosh, 2015)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Arnal,L. H.,& Giraud, A.L. (2O12). Cortical oscillations and sensory predictions. Trends in Cognitive Sciences, 16(7), 390-398.   \nAuksztulewicz,R.，& Friston, K. (2015). Atentional enhancement of auditory mismatch responses: A DCM/MEG study. Cerebral Cortex, 25(11), 4273-4283.   \nBaldeweg，T. (2Oo6). Repetition effects to sounds: Evidence for predictive coding in the auditory system. Trends in Cognitive Sciences, 1O(3), 93-94.   \nBarry,R.J., Cocker, K.I., Anderson, J. W., Gordon,E.,& Rennie, C. (1992). Does the N100 evoked potential really habituate? Evidence from a paradigm appropriate to a clinical setting. International Journal of Psychophysiology, 13(1), 9-16.   \nBendixen,A., Scharinger, M., Strauss,A.,& Obleser, J. (2O14). Prediction in the service of comprehension: Modulated early brain responses to omitted speech segments. Cortex, 53,9-26.   \nBregman，A. S. (1994). Auditory scene analysis: The perceptual organization of sound. Cambridge,MA: The MIT Press.   \nBudd,T. W., Barry,R.J., Gordon, E., Rennie, C.,& Michie, P.T.(1998). Decrement of the N1 auditory event-related potential with stimulus repetition: Habituation vs. refractoriness. International Journal of Psychophysiology, 31(1), 51-68.   \nCacciaglia, R., Costa-Faidella, J., Zarnowiec, K., Grimm, S.,& Escera, C. (2O19). Auditory predictions shape the neural responses to stimulus repetition and sensory change. NeuroImage, 186,200-210.   \nCarbajal, G. V.,& Malmierca, M. S. (2O18). The neuronal basis of predictive coding along the auditory pathway: From the subcortical roots to cortical deviance detection. Trends in Hearing, 22,1-33.   \nChennu， S.，Noreika， V.， Gueorguiev，D.，Blenkmann，A.， Kochen， S.， Ibanez, A., Bekinschtein,T. A. (2Ol3). Expectation and attention in hierarchical auditory prediction. Journal of Neuroscience, 33(27),11194-11205.   \nChennu, S.， Noreika, V., Gueorguiev,D.， Shtyrov, Y.,Bekinschtein, T. A.,& Henson, R. (2016). Silent expectations: Dynamic causal modeling of cortical prediction and attention to sounds that weren't. Journal of Neuroscience, 36(32), 8305-8316.   \nChouiter, L., Tzovara, A., Dieguez, S., Annoni, J. M., Magezi, D., De Lucia, M.,& Spierer, L.(2015). Experience-based auditory predictions modulate brain activity to silence as do real sounds. Journal of Cognitive Neuroscience, 27(1O), 1968-1980.   \nClark，A. (2O13). Whatever next? Predictive brains， situated agents，and the future of cognitive science. Behavioral and Brain Sciences, 36(3),181-204.   \nCosta-Faidella, J.， Baldeweg，T., Grimm， S.，& Escera, C. (2011). Interactions between \"what\" and \"when\" in the auditory system: Temporal predictability enhances repetition suppression. Journal of Neuroscience, 31(50), 18590-18597.   \nDenham, S. L.,& Winkler, I. (2018). Predictive coding in auditory perception: Challenges and unresolved questions. European Journal of Neuroscience. Advance online publication. doi:10.1111/ejn.13802.   \nDuque,D.， Pais,R.，& Malmierca, M. S. (2O18). Stimulus-specific adaptation in the anesthetized mouse revealed by brainstem auditory evoked potentials. Hearing Research, 370, 294-301.   \nDurschmid, S., Edwards,E., Reichert, C., Dewar, C., Hinrichs, H., Heinze, H. J.,... Knight, R. T.(2O16). Hierarchy of prediction errors for auditory events in human temporal and frontal cortex. Proceedings of the National Academy of Sciences, 113(24), 6755- 6760.   \nDürschmid, S.,Reichert, C., Hinrichs, H., Heinze, H.-J., Kirsch, H. E., Knight, R. T.,& Deouell, L. Y. (2O18). Direct evidence for prediction signals in frontal cortex independent of prediction error. Cerebral Cortex. Advance online publication. doi: 10.1093/cercor/bhy331.   \nEriksson, J.,& Villa, A. E.(2Oo5). Event-related potentials in an auditory oddball situation in the rat. Biosystems, 79(1-3), 207-212.   \nFishman， Y.I.，& Steinschneider, M. (2O12). Searching for the mismatch negativity in primary auditory cortex of the awake monkey: Deviance detection or stimulus specific adaptation? Journal of Neuroscience, 32(45), 15747-15758.   \nFriston, K. (2Oo5). A theory of cortical responses. Philosophical Transactions of the Royal Society of London B: Biological Sciences, 360(1456), 815-836.   \nFriston,K. (2Oi0). The free-energy principle: A unified brain theory? Nature Reviews Neuroscience, 11(2), 127-138.   \nFriston, K. (2O18). Does predictive coding have a future? Nature Neuroscience, 21(8), 1019- 1021.   \nGorina-Careta， N.， Zarnowiec，K.， Costa-Faidella， J.，& Escera，C. (2016). Timing predictability enhances regularity encoding in the human subcortical auditory pathway. Scientific Reports, 6, 37405.   \nGrimm, S., Escera, C., & Nelken, I. (2016). Early indices of deviance detection in humans and animal models. Biological Psychology, 116,23-27.   \nGrotheer,M.,& Kovacs, G. (2016). Can predictive coding explain repetition suppression? Cortex, 80, 113-124. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Haenschel, C., Vernon, D.J., Dwivedi, P., Gruzelier, J. H.,& Baldeweg,T. (2OO5). Eventrelated brain potential correlates of human auditory sensory memory-trace formation. Journal of Neuroscience, 25(45), 10494-10501. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Harms, L., Fulham, W. R., Todd, J., Budd, T. W., Hunter, M., Meehan, C.,... Michie, P.T. (2014). Mismatch negativity (MMN) in freely-moving rats with several experimental controls. PLoS One, 9(10), e110892.   \nHeilbron, M.,& Chait, M. (2018). Great expectations: Is there evidence for predictive coding in auditory cortex? Neuroscience, 389, 54-73.   \nJaäskelainen, I1. P., Ahveninen, J., Bonmassar, G., Dale, A. M., Ilmoniemi, R. J., Levanen, S.,.. . Belliveau, J. W. (2Oo4). Human posterior auditory cortex gates novel sounds to consciousness. Proceedings of the National Academy of Sciences, 101(17), 6809- 6814.   \nKhouri, L., & Nelken, I. (2015). Detecting the unexpected. Current Opinion in Neurobiology, 35,142-147.   \nKoelsch, S., Vuust, P.,& Friston, K. (2O19). Predictive processes and the peculiar case of music. Trends in Cognitive Sciences, 23(1), 63-77.   \nKogo,N.，& Trengove, C. (2015). Is predictive coding theory articulated enough to be testable?Frontiers in Computational Neuroscience, 9, 111.   \nLumaca, M., Trusbak Haumann, N., Bratico, E., Grube, M.,& Vuust, P. (2018). Weighting of neural prediction error by rhythmic complexity: A predictive coding account using Mismatch Negativity. European Journal of Neuroscience, 49(12),1597-1609.   \nMalmierca, M. S., Cristaudo, S., Perez-Gonzalez, D., & Covey, E. (2O09). Stimulus-specific adaptation in the inferior colliculus of the anesthetized rat. Journal of Neuroscience, 29(17), 5483-5493.   \nMay，P. J.，& Tiitinen，H. (2010). Mismatch negativity (MMN)，the deviance-elicited auditory deflection, explained. Psychophysiology, 47(1), 66-122.   \nMorillon, B., & Schroeder, C. E. (2O15). Neuronal oscillations as a mechanistic substrate of auditory temporal prediction. Annals of the New York Academy of Sciences, 1337, 26- 31.   \nMuenssinger, J.， Stingl, K. T.， Matuz, T.，Binder, G., Ehehalt, S.,& Preissl, H. (2013). Auditory habituation to simple tones: Reduced evidence for habituation in children compared to adults. Frontiers in Human Neuroscience, 7,377.   \nNaatänen,R., Jacobsen, T.，& Winkler, I. (2Oo5). Memory-based or afferent processes in mismatch negativity (MMN): A review of the evidence. Psychophysiology, 42(1), 25- 32.   \nNäätänen，R.， Paavilainen,P.，& Reinikainen，K.(1989). Do event-related potentials to infrequent decrements in duration of auditory stimuli demonstrate a memory trace in man. Neuroscience Letters, 107(1989), 347-352.   \nNäätänen, R., Paavilainen, P., Rinne,T.,& Alho,K. (20O7). The mismatch negativity (MMN) in basic research of central auditory processing: A review. Clinical Neurophysiology, 118(12), 2544-2590.   \nNäätänen, R.， Pakarinen， S.， Rinne, T.，& Takegata, R. (2O04). The mismatch negativity (MMN): Towards the optimal paradigm. Clinical Neurophysiology, 115(1), 140-144.   \nNäätänen, R.,& Picton, T. (1987). The N1 wave of the human electric and magnetic response to sound: A review and an analysis of the component structure. Psychophysiology, 24(4), 375-425.   \nNäatänen， R.， Simpson，M.，& Loveless，N. E.(1982). Stimulus deviance and evoked potentials. Biological Psychology, 14(1-2), 53-98.   \nNäätänen, R., Tervaniemi, M., Sussman,E., Paavilainen, P.,& Winkler, I. (2Oo1). ‘Primitive intelligence'in the auditory cortex. Trends in Neurosciences, 24(5),283-288.   \nNelken, I. (2014). Stimulus-specific adaptation and deviance detection in the auditory system: Experiments and models. Biological Cybernetics, 108(5), 655-663.   \nO'Shea, R.P. (2O15). Refractoriness about adaptation. Frontiers in Human Neuroscience,9, 38.   \nOkada, K.， Matchin, W.,& Hickok, G. (2O18). Neural evidence for predictive coding in auditory cortex during speech production. Psychonomic Bulletin & Review, 25(1), 423-430.   \nParras, G. G., Nieto-Diego, J., Carbajal, G. V., Valdes-Baizabal, C., Escera, C., & Malmierca, M. S. (2O17). Neurons along the auditory pathway exhibit a hierarchical organization of prediction error. Nature Communications, 8, 2148.   \nPolterovich,A., Jankowski,M. M.,& Nelken,I. (2O18). Deviance sensitivity in the auditory cortex of freely moving rats. PLoS One, 13(6), eO197678.   \nRao,R.P.,& Ballard, D.H.(1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. Nature Neuroscience, 2(1), 79-87.   \nRecasens, M.,Leung, S., Grimm, S., Nowak,R,& Escera, C. (2015). Repetition suppresion and repetition enhancement underlie auditory memory-trace formation in the human brain: An MEG study. NeuroImage, 108, 75-86.   \nRiter, W.， Vaughan, H. G., & Costa, L. D. (1968). Orienting and habituation to auditory stimuli:Astudy ofshort-term changesinaveraged evoked responses. Electroencephalography and Clinical Neurophysiology, 25(6), 550-556.   \nRubin, J., Ulanovsky, N., Nelken, I.,& Tishby, N. (2O16). The representation of prediction error in auditory cortex. PloS Computational Biology， l2(8), e1005058.   \nRosburg, T., Trautner, P., Boutros,N. N., Korzyukov, O.A., Schaller, C., Elger, C. E., & Kurthen, M.(2Oo6).Habituation of auditory evoked potentials in intracranial and extracranial recordings. Psychophysiology, 43(2), 137-144.   \nRummell, B. P.， Klee, J. L.，& Sigurdsson, T. (2016). Atenuation of responses to selfgenerated sounds in auditory cortical neurons. Journal of Neuroscience， 36(47), 12010-12026.   \nSalimpoor， V. N.， Zald, D. H., Zatorre, R. J.， Dagher,A.，& McIntosh，A. R. (2015). Predictions and the brain: How musical sounds become rewarding. Trends in Cognitive Sciences, 19(2), 86-91.   \nSams，M.，Paavilainen，P.， Alho， K.，& Näatanen，R. (1985). Auditory frequency discrimination and event-related potentials. Electroencephalography and Clinical Neurophysiology, 62(2), 437-448.   \nSanMiguel，1.， Saupe，K.，& Schroger，E. (2O13).I know what is missing here: Electrophysiological prediction error signals elicited by omissions of predicted \"what\" but not \"when\". Frontiers in Human Neuroscience, 7,407.   \nSanMiguel, I.，Widmann，A.， Bendixen，A.， Trujillo-Barreto，N.，& Schroger, E.(2013). Hearing silences: Human auditory processing relies on preactivation of sound-specific brain activity patterns. Journal of Neuroscience, 33(2O), 8633-8639.   \nSohoglu，E.，Peelle,J.E.，Carlyon，R. P.，& Davis，M.H.(2O12). Predictive top-down integration of prior knowledge during speech perception. Journal of Neuroscience, 32(25), 8443-8453.   \nStefanics, G., Kremlacek, J., & Czigler, I. (2O16). Mismatch negativity and neural adaptation: Two sides of the same coin. Response: Commentary: Visual mismatch negativity: A predictive coding view. Frontiers in Human Neuroscience, 10, 13.   \nStrauss,M. Sit, J. D., King, J.R., Elbaz, M., Azizi,L., Buiatti, M.,... Dehaene, S. (2015). Disruption of hierarchical predictive coding during sleep. Proceedings of the National Academy of Sciences, 112(11), E1353-1362.   \nSummerfield, C., Trittschuh,E.H., Monti, J. M.，Mesulam,M. M.,& Egner, T.(2008). Neural repetition suppression reflects fulfilled perceptual expectations. Nature Neuroscience, 11(9), 1004-1006.   \nSussman, E.，Winkler, I., Huotilainen，M., Ritter,W.，& Näatanen,R. (2O02). Top-down effects can modify the initially stimulus-driven auditory organization. Cognitive Brain Research, 13(3),393-405.   \nSussman, E., Winkler,I.,& Wang, W. (2003). MMN and atention: Competition for deviance detection. Psychophysiology, 40(2003), 430-435.   \nSussman, E. S. (2O07). A new view on the MMN and attention debate. Journal of Psychophysiology, 21(3), 164-175.   \nSymonds, R. M., Lee, W. W., Kohn, A., Schwartz, O., Witkowski, S., & Sussman, E. S. (2017). Distinguishing neural adaptation and predictive coding hypotheses in auditory change detection. Brain Topography ，30(1), 136-148.   \nSzymanski, F. D., Garcia-Lazaro, J. A., & Schnupp, J. W. (2009). Current source density profiles of stimulus-specific adaptation in rat auditory cortex. Journal of Neurophysiology, 102(3),1483-1490.   \nTaaseh,N.，Yaron，A.，& Nelken, I. (2O11). Stimulus-specific adaptation and deviance detection in the rat auditory cortex.PLoS One, 6(8), e23369.   \nTodorovic, A., & de Lange,F. P. (2012). Repetition suppression and expectation suppression are dissociable in time in early auditory evoked fields. Journal of Neuroscience, 32(39), 13389-13395.   \nTodorovic,A. van Ede,F., Maris, E.,& de Lange, F.P. (2O11). Prior expectation mediates neural adaptation to repeated sounds in the auditory cortex: An MEG study. Journal of Neuroscience, 31(25), 9118-9123.   \nUlanovsky, N., Las,L., Farkas, D.,& Nelken, I. (2004). Multiple time scales of adaptation in auditory cortex neurons. Journal of Neuroscience, 24(46),10440-10453.   \nUlanovsky,N.,Las,L.,& Nelken, I. (2Oo3). Processing of low-probability sounds by cortical neurons. Nature Neuroscience, 6(4), 391-398.   \nvon der Behrens,W., Bauerle, P., Kossl, M., & Gaese,B. H. (2O09). Correlating stimulusspecific adaptation of cortical neurons and local field potentials in the awake rat. Journal of Neuroscience, 29(44), 13837-13849.   \nWacongne, C., Changeux, J.P.，& Dehaene, S. (2O12). A neuronal model of predictive coding accounting for the mismatch negativity. Journal of Neuroscience, 32(11), 3665-3678.   \nWacongne, C.,Labyt, E., van Wassenhove, V., Bekinschtein, T.,Naccache,L.,& Dehaene, S. (2011). Evidence for a hierarchy of predictions and prediction errors in human cortex. Proceedings of the National Academy of Sciences, 108(51), 20754-20759.   \nWinkler, I. (20O7). Interpreting the mismatch negativity. Journal of Psychophysiology, 21(3- 4), 147-163.   \nWinkler, I.,Denham, S.L.,& Nelken, I. (2O09). Modeling the auditory scene: Predictive regularity representations and perceptual objects. Trends in Cognitive Sciences, 13(12), 532-540.   \nWinkler, I., & Schroger, E. (2015). Auditory perceptual objects as generative models: Setting the stage for communication by sound. Brain and Language, 148, 1-22.   \nYabe,H.， Tervaniemi, M.，& Reinikainen， K. (1997). Temporal window of integration revealed by MMN to sound omission. NeuroReport, 8(8),1971-1974.   \nYabe,H., Tervaniemi,M., Sinkkonen, J., Huotilainen,M., lmoniemi, R.J.,& Näatänen, R. (1998). Temporal window of integration of auditory information in the human brain. Psychophysiology, 35(5), 615-619.   \nYaron，A.，Hershenhoren，I.，& Nelken，I. (2O12). Sensitivity to complex statistical regularities in rat auditory cortex. Neuron, 76(3), 603-615.   \nYlinen, S., Huuskonen, M., Mikkola, K., Saure, E., Sinkkonen, T.,& Paavilainen, P. (2016). Predictive coding of phonological rules in auditory cortex: A mismatch negativity study. Brain and Language, l62, 72-80. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Predictive coding in auditory cortex: The neural responses to sound repetition and auditory change ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Predictive coding is arguably one of the most important mechanisms to explain the interactions between brain and complex environment. Indeed, one of the main functions of sensory system is to predict upcoming events,which is vital for survival. Take auditory modality for instance. The neural responses to sound repetition and auditory change, such as mismatch negativity (MMN) and stimulus-specific adaptation (SSA),can be explained under a predictive coding view. As a theoretical framework, predictive coding is now facing some unresolved questions and challenges. However, combining human and animal studies under this framework will provide an excellent chance to investigate the neural mechanisms of auditory processing. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Keywords: predictive coding; repetition suppression; prediction error; MMN; SSA ",
+        "page_idx": 19
+    }
+]

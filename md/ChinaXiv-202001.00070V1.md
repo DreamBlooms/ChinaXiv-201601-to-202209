@@ -1,0 +1,185 @@
+# 基于树轮生理模型的雪岭云杉径向生长的模拟研究
+
+吴燕良},²，甘淼¹，于瑞德ʰ，杨美琳，郭艳飞},²，赵鹏¹,²（1中国科学院新疆生态与地理研究所荒漠环境研究室,新疆乌鲁木齐830011；2中国科学院大学,北京100049)
+
+摘要：雪岭云杉(Picea schrenkiana)是天山山区重要的造林树种，为了解天山山区森林上限树木径向生长对气候环境的响应机制,运用树轮气候学方法,通过采自天山东部巴里坤山雪岭云杉林上限的树芯样本建立的树轮宽度标准化年表，采用VS-oscilloscope 模型,模拟雪岭云杉的径向生长过程并揭示了过去55a以来该过程与环境因子的关系。结果表明：(1）模拟得到的树轮宽度指数与实际树轮宽度指数相关系数为0.645( $P < 0 . 0 1 )$ 。两者变化趋势具有较好的一致性，表明模型取得了较好的模拟效果。（2）树木径向生长主要限制因子是4\~5月和7\~8月的土壤湿度，温度是决定树木生长季开始的主要影响因子，而温度决定的生长速率在宽窄轮的形成上并不明显。（3）模拟的树轮宽度指数与生长结束日期的相关系数是-0.413( $P < 0 . 0 1 { \mathrm { ~ } }$ )，说明生长季节的结束日期对树轮宽度的增长有一定的影响。（4）自1984年以来，随着区域气温的逐渐上升，树木生长季的长度有延长的趋势，而树木径向生长却发生衰退现象，1984年以来气温的升高可能是树木生长衰退的主要原因。因而研究从生理角度揭示天山东部森林上限树木径向生长过程中的主要限制因子和限制时段，以期为该区域之后的树轮学研究提供一些借鉴意义。
+
+关键词：树木年轮；雪岭云杉；径向生长;VS-oscilloscope 模型
+
+树轮气候学在重建过去历史气候时，通常假设用一个近线性关系来描述树木径向生长与主要的限制性环境因子之间的响应过程[1-3],然而有研究指出树木生长和主要环境因子之间可能不是简单的线性响应关系[4]。如果只考虑单一因子的影响,显然无法推知树木径向生长的生理特性。因此，从生理角度研究树木生长和环境因子之间的响应关系具有重要意义[5]
+
+树轮生理模型能够揭示树木生长与生长环境之间的内在机制，并结合外部环境的多个气象因子来模拟树木的生长。其中Vaganov-Shashkin（VS）模型是目前使用最广泛的生理模型[。为了量化作为特种函数的气候变量对树轮形成过程中产生的影响[7],一种基于生长过程的新参数化模型随之出现,称之为VS-oscilloscope 模型（以下简称VSO模型）［8]。VSO 模型是在VS 模型基础上发展的一种可视参数化新方法。其机制是假设气候对树木生长的影响是直接且非线性相关，并通过控制发育木材中细胞过程的速率和持续时间来模拟树轮生长过程，确保在某些生长条件下对树木生长的最佳拟合[9]。且该模型得到很好的验证[10-13]，如 HE等[10]使用VSO 模型揭示树木形成层物候对木材生长的影响，发现木质部秋季树木生长衰退不受春季物候的时间影响。ARZAC 等[1]在管胞解剖的基础上借助VSO模型探究夏季干旱如何对樟子松年轮结构产生影响，发现管胞大小对干旱的敏感随气候信号的时间变化而改变。POPKOVA等[12]利用VSO模型模拟樟子松径向生长的研究发现借助该模型能人工合成树木细胞管胞图，并验证了此管胞图对研究树轮年内密度波动是可行的。GAO 等[13]通过
+
+VSO 模型研究油松季节性生长模式时发现不同海拔生长的油松具有相似的生长模式。
+
+森林上限的树木生长环境处于生态适应的边缘胁迫状态，因其对气候变化十分敏感而被作为气候变化的“监视器”[14]。本文利用VS-oscilloscope 模型揭示森林上限雪岭云杉（Piceaschrenkiana）对气候的响应机理，为深入了解该地区过去气候变化对树木径向生长的影响机制提供生理基础及依据。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+天山山脉地处干旱半干旱区，是亚洲中部最大的山脉,全长约 $2 ~ 4 0 0 ~ \mathrm { k m }$ ,总面积约 $1 . 0 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ，是南北疆的分水岭，也是我国研究树木年轮的重点区域。研究区位于天山东部巴里坤地区，该区降水量少且分布不均匀，气温年、日较差大，日照时间长，属温带大陆性干旱气候。年平均气温是 $2 . 7 ~ \mathrm { \textdegree C }$ ，年均降水量为 $2 3 0 . 5 ~ \mathrm { m m }$ ,年蒸发量为 $1 \ 6 3 8 \ \mathrm { m m } ^ { [ 1 5 ] }$ 。雪岭云杉广泛分布于我国天山山脉海拔 $1 \ 2 0 0 \sim$ $3 ~ 5 0 0 ~ \mathrm { m }$ 的山体阴坡，是天山山区的主要建群种，雪岭云杉林面积占新疆天然林地面积的 $4 4 . 9 \%$ ，是整个新疆森林生态系统的主体，对天山的水源涵养、水土保持和其他生态系统起着主导作用。
+
+本文所用的资料包括一个气象站点的气象数据、一个树轮样点的树芯数据。气候资料选取的是采样点附近的巴里坤气象站 $( 4 3 ^ { \circ } 6 ^ { \prime } \mathrm { N } , 9 3 ^ { \circ } 0 5 ^ { \prime } \mathrm { E }$ ,海拔
+
+$1 6 7 7 . 2 \mathrm { ~ m ~ }$ )1960一2015年观测的日平均气温、日降水量，对该气象站点的温度和降水量以年为计量单位来计算多年均值，发现天山东部巴里坤地区的气候具有明显的雨热同期特征(图1)。最高气温和最大降水量都集中于6、7、8月。年平均气温从$- 0 . 6 2 \mathrm { ~ } ^ { \circ } \mathrm { C }$ (1984年)增加至 $3 . 6 3 \mathrm { ~ } \mathrm { ~ \textdegree C }$ （2015年）。以1984年为界（图2），年平均温度呈先下降后上升的趋势,而年降水量也有一定的上升趋势,研究区近$5 0 \mathrm { ~ a ~ }$ 来气候有明显的暖湿变化趋势。考虑到采样点与气象站点的海拔不同，所以在分析中利用山地温度递减率 $( 5 . 7 3 \times 1 0 ^ { - 3 } \mathrm { ~ \textC ~ } \cdot \mathrm { ~ m ~ } ^ { - 1 }$ )[16]将气象站温度数据插值到采样点海拔高度，而降水则沿用站点的
+
+![](images/7473e8b09e4eaa3796a6ed3e0cb061e5294662150da11026547298898264f0a4.jpg)  
+图1巴里坤气象站1960—2015 年气象资料图 Fig.1Climatic diagram of Balikun meteorology station during 1960—2015
+
+![](images/01103e9b5f066a30b25a9cb36c4698ba8de80e1f9c96bfe148e5db8670b5f2ed.jpg)  
+图2巴里坤气象站1960—2015 年平均降水(a)和年平均气温(b)的趋势变化 Fig.2Variation of annual mean precipitation（a）and temperature（b）of Balikun meteorology station from 1960—2015
+
+实测值。
+
+# 1.2样点设定及树轮样本采集
+
+本文所用到的雪岭云杉样芯于2016年7月在天山东部巴里坤山北坡上限(BLK1)采集。为确保采样点树芯的定年准确以及尽可能提取区域尺度的气候变化信息，选取与周围树木没有明显的竞争且生长健康状况良好的树木。并严格按照树木年轮学的基本原理进行采样。在该采样点(表1)用生长锥在每棵树的胸径位置从南北、东西方向取2个完好的树芯作为样本,把采集好的样芯装入纸筒并编号。将树芯带回实验室后，遵循树木年轮分析的基本流程[17],将树芯晾在室内通风条件下自然阴干,经固定、打磨处理、交叉定年后，用分辨率为 $0 . 0 0 1 \ \mathrm { { m m } }$ 的Lintab年轮测量仪进行树木年轮宽度的测量，利用COFECHA进行交叉定年质量检测，并剔除与主序列相关性差的样芯，最后采用Arstan程序建立雪岭云杉的树木年轮宽度年表，采用负指数函数拟合去除生长趋势，最后得到3种不同的年表，即标准化年表（STD）、差值年表（RES）、和自回归年表（ARS），而本文采用标准年表（STD)进行相关的研究。
+
+# 表1巴里坤山树轮采样点信息
+
+Tab.1Information of tree ring in sample sites of Balikun Mountain   
+
+<html><body><table><tr><td>采样点</td><td>树种</td><td>纬度</td><td>经度</td><td>平均海拔</td><td>样芯数(株数)</td></tr><tr><td>BLK1</td><td>雪岭云杉</td><td>43°18'N</td><td>93°40'E</td><td>2 720m</td><td>52(26)</td></tr></table></body></html>
+
+# 1.3 模型原理
+
+VS 模型根据积累到土壤中的降雨量、蒸腾作用(取决于温度)和土壤中水的日径流量来估算日平均水量平衡。模型简化了树木生长的复杂过程，假定其他因子对树木生长不构成限制的情况下，树木的生长速率主要由光照、温度、土壤湿度这3个气候因子决定[18]。即：
+
+$$
+G _ { r } ( t ) = G _ { r } E ( t ) \times \operatorname* { m i n } [ G _ { r } T ( t ) , G _ { r } W ( t ) ]
+$$
+
+式中： $G _ { r } ( t )$ 是树木的日生长速率; $G _ { r } T ( t ) \setminus G _ { r } E ( t )$ 、$G _ { r } W ( t )$ 为假定其他因子不影响生长时，分别由温度、土壤温度、光照所计算得到的生长速率。
+
+（1）温度对树木生长的影响，在模型中，积温达到了一定温度( $\displaystyle T _ { b e g }$ )时，树木生长才会开始。可用分段函数表示，当气温低过最低生长温度时（ $ { T _ { m i n } }$ )时,树木不生长；当气温在最低生长温度（ $T _ { m i n }$ )和最适生长温度下限（ $T _ { o p t 1 }$ )之间时，随着气温的升高，树木生长速度也是线性加快；当气温在$T _ { o p t 1 }$ 和最适生长温度上限（ $T _ { o p t 2 }$ )之间时（ $T _ { o p t 1 } >$ $T _ { o p t 2 }$ ),树木生长速度保持一个定值且达到最高水平；当气温 $> T _ { o p t 2 } \ 、 < T _ { o p t 1 }$ 时,随着气温升高树木生长呈线性下降。
+
+（2）土壤湿度对树木的影响。土壤湿度对树木生长的影响也可用分段线性的函数来表示，同样地，也包含了 ${ \boldsymbol { W } } _ { \boldsymbol { m i n } }$ $\gamma _ { m i n } , W _ { o p t 1 } , W _ { o p t 2 }$ 和 $W _ { m a x }$ 等4个参数,分阶段的特征与温度相似。每日土壤含水量的变化 $d \mathbb { W }$ 由土壤水动态平衡方程计算得到：
+
+$$
+d \boldsymbol { W } = \boldsymbol { F } ( \boldsymbol { p } ) - \boldsymbol { E } _ { r } - \boldsymbol { Q }
+$$
+
+$$
+F ( p ) = \mathrm { m i n } [ k _ { 1 } \times p _ { 1 } , p _ { m a x } ]
+$$
+
+式中： $F ( P )$ 为日降水量; $E _ { r }$ 是日蒸腾量; $Q$ 为土壤中水的日径流量； $p$ 表示实际的降水量； $k _ { 1 }$ 为渗透系数。
+
+（3）VS-Oscilloscope 模型中计算逐日潜在的太阳辐射与当地纬度、太阳倾角、太阳升起和降落的时角和一年中的儒略日有关。VS-oscilloscope 模型计算光照对树木生长的公式如下：
+
+$$
+\begin{array} { c } { E = I _ { s c } \times ( \mathrm { c o s } L \times \mathrm { c o s } \delta \times \mathrm { s i n } \omega + \omega \times \mathrm { s i n } L \times \mathrm { s i n } \delta ) } \\ { \times r \times 2 4 / \pi } \end{array}
+$$
+
+式中： $E$ 是每日接受的辐照度； $I _ { s c }$ 是太阳常数; $r$ 是入射的太阳辐射强度与太阳常数的比值; $L$ 代表纬度;$\delta$ 指的是太阳赤纬角； $\omega$ 是日落方位角。
+
+# 2结果与分析
+
+# 2.1模型参数的选择
+
+因为采样时间是2016年7月，当年树木生长并未完全结束，故树轮年表的最后一年定为2015年。将模型初始参数包、巴里坤气象站的日降水、日均温、采样点纬度以及用于模拟树轮年表的最终年份等数据依次导人VS-oscilloscope 模型。模型的参数选取可由已有的实测资料和模型模拟调整2种方式来确定，由于本研究缺乏实测资料的参考，本文采用模型模拟调整的方式确定生理参数，参照前人研究的参数范围[19],在不违背树木正常生长的参数条件下，然后通过对模拟的树轮宽度年表与实际树轮宽度年表进行对比，从而调试模型参数来达到最佳拟合，最终获得各个参数的数值（表2）。
+
+# 表2巴里坤山雪岭云杉生理过程模拟参数
+
+Tab.2Tree-ring VS-oscillocope parameters used in the study   
+
+<html><body><table><tr><td>参数</td><td>描述</td><td>取值</td></tr><tr><td>Tmin</td><td>最低生长温度</td><td>5</td></tr><tr><td>Toptl</td><td>最适生长温度下限</td><td>12</td></tr><tr><td>Top12</td><td>最适生长温度上限</td><td>23</td></tr><tr><td>Tmax</td><td>最高生长温度</td><td>31</td></tr><tr><td>Wmin</td><td>生长的最低土壤湿度</td><td>0.18</td></tr><tr><td>Woptl</td><td>生长的最适土壤湿度下限</td><td>0.225</td></tr><tr><td>Wopt2</td><td>生长的最适土壤湿度上限</td><td>0. 375</td></tr><tr><td>Wmax</td><td>生长的最高土壤湿度</td><td>0.6</td></tr><tr><td>W0</td><td>土壤初始湿度</td><td>0.05</td></tr><tr><td>Tbeg</td><td>开始生长的积温</td><td>100</td></tr><tr><td>Droot</td><td>根深</td><td>450</td></tr><tr><td>P max</td><td>使土壤饱和的最大日降水量</td><td>40</td></tr><tr><td>C1</td><td>降水渗透土壤的系数</td><td>0.65</td></tr><tr><td>C2</td><td>计算蒸腾量的第一系数</td><td>0.045</td></tr><tr><td>C</td><td>计算蒸腾量的第二系数</td><td>0.17</td></tr></table></body></html>
+
+# 2.2 模拟序列和实测序列的对比
+
+基于表2的参数，利用VS-oscilloscope模型模拟1960—2015年树木当年的径向生长，得到树木当年径向生长的模拟序列，并与实际树轮标准宽度年表之间进行比较，结果表明（图3），模拟的树轮宽度序列与实际标准宽度年表之间的相关性为0.645（ $\Gamma < 0 . 0 1 \rangle$ ），两者5a的滑动相关达到了0.853( $P <$ 0.01），且VS-oscilloscope模型对雪岭云杉模拟得到的宽度序列变化趋势与树木实际生长的变化趋势具有较好的一致性，表明模型取得了较好的模拟效果。
+
+![](images/b5cb6ff736a0a47e7235ab1e608dd28b0543bc8c58e864ccafdd29db830c23d9.jpg)  
+图3样点实测和模拟的树轮序列比较 Fig.3Comparison between simulated and actual tree-ring width series over 1960—2015
+
+# 2.3树木径向生长过程的模拟
+
+为得到树木生长过程中的限制性因子，更好地理解气候环境对树轮宽窄轮形成的影响，定义采样点树轮指数序列的较大（小）值所对应的年份为特征宽(窄)年。共得到7个宽年（年份分别是1968、1969、1977、1994、2004、2005、2010年）和7个窄年（年份分别是1963、1974、1986、1989、1991、2003、2014年）。对比分析采样点的特征宽窄年树木径向生长平均速率(图4），特征宽窄年的土壤湿度决定的平均相对生长速率在生长开始之前保持较高水平（以平均值0.73为准）。因为模型认为树木生长开始之前气温相对较低，海拔高的采样点区域仍被积雪覆盖，温度缓慢上升，覆盖的积雪慢慢融化，短时间的升温并不会造成土壤水分的明显下降。树木生长开始后的前一段时间内，气温逐渐上升，土壤水分流失较快，土壤湿度决定的生长速率才逐渐下降。
+
+土壤湿度决定的平均生长速率比温度决定的生长速率对宽窄轮形成的作用更为明显，由模型模拟的土壤湿度平均生长速率在宽窄轮的形成上有较大的差别，主要体现在4月（末）\~5月（上中旬)以及7月（中下旬）\~8月。4\~5月土壤湿度决定的生长速率高而易产生窄轮，可能是因为该时段为树木生长的旺盛期，生长季前期的降水使土壤水分增加,造成土壤湿度平均生长速率较高，然而此时降水的增多导致树木接受太阳辐射减少，降低了树木的光合作用，而树木的呼吸作用又进一步消耗的树木体内的生物量，容易产生窄轮。7月（中下旬）\~8月土壤湿度决定的平均相对生长速率高，更容易产生宽轮。因为7\~8月份降水和气温达到一年最大值，干旱程度较低，土壤湿度较高，有利于树木径向生长。相反，若7\~8月份干旱程度越高，土壤湿度相对越低，越不利于树木的径向生长，则容易产生窄轮。而温度决定的径向生长在特征宽窄年上没有显著的差异，这说明温度并不是树木径向生长的主要限制因子，树木径向生长在宽窄年上最大差异表现为水分对土壤湿度的限制。所以土壤湿度是形成宽窄轮的主要限制因子，温度对宽窄轮的形成影响并不明显。
+
+# 2.4气候变暖对树木生长的影响
+
+在天山山区，云杉的生长季为 $4 \sim 1 0$ 月，模拟得出采样点云杉1960—2015年的生长开始日期主要分布在 $1 0 3 \sim 1 5 0 \mathrm { ~ d ~ }$ ,生长结束日期主要集中在 $2 5 1 \sim$ $2 8 6 \mathrm { ~ d ~ }$ 。对比研究时段内前后两段（以1984年为界)
+
+![](images/fa40968badb0325dbdcb6d9ffad4245b57966076a2fab4e57bffb789b2c39d19.jpg)  
+图4特征宽、窄年上由土壤湿度(a)和温度(b)决定的平均生长速率对比
+
+生长开始与生长结束的均值发现，1985—2015年树木生长开始日期比1960—1984 年提前了约11d,而结束日期往后推迟了约8d,1985—2015年的生长季比1960—1984 年长19d,故树木生长季长度近年来有明显变长的趋势。同时计算了生长开始日期及结束日期与模拟树轮宽度序列的相关性，结果显示（图5），模拟树轮宽度指数与生长开始日期的相关系数是0.244( $P = 0 . 0 6 7$ )，没有达到显著水平，而模拟树轮宽度指数与生长结束日期的相关系数是-0.413( $P < 0 . 0 1 { \ : } )$ ，表明生长季节的结束日期对树轮宽度的增长有一定的影响。
+
+![](images/c4f55219816d646a69895ece5f1d8ee0219e40aed2a634110811acc3ed8c8df4.jpg)  
+Fig.4Simulated mean relative growth rates due to soil moisture（a）and temperature（b）of wide rings and narrow
+
+在全球气候持续变暖的背景下，气候变化对森林生态系统的影响越来越大。全球变暖可能导致干旱年发生的频率增加，从而导致森林生长衰退。对比分析1984年前后树木总体生长速率，1960一1984年树木的总体生长速率远高于1985—2015年树木的总体生长速率（图6），说明在研究时段的采样点树木生长发生了衰退现象。在生长季开始不久和生长季即将结束的这两个时段内，树木总体生长速率与生长季中间的较长时段相比有较大差异，表现为1985—2015年树木总体生长速率高于1960—1984年，原因可能是在树木生长开始前一小段时间内，温度的升高可以加快树木细胞的新陈代谢，生长速率变得更快，而生长季结束前一段时间，温度的升高使得树木总体生长速率不能快速下降，细胞迟迟不能进入休眠状态，消耗了树木长期积累的有机质。
+
+![](images/8d158f021070cbafb1633edfc3cd4e7da95861ced1a0c43a568a86178baa1ac9.jpg)  
+图5 树轮宽度指数与生长开始日和结束日对比 Fig.5Comparison of tree ring width index and rate of the start day and the end day of growth   
+图61984年前后树木总体生长速率对比Fig.6Comparison of the overall growth trees beforeand after 1984
+
+# 3讨论
+
+高山树线附近生长的树木即存在温度限制也存在水分限制[20],而有的研究结果却不支持在干旱区高山林线处树木的生长主要受水分限制的假说，这可能和研究区域以及研究树种不同有关[21]。本研究表明干旱半干旱区的天山东部森林上限树木生长受土壤湿度的限制,TYCHKOV 等[22]的研究也得出类似的结论。此外,张志华等[23]在新疆天山东部通过树木年轮资料研究干旱日数变化中，发现雪岭云杉的生长受生长季内降水和温度的影响，气温和降水又通过对土壤湿度的制约来控制树木的生长速率,这与本研究结果比较类似。
+
+不同地域不同树种以及不同地域相同树种因生长环境的不同，树木表现出对气候因子的响应也不同，因此模拟径向生长过程的生长参数也应该不同。比如,GAO等[13]模拟贺兰山油松年表得到的参数（ $\left( T _ { o p t 1 } = 1 3 , T _ { o p t 2 } = 2 4 , T _ { m a x } = 3 0 \right)$ 与本文模拟得出这三个生理参数比较相似，这可能是与两者树木生长的气候环境比较类似有关。与YANG等[19]利用青藏高原大果圆柏年表模拟得到的参数( $T _ { m i n } = 7 , T _ { o p t 1 } =$ 20)相比，本研究的最低生长温度和最适生长温度下限值较低，雪岭云杉虽可在一定低温下生长，然而生长在青藏高原的树木处在更加寒冷环境，树木开始生长需要更高的温度。
+
+模拟的树轮宽度指数与生长结束日期呈显著负相关( $P < 0 . 0 1 )$ ，一般来说,6\~8月是树木径向快速生长时期，9月后气温下降明显，树木径向生长变得缓慢，10月气温继续下降，并接近树木生长的冷限，树木生长逐渐停滞[24]。树木生长结束的越晚,晚材细胞分裂更充分，促进晚材形成，有利于树木有机质的积累，进而有利于树木的径向生长。但是，随着树木生长结束时间的推迟，气温变得更低，容易使晚材的薄壁细胞组织未完全木质化而形成浅轮，造成晚材宽度的减少,甚至不会出现晚材带[25]。而且生长结束时间过晚，当温度骤降至冰点以下，使未成熟的木质部细胞的木质化和细胞壁增厚过程未结束而遭受霜冻，产生不规则的薄壁组织而形成霜轮，限制晚材的增长[26],故这种负相关可能与异常轮的产生有关。温度决定的相对生长速率和总体生长速率开始时间大约都是在 $9 0 \sim 1 0 0 \mathrm { ~ d ~ }$ 之间，两者具有较好的同步性。树木开始生长之前，需要达到一定的积温才会生长[27],温度较快的上升使得积温更快达到树木生长要求，更有利于树木的生长。所以生长季开始前，温度是影响树木生长的主要因素，
+
+若7（中旬）\~8月土壤水分严重亏损，水分胁迫导致植物细胞缺水，就会引起树叶气孔导度下降，$\mathrm { C O } _ { 2 }$ 进入叶片受阻[28],严重缺水还可能造成树叶脱落进而影响植物净光合速率，限制细胞正常成长和分裂,影响植物生产力进而造成树木生长的衰退，抑制树木径向生长，从而产生窄轮。本研究区的气候具有较明显的雨热同期特征，容易出现夏季干旱，接着又出现强降水引起土壤湿度变化较大的现象，而这种现象可能会引起树轮年内密度波动[29],限制树木正常的生长。LIANG 等[30]也指出夏季土壤水分的不足而限制树木形成层的增长，导致晚材和早材比例失调而对树木径向生长产生直接影响。故7（中旬）\~8月的土壤湿度是限制树木宽窄轮形成的主要因子。
+
+1985—2015年生长季长度相对1960—1984 年生长季更长，但树木1985—2015年总体生长速率远低于1960—1984年总体生长速率,树木生长发生衰退现象。可能是1984年后研究区气温上升明显，导致云杉林的水分失调，引起土壤湿度的降低，造成树木径向生长的减少，我们推测增温可能是造成天山东部采样点上限雪岭云杉生长衰退的主要原因。增温虽然使树木的生长季得到延长，增强树木的光合作用，但是增温产生的负面效应在于树木消耗更多的水分导致干旱的发生，且干旱季节树木更加容易感染病虫害[31],导致树木生长衰退。此外,导致森林衰退的原因包括大气污染、气候变化、积雪压断树枝等多种因素综合影响，为认识森林衰退的具体原因还需进行下一步深入的研究。
+
+# 4结论
+
+（1）天山山区树木径向生长的主要限制因子的生理意义解释主要还是引用其他研究区域的研究结论，为丰富天山地区树木对气候的响应机理研究，本文基于VS-oscilloscope 模型，利用巴里坤山上限的雪岭云杉树芯,模拟了该树种的径向生长对气候的响应过程，模拟树轮宽度序列和实测树轮宽度序列有较好的一致性，本研究取得了较好的模拟效果，说明该模型可用于高海拔雪岭云杉径向生长的模拟。
+
+(2）天山东部森林上限雪岭云杉径向生长的主要限制因子是土壤湿度，限制时段为4～5月和 $7 \sim$
+
+8月。温度决定了树木开始生长的时间，所以温度是决定树木生长季开始的主要影响因子，但温度对树木径向生长的限制作用不大。
+
+(3）模拟结果还表明，半个多世纪以来的温度的升高使得森林上限树木生长季有所延长，但云杉径向生长的总体速率明显减小，树木生长产生衰退现象。若未来气温持续上升，将导致该区域森林生态系统生产力降低，并对生物多样性带来重大影响。为深入了解树木径向生长的生理机制，接下来需要结合木材解剖、微树芯、树木径向生长监测等方面综合展开研究。
+
+# 参考文献(References)
+
+[1］黄小梅,肖丁木,秦宁生，等.利用树木年轮重建公元1639- 2013年青南高原5\~9月相对湿度变化[J].干旱区地理， 2018,41（5）:1001-1008.[HUANG Xiaomei,XIAO Dingmu, QIN Ningsheng,et al. Tree-ring based reconstruction of relative humidity from May to September in southern Qinghai Plateau during AD 1639—2013[J].Arid Land Geography,2018,41（5）:1001 - 1008.]   
+[2］王晓春,吕姗娜.利用树木年轮重建嫩江上游近200a来1～3 月径流量[J].干旱区地理,2012,35（4）：537-544.［WANG Xiaochun,LYU Nana.Tree ring reconstructions of January-March streamflow in the upper Nenjiang River since 18O4,China[J].Arid Land Geography,2012,35(4）:537-544.]   
+[3］张瑞波,袁玉江,魏文寿,等.树轮记录的吉尔吉斯斯坦东部过 去百年干湿变化[J].干旱区地理，2013，36（4)：691-699. [ZHANG Ruibo,YUAN Yujiang,WEI Wenshou,et al.Changes of wet and dry in the past hundred years in eastern Kyrgyzstan by tree-ring[J].Arid Land Geography,2013,36(4）:691-699.]   
+[4]SALADYGA T,MAXWELL R S. Temporal variability in climate response of eastern Hemlock in the central Appalachian region [J].Southeastern Geographer,2015,55(2）:143-163.   
+[5]ZHANG Y X,SHAO X M,XU Y,et al.Process-based modeling analyses of Sabina przewalski growth response to climate factors around the northeastern Qaidam Basin[J].Chinese Science Bulletin,2011,56(14) :1518 -1525.   
+[6]FRITTS HC,SHASHKIN A V,DOWNES G M,et al.A simulation model of conifer ring growth and cell structure:In tree-ring analysis [M].Cambridge:Cambridge University Press,1999:3 -32.   
+[7] HE M H,YANG B,SHISHOV V,et al.Relationships between wood formation and cambium phenology on the Tibetan Plateau during 1960—2014[J].Forests,2018,9(2） :86.   
+[8]SHISHOV V,TYCHKOV I,POPKOVA M,et al. VS-osciloscope : A new tool to parameterize tree radial growth based on climate conditions[J].Dendrochronologia,2016,39:42-50.   
+[9]HE MH,SHISHOV V,KAPAROVA N,et al.Process-based modeling of tree-ring formation and its relationships with climate on the Tibetan Plateau[J].Dendrochronologia,2017,42:31-41.   
+[10]HE MH,YANG B,SHISHOV V,et al.Projections for the changes in growing season length of tree-ring formation on the Tibetan Plateau based on CMIP5 model simulations[J]. International Journal of Biometeorology,2018,62（4） :631-641.   
+[11]POPKOVA M,VAGANOV E,SHISHOV V,et al.Modeled tracheidograms disclose drought influence on Pinus sylvestris tree-rings structure from Siberian forest steppe[J].Front in Plant Science, 2018,9:1144.   
+[12]ARZAC A,BABUSHKINA E,FONTIP,et al. Evidences of wider latewood in Pinus sylvestris from a forest-steppe of southern Siberia [J].Dendrochronologia,2018,49:1 -8.   
+[13]GAO JN,YANG B,HE M H,et al.Intra-annual stem radial increment patterns of Chinese pine,Helan Mountains,northern central China[J].Trees,2019,33(3）:751-763.   
+[14］丛毓,贺红士,谷晓楠,等.高山林线形成机理研究进展[J].应 用生态学报,2016,27（9）:3035-3041.[CONG Yu,HE hongshi,GU Xiaonan,et al.Progresss of alpine treeline formation mechanism[J].Chinese Journal of Applied Ecology,2016,27 （9):3035-3041.]   
+[15］郭艳飞,甘淼,杨美琳,等.天山东部树木径向生长与 NDVI的 关系[J].干旱区资源与环境,2018,32（3）:176-180.[GUO Yanfei,GAN Miao,YANG Meilin,et al.Relationship between tree radial growth and normalized diffrence vegetation index in the eastern Tianshan Mountains[J]. Journal of Arid Land Resources and Environment,2018,32（3）:176-180.]   
+[16］赵海龙.干旱区地表温度反演及其时空特征分析[D].乌鲁木 齐:新疆大学,2007.[ZHAO Hailong.The land surface temperature calculation of arid region and the space-time characteristic analysis[D]. Urumqi: Xinjiang University,2007.]   
+[17]SPEER JH.Fundamentals of tree-ring research[M]. Tucson:The University of Arizona Press,2010:87-105.   
+[18]EVANS M N,REICHERT B K,KAPLAN A,et al.A forward modeling approach to paleoclimatic interpretation of tree-ring data[J]. Journal of Geophysical Research:Biogeosciences,20o6,111:321.   
+[19] YANG B,HE M H,SHISHOV V,et al. New perspectiveon spring vegetation phenology and global climate change based on Tibetan Plateau tree-ring data[J].Proceedings of the National Academy of Sciences of the United States of America,2017,114(27）,6966 6971.   
+[20]YANG B,HE MH,MELVIN T M,et al.Climate control on tree growth at the upper and lower treelines：A case study in the Qilian Mountains，Tibetan Plateau[J].Plos One,2013,8(7）:e69065.   
+[21］宋文琦,朱良军,张旭,等.青藏高原东北部不同降水梯度下高 山林线祁连圆柏径向生长与气候关系的比较[J].植物生态学 报,2018,42(1）:66-77.[SONG Wenqi,ZHU Liangjun,ZHANG Xu,et al. Comparison of growth-climate relationship of Sabina przewalskii at different timberlines along a precipitation gradient in the northeast Qinghai-Xizang Plateau,China[J]. Chinese Jouanal of Plant Ecology,2018,42(1) :66 -77.]   
+[22]TYCHKOVI I,SVIDERSKAYA I V,BABUSHKINA E A,et al. How can the parameterization of a process-based model help us understand real tre-ring growth?[J]. Tres,2019,33（2）:345 357.   
+[23］张志华,吴祥定,李骥.利用树木年轮资料重建新疆东天山300 多年来干旱日数的变化[J].应用气象学报,1996,7（1)：53- 60.[ZHANG Zhihua,WU Xiangding,LI Ji,et al.Utilizing tree ring chronologies to reconstruct 300-year drought days in eastern Tianshan Mountains[J].Journal of Applied Meteorological Sci
+
+ence,1996,7(1) :53-60.]
+
+[24］张同文，袁玉江，魏文寿，等.浑善达克沙地白扦树轮早晚材宽 度年表对比分析[J].沙漠与绿洲气象，2016，10（1）：47-53. [ZHANG Tongwen,YUAN Yujiang,WEI Wenshou，et al.Developments and analyses of multi-tree-ring width chronologies of Meyer spruce in the Ortindag Sand Land[J].Desert and Oasis Meterology,2016,10(1) :47-53.] [25]VITAS A.Climatically induced light rings of European larch（Larix decidua Mill.）in Lithuania[J].Trees-Structure and Function,   
+2018,32(3):791-800. [26]BRAUNING A,DERIDDER M,ZAFIROV N,et al. Tree-ring features:Indicator of extreme event impacts[J].IAWA Jorunal,2016,   
+37(2):206-231. [27］袁玉江，邵雪梅,魏文寿,等.乌鲁木齐河山区树木年轮一积温 关系及 $\geqslant 5 . 7 \ \mathrm { \textcircled { C } }$ 积温的重建[J].生态学报，2005，（4）：756-   
+762.［YUAN Yujiang,SHAO Xuemei,WEIWenshou,etal.On the relationship between tree-ring and cumulative temperature in mountainous area of Urumqi River and reconstruction of ( $\mathrm { \Phi } _ { \cdot } \geqslant 5 . 7 ~ \mathrm { \Phi } _ { \mathrm { C } }$ ）cumulative temperature[J].Acta Ecologica Sinica,20o5,（4）:756- 762.]   
+[28］樊荣，孙慧彦，刘艳平，等.树木对水分胁迫响应机理研究进展 [J].内蒙古农业大学学报（自然科学版），2009,30（3）：281- 286.[FAN Rong,SUN Huiyan,LIU Yanping，et al.A current research on the trees's reponse mechanish to the water stress[J]. Journal of Inner Mongolia Agricultural University(natural science Edition）,2009,30(3):281-286.]   
+[29］PANAYOTOV M,ZAFIROV N，CHERUBINI P.Fingerprints of extreme climate events in Pinus sylvestris tree rings from Bulgaria [J].Trees-Structure and Function,2013,27(1）:211-227.   
+[30］LIANG E Y,ECKSTEIN D.Light rings in Chinese pine（Pinus tabulaeformis)in semiarid areas of north China and their palaeoclimatological potential[J].New Phytologist,2006,171(4） :783 - 791.   
+[31]CHENL,HUANG JG,STADTKJ,et al.Drought explains variation in the radial growth of white spruce in western Canada[J]. Agricultural and Forest Meteorology,2017,233:133-142.
+
+# Process-based modeling radial growth of Picea schrenkiana in the eastern Tianshan Mountains
+
+WUYan-liang'2，GAN Miao’，YURui-de’，YANG Mei-lin’，GUO Yan-fei1²，ZHAO Peng1,2 (1Laboratoryof Environment Change inAridLands,Xinjiang InstituteofEcologyand Geography,Chinese Academyof Sciences,Urumqi 83011,Xinjiang,China；2Universityof Chinese Academyof Sciences,Beijing 100049,China)
+
+Abstract：The Tianshan Mountains isone of the most important tree ring research area in China.Inorder to understand the response mechanism of the radial growth ofthe trees in upper forest to environment,this paper conducteda simulation to reveal the relationship between the process ofradial growth and the environmental factors based on the VS-osciloscope model using the observed daily temperature and precipitation data of Balikun Weather Station of Hami City,Xinjiang,China from 1960 to 2015and 52 tree coresfrom 26 tres collected atupper forestof the Balikun Mountain,east of Tianshan Mountains.According to the method of dendrochronology,all samples were surfaced,cross-datedandmeasuredaccording to standarddendrochronology techniques.Finally,weestablished a tree ring width chronologies bycore samples of Picea schrenkiana.The results shows as folows:（1） Thecorrelation coeffcient between the simulated tree ring width index and the actual tree ring width index is O.645( $P < 0 . 0 1 \$ ），the consistency between the two trends indicating that the model has achieved good simulation results.（2）The main limiting factors for tree radial growth are soil moisture from April to Mayand from July to August.Temperature is the mainfactordetermining the beginning of tree growing season，butthe growth rate determined by temperature is not obvious in the formation of wideand narrow rings.（3）The correlation coefficient between simulated tree-ring width index and the end date of the growing season was -O.413 ( $\textstyle P < 0 . 0 1 { \mathrm { ~ } }$ ). It shows that the end date of growing season has some influence on the growth of tree ring width.（4）Inaddition,the simulation results also show that with the gradual increase of temperature intheregion since 1984,the length of the tree growing season hasan increase tendency,but overall the growth rate of tres has been declined.The increase in temperature since 1984 may be the main reason forthe decline of tree growth.This study from a physiological point of view reveals the main limiting factors and time periods in the processof radial growth of the upper forest trees in the eastern Tianshan Mountains, which could provide some reference for tree ring study at this area in the future.
+
+Key words:tree rings； Picea schrenkiana ； radial growth；VS-oscilloscope model

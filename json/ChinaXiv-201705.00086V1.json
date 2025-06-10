@@ -1,0 +1,406 @@
+[
+    {
+        "type": "text",
+        "text": "Tandem catalytic conversion of 1-butene and ethene to propene over combined mesoporous W-FDU-12 and MgO catalysts† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Xu,ab Chao Lin,a Huan Liu,a Hongbo Yu,a Kai Tao\\*a and Shenghu Zhou\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tungsten substituted mesoporous FDU-12 (W-FDU-12) catalysts were synthesized by a one-pot hydrothermal process using F127 as the structure directing agent.The studies of TEM,SAXS and BET illustrated that the highly ordered mesoporous structure of FDU-12 was maintained in the doped W-FDU-12 samples. XPS studies revealed that a high concentration of $\\mathsf { W } ^ { 5 + }$ species appeared in doped W-FDU-12 catalysts whereas supported $W { \\sf O } _ { 3 } / \\sf { F } \\sf { D } \\mathsf { U } - 1 2$ and ${ \\sf W O } _ { 3 } / { \\sf S i O } _ { 2 }$ catalysts only contained $\\mathsf { W } ^ { 6 + }$ species.Tandem catalytic conversion of 1-butene and ethene to propene through isomerization of 1-butene to 2-butene and consecutive cross metathesis of 2-butene and ethene ina fixed-bed reactor at diferent temperatures and atmospheric pressure was used to evaluate the catalytic performance of the W-FDU-12 catalyst, combined with $M g O$ .The catalytic results showed that the doped W-FDU-12 illustrated a superior catalytic performance relative to the supported $W { \\sf O } _ { 3 } / \\sf { F } \\sf { D } \\sf { U } - 1 2$ and ${ \\sf W O } _ { 3 } / { \\sf S i O } _ { 2 }$ catalysts.The higher metathesis activityof W-FDU-12 catalystscan be ascribed to the good dispersion of W species and the incorporation of W species into the framework of FDU-12,forming a substantial amount of $\\mathsf { W } ^ { 5 + }$ ,which was beneficial for the cross metathesis of 2-butene and ethene to propene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, there has been a continuously increasing demand for propene owing to the strong demand for polypropene. Several production technologies including propane dehydrogenation,1,2 catalytic cracking of ${ { \\bf C } _ { 4 } } ^ { + }$ olefin4 and the methanol to olefin process,' have been developed for propene production.Another effective pathway for propene production is the catalytic cross metathesis reaction of 1-butene (or 2-butene) and ethene.6-& The mostimportant metathesis catalysts for propene production are those supported rhenium, molybdenum and tungsten oxides.9-13 Among them, the $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ catalysts are of special interest due to lower price and good persistence.The metathesis of butene and ethene to propene using $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ catalysts has been commercialized as the olefin conversion technology (OCT).14,15 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The activity and selectivity of olefin metathesis over the supported tungsten oxide are dependent on the physicochemical properties of the supports,tungsten contents, pretreatment conditions and the oxidation states of tungsten species.16-19 A variety of materials have been chosen as supports for ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "W-containing catalyst,such as $\\mathrm { S i O } _ { 2 }$ ， $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ ， $\\mathrm { T i O } _ { 2 }$ ，and mixed oxides including ${ \\mathrm { S i O } } _ { 2 } { \\mathrm { - } } { \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ ${ \\mathrm { S i O } } _ { 2 } – { \\mathrm { T i O } } _ { 2 }$ ,and so on.20-23 Mazoyer et al.24prepared ${ \\bf W } { \\mathrm { - H } } / { \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ catalysts for metathesis reaction of 2-butene and ethene,and the catalytic results showed that the ${ \\bf W } { \\mathrm { - H / A l _ { 2 } O _ { 3 } } }$ catalysts were stable and highly selective to propene formation even at substoichiometric ratios of ethene/2-butene. Hua et al.25 synthesized the titanium-silica molecular sieve supported tungsten oxides for metathesis of butene to propene and pentene.The reported ${ \\bf W O } _ { 3 } / { \\bf M T S } – 9$ exhibited excellent catalytic performance,and the tetrahedral and the octahedral polytungsten species were speculated as active sites.These results have illustrated that different types of supports have significant effect on the catalytic performance of the W-containing catalysts. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Compared with the traditional supports,mesoporous silica materials show uniform pores,high BET surface areas,large pore volumes,and narrow pore size distribution，which is beneficial for dispersion of active species and provides rapid transportation channels for reactants and products.Several W doped mesoporous silica materials have been prepared for metathesis reactions.26-29 Bhuiyan et al.27 investigated the catalytic performance of W-SBA-15 and W-MCM-41 catalysts for metathesis of 2-butene to propene,and found that these materials exhibited the higher activity as compared to supported tungsten oxide catalysts.Moreover,W-MCM-41 materials were superior to W-SBA-15 at low reaction temperature because that W-MCM-41 had more number of tetrahedrally coordinated tungsten oxide species. Ramanathan et al.28 prepared the W-KIT-5 by one-step direct hydrothermal synthesis procedure,and the catalysts show high dispersion of W species with the strong interaction between W species and KIT-5 silicate as evidenced by the co-existence of $\\mathrm { W } ^ { 5 + }$ and $\\mathrm { W } ^ { 6 + }$ species on the support surface.In our previous work,29 we found that doped W-KIT-6 exhibited much higher catalytic performance than traditional $\\mathrm { S i O } _ { 2 }$ supported ${ \\bf W O } _ { 3 }$ catalysts in metathesis of 1-butene and ethene to propene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7599ffe482699a3dfa89da711d51876d94dc0b72fe0a175cc1d7dfbbdcb77585.jpg",
+        "img_caption": [
+            "Scheme 1 Schematic diagram of the synthesis of doped mesoporous W-FDU-12. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Herein,we first reported W doped mesoporous materials (W-FDU-12) by one-pot synthesis method. The W-FDU-12 combined with MgO was applied in tandem catalytic conversion of 1-butene and ethene to propene.The schematic demonstration of this study was shown in Scheme 1.FDU-12 is a highly ordered large cage-type (12 to $6 0 ~ \\mathrm { { n m } }$ )mesoporous silica with a cubic Fm3m close-packed structure,allowing good accessibility for guest molecules.3o-33 In this study,the supported $\\mathrm { W O _ { 3 } / F D U } – 1 2$ and $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ catalysts with traditional impregnation method were also synthesized for comparison. Among these materials,the doped W-FDU-12 catalysts exhibited a superior catalytic performance for catalytic conversionof 1-butene and ethene relative to the supported $\\mathrm { W O _ { 3 } } / \\mathrm { F D U } – 1 2$ and $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ catalysts.The results revealed that the catalytic activity and selectivity were strongly dependent on the preparation method of catalysts,and the superior catalytic performance of W-FDU-12 originated fromhighlydispersed W speciesand high concentration of $\\mathrm { W } ^ { 5 + }$ species due to the doping method. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Chemicals ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Triblockpoly(ethyleneoxide)-poly(propyleneoxide)-poly(ethylene oxide) co-polymer Pluronic F127 $\\left( M _ { \\mathrm { a v } } = 1 2 \\ : 6 0 0 \\right.$ ， $\\mathrm { E O } _ { 1 0 6 ^ { - } }$ $\\mathbf { P O } _ { 7 0 } \\mathbf { E O } _ { 1 0 6 } )$ was purchased from Sigma-Aldrich. Tetraethyl orthosilicate(TEOS, $9 8 \\%$ ）and 1,3,5-trimethylbenzene(TMB, $9 7 \\%$ and $\\mathbf { M g O }$ powders $( 9 9 . 9 \\% )$ were purchased from Aladdin. Ammoniummetatungstate $\\left( \\left( \\mathbf { N H } _ { 4 } \\right) _ { 6 } \\mathbf { H } _ { 2 } \\mathbf { W } _ { 1 2 } \\mathbf { O } _ { 4 0 } \\cdot x \\mathbf { H } _ { 2 } \\mathbf { O } \\right)$ was purchased from Kunshan Xingbang W&M Technology Company. Sodium tungstate dihydrate $\\left( \\mathrm { N a _ { 2 } W O _ { 4 } } \\cdot 2 \\mathrm { H _ { 2 } O } \\right)$ ,potassiumchloride (KCl) and hydrochloric acid (HCl) were purchased from Shanghai Chemical Reagent Company. Silica gel (surface area $3 9 9 \\mathrm { ~ m } ^ { 2 } \\mathrm { ~ g } ^ { - 1 } \\mathrm { ~ }$ 号 was obtained from Qingdao Haiyang Chemical Co. Ltd. All chemicals were used as received without further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Catalyst preparation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1Preparation of FDU-12.Pluronic F127 $\\left( 2 . 0 0 \\ { \\mathrm { g } } \\right)$ ，TMB $\\left( 5 . 0 0 ~ \\mathrm { g } \\right)$ and KCl $\\left( 5 . 0 0 ~ \\mathrm { g } \\right)$ were dissolved in $1 2 0 ~ \\mathrm { m L }$ of $2 \\mathrm { ~ M ~ H C l }$ aqueous solution.The resultant mixture was stirred at $1 5 ^ { \\circ } \\mathrm { C }$ for 1.0 hour. TEOS $\\left( 8 . 3 2 ~ \\mathrm { g } \\right)$ was then dropwise added to the above solution with continuous stirring at $1 5 ~ ^ { \\circ } \\mathrm { C }$ for another 24 hours. The resulting mixture was transferred into a Telfon-lined autoclave and aged at $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ for 24 hours.After cooling to room temperature,the solid was isolated by fltering,washing with water,and drying at ${ 7 0 ~ ^ { \\circ } } \\mathbf { C }$ in an oven.Finally,the dried material was then calcined in a muffle oven at $5 5 0 ^ { \\circ } \\mathrm { C }$ for 4 hours with a ramping rate of $1 \\ { } ^ { \\circ } { \\bf C }$ min to remove F127 surfactants to obtain FDU-12. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Preparation of W-FDU-12.Pluronic F127 (2.00 g), TMB $\\left( 5 . 0 0 ~ \\mathrm { g } \\right)$ and KCl $\\left( 5 . 0 0 ~ \\mathrm { g } \\right)$ were dissolved in $1 2 0 ~ \\mathrm { m L }$ of $^ { 2 \\textbf { M } }$ HCl aqueous solution.The resultant mixture was stirred at $1 5 ~ ^ { \\circ } \\mathrm { C }$ for 1.0 hour.Appropriate amount of sodium tungstate dihydrate dissolved in $1 0 ~ \\mathrm { m L }$ deionized water was then added into the above mixture.The resulting solution was further stirred for O.5hours,followedbydropwiseaddition of $8 . 3 2 ~ \\mathrm { g }$ of TEOS.The obtained mixture was vigorously stirred at $1 5 ~ ^ { \\circ } \\mathrm { C }$ for 24 hours,and was then transferred to a Teflon-lined autoclave, followed by heating at $1 0 0 ^ { \\circ } \\mathrm { C }$ for another 24 hours.After cooling to room temperature， the yellow powdery products were collected,washed,and calcined by the same procedure of FDU-12.Five catalysts withW contents of1.2,2.2,3.0,4.0,and $5 . 2 \\%$ (determined by inductively coupled plasma (ICP)) were prepared,and denoted as W-FDU- $1 2 { - } 1 . 2 \\%$ ，W-FDU-12- $2 . 2 \\%$ ， W-FDU-12- $3 . 0 \\%$ ,W-FDU-12- $4 . 0 \\%$ and W-FDU- $1 2 { - } 5 . 2 \\%$ ，respectively.The effect of calcination temperatures was also investigated using the W-FDU-12 with the W content of $4 . 0 ~ \\mathrm { w t \\% }$ ，and the materials obtained at calcination temperatures of 6oo,650 and ${ 7 0 0 ~ ^ { \\circ } \\mathrm { C } }$ were denoted as W-FDU- $4 . 0 \\% 6 0 0$ (cal.),W-FDU$4 . 0 \\% 6 5 0$ (cal.) and W-FDU- $4 . 0 \\% 6 7 0 0$ (cal.),respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Preparation of supported $\\bf { W O _ { 3 } } / \\bf { F D U } \\cdot 1 2$ and $\\mathbf { W O } _ { 3 } /$ $\\mathbf { S i O } _ { 2 }$ .The supported $\\mathbf { W O } _ { 3 } / \\mathbf { F D U } – 1 2$ and $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ catalysts were prepared by impregnating $2 . 0 \\mathrm { g }$ of the support powders with the aqueous solution containing required amount of ammonium metatungstate in $\\mathrm { ~ 5 ~ m L }$ deionized water.After drying in an oven at $1 0 0 ~ ^ { \\circ } \\mathbf { C }$ overnight,the powders were calcined by the same procedure of FDU-12.The catalysts were denoted as ${ \\mathrm { W O } } _ { 3 } / { \\mathrm { F D U } } -$ $1 2 \\mathrm { - } 4 . 0 \\%$ and $\\mathrm { W O _ { 3 } / S i O _ { 2 } / \\mathrm { 4 } } . 0 \\%$ ,where thereal loadingsofWwere $4 . 0 ~ \\mathrm { w t \\% }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3．Catalyst characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "X-ray diffraction (XRD) measurements were performed on a Bruker D8 Advance X-ray diffractometer using Cu ${ \\mathrm { K } } _ { \\alpha }$ radiation in the $2 \\theta$ range of $5 ^ { \\circ }$ to $8 0 ^ { \\circ }$ . The average ${ \\bf W O } _ { 3 }$ crystalline sizes were calculated using the half-width at half-height of the most intense peak of the diffraction pattern and the Scherrer equation.Small-angle X-ray scattering (SAXs) patterns were recorded using a Bruker Nanostar U small-angle X-ray scattering instrumentwith a rotating anode X-ray source and a Vantec-2ooo twodimensional detector.Inductively coupled plasma (ICP-OES) analysis was achieved to obtain the real W loading using Perkin-Elmer OPTIMA $2 1 0 0 ~ \\mathrm { D V }$ optical emission spectroscopy spectrometer. Transmission electron microscopy (TEM) observations were carried out on a JEOL 21oo transmission electron microscope operated at $2 0 0 ~ \\mathrm { k V }$ .The oxide state of W species were studied by X-ray photoelectron spectroscopy (XPS) using an AXIS ULTRA DLD multifunctional X-ray photoelectron spectroscopy with an Al source.The data processing was performed with CaseXPS software.The infrared (IR) spectra were recorded from $4 0 0 0 { \\cdot } 4 0 0 ~ \\mathrm { ~ c m } ^ { - 1 }$ using a Bruker Tensor 27 spectrometer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$ { \\mathbf { N } } _ { 2 }$ physical adsorption experiments were carried out on a Micrometrics ASAP-2020 M adsorption apparatus.The pore size distributions were obtained by Barrett-Joyner-Halenda (BJH) method.Before the tests,all the samples were degassed under vacuum at $2 0 0 ~ ^ { \\circ } \\mathbf { C }$ for 5 hours.Carbon deposition of spent catalysts wasmeasured bya Seiko thermal gravimetric (TG/DTA) 6300 apparatus.The sample was heated from 100 to $9 0 0 ^ { \\circ } \\mathbf { C }$ at a heating rate of $1 0 ^ { \\circ } { \\bf C } \\operatorname* { m i n } ^ { - 1 }$ in an air atmosphere with a gas flow rate of $2 0 0 \\ \\mathrm { m L } \\ \\mathrm { m i n } ^ { - 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4． Catalytic study ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tandem catalytic conversion of 1-butene and ethene to propene was performed in a fixed-bed reactor (i.d. $1 0 ~ \\mathrm { m m }$ ).Inatypical test, $1 . 0 ~ \\mathrm { g }$ of catalyst with the size of 20-40 mesh supported by anlayerofinert $\\mathrm { S i O } _ { 2 }$ beads were placed in the center of the reactor,and $1 . 2 \\mathrm { g } \\mathrm { M g } \\mathrm { O }$ with the size of 20-40 mesh were put on the top of the W-contained catalyst layer for the isomerization of 1-butene to 2-butene.An additional layer of inert $\\mathrm { S i O } _ { 2 }$ beads covered the layer of $\\mathbf { M g O }$ .Before catalytic tests,the catalysts were activated in situ at $5 5 0 ~ ^ { \\circ } \\mathrm { C }$ for 4 hours in a pure ${ \\bf N } _ { 2 }$ stream with a flow rate of $3 5 \\mathrm { \\ m L \\ m i n ^ { - 1 } }$ at $0 . 1 \\ \\mathrm { M P a }$ to remove the moisture.After the reactor cooling down to reaction temperatures,ethene and 1-butene were then fed into the system.The catalytic reaction was carried out at the conditions of $4 0 0 -$ $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ $0 . 1 \\mathrm { \\ : M P a }$ ,weight hourly space velocity (WHSV, $\\mathrm { 1 - C _ { 4 } H _ { 8 } + }$ $\\mathbf { C } _ { 2 } \\mathbf { H } _ { 4 } \\mathbf { \\overline { { \\Omega } } } ,$ of $0 . 9 \\mathrm { { h } } ^ { - 1 }$ and a 1-butene/ethene molar ratio of $_ { 1 / 2 }$ .The products were analyzed by an online gas chromatograph (GC) equipped with a flame ionization detector (FID). The 1-butene conversion and propene selectivity were calculated according to the literatures,29,34 as following: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { 1 - b u t e n e } } = \\frac { [ \\mathbf { C } _ { 3 } ] _ { n } / 2 + [ 2 - \\mathbf { C } _ { 4 } ] _ { n } } { [ \\mathbf { C } _ { 3 } ] _ { n } / 2 + [ 1 - \\mathbf { C } _ { 4 } ] _ { n } + [ 2 - \\mathbf { C } _ { 4 } ] _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { p r o p e n e } } = { \\frac { \\left[ \\mathbf { C } _ { 3 } \\right] _ { m } } { \\left[ \\mathbf { C } _ { 3 } \\right] _ { m } + \\left[ 2 - \\mathbf { C } _ { 4 } \\right] _ { m } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $[ { \\bf C } _ { 3 } ] _ { n } , ~ [ 1 - { \\bf C } _ { 4 } ] _ { n }$ and $[ 2 - \\mathbf { C } _ { 4 } ] _ { n }$ were the molar fraction of propene,1-butene and 2-butene in effluent gases,respectively. And $[ \\bf C _ { 3 } ] _ { \\it m } , \\tau [ 1 - \\bf C _ { 4 } ] _ { \\it m }$ and $[ 2 - \\mathbf { C } _ { 4 } ] _ { m }$ were the weight percent of propene,1-butene and 2-butene in effluent gases,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3． Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TEM images of various samples were displayed in Fig.1.As seen inFig.1a, it clearly showed that this sample had typical FDU-12 cage-like mesostructures.The ordered lattice array over large domains under the TEM observations suggested a uniform, cubic mesostructure $\\left( F m \\bar { 3 } m \\right)$ without intergrowth.35 The diameter of the cages could be directly measured from the thin edge of the particle and was about $1 7 . 5 \\mathrm { n m }$ ,in good accordance with the ${ \\bf N } _ { 2 }$ adsorption results (see below).As shown in Fig.1b-d, the well-ordered mesoporous structures were observed in all WFDU-12 materials.For lower W loading $( 1 . 2 \\% , 3 . 0 \\%$ and $4 . 0 \\%$ ） doped catalysts,individual ${ \\bf W O } _ { 3 }$ particles cannot be found due to the incorporation ofW species into framework.However, for high W loading catalyst W-FDU-12- $5 . 2 \\%$ ，bulk ${ \\bf W O } _ { 3 }$ aggregations were observed in Fig.1e.However, the well-ordered mesoporous structure partially disappeared in Fig.1f forW-FDU$4 . 0 \\% - 7 0 0$ (cal.),suggesting the collapse of the structure at high calcination temperature.For comparison，TEM imagesof FDU-12 supported $\\mathrm { W O _ { 3 } / F D U - 1 } 2 { \\cdot } 4 . 0 \\%$ catalyst and traditional silica supported $\\mathrm { W O _ { 3 } / S i O _ { 2 } / \\mathrm { 4 } } . 0 \\%$ catalyst were present in Fig. 1g and h.For the $\\mathrm { W O _ { 3 } / F D U } { - 1 2 { - 4 . 0 \\% } }$ catalyst,it also exhibited the well-ordered array.But,nanosized ${ \\bf W O } _ { 3 }$ particles confined in the channels of FDU-12 with some particles present on the outer surfaces were observed.For the $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 } – 4 . 0 \\%$ catalyst，it clearly showed the $\\mathbf { W O } _ { 3 }$ was dispersed on the surface of $\\mathrm { S i O } _ { 2 }$ support as large agglomerates. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e19b016695d1c89e01a0736e44ca00cf2cad0f538b30e8e8b10b4dfd06854ff.jpg",
+        "img_caption": [
+            "Fig.1 TEM images of (a) FDU-12;(b)W-FDU-12- $1 . 2 \\%$ ： (c)W-FDU-12- $3 . 0 \\%$ (d)W-FDU-12- $4 . 0 \\%$ ： (e)W-FDU-12-5.2%;(f)W-FDU-4.0%-700 (cal.); (g) WO3/FDU-12- $4 . 0 \\%$ ：and (h) ${ \\sf W O } _ { 3 } / { \\sf S i O } _ { 2 }$ $4 . 0 \\%$ catalysts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the oxidation states ofW species in Wcontaining catalysts,XPS experiments were carried out.Fig.2 showed XPS spectra of $\\mathrm { W \\mathrm { - F D U } \\mathrm { - } 1 } 2 \\mathrm { - } 4 . 0 \\%$ ， $\\mathrm { W O _ { 3 } / F D U - 1 } 2 { \\cdot } 4 . 0 \\%$ $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 } – 4 . 0 \\%$ and W-FDU-12 $- 4 . 0 \\% - 7 0 0$ (cal.).The tungsten oxide species in different chemical states from the position of the W4f level was fitted by the curve-ftting procedure according to the theory of Doniach and Sunjic.36 The intensity ratio between the $\\mathrm { W } 4 \\mathrm { f } _ { 7 / 2 }$ and $\\mathrm { W } 4 \\mathrm { f } _ { 5 / 2 }$ was fixed to $4 / 3$ ，according to fitting rules.37 Detailed quantitative results from the peak-fitting results of W4f were given in Table 1.As shown in Fig.2a, the dopedW-FDU- $1 2 { - } 4 . 0 \\%$ catalyst contained two W species.The binding energies of $3 7 . 1 ~ \\mathrm { e V } / 3 5 . 0 ~ \\mathrm { e V }$ and $3 8 . 4 ~ \\mathrm { e V } / 3 6 . 3 ~ \\mathrm { e V }$ were attributed to the binding energies of $4 \\mathrm { f } _ { 5 / 2 } / 4 \\mathrm { f } _ { 7 / 2 }$ of $\\mathbf { W } ^ { 5 + }$ and $\\boldsymbol { \\mathrm { W } } ^ { 6 + }$ respectively.38The $\\mathrm { W } ^ { 5 + } / \\mathrm { W } ^ { 6 + }$ ratio was $8 0 . 9 / 1 9 . 1 \\$ (4.24). XPS spectra of W-FDU-12 with various W loadings were also measured and the results were present in Fig.S1 and Table ${ \\bf 5 1 . \\dagger }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/856f22cbec8215304232678579a0dba27c5e2a0372634a034959189c901aa4c3.jpg",
+        "img_caption": [
+            "Fig.2 XPS spectra of (a) W-FDU-12- $4 . 0 \\%$ ：(b) $\\mathsf { W O } _ { 3 } ,$ /FDU-12-4.0%: (c) $\\mathsf { W O } _ { 3 } / \\mathsf { S i O } _ { 2 } – 4 . 0 \\%$ and (d)W-FDU-12- $4 . 0 \\%$ -700 (cal.) catalysts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All the W-FDU-12 catalysts showed similar spectra (Fig.S1t) and contained substantial amount of $\\mathbf { W } ^ { 5 ^ { + } }$ (Table $\\mathbf { S 1 \\dag }$ ). The XPS spectra of mesoporous FDU-12 supported $\\mathrm { W O _ { 3 } / F D U } { - 1 2 { - 4 . 0 \\% } }$ (Fig.2b) and traditional silica supported $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 } – 4 . 0 \\%$ (Fig.2c) samples with the same W content only exhibited the highest oxidation state of $\\mathrm { W } ^ { 6 ^ { + } }$ . According to the literatures,29,39 there were 5 kinds of structure of the tungsten oxide species in the W-doped SBA-15 and W-doped KIT-6 catalysts. Of them, three structures contained $\\mathbf { W } ^ { 5 ^ { + } }$ species. $\\mathbf { W } ^ { 5 ^ { + } }$ was induced by the strong interaction between W and Si through O bonding in the form of ${ \\bf { W = O - S i } }$ for doped W-SBA-15 (ref.39) and W-KIT-6.29 In the present study,a high concentration of $\\mathrm { W } ^ { 5 + }$ species in FDU12 was possibly induced in a similar way. These $\\mathrm { W } ^ { 5 + }$ species in catalysts may be beneficial to the catalytic performance for the metathesis of ethene and 1-butene to propene.In comparison, on the sample $\\mathrm { ( W \\mathrm { - F D U } \\mathrm { - } 1 2 \\mathrm { - } 4 . 0 \\% \\mathrm { - } 7 0 0 }$ (cal.)) calcined at ${ 7 0 0 ~ ^ { \\circ } \\mathbf { C } } _ { \\mathrm { { i } } }$ the W4f peaks were also fitted with only one $\\mathrm { W } ^ { 6 + }$ doublet at $3 8 . 2 \\ \\mathrm { e V }$ and $3 6 . 2 \\ \\mathrm { e V }$ ,as shown in Fig.2d,indicated that theW species were no longer doped into the framework due to the structure collapse,which was consistent with TEM observation in Fig. 1f. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\bf N } _ { 2 }$ adsorption-desorption isotherms of FDU-12 and WFDU-12 were shown in Fig.3 (left panel).For all the samples, they exhibited type IV isotherms with broad $\\mathbf { H _ { 1 } }$ hysteresis loops, which were typical for large-pore cagelike mesoporous silicas such as FDU-1, KIT-5,SBA-16 and so on.40-42 The sharp capillary condensation feature at relative pressure of O.45-0.90 $\\left( P / P _ { 0 } \\right)$ indicated the existence of uniform pores in all samples.As discussed the literatures, the delay of nitrogen capillary evapo ration at $7 7 \\mathrm { K }$ to the lower pressure limit of hysteresis indicated that the diameters of the pore entrances to the cage-type pores in these mesostructural samples were smaller than $5 \\ \\mathrm { n m }$ .43 Table 2 summarized the BET surface areas,pore volumes and mean pore sizes of different samples.The BET surface area of FDU-12 was ${ 7 1 7 } \\mathrm { m } ^ { 2 } \\mathrm { g } ^ { - 1 }$ .When W species was incorporated into the FDU-12 framework, the surface areas of these W-FDU-12 catalysts decreased slightly with increasing the tungsten loading,and reached $5 4 9 \\mathrm { m } ^ { 2 } \\mathrm { g } ^ { - 1 }$ for the W-FDU- $1 2 \\substack { - 5 . 2 \\% }$ sample as shown in Table 2. The result confirmed that the doping method could maintain the textural properties of FDU-12 in the final W-FUD-12 catalysts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The amount of W doped in catalysts affected the formation of the mesoporous matrix and its mesostructure differently. Fig. 4 compared the SAXS spectra of the FDU-12 mesoporous silicaand W-contained catalysts,and all exhibited three main peaks,which could be indexed to the 111,311,and 331 crystal lattices.These peaksreflected an ordered,face-centered cubic (fcc) structure (space group $F m { \\bar { 3 } } m { \\bar { \\mathbf { \\theta } } } .$ 0.30-33 From the SAXS results, there were no significant changes were observed between FDU12 and doped W-FDU-12, confirming the maintenance of long range structural order either in FDU-12 support or in doped samples.I was also shown that the W-contained catalysts caused the shift of diffraction peaks to higher $q$ values in all spectra,indicating a reduction in cavity size for these doped materials. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdc58fa2733680119ba64df0e5e7805d26ce2599e500f97ef7ed2b101ad8fd66.jpg",
+        "table_caption": [
+            "Table1Binding energies, molar percentages of $\\mathsf { W } ^ { 6 + }$ and $\\mathsf { W } ^ { 5 + }$ species and ${ \\mathsf { W O } } _ { 3 }$ crystalline sizes in different catalysts "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">Binding energies of W4f (eV)</td><td colspan=\"3\"></td></tr><tr><td>Catalysts</td><td>W6+4f5/2</td><td>W6+4f7/2</td><td>W5+4f5/2</td><td>W5+4f7/2</td><td>W5+ (%)</td><td>W6+ (%)</td><td>The size of WO3 (nm)</td></tr><tr><td>W-FDU-12-4.0%</td><td>38.4</td><td>36.3</td><td>37.1</td><td>35.0</td><td>80.9</td><td>19.1</td><td>N/A</td></tr><tr><td>WO3/FDU-12-4.0%</td><td>38.3</td><td>36.2</td><td>N/A</td><td>N/A</td><td>0</td><td>100</td><td>34</td></tr><tr><td>WO3/SiO2-4.0%</td><td>38.3</td><td>36.3</td><td>N/A</td><td>N/A</td><td>0</td><td>100</td><td>79</td></tr><tr><td>W-FDU-12-4.0%-700 (cal.)</td><td>38.2</td><td>36.2</td><td>N/A</td><td>N/A</td><td>0</td><td>100</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d3a47808d22038ba734bb87e0e4680b83ec6eab63f59dd3517c7eeaf6cebb60.jpg",
+        "img_caption": [
+            "Fig.3 ${ \\sf N } _ { 2 }$ adsorption-desorptionisotherms(leftpanel)and poresizedistributions(rightpanel)showing (a)FDU-12;(b)W-FDU-12- $1 . 2 \\%$ (c)WFDU-12-2.2%; (d)W-FDU-12- $3 . 0 \\%$ ：(e)W-FDU-12- $4 . 0 \\%$ and (f)W-FDU-12-5.2%. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/60e6a2c6af2748c78e28496a20866cd62e7b2f9384aaba127276d1726aab9a8f.jpg",
+        "table_caption": [
+            "Table 2BET surface areas,pore volumes,and pore sizes of FDU-12 and W-contained materials "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Catalysts</td><td>BET surface area (m²g-1)</td><td>Pore volume (cm³ g-1)</td><td>Pore size (nm)</td></tr><tr><td>FDU-12</td><td>717</td><td>0.70</td><td>17.6</td></tr><tr><td>W-FDU-12-1.2%</td><td>631</td><td>0.60</td><td>18.2</td></tr><tr><td>W-FDU-12-2.2%</td><td>624</td><td>0.61</td><td>18.5</td></tr><tr><td>W-FDU-12-3.0%</td><td>584</td><td>0.57</td><td>17.6</td></tr><tr><td>W-FDU-12-4.0%</td><td>582</td><td>0.60</td><td>17.4</td></tr><tr><td>W-FDU-12-5.2%</td><td>549</td><td>0.62</td><td>17.7</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/df3de5655fcf14701452696d1d0e6a2915df53b4a8091bce796f3a1783388a9f.jpg",
+        "img_caption": [
+            "Fig.4 SAXS patterns of (a) FDU-12;(b)W-FDU-12- $1 . 2 \\%$ (c)W-FDU$12 - 2 . 2 \\%$ (d)W-FDU-12- $3 . 0 \\%$ ：(e)W-FDU-12- $4 . 0 \\%$ and (f)W-FDU-12- $5 . 2 \\%$ catalysts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The wide-angle X-ray diffraction patterns of FDU-12,doped W-FDU-12, $\\mathrm { W O _ { 3 } } / \\mathrm { F D U } – 1 2$ and $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ samples were shown in Fig.5.Itwasobserved that there wasa broad diffraction in the $2 \\theta$ range from $1 5 ^ { \\circ }$ to $3 0 ^ { \\circ }$ forall the samples,which was corresponding to the typical peak of an amorphous silica material.As shown in Fig.5b-e,there were no obvious ${ \\bf W O } _ { 3 }$ diffractions for all catalysts,which indicated that basically all tungsten was highly dispersed or amorphous phase was formed.When increasing the W content to $5 . 2 \\%$ wt%，crystalline ${ \\bf W O } _ { 3 }$ diffractions (PDF-83-0950) appeared as shown in Fig. 5f,which was consistent with the TEM images in Fig.1e.Fig. 5e,gand h showed the XRD profiles of $\\mathrm { W \\mathrm { - F D U } \\mathrm { - } 1 } 2 \\mathrm { - } 4 . 0 \\%$ ， $\\mathrm { W / F D U } – 1 2 – 4 . 0 \\%$ and $\\mathbf { W } / \\mathrm { S i O } _ { 2 } – 4 . 0 \\%$ with the same W loading of $4 . 0 \\mathrm { w t \\% }$ .No ${ \\bf W O } _ { 3 }$ diffractions were observed for W-FDU-12- $4 . 0 \\%$ . To confirm the presence ofWspecies,EDX analysiswasperformed and the result was present in Fig. ${ \\cal S } 2 . \\dagger$ As shown in Fig. S2,t the signal of W was detected.Combined with XRD and TEM results it was suggested that the W was incorporated into the framework of FDU-12 for W-FDU-12- $4 . 0 \\%$ . The characteristic peaks at $2 \\theta =$ $2 3 . 1 ^ { \\circ } , ~ 2 3 . 6 ^ { \\circ }$ ，and $2 4 . 4 ^ { \\circ }$ corresponding to crystalline tungsten oxide $( \\mathrm { W O } _ { 3 } , P 2 _ { 1 } / n )$ were observed for supported ${ \\bf W O } _ { 3 } / { \\bf F D U } – 1 2 –$ $4 . 0 \\%$ and $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 } – 4 . 0 \\%$ catalysts.The average ${ \\bf W O } _ { 3 }$ crystallines were 34 and $7 9 \\ \\mathrm { n m }$ ，respectively，suggesting that the crystallite size of FDU-12 based catalystswere smaller than that of conventional silica gel based catalysts.These XRD results revealed that the dispersion of W species decreased in the following sequence: doped W-FDU- $^ { 1 2 > }$ supported $\\mathbf { W O } _ { 3 } / \\mathbf { F D U } – 1 2$ $>$ supported ${ \\bf W O } _ { 3 } / { \\bf S i O } _ { 2 }$ ，which was also confirmed by TEM observation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/da0a6d818eb6859af08f3d5930ceb1d5a044414f322911404bbc372e7f8bf289.jpg",
+        "img_caption": [
+            "Fig.5Wide-angle XRD profiles of different W containing materials showing (a) FDU-12;(b) W-FDU-12- $1 . 2 \\%$ (c)W-FDU-12- $2 . 2 \\%$ ：(d)WFDU-12- $3 . 0 \\%$ ：(e)W-FDU-12- $4 . 0 \\%$ ：(f)W-FDU-12- $5 . 2 \\%$ ：（g) $W { \\sf O } _ { 3 } / \\sf F \\sf D \\sf U -$ $1 2 - 4 . 0 \\%$ and $( \\mathsf { h } )$ $\\mathsf { W O } _ { 3 } / \\mathsf { S i O } _ { 2 } – 4 . 0 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The FTIR spectra of the FDU-12 and W-FDU-12 samples were shown in Fig.6.The characteristics absorption bands centered at 467,799 and $1 0 8 2 ~ \\mathrm { ~ c m } ^ { - 1 }$ were attributed to the bending modes of bulk Si-O-Si bond,symmetric and antisymmetric stretching vibration bands for the tetrahedral $\\mathrm { S i O _ { 4 } } ^ { 4 - }$ structure units.These vibrational bands were usually assigned as $\\delta \\mathrm { ( S i - O - }$ Si)， $\\nu _ { \\mathrm { { s } } } ( \\mathrm { { S i - O - S i } } )$ and $\\nu _ { \\mathrm { a s } } ( \\mathrm { S i \\mathrm { - } O \\mathrm { - } S i ) }$ respectively，which accompa nied by a progressive increase in intensity when tungsten content increased. The vibration at $9 6 6 ~ \\mathrm { c m } ^ { - 1 }$ may be attributable to the W-O-Si linkage in the doped W-FDU-12 catalysts, indicating the successful incorporation of tungsten inside the silica framework.44 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The W-contained catalysts were evaluated for catalytic conversion of 1-butene and ethene to propene.Because the metathesis reactions between olefins were reversibleand competitive,a high ratio of ethene to 1-butene was favorable to the conversion of 1-butene into more propene. Industrial process used an ethene/butene ratio of $2 / 1$ to obtain the best catalytic performance.Therefore,the comparison of different catalysts was carried out at the ratio of ethene/1-butene of $2 / 1$ The careful analysis of products suggested that the main products of reaction over all of the W-FDU-12, $\\mathrm { W O _ { 3 } / F D U } – 1 2$ and $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ catalysts were propene and 2-butene,only a little of byproduct (less than $0 . 2 \\%$ )was found.Hence,the conversion of 1-butene $( C _ { \\mathrm { 1 - b u t e n e } } )$ and the selectivity of propene (Spropene) were used to evaluate the performance of the different catalysts. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/baa011d20d433edb760ad10f343c1e47d14ee6c59c4a5ba65a0adb61186edf94.jpg",
+        "img_caption": [
+            "Fig.6 FTIR spectra of various samples showing (a) FDU-12;(b) W-FDU-12- $1 . 2 \\%$ ：(c)W-FDU-12-2.2%: (d) W-FDU-12- $3 . 0 \\%$ ：(e) W-FDU-12- $4 . 0 \\%$ and (f)W-FDU-12- $5 . 2 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As discussed elsewhere,propene was mainly produced by the cross metathesis of 2-butene and ethene.14 Therefore, the MgO was used as isomerization catalyst for conversion of1-butene to 2-butene during the reaction.The catalytic performance of singleMgO orW-FDU $1 2 \\mathrm { - } 4 \\%$ catalyst was present in Fig. S3. $\\dagger$ As shown in Fig. S3, $\\dagger$ only $3 2 \\%$ 1-butene was converted and no propene was formed,indicating that the only role of MgO catalyst was isomerization of 1-butene to 2-butene. The 1-butene conversion (about $3 4 \\%$ ）and propene selectivity (around $1 1 \\%$ ) were very low,when using single $\\mathbf { W O } _ { x }$ containing catalyst.This suggested that the isomerizationability ofW-FDU12 was very poor due to neutral nature ofFDU-12.In the present work, the reported catalytic performance was a combination of Wcontained catalysts and MgO.Since W contained catalysts were mixed with the same amount of MgO and the MgO had no contribution to metathesis (propene selectivity),the catalytic performances of W contained catalysts could be compared in this way. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To investigate the influence of the ${ \\bf W O } _ { 3 }$ loading on catalyst activity,doped W-FDU-12 catalysts containing 1.2,2.2,3.0,4.0 and $5 . 2 \\mathrm { w t \\% }$ of W were prepared. Fig. 7 showed the $C _ { 1 }$ -butene and $S _ { \\mathrm { p r o p e n e } }$ for the different W-containing catalysts at the reaction temperature of $4 5 0 ~ ^ { \\circ } \\mathrm { C }$ 、The W-FDU-12 catalyst with lower W loading of $1 . 2 \\%$ showed a poor catalytic performance.The 1-butene conversion and propene selectivity increased with increasing Wloading.When the W content increased to $4 . 0 \\%$ the $C _ { 1 }$ -butene and $S _ { \\mathrm { p r o p e n e } }$ reached a higher value with $7 8 . 8 \\%$ and $8 9 . 9 \\%$ ，respectively.Further increasing the W loading，the catalytic performance exhibited slightly changes,although the molar fraction of $\\mathrm { W } ^ { 5 + }$ species was less than that of $\\mathrm { W } ^ { 6 + }$ (Table $\\mathrm { { } } S 1 \\dag ^ { \\cdot }$ ).However，the W loading was high and the absolute amount of $\\mathrm { W } ^ { 5 + }$ species was large. Therefore,the W-FDU-12- $5 . 2 \\%$ catalyst showed a high 1-butene conversion and propene selectivity.It should be noted that besides the metathesis, many side-reactions coexisted,such as,oligomerization²7 of ethene and/or butene to high molecular weight compound.At low W loading,the metathesis activity of butene and ethene to propene was low,and the oligomerization dominated. Therefore, the catalyst deactivated due to the formation of high molecular weight compound.To examine the effect of reaction temperature on the catalytic performance,W-FDU- $. 1 2 \\mathrm { - } 4 . 0 \\%$ catalyst at three different temperatures from 4oo,450 and $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ was carried out and the results were shown in Fig.S4. $\\dagger$ It could be seen that the activity of catalyst was affected greatly by reaction temperature.The 1-butene conversion and propene selectivity decreased with time on stream from $7 7 . 3 \\%$ to $4 5 . 4 \\%$ and $8 9 . 8 \\%$ to $4 9 . 8 \\%$ at $4 0 0 ^ { \\circ } \\mathrm { C }$ ,respectively.As discussed above,many sidereactions coexisted,such as oligomerization of ethene and/or butene to high molecular weight compound.At lower reaction temperature $( 4 0 0 ~ ^ { \\circ } \\mathbf { C } )$ ，the metathesis active was low and the catalyst deactivated quickly due to the formation of high molecular weight compound.When the reaction temperature increased to $4 5 0 ^ { \\circ } \\mathrm { C }$ ,the $C _ { 1 }$ -butene and $S _ { \\mathrm { p r o p e n e } }$ increased slightly but with a good stability.Further increasing the temperature resulted in slightly improved catalytic performance. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/df943403849371d39b29ab8413bed74a9919811f2220d2c4bbaf31536d128278.jpg",
+        "img_caption": [
+            "Fig.71-Buteneconversion(eftpanelandpropeneselectivityrightpanel)overW-FDU-12catalystswitdiferentWloadingseactior conditions: $T = 4 5 0 ^ { \\circ } { \\mathsf { C } } .$ $P = 0 . 1 \\mathsf { M P a }$ $1 { \\cdot } { \\mathsf { C } } _ { 4 } { \\mathsf { H } } _ { 8 } / { \\mathsf { C } } _ { 2 } { \\mathsf { H } } _ { 4 } = 1 / 2 ;$ WHSV $( 1 - C _ { 4 } | \\mathsf { \\Pi } _ { 8 } + C _ { 2 } | \\mathsf { \\Pi } _ { 4 } )$ of $0 . 9 \\mathsf { h } ^ { - 1 }$ : W-contained catalyst $= 1 . 0 \\ { \\mathfrak { g } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to previous results reported in literatures,45 the calcination temperatures affected the nature of tungsten species of W-containing catalysts,which were active in the formation of propene by the metathesis reaction of ethene and butene.So the effect of calcination temperature on catalyst activityofW-FUD-12- $4 . 0 \\%$ was investigated in this study,and the results were shown in Fig. ${ \\bf 5 5 . \\dagger }$ It can be seen that the calcination temperature from $5 5 0 ~ ^ { \\circ } \\mathrm { C }$ to $6 5 0 ~ ^ { \\circ } \\mathrm { C }$ had no significant effect on $C _ { 1 }$ -butene and $S _ { \\mathrm { p r o p e n e } }$ ,which exhibited the similar catalytic performance.When the temperature increased to $7 0 0 ^ { \\circ } \\mathbf { C } ,$ ,theW-FDU- $4 . 0 \\% 6 \\mathrm { - } 7 0 0$ (cal.) sample showed poor catalytic activity due to the disappearance of $\\mathrm { W } ^ { 5 + }$ species and the collapse of well-ordered mesoporous structure at high calcination temperature，which was also confirmed by the TEM observation in Fig.1f. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thecatalytic performance of $4 . 0 ~ \\mathrm { w t \\% }$ W-contained catalysts (W-FDU-12- $4 . 0 \\%$ ， $\\mathrm { W O _ { 3 } / F D U } { - 1 2 { - 4 . 0 \\% } }$ and $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 } – 4 . 0 \\% \\big )$ was present in Fig.8.The 1-butene conversion and propene selectivity were decreased in the following sequence: doped W-FDU$1 2 >$ supported ${ \\bf W O _ { 3 } / F D U { - } 1 } 2 >$ supported $\\mathrm { W O } _ { 3 } / \\mathrm { S i O } _ { 2 }$ ,which was consistent with the catalytic performance of W-containing mesoporous KIT-6 for the metathesis of ethene and 1-butene to propene.29 This phenomenon could be explained that the doping method could maintain the well-ordered mesoporous structure and effectively disperse W species with a high concentration of $\\mathbf { W } ^ { 5 ^ { + } }$ species. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To investigate the carbon deposition of used catalysts,thermogravimetric analysis under air atmosphere was performed for the spent W-FDU $1 2 { - } 4 . 0 \\%$ ， $\\mathrm { W O _ { 3 } / F D U } { - 1 2 { - 4 . 0 \\% } }$ and $\\mathrm { W O } _ { 3 } /$ $\\mathrm { S i O } _ { 2 } – 4 . 0 \\%$ catalysts after $^ { 8 \\mathrm { ~ h ~ } }$ of reactions.Generally, the weight loss of used catalysts observed in TG study was due to removal of various types of carbon deposition.As shown in Fig. $^ { S 6 , \\dagger }$ the total weight loss for the spent W-FDU- $1 2 { - } 4 . 0 \\%$ ， ${ \\bf W O } _ { 3 } / { \\bf F D U } – 1 2 –$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f855260abd2bbe16a3fe83ffa06644186994115d98806a7ae6a957ef6ace637.jpg",
+        "img_caption": [
+            "ig.81-Buteeoesio(eftpanelndpropeeselectivityigtpanelodirent4.totaindatalystsReactioi ${ \\cal T } = 4 5 0 ^ { \\circ } { \\sf C } ;$ （204号 $P = 0 . 1 \\mathsf { M P a }$ $1 { - } \\mathsf { C } _ { 4 } \\mathsf { H } _ { 8 } / \\mathsf { C } _ { 2 } \\mathsf { H } _ { 4 } = 1 / 2$ :WHSV $( 1 \\mathrm { - } \\mathsf { C } _ { 4 } \\mathsf { H } _ { 8 } + \\mathsf { C } _ { 2 } \\mathsf { H } _ { 4 } )$ of $0 . 9 \\mathsf { h } ^ { - 1 }$ ； W-contained catalyst $= 1 . 0 \\ { \\mathfrak { g } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$4 . 0 \\%$ and $\\mathrm { W O _ { 3 } / S i O _ { 2 } / \\mathrm { 4 } } . 0 \\%$ samples were $2 . 7 \\%$ ， $4 . 4 \\%$ and $8 . 0 \\%$ respectively. It was clearly suggested that the FDU-12 based catalysts had the lower carbon formation compared to the $\\mathrm { S i O } _ { 2 }$ supported sample during catalytic reactions,and especially the doped W-FDU-12 had the lowest carbon deposition.The coke was caused by high molecular weight compound formed by side reactions.W-FDU-12 showed best metathesisactivityandless side-reaction was occurred.Therefore,less coke was formed. TGA results showed the advantage of one-pot synthesized mesoporous W-FDU-12. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This study first reported the using large-pore mesoporous silica FDU-12 to synthesize the doped W-FDU-12 catalysts (combined with MgO) for tandem catalytic conversion of 1-butene and ethene to propene through isomerization of 1-butene to 2-butene and consecutive cross metathesis of 2-butene and ethene,and compared with the supported $\\mathrm { W O _ { 3 } } / \\mathrm { F D U } { - 1 2 }$ and $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ catalysts. For doped W-FDU-12， tungsten was successfully incorporated into the framework of mesoporous silica.Cubic three-dimensional mesoporous structure with a high degree of long-range ordering was evident forall tungsten doped catalysts from SAXS，BET and TEManalysis.The XPS results illustrated that W species were incorporated into the FDU-12 framework with a high concentration $\\mathbf { W } ^ { 5 + }$ species for WFDU-12.The 1-butene conversion and propene selectivity of doped W-FDU-12 catalyst were much better than those of supported $\\mathbf { W O } _ { 3 } / \\mathbf { F D U } – 1 2$ and $\\mathbf { W O } _ { 3 } / \\mathbf { S i O } _ { 2 }$ catalysts.The doped W-FDU12 with $4 . 0 \\ \\mathrm { w t \\% }$ tungsten content exhibited a good catalytic performance with 1-butene conversion and propene selectivity of $7 8 . 8 \\%$ and $8 9 . 9 \\%$ ，respectively. The optimal calcination temperature and metathesis reaction temperature were $5 5 0 ~ ^ { \\circ } \\mathrm { C }$ and $4 5 0 ^ { \\circ } \\mathrm { C }$ ,respectively.These results suggested that W-FDU-12 materials had promising application as catalytic materials in tandem catalytic conversion of 1-butene and ethene to propene to product propene through metathesis,and could be extended to other olefin metathesis reactions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 X. Wang, M. Wen, C. Wang, J. Ding, Y. Sun, Y. Liu and Y. Lu, Chem. Commun.,2014, 50,6343-6345. 6 Y.Chauvin,Angew. Chem., Int. Ed.,2006,45,3741-3747. 7 E.Mazoyer,K. Szeto,N.Merle,S.Nordic,O.Boyron,J. Basset, M. Taoufik and C. Nicholas,J. Catal.,2013,301,1-7.   \n8 T. Hahn, E. Kondratenko and D. Linke, Chem. Commun., 2014,50, 9060-9063.   \n9 W.Limsangkass，S.Phatanasri，P.Praserthdam, J. Panpranot, W. Jareewatchara, S. Ayudhya and K. Suriye, Catal. Lett.,2013,143, 919-925.   \n10 D. Zhang, X.Li, S. Liu, S.Huang, X. Zhu, F. Chen, S. Xie and L. Xu,Appl. Catal., A, 2012, 439-440, 171-178.   \n11 C.Lin,K. Tao,H.Yu,D.Hua and S.Zhou, Catal. Sci. Technol., 2014,4, 4010-4019.   \n12 X.Solans-Monfort,E. Clot,C.Coperet and O.Eisenstein, J. Am. Chem. S0c.,2005,127,14015-14025.   \n13 N.Poovarawan,K. Suriye,S.Ayudhya, J. Punpranot,F.Aires and P.Praserthdam, Catal. Lett.,2014,144,920-927.   \n14 J. C. Mol,J. Mol. Catal. A: Chem.,2004,213,39-45.   \n15A.Spame Dube,D.Moodley，C.Van Schalkwyk and J. Botha,Appl. Catal.,A,2003,255,133-142.   \n16 Z. Cheng and C.Lo,ACS Catal.,2012,2, 341-349.   \n17 X.Yang,R.Gao,W. Dai and K. Fan,J. Phys. Chem. C,2008, 112, 3819-3826.   \n18 Y. Wang, Q. Chen, W. Yang, Z. Xie, W. Xu and D. Huang, Appl. Catal.,A, 2003,250,25-37.   \n19 S. Huang, F. Chen, S. Liu, Q. Zhu, X. Zhu, W. Xin, Z. Feng, C. Li, Q. Wang and L. Xu, J. Mol. Catal. A: Chem.,2007, 267,224-233.   \n20 A. Andreini and J. C. Mol, J. Chem. Soc., Faraday Trans.1, 1985, 81, 1705-1714.   \n21 D.Debecker，M.Stoyanova，U.Rodemerck，F.ColbeauJustin，C.Boissere，A.Chaumonnot,A. Bonduelle and C. Sanchez,Appl. Catal.,A, 2014, 470,458-466.   \n22 H. Liu,L. Zhang, X. Li, S. Huang, S. Liu, W. Xin, S. Xie and L. Xu,J. Nat. Gas Chem.,2009,18,331-336.   \n23 D.Hua, S.Chen,G.Yuan, Y.Wang and L. Zhang,Transition Met. Chem.,2011,36,245-248.   \n24 E. Mazoyer, K. Szeto, N. Merle,J. Thivolle-Cazat, O. Boyron, J.Basset，C.Nicholas and M. Taoufik,J.Mol. Catal. A: Chem.,2014,385,125-132.   \n25 D. Hua, S. Chen, G. Yuan, Y. Wang, Q. Zhao, X. Wang and B.Fu,Microporous Mesoporous Mater.,2011,143,320-325.   \n26 J.Hu, Y.Wang,L. Chen,R. Richards,W. Yang, Z. Liu and W. Xu, Microporous Mesoporous Mater., 2006,93,158-163.   \n27 T.Bhuiyan,P.Arudra,M. Akhtar,A.Aitani, R.Abudawoud, M. Al-Yami and S. Al-Khattaf,Appl. Catal.，A, 2013,467, 224-234.   \n28 A.Pamanathan,R.Maheswari, B.Grady,D.Moore,D.Barich and B.Subramaniam,Microporous Mesoporous Mater.,2013, 175, 43-49.   \n29 B. Hu, H. Liu,K. Tao, C. Xiong and S. Zhou,J. Phys. Chem. C, 2013,117,26385-26395.   \n30 W. Li and D.Y. Zhao, Chem. Commun., 2013,49,943-946.   \n31 J. Fan, C. Yu, F. Gao,J. Lei, B. Tian, L. Wang, Q. Luo, B. Tu, W. Zhou and D. Zhao,Angew. Chem.,Int.Ed.,2003,42,3146- 3150. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "K.Tao thanks the financial support from the National Natural Science Foundation of China (Grant no.51302278).S.Zhou thanks the Ministry of Science and Technology of China (Grant no.2012DFA40550) for financial supports. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 J.Pless,B.Bardin,H. Kim,D.Ko,M. Smith,R.Hammond, P.Stair and K.Poeppelmeier,J. Catal.,2004,223,419-431.   \n2L.Liu,Q.Deng,B.Agula,X. Zhao,T.Ren and Z.Yuan, Chem. Commun.,2011,47,8334-8336.   \n3O.Muraza,I. Bakare,T. Tago,K. Konno,T. Taniguchi,A. AlAmer,Z.Yamani,Y.Nakasaka and T.Masuda,Fuel,2014,   \n135,105-111.   \n4 G. Zhao,J. Teng,Z. Xie,W. Jin,W. Yang,Q. Chen and Y. Tang,J. Catal.,2008,248,29-37.   \n32J.Liu,G.Lan,J.Peng，Y.Li,C.Li and Q.Yang，Chem. Commun.,2013,49,9558-9560.   \n33L.Cao and M.Kruk,RSC Adv.,2014,4,331-339.   \n34S.Huang,S.Liu,W.Xin, J.Bai, S.Xie,Q.Wang and L.Xu, J.Mol. Catal. A: Chem.,2005,226,61-68.   \n35M.Kruk and C.Hui,J.Am. Chem. Soc.,2008,130,1528-1529.   \n36S.Doniach and M. Sunjic,J.Phys. C: Solid State Phys.,1970,3, 285-291.   \n37S.Jeon andK.Yong,J.Mater.Res.,2008,23,1320-1326.   \n38X.Yang,W.Dai,R.Gao and K.Fan,J. Catal.,2007,249,278- 288.   \n39 X.Yang,R.Gao,W.Dai and K.Fan,J.Phys. Chem. C,2008, 112,3819-3826.   \n40 D．Zhao，J.Feng，Q.Huo，N.Melosh，G．Fredrichson, B.Chmelka and G.Stucky,Science,1998,279,548-552.   \n41 J.Matos，M.Kruk，L.Mercuri，M.Jaroniec，L.Zhao, T.Kamiyama,O.Terasaki,T.Pinnavaia and Y.Liu,J.Am. Chem. S0c.,2003,125,821-829.   \n42 F．Kleitz，D.Liu，G．Anilkumar，I.Park，L．Solovyov, A．Shmakov and R.Ryoo，J. Phys. Chem.B，2003，107, 14296-14300.   \n43J.Fan,C.Yu,J.Lei,Q.Zhang,T.Li,B.Tu,W.Zhou and D. Zha0,J.Am.Chem. S0c.,2005,127,10794-10795.   \n44Z.Zhang,J. Suo,X. Zhang and S.Li,Appl. Catal.,A,1999,179, 11-19.   \n45 S.Chaemchuen,S.Phatanasri,F.Verpoort,N. Sea-ma and K.Suriye,Kinet.Catal.,2012,53,247-252. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

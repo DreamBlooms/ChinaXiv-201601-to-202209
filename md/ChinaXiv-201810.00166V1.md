@@ -1,0 +1,217 @@
+# 基于纹理特征与LSSVM的青土湖地物提取
+
+张华，王敏
+
+（西北师范大学地理与环境科学学院,甘肃兰州730070)
+
+摘要：纹理特征作为一种非光谱信息能够增强地物之间的特征差异，这对于高分辨率遥感影像的地物提取有着重要意义。以青土湖为研究区，以Worldview-2影像为数据源，通过引入权重因子定义联合概率函数来确定最佳窗口尺度，利用灰度共生矩阵提取最佳窗口尺度下的纹理特征，将其与原始遥感影像合成，采用最小二乘支持向量机(LSSVM)进行地物提取，将提取结果与仅利用光谱信息的支持向量机(SVM)提取结果、辅以纹理特征的SVM提取结果对比分析。结果表明：此方法可以更加快速准确地提取青土湖地物，精度高达 $8 5 . 8 6 \%$ ，优于仅利用光谱信息的SVM的$6 5 . 1 3 \%$ ,辅以纹理特征的SVM的 $7 3 . 4 5 \%$ ，可为地物破碎的干旱区高分辨率遥感影像地物提取提供有益借鉴。
+
+关键词：Worldview-2影像；纹理特征；权重；最小二乘支持向量机；青土湖中图分类号：TP79 文献标识码：A 文章编号：
+
+高分辨率遥感影像已被广泛应用于地物提取中,但提取精度一直是学者们致力研究的关键[1]高分辨率遥感影像含有丰富的光谱、纹理、空间等信息。已有学者利用基于像元的分类方法对其进行了地物提取，但对“同物异谱，同谱异物”等现象不能很好地辨识，且提取结果中存在大量的椒盐现象；也有学者结合纹理特征和面向对象分类方法对其进行地物提取,并取得了较好的提取精度[2-5],但其大多是应用于地形单一的地区。本研究试图通过引入权重因子重新定义联合概率密度函数来确定最佳窗口尺度，将最佳窗口下的纹理特征与最小二乘支持向量机（Least Square Support Vector Machine,LSSVM)方法相结合，以期获取干旱区青土湖破碎地物的分布。
+
+因青土湖地物分布破碎，在提取过程中涉及的参数较多且运算规模较大，虽然支持向量机（SupportVectorMachine,SVM）具有高维空间超平面分割和局部最优解的特征，但是，在运算过程中对参数的依懒性较大，容易导致泛化能力下降，且随着样本数量的增加，其支持向量的数量呈线性增加，从而影响提取效率[6-8]。LSSVM 是由 SUYKEN 等[9]提出的一种SVM的扩展，它是以损失二次函数为经验风险，用等式约束代替SVM中的不等式约束，将SVM的优化问题转化为求解线性方程组问题，从而很好地解决了其中存在的鲁棒性、稀疏性和大规模运算等问题[10],提高了运算的精度和效率,且已在作物监测、岩性识别等方面取得了较成功的应用[1-12] 。
+
+本文以青土湖为研究区，使用Worldview-2高分辨率遥感影像，利用灰度共生矩阵提取最佳窗口尺度下的纹理特征，将其与原始遥感影像合成，运用LSSVM对青土湖的地物进行提取，将提取结果与仅利用光谱信息的SVM提取结果、辅以纹理特征的SVM提取结果进行对比。以期提高地物分布破碎地区高分辨率遥感影像的提取精度和效率，为今后高分辨率遥感影像的广泛应用提供方法支持，同时准确获取青土湖的地物分布信息能够为其环境的本底调查提供依据，为生态恢复和环境治理提供参考。
+
+# 研究区概况与数据源
+
+# 1.1 研究区概况
+
+青土湖是石羊河的尾闾湖，位于民勤绿洲北部边缘，西北、东南分别是巴丹吉林沙漠和腾格里沙漠，行政区划上隶属于甘肃省武威市民勤县，其地理坐标为 $3 9 ^ { \circ } 0 4 ^ { \prime } \sim 3 9 ^ { \circ } 0 9 ^ { \prime } \mathrm { N } , 1 0 3 ^ { \circ } 3 6 ^ { \prime } \sim 1 0 3 ^ { \circ } 3 9 ^ { \prime } \mathrm { E }$ ,海拔$1 2 9 2 \sim 1 3 1 0 \mathrm { m }$ 。青土湖位于绿洲荒漠过渡带,年均气温 $7 . 8 ~ \mathrm { { ^ { \circ } C } }$ ， $> 1 0 \mathrm { ~ } \mathcal { \mathrm { ~ C ~ } }$ 的有效积温 $3 2 8 9 . 1 \mathrm { ~ \textdegree ~ { ~ } ~ { ~ d ~ } ~ }$ ；年均降水量 $8 9 . 8 \ \mathrm {  m m }$ ,其中7\~9月降水占全年的$7 3 \%$ ;潜在蒸发量高达 $2 ~ 6 4 0 ~ \mathrm { { m m } }$ ,大约是降水量的24倍；全年光照 $3 ~ 1 8 1 \mathrm { ~ h ~ }$ ;全年盛行西北风，属温带大陆性干旱荒漠气候。生态系统脆弱[13-14],区内人烟稀少,植被分布零散稀疏且类型单一，主要地物有植被、水体、道路、未利用地，根据野外调查，植被优势种为芦苇和白刺，植被类型单一（图1b）。
+
+# 1.2数据源与预处理
+
+数据采用2015年7月19日获取的Worldview-2 高分辨率遥感影像，包括1个全色波段和4个业内标准谱段(蓝、绿、红和近红外1波段），全色波段的分辨率为 $0 . 5 \mathrm { ~ m ~ }$ ，多光谱波段的分辨率为2.0$\mathrm { ~ m ~ }$ ,影像无云覆盖，质量较好。
+
+根据获取的Worldview-2影像产品级别，对其进行相应的几何纠正、影像融合。利用野外调查获取的地面控制点对因遥感平台的角度、传感器本身、地形起伏、地球表面曲率、大气折射以及地球自转等引起的遥感影像几何畸变进行校正[15]；根据World-view-2影像的特点，采用基于正交化的光谱锐化高保真影像融合方法（Gram-Schmidt，GS）对其进行融合，得到空间分辨率为 $0 . 5 \mathrm { ~ m ~ }$ 的多光谱数据。截取以青土湖为主体的7319像素 $\times 6 ~ 9 1 7$ 像素的影像作为实验区（图1）。
+
+![](images/4b2e4954ebeddd6ecb2c04bc71dde87f90f52a3f1e6e23ba35aaa807b2f5aefa.jpg)  
+图1研究区概况图  
+Fig.1Map of study area
+
+利用2016年7月26日 $\sim 8$ 月1日和2017年8月11$\sim 8$ 月16日在研究区野外调查中采集的240个典型地物类型的采样点以及在谷歌影像上随机选取的137个点，对提取结果进行验证,其中训练样本87个，验证样本290个（表1）。
+
+表1采样点分配情况  
+Tab.1The distribution of samples   
+
+<html><body><table><tr><td>地物类型</td><td>训练样本数／个</td><td>验证样本数／个</td></tr><tr><td>芦苇</td><td>31</td><td>68</td></tr><tr><td>白刺</td><td>29</td><td>58</td></tr><tr><td>水体</td><td>9</td><td>50</td></tr><tr><td>道路</td><td>6</td><td>58</td></tr><tr><td>未利用地</td><td>12</td><td>56</td></tr><tr><td>合计</td><td>87</td><td>290</td></tr></table></body></html>
+
+# 2研究方法
+
+# 2.1 灰度共生矩阵
+
+灰度共生矩阵[16]（Gray Level Concurrence Ma-trix)是近年来发展起来的分析纹理特性的有效方法，它反应了图像中任一两点灰度的相关性。灰度共生矩阵被定义为从灰度值为 $\mathbf { \chi } _ { i }$ 的像素点离开到每个位置关系 $\delta = ( \Delta x , \Delta y )$ 上点的灰度值为 $j$ 的距离,对于一幅 $M \times N$ 的二维图像,即 $k ( i , j ) = \{ \left( x , y \right) |$ （20$f ( i , j ) = i$ 且 $f ( x + \Delta x , y + \Delta y ) = j \}$ 集合的像素个数，其中 $x , y$ 为图像中像素坐标， $x = 1 , 2 , \cdots , M , y = 1 , 2$ （204号 $\cdots , N \ ; f ( \ i , j )$ 为该点灰度值， $i , j = 1 , 2 , 3 , \cdots , N _ { g } ; N _ { g }$ 是灰度级数目， $\Delta x$ 和 $\Delta \mathrm { y }$ 是偏移量。
+
+# 2.2 纹理特征的选取
+
+HARALICK等人用灰度共生矩阵提取出了14种纹理特征值[16-18],但在实际操作中,全部提取这些特征值的计算量很大，运行时间过长，难以实现，为了使影像提取更加精确且运行时间较短，本文采用角二阶矩、信息熵、对比度和相关性4种纹理特征，其分别代表着纹理的均匀性与粗细度、复杂度、清晰度与深浅度以及线性关系[19（表2），将这4种特征值的平均值作为最终的特征值来代表大部分纹理特征。
+
+$$
+P ( i , j ) = \frac { k ( i , j ) } { \underset { m = 0 } { \sum _ { m = 0 } ^ { N _ { g } } } \underset { n = 0 } { \overset { N ( i , j ) } { \sum _ { g } } } k ( m , n ) } \quad i , j = 0 , 1 , 2 , \cdots , N _ { g }
+$$
+
+式中： $P ( i , j )$ 为归一化共生矩阵中灰度级对为 $( i , j )$ 的联合概率。
+
+# 2.3滑动窗口的选择
+
+提取纹理特征时，窗口尺度的变化，反映着影像中各地物的轮廓及细微的变化。提取 $3 \times 3 、 7 \times 7$ 、$1 1 \times 1 1 . 1 5 \times 1 5 . 1 9 \times 1 9$ 窗口下的纹理特征，将其分别与原始影像合成。当窗口尺度较大时，地物的轮廓清晰但不能显现影像中比较细小的变化，并且各地物的边界会出现明显的马赛克现象；当窗口尺度较小时，能够清晰地反映地物的轮廓和某些细微的变化，但影像整体过于破碎，斑点较多，不利于之后的影像地物提取。为了使最终的提取结果既能避免大窗口时的马赛克现象，也能避免小窗口时斑点较多的问题，本研究在获取图像的特征值之前，结合大小窗口的优点，将其分别赋予不同的权重，即有：
+
+$$
+P ( i , j ) = m p _ { \scriptscriptstyle A } ( i , j ) + n p _ { \scriptscriptstyle B } ( i , j )
+$$
+
+式中： $p _ { A } ( i , j )$ 为小窗口下灰度共生矩阵计算得到的联合概率 ${ \ ; p _ { B } ( i , j ) }$ 为大窗口下灰度共生矩阵计算得到的联合概率； $^ { m , n }$ 分别为对应的权重，且有 $m + n = 1$ ○
+
+# 2.4权重的选择
+
+为了更加清晰地观察关系系数 $m$ 与 $n$ 对实验提取结果的影响，截取实验区大小为 $4 0 0 \times 4 0 0$ 像素的影像，将不同权重因子下得到的纹理特征与原始影像合成，用LSSVM进行权重因子的试验（图2）。可以看出，当 $m = 0 . \ 1 , n = 0 . \ 9$ 时,地物轮廓大体清晰，但边界出现了马赛克现象且部分细节信息丢失，随着 $\mid m \mid$ 的增大，各地物的边界和影像中的细节部分越来越明显，但影像整体也越来越破碎。综合考虑，本文选取 $m = 0 . 5 , n = 0 . 5$ 作为选取最佳窗口的权重因子。
+
+# 2.5最小二乘支持向量机(LSSVM)
+
+SVM 的基本原理是：设训练样本集 $D = \{ { \bf \Phi } ( x _ { 1 } \$ $y _ { 1 }$ ${ \mathrm {  ~ \sigma ~ } } _ { 1 } ) , ( x _ { 2 } , y _ { 2 } ) , \cdots , ( x _ { n } , y _ { n } ) \} , n$ 为样本个数,样本向量 $x _ { i } \in X = R ^ { d }$ ,类别标志 $y _ { i } \in Y = \left\{ \ + 1 , - 1 \right\}$ 。
+
+选择一个最优超平面将两类别分开，即
+
+$$
+w \cdot \varphi ( x ) + b = 0
+$$
+
+式中： $w$ 为超平面的法向量； $\varphi ( x )$ 将 $\boldsymbol { x } _ { i }$ 从之前 $d$ 维特征空间 $X$ 映射到高维特征空间； $b \in R$ 为偏移量。
+
+要求分类间隔最大且分类面对所有样本均能正确分类[21],则找出最优分类超平面的过程可以转化为一个最优化问题,即
+
+$$
+\operatorname* { m i n } { \frac { \parallel w \parallel ^ { 2 } } { 2 } } + c \sum _ { i = 1 } ^ { n } \zeta _ { i }
+$$
+
+$$
+s . \ t : \ y _ { i } \big [ \big ( \boldsymbol { w } \ \cdot \ \varphi ( \boldsymbol { x } ) + b \big ) \big ] \ - 1 \geqslant 1 - \zeta _ { i }
+$$
+
+式中： $\zeta _ { i }$ 为松弛变量， $\zeta _ { i } \geqslant 0 ( i = 1 , 2 , \cdots , k )$ ； $\boldsymbol { c }$ 为惩罚系数。
+
+LSSVM[21]是在 SVM的基础上引入最小二乘线性系统，用二次损失函数代替SVM中的不敏感损失函数，解除了松弛变量 $\zeta _ { \mathrm { i } } \geqslant 0$ 的限制，将不等式约束转换为等式约束，加快了运算速度，优化问题可表
+
+Tab.2The expressions and statistical characteristics of four textural features
+
+表2四种纹理特征的表达式及统计特征  
+
+<html><body><table><tr><td>纹理特征</td><td>表达式</td><td>统计特征</td></tr><tr><td>角二阶距</td><td>NN Angular secondmoment=∑∑(P(i,j))²</td><td>灰度共生矩阵元素值的平方和，度量影像灰度分布的均匀性和纹理粗细度的 参数</td></tr><tr><td>信息熵</td><td>NgNg M∑P(i,j)log(P(i,j)) Entropy=</td><td>影像所具有的信息量的一个随机性度量，反映了影像的复杂程度</td></tr><tr><td>对比度</td><td>(i-j）2P(i,j) Contrast=</td><td>某个像素值和其邻域像素值的亮度的对比情况，影像的清晰度和纹理沟纹深 浅的一个度量</td></tr><tr><td>相关性</td><td>Correlation=[∑∑（ijP(i,j)）-μxμy]/σxσy</td><td>影像纹理一致性的度量，反映了灰度共生矩阵在行或列方向上的相似程度</td></tr></table></body></html>
+
+![](images/34b05912bb9c186ca0636b4cd30cf844d8c761a4aa5ac4a0dadb66bddc7e0d9e.jpg)  
+图2关系系数对提取精度的影响  
+Fig.2Influence of relation coefficient on extraction accuracy
+
+示为：
+
+$$
+\operatorname* { m i n } \frac { w ^ { 2 } } { 2 } + \frac { 1 } { 2 } c \sum _ { i = 1 } ^ { n } \zeta ^ { 2 }
+$$
+
+$$
+\begin{array} { r } { s . t { } : \ y _ { i } = w \ \cdot \ \varphi ( x ) + b + \zeta _ { i } } \end{array}
+$$
+
+应用Lagrange函数求解上述最优化问题：
+
+$$
+{ \cal L } ( w , b , \zeta , a , c ) = \frac { w ^ { 2 } } { 2 } + c \sum _ { i = 1 } ^ { n } \zeta _ { i } ^ { 2 } - \sum _ { i = 1 } ^ { n } a _ { i } ( \vphantom { \frac { 1 } { } } w \cdot \varphi ( x ) +  +  \vphantom { \sum _ { i = 1 } ^ { n } \sum _ { i = 1 } ^ { n } a _ { i } }  
+$$
+
+$$
+b + \zeta _ { i } - y _ { i } )
+$$
+
+式中： $a _ { i }$ 是拉格朗日乘子,核函数 $K ( x _ { i } , y _ { i } ) = \varphi ( x _ { i } )$ $\left( { { y } _ { i } } \right)$ ，常用的核函数有以下四种：（1）线性函数 $K$ ${ \bf \Psi } \left( x _ { i } , x \right) = x _ { i } ^ { t } x$ ；（2）多项式函数 $K ( x _ { i } , x ) = ( \gamma x _ { i } ^ { t } x +$ $r ) { \bf \Sigma } ^ { d } , \gamma > 0 ;$ （3）径向基函数 $K ( x _ { i } , x ) = \exp ( { \mathbf { \mu } } - { \gamma } x _ { i } - { \gamma } x _ { i } )$ $x ^ { 2 }$ ） $\gamma > 0$ ;(4) $s$ 形函数 $K ( x _ { i } , x ) = \operatorname { t a n h } ( \gamma x _ { i } ^ { t } x + r ) ^ { d }$ 其中应用最广的是径向基核函数[22-24],其在非线性拟合方面有很好的效果，因此本文采用径向基函数作为LSSVM的核函数。
+
+最小二乘支持向量机的判别函数为：
+
+$$
+f ( x ) = \sum _ { i = 1 } ^ { n } a _ { i } K ( x _ { i } , y _ { i } ) + b
+$$
+
+# 3 结果与分析
+
+# 3.1 辅以纹理特征的LSSVM提取结果和精度 评价
+
+本研究结合野外调查数据，将最佳窗口尺度下获取的纹理特征与原始影像合成，用LSSVM进行地物类型的提取。芦苇主要呈片状分布在水体内部及周围，白刺附在沙堆周围呈斑块状分布，整体面积较大，水体形状较规整，分布范围小,道路主要从中间横穿整个青土湖，未利用地零碎分布于整个青土湖（图3c)。采用混淆矩阵对青土湖的地物提取精度进行检验(表4），总精度为 $8 5 . 8 6 \%$ ,Kappa系数为0.8225。其中，制图精度最高的水体，其次是道路、芦苇、白刺、最低的是未利用地，用户精度由高到低依次是芦苇、白刺、未利用地、水体、道路。
+
+Tab.3Accuracy of extraction based on textural   
+表4辅以纹理特征的LSSVM提取精度  
+
+<html><body><table><tr><td colspan="7">featureandSVM</td></tr><tr><td>地物 类型</td><td>芦苇</td><td>白刺</td><td>水体</td><td>道路</td><td>未利 用地</td><td>用户精 度/%</td></tr><tr><td>芦苇</td><td>51</td><td>12</td><td>5</td><td>0</td><td>0</td><td>75.00</td></tr><tr><td>白刺</td><td>6</td><td>38</td><td>0</td><td>1</td><td>13</td><td>65.52</td></tr><tr><td>水体</td><td>11</td><td>0</td><td>36</td><td>0</td><td>3</td><td>72.00</td></tr><tr><td>道路</td><td>2</td><td>4</td><td>0</td><td>45</td><td>7</td><td>77.59</td></tr><tr><td>未利用地</td><td>0</td><td>10</td><td>0</td><td>3</td><td>43</td><td>76.79</td></tr><tr><td>制图精度／%</td><td>72.86</td><td>59.38</td><td>87.80</td><td>91.84</td><td>65.15</td><td></td></tr><tr><td>总体精度／%</td><td colspan="6">73.45</td></tr><tr><td>Kappa系数</td><td colspan="6">0.674 1</td></tr></table></body></html>
+
+表3辅以纹理特征的SVM提取精度  
+Tab.4Accuracy of extraction based on textural feature andLSSVM   
+
+<html><body><table><tr><td colspan="7">andLSSVM</td></tr><tr><td>地物 类型</td><td>芦苇</td><td>白刺</td><td>水体</td><td>道路</td><td>未利 用地</td><td>用户精 度/%</td></tr><tr><td>芦苇</td><td>61</td><td>7</td><td>0</td><td>0</td><td>0</td><td>89.71</td></tr><tr><td>白刺</td><td>4</td><td>51</td><td>0</td><td>0</td><td>3</td><td>87.93</td></tr><tr><td>水体</td><td>8</td><td>0</td><td>42</td><td>0</td><td>0</td><td>84.00</td></tr><tr><td>道路</td><td>0</td><td>2</td><td>0</td><td>47</td><td>9</td><td>81.03</td></tr><tr><td>未利用地</td><td>0</td><td>3</td><td>0</td><td>5</td><td>48</td><td>85.71</td></tr><tr><td>制图精度／%</td><td>83.56</td><td>80.95</td><td>100.00</td><td>90.38</td><td>80.00</td><td></td></tr><tr><td>总体精度／%</td><td></td><td></td><td>85.86 0.822 5</td><td></td><td></td><td></td></tr><tr><td>Kappa系数</td><td colspan="4"></td><td colspan="2"></td></tr></table></body></html>
+
+# 3.2与其他方法的提取结果对比
+
+为了验证本文方法在十旱区青土湖地物提取中的有效性，对青土湖地物分别用仅利用光谱信息的SVM提取方法、辅以纹理特征的SVM提取方法进行提取，对比三者的提取结果、精度及单次运行时间（图3-4、表5）。
+
+仅利用光谱信息的SVM提取结果中，除水体和道路外，其他地物整体较破碎，芦苇与白刺混分较多，在远离水体的地方，大量未利用地误分为白刺，水体旁的少量芦苇被误分为未利用地（图3a)；辅以纹理特征的SVM提取结果中，芦苇与白刺的混分现象减少，未利用地与白刺相对区分较好（图3b)；而在辅以纹理特征的LSSVM提取结果中，能够准确地将未利用地提取出来，也能较好地识别水体旁未连片的芦苇(图3c）。对比三种方法的提取精度，仅利用光谱信息的SVM提取精度最低，总体精度为$6 5 . 1 3 \%$ ，kappa系数为0.5829；辅以纹理特征的SVM方法后提高了地物的提取精度，但部分地物的提取精度还是不太理想;本文方法提取总体精度为$8 5 . 8 6 \%$ ,kappa系数为0.8225，总体精度较辅以纹理特征的SVM提取精度提高了 $1 2 . 4 1 \%$ ,kappa系数提高了0.148 4。
+
+充分利用了高分辨率遥感影像丰富的纹理信息后，辅以纹理特征的SVM提取精度明显得到了提高，但单次运行时间明显增长了，本文引入权重因子对最佳窗口的选取做了改进，简化了窗口尺度的选
+
+![](images/53eda9ac7d5485fcd66cf6281a213ec033d1b1d3eaa3be238f4b0f87025711cc.jpg)  
+图3三种方法提取结果比较  
+Fig.3Comparison of the extraction results   
+图4三种提取方法获取的研究区地物面积Fig.4Extraction results in the study area obtained bythree extraction methods
+
+# 表5三种方法提取精度比较
+
+Tab.5Comparison of precision among three extraction methods   
+
+<html><body><table><tr><td>提取方法</td><td>总精度 /%</td><td>kappa 系数</td><td>单次运行 时间／m</td></tr><tr><td>仅利用光谱信息的SVM提取</td><td>65.13</td><td>0.5829</td><td>4.064 9</td></tr><tr><td>辅以纹理特征的SVM提取</td><td>73.45</td><td>0.6741</td><td>4.9238</td></tr><tr><td>辅以纹理特征的LSSVM提取</td><td>85.86</td><td>0.822 5</td><td>3.1074</td></tr></table></body></html>
+
+辅以纹理特征的LSSVM提取结果辅以纹理特征的SVM提取结果1200 □仅利用光谱信息的SVM提取结果/ 1 000 6004002000芦苇 白刺 水体 道路 未利用地地物类型
+
+取过程，并且使用LSSVM进行地物类型的提取，提高了地物识别的准确率和方法的运行效率。
+
+# 4结论
+
+本文首次尝试使用Worldview-2高分辨率遥感影像，结合纹理特征和LSSVM方法进行干旱区尾闾湖的地物提取。通过引入权重因子定义窗口的联合概率函数来确定最佳窗口尺度，利用灰度共生矩阵提取最佳窗口尺度下的纹理特征，将其与原始遥感影像合成，用LSSVM对干旱区青土湖的地物进行提取，并与仅利用光谱信息的SVM提取方法、辅以纹理特征的SVM提取方法进行对比。最终得出以下结论：
+
+（1）相比于其他两种提取结果，本文方法提取结果中除道路外，其他地物的制图精度和用户精度均有所提高，其中，水体的制图精度达到了 $100 \%$ ，主要是由于水体的后向散射特征较为明显，可以有效地确定其边界，且纹理特征和LSSVM的引入能快速有效地提取水体；与仅利用光谱信息的SVM提取结果相比，在辅以纹理特征的SVM和辅以纹理特征的LSSVM的提取结果中，道路的制图精度反而降低了，这是因为纹理特征的加入导致公路上的车辆等物体特征清晰，这些都将给道路的提取带来干扰；在三种方法的提取结果中，未利用地的制图精度都最低，主要因土路和未利用地的覆盖物相似，给未利用地的提取带来了干扰。
+
+(2）在青土湖地区，地物类型单一且分布破碎，区内部分地物光谱信息相近，仅利用光谱信息进行地物提取时，各地物容易发生误分，但这些地物在纹理特征上存在明显差异，所以，辅以纹理特征可以有效地提高地物的提取精度。提取纹理特征的关键是选择最佳的纹理窗口，陈文倩等得出 $5 \times 5$ 窗口为最佳纹理窗口[25],本研究综合考虑了窗口尺度在地物提取中的优缺点，通过引入权重因子重新定义窗口的联合概率函数来得出最佳纹理窗口，有效地减少了窗口过大或过小对地物提取精度的影响，缩短了运算时间，所以，纹理窗口的选择应结合影像类型和地物的实际情况来确定。
+
+（3）与辅以纹理特征的SVM提取精度相比，本文方法对地物的提取精度更高，更接近于实际地物。LSSVM能够有效地避免了SVM在运算过程中出现过学习、泛化能力下降等问题,更适合于干旱区青土湖破碎地物的提取，但利用LSSVM提取地物时，正规化参数和核函数参数都是根据经验选取一个固定的值，但是，对于不同的样本集，最优的参数集是变化的，因此，如何简便高效地优化正规化参数和核函数参数，以进一步提高地物的提取精度还有待深入研究。
+
+# 参考文献(References)
+
+[1］胡玉福，邓良基，匡先辉,等.基于纹理特征的高分辨率遥感图 像土地利用分类研究[J].地理与地理信息科学,2011,27（5)： 42-45.[HU Yufu,DENG Liangji,KUANG Xianhui,et al. Study on land use classification of high resolution remote sensing image based on texture feature[J].Geography and Geo-Information Science,2011,27(5) :42-45.]   
+[2] HACKCLFORD A K,DAWS C H.A combined fuzzy pixel-based and object-based approach for classification of high-resolution multispectral data over urban[J].IEEE Transactions Geo-Science and Remote Sensing,2003,41(10）:2354-2363.   
+[3] GLADA S,DE GROEVET,EHDICHD,et al.Information extraction from very high-resolution satellite imagery over Lukole refugee camp,Tanzania［J]. International Journal of Remote Sensing, 2003,24(22）:4251-4260.   
+[4］黄惠萍.面向对象影像分析中的尺度问题的研究[D].北京; 中国科学院遥感应用研究所,2003.［HUANG Huiping.Scale issues in object-oriented image analysis[D].Beijing:Institute of Remote Sensing Applications Chinese Academy of Sciences,2003.]   
+[5]GAMANYA R,DE MAEYER,PHILIPPE,et al. Precision change detection:Based on knowledge-based and object-oriented satellite image analysis in central Zimbabwe[C].ASPR Annual Conference,2006:97.   
+[6］刘伟,赵庆展,汪传建,等.基于最小二乘支持向量机的无人机 遥感影像分类[J].江苏农业科学,2017,45（9）：187－191. [LIU Wei,ZNAO Qingzhan,WANG Chuanjian,et al.Remote sensing image classification of UAV based on least squares support vector machines[J]. Jiangsu Agricultural Sciences,2017,45（9）： 187 -191. ]   
+[7］DIHKAN Mustafa,GUNEROGLU Nilgun,KARSLI Fevzi,et al. Remote sensing of tea plantations using an SVM classifier and paternbased accuracy assessment technique[J]. International Journal of Remote Sensing,2013,34(23）:8549 -8565.   
+[8]GALAL Omer,ONISIMO Mutanga,ABDEL-RAHMAN Elfatih M, et al.Performance of support vector machines and artificial neural network for mapping endangered tree species using Worldview $^ { - 2 }$ data in Dukuduku forest,south Africa[J].IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing,2015, 8(10):4825-4840.   
+[9]SUYKEN S JA K,VANDEWALLE J. Least squares support vector machine classifiers [J]. Neural Processing Letter,1999,9:293- 300.   
+[10］牟丹,王祝文,黄玉龙,等.基于最小二乘支持向量机测井识别 火山岩类型：以辽河盆地中基性火山岩为例[J].吉林大学学 报：地球科学版,2015,45（4）:639-648.[MOU Dan,WANG Zhuwen,HUANG Yulong,et al. Appliacation of least squaressupport vector machine to lithology identification;Taking intermediate/ basaltic rocks of Liaohe as an example[J].Journal of Jinlin University:Earth Science Edition,2015,45(4）:639 -648.]   
+[11］胡根生,吴问天,黄文江,等.粒子群优化的最小二乘支持向量 机在小麦白粉病监测中的应用[J].遥感技术与应用,2017,32 (2）:299- 304.[HU Gensheng,WU Wentian,HUANG Wenjiang,et al. Aplication of PSO-LSSVM in wheat powdery mildew monitoring[J].Remote Sensing Technology and Application, 2017,32(2) :299 -304.]   
+[12］杨佳佳,姜琦刚,陈永良,等.基于最小二乘支持向量机和高分 辨率遥感影像的大尺度区域岩性划分[J].中国石油大学学报 （自然科学版）,2012,36(1）:60-67.[YANG Jiajia,JIANG Qigang,CHEN Yongliang,et al.Lithology division for large-scale region segmentation based on LS-SVM and high resolution remote sensing[J]. Journal of China University of Petroleum,2012,36 (1) :60 -67.]   
+[13］魏轩,周立华,马永欢,等.民勤绿洲 50 余年水利建设的生态 经济影响[J].干旱区地理,2015,38（5）：1014-1021.［WEI Xuan,ZHOU Lihua,MA Yonghuan,et al.Ecological and economic impacts of water conservancy construction in Minqin Oasis of more than 50 years[J].Arid Land Geography,2015,38（5）:1014- 1021.]   
+[14］郭树江,杨自辉,王多泽,等.石羊河流域下游青土湖近地层风 尘分布特征[J].干旱区地理，2016，39(6)：1255-1262.［GUO Shujiang,YANG Zihui,WANGDuoze,et al.Dust distribution characteristics of Qingtu Lake surface layer at downstream Shiyang River［J].Arid Land Geography,2016,39(6）:1255-1262.]   
+[15］赵莹，王环,方圆.基于Worldview-2的遥感影像预处理[J]. 测绘与空间地理信息,2014,37（6）:165－170.[ZHAO Ying, WANG Huan FANG Yuan.Remote sensing image preprocessing based on Worldview-2［J].Geomatics & Spatial Information Technology,2014,37(6):165-170.]   
+[16］HARALICKRM,SHANMUGAMK,DINSTEINIH.Textural features for image classification[J].IEEE Transactions on Systems, Man and Cybernetics,1973,3(6):610-621.   
+[17]ZHANGQ,WANGJ,GONG P,et al. Study of urban spatial patterns from SPOT panchromatic imagery using textural analysis [J].International Journal of Remote Sensing,2003,24(21）:4137 -4160.   
+[18]LU C S,CHUN PC,CHEN C F. Unsupervised texture segmentation via wavelet transform[J].Pattern Recognition,1997,30（5）： 729 -742.   
+[19］INGLADA J.Automatic recognition of man-made objects in high resolution optical remote sensing images by SVM classification of geometric image features[J].ISPRS Journal of Photogrammetric and Remote Sensing,2007,62(3):236-248.   
+[20]SUYKANSJAK,DEBRABANTERJ,LUKASL,etal.Weighted least squares support vector machines: Robustness and sparse approximatiom[J].Neuro-computing,2002,48:85-105.   
+[21]VAPNIK V.The natural of statistical learning theory[M].New York：Springer-Verlag,1995.   
+[22]MELGANIF,BRUZZONE L.Classification of hyperspectral remote sensing images with support vector machine[J].IEEE Trans Geosci Remote Sens,2004,42(21):1778-1790.   
+[23]FOODYG M,MATHUR A.A relative evalution of multiclass image classification by support vector machines[J].IEEE Trans Geosci Remote Sens,2004,6(42):1335-1343.   
+[24]PAL M,MATHERP M.Support vector machines for classification in remote sensing[J].Int J Remote Sens,2005,3（26）:1007- 1011.   
+[25］陈文倩，丁建丽，王娇，等.基于高分一号的土地覆被分类方法 初探[J].干旱区地理,2016,39（1）：182-189.［CHENWenqian,DING Jianli,WANG Jiao,et al.Classification method of land cover based on GF-1 image[J].Arid Land Geography,2016,39 (1):182-189.]
+
+# Feature extraction of Qingtu Lake based on texture feature and Least Squares Support Vector Machine
+
+ZHANG Hua， WANG Min（College of Geographyand Environment Science,Northwest Normal University,Lanzhou73Ooo7o,Gansu,China)
+
+Abstract：In this paper,the study area Qingtu Lakeis locatedat Minqin County,Gansu Province,China.Based on Worldviw -2 remote sensing imagesand the field measured data,using texture features and LSSVM method,the object information of Qingtu Lake in arid area were extracted.The texture featuresasa non spectral information can enhance the diference between the object features,which has important meaning forobject extraction from high resolutionremote sensing image,butthe key to texture feature extraction is to choose the optimal window scale,which directly influences the accuracyof subsequent extraction.Therefore this paper introduced a weighting factor to define joint probability function to determine theoptimal window scale,adopted gray level co-occurrence matrix to extract texture features at the optimal window scale,and thensynthesized with the original remote sensing image.Because LSSVM is a good solution to the robustness,sparsityand large-scale computing problems of SVM,the paper adopted the LSSVMmethod to extractthe object information ofthe Qingtu Lake,and compared theresults with that of he featureextractiononly using the spectral informationof SVMand the extraction of SVMcombined with texture feature.The results of comparison show that this method of LSSVMcan more quickly and accurately extract the object information of the Qingtu Lake,the total precision was $8 5 . 8 6 \%$ ,Kappa was 0.822 5,better than SVM only using the spectral information with the total precision $6 5 . 1 3 \%$ ,and SVM combined with texture features with $7 3 . 4 5 \%$ . In general,the LSSVMcould be more useful to extract information ofthefragmented objects inarid area from high resolution remote sensing image.
+
+Key words: Worldview -2 image; texture feature;weight; LSSVM;Qingtu Lake

@@ -1,0 +1,181 @@
+# 基于WorldView-2高分影像的胡杨林结构参数获取研究
+
+杨雪峰1²，叶　茂1²，木尼热·买买提1.2（1.新疆师范大学地理科学与旅游学院,新疆 乌鲁木齐830054;2.新疆干旱区湖泊环境与资源实验室，新疆 乌鲁木齐830054)
+
+摘要：森林结构特征是评价森林生态系统的重要指标,如何使用遥感技术获取大尺度森林结构具有重要的科学研究意义。塔里木河下游作为我国干旱区生态保护的重点区域，该区域的胡杨林作为生态恢复的主要对象,研究其森林结构参数具有重要的现实意义。通过采用高分辨率WorldView-2遥感影像,结合无人机遥感技术,利用光谱混合理论与基于对象影像处理技术,获取位于塔里木河下游研究区的胡杨株数、冠幅、植被覆盖度和胡杨高度信息。通过与无人机观测数据在 $1 \mathrm { { h m } } ^ { 2 }$ 尺度上进行比较,使用高分影像获取的胡杨冠幅、树高、植被覆盖度和密度的$R ^ { 2 }$ 分别为 $0 . 6 9 , 0 . 6 3 , 0 . 8 9$ 和0.86,证明高分影像与无人机技术结合可以在区域尺度上获取较为准确的森林结构信息。最终对塔里木河下游研究区胡杨林结构信息估测得出：总株数约 $1 . 0 5 \times 1 0 ^ { 5 }$ 株，每公顷平均树高 $7 . 3 8 \mathrm { ~ m ~ }$ ，平均冠幅为 $5 . 8 6 \mathrm { m }$ ，平均密度26株，平均覆盖度为 $7 . 8 \%$ ○
+
+关键词：森林结构参数；胡杨；高分辨率遥感；光谱混合分析；面向对象影像分析
+
+森林生态系统作为陆地生态系统中的主要类型，在区域生态环境中发挥重要作用。森林结构特征是评价森林生态功能的重要指标，能够直观的反应森林的生长状况，同时也是林学、生物学和地学研究中常用的参数，是众多陆地生态模型的重要输入参数[1-2]。森林结构特征通常可以使用植被覆盖度（FractionalVegetationCover，FVC）、分布密度（Density）、树高(Height）、冠幅(CrownDiameter）、胸径（Breast-HeightDiameter,BHD）、和叶面积指数(LeafAreaIndex，LAI)等3参数来表示。研究获取大尺度森林结构参数的方法具有重要的科学研究价值。
+
+相比传统的地面调查方法，遥感技术能更高效的获取大尺度森林结构参数，特别是随着遥感技术发展，激光雷达（LightDetection and Ranging,Li-DAR）[4-5]、极化干涉雷达(Polarimetric Synthetic Ap-ertureRadarInterferometry,PolInSAR）、极化相干层析（Polarization Coherence Tomography,PCT)技术[6-8]等可获得森林三维结构信息，但同时也存在一定缺陷，如星载LiDAR地面采样密度较小、机载LiDAR采样范围有限，PolInSAR存在时间失相干、处理分析复杂等问题。与这些技术相比，光学遥感不仅具有良好的空间连续测量特性，高空间分辨率(VeryHigh-Resolution,VHR)光学卫星遥感又同时具有地面分辨率高的优点，但目前VHR遥感研究主要集中在植被分类、利用光谱反射率和植被指数反演植被覆盖度等方面，大尺度森林结构的研究应用还比较缺乏。
+
+塔里木河作为我国最长的内陆河，其两岸生长的胡杨林是世界上面积最大的荒漠森林。塔里木河下游位于塔克拉玛干沙漠的北缘，在抑制荒漠化过程和稳定荒漠河岸带生态平衡等方面有着重要的生态意义。由于自然和历史的原因，下游河道断流、湖泊干涸，大片天然胡杨林死亡，生态环境日趋恶化。从2000年开始，国家水利部与自治区人民政府实施塔里木河下游生态输水工程[10-I1]。输水工程开展后，已有较多的研究对塔里木河下游生态状况进行评价。基于遥感技术的相关研究主要采用
+
+LandsatTM/ETM、ASTER和MODIS数据，使用修正的三波段最大梯度差模型、像元二分法模型反演和监测包括胡杨林在内的塔里木河下游植被覆盖度变化，进而通过植被覆盖度指标，评价塔里木河下游植被的生长和恢复情况[12-15]。对塔里木河下游输水区植被恢复地面调查结果的统计分析表明，胡杨个体年轮生长量，建群种的生物量、密度及平均冠幅，更新树种的树高、冠幅和群落覆盖度是植被恢复的标志性指标[16]
+
+采用遥感技术获取大尺度森林结构参数是森林遥感研究领域的热点之一，相比较LiDAR和Pol-InSAR，VHR遥感技术在该领域的研究相对比较缺乏，特别是在区域尺度的森林结构获取方面缺少系统的理论和技术实践。在塔里木河下游的生态研究中，遥感技术更利于从宏观角度掌握胡杨林生态的整体状况。目前，以往研究获取的森林结构参数单一，且局限于样地、样方等小尺度范围，不能全面反映塔河下游的胡杨生长现状。本文基于World-View-2VHR光学卫星遥感数据，使用相关遥感理论和技术对塔里木河下游胡杨林的重要结构参数（树高、冠幅、分布密度和植被覆盖度)进行反演。该研究对于扩展VHR遥感的实际应用领域，增加对塔河下游胡杨生态的总体了解具有重要的科学意义。
+
+# 1研究区概况与方法
+
+# 1.1研究区概况
+
+塔里木河下游指位于大西海子水库至台特玛湖之间的河段，该河段西侧为塔克拉玛干沙漠，东侧为库鲁克沙漠。塔里木河在此处分为东西两个支流，西为老塔里木河，东为其文阔尔河。该区域属于大陆型暖温带极端干旱气候，潜在蒸发量约为降水量的79倍，风沙危害严重。塔里木河下游河道两岸生长着以胡杨和怪柳群落为主的河岸林生态系统，靠近河道的区域以胡杨群落为主，离河道稍远区域一般是更耐旱的怪柳群落，在地下水位较高的低洼地区有生长较好的草本植被，全区域整体植被覆盖度较低，土壤类型主要为盐碱化的沙土。研究区选取位于若羌县英苏附近的一处河段，地理位置为 $8 7 ^ { \circ } 5 9 ^ { \prime } 3 6 ^ { \prime \prime } { \sim } 8 8 ^ { \circ } 1 1 ^ { \prime } 4 8 ^ { \prime \prime } \mathrm { E } , 4 0 ^ { \circ } 2 2 ^ { \prime } 5 1 ^ { \prime \prime } { \sim } 4 0 ^ { \circ } 2 7 ^ { \prime } 3 2 ^ { \prime \prime } \mathrm { N }$ 面积约 $1 0 0 \mathrm { k m } ^ { 2 }$ ，如图1所示。
+
+# 1.2研究数据
+
+本研究主要使用了高分辨率卫星影像获取研究区的胡杨结构参数，使用无人机影像获取高度定标数据以及提供精度验证。
+
+![](images/faff670e3d86eb44a00bad27c3b529db5d3f2c04805463fff3de15cb47d351c0.jpg)  
+图1研究区示意图  
+Fig.1 Schematic diagram of study area
+
+1.2.1实地测量数据在航测区内，随机抽样测量35株胡杨树高和冠幅，用于对无人机数据进行精度评价。
+
+1.2.2高分辨率卫星影像选取2018年7月17日的WorldView-2高分辨率遥感影像，包含1个 $0 . 5 \mathrm { ~ m ~ }$ 分辨率全色波段和4个 $1 . 8 \mathrm { m }$ 分辨率多光谱波段（蓝光波段： $4 5 0 { \sim } 5 1 0 ~ \mathrm { n m }$ ;绿光波段： $5 1 0 { \sim } 5 8 0 ~ \mathrm { n m }$ ;红光波段： $6 3 0 { \sim } 6 9 0 ~ \mathrm { n m }$ ;近红外波段： $7 7 0 { \sim } 8 9 5 ~ \mathrm { n m }$ )。从WorldView-2影像中识别胡杨对象，并提取胡杨的株数、树高、冠幅和植被覆盖度信息，
+
+1.2.3无人机影像为了对WorldView-2影像数据提取的胡杨对象进行高度定标以及进行数据验证，在研究区西部设置了1个无人机验证区，地理位置位于 $8 8 ^ { \circ } 0 0 ^ { \prime } 2 8 . 6 ^ { \prime \prime } { \sim } 8 8 ^ { \circ } 0 1 ^ { \prime } 1 0 . 1 7 ^ { \prime \prime } \mathrm { E }$ $4 0 ^ { \circ } 2 5 ^ { \prime } 5 2 . 8 8 ^ { \prime \prime }$ 2$4 0 ^ { \circ } 2 6 ^ { \prime } 2 7 . 7 3 " \mathrm { N }$ ○
+
+在2018年和2019年的7月，在观测区内采用大疆精灵 $4 \ : \mathrm { p r o }$ 进行了无人机倾斜摄影测量。首先规划航线，设置飞行参数，飞行高度为 $1 1 0 \mathrm { m }$ ,航向重叠度 $8 0 \%$ 、旁向重叠度 $7 5 \%$ ，通过倾斜摄影方式获取研究区的地面影像数据。
+
+# 1.3数据处理和分析
+
+1.3.1无人机影像处理航测区的无人机影像使用PIX4Dmapper软件进行处理，通过运动恢复结构（StructureFromMotion,SFM)[17]技术对无人机影像进行三维重构、空中三角测量、点云加密等处理，获得航测区的点云数据。
+
+把点云分类为裸土和植被两类，通过ArcGIS插值处理得到数字表面模型(DigitalSurfaceModel,DSM)（图2a）和数字高程模型（DigitalElevationModel,DEM)（图2b），对DSM和DEM进行减法计算生成冠层高度模型(CanopyHeightModel,CHM）（图2c)数据。CHM用于对WorldView-2影像数据提供高度定标。
+
+使用eCognition软件的“Min/MaxFilter"（最小、最大值滤波)算法从CHM数据中生成种子点（图2d)，根据种子点位置提取树高，然后通过“Pixel-BasedObjectResizing"(基于像元的对象增长)算法生成植被冠层矢量多边形对象（图2e），继而使用ArcGIS统计出无人机测区的胡杨总株数，并计算出平面坐标系中树冠面积。以上数据用于World-View-2提取胡杨对象的高度定标和数据精度检验。
+
+航测区共提取胡杨6331株,平均树高 $7 . 3 5 \mathrm { ~ m ~ }$ ，平均冠幅 $5 . 5 5 \mathrm { ~ m ~ }$ 。无人机数据与35个实测数据冠幅、树高的决定系数 $R ^ { 2 }$ 分别是0.78和0.87，RMSE为$0 . 7 \mathrm { ~ m ~ }$ 和 $0 . 5 2 \mathrm { m }$ 。说明无人机提取的胡杨数据精度较高，可用于对WorldView-2提取数据的评价。
+
+# 1.3.2高分影像处理
+
+(1）冠幅、密度提取
+
+高分辨率遥感为了充分利用其纹理丰富的特征,常使用面向对象影像分析(Object-Based ImageAnalysis,OBIA)技术[18],而光谱混合分析(SpectralMixtureAnalysis,SMA)技术主要用于从高光谱影像中提取组分信息[19]。本研究为了充分利用World-View-2的光谱和纹理特性，采用OBIA和SMA相结合的技术方法[20-21]处理分析。
+
+由于研究区WorldView-2影像中胡杨光谱与灌木光谱较为相似，通过一般的分类方法难以准确的从植物背景中分类出胡杨冠层，本文把图像中地物类型分为植被(胡杨、灌木和草本）、土壤(盐碱地和沙地)和暗目标(阴影、河流和道路)3类典型地物。首先，在影像上人工选取样本，获得3类典型地物光谱，再通过全约束最小二乘(FullyConstrainedLeastSquares，FCLS)光谱混合分析[2得到3类地物的丰度图（图3）。使用eCognition软件的“Min/MaxFil-ter"滤波算法和"Pixel-Based Object Resizing"增长算法从植被和暗目标丰度图中获取植被冠层和阴影对象的矢量轮廓。
+
+由于研究区内的胡杨高度远超过灌木，在WorldView-2影像上具有明显的阴影特征，而灌木则不具备该特征，因此，可以据此从影像上区分胡杨和灌木。在通过SMA和OBIA技术得到的植被冠层和阴影对象，旁边存在阴影对象的植被冠层即可判断为胡杨冠层对象。最后，通过ArcGIS的空间分析功能根据胡杨冠层和阴影的几何空间关系从植被中分离出胡杨。
+
+![](images/ccc67ed6affcd75280b2ba548b2bc0eba757be6f196a58e00e024d53670343e2.jpg)  
+Fig.2 Extraction process ofPopulus euphratica canopy based on UAV
+
+![](images/8b441492e191dd19a83a49b0507097f2dd8b20a7c1d38ea6f064d9f5c53e8129.jpg)  
+图2基于无人机影像的胡杨数据获取过程  
+图3WorldView-2全约束最小二乘混合像元分解结果  
+Fig.3Result of FCLS linear spectral unmix of WorldView-2
+
+# (2）树高提取
+
+树高作为森林垂直结构中重要的信息，较难直接从垂直观测的光学遥感数据中获得。有研究证明高分影像包含的光谱信息与植被结构有关[23-24]利用森林影像纹理信息、光谱信息和几何信息，建立的线性模型估测的树高精度要显著高于只使用光谱信息模型估测的树高精度[25-26]。
+
+采用eCogniton软件提取胡杨冠层对应的影像光谱、形状、纹理等特征，经过相关分析选择了相关系数大于0.4的10个特征(表1)。使用MLPRegres-sor[27]建立树高回归模型。MLPRegression的主要参数有激活函数（Sigmoid）、隐藏层数量（1层）神经元数量(4个）。参与建模的胡杨数量为5707株，模型验证方法为10折交叉验证法，最终模型 $R ^ { 2 }$ 为0.53。
+
+# 2结果与分析
+
+# 2.1反演结构参数精度分析
+
+无人机获取的航测区胡杨结构参数用于对WorldView-2影像获取的胡杨结构参数进行精度评价。由于研究区植被覆盖度低，同时考虑到World-View-2影像与无人机配准误差的影响，把航测区划分为 $1 0 0 ~ \mathrm { { mtimes 1 0 0 } ~ m ( 1 ~ \mathrm { { h m ^ { 2 } ) } } }$ 大小的统计单元，共105个。对每个统计单元分别计算无人机和World-View-2得到的胡杨参数，得到两组平均树高、平均冠幅、密度和植被覆盖度数据。然后对两组数据建立线性回归模型(图4)。
+
+表1树高回归特征列表  
+Tab.1 Feature list of tree height regression   
+
+<html><body><table><tr><td>特征</td><td>相关系数</td><td>特征</td><td>相关系数</td></tr><tr><td>亮度（Brightness）</td><td>-0.50</td><td>GLCM同质性(GLCM.Homg）</td><td>0.47</td></tr><tr><td>均值(GLCM_Mean)</td><td>-0.45</td><td>GLCM 熵(GLCM.Entropy)</td><td>0.46</td></tr><tr><td>标准差(GLCM_StdDe)</td><td>-0.56</td><td>GLCM异质性(GLCM.Dissi)</td><td>-0.45</td></tr><tr><td>NDVI均值(Mean_Ndvi)</td><td>-0.54</td><td>树冠周长(Border.Len)</td><td>0.47</td></tr><tr><td>Red最大值(Mean_Red)</td><td>-0.57</td><td>树冠面积(Area)</td><td>0.45</td></tr></table></body></html>
+
+10 (a)树高 8 (b)冠幅   
+wPm 9 。 0 wm 7 。 。 。 。 。 8 8 。 0 8 9 8 6 08 8 。 。 088 O 。 。 。° 800 。 L 。 8 7 。 5 6 / 8 8 80019x20.66 。。。 --07254x2261 6 8 4 。。 。 n=105 n=105 5 L 3 1 1 L 5 6 7 8 9 10 3 4 5 6 7 8 无人机树高/m 无人机冠幅/m   
+ilP 120 (c)密度 。 (d)植被覆盖度 100 0 。 8 。 。 。 80 0 89. 8 8 。 60 ①8 9 588 ： 8@ 40200 800 R-0.801/SB69343 150 R-07RMSE-2. 8 8。 8 00 上 50 100 150 0 5 10 15 20 2530 35 无人机密度/株 无人机覆盖度/%
+
+所有参数都表现出较强的相关性，说明使用WorldView-2得到的4种数据精度较高。World-View-2得到的测区胡杨总株数与无人机测量得到的总株数相比低估了 $8 \%$ ,低估的原因主要是一些胡杨个体由于比较低矮或者由于干旱或病虫害胁迫损失了较多的树冠部分，其树木阴影较难从影像上正确识别,而误判为其他植被类型
+
+# 2.2胡杨空间分布特征
+
+把研究区划分成 $1 0 0 ~ \mathrm { m } \times 1 0 0 ~ \mathrm { m }$ 的格网，统计WorldView-2得到的4种结构参数，如图5所示。
+
+![](images/89f3976331a4d404bb6f84f67cebb81a83e5d312a03e7b2efd88dd18ad3f9021.jpg)  
+图5胡杨结构参数空间分布  
+Fig.5Spatial distribution of structure parameters of Populus euphratica   
+图6胡杨结构参数距河道距离分析Fig.6 Distance analysis of structure parametersofPopulus euphratica
+
+可以观察到研究区胡杨整体集中分布在塔里木河主河道附近的狭窄范围，且多分布在凸出的河岸区域，在周围的废弃河道附近也有分布。根据距离河道的远近，每隔 $2 0 0 \mathrm { ~ m ~ }$ 统计了胡杨相关结构指标(图6)。可以看出，距离河道越远，胡杨密度和数量迅速减少。统计显示距离河道 $2 0 0 \mathrm { ~ m ~ }$ 范围内，胡杨密度为39.22株· $\mathrm { h m } ^ { - 2 }$ ,距离河道 $6 0 0 \mathrm { ~ m ~ }$ 范围内为
+
+9 树高 冠幅 60 40 数量占比 植被覆盖度 353025 -密度 （m/ 8 40 u/ 1 X 30 20 15密 20 6 10 10 5 5 0 0 200 400 600 800 1000 距离河道距离/m
+
+21.92株： $\cdot \mathrm { h m } ^ { - 2 }$ ，降低了 $45 \%$ ;数量统计有 $5 8 \%$ 的胡杨分布在距离河道 $2 0 0 \mathrm { ~ m ~ }$ 范围内， $6 0 0 \mathrm { ~ m ~ }$ 内则分布有$9 3 \%$ 的胡杨;覆盖度也明显降低,由距离河道 $2 0 0 \mathrm { ~ m ~ }$ 的 $12 \%$ 到 $6 0 0 \mathrm { ~ m ~ }$ 的 $6 \%$ ，降低了一半。同时，树高和冠幅也随着离河道距离增加而呈现减少趋势。
+
+基于WorldView-2的处理过程未能识别一些冠层不完整和低矮胡杨个体，总体低估了株数，估计研究区胡杨总株树约为 $1 . 0 5 \times 1 0 ^ { 5 }$ 株，若以该区域河道长度为统计单位，每千米河道平均分布有2000株胡杨。
+
+# 2.3胡杨结构组成分析
+
+为了更清楚地了解研究区胡杨结构组成，分别对树高、冠幅、密度和植被覆盖度按等级分组统计（图7)。通过图7可以直观看出，研究区 $5 5 \%$ 的区域树高为 $6 { \sim } 8 \ \mathrm { m } , 4 9 . 5 2 \%$ 的区域冠幅为 $6 { \sim } 8 \ \mathrm { m } , 5 1 . 8 \%$ 的区域密度低于20株， $4 9 . 2 4 \%$ 的区域覆盖度低于 $5 \%$ ○
+
+整个研究区每公顷树高平均为 $7 . 3 8 \mathrm { ~ m ~ }$ ,密度平均为26株，冠幅平均为 $5 . 8 6 \mathrm { ~ m ~ }$ ,植被覆盖度平均为
+
+![](images/830375f3884c23326698c6087429b3bc487f823681183c2a387538a0372cd7ed.jpg)  
+图7胡杨结构参数组成  
+Fig.7Percentage compositionof structure parameters ofPopulus euphratica
+
+$7 . 8 \%$ 。如前所述，基于WorldView-2的处理过程总体低估了一些冠层不完整和低矮胡杨个体，考虑到这一因素，以上数据略微高估了树高和冠幅，低估了密度和覆盖度。
+
+# 3讨论
+
+目前，星载LiDAR、PoIInSAR等卫星遥感技术在森林结构研究中应用较多，由于干旱、半干旱地区森林覆盖度和树高较低，并不利于这些技术的使用。在此环境下，VHR遥感技术可以发挥自身的技术特点。塔里木河下游整体植被覆盖度较低，除胡杨外还广泛分布有多种灌木和草本植物，在World-View-2的4波段光谱域中，部分灌木光谱与胡杨光谱接近，单纯使用光谱信息识别胡杨效果并不理想[28]本研究选择使用SMA对WorldView-2多光谱数据进行分类处理，在传统的研究中，SMA分析方法主要解决中等分辨率高光谱或多光谱影像中存在的混合像元问题，其通常比最大似然分类法等遥感硬分类方法更科学、准确[29]。例如，陈绪志采用线性混合模型反演出梅江流域的针叶林、阔叶林和低矮植被的丰度分布信息，与硬分类方法比较，混合像元分解精度有了明显的提高[30]。使用高分辨率遥感数据，有利于更小尺度(株)的树木分析。封静等以中国北仑河口的红树林为研究对象，证明了线性光谱混合模型在高分辨率遥感影像分析中也同样适用[31]。在植物种类较多,通过多光谱影像的光谱信息难以准确区分的情况下，SMA可以被用来简化处理场景对象为多个典型端元，如土壤、植被和阴影[32]。本文使用SMA分解WorldView-2的4波段多光谱数据，即保证了分类的准确性，也同时降低了处理的复杂性。
+
+OBIA技术通常应用于高分辨率影像分析，OBIA技术较常用的有多尺度分割、局域最大值和种子点区域增长法等算法。多尺度分割通过对影像数据进行分割，确定树冠范围，实现单木识别。例如：李晓靖[33采用快鸟和GF-2影像进行单木树冠提取，自动获取林木株数，和外业实测调查的株数相关系数为0.85。多尺度分割算法较适用于纹理丰富的多波段高分辨率卫星或无人机影像，但当使用DSM、CHM等灰度影像数据时，并不能发挥有效作用，SMA产生的端元丰度图也属于这种情况，此时更适合使用局域最大值和种子点区域增长法。例如，杨礼基于无人机生成的CHM数据，利用区域最大值法实现单木识别,株树识别正确率为 $8 5 . 9 \% ^ { [ 3 4 ] }$ 本文采用区域最大值和种子点区域增长法从端元丰度图中获取植被和阴影对象，与无人机实测数据对比，说明采用SMA结合OBIA的技术的方法可有效利用VHR数据的多光谱和高分辨率特性，在兼顾准确性和简单性的原则下得到相对可靠的结果
+
+通过对反演的胡杨树高、树冠、密度和植被覆盖度信息与无人机航测区的实测数据对比，说明反演数据精度可靠。邓潮洲通过在塔河下游设置多个断面，每断面沿垂直河道方向采用等距选样法进行乔木调查[35]，调查结果表明，英苏断面和英苏下游的喀尔达依断面平均树高分别为 $1 0 . 3 0 \mathrm { m }$ 和7.65$\mathrm { ~ m ~ }$ ,平均冠幅分别为 $5 . 3 3 \mathrm { ~ m ~ }$ 和 $4 . 6 2 \mathrm { ~ m ~ }$ 。本文研究区位于英苏和喀尔达依之间，研究得出每公顷平均树高为 $7 . 3 8 \mathrm { ~ m ~ }$ ,平均冠幅为 $5 . 8 6 \mathrm { ~ m ~ }$ 。张绘芳等通过分析喀尔达依沿断面胡杨的分布，得出胡杨密度在10\~190株· $\mathrm { h m } ^ { - 2 [ 3 6 ] }$ ,本文得出研究区胡杨密度在 $5 \sim$ 140株· $\mathrm { h m } ^ { - 2 }$ 。由于在调查方法、采样范围及统计尺度上的不同，以上研究与本文的研究结果有差异但基本相似。塔河下游胡杨林通常呈斑块状分布，地面调查往往在采样的数量、范围上要求较高，而高分辨率卫星遥感因其大范围的数据获取能力，在宏观调查方面更具优势。本文使用SMA、OBIA以及MLP回归方法，获取了塔里木河下游胡杨林树高、冠幅、密度和植被覆盖度等森林结构面状分布指标，能够更好地反应和描述塔河下游胡杨的空间分布和结构组成，对全面掌握塔河下游胡杨生态状况和生态功能有重要的参考价值。
+
+# 4结论
+
+采用WorldView-2高分遥感影像获取了塔里木河下游 $1 0 0 \mathrm { k m } ^ { 2 }$ 胡杨林的主要结构参数，选择无人机摄影测量为高分遥感提供高度定标，以及精度验证。得出如下主要结论：
+
+（1）本研究应用SMA和OBIA技术，从World-View-2高分辨率卫星遥感影像中获取胡杨冠幅和密度；使用高分影像的纹理、光谱、几何特征与树高的MLP回归模型获取树高。多种技术的结合把高分辨率卫星遥感的应用从二维信息获取拓展到三维信息获取，该技术流程对高分辨率卫星遥感在森林生态研究中的应用有重要的参考意义。
+
+(2）从WorldView-2高分遥感影像获取的胡杨结构参数，与无人机获取的结构参数在 $1 \mathrm { { h m } } ^ { 2 }$ 的尺度上进行比较，冠幅、树高、密度和植被覆盖度的 $R ^ { 2 }$ 分别为 $0 . 6 9 , 0 . 6 3 , 0 . 8 6$ 和0.89,RMSE分别为： $0 . 6 9 \mathrm { ~ m ~ }$ 、$0 . 5 7 \mathrm { ~ m ~ } . 9 . 6 4$ 株和 $2 . 8 \%$ 。各项数据的精度在该尺度上均较高，说明使用高分遥感影像能够满足区域尺度上森林结构调查的需要，
+
+（3）研究区胡杨总数约为 $1 . 0 5 \times 1 0 ^ { 5 }$ 株，平均每千米河段分布2000株。研究区 $5 5 \%$ 的区域每公顷树高为 $6 { \sim } 8 ~ \mathrm { m } , 4 9 . 5 2 \%$ 的区域冠幅为 $6 { \sim } 8 ~ \mathrm { m } , 5 1 . 8 \%$ 的区域密度低于20株， $4 9 . 2 4 \%$ 的区域覆盖度低于$5 \%$ 。研究区树高平均为 $7 . 3 8 \mathrm { ~ m ~ }$ ,密度平均为26株，冠幅平均为 $5 . 8 6 \mathrm { m }$ ,覆盖度平均为 $7 . 8 \%$ 。树高和冠幅存在高估情况，密度和覆盖度则存在低估情况。作为下游地区具有代表性的河段，这些数据对于准确认识整个塔里木河下游胡杨林生态状况有较高的参考价值。
+
+# 参考文献(References)：
+
+[1]Pedroni L.Forest ecosystems,forest management and the global carbon cycle[J].Forest Ecology& Management,1997,97(1): 91-92.   
+[2] Schrter M,Bonn A,Klotz S,et al.Atlas of ecosystem services: Drivers,risks,and societal responses[M]. Berlin: Springer,2019.   
+[3]Rogass C, Kaufmann H. Remote sensing-advanced techniques and platforms[M]. NewYork: Intechopen,2012.   
+[4]Hudak A, Crookston N,Evans J, et al. Nearest neighbour imputation of species-level,plot-scale forest structure attributes from lidar data[J].Remote Sensing of Environment,2008,112:2232- 2245.   
+[5]Hyyppä J,Hyyppä H,Leckie D,et al.Review of methods of smallfootprint airborne laser scanning for extracting forest inventory data in boreal forests[J]. International Journal of Remote Sensing, 2008,29(5): 1339-1336.   
+[6]解金卫,索志勇,李真芳,等.基于PolInSAR的植被区高精度数 字表面模型反演方法[J].电子与信息学报,2019,41(2):44-52 [Xie Jinwei, Suo Zhiyong,Li Zhenfang,et al.High-precision digital surface model inversion approach in forest region based on PolInSAR[J].Journal of Electronics& Information Technology, 2019,41(2): 44-52.]   
+[7]Marivi Tell, Victor Cazcarra-Bes,Matteo Pardini, et al.Forest structure characterization from SAR tomography at L-band[J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing,2018,11(10): 3402-3414.   
+[8]蔡耀通,林辉,孙华,等.基于TanDEM-X数据的林分平均高反 演方法研究[J].西南林业大学学报,2019,39(5):110-117.[Cai Yaotong,Lin Hui, Sun Hua,et al. Stand allocation high inversion method based on TanDEM-X data[J]. Journal of Southwest Forestry University,2019,39(5): 110-117.]   
+[9]董立新.林分平均高度卫星遥感新进展[J].遥感技术与应用, 2016,31(5):833-845.[Dong Lixin.New development of forest canopy height remote sensing[J]. Remote Sensing Technology and Application,2016,31(5): 833-845.] [10] 陈曦,包安明,古丽·加帕尔,等.塔里木河流域生态系统综合检 测与评估[M].北京:科学出版社,2016.Chen Xi,Bao Anming, Guli Jiapaer. Comprehensive Monitoring and Assessment of Ecosystem in TarimRiver Basin[M].Beijing: Science Press,2016.] [11]陈亚宁,张小雷,祝向民,等.新疆塔里木河下游断流河道输水 的生态效应分析[J].中国科学:地球科学,2004,8(5):475-482. [Chen Yaning, Zhang Xiaolei, Zhu Xiangmin,et al.Analysis on ecological effect of water conveyance in the lower reaches of Tarim River in Xinjiang[J]. Scientia Sinica (Terrae),2004, 8(5): 475-482.] [12] 李霞,侯平,董新光,等.塔里木河下游断流区胡杨密度调查与 分析[J].新疆农业大学学报,2003,26(4):44-47.[Li Xia,Hou Ping,Dong Xinguang, et al. Investigation and analysis on the population density of Populus euphratica in zero flow lower reaches of Tarim River[J]. Journal of Xinjiang Agricultural University,2003   
+26(4): 44-47.] [13] 朱长明,李均力,沈占锋,等.基于MODIS 密集时间序列数据的 塔里木河下游植被活动过程监测[J].资源科学,2019,41(3):   
+179-188.[Zhu Changming,Li Junli, Shen Zhanfeng, et al. Spatiotemporal dynamics of vegetation activities in the lower reach of the Tarim River based on MODIS intensive time series data[J]. Resources Science,2019,41(3): 179-188.] [14] 黄粤,包安明,王士飞,等.间歇性输水影响下的2001—2011年 塔里木河下游生态环境变化[J].地理学报,2013,68(9):1251-   
+1262.[Huang Yue,Bao Anming,Wang Shifei, et al. Eco-environmental change in the lower Tarim River under the influence of intermittent water transport[J].Acta Geographica Sinica,2O13,68 (9): 1251-1262.] [15] 管文轲,韦红,钟家骅,等.塔里木河流域植被覆盖变化的遥感 监测[J].水土保持通报,2018,38(5):244-248,260.[Guan Wenke,Wei Hong, Zhong Jiahua, et al. Remote sensing monitoring of vegetation cover change in Tarim River basin[J].Bulletin of Soil and Water Conservation,2018,38(5): 244-248,260.] [16]牛婷,李霞.塔里木河下游植被恢复遥感模型建立[J].国土资源 遥感,2008,21(2): 79-83.[Niu Ting,Li Xia.A remote sensing modelfor vegetationrestorationinthelowervalleyofthe TrimRiver[J]. Remote Sensing for Land & Resources,2008,21(2):79-83.] [17]Obanawa H S,Hayakawa Y,Saito H,et al. Comparison of DSMs derived from UAV-SFM method and terrstrial laser scanning[J]. Journal of the Japan society of photogrammetry and remote sensing,2014, 53(2): 67-74. [18] 闫东阳,明冬萍.基于自动多种子区域生长的遥感影像面向对 象分割方法[J].工程科学学报,2017,66(11):132-139.[Yan Dongyang, Ming Dongping. Object-oriented remote sensing image segmentation based on automatic multi-seed region growing algorithm[J].Journal of University of Science and Technology,2017,   
+66(11): 132-139.] [19]Xu X, Tong X,Plaza A,et al. Using linear spectral unmixing for subpixel mapping of hyperspectral imagery: A quantitative assessment[J].IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,2017,10(4): 1589-1600.   
+[20] Gudex-Cross D,Pontius J,Adams A. Enhanced forest cover mapping using spectral unmixing and object- based classification of multi- temporal Landsat imagery[J].Remote Sensing of Environment,2017,196: 193-204.   
+[21] 滑永春,李增元,高志海.面向对象分割与混合像元分解相结合 提取沙化土地信息[J].干旱区研究,2020,37(5):254-260.[Hua Yongchun,Li Zengyuan,Gao Zhihai.Extraction of sand information using object-oriented segmentation combined with the decomposition of mixed pixels[J]. Arid Zone Research,2020,37(5): 254- 260.]   
+[22]Yu J,Chen D,Lin Y,et al.Comparison of linear and nonlinear spectral unmixing approaches: A case study with multispectral TM imagery[J]. International Journal Of Remote Sensing,2017,38(3- 4): 773-795.   
+[23]郄广平.高分辨率遥感影像的森林结构参数反演[D].长沙：中 南林业科技大学,2011.[Qie Guangping.The Research on Forestry Factor by High-Resolution Remote Sensing Image[D]. Changsha: Central South University of Forestry and Technology,2011.]   
+[24] Donoghue DN M, Wat P J. Using LiDAR to compare forest height estimates from IKONOS and Landsat ETM $^ +$ data in Sitka spruce plantatin forests[J].InternationalJournalofRemoteSensing, 2006,27(11): 2161-2175.   
+[25] Chen G,Hay G J, Castilla G,etal.A multiscale geographic objectbased image analysis to estimate lidar-measured forest canopy height using Quick bird imagery[J]. International Journal of Geographical Information Science,2011,25(6): 877-893.   
+[26]Gomes MF,MailardP.Using spectraland textural features from Rapid Eye images to estimate age and structural parameters of Cerrdo vegetation[J].International journalofremotesensing, 2015,36(11-12): 3058-3076.   
+[27]Rodrigues éO,Pinheiro VHA,Liatsis P,et al. Machinelearing in the prediction of cardiac epicardial and mediastinal fat volumes [J]. Computers in Biology & Medicine,2017,89(10): 520-529.   
+[28] 赵金,陈曦,古丽·加帕尔,等.塔里木河荒漠植被光谱可分性模 拟[J].中国沙漠,2009,29(2): 270-278.[Zhao Jin, Chen Xi, Guli Japaer,et al.Spectral discrimination of desert vegetation int the Tarim basin[J]. Journal of Desert Research,2009,29(2): 270-278.]   
+[29] 胡潭高,徐俊锋,张登荣,等.自适应阈值的多光谱遥感影像软 硬分类方法研究[J].光谱学与光谱分析,2013,33(4):1038- 1042.[Hu Tangao, Xu Junfeng, Zhang Dengrong,et al. Hard and soft classification method of multi-spectral remote sensing image based on adaptive thresholds[J]. Spectroscopyand Spectral Analysis,2013,33(4): 1038-1042.]   
+[30] 陈绪志.基于线性光谱混合模型的植被丰度遥感信息提取 以梅江流域为例[D].南昌:江西师范大学,2012.[Chen Xuzhi. Remote Sensing Information Extraction of Vegetation Abundance based on Linear Spectral Mixed model: A case study of Meijiang River Basin[D]. Nanchang: Jiangxi Normal University,2012.]   
+[31] 封静,季民河,胡笳.基于高分分辨遥感的红树林郁闭度光谱混 合分析[C]//第十七届中国遥感大会摘要集.中国遥感委员会， 2010.[Feng Jing,Ji Minhe,Hu Jia. Spectral mixing analysis of mangrove canopy density based on high resolution remote sensing [C]/Summary of the 17th China Remote Sensing Conference. Chinese National Committee for Remote Sensing,2010.]   
+[32]Lu Dengsheng,Moran Emilio,Batistella Mateus.Linear mixture model applied to Amazonian vegetation classification[J]. Remote Sensing of Environment,2003,87(4): 456-469.   
+[33]李晓靖.基于高分影像的面向对象分类与单木树冠提取研究 [D].北京:北京林业大学,2017.[Li Xiaojing.Study on Objectoriented Classification and Individual Tree Crown Extraction based on High Resolution Imagery[D].Beijing:Beijing Forestry
+
+University,2017.]
+
+[34] 杨礼.融合UAV遥感影像与SFM点云的树木识别及参数提取 [D].焦作:河南理工大学,2018.[YangLi.Tree Parameters Extraction using UAV Remote Sensing Image and SFMPoint Cloud [D]. Jiaozuo: Henan Polytechnic University, 2018.]   
+[35]邓潮洲,张希明,李利,等.塔里木河下游胡杨群落特征及种群 结构分析[J].中国沙漠,2010,30(3):589-595.[Deng Chaozhou, Zhang Ximing,Li Li,et al. Community characteristics and population structure of Populus euphratica Oliv inlower reaches of Tarim River[J]. Journal of Desert Research,2010,30(3): 589-595.]   
+[36] 张绘芳,李霞.塔里木河下游胡杨种群空间分布格局分析[J].西 北植物学报,2006,26(10):2125-2130.[Zhang Huifang,Li Xia. Spatial distribution pattern of Populus euphratica populations in the lower reaches of Tarim River[J].Acta Botanica Boreali-Occidentalia Sinica,2006,26(10): 2125-2130.]
+
+# Structural parameter acquisition of Populus euphratica by WorldView-2 remote sensing image
+
+YANG Xuefeng1²， YE Mao'²， Munire Maimaiti1²2 (1.College of Geographic Scienceand Tourism,Xinjiang Normal University,Urumqi 83oo54,Xinjiang,China; 2. Xinjiang Laboratory of Lake Environment and Resources in Arid Zone,Urumqi 83Oo54,Xinjiang, China)
+
+Abstract: Forest structure information is an important index to evaluate forest ecosystems and applying remote sensing technology to explore forest structure ofers practical scientific applications.The lower reaches of the Tarim River are a key area of ecological protection in arid areas of China,in this paper, we applied WorldView-2 very high-resolution remote sensing imagery using spectral unmix analysis theory and object-based image analysis processing technology to examine tree density，crown diameter,and Fractional Vegetation Cover (FVC)of Populus euphratica in the study area. Using UAV photogrammetry, we also obtained height data of Populus euphratica by establishing a regression model between canopy reflectance，texture，and tree height.By comparing structural data with UAV, we found the following results based on a $1 \ \mathrm { h m } ^ { 2 }$ scale: $R ^ { 2 }$ of Populus euphratica's crown diameter $\scriptstyle = 0 . 6 9$ and $\mathrm { R M S E { = } 0 . 6 9 ~ m ; } ~ .$ $R ^ { 2 }$ ofPopulus euphratica's height $= 0 . 6 3$ and $\scriptstyle { \mathrm { R M S E } } =$ $0 . 5 7 \mathrm { ~ m ~ }$ $R ^ { 2 }$ of Populus euphratica' s $\mathrm { F V C } { = } 0 . 8 9$ andRMSE $: = 2 . 8 \%$ ; and $R ^ { 2 }$ of Populus euphratica' s density ${ \boldsymbol { \mathbf { \mathit { \sigma } } } } = 0 . 8 6 { \boldsymbol { \mathbf { \mathit { \sigma } } } }$ andRMSE $\mathrm { \ ; = } 9 . 6 4$ trees $\cdot \mathrm { h m } ^ { - 2 }$ . We found forest structural information can be obtained using WorldView-2 very highresolution imagery with UAV technology support. We calculated 105000 trees Populus euphratica individuals and 2000 trees distributed per kilometer of the Tarim River, tree height of $5 5 \%$ of the study area at $6 { - } 8 \ \mathrm { m } \cdot \mathrm { h } \mathrm { m } ^ { - 2 }$ ， crown width of $4 9 . 5 2 \%$ at $6 { - } 8 ~ \mathrm { m } { \cdot } \mathrm { h m } ^ { - 2 }$ ,density of $51 . 8 \%$ lower than $2 0 \mathrm { t r e e s } \cdot \mathrm { h m } ^ { - 2 }$ ,and a FVC of $4 9 . 2 4 \%$ lower than $5 \%$ perhectare.The average height of the Populus euphratica forest was $7 . 3 8 \mathrm { m }$ ,the average density was 26 trees $\cdot \mathrm { h m } ^ { - 2 }$ ,the average crown width was $5 . 8 6 \mathrm { ~ m ~ }$ ， and the average FVC was $7 . 8 \%$ . Tree height and crown width were slightly overestimated,while density and coverage were underestimated. As a representative river section in the lowerreaches of the Tarim River,these data are useful for understanding the overall ecological status of Populus euphratica in the lower reaches of the Tarim River.
+
+Keywords: forest structural parameters; Populus euphratica; high spatial resolution remote sensing; spectral mixture analysis; object-oriented image analysis

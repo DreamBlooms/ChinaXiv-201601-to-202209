@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "基于高性能芯片的射电天文厘米-分米波谱线观测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "印琪骏1,3，朱亮1,³，何乐生1,3,4，董亮1,2,3，刘俊卿²,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.云南大学信息学院，云南 昆明650091；2.中国科学院云南天文台，云南 昆明650011;中国科学院云南天文台-云南大学信息技术联合实验室，云南 昆明650091；4.云南大学滇池学院，云南 昆明",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：谱线观测在天文领域起着至关重要的作用，较高的频谱分辨率可以为研究天体细节带来便利，但在高频段谱线观测领域，使用传统的采样方法实现较高的谱线分辨率十分困难。目前，一种利用高性能芯片实现的用于射电天文厘米-分米波谱线观测领域的新方法克服了传统方法的诸多弊端，使用较低的采样带宽就可实现较高的频谱分辨率。这是一套完整的采集、处理、存储方案。首先将高频信号进行模拟下变频处理，再将处理过的低频信号交由上位机软件进行快速傅里叶变换、积分处理，最后保存成需要的文件格式。整个系统的采集参数由观测者通过上位机软件进行配置。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：现场可编程门阵列；捷变收发器；射电天文；谱线观测；频率分辨率中图分类号：P161 文献标识码：A 文章编号：1672-7673(2017)01-0103-07",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谱线观测在获得天体信息方面具有重要意义。对于高频段的观测要求数据采集设备具有更高的采样速率。各大芯片公司也在研制更高速更高带宽的数据采集芯片，其中一部分芯片已经应用于射电天文观测。然而，高速数据采集带来的弊端使得资源浪费在一些没有可观测信号的频率上，而且采样率越高，浪费越多。在集成电路日新月异的今天，一种新的观测控制方法应运而生[1-2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1技术背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谱线在射电天文观测中具有举足轻重的地位，可用于诊断相关天体的基本物理及化学组成，如激发温度、粒子密度、物质运动区的速度场、磁感应强度及各种元素的化学丰度等。通过观测获得分子云及恒星形成区的谱线数据后，可以通过适当的近似方法求解统计平衡辐射转移方程，从而获得天体的各种信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过对分子谱线的观测，能够研究包括恒星形成区早期、恒星演化晚期、超新星爆炸（超新星遗迹）、行星状星云、彗星、河外星系等一系列的天文学现象。对它们在C 波段谱线的观测研究，关联了很多研究内容[3-5]，例如：（1)基于 $6 . 7 \\mathrm { G H z }$ 甲醇脉泽相关的研究，6.7GHz 甲醇脉泽由于其辐射流量大、致密（角大小约4毫角秒，线大小约几个天文单位）、寿命长(约4年）、普遍存在（银河系内探测到100 多个源)以及非常小的内部固有运动等特点成为天文学和天体测量学中的一大热点。它们不仅被用来开展与大质量恒星形成有关的一系列研究，而且通过对它们视差的测量可以精确确定银河系的一些关键参数(如旋臂结构，这是迄今为止最高精度的测量方法)，是银河系研究的重点；（2)基于羟基和甲醛谱线的研究也是近来受到广泛关注的热点领域，包含甲醛样本搜寻以及他们的辐射特性、羟基脉泽的搜寻以及通过羟基偏振观测研究磁场等内容；（3)另外还有很多研究内容，比如C波",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "段的分子谱线搜寻等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高频谱分辨率的谱线观测可用于研究目标天体内部更细节的信息，它们通常可以追踪到更小尺度的结构以及更详细的动力学特征等。在某些高精度的谱线观测中需要极高的频率分辨率，例如对塞曼效应的观测中，采用中性氢HI观测，每微高斯磁场产生的频率移动 $2 . 8 ~ \\mathrm { H z }$ ；如采用OH的基态，每微高斯磁场在 $1 . 6 6 5 ~ \\mathrm { G H z }$ 谱线上产生的频率移动只有 $3 . 2 7 ~ \\mathrm { H z }$ ，而在 $1 . 6 6 7 ~ \\mathrm { G H z }$ 谱线上产生的频率移动是 $1 . 9 6 \\mathrm { H z }$ 。然而，由于传统的射电天文终端设备是对射电天文模拟信号的高速模拟数字转换器过采样原理实现：采样率为 $f _ { \\mathrm { s a m p l e } }$ 的模拟数字转换器大约能覆盖 $f _ { \\mathrm { s a m p l e } } / 2$ 带宽的信号，目前增加采样率成为解决大带宽数据采集、实现宽频段同时观测的唯一途径[3-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据多普勒关系，对于给定的速度弥散 $\\Delta \\boldsymbol { v }$ ，对应的频谱宽度应为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f = \\frac { \\Delta v } { c } \\times f _ { \\mathrm { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据采样率 $f _ { \\mathrm { s a m p l e } }$ 、快速傅里叶变换点数 $N$ 和频谱分辨率 $ { \\Delta } f$ 三者的关系[4]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta f = \\frac { f _ { \\mathrm { s a m p l e } } } { N } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "速度分辨率与采样率、中心频率以及快速傅里叶变换点数 $N$ 之间的关系，对同一条谱线在同样 $N$ 点数情况下，采样率越高，速度分辨率越低[4-5]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta v = \\frac { f _ { \\mathrm { s a m p l e } } c } { N f _ { \\mathrm { 0 } } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在传统采样原理下，谱线的高精度轮廓结构观测非常困难，因为在采样率一定的情况下，要得到更高的频谱分辨率就必须增加快速傅里叶变换点数 $N$ ，这就需要耗费处理器内部乘法器、累加器以及存储单元等资源，大大增加了冗余数据量，对无信号频段也需要同时进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，各大芯片公司和模块化仪器公司相继进行更高速更高带宽的数据采集芯片和设备设计开发，多种高速数据采集设备已经应用于天文观测。例如：Acqiris 公司开发的高速数据采集卡AC240，其带宽为 $1 \\operatorname { G H z } \\ @ 8 \\operatorname { b i t }$ ，已经应用于多台射电望远镜，包括德令哈的 $1 3 . 7 \\mathrm { m }$ 毫米波望远镜，KOSMA毫米波亚毫米波望远镜；B.Klien 等人研发的FFTS[3.5]数据采集终端均是目前采样速度最快的射电天文终端。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据原子受激辐射的特点，分子谱线呈现离散局部密集线谱的特点，在其他频段能够观测的射电天文谱线又非常少。这样，高速数据采集的优势就浪费在一些没有可观测信号的频率上，且采样率越高，浪费越多。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2008年文[4]实现的 $1 0 0 \\mathrm { M H z }$ 输入带宽的数字终端 $\\mathrm { T a s P G A } ^ { [ 4 ] }$ ，观测脉泽源 $\\mathrm { G 2 8 5 . 3 5 + 0 . 0 0 }$ 在 $8 ~ \\mathrm { M H z }$ 带宽内实现 $4 8 8 . 3 ~ \\mathrm { H z }$ 的频谱分辨率需要16384点快速傅里叶变换；文［5]在FFTS上实现 $8 8 . 3 \\mathrm { K H z }$ ，需要32768点快速傅里叶变换;文「5总结的随着采集速度的上升，达到同样频率分辨率所需的快速傅里叶变换点数关系如图1[5]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，2005年文［6］尝试在埃费尔斯贝格（Effelsberg） $1 0 0 \\mathrm { ~ m ~ }$ 射电望远镜上建立基于DDC-GC4016 数字下变频器（DigitalDownConverters，DDC）的数字频谱分析终端ICS554C,引入了直接数字下变频的概念与谱线数字终端[5]，如图2。它有两种工作方式[5-6]：（1)全带",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8878eaa24b96d4a9a335506cce8cf1dba93ace80d1afd492dc169efa6916047c.jpg",
+        "img_caption": [
+            "图1快速傅里叶变换点数关系图 Fig.1The relationship between bandwidth and FFT points "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "宽模式： $5 0 \\mathrm { M H z }$ ，直接由模拟数字转换器采集进入现场可编程门阵列做快速傅里叶变换分析；（2)窄带工作方式：经数字下变频器选通 $2 0 \\mathrm { K H z } \\sim 1 0 \\ \\mathrm { M H z }$ 带宽，再送入现场可编程门阵列进行处理。两种方式对同一条谱线的观测效果如图3、图4。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbb088122014a42e08304b357e4e68aee4974f21011d1de46ff9a52185299896.jpg",
+        "img_caption": [
+            "Fig.2Digital spectrum analysis terminal ICS 554C "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a01e30f15a9933aeb5567052f77b6c641b2fba6a0dfecf39120991f840429c31.jpg",
+        "img_caption": [
+            "图2数字频谱分析终端ICS554C",
+            "图3全带宽模式下对中性氢和羟基脉泽源的观测"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eee149aa0e1cf6be6a66879c3ea3c99442b79997de76385f033542178ff673e0.jpg",
+        "img_caption": [
+            "Fig.3Observation of Neutral hydrogen and OH in full bandwidth mode ",
+            "图4窄带模式下在 $2 \\ : \\mathrm { M H z }$ 带宽对中性氢和羟基脉泽源的观测 ig.4Observation of Neutral hydrogen and OH with a 2MHz bandwidth in narrow band mode "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $2 \\ : \\mathrm { M H z }$ 带宽模式下，相当于在全带宽模式下相同的快速傅里叶变换点数提高了25倍的频率分辨率。同时，文[7-8]提出了基于欠采样方案的采集终端，利用模拟数字转换器的欠采样性可以达到更高的分辨率。但是以上两种方案都以增加电路的复杂结构为代价，在集成电路日新月异的今天，新的集成电路能够取代上述方案①。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前ADI公司推出的 $\\mathrm { A D } 9 3 \\mathrm { x x }$ 系列芯片是一种高性能、高度集成的RFAgile TransceiverTM捷变收发器。器件的可编程性和宽带使其成为多种收发器应用的理想选择。器件集射频前端与灵活的混合信号基带为一体，集成频率合成器，为处理器提供可配置数字接口，从而简化设计。例如：AD9361工作频率为 $7 0 \\mathrm { M H z }$ 至 $6 . 0 \\mathrm { G H z }$ ，涵盖大部分特许执照和免执照频段，支持的通道带宽从不到 $2 0 0 \\mathrm { K H z }$ 至$5 6 \\mathrm { M H z } ^ { [ 9 ] }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "较之于传统的高速采样数字频谱终端，根据奈奎斯特定律达到 $6 ~ \\mathrm { G H z }$ 的输入带宽至少要有12 Gsps的采样速度，为此在捷变收发器选择 $2 0 0 ~ \\mathrm { k H z }$ 输入带宽的情况下，到达同样的分辨率，相当于点数提高了240 000倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统采用先进的集成射频捷变收发器研发新型的专用谱线接收机，实现快速宽带内可切换的射电天文终端及相关软件，并初步为云南天文台 $4 0 \\mathrm { ~ m ~ }$ 射电望远镜提供高精度谱线观测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2工作原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 捷变收发器AD9361 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AD9361是捷变收发方案的典型代表，其工作频率为 $7 0 ~ \\mathrm { M H z }$ 至 $6 . 0 \\ \\mathrm { G H z }$ ，支持的通道带宽从不到 $2 0 0  { \\mathrm { k H z } }$ 至 $5 6 ~ \\mathrm { M H z }$ 。信号处理板如图5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两个独立的直接变频接收器拥有首屈一指的噪声系数和线性度。每个接收子系统都有独立的自动增益控制（Automatic Gain Control，AGC）、直流失调校正、正交校正和数字滤波功能，从而消除了在数字基带中提供这些功能的必要性。AD9361还拥有灵活的手动增益模式，支持外部控制。每个通道搭载两个高动态范围的模拟数字转换器，先将收到的I信号和Q信号进行数字化处理，然后将其传给可配置抽取滤波器和128抽头有限脉冲响应（Finite Impulse Response，FIR）滤波器，结果以相应的采样率生成12位输出信号。AD9361主要根据控制系统发来的指令选通所需要的观测频段。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7493b2a67ed2738de4fdf6e6be022e31f341ca946718ecfe1ec8bd38c30ed115.jpg",
+        "img_caption": [
+            "图5AD9361功能框图Fig.5Block diagram of AD9361"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 控制系统",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "硬件平台采用 xilinxZynq-7000 SoC ZC702，评",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "估套件ZynqSoC采用Xilinx公司 $2 8 \\mathrm { n m }$ 工艺的最新SoC平台解决方案ZC702，该方案除了含有Xilinx传统的高性能现场可编程门阵列外，还集成了两个ARMCortex A9处理器内核，能够运行通用的Linux操作系统。本系统在Linux系统下能够方便地控制快速傅里叶变换、积分、求对数、定标等计算在现场可编程门阵列内部的运行流程，同时还能够利用Linux系统完善的网络功能，实现系统与个人计算机、工作站等数据存储设备的通信。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统工作时通过FMC LPC 接口向捷变收发器 AD9361信号板发送控制信号，使其选通所需要的观测频段，同时接收 AD9361传来的采样数据。XC7Z020 通过其中的现场可编程门阵列部分实现AD9361基带信号的接收，以及后续的快速傅里叶变换、积分、求对数、定标等运算，而整个数据处理过程在ARMA9 运行的Linux 执行程序的监控下完成，Linux执行程序还能通过适当的人机接口，实现运算参数的有效设定和更改。经过现场可编程门阵列处理信号的数据带宽将极大地降低，达到ARMA9能够实时存储和传输的水平，此时再用Linux提供的完善的文件系统及网络功能实现处理后数据的实时存储和传输。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3实现方法与结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于AD9361和XilinxZC702FPGA开发板的捷变收发器系统，需要对XilinxZC702FPGA开发板进行镜像烧写、配置和参数修改，使其能够针对射电源目标频率进行观测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 系统构建准备",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)前端平台，将射电望远镜接收机输出( $6 ~ \\mathrm { G H z }$ 以上采集中频信号，6GHz以下可直接采集）与AD9361的接收端相连，试观测中，接于上海天文台 $6 5 \\mathrm { ~ m ~ }$ 射电望远镜C 波段中频，XilinxZC702FPGA开发板与 AD9361的AD-FMCOMMS2-EBZ 板卡通过FMCLPC 总线相连；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)控制计算机，基于Windows764位操作系统的个人计算机，用于上位机软件集成及现场可编程门阵列控制；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3)SD卡，用于烧写系统镜像，容量8G及以上，在ADI公司官方网站的相应页面下载镜像文件压缩包，选择 2014_R2-2015_02_06.img.xz下载后将其解压缩；采用Win32DiskImager软件将解压后的镜像文件烧写入准备好的SD卡中；有以下注意事项：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 确保 SD卡驱动器被选择为写入设备;  \n$\\textcircled{2}$ 导入正确的镜像文件路径;  \n$\\textcircled{3}$ 点击“write”按钮写入镜像文件;  \n$\\textcircled{4}$ 写入完成后安全退出SD卡；  \n$\\textcircled{5}$ 至此，SD卡中的镜像还不能用于捷变收发器设备的启动；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4)SD卡中包含了各种开发板的启动镜像，要在其中选择与Xilinx ZC702FPGA开发板和 AD-FMCOMMS2-EBZ板卡相配套的镜像文件，打开“zynq-zc702-adv7511-ad9361-fmcomms2-3”文件夹，将其中的镜像文件从子目录复制到SD卡的根目录下；镜像烧写完成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2启动并配置IP地址 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1)接入相关外设，同时将AD-FMCOMMS2-EBZ板卡与现场可编程门阵列开发板的夹层卡口连接;（2)然后将射电望远镜中频接收机输出与AD-FMCOMMS2-EBZ板卡RX2A相连；（3）在Menu 菜单中打开 setings 页面，进入NetworkConnections，修改 $\\mathrm { I P v } 4$ Settings，将其中的 IP地址设置为169.254.188.133。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 应用程序参数设置 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)IP 地址的设置为现场可编程门阵列开发板与PC通信奠定了基础，然后安装捷变收发器应用程序IIO Oscilloscope Windows版至上位机中；打开应用程序并建立连接，在IP addr：port中输入之前配置好的IP 地址169.254.188.133，选择确定进入AD-FMCOMMS2-EBZ 参数配置界面；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)打开FMComms2/3/4选项卡并运行New Plot，参数设置与频域峰值如图6，对比商用频谱仪得到图7的结果，可以清楚地看到在 $7 5 1 . 4 ~ \\mathrm { M H z }$ 附近出现若干峰值，捷变收发器谱线观测终端表现良好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于Xilinx现场可编程门阵列与AD9361的捷变收发器系统实现了射电天文厘米-分米波段窄带谱线观测，采用集成化芯片可以成功取代目前传统的分立式模拟下变频器、模拟滤波器、高速模数转",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "换器、高速现场可编程门阵列及高性能计算机的观测系统结构，并且可以保证天文观测的可靠性、稳定性需求。可以预见，这套系统将在未来的天文观测领域发挥更大的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/41ecd688aa1665144713ee3333e812a8fcb2e854e4a52043185387c949807c3d.jpg",
+        "img_caption": [
+            "Fig.6System running and result display interface "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e63deb3972373d667519627d24e0cc32f13ccd40a0c9b89b871773c9baaed01c.jpg",
+        "img_caption": [
+            "图6系统运行与结果显示界面",
+            "图7商用频谱仪FSL26分析得到的数据Fig.7Data analyzed by a commercial spectrometer FSL26"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Meyer-BaeseU.数字信号处理的FPGA实现［M].刘凌，胡永生，译.北京：清华大学出版 社，2003:66-97.   \n[2] ReedJH.软件无线电—无线电工程的现代方法［M].陈强，译.北京：人民邮电出版 社，2004：45-83.   \n[3] Klein B,Krämer I,Hochgurtel S,et al. The next generation of fast fourier transform spectrometer [C]//Proceedings of the Ninteenth International Symposium on Space Terahertz Technology. 2008.   \n[4] Hotan A W.A new signal processing platform for radio astronomy [J]. Astronomy & Astrophysics, 2008，485(2) : 615-622.   \n[5] Stanko S，Klein B，Kerp J.A field programmable gate array spectrometer for radio astronomy [J].Astronomy & Astrophysics，2005，436:391-395.   \n[6] 林镇辉，姚骑均，杨戟．用于射电天文数字频谱仪的新进展［J]．天文学进展，2008，26 (2): 175-183. Lin Zhenhui， Yao Qijun， Yang Ji. New progress on digital spectrometer for radio astronomy [J]. Progress in Astronomy，2008，26(2)：175-183.   \n[7] Dong Liang，Wang Min，Bai Zhengyao,et al. A new digital backend in radio astronomy based on under-sampling technology [C]// Fifth International Conference on Machine Vision: Algorithms，Pattern Recognition and Basic Technologies.2012.   \n[8] Mishali M，Eldar Y C. Sub-Nyquist sampling [J]. IEEE Signal Processing Magazine，2011,28 (6) : 98-124.   \n[9] 姜浩，张治.基于AD9361的软件无线电平台设计与实现［J]．电视技术，2015，39（15）： 51-54. Jiang Hao，Zhang Zhi. Study on software defined radio system based on AD9361 [J]. Video Engineering，2015，39(15）:51-54. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A New Method to Observe Radio Astronomy Signal : Centimeter-Decimeter Spectral Line —Based on High Performance Integrated Circuit ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yin Qijun $^ { 1 , 3 }$ ， Zhu Liang $^ { 1 , 3 }$ ，He Lesheng $^ { 1 , 3 , 4 }$ ， Dong Liang $^ { 1 , 2 , 3 }$ ， Liu Junqing $^ { 2 , 3 }$ (1.ColegeofInformationScienceandEngneeing，YunnanUniversity,Kunming6591,China,Email;he_lesheng@63.net;   \n2.Yunnan Observatories，Chinese Academyof Sciences，Kunming 65011,China；3.Yunnan Observatories，Chinese Academy of Sciences-Information Technology Science and Engineering Associate Laboratory，Kunming 650091,China;   \n4.Dianchi College of Yunnan University，Kunming 65oo51,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Spectral line observation plays an important role in astronomy.High spectral resolution can bring much convenience to observers in exploring planet details. But for high-frequency observation，it is very dificult for the traditional sampling method to achieve high spectral resolution.In this article，anew method has been proposed. Using high performance integrated circuit to observe radio astronomy signal in centimeterdecimeter spectral line，this method overcomes those disadvantages of its traditional counterpart and achieves a higher spectral resolution with a lower sampling bandwidth. It consists of a complete set of collection, processing and storage solutions.Firstly，high-frequency signal is processed by the analog down converter, then the low-frequency signal is transmited to the upper computer software for FFT and integral processing; finally，the signal is saved in file format as required.In this platform，parameters fordata colection are given by the observer through upper computer software. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key Words:FPGA；Agile transceiver；Radio astronomy；Spectral line observation；Spectral resolution ",
+        "page_idx": 6
+    }
+]

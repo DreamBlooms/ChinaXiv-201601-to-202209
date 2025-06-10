@@ -1,0 +1,296 @@
+# 用FY-3C/MWHTS资料反演陆地晴空大气温湿廓线
+
+贺秋瑞”²，王振占¹，何杰颖
+
+1.中国科学院国家空间科学中心微波遥感重点实验室，北京100190；2．中国科学院大学，北京100049
+
+摘要：针对风云三号C 星微波湿温探测仪(FY-3C/MWHTS)的陆地晴空观测资料，建立了一维变分反演系统，对大气的温湿廓线进行反演。为了更好的描述温湿廓线的相关性，同时减小温度和湿度在反演过程中相互之间的误差传递，提出了使用背景协方差矩阵的联合矩阵和单独矩阵进行组合反演的方法。对于MWHTS模拟亮温和观测亮温之间的偏差，使用逐扫描点的统计回归方法进行校正。选择我国部分陆地区域的晴空观测亮温进行温湿廓线的反演，并利用欧洲中期天气预报中心(ECMWF)再分析数据、美国国家环境预报中心(NCEP)分析数据以及无线电探空观测(RAOB)数据对反演结果进行验证，温湿廓线的反演结果与ECMWF再分析数据验证的最大均方根误差分别是 $2 . 5 9 \mathrm { ~ K ~ }$ 和 $1 1 . 8 7 \%$ 与NCEP分析数据验证的最大均方根误差分别是 $1 . 8 8 \mathrm { K }$ 和 $2 1 . 5 0 \%$ ，与RAOB数据验证的最大均方根误差分别是 $3 . 4 3 \mathrm { K }$ 和 $2 5 . 4 8 \%$ ，验证结果表明了反演结果的可靠性。另外与国外同类载荷 AMSU观测亮温的物理方法和统计方法反演精度进行了对比，结果表明：MWHTS具有较强的湿度廓线以及高空温度廓线的探测能力，且针对MWHTS的观测亮温建立的一维变分反演系统具有较高的反演精度。与NCEP6小时预报廓线的验证结果表明：反演的湿度廓线可以提高预报廓线的精度。
+
+关键词：MWHTS，一维变分反演，温湿廓线，逐扫描点校正，预报廓线中图分类号：TP723,1文献标志码：A
+
+引用格式：贺秋瑞，王振占，何杰颖.2016.用FY-3C/MWHTS 资料反演陆地晴空大气温湿廓线.
+
+# 1引言
+
+温湿廓线作为描述大气状态的两个重要参数，在大气科学中有着广泛的应用，如数值天气预报模型的初始化、气候变化研究、强对流天气的实时预报等(Zavodsky etal.，2012；Araki etal.，2015；Chan et al.,2015)。利用星载遥感仪器探测大气温湿信息已有超过50年的历史，传感器的硬件设置取得了长足的进步，同时针对各种传感器的观测资料也发展了很多反演算法。对于微波波段的辐射计来说，王曦等人利用统计回归方法对先进微波探测装置(AMSU)观测资料反演了海洋晴空的大气湿度廓线，并利用NCEP的预报廓线进行个例分析，一致性较高(Wang et al.，2010)。Mathur等人同样利用统计回归方法对微波湿度探测仪(SAPHIR)观测资料分别进行海洋和陆地上空的湿度廓线反演，并与ECMWF再分析数据以及RAOB数据进行了精度验证分析(Mathur etal.，2013)。Karbou等人使用神经网络的方法对AMSU观测资料进行陆地晴空大气温湿廓线反演，针对陆地表面类型和大气参数的季节变化进行了分类处理，并得到较高的精度(Karbou etal.,2005)。Gangwar等人使用同样的方法对AMSU观测资料进行海洋和陆地的晴空大气温度廓线的反演，并根据陆地和海洋表面类型的特点以及大气参数的时空分布特点分别进行了热带和亚热带的温湿廓线分类反演，并对反演误差进行了详细的分析(Gangwaretal,2014)。Li等人发展的先进垂直探测器数据处理软件包(IAPP)对AMSU和高分辨率红外辐射探测仪(HIRS)观测资料进行了有云和无云条件下大气参数反演，并对云的检测和亮温偏差校正进行了详细的描述(Lietal.,200O)。Boukabara 等人发展的微波整体反演系统(MIRS)使用物理统计方法同时利用AMSU、微波湿度传感器(MHS)以及特种传感器微波成像仪(SSMI/S)的观测资料进行全球大气参数反演，且该反演系统具有全天候的反演能力(Boukabaraetal..2011)。然而，从前人的反演结果中可以发现，使用不同的先验信息将会导致不同的反演精度。而对于温度廓线的反演来说，陆地上空的反演精度明显低于海洋上空，且在近地层精度最差，其原因与陆地表面类型的复杂性以及其上空的温湿参数变化特点有很大关系(Karbou et al., 2005;Gangwar et al, 2014)。
+
+FY-3C/MWHTS的通道设置使其观测数据具有独立反演温湿廓线的能力。目前，关于FY-3C/MWHTS的硬件设计及数据定标验证已有相关文献进行介绍(Guoetal.,2015)。但尚未有关于针对该载荷数据的反演方法的描述。在各种大气廓线的反演方法中，物理反演是通过对大气辐射传输过程建模并对辐射传输方程求逆来实现的，是提高反演精度的根本途径。因此本文使用物理反演方法对MWHTS陆地晴空观测亮温进行反演研究。然而，由于在大气辐射传输建模的过程中，陆地表面发射率的计算难度大且计算精度差(Karbou etal.,2005;Gangwar etal,2014)，所以本文为了减小反演过程的复杂性，并未对陆地表面类型进行详细分类处理，而是从先验信息的角度出发来提高反演精度。
+
+本文首先针对 MWHTS 观测亮温建立了基于物理迭代的一维变分反演系统，对中国部分陆地区域晴空条件下的大气温湿廓线进行了反演研究。利用2015年4月和5月两个月的亮温数据进行反演，并分别与ECMWF再分析数据、NCEP分析数据以及RAOB数据进行了对比验证分析，同时也与同类载荷AMSU观测资料的反演精度进行了对比。
+
+# 2 资料与模式
+
+# 2.1MWHTS资料
+
+MWHTS是超外差式接收机的全功率型微波辐射计，8个大气温度探测通道设置在 $1 1 8 . 7 5 \mathrm { G H z }$ 氧气吸收线附近，5个大气湿度探测通道设置在183.31GHz水汽吸收线附近，两个窗区通道分别设置在 $8 9 ~ \mathrm { G H z }$ 和 $1 5 0 \mathrm { G H z }$ 。设置在 $1 1 8 . 7 5 \mathrm { G H z }$ 的这组探测通道是国际上业务卫星首次使用的大气探测通道，与183.31GHz通道联合可以实现大气温湿参数的同时探测。MWHTS扫描宽度约 $2 7 0 0 ~ \mathrm { K m }$ ，星下点空间分辨率约$1 5 \mathrm { K m }$ ，每条扫描线有98个扫描点，每个扫描点均对应一个卫星天顶角，扫描周期2.667秒。另外，关于MWHTS的通道权重函数随高度的分布特性，Bao进行了详细的分析(Bao,2014)。
+
+# 2.2研究资料与模式
+
+本研究中所使用的数据有：（1）FY-3C/MWHTS亮温数据，由中国气象局网站L1数据产品提供，时间为2014年2月到2015年5月；(2)NOAA-18星AMSU-A和AMSU-B亮温数据，由中国气象局网站L1c数据产品提供，时间为2014年2月到2015年5月；(3)ECMWF再分析数据(ERAInterim)，包括温湿廓线以及表面参数。其中温湿廓线从地面到高空共分为37层，包括1000，975，950，925，900，875，850，825，800，775，750，700，650，600，550，500，450,400，350，300，250，225，200，175，150，125，100,70，50，30，20，10，7，5，3，2和 $1 \ \mathrm { h P a }$ ，分辨率是 $0 . 2 5 ^ { \circ } { \times } 0 . 2 5 ^ { \circ }$ ，由ECMWF网站(http://apps.ecmwf.int/datasets)提供，时间为2014年2月到2015年5月；（4)NCEP全球预报系统(GFS）6小时预报数据和分析数据，包括温湿廓线和表面参数，其中温湿廓线从地面到高空共分为26层，包括1000,975，950，925，900，850，800，750，700，650，600,550，500，450，400，350，300，250，200，150，100，70，50，30，20和 $1 0 \mathrm { { h P a } }$ ，分辨率是 $0 . 2 5 ^ { \circ } { \times } 0 . 2 5 ^ { \circ }$ ，由NCEP 网站(http://rda.ucar.edu/datasets/dsO84.1)提供,时间为2015年1月到2015年5月，为了与ECMWF再分析数据的廓线分层相一致，对NCEP廓线进行三次样条内插处理；(5)RAOB 数据，由RAOB 网站(http://www.esrl.noaa.gov/raobs)提供，时间为2015年4月到2015年5月，同时对RAOB数据进行质量控制，温湿探测总的压强层数大于20且最小压强值大于200hPa为有效值，同样使用插值的方法处理成37层。因为本文是针对中国部分陆地区域上空大气参数的反演研究，所以以上数据的地理范围均选择为（20 $( 2 5 ^ { \circ } \mathrm { N } { \sim } 4 5 ^ { \circ } \mathrm { N } , 9 0 ^ { \circ } \mathrm { E } { \sim } 1 2 0 ^ { \circ } \mathrm { E } )$ 。对于模拟亮温的计算，本文使用的是ECMWF发展的快速辐射传输模型(RTTOV v11.2) (Hocking et al, 2014)。
+
+# 2.3晴空数据的选择
+
+关于晴空数据的选择，已有很多文献进行了研究。Karstens等人通过设置相对湿度的门限值来进行晴空的判断，但是水汽参数随时间和空间的变化较大，因此该门限值有一定的主观性，在具体应用时需要根据当地气象条件进行统计分析得到(Karstenset al.,1994)。Ishimoto 等人利用红外云产品与微波亮温数据进行匹配来进行晴空数据的选择，但是该方法对红外云产品的依赖性很大(Ishimoto et al.，2014)。Buehler等人利用微波传感器各个通道之间的亮温数据关系进行云雨数据的选择，但是对薄云区域的亮温数据不能进行有效的判断(Buehleretal.,2007)。本文为了更加准确的描述晴空大气，避免云带来发射、吸收以及散射的影响，根据ECMWF再分析数据中的云水路径为0来选择晴空大气参数，然后与MWHTS和AMSU亮温数据进行时间和空间上的匹配，选择晴空观测数据。
+
+# 3一维变分反演系统
+
+# 3.1一维变分反演算法原理
+
+辐射传输方程是一个非线性方程，大气参数通过对其求逆得到，因此这又是一个欠定的求解过程。一维变分反演算法是物理反演方法中的典型代表，该算法主要包括两部分：一个是计算正演亮温和亮温梯度的辐射传输模型，另一个是用来权衡先验信息和卫星观测亮温对最终解贡献的最小化代价函数。假设观测误差和先验信息误差是无偏和不相关的，并且服从高斯分布，那么大气参数 $x$ 的最优估计可以通过最小化代价函数(Boukabara etal.,2011):
+
+$$
+J = { \frac { 1 } { 2 } } ( x - x ^ { b } ) ^ { \mathrm { T } } B ^ { - 1 } ( x - x ^ { b } ) + { \frac { 1 } { 2 } } [ H ( x ) -
+$$
+
+$$
+\pmb { I } ] ^ { \mathrm { T } } \pmb { R } ^ { - 1 } [ \pmb { H } ( \pmb { x } ) - \pmb { I } ]
+$$
+
+来求解。其中 $x ^ { b }$ 是背景廓线， $\pmb { B }$ 是背景协方差矩阵，$\pmb { R }$ 是测量误差协方差矩阵，包括观测误差协方差矩阵$E$ 和正演误差协方差矩阵 $F$ ， $\boldsymbol { { \cal I } }$ 表示观测亮温， $H ( x )$ 表示对大气参数 $x$ 计算模拟亮温，T表示矩阵的转置。对代价函数求导可得：
+
+$$
+\nabla _ { \boldsymbol { x } } J = \pmb { B } ^ { - 1 } ( \boldsymbol { x } - \boldsymbol { x } ^ { b } ) + \pmb { H } ^ { \mathrm { T } } ( \boldsymbol { x } ) \pmb { R } ^ { - 1 } [ \pmb { H } ( \boldsymbol { x } ) - \pmb { I } ]
+$$
+
+其中， $\pmb { H }$ 为正演亮温的梯度，它表示正演亮温值对大气参数 $x$ 值的变化的灵敏度。通过让式子(2)为零来求得最优解，使用牛顿迭代算法可得：
+
+$$
+x _ { n + 1 } = x ^ { b } + B H ^ { \operatorname { T } } ( x _ { n } ) [ H ( x _ { n } ) B H ^ { \operatorname { T } } ( x _ { n } ) +
+$$
+
+$$
+{ \pmb R } ] ^ { - 1 } [ { \pmb I } - { \pmb H } ( { \pmb x } ) - { \pmb H } ( { \pmb x } _ { n } ) ( { \pmb x } ^ { b } - { \pmb x } _ { n } ) ]
+$$
+
+其中， $n$ 表示迭代的次数， $x _ { n + I }$ 表示式子(2)的最优解，即反演廓线。从式子(3)中可以看出先验信息 $\textbf {  { B } }$ 和 $x ^ { b }$ 以及观测亮温和模拟亮温之间的偏差 $J { - } H ( x _ { n } )$ 对反演精度有直接影响。
+
+# 3.2先验信息
+
+求解欠定的非线性方程，需要在无数个解中寻找最优解，且该解符合实际的物理意义，必须使用先验信息进行限制，它直接决定了解的存在性和精度。背景协方差矩阵 $\textbf {  { B } }$ 使用气候学数据集产生，包括RAOB数据，同化系统的再分析数据等(Rodgers,2000)。本文使用2014年一年内ECMWF再分析数据中晴空条件下的111069条温湿廓线生成 $B$ ，具体公式为
+
+$$
+\sigma _ { i j } ^ { 2 } = \frac { 1 } { N } \underset { i = 1 } { \overset { N } { \sum } } \underset { j = 1 } { \overset { N } { \sum } } ( x _ { i } - \overline { { x _ { i } } } ) \times ( x _ { j } - \overline { { x _ { j } } } )
+$$
+
+其中, ${ \sigma _ { i j } } ^ { 2 }$ 表示背景协方差矩阵中第 $i$ 行第 $j$ 列的元素，$\mathbf { \Pi } _ { \overline { { x } } } ^ { - }$ 表示廓线 $x$ 的均值， $N$ 是所使用的廓线样本数目。当 $x$ 分别表示温度廓线和湿度廓线时，生成的是只能描述温湿廓线各自之间的相关性的协方差矩阵，称为单独矩阵，当 $x$ 同时表示温度廓线和湿度廓线时，生成的是可以描述温湿廓线相互间的相关性的协方差矩阵，称为联合矩阵。这两个矩阵利用相关系数矩阵更加直观的表示，如图1。
+
+![](images/d9159a95d3ef98887195ecccffc5a0605d32bc37cadbb0ba4ea0cfd26441b863.jpg)  
+图1相关系数矩阵   
+Fig.1 Correlation matrix
+
+其中，温湿廓线分层数目1\~37表示从高空到地面的温度廓线的相关系数，38\~74表示从高空到地面的湿度廓线的相关系数。从图1(a)可以看出，温度和湿度在各自层之间具有很强的相关性，但互相之间不存在相关性。而从图1(b)可以发现，温度和湿度除了各自层之间的强相关性外，它们之间互相性很强，特别是在高空时，互相关系数达到了0.8以上。在自然条件下，温度廓线和湿度廓线本身就存在相关性，同时它们对相互之间的探测通道也有辐射贡献。因此使用联合矩阵对温湿廓线进行反演才能更加准确的描述大气的自然变化状态，有助于提高反演精度。但是，在反演过程中这两个参数的不确定性将会带来相互影响，特别是对湿度反演来说，如果不能够提供足够精确的先验温度廓线，那么这将使湿度反演的精度大大减小(Aires etal.,2015)。在前人建立的一维变分反演系统中，都是使用背景协方差矩阵的单独矩阵或联合矩阵，并未有人同时使用二者进行反演研究(Boukabaraet al.,2011；LiJun etal.,200O)。本文针对MWHTS的陆地晴空观测亮温，提出了使用联合矩阵和单独矩阵进行组合反演的方法，即反演温度廓线时，使用联合矩阵，舍弃此次反演得到的湿度廓线，而反演湿度廓线时，使用单独矩阵，舍弃此次反演的温度廓线，两次反演分别得到了大气的温湿廓线参数，这样的话既充分利用了温湿廓线间的相关性，同时又减小反演过程中误差传递带来的影响。
+
+对于背景廓线 $x ^ { b }$ 来说，由式子(3)中可以看出，背景廓线对反演结果有直接影响，其越接近真实廓线，越有利于提高反演精度。 $x ^ { b }$ 可使用的数据源包括：(1)气候学数据集的平均廓线；(2)统计反演的输出廓线；(3)时间和空间上匹配的预报廓线。因为气候数据集的平均廓线只是对该区域历史探测数据求均值，与真实大气状态偏差较大，而当使用统计反演方法的输出廓线时，需要首先进行统计样本的选择以及回归系数的计算，明显增加计算量。因此本文选取NCEP6小时预报廓线作为背景廓线。同时把反演结果与预报廓线的精度进行对比，来说明MWHTS观测资料对数值天气预报同化系统的意义。而对于初始猜想廓线，即式子(3)中 $x _ { 0 }$ 的值来说，需要从概念上与背景廓线进行区分，一个好的初始猜想廓线可以加速迭代过程的收敛，但对反演精度并无影响，本文构建的一维变分反演系统中以背景廓线代替初始猜想廓线。
+
+# 3.3FY-3C/MWHTS通道偏差校正
+
+与海洋表面发射率的计算相比，陆地表面发射率的计算误差较大，从而导致了不同于海洋情况下模拟亮温的系统偏差。该系统偏差直接影响反演精度。本文选择2014年2月到2015年3月14个月的晴空条件下ECMWF再分析数据进行模拟亮温的计算，其中地表发射率使用快速发射率模型版本5(FASTEM-5)进行计算。为了对MWHTS所有扫描点的统计特性进行分析，再分析数据与MWHTS观测亮温的匹配规则设置为时间误差小于2小时，经纬度误差分别小于 $0 . 0 5 ^ { \circ }$ 共得到了超过十万个匹配对。通过对模拟亮温和观测亮温进行统计分析发现大部分通道具有线性统计关系，计算每个通道中模拟亮温和观测亮温的相关系数，其随扫描点的变化如图2所示。
+
+从图2可知，窗区通道1和10的模拟亮温受地表发射率计算误差的影响与观测亮温之间的误差较大，其大部分扫描点的相关系数较低，都在0.85以下。通道2的相关系数在所有扫描点处均较低，保持在0.75以下，这可能与在高空ECMWF再分析数据的温度廓线精度不够高有关。对于其余温度通道来说，通道4、5、6、7具有较高的相关系数，均保持在0.95附近，而通道3、8、9相关系数稍低，但大部分扫描点处均保持在0.90以上。湿度通道的相关系数均高于0.80，随卫星天顶角有较大的变化，大的卫星天顶角时均保持在0.90附近，而小的卫星天顶角时保持在0.8附近。总体来说，每个通道的相关系数都随扫描点有一定的起伏，除了数据时空匹配带来的误差外，这是采用交轨扫描方式的传感器所获得观测数据的特点，该扫描方式获得的观测数据往往对卫星天顶角具有依赖性。MWHTS十五个通道的模拟亮温和观测亮温的平均偏差随卫星天顶角的分布如图3所示。
+
+![](images/4b33597da5c3beba42ccc3c52d7ad2576f0b9847cda81efb6750cfc09a9823f9.jpg)  
+图2观测亮温和模拟亮温的相关系数  
+Fig.2 The correlation between observed and simulated brightness temperature   
+图3MWHTS通道亮温偏差对扫描角的依赖性 Fig.3 Scan-angle dependence of MWHTS brightness temperatures bias
+
+(）/ 50 通道1 / -2 ）/ 0   
+050 -4 通道2 24 通道3 6 0 50 100亮 0 50 100亮 0 50 100 扫描点 扫描点 扫描点   
+(）/ 024 通道4 / 20 通道5 （）/ 024 2 通道6   
+亮 0 50 100亮 0 50 100亮 0 50 100 扫描点 扫描点 扫描点   
+(）/ 50 通道7 （）/ 50 通道8 （)/） 10 通道9   
+-5 -5 温-10   
+亮 0 50 100亮 0 50 100亮 0 50 100 扫描点 扫描点 扫描点 通道10 ）/ 10 /u 通道11 通道12   
+-20 温 -1 温4   
+亮 0 50 100亮 0 50 100亮 0 50 100 扫描点 扫描点 扫描点   
+）/美 2 通道13 ）/ 50 新1 通道15   
+温 -2 温 5 通道14 -10   
+亮 0 50 100亮 0 50 100亮 0 50 100 扫描点 扫描点 扫描点
+
+从图3中可以看出，每个通道平均亮温偏差对卫星天顶角都有一定的依赖性，特别是窗区通道，产生了较大的偏差且随天顶角变化很大。对于温度通道来说，通道2、3、4、5、6的平均亮温偏差随天顶角起伏不大，但是通道7、8、9这三个通道起伏趋势明显。对于湿度通道来说，通道11、12、13平均亮温偏差随天顶角变化趋势不大，但通道14和15起伏趋势较为明显。在物理反演系统中，对于系统偏差进行校正尤为重要，否则可能会导致迭代的不收敛或者是得到错误的反演结果。本文从统计学的角度提出了逐扫描点统计回归校正方法对MWHTS各个通道的观测亮温进行偏差校正。为了充分利用MWHTS观测数据，对模拟亮温和观测亮温的相关系数大于0.80的扫描点进行偏差校正，表达式为(Lietal.,2000):
+
+$$
+\boldsymbol { T _ { i j } ^ { * } } = \boldsymbol { a _ { i j } } \boldsymbol { T _ { i j } } + \boldsymbol { b _ { i j } }
+$$
+
+其中， ${ T _ { i j } } ^ { * }$ 是校正亮温， $T _ { i j }$ 是未校正亮温， $a _ { i j }$ 是斜率，$b _ { i j }$ 是截距。其中 $i$ 表示MWHTS的通道，取值范围为1\~15。 $j$ 表示扫描点，取值范围是1\~98。
+
+另外，在不考虑MWHTS各通道之间相关性的情况下可以使用矩阵 $\pmb { R }$ 的对角元素作为测量误差协方差矩阵。利用各个通道校正后的亮温与模拟亮温之间的偏差求平方得到正演误差协方差矩阵 $E$ 的对角元素，而对于观测误差协方差矩阵 $F$ 的对角元素来说，使用通道的灵敏度的平方值来产生(Ishimoto etal.,2014)，本文使用的是Bao对FY-3C/MWHTS在轨运行数据所计算灵敏度的平均值(Bao，2014)。其中正演误差和通道灵敏度的取值如表1所示。
+
+表1正演误差与通道灵敏度  
+Table1 The forward model error and channel sensitivity   
+
+<html><body><table><tr><td>通道</td><td>正演误差/K</td><td>通道灵敏度/K</td><td>通道</td><td>正演误差/K</td><td>通道灵敏度/K</td></tr><tr><td>1</td><td>8.30</td><td>0.23</td><td>9</td><td>2.36</td><td>0.27</td></tr><tr><td>2</td><td>2.39</td><td>1.62</td><td>10</td><td>4.02</td><td>0.34</td></tr><tr><td>3</td><td>0.93</td><td>0.74</td><td>11</td><td>1.50</td><td>0.47</td></tr><tr><td>4</td><td>0.82</td><td>0.59</td><td>12</td><td>1.06</td><td>0.34</td></tr><tr><td>5</td><td>0.85</td><td>0.65</td><td>13</td><td>2.89</td><td>0.30</td></tr><tr><td>6</td><td>1.06</td><td>0.52</td><td>14</td><td>1.66</td><td>0.22</td></tr><tr><td>7</td><td>1.22</td><td>0.49</td><td>15</td><td>1.54</td><td>0.27</td></tr><tr><td>8</td><td>2.12</td><td>0.27</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3.4质量控制
+
+本文通过设置迭代收敛标准和观测亮温质量控制标准来对反演结果进行质量控制。选择的迭代收敛标准是当代价函数值的相对变化范围在0.01内时迭代停止，且最大迭代次数为10，由于超过10导致的迭代停止，背景廓线即为反演廓线。利用背景廓线的模拟亮温与观测亮温的差值对输入的背景廓线和观测亮温进行质量控制，如果任一通道的差值大于 $2 0 \mathrm { K }$ ，舍弃该组亮温数据。
+
+# 4温湿廓线反演与验证
+
+# 4.1反演步骤
+
+本文建立的一维变分反演系统反演的基本步骤包括：
+
+1）对FY-3C/MWHTS进行晴空条件下亮温数据的选择，利用逐扫描点统计回归的校正方法并进行偏差校正。
+
+2）用校正过的亮温数据与ECMWF再分析数据、NCEP预报数据和分析数据、RAOB 数据进行空间和时间上的匹配。其中，MWHTS亮温数据与ECMWF再分析数据、NCEP预报数据以及分析数据的匹配规则均采用时间误差小于0.5小时，经纬度误差分别小于 $0 . 0 5 ^ { \circ }$ 。而与RAOB数据的匹配规则是时间误差小于3小时，经纬度误差分别小于 $1 ^ { \circ }$ 。
+
+3）把匹配到的NCEP6小时预报廓线作为背景廓线、第3节建立的测量误差协方差矩阵 $\pmb { R }$ 和背景协方差矩阵 $\pmb { B }$ 的单独矩阵和联合矩阵输入到一维变分反演系统。
+
+4）利用校正的晴空亮温分别使用背景协方差矩阵的单独矩阵和联合矩阵进行反演计算，取使用联合矩阵反演的温度廓线和使用单独矩阵反演的湿度廓线，得到反演结果，并利用匹配到的ECMWF再分析数据、NCEP分析数据和RAOB数据对反演结果进行精度验证分析。
+
+本文选择2015年4月到2015年5月两个月的FY-3C/MWHTS陆地晴空亮温数据进行反演计算。
+
+# 4.2逐扫描点统计回归偏差校正效果
+
+为了对全部扫描点进行偏差校正结果的分析，FY-3C/MWHTS晴空亮温与ECMWF再分析数据按照时间误差小于2小时，经纬度误差分别小于 $0 . 0 5 ^ { \circ }$ 的匹配规则，一共得到10078个匹配对。对匹配对中的亮温进行偏差校正，如图4所示。
+
+24 （/ 2   
+。 wWwwwMv 0 MLW 通道3 通道1 通道2   
+亮-20 50 100亮 6 50 100克 -2 50 100 扫描点 扫描点 扫描点   
+/ 5 （）/ 1 （）/ 5   
+0 通道4 0 wwwyUUbw 0 通道6   
+-5 0 50 100亮 温 -1 0 通道5 50 100亮 -5 0 50 100 扫描点 扫描点 扫描点   
+（）/ 5 ）/ 5 0   
+。 0   
+亮 -5 0 通道7 100亮 5 通道8 100-10 通道9 100 扫描点 扫描点 扫描点   
+/ 20 通道10 ）/ 2 通道11 （/ 5 通道12   
+020 2 wW3 05 0 50 100亮 0 50 100克 0 50 100 扫描点 扫描点 扫描点   
+/ 20 通道13 / 50 (）/ 50 通道15   
+2 0 50 100亮 -5 0 50 通道14 100克 -5 0 50 100 扫描点 扫描点 扫描点 ：校正前的平均亮温差； 校正后的平均亮温差
+
+从图4可以看出窗区通道1和10只有部分扫描点进行了偏差校正，通道2由于相关系数低而未进行偏差校正。对于其余温度通道来说，校正效果比较明显，但是通道7、8、9在个别扫描点处仍然存在较大的偏差。对于湿度通道来说，通道12、14、15校正效果较好，通道11在天底点处校正效果不好，通道13在大的天顶角处的校正效果较好，而在小的天顶角处校正效果不理想。总的来说，逐扫描点统计回归校正方法的校正效果受通道模拟亮温和观测亮温之间的相关系数的影响，因此在实际应用中也有一定的局限性。
+
+# 4.3反演结果的验证分析
+
+根据FY-3C/MWHTS通道权重函数特性分析(Bao，2014)，选取温度反演廓线的压强范围是10\~1000hPa。湿度反演廓线的压强范围是 $2 5 0 { \sim } 1 0 0 0 \ \mathrm { h P a }$ 。本文用平均偏差和均方根误差作为对反演结果统计验证的定量标准(Mathur etal.,2013)。
+
+# 4.3.1背景协方差矩阵对反演结果的影响
+
+分别使用背景协方差矩阵的联合矩阵和单独矩阵对10078个匹配对中的校正亮温进行反演，其中有595组亮温与背景廓线模拟亮温的偏差超过 $2 0 \mathrm { K }$ 而舍弃，得到9483组温湿廓线。并利用ECMWF再分析数据对反演结果进行统计特性验证分析，如图5所示。
+
+从图5(a)中可以看出，无论使用单独矩阵还是联合矩阵，温度反演廓线的平均偏差均保持在 $0 . 9 { \mathrm { ~ K ~ } }$ 之内，均方根误差在接近地面处最大，达到 $3 . 9 \mathrm { K }$ 。使用联合矩阵的反演结果在 $3 0 0 { \sim } 1 0 0 0 \mathrm { h P a }$ 范围内，精度高于使用单独矩阵的反演结果，但是在 $2 0 0 { \sim } 3 0 0 \ \mathrm { h P a }$ 范围，使用单独矩阵高于联合矩阵。从图5(b)中可以看出使用不同矩阵的湿度反演廓线的平均偏差基本上保持在$10 \%$ 以内，均方根误差保持在 $17 \%$ 以内，而使用单独矩阵进行反演的精度在各个压强处均高于联合矩阵，特别是在近地层，精度有 $4 . 3 \%$ 的提高。因此本文提出的单独矩阵和联合矩阵的组合反演方法可以提高反演精度，尤其是湿度反演，对在接近地面处的反演精度有很大提高。
+
+图4通道的亮温偏差校正结果  
+图5背景协方差矩阵对反演结果的影响  
+![](images/6350518906f38d0d4bd9e1c71f7f98dbe6907f50bb256c52be0d0b3c43173694.jpg)  
+Fig.4 The correction of brightness temperatures bias
+
+Fig.5 The effect of background covariance matrix on inversion results
+
+# 4.3.2反演结果的验证分析
+
+利用地理坐标点 $( 9 0 . 5 4 ^ { \circ } \mathrm { E } , 4 3 . 0 3 ^ { \circ } \mathrm { N } )$ 的 2015年4月26号05:45UTC亮温单点反演结果和地理坐标点$\langle 9 0 . 5 0 ^ { \circ } \mathrm { E } , 4 3 . 0 0 ^ { \circ } \mathrm { N } \rangle$ 的2015年4月26号06:00UTC的ECMWFERAInterim廓线对比如图6所示。
+
+从图6可以看出，反演的温湿廓线与ECMWF温湿廓线在结构上一致性较高，ECMWF温湿廓线结构上小的变化，反演廓线也可以进行很好的描述。同时可以发现温湿廓线的反演偏差和背景偏差在结构上随压强有相同的变化，因此背景偏差可能是反演误差的一个来源。
+
+另外，时间匹配误差直接影响反演精度的验证，因此把时间匹配误差缩小为0.5小时，得到105组亮温数据，使用ECMWF再分析数据对反演结果进行验证分析。利用0.5小时匹配误差的未校正亮温和校正亮温进行反演，其中分别有9组和1组的观测亮温和背景廓线的模拟亮温的偏差超过了 $2 0 \mathrm { K }$ ，因此分别得到了96和104组反演结果，统计特性分析如图7所示。
+
+![](images/94ea7738edf4bfd7b7588298d84b92a5363343c9de16ad8cfc7fb857a2483208.jpg)  
+图6单点反演结果  
+Fig.7 The mean difference and root mean square difference of inversion profiles
+
+![](images/ce425aa9602bab127c06415fdd4467409c71744d3e4668d022a15b4353504298.jpg)  
+Fig.6 The single inversion result
+
+![](images/ceb77a5aa010770809025672c3c62c902fe947dd622611be796d2322b790db24.jpg)  
+图7反演廓线的平均偏差和均方根误差
+
+从图7(a)中可以看出，偏差校正后的温度平均偏差相比校正前有了很大的减小，最大处可减小 $2 \mathrm { ~ K ~ }$ 。反演均方根误差在 $5 0 0 { \sim } 6 0 0 \ \mathrm { h P a }$ 范围，相比校正前约有 $0 . 1 \mathrm { ~ K ~ }$ 的增大，这与温度探测通道7、8、9的校正效果有直接的关系。在 $1 0 0 0 \mathrm { { h P a } }$ 附近校正前后的反演精度相当，这很大程度上是因为窗区通道的校正效果不理想导致的，而在其他压强处校正后的反演精度相比校正前均有提高，其中，最大均方根误差为 $2 . 5 9 \mathrm { K }$ 。从图7(b)中可以看出，偏差校正后的平均偏差相比校正前均有减小，虽然通道11和13的偏差校正效果不理想，但是均方根误差在湿度探测通道起主要贡献作用的 $4 0 0 { \sim } 7 5 0 \ \mathrm { h P a }$ 范围有明显的减小。而在250\~400hPa范围，偏差校正对湿度反演精度基本上没有影响，其中，最大均方根误差为 $1 1 . 8 7 \%$ 。
+
+通过单点反演结果的对比分析以及104组反演结果的统计验证分析可以发现，背景廓线的误差与反演廓线的误差总体趋势一致性较高，因此可以判断背景廓线的精度对反演精度有很大的影响。
+
+# 4.3.3与NCEP分析数据和RAOB数据的验证分析
+
+为了保证反演结果的可靠性，分别与NCEP分析数据和RAOB数据进行精度验证分析，根据4.1节中反演步骤的匹配规则，分别得到了104和1068组反演结果，验证结果如图8所示。
+
+从图8可以看出，对于NCEP分析数据的验证结果来说，温度平均偏差与ECMWF再分析数据的验证结果相当。而温度均方根误差在近地层达到最大值$1 . 8 8 \mathrm { K }$ ，其中在 $8 0 0 { \sim } 1 0 0 0 \mathrm { h P a }$ 范围小于ECMWF再分析数据的验证结果，而在其余压强处二者的验证精度相当。湿度平均偏差比ECMWF再分析数据的验证结果明显增大，而湿度均方根误差在 $2 5 0 \ \mathrm { h P a }$ 处达到最大值 $2 1 . 5 0 \%$ ，在 $3 5 0 { \sim } 1 0 0 0 \ \mathrm { h P a }$ 范围均保持在 $1 6 \%$ 以内，其中在 $2 5 0 { \sim } 5 0 0 \ \mathrm { h P a }$ 范围内的湿度均方根误差大于ECMWF再分析数据的验证结果。
+
+对于RAOB数据的验证结果来说，无论温度廓线还是湿度廓线，反演精度比其他两个数据集的验证结果都差。反演温度廓线的精度在接近地面的压强范围内最差，为3.43K， $6 0 0 { \sim } 8 0 0 \mathrm { h P a }$ 范围内的精度保持在
+
+$2 { \sim } 3 \mathrm { ~ K ~ }$ 之间，其余压强处精度保持在 $1 { \sim } 2 \mathrm { K }$ 。湿度廓线的反演精度在 $8 5 0 \mathrm { { h P a } }$ 附近最差，为 $2 5 . 4 8 \%$ 。时间匹配误差可能是导致与RAOB数据验证精度较差的重要原因。另外陆地表面类型非常复杂， $1 ^ { \circ }$ 的经纬度误差很有可能导致地表发射率很大的计算误差，因此空间匹配误差也可能是一个重要的误差来源。
+
+图8反演廓线与NCEP和RAOB数据验证结果 Fig.8 The inversion results compared with NCEP and RAOB profiles   
+![](images/9fc09957c5d883b25aca647687d1170e127e80d1f219f73831facee5b6849cb4.jpg)  
+Fig.9 The inversion profiles compared with NCEP forecast:
+
+# 4.3.4与NCEP预报廓线的精度对比
+
+为了说明MWHTS观测资料对数值天气预报同化系统的重要意义，把本文构建的反演系统的反演结果与 NCEP6小时预报廓线的精度进行对比。考虑到NCEPGFS数据资料的存档时间是2015年1月，因此利用2015年1月到3月的晴空NCEP分析数据，取代原系统中的ECMWF再分析数据作为先验信息，重新生成背景协方差矩阵 $\textbf {  { B } }$ ，正演误差协方差矩阵 $E$ =以及逐扫描点偏差校正方法的校正系数，生成方法不变。而背景廓线仍然选择NCEP6小时预报廓线。以NCEP分析资料为基准验证2015年4月到5月的MWHTS亮温反演结果。MWHTS亮温与NCEP分析数据以及6小时预报数据仍然采用0.5小时的时间误差， $0 . 0 5 ^ { \circ }$ 的经纬度误差进行匹配，按照4.1节的反演步骤，共得到102组反演结果，与背景廓线，即NCEP6小时预报廓线的精度对比，如图9所示。
+
+![](images/e60abaf58dce41b99463d438408015538787416ab968a5e18bd50007c4172736.jpg)  
+图9反演廓线与NCEP预报廓线的对比
+
+从图9(a)中可以看出反演廓线的温度平均偏差只在 $2 0 0 ~ \mathrm { { h P a } }$ 附近小于预报廓线的平均偏差，温度均方根误差只在温度探测通道4、5起主要贡献作用的$1 7 0 { \sim } 2 3 0 \ \mathrm { h P a }$ 范围比背景廓线的精度高，而在其他压强范围，精度均比预报廓线的精度差。对于湿度反演结果来说，从图9(b)中可以看出，反演后的湿度平均偏差比背景廓线的平均偏差有很大的减小，最大处可减小约 $1 5 \%$ ，在湿度探测通道起主要贡献作用的$2 5 0 { \sim } 7 5 0 \ \mathrm { h P a }$ 的压强范围，湿度反演结果对预报廓线的精度有很大的提高，最大可提高 $1 8 \%$ 。通过以上分析可知，本文针对FY-3C/MWHTS陆地晴空条件下的观测亮温所建立的一维变分系统，温度反演精度对预报廓线的精度改善不大，而湿度反演结果对改善预报廓线精度有很大帮助，从而说明了MWHTS观测资料的应用价值以及对数值天气预报同化系统有重要意义。
+
+# 4.3.5与AMSU资料的反演结果的验证分析
+
+AMSU的通道设置的功能与MWHTS相似，同样具有对大气温湿廓线反演的能力，其观测资料已业务化应用。选择与本文使用MWHTS观测资料的地理范围和时间范围都相同的 NOAA-18 星 AMSU-A 和AMSU-B陆地观测资料按照4.1节的反演步骤进行反演，通过反演结果对背景廓线精度的改善作用，来进一步评估MWHTS观测资料。其中，为了同时验证背景廓线对反演精度的影响，选取2014年ECMWFERAInterim再分析数据集的平均廓线取代NCEP6小时预报廓线作为背景廓线，针对MWHTS、AMSU-A和B的亮温数据反演分别得到了90、93和484组反演结果，利用ECMWF再分析数据对反演结果进行验证，如图10所示。
+
+![](images/95b3a326302b36627ea9846a4ce877e215238017a842f5ed65fc883c4c84e30b.jpg)  
+图10与AMSU观测资料的反演结果对比 Fig.10 Comparison of inversion results of MwHTS and AMSl
+
+与图7相比，从图10中可以看出，当使用气候学数据集的平均廓线作为背景廓线时，背景廓线的均方根误差增大，导致了温湿廓线的反演精度有明显的下降。因此进一步说明了在本文构建的反演系统中，背景廓线的选择对反演精度的重要影响。在图10中，使用MWHTS观测资料的温度廓线反演精度在10\~200hPa范围，对背景廓线的精度提高幅度明显优于AMSU-A的观测资料，而在其余压强范围，不如AMSU-A观测资料的反演结果对背景廓线的改善作用。对于湿度反演的均方根误差来说，MWHTS和AMSU-B的观测资料在 $7 5 0 { \sim } 1 0 0 0 \mathrm { h P a }$ 和 $4 5 0 \mathrm { { h P a } }$ 附近范围对背景廓线的精度改善作用相当，而在其余压强范围MWHTS观测资料对背景廓线精度的提高幅度高于AMSU-B观测资料。
+
+另外，分别选择基于AMSU-A和AMSU-B陆地晴空观测资料的神经网络反演和物理反演结果与本文的反演结果进行对比。其中统计反演方法选择神经网络反演(Karbouetal.,2005)，物理反演方法选择MIRS反演系统(Boukabaraetal.，2011)，这两个方法与本文的最大区别在于都对地表进行了分类处理，其中这两个方法所使用的AMSU-A和AMSU-B的观测资料分别来自NOAA-15和NOAA-18。反演结果的对比均选择与RAOB数据的验证精度，温度反演的均方根误差在 $1 0 0 \mathrm { { h P a } }$ ， $3 0 0 \mathrm { { h P a } }$ 、 $5 0 0 \mathrm { { h P a } }$ ， $8 0 0 \mathrm { { h P a } }$ 和 $9 5 0 \mathrm { { h P a } }$ 处进行对比，湿度反演的均方根误差在 $3 0 0 \ \mathrm { h P a }$ 、500hPa、 $8 0 0 ~ \mathrm { { h P a } }$ 和 $9 5 0 \ \mathrm { h P a }$ 处进行对比，如表2和表3所示。
+
+# 表2温度反演的均方根误差对比
+
+Table 2 Comparision of root mean square difference for the
+
+temperature   
+表3湿度反演的均方根误差对比  
+
+<html><body><table><tr><td>压强/hPa</td><td>100</td><td>300</td><td>500</td><td>800</td><td>950</td></tr><tr><td>本文/K</td><td>1.78</td><td>1.47</td><td>1.96</td><td>2.59</td><td>3.09</td></tr><tr><td>神经网络/K</td><td>1.82</td><td>2.41</td><td>4.08</td><td>4.10</td><td>3.68</td></tr><tr><td>MIRS系统/K</td><td>2.10</td><td>1.80</td><td>1.80</td><td>2.80</td><td>3.10</td></tr></table></body></html>
+
+Table 3 Comparision of root mean square difference for the humidity   
+
+<html><body><table><tr><td colspan="5">humidity</td></tr><tr><td>压强/hPa</td><td>300</td><td>500</td><td>800</td><td>950</td></tr><tr><td>本文/(%)</td><td>23.83</td><td>21.89</td><td>22.78</td><td>18.26</td></tr><tr><td>神经网络(%)</td><td>17.33</td><td>17.31</td><td>20.03</td><td>24.05</td></tr><tr><td>MIRS系统/(%)</td><td>83.00</td><td>60.00</td><td>41.00</td><td>30.00</td></tr></table></body></html>
+
+从表2中可以看出，本文的温度反演精度在高空范围明显高于神经网络方法和MIRS反演系统对AMSU观测亮温的反演结果，在低空范围与MIRS反演的精度相当，而高于神经网络方法的反演精度。从表3中可以看出，在低空范围本文的湿度反演精度好于神经网络方法，而在高空范围，不如神经网络反演方法的反演精度。然而MIRS反演系统的湿度反演精度较差，但是该反演系统在云雨天气条件下对温湿廓线的反演能力是本文构建的反演系统所不具备的。通过对比可以发现，虽然本文构建的反演系统为了减少计算的复杂性，在计算地表发射率时并未进行详细的分类处理，但是针对MWHTS晴空观测资料的反演具有较高精度。
+
+# 5结论
+
+本文建立了基于MWHTS观测亮温的一维变分反演系统对晴空条件下的陆地上空大气温湿廓线进行反演。针对地表发射率计算复杂性高且精度较差的问题，本文从先验信息的角度出发，在反演过程中首次提出了背景协方差矩阵的联合矩阵和单独矩阵对温湿廓线进行组合反演的方法，有效的减小了反演过程的复杂性，且反演性能优于根据地表类型进行分类计算的反演方法。对反演结果利用多个数据源进行反演精度的验证，证明了结果的可靠性。
+
+利用本文所构建的反演系统分别对MWHTS和AMSU的亮温数据进行反演，对于温度反演来说，MWHTS的反演精度在 $1 0 { \sim } 2 0 0 \ \mathrm { h P a }$ 的高空范围优于AMSU的反演结果，而对于湿度反演来说，MWHTS在除了 $7 5 0 { \sim } 1 0 0 0 \mathrm { h P a }$ 和 $4 5 0 \mathrm { { h P a } }$ 附近范围与AMSU具有相当的反演精度外，其他压强范围均优于AMSU的反演性能。反演结果的对比表明MWHTS在高空范围具有有较强的温度探测能力，而在整个压强范围具有较强的水汽探测能力。从而也证明了MWHTS观测资料具有较高的质量。同时，MWHTS观测资料的反演结果对NCEP6小时预报廓线精度的改善作用表明了MWHTS观测资料对数值天气预报同化系统具有重要的意义。
+
+然而，在与各个数据源进行精度验证时发现，背景廓线的误差与反演误差的分布一致性较高，是影响反演精度的重要误差来源，为了进一步提高系统的反演精度，寻找高精度的背景廓线数据源是下一步的工作方向，同时模拟亮温与观测亮温之间的偏差校正效果对反演精度具有重要的影响，因此偏差校正方法的优化也是下一步的工作重点。
+
+# REFERENCES
+
+Aires F,Prigent C and Orlandi E.2O15.Microwave hyper-spectral measurements for temperature and humidity atmospheric profiling from satellite: the clear-sky case.Journal of Geophysical Research, 120(21):11334-11151[DOI:10.1002/2015JD023331]   
+Araki K,Murakami M,Ishimoto H and Tajiri T.2O15.Ground-based microwave radiometer variational analysis during no-rain and rain conditions. SOLA,11: 108-112 [DOI: 10.2151/sola.2015-026]   
+Bao JH.2O14. The principle of FY-3C satellite microwave humidity and temperature sounder and preliminary analysis on its in-orbit performance.Beijing: Chinese Academy of Sciences: 41-48(鲍靖 华.2014.FY-3C卫星微波湿温探测仪原理及在轨性能初步分 析．北京：中国科学院国家空间科学中心:41-48)   
+Boukabara S A,Garrett K and Chen W, Iturbide-Sanchez F,Grassoti C, KongoliC,ChenR,Liu Q,YanB,WengF,FerraroR,Kleespies T J and Meng H.2011.MIRS:An All-Weather 1DVAR Satellite Data Assimilation and Retrieval System. IEEE Transactions on Geoscience and Remote Sensing，49(9):3311-3333 [DOI: 10. 1109/TGRS.2011.2158438]   
+Buehler S A,Kuvatov M,Sreerekha T R,John V O,Rrdberg B, Eriksson P and Notholt J.2OO7.A cloud filtering method for microwaveuppertropospherichumiditymeasurements. Atmospheric Chemistry and Physics,7(21): 5531-5542   
+Chan W S and Lee JC W.2O15.Vertical profile retrievals with warm-rain microphysics using the ground-based microwave radiometer operated by the Hong Kong observatory.Atmosphere Research,161:125-133 [DOI: 10.1016/j.atm0sres.2015.04.007]   
+Gangwar R K,Mathur A K,Gohil B S and Basu S.2O14.Neural network based retrieval of atmospheric temperature profile using AMSU-A observations.International Journal of Atmospheric Sciences,2014:1-8 [DOI:10.1155/2014/763060]   
+Guo Y,Lu N M,QiCL,Gu SY and Xu JM.2015.Calibration and validation of microwave humidity and temperature sounder onboard FY-3C satellite.Chinese Journal of Geophysics,58(1): 20-31(郭杨，卢乃锰，漆成莉，谷松岩，许建民．2015．风云三 号C 星微波湿温探测仪的定标和验证.地球物理学报，58(1): 20-31) [DOI: 10.6038/cjg20150103]   
+Hocking J, Rayer P,Rundle D, Saunders R,Matricardi M, Geer Alan, Brunel P and Meteofrance J V.2013.RTTOV vll users guid, NWP -SAF report, Met Office, UK: 4-17.   
+Ishimoto H，Okamoto K，Okamoto H and Sato K.2014. One-dimensional variational (1D-Var) retrieval of middle to upper tropospheric humidity using AIRS radiance data.Journal of Geophysical Research: Atmospheres,119(12): 7633-7654 [DOI: 10.1002/2014JD021706]   
+Karbou F，Aires F and Prigent C.2Oo5.Potential of Advanced MicrowaveSoundingUnit-A(AMSU-A） andAMSU-B measurements for atmospheric temperature and humidity profiling over land. Journal of Geophysical Research,110(D7):1-16 [DOI: 10.1029/2014JD005318]   
+Karstens U, Simmer C and Ruprecht E.1994. Remote sensing of cloud liquid water. Meteorology and Atmospheric Physics,54(1): 157-171[DOI: 10.1007/BF01030057]   
+Li J, Wolf W W,W. Menzel WP, Zhang W,Huang HL and Achtor TH. 2000.Global sounding of the atmosphere from ATOVS measurements:the algorithm and validation. Journal of Applied Meteorol0gy,39(8):1248-1268[DOI:10.1175/1520-0450(2000)039 <1248: GSOTAF>2. 0. CO; 2]   
+Mathur AK,Gangwar R K,Gohil B S,Deb SK,KumarP, Shukla M V, Simon S B and PalP K.2O13.Humidity profile retrieval from SAPHIR on-board the Megha-Tropiques. Current Science, 104(12): 1650-1655   
+Rodgers C D.2Ooo.Inverse methods for atmospheric sounding: theory and practice. Singapore ,World Scientific: 65-70   
+Wang X,Song G Q，Yao ZY and Li W B.2010.Retrieving atmospheric water vapor profiles in the north-west Pacific using AMSU measurements.Acta Scientiarum Naturalium Universitatis Pekinensis,46(1):69-78(王曦，宋国琼，姚展予，李万彪.2010. 用 AMSU 资料反演西北太平洋海域大气湿度廓线的研究．北 京大学学报(自然科学版)，46(1):69-78)[DOI:10.13209/j. 0479-8032.2010. 011]   
+Zavodsky B T, Shinh-Hung Chou and Jedlovec G J. 2012. Improved regional analysesand heavyprecipitation forecastswith assimilationofatmosphericinfraredsounderretrieved thermodynamic profiles.IEEE Transactions on Geoscience and Remote Sensing，50(11): 4243-4251
+
+# Retrieval of clear sky temperature and humidity profiles over land using measurements of FY-3C/MWHTS
+
+HE Qiurui1,2，WANG Zhenzhan1，HE Jieying1
+
+.KeyLaboratorofcrowaveRmotesing,tonalaceienceCenternsecadeofienceseiinga;. University of Chinese Academy of Sciences,Beijing,lOoo49,China
+
+Obiective: The land surface emissivity has great efect on the atmospheric temperature and humidity sounding from space.Since the complication of land surface,the calculated emissivity is generally with low accuracy.In order to improve retrieval accuracy and reduce the computation complexity in retrieving atmospheric temperature and humidityprofilesoverland inclearsky,anone-dimensional variationalretrieval system was built using measurements of microwave humidity and temperature sounder onboard the Fengyun-3C satellite (FY-3C/MWHTS).
+
+Method:Byanalyzing the priori information aecting the acuracyof inversion,Ahybrid retrieval approach based on united matrix and individual matrix of background covariance isproposed.The method establisheda better corelation relationship between temperature and humidity profiles,reduce the eror propagation of the retrieval temperatureand humidity,and avoid the complicated land emissivitycalculations according todiferent surface types. In addition,basedon the correlation between the observed values from FY-3C/MWHTS and those simulated by the forward radiative transfer model,a statistical regression method isadapt in pixel by pixel correction procedure to correct the bias between the observed values and those simulated values.
+
+Result: This retrieval system retrieves temperature and humidity profiles over a part of China'land in clear sky and validates the retrieval results with respect to the European Centre for Medium Range Weather Rorecasts(ECMWF) reanalysisdata，National CentersforEnvironmentalPrediction(NCEP）analysisdataand Radiosonde Observation(RAOB) data,respectively. With respect to the ECMWF reanalyse data, the maximum root mean square errors of the resulted temperature and relative humidity are $2 . 5 9 \mathrm { K }$ and $1 1 . 8 7 \%$ respectively. With respect to the NCEP analyse data,the maximum root mean square errors of the resulted temperature and relative humidity are $1 . 8 8 \mathrm { K }$ and $2 1 . 5 0 \%$ ，respectively.With respect to the RAOB data, the maximum root mean square errors of the resulted temperature and relative humidity are 3.43K and $2 5 . 4 8 \%$ ,respectively. Comparison of the retrieval results with those of measurements of AMSU using the physical retrieval method and statistical retrieval method showthat the MWHTS has higher accuracy. Comparison of the retrieval results with NCEP6hour forecast profiles show thatthe retrieval humidity profiles can improve the accuracy of forecast profiles,the retrieval temperature profiles can improve the accuracy of forecast profiles in the upper atmosphere.
+
+Conclusion: The proposed hybird approach using united matrix and individual matrix of background covariance can get satisfactoryretrieval accuracy,although the land emisivityis calculated withoutclassing the surface types inthe retrieval system built in this paper.The retrieval system whose retrieval results are evaluated by root mean square errors with respect to three data sources has high acuracyand high reliability. Comparison ofthe retrieval results with those of measurements of AMSU suggests that MWHTS has a greater ability to probe the temperature in the upper atmosphere and humidity inthe entire atmosphere.Comparison of the retrieval results with NCEP 6 hour forecast profiles suggests that MWHTS can get high-quality data for sounding atmosphere and is great importance to the numerical weather prediction radiance assimilation.
+
+Keywords:microwave humidity and temperature sounder(MWHTS)，one-dimensional variational retrieval, temperature and humidity profiles,pixel by pixel correction,forecast profiles
+
+CLC number: TP701 Document code: A

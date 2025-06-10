@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "SRF-PLL环内应用二阶广义积分器的不平衡电压锁相方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢门喜　朱灿焰杨勇（苏州大学智能结构与系统研究所苏州 215131 )",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2424de4825c5870857b682230f8102b4de1b933fc4a5ae4dd8a25f97b9fbbf52.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢门喜男 1984年生，硕士，研究方向为并网同步技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：并网型电力电子变流设备需要精确实时检测电网电压的相位以实现同步。同步旋转变换锁相方法，若三相电网电压不平衡，经Park 变换后，d轴、q轴分量存在二倍频扰动，引起相位偏差信息不准确，导致正序分量相位检测值存在稳态误差。本文分析了二阶广义积分器的带通特性、参数选取原则及数字化实现方式，将其应用于锁相环内进行二倍频检波，通过去耦间接分离出鉴相器中的直流分量，同时衰减其他高次谐波成分。此外，综合系统的动态性和抗扰性，给出了s域下基于二阶最优的环路滤波器参数设计流程。Matlab/Simulink数字仿真结果表明，电网电压不平衡时，相位检测稳态误差为零。最后，实验平台采用TMS320F28335控制器实现算法，测试波形验证了该方法的实际可行性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：锁相环不平衡电压二阶广义积分器检波数字信号处理器中图分类号：TM764",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SRF-PLL with In-Loop Second Order Generalized Integrator for Unbalanced Three-Phase Systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f82a8ff98a6257dd3e9b9b54c0320c56f50a8fb869f98048f123675405c39531.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xie Menxi Zhu Canyan Yang yong (Institute of Intelligent Structure and Systems Soochow University Suzhou 215131 China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱灿焰男 1962年生，教授，从事信号处理方面的教学与科研工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: It is vital to track voltage phase to synchronization control for grid connected power converters. As three-phase grid voltages are unbalanced, the d-axis and q-axis voltage contains disturbances oscillating at frequency of double fundamental. It gives rise to ripple in Phase Detector of Synchronous Reference Frame Phase-Locked Loop (SRF-PLL) and leads positive sequence detected phase angle steady state error. This paper addresses the performance of Second Order Generalized Integrator （SIGO）, which is a band-pass filter that can be used in-loop of SRF-PLL to separate the dc terms and attenuate the other high order frequency components.The digital implementation of SIGO has been given in detail.In addition, by making tradeoff dynamic and disturb of the integrated system, the loop filter parameters design process under s domain based on symmetrical optimum method is given. The simulation has been carried out by Matlab/ Simulink,and test results show that the steady error of detected positive sequence phase angle under unbalanced inputs is zero. Experimental results with TMS32OF28335 verify the practicability of the idea. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Phase-locked loop,unbalanced voltages, SIGO, detector, digital signal )rocessor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "电网电压相位实时检测是一项基本的技术，高精度、快速的锁相同步环节对并网型电力设备控制有重要的应用影响[1]。同步旋转坐标系下锁相环(Synchronous Reference Frame Phase-Locked Loop,SRF-PLL）是一种实用方案[2-4]，其结构包括三个部分，鉴相器将三相电压信号利用Park变换检测相位偏差，环路滤波PI调节器滤除相位偏差中的高频成分，积分型振荡器利用偏差稳态量计算相位信息，通过不断的闭环调整，直到偏差为恒定值，输出信号实时跟踪输入信号。当三相电网电压处于对称平衡状态时，鉴相器输出为直流成分，准确反映了相位偏差信息，通过设计SRF-PLL中的环路滤波器参数，使PLL为高带宽系统，获得足够稳态精度和较快的动态响应。实际电网系统，由于负载不对称及其动态性，经常出现电压不平衡状态，此时SRF-PLL锁相同步环节追踪正序分量相位，存在稳态误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为消除这一稳态误差，适当降低PLL系统的带宽，增强其抗扰性能，代价是系统动态响应会受到影响。另一种方案是在 SRF-PLL 环内或者环外应用各种类型的滤波器，通过附加滤波来获得准确的相角偏差信息，降低甚至消除稳态误差[5]。针对电压不平衡，本文介绍了一种利用二阶广义积分器（SOGI）进行SRF-PLL环路内滤波方案，首先分析了电压不平衡时鉴相器输出信号特征，对SOGI的带通特性及其数字化实现做了详细的讨论，数字仿真结果表明，SOGI对不平衡电压的锁相效果有良好的改善作用，同时适应一定程度的谐波污染情况。最后，基于TMS320F28335控制器的实验平台实现了该方法，测试波形验证了其良好性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 SRF-PLL不平衡电压鉴相器输出信号 特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "忽略零序分量，不平衡的三相电压，可表达为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { { \\displaystyle { \\vphantom { \\bigg ( } \\nu _ { \\mathrm { { s } } } ( t ) } } } \\\\ { { \\displaystyle { \\vphantom { \\bigg ( } \\nu _ { \\mathrm { { s } } } ( t ) } } } \\\\ { { \\displaystyle { \\vphantom { \\bigg ( } \\nu _ { \\mathrm { { s } } } ( t ) } } } \\\\ { { \\displaystyle { \\vphantom { \\bigg ( } V _ { \\mathrm { { s } } } ( t ) } ) } } \\end{array} \\right) = \\left( V ^ { + } \\cos { \\big ( \\omega t + \\varphi ^ { + } } \\big ) + V ^ { - } \\cos { \\big ( \\omega t + \\varphi ^ { - } } \\big ) \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\boldsymbol { V } ^ { + }$ 为正序分量的最大值； $\\boldsymbol { V } ^ { - }$ 为负序分量的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最大值； $\\varphi ^ { + }$ ， $\\varphi ^ { - }$ 为初相位； $\\omega = 2 \\pi \\times 5 0 \\mathrm { r a d / s }$ 为基波角频率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对式（1）应用Clark变换 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Bigg ( \\begin{array} { l } { \\nu _ { \\alpha } ( t ) } \\\\ { \\nu _ { \\beta } ( t ) } \\end{array} \\Bigg ) = \\frac { 2 } { 3 } \\left( \\begin{array} { l l l } { 1 } & { - \\frac { 1 } { 2 } } & { - \\frac { 1 } { 2 } } \\\\ { 0 } & { \\frac { \\sqrt { 3 } } { 2 } } & { - \\frac { \\sqrt { 3 } } { 2 } } \\end{array} \\right) \\Bigg ( \\nu _ { \\alpha } ( t ) \\Bigg ) } \\\\ & { \\qquad = \\Bigg ( \\nu _ { \\alpha } ^ { + } ( t ) \\Bigg ) + \\Bigg ( \\nu _ { \\alpha } ^ { - } ( t ) \\Bigg ) } \\\\ & { \\qquad = V ^ { * } _ { \\alpha } ( \\omega t + \\varphi ^ { + } ) \\Bigg ) + V ^ { - } _ { \\alpha } ( \\omega t + \\varphi ^ { + } ) \\Bigg ) + V ^ { - } \\Bigg ( \\cos { ( \\omega t + \\varphi ^ { + } ) } \\Bigg ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对式（2）应用Park变换",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left( \\begin{array} { l } { \\nu _ { \\mathrm { d } } ( t ) } \\\\ { \\nu _ { \\mathrm { q } } ( t ) } \\end{array} \\right) = \\left( \\begin{array} { c c } { \\cos \\hat { \\theta } } & { \\sin \\hat { \\theta } } \\\\ { - \\sin \\hat { \\theta } } & { \\cos \\hat { \\theta } } \\end{array} \\right) \\left( \\begin{array} { l } { \\nu _ { \\mathrm { \\scriptscriptstyle G } } ( t ) } \\\\ { \\nu _ { \\mathrm { \\scriptscriptstyle G } } ( t ) } \\end{array} \\right) = \\left( \\begin{array} { l } { \\nu _ { \\mathrm { \\scriptscriptstyle G } } ^ { + } ( t ) } \\\\ { \\nu _ { \\mathrm { \\scriptscriptstyle G } } ^ { + } ( t ) } \\end{array} \\right) + \\left( \\begin{array} { l } { \\nu _ { \\mathrm { \\scriptscriptstyle G } } ^ { - } ( t ) } \\\\ { \\nu _ { \\mathrm { \\scriptscriptstyle G } } ^ { - } ( t ) } \\end{array} \\right) } \\\\ & { \\quad \\quad \\quad = \\left( \\begin{array} { c c } { V ^ { + } \\cos \\left[ ( \\omega - \\hat { \\omega } ) t + ( \\varphi ^ { + } - \\hat { \\varphi } ^ { + } ) \\right] } \\\\ { V ^ { + } \\sin \\left[ ( \\omega - \\hat { \\omega } ) t + ( \\varphi ^ { + } - \\hat { \\varphi } ^ { + } ) \\right] } \\end{array} \\right) + } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\left( \\begin{array} { l } { V ^ { - } \\cos \\left[ ( \\omega + \\hat { \\omega } ) t + ( \\varphi ^ { - } + \\hat { \\varphi } ^ { + } ) \\right] } \\\\ { - V ^ { - } \\sin \\left[ ( \\omega + \\hat { \\omega } ) t + ( \\varphi ^ { - } + \\hat { \\varphi } ^ { + } ) \\right] } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\hat { \\theta }$ 为正序分量中a相电压相位的检测值",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\theta } = \\hat { \\omega } t + \\hat { \\varphi } ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若 $\\omega = \\hat { \\omega }$ ， $\\boldsymbol { \\varphi } ^ { + } \\approx \\hat { \\boldsymbol { \\varphi } } ^ { + }$ ，则 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\binom { \\nu _ { \\mathrm { q } } ( t ) } { \\nu _ { \\mathrm { q } } ( t ) } = \\left( \\begin{array} { l } { V ^ { + } \\cos { 0 } } \\\\ { V ^ { + } \\sin { ( \\theta - \\hat { \\theta } ) } } \\end{array} \\right) + \\left( \\begin{array} { l } { V ^ { - } \\cos { [ 2 \\omega t + ( \\varphi ^ { - } + \\hat { \\varphi } ^ { + } ) ] } } \\\\ { - V ^ { - } \\sin { [ 2 \\omega t + ( \\varphi ^ { - } + \\hat { \\varphi } ^ { + } ) ] } } \\end{array} \\right) } & { { } } \\\\ { \\approx \\left( \\begin{array} { l } { V ^ { + } } \\\\ { V ^ { + } ( \\theta - \\hat { \\theta } ) } \\end{array} \\right) + \\left( \\begin{array} { l } { V ^ { - } \\cos { [ 2 \\omega t + ( \\varphi ^ { - } + \\hat { \\varphi } ^ { + } ) ] } } \\\\ { - V ^ { - } \\sin { [ 2 \\omega t + ( \\varphi ^ { - } + \\hat { \\varphi } ^ { + } ) ] } } \\end{array} \\right) } & { { } } \\\\ { = \\left( \\begin{array} { l } { V _ { \\mathrm { d a t } } } \\\\ { V _ { \\mathrm { q d a t } } } \\end{array} \\right) + \\left( \\begin{array} { l } { \\nu _ { \\mathrm { d 2 } } } \\\\ { \\nu _ { \\mathrm { q 2 } } } \\end{array} \\right) } & { { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式（5）表明，在dq系下，直流分量 $\\nu _ { \\mathrm { q d c } }$ 表征正序分量的相位偏差信息，幅度与 $\\boldsymbol { V } ^ { + }$ 相关；二倍频扰动 $\\{ \\nu _ { \\mathrm { d } 2 }$ ， $\\left. \\nu _ { \\mathrm { q } 2 } \\right\\}$ 表征原负序分量，其幅度与 $V ^ { - }$ 相关。为适应电压不平衡，利用SRF-PLL方法准确检测到正序分量相位，需对鉴相信号 $\\nu _ { \\mathrm { q } }$ 滤除二倍频扰动分量 $\\nu _ { \\mathrm { q 2 } }$ ，只保留直流分量 $\\nu _ { \\mathrm { q d c } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 二阶广义积分器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[6]提出了基于二阶广义积分（SecondOrderGeneralizedIntegrator）的正交信号发生器，其结构如图1所示，输入信号 $\\nu$ 与输出信号 $\\nu ^ { ' }$ 相减，乘以系数 $k$ ，两步广义积分器进行内环反馈实现正交信号产生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区母 3  \nWo  \n卤母",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SOGI输入与输出的关系",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( s ) = { \\frac { \\nu ^ { \\prime } ( s ) } { \\nu ( s ) } } = { \\frac { k \\omega _ { 0 } s } { s ^ { 2 } + k \\omega _ { 0 } s + \\omega _ { 0 } ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\omega _ { \\mathrm { 0 } } = 2 \\times 2 \\pi \\times 5 0 \\mathrm { H z } = 6 2 8 \\mathrm { r a d / s }$ ， $k = \\{ 0 . 3 , 1 , 3 \\}$ 时，式（6）频率响应如图2所示，在频点 $\\omega _ { 0 }$ 处呈现带通特性，没有时延，而对直流分量完全阻隔。 $k$ 值越小，通频带越小，对其他频率分量的衰减越大，选通性能越强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SOGI存在2个积分器，数字化实现采用后向欧拉方法[，结构如图3所示，差分方程见式（7）～式 (9)，只需乘法和加法，运算量很小。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa511a65f16e084946df2df452663feb15768226904ef5a86b90aa778916b05e.jpg",
+        "img_caption": [
+            "Fig.1Second order generalized integrator filter "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( n ) = \\nu ( n ) - \\nu ^ { \\prime } ( n - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu ^ { \\prime } ( n ) = \\nu ^ { \\prime } ( n - 1 ) + \\omega _ { \\circ } T _ { \\mathrm { s } } \\{ k e ( n ) - q \\nu ^ { \\prime } ( n - 1 ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq \\nu ^ { \\prime } ( n ) = q \\nu ^ { \\prime } ( n - 1 ) + \\omega _ { \\circ } T _ { s } \\nu ^ { \\prime } ( n )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 SRF-PLL 环路内配置两个带通 SOGI，在dq系下进行检波，通过做差消去二次分量，只让直流成分进入后续模块，如图4所示。为使SOGI对除去 $\\omega _ { \\scriptscriptstyle 0 }$ 的频率成分及直流分量具备强的衰减能力，适应一定程度的谐波污染状况， $k$ 值应尽可能小，本文取 $k = 0 . 3$ 。此外， $\\boldsymbol { V } ^ { + }$ 对PLL系统动态性能有影响，此处进行了标玄化取模运算予以消除。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/06cb59721aa4965e56a70f535eae91a30a71766c32780b44e386ca55c913fd9f.jpg",
+        "img_caption": [
+            "图1二阶广义积分器",
+            "图3二阶广义积分器数字化实现Fig.3SOGI digital implementation"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/da9ea48a23fda09c54cb4ea0a2b004be08ed555425e5efea6d8c6443f06bd7b0.jpg",
+        "img_caption": [
+            "Fig.2Frequency response of $H ( s )$ at different value of $k$ ",
+            "图4环内二阶广义积分滤波同步旋转锁相框图 Fig.4Block diagram of SFR-PLL with in-loop SOGI "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 环路滤波器参数设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑SOGI将鉴相器中的相位偏差直流成分完全分离出来，SRF-PLL近似线性化模型如图5所",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/66101220a725ab04d976cc849fd6d86d96b52da68944cff584611ae29a16bc7f.jpg",
+        "img_caption": [
+            "图2不同 $k$ 值时 $H ( s )$ 的频率响应",
+            "图5控制模型",
+            "Fig.5 Control model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "示，环路滤波器采用PI调节器形式",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { f } } \\left( s \\right) = k _ { \\mathrm { p } } + \\frac { k _ { \\mathrm { i } } } { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $k _ { \\mathrm { p } }$ 和 $k _ { \\mathrm { i } }$ 分别为比例增益和积分增益。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5开环传递函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { o l } } \\left( s \\right) = \\left( k _ { \\mathrm { p } } + \\frac { k _ { \\mathrm { i } } } { s } \\right) \\frac { 1 } { s } = \\frac { ( k _ { \\mathrm { p } } s + k _ { \\mathrm { i } } ) } { s ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相应的闭环传递函数为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { \\mathrm { c l } } \\left( s \\right) = \\frac { G _ { \\mathrm { o l } } \\left( s \\right) } { 1 + G _ { \\mathrm { o l } } \\left( s \\right) } = \\frac { k _ { \\mathrm { p } } s + k _ { \\mathrm { i } } } { s ^ { 2 } + k _ { \\mathrm { p } } s + k _ { \\mathrm { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（12）是一个典型闭环二阶系统，其标准形式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\left\\{ \\begin{array} { l l } { \\displaystyle k _ { \\mathrm { p } } = 2 \\zeta \\omega _ { \\mathrm { n } } } \\\\ { \\displaystyle k _ { \\mathrm { i } } = \\omega _ { \\mathrm { n } } ^ { 2 } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于上述闭环二阶传递函数，参数设计要考虑快速动态响应和良好稳态特性做出折中，二阶最佳取阻尼比 $\\xi = 0 . 7 0 7$ ，此时带宽 $\\omega _ { \\mathrm { b } } \\approx 2 . 1 \\omega _ { \\mathrm { n } }$ 。当 $\\boldsymbol { \\xi }$ 确定后，无阻尼振荡频率 $\\omega _ { \\mathrm { n } }$ 越大，带宽越大，响应速度越快，但较大的 $\\omega _ { \\mathrm { n } }$ 会将误差也随之放大影响过渡过程[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 数字仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证前文论述的有效性，对图4的系统建立Matlab/Simulink仿真模型进行数字仿真，仿真参数见下表。图6给出了不平衡情况下的仿真结果，从上至下波形依次为三相电压 $\\nu _ { \\mathrm { a b c } }$ ， $\\nu _ { \\mathrm { d q } }$ ， $\\nu _ { \\mathrm { d q d c } }$ ，频率检测值 $\\hat { f } ( \\hat { \\omega } / 2 \\pi )$ ，相位检测值 $\\hat { \\theta }$ ，检测偏差 $( \\theta - { \\hat { \\theta } } )$ 。初始状态三相电压平衡，系统经过约1个工频周期进入稳态，此时 $\\nu _ { \\mathrm { { \\alpha \\beta } } } ^ { + } = 1 \\mathrm { { p u } }$ ， $\\hat { \\boldsymbol { f } } = 5 0 \\mathrm { H z }$ ， $( \\theta - { \\widehat { \\theta } } ) = 0$ 。在0.05s时刻， $\\nu _ { \\mathrm { a } }$ 突增至 $1 . 2 \\mathrm { p u }$ ， $\\nu _ { \\mathrm { c } }$ 突降为0，此时，$\\nu _ { \\mathrm { d q } }$ 出现二倍频扰动，经SOGI滤波后，只剩余直流分量。同时， $\\hat { \\boldsymbol f }$ 出现波动，为了对比， $( \\theta - { \\hat { \\theta } } )$ 波形中，虚线为没有SOGI时SRF-PLL的响应，可以看出，稳态误差从 $- 8 ^ { \\circ } \\sim + 5 ^ { \\circ }$ 降至零。在0.15s时刻，$\\nu _ { \\mathrm { a } }$ 突降至 $0 . 8 \\mathrm { p u }$ ， $\\nu _ { \\mathrm { c } }$ 恢复至 $0 . 8 \\mathrm { p u }$ ，不对称程度减弱,扰动分量幅度减小，稳态误差进一步降低至0，过渡过程耗时约3个工频周期。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/944052247374ab94f399a0303b0ae53f14dc84d9b1ca114b7c12c7fd9be8e70d.jpg",
+        "table_caption": [
+            "表仿真参数Tab.Simulation parameters"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>k</td><td>W0</td><td>ωn</td><td></td></tr><tr><td>0.3</td><td>2π50×2</td><td>2π15</td><td>√2/2</td></tr><tr><td>Ts</td><td>Wb</td><td>kp</td><td>ki</td></tr><tr><td>0.0001s</td><td>2 π 31.5</td><td>133.2865</td><td>8882.6439</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7给出了谐波污染情况下的仿真结果，0.1s时刻， $\\nu _ { \\mathrm { a b c } }$ 加入3次、5次、7次谐波，幅值分别为$0 . 3 \\mathrm { p u }$ 、 $0 . 2 \\mathrm { p u }$ 、0.lpu（为模拟不对称状况，a相中的5次谐波幅值为 $0 . 6 \\mathrm { p u }$ )，SOGI虽不能完全消除",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(nd)A -2 888888888 0 0.05 0.10 0.15 0.20 0.25   \n(nd)bpA 10 WN -1 0 0.05 0.10 0.15 0.20 0.25   \n(nd),PbPA 50 0 0.05 0.10 0.15 0.20 0.25 60   \nZH/f 50 40 0 0.05 0.10 0.15 0.20 0.25   \npp:/e 2 W 1 0 0.05 0.10 0.15 0.20 0.25   \n()/IOII) 10 0 新共森意 生旺 -10 0 0.05 0.10 0.15 0.20 0.25 t/s   \n(nd)A 2 88888888 2 0 0.05 0.10 0.15 0.20 0.25   \n(nd)bpA 2101 A W 0 0.05 0.10 0.15 0.20 0.25   \n(nd)PbpA 50.50 <><><><>>>><?<<>>>> 0 <>>>>>>>>><>>>><>><> 0 0.05 0.10 0.15 0.20 0.25 60   \nZH/f 50 Mww 40 0 0.05 0.10 0.15 0.20 0.25   \npe:/0 W 0 0.05 0.10 0.15 0.20 0.25   \nni.OIT 10 inuainnnniatta -10 0 0.05 0.10 0.15 0.20 0.25 t/s ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高次谐波的影响，但衰减作用显著，相位检测值稳态误差从 $\\pm 6 ^ { \\circ }$ 降低至 $\\pm 1 . 5 ^ { \\circ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[9]在dq系下利用陷波器滤除二倍频扰动，分离直流鉴相成分，同样能够在三相电压不平衡情况下获得零稳态相角检测误差。比较而言，陷波滤波器只在陷波频点具有强衰减作用，而对其余频率成分基本无衰减作用。若电网电压包含谐波，$\\nu _ { \\mathrm { q } }$ 包含其余高次谐波扰动成分，导致相角检测值存在较大的稳态误差。图2表明SOGI对高次谐波兼有衰减作用，带来的好处是：当三相电压包含谐波时，同样带宽条件下，本文的方案具有更小的稳态检测误差。图8给出了仿真对比结果，输入电压与图6和图7相同，不平衡情况下，两种方案均能获得零稳态误差，谐波污染情况下，本文的方案稳态误差为 $\\pm 1 ^ { \\circ }$ ，而陷波滤波器方案为 $\\pm 2 ^ { \\circ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 4 不平衡 SoGh   \n/IILI) 2 0 -2 0.10 0.15 0.20 0.25 t/s 8 6 谐波污染 ….otch SOGI   \n()/I0.11) 4 生 2 0 Wwwwwwwww -2 0.10 0.15 0.20 0.25 t/s ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 实验结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证可行性，以TI公司浮点型DSPTMS320F28335为核心，在CCS开发环境下，采用C语言编写了相应的程序来实现图4的算法。信号发生器内部产生模拟电网电压，经调理后送入DSP的12位AD 模块进行转换，通用定时器产生频率为 $1 0 \\mathrm { k H z }$ 的脉冲驱动中断程序运行，锁相算法每0.0001s运行一次。软件中运算变量数据调制在载频为 $1 5 0 \\mathrm { k H z }$ 的PWM波向GPIO口输出，外接截止频率 $6 0 0 \\mathrm { { H z } }$ 低通RC滤波后，实时观测。SOGI应用式（7）～式(9）实现。对于三角函数运算，软件中加入经TI公司优化后的浮点运算库，直接调用实时计算。对于积分运算，采用后向欧拉方法实现离散化，为了减小高速运算中的累计误差，PI采用增量式结构。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图9给出了不平衡实验测试结果，图10给出了谐波实验测试结果，输入与仿真相同。从检测偏差曲线可以看出，在这两种故障状况下，由于SOGI的滤波作用，系统均能成功跟踪基波分量，且与数字仿真结果十分切合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7 结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "环内应用SIGO检波不平衡锁相SRF-PLL方法，能准确跟踪正序分量的相位，检测精度高：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/49d9432dc43cb18c54bea1fdf800f3d18aca2220ea749c17758f3326e2429f68.jpg",
+        "img_caption": [
+            "图9电网电压不平衡实验波形"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8112854177fc7f30aaf696fc9734468c8f53235e635dd093f24fedcf93b1c7e9.jpg",
+        "img_caption": [
+            "图8与环内陷波滤波器的比较 Fig.8Compare with in-loop Notch filter ",
+            "Fig.9Experimental results ofunbalanced input ",
+            "图10电网电压谐波实验波形",
+            "Fig.10Experimental results of distorted input "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）三相电压不平衡时，SRF-PLL鉴相器中的二倍频扰动，是导致正序分量相位检测稳态误差的原因。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）当 $\\omega _ { \\mathrm { o } }$ 取值为二倍基频后，SIGO检波的动态性能依赖于参数 $k$ ，较小的 $k$ 值可获得低频分量和高频分量的强衰减，间接使该方法在输入电压谐波污染状况下，较之于SRF-PLL，减小相位检测稳态误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）电网电压频率发生波动时，利用SRF-PLL的频率检测值前馈，使得SIGO检波自适应频率变化。（4）环路滤波器采用PI形式时，系统阻尼比和无阻尼自然频率的取值利用二阶最佳原则整定，在较宽范围内平衡稳定性与快速性。（5）SIGO检波易于数字化实现，只需少量额外乘法和加法运算，采用高速DSP实现，运算负荷小，不影响实时性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 程汉湘，聂一雄．柔性交流输电系统[M]．北京：机械工业出版社，2013.[2] 龚锦霞，解大，张延迟．三相数字锁相环的原理",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "及性能[J]．电工技术学报，2009，24(10)：94-99. Gong Jinxia,Xie Da,Zhang Yanchi.Principle and performance of the three-phase digital phase-locked loop[J].Transactions of China Electrotechnical Society,2009,24(10): 94-99.   \n[3] 吉正华，韦芬卿，杨海英．基于dq变换的三相 软件锁相环设计[J]．电力自动化设备，2011, 31(4):69-73. Ji Zhenghua,Wei Fenqing,Yang Haiying. Threephase software phase-locked loop based on dq reference frame[J].Electric Power Automation Equipment, 2011,31(4):69-73.   \n[4] Chung S.A phase tracking system for three phase utility interface inverters[J].IEEE Transactions on Power Electronics,2000,15(3):431-438.   \n[5] Golestan S,Guerrero JM, Vasquez JC,et al. Threephase PLLs:a review of recent advances[J].IEEE Transactions on Power Electronics,2017,32(3): 1894-1907.   \n[6] Mihai Ciobotaru,Remus Teodorescu,Frede Blaabjerg.A new single-phase pll structure based on second order generalized integrator[C].IEEE Power Electronics Specialists Conference,Jeju, South Korea,2006: 1-6.   \n[7] Rodriguez FJ,Bueno E,Aredes M,et al.Discretetime implementation of second order generalized integrators for grid converters[C]. Conference of the IEEE Industrial Electronics Society, 2008:176-181.   \n[8] 胡寿松．自动控制原理[M]．北京：科学出版社, 2001.   \n[9] 谢门喜，朱灿焰，杨勇，等．基于陷波滤波器的不 平衡电网电压同步方法[J]．电力电子技术，2015, 49(11):51-52. Xie Menxi, Zhu Canyan, Yang yong,et al. SRFPLL with notch filter under unbalance three-phase systems[J].Power Electronics,2015,49(11):51-52. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

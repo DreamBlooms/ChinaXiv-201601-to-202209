@@ -1,0 +1,190 @@
+# 环氧复合材料表面电位衰减与直流电导特性
+
+冉昭玉 杜伯学 李进 梁虎成 张程（智能电网教育部重点实验室 天津大学电气自动化与信息工程学院天津300072）
+
+![](images/f08c7d29845de41056ca884ade78ceb91a6aac6ac9bbe87dbc7a08578d8fd574.jpg)
+
+冉昭玉女 1995年生，博士研究生，主要从事直流管道输电绝缘材料方面的研究工作。
+
+摘要：气体绝缘输电管道（GIL）绝缘子通常由环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 复合材料浇注而成。在直流电压及负载温升作用下，绝缘子表面易积聚电荷造成电场畸变，进而引发沿面闪络。本文为探索非线性 $Z _ { \mathrm { { n O } } }$ 填料对环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料绝缘性能的影响规律，对直流电压下不同 $Z _ { \mathrm { { n O } } }$ 含量的环氧复合材料表面电位衰减进行了测量，分析了不同温度对表面电荷特性的影响，得到了基于电荷消散的非线性电导变化规律。研究结果表明：直流电压下， $Z _ { \mathrm { { n O } } }$ 颗粒掺杂可以明显促进环氧复合材料表面电荷消散；随着温度升高，载流子迁移率增大，表面电荷的消散速度加快；当 $z _ { \mathrm { n O } }$ 含量超过一定阈值时，电导率在高场下呈现非线性特性，从而抑制环氧树脂复合材料表面电荷积聚。相关结果为非线性电导复合材料在调控直流气体绝缘输电管道绝缘子表面电荷特性方面的应用提供了参考。
+
+关键词：气体绝缘输电管道环氧树脂绝缘子运行温度表面电荷非线性电导 中图分类号：TM85
+
+![](images/623a9ddef801eee1a2d415fd7032c5a355a627adea79cc54b8bd2bea722e38a4.jpg)
+
+# Surface Potential Decay and DC Conductivity Characteristics ofEpoxy Composites
+
+杜伯学男 1961年生，博士，教授，博士生导师，主要从事聚合物绝缘材料的可靠性和安全性理论与试验、高温超导电介质、纳米复合绝缘材料、电气绝缘在线监测、高电压新技术等方面的研究工作。
+
+Ran Zhaoyu Du Boxue Li Jin Liang Hucheng Zhang Cheng (Key Laboratory of Smart Grid of Education Ministry Tianjin UniversityTianjin300072China）
+
+Abstract: Epoxy/ ${ \mathrm { ~ \cal ~ A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ composites are usually used to cast GIL insulators.Under the effects of DC voltage and temperature rise caused by load, the charges are prone to accumulate on the insulator surface and thus cause electric field distortion,which may in turn cause surface flashover.In order to explore the effect of non-linear $Z _ { \mathrm { { n O } } }$ fillers on the dielectric properties of Epoxy $\prime \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ nonlinear composites,the surface potential decay of epoxy composites with different $Z _ { \mathrm { { n O } } }$ contents under DC voltage was measured. The effects of different temperatures on the surface charge characteristics were analyzed and the nonlinear conductivities based on charge dissipation was obtained. The results show that $Z \mathrm { n O }$ particles can significantly promote the surface potential degradation of epoxy composites under DC voltage. With the increase of temperature, the carrier mobility increases and the surface charge dissipates faster.When the $Z _ { \mathrm { { n O } } }$ content exceeds a certain threshold,the conductivity shows a nonlinear behavior in the high field,which suppresses the surface charge accumulation of the epoxy composite. The results provide references for the application of nonlinear conductivity materials in the control of surface charge characteristics of insulators in DC gas insulated lines.
+
+收稿日期：2018-08-03
+
+Keywords: Gas insulated line,epoxy insulator, operating temperature, surface charge,nonlinear conductivity
+
+# 1 引言
+
+直流绝缘输电管道以其输送容量大、耐压等级高、电磁环境效应小及可靠性高等优点[1-2]，成为特殊环境下替代架空线的首选。近年来，该技术的必需性日渐突显，在特高压输电领域呈现快速增长的趋势[3]。在实际的绝缘输电管道复合绝缘系统中，盆式绝缘子通常由环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 复合材料浇注而成，气固界面是系统中最薄弱的区域，严重威胁直流输电系统的安全运行[4]。在长期直流电压作用下，绝缘子因局部放电以及气电极注入都会造成表面电荷积聚，引发电场畸变，界面耐电强度降低，以致沿面放电（或闪络）的最终发生[5-6]。研究表明，由于表面电荷积聚会导致盆式绝缘子沿面闪络电压大幅下降，甚至可降低 $2 3 \% ^ { [ 7 ] }$ 。因此，表面电荷调控手段成为直流管道输电技术发展中的研究重点[8-9]。
+
+已有研究表明，具有非线性电导特性的材料可以有效调控表面电荷积聚特性，从而改善局部电场的分布[10-11]。通过在聚合物基体中掺杂一些无机填料，获得依赖场强变化的电导率，使其在高电场下表现出高导电性来加速表面电荷的消散过程，实现对不均匀电场的智能调控[9,12]。对于 $z _ { \mathrm { n O } }$ 压敏陶瓷/硅橡胶复合材料的研究结果表明：当填料体积分数大于 $20 \%$ 时，复合材料呈现出明显的非线性电导特性，对不均匀电场可以起到一定的抑制作用[13]。在聚酯树脂中添加 $Z _ { \mathrm { { n O } } }$ ，发现当 $z _ { \mathrm { { n O } } }$ 填料掺杂浓度超过 $30 \mathrm { w t \% }$ 时，复合材料具有明显的非线性特征，同时会对绝缘材料的表面电荷、电树枝等特性产生一定的影响[14]。
+
+本文旨在研究直流电压下环氧复合材料的非线性电导特性。在环氧树脂基体中掺杂 $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 、ZnO颗粒，应用表面电位衰减（SPD）方法，测量不同ZnO 颗粒含量以及不同温度下环氧树脂 $/ \mathrm { A l _ { 2 } O _ { 3 } } / \mathrm { Z n O }$ 复合材料的表面电荷动态特性，基于表面电位衰减与材料电导率之间的模型，研究复合材料的电导率变化规律。
+
+# 2 实验准备
+
+# 2.1试样制备
+
+本文为探究 $z _ { \mathrm { n O } }$ 颗粒在环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料中的作用，选择粒径约为 $1 2 \mu \mathrm { m }$ 的氧化铝颗粒以及粒径约为 $4 0 \mu \mathrm { m }$ 、具有非线性特性的 $z _ { \mathrm { n O } }$ 颗粒作为填料，使用液态双酚A型环氧树脂作为基体。考虑到所用环氧树脂为具有较低黏度的液体，因此可以直接采用物理共混法来制备微米复合电介质。填料颗粒、环氧树脂与固化剂的混合比例为 $3 0 0 : 1 0 0 : 3 3$ ，将混合液浇注于同一模具中，使用平板硫化机热压成型。分别制备了 $Z _ { \mathrm { { n O } } }$ 含量为0、 $12 . 5 \mathrm { w t \% }$ ， $2 5 \mathrm { w t \% }$ ， $3 7 . 5 \mathrm { w t \% }$ 、 $50 \mathrm { { w t \% } }$ 的5种环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合试样，试样厚度为 $0 . 5 \mathrm { m m }$ 。
+
+# 2.2表面电位衰减测量装置
+
+表面电位测量系统如图1所示。主系统安装在密封容器中，本实验中湿度设定为 $30 \%$ ，为探究不同直流电压及温度的影响，直流电压设为 $4 \mathrm { k V }$ .5kV和6kV，将温度设定为 $3 0 \mathrm { { ^ circ C } }$ 以及 $6 0 ^ { \circ } \mathrm { C }$ 。温度通过接地电极下的加热器控制，在它们之间放置一层绝缘材料以固定电路。电晕充电过程结束后，迅速通过导轨平移试样到静电探头下，利用表面电位计测量出表面电位数值。实验数据反映出不同直流电压施加后表面电位随时间的变化规律以及表面电荷的积累情况。
+
+![](images/05d13b9898dc409a718c701a8037ee3f7ffde193fcb66ae11c6dd48d39d6dc57.jpg)  
+图1电晕放电和表面电荷测量实验装置  
+Fig.1Corona discharge and surface potential measuring system
+
+# 2.3电导率、载流子迁移率和陷阱密度计算
+
+表面电位衰减是仅由材料本身特性与周围环境控制的自然过程，在实验过程中尽量保持湿度、温度等条件不变，以将环境的影响最小化，同时忽略表面传导的影响。基于表面电位衰减的方法可以获得依赖于电场变化的电导率，表面电位衰减与材料电导率之间的模型如下[15-16]
+
+$$
+K _ { \mathrm { v } } ( V _ { \mathrm { S } } ) = \varepsilon \frac { 1 } { V _ { \mathrm { S } } ( t ) } \frac { \mathrm { d } V _ { \mathrm { S } } ( t ) } { \mathrm { d } t }
+$$
+
+式中， $K _ { \mathrm { v } } ( V _ { \mathrm { s } } )$ 为电导率（ $\mathrm { { \dot { S } } / m } \mathrm { { \dot { \Omega } } }$ ； $\mathbf { \sigma } _ { \varepsilon }$ 为介电常数！ $\left( \mathrm { F / m } \right)$ ；  
+$V _ { \mathrm { s } }$ 为表面电位（V）； $\mathbf { \chi } _ { t }$ 为时间(s)。
+
+表面电位衰减过程与电荷入陷-脱陷过程密切相关，载流子迁移率和陷阱密度可以根据表面电位
+
+衰减过程计算[17-18]。假设从样品上表面到地面的电荷的平均运输时间为 $t _ { \mathrm { T } }$ ，则载流子迁移率可以表示为
+
+$$
+\mu = \frac { L ^ { 2 } } { t _ { T } V _ { 0 } }
+$$
+
+式中， $\mu$ 为载流子迁移率 $\left( \mathbf { m } ^ { 2 } \cdot \left( \mathbf { s } \cdot \mathbf { V } \right) ^ { - 1 } \right)$ ； $L$ 为样品厚度（ $\langle { \bf m } \rangle$ ； $\boldsymbol { V } _ { 0 }$ 为相应的初始电位绝对值（V）。
+
+如果假设上表面到地面过程中不发生电荷中和，并且所有电荷最终都能到达接地电极，陷阱密度和能级为
+
+$$
+N _ { \mathrm { t } } ( E ) = \frac { 4 \varepsilon } { e L ^ { 2 } k T } \Bigg | t \frac { \mathrm { d } V _ { \mathrm { s } } ( t ) } { \mathrm { d } t } \Bigg |
+$$
+
+$$
+E _ { \mathrm { t } } = k T \ln { \left( \nu t \right) }
+$$
+
+$$
+\nu = \nu _ { \mathrm { { T } } } \sigma N
+$$
+
+式中， $N _ { \mathrm { t } }$ 为陷阱密度（ $\mathrm { . e V ^ { - 1 } m ^ { - 3 } } ,$ ）； $E _ { \mathrm { t } }$ 为陷阱能级（eV）； $T$ 为热力学温度（K）； $\sigma$ 为陷阱捕获截面 $( \mathbf { m } ^ { 2 } )$ ； $\nu _ { \mathrm { { T } } }$ 为自由电子热速度 $\mathrm { ( m / s ) }$ ； $N$ 为导带或者价带中有效态密度 $\left( \mathrm { m } ^ { - 3 } \right)$ ）； $\mathbf { \Phi } _ { \nu }$ 为电子脱陷频率$\left( \mathbf { s } ^ { - 1 } \right)$ ； $k$ 为波尔兹曼常数 $\left( \mathrm { J / K } \right)$ 。
+
+# 3 实验结果及分析
+
+# 3.1直流电压对表面电荷动态特性的影响
+
+本文使用高压直流电源通过针电极进行电晕放电产生电荷，在电场的作用下，一部分电荷移动到针电极，相反极性的另一部分则移动到试样的表面并且积聚。
+
+具有不同ZnO含量的环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料的表面电荷消散特性如图2所示。电晕放电注入电荷结束后，部分电荷被陷阱束缚，能级较低的浅陷阱中电荷较容易脱陷，随着时间推移，电荷消散导致试样表面电位下降。在图2a中，试样的$Z _ { \mathrm { { n O } } }$ 含量较低，表面电位整体衰减趋势较为平缓，$4 \mathrm { k V }$ 直流电压下，600s后的剩余电荷数量仍然相当可观，表面电位达到 $1 ~ 3 0 0 \mathrm { V }$ 以上。随着施加电压的增加，初始电位明显增高，电位衰减的速度略有增加。当 $z _ { \mathrm { n O } }$ 颗粒的含量增加到 $2 5 \%$ 、 $3 7 . 5 \%$ 时，如图2b和2c所示，较高的电晕充电电压为载流子提供更多的势能，使其到达样品表面，进一步加速了充电过程中表面电荷的积聚，导致初始表面电位增高。同时，表面电荷积聚导致电场强度增加，加速表面电位衰减过程。图2d显示了 $z _ { \mathrm { { n O } } }$ 含量 $50 \%$ 试样的表面电位衰减特性。在 $6 \mathrm { k V }$ 时，由于高导电性，初始表面电位降低超过 $2 ~ 7 0 0 \mathrm { V }$ ，由高含量 $z _ { \mathrm { n O } }$ 颗粒形成的局部导电网络明显促进了表面电荷的衰减。5kV下的表面电位曲线在300s内迅速下降至接近4kV下的曲线的水平，在600s时两条曲线几乎
+
+3800+4kV3400 ←6kV 5kV  
+3000180014000 100200300400500600700时间/s(a)12.5%3600 +4kV·5kV3200 6kV  
+啦2400  
+面2000  
+表16001200800E0 100 200 300400500600700时间/s(b） 25.0%3600 +4kV3200 ←5kV2800 6kV  
+N 2400  
+2000  
+面1600  
+表12008004000E0 100 200300400 500600700时间/s(c) 37.5%2800 skV2400 ▲6kV2000  
+1200800400[0E \* 80809800058880065880 100 200 300400 500600700时间/s(d) 50.0%
+
+重合，表明提高电晕电压虽然会增强电荷注入过程，但电荷消散速度在电荷积聚过程中起到十分重要的作用。 $z _ { \mathrm { n O } }$ 含量 $50 \%$ 试样的高导电性几乎可以抵消较高电晕电压引起的表面电荷积累效应。
+
+表1列出了SPD过程前60s内不同样品的表面电位平均衰减率，由以下等式计算
+
+$$
+R = \frac { V _ { 0 } - V _ { 6 0 } } { \Delta t }
+$$
+
+式中， $R$ 为衰减率（ $\mathrm { \Delta V / s } )$ ； $V _ { 6 0 }$ 为60s时的表面电位(V)； $\Delta t$ 为时间间隔（s)。
+
+# 表1 $3 0 ^ { \circ } \mathsf { C }$ 下环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合试样的
+
+表面电荷衰减率
+
+Tab.1Surface charge decay rates of Epoxy/ $\mathrm { \ A l _ { 2 } O _ { 3 } / Z n O }$ composite samples at $3 0 ^ { \circ } \mathsf { C }$   
+
+<html><body><table><tr><td rowspan="2">直流电压 /kV</td><td colspan="4">表面电荷衰减速率/(V/s)</td></tr><tr><td>ZnO含量 12.5%试样</td><td>ZnO含量 25%试样</td><td>ZnO含量 37.5%试样</td><td>ZnO含量 50.0%试样</td></tr><tr><td>4</td><td>0.70</td><td>6.30</td><td>13.77</td><td>15.90</td></tr><tr><td>5</td><td>2.08</td><td>5.60</td><td>20.92</td><td>27.55</td></tr><tr><td>6</td><td>2.42</td><td>9.42</td><td>24.37</td><td>30.68</td></tr></table></body></html>
+
+可以更加直观地看出，随着直流电压增大或者 $z _ { \mathrm { n O } }$ 含量增多，试样的表面电荷消散都会加快。直流电压从 $4 \mathrm { k V }$ 升高到 $6 \mathrm { { k V } }$ 时， $z _ { \mathrm { n O } }$ 含量为$12 . 5 \%$ 的试样表面电荷衰减率增大了 $2 4 5 . 7 1 \%$ ，而其余三种试样的表面电荷衰减率分别增大 $4 9 . 5 2 \%$ F$7 6 . 9 8 \%$ 、 $9 2 . 9 6 \%$ 。由于 $z _ { \mathrm { n O } }$ 含量为 $12 . 5 \%$ 的试样在4kV下表面电位衰减过于缓慢，所以不予讨论。随着 $z _ { \mathrm { n O } }$ 含量增大，试样初期表面电位衰减率增大，由高直流电压引起的高表面电位导致了更加明显的表面电荷消散，这可能是由于高 $z _ { \mathrm { n O } }$ 含量复合材料的非线性特性在高场下较为明显。
+
+# 3.2温度对表面电荷特性的影响
+
+研究表明，GIL中心导体温升导致绝缘子沿面存在温度梯度，会影响绝缘材料表面电荷与沿面闪络特性[19]。为探究不同温度对环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料表面电荷积聚的影响，考虑由于绝缘子负载造成的温升，在 $6 0 ^ { \circ } \mathrm { C }$ 下测试环氧复合试样的表面电位衰减特性，不同试样的表面初始电位如图3所示。计算前60s内不同样品的平均衰减率，结果如图4所示。
+
+对于相同 $z _ { \mathrm { n O } }$ 含量的环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料，随着直流电压的增大，初始表面电位增大，表面电荷消散加快。在相同直流电压下，随着 $z _ { \mathrm { n O } }$ 含量增加，试样的初始表面电位略有降低，表面电位衰减率增大，其中 $z _ { \mathrm { n O } }$ 含量 $50 \%$ 的试样由于表面电荷消散极快，可以抑制电晕电压升高引起的表面电荷积聚，导致表面电位显著降低。
+
+![](images/a84a338c60c425c35c3d321a08c9eece582486df78d8b98fe8734f7163aaff0c.jpg)  
+图3 $6 0 ^ { \circ } \mathsf { C }$ 下不同试样初始表面电位
+
+![](images/8ad1c18a609e3c7b0b7c4d62ae078f89472e887dd2a7efe3b7eba19f45ae024f.jpg)  
+Fig.3Initial surface potential of different samples at $6 0 ^ { \circ } \mathsf { C }$   
+图4 $6 0 ^ { \circ } \mathsf { C }$ 下不同试样表面电位衰减率  
+Fig.4Surface potential rates of different samples at $6 0 ^ { \circ } \mathsf { C }$
+
+将温度分别为 $6 0 ^ { \circ } \mathrm { C }$ 与 $3 0 \mathrm { { ^ circ C } }$ 时，相同 $z _ { \mathrm { n O } }$ 含量试样的实验结果进行对比。在相同的直流电压下，温度较高时，试样的初始表面电位基本不变，说明温度对于表面电荷的积聚影响不大。而试样的初期表面电位衰减率显著增大，表面电荷消散明显加快，说明电荷消散过程除了受电场影响，还受到温度的影响。
+
+根据 $z _ { \mathrm { { n O } } }$ 含量为 $12 . 5 \%$ 的复合试样的表面电位衰减，计算在不同实验条件下的载流子迁移率和陷阱特性，结果见表2。在电压相同时，温度升高后，载流子迁移率提高，陷阱深度、密度也会增加。说明高温可以促进较深陷阱中的电荷获得足够能量得以脱陷，从而加速了表面电荷的衰减。
+
+# 3.3非线性电导特性
+
+在温度为 $3 0 \ \mathrm { ^ c }$ ，直流电压分别为4kV、5kV、
+
+# 表2不同试样的载流子迁移率以及陷阱特性
+
+Tab.2Carrier mobility and trap characteristics of different samples   
+
+<html><body><table><tr><td>实验条件</td><td>载流子迁移率 /(m² · (s · V)-1)</td><td>陷阱能级 /eV</td><td>陷阱密度 /(m-³ · (eV)-1)</td></tr><tr><td>温度30℃，直流电压4kV</td><td>1.518 × 10-12</td><td>0.821</td><td>1.174 × 1020</td></tr><tr><td>温度60℃，直流电压4kV</td><td>1.987 × 10-</td><td>0.856</td><td>2.111 ×1020</td></tr><tr><td>温度30℃，直流电压5kV</td><td>2.271 × 10-12</td><td>0.815</td><td>1.728 ×1020</td></tr><tr><td>温度60℃，直流电压5kV</td><td>2.953 ×10-1</td><td>0.863</td><td>4.296×1020</td></tr></table></body></html>
+
+6kV时，不同 $z _ { \mathrm { { n O } } }$ 含量试样的电导率在表面电位衰减过程中的变化规律分别如图5所示。
+
+![](images/d613d36c4b152865528880783a801a87a44da72c072ee433d4afa99724290daf.jpg)  
+图5不同直流电压下的试样电导率变化曲线 Fig.5Conductivities of samples under different DC voltages   
+Fig.6Conductivities of samples under Different conditions
+
+$Z _ { \mathrm { { n O } } }$ 含量为 $12 . 5 \%$ 时，试样在不同直流电压下的电导率整体数值较低，变化不大。当 $z _ { \mathrm { n O } }$ 含量提升到 $2 5 \%$ 时，随着表面电位减少，电导率缓慢减小，且在不同直流电压下的电导率较为接近。而随着 $z _ { \mathrm { n O } }$ 含量增加，对于 $z _ { \mathrm { { n O } } }$ 含量为 $3 7 . 5 \%$ 及 $50 \%$ 的试样，在表面电位衰减过程中，电导率的改变程度达到2～3个数量级。表面电位较高时，电导率增加的速度较快。 $z _ { \mathrm { { n O } } }$ 含量为 $50 \%$ 的试样在不同直流电压下的电导率变化规律差异最大：在直流电压为4kV时，电导率随着表面电位增加的速度比较均匀；而在 $5 \mathrm { k V }$ 或者 $6 \mathrm { k V }$ 电压下，试样的电导率数值较大，且增速在较高电位时显著加大，呈现出非常明显的非线性上升趋势。
+
+材料的场依赖电导率变化规律与表面电荷消散过程是相对应的，证明 $z _ { \mathrm { n O } }$ 含量超过一定阈值时，电导率依赖于电场发生显著改变，在高表面电位导致的较高场强下，电导呈现非线性迅速增加的趋势。这是因为 $z _ { \mathrm { n O } }$ 颗粒较多时，颗粒间平均距离减小，相邻颗粒间可以形成直接供载流子通过的局部导电通道，这会进一步促进导电网络的形成，导致表面电位衰减明显加快，促进了表面电荷消散过程。
+
+直流电压为5kV时，在不同实验条件下，ZnO含量为 $12 . 5 \%$ 的复合试样在表面电位最高时的电导率如图6所示。
+
+![](images/bc84da4019a957b8185108123285b5b44ba9f49bc24e30f2c7cc3e5ca5fca8e8.jpg)  
+图6不同实验条件下的试样电导率
+
+在 $6 0 ^ { \circ } \mathrm { C }$ 时，随着 $z _ { \mathrm { n O } }$ 含量增高，试样的电导率增加，这与 $3 0 \ \mathrm { ^ { \circ } C }$ 下的规律相似；对于相同ZnO含量的试样，温度升高，会导致载流子迁移率增大，电导率也会显著增加。
+
+# 4结论
+
+本文研究了直流电压下环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料的表面电位衰减特性，分析了其非线性电导变化规律，讨论了 $z _ { \mathrm { n O } }$ 含量、温度对表面电荷及电导特性的影响机理。结论如下：
+
+（1）直流电晕电压增大，相同 $Z _ { \mathrm { { n O } } }$ 含量的环氧树脂 $/ \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } / \mathrm { Z n O }$ 复合材料初始表面电位增大，电荷积聚导致内建电场增强，促进载流子的迁移过程；随着 $z _ { \mathrm { n O } }$ 含量提高，环氧树脂内部逐渐形成渗流网络，在相同电压下，试样表面电荷消散加快。增大氧化锌掺杂浓度可以抑制电晕电压升高引起的表面电荷积聚。(2）温度升至 $6 0 ^ { \circ } \mathrm { C }$ 时，直流电压与 $z _ { \mathrm { n O } }$ 含量对材料表面电荷特性的影响与 $3 0 \mathrm { { ^ circ C } }$ 下的情况类似，温度对材料表面电荷动态特性的影响主要体现在载流子的脱陷过程。 $6 0 ^ { \circ } \mathrm { C }$ 时，载流子迁移率增大，同时，更深陷阱中的电荷可以获得足够能量脱陷，进一步加快了表面电荷的消散。(3）当 $z _ { \mathrm { n O } }$ 含量超过一定阈值后，环氧树脂/$\mathrm { A l _ { 2 } O _ { 3 } / Z n O }$ 复合材料呈现非线性电导特性。较低电场下试样的电导率较小，而在高电场下迅速增大，且非线性增长趋势随 $z _ { \mathrm { n O } }$ 含量的增加而愈加明显。这种非线性电导特性可以有效促进材料表面电荷消散，以实现调控电场的目的。
+
+# 参考文献
+
+[1] Tenzer M,Koch H,Imamovic D.Underground transmission lines for high power AC and DC transmission[C].IEEE/PES Transmission and Distribution Conference and Exposition,2016:1-4.   
+[2] 齐波，张贵新，李成榕，等．气体绝缘金属封闭 输电线路的研究现状及应用前景[J]．高电压技术， 2015，41(5):1466-1473. QiBo,Zhang Guixin,Li Chengrong,et al. Research status and prospect of gas-insulated metal enclosed transmission line[J]. High Voltage Engineering, 2015,41(5): 1466-1473.   
+[3] Koch HJ.Gas-insulated transmission line (GIL)[C]. IEEE Power Engineering Society General Meeting, 2003:1-2483.   
+[4] 范建斌，李鹏，李金忠，等。 $\pm 8 0 0 \mathrm { k V }$ 特高压直流 GIL 关键技术研究[J]．中国电机工程学报，2008, 28(13): 1-7. Fan Jianbin,Li Peng,Li Jinzhong,et al. Study on key technology of $\pm 8 0 0 \mathrm { k V }$ UHVDC GIL[J]. Proceedings of the CSEE,2008,28(13):1-7.   
+[5] Gildenblat G S, Rao AR, Cohen S S. Space-chargelimited currents in materials with nonlinear velocityfield relationships[J].IEEE Transactions on Electron Devices, 1987,34(10): 2165-2172.   
+[6] Nitta T, Nakanishi K. Charge accumulation on insulating spacers for HVDC GIS[J]. IEEE Transactions on Electrical Insulation,1991,26(3): 418-427.   
+[7] 齐波，高春嘉，赵林杰，等．交／直流电压下气体 绝缘变电站盆式绝缘子表面电荷对闪络电压的影 响[J]．高电压技术，2017，43(3)：915-922. Qi Bo, Gao Chunjia, Zhao Linjie,et al. Influence of surface charge on flashover voltage of gas insulated substation basin insulator under AC and DC voltage[J]. High Voltage Engineering 2017, 43(3): 915-922.   
+[8] Tanaka T, Ohki Y,Ochi M,et al. Enhanced partial discharge resistance of epoxy/clay nanocomposite prepared by newly developed organic modification and solubilization methods[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 2008,15(1): 81-89.   
+[9] Preetha P, Thomas M J. Partial discharge resistant characteristics of epoxy nanocomposites[J]. IEEE Transactions on Dielectrics and Electrical Insulation, 2011,18(1): 264-274.   
+[10]Tavernier K, Varlow B R,Auckland D W, et al. Improvement in electrical insulators by nonlinear fillers[J]. IEE Proceedings - Science,Measurement and Technology,1999,146(2): 88-94.   
+[11]Li J,Du B X, Kong X X,et al. Nonlinear conductivity and interface charge behaviors between LDPE and EPDM/SiC composite for HVDC cable accessory[J]. IEEE Transactions on Dielectrics and Electrical Insulation,2017,24(3): 1566-1573.   
+[12]Du B X, Yang Z R, Li Z L,et al. Surface charge behavior of silicone rubber/SiC composites with field-dependent conductivity[J]. IEEE Transactions on Dielectrics and Electrical Insulation,2017, 24(3): 1340-1348.   
+[13]谢竟成，胡军，何金良，等．压敏陶瓷－硅橡胶 复合材料的非线性压敏介电特性[J]．高电压技术， 2015，41(2): 446-452. Xie Jingcheng, Hu Jun, He Jinliang, et al. Nonlinear dielectric and conductivity properties of ZnO varistor/silicone rubber polymer composites[J]. High Voltage Engineering,2015, 41(2): 446-452.

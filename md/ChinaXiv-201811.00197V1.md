@@ -1,0 +1,167 @@
+# 基于深度学习的中文微博作者身份识别研究\*
+
+徐晓霖，蔡满春，芦天亮(中国人民公安大学 信息技术与网络安全学院，北京 102623)
+
+摘要：作者身份识别一直在公安行业和文检工作中起着重要的作用。现有的作者语言风格建模过程繁琐、文本特征工程没有普适性。针对此问题，在无须专家进行特征建模的情况下，提出CABLSTM中文微博作者身份识别模型，并在公开微博语料集测试该模型准确度。该模型为最大化的提取短文本特征，融合Atention机制于CNN中并去除池化层，通过双向LSTM以获取上下文相关信息，身份识别结果通过 Softmax层进行输出。实验结果表明，该模型在进行中文微博作者身份识别任务中与传统机器学习算法以及TextCNN和LSTM算法相对比，在准确率、召回率、F值方面都有一定的提升。
+
+关键词：作者身份识别；LSTM；CNN；特征自动提取 中图分类号：TP391.72 doi:10.19734/j.issn.1001-3695.2018.05.0486
+
+# Basics depth academic learning Chinese fumiohiro writer authorship identification research
+
+Xu Xiaolin, Cai Manchun, Lu Tianliang (SchoolofInformationTechnology&NetworkSecurity,People'sPublicSecurity Universityofhina,Beijing0262,Cina)
+
+Abstract:Author identification has always playsanimportant role in the public securityand literary inspection work.Texts feature extraction is cumbersome and not universal.To solve this problem,the CABLSTM Chinese microblog author identification model is proposed without expert feature modeling,and theaccuracyof te model iststedin theopenmicroblog corpus.This model maximizes the extractionofshorttext features,fuses the Atentionmechanisminthe CNNandremoves the polinglayer,andobtainscontext-relatedinformationthroughthebidirectionalLSTM.Theidentityrcognitionresultisoutput throughthe Softmax layer.Experimentalresultsshowthatthe modelhasacertain improvement inaccuracy,recalrate,andF valueincomparison withtraditional machinelearningalgorithmsandTextCNNandLSTMalgorithms in theidentification task of Chinese microblog authors.
+
+Key words:author identification;LSTM; CNN;automatic feature extraction
+
+# 0 引言
+
+文本作者身份识别是文检言语分析中的类别，研究属于应用语言学和计算机科学的交叉领域，其主要思路是将文本中隐含的作者无意识写作习惯通过某些可以量化的特征表现出来，凸显作品的文体学特征和写作风格，以此确定匿名文本的作者。
+
+文检工作中的言语分析就是根据文本的写作风格从而确定匿名文本作者。公安工作中有害信息作者鉴定也可以基于文本对嫌疑人员进行判断。文本作者身份识别为上述两种提供一定的分析支持。
+
+前人研究的文本作者身份识别，大多集中在长文本。人们从一元论文本特征到多元论文本特征再到多层次文本特征，不断提高了对文本特性的抽取，更深力度更加抽象地进行文本特征抽取建模，以提高文本作者身份是别的准确性。但随着网络的急速发展，网络文本大量涌现，邮件、博客、微博、评论等等短文本大量存在但长文本作者身份识别方法并不能完全适用于短文本。现阶段对于短文本的研究较少，只有祁瑞华等人[1,2]针对微博短文本通过词汇、句子、依存关系、特殊符号等多方面特征提取进行特征建模，实现了基于短文本的文本作者身份识别。但是这种方法并不能对所有的短文本进行统一的特征提取，不同的短文本需要不同的特征提取方式，且微博中的特殊符号等大大增加了判断的准确率，这在普通短文本中并不具有。
+
+大量微博内容是少于140个字的，很难在如此短的文本中提取文本特征，但微博的发言往往是作者很随性的，更能代表出作者的语言风格。现阶段根据多种文本特征和微博特有特征的文本特征提取方法虽然取得了很好的效果，但都是对于某一特定的短文本，并且无法避免由专家学家进行人工特征建模的过程，为此本文尝试提出基于深度学习的中文微博作者身份识别模型，通过深度学习对短文本进行文本自动特征提取，去掉专家特征建模过程，并在公开微博与语料上测试其有效性。
+
+# 1中文微博作者身份识别模型
+
+深度学习具有能够自主学习并提取特征的特性，因此本文想通过深度学习实现文本作者身份识别。卷积神经网络（CNN）和长短时记忆网络(LSTM)是深度学习中较为流行的分类模型卷积神经网络（CNN）有着类似于n-gram的效果，能够提取文本特征，并且通过多卷积层进行更加深入的挖掘，因此考虑将CNN与Attention进行结合扩大及加强其特征提取的特效作为短文本特征提取器。长短时记忆网络（LSTM）是对时序数据进行特征提取，能够有效获取上下文信息，因此考虑将其与分类器结合作为输出器。
+
+CABLSTM中文微博作者身份识别模型的建立流程如图1所示。
+
+![](images/1b35dc0e522d40a6c857035885931332c06fca8a943fc26ba39dc343d922b7bc.jpg)  
+图1模型流程  
+Fig.1Mode flowchat
+
+1）文本预处理
+
+将 $4 0 \mathrm { ~ G ~ }$ 微博语料由添加微博热词为用户自定义词典的NLPIR进行分词，去停用词后输入到Word2Vec[3,4]中产生词向量。
+
+# 2）CNN $^ +$ Attention特征提取
+
+将句子分词后组成的词向量矩阵进行attention后获得双通道 conv input（sentence word enbeddings，attention feature map）作为CNN[5,6卷积层的输入，卷积后按位组合得到 windowfeature sequence。即文本特征向量。
+
+# 3）双向LSTM+Softmax分类输出
+
+将 window feature sequence 作为双向LSTM[7,8]的输入，得到两个一维向量，通过concatenate层进行拼接，最后通过全连接层和Softmax进行分类输出
+
+# 1.1文本预处理
+
+# 1）微博爬取
+
+本文所需要的数据分为两类，一类为建立词向量所需要的大量微博数据；一类为实验所需的以作者为标签的分类微博。由于建立词向量需要大量的数据，所以本文采用的是在CSDN上获得的40G 微博数据。实验数据通过python 的 request 包和正则表达式进行爬取。首先人工选择符合要求且筛选出发博量超过1000条的候选人，进行10人次的数据爬取，共10000条。
+
+# 2）文本分词
+
+首先对训练语料进行中文分词。现阶段开放python接口且较流行的分词工具为Jieba、NLPIR、LTP。本文选择进行微博语料分词实验后准确率最高的NLPIR分词工具。
+
+# 3）词向量生成
+
+文本分词结束后，去掉停用词后采用Word2vec[4]的CBOW模型进行词向量的建立。输入层为单词 $\mathbf { x }$ 周围的n-1个词向量，将n-1个词向量相加输入到隐藏层；然后从根节点开始，映射层的值需要沿着Huffman树不断的进行logistic分类，并且不断修正各中间向量和词向量；最后输出单词 $\mathbf { x }$ 的词向量。
+
+# 1.2CNN $^ +$ Attention机制进行文本特征提取
+
+由于微博数据过于短小，所以需要尽可能地对文本进行更抽象和高级的特征特征表示，才能够更行文本特征建模。CNN可以进行卷积操作，考虑到卷积的效果且CNN具有n-gram特征提取的能力，所以用CNN能够更好地对微博短文本进行文本特征提取。为了能够更深度挖掘特征，对CNN进行改进。
+
+a）去掉CNN中的Max-Pooling层。虽然池化层可以降低输出的向量维度，但同时也丢失了部分特征，因此在进行特征提取时将Max-Pooling层去掉，以充分发挥CNN卷积提取特征的效果。
+
+b）在CNN进行卷积前加入Attention层。传统的CNN通过每个单通道处理一个句子，然后学习句子表达，最后一起输入到分类器中。该模型在输入分类器前句对间没有相互联系，只能学习到局部特征，通过Attention[9,10]机制，将句子s1与句子s2构建attention 矩阵，s1通过与attention 矩阵相乘得到attentionfeature map，卷积层的输入由单通道变为双通道，将不同cnn通道的句对联系起来，可以学习全文特征，提高特征提取的效果。
+
+如图2所示，首先计算 attention 矩阵A，其每个元素Ai, j代表句子1中第i个单词对句子二中第j个单词的match_score，经验表明当match_score为Euclidean 距离时效果很好为此，本文选用Euclidean 距离作为match_score 计算公式为
+
+$$
+\mathbf { A } _ { i , \mathrm { ~ j ~ } } = \frac { 1 } { 1 + \left| x - y \right| } \big ( \mathrm { F } _ { 0 , r } \left[ : , i \right] , \mathrm { F } _ { 1 , r } \left[ : , j \right] \big )
+$$
+
+$\mathbf { W } _ { 0 }$ 和 $\mathbf { W } _ { 1 }$ 均为学习优化的的参数矩阵,本文使用相同的W，即共享两个矩阵。这样 $\mathbf { W } _ { 0 }$ 和 A的转置想乘， $\mathsf { W } _ { \mathrm { 1 } }$ 和A 想乘得到两个句子的与原句子词向量矩阵大小相同的attentionfeaturemap。计算公式为
+
+$$
+\operatorname { F } _ { 0 , a } = W _ { 0 } \times A ^ { T }
+$$
+
+$$
+\operatorname { F } _ { 1 , a } = W _ { 1 } \times A
+$$
+
+一个句子由其本身分词后的词向量矩阵与其attentionfeaturemap这两个通道作为CNN卷积层的输入。选择固定窗□大小的 filter 进行卷积获得 feature maps。由于需要输入到LSTM中，所以将每个featuremaps 的对应位置进行拼接构成windowfeature sequence，并且不连接Pooling层以最大化的挖掘文本特征。
+
+![](images/92cd50a105635c8339696361ef0456ef3103eb98008d82cca49957b123b71e2b.jpg)  
+图2CABLSTM模型
+
+# 1.3双向LSTM $\mid +$ Softmax进行分类输出
+
+单向LSTM，在t时刻的输入 $I _ { \ t _ { t } }$ 代表的是t时刻之前的输入信息，该信息包含了上文中的信息，但是并不包含下文中的信息；而使双向LSTM算法加入了反方向的LSTM，这对于一个单元t时刻的输入 $I _ { \ u _ { t } }$ 和 $\tilde { I } _ { \iota }$ 分别代表了上文信息和下文信息。所以，为了更好地提取微博短文本的文本特征，选择使用双LSTM $+$ Softmax[1]进行分类输出。
+
+如图2所示，CNN $^ +$ Attention进行文本特征提取将windowfeature sequence 输入到双向的LSTM中得到两个一维向量，为了使特征更好地保留，不选择aver而选择concatenate 进行两个向量的拼接，以免特征的剔除。最后，添加全连接层和Softmax层进行分类。
+
+# 2 实验分析
+
+# 2.1实验数据来源
+
+本实验所选择的实验数据为自己爬取的新浪微博为实验语料，收集了新浪微博10位公众人物的共10000 篇微博，每位1000 篇。其中语料最长的为140字，最短的为45字。采用十字交叉进行实验，在各组对照实验中，统计作者身份识别的准确率（precision）、召回率（recall）和F-measure 的平均值评估作者身份识别性能。
+
+# 2.2 实验环境
+
+所有实验基于Python3.6来实现，使用Alineware机器，CPU 为i7、内存16GB、系统为Linux、显卡为gtx1070。
+
+# 2.3微博分词准确率对比实验
+
+采用Jieba、NLPIR和LTP三种较为流行的分词工具进行准确性实验，大多以“人民日报分词语料集”作为实验数据。人民日报文本十分严格规范，口语化程度较低，网络流行语较少，文本长度较长，与微博语料有较大的差别。为了更好地选择对微博类短文本分词准确率较高的工具，本节以微博语料为数据源，对三种分词工具进行对照实验。
+
+因为没有标准的分词后的微博语料库，所以人工对3000篇爬虫的微博语料进行人工分词，以‘’为分割符。分词例图如表1所示。
+
+Table1Word segmentation example   
+
+<html><body><table><tr><td colspan="2">一条微博数据</td></tr><tr><td>原句</td><td>终极预告终于和大家见面啦~~史无前例的悉尼歌剧院打</td></tr><tr><td rowspan="2">人工分词</td><td>斗： 终极|预告|终于|和|大家|见面啦|史无前例的|悉尼歌剧院|</td></tr><tr><td>打斗</td></tr></table></body></html>
+
+实验流程如图3所示。
+
+![](images/230b3418274f060f69e50310a7f43d79a4862b7bc3a53f29f68d2241e4560ad6.jpg)  
+Fig.2 CABLSTM mode   
+图3分词实验流程  
+Fig.3Word segmentation experiment flowchat
+
+实验分三组数据进行比较。数据1：人工分词；数据2：Jieba、NLPIR、LTP分词；数据3：加入用户自定义词典后的Jieba、NLPIR、LTP分词。用户自定义词典由近五年微博热词、微博网络语组成。准确率由3000条微博人工分词对比结果。时间由100000条微博测试得出。
+
+表1分词例图  
+表2分词工具实验结果  
+Table 2Word segmentation experimental result   
+
+<html><body><table><tr><td>是否添加外界词库</td><td>工具</td><td>准确率</td><td>时间</td></tr><tr><td rowspan="3">未添加用户自定词词典</td><td>Jieba</td><td>91%</td><td>149.2seconds</td></tr><tr><td>NLPIR</td><td>96%</td><td>53.5 seconds</td></tr><tr><td>LTP</td><td>94%</td><td>175.7seconds</td></tr><tr><td rowspan="3">添加用户自定义词典</td><td>Jieba</td><td>94%</td><td>162.4seconds</td></tr><tr><td>NLPIR</td><td>98%</td><td>63.2seconds</td></tr><tr><td>LTP</td><td>97%</td><td>187.4seconds</td></tr></table></body></html>
+
+实验结果如表2所示。可以看出：a）总体上，三种算法在中文微博分词的准确率都达到了 $90 \%$ 以上，证明了三种分词工
+
+具都是十分有效的；b）从是否添加用户自定义词典来看，添加用户自定义词典后三种分词算法的准确率都有了一定的提高；c）从算法性能来看，NLPIR中国科学院的分词工具无论是否添加用户自定义词典都是分词准确率最高的，加入用户自定义词典后准确率可高达 $98 \%$ ;d)从时间来看，三种分词工具中NLPIR中国科学院分词工具的时间最短，时间约只有其他两种算法三分之一。因此，从准确率和时间消耗来分析，NLPIR中国科学院分词工具在加入用户自定义词典后有着最高的分词准确率和最低的时间消耗，在实验进行词向量建立时能够更好地完成任务，且具有更好的分词准确率，可以使模型的效果得到一定的提升。
+
+# 2.4中文微博作者身份识别算法对比实验
+
+为了验证CABLSTM模型在中文微博作者身份识别算法，本文采用作者身份识别中常用的准确率（P)、召回率（R）和F-measure值作为指标来测量其有效性及优越性。通过F1值，能够结合准确率及召回率更加客观地反映出该模型的综合水平。
+
+首先验证CABLSTM模型在中文微博作者身份识别中的有效性，采用SVM、决策树C4.5、TextCNN、LSTM和CABLSTM五种算法。在SVM和决策树C4.5算法中，中文微博特征集由词汇频率特征、标点数量特征、功能词次数特征、词性标注特征组成。实验结果如表3所示。可以看出：a）总体上，五种算法在中文微博作者身份识别任务上准确率、召回率和F-measure均达到了 $70 \%$ 以上，每位作者的准确率、召回率和 F-measure都达到了 $69 \%$ 以上；b）从算法性能来看，TextCNN和LSTM在准确率、召回率和F-measure方面和人工特征建模的传统机器学习SVM和C4.5相差不大。改进后的CABLSTM模型在准确率、召回率和F-measure方面相对另外四种算法都有一定程度的提高。具体来说本文模型可以更加深力度的挖掘短文的文本特征，为分类提供更好的特征模型。利用CNN加Attention机制能够提高深度学习对文本的学习提取力度；利用双向LSTM加Softmax能够更好地学习特征并进行分类。
+
+CABLSTM算法在完成中文微博作者身份识别任务中，与传统的机器学习算法SVM和C4.5算法相比较而言，去掉了以词汇频率特征、标点数量特征、功能词次数特征、词性标注特征为特征集的文本特征建模过程，在提高准确率的同时减少了人工的参与，提高了效率，降低了人工特征建模的难度；与TextCNN和LSTM相比，在准确率、召回率和F值得到了一定的提高。所以CABLSTM模型可以更好地应用于中文微博作者身份识别，为公安行业有害信息作者识别和文检工作提供一定的理论支持和技术支持。
+
+表3实验结果  
+Table3Experimental result   
+
+<html><body><table><tr><td>算法</td><td></td><td>作者1</td><td>作者2</td><td>作者3</td><td>作者4</td><td>作者5</td><td>作者6</td><td>作者7</td><td>作者8</td><td>作者9</td><td>作者10</td><td>加权平均</td></tr><tr><td rowspan="3">SVM</td><td>P</td><td>0.71</td><td>0.75</td><td>0.72</td><td>0.74</td><td>0.8</td><td>0.69</td><td>0.72</td><td>0.73</td><td>0.75</td><td>0.79</td><td>0.74</td></tr><tr><td>R</td><td>0.77</td><td>0.7</td><td>0.71</td><td>0.7</td><td>0.75</td><td>0.82</td><td>0.63</td><td>0.87</td><td>0.82</td><td>0.7</td><td>0.747</td></tr><tr><td>F</td><td>0.74</td><td>0.79</td><td>0.71</td><td>0.71</td><td>0.77</td><td>0.75</td><td>0.67</td><td>0.79</td><td>0.78</td><td>0.74</td><td>0.745</td></tr><tr><td rowspan="3">C4.5</td><td>P</td><td>0.8</td><td>0.79</td><td>0.82</td><td>0.84</td><td>0.79</td><td>0.83</td><td>0.85</td><td>0.77</td><td>0.75</td><td>0.8</td><td>0.804</td></tr><tr><td>R</td><td>0.8</td><td>0.81</td><td>0.8</td><td>0.82</td><td>0.81</td><td>0.8</td><td>0.75</td><td>0.77</td><td>0.79</td><td>0.78</td><td>0.793</td></tr><tr><td>F</td><td>0.8</td><td>0.79</td><td>0.81</td><td>0.83</td><td>0.79</td><td>0.81</td><td>0.79</td><td>0.77</td><td>0.76</td><td>0.79</td><td>0.794</td></tr><tr><td rowspan="3">TextCNN</td><td>P</td><td>1</td><td>0.95</td><td>0.82</td><td>0.74</td><td>0.89</td><td>0.7</td><td>0.95</td><td>0.99</td><td>0.82</td><td>0.57</td><td>0.843</td></tr><tr><td>R</td><td>0.99</td><td>0.91</td><td>0.92</td><td>0.41</td><td>0.79</td><td>0.81</td><td>0.9</td><td>0.98</td><td>0.92</td><td>0.75</td><td>0.838</td></tr><tr><td>F</td><td>0.99</td><td>0.93</td><td>0.87</td><td>0.52</td><td>0.83</td><td>0.76</td><td>0.93</td><td>0.99</td><td>0.87</td><td>0.65</td><td>0.834</td></tr><tr><td rowspan="3">LSTM</td><td>P</td><td>0.99</td><td>0.73</td><td>0.66</td><td>0.49</td><td>0.87</td><td>0.69</td><td>0.94</td><td>0.98</td><td>0.46</td><td>0.47</td><td>0.728</td></tr><tr><td>R</td><td>0.97</td><td>0.87</td><td>0.63</td><td>0.44</td><td>0.71</td><td>0.82</td><td>0.79</td><td>0.93</td><td>0.96</td><td>0.72</td><td>0.784</td></tr><tr><td>F</td><td>0.98</td><td>0.79</td><td>0.65</td><td>0.47</td><td>0.78</td><td>0.75</td><td>0.86</td><td>0.96</td><td>0.62</td><td>0.57</td><td>0.743</td></tr><tr><td rowspan="3">CABLSTM</td><td>P</td><td>1.0</td><td>0.92</td><td>0.97</td><td>0.87</td><td>0.94</td><td>0.94</td><td>1.0</td><td>1.0</td><td>1.0</td><td>0.82</td><td>0.964</td></tr><tr><td>R</td><td>0.99</td><td>0.98</td><td>0.97</td><td>0.71</td><td>0.94</td><td>0.92</td><td>0.98</td><td>0.99</td><td>0.98</td><td>0.89</td><td>0.935</td></tr><tr><td>F</td><td>0.99</td><td>0.95</td><td>0.97</td><td>0.78</td><td>0.94</td><td>0.93</td><td>0.99</td><td>0.99</td><td>0.99</td><td>0.88</td><td>0.941</td></tr></table></body></html>
+
+# 3 结束语
+
+本文拓展了作者身份识别研究的理论框架和应用范围，考虑传统长文本和网络短文本在文本特征提取上的差异，研究前人对于短文本特征建模的改进。针对现阶段中文微博作者身份识别必须人工进行文本特征建模的现状，本文提出了基于深度学习算法的CABLSTM模型进行微博文本特征提取并进行文本作者身份识别，去掉了文本作者身份识别中必须人工特征建模的过程，减少了人工投入，提高了效率。这样在公安行业用拥有重点人群和其发表言论库时，可以使用该模型对无法判别作者的有害言论进行一定的分析，从而为公安行业和文检行业的作者识别提供一定的理论和技术支持。下一步的研究计划是研究如何在作者数量较多的中文微博语料上提高中文微博作者身份识别的准确率。
+
+# 参考文献：
+
+[1] 祁瑞华，杨德礼，郭旭，等．基于多层面文体特征的博客作者身份识别 研究[J].情报学报,2015,34(6): 628-634.(Qi Ruihua,Yang Deli,Guo Xu.Blogger identification based on multidimensional stylistic features [J]. Journal of the China Society for Scientific and Technical Information,2015, 34 (6): 628-634. )   
+[2]祁瑞华，郭旭，刘彩虹．中文微博作者身份识别研究[J].情报学报, 2017,36(1): 72-78.(Qi Ruihua,Guo Xu,Liu Caihong.Authorship attribution of Chinese microblog [J].Journal of the China Society for Scientific and Technical Information,2017,36(1): 72-78.)   
+[3]Mikolov T, SutskeverI, Chen K,et al.Distributed representations of words and phrases and their compositionality[J].Advances in Neural Information Processing Systems,2013,26:3111-3119.   
+[4]Zhang Dongwen,Xu Hua,Su Zengcai,et al. Chinese comments sentiment classification based on word2vec and SVM perf [J].Expert Systems with Applications,2015,42 (4):1857-1863.   
+[5]Roska T,Chua L O. The CNN universal machine:an analogic array computer[J].IEEE Transon Circuits& Systems IIAnalog&Digital Signal Processing,2015,40(3):163-173.   
+[6]Chua L O,Roska T.The CNN paradigm[J].IEEE Trans on Circuits& Systems IFundamental Theory& Applications,1993,40 (3):147-156.   
+[7]Gers F A,Schmidhuber J,Cummins F.Learning to forget: continual prediction with LSTM[J].Neural Computation,2000,12(10):2451-2471.   
+[8]Graves A. Supervised sequence labelling with recurrent neural networks [J]. Studies in Computational Intelligence,2oo8,385.   
+[9]Bahdanau D,Cho K,Bengio Y. Neural machine translation by jointly learning to align and translate [J].Computer Science,2014.   
+[10] Xu K,Ba J,Kiros R,et al. Show,attend and tell: neural image caption generation with visual attention [J].Computer Science,2015:2048-2057.   
+[11] Salakhutdinov R,Hinton G E.Replicated softmax:an undirected topic model [C]// Proc of International Conference on Neural Information Processing Systems.[S.1.]:Curran Associates Inc,2010:1607-1614.   
+[12] Roska T,Chua L O.The CNN universal machine:an analogic array computer[J].IEEE Trans on Circuits& Systems II Analog& Digital Signal Processing,2015,40 (3): 163-173.

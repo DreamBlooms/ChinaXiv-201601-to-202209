@@ -1,0 +1,979 @@
+[
+    {
+        "type": "text",
+        "text": "无迹西格玛点引导的拟反向黏菌算法及其工程应用\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘宇淞，刘升",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(上海工程技术大学 管理学院，上海 201600)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对黏菌算法搜索停滞和算法稳定性差等问题，提出了无迹西格玛点引导的拟反向黏菌算法。首先，使用了拟反向学习和拟反射学习两种反向学习过程，根据原始黏菌算法勘探和开采行为的表现时机，生成同时包含拟反向和拟反射的综合反向种群，扩大搜索范围；其次，根据种群的多样性程度判断是否使用反向种群重构原始种群进行后续计算，避免固定的反向过程破坏种群本身的搜索特点，提高搜索精度；最后，引入无迹变换的西格玛点，改进黏菌算法的基本移动模式，使无迹西格玛点引导黏菌算法的搜索，加快收敛速度。实验部分使用了CEC2017基准测试函数，使用了传统统计特征和MAE排名、WilcoXOn秩和检验验证算法有效性，并使用其求解轿车侧面碰撞的实际工程优化问题，与新颖的高水平群智能算法、改进算法、不完全算法进行对比测试，实验结果表明提出的改进策略有效且各策略间组合相得益彰，改进后算法的求解精度和鲁棒性更具竞争力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黏菌算法；拟反向学习；拟反射学习；无迹变换；CEC2017   \n中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2022.02.0055 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unscented sigma point guided quasi-opposite slime mould algorithm and its application in engineering problem ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Yusong, Liu Sheng† (School of Management Studies,Shanghai University of Engineering Science,Shanghai 20l600,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming atthesearch stagnationand poorstabilityofthe Slime Mouldalgorithm,propose anunscentedsigma point guided quasi-opposite Slime MouldAlgorithm.Firstly,use quasi-opposite learning andquasi-reflected learning toexploration andexploitationbehaviorsacording totheoriginal SlimeMouldAlgorithmtogenerateacomprehensiveopposite population thatincludes bothquasi-opposite learningand quasi-reflected learing,expandthe search space.Secondly,ccording tothe diversity of the population,decide whether to use the opposite population to regenerate anew population for subsequent calculations,avoidthecontinuous oppositeprocess destroying thesearchcharacteristicsofthepopuationitself,andimprove the search accuracy.Finall,use unscented transformation Sigma point to improve the basic movement mode ofSlime Mould Algorithm,maketheunscented sigma point guide the search,and accelerate theconvergence speed.The experimental part uses the CEC2o17benchmark test functions,uses traditional statistical index and MAEranking,Wilcoxonrank-sum test to verifytheeffectivenessofthealgorithm,anduseittosolve thecarsideimpactdesignproblem,comparesandtests withthe novel swarm intelligence algorithms,improved algorithmsand incomplete algorithm.Theexperimental results showthat the strategies is effctiveandcombinationsofstrategiescomplementeachother,andtheimproved algorithm's solutionaccuracy and robustness are more competitive. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:slime mouldalgorithm;quasi-opposite learning;quasi-reflected learning; unscented transformation; CEC2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在大数据和人工智能的背景下，群智能启发式算法因其在大型复杂优化问题中优秀的表现和低廉的算力要求在近十几年间愈发流行。黏菌算法[1](slime mould algorithm，SMA)是2020年ShiminLi等人提出的一个用于求解随机优化问题的算法，其本身的移动原理简单，但蕴涵有动态自适应、反馈权重等改进机制，同时具有广泛的扩展定制空间，受到了国外研究者广泛的关注。黏菌算法由自然中黏菌的振荡模式启发而设计，通过生物振荡来传递不同位置食物信息的正向或负向反馈，从而寻找到最优的食物位置。目前该算法已成功应用于光伏模型参数优化[2]、机器学习特征筛选[3]、医学X光图像分割[4]、计算机视觉图像阈值[5]等实际问题，在金融科技、数据挖掘、工业工程等领域具有广阔的发展前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而黏菌算法依旧存在着搜索停滞、稳定性差、求解精度低等问题，虽然现阶段对SMA算法的研究相对较少，国内外学者依旧使用不同的策略进行改进获得了不同的成果。在使用反向学习框架改进黏菌算法的方向上，文献[6]使用混沌反向学习框架扩大算法搜索空间；文献[7]使用随机反向学习框架帮助算法跳出局部最优；文献[8]使用精英反向和二次插值的综合策略改进了黏菌算法，使其整体表现更优。在改进黏菌算法基本移动方式的方向上，文献[3]使用名为\"觅食进攻\"的策略，基于贪婪策略和高斯变异，针对单个个体位置每轮迭代中进行新位置的尝试，使得求解精度大大提高；文献[9]将人工蜂群的交叉算子引入黏菌算法，加快算法收敛速度；文献[10]将正余弦算法的搜索方式添加进黏菌算法，提高算法的搜索效率；文献[11]使用量子旋转门替换黏菌算法的基础移动方式，改善了算法搜索停滞、陷入局部最优的缺陷。在使用反向学习框架改进黏菌算法的研究中，其大多使用单一反向策略，且对反向种群重构的时机缺乏判断和控制，在保持算法原本特征和减少算法时间复杂度上存在进一步优化空间；在改进黏菌算法基本移动方式的研究中，其主要使用经典改进策略和其他种类算法的核心移动方式替换黏菌算法移动方式，对黏菌算法不同搜索行为的阶段缺乏区分和针对性调整，在保持算法原有优势的基础上弥补算法局限性上存在进一步优化空间。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对黏菌算法搜索停滞、稳定性差的问题，本文使用反向学习的策略框架改进黏菌算法，并在传统反向学习的基础上针对黏菌算法自身特点进行策略的调整和组合，提出了无迹西格玛点引导的拟反向黏菌算法(UQSMA)。使用拟反向和拟反射的综合反向过程跳出局部最优，保持种群多样性；同时根据种群多样性适时使用反向种群重构原始种群，减少固定反向过程的运算开销，加强算法的稳定性；使用无迹西格玛点引导种群向理论最优逼近，针对黏菌算法不同的搜索阶段使用不同的改进策略，弥补算法在面对不同实验和不同问题时稳定性较差的局限。多种策略平衡了种群的勘探和开采阶段，各策略组合后在保证单一策略有效的基础上弥补了单一策略的局限。实验中，测试了CEC2017基准测试函数，实验结果验证了改进策略对算法求解精度和鲁棒性的积极影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基本黏菌算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黏菌算法中的黏菌一般是指多头绒泡菌，因其最初被归类为真菌，所以被命名为\"黏菌”。黏菌是一种生活在寒冷潮湿地方的真核生物，黏菌的活跃动态阶段是黏菌算法研究的主要阶段。在这个阶段，黏菌使用体内的有机物寻找食物，包围它，并分泌酶来消化它。在黏菌迁移过程中，其前端会延伸成扇形，后端则连接着一个静脉网络，保证细胞质在其中流动，从而达到信息的沟通，并且根据搜寻到食物的质量和密度动态调整静脉直径的大小，最终将整个黏菌的位置调整至最优食物处。受到黏菌这种行为模式的启发，ShiminLi及其团队设计开发了黏菌算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基本黏菌算法的抽象数学描述如下：假设 $n$ 个黏菌分布在 $\\textit { d }$ 维搜索空间中，第 $\\textit { t }$ 次迭代第 $i$ 个黏菌的位置可以表示为$X _ { i } \\left( t \\right)$ ， $\\operatorname* { m a x } _ { - } t$ 为最大迭代次数，全局最优位置 $X _ { b }$ 表示食物位置。黏菌的觅食寻优过程分为三个阶段：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）接近食物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黏菌可以根据空气中的气味接近食物，下式模拟了其接近食物的过程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX \\left( t + 1 \\right) = \\left\\{ \\begin{array} { c } { X _ { b } \\left( t \\right) + \\nu b \\cdot \\left( W \\cdot X _ { A } \\left( t \\right) - X _ { B } \\left( t \\right) \\right) , r < p } \\\\ { \\nu c \\cdot X \\left( t \\right) , r \\geq p } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathbf { \\sigma } _ { \\nu b }$ 是服从 $[ - a , a ]$ 均匀分布的系数， $\\nu c$ 从0到1线性递增， $t$ 代表当前迭代轮次， $X _ { b }$ 代表目前为止找到食物浓度最高的个体的位置，即当前全局最优解， $X$ 代表黏菌位置， $X _ { A }$ 和 $X _ { b }$ 代表两个从黏菌种群中随机抽取的个体， $W$ 代表黏菌个体的权重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算 $p$ 的公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np = \\operatorname { t a n h } \\lvert S ( i ) - D F \\rvert\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $i \\in { 1 , 2 , . . . , n }$ ， $S ( i )$ 表示黏菌个体的适应度值， $D F$ 表示所有迭代轮次中找到的最优适应度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算 $\\mathbf { \\nabla } _ { \\nu b }$ 的公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu b = [ - a , a ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $a$ 为随迭代次数减小的动态参数，用来收缩随机数 $\\mathbf { \\nabla } _ { \\nu b }$ 的生成范围，以此模拟黏菌接近食物源过程中静脉逐渐收缩提高寻优精度的过程， $\\mathbf { \\Delta } _ { a }$ 的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = a r c t a n h \\biggl ( - \\biggl ( \\frac { t } { \\operatorname* { m a x } _ { - } t } \\biggr ) + 1 \\biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "计算权重 $W$ 的公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW \\left( S m e l l I n d e x ( i ) \\right) = \\left\\{ \\begin{array} { l } { 1 + r \\cdot \\log \\left( \\displaystyle \\frac { b F - S \\left( i \\right) } { b F - w F } + 1 \\right) , c o n d i t i o n } \\\\ { 1 - r \\cdot \\log \\left( \\displaystyle \\frac { b F - S \\left( i \\right) } { b F - w F } + 1 \\right) , o t h e r s } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS m e l l I n d e x = s o r t ( S )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中选择分支的判断条件condition为适应度排名位于前一半种群， $\\boldsymbol { r }$ 为[0,1]间的一个随机数， $\\operatorname* { m a x } _ { - } t$ 表示最大迭代次数，bF表示当前轮次获得的最优适应度值，相对的， $w F$ 表示当前轮次获得的最差适应度值，SmellIndex表示按照适应度值大小排序的黏菌个体索引(在求解最小值问题时使用升序排序方法)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）缠绕食物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该阶段模拟了黏菌搜索食物过程中静脉结构的收缩模式，当黏菌静脉接触到的食物浓度越大，其通过生物振荡反应产生的波就越强，细胞质流动就越快，静脉细胞质粘稠程度也就越高。式(5)描述了黏菌在搜索区域基于食物浓度或质量的判断获得的反馈，若该位置的食物浓度处于整个种群截至目前所有搜索结果的上位，则给予该位置黏菌正向反馈，反之给予下位黏菌反向反馈，以此方式充分利用适应度的计算结果信息来调整不同位置黏菌的权重，进一步调整整个种群的搜索方式。同时，随机数 $\\boldsymbol { r }$ 保证了黏菌个体间的多样性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上述理论，黏菌的位置更新公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { X } ^ { * } = \\left\\{ \\begin{array} { l l } { r a n d \\cdot \\left( U B - L B \\right) + L B , r a n d < z } \\\\ { \\boldsymbol { X } _ { b } \\left( t \\right) + \\nu b \\cdot \\left( \\boldsymbol { W } \\cdot \\boldsymbol { X } _ { \\scriptscriptstyle A } \\left( t \\right) - \\boldsymbol { X } _ { \\scriptscriptstyle B } \\left( t \\right) \\right) , r < p } \\\\ { \\nu c \\cdot \\boldsymbol { X } \\left( t \\right) , r \\geq p } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $L B$ 和 $U B$ 代表了搜索空间的上下边界约束，rand和 $r$ 代表了[0.1]间随机数。转换概率z在ShiminLi的参数实验中被证设置为0.03时整个算法表现最好，故本文中 $z$ 同样设置为固定值0.03。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3）振荡反应",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黏菌依靠生物的震荡反映来调整静脉中细胞质的流动从而调整自身位置搜索最优食物位置。黏菌算法中的参数W、vb、 $\\mathbf { \\Psi } _ { \\nu { c } }$ 用来模拟黏菌的振荡反应， $W$ 根据适应度选择不同振荡模式的行为模拟了黏菌个体根据其他位置个体搜索到的食物情况选择自身下一步行为的搜索模式，vb动态调整振荡过程中使用其他个体信息的口径模拟了黏菌静脉直径变化的过程， $\\nu c$ 线性变化模拟了黏菌对自身历史信息保留程度的变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 无迹西格玛点引导的拟反向黏菌算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1反向学习策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tizhoosh[3]首次提出了反向学习（opposition-basedlearning，OBL)的概念，其广泛应用于群智能算法的改进策略中，同时反向学习也具有许多扩展和变体形态。反向学习策略有助于扩大搜索空间，加速算法收敛，维持种群多样性。反向学习的核心机制是同时评估原始种群和反向种群的适应度，并从中挑选适应度更优的个体组成新的种群参与后续计算。传统反向点生成的数学表达式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j } ^ { o } = L B _ { j } + U B _ { j } - x _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "拟反向学习[14](quasi-opposition-based learning，QOBL)和拟反射学习[15](quasi-reflection-based learning，QRBL)是反向学习的两种变体，拟反向和拟反射点生成的数学表达如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j } ^ { q o } = r a n d \\Biggl [ \\Biggl ( { \\frac { L B _ { j } + U B _ { j } } { 2 } } \\Biggr ) , \\left( L B _ { j } + U B _ { j } - x _ { j } \\right) \\Biggr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j } ^ { q r } = r a n d \\Biggl [ \\Biggl ( \\frac { L B _ { j } + U B _ { j } } { 2 } \\Biggr ) , x _ { j } \\Biggr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[16]使用了哈里斯鹰算法(HHO)中控制种群实施不同搜索行为的参数控制通过拟反向和拟反射过程生成的反向种群。证明了拟反向学习过程可以规避传统反向学习位置转换过大导致的精度不高问题，同时可以相对地扩大搜索空间加速种群收敛；拟反射学习可以扩大个体位置附近的搜索空间，提高种群的搜索精度。图1展示了一维空间内拟反向学习和拟反射学习相对于传统反向学习的搜索空间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/38847e73e1cf502f84bd3c617f6062bd6f34a58f88c54aeecf8c2da534c97bd6.jpg",
+        "img_caption": [
+            "图1三种反向学习在一维空间的搜索空间示意图 Fig.1Search space for three OBL in 1-dimensional space "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准的群智能算法框架中存在着明确的勘探和开采行为的区分，若使用单一的反向学习策略，生成的反向种群特征也较为单一，对算法勘探和开采阶段的辅助效果会不同，且会存在一个效果相对不好的阶段。为了更有效地构建反向种群，本文在黏菌算法进行勘探时使用大步长粗糙搜索的拟反向学习过程生成反向个体，在开采时使用小步长精细搜索的拟反射学习过程生成反向个体，最终生成完整的综合反向种群，提升反向学习框架针对不同搜索空间特征的优化效果。在黏菌算法中，参数 $p$ 控制着种群的勘探和开采行为，本文在黏菌进行勘探时使用拟反向过程生成反向个体，在年黏菌进行开采时使用拟反射过程生成反向个体，数学表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO X = \\left\\{ \\begin{array} { l l } { r a n d \\left[ \\left( \\displaystyle \\frac { L B + U B } { 2 } \\right) , \\left( L B + U B - x \\right) \\right] , r < p } \\\\ { r a n d \\left[ \\left( \\displaystyle \\frac { L B + U B } { 2 } \\right) , x \\right] , r \\ge p } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中参数 $p$ 随着迭代轮次的增加而减小，即生成的综合反向种群在算法前期以拟反向个体为主，在算法后期以拟反射个体为主，从而动态平衡反向种群内个体勘探和开采的数量比例。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2线性多样性度量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[17]提出了度量进化算法中种群多样性的度量方式，其数学表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { d } \\left( P _ { t } \\right) = \\frac { 1 } { D } \\sqrt { \\sum _ { d = 1 } ^ { D } \\overline { { \\left( x _ { t } ^ { d } \\right) ^ { 2 } } } - \\left( \\overline { { x _ { t } ^ { d } } } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\left( { x _ { t } ^ { d } } \\right) ^ { 2 } } } = \\frac { 1 } { N P } \\sum _ { i = 1 } ^ { N P } ( { x _ { i , t } ^ { d } } ) ^ { 2 } \\qquad \\overline { { { x _ { t } ^ { d } } } } = \\frac { 1 } { N P } \\sum _ { i = 1 } ^ { N P } { x _ { i , t } ^ { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $D$ 为问题维度， $\\textit { d }$ 为当前维度， $N P$ 为种群规模。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传统反向学习中，每轮迭代生成的反向种群都会与原始种群一起进行比较从而生成新种群，不仅会大大提升运算时间开销，新种群位置的重置还会打断原始种群的收敛过程，导致算法在多次独立实验时表现出不稳定的问题，因此适时地进行反向重构种群才能够最大程度的发挥反向学习策略的优势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "受文献[19]启发，本文设置一个种群多样性阈值(diversitythreshold,DT)用以调控当前种群是否需要通过上述综合反向种群生成新种群。若计算得出的种群多样性大于阈值，则生成新种群；若种群多样性小于阈值，则不生成新种群。由于黏菌算法本身具有维持自身种群多样性的能力，故当种群多样性变小时可能表明种群处于收敛过程。在实验中发现，即使黏菌算法陷入局部最优，其种群多样性并不会始终维持低水平，而是会在高低水平间震荡波动，此时若种群多样性超过多样性阈值，综合反向种群便可以通过生成新种群帮助原始种群扩大搜索范围，跳出局部最优。该机制以较小的计算量达到了缩减反向重构过程的效果，显著的减少了运算的时间开销；同时由于种群多样性与种群的收敛与否具有较强相关性，因此通过设定阈值对种群状态进行筛选后重构得到的新种群也一定程度上可以对应种群的不同收敛状态从而在种群陷入停滞时进行帮助，在种群快速收敛时不进行干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3无迹西格玛点引导策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[20]首次提出了使用无迹变换(unscentedtransformation，UT)生成一系列无迹西格玛点帮助原始种群逼近理论最优点位置。通过修正原始算法的步进方式，丰富种群搜索的方式，提高算法面对不同问题时的泛用性，避免算法陷入停滞，无迹西格玛点数学表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\xi _ { 0 } = \\overline { { x } } } \\\\ { \\displaystyle \\xi _ { d } = \\overline { { x _ { d } } } + \\sigma _ { d } , d = 1 , 2 , . . . , D } \\\\ { \\displaystyle \\xi _ { d + D } = \\overline { { x _ { d } } } - \\sigma _ { d } , d = 1 , 2 , . . . , D } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\overline { { x _ { d } } }$ 为维度 $d$ 上位置的平均值， $\\sigma _ { d }$ 为维度 $\\textit { d }$ 上位置的标准差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由上式可知无迹西格玛点共 $2 D + 1$ 个。本文使用第一个无迹西格玛点，即种群位置的均值来引导黏菌算法的勘探阶段；使用剩余无迹西格玛点，即使用标准差和均值运算得出的新位置来引导黏菌算法的开采阶段，帮助算法在反向学习扩展后的搜索空间中引导算法逼近理论最优。式(7)为黏菌算法的核心搜索框架，其中 $r < p$ 时种群表现出勘探的行为，其基本移动方式为使用最优位置部分信息的基础上使用两个随机个体位置信息生成步长，本文将 $X _ { A }$ 替换为 $\\boldsymbol { \\cal X }$ ，减少步长生成的随机性，使用均值引导种群在勘探时快速收敛； $r \\geq p$ 时种群表现出开采的行为，其基本移动方式为对自身位置的衰减，本文将其替换为均值与方差生成的新位置，同时保留参数vc保证一定的随机性，帮助黏菌算法在开采阶段具有逼近理论最优点的能力，同时设定转换概率，不全部计算 $2 D$ 个无迹西格玛点，节省运算开销。本文使用无迹西格玛点改进后的式(7)如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { X ^ { * } = \\left\\{ \\begin{array} { l l } { r a n d \\cdot \\left( U B - L B \\right) + L B , r a n d < z } \\\\ { X _ { b } \\left( t \\right) + \\nu b \\cdot \\left( W \\cdot \\overline { { \\mathrm { X } \\left( t \\right) } } - X _ { B } \\left( t \\right) \\right) , r < p } \\\\ { \\overline { { \\mathrm { X } \\left( t \\right) } } + \\nu c \\cdot \\sigma ( t ) , r \\geq p } & { r ^ { \\prime } > 0 . 5 } \\\\ { \\overline { { \\mathrm { X } \\left( t \\right) } } - \\nu c \\cdot \\sigma ( t ) , r \\geq p } & { r ^ { \\prime } \\leq 0 . 5 } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4无迹西格玛点引导的拟反向黏菌算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文提出了无迹西格玛点引导的拟反向黏菌算法(unscented sigma point guided quasi-opposite Slime MouldAlgorithm，UQSMA)。首先，根据原始黏菌算法勘探和开采的不同阶段，使用拟反向学习和拟反射学习过程生成综合反向种群，在黏菌种群不同的空间特征搜索阶段使用不同的反向过程有助于放大黏菌在不同搜索行为时的倾向，强化黏菌算法本身的行为特征，加速算法的启动；其次，使用线性多样性度量计算种群多样性，并根据种群的实时多样性判断是否使用综合反向种群加入原始种群生成新种群，保证算法精度，节约运算开销，提高算法的稳定性；最后，使用无迹西格玛点替换原始黏菌算法的基本移动方式，引导种群逼近理论最优解，丰富搜索的路径，使算法保持最优解的更新和优化，避免算法停滞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5改进算法的步骤法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UQSMA算法的流程图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6 时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设种群规模为 $N P$ ，搜索空间维度为 $D$ ，最大迭代次数为 $T$ ，原始SMA算法的时间复杂度主要来源为初始化、适应度计算和位置更新，其时间复杂度为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO \\left( S M A \\right) { = } O ( N P ) { + } O ( N P ^ { * } T ) { + } O ( N P ^ { * } D ^ { * } T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UQSMA算法主要由拟反向和拟反射学习组成的综合反向学习框架和无迹西格玛点引导机制两个改进策略组成。反向过程需要根据 $N P$ 个个体生成 $N P$ 个反向个体，增加计算NP个反向个体的适应度，对所有2NP个个体进行排序并生成新种群，该过程时间复杂度为 $O ( N P ^ { * } D + 2 N P + 2 N P l g 2 N P )$ ，与标准反向学习算法相同；无迹西格玛点生成过程不增加时间复杂度，则UQSMA算法的时间复杂度如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { O ( U Q S M A ) { = } O \\big ( N P { + } \\big ( N P ^ { * } D { + } 2 N P { + } 2 N P l g 2 N P \\big ) \\big ) } \\\\ & { { + } O \\big ( N P ^ { * } T \\big ) { + } O \\big ( \\big ( 2 N P ^ { * } D { + } 2 N P { + } 2 N P \\lg 2 N P \\big ) ^ { * } T \\big ) } \\\\ & { { = } O \\big ( N P ^ { * } \\big ( 3 { + } D { + } 2 l g 2 N P { + } T \\big ( 3 { + } 2 D { + } 2 l g 2 N P \\big ) \\big ) \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UQSMA算法实际运行时，由于存在适应度阈值判断是否进行综合反向过程，故根据实际问题的不同算法总时间复杂性有不同程度的降低，即 $O ( ( 2 N P ^ { * } D + 2 N P + 2 N P \\lg 2 N P ) ^ { * } T )$ 部分在实际运算过程中会更小，故式(17)是UQSMA算法时间复杂度的理论最大值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/363251fa2cf6a46f397c4f583bd825ad970eeb009560751e6ac74c97f19da5b4.jpg",
+        "img_caption": [
+            "图2UQSMA算法流程图Fig.2Flow chart of UQSMA"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7收敛性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UQSMA算法本质是一种随机搜索算法，可由概率测度法证明UQSMA的全局收敛性。全局收敛性准则及定理[18]阐述了算法满足全局收敛性需要满足的两个条件：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "条件1 （204号 $f ( D ( z , \\xi ) ) { \\leq } f ( z )$ ，且若 $\\xi \\in S$ ，则 $f ( D ( z , \\xi ) ) { \\le } f ( \\xi )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $f$ 为适应度函数， $D$ 为随机搜索算法， $z$ 为解空间 $R ^ { N }$ 子集 $s$ 的其中一个点，该点能使适应度函数取得最小值或在$s$ 上产生可接受的函数值下确界， $\\xi$ 为算法 $D$ 在迭代搜索过程中得到的解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "条件2对于 $s$ 中任意的 Borel子集 $A$ ，若其概率测度$V \\left[ A \\right] > 0$ ，则有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\prod _ { k = 0 } ^ { \\infty } ( 1 - \\mu _ { k } \\left( A \\right) ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mu _ { k } \\left( A \\right) = P \\left( x ^ { k } \\in A \\vert x ^ { 0 } , x ^ { 1 } , . . . x ^ { k - 1 } \\right)$ 为算法 $D$ 第 $k$ 次迭代结果在集合 $A$ 上的概率测度， $\\left\\{ x _ { k } \\right\\} _ { k = 1 } ^ { \\infty }$ 。该假设表明，对于 $s$ 中任意满足 $V \\left[ A \\right] > 0$ 的子集 $A$ 经过算法的无穷次迭代后，错过解空间 $s$ 的任意的Borel子集 $A$ 的概率为0，即满足上述条件的算法在无穷次搜索后无法达到近似全局最优点的概率为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引理1随机优化算法全局收敛定理[18].若函数 $f$ 可测，搜索空间 $s$ 是 $R ^ { n }$ 上的可测子集，若算法满足条件1和条件2，则有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { k \\to \\infty } P \\left[ x ^ { k } \\in R \\right] = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $R$ 是全局最优点集合， $P [ x ^ { k } \\in R ]$ 是算法第 $k$ 次搜索迭代结果落在 $R$ 中的概率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理1 UQSMA 满足条件1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明本文算法最优位置更新包含原始黏菌算法的位置更新和拟反向与拟反射学习的位置更新，故可将算法 $D$ 抽象",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD \\big ( G _ { t } , X _ { i , t } \\big ) = \\left\\{ \\begin{array} { l l } { { G _ { t } , } } & { { f \\big ( g \\big ( X _ { i , t } \\big ) \\big ) \\geq f \\big ( G _ { t } \\big ) } } \\\\ { { g \\big ( X _ { i , t } \\big ) , } } & { { f \\big ( g \\big ( X _ { i , t } \\big ) \\big ) < f \\big ( G _ { t } \\big ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD \\big ( G _ { t } , X _ { i , t } \\big ) = \\left\\{ \\begin{array} { l l } { { G _ { t } , } } & { { f \\big ( h \\big ( X _ { i , t } \\big ) \\big ) \\geq f \\big ( G _ { t } \\big ) } } \\\\ { { h \\big ( X _ { i , t } \\big ) , } } & { { f \\big ( h \\big ( X _ { i , t } \\big ) \\big ) < f \\big ( G _ { t } \\big ) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $g$ 对应拟反向与拟反射学习过程，与标准反向学习过程在位置更新步骤上逻辑一致， $X _ { i , t }$ 表示 $R ^ { \\scriptscriptstyle N }$ 中第 $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { t }$ 代个体 $i$ 的样本空间， $g \\left( X _ { i , t } \\right)$ 表示第 $\\textit { t }$ 次迭代中通过拟反向和拟反射学习生成的综合反向种群与原始黏菌种群整合后更新的个体 $i$ 位置， $h \\big ( X _ { i , t } \\big )$ 表示黏菌个体 $i$ 经过位置移动后第 $t$ 次更新后的位置， $G _ { t }$ 为当前得到的全局最优位置。由上述表达式可知， $G _ { t }$ 所对应的全局最优适应度单调不增，且逐渐向解空间的下确界收敛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明成立。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理2 UQSMA 满足条件2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明若算法满足条件2，种群规模为 $N P$ 的黏菌种群的样本空间必须包含 $s$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\subseteq \\bigcup _ { i = 1 } ^ { N } M _ { i , t }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { M } _ { i , t }$ 为第 $t$ 次迭代中个体 $i$ 的样本空间支撑集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于UQSMA中拟反向和拟反射学习过程的位置更新机制，有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng \\left( X _ { i , t } \\right) = \\left. \\begin{array} { l } { r a n d \\bigg [ \\bigg ( \\frac { L B + U B } { 2 } \\bigg ) , \\left( L B + U B - X _ { i , t } \\right) \\bigg ] , r < p } \\\\ { r a n d \\bigg [ \\bigg ( \\frac { L B + U B } { 2 } \\bigg ) , { X _ { i , t } \\bigg ] } , r \\geq p } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由此可知 $g \\left( X _ { i , t } \\right)$ 为 $R ^ { \\scriptscriptstyle N }$ 中不同于 $X _ { i , t }$ 的样本空间，即经过拟反向和拟反射学习过程后 $X _ { i , t }$ 到达 $g \\left( X _ { i , t } \\right)$ 的概率大于零。因此随着迭代次数的增加每个 $g \\left( X _ { i , t } \\right)$ 的闭包 $V \\big [ g \\big ( X _ { i , t } \\big ) \\big ]$ 与其并集$\\textstyle \\bigcup _ { i = 1 } ^ { N } g \\left( X _ { i , t } \\right)$ 的闭包 $V { \\left[ \\bigcup _ { i = 1 } ^ { N } g \\left( X _ { i , t } \\right) \\right] }$ 都在逐渐扩大，因此存在一个整数 $t _ { 1 }$ ，当 $t > t _ { 1 }$ 时",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\subseteq { \\bigcup _ { i = 1 } ^ { N } } g \\left( X _ { i , t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同理，原始黏菌算法的位置更新过程得到的样本空间并集的闭包 $V { \\left[ \\bigcup _ { i = 1 } ^ { N } h { \\left( X _ { i , t } \\right) } \\right] }$ 也在逐渐扩大。因此存在一个整数 $t ^ { \\prime }$ ，当 $t > t ^ { \\prime }$ 时",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\biggl ( \\bigcup _ { i = 1 } ^ { N } h \\bigl ( X _ { i , t } \\bigr ) \\biggr ) \\cup \\biggl ( \\bigcup _ { i = 1 } ^ { N } g \\left( X _ { i , t } \\right) \\biggr ) \\supseteq S\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $s$ 的 Borel子集 $D = \\left( \\bigcup _ { i = 1 } ^ { N } h ( X _ { i , t } ) \\right) \\cup \\left( \\bigcup _ { i = 1 } ^ { N } g ( X _ { i , t } ) \\right)$ ，有$V [ \\boldsymbol { D } ] > 0$ ， $\\textstyle \\mu _ { i } ( D ) = \\sum _ { i = 1 } ^ { N } \\mu _ { i , t } ( D ) = 1$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\prod _ { k = 0 } ^ { \\infty } ( 1 - \\mu _ { t } \\left[ D \\right] ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明成立。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，由引理1得，UQSMA具有全局收敛性，且由于拟反向和拟反射学习过程生成的新样本空间不同于原始黏菌种群的样本空间，该策略可以扩大整个种群在一次迭代中搜索的样本空间，故收敛速度相对于原始黏菌算法有一定加快。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验及结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验环境为Windows10，64位操作系统，CPU为AMDRyzen $7 ~ 5 8 0 0 \\mathrm { H }$ ，主频 $3 . 2 0 \\mathrm { G H z }$ ，内存16GB，算法基于MATLAB2020b 编写。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验一为了充分验证本文所提出的UQSMA在求解函数优化问题时的求解精度和稳定性，将UQSMA算法与其他算法在CEC2017测试函数上进行求解，并进行实验结果的对比。对比用算法包括最新的改进黏菌算法AFSMA[3]、动态反向改进的黏菌算法DOLSMA、精英反向与其他策略结合改进的鲸鱼优化算法EGSWOA[22]、原始的黏菌算法SMA[1]、同一科研团队提出的哈里斯鹰算法HHO[23]和经典的鲸鱼优化算法WOA[21]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为保证每种算法对比时的公平性，实验中种群规模设置为30，最大迭代次数设置为500，并独立运行30次计算得出统计结果。对比用算法参数设置均来源于对应文献设置，如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文选用了表2所列示的29个CEC2017基准测试函数，其类型包含单峰(Unimodal,UM)、多峰(Multimodal,MM)、混合(Hybrid,H)及复合(Composition,C)，维度可选用10、30、50、100，此处实验使用标准维度30维，02号函数由于高维的不稳定性习惯上不使用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3为UQSMA与第一部分算法进行对比的实验结果。总体上看，UQSMA在29个CEC2017基准测试函数中在21个函数上平均求解精度的表现优于其他所有对比算法，说明本文改进策略能够使算法保证持续的搜索效果和搜索效率，克服原始黏菌算法搜索停止的局限。在此基础上UQSMA算法的求解精度均高于传统反向改进的黏菌算法算法DOLSMA，说明拟反向和拟反射学习的组合对于黏菌算法效果的提升优于传统的动态反向学习。同时，UQSMA算法的方差整体低于其他算法，说明了本文策略的组合对于算法稳定性的提升是有效的，对于算法最终求解精度和鲁棒性具有一定的效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/34dd07d8ce89a9d336910574d7a58f232b94ecfbb2f13c2a6c9ceeeb9cb31a1a.jpg",
+        "table_caption": [
+            "表2CEC2017函数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>主要参数</td></tr><tr><td>UQSMA</td><td>z=0.03;DT=0.3</td></tr><tr><td>AFSMA</td><td>0=1</td></tr><tr><td>DOLSMA</td><td>z=0.03</td></tr><tr><td>EGSWOA</td><td>b=1;x1=-π+(1-τ)*2π; x2=-π+τ*2π</td></tr><tr><td>SMA</td><td>z=0.03</td></tr><tr><td>HHO</td><td>β=1.5</td></tr><tr><td>WOA</td><td>b=1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b48c07dfd80962d09db31cf23223b4b9581d608129c1a18b63ceb6530c61035.jpg",
+        "table_caption": [
+            "Tab.2 CEC2017 function "
+        ],
+        "table_footnote": [
+            "表3CEC2017测试函数和Wilcoxon秩和检验的结果对比"
+        ],
+        "table_body": "<html><body><table><tr><td>函数</td><td>函数名称</td><td></td><td>类型最优值</td><td>函数</td><td>函数名称</td><td>类型最优值</td><td></td></tr><tr><td>CEC01</td><td>Shifted and Rotated Bent Cigar Function</td><td>UM</td><td>100</td><td>CEC16</td><td>Hybrid Function 5 (N=4)</td><td>H</td><td>1600</td></tr><tr><td>CEC03</td><td>Shifted and Rotated Zakharov Function</td><td>UM</td><td>300</td><td>CEC17</td><td>Hybrid Function 6 (N=4)</td><td>H</td><td>1700</td></tr><tr><td>CEC04</td><td>Shifted and Rotated Rosenbrock's Function</td><td>MM</td><td>400</td><td>CEC18</td><td>Hybrid Function 6 (N=5)</td><td>H</td><td>1800</td></tr><tr><td>CEC05</td><td>Shifted and Rotated Rastrigin's Function</td><td>MM</td><td>500</td><td>CEC19</td><td>Hybrid Function 6 (N=5)</td><td>H</td><td>1900</td></tr><tr><td>CEC06</td><td>Shifted and Rotated Expanded Scaffer's F6 Function</td><td>MM</td><td>600</td><td>CEC20</td><td>Hybrid Function 6 (N=6)</td><td>H</td><td>2000</td></tr><tr><td>CEC07</td><td>Shifted and Rotated Lunacek Bi-Rastrigin Function</td><td>MM</td><td>700</td><td>CEC21</td><td>Composition Function 1 (N=3)</td><td>C</td><td>2100</td></tr><tr><td>CEC08</td><td>Shifted and Rotated Non-Continuous Rastrigin's Function</td><td>MM</td><td>800</td><td>CEC22</td><td>Composition Function 2 (N=3)</td><td>C</td><td>2200</td></tr><tr><td>CEC09</td><td>Shifted and Rotated Lévy Function</td><td>MM</td><td>900</td><td>CEC23</td><td>Composition Function 3 (N=4)</td><td>C</td><td>2300</td></tr><tr><td>CEC10</td><td>Shifted and Rotated Schwefel's Function</td><td>MM</td><td>1000</td><td>CEC24</td><td>Composition Function 4 (N=4)</td><td>C</td><td>2400</td></tr><tr><td>CEC11</td><td>Hybrid Function 1 (N=3)</td><td>H</td><td>1100</td><td>CEC25</td><td>Composition Function 5 (N=5)</td><td>C</td><td>2500</td></tr><tr><td>CEC12</td><td>Hybrid Function 2 (N=3)</td><td>H</td><td>1200</td><td>CEC26</td><td>Composition Function 6 (N=5)</td><td>C</td><td>2600</td></tr><tr><td>CEC13</td><td>Hybrid Function 3 (N=3)</td><td>H</td><td>1300</td><td>CEC27</td><td>Composition Function 7 (N=6)</td><td>C</td><td>2700</td></tr><tr><td>CEC14</td><td>Hybrid Function 4 (N=4)</td><td>H</td><td>1400</td><td>CEC28</td><td>Composition Function 8 (N=6)</td><td>C</td><td>2800</td></tr><tr><td>CEC15</td><td>Hybrid Function 5 (N=4)</td><td>H</td><td>1500</td><td>CEC29</td><td>Composition Function 9 (N=3)</td><td>C</td><td>2900</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cc89260d54a5d8c0a0be7fc343ab8de72aefe7552cd6d2867b66d54559eb577.jpg",
+        "table_caption": [
+            "表1主要参数Tab.1Main parameters",
+            "Tab.3Comparison of CEC2o17 function results and Wilcoxon's rank-sum tes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>UQSMA</td><td>AFSMA</td><td>DOLSMA</td><td>EGSWOA</td><td>SMA</td><td>HHO</td><td>WOA</td></tr><tr><td></td><td>Mean(Std)win</td><td>Mean(Std)win</td><td>Mean(Std)win</td><td>Mean(Std)win</td><td>Mean(Std)win</td><td>Mean(Std)win</td><td>Mean(Std)win</td></tr><tr><td></td><td>CEC01 1.21E+04(8.85E+03)</td><td>4.33E+04(1.07E+05)=</td><td>5.50E+05(3.24E+05)+</td><td>2.90E+10(6.55E+09)+</td><td>1.19E+05(4.92E+04)+</td><td>3.81E+08(2.39E+08)+</td><td>5.65E+09(2.26E+09)+</td></tr><tr><td></td><td>CEC03 1.26E+04(5.16E+03)</td><td>4.80E+04(1.44E+04)=</td><td>3.27E+04(1.16E+04)=</td><td>8.39E+04(6.63E+03)=</td><td>3.61E+04(1.60E+04)=</td><td>5.88E+04(6.44E+03)=</td><td>2.80E+05(6.03E+04)=</td></tr><tr><td></td><td>CEC04 5.01E+02(2.58E+01)</td><td>5.11E+02(2.75E+01)+</td><td>5.03E+02(1.54E+01)+</td><td>6.34E+03(1.50E+03)+</td><td>5.20E+02(3.98E+01)+</td><td>7.20E+02(9.25E+01)+</td><td>1.38E+03(3.85E+02)+</td></tr><tr><td></td><td>CEC05 6.04E+02(3.07E+01)</td><td>6.74E+02(3.36E+01)=</td><td>6.37E+02(3.44E+01)=</td><td>8.99E+02(4.09E+01)+</td><td>6.29E+02(3.93E+01)=</td><td>7.69E+02(3.14E+01)+</td><td>8.59E+02(5.33E+01)+</td></tr><tr><td></td><td>CEC06 6.19E+02(7.99E+00)</td><td>6.24E+02(1.02E+01)+</td><td>6.21E+02(1.16E+01)+</td><td>6.83E+02(1.21E+01)+</td><td>6.18E+02(1.14E+01)-</td><td>6.68E+02(5.38E+00)+</td><td>6.84E+02(1.31E+01)+</td></tr><tr><td></td><td>CEC07 8.51E+02(2.78E+01)</td><td>9.35E+02(5.40E+01)+</td><td>8.93E+02(4.03E+01)=</td><td>1.38E+03(6.75E+01)+</td><td>8.91E+02(4.95E+01)=</td><td>1.32E+03(6.42E+01)+</td><td>1.32E+03(7.53E+01)+</td></tr><tr><td></td><td>CEC08 9.00E+02(1.96E+01)</td><td>9.54E+02(3.33E+01)+</td><td>9.31E+02(3.10E+01)+</td><td>1.12E+03(2.63E+01)+</td><td>9.34E+02(3.67E+01)+</td><td>9.93E+02(2.96E+01)+</td><td>1.07E+03(4.85E+01)+</td></tr><tr><td></td><td>CEC09 1.99E+03(6.54E+02)</td><td>5.05E+03(1.56E+03)+</td><td>4.39E+03(1.60E+03)+</td><td>1.08E+04(1.32E+03)+</td><td>4.37E+03(1.47E+03)+</td><td>8.92E+03(8.65E+02)+</td><td>1.06E+04(3.37E+03)+</td></tr><tr><td>CEC10</td><td>4.79E+03(6.36E+02)</td><td>5.24E+03(7.21E+02)+</td><td>5.05E+03(8.10E+02)+</td><td>8.39E+03(6.40E+02)+</td><td>4.97E+03(6.99E+02)+</td><td>6.09E+03(8.64E+02)+</td><td>7.37E+03(6.18E+02)+</td></tr><tr><td>CEC11</td><td>1.26E+03(4.50E+01)</td><td>1.25E+03(4.85E+01)-</td><td>1.28E+03(5.74E+01)=</td><td>7.12E+03(1.88E+03)+</td><td>1.29E+03(6.31E+01)=</td><td>1.54E+03(1.70E+02)+</td><td>1.02E+04(4.98E+03)+</td></tr><tr><td></td><td>CEC12 3.56E+06(2.84E+06)</td><td>3.37E+06(3.13E+06)=</td><td>5.58E+06(4.07E+06)=</td><td>2.02E+09(8.57E+08)+</td><td>4.74E+06(3.82E+06)=</td><td>9.00E+07(1.01E+08)+</td><td>4.58E+08(2.46E+08)+</td></tr><tr><td></td><td>CEC13 6.82E+04(3.64E+04)</td><td>3.78E+04(6.34E+04)=</td><td>1.01E+05(5.07E+04)+</td><td>4.07E+08(3.97E+08)+</td><td>6.60E+04(3.35E+04)=</td><td>9.18E+06(3.98E+07)+</td><td>1.47E+07(2.11E+07)+</td></tr><tr><td></td><td>CEC14 4.07E+04(3.79E+04)</td><td>5.05E+05(4.93E+05)+</td><td>1.79E+05(1.92E+05)+</td><td>2.36E+06(1.61E+06)+</td><td>2.10E+05(2.20E+05)=</td><td>1.40E+06(1.62E+06)+</td><td>3.11E+06(2.72E+06)+</td></tr><tr><td></td><td>CEC15 4.58E+04(2.43E+04)</td><td>1.33E+04(1.33E+04)-</td><td>2.78E+04(1.98E+04)+</td><td>7.88E+07(8.33E+07)+</td><td>2.47E+04(1.64E+04)+</td><td>1.36E+05(9.08E+04)+</td><td>9.31E+06(1.94E+07)+</td></tr><tr><td></td><td>CEC16 2.61E+03(2.28E+02)</td><td>2.64E+03(3.03E+02)+</td><td>2.61E+03(3.02E+02)+</td><td>4.62E+03(5.33E+02)+</td><td>2.56E+03(3.47E+02)-</td><td>3.70E+03(5.09E+02)+</td><td>4.28E+03(5.92E+02)+</td></tr><tr><td></td><td>CEC17 2.13E+03(1.75E+02)</td><td>2.45E+03(2.64E+02)=</td><td>2.36E+03(2.37E+02)=</td><td>2.92E+03(3.67E+02)+</td><td>2.38E+03(2.18E+02)=</td><td>2.71E+03(3.45E+02)+</td><td>2.91E+03(2.84E+02)+</td></tr><tr><td></td><td>CEC18 1.02E+06(7.54E+05)</td><td>2.45E+06(2.72E+06)+</td><td>2.28E+06(3.35E+06)+</td><td>1.84E+07(1.82E+07)+</td><td>2.20E+06(2.35E+06)+</td><td>2.40E+06(1.92E+06)+</td><td>1.33E+07(1.27E+07)+</td></tr><tr><td></td><td>CEC19 2.45E+04(2.25E+04)</td><td>1.19E+04(1.56E+04)-</td><td>2.14E+04(1.97E+04)=</td><td>9.63E+07(9.51E+07)+</td><td>1.77E+04(1.91E+04)+</td><td>2.09E+06(1.70E+06)+</td><td>1.58E+07(1.31E+07)+</td></tr><tr><td></td><td>CEC20 2.53E+03(1.56E+02)</td><td>2.71E+03(1.88E+02)+</td><td>2.60E+03(1.76E+02)=</td><td>2.90E+03(1.85E+02)+</td><td>2.65E+03(1.98E+02)=</td><td>2.81E+03(1.87E+02)+</td><td>2.92E+03(2.15E+02)+</td></tr><tr><td></td><td>CEC21 2.39E+03(4.08E+01)</td><td>2.45E+03(3.67E+01)+</td><td>2.43E+03(3.34E+01)=</td><td>2.67E+03(5.12E+01)+</td><td>2.44E+03(3.85E+01)+</td><td>2.60E+03(5.07E+01)+</td><td>2.66E+03(5.08E+01)+</td></tr><tr><td></td><td>CEC22 3.05E+03(1.53E+03)</td><td>6.13E+03(1.85E+03)+</td><td>5.82E+03(1.74E+03)+</td><td>7.88E+03(1.26E+03)+</td><td>6.26E+03(9.23E+02)+</td><td>7.57E+03(1.01E+03)+</td><td>7.82E+03(1.84E+03)+</td></tr><tr><td></td><td>CEC23 2.76E+03(2.58E+01)</td><td>2.80E+03(3.96E+01)+</td><td>2.77E+03(2.60E+01)+</td><td>3.24E+03(1.30E+02)+</td><td>2.78E+03(3.14E+01)+</td><td>3.32E+03(1.35E+02)+</td><td>3.16E+03(9.95E+01)+</td></tr><tr><td></td><td>CEC24 2.94E+03(4.54E+01)</td><td>2.98E+03(4.81E+01)+</td><td>2.96E+03(3.77E+01)=</td><td>3.44E+03(1.16E+02)+</td><td>2.96E+03(3.56E+01)+</td><td>3.50E+03(1.80E+02)+</td><td>3.30E+03(9.78E+01)+</td></tr><tr><td></td><td>CEC25 2.90E+03(1.71E+01)</td><td>2.91E+03(2.90E+01)+</td><td>2.90E+03(1.44E+01)=</td><td>3.85E+03(1.72E+02)+</td><td>2.91E+03(2.34E+01)=</td><td>3.02E+03(3.77E+01)+</td><td>3.21E+03(8.34E+01)+</td></tr><tr><td></td><td>CEC26 4.35E+03(9.63E+02)</td><td>5.37E+03(4.12E+02)=</td><td>4.83E+03(4.63E+02)=</td><td>9.24E+03(7.12E+02)+</td><td>5.02E+03(5.90E+02)=</td><td>8.17E+03(8.36E+02)+</td><td>8.59E+03(1.14E+03)+</td></tr><tr><td></td><td>CEC27 3.24E+03(1.95E+01)</td><td>3.25E+03(2.09E+01)+</td><td>3.24E+03(1.61E+01)=</td><td>3.20E+03(1.80E-09)-</td><td>3.24E+03(1.77E+01)+</td><td>3.69E+03(1.90E+02)+</td><td>3.51E+03(1.51E+02)+</td></tr><tr><td></td><td>CEC28 3.24E+03(2.49E+01)</td><td>3.27E+03(2.65E+01)=</td><td>3.27E+03(3.93E+01)=</td><td>3.30E+03(4.00E-10)+</td><td>3.27E+03(4.50E+01)=</td><td>3.49E+03(1.24E+02)+</td><td>3.97E+03(4.12E+02)+</td></tr><tr><td></td><td>CEC29 3.95E+03(2.02E+02)</td><td>4.02E+03(2.94E+02)+</td><td>4.06E+03(2.25E+02)+</td><td>5.87E+03(7.31E+02)+</td><td>4.04E+03(2.38E+02)+</td><td>4.97E+03(5.31E+02)+</td><td>5.34E+03(5.61E+02)+</td></tr><tr><td></td><td>CEC30 4.28E+05(2.27E+05)</td><td>3.28E+04(1.43E+04)=</td><td>2.56E+05(2.14E+05)=</td><td>2.11E+08(1.30E+08)+</td><td>1.17E+05(9.64E+04)=</td><td>2.46E+07(4.10E+07)+</td><td>7.72E+07(5.38E+07)+</td></tr><tr><td>+/=/-</td><td></td><td>17/9/3</td><td>14/15/0</td><td>27/1/1</td><td>14/13/2</td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td>28/1/0</td><td>28/1/0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证改进算法的有效性，需要对群智能算法结果进行统计检验[24]，本文选择Wilcoxon 秩和检验进行统计检验，显著性水平设置为 $5 \\%$ ，表3展示了UQSMA算法与其他算法的检验结果，每列最后一个符号为UQSMA算法与算法成对比较结果的胜负标记，其中\" $^ { \\cdot } +$ \"代表均值结果优于比较算法且Wilcoxon 秩和检验证明两算法结果分布具有差异，即UQSMA算法综合优于对比算法；‘ $\\ L ^ { \\ L } =$ ”代表无论均值优劣且Wilcoxon秩和检验证明两算法结果分布不具有明显差异，即UQSMA算法综合与对比算法相似；“-\"代表均值结果劣于比较算法且Wilcoxon秩和检验证明两算法结果分布具有差异，即UQSMA算法综合劣于对比算法。最后一行为优于、相似与劣于的函数数量合计。表3结果表明UQSMA算法对于每个CEC2017基准测试函数的求解结果完全不劣于DOLSMA、HHO、WOA三个对比算法；相较于改进算法EGSWOA仅在1个测试函数处于劣势和在1个测试函数上表现相似，其他函数均处于优势；相较于AFSMA算法和原始SMA算法，UQSMA算法仅在少数测试函数上处于劣势。相较于原始SMA，接近半数的测试函数结果分布无明显差异分析可知UQSMA算法通过设定种群多样性阈值适时的进行反向过程重构原种群，保留了原始SMA的搜索特征，但在此基础上最终的求解结果多数优于原始SMA算法，说明本文策略间组合可以达到在不改变原始SMA算法搜索特征的基础上帮助算法持续搜索，防止算法停滞，从而提高最终的算法求解精度，可以证明UQSMA的持续搜索效果在求解CEC2017基准测试函数上表现更优。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了形象的观察改进算法的收敛情况与稳定性，绘制UQSMA与上述对比算法的收敛曲线和箱线图。图3给出部分基准测试函数的收敛曲线图,各算法曲线图例与图3(h)一致，为了便于观察高精度的曲线收敛情况，纵坐标取以10为底的对数绘制所有曲线图像。图4给出部分基准测试函数带均值的箱线图。观察可得，UQSMA算法具有前期收敛快、后期保持持续搜索的优势，说明了拟反向过程和拟反射过程在前中期扩大了搜索空间，从而使算法快速的找到更优的寻优方向从而加速收敛；无迹西格玛点对于种群搜索行为的修正帮助算法在迭代后期依旧能够保持持续的精进，避免算法搜索停滞。同时，UQSMA在保证精度的情况下，重复计算间的方差更小，稳定性更强，说明反向学习扩大搜索空间的特点有助于保持算法的稳定，即使反向过程增加了种群的多样性、无迹西格玛点引入了新的随机性，组合后算法得益于根据多样性进行反向重构的策略依旧具有优于对比算法的稳定性。直观来看，本文改进策略的组合对防止算法停滞和加强算法稳定性有积极影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab1ec8cd4172c8d83476fa0f3f597a0a0bf760ac315af8ae5a5956bb605bba6c.jpg",
+        "img_caption": [
+            "Fig.3 CEC2017 Function average convergence curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图3CEC2017测试函数收敛曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/87111e9292ae1de9f45f4de601efe14d4dbb385df7ce1aaa51b8c5f034ea5ec6.jpg",
+        "img_caption": [
+            "图4CEC2017测试函数箱线图Fig. 4 CEC2017Function box chart"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了综合、简明地评估UQSMA与其他算法对比的竞争性，使用平均绝对误差MAE对上述算法进行排序[25]。表 4展示了所有算法基于29个CEC2017基准测试函数的MAE。MAE计算公式如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM A E = \\frac { 1 } { N F } \\sum _ { i = 1 } ^ { N F } \\lvert f _ { i } - f _ { i } ^ { * } \\rvert\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中 $N F$ 为函数个数， $f _ { i }$ 为算法在第 $i$ 个函数上求解结果的平均值， $f _ { i } ^ { * }$ 为第 $i$ 个函数的理论最优值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4MAE 算法排名",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3eaced08f9911871e16865c8d345bb3c54ee591d1f55966534eca724e241b351.jpg",
+        "table_caption": [
+            "Tab.4MAE algorithm ranking "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>MAE</td><td>RANK</td></tr><tr><td>UQSMA</td><td>1.80E+05</td><td>1</td></tr><tr><td>AFSMA</td><td>2.25E+05</td><td>2</td></tr><tr><td>SMA</td><td>2.60E+05</td><td>3</td></tr><tr><td>DOLSMA</td><td>3.12E+05</td><td>4</td></tr><tr><td>HHO</td><td>1.76E+07</td><td>5</td></tr><tr><td>WOA</td><td>2.15E+08</td><td>6</td></tr><tr><td>EGSWOA</td><td>1.10E+09</td><td>7</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，UQSMA排名第一，并且UQSMA的MAE值明显小于其他算法，更加综合的表明了该算法的有效性和鲁棒性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验二为了验证UQSMA算法改进的有效性，需要对比分析不完全算法[26]，使用CEC2017基准测试函数的维度30将UQSMA与其不完全算法无迹西格玛点引导的黏菌算法USMA、单纯使用拟反向学习改进的黏菌算法QOSMA、单纯使用拟反射学习改进的黏菌算法QRSMA进行对比，表5展示了更加综合和简洁的MAE排名结果。由表5可见，UQSMA算法排名第一，QOSMA算法排名第二且优于原始SMA算法，USMA和QRSMA排名第三第四且劣于原始SMA算法，说明了无迹西格玛点策略在单一使用时由于引入新的随机性会导致算法精度下降，固定持续的拟反向过程同样会破坏算法的搜索降低精度。但拟反射和拟反向与无迹西格玛点策略的组合使得算法表现最优，一方面综合的反向过程和适时的反向重构弥补了无迹西格玛点带来的随机性，提高了算法的稳定性；另一方面无迹西格玛点引入的新搜索行为可以帮助算法精进搜索细致性，弥补反向学习扩大搜索空间后不易捕捉到精进方向的盲目性，防止算法停滞。多种策略的结合相辅相成，既规避了单独策略使用时的缺陷，同时策略的组合使得策略发挥出更好的效果，有利于算法持续搜索效率和稳定性的提升。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/11630717b04130ff1bbe2fa2fc5931cdc70ae9a33b92638faba6eb0ffd79fc99.jpg",
+        "table_caption": [
+            "表5MAE不完全算法排名"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>MAE</td><td>RANK</td></tr><tr><td>UQSMA</td><td>1.80E+05</td><td>1</td></tr><tr><td>QOSMA</td><td>2.07E+05</td><td>2</td></tr><tr><td>QRSMA</td><td>3.45E+05</td><td>3</td></tr><tr><td>USMA</td><td>3.64E+05</td><td>4</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验三：为了验证UQSMA算法在实际工程应用中的效果，使用UQSMA求解轿车侧面碰撞优化问题[27]，本问题主要考虑了B柱内径、B柱加固、地板内径、横梁、门梁、门带加固、车顶纵梁的厚度、护栏高度、撞击位置等设计变量，相较于其他经典工程优化问题该问题维度更高、约束更为复杂。其目标函数、约束条件和决策变量取值范围如下所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { f \\left( { X } \\right) = 1 . 9 8 + 4 . 9 0 x _ { 1 } + 6 . 6 7 x _ { 2 } + 6 . 9 8 x _ { 3 } } \\\\ { + 4 . 0 1 x _ { 4 } + 1 . 7 8 x _ { 5 } + 2 . 7 3 x _ { 7 } \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { g 1 \\big ( X \\big ) = 1 . 1 6 - 0 . 3 7 1 7 x _ { 2 } x _ { 4 } - 0 . 0 0 9 3 1 x _ { 2 } x _ { 1 0 } } \\\\ & { \\qquad - 0 . 4 8 4 x _ { 3 } x _ { 9 } + 0 . 0 1 3 4 3 \\mathrm { x } _ { 6 } \\mathrm { x } _ { 1 0 } - 1 \\leq 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 2 ( X ) = 0 . 2 6 1 - 0 . 0 1 5 9 x _ { 1 } x _ { 2 } - 0 . 1 8 8 x _ { 1 } x _ { 8 } - 0 . 0 1 9 x _ { 2 } x _ { 7 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 0 . 0 1 4 4 \\mathbf { x } _ { 3 } \\mathbf { x } _ { 5 } + 0 . 0 0 0 8 7 5 7 \\mathbf { x } _ { 5 } \\mathbf { x } _ { 1 0 } + 0 . 0 8 0 4 5 \\mathbf { x } _ { 6 } \\mathbf { x } _ { 9 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 0 . 0 0 1 3 9 \\mathrm { x } _ { 8 } \\mathrm { x } _ { 1 1 } + 0 . 0 0 0 0 1 5 7 5 \\mathrm { x } _ { 1 0 } \\mathrm { x } _ { 1 1 } - 0 . 3 2 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 3 { \\left( X \\right) } = 0 . 2 1 4 + 0 . 0 0 8 1 7 x _ { 5 } - 0 . 1 3 1 x _ { 1 } x _ { 8 } - 0 . 0 7 0 4 x _ { 1 } x _ { 9 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 0 . 0 3 0 9 9 x _ { 2 } x _ { 6 } - 0 . 0 1 8 x _ { 2 } x _ { 7 } + 0 . 0 2 0 8 x 3 x 8\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 0 . 1 2 1 x _ { 3 } x _ { 9 } - 0 . 0 0 3 6 4 x _ { 5 } x _ { 6 } + 0 . 0 0 0 7 7 1 5 x _ { 5 } x _ { 1 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 6 . 6 3 x _ { 6 } x _ { 9 } - 7 . 7 x _ { 7 } x _ { 8 } + 0 . 3 2 x _ { 9 } x _ { 1 0 } - 3 2 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 6 ( X ) = 3 3 . 8 6 + 2 . 9 5 x _ { 3 } + 0 . 1 7 9 2 x _ { 1 0 } - 5 . 0 5 7 x _ { 1 } x _ { 2 } - 1 1 . 0 x _ { 2 } x _ { 8 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 0 . 0 2 1 5 x _ { 5 } x _ { 1 0 } - 9 . 9 8 x _ { 7 } x _ { 8 } + 2 2 . 0 x _ { 8 } x _ { 9 } - 3 2 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 7 \\left( X \\right) = 4 6 . 3 6 - 9 . 9 x _ { 2 } - 1 2 . 9 x _ { 1 } x _ { 8 } + 0 . 1 1 0 7 x _ { 3 } x _ { 1 0 } - 3 2 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 8 \\left( X \\right) = 4 . 7 2 - 0 . 5 x _ { 4 } - 0 . 1 9 x _ { 2 } x _ { 3 } - 0 . 0 1 2 2 x _ { 4 } x _ { 1 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ 0 . 0 0 9 3 2 5 x _ { 6 } x _ { 1 0 } + 0 . 0 0 0 1 9 1 x _ { 1 1 } ^ { 2 } - 4 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 9 ( X ) = 1 0 . 5 8 - 0 . 6 7 4 x _ { 1 } x _ { 2 } - 1 . 9 5 x _ { 2 } x _ { 8 } + 0 . 0 2 0 5 4 x _ { 3 } x _ { 1 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 0 . 0 1 9 8 x _ { 4 } x _ { 1 0 } + 0 . 0 2 8 x _ { 6 } x _ { 1 0 } - 9 . 9 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng 1 0 ( X ) = 1 6 . 4 5 - 0 . 4 8 9 x _ { 3 } x _ { 7 } - 0 . 8 4 3 x _ { 5 } x _ { 6 } + 0 . 0 4 3 2 x _ { 9 } x _ { 1 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 0 . 0 5 5 6 x _ { 9 } x _ { 1 1 } - 0 . 0 0 0 7 8 6 x _ { 1 1 } ^ { 2 } - 1 5 . 7 \\leq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne , 0 . 5 \\leq x _ { 1 } - x _ { 7 } \\leq 1 . 5 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 1 9 2 \\leq x _ { 8 } - x _ { 9 } \\leq 0 . 3 4 5 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 3 0 \\le x _ { 1 0 } - x _ { 1 1 } \\le 3 0\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验中种群规模设置为30，最大迭代次数设置为500，并独立运行30次计算得出统计结果。对比用算法及参数设置与实验一相同，由于边界控制方式不同EGSWOA算法没有使用。求解结果如表6所示，观察可知，UQSMA算法虽在重复计算中最优值略逊于原始SMA算法及其改进算法，但多轮重复计算的均值优于所有对比用算法，且方差较小，说明了UQSMA 在实际的优化问题中稳定性和鲁棒性更好。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/46f568126bd832d4f5e6ef54159a8b0b9ca5f058508cef18b1dde2b96222edd6.jpg",
+        "table_caption": [
+            "Tab.5MAE incomplete algorithm ranking ",
+            "表6轿车侧面碰撞问题优化结果",
+            "Tab.6The optimal result for car side impact design problem "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>UQSMA</td><td>AFSMA</td><td>DOLSMA</td><td>SMA</td><td>HHO</td><td>WOA</td></tr><tr><td>决策变量</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>x1</td><td>0.500000</td><td>0.500000</td><td>0.500540</td><td>0.500000</td><td>0.500000</td><td>0.500000</td></tr><tr><td>x2</td><td>1.125390</td><td>1.113507</td><td>1.121450</td><td>1.111922</td><td>1.136200</td><td>1.157687</td></tr><tr><td>x3</td><td>0.500000</td><td>0.500000</td><td>0.500646</td><td>0.500000</td><td>0.500000</td><td>0.500000</td></tr><tr><td>x4</td><td>1.288953</td><td>1.307631</td><td>1.293401</td><td>1.310424</td><td>1.499909</td><td>1.499801</td></tr><tr><td>x5</td><td>0.500000</td><td>0.500000</td><td>0.500059</td><td>0.500000</td><td>0.500000</td><td>0.500000</td></tr><tr><td>x6</td><td>1.499976</td><td>1.500000</td><td>1.500000</td><td>1.500000</td><td>1.499909</td><td>1.499801</td></tr><tr><td>x7</td><td>0.500079</td><td>0.500000</td><td>0.500000</td><td>0.500000</td><td>0.500000</td><td>0.547264</td></tr><tr><td>x8</td><td>0.344995</td><td>0.344933</td><td>0.345000</td><td>0.345000</td><td>0.343106</td><td>0.192000</td></tr><tr><td>x9</td><td>0.330035</td><td>0.207846</td><td>0.193399</td><td>0.305621</td><td>0.192000</td><td>0.192000</td></tr><tr><td>x10</td><td>-17.962397</td><td>-20.113941</td><td>-18.601569</td><td>-20.370221</td><td>-30.000000</td><td>-30.000000</td></tr><tr><td>x11</td><td>0.840285</td><td>-0.000497</td><td>-0.117660</td><td>-0.550441</td><td>-6.681273</td><td>5.181629</td></tr><tr><td>优化结果</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>最优值</td><td>22.850268</td><td>22.845688</td><td>22.848868</td><td>22.846324</td><td>23.768084</td><td>24.040004</td></tr><tr><td>平均值</td><td>23.046099</td><td>23.211005</td><td>23.061354</td><td>23.096532</td><td>24.901598</td><td>27.681259</td></tr><tr><td>标准差</td><td>0.269430</td><td>0.355543</td><td>0.250977</td><td>0.276099</td><td>0.792983</td><td>1.701868</td></tr><tr><td>约束值</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>g1(X)</td><td>-0.632695</td><td>-0.628194</td><td>-0.606523</td><td>-0.655046</td><td>-0.806886</td><td>-0.812774</td></tr><tr><td>g2(X)</td><td>-0.075343</td><td>-0.090981</td><td>-0.092269</td><td>-0.079360</td><td>-0.097477</td><td>-0.085725</td></tr><tr><td>g3(X)</td><td>-0.065285</td><td>-0.068270</td><td>-0.069034</td><td>-0.065982</td><td>-0.066378</td><td>-0.054259</td></tr><tr><td>g4(X)</td><td>-0.093732</td><td>-0.090221</td><td>-0.084601</td><td>-0.099203</td><td>-0.084642</td><td>-0.063955</td></tr><tr><td>g5(X)</td><td>-3.603556</td><td>-4.256299</td><td>-4.214778</td><td>-3.937901</td><td>-5.062355</td><td>-4.595731</td></tr><tr><td>g6(X)</td><td>-6.023978</td><td>-7.237602</td><td>-7.144709</td><td>-6.529494</td><td>-9.142410</td><td>-7.328384</td></tr><tr><td>g7(X)</td><td>-0.000799</td><td>-0.001838</td><td>-0.000935</td><td>-0.000773</td><td>-0.761912</td><td>0.000000</td></tr><tr><td>g8(X)</td><td>-0.000036</td><td>-0.000063</td><td>-0.000039</td><td>-0.000053</td><td>0.000000</td><td>-0.005395</td></tr><tr><td>g9(X)</td><td>-0.936811</td><td>-0.974801</td><td>-0.948969</td><td>-0.978981</td><td>-1.140159</td><td>-0.820629</td></tr><tr><td>g10(X)</td><td>-0.276582</td><td>-0.185096</td><td>-0.158891</td><td>-0.264329</td><td>-0.217056</td><td>-0.341223</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对SMA算法存在的不足，本文使用了拟反向和拟反射学习过程组成的综合反向和无迹西格玛点引导两个策略对原始SMA进行改进，提出了无迹西格玛点引导的拟反向黏菌算法UQSMA，并将该算法应用于CEC2017测试函数进行求解。改进的反向学习框架将不同的反向生成过程按照特性融合于黏菌算法的勘探与开采过程中，扩大了原始黏菌算法的搜索空间，加速了勘探阶段的收敛速度，提高了算法的稳定性，对不同特点的测试函数具有普遍适用性；迭代过程中，使用无迹西格玛点引导黏菌算法种群的基本移动方式，使其移动方向更加逼近理论最优解，避免算法的停滞。此外，为了多维度综合地评估改进算法的有效性和同其他算法相比的竞争力，本文使用了Wilcoxon 秩和检验、MAE 等指标，同时对轿车侧面碰撞的实际工程应用问题进行了求解和比较，多角度地证明了本文所提出算法的求解精度、鲁棒性和实用性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在未来的研究中，希望对黏菌算法进行进一步的改进和测试，提高该算法针对更多样、更复杂问题的适用性，并将其应用于机器学习模型参数优化和投资组合问题求解等领域，进一步落实群智能算法的实际应用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Li Shimin,Chen Huiling,Wang Mingjing,et al. Slime mould algorithm: A new method for stochastic optimization [J].Future Generation Computer Systems,2020,111:300-323.   \n[2]Mostafa M,Rezk H,Aly M,et al.A new strategy based on slime mould algorithm to extract the optimal model parameters of solar PV panel [J]. Sustainable Energy Technologies and Assessments， 2020， 42 (November):100849.   \n[3]Abdel-Basset M,Mohamed R,Chakrabortty R K,et al.An efficient binary slime mould algorithm integrated with a novel attcking-feeding strategy for feature selection [J]. Computers & Industrial Engineering, 2021,153 (November 2020): 107078.   \n[4]Abdel-Basset M,ChangV,MohamedR.HSMA_WOA $\\because$ A hybrid novel Slime mould algorithm with whale optimization algorithm for tackling the image segmentation problem of chest X-ray images [J].Applied Soft Computing Journal,2020,95:106642.   \n[5]Naik MK,Panda R,Abraham A.Normalized square difference based multilevel thresholding technique for multispectral images using leader slime mould algorithm [J]. Journal of King Saud University-Computer and Information Sciences,2020.   \n[6]Rizk-Allah R M,Hassanien A E,Song D.Chaos-opposition-enhanced slime mould algorithm for minimizing the cost of energy for the wind turbines on high-altitude sites [J].ISA transactions,2022,121:191-205.   \n[7]贾鹤鸣，刘宇翔，刘庆鑫，等．融合随机反向学习的黏菌与算术混合 优化算法[J/OL].计算机科学与探索:1-12[2021-12-02].http://kns. cnki.net/kcms/detail/11.5602.TP.20210714.1817.006.html.(Jia Heming,Liu Yuxiang,Liu Qingxin,et al.Hybrid algorithm of slime mould algorithm and arithmetic optimization algorithm based on random opposition-based learning [J/OL]. Journal of Frontiers of Computer Scienceand Technology:1-12[2021-12-02].http://kns. cnki. net/kcms/detail/11.5602.TP.20210714.1817.006. html.)   \n[8]郭雨鑫，刘升，张磊，等．精英反向与二次插值改进的黏菌算法 [J/OL].计算机应用研究:1-7[2021-12-02].https://doi.org/10.19734/j. isn.1001-3695.2021.02.0175.(Guo Yuxin,Liu Sheng, Zhang Lei,et al.Elite opposition-based learning quadratic interpolation slime mould algorithm[J/OL].Application Research ofComputers: 1-7 [2021-12-02]. https://doi.org/10.19734/j. issn.1001-3695.2021.02.0175.) He Qing.Adaptive artificial bee colony slime mold algorithm with improved crossover operator [J/OL]. Journal of Chinese Computer Systems: 1-8 [2021-12-02]. htp:/ns.cnki. net/kcms/detail/21.1106.TP. 20211114.1427.002. html.)   \n[10] Ornek B N,Aydemir SB,Düzenli T,et al.Anovel version of slime mould algorithm for global optimization and real world engineering problems: Enhanced slime mould algorithm [J]. Mathematics and Computers in Simulation,2022,198: 253-288.   \n[11] Yu Caiyang,Heidari AA,Xue Xiao,et al.Boosting quantum rotation gate embedded slime mould algorithm [J]. Expert Systems with Applications,2021,181: 115082.   \n[12] Abualigah L,Diabat A,Mirjalili S,et al. The arithmetic optimization algorithm [J]. Computer methods in applied mechanics and engineering, 2021,376:113609.   \n[13] Tizhoosh H R. Opposition-based learning: a new scheme for machine intelligence [C]// Internationalconference on computational intelligence for modelling,control and automation and international conference on intelligent agents,web technologies and internet commerce (CIMCAIAWTIC'06).IEEE,2005,1: 695-701.   \n[14] Rahnamayan S, Tizhoosh H R, Salama M MA. Quasi-oppositional difrential evolution [C]//2007 IEEE congresson evolutionary computation.IEEE,2007: 2229-2236.   \n[15]Ewees A A,Abd Elaziz M,Houssein E H. Improved grasshopper optimization algorithm using opposition-based learning [J].Expert Systems with Applications,2018,112: 156-172.   \n[16] Fan Qian, Chen Zhenjian,Xia Zhanghua.A novel quasi-reflected Harris hawks optimization algorithm for global optimization problems [J]. Soft Computing,2020,24 (19): 14825-14843.   \n[17] Wineberg M, Oppacher F. The underlying similarity of diversity measures used in evolutionary computation [C]// Geneticand evolutionarycomputation conference.Springer,Berlin, Heidelberg,2003: 1493-1504.   \n[18] Solis F J, Wets JB. Minimization by Random Search Techniques [J]. Mathematics of Operations Research,1981,6(1):19-30.   \n[19] Choi T J,Togelius J,Cheong Y G.A fast and efficient stochastic opposition-based learing fordifferential evolution innumerical optimization [J]．Swarm and Evolutionary Computation,2021，60: 100768.   \n[20] Guo Wenyan, Xu Peng,Dai Fengqun,et al. Improved harris hawks optimization algorithm based on random unscented sigma point mutation strategy[J]. Applied Soft Computing,2021: 108012.   \n[21] Mirjalili S,Lewis A. The whale optimization algorithm [J].Advances in engineering software,2016,95: 51-67.   \n[22]肖子雅，刘升．精英反向黄金正弦鲸鱼算法及其工程优化研究[J]. 电子学报,2019,47 (10): 2177-2186.(Xiao Ziya,Liu Sheng. Study on elite opposition-based golden-sine whale optimization algorithm and its application of project optimization [J].Acta Electronica Sinica,2019,47 (10): 2177-2186.)   \n[23] Heidari AA,Mirjalili S,Faris H,et al.Haris hawks optimization: Algorithm and applications [J]. Future generation computer systems, 2019,97: 849-872.   \n[24] Derrac J,Garcia S,Molina D,et al.A practical tutorial on the use of nonparametric statistical testsasa methodology for comparing evolutionary and swarm intelligence algorithms [J]. Swarmand Evolutionary Computation,2011,1(1): 3-18. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]李守玉，何庆，杜逆索，混沌反馈共享和群体协同效应的蝴蝶优化 算法[J/OL].计算机科学与探索：1-12[2021-05-19].http://kns.cnki. net/kcms/detail/11.5602.TP.20210128.1109.014.html.(Li Shouyu,He Qing,Du Nisuo.Butterfly optimization algorithm for chaotic feedback sharing and group synergy [J/OL].Journal of Ftontiers of Computer Scienceand Technology:1-12[2021-05-19].http://kns.cnki. net/kcms/detail/11.5602.TP.20210128.1109.014.html.) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26]张新明，姜云，刘尚旺，等．灰狼与郊狼混合优化算法及其聚类优化",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[J/OL].自动化学报:1-17[2021-05-19].https://doi.org/10.16383/j. aas.c19o617.(Zhang Xinmin, Jiang Yun,Liu Shangwang,etal.Hybrid coyote optimization algorithm with grey wolf optimizer and its application to clustering optimization [J/OL].Acta Automat. Sin.:1-17 [2021-05-19].https://doi.org/10.16383/j.aas.c190617.) [27] Youn B D,Choi K K,Yang R J,et al.Reliability-based design optimization for crashworthiness of vehicle side impact [J]. Structural and Multidisciplinary Optimization,2004,26(3):272-283. ",
+        "page_idx": 8
+    }
+]

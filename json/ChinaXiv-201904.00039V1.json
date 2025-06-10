@@ -1,0 +1,363 @@
+[
+    {
+        "type": "text",
+        "text": "基于学者社交网络的论文与项目关联模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王柳，汤庸，杨佐希，傅城州，毛承洁，毛超丹(华南师范大学 计算机学院，广州 510631)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对学者社交网络的独特用户，提出一种基于学者社交网络的论文与项目数据的协同关联模型。首先采用两步特征选择方法预处理数据，去除无关和冗余特征，得到影响论文与项目关联的有效特征；然后通过文本向量空间模型 TVSM(text vector space model)计算论文与项目之间的文本相似度，为不同的论文/项目形成推荐集合。通过面向科研人员的社交网络“学者网”数据，实现模型并真实应用于学者网。在线应用情况和用户反馈表明，该模型具有较好的准确性和实用性，可更加充分地挖掘论文与项目之间蕴涵的丰富信息，给用户提供更加高效方便的学术科研管理服务，为分析学术大数据提出了新颖的研究方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：社交网络；协同关联模型；特征选择；文本相似度；学者网中图分类号：TP doi:10.19734/j.issn.1001-3695.2018.10.0820",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Association model of paper and project based on scholar social network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Liu, Tang Yong†, Yang Zuoxi, Fu Chengzhou, Mao Chengjie, Mao Chaodan (School ofComputer Science,South China Normal University,Guangzhou 510631,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Considering the unique users of scholars'social networks,this paper proposes acollborative associationmodel of paperand projectdatabasedonscholars'social networks.Firstly,The proposed modeluses the two-step featureselection method to preprocess the data,while removing the irrelevant and redundant features.So that the model would obtain the efective features thatafect theasociationbetween the paperandthe project.Then it would adopt text vectorspace model to calculate the textsimilaritybetween the paperand the project.After finishing these,itcouldformrecommendationsets fordiferentpapers/projects.Through thesocial network \"SCHOLAT\"data forresearchers,themodelis implementedand applied to SCHOLAT.The online application situation and user feedback show that the model has good accuracy and practicability.Furthermore,itcanmore fully explore the potential relationship between thepaperand the project,provide users with beter academic research management services,and propose anovel research method for analyzing the academic big data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: social network; collaborative association model; feature selection; text similarity; scholat ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着互联网的高速发展，信息数据呈现指数级增长，如何从海量的数据中获取有效的信息数据成为数据挖掘的重要挑战之一[1]。社交网络也是如此，大量的论文、项目等学术成果信息导致学者社交网络出现了信息过载问题[2]学者用户对于论文与项目的关系挖掘需求也日益激增。其中，最能体现学者科研成果信息的论文和项目，蕴涵了丰富的学者信息资源，这使得它们在学者社交网络中的占据了十分重要的地位。但是目前，用户难以充分的挖掘两者蕴涵的有效信息，关于学者社交网络的论文和项目协同关联模型研究很少。因此，如何针对于学者社交网络的特殊学者用户，为其提供准确、个性化的论文/项目推荐，以便用户能够更好地关联论文与项目，充分挖掘论文与项目之间的信息，成为了一个亟需解决的研究课题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关联规则挖掘是数据挖掘研究中的一个重要分支，它能帮助用户发现大量数据集中的某种潜在关系[3]。因此，建立论文和项目的协同关联模型对于挖掘其蕴涵的丰富学者信息资源很有必要。在本文中主要研究论文与项目之间的关联模型的构建，方便用户挖掘两者之间的关系。考虑到在论文/项目中存在很多不同特征属性，需要在挖掘信息之前，对数据进行预处理和特征选择。这些特征之中，对于论文与项目关联关系而言，有的是有效特征，有的是无关特征和冗余特征。基于此问题的考虑，在此模型中使用了两步特征选择方法[4]，对论文的特征和项目的特征进行预处理，得到有效的论文特征和项目特征。由于在学者社交网络中，论文与项目的存在大多通过文本格式存储，在借鉴了传统的协同过滤推荐模型的基础上，采用了TVSM模型计算论文与项目之间的文本相似度，形成不同论文邻域/项目邻域，由相似度从大到小排序找到目标论文/项目的推荐集合。结合用户的需求输入形成最终的推荐集合，为用户提供更加准确的、个性化的论文/项目关联选择，最终将协同关联模型可视化展现。通过协同关联模型，可以更加清晰、深入地了解的论文与项目之间的包含信息，发现它们的潜在的关系，并且可从更多不同角度进行数据挖掘，为用户提供一种准确、个性化和实用的科研信息管理工具。本文提出的基于学者社交网络的论文与项目数据关联模型真实运用于学者网，通过调查分析用户的反馈情况显示，此模型具有较好的准确性和实用性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，基于社交网络的论文推荐研究有很多，黄泳航等人[5]针对学术社交网络特有的社交性，构建了基于社区划分的学术论文推荐模型。在学术社交网络中，通过标签传播划分社区，并依据划分结构在各社区内部的用户之间推荐学术论文。陈国华等人[针对于学者网计算机类论文语料库，提出了基于单个词的语义向量计算学术论文文档的语义向量的搜索方案，并真实应用于学者网。汤志康等人[7提出了一种学术社交平台相似论文推荐算法。该算法首先用ANSJ对论文进行分词并统计词条的TF-IDF，然后通过Word2Vec把论文映射到一个高位向量，并使用余弦相似度计算相似度。这些研究只涉及到学术论文的相关搜索推荐，并没有考虑到学者项目也蕴涵着丰富的学者信息，也没有深入研究论文与项目的协同关联。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对于学者社交网络，在论文/项目中有很多不同的特征属性，在挖掘相关信息之前，需要对数据进行预处理和特征选择。在数据的预处理和特征选择方面，Kira等人[8提出了RELIEF算法，这是一种经典的基于二分类的特征权重算法。该算法依据各个特征和类别的相关性赋予不同的权重值，权重小于设定阈值的特征会被移除，最后得到各个特征的平均权重。由于RELIEF局限于二分类问题，张翔等人9通过融合间距最大化和极大熵理论，对于两类数据，多类数据和在线数据，提出了新的RELIEF特征加权算法，具有更好的适应性。但是该算法由于赋予了所有和类别相关性高的特征较高的权重值，所以该算法存在不能有效去除冗余特征的局限性。Ding等人[4]在分析了社交网络中用户特征信息之后，提出了一种融合RELIEF算法和K-means算法的两步特征选择方法，取得更好的特征集合。实验结果也表明该算法适用于复杂的社交网络数据，具有较好的性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决社交网络中存在的信息过载问题，推荐系统应运而生。在推荐算法中，协同过滤算法(collaborativefiltering,CF)是个性化推荐系统最为成功的算法之一，该类算法主要通过用户一项目评分矩阵,进行相似度计算，找出目标用户的邻居集合进行推荐。目前主要有基于记忆的协同过滤算法(memory-based CF)[lo]和基于模型的协同过滤算法(model-basedCF)[I]两种类型。其中，基于记忆的协同过滤算法可以划分为基于用户的协同过滤算法(user-based CF)[12]和基于物品的协同过滤算法(item-basedCF)[13]。该类算法往往通过用户一物品评分矩阵，结合相似度算法，计算不同用户/物品的相似度，以此找到目标用户/物品的最相似用户/物品构成最近邻居集合，形成推荐集。在该类协同算法中，相似度计算是关键的步骤之一。作为衡量两个个体之间差异的大小，相似度越高，说明个体间的差异往往较小，依据相似度的推荐的质量也通常越好。在相似度的计算中，度量的方法目前主要有余弦相似性[14]、调整的余弦相似性[15]和 Pearson相关系数[16]，根据实际的数据情况进行合适的度量方法选择",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在本文提出的模型中采用更适合社交网络环境下融合RELIEF算法和K-means算法的两步特征选择方法进行原始数据的特征选择。在此基础上，考虑到论文和项目的特征属性主要由自然语言文本构成，在借鉴传统协同过滤推荐算法相似度计算和传统的空间向量模型VSM[I7]特征相似度计算的基础上，本文采用了TVSM模型计算论文与项目之间的文本相似度，找到目标论文/项目的邻居集合，形成推荐集合并结合用户的个性化需求向用户推荐。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 模型设计与实现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1特征选择方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在两步特征选择方法中，RELIEF算法具有运行效率高，对噪声有容错能力，不受特征交互影响等特点，因此适用于复杂的社交网络数据。特征选取第一步,使用RELIEF算法[8]去除特征矩阵中的与项目和论文关联不相关的特征。设有原始的数据集 $D = \\{ \\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { m } \\} , \\{ y _ { 1 } , y _ { 2 } , \\cdots , y _ { n } \\} \\}$ ,原始数据中的两个数据集 $\\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { m } \\} , \\{ y _ { 1 } , y _ { 2 } , \\cdots , y _ { n } \\}$ 分别代表论文和项目的特征集合。从训练集 $D$ 中选取一个样本 $R \\ , \\ R$ 由 $p$ 维向量 $\\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { p } \\}$ 组成， $p$ 为特征数， $R ( j )$ 为样本 $R$ 的第 $j$ 个特征的值。两个样例 $R _ { 1 } , R _ { 2 }$ 关于特征 $j$ 的距离定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）当特征为非数值型变量时",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { d i f f ( R _ { 1 } ( j ) , R _ { 2 } ( j ) ) = \\left\\{ \\begin{array} { l l } { 1 , i f } & { R _ { 1 } ( j ) = R _ { 2 } ( j ) } \\\\ { 0 , i f } & { R _ { 1 } ( j ) \\neq R _ { 2 } ( j ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）当特征为数值型变量时",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i f f ( R _ { 1 } ( j ) , R _ { 2 } ( j ) ) = \\left| \\frac { R _ { 1 } ( j ) - R _ { 2 } ( j ) } { \\operatorname* { m a x } ( j ) - \\operatorname* { m i n } ( j ) } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\operatorname* { m a x } ( j ) , \\operatorname* { m i n } ( j )$ 分别表示特征 $j$ 的最大最小取值。该算法通过找到与 $R$ 同类的最近邻样本 $R H$ 以及与 $R$ 非同类的最近邻样本RM，然后依据样本 $R$ 与它的两个最近邻样本在特征$j$ 上的距离差更新特征 $j$ 的权重，如式（3）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW ( j ) = W ( j ) - \\frac { d i f f ( R _ { i } ( j ) , R H _ { i } ( j ) ) } { m } + \\frac { d i f f ( R _ { i } ( j ) , R M _ { i } ( j ) ) } { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $W ( j )$ 为特征 $j$ 的权重；初始特征权重均为0； $m$ 为随机抽取样本的次数；i为抽取的第 $i$ 个样本。通过 $m$ 次的迭代之后，可得到每个特征的平均权重。权重值越大,说明该特征的分类能力更好，越能代表该类别。算法运行结束后，将权重集合 $T$ 按照从大到小排序，依据给定阈值 $\\alpha$ 去除权重小于阈值的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过第一步的RELIEF特征选择方法后，过滤了特征选项中的无关特征，但是得到的特征集合仍存在部分的冗余特征。在第二步特征选择中，将通过结合K-means 聚类算法[18]解决该问题。K-means是一种基于划分的无监督算法，能够简单、快速地解决聚类问题，对于大数据集的处理，也具有很好的伸缩性和高效性。通过第一步选择得到了过滤了无关特征的特征集 $T$ ，给定需要划分数据集的簇数 $k$ ，首先通过随机选择距离尽可能远的 $k$ 个起始点作为k个簇类的质心；然后通过计算数据集中剩余点与各个簇的质心距离远近，将剩余点分配到距离最近的簇类。对于每一个簇类，计算簇类中所有样本的均值作为新的质心，若质心收敛则结束；否则继续迭代计算除去新的质心后剩余点到新质心的距离，以同样的方式选出新的质心，直至最终收敛，或者达到迭代的上限则结束聚类过程，得到最终的聚类结果。同一个簇内的相似度较高，不同簇间的相似度较低。结合第一步中得到的特征权重，删除同簇中权重值较低的冗余特征，得到最终影响项目和论文关联的有效特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "融合RELIEF和K-means算法的两步特征选择方法的算法流程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "融合RELIEF和K-means的两步特征选择算法的伪代码如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "两步特征选择算法：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Input:Training set $D = \\left\\{ \\left\\{ x _ { 1 } , x _ { 2 } , \\cdots , x _ { m } \\right\\} , \\left\\{ y _ { 1 } , y _ { 2 } , \\cdots , y _ { n } \\right\\} \\right\\}$   \nSample sizem,Selected RoundsofSample $R$   \nNumber of features $p$ ：，   \nThreshold $\\alpha$ ；Feature Weighting SetT;FeatureWeighting $W ( )$ distance diff（);   \nNumber of cluster $k ; c l u s t e r = \\{ c _ { 1 } , c _ { 2 } , . . . , c _ { k } \\}$ ；numberof Clustering ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Process :   \n1 $T = \\mathcal { O }$ $W ( \\mathbf { \\epsilon } ) = \\{ 0 , 0 , \\cdots , 0 \\}$   \n2 for $t = 1 , . . . , m \\colon$   \n3 select sample $R$ randomly from $D$   \n4 selecttheneighborset $H , M$ of $R$ fromthe samplesof same   \nclass and different class respectively   \n5 for $j = 1 , . . , p$ ：   \n6 $W \\left( R ( j ) \\right) = W \\left( R ( j ) \\right) - d i f f \\left( R ( j ) , R H ( j ) \\right) / m + d i f f \\left( R ( j ) , R M ( j ) \\right) / m$   \n7 for $j = 1 , . . . , p$ ：   \n8 if $W ( j ) \\geq \\alpha$ then:   \n9 T.append $\\left( D _ { j } \\right)$ （204   \n10 Remove irrelevant features from $T$ and return new features Fnew   \n11 selectk features randomly form Fnewas original centroids,   \nF is the remaining features that removes the centroids   \n12 for $t = 1 , \\ldots , q ;$   \n13 for f,in $F$ .   \n14 for $c _ { k }$ in cluster:   \n15 compute the distancebetween $f _ { t }$ and $c _ { k }$   \n16 putthe f. into the closet(the minimum distance) $c _ { k }$   \n17 update thecentroidofevery cluster   \n18 if centroids convergence then:   \n19 break;   \n20 end   \nOutput cluster ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb35b39252b5f90e0d8cdca2430576e5a920749d5d027ecef5635ff2a3172f5c.jpg",
+        "img_caption": [
+            "图1两步特征选择方法流程",
+            "Fig.1Two - step feature selection method flow chart "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 TVSM模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本文的模型中，为了更好地实现论文和项目的协同关联，需要对目标论文/项目提供更加准确的推荐结果，方便用户更好地从推荐集中选择对应的论文/项目进行关联。去除无关和冗余特征后，考虑到论文信息和项目信息大部分由自然语言组成，本文采用了TVSM模型来计算不同文本之间的相似度。首先将论文和项目信息分别进行分词处理，得到论文和项目对应的词组 $D _ { x } = \\left( w _ { x 1 } , w _ { x 2 } , \\cdots , w _ { x m } \\right) , D _ { y } = \\left( w _ { y 1 } , w _ { y 2 } , \\cdots , w _ { y m } \\right)$ ， $m$ 表示词组中的词语总数。然后给每个词组中的词赋予权重值，构成特征向量。其中，权重值通过的TF-IDF方法[19进行计算，计算方法如式（4）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT F - I D F \\left( w _ { i } \\right) = t f \\left( w _ { i } \\right) \\times \\log \\frac { n } { d f \\left( w _ { i } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $t f \\left( \\boldsymbol { w } _ { i } \\right)$ 表示当前词 $w _ { i }$ 在某个文本中出现的频率； $d f \\left( \\boldsymbol { w } _ { i } \\right)$ 表示有多少个文本出现了 $w _ { i }$ ； $n$ 表示文本总数。由此得到每个文本的单词的 TF-IDF 值，再为每篇文本构建向量模型，利用余弦相似度[14]计算文本之间的相似度,计算方法如式（5)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos \\left( D _ { x } , D _ { y } \\right) = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { m } \\left( w _ { x i } \\times w _ { y i } \\right) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { m } \\left( w _ { x i } \\right) ^ { 2 } } \\times \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { m } \\left( w _ { y i } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据相似度的从大到小排序，形成目标论文/项目的最近邻居集合，可以为用户提供选取的推荐集合。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 协同关联模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "论文/项目协同关联模型的框架如图2所示。主要组成包括a）两步特征选择有效的论文和项目特征；b）运用TVSM模型计算论文与项目的文本相似度得到相似推荐集；c）结合用户的个性化需求，形成最终目标论文/项目的推荐结果；d)论文与项目关联，系统同步更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a1cda0f8801508c0c2e3b16389656b4d653362a24d5e27b5d92f851a63df89e.jpg",
+        "img_caption": [
+            "图2基于学者社交网络的论文与项目数据协同关联模型 Fig.2Association model of paper and project based on scholar social network "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所提出的协同关联模型，是针对于学者社交网络的特殊学者，为其最具代表信息的学术成果论文和项目提供协同关联。考虑到论文和项目信息本身含有大量的无关和冗余特征，首先通过RELIEF算法根据各个特征和类别的相关性赋予特征不同的权重值，移除小于阈值的无关特征；然后通过K-means聚类算法依据相似性度量将特征划分为 $k$ 个簇，将簇内权值较低的特征除去，也就是去除冗余特征。通过融合这两种算法的两步特征选择方法进行有效的特征选择，预处理数据。而由于论文和项目的信息基本上是由文本组成，结合文本向量空间模型TVSM来计算文本特征之间的相似度。先将论文信息和项目信息分别进行分词处理，通过TF-IDF给每个词组中的词赋予权重值，构成特征向量,最后通过利用余弦相似计算文本之间的相似度。通过上述的计算后，按照相似度大小排列，可以得到各个不同的论文/项目的相似推荐集合。为了更好地为用户提供准确、个性化的推荐，在学者网应用实践中，提供了个性化需求输入，以便用户根据自身需求找到更加准确的目标项目/论文。在此基础上，进行论文与项目协同关联模型的建模，用户根据该模型进行论文与项目的协同关联，最终系统将关联结果可视化同步更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4协同关联模型应用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文模型采用学者社交网络一学者网的论文和项目数据进行协同关联模型的构建。学者网（http://www.scholat.com）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "是一个面向学者的在线学术信息服务平台，主要提供的功能包括学者在线交流、学术信息管理、文献检索等。以学者网的数据集为例，论文的特征有作者、论文题目、来源、关键字、摘要、类型等十几项之多，项目特征也有9项左右，可见，论文和项目各自存在了很多的特征。这些特征之中，对于论文与项目关联关系而言，有的是有效特征，有的是冗余特征。通过两步特征选择选择方法，选择论文数据的“作者”“题目”和“来源”特征和项目数据中的“标题”“参与人员”和“来源编号”特征，并将模型应用与学者网中，在线服务于广大学者用户。模型的图谱如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在学者网的实际运用中，用户在项目界面的个性化需求的输入框中，根据自己的需求输入具体想要关联的论文相关信息。如图4所示，依据用户输入的时态数据管理、时态等具体信息，系统结合用户输入字段与模型所选取的论文的相似推荐集，给出最终的相匹配的推荐列表，推荐结果按时间倒序依次列出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时态数据管理 a  \n搜索结果如下 搜索不到相关结果，点此直接关联>>  \n汤庸、刘海、郭欢、叶小平TempDB：时态数据管理系统.计算机研究与发展，2010，47（S），,442-445  \n时态 @  \n搜索结果如下 搜索不到相关结果，点此直接关联>>  \n汤娜，汤庸，叶小平等.偏时态XML索引TempPartiallndex.软件学报，2016，27（9)：2290-2302，  \n叶小平，汤庸（通信作者），林衍崇，陈钊滢，张智博，陈瑞鑫.时态数据库索引TDindex研究与应用.中国科学（F辑信息科学）2015.5,  \n□叶小平，汤庸（通信作者），林衍崇，陈钊滢，张智博.时态拟序数据结构研究与应用，软件学报，2014，25(11):2587-2601，  \n左亚尧，舒忠梅，汤庸.时态跨度的绑定问题探讨，软件学报，2014，36（3）：508-512，522，  \n叶小平，汤庸（通信作者），张智博，陈钊滢，林衍崇，语义协同时态XML索引研究与实现，计算机学报，2014,37（9)，1911-1921，  \n舒忠梅，左亚尧，汤庸.时态跨度的粒度转换及其绑定运算现，系统仿真学报，2014，36（3）：508-512,522,  \n刘越畅，林晓骏，汤庸.可视化析取时态推理器的设计与实现.中山大学学报（自然科学版），52（6):38-43,  \n刘冬宁，汤庸，腾少华，林哲.基于时态数据库的极小子结构逻辑系统，计算机学报，2013，36(8),1592-1601,  \n已选择论文确定 取消",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae92ebeb2fa5531704b587a4da5ae6f684043ed05c60d49f5a5adb67aac97a7d.jpg",
+        "img_caption": [
+            "图3学者网论文与项目协同关联模型图谱",
+            "图5论文界面协同关联项目",
+            "Fig.5Paper associated with projects "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig. 3 Graph of association model of paper and project based on SCHOLAT ",
+            "图4结合用户需求与论文相似推荐集的个性化推荐",
+            "Fig.4Personalized recommendation that combines user requirements and similar recommendation sets of paper "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当用户进行论文与项目的协同关联时，通过论文与项目的协同关联模型以及可视化模型进行建模之后，同步更新关联模型的可视化结果，论文界面与项目关联可视化结果如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "项目标注 请输入您要添加的标注项目（项目标题/来源编号） D[1]国家自然科学基金面上项目61772211 提醒合作者[2]广东省科技计划项目2015B010109003 提醒合作者",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过上述研究，本文将提出的基于学者社交网络的论文与项目数据协同关联模型最终得以实现并在线应用于学者网，为广大学者用户提供了一种准确、个性化和实用的科研信息管理工具。通过在线问卷调查分别对用户对于推荐结果的满意程度以及用户是否最后选择了关联论文/项目进行了分析，最后的调查结果显示学者网用户对此关联功能是满意的。可以看出，模型的推荐的效果性能较好，能够根据用户的个性化需求推荐出较好的结果，具有较好的实用性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于学者社交网络的论文与项目数据协同关联模型。在该模型中，首先通过融合RELIEF和K-means算法，对学者网的原始论文和项目数据的无关特征和冗余特征进行过滤；然后采用TVSM模型对论文和项目进行文本相似度计算，形成论文/项目的相似推荐集，并结合用户的个性化需求选取更准确的推荐。最终用户从推荐结果选取所需信息进行论文与项目的协同关联，系统同时将论文项目的协同关联同步可视化更新在论文和项目界面。通过学者网站的在线应用情况和用户反馈情况表明，该模型具有较好的准确性和实用性，能更好地帮助学者用户管理科研成果，更深入挖掘论文与项目之间蕴涵地丰富资源与信息。在将来的工作中，可通过这些关联关系进一步研究学者用户间的学术关系，构建用户的知识图谱并进行用户画像，为用户提供更好的服务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]XuR,Wang S,Zheng X,et al.Distributed collaborative filtering with singular ratings for large scale recommendation [J]. Journal of Systems & Software,2014,95 (9):231-241.   \n[2]Isinkaye F O,Folajimi Y O,Ojokoh B A.Recommendation systems: principles,methods and evaluation [J].Egyptian Informatics Journal, 2015,16 (3):261-273.   \n[3]刘军煜，贾修一．一种利用关联规则挖掘的多标记分类算法[J].软 件学报,2017,28(11):2865-2878.(Liu Junyu,Jia Xiuyi.Multi-label classification algorithm based on association rule mining[J].Journal of Software,2017,28(11):2865-2878.)   \n[4]Ding Rui, Zhu Jia,Tang Yong,et al.Anovel feature selection strategy forfriendsrecommendation[C]//Procof IEEE International Conference on Computer Supported Cooperative Work in Design.2016: 123-128.   \n[5] 黄泳航，汤庸，李春英，等．基于社区划分的学术论文推荐模型[J]. 计算机应用,2016,36(5):1279-1283.(Huang Yonghang,Tang Yong, Li Chunying,et al. Academic paper recommendation model based on community partition [J]. Journal of Computer Applications,2016,36 (5):1279-1283.)   \n[6]陈国华，汤庸，许玉赢，等．基于词向量的学术语义搜索研究[J] 华南师范大学学报：自然科学版,2016,48(3):53-58.(Chen Guohua, Tang Yong,Xu Yuying,et al.Research on academic semantic search using word vector representations [J]. Journal of South China Normal University:Natural Science,2016,48 (3):53-58.)   \n[7]汤志康，李春英，汤庸，等.学术社交平台论文推荐方法[J].计算 机与数字工程，2017,45(2):221-225.(Tang Zhikang,Li Chunying, Tang Yong，et al.Paper recommendation method based on scholar social platform [J].Computer and Digital Engineering,2017,45 (2): 221-225. )   \n[8]Kira K,Rendell LA.The feature selection problem: traditional methods and a new algorithm[C]//Proc of the 1Oth National Conference on Artificial Intelligence.[S.l.]: AAAI Press,1992:129-134.   \n[9]张翔，邓赵红，王士同，等．极大熵Relief特征加权[J].计算机研究 与发展，2011,48(6):1038-1048.(Zhang Xiang,Deng Zhaohong, Wang Shitong,et al. Maximum entropy relief feature weighting [J]. Journal of Computer Research and Development,2011，48(6): 1038-1048.)   \n[10]Bellog，Alejandro N,Castells P,et al.Improving memory-based collaborative filtering by neighbour selection based on user preference overlap [C]// Proc of Conference on Open Research Areas in Information Retrieval.2013:145-148.   \n[11] Yin H,Cui B,LiJ,et al. Challenging the long tail recommendation [J]. Proceedings of the VLDB Endowment,2012,5 (9): 896-907.   \n[12]Bellogin A,Parapar J.Using graph partitioning techniques for neighbour selection in user-based collaborative filtering [C]// Proc of ACM Conference on Recommender Systems.2012:213-216.   \n[13]Pirasteh P,JungJJ,Hwang D.Item-based collaborative filtering with attribute correlation:a case study on movie recommendation [M]// Inteligent Information and Database Systems.[S.l.]: Springer International Publishing,2014:245-252.   \n[14]董洋溢，李伟华，于会．基于混合余弦相似度的中文文本层次关系 挖掘[J].计算机应用研究,2017,34(5):1406-1409.(Dong Yangyi, Li Weihua,Yu Hui.Hierarchical relation mining of Chinese text based on mixed cosine similarity [J].Journal of Computer Research and Development,2017,34(5):1406-1409.)   \n[15] Ma Z,Yang Y,Wang F,et al.The SOM based improved K-means clustering collaborative filtering algorithm in TV recommendation system [C]// Proc of the 2nd International Conference on Advanced Cloud and Big Data.[S.l.]: IEEE Computer Society,2014: 288-295.   \n[16]Bobadilla J, Ortega F,Hernando A.Recommender systems survey [J]. Knowledge-Based Systems,2013,46(1):109-132.   \n[17] Sidorov G,Gelbukh A,Gomezadorno H,et al. Soft similarity and soft cosine measure: similarity of features in vector space model [J]. Computacion y Sistemas,2014,18 (3): 491-504.   \n[18] Cohen M B,Elder S,Musco C,et al.Dimensionality reduction for $\\mathbf { k }$ -Means clustering and low rank approximation [C]//Proc of the 47th ACM Symposium on Theory of Computing.2015:163-172.   \n[19]黄承慧，印鉴，侯防．一种结合词项语义信息和TF-IDF方法的文本 相似度量方法[J].计算机学报，2011，34(5):856-864.(Huang Chenghui,Yin Jian，Hou Fang.A text similarity measurement combining word semantic information with TF-IDF method [J]. Chinese Journal of Computers,2011,34(5): 856-864.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,641 @@
+[
+    {
+        "type": "text",
+        "text": "·研究构想(ConceptualFramework)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "行为贫困陷阱的心理机制与管理对策：基于认知与动机双视角",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐富明」黄龙2.3张慧4相鹏刘腾飞李亚红7(南宁师范大学教育科学学院，南宁 530299)(皖南医学院人文与管理学院，芜湖 341002)(江西师范大学心理学院，南昌 330022)(4华中科技大学社会学院，武汉 430074)(5南京财经大学法学院，南京 210023)(广东医科大学人文与管理学院，东莞 523808)(中南民族大学教育学院，武汉 430074)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要借鉴行为经济学家开创的应用行为决策于贫困研究的新范式，选取我国\"连片特困地区\"的贫困者为研究对象。首先建构\"认知和动机双视角的行为贫困陷阱\"的立论模型;然后通过\"贫困所致认知后果影响后继决策行为的心理机制和神经机制”，以及“贫困所致认知和动机后果共同影响后继决策行为的作用机制\"来探索贫困所致心理后果与后继决策行为间的因果效应；最后进行“贫困所致认知功能改变影响后继决策行为的随机控制实验\"和\"贫困所致自我认同改变影响后继决策行为的现场干预研究”，旨在通过\"扶志和扶智\"达到\"授人以渔”，并从中提炼出可供扶贫政策参考的管理对策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 贫困；行为贫困陷阱；行为决策；认知；动机",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849:C91",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "联合国《千年发展目标 2015 报告》指出，“全世界生活在极端贫困中(每天生活费不足1.25 美元)的人口仍有8.36亿，而且发展中国家的城市里还有8.8亿人居住在类似贫民窟的环境中”。在我国，目前仍有11个“连片特困地区”，以及西藏、四川藏区、新疆南疆三地州亟待整体脱贫。可见，不论从全世界范围来看，还是单就我国而言，扶贫的任务依然紧迫且艰巨。可喜的是，党的\"十八大\"以来，党中央领导各级政府开展了卓有成效的\"精准扶贫\"工作，年均减贫1370万人。针对最后也是最难的长期特困人口的脱贫工作，习近平总书记强调,“要注重扶贫同扶志、扶智相结合，把贫困群众积极性和主动性充分调动起来，引导贫困群众树立主体意识，发扬自力更生精神，激发改变贫困面貌的干劲和决心，靠自己的努力改变命运\"(杭承政，胡鞍钢,2017)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学术界早期关于贫困问题及贫困陷阱的研究主要把贫困作为结果变量，从地理环境、制度和文化以及贫困者的个人因素等方面阐述贫困产生的内外原因。例如，多数研究者认为贫困的产生主要源于环境因素和个体因素，一方面从宏观层面分析贫困地区的制度、文化特征和环境条件等因素的影响；另一方面从微观层面考察贫困者的劳动技能和人格特质等因素的影响(UNDP,2014)。但以往主流经济学主要关注外生性的物质层面的贫困，相对忽略贫困者内生性的心理因素及其与物质因素的相互作用。近年来，行为经济学和发展经济学领域开始把贫困问题看作前因变量，更加关注贫困与个体心理因素的相互作用，注重考察贫困所致心理后果及相关因素，并且创新性地采用助推(nudge)和随机控制实验(randomized control trials,RCTs)切实帮助贫困者摆脱贫困陷阱(Banerjee & Duflo,2011;Karlan& Appel,2011; Mullainathan & Shafir,2013; Haushofer& Fehr,2014)。这为贫困研究及扶贫实践开辟了新领域，并已取得引人注目的扶贫成就(World Bank Group,2015;Banerjeeet al.,2015)，而该领域的开创者 Abhigit Banerjee,Esther Duflo 和 Michael Kremer 因此荣获2019 年诺贝尔经济学奖。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不过，现有聚焦贫困所致心理后果及偏差行为的研究取向尚未被我国的贫困研究及扶贫实践充分借鉴，而且目前国内尚缺少真正意义上的通过\"扶志和扶智\"达到\"授人以渔\"的实证研究。基于此，本项目在习总书记\"扶贫同扶志、扶智相结合\"思想的指导下，在概括现有行为贫困陷阱相关研究的贡献及不足的基础上，首先提出本项目拟探索的科学问题，即\"贫困所致心理后果如何影响后继决策行为\"？进而在行为贫困陷阱的因果机制研究基础上，通过旨在\"扶志和扶智\"的随机控制实验和现场干预研究助推我国\"连片特困地区\"的长期贫困者摆脱贫困陷阱，并从中提炼出可供我国政府扶贫决策参考的实践方案和政策建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 国内外相关研究述评",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1从“贫困陷阱\"到\"行为贫困陷阱” ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "贫困陷阱研究属于发展经济学的核心主题，早期研究者把贫困陷阱(poverty trap)定义为\"能够导致贫困持续的任何自我强化机制”(Barrett,Garg＆McBride,2016)。Carter 和Barrett (2006)进一步提出了检验贫困陷阱存在与否的实证方法，并基于多种经济数据验证了贫困陷阱的存在。随着研究的不断推进，贫困陷阱研究逐渐从宏观层面拓展到微观层面，着重探讨贫困陷阱形成的微观机制，以及如何通过各种调控手段打破贫困长期持续的反馈环(叶初升，刘业飞，高考,2012;Barrett& Carter,2013)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着对贫困陷阱微观机制研究的拓展，有研究者开始关注贫困个体的心理因素对贫困持续的强化作用(徐富明 等,2017)。Dalton,Ghosal 和 Mani (2014)较早使用了行为贫困陷阱(behavioral poverty trap)这一术语，并借鉴Kahneman 和Tversky预期理论的参照点概念建构了贫困导致个体的志向失败(aspirations failure)，进而形成行为贫困陷阱的理论框架。他们认为在行为贫困陷阱的形成中,“人穷\"是原因,“志短\"是结果，而\"志短\"的结果会使得贫困者选择付出更少的努力，从而导致贫困持续，最终陷入贫困陷阱。他们同时强调单独提高志向水平即有助于贫困者摆脱贫困陷阱。叶初升、高考和刘亚飞(2014)建构了资产匮乏与悲观心理的正反馈环，强调了贫困者的悲观心态在贫困陷阱形成中的重要作用。Wuepper 和Lybber (2017)则阐述了贫困者的自我效能在摆脱贫困及经济发展中的作用，认为高自我效能的个体会设定更高的目标，并为了实现目标而付出更多努力。而Lybbert和Wydick(2018)通过模型建构同时强调了志向和希望在经济发展及贫困产生中的重要作用。不难看出，上述理论探讨不约而同地聚焦了动机因素在贫困陷阱形成中的作用，而这些动机因素与管理心理学家Luthans 等人建构的心理资本(psychological capital)的核心成分(自我效能、乐观、希望和坚韧性)较为一致(Luthans, Youssef & Avolio,2015)。此外,Wuepper 和 Sauer (2016)在调查中发现加纳农民的自我效能感和社会资本是取得好绩效的主要预测变量，他们在后续研究中还发现自我效能感的作用甚至大过农民的农业技能。Bloem,Boughton,Htoo,Hein 和Payongayong (2018)则用自编希望量表测量了缅甸农民的希望水平，发现缅甸农民的希望水平与其福利知觉存在显著的正相关。不过，上述关于志向、希望和自我效能影响贫困持续的理论探讨的出发点是为了弥补传统贫困陷阱只注重物质条件和制度因素等外部限制的不足，而且其所强调的心理因素大都属于动机范畴，并未涉及其他心理因素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2贫困所致心理后果的相关实证研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 贫困导致的压力反应和负性情绪 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Haushofer和Fehr(2014)较早从贫困心理学角度推论了贫困所致心理后果影响后继经济决策的贫困持续反馈环的存在。他们综述了现有心理学和行为经济学相关实证研究后认为，贫困会使贫困者产生压力反应及焦虑和抑郁等负性情绪，进而导致短视和过度规避风险等决策偏差。他们还推测贫困导致决策偏差的作用机制可能是贫困通过限制个体的注意力以及助长习惯性行为，从而取代了本应采取的目标定向行为。更严重的是，上述贫困所致心理后果影响后继经济决策会构成贫困持续的反馈环。可见,Haushofer和Fehr 论述的贫困持续反馈环与前述学者从理论建构层面对行为贫困陷阱的阐释都强调了心理因素在贫困陷阱形成中的重要作用(Dalton etal.,2014)，尽管各自强调的心理因素并不相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，行为经济学的贫困所致压力后果的研究主要通过随机控制实验探索贫困与压力反应及负性情绪间的关系(Haushofer& Shapiro,2016)。例如，有研究发现，接受现金转移支付的农民的挫折感和抑郁水平有明显下降(Haushofer& Fehr,2014)。Chemin,de Laat 和Haushofer(2013)的现场研究则发现，遭遇突发性干旱的肯尼亚农民报告了更高的压力水平,其皮质醇水平(压力荷尔蒙)也有明显上升，而接受了免费的健康保险的肯尼亚贫困农民的压力及皮质醇水平则有明显下降(Haushofer,Chemin, Jang&Abraham,2020)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 贫困导致的认知资源损耗 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如前所述,Haushofer和Fehr(2014)曾推论贫困持续反馈环的形成机制可能是贫困者的注意力受限造成的。而Mullainathan 和 Shafir 团队则通过系列实验探索了贫困损害贫困者的认知功能，并据此提出了贫困的稀缺理论。他们认为贫困的本质特征是稀缺性(scarcity),而贫困者的稀缺心态(scarcity mindset)和带宽负担(bandwidth load，认知负荷的一种隐喻表达)是使其难以摆脱贫困的根本原因(Mullainathan& Shafir,2013)。他们发现贫困不仅会使贫困者借贷过多(Schilbach,Schofield& Mullainathan,2016)，而且直接损害贫困者的流体智力和执行功能(Mani,Mullainathan, Shafir & Zhao,2013)。更重要的,Shah,Mullainathan 和 Shafir(2012)的实验部分验证了上述Haushofer 和Fehr 所推测的注意力在贫困持续反馈环中所起的作用机制，即贫困会造成贫困者的注意力只聚焦于当务之急，从而导致对其他更重要事情的注意忽略(attentional neglect)。不过，上述研究主要关注个体处于短暂贫困(贫困状态启动)中的认知资源损耗，较少考察长期贫困者的认知功能的变化，而现实中的贫困往往持续较长时间，甚至陷入贫困陷阱而难以自拔。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，有研究者从行为控制视角探讨了贫困对意志力或认知控制的损耗。Spear (2011)首先提出了意志力损耗假设，并利用美国人口普查局所做\"美国人时间利用状况调查\"中的“饮食与健康数据\"进行检验，结果发现低收入者在逛街购物时可能因为需要做更多权衡取舍而更容易吃零食，但在非购物情境下穷人和富人吃零食的频次则没有差异。随后 Spear通过实验进一步提出行为控制损耗的论点。Spears (2011)把被试随机分为两组，让其挑选分别代表投资品、诱惑品和无特殊意义的三件商品(金属饭盒、食用油、绳子)。“穷人\"可从中选1件,“富人\"则可选2件，一半被试可主动选择(需做决策)，另一半被试只被动接受(无需决策)，选后进行握柄和 Stroop 测试以测量行为控制损耗程度，结果发现注意力损耗和意志力损耗共同起作用，这也部分验证了Haushofer和Fehr(2014)所做的推测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 现有相关研究的局限",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，上述行为贫困陷阱及贫困所致心理后果研究呈现出较为典型的分割化特征。例如,Mullainathan 和 Shafir 团队主要关注贫困所致的认知资源损耗，具体操纵注意力和执行功能(executive function)。Haushofer 和 Fehr 在其重要综述论文中主要关注了贫困所致的压力反应和负性情绪。而Dalton 等人(2014)建构的行为贫困陷阱以及其他学者的近似论点大都把焦点集中在了志向，希望和自我效能等动机因素。可见，现有行为贫困陷阱的相关研究大都只涉及某类心理因素或某种心理成分，未来研究应更多关注贫困所造成的综合心理影响以及各种心理因素间的相互作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次，一个行为贫困陷阱的形成或完整的贫困持续反馈环是由多时程和多环节构成的，如贫困所致心理后果环节，心理后果影响后继决策行为环节等。但现有研究不仅大多只关注单个时程或环节的特定心理因素，而且往往只探究单个环节前后因素间的关系，缺少对两个环节间关系的探讨。例如，目前探讨较多的是贫困所造成的压力和负性情绪及干预对策，但对贫困所致压力反应影响后继决策行为的探讨则较为缺乏(Haushofer &Fehr,2014)。再如 Mullainathan 和 Shafir 团队的贫困损害认知功能的系列实验并未涉及贫困所致认知后果对后继决策行为的影响。其他相关研究则完全绕过心理后果直接探究贫困对决策行为的影响，忽略了心理因素在其中的中介或调节作用，最终使得贫困持续反馈环的实证研究成了单环节或单时程变量间的关系探索。未来研究应逐步克服这一局限，着重探究多环节之间的因果关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第三，或许由于行为贫困陷阱的相关研究属于多学科交叉主题，现有研究成果因其研究方法各异而较难整合和推论。例如,Dalton 等人(2014)对行为贫困陷阱的论述及其他研究者的类似探讨采用经济学的理论建模方法。Haushofer 和Fehr(2014)所引用的贫困持续反馈环研究则大多是单个环节变量间的相关检验。而Mullainathan 和 Shafir 团队的贫困损害认知功能的系列研究则采用了心理学的实验方法，这使得现有行为贫困陷阱相关研究很难在统一尺度上进行比较和整合。未来行为贫困陷阱研究需在较具可比性的方法学基础上进行因素设计和变量操纵的实证研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3理论推导与模型建构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 理论推导 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如前所述，贫困所致心理后果影响后继决策行为并最终导致贫困陷阱已有初步探讨，但前述研究各自只对特定心理因素或某一环节进行了实证检验。例如,Mullainathan和 Shafir团队只关注了贫困导致的认知后果。而Haushofer 和Fehr (2014)提出的贫困持续反馈环则有一薄弱环节，即贫困所致心理后果与后继决策行为间是否存在因果关系？此外，贫困所致不同心理后果间的关系也有待研究。基于此，我们借鉴Mullainathan 和 Shafir 的贫困稀缺理论和Luthans 的心理资本理论建构本项目的立论模型，作为本项目旨在探讨的\"贫困所致心理后果影响后继决策行为\"的理论基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，已有相关实证研究反复检验了贫困处境可导致偏差的决策行为。例如,Tanaka,Camerer和Nguyen(2010)调查了越南农民的家庭收入与风险决策的关系，发现平均收入更高村庄的农民有更低水平的风险规避和损失规避(loss aversion)，而且居住在富裕村庄的农民更有耐心，有更低的延迟折扣率。Griskevicius,Tybur,Delton 和 Robertson (2011)发现相对于在富裕环境中长大的人，在贫困环境中长大的人更倾向于关注当下(present bias)，延迟折扣率更高。Liu(2013)调查了中国棉农选择转基因棉花种子的风险偏好，发现有更高水平风险规避和损失规避的农民选用转基因种子的时间更晚，获益也更少。不过，上述贫困与决策行为的关系研究大多为相关检验，难以对其结果进行因果推论，更无法获知贫困处境与决策行为之间是否有心理因素起中介或调节作用。综上，我们提出本项目的科学问题，即“贫困所致心理后果如何影响后继决策行为\"?",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次,Mullainathan 和 Shafir 团队从稀缺性这一贫困的本质特征切入，创造性地提出了贫困的稀缺理论，认为贫困者缺少的不仅是物质资源，更缺少认知资源。贫困者的稀缺心态通过受限的注意力和执行功能而形成带宽负担(超负荷的认知加工)，进而导致贫困者的偏差行为如借贷过多等，最终造成贫困的恶性循环(Mullainathan& Shafir,2013)。贫困的稀缺理论不仅得到了系列实验的支撑(Shah,Zhao,Mullainathan& Shafir,2018)，也已被国际组织用作扶贫实践的理论指导(World Bank Group,2015)。不过，贫困的稀缺理论并未对贫困所致认知后果影响后继决策行为展开探索，我们在一项相关研究中发现了部分支撑。Spears(2014)进行了一项现场实验，选取一个富裕村庄和一个贫穷村庄，以超低价格向村民出售当地出产的名牌香皂，村民自主决定是否购买。随机要求一半村民在购买前完成测量行为控制的握柄任务，另一半村民购买后完成握柄任务。然后进行工作记忆测试，结果发现“穷人\"在购买前握柄的时间长度明显短于购买后，而\"富人\"购买前后的握柄时间没有显著差异，这表明由稀缺心态所造成的注意力损耗只有在做购买决策时才会发生并起作用。该研究不仅验证了注意力损耗的机制作用，而且发现了这一机制起作用的边界条件，即只有在做出相关经济决策时才会造成不利影响。该研究与Mullainathan和 Shafir 团队的系列实验共同为本项目提供了实证支撑。具体而言，本项目把认知功能受限(注意力-工作记忆-认知控制)作为贫困导致偏差的决策行为的中介变量，并据此提出本项目的核心命题，即\"贫困所致认知后果影响后继决策行为(风险决策和跨期选择)”。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第三，随着对导致贫困陷阱的心理因素的日益关注，发展经济学家开始建构行为贫困陷阱的理论模型，而且不约而同地聚焦了志向，希望和自我效能等动机因素在贫困持续中的重要作用。但现有研究大都属于理论探讨范畴，仅有的实证研究也只是做了相关检验(Wuepper& Sauer,2016;Bloem et al.,2018)，并未探究因果机制。基于此，本项目借鉴管理心理学的心理资本理论，整合上述希望和自我效能等动机因素作为贫困所致认知后果影响后继决策行为的中介模型的调节变量，并对调节效应进行实验室实验和现场干预研究的系列实证检验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "心理资本理论由管理心理学家Luthans 于2004 年创建，他把心理资本定义为行为主体积极的心理品质，是符合积极组织行为标准的心理状态，具体包括自我效能、乐观、希望和坚韧性四个核心成分(Luthans & Youssef,2004;Luthans et al.,2015)。而且心理资本是建构在四个核心要素之上的高阶概念，其对行为绩效的作用要大于单个心理资本成分的作用(Luthans& Youssef-Morgan,2017)。更重要的，心理资本作为一种类状态(state-like)的心理建构是可以通过干预训练提高的(Luthans,Avey,Avolio,Norman & Combs,2006; Luthans,Avey& Patera,2008)。基于此，我们借鉴心理资本理论，把影响贫困持续的志向，希望和自我效能作为一个整合性的高阶概念，提出本项目的第二个核心命题，即“心理资本对贫困所致认知后果影响后继决策行为起调节作用”。我们发现已有相关研究为该命题提供了部分实证支撑。Hall, Zhao 和 Shafir (2014)选取光顾\"免费厨房\"的美国低收入者为被试，通过让实验组被试口头描述自己所做的值得骄傲的事情来启动\"自我肯定(self-affirmation)”(对照组只做某日一日三餐的一般描述)，结果发现实验组被试不仅提高了认知功能，而且更愿意参加特殊救助项目。此外，相关领域的研究也表明作为心理资本核心成分的坚韧性(resilience)是克服压力引起的行为失调的有效对策(Kalisch etal.,2017)，这也为本项目把心理资本作为调节变量提供了部分依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 模型建构",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本项目通过对国内外“贫困心理与行为决策\"文献的深入研修，发现了现有研究的不足，确定了拟探索的科学问题，即\"贫困所致心理后果如何影响后继决策行为\"这一行为贫困陷阱的根本性问题。进而在前述理论推导的基础上建构了可作本项目立论基础的\"认知与动机双视角的行为贫困陷阱\"关系模型(见图1)。因此，对该科学问题及立论模型的因果效应(心理机制)及干预对策的系列实证研究将是本项目的主要创新点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，长期贫困(chronic poverty)是指贫困持续5年或以上，虽经扶助却难以脱贫的状态(Hulme＆ Shepherd,2003)。总体而言，长期贫困主要源于贫困者所处的环境因素，制度因素以及贫困者的个人因素(Rodgers,2009)。本项目把长期贫困作为前因变量，主要从贫困所致心理后果切入探索行为贫困陷阱形成的心理机制和应对策略。当然，彻底摆脱贫困陷阱需要制度因素、环境因素和个体因素的协同配合，只有多管齐下的综合治理才能彻底打破长期贫困的恶性循环(Shepherd et al.,2014)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "具体到本项目，长期贫困首先会对贫困者的认知功能和心理资本产生负面影响。一方面，贫困会损耗贫困者的注意力、工作记忆和认知控制等认知资源，造成带宽负担(Shahet al.,2012; Mani etal.,2013; Schilbach et al.,2016)。另一方面，贫困会导致贫困者变得悲观和低效能，对摆脱贫困不抱希望，心理资本的降低会影响认知功能的发挥(叶初升等,2014;Hall et al.,2014;Wuepper&Lybbert,2017)。其次，行为贫困陷阱现有相关研究要么只探索贫困所致的各种心理后果，如认知功能受损，压力及负性情绪等，要么只探讨贫困与决策行为的关系，如贫困影响风险决策或跨期选择等，忽略了贫困所致心理后果对后继决策行为可能起到的中介或调节作用及其因果效应。本项目根据现有相关研究推论贫困所致认知后果是贫困者后继决策行为的中介变量，会显著影响贫困者的风险偏好程度，延迟折扣率和损失规避。此外，贫困者的希望和自我效能等心理资本除了可能直接对后继决策行为产生影响外，还会与贫困所致的认知后果产生交互作用，共同影响后继决策行为。综上，本项目将在如图1所示的认知与动机双视角的行为贫困陷阱的立论模型基础上进行多轮次-多变量-多样本的系列实证研究，以检验该立论模型的有效性和可靠性。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c5f9efa5352d1d6c84e55f7a09a61b4a295cfaf62040ef5d2f219ce23c2b156.jpg",
+        "img_caption": [
+            "图1认知与动机双视角的行为贫困陷阱的立论模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4研究设计",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本项目循着\"立论模型建构-作用机制探讨-现场干预研究\"的思路设计了如下五项环环相扣的系列实证研究，以期较为系统且深入地探讨贫困所致认知和动机后果影响后继决策行为的因果效应及相应的管理对策。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1研究1：检验认知与动机双视角的行为贫困陷阱的关系模型",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如前所述，现有相关研究大都只关注贫困所致心理后果影响后继决策行为的反馈环中某一环节或特定心理因素，少有探索贫困持续反馈环各环节及各因素间关系的研究(Haushofer&Fehr,2014)。基于此，本项目首先在研究1中拟采用结构方程模型和路径分析技术，检验如图1所示的立论模型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 研究目的",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "检验“认知与动机双视角的行为贫困陷阱\"的立论模型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 研究对象",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "选取我国11个\"连片特困地区\"长期贫困者1000人。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)问卷调查和心理测量;(2)结构方程建模和路径分析。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.4 研究工具",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "修订或自编的调查问卷包括：(1)执行功能行为评定调查表(成人版)，主要测量工作记忆、任务监控和行为调节等成分(Roth et al.,2005); (2)考虑未来量表(Strathman,Gleicher,Boninger& Edwards,1994); (3)希望量表(Bloem et al.,2018);(4)一般自我效能感量表(Schwarzer &Jerusalem,1995); (5)认知反思测验(Frederick,2005); (6)风险偏好问卷(Hsee & Weber,1997); (7)延迟满足量表(Carducci,2009);(8)自编损失规避问卷，参照Li,Baldassi, Johnson 和Weber(2013)的研究，并结合贫困农民生活实际编制。此外，自评压力水平(PSS)、正性负性情绪(PANAS)、家庭情况、收入水平、人口学特征等也一并收集。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2研究2：贫困所致认知后果影响后继决策行为的作用机制",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "已有研究主要探讨贫困所致压力和认知功能改变，或贫困对个体风险规避和延迟折扣的影响，很少有研究探讨贫困所致认知后果影响后继决策行为的因果效应。贫困及相关领域研究已一再证明来自低收入家庭及低社会经济地位家庭的儿童和青少年，不仅他们的学业成绩受到不利影响，更严重的还会影响到他们的大脑发育，导致其认知功能受损，进而影响其决策质量(Brito & Noble,2014; Hair,Hanson,Wolfe & Pollk,2015; Noble et al.,2015)。基于此，本项目拟在研究2中较为系统地探讨贫困所致认知后果在后继决策偏差行为形成中的作用机制(因果效应)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2.1研究2a：贫困所致认知后果影响后继决策行为的心理机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1）研究目的：探索贫困所致认知后果影响后继决策偏差的因果效应。(2)研究对象：选取我国连片特困地区的长期贫困者各100人，另选取对照组各100人，以平衡可能对变量操纵及测量造成干扰的可能因素。(3）研究假设：处于高金钱需求中的贫困个体比中等收入个体更加风险规避且具有更高的延迟折扣率。(4）研究设计：采用 2(贫富程度：长期贫困个体 vs.中等收入个体) $\\times 2 ($ 金钱需求：高vs.低)组间设计。因变量为后继金钱风险决策任务中的风险规避得分和延迟折扣率。同时测量被试的压力水平和正性负性情绪作为控制变量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(5）实验程序及自变量操纵：所有实验任务均在电脑上完成。被试首先填写包括家庭收入在内的人口学特征，随后完成描述不同生产生活内容的4个金钱情境(顺序随机呈现)，给编号为奇数的被试呈现高金钱需求的情境，编号为偶数的被试呈现低金钱需求的情境。例如,“试想象一个突发的应急事件需要你立即支付3000元/30000 元的费用。你是否有办法在一个很短的时间内拿出这笔钱？你怎么去做呢？这样做会不会使你长期缺钱？..。\"4个情境呈现以后首先测试被试的认知控制和认知反思能力，然后让被试自评压力水平和正性负性情绪。最后完成作为因变量测量的风险偏好任务与延迟折扣任务，两个任务的顺序随机呈现。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(6）测量工具：(1)简式 Stroop 认知控制任务;(2)认知反思测验(CRT);(3)自编风险偏好问卷,参照 Hsee 和Weber(1997)的方法，包括6个金钱决策情境，每个情境变换3种风险概率（20 $( 3 0 \\% / 5 0 \\% / 7 0 \\% )$ ，共18个决策情境，含获益与损失两个版本;(4)自编跨期选择问卷，参照McClure,Laibson,Loewenstein 和 Cohen (2004)的研究;(5)压力自评(PSS); (6)正性负性情绪(PANAS)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2.2研究2b：贫困所致认知后果影响后继决策行为的认知神经机制",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1）研究目的：探索贫困所致认知后果影响后继决策偏差的神经机制，使用64 导  \nNeuroscan 脑电系统记录被试认知加工的事件相关电位(ERPs)。(2）研究对象：选取来自连片特困地区贫困家庭的在校低年级大学生120 名为被试，男  \n女生各半；另选取来自同一地区中等收入家庭的大学生被试120名作为对照组，男女生各半。(3）研究设计：采用2(家庭差异：来自贫困家庭大学生vs.来自中等收入家庭大学生)x  \n2(图片启动：贫穷vs.富足)组间设计。通过向被试呈现贫困或富足系列图片(各30 张)来启",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "动大学生被试的贫穷感或富足感(具体参照Liu,Feng,Suo,Lee 和Li(2012)的研究中所使用的图片)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4）研究工具：(1)简式 Stroop 认知控制任务;(2)认知反思测验(CRT);(3)风险偏好问卷(Hsee &Weber,1997); (4)延迟满足量表(Carducci,2009); (5)压力自评(PSS);(6)正性负性情绪(PANAS)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5)研究设备：64导Neuroscan 脑电系统：可全程记录被试完成实验任务的ERPs，重点采集并分析的时段是呈现贫富图片的启动阶段，以及完成认知加工任务阶段。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3研究3：贫困所致认知和动机后果共同影响后继决策行为的作用机制",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "现有研究尚未见有对贫困所致认知和动机后果之间的关系及共同影响后继决策行为的机制探讨，根据相关研究成果，影响决策行为的认知和动机因素存在交互作用(Botvinick&Braver,2015),基于此，本项目拟在研究3中对此开展探索性研究，采用实验室实验探讨贫困所致认知后果(执行功能)和动机后果(自我效能)对后继经济决策的共同影响及交互作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 研究目的",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "探讨认知控制和自我效能对贫困者后继决策行为的影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 研究对象",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "随机选取在校低年级贫困大学生160人，男女生各半。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.3 研究假设",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "贫困者的认知控制和自我效能共同影响后继经济决策的风险偏好程度和延迟折扣率，且认知控制与自我效能存在显著的交互作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.4 研究设计",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "采用2(认知控制：高vs.低) $\\times 2 ($ 自我效能：高vs.低)组间设计。因变量为后继风险决策任务上的风险偏好指数和延迟折扣率。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3.5 实验材料及程序",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先进行认知控制的操纵。参照 Shah 等人(2012)的做法，通过幸运轮游戏(WheelofFortune,WoF)来操纵贫穷(低认知控制)与富有(高认知控制)，以字谜游戏中猜测字母的次数来定，富人每轮可猜15次；穷人可猜5次；游戏共10轮。WoF 消耗认知控制资源，用\"简式Stroop 认知控制任务\"检验认知控制操纵的效度。然后操纵自我效能：(1)高自我效能启动组观看与自己条件相似的大学生在某知识大赛中获得第一名的短视频，而低自我效能启动组则观看与自己条件相似的大学生在某项知识大赛中未取得名次的同等长度短视频;(2)接着呈现一项约5分钟的中等难度的\"年鉴问题\"小测试，完成后给高自我效能组被试成绩优秀的反馈，给低自我效能组成绩不及格的反馈。用“一般自我效能感量表\"检验自我效能启动的效度。因变量测量：同研究2的风险偏好问卷和延迟满足量表。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4研究4：贫困所致认知功能改变影响后继决策行为的随机控制实验",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "现有研究发现贫困者普遍存在短视、不耐烦和冲动性决策等决策行为偏差(Haushofer&Fehr,2014)，而成瘾行为和病理性赌博等相关领域的研究也已证明，工作记忆训练和想象未来训练可帮助受助者克服冲动性决策等行为障碍(彭娟，冯廷勇,2014；汪强，张恩茂,2015),这些干预训练的效果还得到了脑成像研究的证据支撑(Peters&Buchel,2009)。此外，研究贫困破解之道的行为经济学家和发展经济学家主要采用随机控制实验(设置实验组和对照组，并随机分组)来检验特定方法的减贫效果(Banerjee & Duflo,2011; Karlan &Appel,2011)。基于此，本项目拟在研究4中采用认知训练方法(工作记忆和想象未来训练)，选取长期贫困者为被试，通过多轮次-多样本的随机控制实验，检验工作记忆和想象未来训练改善贫困者决策行为的效果，以期探索矫正长期贫困者高未来折扣率等决策偏差的方式方法，进而提出可供政府决策和公共政策参考的扶贫脱困管理对策。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.1研究4a：工作记忆训练改善贫困个体决策行为的随机控制实验",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1）研究目的：结合使用工作记忆训练和随机控制实验，探讨通过提升贫困者的认知功能来改善其决策行为的训练效果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2）研究对象：选取我国连片特困地区的长期贫困者各60人。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3）研究假设：工作记忆训练能显著提高贫困个体的决策质量。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4）研究设计：单因素组间设计，随机分配被试，实验组60人，对照组60人。实验组接受工作记忆训练，对照组只倾听记忆相关材料。因变量为延迟折扣率。用\"执行功能行为评定调查表的工作记忆分量表\"作为自变量操纵的效度检验。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(5）训练材料： (1)对阿拉伯数字的顺序回忆(听觉呈现)，对阿拉伯数字的反向顺序回忆(听觉呈现);(2)对汉语拼音字母的识记和回忆(视觉呈现)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.4.2研究4b：想象未来训练改善贫困个体决策行为的随机控制实验",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1）研究目的：结合使用想象未来训练和随机控制实验，探讨通过提升贫困个体的认知功能来改善其决策行为的训练效果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2）研究对象：选取我国连片特困地区的长期贫困者各60人。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3）研究假设：想象未来训练能显著提高贫困个体的决策质量。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(4）研究设计：单因素组间设计，随机分配被试，实验组60人，对照组60人。实验组接受专门的想象未来训练，对照组不呈现未来事件线索，只做相应决策反应。因变量为延迟折",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "扣率。用“考虑未来量表\"检验自变量操纵的效度。 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(5）训练材料：正式训练前首先让被试列举未来计划的事件如购买经济作物新品种等，并进行自我相关性和重要程度的打分。在正式训练时给被试呈现未来计划事件的线索如购买作物新品种等，并让被试对该事件进行生动具体的想象。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.5研究5：贫困所致自我认同改变影响决策行为的现场干预研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如果说研究4是通过\"扶智\"来帮助贫困者提高决策质量的话，研究5则是通过\"扶志\"来助推其改善决策质量。如前所述,Hall等 (2014)通过启动\"自我肯定\"不仅提高了贫困个体的认知功能，而且使其更愿意参加特殊救助项目。而现有研究则发现贫困者普遍不愿参加技能培训等社会扶持项目(曹艳春,2017)。此外，心理学领域的自我效能和心理资本研究已有扎实的理论基础，而且自我效能感的干预也已应用于多个实践领域(Wuepper&Lybbert,2017)。基于此，本项目拟在研究5中随机选取长期贫困者为被试，采用前后测准实验设计，在多轮次一多样本的干预研究中检验通过提升贫困者的自我肯定和自我效能来改善贫困者的决策质量，进而提出可供政府决策和公共政策参考的扶贫脱困的管理对策。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.5.1 研究5a：自我肯定改善提升贫困者决策质量的现场干预研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1）研究目的：通过提升贫困者的自我肯定，进而改善其决策质量。(2）研究对象：选取我国连片特困地区的长期贫困者各60人。(3）研究假设：自我肯定能显著改善贫困者的决策质量。(4）研究设计：前后测准实验设计，并设对照组。随机选取60人作为实验组干预对象，另外60人作为对照组。因变量为经济决策的风险偏好和现状改进愿望。(5）干预材料：实验组被试在单独房间中被要求用口头表达的讲故事方式陈述最令他们自己特别自豪和值得骄傲的一些事件，时间为5分钟左右。对照组被试花5分钟详细讲述自己在平常的一天中所做的几件事。考虑到贫困农民可能文化程度不高，不善于纸笔类书面表达，故采用口述的方式。并采用音频录音方式录下实验组被试自我肯定的口头表述，以及对照组被试日常行为的口头描述。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(6）前后测测量工具：(1)执行功能行为评定调查表成人版的行为调节分量表;(2)认知反思测验(CRT);(3)自编风险偏好问卷;(4)自编跨期选择问卷;(5)自编改变现状愿望调查表;(6)自编积极配合当地政府和志愿者组织的扶贫脱困计划和行动调查表(一个月后回访的调查问题)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.5.2 研究5b：自我效能提高改善贫困者决策质量的现场干预研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1）研究目的：通过提升贫困者的自我效能，进而改善其决策质量。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2）研究对象：选取连片特困地区的长期贫困者各60人。(3）研究假设：自我效能提升能显著改善贫困者的决策质量。(4）研究设计：前后测准实验设计，并设对照组。随机选取60人作为实验组干预对象，另  \n外 60人作为对照组。因变量为经济决策的风险偏好和改变现状的愿望。(5）干预材料：(1)实验组被试观看研究者经事先调研及收集的当地致富模范的成功经验  \n剪辑成的纪录片；对照组被试观看介绍当地地理环境、气候条件、农林生产情况的视频。(2)  \n实验组被试接受两周训练自我效能感的工作坊培训(共14天次，每次2个小时，以\"夜校\"形式  \n整组训练；对照组被试同一时段听科普类讲座。(3)研究者和当地成功人士鼓励实验组被试。(6）前后测测量T具：同研究5a.以及“一般白我效能感量表\"等。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "曹艳春.(2017).论社会保障制度中贫困群体的稀缺心态及其破解—一基于经济学、社会学和心理学跨学科的分析视角．浙江社会科学,5,78-86.  \n杭承政，胡鞍钢.(2017).“精神贫困\"现象的实质是个体失灵——来自行为科学的视角．国家行政学院学报,4,3-4.  \n彭娟，冯廷勇.(2014).成瘾人群跨期选择的神经机制及干预方法．心理科学进展,22(05),810-821.  \n汪强，张恩茂.(2015).降低决策冲动性的方法及其神经机制．心理科学进展,23(01),101-109.  \n徐富明，张慧，马红宇，邓颖，史燕伟，李欧.(2017).贫困问题：基于心理学的视角．心理科学进展,25(08),1431-1440.  \n叶初升，高考，刘亚飞.(2014).贫困陷阱：资产匮乏与悲观心理的正反馈．上海财经大学学报,16(04),44-53+85.  \n叶初升，刘业飞，高考.(2012).贫困陷阱的微观机制与实证研究述评．经济学家,4,21-28.  \nBanerjee,A.,&Duflo,E.(2011).Poor economics: Aradicalrethinking ofthe waytofight global poverty.New York:Public Affairs.  \nBanerjee, A.,Duflo,E., Goldberg,N., Karlan,D.,Osei,R.,&Pariente,W.,.. Udry,C.(2015). A multifacetedprogram causes lasting progress for the very poor: evidence from six countries. Science,348(6236),1260799-1260799.  \nBarrett, C.B.,& Carter, M. R.(20l3). The economics of poverty traps and persistent poverty: Empirical and policyimplications.Journal of Development Studies, 49(7),976-990.  \nBarrett, C.B., Garg,T.,& McBride,L. (2016). Wel-being dynamics and poverty traps. Annual Review of Resource",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Economics,8,303-327. Bloem,J. R., Boughton, D. Htoo, K.， Hein, A.，& Payongayong,E. (2018). Measuring hope: A quantitative approach with validation in rural myanmar. Journal ofDevelopment Studies, 54(11), 2078-2094. Botvinick,M.& Braver, T.(20l5). Motivation and cognitive control: From behavior to neural mechanism. Annual Review of Psychology, 66(1), 83-113. Brito,N.H.，& Noble,K.G. (2014). Socioeconomic statusand structural brain development. Frontiers in Neuroscience,8(September),1-12. Carducci, B.J. (2o09). What shy individuals do to cope with their shynes: acontent analysis and evaluation of self-selected coping strategies. The Israel journal ofpsychiatry and related sciences,46(1), 45-52. Carter,M. R.，& Barrett C. B. (2006). The economics of poverty traps and persistent poverty: An asset-based approach. Journal ofDevelopment Studies, 42(2),178-199. Chemin,M.,de Laat,J.,& Haushofer,J. (2Ol3).Negative rainfallshocks increase levelsof the stress hormone cortisol among poor farmers in kenya. Available at: SSRN 2294171. Dalton,P.S., Ghosal,S.,& Mani,A.(2o14).Povertyand aspirationsfailure.Economic Journal,126,67-80. Frederick, S. (2005). Cognitive Reflectionand Decision Making.Journal ofEconomic Perspectives,19(4), 25-42. Griskevicius,V.，Tybur,J.M.，Delton,A.W.,& Robertson,T.E.(2011).The influence of mortality and socioeconomic status on risk and delayed rewards: A life history theory approach. Journal of Personality and Social Psychology,100(6),1015-1026. Hair,N.L.,Hanson,J.L.,Wolfe,B.L.,&Pollak,S.D. (2015).Associationofchild poverty,braindevelopment,and academic achievement. JAMA Pediatrics,169(9),822-829. Hall, C.C.,Zhao,J.,&Shafir,E. (2014).Self-airmationamong thepoor: Cognitive and behavioral implications. Psychological Science,25(2), 619-625. Haushofer,J., Chemin,M.,Jang,C.,& Abraham,J. (2020).Economicand psychological effects of health insurance andcash transfers: Evidence from arandomized experiment in Kenya.Journal of Development Economics,144, 102416. Haushofer, J.,& Fehr,E. (2014). On the psychology of poverty. Science, 344(6186),862-867. Haushofer,J.，& Shapiro,J. (2016).Theshort-term impact of unconditional cash transfers to the poor: experimental evidence from Kenya. The Quarterly Journal of Economics,131(4),1973-2042. Hsee, C. K.,& Weber,E. U. (1997). A fundamental prediction error: Self-others discrepancies in risk preference. Journal ofExperimental Psychology: General,126(1),45-53. Hulme,D.,& Shepherd,A. (20o3). Conceptualizing chronic poverty. World Development, 31(3), 403-423. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Kalisch,R.,Baker,D.G.,Basten,U.,Boks,M.P.,Bonanno,G.A.,Brummelman,E.,..Kleim,B. (2017).The resilience framework as a strategy to combat stressrelated disorders. Nature Human Behavior 1,784-790.   \nKarlan,D., &Appel,J.(2011). Morethan good intentions: How a new economics is helping to solve global poverty. New York: Dutton.   \nLi,Y.,Baldassi,M.,Johnson,E.J.,& Weber,E.U. (2013). Complementarycognitive capabilities,economic decision making,and aging. Psychology and Aging, 28(3),595-613.   \nLiu,E.M. (20l3).Time to change what to sow: Risk preferences and technology adoption decisions of cotton farmers in china. Review of Economics & Statistics, 95(4),1386-1403.   \nLiu,L.,Feng,T.Y., Suo,T.,Lee,K.,&Li,H. (2012). Adapting to the destitute situations: Povertycueslead to short-term choice. PLoS ONE, 7(4), e33950.   \nLuthans,F.,Avey,J.B.,Avolio,B.J.,Norman,S.M.,&Combs, G.M. (206). Psychological capital development: Toward a micro-intervention. Journal of Organizational Behavior; 27(3), 387-393.   \nLuthans,F.,Avey,J.B.,& Patera,J.L. (20o8).Experimental analysisof a web-based training intervention to develop positive psychological capital. Academy of Management Learning & Education, 7(2),209-221.   \nLuthans,F.,&ouef,C..(o4).Human,ocial,andnopositive psychologicalcapitalmanagement: isting in people for competitive advantage. Organizational Dynamics, 33(2),143-160.   \nLuthans,F.,& Youssef-Morgan, C.M. (2017). Psychological capital: An evidence-based positive approach.Annual review of organizational psychology and organizational behavior, 4(1),339-366.   \nLuthans,F., Youssf-Morgan, C.M.,& Avolio,B. (2015). Psychological capital and beyond. New York: Oxford University Press.   \nLybbert,T.J.,& Wydick,B. (2018).Poverty,aspirations,and the economicsof hope.Economic Development and Cultural Change, 66(4), 709–753.   \nMani, A., Mullainathan,S.,Shafir,E.,& Zhao,J. (20l3).Poverty impedes cognitive function.Science,341(6149), 976-980.   \nMcClure,S.M.,Laibson,D.1.,Loewenstein, G.,& Cohen,J.D. (2004).Separate neural systems valueimmediate and delayed monetary rewards. Science, 306(5695),503-507.   \nMullainathan,S.,& Shafir,E.(2Ol3).Scarcity: Why having too little means so much.New York: Henry Holt.   \nNoble, K.G.,Houston,S..,Brito,N.H.,Bartsch,H.,Kan,E.,Kuperman,J....Sowel,E..(25).Faily income,parental education and brain structure in children and adolescents. Nature Neuroscience, 18(5), 773-778.   \nPeters，J.，& Buchel,C. (2009). Overlapping and distinct neural systems code for subjective value during intertemporal and risky decision making. The Journal of Neuroscience, 29(50),15727-15734.   \nRodgers,D.(2009).The Chronic Poverty Report 2008-2009: Escaping Poverty Traps.The European Journal of Development Research,21(2),159-159.   \nRoth,D.E.，Martz,P.,Yeo,R.,Prossr,C.Bell,M.,&Jones,A.B.(20o5).Are national vitamin d guidelines sufficient to maintainadequate blood levels inchildren?.Canadian Journal ofPublic Health,96(6),443-449.   \nSchilbach,F.,Schofield, H.,& Mulainathan,S. (2016).The psychological lives of the poor. American Econmic Review, 106(5), 435-440.   \nSchwarzer,R.,& Jerusalem,M. (1995). Optimistic Self-Beliefs as a Resource Factor in Coping with Stress. In S.E. Hobfoll and M.W. deVries (Eds), Extreme Stress and Communities: Impact and Intervention (159-177). Dordrecht: Kluwer:   \nShah,A.K.,Mullainathan,S.,& Shafir,E.(2012).Some consequencesof having too litte.Science,338(6107), 682-685.   \nShah,A.K.,Zhao,J.,Mullinathan,S.,& Shafir,E.(2018).Money in the mental lives of the poor.Social Cognition,36(1), 4-19.   \nShepherd,A.,Scott,L.,arioti,S.,Kessy,F.,Gaha,R.,daCorta,L,&Hanifa,K.(24).echronicpoverty report 2014-2015: The road to zero extreme poverty.London: Overseas Development Institute.   \nSpears,D. (20l1).Economic decision-making inpoverty depletes behavioralcontrol.The B.E. Journal of economic analysis & policy, 1(1),Article 72.   \nSpears,D. (2014). Decision costs and price sensitivity: Field experimental evidence from India. Journalof economic behavior and organization, 97,169-184.   \nStrathman,A., Gleicher,F.,Boninger,D.S.,&Edwards,C.S.(1994).Theconsideration of future consequences: Weighing immediate and distant outcomes of behavior. Journal of Personality and Social Psychology, 66(4), 742-752.   \nTanaka,T., Camerer, C.F.,& Nguyen,Q. (20l0). Risk and time preferences: Linking experimental and household survey data from vietnam. American Economic Review,10o(1),557-571.   \nUNDP. (2014).Barrersand opportunities at the baseof the pyramid. New York: United Nations Development Programme.   \nWorld Bank Group. (2015). World development report: Mind,society and behavior.Durham: Duke University Press. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Wuepper,D.,&Lybbert,T.J.(2O17).Perceived self-effcacy，poverty and economic development.Annual Review ofResource Economics,9(1),383-404. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Wuepper,D.,& Sauer,J. (2O16).Explaining the performance of contract farming in ghana: The roleof self-efficacy and social capital.Food Policy, 62,11-27. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Psychological mechanisms and management strategies of behavioral poverty trap: Based on the dual perspectives of cognition and ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "motivation ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "XU Fu-mingl; HUANG Long²3; ZHANG Hui4; XIANG Peng5; LIU Teng-fei6; LI Ya-hong ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(lSchool of Education Science,Nanning Normal University,Nanning 53o299,China)   \n(2School of Humanities and Management,Wannan Medical College,Wuhu 341oo2,China)   \n(School ofPsychology,Jiangxi Normal University,Nanchang33oo22,China)   \n(4School of Sociology,Huazhong University of Science and Technology,Wuhan 43oo74,China)   \n(5school of law,nanjinguniversityof finance & economics,Nanjing 21oo23,China)   \n(School of Humanities and Management, Guangdong Medical University,Dongguan 5238o8,China)   \n(School of Education, South-Central University for Nationalities,Wuhan 43oo74, China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This project aims to investigate psychological mechanisms of behavioral poverty trap in China,and hence put forward corresponding risk management strategies.For this purpose, we intend to draw on the new research paradigm in poverty study,which is initiated by behavioral economists,and recruit residents who live in extreme poor areas as participants.First, a framework concerning both the cognitive and motivational base of behavioral poverty trap is proposed as empirical and theoretical route of this project. Second, we analyze how cognitive outcomes of poverty psychologically and neurally affect subsequent decision behavior, as well as how both cognitive and motivational outcomes of poverty jointly influence subsequent decision behavior. In addition, the casual effect of psychological outcomes caused by poverty on subsequent decision behavior is empirically examined.Third, we further conduct randomized controlled experiments to understand the influence of cognitive changes caused by poverty on subsequent decision behavior, as well as field intervention studies to test the effect of self-identity changes caused by poverty on subsequent decision behavior. Based on these empirical researches,management strategies for poverty alleviation are discussed. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key-words: poverty; behavioral poverty trap; behavioral decision making; cognition; motivation ",
+        "page_idx": 18
+    }
+]

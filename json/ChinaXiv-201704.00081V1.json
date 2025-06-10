@@ -1,0 +1,459 @@
+[
+    {
+        "type": "text",
+        "text": "A comparative study on wear behavior and mechanism of styrene butadiene rubber under dry and wet conditions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Y.P. Wu a,b.c, Y. Zhoub, J.L. Lib, H.D. Zhoua, JM. Chen a,b.\\*, H.C. Zhao b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyboratoryofSolidubrcationLanzouIstuteofhemicalsicsinsecademyofiencesnzouin bKeyLaboratoryofMrineMaterialsandRelatedTechnologies,ZhejiangKeyLaboratoryofMarineMterialsandProtectiveTecologies Ningbo Instituteof Materials Technologyand Engineering,Chinese AcademyofSciences Ningbo 315201,China c University of Chinese Academy of Sciences,Beijing 10oo80,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 19 August 2015   \nReceived in revised form   \n21 January 2016   \nAccepted 24 January 2016   \nAvailableonline11March2016   \nKeywords:   \nFriction and wear   \nAdhesion   \nHysteresis   \nWear debris   \nMechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the main component of the tire treads,styrene butadiene rubber (SBR) is widely used to make tire tread for cars in the rubber industry;understanding the friction and wear properties of tire tread rubber is important to improve the safety of the cars.This study aimed to investigate the tribological properties and wear mechanism of SBR under dry and wet conditions；an improved commercial block-on-ring friction testing machine was used to conduct sliding wear tests between SBR and marble block.The friction coefficients,wear rates and wear debris were analyzed under dry and wet conditions in detail. In addition,the contribution of adhesionand hysteresis components to friction coefcient that originated from the changes of loading was discussed.The results indicated that the applied loads have a significant effect on the friction and wear properties ofthe SBR composites.Under the condition of dry friction,wear losses increased with the increasing load and the main wear mechanism is both severe adhesive and abrasive wear; under the condition of water existence,the applied loads would not affect the wear losses, and the wear mechanism is abrasive wear.The knowledge gained in this study is anticipated to provide the theoretical data for a wear theory studyof SBR tire tread and can be used for the optimization of designing higher performance tire treads. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abrasion resistance and wet skid resistance are very important for the performance of tire treads because these factors determine the tire's service life and safety,respectively. Improvement of the abrasion resistance and wet skid resistance of tire tread has achieved much attention in the past [1-6]. Generally, in order to enhance the mechanical properties,abrasion resistance and wet skid resistance of the tire treads,carbon black(CB) and silicaare mainly chosen to reinforce the rubber composites in the rubber industry.Meanwhile,great efforts have been made to improve the mechanical and tribological properties of various types of tire rubbers [7-12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In essence,the friction and wear behavior of the rubber composites is a complex scenario,which has been influenced by many different parameters,such as tribo-testing machine,counterparts texture，sliding distance,applied working load，working temperature,and speed and time of running [13-2O]. Lv et al.[21] studied the wear behavior of NBR in cyclohexane at different loads.It was found that the wear loss of NBR composite was relatively lowat the lower load;while at the higher loads,the wear loss was dramatically high.This is ascribed to the change in wear mechanism from mild abrasive wear to severe abrasive wear. By using a CBZ-1 tribo-tester to conduct sliding wear tests between NBR pins and 1Cr18Ni9Ti stainless steel disc,Dong et al. [22]investigated the tribological properties of NBR composite under dry sliding conditions;the results showed that the main wear mechanism between the rubbing pairs was fatigue wear. In addition,inan attempt to obtaina deeper knowledge of friction and wear between the pavement surface and rubber composites, Vieira et al. [23],depending on a low-cost tests,studied several parameters of influences on the friction and wear rates of rubber composites,such as surface energy and wear pattern spacing.To comprehensivelyunderstand the tribological properties of the tire rubbers,many researchers have also studied the friction behavior and wear mechanism of the tire rubbers against the different counterparts under dry friction conditions [24-27].Thavamani etal.[25,26] examined the wear mechanisms of SBR against hard rock under different conditions.It was shown that the wear of SBR compositesagainst hard rockat lowload tookplace bya fatigue wearmechanism,oppositely,at higher load,the wear took place by fracture and extensive plough.Tangudom et al.[27] examined the mechanical propertiesand abrasive wear behavior of NR, SBR and their blends reinforced with silica hybrid fillers employing an in-house built abrader ina pin-on-plate configuration.The results demonstrated that the BASi/rubber has greater abrasive wear resistance against a fabric counterface than against steel and concrete counterface,respectively.Furthermore,the rubber composite abraded against steel, concrete and fabric under wet conditions showed less wear than those under dry conditions,except for SBR composites on a concrete counterface.Unfortunately,up to now, little available information on friction and wear properties of the SBR under both dry and wet conditions has been acquired systematically,especially in processes of accessing the practical working conditions.In order to get more comprehensive knowledge on improving the abilitiesof abrasion and wet skid resistance,it is very necessary to further investigate friction behavior andwearmechanismof SBR. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present paper,the dry and wet sliding friction and wear of SBR composites were studied against marble block with an improved commercial block-on-ring friction testing machine. Under different applied loads,the coefficient of friction and specific wear rate of SBR composites were examined.The wear mechanism was discussed by inspecting the worn surfaces and wear debris employing scanning electron microscopy(SEM） and X-ray diffraction (XRD).Based on the results obtained,a relationship between the friction and wear and loading under dry and water-existed conditions were proposed,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental details ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1．Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SBR matrix and carbon black used in this study were obtained from Lanzhou Petrochemical Co., China. Zinc oxide(ZnO), stearic acid,acetone and sulfur (S8)were purchased from Xilong Chemical Co.,Ltd.Diphenyl guanidine(DPG) and N-Cyclohexyl-2- benzothiazolylsulfenamide（CBS） were bought from Aladdin Industrial Corporation and Tokyo Chemical Industry Co.Ltd, respectively.All chemicals were used as received. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/29faa914ef710fdf1bbfad615afb42c38fb666da77dd233012e933f5bcdc1f7d.jpg",
+        "table_caption": [
+            "Table 1 The composite formulation (Unit: parts per hundred rubber;phr). "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Ingredient</td><td>Content (phr)</td></tr><tr><td>Rubber</td><td>100.0</td></tr><tr><td>Carbon black</td><td>50.0</td></tr><tr><td>Zinc oxide</td><td>5.0</td></tr><tr><td>Stearic acid</td><td>2.0</td></tr><tr><td>Dioctyl phthalate</td><td>10</td></tr><tr><td>Sulfur</td><td>1.5</td></tr><tr><td>N-Cyclohexyl-2-benzothiazolylsulfenamide</td><td>2.0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Preparation of SBR composite ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main components of the SBR composite and their contents are provided in Table 1.The formulations of the SBR composite filled with carbon black used a two-roll mill ((S)XK 100B, Changzhou Dongfang Huayang Machinery Factory,China）and subjected to compression at $1 6 0 ^ { \\circ } \\mathsf C$ under 1O MPa pressure for the optimum curing time ( $\\mathrm { i } _ { 9 0 }$ ,determined by a vulcameter) employing a plate vulcanizing machine (XLB-D,Huzhou Hongqiao Rubber Machinery Co., Ltd. China). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3. Characterization of the tribological properties ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The tribological tests were conducted on a commercial ring-onblock friction testing machine(Model MM-2oo,Xuanhua Material Testing Co.,China);the contact schematic diagram of the frictional coupleis shown in Fig.1.A marble block( $\\mathrm { 3 0 \\pm 1 ~ m m }$ in length, $6 \\pm 0 . 2 \\ \\mathrm { m m }$ in width,and $7 \\pm 1 ~ \\mathrm { { m m } }$ in thicknesses)wasused as the counterparts with arithmetic average roughness of $7 . 0 \\mu \\mathrm { m }$ The rubber sample was fastened onto the stainless steel ring ( $\\cdot 0 4 0 \\mathrm { m m }$ ） All experiments were carried out in the conditions(temperature: $1 5 - 2 5 ^ { \\circ } C$ ,humidity: $8 - 1 5 \\% ,$ rotational speed: $2 0 0 ~ \\mathrm { r / m i n }$ and testing time: $6 0 \\mathrm { { m i n } }$ )under dry frictionand water-existed conditions,and ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 1.1 -60N 70N 1.0 [ teeegere elgien 80N 90N 0.9 0.8 0.7 0.6 1 0.5 0.4 0 5 10 15 20 25 30 35 40 45 50 55 60 Time (min) ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/61c56bfe580e75fe7f6c3dc46bd0da47f12b8a22b801d7693ba92813369fddf9.jpg",
+        "img_caption": [
+            "Fig.2.Time dependence of friction coefficients of SBR composite for different working loads under dry friction conditions. ",
+            "Fig.1.Schematic diagram of the friction and wear test under dry and wet conditions (unit: mm). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "thesliding testswere runat normal loadsof 60,7O,8O and $9 0 \\mathsf { N }$ separately. The average friction coefficients $\\mathbf { \\Pi } ( \\mu )$ were obtained through a computer data acquisition system of the MM-2oO tester. The SBR composites were all ultrasonically cleaned in acetone, dried,and weighted usingan analytic balance (ME2o4E,measurement accuracy: $_ { 0 . 0 0 0 1 \\mathrm { ~ g } } ^ { }$ beforeandaftertesting,thewearlossrate was calculated with the following Eq.(1): ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { f }$ is the final massafter test; $m _ { o }$ is the original mass before test.All the experiments were carried out in triplicate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a51190a106d45f8a1ebec4f6314332a4e8ab041c1883700d3b01805a4424025.jpg",
+        "img_caption": [
+            "Fig.3.Time dependence of friction coefficients for different working loads under wet friction conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Surface characterization of tested SBR composite and wear debris ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For investigating the wear mechanism both under dry and wet conditions with different loads,the worn surface and wear debris were inspected employing a scanning electron microscope (SEM, JSM-56ooLV,Japan).The surface roughness of all SBR composite was also examined via Olympus microscope(MM6C-AF-2, Japan) and dual-mode three-dimensional surface profiler (NanoMap-D, APE Co.,America).And the characters and compositions of the wear debris were further measured using the SEM and X-ray diffraction(XRD,Philips,Netherlands,Cu Kα radiation),respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Resultsanddiscussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Friction and wear behavior of SBR composite under dry and wet conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effect of load on the tribological behavior of SBR composite under dry friction conditions is shown in Fig.2.It is clear that the friction coefficient decreases with increase of working loads.At the lower load (60,7O and 80 N), the sample surfaces were slightly deformed and ploughed by the counterparts,which results in a lower shearing force and mild abrasive wear. Consequently,the plots of friction coefficientsagainst times appear in two stages.At thebeginning,friction coefficient values were relatively smaller under the lower loadsof 60,70 and $8 0 \\mathsf { N }$ ,and then flattened out gradually.These could be attributed to heat generated by dry sliding friction and the changes of surface roughness of SBR composite.While at the higher load (9o N), the rate of heat generated is faster and severe viscoelastic deformation were generated on the surface of rubbers,leading to more surface material being extruded and participation in the roll-slid process.Therefore,the friction coefficient tends to be stable throughout the test. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb769ace4d7c459061e08bffc6a1ac7b79afc129928a010e919e018ffe6bd6cd.jpg",
+        "img_caption": [
+            "Fig.4.Effect of load on surface damage under dry friction conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Under the water-existed conditions,the effect of load on the tribologicalbehaviorof SBR composite is givenin Fig.3.Notably, the friction coefficient for different working loads follows similar trends.Opposite to what was seen for the dry friction,the friction coefficients were roughly similar. The reasons may be that the water flew into the grooves and covered the marble during abrasion,which lessen the real contact surface between sharp asperitiesand the rubber composite.These are similar to the results reported by Tangudom et al. [27]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abraded surfaces of SBR composite were examined with SEM as shown in Fig.4.Under dry friction conditions,it can be seen that there are a series of parallel ridges lying perpendicular to the sliding direction on the surface of abraded rubbers.And many irregular protuberances and grooves are also clearly observed. By increasing the working loads,the cracks caused by stress concentration gradually disappeared,while the parallel ridges and grooves are more obvious (Fig. 4c and d). These are mainly attributed to the severe elastomer deformation and the changes of real contact surface which was thoroughly investigated in previous works [28]. On the contrary, the surface cracks and parallel ridges cannot be observed under the water-existed conditions.With the increase of loads,the worn surface gradually shows clear grooves in the direction parallel to the sliding direction,as exhibited in Fig.5.The main wear traces are caused by ploughed issued from the aggregate structure of carbon black and the surface protuberances of counterparts [29].It is obvious that the wear behaviors are completely different under dry friction and waterexisted conditions.This is in good agreement with the above the results of the friction coefficients measured previously. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.6,the wear mass losses of SBR composite were determined via measuring the weights before and after tests under dry sliding friction conditions.The working loads exert an increasingly strong effect on the mass losses of SBR composite.The mass loss of SBR composite is suppressed to O.Oo186 at load of $9 0 \\mathrm { N } ,$ ，obviously higher than the corresponding values at loads of 60,70,and $8 0 \\mathrm { N } .$ These suggestthattheworkingloadsplayavital role in increasing mass losses under dry sliding friction conditions. Unlikely, the increasing loads has almost no obvious effect on the wear mass losses under water-existed conditions,indicating that the wear behaviors have been changed with the existence of water,and itis possible that the applied loads are not the only factor determining wear loss,other factors must account for the wearloss under the wet condition,such as the thickness of water filmand periodical micro-vibration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dffb360402a681978351bfc99e335110abd1bc397a89dcefb815158ef1b28b99.jpg",
+        "img_caption": [
+            "Fig.5.Effect of load on surface damage under water-existed condition. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9530652914baf3169bfb8442a8c52440e587a4fd725c5f894e08ef4627bf206c.jpg",
+        "img_caption": [
+            "Fig.6.Results of wear rate for diferent working loads under dry friction and water-existed conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To explain the observed trends of the friction coefficients as a function of working loads,the average friction coefficients for the different working loads under dry friction and water-existed conditions are also listed in Table 2.A significant decrease in the average friction coefficients with increase of the loads under dry friction conditions can be seen.Remarkably,the average friction coefficients showed a slight increase in tendency under waterexisted conditionsas the working loads increased.These could be due to the presence of water film,which not only reduces the temperature of the process of sliding friction but also protects the contact surface from the wear and segmental ploughing [23].This has been well proved by the SEM analysis (Fig.5). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Weardebris ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further study the wear characteristics and mechanisms in detail,the effect of loads on the shape of wear debris is illustrated in Fig.7.It is visible that the debris at the load of $6 0 \\mathrm { N }$ is in the form of longer and bigger club-shaped debris,which is more than a lengthof $5 0 0 \\mu \\mathrm { m }$ and a cross sectional diameter of about $5 0 \\mu \\mathrm { m }$ With the increasing load,the shape of wear debris ranged from rods to globular.And at the loads of 8O and $9 0 \\mathsf { N }$ ,the size of debris particles is less than $5 0 \\mu \\mathrm { m }$ ，which also indicated that the wear mechanismat the lowerand higher load was completely different. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fcbb1f9f940876963446c68c89210984e8af32b9aa04a22bc018e7fa65e7928.jpg",
+        "table_caption": [
+            "Table 2 The average friction coeficient $( \\mu )$ under dry friction and water-existed conditions. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"4\">Load (N)</td></tr><tr><td>60</td><td>70</td><td>80</td><td>90</td></tr><tr><td>Dry friction</td><td>0.793±0.044</td><td>0.679 ±0.012</td><td>0.606±0.008</td><td>0.513 ± 0.010</td></tr><tr><td>Wet friction</td><td>0.112 ± 0.004</td><td>0.135 ± 0.004</td><td>0.158 ± 0.005</td><td>0.161 ± 0.006</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8 shows that the changes of the $z _ { \\mathrm { { n O } } }$ crystal phase in SBR composite and wear debris.It is clear that the three strongest XRD peaks appeared in the composite and wear debris,corresponding to (100),(O02) and (101) lattice planes of $z _ { \\mathrm { { n O } } }$ wurtzite hexagonal structure [3O].Additionally,with the increase of the working load, therelative intensities in the XRD peaks of the wear debris have no obvious change and lower than those of the SBR composite. Based on the above results,we concluded that the change of the working load has little influence on the amount of release of the $z _ { \\mathrm { { n O } } }$ from SBR composite and a new substrate was not formed under dry friction conditions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Effectof adhesion and hysteresis component on friction behavior ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,in order to evaluate effect of adhesionand hysteresis component on friction behavior,a marble block was chosen as tribopair. In our knowledge, the tire-pavement contact interaction has been modeled; the main origin of the friction is attributed to hysteresis and adhesion [23].And afterwards,more complex models have been proposed [31,32].Generally, the hysteresis is originated from the rubber material draping over the surface asperities,which is dependent on the surface texture (including hardness and asperities shapes）and the rubber viscoelastic properties.In the meantime,the hysteresis of the tire rubber results in energy dissipation.The adhesion frictionis directly proportional to the area of real contact,and the hysteresis friction is proportional to the penetration depth of the hard asperity into the softer elastomer [33,34]. The overall friction coefficients between rubber and counterpart can be decoupled into adhesive $( \\mu _ { a d h } )$ and hysteresis viscoelastic $( \\mu _ { h y s t } )$ contributions as [35,36]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = \\mu _ { a d h } + \\mu _ { h y s t }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d64ec049d0163184db5fa8ad0a517823c446fd63dabae23064ba5611476a391.jpg",
+        "img_caption": [
+            "Fig.7.Morphology of wear debris for different working loads under dry friction conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The adhesive component is primarily related to the adhesion between rubber and counterpart in contact: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { a d h } = A S L ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The hysteresis viscoelastic contribution to the overall friction coefficient can beestimatedas: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { h y s t } = K L ^ { 1 / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $A$ is the area of real contact,Sis the shear strength, $L$ isthe working load,and $K$ isthe constant,which is not related to the working load，but depends on the materials properties and geometry. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The linear-fitting curves of ideal models of friction coefficients against working loads are presented in Fig.9.It is worth noting that the value of $R _ { h y s \\mathrm { t } } ^ { 2 }$ (0.993） is more than the value of $R _ { \\ a d h } ^ { 2 }$ (0.988) under dry friction condition,suggesting that the hysteresis component has more important roles in contribution of overall friction coefficients (ignoring the contribution of hysteresis or adhesion component to overall friction coeficients (Fig.9a and c)). However, the value of $R ^ { 2 } { } _ { h y s t }$ (0.905) is less than the value of $R ^ { 2 } { } _ { a d h }$ (0.949) under water-existed conditions (Fig.9b and d),indicating that the adhesion component is the main contribution to the friction coefficients.This result is attributed to the fact that water actsas a lubricant to reduce the roughness of worn surface of SBR composite,resulting in increasing in the area of real contact between rubber and counterpart. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/60d8d319949e6216121a6748307a2eba1f6c74e59a2cc88a7692256eb4bc803a.jpg",
+        "img_caption": [
+            "Fig.8.XRD pattern of wear debris under different working loads conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To havea furtherinsight into thewearcharacterswithdifferent working loads,the $R _ { a }$ results obtained from the worn surfaces of SBR composite under both dry and wet friction conditions are summarized in Table 3.As the working load ranged from 60 to $9 0 \\mathrm { N } ,$ $R _ { a }$ increased gradually under dry friction conditions.However,the similar results are not observed under wet friction conditions,which is in good agreement with the mass loss and SEM analysis presented above.Thus,it is concluded that the working loads have a significant influence on the roughness of worn surfaceunder dry friction condition,i.e.the higher the working load, the greater the values of $R _ { a }$ ,but not under wet friction conditions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.Wearmechanism ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The wear mechanism of SBR composite is a complex process depending on a combination of mechanical, thermal, physical and chemical properties.Previously several investigators proposed kinds of mechanisms of the rubber abrasion,such as abrasive wear,roll formation [13],fatigue crack growth [22,25],stick-slip oscillation and micro-vibration [37]. In this investigation,under the dry friction condition,as can be seen from Fig.4,obviously the worn surface of the SBR composite contains irregular grooves and sharpened asperitiesas well as the fatigue crack at low load(60 and $7 0 \\mathrm { N }$ ).Besides,with increase of the loads,the vertical cross sections of the wear of SBR composite are changed from sharp peaks to smooth grooves,and the depth of the grooves increased. It is possible to be caused by the enhancement of the hysteresis with a deeper penetration of the hard asperity into the SBR composite,which can be explained by schematic model in Fig.10a. And from the morphology of the debris (Fig.7),the club-shaped debriswas observed,as the load increased,the shape of wear debrisranged from rods to globular;it maybe inferred that the wear through roll formation occurs at low loads(6o and $7 0 \\mathrm { N }$ but cannot occur at high loads (80 and 9o N).Moreover, the grooves paralleled with sliding direction are also observed at higher load (90 N).Therefore,the main wear mechanism may be both severe adhesive and abrasive wear,along with fatigue wear and roll formation.Fora wet condition on the surface of marble block,at the lower load, the existence of the water film prevented the contact between asperities and rubbers,and the water flew into the grooves and covered the surface of marble block during sliding abrasion.These lessened the real contactareaand rubberabrasion, which is consistent with the observation from Fig.9b and d.As the schematic models are shown in Fig.10(b),with increase of the working load,more water is extruded from marble surface;the sharp asperities begin to take an active role in increasing the wear, as shown in Fig.5.Thus,the main wear mechanism may be abrasive wear. Shortly,owing to the existence of the water film, abrasive wear plays an important role in wear loss under wet friction condition,whereas under dry friction condition, the prominent wear mechanism is combination of abrasive wear,adhesive and fatigue wear,with roll formation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/22aa165ec1475af950d3e83f63e5c361bff409bcc2fd61f6ee1e75f7cd4ab5f8.jpg",
+        "img_caption": [
+            "Fig9i (a)and (c) and water-existed (b) and (d) conditions,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/07e153ea129c4121ef85f973ea8016cccfa5730044f8d330d1352620bd5b4cec.jpg",
+        "table_caption": [
+            "Table 3 Results of roughness ${ \\cal R } _ { a }$ for different working loads under dry and wet friction conditions. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Load (N)</td><td>Dry friction (um)</td><td>Wet friction (um)</td></tr><tr><td>60</td><td>35.804</td><td>12.110</td></tr><tr><td>70</td><td>75.626</td><td>4.756</td></tr><tr><td>80</td><td>95.140</td><td>7.891</td></tr><tr><td>90</td><td>118.615</td><td>10.084</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0f9c8b8274b359aadd176100ea5396ae00d8561fc3d23c409a4c153d9697b28.jpg",
+        "img_caption": [
+            "Fig.10.Schematic model of wear contribution of real contact surface to friction andwear ofSBRcomposite. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The friction and wear,wear debris and mechanism in the ringblock sliding contact were investigated using an improved frictional tester;the following are the conclusions for the dry sliding experiments: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）The average friction coefficient decreased with normal force in the range of $6 0 { - } 9 0 \\ \\mathrm { N }$ ，but the wear loss increased over the same range.   \n(2）The shape of wear debris ranged from rods to globular, indicating that the main wear mechanisms were both adhesive and two-body abrasive wears.   \n(3）The hysteresis contribution to friction coefficient played a more important role than theadhesive contribution. When sliding was conducted in the presence of water, the following additional conclusions were obtained:   \n(4）Friction coefficients increased only slightly with normal force over the range of $6 0 { \\ - } 9 0 \\mathrm { N }$ ，but the wear loss was nearly unaffected by load.   \n(5）The main wear form was two-body abrasive wear.   \n(6）The adhesion contribution to friction coefficient played a leading role than hysteresis contribution that resulted from increase of the area of real contact between rubber and counterpart. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,the friction and wear behaviors of SBR rubbers under dry friction conditions differ from those under waterexisted conditions because of the differences of theirwear mechanism. To ensure the service lives and safety for tire tread, especially on rainy days,its properties of friction,wear and skid wet resistance should be analyzed and improved comprehensively. Moreover, further work would be carried out for exploring access to the practical working conditions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors wish to acknowledge the financial support of National Basic Research Program of China,Grant nos.2O15CB654700 (2015CB654705). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] M.T. Do, Z. Tang,M. Kane,et al.，Pavement polishing-development of a dedicated laboratory test and its correlation with road results,Wear 263(1) (2007) 36-42.   \n[2] M.J.Wang, Y. Kutsovsky, Effect of fillers on wet skid resistance of tires. Part I: water lubrication vs filler-elastomer interactions,Rubber Chem. Technol. 81 (4) (2008) 552-575.   \n[3] A. Mostafa, A. Abouel-Kasem, M.R. Bayoumi, et al., Insight into the effect of CB loading on tension, compression, hardness and abrasion properties of SBR and NBR filled compounds,Mater.Des. 30 (5) (2009) 1785-1791.   \n[4] Y.Li, B. Han, S.Wen, et al., Effect of the temperature on surface modification of silica and properties of modified silica filled rubber composites, Compos. Part A:Appl. Sci. Manuf. 62 (2014) 52-59.   \n[5] J.T. Sun,W. Wang,P. Zhang,et al.，Effects of the synergy of hardness and resilience on the akron abrasion properties of SBR vulcanizates, J. Macromol. Sci. Part B 51 (8) (2012)1658-1667.   \n[6] Y.S.Kim, S.Do Yoon, J.S. Kim,Abrasion by a blade scraper compared with abrasion bya rough surface, Polym. Test.37 (2014) 123-128.   \n[7] K.W. Stockelhuber,A.S. Svistkov, A.G. Pelevin,et al., Impact of filler surface modification on large scale mechanics of styrene butadiene/silica rubber composites, Macromolecules 44(11) (2011) 4366-4381.   \n[8] J. Liu, Y.L.Lu, M. Tian, et al., The interesting influence of nanosprings on the viscoelasticity of elastomeric polymer materials: simulation and experiment, Adv.Funct. Mater.23(9) (2013)1156-1163.   \n[9] Y. Mao, S.Wen, Y. Chen, et al., High performance graphene oxide based rubber composites, Sci. Rep.3 (2013).   \n[10] Y. Li,B. Han,L. Liu, et al., Surface modification of silica by two-step method and properties of solution styrene butadiene rubber (SSBR) nanocomposites filled with modified silica, Compos. Sci. Technol. 88 (2013) 69-75.   \n[11] H.H. Le,M. Parsekar, S. Ilisch, et al., Effect of non-rubber components of NR on the carbon nanotube (CNT) localization in SBR/NR blends,Macromol. Mater. Eng. 299 (5) (2014) 569-582.   \n[12] Z. Tang,L. Zhang,W. Feng, et al., Rational design of graphene surface chemistry for high-performance rubber/graphene composites,Macromolecules 47 (24) (2014) 8663-8673.   \n[13]K. Pal, T.Das,R. Rajasekar,et al.,Wear characteristics of styrene butadiene rubber/natural rubber blends with varying carbon blacks by DIN abrader and mining rock surfaces, J. Appl. Polym. Sci. 111(1) (2009) 348-357.   \n[14] D.F.Moore,Some observations on the interrelationship of friction and wear on elastomers,The Wear of Non-Metallic Materials Mechanical Engineering Publ., London,1978,pp.141-144.   \n[15]M. Bhattacharya, A.K. Bhowmick, Analysis of wear characteristics of natural rubber nanocomposites,Wear 269(1) (2010) 152-166.   \n[16] C. Huang, X. Huang, Effects of pavement texture on pavement friction:a review, Int. J. Veh. Des.65 (2) (2014) 256-269.   \n[17] B.N.R. Kumar, B. Suresha,M. Venkataramareddy, Effect of particulate fillers on mechanical and abrasive wear behaviour of polyamide 66/polypropylene nanocomp0sites, Mater. Des.30 (9) (2009) 3852-3858.   \n[18]N.S.M. El-Tayeb,R.M. Nasir, Effect of soft carbon black on tribology of deproteinised and polyisoprene rubbers,Wear 262 (3) (2007) 350-361.   \n[19] B. Suresha, G. Chandramohan, M.A. Jawahar, et al., Three-body abrasive wear behavior of filled epoxy composite systems, J. Reinf. Plast. Compos. (2008).   \n[20] J. Karger-Kocsis,A. Mousa, Z. Major,et al., Dry friction and sliding Wear of EPDM rubbers against steel as a function of carbon black content, Wear 264 (3) (2008) 359-367.   \n[21] X.R.Lv, H.M. Wang, S.J. Wang, Effect of swelling nitrile rubber in cyclohexane on its ageing, friction and wear characteristics, Wear 328 (2015) 414-421.   \n[22] C.L. Dong, C.Q. Yuan, X.Q. Bai, et al., Tribological properties of aged nitrile butadiene rubber under dry sliding conditions,Wear 322 (2015) 226-237.   \n[23] T. Vieira, R.P.Ferreira, A.K. Kuchiishi, et al., Evaluation of friction mechanisms and wear rates on rubber tire materials by low-cost laboratory tests,Wear 328 (2015) 556-562.   \n[24] D.Xu, J. Karger-Kocsis, A.K. Schlarb, Rolling wear of EPDM and SBR rubbers as a function of carbon black contents: correlation with microhardness, J. Mater. Sci. 43 (12) (2008) 4330-4339.   \n[25]P. Thavamani，D. Khastgir，A.K. Bhowmick, Microscopic studies on the mechanisms of wear of NR, SBR and HNBR vulcanizates under different conditions, J.Mater. Sci. 28 (23) (1993) 6318-6322.   \n[26] P.Thavamani, A.K. Bhowmick, Influence of compositional variables and testing temperature on the wear of hydrogenated nitrile rubber, J. Mater. Sci. 28 (5) (1993)1351-1359.   \n[27] P. Tangudom, S. Thongsang, N. Sombatsompop, Cure and mechanical properties and abrasive wear behavior of natural rubber,styrene-butadiene rubber and their blends reinforced with silica hybrid fillers,Mater.Des.53 (2014) 856-864.   \n[28] A. Schallamach,Abrasion pattern on rubber, Rubber Chem. Technol. 26(1) (1953) 230-241.   \n[29] C. Hong,H. Kim, C. Ryu, C. Nah, Y. Huh, S. Kaang, Effects of particle size and structure of carbon blacks on the abrasion of filled elastomer compounds,J. Mater. Sci. 42 (20) (2007) 8391-8399.   \n[30] W. Rathnayake,H. Ismail, A. Baharin,et al., Enhancement of the antibacterial activity of natural rubber latex foam by the incorporation of zinc oxide nanoparticles, J. Appl. Polym. Sci.131(2014) 1.   \n[31] A. Legal, X. Yang, M. Klippel, Evaluation of sliding friction and contact mechanics of elastomers based on dynamic-mechanical analysis, J. Chem. Phys. 123 (2005).   \n[32] G. Heinrich,M. Klippel, Rubber friction, tread deformation and tire traction, Wear 265 (2008)1052-1060.   \n[33] C.M. Strobel,P.L. Menezes,M.R. Lovell, et al., Analysis of the contribution of adhesion and hysteresis to shoe-floor lubricated friction in the boundary lubrication regime, Tribol. Lett. 47 (3) (2012) 341-347.   \n[34]A. Le Gal, X. Yang,M. Kluppel, Evaluation of sliding friction and contact mechanics of elastomers based on dynamic-mechanical analysis, J. Chem. Phys. 123(1) (2005) 014704.   \n[35]D.Martinez-Martinez,J.P. Van der Pal, M. Schenkel, et al., On the nature of the coeficient of friction of diamond-like carbon films deposited on rubber, J. Appl. Phys.111(11) (2012)114902.   \n[36] L.Wang, X. Guan,G. Zhang,Friction and wear behaviors of carbon-based multilayer coatings sliding against different rubbers in water environment, Tribol. Int. 64 (2013) 69-77.   \n[37] Y. Fukahori, H. Liang, J.J.C. Busfeld, Criteria for crack initiation during rubber abrasion,Wear 265 (3) (2008) 387-395. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

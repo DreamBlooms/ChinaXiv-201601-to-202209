@@ -1,0 +1,236 @@
+# 改进的形态学与Otsu相结合的视网膜血管分割
+
+汪维华1,2,3，张景中1，吴文渊
+
+(1.中国科学院重庆绿色智能技术研究院自动推理与认知重庆市重点实验室，重庆 400714;2.中国科学院大学计算机与控制学院，北京 100049;3．重庆文理学院 软件工程学院，重庆 402160)
+
+摘要：视网膜血管的形态和结构在眼科疾病诊断中起着非常重要的作用，同时对于心血管疾病和糖尿病的诊断也有重要作用，视网膜血管自动分割是基础。针对视网膜图像采集过程中由于疾病引起的图像光照反射过强问题，提出了一种修正的形态学与Otsu相结合的无监督视网膜血管分割算法。首先运用形态学中的高低帽变换增强血管与背景的对比度，然后提出了一种修正方法，消除部分视网膜疾病引起的光照问题，最后使用Otsu 阈值方法分割血管。算法在DRIVE和 STARE视网膜图像数据库中进行了测试，实验结果表明，DRIVE数据库的分割精度为0.9382，STARE数据库的分割精度为0.9460，算法的执行时间为 $1 . 6 \ : \mathrm { s } .$ 。算法能够精确地分割出视网膜血管，与传统的无监督视网膜血管分割算法相比，算法的分割精度高、抗干扰能力强。
+
+关键词：视网膜血管；Otsu；形态学；图像分割；图像增强 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.01.0122
+
+# New approach to segment retinal vessel using morphology and Otsu
+
+Wang Weihual,2,3, Zhang Jingzhong1, Wu Wenyuan1 (1.Chongqing Key LaboratoryofAutomated Reasoning & Cognition,Chongqing InstituteofGreen &Inteligent Technology, ChineseAcademyofSciences,Chongqing40714,China;2.SchoolofComputer&ControlEngineering,UniversityfCinese AcademyofSciences,Beijing10o49,China;3.SholofSftware Engineering,Chongqing UniversityofArts&Sciences, Yongchuan 402160, China)
+
+Abstract: Theappearanceand structureofretinal vessels playan important rolein thediagnosesinophthalmicdiseases,italso plays an importantrole inthe diagnosis ofcardiovascular disease and diabetes,whichrequiresanalgorithmto automatically extracttheretinalvessels.Toenhance theimage with imbalancedlocal iluminationcausedbyretinaldiseases intheprocessof fundus imageacquisition,this paper proposedanewunsupervisedretinal veselsegmentation methodwithmorphologicaland Otsu.First,usedthecombineofthe top-hatransformationandthebotom-hattransformationtoenhance thecontrastetween thebloodvessels anditsbackground inaretinalimage.Next,presentedanovelrevised method toremove the problem,which is causedbytheimbalancedlocalilumination intheenhancedretinal image.Finally,appiedthe thresholdcalculated byOtsu method to extracthe retinal vessels.We evaluated the algorithm with twopubliclyretinal imagedatabases DRIVEand STARE. The experiment results indicate thathe segmentationaccuracy inDRIVEdatabase achieves 0.9382,thesegmentation accuracy in the STARE database achieves 0.9460.The run time ofour new method is1.6 seconds.Thenew algorithm can acurately extractthretinalvessels.Comparedwiththetraditionalretinalveselsegmentationalgorithm,itssegmentationaccuracyand anti-perturbation ability improve.
+
+Key words: retinal vessel; Otsu; morphology; image segmentation; image enhancement
+
+# 0 引言
+
+疾病包括高血压、心血管病、糖尿病和中风等。例如，血管管径、血管分支角或血管弯曲度的改变是高血压引起的必然结果[1,2]，出现新增血管是糖尿病视网膜病变的象征[3]。眼底视网膜视网膜血管结构的变化是许多疾病出现的临床表现，这些图像在眼科疾病诊断和研究中得到了广泛的应用，分割和测量眼底视网膜血管的结构状态在眼科疾病诊断和研究中提供了重要信息。因此，视网膜图像血管分割是眼科疾病诊断和分析病情严重程度的重要依据，但目前基本上还是采用人工方式对拍摄的视网膜图像进行分析，这浪费了医生大量的时间，分析结果同医生的经验相关，主观性强。因此，视网膜图像血管的自动分割，尤其是高精度的自动分割算法需求迫切，这也是我们的研究目的。
+
+经过不断探索，人们已经提出了许多视网膜血管自动分割方法，这些算法大体上可以分为两大类：有监督学习的视网膜分割方法和无监督学习的视网膜分割方法。有监督学习算法包括两大步骤：训练阶段和识别分割阶段。训练阶段利用人工分割好的标准视网膜血管图像按照一定的学习方法训练分类器。在识别分割阶段使用训练好的分类器对具有一定特征的未知视网膜图像进行血管分割。有监督学习的血管分割通常能够获得较高的分割精度，但是该类算法需要提供标准的训练集，而且训练和识别分割的时间都比较长。Aslani[4]等提出了一种基于鲁棒的混合特征集的有监督学习视网膜分割算法，算法综合利用其他不同算法的特征集合构成一个混合特征向量描述血管特征，由17个特征构成17-D向量，这些特征包括：13个不同配置的Gabor滤波器、对比度增强、形态学高帽变换增强、血管测量和COSFIRE 滤波器。算法使用一个快速而简单的随机森林分类器来训练和分割血管。Soares[5]等提出了一种基于Gabor小波和贝叶斯分类器的有监督学习的视网膜血管分割算法，算法使用多尺度Gabor小波变换构成一个2-D特征向量，使用贝叶斯分类器将一个像素点划分为血管和非血管两类。
+
+无监督学习的算法不需要训练，也不需要提供训练集，相对而言，无监督学习视网膜血管分割算法的执行速度快。Hoover[等利用血管局部区域信息，提出了一种阈值探针血管检查方法，在预处理阶段，算法使用Gauss 滤波器滤波。陶治江[7等提出了一种基于相位一致性的无监督视网膜图像血管自动分割算法，该方法使用改进的相位一致性分割血管，再使用高帽变换进一步增强血管图像，最后使用面积阈值消除块状干扰。王晓红[8]等提出了一种基于多尺度 2-D Gabor 变换的视网膜血管分割算法，算法使用直方图均衡化进行预处理，然后使用多尺度Gabor变换增强血管图像，最后分别使用形态学重构法和区域增长法分割粗细血管，将分割的粗细血管融合获得最终的视网膜血管图。虽然已经提出了一些的无监督视网膜血管分割方法，但是这些算法还是有些地方值得改进：a）分割的鲁棒性，有的算法分割进度较高，但是鲁棒性差，无法适应对比度低、病态血管的分割；b）分割的精度低，有的算法分割精度低，无法满足研究和临床需求，尤其是视网膜分支点和交点处的血管分割不够准确[8]。
+
+针对以上视网膜血管分割算法存在的问题，提出了一种基于改进的基于高低帽变换和Otsu的视网膜血管自动分割新算法。算法首先综合使用高低帽运算对眼底图像进行增强处理，然后提出一种修正技术降低病态对血管的影响，最后使用Otsu方法对血管进行识别与分割。
+
+# 1 视网膜血管分割
+
+# 1.1图像预处理
+
+一般情况下，眼底相机采集到的图像是RGB格式的彩色图像，这有利于人工分割，然而对于机器而言，大多情况是处理单色通道，研究表明血管与背景对比度最强的是视网膜图像的绿色通道即G分量[5]，我们也选择对G分量进行研究处理。由于图像采集过程中存在噪声，下一步处理之前需要进行滤波处理，主要目的是消除孤立点噪声，这里采用Gauss 滤波器滤波。最后提取目标处理兴趣区域，只对兴趣区域内部进行分割处理。
+
+# 1.2 图像增强与修正
+
+经过预处理的图像具有很多团块噪声，同时图像中血管与背景之间的对比度低，这不利用视网膜图像血管的分割。因此，在进行分割之前，需要对图像进行增强处理。这里采用改进的形态学高低帽变换增强图像。
+
+形态学中高帽变换（top-hat）用开运算对样本进行处理，低帽变换（bottom-hat）则用闭运算对样本进行处理。开运算能够消除细小物体，平滑较大物体边界和分离通过纤细连接的物体。闭运算的作用是平滑边界、连接近邻物体和填充物体等。开运算与闭运算是形态学运算中的基本操作[9.10]，分别定义为
+
+$$
+I _ { o p e n } = I \circ S _ { e }
+$$
+
+$$
+I _ { c l o s e } = I \bullet S _ { _ e }
+$$
+
+其中：表示图像， $5 _ { \theta }$ 表示形态学中的结构元素。高帽变换就是采用开运算检查灰度图像中的灰度峰值，反之，低帽变换则是采用闭运算检查灰度图像中的灰度谷值[7]，高帽变换和低帽变换的定义分别为
+
+$$
+I _ { { \scriptscriptstyle t o p \_ h a t } } = I - ( I \circ S _ { e } ) = I - I _ { o p e n }
+$$
+
+$$
+I _ { \mathit { b o t t o m \_ h a t } } = I - ( I \bullet S _ { e } ) = I - I _ { \mathit { c l o s e } }
+$$
+
+这里采用高低帽变换组合对图像进行增强处理，增强处理过程分为两步,第一步分别获得眼底图像的高帽变换和低帽变换图像；第二步用高帽变换与低帽变换之差以达到增强图像的目的。图像增强过程可以表示为：
+
+$$
+I _ { e n h a n c e } = I _ { { _ { t o p } } _ { - } h a t } - I _ { { _ { b o t t o m } } _ { - } h a t }
+$$
+
+Ienhance 即为增强后的视网膜图像。
+
+形态学变换中结构元素的选择很重要，由于血管是管状结构，也就是一种线性结构，因此，运算中的结构元素 $S _ { e }$ 采用线性结构。该结构元素有两个参数：长度（len）和角度（deg)，不同参数的线性结构元素模板如图1所示。根据粗血管直径，本文中结构元素的长度取10个像素点，即 $\scriptstyle { l e n = 1 0 }$ 。从视网膜图像中，我们不难发现，血管构成一个网状结构，血管段的方向是不确定的，因此血管的角度在 $0 ^ { \circ }$ 到 $3 6 0 ^ { \circ }$ 之间，根据对称性，角度选择为 $0 ^ { \circ }$ 到 $1 7 0 ^ { \circ }$ 之间每隔 $1 0 ^ { \circ }$ 选取一个角度。这样我们可以得到18个模板进行高低帽变换结果，假设第i个模板的高低帽变换在像素点 $( x , y )$ 处的灰度值为： $I _ { e n h a n c e \_ i } \left( x , y \right)$ ，则最终的曾强图像每个像素点的灰度值取该18个变换结果中对应位置处的最大值，即
+
+$$
+I _ { h a g ( x , y ) } = \operatorname* { m a x } _ { i } I _ { e n h a n c e \_ i } ( x , y )
+$$
+
+![](images/da055444579f96abac9e969c62b93d0ce88260bf6de681294a97f2d0d21597ff.jpg)  
+图1高低帽变换中结构元素 $\mathfrak { s } _ { \mathtt { r } }$
+
+一个增强效果例子如图2所示，图中，（a）是一幅原始眼底图像，（b）是经过预处理后的视网膜灰度图像，（c）是使用高低帽变换组合增强后的效果。从图2（c）可以看出增强图像中含有许多由于病态引起的光照反射产生的噪声也被同时增强了。然而，仔细观察原始图像与增强图像，可以发现在原始图像和预处理图像中强光照反射处背景与血管颜色对比度非常大，是不同的颜色，但是在增强图像中反射噪声与血管的对比度却非常小，部分强反射光噪声也被增强，为此，考虑使用预处理图像对增强图像进行修正，降低强反射背景与血管之间的对比度，削弱被误增强的反射噪声，增强血管与背景的对比度。修正的过程如下：
+
+$$
+I _ { \mathrm { m o d } i f y } = I _ { p r e p r o c e s s } . ^ { \ast } I _ { h a t }
+$$
+
+其中：Ipreprosecc为预处理后的图像，“.\*"为图像中的相应位置之间的位相乘运算，即数组对应位置的元素之间的乘积。经过修正后，图2（c）变换为图2（d)，由此看出血管与背景的对比度增加，进一步消除了病态引起的高反射噪声干扰。
+
+![](images/b412a5dcc29984f6840c99aa46a13a1a23f67a568ab05efaf6364d84c2662743.jpg)
+
+![](images/da18b7b281fcaa900359a88c6d5d5ced00e614188eb1d80dd18a122fdb424868.jpg)  
+图2图像的增强和修正
+
+# 1.3Otsu 值分割
+
+本文使用Otsu 算法分割血管图像。Otsu 算法[也叫做最大类间方差阈值分割算法，是一种动态阈值方法，该算法最早由日本学者Otsu于1979年提出来的。其基本原理是：按照灰度图像的灰度值分布，将图像划分为目标和背景两类，根据两类之间的方差进行分割，两类之间的类间方差越大说明这两类之间的区分度越大，当目标或背景被错分时，目标和背景之间的差别变小，因此目标与背景错分的概率最小时类间方差最大。假设使用阈值法将一幅尺度大小为 $\mathbf { m } \times \mathbf { n }$ 的图像分割为背景 $S _ { \theta }$ 和目标 $S _ { I }$ 两类，其灰度级为[0,L-1]，阈值为t，则有$S _ { 0 } { = } \{ 0 , 1 , 2 , { \ldots } , \mathrm { t } \}$ ， $S _ { I } { = } \{ t , t { + } 1 , t { + } 2 , { \ldots } { \ldots } \}$ 。灰度级为 $i$ 的像素点数量表示为 $n _ { i }$ ，则灰度级在图像中出现的概率为
+
+$$
+p _ { i } = n _ { i } / ( m \times n ) , p _ { i } \geq 0 , \sum _ { i = 0 } ^ { L - 1 } p _ { i } = 1
+$$
+
+则类 $S _ { \theta }$ 和 $S _ { I }$ 出现的概率分别为
+
+$$
+p _ { 0 } ( t ) = \sum _ { i = 0 } ^ { t } p _ { i }
+$$
+
+$$
+\begin{array} { r } { p _ { 1 } ( t ) = \sum _ { i = t + 1 } ^ { L - 1 } p _ { i } = 1 - p _ { 0 } ( t ) } \end{array}
+$$
+
+类 $S _ { \theta }$ 和 $S _ { I }$ 的平均灰度级分别为
+
+$$
+u _ { 0 } ( t ) = \sum _ { i = 0 } ^ { t } ( i \frac { p _ { i } } { p _ { 0 } ( t ) } )
+$$
+
+$$
+u _ { 1 } ( t ) = \sum _ { i = t + 1 } ^ { L - 1 } ( i \frac { p _ { i } } { p _ { 1 } ( t ) } )
+$$
+
+总的平均灰度为
+
+$$
+u ( t ) = \sum _ { i = 1 } ^ { L - 1 } ( i p _ { i } )
+$$
+
+这样，这两类之间的方差为
+
+$$
+\sigma _ { B } ( t ) = p _ { 0 } ( t ) ( u ( t ) - u _ { 0 } ( t ) ) ^ { 2 } + p _ { 1 } ( t ) ( u ( t ) - u _ { 1 } ( t ) ) ^ { 2 } \left( \begin{array} { c c } { \right. } \end{array}
+$$
+
+则血管分割的阈值为 $S _ { \theta }$ 和 $S _ { I }$ 两类之间方差达到最大值处，即最优阈值T为
+
+$$
+\mathrm { T } = \arg \operatorname* { m a x } _ { \mathrm { 1 \leq t \leq L } } \{ \sigma _ { B } ( t ) \}
+$$
+
+下面分析Otsu算法的复杂度。由上表达式可知，在经典的Otsu算法中t的取值范围为 $[ 1 , L ]$ 。假设图像中类 $S _ { \theta }$ 和 $S _ { I }$ 的像素点的个数分别为 $N _ { \theta }$ 和 $N _ { I }$ ，总像素点个数为 $\mathfrak { n }$ 则对于每一个 $t$ $P o ( \mathfrak { t } )$ 和 $u o ( \mathfrak { t } )$ 分别要计算 $N o$ 次加减运算和1次除法运算， $P _ { I } ( \mathfrak { t } )$ 和$u _ { I } ( \mathfrak { t } )$ 分别要计算 $N _ { I }$ 次加减运算和1次除法运算，而计算类间差需要2次乘法运算、3次加减运算、2次平方运算。则灰度级为L的图像的运算为： $L n { + } 3 L$ 次加减运算、 $4 L$ 次乘除运算、2L次平方运算，即算法的操作次数为 $\scriptstyle \mathrm { T } ( n ) = L n + 9 L$ ，复杂度为 ${ \mathrm { O } } ( L n )$ 。为了减少运算复杂度，采用文献[12]中的改进算法，将 $t$ 的遍历范围缩小为 $[ u - \alpha , u + \alpha ]$ ， $\scriptstyle a = 5 0$ ， $\boldsymbol { a }$ 的详细分析过程参见文献[12]。因此，算法的操作次数为 $\mathrm { T } ( n ) { = } 5 0 n { + } 4 5 0$ ，复杂度为 ${ \mathrm { O } } ( n )$ 。
+
+# 2 实验结果与分析
+
+# 2.1实验数据
+
+算法采用两个公共视网膜图像数据库DIRVE[6与STARE[13]进行测试。DIRVE视网膜图像数据库是由荷兰糖尿病视网膜病变组构建，该数据库一共有40张图像，图像平分为两个子集：训练子集和测试子集，每个子集包含20张图片。测试子集包含两个标准分割数据库，分别由两个专家手工分割而成。训练子集包含一个标准分割数据库。新算法是无监督方法，不需要训练集，以测试子集及其第一个专家标准分割库为金标准进行血管分割和性能测试与分析。
+
+STARE视网膜图像数据库是由Hoover等人采集整理而成，数据库总共包含20幅图像，其中10 幅病理视网膜图像，10 幅健康视网膜图像。数据库包含两个人工标注的标准分割，这里也是以第一位专家的分割为金标准进行性能测试与分析。
+
+# 2.2评价指标
+
+为了对算法进行性能测试，就需要通过性能指标客观地进行定量分析。这里采用特异性（specificity，简写为Spe）、敏感度（sensitivity，简写为Sen）和精度（accuracy，简写为Acc）三个指标进行分析。这三个指标分别定义为[14-17]
+
+$$
+S p e { = } T N / ( F P + T N )
+$$
+
+$$
+S e n { = } T P / ( F N + T P )
+$$
+
+$$
+A c c = T N / ( T P + F N + F P + T N )
+$$
+
+其中TP（true positive）为真阳性，表示被正确分割的血管像素点个数；TN（true negative）为真阴性，表示被正确分割的非血管即背景像素点个数；FP（false positive）为假阳性，即血管被错误地分割成非血管的像素点个数；FN（false negative）为假阴性，即非血管被错误地划分为血管的像素点个数。$T { \cal P } { + } { \cal F } N { + } { \cal F } { \cal P } { + } T N$ 就是图像中感兴趣区域的总像素点个数。
+
+# 2.3实验结果
+
+为了验证新算法的有效性，使用MATLAB14a平台对新算法进行仿真，仿真的机器使用的是主频为 $2 . 4 ~ \mathrm { G H z }$ ，内存为 8GB的PC机。算法采用公开的数据库DRIVE和STARE 进行测试，图3图4分别展示了两个数据库中两幅视网膜图像分割后的视觉效果，图中每一列为一幅视网膜图像及其对应的分割结果。图3是DRIVE数据库的测试效果图，其中图3第一行为原始视网膜图像，图3第二行为金标准，图3第三行为新算法分割的结果。图4是STARE数据库的测试效果图，其中图4第一行为原始视网膜图像，图4第二行为金标准，图4第三行为新算法分割的结果。
+
+![](images/06dea41781ba6bdb2c6c3627b1989166ae0e290592e3ccbb53b144e9fc6ee51c.jpg)  
+图3DRIVE视网膜图像血管分割效果
+
+区 國 沙
+
+# 2.4实验分析
+
+本节对新算法与其他算法进行比较与分析。这里选用几个常用的图像分割评价指标 accuracy、specificity 和 sensitivity 对新算法进行定量地分析。在DRIVE视网膜图像数据库中，新方法与文献[18\~25]等方法的性能比较如表1所示。在STARE 视网膜图像数据库中，新方法与Hoover etal.[26]、Jiang et al.[18]、Lam etal.[19]、Zhang et al.[20]、Martinez-Perez[21]、Bankhead et al.[22],Yin etal.[23]、Xue[24]、Fraz etal.[25]等方法的性能比较如表2所示。由表1和表2可以看出，新算法的精度高于表中其他非监督视网膜血管分割算法，而且新算法的执行时间也比较少，仅仅 $1 . 5 \mathrm { ~ s ~ }$ 。
+
+表1数据库DRIVE中不同视网膜血管分割算法性能比较  
+
+<html><body><table><tr><td>Method</td><td>Acc</td><td>Sp</td><td>Se</td><td>Time</td></tr><tr><td>Second observer</td><td>0.9470</td><td>0.9717</td><td>0.7796</td><td></td></tr><tr><td>Jiang et al.[19]</td><td>0.9212</td><td></td><td></td><td>8-36s</td></tr><tr><td>Lam et al.[20]</td><td>-</td><td>0.9579</td><td>0.7205</td><td></td></tr><tr><td>Zhang et al.[21]</td><td>0.9382</td><td>0.9724</td><td>0.7120</td><td></td></tr><tr><td>Martinez-Perez[22]</td><td>0.9344</td><td>0.9655</td><td>0.7246</td><td></td></tr><tr><td>Bankhead et al.[23]</td><td>0.937</td><td>0.971</td><td>0.703</td><td></td></tr><tr><td>Yin et al.[24]</td><td></td><td>0.9710</td><td>0.6522</td><td></td></tr><tr><td>Yin et al.[17]</td><td>0.9371</td><td></td><td></td><td></td></tr><tr><td>Xu[25]</td><td>0.933</td><td>0.955</td><td>0.739</td><td></td></tr><tr><td>Fraz et al.[26]</td><td>0.8112</td><td>0.9742</td><td>0.7301</td><td></td></tr><tr><td>This method</td><td>0.9382</td><td>0.9926</td><td>0.5686</td><td>1.6s</td></tr></table></body></html>
+
+表2数据库STARE中不同视网膜血管分割算法性能比较  
+
+<html><body><table><tr><td>Method</td><td>Acc</td><td>Sp</td><td>Se</td><td>Time</td></tr><tr><td>Second observer</td><td>0.9348</td><td>0.9384</td><td>0.8951</td><td></td></tr><tr><td>Hoover et al.[6]</td><td>0.9275</td><td>0.81</td><td>0.65</td><td>5min</td></tr><tr><td>Jiang et al.[19]</td><td>0.9009</td><td></td><td></td><td>8-36s</td></tr><tr><td>Lam et al.[20]</td><td></td><td>0.9586</td><td>0.6786</td><td></td></tr><tr><td>Zhang et al.[21]</td><td>0.9131</td><td>0.9479</td><td>0.7716</td><td>-</td></tr><tr><td>Martinez-Perez[22]</td><td>0.9410</td><td>0.9569</td><td>0.7506</td><td>-</td></tr><tr><td>Bankhead etal.[23]</td><td>0.932</td><td>0.950</td><td>0.758</td><td>-</td></tr><tr><td>Yin et al.[24]</td><td>:</td><td>0.9666</td><td>0.7248</td><td></td></tr><tr><td>Xue[25]</td><td>0.920</td><td>0.944</td><td>0.825</td><td></td></tr><tr><td>Fraz et al.[26]</td><td>0.7294</td><td>0.9660</td><td>0.7318</td><td></td></tr><tr><td>this method</td><td>0.9460</td><td>0.9815</td><td>0.6378</td><td>1.6s</td></tr></table></body></html>
+
+新算法的优势就是对经过形态学变换的增强图像进行了修正，修正的了形态学变换对视网膜图像中病变对强反射光的带来的负面干扰，图5为一幅视网膜图像修正前后得到的血管分割效果图比较，其中（a）为原始视网膜图像，（b）为该图像分割的金标准，（c）为修正前分割结果图，（d）为修正后分割结果图。从图5（c）（d）中可以看出，修正后分割的血管图中包含的噪声少，具体如图中的红色圈内部分所示。
+
+![](images/6d037d3274014f38ac9154613713f223768f3f51c7d8015dd189fb43e72bc302.jpg)  
+图4STARE视网膜图像血管分割效果  
+图5形态学变换修正的效果比较
+
+为了进一步测试修正过程对新算法性能的改进和影响，我们对未添加修正过程和添加了修正过程进行了比较测试。同时，我们还进一步测试了多次重复使用表达式(7)对视网膜血管图像分割效果的影响，结果如表3、4所示。从表3、4可以看出修正1次的效果最好，修改1次在两个数据库中都能够得到最好的分割精度。同时从表3、4中还可以看出，修正过程对DRIVE数据库的影响较小，分割精度从0.9381变为0.9382，但是对STARE数据库的影响较大，分割精度从0.9403增加到0.9460。分析其原因，STARE数据库中包含的病态图像比较多，而 DRIVE 中病态图像少，这也进一步表明新算法对于处理病态图像具有一定优势，也就是新算法鲁棒性好。
+
+表3修正过程对DRIVE数据库的影响  
+
+<html><body><table><tr><td>Revision number</td><td>Acc</td><td>Sp</td><td>Se</td></tr><tr><td>0</td><td>0.9381</td><td>0.9897</td><td>0.6581</td></tr><tr><td>1</td><td>0.9382</td><td>0.9926</td><td>0.5686</td></tr><tr><td>2</td><td>0.9359</td><td>0.9940</td><td>0.5421</td></tr><tr><td>3</td><td>0.9323</td><td>0.9950</td><td>0.5069</td></tr><tr><td>4</td><td>0.9284</td><td>0.9953</td><td>0.4739</td></tr></table></body></html>
+
+表4修正过程对STARE 数据库的影响  
+
+<html><body><table><tr><td>Revision number</td><td>Acc</td><td>Sp</td><td>Se</td></tr><tr><td>0</td><td>0.9403</td><td>0.9728</td><td>0.6581</td></tr><tr><td>1</td><td>0.9460</td><td>0.9815</td><td>0.6378</td></tr><tr><td>2</td><td>0.9459</td><td>0.9879</td><td>0.5791</td></tr><tr><td>3</td><td>0.9437</td><td>0.9917</td><td>0.5255</td></tr><tr><td>4</td><td>0.9403</td><td>0.9943</td><td>0.4695</td></tr></table></body></html>
+
+# 3 结束语
+
+本文针对视网膜图像血管分割中对比度小，视网膜病变在眼底图像采集过程中反光干扰引起的光照反射过强问题，提出了一种新的基于形态学与Otsu的视网膜血管分割算法。方法首先利用形态学中的高低帽变换增强经过预处理后得到的视网膜图像，然后提出了一种修正增强图像的方法解决强光反射问题，最后采用Otsu阈值分割发分割血管。算法采用国际上公开的DRIVE和STARE视网膜图像数据库对新算法进行了测试。实验表明新方法具有较高的分割精度，能够有效处理视网膜疾病对血管分割的影响，算法鲁棒性好，算法的具有较强的实用性。进一步提高算法对病变区域的筛查以及算法在视网膜图像分析中的应用是我们今后的研究方向。
+
+# 参考文献：
+
+[1]Wong Tienyin，Mcintosh R.Hypertensive retinopathy signs as risk indicators of cardiovascular morbidity and mortality [J].British Medical Bulletin,2005,73-74 (1): 57-70.   
+[2]Stanton A V,Wasan B, Ceruti A,et al. Vascular network changes in the retina with age and hypertension [J]. Journal of Hypertension,1995,13 (12 Pt 2): 1724-1728.   
+[3]Sussman EJ,Tsiaras WG,Soper KA.Diagnosis of diabetic eye disease [J]. Journal of the American Medical Association,1982,247 (22): 3231-3234.   
+[4]Aslani S,Sarnel H.A new supervised retinal vessel segmentation method based on robust hybrid features [J].Biomedical Signal Processing & Control, 2016,30 (5): 1-12.   
+[5]Soares JVB,Leandro JJG,Jr CesarRM,et al.Retinal vessel segmentation using the 2-D Gabor wavelet and supervised classification [J].IEEE Trans on Medical Imaging,2006,25 (9): 1214-1222.   
+[6]Adam H, Valentina K, Michae G.Locating blood vessels in retinal images by piecewise threshold probing of a matched filter response [J]. IEEE Trans on Medical Imaging,2000,19 (3): 203-210.   
+[7]陶治江，高原，黄华．基于相位一致性的眼底图像视网膜血管分割[J]. 计算机工程与设计,2012,33(8):3139-3143.(Tao Zhijiang,Gao Yuan, Huang Hua. Retinal vasculature's segmentation in fundus image based on phase congruency[J].Computer engineering and design,2012,33(8): 3139- 3143.)   
+[8]王晓红，赵于前，廖苗，等．基于多尺度 2DGab or 小波的视网膜血管 自动分割[J]．自动化学报,2015,41(5):970-980.(Wang Xiaohong,Zhao Yuqian,Liao Miao,et.al.Automatic segm-entation for retinal vessel based on multi-scale 2D Gabor wavelet [J].Acta automatic Sinica.2015,41 (5): 970-980.)   
+[9] Fraz M M, Barman SA,Remagnino P,et al.An approach to localize the retinal blood vessels using bit planes and centerline detection [J].Computer Methods & Programs in Biomedicine,2012,108 (2): 600-616.   
+[10] Zana F,Klein J. Segmentation of vessel-like patterns using mathematical morphology and curvature evaluation[J]. IEEE Trans on Image Processing, 2001,10(7):1010-1019.
+
+[11] Ohtsu N.A Threshold selection method from gray-level histograms [J].
+
+IEEETranson SystemsMan& Cybernetics,2007,9(1): 62-66. [12]董忠言，蒋理兴，王俊亚，等．基于图像复杂度的一维Otsu 改进算法 [J].计算机科学,2015,42 (s1): 171-174.(Dong Zhongyuan,Jiang Lixing, Wang Junya Xiao,et al.Modified one-dimensional Otsu algorithm based on image complexity[J]. Computer science,2015,42 (s1): 171-174.)
+
+[13] StaalJ,AbramoffMD,NiemeijerM,etal.Ridge-based vessel segmentation in color images of the retina[J]. IEEE Trans on Medical Imaging,2004,23 (4): 501-509.   
+[14]黄文博，王珂，燕杨．彩色视网膜眼底图像血管自动检测方法[J]．光 学精密工程,2017,25(05):1378-1386.(Huang Wenbo,Wang Ke,Yan Yang. Automatic detection method of blood vessel for color retina fundus images [J]. Optics and precision engineering.2017,25 (05):1378-1386.)   
+[15] Dai Peishan,Luo Hanyuan,Sheng Hanwei,etal.Anew approach to segment both main and peripheral retinal vessels based on gray-voting and Gaussian mixture model[J].PLoS One,2015,10(6): e127748.   
+[16]殷本俊，陈燕，李华婷，等.基于Morlet小波变换的视网膜血管分割 [J].计算机辅助设计与图形学学报,2015,27(7):1263-1270.(Yin Benjun, Chen Yan,Li Huating,et al.Using Morlet wavelet for retinal vessel segmentation[J].Journal of computer-aided design& computer graphics 2015,27(7): 1263-1270.)   
+[17] Bahadarkhan K,Khaliq A A, Shahid M.A morphological hessian based approach for retinal blood vessels segmentation and denoising using region based otsu thresholding [J]. PLoS One,2016,11(7): 1-19.   
+[18] Jiang Xiaoyi, Daniel M.Adaptive local thresholding by verification-based multithreshold probing with application to vessel detection inretinal images [J].IEEE Trans on Pattrn Analysisand Machine Intelligence,2o03,25 (1): 131-137.   
+[19] Lam B S Y, Gao Yongsheng,Liew A W. General retinal vessel segmentation using regularization-based multiconcavity modeling [J].IEEE Trans on medical imaging,2010,29 (7):1369-1381.   
+[20] Zhang Bo,Zhang Lin,Zhang Lei,et al. Retinal vessel extraction by matched filter with first-order derivative ofGaussian [J].Computers in Biology and Medicine,2010,40 (4): 438-445.   
+[21] Martinez-Perez ME, Hughes AD,Thom SA,et al. Segmentation of blood vessels from red-free and fluorescein retinal images [J].Medical Image Analysis,2007,11 (1): 47-61.   
+[22] Bankhead P, Scholfield C N,Mcgeown JG,et al. Fast retinal vessel detection and measurement using wavelets and edge location refinement [J] PLoS One,2012,7 (3): 1-12.   
+[23] Yin Yi, Adel M, Bourennane S. Automatic segmentation and measurement of vasculature in retinal fundus images using probabilistic formulation. [J]. Computational& Mathematical Methods in Medicine,2013,2013(1):585- 593.   
+[24]Xu Xiayu,Ding Wenxiang,Wang Xuemin,etal. Smartphone-based accurate analysisof retinalvasculature towardspoint-of-care diagnostics:[J]. Scientific Reports,2016,6 (10):1-9.
+
+[25]Fraz MM,Basit A,Barman SA.Application of morphological bit planes in retinal blood vessel extraction.[J].Journal of Digital Imaging,2O13,26 (2): 274-286.
+
+[26] Adam H, Valentina K,Michae G.Locating blood vessels in retinal images bypiecewise threshold probing of a matched filter response [J].IEEE Trans on Medical Imaging,2000,19 (3):203-210.

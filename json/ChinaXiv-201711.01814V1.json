@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "1大菱鲆幼鱼对玉米蛋白粉中营养物质的表观消化率及添加胆汁酸和酶制剂对其产生的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "田莹何艮\\*周慧慧 王旋麦康森",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国海洋大学水产学院，农业部水产动物营养与饲料重点实验室，青岛 266003)摘要：本试验旨在研究大菱鲆幼鱼对玉米蛋白粉中干物质、粗蛋白质、氨基酸和总能的表观消化率，以及在玉米蛋白粉中分别添加胆汁酸（纯度 $23 0 \\%$ ）和酶制剂[中性蛋白酶(1$\\times 1 0 ^ { 5 } \\mathrm { U / g ) }$ 和木瓜蛋白酶 $( 4 \\times 1 0 ^ { 5 } \\mathrm { U / g } )$ 组成的复合酶，二者活性比为2:1]对其营养物质表观消化率的影响。首先配制基础饲料，试验饲料由 $70 \\%$ 的基础饲料和 $30 \\%$ 的待测蛋白质源[未进行任何处理玉米蛋白粉(CGM)、添加胆汁酸的玉米蛋白粉（ $\\mathrm { C G M _ { B } }$ ）和添加酶制剂的玉米蛋白粉（ $\\mathrm { C G M _ { E } }$ ）]组成。所有饲料均添加 $0 . 1 \\%$ 的三氧化二钇（ $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ ）为外源指示剂。将初始体重为（ $1 3 . 0 0 { \\scriptstyle \\pm 0 . 0 1 }$ ）g大菱鲆幼鱼随机分为4组，每组3个重复，每个重复40尾鱼，分别投喂相应饲料2周后采用后肠挤压法收集粪便。养殖周期为10周。结果表明：3种不同处理形式的玉米蛋白粉中干物质、粗蛋白质、总氨基酸、总能的表观消化率分别为$2 5 . 9 9 \\% { \\sim } 4 3 . 3 4 \\%$ 、 $4 8 . 6 2 \\% \\sim 6 0 . 7 2 \\%$ 、 $4 8 . 4 1 \\% { \\sim } 6 7 . 6 7 \\%$ 、 $3 5 . 0 7 \\% { \\sim } 5 2 . 3 4 \\%$ ，且总氨基酸与粗蛋白质表观消化率的变化趋势一致。其中，大菱鲆幼鱼对 $\\mathrm { C G M _ { B } }$ 中各营养物质的表观消化率均最高，显著高于CGM和 $\\mathrm { C G M } _ { \\mathrm { E } } ( P { < } 0 . 0 5 )$ ，且 $\\mathrm { C G M _ { B } }$ 中干物质、粗蛋白质、总氨基酸、总能的表观消化率较CGM分别提高了 $1 7 . 3 5 \\% \\setminus 1 2 . 1 0 \\% \\setminus 1 9 . 2 6 \\% \\setminus 1 7 . 2 7 \\%$ ；大菱鲆幼鱼对 $\\mathrm { C G M _ { E } }$ 中各营养物质的表观消化率也得到改善，其干物质、粗蛋白质、氨基酸、总能的表观消化率较CGM分别提高了 $9 . 5 3 \\%$ 、 $4 . 3 7 \\%$ 、 $4 . 2 9 \\%$ 、 $12 . 2 5 \\%$ ，效果显著（ $. P { < } 0 . 0 5 )$ 。由结果可知,添加胆汁酸和酶制剂均能够提高大菱鲆幼鱼对玉米蛋白粉中营养物质的表观消化率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大菱鲆；玉米蛋白粉；胆汁酸；酶制剂；表观消化率中图分类号：S963 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着水产养殖规模的不断扩大，对鱼粉的需求量不断增加，中国的鱼粉产量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-03-02  \n基金项目：公益性行业专项（201303053）——替代鱼用饲料中鱼粉的新蛋白源开发利用技  \n术  \n作者简介：田莹(1991一)，女，河南新乡人，硕士研究生，从事水产动物营养与饲料学研  \n究。E-mail: 15527262478@163.com  \n\\*通信作者：何艮，教授，博士生导师，E-mail：hegen@ouc.edu.cn远远不能满足养殖业的需求，严重依赖进口，导致饲料成本节节上升，因此寻找合适的蛋白质源替代鱼粉成为当务之急[1-2]。玉米蛋白粉具有蛋白质含量高、不含有毒有害物质、不含抗营养因子等优点[3]，作为鱼粉的替代蛋白质源在虹(Oncorhynchus mykis)[4]、五条(Seriola quinqueradiata)[5]、牙鲆(Paralichthys olivaceus)6]、齿舌鲈(Dicentrarchus labrax)和金头鲷(Sparusaurata)[8]等水产动物中已做了较多研究。在大菱鲆(Scophthalmus maximusL.)的研究中发现玉米蛋白粉可替代 $2 5 \\%$ 的鱼粉蛋白，过高比例的替代将会影响大菱鲆的生长。究其原因，玉米蛋白粉富含不溶于水的醇溶性蛋白[10]，尽管其营养成分丰富，但大菱鲆对其消化利用效果不尽人意，因此探究提高玉米蛋白粉中营养物质表观消化率的可行性方法成为进一步提高玉米蛋白粉在水产饲料中替代比例的关键，同时也是本研究的主要目的。目前，常用的用于提高玉米蛋白粉利用率的方法有2种，即外源添加剂法和外部水解法。本研究采用添加胆汁酸和复合酶制剂 2种外源添加剂来研究其对玉米蛋白粉中营养物质表观消化率的影响。  \n目前胆汁酸作为饲料添加剂应用广泛。胆汁酸是胆汁的重要组成成分，是胆固醇代谢过程中产生的一系列固醇类物质，具有较强的表面活性，能降低油水两相间的表面张力，促进脂类乳化，扩大脂肪和脂肪酶的接触面积，加速脂类的消化吸收[1]。研究发现，在牛蛙饲料中添加胆汁酸提高了饲料干物质、粗脂肪及粗蛋白质的表观消化率[12]；在断奶仔猪饲粮中加入胆汁酸显著提高了脂肪摄入量的同时，氮摄入量和氮贮存量也显著增加[13]。从上述研究结果可推知胆汁酸对蛋白质的消化率有提高作用。  \n酶制剂是高效生物催化剂，具有提高饲料利用率、消除抗营养因子、提高动物生长速度等作用，且无不良残留，是一种天然、安全的饲料添加剂，在畜禽饲料上的应用已取得了巨大的成功[14]。然而，水产动物营养生理和饲料加工条件有别于畜禽动物，影响了饲用酶制剂在水产动物饲料中广泛应用的步伐。但也有许多研究显示，使用酶制剂能提高水产动物的消化能力、促进其对营养物质的利用和提高其生长。陈建明等[15]发现在青鱼(Mylopharyngodon piceus Richardson)饲料中添加中性蛋白酶可以显著提高饲料粗蛋白质的表观消化率；刘文斌等[1b报道酶制剂可改善异育银鲫(Carassius auratus gibelio)对饲料中蛋白质的消化吸收；刘善庭等[17]发现在玉米蛋白粉中添加中性蛋白酶很大程度上提高了羔羊对玉米蛋白粉干物质和粗蛋白质的表观消化率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前水产动物上关于胆汁酸和酶制剂影响玉米蛋白粉中营养物质表观消化率的研究较少，故本试验在研究大菱鲆幼鱼对玉米蛋白粉中营养物质的表观消化率的基础上，探讨添加胆汁酸及酶制剂对大菱鲆幼鱼利用玉米蛋白粉的影响，以期为玉米蛋白粉的高效利用提供科学依据。1材料与方法1.1试验材料玉米蛋白粉是玉米淀粉加工中的副产物，购自七好生物科技有限公司，含有 $60 \\%$ 以上的粗蛋白质及少量的淀粉、纤维素及维生素等营养成分。胆汁酸购自青岛赫普达商贸有限公司，纯度 $23 0 \\%$ 。根据饲料加工工艺以及玉米蛋白粉和蛋白酶自身特点，本试验采用由中性蛋白酶 $( 1 \\times$ $1 0 ^ { 5 } \\mathrm { U / g } )$ 和木瓜蛋白酶 $( 4 \\times 1 0 ^ { 5 } \\mathrm { U / g } )$ 组成的复合酶作为酶制剂，酶制剂中中性蛋白酶和木瓜蛋白酶活性比为 $2 { : } 1 ^ { [ 1 8 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验饲料",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先配制可满足大菱鲆幼鱼基本营养需求的基础饲料，然后将玉米蛋白粉与基础饲料按照3：7的比例混合制成3种试验饲料，混合过程中1种试验饲料不做任何处理（其中的待测蛋白质源命名为CGM)，1种添加 $1 . 0 \\%$ 胆汁酸（其中的待测蛋白质源命名为 $\\mathrm { C G M _ { B } }$ )，1 种添加 $0 . 1 \\%$ 酶制剂（其中的待测蛋白质源命名为 $\\mathrm { C G M _ { E } }$ )。所有饲料中均添加了 $0 . 1 \\%$ 的三氧化二钇( $\\mathrm { \\Delta Y _ { 2 } O _ { 3 } }$ )作为外源指示剂来测定大菱鲆幼鱼对CGM、CGMB及 $\\mathbf { C G M } _ { \\mathrm { E } }$ 中干物质、粗蛋白质、氨基酸以及总能的表观消化率。基础饲料组成及营养水平见表1。各种饲料原料均需粉碎后过60 目筛，粉碎好的原料按饲料配方由小到大逐级混匀，然后加入油脂与适量的水揉匀后制粒。饲料经 $4 5 \\ \\mathrm { ~ \\textdegree C }$ 烘箱烘约 $1 2 \\mathrm { { h } }$ 后置于-20℃冰箱密封保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验鱼与养殖管理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "养殖试验在青岛胶南亿海丰水产品有限公司进行，试验用大菱鲆幼鱼购自烟台市莱州养殖场。正式试验开始以前，先将大菱鲆幼鱼放置在循环水养殖系统中暂养，喂食商业饲料，以使其逐渐适应试验环境。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "适应环境后，先将大菱鲆幼鱼饥饿 $2 4 \\mathrm { ~ h ~ }$ ，然后称重记录，挑选出规格一致、活力较好的试验鱼[平均体重为（ $1 3 . 0 0 { \\scriptstyle \\pm 0 . 0 1 }$ ）g]随机分到12个桶中，每桶 40尾鱼，在室内流水系统中进行养殖。每3桶为1组，每种饲料随机投喂3组试验鱼。试验开始前，先用基础饲料投喂各组试验鱼1周，随后各组分别投喂相对应的饲料。养殖期间每天分2次（07:00 和19:00）投喂大菱鲆幼鱼至表观饱食，摄食后换水 $70 \\%$ 左右，以保证优良的水质。养殖周期为10 周，每天控制水温在 $1 8 { \\sim } 2 0 \\ \\mathrm { ~ \\textdegree C } ,$ 盐度在 $30 \\text{‰}$ ， $\\mathfrak { p H }$ 在 $7 . 5 { \\sim } 8 . 0$ ，亚硝酸盐浓度不超过 $0 . 1 \\mathrm { m g / L }$ ，氨氮浓度不超过 $0 . 1 \\ \\mathrm { m g / L }$ ，溶氧浓度大于 $7 \\mathrm { m g / L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲料组成及营养水平(干物质基础) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "% ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content  \n原料 Ingredients  \n鱼粉 Fish meall) 60.00  \n小麦粉Wheat flour 22.95  \n豆粕 Soybean meal 5.00  \n鱼油Fish oil 4.50  \n大豆卵磷脂 Soybean lecithin 2.00  \n磷酸二氢钙 $\\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } }$ （204 0.50  \n氯化胆碱 Choline chloride 0.30  \n维生素预混料 Vitamin premix2 2.00  \n矿物质预混料 Mineral premix3) 2.00  \n丙酸钙 Calcium propionate 0.10  \n乙氧基喹啉 Ethoxy quinolilne 0.05  \n诱食剂 Attractant4) 0.50  \n三氧化二钇 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ （204号 0.10  \n合计Total 100.00  \n营养水平 Nutrient levels5)  \n总能 GE/(MJ/kg) 20.22  \n粗蛋白质CP 49.83",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1鱼粉购自七好生物科技有限公司(中国山东)。Fish meal obtained from Qidao Bio-Tech Co.Ltd.(Shandong,China).2维生素预混料为每千克饲料提供 The vitamin premix provided the folowing per kg of the diet: $\\mathrm { V B } _ { 1 } 0$ .025g， $\\mathrm { V B } _ { 2 } 0 . 0 4 5 \\mathrm { ~ g ~ }$ ， $\\mathrm { V B } _ { 6 } 0 . 0 2 0 \\mathrm { ~ g ~ }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 1 0 \\mathrm { g }$ ， $\\mathrm { V K } _ { 3 } 0 . 0 1 0 \\mathrm { g }$ ，肌醇inositol $0 . 8 0 0 \\ \\mathrm { g }$ ，泛酸钙 calcium pantothenate$0 . 0 6 0 \\ \\mathrm { g }$ ，烟酸 niacin acid $0 . 2 0 0 \\ \\mathrm { g }$ ，叶酸 folic acid $0 . 0 2 0 \\ \\mathrm { g }$ ，生物素biotin $0 . 0 6 0 \\ \\mathrm { g }$ ，VA 16 000 IU, $\\mathrm { V D } _ { 3 }$ 2500IU，VE $0 . 2 4 0 \\mathrm { g }$ ，vC $2 . 0 0 0 \\ \\mathrm { g }$ ，微晶纤维素 microcrystalline celulose $1 6 . 4 7 3 \\ \\mathrm { g }$ 。3）矿物质预混料为每千克饲料提供 The mineral premix provided the following per $\\mathrm { k g }$ of the diet:（204 $\\mathrm { M g S O _ { 4 } } \\cdot 7 \\mathrm { H _ { 2 } O }$ $1 . 2 0 0 \\ \\mathrm { g }$ ， $\\mathrm { C u S O _ { 4 } { \\cdot } 5 H _ { 2 } O 0 . 0 1 0 ~ g }$ ， $\\mathrm { F e S O _ { 4 } { \\cdot } H _ { 2 } O 0 . 0 8 0 ~ g }$ ， $\\mathrm { { Z n S O _ { 4 } { \\cdot } H _ { 2 } O 0 . 0 5 0 g } }$ ， $\\mathrm { C o C l _ { 2 } ( 1 \\% ) 0 . 0 5 0 ~ g }$ $\\mathrm { C a ( I O _ { 3 } ) _ { 2 } ( 1 \\% ) 0 . 0 6 0 \\ g }$ ， $\\mathrm { N a _ { 2 } S e O _ { 3 } ( 1 \\% ) 0 . 0 2 0 ~ g }$ ，沸石粉 zeolite powder $1 8 . 4 8 5 \\ \\mathrm { g }$ 。4复合诱食剂 Composite atractant：甜菜碱 lycine：二甲基-丙酸噻亭 DMPT：甘氨酸 glycine：丙氨酸alanine：5-磷酸肌苷 inosine 5-phosphate $\\scriptstyle : = { \\angle }$ 4:2:2:1:1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5)营养水平为测定值。Nutrient levels were measured values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4样品收集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用后肠挤压法收集粪便样品，暂养期间观察大菱鲆幼鱼饱食后各个时间段排便量情况，确定饱食5h后为收集粪便最佳时间。在正式投喂2周后开始收集粪便。先用丁香酚（1:10000）麻醉大菱鲆幼鱼，接着用纱布擦干大菱鲆幼鱼表面水分，排出尿液之后在肛门前 $3 \\mathrm { c m }$ 处轻轻挤压两侧，收集粪便于 $1 0 ~ \\mathrm { m L }$ 离心管中，放于 $- 2 0 \\mathrm { { ^ { \\circ } C } }$ 冷冻保存。每天收集2桶试验鱼的粪便，每桶试验鱼2次收集粪便时间间隔1周，以保证大菱鲆幼鱼能够恢复到正常的生理条件。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 指标测定与计算方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本试验中，干物质含量采用 $1 0 5 \\mathrm { ^ { \\circ } C } _ { \\mathsf { I } } ^ { \\mathsf { i } }$ 常压干燥法测定，粗灰分含量采用 $5 5 0 ~ \\mathrm { { ^ circ C } \\backslash { } }$ 烧法测定，粗蛋白质含量采用凯氏定氮法测定，粗脂肪含量采用索氏抽提法测定，总能采用氧弹热量计测定， $\\mathrm { Y } _ { 2 } \\mathrm { O } _ { 3 }$ 含量采用高频电感耦合等离子体发射光谱法测定，氨基酸含量采用日式L-8900自动氨基酸分析仪测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲料（基础饲料或试验饲料）和待测蛋白质源（CGM、 $\\mathrm { C G M _ { B } }$ 或 $\\mathrm { C G M _ { E } }$ ）中各营养物质物质表观消化率的计算公式[19-20]如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r l } & { A D C \\mathrm { = } 1 0 0 \\times ( 1 \\mathrm { - } M _ { \\mathrm { d } } / M _ { \\mathrm { f } } ) ; } \\\\ & { A D C _ { \\mathrm { d } } \\mathrm { = } 1 0 0 \\times [ 1 \\mathrm { - } ( N _ { \\mathrm { f } } / N _ { \\mathrm { d } } ) \\times ( M _ { \\mathrm { d } } / M _ { \\mathrm { f } } ) ] ; } \\\\ & { A D C _ { \\mathrm { i } } \\mathrm { = } [ A D C _ { \\mathrm { t } } \\times ( 0 . 7 \\times N _ { \\mathrm { r } } \\mathrm { + } 0 . 3 \\times N _ { \\mathrm { i } } ) \\mathrm { - } 0 . 7 \\times N _ { \\mathrm { r } } \\times A D C _ { \\mathrm { r } } ) ] / ( 0 . 3 \\times N _ { \\mathrm { i } } ) \\mathrm { . } } \\end{array}$ 式中：ADC为饲料（基础饲料或试验饲料）中干物质的表观消化率 $( \\% )$ ; $M _ { \\mathrm { d } }$ 为饲料（基础饲料或试验饲料）中 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ 含量 $( \\% )$ ； $M _ { \\mathrm { f } }$ 为粪便中 ${ \\bf Y } _ { 2 } { \\bf O } _ { 3 }$ 含量 $( \\% )$ ; $A D C _ { \\mathrm { d } }$ 为饲料（基础饲料或试验饲料）中某营养物质的表观消化率 $( \\% )$ ； $N _ { \\mathrm { d } }$ 为饲料 (基础饲料或试验饲料)中对应营养物质的含量 $( \\%$ ）或总能值（ $\\mathbf { \\nabla } \\cdot \\mathbf { J } / \\mathbf { m } \\mathbf { g } )$ ； $N _ { \\mathrm { f } }$ 为粪便中对应营养物质的含量 $( \\%$ 或总能值 $\\mathbf { \\tau } ( \\mathbf { J } / \\mathbf { m } \\mathbf { g } )$ ； $A D C _ { \\mathrm { i } }$ 为待测蛋白质源（CGM、 $\\mathrm { C G M _ { B } }$ 或 $\\mathrm { C G M _ { E } }$ ）中某营养物质的表观消化率(%)； $A D C _ { \\mathrm { t } }$ 为试验饲料中对应营养物质的表观消化率 $( \\% )$ ； $A D C _ { \\mathrm { r } }$ 为基础饲料中对应营养物质的表观消化率 $( \\% )$ ； $N _ { \\mathrm { r } }$ 为基础饲料中对应营养物质的含量 $( \\%$ ）或总能值（ $\\mathbf { \\tilde { J } } / \\mathbf { m } \\mathbf { g } )$ ：$N _ { \\mathrm { i } }$ 为待测蛋白质源（CGM、 $\\mathrm { C G M _ { B } }$ 或 $\\mathrm { C G M _ { E } }$ )中对应营养物质的含量 $( \\% )$ 或总能值 $\\mathrm { { ( { J / m g } ) } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据分析与处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用 SPSS17.0软件进行单因素方差分析（one-wayANOVA)，如果差异显著（ $\\cdot P { < } 0 . 0 5 )$ ，则进行Turky's 多重比较，试验所得数据以平均值 $\\pm$ 标准误来表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大菱鲆幼鱼对3种不同处理形式的玉米蛋白粉中各营养物质的表观消化率如表2所示。大菱鲆幼鱼对3种不同处理形式的玉米蛋白粉中干物质的表观消化率为$2 5 . 9 9 \\% { \\sim } 4 3 . 3 4 \\%$ 。其中， $\\mathrm { C G M _ { B } }$ 中干物质表观消化率最高，与 $\\mathrm { C G M _ { E } }$ 及 CGM 差异显著L $P { < } 0 . 0 5 )$ ，较CGM提高了 $1 7 . 3 5 \\%$ ；此外， $\\mathbf { C G M } _ { \\mathrm { E } }$ 中干物质表观消化率也显著高于CGM（ $. P { < } 0 . 0 5 )$ ，较CGM提高了 $9 . 5 3 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大菱鲆幼鱼对3种不同处理形式的玉米蛋白粉中粗蛋白质的表观消化率为$4 8 . 6 2 \\% \\sim 6 0 . 7 2 \\%$ 。其中， $\\mathrm { C G M _ { B } }$ 中粗蛋白质的表观消化率最高，与 $\\mathbf { C G M } _ { \\mathrm { E } }$ 及CGM差异显著（ $_ { . P < 0 . 0 5 ) }$ ，较CGM 提高了 $12 . 1 0 \\%$ ；此外， $\\mathrm { C G M _ { E } }$ 中粗蛋白质的表观消化率也显著高于CGM（ $P { < } 0 . 0 5 )$ ，较CGM提高了 $4 . 3 7 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大菱鲆幼鱼对3种不同处理形式的玉米蛋白粉中总氨基酸的表观消化率为$4 8 . 4 1 \\% \\sim 6 7 . 6 7 \\%$ ，且3种不同处理形式的玉米蛋白粉中总氨基酸的表观消化率与其粗蛋白质的表观消化率变化趋势一致。3种不同处理形式的玉米蛋白粉中， $\\mathrm { C G M _ { B } }$ 中各氨基酸和总氨基酸的表观消化率均为最高，必需氨基酸以赖氨酸的表观消化率最高，为 $78 . 9 8 \\%$ ，显著高于 $\\mathrm { C G M _ { E } }$ 及 $\\mathrm { C G M } ( P { < } 0 . 0 5 ) { ; } \\mathrm { C G M _ { E } }$ 中总氨基酸的表观消化率次之，显著高于CGM( $P { < } 0 . 0 5 \\$ )°$\\mathrm { C G M _ { B } }$ 和 $\\mathrm { C G M _ { E } }$ 中总氨基酸的表观消化率较CGM分别提高了 $1 9 . 2 6 \\%$ 、 $4 . 2 9 \\%$ 。大菱鲆幼鱼对3种不同处理形式的玉米蛋白粉中总能的表观消化率为 $3 5 . 0 7 \\% \\sim 5 2 . 3 4 \\%$ 。其中， $\\mathrm { C G M _ { B } }$ 中总能的表观消化率最高，与 $\\mathrm { C G M _ { E } }$ 及CGM差异显著（ $_ { . P < 0 . 0 5 ) }$ ，较CGM提高了 $1 7 . 2 7 \\%$ ；此外， $\\mathrm { C G M _ { E } }$ 中总能的表观消化率也显著高于CGM（ $P { < } 0 . 0 5 )$ ，较CGM提高了 $1 2 . 2 5 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d96a60f6ab44673dee0c555d23c2a78b3d802ec713110292db24bef1f6916df4.jpg",
+        "table_caption": [
+            "表2待测蛋白质源中各营养物质的表观消化率",
+            "Table 2Apparent digestibility coefficients of nutrients in tested protein sources $( n { = } 3 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">待测蛋白质源 Tested protein sources</td></tr><tr><td>项目Items</td><td>CGM</td><td>CGMB</td><td>CGME</td></tr><tr><td>干物质 DM</td><td>25.99±0.65c</td><td>43.34±2.31a</td><td>33.81±0.71b</td></tr><tr><td>粗蛋白质CP</td><td>48.62±1.16</td><td>60.72±0.39a</td><td>52.99±0.73b</td></tr><tr><td>总能GE</td><td>35.07±0.31</td><td>52.34±0.20a</td><td>47.32±0.55b</td></tr><tr><td colspan=\"2\">必需氨基酸 Essential amino acids</td><td></td><td></td></tr><tr><td>苏氨酸 Thr</td><td>37.32±0.16a</td><td>63.95±0.14c</td><td>50.08±0.31b</td></tr><tr><td>氨酸Val</td><td>42.91±0.15a</td><td>66.29±0.08</td><td>51.19±0.23b</td></tr><tr><td>精氨酸 Arg</td><td>47.49±0.42a</td><td>75.79±0.24</td><td>59.03±0.35b</td></tr><tr><td>亮氨酸Leu</td><td>54.36±0.53b</td><td>63.28±0.03c</td><td>48.01±0.06a</td></tr><tr><td>苯丙氨酸Phe</td><td>51.59±0.23a</td><td>66.91±0.25b</td><td>51.89±0.14a</td></tr><tr><td>异亮氨酸Ile</td><td>49.65±0.32b</td><td>63.93±0.75</td><td>37.69±0.01a</td></tr><tr><td>亮氨酸Lys</td><td>37.17±0.41b</td><td>78.97±0.33</td><td>30.32±0.29a</td></tr><tr><td>组氨酸 His</td><td>54.13±0.40a</td><td>65.01±0.31b</td><td>52.64±0.34a</td></tr><tr><td>蛋氨酸 Met</td><td>69.43±0.32</td><td>60.00±0.33b</td><td>47.67±0.30a</td></tr><tr><td colspan=\"2\">非必需氨基酸 Non-essential amino acids</td><td></td><td></td></tr><tr><td>天冬氨酸 Asp</td><td>32.61±0.12a</td><td>64.41±0.29</td><td>51.15±0.41b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "% ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/af3278d15670c55e42c4398d6fa8ba2c2b81cc66ed8a48ca74320a31b3101446.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>丝氨酸 Ser</td><td>47.35±0.17a</td><td>67.90±0.59c</td><td>60.19±0.17b</td></tr><tr><td>半胱氨酸 Cys</td><td>40.86±0.34a</td><td>66.48±0.54c</td><td>51.14±0.22b</td></tr><tr><td>酪氨酸Tyr</td><td>49.61±0.87a</td><td>73.22±0.38c</td><td>55.21±0.52b</td></tr><tr><td>谷氨酸 Glu</td><td>41.59±0.15a</td><td>65.86±0.26</td><td>54.68±0.31b</td></tr><tr><td>甘氨酸 Gly</td><td>56.22±0.11a</td><td>81.09±0.45b</td><td>56.34±0.31a</td></tr><tr><td>丙氨酸 Ala</td><td>53.58±0.17a</td><td>66.81±0.83b</td><td>52.36±0.54a</td></tr><tr><td>总氨基酸 TAA</td><td>48.41±0.54c</td><td>67.67±0.88a</td><td>52.80±0.86b</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "147 同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。Values in the same row with different small letter superscripts indicated significant diference $( P { < } 0 . 0 5 )$ ：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1试验饲料的配制及试验方法的选择",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验在保证满足大菱鲆幼鱼基本营养需求的前提下，采用Cho等[21]的方法，即待测蛋白质源取代 $30 \\%$ 基础饲料配制成试验饲料，使得基础饲料和待测蛋白质源的比例为7:3。因为Cho 等[21]的计算方法并没有考虑到摄取的待测饲料原料中营养成分对试验饲料中营养成分消化率的影响，故本试验待测蛋白质源中各营养物质的表观消化率的计算采用游文章等[20]在 Cho 等[21方法的基础上改进后的计算方法(具体公式见1.5 部分)，提高了测定结果的准确度，使测定结果更可靠。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验的研究对象是大菱鲆幼鱼，所得结果可能会因鱼的品种、生长周期和试验方法的选择等因素不同而与其他研究有所差异。由于本试验的主要目的是测定待测蛋白质源中各营养物质的表观消化率，在考虑粪便收集方式对结果影响的基础上，同时参照我国水产行业标准对鱼类营养物质消化率测定的要求，选取后肠挤压法[22-24]收集粪便样品。为了探究添加胆汁酸和酶制剂对玉米蛋白粉中营养物质表观消化率的影响，本试验制作了3种试验饲料并测定了3种不同处理形式的玉米蛋白粉中营养物质的表观消化率。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2大菱鲆幼鱼对玉米蛋白粉中营养物质的表观消化率",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲料蛋白质源中蛋白质的质量是决定其营养价值的首要因素，而消化率是评定饲料蛋白质源中营养成分可利用性的重要指标。本试验从蛋白质和能量的角度，对不同处理形式的玉米蛋白粉中干物质、粗蛋白质、氨基酸和总能的表观消化率进行了测定，以探讨其在大菱鲆饲料中的利用价值。其中，干物质的表观消化率反映了鱼类对饲料原料总体的消化率水平，其高低与饲料中纤维素含量及蛋白质、脂肪等营养物质的吸收程度有关[25]。本试验中，大菱鲆幼鱼对CGM的干物质表观消化率为 $2 5 . 9 9 \\%$ ，这与Wei 等[26]和杨传哲等[27]在大菱鲆上的研究结果相似。干物质表观消化率较低可能与CGM中的粗纤维会加快食糜在消化道内的移动和鱼类缺乏相应的纤维素以及醇溶蛋白含量较高不容易被鱼体消化利用有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "蛋白质是鱼类营养的重要成分，而鱼类对饲料蛋白质的消化率是判断原料可利用性的重要指标[28]。本试验测得CGM中粗蛋白质表观消化率为 $4 8 . 6 2 \\%$ ，与Wei等[26]和杨传哲等[27]等在大菱鲆上的研究结果相似，与在虹鳟[29]、军曹鱼(Rachycentron canadum)[30]、建鲤(Cyprinus carpio var. Jian)[31]和凡纳滨对虾(Litopenaeus vannamei)[32]上的研究结果相差较大，可能与试验鱼的种类有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "氨基酸是组成蛋白质的基本单位，对蛋白质的需要其本质上就是对氨基酸的需要，氨基酸的表观消化率直接反映了蛋白质源中蛋白质的质量。本试验测得CGM中总氨基酸表观消化率为 $4 8 . 4 1 \\%$ ，与粗蛋白质的表观消化率相近，这与在银鲈(Bidyanus bidyanus)[33]、青鱼[34]和建鲤[31]上得出的研究结果一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总能的表观消化率反映了鱼类对待测原料中蛋白质、脂肪和糖类的综合利用能力。本试验测得CGM中总能的表观消化率为 $3 5 . 0 7 \\%$ ,与Wei等[26]在大菱鲆上的研究结果 $( 3 6 . 0 8 \\%$ ）相近，与杨传哲等[27]在大菱鲆上的研究结果（ $4 6 . 2 8 \\%$ ）存在差异，可能与玉米蛋白粉的品质有关。大西洋鳕(Gadus morhua)[35]和黑鲈(Micropterus salmoides)[36]对玉米蛋白粉中总能的表观消化率分别为 $8 2 . 7 0 \\%$ 和 $7 6 . 5 0 \\%$ ，本试验结果与此有较大差异，这可能跟试验鱼的种类、玉米蛋白粉的加工方式以及品质有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3添加胆汁酸对玉米蛋白粉中营养物质表观消化率的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了探究胆汁酸对玉米蛋白粉中营养物质表观消化率的影响，本试验在玉米蛋白粉中加入 $1 \\%$ 的胆汁酸制成 $\\mathrm { C G M _ { B } }$ ，将其取代 $30 \\%$ 基础饲料配制成添加胆汁酸的试验饲料，并测定 $\\mathrm { C G M _ { B } }$ 中各营养物质的表观消化率。结果发现，与CGM相比， $\\mathrm { C G M _ { B } }$ 中各营养物质的表观消化率均有显著提高，干物质、粗蛋白质、总氨基酸、总能的表观消化率分别提高了$1 7 . 3 5 \\%$ 、 $12 . 1 0 \\%$ 、 $1 9 . 2 6 \\%$ 、 $1 7 . 2 7 \\%$ 。关于胆汁酸提高动物生长及饲料利用率等已有文献报道，Maita 等[37]研究证实，饲料中添加脱氧胆酸可提高日本鳗(Anguilla japonica)的增重率;Deshimaru 等[38]研究发现，饲料中添加胆汁酸能显著提高黄尾(Seriola quinqueradiata)的生长速度和饲料效率；国内学者研究了饲料中添加胆汁酸对虹鳟[39]和异育银鲫[40-41]生长的影响，也获得了类似的结果。此外，王优军[42]在大菱鲆饲料中添加胆汁酸后发现其饲料粗蛋白质的表观消化率提高了 $1 . 5 \\%$ ，粗脂肪的表观消化率提高了 $3 . 0 \\%$ ；胡田恩等[12]在牛蛙上的试验表明添加胆汁酸可以提高牛蛙对饲料中干物质、粗蛋白质和粗脂肪的表观消化率，这与本试验的研究结果相似。对猪的研究表明，在饲粮中添加胆汁酸能显著地提高氮摄入量和氮贮留量[13]。现有对胆汁酸促进动物生长机制的解释有以下2个方面：一方面，胆汁有利于脂类物质的乳化，提高了动物对脂肪的消化利用率，从而提高了干物质的表观消化率;另一方面，胆汁酸在肠道中具有杀菌抑菌的作用[43]，可改善肠道健康。提高蛋白酶活力、提高各营养物质的表观消化率，进而促进各种营养物质的消化吸收。作者发现，以上研究测定的多是饲料中各营养物质的表观消化率，且饲料成分不包括玉米蛋白粉，而本试验是以玉米蛋白粉中各营养物质的表观消化率为研究目的，玉米蛋白粉由于富含不溶于水的醇溶蛋白使得大菱鲆幼鱼对其利用效果不尽人意，当添加胆汁酸后各营养物质的表观消化率均显著提高。由于胆汁酸具有较强的表面活性，所以胆汁酸在大菱鲆幼鱼消化利用玉米蛋白粉时可能作为玉米蛋白粉中不溶性蛋白的载体，促进了大菱鲆幼鱼对玉米蛋白粉中不溶性蛋白的利用，从而提高了各营养物质的表观消化率，其具体机制有待进一步研究。综上，添加胆汁酸对提升玉米蛋白粉在大菱鲆饲料中的应用价值效果明显，具有一定的研究前景，可作为添加剂在含玉米蛋白粉的大菱鲆饲料中进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4添加酶制剂对玉米蛋白粉中营养物质表观消化率的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了探究酶制剂对玉米蛋白粉中营养物质表观消化率的影响，依据陈列芹等[18]的研究，本试验以木瓜蛋白酶和中性蛋白酶活性比 2:1 的复合酶制剂为外源酶制剂研究其对玉米蛋白粉中营养物质表观消化率的影响。结果发现，添加酶制剂使玉米蛋白粉的干物质、粗蛋白质及总能的表观消化率得到显著改善，个别氨基酸的表观消化率有下降趋势，但总氨基酸的表观消化率显著提高。关于添加蛋白酶显著提高饲料原料中营养物质的表观消化率的研究报道很多。刘善庭等[17研究发现，在饲粮中添加中性蛋白酶可在很大程度上提高羔羊对玉米蛋白粉中干物质及粗蛋白质的表观消化率。钟国防等[44研究发现，在饲料中添加饲用复合酶可使尼罗罗非鱼(Oreochromis nilotica)的饲料总消化率和粗蛋白质的表观消化率提高。Lin 等[45]在奥尼罗非鱼(Oreochromis niloticus $\\times o$ aureus)植物原料型饲料中添加饲用复合酶后发现饲料中粗蛋白质、总能、粗脂肪和干物质的表观消化率均显著提高，这与本试验所得结果相似。饲料中添加酶制剂可加大蛋白酶对饲料营养成分的消化分解，尤其是幼小动物，饲料中添加外源酶可以补充内源酶的不足，使饲料中常规营养成分分解成小分子物质，有利于肠胃的消化吸收，效果更为明显[46]。本试验中的饲料配方中的蛋白质源除鱼粉外以玉米蛋白粉为主，玉米蛋白粉富含不溶性醇溶蛋白，而蛋白酶制剂可不同程度地分解这些蛋白，综合提高玉米蛋白粉中各营养物质表观消化率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "① 添加胆汁酸可以显著提高大菱鲆幼鱼对玉米蛋白粉中干物质、粗蛋白质、总氨基酸、总能的表观消化率。$\\textcircled{2}$ 添加酶制剂可以显著提高大菱鲆幼鱼对玉米蛋白粉中干物质、粗蛋白质、总氨基酸、总能的表观消化率。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] ARNDT R E,HARDY R W,SUGIURA S H,et al.Effects of heat treatment and substitution level on palatability and nutritional value of soy defatted flour in feeds for coho salmon,Oncorhynchus kisutch[J].Aquaculture,1999,180(1/2):129-145. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2] MILLAMENA O M.Replacement of fish meal by animal by-product meals in a practical diet for grow-out culture of grouper Epinephelus coioides[J].Aquaculture,2002,204(1/2):75-84. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3]周歧存,麦康森,刘永坚,等.动植物蛋白源替代鱼粉研究进展[J].水产学报,2005,29(3):404-410.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4] GOMES E F,REMA P,KAUSHIK S J.Replacement of fish meal by plant proteins in the diet of rainbow trout Oncorhynchus mykiss:digestibility and growth performance[J].Aquaculture,1995,130(2/3):177-186. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[5] SHIMENO S,MASUMOTO T,HUJITA T,et al.Alternative protein sources for fish meal in diets of young yellowtail[J].Nippon Suisan Gakkaishi,1993,59(1):137-143. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6] KIKUCHI K.Partial replacement of fish meal with corn gluten meal in diets for Japanese flounder Paralichthys olivaceus[J].Journal of the World Aquaculture Society,1999,30(3):357-363. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[7] BALLESTRAZZI R,LANARI D,D'AGARO E,et al.The effect of dietary protein level and source on growth,body composition,total ammonia and reactive phosphate excretion of growing sea bass (Dicentrarchus labrax)[J].Aquaculture,1994,127(2/3):197-206.   \n[8] PEREIRA T G,OLIVA-TELES A.Evaluation of corn gluten meal as a protein source in diets forgiltheadseabream(SparusaurataL.）juveniles[J].Aquaculture Research,2003,34(13):1111-1117.   \n[9] 刘兴旺,麦康森,艾庆辉,等.玉米蛋白粉替代鱼粉对大菱鲆摄食、生长及体组成的影响[J]. 水产学报,2012,36(3):466-472.   \n[10]华雪铭,王军,韩斌,等.玉米蛋白粉在水产饲料中应用的研究进展[J].水产学 报,2011,35(4):627-635.   \n[11]唐胜球,董小英,孙德文.饲用添加剂胆汁酸的最新研究进展[J].广东饲 料,2009,18(1):32-35.   \n[12]胡田恩,王玲,张春晓,等.饲料中添加胆汁酸对牛蛙生长性能、体组成和营养物质表观消 化率的影响[J].水生生物学报,2015,39(4):677-685.   \n[13] REINHART G A,MAHAN D C,CERA K R.Effect of group size and feding regimen on nutrientdigestibilitystudieswithweanlingpigs[J].Journalofanimal science,1989,67(10):2684-2691.   \n[14] BEDFORD M R.Exogenous enzymes in monogastric nutrition-their current value and future benefits[J].Animal Feed Science and Technology,2000,86(1/2):1-13.   \n[15]陈建明,叶金云,许尧兴,等.饲料中添加中性蛋白酶对青鱼生长、消化及鱼体组成的影响 [J].水生生物学报,2009,33(4):726-731.   \n[16] 刘文斌,周岩民.饵料中添加酶制剂对异育银鲫消化和增重的影响[J].南京农业大学学 报,1999,22(3):57-60.   \n[17]刘善庭,王永军,田秀娥.酶制剂对羔羊玉米蛋白粉表观消化率的影响[J].饲料广 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "角,2007(12):42-44.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[18]陈列芹,张泽英.玉米多肽的制备[J].粮食与饲料工业,2009(9):24-26.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[19] FORSTER I.A note on the method of calculating digestibility coefficients of nutrients providedbysingleingredientstofeedsofaquaticanimals[J].Aquaculture Nutrition,1999,5(2):143-145. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[20] 游文章,雍文岳,廖朝兴,等.测定鱼类饲料原料营养成分消化率的计算方法[J].水产学报,1993,17(2):167-171.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[21] CHO C Y,SLINGER S J,BAYLEY H S.Bioenergetics of salmonid fishes:energy intake,expenditure and Productivity[J].Comparative Biochemistry and Physiology Part B:Comparative Biochemistry,1982,73(1):25-41. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[22] AUSTRENG E.Digestibility determination in fish using chromic oxide marking and analysis of contents from different segments of the gastrointestinal tract [J].Aquaculture,1978,13(3):265-272. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[23] HAJEN W E,BEAMES R M,HIGGS D A,et al.Digestibility of various feed stuffs by post-juvenile Chinook salmon (Oncorhynchus tshawytscha) in sea water:1.Validation of technique[J].Aquaculture,1993,112(4):321-332. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[24] NOSE T.On the digestion of food proteins by gold-fish (Carassius auratus L.)and rainbow trout (Salmo irideus G.)[J].BulletinofFreshwater Fisheries Research Laboratory,1960,10:11-22. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[25] REIGH R C,BRADEN S L,CRAIG R J.Apparent digestibility coefficients for common feed stuffs in formulated diets for red swamp crayfish,Procambarusclarkii[J].Aquaculture,1990,84(3/4):321-334. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[26] WEI Y J,HE G,MAI K S,et al.Apparent digestibility of selected feed ingredients in juvenile turbot (Scophthalmus maxima L.)[J].Israeli Journal of Aquaculture,2015,67:1173-1181. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[27] 杨传哲,何艮,周慧慧,等.大菱鲆幼鱼对几种蛋白质源中营养物质的表观消化率及膨化处理对其产生的影响[J].动物营养学报,2016,28(7):2045-2054.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[28] LEE S M.Apparent digestibility coefcients of various feed ingredients for juvenile and grower rockfish (Sebastes schlegeli)[J].Aquaculture,2002,207(1/2):79-95. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[29] SUGIURA S H,DONG F M,RATHBONE C K,et al.Apparent protein digestibility and mineralavailabilitiesinvarious feedingredientsforsalmonid feeds[J].Aquaculture,1998,159(3/4):177-202.   \n[30] ZHOU Q C,TAN B P,MAI K S,et al.Apparent digestibility of selected feed ingredients for juvenile cobia Rachycentron canadum[J].Aquaculture,2004,241(1/2/3/4):441-451.   \n[31] 梁丹妮.建鲤(Cpyrinus carpio var.Jian)对18种饲料原料营养物质的表观消化率研究[D]. 南京：南京农业大学,2011.   \n[32] 韩斌,周洪琪,华雪铭.凡纳滨对虾对玉米蛋白粉表观消化率的研究[J].饲料工 业,2009,30(4):24-25.   \n[33]周兴华,向枭,陈建.银鲈对六种饲料原料蛋白质和氨基酸的表观消化率[J].西南农业学 报,2003,16(3):90-93.   \n[34] 明建华,叶金云,张易祥,等.青鱼对8种饲料原料中营养物质的表观消化率[J].动物营养学 报,2012,24(10):2050-2058.   \n[35] TIBBETTS S M,MILLEY J E,LALL S P.Apparent protein and energy digestibility of commonandalternativefeedingredientsbyAtlanticcod,Gadusmorhua (Linnaeus,1758)[J].Aquaculture,2006,261(4):1314-1327.   \n[36] PORTZ L,CYRINO JE P.Digestibility of nutrients and amino acids of different protein SourcesinpracticaldietsbylargemouthbassMicropterussalmoides (Lacepede,1802)[J].Aquaculture Research,2004,35(4):312-320.   \n[37] MAITA M,TACHIKI H,KAIBARA A,et al.Pharmacological efect of ursodeoxycholic acid in juvenile eel[J].Nippon Suisan Gakkaishi,1996,62(1):129-130.   \n[38] DESHIMARU O,KUROKI K,YONE Y.Suitable levels of lipids and ursodesoxycholic acid indietforyellowtail[J].BulletinoftheJapaneseSocietyofScientific Fisheries,1982,48(9):1265-1270.   \n[39]颌志刚,牛翠娟.可利康对虹鳟生长的影响[J].饲料研究,2002,10(8):22.   \n[40]林仕梅,叶元土,罗莉.胆汁酸添加剂对异育银鲫生长的影响[J].广东饲 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "料,2003,12(3):14-15. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[41] 谭永刚,魏文志,曾党胜,等.饲料中添加胆汁酸对异育银鲫生长性能的影响[J].广东饲 料,2008,17(1):25-26. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[42]王优军.几种非营养无公害添加剂对大菱鲆的效应和机理研究[D].硕士学位论文.青岛:中国科学院研究生院，2006:51-53.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[43] ACOSTA RODRIGUEZ E V,ZUNIGA E,MONTES C L,et al.Interleukin-4 biases differentiation of B cells from Trypanosoma cruzi-infected mice and restrains their fratricide:role of Fasligand down-regulation and MHC classI-transactivator up-regulation[J].Journal of Leukocyte Biology,2003,73(1):127-136. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[44] 钟国防,周洪琪.木聚糖酶和复合酶制剂PS 对尼罗罗非鱼生长性能、消化率以及肌肉营养成分的影响[J].浙江海洋学院学报:自然科学版,2005,24(4):324-329.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[45] LIN S M,MAI K S,TAN B P.Efects of exogenous enzyme supplementation in diets on growth and feed utilization in tilapia,Oreochromis niloticus×O.Aureus[J].Aquaculture Research,2007,38(15):1645-1653. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[46] KOLKOVSKI S,TANDLER A,KISSIL G W.The effect of dietary exogenous digestive enzymes on ingestion assimilation,growth and survival of gilthead seabream (Sparus aurata,Sparidae,Linnaeus) arvae[J].Fish Physiology and Biochemistry,1993,12(3):203-209. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Nutrient Apparent Digestibility Coefficients of Corn Gluten Meal in Juvenile Turbot (Scophthalmus maximus L.) and Effects of Adding Bile Acid and Enzyme Preparation on Them TIAN YingHE Gen\\*ZHOU Huihui WANG Xuan MAI Kangsen (The Key Laboratory of Aquaculture Nutrition and Feed, Ministry of Agriculture, Ocean University of China, Qingdao 266003, China) ② ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to determine the apparent digestibility coefficients (ADCs) of dry mater (DM), crude protein (CP),amino acid (AA) and gross energy (GE) of corn gluten meal， and the effects of adding bile acid（purity $\\geq 3 0 \\%$ ）and enzyme preparation [compound enzyme which was composed of neutral protease $( 1 \\times 1 0 ^ { 5 } ~ \\mathrm { U / g } )$ and papain $\\left( 4 \\times 1 0 ^ { 5 } \\right.$ $\\mathbf { \\nabla } [ \\mathbf { J } / \\mathbf { g } )$ , and the activity ratio of them was 2:1] on ADCs of nutrients in corn gluten meal.A basal diet was prepared firstly, and then the test diets were prepared which contained $70 \\%$ basal diet and $30 \\%$ test feed ingredients [untreated corn gluten meal (CGM)， corn gluten meal supplemented with bile acid $( \\mathrm { C G M _ { B } ) }$ ， and corn gluten meal supplemented with enzyme preparation $\\mathsf { ( C G M _ { E } ) } \\dot { }$ 1. All diets were added $0 . 1 \\%$ yttrium trioxide as an exogenous indicator. Juvenile turbot with average body weight of $( 1 3 . 0 0 { \\scriptstyle \\pm 0 . 0 1 } ^ { }$ ）g were randomly divided into 4 groups with 3 replicates in each group and 4O fish in each replicate. The fish in different group were fed with the corresponding diet, and fecal samples were collected with the method of squeezing the hindgut after 2 weeks. The feding period was 10 weeks. The results showed that the ADCs of DM, CP, total AA and GE of three protein sources were $2 5 . 9 9 \\%$ to $4 3 . 3 4 \\%$ ， $4 8 . 6 2 \\%$ to $6 0 . 7 2 \\%$ ， $4 8 . 4 1 \\%$ to $67 . 6 7 \\%$ ，and $3 5 . 0 7 \\%$ to $5 2 . 3 4 \\%$ ，respectively. The ADC of total AA of each protein source presented the similar tendency with the ADC of CP. $\\mathrm { C G M _ { B } }$ showed the highest ADCs of all nutrients for juvenile turbot, which were significantly higher than those of CGM and $\\mathrm { C G M _ { E } }$ 0 $P$ $< 0 . 0 5 \\rangle$ ，and the ADCs of DM, CP, total AA and GE of $\\mathrm { C G M _ { B } }$ were increased by $1 7 . 3 5 \\%$ （204号 $12 . 1 0 \\%$ ， $1 9 . 2 6 \\%$ and $1 7 . 2 7 \\%$ , respectively, compared with CGM; the ADCs of all nutrients of $\\mathrm { C G M _ { E } }$ for juvenile turbot were also improved, the ADCs of DM, CP, total AA and GE of $\\mathrm { C G M _ { B } }$ were increased by $9 . 5 3 \\%$ $4 . 3 7 \\%$ $4 . 2 9 \\%$ and $12 . 2 5 \\%$ , respectively, compared with CGM, and the effects were significant( $P { < } 0 . 0 5$ ）.The results indicate that adding bile acid and enzyme preparation all contribute to the improvement of ADCs of nutrients of corn gluten meal for juvenile turbot. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: juvenile turbot; corn gluten meal; bile acid; enzyme preparation; apparent digestibility coefficients ",
+        "page_idx": 15
+    }
+]

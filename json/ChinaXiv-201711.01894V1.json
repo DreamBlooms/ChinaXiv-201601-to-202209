@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "The incisor enamel microstructure of Mina hui (Mammalia, Glires) and its implication for the taxonomy of basal Glires ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MAO Fang-Yuan1 LI Chuan-Kui' WANG Yuan-Qing' LI Qian1 MENG Jin²1 (1 KeyLaboratoryof Vertebrate Evolution and Human Origins ofChineseAcademy of Sciences, InstituteofVertebratePaleontologyandPaleoanthropology,ChineseAcademy ofSciences Beijing l0oo44, China maofangyuan@ivpp.ac.cn) (2 Division ofPaleontology,AmericanMuseum of Natural History New York,NY10024,USA) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The incisor enamel microstructure of Mina hui Li et al.,2016 from the upper Wanghudun Formation,Middle Paleogene of Qianshan,Anhui is described following the hierarchical system ranging from crystallites to Schmelzmuster. The enamel sample was taken from the upper incisor of the holotype.The enamel consists ofa very thin prismless external layer, a relatively thick outer layer (PE)with radial enamel and an inner layer (PI) with multilayered Hunter-Schreger bands (HSB).The thickness of HSB is irregular and the inclination has a small angle;no transition zones between the HSB; prism cross sections are irregularly round; interprismatic matrix is very thick with crystallites in the PE running parallel to the prism long axes.These characters resemble pauciserial HSB in rodents.Ribbon-like prism seams and convergent crystalite discontinuities are consistent in different portions of the enamel, which are interpreted as a primitive feature for Glires,or even placental mammals.Compared with known enamel structure of basal Glires,the enamel of Mina stands for the earliest known evidence of double-layered enamel of the group.It indicates that the early evolution of Glires and placental mammals is complex and adds more details to the enamel microstructure of the earliest Glires. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words Qianshan,Anhui; Paleocene; Mimolagidae; prism and seam; HSB ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CitationMao F Y, Li C K,Wang Y Q et al., 2016. The incisor enamel microstructure of Mina hui (Mammalia,Glires)and its implication for the taxonomy of basal Glires. VertebrataPalAsiatica, 54(2):137-155 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tooth enamel microstructure can provide significant information for understanding phylogeny and tooth function of mammals. In contrast to hypsodont and brachydont molars that have various morphologies and functions, incisors have roughly similar shape in all clades and are not critically influenced by different biomechanical constraints. Thus,the incisor enamel microstructure is particularly appropriate for comparative studies and phylogenetic reconstruction of Glires (Koenigswald, 1988, 2004; Koenigswald and Clemens, 1992; Martin, 1997). Conventionally, the general assumption is that the incisor enamel of most rodents consists of two layers,an inner region (portio interna,PI) with Hunter-Schreger Bands (HSB) and an outer region (portio externa, PE) with radial enamel, whereas most lagomorphs usually have a single-layered incisor enamel (Tomes,1850; Korvenkontio,1934; Carroll, 1988).For enamel with HSB,three basic types have been distinguished based on the width of HSB, namely pauciserial, uniserial and multiserial, which display somewhat regular distributions in certain rodent clades (Korvenkontio,1934; Wahlert, 1968; Boyde,1978; Hussain et al., 1978; Sahni,1980; Koenigswald,1985,1988; Flynn et al.,1987,Martin,1992,1993; Kalthoff, 2000).However,later studies show that the number of enamel layer could be variable in both rodents and lagomorphs by adding or losing a particular enamel layer (Koenigswald, 1995, 1996,Martin, 1999, 2004). For instance, in some rodents (such as Heterocephalus jaegeri [Bathyergidae] and Pellegrinia panormensis [Ctenodactylidae], Martin,1992), the PE is missing so that the enamel has essentially one layer, and in some ochotonids, two or more layered incisor Schmelzmuster are present (Koenigswald,1995, 1996). Although highly diverse,enamel microstructure is still wildly used and plays an important role in the study of Glires taxonomy and phylogeny. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the superordinal monophyletic group, Glires, the most common view about its taxonomic content is that it consists of two clades, Simplicidentata and Duplicidentata. Simplicidentata includes all Glires sharing a more recent common ancestor with Rodentia characterized by one pair of upper incisors,whereas Duplicidentata is defined as all members of Glires sharing a more recent common ancestor with Lagomorpha characterized by two pairs of upper incisors (Meng and Wyss, 20o5). The evolution pattern of enamel microstructure in these basal Glires is not very clear. One reason is that no phylogenetic analysis involved all the taxa that were taxonomically included in basal Glires,and the taxonomic position of some basal Glires is still controversial (Meng et al.,2003; Asher et al.,2005,also see Li et al., 2016). Another reason is that, because of their general similarity of morphology and fragmentary material, it seems no suffcient characteristics, including enamel microstructure, can be used to distinguish those taxa. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here we present a detailed description of the incisor enamel microstructure for Mina hui Li et al.,2016 following the hierarchical system of incisor enamel microstructure proposed by Koenigswald and Clemens (1992),ranging from crystallites to Schmelzmuster level. M. hui is one of the earliest known Glires and taxonomically assignable to Mimolagidae (\"Mimotonida”, Duplicidentata) (Li et al., 2016; Wang et al., 2016). Mimotonids are usually recognized as a paraphyletic group, according to phylogenetic analyses that included selected mimotonid species (Meng et al., 2003; Asher et al.,2005); the content of the group is briefly reviewed by Li et al. (2016). Among placental mammals, it appears that members of mimotonids most feasibly give rise to lagomorphs sometime around the Paleocene-Eocene transition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To obtain the enamel microstructure without damaging the wear facet of the incisor tip, a small piece (ca.3 mm long) was cut from the distal end of the right upper incisor of Mina hui (IVPP V 7509.1, holotype). The sample was first embedded on the pre-paved half solid DPX mounting medium; then the liquid DPX mounting medium was poured over and vacuum pumped to remove air bubbles. The vacuum pumped specimens were exposed in a light-curing instrument (EXAKT 530) for 12 hours until the DPX completely set. The prepared specimens were cut in cross and longitudinal sections.Because the specimen is limited, we are only able to make the longitudinal (along the long axis of the incisor) and cross (perpendicular to the long axis) sections; more detailed investigation, as we did elsewhere (Mao et al.,2015), cannot be conducted.The sectioned specimen was ground, polished,and subsequently etched with 0.1 mol/L phosphoric acid about 90 seconds.After being rinsed, sonicated and dried, the prepared samples were sputter-coated with gold and imaged using a Hitachi S47oo SEM machine in the Key Laboratory of Vertebrate Evolution and Human Origins,Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences (IVPP), Beijing, China. The sectioned sample is housed in IVPP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Terminologies for the enamel structure of Glires follow Koenigswald and Sander (1997), Martin (1999) and partially Boyde (1964). See Koenigswald and Sander (1997) and Sander (1999)for a comprehensive glossary of enamel terms. The hierarchical system of structural complexity with five basic categories used in description and classification of mammalian enamel proposed by Koenigswald and Clemens (1992) is adopted in this study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Enamel microstructural abbreviationsBb, bright bands; Cd, convergent crystallite discontinuity; Db, dark bands; EDJ, enamel-dentine junction; HSB,Hunter-Schreger bands; IPM, interprismatic matrix; OES, outer enamel surface; P, prism; PE, portio externa; PI, portio interna; PLEX, prismless external layer; PPE, plesiomorphic prismatic enamel; S, prism sheath; Sm, prism seam. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Descriptions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Description of the incisor enamel microstructure of Mina hui follows four interdependent levels of hierarchical system, including:1) crystalites (orientation of crystallites);2） prisms type (cross-sections of prisms); 3) enamel types (orientation of prisms relative to EDJ and differences in crystallite orientation of the IPM relative to prisms); 4) Schmelzmuster (threedimensional arrangement of enamel types). The dentitions level (variation in Schmelzmuster throughout the dentition) will be omitted because only one upper incisor can be sampled. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Crystallites ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There is a thin PLEX with the thickness no more than $1 0 ~ { \\mu \\mathrm { m } }$ and varying at different portions.In the PLEX,the crystalites at the very outer side are oriented essentially in parallel and extend radially toward the OES, which is more likely be categorized as parallel crystallite enamel (Figs.1A,2A). The crystallites in PLEX at the transitional area near the prismatic layer show some features of divergence columnar units and are demarked by the prism seam or crystalite convergent discontinuities extending from the prismatic layer (Figs.1A, 2A). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6f9cf753420f23ea05c4f0dceef9c1eecd46caafa83c72868f89e228915e332.jpg",
+        "img_caption": [
+            "Fig.1Orientation of crystallites and prism type in the longitudinal section of incisor enamel of Mina hui (IVPP V 7509.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A.The outer layer shows the thin PLEXand radial enamel layer; B.The radial enamel PE contains prism type 2 in Boyde's (1964) system; C.Longitudinal section of prisms from Bb in the PI; D.Cross-section of prisms in the Db ofPI.The EDJ is to the left and the tip of the incisor to the bottom (except for C in which EDJis to the bottom and the tipof the incisor to the right).Trend of the Cd shown in arrows ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1498c29dec5807be736c937a325cf5fc73b1c146046025af8662f48a01e071af.jpg",
+        "img_caption": [
+            "Fig.2Orientation of crystalltes and prism shape in the cross section of the incisor enamel of Mina hui (IVPPV 7509.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.A fractured surface of the outer layer showing the thin PLEX and radial enamel without prism decussation in PE in three-dimensional view;B.The radial enamel PE shows the interleaved branches of IPM and the prism type 2 in Boyde's system; C.The longitudinal section of prisms from PI; D.Details of the spirally rotated prisms in PI. The EDJ is to the left ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In most area of the incisor enamel of Mina hui, the crystallites are assembled in clusters, normally classified as prisms, which are surrounded by thick IPM (Figs.1,2). The orientation of crystallites in IPM is perpendicular with prisms or runs at an acute angle to the long axes of prisms in the PE (Figs.1B,2B). In contrast, the crystallites of IPM are parallel or approximately parallel to the long axes of prisms in the PI, either from the longitudinal section (in the bright bands (Fig.1C) and the dark bands (Fig. 1D)), or from the cross section (Fig. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2C). However, the crystalites of IPM do not surround the prism as a whole circle, but open at the OES side and are bisected by a linear of planar convergent discontinuity (Figs.1B, C, 2B, C).The convergent discontinuities in the PE and the Db of the PI of the longitudinal section are only found to exist in the IPM, termed as crystalite convergent discontinuity (Fig.1B, D), whereas those in the cross-section and the Bd of the PI of the longitudinal section are usually found in the middle of prisms,extending from the prism neck, via the tail, then to the IPM,and termed as prism seam (Figs. 1C, 2B, C). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The crystalites in the IPM continuously stretch from the EDJ to the OES as thick stripes with some twist coincided with the trend of the prisms, which are more regular in the PE (Figs. 1B,2B) than in the PI (Figs.1C,D,2C, D). In the PE,the continuous crystallite strips in the longitudinal section incline to OES at about $4 0 ^ { \\circ }$ and trend to the tip of the incisor (Fig.1B), but the orientation of strips is perpendicular to the OES in the cross section (Fig. 2B). Most crystallites from the strips of IPM run vertically to the longitudinal section, but convergent towards the middle of two strips and form a slender crystalite discontinuity (Fig.1B). Within the main continuous crystallite strips in the cross section, there are some regular branches convergent towards the middle of two strips, where prisms are locked in these interleaved branches.The branches of two strips are not fused together and a distinct line or plane extends along the middle line of two strips as crystallite convergent discontinuity (Fig. 2B). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In PI of the longitudinal section, prism seams in the bright bands (Fig. 1C) are more distinct than the convergent crystallite discontinuities in the dark bands (Fig.1D). In the bright bands,these prism seams locate in the middle of the prisms; they are variable in length,but usually occurred in the tail and neck, where the prism and IPM join together; occasionally the discontinuities can extend into the prism head (Fig.1C). The crystalite arrangement of IPM in the dark bands is more like the pattern in the PE,where the crystalites mainly run vertically to the longitudinal section and convergent towards the middle of two strips forming a slender crystallite discontinuity (Fig.1D). Because the twist of prisms in the PI of cross section, the convergent crystallite discontinuities are hardly found in this area and the crystallite orientation of the seam and IPM is discernable (Fig.2C,D). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A prismless layer with a few microns thick of parallel crystallites is occasionally found near the EDJ (Fig.2D). However, this discontinuous layer is too thin to be defined as a recognizable characteristic of the incisor enamel microstructure of Mina hui, but may be regarded as IPM extending from the EDJ. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Prism shape ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The prism cross section of Mina hui is laterally flattened to form an oval shape in the PE (Figs.1A, B, 2A,B) but irregularly round in the PI (Figs.1D, 2D). The sheaths are generally open on one side,either in the longitudinal section (Fig.1) or in the cross section (Fig.2). The sheath is arch-shaped and accounts for nearly two-thirds of a whole circle when the prisms are right cross-sectioned (Fig. 1D). The orientation of the open area faces to the OES except in the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PE of the longitudinal section, where inclined prisms insert into the plane with an angle and make the openings toward the OES (Fig. 1A, B). Prisms arranged in rows are perpendicular to or have an angle with the OES.Thus the pattern of the prism arrangement is consistent with the prism type 2 in Boyde's (1964) system. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "However, the prism shape varies considerably. In the PE, the prism diameter can range from 1.9 to $6 ~ { \\mu \\mathrm { m } }$ at the outer layer (Figs.1A, 2A),while prism size is relatively consistent in the inner layer of the PE and the average diameter is around $3 ~ { \\mu \\mathrm { m } }$ .In the PI, some prisms have round sheath without opening, which can termed as type 1 in Boyde's system and was treated as a plesiomorphic stage comparing to the other types (Fig. 1A; Boyde,1964). But this shape variation could be artificially caused by the different sectioned place of prisms by cutting plane,as revealed in the bright band (Fig.1C). In this band, the prism sheaths do not always delimit the whole prism body with IPM.The crystallites of the prism head are separated with IPM at the tip of prism less than $1 0 ~ { \\mu \\mathrm { m } }$ long,then fused with crystallites of IPM at the rest portion of the prism (middle and root portion) until the next prism appears. If the cuting plane truncates the prism at the tip portion,the cross-section of the prism should be type 1 in Boyde's (1964) system.But if the cutting plane truncates at the portion that no sheath delimitated the prism head with IPM, the cross-section of the prism should have an open area where the crystallites of prism head and IPM fused together. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Type 1 and 2 display mosaic distribution in the dark bands of the PI (Fig.1D), but type 2 is consistent in the PE (Figs.1A,B,2A,B). The different distribution of prism types in PI and PE may imply that the prisms in the PI are not as even as in the PE,if the prisms do have such crystallite assemblies of prism head and IPM as revealed in the longitudinal section of prism in the bright bands. This hypothesis is supported by a fracture surface of the PE (Fig. 2A), which shows that the prisms in different depth do not twist and intertwine with each other. But the prisms in the PI seem to have some spiral pattern (Figs.1C,2D). Still, from the pictures available now, we cannot rule out the possibility that the prism sheaths always exist along whole prisms in the PE. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 Enamel types ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, three enamel types are found in the incisor enamel of Mina hui (Figs. 3A,B,4A, B).A very thin prismless layer locates externally, the component of which mainly is parallel crystallites enamel; the PE of the incisor is formed by radial enamel and the PI has HSB (Figs. 3B, 4C, D). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although the enamel can be divided into PE and PI and they have a comparative thickness, no distinctive boundary exists between them and it is hard to identify them in the transitional zone (Fig.3B,D).In the PE of the longitudinal section, the prisms are lined up in rows skewing with EDJ to about $4 0 ^ { \\circ }$ (Fig.3C).The prisms of dark bands near the EDJ have similar orientation with the PE prisms,thus they directly join into the PE in the transitional area while the prisms of bright bands change orientation and become increasingly consistent ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3b58502f2958eeab17e1d06707a886127b1cae0a61ad440636a1add8ebf7e1f.jpg",
+        "img_caption": [
+            "Fig.3Enamel types and Schmelzmuster in the longitudinal section of incisor enamel of Mina hui (IVPPV 7509.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A.Longitudinal section shows the enamel thickness and the variation of Schmelzmuster in different depth of the incisor; B.Schmelzmuster contains a very thin external prismless layer, PI and PE with comparative thickness,and a transitional zone (TZ) between PE and PI; C.PE consists of radial enamel; D.Prism orientation changes in TZ; E.Pauciserial-like HSB in PI; F.Crystalite convergent discontinuities of the IPM frequently found in dark bands of PI.The EDJ is to the bottom ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "with that of dark bands and PE (Fig. 3C,D). The seam is hardly found in the PE and the dark bands of PI, but the crystallite convergent discontinuities of the IPM are frequently present in these areas.The seams disappear soon after the light bands fused with the PE (Fig. 3C, D). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the PI (Fig.3E,F), HSB are 4-8 prism layers wide with distinct variation (dark bands usually are wider than light bands); HSB are inclined at $1 0 ^ { \\circ } - 1 5 ^ { \\circ }$ apically near the EDJ and inclination of HSB increases gradually from the EDJ to the transitional zone; crystallites of IPM run parallel to and surround prisms; prism sheaths are irregular but distinct and IPM is very thick; transition Zones of prisms between adjacent HSB are lacking. These characteristics are typical and resemble pauciserial HSB (Wahlert, 1968; Martin,1993). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/626924366291728e835cf3caff3bbe11159a3289aa26c79fe9d98a2418d53a52.jpg",
+        "img_caption": [
+            "Fig.4Enamel types and Schmelzmuster in the cross section a (in Fig.5) of incisor enamel of Mina hui (IVPP V 7509.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A. Ovate cross-section of the upper incisor; B. Schmelzmuster shows that three enamel types are frequently found; C.The distal side has extro-introversively flattened radial enamel in PE, radial enamel in PI and a prismless layer in PLEX;D.The mesial side has three-dimensionally rotated prisms inPI,radial enamel inPEand a prismless layer in PLEX;E.Details of the extrointroversively flattened radial enamel in PE of the distal side; F.Details of spirally rotated prisms in PIof the mesial side.The EDJin C-Fis to the bottom ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the cross section of the upper incisor of Mina hui, most enamel has three enamel types from the EDJ to the OES (Fig. 4A,B). There is still one thin parallel crystallites enamel layer covering the very outside of the whole enamel.The PE of the incisor is formed by radial enamel, in which the prisms are flattened (extroversion-introversion) and nearly vertical with the cross-sectional plane; these radially arranged prisms do not twist with each other, neither in two-dimension nor three-dimension (Fig.2A). Although the prisms in the PE do not show any difference in the whole cross section, the enamel type in the PI seems to have some difference between the distal (Fig. 4C) and the mesial side (Fig. 4D). In the distal side,the prisms in the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PI are roughly radial arranged and oriented similar with the prisms in the PE,but the prisms are more flattened (extroversion-introversion) and have some degree of twist (Fig. 4C, E). In the mesial side,the prisms in the inner portion are three-dimensionally rotated and have a low degree of decussation that they present as S-shaped curve and are sectioned at different portion by cross section (Fig. 4D,F). However, no regular prism arrangement has been found in this area. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4Schmelzmuster ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the break of the incisor, the anterior-posterior diameter is unknown,but the distalmesial diameter is about $7 ~ \\mathrm { m m }$ . The thickness of the total enamel is about $2 0 0 ~ { \\mu \\mathrm { m } }$ in cross sections and the mesial side is a litte thicker than the distal side (Figs. 4A,5B). The thickness of enamel in the longitudinal section is also about $2 0 0 ~ { \\mu \\mathrm { m } }$ ，but can vary a little at different depth of the incisor (Fig. 3A). The enamel is double-layered Schmelzmuster with a PI of pauciserial-like HSB and a PE of radial enamel, which bears the equal thickness about $1 0 0 \\mu \\mathrm { m }$ A very thin prismless external layer is present in most area. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Before we obtained the cross-section of the investigated upper incisor, the tooth was first ground lightly so that we had another cross-section a' closer to the root (Fig.5A,B). These two sections give us some information about the Schmelzmuster changing in the single incisor. In cross section a' (Fig.5B,C), the crystalites,the arrangement of the prisms,and the number of the layers are quite similar with those of cross-section a.A very thin prismless external layer is present (Fig. 5D),and the rest enamel is double-layered Schmelzmuster with equal thick PE (radial enamel,Fig.5E) and PI (pauciserial-like HSB,Fig.5F).But this cross section still has some small differences, such as, numerous cracks are perpendicular with the OES and most of them are limited in the PE (Fig. 5B, C).This is probably because the enamel at the end of the tooth and the radial enamel in the PE were not strong enough to stop cracking during masticatory or preservation. The crystallites in the PLEX are disorderly mixed,and even possess some distortion (Fig. 5D).The prisms are stuck in the successve and feather-like IPM in the PE.Two strips of IPM converge together to form a ribbon-like crystalite convergent discontinuity (Fig. 5E). The prisms in PE skew with cross section a’ in a high-angle that the prisms are more extro-introversively flattened than the prisms in PE from the cross section a. This difference might be caused by small angle change between section plane and the incisor. However, the arrangement of the prisms and IPM resemble that of cross section a (Fig. 5F). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Comparison and discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The first incisor enamel microstructure of Mimotonidae, Mimolagus rodens, was reported by Bohlin (1951) based on an upper incisor taken from a skullcollected from the Late Eocene Huoshaogou Formation, Yumen Basin, western Gansu, China (see Zhang and Wang, in press). According to the plate,this incisor enamel consists of two layers with a thickness about ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5294ba38c7fb36af42441501d37f8f02279185771df48e0b4e1b18d277fc93f.jpg",
+        "img_caption": [
+            "Fig.5Enamel types and Schmelzmuster in the cross section (a')of incisor enamel of Mina hui (IVPP V 7509.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A.Two cross-sectional place on the investigated upper incisor; B. Ovate cross-section closer to the root bearing numerous radial cracks perpendicular with the OES and mainly limited in the PE; C.Schmelzmuster shows that three enamel types are frequently found, prismless enamel in PLEX, radial enamel in PE and S-shaped decussation in PI; D.PLEX have disorderly mixed crystalites; E. PE contains feather-like IPM (shown in arrows) and prisms stuck in (shown in stars); F. Details of the S-shaped decussation in PI. The EDJ in $\\mathrm { C - F }$ is to the bottom ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$1 3 0 \\mu \\mathrm { m }$ . In the longitudinal section,PE is radial enamel with an inclination of prisms to OES at an angle about $3 0 ^ { \\circ }$ . PI has multi-bands of prisms that bended and decussated with each other, resembling the pauciserial HSB and occupying two-thirds of the total enamel thickness.The HSB thickness is 4-5 prisms and incline with EDJ at about $3 0 ^ { \\circ }$ or smaller. In the cross section, PE is radial enamel perpendicular with OES and PI has decussated prism bands. However, from the optical microscope pictures,it is not certain whether the PLEX exist or not, and the dark bands in the PI of the longitudinal section are not revealed, which are most likely because the sample was not etched. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The second species of Mimolagus, M. aurorae, recently reported from the Middle ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Eocene lower beds of the Irdin Manha Formation, Erlian Basin, Nei Mongol, China,also has two-layered incisor enamel with a thickness about $1 4 0 ~ { \\mu \\mathrm { m } }$ for both upper and lower incisors (Fostowicz-Frelik et al.,2015). According to the figure,the PE is also radial enamel comprising approximately $3 5 \\% - 4 5 \\%$ of the entire enamel layer. In the longitudinal section, pauciseriallikeHSBis3-5 prisms thickand inclinewithEDJatabout $2 0 ^ { \\circ }$ .In the cross section,PI has the same patern of prism decussation with that of Mimolagus rodens.But the radial enamel in PE shows greater inclination, approximately $3 0 ^ { \\circ }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "One of the earliest mimotonids, Mimotona wana, has one-layered enamel, based on an upper I2 from a skull (IVPP V 7518, Li and Ting, 1993). However, our observation of this specimen shows that whether or not PE is present in the enamel of $M _ { ☉ }$ .wana remains unclear; the sampled area of the enamel in previous work appears to have an incomplete enamel surface so that the “one-layered enamel’ of Mimotona might be an artifact. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The enamel structure of Anatolimys rozhdestvenskii was reported by Martin (2004) based on a lower incisor taken from a mandible with ${ \\mathfrak { p } } 4$ and $\\scriptstyle \\mathrm { m } 2 - 3$ and an ?upper isolated incisor (cf. Anatolimys rozhdestvenskii) from the Early Eocene Andarak 2, Kyrgyzstan. The incisor of the species has double layered enamel with the entire thickness about $1 3 5 ~ { \\mu \\mathrm { m } }$ ,HSB in the PI and radial enamel in the PE.A thin PLEX is present. In the PE, prisms are not inclined, but are oriented perpendicular to the EDJ (inclination $= 0 ^ { \\circ }$ ). The boundary between PE and PI is not sharp.The PI is about two-thirds of total enamel thickness.The HSB are 3-5 prisms thick in the lower incisor and are inclined at $3 0 ^ { \\circ }$ apically, while HSB are 4-6 prisms thick in the upper incisor and HSB inclination varies from almost $0 ^ { \\circ }$ to $3 0 ^ { \\circ }$ . In the PI and PE of the lower incisor, IPM crystalltes run parallel to the prism long axes and IPM anastomoses between the prisms. In the upper incisor, IPM crystallites in the PI run parallel to the prism long axes and IPM anastomoses between the prisms, and IPM crystalites in the PE run at an acute angle to the prism long axes;prisms are inclined at $4 5 ^ { \\circ }$ apically (Martin, 2004). The HSB of $A$ ： rozhdestvenskii is most like pauciserial HSB,according to the definition of pauciserial HSB of rodents (Martin, 1993). However, in these two specimens, transition zones between HSB occur, IPM is thin,and prisms are ovally round but not irregularly round in cross sections. These characteristics are more derived than pauciserial HSB,which may indicate that the incisor enamel of A. rozhdestvenskii is in a transitional stage from pauciserial HSB to multiserial HSB. However, whether or not the three basic HSB, pauciserial, uniserial and multiserial HSB,can apply to describe the incisor enamel structure of Duplicidentata is still doubtable. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Flynn et al. (1987) described the lower incisor enamel microstructure of Gomphos elkema from the Early Eocene Bumbanian deposits, Tsagan-Khushu, Mongolia. They characterized the enamel as having a single layer with the entire thickness about $9 0 ~ { \\mu \\mathrm { m } }$ . The thickness of the bands in HSB is usually 3-4 prisms thick, but some bands are wider and include 6-7 prisms.HSB inclination is about $1 8 ^ { \\circ }$ .Prisms in some bands bend slightly near the OES.These characters most resemble the pauciserial condition. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "However, Martin (1999) studied another lower incisor taken from a left mandible with $\\mathrm { m } 1 { - } 3$ of Gomphos sp.indet from the Early Eocene base of Bumban Member of Naran Bulak Formation, Ulan Bulak,Mongolia.Martin reported that the enamel is double-layered with a PE of radial enamel and a PI of multilayered HSB,which also resemble the pauciserial condition. Enamel thickness is $1 4 0 ~ { \\mu \\mathrm { m } }$ and the PE comprises about $30 \\%$ of the entire enamel thickness.A thin PLEX is present.Within the PE,prisms are inclined at $3 0 ^ { \\circ }$ apically. Prism cross-sections are laterally flattened and embedded in a moderately thick IPM.The HSB are $2 5 ^ { \\circ } - 3 0 ^ { \\circ }$ inclined and 3-6 prisms thick. IPM surrounds the prisms and runs parallel to the prism long axes, and prism cross-sections are irregularly round. However these multilayered HSB exhibit welldeveloped transition zones between the HSB and a comparatively steep inclination; enamel is relatively thick and prism cross sections in the PE are laterally compressed. These are derived characters typical for multiserial HSB comparing to the pauciserial HSB (Martin,1999). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The upper and lower incisors of Gomphos elkema, from the Early Eocene Nomogen Formation,Nei Mongol, China, were also be sectioned to obtain information of the enamel microstructure (Fostowicz-Frelik et al., 2015). Although they inclined to support Flynn et al. (1987) that the enamel is a single layer with 5-7 prisms thick pauciserial HSB,there are still some portions that show a very thin PE with radial enamel no more than $1 5 \\%$ of the entire thickness of the enamel (Fostowicz-Frelik et al., 2015: supplementary figure S2). For the breakage on the surface of the samples, the presence or absence of PLEX is unknown. The HSB are $2 5 ^ { \\circ } - 3 0 ^ { \\circ }$ inclined and bend slightly near the OES. IPM surrounds the prisms and runs parallel to the prism long axes and prism cross-sections are irregularly round. Transition zones between the HSB are occasionally found. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Enamel microstructure of several incisors for cf. Mimotonidae gen. et sp. indet., including an upper incisor taken from a skull collected from the Early Eocene Bamban Member, Tsagan Kushu, Mongolia (Martin,1999),a right upper incisor from a skull fragment with I2-3 and cheek teeth collected from the Early Eocene base of Bamban Member, Tsagan Kushu,Mongolia (Martin, 2Oo4),and a left upper and lower incisors taken from a skull with I2-3 and mandible with i2 plus complete cheek dentition from the Early Eocene Bamban beds,Naran Bulak,Mongolia (Martin,2004),has been reported. However, these incisors show some prominent differences with each other. The specimen studied by Martin (1999) consists of two layers,a PE with radial enamel and a PI with multilayered HSB resembling the pauciserial condition:enamel thickness is about $1 0 0 ~ { \\mu \\mathrm { m } }$ ，and the PE comprises $3 5 \\%$ of the entire enamel thickness; a thin PLEX is present; HSB are 3-5 prisms wide and $1 5 ^ { \\circ } - 2 0 ^ { \\circ }$ inclined; no transition zones between the HSB;in longitudinal section,HSB are not straight but have a more irregular appearance; IPM surrounds the prisms and crystalltes of the IPM run parallel to the prism long axes; the prism cross-sections are ovally round except those within the PI are irregularly round; prisms are embedded in a thick IPM. In contrast, the specimens studied by Martin (2004) have single-layered Schmelzmuster with HSB. Enamel thickness is $1 2 0 { - } 1 3 5 ~ { \\mu \\mathrm { m } }$ and a PLEX is missing. HSB thickness varies between 4-6 prism layers and HSB inclination is small to moderate $( 0 ^ { \\circ } - 3 5 ^ { \\circ } )$ . HSB become less distinct due to decreasing angle of prism decussation in the outer part of the enamel layer. Between HSB, transition Zones are present. IPM is thin and IPM crystallites run parallel or at an acute angle to the prism long axes and anastomose regularly. Prism cross sections are oval and laterally flattened near the OES.Although these specimens of cf. Mimotonidae from the Bamban Member are possibly referable to Gomphos elkema (Asher et al., 2Oo5), the significance of the enamel structure is stillimited, given that these specimens were not identified to species. Currently, what kind of reasons caused the difference, intraspecific (transitional stage from a double-layered towards a single-layered Schmelzmuster), interspecific or artificial, cannot be confirmed.A comparison between identifiable specimens of $G$ .elkema from the Bamban Member and those from the Gomphos bed of Erlian Basin,Nei Mongol (Meng et al.,20o4) is needed, which may help to clarify the species identification of those specimens from both areas. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The enamel microstructure of Mina reported here represents the earliest known double-layered enamel with multilayered HSB in Glires;it somewhat resembles the pauciserial condition in the PI and radial enamel in the PE in“Mimotonida” (incisor enamel microstructure of Amar aleator is unknown), even in Duplicidentata. The thickness of the enamel in Mina is intermediate and the PE consisting of radial prisms are proportionally the thickest among known basal Glires.A thin PLEX is present and prisms are inclined apically at a high angle (about $4 0 ^ { \\circ }$ ) in the PE.The HSB inclination is smallest and the variation of the HSB thickness is the greatest (4-8 prisms). No transition zone between the HSB; prism cross sections are irregularly round and the most primitive prism type 1 was found in this sample; IPM are very thick and IPM crystallites in the PI run parallel to the prism long axes and IPM crystallites in the PE run at an acute angle to the prism long axes; prism cross-sections are laterally flattened.All these characters seem to be the plesiomorphic condition for the enamel microstructure of “Mimotonida” and Duplicidentata. It seems like the double-layered enamel with pauciserial-like HSB dominates the incisor enamel of“Mimotonida\" and is plesiomorphic for Duplicidentata.Meanwhile,the enamel of Mina shares with other known mimotonids and even most member of Duplicidentata the feature that prisms are embedded at rows in a thick and tree-branch-like IPM anastomosing between the prisms (Martin, 2004). But further comparison among mimotonids cannot be made for lacking of information for the crystalites and prism shape level. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In other Glires, the incisors of Tribosphenomys (Meng and Wyss,1994,2001), Sinomylus (Martin, 20o4) and Eurymylus (Martin,2004) only have the radial enamel layer without distinctive HSB.It is usually believed that one-layered enamel is more primitive than two (Harternberger, 1985; Sahni,1985) and the radial single enamel layer was considered a primitive condition for Glires, even for therians (Koenigswald et al.,1987; Koenigswald, 1988,1995; Martin, 1999,2004). However, among earliest known Glires, Mina and Heomys (Li and Ting,1985; this study), possessed double-layered enamel, whereas Mimotona supposed to have “single-layered” with HSB.Thus, it remains open what enamel type is plesiomorphic for Glires: the radial enamel, the double-layered enamel with pauciserial-like HSB,or the single",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "layered enamel with pauciserial-like HSB. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "All the aforementioned studies are primarily based on the enamel types and Schmelzmuster in the enamel hierarchical system,and traditional studies of incisor enamel microstructure for Glires usually focus on the enamel layer number and the HSB types. In such practices,lagomorphs usually have been characterized as having a single-layered incisor enamel in contrast to a double-layered one in rodents (Tomes,1850; Korvenkontio,1934). The HSB types among rodent suborders were considered displaying three distinct evolutionary stages (Korvenkontio,1934; Wahlert, 1968; Boyde,1978; Sahni,1980,1985; Koenigswald, 1985). However, it is known now that the PE may also be reduced in rodents (Flynn et al., 1987,Martin,1992),and Ochotonidae (pikas) exhibit multilayered incisor enamel, although the single-layered incisor enamel is present in Leporidae (hares and rabbits) (Koenigswald, 1995,1996). Thus,a simple count of enamel layers proved insufficient information and is overly simplistic for distinguishing Lagomorpha and Rodentia as well as in various subgroups (Koenigswald, 1995,1996; Martin,2004). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "From our study on incisor enamel microstructure of Mina and the study on that of Heomys (Li and Ting,1985: pl.I, fig. 3,optical microscope image), both are the earliest known Glires and discovered in the same geographic area, two-layered incisor enamel microstructure already developed in these forms.Although the pauciserial HSB is generally accepted as plesiomorphic for rodents (Marivaux et al.,2004; Martin, 2004),it is still controversial whether a single-(with or without HSB) or double-layered (with HSB and radial enamel) Schmelzmuster represents the ancestral or primitive condition in Glires (Koenigswald, 1985, Flynn et al.,1987; Martin, 2004). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Further, the description and comparison of tooth enamel microstructure could be refined to the level of crystalites and prism types.For instance,the seam, a common feature in the enamel of Mesozoic mammals and the prism with seam is defined as plesiomorphic prismatic enamel (PPE, Wood and Stern, 1997; Wood and Rougier, 2005), may well be a primitive enamel feature in the Paleogene Glires and is probably more common than previously thought in placental mammals (Stern and Crompton,1995; Sander, 1997; Wood and Stern, 1997; Martin,2O04; Mao et al., 2015). If the variation of enamel structure at the levels of crystallites and prism types is taken in to account, the enamel evolution of Glires may prove to be more complex than we previously knew. The existence of crystallite discontinuities in the IPM and seams in the middle of prisms in different layers and portion of Mina and the following loss of discontinuities and seams in certain layers and clades will also impact the incisor enamel microstructural evolution patern in the Glires. But for the resolution and the magnification of the published images,the existence of seam in the enamel of other base glires cannot be verifed,and the evolution of glires enamel with or without the seam is a subject beyond the scope of this study. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5Conclusion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The enamel of Mina resembles those of most stem taxa of Mixodontia that have twolayered incisor enamel with pauciserial like HSB; ribbon-like prism seam with feather-shaped discontinuity medially bisecting the prism in the tail and neck portion; the seam extends through the open area of the sheath toward the OES for some distance and ends in the IPM. However, the discontinuities are not only found in the middle of the sheath opening,but some ribbon-like crystalite discontinuities also exist in the IPM between two rows of prisms.The incisor enamel microstructure of Mina and other basal eurymylids reveal that the PPE is more widely distributed in the enamel of basal Glires than what we thought previously, which may further illustrate the mosaic enamel evolution of Glires. If a reversal from the enamel type with HSB to plesiomorphic radial enamel is impossible in Glires,the data available from basal Glires suggest that the HSB and true prismatic enamel probably evolved independently in various clades of duplicidentates and simplicidentes. Thus,the further exploitation of incisor enamel microstructure should be strictly abided with the hierarchical system that contains five levels.More attention perhaps needs to be put on surveying the variability within orientation of crystalites and the shape of the prisms,which may give us more in-depth information useful for classification and taxonomy of Glires. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsWe thank Li Shijie for preparation of specimens; Jin Xun, Zhang Wending, Zhang Zhaoxia (IVPP) for assistance in SEM imaging of the specimens; and Profs. Zhang Zhaoqun and Zhao Lingxia for critical and helpful reviews. This work was supported by the Major Basic Research Projects of MST of China (No. 2012CB821900), the National Natural Science Foundation of China (Nos.41404022, 41572013, 41572021). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "胡氏敏兽门齿釉质微观结构及其对基干啮形类的分类学意义",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "毛方园¹　李传夔1 王元青1 李茜 孟津2.1(1中国科学院脊椎动物演化与人类起源重点实验室，中国科学院古脊椎动物与古人类研究所北京100044)(2美国自然历史博物馆古生物学部 纽约10024)",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "摘要：从晶体类型到釉质结构4个不同的微观结构等级详细描述了安徽潜山中古新世胡氏敏兽的门齿釉质微观结构。样品取自胡氏敏兽正型标本的上门齿后端。该门齿最外层为一极薄的无釉柱层，外层为放射状釉柱层，内层为具多层的施氏明暗带。施氏明暗带的单带厚度变化较大，倾斜度相对较小，带间无明显的过渡带，釉柱的横切面为不规则圆形，釉柱间质较厚，外层间质晶体平行于釉柱长轴。这些特征与啮齿类中的散系施氏明暗带极为相似。同时还发现有缎状的釉柱中缝和聚敛型的晶体间断分布在釉质的不同部位，而这些特征一般被认为是啮形类，甚至是哺乳动物的较为原始特征。与其他已报道的基干啮型类对比，胡氏敏兽的门齿釉质代表了啮形类中已知最早的双层似散系釉质类型，具有更多的",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "较原始特征，为啮形类门齿釉质研究提供了更多的形态学信息，并显示啮形类的演化可能远比现在认知的复杂。  \n关键词：安徽潜山，古新世，模兔类，釉柱，中缝，施氏明暗带",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "中图法分类号：Q915.873 文献标识码：A 文章编号：1000-3118(2016)02-0137-19",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Reierences Asher R,Meng J, Wible JR et al.,2005.Stem Lagomorpha and the antiquity of Glires.Science,307:1091-1094 Bohlin B,1951.Some mammalian remains from Shih-ehr-ma-ch'eng,Hui-hui-p'u area,western Kansu.Sino-Swed Exp Publ 35,VI. Vert Paleont,5: 1-48 Boyde A,1964.The structure and developmentof mammalian enamel.Ph.D.thesis.London:The London Hospital Medical College. 1-193 BoydeA,1978.Developmentofthe structureofthe enamelofthe incisorteeth inthe threeclasscalsubordinalgroups of the Rodentia.In: ButlerPM,Josey K A eds.Development,Functionand Evolution of Teeth.London: Academic Press.   \n43-58 Carroll R L,1988.Vertebrate Paleontology and Evolution.New York: Freeman.1-698 Flynn LJ,RussellDE,Dashzeveg D,1987.NewGlires (Mammalia)from the EarlyEoceneof the People's Republicof Mongolia.2.Incisor morphology and enamel microstructure.Proc K Ned Akad Wet, Ser B,90(2): 143-154 Fostowicz-Frelik L,LiCK,MaoFYetal.,2015.Alarge mimotonid from the Midle Eoceneof China sheds lighton evolution of lagomorphs and their kin. Sci Rep,5: 9394,doi: 10.1038/srep09394 HarternbergerJL,1985.Theorder Rodentia: majorquestionson their evolutionaryorigin,relationshipsand suprafamilial systematics.In: Lucket WP,Hartenberger JLeds.Evolutionary Relatinships Among Rodents:A Multidisciplinary Analysis.New York: Plenum Press.1-33 Hussain ST,de Bruijn H,Leinders JM,1978.Midle Eocene rodents fromthe Kala Chita Range (Punjab,Pakistan).Proc KNed Akad Wet, SerB,81(1): 74-112 Kalthoff D C,2Ooo.Die Schmelzmikrostruktur inden Inzisiven der hamsterartigen Nagetiere und anderer Myomorpha (Rodentia, Mammalia). Palaeontogr Abt A,259:1-193 Koenigswald Wvon,1985.Evolutionary trends intheenamel of rodent incisors.In:Luckett WP,Hartenberger JLeds. Evolutionary Relationships Among Rodents: A Multidisciplinary Analysis.New York: Plenum Press.403-422 Koenigswald W von,1988.Enamel modification in enlarged front teeth among mammals and the various possible reinforcements of the enamel.In: RussellDE,SantoroJ-,Sigogneau-RussellDeds.Teth Revisited: Proceedingsof the VIth International Symposium on Dental Morphology.Paris:Editions du Muséum national d'Histoire naturele.   \n147-167 Koenigswald W von,l995.Lagomorpha versus Rodentia:the number of layers in incisor enamels.Neues Jahrb Geol Palaont, Monatsh,10: 605-613 Koenigswald Wvon,1996.Die Zahlder Schmelzschichten in den Inzisiven bei denLagomorphaund ihre systematische Bedeutung.Bon Zool Beitr, 46: 33-57 Koenigswald W von,2004.Evolution of incisor enamel microstructure in Lagomorpha.J Vert Paleont,24(2): 411-   \n426 Koenigswald W von, Clemens WA,1992.Levels of complexity in the microstructure of mammalian enamel and their ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "application in studies of systematics. Scan Electron Microsc,6(1): 195-217 Koenigswald Wvon,SanderPM,997.Glossryoftermsusedforenamel microstructures.In:KoenigswaldWvonader P M eds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.267-280 Koenigswald Wvon,RensbergerJM,Pretzschner HU,1987.Changes inthe tooth enamelofEarlyPaleocene mammals allowing increased diet diversity. Nature,328:150-152 Korvenkontio VA,1934. Mikroskopische Untersuchungen an Nagerincisiven unter Hinweis auf die Schmelzstruktur der Backenzähne.Ann Bot Soc Zool-Bot Fenn Van,2:1-274 Li CK,Ting SY,1985.Possible phylogenetic relationships of eurymylidsandrodents,with comments onmimotonids.In: Luckett WP,Hartenberger JL eds.Evolutionary Relationships Among Rodents:A Multidisciplinary Analysis.New York: Plenum Press 35-58 Li CK,TingSY,1993.Newcranialand posteranial evidencefortheaffnitiesof theeurymylids (Rodentia)and mimotonids (Lagomorpha).In: Szalay F S,Novacek M J, McKenna M C eds.Mammal Phylogeny: Placentals.New York: Springer. 151-158 Li C K,Wang YQ,Zhang Z Qet al.,2016.Anew mimotonidan Mina hui (Mammalia,Glires)from the Middle Paleocene of Qianshan,Anhui, China. Vert PalAsiat, 54(2): 121-136 Mao FY,Wang YQ,Meng J,2015.A systematic study on tooth enamel microstructures of Lambdopsalis bulla (Multituberculate,Mammalia)-implications for Multituberculate biology and phylogeny.PloS One,10(5): e0128243 MarivauxL,Vianey-LiudM,JegerJJo4.High-levelphylogenyofearlyTrtiaryrodents:dentalevidence.ZoolJin Soc,142(1): 105-134 Martin T,1992.Schmelzmikrostrukturinden Inzisiven alt-und neu-weltlicher hystricognather Nagetiere.Palaeovertebrata, Mem Extra,1992: 1-168 MartinT,1993.Early rodent incisor enamel evolution: phylogenetic implications.JMammal Evol,1(4):27-253 Martin T,1997.Incisor enamel microstructureand systematics in rodents.In: Koenigswald Wvon,SanderPMeds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.163-175 MartinT,199.Phylogenetic implicationsof Glires (Eurymylidae,Mimotonidae,Rodentia,Lagomorpha)incisoramel microstructure.Mitt Mus Naturk Berlin, Zool Reihe,75(2): 257-273 Martin T,2004.Evolution of incisor enamel microstructure in Lagomorpha.JVert Paleont, 24(2): 411-426 Meng J,WyssAR,1994.EnamelmicrostructureofTribosphenomys (Mammalia,Gires):characteranalysisandsystematic implications.JMammal Evol,2(3): 185-203 Meng J,WyssAR,20o1.The morphologyofTribosphenomys (Rodentiaformes,Mammalia): phylogenetic implications for basal Glires. JMammal Evol, 8(1): 1-71 Meng J,WyssAR,2o5.Glires (Lagomorpha,Rodentia).In:Rose KD,ArchibaldJDeds.TheRiseofPlacental Mammals: Origins and Relationships ofthe Major Extant Clades.Baltimore: Johns Hopkins University Press.145-158 Meng J,Hu YM,Li CK,20o3.The osteology of Rhombomylus (Mammalia, Glires): implications for phylogeny and evolution of Glires.BullAm Mus Nat Hist,275: 1-247 Meng J,Bowen GJ,YeJetal.,2O04.Gomphoselkema(Glires,Mammalia)fromtheErlian Basin:evidence forthe Early Tertiary Bumbanian Land Mammal Age in Nei-Mongol, China.Am Mus Novit,3425:1-24 Sahni A,1980.SEM studies of Eocene and Siwalik rodent enamels.Geosci J,1/2: 21-30 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Sahni A,1985.Enamel structureofearly mammals and itsrole in evaluating relationships among rodents.In:Lucket WP, Hartenberger JLeds.Evolutionary Relationships Among Rodents:A Multidisciplinary Analysis.New York: Plenum Press.133-150   \nSahni A,KoenigswaldWvon,1997.The enamel structureofsome fosilandrecent whales from theIndiansubcontinen.In: Koenigswald W von,Sander PM eds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.177-191   \nSander P M,1997.Non-mammalian synapsid enamel and the origin of mammalian enamel prisms: the bottm-up perspective.In: Koenigswald W von,Sander PM eds.Tooth Enamel Microstructure.Roterdam: Balkema Press. 41-62   \nSanderPM,1999.The microstructureofreptiliantooth enamel: terminology,function,and phylogeny.MunchnerGeowiss Abh,Reihe A,Geol Paläont,38:1-102   \nSternDN,CromptonAW,1995.Astudyofenamelorganization,fromreptiles tomammals.In:Moggi-CecchiJed.Aspects ofDentalBiology:Paleontology,Anthropology,ndEvolution.Florence,Italy:ProceedingsoftheNinth Interational Symposium on Dental Morphology.1-25   \nTomesJ,1850.On the structureofthe dental tissues of the order Rodentia.Philos Trans RSoc London,139:529-567   \nWahlertJH,1968.Variabilityofrodent incisorenamelasviewed inthinsection,and the microstructureoftheenamelin fossil and recent rodent groups.Breviora,3o9:1-18   \nWang YQ,LiCK,LiDSetal.,2O16.AsynopsisofPaleocene stratigraphyand vertebrate paleontologyinthe Qianshan Basin,Anhui, China.Vert PalAsiat, 54(2):89-120   \nWood CB,RougierGW,2Oo5.Updatingand recoding enamel microstructure in Mesozoic mammals: insearchof discrete characters for phylogenetic reconstruction.JMammal Evol, 12(3-4):433-460   \nWood CB,Stern DN,1997.The earliest prisms in mammalianand reptilian enamel.In: Koenigswald Wvon,Sander PM eds.Tooth Enamel Microstructure.Rotterdam: Balkema Press.63-83   \nZhang ZQ,WangJ,2O16.Onthe geologicalage of mammalian fosils from Shanmacheng,GansuProvince.VertPalAsiat, in press ",
+        "page_idx": 18
+    }
+]

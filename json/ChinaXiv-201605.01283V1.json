@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "Knockdown of ERp44 leads to apoptosis via activation of ER stress in HeLa cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yan Chang a,1, Yanyun Wu a,1, Wei Liu b,\\*\\*, Guangju Ji a,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aNationalLaboratoryofBiomacromolecules,Instituteof Biophysics,Chinese Academyof Sciences,Beijing,China bDepartmentofrmacoogyilinedicalCollge,iin, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Received 23May 2015 Accepted 29May 2015 Available online 1 June 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nERp44   \nCell apoptosis   \nER stress   \nCa²+oscillation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ERp44,an endoplasmic reticulum (ER) resident protein,regulates intracellular ${ \\mathsf { C a } } ^ { 2 + }$ release and involves in the maturation of many proteins in mammalian cells.In this study,we investigated the effects and mechanism of ERp44 on cell apoptosis by using ERp44 knockdown stable HeLa cellines.We found that ERp44 knockdown resulted in increases in cellapoptosis rate more than one fold higher than that of control;using serum starvation,caspase-3 protein level was significantly up-regulated in ERp44 knockdown cels compared to the control cells.Furthermore,we demonstrated that in response to serum starvation,the protein levels of CHOP and GRP78 were also largely raised in ERp44 knockdown cells. Moreover,caspase-12 was activated,which suggested cell apoptosis was induced by ER stress.Taken together,ourresults indicate that knockdown of ERp44 leads to cellapoptosis through the activation of ER stress. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Endoplasmic Reticulum(ER) isa specialized organelle that plays a critical role in several biological processes such as protein maturation,lipid biosynthesis and calcium homeostasis[1].There are hundreds of molecular chaperones and folding enzymes in ER lumen that participate in protein folding,glycosylation,movement to Golgi apparatus and extracellular matrix [2]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ERp44,an ER resident protein,was firstly identified as ER chaperon of thioredoxin family by co-immunoprecipitation with Ero1-Lα in HeLa cells [3].It has been reported that ERp44 exhibits itschaperon activity by retention of formylglycine-generating Enzyme (FGE) in ER[4],and involves in the maturation of several proteins,such as serotonin Transporter(SERT） [5],IgM [6] and adiponectin[7].Mikoshiba and his colleagues reported that ERp44 directly binds to the L3V domain of $\\mathrm { I P } _ { 3 } \\mathrm { R } 1$ ,a vital $\\bar { C } \\mathsf { a } ^ { 2 + }$ channel on ER membrane,and regulates intracellular ${ \\mathsf { C a } } ^ { 2 + }$ concentrations [8]. Our previous work showed that $\\mathbf { I P } _ { 3 }$ -induced ${ \\mathsf { C a } } ^ { 2 + }$ release （IICR） is decreased in $\\mathtt { E R p 4 4 }$ overexpressed HeLa cellsand C160/212 of L3V domain influences the binding capacity between ${ \\bf I P } _ { 3 } { \\bf R } 1$ and ERp44 [9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ER stress is kind of condition that ER homeostasis is disrupted due to excessive unfolded proteins accumulation and alterations in the redox or calcium balance [1O].To cope with ER stress,unfolded protein response（UPR）is initiated including the increase of ER chaperon expression,the lower translation level of general proteins and the degradation of misfolded proteins[11].There are three main branches of UPR which named by three typeltransmembrane proteins: protein kinase RNA-like ER kinase (PERK)，inositol requiring protein-1 (IRE1）and activating transcription factor-6 (ATF6）[12].When ER stress is prolonged,ER stress-mediated apoptosis is initiated [13].There are three well-known apoptotic pathways named extrinsic,intrinsic [14] and perforin/granzyme pathway [15].The intrinsic pathway has crosstalk with PERK pathway that activated CHOPnegativelyregulatesBcell lymphoma-2(Bcl-2)[16]. Besides,ASK1 and JNK pathway is triggered by IRE1 [17].Finally,released cytochrome C initiates the formation of apoptosome and results in the activation of caspase-9 and the downstream caspase cascade [18]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we investigated the role and mechanism of ERp44 in cell apoptosis in HeLa cells.We found that knockdown of ERp44 causes remarkable cell apoptosis which due to the activation of ER stress. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Construction of vector and generation of virus ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "pSUPER vector was used to suppress the endogenous ERp44 gene according to a protocol described previously [19]. The target sequences were SiControl-3U ( $5 ^ { \\prime }$ -AACAGCACCAUCGACCAACGU- $3 ^ { \\prime }$ ） SiERp44-3U( $5 ^ { \\prime }$ -AACAGCAGCAUCAACCUACGU- $3 ^ { \\prime }$ ).These oligonucleotides were annealed and ligated downstream of the H1 promoter.The packaging cell line Phoenix-293 was cultured in high glucose Dulbecco's modified Eagle medium (H-DMEM） supplemented with $10 \\%$ fetal calf serum (FBS), $2 \\mathrm { m M } \\mathrm { { L } }$ -glutamine, $1 0 0 \\mathrm { U } / \\$ ml penicillin and $1 0 0 ~ \\mu \\mathrm { g / m l }$ streptomycin in standard conditions $3 7 ^ { \\circ } \\mathsf C$ in $5 \\%$ humidified ${ \\mathsf { C O } } _ { 2 }$ incubator).After placing to $1 0 \\ \\mathrm { c m }$ dishes,cells were transfected by $6 0 ~ \\mu \\mathrm { L }$ lipofectamine 2ooo((Invitrogen，USA）with $1 2 \\mathrm { \\mu { g } }$ pSUPER-siControl or $1 2 \\ \\mu \\mathrm { g }$ pSUPERsiERp44.Forty-eight hours after transfection,cell supernatant was collected and stored at $- 8 0 ^ { \\circ } \\mathsf C$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Infection of the cells ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HeLa cells were grown in H-DMEM supplemented with $10 \\%$ FBS, $2 \\mathrm { m M } _ { \\mathrm { I } }$ -glutamine, $1 0 0 \\mathrm { U / m l }$ penicillin and $1 0 0 \\mu \\mathrm { g / m l }$ streptomycin in standard conditions.The day before infection, $3 \\times 1 0 ^ { 5 }$ cells were planted per well of 6-well plates.The next day,virus supernatant was added with polybrene $( 5 ~ \\mathrm { \\mu g / m l }$ final concentration）and selected with $2 . 5 ~ { \\mu \\mathrm { g } } / { \\mathrm { m l } }$ puromycin for 10 days.Resistant clones were picked up and expanded for an additional one month. ERp44 protein levelswere then analyzed by western blot. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Measurement of intracellular $C a ^ { 2 + }$ ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathsf { C a } } ^ { 2 + }$ imaging was performed according to the previous report [20]. Stable cells were planted on sheet plate for more than $2 4 \\mathrm { ~ h ~ }$ Then the cells were loaded with $1 0 ~ \\mu \\mathrm { M }$ Fluo4-AM (Molecular Probes,Eugene,OR,USA)diluted in extracellular solution ( $1 4 0 ~ \\mathrm { m M }$ NaCl,5.5 mMKCl,1 mM MgCl2,2 mM $\\mathsf { C a C l } _ { 2 }$ $1 0 ~ \\mathrm { m M }$ Hepes, $3 ~ \\mathrm { m M }$ Glucose） for $1 0 \\ \\mathrm { m i n }$ in $\\mathsf { C O } _ { 2 }$ incubator.After washing three times with extracellular solution,cells were stimulated by $3 \\mu \\mathrm { M }$ ATP. Fluo4 fluorescence was recorded using a laser scanning confocal head attached to an inverted microscope (Leica SP-5). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Detection of cell apoptosis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Apoptosis was assessed by using Annexin V,a protein that binds to phosphatidylserine(PS) residuces which are exposed on the cell surface of apoptotic cell. Cells were cultured with L-DMEM without serum for4or6 days.After treatment,cells were re-suspended at $1 0 ^ { 6 } \\mathrm { c e l l s / m L }$ in $1 9 5 ~ { \\mu \\mathrm { L } } /$ tube $1 \\times$ Annexin-V binding buffer and $5 \\mu \\mathrm { L }$ of Annexin-V FITC and incubated at room temperature for $1 0 \\mathrm { m i n }$ in the dark, $1 0 0 0 \\ \\mathrm { g }$ centrifuged $5 ~ \\mathrm { m i n }$ ,discarded supernatant,added $1 9 0 \\mu \\mathrm { L } 1 \\times$ Annexin-V Binding Bufer and $1 0 \\mu \\mathrm { L }$ of Propidium Iodide (PI) buffer to each tube and analyzed the cells by flow cytometry within $^ { 1 \\mathrm { ~ h ~ } }$ of staining. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Western blot analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine the expression of associated proteins in stable cells,cell lysate was subjected to the sodium dodecyl sulfatepolyacrylamide gel electrophoresis(SDS-PAGE）and western blot analysis.Cells were collected and cell lysates were prepared using the RIPA lysis buffer containing $5 0 ~ \\mathrm { m M }$ Tris $\\left( \\mathrm { p H } \\ 7 . 4 \\right)$ 一， $1 5 0 ~ \\mathrm { m M }$ SOdium chloride, $1 \\%$ Triton X-100, $1 \\%$ sodium deoxycholate, $0 . 1 \\%$ SDS. After centrifugation to remove cell debris,the lysates were prepared using protein loading buffer,and then loaded onto a $12 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PAGE in running buffer.The proteins were transferred to a PVDF membrane (Millipore,USA),and then were probed with specific antibodies. $\\beta$ -actin and GAPDH proteins were detected as control to ensure equal protein loading in experiments.Protein bands were detected by ImmobilonTM Western chemiluminescence HRP substrate reagent (Millipore,USA).Primaryantibodies were rabbit GRP78 (#3183),rabbit cleaved caspase-3(#9661),rabbit caspase12 (#2202),rabbit GAPDH (#2118),rabbit $\\beta$ -actin（#4967）from cell signaling technology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All experiments were repeated at least three times. Statistical significance was determined by a one-way Welch's t-test.A difference was considered statistically significant when $\\mathtt { p } < 0 . 0 5$ = ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Knockdown of ERp44 induces cell apoptosis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the role of ERp44,adenovirus was prepared in Phoenix-293 cell line with shRNAof ERp44 or non-specific shRNA (as control). In this study,we established HeLa cell stable lines infected by adenovirus and kept in cell culture with antibiotic added.Several positive cell clones were screened out with different knockdown efficiency of ERp44(Fig.1A).By the proof of western blot,the relative intensity of ERp44 protein expression blot to ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/165cbe33e6e2e89d3be4672d9f5bc72c7575f634531392796cb0bd0dc37ffe93.jpg",
+        "img_caption": [
+            "Fig.1.Establishment of ERp44 knockdown stable cell lines.Adenovirus were packed as tools to loss of function of ERp44 in HeLa cells.(A)Western blot results showed ERp44 protein expression level of HeLa cells without treatment, HeLa cells transfected by adenovirus without targeting siRNA inserted (RV-Control) and HeLa cells transfected by adenovirus with human ERp44 siRNA construct (RVSi). Housekeeping gene GAPDH was used as protein loading control.(B) Statistics of ERp44 protein blot intensity to GAPDH were showed.Data were presented as the mean $\\pm { \\mathsf { S E M } }$ ${ \\mathfrak { n } } = 3$ $^ { * * * } \\mathrm { P } < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GAPDH in HeLa cells without transfection,HeLa cells with control adenovirus transfection and HeLa cells with ERp44 knockdown adenovirus transfection #2,#5,#6,#8 were 4.1,3.97,0.32,0.09, 0.003 and O.37,respectively(Fig.1B).The efficiency of ERp44 silencing instable line #2,#5,#6 and $\\# 8$ was $92 \\%$ $9 8 \\%$ $9 9 \\%$ and $91 \\%$ separately.We observed that knockdown of ERp44 caused cell shrinking,roundingand losingadhersion to culture dish compared to the control (Fig.2A);there were more chromatins which underwent condensation,polynucleosomal DNA fragmentation and nuclear shrinking observed in Hoechest staining slice(Fig.2B).Flow cytometry assay showed that the apoptosis rate in HeLa cells, shRNA control,HeLa cell stable lines#5 and #6was $5 . 7 1 \\%$ $5 . 6 8 \\%$ $1 2 . 3 8 \\%$ and $1 1 . 1 7 \\%$ ,respectively (Fig.2C). Compared to the control, the number of apoptotic cells was increased to 2.5 and 2.2 folds in ERp44 knockdown stable line #5 and #6,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next,we examined the intracellular apoptotic signaling pathway.The results indicated that cleaved caspase-3 which is an active form was significantly activated in ERp44 knockdown cells in response to serum starvation(Fig.3A),suggesting that cellapoptosis induced by knockdown of ERp44 was mediated by caspase-3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff36516fdf2ff69636db1ba91cac1f715bb21706844551189e56a10e7c254340.jpg",
+        "img_caption": [
+            "ig cl in HeLa,Si-Control,Si-ERp44#5,si-ERp44#6 was counted separately.The mean $\\pm$ SEM of three independent determinations were showed. $^ { * * } \\mathfrak { p } < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e280730e3031b29b054e3fb5363a316a53ee6d736955cb66855afdadabd22d15.jpg",
+        "img_caption": [
+            "Fig fu loading(B)feoeddseaedai $\\beta$ -actin as loading control. (C)CHOP protein level (D)Statistics of caspase-3 and GRP78 protein blotintensity to loading control and the mean $\\pm { \\mathsf { S E M } }$ of three independent determinations were showed. $^ { * * } \\mathrm { P } < 0 . 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.ERp44 knockdown induced apoptosis is mediated by activation ofER stress ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among the three pathways,the intrinsic one possibly involved inHeLa cell apoptosis induced by ERp44 knockdown. To test this, we conducted experiments of ER stress.As showed in Fig.3B, GRP78,anER marker,was increased to2 foldsin HeLa cells treated with serum starvation in day 6,indicating that HeLa cells were more sensible to ER stress induced by ERp44 knockdown. CHOP,a downstream of ER stress,isa regulator of Bcl-2 familylocated on mitochondriamembraneand itsactivationservesasabreak to the pro-apoptotic and anti-apoptotic balance with the consequence of cell apoptosis.Our results demonstrated that the protein level of CHOP was greatly up-regulated in ERp44 knockdown cells (Fig.3C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thecaspase-12,amember of caspase family,is confined to ER stress induced apoptosis pathway [21]. Here,we found that the procaspase-12 ( $[ 6 0 ~ \\mathrm { k D } \\rangle$ protein expression level was attenuated but the cleaved form $( 3 5 \\mathrm { k D } )$ wasraised (Fig.3A) in response to serum starvation.These results illuminated that cell apoptosis caused by ERp44 knockdown were mediated by ER stress. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Knockdown of ERp44 enhances ATP induced $C a ^ { 2 + }$ oscillation in HeLa cells ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It has been previously reported that $\\mathtt { E R p 4 4 }$ binds to $\\mathrm { I P } _ { 3 } \\mathrm { R } 1$ and affects intracellular ${ \\mathsf { C a } } ^ { 2 + }$ release [8]. In this study,we examined the effect of ERp44 knockdown on ${ \\mathsf { C a } } ^ { 2 + }$ release in HeLa cells.Confocal microscope ${ \\mathsf { C a } } ^ { 2 + }$ imaging results showed that ${ \\mathsf { C a } } ^ { 2 + }$ oscillation was strikinglyactivated byadding $3 \\mu \\mathrm { M }$ extracellular ATP in both ERp44 knockdown and control cells within the duration of $8 5 ~ s$ (Fig. 4A). However, the properties of ${ \\mathsf { C a } } ^ { 2 + }$ release were significantly different between ERp44 knockdownand control cells.The peak amplitude of ${ \\mathsf { C a } } ^ { 2 + }$ oscillation in cell line siERp44#5 was increased to 1.25 folds compared to that of the control cells (Fig. 4B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study,we determined the role of ERp44 in cell apoptosis process.We observed cell apoptosis phenotype and cleaved caspase-3 protein level up-regulated in ERp44 knockdown HeLa stable cell lines；the protein level of GRP78,CHOP and cleaved caspase-12 in ERp44 knockdown cells were increased in response to serum starvation.We also found that ${ \\mathsf { C a } } ^ { 2 + }$ oscillation induced by extracellular ATP was enhanced in ERp44 knockdown cells.Cell apoptosis caused by ERp44 knockdown was induced by ER stress. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ERp44 is expressed especially in ER lumen,part of Golgi apparatus and MAM due to its RDEL(Arg-Asp-Glu-Leu) sequence on C terminal.It has been previously reported that ERp44 inhibits ${ \\bf I P } _ { 3 } { \\bf R } 1$ activation by physical interaction with L3V domain of ${ \\bf I P } _ { 3 } { \\bf R } 1$ in mammalian cells [8]. $\\mathrm { I P } _ { 3 } \\mathrm { R } 1$ ，avital ${ \\mathsf { C a } } ^ { 2 + }$ channel located on ER membrane,has effect on ${ \\mathsf { C a } } ^ { 2 + }$ release in response to $\\mathbf { I P } _ { 3 }$ .Our results indicated that knockdown of ERp44 enhanced ATP induced ${ \\mathsf { C a } } ^ { 2 + }$ release.Since the activities of ER located enzymes and chaperones are ${ \\mathsf { C a } } ^ { 2 + }$ dependent,decrease of ER luminal ${ \\dot { \\mathbf { C } } } { \\hat { \\mathbf { a } } } ^ { 2 + }$ by $\\mathrm { I P } _ { 3 } \\mathrm { R }$ inhibition affects ER functionand ERassociated cellular processes.It iswell known that loss of ER luminal ${ \\mathsf { C a } } ^ { 2 + }$ causes ER stress [22] and activates unfolded protein response (UPR).Our data of ER stress indicated that ERp44 knockdown cells were more sensitive to ER stress stimulation.This phenotype might be due to ER luminal ${ \\mathsf { C a } } ^ { 2 + }$ decrease caused by $\\mathrm { I P } _ { 3 } \\mathrm { R }$ activation in ERp44 knockdown cells. Therefore，ERp44 influences ER stress through blocking $\\mathrm { I P } _ { 3 } \\mathrm { R } 1$ activity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a3ec34a987edabe471951345bee62a49e2bc68a87ff1118bbfd3e3cf39102f0.jpg",
+        "img_caption": [
+            "Fig.4.ERp44 knockdown enhances extracellular ATP induced ${ \\mathsf { C a } } ^ { 2 + }$ release. (A) $3 ~ { \\mu \\mathrm { M } }$ ATP was used to stimulate ${ \\mathsf { C a } } ^ { 2 + }$ oscillations after Fluo4 loading in stable ERp44 knockdown cell line and control. Fluorescence signal of siERp44#5 stable line and RVcontrol were measured.(B) Statistical results of ${ \\mathsf { C a } } ^ { 2 + }$ oscillation proportion during ATP stimuli in HeLa cells $\\mathtt { \\Pi } _ { \\mathtt { n } = 4 0 }$ from 3 independent experiments). Data were presented as the mean $\\pm { \\mathsf { S E M } }$ $^ { * * * } \\mathbf { p } < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "How ER stress induces cell apoptosis? One mechanism is that the adaptor molecule TNF-receptor-associated factor 2 (TRAF2) recruited by activated IRE1 activates apoptosis-signal-regulating kinase1 (ASK-1）resulting in active form of caspase-12 release [23].It had been also reported that activated JNK phosphorylates Bcl-2 and Bim followed by enhanced cell apoptosis.CHOP(growtharrest-and DNA-damage-inducible gene 153,GADD153)is induced bythree branchesofUPRbut PERK-eIF2-ATF4is essential.Some target genes of CHOP such as Bcl-2,GADD34,ERO1 and TRB3 have been identified.Bax and Bak,the pro-apoptotic member of Bcl-2 family are activated by CHOP or JNK,leading to caspases activation[24]. In this study we found that the active form of caspase-3 was significantly elevated by CHOP implicating that cell apoptosis occurred due to knockdown of ERp44.This is confirmed by our further findings that knockdown of ERp44 increased in the GRP78 levels and initiated ER stress.Moreover,cleavage of caspase-12 relies on its interaction with TRAF2 in response to ER stress [23]. In our data,pro-caspase-12 protein expression diminished and cleaved caspase-12 increased in ERp44 knockdown cellsat the late period of serum starvation,which suggests that the relationship between the cell apoptosis and ER stress induced by knockdown of ERp44.Collectively,our study indicates that human ERp44 playes an important role in ER stress induced cell apoptosis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Basic Research Program of China (2011CB809104 to GJ). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transparencydocument ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transparency document related to this article can be found online at http://dx.doi.0rg/10.1016/j.bbrc.2015.05.106. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] D.T. Rutkowski, R.J. Kaufman, A trip to the ER: coping with stress, Trends Cell Biol. 14 (2004) 20-28   \n[2] R. Sitia,I. Braakman, Quality control in the endoplasmic reticulum protein factory, Nature 426 (2003) 891-894.   \n[3]T.Aneli, M. Alessio,A. Mezghrani, T. Simmen,F. Talamo,A. Bachi, R. Sitia, ERp44,a novel endoplasmic reticulum folding assistant of the thioredoxin family,EMBO J.21 (2002) 835-844.   \n[4]M. Mariappan, K. Radhakrishnan, T. Dierks,B. Schmidt, K. von Figura, ERp44 mediates a thiol-independent retention of formylglycine-generating enzyme in the endoplasmic reticulum, J. Biol. Chem. 283 (2008) 6375-6383.   \n[5]S. Freyaldenhoven, Y. Li, A.M. Kocabas, E. Ziu, S. Ucer, R. Ramanagoudr-Bhojappa, G.P. Miller,F. Kilic, The role of ERp44 in maturation of serotonin transporter protein, J. Biol. Chem. 287 (2012)17801-17811.   \n[6] M. Cortini, R. Sitia, ERp44 and ERGIC-53 synergize in coupling efficiency and fidelity of IgM polymerization and secretion, Traffic 11 (2010) 651-659.   \n[7]Z.V.Wang, T.D.Schraw,J.Y. Kim,T. Khan,M.W. Rajala, A. Follenzi,P.E.Scherer, Secretion of the adipocyte-specific secretory protein adiponectin critically depends on thiol-mediated protein retention，Mol. Cell Biol. 27 (2007) 3716-3731.   \n[8]T.Higo,M. Hattori, T. Nakamura, T. Natsume,T. Michikawa,K. Mikoshiba, Subtype-specific and ER lumenal environment-dependent regulation of inositol 1,4,5-trisphosphate receptor type 1 by ERp44, Cell 120 (2005) 85-98.   \n[9]C.Pan,J. Zheng, Y.Wu, Y. Chen,L.Wang, Z. Zhou,W. Yin, G. Ji, ERp44 C160S/ C212S mutants regulate IP3R1 channel activity，Protein Cell.2 (2011) 990-996.   \n10] S.J. Marciniak,D. Ron，Endoplasmic reticulum stress signaling in disease, Physiol. Rev. 86 (2006) 1133-1149.   \n[11] A.Bertolotti, Y. Zhang,L.M. Hendershot, H.P. Harding,D.Ron，Dynamic interaction of BiP and ER stress transducers in the unfolded-protein response, Nat. Cell Biol. 2 (2000) 326-332.   \n[12] J. Wu,R.J. Kaufman,From acute ER stress to physiological roles of the unfolded protein response, Cell Death Differ. 13(2006) 374-384.   \n[13]C.Hetz，F. Martinon，D.Rodriguez,L.H. Glimcher，The unfolded protein response: integrating stress signals through the stress sensor IRE1α, Physiol. Rev. 91 (2011) 1219-1243.   \n[14] F.H. Igney,P.H. Krammer,Death and Anti-Death: Tumour Resistance to Apoptosis,2002.   \n[15]D.Martinvalet，P. Zhu，J. Lieberman，Granzyme A induces caspaseindependent mitochondrial damage,a required first step for apoptosis, Immunity 22(2005)355-370.   \n[16]E. Szegezdi, D.C. MacDonald,T.Ni Chonghaile, S. Gupta, A. Samali, Bcl-2 family on guard at the ER, Am. J. Physiol. Cell. Physiol. 296 (2009) C941-C953.   \n[17]H. Kanda,M. Miura，Regulatory Roles of JNK in Programmed Cell Death, J. Biochem.136 (1) (2004) 1-6.   \n[18] J.K. Brunelle,A. Letai, Control of mitochondrial apoptosis by the Bcl-2 family, J. Cell. Sci. 122 (2009) 437-441.   \n[19] Y.D. Krom, F.J. Fallaux,I. Que, C. Lowik, K.W. van Dijk, Efficient in vivo knockdown of estrogen receptor alpha: application of recombinant adenovirus vectors for delivery of short hairpin RNA,BMC Biotechnol.6 (2o06)11.   \n[20] Y. Tang, Y. Yin,L. Miao,B.Wei, K. Zhai, G.Ji, Nitric oxide enhances extracellular ATP induced $\\mathsf { C a 2 + }$ oscillation in HeLa cells,Archives Biochem. Biophysics 565 (2015) 68-75.   \n[21]T.Nakagawa, H. Zhu,N. Morishima, E.Li, J. Xu, B.A. Yankner,J. Yuan, Caspase12 mediates endoplasmic-reticulum-specific apoptosis and cytotoxicity by amyloid-beta, Nature 403 (2000) 98-103.   \n[22]D. Mekahli, G. Bultynck, J.B. Parys,H. De Smedt, L. Missiaen, Endoplasmicreticulum calcium depletion and disease, Cold Spring Harb. Perspect. Biol. 3 (2011).   \n[23] T. Yoneda, K. Imaizumi, K. Oono, D. Yui, F. Gomi, T. Katayama, M. Tohyama, Activation of caspase-12,an endoplastic reticulum (ER） resident caspase, through tumor necrosis factor receptor-associated factor 2-dependent mechanism in response to the ER stress，J. Biol. Chem.276 (2001) 13935-13940.   \n[24] E. Szegezdi, S.E. Logue,A.M. Gorman,A. Samali, Mediators of endoplasmic reticulum stress-induced apoptosis, EMBO Rep.7(2006) 880-885. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Calstabin 2: An important regulator for learning and memory in mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:23 September 2015   \nAccepted:14 January 2016   \nPublished:18 February 2016   \nQiYuan1,2,\\*, Ke-Yu Deng3,\\*,Le Sun4\\*,Shaopeng Chi1,5,\\*, ZhiguangYang1, Jun Wang1   \nHong-Bo Xin³, Xiaoqun Wang4 & Guangju Ji1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Calstabin2,also named FK506 binding protein12.6 (FKBP12.6),is a subunit of ryanodine receptor subtype 2(RyR2) macromolecular complex, which is an intracellular calcium channel and abundant in the brain.Previous studies identified a role ofleaky neuronal RyR2 in posttraumatic stress disorder (PTSD). However, the functional role of Calstabin2 in the cognitive function remains unclear. Herein, we used a mouse model of genetic deletion ofCalstabin2 to investigate the function ofCalstabin2 in cognitive dysfunction.We found that Calstabin2 knockout (KO) mice showed significantly reduced performance in Morris Water Maze (MWM), long-term memory(LTM)contextual fear testing,and rotarod test when compared to wild type (WT)littermates. Indeed,genetic deletion of Calstabin2 reduced long-term potentiation (LTP)at the hippocampalCA3-CA1 connection, increased membrane excitability,and induced RyR2 leak.Finaly,we demonstrated thatthe increase incytoplasmiccalcium activated $\\mathsf { C a } ^ { 2 + }$ dependent potassium currents and led to neuronal apoptosis in KO hippocampal neurons.Thus, these results suggest that neuronal RyR2 $\\mathsf { C a } ^ { 2 + }$ leak due to Calstabin2 deletion contributes to learning deficiency and memory impairment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { C a } } ^ { 2 + }$ is a ubiquitous intracellular messenger that controls multiple functions in both excitable and non-excitable cell types.Intracellular ${ \\mathrm { C a } } ^ { 2 + }$ release occurs via ryanodine receptors (RyRs)and inositol (1,4,5)-trisposphate receptors (IP3Rs)on the sarcoplasmic reticulum (SR) or endoplasmic reticulum (ER).Allthree RyR isoforms are expressed in the brain,with RyRl and RyR2 being the predominant isoforms in the hippocampus.Intracelular $\\mathsf { C a } ^ { \\mathsf { \\bar { 2 } + } }$ plays a crucial role in neuronal survival, regulating excitability,secretion,and memoryi. Several studies have demonstrated that neuronal $\\mathrm { C a } ^ { 2 + }$ homeostasis is disturbed in Alzheimer's disease $( \\mathrm { A D } ) ^ { 2 }$ and other diseases of cognitive dysfunction?.Accumulating evidence indicates that disturbances of neuronal $\\mathrm { C a } ^ { 2 + }$ homeostasis representa key pathogenic mechanism underlying neuronal dysfunction in thebrain1,playa role in neuronal degeneration and cell death4,5.A recent report indicated that neuronal RyR2 -mediated $\\mathrm { C a } ^ { 2 + }$ leak contributes to stress-induced cognitive dysfunction,whichcanberescued by stabilizing RyR2-Calstabin2 interaction via genetic ablation of the RyR2 PKA phosphorylation site at serine $2 8 0 8 ^ { 6 }$ ,suggesting that $\\mathrm { C a } ^ { 2 + }$ homeostasis is important in maintaining neuron function. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Calstabin2,also knownas FKBPl2.6,is a critical regulatory subunit of the RyR2 macromolecular complex. Calstabin2selectively binds to RyR2and stabilizes theclosed stateofRyR2,preventing aberrantcalcium leak and pathogenic dysfunction in muscle and neuronal function7-10. Numerous studies have demonstrated that PKA phosphorylation,oxidationor nitrosylation of RyR disociates Calstabin2 from thechannel,resulting incalcium leakl-14 followed bycardiac hypertrophy8,arrhythmial5,heart failurel6,impairmentof insulin secretion17and stress-induced cognitive dysfunction6.In contrast,enhanced Calstabin2 binding to RyR2can improve cardiac function18,prevent heartfailurel9and attenuate arrhythmias15.However,the function of Calstabin2 in neurons remains unclear.Furthermore,Calstabin2 proteins are known to selectively associate with RyR2 channels,and inactivation of the Calstabin2 gene in mice results in a characteristic alteration of the $\\mathrm { C a } ^ { 2 + }$ spark properties in cardiac and smooth myocytes8,9. ${ \\mathrm { C a } } ^ { 2 + }$ sparks activate ${ \\mathrm { C a } } ^ { 2 + }$ dependent potassium currents or spontaneous transient out currents (STOCs) in smooth myocytes9.The activation of potassium currents has been shown to result in neuron apoptosis and cell death20-22; in contrast, blocking ${ \\mathrm { C a } } ^ { 2 + }$ activated potassium channels results in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1NationalLaboratoryof Biomacromolecules,Institute of Biophysics,Chinese AcademyofSciences, Beijing100101, China.2Departmentof Physiologyand Celular Biophysics,Columbia University, NewYork,NewYork10032,USA. 3InstituteofTranslational Medicine,Nanchang UniversityNanchang 33o0,China.4State KeyLaboratoryofBrian and CognitiveSciences,Instituteof Biophysics,ChineseAcademyofSciences,Beijing10o101,China.5Schoolof Pharmaceutical Sciences,Tsinghua University,Beijing $\\begin{array} { r } { 1 0 0 0 8 4 , } \\end{array}$ China.\\*These authors contributed equally to this work.Correspondence and requests for materials should be addressed to H.-B.X.(email: hongboxin@yahoo.com) orX.W.(email: xiaoquanwang@moon.ibp.ac.cn)orG.J. (email: gj28@ibp.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/14153f81dcd87deb229d0e42094cedf59a01f6cb20dd78000f25ddfdc197e906.jpg",
+        "img_caption": [
+            "Figure 1.Deletion of Calstabin2 impairs learning and memoryof mice.Morris Water Maze test was carried out in WTand Calstabin2 KO mice. (A) The average time needed to locate the platform during the training sesions.Since the 2nddayoftraining,Calstabin2 KO mice displayed asignificant time delay inlocating the platform compared to that of WT( $\\mathrm { \\tilde { n } } = 1 2$ mice for each group).(B) Swimming paths of WT (left) and KO (right) mice during the probe trialsesson in the water Morris maze.(C)Quadrant preference of mice during thel min probe atday10.Calstabin2 deletion significantly affected quadrant preference in KO mice.(D) KO mice displayed areduced number ofplatform passing. (E)Mapof mice crossing different quadrants after removing the platform. S and E indicate the start and end points,respectively. (F)Contextual fear conditioning test. Mean freezing behavior of WT and KO mice. F $_ { ( 3 , 4 4 ) } = 1 0 9 . 5$ ,one way ANOVA. $( \\mathbf G )$ Locomotor and exploratory activities measured in the open-field test.KO mice displayed more inactivity compared with WT mice. $( \\dot { \\bf H } )$ Rotarod analysis on the third day of test.Data are shown as the means $\\pm$ s.e.m. $\\mathsf { \\Pi } ^ { * } \\mathtt { p } < 0 . 0 5$ and $^ { * * } \\mathrm { { p } } < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LTP increase and learning improvement2,implying that targeting Calstabin2 could have upstream therapeutic value within the cognition field.In addition,it has been reported that Calstabin1(FKBPl2),which shares $8 5 \\%$ sequence identity with Calstabin2,regulates mTOR-Raptor interactions through binding ofrapamycinand inhibiting the activityof the mammalian target of rapamycin (mTOR),a key regulator ofaging23.Through this pathway, Calstabin2canafectlong-termpotentiation (LTP),memory,and perseverativebehaviors10.Takentogether, these observations suggest acrucial role for Calstabin2 in the regulation ofbrain function, which has yet to be fully examined. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ability to store long-term memories depends on a brain region called hippocampus, where RyR2 expression is enriched.Patients with damage to this region are unable to form new long term memories (LTM) of day-to-day events. Given its importance,numerous studies have focused on the hippocampus for understanding how its neuronal network supports memory.In the present study, we show that genetic deletion of murine Calstabin2 results in impaired learning and memory. Following RyR2-mediated calcium leak, intracelular ${ \\mathrm { C a } } ^ { 2 + }$ homeostasis is disturbed and $\\mathrm { C a } ^ { 2 + }$ dependent potassium currents are activated, signaling downstream apoptotic pathways and resulting in hippocampal neuron death. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genetic deletion ofCalstabin2 alters behavior conditioning in mice. Our unpublished observations suggest that Calstabin2 knockout mice demonstrate oblivious behavior folowing fear stimulation,remaining stil and unperturbed compared to WT litermates.To beter understand the physiology underlying this unusual nonresponse,we conducted an MWM study designed to asesslearning and memory function.As shown in Fig.1,theaverage time needed to locate the platform was significantlydelayed in Calstabin2 KO mice compared with that of WTlitermates,beginning from the second dayof the training session (Fig.1A,B).Long-term training(post nine days)did not significantly improve the average platform location time in Calstabin2 KO mice $( 4 7 . 1 \\pm 4 . 3 1 s )$ ,in comparison to WT mice $( 2 1 . 4 \\pm 4 . 3 9 s )$ .Additionally, quadrant preference analysis conducted at day10 usingal min probe period demonstrated that deletion of Calstabin2 significantly affected the preference of mice for the target quadrant (Fig.1C)and greatly reduced the number of platform passes (Fig. 1D) compared to controls.After the platform was removed from the pool,WT mice searched selectivelyaround the training platform location, whereas Calstabin2 KO mice stillsearched equally acrossallfour quadrants of the pool (Fig.1E).Taken together, these data indicate a lack ofboth short term and long term memory retention. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fear conditioning testis known to be associated with learningand memory24-26,thus, we examined theeffect of Calstabin2 deletion on fear memory in WTand Calstabin2 KO mice.As indicated in Fig.1F,both genotypes performed similarlyduring training.However,compared to the WTmice, Calstabin2-knockout mice displayed decreased freezing during LTMcontextual fear memory testing (from $7 5 . 7 \\pm 3 . 4 2 \\%$ (WT) to $5 8 . 2 \\pm 5 . 1 4 \\%$ (KO), $\\mathrm { P } < 0 . 0 1 \\$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next, we observed the efects of Calstabin2 deletion on animal activity.An open-field test was conducted to determine iflocomotor and exploratory activities were perturbed in Calstabin2 KO mice.Mice were placed in open field and the time spentin thecenterof the entire open feld was recorded.The results indicated that deletion of Calstabin2 reduced the activity of mice compared with WT controls (from $1 3 . 7 \\pm 2 . 0 2$ (WT) to $8 . 2 6 \\pm 0 . 9 8$ (KO), $\\mathrm { P } < 0 . 0 5$ ; Fig.1G).To evaluate the effcts ofCalstabin2 deletion on motor coordination activity,an individual mouse was placed on arotating drum.Measuring the time that each animal was able to maintain its balance walking ontopof the rod,the rotarod test revealed thattime lapse was significantlyshortened in Calstabin2 KO mice compared to WT mice（from $1 7 8 . 4 2 \\pm 2 8 . 5 3 s$ to $4 3 . 4 9 \\pm 7 . 9 2 s$ 0 $\\mathrm { n } = 2 5 \\mathrm { - } 2 9$ 0 $\\mathrm { P } < 0 . 0 1$ ,Fig.1H). Together, these results suggest that genetic deletion of Calstabin2 leads to a remarkable decrease in memory retention and motor coordination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Deletion ofCalstabin2 results in alteration of the electrophysiological properties of hippocampal neurons.Given thatbehavioris controlled bythe hippocampal zone of the brain,one of the downstream consequences of increased RyR-mediated ${ \\mathrm { C a } } ^ { 2 + }$ leak could be abnormal action potential conduction in hippocampal pyramidal neurons²7.Mouse hippocampal neurons were isolated to examine the effect of Calstabin2 deletion on their excitability.As shown inFig.2,action potentials (APs) were significantlyaltered in Calstabin2 KO hippocampal neurons. The spike firing frequency for Calstabin2 KO mice was increased to $5 . 4 \\pm 0 . 8$ times from $2 . 5 \\pm 0 . 3$ times at $1 0 \\mathrm { p A }$ （2 $( \\mathrm { P } < 0 . 0 1 )$ and to $7 . 9 \\pm 0 . 9$ times from $2 . 8 \\pm 0 . 3$ times $( \\mathrm { P } < 0 . 0 1 )$ at $2 0 \\mathrm { p A }$ ,respectively (Fig.2B).Furtheranalysis of the results indicated thatdeletion ofCalstabin2 caused an increase in the peak amplitudeof Aps (Fig.2C),but shortened the duration ofspikes (Fig.2D).To determine the roleofCalstabin2 deletion on the alteration oflearning and memoryof mice,postsynaptic plasticityof hippocampal neurons was assessed by electrophysiological recordings of long-term potentiation (LTP)of hippocampus,which is required for learning and memory, in acute hippocampal slices prepared from both WT and Calstabin2 KO mice. As shown in Fig.3,the slope of eovoked fEPSP in KO micedecays graduallyand shows significant difference compared with WT mice from $2 6 ~ \\mathrm { m i n }$ after stimulation.Figure 3C indicated,at the time of $6 0 \\mathrm { { m i n } }$ ,fEPSP slope was significantly reduced in Calstabin2 KO mice $( 1 0 7 . 4 \\pm 8 . 9 6 \\%$ ,6 slices from5 mice) compared to WT mice $( 1 4 6 . 2 \\pm 5 . 2 4 \\%$ ,5 slices from 5 mice, $\\mathsf { p } < 0 . 0 5$ by one-way ANOVA),confirming that Calstabin2 deletion results in murine cognitive dysfunction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Deletion of Calstabin2 alters $\\mathsf { C a } ^ { 2 + }$ signaling properties.Previous studies indicated that RyR2 channel leakage results in perturbations of intracellular $\\dot { \\mathrm { C a } } ^ { 2 \\dot { + } }$ and impairs learning and memory6.Accordingly, we hypothesized that deletion of Calstabin2 disturbs intracellular $\\mathrm { C a } ^ { 2 + }$ stability and leads to impaired learning and memory. Therefore,we examined ${ \\mathrm { C a } } ^ { 2 + }$ signaling dynamics in hippocampal neurons.As shown in Fig. 4A, the results of $\\mathrm { C a } ^ { 2 + }$ line-scan imaging demonstrated that deletion of Calstabin2 significantly altered the properties of $\\mathrm { C a } ^ { 2 + }$ release in hippocampal neurons.The peak $\\mathrm { C a } ^ { 2 + }$ was increased to $2 . 6 6 \\pm 0 . 2 1$ from $1 . 7 1 \\pm 0 . 0 5$ （204号 (Fig. 4A,B, $\\mathrm { P } < 0 . 0 1$ ); the full widthathalf maximum (FWHM) of $\\mathrm { C a } ^ { 2 + }$ releases was increased to $5 . 4 3 \\pm 0 . 2 6 \\mu \\mathrm { M }$ from $3 . 7 1 \\pm 0 . 0 5 \\mu \\mathrm { M }$ (Fig. 3C, $\\mathrm { P } < 0 . 0 1$ ); rise time was decreased to $3 2 6 . 6 \\pm 2 4 . 6 \\mathrm { { r } }$ ns from $3 9 0 . 2 \\pm 2 4 . 6 \\mathrm { m s }$ (Fig. 4D, $\\mathrm { P } < 0 . 0 5 \\$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next, we sought to determine if ER $\\mathrm { C a } ^ { 2 + }$ content is affected by Calstabin2 deletion in hippocampal neurons. After treatment with $1 0 \\mathrm { m M }$ caffeine,ER $\\mathrm { C a } ^ { 2 + }$ content was significantly reduced in hippocampal neurons compared to that of WT cells (from $3 . 8 3 \\pm 0 . 2 2$ to $2 . 7 1 \\pm 0 . 2 1$ $\\mathrm { P } < 0 . 0 1$ ,Fig. 4F,G); correspondingly, the resting $\\mathrm { C a } ^ { 2 + }$ in the cytosol was remarkably increased in Calstabin2 nullcells compared to that of WT(from $0 . 9 1 \\pm 0 . 0 3$ to $1 . 1 2 \\pm 0 . 0 3$ $\\mathrm { P } < 0 . 0 1$ ,Fig.4H);this suggests that passive,RyR2-mediated ${ \\mathrm { C a } } ^ { 2 + }$ leak occurred as a result of the Calstabin2 genetic deletion in hippocampal neurons.Furthermore,to simultaneously record the membrane $\\mathrm { C a } ^ { 2 + }$ currents and the intracellular $\\mathrm { C a } ^ { 2 + }$ release events,a combined patch-clamp and confocal microscopy technique was used. Our results indicated that L-type $\\mathrm { C a } ^ { 2 + }$ currents were similar in Calstabin2 KO and WT hippocampal neurons,but the peak of ${ \\mathrm { C a } } ^ { 2 + }$ release from ER was significantly augmented in Calstabin2 null hippocampal neurons compared to that of WT (from $1 . 3 1 \\pm 0 . 0 5$ to $1 . 9 6 \\pm 0 . 1 4$ $\\mathrm { P } < 0 . 0 1$ ,Fig.4K),suggesting that Calstabin2 KO RyR2 $\\mathrm { C a } ^ { \\bar { 2 } + }$ release channels were sensitized due to the genetic deletion.Taken together,these results indicate that deletion of Calstabin2 leads to RyR2 $\\mathrm { C a } ^ { 2 + }$ leak, which subsequently results in disturbances to hippocampal intracellular $\\mathrm { C a } ^ { 2 + }$ concentration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genetic deletion of Calstabin2 activates $\\mathsf { C a } ^ { 2 + }$ dependent ${ \\pmb { \\ K } } ^ { + }$ currents in hippocampal neurons. $\\mathrm { K ^ { + } }$ channels are essential for the function of the nervous system,where they modulate the shape and frequency of APs and consequently,neurotransmitter release. $\\mathrm { K ^ { + } }$ channel inhibition has the potential to cause neuronal dysfunction byaffecting the membrane potentialof the cell,reducing repolarizationand leaving the neuron susceptible to hyperexcitability. Excessive $\\mathrm { K ^ { + } }$ efflux promotes apoptosis in hippocampal neurons².To determine if hippocampal neuron apoptosis underlies the behavioural differences observed between Calstabin2 KO and WT mice,we examined $\\mathrm { C a } ^ { 2 + }$ -dependent or $\\mathrm { C a } ^ { 2 + }$ activated potassium currents in hippocampal neurons. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/07da55816edf53b7dd004b6d346158c79e864bf8952e6b63d8c7f2200dbf6c01.jpg",
+        "img_caption": [
+            "Figure 2.Alteration of excitability in Calstabin2 deficient hippocampal neurons.(A) Representative recordings of $\\mathrm { A P s }$ in single hippocampal neurons from WT(left) and KO (right) mice.Deletion of Calstabin2 increased the spike firing frequency (B)and the peak amplitude(C)of APs,but the duration of the AP was shortened (D).Data are shown as the means $\\pm$ s.e.m. $^ { * } \\mathrm { p } < 0 . 0 5$ and $^ { * * } \\mathrm { p } < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The results from the combined patch-clampand confocal microscopy study indicated that deletionof Calstabin2 increased peak ${ \\mathrm { C a } } ^ { 2 + }$ to $2 . 1 4 \\pm 0 . 2 2$ (KO) from $1 . 6 1 \\pm 0 . 1 1$ (WT) (Fig. 5A, upper and B left, $\\mathrm { P } < 0 . 0 5 \\$ ; correspondingly, the $\\mathrm { I _ { A } }$ currents were increased to $3 2 9 . 8 \\pm 2 8 . 2 \\mathrm { p A / p F }$ (KO) from $2 0 3 . 8 \\pm 2 1 . 9 \\mathrm { p A / p F }$ (WT) (Fig.5A, lower,and B right, $\\mathrm { P } < 0 . 0 1$ ).Furthermore,single channel currents were also recorded with a holding potential at $+ 1 0 \\mathrm { m V } ,$ and the results demonstrated that the Calstabin2 deletion significantly increased the frequency of spontaneous transient outward currents (STOCS) in the $\\mathrm { C a } ^ { 2 + }$ activated potassium currents,from $0 . 0 2 \\pm 0 . 0 1 s$ in KO versus $0 . 0 8 \\pm 0 . 0 1 s$ in WT, $\\mathrm { P } < 0 . 0 1$ (Fig. 5C,D).These results indicate that deletion of Calstabin2 leads to alteration of the $\\mathrm { C a } ^ { 2 + }$ activated potassium currents in hippocampal neurons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Genetic deletion of Calstabin2 results in hippocampal neuron apoptosis. The significant neuronallossin the hippocampus ofthe brain is believed to lead to clinical symptoms,such ascognitivedecline.As cytoplasmic loss of $\\mathrm { K ^ { + } }$ can enable protease and nuclease activation during apoptosis28 and deletion of Calstabin2 activate ${ \\mathrm { C a } } ^ { 2 + }$ dependent potassium currents,we investigated whether apoptosis or cell death occurred due to the los of hippocampal Calstabin2.To assess cell death,the cultured hippocampal neurons were exposed to staurosporine (STS, $1 \\mu \\mathrm { M } _ { \\cdot } ^ { \\cdot }$ and double stained with Annexin Vand propidium iodide (PI); neurons were analysed by a flow cytometry-based apoptosis assy.Figure 6A presents PIand Annexin V binding of WTand KO hippocampal neurons,2hours before and after treatment with STS.The plots show the proportion oflive cells (annexin V-negative,PI- negative),earlyapoptoticcels (annexin V-positive,PI-negative)andlateapoptosis cels (annexin V-positive,PI-positive).Early and late apoptosis were significantly increased inboth baseline and STS treated hippocampal neurons derived from Calstabin2 KO mice compared with WT(Fig.6B,C).The number of early apoptosis neurons was increased to $9 . 5 2 \\pm 2 . 2 1$ (KO) from $3 . 3 1 \\pm 0 . 4 3$ (WT) in control groups,and increased to $3 9 . 5 \\pm 4 . 9 1 \\$ (KO) from $2 1 . 7 \\pm 2 . 6 2$ (WT) in STS treated groups respectively (Fig. 6B). The number of late apoptotic neurons was increased to $8 . 4 3 \\pm 1 . 1 6$ (KO) from $4 . 6 1 \\pm 0 . 7 1$ (WT) in control groups,and increased to $2 9 . 7 \\pm 7 . 1 1$ (KO) from $1 5 . 2 \\pm 2 . 6 3$ (WT) in STS treated groups (Fig. 6C).As seen in Fig.6D,the total apoptosis rate ofcells was increased to $1 2 . 4 \\pm 1 . 9 2$ (KO) from $7 . 8 1 \\pm 0 . 9 8$ (WT) in controls $( \\mathrm { P } < 0 . 0 5 )$ ,and to $5 4 . 3 \\pm 3 . 1 2$ (KO) from $3 8 . 6 \\pm 2 . 5 1 \\$ (WT) in STS treated groups $\\mathrm { \\cdot P } < 0 . 0 1 \\$ ). To confirm the rate of hippocampal neuron apoptosis,the activity of caspase3 was analyzed.As shown in Fig.6F,caspase $3 / 7$ activity was greatly increased in Calstabin2KO neurons compared to WT cells (from $1 7 . 1 \\pm 1 . 3 4$ in WTto $2 5 . 5 \\pm 1 . 5 6$ in KO, $\\mathrm { \\Delta P } < 0 . 0 5$ ); theactivity of caspase $3 / 7$ in cultured hippocampal neurons increased to $5 1 . 7 \\pm 5 . 3 2$ (KO) from $3 1 . 9 \\pm 2 . 2 3$ (WT)after treatment with STS $\\left( \\mathrm { P } < 0 . 0 1 \\right) ^ { \\cdot }$ ).Furthermore,we also conducted these experiments on brain slices fixed to slides. As shown inFig.6G,TUNEL staining ofbrain sections indicated that Calstabin2 KO mice exhibited significantly higher rates of cell death compared to WT littermates. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/072a8ff87efb59664b5c5cafc07615db58609dba92a657375a211c3de461347a.jpg",
+        "img_caption": [
+            "Figure 3.Genetic deletion of Calstabin2 reduces LTP in hippocampal neurons. (A) Representative experiments from WT(left)and KO mice (right) show averaged fEPSP comparing baseline and measurements taken in the last $5 \\mathrm { { m i n } }$ . (B) Time-course of fEPSP slope (me $\\mathrm { a n } \\pm { \\mathrm { s . e . m . } }$ ) from WT(black) and KO mice (grey). The arrow indicates timing of burst stimulation.(C) Quantification of change in fEPSP slope following burst stimulation,showing the average responses to the last 5minutes in control and mutant mice (mean $\\pm$ s.e.m.). $\\mathsf { \\Pi } ^ { * } \\mathtt { p } < 0 . 0 5$ compared with controls. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further confirm that excessive $\\mathrm { K ^ { + } }$ efflux promotes apoptosis in hippocampal neurons and STS induces significant apoptosis in Calstabin2 null hippocampal neurons,we examined the relationship between Ik, STS, Calstabin2 deletion and apoptosis of hippocampal neurons.Figure 7 shows that after treatment of cultured hippocampal neurons with STS $( { 1 } { \\mu } { \\bf { M } } )$ ， $\\mathrm { I _ { k } }$ was remarkably increased in both WT and KO cells compared with controls (from $1 3 4 . \\pm 6 . 9 9 \\mathrm { p A / p F }$ to $2 0 0 . 2 \\pm 1 9 . 4 \\mathrm { p A } / \\mathrm { p F }$ (WT, $\\mathrm { P } < 0 . 0 1$ )andfrom $4 2 3 . 6 \\pm 3 6 . 9 \\mathrm { p A / p F }$ to $9 2 2 . 7 \\pm 8 3 . 5$ $\\mathrm { p A } / \\mathrm { p F }$ (KO, $\\mathrm { P } < 0 . 0 1 \\dot  \\$ ),respectively). Significantly, STS treatment induced much larger $\\mathrm { I _ { k } }$ in Calstabin2 KO hippocampal neurons than in WT cells (from $2 0 0 . 2 \\pm 1 9 . 4 \\mathrm { p A } / \\mathrm { p F }$ in WT to $9 2 2 . 7 \\pm 8 3 . 5 \\mathrm { p A / p F }$ in KO). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Intracellular calcium $( \\mathrm { C a } ^ { 2 + }$ ) homeostasis plays a crucial role in regulating neurological processes including synaptic transmission,secretion, excitability,learning,and memory29.Altered $\\mathrm { C a } ^ { 2 + }$ release from the ER is a common underlying mechanism of neurological disorders $\\cdot 2 , 3 0 \\mathrm { - } 3 4$ . It has been reported that elevated intracellular ${ \\mathrm { C a } } ^ { 2 + }$ is associated with cognitive dysfunction due to brain injury and neurodegeneration35,36.Elevated intracellular ${ \\mathrm { C a } } ^ { 2 + }$ is associated with cognitive dysfunction via brain injuryand/or neurodegeneration,as in the cases of Alzheimers disease and physiological aging6-38.Numerous studies have shown alterations of expresion and function of RyRs in different murine models of alzhermers disease (AD),inhuman AD-affected brains,and in cells expressing familial AD-linked mutations on the $\\beta$ -amyloid precursor protein and presenilins39-41. Indeed, in the present study, we show that genetic deletion of Calstabin2,a protein that selectively binds and stabilize the RyR2 ${ \\mathrm { C a } } ^ { 2 + }$ release channel,caused cognitive dysfunction of mice (Fig.1).Calstabin2 stabilizes the closed state of RyR2,preventing aberrant ${ \\mathrm { C a } } ^ { 2 + }$ leak through the channel³5.It is known that RyR2 (but not RyR1) is involved in stress-induced cognitive dysfunction,and that neuronal RyR2 remodeling by PKA hyperphosphorylation, oxidation,and nitrosylation plays an important role in cognitive dysfunction6. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/01a2200b1352a931442748db71c741a4a36e502dd0a767f37c82c2963419a463.jpg",
+        "img_caption": [
+            "Figure 4. Genetic deletion of Calstabin2 alters $\\mathbf { C a ^ { 2 + } }$ release property in mouse hippocamtal neurons. (A)A typical recording of spontaneous ${ \\mathrm { C a } } ^ { 2 + }$ release event in WT (gray) and KO (black) hippocampal neuron. $\\mathrm { C a } ^ { 2 + }$ release was significant altered by deletion of Calstabin2 (B-E).(F) Profiles of caffeine $( 1 0 \\mathrm { m M } )$ induced $\\mathrm { C a } ^ { 2 + }$ release in WT (gray, $\\mathbf { n } = 2 2$ from 6 mice) and KO (black, $\\mathrm { n } = 1 8$ from 6 mice) hippocampal neurons; the ER $\\mathrm { C a } ^ { 2 + }$ content was significantly decreased by deletion of Calstabin2 (F,G); intracellular resting $\\mathrm { C a } ^ { 2 + }$ was greatly increased in KO cells $\\mathbf { \\Pi } ( \\mathbf { H } )$ .(I) Deletion of Calstabin2 increases calcium induced calcium release (CICR) in mouse hippocampal neurons.The cell membranes were depolarized to $\\boldsymbol { 0 } \\mathrm { m V }$ from the hold potential $- 5 0 \\mathrm { m V }$ with a depolarization duration of $2 5 0 \\mathrm { m s }$ Calstabin2 KO did not affect the amplitudes of Ica (Ca,upper),while the peak of the intracellular $\\mathrm { C a } ^ { 2 + }$ releases was significant increased (lower). (J,K) Summary data of ICa and $[ \\mathbf { C a ^ { 2 + } }$ li.Data are shown as the means $\\pm$ s.e.m.; ${ ^ { * } \\mathrm { P } } < 0 . 0 5$ and $^ { * * } \\mathrm { \\text P } < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ability to store long-term memories is dependent upon the hippocampus of the brain,so patients with damage to this region are unable to form new LTMof day-to-day events31.Given their importance,the hippocampal neurons have been used to reveal the molecular mechanism underlying genetic deletion of Calstabin2 causing cognitive dysfunction of mice in the present study.Our electrophysiological study demonstrated that properties ofthe APs were significantly altered in the hippocampal neurons from Calstabin2 KO mice (Fig. 2), suggesting that abnormal action potential conduction is one of the downstream consequences of increased RyR2-mediated $\\mathrm { C a } ^ { 2 + }$ leak in hippocampal pyramidal neurons24. This result was further confirmed by our findings that deletion of Calstabin2 resulted in a significant alteration of $\\mathrm { C a } ^ { 2 + }$ release,wherein RyR2 channel leak led to sharp increases in the resting ${ \\mathrm { C a } } ^ { 2 + }$ of hippocampal neurons (Fig.4).Postsynaptic plasticity of hippocampal neurons reflects long-term hippocampal-type memory; CA3 and CAl regions have revealed their distinct functions in learning and memory42,43,and the reduction ofLTPatthe hippocampal CA3-CA1 connection has been recognized as relating todeficits in learningand memory44.Indeed,in this study we demonstrated that genetic deletion ofCalstabin2 resulted in aclear reduction ofLTP(Fig.3),further indicating that learning and memory were impaired in the null mice. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The significant synaptic and neuronal loss in the basal forebrain,hippocampus and cortex of the brain is believed to manifest as cognitive decline.Celldeath or apoptosis is considered the main reason for neuronal loss in cognitive dysfunction4546. Consistently, we show that genetic deletion of Calstabin2 results in significant hippocampal neuron apoptosis,both in vitroand invivo (Fig.6).Importantly, mitochondria playa central role in mediating apoptosis, generating reactive oxygen species (ROS),and maintaining intracellular calcium homeostasis; thus,mitochondrial abnormalities maybe linked to the pathogenesis of neurological disorders41,47. Recently,calcium leak due to leaky RyR channels hasbeen demonstrated to playa mechanistic role in determine mitochondrialdysfunction inmuscle weaknes48,49,heartfailurel6,atrialfibrilation5and type2diabetes17.Inthe present study,we found leaky RyR2 channels and mitochondrial dysfunction might bea key link between $\\mathrm { C a } ^ { 2 + }$ disturbance and apoptosis.Besides,it has been reported that one of the majorleading causes of neuronal death/ apoptosis is the loss of intracellular $\\mathrm { K ^ { + } }$ , due to the activation of $\\mathrm { C a } ^ { 2 + }$ activated potassium current28.51,52. In agreement with the reported results,we found that deletion of Calstabin2 led to increases in hippocampal potassium currents as a result of intracellular ${ \\mathrm { C a } } ^ { 2 + }$ dysregulation (Figs 4 and 5). Excessive $\\mathrm { K ^ { + } }$ efflux promotes apoptosis in hippocampal neurons, which was further confirmed by our findings that STS treatment induced much larger $\\mathrm { I _ { k } }$ in Calstabin2 KO hippocampal neurons than that in WT(Fig.7). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/08ad9d26a8e359e3b51fab67c100968b3e26e99278d1dbb76fc9403a505ea8bb.jpg",
+        "img_caption": [
+            "Figure 5. Genetic deletion of Calstabin2 activates $\\mathbf { C a ^ { 2 + } }$ dependent ${ { \\bf K } } ^ { + }$ currents in hippocampal neurons. (A) Simultaneous recording of ${ \\mathrm { C a } } ^ { 2 + }$ release events and $\\mathrm { K ^ { + } }$ currents using combined patch-clamp/confocal microscopy technique.Representative recordings of ${ \\mathrm { C a } } ^ { 2 + }$ transients (upper) and $\\mathrm { K ^ { + } }$ currents (IA,lower) in WT (left) and KO (right) hippocampal neurons. (B) Summary of the peak ${ \\mathrm { C a } } ^ { 2 + }$ (left) and $\\mathrm { K ^ { + } }$ currents (right). (C) Single channel recordings of spontaneous transient outward currents in WTand KO mouse hippocampal neurons.(D) Summary of data in C.Data are shown as the means $\\pm$ s.e.m.; the numbers indicate cells/mice; $^ { * } \\mathrm { p } < 0 . 0 5$ and $^ { * * } \\mathrm { { P } } < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On limitation of our study is that Calstabin2 knockout mice used are not hippocampal cell specific,but global knockout.Therefore,we cannot exclude the posibility that leaky RyR2 channels due to Calstabin2 deletion in otherorgans also contribute to the cognitive dysfunction observed in mice with Calstabin2 deletion.In addition, we did not perform the rescue experiments of overexpression of Calstabin2 in hippocampus in our KO mice by intrahippocampal injection of alentiviral vector53.Such experiments could have helped distinguish between the roles of Calstabin2 in hippocampus function versus the other tissues.Furthermore,we plan to cross the Calstabin2 KO mice with mouse model of Alzheimer disease (APPPS1 mice)to further elucidate the function of Calstabin2 in neurological disease. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,our study reveals that genetic deletion of Calstabin2 leads to leaky RyR2 channels.This results in perturbation of intracellular ${ \\mathrm { C a } } ^ { 2 + }$ homeostasis in hippocampal neurons. The increases in intracellular resting ${ \\mathrm { C a } } ^ { \\bar { 2 } + }$ activate ${ \\mathrm { C a } } ^ { 2 + }$ dependent potassium currents,which causes hippocampal neuron apoptosis. This loss of hippocampal neurons led to significant cognitive dysfunction in Calstabin2 KO mice. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Animals. Calstabin2 KO mice were generated using homologous recombination to disrupt exon 3 of the Fkbplb gene,as previously described8.All experiments were performed in accordance with the relevant guidelines and regulation that were approved bythe Commitee on Animal Care of Institute of Biophysics,Chinese Academy of Sciences,China.Mice were housed in sterile barrer facilities with equal day/night periods. Unless otherwise stated,paired littermates (both male and female) were used for the study to randomize genetic variation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Behavior studies.Morris water maze task.MWM was performed follwing the protocol described, with minor modifications (20). We used 8-12 week old WT and Calstabin2 KO mice in the present study. One day before the trial, the mice were released into a $1 2 2 \\mathrm { - m m }$ diameter water tank and swum for1min.Learning trials werecarriedout for9consecutive days,with 2trails perday.Ineverytrail,mice were required toreach the platform in $1 \\mathrm { m i n }$ ,and then were left on the platform for15s.The value of each day was averaged from this 2 trails.A probe was conducted $2 4 \\mathrm { h }$ later after the mouse's last trial. The platform was removed,and mice were allowed to returnto the platform's previous position forlmin.Mice were tracked bya video camera (Sony) inboth trials and probe.Collected data were analyzed by SMART 2.5 software (Panlab,Harvard Apparatus). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d949fd6e47cd6ae7832753dd52fbdf81d411b47aa7b0041a0c03c564f0e838a0.jpg",
+        "img_caption": [
+            "Figure 6. Calstabin2 deletion results in hippocampal neuron apoptosis.(A)Analysis of PI and annexin V binding of WTand KO hippocampal neurons 2hours before and after treatment with staurosporine $( 1 \\mu \\mathrm { m } )$ ： The plots indicate the proportion oflive cels (annexin V-negative,PI- negative),earlyapoptoticcels (annexin V-positive,PI-negative)anddying cels (annexin V-positive,PI-positive);(B,C)are the summary dataof early and late apoptotic cels in WT and Calstabin2 KO hippocampal neurons ( $\\mathrm { F } _ { ( 3 , 3 8 ) } { = } 2 2 . 5$ in (B) $\\mathrm { F } _ { ( 3 , 3 8 ) } { = } 6 . 8$ （20 in (C)one way ANOVA). (D) Representative images of STS-induced apoptosis in hippocampal neurons. Hippocampal neurons from WT and Calstabin2 KO mice were exposed to $1 \\mu \\mathrm { M }$ STP for 2hours and fixed with $4 \\%$ paraformaldehyde,and their nuclei were stained by DAPI.Apoptosis was quantified as the percentage of cells with fragmented nuclei. White arrow heads indicate apoptotic and fragmented nuclei.Summary of the total cell death rate (E)and caspase $3 / 7$ protease activity (F) induced by STS $( \\mathrm { F } _ { ( 3 , 4 9 ) } = 8 6 . 2 \\$ ; F value of STS- WT and $\\mathrm { K O } = 1 5 . 3 6$ in (E) $\\mathrm { F } _ { ( 3 , 4 9 ) } = 1 9 . 5$ in (F) one way ANOVA). (G) TUNEL staining of brain sections indicated that Calstabin2 KO mice exhibited significantly higher rates of celldeath comparedto WTlitermates.Data are presented as mean $\\pm \\mathrm { S . E }$ .for four separate experiments. $^ { * } \\mathrm { p } < 0 . 0 5$ $^ { * * } \\mathrm { p } < 0 . 0 1$ and $\\mathsf { \\Psi } ^ { \\ast \\ast \\ast \\ast } \\mathrm { P } < 0 . 0 0 1$ compared with control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Contextual fear conditioning.Training and testing were performed as previously published protocols with slight modifications54-56.In brief, mice were placed in a square chamber apparatus $( \\mathrm { L } \\times \\mathrm { W } \\times \\mathrm { H }$ in cm, $2 5 \\times 2 5 \\times 4 0$ ).The training sessions consisted ofa l2Os exploration period as baseline and followed by two times of CS-US (conditioned/unconditoned stimulus) pairings separated by one minute (tone $8 0 \\mathrm { d b }$ white noise, $2 8 s$ duration; foot-shock intensity $0 . 2 \\mathrm { m A }$ ,2s duration). Testing sessions were performed 24 hours later. The mice trained before were placed in the same training chamber.After $2 \\mathrm { m i n }$ habituation,a sound was given for $3 \\mathrm { m i n }$ ： Freezing behavior was defined as the absence of movement except for respiration (Fanselow,l980)and was recorded by SMART v2.5 software (Panlab; Harvard Apparatus). Chambers were carefully cleaned using $70 \\%$ （204号 ethanol between each trial. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Open field test.Mice were individually placed in an open-field apparatus $( \\mathrm { L } \\times \\mathrm { W } \\times \\mathrm { H }$ in $c \\mathrm { m }$ $9 0 \\times 9 0 \\times 4 5$ ） No prehabituation were done in the arena.Mice were allowed to explore freely for $1 5 \\mathrm { m i n }$ and the movement was recorded by a video camera (Sony).Time spent in the center (seconds)and periphery (seconds) was recorded to test the locomotor activitylevel.Data were collected and analyzed using SMART $\\mathbf { v } 2 . 5$ software (Panlab;Harvard Apparatus). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rotarod performance study.Motor coordination and balance were tested using an accelerating rotarod (YLS-4C,ShangHai Biowil Co.).The rotarod test was performed by placing mice on arotating drum and measuring how long each animal was able to maintain its balance walking on topofthe rod.The speed of the rotarod accelerated from4 to $4 0 \\mathrm { r p m }$ over a five min period.Mice were subjected to three trials,with a maximum time of $5 \\mathrm { { m i n } }$ and a $1 5 \\mathrm { m i n }$ inter-trial test interval.3 trials per animal were averaged. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1aaa07a6f0e49bc1886f6d041933c947f3323d6fb8d779b5cf53eef78d913e46.jpg",
+        "img_caption": [
+            "Figure 7.Deletion of Calstabin2 augments staurosporine induced ${ { \\bf K } } ^ { + }$ currents in hippocampal neurons. Outward $\\mathrm { K ^ { + } }$ currents (Ik) were elicited by stepping to a conditioning voltage by depolarizing from $- 4 0 \\mathrm { m V }$ to $+ 6 0 \\mathrm { m V }$ in increments of $1 0 \\mathrm { m V . } 0 . 5 \\mathrm { n M }$ STS was introduced through patch pipettes.(A) Sample of Ik recorded from WT hippocampal neurons without (left)or with (right) STS.(B)Representatives of Ik recorded from Calstabin2 KO cels in presence (right))or absence (left)of STS. (C) Summary of Ik.Data are presented as mean $\\pm \\mathrm { S . E }$ . for four separate experiments $( \\mathrm { F _ { \\ 3 , 9 0 ) } } = 1 0 5 . 8$ one way ANOVA) $^ { * * } \\mathrm { \\mathtt { p } } < 0 . 0 1$ compared with control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Field excitatory postsynaptic potentials.Rapid cervical dislocation followed by decapitation was carried out to sacrifice the mice.Transverse hippocampal slices $( 3 0 0 ~ { \\mu \\mathrm { m } } )$ were prepared usinga vibratome (VT1200S,Leica) in oxygenated $9 5 \\%$ $\\mathrm { O } _ { 2 }$ and $\\% 5 \\mathrm { C O } _ { 2 } \\mathrm { . }$ ice-cold sucrose-based artificial cerebrospinal fluid (sucrose-based ACSF) containing(in mM):234 Sucrose, $2 . 5 \\mathrm { K C l }$ $2 6 \\mathrm { N a H C O _ { 3 } }$ 0 $1 . 2 5 \\mathrm { N a H } 2 \\mathrm { P O } _ { 4 } ,$ 11 D-Glucose, 0.5 $\\mathrm { C a C l } _ { 2 }$ and $1 0 \\mathrm { M g } \\mathrm { S O } _ { 4 }$ .The slices were kept in an incubating chamber filled with oxygenated ACSF (in mM: 126 NaCl, 3 KCl, $2 6 \\mathrm { N a H C O _ { 3 } }$ ， $1 . 2 \\mathrm { N a H } 2 \\mathrm { P O } _ { 4 } ,$ 10 D-Glucose, $2 . 4 \\dot { \\mathrm { C a C l } _ { 2 } }$ and $1 . 3 \\mathrm { M g C l } _ { 2 } ^ { \\cdot }$ at $3 4 ^ { \\circ } \\mathrm { C }$ After a recovery period of atleast 6O minutes,an individual slice was transferred toa recording chamberand wascontinuouslysuperfused with oxygenatedACSF atarate of $5 \\mathrm { m l }$ per minute at $3 0 \\pm 1 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Field excitatory postsynaptic potentials (fEPSPs) were recorded using ACSF-filled glass pipettes $_ { ( 3 - 5 \\mathrm { M } \\Omega ) }$ （20 placed at the stratum radiatum of area CA1.fEPSPs were evoked by using concentric bipolar electrode (WPI), which was used to stimulate the schaeffer collateral (SC) fibers with a brief current pulse $( 1 0 0 \\mu s )$ . The current pulse was delivered by stimulus isolation unit (ISO-Flex,A.M.P.I.)every 3Os.The distancebetween stimulating electrode and recording pipette is $2 0 0 { - } 3 0 0 \\mu \\mathrm { m }$ .An input-output curve was used to set the stimulating strength, which yielded $3 0 \\text{‰}$ of the maximal slope.After obtaining baseline measurements for 30 minutes,LTP was induced using 0-burst stimulation (BS,burst containing 4 pulses at $1 0 0 \\mathrm { H z }$ repeated at $5 \\mathrm { H z }$ and two 10-burst trains separated by 2Os).Evoked fEPSPs were recorded for 1h after tetanization.Signals were fltered at $2 \\mathrm { k H z }$ and digitized at $1 0 0 \\mathrm { k H z }$ using Digidata l440A (Molecular Devices). Data acquisition and slope measurement were carried out using pClamp 10.2 (Molecular Devices), pulse generation was achieved using Master 8(A.M.P.I.). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Neuronal cellculture.Hippocampal neurons were acutely dissociated and cultured according to a previous method57 with slight modification. Briefly,the hippocampal were dissected from neonatal mice (within $2 4 \\mathrm { h }$ after birth).The hippocampal neurons were dissociated by incubation (7 min, $3 7 ^ { \\circ } \\mathrm { C }$ and $5 \\% \\mathrm { C O } _ { 2 } \\mathrm { . }$ in $0 . 2 5 \\%$ Trypsin-EDTA(GIBCO) and triturated in DMEM(GIBCO) supplemented with $1 0 \\%$ bovine serum (Hyclone). The resulting hippocampal cells were plated at a density of $2 \\times 1 { \\bar { 0 } } ^ { 5 } \\mathrm { c e l l s } / \\mathrm { c m } ^ { 2 }$ onto polyL-lysine (Sigma, St.Louis, MO,USA) coated glass coverslips (Matsunami,Japan).The coverslips were then incubated at $3 7 ^ { \\circ } \\mathrm { C }$ in a humidified atmosphere of $9 5 \\%$ O2 and $5 \\%$ $\\mathrm { C O } _ { 2 }$ .The media was replaced 7h laterwithNeurobasal TM-AMedium, B-27 (GIBCO) and $0 . 5 \\mathrm { m M }$ glutamine without antibiotic solution.After 48h culture the media was changed to Neurobasal and B-27. Hippocampal pyramidal neurons were identified morphologicaly by their large pyramidal shaped cellbody with a thick stump ofapical dendrite.Hippocampal neurons were cultured for6days in vitro (DIV).All experiments were performed at room temperature $( 2 2 - 2 5 ^ { \\circ } \\mathrm { C } )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Patch Clamp Recordings.Whole cellcurrents and APs from hippocampal neurons were recorded with multi-clamp 200B,then inputed into pClamp 9(Axon Instrument Inc.,Foster CA, USA)for data acquisition and analyses.Voltage-clamp recordings were low-pass filtered at $2 \\mathrm { k H z }$ ,and current-clamp recordings were low-pass filtered at $5 \\mathrm { k H z }$ .Pipettes were fire-polished to give a final resistance of $3 { - } 5  { \\mathrm { M } }  { \\Omega }$ for whole-cell recording.Pipette and membrane capacitances were compensated forautomaticaly with the amplifier.Series resistance compensation of $5 0 \\mathrm { - } 7 0 \\%$ was employed routinely to reduce voltage error. Offset potentials were nullified directly before formation of the seal.Transients and leakage currents were recorded and digitall subtracted ofline in all experiments using averaged recordings with hyperpolarizing impulses ( $\\mathrm { 1 0 0 m s }$ voltage steps from $\\phantom { 0 } { - 8 0 }$ to $- 1 2 0 \\mathrm { m V } )$ that did not activate currents.Fresh pipette solution was filtered with $0 . 1 \\mu \\mathrm { M }$ centrifuge filter. The pipette solution osmolarity was $2 9 5 { - } 3 0 5 \\mathrm { m O s \\ m o l }$ .The extracellular solution used was HANKS'Balanced salts solution (HBSs, Sigma), containing (in mM) $1 . 3 \\mathrm { C a C l } _ { 2 }$ $0 . 8 \\mathrm { M g } \\mathrm { S O } _ { 4 } ,$ （20 $5 . 4 \\mathrm { K C l }$ 0 $0 . 4 \\mathrm { K H } _ { 2 } \\mathrm { P O } _ { 4 } ,$ （204号 $1 3 6 . 9 \\mathrm { N a C l }$ $0 . 3 \\mathrm { N a } _ { 2 }$ $\\mathrm { P O } _ { 4 }$ ,10 D-glucose and $4 . 2 \\mathrm { N a H C O } _ { 3 }$ The intracellular solution for $\\mathrm { K ^ { + } }$ currents and action potential recordings contains (in mM) $1 4 0 ~ \\mathrm { K C l }$ 2 $\\begin{array} { r } { \\mathbf { M g C l } _ { 2 } , } \\end{array}$ $\\mathsf { 2 C a C } _ { 2 }$ ,1 EGTA,2 $\\mathrm { N a } _ { 2 }$ ATP and 10 HEPES at $\\mathrm { p H } 7 . 3$ .For current clamp, neurons were held at potentials between $- 7 0$ to $- 6 0 \\mathrm { m V }$ with steady injection of current.APs were evoked by injecting current of $2 0 0 \\mathrm { { m s } }$ duration,while amplitude was increased from $- 2 0$ to $2 0 \\mathrm { p A }$ in steps of $1 0 \\mathrm { p A }$ . The components of voltage-dependent $\\mathrm { K ^ { + } }$ currents were isolated using voltage-clamp protocols.The total $\\mathrm { K ^ { + } }$ currents were recorded in response to depolarizing voltage steps from a holding potential of $- 9 0 \\mathrm { m V }$ to $+ 7 0 \\mathrm { m V }$ in a step of $2 0 \\mathrm { m V } ,$ which activated outward currents consisting of two major components:a fast transient $\\mathrm { I } _ { A }$ and a delayed rectifier $\\mathrm { I _ { k } }$ currents. When a $1 0 0 \\mathrm { { m s } }$ was prepulsed to $- 4 0 \\mathrm { m V }$ preceded the test pulses,almost all of the transient $\\mathrm { I _ { A } }$ current was inactivated,leaving the outward rectifier $\\mathrm { I _ { k } }$ current.The transient $\\mathrm { I _ { A } }$ currents were obtained by subtracting $\\mathrm { I _ { k } }$ from the total $\\mathrm { K ^ { + } }$ currents. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To record ${ \\mathrm { C a } } ^ { 2 + }$ channel currents,the chamber was perfused with a bathing solution containing(in mM): 132 Choline-Cl,4 CaCl2,5 Hepes, $1 \\mathrm { M g C l } _ { 2 }$ ,10 glucose,4 CsCl, 20 TEA,0.0005 TTX,pH adjusted to 7.4 with CsOH. The intracelular solution was (in mM):120 CsCl,20 TEA,5 EGTA,5 MgATP,5 Hepes,1EDTA,pHadjusted to 7.3with CsOH. The inward $\\mathrm { N a ^ { + } }$ currents were blocked by TTX.In some cases,voltage-clamped cells were dialyzed with $1 0 \\mu \\mathrm { M }$ Fluo-4 and simultaneously scanned to measure ${ \\mathrm { C a } } ^ { 2 + }$ transients. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The signal calcium-activated potassium channel currents were recorded incellatached mode,and cells were clamped at $+ 3 0 \\mathrm { m V } .$ Currents were filtered at $5 0 0 \\mathrm { H z }$ and digitized at $2 \\mathrm { k H z }$ .Pipette resistance was $5 { - } 7  { \\mathrm { M } }  { \\Omega }$ . The intracellular solution was (in mM): $1 3 0 \\mathrm { K C l }$ 5 $2 \\mathrm { M g C l } _ { 2 }$ ， ${ \\mathrm { 1 } } \\mathrm { N a } _ { 2 } \\mathrm { A T P } ,$ $1 . 1 \\mathrm { C a C l } _ { 2 }$ ，1EGTA, $\\mathrm { p H } 7 . 3$ ,and the extracellular solution was: $1 4 0 \\mathrm { N a C l }$ ,3KCl, $2 \\mathrm { C a C l } _ { 2 }$ 1 $\\mathrm { \\ 1 M g C l _ { 2 } }$ ,10 HEPES,0.0005 TTX,14-aminopyridine (4-AP),0.005 glybenclamide,and 10 glucose; $\\mathrm { \\Delta p H }$ adjusted to 7.4 with NaOH. TTX,4-AP,and glybenclamide were included routinely in the $\\mathrm { K ^ { + } }$ recording solution unless otherwise indicated.4-AP $( 1 \\mathrm { m M } )$ was used to reduce voltage-gated $\\mathrm { K ^ { + } }$ currents and unmask $\\bar { \\mathrm { C a } ^ { 2 + } }$ dependent $\\mathrm { K ^ { + } }$ currents.A low concentration of 4-AP was chosen to minimize possible nonspecific blockade of other $\\mathrm { K ^ { + } }$ currents,such as SK currents.Experiments were conducted at room temperature $( 2 2 - 2 5 ^ { \\circ } \\mathrm { C } )$ .Extracellular recording solution contained a mixture of channel blockers: 4-AP, $1 \\mathrm { m M }$ 5 for transient voltage-gated $\\mathrm { K ^ { + } }$ current; TTX, $0 . 0 0 0 5 \\mathrm { m M }$ ,for $\\mathrm { N a ^ { + } }$ current; and glybenclamide, $0 . 0 0 5 \\mathrm { m M }$ ,for ATP-sensitive $\\mathrm { K ^ { + } }$ current.These agents were added routinely to the recording buffer unless otherwise stated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Measurement of $\\mathsf { C a } ^ { 2 + }$ Fluorescence. Hippocampal neurons were incubated with $1 0 \\mu \\mathrm { M }$ Fluo-4 AM (Molecular Probes) for $1 0 \\mathrm { m i n }$ at room temperature and transferred into a recording chamber. Cells were then perfused with extracellular solution (see above) for $4 0 \\mathrm { m i n }$ .Fuo-4 fluorescence was recorded using Leica SP5 confocal microscope equipped with an argon laser ( $\\langle 4 8 8 \\mathrm { n m } \\rangle$ at a magnification of $6 0 \\mathrm { x }$ using an oil immersion objective $( 1 . 2 5 \\mathrm { N A } )$ .For the measurements of SR ${ \\mathrm { C a } } ^ { 2 + }$ load, $1 0 \\mathrm { m M }$ caffeine was added via pipette. Images were acquired either using X-t scan or x-y-t scan. Images were processed and analyzed using MATLAB 7.1 software (MathWorks)or ImageJ (Scioncorp). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Resting $\\mathsf { C a } ^ { 2 + }$ measurement. Resting $\\mathrm { C a } ^ { 2 + }$ of hippocampal neurons were measured as previously described.Briefly,cells were incubated with $1 0 \\mu \\mathrm { M }$ Fura-2 AM(Invitrogen) for $4 5 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ .After loading, the cels were washed several times and transfered to a recording chamber. Photometry measurements were made using a wide-field Olympus cell^R system,operated at an emission wavelength of $5 1 0 \\mathrm { n m }$ ,with excitation wavelengths of 340 and $3 8 0 \\mathrm { n m }$ .The relative resting $\\mathrm { C a } ^ { 2 + }$ level (estimated bya ratio of $3 4 0 \\mathrm { n m } / 3 8 0 \\mathrm { n m }$ )wasrecorded and data were analyzed using Olympus cell $\\scriptstyle \\wedge \\mathrm { R }$ Software. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Neuronal cell death assay.Postnatal Day 6 hippocampal neurons of both WTand KO mice were treated with $1 \\mu \\mathrm { M }$ STS (Aldrich,St.Louis,Missouri) for 24hours.To assay cell death,the cells in each group were fixed in $9 5 \\%$ ethanol for $5 \\mathrm { { m i n } }$ ,washed with phosphate-buffered saline,and stained with 4,6-diamino-phenylindole (DAPI, $5 \\mu \\mathrm { m o l } / \\mathrm { L } ,$ Roche) for $1 5 \\mathrm { m i n }$ .Images of the cells were obtained by using Leica SP5 confocal.At least 200 nuclei were counted in 4 randomly chosen subfields within each neuronal culture to determine,based on the appearance of apoptotic bodies,the percentage of apoptotic cells. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometer analysis. Detection of apoptosis in cultured hippocampal neurons were performed according to the manufacturer's instruction (Annexin V-FITC Apoptosis Detection Kit, Beyotime).Briefly,cells were washed for two times with PBS; $1 - 5 \\times 1 0 ^ { 5 }$ cells were collected and suspended in $5 0 0 \\mu \\mathrm { l }$ binding buffer followed by the addition of both Annexin V-FITC( ${ \\bf \\dot { \\rho } } _ { 5 \\mu \\mathrm { l } } )$ and $\\mathrm { P I } ( 5 \\mu \\mathrm { l } )$ . After $5 { - } 1 5 \\mathrm { m i n }$ of dark incubation at room temperature,the cels were analysed using flow cytometer (Becton Dickinson)within 1h. After seting the gate around the hippocampal neuron population,the data were analyzed by CellQuest software (BD).The results were presented as two-colour fluorescent diagrams ofcels stained with anti-annexin V-FITC and PI. Cellapoptotic rate was calculated as Annexin V-FITC positive staining for early apoptosis,and both Annexin V-FITC and PI positive staining for late apoptosis/death. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Detection of caspase- $3 1 7$ protease activity. Cultured hippocampal neurons were cultured in 96-well plates and treated with $1 \\mu \\mathrm { M }$ STS (Aldrich, St. Louis, Missouri). CaspaseGloTM 3/7 Assay Kit (Promega) was applied to evaluate the activity of caspase-3/7 protease.After treatment with STS $( 2 4 \\mathrm { h r } )$ ， $1 0 0 \\mu \\mathrm { l }$ of homogenous caspase- $3 / 7$ reagent was added to each well of the cultured neurons.The contents of wells were gently mixed and incubated at room temperature for $4 5 \\mathrm { { m i n } }$ .The luminescence intensity of each sample was measured with VeritasTM Microplate Luminometer (P/N 9100-0o0).Experiments were performed four times per each of the 12 mice. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TUNEL analysis. Mouse brains were fixed in $1 0 \\%$ phosphate-buffered formaldehyde for 24hours,dehydrated with ethanoland histoclear,and embedded in parafn.Formalin-fixed,paraffn-embedded brainsections were deparaffinized in xylene three times for $1 0 \\mathrm { m i n }$ ,followed byrehydrationin graded alcohol ( $1 0 0 \\%$ 0 $9 5 \\%$ 0 $8 5 \\%$ 0 and $7 0 \\%$ ),and then washed three times with PBS for $5 \\mathrm { { m i n } }$ .Brains sections $( 5 \\mu \\mathrm { m } )$ were processed for Hoechst/ terminaldeoxynucleotidyltransferase-mediated biotinylated UTPnickend labeling(TUNEL),double labeled using In Situ CellDeath Detection kit as per the manufacturer's instructions (Roche Molecular Biochemicals, Mannheim,Germany).The numberofTUNEL-positivecell and totalcels in brains tissue sections were counted under Leica SP5 confocal microscope. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Data Analysis. All data are the mean $\\pm \\operatorname { S E M }$ for at least 3 experiments.Data were analyzed with Origin 7.0 (Origin Lab,Northampton,MA,USA).Data were analyzed statisticaly using the unpaired Student's ttest, 2-tailed (for 2 groups),and 1-way ANOVA with Tukey-Kramer post hoc correction (for groups of 3 or more) unless otherwise.The criterion for a significant difference was ${ ^ { * } \\mathrm { P } } < 0 . 0 5$ and $^ { * * } \\mathrm { P } < 0 . 0 1$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.Berridge,M.J.&Taylor,C.W.InositoltrisphosphateandcalciumsignalingColdSpring HarbSympQuantBiol53t2,927-933 (1988).   \n2.Bezprozany1.&attson,PNeuroalcalciummsandlingandteathogenesisoflzeimer'ssease.Tensuroi1, 454-463,doi: 10.1016/j.tins.2008.06.005 (2008).   \n3.Bezprozvanny,I.B.Calcium signaling and neurodegeneration.Acta Naturae 2,72-82 (2010). 4.Mattson,M.P.Calciumandneurodegeneration.AgingCell6,337-350,doi:10.111/j.1474-9726.2007.00275.x(2007). 5.Fitzjohn,S.M.&Colingridge,G.L.Calcium stores and synaptic plasticity. CellCalcium 32,405-411(2002).   \n6.Liu,X.etolealesudioell6. cell.2012.06.052 (2012). 7.Yuan,Q.etal.FunctionalroleofCalstabin2inage-relatedcardiacalterations.SciRep4,742,doi:138/srep7425(014).   \n8. Xin,H.B.etal.OestrogenprotectsFKBP12.6nullmicefrocardiachypertrophy.Nature416,34-338,doi:10038/4634a (2002).   \n9.Ji,G.et al.RYR2 proteins contribute to the formation of $\\operatorname { C a } ( 2 + )$ sparks n smooth muscle.J Gen Physiol123,377-386,doi: 10.1085/ jgp.200308999 (2004).   \n10.Hoefer,CA.alRemoalofK2ancesO-Raptornteractios,LTemoryndperseverativeepetitii Neuron 60,832-845,doi: 10.1016/j.neuron.2008.09.037 (2008).   \n11.Wehrens,X.H.etal.Enhancingcalstabinbndingtoranodinereceptorsimprovescardiacandskeletalmusclefunctionineart failure.Proc Natl Acad Sci USA 102,9607-9612,doi: 10.1073/pnas.0500353102 (2005).   \n12.Wehrens,X.H.etal. Ryanodine receptor/calciumreleasechannelPKA phosphorylation: acriticalmediatorof heartfailure progression.Proc Natl Acad Sci USA103,511-518,doi:10.1073/pnas.0510113103 (2006).   \n13.Shan,J.etal.Roleofchronicryanodinereceptorphosporylationineartfaureandbeta-adrenergicreceptorblockadeice.J Clin Invest 120,4375-4387,doi: 10.1172/JCI37649 (2010).   \n14.Shan,J.etlPhosphorylationoftheryanodinereceptormediatesthecardiacfghtorflightresponseinmice.JClnInvest10, 4388-4398,doi: 10.1172/JCI32726 (2010).   \n15.Wehrens,X.H.etal.FKBP2.deficiencyanddefectivecalciumreleasechannel(ryanodinereceptor)functionlinkedtoercise induced sudden cardiac death.Cell113,829-840 (2003).   \n16.Santull,G.,Xie,W,Reiken,S.R.&arks,A.R.Mitochondrialcalumoverloadiskeydeterminantinartflre.ProcNatl Acad Sci USA 112,11389-11394,doi:10.1073/pnas.1513047112(2015).   \n17.Santull,Gal.Celeasehaelglatesisuineleasducoeoeostasis.JClnest56 10.1172/JCI79273 (2015).   \n18.Marks,A.R.Calcium cycling proteinsand heart failure: mechanismsand therapeutics.JClin Invest123,46-52,doi:10.172/ JCI62834 (2013).   \n19.Gellen,B.etal.ConditioalFKB2.6overexpressioninousecadiacmyoyespreventstriggeredventriculartachardia through specificalterations inexcitation-contractioncoupling.Circulation117,1778-1786,doi:10.116/CIRCULATONAHA. 107.731893 (2008).   \n20.Kron,M.& Muller,M.Impaired hippocampal $\\mathrm { C a } ^ { 2 + }$ homeostasis and concomitant $\\mathrm { K ^ { + } }$ channel dysfunction in a mouse model of Rett syndrome during anoxia. Neuroscience 171,300-315,doi:10.10l6/j.neuroscience.2010.08.031(2010).   \n21.Yu,S.Petal.Roleoftheoutwarddelayedrectifier $\\mathrm { K ^ { + } }$ current in ceramide-induced caspase activation and apoptosis in cultured cortical neurons.JNeurochem 73,933-941 (1999).   \n22.Kuiper,E.FetlK(C)2d(ca)3elsiargdyrocesdurdgeeratirontcol doi:10.3389/fphar.2012.00107 (2012).   \n23.Yang,H.etal.mORkinasestructure,mechanismandregulation.Nature49,217-223,doi:10.1038/naturel21(013).   \n24.Vorees,C.V.&Willims,M.TMorriswatemae:proceduresfraessingspatialandrelateormsoflearingandmmoryNat Protoc 1,848-858,doi: 10.1038/nprot.2006.116 (2006).   \n25.BrewerG.lJe,Ke,Jisi a new serum-free medium combination.J Neurosci Res 35,567-576,doi: 10.i002/jnr.490350513 (1993).   \n26.Kle,R.,ickerE.&ea,Uomsofogepetpotasstsiataalroscelyoate from hippocampal regions CA1 and CA3.J Neurophysiol74,1982-1995 (1995).   \n27.Svoboda,KDenk,WKleinfeld,D.&Tank,.nvivoendriticalcmdamicsineocorticalpyamidaleros.tue 385,161-165,doi: 10.1038/385161a0 (1997).   \n28.McCord,M.C.& Aizenman,E.Convergent $\\mathrm { C a } ^ { 2 + }$ and $Z \\mathrm { n } ^ { 2 + }$ signaling regulates apoptotic ${ \\mathrm { K v } } 2 . 1 { \\mathrm { K } } ^ { + }$ currents.Proc Natl Acad Sci USA 110,13988-13993,doi: 10.1073/pnas.1306238110 (2013).   \n29.Santull,G.&Marks,A.REentialRolesftracelarCalmReleaseCannesinuscle,rain,Metabolism,ndAgingCurr Mol Pharmacol8,206-222 (2015).   \n30.Dreses-Werringloer,U.et al. A polymorphism in CALHM1 influences $\\mathrm { C a ^ { 2 + } }$ homeostasis,Abeta levels,and Alzheimer's disease risk. Cell133,1149-1161,doi: 10.016/j.cell2008.05.048 (2008).   \n31.BezproaClgnalgdurodegenratiedassdld,dod (2009).   \n32.Scoville,WB.&iler,B.Lossofrecentmemoryafterbilateralhippocampallesios.1957.JNuropsyhiatryClinNeurosci2, 103-113 (2000).   \n33.Popugaeva,E.& Bezprozvanny,I. Role of endoplasmic reticulum $\\mathrm { C a } ^ { 2 + }$ signaling in the pathogenesis of Alzheimer disease.Front Mol Neurosci6,29,doi: 10.3389/fnmol.2013.00029 (2013).   \n34.Demuro,A.,Parker,I.& Stutzmann,G.E.Calciumsignalingandamyloid toxicity inAlzheimerdisease.JBiol Chem 285, 12463-12468,doi: 10.1074/jbc.R109.080895 (2010).   \n35.Timerman,A.P.etal.SelectivebindingofFKBP12.6bythecardiacryanodinereceptor.BiolChem27,0385-2091(1996).   \n36.Deshpande,L.S.etal.Alterations inneuronalcalciumlevelsareassociatedwithcognitivedefcitsaftertraumaticbraininjury. Neurosci Lett 441,115-119,doi: 10.1016/j.neulet.2008.05.113 (2008).   \n37.Berridge,M.J.CalcimhypothesisofAlzheimersdisease.PflugersArch459,441-449,doi:100/s0424-0-76-1(00).   \n38.Khachaturian,Z.S.Calcium hypothesis ofAlzheimer'sdisease andbrainaging.AnnNYAcadSci747,1-11(994).   \n39.Kelier,M.etalteratiosinanoinerecetorasealorelatilemrsseaserofbily and beta-amyloid pathologies.Neuroscience 92,499-513(1999).   \n40.Stutzmann,G.E.etal.Enhancedryanodine-mediatedcalciumreleaseinmutantPS-expressingAlzheimer's mousemodels.nnN Y Acad Sci 1097,265-277,doi: 10.1196/annals.1379.025 (2007).   \n41.Liu,J.etal.erolefryanodinereceptorte3inmousemodeloflzeimerdisease.Channels (Austin)8,3-242(014).   \n42.Nakshiba,Toung,J.ughTJlDL.&ea,asenicibitiofsaptictrasisoealsle CA3 output in hippocampal learning.Science 319,1260-1264,doi: 10.1126/science.1151120 (2008).   \n43.Tsien,J.Z,uertaPT.&ga,eetlefpoaalCectopdentsaticpsii spatial memory. Cell87,1327-1338 (1996).   \n44.Dong,C,ach,.V,s,K.A.&gde,A.NProtesoeodlatespositiveadnegtietraslatioalglatosg term synaptic plasticity.JNeurosci 34,3171-3182,doi:10.1523/JNEUROSCI.3291-13.2014(2014).   \n45.Yu,S.P.etal.MedationofneuronalapoptosisbyeancementofoutwardpotassiumurrentScence278,14-7(199).   \n46.Nadeau,H,cKinney,S,Aderson,D.J.&Lster,H.AOK1(Kirl.1)usepotosisdroicilencngofal neurons.JNeurophysiol 84,1062-1075 (2000).   \n47.Du,H.,Guo,L,Zhang,W,Rydzewska,M.&Yan,S.CyclophilinDdeficiencyimproves mitochondrialfunctionand learing/ memorynaginglhemerdiseasemousemodel.NeurobiolAging32,398-406,doi:0.016/j.nurobiolaging209.03.(1).   \n48.Umanskaya,A.etal.Geneticallenhancingmitochondrialantioxidantactivityimprovesmusclefunctioninging.ProcNatlAcad Sci USA 111,15250-15255,doi:10.1073/pnas.1412754111(2014).   \n49.Andersson,D.C.alRyanodinerecptoroxidationcausestracellarcalciumlakadmuscleweaknesinging.Celletab4, 196-207,doi: 10.1016/j.cmet.2011.05.014 (2011).   \n50.Xie,W.etal.Mitochondrialoxidativestress promotesatrialfbrilation.SciRep5,11427,doi:10038/srepl427(2015).   \n51.Pal,S.,are,K.boe,JvE..dfuroossboded channels.J Neurosci 23,4798-4802 (2003).   \n52.Pal, S.K.,Takimoto,K.,Aizenman,E.& Levitan,E.S.Apoptotic surface delivery of $\\mathrm { \\ddot { K } ^ { + } }$ channels.Cell Death Differ13,661-667,doi: 10.1038/sj.cdd.4401792 (2006).   \n53.Kanninen,KetltrappoclectioftiviralreressgNrfprovssaialangoueef Alzheimer's disease.Proc Natl Acad Sci USA106,16505-16510,doi:10.1073/pnas.0908397106 (2009).   \n54.Graves,L.A.Heler,E.A.ack,A..&bel,Teeeprivaionelectivelympasemoronsoliatioforontealar conditioning.Learn Mem 10,168-176,doi: 10.1101/lm.48803 (2003).   \n55.Zhang,J.etal.Ezh2regulatesadult hippocampal neurogenesisandmemory.JNeurosci 34,5184-5199,doi:10.1523/ JNEUROSCI.4129-13.2014 (2014).   \n56.Barbosa,A.C.etal.MEFC,atranscriptionfctorthatfacilitateslearingandmemorybyegativeregulationofsyapseumbers and function.Proc Natl Acad Sci USA i05,9391-9396,doi: 10.1073/pnas.0802679105 (2008).   \n57.Seibenhener,M.L.&Woten,M.W.Isolationandcultureofhippocampalneuronsfromprenatalmice.JVisExp.doi:10.79/3634 (2012). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We thank Junbing Wu and Rong Wu from Institute of Biophysics,Chinese Academy of Sciences for the guidance and suggestions ofbehavior experiments.This work was supported by grants from the National Basic Research Program of China (2011CB809i04 to GJand 2013CB531103 to HX)and the NationalFoundation of Sciences and Technology (31271228 to GJ). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "AuthorContributions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The study presented here was carriedout incollaboration between allauthors.Q.Y.,S.C.,G.J.and X.W.conceived and designed the experiments. Q.Y.,K.D,L.S.,S.C.,Z.Y.andJ.W.carried out the experiments and analyzed the data. Q.Y.and H.X. performed the statistical analysis.G.J.,S.C.and Q.Y wrote the manuscript. Allauthors have read and approved the final manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Howto citethis article: Yuan, Q.etal. Calstabin 2:An important regulator forlearning and memory in mice Sci.Rep.6,21087; doi:10.1038/srep21087 (2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is notincluded under the Creative Commons license, users will need to obtain permisson from the license holder to reproduce the material.To viewa copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 11
+    }
+]

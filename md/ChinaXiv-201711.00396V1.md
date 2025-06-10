@@ -1,0 +1,210 @@
+# 植物源性抗氧化剂的应用及其作用机制
+
+王丽雪 解玉怀 张桂国\*（山东农业大学动物科技学院，泰安271018）
+
+摘要：植物源性抗氧化剂是一类来源于植物，具有抗氧化功能的物质，在养殖业中作为饲料添加剂被应用，具有来源广泛、高效、安全和无残留等特点。本文主要综述了此类抗氧化剂在畜牧业中常用的种类以及在生产中的应用效果，并总结了其作用机制的研究进展，为今后更广泛深入地开展植物源性抗氧化剂的研究与应用，进一步阐明深层次作用机理提供参考。
+
+关键词：植物源性抗氧化剂；氧化应激；作用机制中图分类号：S816 文献标识码：A 文章编号：1006-267X（2017）05-0000-00
+
+氧化应激是由于过氧化物在动物体内过度积累，超过机体抗氧化防御能力，打破了氧化-抗氧化平衡，而导致的动物某些组织器官或生理功能受到危害，生产性能降低的一种不良反应。引起氧化应激的原因很多，当前研究认为机体内外不良环境、饲粮中的过氧化物质、疾病以及体内异物代谢等都会引起机体的氧化应激，其中机体的免疫力下降，肠炎、肺炎、产后败血症、奶牛乳腺炎等多种畜禽易患疾病的产生都直接或间接与氧化应激相关]。尤其在当前集约化养殖条件下，高密度饲养、不良通风、缺乏运动、高能饲粮等不良因素，使得氧化应激在养殖过程中普遍存在，机体免疫力及生产性能受到严重影响。生产中通常添加外源抗氧化剂来减缓机体的氧化应激，并预防饲粮中易氧化成分的变质，但由于很难精确估计动物遭受氧化应激的程度，所以合成抗氧化剂的添加多处于过量状态，且过量的抗氧化剂被采食后常残留在动物体内和畜产品中，造成食品和环境安全隐患。因此，寻求安全高效、无残留的抗氧化剂成为当前研究的热点问题。
+
+植物源性抗氧化剂作为来源于植物，具有特殊官能团的生物活性物质，在抗氧化方面发挥着高效、安全等优势，其种类包括多酚、植物多糖、生物碱等，常用的有白藜芦醇[2]、原花青素[3]、五指莲多糖[4]等，由于结构的差异，其抗氧化的作用机理也不尽相同[5]。本文就当前动物生产中氧化应激产生的主要原因，针对性总结了常见植物源性抗氧化剂的种类特点及相关作用机制。为今后植物源性抗氧化剂的深入研究和开发应用提供参考。
+
+1氧化应激的产生原因、危害及其机制
+
+# 1.1产生原因
+
+动物生长内外环境的应激，饲粮（过多的不饱和脂肪酸，微量元素、维生素的缺乏）、疾病、饲粮中含有的某些化学物质（如除草剂或残留农药）以及动物生理和心理的变化都会引起体内过氧化物的累积，造成氧化损伤；同时机体的代谢是有氧参与的氧化反应过程，在电子链的传递过程中会有电子的"泄露”，导致自由基在体内富集，富集的自由基如果不能被及时清除，超过体内抗氧化防御系统的清除能力，就会打破体内氧化-抗氧化的平衡，使机体处于氧化应激状态。
+
+# 1.2主要危害及其产生机制
+
+在畜牧生产中，动物常常遭受各种氧化应激，使畜禽生产力降低，影响畜禽产品品质，长期的应激状态会引发大规模的动物疾病和死亡。研究表明，体内积累的过氧化物含较多活性电子，处于不稳定的化学状态，会通过多种途径诱导动物组织、器官的细胞衰老和凋亡，引起DNA损伤，抑制细胞周期的进程[7]；通过影响体内酶的代谢，加速脂肪和蛋白质的分解，促进糖异生过程，降低糖氧化供能的作用；降低机体抵抗力和免疫力，引发各种疾病[89]。研究发现，氧化应激会使鸡蛋中多不饱和脂肪酸发生过氧化反应，影响蛋品质，降低鸡蛋的营养价值[10]，并能影响早期断奶幼畜的消化吸收功能，进一步引起幼畜的腹泻[1]。
+
+# 1.2.1 诱导细胞衰老
+
+氧化应激是导致细胞衰老的重要因素之一，目前已知的氧化应激引发细胞衰老的途径包括：1）诱导DNA损伤途径。氧化应激引起DNA损伤，损伤后的DNA由一种蛋白复合物解开成为单链，激活共济失调毛细血管扩张突变激酶，引发损伤DNA 附近组蛋白H2AX 的磷酸化，通过p53-p21-Cip1-pRB 通路触发细胞衰老[12]。2）激活 p38 丝裂原激活的蛋白激酶（MAPK）通路。MAPK 家族是非常保守的丝氨酸/苏氨酸蛋白激酶，是重要的信号转导分子。该通路由3级激酶链组成，活性氧（ROS）可通过该通路激活p38，进而使 $p 1 6$ 和 $p 1 9$ ARF 的表达上调，引发细胞衰老[13]。3）激活核因子κB（NF-κB）通路。正常情况下，在细胞质中 NF-kB与NF-KB 抑制因子结合，处于无活性状态。氧化应激产生的ROS 可激活 NFKB 抑制因子激酶(IKK)，使得NF-kB抑制因子 $\mathfrak { a }$ 磷酸化，活化NF-kB，激活后的NF-kB发生核移位，进入细胞核后与相应的DNA序列结合，使白细胞介素（IL）-8的表达上调，加快细胞衰老[14-15]。4）激活 miRNA 途径。miRNA 是一种内源性的非转录小RNA，在DNA转录时产生后移位到细胞质，直接与目的mRNA结合，使mRNA的二级结构发生改变，阻碍翻译过程。而氧化应激可通过调节miRNA的量，加快细胞衰老[16]。
+
+# 1.2.2 影响机体消化吸收
+
+氧化应激主要通过以下2个途径影响动物消化吸收功能。一方面，遭受氧化应激的动物，肠道隐窝深度增加，绒毛长度降低[7]，并有过多的一氧化氮（NO）产生，导致肠上皮细胞的功能紊乱，从而影响肠道消化吸收的功能[18]。另一方面，氧化应激会改变肠黏膜形态结构，使肠道黏膜功能受损，不仅养分吸收率降低，还使有毒、有害物质被吸收进入体内，破坏肠道黏膜免疫屏障，降低机体抵抗力，增加疾病易感性。酸中毒引发的氧化应激使反刍动物肠道细胞损伤，产生的氧化代谢的产物耗尽体内的ATP，导致肠道上皮细胞屏障功能紊乱[19]。
+
+# 1.2.3 干扰营养物质代谢
+
+氧化应激对糖类、脂质和蛋白质的代谢均有影响。氧化应激会使动物体内胰岛素分泌减少，通过激活沉默信息调节因子2同源蛋白1（SIRT1）间接降低叉头框蛋白O1（FoxO1）蛋白乙酰化水平，增加糖异生关键酶磷酸烯醇式丙酮酸羧化酶（PEPCK）和葡萄糖-6-磷酸酶（G-6-pase）的基因表达，促进肝脏糖异生，抑制糖的氧化供能[20]。蛋白质的羰基化水平是衡量蛋白质氧化损伤的重要指标，氧化应激会使被活化的羰基与赖氨酸、半胱氨酸和组氨酸等氨基酸的支链发生羰基化反应，对机体中受体、酶、转运蛋白以及结构蛋白质造成损伤[21]。同时氧化应激产生的自由基通过p38MAPK 通路使肌肉萎缩蛋白Fbox-1表达上调，使肌肉细胞特异性 E3 泛素蛋白连接酶将目标蛋白呈递给泛素，被泛素化后的 Atrogin-1 蛋白即被 26S 蛋白酶体识别并分解[22]。脂肪酸是细胞磷脂双分子层的重要组成成分，氧化应激产生的自由基能够氧化不饱和脂肪酸引发脂质过氧化，产生稳定终产物丙二醛（MDA)，损伤生物膜结构，使动物机体生理机能紊乱，引发一系列病理过程。
+
+2机体抵抗氧化应激的应答机制及常用抗氧化剂种类动物机体应答氧化应激的方式主要包括体内的抗氧化酶系统和非酶系统，其中抗氧化酶包括超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）、过氧化氢酶（CAT）和ⅡI相解毒酶。研究表明，抗氧化酶系统可以将超氧阴离子（· $\mathbf { O } _ { 2 } \mathbf { \bar { \Gamma } }$ ）歧化形成过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ )，消除· $\mathrm { O } _ { 2 } ^ { \cdot }$ 对机体的毒害作用，最终生成对机体无害的醇和水[23]。非酶系统又称外源性抗氧化剂包括维生素(维生素A、维生素C 和维生素E）、微量元素(硒、锌）、乙氧基喹啉(EMQ)、二丁基羟基甲苯（BHT）、丁基羟基茴香醚（BHA）和植物源性抗氧化剂等物质。这些抗氧化添加剂可以直接或间接清除体内自由基达到抗氧化应激目的。非酶系统提供的电子可以使自由基还原，从而参与抗氧化作用[23]。
+
+在氧化应激状态下，除了保证体内抗氧化酶系和抗氧化剂的正常合成所需的物质供应外（必需氨基酸、金属离子和ATP)，外源性补充生物活性物质或抗氧化剂干预体内抗氧化酶合成路径或介导氧化应激对组织器官的损害都是减缓氧化应激的有效途径。但是，由于环境变化，饲粮因素以及疾病等的影响，单靠动物自身抵抗氧化应激是不能完全解决的。随着研究的深入，当前对畜牧生产中氧化应激产生的原因，危害及其发生机理的了解日益增多，针对其预防、修复及治疗方法的研究也逐渐增多，使用抗氧化添加剂来预防动物氧化应激被认为是目前应用最广泛的方法[24]。通常在饲粮中添加具有抗氧化功能的添加剂，来减少各种原因引起的氧化应激，以提高动物的生产性能。
+
+# 3植物源性抗氧化剂的应用及其作用机制
+
+植物源性抗氧化剂是主要的天然抗氧化剂，由于其来源广泛、抗氧化性能高效、低毒等特点受到研究者广泛重视。目前植物源性抗氧化剂主要来自于草本植物、香辛植物和果蔬类，按其主要抗氧化物质的分子结构类型可分为多酚、多糖、生物碱和皂甙类等[25]。已有的研究认为，植物源性抗氧化剂的作用机制主要包括以下几个方面：1）通过提供质子和电子直接与自由基结合，达到清除或抑制自由基的目的。2）通过调控相关通路，抑制自由基相关氧化酶的活性或者促进抗氧化酶的活性，缓解氧化损伤。Kelch 样环氧氯丙烷相关蛋白-核因子E2相关因子2-抗氧化反应元件（Keap1-Nrf2-ARE）通路是近来研究较多的抗氧化通路。Nrf2 是重要的抗氧化应激调节转录因子，生理状态下与胞浆蛋白伴侣分子Keap1结合进行抗氧化调节，ARE 是编码抗氧化酶-II相解毒酶基因的顺式作用原件。Keapl-Nrf2-ARE 是动物机体应对ROS 诱导的氧化应激的防御信号转导通路，它调控细胞核内ⅡI相解毒酶基因的表达，提高抗氧化能力[26]。3）与自由基产生所必须的金属离子发生络合反应，阻断自由基的产生。4）抗氧化成分之间相互促进的作用，使抗氧化能力增强。
+
+# 3.1 多酚类物质
+
+植物中的多酚类化合物大都具有抗氧化作用，通过清除体内自由基，提高机体的免疫功能，以减缓氧化应激对动物造成的损伤。常见的植物多酚多以苯酚为骨架，以苯环的多羟基取代为特征，根据聚合程度可分为两大类：多酚单体（黄酮类化合物、绿原酸、没食子酸和鞣花酸等）和多聚体（原花青素、没食子单宁和鞣花单宁)。葡萄皮中主要多酚类物质白藜芦醇，具有抗氧化作用[27]，可通过对 SIRT1 的激活达到保护血管的目的[28]，并对癌细胞Hepalclc7 的增殖具有显著的抑制作用[29]。有数据表明，当黄羽肉鸡饲粮中添加 $5 0 0 ~ \mathrm { m g / k g }$ 植物多酚时，CAT、SOD 和GSH-Px 活性增强，同时肉品的失水率和滴水损失降低，鸡肉品质在一定程度上得到改善[30]。
+
+植物多酚的抗氧化功能是其可作为氢质子或电子供给体，清除自由基，终止自由基的连锁反应，其中黄酮类化合物通过酚羟基与自由基反应产生半醌式自由基中断连锁反应。同时，多酚类物质还能够促进Keap1蛋白的降解，促使Nrf2核转位，增强与ARE的结合能力，激活 Keap1-Nrf2-ARE 信号通路，进而调节下游抗氧化酶的表达（图1）[26.31]。姜黄素是一种酸性多酚类物质，在缺血再灌注损伤时可抑制一氧化氮合酶的活性，达到抗氧化的作用[32];亚铁离子（ $\mathrm { F e } ^ { 2 + }$ ）能够引起肾细胞的损伤，影响抗氧化酶的活性，槲皮素作为一种多酚类物质，能够恢复动物体内抗氧化酶的活力[33]。
+
+# 3.2多糖
+
+植物多糖是以 $\scriptstyle { \mathfrak { a } } .$ -1,4、α-1,6、β-1,3 和 $\beta$ -1,4-糖苷键相连接的功能性多糖[34]，具有增强细胞免疫、抗菌、抗病毒，抗氧化以及抗衰老的功能。刺五加多糖对 $\cdot _ { \mathrm { O } _ { 2 } \mathrm { - } }$ 、有机自由基1,1-二苯基-2-三硝基苯肼（DPPH）有一定的清除作用，通过上调 Nrf2基因的表达，提高动物体内 SOD、CAT 和GSH-Px等抗氧化酶的分泌能力，进而提高机体的抗氧化能力[35]。从红藻中提取的酯化多糖可清除体内羟基和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，减缓氧化应激对机体带来的危害[36]。灵芝多糖可以清除体内富集的DPPH和羟基，并可与 $\mathrm { F e } ^ { 2 + }$ 发生络合反应，以达到抗氧化的目的[37]。在大鼠饲粮中添加苹果果胶寡糖可清除机体过量自由基，减少脂质过氧化物的产生，提高机体抗氧化能力[38]。
+
+植物多糖抗氧化应激的机制有：1）可与 $\mathrm { O H ^ { \bullet } , ^ { \bullet } O _ { 2 } ^ { \bullet } }$ 发生反应，达到清除ROS的目的。
+
+2）可间接提高体内SOD、CAT和GSH- $\mathbf { \cdot P x }$ 等抗氧化酶的活性。3）多糖分子含有醇羟基，该基团可与产生ROS所必须的 $\mathrm { F e } ^ { 2 + }$ 、铜离子（ $\mathrm { \cdot } \mathrm { C u } ^ { 2 + }$ ）等金属离子络合，从而抑制ROS 的产生[39]。4）多糖促使细胞表面的 SOD 释放，清除 ROS，达到抗氧化应激的目的[40]。
+
+# 3.3 皂甙类
+
+皂甙是一种结构比较复杂的化合物，由皂甙元，糖基和有机酸组成的，皂甙的不同区别于糖基的位置、数目及方式，包括：三萜皂甙和甾体皂甙。皂甙类能够提高机体的免疫功能，调节脂类代谢，具有抗氧化、抗菌、抗病毒和抗炎的功能。
+
+皂甙抗氧化应激的机制有：皂甙类化合物可以提高动物体内 SOD、CAT 等抗氧化酶活性[41]，抑制体内氧化酶活性，增强机体的抗氧化能力，但皂甙对自由基本身影响甚小。研究表明，将绞股蓝皂甙治疗诱导性糖尿病大鼠模型时，肾组织黄嘌呤氧化酶和髓过氧化物酶活性降低，SOD 活性升高，抗氧化系统增强[42]。
+
+# 3.4 生物碱类
+
+生物碱是一类含氮环状结构，复杂的有机化合物，具有显著的抗氧化生理活性。主要存在于茄科、豆科、罂粟科和芸香科等双子叶植物中，目前在畜牧生产实践中研究应用较少。
+
+生物碱抗氧化机制主要是通过杂环中裸露的氮原子与氧自由基结合而达到清除自由基，提高抗氧化能力的目的。供电子基团或者使氮原子富有电子的因素都可以促进生物碱的抗氧化作用[43]。此外，研究发现，芥子碱在人体内会抑制脂肪酶和脂肪氧化酶的活性，进而降低脂质过氧化反应[44]。
+
+# 4其他类抗氧化物质及其机制
+
+除了常用的植物源性抗氧化物质外，某些维生素和微量元素也经常作为抗氧化剂应用于生产实践中。
+
+维生素C和维生素E具有较强的抗氧化能力，此类抗氧化剂可作为质子和电子的供给体直接与体内的氧自由基结合，达到抗氧化的目的。维生素C可通过逐级提供电子而转变成半脱氢抗坏血酸和脱氢抗坏血酸来清除自由基[45]，维生素E可结合于细胞膜上，保护细胞免受自由基的损害，还可以提高抗氧化酶活性[46]。此外，维生素C 和维生素E与其他抗氧化剂具有协同作用。研究报道，添加 $1 3 . 5 9 { \sim } 2 3 . 5 9 ~ \mathrm { m g / k g }$ 维生素E可以提高小鼠的抗氧化能力[47]。21 日龄肉鸡注射 $1 5 ~ \mathrm { m g }$ 的维生素C，血浆总抗氧化能力显著提高，在此注射水平上 42 日龄肉鸡血浆 SOD 和GSH-Px 显著高于其他组[48]。在肉鸡饲粮中添加 $2 0 0 \mathrm { { I U / k g } }$ 维生素E 可提高机体抗氧化能力，使饲料转化效率和体增重显著增加[49]。
+
+硒和锌等微量元素在生产实践中也经常被添加到动物饲粮中，以缓解氧化应激带来的危害。研究表明，饲粮中添加 $0 . 5 { \sim } 0 . 7 \mathrm { m g }$ 硒可提高泰和乌骨鸡的抗氧化能力以缓解热应激对机体生产性能和黑色素合成的影响[50]。微量元素可直接清除自由基，提高抗氧化酶的活性，发挥抗氧化作用。此外，硒的抗氧化作用可通过谷胱甘肽过氧化物酶的作用来达到抗氧化的作用，且硒与维生素E具有协同作用。
+
+# 5抗氧化物质其他生物学作用及其机制
+
+某些具有显著抗氧化作用的物质，同时能在一定程度上促进某些免疫因子的分泌，可提高机体的免疫功能。白藜芦醇既可以提高机体抗氧化能力，又具有抗炎特性，缓解炎症反应[51]。柳树皮提取物不仅可以提高抗氧化酶活性，激活 Nrf2 通路缓解氧化应激对机体造成的危害[52]，还可以抑制肿瘤坏死因子-α 和环氧合酶-2的表达，减少NO 的释放，提高免疫力[53]。
+
+研究表明，炎症反应会导致体内自由基的富集，使动物机体处于氧化应激的状态[54]。Terra 等[55发现，在被内毒素脂多糖处理后的巨噬细胞中，原花青素B2可以阻断P65亚基移位进入细胞核内，通过激活NF-kB信号通路减少环氧化酶-2的表达（图1)。
+
+图1植物源性抗氧化剂调节相关酶表达的通路  
+![](images/9ea308ce06a218227c8b4b949b7ed921be83be819a0f6704851504fd4b052840.jpg)  
+Extracelllar：细胞外；Cytoplasm:细胞质；Nucleus:细胞核；RV：白藜芦醇resveratrol；Procyanidins:
+
+原花青素；TLRs：Toll样受体 Tollike receptors；Nrf2：核因子E2相关因子2 nuclear factor E2-related factor 2; Keapl: Kelch样环氧氯丙烷相关蛋白1Kelch-like epichlorohydrin asociated protein1;ROS：活性氧 reactive oxygen；ASK-1：细胞调亡信号激酶-lapoptosis signaling kinase-1；MEK：丝裂原激活的细胞外信号调节激 酶 mitogen-activated extracellular signal-regulated kinase；MKK：丝裂原激活蛋白激酶激酶 mitogen-activated protein kinase kinase；MAPK：丝裂原激活的蛋白激酶 mitogen-activated protein kinase；JNK：氨基末端激酶 c-Jun N-terminal kinase；ERK：细胞外信号调节激酶 extracellular signal-regulated kinase；MyD88：髓样分化 蛋白88 myeloid diffrentiation factor 88；IRAK1：白细胞介素-1受体相关激酶 interleukin-1 receptor associated kinase；TRAF6：肿瘤坏死因子受体相关因子6 tumor necrosis factor receptor-associated factor 6；IKKs：核因 子kB抑制激酶 inhibitorofnuclear factor kappa-B kinases；IkBα：核因子kB抑制蛋白α inhibitor ofnuclear factor kappa-B $\mathfrak { a }$ ；NF-kB：核因子kB nuclear factor kappa-B；Gene Regulation：基因调节；Phase II detoxification enzymes and GSH $\mathbf { \cdot P x }$ ：I相解毒酶和谷胱甘肽过氧化物酶；GSH-Px：谷胱甘肽过氧化物酶 glutathione peroxidase；CAT：过氧化氢酶 catalase；SOD：超氧化物歧化酶 superoxide dismutase；COX-2：环氧化酶- 2 cyclic oxidase-2。
+
+Fig.1Signaling pathways of regulating the expression ofrelated enzymes by phytogenic
+
+antioxidants[31, 55]
+
+6小结
+
+由于绿色、安全、高效的特点，植物源性抗氧化剂得到广泛地认可。人们对其作用的研究也日益增多。但是，对于植物源性抗氧化剂的研究还存在以下几个问题：一是植物源性抗氧化剂的提取，纯化工艺有待提高。同时，将各类植物提取物提取、纯化工艺应用推广于生产实践还需大量工作。二是植物源性抗氧化剂应用于不同种类畜禽和不同生长阶段的适宜剂量研究不够，应用于生产中的剂量标准尚不确定，需要更多、更深入细致的研究来确定植物源性抗氧化剂在不同动物上的最适用量。三是植物源性抗氧化剂除具有抗氧化作用以外，还会对细胞的免疫系统、炎症反应以及细胞凋亡过程产生影响，涉及到内部信号通路和几个生物学作用的过程，其信号转导过程非常复杂，需要在未来的研究中进一步探索其抗氧化机制与其他生物学作用内在机制的关联性。
+
+我国植物资源丰富，对植物源性生物学活性物质的开发利用有悠久的历史。今后，随着对该领域的研究日益增多，植物源性抗氧化剂的提取、纯化工艺会逐渐完善和提高，通路机制的解析会更加清楚和明了。将植物源性抗氧化剂应用于畜牧生产，对提高畜禽生产、繁殖性能，保障畜产品安全，改善畜产品品质，推进建设可持续发展的安全、高效现代畜牧业具有重要意义。
+
+# 参考文献：
+
+[1]LYKKESFELDT J,SVENDSEN O.Oxidants and antioxidants in disease:oxidative stress in farm animals[J].The Veterinary Journal,2007,173(3):502-511.   
+[2] DE LA LASTRA C A,VILLEGAS IResveratrol as an anti-inflammatory and anti-aging agent:mechanismsandclinicalimplications[J].MolecularNutrition&Food Research,2005,49(5):405-430.   
+[3] GAO Y,HAO H W,LIU X Y,et al.The antioxidation of proanthocyanidins from in Rhodiola rosea L.[J].Medicinal Plant,2014,5(8):8-11.   
+[4] SHEN S A,CHEN D J,XU L,et al.Optimization of extraction process and antioxidant activity of polysaccharides from leaves of Paris polyphylla[J].Carbohydrate Polymers,2O14,104:80- 86.   
+[5] PERRON N R,BRUMAGHIM J L.A review of the antioxidant mechanisms of polyphenol
+
+compounds related to iron binding[J].Cell Biochemistry and Biophysics,2009,53(2):75-100.
+
+[6] ROSSI R,PASTORELLI G,CORINO C.Application of KRL test to assess total antioxidant activity inpigs:sensitivity to dietary antioxidants[J].Research in Veterinary Science,2013,94(2):372-377.
+
+[7]VAANHOLTL M,MILNE A,ZHENG Y,et al.Oxidative costs of reproduction:oxidative stress in mice fed standard and low antioxidant diets[J].Physiology & Behavior,2O15,154:1-7.
+
+[8]ROSSIGNOL D A.Hyperbaric oxygen treatment for inflammatory bowel disease:a systematic review and analysis[J].Medical Gas Research,2O12,2:6.
+
+[9]FURUYAMA T,KITAYAMA K,YAMASHITA H,et al.Forkhead transcription factor FOXO1 (FKHR)-dependent induction of PDK4 gene expresson in skeletal muscle during energy deprivation[J].Biochemical Journal,2003,375(2):365-371.
+
+[10]尹靖东,齐广海,郑君杰,等.类黄酮对鸡蛋蛋黄脂质稳定性的影响及其机理研究[J].中国农业科学,2003,36(4):438-442.
+
+[11]GUTTMAN JA,FINLAY B B.Tight junctions as targets of infectious agents[J].Biochimica et Biophysica Acta (BBA): Biomembranes,2009,1788(4):832-841.
+
+[12] RODIER F,COPPE J P,PATIL C K,et al.Persistent DNA damage signalling triggers senescence-associated inflammatory cytokine secretion[J].Nature Cell Biology,2009,11(8):973-979.
+
+[13]ITO K,HIRAO A,ARAI F,et al.Reactive oxygen species act through p38 MAPK to limit the lifespan of hematopoietic stem cells[J].Nature Medicine,2006,12(4):446-451.
+
+[14] BHATTACHARYYA S,DUDEJAPK,TOBACMANJK.ROS,Hsp27,and $\mathrm { I K K } \beta$ mediate dextran sodium sulfate (DSS) activation of IkBa,NFkB,and IL-8[J].Inflammatory Bowel Diseases,2009,15(5):673-683.
+
+[15]LEE M Y,WANG Y,VANHOUTTE P M.Senescence of cultured porcine coronary arterial endothelial cells is associated with accelerated oxidative stress and activation of NFkB[J].Journal of Vascular Research,2010,47(4):287-298.
+
+[16]LI G R,LUNA C,QIU J M,et al.Alterations in microRNA expression in stress-induced cellular senescence[J].Mechanisms of Ageing and Development,2009,130(11/12):731-741.
+
+[17] WANG J J,CHEN L X,LI P,et al.Gene expression is altered in piglet small intestine by weaning and dietary glutamine supplementation[J].The Journal of
+
+Nutriti0n,2008,138(6):1025-1032.
+
+[18] ASFAHA S,BELL C J,WALLACE J L,et al.Prolonged colonic epithelial hyporesponsiveness after colitis:role of inducible nitric oxide synthase[J].The American Journal of Physiology-Gastrointestinal and Liver Physiology,1999,276(3 Pt 1):G703-G710.
+
+[19] PELUSO I,CAMPOLONGO P,VALERI P,et al.Intestinal motility disorder induced by free radicals:a new model mimicking oxidative stress in gut[J].Pharmacological Research,2002,46(6):533-538.
+
+[20]祝红梅.FoxO1在氧化应激诱导糖异生/胰岛素抵抗机制中的作用[D].硕士学位论文.泸州：泸州医学院,2011.
+
+[21]CELI P,GABAI G.Oxidant/antioxidant balance in animal nutrition and health:the role of protein oxidation[J].Frontiers in Veterinary Science,2O15,2:48.
+
+[22]LI JJ,ZHANG T P,MENG Y,et al.Stability of F-box protein atrogin-1 is regulated by p38 mitogen-activated protein kinase pathway in cardiac H9c2 cells[J].Celllar Physiology and Biochemistry,2011,27(5):463-470.
+
+[23] KUBA M,TANAKA K,TAWATA S,et al.Angiotensin I -converting enzyme inhibitory peptides isolated from tofuyo fermented soybean food[J].Bioscience,Biotechnology,and Biochemistry,2003,67(6):1278-1283.
+
+[24]陈伟,林映才,马现永,等.一些抗氧化剂的抗/促氧化作用及其机制[J].动物营养学报，2012,24(4):595-605.
+
+[25] AGARWAL M,KUMAR A,GUPTA R,et al.Extraction of polyphenol,flavonoid from Emblica officinalis,Citrus limon,Cucumis sativus and evaluation of their antioxidant activity[J].Oriental Journal of Chemistry,2012,28(2):993-998.
+
+[26]LEE JM,JOHNSON JA.An important role of Nrf2-ARE pathway in the celllar defense mechanism[J].Journal of Biochemistry and Molecular Biology,2004,37(2):139-143.
+
+[27]RUBIOLO J A,MITHIEUX G,VEGA F V.Resveratrol protects primary rat hepatocytes against oxidative stress damage:activation of the Nrf2 transcription factor and augmented activities of antioxidant enzymes[J].European Journal of Pharmacology,2Oo8,591(1/2/3):66- 72.
+
+[28]KAO C L,CHEN L K,CHANG Y L,et al.Resveratrol protects human endothelium from $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -induced oxidative stressand senescence via SirT1 activation[J].Journal of
+
+Atherosclerosis and Thrombosis,2010,17(9):970-979.
+
+[29]YANG J,LIU R H.Induction of phase II enzyme,quinone reductase,in murine hepatoma cells in vitro by grape extracts and selected phytochemicals[J].Food Chemistry,2009,114(3):898- 904.
+
+[30]蒋步云.植物多酚对黄羽肉鸡抗氧化性能及肉品质影响的研究[D].硕士学位论文.长沙：湖南农业大学,2014.
+
+[31]PALSAMY P,SUBRAMANIAN S.Resveratrol protects diabetic kidney by atenuating hyperglycemia-mediated oxidative stress and renal inflammatory cytokines via Nrf2-Keap1 signaling[J].BiochimicaetBiophysicaActa(BBA）：MolecularBasis of Disease,2011,1812(7):719-731.
+
+[32] GRONEBERG D A,GROSSE-SIESTRUP C.FISCHER A.In vitro models to study hepatotoxicity[J].Toxicologic Pathology,2002,30(3):394-399.
+
+[33] TOYOKUNI S,TANAKA T,KAWAGUCHI W,et al.Effects of the phenolic contents of Mauritian endemic plant extracts on promoter activities of antioxidant enzymes[J].Free Radical Research,2003,37(11):1215-1224.
+
+[34] YANG B,JIANG Y M,ZHAO M M,et al.Structural characterisation of polysaccharides purified from longan (Dimocarpus longan Lour.) fruit pericarp[J].Food Chemistry,2009,115(2):609-614.
+
+[35] WANG X,HAI C X,LIANG X,et al.The protective effects of Acanthopanax senticosus Harmsaqueousextractsagainst oxidativestress:role ofNrf2 andantioxidant enzymes[J].Journal of Ethnopharmacology,2010,127(2):424-432.
+
+[36]DE SOUZA M C R,MARQUES C T,DORE C M G,et al.Antioxidant activities of sulfated polysaccharides from brown and red seaweeds[J].Journal of Applied Phycology,2007,19(2):153-160.
+
+[37]TSENG Y H,YANG J H,MAU J L.Antioxidant properties of polysaccharides from Ganoderma tsugae[J].Food Chemistry,2008,107(2):732-738.
+
+[38]毛湘冰,冯小花,陈代文,等.饲粮添加苹果果胶寡糖对断奶大鼠生长性能、抗氧化能力和肠道健康的影响[J].动物营养学报,2016,28(9):2872-2877.
+
+[39] VOLPI N,TARUGI P.Influence of chondroitin sulfate charge density,sulfate group position,and molecular masson ${ \mathrm { C u } } ^ { 2 + }$ -mediated oxidation of human low-density lipoproteins:effect of normal human plasma-derived chondroitin sulfate[J].Journal of
+
+Biochemistry,1999,125(2):297-304.   
+[40]杨江涛,佟建明,刘晴雪.苜草素对小鼠巨噬细胞RAW264.7β-防御素基因表达的影响[J]. 中国饲料,2008(12):4-6.   
+[41]SPARG S G,LIGHT M E,VAN STADEN J.Biological activities and distribution of plant saponins[J].Journal of Ethnopharmacology,2004,94(2/3):219-243.   
+[42] 郎志芳,董琦,韩继成.绞股蓝皂甙对糖尿病大鼠肾脏氧化应激影响的研究[J].牡丹江医 学院学报,2005,26(4):5-8.   
+[43]BURDA S,OLESZEK W.Antioxidant and antiradical activities of flavonoids[J].Journal of Agricultural and Food Chemistry,2001,49(6):2774-2779.   
+[44]ZADERNOWSKI R,NOWAK-POLAKOWSKA H.The influence of rapeseed phenolic compounds on lipase and lipoxygenase activity[J].Rosliny Oleiste,1992,14:212-215.   
+[45]黄进,杨国宇,李宏基,等.抗氧化剂作用机制研究进展[J].自然杂志,2004,26(2):74-78.   
+[46]LIN YF,TSAI HL,LEE YC,et al.Maternal vitamin E supplementation affects the antioxidant capabilityandoxidativestatusofhatchingchicks[J].TheJourmalof Nutrition,2005,135(10):2457-2461.   
+[47]KURTOGLU F,KURTOGLU V,SIVRIKAYA A.Effects of vitamin E supplementation on antioxidation and lipid profiles of rats on diets supplemented with cholesterol and olive oil[J].Asian Australasian Journal of Animal Sciences,2008,21(6):883-889.   
+[48]李世召,支丽慧,杨小军,等.孵化期注射维生素C对肉鸡生产性能、免疫和抗氧化性能的 影响[J].动物营养学报,2013,25(12):2998-3005.   
+[49]REBOLE A,RODRIGUEZ ML,ORTIZ L T,et al.Effect of dietary high-oleic acid sunflower seed,palm oil and vitamin E supplementation on broiler performance,fatty acid composition and oxidation susceptibility of meat[J].British Poultry Science,2006,47(5):581-591.   
+[50]许兰娇.日粮添加硒对热应激条件下泰和乌骨鸡黑色素合成的影响及机理研究[D].博 士学位论文.南昌:江西农业大学,2013.   
+[51]WANG A P,LIU ML,LIU X L,et al.Up-regulation of adiponectin by resveratrol:the essential roles of the Akt/FOXO1 and AMP-activated protein kinase signaling pathways and DsbAL[J].Journal of Biological Chemistry,2011,286(1):60-66.   
+[52]ISHIKADO A,SONO Y,MATSUMOTO M,et al.Willow bark extract increases antioxidant
+
+enzymes and reduces oxidative stress through activation of Nrf2 in vascular endothelial cells and Caenorhabditis elegans[J].Free Radical Biology and Medicine,2013,65:1506-1515.
+
+[53] FREISCHMIDT A,JURGENLIEMK G,KRAUS B,et al.Contribution of flavonoidsand catechol to the reduction of ICAM-1 expression in endothelial cells by a standardised Willow bark extract[J].Phytomedicine,2012,19(3/4):245-252.
+
+[54] TOME-CARNEIRO J,LARROSA M,YANEZ-GASCON M J,et al.One-year supplementation with a grape extract containing resveratrol modulates inflammatory-related microRNAs and cytokines expression in peripheral blood mononuclear cells of type 2 diabetes and hypertensive patientswith coronary artery disease[J].Pharmacological Research,2013,72:69-82.
+
+[55] TERRA X,VALLS J,VITRAC X,et al.Grape-seed procyanidins act as antiinflammatory agents in endotoxin-stimulated RAW 264.7 macrophages by inhibiting NFkB signaling pathway[J].Journal of Agricultural and Food Chemistry,2007,55(11):4357-4365.
+
+Application ofPhytogenic Antioxidants and Its Mechanismsi
+
+WANGLixue XIE Yuhuai ZHANG Guiguo\* (College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China)
+
+Abstract: Phytogenic antioxidants derived from plants are a class of new feed additives with antioxidantive activity and generally used to prevent the animals oxidant stress, which have the advantages of extensive sources,security, high eficiency and no residue. This paper reviewed the main species and the application efects of this class of antioxidant in animal production, and summarized the current research progress on its action mechanisms, to provide a good reference for the further study and application of phytogenic antioxidant as well as the exploration of its acting mechanisms.
+
+Key words: phytogenic antioxidants; oxidant stress; response mechanisms

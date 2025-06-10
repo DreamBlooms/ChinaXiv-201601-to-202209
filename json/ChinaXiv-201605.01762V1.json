@@ -1,0 +1,867 @@
+[
+    {
+        "type": "text",
+        "text": "Probing anomalous top quark interactions atthe Fermilab Tevatron collider ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ken-ichi Hikasa $^ { 1 } , ^ { }$ , K. Whisnant $^ 2$ , Jin Min Yang $^ { 1 }$ and Bing-Lin Young² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ 1$ Department of Physics, Tohoku University, Aoba-ku, Sendai 980-8578, Japan $^ 2$ Department of Physics and Astronomy, Iowa State University, Ames,Iowa 50011,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study the effects of dimension-six operators contributing to the gtt vertex in top quark pair production at the Tevatron collider. We derive both the limits from Run 1 data and the potential bounds from future runs (Run 2 and 3). Although the current constraints are not very strong, the future runs are quite effective in probing these operators. We investigate the possibility of disentangling different operators with the $t t$ invariant mass distribution and the top quark polarization asymmetry. We also study the effects of a different set of operators contributing to single top production via the $W t b$ coupling. We derive the current and potential future bounds on these anomalous operators and find that the upgraded Tevatron can improve the existing constraints from $R _ { b }$ for one of the operators. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phenomenological success of the standard model (SM) has significantly limited the possibility of new physics. However, some unanswered fundamental questions suggest that the SM will be augmented by new physics at higher energy scales. As the most massive fermion in the SM, the top quark is naturally regarded to be more sensitive to new physics than lighter fermions. Therefore, precision measurements of top quark properties offr one of the best possibilities to obtain information on new physics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The measurements of top quark properties in Run 1 at the Fermilab Tevatron have only small statistics. There is plenty of room for new physics to be discovered in similar measurements taken with higher luminosities. Such possbilities exist in the near future: Run 2 and Run 3 of the Tevatron collider should significantly improve the precision of the measurements of top quark properties [1], and provide a better insight to new physics at higher energy scales. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are numerous speculations on the possible forms of new physics. The fact that no single clear signal for deviation from the SM has been observed in any experiment strongly suggests that the new physics effects not too far above the electroweak scale should preserve the SM structure and at most modify it delicately. This suggests that any new particles which may exist will be too heavy to be produced at current and quite possibly at nearfuture colliders,and thus the only observable effects of new physics at energies not too far above the SM energy scale could be in the form of anomalous interactions which will slightly affect the couplings of the SM particles. This reasoning leads to the effective Lagrangian approach in describing new physics effcts. For the description of new physics in the top quark sector, there are two effective Lagrangian approaches, which are formulated in terms of non-linear [2] and linear realizations [3-7] of the electroweak symmetry, corresponding to the situations without and with a light Higgs boson,respectively. In this article, we choose the linear realization and parameterize the new physics effcts in the top quark sector by dimension-six operators which are invariant under $\\mathrm { S U ( 3 ) } _ { c } \\times \\mathrm { S U ( 2 ) } _ { L } \\times \\mathrm { U ( 1 ) } _ { Y }$ . We will focus on the CP-conserving operators contributing to the anomalous $g t { \\bar { t } }$ or $W t { \\bar { b } }$ coupling which can be directly probed at the upgraded Tevatron collider through top pair and single top production， respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The operators we consider describe the anomalous couplings of top quark with gauge and/or Higgs bosons and do not include top quark four-fermion $( q { \\bar { q } } t { \\bar { t } } )$ contact terms,which have been investigated at Tevatron collider by Hill and Parke [8]. There have also been analyses of the phenomenology of an anomalous chromo-magnetic dipole moment gtt coupling at the Tevatron collider [9]. The operators considered in this paper will also induce such an anomalous chromo-magnetic dipole moment coupling for $g t { \\bar { t } }$ ,but at the same time give rise to other kinds of anomalous couplings via operators that obey the SM symmetries. Some of the operators contributing to the $W t b$ coupling also induce an anomalous （204号 $Z b { \\bar { b } }$ coupling. Their effects on single top production cross section at the Tevatron were evaluated in Refs. [6] and [1O],with constraints derived from the earlier,less accurate data on $R _ { b } = \\Gamma ( Z  b b ) / \\Gamma ( Z  \\mathrm { h a d r o n s } )$ . Our systematical analyses in this paper also include these operators, but with a more complete calculation by considering all possible backgrounds and by deriving the potential limits from the upgraded Tevatron. We find that the operators which contribute to the $Z b b$ coupling are strongly constrained and can no longer give rise to observable effects at the upgraded Tevatron due to the good agreement of $R _ { b }$ with the SM value. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec.II, we list the relevant dimension-six operators. In Sec. III we study the contribution of those operators to the $g t { \\bar { t } }$ coupling and their effect on top pair production. We derive the limits on the coupling strengths set by Run 1 and determine the limits which could be set by Run 2 and Run 3 if no new physics effects are observed. In Sec. IV，we present two methods to disentangle the effects between diffrent operators contributing to the gtt coupling. One is studying the $t t$ invariant mass distribution of the cross section, the other is measuring the asymmetry between left- and right-handed top events in top pair production. In Sec. V we evaluate the effects of those operators contributing to the $W t { \\bar { b } }$ coupling in single top production and derive the bounds which could be set by Run 2 and Run 3. Finally, Sec. VI is devoted to conclusions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.LISTOFTHERELEVANTOPERATORS",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We assume here that the new physics in the quark sector only resides in the interaction of the third family to gauge bosons and/or Higgs boson. The efective Lagrangian including the new physics effects can be written as [3] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { e f f } = \\mathcal { L } _ { 0 } + \\frac { 1 } { \\Lambda ^ { 2 } } \\sum _ { i } C _ { i } O _ { i } + O \\left( \\frac { 1 } { \\Lambda ^ { 4 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\scriptstyle { \\mathcal { L } } _ { 0 }$ is the SM Lagrangian, $\\Lambda$ is the new physics scale, $O _ { i }$ are dimension-six operators which are $\\mathrm { S U ( 3 ) } _ { c } \\times \\mathrm { S U ( 2 ) } _ { L } \\times \\mathrm { U ( 1 ) } _ { Y }$ invariant, and $C _ { i }$ are coupling constants which represent the strengths of $O _ { i }$ . Recently, the effective operators involving the third-family quarks were reclassified in Refs. [4-6] for the CP-conserving ones and in Ref.[7] for CP-violating ones. There are 10 dimension-six CP-conserving operators which contribute to the $g t { \\bar { t } }$ or $W t b$ （204号 coupling ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad O _ { Q 6 } = [ \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , D ^ { \\prime } , A ^ { \\prime } , D ^ { \\prime } , K _ { \\bar { H } } - D ^ { \\prime } , e ^ { \\prime \\prime } , d ^ { \\prime } \\} } ] \\mathcal { G } _ { \\mu } ^ { \\lambda } , } \\\\ & { \\quad O _ { 6 } = [ \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , D ^ { \\prime } , K _ { \\bar { H } } , 0 \\} } + \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , T ^ { \\prime } , \\bar { H } , 0 \\} } ] \\mathcal { G } _ { \\mu } ^ { \\lambda } , } \\\\ & { \\quad O _ { 7 6 } = [ ( \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , T ^ { \\prime } , \\bar { H } , 0 \\} } + \\widehat { \\{ g } } ) \\{ \\widehat { f _ { \\Psi } , e ^ { \\prime \\prime } , T ^ { \\prime } , \\bar { H } , 0 \\} } ] \\mathcal { G } _ { \\mu } ^ { \\lambda } ,  \\\\ & { \\quad O _ { 1 6 } = [ \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , D ^ { \\prime } , K _ { \\bar { H } } , 0 \\} } + \\widehat { \\{ \\{ f _ { \\Psi } , \\bar { e } , ^ { \\prime \\prime } , T ^ { \\prime } , \\bar { H } , 0 \\} } \\} ] \\mathcal { G } _ { \\mu } ^ { \\lambda } , } \\\\ &  \\quad O _ { 1 6 } ^ { ( 5 ) } = [ \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , D ^ { \\prime } , K _ { \\bar { H } } , 0 \\} } + \\widehat { \\{ D _ { \\Psi } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } ] } \\\\ &  \\quad O _ { 7 6 } = [ \\widehat { \\{ f _ { \\Psi } , e ^ { \\prime \\prime } , T ^ { \\prime } , \\bar { H } , 0 \\} } + \\widehat  \\{ \\beta ^ { \\prime } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar { e } , \\bar \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $q _ { L } = ( t _ { L } , b _ { L } )$ denotes the third family left-handed quark doublet, $\\Phi$ and $\\tilde { \\Phi }$ are the Higgs field and its charge conjugate $\\tilde { \\Phi } \\ = \\ i \\tau _ { 2 } \\Phi ^ { * }$ ， $W _ { \\mu \\nu }$ and $B _ { \\mu \\nu }$ are the SU(2) and U(1) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "gauge boson field tensors, respectively, in the appropriate matrix forms, $D _ { \\mu }$ denotes the appropriate covariant derivatives, and $T ^ { A } = \\lambda ^ { A } / 2$ with $\\lambda ^ { A }$ （ $A = 1 , . . . , 8 )$ denoting the Gell-Mann matrices. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After electroweak symmetry breaking, the first three operators $O _ { t G }$ ， $O _ { q G }$ and $O _ { t G \\Phi }$ will induce anomalous gtt couplings which are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal L } _ { g t \\bar { t } } = \\frac { C _ { t G } } { \\Lambda ^ { 2 } } \\left[ \\bar { t } \\gamma ^ { \\mu } P _ { R } T ^ { A } \\partial ^ { \\nu } t + \\partial ^ { \\nu } \\bar { t } \\gamma ^ { \\mu } P _ { R } T ^ { A } t \\right] G _ { \\mu \\nu } ^ { A } } } \\\\ { { \\displaystyle ~ + \\frac { C _ { q G } } { \\Lambda ^ { 2 } } \\left[ \\bar { t } \\gamma ^ { \\mu } P _ { L } T ^ { A } \\partial ^ { \\nu } t + \\partial ^ { \\nu } \\bar { t } \\gamma ^ { \\mu } P _ { L } T ^ { A } t \\right] G _ { \\mu \\nu } ^ { A } + \\frac { C _ { t G \\Phi } \\upsilon } { \\sqrt { 2 } \\Lambda ^ { 2 } } ( \\bar { t } \\sigma ^ { \\mu \\nu } T ^ { A } t ) G _ { \\mu \\nu } ^ { A } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $v = ( \\sqrt { 2 } G _ { F } ) ^ { - 1 / 2 }$ is the SM Higgs vacuum expectation value. Other operators wil give rise to anomalous $W t b$ couplings which are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l }  { { \\mathcal { L } _ { W \\bar { t } \\bar { b } } = \\displaystyle { \\frac { C _ { q W } } { \\sqrt { 2 } \\Lambda ^ { 2 } } W _ { \\mu \\nu } ^ { + } ( \\bar { t } \\gamma ^ { \\mu } P _ { L } \\partial ^ { \\nu } b + \\partial ^ { \\nu } \\bar { t } \\gamma ^ { \\mu } P _ { L } b ) + \\displaystyle { \\frac { C _ { \\Phi q } ^ { ( 3 ) } g _ { 2 } v ^ { 2 } } { \\sqrt { 2 } \\Lambda ^ { 2 } } W _ { \\mu } ^ { + } ( \\bar { t } \\gamma ^ { \\mu } P _ { L } b ) } } } } \\\\  { { \\displaystyle ~ - \\frac { C _ { D b } g _ { 2 } v } { 2 \\Lambda ^ { 2 } } W _ { \\mu } ^ { + } ( i \\bar { t } P _ { R } \\partial ^ { \\mu } b ) + \\displaystyle { \\frac { C _ { b W \\bar { \\Psi } } v } { 2 \\Lambda ^ { 2 } } W _ { \\mu \\nu } ^ { + } ( \\bar { t } \\sigma ^ { \\mu \\nu } P _ { R } b ) + \\displaystyle { \\frac { C _ { t 3 } g _ { 2 } v ^ { 2 } } { 2 \\sqrt { 2 } \\Lambda ^ { 2 } } W _ { \\mu } ^ { + } ( \\bar { t } \\gamma ^ { \\mu } P _ { R } b ) } } } } \\\\ { { { \\displaystyle ~ + \\frac { C _ { D t } g _ { 2 } v ^ { 2 } } { 2 \\Lambda ^ { 2 } } W _ { \\mu } ^ { + } ( i \\partial ^ { \\mu } \\bar { t } ) P _ { L } b + \\displaystyle { \\frac { C _ { t W \\bar { \\Psi } } v } { 2 \\Lambda ^ { 2 } } W _ { \\mu \\nu } ^ { + } ( \\bar { t } \\sigma ^ { \\mu \\nu } P _ { L } b ) } , } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $g _ { 2 }$ is the weak SU(2) gauge coupling.Note that theoperators $O _ { q W }$ ， $O _ { \\Phi q } ^ { ( 3 ) }$ ， $\\textcircled { \\scriptsize { \\it O } } _ { \\cal D b }$ and （204号 $O _ { b W \\Phi }$ also induce $Z b b$ couplings ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } } _ { Z b \\bar { b } } = \\frac { C _ { q W } c _ { W } } { 2 \\Lambda ^ { 2 } } Z _ { \\mu \\nu } ( \\bar { b } \\gamma ^ { \\mu } P _ { L } \\partial ^ { \\nu } b + \\partial ^ { \\nu } \\bar { b } \\gamma ^ { \\mu } P _ { L } b ) + \\frac { C _ { \\Phi q } ^ { ( 3 ) } v m _ { Z } } { \\Lambda ^ { 2 } } Z _ { \\mu } ( \\bar { b } \\gamma ^ { \\mu } P _ { L } b ) \\displaystyle } } \\\\ { { \\displaystyle ~ + \\frac { C _ { D b } m _ { Z } } { 2 \\sqrt { 2 } \\Lambda ^ { 2 } } Z ^ { \\mu } \\left[ i ( \\partial _ { \\mu } \\bar { b } b - \\bar { b } \\partial _ { \\mu } b ) - i \\partial _ { \\mu } ( \\bar { b } \\gamma _ { 5 } b ) \\right] + \\frac { C _ { b W \\Phi } c _ { W } v } { 2 \\sqrt { 2 } \\Lambda ^ { 2 } } Z _ { \\mu \\nu } ( \\bar { b } \\sigma ^ { \\mu \\nu } b ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { W } \\equiv \\cos \\theta _ { W }$ , and thus will be subject to a constraint from $R _ { b }$ measurements. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.TOP PAIR TOTAL CROSS SECTION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The number of top pair events produced at the Tevatron will be different from the SM prediction if new physics exists in the top sector. Since the standard model cross section for top pair production is known, here we only need to evaluate the new physics contribution to the total cross section.1 We can predict the number of reconstructed top pair events in the various decay channels (dilepton, single lepton plus jets, etc.） at the upgraded Tevatron [1] by extrapolating from the Run 1 results. We will calculate the new physics contribution to the cross section and derive bounds on the coupling strengths of the anomalous operators. For illustration, we will only present the bounds at the $2 \\sigma$ level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1We assume that the new physics only afects the SM top quark couplings and that there is no exotic decay mode for top quark. Therefore the branching fractions of various final states in $t t$ production are about the same as in the SM. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A.Anomalous contribution to top pair production cross section ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The dominant mechanisms of top quark pair production at hadron colliders are the QCD processes of quark-antiquark annihilation and gluon-gluon fusion. At the Tevatron collider, the quark-antiquark annihilation process is dominant for $m _ { t } = 1 7 5$ GeV. In the SM, several groups [11-13] have calculated the cross section to the next-to-leading order by summing over soft gluons up to leading logarithms. More recently, soft-gluon resummation at the next-to-leading logarithmic level has also been performed [14]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We calculate the new physics contribution to the quark-antiquark annihilation process and neglect its effect in the gluon-gluon fusion process since its contribution to the cross section is small at the Tevatron. For the on-shell $t$ and $t$ , we obtain the effective $g t { \\bar { t } }$ coupling arising from the dimension-six operators ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { g t \\bar { t } } ^ { \\mu A } = T ^ { A } \\left[ \\gamma ^ { \\mu } F _ { V } + \\left( \\gamma ^ { \\mu } \\gamma _ { 5 } - \\frac { 2 m _ { t } } { k ^ { 2 } } k ^ { \\mu } \\gamma _ { 5 } \\right) F _ { A } + \\frac { 1 } { 2 m _ { t } } ( p _ { \\bar { t } } - p _ { t } ) ^ { \\mu } F _ { M } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $p _ { t }$ and $p _ { \\bar { t } }$ are the momenta of the outgoing top quark and anti-quark, respectively, and $k = p _ { \\bar { t } } + p _ { t }$ is the momentum of the vector boson. The form factors are derived from the contributions of the new physics operators ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { F _ { V } ( k ^ { 2 } ) = \\displaystyle - \\frac { k ^ { 2 } } { 2 } \\left[ \\frac { C _ { t G } } { \\Lambda ^ { 2 } } + \\frac { C _ { q G } } { \\Lambda ^ { 2 } } \\right] + 2 \\sqrt { 2 } v m _ { t } \\frac { C _ { t G \\Phi } } { \\Lambda ^ { 2 } } , } } \\\\ { { F _ { A } ( k ^ { 2 } ) = \\displaystyle - \\frac { k ^ { 2 } } { 2 } \\left[ \\frac { C _ { t G } } { \\Lambda ^ { 2 } } - \\frac { C _ { q G } } { \\Lambda ^ { 2 } } \\right] , } } \\\\ { { F _ { M } ( k ^ { 2 } ) = \\displaystyle 2 \\sqrt { 2 } v m _ { t } \\frac { C _ { t G \\Phi } } { \\Lambda ^ { 2 } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pseudoscalar coupling proportional to $k _ { \\mu } \\gamma _ { 5 }$ is related to the axial vector coupling by current conservation. It gives negligible contribution (proportional to the initial quark mass) to the process. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The new physics contribution to the parton-level cross section for $q \\bar { q } \\to t t$ to order $1 / \\Lambda ^ { 2 }$ （204号 is found to be ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\hat { \\sigma } ^ { \\mathrm { n e w } } ( \\hat { s } ) = \\frac { 2 \\alpha _ { s } g _ { s } \\hat { \\beta } } { 2 7 \\hat { s } } [ F _ { V } ( \\hat { s } ) ( 3 - \\hat { \\beta } ^ { 2 } ) + F _ { M } ( \\hat { s } ) \\hat { \\beta } ^ { 2 } ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { s }$ is the center-of-mass energy squared for the parton-level process and $\\hat { \\beta } = ( 1 -$ $4 m _ { t } ^ { 2 } / \\hat { s } ) ^ { 1 / 2 }$ . Notice that the axial vector coupling does not contribute to the total cross section. We will discuss in Sec. IV how to measure this coupling. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The new physics contribution to the total hadronic cross section for top quark pair production is obtained by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\sigma _ { t \\bar { t } } ^ { \\mathrm { n e w } } = \\sum _ { q } \\int _ { \\tau _ { 0 } } ^ { 1 } d \\tau \\frac { d L _ { q \\bar { q } } } { d \\tau } \\Delta \\hat { \\sigma } ^ { \\mathrm { n e w } } \\big ( \\hat { s } = s \\tau \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $s$ is the $p p$ center-of-mass energy squared, $\\hat { s }$ the center-of-mass energy squared for the parton subprocess, and $\\tau _ { 0 } = 4 m _ { t } ^ { 2 } / s$ . The quantity $d L _ { q \\bar { q } } / d \\tau$ is the parton luminosity defined by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d L _ { q \\bar { q } } } { d \\tau } = \\int _ { \\tau } ^ { 1 } \\frac { d x _ { 1 } } { x _ { 1 } } [ f _ { q } ^ { p } ( x _ { 1 } , \\mu ) f _ { \\bar { q } } ^ { \\bar { p } } ( \\tau / x _ { 1 } , \\mu ) + ( q  \\bar { q } ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { q } ^ { p }$ denotes the quark distribution function in a proton. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculation, we use the CTEQ3L parton distribution functions [15] with $\\mu = \\sqrt { \\hat { s } }$ For $m _ { t } = 1 7 5$ GeV,we obtain the new physics contribution to order $1 / \\lambda$ to the total hadronic cross section in unit of pb ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\sigma _ { t \\bar { t } } ^ { \\mathrm { n e w } } = \\left\\{ \\begin{array} { l l } { \\left[ - 0 . 6 1 ( C _ { t G } + C _ { q G } ) + 0 . 8 1 C _ { t G \\Phi } \\right] ( \\Lambda / \\mathrm { T e V } ) ^ { - 2 } } & { \\mathrm { a t ~ } \\sqrt { s } = 1 . 8 \\mathrm { ~ T e V } , } \\\\ { \\left[ - 0 . 8 5 ( C _ { t G } + C _ { q G } ) + 1 . 0 9 C _ { t G \\Phi } \\right] ( \\Lambda / \\mathrm { T e V } ) ^ { - 2 } } & { \\mathrm { a t ~ } \\sqrt { s } = 2 \\mathrm { ~ T e V } . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "B.Current bounds from Run 1 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Current bounds for the coupling strength of the operators can be derived from the available data on the cross section at Run 1 of the Tevatron. The production cross section measured by the CDF collaboration with an integrated luminosity of $1 1 0 \\mathrm { p b } ^ { - 1 }$ is [16] $\\sigma = 7 . 6 _ { - 1 . 5 } ^ { + 1 . 8 }$ pb for $m _ { t } = 1 7 5$ GeV，which combines dilepton， lepton $^ +$ jets and all-hadronic channels. The D0 collaboration gives [17,18]σ = 5.9±1.7 pb for $m _ { t } = 1 7 2$ GeV. We use the (unofficial) combined result [18] of ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { t \\bar { t } } ^ { \\mathrm { e x p } } = 6 . 7 \\pm 1 . 3 \\mathrm { p b } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the theoretical cross section in the SM, we adopt the most complete result currently available [14],which includes soft-gluon summation up to the next-to-leading logarithmic order: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { t \\bar { t } } ^ { \\mathrm { S M } } = 5 . 0 6 _ { - 0 . 3 6 } ^ { + 0 . 1 3 } \\mathrm { p b }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "for $m _ { t } = 1 7 5$ GeV at $\\sqrt { s } = 1 . 8$ TeV. To make a comparison of the measured and standard model cross section, we have to take into account the present uncertainty of the top quark mass [19,20,18] which affects both the experimental and theoretical cross sections. Shifting $m _ { t }$ by $\\pm 5$ GeV changes the SM cross section by about $\\pm 1 5 \\%$ . The measured cross section also changes with $m _ { t }$ in the same direction but the dependence is weaker. The net effect is about $1 0 \\%$ uncertainty in the difference of the two cross sections. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Combining all these uncertainties, the possible new physics contribution to the cross section is found to be ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\sigma _ { t \\bar { t } } ^ { \\mathrm { n e w } } = \\sigma ^ { \\mathrm { e x p } } - \\sigma ^ { \\mathrm { S M } } = 1 . 6 \\pm 1 . 4 \\mathrm { p b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "which gives a $2 \\sigma$ bound on the coupling strengths for $\\Lambda = 1$ TeV ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 7 . 2 < C _ { t G } + C _ { q G } - 1 . 3 3 C _ { t G \\Phi } < 2 . 0 \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If one of the dimension-six operator gives the dominant new physics contribution, we find ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { - 7 . 2 < C _ { t G } , C _ { q G } < 2 . 0 } } \\\\ { { - 1 . 5 < C _ { t G \\Phi } < 5 . 4 ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We can see that the current bounds from Run 1 are not very strong. If one defnes the new physics scale $\\Lambda$ such that the magnitude of the coupling strengths are 1, then Run 1 has excluded the existence of new physics below 400-800 GeV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C.Expectations for Run 2 and 3 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine the size of the couplings that can be probed in the upgraded Tevatron, we must estimate the number of top events produced. In our analysis, Run 2 and Run 3 are defined as an integrated luminosity of 2 and $\\mathrm { 3 0 ~ f b ^ { - 1 } }$ at $\\sqrt { s } = 2$ TeV. We use the SM cross section for $t \\bar { t }$ production of 7.0 pb at $\\sqrt { s } = 2$ TeV.At Run 2 (Run 3), the total number of the produced $t \\bar { t }$ pairs is thus about $1 0 ^ { 4 }$ $( 2 \\times 1 0 ^ { 5 } ) ~ .$ ). A detailed analysis of the detection effciencies and signal purity for the three modes, the dilepton $( \\ell \\ell )$ , lepton plus $\\geq 3$ jets with one $b$ -tag $( \\ell 3 \\mathrm { j } / b )$ )，and lepton plus $\\geq$ 4 jets with two $b$ -tags $( \\ell 4 \\mathrm { j } / 2 b )$ can be found in Ref. [1]. They are shown in Table I. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In extracting the new physics contribution, various systematic uncertainties have to be taken into account besides the experimental systematic error. The present uncertainty in the theoretical $t t$ cross section in the standard model is at the 5% level [14]. Additional error coming from the present error on $m _ { t }$ will be much reduced with the expected more precise determination of $m _ { t }$ (2.8 and O.8 GeV are quoted for Run 2 and 3 [1]). We use the total systematic error of $5 \\%$ and $1 \\%$ for illustration. We also assume the same detection efficiencies as the SM events for the new physics contribution. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Assuming no signal of new physics, the expected $2 \\sigma$ bound on the coupling strength of the operators are obtained as shown in Table II; bounds are listed for systematic uncertainties of both 5% and 1%. A large improvement in the systematic error does not lead to a corresponding decrease in the bound at Run 2 because much of the error there still comes from the statistical uncertainty. At Run 3 the error is dominated by the systematic uncertainty and the bound would be substantially smaller if the systematic uncertainty could be reduced to $1 \\%$ .For $C _ { t G } = C _ { q G } = C _ { t G \\Phi } = 1$ ， these bounds correspond to the new physics scale $\\Lambda$ between 1 TeV and 2.5 TeV. Although Run 2 can improve the bounds from those at Run 1,one needs a better understanding of the theoretical uncertainty for further significant improvement of the bound at Run 3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV.DISENTANGLINGDIFFERENTOPERATORS",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the preceding section we assumed the existence of one operator at a time and derived the bound for each operator from the event-number counting experiments at the future runs of the Tevatron. But the counting experiments cannot distinguish the effects of diffrent operators. If the operators coexist, their efects have to be disentangled by analyzing additional measurable quantities. Here we present two methods to distinguish the effects of different operators contributing to the gtt coupling; one is the $t t$ invariant mass distribution of the cross section， and the other is the asymmetry between left- and right-handed top events in top pair production. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A. $t \\bar { t }$ invariant mass distribution ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The contribution of $O _ { t G }$ and $O _ { q G }$ is energy dependent and thus the behavior of the cross section versus the invariant $t t$ mass differs from that predicted by the SM.On the other hand, the contribution of $O _ { t G \\Phi }$ is energy independent and gives the same $M ( t { \\bar { t } } )$ distribution ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "as the SM. This provides a method to distinguish the effects of $O _ { t G }$ and/or $O _ { q G }$ from that of OtGΦ: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mass distribution is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\frac { d \\sigma } { d M _ { t \\bar { t } } } \\equiv \\frac { d ( \\sigma ^ { \\mathrm { S M } } + \\Delta \\sigma ^ { \\mathrm { n e w } } ) } { d M _ { t \\bar { t } } } } } \\\\ & { } & { = \\frac { 2 M _ { t \\bar { t } } } { s } ( \\hat { \\sigma } ^ { \\mathrm { S M } } + \\Delta \\hat { \\sigma } ^ { \\mathrm { n e w } } ) \\frac { d L _ { q \\bar { q } } } { d \\tau } ( \\tau = M _ { t \\bar { t } } ^ { 2 } / s ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows this distribution with and without the new physics contribution. It can be seen that the presence of $O _ { t G \\Phi }$ only alters the magnitude of the cross section, leaving the shape unchanged. The effect $O _ { t G }$ is energy-dependent and is more prominent for larger $M _ { t \\bar { t } }$ ， giving some distortion in the invariant mass distribution. The result for $O _ { q G }$ is the same as that for $O _ { t G }$ and is not shown. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to quantify the shape of the distribution, we define the ratio of the high-mass vs. low-mass $t t$ events as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR \\equiv { \\frac { N ( M _ { t \\bar { t } } > M _ { 0 } ) } { N ( M _ { t \\bar { t } } < M _ { 0 } ) } } = { \\frac { \\sigma ( M _ { t \\bar { t } } > M _ { 0 } ) } { \\sigma ( M _ { t \\bar { t } } < M _ { 0 } ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $N ( M _ { t \\bar { t } } > M _ { 0 } )$ is the number of events for $M _ { t \\bar { t } } > M _ { 0 }$ ，etc. The value of $M _ { 0 }$ may be chosen to maximize sensitivity to the new physics. The ratio $R$ is found to be a function of $C _ { t G } + C _ { q G }$ . It thus provides independent information on new physics not contained in the total cross section. In particular, $R$ will be the same as the SM prediction if only $O _ { t G \\Phi }$ is present. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the ratio $R$ versus the coupling strength with and without the presence of $O _ { t G }$ .We have used $M _ { 0 } = 6 0 0$ GeV for illustration. We note that measuring this ratio will not only distinguish $O _ { t G }$ (or $O _ { q G }$ ）from $O _ { t G \\Phi }$ but also determine the sign of the coupling constant $C _ { t G }$ (or $C _ { q G }$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "B. Top polarization asymmetry ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Sec. III, we have evaluated the new physics contribution to the total top pair events summing over the spins of $t$ and $t$ . Measurement of top polarization can give independent information for the new physics. In fact, the axial vector coupling $F _ { A }$ in Eq. (3.1) contributes with the opposite sign to left- and right-handed top quark cross sections, producing a nonzero polarization asymmetry without changing the total cross section. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Following Ref. [21], we define the asymmetry as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { A } \\equiv \\frac { N _ { R } - N _ { L } } { N _ { R } + N _ { L } } = \\frac { \\sigma _ { R } - \\sigma _ { L } } { \\sigma _ { R } + \\sigma _ { L } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { R }$ and $N _ { L }$ are the number of right- and left-handed top quarks, respectively. We do not require spin information on the $\\bar { t }$ . The polarization may be measured $^ 2$ through the angular distributions [22] of the leptonic events $t \\to W ^ { + } b \\to \\ell ^ { + } \\nu _ { \\ell } b$ $( \\ell = e , \\mu$ ).Inthe SM this asymmetry is too small to be observed at the Tevatron, because QCD is invariant under parity and charge conjugation， and so the asymmetry arises only from the weak corrections [21]. Hence the asymmetry is a good observable for probing new physics. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The cross sections in (4.3) can be written as $\\sigma _ { R } = \\sigma _ { R L } + \\sigma _ { R R }$ and $\\sigma _ { L } = \\sigma _ { L R } + \\sigma _ { L L }$ with $\\sigma _ { \\lambda _ { 1 } \\lambda _ { 2 } } \\equiv \\sigma ( p \\bar { p } \\to t _ { \\lambda _ { 1 } } t _ { \\lambda _ { 2 } } + X )$ .Here $\\lambda _ { 1 }$ and $\\lambda _ { 2 }$ indicate the helicity states for $t$ and $t$ ， respectively. These are obtained by convoluting the parton-level cross section $\\hat { \\sigma } ( q \\bar { q } \\to t \\bar { t } )$ with parton distribution functions as in Eq. (3.4). The parton-level cross section is expressed as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\sigma } _ { \\lambda _ { 1 } \\lambda _ { 2 } } = \\hat { \\sigma } _ { \\lambda _ { 1 } \\lambda _ { 2 } } ^ { \\mathrm { S M } } + \\Delta \\hat { \\sigma } _ { \\lambda _ { 1 } \\lambda _ { 2 } } ^ { \\mathrm { n e w } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { \\sigma } _ { \\lambda _ { 1 } \\lambda _ { 2 } } ^ { \\mathrm { S M } }$ and $\\Delta \\hat { \\sigma } _ { \\lambda _ { 1 } \\lambda _ { 2 } } ^ { \\mathrm { n e w } }$ areedi these are given by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\hat { \\sigma } _ { L L } ^ { \\mathrm { S M } } = \\hat { \\sigma } _ { R R } ^ { \\mathrm { S M } } = \\cfrac { 4 \\pi \\alpha _ { s } ^ { 2 } \\beta } { 2 7 \\hat { s } } \\cfrac { 2 m _ { t } ^ { 2 } } { \\hat { s } } , } \\\\ & { \\hat { \\sigma } _ { L R } ^ { \\mathrm { S M } } = \\hat { \\sigma } _ { R L } ^ { \\mathrm { S M } } = \\cfrac { 4 \\pi \\alpha _ { s } ^ { 2 } \\beta } { 2 7 \\hat { s } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { \\Delta \\hat { \\sigma } _ { L L } ^ { \\mathrm { n e w } } = \\hat { \\sigma } _ { R R } ^ { \\mathrm { n e w } } = \\displaystyle \\frac { 1 } { g _ { s } } \\left( 2 F _ { V } + \\frac { \\beta ^ { 2 } \\hat { s } } { 2 m _ { t } ^ { 2 } } F _ { M } \\right) \\hat { \\sigma } _ { L L } ^ { \\mathrm { S M } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { \\Delta \\hat { \\sigma } _ { L R } ^ { \\mathrm { n e w } } = \\displaystyle \\frac { 2 } { g _ { s } } \\left( F _ { V } - \\beta F _ { A } \\right) \\hat { \\sigma } _ { L R } ^ { \\mathrm { S M } } , } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { \\Delta \\hat { \\sigma } _ { R L } ^ { \\mathrm { n e w } } = \\displaystyle \\frac { 2 } { g _ { s } } \\left( F _ { V } + \\beta F _ { A } \\right) \\hat { \\sigma } _ { R L } ^ { \\mathrm { S M } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here we see that $\\Delta \\hat { \\sigma } _ { L R } ^ { \\mathrm { n e w } }$ differs from $\\Delta \\hat { \\sigma } _ { R L } ^ { \\mathrm { n e w } }$ due to the existence of $F _ { A }$ , which will cause the asymmetry $A$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To order $1 / \\Lambda ^ { 2 }$ ，we can neglect the new physics contribution to the denominator in Eq. (4.3). Again we use the CTEQ3L parton distribution functions [15] with $\\mu = { \\sqrt { \\hat { s } } }$ For $m _ { t } = 1 7 5$ GeV,we obtain the asymmetry ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { A } = - 0 . 0 9 8 ( C _ { t G } - C _ { q G } ) ( \\Lambda / \\mathrm { T e V } ) ^ { - 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A cut on the $t t$ invariant mass $M _ { t \\bar { t } } > M _ { 0 }$ enhances the asymmetry but at the same time decreases the number of $t t$ events. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The expected number of reconstructed $t t$ events with top decay in the channel $t $ $W ^ { + } b  \\ell ^ { + } \\nu _ { \\ell } b$ $( \\ell = e , \\mu$ ） may be found in Table I,which implies the $1 \\sigma$ sensitivity for the asymmetry of $\\sim 3 \\%$ and $\\sim 1 \\%$ in magnitude at Run 2 and Run 3, respectively. Under the present constraints Eq. (3.11), the operators $C _ { t G }$ or $C _ { q G }$ can produce an asymmetry $A$ as large as $3 0 \\%$ assuming no cancellation between these two operators. Such a large asymmetry should be clearly observable in future runs. If no asymmetry is observed, one can put bounds on the operators ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\vert C _ { t G } - C _ { q G } \\vert } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } \\leq 1 . 3 ( 0 . 4 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "for Run 2 (Run 3),which corresponds to $\\mathscr { A } \\leq 4 / \\sqrt { N }$ ( $N$ is the total number of events). Although this bound is weaker than that obtained in Sec.II, it can be regarded as independent information because it does not depend on the coupling strength of $O _ { t G \\Phi }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note that both of the observables in Sec. IVA and Sec. IVB distinguish the effects of $O _ { t G }$ or $O _ { q G }$ from that of $O _ { t G \\Phi }$ . Furthermore, the two methods are complementary in that the ratio $R$ in Eq. (4.2) depends on $C _ { t G } + C _ { q G }$ while the asymmetry $\\mathcal { A }$ in Eq. (4.3) is sensitive to $C _ { t G } - C _ { q G }$ . Therefore, separation of the effects of the three couplings is possible using the measurements discussed in this and the previous sections. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "V.SINGLE TOP QUARK PRODUCTION",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Now we examine the effects of the set of operators (2.2d)-(2.2j) which contribute to single top production At the Tevatron, this reaction occurs mainly through the $s$ -channel （20 $W ^ { * }$ process $q ^ { \\prime } \\bar { q }  t b$ and the $W$ -gluon fusion process, which were studied extensively in the SM [24] and some of its extensions [25]. The $s$ -channel $W ^ { * }$ process， despite its relatively low cross section, is quite powerful for probing new physics because (i) the systematic error in the theoretical calculation of its cross section is small (its initial state effects can be measured in the similar Drell-Yan process $q ^ { \\prime } \\bar { q }  \\ell \\nu$ )，(ii) it can be isolated from other single top production processes at the upgraded Tevatron by requiring that both jets in the final state be tagged as $b$ jets [26]. The balance between statistics and systematics for the $W ^ { * }$ （204 process gives the result that its cross section can be measured to about the same precision as that for full single top cross section. So we choose the $s$ -channel $W ^ { * }$ process to probe the operators.3 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unlike the case of top pair production in which the efficiency for top selection can be predicted by extrapolating from Run 1 experience, we will calculate the number of single top signal and backgrounds by Monte Carlo simulation. We will also take into account of the fact that the top quark is polarized in its production. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A. Signal and backgrounds ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For both $t$ and $b$ being on-shell, the new physics contribution to the $W t b$ vertex can be written as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { W i \\bar { b } } ^ { \\mu } = - { \\frac { g _ { 2 } } { \\sqrt { 2 } } } \\left[ \\gamma ^ { \\mu } ( \\kappa _ { 1 L } P _ { L } + \\kappa _ { 1 R } P _ { R } ) + p _ { t } ^ { \\mu } ( \\kappa _ { 2 L } P _ { L } + \\kappa _ { 2 R } P _ { R } ) + p _ { \\bar { b } } ^ { \\mu } ( \\kappa _ { 3 L } P _ { L } + \\kappa _ { 3 R } P _ { R } ) \\right] ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { L , R } \\equiv ( 1 \\mp \\gamma _ { 5 } ) / 2$ and the form factors from new physics are given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa _ { 1 L } = \\frac { v ^ { 2 } } { \\Lambda ^ { 2 } } \\left[ C _ { t W \\Phi } \\frac { \\sqrt { 2 } m _ { t } } { g _ { 2 } v } + C _ { \\Phi q } ^ { ( 3 ) } - C _ { q W } \\frac { k ^ { 2 } } { g _ { 2 } v ^ { 2 } } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3The anomalous $W t b$ couplings may also be probed at the Tevatron in the top quark decay $t  W b$ with spin analysis [23]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\kappa _ { 1 I } = \\frac { \\psi ^ { 2 } } { \\Lambda ^ { 2 } } \\left[ C _ { b W \\Psi } \\frac { \\sqrt { 2 } m _ { t } } { g _ { 2 } \\pi } + \\frac { C _ { t 3 } } { 2 } \\right] , } \\\\ & { \\kappa _ { 2 L } = \\frac { \\psi } { \\Lambda ^ { 2 } } \\left[ - C _ { i W \\Psi } \\frac { \\sqrt { 2 } } { g _ { 2 } } - \\frac { C _ { t 3 } } { \\sqrt { 2 } } + C _ { i W } \\frac { m _ { t } } { g _ { 2 } \\pi } \\right] , } \\\\ & { \\kappa _ { 2 I } = - \\frac { \\psi } { \\Lambda ^ { 2 } } C _ { a W \\Psi } \\frac { \\sqrt { 2 } } { g _ { 2 } } , } \\\\ & { \\kappa _ { 3 L } = \\frac { \\textbf { v } } { \\Lambda ^ { 2 } } \\left[ C _ { t W \\Psi } \\frac { \\sqrt { 2 } } { g _ { 2 } } + C _ { a W } \\frac { m _ { t } } { g _ { 2 } \\pi } \\right] , } \\\\ & { \\kappa _ { 3 L } = \\frac { \\psi } { \\Lambda ^ { 2 } } \\left[ \\frac { C _ { T b } } { \\sqrt { 2 } } + C _ { i W \\Psi } \\frac { \\sqrt { 2 } } { g _ { 2 } } \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where k = Pt +pb· ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The interference of the SM matrix element $( \\mathcal { M } _ { \\mathrm { S M } } )$ with the new physics contribution $( \\mathcal { M } _ { \\mathrm { n e w } } )$ for the $W ^ { * }$ process $u + \\bar { d }  t + \\bar { b }$ is given by (neglecting KM mixing) ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\mathrm { s p i n s } } \\mathrm { R e } [ \\mathcal { M } _ { \\mathrm { S M } } ^ { \\dagger } \\mathcal { M } _ { \\mathrm { n e w } } ] = \\frac { g _ { 2 } ^ { 4 } } { 2 ( \\hat { s } - m _ { W } ^ { 2 } ) ^ { 2 } } \\left[ 2 \\hat { u } ( \\hat { u } - m _ { t } ^ { 2 } ) \\kappa _ { 1 L } - m _ { t } \\hat { t } \\hat { u } ( \\kappa _ { 2 L } - \\kappa _ { 3 L } ) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "for spin-summed matrix elements and ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R e } [ \\mathcal { M } _ { \\mathrm { S M } } ^ { \\dagger } \\mathcal { M } _ { \\mathrm { n e w } } ] = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { g _ { 2 } ^ { 4 } \\hat { t } \\hat { u } } { 2 ( \\hat { s } - m _ { W } ^ { 2 } ) ^ { 2 } } \\left[ \\frac { 2 m _ { t } ^ { 2 } } { \\hat { s } - m _ { t } ^ { 2 } } \\kappa _ { 1 L } - m _ { t } ( \\kappa _ { 2 L } - \\kappa _ { 3 L } ) \\right] } & { \\mathrm { f o r ~ } h _ { t } = + } \\\\ { \\displaystyle \\frac { g _ { 2 } ^ { 4 } } { ( \\hat { s } - m _ { W } ^ { 2 } ) ^ { 2 } } \\frac { \\hat { s } \\hat { u } ^ { 2 } } { \\hat { s } - m _ { t } ^ { 2 } } \\kappa _ { 1 L } } & { \\mathrm { f o r ~ } h _ { t } = - } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "for matrix elements with top quark helicity $h _ { t } = \\pm$ . Here $\\hat { s }$ is the parton c.m. energy squared and ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\hat { t } = ( p _ { u } - p _ { t } ) ^ { 2 } = - \\displaystyle \\frac { 1 } { 2 } \\big ( \\hat { s } - m _ { t } ^ { 2 } ) \\big ( 1 - \\cos \\theta ^ { * } \\big ) } } \\\\ { { \\hat { u } = ( p _ { d } - p _ { t } ) ^ { 2 } = - \\displaystyle \\frac { 1 } { 2 } \\big ( \\hat { s } - m _ { t } ^ { 2 } \\big ) \\big ( 1 + \\cos \\theta ^ { * } \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta ^ { * }$ is the c.m. scattering angle. We have neglected the bottom quark mass. With this approximation, only one helicity of the quarks other than the top participate in the process and the contribution of $\\kappa _ { i R }$ ( $i = 1$ , 2,3),and hence that of the operators $O _ { b W \\Phi }$ ， $O _ { t 3 }$ ，and $O _ { D b }$ , drops out. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For the $W ^ { * }$ process,we look for events with $t \\to W ^ { + } b \\to \\ell ^ { + } \\nu b$ $\\displaystyle ( \\ell = e , \\mu$ ）and thus the signature is an energetic charged lepton,missing $E _ { T }$ ，and double $b$ -quark jets. We assumed silicon vertex tagging of the $b$ quark jet with $5 0 \\%$ efficiency and the probability of $0 . 4 \\%$ for a light quark jet to be misidentified as a $b$ -jet. The potential SM backgrounds are: (B1) the same $W ^ { * }$ process in the SM, (B2) the quark-gluon fusion process $q g  q ^ { \\prime } t \\bar { b }$ where $q ^ { \\prime }$ is misidentified as a $b$ -jet,(B3) processes involving a b-quark in the initial state, $q b  t q ^ { \\prime }$ and $g b  t W$ ，(B4) $t \\bar { t } \\to W ^ { - } W ^ { + } b b$ . (B5) $W b { \\bar { b } }$ , and (B6) $W j j$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Let us discuss the backgrounds in turn. Background process (B2) contains an extra light quark jet and can only mimic our signal if the quark misses detection by going into the beam pipe. In our calculation of the $W$ -gluon fusion process as a background， we impose （204号 $\\eta ( q ^ { \\prime } ) > 3$ and $p _ { T } ( q ^ { \\prime } ) < 1 0$ GeV for the light-quark jet. The $q b  t q ^ { \\prime }$ background $^ 4$ is greatly reduced by requiring double $b$ -tagging. The process $g b  t W$ can only imitate our signal if the $W$ decays into two jets, where one jet is missed by the detector and the other is misidentified as a $b$ quark, which should be negligible for the misidentification rate assumed here. Background process (B4) can mimic our signal if both $W$ 's decay leptonically and one charged lepton is not detected, which we assumed to occur if $| \\eta ( \\ell ) | > 3$ and $p _ { T } ( \\ell ) < 1 0$ （20 GeV. Since we required two $b$ -jets to be present in the final state, the potentially large background process (B5） from $W j j$ is reduced to an insignificant level. In order to reduce the backgrounds $W b { \\bar { b } }$ and $W j j$ ， we required the reconstructed top quark mass $M ( b W )$ to lie within the mass range $| M ( b W ) - m _ { t } | < 3 0$ GeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To simulate the detector acceptance, we made a series of cuts on the transverse momentum $\\left( p _ { T } \\right)$ , the pseudo-rapidity $( \\eta )$ , and the separation in the azimuthal angle-pseudo rapidity plane ( ${ \\Delta R = \\sqrt { ( \\Delta \\phi ) ^ { 2 } + ( \\Delta \\eta ) ^ { 2 } } ) }$ between a jet and a lepton or between two jets. The cuts are chosen to be ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { p _ { T } ^ { \\ell } , \\ : p _ { T } ^ { b } , \\ : p _ { T } ^ { \\mathrm { m i s s } } \\geq 2 0 \\mathrm { G e V } , } \\\\ & { | \\eta _ { b } | , \\ : | \\eta _ { \\ell } | \\leq 2 . 5 , } \\\\ & { \\Delta R _ { j j } , \\ : \\Delta R _ { j \\ell } \\geq 0 . 5 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To make the analyses more realistic, we simulate the detector effcts by assuming a Gaussian smearing from the energy of the final state particles, given by: ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E / E = \\left\\{ \\begin{array} { l l } { 3 0 \\% / \\sqrt { E } \\oplus 1 \\% } & { \\mathrm { f o r ~ l e p t o n s , } } \\\\ { 8 0 \\% / \\sqrt { E } \\oplus 5 \\% } & { \\mathrm { f o r ~ h a d r o n s , } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $\\bigoplus$ indicates that the energy dependent and independent terms are added in quadrature and $E$ is in GeV. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We have explicitly calculated backgrounds (B1) and (B2),and for the others used the analysis of Ref.[27]. After all cuts, the number of background events at Run 2 (Run 3) are found to be 38 (570),2 (26),1 (14), 4 (54),60 (900) and 1 (21),respectively, for the six background processes described above. Here we see that after the cuts the backgrounds from processes (B2),， (B3)， (B4) and (B6) are negligibly small. The number of total background events is 106 (1590) for Run 2 (Run 3). After the cuts, the number of signal events from new physics is found to be ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\left\\{ \\begin{array} { l l } { ( 9 C _ { t W \\Phi } + 5 C _ { \\Phi q } ^ { ( 3 ) } - 1 1 C _ { q W } + 0 . 3 C _ { D t } ) ( \\Lambda / ( \\mathrm { T e V } ) ) ^ { - 2 } , } & { \\mathrm { a t ~ R u n ~ 2 } } \\\\ { ( 1 3 5 C _ { t W \\Phi } + 6 9 C _ { \\Phi q } ^ { ( 3 ) } - 1 6 5 C _ { q W } + 4 . 5 C _ { D t } ) ( \\Lambda / ( \\mathrm { T e V } ) ) ^ { - 2 } , } & { \\mathrm { a t ~ R u n ~ 3 . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4There is a large uncertainty in the relative strengths of the $q b$ and qg contributions to the background since the $b$ quark parton distribution is not a measured quantity, but is rather an entirely theoretical construction. Since both the qb and $q g$ contributions after all cuts are a very small fraction of the total background, this uncertainty will not affect our results. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The effects of $O _ { D t }$ are much smaller than those of the other three operators since it does not contribute to the form factor $\\kappa _ { 1 L }$ , whose contribution is found to be much larger than those of the other form factors. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B.Improvement of the bounds with Run 2 and 3 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From the results of the preceeding subsection，we obtain the bounds on the coupling strength of the operators from Run 2 (Run 3) if the new physics events are not observed at the $2 \\sigma$ level ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { \\frac { | C _ { q W } | } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } \\le 2 . 1 \\ ( 0 . 5 0 ) , } & \\\\ & { \\frac { | C _ { \\Phi 0 } ^ { ( 3 ) } | } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } \\le 4 . 6 \\ ( 1 . 2 ) , } & \\\\ & { \\frac { | C _ { t W \\Phi } | } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } \\le 2 . 6 \\ ( 0 . 6 1 ) , } & \\\\ & { \\frac { | C _ { \\mathrm { { \\tiny ~ 2 ~ } } \\ell } | } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } \\le 7 7 \\ ( 1 8 ) , } & \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where we again assumed the simple situation that cancellation among different operators does not take place. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in Sec. II, the operators $O _ { q W }$ ， $O _ { \\Phi q } ^ { ( 3 ) }$ ， $\\textcircled { \\scriptsize { \\it O } } _ { \\cal D b }$ and $O _ { b W \\Phi }$ also affect the $Z b b$ coupling and will be subject to an $R _ { b }$ constraint. The SM values of $R _ { b }$ and the latest experimental data are [28] ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { b } ^ { \\mathrm { S M } } = 0 . 2 1 5 8 , \\qquad R _ { b } ^ { \\mathrm { e x p } } = 0 . 2 1 7 0 ( 9 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "With the new physics contribution described in Eq. (2.5), $R _ { b }$ is given by ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { b } = R _ { b } ^ { S M } \\left[ 1 + { \\frac { 4 s _ { W } c _ { W } } { e } } { \\frac { v m _ { Z } } { \\Lambda ^ { 2 } } } \\left( C _ { q W } { \\frac { c _ { W } m _ { Z } } { 2 v } } - C _ { \\Phi q } ^ { ( 3 ) } \\right) { \\frac { v _ { b } + a _ { b } } { v _ { b } ^ { 2 } + a _ { b } ^ { 2 } } } ( 1 - R _ { b } ^ { S M } ) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where we have neglected the bottom quark mass and thus the contributions of $O _ { b W \\Phi }$ and （204号 $\\textcircled { \\scriptsize { \\it O } } _ { \\cal D b }$ ，which are proportional to $m _ { b } / m _ { Z }$ , drop out. At the $2 \\sigma$ level, we obtain the bounds for the coupling strength by assuming that no cancellation between $O _ { q W }$ and $O _ { \\Phi q } ^ { ( 3 ) }$ takes place, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { - 0 . 8 < \\frac { C _ { q W } } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } < 0 . 2 , } \\\\ & { - 0 . 0 3 < \\frac { C _ { \\Phi q } ^ { ( 3 ) } } { ( \\Lambda / \\mathrm { T e V } ) ^ { 2 } } < 0 . 1 3 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Since the dimension-six operators give a bad high energy behavior, there is an energy scale above which they cease to be a valid description of new physics. Any process below the new physics scale $\\Lambda$ should not violate the unitarity limit. For a given $\\Lambda$ ， this requirement can be translated to an upper limit on the coupling strengths $C$ . These unitarity limits have been worked out by Gounaris et al.[5] in detail. For $O _ { D t }$ and $O _ { t W \\Phi }$ , the strongest limits are obtained from two-body $t t$ scattering process. For $\\Lambda = 1$ TeV, they are given by ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left| C _ { t W \\Phi } \\right| < 1 3 . 5 , } \\\\ { \\left| C _ { D t } \\right| < 1 0 . 4 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The limit on $\\ C _ { D t }$ is independent of $\\Lambda$ . That on $C _ { t W \\Phi }$ becomes somewhat weaker for larger （204号 $\\Lambda$ ： Comparing Eqs. (5.9) with Eqs. (5.12) and (5.13),we find:   \n1. For the operators $O _ { q W }$ and $O _ { \\Phi q } ^ { ( 3 ) }$ , futureruns at the Tevatron cannot improve the current bounds obtained from $R _ { b }$ ，which place much stronger constraints on these operators. Hence their effects will not be observable at the Tevatron, even for a luminosity of 100 fb $^ - 1$ ：   \n2. The operator $O _ { t W \\Phi }$ ， currently subject only to weak bounds from unitarity, can be meaningfully probed at Run 2 and Run 3.   \n3.The operator $O _ { D t }$ cannot be probed at Run 2 and Run 3 much beyond the current bound from unitarity. For a higher integrated luminosity of $1 0 0 ~ \\mathrm { { f b ^ { - 1 } } }$ ， we found that the bound is $\\zeta _ { D t } < 9 . 8$ which is only slightly stronger than its current bound. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "So we conclude that among the operators contributing to the $W t { \\bar { b } }$ coupling, only one operatol $\\left( O _ { t W \\Phi } \\right)$ can be meaningfully probed at the future runs of the Tevatron. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "VI.CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We have studied in the effective Lagrangian approach the ability of future runs at the Tevatron in probing anomalous couplings of the top quark. We have listed and analyzed the possible dimension-six CP-conserving operators involving the anomalous $g t { \\bar { t } }$ or $W t b$ couplings which could be generated by new physics at a higher scale. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For the operators which give rise to an anomalous gtt coupling, we evaluated their effects in top pair production and derive the bounds both from Run 1 and those expected from future runs. We found that the current constraints from Run 1 are not very strong and that future runs can either discover the efects of these operators or significantly improve the current bounds. We also proposed two methods to disentangle the effects between different operators contributing to the gtt coupling: one is studying the energy distribution of the cross section and the other is measuring the asymmetry between left- and right-handed top events in top pair production. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For the operators which give rise to an anomalous $W t b$ coupling,we calculated their contribution to single top production at the upgraded Tevatron and derived the bounds which could be obtained from Run 2 and Run 3. We found that future runs of the Tevatron cannot effectively probe those operators which are currently subject to a tight constraint from $R _ { b }$ . For the operators which are not subject to the $R _ { b }$ constraint and are only constrained by unitarity, future runs of the Tevatron can either discover the efects of or set stronger bounds on $O _ { t W \\Phi }$ ，while the best bound on $O _ { D t }$ is still obtained from the unitarity constraint for any new physics scale. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In Table III we summarize the strongest upper bounds on the operators under consideration that currently exist or can be obtained in the future at the Tevatron, for $\\Lambda = 1$ TeV. The current bounds are from our results using either $R _ { b }$ or the Run 1 data at the $2 \\sigma$ （20 level, except for $\\check { C } _ { t W \\Phi }$ and $\\ C _ { D t }$ where the best current bounds come from the requirement ofunitarity.Wenotethatthecurrentboudson $C _ { q W }$ and $C _ { \\Phi q } ^ { ( 3 ) }$ obtained from $R _ { b }$ are better than those that can be obtained at Run 3 at the Tevatron. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "J. M. Y. acknowledges JSPS for the Postdoctoral Fellowship. The work of K. H. and J. M. Y. is supported in part by the Grant-in-Aid for Scientific Research (No. 10640243) and Grant-in-Aid for JSPS Fellows (No. 97317) from the Japan Ministry of Education, Science, Sports, and Culture. This work was supported in part by the U.S. Department of Energy, Division of High Energy Physics, under Grant No. DE-FG02-94ER40817. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1] Future ElectroWeak Physics at the Fermilab Tevatron: Report of the tev_20oo Study Group,edited by D. Amidei and C. Brock, Fermilab-Pub-96/082； A. P. Heinson，in QCD and High-Energy Hadronic Interactions， Proceedings of the XXXIst Rencontre de Moriond, Les Arcs,France,1996,edited by Tran Thanh Van (Edition Frontiere, Gif-sur-Yvette, France,1996), p. 43 (hep-ex/9605010).   \n[2] R. D. Peccei and X. Zhang, Nucl. Phys. B337, 269 (199O); R. D. Peccei, S. Peris and X. Zhang, Nucl. Phys. B349, 305 (1991); D. O. Carlson, E. Malkawi and C.-P. Yuan, Phys. Lett. B 337,145 (1994)； E. Malkawi and C.-P. Yuan, Phys.Rev. D 50, 4462 (1994).   \n[3] C. J. C. Burgess and H. J. Schnitzer, Nucl. Phys. B228, 454 (1983); C. N. Leung, S. T. Love and S. Rao, Z. Phys. C 31, 433 (1986); W. Buchmüler and D. Wyler, Nucl. Phys. B268, 621 (1986).   \n[4] G. J. Gounaris, F. M. Renard, and C. Verzegnassi, Phys. Rev. D 52, 451 (1995).   \n[5] G. J. Gounaris, D. T. Papadamou, and F. M. Renard, Z. Phys. C 76, 333 (1997).   \n[6] K. Whisnant, J. M. Yang, Bing-Lin Young and X. Zhang, Phys. Rev. D 56, 467 (1997).   \n[7] J. M. Yang and Bing-Lin Young, Phys. Rev. D 56, 5907 (1997).   \n[8] C. T. Hill and S. J. Parke, Phys. Rev. D 49, 4454 (1994). See B. Grzadkowski, Z. Hioki and M. Szafranski, hep-ph/9712357 for a study at $e ^ { + } e ^ { - }$ linear colliders.   \n[9] D.Atwood, A. Aeppli and A. Soni, Phys. Rev. Lett. 69, 2754 (1992)； D. Atwood, A. Kagan, T. G. Rizzo, Phys. Rev. D 52, 6264 (1995); K. Cheung, Phys. Rev. D 53, 3604 (1996)； P. Haberl, O. Nachtmann and A. Wilch,Phys. Rev. D 53, 4875 (1996); T.G. Rizzo, Phys.Rev. D 53,6218 (1996); D. Silverman, Phys. Rev. D 54, 5562 (1996).   \n[10] A. Datta and X. Zhang, Phys. Rev. D 55, 2530 (1997).   \n[11] E. L. Berger and H. Contopanagos, Phys. Lett.B 361, 115 (1995); Phys. Rev. D 54, 3085(1996)； hep-ph/970626.   \n[12] S. Catani, M. Mangano, P. Nason and L. Trentadue, Phys. Lett. B 378, 329 (1996); Nucl. Phys. B478, 273 (1996).   \n[13] E. Laenen, J. Smith and W. van Neerven, Nucl. Phys. B369, 543 (1992); Phys. Lett. B 321, 254 (1994).   \n[14] R. Bonciani, S. Catani, M. L. Mangano, and P. Nason, hep-ph/9801375.   \n[15] H.L. Lai, J. Botts, J. Huston, J. G. Morfin, J. F. Owens, J. W. Qiu, W. K. Tung and H. Weerts, Phys. Rev. D 51, 4763 (1995).   \n[16] CDF Collaboration, F. Abe et al., Phys. Rev. Lett. 80, 2773, 2779 (1998).   \n[17] D0 Collaboration, S Abachi et al., Phys. Rev. Lett. 79,1203 (1997).   \n[18] B. Klima,hep-ex/9804017.   \n[19] CDF Collaboration,F. Abe et al., Phys. Rev. Lett. 80, 2767, 2779 (1998).   \n[20] D0 Collaboration, S Abachi et al., Phys. Rev. Lett. 79,1197 (1997).   \n[21] C. Kao, G. A. Ladinsky and C.-P. Yuan, FSU-HEP-930508,1993 (unpublished); in Proceedings of DPF94, Albuquerque, NM, USA,1994, edited by S. Seidel (World Scientific, Singapore)， pp. 713-716; C. Kao, Phys. Lett. B 348,155 (1995); C. S. Li, R. Oakes, J. M. Yang and C.-P. Yuan, Phys. Lett. B 398, 298 (1997).   \n[22] G. L. Kane, G. A. Ladinsky and C.-P. Yuan, Phys. Rev. D 45, 124 (1992).   \n[23] C. A. Nelson and A. M. Cohen, hep-ph/9806373.   \n[24] S. Willenbrock and D. Dicus, Phys. Rev. D 34,155 (1986)； S. Dawson and S. Willenbrock, Nucl. Phys. B284, 449 (1987)； C.-P. Yuan，Phys. Rev. D 41，42 (1990); F. Anselmo, B. van Eijk and G. Bordes, Phys. Rev. D 45, 2312 (1992)； R. K.Ellis and S. Parke, Phys. Rev. D 46,3785 (1992); D. Carlson and C.-P. Yuan, Phys. Lett. B 306,386 (1993); E. Malkawi and C.-P. Yuan, Phys. Rev. D 50, 4462 (1994); G. Bordes and B. van Eijk, Nucl. Phys. B435, 23(1995)；A. Heinson, A. Belyaev and E. Boos, Phys.Rev. D 56, 3114 (1997)； T. Stelzer and S. Willenbrock, Phys. Lett. B 357, 125 (1995)； M. Smith and S. Willenbrock, Phys. Rev. D 54, 6696 (1996)； S. Mrenna and C.-P. Yuan, Phys. Lett. B 416, 200 (1998); T. Tait and C.-P. Yuan, hep-ph/9710372.   \n[25] E. H. Simmons, Phys. Rev. D 55, 5494 (1997); C. S. Li, R. J. Oakes and J. M. Yang, Phys. Rev. D 55,1672 (1997); 55, 5780 (1997); A. Datta, J. M. Yang, Bing-Lin Young and X. Zhang, Phys. Rev. D 56,3107 (1997); C. S. Li, R. J. Oakes, J. M. Yang and H. Y. Zhou, Phys. Rev. D 57, 2009 (1998); R. J. Oakes, K. Whisnant, J. M. Yang, Bing-Lin Young and X. Zhang, Phys. Rev. D 57, 534 (1998).   \n[26] T. Stelzer and S. Willenbrock, in Ref. [24].   \n[27] M. Hosch, private communication. The $W j j$ background was evaluated using the VECBOS Monte Carlo program (see F. A. Berends, H. Kuijf, B. Tansk and W. T. Giele, Nucl. Phys. B357, 32 (1991)), while the $W b b$ and $t t$ backgrounds were evaluated using the ONETOP Monte Carlo (see E. Malkawi and C.-P. Yuan, Phys. Rev. D 50, 4462 (1994); D. O. Carlson and C.-P. Yuan, Phys. Lett. B 306,386 (1993)).   \n[28] G. Alteralli, CERN-TH-97-278, hep-ph/9710434. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "TABLES ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8cd002ecf4a4e3e60251fbc68683402b99267afd700b58205c67e4bee0820b2.jpg",
+        "table_caption": [
+            "TABLE I. Expected numbers of events and statistical errors for top pair production at Run 2 and 3.The combined statistical error is derived from the ll and $\\ell { 3 } { \\mathrm { j } } / b$ channels. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td colspan=\"2\">Run 2</td><td colspan=\"2\">Run 3</td></tr><tr><td>Mode</td><td>Efficiency (%）</td><td>Purity S:B</td><td>#events (with bkgd)</td><td>Statistical error (%)</td><td>#events (with bkgd)</td><td>Statistical error (%)</td></tr><tr><td>ll</td><td>1.2</td><td>5:1</td><td>200</td><td>8.5</td><td>3000</td><td>2.2</td></tr><tr><td>l3j/b</td><td>8.6</td><td>3:1</td><td>1600</td><td>3.3</td><td>24000</td><td>0.9</td></tr><tr><td>l4j/2b</td><td>3.8</td><td>12:1</td><td>570</td><td>4.5</td><td>8600</td><td>1.2</td></tr><tr><td>total</td><td></td><td></td><td></td><td>3.1</td><td></td><td>0.8</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "TABLE II. Expected $2 \\sigma$ bounds at Run 2 and 3 for the operators contributing top pair production.If the three operators coexist,the limits for $| C _ { t G } |$ etc.should be reinterpreted to those for $| C _ { t G } + C _ { q G } - 1 . 2 8 C _ { t G \\Phi } |$ ： ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/19c7d1676fcca700f5c1ac7d2f2b82b6e8ee295fca067bf47189c49066f798b6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Run 2</td><td colspan=\"2\">Run3</td></tr><tr><td>Systematic error</td><td>5%</td><td>1%</td><td>5%</td><td>1%</td></tr><tr><td>|CtGl, ICqG|</td><td>0.97</td><td>0.53</td><td>0.82</td><td>0.21</td></tr><tr><td>|CtGΦ|</td><td>0.75</td><td>0.41</td><td>0.64</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "TABLE III. Current and future strongest upper bounds on the magnitude of coupling strength of some operators at $2 \\sigma$ level for $\\Lambda = 1$ TeV. The current bounds are from unitarity requirement for $C _ { t W \\Phi }$ and $C _ { D t }$ ， from $R _ { b }$ for $C _ { q W }$ and $C _ { \\Phi q } ^ { ( 3 ) }$ , and from Run 1 data for $C _ { t G }$ ， $C _ { q G }$ and $C _ { t G \\Phi }$ . ",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/58b8d9a0c53723228503508ff216da73c9e86ffd149c65ffd6cbd53e8a4b55eb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Current bounds</td><td>Bounds from Run 2</td><td>Bounds from Run 3</td></tr><tr><td>|CtGl,， ICqGl</td><td>7.2</td><td>1.0</td><td>0.8</td></tr><tr><td>|CtGΦ|</td><td>5.4</td><td>0.8</td><td>0.6</td></tr><tr><td>lCqWl</td><td>0.2</td><td>2.1</td><td>0.5</td></tr><tr><td></td><td>0.03</td><td>4.6</td><td>1.2</td></tr><tr><td>|CtWΦ|</td><td>13.5</td><td>2.6</td><td>0.6</td></tr><tr><td>ICDtl</td><td>10.4</td><td>77</td><td>18</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7cd93168dfe9e39b14903d715f542102b91b75393f919816bcb3a49ba2cf79c.jpg",
+        "img_caption": [
+            "FIG.1. Top pair invariant mass distribution in the SM (solid),with contributions from $O _ { t G \\Phi }$ （204号 (dashed) and with $O _ { t G }$ and/or $O _ { q G }$ (dotted and dash-dotted). The two curves for $O _ { t G } / O _ { q G }$ correspond to different coupling strengths. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/6da69fad7dce105875ee9747723e59608a969c9782d0a97b91aa43231c540fb1.jpg",
+        "img_caption": [
+            "FIG.2. The ratio $R$ with $M _ { 0 } = 6 0 0$ GeV as a function of $( C _ { t G } + C _ { q G } ) / \\Lambda ^ { 2 }$ . The SM value is indicated by the dashed line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    }
+]

@@ -1,0 +1,336 @@
+[
+    {
+        "type": "text",
+        "text": "江南冷浸田治理利用研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王　飞¹林　诚」李清华1 林新坚」余广兰2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．福建省农业科学院土壤肥料研究所 福州350013;2.福建省闽清县土壤肥料技术站闽清 350800)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要冷浸田是我国江南地区主要的一类低产水田，因其攘荒普遍，但增产潜力巨大且自然生态条件优越而受到关注。冷浸田形成是气候、地形、水文、人为管理等综合作用形成的结果。受常年地表水和地下水浸渍影响，冷浸田土壤物理、化学和生物学性质发生了系列变化，呈现“冷、烂、毒、瘦\"障碍特征，如水土温度低、土壤浸水容重低、亚铁、有机酸及还原态硫等还原性物质含量高、有机碳含量高但活性有机碳及有效养分缺乏或失衡、微生物区系少等。通过稻田潜育层与土壤还原性物质、地下水位等指标可诊断冷浸田并可评价土壤质量。冷浸田的治理利用包括工程措施、农艺措施与生物措施等综合技术，涉及明沟暗管、适生品种、水旱轮作、垄畦耕作、平衡施肥与土壤改良剂等。除了传统的水稻种植方式外，因地制宜利用是提高冷浸田综合生产能力的有效措施。在总结前人基础上，基于农业可持续发展观点，展望了今后冷浸田治理利用的研究重点与对策建议，包括研究不同渍水状态与干湿交替下土壤结构和土壤有机质组分差异；加强长期渍水状态的冷浸田甲烷排放特征研究；加强冷浸田潜育化过程厌气性的微生物与其产生的相关酶的生态学过程研究，强化微生物学调控改良冷浸田；此外应针对不同生态类型与生产条件的冷浸田加强技术集成与政策扶持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词冷浸田 土壤改良　障碍因子　治理利用 可持续发展中图分类号：S156.8 文献标识码：A 文章编号:1671-3990(2016)09-1151-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A review on improvement and utilization of southern cold-waterlogged paddy fields in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Fei1,LIN Cheng', LI Qinghua1, LIN Xinjian', YU Guanglan² (1.Institute of Soil and Fertilizer,Fujian Academy of Agricultural Sciences,Fuzhou 35oo13,China; 2. Soil and Fertilizer Technology Station of Minqing,Minqing 35o8oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractCold-waterlogged(CW)paddy fieldsare the main low-yield paddy fields in South China.CWpaddy fields have atractedcloseatentionas theybelong tocommonderelictands withhugepotentialforcropproductivityandgoodecological conditions.CWpaddyfieldsaretheproductsofthecomplexinteractionofclimate,topography,hydrologyandanthropogenic activity.Influencedbyyears of surface water and groundwater dip,soil physicochemical and biologicalpropertiesof CW paddyfieldshave shown hugevariations inte degreeofcoldness,rotenness,toxicityand inferility.CWpaddy fields have low-temperature waters,soilsandimmersedbulk density,excesiverducing substancesandsoilorganiccarbon,butalsolow active organiccarbon,microflora and available nutrientsorunbalanced nutrients.SoilqualityofCW paddy fieldscan be diagnosed and asessed by gley horizons,soil reducing substances and groundwater levels.This study summarized the integrated managementand utilizationofCW paddy fields,including enginering,agronomicand biological measures.This included openditchand hiddendrainage tubes,suitablerice varieties,paddy-upland croprotation,ridgecultivation,balanced fertilization,soilconditioning,etc.Inadditiontotraditionalrcecultivation,itwasanefective measuretocomprehensively improve productioncapacitybyadaptinglocalconditions totheutilizationofCWpaddyfields.Finally,there was clearned to put futureresearch emphasis on theadministration and utilizationof CWpaddy fields basedon sustainableagricultural development.This include1）studyingthediferences insoil structure and thecompositionoforganic matterunderdifferent gleyic states and the alternationof drying and weting;2)Strengtheningresearch on methane emission characteristics under long-term gleyic state in CWpaddy fields；3） Strengthening research on ecological processs of anaerobic microbes and productionenzymes and regulating and improvingCW paddy fieldsusing micro-organisms;4）There was also need to strengthen technological integration and policysupport based on different ecological types and productionconditions in CW paddy fields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsCold-waterlogged paddy field; Soil amendment;Obstruction factor; Improvement and utilization； Sustainable development ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着城镇化、工业化进程的加快，我国耕地面积在刚性减少，人地矛盾进一步加剧。受土地资源的约束，当前依靠增加耕地面积来提高粮食总产的目标已不现实，但通过提高粮食单产来提高粮食总产仍有较大潜力。耕地质量是影响粮食单产水平的重要因素，是良种、良法水平潜力发挥的基础。然而，我国单位面积耕地的产量差异较大，约 $40 \\%$ 的耕地为中产田， $30 \\%$ 的耕地为低产田，其中低产田存在障碍因子，改良难度大，在很大程度上制约了我国粮食持续增产[1]。江南冷浸田属典型低产田，因其分布广泛、零散度高而擢荒严重，但因其增产潜力巨大、自然生态条件优越而日益受到关注。本文试图从江南冷浸田概况、主要障碍因子、近年来主要改良与利用措施等方面进行总结剖析，以期为冷浸田治理与综合利用提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1江南冷浸田概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冷浸田是指长期受水浸渍，造成“冷、烂、毒、瘦\"为主要特征的一类水田。主要分布在山区丘陵谷地、平原湖沼低洼地以及山塘、水库堤坝的下部等区域。江南冷浸田面积在200 万 $\\mathbf { h } \\mathbf { m } ^ { 2 }$ 以上，以赣、湘、闽、云、贵、川、粤、桂等省(自治区)面积较大,浙、鄂、皖、苏和台湾等地也有分布[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冷浸田的形成是气候、地形、水文、人为管理等综合作用形成的结果。从气候条件来看，南方各省份水资源丰富，由于集水面积大，降雨的地面水和丰富的地下水向洼地汇集；从地形位置来看，冷浸田多发生于南方山垄谷地，地形起伏狭窄，如福建山垄田开阳率(垅开阔度/垅相对高度)多小于5,导致山高林荫日蔽，日照时数短，水土温度低[3-4];从水文特性与人为管理来看，冷浸田多引山涧冷泉水灌溉，或测渗水多，地下水位高，一般在 $5 0 \\ \\mathrm { c m }$ 以上，甚至溢出地表淹灌稻田，整个土壤还原作用占绝对优势，加剧了铁锰氧化物的还原淋溶，导致土体糜烂，结构不良，亚铁、亚锰含量增加，氧化还原电位明显降低，一般在 $1 5 0 ~ \\mathrm { m V }$ 以下，土体剖面呈青灰色，呈冷、烂、毒状态，不利于植株生长发育[3；从农业生产条件来看，冷浸田多分布于丘陵山区，耕地分散，交通不便，农田基础设施薄弱，水层长年漫流串灌，也有沟渠因年久失修，造成沟渠堵塞，造成次生潜育化。总体而言，冷浸田障碍因子多，农田耕作粗放，产量较低。据研究，冷浸田水稻产量比一般稻田低 $1 ~ 5 0 0 { \\sim } 2 ~ 2 5 0 \\ \\mathrm { k g { \\cdot } h m } ^ { - 2 [ 5 ] } ,$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冷浸田为习惯称谓，在中国土壤分类系统中属于潜育性水稻土亚类，在中国土壤系统分类中属滞水潜育土或正常潜育土亚纲。根据形成条件和土体的不同，《中国农业土壤概论》将冷浸田分为烂泥田、冷水田、冷底田、毒田和高地冷浸田5类。龚子同等7根据诊断层潜育层的位置、厚度和发育程度将潜育性水稻土划分为全层潜育、上位潜育、下位潜育、犁底层潜育和中位潜育5个类型。近年来，也有从治理利用角度，根据冷浸田有无犁底层，将无犁底层的冷浸田分为：山垅烂泥田、低洼烂泥田和锈水烂泥田，而有犁底层的冷浸田则初步分为低洼冷水田、钙质冷水田、泥质冷水田、砂质冷水田、矿毒冷水田等[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2江南冷浸田主要障碍因子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 物理障碍因子",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冷浸田常年渍水，与灰泥田地下水位变化不同，一是地下水位高，二是地下水位波动平缓，不如潴育性水稻田如灰泥田地下水位波动频繁而呈现明显的潴育层[9]。冷浸田类型中的冷水田因其具有较低的土温也易引起植株生长障碍。据观测，山垄谷底6—10月水稻生育期日照总时数 $6 1 2 . 3 \\mathrm { ~ h ~ }$ ，比洋面田少 $2 1 7 . 6 \\mathrm { h }$ ，光照减少 $2 6 . 2 \\%$ ，泉口冷水田水温、土温分别比洋面田低 $4 . 5 { \\sim } 8 . 2 \\mathrm { ~ ~ } \\mathrm { ~ C ~ }$ 和 $4 . 9 { \\sim } 8 . 7 \\mathrm { ~ ~ } \\mathrm { ~ \\textC } ^ { [ 1 0 ] }$ 。对相似地形发育的冷浸田与非冷浸田监测表明，冷浸田单季稻生育期(6—10月)平均地表温度、 $5 \\mathrm { c m }$ 地温、$1 0 \\ \\mathrm { c m }$ 地温和 $1 5 \\ \\mathrm { c m }$ 地温分别比灰泥田低 $0 . 4 \\mathrm { ~ } \\mathrm { ~ \\textdegree ~ }$ /",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$0 . 4 \\mathrm { ~ \\ ^ ~ { ~ C ~ } ~ } , \\ 0 . 5 \\mathrm { ~ \\ ^ ~ { ~ C ~ } ~ }$ 和 $0 . 6 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ，尤其是9—10月的抽穗灌浆期地温与灰泥田差异进一步加大。因而山垄冷浸田地下水位高并伴随强还原性、较低的光合有效辐射与水稻生育后期地温下降较快是区别于非冷浸田的重要生境特征[9。为此提高环境土温是冷浸田治理利用的一个切入点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤结构是维持土壤功能的基础。冷浸田土体处于水饱和状态，高强度潜育的土壤，胶体吸水膨胀而高度失散，形成糜烂无结构土层，如福建的深脚烂泥田类型，烂泥层厚度超过 $3 0 ~ \\mathrm { c m }$ ，有的可达$1 0 0 ~ \\mathrm { { c m } ^ { [ 1 1 ] } }$ ；而一旦冷浸田在短时间内排水落干，土层黏韧坚硬，龟裂时裂缝很宽，再度复水则淀浆板结，成为僵块，导致水稻根系生长受阻、产量降低[7]。从机制而言，由于常年渍水，土壤金属氧化物长期处于还原状态，其不能作为胶结剂作用于土壤团聚体而导致土体糜烂[12]；冷浸田土体糊烂无结构，土壤常处于“发浆\"状态，导致其浸水容重较低[13]。另外，由于冷浸田土壤在风干过程中，皱缩明显，可能呈现非正常团聚化，这为土壤团聚体研究造成了困难，也有探讨直接利用新鲜土样对冷浸田土壤团聚体结构进行分析[14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 化学障碍因子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "还原性物质是冷浸田土壤的重要特征。据江南7省份调查，冷浸田土壤亚铁平均含量为 $1 ~ 4 3 7 . 0 8 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ ，高产田亚铁平均含量为 $8 1 4 . 3 8 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 。冷浸田亚铁含量明显高于高产田[15]。福建典型冷浸田亚铁平均含量较非冷浸田(灰泥田、黄泥田)提高 $1 7 7 \\% ^ { [ 1 3 ] }$ 。陈娜等[1研究表明，土壤对水稻生长和微生物活性的亚铁毒胁迫临界浓度为 $3 0 0 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ (含本底)。高浓度的 $\\mathrm { F e } ^ { 2 + }$ 胁迫明显抑制水稻地上部和根系的生长、降低下位叶片叶绿素含量。当介质中 $\\mathrm { F e } ^ { 2 + }$ 浓度过高时，水稻植株体内过氧化物酶(POD)、过氧化氢酶(CAT)和硝酸还原酶(NR)活性明显受抑制，然而低浓度 $\\mathrm { F e } ^ { 2 + }$ 胁迫时，上述酶活性反而提高。这可能是水稻抵御亚铁毒害的一种适应性机制[17]。过量Fe胁迫也抑制了水稻地上部和根系生长及N、P、Mg的吸收，促进了 $\\mathrm { c u }$ 的吸收。同时Fe胁迫也抑制了P、K、$\\mathbf { \\mathrm { { M g } } }$ 和 $Z \\mathrm { n }$ 等有效养分在根系与地上部间的分配，破坏了养分的分配平衡，加剧了Fe毒的发生[18]。此外,$\\mathrm { F e } ^ { 2 + }$ 对水稻生理活性的影响主要表现在分蘖期和抽穗期，尤其是水稻分蘖期的叶片和根系更容易受到$\\mathrm { F e } ^ { 2 + }$ 的伤害[19]。除了亚铁、亚锰等还原性矿物，冷浸田的还原性有机酸主要有甲酸、乙酸，其对籽粒产量的障碍贡献要高于亚铁而低于亚锰[20]。冷浸田土壤还原状态下的硫 $( 1 ~ 3 5 3 . 0 1 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } } )$ 要远远超过高产水稻田土壤还原态硫的含量 $( 3 8 0 . 6 8 ~ \\mathrm { \\ m g ^ { . } k g ^ { - 1 } } ) ^  [ \\$ 15],导致土壤中 $\\mathrm { S } ^ { 2 - }$ 形成毒害性的硫化氢，其一部分溢出土壤，一部分溶在土壤和水土中[21]。谢晓梅等[22]研究表明， $\\mathrm { S } ^ { 2 - }$ 浓度 $4 0 \\ \\mathrm { \\ m g { \\cdot k g } ^ { - 1 } }$ (含本底)为导致土壤-水稻-土壤微生物系统受到显著负效应的临界值，当供试土壤 $\\mathrm { S } ^ { 2 - }$ 含量超出该浓度时，需采取合理的农艺措施控制其负效应，但相对亚铁毒害而言，冷浸田硫化氢对水稻生理毒害方面的研究甚少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冷浸田土壤速效磷、速效钾含量显著低于非冷浸田土壤，并由此导致水稻赤枯病的发生[23]。向万胜等[24]对土壤P素的组分研究表明，地下水位的变化能明显影响土壤养分的有效性，随着地下水位的升高，土壤有效氮和P含量下降。渍潜田土壤Fe-P和O-P含量也有随地下水位的升高而下降的趋势，其含量亦显著低于非渍潜田土壤，因而导致土壤P素有效性的下降。冷浸田土壤P有效性低还表现在土壤对P的吸附能力较强。研究表明，长期处于淹水状态的稻-稻-冬泡土壤对P的吸持容量显著大于稻-稻-冬绿和稻-稻-冬油处理，施用有机肥和高地下水位处理也明显增强土壤对P的吸持容量[25]，这可能意味着轮作有利于提高磷肥有效性，而施有机肥与高地下水位降低了磷肥的有效性。冷浸田土壤有效养分较低还表现在中微量元素层面。研究结果表明，红壤丘岗区潜育性稻田中的冷浸田和烂泥田土壤有效硫含量相对较低，这两种类型潜育田存在潜在性缺硫问题，故应注意硫肥的施用。潜育田土壤有效硅亦普遍低于非潜育田，因而极有可能发生缺硅[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有机质是评价土壤肥力的一个重要指标。高有机质含量通常被认为是生产力较高的土壤，但冷浸田有别于此。冷浸田土壤有机质含量高，而表征活性有机碳的微生物生物量碳、可溶性有机碳含量明显低于非冷浸田[13.27]。由此可见，对冷浸田而言，用活性有机碳组分来评价土壤肥力更能反映土壤质量与改良利用效果。对冷浸田土壤腐殖质组成的研究还表明，潜育性水稻土的腐殖质多以质量较差的紧结合态为主，而潴育性水稻土则多以质量较好的松结合态和稳结态为主；潜育性水稻土中有机质的C/N 比多在12以上，也较潴育性水稻土宽[7]。因而活化冷浸田有机质是冷浸田改良的一个途径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 生物障碍因子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "伴随着土壤还原性物质的增加，冷浸田土壤微生物也显示独特的性质。据测定，冷浸田土壤的细菌、放线菌和真菌数量明显比一般稻田少，特别是土壤中好气性微生物的生理群减少，自生固氮菌和纤维分解菌活性弱，氨化强度低。因而使土壤有机质积累大于矿化[28]。且与细菌相比，冷浸田土壤真菌和放线菌更易受到土壤理化因子的影响[29]。对土壤酶活性而言，研究表明潜育性水稻土脲酶的活性小于非潜育性水稻土，而多酚氧化酶和铁还原酶的活性则相反[30]。对福建省典型冷浸田与同一微地貌单元内非冷浸田表层土壤的分析结果表明，与非冷浸田相比，冷浸田土壤总有机质高 $3 1 . 7 \\%$ ，过氧化氢酶和转化酶分别高 $5 8 . 3 \\%$ 和 $2 2 . 1 \\%$ ，磷酸酶、硝酸还原酶分别降低 $4 7 . 8 \\%$ 和 $6 6 . 6 \\%$ ，微生物区系数量降低 $2 9 . 8 \\% { \\sim } 4 6 . 0 \\% ^ { [ 1 3 ] }$ 。土壤线虫的群落组成与生态指数一定程度上可反映土壤的健康状况。对江南8省份冷浸田土壤线虫调查表明，冷浸田土壤密度为344条 $\\left( 1 0 0 \\underline { { \\mathbf { g } } } \\right) ^ { - 1 }$ (干土)，为非冷浸田土壤线虫密度的$4 8 . 0 4 \\% ^ { [ 3 1 ] }$ 。这从动物角度显示出冷浸田土壤的健康变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4冷浸田诊断与质量评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按照诊断分类学的观点，潜育层是冷浸田的诊断层，通常表现青灰色，剖面构型为 $\\mathbf { A } _ { \\mathrm { g } } { - } \\mathbf { G }$ 、A-G或$\\mathrm { \\Delta A - ( A _ { p } ) - G }$ 型[8]。基于冷浸田独特的土壤物理、化学与生物学性质，熊明彪等[5研究认为，活性还原物质、亚铁、Eh、地下水位、土色、土质以及氧化铁的活化度、游离度、潜育度可作为潜育化土壤的诊断指标；王飞等[13]通过主成分分析并结合相关分析模型和专家经验法建立了包括C/N、细菌、微生物生物量氮、还原性物质总量、物理性砂粒和全磷6项因子的福建山区冷浸田土壤质量评价因子最小数据集。也有研究表明亚热带地区潜育化水稻土(冷浸田)土壤质量评价的最小数据集为速效钾、全氮、微生物量碳、总细菌、 $\\beta$ -葡萄苷酶和菌根真菌，在此基础上得到的土壤质量指数与水稻产量显著正相关[32]。由于其上述评价因子涵盖了冷浸田土壤物理、化学与生物指标，可以用于评价冷浸田农田管理措施效果的好坏，也可预警土壤潜育化，但也显示出不同区域尺度的冷浸田由于土壤性质与利用方式不同而可能导致质量评价因子选择存在差异。另外，由于土壤微生物对冷浸田土壤质量变化较为敏感，基于其评价因子指标的分等定级尚无科学标准。此外，将冷浸田质量评价结果与地理信息系统(GIS)技术相结合，以落实到具体地块从而指导改良生产也是今后冷浸田质量评价的方向。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3江南冷浸田改良利用措施",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冷浸田增产潜力巨大，据测算，通过综合措施，每$6 6 6 . 7 \\mathrm { ~ m } ^ { 2 }$ 稻田每年可增产稻谷 $1 0 0 \\ \\mathrm { k g } ,$ 全国400万 $\\mathrm { h m } ^ { 2 }$ 稻田可增产稻谷600万t[7]。综合冷浸田治理利用经验，可以从工程措施、农艺措施、生物措施等方面进行综合攻关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1工程措施  \n开沟与埋暗管排水是冷浸田治理的根本措施。工程排水可以显著降低土壤还原物质总量，提高土壤阳离子交换量、速效磷、土壤全氮含量[33]。实践证明，开“四沟\"(即截洪沟、排泉沟、排水沟、灌溉沟)、排\"四水\"(即山洪水、冷泉水、毒锈水、串灌水)能起到洪水不进田、肥水不出田、冷泉引出田、毒质排出田的明显效果[11,34]。皖南山区通过开沟降潜,地下水位埋深由 $3 8 ~ \\mathrm { c m }$ 降至 $5 6 ~ \\mathrm { c m }$ ， $1 9 { \\sim } 4 3 ~ \\mathrm { c m }$ 土层中,锈纹锈斑增加，土壤养分状况明显改善[35]。浙江庆元县采用多孔塑料波纹暗管排水改造山区冷浸田，耕层土壤降渍，水、土温度升高，理化性状得到改善单季杂交稻产量比未改造对照增产 $4 7 . 3 \\%$ ，纯利收回改造成本的 $3 7 . 4 \\% ^ { [ 3 6 ] }$ 。福建山区冷浸田采用石砌深窄沟工程改造冷浸田，取得明显成效。据测定，采用石砌深窄沟排水工程后第3年，能有效降低 $3 0 \\sim$ $5 0 \\ \\mathrm { c m }$ 地下水位的效果[23]。这些深窄沟经过30 年的连续排水，仍然发挥重要作用，据测定，距沟 $7 5 \\mathrm { ~ m ~ }$ (CK)、 $2 5 \\ \\mathrm { m } .$ 、 $1 5 \\mathrm { ~ m ~ }$ 、 $5 \\mathrm { ~ m ~ }$ 的冷浸田的土壤类型逐渐呈现由深脚烂泥田 $$ 浅脚烂泥田 $$ 青泥田 $$ 青底灰泥田的方向演变，且距沟越近，耕层土壤还原性物质则越低，而碱解氮、速效磷与速效钾含量则越高，脲酶、酸性磷酸酶与硝酸还原酶活性也越高[37-38]。同时，结果还表明距排水沟不同距离处的真菌数量具有显著性差异，距排水沟 $2 5 \\mathrm { m }$ 处的细菌多样性最高，距 $5 \\mathrm { ~ m ~ }$ 处真菌多样性最高。特定生境下的冷浸田土壤微生物多样性演化差异明显。TGGE 指纹图谱表明，随着离沟距离的增加，表征细菌的某些类群的TGGE条带逐渐减弱，表示好氧菌在逐渐减少，而表征厌氧菌的条带逐渐增强，表明距沟 $7 5 \\mathrm { ~ m ~ }$ 处的细菌属于厌氧和微好氧细菌。而离排水沟最近的采样点真菌条带最丰富，但随后急剧减少或者亮度急剧减弱，表明排水对真菌的影响比较大[39]。此外，湿地农田采取开“三沟\"(主沟、支沟和厢沟)配套排水,能加速排除田间渍水，降低地下水位，改善土壤通透性，增加土壤养分，促进水稻生长发育，增加稻谷产量[40]。工程措施虽可治本，但对于偏远山区，在缺乏资金投入和加速提升冷浸田改造质量情况下，应该重视农艺措施与生物措施的应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 农艺措施",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增施磷、钾肥是提高冷浸田生产力的关键措施。 潜育化土壤施用磷肥的效果极为明显，增产率可达 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$8 \\% { \\sim } 2 0 \\% ^ { [ 4 1 ] }$ 。施用钾肥能明显改善低湖田潜育化土壤的氧化还原性状，土壤还原物质总量、活性还原物质含量及 $\\mathrm { F e } ^ { 2 + }$ 含量均比对照明显降低，因而减轻了土壤中亚铁等还原性物质对水稻的毒害，水稻产量提高[42]。李清华等[43]研究表明，施钾肥能促进植株体内K的吸收和抑制根系对Fe的累积，在水稻分蘖期、孕穗期与成熟期，根系Fe含量均有不同程度地降低，增施钾肥是发挥冷浸田生产潜力的有效措施。研究认为鄂东南低山区冷浸田速效磷、速效钾含量低，该地区冷浸田适宜施肥量为 $\\mathrm { ~ N ~ } 1 8 0 \\mathrm { \\ k g { \\cdot h m } } ^ { - 2 } .$ $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } 9 0 { \\sim } 1 0 8 \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 人 $\\mathrm { K } _ { 2 } \\mathrm { O } \\ 1 2 0 { \\sim } 1 4 4 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 [ 4 4 ] }$ 。皖南山区冷浸田水稻施 $\\mathrm { ~ \\bf ~ P ~ }$ 以 $7 5 ~ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 为佳，可保证水稻各生育期适宜 $\\mathrm { ~ \\bf ~ P ~ }$ 素累积量，增加分蘖数和穗实粒数，提高水稻产量，且施用钙镁磷肥效果优于施用过磷酸钙[45]。徐培智等[46]通过3414回归最优设计肥效试验，建议推荐水稻每 $6 6 6 . 7 \\mathrm { ~ m } ^ { 2 }$ 施肥量为氮肥$1 1 { \\sim } 1 3 ~ \\mathrm { k g }$ ，磷肥 $3 { \\sim } 4 ~ \\mathrm { k g }$ ，钾肥 $8 { \\sim } 1 1 \\ \\mathrm { k g _ { \\circ } }$ 此外，施用适量中、微量元素肥料也是提升冷浸田水稻产量的重要措施。适量的 $\\mathrm { C a } ^ { 2 + }$ 供应能提高植物体内超氧化物歧化酶、过氧化物酶和过氧化氢酶活性或使之保持在较高水平，并使丙二醛含量维持在较低水平。另外， $\\mathrm { C a } ^ { 2 + }$ 能较好地提高粳稻对过量 $\\mathrm { F e } ^ { 2 + }$ 胁迫的耐性，增强了植株活性氧清除能力和对生物膜结构的稳定作用[47]。这预示着含钙质的矿物在改良冷浸田方面潜力较大。冷浸田增施锌肥的效果要优于硫肥，硫酸锌的效果要优于氧化锌，且增施锌肥提高了氮、磷、钾肥料利用率[48]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在冷浸田耕作改良方面，相比常规平作而言，垄作模式能显著促进大团聚体的形成，提高土壤温度，抑制水稻分蘖期后土壤亚铁含量的上升，减轻其对水稻根系的毒害作用，提高土壤酶活性，增加土壤速效养分含量。稻鱼共作模式对冷浸田土壤理化性状影响不显著，但能显著增加土壤速效养分含量，促进水稻生长发育，提高水稻产量[49]。起垄 $6 0 \\mathrm { d }$ 后，土壤 $\\mathrm { F e } ^ { 2 + }$ 含量随着起垄高度增加而逐渐降低[50]。熊又升等[51]研究表明，冷浸田合适的免耕起垄高度为 $1 5 \\ \\mathrm { c m }$ 。工程排水与垄作相结合效果最明显,每季增产可达 $1 . 1 1 { \\sim } 1 . 8 9 \\ \\mathrm { t \\cdot h m } ^ { - 2 [ 3 3 ] }$ 。另外，起垄栽培结合湿润灌溉方式是适合冷浸田早稻增产的农水管理措施[52]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对潜育化程度较轻的冷浸田，采用水旱轮作是有效提升生产力的措施。向万胜等[53]研究认为中轻度潜育化水稻土经过水旱轮作后，土壤体积质量、通气孔隙增加。青泥田采用玉米-水稻、油菜-水稻、蚕豆-水稻轮作模式的水稻收获期土壤锈纹锈斑丰度明显，各轮作模式下的耕层土壤水稳性大团聚体（204号 $( > 2 ~ \\mathrm { m m } )$ 数量均较CK有不同程度降低，而微团聚体（ $( < 0 . 2 5 ~ \\mathrm { \\ m m } )$ 数量则相反；各轮作模式的土壤活性还原性物质含量逐渐下降，而速效养分含量呈上升趋势，土壤微生物生物量碳、氮、磷均得到不同程度增加，土壤理化生化性状得到改善，表现出脱潜特征，且轮作对提高作物总产量和经济效益效果显著[54-55]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一些改良剂有助于改善冷浸田理化性状，提高生产力。在强还原性土壤上施用过氧化物释氧物能明显改善土壤的氧化还原条件，减轻 $\\mathrm { F e } ^ { 2 + }$ 等还原物质对水稻的毒害，从而有利于水稻的正常生长发育，提高产量[56]。通过过氧化物等措施使根际增氧的响应大致表现为根系孔隙度下降、齐穗期根体积增大、根系活力提高；前期分蘖数增加较快，有效穗多；叶片叶绿素含量在齐穗后下降较慢，剑叶超氧化物歧化酶和过氧化物酶活性较高，丙二醛含量较低;齐穗后叶片光合作用对穗部干物质积累贡献大[7]。施用生物质焦能够提高冷浸田早期土温，促进水稻的生长发育，产量比对照增加 $8 . 7 \\% \\sim 1 4 . 8 \\% ^ { [ 5 8 ] }$ 。在干湿交替条件下，粉煤灰和混合改良剂(粉煤灰 $\\cdot ^ { + }$ 生物炭 $\\cdot ^ { + }$ 聚丙烯酰胺)对 2种类型冷浸田土壤大团聚体形成均表现促进作用[12]。石灰和秸秆混合施用不仅显著提高土壤Eh，而且降低土壤活性还原性物质和Fe含量，并达到显著增产的效果[59]；与纯施化肥相比,冷浸田中配施 $20 \\%$ 生物有机肥(以N计)，能够提升土壤养分，使土壤活性有机质增加 $1 1 . 9 \\%$ ，产量提高$6 . 6 \\% ^ { [ 6 0 ] }$ 。基于荧光定量PCR 技术表明，鸡粪堆肥可提高冷浸田氨氧化细菌与古菌丰度，并有助于提高氮肥有效性[61]。米糠对冷浸田土壤亚铁量有较好的消减作用，利于提高水稻产量，可以作为改良剂[62]。但有机肥施用是否进一步促进还原性物质的形成，还是能起到“起爆效应”，还有待进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 生物措施",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "筛选耐潜育性的水稻品种，可以在工程措施尚不能实施条件下起到较好的替代种植作用。各地的气候、土壤条件差异较大，在水稻品种的选择上，各地均有适宜的品种。一般而言，粘稻比粳稻和糯稻更能适应冷浸田的环境[63]。在湖南宁乡县、桃源县、永兴县3地水稻品种筛选结果表明，早稻以‘陆两优996'和‘陵两优211'表现较好，晚稻以‘钱优1号'、天优华占'和‘丰源优 299'表现较好[64]。在荆江南北的潜育性稻田上，一般认为杂交水稻的适应性较强，水稻品种有‘湘早釉'、‘汕优63、‘威优64'等，油菜有‘秦杂2号’、‘中油 $8 2 ^ { , [ 6 5 ] }$ 。而对潜育性水稻品种评价方面，通过水培试验，明确了 $\\mathrm { F e ^ { 2 + } ~ 1 2 0 ~ \\ m g ^ { . } k g ^ { - 1 } }$ 为鉴别水稻品种耐性差异的适宜亚铁浓度，并提出可将苗高、根系生长量、根系氧化力、干物质产量作为水稻品种耐亚铁的鉴定指标[66]。李达模等[67]提出了耐潜育性的几个指标，包括根系生长量和幼穗分化期根系氧化力，分蘖早期茎蘖增长速率，分蘖后期单株干物质产量，乳熟期剑叶过氧化氢酶活性、潜育受害指数和光合强度等。以此为标准，筛选出耐潜育性强的‘威优49'杂交品种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 其他利用方式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了传统的水稻种植方式外，因地制宜利用是提高冷浸田综合生产力的有效措施。赵美芝等[65]提出不同潜育化程度水稻土的利用方式，如针对重潜育化土壤，提出退田还湖、发展水生作物、垄稻沟鱼等利用模式，对于中等潜育化土壤，提出变传统的稻-稻种植为水旱轮作。稻鱼共作模式对冷浸田土壤理化性状影响不显著，但能显著增加土壤速效养分含量，促进水稻生长发育，提高水稻产量[49]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我国现有低产水稻土面积超过 $1 . 1 5 ~ \\mathrm { \\textbar { 1 } } Z \\mathrm { \\ h m } ^ { 2 }$ ，若将现有低产水稻土每 $6 6 6 . 7 \\mathrm { m } ^ { 2 }$ 产量由平均 $3 0 0 { \\sim } 4 0 0 \\mathrm { k g }$ 增加到 $4 0 0 { \\sim } 5 0 0 ~ \\mathrm { k g }$ ，则能够新增100亿 $\\mathrm { k g }$ 粮食，对保障我国新增500亿 $\\mathrm { k g }$ 粮食目标的实现意义重大[68]。与一般中低产田不同，冷浸田土壤有机质含量高，施肥增产效应明显高于非冷浸田[69]，增产潜力巨大。研究改良利用冷浸田，可以高效利用有限的耕地资源，对保障国家粮食安全、食品质量安全与生态环境安全具有深远的意义。近年来各级政府部门也加大了耕地质量保护与提升建设力度，但由于各部门的农田基础设施建设项目主要集中在洋面田实施，有些田块多个部门重复建设，而山垄田(其中相当部分为冷浸田)的农田建设长期投入不足，改造标准不高，经济效益差，影响了农民耕作积极性，另外土地流转和经营未理顺，以及对冷浸田改造利用模式技术集成度不够等问题，也是造成江南冷浸田面积仍然较大以及抛荒的重要原因。为此，今后冷浸田的改造与利用在以下几方面有待进一步加强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1)在基础与应用基础研究方面：首先，研究不同渍水状态与干湿交替下土壤结构和土壤有机质组分差异，从理论上深入理解有机质质量对土壤结构、团聚体形成的贡献；其二，加强长期渍水状态的冷浸田甲烷排放特征研究，有助于加深对冷浸田农田碳循环的认识；其三，加强冷浸田潜育化过程厌气性的微生物与其产生的相关酶的生态学过程研究包括有机质的累积与转化、养分的分解与吸附、土壤团聚体的形成与破坏，加强微生物学调控冷浸田改良研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)在集成技术模式方面：随着人们对冷浸田生态功能的认识逐渐加深与我国生态文明建设的推进对冷浸田治理利用应树立大粮食的理念，结合农业结构调整，水资源的合理利用，因地制宜地应用工程技术、农业技术、生物技术，建立适宜区域农业发展的集成模式。针对不同生态类型与生产条件的冷浸田，应重点加强以下集成模式应用研究： $\\textcircled{1}$ 沿湖低洼区冷浸田渍害治理与作物高产高效生产模式，适用对象为有一定水利基础的冷浸田，集成工程措施、适生品种、耕作轮作、平衡施肥、土壤改良剂等技术，以建设高标准农田、作物高产高效为目标;$\\textcircled{2}$ 丘陵山区冷浸田绿色(有机)稻米生产模式，适用对象为农田基础设施较差，排水条件薄弱、自然环境优越的冷浸田，集成简易开沟、适生品种、生态防控、磷钾养分平衡、垄畦栽培等技术，以生态高值大米、稻经轮作为目标； $\\textcircled{3}$ 冷浸田水生作物生态高值模式集成技术研究，适用对象为农田设施差，排渍不良，种植作物有区域特色的冷浸田，以发展莲藕(籽)、茭白等水生作物，推广发展稻-萍-鱼或稻-鱼等模式，集成作物施肥、水分管理、病虫害管理等技术，以提高经济效益与生态效益为目标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3)在政策扶持方面：冷浸田治理利用是一项系统工程，涉及水利工程与农业技术、政策支持与管理措施，需要农业、农业综合开发、国土、水利、经营主体等部门协调配合、整合力量。其一，各级政府部门需要统筹各类农田基础建设资金，将 $7 ~ \\mathrm { h m } ^ { 2 }$ 以上冷浸田列入国家和地方农田基础设施建设项目，加大投入，建设补助标准应高于非冷浸田，充分发挥农田建设资金功效；其二，出台引导和扶持工商企亚、专业合作社、种植大户对冷浸田进行流转、租赁等治理利用相关政策，以发挥冷浸田治理与利用规模效益；其三，成立冷浸田治理利用专项资金，加强引导，将工程建设与农艺技术、生物技术有机结合起来，协同攻关，充分提高冷浸田农业综合生产能力和生态功能；其四，冷浸田类型多样，应制定不同冷浸田改造利用类型与对应的等级标准，这些标准应涵盖土壤地力、设施及机械化耕作等保障条件、生态与社会经济效益等指标，从而为冷浸田改良效果及质量评价提供依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "工壤字报,2014,51(4):6/5-682 Zeng X B,Zhang JB,Wei C F,et al. The status and reclamation strategy of low-yield fields in China[J].Acta Pedologica Sinica,2014,51(4): 675-682 [2]刘光荣，徐昌旭．江南地区冷浸田治理技术研究与应用[M]. 北京：中国农业出版社,2014 Liu G R, $\\mathtt { X u } \\mathrm { ~ C ~ X ~ }$ . Regulation Technology and Application of Cold-Waterlogged Field in Southern Yangtze River[M]. Beijing: Chinese Agriculture Press, 2014 [3]罗涛，王飞．福建农业资源与生态环境发展研究[M]．北京: 中国农业科学技术出版社,2013 Luo T,Wang F. Survey Report of Characteristic of Cold-water Paddy Field and Engineering Improvement Utilization in Fujian[M]. Beijing:ChineseAgricultureScienceand Technology Press,2013 [4] 杨利，赵书军，邓银霞，等．湖北省丘陵区冲垅冷浸田的危 害特点与利用改良[J]．湖北农业科学,1998(5):24-27 Yang L，Zhao S J,Deng Y X,et al.Characteristics of waterlogging harm and ameliorative measures of cold waterlogged fields in hillyregion of Hubei[J].Hubei Agricultural Sciences,1998(5): 24-27 [5] 熊明彪，舒芬，宋光煜，等．南方丘陵区土壤潜育化的发生 与生态环境建设[J].土壤与环境,2002,11(2):197-201 Xiong MB, Shu F, Song G Y,et al. Occurrence and ecological environmental construction of soil gleization in austral hilly area of China[J]. Soil and Environmental Sciences,2002,   \n11(2): 197-201 [6]《中国农业土壤概论》编委会．中国农业土壤概论[M].北京: 农业出版社,1982 《An Introduction to China's Agricultural Soil》Editorial Board. An Introduction to China's Agricultural Soil[M]. Beijing: Chinese Agriculture Press,1982 [7] 龚子同，张效朴，韦启璠．我国潜育性水稻土的形成、特性 及增产潜力[J]．中国农业科学,1990,23(1):45-53 Gong Z T, Zhang XP,Wei QF.The formation,characterization and potential of Gleyic paddy soils in China[J]. Scientia Agricultura Sinica,1990,23(1): 45-53 [8] 吕豪豪，刘玉学，杨生茂，等．南方地区冷浸田分类比较及 治理策略[J]．浙江农业学报,2015,27(5):822-829 Lü HH,Liu Y X, Yang S M, et al. Classification comparison and improvement techniques of cold-waterlogged paddy in Southern District, China[J].Acta Agriculturae Zhejiangensis,   \n2015,27(5): 822-829 [9]王飞，李清华，林营志，等．冷浸田地下水位与农田小气候 生境特征研究[J]．农业现代化研究,2014,35(3):353-356 Wang F,Li Q H,Lin Y Z,et al. Study on ground water level and microclimatic characteristics of cold-waterlogged paddy field[J].Research of Agricultural Modernization,2014,35(3):   \n353-356 [10]黄兆强．福建冷浸田的低产因素及其改良利用[J].土壤肥 料,1996(3): 13-15 Huang Z Q. The low-yield factors of cold-waterlogged paddy 术出版社,1991 Soil Surveying Office in Fujian.Fujian Soil[M]. Fuzhou: Fujian Science and Technology Press,1991   \n[12]张志毅，汤文娟，熊又升，等．改良剂对冷浸田土壤团聚体 稳定性的影响[J]．华中农业大学学报,2015,34(4):37-43 Zhang Z Y,Tang W J, Xiong Y S,et al. Effects of amendment on aggregate stability of soil for cold waterlogged paddy field[J].Journal of Huazhong Agricultural University，2015, 34(4): 37-43   \n[13]王飞，李清华，林诚，等．福建冷浸田土壤质量评价因子的 最小数据集[J]．应用生态学报,2015,26(5):1461-1468 Wang F,LiQH,Lin C,et al. Establishing a minimum data set of soil quality assessment for cold-waterlogged paddy field in Fujian Province,China[J]. Chinese Journal of Applied Ecology,2015,26(5): 1461-1468   \n[14] 张敏敏，徐祥玉，张志毅，等．抛荒对冷浸稻田土壤团聚体 及有机碳稳定性的影响[J]．中国生态农业学报,2015,23(5): 563-570 Zhang M M, Xu X Y, Zhang Z Y,et al. Effects of land abandonment on soil aggregate and organic carbon stability in cold waterlogged paddy fields[J]. Chinese Journal of EcoAgriculture,2015,23(5): 563-570   \n[15]柴娟娟，廖敏，徐培智，等．我国主要低产水稻冷浸田养分 障碍因子特征分析[J]．水土保持学报,2012,26(2):284-288 Chai JJ, Liao M,Xu P Z,et al.Feature analysis on nutrient's restrictive factors of major low productive waterlogged paddy soil in China[J].Journal of Soil and Water Conservation,2012, 26(2): 284-288   \n[16] 陈娜，廖敏，张楠，等. $\\mathrm { F e } ^ { 2 + }$ 对水稻生长及土壤微生物活性 的影响[J]．植物营养与肥料学报,2014,20(3):651-660 Chen N,Liao M, Zhang N,et al. Effects of exogenous ferrous on rice growth and soil microbial activities[J]. Journal of Plant Nutrition and Fertilizer,2014,20(3): 651-660   \n[17] 蔡妙珍，林咸永，罗安程，等．过量 $\\mathrm { F e } ^ { 2 + }$ 对水稻生长和某些 生理性状的影响[J]．植物营养与肥料学报，2002，8(1): 96-99 Cai M Z,Lin XY,Luo A C,et al.Effects of excessive $\\mathrm { F e } ^ { 2 + }$ on growth and physiological characters of rice[J]. Journal of Plant Nutrition and Fertilizer,2002,8(1): 96-99   \n[18]蔡妙珍，罗安程，林咸永，等．过量 $\\mathrm { F e } ^ { 2 + }$ 胁迫下水稻的养分 吸收和分配[J]．浙江大学学报：农业与生命科学版，2003, 29(3): 305-310 Cai M Z, Luo A C,Lin $\\textsc { x Y }$ ，et al.Nutrient uptake and partitioning in rice plant under excessive $\\mathrm { F e } ^ { 2 + }$ stress[J]. Journal of Zhejiang Agricultural University: Agriculture and Life Sciences,2003,29(3):305-310   \n[19]陈正刚，徐昌旭，朱青，等．不同类型冷浸田 $\\mathrm { F e } ^ { 2 + }$ 对水稻生 理酶活性的影响[J]．中国农学通报,2014,30(12):63-70 Chen Z G, $\\operatorname { X u } \\mathrm { { C } } \\mathrm { { X } }$ , Zhu Q,et al. Effects of different types of cold water paddy field $\\mathrm { F e } ^ { 2 + }$ on physiological activity of rice[J]. Chinese Agricultural Science Bulletin,2014,30(12): 63-70   \n[20] 何春梅、王飞、钟少杰、等．冷浸田土壤还原性有机酸动态 He C M,Wang F, Zhong S J,et al. Dynamics of reductive organic acid and the relationship with growth of rice in cold-waterlogged paddy soil[J]. Fujian Journal of Agricultural Sciences,2015,30(4):380-385   \n[21]林海波，朱青，陈正刚，等．冷浸田中 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 对水稻毒害作用 及改良措施[J]．耕作与栽培,2014(5):43-44 Lin H B,Zhu Q,Chen Z G,et al. The toxic effects of hydrogen sulfate in waterlogged paddy field and improvement measures[J]. Tillage and Cultivation,2014(5): 43-44   \n[22] 谢晓梅，廖敏，张楠，等．外源 $\\mathrm { s } ^ { 2 - }$ 抑制水稻生长及土壤微 生物活性的半效应浓度研究[J]．植物营养与肥料学报, 2015,21(5): 1286-1293 Xie X M, Liao M, Zhang N, et al. $\\mathrm { E C } _ { 5 0 }$ of soil $\\mathrm { S } ^ { 2 - }$ inhibiting rice growth and soil microbial activities[J]. Journal of Plant Nutrition and Fertilizer,2015,21(5): 1286-1293   \n[23]林增泉，徐朋，彭加桂，等．冷浸田类型与改良研究[J]．土 壤学报,1986,23(2): 157-162 Lin ZQ,Xu P,Peng JG,et al. Study on the types and amelioration of cold spring paddy soils[J]. Acta Pedlogica Sinica,1986,23(2): 157-162   \n[24] 向万胜，李卫红，童成立，等．丘岗稻田地下水位动态及对 土壤氮磷有效性的影响[J].生态学报,2002,22(4):513-519 Xiang W S,Li W H, Tong C L,et al. Dynamic change of ground water level in waterlogged gleyed paddy soils in hilly red soil region and its effects on availability of soil nitrogen and phosphorus[J]. Acta Ecologica Sinica,2002, 22(4): 513-519   \n[25]张杨珠，蒋有利，黄运湘，等．稻作制、有机肥和地下水位 对红壤性水稻土磷的吸持作用的影响[J].土壤学报，1998, 35(3): 328-337 Zhang Y Z, Jiang Y L, Huang Y X,et al. Effects of rice-based cropping system,organic manure and groundwater level on phosphate sorption by paddy soils derived from red earth[J]. Acta Pedologica Sinica,1998,35(3): 328-337   \n[26]向万胜，李卫红，童成立．红壤丘岗区潜育性稻田硫硅硼 铜元素的有效性[J].土壤与环境,2002,11(1):53-56 Xiang W S,Li W H，Tong C L.Studies on nutrients availability of S,Si,B and Cu in gleyed paddy soils derived from red earth[J]. Soil and Environ mental Sciences,2002, 11(1): 53-56   \n[27]王飞，李清华，林诚，等．福建典型冷浸田土壤活性有机 C、N组分特征[J]．福建农业学报,2014,29(4):373-377 Wang F, Li Q H, Lin C,et al. Active organic carbon and nitrogen in soils from typical cold-waterlogged paddy fields in Fujian[J]. Fujian Journal of Agricultural Sciences,2014, 29(4): 373-377   \n[28] 林增泉，陈家驹，郑仲登．冷浸田的特性和改良途径[J]. 福建农业科技,1980(6):4-6 Lin ZQ,Chen JJ, Zheng Z D. The characteristics of coldwaterlogged paddyfield and improved way[J]. Fujian Agricultural Science and Technology,1980(6): 4-6   \n[29]邱珊莲，王飞，李晓燕，等．福建冷浸田土壤微生物及养分 特征分析[J]．福建农业学报,2012,27(3):278-282 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Qiu SL,Wang F,Li X Y,et al.Analysis of microbe and nutrient characteristics of cold-waterlogged paddy soil in Fujian Province[J].Fujian Journal of Agricultural Sciences, 2012,27(3): 278-282 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30]鲁小春，夏国模．潜育性水稻土酶活性的研究[J]．湖南农 学院学报：自然科学版,1985(4):25-31 Lu X C,Xia G M. Studies on the activities of soil enzymes in gleyey rice soils[J]. Journal of Hunan Agricultural University: Natural Sciences,1985(4): 25-31   \n[31］邓绍欢，叶成龙，刘婷，等．南方地区冷浸田土壤线虫的分 布特征[J]．±壤,2015,47(3):564-571 Deng S H, Ye C L,Liu T,et al. Distribution of soil nematodes in cold waterlogged paddy soil of southern region[J]. Soils, 2015,47(3): 564-571   \n[32] Liu Z J, Zhou W,Li S T, et al. Assessing soil quality of gleyed paddy soils with different productivities in subtropical China[J]. CATENA,2015,133: 293-302   \n[33]李大明，余喜初，柳开楼，等．工程排水和农业措施改良鄱 阳湖区潜育化稻田的效果[J]．植物营养与肥料学报，2015, 21(3): 684-693 Li D M,Yu X C,Liu K L,et al.Remediation effect of the combination of ditching drainage and agronomic managements on gleyed paddy field in Poyang Lake Region, China[J]. Journal of Plant Nutrition and Fertilizer,2015,21(3): 684-693   \n[34]朱鹤健．挖掘南方山区渍水田土壤潜在肥力的问题[J]．中 国农业科学,1978(1):73-77 Zhu HJ.The problems digging into soil fertility potential of cold-waterlogged paddy field[J]. Scientia Agricultura Sinica, 1978(1): 73-77   \n[35] 吴新德，戴延寿．安徽池州地区冷浸田的综合改良[J]．土 壤,1996(2): 62-63 Wu X D,Dai Y S.The comprehensive improvement of cold-waterlogged paddy field in Chizhou,Anhui Region[J]. Soils,1996(2): 62-63   \n[36]陈士平，戴红霞．暗管排水改造山区冷浸田的效果[J]．浙 江农业科学,2000(2):59-60 Chen S P, Dai H X.The effects of hidden drainage tubes on the reconstruction of cold-waterlogged paddy fields[J]. Journal of Zhejiang Agricultural Sciences,20oo(2): 59-60   \n[37] 林诚，王飞，李清华，等．石砌深窄沟长期排水对冷浸田土 壤 C、N、P 化学计量及酶活性的影响[J]．福建农业学报, 2014,29(10): 1010-1014 Lin C,Wang F,Li Q H,et al. Nutrient content and enzyme activity of cold-waterlogged soil in fields with open drainage ditches[J]. Fujian Journal of Agricultural Sciences,2014, 29(10): 1010-1014   \n[38]王飞，林诚，李清华，等．长期深窄沟排渍对冷浸田地下水 位、土壤化学特性及水稻籽粒品质的影响[J]．中国生态农 业学报,2015,23(5): 571-578 Wang F,Lin C,LiQH, et al. Effects of long-term drainage of stony open deep-narrow drainage ditches on groundwater level,soil chemical characteristics and rice grain quality in cold-waterlogged paddy fields[J]. Chinese Journal of EcoAgriculture,2015,23(5): 571-578 ditch design on bacterial and fungal communities of cold waterlogged paddy soils[J]. Brazilian Journal of Microbiology 2013,44(3): 983-991   \n[40] 古汉虎，向万胜，李玲．湿地农田“三沟\"配套排水整体功 能研究[J]．中国农业大学学报,1997(S1):130-134 Gu H H, Xiang W S,Li L. Study on the integral function of ditching to drain off excessive water in farming soil in wetland[J]. Journal of China Agricultural University,1997(S1): 130-134   \n[41]向万胜,李卫红，童成立．江汉平原农田渍害与土壤潜育化 发展现状及治理对策[J]．土壤与环境,2000,9(3):214-217 Xiang W S,Li W H, Tong C L. Current status of waterlogging and soil gleyization of farm land in Jianghan Plain and the strategy for its management[J].Soil and Environmental Sciences,2000,9(3): 214-217   \n[42]向万胜，古汉虎．低湖区潜育性稻田施用钾肥的效应及对 土壤氧化还原性状的影响[J]．土壤肥料,1997(2):32-34 Xiang W S,Gu H H. The K fertilizer effect and influence on the oxidation reduction of gleying paddy field in low-lake region[J].Soil and Fertilizer,1997(2): 32-34   \n[43]李清华，王飞，林诚，等．增施钾肥对冷浸田水稻生理及植 株铁吸收累积的影响[J]．福建农业学报，2015，30(3): 243-248 Li Q H,Wang F,Lin C,et al. Effects of potassium fertilizer incensement on rice physiology and iron accumulation in cold-waterlogged paddy field[J]. Fujian Journal of Agricultural Sciences,2015,30(3): 243-248   \n[44]徐祥玉，张敏敏，刘晔，等．磷钾调控对冷浸田水稻产量和 养分吸收的影响[J]．植物营养与肥料学报，2014，20(5): 1076-1083 Xu X Y, Zhang M M,Liu Y, et al. Effects of regulating phosphorus and potassium supply on rice yield and nutrient absorption[J]. Journal of Plant Nutrition and Fertilizer,2014, 20(5): 1076-1083   \n[45] 张祥明，郭熙盛，王文军，等．不同磷源及用量对冷浸田水 稻磷素吸收利用的影响[J].安徽农业科学，2012，40(34): 16604-16606 Zhang X M,Guo X S,Wang WJ,et al. Effects of different phosphorus sources and amount on rice yield and phosphorus use in cold-waterlogged paddy filed[J]. Journal of Anhui Agricultural Science,2012,40(34): 16604-16606   \n[46] 徐培智，解开治，刘光荣，等．冷浸田测土配方施肥技术对 水稻产量及施肥效应的影响[J].广东农业科学，2012(22): 70-73 Xu P Z, Xie K Z,Liu G R,et al.Effects of soil testing and formulated fertilization on rice yield and fertilization effect in cold waterlogged paddy field[J]. Guangdong Agricultural Sciences,2012(22): 70-73   \n[47] 蔡妙珍，罗安程，林咸永，等. $\\mathrm { C a } ^ { 2 + }$ 对过量 $\\mathrm { F e } ^ { 2 + }$ 胁迫下水稻 保护酶活性及膜脂过氧化的影响[J].作物学报,2003,29(3): 447-451 Cai $\\textbf { M } Z$ ，Luo A C,Lin $\\texttt { X Y }$ ，et al.Effect of $\\mathrm { C a } ^ { 2 + }$ on antioxidant enzymes and lipid peroxidation in rice under excessive $\\mathrm { F e } ^ { 2 + }$ stress[J]. Acta Agronomica Sinica,2003,29(3): 447-451   \n[48] 苏金平，范芳，谢杰，等．增施中、微量元素肥料对冷浸性 田水稻产量影响研究[J]．江西农业学报,2013,25(8):25-29 Su JP,Fan F, Xie J,et al. Effect of middle and microelemental fertilizers supplement on rice yield in cold waterlogged paddy field[J].Acta Agriculturae Jiangxi,2013, 25(8): 25-29   \n[49]王思潮，曹凑贵，李成芳，等．耕作模式对冷浸田水稻产量 和土壤特性的影响[J]．中国生态农业学报，2014，22(10): 1165-1173 Wang S C,Cao C G,Li C F,et al. Effects of cultivation patterns on rice yield and soil properties in cold waterlogged paddy fields[J]. Chinese Journal of Eco-Agriculture,2014, 22(10): 1165-1173   \n[50]徐祥玉，张志毅，王娟，等．起垄和施肥对冷浸田土壤氧化 还原状况的影响[J]．中国生态农业学报，2013，21(6): 666-673 Xu X Y, Zhang Z Y,Wang J,et al. Effect of ridging and fertilization on soil redox in cold waterlogged paddy fields[J]. Chinese Journal of Eco-Agriculture,2013,21(6): 666-673   \n[51]熊又升，徐祥玉，张志毅，等．垄作免耕影响冷浸田水稻产 量及土壤温度和团聚体分布[J]．农业工程学报，2014, 30(15): 157-164 Xiong Y S, Xu X Y, Zhang Z Y, et al. Influences of combing ridge and no-tillage on rice yield and soil temperature and distribution of aggregate in cold waterlogged field[J]. Transactions of the CSAE,2014,30(15):157-164   \n[52]刘杰，罗尊长，肖小平，等．不同栽培和灌溉方式对冷浸稻 田还原性物质及水稻生长的影响[J]．作物研究,2014,28(5): 451-454 Liu J,Luo Z C, Xiao XP,etal.Effectsof different tillage and irrigation modes on reducing substances and rice growth of cold spring paddy soil[J]. Crop Research,2014,28(5): 451-454   \n[53]向万胜，周卫军，古汉虎. $\\mathrm { C a O } _ { 2 }$ 等缓性释氧物改善土壤氧 化还原条件的作用及对水稻生长的影响[J]．土壤学报, 1996,33(2): 220-224 Xiang W S, Zhou W J, Gu H H. Effects of oxygen-releasing peroxides such as $\\mathrm { C a O } _ { 2 }$ on soil redox status and rice growth[J]. Acta Pedologica Sinica,1996,33(2): 220-224   \n[54]赵锋，王丹英，徐春梅，等．根际增氧模式的水稻形态、生 理及产量响应特征[J]．作物学报,2010,36(2):303-312 Zhao F, Wang D Y, $\\mathtt { X u C M }$ ,et al. Response of morphological, physiological and yield characteristics of rice (Oryza sativa L.) to different oxygen-increasing patterns in rhizosphere[J]. Acta Agronomica Sinica,2010,36(2): 303-312   \n[55]古汉虎．水旱轮作改良利用潜育化水稻土的研究[J]．热带 亚热带土壤科学,1995,4(2):78-84 Gu H H. Efects of rice-xerophyte rotation on amelioration of paddy soil[J]. Tropical and Subtropical Soil Science,1995, 4(2): 78-84   \n[56]王飞，李清华，林诚，等．冷浸田水旱轮作对作物生产及土 壤特性的影响[J]．应用生态学报,2015,26(5):1469-1476 Wang F,Li Q H,Lin C,etal. Influence of paddy rice-upland crop rotation of cold-waterlogged paddy field oncrops production and soll characteristics[J]. Chinese Journal ot Applied Ecology,2015,26(5): 1469-1476   \n[57]李清华，王飞，林诚，等．水旱轮作对冷浸田土壤碳、氮、 磷养分活化的影响[J]．水土保持学报,2015,29(6):113-117 Li Q H,Wang F,Lin C,et al. Effects of paddy-upland rotation on the nutrient activation of soil carbon nitrogen and phosphorus in cold waterlogged paddy field[J]. Journal of Soil and Water Conservation,2015,29(6):113-117   \n[58]王文军，张祥明，凌国宏．生物质焦对冷浸田水稻生长·产 量的影响[J].安徽农业科学，2013,41(14):6220-6221 Wang W J,Zhang X M,Ling G H.Effects of biochar amendment on growth and yield of rice in cold water field[J]. Journal of Anhui Agricultural Sciences,2013,41(14): 6220-6221   \n[59]张赓，李小坤，鲁剑巍，等．不同措施对冷浸田土壤还原性 物质含量及水稻产量的影响[J]．中国农学通报，2014, 30(27): 153-157 Zhang G,LiXK,Lu JW,et al. Effects of different measures on the concentration of reducing substances of soil and yield ofrice in cold waterloggedpaddy field[J]. Chinese Agricultural Science Bulletin,2014,30(27):153-157   \n[60]孙耿，刘杰，罗尊长，等．化肥配施生物有机肥对冷浸田土 壤养分和水稻生长的影响[J]．湖南农业科学，2015(10): 44-46 Sun G, Liu J, Luo $Z \\mathrm { ~ C ~ }$ ,et al.Effects of chemical fertilizers applied with biological organic fertilizer on soil nutrient and rice growth in cold-waterlogged paddy[J].Hunan Agricultural Sciences,2015(10): 44-46   \n[61] Xie K Z,Xu P Z,Yang SH,et al. Effects of supplementary composts on microbial communities and rice productivity in cold water paddy fields[J]． Journal of Microbiology and Biotechnology,2015,25(5): 569-578   \n[62]崔宏浩，陈正刚，朱青，等．外源物对冷浸田土壤亚铁量及 水稻产量的影响[J]．西南农业学报,2015,28(1):220-225 Cui H H,Chen Z G, Zhu Q，et al.Effects of different exogenous additives on ferrous iron content and rice yield in cold waterlogged paddy field[J]. Southwest China Journal of Agricultural Sciences,2015,28(1): 220-225   \n[63]王思潮，曹凑贵，李成芳，等．鄂东南冷浸田不同中稻 品种产量及生理研究[J]．湖北农业科学，2014，53(16): 3736-3740 Wang S C,Cao CG, LiC F,etal.Yield and physiology of middle-season rice in cold waterlogged paddy field at the Southeastern of Hubei Province[J]. Hubei Agricultural Sciences,2014,53(16):3736-3740   \n[64]曾燕，黄敏，蒋鹏，等．冷浸田条件下不同类型品种的表现 和高产栽培方式研究[J].作物研究,2010,24(3):140-144 Zeng Y,Huang M,Jiang P,etal. Studies on yield performance and high yielding cultivation methods of different types of cultivars in cold water paddy field[J].Crop Research,2010, 24(3): 140-144   \n[65]赵美芝，邓友军，马毅杰．长江中游潜沼化土壤的限制因 子及其对策研究[J]．长江流域资源与环境，1997，6(1): 18-23 Zhao M Z,Deng Y J,Ma Y J. Studies on limiting factors in the productivity and ways for the utilization and amelioration of gleyed and swamped soils in the middle basin of the Yangtze River[J].Resources and Environment in the Yangtze Valley, 1997,6(1):18-23   \n[66]冯双华，贾凌辉．水稻耐亚铁的水培鉴定指标研究[J]．热 带亚热带土壤科学,1996,5(2):80-84 Feng S H, Jia LH. Studies on rice $\\mathrm { F e } ^ { 2 + }$ -tolerance indexes with water culture[J]. Tropical and Subtropical Soil Science,1996, 5(2): 80-84   \n[67]李达模，唐建军，苏以荣，等．湘中、湘东地区早灿稻耐土 壤潜育性评价[J]．武汉植物学研究,1992,10(2):139-151 Li D M,Tang JJ,Su Y R,et al. Appraisal of early rice tolerance to gleyic paddy soil in central and eastern Hunan[J]. Journal of Wuhan Botanical Research[J].Journal of Wuhan Botanical Research,1992,10(2): 139-151   \n[68]周卫．低产水稻土改良与管理理论·方法·技术[M].北京: 科学出版社,2014 Zhou W. Theories and Approaches of Amelioration and Management of Low Yield Paddy Soils[M].Beijing:Science Press,2014   \n[69]王飞，李清华，林诚，等．不同地形发育冷浸田水稻施肥响 应特征[J].福建农业学报,2013,28(8):802-806 Wang F,Li QH,Lin C,et al.Responses to fertilization of rice on cold-waterlogged paddy fields developed from different landforms[J]. Fujian Journal of Agricultural Sciences,2013, 28(8):802-806 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

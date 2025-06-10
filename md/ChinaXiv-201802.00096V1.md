@@ -1,0 +1,141 @@
+# 过渡流下后向台阶流动与瞬态传热特性研究
+
+仲敏波1,² 谢纬安²袁银男1,² 喜冠南1,2(1．江苏大学能源与动力工程学院，江苏镇江 212013;2．南通大学机械工程学院，江苏南通 226019)
+
+摘要为了研究过渡流下后向台阶的流动与瞬态传热特性，建立了二维不可压缩后向台阶流动的数值传热模型，采用非定常数值方式模拟了后向台阶的内部流场，比较了台阶下游底面瞬时努塞尔数 $N u$ 和时均努塞尔数 $N u _ { \mathrm { { m } } }$ 的分布，分析了台阶下游通道内温度分布规律。结果表明：过渡流下台阶底面 $N u$ 数沿着流动方向出现多个峰值， $N u$ 数始终围绕 $N u _ { \mathrm { { m } } }$ 数发生波动。 $R e$ 数为700时，主回流区未出现二次回流，Nu数在主回流区下游才发生波动； $R e$ 数为1200时，主回流区出现二次回流，Nu数在主回流区就发生了波动。台阶下游通道内温度沿法向呈阶梯式变化， $R e$ 数越大，近底面处的温度变化梯度也越大。
+
+关键词过渡流；传热特性；数值模拟；后向台阶中图分类号：TK124 文献标识码：A
+
+# Study on Flow Field and Instantaneous Heat Transfer Characteristics for Backward-facing Step in Transition Flow
+
+ZHONG Min-Bo' XIE Wei-An² YUAN Yin-Nan1,2 XI Guan-Nan1.2 (1.School of Energy and Power Engineering,Jiangsu University,Zhenjiang 2120l3,China; 2.School of Mechanical Engineering,Nantong University,Nantong 226019,China)
+
+AbstractIn order to study the flow field and the instantaneous heat transfer characteristics for backward-facing step in transition flow,a two-dimensional incompresible numerical model of backward-facing step flow was established.The internal flow field was studied with the unsteady numerical method. The instantaneous Nusselt number $( N u )$ and the time-averaged Nusselt number $( N u _ { \mathrm { { m } } } )$ distributed on the bottm wall were compared.The temperature distribution of the channel was analyzed. The results show that Nu appears multiple peaks on the botom wall along the flow direction in transition flow. The distribution of Nu always fluctuates around the $N u _ { \mathrm { { m } } }$ . When the Reynolds number is 7Oo,Nu fluctuates only in the downstream of the primary recirculation region because there is no secondary recirculation zone in the primary recirculation region.When the Reynolds number is 12Oo,Nu fluctuation occurs in the primary recirculation region because secondary reflux appears in the primary recirculation region. The temperature changes in the form of step in the normal direction for the channel downstream of the step.The larger the Reynolds number is, the greater the temperature gradient is.
+
+Key wordstransition flow; heat transfer characteristics; numerical simulation; backward-facing step
+
+# 0引言
+
+后向台阶流动分离现象普遍存在于动力、化工、石油与能源等领域。迄今，针对后向台阶的流动特性已有大量的实验和数值研究：Armaly 等[1通过实验和数值方式首次对同一模型研究后发现随着雷诺数 $R e$ 增大，流场具有三维特性。之后，众多科研工作者对后向台阶的流动特性进行了更加深入细致的研究。Williams 和Baker[2]对层流状态下的流场进行了三维数值模拟；Tylli 等3研究了台阶侧壁对流场的影响；Erturk[4通过数值模拟研究了 $R e$ 数变化对流体再附着点位置的影响。国内学者王兵等[5模拟了湍流时后向台阶流场中大尺度涡结构的发展和演化过程；齐鄂荣等[7]应用PIV 技术对层流、过渡流、湍流状态下流场中旋涡的生成、发展和演化规律进行了研究。
+
+但是到目前为止，只有少数研究是针对后向台阶的传热特性，且研究范围主要限于层流[8,9]和湍流[10,11]状态。然而，过渡流作为一种特殊的流动状态，其流动和传热特性有别于层流和湍流[12-14]，所以研究过渡流状态下的流动传热问题对理论研究及工程应用都具有重要的意义。
+
+本文根据过渡流的非定常特点，建立了二维非定常流传热数值计算模型，模拟了过渡流下的流场和温度场，对台阶底面瞬时努塞尔数(Nu)和时均努塞尔数 $( N u _ { \mathrm { { m } } } )$ 的分布作了对比，分析了台阶下游通道内的温度分布规律。
+
+# 1计算模型和计算方法
+
+# 1.1计算模型和边界条件
+
+图1表示后向台阶流动的数值计算模型。坐标原点位于台阶垂直壁面和下游壁面的交点处，沿着流体流动方向为 $x$ 方向，垂直于流体流动方向为 $y$ 方向。台阶高度为 $s$ ，平板间高度为 $H$ ，台阶扩张比$E R = H ⁄ ( H - S ) = 2$ 。台阶上游进口长度 $L _ { \mathrm { 0 } } = 0 . 5 H$ ，台阶下游出口长度 $L = 5 0 H$ 。
+
+![](images/47a63ef27c5823eeedd5f9e9ccb43d2565c3713590440e467c7f93b3a2e7b56d.jpg)  
+图1计算模型
+
+台阶进口边界温度均匀分布 $\scriptstyle T _ { \mathrm { i n } } = 1 0 ^ { \circ } \mathrm { C }$ ，进口速度$u _ { \mathrm { i n } }$ 充分发展，满足抛物线分布；出口边界的速度场和温度场符合边界层近似理论[15]；壁面边界：台阶所有壁面速度无滑移，台阶下游底面温度恒定$\scriptstyle T _ { \mathrm { w } } = 4 0 ^ { \circ } C$ ，其余壁面满足绝热边界条件。
+
+# 1.2控制方程及求解
+
+以常物性二维连续不可压缩非稳态流体（空气）为研究对象，采用的控制方程包括质量守恒、动量守恒、能量守恒方程，表达如下：
+
+质量守恒 $\frac { \partial } { \partial x } \big ( \rho u \big ) + \frac { \partial } { \partial y } \big ( \rho \nu \big ) = 0$
+
+动量守恒 $\frac { \partial } { \partial t } { \left( \rho { \boldsymbol { u } } \right) } + \frac { \partial } { \partial x } { \left( \rho { \boldsymbol { u } } ^ { 2 } \right) } + \frac { \partial } { \partial y } { \left( \rho { \boldsymbol { u } } { \nu } \right) }$
+
+$$
+\begin{array} { c } { { \displaystyle = - \frac { \partial P } { \hat { \alpha } x } + \frac { \hat { \alpha } } { \hat { \alpha } x } \bigg ( \mu \frac { \hat { \alpha } u } { \hat { \alpha } x } \bigg ) + \frac { \hat { \alpha } } { \hat { \alpha } y } \bigg ( \mu \frac { \hat { \alpha } u } { \hat { \alpha } y } \bigg ) } } \\ { { \displaystyle \frac { \hat { \alpha } } { \hat { \alpha } t } \big ( \rho \nu \big ) + \frac { \hat { \alpha } } { \hat { \alpha } x } \big ( \rho u \nu \big ) + \frac { \hat { \alpha } } { \hat { \alpha } y } \big ( \rho \nu ^ { 2 } \big ) } } \\ { { \displaystyle = - \frac { \hat { \alpha } P } { \hat { \alpha } y } + \frac { \hat { \alpha } } { \hat { \alpha } x } \bigg ( \mu \frac { \hat { \alpha } \nu } { \hat { \alpha } x } \bigg ) + \frac { \hat { \alpha } } { \hat { \alpha } y } \bigg ( \mu \frac { \hat { \alpha } \nu } { \hat { \alpha } y } \bigg ) } } \end{array}
+$$
+
+能量守恒 $\frac { \partial } { \partial t } { \left( \rho C _ { P } T \right) } + \frac { \partial } { \partial x } { \left( \rho C _ { P } u T \right) } + \frac { \partial } { \partial y } { \left( \rho C _ { P } \nu T \right) }$
+
+$$
+= \frac { \hat { \sigma } } { \hat { \sigma } x } \Bigg ( \lambda \frac { \hat { \sigma } T } { \hat { \sigma } x } \Bigg ) + \frac { \hat { \sigma } } { \hat { \sigma } y } \Bigg ( \lambda \frac { \hat { \sigma } T } { \hat { \sigma } y } \Bigg )
+$$
+
+上述控制方程 $( 1 ) { \sim } ( 4 )$ 中， $u , \ \nu$ 分别代表 $x , \ y$ 方向速度分量， $P$ 是压力， $T$ 是温度， $t$ 表示时间， $\rho$ 、$\mu , \lambda , C _ { p }$ 分别代表流体密度、粘性系数、导热系数、定压比热。
+
+采用有限容积法求解二维非定常控制方程，动量方程中对流项和扩散项分别采用三阶迎风差分(QUICK算法)和二阶中心差分求解，时间项采用隐式求解法。求解方程时，每一个时间步长中采用ADI算法，迭代过程中，压力和速度的修正均采用SIMPLE算法。通过课题组编制的FORTRAN程序实现控制方程组的求解。
+
+# 1.3网格划分及模型验证
+
+采用非均匀网格划分计算区域，在流动参数变化梯度大的台阶分离点和上、下壁面附近区域对网格加密。为了消除网格差异对计算精度的影响，进行了网格独立性计算。网格雷诺数 $R e _ { \mathrm { g } }$ 反映了网格的疏密情况，考虑到计算机的容量和计算速度，经过计算确定在整个研究范围内 $R e _ { \mathrm { g } }$ 取值12。采用这一网格精度计算得到的再附着点位置与他人的数值和实验结果对比如图2所示，比较结果表示目前的计算方法是正确可靠的。
+
+![](images/3ac6e86e43f6509a8fa5d27edd1a082924811019f1f90f6766dce1cdbd7fcd86.jpg)  
+Fig.1 Calculation region   
+图2再附着点位置比较  
+Fig.2 Comparison of reattachment point positions
+
+![](images/86e2a74b58b9aaca37285601d3fd90dbfd7f196cc4ecb36ad7c507382a2027bf.jpg)  
+图3涡量场
+
+# 2计算结果与分析
+
+本文研究了 $R e$ 数（以台阶高度 $s$ 作为特征长度；速度取进口平均速度 $\overline { { u } } _ { i n }$ ）500、700、1200三种不同工况下后向台阶的流场和传热特性。图3表示这三种工况下的瞬态涡量场。从图上可以看出， $R e$ 数发生变化，流场的状态也发生了变化。 $R e { = } 5 0 0$ 时，台阶下游未产生旋涡，说明流场处于层流状态；$R e { = } 7 0 0$ 、1200时，台阶下游产生了交错旋转的旋涡，说明流场处于过渡流状态。为了比较后向台阶在过渡流与层流状态下的瞬态传热特性，文中对 $R e { = } 5 0 0$ 时后向台阶的流场和瞬态传热特性规律同时进行了研究。图4表示与图3对应时刻下的速度矢量场，图中的黑线表示流线，“”表示瞬时再附着点位置。从图上可以看到台阶下游流场（旋涡发展）随着 $R e$ 数增大的发展过程。图中 $R e { = } 5 0 0$ 的层流状态下，后向台阶下游底面只在靠近台阶处存在一个主回流区，再附着点下游流场重新发展； $R e$ 数增大后，$R e { = } 7 0 0$ ，主回流区内涡核发生分裂，同时再附着点下游流场沿着流动方向产生多个旋涡； $R e$ 数进一步增大， $R e { = } 1 2 0 0$ ，主回流区产生了二次回流区，同时在台阶角落 $x / H { \leqslant } 1$ 的区域有角涡形成。
+
+图5表示台阶下游底面时均努塞尔数 $N u _ { \mathrm { { m } } }$ 沿着流动方向的分布。从图上可以看出， $R e { = } 5 0 0$ 时， $N u _ { \mathrm { { m } } }$ 数沿着流动方向只有一个峰值，符合层流时的分布特征。 $R e { = } 7 0 0$ 、1200时， $N u _ { \mathrm { { m } } }$ 数沿着流动方向出现两个峰值（上游的称为主峰、下游的称为次峰)，主峰值大于次峰值。 $R e$ 数由700增加到1200，主峰值由5.9增加到10.3，次峰值由5.0增加到8.3，主峰值的增加程度是次峰值增加程度的1.33倍。主峰位置由 $x / H { = } 8 . 0$ 变化到 $x / H { = } 6 . 6$ ，次峰位置由 $x / H { = } 1 3 . 1$ 变化到 $x / H { = } 9 . 7$ ，两峰位置随着 $R e$ 数增大都向着台阶方向移动，但次峰的移动速度是主峰移动速度的2.43倍，使两峰之间距离随着 $R e$ 数的增加而减小。
+
+![](images/f13ae256df80dfb57d7bf3722e83e407988895049d584d6c53c59185bbb17bcb.jpg)  
+Fig.3Vortexfield   
+图4流线和速度矢量图
+
+![](images/3d3e83654b2920879a4ef12bfb298ff0e29d89e354afd0e972bf79d5cb16f4c6.jpg)  
+Fig.4Streamline and the velocity vector   
+图5台阶底面时均努塞尔数 $N u _ { \mathrm { { m } } }$ 分布 Fig.5Time-averaged $N u _ { \mathrm { { m } } }$ distribution on the bottom wall
+
+图6表示台阶下游底面时均摩擦系数 $C _ { f \mathrm { m } }$ 沿着流动方向的分布。图中 $C _ { f \mathrm { m } } { < } 0$ 的区域是回流区。通过$C _ { f \mathrm { m } }$ 的分布可以看到： $R e { = } 5 0 0$ 时，台阶底面只存在一个主回流区； $R e { = } 7 0 0$ 时，主回流区下游出现了一个二次回流区； $R e { = } 1 2 0 0$ 时，主回流区下游的二次回流区消失，但主回流区内部出现了二次回流区。所以，从时均的角度研究二次回流区，随着 $R e$ 数的增大，台阶底面的二次回流区将由主回流区下游向主回流区内部迁移。因此，图5中主峰、次峰位置随着 $R e$ 数的增大向台阶方向移动是二次回流区向上游迁移后的结果，而二次回流区出现在主回流区内对主峰值的快速增加又起到了促进作用。
+
+图7表示台阶下游底面瞬时努塞尔数 $N u$ 沿着流动方向的分布。图中的瞬时 $N u$ 数分布对应图3中瞬态流场的时刻。从图中可以看出， $R e { = } 5 0 0$ 的层流状态下， $N u$ 数和 $N u _ { \mathrm { { m } } }$ 数沿着流动方向的分布重合。而在过渡流状态下， $N u$ 数沿着流动方向会发生剧烈的波动，出现多个峰值： $R e { = } 7 0 0$ 时， $N u$ 数在主回流区先快速增大，在主回流区下游才发生波动； $R e { = } 1 2 0 0$ 时， $N u$ 数在主回流区就发生波动，沿着流动方向波动振幅快速增大，在再附着点附近到达最大，然后又逐渐减小。图 4(b)中主回流段未产生二次回流，对应图7(b)中该瞬时的 $N u$ 数在回流段没有发生波动，与 $N u _ { \mathrm { { m } } }$ 的分布重合。图4(c)中回流段底面出现了三个附壁涡，对应图7(c)中该瞬时的 $N u$ 数在该位置出现了三个波峰;图4(c)中瞬时再附着点位于 $x / H { = } 7 . 8$ 处，图7(c)中该位置的 $N u$ 数也到达峰值。计算结果显示：$N u$ 数的波动始终围绕着 $N u _ { \mathrm { { m } } }$ 数的分布。
+
+![](images/88d06362de0148c3de8a507772b1a363732ac1cd634a8ee5f38e25c8b4e15e68.jpg)  
+图6台阶底面时均摩擦系数 $C _ { f \mathrm { m } }$ 分布
+
+图8表示台阶下游底面瞬时摩擦系数 $C _ { f }$ 沿着流动方向的分布。从图上可以看到在某一瞬时台阶底面回流区的分布情况： $R e { = } 5 0 0$ 时，流场的瞬时分布和时均分布表现一致，说明层流时流场比较稳定；$R e { = } 7 0 0$ 、1200的过渡流态下，沿着流动方向后向台阶下游底面存在多个回流区，这一现象与流场的时均表现不同，说明过渡流下，流体流动状态复杂，流场的影响因素多。不同流态下， $C _ { f }$ 数与 $C _ { f \mathrm { m } }$ 数分布之间的关系和 $N u$ 数与 $N u _ { \mathrm { { m } } }$ 数分布之间的关系类似。说明了流动与传热之间存在密切关系。
+
+![](images/97e79d6dbfbffdd5853e7a781aad3f84a9f1086a025ce65cb4f1274639e6abb9.jpg)  
+Fig.6 Time-averaged $C _ { f \mathrm { m } }$ distribution on the bottom wall   
+图7台阶底面瞬时努塞尔数 $N u$ 分布
+
+![](images/814b862f9d567e09e1c37afba9f67ad8e3c34258d2159061bc7f5311d58f8713.jpg)  
+Fig.7Instantaneous $N u$ distribution on the bottom wall   
+图8台阶底面瞬时摩擦系数 $\mathrm { C } _ { f }$ 分布  
+Fig.8 Instantaneous $\mathrm { C } _ { f }$ distribution on the bottom wall
+
+![](images/ac7f96c762f862bd0758c5341a5e5933104e8b70c5185b55786193128fcb3aaf.jpg)  
+图9温度分布云图
+
+![](images/9f97a2e1a4258a0f0e2f819f7e96823aa8896c2d383b5fac4aa46bbac0b57a83.jpg)  
+Fig.9 Contour of temperature   
+图10温度在法向的分布  
+Fig.10 Distribution of temperature in the normal direction
+
+为了对后向台阶流动的传热特性有更加全面的认识。图9给出了后向台阶通道内的温度分布云图，此瞬态温度分布时刻对应图3中的瞬态流场时刻。比较图3和图9，由于流场结构会影响温度场的分布，温度场的分布特征和流场的分布特征类似。 $R e { = } 5 0 0$ 时，流场处于层流状态，温度分布呈明显的层状。而在过渡流时，由于流场中的旋涡运动引起台阶底面的热流体和上部冷流体混合，流道内温度分布出现波动，在近壁面处温度梯度最大。在再附着点上游，温度分布表现为两种形式： $R e { = } 7 0 0$ 时，温度在台阶高度以下通道呈层状分布； $R e { = } 1 2 0 0$ 时，产生二次回流的区域，温度发生了波动。这两种状态的共同点是，温度在台阶高度以上通道无明显变化。再附着点处，流体冲刷壁面，壁面温度边界层破坏，温度梯度最大。 $R e$ 数越大，冷、热流体之间的换热作用增强，两者温差沿着流动方向减小得越快。
+
+图10表示温度沿通道法向的变化情况。顺着流动方向选择9个截面，其中截面 $x / H { = } 0$ 位于台阶分离点，截面 $x / H { = } 2$ 、5位于主回流区内，截面 $x / H { = } 7$ ，10 靠近再附着点，其余截面位于主回流区下游。从图上可见，通道内温度在法向的变化呈明显的阶梯式，在不同的区域，各截面上温度在法向的变化也各不相同。靠近分离点处，温度只在台阶高度以下发生变化，台阶高度以上无变化。主回流区内，温度沿法向的变化高度逐渐扩大，台阶下游通道上部冷流体的区域逐渐减小。主回流区下游，沿通道的高度方向，流体的温度相对于进口处流体温度都有所提高。但温度在靠近底面的区域会发生急剧变化，$R e$ 数越大，温度的变化梯度也越大，随着高度增加，温度变化越来越平缓。顺着流动方向，上部冷流体和下部热流体之间的温差逐渐减小。
+
+# 3结论
+
+采用非定常方式数值模拟了二维后向台阶内部流场，对台阶底面的传热特性规律和通道内温度分布规律进行了研究，得到以下结论：
+
+1）在层流状态下，台阶下游底面的瞬时Nu 数和时均 $N u _ { \mathrm { { m } } }$ 沿着流动方向的分布完全重合。
+
+2）在过渡流状态下，台阶下游底面的瞬时Nu数始终围绕时均 $N u _ { \mathrm { { m } } }$ 数的分布发生波动，沿着流动方向出现多个峰值。 $R e$ 数为700时，主回流区未出现二次回流，瞬时 $N u$ 数在主回流区下游才发生波动；$R e$ 数为1200时，主回流区出现二次回流，瞬时Nu数在相应位置就发生了剧烈波动。
+
+3）后向台阶通道内温度在各截面上沿法向的变化呈明显的阶梯式。在同一截面，温度在靠近底面处发生急剧变化， $R e$ 数越大，温度变化梯度也越大，随着高度增加，温度变化越来越平缓。
+
+# 参考文献
+
+[1]Armaly B F,Durst F,Pereira JCF, et al. Experimental and Theoretical Investigation of Backward-facing Step Flow [J]. Fluid Mechanics,1983,127: 473-496   
+[2]Wallams P T,Baker A J. Numerical Simulation of Laminar Flow over a 3D Backward-facing Step [J]. International Journal of Numerical Methods in Fluids, 1997,24: 1124-1183   
+[3]Tylli N,Kaiktsis L,Ineichen B. Sidewall Effects in Flow over a Backward-facing Step: Experiments and Numerical Solutions [J]. Physics of Fluids,2002,14: 3835-3845   
+[4]Erturk E. NumericalSolutionsof2-DSteady Incompressible Flow over a Backward-facing Step,Part I: High Reynolds Number Solutions [J]. Computers & Fluids, 2008, 37: 633-655   
+[5]王兵，张会强，王希麟，等．后台阶流动再附着过程的 大涡模拟研究[J]．应用力学学报,2004,21(3):17-20 WANG Bing,ZHANG Huiqiang，WANG Xilin, et al. InvestigationontheReattachmentProcessof Backward-facing Step Flow using Large Eddy Simulation [J]. Chinese Journal of Applied Mechanics,2004,21(3): 17-20   
+[6]齐鄂荣,黄明海,李炜，等．应用PIV进行二维后向台阶 流流动特性的研究(1)二维后向台阶流的旋涡结构的研 究[J]．水动力学研究与进展,A辑,2004,19(4):525-532 QI Erong,HUANG Minghai, LI Wei, et al. Investigation of Vortex Structure of the 2D Backward Facing Step Flow via PIV [J]. Journal of Hydrodynamics， Ser.A,2004,19(4): 525-532   
+[7]齐鄂荣，黄明海，李炜 等.二维后向台阶流流动特性的 实验研究[J].实验力学,2006,21(2):225-232 QI Erong,HUANG Minghai,LI Wei, et al.A Experimental Study on the 2D Time-average Flow over a Backward Facing Step via PIV [J]. Journal of Experimental Mechanics,2006,21(2): 225-232   
+[8]Iwai H, Nakabe K, Suzuki K. Flow and heat transfer characteristics of backward-facing step laminar flow in a rectangular duct [J]. International Journal of Heat and Mass Transfer, 2000, 43(3): 457-471   
+[9]Chaudhary H, Dhiman A. Two-Dimensional Laminar Fluid Flow and Heat Transfer over a Backward-Facing Step: Effects of Reynolds and Prandtl Numbers [J].Heat Transfer Research,2011, 42(4): 379-402   
+[10] Avancha R V, Pletcher R H. Large Eddy Simulation of the Turbulent Flow past a Backward-facing Step with Heat Transfer and Property Variations [J]. International Journal of Heat and Fluid Flow,2002,23(5): 601-614   
+[11]Lan H,Armaly B，Drallmeier J. Three-dimensional Simulation of Turbulent Forced Convection in a Duct with Backward-facing Step [J]. International Journal of Heat and Mass Transfer, 2009,52(7-8): 1690-1700   
+[12] 赵舟，周少东，袁银男，等．过渡流下管束的流动、传热 强化特性研究一串列双圆柱流场研究[J].工程热物理学 报,2012,33(12):2194-2196 ZHAO Zhou， ZHOU Shaodong,YUAN Yinnan，et al. Study on Flow and Heat Transfer Characteristics of Tubes in Transition Flow一Flow Field of Tandem Cylinders [J]. Journal of Engineering Thermophysics,2012，33(12): 2194-2196   
+[13] ZHOU Shaodong，ZHAO Zhou，YAN Shifeng，et al. Numerical Study on Characteristics of Flow and Thermal Fields of Tandem Cylinders [J].Heat Transferand Engineering,2014,35 (8-9)   
+[14] 闫世峰，蔡春森，周少东，等．过渡流下叉排圆柱列流 动传热特性的研究[J]．工程热物理学报，2013，34(10): 1948-1951 YAN Shifeng，CAI Chunsen， ZHOU Shaodong，et al. Study on Flow and Heat Transfer Characteristics of Offset Cylinder Arrays in the Transition Flow [J]. Journal of Engineering Thermophysics,2013,34(10): 1948-1951   
+[15] Kieda S, Suzuki K, Sato T. Numerical Study on Flow Behavior and Heat Transfer in the Vicinity of Starting Point of Transpiration//Taylor C， SchreflerBA. Proceedings of the Second International ConferenceNumerical Methods in Laminar and Turbulent Flow [C]. Swansea,Wales: Pineridge Press,1981: 905-916   
+[16] Kim J, Moin P. Application of a Fractional-step Method to Incompressible Navier-Stokes Equations [J]. Journal of Computational Physics,1985, 59(2): 308-323

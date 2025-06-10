@@ -1,0 +1,448 @@
+[
+    {
+        "type": "text",
+        "text": "The conformational states of talin autoinhibition complex and its activation under forces ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZENG Yan1.3†, ZHANG Yong1,SONG XianQiang23, JI QingHua13, YE Sheng2 ZHANG RongGuang²\\* & LOU JiZhong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratoryofRNA Biology,Instituteof Biophysics,ChineseAcademyofSciences,Beijinglolol,China; 2NationalLaboratoryofiomacromolecules,Instituteofophsics,ChineseAcademyofSciences,BeijinglOo,China; 3University ofChinese Academy of Sciences,Beijing lOoo49,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received March 13,2015;accepted April2,2015; published online May 29,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Talinisanintegrin-bindingproteinlocatedatfocaladhesionsiteandserves asbothanadapterandaforcetransmiter.Its integrinbindingactivityisregulatedbytheintramolecularautoinhibitioninteractionbetween itsF3andRSdomains.Here,we usedatomic force microscopy to measure the strength of tlin autoinhibitioncomplex.Ourresults suggest that the lifetimeof talinautoinhibition complex shows weak catchbond behaviorand does not change significantlyat smaler forces,while it dropsrapidly at larger forces $\\mathrm { ( > 1 0 ~ p N ) }$ .Moreover,besides the complex conformation revealed by crystal structure,our molecular dynamics (MD)simulations indicate the posible existenceof another stable conformation.Further analysis indicates that forces mayregulate theequilibrium ofthetwo stable binding states and resultin the non-exponential force dependence of the binding lifetime.Ourfindings reveal a negative regulation mechanism on talin activation and provide anew pointof view on the function of talin in focal adhesion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "celladhesion,integrinsignaling,single moleculebiophsics,moleculardynamicssimulations,conformationalhanges ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZengY,hangogXJ,gG,ouJZeofoatioalatesftaltoopeditsciiode forces. Sci China Life Sci,2015,58:694-703,doi:10.1007/s11427-015-4873-9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Talin is a largely abundant cytosolic protein containing more than 25OO amino acids.It links integrin and actin filaments,plays important roles in mechanical signaling pathway,and regulatesvariousintegrin-mediatedcell adhesion events [1].Structurally,talin can be divided into two parts: a globular N-terminal head and a large flexible C-terminal rod domain.Talin head includes a FERM domain(four-point-one-protein/ezrin/radixin/moesin） which contains three subdomain modules，F1，F2 and F3.The C-terminal rod domain is made of a series of $\\mathfrak { a }$ -helicalbundles and actin-binding motifs. Talin-FERM domain can bind with the cytoplasmic tail of integrin $\\beta$ subunit via its ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "F3 subdomain.Talin head also contains the binding sites of various moleculessuch as $\\mathrm { P I P K 1 } \\gamma 9 0$ [2],F-actin[3], Ha-Ras [4] and phosphatidylinositol 4,5-bisphosphate $( \\mathrm { P I P } _ { 2 } )$ [5].Talin rod binding proteins include vinculin [6,7], F-actin [8] and synemin [9].Previous studies have indicated that talin not only forges the linkage between integrin and actin,but also serves as a regulator to active integrin[1O-12] and as a force transducer between cell and extracellular matrix [13-15]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Talin head alone is sufficient for integrin activation, but full length talin is required for focal adhesions (FAs）assembly [1O].On the other hand,integrin activation is increased by expressing talin fragments with the head domain but not the rod domain [16]. That is, talin head has higher integrin-activating activity than full length talin,indicating that full length talin may exist as an inactive conformation [5].Recent NMR and crystal structures showed that talin rod segment 1655-1822 (RS)could interact with talin-F3 [17,18],which keeps talin inactive to prevent spontaneous integrin binding.The solved autoinhibition structures of talin F3/RS complex reveal that talin's activity may be regulated as well, although the molecular mechanism remains elusive. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Studies also find that Rap1 [19,2O],RIAM [19,21], $\\mathrm { P I P } _ { 2 } / \\mathrm { P I P K I } \\gamma 9 0$ [5] and the interaction between talin and cell membrane [17] affect talin activation.Rapl activates integrin by forming an integrin-associated complex containing talin and RIAM [2O]. RIAM functions as scaffold that connects talin with Rapl,and the membrane targeting sequences in Rapl recruit the complex to the membrane, thereby promoting talin binding to integrin [19]. Another talin regulator phosphatidylinositol 4,5-bisphosphate $\\left( \\mathrm { P I P } _ { 2 } \\right)$ a phospholipid component of plasma membrane,can bind withtalin andblockthe interactionoftalinF3/RS[5].The ${ \\mathrm { P I P } } _ { 2 }$ -productingenzyme， typeIγphosphatidylinositol phosphate kinase (PIPKIy),is also recruited during the process of talin activation [5],which results in the increase of $\\mathrm { P I P } _ { 2 }$ local concentration. $\\mathrm { P I P K I } \\gamma$ and integrin $\\beta$ -tail share the same binding region in talin F3 domain [22], indicating that talin head must dissociate from PIPKIy before it can bind with integrin.The solved talin F2F3/RS autoinhibition structure reveals a negatively charged surface on talin-RS [17]. This feature,together with the fact that multiple positively charged residues locate at the proposed membrane binding surface of talin head, suggests a “pull-push” model of talin activation in which talin F2F3/RS interaction is broken by that inner membrane leaflet with accumulated anionic phospholipids strongly attracts positively charged surface of talin F2F3 domain and repels the negatively charged surface of talin RS domain [17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Talin is not uniformly dispersed in the cell but locates dominantly at focal adhesion sites [23] where mechanical forces are generated between cell and matrix.As a force transducer,activated talin interacts with integrin on one side and cell skeleton actin filaments on the other side.It withstands the stretching force produced by various actin filament-associating molecular motors, the conformational changes of integrin and the charged inner leaflet of plasma membrane.It is obvious that forces may play significant roles for talin's function [24]. Not surprisingly,recent studies have indicated that force directly regulates focal adhesion dynamics [25-28].As a molecule located at focal adhesion and a linker between integrin and actin filaments, activated talin must adapt the function at the complicated mechanical conditions in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At resting,talin exists in autoinhibition state which needs to be disrupted to release the talin head for integrin $\\beta$ -tail binding. This activation process of talin may be facilitated by mechanical forcesassuggested by the “pull-push\" mechanism. So far, little Was known about the stability of talin autoinhibition and the dynamics of talin activation under force.To understand the potential effect of force and dynamic process on talin activation，we have investigated the dissociation of talin F2F3 and RS domain by single-molecule force spectroscopy using atomic force microscopy(AFM) and MD simulations.Our results suggest that talin F2F3/RS autoinhibition complex may interconverts between two stable conformations and the equilibrium can be regulated by applied forces.At smaller forces $_ { ( < 1 0 }$ pN),the lifetime of the complex does not have significant changes and may remain stable.When the force is larger than $1 0 ~ \\mathrm { p N }$ ，the lifetime of the complex decreases rapidly for fast disruption of the autoinhibition state. Our data provide further evidence for the “pull-push’ model and are helpful to understanding how the inside-out signaling of integrin is accurately regulated. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1Protein preparation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Talin F2F3(206-405)and RS(1654-1848) domains were prepared aspreviously described[5,17].Briefly,the thrombin-cleavable N-terminal His-tag containing pET15b and pET3Oa vectors were used to clone talin F2F3 and RS,respectively.The vectors were expressed in BL21 E.coli and the resulting proteins were purified. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 AFM Setup",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A homemade atomic force microscopy (AFM),assembled using a well-established design [29],was used in this study. Talin F2F3 and RS domains were coated to the MLCT cantilevertips(Bruker Corporation,Arizona,USA)and the flat petri dish/glass surfaces respectively，and two different coating approaches were used. In the first approach,the proteins were linked covalently to the surface.The APTES (3-aminopropyltriethoxysilane) functionalized tips and glass surfaces were prepared according to the protocol in Ebner et al.[3O].The amino functionalized surfaces were then incubated with NHS-PEG350O-MAL (JenKem Technology Co., Ltd.,Beijing,China） solution in PBS buffer at $4 ^ { \\circ } \\mathrm { C }$ overnight.After thoroughly washed with PBS,the tips and glass surfaces were incubated with F2F3 and RS respectively for $^ \\textrm { \\scriptsize 1 h }$ 、Both F2F3 and RS contain exposed cysteine residues on their surface (but none in their interaction interface,Figure S1 in Supporting Information） which can covalently link to MAL group on PEG tether.TBS buffer $( 2 5 0 \\ \\mathrm { m m o l \\ L ^ { - 1 } }$ Tris,150 mmol $\\mathrm { { L } ^ { - 1 } \\Delta N a C l }$ ， $\\mathrm { p H } ~ 7 . 4 )$ containing $1 \\%$ Bovine serum albumin (BSA) was used as the working solution. In the second approach,MLCT cantilever tips and polystyrene petri-dish surfaces were directly incubated with F2F3 and RS protein solution respectively at $4 ^ { \\circ } \\mathrm { C }$ overnight (Figure 1A).We used $1 . 4 ~ \\mathrm { m g } ~ \\mathrm { m L } ^ { - 1 } \\mathrm { F } 2 \\mathrm { F } 3$ and $0 . 7 ~ \\mathrm { m g ~ m L ^ { - 1 } }$ RSin our experiments to achieve ${ \\sim } 2 0 \\%$ successful adhesion events to ensure single molecule measurement. The similar setup was previously used to measure other protein-protein interactions [31-33] and the validity of the direct absorption method was confirmed.BSA wasused as a substitute for talin RS in negative controls. We used the negative experiments and controlled the adhesion frequency to achieve a reliable specificity of our experiments.Negative experiments usually have a very low adhesion frequency $( < 5 \\%$ Figure S2 in Supporting Information).After washing six times with TBS buffer,the tips and dish surfaces were blocked with BSA solution ( $1 \\%$ BSA in TBS buffer）at room temperature for $^ { \\textrm { 1 h } }$ to block the uncovered surface. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cae7cd466e11419d6af47b048c47786d6bbf5d721b8b789a1e44d08b49d66150.jpg",
+        "img_caption": [
+            "FigureFexptsA,TuctioalantiriisatedilFomdtheeece coatedwithtalepdo ments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In each experimental circle,the cantilever tip Was first pressed on the surface for1 s at force about $1 0 \\mathrm { p N }$ ，and then lifted up at a given speed. The cantilever deflection was collected and analyzed to count the adhesion rates and to calculate the unbinding forces.In force-ramp experiment, the cantilever was continually lifted till the rupture of the molecular bond (Figure 1B,upper panel).In force-clamp experiment,when the pre-set force was reached,the piezo stopped pulling so that force was maintained by feed-back control until the molecular bond was ruptured.The practical force can be directly obtained from the force curve (Figure 1B,lower panel).It was found that the forces maintained at a certain value very well during the clamp. Thousands of adhesion events were collected for meaningful statistical analysis in each experiment. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3Measurement of rupture force ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cantilever deflection signal change at bond rupture was used to calculate the rupture force.The loading rate was determined by linear fitting the linear region right before the unbinding eventin the force versus time curves [34,35]. The histograms of the rupture forces were fitted with Gaussian distribution. The maximum force from the fitting was taken as the most probable unbinding force at certain loading rate. The relationship between peak force and loading rate can be described as [36] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ^ { * } = \\frac { k _ { \\mathrm { B } } T } { x _ { u } } \\ln \\biggl ( \\frac { r x _ { u } } { k _ { \\mathrm { B } } T k ^ { 0 F } } \\biggr ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the peak force $( f ^ { \\ast } )$ is proportional to the logarithm of the loading rate $( r )$ $k ^ { 0 F }$ is the dissociation rate of proteins, $x _ { u }$ is the distance from the native potential well to the energy barrier of transition state, $k _ { \\mathrm { B } }$ is the Boltzmann constant,and $T$ is the absolute temperature [36]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4Interaction lifetime processing ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The duration of individual bond lifetime was directly measured from force-clamp experiment. The lifetimes were binned by force.The mean lifetime at each force binwas obtained while the uncertainty was given by the standard error of the mean.The survival probability versus time for eachforcebinwascalculatedfromlifetimedataand fitted with multi-exponential decay model [37]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\ln \\left( \\mathrm { S u r v i v a l F r e q u e n c y } \\right) = \\ln \\left[ \\sum _ { i = 1 } ^ { n } \\omega _ { \\mathrm { i } } \\exp \\left( - k _ { \\mathrm { i } } t \\right) \\right] } \\\\ { \\displaystyle \\mathrm { R u p t u r e } \\mathrm { P r o b a b i l i t y } = 1 - \\sum _ { i = 1 } ^ { n } \\omega _ { \\mathrm { i } } \\exp \\left( - k _ { \\mathrm { i } } t \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is time, $k _ { i }$ and $\\omega _ { i }$ are the off-rate and fraction of the ith state,respectively.The sum of the fractions equals 1. One- $( n { = } 1 )$ ）and two-state $\\scriptstyle ( n = 2 )$ models were tested.The off-rate has a relationship with force and can be defined by Bell equation [38]: $k _ { i } { = } k _ { i 0 } { \\mathrm { e x p } } ( a _ { i } f )$ ，here $f$ is force, $k _ { i 0 }$ is the off-rate at zero force and $a _ { i }$ is a parameter reactive compliance of the ith state determined empirically by taking temperature and other unknown factors into account. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5Molecular dynamics simulations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The initial structures of talin F2F3/RS complex were obtained from protein data bank (PDB code 4F7G).After addition of the missing hydrogen atoms,the protein was solvated in a rectangular water box $( { \\sim } 8 . 7 \\ \\mathrm { n m } { \\times } 1 1 . 3 \\ \\mathrm { n m } { \\times } 1 1 . 8 \\ \\mathrm { n m } )$ with \\~116.4 thousand atoms including ${ \\sim } 3 6 . 9$ thousand ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TIP3P water molecule models. Sodium and chlorine ions were then added to neutralize the system and maintain ${ \\sim } 0 . 1 5 \\ \\mathrm { m o l } \\ \\mathrm { L } ^ { - 1 }$ ion concentration.After pre-equilibration of system in which protein backbone atoms were constrained, the subsequent production trajectory lasted ${ \\sim } 1 2 9$ ns in NPT ensemble(300K,1 atm).The ${ \\sim } 6 4$ and ${ \\sim } 8 6$ ns snapshots were chosen as initial structure for both constant velocity steered molecular dynamics (cv-SMD） and constant-force steered molecular dynamics (cf-SMD),in which the simulation boxes were enlarged to $( { \\sim } 8 . 7 \\ \\mathrm { n m } { \\times } 1 9 . 1 \\ \\mathrm { n m } { \\times } 1 1 . 8 \\ \\mathrm { n m } )$ and ${ \\sim } 2 6 . 7$ thousand more TIP3P water molecule models were added to systems.In cv-SMD,the force constant was set to ${ \\sim } 7 ~ \\mathrm { p N } ~ \\mathring { \\mathrm { A } } ^ { - 1 }$ and the velocity was set to $5 \\ \\mathrm { \\AA \\ n s ^ { - 1 } }$ . In cf-SMD, the constant force was set to ${ \\sim } 7 0 ~ \\mathrm { p N }$ . During the simulation,Particle MeshEwald method wasused to reduce the truncation error of electrostatic interactions.VDW interaction was computed using the switch method,in which the Lennard-Jones (LJ) 6-12 potential was calculated normally within $1 0 \\mathrm { ~ \\AA ~ }$ ，and switched off smoothly between 10 and 12 A. SHAKE method was used on all hydrogen-containing bonds to allow a 2 fs time step in the equilibration simulations.In all SMD simulations,the time step was set to 1 fs without rigid bond approximation used. All energy minimizations and MD simulations were carried out usingtheNAMD2.8softwarepackage[39]and CHARMM22 force field for proteins with CMAP corrections [4O]. System preparations,result analysis and illustrations were performed using the VMD program[41]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1Validating surface functionalization methods with force-ramp experiments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To characterize the talin F2F3/RS bonding activity and verify our coating methods,we first used both covalent and direct coating methods to determine the most probable rupture forces required to disrupt talin F2F3/RS binding with force-ramping measurements (Figure 1B,upper panel). The results confirm that F2F3/RS has a medium bond strength compared with many other biomolecular interactions [42]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the direct absorption coating,a total of 5,845 effective dissociation events were collected into histograms according to their loading rates ranging from 50 to $1 5 { , } 0 0 0 \\ \\mathrm { p N }$ $\\mathrm { { s } } ^ { - 1 }$ (Figure 2A） and each force histogram contains at least 200 unbinding events. These histograms all exhibited single force peak and the peak shifted toward larger forces with the increasing loading rate (Figure 2A).We fitted the force histograms with Gaussian distributions to analyze the dissociation kinetic with dynamical force spectroscopy (DFS) [36,43,44]. The peak force was plotted against the loading rate ina log scale,and the resultedloadingrate dependent rupture force displayed two linear segments (Figure 2B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When F2F3 and RS covalently attached on the tip and coverslip with the NHS-PEG-MAL linker,the successful rate in our experiment reduced dramatically and we can onlycollect enough data for the DFS analysis at the lower loading rate regime.Nevertheless, the covalent coating generated similar results in DFS as the direct absorption coating (Figure 2B),which indicates that the direct absorption coating is acceptable to study talin F2F3/RS interaction. We only use this method in our experiments to measure the force-dependence lifetime of talin F2F3/RS autoinhibition complex. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f69662ef6f0d85bc47326fb7b09205a28f376113ae467fda896a27a0f792eea.jpg",
+        "img_caption": [
+            "Figure 2 Dynamical force spectroscopy of talin F2F3/RS interactions.A, The rupture force histograms of unbinding forces of talin F2F3/RS dissociationat different loading rates.Each force histogram shows single force peak and is fitted with Gaussian distribution (solid lines).The most probable unbinding forces are determined from the fitting.B,The most probable unbinding forces are plotted against the loading rate in the log scale from direct adsorption experiment setup (circle) and covalently adsorption with PEG linker setup (triangle).The black and gray lines are fitting results using DFS theory.Fitting parameters are indicated. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Force-dependent lifetime of talin F2F3/RS bond ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Measuring force-dependent bond lifetime can provide more information than DFS analysis.We measured the lifetimes of talin F2F3/RS bond under various constant forces by force-clamp experiments.In the force-clamp experiments, when a pre-set force is reached,AFM controlling program maintainsthat force via force feed-backloop till the dissociation of talin F2F3/RSbond,as shown in Figure 1Blower panel.For each successful lifetime measurement,a lifetime and the corresponding force were obtained.A total of1,239 lifetimes were collected and then binned into six force groups.The average forces and average lifetimes in the six groups were used to plot the force-lifetime curve as shown in Figure 3A.Interestingly,as force increases from 5 to 10 $\\mathsf { p N }$ ，theaverage lifetimes are slightly increased,which displayweak catch bond behavior.After reaching its maxima at ${ \\sim } 1 0 ~ \\mathrm { p N }$ ，the average lifetimes decrease rapidly with fur ther increase of force,showing the intuitive slip bond behavior. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Catch bond, whose lifetime is prolonged by applied force, and catch-slip transition,have been observed in various receptor/ligand interactions [29,37,45-47], actin-actin [48] and actin-myosin [49] interactions.To our knowledge,this is the first time to observe catch bond-like interaction in the autoinhibition interactions.Itis noted that the catch bond behavior we observed(Figure 3A) is weak. The difference of average lifetimes at $\\mathord { \\sim } 5 \\mathrm { p N }$ and that at ${ \\sim } 1 0 ~ \\mathrm { p N }$ is not statistically significant. Therefore,itis safe to say that from 5 to $1 0 \\mathrm { p N }$ ,the average lifetime does not change too much. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The survival probability of talin F2F3/RS interaction for each force bin is shown in Figure 3B.It is found that the survival probability does not decay exponentially. Similar feature has also been observed in integrin/ligand interactions [29,37,46]. Multi-exponentially distributed lifetimes usually indicate that the dissociation may come from multiple populations of binding states.This suggests that the talin F2F3/RS interaction may form multiple stable conformations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3MD simulations revealed two conformations in talin F2F3/RS binding ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To gain insight on the structural mechanism of talin autoinhibition interaction,we carried out the conventional MD and SMD simulations to study the dynamics and forceinduced dissociation of talin F2F3/RS complex.A clustering analysis was performed to the equilibration trajectory using K-means clustering algorithm with a cutoff value of $8 \\mathrm { ~ \\AA ~ }$ [50] and the results show the existence of two conformational clusters (Figure 4A,left panel).In the two clusters, which correspond to two binding modes, the relative position ofF3 and RS domain is differentand the ${ \\sim } 6 4$ ns (binding Mode1) and ${ \\sim } 8 6$ ns(binding Mode 2) snapshots can be used as the representative conformation for each binding mode.We classified simulated structures into different modes by its RMSD to the represented conformation in each mode ( $\\mathrm { ~  ~ \\mathcal ~ { ~ 4 ~ A ~ } ~ }$ is used as a cutoff).RMSD of RS domain after aligning F3 domain suggests that ${ \\sim } 2 0 \\%$ simulated conformations are close to Mode 1 and ${ \\sim } 8 0 \\%$ conformations are close to Mode 2 (Figure 4A,right panel).The two binding modes show structural similarity and differences.The hydrogen bond network observed in both conformations is shown in Figure 4B and the differences are indicated in Figure 4C and D.Hydrogen bondsof K320-Q1774,K332-E1805 and Y377-D1676 are not presented in Mode 2 (Figure 4C and D). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0543986c58e64976b6e4ccaef3b31c82308dfdc2a6d66e50abc14dd93ae340d.jpg",
+        "img_caption": [
+            "Figure 3 Force dependent lifetime in force-clamp experiments.A,Bond lifetimes of talin F2F3/RS interaction show catch bond-like behavior at smaller force regime and catch-slip transition.Each point represents mean lifetime±SEM of ${ > } 6 0$ measurements,except the last point at $3 6 . 2 ~ \\mathrm { p N }$ (in which11 events were observed).B,The lifetime distribution (plotted as survival frequency） shows multiple exponential decaying feature.Each force corresponds to one data point in(A). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with the crystal structure of talin autoinhibition complex, the overall RMSDs of the two conformations based on MD are ${ \\sim } 2 . 0$ and $4 . 5 \\mathrm { ~ \\AA ~ }$ respectively.And the RMSDs for the RS domain is ${ \\sim } 2 . 8$ and $6 . { \\overset { \\cdot } { 9 } } \\mathrm { \\AA }$ when the F2F3 domain is aligned.Mode 1 is closer to the crystal structure. To study the difference of interaction patterns among those structures,a superimposition of the RS domains in those structures was carried out.Interestingly， the F2F3 subdomains in Mode 1 and Mode 2 undergo significant rotations (about $1 4 ^ { \\circ }$ and $2 4 ^ { \\circ }$ for Mode 1 and 2,respectively) with one of the two protruding fingers of F3(K316-P327）as axis, leading to increased distances between those two fingers (about 2 and $5 \\mathrm { ~ \\AA ~ }$ more for Mode 1 and 2,respectively) (Figure S3 in Supporting Information).As a result of the rotation in Mode 2,the $\\beta$ -turn（S362-S365）close to the N-terminus of the C-terminal helix ofF3 approaches the RS domain，forming a hydrogen bond between S362 and H1755,a new connection that does not exist neither in the complex crystal structure nor in Mode 1 (Figure 4D). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The snapshots at 64 and 86 ns were then taken as the representative conformations for the two binding modes respectively for further SMD simulations.Two series of cv-SMD simulations (Figure 4E） were carried out using both snapshots as the initial structure,in which four different pulling strategies were applied (Figure 4F). The time-force curves show that the force peaks in Mode 1 cv-SMD simulations are larger than those in Mode 2 cv-SMD simulations for all pulling strategies,which suggests that the binding in Mode 1 is stronger than that in Mode 2.When a constant force $( { \\sim } 7 0 ~ \\mathrm { p N } )$ is applied to 64 ns snapshot conformation (Mode 1),the conformation of the complex is stable and does not have any significant change in 40 ns (Figure 4G).However,if the same constant force is applied to 86 ns snapshot conformation (Mode 2),a conformational change to Mode1 was observed at ${ \\sim } 1 0 ~ \\mathrm { n s }$ ，and lasted till the end of the simulation (Figure 4H). These results suggest that the complex maintains an equilibrium between the two binding modes at force free condition and the binding Mode 2is favored.Force can shift the equilibrium and favor the binding Mode 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d8d2ba166b5f9578e9ce65e645f769556106736a0fdd5da5a536b82303f577d.jpg",
+        "img_caption": [
+            "Figure 4MD simulations of F2F3/RS complex.A,Left panel: conformational clustering for the ${ \\sim } 1 2 9$ ns equilibration period using K-means clustering algoitTosteeadacddareigelofailibaiodelaiedo mations (\\~64 and ${ \\sim } 8 6$ ns snapshot, termed as Mode 1 and Mode 2 whicharefromcluster and2 spectively.B,Hydrogen bond network observed in both binding modes.C,Additional hydrogen bonds obse Mode D,Additional hydrogen bonds observed in binding Mode 2.E,The pulling strategies in SMD simulations. TalinF2F3domai strained and the force is applied on the RS domain (N- or C-terminal).F,The time simulationsofMode 1 result in larger forces than those of Mode 2 forall pulling $\\mathbf { \\boldsymbol { C } } \\mathbf { \\boldsymbol { a } }$ ninal $\\mathbf { \\boldsymbol { C } } \\mathbf { \\boldsymbol { a } }$ atoms of RSarepulled,otherstrategies ithth ative Mode1andMode2conformations.The simulation is from Mode Mode onformation (H).It is clearly shown that Mode 1is stable under the force but Mode 2 undergoes the conformation change to Mode 1 quickly after the force application. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4Characterizing talin autoinhibition states and their regulationsbyforce ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Since MD simulations indicate that two possible stable binding states exist for talin autoinhibition complex,it is straightforward to propose that the unusual force-dependent kinetics revealed in single molecule experiments result from the mixing of these two states whose fractions are shifted by the applied force.Similar properties have been observed in LFA-1 integrin/ICAM-1 binding previously [37,46]. To get further information on how force may regulate the fractions of the two binding states,we analyze the survival frequency data (Figure 3B) with a two-state model.In the model, each of the two states followsthe first-order dissociation kinetics with the dissociation rate described by Bell model [38]. Our analysis indicates that the two-state model can fit the lifetime distributions of all forces very well (Figure S4 and Table S1 in Supporting Information). The resulting dissociation rates and the corresponding fractions are shown in Figure 5.At the weak catch bond regime $( < 1 0 \\mathrm { p N } )$ ,the fractions of the two states do not have significant change,and the lower affinity state (larger dissociation rate,shorter lifetime,circles in Figure 5)is favored (Figure 5B).After the force increases to the slip bond regime $\\mathrm { ( > 1 0 ~ p N ) }$ ,the fraction of the lower affinity state deceases and that of the higher affinity state (smaller dissociation rate,longer lifetime,diamond in Figure 5)increases.At $3 6 . 2 ~ \\mathrm { p N }$ ，the fraction of the higher affinity state approaches $100 \\%$ and that of the lower affinity state almost goes down to 0. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It could be observed from the curve that the population of lower affinity state is ${ \\sim } 8 0 \\%$ and the higher affinity sate is ${ \\sim } 2 0 \\%$ at low forces (Figure 5B). This is in agreement with the fraction of the two states observed in MD simulations without the force application. These results indicate that two states obtained from analyzing the experimental lifetime data may correspond to the two binding states observed in MD simulations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebc1e9d43d9a427e8e9276d9ea2c20e2e537221c1d71af93d3a6517d5bdf5a22.jpg",
+        "img_caption": [
+            "Figure5Analysis of lifetimes by two-state model.The off-rate(A）and fractions of each state (B)are plotted against the applied force. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The autoinhibition interaction of talin through its F2F3 and RS domains is critical for integrin activation,which is responsible for the formation of focal adhesion.The recently solved crystal structure of talin F2F3/RS complex provides information at atomistic detail on the mechanism of the autoinhibition,and a“pull-push”model for talin activation is proposed based on this structure [17]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Our AFM measurements provided the force-dependent lifetime of talin autoinhibition complex.At smaller forces, the lifetime does not change significantly with the applied force,and onlyafter the force increases above $1 0 ~ \\mathrm { p N }$ ，the lifetime of the complex begins to drop rapidly. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Our MD simulation indicated that talin autoinhibition complex may adopt another conformation besides the conformation solved in the crystal structure.The equilibrium between the two conformations are regulated by the mechanical forces,which result in the catch-slip transitional force dependence in the dissociate kinetics.It should be noted that although the MD simulations suggest the possible structural basis for the catch bond behavior we observed in AFM experiments,the physiological relevance of those conformations is not clear currently and needed to be justified. Combining NMR experiment and HADOCK modeling, an autoinhibition complex conformation is previously reported [18] which is different from the crystal structure [17]. Detailed comparisons show both the stable conformations observed in MD are not the same as the NMR one.We had also performed simulations starting from the NMR structure [18],a tendency of changing toward the crystal structure is observed(datanot shown). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The single molecule biophysics and MD simulation studiesprovide further evidences for the“pull-push\"’mechanism.In the“pull-push\"mechanism,talin is autoinhibited via the binding of its head F2F3 domain with the tail RS domain,its activation results from the attraction between the anionic lipids in plasma membrane and the positively charged residues in F2F3 domain (the“pull\"),and the repulsion between the anionic lipid and the negatively charged residues in the RS domain(the “push\").Our studies are consistent with the pull-push mechanism and provide new evidence on how the activation is accurately controlled. A more detailed“pull-push’hypothesis is illustrated in Figure 6. Without any stimulus,the negatively charged phosphoserine(PS）is randomly distributed in the inner leaflet of the plasma membrane,and the phosphoinositol (PI) lipid is not phosphorylated.The autoinhibited inactive talin may attach and detach with the membrane frequently,but both the“pull” and the “push” forces are not strong enough to break the autoinhibition interaction (Figure 6A).If the PI lipid is phosphorylated non-specifically，the“pull”and ‘push”force will increase，because the lifetime of talin F2F3/RS binding does not change much at moderate force $( < 1 0 \\ \\mathrm { p N } )$ ，these occasional PI phosphorylation still cannot activate talin (Figure 6B). Only after the cell is stimulated, ${ \\mathrm { P I P } } _ { 2 }$ issystematically phosphorylated by PIPKIy kinase and PS phospholipids are also enriched locally,the“pull”and “push”forces exceed the threshold,talin autoinhibition complex can be dissociated and talin is activated (Figure 6C).The activated talin then binds with integrin $\\beta$ tail via the F3 domain and the talin rod domain will bind with actin filaments to connect the mechanotransduction pathway (Figure 6D).Thus,through the fine-tuned dissociation kinetics of the autoinhibition complex,talin's functional roles in focal adhesion may be precisely regulated.Briefly,talin activation isnot a simple outcome of its membrane association.Only after the accumulation of negatively charged lipids(PS and/or phosphorylated PI) exceeds certain threshold,can attraction forces for the talin head and repulsion forces for the talin tail be strong enough to break F2F3/RS complex and activate talin.The catch bond behavior of talin F2F3/RS interaction may ensure that talin can only be activated when the activation is required. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8292c895e9082a219dd45d8136d7f24317b4794192c0d68e882bd021fad01ed8.jpg",
+        "img_caption": [
+            "Figure6epreceltdullpusesftalictiatioadolstrtedaiegdiid（oseil posporlatedctitealtoptdfullciadelldaly porylatediiis form the mechanotransduction pathway (D). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ergistically accomplish this process.The active and inactive states of talin are in dynamical equilibration regulated by many biochemical and biophysical aspects，and various factors may influence its active or inactive rate.Here we mainly discuss that force regulation of the dissociation rate, other factors which could block autoinhibition binding sites can reduce the inactive process. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,we found a negative regulation threshold for the “pull-push”mechanism of talin activation,and our results are important to understanding the precise regulation in talin's activation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in the Introduction,many other factors may participate in talin activation process.For example, recently，RIAM was found to be able to block the RS-binding site on F3 and trigger talin activation [21], which suggests an alternative mechanism other than the “pull-push” model. We would like to emphasize that the two models do not contradict with each other. Talin activation is a multi-step process in the complex cell environment, and multiple mechanism and factors may co-exist and syn",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 Critchley DR．Biochemical and structural properties of the integrin-associated cytoskeletal protein talin. Annu Rev Biophys, 2009,38:235-254   \n2 DiPaolo G,Pellegrini L,Letinic K,Cestra G, Zoncu R,Voronov S, Chang SH,Guo J,Wenk MR,De CamilliP.Recruitment and regulation of phosphatidylinositol phosphate kinase type1 gamma by the ferm domain of talin.Nature,2002,42O:85-89   \n3 Lee HS,Belln RM,Walker DL，Patel B,Powers P,Liu HJ, Garcia-Alvarez B,de Pereda JM,Liddington RC,Volkmann N, Hanein D，Critchley DR，Robson RM.Characterization ofan actin-binding site within the talin ferm domain.JMol Biol,2OO4,343 771-784   \n4Goldfinger LE,Ptak C, Jeffery ED, Shabanowitz J, Han JW,Haling JR， Sherman NE，Fox JW，Hunt DF，Ginsberg MH.An experimentally derived database of candidate ras-interacting proteins. JProteome Res,2007,6: 1806-1811 5 Goksoy E,Ma YQ,Wang XX,Kong XM,Perera D,Plow EF, Qin J. Structural basis for the autoinhibition of talin in regulating integrin activation.Mol Cell,2008,31: 124-133   \n6 Burridge K,Mangeat P.An interaction between vinculin and talin. Nature,1984,308: 744-746   \n7 Gilmore AP,Burridge K.Regulation of vinculin binding to talin and actin by phosphatidyl-inositol-4-5-bisphosphate.Nature,1996,381: 531-535   \n8 Calderwood DA,Ginsberg MH.Talin forges the links between integrins and actin.Nat Cell Biol,2003,5: 694-697 Sun N, Critchley DR,Paulin D,Li ZL,Robson RM.Identification of a repeated domain within mammalian alpha-synemin that interacts directly with talin.Exp Cell Res,2008,314:1839-1849   \n10 Zhang X, Jiang G, Cai Y,Monkley SJ,Critchley DR,Sheetz MP. Talin depletion reveals independence of initial cell spreading from integrin activation and traction. Nat Cell Biol,2O08,1O:1062-1068   \n11 WegenerKL,Partridge AW,Han J,Pickford AR,Liddington RC, Ginsberg MH, Campbell ID. Structural basis of integrin activation by talin. Cell,2007,128:171-182   \n12 Tadokoro S,Shatil SJ,Eto K,Tai V,Liddington RC,de Pereda JM, Ginsberg MH, Calderwood DA.Talin binding to integrin beta tails: a final common step in integrin activation. Science,2003,302: 103-106   \n13 Giannone G, Sheetz MP.Substrate rigidity and force define form through tyrosine phosphatase and kinase pathways.Trends Cell Biol, 2006,16:213-223   \n14 Jiang GY,Giannone G,Critchley DR,Fukumoto E,Sheetz MP. Two-piconewton slip bond between fibronectin and the cytoskeleton depends on talin.Nature,2003,424: 334-337   \n15 Giannone G,Jiang G, Sutton DH,Critchley DR, Sheetz MP.Talin1 is critical for force-dependent reinforcement of initial integrincytoskeleton bonds but not tyrosine kinase activation.J Cell Biol, 2003,163: 409-419   \n16 Calderwood DA, Zent R,Grant R,Rees DJG,Hynes RO, Ginsberg MH.The talin head domain binds to integrin beta subunit cytoplasmic tails and regulates integrin activation.JBiol Chem,1999, 274:28071-28074   \n17 Song XQ, Yang J, Hirbawi J, Ye S,Perera HD,Goksoy E,Dwivedi P, Plow EF,Zhang RG,Qin J.A novel membrane-dependent on/off switch mechanism of talin ferm domain at sites of cell adhesion. Cell Res,2012,22:1533-1545   \n18Goult BT,Bate N,Anthis NJ,Wegener KL,Gingras AR,Patel B, Barsukov IL,Campbell ID，Roberts GCK,Critchley DR．The structure of an interdomain complex that regulates talin activity.J Biol Chem,2009,284:15097-15106   \n19Lee HS,Lim CJ,Puzon-McLaughlin W, Shatil SJ,Ginsberg MH. Riam activates integrins by linking talin to ras gtpase membranetargeting sequences.JBiol Chem,2009,284: 5119-5127   \n20 Han JW,Lim CJ,Watanabe N,Soriani A,Ratnikov B,Calderwood DA,Puzon-McLaughlin W,Lafuente EM,Boussiotis VA, Shattil SJ, Ginsberg MH. Reconstructing and deconstructing agonist-induced activation of integrin alpha iib beta 3.Curr Biol,2006,16: 1796-1806   \n21 Yang J, Zhu L, Zhang H,Hirbawi J, Fukuda K,Dwivedi P,Liu J, Byzova T,Plow EF,Wu J, Qin J.Conformational activation of talin by riam triggers integrin-mediated cell adhesion. Nat Commun,2014, 5: 5880   \n22Barsukov IL,Prescot A,Bate N,Patel B,Floyd DN,Bhanji N, Bagshaw CR,Letinic K,Di Paolo G,De Camilli P,Roberts GCK, Critchley DR.Phosphatidylinositol phosphate kinase type 1 gamma and beta(1)-integrin cytoplasmic domain bind to the same region in the talin ferm domain.JBiol Chem,2003,278: 31202-31209   \n23Burridge K,Connell L.A new protein of adhesion plaques and ruffling membranes.JCell Biol,1983,97: 359-367   \n24 del Kio A,Perez-Jimenez K,Liu K,Koca-Cusachs P,Fernandez JM, Sheetz MP. Stretching single talin rod molecules activates vinculin binding. Science,2009,323:638-641   \n25 Grashoff C,Hoffman BD, Brenner MD, Zhou RB,Parsons M, Yang MT,McLean MA,Sligar SG,Chen CS,Ha T,Schwartz MA. Measuring mechanical tension across vinculin reveals regulation of focal adhesion dynamics.Nature,2010,466:263-266   \n26 Roca-Cusachs P,del Rio A,Puklin-Faucher E,Gauthier NC,Biais N, Sheetz MP. Integrin-dependent force transmission to the extracellular matrix by alpha-actinin triggers adhesion maturation.Proc Natl Acad Sci USA,2013,110:E1361-E1370   \n27 Wang XF,Ha T.Defining single molecular forces required to activate integrin and notch signaling.Science,2O13,340: 991-994   \n28 Deng QP，Huo YQ，Luo JC.Endothelial mechanosensors:the gatekeepers of vascular homeostasis and adaptation under mechanical stress. Sci China Life Sci,2014,57:755-762   \n29 Kong F,Garcia AJ，Mould AP,HumphriesMJ，Zhu C. Demonstration of catch bonds between an integrin and its ligand. J Cell Biol,2009,185:1275-1284   \n30Ebner A,Hinterdorfer P,Gruber HJ.Comparison of different aminofunctionalization strategies for attchment of single antibodies to afm cantilevers.Ultramicroscopy,2007,107: 922-927   \n31 Sarangapani KK，Marshall BT,McEver RP,Zhu C.Molecular stiffness of selectins.JBiol Chem,2011,286: 9567-9576   \n32 Kong F,Li ZH,Parks WM,Dumbauld DW,Garcia AJ,Mould AP, Humphries MJ,Zhu C.Cyclic mechanical reinforcement of integrinligand interactions.Mol Cell,2013,49:1060-1068   \n33 Zhang XH,Wojcikiewicz E,Moy VT.Force spectroscopy of the leukocytefunction-associatedantigen-l/intercellularadhesion molecule-1 interaction.Biophys J,2002,83:2270-2279   \n34 Klein DCG,Ovrebo KM,Latz E,Espevik T,Stokke BT.Direct measurement of the interaction force between immunostimulatory cpg-DNA and tlr9 fusion protein. JMol Recognit,2012,25: 74-81   \n35 Yan C,Yersin A,Afrin R,Sekiguchi H, Ikai A. Single molecular dynamic interactions between glycophorin a and lectin as probed by atomic force microscopy. Biophys Chem,2009,144: 72-77   \n36 Evans E.Probing the relation between force-lifetime-and chemistry in single molecular bonds.Ann Rev Biophys Biomol Struct,2001,30: 105-128   \n37 Chen W,Lou J, Zhu C.Forcing switch from short- to intermediateand long-lived states of the alphaa domain generates LFA-1/ICAM-1 catch bonds.JBiol Chem,2010,285: 35967-35978   \n38 Bell GI.Models for the specific adhesion of cells to cells. Science, 1978,200:618-627   \n39Phillips JC,Braun R,Wang W,Gumbart J, Tajkhorshid E, Villa E, Chipot C,Skee RD，Kalé L，Schulten K.Scalable molecular dynamics with namd.JComput Chem,2005,26: 1781-1802   \n40 MacKerell A,Jr., Bashford D, Bellott M, Dunbrack RLJ,Evanseck J, Field MJ,Fischer S,Gao J,Guo H,Ha S, Joseph D,Kuchnir L, Kuczera K,Lau FTK,Mattos C,Michnick S,Ngo T,Nguyen DT, Prodhom B,Reiher IWE,Roux B,Schlenkrich M,Smith J,Stote R, Straub J,Watanabe M,Wiorkiewicz-Kuczera J,Yin D,Karplus M. All-atom empirical potential for molecular modeling and dynamics studies of proteins.JPhys Chem B,1998,102: 3586-3616   \n41 Humphrey W,Dalke A，Schulten K.VMD:visual molecular dynamics.JMol Graphics,1996,14: 33-38   \n42 Lee CK, WangYM, Huang LS,LinSM.Atomic force microscopy determination of unbinding force,off rate and energy barrier for protein-ligand interaction. Micron,20o7,38: 446-461   \n43 Evans E,Ritchie K.Dynamic strength of molecular adhesion bonds. Biophys J,1997,72: 1541-1555   \n44 MerkelR，Nassoy P,Leung A，Ritchie K,EvansE.Energy landscapes of receptor-ligand bonds explored with dynamic force spectroscopy. Nature,1999,397:50-53   \n45 MarshallBT,Long M,Piper JW, Yago T,McEver RP, Zhu C.Direct observation of catch bonds involving cell-adhesion molecules.Nature, 2003,423: 190-193   \n46Chen W,Lou J，Evans EA，Zhu C.Observing force-regulated conformational changes and ligand dissociation from a single integrin on cells.JCell Biol,2012,199: 497-512   \n47 Yago T,LouJ,Wu T,YangJ,Miner JJ,CoburnL,Lopez JA,Cruz MA，Dong JF,McIntire LV，McEver RP，Zhu C.Platelet glycoprotein ibalpha forms catch bonds with human wt vwf but not with type 2b von willebrand disease vwf.J Clin Invest,2Oo8,118: 3195-3207   \n48 Lee CY,LouJ,Wen KK,McKane M,Eskin SG,Ono S,Chien S, Rubenstein PA,Zhu C,McIntire LV.Actin depolymerization under force is governed by lysine 113:glutamic acid 195-mediated catchslip bonds.Proc Natl Acad SciUSA,2013,11O:5022-5027   \n49 Guo B,Guilford WH.Mechanics of actomyosin bonds in different nucleotide states are tuned to muscle contraction.Proc Natl Acad Sci USA,2006,103:9844-9849   \n50 Michael Feig,John Karanicolas,III CLB.Mmtsb tool set:enhanced sampling and multiscale modeling methods for applications in structural biology.JMol Graphics Model,2004,22:377-395 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "OpenAccessddsfeisreistric in any medium,provided the original author(s) and source are credited. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FigureS1Free cysteine residuesin talinF2F3/RScomplex. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FigureS2Theadhesion frequencybetweenF2F3functionalizedAFMtipsandtheRS domaincoatedon thepetri dishes. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FigureS3lttcual/opeefoaauee),dee (purple). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure S4The decay of survival probability between talin F2F3 and RS under different forces. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table S1 The goodness of fitting with one-,two-state models ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The supporting information is available online atlife.scichina.com and link.springer.com.The supporting materials are publishedassubmited,withouttypesetingorditing.Theresponsibilityforscientificaccuracyandcontentremainsentirely with the authors. ",
+        "page_idx": 9
+    }
+]

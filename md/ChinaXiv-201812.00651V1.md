@@ -1,0 +1,270 @@
+# 生长期肉鸡不同豆粕净能值研究1
+
+班志彬 闫晓刚 魏柄栋 李立佳 张 莹 孙 蕾 梁 浩 郎朝丽 杨华明\*（吉林省农业科学院，长春130000)
+
+摘要：本试验利用禽用开放式呼吸测热装置进行能量代谢试验，通过间接测热法结合替代法测定生长期肉鸡不同豆粕净能值。采用近似拉丁方试验设计，试验共分6期，每期均选用同一孵化场的1日龄罗斯308雄性肉鸡60只，随机分为6个组，每组10只鸡。基础饲粮组饲喂玉米-豆粕型基础饲粮，试验饲粮组分别饲喂5种豆粕（3种带皮豆粕、2种去皮豆粕）按 $2 5 \%$ 比例替代基础饲粮组成的试验饲粮。每期31d，1\~20日龄鸡舍内饲养，21日龄称重后从每组中选择2只健康、接近平均体重的试验鸡，分别放入呼吸测热装置的代谢室内9d，测定气体交换和排泄物总量，其中适应 $3 \mathrm { d }$ ，呼吸测热3d，绝食测热3d，呼吸测热的同时进行消化代谢试验。结果表明：与基础饲粮组相比，试验饲粮组的表观代谢能、代谢能摄入量、沉积能和净能显著降低（ $P { < } 0 . 0 5$ ）。本试验得出，3种带皮豆粕对生长期肉鸡的表观代谢能值分别为9.39、9.70、 $9 . 7 1 ~ \mathrm { M J / k g }$ ，2种去皮豆粕分别为10.35、10.47MJ/kg。3种带皮豆粕对生长期肉鸡的净能值分别为5.71、5.84、5.50MJ/kg，2种去皮豆粕分别为6.04、 $6 . 3 1 ~ \mathrm { M J / k g }$ 。
+
+关键词：肉鸡；豆粕；净能；间接测热法
+
+中图分类号：S831
+
+目前，家禽饲料原料有效能值的评定通常采用代谢能（ME）体系，但代谢能体系忽略了家禽饲料和消化产生的热增耗，且高估了蛋白质和纤维类原料的能量利用率，低估了脂肪和淀粉含量较高类原料的能量利用率。与代谢能体系相比，净能（NE）体系考虑了不同营养物质消化代谢利用的差异，能够最接近真实地反映动物维持和生产的能量需要量[1-2]。近年来，净能研究在猪领域报道较多，但对家禽净能的研究较少，家禽领域主要饲料原料的净能值数据匮乏，而净能体系建立和完善需要大量原始数据的积累。豆粕是大豆经浸提或预压浸提制油工艺的副产物，是植物性蛋白质饲料的主要来源，占畜禽蛋白质饲料原料用量的 $60 \%$ 以上[3-4]。本试验旨在以豆粕为研究对象，采用开放式呼吸测热装置，测定不同豆粕对罗斯（Ross）308肉鸡的净能值，以期为肉鸡净能体系的建立及饲养标准的修订提供科学依据和技术支持。
+
+# 1材料与方法
+
+# 1.1试验动物与试验设计
+
+试验共选取Ross308雄性肉鸡360只，鸡雏采购自辽宁铁岭永鸿孵化场。采用近似拉丁方试验设计，试验分为6期，以每期作为1个重复，以消除期数和不同代谢室对试验结果可能造成的影响。
+
+每期均选用同一孵化场的1日龄Ross308雄性肉鸡60只，随机分为6个组，每组10只鸡。基础饲粮组饲喂玉米-豆粕型基础饲粮（I），试验饲粮组分别饲喂5种豆粕（3种带皮豆粕、2种去皮豆粕）按 $2 5 \%$ 比例替代基础饲粮组成的试验饲粮（II\~VI）。试验鸡1\~14日龄使用商业饲粮，15日龄改用试验饲粮至试验结束。试验鸡在舍内饲养至20日龄，21日龄称重后从每组中选择接近平均体重的、健康的2只试验鸡，分别放入呼吸测热装置的代谢室内9d：适应 $3 \mathrm { d }$ ，呼吸测热3d（试验鸡初重和末重的平均值作为体重数据使用），绝食测热3d（初重和末重的平均值作为绝食体重），呼吸测热的同时进行代谢试验。饲粮与代谢室分配见表1。
+
+# 表4饲粮与代谢室分配
+
+# Table 4 Diets and metabolism chamber allocation
+
+时期 代谢室Metabolicchamber
+
+Periods A B C D E F   
+1 I II IⅢI IV V VI   
+2 II IⅢI IV V VI I   
+3 IⅢI IV V VI I II   
+4 IV V VI I II IⅢI   
+5 V VI I II IⅢI IV   
+6 VI I II IⅢI IV V
+
+I为基础饲粮， $\scriptstyle { \mathrm { I I } } \sim { \mathrm { W I } }$ 为试验饲粮。   
+I was a basal diet, II to $\mathrm { W }$ were test diets.
+
+# 1.2试验饲粮
+
+试验所用饲粮为1种基础饲粮和5种试验饲粮，饲粮在 $6 5 \ \mathrm { { ^ \circ C } }$ 条件下机械挤压制粒，基础饲粮配制参照Ross308肉鸡营养需要标准，其组成及营养水平见表2。试验饲粮为待测豆粕样品以 $2 5 \%$ 比例替代基础饲粮。豆粕样品共5种，其中3种带皮豆粕分别来自中储粮油脂有限公司、中国储备粮管理集团和九三粮油工业集团有限公司；2种去皮豆粕分别来自黑龙江吉庆大豆有限公司和黑龙江省阳霖油脂集团。商业饲粮为公主岭禾丰饲料有限公司的肉小鸡料。豆粕样品常规营养成分含量见表3，试验饲粮组成及营养水平见表4。
+
+# 表2基础饲粮组成及营养水平（风干基础）
+
+Table 2 Composition and nutrient levels of the basal diet (air-dry basis)
+
+项目Items 钙Ca
+
+<html><body><table><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>26.11</td></tr><tr><td>酪蛋白Casein</td><td></td></tr><tr><td>豆油Soybean oil</td><td>4.60</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>2.11</td></tr><tr><td>石粉Limestone</td><td></td></tr><tr><td>食盐NaC1</td><td>0.30</td></tr><tr><td>DL-蛋氨酸DL-methionine</td><td>0.03</td></tr><tr><td>胆碱Choline</td><td>0.08</td></tr><tr><td>预混料 Premix1)</td><td>0.50</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td>营养水平Nutrient levels2</td><td></td></tr><tr><td>代谢能ME/(MJ/kg)</td><td>12.78</td></tr><tr><td>总能GE/(MJ/kg)</td><td>15.77</td></tr><tr><td>粗蛋白质CP</td><td>21.72</td></tr></table></body></html>
+
+有效磷AP
+
+0.46
+
+蛋氨酸Met赖氨酸Lys
+
+1.31
+
+1)预混料为每千克饲粮提供 The premix provided the following per kilogram of the diet：VA12 500 IU,VD3 3 500 IU，VE 20 IU， $\mathrm { V K } _ { 3 }$ 3 mg， $\mathrm { V B _ { l } ~ 0 . 0 1 ~ m g }$ ， $\mathrm { V B } _ { 2 } ~ 8 . 0 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } ~ 4 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \ 0 . 0 2 \ \mathrm { m g }$ ，烟酸nicotinic acid $3 4 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $1 2 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 5 ~ \mathrm { m g }$ ，生物素biotin $0 . 2 ~ \mathrm { m g }$ ，Fe80mg， Cu 8 mg, $Z n 8 0 \mathrm { m g }$ ， $ { \mathrm { M n } } 8 0  { \mathrm { m g } }$ ， $\mathrm { ~ I 0 . 7 ~ m g }$ ，Se $0 . 3 \mathrm { m g }$ 。
+
+2粗蛋白质和总能为实测值，其他为计算值。CPand GE were measured values,while the others were calculatedvalues.
+
+# 表3豆粕样品常规营养成分含量（风干基础）
+
+Table 3 Conventional nutrient contents of soybean meal samples (air-dry basis)   
+
+<html><body><table><tr><td>项目</td><td>带皮豆粕1</td><td>带皮豆粕2</td><td>带皮豆粕3</td><td>去皮豆粕4</td><td>去皮豆粕5</td></tr><tr><td>Items</td><td>Regular</td><td>Regular</td><td>Regular</td><td>Dehulled</td><td>Dehulled</td></tr><tr><td></td><td>SBM1</td><td>SBM2</td><td>SBM3</td><td>SBM4</td><td>SBM5</td></tr><tr><td>干物质DM/%</td><td>89.11</td><td>89.45</td><td>91.44</td><td>90.12</td><td>91.51</td></tr><tr><td>粗蛋白质CP/%</td><td>42.12</td><td>42.98</td><td>43.41</td><td>46.67</td><td>46.97</td></tr><tr><td>粗脂肪EE/%</td><td>1.24</td><td>1.28</td><td>1.36</td><td>0.89</td><td>0.95</td></tr><tr><td>粗纤维CF/%</td><td>7.00</td><td>7.21</td><td>7.92</td><td>6.51</td><td>6.88</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗灰分Ash/%</td><td>6.41</td><td>6.56</td><td>6.03</td><td>6.17</td><td>6.06</td></tr><tr><td>总能GE/(MJ/kg)</td><td>17.49</td><td>17.28</td><td>17.35</td><td>17.53</td><td>17.58</td></tr></table></body></html>
+
+表4试验饲粮组成及营养水平
+
+<html><body><table><tr><td colspan="5">Table 4 Composition and nutrient levels of test diets</td><td>%</td></tr><tr><td>项目</td><td colspan="5">试验饲粮Testdiets</td></tr><tr><td>Items</td><td>II</td><td>IⅢI</td><td>IV</td><td>V</td><td>VI</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>基础饲粮Basal diet</td><td>75.00</td><td>75.00</td><td>75.00</td><td>75.00</td><td>75.00</td></tr><tr><td>带皮豆粕1 Regular SBM1</td><td>25.00</td><td></td><td></td><td></td><td></td></tr><tr><td>带皮豆粕2Regular SBM2</td><td></td><td>25.00</td><td></td><td></td><td></td></tr><tr><td>带皮豆粕3Regular SBM 3</td><td></td><td></td><td>25.00</td><td></td><td></td></tr><tr><td>去皮豆粕4DehulledSBM4</td><td></td><td></td><td></td><td>25.00</td><td></td></tr><tr><td>去皮豆粕5DehulledSBM5</td><td></td><td></td><td></td><td></td><td>25.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td colspan="6">营养水平（实测值）Nutrient levels (measured values)</td></tr><tr><td>干物质DM</td><td>89.41</td><td>89.76</td><td>89.31</td><td>89.77</td><td>89.17</td></tr><tr><td>总能GE/(MJ/kg)</td><td>16.23</td><td>16.21</td><td>16.18</td><td>16.11</td><td>16.26</td></tr></table></body></html>
+
+<html><body><table><tr><td>粗蛋白质CP</td><td>26.21</td><td>26.96</td><td>27.23</td><td>28.27</td><td>28.95</td></tr></table></body></html>
+
+# 1.3饲养管理
+
+试验鸡1到20日龄在吉林省农业科学院畜牧科学分院试验鸡舍内分栏饲养，第1天温度设定在 $3 4 ~ \mathrm { { ^ { \circ } C } }$ ，然后每天降低 $1 \ \mathrm { { ^ \circ C } }$ ，直到 $2 4 ~ \mathrm { ^ { \circ } C }$ 恒定至试验结束。呼吸测热试验温度设定为（ $2 4 { \pm } 1$ ）℃， $1 { \sim } 7$ 日龄 $2 3 \mathrm { ~ h ~ }$ 光照，强度 $3 0 { \sim } 4 0 \ \mathrm { l x }$ ；7日龄后 $1 8 \mathrm { { h } }$ 光照，强度 $5 { \mathord { \sim } } 1 0 \ \mathrm { l x }$ 。生长试验和呼吸测热试验期间自由采食和饮水，绝食期间自由饮水。
+
+# 1.4呼吸测热装置
+
+本研究所用的禽用开放回流式呼吸测热装置由吉林农业科学院杨华明研究员团队研制，主要由气体分析仪、数据采集控制仪、代谢室、气路系统、漩涡风机以及冷冻机组等配套设备组成。气体分析仪集成氧气、二氧化碳传感器以及气路转换器和配套元器件。测定氧气浓度传感器为氧化锆传感器（Model 65-4-20，AdvancedMicro Instruments 公司，美国）。测定二氧化碳浓度传感器为红外线传感器（AGM10，Sensors EuropeGmbH公司，德国）。该套装置共有6个代谢室，代谢室框架由方钢和白钢板制造，四周用透明玻璃封闭，体积为 $0 . 4 3 ~ \mathrm { m } ^ { 3 }$ ，代谢室内设有自动饮水装置，粪、尿收集装置以及气体循环、制冷、加热、除湿等设备。工作状态下，数据采集控制仪按照试验流程驱动气体分析仪传感器采集气路，依次对户外空气和代谢室（A、B、C、D、E、F）按先后顺序循环采集，自动切换，循环切换时间可自行设定。数据采集控制仪实时显示试验数据和设备运行状态；远程控制软件自动计算家禽耗氧量、二氧化碳产生量、呼吸熵（RQ），记录代谢室内外的温度和湿度数据，并显示在电脑数据采集控制界面上。禽用6室并联开放回流式呼吸测热装置见图1。
+
+![](images/224afb8217c43491f8fec0e737565fd0f983d69228bf9a5cac0aa9045b043f5f.jpg)  
+图1禽用6室并联开放回流式呼吸测热装置
+
+Fig.1 Open-circuit respiratory calorimetry apparatus with 6 chambers in parallel for poultry
+
+# 1.5排泄物收集和制备
+
+呼吸测热试验中，每天定时（09:00—10:00）添加饲粮，收集撒料以及采用全收粪法收集排泄物，每个代谢室3d总的排泄物混合一起后，放置于烘箱中以 $6 5 \ \mathrm { { ^ \circ C } }$ 烘干，粉碎过40目筛备用。
+
+# 1.6检测指标及测定方法
+
+玉米、豆粕、饲粮和排泄物样品在烘干箱内 $1 0 5 \ \mathrm { ^ \circ C }$ 烘干，测定干物质含量。总能测定按照国际标准ISO9831:1998推荐的方法，使用氧弹式测热仪（C2000，IKA）测定。粗蛋白质、粗脂肪、粗灰分、粗纤维含量分别参照中华人民共和国国家标准GB/T6432-1994、GB/T 6433—2006、GB/T 6438—2007、GB/T 6434—2006推荐的方法测定。
+
+# 1.7计算公式
+
+总产热（HP）或绝食产热（FHP） $( \mathrm { k J } ) \ = 1 6 . 1 7 5 \ 3 { \times } \mathrm { O } _ { 2 }$ (L) $^ +$ 5.020 8×CO2（L） ;  
+呼吸熵 $\scriptstyle = \mathbf { C O } _ { 2 }$ (L) $/ \mathrm { O } _ { 2 }$ (L）;  
+表观代谢能（AME， $\mathbf { M J } / \mathbf { k g } ) \ =$ （食入总能一排泄总能）/采食量；  
+代谢能摄入量（MEI，kJ） $\ c =$ 表观代谢能 $\times$ 采食量；  
+沉积能（RE，kJ）： $\ c =$ 表观代谢能一总产热；
+
+饲粮的净能（ $\mathbf { \nabla } _ { \mathbf { M J / k g } } ) \mathbf { \nabla } =$ （沉积能 $+$ 绝食产热）/采食量；
+
+豆粕样品的表观代谢能（MJ/kg） $\ c =$ 基础饲粮表观代谢能一[（基础饲粮表观代谢能试验饲粮表观代谢能）/0.25]；
+
+豆粕样品的净能（ $\mathbf { M J } / \mathbf { k g } ) \ =$ 基础饲粮净能一[（基础饲粮净能一试验饲粮净能）/0.25]。
+
+# 1.8统计分析
+
+数据使用SPSS20.0软件，一般线性模型多变量分析，饲粮作为固定效应，期数和呼吸室作为随机效应。不同饲粮之间采用Tukey’s法进行差异显著性分析。 $P { < } 0 . 0 5$ 为差异显著水平。
+
+# 2结果与分析
+
+2.1不同饲粮对试验鸡生长性能和食入总能的影响
+
+由表5可见，与基础饲粮（I）组相比，试验饲粮（ $\smash { \mathrm { I I } \sim \mathrm { W } }$ ）组试验鸡的平均日增重、干物质采食量、食入总能差异不显著（ $P { > } 0 . 0 5$ ）。试验饲粮组间各项指标均差异不显著（ $P { > } 0 . 0 5$ ）。去皮豆粕饲粮（V、VI）组料重比显著高于基础饲粮组（ $P { < } 0 . 0 5$ ），与带皮豆粕饲粮（II、III、IV）组差异不显著（ $\scriptstyle P > 0 . 0 5$
+
+# 表5不同饲粮对试验鸡生长性能和食入总能的影响
+
+Table 5 Effects of different diets on growth performance and GE intake of test chickens ( $n { = } 6$ ）   
+
+<html><body><table><tr><td>项目</td><td colspan="6">饲粮Diets</td><td rowspan="2">P值 SEM</td></tr><tr><td>Items</td><td>I</td><td>II</td><td>III</td><td>IV</td><td>V</td><td>VI</td><td>P-value</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初重 IBW/kg</td><td>1.36</td><td>1.29</td><td>1.26</td><td>1.28</td><td>1.32</td><td>1.28</td><td>0.02</td><td>0.36</td></tr></table></body></html>
+
+<html><body><table><tr><td>末重FBW/kg</td><td>1.61</td><td>1.56</td><td>1.54</td><td>1.54</td><td>1.58</td><td>1.55</td><td>0.01</td><td>0.19</td></tr><tr><td>平均体重</td><td>1.43</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ABW/kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>82.03</td><td>86.41</td><td>84.12</td><td>84.22</td><td>86.01</td><td>86.87</td><td>0.34</td><td>0.07</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质采食 量DMI/(g/d)</td><td>125.1</td><td>122.12</td><td>122.61</td><td>121.35</td><td>120.91</td><td>120.45</td><td>3.11</td><td>0.08</td></tr><tr><td>料重比F/G</td><td>1.53a</td><td>1.41ab</td><td>1.46ab</td><td>1.44ab</td><td>1.40b</td><td>1.38b</td><td>0.32</td><td>0.03</td></tr><tr><td>食入总能</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>GE</td><td>8.36</td><td>8.30</td><td>8.32</td><td>8.22</td><td>8.15</td><td>8.22</td><td>0.34</td><td>0.13</td></tr><tr><td>intake/(M</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2不同饲粮对试验鸡呼吸代谢和绝食代谢产热的影响
+
+由表6可见，与基础饲粮组相比，试验饲粮组无论是生长代谢还是绝食代谢在耗氧量、二氧化碳排出量、呼吸熵、总产热均未表现出显著差异（ $P { < } 0 . 0 5$ ），试验饲粮组之间在上述各项指标中同样未表现出显著差异（ $P { > } 0 . 0 5$
+
+# 表6不同饲粮对试验鸡呼吸代谢和绝食代谢产热的影响
+
+Table 6 Effects of different diets on respiratory metabolism and fasting metabolism heat
+
+<html><body><table><tr><td colspan="7">production of test chickens</td><td rowspan="2"></td></tr><tr><td>项目</td><td></td><td></td><td>饲粮Diets</td><td></td><td></td><td> SEM P-value</td></tr><tr><td>Items</td><td></td><td>II</td><td>III</td><td>IV</td><td>V</td><td>VI</td><td></td><td></td></tr><tr><td>耗氧量 O2 consumption</td><td>38.05</td><td>38.83</td><td>39.94</td><td>39.91</td><td>38.41</td><td>40.04</td><td>0.18</td><td>0.32</td></tr><tr><td>/(L/d·BW0.70)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二氧化碳排出量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CO2 production</td><td>37.58</td><td>39.82</td><td>40.36</td><td>38.87</td><td>39.93</td><td>40.27</td><td>2.97</td><td>0.36</td></tr><tr><td>(L/d·BW0.70) 呼吸熵RQ</td><td>0.99</td><td>1.02</td><td>1.01</td><td>0.99</td><td>1.02</td><td>1.01</td><td><0.01</td><td>0.45</td></tr><tr><td>产热HP/[KJ/（kg</td><td>722.91</td><td>730.70</td><td>731.23</td><td>731.60</td><td>731.81</td><td>736.61</td><td>5.29</td><td>0.08</td></tr><tr><td>BW0.70.d)]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绝食体重Fasting BW/kg</td><td>1.19</td><td>1.18</td><td>1.17</td><td>1.20</td><td>1.19</td><td>1.19</td><td>0.01</td><td>0.13</td></tr></table></body></html>
+
+绝食耗氧量
+
+# 2.3不同饲粮对试验鸡能量代谢的影响
+
+Table 7 Effects of different diets on energy metabolism of test chickens   
+
+<html><body><table><tr><td rowspan="2">Fasting O2</td><td colspan="8"></td></tr><tr><td></td><td>22.04</td><td>21.94</td><td>22.07</td><td>22.15</td><td>21.92</td><td>0.21</td><td>0.66</td></tr><tr><td>consumption</td><td>22.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>/(L/d·BW0.70)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绝食二氧化碳排</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>出量Fasting CO2</td><td></td><td>18.21</td><td>18.56</td><td>18.00</td><td>18.21</td><td>18.44</td><td>0.16</td><td>0.73</td></tr><tr><td>production/(L/d·B</td><td>18.24</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>W0.70)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绝食呼吸熵</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fasting RQ</td><td>0.81</td><td>0.82</td><td>0.81</td><td>0.82</td><td>0.81</td><td>0.82</td><td><0.01</td><td>0.19</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绝食产热</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FHP/[kJ/(kg:BW0.7</td><td>451.30</td><td>452.00</td><td>452.00</td><td>451.5</td><td>452.00</td><td>451.40</td><td>0.89</td><td>0.12</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.d]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+由表7可见，基础饲粮组的表观代谢能、代谢能摄入量、沉积能和净能显著高于试验饲粮组（ $P { < } 0 . 0 5$ ）。基础饲粮组与试验饲粮组相比，净能/代谢能差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）
+
+# 表7不同饲粮对试验鸡能量代谢的影响
+
+$P$ 值
+
+项目
+
+SEM $P$ -value
+
+Items
+
+表观代谢能
+
+<html><body><table><tr><td>衣观代谢能</td><td>12.90a</td><td>12.10b</td><td>12.10b</td><td>12.02b</td><td>12.26b</td><td>12.29b</td><td>0.06</td><td><0.01</td></tr><tr><td>AME/(MJ/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能摄入量</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AMEi/[MJ/(kg</td><td>1.27a</td><td>1.15b</td><td>1.17b</td><td>1.15b</td><td>1.16b</td><td>1.17 b</td><td>0.02</td><td>< 0.01</td></tr><tr><td>BW0.70.d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>沉积能</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RE/[MJ/(kg</td><td>543.12a</td><td>424.22b</td><td>437.12b</td><td>417.30b</td><td>427.00b</td><td>433.8b</td><td>3.88</td><td>< 0.01</td></tr><tr><td>BW0.70.d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>净能</td><td>9.60a</td><td>8.63b</td><td>8.66b</td><td>8.57b</td><td>8.71b</td><td>8.78b</td><td>0.45</td><td><0.01</td></tr><tr><td>NE/(MJ/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>净能/代谢能</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NE/AME</td><td>0.74</td><td>0.71</td><td>0.72</td><td>0.71</td><td>0.70</td><td>0.71</td><td>< 0.01</td><td>0.21</td></tr></table></body></html>
+
+# 2.4不同豆拍能值和能量转化效率
+
+由表7可见，不同豆粕的表观代谢能、净能、净能/表观代谢能均差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）
+
+# 表8不同豆粕能值和能量转化效率
+
+项目Items
+
+Table 8 Different soybean meal energy values and energy conversion efficiency   
+
+<html><body><table><tr><td>带皮豆</td><td>带皮豆</td><td>带皮豆</td><td>去皮豆</td><td>去皮豆粕</td><td></td><td>P值</td></tr><tr><td>粕1</td><td>粕2</td><td>粕3</td><td>粕4</td><td>5</td><td>SEM</td><td>P-value</td></tr><tr><td>Regular</td><td>Regular</td><td>Regular</td><td>Dehulled</td><td>Dehulled</td><td></td><td></td></tr><tr><td>SBM 1</td><td>SBM2</td><td>SBM3</td><td>SBM 4</td><td>SBM5</td><td></td><td></td></tr></table></body></html>
+
+表观代谢能AME/  
+
+<html><body><table><tr><td>(MJ/kg)</td><td>9.71</td><td>9.70</td><td>9.39</td><td>10.35</td><td>10.46</td><td>0.12</td><td>0.06</td></tr><tr><td>净能 NE/(MJ/kg)</td><td>5.76</td><td>5.84</td><td>5.50</td><td>6.04</td><td>6.31</td><td>0.45</td><td>0.07</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>净能/代谢能</td><td>0.59</td><td>0.60</td><td>0.59</td><td>0.58</td><td>0.60</td><td>0.001</td><td>0.11</td></tr><tr><td>NE/AME</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1不同饲粮对试验鸡生长性能的影响
+
+饲粮组成和饲养管理是影响肉鸡生长性能的主要因素。本研究中试验鸡（25\~28日龄）平均日增重在 $8 2 . 0 3 { \sim } 8 6 . 8 7 ~ \mathrm { g / d }$ ，料重比在 $1 . 3 8 \sim 1 . 5 3$ ，均在Ross 308肉鸡饲养标准推荐的22\~28日龄公鸡平均日增重（ $8 3 \ \mathrm { g / d }$ ）和料重比（1.7）的左右。增重效果各组之间虽未达显著水平，但趋势为去皮豆粕饲粮组优于带皮豆粕饲粮组，带皮豆粕饲粮组优于基础饲粮组，同时料重比去皮豆粕饲粮组显著低于基础饲粮组，这可能与去皮豆粕饲粮较低的纤维和较高的粗蛋白质含量有关。Swick等[5]和Barekatain等[的研究发现，饲喂高水平的高粱干酒糟及其可溶物（DDGS）显著降低了肉鸡的饲料转化率，但在高梁DDGS饲粮中添加了外源纤维酶后，饲料转化率显著提高，证明高纤维含量饲粮会导致饲粮消化率降低，与本研究的结果相类似。
+
+# 3.2不同饲粮对试验鸡总产热和绝食产热的影响
+
+试验鸡的总产热受多种因素的影响，包括肉鸡品种、日龄、采食量、环境温度、测量方法等[7-8]。Macleod等[9-10]研究发现，环境温度在 $2 0 \ \mathrm { { ^ \circ C } }$ 时，产热随饲粮能量水平和粗蛋白质含量的升高而增长，但在 $3 2 \ \mathrm { { ^ \circ C } }$ 时没有观察到这种现象。与粗蛋白质含量为 $13 \%$ 的饲粮相比，肉鸡饲喂粗蛋白质含量为 $21 \%$ 的饲粮总产热增加了 $8 \%$ 。本研究中，与基础饲粮相比，随着试验饲粮粗蛋白质含量的增加，试验鸡总产热有增加趋势；基础饲粮组试验鸡的干物质采食量、食入总能及料重比均高于试验饲粮组，这会导致基础饲粮组试验鸡产热量增加，同时本研究中豆粕样品的替代比例较低，基础饲粮与试验饲粮粗蛋白质含量差异不大，都可能是总产热有增加趋势但不显著的原因。Noblet等[1和Liu等[7]的研究表明，增加肉鸡饲粮粗蛋白质含量，产热量有增加趋势，但未达显著水平，与本研究结果相一致。本研究中，试验鸡耗氧量在 $3 8 . 0 5 { \sim } 4 0 . 0 4 \mathrm { L } / \mathrm { ~ ( ~ d } { \cdot } \mathrm { B W } ^ { 0 . 7 0 } )$ ，二氧化碳排出量在 $3 7 . 5 8 \sim 4 0 . 2 7 \$ L/（d·BW0.70），呼吸熵在 $0 . 9 9 \sim 1 . 0 2 \$ 。Barekatain等[6研究表明，利用密闭式呼吸测热装置测定25\~28日龄Ross 308肉鸡的耗氧量在 $4 0 . 1 \sim 4 4 . 3 ~ \mathrm { L } /$ （ $\mathrm { d } { \cdot } \mathrm { B W } ^ { 0 . 7 0 }$ ），二氧化碳排出量在43.4～45.1L/（d·BW0.70），呼吸熵在 $1 . 0 0 { \sim } 1 . 0 8$ ，与本试验结果存在一定差异。Barekatain等[的研究中使用高梁DDGS饲粮并添加了外源酶制剂，其研究发现试验鸡饲喂DDGS饲粮显著提高了总产热，添加酶制剂后呼吸熵显著提高。因此，差异的产生可能与饲粮营养成分和外源酶有关。
+
+净能分为生产净能和维持净能2部分，绝食产热在净能研究中常作为试验动物的维持净能需要量[12]。本研究中试验鸡在 $2 4 ^ { \circ } \mathrm { C }$ 条件下绝食产热在 $4 5 1 . 3 \sim 4 5 2 . 0 \ : \mathrm { k J / \Omega }$ （ $\cdot \bf { k g } \delta B W ^ { 0 . 7 0 } { \cdot d } )$ ，且各组之间差异均不显著，说明不同类型饲粮未对绝食产热造成影响。Sakomura等[13]研究表明，4周龄肉鸡在环境温度为 $2 2 \ \mathrm { { ^ \circ C } }$ 时，维持净能为 $4 5 6 . 1 0 \mathrm { k J / \Omega }$ （kg BW0.75.d）。Noblet 等[14]研究报道， $0 . 5 { \sim } 3 . 0 \mathrm { k g }$ 肉鸡的绝食产热量变化范围为418.40\~447.70kJ/（ $\cdot \bf { k g } \cdot \bf { B W } ^ { 0 . 7 0 } { \cdot d } \rangle$ 。高亚俐等[15]采用比较屠宰法结合回归法测得 $8 { \sim } 1 5$ 日龄艾维茵肉鸡的维持净能为 $4 3 9 . 3 \mathrm { k J / \Omega }$ （kgBW0.75.d），上述报道均与本试验得到的结果相一致。Ning等[16]研究发现，海兰褐鸡绝食产热为 $2 9 5 . 2 \mathrm { k J } / \$ （ $\mathrm { \mathbf { k g } \ B W ^ { 0 . 7 5 } \cdot d \ }$ 。Sakomura等[13]研究表明，4周龄肉鸡在环境温度为15和$3 0 \ \mathrm { ^ { \circ } C }$ 下维持净能分别为493.7和 $3 8 4 . 9 \mathrm { k J / \Omega }$ （ $\mathrm { \cdot k g B W ^ { 0 . 7 5 } \cdot d \Omega }$ ）。由此可知，绝食产热的测定受家禽的品种、性别、体重、环境等因素影响较大。Noblet等[17]研究指出，生长动物体重的0.75次方的精度是有问题的，体重的0.70次方更符合生长肉鸡。当前的研究中体重的0.75次方一般用于成年种公鸡的体重指数[7]。因此，本试验中试验鸡代谢体重使用体重的0.70次方。
+
+# 3.3不同饲粮对能量利用效率的影响
+
+基础饲粮的代谢能值和净能值高于试验饲粮，其原因在于饲粮原料组成的差异。试验饲粮为豆粕以 $2 5 \%$ 比例替代基础饲粮组成，而豆粕总能值比玉米约高 $10 \%$ ，但是豆粕的代谢能值只有玉米的 $7 2 \% [ 1 8 ]$ ，因此造成试验饲粮代谢能值低于基础饲粮。在相近的采食量下，进而造成试验饲粮组肉鸡的代谢能摄入量和沉积能低于基础饲粮组。基础饲粮代谢能转化为净能的效率高于试验饲粮，其原因在于试验饲粮中含有较高的豆粕，豆粕中较高的粗蛋白质和粗纤维含量会降低饲粮代谢能转化为净能的效率[5]。本研究中测定的豆粕饲粮的表观代谢能为 $1 2 . 0 2 { \sim } 1 2 . 1 0 \mathrm { M J / k g } \mathrm { D M }$ （带皮豆粕饲粮）和 $1 2 . 2 6 { \sim } 1 2 . 2 9 \mathrm { M J / k g D M }$ （去皮豆粕饲粮）。Muztar等[19]研究表明，选用白来航公鸡测定豆粕饲粮表观代谢能为 $1 1 . 4 2 \sim$ 11.90MJ/kgDM，与本研究结果相近。
+
+目前，肉鸡生产中饲粮配制多采用代谢能体系，饲粮净能值的报道较少，因饲粮净能值测定受饲粮类型、营养成分含量、测定方法、试验鸡品种与日龄等多种因素的影响，不同研究中报道的试验饲粮净能值差异很大。本研究中豆粕饲粮的净能值为 $8 . 5 7 { \sim } 8 . 6 6 \mathrm { M J / k g }$ （带皮豆粕饲粮）和 $8 . 7 1 { \sim } 8 . 7 8 \mathrm { M J / k g }$ （去皮豆粕饲粮）。净能与代谢能比为 $0 . 7 0 { \sim } 0 . 7 1$ 。去皮豆粕饲粮的净能值高于带皮豆粕饲粮。Liu等[7研究中，以成年爱拔益加（AA）肉种公鸡为试验动物，使用了与本研究相同设备、研究方法及豆粕替代比率，测定带皮豆粕饲粮和去皮豆粕饲粮的净能值分别为10.53和10.61MJ/kg。与本研究的结果存在差异。可见，肉鸡品种和日龄会对饲粮净能值造成较大影响。
+
+# 3.4不同对豆粕样品代谢能和净能值
+
+本试验测定的3种带皮豆粕和2种去皮豆粕的代谢能值分别为9.71、9.70、9.39和10.35、10.47MJ/kg，净能值分别为5.72、5.84、5.50和6.04、6.31MJ/kg，代谢能/净能平均值为
+
+0.59。Ravindran等[2o]报道，美国（去皮）、阿根廷（去皮）、巴西（去皮）和印度（带皮）豆粕在肉鸡中表观代谢能值为6.56～10.61MJ/kgDM。Muztar等[19]研究表明，带皮豆粕和去皮豆粕的表观代谢能值分别为9.40和11.60MJ/kgDM。上述研究结果与本研究结果相接近。张正帆等[21]测定了 $_ { 1 \sim 2 1 }$ 日龄黄羽肉鸡21种豆粕净能值为 $5 . 6 3 \sim 7 . 8 2 \mathrm { M J / k g }$ ，净能/代谢能在 $5 5 . 2 4 \% \sim 6 2 . 7 8 \%$ 。本研究测定的豆粕净能值及净能/代谢能在此范围内。Hill等[22]的研究指出，豆皮的存在与否决定了带皮豆粕和去皮豆粕代谢能值的高低。本试验中去皮豆粕的代谢能和净能值均有增加趋势。Dilger等[23]研究报道，豆皮是造成带皮豆粕和去皮豆粕能值差异的主要原因，豆皮增加了豆粕中粗纤维和非淀粉多糖的含量，不但稀释了营养成分，还造成试验动物消化过程中能量的浪费。同时，采用替代法测定饲料原料的能值时，基础饲粮、替代比例、试验动物品种、日龄、饲粮的营养成分含量都会对测定的能值产生影响[24-25]。
+
+# 4结论
+
+本试验以玉米-豆粕型饲粮为基础饲粮，选用Ross308肉鸡为试验动物，通过替代法测得3种带皮豆粕的表观代谢能值分别为9.39、9.70、9.71MJ/kg，净能值分别为5.71、5.84、5.50 MJ/kg；2种去皮豆粕的表观代谢能值分别为10.35、10.47MJ/kg，净能值分别为6.04、6.31 MJ/kg。
+
+# 参考文献：
+
+[1] NOBLET J,MILGEN J V,DUBOIS S.Utilisation of metabolisable energy of feeds in pigs and poultry:interest of net energy systems?[C]//Proceedings of the 21st Annual Australian Poultry Science Sumposium.Sydney:Poultry Research Foundation,2010:26-35.
+
+[2]吕知谦,黄冰冰,李藏兰,等.日粮纤维组成对生长猪净能和营养物质消化率的影响[J].中国畜牧杂志,2017,53(2):65-69.
+
+[3]熊本海,易渺.猪的净能体系研究进展[J].饲料工业,2012,33(23):1-6.
+
+[4] 朱立鑫,易学武,谯仕彦.不同净能水平和赖氨酸净能比的低蛋白日粮对肥育猪生长性能和胴体品质的影响[J].中国畜牧杂志,2010,46(9):33-37.
+
+[5] SWICK R A,WU S B,ZUO J J,et al.Implications and development of a net energy system for broilers[J].Animal Production Science,2013,53(11):1231-1237.
+
+[6] BAREKATAIN M R,NOBLET J,WU S B,et al.Effect of sorghum distillers dried grains with solubles and microbial enzymes on metabolizable and net energy values of broiler diets[J].Poultry Science,2014,93(11):2793-2801.
+
+[7] LIU W,LIU G H,LIAO R B,et al.Apparent metabolizable and net energy values of corn and soybean meal for broiler breeding cocks[J].Poultry Science,2017,96(1):135-143.
+
+[8] KOH K,MACLEOD M G.Circadian variation in heat production and respiratory quotient in growing broilers maintained at different food intakes and ambient temperatures[J].British Poultry Science,1999,40(3):353-356.
+
+[9] MACLEOD M G.Fat deposition and heat production as responses to surplus dietary energy in fowls given a wide range of metabolisable energy:protein ratios[J].British Poultry Science,1991,32(5):1097-1108.
+
+[10] MACLEOD M G,LUNDY H,JEWITT T R.Heat production by the mature male turkey (Meleagris gallopavo):preliminary measurements in an automated,indirect,open-circuit multi-calorimeter system[J].British Poultry Science,1985,26(3):325-333.
+
+[11] NOBLET J.Net energy evaluation of feeds and determination of net energy requirements for pigs[J].Revista Brasileira de Zootecnia,2007,36(Suppl):277-284.
+
+[12] NOBLET J,SHI X S,DUBOIS S,et al.Effect of body weight on net energy value of feeds for growing pigs[J].Animal Science,1994,72(3):648-657.
+
+[13] SAKOMURA N K,SILVA R,COUTO H P,et al.Modeling metabolizable energy utilization in broiler breeder pullets[J].Poultry Science,2003,82(3):419-427.
+
+[14] NOBLET J,MILGEN J V,DUBOIS S,et al.Utilisation of metabolisable energy of feeds in pigs and poultry:interest of net energy systems[C]//Proceedings of the 21st Annual Australian Poultry Science Sumposium.Sydney: New South Wales,2010:26-35.   
+[15]高亚俐.回归法和饥饿法测定维持净能及0\~3周龄艾维茵肉鸡净能需要量研究[D].硕士   
+学位论文.雅安：四川农业大学,2010.
+
+[16] NING D,YUAN JM,WANG Y W,et al.The net energy values of corn,dried distillers grains with solubles and wheat bran for laying hens using indirect calorimetry method[J].AsianAustralasian Journal of Animal Sciences,2014,27(2):209-216.
+
+[17] NOBLET J,DUBOIS S,LASNIER J,et al.Fasting heat production and metabolic BW in group-housed broilers[J].Animal:An International Journal of Animal Bioscience,2015,9(7):1138-1144.
+
+[18] DALE N.Relationship between bushel weight,metabolizable energy,and protein content of corn from an adverse growing season[J].Journal of Applied Poultry Research,1994,3(1):83- 86.
+
+[19] MUZTAR A J,SLINGER S J.A comparison of the true and apparent metabolizable energy measures using corn and soybean meal samples[J].Poultry Science,1981,60(3):611-616.
+
+[20] RAVINDRAN V,ABDOLLAHI M,BOOTWALLA S.Nutrient analysis,apparent metabolisable energy and ileal amino acid digestibility of full fat soybean for broilers[J].Animal Feed Science and Technology,2014,197:233-240.
+
+[21]张正帆,王康宁,贾刚,等 $. 1 \sim 2 1$ 日龄黄羽肉鸡豆粕净能预测模型[J].动物营养学报,2011,23(2):250-257.
+
+[22] HILL F W,RENNER R.The metabolizable energy of soybean oil meals,soybean millfeeds and soybean hulls for the growing chick[J].Poultry Science,1960,39(3):579-583.
+
+[23] DILGER R N,SANDS J S,RAGLAND D,et al.Digestibility of nitrogen and amino acids in soybean meal with added soyhulls[J].Journal of Animal Science,2004,82(3):715-724.
+
+[24]LOPEZ G,LEESON S.Assessment of the nitrogen correction factor in evaluating metabolizable energy of corn and soybean meal in diets for broilers[J].Poultry Science,2008,87(2):298-306.
+
+[25]ADEOLA O,ILELEJI K E.Comparison of two diet types in the determination of metabolizable energy content of corn distillers dried grains with solubles for broiler chickens by the regression method[J].Poultry Science,2009,88(3):579-585.
+
+Study on Net Energy Values of Different Soybean Meals for Chickens during Growing Period BAN Zhibin YAN Xiaogang WEI Bingdong LI Lijia ZHANG Ying SUN Lei LIANG Hao LANG Chaoli YANG Huaming\*
+
+(JilinAcademyofAgricultural Sciences,Changchun 1361oo,China)
+
+Abstract: In this study,an open-circuit calorimeter for poultry was used for energy metabolism test, and the net energy value of diferent soybean meals for growing broilers was determined by indirect calorimetry combined with surrogate method. The experiment used an approximate Latin square test, and divided into 6 periods,sixty 1-day-old Ross 308 male chickens from the same hatchery were selected in each period,and randomly divided into 6 groups with 10 chickens in each group. Chickens in the basal diet group were fed a corn-soybean meal basal diet, and others in the test diet groups were fed the experimental diets which used 5 kinds of soybean meals (3 \*Corresponding author, professor, E-mail: yhmjl@163.com (责任编辑 武海龙)
+
+kinds of regular soybean meals,and 2 kinds of dehulled soybean meals) replaced $2 5 \%$ basal diet. Each period lasted for 31 day,chickens were fed in chicken houses during 1 to 20 days of age, two healthy birds with similar body weight in each group were selected and weighted on 21 days of age, and then put into respiration calorimetry chambers to measure the value via gaseous exchange and total excreta collction for 9 days, including 3 days dietary adaptation period, 3 days respiratory calorimetry and 3 days fasting heat production, respiratory calorimetry and digestion metabolism were tested simultaneous. The results showed that compared with the basal diet group, the apparent metabolizable energy, metabolizable energy intake, retained energy and net energy in test diet groups were significantly decreased $( P { < } 0 . 0 5 )$ . This experiment concluded that the apparent metabolizable energy values were $9 . 3 9 , 9 . 7 0 , 9 . 7 1 ~ \mathrm { M J / k g }$ for regular soybean meals, and 10.35,10.47 MJ/kg for dehulled soybean meals,respectively. The net energy values were 5.71, 5.84,5.50 MJ/kg for regular soybean meals,and 6.04, 6.31 MJ/kg for dehulled soybean meals, respectively.   
+Key words: chickens; soybean meal; net energy; indirect calorimetry

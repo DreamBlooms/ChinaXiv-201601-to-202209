@@ -1,0 +1,330 @@
+# 视觉工作记忆负载类型对注意选择的影响
+
+李寿欣」车晓玮」李彦佼」王丽²陈恺盛(山东师范大学心理学院，济南 250358）（济南大学城实验高级中学，济南 250358）（济南大学商学院，济南 250022）
+
+摘要通过操纵Flanker任务相对于视觉工作记忆任务的呈现位置，探讨在视觉工作记忆编码和保持阶段，精度负载和容量负载对注意选择的影响。行为结果发现，Flanker任务呈现位置和视觉工作记忆负载类型影响注意选择；ERP结果发现，在保持阶段，当搜索目标和干扰项不一致时，负载类型影响N2 成分。研究表明，在编码阶段，视觉工作记忆负载主要通过占用更多知觉资源降低干扰效应，支持知觉负载理论；而在保持阶段，当Flanker任务位于记忆项内部时，两类负载在工作记忆表征过程中不同的神经活动导致投入到注意选择的认知控制资源不同，可能是两类负载影响保持阶段注意选择的机制。
+
+关键词 视觉工作记忆；注意选择；精度负载；容量负载；N2
+
+# 1前言
+
+人类的知觉系统每时每刻都在接受大量的信息，这些信息既包括有效信息也包括无效信息。选择性注意帮助人们将注意力集中在与任务相关的信息上，忽视或抑制无关信息。然而，注意选择并不总是能够有效进行，无关信息的存在会干扰任务相关信息的加工。知觉负载理论认为，当前任务知觉负载的高低决定了选择性注意过程中的资源分配，如果当前任务的知觉负载增加，会使得加工无关信息的知觉资源减少，无关信息的干扰效应降低，有利于注意选择；但是，如果当前任务的认知控制负载增加，抑制无关信息加工的资源会减少，无关信息的干扰效应反而会提高，不利于完成注意选择（DeFockert,Rees,Frith,& Lavie,2001;Lavie,1995,2005;Lavie & DeFockert,2005;Lavie & Tsal,1994）。
+
+作为存储缓冲器的视觉工作记忆是工作记忆的一个重要的组成部分，可以暂时保持和操纵有关视觉信息（Luck&Vogel,2013），既有存储功能也有认知控制功能，在视知觉和认知过程中发挥着十分重要的作用（Baddeley,2012; Ma,Husain,& Bays,2014; Repovs& Baddeley,2006; Suchow,Fougnie,Brady,&Alvarez,2014）。近来，视觉工作记忆负载对注意选择的影响成为研究者关注的热点。一些研究者在视觉工作记忆任务中插入Flanker任务发现，视觉工作记忆负载增加，无关信息的干扰效应降低。Roper和Vecera（2014）在视觉工作记忆保持阶段呈现Flanker任务，研究发现，高视觉工作记忆负载下的干扰效应小于低视觉工作记忆负载。Konstantinou，Beal，King和Lavie（2014）在视觉工作记忆编码阶段和保持阶段分别呈现Flanker任务，研究发现，不管视觉工作记忆的记忆项和注意选择任务同时呈现还是相继呈现，高视觉工作记忆负载下的干扰效应均小于低视觉工作记忆负载，说明在视觉工作记忆保持阶段和编码阶段，高视觉工作记忆负载均会减少干扰效应。在完成Flanker任务时，对注意目标的视觉信息进行判断，消耗视觉资源，这可能与完成视觉工作记忆任务消耗的视觉资源重叠因此，增加视觉工作记忆负载会消耗较多视觉资源，用于加工干扰项的资源减少，干扰效应降低。然而，另一些研究者在视觉工作记忆任务中插入 Stroop任务发现，视觉工作记忆负载增加，无关信息的干扰效应也增加。Stins，Vosse，Boomsma 和de Geus（2004）要求被试先完成视觉工作记忆任务，再完成判断词义而忽略词的书写颜色的 Stroop 任务，研究发现，视觉工作记忆负载增加，Stroop任务的干扰效应增大。Gil-Gomez de Liano，Stablum 和Umilta（2016）要求被试先进行视觉工作记忆任务，再完成判断词义方向而忽略箭头指向的 Stroop任务，研究发现，相比于不进行视觉工作记忆任务，进行视觉工作记忆任务时 Stroop 任务的干扰效应更大。在完成 Stroop 任务时，需要被试将视觉加工转换为言语加工，这一转换需要消耗认知控制资源，与视觉工作记忆消耗的认知控制资源重叠。因此，增加视觉工作记忆负载，用于完成 Stroop任务的认知控制资源减少，干扰效应增加。上述研究表明，视觉工作记忆任务与注意选择任务消耗资源的重叠性，可能是视觉工作记忆负载对注意选择产生不同影响的原因。
+
+最近，有研究者（Zhang＆Luck,2015）将视觉工作记忆负载划分为视觉工作记忆容量负载和精度负载，容量负载是指记忆项的数量多少，精度负载是指记忆项和探测项之间变化的程度，探讨两类负载对注意选择的影响。结果发现，高容量负载下Flanker任务的干扰效应大于低容量负载，而高精度负载下Flanker任务的干扰效应小于低精度负载。视觉工作记忆高容量负载可能拓宽了注意范围，因而增加干扰效应；而在视觉工作记忆高精度负载条件下，需要被试对记忆项进行更细致的知觉加工以检测记忆项和探测项之间的细微变化，将注意集中于更小的注意范围，最终可能窄化了注意范围，从而降低干扰效应。这与以往采用Flanker任务进行的研究（Konstantinou et al.,2014; Roper & Vecera,2014）结果不一致，原因可能在于：注意选择任务呈现位置的不同，导致视觉工作记忆任务与注意选择任务消耗资源的重叠性不同。在 Konstantinou 等人（2014）、Roper和Vecera（2014）的研究中，Flanker任务的干扰项均位于视觉工作记忆的记忆项外周，可能处于注意焦点以外。因干扰项和视觉工作记忆任务的加工均需要消耗知觉资源，干扰项可能得不到足够的加工资源，干扰效应降低。而在 Zhang 和Luck（2015）的研究中，Flanker任务的干扰项位于记忆项的内部，容易落入注意焦点范围内，可能自动进入知觉加工（Gronau,Cohen,Gershon,& Ben-shakhar,2003）。Flanker 任务的完成需要消耗认知控制资源抑制干扰项的加工，与视觉工作记忆任务消耗的认知控制资源重叠，干扰项因得不到足够的抑制资源，干扰效应增加。
+
+不同类型视觉工作记忆负载对注意选择产生影响的机制是什么？Flanker任务的干扰项呈现位置不同时，视觉工作记忆负载是否对对注意选择产生不同影响？本研究拟通过变化注意选择任务相对于视觉工作记忆任务的呈现位置，变化视觉工作记忆负载类型，对此加以探讨，共设计4个实验。实验1探讨记忆项和Flanker任务同时呈现时，不同类型视觉工作记忆负载对注意选择的影响。当记忆项和Flanker任务同时出现，在同一视野中，容量负载和精度负载均增加知觉负载增加，消耗更多视觉资源，加工干扰项的知觉资源可能减少，干扰效应降低。因此，假设1是，无论Flanker任务处于记忆项内部还是外周，视觉工作记忆精度负载和容量负载均会降低干扰效应。实验2探讨记忆项和Flanker任务继时呈现时，不同类型负载对注意选择的影响。当Flanker任务位于记忆项外周时，干扰项处于注意焦点以外，干扰项的加工需要消耗知觉资源。当工作记忆精度负载和容量负载增加时，均能消耗更多的知觉资源，干扰项因得不到足够的加工资源，干扰效应降低。当Flanker任务位于记忆项内部时，干扰项会进入注意焦点，并自动进入知觉加工。视觉工作记忆容量负载拓宽注意范围（Ahmed&De Fockert,2012），完成Flanker任务需要消耗认知控制资源以抑制干扰项的加工，与完成高容量负载的工作记忆任务消耗的认知控制资源重叠，干扰效应增大。但视觉工作记忆精度负载可能窄化注意范围（Zhang& Luck,2015），使得完成Flanker任务时有足够的资源抑制干扰项的加工，干扰效应降低。因此，假设2是，当Flanker任务位于记忆项外周时，无论视觉工作记忆高精度负载还是容量负载条件下，干扰效应均降低；当Flanker任务位于记忆项内部时，高容量负载条件下，干扰效应增大，高精度负载条件下，干扰效应降低。为进一步验证这一假设，设计实验3，在记忆项和注意选择任务相继呈现时，采用Navon任务操纵注意变化范围（Navon,1977），探讨保持阶段是否由于不同负载下注意范围发生了变化，从而造成视觉工作记忆负载对注意选择产生不同的影响。假设3是，高精度负载条件下，注意局部时干扰效应小于注意整体；高容量负载条件下，注意局部时干扰效应大于注意整体。在前面行为研究的基础上，实验4采用事件相关电位（ERP）技术，以反映认知控制资源投入的N2成分为指
+
+（Heil,Osman, Wiegelmann,Rolke,& Hennighausen,2000; Kopp,Rist,& Matler,1996），探讨不同视觉工作记忆负载下，完成Flanker任务消耗的认知控制资源情况。假设4是，由于视觉工作记忆容量负载消耗了更多认知控制资源，完成Flanker任务时，可用的认知控制资源减少，N2波幅小于基线条件；而由于视觉工作记忆精度负载窄化注意范围，完成Flanker任务时，可用的认知控制资源较多，N2 波幅大于基线条件。
+
+2实验1记忆项和注意选择任务同时呈现时，视觉工作记忆负载类型和注意选择任务呈现位置对注意选择的影响
+
+在以往研究（Zhang＆Luck,2015）的基础上，将记忆项和Flanker任务同时呈现，变化注意选择任务相对于记忆项的呈现位置，探讨视觉工作记忆的容量负载和精度负载对注意选择的影响。
+
+# 2.1 方法
+
+# 2.1.1 被试
+
+选取某大学36 名在校大学生，其中16名男生，年龄 $2 0 . 8 0 \pm 1 . 5 0 \$ 岁。所有被试视力或矫正视力正常，无色盲或色弱情况，无精神疾病史，均未参加过类似的实验，实验后给予报酬。根据 Zhang 和Luck（2015）研究中不同视觉工作记忆负载之间干扰效应差异的效果量（ $\eta _ { p } ^ { \ 2 } { = } 0 . 2 2$ ），采用G\*Power3.1软件，设置Power为 $9 5 \%$ ， $\alpha$ 水平为0.05，计算每组被试样本量为14。在该实验中，被试被分为两组，每组18人。
+
+# 2.1.2仪器和材料
+
+采用 E-prime1.1进行编制实验程序，在计算机上进行实验，屏幕分辨率为 $1 0 2 4 \times 7 6 8$ ，刷新率为60HZ。
+
+视觉工作记忆任务的材料为彩色方块。彩色方块的颜色从知觉同质的CIELAB颜色空间（Zhang&Luck,2008）中随机选取，在该颜色空间中有一个由180个平均分布的色调所组成的颜色环（见图1）。记忆项由2个或4个 $2 ^ { \circ } { \times } 2 ^ { \circ }$ 的彩色方块组成，一个记忆项序列的任意两个方块颜色在颜色空间上的差异至少为 $4 8 ^ { \circ }$ ，呈现在距屏幕中央注视点 $\pm 6 ^ { \circ }$ 的位置。
+
+Flanker任务的材料分为两种：一种呈现在记忆项外周，目标字母（X或 $\mathrm { \Delta N }$ ， $1 . 4 ^ { \circ } { \times } 0 . 8 ^ { \circ }$ ）随机呈现在由黑点组成的半径为 $8 ^ { \circ }$ 的大圆环上，干扰字母（N或X， $1 . 8 ^ { \circ } { \times } 0 . 8 ^ { \circ }$ ）呈现在注视点左边或右边 $1 0 ^ { \circ }$ 的位置上；另一种呈现在记忆项内部，目标字母（X或 $\mathrm { \Delta N }$ ， $1 . 4 ^ { \circ } { \times } 0 . 8 ^ { \circ }$ ）随机呈现在由黑点组成的半径为$2 ^ { \circ }$ 的小圆环上，干扰字母（N或X， $1 . 8 ^ { \circ } { \times } 0 . 8 ^ { \circ }$ ）呈现在注视点左边或右边 $3 ^ { \circ }$ 的位置上。
+
+○
+
+# 2.1.3 实验设计
+
+实验采用视觉工作记忆负载类型3（基线、高精度负载、高容量负载） $\times$ 注意选择任务呈现位置2（记忆项的外周、记忆项的内部）二因素混合实验设计，其中，注意选择任务呈现位置为被试间因素，分为两种条件：Flanker任务呈现在视觉工作记忆记忆项的外周或内部。视觉工作记忆负载类型为被试内因素，分为三种条件：在基线条件下，记忆项为2个彩色方块，检测项相对于记忆项的颜色变化幅度大（颜色空间上有 $9 6 ^ { \circ }$ 的差异）；在视觉工作记忆高精度负载条件下，记忆项为2个彩色方块，检测项相对于记忆项的颜色变化幅度小（颜色空间上有 $2 4 ^ { \circ }$ 的差异）；在视觉工作记忆高容量负载条件下，记忆项为4个彩色方块，检测项相对于记忆项的颜色变化幅度大（颜色空间上有 $9 6 ^ { \circ }$ 的差异）。记录完成Flanker任务的反应时和视觉工作记忆任务的正确率。
+
+# 2.1.4实验程序
+
+被试坐在距离计算机屏幕约 $5 7 \mathrm { c m }$ 的位置。实验程序如图2所示，屏幕上先呈现注视点4 $+ ^ { \prime \prime } 1 0 0 0 \mathrm { { m s } }$ ，提醒被试实验开始，然后同时呈现视觉工作记忆记忆项和 Flanker 任务 $2 0 0 \mathrm { { m s } }$ ，Flanker任务位于记忆项的外周或内部，要求被试记住呈现的色块的颜色，并从由黑点组成的圆环上搜索目标字母。然后呈现“？” $2 0 0 0 \mathrm { { m s } }$ ，要求被试判断位于圆环上的目标字母，若为“X"则按“0"键，若为“N"则按“2"键；随后呈现注视点“ $+ ^ { , , } 1 8 5 0 \mathrm { m s }$ ，最后呈现视觉工作记忆的检测项。检测项为1个彩色方块，随机呈现在记忆项的任一位置。 $50 \%$ 的试次中检测项颜色不发生变化，另外 $50 \%$ 的检测项颜色发生变化。若检测项与记忆项颜色和位置相同，则按“A"键，反之则按“S"键。实验分为3个Block，分别是基线条件、高精度负载条件和高容量负载条件，各Block间的顺序进行拉丁方平衡，每个Block包括12个练习试次和72个正式实验试次。每完成一个Block休息5分钟，完成整个实验约需60分钟。
+
+![](images/3a05157176f5bcb35fe5d373a79f29bc812318ed5764128319a64dacd50b2556.jpg)  
+图2实验1单一试次流程图，其中，第一行为Flanker任务呈现于记忆项外周时，视觉工作记忆负载为基线条件的流程图；第二行为Flanker任务呈现于记忆项内部时，视觉工作记忆负载为高精度条件的流程图；第三行为Flanker任务呈现于记忆项内部时，视觉工作记忆负载为高容量条件的流程图。
+
+# 2.2实验结果
+
+# 2.2.1视觉工作记忆任务的正确率
+
+不同条件下完成视觉工作记忆任务的正确率见表1。对视觉工作记忆任务的正确率进行Flanker 任务呈现位置和负载类型二因素重复测量后一因素的方差分析，结果显示，视觉工作记忆负载类型的主效应显著， $F ( 2 , 6 8 ) { = } 9 3 . 1 7$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta _ { p } ^ { ~ 2 } = 0 . 7 3 > 0 . 1 4$ ，（ ${ \mathfrak { n } } _ { p } ^ { 2 }$ 是反映实验中自变量和因变量关联程度的指标， $\boldsymbol { \eta _ { p } } ^ { 2 }$ 越大，说明自变量对因变量的影响越大。根据Cohen（1992）提出的标准进行换算可知，
+
+$0 . 0 1 { < } { \boldsymbol { \eta } } _ { p } { } ^ { 2 } { < } 0 . 0 6$ ，效应量较小； $0 . 0 6 { < } { \eta _ { p } } ^ { 2 } { < } 0 . 1 4$ ，效应量为中等； ${ \mathfrak { \eta } } _ { p } ^ { ~ 2 } { > } 0 . 1 4$ ，效应量较大）。基线条件下视觉工作记忆任务正确率（ $\scriptstyle { M = 0 . 8 6 }$ ， $9 5 \% \mathrm { C I } [ 0 . 8 3 \$ ，0.89]）高于高精度条件（ $\cdot M { = } 0 . 7 1$ ， $9 5 \% C \mathrm { I } [ 0 . 6 8 , 0 . 7 4 ] .$ ）和高容量条件（ $\scriptstyle M = 0 . 6 8$ ，95%C1[0.65，0.71]）， ${ p \mathrm { s } } { < } 0 . 0 0 1$ ，高精度条件下视觉工作记忆任务正确率高于高容量条件， $\scriptstyle { p = 0 . 0 3 4 }$ 。其他效应均不显著。
+
+表1实验1不同条件下视觉工作记忆任务的正确率（ $M { \pm } 9 5 \% C I { \rangle }$ 号  
+
+<html><body><table><tr><td rowspan="2">Flanker任务呈现位置</td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td>记忆项内部</td><td>0.90±0.04</td><td>0.73±0.04</td><td>0.70±0.04</td></tr><tr><td>记忆项外周</td><td>0.81±0.05</td><td>0.69±0.05</td><td>0.67±0.04</td></tr></table></body></html>
+
+# 2.2.2Flanker任务的反应时
+
+仅对视觉工作记忆任务和Flanker任务反应正确试次的数据进行分析。不同条件下，Flanker 任务的反应时见表2，对Flanker任务反应时进行Flanker任务呈现位置、一致性和视觉工作记忆负载类型三因素重复测量后两个因素的方差分析，结果显示，一致性和视觉工作记忆负载类型交互作用显著，$F ( 2 , 6 8 ) { = } 4 . 7 7$ ， $\scriptstyle { p = 0 . 0 1 2 }$ ， $\eta _ { p } ^ { \ 2 } { = } 0 . 1 2$ ， $0 . 0 6 { < } { \eta _ { p } } ^ { 2 } { < } 0 . 1 4$ ，其他效应均不显著。
+
+表2实验1各条件下Flanker任务的反应时（ $M \pm 9 5 \% C I$ ，单位：ms）  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td rowspan="3">内部呈现</td><td>一致</td><td>729.61±96.69</td><td>730.89±87.81</td><td>763.83±96.66</td></tr><tr><td>不一致</td><td>940.78±102.18</td><td>878.39±104.25</td><td>916.00±100.61</td></tr><tr><td>干扰效应</td><td>211.17±47.85</td><td>147.50±51.23</td><td>152.17±69.25</td></tr><tr><td rowspan="3">外周呈现</td><td>一致</td><td>892.11±97.30</td><td>880.17±113.79</td><td>778.67±109.83</td></tr><tr><td>不一致</td><td>1064.61±111.81</td><td>1022.17±159.53</td><td>916.28±131.53</td></tr><tr><td>干扰效应</td><td>172.50±58.49</td><td>141.94±73.31</td><td>137.61±57.55</td></tr></table></body></html>
+
+为进一步分析工作记忆负载类型对注意选择任务的影响，主要分析Flanker任务的干扰效应，用目标字母与干扰字母不一致条件下对目标字母的反应时减去一致条件下目标字母的反应时，作为干扰效应的指标（Konstantinou et al.,2014; Zhang&Luck,2015）。不同条件下的干扰效应见表2。事后比较发现，基线条件的干扰效应（ $M = 1 9 1 . 8 3$ ， $9 5 \%$ CI[155.44，228.23]）（单位：ms，下同）高于高精度条件（ $M { = } 1 4 4 . 7 2$ ，95%CI[101.65，187.80]）和高容量条件（ $\scriptstyle { M = 1 4 4 . 8 9 }$ ，95%CI[101.52，188.26]）, $_ { p _ { I } = 0 . 0 1 5 }$ ， $p _ { 2 } { = } 0 . 0 0 7$ ；而高精度条件和高容量条件的干扰效应无差异， $\scriptstyle { p = 0 . 9 9 }$ 。
+
+# 2.3 讨论
+
+视觉工作记忆正确率的结果显示，高精度负载和高容量负载条件下的正确率均低于基线，这表明我们对视觉工作记忆负载类型的操纵是有效的，与基线条件相比，高精度负载和高容量负载均消耗更多认知资源，不利于视觉工作记忆的保持。
+
+Flanker任务的干扰效应的结果发现，视觉工作记忆的记忆项和Flanker任务同时呈现时，Flanker任务在视觉工作记忆任务的内部和外周呈现，高精度负载和高容量负载下的干扰效应都小于基线条件这与Konstantinou等人（2014）对视觉工作记忆容量负载的研究结果一致。当视觉工作记忆的记忆项和Flanker任务同时呈现，视觉工作记忆和注意选择任务主要处于编码加工阶段，不管负载的类型（精度负载/容量负载）和呈现的位置是否变化，只要增加视觉工作记忆负载，都会降低干扰效应。这说明，当记忆项和注意选择任务同时呈现时，视觉工作记忆负载对注意选择任务的作用不受注意选择任务位置变化的影响，高精度负载和高容量负载都增加了知觉负载，干扰效应减小。那么，当记忆项和注意选择任务继时呈现时，即将注意选择任务置于视觉工作记忆的保持阶段，视觉工作记忆负载对注意选择任务的作用是否受注意选择任务呈现位置的影响？实验2对此进行探讨。
+
+# 3 实验2记忆项和注意选择任务相继呈现时，视觉工作记忆负载类型和注意选择任务呈现位置对注意选择的影响
+
+在实验1的基础上，将记忆项和Flanker任务改为相继呈现，变化注意选择任务相对于记忆项的呈现位置，探讨视觉工作记忆的容量负载和精度负载对注意选择的影响。
+
+# 3.1方法
+
+# 3.1.1 被试
+
+选取某大学36名在校大学生，其中18名男生，年龄 $1 9 . 4 0 { \scriptstyle \pm 2 . 1 0 } \$ 岁。所有被试视力或矫正视力正常，无色盲或色弱情况，无精神疾病史，均未参加过类似的实验，实验后给予报酬。
+
+# 3.1.2仪器和材料
+
+仪器和材料同实验1。
+
+# 3.1.3 实验设计
+
+实验设计同实验1。
+
+# 2.1.4实验程序
+
+在实验2中，记忆项和Flanker任务相继呈现，即先呈现记忆项 $2 0 0 \mathrm { { m s } }$ ，再相继呈现注视点4 $+ ^ { , , } 1 8 5 0 \mathrm { m s }$ ，Flanker任务 $1 5 0 \mathrm { m s }$ ，其他实验程序同实验1。单一试次流程图见图3。
+
+![](images/e6e6a00081f14143864263a8c5208ae76f9bf327ec0d84ec3644beccf925d578.jpg)  
+图3实验2单一试次流程图，其中，第一行为Flanker任务呈现于记忆项外周时，视觉工作记忆负载为基线条件的流程图；第二行为Flanker任务呈现于记忆项内部时，视觉工作记忆负载为高精度条件的流程图；第三行为Flanker任务呈现于记忆项外周时，视觉工作记忆负载为高容量条件的流程图。
+
+# 3.2实验结果
+
+# 3.2.1视觉工作记忆任务的正确率
+
+不同条件下完成视觉工作记忆任务的正确率见表3。对视觉工作记忆任务的正确率进行Flanker任务呈现位置和负载类型二因素重复测量后一因素的方差分析，结果显示，视觉工作记忆负载类型的主效应显著， $F ( 2 , 6 8 ) { = } 6 3 . 1 9$ ， $p < 0 . 0 0 1$ ， $\mathfrak { \eta } _ { p } ^ { 2 } = 0 . 6 5 > 0 . 1 4$ 。基线条件下视觉工作记忆任务正确率（ $\scriptstyle { M = 0 . 8 7 }$ ， $9 5 \% C \mathrm { I } [ 0 . 8 4 \ : , 0 . 9 0 ]$ ）高于高精度条件（ $\scriptstyle { M = 0 . 7 0 }$ ， $9 5 \% C \mathrm { I } [ 0 . 6 8 , 0 . 7 3 ]$ ）和高容量条件0 $\cdot M { = } 0 . 7 0$ ， $9 5 \% C \mathrm { I } [ 0 . 6 6 , 0 . 7 4 ] )$ ， $p \mathrm { s } { < } 0 . 0 0 1$ ，高精度条件和高容量条件下的视觉工作记忆任务正确率没有显著差异， $\scriptstyle { p = 0 . 9 0 }$ 。其他效应均不显著。
+
+表3实验2不同条件下视觉工作记忆任务的正确率（ $M { \pm } 9 5 \% C I { \rangle }$ 号  
+
+<html><body><table><tr><td rowspan="2">Flanker任务呈现位置</td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td>记忆项内部</td><td>0.87±0.05</td><td>0.70±0.04</td><td>0.71±0.06</td></tr><tr><td>记忆项外周</td><td>0.88±0.03</td><td>0.70±0.04</td><td>0.69±0.05</td></tr></table></body></html>
+
+# 3.2.2Flanker任务的反应时
+
+只对视觉工作记忆任务和Flanker任务反应正确试次的数据进行分析。不同条件下，Flanker 任务的反应时见表4，对Flanker任务反应时进行Flanker任务呈现位置、一致性和视觉工作记忆负载类型三因素重复测量后两个因素的方差分析，结果显示，一致性主效应显著， $F ( 1 ,$ $3 4 ) = 4 2 . 8 2$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta _ { p } ^ { ~ 2 } = 0 . 5 6 > 0 . 1 4$ 。目标和干扰项不一致时Flanker任务的反应时（ $\scriptstyle { M = 8 9 4 . 2 5 }$ ， $9 5 \% C \mathrm { I } [ 8 2 7 . 2 3$ ，961.27]）长于目标和干扰项一致下的反应时（ $\scriptstyle M = 7 0 7 . 3 2$ ，95%CI[653.04，761.60]）。一致性和视觉工作记忆负载类型交互作用显著， $F ( 2 ,$
+
+$6 8 ) { = } 4 . 9 8$ ， $p { = } 0 . 0 1$ ， ${ \mathfrak { \eta } } _ { p } ^ { ~ 2 } { = } 0 . 1 3$ ， $0 . 0 6 { < } { \eta _ { p } } ^ { 2 } { < } 0 . 1 4$ ；Flanker任务呈现位置、一致性和视觉工作记忆负载类型三因素交互作用显著， $F ( 2 , 6 8 ) { = } 5 . 0 7$ ， $\scriptstyle { p = 0 . 0 0 9 }$ ， ${ \mathfrak { n } } _ { p } ^ { ~ 2 } { = } 0 . 1 3$ ， $0 . 0 6 { < } { \eta _ { p } } ^ { 2 } { < } 0 . 1 4$ 。其他效应均不显著。
+
+表4 实验2各条件下Flanker任务的反应时（ $M { \pm } 9 5 \% C I$ ，单位：ms）  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td rowspan="4">内部呈现</td><td>一致</td><td>642.05±64.53</td><td>631.69±101.50</td><td>628.19±64.11</td></tr><tr><td>不一致</td><td>863.29±93.22</td><td>796.88±146.23</td><td>889.09±100.91</td></tr><tr><td>干扰效应</td><td>221.23±85.20</td><td>165.19±77.78</td><td>260.90±88.62</td></tr><tr><td>一致</td><td>770.90±127.25</td><td>785.44±108.78</td><td>785.62±80.17</td></tr><tr><td rowspan="2">外周呈现</td><td>不一致</td><td>967.32±123.59</td><td>927.95±103.68</td><td>920.97±92.66</td></tr><tr><td>干扰效应</td><td>196.42±101.21</td><td>142.51±98.74</td><td>135.35±92.26</td></tr></table></body></html>
+
+为进一步分析工作记忆负载类型对注意选择任务的影响，计算 Flanker任务的干扰效应，不同条件下的干扰效应见图4。进一步分析发现，在记忆项内部呈现Flanker任务条件时，不同负载类型的干扰效应差异显著， $F ( 2 , 6 8 ) { = } 6 . 7 8$ ， $\scriptstyle { p = 0 . 0 0 2 }$ ，基线条件的干扰效应高于高精度条件， $\scriptstyle { p = 0 . 0 2 3 }$ ，高容量条件的干扰效应高于基线条件（ $\scriptstyle { \dot { p } } = 0 . 0 4 5$ ）和高精度条件（ $\scriptstyle \cdot = 0 . 0 0 2$ ）；在记忆项外周呈现Flanker任务条件下，不同负载类型的干扰效应差异显著， $F ( 2 , 6 8 ) { = } 3 . 2 7$ ， $\scriptstyle { p = 0 . 0 4 4 }$ ，基线条件的干扰效应显著高于高精度条件和高容量条件， ${ p } _ { 1 } \mathrm { { = } } 0 . 0 6$ ， $\scriptstyle p _ { 2 } = 0 . 0 4 6$ ，高精度条件和高容量条件的干扰效应无差异， $\scriptstyle { p = 0 . 8 2 }$ 。
+
+![](images/4686163a34bd5e5cde54d3b09bb26a469e8ba8aff86013ea8d5e9b1e82c121f5.jpg)  
+图4 实验2各条件下的干扰效应（竖线表示 $9 5 \%$ 置信区间， $^ { * } p { < } 0 . 0 5$ ）
+
+# 3.3 讨论
+
+视觉工作记忆正确率的结果显示，高精度负载和高容量负载的正确率均低于基线条件，这与实验1结果一致。完成Flanker任务干扰效应的结果显示，在视觉工作记忆的记忆项之后呈现Flanker任务，当Flanker任务呈现在视觉工作记忆任务的外周时，高精度负载和高容量负载条件下的干扰效应都小于基线，这与Konstantinou等人（2014）操纵容量负载的研究发现一致。然而，当Flanker任务呈现在视觉工作记忆任务的内部时，视觉工作记忆的精度负载和容量负载却对保持阶段的注意选择任务产生不同的影响，高精度负载条件下的干扰效应小于基线，而高容量负载条件下的干扰效应大于基线。为什么注意选择任务呈现在视觉工作记忆任务的内部时，视觉工作记忆负载类型会对保持阶段的注意选择产生不同的作用？这可能与保持阶段不同类型负载下注意范围的变化有关，为此，我们设计实验3，采用 Navon任务操纵注意变化范围，将注意选择任务置于视觉工作记忆项内部，考察视觉工作记忆负载类型和注意范围的变化对保持阶段注意选择的影响。
+
+# 4 实验3记忆项和注意选择任务相继呈现时，视觉工作记忆负载类型和注意范围的变化对注意选择的影响
+
+在实验2的基础上，将Navon任务呈现于记忆项内部，探讨在注意范围的变化时视觉工作记忆负载类型对注意选择的影响。
+
+# 4.1方法
+
+# 4.1.1 被试
+
+选取某大学36名在校大学生，其中15名男生，年龄 $1 9 . 7 0 { \scriptstyle \pm 1 . 7 0 }$ 岁。所有被试视力或矫正视力正常，无色盲或色弱情况，无精神疾病史，均未参加过类似的实验，实验后给予报酬。
+
+# 4.1.2仪器和材料
+
+仪器和视觉工作记忆任务材料同实验1。
+
+Navon任务的材料是由小字母S或H（ $\cdot 0 . 7 ^ { \circ } { \times } 0 . 6 ^ { \circ }$ ）组成的复合大字母S或H（ $\cdot 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ ）。大小字母的组合方式有两种：大小字母一致，如大小字母都是S，或者大小字母都是H；大小字母不一致，如大字母是S小字母是H，或者大字母是H小字母是S。Navon刺激呈现于视觉工作记忆记忆项的内部，即以注视点为中心、半径为 $6 ^ { \circ }$ 的圆内。
+
+# 4.1.3实验设计
+
+采用视觉工作记忆负载类型3（基线、高精度负载、高容量负载）×Navon任务注意指向2（整体、局部）二因素混合实验设计，其中，Navon任务注意指向为被试间因素，分为两种条件：注意整体是指对 Navon任务的大字母进行识别，该条件下对大字母反应的试次数量与对小字母反应的试次数量之比为4：1；注意局部是指对Navon任务的小字母进行识别，该条件下对小字母反应的试次数量与对大字母反应的试次数量比为4：1（Ahmed&DeFockert,2012）。视觉工作记忆负载类型同实验1。记录视觉工作记忆任务的正确率和Navon任务的反应时。
+
+# 4.1.4实验程序
+
+实验程序如图5所示，屏幕上先呈现注视点“ $+ ^ { , , } 1 0 0 0 \mathrm { m s }$ ，然后呈现记忆项 $2 0 0 \mathrm { { m s } }$ ，然后呈现注视点‘ $\cdot + \because 3 5 0 \mathrm { m s }$ ，文字提示（“大字母”或“小字母”） $1 5 0 0 \mathrm { m s }$ ，提示被试需要注意接下来任务中的字母水平。然后，呈现注视点“ $+ ^ { , , } 3 5 0 \mathrm { m s }$ 和 Navon 刺激 $1 8 5 0 \mathrm { m s }$ ，要求被试根据文字提示判断字母并做相应按键，若字母是“S"则按“S"键，若是“H"则按“H"键。最后，呈现视觉工作记忆的检测项，检测项为1个彩色方块，随机呈现在记忆项的任一位置。 $50 \%$ 的试次中检测项颜色不发生变化，另外 $50 \%$ 的检测项颜色发生变化。若检测项与记忆项颜色和位置相同，则按“A"键，反之则按“S"键。实验分为3个Block，分别是基线条件、高精度负载条件和高容量负载条件，各 Block间的顺序进行拉丁方平衡，每个Block包括12个练习试次和72个正式实验试次。每完成一个Block休息5分钟，完成整个实验约需60分钟。
+
+![](images/85895cd6541ab4827ffadf4265b38b064ed74003ffcd16e8b6c281dcc82aa841.jpg)  
+图5实验3基线条件下实验流程图（提示被试注意Navon刺激的大字母，图中大字母为H，小字母为S）
+
+# 4.2实验结果
+
+# 4.2.1视觉工作记忆任务的正确率
+
+不同条件下完成视觉工作记忆任务的正确率见表5。对视觉工作记忆任务的正确率进行Navon 任务注意指向和视觉工作记忆负载类型二因素重复测量后一因素的方差分析，结果显示，视觉工作记忆负载类型的主效应显著， $F ( 2 , 6 8 ) { = } 1 4 2 . 8 1$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { p } ^ { \ 2 } { = } 0 . 8 1 { > } 0 . 1 4$ 。基线条件下视觉工作记忆任务正确率（ $\scriptstyle { M = 0 . 8 7 }$ ， $9 5 \% \mathrm { { C I } } [ 0 . 8 4 , 0 . 8 8 ]$ ）高于高精度负载（ $\scriptstyle M = 0 . 6 9$ ， $9 5 \% \mathrm { C I } [ 0 . 6 6 \$ ，0.71]）和高容量负载（ $\scriptstyle \cdot M = 0 . 6 6$ ，95%CI[0.63，0.69]）， $p \mathrm { s } { < } 0 . 0 0 1$ ，高精度负载和高容量负载下的视觉工作记忆任务正确率差异边缘显著， $\scriptstyle { p = 0 . 0 8 }$ 。其他效应均不显著。
+
+表5实验3不同条件下视觉工作记忆任务的正确率（ $M \pm 9 5 \% C I )$   
+
+<html><body><table><tr><td rowspan="2">注意指向</td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td>局部</td><td>0.87±0.04</td><td>0.71±0.02</td><td>0.69±0.04</td></tr><tr><td>整体</td><td>0.86±0.05</td><td>0.67±0.04</td><td>0.63±0.05</td></tr></table></body></html>
+
+# 4.2.2Navon任务的反应时
+
+只对视觉工作记忆任务和 Navon任务反应正确试次的数据进行分析，不同条件下Navon任务的反应时见表6。对 Navon任务反应时进行Navon任务注意指向、一致性和视觉工作记忆负载类型三因素重复测量后两个因素的方差分析，结果显示，一致性主效应显著，F(1,（204号 $3 4 ) = 5 2 . 0 9$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \mathfrak { N } _ { p } ^ { 2 } = 0 . 6 1 > 0 . 1 4$ 。目标和干扰项不一致时Navon任务的反应时（ $\scriptstyle { M = 9 4 4 . 4 7 }$ ，95%CI[892.22，996.73]）长于目标和干扰项一致下的反应时（ $\scriptstyle M = 8 7 1 . 6 4$ ，95%CI[824.40，918.87]）。Navon任务注意指向和视觉工作记忆负载类型交互作用显著，$F ( 2 , 6 8 ) { = } 1 0 . 3 6$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta _ { p } ^ { ~ 2 } = 0 . 2 3 > 0 . 1 4$ ；Navon任务注意指向、一致性和视觉工作记忆负载类型三因素交互作用显著， $F ( 2 , 6 8 ) { = } 1 9 . 7 2$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta _ { p } ^ { ~ 2 } = 0 . 3 7 > 0 . 1 4$ 。其他效应均不显著。
+
+表6实验3各条件下Flanker任务的反应时（ $M \pm 9 5 \% C I$ ，单位：ms）  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td rowspan="3">注意整体</td><td>一致</td><td>907.99±71.96</td><td>897.81±77.21</td><td>908.92±79.46</td></tr><tr><td>不一致</td><td>974.71±86.15</td><td>919.36±84.91</td><td>1028.63±76.83</td></tr><tr><td>干扰效应</td><td>66.72±29.40</td><td>21.55±50.08</td><td>119.71±50.91</td></tr><tr><td rowspan="3">注意局部</td><td>一致</td><td>829.59±74.34</td><td>868.44±78.00</td><td>817.07±80.56</td></tr><tr><td>不一致</td><td>897.95±93.43</td><td>991.84±72.87</td><td>854.34±81.65</td></tr><tr><td>干扰效应</td><td>68.36±29.29</td><td>123.40±41.64</td><td>37.27±26.99</td></tr></table></body></html>
+
+为进一步分析工作记忆负载类型对注意选择任务的影响，主要分析 Navon任务的干扰效应，用Navon 任务中大字母和小字母不一致条件下对目标字母的反应时减去大字母和小字母一致条件下对目标字母的反应时，作为Navon任务干扰效应的指标（见图6），它反映了干扰字母对目标字母的干扰大小（Ahmed&DeFockert,2012）。进一步分析发现，在基线条件下，注意局部和注意整体条件下Navon 任务的干扰效应没有显著差异， $F ( 1 , 3 4 ) { < } 1$ ， $\scriptstyle { p = 0 . 9 3 }$ ；在高精度负载条件下，注意局部条件下Navon 任务的干扰效应小于注意整体， $F ( 1 , 3 4 ) { = } 1 0 . 8 9$ ， $\scriptstyle { p = 0 . 0 0 2 }$ ；在高容量负载条件下，注意局部条件Navon 任务的干扰效应大于注意整体， $F ( 1 , 3 4 ) { = } 9 . 1 1$ ， $\scriptstyle { p = 0 . 0 0 5 }$ 。
+
+![](images/940f470d0e4eb3db958031f8a5dc0b55885f2fcc26dc084957fe557c4740f95f.jpg)  
+图6 实验3各条件下的干扰效应（竖线表示 $9 5 \%$ 置信区间， $^ { * * } p { < } 0 . 0 1$ ）
+
+4.3讨论
+
+视觉工作记忆正确率的结果显示，高精度负载和高容量负载的正确率均低于基线条件，这与实验1、实验2结果一致。完成Navon任务的干扰效应结果表明，在视觉工作记忆高精度负载条件下，注意整体条件下Navon任务的干扰效应大于注意局部；而在视觉工作记忆高容量负载条件下，注意局部条件下的 Navon任务的干扰效应大于注意整体。这可能是由于视觉工作记忆高精度负载窄化注意范围，与注意指向局部的Navon任务加工的注意指向一致，与注意指向整体的Navon任务加工的注意指向不一致；而视觉工作记忆高容量负载拓展注意范围，与注意指向整体的Navon任务加工的注意指向一致，与注意指向局部的Navon任务加工的注意指向不一致，因此，造成不同类型的视觉工作记忆负载对Navon 注意选择任务产生不同影响。注意范围变化可能造成了干扰项进入知觉加工的程度不同，从而使得Flanker任务与视觉工作记忆任务消耗的认知控制资源的重叠性不同。当Flanker任务在记忆项内部呈现时，完成Flanker任务需要被试调用认知控制资源，抑制干扰项，完成目标任务。那么不同视觉工作记忆负载下，占用认知控制资源的不同是否是造成保持阶段不同视觉工作记忆负载对注意选择产生不同影响的原因？在实验4中采用ERP技术对此做进一步探讨。
+
+# 5 实验4记忆项和注意选择任务相继呈现时，视觉工作记忆负载类型影响注意选择的ERP研究
+
+采用 ERP技术，以反映在冲突解决条件下认知控制资源投入情况的N2成分为指标（Heil et al,2000; Kopp et al.,1996），将 Flanker任务呈现在记忆项内部，记忆项和Flanker任务相继呈现时，探讨视觉工作记忆精度负载和容量负载影响注意选择的机制。
+
+# 5.1方法
+
+# 5.1.1 被试
+
+选取某大学18名在校大学生，所有被试视力或矫正视力正常，无色盲或色弱情况，被试均为右利手，无脑部损伤和精神疾病史，均未参加过类似的实验，实验后给予报酬。实验分析中4名被试因数据不完整、眨眼过多等问题被排除，最终剩余被试14名，其中男生6名，年龄 $2 0 . 8 5 { \scriptstyle \pm 1 . 8 0 }$ 岁。根据Qi等人（2014）年研究中高容量负载和低容量负载下N2干扰效应的效果量（Cohen's $\mathrm { d } { = } 1 . 1 1$ ），采用G\*Power3.1软件，设置Power为 $9 5 \%$ ， $\alpha$ 水平为0.05，计算样本量为11。
+
+# 5.1.2仪器和材料
+
+仪器和视觉工作记忆任务材料同实验2。
+
+# 5.1.3实验设计
+
+采用视觉工作记忆负载类型3（基线条件、高精度负载、高容量负载）单因素被试内设计，记录Flanker任务的反应时、视觉工作记忆任务的正确率和完成两任务时的脑电。
+
+# 5.1.4实验程序
+
+实验在隔音、有电磁屏蔽的暗室中进行，实验程序如图7所示，先呈现注视点‘ $^ { * } + ^ { , * } 5 0 0 \mathrm { m s }$ ，提醒被试实验开始，注视点消失后空屏 $6 0 0 { \sim } 7 0 0 \mathrm { m s }$ 。随后呈现记忆项 $2 0 0 \mathrm { { m s } }$ ，要求被试记忆呈现方块的颜色，再空屏 $1 8 5 0 \mathrm { m s }$ ，呈现Flanker任务 ${ 5 0 0 } \mathrm { { m s } }$ ，然后呈现“？” $1 5 0 0 \mathrm { m s }$ ，要求被试判断位于圆环上的目标字母，若为“X"则按“0"键，若为“N"则按“2"键。最后，呈现视觉工作记忆的检测项，判断此位置上的颜色是否与记忆项中该位置的颜色相同，若相同则按“A"键，不同则按“S"键。实验分为3个Block，分别是基线条件、高精度负载条件和高容量负载条件，各Block间的顺序进行拉丁方平衡。每个Block包括12个练习试次和144个正式实验试次。每完成72个试次休息5分钟，完成整个实验约需120分钟。
+
+![](images/ae81f5ef6c8389b211d38e088b077a770388320755d49964afa7a707379fc9ef.jpg)  
+图7实验4单一试次流程图（在基线条件下，Flanker任务的目标字母为N，视觉工作记忆任务的检测项和记忆项不一致）
+
+# 5.2ERP数据采集与分析
+
+脑电数据采集使用美国NeuroScan 公司的CURRY7系统，按国际10-20系统扩展的64导电极帽记录EEG。以左眼眶额上、下部的两电极记录垂直眼电（VEOG），以两眼外侧 $1 . 5 \mathrm { c m }$ 处的两电极记录水平眼电（HEOG）。在数据记录时，所有电极以左侧乳突作为参考，以右侧乳突处电极为记录电极离线分析时以双侧乳突的平均作为参考。所有电极与头皮间的电阻均降于5KΩ以下。滤波带低通为100HZ，不设置高通值，采用DC采样，A/D采样频率为 ${ 5 0 0 } \mathrm { H z }$ ，进行连续采样。采样CURRY7脑电数据分析系统进行离线数据分析。对采集的数据进行DC校正，运用伪迹校正正相关法控制眼和眼动数据，采用低通30HZ进行滤波。以视觉工作记忆记忆项出现前 $2 0 0 \mathrm { { m s } }$ 的平均波幅作为基线进行校正，剔除振幅在 $\pm 7 5 \mu \mathrm { V }$ 以外的试次。以记忆项呈现后 $2 3 0 0 { \sim } 2 5 5 0 \mathrm { m s }$ （即Flanker任务呈现后$2 5 0 { \sim } 5 0 0 \mathrm { m s }$ ）内，以每个被试在不同负载条件下负向成分峰值出现的前后 $2 0 \mathrm { m s }$ 作为N2成分分析的时间窗口。参照以往的研究（Forster,Carter,Cohen,&Cho,2011;Qi et al.,2014），主要分析前额一额中区的电极点 $\langle \mathrm { F z } , \ \mathrm { F C z } , \ \mathrm { C z } )$ 。
+
+# 5.3实验结果
+
+# 5.3.1视觉工作记忆任务的正确率
+
+对完成视觉工作记忆任务的正确率进行重复测量方差分析，结果显示，视觉工作记忆负载类型的主效应显著， $F ( 2 , 2 6 ) { = } 9 6 . 0 0$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { p } ^ { \ 2 } { = } 0 . 8 8 > 0 . 1 4$ 。基线条件下视觉工作记忆任务正确率（ $\scriptstyle { M = 0 . 9 0 }$ ， $9 5 \% C \mathrm { I } [ 0 . 8 7 \ : , 0 . 9 4 ]$ ）高于高精度负载（ $\scriptstyle { M = 0 . 7 0 }$ ，95%CI[0.66，0.74]）和高容量负载
+
+（ $\cdot M { = } 0 . 7 3$ ，95%CI[0.68，0.78]）， $p \mathrm { s } { < } 0 . 0 0 1$ ，高精度和高容量负载条件下的视觉工作记忆任务正确率差异边缘显著， $\scriptstyle { p = 0 . 0 8 }$ 。
+
+# 5.3.2Flanker任务的反应时
+
+只对视觉工作记忆任务和Flanker任务反应正确试次的数据进行分析。不同条件下，Flanker任务的反应时见表7，对Flanker任务反应时进行Flanker任务一致性和视觉工作记忆负载类型二因素重复测量的方差分析，结果显示，一致性主效应显著， $F ( 1 , 1 3 ) { = } 5 3 . 3 7$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta _ { p } ^ { ~ 2 } = 0 . 8 0 > 0 . 1 4$ 。目标和干扰项不一致时Flanker任务的反应时（ $\scriptstyle { M = 7 1 2 . 1 4 }$ ，95%CI[594.17，830.10]）长于目标和干扰项一致下的反应时（ $M { = } 4 8 7 . 1 3$ ，95%CI[410.99，563.27]）。一致性和视觉工作记忆负载类型交互作用显著，$F ( 2 , 2 6 ) { = } 1 4 . 3 7$ ， $p { < } 0 . 0 0 1$ ， $\scriptstyle \eta _ { p } ^ { ~ 2 } = 0 . 5 3 > 0 . 1 4$ 。对Flanker任务干扰效应进行事后检验发现，高容量负载条件的干扰效应显著高于基线条件， $\scriptstyle { p = 0 . 0 2 8 }$ ；基线条件的干扰效应显著高于高精度条件， $\scriptstyle { p = 0 . 0 1 4 }$ 。
+
+表7实验4各条件下Flanker任务的反应时（ $M { \pm } 9 5 \% C I$ ，单位：ms）  
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">负载类型</td></tr><tr><td>基线</td><td>高精度负载</td><td>高容量负载</td></tr><tr><td>一致</td><td>487.71±90.44</td><td>485.22±74.02</td><td>488.46±81.16</td></tr><tr><td>不一致</td><td>712.31±132.23</td><td>671.48±114.16</td><td>752.62±116.53</td></tr><tr><td>干扰效应</td><td>224.60±66.70</td><td>186.26±72.93</td><td>264.16±67.08</td></tr></table></body></html>
+
+# 5.3.3ERP结果
+
+![](images/a2802000cddd213829fb3ffecb6fa92e1e64f5e7d2ab75c9e3a04c575d2c137c.jpg)  
+图8实验4各条件下Fz、FCz、 $\mathrm { C z }$ 点的N2成分总平均波形图
+
+选取 $\mathrm { F } z$ 、FCz、 $\mathrm { C z }$ 共3个电极点，将14名被试的脑电数据进行叠加分析。Fz、FCz、 $\mathrm { C z }$ 点的ERPs平均波形图见图8，各条件下的N2波形的平均波幅值见图9。对 $2 3 0 0 { \sim } 2 5 5 0 \mathrm { m s }$ 时间窗口的平均波幅进行视觉工作记忆负载类型 $3 \times$ Flanker任务一致性2二因素重复测量的方差分析，发现视觉工作记忆负载类型主效应显著， $F ( 2 , 2 6 ) { = } 7 . 7 1$ ， $\scriptstyle { p = 0 . 0 0 2 }$ ， $\mathfrak { N } _ { p } { } ^ { 2 } \mathrm { = } 0 . 3 7 > 0 . 1 4$ ，容量条件下诱发的N2 波幅（ $\cdot { \cal M } { = } 1 . 6 8$ ，95%CI[-2.164，5.2]）小于基线条件（ $\scriptstyle M = - 0 . 1 4 2$ ，95%CI[-3.84，3.55]）， $\scriptstyle { p = 0 . 0 7 3 }$ ，以及精度条件（ $\cdot M { = } \ – 2 . 6 8$ ，95%CI[-7.08，1.71]）， $\scriptstyle { p = 0 . 0 0 8 }$ ，基线条件N2 波幅小于精度条件， $\scriptstyle { p = 0 . 0 2 1 }$ 。两因素交互作用显著， $F ( 2 , 2 6 ) { = } 3 . 6 2$ ， $\scriptstyle { p = 0 . 0 4 1 }$ ， $\eta _ { p } ^ { \ 2 } { = } 0 . 2 2 { > } 0 . 1 4$ 。简单效应分析发现：一致条件下，三种负载类型的N2 波幅无差异， $F ( 2 , 2 6 ) { = } 2 . 5 1$ ， $\scriptstyle { p = 0 . 1 2 }$ ；不一致条件下，三种负载类型的N2波幅差异显著，$F ( 2 , 2 6 ) { = } 1 0 . 0 6$ ， $\scriptstyle { p = 0 . 0 0 1 }$ 。精度条件诱发的N2 波幅显著大于基线条件， $\scriptstyle { p = 0 . 0 3 6 }$ ；容量条件下诱发的N2 波幅显著小于基线条件， $\scriptstyle { p = 0 . 0 3 9 }$ 。
+
+![](images/91132c46c16c9ffe428780250217912e9e76511590f1182a0688e824ad11d3dd.jpg)  
+图9 实验4各条件下N2波幅值（竖线表示 $9 5 \%$ 置信区间， $^ { * } p { < } 0 . 0 5$ ）
+
+# 5.4 讨论
+
+行为结果表明，视觉工作记忆任务正确率在基线条件下高于高精度负载和高容量负载，与实验1、2、3的结果一致；Flanker任务干扰效应在高容量负载条件下显著高于基线，而高精度负载条件下显著小于基线，与实验2结果一致。脑电结果表明，在不一致条件下，高精度负载条件诱发的N2波幅显著大于基线，高容量负载条件下诱发的N2波幅显著小于基线。已有研究表明，N2波幅反映投入冲突觉察和解决的注意资源多少（Kanske&Kotz,2010），这说明，相比于基线条件，视觉工作记忆高精度负载条件下投入冲突觉察和解决的注意资源较多，而高容量负载条件下投入冲突觉察和解决的注意资源较少。
+
+# 6总讨论
+
+本研究主要探讨视觉工作记忆负载类型对注意选择的影响，共设计4个实验：实验1探讨记忆项和注意选择任务同时呈现时，视觉工作记忆负载类型和注意选择任务的呈现位置对注意选择的影响；实验2探讨在记忆项和注意选择任务相继呈现时，视觉工作记忆负载类型和注意选择任务的呈现位置对注意选择的影响；实验3采用Navon任务操纵注意范围的变化，探讨视觉工作记忆负载类型对注意选择的影响；实验4采用ERP技术探讨视觉工作记忆负载类型对注意选择影响的机制。结果显示，在视觉工作记忆的编码阶段，不管Flanker任务位于视觉工作记忆任务的内部还是外周，高精度负载和高容量负载条件下的干扰效应均小于基线条件；在视觉工作记忆的保持阶段，当Flanker任务位于视觉工作记忆记忆项外周时，高精度负载和高容量负载条件下的干扰效应均小于基线条件；而当Flanker任务在视觉工作记忆任务的内部呈现时，高精度负载条件下的干扰效应小于基线条件，而高容量负载条件下的干扰效应大于基线条件。当Navon任务位于视觉工作记忆任务的内部时，在高精度条件下，注意局部时的干扰效应小于注意整体；在高容量条件下，注意局部时的干扰效应大于注意整体。当Flanker任务在视觉工作记忆记忆项内部呈现时，相比于基线条件，高精度负载条件下诱发的N2波幅更大，高容量负载条件下诱发的N2波幅更小。
+
+# 6.1视觉工作记忆任务和注意选择任务同时呈现时，视觉工作记忆的精度负载和容量负载如何影响注意选择任务
+
+当视觉工作记忆任务和Flanker任务同时呈现时，为什么高精度负载和高容量负载条件下被试完成Flanker任务时的干扰效应均小于基线条件？视觉工作记忆任务和Flanker任务同时呈现时，两任务的加工主要处在编码阶段，视觉工作记忆任务的完成伴随着视知觉皮层的激活（Ester,Serences,&Awh,2009; Harison & Tong,2009; Munneke, Heslenfeld,& Theeuwes,2010; Pasternak & Greenlee, 2005;Serences,Ester,Vogel,&Awh,2009）；视觉工作记忆的容量负载和精度负载均能增加知觉负载（Lavie,Hirst,De Fockert,&Viding,2004），高精度负载通过增加记忆项目的分辨难度来增加知觉负载，而高容量负载则是通过增加记忆项目数量来增加知觉负载。知觉负载理论认为（Lavie,1995;Lavie& Tsal,1994），知觉资源是有限的，在未超过知觉容量的情况下，任务相关刺激和任务无关刺激都会得到加工。但是，当任务相关刺激负载足够高时，任务相关刺激的加工会消耗有限的知觉资源，导致剩余的用于加工干扰项的知觉资源不足，致使干扰效应降低。在实验1中，当视觉工作记忆的记忆项与注意选择的Flanker任务同时呈现时，被试在对记忆项进行编码加工的同时，需要忽略Flanker任务中的干扰字母并对目标字母进行知觉加工。这时，视觉工作记忆任务和Flanker任务的加工共享知觉加工资源，当视觉工作记忆负载（精度负载/容量负载）增大时，视觉工作记忆任务需要消耗较多的知觉加工资源，完成Flanker任务可用的资源相应减少，剩余的用于加工干扰项的知觉资源亦会减少，导致干扰效应降低，这一结果与Konstantinou等人（2014）在视觉工作记忆编码阶段呈现Flanker任务的研究结果一致，支持知觉负载理论。实验1结果还显示，当视觉工作记忆任务记忆项和Flanker任务同时呈现时，与基线条件相比，Flanker任务呈现位置的变化并未改变视觉工作记忆的精度负载和容量负载对注意选择任务的影响。然而，当视觉工作记忆任务和Flanker任务相继呈现时，为什么Flanker任务呈现位置的变化改变了视觉工作记忆的精度负载和容量负载对注意选择的影响？
+
+# 6.2当视觉工作记忆任务和注意选择任务相继呈现时，注意范围和视觉工作记忆的负载类型对注意选择的影响
+
+当视觉工作记忆的记忆项与注意选择任务相继呈现时，作为注意选择任务的Flanker任务处于视觉工作记忆的保持阶段。当呈现视觉工作记忆的记忆项时，被试会在特定的注视空间内进行注意，并对落入这一注视空间内的记忆项进行加工和表征；视觉工作记忆的记忆项消失后进入视觉工作记忆的保持阶段，由于Flanker任务位于记忆项的外周，被试需要将注意转换到记忆项范围以外的空间上，并对落入该注视空间的Flanker任务进行表征。完成上述两阶段任务需要被试相继选择不同的注视空间进行注意，需要基于空间的注意的参与，并需要注意在注视空间上进行转换，这会消耗注意资源（Baddeley,1996;Norman& Shallice,1986）。所以，不管是视觉工作记忆容量负载还是精度负载增加时，与基线条件相比，记忆项负载的增加、注意在空间上的转换以及对注意选择目标的加工均会消耗注意资源，没有足够资源用于加工干扰项，从而干扰效应降低。这一结果与Roper 和Vecera（2014）、Konstantinou等人（2014）在视觉工作记忆保持阶段记忆项外周呈现干扰项的研究结果一致，结果支持知觉负载理论。然而，当Flanker任务在视觉工作记忆的保持阶段呈现于记忆项内部时，干扰项容易落入注意焦点范围内，自动进入知觉加工。从视觉工作记忆的编码阶段到保持阶段，精度负载和容量负载可能对分布于注视空间的注意资源进行再分配，影响干扰项的加工，从而对干扰效应产生不同的影响。有研究表明，注意的空间分布影响注意的选择，相比于焦点注意（focusedattention），当注意选择对分散注意（diffuse attention）需求较高时，个体在完成注意选择任务的过程中更容易受到干扰项的影响（Belopolsky & Theeuwes,2010; Belopolsky,Zwaan,Theeuwes,& Kramer,2007）。与基线相比，高精度负载条件下，需要被试对记忆项的细节进行精细加工，从而将注意聚焦于更精细的空间，对注意范围起到了窄化的作用。窄化的注意资源使保持阶段的注意更为聚焦，有利于Flanker任务冲突的解决，干扰效应降低；而高容量负载条件下，需要被试记忆更多的项目，拓宽了注意范围，可能使注意分散于较粗糙、广阔的空间，拓宽的注意资源较为分散，难以有效的解决处于保持阶段记忆项内部的Flanker任务冲突，因此，干扰效应增大。我们的研究发现较好地解释了Konstantinou等人（2014）与 Zhang和Luck（2015）研究结果的不一致。Konstantinou等人（2014）的研究中，Flanker任务的干扰项位于记忆项外周，因得不到足够的知觉资源，干扰效应降低；而在Zhang 和Luck（2015）的研究中，Flanker任务的干扰项位于记忆项内部，当视觉工作记忆容量负载增加时，因消耗较多的认知控制资源，对干扰项的抑制降低，干扰效应增加。
+
+实验3采用Navon任务操纵注意范围的变化（Navon,1977），在视觉工作记忆项呈现后，再于记忆项的内部呈现Navon任务，进一步探讨两类负载对注意选择任务产生不同影响的原因。结果显示，在高精度负载条件下，注意局部时的干扰效应小于注意整体；在高容量负载条件下，注意局部时的干扰效应大于注意整体。在视觉工作记忆高精度负载条件下会窄化注意范围，注意指向 Navon任务整体时会扩大注意范围，两者的注意指向产生冲突，不利于完成注意选择任务，干扰效应增大；而注意指向 Navon任务局部时会缩小注意范围，两者的注意指向一致，有利于完成注意选择任务，干扰效应减小。在视觉工作记忆高容量负载条件下会扩大注意范围，注意指向 Navon任务整体时也会扩大注意范围，两者的注意指向一致，有利于完成注意选择任务；而注意指向Navon任务局部时会缩小注意范围，两者的注意指向产生冲突，不利于完成注意选择任务。这表明，当注意选择任务处于视觉工作记忆保持阶段的内部时，视觉工作记忆和注意选择任务在注意空间上变化的一致性可能是造成视觉工作记忆的精度负载和容量负载对注意选择产生不同作用的原因。
+
+那么，注意范围的变化与不同视觉工作记忆负载影响注意选择任务的机制是什么？在实验4中，我们采用ERP技术，对此加以探讨。结果发现，在目标字母和干扰字母不一致的条件下，相比于基线条件，在高精度负载条件下，完成Flanker任务诱发的N2波幅更大，干扰效应减小；在高容量负载条件下，完成Flanker任务诱发的N2波幅更小，干扰效应增大。N2 成分与认知加工中对冲突的监控和注意控制有关，反映的是解决冲突时投入的认知控制资源多少，N2波幅越大，说明投入冲突解决的控制资源越多（Heil et al.,2000; Kanske & Kotz,2010; Kopp et al.,1996; van Veen& Carter,2002）。高精度工作记忆负载会导致注意范围窄化，同时，完成在记忆项内部呈现的Flanker任务也需要缩小注意范围，两者的注意指向一致，有充足的资源用于对干扰项进行抑制，因此，N2波幅大于基线；而高高容量工作记忆负载则使得注意范围拓宽，处于记忆项内部呈现的Flanker任务则需要缩小注意范围，两者的注意指向不一致，使得用于抑制干扰项的认知控制资源不足，因此，N2波幅小于基线。
+
+另有研究发现，不同类型视觉工作记忆负载加工的神经机制不同，视觉工作记忆容量信息的存储与下顶内沟的激活有关，而视觉工作记忆精度信息的存储与上顶内沟和外侧枕区的激活有关（Bettencourt & Xu,2016; Weber,Peters,Hahn,Bledowski,&Fiebach,2016; Xu& Chun,2006）。与视觉工作记忆容量信息不同，在保持阶段，视觉工作记忆精度信息的存储仍占用视觉通道，激活初级视觉皮层（Ester,Anderson,Serences,&Awh,2013），并且，精度信息的存储与顶枕区的功能联系有关（Weber,Hahn,Hilger,&Fiebach,2017），这些脑区的激活和神经联系反映了工作记忆过程的知觉或注意需求（Mitchell&Cusack,2008），说明视觉工作记忆精度信息的加工更多的占用知觉资源并延续到保持阶段。在高精度负载条件下，由于在视觉工作记忆保持阶段，精度信息的存储仍占用视觉通道，初级视觉皮层仍处于激活状态（Ester etal.,2013），当Flanker任务出现时有利于个体继续投入更多注意资源用于冲突的觉察和解决，促进了冲突的解决；而在高容量负载条件下，由于在视觉工作记忆保持阶段，容量信息的存储已完成，初级视觉皮层不再处于激活状态，当Flanker任务出现时个体需要重新激活初级视觉皮层，并投入资源用于冲突的觉察和解决，导致投入的认知控制资源减少，不利于冲突的解决。这表明，视觉工作记忆容量负载和精度负载在保持阶段不同的神经活动过程，导致对注意选择任务投入的认知控制资源不同，造成保持阶段的注意选择任务的完成效率不同。
+
+# 7结论
+
+在视觉工作记忆的编码阶段呈现Flanker任务，视觉工作记忆容量负载和精度负载均降低 Flanker任务的干扰效应；在视觉工作记忆的保持阶段呈现Flanker任务，若Flanker任务呈现在工作记忆项的外周时，两类负载均降低Flanker任务的干扰效应，支持知觉负载理论；但是，若Flanker任务呈现在工作记忆项的内部时，两类负载对Flanker任务产生相反的效应，即容量负载增加干扰效应，精度负载降低干扰效应，潜在的机制是，在工作记忆表征过程中，两类负载不同的神经活动，导致保持阶段投入到注意选择任务的认知控制资源不同所致。
+
+# 参考文献
+
+Ahmed,L.,& De Fockert,J.W. (2012).Working memory load can both improve and impair selective attention: evidence from the Navon paradigm. Attention,Perception,& Psychophysics,74(7),1397-1405.   
+Baddeley,A. (1996). Exploring the central executive. The Quarterly Journal of Experimental Psychology Section A, 49(1), 5-28.   
+Badeley,A. (20l2). Working memory: theories,models,and controversies.Annual Review of Psychology,63,1- 29.   
+Belopolsky,A.V.,& Theeuwes,J. (2010). No capture outside the atentional window.Vision Research,50(23), 2543-2550.   
+Belopolsky,A.V., Zwaan,L.,Theeuwes,J.,& Kramer,A.F. (2o07).The size of anatentional window modulates attentional capture by color singletons. Psychonomic Bulletin & Review,14(5), 934-938.   
+Betencourt, K. C.，& Xu,Y.(2016). Decoding the content of visual short-term memory under distraction in occipital and parietal areas. Nature Neuroscience,19(1),150-157.   
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112(1),155-159.   
+De Fockert,J.W.,Rees,G.,Frith,C.D.,& Lavie,N.(2001).The role of working memory in visual selective attention. Science,291(5509), 1803-1806.   
+Ester,E.F.,Anderson,D.E.,Serences,J.T.,& Awh,E.(2013).A neural measure of precision in visual working memory. Journal of Cognitive Neuroscience, 25(5), 754-761.   
+Ester,E.F.,Serences,J.T.,& Awh,E. (2009).Spatially global representations in human primary visual cortex during working memory maintenance. Journal of Neuroscience, 29(48), 15258-15265.   
+Forster,S.E.,Carter,C.S., Cohen,J.D.,& Cho,R. Y.(2011).Parametric manipulation of the conflict signal and control-state adaptation. Journal of Cognitive Neuroscience,23(4), 923-935.   
+Gil-G6mez de Liano,B., Stablum,F.,& Umilta, C. (2016). Can concurrnt memory load reduce distraction? A replication study and beyond.Journal of Experimental Psychology: General, 145(1), el-e12.   
+Gronau,N.，Cohen，A.，& Ben-Shakhar，G. (2003).Dissociations of personally significant and task-relevant distractors inside and outside the focus of attention: a combined behavioral and psychophysiological study. Journal of Experimental Psychology: General, 132(4), 512-529.   
+Harrison,S.A.,& Tong,F.(2Oo9). Decoding reveals the contentsof visual working memory in early visual areas. Nature, 458, 632-635.   
+Heil,M.,Osman,A.，Wiegelmann,J.,Rolke,B.,& Hennighausen,E. (20o). N2O in the Eriksen-task: Inhibitory executive processes?. Journal of Psychophysiology,14(4), 218-225.   
+Kanske,P., & Kotz, S.A. (2010). Modulation of early conflict processing: N200 responses to emotional words in a flanker task. Neuropsychologia, 48(12), 3661-3664.   
+Konstantinou,N.,Beal,E.King,J.R.，& Lavie,N. (2014).Working memory loadand distraction: dissociable effects of visual maintenanceand cognitivecontrol.Attention,Perception,& Psychophysics,76(7),1985-1997.   
+Kopp,B.,Rist,F.,& Mattler,U.W.E.(1996). N20 in the flanker task as a neurobehavioral tool for investigating executive control. Psychophysiology,33(3), 282-294.   
+Lavie，N. (1995). Perceptual load as a necessary condition for selective attention. Journal of Experimental Psychology, 21(3), 451-468.   
+Lavie,N. (2oo5). Distracted and confused?: Selective attention under load.Trends in Cognitive Sciences,9(2),75- 82.   
+Lavie,N.,& De Fockert,J. W.(20o5).The role of working memory inattentional capture. Psychonomic Bulletin& Review, 12(4), 669-674.   
+Lavie,N.,Hirst,A.,DeFockert,J. W.,&Viding,E.(2oo4).Load theoryofselective atentionand cognitivecontrol. Journal of Experimental Psychology: General,133(3),339-354.   
+Lavie,N.,& Tsal, Y. (1994).Perceptual load as a major determinant of the locus of selection in visual attention. Perception & Psychophysics,56(2), 183-197.   
+Luck,S. J.,& Vogel, E. K. (2013). Visual working memory capacity: from psychophysics and neurobiology to individual differences. Trends in Cognitive Sciences,17(8),391-400.   
+Ma, W. J., Husain, M., & Bays, P.M. (2014). Changing concepts of working memory. Nature Neuroscience,17(3), 347-356.   
+Mitchell,D.J.,& Cusack,R. (2O08).Flexible,capacity-limitedactivityofposterior parietal cortex inperceptual as well as visual short-term memory tasks. Cerebral Cortex, 18(8), 1788-1798.   
+Munneke,J.,Heslenfeld,D.J.,&Theeuwes,J.(2O10).Spatial working memory effcts inearly visual cortex.Brain and Cognition, 72(3),368-377.   
+Navon,D.(1977). Forest before trees: The precedence of global features in visual perception. Cognitive Psychology, 9(3), 353-383.   
+Norman,D.A.,& Shalice,T. (1986). Attention to Action.In Davidson,R.J., Schwartz, G.E., Shapiro,D.(Eds), Consciousness and Self-Regulation (pp. 1-18). Boston, MA: Springer.   
+Pasternak， T.，& Greenlee， M. W. (2005). Working memory in primate sensory systems. Nature Reviews Neuroscience,6(2), 97-107.   
+Qi, S.,Zeng, Q.,Luo,Y., Duan, H., Ding,C., Hu,W.,& Li, H. (2014). Impact of working memory load on cognitive control in trait anxiety: An ERP study. PloS ONE, 9(11), 1-10.   
+Repovs,G.,& Baddeley,A. (2006).The multi-component model of working memory: Explorations in experimental cognitive psychology. Neuroscience, 139(1),5-21.   
+Roper,Z.J.,& Vecera,S.P.(2014). Visual short-term memory load strengthens selective atention. Psychonomic Bulletin & Review, 21(2), 549-556.   
+Serences,J.T.,Ester,E.F.,Vogel,E.K.,& Awh,E. (2009). Stimulus-specific delayactivity inhuman primary visual cortex. Psychological Science, 20(2),207-214.   
+Stins,J.F., Vosse,S.,Boomsma,D.I.,& de Geus,E.J. (2004). On the role of working memory in response interference.Perceptual and Motor Skills, 99(3), 947-958.   
+Suchow,J.W.,Fougnie,D.,Brady,T.F.,& Alvarez,G.A. (2014).Terms of the debate on the format and structure of visual memory. Attention, Perception,& Psychophysics, 76(7),2071-2079.   
+van Veen,V.，& Carter,C. S.(2002). The anterior cingulate as a conflict monitor: fMRI and ERP studies. Physiology & Behavior, 77(4-5), 477-482.   
+Weber,E.M.G.,Hahn,T.,Hilger,K.,&Fiebach,C.J. (2017).Distributed paterns ofoccipito-parietal functional connectivity predict the precision of visual working memory. Neuroimage, 146, 404-418.   
+Weber,E.M.G.,Peters,B.,Hahn,T.,Bledowski, C.,&Fiebach, C.J. (2016).Superior intraparietal sulcus controls the variability of visual working memory precision. Journal of Neuroscience, 36(20), 5623-5635.   
+Xu,Y.,& Chun, M. M. (2o06). Dissociable neural mechanisms supporting visual short-term memory for objects. Nature,440(7080), 91-95.   
+Zhang,W.,& Luck, S.J. (2008). Discrete fixed-resolution representations in visual working memory. Nature, 453(7192), 233-235.   
+Zhang,W.,& Luck,S.J. (2015). Opposite efects of capacity load and resolution load on distractor processing. Journal of Experimental Psychology: Human Perception and Performance, 41(1),22-27.
+
+# The effects of capacity load and resolution load on visual selective attention during visual working memory
+
+# LI Shouxin'; CHE Xiaowei'; LI Yanjiaol; WANG $\mathrm { L i } ^ { 2 }$ ; CHENKaisheng³
+
+('School ofPsychology, Shandong Normal University,Jinan 25o358,China) ( Jinan University Town Experimental Senior High School,Jinan 250358,China) (Business School, University of Jinan,Jinan 25oo22,China)
+
+# Abstract
+
+Selective atention plays an important role in processing relevant information and ignoring irrelevant distractors.The relationship between visual working memory (VWM) and visual selective atention has been extensively studied. VWM is a complex system consisting of not only visual maintenance functions,but also executive control functions.High load on visual maintenance functions drains the capacity for perception and prevents distractors from being perceived, while high load on executive control functions drains the capacity available for active control and results in increased processing of irrelevant distractors.There are two types of load in VWM: capacity load referring to the number of items to be stored,and resolution load emphasizing the precision of the stored representations. It has been found that these two types of load exert opposite effects on selective attention. However the mechanism underlying the effcts of different types of VWM load on selective attention is stillunclear. In the present study,four experiments were designed to investigate how different types of VWM load affect selective attention.
+
+Thirty-six participants were enrolled in Experiment 1,2 and 3,respectively,and 14 participants were enroled in Experiment 4.Participants were asked to perform both a VWM task and a visual search task. In he VWM task, participants had to retain colors in VWM to perform a change detection task. There were three levels of VWMload: baseline load,high-capacity load and high-resolution load.In the baseline load condition, participants were required to retain two colors and the change between the memory colors and the probe colors was large.In the high-capacity load condition,participants had to retain four colors and the change between the memory colors and the probe colors was also large.In the high-resolution load condition,participants had to retain two colors and the change between the memory colors and the probe colors was small.In Experiment 1 and 2,the visual search task was a Flanker task that was presented either in the periphery or in the center of the memory array. The Flanker task was presented with the memory array simultaneously in Experiment l and sequentially in Experiment 2. In Experiment 3,the visual search task was a Navon task. It was presented after the memory array and only in the center ofthe memory arry. In Experiment 4,a Flanker task was presented after the memory array and only in the center of the memory array. EEG data during the memory interval were recorded by a 64-channel amplifier using a standard 1O-2O system.
+
+The results showed that high-capacity load and high-resolution load reduced Flanker interference, compared with baseline load, when the VWM task and the Flanker task were presented simultaneously, regardless of whether the Flanker task was presented in the periphery or in the center of the memory array. High-capacity load and high-resolution load also reduced Flanker interference,compared with baseline load, when the VWM task and the Flanker task were presented sequentialy and the Flanker task was presented in the periphery of the memory arry. Compared with baseline load,high-capacity load increased Flanker interference and high-resolution load reduced Flanker interference when the VWM task and the Flanker task were presented sequentially and the Flanker task was presented in the center of the memory arry. Under the high-capacity load condition,the Navon interference for atending to global level was larger than that for attending to local level; under the high-resolution load condition,the Navon interference for atending to global level was smaller than that for attending to local level.ERP results showed that relative to the baseline load condition，the high-capacity load condition elicited smaller N2，whereas the high-resolution load condition elicited larger N2.
+
+In conclusion, when the Flanker task is presented during encoding stage of VWM, high-capacity load and high-resolution load reduce interference.When the Flanker task is presented in the periphery of the memory array during maintaining stage of VWM, high-capacity load and high-resolution load reduce interference. These findings support the load theory of selective attention. However, when the Flanker task is presented in the center of the memory array during the maintenance stage,high-capacity load and high-resolution load lead to opposite effects.High-resolution load reduce interference,while high-capacity load increase interference. The underlying mechanism is that the different patterns of neural activity associated with the two types of VWM load may result in different distribution of cognitive control resources to selective attention.
+
+Key wordsvisual working memory; selective attention; capacity load; resolution load; N2

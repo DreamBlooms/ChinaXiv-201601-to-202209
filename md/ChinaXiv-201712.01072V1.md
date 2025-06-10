@@ -1,0 +1,128 @@
+临床研究
+
+# 慢性乙型肝炎及其肝硬化患者HBsAg与HBVDNA定量变化及其相关性
+
+余雪平,郭如意,柯邵鹏,黄清流,林成祖,林志鹏,陈素梅,李菊兰,杨鹏雅,苏智军福建医科大学附属泉州第一医院感染科，福建 泉州 362000
+
+摘要：目的 探讨慢性乙型肝炎(CHB）乙型肝炎肝硬化(HBV-LC)患者HBsAg定量和HBVDNA定量的变化及两者的相关性。方法采集46例CHB轻中度患者(CHB-LM组）,24例CHB重度患者(CHB-S组)和28例HBV-LC患者入院时及51例患者经核苷(酸)类似物(NA)抗病毒治疗 $4 . 0 8 \pm 3 . 0 6 \$ 月时的血清标本;采用化学发光法定量检测HBsAg水平，荧光PCR定量检测HBVDNA载量。多组比较采用Kruskal-Walls,两组间比较采用Mann-Whitney U检验,治疗前后比较采用Wilcoxon检测,相关性分析采用Spearman检验。结果 HBsAg和HBVDNA定量在CHB-LM组、CHB-S组和HBV-LC组中逐渐下降（ $\scriptstyle \chi ^ { 2 } = 1 2 . 5 3 7$ 和8.381, $\scriptstyle P = 0 . 0 0 2$ 和0.015);CHB-LM组和CHB-S组HBsAg和HBVDNA定量值均高于HBV-LC组( $( P { < } 0 . 0 5 )$ ;CHB-LM和CHB-S两组之间差异均无统计学意义( $\scriptstyle { Z = - 0 . 6 4 9 }$ 和 $0 . 0 3 2 , P 5 0 . 0 5$ 。HBeAg 阳性患者HBsAg和HBVDNA定量在CHB-LM组、CHB-S组和HBV-LC组中呈下降趋势( $\chi ^ { 2 } { = } 6 . 1 4 6$ $P { = } 0 . 0 4 6$ 和 $1 . 0 0 9 , P { > } 0 . 0 5$ ;CHB-LM组HBsAg定量高于HBV-LC组（ $\scriptstyle { \zeta = - 2 . 2 4 7 , P = }$ 0.025）。HBeAg阴性患者HBsAg和HBVDNA定量在CHB-LM组、CHB-S组和HBV-LC组中逐渐下降( $\scriptstyle x ^ { 2 } = 7 . 1 9 6$ 和 $1 4 . 6 5 8 , P <$ 0.05）;CHB-LM组和CHB-S组HBsAg和HBVDNA定量均高于HBV-LC组 $( P { < } 0 . 0 1 )$ 。HBsAg与HBVDNA定量水平在CHB-LM组（ $\scriptstyle 1 = 0 . 3 8 9$ $\scriptstyle P = 0 . 0 0 9$ ）、HBV-LC组 $_ { ( r = 0 . 4 3 1 }$ ， $\scriptstyle P = 0 . 0 2 2$ )中均呈正相关性；而在CHB-S组中无相关性 $\scriptstyle ( r = 0 . 3 4 8 , P =$ 0.104)。与NA抗病毒治疗前相比,51例患者治疗后HBsAg水平略有下降 $\scriptstyle ( Z = - 1 . 0 5 0 , P = 0 . 2 9 4$ ),而HBVDNA水平明显下降$( Z { = } { - } 5 . 4 1 5 , P { < } 0 . 0 0 1 )$ ；治疗后HBsAg定量与HBVDNA定量无统计学相关性（ $\scriptstyle { \phantom { - } } r = 0 . 2 4 1 , P = 0 . 1 1 1 )$ ；且两者治疗前后的差值也无统计学相关性 $( r = 0 . 2 5 7 , P { = } 0 . 0 8 5 ,$ )。结论 HBsAg和HBVDNA定量在CHB-LM、CHB-S和HBV-LC患者中逐渐降低,按照HBeAg阳性和阴性分组后,这种趋势依然存在;HBsAg和HBVDNA之间呈正相关,但并非绝对平行。
+
+关键词：HBsAg;HBVDNA;肝炎;乙型;慢性;肝硬化
+
+# Changes in HBsAg titer and HBV DNA load and their correlation in patients with chronic hepatitis B and HBV-related liver cirrhosis
+
+YU Xueping,GuORuyi,KEaopeng,HUANGQingliu,Ihengzu,IZipeng,CHENumei,LJulan,YANGPengyaijun DepartmentofInfectiousDiseases,QuanzhouFirstHospitalAfliatedtoFujianMedicalUniersityQuanzhou360oChina
+
+Abstract: Objective To explore the changes in HBsAg titer and HBV DNA load and theircorelation in patients with chronic hepatitis B (CHB)and HBV-related liver cirhosis (HBV-LC). Methods Forty-six patients with mild to moderate CHB (CHB-LM),24 patients withsevere CHB(HB-S),and 28 patients withHBV-LCatadmision,and 51patients withHBV-Cat $4 . 0 8 \pm 3 . 0 6$ months during antiviral treatment were tested for serum HBsAg titer and HBV DNA load using Abbott chemiluminescence and fluorescence quantitative PCR,respectively. Results The serum HBsAg titer and HBV DNA load gradually decreased with increased disease severity (from CHB-LM, CHB-S to HBV-LC; $\chi ^ { 2 } { = } 1 2 . 5 3 7$ and 8.381, respectively, $P <$ 0.05). HBsAg titer and HBV DNA load were significantly higher in CHB-LM and CHB-S groups than in HBV-LC group( $P <$ 0.05), but comparable between CHB-LM and CHB-S groups ( $\scriptstyle { Z = - 0 . 6 4 9 }$ and 0.032, respectively, $P { > } 0 . 0 5$ ). Among HBeAg-positive patients, $\mathrm { H B s A g }$ titer and HBV DNA load tended to decrease with increased disease severity (from CHB-LM, CHB-S to HBV-LC; $\chi ^ { 2 } { = } 6 . 1 4 6 ,$ $\scriptstyle P = 0 . 0 4 6$ and $\chi ^ { 2 } { = } 1 . 0 1 7 ,$ ${ P > } 0 . 0 5 , { }$ respectively),and CHB-LM group had significantly higher HBsAg titer than HBV-LC group $\scriptstyle ( Z = - 2 . 2 4 7 ,$ $P { = } 0 . 0 2 5 )$ . Among the HBeAg-negative patients, serum $\mathrm { H B s A g }$ and HBV DNA load gradually declined with the disease severity ( $\scriptstyle \chi ^ { 2 } = 8 . 6 6 0$ and 13.581, respectively, $P { < } 0 . 0 5 )$ ，and were obviously higher in CHB-LM and CHB-S groups than in HBV-LC group $_ { ( P < 0 . 0 5 ) }$ . Positive correlations were found between serum $\mathrm { H B s A g }$ and HBV DNA levels in CHB-LM $( r { = } 0 . 3 8 9 ,$ $\scriptstyle P = 0 . 0 0 9$ )and HBV-LC groups $_ { ( r = 0 . 4 3 1 }$ $P { = } 0 . 0 2 2 \rangle$ , but not in CHB-S group $( \mathrm { r } { = } 0 . 3 4 8 ,$ $\scriptstyle P = 0 . 1 0 4$ ). Afterantiviral therapy, the serum HBsAg titer was slightly decreased $( Z { = } 1 . 0 5 0 ,$ $\scriptstyle P = 0 . 2 9 4$ ）while HBV DNA load markedly reduced $\scriptstyle ( Z = - 5 . 4 1 5 ,$ $P { < } 0 . 0 0 1$ ), showing no correlation between them ( $_ { \cdot = 0 . 2 4 1 }$ ${ \cal P } { = } 0 . 1 1 1$ ) or between the measurements before and after treatment ( $\scriptstyle \gamma =$
+
+0.257, $P { = } 0 . 0 8 5 )$ . Conclusion Serum HBsAg titer and HBV DNA load decreases progressively from CHB-LM to CHB-S and HBV-LC in both HBeAgpositive and -negative patients. The serum HBsAg titeris positively correlated with HBVDNA load, but their levels are not consistently parallel.
+
+Keywords: HBsAg;HBV DNA; hepatitis B, chronic; liver cirrhosis
+
+近年来，随着检测技术的发展，对HBsAg的定量检测也成为现实，并迅速被临床认识及认可。研究表明，HBsAg与肝内闭合环状(cccDNA)之间具有良好相关性，定量检测HBsAg对预测抗病毒的治疗疗效有重要意义2；同时也为临床医生对HBVDNA阴性患者的诊断及治疗提供了良好的依据[3-4]。然而,HBsAg定量水平及其与HBVDNA的相关性在HBV感染不同阶段及不同病情程度中的变化尚不十分清楚。本研究通过定量检测慢性乙型肝炎(CHB)轻中度组、CHB重度组和乙型肝炎肝硬化(HBV-LC)患者HBsAg和HBVDNA的水平，并对3组以HBeAg阳性和阴性进行分组，以探讨HBsAg和HBVDNA的相关性及定量检测HBsAg的临床意义。
+
+# 1对象与方法
+
+# 1.1研究对象
+
+选择2010年7月\~2011年8月我院住院的CHB患者70例(CHB轻中度组CHB-LM46例，CHB重度组CHB-S24例)和HBV-LC患者28例,其中男76例，女22例，年龄18\~79岁，平均 $3 7 . 5 3 { \pm } 1 3 . 5 0 \$ 岁。诊断均符合《慢性乙型肝炎防治指南(2010年版)》[5]，并排除甲、丙、丁、戊型病毒感染及合并酒精性、药物性、自身免疫性或代谢性肝病以及原发性肝癌。另外选取51例接受核苷(酸)类似物(NA)抗病毒治疗 $4 . 0 8 { \scriptstyle \pm 3 . 0 6 }$ 个月的患者（CHB40例和HBV-LC11例）,其中男44例,女7例，年龄 $1 9 { \sim } 6 7 ( 3 4 . 4 7 { \pm } 1 1 . 2 6 )$ 岁；服用恩替卡韦(中美上海施贵宝制药有限公司， $0 . 5 \mathrm { m g } / \mathrm { d } ) 3 3$ 例、阿德福韦酯（天津药物研究院药业有限责任公司， $1 0 ~ \mathrm { m g / d } ) 6$ 例、拉米夫定（葛兰素史克中国天津分公司， $1 0 0 ~ \mathrm { { m g / d } }$ 8例、拉米夫定( $\mathrm { 1 0 0 ~ m g / d ) + }$ 阿德福韦酯( $1 0 \ \mathrm { m g / d } ) 4$ 例。本实验得到我院伦理委员会批准同意，患者签署知情同意书。
+
+# 1.2病毒学指标检测
+
+采用全自动免疫分析仪（ARCHITECTi2000SR,美国Abbott公司)检测血清HBsAg滴度、HBeAg滴度、抗HCV等，试剂盒由美国Abbott公司提供（批号：37021LF00)。HBsAg阳性参考范围为 $0 . 0 5 { \sim } 2 5 0 \ \mathrm { U / m l }$ 高于检测上限( $2 5 0 \mathrm { U / m l } ,$ 的样本用HBsAg专用稀释液稀释500倍(先 $1 { : } 2 0$ 稀释，后 $1 : 2 5$ 稀释)后再检测。应用酶联免疫吸附试验(ELISA)检测血清抗HAV、抗HEV、抗HDV、HDV抗原等病毒性肝炎标志物。采用实时定量荧光PCR检测仪(PE9700,美国)检测血清HBVDNA载量，试剂盒由上海科华生物工程股份有限公司提供(批号：14040111),检测下限为 $1 . 0 { \times } 1 0 ^ { 3 }$ copies·ml1
+
+# 1.3生化指标检测
+
+采用全自动酶免分析生化仪(BeckManLX-20，美国BeckMan公司)检测谷丙转氨酶(ALT)、谷草转氨酶(AST)、总胆红素(TBil)、直接胆红素(DBil)、白蛋白(ALB)等生化指标，试剂由美国BeckMan公司提供。采用全自动血细胞分析仪(CoulterLH750analyzer,美国BeckMan公司)检测白细胞(WBC）红细胞、血红蛋白 $\left( \mathrm { H g b } \right)$ 及血小板(PLT)计数等。
+
+# 1.4 统计学处理
+
+采用SPSS13.0统计分析软件进行统计分析，计量资料采用均数 $\pm$ 标准差表示，各组间采用Mann-WhitneyU检验;相关性检验采用Spearman's秩相关分析，双侧以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1CHB-LMCHB-S及HBV-LC三组的基线特征(表1)
+
+CHB-LM、CHB-S及HBV-LC三组之间性别无明显差异 $( x ^ { 2 } = 2 4 . 5 5$ $P { = } 0 . 9 2 6 \$ ）。HBV-LC组年龄高于CHB-LM组。CHB-S组和HBV-LC组TBil及DBil水平均高于CHB-LM组;且HBV-LC高于CHB-S组，差异均有统计学意义。CHB-S组ALT水平明显高于CHB-LM组和HBV-LC组,且CHB-LM组高于HBV-LC组，差异均有统计学意义。CHB-S组AST水平明显高于CHB-LM组和HBV-LC组,但CHB-LM组和HBV-LC组比较无差异。HBV-LC组WBC计数和PLT计数均低于CHB-LM和CHB-S组，而CHB-LM和CHB-S组之间比较无差异。HBV-LC组Hgb低于CHB-LM组。
+
+# 2.2HBsAg和HBVDNA定量在CHB-LM、CHB-S和 HBV-LC三组之间的比较
+
+HBsAg定量（ $\scriptstyle { \overbrace { n { = } 9 8 } }$ ）在CHB-LM 组 5934.67$( 1 5 6 0 . 2 6 \small { \sim } 1 5 6 6 0 . 8 7 ) \mathrm { U / m l }$ CHB-S组5034.03(939.59\~$1 0 9 1 7 . 0 7 ) \mathrm { U } / \mathrm { m l }$ 和HBV-LC组1253.22(225.18\~3584.16)$\mathrm { U } / \mathrm { m l }$ 中逐渐下降 $\left( \chi ^ { 2 } = 1 2 . 5 3 7 , P { = } 0 . 0 0 2 \right)$ ;HBVDNA定量在CHB-LM组 $6 . 7 1 6 ( 5 . 4 7 8 { \sim } 6 . 8 6 3 ) \mathrm { l g }$ copies/ml CHB-S组 $5 . 7 2 4 ( 4 . 8 9 8 { \sim } 6 . 7 2 4 ) 1 \mathrm { g }$ copies/ml和HBV-LC组5.613（ $3 . 3 0 8 { \sim } 6 . 1 6 9 ) \mathrm { l g }$ copies/ml中逐渐下降 $\scriptstyle ( \chi ^ { 2 } = 8 . 3 8 1 , P =$ 0.015)，差异均有统计学意义。CHB-LM组和CHB-S组HBsAg定量和HBVDNA定量值均高于HBV-LC组 $( P { < } 0 . 0 5 )$ 。但CHB-LM和CHB-S两组之间比较,两者差异均无统计学意义( $\scriptstyle { \mathcal { Z } } = - 0 . 6 4 9$ 和 $0 . 0 3 2 , P { > } 0 . 0 5$ 图1A)。
+
+对于HBeAg阳性患者 $\scriptstyle ( n = 5 6 )$ ,HBsAg定量值在 CHB-LM组 $8 9 2 3 . 1 1 \left( 3 5 8 9 . 4 3 \sim 2 3 5 9 5 . 6 9 \right) \mathrm { U / m l } .$ CHB-S 组5995.43（3675.81\~11810.29）U/ml和HBV-LC组 2172.05 (692.70\~4618.57) $\mathrm { U } / \mathrm { m l }$ 中呈下降趋势 $\scriptstyle ( \chi ^ { 2 } =$ 6.146, $\scriptstyle P = 0 . 0 4 6 ,$ ）；CHB-LM组HBsAg定量高于 CHB-LM组 $( Z { = } { - } 2 . 2 4 7 , P { = } 0 . 0 2 5 ) ,$ 。HBVDNA定量值 在CHB-LM组6.740(5.538\~6.866)lg c0pies/ml、CHB-S 组6.724(5.909\~6.875)lg copies/ml和HBV-LC组6.146 (5.623\~6.748)lgcopies/ml中呈下降趋势 $\scriptstyle ( \chi ^ { 2 } = 1 . 0 0 9 , P =$
+
+表1CHB-LM、CHB-S及HBV-LC三组的基线特征 Tab.1 Baseline characteristics of CHB-LM, CHB-S and HBV-LC groups   
+
+<html><body><table><tr><td>Group</td><td>CHB-LM (n=46)</td><td>CHB-S (n=24)</td><td>HBV-LC (n=28)</td><td>P</td></tr><tr><td>Sex (Male,%)</td><td>36 (78.30%)</td><td>19 (79.20%)</td><td>21 (75.00%)</td><td>0.926</td></tr><tr><td>Age (Year)</td><td>32.00 (25.75-41.25)</td><td>28.50 (24.25-34.00)</td><td>51.00 (35.75-60.75) 12</td><td><0.001</td></tr><tr><td>TBil</td><td>18.15 (14.75-24.92)</td><td>144.80 (60.85-216.00)</td><td>35.95 (24.03-66.70)6.13</td><td><0.001</td></tr><tr><td>DBil</td><td>6.65 (5.10-9.20)</td><td>83.60 (50.25-131.25)²</td><td>13.65 (7.13-30.20).14</td><td><0.001</td></tr><tr><td>ATL</td><td>229.50 (127.35-443.35)</td><td>477.00 (166.85-1192.85))</td><td>60.00 (44.00-231.85)8.15</td><td><0.001</td></tr><tr><td>AST</td><td>112.50 (57.00-228.35)</td><td>275.00 (111.50-786.50)4</td><td>93.00 (53.00-149.85)6</td><td>0.001</td></tr><tr><td>WBC(x10°/L)</td><td>5.65 (4.80-6.53)</td><td>6.10 (4.93-9.65)</td><td>4.30 (3.75-5.26).17</td><td><0.001</td></tr><tr><td>Hgb</td><td>148.50 (140.85-160.00)</td><td>142.50 (123.35-154.85)</td><td>127.00 (101.05-149.00))</td><td>0.002</td></tr><tr><td>PLT(×10/L)</td><td>192.00 (156.85-224.00)</td><td>195.00 (148.00-313.00)</td><td>81.00 (54.35-122.50)1,18</td><td><0.001</td></tr></table></body></html>
+
+Compared with group CHB-LM, $^ { 1 } Z = - 6 . 0 5 1$ $^ { 2 } Z { = } { - } 6 . 4 4 7$ $^ { 3 } { \cal Z } = - 2 . 4 3 1$ $^ { 4 } { \cal Z } = \cdot 3 . 1 1 2$ $^ { 5 } { \cal Z } = - 3 . 9 9 8$ $^ { 6 } { \cal Z } = - 4 . 5 5 3$ $^ { 7 } { \cal Z } = - 3 . 6 8 4$ $^ { 8 } { \cal Z } = - 3 . 2 3 2$ $^ { 9 } { \cal Z } = - 3 . 4 1 2$ $^ { 1 0 } { \cal Z } = - 3 . 3 6 4$ $^ { 1 1 } Z = - 5 . 7 1 9$ $P { < } 0 . 0 5$ . Compared with group CHB-S, $^ { 1 2 } \mathrm { Z } \mathrm { = } \mathrm { - } 4 . 4 8 2$ $^ { 1 3 } { \cal Z } { = } { - 4 . 0 2 9 }$ $^ { 1 4 } { \cal Z } = \cdot 4 . 7 8 2$ $^ { 1 5 } Z = 3 . 9 3 8$ $^ { 1 6 } { \cal Z } = \cdot 3 . 7 0 8$ $^ { 1 7 } \mathrm { Z } = - 3 . 8 2 0$ $^ { 1 8 } { \cal Z } = \cdot 4 . 7 8 2$ $P { < } 0 . 0 5$
+
+0.604)。3组间两两比较，HBVDNA定量值差异均无统计学意义( $\mathrm { P { > } 0 . 0 5 }$ ，图1B)。
+
+对于HBeAg阴性患者( $\scriptstyle n = 4 2$ ）,HBsAg定量值在HBV-LC组、CHB-S组和HBV-LC组中分别为5175.44(1434.78-7904.79)、1607.17(508.97-9947.51)和 $\mid 6 8 5 . 2 0 9 ( 1 1 4 . 9 0 - 2 3 1 3 . 7 7 ) \mathrm { U / m l } ( \chi ^ { 2 } = 7 . 1 9 6 , P = 0 . 0 2 7 )$ 差异有统计学意义。HBVDNA定量值在CHB-LM组5.724(5.177-6.580)lg copies/ml、CHB-S组5.491(4.886-6.680)lg copies/ml和HBV-LC组 $4 . 2 3 0 ( 3 . 0 0 0 { - } 4 . 8 4 8 ) \mathrm { l g }$ copies/ml中逐渐下降 $( \chi ^ { 2 } { = } 1 4 . 6 5 8 , P { = } 0 . 0 0 1 )$ ,差异有统计学意义。CHB-LM组和CHB-S组HBsAg定量和HBVDNA定量值均高于HBV-LC组 $( P { < } 0 . 0 1 )$ 。但CHB-LM和CHB-S两组之间比较，差异无统计学意义1 $\scriptstyle { Z = - 0 . 6 6 1 }$ 和 $. 0 . 4 4 3 , P 5 0 . 0 5$ ，图1C)。
+
+2.3抗病毒治疗后HBsAg和HBVDNA定量水平的变化
+
+51例随访的CHB和HBV-LC患者，与NA抗病毒治疗前相比，治疗后HBsAg水平有所下降，差异无统计学意义 $( 8 4 8 2 . 2 6 \pm 1 9 8 1 9 . 8 9 \ v s \ 8 1 9 0 . 7 6 \pm 2 5 8 1 9 . 2 9 \ \mathrm { U / m l } ;$ $Z { = } { - } 1 . 0 5 0 , P { = } 0 . 2 9 4 \rangle$ 。而治疗后HBVDNA水平下降有统计学意义 $\langle 5 . 7 2 1 { \scriptstyle \pm 1 . 0 8 4 }$ vs $3 . 7 3 2 { \pm } 1 . 0 4 0 ; Z { = } { - } 5 . 4 1 5 , P { < }$ 0.001)。
+
+# 2.4HBsAg和HBVDNA的相关性分析
+
+HBsAg与HBVDNA定量水平( $\scriptstyle { \overbrace { n { = } 9 8 } }$ )在3组中呈 正相关 $\stackrel { \prime } { \boldsymbol { r } } = 0 . 4 6 2 , P { \ < } 0 . 0 0 1 \rangle$ ,在CHB-LM组( $\stackrel { \scriptstyle \prime = 0 . 3 8 9 , P = }$ 0.009)和HBV-LC组 $( r = 0 . 4 3 1 , P = 0 . 0 2 2 ,$ 中也呈正相关 性;而在CHB-S组中无明显相关性 $\left( r { = } 0 . 3 4 8 , P { = } 0 . 1 0 4 \right)$ 0
+
+对于HBeAg阳性患者（ $\scriptstyle { \overbrace { n = 5 6 } } ,$ ，HBsAg定量与HBVDNA定量在3组总的患者 $\left( r { = } 0 . 3 8 7 , P { = } 0 . 0 0 4 \right)$ 和CHB-LM组中 $\stackrel { \prime } { \scriptscriptstyle { r = 0 . 4 0 5 , \mathrm { P } = 0 . 0 4 5 } }$ 呈正相关。而分别在CHB-S组 $\left( r = 0 . 2 2 5 , P { = } 0 . 4 2 0 \right)$ 和HBV-LC组 $\scriptstyle ( - 0 . 3 6 5$ .$\scriptstyle P = 0 . 1 8 0$ )中均无相关性。
+
+对于HBeAg阴性患者（ $\scriptstyle ( n = 4 2 )$ ，HBsAg定量与HBVDNA定量在3组总的患者中呈正相关（ $_ { ( r = 0 . 4 0 6 }$ $\scriptstyle P = 0 . 0 0 9$ )。而分别在CHB-LM组 $( r { = } 0 . 1 7 1 , P { = } 0 . 4 8 5 )$ ）、CHB-S组（ $_ { r = 0 . 3 1 1 }$ ， $P { = } 0 . 4 5 3 { \mathrm { ~ , ~ } }$ 和HBV-LC组 $_ { ( r = 0 . 2 1 5 }$ $\scriptstyle P = 0 . 4 8 1$ )中均无相关性。
+
+对于51例随访的CHB和HBV-LC患者，NAs治疗前HBsAg定量与HBVDNA定量呈正相关（ $\scriptstyle { r = 0 . 4 6 9 , P = }$ 0.001)，而两者NAs治疗后无明显相关性 $\scriptstyle ( r = 0 . 2 4 1 , P =$ 0.111)；且两者治疗前后的差值也无明显的相关性( $\stackrel { \cdot } { r } = \stackrel { \cdot } { \theta }$ $0 . 2 5 7 , P { = } 0 . 0 8 5$ ）。
+
+$2 . 5 \mathrm { \ H B s A g }$ 和HBVDNA定量在CHB-LM、CHB-S和HBV-LC组中与生化标指的相关性分析
+
+在所有患者中（ $\scriptstyle \overbrace { n = 9 8 } ,$ ），HBsAg定量与TBil1 $_ { r = - 0 . 2 0 1 }$ ， $\scriptstyle P = 0 . 0 4 8$ )呈负相关，与PLT呈正相关（204号 $\left( r = - 0 . 3 5 1 , P { = } 0 . 0 0 1 \right)$ );HBVDNA定量与ALT $\scriptstyle \stackrel { \prime } { r = 0 . 2 1 2 }$ $\scriptstyle P = 0 . 0 3 8 .$ ）、AST( $\scriptstyle { \begin{array} { r l } { r = 0 . 2 6 3 } \end{array} }$ ， $P { = } 0 . 0 1 0 \$ ）呈正相关。CHB-LM组HBVDNA定量与 $\mathrm { A S T } ( r = 0 . 3 7 0 , P = 0 . 0 1 4$ ）呈正相关。HBV-LC组HBVDNA定量与ALT( $\stackrel { \cdot } { r } = \stackrel { \cdot } { \theta }$ $0 . 4 4 3 , P { = } 0 . 0 1 8$ 呈正相关。
+
+HBeAg阳性患者（ $\scriptstyle { \overbrace { n = 5 6 } }$ HBsAg定量与TBil1 $_ { r = - 0 . 2 7 0 }$ $\scriptstyle P = 0 . 0 4 4 ,$ ） $. { \mathrm { D B i l } } \left( r { = } { - } 0 . 2 7 5 , P { = } 0 . 0 4 1 \right)$ 呈负相关，与PLT呈正相关 $( r { = } 0 . 4 0 4 , P { = } 0 . 0 0 2 )$ ;HBVDNA定量与以上指标均无相关性 $( P { > } 0 . 0 5 ) $ 。其中CHB-S组HBVDNA定量与DBil( $\scriptstyle { r = 0 . 5 2 9 }$ $\scriptstyle P = 0 . 0 4 3$ )呈正相关，HBV-LC组HBsAg定量与 $\operatorname { P L T } ( r = 0 . 5 3 6 , P = 0 . 0 4 0 )$ 呈正相关；HBVDNA定量与 $\Gamma \mathrm { B i l } \left( r { = } { \cdot } 0 . 5 8 0 , P { = } 0 . 0 2 4 \right)$ 呈负相关，与 $\operatorname { A L T } ( r { = } 0 . 5 4 2 , P { = } 0 . 0 3 7 )$ 呈正相关。
+
+HBeAg阴性患者( $\scriptstyle 1 = 4 2$ HBVDNA定量与AST呈正相关 $( r = 0 . 3 6 3 , P = 0 . 0 2 0 )$ ;HBsAg定量与以上指标均无相关性 $( P { > } 0 . 0 5 )$ ,其中CHB-LM组HBVDNA定量与AST呈正相关（ $\stackrel { \prime } { } _ { r = 0 . 5 9 2 }$ ， $\scriptstyle P = 0 . 0 0 8$ ），CHB-S和
+
+A P=0.001 8 000000 P=0.008 250007 P=0.012 (PT/Gorr Sii irT P=0.016 6000000 4000000 10000 2000000 5000 O O CHB-LM CHB-S HBV-LC CHB-LM CHB-S HBV-LC B   
+E 400007 P=0.0250.054 I 0 CHB-LM CHB-S HBV-LC CHB-LM CHB-S HBV-LC C   
+(1/n) BABH 15 000j P=0.00=0.001 (T/SSGLr Rri iTm 4000000T 3000000 P<0.00=0.003 10000 2000000 5000 1000000 ） 0 CHB-LM CHB-S HBV-LC CHB-LM CHB-S HBV-LC
+
+和多数研究结果一致[6-10]：HBsAg定量与HBVDNA定量呈显著正相关。可能的原因是由于HBV侵入机体后，机体产生特异性细胞和体液免疫应答，从而造成肝细胞损害;随着HBV感染时间的延长，累积的免疫损伤也相应加重，肝细胞破坏程度也越严重，造成的肝细胞坏死也越广泛,进而导致依赖于肝细胞的HBV复制减少。HBsAg和HBV复制一样,也是依赖于肝细胞产生，以cccDNA为模板合成并组装成完整的病毒颗粒后分泌至血液中，故肝细胞大量坏死也同样导致HBsAg 的合成与分泌减少[1l-12]。因此，HBsAg定量在一定程度可反映HBV复制情况。然而，HBV感染自然史的研究表明,cccDNA水平在HBV感染的各个阶段有所不同[13]；由于HBsAg和HBVDNA的合成和分泌路径不完全相同，也就造成两者在以上结果提示不同阶段的相关性存在差异。Jaroszewicz等[4认为HBsAg与HBVDNA总体相关,而在HBV持续感染的不同时期及不同基因型中的相关性也不同。本实验结果表明，HBsAg 与 HBV DNA 在 CHB-LM、CHB-S和HBV-LC三组中总体呈显著正相关，而在CHB-S组中两者无相关性;且
+
+HBV-LC组均无相关性。
+
+在51例随访的患者中，HBsAg定量治疗前后的差值与DBil治疗前后的差值呈正相关（ $_ { r = 0 . 3 2 1 }$ ， $P =$ 0.034)；HBVDNA定量治疗前后的差值与TBil( $\scriptstyle { r = { \frac { } { } } }$ 0.4 $1 4 2 , P { = } 0 . 0 0 4$ 、DBil( $r { = } 0 . 4 2 7 , P { = } 0 . 0 0 5 ,$ 治疗前后的差值呈正相关。
+
+# 3讨论
+
+HBsAg定量检测已具备可标准化、重复性好、低成本等特点，成为乙型肝炎管理的有效工具。本研究采用化学发光法定量检测HBsAg水平在CHB-LM组、CHB-S组和CHB-LC组的变化,结果显示HBsAg定量在3组中依次逐渐下降，且HBV-LC组HBsAg定量水平明显低于其它两组，但CHB-S组与CHB-LM组两组无统计学差异。按照HBeAg阳性和阴性分组后，上述变化趋势依然存在，但在HBeAg阴性患者中表现更为明显。
+
+有趣的是，血清HBVDNA在CHB-LM组、CHB-S组和CHB-LC组患者中也呈逐渐下降趋势,与HBsAg定量的变化趋势一致，提示HBsAg的合成与病毒复制是一个动态的变化过程。通过相关性分析，本实验结果以HBeAg阳性和阴性分组后，两者在3组中总体相关性减弱(在HBeAg阴性患者减弱更为显著)，而在各个亚组中也均未发现明显相关性。此外,本实验还发现,随着NA抗病毒治疗后HBsAg与HBVDNA定量水平的下降，两者之间的相关性消失，且两者治疗前后的差值也无相关性，提示HBeAg阴性患者体内和NA抗病毒治疗后HBsAg的合成与HBV复制之间的关联被打破，这可能与HBV基因整合到宿主基因组或一条转录后优先控制HBV复制的路径(有利于HBsAg合成与分泌)有关[16]。
+
+HBVDNA载量下降是评价抗病毒治疗有效的指标之一，HBsAg水平下降则是机体启动免疫调节并逐渐清除HBV的表现。通过动态监测两者的变化可有效地预测抗病毒治疗疗效，制定个体化应答指导治疗(RGT)策略以指导调整抗病毒治疗方案，提高疗效。Rijckborst等17研究表明HBeAg阴性患者经长效干扰素(PEG-IFNα-2a)治疗12周时，若HBsAg水平下降且HBVDNA下降 $\geq 2 \log , 3 9 \%$ 的患者在治疗48周时获得病毒学应答，且两者同时下降预测病毒学应答的曲线下面积(AUC)最高（达0.74）；若HBsAg未下降且
+
+HBVDNA下降 $< 2 \log$ ,则没有患者 $( 0 \% )$ 在治疗结束后获得病毒学应答，建议停药或换用NA继续治疗。本研究51例接受NA抗病毒治疗 $( 4 . 0 8 \pm 3 . 0 6 ) \$ 月后，13$( 2 5 . 5 \% )$ )例患者HBsAg水平下降且HBVDNA下降 ${ \geqslant } 2$ log,11例 $( 2 1 . 6 \% ) _ { \mathrm { H B s A g } }$ 未下降且HBVDNA下降 $_ { < 2 }$ log,与Seto等[15]研究结果相符。因各种原因多数患者失访，所以无法进一步研究HBsAg和HBVDNA的动态变化与治疗疗效的关系。
+
+ALT、TBil及PLT等指标是反映肝细胞膜通透性、细胞坏死程度及肝脏代偿功能的敏感指标。患者炎症反应和纤维化的加重，HBsAg呈阶梯状下降，但HBVDNA水平无明显变化，提示HBsAg较HBVDNA水平更能反映患者的病理改变程度[18]。本实验发现,血清HBsAg和HBVDNA定量水平与ALT等指标之间存在一定的相关性，且相关性不强[12]。提示单纯依靠HBsAg和HBVDNA定量水平不能完全反映肝脏病理变化及肝脏代偿功能，肝脏组织病理活检仍然是不可替代的正确判断肝脏病变的金标准。
+
+总之，本实验发现HBsAg定量及HBVDNA在CHB-LM、CHB-S和HBV-LC三组中均呈逐渐下降趋势，以HBeAg阳性和阴性分组后，这种趋势仍然存在。在以上3组中，HBsAg定量与HBVDNA总体相关，而在HBeAg阴性患者中相关性减弱，且在抗病毒治疗后两者的相关性消失，也不能单纯依靠HBsAg和HBVDNA定量水平判断肝脏病变。这些发现为HBVDNA呈阴性的CHB患者的诊断及治疗提供了良好的依据，对评价抗病毒药物治疗的疗效和判断预后有重要意义。
+
+# 参考文献：
+
+[1]Chan HL,Wong VW,Tse AM,et al.Serum hepatitis B surface antigen quantitation can reflect hepatitis B virus in the liver and predict treatment response[J].Clin Gastroenterol Hepatol, 2007,5 (12): 1462-8.   
+[2]Chan HL,Thompson A,Martinot-Peignoux M,et al. Hepatitis B surface antigen quantification:why and how to use it in 2Oll-a core group report[J]. JHepatol,2011,55(5): 1121-31.   
+[3]Martinot-Peignoux M,Lapalus M,Laouénan C,et al. Prediction of disease reactivation in asymptomatic hepatitis B e antigen-negative chronic hepatitis B patients using baseline serum measurements of HBsAg and HBV-DNA[J].JClin Virol,2013,58(2): 401-7.   
+[4]Bruneto MR,Moriconi F,Bononi F,et al.HBsAg levels: a guide to sutained response to peginterteron aita-Za in HBeAg-negative chronic hepatitis B[J]. Hepatology,2009,49(4):1141-50.   
+[5]中华医学会肝病学分会.中华医学会感染病学分会.慢性乙型肝炎防 治指南(2010年版)[J].中华传染病杂志,2011,29(2):65-80.   
+[6]Deguchi M, Yamashita N, Kagita M,etal. Quantitation of hepatitis B surface antigen by an automated chemiluminescent microparticle immunoassay[J].J Virol Methods,2004,115(2): 217-22.   
+[7] Su TH, Hsu CS,Chen CL,et al. Serum hepatitis B surface antigen concentration correlates with HBV DNA level in patients with chronic hepatitis B[J].Antivir Ther,2010,15(8):1133-9.   
+[8]Alghamdi A,Aref N,El-Hazmi M,et al. Correlation between hepatitis B surface antigen titers and HBV DNA levels[J]. Saudi J Gastroenterol,2013,19(6): 252-7.   
+[9］李韦杰,李伯安,赵景民,等.54例慢性乙型肝炎患者肝组织乙型肝炎 病毒共价闭合环状DNA与血清HBsAg定量检测结果分析[J].中华 肝脏病杂志,2011,19(11):815-7.   
+[10]曾磊,丁爱娇,江凌晓,等.广州市慢性乙型肝炎患者表面抗原水平 分析[J].南方医科大学学报,2014,34(7):974-7.   
+[11]Wong DK, Yuen MF,Poon RT,et al. Quantification of hepatitis B virus covalently closed circular DNA in patients with hepatocellular carcinoma[J]. JHepatol,2006,45(4): 553-9.   
+[12]黄绍萍，卢水华,王介非,等.聚乙二醇干扰素α-2a治疗慢性乙型病毒 性肝炎HBsAg转阴影响因素分析[J].中国实用内科杂志,2009,23 (11): 187-8..   
+[13] Volz T,Lutgehetmann M,Wachtler P,et al. Impaired intrahepatic hepatitis B virus productivity contributes to low viremia in most HBeAg-negative patients [J].Gastroenterology，2007，133(3): 843-52.   
+[14]Jaroszewicz J,Calle Serrano B,Wursthorn K,et al.Hepatitis B surface antigen (HBsAg) levels in the natural history of hepatitis B virus (HBV)-infection: a European perspective[J].JHepatol, 2010, 52(4): 514-22.   
+[15] Seto WK,Lam YF,Fung J,et al. Changes of HBsAg and HBV DNA levels in Chinese chronic hepatitis B patients after 5 years of entecavir treatment [J].J Gastroenterol Hepatol，2014,29(5): 1028-34.   
+[16]Thompson AJ, Nguyen T, Iser D,et al. Serum HBsAg and HBeAg titers:disease phase influences correlation with viral load and intrahepatic hepatitis B virus markers[J]. Hepatology,2010, 51(6): 1933-44.   
+[17]Rijckborst V,Hansen BE,Cakaloglu Y,et al. Early on-treatment prediction of response to peginterferon alfa-2a for HBeAg-negative chronic hepatitis B using HBsAg and HBV DNA levels [J]. Hepatology,2010,52(2): 454-61.   
+[18]张金龙,何文南，黄志刚,等.HBsAg阴转的HBeAg阳性慢性乙型肝 炎27例临床分析[J].中国实用内科杂志,2009,23(2):45-6. (编辑.蒂开颜)

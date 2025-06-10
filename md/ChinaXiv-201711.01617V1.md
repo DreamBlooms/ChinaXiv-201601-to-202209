@@ -1,0 +1,198 @@
+# 谷氨酸对脂多糖刺激断奶仔猪肠道能量代谢的影响
+
+秦琴王秀英 吴欢听 朱惠玲 刘玉兰\*1（武汉轻工大学动物营养与饲料科学湖北省重点实验室，武汉430023）
+
+摘要：本试验旨在研究谷氨酸（Glu）对脂多糖（LPS）刺激断奶仔猪肠道能量代谢的影响。选择24头断奶仔猪分为4个组，分别为对照组、LPS 组、 $\mathrm { L P S + l } . 0 \%$ Glu组和 $\mathrm { L P S } { + } 2 . 0 \%$ Glu组，每组6个重复，每个重复1头猪。于试验第 28天，试验组猪注射 $1 0 0 ~ { \mu \mathrm { g / k g } }$ BWLPS，对照组注射等量的生理盐水， $^ { 4 \mathrm { h } }$ 后屠宰，取肠道样品待测。结果表明：1）与对照组相比，LPS 刺激导致断奶仔猪空肠三磷酸腺苷（ATP）、腺苷酸池（TAN）含量和能荷（EC）显著降低（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ ），一磷酸腺苷（AMP）/ATP值显著升高（ $\scriptstyle \cdot P < 0 . 0 5 .$ ）；与LPS 组相比， $\mathrm { L P S } { + } 2 . 0 \%$ Glu 组显著提高了空肠ATP、二磷酸腺苷（ADP）和TAN含量（ $P { < } 0 . 0 5$ ）。2）与对照组相比，LPS刺激导致断奶仔猪回肠柠檬酸合成酶和 $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } ~ } }$ -酮戊二酸脱氢酶系活性极显著降低（ ${ \cdot } P { < } 0 . 0 1$ ），空肠 $a -$ -酮戊二酸脱氢酶系活性有降低趋势（ $\scriptstyle P = 0 . 0 9 2$ ）；与LPS 组相比，除 $\mathrm { L P S + } 1 . 0 \%$ Glu组回肠柠檬酸合成酶活性显著降低（ $. P { < } 0 . 0 5 \$ ）外，Glu对空肠和回肠三羧酸循环关键酶活性无显著影响（ $. P { > } 0 . 0 5$ ）。3）与对照组相比，LPS刺激导致空肠过氧化物酶体增殖物激活受体 $\gamma$ 辅激活因子 $1 \alpha \ ( P G C 1 \alpha )$ ）及回肠沉默信号调控因子1（Sirt1）和 $P G C 1 a$ 的mRNA表达量极显著降低（ $_ { \scriptstyle P < 0 . 0 1 }$ ）；与LPS 组相比，$\mathrm { L P S } { + } 2 . 0 \%$ Glu 组有提高空肠PGC1α（ $\scriptstyle P = 0 . 0 6 7$ ）和回肠Sirt1（ $\scriptstyle P = 0 . 0 5 3$ ）mRNA表达量的趋势，$\mathrm { L P S + l } . 0 \%$ Glu组有提高回肠Sirt1的mRNA表达量的趋势（ $\scriptstyle P = 0 . 0 7 0$ ）。由此可见，Glu可以改善LPS刺激导致的肠道能量损耗状态。
+
+关键词：谷氨酸；脂多糖；断奶仔猪；肠道；能量代谢中图分类号：S828 文献标识码：A 文章编号：
+
+肠道是机体消化吸收的主要场所，也是阻止外界病原体和致癌物等有害物质对机体造成损害的生理屏障[1]。肠道需要很高的能量来维持其健康和功能[2]。而在应激状态下，机体能量代谢紊乱，三磷酸腺苷（ATP）含量明显降低，细胞功能障碍或死亡，导致肠道结构功能的损伤[3]。脂多糖（LPS）是革兰氏阴性菌膜结构物质。LPS 刺激可导致能量供应不足，引起肠道损伤[4]。谷氨酸（Glu）是一种酸性非必需氨基酸，对幼年动物的生长发育十分重要，与肠黏膜的生长代谢息息相关[5-6]。Stoll等[7]研究发现，饲粮中 $90 \%$ Glu 可在猪肠道中被代谢，是肠道主要的能源物质。Glu 的碳骨架分解后可形成 $\mathfrak { a }$ -酮戊二酸， $\mathfrak { a }$ -酮戊二酸可以进入三羧酸（TCA）循环氧化分解产生能量[8]。另外，Glu 是精氨酸家族氨基酸，可以转化为该家族其他氨基酸，如天冬氨酸、谷氨酰胺和精氨酸等，进一步在动物体内发挥作用[9]。但是，目前关于Glu 在肠道能量代谢方面的研究很少，且其发挥作用的分子机理尚不清楚。因此，本试验通过给断奶仔猪注射LPS 建立免疫应激模型[10]，研究Glu对断奶仔猪肠道能量代谢的影响，旨在为Glu 缓解LPS 刺激导致的断奶仔猪肠道损伤提供理论依据。
+
+1材料与方法
+
+# 1.1试验材料
+
+L-Glu：有效成分 ${ > } 9 9 . 1 \%$ ，武汉阿米诺科技有限公司提供。L-丙氨酸：有效成分 ${ \cdot > } 9 9 . 5 \%$ ，武汉阿米诺科技有限公司提供。LPS：大肠杆菌血清型O55：B5，Sigma 公司提供，注射时用生理盐水溶解，配成浓度 500$\mu \mathrm { g / m L }$ 。注射时按照 $0 . 2 \mathrm { m L / k g B W }$ （即 $1 0 0 ~ \mu \varrho / \ k \mathrm { g }$ BW）进行处理。
+
+# 1.2 试验动物与设计
+
+选择24头健康、体况相近[平均体重 $( 7 . 0 2 { \pm } 0 . 2 1 ) \mathrm { k g } ]$ 的杜 $\times$ 长 $\times$ 大断奶仔猪，按体重相近原则随机分为4组，每组6个重复，每个重复1头猪。试验采用单因子设计，4个组分别为：1）对照组（生理盐水 $^ +$ 基础饲粮）；2）LPS组（ $\mathrm { L P S + }$ 基础饲粮）；3） $\mathrm { L P S + 1 } . 0 \%$ Glu组（ $\mathrm { L P S + }$ 基础饲粮$+ 1 . 0 \%$ Glu）；4) $\mathrm { L P S } { + } 2 . 0 \%$ Glu组（ $\mathrm { L P S + }$ 基础饲粮 $+ 2 . 0 \%$ Glu）。参照NRC（1998）仔猪营养需要量配制基础饲粮，其组成及营养水平见表1。各组的饲粮用丙氨酸进行等氮处理。试验期为 28d。在正式试验第28天，试验组猪注射 $1 0 0 ~ \mu \varrho / \ k \mathrm { g }$ BWLPS，对照组猪注射等量的生理盐水。
+
+# 1.3 饲养管理
+
+试验在动物营养与饲料科学湖北省重点实验室进行。每个猪栏的大小为 $1 . 2 0 \ \mathrm { m } { \times } 1 . 1 0 \ \mathrm { m }$ 。猪舍的室内温度维持在 $2 5 { \sim } 2 7 \ \mathrm { ~ \textdegree ~ }$ 。试验采用粉料饲喂，饲养过程中让仔猪自由采食和饮水，并定期进行免疫和驱虫。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1 Composition and nutrient levels of the basal diet (air-dry basis）%   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米 Corn</td><td>57.47</td></tr><tr><td>豆粕 Soybean meal</td><td>22.00</td></tr><tr><td>鱼粉 Fish meal</td><td>6.00</td></tr><tr><td>次粉 Wheat middling</td><td>6.00</td></tr><tr><td>代乳粉Milk-replacer powder</td><td>4.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.20</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.00</td></tr></table></body></html>
+
+石粉 Limestone 0.65  
+$L .$ 赖氨酸盐酸盐 L-Lys·HCl 0.32  
+特丁基对苯二酚 TBHQ 0.05  
+食盐 NaCl 0.31  
+预混料 Premixl) 1.00  
+合计 Total 100.00  
+营养水平 Nutrient levels2)  
+消化能 DE/(MJ/kg) 13.60  
+粗蛋白质 CP 20.00  
+总磷TP 0.70  
+钙Ca 0.80  
+天冬氨酸 $^ { \circ } +$ 天冬酰胺 Asp+Asn 1.65  
+苏氨酸 Thr 0.74  
+丝氨酸 Ser 0.90  
+谷氨酸 $^ +$ 谷氨酰胺 $\mathbf { G } \mathbf { l } \mathbf { u } \mathrm { + } \mathbf { G } \mathbf { l } \mathbf { n }$ 2.97  
+脯氨酸Pro 1.11  
+甘氨酸Gly 0.70  
+丙氨酸 Ala 3.18  
+缬氨酸Val 0.63  
+异亮氨酸 Ile 0.55  
+亮氨酸Leu 1.45  
+酪氨酸Tyr 0.42  
+苯丙氨酸 Phe 0.71  
+组氨酸 His 0.51  
+赖氨酸Lys 1.02  
+精氨酸 Arg 0.96
+
+1预混料为每千克饲粮提供 Premix provided the following per $\mathrm { k g }$ of diet: VA 12 000 IU, $\overline { { \mathrm { V B } _ { 1 } ~ 1 . 5 ~ } } \mathrm { m g }$ ，核黄素riboflavin $4 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $4 0 \mathrm { m g }$ ，氯化胆碱 choline chloride $4 0 0 ~ \mathrm { { m g } }$ ，叶酸 folic acid $7 0 0 ~ { \mu \mathrm { g } }$ ， $\mathrm { V B } _ { 6 } 3$ mg， $\mathrm { V B } _ { 1 2 } 1 8 ~ \mu \mathrm { g }$ ， $\mathrm { V D } _ { 3 } 2 5 0 0 \mathrm { I U }$ ，VE 30 IU, $\mathrm { V K } _ { 3 } 3 \mathrm { m g }$ ，泛酸 pantothenic acid $1 5 ~ \mathrm { m g }$ ，生物素biotin $1 0 0 ~ \mu \mathrm { g }$ ，Mn$2 0 ~ \mathrm { m g }$ ， $\mathrm { S e } 0 . 3 6 \ : \mathrm { m g }$ ， $\mathrm { Z n 8 0 ~ m g }$ ， $\mathrm { C u } 2 5 \mathrm { m g }$ ，Fe 83 mg， $\mathrm { ~ I 0 . 4 8 ~ m g }$ 。
+
+2消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.4肠道样品采集与处理
+
+试验第 28天，注射LPS或生理盐水 $^ \textrm { \scriptsize 4 h }$ 后，屠宰仔猪，剖开腹腔从肠系膜处取下小肠。在空肠和回肠各段中部各取 $1 0 \mathrm { c m }$ 左右的一段，然后立即放入冰块中。将 $1 0 \mathrm { c m }$ 肠段用剪刀沿肠系
+
+膜纵向剖开， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 生理盐水轻轻冲洗干净，然后使用滤纸吸干水分，再用载玻片轻轻刮取肠黏膜，分装在 $1 . 5 ~ \mathrm { m L }$ 无菌冻存管中，并立即放入液氮中速冻，后转入一80℃冰箱中冻存。
+
+# 1.5 检测指标及方法
+
+# 1.5.1小肠黏膜腺苷酸含量测定
+
+采用反相高效液相色谱法测定。将肠黏膜从液氮中取出，称取 $0 . 1 { \sim } 0 . 2 \ \mathrm { g }$ 组织，加入 $2 { \mathrm { m L } }$ 预冷的 $1 . 5 \mathrm { m o l / L }$ 高氯酸，冰浴匀浆， $4 \ : \mathrm { ~ \textdegree ~ . ~ } 3 0 0 0 \ : \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 。取上清液 $1 \mathrm { m L }$ ，缓慢加入 $0 . 4 ~ \mathrm { m L }$ 2 mol/L碳酸钾溶液中和，4℃、 $3 0 0 0 \mathrm { r / m i n }$ 再离心 $5 \mathrm { m i n }$ ，取上清液一 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冻存待测。
+
+采用Waters Breeze 高效液相色谱系统。色谱柱采用WatersXTerra MS C18( $5 \mu \mathrm { m } { \times } 4 . 6 \ \mathrm { m m } { \times } 1 5 0$ mm）；流动相： $5 0 \mathrm { m m o l / L K _ { 2 } H P O _ { 4 } } – \mathrm { K H _ { 2 } P O _ { 4 } }$ 缓冲液：色谱级甲醇（体积比） $= 7 7 { : } 2 3$ ，用磷酸调至$\mathrm { p H } { = } 7 . 0$ ；流速： $1 . 0 \ \mathrm { m L / m i n }$ ；柱温： $2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ；紫外检测器，检测波长： $2 6 0 ~ \mathrm { n m }$ ；进样量： $1 0 ~ \mu \mathrm { L }$ 。采用外标法定量测定ATP、二磷酸腺苷（ADP）和一磷酸腺苷（AMP）含量。标准品也在相同的色谱条件下测定。
+
+腺苷酸池（TAN）=ATP+ADP $+$ AMP;
+
+能荷（EC） $\mathbf { \Sigma } = \mathbf { \Sigma }$ （ $\mathrm { \ A T P { + } } 1 / 2$ ADP）／（ATP+ADP $+$ AMP）
+
+1.5.2小肠黏膜柠檬酸合酶、 $\mathfrak { a }$ -酮戊二酸脱氢酶系和异柠檬酸脱氢酶活性测定
+
+酶活性的测定参照Pi等[的方法，采用酶联免疫吸附测定（ELISA）法进行测定。猪柠檬酸合酶（#45126）、α－酮戊二酸脱氢酶系（#45157）和异柠檬酸脱氢酶（#45234）ELISA 检测试剂盒生产厂家为上海源叶生物科技有限公司。
+
+1.5.3小肠黏膜能量代谢相关信号分子mRNA表达量的测定
+
+基因mRNA表达量的测定参照陈逢[12]的方法，采用实时定量PCR（real-time PCR）法测定，试剂均购自大连宝生物工程有限公司。根据已发表的猪的基因序列，利用Primer premier 6.0 软件设计real-time PCR引物（表2），并由大连宝生物工程有限公司合成。本试验中，各基因扩增效率均接近 $100 \%$ 。另外，本试验以甘油醛-3－磷酸脱氢酶（GAPDH）为内参基因，各基因mRNA表达量采用 $2 ^ { - \Delta \Delta \mathrm { C T } }$ 相对定量法计算[13]。各基因的 mRNA 相对表达量通过归一化法，以相对于对照组的表达量表示。
+
+表2基因的引物序列  
+Table 2Primer sequences of genes   
+
+<html><body><table><tr><td>基因 Genes</td><td>引物序列 Primer sequence (5'—3')</td><td>退火温度 Annealing</td><td>扩增长度 Amplification</td><td>参考序列 Reference</td></tr><tr><td></td><td></td><td>temperature/℃</td><td>length/bp</td><td>sequence</td></tr><tr><td>AMP 激活蛋白激α1 AMPKa1</td><td>F:AAATCGGCCACTACATCCTG R:GGATGCCTGAAAAGCTTGAG</td><td>60</td><td>187</td><td>NM_001167633.1</td></tr><tr><td></td><td></td><td>60</td><td>193</td><td></td></tr><tr><td>AMP 激活蛋白激α2</td><td>F: AACATGGACGGGTTGAAGAG</td><td></td><td></td><td>NM_214266.1</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>AMPKα2</td><td>R: CGCAGAAACTCACCATCTGA</td><td></td><td></td><td></td></tr><tr><td>沉默信号调控因子1</td><td>F: CTGGAACAGGTTGCAGGAAT</td><td>60</td><td>144</td><td>EU030283</td></tr><tr><td>Sirtl</td><td>R: CCTAGGACATCGAGGAACCA</td><td></td><td></td><td></td></tr><tr><td>过氧化物酶体增殖</td><td>F: GATGTGTCGCCTTCTTGTTC</td><td></td><td></td><td></td></tr><tr><td>物激活受体γ辅激活</td><td></td><td>60</td><td>93</td><td>NM_213963</td></tr><tr><td>因子1αPGC1α</td><td>R: CATCCTTTGGGGTCTTTGAG</td><td></td><td></td><td></td></tr><tr><td>甘油醛-3-磷酸脱</td><td>F:CGTCCCTGAGACACGATGGT</td><td></td><td></td><td></td></tr><tr><td>氢酶GAPDH</td><td>R:GCCTTGACTGTGCCGTGGAAT</td><td>60</td><td>194</td><td>AF017079.1</td></tr></table></body></html>
+
+# 1.6 统计分析
+
+试验数据采用 SPSS22.0统计软件进行单因素方差分析和LSD多重比较。统计结果采用平均值 $\pm$ 标准误表示。以 $P { \le } 0 . 0 1$ 为差异极显著标准， $0 . 0 1 { < } P { \le } 0 . 0 5$ 为差异显著标准， $0 . 0 5 { < } P { \le } 0 . 1 0$ 为具有显著性趋势。
+
+# 2结果与分析
+
+2.1Glu对LPS 刺激断奶仔猪肠道黏膜腺苷酸含量的影响
+
+由表3可知，与对照组相比，LPS 组空肠ATP、TAN含量和EC 显著降低( $( P { < } 0 . 0 5 )$ ，AMP/ATP值显著升高（ $( P { < } 0 . 0 5 )$ ）；与LPS 组相比， $\mathrm { L P S } { + } 2 . 0 \%$ Glu 组空肠 ATP、ADP和 TAN含量显著升高（ $. P { < } 0 . 0 5 \$ ）。
+
+2.2Glu对LPS刺激断奶仔猪肠道黏膜TCA循环关键酶活性的影响
+
+由表4可知，与对照组相比，LPS 组回肠柠檬酸合成酶和 ${ { \bf { a } } ^ { - } }$ 酮戊二酸脱氢酶系活性极显著降低（ ${ \cdot } P { < } 0 . 0 1$ ），空肠 ${ { \bf { a } } ^ { \mathrm { ~ - ~ } } }$ 酮戊二酸脱氢酶系活性有降低趋势（ $\scriptstyle P = 0 . 0 9 2 { \mathrm { ~ , ~ } }$ ）；与LPS 组相比，除$\mathrm { L P S + l } . 0 \%$ Glu 组回肠柠檬酸合成酶活性显著降低（ $_ { . P < 0 . 0 5 }$ ）外，饲粮添加Glu对LPS刺激断奶仔猪空肠和回肠TCA循环关键酶活性均无显著影响（ $P { > } 0 . 0 5 \$ ）。
+
+2.3Glu对LPS刺激断奶仔猪肠道能量黏膜代谢相关信号分子mRNA表达量的影响
+
+由表5可知，与对照组相比，LPS 组空肠过氧化物酶体增殖物激活受体 $\gamma$ 辅激活因子 $1 a$ $( P G C 1 a )$ ）及回肠沉默信号调控因子1（Sirt1）和 $P G C 1 \alpha$ 的mRNA表达量极显著降低（ $( P { < } 0 . 0 1 )$ ；与LPS 组相比， $\mathrm { L P S } { + } 2 . 0 \%$ Glu 组空肠 $P G C 1 a$ （ $\scriptstyle P = 0 . 0 6 7$ ）和回肠Sirt1（ $\scriptstyle P = 0 . 0 5 3$ ）的mRNA表达量有升高趋势， $\mathrm { L P S + l } . 0 \%$ Glu 组回肠Sirt1的mRNA表达量有升高趋势（ $\scriptstyle P = 0 . 0 7 0$ ）。
+
+表3GIu对LPS刺激断奶仔猪肠道黏膜腺苷酸含量的影响  
+Table 3Effect of Glu on adenylate contents in intestinal mucosa of the LPS-challenged weaned piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td><td colspan="3">P值 P-value</td></tr><tr><td>对照Control</td><td>LPS</td><td>LPS+1.0% Glu</td><td>LPS+2.0% Glu</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>空肠Jejunum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>三磷酸腺苷 ATP/(ug/g)</td><td>407±48</td><td>272±25</td><td>343±15</td><td>386±8</td><td>0.003</td><td>0.094</td><td>0.011</td></tr><tr><td>二磷酸腺苷 ADP/(ug/g)</td><td>238±9</td><td>232±11</td><td>245±4</td><td>266±9</td><td>0.662</td><td>0.315</td><td>0.014</td></tr><tr><td>一磷酸腺苷 AMP/(ug/g)</td><td>231±4</td><td>244±10</td><td>243±25</td><td>280±28</td><td>0.624</td><td>0.950</td><td>0.214</td></tr><tr><td>腺苷酸池 TAN/(ug/g)</td><td>876±57</td><td>748±27</td><td>831±28</td><td>932±31</td><td>0.027</td><td>0.136</td><td>0.003</td></tr><tr><td>能荷 EC</td><td>0.60±0.02</td><td>0.52±0.02</td><td>0.56±0.02</td><td>0.56±0.02</td><td>0.016</td><td>0.130</td><td>0.152</td></tr><tr><td>一磷酸腺苷/三磷酸腺苷 AMP/ATP</td><td>0.57±0.09</td><td>0.90±0.11</td><td>0.71±0.09</td><td>0.72±0.08</td><td>0.023</td><td>0.102</td><td>0.120</td></tr><tr><td>回肠 Ileum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>三磷酸腺苷 ATP/(ug/g)</td><td>272±28</td><td>241±23</td><td>286±42</td><td>262±25</td><td>0.475</td><td>0.309</td><td>0.632</td></tr><tr><td>二磷酸腺苷 ADP/(ug/g)</td><td>255±8</td><td>234±16</td><td>241±7</td><td>244±13</td><td>0.232</td><td>0.703</td><td>0.575</td></tr><tr><td>一磷酸腺苷 AMP/(ug/g)</td><td>398±62</td><td>359±23</td><td>381±41</td><td>416±64</td><td>0.594</td><td>0.761</td><td>0.440</td></tr><tr><td>腺苷酸池 TAN/(ug/g)</td><td>925±69</td><td>835±44</td><td>908±58</td><td>921±71</td><td>0.309</td><td>0.407</td><td>0.330</td></tr><tr><td>能荷EC</td><td>0.43±0.04</td><td>0.43±0.02</td><td>0.45±0.04</td><td>0.42±0.04</td><td>0.820</td><td>0.694</td><td>0.953</td></tr><tr><td>-磷酸腺苷/三磷酸腺苷 AMP/ATP</td><td>1.46±0.32</td><td>1.49±0.17</td><td>1.33±0.28</td><td>1.59±0.33</td><td>0.991</td><td>0.881</td><td>0.724</td></tr></table></body></html>
+
+.46 $P _ { 1 }$ ：对照组 vs.LPS 组 Control group vs.LPS group; $P _ { 2 }$ : LPS 组 vs. $\mathrm { L P S + l } . 0 \%$ Glu 组 LPS group vs. $\mathrm { L P S + l } . 0 \%$ Glu group; $P _ { 3 }$ : LPS 组 vs. $\mathrm { L P S } { + } 2 . 0 \%$ Glu 组 LPS group vs.47 $\mathrm { L P S } { + } 2 . 0 \%$ Glu group。下表同 The same as below。
+
+表4Glu对LPS刺激断奶仔猪肠道黏膜TCA循环关键酶活性的影响  
+Table 4Effectof Glu on activities of TCAcycle key enzymes in intestinal mucosa of theLPS-challenged weaned piglets   
+表5GIu对LPS刺激断奶仔猪肠道黏膜能量代谢相关信号分子mRNA表达量的影响  
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td><td colspan="3">P值 P-value</td></tr><tr><td>对照Control</td><td>LPS</td><td>LPS+1.0% Glu</td><td>LPS+2.0% Glu</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>空肠Jejunum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>柠檬酸合成酶 CS/(U/g prot)</td><td>1.88±0.14</td><td>1.66±0.12</td><td>1.53±0.11</td><td>1.41±0.10</td><td>0.205</td><td>0.447</td><td>0.149</td></tr><tr><td>异柠檬酸脱氢酶 ICD(U/g prot)</td><td>0.187±0.006</td><td>0.168±0.008</td><td>0.182±0.012</td><td>0.155±0.009</td><td>0.150</td><td>0.295</td><td>0.333</td></tr><tr><td>α-酮戊二酸脱氢酶系 OGDC/(μg/g prot)</td><td>3 146±217</td><td>2 706±168</td><td>2 492±66</td><td>2 532±209</td><td>0.092</td><td>0.399</td><td>0.493</td></tr><tr><td>回肠Ileum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>柠檬酸合成酶 CS/(U/g prot)</td><td>1.37±0.04</td><td>1.07±0.06</td><td>0.91±0.03</td><td>0.94±0.04</td><td><0.001</td><td>0.018</td><td>0.050</td></tr><tr><td>异柠檬酸脱氢酶 ICD/(U/g prot)</td><td>0.127±0.010</td><td>0.109±0.007</td><td>0.103±0.006</td><td>0.101±0.002</td><td>0.068</td><td>0.565</td><td>0.432</td></tr><tr><td>α-酮戊二酸脱氢酶系 OGDC/(μg/g prot)</td><td>2 566±198</td><td>1 638±266</td><td>1 716±205</td><td>1 934±231</td><td>0.009</td><td>0.812</td><td>0.367</td></tr></table></body></html>
+
+ssion of signal molecules related to energy metabolism in intestinal mucosa of the LPS-challenged weaned piglet:   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Group</td><td colspan="3">P值 P-value</td></tr><tr><td>对照Control</td><td>LPS</td><td>LPS+1.0% Glu</td><td>LPS+2.0% Glu</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>空肠 Jejunum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AMP 激活蛋白激α1 AMPKa1</td><td>1.00±0.02</td><td>1.02±0.05</td><td>0.99±0.06</td><td>1.04±0.13</td><td>0.891</td><td>0.820</td><td>0.820</td></tr><tr><td>AMP 激活蛋白激α2 AMPKα2</td><td>1.00±0.05</td><td>0.88±0.05</td><td>0.91±0.14</td><td>0.79±0.12</td><td>0.427</td><td>0.835</td><td>0.525</td></tr></table></body></html>
+
+<html><body><table><tr><td>沉默信号调控因子1 Sirt1 过氧化物酶体增殖物</td><td>1.00±0.06</td><td>0.96±0.06</td><td>0.94±0.08</td><td>0.82±0.08</td><td>0.647</td><td>0.879</td><td>0.174</td></tr><tr><td>激活受体γ辅激活因子 1α PGC1α 回肠 Ileum</td><td>1.00±0.08</td><td>0.45±0.04</td><td>0.54±0.07</td><td>0.63±0.07</td><td><0.001</td><td>0.368</td><td>0.067</td></tr><tr><td>AMP 激活蛋白激α1 AMPKa1</td><td>1.00±0.02</td><td>1.01±0.07</td><td>0.98±0.01</td><td>1.12±0.10</td><td>0.890</td><td>0.708</td><td>0.237</td></tr><tr><td>AMP 激活蛋白激 α2 AMPKα2</td><td>1.00±0.10</td><td>0.88±0.12</td><td>0.97±0.13</td><td>0.86±0.02</td><td>0.420</td><td>0.531</td><td>0.909</td></tr><tr><td>沉默信号调控因子1 Sirtl</td><td>1.00±0.04</td><td>0.82±0.01</td><td>0.90±0.04</td><td>0.91±0.02</td><td>0.001</td><td>0.070</td><td>0.053</td></tr><tr><td>过氧化物酶体增殖物 激活受体γ辅激活因子 1α PGC1α</td><td>1.00±0.12</td><td>0.43±0.07</td><td>0.59±0.11</td><td>0.56±0.09</td><td>0.001</td><td>0.261</td><td>0.357</td></tr></table></body></html>
+
+3讨论
+
+ATP是一种不稳定的高能化合物，它的3个磷酸基团中包含2个高能分子磷酸酐键，水解时转化成ADP释放出大量能量，是各种机体活动的直接能量来源，当底物代谢产生ATP的速度未能赶上其利用速度，就会增加细胞内ADP的浓度，2分子的ADP在腺苷酸激酶作用下转化成1分子ATP和1分子AMP8]。TAN是一个能量媒介系统，其大小反映了线粒体的氧化呼吸活性和生成高能磷酸化合物的能力，同时反映了细胞的能量储备[14]。EC反映了高能磷酸键在ATP、ADP和AMP之间的相互转换，EC的正常维持取决于细胞高能化合物合成和分解之间的动态平衡，细胞能量产生不足或消耗增加时，均会影响EC水平[15]。ATP的产生减少或利用增加，会使细胞内AMP/ATP值增加，而AMP/ATP值的增加可激活腺苷酸活化蛋白激酶(AMPK)，从而引起一系列反应来恢复细胞内的能量平衡[16]。
+
+本试验中LPS刺激导致断奶仔猪空肠ATP、TAN含量和EC显著降低，AMP/ATP值显著升高，这与Pi等[1]研究结果类似。王岩等[17]研究表明，LPS刺激可以影响线粒体内细胞色素氧化酶系统，阻碍呼吸链的传递，导致能量合成代谢障碍，ATP合成减少。本试验中，饲粮中添加 $2 . 0 \%$ Glu后，空肠ATP、ADP和TAN含量显著升高。Watford[18]研究表明，Glu的代谢为肠道完整性和功能维持提供了大量的ATP。Blachier等[19]研究表明，Glu在肠上皮细胞内谷氨酸脱氢酶的作用下被氧化，首先与草酰乙酸通过转氨基作用产生 $\ a \ ^ { - }$ 酮戊二酸和天冬氨酸， ${ { \bf { a } } ^ { - } }$ 酮戊二酸进入线粒体参加TCA循环，进而产生ATP。以上结果及分析表明，Glu可缓解LPS刺激导致的能量代谢障碍，促进能量生成，增加能量代谢能力和储备能力。
+
+柠檬酸合成酶、异柠檬酸脱氢酶和 $\mathfrak { a } -$ 酮戊二酸脱氢酶系是TCA循环的3个限速酶，调节着生物体的能量代谢和生物合成等重要生命活动[20]。柠檬酸合成酶可决定乙酰辅酶A进入TCA循环的速率，是研究能量代谢状态的重要指标[21]。异柠檬酸脱氢酶存在于线粒体和胞质中，催化异柠檬酸生成 $\alpha$ 酮戊二酸[22]。 $\mathbf { a }$ -酮戊二酸脱氢酶系存在于线粒体基质内，可催化 $\mathfrak { a }$ -酮戊二酸酸氧化脱羧生成琥珀酰辅酶A，同时生成还原型辅酶I（NADH）[23]。
+
+本试验中LPS 刺激导致空肠 $\mathfrak { a } -$ -酮戊二酸脱氢酶系活性有降低趋势，回肠柠檬酸合成酶和 $a -$ 酮戊二酸脱氢酶系活性极显著降低，这与石海峰[24]的研究一致。饲粮添加Glu 对柠檬酸合成酶、异柠檬酸脱氢酶和 $a -$ 酮戊二酸脱氢酶系活性无显著影响，其原因一方面可能是因为饲粮中添加Glu 后肠道 ATP含量显著升高，而这3种TCA循环限速酶含量受到ATP的抑制[20]；另一方面，Glu 可能不是通过影响酶活性来提高TCA循环的反应速率，而是通过转化为TCA循环的中间体$\mathfrak { a } -$ 酮戊二酸，进而改善肠道的能量代谢水平。研究表明， $\mathfrak { a }$ -酮戊二酸可以作为肠黏膜能量代谢底物[25]，饲粮添加 $a -$ -酮戊二酸有助于改善LPS 刺激后肠黏膜细胞的能量代谢[26]。
+
+AMPK 是一种高度保守的丝氨酸/苏氨酸蛋白激酶，广泛存在于真核细胞生物中，能感知细胞能量代谢状态的改变，维持机体的能量代谢平衡[27]。当 ATP 的产生减少或利用增加，导致细胞内 AMP/ATP 值增加时，AMPK可被激活，从而有助于ATP 再生和抑制ATP 消耗，维持能量平衡[28]。此外，AMPK的活化可激活其下游 Sirt1活性[29]。Sirt1是一种核蛋白，能通过增强肝脏糖异生、降低脂质积累和参与胰腺的胰岛素分泌使机体 ATP 的含量上升[30]。同时，Sirt1 可介导其下游靶点PGC1α发生去乙酰化，影响 PGClα的活性，最终调控线粒体和脂质代谢基因[31]。而PGClα是一种核转录辅激活因子，参与调节线粒体生物反应和葡萄糖脂肪代谢等生物反应[32]。
+
+本试验中，LPS刺激导致断奶仔猪空肠PGC1α及回肠Sirt1和 $P G C 1 \alpha$ 的mRNA表达量极显著降低。罗丽丽等[33研究发现，LPS 诱导 PC12 细胞凋亡过程中 Sirt1 的表达受到抑制。而 Glu缓解了LPS 刺激导致的空肠PGClα和回肠Sirtl的mRNA表达量的降低，表明Glu可以调节肠道能量代谢相关信号通路。Glu 是精氨酸家族氨基酸，可以转化为该家族其他氨基酸，如天冬氨酸、谷氨酰胺和精氨酸等，进一步在动物体内发挥作用[9]。Kang 等[34]研究表明，饲粮添加天冬氨酸可增加肝脏 Sirt1的mRNA表达量。Glu可能可以通过转化为天冬氨酸来提高肠道 Sirt1的mRNA表达量，进一步激活下游 PGC1α，从而促进 ATP 的产生。本试验中LPS 刺激和饲粮添加Glu 对空肠和回肠AMPKα1和AMPKα2的mRNA表达量均无显著影响，其原因可能是试验中仔猪肠道能量变化幅度未能达到AMPK 感受范围。有研究表明，细胞中ATP 的变化水平需达到一定的阈值才能使AMPK活化[35]。
+
+# 4结论
+
+Glu 缓解了LPS 刺激导致的断奶仔猪肠道能量代谢障碍，其可能是通过影响肠道能量代谢相关调控因子Sirt1和PGC1α的mRNA表达量，进而促进肠黏膜能量的产生。
+
+# 参考文献:
+
+[1] 杨凤娟,王春林,伍少钦,等.仔猪肠道健康的营养调控技术及其应用[J].中国畜牧杂 志,2015,51(18):54-61.   
+[2] WANG Y J,LIU W,CHEN C,et al.Irradiation induced injury reduces energy metabolism in small intestine of Tibet minipigs[J].PLoS One,2013,8(3):e58970.   
+[3] COYNE VE.The importance of ATP in the immune system of molluscs[J].Invertebrate Survival Journal,2011,8(1):48-55.   
+[4] GIANNONE P J,NANKERVIS C A,RICHTER JM,et al.Prenatal lipopolysaccharide increases postnatal intestinal injury in a rat model of necrotizing enterocolitis[J].Journal of Pediatric Gastroenterology and Nutrition,2009,48(3):276-282.   
+[5] FAN M Z,MATTHEWS J C,ETIENNE N M P,et al.Expression of apical membrane $L$ -glutamate transportersin neonatal porcine epithelial cells along the small intestinal crypt-vills axis[J].American Journal of Physiology:Gastrointestinal and Liver Physiol0gy,2004,287(2):G385-G398.   
+[6] WU G Y.Functional amino acids in nutrition and health[J].Amino Acids,2013,45(3):407-411.   
+[7] STOLL B,BURRIN D G,HENRY J,et al.Substrate oxidation by the portal drained viscera of fed piglets[J].American Journal of Physiology:Endocrinology and Metabolism,1999,277(1):E168-E175.   
+[8]周顺伍.动物生物化学[M].北京:化学工业出版社,2008:121-123.   
+[9]WU G Y,BAZER F W,DAVIS T A,et al.Important roles for the arginine family of amino acids in s wine nutrition and production[J].Livestock Science,2007,112(1/2):8-22.   
+[10]LIU Y L,HUANG J J,HOU Y Q,et al.Dietary arginine supplementation aleviates intestinal mucosal disruption induced by Escherichia coli lipopolysaccharide in weaned pigs[J].British Journal of Nutrition,2008,100(3):552-560.   
+[11]PI D A,LIU YL,SHI HF,et al.Dietary supplementation of aspartate enhances intestinal integrity andenergy status in weanling piglets after lipopolysaccharide challenge[J].The Journal of Nutritional Biochemistry,2014,25(4):456-462.   
+[12]陈逢.鱼油通过 TLR4 和 NOD 信号通路对脂多糖诱导的仔猪肠道、肝脏损伤和肌肉蛋白质 降解的调控作用[D].硕士学位论文.武汉:武汉轻工大学,2013.   
+[13]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the $2 ^ { - \Delta \Delta \mathrm { C T } }$ method[J].Methods,2001,25(4):402-408.   
+[14]KADENBACHB.RegulationofrespirationandATPsynthesisinhigher organisms:hypothesis[J].Journal of Bioenergetics and Biomembranes,1986,18(1):39-54.   
+[15]付大波,王友炜,侯永清,等 $. a -$ 酮戊二酸对脂多糖刺激断奶仔猪肌肉能量代谢的影响[J].中国 农业科学,2011,44(4):814-822.   
+[16]解雪芬,朱毅.AMPK与代谢综合征[J].基础医学与临床,2006,26(1):27-34.   
+[17]王岩,石冬梅,向瑞平,等.内毒素对肉鸡肠黏膜及肝线粒体复活体I活性的影响及氨基胍的 保护效应[J].中国兽医杂志,2012,48(7):14-16.   
+[18]WATFORD M.Glutamine metabolism and function in relation to proline synthesis and the safety of glutamine and proline supplementation[J].The Journal of Nutrition,2008,138(10):2003S-2007S.   
+[19]BLACHIER F,GUIHOT-JOUBREL GVAUGELADE P,et al.Portal hyperglutamatemia after dietary supplementation with monosodium glutamate in pigs[J].Digestion,1999,60(4):349-357.   
+[20]史红超,苏铁柱.三羧酸循环及其影响因素对运动能力的影响[J].辽宁体育科 技,2011,33(3):45-47,50.   
+[21]李望,胡盛寿,魏英杰,等.心肌梗死对大鼠心肌能量代谢途径中关键酶的影响及意义[J].中国 分子心脏病学杂志,2008,8(5):277-280.   
+[22]朱国萍,黄恩启,赵昂军.NADP-异柠檬酸脱氢酶的结构与功能[J].安徽师范大学学报:自然 科学版,2007,30(3):366-371.   
+[23]陆兆丰.线粒体异柠檬酸脱氢酶和 $\mathfrak { a }$ -酮戊二酸脱氢酶系活性与创伤性脑损伤的实验研究[D]. 博士学位论文.上海:上海交通大学,2007.   
+[24]石海峰.天冬氨酸对脂多糖刺激断奶仔猪肠道损伤的调控作用[D].硕士学位论文.武汉:武汉
+
+轻工大学,2013.
+
+[25]PIERZYNOWSKI S G,SJODIN A.Perspectives of glutamine and its derivatives as feed additives for farm animals[J].Journal of Animal and Feed Sciences,1998,7(1):79-91.
+
+[26]刘坚,侯永清,丁斌鹰,等 $a -$ 酮戊二酸对脂多糖应激仔猪肠黏膜能量代谢的影响[J].动物营养 学报,2009,21(6):892-896.   
+[27]HARDIE D GMinireview:the AMP-activated protein kinase cascade:the key sensor of cellular energy status[J].Endocrinology,2003,144(12):5179-5183.   
+[28]EVANS A M,MUSTARD K J,WYATT C N,et al.Does AMP-activated protein kinase couple inhibition of mitochondrial oxidative phosphorylation by hypoxia to calcium signaling in $\mathbf { O } _ { 2 }$ -sensing cells?[J].Journal of Biological Chemistry,2005,280(50):41504-41511.   
+[29]CANTO C,JIANG L Q,DESHMUKH A S,et al.Interdependence of AMPK and SIRT1 for metabolicadaptationtofastingand exerciseinskeletal muscle[J].Cell Metabolism,2010,11(3):213-219.   
+[30]张红胜,周玥.AMPK,SIRT1与能量代谢[J].国际病理科学与临床杂志,2009,29(3):202-206.   
+[31]JAGER S,HANDSCHIN C,ST.-PIERRE J,et al.AMP-activated protein kinase(AMPK) action in skeletal muscle via direct phosphorylation of PGC-lalpha[J].Proceedings of the National Academy of Science of the United States of America,2007,104(29):12017-12022.   
+[32]LIANG H Y,WARD W FPGC-1α:a key regulator of energy metabolism[J].Advances in Physiology Education,2006,30(4):145-151.   
+[33]罗丽丽,刘振华,谢惠芳,等.SIRT1在脂多糖诱导的PC12 细胞凋亡中的作用[J].中华神经医学 杂志,2012,11(4):332-336.   
+[34]KANG P,LIU YL,ZHU H L,et al.The effect of aspartate on the energy metabolism in the liver of weanling pigs challengedwithlipopolysaccharide[J].European Journal of Nutrition,2015,54(4):581-588.   
+[35]WIJESEKARA N,TUNG A,THONG F,et al.Muscle cel depolarization induces a gain in surface GLUT4viareducedendocytosisindependentlyofAMPK[J].AmericanJournalof Physiology,2006,290(6):E1276-E1286. Effects of Glutamate on Intestinal Energy Metabolism in the Lipopolysaccharide-Challnged Weaned Piglets QIN QinWANG Xiuying WU Huanting ZHU Huiling LIU Yulan\*i (Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, Wuhan 430023, China)   
+Abstracts: This study was aimed to investigate the efects of glutamate (Glu) on intestinal energy   
+metabolism in the lipopolysaccharide (LPS)-challenged weaned piglets. Twenty-four weaned pigs were   
+assigned to four groups as control group, LPS group, $\mathrm { L P S + l } . 0 \%$ Glu group and $\mathrm { L P S } { + } 2 . 0 \%$ Glu group
+
+with 6 replicates each and 1 pig in per replicate. On the $2 8 ^ { \mathrm { t h } }$ day of the trial,the piglets in the experimental groups were injected with $1 0 0 ~ { \mu \mathrm { g / k g } }$ BW LPS,and the piglets in the control group were injected with the same amount of $0 . 9 \%$ NaCl solution. At $^ { 4 \mathrm { h } }$ post-injection, pigs were slaughtered and intestinal samples were collcted for further analysis. The results showed as follows: 1) LPS challenge significantly decreased ATP and total adenine nucleotide (TAN) contents and energy charge $( P { < } 0 . 0 5 )$ ， but significantly increased the ratio of AMP to ATP $( P { < } 0 . 0 5 )$ in jejunum compared with the control group; $\mathrm { L P S } { + } 2 . 0 \%$ Glu group significantly increased the contents of ATP,ADP and TAN $( P { < } 0 . 0 5 )$ in jejunum compared with LPS group. 2) Compared with the control group,LPS challnge had a tendency to decrease the alpha-oxoglutarate dehydrogenase complex activity $\scriptstyle { \cal P = } 0 . 0 9 2 \$ ) in jejunum and extremely significantly decreased the activities of citrate synthase and alpha-oxoglutarate dehydrogenase complex $( P { < } 0 . 0 1 )$ in ileum; compared with LPS group,Glu had no significant effects on the activities of tricarboxylic acid cycle key enzymes $( P { > } 0 . 0 5 )$ in jejunum and ileum,except for the citrate synthase activity in ileum was significantly reduced in $\mathrm { L P S + l } . 0 \%$ Glu group $( P { < } 0 . 0 5 )$ ．3）LPS challenge extremely significantly decreased the mRNA expressions of peroxisome proliferator-activated receptor gamma coactivator- $1 \alpha$ （20 $( P G C 1 \alpha )$ in jejunum and silent information regulator 1 (Sirtl） and $P G C 1 \alpha$ in ileum $( P { < } 0 . 0 1 )$ compared with the control group; compared with LPS group, $\mathrm { L P S } { + } 2 . 0 \%$ Glu group had a tendency to increase the mRNA expressions of $P G C 1 a$ in jejunum（ ${ \it P } { = } 0 . 0 6 7 { \it \Omega }$ ）andSirtl inileum $\scriptstyle ( P = 0 . 0 5 3 )$ ，while $\mathrm { L P S + l } . 0 \%$ Glu group had a tendency to increase the Sirtl mRNA expression in ileum $( P { = } 0 . 0 7 0 )$ . These results indicate that dietary supplementation of Glu can improve energy loss status in LPS injured intestine.
+
+Key words: glutamate; lipopolysaccharide; weaned piglets; intestine; energy metabolism

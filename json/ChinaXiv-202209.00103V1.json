@@ -1,0 +1,686 @@
+[
+    {
+        "type": "text",
+        "text": "9\\~12岁儿童应激与额颞区的关联：来自多模态脑 影像的证据 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李为」 边子茗」陈曦梅」王俊杰1罗一君1刘永1,² 宋诗情」高笑1,² 陈红1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西南大学心理学部，重庆 400715)(西南大学认知与人格教育部重点实验室，重庆400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 首次采用多模态数据结合机器学习的方法考察了78 名学龄儿童(女性39名，平均年龄 10.18 岁)应激的神经关联。结果表明，儿童应激水平与内侧眶额叶、脑岛、颞上回和辅助运动区的灰质体积呈显著正相关；而与脑岛和顶下小叶之间的功能连接强度呈显著负相关。这表明涉及情绪加工的前额叶-边缘-颞叶脑区可能在儿童应激的个体差异中起着关键作用，而负责整合内外部信息(如，积极的自我评价和外部消极刺激)的脑岛与顶下小叶之间功能同步性的增加与儿童应激的降低有密切关联。基于结构网络的预测分析显示，感觉运动、额顶、突显、视觉和小脑网络对儿童应激水平具有较好的预测能力。研究不仅丰富了儿童应激神经基础的实证证据，而且对儿童应激的早期预防策略和干预手段具有启示意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词应激，儿童，灰质体积，静息态功能连接，机器学习，结构网络",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应激(stress)是指个体感知需求与满足需求的能力出现不平衡时的紧张状态，个体通常会改变自身的心理和生理反应以适应这一状态(Lazarus &Folkman,1984)。人们普遍认为应激主要出现在成年群体中(Vanaelst et al.,2012)，但学龄儿童也会面对应激性事件，这些消极事件主要来自于家庭生活、学习生活、同伴关系以及生活适应(Calem etal.,2017；刘舒丹 等,2016)。学龄时期的儿童开始参与学校社会活动，主要接触者从父母变为老师和同学，这种更加复杂的外部环境使得消极事件的发生率增加(Vanaelst et al,2012)。与此同时，儿童的大脑发育和心理功能发展还欠成熟，这使得他们在面对消极事件时往往不能作出恰当反应，并更易受到消极事件的影响从而出现应激症状(McLaughlin et al.,2009)。更重要的是，生命早期应激会对儿童认知和情感等方面造成影响，甚至是个体毕生精神疾病的有力预测因子(Berenset al.,2017; Smith &Pollak,2020)。正如应激敏感模型(the stress sensitization model)所揭示的那样，童年期逆境增加了个体生命后期对应激生活事件的易感性，从而增加了患精神疾病的风险(Hammen et al,2000;McLaughlin et al.,2010)。目前已有学者从神经科学的角度对成人应激的神经机制进行了大量的探索，但关于儿童应激的神经基础的研究一定程度上还不够充分。因此，探讨儿童时期应激的神经生物学标记是了解应激对个体产生消极影响的一个关键问题，进而为针对儿童应激的早期预防和干预策略的开发提供有力证据(McLaughlin et al.,2017; Shonkoffet al.,2009)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，越来越多形态学(voxel-based morphometry,VBM)和静息态磁共振(resting-state functionalMRI,rs-fMRI)的研究从神经基础的角度揭示了儿童应激与大脑结构和功能差异的关系。VBM技术主要根据大脑形态学指标来考察脑区结构的变化，可用于研究心理现象与局部脑组织变化的关系，其中灰质体积是VBM 的常用指标之一(Ashburmer &Friston,2000; Mecheli et al.,2005)。现有 VBM 证据主要聚焦于具有严重创伤经历(如暴力、虐待等)的个体或患有应激相关障碍(如创伤应激障碍[post-traumatic stressdisorder,PTSD]、焦虑症和抑郁症等)的临床病人。具体而言，Lim等人通过基于体素的元分析研究表明，在经历童年虐待的个体中，灰质的异常出现在发育相对较晚的前额叶-边缘-颞叶区，该区域涉及情绪和认知控制功能(Lim et al.,2014)。这一发现在PTSD、焦虑症和重度抑郁症患者中也得到了印证(见综述，Serra-Blasco et al.,2021)。鉴于极端应激事件较少发生于日常生活中(Demir-Lira et al.,2016)，因此有学者开始关注更具普遍性的应激生活事件以探究一般性应激水平的神经基础。譬如，Ringwald 等人采用应激生活事件量表评估个体的应激水平(如，更换工作类型、金融危机等)，并表明成人应激水平越高，内侧眶额叶(medial orbitofrontal cortex,mOFC)的灰质体积越小(Ringwald et al.,2021)。一项比较了青少年和成人与应激有关的灰质体积的差异研究进一步发现，应激水平与OFC、脑岛和杏仁核的灰质体积在成人中呈负相关，而在青少年中呈正相关(Wu et al.,2021)，这为探究一般性生活应激与儿童脑结构的关系提供了部分实证支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rs-fMRI能测量在休息状态下大脑自发神经活动的变化(Zuo etal.,2012)；相比于任务态 fMRI，该方法的结果独立于实验任务。功能连接(functional connectivity,FC)是rs-fMRI研究中常用的有效指标之一，被用于反映脑区之间的协同性以及这种协同性与某种特定的心理和行为之间的关系(Mennes et al,2010)。近年来，该技术在应激相关的研究领域中已取得一定成果，许多证据表明童年创伤应激与脑区间的连接强度改变有关，包括 OFC、海马、杏仁核和脑岛(Goetschius et al.,2020; Lu et al.,2017; Sheyninet al.,2020)。Thomason 等人的研究表明，9\\~15 岁高创伤组被试在脑岛-杏仁核、OFC-脑岛的FC 强度显著高于控制组(Thomason et al.,2015)。对15\\~17岁的青少年而言，童年暴力暴露程度越高，脑岛和顶下小叶(inferior parietal lobule,IPL)之间的连接强度越弱(Goetschius et al.,2020)。与此同时，任务态 fMRI研究表明儿童应激与上述脑区的异常激活有关。相比于控制组，PTSD儿童在情绪加工任务中(如，情绪识别任务和内隐情绪任务)，其前额叶、脑岛和颞上回(superior temporal gyrus,STG)表现出异常激活，并在行为上表现出对恐惧表情的识别更快以及对消极词汇颜色判断的正确率更低(Calderon-Delgado et al,2020; Hart et al., 2018)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，虽然已有不少研究探讨了应激和大脑结构和功能的关系，但仅有部分研究关注儿童应激的神经关联，更鲜少有研究直接考察儿童日常生活应激事件与神经结构和功能的关系。大多数研究皆关注符合 PTSD 诊断标准的临床儿童(Sheynin etal.,2020)或是经历了严重创伤事件(如，性虐待、身体虐待和被抚养者遗弃等)的儿童(Hart et al.,2018;Thomason et al.,2015)。这类严重的应激事件较少发生在日常生活中，并没有囊括来自家庭生活、学习生活、同伴关系以及生活适应等方面的应激事件，致使研究结果难以推广到一般儿童群体中。为此，本研究将采用全面涵盖了儿童日常应激事件的小学生应激性生活事件量表以测量儿童应激水平(刘舒丹 等,2016)。其次，目前儿童应激的神经证据大多都是基于单一神经模态的分析方法得到的，鲜少有研究采用多模态数据探究儿童应激的神经基础。有研究者指出，大脑结构和功能网络同步发展，结构网络为功能网络的发展和整合的提供了内部生理框架，因此在考察不良心理现象对个体发展的潜在危害时，要同时考虑结构和功能两种模态(Grayson etal.,2017)。例如，Spati等人(2015)通过分析重度抑郁症患者的皮质厚度和FC 表明，在抑郁发作期间前额叶皮质变薄可能会损害前扣带回的神经活动(Spati et al.,2015)。基于此，本研究将结合结构态(sMRI)和静息态(rs-fMRI)来探究儿童应激的潜在神经关联。首先，以灰质体积作为VBM的指标分析与儿童应激水平显著相关的脑区。随后，以这些脑区为感兴趣区(region of interest,ROI)估计与儿童应激显著相关的FC。鉴于海马和杏仁核是儿童应激重要脑区(Agorastos,et al.,2018;McLaughlin et al.,2017)，因此也考察了海马和杏仁核与全脑的FC。根据前人研究，我们假设：儿童应激水平主要与前额叶-边缘-颞叶脑区的灰质体积和功能连接有关，如OFC、脑岛、海马和杏仁核。除上述节点水平的分析外，本研究还采用了机器学习的方法在网络水平上对儿童应激的个体差异进行预测，进而为脑与应激的关系提供稳健性支持。综上，本次研究从多模态的视角考察儿童应激的神经基础，并为儿童日常应激的干预策略和创伤应激的治疗方案提供更具有针对性的证据(Insel,2009; Shonkoff et al.,2009)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验被试来自于中国西南地区的两所公立小学，一共招募了139名小学生被试。所有被试均为右利手，根据自我报告和学校学生档案记录，所有被试精神状态良好，无精神或神经疾病史或服用精神类药物。查看学生学校档案记录在被试参加实验之前已经告知被试及其家长，并得到了他们的同意。共回收有效问卷139份，其中130名被试进行了rs-MRI扫描，数据采集时间为2018年4月至2018年10月。剔除有质量问题和头动过大的被试后(见2.3.3节),剩余78人纳入正式分析(女性39人，平均年龄 $= 1 0 . 1 8$ $\\pm 1 . 0 2$ 岁)。保证所有参与者及其父母在实验前均签署了知情同意书，每位被试在实验结束后获得文具作为奖励，并为家长提供项目指标检测报告。本研究所有实验程序均通过了西南大学学术伦理委员会的批准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2量表工具",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1小学生应激性生活事件量表",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用由刘舒丹等人(2016)编制的适用于我国小学生的应激性生活事件量表(the Scale of Stressful LifeEvents for Primary School Students,SSLEPSS)。该量表包含5个维度，共 30 个题项。其中，家庭生活应激维度包含9个题项(如，“爸爸妈妈吵架或打架”）、师生关系应激维度包含5个题项(如，“老师严厉的批评我”）、学习适应应激维度包含5个题项(如，“作业不会做”）、同伴关系应激维度包含7个题项(如，“和好朋友闹别扭”)和生活适应应激维度包含4个题项(如，“中午或晚上睡不着觉”)。参与者首先对“近半年有无该应激事件”进行“有”或“无”的报告，再根据实际经历或感受对其影响进行 5点评分，1表示“没有影响”，5表示“超级难过”。总分越高代表应激水平越高。该量表包含了对儿童具有较大影响的创伤应激事件(如，“父母分居或离婚”)以及具有潜在影响的日常应激事件(如，“被迫睡觉”），以便更全面地测量儿童应激水平。本研究中，该量表的Cronbach's $\\boldsymbol { a }$ 系数为0.92。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2积极消极情绪量表",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用由 Watson 等人(1988)编制的积极消极情绪量表(Positive and Negative Affect Schedule,PANAS)。该量表包括积极情绪和消极情绪两个分量表，采用Likert5点计分，从1到5分别代表“完全没有”至“非常多”，分数越高代表个体体验到积极或消极情绪越强烈。本研究中，积极情绪分量表的Cronbach's$\\scriptstyle a$ 系数为0.79，消极情绪分量表的Cronbach's $\\scriptstyle a$ 系数为0.75。本研究只使用了消极情绪分量表的得分以分析消极情绪与儿童激应水平和应激相关脑指标的关联。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3脑影像数据采集与预处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1数据采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有被试均完成了5分钟的结构像扫描和8分钟的静息功能像扫描，所有影像数据均通过西南大学脑成像中心的西门子扫描仪(3.0TSiemens Trio MRI)进行采集。在正式扫描前，每名被试均进行了模拟扫描练习以适应扫描环境，从而减少头动影响。在正式扫描前，调整被试头部至舒适的位置，再用海绵进行固定；在扫描过程中，要求被试睁开眼睛，平躺休息，不做思考也不要睡着。采用快速梯度回波成像(Magnetization Prepared Rapid Acquisition Gradient Echo Sequences，MPRAGE)采集 T1 加权结构像，扫描参数为：回波时间 $( { \\mathrm { e c h o ~ t i m e } } , { \\mathrm { T E } } ) = 3 . 4 8 ~ { \\mathrm { m s } }$ ，重复时间(repetition time,TR)= 2530 ms，反转时间(inversion time, $\\mathrm { T I } ) = 1 9 0 0 ~ \\mathrm { m s }$ ，翻转角(flip angle,FA) $= 7 ^ { \\circ }$ ，视野大小(field of vision, $\\mathrm { F O V } ) = 2 5 6 \\times 2 5 6$ $\\mathrm { m m } ^ { 2 }$ ，成像矩阵(matrix size) $= 2 5 6 \\times 2 5 6$ ，层间距(distance between slice) $= 1 . 0 \\mathrm { m m }$ ，体素大小(voxel size) $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （204号 $1 \\times 1 \\times 1 ~ \\mathrm { m m } ^ { 3 }$ 。采用梯度回波平面成像扫描序列(Gradient echo-echo planar imaging,GRE-EPI)采集静息功能图像，扫描参数为： $\\mathrm { T E } = 3 0 ~ \\mathrm { m s }$ ， $\\mathrm { T R } = 2 0 0 0 \\ : \\mathrm { m s }$ ， $\\mathrm { F A } = 9 0 ^ { \\circ }$ ， $\\mathrm { F O V } = 2 2 4 \\times 2 2 4 ~ \\mathrm { m m } ^ { 2 }$ ，matrix size $= 6 4 \\times 6 4$ ，层数 $( { \\mathrm { S l i c e } } ) = 3 3$ ，厚度(thickness) $= 3 . 5 \\mathrm { m m }$ , distance between slice $\\mathbf { \\tau } = 1 \\mathrm { m m }$ , voxel size $= 3 . 5 \\times 3 . 5 \\times 3 . 5 \\mathrm { m m } ^ { 3 }$ 。一共获得180 个时间点的连续图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2结构态与静息态数据预处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用基于 Matlab R2014a 平台上运行的 SPM12(htp://www.fil.ion.ucl.ac.uk/spm/)软件中的 CAT 12 插件(htp://www.neuro.uni-jena.de/cat12-html/cat.html)对 sMRI数据进行预处理。预处理步骤如下：(1)图像质量较差或有解剖学异常的大脑图像予以剔除；(2)组织分割，将T1加权图像分割成灰质、白质和脑脊液三种组织类型;(3)采用 DARTEL(difeomorphic anatomical registration through exponentiated Lie algebra)配准方式将结构像数据配准到 MNI(montreal neurological institute)空间，并使用雅可比行列式对图像进行非线性调节，标准化后的体素大小是 $1 . 5 \\times 1 . 5 \\times 1 . 5 \\mathrm { m m } ^ { 3 }$ ；(4)采用 $8 \\mathrm { m m }$ 平滑核进行平滑(smooth)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用基于 Matlab R2014a 平台上运行的 DPARSF 5.2 软件(htp://www.restfmri.net/forum/DPARSF)对rs-MRI数据进行预处理(Yan,Wang,Zuo,& Zang,2016)。预处理步骤如下：(1)数据质量检查；(2)剔除前10个时间点，对剩余层数进行时间层校正(slice timing)；(3)头动校正(realignment)；(4)采用 DARTEL 方法将处理后数据标准化到MNI标准空间模板，标准化后的体素大小是 $3 \\times 3 \\times 3 ~ \\mathrm { m m } ^ { 3 }$ ； (5)采用 $6 \\mathrm { m m }$ 平滑核进行平滑(smooth)；(6)采用Friston 24方法回归掉头动信号以及白质与脑脊液信号，所有被试头动(mean framewise displacement, mean FD)大小均小于 $0 . 5 \\mathrm { m m }$ ； (7)提取低频段 $0 . 0 1 { \\sim } 0 . 1 \\mathrm { H z }$ 的信号。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3数据质量监控和头动控制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在预处理前，由两名心理学专业博士对所有被试(139名)的结构态数据进行初级的视觉筛查(对数据质量进行总共四次的主观评分)，据此剔除了49 名存在结构异常或大量伪影的被试(其中女性15人)。其次，根据广泛使用的静息态头动标准对剩余81名被试进行头动控制，即 mean FD_Jenkinson 值 $\\cong 0 . 5 \\ \\mathrm { m m }$ 的被试会被剔除(Jenkinson et al.,2002)。本研究进一步剔除了3名应激分数为0的被试，最终78 名被试(其中女性39人)纳入正式统计分析。随后，鉴于扫描过程中头部运动可能会对感兴趣变量的神经基础造成潜在影响(Shen et al.,2017)，因此需要确保感兴趣变量与头动指标不存在显著相关。当前数据显示，头动指标(mean FD)与应激分数的相关系数不显著(头动与应激原始分数的相关结果： $r = 0 . 0 4$ ， $p = 0 . 7 1$ ：头动与应激正态转换分数[应激水平(stress_sqrt)；见3.1节]的相关结果： $r = 0 . 0 9$ ， $p = 0 . 4 6$ ；见表1)。最后，在统计分析中，将头动纳入协变量以进一步控制其对结果的影响(Horien et al.,2018;Waller et al.,2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.4结构网络构建",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用弥散张量成像构建个体水平网络可能重建出不存在的伪连接(梁夏 等,2010;Jones &Cercignani,2010)；而使用T1像构建组水平结构协变网络不仅忽略了个体差异，还忽略了各个脑区形状和大小的差异。鉴于上述缺点，本次基于 Shen 等人(2013)的模板构建个体水平的结构脑网络，采用 KL散度相似度(Kullback-Leibler divergence-based similarity,KLS)来量化脑区之间的结构连接值，作为脑网络中边的值。该方法可以估计不同形状和大小脑区之间的关系,是一种表征大脑组织的可靠方法(Kong etal.,2014)。首先，提取出脑模板中 268 个脑区的灰质体积的值。其次，使用核密度估计(kemel densityestimation,KDE)计算出每个脑区灰质体积的概率密度函数,根据概率密度函数得到每个脑区灰质体积值的概率分布函数(Wang et al.,2016)。随后，计算每对脑区概率分布函数之间的差异即为每对脑区 KL 散度的值以此作为结构连接的数值。最后，获得 $2 6 8 \\times 2 6 8$ 的结构矩阵。为了在网络水平上解释本次结果，使用了Noble 等人(2017)对脑网络的划分,包括8个网络,即内侧额叶网络(medial frontal network,MFN)、额顶网络(frontoparietal network,FPN)、默认网络(default mode network,DMN)、感觉运动网络(sensorimotor network,SMN)、突显网络(salience network,SAN)、视觉网络(包含视觉1、2 区和视觉联合区;visual network,VN)、皮下网络(subcortical network, SCN)和小脑网络(cerebellar network)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1全脑水平分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "灰质体积分析。在全脑水平上，使用 SPM12软件对儿童应激水平与灰质体积进行多重线性回归分析，并以年龄、性别和颅内总体积(total incranial volume,TIV)作为协变量。采用体素水平 $p < 0 . 0 0 5$ ，团块水平 $p < 0 . 0 5$ 的高斯随机场(Gaussian Random-Field,GRF)多重比较矫正，以获得与儿童应激显著相关的灰质体积脑区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于种子点的FC 分析。首先，采用与应激显著相关的灰质体积的脑区峰值坐标作为ROI，画半径为 $5 \\mathrm { m m }$ 的小球。同时，选择自动解剖标记图谱(Automated Anatomical Labeling,AAL; Tzourio-Mazoyer etal.,2002)中的杏仁核和海马(与儿童应激相关的重要脑区；Agorastos,et al.,2018;McLaughlin et al.,2017)作为ROI。其次，提取每个被试ROI内体素的时间序列，用基于体素的相关分析法计算ROI与全脑其他脑区之间的皮尔逊相关系数 $\\boldsymbol { r }$ ，将 $\\boldsymbol { r }$ 值进行Fisher $z$ 转化。最后，使用DPABI软件计算儿童应激水平与功能连接强度的相关。鉴于年龄和性别被证实与FC 有关(Feng et al.,2018;Hsu et al.,2018)，以及核磁扫描过程中的头部运动是影响 FC 的主要因素之一(Horien et al.,2018;Waler et al.,2017)。因此，本研究不仅回归了年龄和性别的影响(如童丹丹 等,2020)，同时还对被试头动进行了控制，采用体素水平 $p <$ 0.005，团块水平 $p < 0 . 0 5$ 的 GRF 多重比较矫正，以获得与儿童应激显著相关的FC。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.2机器学习的预测模型分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用相关向量回归(relevance vector regression,RVR)预测儿童应激水平。每个被试的结构网络作为特征变量来建立预测儿童应激水平的RVR预测模型。RVR 是基于概率贝叶斯框架下的一种稀疏核的多元回归的机器学习方法。函数表达式为： $\\begin{array} { r } { f ( { x } _ { i } ) = \\sum _ { s = 1 } ^ { l } \\beta _ { s } \\left( { x } _ { i } \\cdot { x } _ { s } \\right) + \\beta _ { 0 } } \\end{array}$ 。对模型权重使用显式零均值的高斯先验过程，大多数权重被设为零，只有部分样本用来训练模型，这些样本被称为“相关向量”，用于拟合预测模型。随后，采用最大似然估计法确定模型参数 $\\boldsymbol { \\beta }$ 。模型回归系数为“相关向量”样本的特征向量的加权和(Tipping,2001)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "运用留一交叉验证(leave-one-out cross-validation,LOOCV)建立RVR 预测模型。具体过程如下：首先，将总数据样本随机分为训练集(training set)和测试集(test set)，每次随机挑选一个数据样本(即，N-1名被试)作为训练集用于建立RVR预测模型，剩下的数据样本(1名被试)均为测试集用于测试RVR 模型的预测能力。随后，再计算测试集观测值和预测值之间的相关系数r(predicted,observed)。最后运用置换检验(permutation test)将上述步骤重复 2000 次，获得一个含有 2000 个 $\\boldsymbol { r }$ 的零分布，根据 $r _ { ( }$ predicted, observed)在零分布的位置来评估其显著性 $p$ 值。 $p$ 值 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 置换值 $\\boldsymbol { r }$ 大于或等于r(predicted,observed)的次数/总置换次数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "特征向量的权重绝对值用于衡量该特征对预测模型的贡献率，绝对值越大代表该特征对模型的贡献率越大。本研究取贡献率在前 $10 \\%$ 的脑区。此外，根据公式 $\\ b { A } = \\operatorname { c o v } ( \\ b { X } ) \\times \\ b { W } \\times \\operatorname { c o v } ( \\ b { S } ) ^ { - 1 }$ 对权重进行了“激活模式”转换，以阐明脑区与预测的行为变量之间的相关(Haufe et al.,2014,Zhou et al.,2021)，即正网络与预测变量正相关，负网络与预测变量负相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5探索性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.1应激与脑指标相关的性别差异 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在全脑水平上，使用 SPM12软件对性别、应激水平(stress_sqrt)以及两者的交互项构建多重线性回归模型，分析性别与应激水平在灰质体积上是否存在交互作用，协变量为年龄和 TIV。采用体素水平 $p$ $< 0 . 0 0 5$ ，团块水平 $p < 0 . 0 5$ 的GRF多重比较矫正。随后，提取出显著的灰质体积脑区的信号值，采用SPSS 26.0软件，分别在男性和女性组计算儿童应激水平(stress_sqrt)与对应脑区的相关系数，以进一步考察儿童应激与脑指标的显著相关是否具有性别差异。若存在显著脑区，则以该脑区的峰值坐标为圆心画 $5 \\mathrm { m m }$ 半径的小球，作为功能连接的种子点。同样采用多重线性回归模型分析性别与应激水平在该脑区功能连接上的交互作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.2应激与脑指标相关的年龄特征 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在全脑水平上，使用 SPM12 软件对年龄、应激水平(stress_sqrt)以及两者的交互项构建多重线性回归模型，分析年龄与应激水平在灰质体积上是否存在交互作用，协变量为性别和 TIV。采用体素水平 $p$ $< 0 . 0 0 5$ ，团块水平 $p < 0 . 0 5$ 的GRF多重比较矫正。随后，提取出显著的灰质体积脑区的信号值，采用SPSS 26.0软件，分别在不同年龄组计算儿童应激水平(stress_sqrt)与对应脑区的相关系数，以进一步考察哪一年龄组的应激与脑指标显著相关。若存在显著脑区，则以该脑区的峰值坐标为圆心画 $5 \\mathrm { m m }$ 半径的小球，作为功能连接的种子点。同样采用多重线性回归模型分析年龄与应激水平在该脑区的功能连接上的交互作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1正态性检验与行为结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，根据以往研究中所采用的方法(如Wallace et al.,2020)，本次实验去掉了3名在应激总分上为0分的被试，最终78名被试纳入统计分析。其次，鉴于计算脑指标与应激的皮尔逊相关要求数据呈正态分布，因此对儿童应激得分进行正态性检验(Kolmogorov-Smirmov test,K-S 检验)，结果显示应激原始分数为非正态分布(K-S 检验， $p < 0 . 0 0 1$ ；见图1A)。随后，对原始应激分数进行平方根变换(square roottransformation)(如 Ferketich et al.,2005;Song,2013)以得到服从正态分布的应激分数(stress_sqrt) (K-S 检验， $p = 0 . 2 0$ ；见图1B)。后续统计分析均使用应激水平(stress_sqrt)作为自变量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "样本的人口学信息和儿童应激得分的描述性统计见表1和图1C。应激原始分数无显著性别差异，$t _ { ( 7 6 ) } = 1 . 6 6$ ， $p = 0 . 1$ 。应激原始分数与年龄相关不显著， $r = - 0 . 0 4$ ， $p = 0 . 7 2$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/010d882826c0afed2dad60051782971ea9685514806b78df39826006009c78c5.jpg",
+        "table_caption": [
+            "表1描述性统计与相关分析结果 $( N = 7 8 )$ "
+        ],
+        "table_footnote": [
+            "注： $^ { * } p < 0 . 0 5$ ，\\*\\* $p < 0 . 0 1$ 。 "
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>平均值</td><td>标准</td><td>范围</td><td>偏度</td><td>峰度</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>1.性别(sex)：男/女</td><td>39/39</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.年龄(age)</td><td>10.18</td><td>1.02</td><td>9~12</td><td>0.39</td><td>-0.95</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.颅内总体积(TIV,mm)</td><td>1461.64</td><td>116.38</td><td>1199.41~1751.50</td><td>0.44</td><td>0.30</td><td>-0.1</td><td></td><td></td><td></td><td></td></tr><tr><td>4.头动(mean FD,mm)</td><td>0.14</td><td>0.08</td><td>0.05~0.38</td><td>1.11</td><td>0.58</td><td>-0.2</td><td>0.18</td><td></td><td></td><td></td></tr><tr><td>5.应激原始分数(stress)</td><td>26.35</td><td>22.96</td><td>1~105</td><td>1.57</td><td>2.43</td><td>-0.0</td><td>0.07</td><td>0.04</td><td></td><td></td></tr><tr><td>6.应激转换分数(stress_sqrt)</td><td>4.69</td><td>2.10</td><td>1~10.25</td><td>0.61</td><td>0.08</td><td>-0.0</td><td>0.07</td><td>0.09</td><td>0.97**</td><td></td></tr><tr><td>7.消极情绪</td><td>15.13</td><td>3.89</td><td>10~29</td><td>1.10</td><td>1.52</td><td>-0.1</td><td>0.06</td><td>0.26*</td><td>0.29**</td><td>0.34**</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8c970c322011319abd3ce8a52a7bf5351f3418ec4a9449b3107c747cfcd903d.jpg",
+        "img_caption": [
+            "图1(A)儿童应激原始分数分布直方图；(B)儿童应激转换分数分布直方图；(C)样本年龄和性别分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：K-S test为Kolmogorov-Smirnov 正态性检验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2脑成像数据结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.1儿童应激与灰质体积的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对儿童 stress_sqrt 分数与全脑灰质体积进行多重线性回归分析，将性别、年龄和 TIV 作为协变量。结果表明，儿童应激水平(stress_sqrt)分数与左侧 mOFC、右侧脑岛、左侧 STG 和右侧辅助运动区(supplementary motor area,SMA)的灰质体积呈显著正相关。具体脑区的坐标、体素量和相关值见表2和",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图2A。消极情绪得分与 SMA灰质体积显著正相关， $r = 0 . 2 5$ ， $p < 0 . 0 5$ (详见附录表1)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2儿童应激与静息态功能连接的关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "选择灰质体积分析中显著的脑区作为ROI，功能连接分析结果表明，右侧脑岛和左侧 IPL之间的功能连接强度与儿童应激水平(stress_sqrt)显著负相关，即儿童应激水平(stress_sqrt)越高，右侧脑岛和左侧IPL 之间的功能连接强度越低；但儿童应激水平(stress_sqrt)与海马和杏仁核的FC 没有显著相关(表2和图2B)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3基于机器学习的预测分析结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于结构网络的RVR 模型可以边缘显著地预测儿童应激水平 ${ \\it \\Delta } r = 0 . 2 4$ ， $p = 0 . 0 7$ ，见图3)。在节点水平上，OFC、STG和 SMA 位于前 $10 \\%$ 贡献率的脑区中(详见附录表2)，这与上述灰质体积结果相一致。在网络水平上，SMN 内部的结构连接、SMN-SAN、SMN-VN 以及 SMN-FPN之间的结构连接构成了正网络，其结构连接越强，应激水平越高；小脑-FPN、小脑-VN、SCN-VN之间的结构连接构成了负网络，其结构连接越弱，所预测的应激水平越高。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e16ae265879f68e56ef226d62746cb95adfbc9829484c7c9f0c0df2eade65a8.jpg",
+        "table_caption": [
+            "表2儿童应激与灰质体积和静息功能连接相关分析结果"
+        ],
+        "table_footnote": [
+            "注：mOFC $\\ O =$ medial orbitofrontal cortex；STG $\\ O =$ superior temporal gyrus； SMA $\\ c =$ supplementary motor area; $\\mathrm { { I P L } = }$ inferiorparietal lobule; $\\mathbf { M N I } =$ MontrealNeurological Institute；采用体素水平 $p < 0 . 0 0 5$ ，团块水平 $p < 0 . 0 5$ 的 GRF 多重比较矫正;"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">脑区</td><td rowspan=\"2\">半球</td><td colspan=\"3\">MNI坐标</td><td rowspan=\"2\">体素量</td><td rowspan=\"2\">t值</td></tr><tr><td>X</td><td>y</td><td>Z</td></tr><tr><td>与灰质体积相关的脑区</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>内侧眶额叶(mOFC)</td><td>左</td><td>-1.5</td><td>55.5</td><td>-19.5</td><td>807</td><td>4.59</td></tr><tr><td>脑岛(Insular)</td><td>右</td><td>46.5</td><td>4.5</td><td>-9</td><td>968</td><td>4.46</td></tr><tr><td>颞上回(STG)</td><td>左</td><td>-64.5</td><td>-6</td><td>-4.5</td><td>739</td><td>4.43</td></tr><tr><td>辅助运动区(SMA)</td><td>右</td><td>9</td><td>16.5</td><td>61.5</td><td>918</td><td>3.97</td></tr><tr><td>与静息功能连接相关的脑区</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脑岛-顶下小叶(Insular-IPL)</td><td>左</td><td>-36</td><td>-57</td><td>45</td><td>333</td><td>-4.37</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2960dee694120301f77d41aca57d961c0ccac874c494381f6763acfa1fa884e6.jpg",
+        "img_caption": [
+            "图2 (A)儿童应激相关的灰质体积结果；(B)儿童应激相关的静息功能连接结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注：采用体素水平 $p < 0 . 0 0 5$ ，团块水平 $p < 0 . 0 5$ 的 GRF多重比较矫正。mOFC $\\mathbf { \\Psi } = \\mathbf { \\Psi }$ 内侧眶额叶(medial orbitofrontal cortex);Insular $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 脑岛； $\\mathrm { \\ S T G = }$ 颞上回(superior temporal gyrus)；SMA $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 辅助运动区(supplementary motor area); $\\mathrm { { I P L } = }$ 顶下小叶(inferior parietal lobule); $\\mathrm { L } =$ Left hemisphere; ${ \\bf R } =$ Right hemisphere。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d2d5428f88ba408a516bbd775b17ad16014e8748bc895de552a294f7212d6de.jpg",
+        "img_caption": [
+            "图3 (A)预测儿童应激水平的正、负网络；(B)机器学习预测结果；(C)置换检验 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "注：圈图：脑区以解剖顺序呈现，连线长度代表连接脑区的距离；脑图：节点大小代表节点对模型的贡献度；矩阵图：数字代表网络内或网络间连接的数量。特征选择阈值 $p < 0 . 0 1$ ，预测模型显著性采用2000次置换检验 $p < 0 . 0 5$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4探索性分析结果",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4.1应激与脑指标相关的性别差异 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "多重回归分析显示，性别与应激水平(stress_sqrt)在全脑灰质体积上不存在显著的交互作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4.2应激与脑指标相关的年龄特征 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "多重回归分析表明，年龄与应激水平在枕下回(inferior occipital gyrus,IOG)的灰质体积存在显著的交互作用(坐标: $\\mathbf { x } = - 5 3 , \\mathbf { y } = - 6 6 , z = - 1 1$ ；体素量 $= 2 4 9$ $t = - 4 . 0 8 )$ 。将脑结果信号值提取出来计算与每个年龄组应激水平(stress_sqrt)的偏相关，协变量为性别和 TIV。结果表明，9 岁组 $( n = 2 4 )$ 的应激水平(stress_sqrt)与IOG 的灰质体积显著正相关；10 岁组 $( n = 2 6 )$ 和11岁组 $( n = 1 8 )$ 的应激水平(stress_sqrt)与IOG 的灰质体积无显著相关；而12 岁组 $( n = 1 0 )$ 的应激水平(stress_sqrt)与IOG 的灰质体积显著负相关，如图4所示。此外，年龄与应激水平在IOG功能连接上的交互作用不显著。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/57b2397b55f8363ec7a911bef31e81c1f31c6b7b43b47d3138a87e38a07a9930.jpg",
+        "img_caption": [
+            "图4儿童应激神经基础的年龄特征 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "注：采用体素水平 $p < 0 . 0 0 5$ ，团块水平 $p < 0 . 0 5$ 的GRF多重比较矫正。 $\\mathrm { G M V } =$ 灰质体积(gray matter volume); $\\mathrm { { I O G = } }$ inferioroccipital gyrus; $\\mathrm { L } =$ left hemisphere; $^ { * } p < 0 . 0 5$ ； $^ { * * } p < 0 . 0 1$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究采用多模态数据考察了与儿童应激有关的大脑结构和功能基础，并探索了其性别差异和年龄特征。与我们的研究假设一致，VBM分析表明儿童应激与mOFC、脑岛、STG 和 SMA的灰质体积呈正相关。以VBM的显著脑区为ROI进行FC 分析，结果显示，儿童应激水平越高，脑岛与IPL的连接强度越低弱。这些结果不受被试年龄、性别和头动/TIV 的影响；机器学习建模预测分析进一步显示，上述脑区均能有效预测儿童应激水平，表明了研究结果的稳健性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "VBM 分析表明，儿童应激越高，mOFC、脑岛、STG 和 SMA灰质体积越大。首先，mOFC 被证实与情绪加工有关，如调节对消极刺激的反应和评估消极情绪状态(Rolls,2017;O'Doherty et al.,2001;Phillps et al.,2003)。实证研究表明，较差的情绪管理能力与更大的OFC灰质体积有关(Wabnegger et al.,2018)；那些倾向于报告更高应激水平的青少年，其OFC 灰质体积也越大(Wu etal.,2021)。据此，儿童应激与OFC 灰质体积呈显著正相关的结果表明，由OFC 所参与的情绪加工(如，情绪管理与调节)的异常(表现为OFC 灰质体积的增大)可能与儿童应激水平的增加有密切关联(Kautz et al.,2021; McEwen etal.,2016)；这种神经易感性可能与儿童期 OFC 还未完全发育成熟有关(Gogtay et al.2004)。其次，脑岛的功能和结构在个体应激和自我情绪意识中发挥着重要作用(Etkin& Wager,2007; Craig 2009; Gu et al.2013)。多项任务态研究发现，相较于健康被试，PTSD 患者在面对恐惧和痛苦刺激时，脑岛出现更强激活(Aupperle et al.,2012; Simmons et al.,2008; Strigo et al.,2010)。一项新近的基于青少年的结构像研究发现，个体应激水平越高，脑岛灰质体积越大(Wu etal.,2021)。因此，脑岛灰质体积的增大可能代表了应激的重要神经基础，以解释高水平应激儿童对消极刺激的过度敏感性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "此外，结果还表明了儿童应激与 STG 和 SMA灰质体积呈正相关。STG与情景记忆和语音理解有关(Brunet et al.,2000; Howard et al.,1992)。一项结构态研究发现，STG 灰质体积增加与童年期父母言语训斥有关，而言语训斥是生命早期应激的来源之一(Tomoda et al.,2011)。相比于控制组，PTSD 儿童 STG的灰质体积也更大(De Bellis et al.,2002a)。据此，儿童应激水平与 STG 灰质体积的显著正相关可能表明，言语理解加工的异常(表现为STG灰质体积增大)可能致力于对消极言语(如,父母的训斥)的高度敏感化，这与儿童应激水平的增加有关(De Bellis,Keshavan,Frustaci et al.,2002)。另外，以往研究表明 SMA 在对错误行为的监控过程中起着主要作用(Bonini et al.,2014; Roger et al.,2010)，同时该脑区还参与对情绪信息的传递(Aybek et al.,2014; Oliveri etal.,2003)。Lim等人(2015)研究发现，相比于健康控制组和童年无应激事件的精神病组，经历童年应激事件的成人对错误行为(如，对目标刺激的抑制失败)的高度敏感表现为 SMA 的激活更强；这种神经功能的变化能够帮助个体在应激状态下监控自身行为，从而避免错误行为带来的消极惩罚(Lim etal.,2015)。目前关于 SMA灰质体积与儿童应激关系的证据较少，有一项结构态研究发现，PTSD儿童的 SMA 灰质体积与 PTSD 得分呈正相关(黎磊 等,2017)。此外，基于功能性神经症状障碍(functional neurological symptom disorder,FND)的研究也能为二者关系提供佐证。FND 是指身体出现医学无法解释的感觉或运动功能丧失，如失明或四肢麻痹等(Ani et al.,2013)。一项基于儿童FND 的结构态研究表明，由先前应激所致的FND儿童患者对情绪信号具有高度警觉，表现为对情绪识别的反应时减短，而这与 SMA 灰质体积的增加有关(Kozlowska et al.,2015; Kozlowska et al.,2017)。据此，我们推测，SMA灰质体积越大可能与高水平应激儿童对情绪刺激和个体行为的过度监控有关，以避免错误行为带来的消极后果(McEwen et al.,2012;Menon& Uddin,2010)。值得注意的是，有综述研究表明，由于大脑结构具有可塑性特征，因此由应激导致的灰质体积变化可能反映了一种依赖于经验的结构适应，可以暂时改善个体在应激环境下的适应能力(McEwen et al.,2012)。对儿童而言，若长期保持这种短期适应性功能，可能会降低大脑可塑性，并促进大脑早熟(Tooley et al.,2021)，甚至带来消极后果,如焦虑、抑郁和 PTSD 等(Berens et al.,2017; Smith&Pollak,2020)。同时,有研究表明儿童前额叶、STG(包含脑岛)和 SMA灰质体积的增加可能作为了精神疾病风险的预兆因子(Kozlowska et al.,2017)。综上，应激的大脑结构基础对于理解应激的异常情绪和认知模式有着重要意义，为进一步揭示儿童应激的神经关联提供了实证支持。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "进一步地，儿童应激水平与脑岛-IPL 的FC 强度呈负相关。众所周知，IPL 是DMN 的核心节点(Luet al.,2017;Menon,2011)，该网络独立于任务加工，致力于自我参照加工和自传体记忆(Buckner et al,2008)。脑岛是 SAN 的关键区域，负责监控和整合内外部突显刺激(Manoliu et al.,2014;Uddin,2017)。实证研究表明，生命早期应激不仅与 DMN 和 SAN 内部FC 显著相关(Menon,2011; Uddin,2017)，还与SAN 和 DMN 之间的FC 强度减弱有关，尤其是脑岛和 IPL之间的 FC(Goetschius et al.,2020; Lu et al,2017;Marusak et al.,2015)。据此，本研究所发现的儿童应激与脑岛-IPL的FC 强度呈负相关表明，以脑岛和 IPL 为关键节点的双网络间(即 DMN 和 SAN)功能同步性的降低可能反映了自我参照加工(如，积极的自我评价)与外部刺激反应性(如，对消极刺激的高度敏感性)的异常交互，而这对儿童应激水平的升高具有重要作用(Vuper et al.,2021; Etkin & Wager,2007; Manoliu et al.,2014)。然而，以海马和杏仁核为ROI的FC分析没有显示与儿童应激水平显著相关的结果。一项基于青年被试的静息态研究也未发现童年创伤组与控制组在海马和杏仁核的FC上存在差异(Paquola et al.,2017)，但有证据表明海马和杏仁核的FC 异常与青少年的童年创伤经历有关(Saxbe et al.,2018; Thomason et al.,2015)。上述不一致结果可能受到了样本量大小(即小于或大于30被试；Saxbe et al.,2018; Thomason et al.,2015)、海马/杏仁核兴趣区的选取方式(即 AAL或 Julich 模板,或手动分割法;Paquola et al.,2017; Thomason et al.,2015; Saxbe et al.,2018)以及偏态数据转换与否的影响(Morey et al.,2009;Hahm etal.,2019)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "机器学习预测分析表明，SMN 内部的结构连接、SMN-VN、SMN-SAN 以及 SMN-FPN 之间的结构连接构成了预测儿童应激水平的正网络；小脑-FPN、小脑-VN、SCN-VN之间的结构连接构成了预测儿童应激水平的负网络。对于正网络，SMN 和VN属于感觉系统，负责感觉加工、运动控制以及错误行为的监控(Bonini et al.,2014; Roger et al.,2010; Tomoda et al.,2009)；SAN 负责监控和整合内外部突显刺激(Manoliu et al.,2014;Uddin,2017)；而 FPN主要涉及执行控制功能，通过改变与其他功能系统的交互模式灵活快速地适应正在进行的任务(Cole etal.,2013)。实证研究表明，成人在经历应激事件后，除了感觉系统的结构整合性与灰质体积会发生改变外(Choi et al.,2012; Tomoda et al.,2011)，SMN 与VN、SAN 和FPN之间的FC 强度也会出现异常，这与个体警觉性提高以及难以从应激事件中恢复有关(Soares et al.,2013; Yu et al.,2019; Zhutovsky et al.,2021)。关于负网络结果，小脑不仅与自主运动有关，还与高级认知功能如情绪加工和错误预期有关(Blithikioti et al.,2022)；而 SCN 负责加工由感觉系统(如，VN)传入的威胁刺激，并迅速对其做出反应(Teicher et al.,2016)。此外，较高的应激症状与小脑-FPN、小脑-VN 和 SCN-VN的异常连接有关，说明高应激个体对内外部刺激的调节能力下降，并进一步导致过度警觉和泛化的恐惧反应(Holmes et al.,2018; Rabellino et al.,2018; Teicher et al.,2016)。当前结果表明，结构网络相似性可能与儿童应激的个体差异有关；虽然其预测能力在统计上为边缘显著，但仍有助于理解应激与大脑结构关联的本质与程度。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "探索性分析显示，与儿童应激有关的灰质体积和FC均不存在性别差异。一项前瞻性研究表明，儿童和青少年PTSD 症状和发展轨迹不存在性别差异(Maikovich et al.,2009)。在脑发育水平上，综述研究表明大脑发展出两性差异是在青春期以后(Stevens et al.,2018)。一项包含儿童、青少年和成人的大样本研究表明，在青春期前海马和杏仁核的体积并没有表现出性别差异，但随着青春期的成熟，男性相应脑区体积减少而女性增加(Hu etal.,2013)。纵向研究显示，在青少年时期，生命早期应激会降低女性杏仁核与前额叶之间的连接强度，但对男性没有影响(Burghy et al.,2012; Herringa et al.,2013)。据此，本次儿童应激脑关联不存在性别差异可能是由于应激在儿童期未出现两性差异以及应激神经基础的性别特异性主要表现在青春期。最近，有学者对经历生命早期应激的儿童激素分泌的性别差异进行了纵向追踪调查，结果显示在3\\~6岁经历应激事件会影响女孩9岁时皮质醇与睾酮素的耦合模式(即激素分泌水平的同步性)，但不会影响男孩(Black et al.,2018)。未来研究可以从神经内分泌的角度进一步探索儿童应激在神经生物基础上的性别差异。另外，年龄特征分析表明，应激水平与IOG灰质体积的显著正相关只出现在9岁组中。IOG 是初级视觉皮层的一部分，负责加工和传递消极信息的视觉皮层是一个高度可塑性的结构，但这种可塑性会随着青春期的到来而减缓(Hubel&Wiesel,1988; Shimada et al.,2015)。前人研究表明，应激相关的经历(如，经历暴力虐待事件或目睹家庭暴力)可能会影响初级视觉皮层的发育(Cwik et al.,2020; Tomoda et al.,2012)。这一结果可能支持了以往的观点，即童年中期是神经系统易受到应激所带来消极影响的时期(Stevens et al.,2018)。虽然 12 岁组的应激水平与 IOG 的灰质体积显著负相关，但这一结果可能是由于该年龄阶段被试量较少 $( n = 1 0 )$ 所致。未来可进一步基于大样本数据从发展角度考察应激与脑出现关联的关键年龄点以及性别差异，并探明儿童应激的神经标记是否能够稳定预测其未来的应激水平和消极情绪。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "另外，已有大量证据支持了儿童应激与焦虑之间的紧密关联，二者皆具有高警觉性和恐慌不安等特征(Price etal.,2019)。当前研究也发现儿童应激水平与更多敌意和痛苦等消极情绪存在正相关。同时，患有焦虑症的儿童其应激系统也会发生紊乱，如皮质醇升高(Funke et al.,2017)。在神经层面，焦虑症儿童在前额-边缘-颞叶处也表现出脑结构与功能的异常。譬如，VBM研究发现，儿童焦虑症患者在 OFC、STG 和脑岛的 GMV 显著大于健康儿童(Albaugh etal.,2017; De Bellis,Keshavan,Shifflett et al.,2002; Liuet al.,2022)。一项新近的基于DTI结构网络的连接组预测模型的研究发现，前额-边缘-颞叶的结构网络还可预测成年早期的特质焦虑水平(Yoo et al.,2022)。此外，rs-fMRI研究也发现上述脑区间FC 的异常与儿童焦虑水平有关。具体而言，边缘系统(如，脑岛和杏仁核)与突显网络和执行控制网络(如，前额叶)之间的FC 强度与儿童焦虑水平呈正相关(Perino et al.,2021),并能显著预测儿童特质焦虑水平(Qin etal.,2014)。与上述发现类似，本研究中儿童应激的神经关联也主要聚焦于前额-边缘-颞叶脑区，这表明儿童应激与焦虑的神经生物学基础可能存在重叠，其在一定程度上与这些疾病的高共病性有关(Kribakaranet al., 2020)。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本研究发现儿童应激与涉及情绪调节和内外部刺激整合(即整合积极自我评价与外部消极情绪刺激)的前额叶-边缘-颞叶脑区有关，这对儿童应激的早期预防和干预策略具有实践意义。大量证据已表明儿童应激会导致身心发展异常，甚至出现精神疾病症状，将严重影响个体正常生活(Berens et al.,2017;Smith&Pollak,2020)。从行为认知层面来看，鉴于情绪调节训练和正念训练能有效改善个体对应激源的情绪调节，并已在青少年和成人群体中得到广泛应用(Bai et al.,2020; Saedpanah et al.,2016)。因此，未来研究可采用上述心理训练技术来调节儿童的情绪功能，并促进其积极的自我参照功能，以此缓解和预防应激对儿童的消极影响。从神经层面来看，还可采用神经生物手段，如生物反馈、经颅直流电刺激和深部脑刺激等，刺激前额叶等脑区来干预应激症状更为严重的临床个体(Bari et al.,2014; Hamani et al.,2020; Schlatter et al., 2021)。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "总之，探明个体从适应性到适应不良行为的神经关联有助于理解从非临床到临床全动态范围的神经变化过程。本研究从多模态的视角拓展了非临床儿童应激神经基础的实证研究，促进了对应激易感儿童的结构和功能神经特征的深入了解。然而，当前研究也存在一些不足。首先，由于本研究为横断设计，只能确定应激与儿童大脑的相关关系，而无法确定变量之间的因果关系。目前尚不清楚究竟是更高的应激水平导致了儿童更大的灰质体积，还是由于更大的灰质体积致使了儿童更高的应激水平。未来研究可采用前瞻性纵向队列设计，进一步细分儿童年龄阶段以回答这些科学问题。其次，尚不清楚灰质体积对应的是什么成分的改变，它们可能与细胞大小的变化、神经元或胶质细胞的生长或萎缩以及突触产生有关(May& Gaser,2006)。因此，未来研究可以采用白质纤维束等指标以便从更微观的角度了解儿童应激的神经生物学基础。再次，本研究仅通过儿童自我报告量表的方式测量了儿童的应激水平。然而，与应激水平相关的重要因素可能会影响儿童应激的神经关联，譬如，应激事件的强度、持续时间、应激事件的数量以及不同应激事件之间的相互作用等(Nelson et al.,2020)。尽管本次使用的问卷可以测量儿童应激水平和应激事件数量两种指标，但由于样本量较小未能探究两变量的交互作用。未来研究可以深入考察高应激事件-低应激水平和低应激事件-高应激水平这两类儿童的脑差异。最后，神经区域和心理功能之间似乎不是一一对应的关系(Anderson,2014)，因此当前研究结果也存在其他可能的推论。未来研究需要进一步证明本研究所发现的儿童应激与大脑的关联能否被情绪调节与认知控制等功能得以最好地解释。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本研究首次采用多模态数据并结合机器学习的方法探讨了儿童应激相关的神经基础。结果表明，儿童应激与涉及情绪功能的mOFC、脑岛、STG 和 SMA的灰质体积存在正相关；与涉及内外部信息整合的脑岛-IPL的FC 呈负相关。当前结果不受被试年龄、性别、头动和 TIV 的影响，表明了研究发现的特异性；机器学习预测分析显示，上述脑区均能有效预测儿童应激水平，表明了研究结果的稳健性。研究发现揭示了异常的情绪功能与内外信息整合与儿童应激水平的增加有关。本研究不仅拓展了目前有关儿童应激神经基础的实证证据，还为开发出儿童应激的早期预防策略和干预手段提供了有力支持。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "参考文献 Agorastos,A., Pervanidou, P., Chrousos, G.P., & Kolaitis, G. (2018). Early life stress and trauma: developmental neuroendocrine aspects of prolonged stress system dysregulation. Hormones, 17(4), 507-520. Albaugh,M.D., Nguyen,T.V., Ducharme,S., Colins,D.L.,Botteron, K.N.,D'Alberto,N.,..&Brain Development Cooperative Group. (2017). Age-related volumetric change of limbic structures and subclinical anxious/depressed symptomatology in typically developing children and adolescents. Biological Psychology, 124,133-140. Anderson, M.L. (2014). After phrenology: Neural reuse and the interactive brain. MIT Press. Ani, C.,Reading, R.,Lynn,R.,Forlee, S.,& Garralda,E. (2013). Incidence and 12-month outcome of non-transient childhood conversion disorder in the UK and Ireland. The British Journal of Psychiatry, 202(6), 413-418. Ashburer, J.,& Friston,K.J. (20o). Voxel-based morphometry—the methods. Neuroimage 11, 805-821. Aupperle,R.L.,Allard, C.B., Grimes,E. M., Simmons,A.N.,Flagan,T.,Behrooznia,M.,. Stein,M.B. (2012). Dorsolateral prefrontal cortex activation during emotional anticipation and neuropsychological performance in postraumatic stress disorder. Archives of General Psychiatry, 69(4), 360-371. Aybek, S.,Nicholson,T.R.,Draganski,B.,Daly,E.,Murphy,D. G.,David,A.S.,& Kanaan,R.A. (2014). Grey mater changes in motor conversion disorder. Journal of Neurology Neurosurgery and Psychiatry, 85(2),236-238. Bai, S.,Elavsky,S.,Kishida,M.,Dvorakova,K.,& Greenberg,M.T. (202).Effects of mindfulness training on daily stress response in college students: Ecological momentary assessment of a randomized controlled trial. Mindfulness, 11(6), 1433-1445. Bari,A., Niu,T.,Langevin,J.P.,& Fried,I. (2014).Limbic neuromodulation: implications for addiction, postraumatic stress disorder, and memory. Neurosurgery Clinics, 25(1), 137-145. Berens,A.E., Jensen, S.,& Nelson,C.A.(2017). Biological embedding of childhood adversity: from physiological mechanisms to clinical implications. BMC Medicine, 15(1),1-12. Black,S.R.,Lerner,M.D., Shirtclif,E.A.,& Klein,D.N. (2018). Paterns of neuroendocrine coupling in ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "9-year-old children: Effects of sex,body-mass index,and life stress.Biological Psychology, 132, 252-259. Blithikioti,C.,Nuno,L.,Guell X.,Pascual-Diaz,S., Gual,A.,Balcels-Olivero,M.,& Miquel,L.(2022).The cerebellum and psychological trauma: A systematic review of neuroimaging studies. Neurobiology of Stress, 100429. Bonini,F.,Burle,B.,Liegeois-Chauvel, C.,Régis,J.,Chauvel,P.,& Vidal,F. (2O14).Action monitoringand medial frontal cortex: leading role of supplementary motor area. Science, 343(6173), 888-891. Brunet,E.,Sarfati, Y., Hardy-Baylé,M. C.,& Decety,J. (20o0). A PET investigation of the atribution of intentions with a nonverbal task. Neuroimage, 11(2), 157-166. Buckner, R.L.,Andrews-Hanna, J. R., & Schacter, D.L. (2o08). The brain's default network: anatomy, function, and relevance to disease. Annals of the New York Academy of Science, 1124,1-38. Burghy,C.A., Stodola,D.E.,Ruttle,P.L.,Moloy,E. K.,Armstrong,J. M.,Oler,J.A.,..Birn,R. M.(2012). Developmental pathways to amygdala-prefrontal function and internalizing symptoms in adolescence. Nature Neuroscience, 15(12), 1736-1741. Calderon-Delgado,L.,Barrera-Valencia,M.,Noriega,I.,Al-Khalil,K.,Trejos-Castillo,E.,Mosi,J.,havez, B., Galvan, M., & O'Boyle, M. W. (2020). Implicit processing of emotional words by children with Post-Traumatic Stress Disorder: An fMRI investigation. International Journal of Clinical and Health Psychology, 20(1), 46-53. Calem,M., Bromis, K.,McGuire,P., Morgan, C.,& Kempton, M. J. (2017). Meta-analysis of associations between childhood adversity and hippocampus and amygdala volume in non-clinical and general population samples. Neuroimage: Clinical, 14, 471-479. Choi,J., Jeong,B.,Polcari,A.,Rohan,M.L.,& Teicher,M.H. (2O12). Reduced fractional anisotropy in the visual limbic pathway of young adults witnessng domestic violence in childhood. Neuroimage,59(2), 1071-1079. Cole,M. W.,Reynolds, J.R.,Power,J. D., Repovs, G.,Anticevic,A., & Braver,T. S. (2013). Multi-task connectivity reveals flexible hubs for adaptive task control. Nature neuroscience, 16(9),1348-1355. Craig,A. D. (2oo9). How do you feel-now? The anterior insula and human awareness Natrue Reviews: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "veuroscience, 1u(1), 59-/0.   \nCwik,J. C., Vahle,N., Woud,M.L.,Potho,D.,Kessler,H. Sartory, G.,& Seitz,R.J. (202).Reduced gray matter volume in the left prefrontal, occipital, and temporal regions as predictors for postraumatic stress disorder: a voxel-based morphometric study. European Archives of Psychiatry and Clinical Neuroscience, 270(5), 577-588.   \nDe Bellis,M.D. Keshavan,M. S.,Frustaci, K., ShiflettH.,Iyengar,S.,Beers, S.R.,& Hall,J. (2002). Superior temporal gyrus volumes in maltreated children and adolescents with PTSD. Biological Psychiatry, 51(7), 544-552.   \nDe Bellis, M. D., Keshavan,M. S., Shiflett, H., Iyengar, S.,Dahl,R. E.,Axelson, D.A.,..Ryan, N. D. (2002). Superior temporal gyrus volumes in pediatric generalized anxiety disorder. Biological Psychiatry, 51(7), 553-562.   \nDemir-Lira,O.E., Vos,J.L., O'Neil,J.T.,Briggs-Gowan,M.J., Wakschlag,L. S.,& Booth,J.R.(2016). Early-life stress exposure associated with altered prefrontal resting-state fMRI connectivity in young children. Developmental Cognitive Neuroscience, 19, 107-114.   \nEtkin, A., & Wager, T. D. (20o7). Functional neuroimaging of anxiety: a meta-analysis of emotional processing in PTSD, social anxiety disorder, and specific phobia. American Journal of Psychiatry, 164(10), 1476-1488.   \nFeng,C., Yuan,J., Geng,H., Gu,R., Zhou,H., Wu, X.,& Luo,Y. (2018). Individualized prediction of trait narcissism from whole-brain resting-state functional connectivity. Human Brain Mapping, 39(9), 3701-3712.   \nFerketich,A.K.,Ferguson, J.P.,& Binkley,P.F. (2Oo5). Depressive symptoms and inflammation among heart failure patients. American Heart Journal, 150(1),132-136.   \nFunke,R.,Eichler, A.,Distler, J., Golub,Y.,Kratz, O.,& Moll,G. H. (2017). Stress system dysregulation in pediatric generalized anxiety disorder associated with comorbid depression. Stress and Health, 33(5), 518-529.   \nGoetschius,L. G.,Hein,T.C.,McLanahan,S.S.,Brooks-Gunn,J.,McLoyd, V.C.,Doterer,H.L.,..Beltz,A. M. (2020). Association of Childhood Violence Exposure With Adolescent Neural Network Density. JAMA ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Network Open, 3(9), e2017850. Gogtay,N., Giedd,J.N.,Lusk,L.,Hayashi, K. .,Greenstein,D., Vaituzis,A.C...Thompson,P..(2004). Dynamic mapping of human cortical development during childhood through early adulthood. Proceedings of the National Academy of Sciences of the United States of America, 101(21), 8174-8179 Gu,X.,Hof,P.R.,Friston, K.J.,&Fan,J. (2013).Anterior insular cortex and emotional awareness.Journalof Comparative Neurology, 521(15),3371-3388. Hahm, S.,Lotze,M., Domin,M.,& Schmidt, S. (2019).The association of health-related quality oflife and cerebral gray mater volume in the context of aging: A voxel-based morphometry study with a general population sample. Neuroimage, 191, 470-480. Hamani, C.,Davidson,B.,Levit,A.,Meng, Y.,Corchs,F.,Abrahao,A.,..Lipsman, N. (202O). Patient with postraumatic stress disorder successfully treated with deep brain stimulation of the medial prefrontal cortex and uncinate fasciculus. Biological Psychiatry, 88(11), e57-e59. Hammen, C., Henry,R., & Daley, S.E. (20o).Depression and sensitization to stressors among young women as a function of childhood adversity. Journal of Consulting and Clinical Psychology, 68(5),782-787. Hart, H., Lim, L., Mehta, M. A., Simmons,A., Mirza, K., & Rubia, K. (2018). Altered fear processing in adolescents with a history of severe childhood maltreatment: an fMRI study. Psychological Medicine, 48(7), 1092-1101. Haufe,S., Meinecke,F., Gorgen,K., Dähne,S., Haynes,J. D., Blankertz,B.,& BieBmann,F.(2014). On the interpretation of weight vectors of linear models in multivariate neuroimaging. Neuroimage, 87, 96-110. Heringa,R.J.,Birn,R.M.,Rutle,P.L.,Burghy,C.A.,Stodola,D.E.,Davidson,R.J.,&Essex,M.J. (2013). Childhood maltreatment is associated with altered fear circuitry and increased internalizing symptoms by late adolescence. Proceedings of the National Academy of Sciences of the United States of America, 110(47), 19119-19124. Holmes,S.E.,Scheinost,D.,DellGioiaN.,Davis,.T.,Matuskey,D.,Pietrzak,R.H.,.Esterlis,I. (18). Cerebellar and prefrontal cortical alterations in PTSD: structural and functional evidence. Chronic Stress,2,2470547018786390. Horien,C.,Noble,S.,Finn,E.S.,Shen, X.,Scheinost,D.,& Constable,R.T. (2018).Considering factors ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "affecting the connectome-based identification process: Comment on Waller et al. Neuroimage, 169, 172-175.   \nHoward,D.,Paterson,K., Wise,R.,Brown,W.D.,Friston,K., Weiler, C.,&Frackowiak,R.(1992).The cortical localization of the lexicons. Positron emission tomography evidence. Brain, 115( Pt 6), 1769-1782.   \nHsu,W.T.,Rosenberg, M.D.,Scheinost,D.,Constable,R.T.,& Chun,M.M.(2018).Resting-state functional connectivity predicts neuroticism and extraversion in novel individuals. Social Cognitive and Affective Neuroscience, 13,224-232.   \nHu,S., Pruessner,J. C., Coupé,P.,& Colins,D.L. (2013). Volumetric analysis of medial temporal lobe structures in brain development from childhood to adolescence. Neuroimage, 74,276-287.   \nHubel,D.H.,& Wiesel,T.N.(1998). Early exploration of the visual cortex. Neuron,20(3), 401-412.   \nInsel,T.R., (2o09). Translating scientific opportunity into public health impact: a strategic plan for research on mental illness. Archives of General Psychiatry, 66(2),128-133.   \nJenkinson, M.,Bannister,P.,Brady,M.,& Smith, S.(2002). Improved optimization for the robust and accurate linear registration and motion correction of brain images. Neuroimage, 1 7(2), 825-841.   \nJones,D. K.,& Cercignani, M. (2010). Twenty-five pitfals in the analysis of difusion MRI data. NMR in Biomedicine, 23(7), 803-820.   \nKautz,M.,Ered,A.,Nielsen, J., Olino,T.,& Alloy,L. (2021).The Effect of EarlyLife Stress During Sensitive Exposure Periods on Orbitofrontal Cortex Thickness. Biological Psychiatry, 89(9,Supplement), S278-S279.   \nKong, X. Z., Wang, X., Huang, L., Pu, Y., Yang, Z., Dang, X.,..Liu, J. (2014). Measuring individual morphological relationship of cortical regions. Journal of Neuroscience Methods, 237,103-107.   \nKozlowska,K.,Palmer,D. M., Brown, K.J.,McLean,L., Scher,S., Gevirtz,R,..Wiliams,L. M. (2015). Reduction of autonomic regulation in children and adolescents with conversion disorders. Psychosomatic Medicine, 77(4), 356-370.   \nKozlowska, K., Grifiths,K.R.,Foster,S.L.,Linton,J., Williams,L.M.,& Korgaonkar,M. S. (2017). Grey matter abnormalities in children and adolescents with functional neurological symptom ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "disorder. Neuroimage: Clinical, 15, 306-314. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Kribakaran, S.,Danese,A.,Bromis, K.,Kempton,M.J.,& Gee,D.G. (202O). Meta-analysis of structural magnetic resonance imaging studies in pediatric postraumatic stress disorder and comparison with related conditions. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 5(1),23-34.   \nLazarus, R.S., & Folkman, S. (1984). Stress, appraisal, and coping. Springer publishing company.   \nLi, L, Zhang, H., Hu, X., Suo, X., Lei, D., Wu, M.,..Gong, Q. (2017). Voxel-based morphometry-diffeomorphic anatomical registration through exponentiated lie algebra algorithm evaluation of brain structural of recent-onset pediatric post-traumatic stress disorder patients, Chinese Journal of Radiology, 51(3),210-213.   \n[黎磊，张华为，胡新宇，索学玲，雷都，吴敏,.龚启勇. (2017).基于体素的形态学测量与自建模板及 微分同胚图像融合方法对近期发病的创伤后应激障碍儿童的脑结构研究．中华放射学杂志,51(03), 210-213.]   \nLim,L.,Hart,H., Mehta,M.A.,Simmons,A.,Mirza,K.,& Rubia, K. (2015). Neural Correlates of Error Processing in Young People With a History of Severe Childhood Abuse: An fMRI Study. The American Journal of Psychiatry, 172(9), 892-900.   \nLim,L., Radua,J.,& Rubia, K. (2014). Gray mater abnormalities in childhood maltreatment: a voxel-wise meta-analysis. The American Journal of Psychiatry, 171(8), 854-863.   \nLiu,S.D.,Liu, Q.,Luo, Y.,& Wen, Y. (2016). Development of the Stressful Life Events for Primary School Students. Chinese Mental Health Journal, 30(10), 745-751.   \n[刘舒丹，刘琴，罗燕，文一.(2016).小学生应激性生活事件量表的编制．中国心理卫生杂志,30(10), 745-751.]   \nLu,S.,Gao, W., Wei,Z., Wang,D.,Hu,S.,Huang,M.,..Li,L. (2o17). Intrinsic brain abnormalities in young healthy adults with childhood trauma: Aresting-state functional magnetic resonance imaging study of regional homogeneity and functional connectivity. The Australian and New Zealand Journal of Psychiatry, 51(6), 614-623.   \nMaikovich, A. K., Koenen, K. C., & Jaffee, S.R. (20o9). Postraumatic stress symptoms and trajectories in child sexual abuse victims: an analysis of sex differences using the national survey of child and adolescent wel-being. Journal of Abnormal Child Psychology, 37(5), 727-737.   \nManoliu,A.,Meng, C.,Brandl,F.,Doll,A.,Tahmasian,M.,Scherr,M.,Schwerthoer,D.,Zimmer,C.,Frstl, H.,Bauml,J.,Riedl, V.,..Sorg, C.(2014). Insular dysfunction within the salience network is associated with severity of symptoms and aberrant inter-network connectivity in major depressive disorder. Frontiers in Human Neuroscience, 7, 930.   \nMarusak, H. A., Etkin, A.,& Thomason, M. E. (2o15). Disrupted insula-based neural circuit organization and conflict interference in trauma-exposed youth. Neuroimage: Clinical, 8, 516-525.   \nMay, A.,& Gaser, C. (2o06). Magnetic resonance-based morphometry: a window into structural plasticity of the brain. Current Opinion in Neurology, 19(4), 407-411.   \nMcEwen,B.S.,Eiland,L.,Hunter,R. G.,& Millr,M.M. (2012). Stressandanxiety: structural plasticityand epigenetic regulation as a consequence of stress. Neuropharmacology, 62(1), 3-12.   \nMcEwen, B. S., Nasca,C.,& Gray,J.D.(20l6). Stress effcts on neuronal structure: hippocampus, amygdala, and prefrontal cortex. Neuropsychopharmacology, 41(1), 3-23.   \nMcLaughlin, K.A., & Hatzenbuehler, M.L. (2oo9). Stressful life events, anxiety sensitivity,and internalizing symptoms in adolescents. Journal of Abnormal Psychology, 118(3), 659-669.   \nMcLaughlin, K.A., Conron, K.J., Koenen, K. C.,& Gilman,S.E. (2010). Childhood adversity,adult stressful life events,and risk of past-year psychiatric disorder: a test of the stress sensitization hypothesis in a population-based sample of adults. Psychological Medicine, 40(10), 1647-1658.   \nMcLaughlin, K.A., Sheridan,M.A.,& Nelson, C.A. (2017). Neglect as a Violation of Species-Expectant Experience: Neurodevelopmental Consequences. Biological Psychiatry, 82(7), 462-471.   \nMecheli,A.,Price, C.J.,Friston,K. J.,Ashburner,J. (20o5). Voxel-based morphometry of the human brain: methods and applications. Current Medical Imaging, 1(2), 105-113.   \nMennes,M., Kelly, C., Zuo,X.N., Martino,A.D.,Biswal,B.B.,Castellanos,F.X.,& Milham,M.P.(2010). Interindividual differences in resting-state functional connectivity predict task-induced BOLD activity. Neuroimage, 50(4), 1690-1701.   \nMenon V. (2O11). Large-scale brain networks and psychopathology: a unifying triple network model. Trends Cogn Sci, 15(10), 483-506.   \nMenon,V.,& Uddin,L. Q. (2010). Saliency, switching, attention and control: a network model of insula function. Brain Struct Func, 214, 655-667.   \nMorey,R.A.,Petty, C.M., Xu,Y., Hayes,J.P., Wagner II, H. R.,Lewis,D.V.,.. & McCarthy, G. (2009). A comparison of automated segmentation and manual tracing for quantifying hippocampal and amygdala volumes. Neuroimage, 45(3), 855-866.   \nNoble,S., Spann, M. N.,Tokoglu,F., Shen, X., Constable,R.T.,& Scheinost, D. (2017). Influences on the test-retest reliability of functionalconnectivity MRI and its relationship with behavioral utility. Cerebral Cortex, 27(11), 5415-5429.   \nNelson, C.A., Scott, R. D., Bhutta, Z. A., Harris, N. B., Danese,A.,& Samara, M. (202O). Adversity in childhood is linked to mental and physical health throughout life. British Medical Journal,371,3048.   \nO'Doherty, J.,Kringelbach, M.L., Rolls, E.T., Hormak, J., & Andrews, C. (20o1). Abstract reward and punishment representations in the human orbitofrontal cortex. Nature Neuroscience, 4(1), 95-102.   \nOliveri,M.,Babiloni, C.,Filippi,..,，Caltagirone,C.,Babiloni,F., Cicinelli,P.,..ossini,P..(003). Influence of the supplementary motor area on primary motor cortex excitability during movements triggered by neutral or emotionally unpleasant visual cues. Experimental Brain Research, 149(2), 214-221.   \nPaquola, C.,Bennett,M.R., Haton,S.N., Hermens,D.F.,&Lagopoulos,J. (2017). Utility of the cumulative stress and mismatch hypotheses in understanding the neurobiological impacts ofchildhood abuse and recent stressin youth with emerging mental disorder. Human Brain Mapping, 38(5), 2709-2721.   \nPerino,M. T., Myers, M. J., Wheelock, M. D., Yu, Q., Harper, J. C.,Manhart, M.F.,.. Sylvester, C. M. (2021). Whole-brain resting-state functional connectivity patterns associated with pediatric anxiety and involuntary attention capture. Biological Psychiatry Global Open Science, 1(3), 229-238.   \nPhilips,M.L.,Drevets, W.C., Rauch, S.L.,&Lane,R. (2003). Neurobiology of emotion perception I: The neural basis of normal emotion perception. Biological Psychiatry, 54(5), 504-514.   \nPrice,M.,Legrand, A.C., Brier, Z.M.,& Hebert-Dufresne,L. (2019). The symptoms at the center: Examining the comorbidity of posttraumatic stress disorder, generalized anxiety disorder, and depression with network analysis. Journal of Psychiatric Research, 109,52-58.   \nQin, S.,Young, C.B.,Duan,X., Chen,T.,Supekar, K.,& Menon, V. (2014). Amygdala subregional structure and intrinsic functional connectivity predicts individual differences in anxiety during early childhood. Biological Psychiatry, 75(11), 892-900.   \nRabelino,D.,Densmore,M.,Theberge,J.,McKinnon,M. C.,& Lanius,R.A. (2018). The cerebellum after trauma: Resting-state functional connectivity of the cerebellum in posttraumatic stress disorder and its dissociative subtype. Human Brain Mapping, 39(8), 3354-3374.   \nRingwald, K.G.,Meller,T.,Schmit,S.,Andauer,T.,Stein,F.,Brosch,K.,..Kircher,T. (2021). Interaction of developmental factors and ordinary stressful life events on brain structure in adults. Neuroimage: Clinical, 30,102683.   \nRoger, C.,Benar, C. G., Vidal,F., Hasbroucq,T.,& Burle, B. (2010). Rostral Cingulate Zone and correct response monitoring: ICA and source localization evidences for the unicity of correct- and error-negativities. Neuroimage, 51(1), 391-403.   \nRolls,E.T. (2O17). The orbitofrontal cortex and emotion in health and disease, including depression. Neuropsychologia,128,14-43.   \nSaedpanah, D., Salehi, S., & Moghaddam, L.F. (2016). The Effect of Emotion Regulation Training on Occupational Stress of Critical Care Nurses. Journal of Clinical and Diagnostic Research, 10(12), VC01-VC04.   \nSaxbe,D., Khoddam, H.,Piero,L. D.,Stoycos,S.A., Gimbel, S.I., Margolin, G.,& Kaplan, J.T. (2018). Community violence exposure in early adolescence: Longitudinal associations with hippocampal and amygdala volume and resting state connectivity. Developmental Science, 21(6), e12686.   \nSchlatter,S.,Guilot,A.,Schmidt,L.,Mura,M.,Trama,R.,Di Rienzo,F.,..Debarnot, U. (2021). Combining proactive transcranial stimulation and cardiac biofeedback to substantially manage harmful stress effects. Brain Stimulation, 14(5),1384-1392.   \nSerra-Blasco, M., Radua,J., Soriano-Mas, C., Gómez-Benlloch,A., Porta-Casteras, D., Carulla-Roig, M.. Cardoner,N. (2O21). Structural brain correlates in major depression, anxiety disorders and post-traumatic stress disorder: A voxel-based morphometry meta-analysis. Neuroscience and Biobehavioral Reviews, 129, 269-281.   \nShen, X.,Tokoglu,F.,Papademetris,X.,& Constable,R.T. (2013). Groupwise whole-brain parcelation from resting-state fMRI data for network node identification. Neuroimage, 82, 403-415.   \nShen, X.,Finn,E.S.,Scheinost,D.,Rosenberg, M.D., Chun, M.M.,Papademetris,X.,& Constable,R.T. (2017). Using connectome-based predictive modeling to predict individual behavior from brain connectivity. Nature Protocols, 12(3), 506-518.   \nSheynin,J.,uval,E.R.,okshina,Y.,cott,J.C.,ngstadt,.,Kessler,D.,..berzon,I. ().lterd resting-state functional connectivity in adolescents is associated with PTSD symptoms and trauma exposure. Neuroimage: Clinical, 26,102215.   \nShimada, K.,Takiguchi,S., Mizushima,S.,Fujisawa,T. X.,Saito,D.N., Kosaka,H.,..Tomoda,A. (2015). Reduced visual cortex grey matter volume in children and adolescents with reactive attachment disorder. Neuroimage: Clinical, 9,13-19.   \nShonkoff,J.P., Boyce,W.T.,& McEwen,B.S. (20o9).Neuroscience,molecular biology,and the childhood roots of health disparities: building a new framework for health promotion and disease prevention. JAMA, 301(21),2252-2259.   \nSimmons, A. N., Paulus, M. P., Thorp, S.R., Matthews, S. C., Norman, S.B.,& Stein, M. B. (2008). Functional activation and neural networks in women with postraumatic stress disorder related to ntimate partner violence. Biological Psychiatry, 64(8),681-690.   \nSmith, K. E.,& Pollak, S. D.(2020). Early life stress and development: potential mechanisms for adverse outcomes. Journal of Neurodevelopmental Disorders, 12(1), 34.   \nSoares,J. M.,Sampaio,A.,Ferreira,L.M.,Santos,N.C.,Marques,P.,Marques,F.,..Sousa,N. (2013).Stress impact on resting state brain networks. PLoS One, 8(6), e66500.   \nSong, K. (2013). Asymptotic Relative Efficiency and Exact Variance Stabilizing Transformation for the Generalized Gaussian Distribution. IEEE Transactions on Information Theory, 59(7), 4389-4396.   \nSpäti,J.,Hänggi,J.,Doerig,N.,Ernst,J.,Sambataro,F.,Brakowski,J.,..Spineli,S. (2015). Prefrontal thinning afects functional connectivity and regional homogeneity of the anterior cingulate cortex in depression. Neuropsychopharmacology, 40(7), 1640-1648.   \nStevens. J. S. van Rooi. S.. & Jovanovic. T. (2018). Develonmental Contributors to Trauma Resnonse: The ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Importance of Sensitive Periods,Early Environment,and Sex Differences. Current Topics in Behavioral Neurosciences, 38,1-22.   \nStrigo,I. A., Simmons,A. N., Mathews,S.C., Grimes,E. M.,Allard, C.B.,Reinhardt,L.E.,..Stein, M. B. (2010). Neural correlates of altered pain response in women with postraumatic stress disorder from intimate partner violence. Biological Psychiatry, 68(5), 442-450.   \nTeicher,M. H.,Samson,J.A.,Anderson, C.M.,& Ohashi, K. (2016).The effects of childhood maltreatment on brain structure, function and connectivity. Nature Reviews Neuroscience, 17(10), 652-666.   \nThomason, M. E., Marusak, H. A., Tocco, M. A., Vila,A. M., McGaragle,O.,& Rosenberg, D. R. (2015). Altered amygdala connectivity in urban youth exposed to trauma. Social Cognitive and Affective Neuroscience, 10(11),1460-1468.   \nTipping, M. E. (2O01). Sparse Bayesian learning and the relevance vector machine. Journal of Machine Learning Research, 1(Jun),211-244.   \nTomoda,A., Navalta, C.P.,Polcari,A., Sadato,N.,& Teicher,M. H. (2009). Childhood sexual abuse is associated with reduced gray matter volume in visual cortex of young women. Biological Psychiatry, 66(7), 642-648.   \nTomoda, A.,Sheu,Y.S., Rabi, K., Suzuki,H., Navalta, C.P.,Polcari,A.,& Teicher,M.H. (2011). Exposure to parental verbal abuse is associated with increased gray matter volume in superior temporal gyrus. Neuroimage, 54, S280-S286.   \nTomoda,A., Polcari, A., Anderson, C.M.,& Teicher,M. H. (2012). Reduced visual cortex gray matter volume and thickness in young adults who witnessed domestic violence during childhood. PloS One, 7(12), e52528.   \nTong,D. D.,Li, W.F.,Lu,P., Yang, W.J., Yang, D., Zhang, Q.L., & Qiu, J. (202O). The neural basis of scientific innovation problem finding. Acta Psychologica Sinica, 52(11),1253-1265.   \n[童丹丹，李文福，禄鹏，杨文静，杨东，张庆林，邱江.(2020).科学发明情境中问题提出的脑机制再探. 心理学报,52(11),1253-1265.]   \nTooley, U.A., Basset, D. S., & Mackey,A. P. (2021). Environmental influences on the pace of brain development. Nature Reviews: Neuroscience, 22(6), 372-384.   \nTzourio-Mazoyer, N.,Landeau,B.,Papathanassiou,D.,Crivello,F.,Etard,O.,Delcroix, N.,..Joliot,M. (2002). Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain. Neuroimage, 15(1), 273-289.   \nUddin,L.Q. (2017). Salience network of the human brain $| |$ Functions of the salience network. Academic Press, 11-16.   \nVanaelst,B.,Huybrechts,I.,De Bourdeaudhuij,I.,Bammann,K.,Hadjigeorgiou, C.,Eiben,G.,..De Henauw, S. (2012). Prevalence of negative life events and chronic adversities in European pre-and primary-school children: results from the IDEFICS study. Archives of Public Health, 70(1),1-11.   \nVuper,T. C.,Philippi, C.L.,& Bruce,S.E. (2O21). Altered resting-state functional connectivityof the default mode and central executive networks follwing cognitive processing therapy for PTSD. Behavioural Brain Research, 409,113312.   \nWabnegger,A., Ubel, S.,& Schienle,A. (2018). Voxel-based morphometry of disgust sensitivity. Social Neuroscience, 13(2), 241-245.   \nWallace, G.L.,Richard,E.,Peng, C.S., Knodt,A.R.,& Hariri,A.R. (202O). Subclinicaleating disorder traits are correlated with cortical thickness in regions associated with food reward and perception. Brain Imaging and Behavior, 14(2),346-352.   \nWaller,L., Walter,H., Kruschwitz,J.D.,Reuter,L.,Muller,S.,Erk,S., Veer,I.M. (2017). Evaluating the replicability,specificity,and generalizability of connectome fingerprints. Neuroimage,158,371-377.   \nWatson,D., Clark,L.A., & Tellegen,A. (1988). Development and validation ofbrief measures ofpositive and negative affect: the PANAS scales. Journal of Personality and Social Psychology, 54(6),1063.   \nWang,H., Jin, X., Zhang, Y., & Wang, J. (2016). Single-subject morphological brain networks: connectivity mapping, topological characterization and test-retest reliability. Brain and Behavior, 6(4), e00448.   \nWu, J.,Tong,H.,Liu,.,Tao,J., Chen,L., Chan,C.,&Lee,T.(2021). Neurobiological effects ofperceived stress are different between adolescents and middle-aged adults. Brain Imaging and Behavior, 15(2), 846-854.   \nXia,L.,Wang, J.L.,& He,Y. (2o10). Human connectome: Structural and functional brain networks. Chinese ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Science Bulletin, 55(16), 1565-1583. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "[梁夏，王金辉，贺永.(2010).人脑连接组研究:脑结构网络和脑功能网络.科学通报,55(16),1565-1583.]   \nYu,M.,Linn,K.A.,Shinohara,R.T.,Oathes,D.J.,Cook,P.A.,Duprat,R.,..Sheline,Y. I. (2019). Childhood trauma history is linked to abnormal brain connectivity in major depression. Proceedings of the National Academy of Sciences, 116(17), 8582-8590.   \nZhou,F., Zhao, W., Qi,Z., Geng,Y.,Yao,S.,Kendrick,K.M.,..Becker,B. (2021). A distributed fMRI-based signature for the subjective experience of fear. Nature Communications, 12(1), 1-16.   \nZhutovsky,P.,Zantvoord,J.B.,Ensink,J.B.,opden Kelder,R.,Lindauer,R.J.,& van Wingen, G.A. (2021). Individual prediction of trauma-focused psychotherapy response in youth with posttraumatic stress disorder using resting-state functional connectivity. Neuroimage: Clinical, 32,102898.   \nZuo, X.N.,Di Martino,A., Kelly, C.,Shehzad,Z.E., Gee,D. G., Klein,D.F.,..Milham,M. P. (2010).The oscillating brain: Complex and reliable. Neuroimage, 49(2), 1432-1445. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "The relationship between frontotemporal regions and early life stress in children aged 9 to 12: Evidence from multimodal fMRI ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "LI Wei 1 BIAN Zimingl CHEN Ximei1 WANG Junjie1 LUO Yijun $^ { 1 }$ LIU Yong $^ { 1 , 2 }$ ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "SONG Shiqingl GAO Xiao $^ { 1 , 2 }$ CHEN Hong1,2 ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "(1 Faculty of Psychology, Southwest University, Chongqing 400715,China) (2 Key Laboratory of Cognition and Personality (SWU), Ministry ofEducation, Chongqing 400715, China) ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Early life stress (ELS) has been used to describe a broad spectrum of adverse and stressful events, including childhood trauma occurring during neonatal life,early and late childhood,and adolescence. Childhood is a vulnerable time point for stressful events due to an immature brain, which increases the risk of psychopathology in later ife. However, to date, studies have focused almost exclusively on adolescents and adults,and little is known about the relationship between ELS and the structural and functional brain changes in children. Here, we adopted a multimodal approach combining voxel-based morphometry (VBM) and functional connectivity (FC) to examine the neural substrates of ELS in children aged $9 { \\sim } 1 2$ years. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "A total of 139 children were recruited for this study.For each participant,the ELS level was assessed and an 8-minute rs-fMRI scan was performed using a 3T Trio scanner. Participants with unqualified data were excluded, resulting in a final sample of 78 participants (39 females; mean $\\tt a g e = 1 0 . 1 8$ ).For statistical analysis, we used the gray matter volume (GMV) and FC to explore the brain structural and functional correlates of children's ELS and then used a machine learning method to investigate whether and how structural connectivity profiles in predefined brain networks can predict ELS levels.Additionally,exploratory analyses were performed to investigate potential sex diferences and age characteristics in GMVand FC associated with children's ELS. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "VBM analysis showed that greater ELS was associated with a larger GMV in the left medial orbitofrontal cortex,right insular cortex,left superior temporal gyrus,and left supplementary motor area.Subsequently, we used these clusters as seed regions to analyze the corelation between FC and stressin children. We found hat greater ELS was associated with lower insular-inferior parietal lobule (IPL) connectivity.The results were not influenced by sex,age,total intracranial volume,or head motion. Furthermore,the predictive analysis of machine learning reported that the sensorimotor, frontoparietal,salience,visual,and cerebellar networks could marginally predict ELS scores. Finall, exploratory analyses showed that there were no significant sex differences in the GMV or FC associated with ELS and that significant correlations of ELS with the GMV of the inferior occipital gyrus were mainly manifested in 9-year-old children. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Using VBM and FC analyses, we detected structural and functional brain alterations associated with ELS in children aged $9 { \\sim } 1 2$ years. Specifically, the VBM analysis mainly reflected that children with high ELS may have abnormal emotional and cognitive functions,such as hypersensitivity to emotional stimuli and over-monitoring of their own behavior.In addition,FC analysis indicated that aberrant interaction of internal and external information may contribute to high ELS in childhood. This study not only provides unique insights into the neural substrates of ELS but may also help identify children who are susceptible to ELS withinthe general population, which may be advantageous for early prevention strategies and interventions for children. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Key words early life stress, children, gray mater volume,resting-state functional connectivity, machine learning, structural network ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "附录",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/74e6509a6a2bbc6eddad2b345e6871008b40ec734581285b68875e741125e73b.jpg",
+        "table_caption": [
+            "附表1消极情绪与应激水平和脑指标相关分析的结果 $( N = 7 8 )$ "
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { \\ m O F C = }$ 内测眶额叶(medial orbitofrontal cortex)；Insular $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 脑岛; $\\mathrm { \\ S T G = }$ 颞上回(superior temporal gyrus)； $\\mathbf { S M A } =$ 辅 助运动区(supplementary motor area); $\\mathrm { { I P L } = }$ 顶下小叶(inferior parietal lobule);’相关系数边缘显著 $p = 0 . 0 6$ $^ { * } p < 0 . 0 5 ; ^ { * * } p$ $< 0 . 0 1$ 。 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>应激原始分数</td><td>应激转换分数</td><td>mOFC 灰质体积</td><td>Insular 灰质体积</td><td>STG 灰质体积</td><td>SMA灰质体积</td><td>Insular-IPL 功能连接</td></tr><tr><td>消极情绪总分</td><td>0.29**</td><td>0.34**</td><td>0.12</td><td>0.12</td><td>0.211</td><td>0.25*</td><td>0.01</td></tr><tr><td>害怕的</td><td>-0.02</td><td>0.05</td><td>0.03</td><td>-0.04</td><td>-0.03</td><td>0.02</td><td>-0.01</td></tr><tr><td>羞耻的</td><td>0.19</td><td>0.20</td><td>-0.02</td><td>-0.16</td><td>-0.06</td><td>0.02</td><td>-0.11</td></tr><tr><td>痛苦的</td><td>0.31**</td><td>0.31**</td><td>0.17</td><td>0.11</td><td>0.15</td><td>0.19</td><td>0.07</td></tr><tr><td>有罪恶感的</td><td>0.22</td><td>0.21</td><td>0.14</td><td>0.10</td><td>0.08</td><td>0.01</td><td>-0.05</td></tr><tr><td>敌意的</td><td>0.27*</td><td>0.30**</td><td>0.12</td><td>0.16</td><td>0.20</td><td>0.24*</td><td>-0.02</td></tr><tr><td>LAg 易怒的</td><td>0.26*</td><td>0.25*</td><td>0.14</td><td>0.16</td><td>0.32**</td><td>0.34**</td><td>0.10</td></tr><tr><td>3 神经过敏的</td><td>0.08</td><td>0.10</td><td>0.02</td><td>0.07</td><td>0.19</td><td>0.19</td><td>0.04</td></tr><tr><td>1 .00 紧张的</td><td>0.03</td><td>0.10</td><td>-0.05</td><td>0.08</td><td>0.07</td><td>0.03</td><td>-0.03</td></tr><tr><td>受惊吓的</td><td>0.12</td><td>0.16</td><td>-0.04</td><td>0.02</td><td>0.04</td><td>0.18</td><td>0.08</td></tr><tr><td>99 难过不安的</td><td>0.19</td><td>0.23*</td><td>0.15</td><td>0.15</td><td>0.19</td><td>0.10</td><td>-0.10</td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e34971303552d5e4f448b5a410dd4007b4fd6089b8db41b5c4b121090d39449.jpg",
+        "table_caption": [
+            "附表2预测儿童应激水平贡献率前 $10 \\%$ 的脑区 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>脑区 节点</td><td>半球</td><td>绝对权重</td></tr><tr><td rowspan=\"6\">聂叶</td><td>颞极 右</td><td>0.007</td></tr><tr><td>颞下回</td><td>右 0.012</td></tr><tr><td>颞下回</td><td>右 0.007</td></tr><tr><td>颞极</td><td>左 0.010</td></tr><tr><td>颞下回</td><td>左 0.012</td></tr><tr><td>梭状回</td><td>左 0.018</td></tr><tr><td rowspan=\"6\">运动区</td><td>辅助运动区 右</td><td>0.006</td></tr><tr><td>中央后回</td><td>右 0.040</td></tr><tr><td>额上回</td><td>右 0.007</td></tr><tr><td>颞上回</td><td>右 0.008</td></tr><tr><td>颞上回</td><td>右 0.010</td></tr><tr><td></td><td></td></tr></table></body></html>",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd80877fadd660dec7bacc10d4cf28d5a298fe572dd85f9607bb6c5cd7212937.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：特征选择阈值 $p < 0 . 0 1$ ，预测模型显著性采用2000 次置换检验 $p < 0 . 0 5$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">前额叶</td><td>眶额叶</td><td>右 0.008</td></tr><tr><td>额下三角回</td><td>左 0.008</td></tr><tr><td rowspan=\"4\">顶叶</td><td>额下三角回</td><td>左 0.004</td></tr><tr><td>角回</td><td>右 0.006</td></tr><tr><td>顶上回</td><td>左 0.041</td></tr><tr><td>颞中回</td><td>左 0.007</td></tr><tr><td rowspan=\"2\">枕叶</td><td>舌回</td><td>右 0.007</td></tr><tr><td>舌回</td><td>右 0.008</td></tr><tr><td>边缘</td><td>中部扣带回</td><td>左 0.011</td></tr><tr><td>亚皮层</td><td>丘脑</td><td>右 0.004</td></tr><tr><td rowspan=\"7\">小脑</td><td>小脑上部</td><td>右 0.019</td></tr><tr><td>小脑蚓体</td><td>右 0.004</td></tr><tr><td>小脑下部</td><td>左 0.011</td></tr><tr><td>小脑下部</td><td>左 0.006</td></tr><tr><td>小脑下部</td><td>左 0.011</td></tr><tr><td>小脑上部</td><td></td></tr><tr><td></td><td>左 0.050</td></tr></table></body></html>",
+        "page_idx": 35
+    }
+]

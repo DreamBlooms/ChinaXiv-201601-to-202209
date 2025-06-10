@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "Histone Variant H3.3: A versatile H3 variant in health and in disease ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chaoyang Xiong1†, Zengqi Wen1,2† & Guohong Li ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NationalLaboratoryofBomacromolecules,InstituteofBophysics,ChineseAcademyofSciences,BeijingOoChina, ²University of Chinese Academy of Sciences,Beijing 10o049,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received July 20,2015;accepted August 26,2015; published online January 27,2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Histones are the main protein components of eukaryotic chromatin.Histone variantsand histone modifications modulate chromatin structure,ensuring the preciseoperationof cellular processes associated with genomic DNA.H3.3,anancient and conserved H3variant,differs fromitscanonicalH3counterpartbyonlyfiveaminoacids,yetit plays essentialandspecific roles ingene transcription,DNArepairandinmaintaining genome integrity.Here,wereviewthemostrecent insights into the functions of histone H3.3,and the involvement of its mutant forms in human diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "histone variants,H3.3,histone chaperones,development, tumorigenesis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Xiong,C.,Wen,ZandiG.(O6).HtoneVaratH:AersatileHvaraiealdiseaseSiCaLifei5946. doi:10.1007/s11427-016-5006-9 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chromatin consists of repeating units called nucleosomes, which are composed of an octamer of canonical histone proteins H2A，H2B，H3 and H4,and 147 bp of DNA wrapped around the octamer (Luger et al., 1997).Histones possess tails on both C- and N-termini, both of which are subject toa greatnumberof post-translational modifications (PTMs)，including methylation，acetylation，phosphoryla tion and ubiquitination (Kouzarides,2OO7).These PTMs play important roles in the regulation of dynamic processes related to nucleosomes,including nucleosome turnover and chromatin remodeling.As a consequence,highly specific chromatin states can be established to regulate DNA replication and transcription，and maintain genome stability (Kouzarides,2OO7).In addition to the mechanisms mentioned above,another regulatory layer of chromatin state exists，namely- the exchange of canonical histones with histone variants.Histone variants possess characteristics absent from canonical histones and contribute to the regulation of the structure and function of nucleosome and chromatin (Henikoff and Ahmad, 2005). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In mammals,various canonical H3 as well as variant forms ofH3have been identified.CanonicalH3 are H3.1 andH3.2,which differ at only one amino acid residue,with Cys96 in H3.1 and Ser96 in H3.2 (Szenker et al.,2011). Apart from the canonical H3,multiple variants of H3 have nowbeenidentified:thereplacement variantH3.3,the centromere-specific variant CENP-A,the testis-specific variant H3t and H3.5,and the primate-specific variants H3.X and H3.Y (Filipescu et al.,2013).H3.3 differs from H3.1 by five amino acids substitutions (S31A,A87S,I89V,G90M, and S96C) (Figure 1A).H3.3 Ser31is located at N-terminal tail and can be phosphorylated (Hake et al.,2OO5).The residuesAla87,Ile89andGly9Oarelocatedinthe $\\mathbf { \\alpha } \\propto 2$ helix of the histone-fold domain,and are important for H3.3 deposition at specific loci in the genome by different histone chaperones (Filipescu et al.,2O13).In this review we will focus on the recent progress in our understanding of the biological functions of histone H3.3,as well as its role during development and tumorigenesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/781de5663ad9eaccef3c75c68aeba8243d39da059a62ad85329a994c4074b0d0.jpg",
+        "img_caption": [
+            "Figure1 Genomic distribution ofH3.3.A,Schematic view of the amino acid difference between canonical H3 (H3.1/H3.2） and replacement H3(H3.3),and the lysine residues enriched in the N-terminus of H3.B, H3.3 is deposited at various chromatin environments by either HIRA complex or DAXX/ATRX.HIRA complex is responsible for the incorporation of H3.3 to active promoters,bivalent promoters and transcribed gene bodies.H3.3 is essential for the maintenance of $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ at bivalent promoters and is enriched with H3K36me3 in transcribed gene bodies. ATRX/DAXX deposits H3.3 to pericentromeric regions,repetitive elements and telomeres.H3.3 specific enrichment of H3K9me3 is required for the repression of ERVs and imprinted DMRs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "THEPROPERTIESOFH3.3COMPAREDWITHITSCANONICAL COUNTERPARTS",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The expression patterns of H3.3 coding genes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the human species,the genes encoding H3.1 and H3.2 lack introns and do not have a polyA signal, though they contain a palindromic termination element,which is involved in the regulation of transcriptional termination (Marzluff etal.,2OO2).Ten H3.1 genes have been identified (HISTiH3A to HISTiH3J),all of which are located in the histone cluster 1 on chromosome 6p22-p21.3 (Marzluff et al.，2002).H3.2 is coded by three genes，namely HIST2H3A，HIST2H3C andHIST2H3D on chromosome1 (Marzluff et al.,2OO2).These H3 genes are all expressed simultaneously at S phase, together with the other canonical histone genes (Frank et al.,2OO3).These histones are incorporated into the chromatin in a DNA replicationdependent manner (RD).In contrast, there are only two H3.3 genes,namely H3F3A and H3F3B,both of which contain introns and a polyadenylation signal (Frank et al., 2003).These are located on chromosome 1 and 17,respectively,andhavedifferent $5 ^ { \\prime }$ -UTR（ $5 ^ { \\prime }$ untranslated region）, which suggests they may be subjected to different mechanisms of transcriptional regulation(Frank etal.,2Oo3).H3.3 isexpressed and incorporated into chromatin throughout the entire cell cycle,through both DNA replication-dependent (RD） and -independent (RI) mechanisms(Ahmad and Henikoff,2OO2).It is worth noting that H3.1 can also be incorporated into chromatin at DNA repair sites through DNA synthesis-dependent mechanisms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The genome-wide distribution of H3.3. ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Histone proteins,which are translated in the cytoplasm,are chaperoned into the nucleus for assembly into chromatin (Li et al.,2O13).To date,numerous histone chaperones have been identified.For the histone H3 family,both common chaperones and histone form-specific chaperones are described.Common chaperones include Asfla,Asflb and NASP,and specific chaperones include CAF1 (chromatin assembly factor 1),HIRA (histone cell cycle regulator), DAXX (death domain-associated protein） and HJURP (Holliday junction recognition protein）(Hamicheand Shuaib,2O13).Both common and specific chaperons bind H3 in the form of its H3/H4 hetero-dimer.NASP transports H3/H4 into the nucleus and supplies them to Asfla/b,which in turn delivers $\\mathrm { H } 3 . 1 / \\mathrm { H } 4 \\$ to CAF1 or $\\mathrm { H } 3 . 3 / \\mathrm { H } 4$ to HIRA and DAXX (Hamiche and Shuaib,2O13). The crystal structure of the DAXX-H3.3-H4 complex reveals that both Ala87 and Gly9O of H3.3 can mediate the specific interaction between DAXX and H3.3 (Liu et al.,2012). It would be of great interest to also acquire the crystal structure of CAF1 complexed with $\\mathrm { H } 3 . 1 / \\mathrm { H } 4 \\$ and/or HIRA complexed with $\\mathrm { H } 3 . 3 / \\mathrm { H } 4$ ，to identify the mechanisms by which chaperones distinguish the minor sequence difference between canonical H3 and H3.3. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Currently known H3.3 histone chaperones are DAXX complex and HIRA complex (Lewis et al.,2O1O; Tagami et al.,20O4),both of which deposit H3.3 into the genome throughout the entire cell cycle of actively dividing cells and in quiescent cells (Figure 1B). In a pioneering cytological study,using immunostaining and DNA FISH (Fluorescent in suit Hybridization),H3.3 was discovered to be deposited at specific,active chromatin regions in Drosophila cells (Ahmad and Henikoff,2OO2)． Subsequently, the replacement of $\\mathrm { H } 3 . 3$ was studied on a genome-scale by ChIP-chip(chromatin immunoprecipitation（\"ChIP\"）with DNA microarray(\"chip\")） method. It was found that the H3.3 signal covered active genes and transposons,and positively correlated with H3K4 methylation intensity and RNA polymerase II (RNAP II) signal.Importantly,the male X chromosome,which has stronger transcriptional activity compared to autosomes due to dosage-compensation (Straub et al.，2Oo5)，also displayed higher H3.3 density across the chromosome (Mito et al.,20O7). There is,now, growing evidence that the HIRA complex is responsible for the deposition of H3.3 at actively transcribed genes.As a consequence,new nucleosomes can form,ultimately ensur ing genome stability.Moreover, in recent studies in mouse ES cells using chromatin immunoprecipitation combined with high-resolution genome-wide sequencing (ChIP-seq), it wasrevealedthatH3.3 isalso enrichedata subset of inactive genes,telomeres and repetitive elements such as endogenous retroviral elements(ERVs)(Elsasser et al.,2015; Goldberg et al., 2O1O),where ATRX/DAXX is required for H3.3 deposition and the maintenance of a repressive chromatin state (Elsasser et al.，2O15；Goldberg et al.,2010; Lewis et al.,201O;Voon et al.,2015).Meanwhile,H3.3 is also distributed in other regions such as cis-regulatory elements (Chen et al., 2O13; Goldberg et al., 201O; Mito et al., 2007),and plays an important part in the regulation of gene expression (Chen et al.,2O13).However,the chaperon that is responsible for deposition of H3.3 at these regions remains to be identified (Filipescu et al.，2O13；Goldberg et al.，2O1O;Szenker et al.,2011).Taken together,these results suggest that H3.3 is deposited across the genome by dedicated chaperone pathways with respect to chromatin contexts (Figure 1B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The regulation of chromatin dynamics by variant H3.3 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recent biochemical and biophysical studies on the stability of mono-nucleosomes and the dynamics of nucleosomal arrays have convincingly demonstrated that the presence of H3.3 has no effect on mono-nucleosomes’stability (Chen et al.,2O13;Thakar et al.,2OO9).Rather, it was found that H3.3presence impairs the inter-fiber interactionsof nucleosomal arrays (Chen et al.，2O13)．In comparison, H2A.Z,a H2A variant,enhances both the stability of mono-nucleosomes and the compaction of chromatin fibers. Interestingly，H3.3 incorporation overrules the effect of H2A.Z on chromatin compaction and results in the maintenance of a relatively open chromatin state (Chen et al.，2O13).While the precise mechanisms for this phenomenon are unknown，it is clear that the interplay between histone variants is crucial for the regulation of chromatin function in vivo.Previously,it was reported that H3.3-containing chromatin regions are less resistant to salt extraction,a condition which suggests that a relatively open chromatin structure is maintained there (Henikoff et al., 2009).In addition，nucleosomes containing H2A.Z/H3.3 double variants are found enriched at active promoters, enhancers and insulator regions in human cells,and the instability of these nucleosomes facilitates the access of transcription factors and co-factors to these regulatory regions (Jin et al.，2OO9). In addition,H3.3 levels at promoter regions are positively correlated with expression levels of the respective genes (Jin et al.， 2009). Although genome-wide analysis has shown that there is a positive correlation between H3.3 signal and transcriptional activity, direct evidence for a causal relationship is still lacking. Some hints about this correlation come from genetic studies in various model systems,including those of flies and mice. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In $H 3 f 3 a$ and $H 3 f 3 b$ double-null adult Drosophila,gene expression was found to be changed at a global level. Intriguingly,more genes were up-regulated than down-regulated (Sakai et al.,2Oo9), suggesting a repressive role of H3.3 in the transcriptional regulation.However, these changes were not specific to $\\mathrm { H } 3 . 3$ as they were rescued by overexpression of canonical H3.This result suggests that the non-exclusive role that $\\mathrm { H } 3 . 3$ plays in transcription is to maintain nucleosome density and genome stability (Sakai et al.，2009). However,gene expression profiling in mouse ES cells either depleted of H3.3 or HIRA,showed minor differences of gene expression levels in a subset of genes when compared to wild type cells. Thus，H3.3 may not be required for maintenance of the transcriptome in all cell types (Banaszynski et al.,2O13;Bush et al.,2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ina recent study utilizing all-trans-retinoic acid (tRA) to induce activation of target genes,H3.3 positioned at enhancers Was found to be essential for the rapid activation of target genes.It was also found that knockdown of H3.3 by siRNA resulted in chromatin compaction and delayed transcriptional response of target genes (Chen et al.，2013). These results suggest that in mouse ES cells, $\\mathrm { H } 3 . 3 \\mathrm { \\ m a y }$ function mainly by maintaining an open chromatin state, which is important for transcription initiation (Li et al., 2010).Furthermore,H3.3 deposits at DNA damage sites and renders chromatin prone for later reactivation of transcription once DNA repair is completed (Adam et al., 2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However,recent genome-wide studies found that H3.3 is also deposited at heterochromatin regions such as retroviral elements,telomeres and pericentromeres (Elsasser et al., 2015; Goldberg et al., 2O1O).For instance,studies of mouse ES cells showed that the DAXX-dependent deposition of H3.3 at telomere regions maintains telomere integrity，a situation which is essential for self-renewal of these cells. Furthermore,to fulfill this function in ensuring telomere integrity,both ${ \\mathrm { H } } 3 . 3 { \\mathrm { K } } 4 { \\mathrm { \\Omega } }$ and the presence of CBX4 (HP1α) are important (Goldberg et al.，2O1O; Wong et al.,2010; Wong et al.,2Oo9). More recently，a genome-wide study revealed that ATRX-dependent H3.3 deposition is not limited to telomeres and pericentromeric regions,but also occurs at imprinted loci. The interplay of ATRX and $\\mathrm { H } 3 . 3$ at imprinted alleles is essential for the maintenanceof H3K9me3 modification,gene repression and proper allelic expression (Voon et al.,2015). In another study,H3.3 was found to be required for the repression of key developmental genes via the recruitment of PRC2 by HIRA;furthermore，suppression of endogenous retrovirus element was dependent on DAXX,H3.3 and KAP1 (Banaszynski et al., 2013；Elsasser et al.，2O15).These researches suggest a more complex picture of H3.3 function along the genome. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The dynamics ofH3.3 turnover at the genome-wide. ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The incorporation into chromatin and eviction from chromatin of H3.3 during cellular activities are highly dynamic processes. While conventional chromatin immunoprecipitation (ChIP)-based methods measure the steady-state occupancy of H3.3 at specific target regions,they provide no information about the kinetics or turnover of H3.3.However,these characteristics are very important for the diverse function of chromatin proteins (Lickwar et al.,2O12). To address this problem，a novel method called CATCH-IT (covalent attachment of tags to capture histones and identify turnover） was used in a recent study to determine the turnover rate of $\\mathrm { H } 3 . 3$ along the Drosophila genome (Deal et al., 2010).In that report,it was shown that bodies of actively transcribed genes， replication origins and cis-regulatory elements showed the highest rate of turnover. This is consistent with the idea that histone turnover can assist the accessibility of the DNA to transcription or replication machinery and trans-acting factors.More interestingly,nucleOsomes at trithorax group-binding regions turn over faster than those in polycomb-group protein-binding regions; this is consistent with the notion that trithorax group maintains active chromatin state while polycomb-group protein binding results in a repressive chromatin state (Steffen and Ringrose,2O14). In another study,the H3.3-containing nucleosome turnover in a mouse fibroblast genome was captured by inducible expression of histones with epitope at different time points (Kraushaar et al.， 2013). This study showed that the turnover rate along the mouse genome varied greatly, falling into three categories: (i) rapid turnover at promoters and enhancers; (ii) intermediate turnover at gene bodies；and (ii) slow turnover at heterochromatic regions. Faster H3.3 turnover at enhancers and promoters is positively correlated with active histone modifications,including H3K4me1,H3K4me3,H3K9ac,H3K27ac and the histone variant H2A.Z,whereas slower turnover is positively correlated with H3K27me3 and H3K36me3 modifications. These results from Drosophila and mice studies indicate that there are distinct mechanisms for histone deposition and nucleosome eviction at different functional chromatin regions,mechanisms which are correlated with specific histone marks and chromatin binding proteins. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although H3.3 displays a highly dynamic behavior at a genome-wide level, it remains unknown whether the $( \\mathrm { H } 3 . 3 \\substack { - } \\mathrm { H } 4 ) _ { 2 }$ tetramer is replaced asaunit, or asa (H3.3-H4) heterodimer.Using a double-induction system to control the expression of H3.3, Zhu and colleagues reported that while none of the $( \\mathrm { H } 3 . \\mathrm { l } \\ – \\mathrm { H } 4 ) _ { 2 }$ tetramers,and nearly none of $( \\mathrm { H } 3 . 3 \\substack { - } \\mathrm { H } 4 ) _ { 2 }$ tetramers $( \\sim 9 0 \\% )$ split, the remaining $10 \\%$ of $( \\mathrm { H } 3 . 3 \\substack { - } \\mathrm { H } 4 ) _ { 2 }$ tetramers did experience splitting during DNA replication,and these splitting events are significantly enriched at the cell type-specific enhancer regions (Huang et al.,2O13). Considering the role of enhancers in maintaining cell type-specific transcription programs, the split H3.3 nucleosomes,together with the epigenetic information associated,may serve as epigenetic memory for a specific transcriptional status.It is of note that, during somatic cell nuclear transfer (SCNT),the active transcriptional state of donor nuclei was retained after being transplanted into an enucleated egg，and H3.3 indeed appeared to be necessary for the maintenance of epigenetic memory ( $\\mathrm { N g }$ and Gurdon, 2008).Although the molecular mechanisms behind memory establishment remain unclear,the spliting phenomenon described above might represent a potential pathway for the inheritance of epigenetic information during cell division. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "THEFUNCTIONSOFH3.3INDEVELOPMENT ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The function of H3.3 in early embryo development ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H3.3 takes part in various stages of development, such as gametogenesis,fertilization and differentiation (Bush et al., 2013;Lin et al.,2013; Tang et al., 2015;Wen et al., 2014a; Yuen et al.,2O14) (Figure 2A).Knockout animal models for H3.3 or H3.3-specific chaperones have revealed the essential functions of H3.3 during development (Garrick et al., 2006;Michaelson et al.，1999；Roberts et al.，2002； Tang et al.，2O15). H3.3 is encoded by two different introncontaining genes in mice, $H 3 f 3 a$ and $H 3 f 3 b$ . The two genes have distinct expression patterns and regulatory regions, suggesting they fulfill different cellular functions (Frank et al., 2003).H3f3a knockout mice were viable to adulthood,although males were found subfertile;in comparison, $H 3 f 3 b$ homozygotes-null mice displayed deficiencies in embryonal growth and did not survive birth,with $H 3 f 3 b$ heterozygote males being sterile(Tang et al.,2O15).In addition,a small percentage of homozygous $H 3 f 3 b$ -HA knock-in mice died within a week after birth(Wen et al.,2O14b).Although the cause of such lethality remains unclear, these phenomena indicate that H3.3 is important for early embryonic development.Furthermore, $H 3 f 3 b$ knockout MEF cells exhibited severe karyotype abnormalities,ectopic CENP-A localization and defective chromosome segregation, thus,suggesting that $\\mathrm { H } 3 . 3$ is important for maintaining overall chromosome integrity (Bush et al.,2013). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During Xenopus development, H3.3 expression peaks at gastrulation,and the depletion of H3.3 results in gastrulation arrest and abnormal expression of late mesoderm markers ( $\\mathrm { N g }$ and Gurdon,20o8).Knockdown of H3.3 in fertilized mouse zygotes results in growth arrest at the morula stage (Lin et al., 2O13).H3.3-deficient embryos display significantly reduced levels of open chromatin markers (such as H3K36me2 and H4K16Ac) and increased incorporation of linker H1,resulting in over-condensation and mis-segregation of chromosomes (Lin et al., 2O13). Together,these findings indicate that H3.3 is involved in establishing a finely balanced equilibrium between open and condensed chromatin states during early mouse development.Knockout of HIRA in mice was embryonically lethal, with defects in early gastrulation and disruption in mesodermal development (Roberts et al.,2Oo2); this phenotype was similar to that observed for $H 3 . 3$ -deficient embryo in Xenopus (Szenker et al.,2O12).Moreover,DAXX and ATRX knockout mice died before E9.5 (Garrick et al., ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9dd354184c1d232aa7b4d498cced1fa0555c8b41dcfb4b0c2bddba85530e0e9.jpg",
+        "img_caption": [
+            "Figure2RolesofH3.3anditshaperonesduringmammaliandevelopmentandhumancancers.A,H3.3anditschaperoestakepartieveral developentnfalchrtlletde mutations in skeletal and brain tissues.K36M and $\\mathrm { G } 3 4 \\mathrm { W } / \\mathrm { L }$ mutants are prevalent in a variety of bone tumors and result in the decrease of H3K36me3.The K27MandG4utatsrepreetinoaKutatiootagucleosidCwiigfitydbitctii thus leading to a global loss of $\\mathrm { H } 3 \\mathrm { K } 2 7 \\mathrm { m e } 3$ .The G34V/R mutation containing nucleosomes also inhibit H3K36me3 in the tumor cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2006;Michaelson et al.,1999).Thus,these H3.3 chaperones are essential for early embryo development,but whether these phenotypes of chaperone knockout mice are specifically linked to H3.3 requires further investigation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The function of H3.3 in gametogenesis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Drosophila with null mutations in both H3.3 genes survive to adulthood;however,both females and males are sterile, with chromosome condensation and segregation of germlines defective (Sakai et al.，2OO9). In mice, $H 3 f 3 a$ -null males are subfertile,and $H 3 f 3 b$ heterozygotes-null males are sterile (Tang et al.，2O15). These phenotypes in both mice and Drosophila suggest that $\\mathrm { H } 3 . 3$ is critical for fertility.H3.3 is expressed throughout the mouse seminiferous tubule,and depletion of $H 3 f 3 b$ resulted in male testes atrophy,abnormal sperm morphology,and was also shown to disrupt the expression patterns of spermatogenesis-related genes(Yuen et al.,2O14).In mammalian males,the X and Y chromosomes are transcriptionally silenced during the meiosis ofspermatogenesis,a processcalled meiotic sex-chromosome inactivation (MSCI).H3.3 was specifically incorporated into the XY chromosome during the MSCI process (van der Heijden et al.，2OO7). During spermatogenesis,the male germ cells undergo an extensive chromatin remodeling process: histones are largely exchanged for protamine and protamine-like proteins,resulting in the formation of highly condensed chromatin.However，not all nucleosomes were replaced,with a small number of H3.3- containing nucleosomes being retained.These nucleosomes are enriched in all those genomic regions that are important for development(Yuen et al.,2O14).In mouse sperm,H3.3 is enriched at high-CpG rich promoters that are not methylated (Erkek et al.,2013).H3.3 wasalso found to be essential during folliculogenesis and primary oocytes development (Tang et al.,2O15).Furthermore,a mutation in yemanuclein (yem), the homologofUBN1 subunit ofHIRA complex in Drosophila,was found to affect chromosome segregation in the first oocyte meiotic division (Meyer et al.,2O1O). Taken together, these findings reveal that H3.3 affects the meiosis of germ cells and plays an important role in the gametogenesis. Furthermore,HIRA protein was enriched in the nucleus in mouse primordial germ cells (PGCs） undergoing reprogramming (Hajkova et al., 2008). As an H3.3-specific antibody remains unavailable due to the minor sequence difference to canonical H3,it is still not known whether H3.3 is also enriched in PGCs nuclei.Thus, the $H 3 f 3 b$ -HA knock-in mouse will be a long-awaited model system that should provide exciting insights into the function of H3.3 in PGCs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The functionofH3.3 in fertilization ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During the late haploid phase of spermatogenesis,the majority of the histone in sperm chromatin is replaced by pro tamine,resulting in sperm head condensation. Following fertilization,thisprocess is reversed,and newmaternal H3.3 is preferentially incorporated into the paternal pronucleus (PN),replacing protamine and altering chromatin organization (Akiyama et al.,2O11). It has been shown for both Drosophila and mice that the deposition of H3.3 on paternal pronucleus is dependent on the presence of the HIRA complex (Inoue and Zhang，2O14;Loppin et al., 2005).Similarly,in HIRA mutant mouse zygotes,nucleosomes cannot assemble at the paternal pronucleus,and as a consequence ，both parental genomes show deficiencies in DNA replication as well as rRNA transcription (Inoue and Zhang，2014;Lin et al.，2014). These results show that HIRA-mediated H3.3 deposition is important for reprogramming of the parental genome during fertilization. In addition,H3.3 is specifically enriched in the paternal pericentromeric chromatin,and is essential for the establishment of pericentromeric heterochromatin in the mouse embryo.Mutation of $\\mathrm { H } 3 . 3 \\ \\mathrm { K } 2 7 \\$ ,but not of $\\mathrm { H } 3 . 1 ~ \\mathrm { K } 2 7 \\$ ,results in de-repression of pericentromeric transcripts, $\\mathrm { H P l } \\beta$ mislocalization，dysfunctional chromosome segregation and developmental arrest (Santenard et al.,2O1O). In paternal pronucleus (PN)，overexpression of a $\\mathrm { H } 3 . 3 ~ \\mathrm { K } 4 \\mathrm { M }$ mutant before fertilization causes a significant reduction in global H3K4me3, decreasing the level of minor zygotic gene activation (ZGA） in PN,and as a consequence,reducing the survival rate of the embryo (Aoshima et al., 2O15). Together,these studies suggest that H3.3 affects embryo develop ment after fertilization through specific post-translation modification of its N-terminal tail. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The function of H3.3 in the epigenetic reprogramming during somatic cell nuclear transfer ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During SCNT (somatic cell nuclear transfer), the donor nucleus proteins are exchanged by the oocyte proteins,resulting in extensive remodeling of the donor chromatin and the reactivation of pluripotency genes such as Sox2，Oct4, Nanog (Gurdon and Wilmut, 2O11). The cytoplasm of mature mouse oocytes contains abundant amounts of both $H 3 f 3 a$ and $H 3 f 3 b$ mRNAs;however,these maternal transcripts are largely degraded at the first embryonic cleavage 0 $2 0 \\mathrm { h }$ after oocyte activation),whereas zygotic $_ { \\mathrm { H 3 . 3 \\ m R N A } }$ increases after the two-cell stage (Wen et al., 2014a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "H3.3 takes part in both the transition of epigenetic memory and the transcriptional reprogramming of donor nuclei.On one hand,H3.3 is incorporated into transcriptionally active regions of the donor cell, thus maintaining gene expression patterns after nuclear transfer.For example, the transferred embryos can remember the expression of MyoD with the incorporation of H3.3 at the MyoD promoter in Xenopus, and the H3.3 K4 mutant eliminates this memory( $\\mathrm { N g }$ and Gurdon,2Oo8). On the other hand,H3.3 is required for the reactivation of key pluripotency genes of the donor nucleus.It has been shown that exogenous H3.3 deposits at not only the regulatory regions of $O c t { 4 }$ ,but also other genomic regions,including the major satellite repeats and rDNA (Jullien et al.,2O12).In addition,knockdown of maternal H3.3 results in compromised reprogramming and failure to reactivate key pluripotency genes,such as $O c t 4$ in mouse embryos(Wen et al.,2O14a).These results indicated that H3.3 is required for epigenetic reprogramming and embryonic development of SCNT embryos. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ThefunctionofH3.3incelldifferentiation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pluripotent embryonic stem cells possess the capacity for self-renewal and the potential to differentiate into multiple lineages.The differentiation potential of ES cells is established by marking lineage-specific genes prior to their expression.In ES cells，the promoters of lineage-specific genes are simultaneously marked by both activationassociated H3K4me3 and repression-associated H3K27me3 modifications.These regions are referred to as“bivalent domains\",and these bivalent genes are poised for activation during differentiation.A recent study reported that $\\mathrm { H } 3 . 3$ is enriched at these bivalent domains in mouse ES cells (Goldberg et al.,2O1O).When the ES cells differentiated to neuronal precursor cells (NPCs),the genome-wide distribution patterns of $\\mathrm { H } 3 . 3$ were changed.For the bivalent genes activated in NPCs,H3.3 is maintained at the TSS and also incorporated into the gene body.In contrast, for the remainingrepressed bivalent genes in NPCs, the H3.3 deposition is decreased around the TSS sites (Goldberg et al., 2010).Furthermore,in H3.3 knockdown ES cells,the expression patterns of bivalent genes and the developmental potential ability was changed during the differentiation process.Therefore,H3.3 appears to be essential for ES cell differentiation,but the underlying molecular mechanisms remain to be elucidated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Further studies indicate that H3.3 plays an important role in the maintenance of specific chromatin states achieved through an interaction with Polycomb repressive complex 2 (PRC2).PRC2 regulates gene expression through histone H3 lysine 27 trimethylation (H3K27me3).In mouse ESCs, H3.3 incorporation at bivalent regions facilitates the recruitment of PRC2 to ensure the establishment of H3K27- me3 marks.Upon H3.3 depletion,the levels of H3K27me3 were found to be reduced at these promoters,but the levels of H3K4me3 remained unchanged (Banaszynski et al., 2013).In Drosophila,H3.3 wasalso found to be enriched at PRC2 binding regions (Mito et al.，2O07). These findings strongly suggest that H3.3 facilitates a type of specific chromatin state for PRC2 binding at bivalent domains. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Using a murine C2C12 differentiation system,it is reported that H3.3 is also deposited at the bivalent domains of skeletal muscle gene (SKM) prior to the differentiation by chromodomain helicase DNA-binding domain 2 (Chd2) (Harada et al.,2O12).In addition,H3.3 also localizes at the transcriptional regulatory regions of MyoD gene mediated byHIRA(Yang et al.,2O11). Knockdown of Chd2 or H3.3 decreases the incorporation of H3.3 into the SKM gene loci, and reduces the levels of H3K27me3 and H3K4me3 at SKM bivalent domains,resulting in myogenic differentiation impairment.Therefore,H3.3 may be essential not only for gene transcription,but may also be important for establishing bivalent domains required for reliable and fast switching on or off the expression of genes during differentiation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "H3.3ANDDISEASE ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "H3.3 participates in the regulation of chromatin structure and is involved in the maintenance of specific chromatin states，which are important for transcriptional regulation during development.Recently,the function of $\\mathrm { H } 3 . 3$ has been highlighted by recurrent somatic mutations identified in gliomas and a subset of skeletal neoplasms.These mutations include K27M，G34R/W/V/L，and K36M in both H3F3A and H3F3B genes(Figure 2B) (Behjati et al.,2013; Schwartzentruber et al.,2O12; Sturm et al., 2O12;Wu et al., 2012). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Pediatric high-grade gliomas (pHGGs)，including glio blastomas (GBM） and diffuse intrinsic pontine gliomas (DIPGs） are highly aggressive brain tumors with leading mortality and morbidity in children.In recent efforts to understand their molecular pathogenesis,two recurrent somatic H3F3A mutations resulting in amino acid substitutions (K27M and G34R/V） were found almost exclusively in pediatric GBM and DIPGs by whole genome exon sequencing (Schwartzentruber et al.,2012; Sturm et al., 2O12;Wu et al., 2012). In the DIPG group,K27M mutation occurred in the entire H3 family,with a high preference of H3F3A $( 6 0 \\% )$ over HIST1H3B $( 1 8 \\% )$ ，and the mutation of these two H3 isoforms was found to be mutually exclusive.While no G34R/V mutation was identified in the DIPG samples, $14 \\%$ of the GBM samples harbor G34R or K27M mutations in H3F3A and HIST1H3B.In another population study,H3.3 mutation was also found to be highly specific for GBM samples,and the prevalence was significantly higher in the pediatric group than the young adult group (Schwartzentruber et al.，2012). K27M and G34R/V mutations of H3F3A were found in these samples with an almost equal mutation rate; however, they displayed specific temporal and spatial distributions. The K27M was more prevalent in younger children and G34R/V in a relative older group. The spatial distribution difference within the central nervous system was that K27M located in tumors along the middle line location，including spinal cord, thalamus,pons,and brainstem; while G34R/V located in the cerebral hemisphere (Figure 2B).While there are two genes-H3F3A and H3F3B coding the same H3.3 protein in human genome, these mutations have not been detected in H3F3B gene so far,indicating that the origin of these somatic mutations may be related to the unique mRNA-untranslated region or regulatory element of the H3F3A gene(Albig et al.,1995; Witt et al.,1997). Furthermore, in all tumor samples tested, only one allele of H3F3A gene was found mutated for both ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "K27M and G34R/V substitutions,and they occurred in a mutually exclusive fashion.Together,these data indicate that K27M mutation and G34R/V may originate via different pathways,related to specific clone precursors，genesis niche and develop stage (Yuen and Knoepfler, 2013). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The mutation spectrum of H3.3 was found extended to K36M and G34W/L in a variety of bone and cartilage tumors.This spectrum also showed tumor type-specific H3.3 mutations (Behjati et al.,2013).While the K36M substitution was found predominantly in H3F3B gene in chondroblastoma,G34W/L mutation exclusively existed in H3F3A gene.In rare cases,H3F3A p.K36M and H3F3Bp.K36M mutations occurred in conventional chondrosarcoma and clear-cell chondrosarcoma, respectively.In osteosarcoma,a G34R substitution was found in both H3F3A and H3F3B genes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Other somatic mutations have been found simultaneously with H3.3 mutations in pHGGs,including mutations in TP53(Khuong-Quang et al., 2O12； Schwartzentruber et al., 2012),ATRX (Fontebasso et al., 2O14; the St. Jude Children's Research Hospital-Washington University Pediatric Cancer Genome,2014),DAXX (Khuong-Quang et al., 2012; Schwartzentruber et al.,2O12)，NF1 (Schwar- tzentruber et al.,2012),PDGFRA (Paugh et al.,2013),ACVR1 (Buczkowicz et al., 2014; Fontebasso et al., 2014; Taylor et al., 2014；the St. Jude Children's Research Hospital-Washington University Pediatric Cancer Genome，2O14）and SETD2(Wu et al., 2014).While TP53 mutation was found in half of all sequenced GBM samples,it showed no preferential co-occurrence with K27M or G34R/V, similar to the NF1 mutation and PDGFRA mutation. Although ATRX/DAXX mutations overlapped with H3.3 K27M mutations,this correlation was not found to be statistically significant. Surprisingly,all samples with the G34R/V mutation and ATRX/DAXX mutation also co-existed with a TP53 mutation (Schwartzentruber et al., 2012). Although somatic mutations of ATRX/DAXX have been reported in a large proportion of pancreatic neuroendocrine tumors (PanNETs), no TP53 or H3F3A mutation was found to co-exist. Furthermore，these mutations were associated with better prognosis clinically. Mutations of ACVRl were found in pediatric midline high-grade astrocytomas (mHGAs） containing a K27M mutation. Such a situation results in ligand-independent activation of the kinase,which further results in enhanced BMP (bone morphogenetic protein） signaling.Interestingly, these mutations of $A C V R I$ were linked to the presence of a HIST1H3B mutation $( \\mathrm { H } 3 . 1 ~ \\mathrm { K } 2 7 \\mathrm { M } )$ and were associated with a younger age of onset of disease. Inactivating mutations of the histone H3 K36 trimethyltransferase-SETD2 were found in a subgroup of pediatric HGG bearing H3.1K27M substitution. These mutations may interact with H3.3 mutation and provide selective advantages for glioma genesis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "H3.3K27M and tumorigenesis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The N-terminal tail of H3 is positioned outside of the nucleosome,and contains several positively charged residues, including lysine 4,lysine 9,lysine27,and lysine 36 as indicated inFigure1A.These residues can be both methylated or acetylated,and play important roles in the regulation of chromatin structure and transcriptional activity during normal development and tumorigenesis.H3K27 can be methylated specifically by PRC2,producing either H3K27me2 orH3K27me3.H3K27me3 can recruit Polycomb repressive complex (PRC1)，which catalyzes ubiquitination on H2A K119.Interestingly,the modification H2AK119ub can,in turn，recruit PRC2,thus,forming a positive feedback to maintain a repressive chromatin state. This repressive memory is involved in the body planning during the development of Drosophila and X chromosome inactivation in mammals. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the question remains of what the consequence is of the K27M mutation in the pHGGS?In the DIPG and pHGGs patient samples bearing H3.3 K27M mutation or H3.1K27M mutation, global levels of both H3K27me2 and H3K27me3 were dramatically reduced， while H3K27ac levels increased mildly,albeit only one allele was mutated and expressed among all the H3 isoforms. EZH2 expression Was high in GBMs,but absent in other tumors.However, no significant differences in EZH2 expression were observed between H3F3A K27M mutant and wild type GBMs (Bender et al., 2013; Chan et al., 2013;Lewis et al., 2013). Moreover, this phenomenon can be recaptured by introducing an H3.3K27M or H3.1K27M mutation in cultured cell lines with no effect on the protein levels of all the PRC2 core subunits.In both tumor samples and transformed cell lines,K27M mutation do not have any effect on other histone modifications,such as H3K27me1,H3K4me3,H3K9- me3,H3K9Ac,H3K36me3(Chan etal.,2013;Lewis et al., 2013).However, in DIPG samples containing H3.3G34R/V orH3.1G34R/V mutations,the global level of H3K27me2 and H3K27me3 did not change.These results argued that the global change of H3K27me2/3 was specific to K27M mutation. These results also suggest that the K27M mutation,either on H3.3 or H3.1,represses H3K27 methylation activity of PRC2 toward wild type H3 histones in-trans. It is to note that H3K27M peptide directly binds EZH2 with high affinity. Similarly,using immunoprecipitation,EZH2 and EED were found enriched on H3.3K27M mutant nucleosomes,not,however,on the wild-typecounterpart. Using an in vitro histone methyltransferase (HMT） assay,it was found that both nucleosomes containing H3K27M and H3K27M peptide greatly inhibit PRC2 activity (Lewis et al., 2013). Taken together, these data suggest that K27M containing nucleosomes bind the catalytic subunit of PRC2 as a mutated substrate with high affinity to inhibit the methyltransferase activity of PRC2.This results in a global loss of H3K27me2 and H3K27me3 modification in pHGGs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PRC2 and H3K27me3 have been reported to regulate transcriptional activity of genes,and were important for the maintenance of stem cell identity and normal development across diverse organisms. Disruptionsof the PRC2- H3K27me3 pathway have been found in many tumors,and contribute to tumorigenesis dependent on differing cellular contexts(Hock,2O12).Using ChIP-seq,it was found that more than three quarters of the H3K27me3 peaks were lost across genic and intergenic regions without chromatin context specificity (Bender et al.,2O13；Chan et al.，2013). However, the effect of K27M mutation on the alternation of H3K27me3 is more complicated in specific genomic regions.In contrast with the dramatic change of H3K27me3, both EZH2 and H3K4me3 showed almost no change across the genome (Chan et al.，2O13).The neural transcription factor OLIG2 has been reported to repress the p53-signaling pathway and promote tumorigenesis of malignant glioma (Mehta et al., 2O11).Interestingly, its up-regulation in DIPG correlated with a decrease in H3K27me3 and increase in H3K4me3 in its promoter region. Other cancer-associated genes such as pl6INK4A and CDK6 were repressed with increased H3K27me3 in the promoter regions in DIPG. Moreover，in pHGGs samples，DNA methylation also showed genome-wide changes,with more hypo-methylated regions than hyper-methylated regions detected.This reality contributed to the dysregulation of the cancer transcriptome (Bender et al.，2O13).However,in DIPGs harboring no K27M mutation, H3K27me3 level was found to be normal (Lewis et al.，2O13)，suggesting that other oncogenesis pathways exist in pHGGs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "H3.3K36M and tumorigenesis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "H3K36me3，the product of methyltransferase SETD2，is found throughout actively transcribed regions,and is positively correlated with transcriptional activity.H3K36me3 and SETD2 have been demonstrated to regulate both transcriptional elongationand alternativesplicing events (Wagner and Carpenter,2O12).Several proteins have been reported to read H3K36me3 modifications by virtue of possessing a PWWP domain,including DNMT3a and Brpf1 (Dhayalan et al.，201O;Vezzoli et al.，2O1O; Wu et al., 2011).A recent report described for the first time,a reader forH3.3-specificK36me3 calledBS69/ZMYND11(Wen et al.,2014c). BS69 has been identified as a tumor suppressor,as it inhibits transcriptional activation regulated by E1A and c-Myb (Hateboer etal.,1995;Ladendorff etal., 2001). H3K36me3 of H3.3 recruits BS96 to the elongation region of specific genes to regulate RNA alternative splicing via interaction with RNA splicing regulators (Guo et al., 2014). In another study,BS69/ZMYND11 was reported to regulate transcription elongation via its recognition of H3K36me3 on H3.3.Thus it repressed transcriptional programs essential for tumor proliferation (Wen et al.,2014c). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The K36M mutation has been found in H3F3B at high prevalence in Chondroblastoma,and was reported to abolish H3K36me3 modification when introduced in 293T cells.In ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DIPG samples containing H3.3G34R/V or H3.1G34R/V mutations,global levels of histone modifications remain unchanged，including H3K36me3.However，usingimmunoprecipitation,amarkedlossofH3K36me3 on G34R/V mutations containing-nucleosomes can be observed. This result indicates that H3K36me3 is regulated indirectly through Gly34，possibly because it is involved in the recruitment of methyltransferase.Surprisingly，in pediatric GBM tumors,H3K36me3 and Pol II were found aberrantly enriched within genic regions of several key transcription factors,including MYCN,Sox2 and DLX6,which may be involved in the elevated transcription of these genes,thus resulting in the reprogramming of the transcriptional states of the tumor towards an earlier developmental stage (Bjerke et al.,2O13). Taken together,H3.3 mutations can promote pHGGs tumorigenesis via a hijacking H3K36me3 pathway either directly(K36Mmutation) or indirectly(G34R/V/W/L mutations),thus functioning within a specific tissue environment.As discussed above,the epigenetic information of H3K36me3 can be decoded by various readers; thus,these readers will act in a misguided manner upon pathological changes in H3K36me3 patterns. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although there is no evidence thatLys27 and Gly34 residue can regulate the genome-wide deposition of H3.3,it still needs to be determined whether these mutations directly impact the interaction between H3.3 histones and their dedicated chaperone complexes,and whether these mutations cause a mis-deposition of H3.3 along the cancer ge nome. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "H3.3 is an important histone variant that is deposited into the specific loci of chromatin by dedicated chaperones to regulate the various cellular activities.H3.3 can be incorporated into both the euchromatin and heterochromatin by different chaperones.The HIRA complex mediates the distribution of H3.3 at transcription start sites and gene bodies of transcribed genes.DAXX/ATRX mediates the incorporation of H3.3 into heterochromatin sites,such as telomeres, pericentromeres and repetitive elements.This diverse distribution suggests that H3.3 not only takes part in transcriptional regulation,but also in the establishment and maintenance of the heterochromatin state.Therefore,H3.3 has different functions at different chromatin environments.In addition，H3.3 is deposited at specific intergenic regions independent of HIRA and DAXX,with an unknown deposition pathway (Figure 1B). H3.3 is retained in the sperm chromatin during spermatogenesis,which raises the question as to whether there is a testis-specific H3.3 chaperone. As ChIP-seq technology advances,it will be possible to obtain finer and more comprehensive maps of H3.3 across the genome at detailed spatial and temporal resolution, both during development and in specific tissues. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Recent studies showed convincingly that H3.3 is important for development, whereas mutated H3.3 forms are implicated in tumorigenesis.Whether H3.3 regulates these processes directly by influencing the chromatin structure or indirectly through other mechanisms,however,remains unknown. The somatic mutations of H3.3 were recently reported in anumber of malign tumors,such as glioblastomasand skeletal neoplasms.Therelationship betweenthese mutants and tumorigenesis is under intensive research. Apart from the PRC2-H3K27me3 and H3K36me3 pathways studied recently， there are other potential mechanisms. ATRX/DAXX meditates the H3.3 deposition in telomeres in ES cells to maintain the integrity of chromatin.The co-existenceof ATRX and DAXXmutations with ${ \\mathrm { H } } 3 . 3 { \\mathrm { ~ m u } } { \\cdot }$ tant hinted that the ATRX/DAXX/H3.3 axis disruption may cause the instability of the telomere and facilitate tumorigenesis.If this is true,the ATRX/DAXX/H3.3 axis may provide a new therapeutic target for gliomas and other tumors. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compliance andethicsThe author(s) declarethatthey haveno conflict ofinterest. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsThis work was supported by the National Natural Science Foundation ofChina(912i9202) to GuohongLi.,the Ministry of Science and Technology ofChina (2015CB856200,2011CB966300),the Chinese Academy ofSciences(CAS)Strategic Priority ResearchProgram (XDAOlOio3o4） and the National Natural Science Foundation of China (31301047) to Chaoyang Xiong. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adam,S.,Polo,S.E.,and Almouzni,G.(2O13).Transcription recovery after DNA damage requires chromatin priming by the H3.3 histone chaperone HIRA.Cell 155,94-106.   \nAhmad,K.,and Henikoff,S.(2oO2).The histone variant H3.3 marks active chromatin by replication-independent nucleosome assembly.Mol Cell 9,1191-1200.   \nAkiyama,T.,Suzuki,O.，Matsuda,J.,and Aoki,F.(2O11).Dynamic replacement of histone H3 variants reprograms epigenetic marks in early mouse embryos.PLoS Genet7,e1002279.   \nAlbig，W.，Bramlage,B.，Gruber，K.，Klobeck，H.G.，Kunz，J.，and Doenecke,D.(1995).The human replacement histone H3.3B gene (H3F3B).Genomics 30,264-272.   \nAoshima,K.,Inoue,E.,Sawa,H.,and Okada,Y.(2O15).Paternal H3K4 methylation is required for minor zygotic gene activation and early mouse embryonic development.EMBO Rep 16,803-812.   \nBanaszynski,L.A.,Wen,D.,Dewell,S.,Whitcomb,S.J.,Lin,M.,Diaz,N., Elsasser，S.J.,Chapgier，A.,Goldberg，A.D.,Canaani,E.,Rafii,S. Zheng，D.，and Allis，C.D.(2013).Hira-dependent histone H3.3 deposition facilitates PRC2 recruitment at developmental loci in ES cells. Cell155,107-120.   \nBehjati,S.,Tarpey,P.S.,Presneau,N., Scheipl, S.,Pillay,N.,Van Loo,P., Wedge,D.C.,Cooke,S.L.,Gundem,G.,Davies,H.,Nik-Zainal, S., Martin, S.,McLaren, S.,Goody,V.,Robinson,B.,Butler,A.,Teague, J.W.,Halai,D.,Khatri,B.,Myklebost,O.,Baumhoer,D.,Jundt,G., Hamoudi,R.,Tirabosco,R.,Amary,M.F.,Futreal,P.A.,Stratton,M.R., Campbell,P.J.，and Flanagan，A.M.(2013).Distinct H3F3A and H3F3B driver mutations define chondroblastoma and giant cell tumor of bone.Nat Genet 45,1479-1482.   \nBender,S.,Tang，Y.,Lindroth,A.M.,Hovestadt,V.,Jones,D.T.,Kool, M.,Zapatka,M.,Northcott,P.A.,Sturm,D.,Wang,W.,Radlwimmer, B.,Hojfeldt,J.W., Truffaux,N., Castel,D., Schubert, S.,Ryzhova,M., Seker-Cin,H.,Gronych,J.,Johann,P.D.,Stark,S.,Meyer,J.,Milde, T.,Schuhmann,M.,Ebinger,M.,Monoranu, C.M.,Ponnuswami,A., Chen,S.,Jones, C., Wit,O., Collins, V.P.,von Deimling,A.,Jabado, N.,Puget,S.,Gril,J.,Helin,K.,KorshovA.,Lichter,P.,je M.,Plass,C., Cho,Y.J.,and Pfister, S.M.(2013).Reduced H3K27me3 and DNA hypomethylation aremajor drivers of gene expression in K27M mutant pediatric high-grade gliomas.Cancer Cell 24, 660-672.   \nBjerke,L., Mackay,A.,Nandhabalan,M.,Burford,A., Jury,A.,Popov,S., Bax，D.A.，Carvalho,D.，Taylor，K.R.，Vinci，M.，Bajrami,I., McGonnell, I.M.,Lord,C.J., Reis,R.M.,Hargrave,D.,Ashworth,A., Workman,P.，and Jones,C.(2O13).Histone H3.3．mutations drive pediatric glioblastoma through upregulation of MYCN. Cancer Discov 3,512-519.   \nBuczkowicz,P., Hoeman, C., Rakopoulos,P.,Pajovic, S.,Letourneau, L., Dzamba,M.,Morrison,A.,Lewis,P.,Bouffet,E.,Bartels,U.,Zuccaro, J.,Agnihotri,S.,Ryall,S., Barszczyk,M., Chornenky,Y.,Bourgey, M.，Bourque,G.，Montpetit，A.，Cordero，F.，Castelo-Branco，P., Mangerel,J.,Tabori,U.,Ho,K.C.,Huang,A., Taylor,K.R.,Mackay, A.，Bendel，A.E.，Nazarian，J.，Fangusaro,J.R.，Karajannis,M.A., Zagzag,D.,Foreman,N.K.,onson,A.,Hegert,JV,mith,A,an J.,Lafay-Cousin,L., Dunn,S.,Hukin,J.,Dunham, C., Scheinemann, K.，Michaud，J.，Zelcer，S.，Ramsay，D.，Cain，J.，Brennan，C., Souweidane,M.M.,Jones, C., Allis, C.D.,Brudno,M., Becher, O.,and Hawkins,C.(2014).Genomic analysis of diffuse intrinsic pontine gliomas identifies three molecular subgroups and recurrent activating ACVR1 mutations.Nat Genet 46,451-456.   \nBush，K.M.,，Yuen,B.T.，Barilleaux,，B.L.,，Riggs,J.W., O'Geen,H, Cotterman, R.F.,and Knoepfler,P.S.(2O13).Endogenous mammalian histone H3.3 exhibits chromatin-related functions during development. Epigenet Chromat 6,7.   \nChan,K.-M.,Fang,D., Gan,H., Hashizume,R., Yu, C., Schroeder, M., Gupta,N.，Mueller，S.，James,C.D.， Jenkins,R.，Sarkaria,J.,and Zhang,Z. (2013).The histone H3.3K27M mutation in pediatric glioma reprograms H3K27 methylation and gene expression. Genes Dev 27, 985-990.   \nChen,P.,Zhao,J., Wang,Y.,Wang,M,Long,H.,Liang,D.,Huang,L., Wen,Z.,Li,W.,Li, X.,Feng,H., Zhao,H., Zhu,P.,Li,M.,Wang, Q.F.,and Li, G.(2013).H3.3actively marks enhancersand primes gene transcription via opening higher-ordered chromatin. Genes Dev 27,2109-2124.   \nDeal,R.B.,Henikoff,J.G.,and Henikoff, S.(2010). Genome-wide kietics of nucleosome turnover determined by metabolic labeling of histones. Science 328,1161-1164.   \nDhayalan,A.，Rajavelu,A.，Rathert,P.，Tamas,R.，Jurkowska,R.Z., Ragozin, S.,and Jeltsch,A.(201O). The Dnmt3a PWWP domain reads histone 3 lysine 36 trimethylation and guides DNA methylation.JBiol Chem 285,26114-26120.   \nElsasser,S.J.，Noh,K.M.,Diaz,N.,Alis,C.D.,andBanaszynski,LA. (2015).Histone H3.3 is required for endogenous retroviral element silencing in embryonic stem cells.Nature 522,240-244.   \nErkek，S.，Hisano，M.，Liang，C.Y.，Gill，M.，Murr，R.，Dieker，J., Schubeler,D.,van der Vlag,J., Stadler,M.B.,and Peters,A.H. (2013). Molecular determinants of nucleosome retention at CpG-rich sequences in mouse spermatozoa.Nat Struct Mol Biol 2O,868-875.   \nFilipescu,D., Szenker,E.,and Almouzni,G.(20l3).Developmental roles of histone H3 variants and their chaperones.Trends Genet 29,630-640.   \nFontebasso,A.M.,Papillon-Cavanagh,S.,Schwartzentruber, J.,Nikbakht, H.，Gerges,N.，Fiset，P.O.，Bechet,D.，Faury，D.，De Jay，N., Ramkissoon,L.A., Corcoran,A., Jones,D.T., Sturm,D., Johann,P., Tomita,T.,Goldman，S.，Nagib,M.,Bendel，A.，Goumnerova,L., Bowers,D.C.,Leonard,J.R.,Rubin, J.B.,Alden,T.,Browd, S., Geyer, J.R., Leary,S., Jall,G., Cohen,K., Gupta,N., Prados,M.D., Carret, A.S.,Ellezam,B.,Crevier,L.,Klekner,A.,Bognar,L.,Hauser,P., Garami,M.,Myseros,J.,Dong,Z.,Siegel,P.M.,Malkin,H.,Ligon, A.H.,Albrecht,S.,Pfister,S.M.,Ligon,K.L.,Majewski,J.,Jabado,N., and Kieran, M.W. (2O14). Recurrent somatic mutations in ACVR1 in pediatric midline high-grade astrocytoma.Nat Genet 46,462-466.   \nFrank,D., Doenecke,D.,and Albig,W.(2003). Differential expression of human replacement and cell cycle dependent H3 histone genes.Gene 312, 135-143.   \nGarrick,D., Sharpe,J.A.,Arkell,R.,Dobbie,L.,Smith,A.J., Wood, W.G., Higgs,D.K.,and Gibbons,R.J. (2ou6). Loss ot Atrx attects trophoblast development and the pattern of X-inactivation in extraembryonic tissues.PLoS Genet 2,e58.   \nGoldberg,A.D.,Banaszynski,L.A.,Noh,K.M.,Lewis,P.W.,Elsaesser, S.J.，Stadler,S.，Dewell，S.,Law,M.，Guo，X.，Li,X.，Wen,D., Chapgier,A.,DeKelver,R.C., Miller,J.C.,Lee,Y.L.,Boydston, E.A., Holmes，M.C.，Gregory，P.D.，Greally，J.M.，Rafii， S.，Yang，C., Scambler,P.J.,Garrick,D.,Gibbons,R.J.,Higgs,D.R., Cristea,I.M., Urnov,F.D., Zheng,D.,and Allis,C.D.(201O).Distinct factors control histone variant H3.3 localization at specific genomic regions. Cell 140, 678-691.   \nGuo,R., Zheng,L.,Park,J.W.,Lv,R.,Chen,H.,Jiao,F.,Xu,W.,Mu, S., Wen,H., Qiu,J.,Wang,Z.,Yang,P.,Wu,F.,Hui,J.,Fu, X.,Shi, X., Shi,Y.G.,Xing,Y.,Lan,F.，and Shi,Y. (2014).BS69/ZMYND11 reads and connects histone H3.3 lysine 36 trimethylation-decorated chromatin to regulated pre-mRNA processing.Mol Cell 56,298-310.   \nGurdon, J.B.,and Wilmut,I. (2O11). Nuclear transfer to eggs and oocytes. Cold Spring Harb Perspect Biol 3.   \nHajkova,P.,Ancelin, K., Waldmann,T.,Lacoste, N.,Lange, U.C., Cesari, F.,Lee,C.,Almouzni,G.， Schneider,R.,and Surani,M.A.(2008). Chromatin dynamics during epigenetic reprogramming in the mouse germ line.Nature 452, 877-881.   \nHake,S.B., Garcia, B.A., Kauer, M.,Baker,S.P., Shabanowitz, J.Hunt, D.F.,and Allis,C.D.(2005)． Serine 31 phosphorylation of histone variant H3.3 is specific to regions bordering centromeres in metaphase chromosomes.Proc Natl Acad Sci USA 102, 6344-6349.   \nHamiche,A.,and Shuaib,M.(2O13).Chaperoning the histone H3 family. Biochim Biophys Acta 1819,230-237.   \nHarada,A., Okada, S.,Konno,D., Odawara,J.,Yoshimi, T., Yoshimura, S.,Kumamaru,H.,Saiwai,H.,Tsubota,T.,Kurumizaka,H.,Akashi, K.,Tachibana,T.,Imbalzano,A.N.,and Ohkawa,Y.(2012).Chd2 interacts with H3.3 to determine myogenic cell fate.EMBO J 31, 2994-3007.   \nHateboer，G.，Gennissen，A.，Ramos，Y.F.，Kerkhoven，R.M., Sonntag-Buck,V., Stunnenberg,H.G.,and Bernards,R.(1995). BS69, anovel adenovirus E1A-associated protein that inhibitsE1A transactivation.Embo J14,3159-3169.   \nHenikoff, S.,and Ahmad,K.(2Oo5).Assembly of variant histones into chromatin.Annu Rev Cell Dev Biol 21,133-153.   \nHenikoff, S.,Henikoff,J.G., Sakai,A.,Loeb,G.B.,and Ahmad,K. (2009). Genome-wide profiling of salt fractions maps physical properties of chromatin. Genome Res 19,460-469.   \nHock,H. (2012).A complex Polycomb issue: the two faces of EZH2 in cancer.Genes Dev 26,751-755.   \nHuang, C., Zhang, Z., Xu,M.,Li, Y., Li, Z., Ma, Y.,Cai, T.,and Zhu, B. (2013).H3.3-H4 tetramer splitting events feature cell-type specific enhancers.PLoS Genet 9,e1003558.   \nInoue,A.,and Zhang,Y.(2O14). Nucleosome assembly is required for nuclear pore complex assembly in mouse zygotes.Nat Struct Mol Biol 21,609-616.   \nJin, C., Zang,C.,Wei, G., Cui,K.,Peng,W., Zhao,K.,and Felsenfeld,G. (2009).H3.3/H2A.Z double variant-containing nucleosomes mark “nucleosome-free regions”of active promoters and other regulatory regions.Nat Genet 41,941-945.   \nJullien,J.,Astrand, C.,Szenker,E., Garret,N.,Almouzni, G.,and Gurdon, J.B.(2O12)．HIRA dependent H3.3 deposition is required for transcriptional reprogramming following nuclear transfer to Xenopus oocytes.Epigenet Chromat 5,17.   \nKhuong-Quang，D.A.， Buczkowicz，P.，Rakopoulos，P.，Liu，X.Y., Fontebasso，A.M.，Bouffet，E.，Bartels，U.，Albrecht，S., Schwartzentruber,J.，Letourneau,L.,，Bourgey，M.，Bourque,G., Montpetit,A.,Bourret,G.,Lepage,P.,Fleming,A.,Lichter,P.,Kool, M.,von Deimling,A.，Sturm,D.,Korshunov,A.,Faury,D., Jones, D.T.,Majewski,J.,Pfister, S.M.,Jabado,N.,and Hawkins,C.(2012). K27M mutation in histone H3.3 defines clinically and biologically distinct subgroups of pediatric diffuse intrinsic pontine gliomas.Acta Neuropathol 124, 439-447.   \nKouzarides,T.(2oo7). Chromatin modifications and their function. Cell 128.693-705.   \nKraushaar,D.C.,Jin,W.,Maunakea,A.,Abraham,B.,Ha,M.,and Zhao, K.(2013).Genome-wide incorporation dynamics reveal distinct categories of turnover for the histone variant H3.3.Genome Biol 14, R121.   \nLadendorff,N.E.,Wu,S.,and Lipsick,J.S.(2001).BS69,an adenovirus E1A-associated protein,inhibits the transcriptional activity of c-Myb. Oncogene 20,125-132.   \nLewis,P.W.，Elsaesser, S.J.，Noh,K.M.， Stadler, S.C.,and Alis,C.D. (2010).Daxx is an H3.3-specific histone chaperone and cooperates with ATRX in replication-independent chromatin assembly at telomeres. Proc Natl Acad Sci USA 107,14075-14080.   \nLewis，P.W.，Muller，M.M.，Koletsky，M.S.，Cordero，F.，Lin，S., Banaszynski,L.A., Garcia,B.A.,Muir, T.W.,Becher,O.J.,and Alis, C.D.(2013).Inhibition of PRC2 activity by a gain-of-function H3 mutation found in pediatric glioblastoma. Science 340,857-861.   \nLi, G.,Margueron,R.,Hu, G., Stokes,D.,Wang,Y.H.,and Reinberg, D. (2010).Highlycompactedchromatinformedinvitroreflects the dynamics of transcription activation in vivo.Mol Cell 38,41-53.   \nLi,Q.,Burgess,R.,and Zhang,Z. (2013).All roads lead to chromatin: multiple pathways for histone deposition. Biochim Biophys Acta 1819, 238-246.   \nLickwar,C.R.，Mueller,F.,Hanlon,S.E.,McNally, J.G.,and Lieb,J.D. (2012).Genome-wide protein-DNA binding dynamics suggest a molecular clutch for transcription factor function.Nature 484,251-255.   \nLin, C.J., Conti, M.,and Ramalho-Santos,M. (2013). Histone variant H3.3 maintainsa decondensed chromatin state essential for mouse preimplantation development.Development 140,3624-3634.   \nLin,C.J.，Koh,F.M.，Wong,P.,Conti，M.，and Ramalho-Santos,M. (2014).Hira-mediated H3.3 incorporation is required for DNA replication and ribosomal RNA transcription in the mouse zygote. Dev Cell 30,268-279.   \nLiu, C.P., Xiong, C., Wang,M.,Yu,Z., Yang,N., Chen,P., Zhang,Z.,Li, G.,and Xu,R.M.(2O12). Structure of the variant histone H3.3-H4 heterodimer in complex with its chaperone DAXX.Nat Struct Mol Biol 19,1287-1292.   \nLoppin,B.,Bonnefoy,E.，Anselme,C.,Laurencon,A.，Karr, T.L.,and Couble,P.(2oo5). The histone H3.3 chaperone HIRA is essential for chromatin assembly in the male pronucleus.Nature 437,1386-1390.   \nLuger,K., Mader,A.W.,Richmond,R.K., Sargent, D.F.,and Richmond, T.J.(1997).Crystal structure of the nucleosome core particle at 2.8[thinsp]A resolution. Nature 389,251-260.   \nMarzluff,W.F.,Gongidi,P., Woods,K.R.,Jin,J.,and Maltais,L.J.(02). The human and mouse replication-dependent histone genes.Genomics 80,487-498.   \nMehta，S.，Huillard，E.，Kesari，S.，Maire,C.L.，Golebiowski，D., Harrington,E.P.,Alberta, J.A.,Kane,M.F., Theisen,M.,Ligon,K.L., Rowitch，D.H.，and Stiles，C.D．(2011).The central nervous system-restricted transcription factor Olig2 opposes p53 responses to genotoxic damage in neural progenitors and malignant glioma. Cancer Cell 19,359-371.   \nMeyer,R.E.,Delaage，M.，Rosset,R.,Capri,M.,and Ait-Ahmed,O. (2010).A single mutation results in diploid gamete formation and parthenogenesis in a Drosophila yemanuclein-alpha meiosis I defective mutant.BMCGenet11,104.   \nMichaelson,J.S.,Bader,D.,Kuo,F.,Kozak,C.,and Leder,P.(1999).Loss of Daxx，a promiscuously interactingprotein,results in extensive apoptosis in early mouse development. Genes Dev 13,1918-1923.   \nMito,Y.,Henikoff,J.G.，and Henikoff,S.(2007).Histone replacement marks the boundariesof cis-regulatory domains. Science 315, 1408-1411.   \nNg,R.K.,and Gurdon, J.B.(2Oo8). Epigenetic memory of an active gene state depends on histone H3.3 incorporation into chromatin in the absence of transcription. Nat Cell Biol 10,102-109.   \nPaugh,B.S., Zhu,X., Qu,C.,Endersby,R., Diaz,A.K., Zhang,J., Bax, D.A.，Carvalho，D.，Reis，R.M.，Onar-Thomas，A.，Broniscer，A., Wetmore,C.，Zhang，J.，Jones,C.，Elison,D.W.，and Baker，S.J. (2013). Novel oncogenic PDGFRA mutations in pediatric high-grade gliomas. Cancer Res 73,6219-6229.   \nRoberts,C., Sutherland,H.F.,Farmer,H.,Kimber, W.,Halford,S., Carey, A.,Brickman,J.M.,Wynshaw-Boris,A.,and Scambler,P.J.(2002). Targeted mutagenesis of the Hira gene results in gastrulation defects and patterning abnormalities of mesoendodermal derivatives prior to early embryonic lethality.Mol Cell Biol 22,2318-2328.   \nSakai，A.，Schwartz，B.E.，Goldstein，S.，and Ahmad,K.(2009). Transcriptional and developmental functions of the H3.3 histone variant in Drosophila.Curr Biol19,1816-1820.   \nSantenard,A., Ziegler-Birling,C.,Koch,M.,Tora,L.,Bannister,A.J.,and Torres-Padilla,M.E.(2010).Heterochromatin formation in the mouse embryo requires critical residues of the histone variant H3.3.Nat Cell Biol 12, 853-862.   \nSchwartzentruber,J.,Korshunov,A.,Liu,X.-Y.,Jones,D.T.W.,Pfaff,E., Jacob,K., Sturm,D., Fontebasso,A.M., Quang,D.-A.K.,Tonjes,M., Hovestadt,V.，Albrecht,S.，Kool,M.，Nantel,A.，Konermann,C., Lindroth，A.，Jager，N.，Rausch，T.，Ryzhova，M.，Korbel，J.O., Hielscher，T.，Hauser,P.，Garami，M.，Klekner，A.，Bognar,L., Ebinger,M., Schuhmann,M.U., Scheurlen,W.,Pekrun,A.,Fruhwald, M.C., Roggendorf, W., Kramm, C.,Durken,M.,Atkinson,J.,Lepage, P.，Montpetit，A.,Zakrzewska,M.，Zakrzewski,K.,Liberski,P.P., Dong, Z., Siegel,P., Kulozik, A.E., Zapatka,M., Guha,A.,Malkin, D., Felsberg,J.,Reifenberger, G., von Deimling,A., Ichimura,K.,Collins, V.P.，Wit,H.,Milde,T.，Witt,O.， Zhang,C.,，Castelo-Branco,P., Lichter,P.,Faury,D.,Tabori,U.,Plass,C.,Majewski,J.,Pfister,S.M., and Jabado,N. (2012). Driver mutations in histone H3.3 and chromatin remodelling genes in paediatric glioblastoma.Nature 482,226-231.   \nSteffen,P.A.,and Ringrose,L.(2Oi4).What are memories made of? How Polycomb and Trithorax proteins mediate epigenetic memory.Nat Rev Mol Cell Biol 15,340-356.   \nStraub,T.,Dahlsveen,I.K.,and Becker,P.B.(2Oo5).Dosage compensation in flies: mechanism,models,mystery.FEBS Lett579,3258-3263.   \nSturm,D.，Witt,H.,Hovestadt,V.,Khuong-Quang,D.A., Jones,D.T., Konermann,C.,Pfaff,E., Tonjes,M., Sill,M.,Bender, S.,Kool,M., Zapatka,M.，Becker,N.，Zucknick,M.，Hielscher，T.,Liu，X.Y., Fontebasso,A.M.,Ryzhova,M.,Albrecht, S.,Jacob,K.,Wolter,M., Ebinger,M.,Schuhmann,M.U.,van Meter,T.,Fruhwald,M.C.,Hauch, H.,Pekrun,A.,Radlwimmer,B.,Niehues,T.,von Komorowski, G., Durken,M.,Kulozik,A.E.,Madden,J.,Donson,A.,Foreman,N.K., Drissi,R.,Fouladi,M.,Scheurlen,W.,von Deimling,A.,Monoranu, C., Roggendorf,W., Herold-Mende, C., Unterberg,A.,Kramm, C.M., Felsberg,J.,Hartmann,C.,Wiestler,B.,Wick,W.,Milde,T.,Witt, O., Lindroth，A.M.， Schwartzentruber，J.，Faury，D.，Fleming，A., Zakrzewska,M.,Liberski,P.P., Zakrzewski,K.,Hauser,P.,Garami, M.,Klekner,A.,Bognar,L.,Morrissy,S.,Cavall,F., Taylor,M.D., van Sluis,P.,Koster,J.,Versteeg,R.,Volckmann,R.,Mikkelsen, T., Aldape,K.,Reifenberger,G., Collins,V.P.,Majewski, J.,Korshunov, A.,Lichter,P.,Plass,C.,Jabado,N.,and Pfister, S.M. (2012).Hotspot mutations in H3F3A and IDH1 define distinct epigenetic and biological subgroups of glioblastoma. Cancer Cell 22, 425-437.   \nSzenker,E.，Lacoste,N.,and Almouzni,G.(2012).A developmental requirementforHIRA-dependentH3.3deposition revealedat gastrulation in Xenopus. Cell Rep 1, 730-740.   \nSzenker,E.,Ray-Gallet,D.,and Almouzni,G.(2011).The double face of the histone variant H3.3.Cell Res 21,421-434.   \nTagami,H.,Ray-Gallet,D.，Almouzni,G.，and Nakatani,Y.(2004). Histone H3.1 and H3.3 complexes mediate nucleosome assembly pathways dependent or independent of DNA synthesis.Cell 116, 51-61.   \nTang,M.C., Jacobs, S.A., Matiske,D.M., Soh, Y.M., Graham,A.N., Tran, A., Lim, S.L.,Hudson,D.F., Kalitsis,P.,O'Bryan, M.K.,Wong,L.H., and Mann,J.R.(2O15). Contribution of the two genes encoding histone variant H3.3 to viability and fertility in mice.PLoS Genet 11, e1004964.   \nTaylor,K.R.,Mackay,A., Truffaux,N.,Butterfield, Y.S.,Morozova,O., Philippe，C.，Castel，D.，Grasso，C.S.，Vinci，M.，Carvalho，D., Carcaboso,A.M.,de Torres,C., Cruz,O.,Mora,J.,Entz-Werle,N., Ingram,W.J.,Monje,M.,Hargrave,D.,Bullock,A.N.,Puget,S.,Yip, S.，Jones，C.，and Grill，J. (2014)．Recurrent activating ACVR1 mutations in diffuse intrinsic pontine glioma.Nat Genet 46,457-461.   \nThakar,A.,Gupta,P.,Ishibashi,T.,Finn,R.,Silva-Moreno,B.,Uchiyama, S.,Fukui,K.,Tomschik,M.,Ausio,J.,and Zlatanova,J.(2Oo9).HA.Z and H3.3 histone variants affect nucleosome structure: biochemical and biophysical studies.Biochemistry 48,10852-10857.   \nthe St.Jude Children's Research Hospital-Washington University Pediatric Cancer Genome,P.(2O14).The genomic landscape of diffuse intrinsic pontine glioma and pediatric non-brainstem high-grade glioma.Nat Genet 46,444-450.   \nvan derHeijden,G.W.,Derijck,A.A.H.A.,Posfai,E.,Giele,M.,Pelczar, P.,Ramos,L.,Wansink,D.G.,van der Vlag,J.,Peters,A.H.F.M.,and de Boer,P.(2oo7).Chromosome-wide nucleosome replacement and H3.3 incorporation during mammalian meiotic sex chromosome inactivation.Nat Genet 39,251-258.   \nVezzoli,A.,Bonadies,N.,Allen,M.D.,Freund, S.M.V., Santiveri, C.M., Kvinlaug,B.T.,Huntly,B.J.P.,Gottgens,B.,and Bycroft,M.(2010). Molecular basis of histone H3K36me3 recognition by the PWWP domain ofBrpfl.Nat Struct Mol Biol17,617-619.   \nVoon，H.P.，Hughes，J.R.，Rode,C.，De La Rosa-Velazquez，I.A., Jenuwein,T.,Feil,R.,Higgs,D.R.,and Gibbons,R.J.(2015).ATRX playsa key role in maintaining silencing at interstitial heterochromatic loci and imprinted genes.Cell Rep 11,405-418.   \nWagner,E.J.,and Carpenter,P.B.(2012). Understanding the language of Lys36 methylation at histone H3.NatRev Mol Cell Biol13,115-126.   \nWen,D.,Banaszynski,L.A.,Liu,Y.,Geng,F.,Noh,K.M.，Xiang,J., Elemento,O.，Rosenwaks,Z.，Allis,C.D.，and Rafii，S.(2014a). Histone variant H3.3 is an essential maternal factor for oocyte reprogramming.Proc Natl Acad SciUSA111,7325-7330.   \nWen,D.,Noh,K.M.,Goldberg,A.D.,Allis,C.D.,Rosenwaks,Z.,Rafii,S., and Banaszynski,L.A.(2O14b)．Genome editing a mouse locus encoding a variant histone,H3.3B,to report on its expression in live animals. Genesis 52,959-966.   \nWen,H.,Li,Y.,Xi,Y., Jiang, S., Stratton,S.,Peng,D.,Tanaka,K.,Ren, Y.,Xia,Z.,Wu,J.,Li,B.,Barton,M.C.,Li,W.,Li,H.,and Shi,X. (2014c)． ZMYND11 links histone H3.3K36me3 to transcription elongation and tumour suppression.Nature 5O8,263-268.   \nWitt,O.,Albig,W.,and Doenecke,D.(1997).Transcriptional regulation of the human replacement histone gene H3.3B.FEBS Lett 408, 255-260.   \nWong,L.H.,McGhie,J.D.,Sim,M.,Anderson,M.A.,Ahn,S.,Hannan, R.D.,George,A.J.,Morgan,K.A.,Mann,J.R.,and Choo,K.H. (2010). ATRX interacts with H3.3 in maintaining telomere structural integrity in pluripotent embryonic stem cells.Genome Res 20,351-360.   \nWong,L.H.,Ren,H.,Williams,E.,McGhie,J.,Ahn,S.,Sim,M.,Tam,A., Earle,E.,Anderson,M.A.,Mann,J.,and Choo,K.H.(2oO9).Histone H3.3incorporation provides a unique and functionally essential telomeric chromatin in embryonic stem cells.Genome Res 19, 404-414.   \nWu,G.,Broniscer,A.,McEachron,T.A.,Lu, C.,Paugh,B.S.,Becksfort, J.,Qu,C.,Ding,L.,Huether,R.,Parker,M.,Zhang,J.,Gajjar,A., Dyer,M.A.,Mullighan,C.G.,Gilbertson,R.J.,Mardis,E.R.,Wilson, R.K.,Downing,J.R.,Ellison,D.W.,Zhang,J.,and Baker, S.J.(2012). Somatic histone H3 alterations in pediatric diffuse intrinsic pontine gliomas and non-brainstem glioblastomas.Nat Genet 44,251-253.   \nWu,G.,Diaz,A.K.,Paugh,B.S.,Rankin, S.L.,Ju,B.,Li,Y., Zhu,X., Qu, C.,Chen,X.,Zhang,J.,Easton,J.,Edmonson,M.,Ma,X.,Lu,C., Nagahawatte,P.，Hedlund,E.，Rusch，M.，Pounds，S.，Lin，T., Onar-Thomas,A.,Huether,R.,Kriwacki,R.,Parker,M.,Gupta,P., Becksfort,J.，Wei,L.，Mulder，H.L.，Boggs，K.，Vadodaria，B., Yergeau,D.,Russell, J.C.,Ochoa,K.,Fulton,R.S.,Fulton,L.L., Jones, C.，Boop,F.A.，Broniscer,A.，Wetmore,C.,Gajjar，A.，Ding,L., Mardis,E.R.，Wilson，R.K.，Taylor，M.R.，Downing，J.R.，Ellison, D.W.,Zhang,J.,and Baker, S.J.(2O14). The genomic landscape of diffuse intrinsic pontine glioma and pediatric non-brainstem high-grade glioma.Nat Genet 46,444-450.   \nWu，H.，Zeng，H.，Lam，R.，Tempel，W.，Amaya，M.F.，Xu，C., Dombrovski,L.,Qiu,W.,Wang,Y.,andMin,J.(2O11).Structural and histone binding ability characterizations of human PWWP domains. PLoS One 6,e18919.   \nYang,J.H.,Song,Y.,Seol,J.H.,Park,J.Y.,Yang,Y.J.,Han,J.W.,Youn, H.D.,and Cho,E.J.(2O11).Myogenic transcriptional activation of MyoD mediated by replication-independent histone deposition.Proc Natl Acad Sci USA 108,85-90.   \nYuen,B.T.,Bush,K.M.,Barrilleaux,B.L.,Cotterman,R.,and Knoepfler, P.S.(2014).Histone H3.3 regulates dynamic chromatin states during spermatogenesis.Development141,3483-3494.   \nYuen,B.T.,and Knoepfler,P.S.(2o13).Histone H3.3 mutations:a variant path to cancer. Cancer Cell 24,567-574. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

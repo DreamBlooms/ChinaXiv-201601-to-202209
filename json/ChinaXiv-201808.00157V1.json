@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "政府级BIM公共服务管理平台应用实践--以上海市杨浦区为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王翔宇",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(上海延华智能科技(集团)股份有限公司，上海430073)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】：上海市杨浦区BIM技术应用公共服务平台是BIM行业内首个将BIM项目群管理和GIS、云计算技术结合服务于政府部门的BIM技术应用管理平台。数据平台以杨浦区内试点项目BIM数据为依托，将BIM信息化与平台相结合，以试点项目数据为基础，专家平台为辅，联席会议平台为指引，不仅推进BIM技术在杨浦区的发展应用，还为建筑企业使用BIM技术提供了良好的指向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】：BIM技术；公共服务管理；项目群管理作者简介：王翔宇（1981-)，男，执行总裁。主要从事智慧城市咨询、研究和建设工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术是一种应用于工程设计建造管理的数据化工具，通过参数模型整合各种项目的相关信息，在项目策划、运行和维护的全生命周期过程中进行共享和传递，为设计团队以及包括建筑运营单位在内的各方建设主体提供协同工作的基础[]，在提高生产效率、节约成本和缩短工期方面发挥重要作用，是世界建筑行业发展革命性及主趋势，是推动信息化时代城市精细化管理的重要手段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年，建筑行业信息化发展突飞猛进，BIM技术得到了政府和业界的高度重视。在政策的引导和行业的支持下，促进了基于BIM技术的施工管理平台的快速发展。目前，国内BIM行业的产业平台主要聚焦于单个项目的施工阶段管理工作。通过施工管理平台并结合项目BIM工作，数字化、信息化管理建设项目[2-3]。使项目的过程、材料、资金、工期等清晰透明，提升项目的管理质量和施工质量[4,但是针对整体区域性项目群管理的建筑信息模型技术应用管理平台还是空白。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "政府级BIM技术应用公共服务平台以BIM为信息载体，结合GIS技术、移动互联技术、物联网技术等研发建设信息管理平台，集成建设项目信息数据库、项目公共服务平台和项目监督服务平台，对区域建设工程进行信息化、三维可视化和智慧化管理，为城市应用管理智慧化奠定了坚实的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2平台总体框架",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术应用公共服务平台利用物联网、云计算和大数据处理等技术，建设一个综合性的BIM应用管理平台，实现GIS与BIM结合的项目群管理、实现基于建筑信息模型的重大风险源监控、自动预警、监测分析等功能、运用BIM技术，实现造价管理、对项目应用建筑信息模型技术后产生的效益",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（包括设计协同、进度控制和造价管理产生的效益）进行分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "平台采用B/S架构，无需安装任何软件，通过浏览器即可访问。平台分为前端和后台两部分，其中前端又分为GIS层驾驶舱（项目群管理）和BIM层（单项目管理)。平台前端主要为用户向展示区域内各BIM项目的运行情况。政府管理层可以查看所有的项目的数据，对项目进行及时的管控。项目各参与方管理人员可以向专家咨询问题、上传项目的模型和文档，对项目数据进行及时更新。专家可以及时解答项目难题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "平台后台主要是维护基本数据，包括用户管理、项目管理、专家管理、部门管理、链接管理、角色（权限管理）和系统日志。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "平台采用五层架构（图1)，从下到上以此是：基础环境层、数据资源层、平台支撑层、业务应用层和用户服务层。各层功能如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1）基础环境层：该层主要负责为整个平台运行提供最基础的网络设施环境。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（2）数据资源层：该层主要为平台提供数据库服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（3）平台支承层：该层主要是为平台功能逻辑的实现提供基础功能支撑，其中：模型渲染引擎为用户操作模型提供实时渲染支撑；文件转换服务为用户提供三维模型文件转化和数模分离服务。文件转换完成后，模型几何数据和属性数据分开存储",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（4）业务应用层：该层主要为用户提供各种功能，例如试点项目、联席会议、专家平台、效益分析、 $\\mathbf { B I M + }$ 等等；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（5）用户服务层：用户通过浏览器访问平台。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc58dedd179c5df3098f56fbebee554f031bb1d06483104a5a209cc89eb9005b.jpg",
+        "img_caption": [
+            "图1平台功能架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3BIM公共服务管理平台功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1GIS层驾驶舱（用于项目群的监督和管理）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GIS层驾驶舱模块是将区域GIS地图与试点项目的BIM模型交互的模块，对项目进行三维展示实现对项目群的管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.1区域项目群",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在GIS地图的基础上，建立BIM项目模型。用户可以自行 2D与3D的切换，对模型进行放大、缩小、旋转、平移等操作，全方位展示项目信息，进行线上数据管理及展示，如图2所示。而且用户还可以通过精确搜索或者模糊搜索对项目进行筛选，选择项目后与模型区进行联动定位到模型，查看工程项目建设过程的进度以及发生的质量、安全、文明施工等事件统计，并可以进入BIM层-事件功能模块查看详细事件。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c1a0e7b411593044289f860821f782db126a21c01f9a00dfc78ec414a10db30.jpg",
+        "img_caption": [
+            "图2 GIS项目群示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.2专家平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "建立云端专家库，展示区域内BIM专家库内的专家信息，并可以在平台上与专家进行在线答疑、交流沟通。经过长时间的积累，形成BIM知识库，推动区域BIM技术应用和发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.3效益分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平台采用科学合理的BIM综合评价体系，通过节约成本、加快进度、提高质量、提高安全性和提高效率5大准则，16个指标体系对BIM应用进行综合评价。对项目应用BIM技术后产生的效益（包括设计协同、进度控制和造价管理产生的效益）进行分析，并生成相应的对比分析图表，可对项目节省的效益有直观的感受。对项目群或单个项目使用BIM所产生的进度效益进行统计分析并生成相应图表。如实际工期统计、计划工期与实际工期的对比等，如图3所示。对项目群或单项目使用BIM所产生的成本效益分析，如项目实际投资、合同金额与实际投资金额统计等，如图4所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/256410539beedaad4e42469f10100121b59fd27cb3f88df7d2ec319eacf2e404.jpg",
+        "img_caption": [
+            "图3进度效益分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c932a4d3f8d8a1c0906a3e9b6855eeb70fe2c7bbd1e71521f43bb8d0b17949bb.jpg",
+        "img_caption": [
+            "图4成本效益分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2BIM层（单项目管理）",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM层可实现对单个项目进行管理，通过进度管理、质量管理、安全管理、文明施工要点、远程监控机制、物料管理等模块，实现工程信息逐步集成的过程，从决策阶段、实施阶段到使用阶段最终形成覆盖完整工程项目的信息模型，为工程参建方提供一个可以实时掌控项目动态、了解项目进度、查看项目质量安全等问题的平台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.1进度管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "进度管理包括进度计划、进度追踪、进度统计、进度纠偏等功能。将BIM模型中的构件按分部分项工程分类，与施工进度计划（可从project导入）相关联，对创建好的分部分项设定类型，包含里程碑、一般任务、关键工序和重大风险源四个类型，如图5所示。对于关键工序，可以选择预先设定好的关键工序的分部分项。这样可以在进度计划做好以后，针对于关键工序的分部分项发送自动事件进行提醒。精确到构件级，实现三维动态施工模拟。同时，可通过平台将每周任务发送给参建单位相关责任人，随时随地查看相关项目成员和计划的执行情况，施工单位人员可在平台中对任务逐个销项，监理单位和建设方可通过平台进行进度追踪和纠偏，实现项目建设过程中的每一环都可追溯的同时有效保证工程进度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b4c4b3ab7f47e1b7ff94f42d6e9ef13c37f00cfd59529d8dcf8f74231fcbc5d.jpg",
+        "img_caption": [
+            "图5进度管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2质量管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过搭建建设领域各细分行业质量控制点，使其与分部分项工程一一对应。随着施工推进，通过平台推送质量控制任务推送给相关责任人，实时指导现场施工。同时，可对施工现场发生的质量事件进行记录、上传，并将相关问题与BIM模型中构件相关联，便于及时对现场问题进行处理和整改以及日后对问题的追溯。经过一段时间的运行后，针对出现的问题，形成质量通病库，为以后的工程建设提供参考。如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1调度批产 #动入行者 □中 M 项 0 办 80 0 K  \nV 需图理 5H0 (1500) IS全m W7\\~831 −8 H RLR 调 科际生 50 −# ” A P IJ 20706-1 出useen 87-881 WEx 执乐 7.06.5sn0 1508 s全 下二8 R7 56 7  \n> 安全车 0 ueEn -810 2# ER.AK TR. MX8T 5080 NEM21500) 国 6 M  \n> 8K2100  \n> iE 50 87-0 \" 快R 电BRTP 5t0 NEN±(1500 −8(h −6 国 KB K#  \n>文件摄 s → Wl 附RME! 5150 0 WT-881 5 、510 WE1500 SuREE 电T二82 2 m #8 U 耕W  \n> 限 NEN2100) 安全安全 影5 3 RH5m0 X(1500) #(1n 1 −6 96 IA NSf2 EE -716 89 ：5 两东工(15000 国票 7445t50 NE豫五09000 txsemte 7二82 E2 8 5 MK5150 工(1500 + −81) IE − 2017-04-125t0 WER±1500 muteeetsteee 二8(1n - m8 3Ra5 中ST0 E821500) “Bn → 58 20174-2 ：S10 高E集工19000) tuted 87\\~881) 018259 R 2# SR.BA TE.BA DLKn 2n7.06-52 MR.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.3安全管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过搭建建设领域各细分行业重大风险源数据库要点，使其与分部分项工程一一对应，随施工推进，通过平台推送安全控制任务推送给相关责任人，实时指导现场施工。同时，可对施工现场发生的安全事件进行记录、上传，并将相关问题与BIM模型中构件相关联，便于及时对现场问题进行处理和整改以及日后对问题的追溯。经过一段时间的运行，针对出现的问题，形成安全通病库，为以后的工程建设提供参考。如图7所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "山 重 项出  \n>搜批率 全省第文徐荣部 下 请加人家告6款 国  \n> 图线 号 2 件名 发老人 W 88 专4 EE  \nV安全安出 be E6306 207-46.105 20726512中件海 ：1 E）E 20-6510  \n>X 二 26  \n> 二  \n> 20206.10H 020.0  \n>件A C 2201RME理 ： 二 0, 二  \n>强胱 susetaes 8024613BWONE 1 0 202.4510RPE 20246.12T 1i1 二 mBRuce 206.染实 s89 202401",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.4文明施工",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过搭建建设领域各细分行业文明施工措施要点，使其与分部分项工程一一对应，随施工推进，通过平台推送任务推送给相关责任人，实时指导现场施工。同时，可对施工现场发生的文明施工等事件进行记录、上传，并将相关问题与BIM模型中构件相关联，便于及时对现场问题进行处理和整改以及日后对问题的追溯。进行文明施工相关文档的查询及编辑。经过一段时间的运行，可以形成文明施工通病库，为以后的工程建设提供参考。如图8所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "山武按批先 DEASE □医量图 1/90 1 TIESEn #1-801 ·· V 58\\* BA W收 脂 244-3 错接 HN安全能东 4 T =R明施工 p. R 1-801 4EK8 #大 58 BR50 2 Ue #1802 4185 Et t0 52 Pt 8 # \\*28 27. ：  \nWW套控 5199 欢安生财 二 41象 −1 B 13 中 RR1 一防 AEIHRRA SBE 150 E准182 营UR全EN 电7-0 1 Rt大 \\*28 RA R10 ssE #782 1 1 中刘 150 营 −8⑤ −# N 新1/50 TESSEN 二0 488 8 \\*8 nKseer 158 RE电(13 82 − 12 −B 187 1  \nSn 15 电52 全 #7-801 W 88 .R W RRE电3(1820 85生图0 87:802 4 R5 \\*2\\* \"150 −8T) -II 184 23.868E838 二K0 49 s BA ::30 EE - -8 28 RA2 2 电7-80 大 11 21 #7802 8 80 BA RA HF m电 SPEN − 1 \\*少8 HP1 211 二8n n8 2.新 I8.5K TR.RA 2704-11 1B8 1 ms29 - −8 s0 744-0 福80212 tuteen #7-805: 48 xX 42\\* 0.86 OHR 0# 20744-12 0",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd893043ace82e15df155c1ac0d21f136757e84aeb1fd40d509a2e8feb510d87.jpg",
+        "img_caption": [
+            "图6质量管理",
+            "图7安全管理",
+            "图8文明施工管理",
+            "图9远程监控管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.5远程监控",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在平台中整合主体结构、周边环境、场地布置、围护结构、道路管线等BIM模型，搭建监测模型，并将监测点与其所监测的实体构件相关联，将监测结果实时反映到三维场景，同时形成各种监测结果的分析报表，支持将报表导出PDF等格式，方便日后对监测数据进行查看。并且按安全隐患的级别自动推送给相应的管理人员。如图9所示，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.6物料管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该模块主要有以下功能：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）物料计划",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在线项目的物料信息，如设备的规格型号、资产编码、计划进场时间、供应商等，并与BIM模型进行绑定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）物料源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过将所消耗的物料与BIM模型的绑定，可以追溯到各物料的详细使用情况，便于日后对物料的使用进行溯源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）物料统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合工程的进度管理，记录工程所消耗的人材机等信息。帮助用户了解工程中物料的使用情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f29e7220a32ec26c4c97590ebce0ab704d476a974f8d8b4522aec9f287a5a3b4.jpg",
+        "img_caption": [
+            "图10 物料管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM技术应用公共服务平台前端构架主要包括GIS层和BIM层。GIS层驾驶舱实现对项目群的管理。驾驶舱内可以查看杨浦区BIM试点项目以及杨浦区BIM发展现状和发展史。通过BIM层对项目进行精细管理，包括项目参与方人员、进度、模型、质量、安全、文明施工等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前杨浦BIM技术应用公共服务平台已经开发完成，处于试运行状态。试运行期间已有6个试点项目的BIM数据与平台成功对接，供平台试运行使用。平台正式运行之后，剩余20个试点项目将依次与杨浦BIM技术应用公共服务平台进行数据对接。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "政府BIM技术应用公共服务平台的建立，让政府建设建管主管部门及时掌握辖区内全局建设项目里程碑信息和建设情况，有效管理施工现场质量、安全、文明等问题；同时能通过进度对比分析提供施工进度及优化指导。同时，项目产品不受地域、平台、终端及浏览器的限制，可以让用户随时使用；不需要安装对应软件，支持40多种文件格式，可以让用户快速打开各种来源的模型；并且具有可靠的可视化解决方案，让传递、分享、协同和沟通更加便利和高效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]尹贻林,朱绪琪.基于BIM的PPP项目全生命周期监管平台建设研究[J].价值工程,2018.(2):24-26.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2]周文,李倩楠,潘良波等.基于BIM和GIS 的综合管廊智能化管理平台研究与实现[J].地理信息世界，2017,(3):97-100.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[3]魏晨康,徐汉涛,郑承红等.基于施工总承包管理的BIM协同信息管理平台开发及探索[J].施工技术，2017,(22):1-4.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[4]赵方毅,郑夕玉，张强.基于BIM的专项管理平台研发与应用[J].建筑技术开发，2017,44(23):93-95.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of Government-level public management platform Based on BIM --a case of Yangpu, Shanghai ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wang Xiangyu ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shanghai yanhua smartech group co.,Itd, Shanghai, 43oo73,China ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The government-level Application Public service platform based on BIM technology is the first management platform ,used BIM technology that combines many BIM project management with GIS and cloud computing technology in BIM industry. It is a digital and information management platform based on $\" 4 \\mathrm { + } \\mathrm { X \" }$ frame system. Based on the BIM data of the pilot project in Yangpu, the expert platform as a supplement, and the Joint Meeting platform as the guideline ,the data platform will combine the BIM .It not only promote the development and application of BIM technology in Yangpu, but also provide a good point for construction ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Building Information Modeling (BIM) Technology; public service management; 'roject Group Management ",
+        "page_idx": 3
+    }
+]

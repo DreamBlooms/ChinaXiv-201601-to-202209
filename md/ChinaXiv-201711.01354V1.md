@@ -1,0 +1,152 @@
+动物鲜味受体的研究进展及其基因表达调控王晶张勇12\*黄铁军²（1.沈阳农业大学畜牧兽医学院，沈阳110866;
+
+2．乐达（广州）香味剂有限公司，广州510530)
+
+摘要：动物的鲜味受体包括代谢型谷氨酸受体（mGluR）和味觉受体异源二聚体（TIRI/TIR3)，是C型G蛋白偶联受体，N末端捕蝇草模块（VFT）区域可与鲜味配体结合，识别鲜味。本文主要论述了鲜味受体的研究进展、鲜味识别转导机制及鲜味受体基因的表达调控等，以期为相关研究提供参考。
+
+关键词：鲜味受体；代谢型谷氨酸受体；味觉受体异源二聚体；转导机制；调控中图分类号：S811.3
+
+味觉是动物对食入物质组成成分的辨识过程，一般可分为5种：甜（sweet）、酸（soar)、鲜（umami）、苦（biter）、咸（salt）。其中鲜味主要由谷氨酸钠（monosodium glutamate,MSG）、一些氨基酸（主要为天冬氨酸）、大量短肽、一些有机酸（乳酸和丙酸等）引起的[1]。味觉的辨别是通过味觉受体（taste receptor，TR）与不同物质之间的特异性作用传递信息到大脑来完成的，味觉受体具有特异性。据现有研究表明，鲜味受体主要包括代谢型谷氨酸受体（metabotropic glutamate receptor,mGluR）和味觉受体异源二聚体（T1R1/T1R3）。它们均为C型G蛋白偶联受体（G protein-coupled receptor，GPCR)，该族受体的单体包含七螺旋跨膜结构（heptahelical transmembrane domain，HD）、捕蝇草模块（venus flytrap domain,VFT）、半胱氨酸富集区（cysteine-rich domain，CRD）、C末端等多个功能域。VFT区域包含2个球形子域，2个子域通过铰链区联系到一起。N末端VFT区域是受体的结合位点[2],与配体结合识别味道。本文重点阐述鲜味受体的研究进展、鲜味的转导机制及鲜味受体的基因表达调控几个方面。
+
+1 鲜味受体的分子生物学特征及其研究进展
+
+# 1.1 mGluR
+
+mGluR的相对分子质量为 $6 8 \times 1 0 ^ { 3 }$ ，是经由大鼠的味蕾细胞克隆后在中国仓鼠的卵巢细胞中的功能性表达得到的。作为味觉受体存在的mGluR主要有mGluR1[3]与mGluR4[4],结构如图1-A所示。mGluR4 是第1个被发现作为鲜味受体存在的物质，可在味觉细胞中表达，其配体对 $L$ -氨基酸盐的味觉厌恶的模拟均可证实其为鲜味受体。相关研究表明，mGluR1的抑制剂1-氨基芘-1,5-二羧酸(AIDA)和 mGluR4 的抑制剂α -环丙基-4-麟酰基苯基甘氨酸（CPPG）可降低小鼠中味觉细胞和味觉神经纤维在行为上对鲜味物质的反应，也间接说明了2 受体对鲜味的感知。mGluR1和 mGluR4主要接受谷氨酸和某些类似物的鲜味[5-6]，两者不仅均在舌的轮廓乳头和叶状乳头的味觉受体细胞中表达，同时也在大脑组织中表达，mGluR1还存在于大鼠的肠道中。相关研究表明，两者在大脑中的表达与鲜味在大脑中的转导有直接关系[7]。它们均为G蛋白偶联受体，mGluR1被激活后介导磷脂酰肌醇信号通路，mGluR4被激活后主要与腺苷环化酶系统偶联。mGluR 随着物种的不同有一定的特异性，大鼠与人的同源性只有 $80 \%$ ，这种差异也可以表明不同物种在鲜味感觉的差异性。
+
+# 1.2 T1R1/T1R3
+
+味觉受体第一家族（taste receptor family1member，T1R）是G蛋白偶联受体，继其在2001年被发现后，2002年相关研究通过检测人的胚胎肾细胞中G蛋白偶联受体被激活后钙离子（ $\mathrm { C a ^ { 2 + } }$ ）的浓度变化，推测出T1R中的 T1R1/T1R3是鲜味的主要受体。T1R1/T1R3可感受谷氨酸与20 种 $L$ -氨基酸，且肌苷酸（inosincacid inosinemonphosphate，IMP）与鸟苷酸（guanosine monophosphate，GMP）对其有加强效果。T1R1/T1R3不仅在舌的菌状乳头和上颚的味蕾中表达，也可在消化道、脑、肝、肌肉组织、生殖细胞等非味觉系统中表达，还可在小鼠的中性粒细胞中表达[8]。T1R1/T1R3 的纲要式结构如图1-B 所示。Margolskee 等[9]发现在小鼠、大鼠和人肠道中，T1R1与T1R3能以异源二聚体的形式识别 $L$ -氨基酸。相关研究表明，肠道中被激活的 T1R1/T1R3 可刺激肠道的蠕动[10]，以上都可说明 T1R1/T1R3 在消化道中的表达。T1R作为G蛋白偶联受体，被激活后介导磷脂酰肌醇信号通路来传递味觉信号。除鲜味识别外，T1R1/T1R3 还可控制胆囊收缩素、胰岛素、十二指肠碳酸氢根( $\mathrm { \cdot } \mathrm { H C O } _ { 3 } ^ { - }$ 的分泌，激活哺乳动物雷帕霉素复合物抑制自噬[1]。T1R1/T1R3 随着物种的不同表现一定的特异性，人类与啮齿类动物的T1R 基因只有 $70 \%$ 的一致性。人类的T1R1和T1R3 基因都位于人类第1染色体的短臂上，距离比较接近。而在小鼠中两者的基因都位于第4染色体的末端。另外，哺乳动物的T1R1基因含有6个外显子。这种差异也可以表明不同物种在鲜味
+
+感觉的差异性。
+
+![](images/ca964c53a5dcaa07d214be6d5ac0c565a6900fb64c1bc6896356a199048c4796.jpg)
+
+Extracellular region：胞外区；Transmembrane region：跨膜区；Cytoplasmic region：胞质区；Membrane; 薄膜。
+
+1.3鲜味受体对鲜味的识别与转导
+
+![](images/6d7e249a3736f35f31ec6e14ebf4321516eb90138dfef9d726c020a946fd4c9c.jpg)  
+图1鲜味受体的结构  
+Fig.1The structure of umami receptors[12-13]   
+图2鲜味分子的转导  
+Fig.2The transduction of umami molecules[14]
+
+PLC：磷脂酶C phospholipase C；TRPM5：瞬时受体电位离子通道5 transient receptor potential ionchannels melastatin 5; $\mathrm { P } 2 \mathrm { X } _ { 2 } / \mathrm { P } 2 \mathrm { X } _ { 3 }$ ：嘌呤能受体 purinergic receptors。
+
+虽然不同物种在鲜味受体上有一定的差异性，但其对谷氨酸盐等鲜味分子的识别转导过程基本相同。T1R1/T1R3对鲜味分子信号的识别过程已经清晰， $L$ -谷氨酸盐分子与IMP共同作用于T1R1的VFT区域， $L$ -谷氨酸盐在接近铰链区的地方与VFT相结合，诱导VFT结构域关闭，IMP与距离VFT开口处较劲的部位结合，能在 $L$ -谷氨酸作用于VFT后，促进VFT 区域的关闭，从而达到鲜味识别的作用[15-16]。
+
+MSG 等鲜味分子被识别后，如图2所示。T1R1/T1R3受体激活，磷脂酰肌醇信通路开启，激活磷脂酶 $\mathbf { C - \beta }$ （phospholipase $\mathbf { C - } \beta$ ，PLC- $\cdot \beta$ )，继而水解磷脂酰肌醇-4,5-二磷酸（ $\mathrm { P I P } _ { 2 }$ ）生成的三磷酸肌醇（ $\mathbf { I P } _ { 3 }$ ）和二酰甘油（DAG）， $\mathbf { I P } _ { 3 }$ 酶解产生酶解物，其酶解物可诱导 $\mathrm { C a } ^ { 2 + }$ 从细胞中的钙储存仓库中释放出来，进而激活 TRPM5 通道，TRPM5 通道是一个瞬间开放的单价阳离子通道，使得钠离子（ $\mathrm { \cdot N a ^ { + } }$ ）进入到细胞中。Akiyuki等[17]的研究表明，钙稳态调制器1（calcium homeostasis modulator1，Calhm1）可在 $\mathrm { { N a ^ { + } } }$ 与神经递质ATP之间形成一种联系，最终导致膜去极化和神经递质ATP的释放。
+
+此外，若MSG 等鲜味分子信号被mGluR4识别，则可激活 $\mathfrak { a }$ -味导素，从而激活磷脂二酯酶（phosphodiesterase，PDE），减少细胞质内的环磷酸腺苷（cyclic Adenosinemonophosphate，cAMP）的含量，进而消除了环核苷酸（cyclicnucleotide，cNMP）对离子通道的抑制作用，放出胞内的 $\mathrm { C a } ^ { 2 + }$ ，继而使膜去极化与神经递质的释放得以进行[18]。
+
+以上，MSG 鲜味分子信号经过受体转导后，味觉细胞的细胞膜去极化，神经递质 ATP得以释放以激活邻近的味觉神经纤维上的嘌呤能受体 $( \mathrm { P } 2 \mathrm { X } _ { 2 } / \mathrm { P } 2 \mathrm { X } _ { 3 } )$ 受体[14]。通过此方法，鲜味受体细胞把接受到的化学信号转变为电信号，此后信号顺着舌咽神经、面神经的鼓索神经侧支和迷走神经传导至延髓孤束核。在灵长类动物与人的鲜味信号传递中，孤束核的神经元是第二级神经元，延伸至丘脑腹后内侧核。而作为啮齿类动物，在鲜味信号传递过程中，神经元经孤束核延伸到脑桥的臂旁核，经过臂旁核中继后分为2部分投射至丘脑的腹后内侧核、下丘脑外侧区，经其中继后投射到皮质的中央后回到最下部的味觉中枢进行鲜味感知。
+
+# 2影响鲜味受体基因表达调控的因素
+
+鲜味受体存在于人、灵长类动物、哺乳动物等多种动物舌的味觉细胞中，但由于受多种因素限制，鲜味受体基因表达调控的试验动物主要以大、小鼠为主。鲜味受体基因的表达受较多因素的影响，相关研究表明，在一定范围内TRM5离子通道的活性会随着温度的变化而有所改变，从而改变了Na+浓度，动作电势减小，味细胞膜去极化程度降低，从而导致了鲜味受体基因1/鲜味受体基因3（Tas1rl/Tas1r3）的表达量下降，鲜味受体的表达被消弱。Okamoto 等[19]通过逆转录(RT)-PCR 研究表明，慢性束缚应激可明显抑制 T1R3 mRNA 的表达量，从而削弱鲜味受体的表达。Toyono 等[20]通过培养人的胆管癌细胞系，利用荧光素酶探针法和电泳检测出 CCAAT增强子结合蛋白 β(CCAAT enhancer binding proteinβ，C/EBPβ)
+
+可激活Taslr3 启动子，增强T1R3 mRNA 的表达，继而增强鲜味受体的表达。Kokabu 等[9]的研究表明，肌肉调节因子可通过激活Tas1r3的启动子活性来提高T1R3mRNA的表达量，提高鲜味受体的表达。类似的调控鲜味受体的因素有很多，下面选择其中几种在生产中常用的营养因子，对其对鲜味受体基因表达的调控加以说明，同时说明其在生产实践中对鲜味受体表达调控的影响。
+
+# 2.1糖皮质激素（glucocorticoid，GCs）
+
+GCs又名肾上腺皮质激素，是由肾上腺皮质合成的一类甾体激素，主要为皮质醇。GCs具有调节糖、脂肪和蛋白质的生物合成和代谢的作用，无论哺乳动物还是啮齿动物中都比较常见。其还可以抗炎，可用于普通的抗生素或消炎药所不及的疾病，如败血症等，是日常生产中较常见的药物如地塞米松等的主要成分。刘磊等[21的研究表明，GCs可通过对中枢单磷酸腺苷激酶（AMPK）等的调节刺激应激肉鸡的食欲，诱导肉仔鸡对高能量饲粮的偏爱。GCs 对动物的生长性能存在影响，在生产中具有实用性。
+
+GCs 可以调控鲜味受体的基因表达，Oqawa 等[22]使用RT-PCR 检测了切除肾上腺的大鼠的菌状乳头中T1R3mRNA的表达量，发现菌状乳头中T1R3 mRNA的表达量明显变少，然后在空腹条件下分别饲喂大鼠0.1、10、 $1 ~ 0 0 0 ~ \mathrm { n g / k g }$ 地塞米松，饲喂 $0 . 1 \mathrm { n g / k g }$ 地塞米松的大鼠菌状乳头中T1R3mRNA的表达量恢复到正常水平。其他2组大鼠的菌状乳头中T1R3 mRNA的表达量却未达到正常水平，即GCs可调控鲜味受体T1R1/T1R3的表达，低浓度的GCs可诱导 T1R3 mRNA表达，进而增强 T1R1/T1R3 受体的表达。高浓度的GCs则会抑制鲜味受体T1R3mRNA的表达，进而抑制T1R1/T1R3受体的表达，从而完成对鲜味受体基因表达调控的影响，同时说明其在生产实践中会对鲜味受体的表达产生影响。另外，这也间接说明了滥用GCs的危害。
+
+# 2.2 MSG
+
+MSG，化学名 $\mathfrak { a }$ -氨基戊二酸一钠，是谷氨酸的钠盐，是味精的主要成分，常被作为鲜味剂加入饲料。谷氨酸参与生物体内的多种代谢活动。谷氨酸介导中枢神经系统绝大多数突触的快速兴奋性传递，参与绝大多数的脑功能调节过程。某种意义上，谷氨酸就是鲜味的一部分。过量的谷氨酸会影响动物的生长性能，影响钙、锌等微量元素的吸收。陈罡[23]的试验以哺乳仔猪为研究对象，分别添加0、0.06、0.50、1.00g/(kg·d)MSG，试验结果表明，低剂量组、中剂量组平均日增重分别比对照组提高了 $3 . 2 5 \%$ 、 $7 . 5 4 \%$ ，与对照组相比,高剂量组平均日增重降低了 $9 . 4 1 \%$ 。MSG对动物生长性能存在影响，在生产中具有实用性。
+
+MSG 对mGluR 和T1R1/T1R3 的基因表达调控均有影响，且三者互相影响。张策等[24]的研究表明，谷氨酸浓度过大会激活mGluR4，mGluRmRNA的表达量增大，mGluR4介导了L-2-氨基-4-磷酰丁酸(L-AP4)诱发的平行纤维（起源于颗粒细胞）对蒲氏细胞的突触前抑制作用，抑制神经递质的释放，进而鲜味分子信号的传导的整个通路被抑制，T1R1/T1R3对鲜味的识别被抑制，T1R1/T1R3 mRNA的表达量下降，mGluR与Talrl/Talr3mRNA的表达受到抑制，mGluR与T1R1/T1R3的mRNA表达受到抑制。也可间接说明过量添加味精的危害。除此之外，Zhang 等[25]通过运用RT-PCR 和免疫印迹试验(Westerm blot)分析表明，正常量MSG的添加会增大仔猪胃肠道内的T1R1/TIR3mRNA的表达量，增大T1R1/T1R3mRNA 的表达量，加强对鲜味基因的调控，也可说明MSG 对鲜味受体基因表达的调控，同时也表明其在生产实践中对鲜味受体表达的影响。
+
+# 2.3嘌呤核苷酸
+
+嘌呤核苷酸对鲜味受体的作用主要体现在IMP与GMP上。它们盐的形式肌苷酸二钠与鸟苷酸二钠是鲜味剂的主要成分，具有协同作用。肌苷酸除用来增味外，还可用于提高鸡的胸肌率，降低血清中甘油三酯的含量，提高血清中葡萄糖、高密度脂蛋白及胆固醇的含量，提高胴体品质[26]。杨玉芬等[27]的研究显示，分别在饲粮中添加IMP与GMP 对仔猪的生产性能无明显负面影响，表明其在生产中的实用性。IMP 主要由肌肉中的 ATP 降解而产生，GMP 主要由蛇毒磷酸二酯酶处理RNA而来。两者作为鲜味物质，主要是由于其对谷氨酸钠及氨基酸的鲜味具有增强作用，而这种增味作用主要体现在两者对鲜味受体基因表达的调控上。
+
+IMP及GMP对鲜味受体基因表达调控主要有2个方面，一方面两者可通过与T1R1的VFT 区域结合大量激活T1R1/T1R3受体，造成大规模的神经递质释放，使T1R1/T1R3 mRNA表达量增大。Mouritsen 等[28]利用分子动力学模拟了这个过程，试验显示，两者可沿铰链弯曲运动，在T1R1受体VFT区域的外前庭部位结合，使受体保持稳定的结合状态，进而进行鲜味分子的识别，增强Tarlrl/Tarlr3基因的表达以完成对鲜味受体基因表达调控的影响。另一方面，两者通过调节 $\mathrm { C a ^ { 2 + } }$ 浓度调节鲜味受体基因的表达。Desimone等[29]通过味觉神经记录的研究方法表明，IMP可作用于味觉细胞，提高味觉细胞中 $\mathrm { C a } ^ { 2 + }$ 的浓度，从而激活TRPM5 通道，Na+离子内流，导致ATP 的释放，鲜味转导增强，TIR1/T1R3 mRNA的表达量增大，鲜味受体T1R1/T1R3的表达量增多。即两者可通过调节细胞中 $\mathrm { C a ^ { 2 + } }$ 浓度来调节Tarlrl/Tarlr3基因的表达，以达到增味的作用。以上2个方面，均可说明 IMP 和GMP 对鲜味受体基因表达调控的影响，同时也表明在生产实践中其对鲜味受体表达的影响。
+
+# 2.4无机盐
+
+无机盐对鲜味的作用主要体现在 $\mathrm { { N a ^ { + } } }$ 与 $\mathrm { C a } ^ { 2 + }$ 上。其中NaCl是食盐的主要成分。食盐具有提鲜作用，中国古代具有“淡无味，咸无味”的说法，即说明食盐对味道的调节作用。
+
+Na+对鲜味基因表达的调控主要是因为细胞中 $\mathbf { N a ^ { + } }$ 浓度的变化会造成了膜的去极化和神经递质ATP 的大量释放，鲜味分子大量转导，进而造成T1R1/T1R3mRNA的表达量急剧增大，T1R1/T1R3受体的表达增大，完成对鲜味受体基因Tarlrl/Tarlr3表达的调控。
+
+$\mathrm { C a } ^ { 2 + }$ 对鲜味基因表达的调控主要体现在 $\mathrm { C a } ^ { 2 + }$ 浓度的变化对TRPM5 通路的调控上，即细胞中 $\mathrm { C a ^ { 2 + } }$ 浓度的增大会激活细胞中的TRPM5通道，TRPM5通道的激活导致 $\mathrm { { N a ^ { + } } }$ 离子内流，进而膜的去极化与ATP 神经递质的释放，TIR1/T1R3 mRNA 的表达量急剧增大，T1R1/T1R3受体表达增大，完成对鲜味受体基因Tarlrl/Tarlr3表达调控的影响。同时，也可表明其在生产实践中对鲜味受体表达的影响。此外， $\mathrm { C a } ^ { 2 + }$ 浓度的变化与N-甲基 $. D /$ -天冬氨酸受体(N-methyl- $. D$ -aspartic acid receptor，NMDA）相关，NMDA是谷氨酸受体的一种，影响谷氨酸的浓度，但具体表达调控还待进一步研究。
+
+# 3小结
+
+鲜味作为五味之一，可增强动物的食欲，提高动物生产效率。综上所述，鲜味受体可以完成对鲜味的识别与转导，鲜味信号刺激大脑产生食欲。鲜味受体的基因表达受多种因素的调控，其中不乏在生产实践中具有实用性的成分。鲜味受体对于鲜味剂的应用非常重要，然而国内外对于鲜味受体的研究还存在明显不足。目前对于鲜味受体的研究一方面主要集中在 T1R1/T1R3上，对于mGluR 的研究较少，且T1R1/T1R3二聚体的研究也主要集中在T1R3方面。另一方面对鲜味受体的研究主要集中在人与啮齿动物上，猪、牛等动物的研究较少。营养素对鲜味受体基因表达调控的研究也较少，营养素对鲜味受体基因表达调控的机理尚未完全明确。本综述通过对鲜味受体的研究进展，鲜味的识别转导机制、营养素对鲜味受体基因表达调控方面的介绍，旨在为之后的相关研究提供参考。随着鲜味添加剂使用在饲料中的普遍，鲜味受体的研究正在受到广泛的重视，希望在不久的将来，鲜味受体的研究可以取得突破，在基因调控和家畜领域取得较好的成果。
+
+参考文献:
+
+[1]DRAKE S L,CARUNCHIA WHETSTINE M E,DRAKE M A.et al.Sources of umami taste in Cheddar and Swiss cheeses[J].Journal of Food Science,2007,72(6):S360-S366.
+
+[2]PIN J P,GALVEZ T,PREZEAU L.Evolution,structure,and activation mechanism of family 3/C G-protein-coupled receptors[J].Pharmacology & Therapeutics,2003,98(3):325-354.
+
+[3]TOYONO T,SETA Y,KATAOKA S,et al.Expression of metabotropic glutamate receptor group Iin rat gustatory papillae[J].Cell and Tissue Research,2003,313(1):29-35.
+
+[4]CHAUDHARI N,LANDIN A M,ROPER S D.A metabotropic glutamate receptor variant functions as a taste receptor[J].Nature Neuroscience,2Ooo,3(2):113-119.
+
+[5]CHAUDHARI N,PEREIRA E,ROPER S D.Taste receptors for umami:the case for multiple receptors[J].American Journal of Clinical Nutrition,2OO9,90(3):738S-742S.
+
+[6]SHIGEMURA N,SHIROSAKI S,OHKURI T,et al.Variation in umami perception and in candidate genes for the umami receptor in mice and humans[J].American Journal of Clinical Nutriti0n,2009,90(3):764S-769S.
+
+[7]NAKASHIMA K,EDDY M C,KATSUKAWA H,et al.Behavioral responses to glutamate receptor agonists and antagonists implicate the involvement of brain-expressed mGluR4 and mGluR1 in taste transduction for umami in mice[J].Physiology & Behavior,2012,105(3):709-719.
+
+[8]LEE N,JUNG Y S,LEE H Y,et al.Mouse neutrophils express functional umami taste receptor T1R1/T1R3[J].BMB Rep0rts,2014,47(11):649-654.
+
+[9]MARGOLSKEE R F,DYER J,KOKRASHVILI Z,et al.T1R3 and gustducin in gut sense sugars to regulate expression of $\mathrm { { N a } ^ { + } }$ -glucose cotransporter 1[J].Proceedings of the National Academy of Sciences of the United States of America,2007,104(38):15075-15080.
+
+[10]KENDIG D M,HURST N R,BRADLEY Z L,et al.Activation of the umami taste receptor (T1R1/T1R3) initiates the peristaltic reflex and pellt propulsion in the distal colon[J].American
+
+Journal of Physiology:Gastrointestinal and Liver Physiology,2014,307(11):G1100-G1107.
+
+[11]KOKABU S,LOWERY J W,TOYONO T,et al.Muscle regulatory factors regulate T1R3 taste receptor expression[J].Biochemical and Biophysical Research   
+Communications,2015,468(4):568-573.
+
+[12]SUNESEN M,DE CARVALHO LP,DUFRESNE V,et al.Mechanism of CI- selection by a glutamate-gated chloride (GluCl) receptor revealed through mutations in the selectivity filter[J].The Journal of Biological Chemistry,2006,281(21):14875-14881.
+
+[13]KURIHARA K.Umami the fifth basic taste:history of studies on receptor mechanisms and role as a food flavor[J].BioMed Research International,2O15,2O15:189402.
+
+[14]NIKI M,YOSHIDA R,TAKAI S,et al.Gustatory signaling in the periphery:detection,transmission,and modulation of taste information[J].Biological and Pharmaceutical Bulletin,2010,33(11):1772-1777.
+
+[15]ZHANG F,KLEBANSKY B,FINE R M,et al.Molecular mechanism for the umami taste synergism[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(52):20930-20934.
+
+[16]LI X D.T1R receptors mediate mammalian sweet and umami taste[J].American Journal of Clinical Nutrition,2009,90(3):733S-737S.
+
+[17]TARUNO A,VINGTDEUX V,OHMOTO M,et al.CALHM1 ion channel mediates purinergic neurotransmission of sweet,bitter and umami tastes[J].Nature,2013,495(7440):223-226.
+
+[18]KINNAMON S C.Umami taste transduction mechanisms[J].American Journal of Clinical Nutriti0n,2009,90(3):753S-755S.
+
+[19]OKAMOTO A,MIYOSHI M,IMOTO T,et al.Chronic restraint stress in rats suppresses sweet and umami taste responses and lingual expression of T1R3 mRNA[J].Neuroscience Letters,2010,486(3):211-214.
+
+[20]TOYONO T,SETA Y,KATAOKA S,et al.CCAAT/Enhancer-binding protein $\beta$ regulates expression of human T1R3 taste receptor gene in the bile duct carcinoma cell line,HuCCT1[J].Biochimica et Biophysica Acta (BBA): Gene Structure and
+
+Expressi0n,2007,1769(11/12):641-648.
+
+[21]刘磊.糖皮质激素在应激家禽食欲调控中的作用机制[D].博士学位论文.泰安:山东农业大学,2014.
+
+[22]OGAWA N,KANKI K,HONDA K,et al.Involvement of glucocorticoid in induction of lingual T1R3 in rodents[J].European Journal of Pharmacology,2015,761:262-267.
+
+[23]陈罡.谷氨酸纳对哺乳仔猪蛋白质和脂肪代谢影响的研究[D].硕士学位论文.长沙:湖南农业大学,2013.
+
+[24]张策,刘荣建,乔健天,等.突触前代谢型谷氨酸受体调节神经递质的释放[J].生理科学进展,2002,33(4):293-298.
+
+[25]ZHANG J,YIN Y L,SHU X G,et al.Oral administration of MSG increases expression of glutamate receptors and transporters in the gastrointestinal tract of young piglets[J].Amino Acids,2013,45(5):1169-1177.
+
+[26]闫俊书,周维仁,张惠,等.饲粮肌苷酸对雪山草鸡胴体品质、肉质性状及血清中生化指标 的影响[J].江苏农业学报,2012,28(6):1378-1385.
+
+[27]杨玉芬,周世业,乔建国.外源 $5 ^ { \prime } .$ -腺苷酸二钠和 $5 ^ { \prime } .$ 鸟苷酸二钠对断奶仔猪生长性能及抗氧化能力的影响[J].福建农林大学学报：自然科学版,2010,39(1):63-66.
+
+[28]MOURITSEN O G,KHANDELIA H.Molecular mechanism of the allosteric enhancement of the umami taste sensation[J].The FEBS Journal,2012,279(17):3112-3120.
+
+[29]DESIMONE JA,PHAN TH T,REN ZJ,et al.Changes in taste receptor cell $\mathrm { [ C a ^ { 2 + } ] _ { i } }$ modulate chorda tympani responses to biter,sweet,and umami taste stimuli[J].Journal of Neurophysiology,2012,108(12):3221-3232.
+
+Umami Receptors:Research Progress and Gene Expression Regulation WANG Jing1ZHANG Yongl' 2\*HUANG Tiejun2 (1. College of Veterinary and Animal Science, Shenyang Agricultural University, Shenyang 110866, China; 2. Lucta (Guangzhou) Flavors Co., Ltd. Guangzhou 510530, China)
+
+Abstract:Umami receptors include metabolic glutamate receptors and taste heteromeric receptor dimmers, which are members of G protein coupled receptors C family. They all have N-terminal
+
+VFT region that makes them to be umami ligand binding and recognize umami. In this paper, the research progress of umami receptors and transduction of umami recognition and umami receptors gene expression regulation were summarized.
+
+Key Words: umami receptor; mGluR; T1R1/T1R3; transduction mechanism; regulation

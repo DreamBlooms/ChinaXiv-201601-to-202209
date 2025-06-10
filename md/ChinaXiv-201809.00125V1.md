@@ -1,0 +1,275 @@
+# 享受当下，还是留待未来？时间观对跨期决策的影响
+
+徐岚1,2 陆凯丽」陈全」崔　楠1,2(武汉大学经济与管理学院;²武汉大学组织营销研究中心，武汉 430072)
+
+摘要本研究通过三组实验考察了线性和循环两种时间观对跨期决策的影响。实验1表明与循环时间观的人相比，线性时间观的人在跨期决策时更倾向于选择近期选项(假设1)。实验2进一步验证假设1，并且验证了时间感知的中介作用(假设2)。实验3考察了时间标记(有标记VS.无标记)对主效应的调节作用(假设3)。实验结果发现，在无标记情境下，线性时间观的人们会比循环时间观的人们更偏好近期选项；而在有标记情境下，这种效应会被减弱。本研究揭示了时间观可以作为个体是跨期决策偏好的一种影响因素，并丰富了主观时间感知角度的跨期决策研究。
+
+关键词 线性时间观；循环时间观；时间感知；跨期决策；时间标记分类号 B849:C91
+
+# 1问题提出
+
+跨期决策是指对在不同时间点的价值进行成本和收益的权衡，进而做出选择的过程(Frederick,Loewenstein&O'Donoghue,2002)。先前研究多将这一过程描述为个体在一个近期、但是较小的(smaller-sooner)选项和一个远期、但是较大的(larger-later)选项之间进行的选择(May,2017;Read,Frederick& Scholten,2013；江程铭，刘洪志，蔡晓红，李纾,2016)。时间因素在跨期决策的研究中具有很重要的作用(Loewenstein&Thaler,1989)。先前的研究者多是从客观时间角度探讨了人们的跨期决策偏好，发现人们对不同客观时间点上的价值有不同的偏好。但是这方面的研究忽视了个体时间的主观感知差异也可能是造成跨期决策偏好差异的重要原因之一(索涛，张锋，赵国祥，李红,2014)。由此，有研究者从主观时间的角度提出基于主观时间感知的跨期决策模型(Kim& Zauberman,2009)，认为个体可能因为对同一客观时间间隔的主观感知存在差异，而对跨期选择中的选项产生不同偏好。
+
+沿着这一理论视角，现有研究探讨了多种与时间本身无直接联系的因素会通过影响个体对时间的主观感知来改变跨期决策偏好，例如空间距离(Kim,Zauberman& Bettman,2012)、性暗示(Kim& Zauberman,2013)、个体冲动性特质(Barkley,Edwards,Laneri,Fletcher&Metevia,2001)等。但是，现有文献对于时间主观感知的研究却少有从与时间本身直接相关的因素展开。由于人们的时间判断能力是在实践活动中逐渐发展起来的(McCormack,2014)，个体对时间本身的认识差异会对主观时间感知产生影响（李爱梅，孙海龙，熊冠星，王笑天，李斌,2016)。鉴于人们对时间感知的高估/低估倾向能够解释个体不同的跨期决策偏好(索涛等,2014)，从个体对时间的总体认识如何影响个体时间感知这一角度展开研究有助于更好地理解个体的跨期决策偏好。
+
+# 1.1 时间观与时间感知
+
+根据个体对时间认识的不同，可以区分出两种时间观念：线性时间观和循环时间观(Caillis &McKeon,1963;Overton,1994)。持有线性时间观的人们把时间看作是一条直线,是一种不断向前延伸、发展变化，并且会流逝的线性单向运动过程，时间一旦逝去便无法挽回(Baltes,1987;Lightfoot&Lyra,2000)。与之相比，持有循环时间观的人将时间理解成一个圆圈，是一个不断重复的环形运动，事物随着时间呈现周期性的变化(Sheth& Shimojo,2000;Yamada,2004)。循环时间观的人认为时间是不断重复发生、关注过去、追求稳定和对称的封闭性圆环，是一个不断向原点返回的可逆的过程(Yamada,2004; Yamada& Kato,2006)。
+
+人们之所以形成了不同的时间观，是因为人们在实践中对时间的观察和理解不同。线性时间观的人们将时间分为过去、现在、未来，从而形成了历史不断前进而不能回头的观念(Caillis&McKeon,1963)。循环时间观是人们在观察周遭事物(如潮汐变化、四季更替，天体的循环运动)的过程中，所形成的循环演化的观念(Yamada&Kato,2006)。
+
+正是这种认识方式的差异，导致持有两种时间观的人在与未来时间相关的行为上表现不同。在情绪方面的研究发现，持有循环时间观的人会认为生活有着重复的步调和节奏，外界引起的负面情绪虽然打破了这种节奏，但未来还是会恢复到原有的步调上(Ruscher,2012)。另外也有研究发现线性时间观的人会更多地预期未来会向好的方面变化，因此不愿在当下进行储蓄(Tam&Dholakia,2013)。
+
+由以上行为倾向可以看出，持有不同时间观的人对未来变化的预期有所不同。线性时间观的人认为历史是不断向前演进的，事物随着时间从过去到未来产生了显著的变化(Lightfoot&Lyra,2000)。而循环时间观的人把时间与重复事件联系起来，例如每天重复不断的日出日落，认为未来是过去的循环延续。并且相较于线性时间观的人，循环时间观的人对于未来的预期上不存在明显的更好或者更坏的期待(Graham,1981)。因此，当人们对未来一段时间进行判断时，持有线性时间观(相较于循环时间观)的人们会倾向于认为事件有更大的变化。
+
+人们对外界事件变化的感知往往会影响到人们的主观时间感知。时间是不可见的和抽象的。当离开客观计时工具来主观判断时间时，我们习惯于用可见的事件变化来作为依据。已有研究发现，人们对时间的感知实际上是对事件和运动的感知(Gibbons,Brandler&Rammsayer,2003)，而对时距的判断就是对事件变化量的感知(Poynter&Homa,1983)。根据外界事件变化来把握时间的流逝，是对时间感知加工较佳的操作性描述(黄希庭，徐光国,1997)。对于同样长的物理时距(时间间隔)，人们感知到事件的变化程度越大，对该时距的估计也就越长(Block,1978;Fraisse,1984)。而人们的时间观念会影响未来事件变化的预期，持有线性时间观(相较于循环时间观)的人会预期未来会发生更大的变化。由此，线性时间观的人们会比循环时间观的人们对同一时间间隔的主观时间判断更长。
+
+# 1.2 时间观与跨期决策
+
+传统经济学理论将跨期决策理解为是将不同时间点上的价值以一定的比例进行折扣比较的过程(Samuelson,1937)，最初的模型将决策中的心理因素都反映为折扣率这一变量(Frederick etal.,2002)。许多学者从客观时间改变了选项价值的角度改进了模型，来解释心理折扣率会随客观时间变化的现象(Kassam,Gilbert,Boston,&Wilson,2008)。现时偏误(Presentbias)就是不同客观时间的跨期决策偏好不同的一种典型现象，是指人们在时间折扣中会高估当下的价值(Kim& Zauberman,2009；梁竹苑，刘欢,2011)。
+
+但是除了客观时间，主观时间感知也是跨期决策需要考虑的重要变量。研究者发现感知时间长度在由近及远的过程中是非线性增加的，距离越远的时间的主观感知会更短(Zauberman,Kim,Malkoc,&Bettman,2009)。由此前人提出了基于主观时间感知的跨期决策模型，从主观感知时间的角度解释了现时偏误现象(Kim& Zauberman,2009;Takahashi,2006)。现有研究发现许多因素会通过影响主观时间感知长度来改变跨期决策偏好，当这些因素使主观未来时间感知更长时，人们更偏好跨期决策中的近期选项(Barkley etal.,2001;Kim& Zauberman,2013;Kim et al.,2012；李爱梅 等,2016;索涛 等,2014)。
+
+跨期决策中的主观时间感知是一种对未来时间(选项间的间隔时间)的估计。人们具有的相关看法对估计结果有重要影响。由于时间观是人们认识时间的总体性观念，因此，时间观会对跨期决策中的时间感知产生影响，进而影响跨期决策的结果。
+
+时间观对未来时间感知的影响主要是通过对未来变化的预期而实现的。人们对时间长度的感知和判断实际上是对事件和运动的感知和判断(Gibbons etal.,2003)。在对持续时间判断的研究中，研究者认为当一个时间段内的事件变化越大，则人们对这段时间有更长的主观判断(Brown,1995;Poynter&Homa,1983)。当人们认为最终结果与当前状态之间的变化存在更多步骤时，人们预期的时间长度也会更长(Siddiqui,May,&Monga,2014)。因此，线性时间观的人(相较于循环时间观)预期未来会有更大变化，判断同一间隔时间的长度会更长。
+
+由此，本研究提出以下假设：
+
+假设1：在跨期决策中，与持有循环时间观的人相比，持有线性时间观的人对近期选项的偏好更强。
+
+假设2：在跨期决策中，主观时间感知在时间观对跨期决策偏好的影响中起到了中介作用。
+
+# 1.3时间观对跨期决策偏好影响的边界条件
+
+时间是抽象的，个体需要依赖其他的线索来对时间长度进行主观判断(Gibbons et al.,2003)。本研究认为时间观是个体进行未来时间判断的一种线索。个体根据对时间的认识来推断未来时间内会发生的事件变化，从而判断未来时间的长度，进而影响跨期决策。但当个体不依赖于此类线索进行判断时，我们将预期个体间在对未来时间长度感知上的差异将会消失，因而也不会引起跨期决策的差异。我们认为，时间标记信息即是一种影响人们采用时间观来对时间长度感知的因素。
+
+由于时间长度的感知会受到个体对该时间段内发生事件感知的影响，因此，有关未来时间的标记信息可以影响个体对时间的判断。未来时间标记是指未来时间内会发生的事件，这些事件起到了为时间判断提供参照线索的作用，当个体被告知未来会发生某事件时，个体的未来时间感知会受到影响(May,2017)。事件的数量信息作为一种未来时间标记信息能够影响个体的时间判断(Block& Zakay,1997)。
+
+当有外界信息告知个体未来会发生什么事件时，这种未来时间标记信息就成为了未来时间判断的更直观、显著的线索，也就是成为了一种诊断性更强的线索(Lynch Jr,Marmorstein&Weigold,1988)。当更具诊断性的线索不存在时，时间观这一线索会起到主要作用；而当更具诊断性的线索存在时，可以预期不同时间观引起的未来主观时间判断的差异会消失。
+
+因此，在人们判断跨期决策的过程中，当没有额外的未来时间标记信息时，个体更可能会依赖时间观念进行未来时间判断，从而时间观会通过间隔时间的主观感知影响跨期决策偏好。而当有明确的外在线索作为时间标记时(如未来会发生某数量的某事件的信息)，个体在对时间观念的依赖成分减少，因此时间观对跨期决策偏好的影响减弱。由此本研究提出以下假设：
+
+假设3：在跨期决策情景中，当不存在外部时间标记线索时，线性时间观(相较于循环时间观)的人对近期选项的偏好更强；而当存在外部时间标记线索时，这种差异会减弱或消失。
+
+# 1.4 当前研究
+
+为了验证上述假设，我们进行了三个实验。实验1考察了线性和循环时间观对跨期决策的影响，即验证假设1。实验2改变时间观操控方式进一步验证假设1，并验证了主观时间感知的中介作用，即假设2。实验3则通过操控是否存在外部时间标记来考察时间观对跨期决策偏好影响的边界条件，即验证假设3。
+
+# 2实验1：时间观影响跨期决策的主效应
+
+# 2.1 实验目的
+
+实验1的主要目的是验证不同时间观对跨期决策偏好的影响。为了验证该作用，我们对比了线性时间观和循环时间观两种情境下，人们对近期选项和远期选项之间的偏好差异。我们预测，与循环时间观相比，线性时间观的人会更倾向于选择近期选项。
+
+# 2.2 实验方法
+
+# 2.2.1 实验设计与被试
+
+实验1为单因素2水平(时间观：线性时间观vs.循环时间观)的被试间实验。被试被随机分配到两个实验组中。共有61名武汉某高校学生(36 名女生,25 名男生)参与到了此次实验中，被试平均年龄为23.51岁( $\mathrm { \Delta } S D = 2 . 6 4 )$ 。其中线性时间组为31人，循环时间组为30人。
+
+# 2.2.2 程序
+
+被试被告知正在参加一个有关消费水平调查的研究。我们让被试做两个与时间观有关的任务(语句操控和事件回想)来操控被试的时间观，再让被试完成跨期决策任务中的选择。
+
+以线性时间组为例，我们先对被试进行时间观的语句操控。让被试阅读已知诗句，选择合适的选项进行填写，线性时间观组的答案为"岁月如梭，时光如箭”“日月既往，不可复追”“逝水不会有重归，时间不会有重返"等诗句。然后再要求被试阅读时间观描述并做出与之相关的事件回想(Tam&Dholakia,2013)。被试阅读的线性时间观材料如下：“我们的日常生活是由一个个单独的时期组成的，就像我们告别童年进入青春期，再从青春期进入成年一样。我们的生活不可能重头再来，很多事情一旦过去就消失了，不会再重复发生。"阅读完后让被试根据诗句和描述材料，来回想出生活中与之相符的一个事例，并记录这个事件。循环时间组的时间观操控和线性时间组类似，只是在操控语句和描述上有所不同(具体可参考附录)。
+
+我们参照Rachlin 和 Jones (2008)等人的研究，让两组实验被试完成跨期决策任务，具体的选择情境如下：“最近你刚买了一注体育彩票，今天开奖后发现自己中彩票了，你打电话向客服人员咨询如何领取。客服人员表示，你可以选择今天领取一笔较小数额的奖励，也可以等待 30天后领取一笔较大数额的奖励，请在下面的选项中做出你的选择。"选项共9组，每组为一个近期选项(现在领取)和远期选项(延迟30天领取)的选择题，其中 $^ { 6 6 } 3 0$ 天后领取"的金额被固定为200元，而九个组的近期选项的金额从20元到180元，以20元的幅度递增，被试依次对以下各组做出9次选1或2的判断。
+
+第一组：1、现在得到20元 2、30天后得到200元;  
+第二组：1、现在得到40元 2、30天后得到200元;  
+…·  
+第九组：1、现在得到180元 2、30天后得到200元。  
+我们通过远期选项的主观价值来测量被试的跨期选择偏好。远期选项的主观价值的计算
+
+方法为：如果被试在9组选择中都选择1(或2)，则主观价值为10(或190)；如果被试在前几组选择中选2，后几组中选1，则计算首次选1的那组的近期选项金额和其上一组中的近期选项金额的平均数，以此作为远期选项的主观价值。远期选项的主观价值越大，说明被试越偏好远期选项。实验的最后，我们收集了被试的人口统计信息和操控检查的相关信息。所有被试均没有指出实验的真实目的，所有被试都进入最后的分析。
+
+# 2.3结果
+
+操控检查。我们对实验时间观操控的有效性进行了检查。我们参考了前人的语句(Moser,Stauffacher,Kruitli,& Scholz,2012; Ruscher,2012; Tam& Dholakia,2013)，用6 个改编的问项对被试的时间观倾向进行了测量，测量采用7点李克特量表。前3个问项反映的是线性时间观，后3个问项反映的是循环时间观。我们将后3个问项的分数反向编码，与前3个问项的得分一起求得平均数来代表被试的时间观倾向得分。得分值越高就代表被试更倾向于用线性的方式看待时间，而得分越低就代表被试更倾向于用循环的方式看待时间。结果显示，实验成功地操控了被试的时间观(Cronbach's $\alpha = 0 . 8 9 , M _ { ☉ , \astrosun } = 4 . 8 7 , M _ { ☉ , \astrosun } = 3 . 3 9$ ， $t ( 5 9 ) = 5 . 4 3$ $p <$ 0.01, $\mathfrak { n } _ { \mathtt { p } } ^ { 2 } = 0 . 3 3 )$ 。
+
+主效应分析。我们以时间观作为自变量，跨期决策任务的主观价值作为因变量对样本进行方差分析。结果显示，线性时间组的主观价值 $( M _ { ☉ , \dag \ddagger } = 1 2 9 . 3 5 , S D = 3 9 . 1 5 )$ 小于循环时间组$( M _ { ☉ \ddagger \max } = 1 5 0 . 6 7$ ， $S D = 3 8 . 4 1 \$ )，且两组之间存在显著的差异 $( F ( 1 , 5 9 ) = 4 . 6 0 , p < 0 . 0 5 , \eta _ { \mathrm { ~ l ~ } } ^ { 2 }$ $\boldsymbol \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 7 )$ 。这说明相比于循环时间组的被试，线性时间组的被试在决策任务中认为远期选项的价值更低，对近期选项的偏好更强，即验证了假设1。
+
+# 2.4讨论
+
+实验1的结果表明，即使是面对相同跨期决策任务时，当人们的时间观不同时，消费者对跨期决策的选择也会有显著差异。当面临相同的跨期决策时，相比于循环时间观的被试，线性时间观的被试表现出对近期选项更强的偏好。
+
+尽管实验1验证了线性时间观和循环时间观对跨期决策的影响作用，但我们尚未考察时间观对跨期决策的影响机制是什么。为此，我们展开了实验2来考察主观时间感知在不同时间观对跨期决策影响中的中介作用。
+
+# 3实验2：主观时间感知的中介作用
+
+# 3.1 实验目的
+
+实验2的主要目的是考察时间感知是否在不同时间观对跨期选择偏好的影响效应中起中介作用，并进一步验证假设1。
+
+# 3.2 实验方法
+
+# 3.2.1 实验设计与被试
+
+实验2同样为单因素2水平(时间观：线性时间观vs.循环时间观)的被试间实验。被试被随机分配到两个实验组中。共有64名武汉某高校学生(40名女生,24名男生)参与了此次实验，被试的平均年龄为22.39岁 $\langle S D = 2 . 5 2 \rangle$ 。其中线性时间组33人，循环时间组31人。
+
+# 3.2.2 程序
+
+在本实验中，我们依旧选择了体育彩票红包作为跨期决策任务的实验刺激物。但与实验1所不同的是，我们采用图片材料的方式对时间观进行操控，从而排除掉语句操控方法可能会引起被试一定程度的时间贫穷感、进而产生时间压力和负性情绪(李爱梅 等,2016)而对实验结果产生的可能干扰。
+
+以循环时间组为例，先让被试阅读与时间观相关的一张图片(图1)和一段文字描述：
+
+![](images/ca68f525b715e4f13241d97ffd1d921573b4944cedacb17e31d6a0fdeff679bd.jpg)  
+图1循环时间观操控
+
+图片描述：“上图是一棵果树的成长历程，从出芽，到长高，到树叶浓密，到结果，再从果实掉落土壤来年重新发芽，不断循环发展。人类也和树一样，不断重复繁衍出一代又一代的生命，而我们的生活也经历在这个循环圈中，例如每年春夏秋冬不断更替，每周七天不停循环，每天我们都在重复做同样的事情，工作学习、吃饭和休息。"各组被试在阅读完上述信息后，回想出生活中与之相符的一个事例，并记录下来。线性时间组的时间观操控和循环时间组类似，只是在操控图片和描述上有所不同。
+
+所有被试被随机分配到线性时间组和循环时间组中，并被告知正在参加一个有关消费水平调查的研究。我们先让被试完成一项与时间观有关的任务，通过材料阅读和事件回想来操控被试的时间观(Ruscher,2012)。接着我们让两组实验被试进行跨期决策任务，被试需要想象以下场景：“最近你刚买了一注体育彩票，今天开奖后发现自己中彩票了，你打电话向客服人员咨询如何领取。客服人员表示，你可以选择今天领取，也可以选择30天后领取。如果今天领取的话，你将能获得 200元。如果是30天后领取，请你估计一个有较大把握能拿到的金额数字，使其价值相当于今天领取的200元？1"被试填写相应金额数字以表明近期选项(今天领取200元)的主观价值，数字越大表明越偏好近期选项(Kim& Zauberman,2013)。
+
+主观时间感知的测量是让被试用1-100之间的数字来估计跨期决策中的间隔时间长短,数字越大表示时间主观感知越长，数字越小表示时间主观感知越短(刘扬，孙彦,2016)。最后，我们用与实验1相同的方式测量了被试的时间观倾向，收集了被试的人口统计信息，并请被试猜测研究意图。所有被试均没有指出实验的真实目的，因此所有被试均进入分析。
+
+# 3.3结果
+
+操控检查。我们对时间观(Cronbach's $\mathfrak { a } = 0 . 8 5$ )的操控有效性进行了检查，结果显示，实验成功地操控了被试的时间观 $( M _ { \mathit { \varepsilon } \mathit { \hat { \varepsilon } } \mathit { \hat { \varepsilon } } } = 5 . 5 8 , M _ { \mathit { \varepsilon } \mathit { \hat { \varepsilon } } \mathit { \mathrm { \hat { \varepsilon } } } } = 3 . 5 3 , t ( 6 2 ) = 6 . 9 2 , p < 0 . 0 1 , \eta _ { \mathit { \varepsilon } \mathit { \mathrm { p } } } ^ { 2 }$ $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 4 4 )$ 。
+
+主效应分析。我们以时间观作为自变量，近期选项的主观价值作为因变量对样本进行方差分析。结果显示，线性时间组的主观价值 $( M _ { ☉ , \# } \ : = 3 0 3 . 6 4 , S D = 9 2 . 1 9 )$ 大于于循环时间组 $( M$ $_ { \mathfrak { g } _ { \mathtt { H } } \mathtt { F } } = 2 5 6 . 6 1$ ， $S D = 8 1 . 6 7 _ { , }$ ，且两组存在显著的差异 $( F ( 1 , 6 2 ) = 4 . 6 4 , p < 0 . 0 5 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 7 )$ 。这说明相比于循环时间组的被试，线性时间组的被试认为近期选项的主观价值高，在跨期决策中更偏好近期选项。结论再次验证了假设1。
+
+中介分析。我们以时间观作为自变量，跨期决策任务中的主观时间感知作为因变量进行方差分析。结果显示，时间观对主观时间感知有显著影响 $( F ( 1 , 6 2 ) = 4 . 4 7 , p < 0 . 0 5$ $\eta _ { \mathsf { \Pi } } ^ { 2 } = 0 . 0 7 \$ ），即相比线性时间组的被试，循环时间组的被试对跨期决策任务中的主观时间感知更短 $( M _ { \mathfrak { f f } }$ $= 4 5 . 6 5$ $\mathrm { \langle . 6 5 , . } { S D } = 2 4 . 1 1 \mathrm { ; } M _ { \mathrm { \tiny ~ \div ~ \infty ~ } } = 5 9 . 0 3 , S D = 2 6 . 3 5 ) \mathrm { , }$ 0
+
+接着，我们采用 Hayes (2013)所提出的 Bootstrap 方法及其所开发的 SPSS 宏来检验。我们选择Model4，将Bootstrap 再抽样设定为 5000次，以时间观作为自变量，主观时间感知作为中介变量，以近期选线的主观价值作为因变量来运行间接效应分析。结果表明，时间感知对远期选项主观价值具有显著影响 $( b = 2 . 0 3 , S E = 0 . 3 6 , p < 0 . 0 1 )$ ；时间观对主观价值的条件间接效应为-27.14, $9 5 \%$ 置信区间CI: $[ - 5 7 . 7 8 , - 2 . 6 4 ]$ 不包括0值，说明该效应显著，而直接效应为-19.88并不显著( $9 5 \%$ CI:[-56.75,16.98]包括0值)，详见图2。因此，时间感知在时间观对跨期决策的影响中发挥了中介作用。实验结果支持了假设2。
+
+![](images/25c150f005608cbc3574ae37671300d3eb11e1fdef8e0455d4491c8ebdcffde9.jpg)  
+图2实验2中主观时间感知的中介作用
+
+# 3.4讨论
+
+实验2结果显示，当不同时间观的人们对同一跨期决策任务进行选择时，相比于线性时间观的被试，线性时间观的被试认为近期选项的主观价值更高，即更偏好于近期选项，从而验证了假设1。此外，实验2也表明时间观对跨期决策的影响作用是通过个体对跨期选项的主观时间感知而产生的，主观时间感知在时间观对跨期决策的影响中起到中介作用。即实验2的结果也让假设2得到了支持。在本实验中我们使用了与实验1不同的时间观操控方式，实验结果与实验1一致，表明了实验结果的稳健性。
+
+# 4实验3：时间标记的调节作用
+
+# 4.1 实验目的
+
+实验3的主要目的是通过引入时间标记类型来考察时间观对跨期决策的影响效应的边界条件。我们预测，在无时间标记的情况下，线性和循环时间观对跨期决策的影响存在差异;而在有时间标记的情况下，线性和循环时间观对跨期决策的影响减弱，即验证所提假设3。此外，本实验采用与实验2相同的时间观操控方式，并增加了对被试的情绪的操控检查问题，从而便于检查情绪对于实验结果是否是一个显著的混淆变量。
+
+# 4.2 实验方法
+
+# 4.2.1 实验设计与被试
+
+实验3为2(时间观：线性时间组vs.循环时间组) $\times 2 ($ 时间标记：有标记vs.无标记)的被试间实验。被试被随机分配到四个实验组中。共有128名武汉某高校学生参与到了此次实验中，其中6人未按要求完成实验中的联想任务，实际进入分析的有效被试为122名学生(78名女生，44名男生)，平均年龄为20.46岁 $( S D = 1 . 7 8 )$ 。其中线性有标记组和循环有标记组都为30人，线性无标记组和循环无标记组都为31人。
+
+# 4.2.2 实验操控
+
+我们采用与实验2相同的方式对被试的时间观进行操控。时间标记是通过向被试提供就是向被试提供未来可能发生的事件的信息。这些信息与跨期决策无直接关联。对于不同的时间标记组的事件信息会有差异。有标记组中所呈现的信息包括明确的事件和数量，而无标记组只提示事件的发生，但不向被试呈现具体的数量信息。具体而言，我们在实验3中使用的事件是让被试想象其有一位朋友在计划健身运动。有时间标记组的被试被告知这位朋友将在与主实验(跨期决策)任务相同的时间间隔期内计划健身的具体次数，而无时间标记组则只告知在该段未来时间期内这位朋友将会健身，但无具体健身次数的提示。
+
+# 4.2.3 程序
+
+首先，所有被试被告知正在参加一个运动行为调查的研究，并回答了一些与运动相关的问题(如运动是否使你快乐？)。接着，被试被告知假设其有一位朋友在未来会计划健身，请被试向这位朋友推荐运动项目。
+
+接着，根据所在时间观操控组的不同，被试分别完成相应的时间观操控的实验任务，即与实验2相同的由图片和文字引导的事件回想任务。
+
+之后，我们向所有组别中的被试呈现相同的跨期决策情境信息。跨期决策情境如下：“你在某课程的课堂上参加了一项调查，调查的组织者会向你支付一定的酬劳。你有两种选择，一种是你可以选择当时在课后就领取，另一种是你也可以选择在49天后领取。假如你选择当时领取，你可以获得50元钱现在我们想知道的是，如果你选择49天后领取酬劳，你认为至少给你多少钱你才愿意选择49天后领取？”
+
+在跨期决策情境呈现之后、被试做出对近期选项主观价值的估值之前，根据所在时间标记组的不同，被试分别接受到不同的时间标记提示信息。有时间标记组的被试接受到的提示信息为前面所提到的那位朋友准备在这49天中安排15次健身训练。而无标记组则仅被提示这位朋友准备在这49天中安排健身训练。
+
+之后，被试填写相应金额数字以表明近期选项的主观价值，数字越大表明越偏好近期选项。随后被试按照实验2的方式以0-100之间的数字来代表其主观时间感知。最后，我们收集了相关的操控检查信息以及被试的人口统计信息，并请被试猜测研究的意图。所有被试均没有指出实验的真实目的。
+
+# 4.3结果
+
+操控检查。我们对实验时间观(Cronbach's $\mathbf { { a } } = 0 . 8 3 )$ 操控的有效性进行了检查，不同时间观操控条件下的被试的时间观倾向有显著差异 $( M _ { ☉ ^ { \sharp } } { = } 5 . 6 1 , M _ { ☉ ^ { \sharp } } { = } 4 . 2 8 , F ( 1 , 1 1 8 ) = 7 1 . 7 4 , p$ $< 0 . 0 1$ ， $\eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 3 8 )$ ，而时间标记的效应 $( F ( 1 , 1 1 8 ) = 0 . 4 5$ ， $p = 0 . 5 1$ ， $\mathfrak { n } _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 0 )$ 及时间观操控和时间标记的交互效应 $( F ( 1 , 1 1 8 ) = 0 . 5 6 , p = 0 . 4 6 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 1 )$ 均不显著。结果表明实验对时间观的操控有效。我们利用四对词语组成的7级语义差别量表(坏心情/好心情，急躁的/自如的,难过的/高兴的，郁闷的/欢快的)测量了被试的情绪(Swinyard,1993)。结果显示被试平均情绪为中性偏积极 $( M = 4 . 5 7 , S D = 0 . 9 2 )$ ，且各种操控条件下无差异，时间观 $( F ( 1 , 1 1 8 ) = 0 . 4 6 , p =$ 0.50, $\mathfrak { \eta } _ { \mathtt { p } } ^ { 2 } = 0 . 0 0 )$ 、时间标记 $( F ( 1 , 1 1 8 ) = 0 . 8 6 , p = 0 . 3 6 , \eta ^ { 2 } { \tt p } = 0 . 0 1 )$ 以及两者的交互效应 $( F ( 1 , 1 1 8 )$ $= 0 . 6 8$ $p = 0 . 4 1$ $\mathfrak { n } _ { \mathtt { p } } ^ { 2 } = 0 . 0 1 \$ 对被试情绪无影响。
+
+主效应分析。我们以近期选项主观价值作为因变量，时间观作为自变量，时间标记作为调节变量对样本进行方差分析2。结果显示，时间标记和时间观对跨期选择偏好的交互效应显著 $( F ( 1 , 1 1 8 ) = 4 . 2 6 , p < 0 . 0 5 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 4 )$ 。简单效应分析结果表明，在无时间标记情境下，相比线性时间组的被试，循环时间组的被试有更高的远期选项偏好 $( M _ { ☉ \mathrm { H } } = 1 4 3 . 2 3$ ， $S D = 6 0 . 4 5$ ，$M _ { \mathfrak { g } \mathfrak { g } } = 1 0 5 . 3 2 , S D = 4 1 . 5 3 , F ( 1 , 1 1 8 ) = 8 . 2 8 , p < 0 . 0 1 , \eta _ { \mathfrak { p } } ^ { 2 } = 0$ 。但是在有时间标记情境下，时间观对跨期决策偏好的效应不显著 $( M _ { ☉ / \ddagger } = 1 1 0 . 1 7$ $S D = 4 4 . 1 1$ ， $M _ { ☉ \mathnormal { / { \vphantom { / { \vphantom { / { \vphantom { / { \vphantom { / { \vphantom { / { \vphantom { / { \vphantom { / { \vphantom {  \sqrt { 3 3 3 } } } } } } } } }  \kern - delimiterspace } } } } } }  \kern - delimiterspace } } } } = 1 0 9 . 3 3$ ， $S D = 4 9 . 9 4 \$ ，$F ( 1 , 1 1 8 ) = 0 . 0 1 , p = 0 . 9 5 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 0 )$ 。这一结果与我们所提出的假设3相一致。
+
+中介分析。首先我们以时间观作为自变量，时间标记作为调节变量，对跨期决策任务中的主观时间感知进行方差分析。结果显示，时间标记和时间观对主观时间感知存在明显的交互效应 $( F ( 1 , 1 1 8 ) = 4 . 3 6 , p < 0 . 0 5 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 4 )$ 。简单效应分析结果表明，在无时间标记情境下,相比线性时间组的被试，循环时间组的被试的时间感知更短 $( M _ { \mathit { \tiny \mathit { \ 5 } } \mathit { \check { x } } ; \mathit { \Theta } } = 6 3 . 5 2 , S D { = } 1 4 . 3 5 , M _ { \mathit { \tiny \mathit { \textmu } } \mathit { \check { \textmu } } \mathit { \check { \textmu } } }$ $= 5 4 . 1 3$ ， $S D = 1 8 . 5 3 \$ $= 1 8 . 5 3 , F ( 1 , 1 1 8 ) = 4 . 9 7 , p < 0 . 0 5 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 8 )$ 。但是在有时间标记情境下，时间观对时间感知的影响会减弱 $( M _ { ☉ \mathrm { / 4 } } = 4 9 . 7 0$ ， $S D = 1 5 . 0 0$ $M _ { ☉ \mathnormal { \Psi } } = 5 3 . 7 7$ ， $S D = 2 2 . 2 1$ ， $F ( 1 , 1 1 8 ) =$ $0 . 6 9 , p = 0 . 4 1 , \eta _ { \mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 1 ) \mathfrak { c }$ 0
+
+接着我们通过Bootstrap 方法来检验中介效应。我们将再抽样设定为5000次，采用 Model7，以时间观作为自变量，时间标记作为调节变量，主观时间感知作为中介变量，跨期选择偏好作为因变量来运行中介分析。结果发现，只有在无时间标记情境下，时间感知在时间观和跨期选择倾向之间所起的中介效应显著 $9 5 \%$ 置信区间CI： $[ - 3 4 . 9 6 , - 2 . 6 3 ]$ 不包括0值)，条件间接效应为-17.74。而在有时间标记情境下，时间感知在时间观和跨期选择倾向之间所起的中介效应不显著 $9 5 \%$ 置信区间CI:[-9.58,26.01]包括0 值)。调节作用的间接效果显著$9 5 \%$ 置信区间CI:[-52.08,-1.91]不包括0值)，详见图3。由此说明，时间标记作为调节变量是通过调节中介来影响跨期决策的，只有在无显著标记情境下，时间观才会通过时间感知的差异对跨期决策产生影响，这一发现也再次证明了时间感知的中介作用。
+
+![](images/a39dabc09d865cd3efcfef2adf2ed292de108b0faf4f97556b069159eec2087e.jpg)  
+图3实验3中调节的中介效应
+
+# 4.4讨论
+
+实验3的结果表明在无时间标记情境下，线性和循环时间观通过时间感知对跨期决策的影响存在差异；但在有时间标记情境下，这种差异减弱，即验证了假设3。由于当存在显著的时间标记时，外界的具体性线索成为人们判断时间长短的主要依据，而较少地依赖于通过总体性的时间观进行间接判断，两种时间观对于差异事件敏感性的差别将不会影响跨期决策偏好。
+
+尽管实验3中的跨期决策采用了与前两个实验所不同的选项金额和时间间隔，但是结果仍再次验证了主观时间感知的中介作用，即时间观和时间标记通过影响时间感知从而对跨期决策产生作用，从而为假设1和假设2的成立提供了进一步的证据。
+
+# 5 总讨论
+
+# 5.1关于时间的总体认识对跨期决策的影响
+
+本文从人们对时间的总体观念的不同出发，揭示了时间观这一新的影响个体跨期决策偏好的因素。过往研究对跨期决策中时间感知能力的前因探索主要集中在与时间本身无直接相关的方面，如人格特质、情境因素等方面(Barkley et al.,2001;Reynolds& Schiffbauer,2004;Witmann,Leland,Churan&Paulus,2007；李爱梅等,2016)，而并没有区分人们对时间本身的认识上的差异。本研究就从这一角度进行探讨，发现时间观对跨期决策偏好有显著影响作用，与线性时间观的人们相比，循环时间观的人们更倾向于选择远期选项(实验1)，而时间感知中介了时间观对跨期决策的影响(实验2)。也就是说时间观反映了人们对时间本身的看法不同，不同观念导致人们预期未来变化程度出现差异，由此带来对时间感知的差异，进而影响了跨期决策的偏好。
+
+# 5.2时间标记对时间观影响的调节作用
+
+本文还识别出了时间观对跨期决策的影响效应的边界条件，外部情境中包含的时间标记在时间观对跨期决策的影响中起到调节作用。人们并不总是通过抽象观念进行时间的推断，因此时间观对跨期决策偏好的影响只存在于特定情况下。本研究实验3发现时间标记在时间观对跨期决策的影响中起到调节作用，即在无显著标记情境下，时间观才会通过时间感知差异来影响跨期决策，而在有显著标记情境下，这种影响效应会弱化。也就是说当人们进行快速、直觉的时间判断时，时间观更有可能成为判断依据，此时时间观对跨期决策偏好的影响存在；当人们有具体的外部时间线索信息时，人们更倾向于客观、准确地判断时间，依赖时间观这种抽象观念的成分减少，此时时间观对跨期决策偏好的影响减弱。
+
+# 5.3 时间观对行为的影响
+
+本文从纵向时间维度对时间观念的作用展开研究，拓宽了两种时间观在人们生活行为领域的研究。以往关于不同时间观影响人们行为差异研究大多是从横向时间维度来阐述，例如储蓄行为是不同时间观的人对当前时间点的储蓄做出行为或不做出行为(Tam&Dholakia,2013)，对情绪困境的研究也是探讨不同时间观的人们能否走出当前悲伤情绪，并没有具体比较两个时间点上的选择行为，而本文却是从纵向的两个时间点维度(现在和30天后)来阐述不同时间观在跨期决策领域中的影响作用。本文对跨期决策任务的研究情境是基于金融领域，并且使用的是简单跨期决策情境来测量人们的跨期决策行为，但未来研究也可以在其他领域(如生活任务、健康或者环境保护等)研究时间观的影响作用。
+
+# 6 结论
+
+本研究发现人们在跨期决策中的偏好受到他们所持有的时间观念的影响。相较于持有循环时间观的人，持有线性时间观的人更加偏好近期选项。这是因为时间观会影响人们对未来时间长度的感知，线性时间观下的时间感知会长于循环时间观。当有明确的时间标记线索时,时间观的对时间判断的影响减弱，对跨期决策偏好的影响也会减弱。
+
+参考文献   
+Baltes,P. B.(1987). Theoretical propositions of life-span developmental psychology: on the dynamics between growth and decline. Developmental Psychology, 23(5), 611-626.   
+Barkley,R.A.,Edwards,G.Laneri, M.,Fletcher,K.,& Metevia,L.(2001).Executive functioning,temporal discounting,and sense of time in adolescents with attention deficit hyperactivity disorder (ADHD) and oppositional defiant disorder (ODD). Journal of Abnormal Child Psychology, 29(6), 541-556.   
+Block,R.A. (1978). Remembered duration: effects of event and sequence complexity. Memory & Cognition, 6(3), 320-326.   
+Block,R. A.,& Zakay, D. (1997). Prospective and retrospective duration judgments: A meta-analytic review. Psychonomic Bulletin & Review, 4(2),184-197.   
+Brown, S.W. (1995). Time, change, and motion: The effects of stimulus movement on temporal perception. Perception & Psychophysics,57(1),105-116.   
+Caillois,R.,& McKeon,N.(1963). Circular time,rectilinear time. Diogenes,11(42),1-13.   
+Fraisse,P. (1984). Perception and estimation of time. Annual Review of Psychology, 35,1-37.   
+Frederick, S.,Loewenstein, G., & O'Donoghue,T. (2002). Time discounting and time preference: A critical review. Journal of Economic Literature, 40(2),351-401.   
+Gibbons,H.,Brandler,S.,&Rammsayer,T.H. (2o03).Dissociating aspectsoftemporaland frequency processing: A functional ERP study in humans. Cortex, 39(4-5), 947-965.   
+Graham, R. J. (1981). The role of perception of time in consumer research. Journal of Consumer Research,7(4), 335-342.   
+Hayes,A.F.(20l3).Introduction to mediation, moderation,andconditional processanalysis: A regression-based approach. New York: Guilford Press.   
+Huang,X. T.,& Xu, G. G. (1997). Test the change/segmentation model (I). Acta Psychologica Sinica, 29(3), 326-334.   
+[黄希庭，徐光国.(1997).对变化/分割模型的检验(1).心理学报,29(3),326-334.]   
+Jiang, C-M.,Liu,H-Z., Cai, X-H.,&Li,S.(2016). A process testof priority models of intertemporalchoice.Acta Psychologica Sinica,48(1),59-72.   
+[江程铭，刘洪志，蔡晓红，李纾.(2016).跨期选择单维占优模型的过程检验．心理学报,48(1),59-72.]   
+Kassm,K.S., Gilbert,D.T.,Boston,A.,& Wilson,T.D. (2o08).Future anhedoniaand time discounting. Journal of Experimental Social Psychology, 44(6),1533-1537.   
+Kim, B. K.，& Zauberman,G. (2009). Perception of anticipatory time in temporal discounting. Journal of Neuroscience,Psychology, and Economics,2(2), 91-101.   
+Kim,B.K.,& Zauberman, G.(20l3). Can Victoria's Secret change the future? A subjective time perception account of sexual-cue effects on impatience.Journal of Experimental Psychology: General,142(2), 328-335.   
+Kim, B. K., Zauberman, G.,& Bettman,J. R. (2012). Space, time,and intertemporal preferences. Journal of Consumer Research,39(4), 867-880.   
+Li, A. M., Sun, H.L., Xiong, G.X., Wang, X.T.,& Li,B.(2016).The efect and cognitive mechanism of “time poverty” on intertemporal choice and proactive behavior. Advances in Psychological Science, 24(6), 874-884.   
+[李爱梅，孙海龙，熊冠星，王笑天，李斌.(2016).“时间贫穷"对跨期决策和前瞻行为的影响及其认知机制. 心理科学进展,24(6),874-884.]   
+Liang,Z-Y.,& Liu,H.(20l1).Exploring the nature of intertemporal choice.Advances in Psychological Science, 19(7), 959-866.   
+[梁竹苑，刘欢.(2011)．跨期选择的性质探索．心理科学进展,19(7),959-966.]   
+Lightfoot, C.,& Lyra, M. C.D.P. (20o). Culture,self and time: Prospects for the new millennium.Culture & Psychology, 6(2),99-104.   
+Liu, Y.，& Sun, Y. (2016). Time unpacking efect and its impact on intertemporal decision making. Acta Psychologica Sinica,48(4),362-370.   
+[刘扬，孙彦.(2016).时间分解效应及其对跨期决策的影响．心理学报,48(4),362-370.]   
+Loewenstein,G.,& Thaler,R.H.(1989).Anomalies: intertemporal choice.The Journal ofEconomic Perspectives, 3(4),181-193.   
+Lynch Jr,J.G.,Marmorstein,H.,& Weigold, M.F.(1988). Choices from sets including remembered brands: Use of recalled attributes and prior overall evaluations.Journal of Consumer Research,15(2),169-184.   
+May,F.(2O17). The efect of future event markers on intertemporal choice is moderated by the reliance on emotions versus reason to make decisions. Journal of Consumer Research, 44(2),313-331.   
+McCormack, T. (2014). Three types of temporal perspective: characterizing developmental changes in temporal thought. Annals of the New York Academy of Sciences,1326(1),82-89.   
+Moser,C., Staufacher,M., Krutli,P.,& Scholz,R.W. (2012). The influence of linear and cyclical temporal representations on risk perception of nuclear waste: An experimental study. Journal of Risk Research, 15(5), 459-476.   
+Overton, W.F. (1994).The arrow of time and the cycle of time: Concepts ofchange,cognition, and embodiment. Psychological Inquiry, 5(3), 215-237.   
+Poynter，W. D.，& Homa，D. (1983). Duration judgment and the experience of change. Perception & Psychophysics, 33(6),548-560.   
+Rachlin,H.,& Jones,B.A.(2o08). Social discounting and delay discounting.Journal of Behavioral Decision Making,21(1),29-43.   
+Read,D.,Frederick,S.,& Scholten,M. (20l3). DRIFT: An analysis of outcome framing in intertemporal choice. Journal of Experimental Psychology: Learning, Memory and Cognition, 39(2),573-588.   
+Reynolds,B.,& Schiffbauer,R. (2004). Measuring state changes in human delay discounting: An experiential discounting task. Behavioural Processes, 67(3),343-356.   
+Ruscher, J. B. (2012). Describing grief under cyclical versus linear conceptions of time. Journal of Language and Social Psychology,31(3),321-330.   
+Samuelson,P.A. (1937). A note on measurement of utility. Review of Economic Studies, 4(2),155-161.   
+Sheth,B.R.，& Shimojo,S.(20o0). In space,the past can be recast but not the present. Perception,29(11), 1279-1290.   
+Siddiqui,R.A.,May,F.,& Monga,A. (2014). Reversals of task duration estimates: Thinking how rather than why shrinks duration estimates for simple tasks,but elongates estimates for complex tasks.Journal of Experimental Social Psychology, 50(1),184-189.   
+Suo,T., Zhang,F., Zhao, G. X.,& Li, H. (2014).The influence of time perception diference on intertemporal choice. Acta Psychologica Sinica, 46(2),165-173.   
+[索涛，张锋，赵国祥,李红.(2014).时间感知差异对跨期选择倾向的影响作用．心理学报,46(2),165-173.]   
+Swinyard, W.R. (1993).The effects of mood,involvement,andqualityofstore experience onshopping intentions. Journal of Consumer Research,20(2),271-280.   
+Takahashi，T. (2006). Time-estimation error following Weber-Fechner law may explain subadditive time-discounting. Medical Hypotheses, 67(6),1372-1374.   
+Tam,L., & Dholakia, U. (20l3). Saving in cycles: How to get people to save more money. Psychological Science, 25(2), 531–537.   
+Wittmann,M.,Leland,D.S.,Churan,J.,& Paulus,M.P. (2007).Impaired time perceptionand motor timing in stimulant-dependent subjects. Drug and Alcohol Dependence, 90(2-3),183-192.   
+Yamada,Y. (2O04).The generative life cycle model: integration of Japanese folk images and generativity. In E.de St. Aubin, D.P. McAdams & T.-C. Kim (Eds.), The generative society: Caring for future generations (pp. 97-112). Washington, DC, US: American Psychological Association.   
+Yamada,Y.,& Kato, Y. (2O06). Images of circular time and spiral repetition: The generative life cycle model. Culture&Psychology,12(2),143-160.   
+Zauberman, G.，Kim, B.K.,Malkoc,S.A.,& Bettman,J.R.(2009). Discounting time and time discounting: Subjective time perception and intertemporal preferences. Journal of Marketing Research，46(4), 543-556.
+
+# Enjoy the present or wait for the future? Effects of individuals’ view of time on intertemporal choice
+
+XU Lan1,2; LU Kaili1; CHEN Quan1; CUI Nan1,2
+
+( Economics and Management School, Wuhan University;² Research Center for Organizational Marketingof Wuhan University,Wuhan 430072, China)
+
+# Abstract
+
+Intertemporal choice refers to decisions involving tradeoffs among costs and benefits at diferent time points. Most research on intertemporal choice has explored the influence of choice attributes.The existing literature has also discussed the relationship between individuals' subjective time conception and their intertemporal choice，especially from the perspective of individuals’characteristics and internal states.However,few research has investigated the same relationship from the perspective of the general view of time among individuals. Individuals' view of time can be classified into two types, namely, linear and circular views of time. We posit that views of time relate to individuals’ perception of change in their surrounding environment. Such views may affect individuals' time perception and hence their intertemporal decision making.
+
+Three studies confirm our hypotheses. Hypothesis 1 states that people with a circular view of time,relative to those with a linear view of time, prefer the larger but later (LL） option in an intertemporal choice. Study 1 tested this main efect between the view of time and intertemporal decision making. The results of Study 1 confirmed Hypothesis 1.Hypothesis 2 states that participants with a linear view of time,relative to those with a circular view of time, perceive a longer time delay in the LL option in an intertemporal choice; thus,they prefer the smallr but sooner option. Hypothesis 2 also states that time perception of delay in the LL option mediates the effect of individuals’ view of time on intertemporal choice. Study 2 tested the mediating effect of time perception in intertemporal decision making. Sixty-four participants were randomly assigned to one group with a linear view of time and another group with a circular view of time. All participants were presented with the same task and asked to finish the corresponding computerized questionnaires. The results of Study 2 supported Hypotheses 1 and 2. The ANOVA results indicated that the participants with a linear view of time perceived a long time delay and thus preferred the SS option in intertemporal decision making. Bootstrap mediating analysis indicated that time perception of delay mediated the influence of the participants’ view of time on intertemporal choice.
+
+Hypothesis 3 posits that the presence or absence of a time marker moderates the effect proposed in Hypothesis 1. Study 3 was performed to test Hypothesis 3.A total of 122 participants were randomly assigned to one of four groups in a two (view of time: linear versus circular) by two (time marker: with marker versus without marker) between-subject experimental design. The participants were then asked to finish the corresponding experimental task. The ANOVA result revealed that the interaction term between view of time and time marker was significant. In the absence of a time marker, view of time significantly influenced the participants' time conception. Such effect diminished with the availability of specific time markers. These findings supported Hypothesis 3.
+
+This research confirmed the differences between linear and circular views of time in the midst of an intertemporal choice. Results revealed that people with a circular view of time, relative to those with a linear view of time, prefer the LL option in an intertemporal choice. The effect of such preference is mediated by time conception and is significant when specific time markers are absent.
+
+Key words: linear view of time; circular view of time; time perception; intertemporal choice; time marker

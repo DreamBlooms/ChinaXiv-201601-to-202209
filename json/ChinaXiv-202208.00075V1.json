@@ -1,0 +1,687 @@
+[
+    {
+        "type": "text",
+        "text": "干旱区城市化与生态韧性耦合协调的时空格局演化分析以宁夏为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李苏1²，刘浩南}(1.北方民族大学经济学院，宁夏银川750021；2.国家民委人文社会科学重点研究基地民族地区相对贫困治理研究中心，宁夏 银川750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：快速城市化易引发各种生态问题，如何构建城市化与生态韧性的协调发展关系对于干旱区内陆城市的发展至关重要。结合遥感技术从韧性角度解读城市化与生态环境，以宁夏为研究区域,在构建城市化与生态韧性指数的基础上，运用耦合协调性和相对发展度模型对2005—2020年两者的耦合协调性进行研究。结果表明：(1)宁夏城市化水平提升较快，以银川市为中心的沿黄城市群灯光璀璨，而宁夏南部呈现众多面积较小零星分布的灯光像元。(2)宁夏生态韧性水平整体稳中有升。银川市生态韧性水平全区最高，吴忠市次之，石嘴山市、固原市和中卫市生态韧性水平则相对较低。(3)宁夏城市化与生态韧性耦合协调性稳步提升，除银川市和石嘴山市外，其余各市均经历了不同程度的失调期。(4)宁夏城市化和生态韧性的相对发展尚未达到理想上的等同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：城市化；生态韧性；耦合协调性；宁夏",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "改革开放以来，中国城市化率从 $1 8 \\%$ 上升到2021年的 $6 4 . 7 2 \\%$ ,每年GDP的增长中约有 $5 0 \\%$ 与城市化的拉动有关，城市化已成为中国经济持续增长新动力。然而，快速城市化也引发了环境污染、生态退化等一系列环境问题。在人与自然和谐发展的新需求下，如何使城市与生态系统之间的冲突力量达到平衡状态，让城市与自然走向和谐、共生，成为当前亟需解决的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“韧性”一词源于拉丁语，意指“回弹至稳定状态的能力”，该思想最早应用于生态系统学范畴，并用以界定生态系统在稳定状态下的特征[。近年来，全球频发的气候风险与突发公共事件风险，促使韧性思想扩展至城市范畴2，学界开始探索城市韧性的发展规律，并大都将“城市韧性\"定义为城市面对灾害时承受冲击，快速反应、应对，重新适应调整，并较快恢复的能力[3-4],包含了城市经济韧性、社会韧性、生态韧性和基础设施韧性等多个系统[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为城市韧性的重要系统，生态韧性也受到诸多学者的关注，现有文献主要围绕景观格局6、韧性城市规划[]、韧性评价[8]、时空演变及其影响因素[9-10]等方面进行研究。对城市化与生态环境关系的探讨,学界已在这一领域做了大量研究[1-12];同时，也有学者围绕城市化与生态韧性进行了一些有益的探索：陈世栋等[3认为在城镇化进程中建设用地的过度扩张，加剧了广州市生态韧性损耗;陈韶清等[14]发现长江中游城市由于生态保护机制不完善，城市扩张对生态韧性系统产生的阻碍作用持续增大；王少剑等[15通过构建\"规模-密度-形态\"三维生态韧性评价体系，发现珠三角各市城镇化与生态韧性的耦合协调性存在下滑的趋势，两者的耦合协调关系呈现出圈层式格局；罗紫元等认为城市化一方面可以为城市预防和灾后恢复提供资金支持，另一方面通过生态环境的改善为城市化提供保障，增强城市生态韧性；李嘉艺等发现韧性水平随城市发展",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阶段而改变，在城市发展初期生态韧性持续下降，随着城市发展成熟，生态风险达到峰值，城市生态功能逐渐恢复。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，当前城市化与生态韧性关系的研究大多数暗含在城市韧性、生态安全与风险的相关研究之中，鲜有学者从韧性角度出发，结合遥感技术，深入分析研究城市化与生态韧性的交互影响；另外，现有研究多着眼于发达地区，尚未涉及干旱地区，难以解释干旱区城市化与生态韧性之间的独特关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，与现有研究相比，本研究边际贡献主要在于：（1）尝试从韧性视角解读城市化与生态韧性的耦合协调关系，以宁夏为研究区域，丰富了干旱区城市化与生态环境互动机制的理论研究，为城市可持续发展研究提供新视角，也为加快构筑我国西北重要生态安全屏障提供理论依据。（2）借助夜间灯光数据衡量城市化水平，从土地利用背景出发，研究城市发展给生态系统带来的影响，在一定程度上克服了因指标缺失或个人偏好而造成的选择性误差，从而更准确地反映城市化与生态韧性水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）构建\"抵抗力-适应力-恢复力\"三维评价指标体系度量地区生态韧性，更切合韧性的本质内涵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区与数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "宁夏回族自治区位于我国西北黄河中上游及沙漠与黄土高原交接地带，东邻陕西省，西、北接内蒙古自治区，南连甘肃省，总面积 $6 . 6 4 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ，属温带大陆性干旱、半干旱气候。截至2020年，全区下辖银川、石嘴山、吴忠、固原、中卫5个地级市，共有常住人口 $7 2 0 . 9 3 \\times 1 0 ^ { 4 }$ 人,其中城镇人口 $4 6 8 . 3 0 \\times 1 0 ^ { 4 }$ 人，城镇化率达到 $6 4 . 9 6 \\%$ ，全年全区实现生产总值$3 9 2 0 . 5 5 { \\times } 1 0 ^ { 8 }$ 元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2005、2010、2015、2020年宁夏土地利用遥感监测数据来源于中国科学院资源环境科学与数据中心。土地利用类型包括耕地、林地、草地、水域、居民地和未利用土地6种类型",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2005、2010、2015、2020年夜间灯光数据来源于美国国家地球物理数据中心。其中，2005—2013年夜间灯光数据主要来源于美国国防气象卫星计划(Defense meteorological satellite program,DMSP）卫星运行的线性扫描系统(Operational linescan sys-tem,OLS）,2012—2020年夜间灯光数据为美国新一代国家极轨卫星（Suomi national polar-orbiting partnership,Suomi-NPP)运行的可见光红外成像辐射仪(Visible infrared imaging radiometer suite, VIIRS）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1城市化指数的构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1夜间灯光数据的校准为了实现两种影像的融合处理，首先将所有数据的投影坐标系统一为Lambert等面积投影，并将空间分辨率设定为 $1 ~ \\mathrm { k m }$ 然后裁剪出中国行政边界范围的夜间灯光数据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）DMSP/OLS数据校准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OLS传感器设计的局限性易导致DMSP数据存在过饱和及数据抓取的非连续性等问题，限制了影像的空间精确性。为了获取稳定的DMSP数据集，借鉴关靖云等[18]采用逐步校准方法对DMSP数据进行校准，具体步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，选取黑龙江省鹤岗市作为不变目标区域，将待校正影像分别与参考影像进行最佳函数回归确定回归系数，利用公式(1)对原始灯光灰度值进行相互校正：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D N } 1 = a + b \\mathrm { D N } + c \\mathrm { D N } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：DN1为过饱和校准后的灰度值;DN为初始灰度值； $\\boldsymbol { a } , \\boldsymbol { b } , \\boldsymbol { c }$ 为模型参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其次，为了综合利用多个传感器抓取同一年份的影像以及剔除不稳定光源，需要对相同年份的影像进行年内融合：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D N } 2 _ { _ { ( n , i ) } } = \\left\\{ \\begin{array} { l l } { 0 , \\mathrm { D N } 1 _ { _ { ( n , i ) } } ^ { a } = 0 \\bigstar \\mathrm { D N } 1 _ { _ { ( n , i ) } } ^ { b } = 0 } \\\\ { ( \\mathrm { D N } 1 _ { _ { ( n , i ) } } ^ { a } + \\mathrm { D N } 1 _ { _ { ( n , i ) } } ^ { b } ) / 2 , \\frac { \\mathrm { H } } { \\therefore } / \\mathrm { H } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { D N } 2 _ { ( n , i ) }$ 为连续性校准后第 $n$ 年影像中 $i$ 像元的灰度值; $\\mathrm { D N } 1 _ { ( n , i ) } ^ { a }$ 和 $\\mathrm { D N } 1 _ { ( n , i ) } ^ { b }$ 分别为2个不同传感器抓取影像中 $i$ 像元的灰度值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最后，对灯光值前后年份的异常取值进行调整：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\mathrm { D N } 3 _ { _ { ( n , i ) } } = \\{  { \\mathrm { D N } } 2 _ { _ { ( n - 1 , i ) } } , \\  { \\mathrm { D N } } 2 _ { _ { ( n - 1 , i ) } } >  { \\mathrm { D N } } 2 _ { _ { ( n , i ) } }  \\\\ {  { \\mathrm { D N } } 2 _ { _ { ( n , i ) } } , \\ \\not \\equiv  { \\mathrm { H } }  { \\mathrm { H } }  { \\mathrm { L } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { D N } 3 _ { ( n , i ) }$ 为异常值处理后第 $n$ 年影像中 $i$ 像元的灰度值; $\\mathrm { D N } 2 _ { ( n - 1 , i ) }$ 和 $\\mathrm { D N } \\hat { 2 } _ { ( n , i ) }$ 分别为过饱和与连续性",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "校准后第 $n { - } 1$ 年和第 $n$ 年影像中i像元的灰度值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）NPP/VIIRS数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NPP/VIIRS数据虽不存在过饱和现象，但需要对该影像存在的背景噪声及异常值问题进行处理，处理过程包括2方面[19]：第一，异常高值处理。选择北京、上海和广州等作为不变区域，将该区域内最大像元值作为最大阈值，当影像中存在大于最大阈值的灯光像元时，将像元赋值为最大阈值。第二，降噪处理。将NPP/VIIRS数据中小于阈值的像元取值为0，以达到消除背景噪声的目的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）两种数据的融合校准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了将两种数据校准到统一尺度上，选取重叠年份的两种数据构建函数模型，生成拟合函数并确定最优拟合函数[18],进而实现以DMSP/OLS数据校准VIIRS数据的操作，最终获得长时间序列（1992—2020年)DMSP尺度下的夜间灯光数据集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2夜间灯光指数构建人造光源是城市夜间稳定亮光的主要来源，夜间灯光数据已被充分证实与中国的城市化存在同步变动的相关性，能够较好地反映区域城市化水平[20]。因此,参考陈晋等[21]的研究，构建包含了区域平均灯光强度 $( ~ M _ { j }$ )和灯光面积 $( \\mathbf { \\nabla } _ { A _ { j } } ) _ { 2 }$ 方面属性特征的夜间灯光指数 $\\textstyle { \\left( \\begin{array} { l } { L _ { j } } \\end{array} \\right) }$ ,其公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { j } = { \\frac { A _ { n } } { A } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { j } = \\sum _ { i = 1 } ^ { 6 3 } \\mathrm { D N } _ { i } \\frac { n _ { i } } { N \\times 6 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { _ { j } } { = } M _ { _ { j } } { \\times } 0 . 8 + A _ { _ { j } } { \\times } 0 . 2\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { A } _ { n }$ 为灯光面积 $( \\operatorname { k m } ^ { 2 } ) ; A$ 为区域总面积 $(  { \\mathrm { k m } } ^ { 2 } )$ $\\mathrm { D N } _ { i }$ 为灯光像元的灰度值; $n _ { i }$ 为灯光值是 $\\mathrm { D N } _ { i }$ 的像元数量； $N$ 为区域内灯光像元总数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生态韧性指数的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "韧性城市指在遭受冲击时能够及时抵御，迅速调整或适应变化，维持或迅速恢复原有城市系统结构和功能的城市3。城市面对冲击时表现出的抵抗力、恢复力、适应力是韧性城市的三大基本特征。因此，本研究从抵抗力、恢复力、适应力构建生态韧性评价指标体系(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1生态系统抵抗力指数生物多样性决定着生态系统对环境变化的抵抗力和承受力，对生态系统服务功能有着极大影响[22]。因此，采用生态系统服务价值表示生态系统的抵抗力，结合宁夏社会经济发展现状，对生态系统服务价值当量因子进行系数修正[23]，计算出宁夏生态系统服务价值，具体公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e1d238c2d8afdb6ef5eaf3a1b0dc72f9c71c1546eb418f1d9f8d711a0b61530.jpg",
+        "table_caption": [
+            "表1生态韧性指数评价指标体系",
+            "Tab.1 Evaluation index system of ecological resilience "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>准则层</td><td>指标</td><td>权重</td><td>性质</td></tr><tr><td>生态系统抵抗力</td><td>生态系统服务价值</td><td>0.413</td><td>+</td></tr><tr><td>生态系统恢复力</td><td>生态弹性</td><td>0.313</td><td>+</td></tr><tr><td>生态系统适应力</td><td>景观指数</td><td>0.274</td><td>+</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { O p p } = \\mathrm { E S V } = \\sum A _ { i } \\times \\mathrm { V C } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { { o } p p }$ 为生态系统抵抗力指数;ESV为生态系统服务价值（元）； $A _ { i }$ 为第 $i$ 种土地利用类型面积$\\left. \\mathrm { h m } ^ { 2 } \\right.$ ； $\\mathrm { V C } _ { i }$ 为第 $i$ 种土地利用类型生态系统服务价值当量（元· $\\mathrm { h m } ^ { - 2 }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2生态系统恢复力指数生态系统恢复力作为系统受干扰后维持或恢复原有结构和功能的能力，自然状态下的土地利用类型自我修复能力较强，而人为塑造的建设用地恢复能力较差，因此受到破坏更大，参考刘晓平等[24]采用的生态弹性模型与系数，对生态弹性进行测度，具体公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R e c } = H \\sum S _ { i } \\times P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\operatorname { R e c }$ 为生态系统恢复力指数； $H$ 为景观多样性指数（Shannon）； $S _ { i }$ 为土地利用类型 $i$ 的弹性分值;$\\boldsymbol { P } _ { i }$ 为土地利用类型 $i$ 的覆盖度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3生态系统适应力指数生态系统适应力作为生态系统以自身形态、结构或功能的改变来适应外界环境变化的能力，将成为未来生态韧性的主要特征。利用景观指数从景观异质性和连通性来评价生态系统的适应能力[10],具体公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A d a } = 0 . 5 C + 0 . 2 5 \\mathrm { S H D I } + 0 . 2 5 \\mathrm { A W M }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Ada为生态系统适应力指数； $C$ 为景观破碎度；SHDI为香农多样性指数；AWM为面积加权平均斑块分形维数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，根据熵值法对指标进行赋权，采用线性加权法对生态韧性指数进行测算，具体公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R e s } = \\sum _ { j } ^ { n } w _ { j } x _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Res为生态韧性指数 $\\ ; j$ 为指标类型; $\\boldsymbol { w } _ { j }$ 为相应类型指标权重； $x _ { i j }$ 为指标原始数据标准化处理后的数值； $n$ 为指标个数，此处 $\\scriptstyle n = 3$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3耦合协调性模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仅依赖耦合性很难完全反映子系统之间的协调发展程度。因此，引入耦合协调性模型，并将系统间的耦合协调性划分为10个等级(表2）[25]：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2耦合协调性的判别标准及类型划分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ca6133c499728e08d6ad817b903cad2096b0d9880ab3688e6e5ea9244d5721c.jpg",
+        "table_caption": [
+            "Tab.2 Criteria and type division of coupling coordination "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>耦合协调性(D)</td><td>协调水平</td><td>耦合协调性(D)</td><td>协调水平</td></tr><tr><td>0.0≤D≤0.1</td><td>极度失调</td><td>0.5<D≤0.6</td><td>勉强协调</td></tr><tr><td>0.1<D≤0.2</td><td>严重失调</td><td>0.6<D≤0.7</td><td>初级协调</td></tr><tr><td>0.2<D≤0.3</td><td>中度失调</td><td>0.7<D≤0.8</td><td>中级协调</td></tr><tr><td>0.3<D≤0.4</td><td>轻度失调</td><td>0.8<D≤0.9</td><td>良好协调</td></tr><tr><td>0.4<D≤0.5</td><td>濒临失调</td><td>0.9<D≤1.0</td><td>优质协调</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal C } = \\left\\{ \\frac { U _ { 1 } U _ { 2 } } { \\left[ \\left( U _ { 1 } + U _ { 2 } \\right) / 2 \\right] ^ { 2 } } \\right\\} ^ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\alpha U _ { 1 } + \\beta U _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = { \\sqrt { C \\times T } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 为耦合性; $U _ { 1 } \\setminus U _ { 2 }$ 分别为城市化指数与生态韧性指数; $T$ 为综合协调指数； $\\alpha \\mathcal { \\beta }$ 为待定权重，考虑到城市化和生态环境同等重要，故取 $\\scriptstyle \\alpha = \\beta = 0 . 5 ; D$ 为耦合协调性， $D$ 值越大，表明城市化与生态韧性总体水平提高，两者耦合关系越协调。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在分析耦合协调性的基础上，为明确城市化与生态韧性的内在约束因素,同时引入相对发展模型[25],公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { U _ { 1 } } { U _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $E$ 为相对发展度。 $0 . 0 { \\leqslant } E { \\leqslant } 0 . 9$ 为城市化滞后",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "型； $0 . 9 { < } E { \\leqslant } 1 . 1$ 为城市化与生态韧性同步型； $E { > } 1 . 1$ 为生态韧性滞后型",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1夜间灯光指数与社会经济指标拟合分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将2005—2020年宁夏各市人均GDP、城镇化率、第二产业增加值、第三产业增加值与夜间灯光指数进行一元线性拟合，拟合结果见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3夜间灯光指数与社会经济指标一元线性拟合方程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/37ea2e04b4d2cf6a02e6ae64a8500bf80b48a0c3cc8417abf7d38d2a92be34f3.jpg",
+        "table_caption": [
+            "Tab.3 Univariate linear fitting equation between night lightindex and socioeconomic index "
+        ],
+        "table_footnote": [
+            "注：\\*\\*\\*表示在0.001水平下显著。"
+        ],
+        "table_body": "<html><body><table><tr><td>社会经济指标</td><td>拟合方程</td><td>决定系数</td></tr><tr><td>人均GDP</td><td>y=0.433x+0.894</td><td>0.756***</td></tr><tr><td>城镇化率</td><td>y=4.365x+25.134</td><td>0.784***</td></tr><tr><td>第二产业增加值</td><td>y=48.262x-48.446</td><td>0.887***</td></tr><tr><td>第三产业增加值</td><td>y=45.359x-62.628</td><td>0.794***</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总体来看，夜间灯光指数与宁夏各社会经济指标相关性较强（ $\\left( P { < } 0 . 0 0 1 \\right)$ ，说明融合校正后的夜间灯光指数基本吻合宁夏社会经济发展规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2城市化指数分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从夜间灯光影像空间分布及变化情况来看（图1),2005—2020年宁夏城市化水平变化显著。以银川市为中心的沿黄城市群灯光璀璨，而宁夏南部呈现众多面积较小零星分布的灯光像元，这是因为宁夏中部干旱带和南部黄土高原受地理所限，人口稀薄，城市难以连片发展，导致南北城市发展差异明显，但夜间灯光在密度和强度上都有了实质性的提升。从灯光的强度、密度分析对比，银川市城市化程度始终全区最高，逐渐形成以银川市为龙头，石嘴山市和吴忠市为依托发展的“银川都市圈”，该区域中心城区灯光强度变化较小，周边县区存在较为强烈的灯光变化。造成这一现象的主要原因在于老城区城市化基本趋于饱和，随着城乡结合部的改造，城市不断向外扩张，导致周边县区灯光强度发生较大变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a89384cae096de0cd90f7c2ce379b97f56bd017104e2f423eeeb6f9c8da08767.jpg",
+        "img_caption": [
+            "注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2017)1267号的标准地图制作，底图边界无修改。下同。",
+            "图12005—2020年宁夏夜间灯光影像空间分布",
+            "Fig.1Spatial distributions of night light images in Ningxia from 2Oo5 to 2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，城市化指数的变化还映射出区内城市发展差异(图2)。2005—2010年，除银川市和石嘴山市外，其他3市城市化指数均低于0.2，维持在低水平阶段；其中，2010年银川市的城市化指数首次超过0.6(高水平），中心城市带动战略和2005年沿黄城市经济带建设的提出，极大加快了银川市城市化进程,而吴忠市、中卫市和固原市工业基础薄弱，城市化水平与北部城市差距明显可见。2015年城市化扩张在2010年的基础上进一步向南部延伸，到2020年吴忠市城市化指数快速增长至0.356，接近较高城市化阶段，经济发展成为主要驱动力；至2020年，固原市仍处于低水平阶段，城市化指数仅为0.195，吴忠市、中卫市、固原市发展基础相对较差，但增速较快，说明伴随着宁夏推进宁南区域中心城市战略决策的实施，区域差距在逐渐缩小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3生态韧性指数分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2005—2020年，每隔5a宁夏各市生态韧性水平的时序演化情况如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态系统抵抗力指数的变化反映出宁夏生态系统抵抗力有明显垂直差异，但波动幅度不大，吴",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a)2005年 N (b)2010年 N (c)2015年 N (d)2020年 NA A A ?多图例 图例 图例 图例城市化等级中卫市吴忠市 城市化等级中卫市吴忠市 城市化等级 3 中卫市吴忠市 城市化等级中卫市吴忠市低(0.0\\~0.2) 低(0.0\\~0.2) 低(0.0\\~0.2) 低(0.0\\~0.2) 2较低(0.2\\~0.4) 较低(0.2\\~0.4) 较低(0.2\\~0.4) 较低(0.2\\~0.4)较高(0.4-0.6）固原市 较高（0.4\\~0.6）固原市 较高(0.4\\~0.6) 固原市 较高（0.4\\~0.6) 固原市高(0.6\\~1.0) 高(0.6\\~1.0) 高(0.6\\~1.0) 高(0.6\\~1.0)界 050km 界 050km 界 050km 界 050km",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cedf60834c47e283856e00f294b334d309df8245199d7061194c9100816727c3.jpg",
+        "img_caption": [
+            "图22005—2020年宁夏城市化指数空间分布",
+            "Fig.2Spatial distributions of urbanization index in Ningxia from 2oo5 to 2020 ",
+            "图32005—2020年宁夏生态韧性指数时间变化",
+            "Fig.3 Temporal changes of ecological resilience indices in Ningxia from 2oo5 to 2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "忠市生态系统抵抗力明显高于其他4市；从生态系统恢复力指数和生态系统适应力指数来看，2015年以前宁夏各市变化不大，但2015年后提升较大，其中石嘴山市生态系统恢复力指数和生态系统适应力指数最高且上升幅度最大，主要原因在于大力实施生态立区战略推动了石嘴山市由工矿时代向生态时代的转变。综合生态系统抵抗力指数、生态系统恢复力指数和生态系统适应力指数的生态韧性指数表明，2005—2020年银川市和中卫市生态保护形势不容乐观，环境压力持续增大，这与期间“宁东能源化工基地\"的建设带来巨大环境挑战和中卫市造纸产业的固有环境压力有关，使得生态抵抗力下降；吴忠市生态韧性水平到了2020年全区最高，这一现象与吴忠市实施\"生态立县\"和\"封山禁牧\"等一系列生态防护措施有关;石嘴山市生态韧性水平提升最快，近 $2 0 \\mathrm { a }$ 间增长了约 $3 2 \\%$ ,石嘴山市聚力创新驱动，产业转型升级有效，加强工业污染防治力度和环保投资力度，生态恢复迅速；而固原市作为宁夏水土流失最为严重的区域，自2000年开始实行“退耕还林\"政策和生态移民工程，固原市生态环境有所改善，但相比其他4市仍严重滞后。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，从生态韧性指数等级的变化(图4)来看，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2005一2010年银川市生态韧性水平最高，吴忠市次之，石嘴山市、固原市、中卫市生态韧性水平则相对较低，宁夏生态环境未发生明显变化，这一现象一方面与以生态保护为中心的发展观念尚且不足有关，另一方面与城市化规模小、水平低，对生态环境造成影响尚小有关，但宁夏中北部韧性水平较南部地区差异明显，导致这种差异的主要原因在于北部为银川平原，有黄河流经，自然条件优越，而宁夏南部为黄土高原，自然条件恶劣成为生态韧性建设道路上的最大阻碍。自2015年开始，随着生态保护意识的增强，多项生态环境保护战略与政策落地并持续加码，宁夏生态环境呈现持续好转态势，各地生态环境得到明显改善，韧性水平不断提升；至2020年，除中卫市、固原市外，宁夏各市生态韧性水平均达到高水平阶段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4城市化与生态韧性耦合协调发展及其时空演变分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.1耦合协调性时序演化分析根据耦合协调性模型计算得出宁夏城市化与生态韧性耦合协调性，结果见表4。2005—2020年宁夏城市化与生态韧性耦合协调水平从中度失调(0.293)向初级协调(0.606)转变，两者协调发展的耦合效应逐渐增强",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)2005年 (b)2010年 (c)2015年 (d)2020年4银 中银川图例 市 图例 市 图例 市 图例生态韧性等级中卫市吴忠市 生态韧性等级中卫市 吴忠市 生态韧性等级中卫市 吴忠市 生态韧性等级中卫市 吴忠市低(0.00\\~0.35) 低(0.00\\~0.35) 低(0.00\\~0.35) 低(0.00\\~0.35)较低(0.35\\~0.45) 较低（0.35\\~0.45) 较低(0.35\\~0.45) 较低(0.35\\~0.45)较高（0.45\\~0.58）固原市 较高(0.45\\~0.58)固原市 较高（0.45\\~0.58）固原市 较高(0.45\\~0.58)固原市高(0.58\\~1.00) 高(0.58\\~1.00) 高(0.58\\~1.00) 高(0.58\\~1.00)□省界 050km □省界 050km □省界 050km □省界 050km□市界 □市界 □市界 □市界",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e013ffeaf4cea1d08f7b35f0095abfbaee710c2fac0eb3af83a11ceb03943f9b.jpg",
+        "table_caption": [
+            "表42005—2020年宁夏城市化与生态韧性耦合协调性",
+            "b.4Coupling coordination between urbanization and ecological resilience in Ningxia from 2005 to 20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">城市</td><td colspan=\"2\">2005年</td><td colspan=\"2\">2010年</td><td colspan=\"2\">2015年</td><td colspan=\"2\">2020年</td></tr><tr><td>耦合协调性</td><td>协调水平</td><td>耦合协调性</td><td>协调水平</td><td>耦合协调性</td><td>协调水平</td><td>耦合协调性</td><td>协调水平</td></tr><tr><td>银川市</td><td>0.681</td><td>初级协调</td><td>0.776</td><td>中级协调</td><td>0.832</td><td>良好协调</td><td>0.855</td><td>良好协调</td></tr><tr><td>石嘴山市</td><td>0.529</td><td>勉强协调</td><td>0.664</td><td>初级协调</td><td>0.689</td><td>初级协调</td><td>0.757</td><td>中级协调</td></tr><tr><td>吴忠市</td><td>0.130</td><td>严重失调</td><td>0.279</td><td>中度失调</td><td>0.538</td><td>勉强协调</td><td>0.649</td><td>初级协调</td></tr><tr><td>固原市</td><td>0.002</td><td>极度失调</td><td>0.152</td><td>严重失调</td><td>0.199</td><td>严重失调</td><td>0.255</td><td>中度失调</td></tr><tr><td>中卫市</td><td>0.125</td><td>严重失调</td><td>0.233</td><td>中度失调</td><td>0.441</td><td>濒临失调</td><td>0.512</td><td>勉强协调</td></tr><tr><td>宁夏</td><td>0.293</td><td>中度失调</td><td>0.421</td><td>濒临失调</td><td>0.540</td><td>勉强协调</td><td>0.606</td><td>初级协调</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(表4、图5a）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "具体来看，吴忠市城市化与生态韧性耦合协调水平提升最快，增幅为0.519;中卫市和固原市耦合协调水平最低;银川市和石嘴山市增幅较小，仅为0.174和0.228，但其耦合协调水平高于全区平均水平。除银川市和石嘴山市外，其余各市均经历了不同程度的失调期，即吴忠市（严重失调，2005年；中度失调，2010年）、中卫市（严重失调，2005年；中度失调，2010年；濒临失调，2015年），固原市则在过去20a间一直处于失调阶段;此外，2015年之后快速城市化造成的生态压力致使耦合协调性增长放缓，但宁夏各市耦合协调性在20a内获得了极大提高，差距正逐步缩小。究其原因：一方面，近些年在银川都市圈和沿黄城市经济带战略的推动下，银川市成为具有更大辐射范围和集聚能力的区域中心城市，并带动石嘴山市、吴忠市、中卫市同步发展;另一方面，黄河流域生态保护和高质量发展先行区的建设、生态立区战略和生态环境六大保卫战的实施，使得吴忠市、中卫市和固原市城市化与生态韧性协调发展失调的特点得到缓解，但固原市由于远离经济发展核心区，导致两者耦合协调水平一直处于失调阶段，今后应加强该地区两者耦合协调水平建设。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，宁夏城市化和生态韧性的相对发展也尚未达到理想上的等同(图5b)。2005年宁夏各市均属于城市化滞后型，城市发展与生态建设脱节，主要是城市规模小、水平低，区域交通不便所致。自2010年以来，城镇化建设速度加快，城市建成区不断扩容，其中以固原市为代表的生态建设与城市发展严重失衡，导致城镇化建设速度远大于生态环境保护力度，该城市一直处于生态韧性滞后阶段。至2020年银川市转为生态环境滞后型，城市扩张占用了大量耕地和林地，同时快速城市化导致大量人口涌向银川市，使得人地矛盾加剧，这需要科学协调自然开发与保护之间的矛盾关系，以维持城市化与生态环境协调发展；同时银川都市圈的建设带动了石嘴山市城市发展，逐步转为同步发展型城市，与此同时生态保护意识不断强化，实施了提升贺兰山生态屏障功能和采煤沉陷区治理等一系列环境保护措施，使得生态韧性水平提升，促进两者协调同步发展。吴忠市和中卫市受制于地理区位、城市规划、经济发展等众多原因，城市化水平一直低于全区平均水平。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.2耦合协调性空间格局演化分析对宁夏城市化和生态环境耦合协调空间格局演变进行分析(表4、图5a)来看，2005年宁夏域内各市耦合协调性分布于4个阶段,吴忠市、中卫市为严重失调,银川市为初级协调，石嘴山市为勉强协调，固原市为极度失调。2015年，各城市的耦合协调性均有较大提升，中卫市转为濒临失调阶段，银川市、石嘴山市和吴忠市均已过渡至协调阶段。这与宁夏走绿色发展之路，大力建设生态产业带、生态城市带，全力打造生态优先、产城融合、人水和谐的沿黄生态经济带相关,从而实现城市发展和生态保护“双赢”。2020年，除固原市仍处于失调阶段外，宁夏各市耦合协调性均在勉强协调阶段及以上，中卫市耦合协调性提升至0.512，上升至勉强协调，首次达到协调阶段，这说明沿黄城市经济带城市化与生态环境的协调发展态势已基本形成。综合来看，宁夏耦合协调性较高的城市主要集聚在银川平原地区，耦合协",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/eee4cb230646f7c566929798af81259282fa622b5ad196891ec0c80a95d0ee68.jpg",
+        "img_caption": [
+            "图52005—2020年宁夏城市化与生态韧性耦合协调发展关系时空演变 Fig.5Spatio-temporal evolution of the coordinated development of urbanization and ecological resilience in Ningxia from 2oo5 to 2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "调水平较低的城市主要是固原市，对比2005一2020年各市耦合协调性的空间差异来看，银川市一直处于高耦合协调的单极态势，逐渐形成以银川市为核心，以石嘴山市和吴忠市为依托，辐射中卫市和固原市协调发展的区域形态。宁夏各市城市化与生态韧性的耦合协调性差距逐渐缩小，达到协调阶段的城市逐渐增多，形成区域一体化发展新趋势",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究通过构建夜间灯光指数和三维生态韧性指数，利用耦合协调性与相对发展度模型，对宁夏城市化与生态韧性耦合协调性时空演变特征进行了探究，该研究弥补了既往研究大都针对区域性发达城市群，而对干旱区城市研究较少的缺陷。此外，结合韧性思想解读城市化与生态环境之间的关系，也为相关研究提供了新视角。最终得到如下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）城市夜间灯光指数与各经济指标有较高的相关性，所构建夜间灯光指数可以较好地反映宁夏经济社会发展规律。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）2005—2020年宁夏城市化水平提升较快，以银川市为中心的沿黄城市群灯光璀璨，而宁夏南部呈现众多面积较小零星分布的灯光像元。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）2005—2020年宁夏生态韧性水平整体稳中有升。银川市生态韧性水平全区最高，吴忠市次之，石嘴山市、固原市、中卫市生态韧性水平则相对较低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）2005—2020年宁夏城市化与生态韧性耦合协调性稳步提升，耦合协调性最高的是银川市和石嘴山市，吴忠市耦合协调性增幅最大，中卫市在2020年首次达到协调阶段，而固原市一直处于失调阶段，逐渐形成了以银川市为核心，以石嘴山市和吴忠市为依托，辐射中卫市和固原市协调发展的区域形态。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（5）2005—2020年宁夏城市化和生态韧性的相对发展尚未达到理想上的等同。2005年宁夏城市化并未与生态建设同步发展，区内各市均属于城市化滞后型；自2010年以来，以固原市为代表的生态建设与城市发展严重失衡，该城市一直处于生态韧性滞后阶段;至2020年银川市逐步转为生态环境滞后型，石嘴山市转为同步发展型城市；此外，吴忠市和中卫市受制于地理区位、城市规划、经济发展等",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "众多原因，一直属于城市化滞后型城市。   \n参考文献(References)   \n[1]Hoing C S.Resilience and stability of ecological systems[J].Annual Review of Ecology and Systematics,1973,4(1): 1-23.   \n[2]帕克,伯吉斯,麦肯齐.城市社会学——芝加哥学派城市研究文 集[M].宋俊岭,吴建华,王登斌译.北京:华夏出版社,1987. [Park RE,Burgess EW, Mckenzie RD. Urban sociology: Urban studies of Chicago school[M]. Song Junling,Wu Jianhua,Wang Dengbin, trans.Beijing: Huaxia Publishing House,1987.]   \n[3]Meerow S,Newell JP,Stults M. Defining urban resilience: A review[J]. Landscape and Urban Planning,2016,147: 38-49.   \n[4]Zhang XL,Li H. Urban resilience and urban sustainability: What we know and what do not know?[J]. Cities,2018,72: 141-148.   \n[5]赵瑞东,方创琳,刘海猛.城市韧性研究进展与展望[J].地理科 学进展,2020,39(10): 1717-1731.[Zhao Ruidong,Fang Chuanglin,Liu Haimeng.Progress and prospect of urban resilience research[J].Progressin Geography,2020,39(10): 1717-1731.]   \n[6]陈刚,王琳,王晋,等.基于景观生态格局的水生态韧性空间构 建[J].人民黄河,2020,42(5): 87-90,96.[Chen Gang,Wang Lin, Wang Jin,et al. Construction of water ecological resilience space based on landscape ecological pattern[J]. Yellow River, 2020,42 (5): 87-90, 96.]   \n[7]刘志敏,叶超.社会-生态韧性视角下城乡治理的逻辑框架[J]. 地理科学进展,2021,40(1): 95-103.[Liu Zhimin,Ye Chao.A logical framework of rural-urban governance from the perspective of social-ecological resilience[J].Progress in Geography,2O21,40(1): 95-103.]   \n[8]孙阳,张落成,姚士谋.基于社会生态系统视角的长三角地级城 市韧性度评价[J].中国人口·资源与环境,2017,27(8):151- 158.[Sun Yang, Zhang Luocheng, Yao Shimou. Evaluation of resilience of prefecture cities in the Yangtze River Delta from a socioecological perspective[J]. China Population,Resources and Environment,2017,27(8): 151-158.]   \n[9]朱金鹤,孙红雪.中国三大城市群城市韧性时空演进与影响因 素研究[J].软科学,2020,34(2):72-79.[Zhu Jinhe,Sun Hongxue.Research on spatial-temporal evolution and influencing factors of urban resilience of China's three metropolitan agglomerations [J]. Soft Science,2020,34(2): 72-79.]   \n[10] 夏楚瑜,董照樱子,陈彬.城市生态韧性时空变化及情景模拟研 究——以杭州市为例[J].生态学报,2022,42(1):116-126.[Xia Chuyu,Dong Zhaoyingzi, Chen Bin. Spatio-temporal analysis and simulation of urban ecologicalresilience: A case studyof Hangzhou[J]. Acta Ecologica Sinica,2022,42(1): 116-126.]   \n[11]唐志强,秦娜.张掖市新型城镇化与生态安全耦合协调发展研 究[J].干旱区地理,2020,43(3): 786-795.[Tang Zhiqiang, Qin Na.Coupling development of new type urbanization and ecological security in Zhangye City[J].Arid Land Geography,2O20,43(3): 786-795.]   \n[12] 黄金川,娜英.哈萨克斯坦城镇化与生态环境耦合过程与机理 分析[J].干旱区地理,2021,44(4):1141-1152.[Huang Jinchuan, Na Ying. Coupling process and mechanism of urbanization and ecological environment in Kazakhstan[J].Arid Land Geography, 2021,44(4): 1141-1152.]   \n[13] 陈世栋,袁奇峰.都市生态圈层结构及韧性演进:理论框架与广 州实证[J].规划师,2017,33(8): 25-30.[Chen Shidong,Yuan Qifeng. Urban ecosphere structure and its resilience evolution: Theoretical framework and empirical analysis of Guangzhou[J].Planners,2017,33(8): 25-30.]   \n[14] 陈韶清,夏安桃.快速城镇化区域城市韧性时空演变及障碍因 子诊断——以长江中游城市群为例[J].现代城市研究,2020 (1): 37-44,103.[Chen Shaoqing,Xia Antao. Spatio-temporal evolution of urban resilience and diagnosis of obstacle indicators in rapidly urbanized regions:A case study of the urban agglomerations in the middle reaches of the Yangtze River[J]. Modern Urban Research,2020(1): 37-44,103.]   \n[15] 王少剑,崔子恬,林靖杰,等.珠三角地区城镇化与生态韧性的 耦合协调研究[J].地理学报,2021,76(4): 973-991.[Wang Shaojian,Cui Zitian,Lin Jingjie,et al.Coupling relationship between urbanization and ecological resilience in the Pearl River Delta[J]. Acta Geographica Sinica, 2021,76(4): 973-991.]   \n[16] 罗紫元,曾坚.城市化品质、城市韧性与\"台风-暴雨\"灾害风险 分析——以7个东南沿海省市为例[J].科技导报,2021,39(15): 124-134.[Luo Ziyuan, Zeng Jian. Analysis on urbanization quality, urban resilience and disaster risk of typhoon rainstorm: Take 7 southeast coastal provinces and cities for example[J]. Science & Technology Review,2021,39(15):124-134.]   \n[17] 李嘉艺,孙璁,郑曦.基于适应性循环理论的区域生态风险时空 演变评估——以长江三角洲城市群为例[J].生态学报,2021, 41(7): 2609-2621.[Li Jiayi, Sun Cong, Zheng Xi. Assessment of spatio-temporal evolution of regionally ecological risks based on adaptive cycle theory:A case study of Yangtze River Delta urban agglomeration[J]. Acta Ecologica Sinica,2021，41(7):2609- 2621.]   \n[18]关靖云,李东,王亚菲,等.中国区域 DMSP-OLS与NPP-VIIRS 夜间灯光影像校正Ⅲ 测绘通报 20210).1-8[Cn Iinmm ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LiDong,Wang Yafei,etal.DMSP-OLSand NPP-VIIRS night light ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "image correction in China[J]. Bulltin of Surveying and Mapping, 2021(9): 1-8.]   \n[19] Zhao M, Zhou Y,Li X,et al. Building a series of consistent nighttime light data (1992—2018) in Southeast Asia by integrating DMSP-OLS and NPP-VIIRS[J]. IEEE Transactions on Geoence and Remote Sensing,2020, 58(3): 1843-1856.   \n[20] 余柏蒗,王丛笑,宫文康,等.夜间灯光遥感与城市问题研究:数 据、方法、应用和展望[J].遥感学报,2021,25(1):342-364.[Yu Bolang,Wang Congxiao,Gong Wenkang,et al.Nightime light remote sensing and urban studies: Data, methods,applications,and prospects[J]. National Remote Sensing Bulletin,2021,25(1): 342-364.]   \n[21] 陈晋,卓莉,史培军,等.基于DMSP/OLS数据的中国城市化过 程研究——反映区域城市化水平的灯光指数的构建[J].遥感 学报,2003,7(3):168-175,241.[Chen Jin, Zhuo Li,Shi Peijun,et al.The study on urbanization process in China based on DMSP/ OLS data: Development of a light index for urbanization level estimation[J].National Remote Sensing Bulletin,2003,7(3):168- 175, 241.]   \n[22] 李奇,朱建华,肖文发.生物多样性与生态系统服务—关系、 权衡与管理[J].生态学报,2019,39(8):2655-2666.[Li Qi, Zhu Jianhua, Xiao Wenfa. Relationships and trade-ofs between,and management of biodiversity and ecosystem services[J].Acta Ecologica Sinica,2019,39(8): 2655-2666.]   \n[23] 安斯文,马彩虹,袁倩颖,等.生态移民区\"三生\"用地变化对生 态系统服务的影响——以宁夏红寺堡区为例[J].干旱区地理, 2021,44(6): 1836-1846.[An Siwen,Ma Caihong, Yuan Qianying, et al.Effects of “ecological-production-living\"land changes on ecosystem services in ecological migration area: A case of Hongsibu District in Ningxia[J].Arid Land Geography,2021,44(6):1836- 1846.]   \n[24] 刘晓平,李鹏,任宗萍,等.榆林地区生态系统弹性力评价分析 [J].生态学报,2016,36(22): 7479-7491.[Liu Xiaoping,Li Peng, Ren Zongping, et al. Evaluation of ecosystem resilience in Yulin, China[J]. Acta Ecologica Sinica,2016,36(22): 7479-7491.]   \n[25]姜亚俊,慈福义,史佳璐,等.山东省新型城镇化与生态环境耦 合协调发展研究[J].生态经济,2021,37(5):106-112.[Jiang Yajun, CiFuyi, Shi Jialu,et al. Study on the coupling development of new urbanization and ecological environment in Shandong Province[J]. Ecological Economy,2021,37(5): 106-112.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal pattern evolution of coupling coordination between urbanization and ecological resilience in arid region: A case of Ningxia Hui Autonomous Region ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LI Sul²， LIU Haonanl   \n(1.ScholofEconomics,North MinzuUniversity,Yinchuan75o21,Ningxia,China;2.Research CenterforRelativePoverty   \nControlinEthnicArea,HumanitiesandSocialSiencesKeyResearchBase,NationalEthnicAairsCommissonofthePeople's Republic of China, Yinchuan 75OO21, Ningxia, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Various ecological problems caused by rapid urbanization have become the biggest obstacle to achieving high economic quality.Therefore,the construction of a coordinated development relationship between urban ecological resilience and urbanization is crucial for developing inland cities in arid regions.This study atempts to break through previous research methods and interpret the relationship between urbanization and ecological environment from the viewpoint of resilience.Based on nightime light data and land use remote sensing data,the coupling coordination and relative development degree models were used to study their coupling coordination and spatio-temporal evolution in Ningxia,China,from 2005 to 2020.The results show that the urban agglomerationalong the Yellow River in Ningxia, with Yinchuan Cityas the center,has bright lights, whereas the southern part of Ningxia presents many small scatered lights.The distribution pattern of ecological resilience is the highest in Wuzhong City,followed byYinchuan City,and the lowest in Shizuishan City,Guyuan City,and Zhongwei City.Except for Yinchuan City and Shizuishan City,other cities have also experienced varying degrees of imbalance,and the relative development of urbanization and ecological resilience in Ningxia has notreached ideal equivalence. Finally, Ningxia gradually forms a coordinated regional development pattern, with Yinchuan City as the core and Shizuishan Cityand Wuzhong City as the support,radiating the cities of Zhongwei and Guyuan.This study makes up for the deficiency of research on arid cities.Resilience,as a new hotspot in the field of urban studies,provides a new way for interpreting the relationship between urbanization and ecological environment from the perspective of ecological resilience by constructing the evaluation index system of“resistance-adjustment-resilience”,which is greatly significant for accelerating the construction of an important ecological security barrier and realizing high-quality development in northwest China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: urbanization; ecological resilience; coupling coordination; Ningxia ",
+        "page_idx": 9
+    }
+]

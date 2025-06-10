@@ -1,0 +1,280 @@
+# 基于改进正余弦优化算法的多阈值图像分割
+
+郎春博，贾鹤鸣，邢致恺，彭晓旭，李金夺，康立飞(东北林业大学 机电工程学院，哈尔滨 150040)
+
+摘要：针对多阈值图像分割方法计算量大、分割精度低的问题，提出了基于改进正余弦算法（improved sine cosinealgorithm）的多阈值图像分割方法。首先对种群进行混沌初始化来提高初始种群质量；其次根据粒子适应度值的大小自适应地调整参数；最后引入反向学习策略并择优选取粒子。伯克利图像和植物冠层图像分割实验的结果表明，该算法的运行时间较短，而且分割精度较高，具有较强的鲁棒性。
+
+关键词：正余弦算法；多阈值图像分割；混沌初始化；自适应；反向学习中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.10.0779
+
+Multi-threshold image segmentation based on improved sine cosine optimization algorithm
+
+Lang Chunbo, Jia Heming†, Xing Zhikai, Peng Xiaoxu, Li Jinduo, Kang Lifei (CollegeofMechanical&Electrical Engineering,NortheastForestry University,Harbin150040,China)
+
+Abstract: Aimingat the problem ofthecomputational complexityand lowsegmentation precisionof the multi-threshold image egmentation method,this paper proposed an Improved Sine Cosine Algorithm (ISCA)based multi-threshold image segmentation method.Firstly,this methodusedachaotic initializationtechnique to improvethequalityofinitial population. Secondly,itintroducedanadaptivestrategytoadjusttheparametersaccrding totefitnessvaues.Finally,itutiizedan opposition-based learming strategy,then the beter particles were selected.Theresultsof the Berkeley image andtheplant canopy image segmentation experiments show that this method has a satisfied performance in terms of running time and segmentation accuracy. And it has a strong robustness.
+
+Key words:sinecosine algorithm;multi-threshold image segmentation;chaos initialization;adaptive;opposition-based learning
+
+# 0 引言
+
+图像分割是由图像处理到图像分析的关键步骤，其目的在于将图像分割成若干个独立的、具有特殊性质的部分并提取出感兴趣目标。目前常用的图像分割方法有基于区域的分割方法、基于边缘的分割方法、基于特定理论的分割方法以及基于阈值的分割方法等[1\~4]。而阈值分割方法因其计算量小、易于实现、效率高、性能稳定等优点被广泛应用于很多领域。例如，在交通图像分析中，汽车牌照的识别与提取[5]；在医学图像分析中，PET-MR图像判断病情的恶化或好转[6；在林学图像分析中，研究森林火灾图像来检测实时火情，为实现火灾的预测预报奠定坚实基础[7]。传统的单阈值分割方法适应性并不广泛，因此一些学者利用迭代的方式将其扩展至多阈值。
+
+多阈值图像分割可以被看成一种优化问题。传统多阈值方法的本质就是穷举法，其计算量会随着阈值个数的增加呈指数增长，实时性较差。为此有学者利用智能算法对分割的适应度函数进行寻优操作，在一定程度上解决了运行效率的问题[8\~11]。但由于算法本身的局限性，寻优能力并不理想，易早熟收敛、陷入局部最优等状况仍需得到有效地改善。
+
+正余弦算法（sine cosinealgorithm,SCA）是由Mirjalili等人[12]于2016年提出的新颖随机群优化算法。该算法的核心思想是利用正余弦函数的震荡特性，向外波动进行全局探索，向最优解波动进行局部开发，使算法逐步收敛。SCA具有易于实现，收敛速度快，求解精度高等优点，其随机参数与递减参数的设置也使得算法的探索与开发能力得到很好的平衡，但局部搜索能力较弱的缺点使得算法效果并不理想。
+
+本文提出一种改进正余弦算法（improved sine cosinealgorithm，ISCA）并将其应用到多阈值图像分割领域。为解决标准SCA局部搜索能力较弱的问题，在保证运行效率的同时提高分割精度，进行了以下几部分改进：a）混沌初始化种群，提高初始种群质量;b)采用一种自适应参数策略代替原有的线性递减参数策略，根据粒子适应度值的大小动态调整参数以更好地平衡探索与开发能力;c）引入反向学习策略增加可选粒子数量，并择优选取粒子，增大随机性的同时提高种群进化速度。实验选取四幅伯克利图像以及两幅植物冠层图像，对比SAPSO、SSA、PSO、ALO与HSO五种优化算法。实验结果表明，ISCA增强了算法的局部搜索能力，使得求解精度得到有效地提高，其运行时间、分割精度等指标均优于对比算法，具有较高的鲁棒性，为后续的图像提取操作奠定了良好的基础。
+
+# 1 多阀值Otsu图像分割
+
+Otsu算法（最大类间方差法）是一种自适应确定二值化图像分割阈值的算法，由日本学者大津于1979年提出，该算法易于实现且在一定条件下不受亮度或对比度影响，因而被广泛应用于图像处理领域[13\~15]。其核心思想为：利用阈值将图像分割为背景、前景两部分，使得这两部分类间方差最大的阈值便为最优阈值。
+
+假设一幅图像具有 $M \times N$ 像素、 $\textbf { \em L }$ 个灰度级，其中灰度级为 $i$ 的点的概率为
+
+$$
+p _ { i } = n _ { i } / M N
+$$
+
+其中： $n _ { i }$ 表示灰度值为 $i$ 的像素个数。
+
+设阈值 $t$ 将整幅图像分为前景和背景两部分，则类间方差 $\sigma _ { \mathrm { B } } ^ { 2 }$ 是 $t$ 的函数：
+
+$$
+\sigma _ { \mathrm { B } } ^ { 2 } \left( t \right) = P _ { \mathrm { 0 } } \times \left( m _ { \mathrm { 0 } } - m _ { \mathrm { G } } \right) ^ { 2 } + P _ { \mathrm { 1 } } \times \left( m _ { \mathrm { 1 } } - m _ { \mathrm { G } } \right) ^ { 2 }
+$$
+
+其中： $P _ { 0 } = \sum _ { i = 0 } ^ { t } p _ { i } \ , P _ { 1 } = \sum _ { i = t + 1 } ^ { L - 1 } p _ { i }$
+
+$$
+m _ { 0 } = \frac { 1 } { P _ { 0 } } \sum _ { i = 0 } ^ { t } i p _ { i } ~ m _ { 1 } = \frac { 1 } { P _ { 1 } } \sum _ { i = t + 1 } ^ { L - 1 } i p _ { i } ~ m _ { \mathrm { G } } = \sum _ { i = 0 } ^ { L - 1 } i p _ { i }
+$$
+
+$P _ { 0 }$ 和 $P _ { 1 }$ 分别表示像素被分到前景和背景两类中的概率，$m _ { 0 }$ 和 $m _ { \mathrm { l } }$ 分别表示两类的平均灰度， $m _ { \mathrm { G } }$ 表示整幅图像的平均灰度，使 ${ \sigma _ { \mathrm { B } } } ^ { 2 } \left( t \right)$ 达到最大时的 $t ^ { * }$ 即为最优阈值。
+
+将该公式推广至多阈值，设阈值组合为 ${ \left( { t _ { 1 } , t _ { 2 } , . . . , t _ { K - 1 } } \right) }$ ，此时图像被分为 $\boldsymbol { K }$ 个类别，类间方差表示为：
+
+$$
+{ \sigma _ { \mathrm { B } } } ^ { 2 } \left( t _ { 1 } , t _ { 2 } , . . . , t _ { K - 1 } \right) = \sum _ { j = 0 } ^ { K - 1 } P _ { j } \left( m _ { j } - m _ { \mathrm { G } } \right) ^ { 2 }
+$$
+
+使得 $\sigma _ { \mathrm { B } } ^ { \mathrm { ~ 2 ~ } } \big ( t _ { 1 } , t _ { 2 } , . . . , t _ { K - 1 } \big )$ 达到最大值的阈值组合 $( { t _ { 1 } } ^ { * } , { t _ { 2 } } ^ { * } , . . . , { t _ { K - 1 } } ^ { * } )$ 即为最佳阈值组合。但传统的多阈值Otsu方法其本质就是穷举法，总计算量近似为 $O ( \boldsymbol { L } ) ^ { \kappa }$ ，且随着阈值个数 $K$ 的增加呈指数级增长，为提高程序运行效率，现采用ISCA算法对多阈值选取过程加以优化。
+
+# 2 正余弦优化算法（SCA）
+
+正余弦优化算法是由Mirjalili等人于2016年提出的新的随机群优化算法，其基本思想是利用正余弦函数的震荡特性逐步收敛于最优解，向外波动进行全局探索，向最优解波动进行局部开发。
+
+利用SCA算法求解优化问题的思路为：在 $D$ 维空间中初始化产生数量为 $m$ 的种群，种群中第 $i ( i = 1 , 2 , . . . , m )$ 个粒子的位置表示为 $x _ { i } = \left( x _ { i 1 } , x _ { i 2 } , . . . , x _ { i D } \right)$ ，通过计算粒子对应适应度函数值 $f ( x )$ 并加以比较，得到当前最优个体位置$p _ { \mathrm { g } } = \left( p _ { \mathrm { g l } } , p _ { \mathrm { g 2 } } , . . . , p _ { \mathrm { g } D } \right)$ ，其中粒子更新位置的公式如下：
+
+$$
+x _ { i j } ^ { t + 1 } = \left\{ \begin{array} { l l } { x _ { i j } ^ { t } + r _ { 1 } \times \sin \left( r _ { 2 } \right) \times \left| r _ { 3 } p _ { g j } ^ { t } - x _ { i j } ^ { t } \right| } & { r _ { 4 } < 0 . 5 } \\ { x _ { i j } ^ { t } + r _ { 1 } \times \cos \left( r _ { 2 } \right) \times \left| r _ { 3 } p _ { g j } ^ { t } - x _ { i j } ^ { t } \right| } & { r _ { 4 } \geq 0 . 5 } \end{array} \right.
+$$
+
+其中： $r _ { 2 } \in \left( 0 , 2 \pi \right)$ ， $r _ { 3 } \in ( 0 , 2 )$ ， $r _ { 4 } \in ( 0 , 1 )$ 为均匀随机数，参数 $r _ { \mathrm { i } }$ 线性递减，其表达式如下：
+
+$$
+r _ { 1 } = a \times \left( 1 - \frac { t } { t _ { \operatorname* { m a x } } } \right)
+$$
+
+其中： $\mathbf { \Delta } _ { a }$ 为常数， $\textit { t }$ 为当前迭代次数， $t _ { \mathrm { m a x } }$ 为最大迭代次数。由式(4)可以看出SCA算法共有4个主要参数，分别为 $r _ { 1 } , r _ { 2 } , r _ { 3 }$ 和 $r _ { 4 }$ 。正是因为随机参数和线性递减参数的设置使得算法很好地平衡了全局探索与局部开发能力[16]。参数 $r _ { 1 }$ 决定了粒子下一次移动的方向，参数 $r _ { 2 }$ 则控制了移动的距离，参数 $r _ { 3 }$ 引入了一定的修正策略，赋给当前最优解一个随机的权值，以增大或减小当前移动方向所产生的效果，参数 $r _ { 4 }$ 的作用是在
+
+正余弦函数间随机切换。
+
+# 3 改进正余弦优化算法 (ISCA)
+
+# 3.1混沌初始化
+
+初始种群质量对SCA算法来说是至关重要的，而一个良好的初始种群可使其在收敛速度、求解精度等方面得到显著提升。以往的初始化操作是基于rand函数进行的，尽管该方法有着良好的随机性，但其分布情况往往不尽人意。而混沌变量具有随机性、遍历性、规律性的特点，可以很好地保持群体多样性[17\~18]。这里选用Logistic 这一经典混沌映射进行初始化操作，其表达式如下：
+
+$$
+x _ { n + 1 } = \mu x _ { n } \left( 1 - x _ { n } \right)
+$$
+
+其中： $\mu \in \left( 0 , 4 \right]$ ， $x _ { n } \in ( 0 , 1 )$ ， $\mu$ 越大混沌性越高， $\mu = 4$ 时系统处于完全混沌状态。
+
+混沌初始化步骤如下：
+
+a)利用rand函数随机生成种群的第一个粒子 $x ( i , : )$ 。St 混沌初始化下一个粒子，对 $x ( i , : )$ 的每个维度进行归一化操作并赋值给 $x \big ( i + 1 , : \big )$ ，使其在[0,1]内。c)根据式（6）进行Logistic 映射，生成混沌变量 $c x ( j )$ ，其中 $j = 1 , 2 , . . . , D$ ，代表当前维度。d)利用混沌变量 $c x ( j )$ 将 $x ( i + 1 , j )$ 映射回原始空间，公式为
+
+$$
+x \big ( i + 1 , j \big ) = x _ { \operatorname* { m i n } } + c x \big ( j \big ) * \big ( x _ { \operatorname* { m a x } } - x _ { \operatorname* { m i n } } \big ) \mathrm { ~ } _ { \mathrm { ~ o ~ } }
+$$
+
+e)判断是否遍历所有粒子，否则转向 $\mathbf { b }$ ）
+
+# 3.2自适应参数策略
+
+根据以上分析不难看出，SCA算法中参数 $r _ { 1 }$ 起着至关重要的作用，当 $r _ { 1 } > 1$ 时控制粒子向远离最优解方向移动以加强全局搜索能力， $r _ { 1 } < 1$ 时控制粒子向着最优解移动以加强局部开发能力。但标准SCA算法中参数 $r _ { \mathrm { i } }$ 仅仅随着迭代次数的增加而线性减小，并没有考虑到每个粒子的实际情况，严重影响了种群的进化速度以及算法寻优能力。
+
+因此本文采用了一种自适应参数调整策略，该策略可以针对每个粒子的不同情况加以赋值，在保证全局探索质量的同时增强了SCA 算法局部开发能力[19]。相较原来仅随迭代次数变化而线性改变参数的策略而言，自适应参数策略普遍性更强、适应度更高，公式如下：
+
+$$
+r _ { 1 } = \{ \begin{array} { l l } { r _ { \mathrm { i m e d } } - | \displaystyle \frac { f _ { i } - f _ { \mathrm { b a v } } } { f _ { \mathrm { g } } - f _ { \mathrm { b a v } } } | \times ( r _ { \mathrm { i m e d } } - r _ { \mathrm { i m i n } } ) } & { f _ { i } < f _ { \mathrm { b a v } } } \\ { r _ { 1 } = \{ ( r _ { \mathrm { i m a x } } - r _ { \mathrm { i m i n } } ) \times ( 1 - \displaystyle \frac { t } { t _ { \mathrm { m a x } } } ) \quad } & { f _ { \mathrm { b a v } } \leq f _ { i } \leq f _ { \mathrm { a v } } } \\ { r _ { \mathrm { i m e d } } + \displaystyle \frac { ( r _ { \mathrm { i m a x } } - r _ { \mathrm { i m i n } } ) } { 2 } \times \mathrm { r a n d } } & { f _ { i } > f _ { \mathrm { a v } } } \end{array} 
+$$
+
+其中： $f _ { i }$ 为第 $i$ 个粒子的适应度函数值； $f _ { \mathrm { a v } }$ 为所有粒子的平均适应度函数值； $f _ { \mathrm { b a v } }$ 为所有适应度值优于 $f _ { \mathrm { a v } }$ 的粒子其适应度值的平均； $f _ { \mathrm { g } }$ 为当前最优适应度值； $r _ { \mathrm { l m e d } }$ 的定义如下：
+
+$$
+r _ { \mathrm { i m e d } } = { \frac { r _ { \mathrm { i m a x } } + r _ { \mathrm { i m i n } } } { 2 } }
+$$
+
+当 $f _ { i } < f _ { \mathrm { b a v } }$ 时，当前粒子距离种群中最优粒子位置较近，应赋给其一个较小的参数 $r _ { \mathrm { i } }$ 来加强算法的局部开发能力，避免错过最优位置；当 $f _ { \mathrm { b a v } } \leq f _ { i } \leq f _ { \mathrm { a v } }$ 时，当前粒子在种群内质量一般，令其参数 $r _ { 1 }$ 随迭代次数增加而线性递减以较好的平衡探索与开发能力；当 $f _ { i } > f _ { \mathrm { a v } }$ 时，当前粒子距离最优粒子较远，位置较不理想，故赋给其一个较大的参数 $r _ { \mathrm { i } }$ 以尽快向最优粒子靠近。
+
+# 3.3 反向学习策略
+
+反向学习策略是由Tizhoosh于2005年提出的一种优化学习方法，该策略的理论依据是：每个随机产生的候选解与它的反向解相比有 $50 \%$ 的概率更远离最优解[20]。因此，通过寻找当前解的反向解，并对二者进行评估，贪婪地选择较优秀的解作为候选解，进而引导种群向最优解逼近，提高种群进化速度以及算法的寻优能力，公式如下：
+
+$$
+x _ { i j } ^ { * } = k \left( a _ { j } + b _ { j } \right) - x _ { i j }
+$$
+
+其中： $x _ { i j } ^ { * }$ 为种群中第 $i$ 个粒子在第 $j$ 维度上的反向数； $a _ { j }$ 和 $b _ { j }$ 分别为第 $j$ 维度的上界与下界；参数 $k$ 决定反向学习的模型。
+
+本文依据一定概率 $p$ 执行反向学习操作，旨在增大随机性的同时降低算法复杂度。
+
+# 3.4算法描述
+
+混沌初始化策略能够生成高质量的初始种群，增强粒子分布的随机性；自适应参数策略则提高了粒子与其对应参数$r _ { \mathrm { i } }$ 的适配度，与仅随迭代次数增大而改变的线性递减策略相比，更好地平衡了SCA算法的探索与开发能力；反向学习策略增加了种群多样性，贪婪地选取优秀个体，增强算法局部开发能力的同时加快了种群进化速度，提高搜索效率，其流程如图1所示。
+
+![](images/0dfee217331e258c9426bb2400fb491e14368444ec7496734fc89b7cabe367bd.jpg)  
+图1改进正余弦算法流程图  
+Fig.1Flow chart of the Improved Sine Cosine Algorithm改进正余弦算法（ISCA）的基本步骤如下：
+
+a)随机生成群体规模为 $m$ 初始种群，利用式（6）混沌初始化每个粒子的位置，预先设定算法执行所需参数。
+
+b)计算出每个粒子适应度值 $f \left( i \right)$ ，并从中选出最优值记为 $f _ { \mathrm { g } }$ 。
+
+c)根据式（7）自适应地调整每个粒子的参数 $r _ { \mathrm { i } }$ 。
+
+d)根据式（4）更新各粒子位置，同时将其限制在最大范围 $\left[ 0 , L - 1 \right]$ 内。
+
+e)将更新后的位置代入适应度函数得到新的适应度值$f ( i { + } 1 )$ □
+
+f)若rand $> p$ ，则根据式（9）进行反向学习操作，并在当前解与反向解中择优选出候选解。
+
+g)将候选解对应适应度值与最优值 $f _ { \mathrm { g } }$ 比较，若优于 $f _ { \mathrm { g } }$ 则将其更新。
+
+h)判断是否满足迭代终止条件，若满足则退出循环，否则转向c)。
+
+# 4 实验结果及分析
+
+# 4.1实验背景
+
+为了验证ISCA算法在多阈值图像分割中的有效性，选取4幅伯克利经典图像以及2幅植物冠层图像加以分析研究，并与SAPSO、SSA、PSO、ALO、HSO 算法进行比较。其中SAPSO算法引入模拟退火思想，利用模拟退火算法的“突跳”能力有效地避免陷入局部最优，提高了算法性能；SSA樽海鞘算法是于2017年提出的新颖优化算法；ALO蚁狮算法与HSO和声搜索则在近些年被广泛应用于优化领域。本文通过程序运行时间以及图像分割精度来对各算法性能进行评判。其中对于图像分割精度的分析引入峰值信噪比（PSNR）和结构相似性（SSIM）两个指标，其定义如下[21]：
+
+$$
+P S N R = 1 0 \mathrm { l o g } _ { 1 0 } \bigg ( \frac { 2 5 5 ^ { 2 } } { M S E } \bigg )
+$$
+
+$$
+M S E = \frac { 1 } { M N } { \sum _ { i = 1 } ^ { M } } \sum _ { j = 1 } ^ { N } [ I \left( i , j \right) - K \left( i , j \right) ] ^ { 2 }
+$$
+
+其中： $I ( i , j )$ 和 $K ( i , j )$ 分别表示大小为 $M \times N$ 的原图像和分割图像。
+
+$$
+S S I M \left( x , y \right) = \frac { \left( 2 \mu _ { x } \mu _ { y } + c _ { 1 } \right) \left( 2 \sigma _ { x y } + c _ { 2 } \right) } { \left( \mu _ { x } ^ { 2 } + \mu _ { y } ^ { 2 } + c _ { 1 } \right) \left( \sigma _ { x } ^ { 2 } + \sigma _ { y } ^ { 2 } + c _ { 2 } \right) }
+$$
+
+其中： $\mu _ { x }$ 和 $\mu _ { y }$ 分别为原图像和分割图像平均灰度； $\sigma _ { x } ^ { 2 }$ 和 $\sigma _ { y } ^ { 2 }$ 分别为原图像和分割图像的方差； $\sigma _ { x y }$ 为原图像和分割图像的协方差； $c _ { 1 } = 6 . 5 0 2 5$ ， $c _ { 2 } = 5 8 . 5 2 2 5$
+
+植物冠层图像采集自东北林业大学模式识别与智能系统实验室，其图像分辨率为 $3 0 0 0 \times 4 0 0 0$ 。算法的实验环境为Windows10系统， $1 . 6 \mathrm { G H z }$ 处理器，8GB内存，64位操作系统，编程环境为MATLAB $\mathrm { R } 2 0 1 7 \mathrm { a }$ 。实验中各参数设置如下：粒子数目 $n = 3 0$ ，最大迭代次数 $t _ { \mathrm { m a x } } = 5 0 0$ ，各算法特性参数设置如表1所示。
+
+表1各算法参数设置  
+Table1Parameters of each algorithm   
+
+<html><body><table><tr><td>算法</td><td>参数</td><td>取值</td></tr><tr><td rowspan="3">ISCA</td><td>1</td><td>[0,2]</td></tr><tr><td>P</td><td>0.5</td></tr><tr><td>μ</td><td>4</td></tr><tr><td rowspan="2">SAPSO</td><td>T</td><td>-g/ln(0.1)</td></tr><tr><td>k</td><td>0.95</td></tr><tr><td>SSA</td><td>𝐶1</td><td>[0,2]</td></tr><tr><td rowspan="4">PSO</td><td></td><td>[0.4,0.9]</td></tr><tr><td>Vmax</td><td>25.5</td></tr><tr><td>C1</td><td>2</td></tr><tr><td>C2</td><td>2</td></tr><tr><td>ALO</td><td>W</td><td>[2,6]</td></tr><tr><td rowspan="3">HSO</td><td>PAR</td><td>0.3</td></tr><tr><td>HCMR</td><td>0.95</td></tr><tr><td>BW</td><td>25.5</td></tr></table></body></html>
+
+# 4.2伯克利经典图像分割实验
+
+为了验证本文优化算法在多阈值图像分割中的普适性，在伯克利图像库中随机选取4幅图片，如图2所示。以类间方差函数作为算法的适应度函数，利用ISCA算法对以上4幅图像多阈值分割的阈值选取过程加以优化。实验中所有图片选取的阈值为2、3、4、5。为定量地比较各优化算法在多阈值图像分割中的性能，本文对程序运行时间以及图像分割精度两方面进行了研究，其中各算法阈值情况如表2所示。首先对各算法分割阈值加以分析：当 $\scriptstyle \mathrm { K } = 2$ 时，所有算法的取值几乎相同。当 $\scriptstyle 1 = 3$ 时，ISCA算法搜索空间扩大，全局搜索能力得到提高，而其他算法性能提高不明显。当 $\scriptstyle 1 = 4$ ，5时，ISCA算法的全局搜索能力优势得以进一步体现，可在整个解空间内进行随机搜索操作，有效地避免了陷入局部最优。
+
+其次对各算法运行时间加以分析：由表3中数据可知，随着阈值个数的增加，算法复杂度呈指数次幂增长趋势，运行时间也随之增加。阈值个数 $\scriptstyle \mathrm { K } = 2$ ，3时，各算法运行时间差距较小。当取到较高阈值个数 $K = 5$ 时，各算法运行时间差距较大，其中 ALO 算法时间最慢。当 $\scriptstyle 1 = 3 , 4$ 时PSO 算法与ISCA 算法运行时间相近。但当阈值个数提升到5时，本文算法的优势得以体现，其运行时间随阈值个数增加而变化的幅度较小。本文提出的ISCA算法，尽管随着阈值个数的增加运行时间会有所增加，但在阈值个数 $K { = } 5$ 时仍运算时间优于其他算法，说明本文算法效率高，能够较快地完成图像分割任务。
+
+![](images/33fe031c8b9a600d7490d3a562b4815eefb51b7616c9dd6cb78aeb97e7a58206.jpg)  
+图2伯克利原始图像 Fig.2Original Berkeley images
+
+表2各算法最佳分割阈值  
+Table 2Optimal threshold values obtained by each algorithm   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">tiger</td><td></td><td></td><td></td><td></td><td>146</td><td></td><td>125</td><td></td><td></td><td></td><td></td><td>149</td><td></td><td>145</td><td>149</td><td>125</td><td>146</td><td>148</td><td>125</td></tr><tr><td></td><td>67</td><td>76</td><td>48 70</td><td>59 105</td><td>69 105</td><td>56 85</td><td>59 105</td><td>69 105</td><td>56 85</td><td>59 105</td><td>69 105</td><td>56 85</td><td>59 105</td><td>69 105</td><td>56 85</td><td>59 105</td><td>69 106</td><td>56 85</td></tr><tr><td>3</td><td>104 168</td><td>111 166</td><td>141</td><td>170 53</td><td>165</td><td>140</td><td>170</td><td>165</td><td>140</td><td>170</td><td>165</td><td>140</td><td>170</td><td>165</td><td>140</td><td>170</td><td>168</td><td>140</td></tr><tr><td></td><td>53</td><td>58</td><td>49</td><td>882</td><td>60</td><td>51 747</td><td>53</td><td>60 82</td><td>51 747</td><td>53</td><td>60</td><td>51</td><td>53</td><td>60</td><td>51</td><td>51</td><td>61</td><td>51</td></tr><tr><td>4</td><td>85</td><td>16</td><td></td><td>82</td><td></td><td></td><td>882</td><td></td><td></td><td>882</td><td>18</td><td>78</td><td>882</td><td>122</td><td>74</td><td>825</td><td>122</td><td>77</td></tr><tr><td></td><td>197</td><td>87 154</td><td>208</td><td>191</td><td>179</td><td>163</td><td>191</td><td>179 57</td><td>163 46</td><td>191 48</td><td>179</td><td>164 46</td><td>191</td><td>179</td><td>163</td><td>191</td><td>179</td><td>167</td></tr><tr><td rowspan="5"></td><td>43 53 5</td><td>31 54</td><td>49 64 93 112</td><td>47 73 105</td><td>56 80 107</td><td>46 65 88 124</td><td>47 73 105</td><td>81 108</td><td>64 86 121</td><td>74</td><td>56 80 107</td><td>64</td><td>47 73 105</td><td>56 80 107</td><td>46 65</td><td>48 76</td><td>59 84</td><td>45 64</td></tr><tr><td>78 114</td><td>78 123</td><td></td><td>145 199</td><td>144 197</td><td>181</td><td>145</td><td>145 198</td><td></td><td>106</td><td></td><td>86</td><td></td><td></td><td>87</td><td>109</td><td>111</td><td>87</td></tr><tr><td>167 92</td><td>168</td><td>157 59</td><td></td><td></td><td></td><td>199 90</td><td></td><td>177 61</td><td>146 200 90</td><td>144 197 77</td><td>120 176 61</td><td>145 199 90</td><td>144 197</td><td>122 178</td><td>148 198</td><td>154 204</td><td>132</td></tr><tr><td>2</td><td>76 180 160</td><td>142 27</td><td>90 174 63</td><td>77 158 59</td><td>61 136 34</td><td>174 63</td><td>77 158 59</td><td>136 35 75</td><td>174 63 114</td><td>158 59 104</td><td>136 35 75</td><td>174 63 114</td><td>77 158 59</td><td>61 136</td><td>90 174</td><td>77 157</td><td>196 61</td></tr><tr><td>3 horseman 4</td><td>70 121 185 66 109 212 39</td><td>53 104 167 55 9 206 41 72</td><td>65 121 16 145 22</td><td>114 186 60 106 213 52</td><td>104 172 53 93 199 42</td><td>74 140 30 6599 149 32 66</td><td>114 186 60 106 213 52</td><td>104 172 140 54 30 4 6699 199 149 42 28</td><td>186 60 108 213 52</td><td>172 53 93 199 42</td><td>140 30 669 149 28</td><td>186 60 106 213 52</td><td>104 172 54 4 199 42</td><td>35 75 140 30 6599 149 28</td><td>51</td><td>63 60 114 105 186 173 60 53 106 944 215 204 43</td><td>137 33 73 141 32 12 152</td></tr><tr><td rowspan="7">bridge</td><td>2</td><td>72 115 102 155 134 200</td><td>35 70 132 160</td><td>84 121 166 217</td><td>72 105 146 203</td><td>100 131 176</td><td>84 121 166 217</td><td>72 105 146 203</td><td>59 89 123 170 177</td><td>84 121 166 217 104</td><td>72 105 146 203 104</td><td>59 89 123 170 17</td><td>84 121 166 217 104</td><td>72 105 146 203</td><td>59 89 123 170</td><td>82 118 163 215</td><td>76 107 149 207</td><td>29 60 89 123 169</td></tr><tr><td>3</td><td>100 95 154 210</td><td>200 188 84 142 200 78</td><td>75 60 94</td><td>104 88 85 143 137 204</td><td>104 177 46 100 153</td><td>104 88 143 210</td><td>104 85 137 204</td><td>46 100 153</td><td>88 143 210</td><td>85 137 204</td><td>46 100 153</td><td>88 143</td><td>104 85 137 204</td><td>17 46 100</td><td>104 87 142</td><td>103 85 137</td><td>46 100</td></tr><tr><td>4</td><td>62 113 156 208</td><td>149 42 123 94</td><td>210 73 113</td><td>69 109</td><td>35 75</td><td>73 113</td><td>69 109</td><td>35 75</td><td>73 113</td><td>69 109</td><td>35 76</td><td>210 73 113</td><td>69 109</td><td>153 35 75</td><td>209 75 116</td><td>204 68 109</td><td>153 36</td></tr><tr><td></td><td>143 195</td><td>141 175</td><td>158 216</td><td>151 210</td><td>116 159</td><td>158 216</td><td>151 210</td><td>116 159 29</td><td>158 216 100</td><td>151 210 64 99</td><td>117 159 35 75</td><td>158 216 66 99</td><td>151 210</td><td>116 159 29</td><td>161 219</td><td>151</td><td>74 116 159</td></tr><tr><td>63 95</td><td>79</td><td>5 51</td><td>66 100</td><td>64</td><td>30</td><td>66</td><td>64</td><td></td><td>66</td><td></td><td></td><td></td><td>64 99</td><td>62</td><td>69 104</td><td>211 65 98</td><td>31</td></tr><tr><td>2</td><td>165</td><td>128</td><td>134 173</td><td>99 132</td><td>63 99</td><td>100</td><td>98 131</td><td>62 99 166</td><td>70</td><td>61</td><td></td><td></td><td>216 61</td><td>166</td><td>224</td><td>135 172</td><td></td></tr><tr><td>3 4</td><td>231 69 145 57 106 167</td><td>216 58 117 51 28</td><td>157 40 93</td><td>222 70 149</td><td>216 61 122</td><td>166 37 88</td><td>222 70 149</td><td>216 61 122</td><td>37 88 28</td><td>149 55</td><td>122</td><td>37 88</td><td>70 149</td><td>37 122 88</td><td>70 149</td><td>215 61</td><td>136 164 37</td></tr><tr><td rowspan="10">pig</td><td>5</td><td>113</td><td>85</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>170</td><td>222</td><td></td><td>99 133</td><td>136 174</td><td></td><td>65 101</td></tr><tr><td>147 186</td><td>129</td><td></td><td></td><td>166</td><td>133</td><td>134 173</td><td>165</td><td>133</td><td>134 173 222</td><td>132 166 216</td><td>116 142</td><td>133 172</td><td>132 166</td></table></body></html>
+
+# 表3各算法运行时间
+
+Table 3Running time obtained by each algorithm   
+表4各算法分割图像指标  
+
+<html><body><table><tr><td rowspan="2">图像</td><td rowspan="2">K</td><td colspan="6">时间（s)</td></tr><tr><td>ISCA</td><td>SAPSO</td><td>SSA</td><td>PSO</td><td>ALO</td><td>HSO</td></tr><tr><td rowspan="4">tiger</td><td>2</td><td>3.0457</td><td>4.4085</td><td>5.0922</td><td>4.4982</td><td>7.6689</td><td>4.0567</td></tr><tr><td>3</td><td>3.1123</td><td>4.7359</td><td>5.1177</td><td>4.5569</td><td>7.9659</td><td>5.6664</td></tr><tr><td>4</td><td>3.5673</td><td>4.7697</td><td>5.2516</td><td>4.6020</td><td>8.8888</td><td>6.4161</td></tr><tr><td>5</td><td>3.9151</td><td>5.3457</td><td>5.3464</td><td>4.7452</td><td>10.1538</td><td>7.2517</td></tr><tr><td rowspan="4">horseman</td><td>2</td><td>3.3988</td><td>3.5215</td><td>4.0104</td><td>3.4799</td><td>6.4452</td><td>4.1924</td></tr><tr><td>3</td><td>3.6110</td><td>4.6704</td><td>5.2647</td><td>4.2391</td><td>7.6996</td><td>4.6256</td></tr><tr><td>4</td><td>4.0773</td><td>4.9945</td><td>5.3161</td><td>4.6492</td><td>9.1019</td><td>4.8122</td></tr><tr><td>5</td><td>4.1974</td><td>5.3839</td><td>5.8027</td><td>4.8519</td><td>10.8712</td><td>5.2971</td></tr><tr><td rowspan="4">bridge</td><td>2</td><td>3.4149</td><td>4.0749</td><td>4.0320</td><td>4.6851</td><td>7.3420</td><td>4.3063</td></tr><tr><td>3</td><td>3.6381</td><td>4.6919</td><td>5.4292</td><td>4.6422</td><td>8.4288</td><td></td></tr><tr><td>4</td><td>3.7298</td><td>4.1349</td><td>5.4154</td><td>4.3438</td><td>9.3038</td><td>4.9381</td></tr><tr><td>5</td><td>4.2519</td><td>4.7859</td><td>5.4232</td><td>4.8032</td><td>10.6338</td><td>5.1670 5.4593</td></tr><tr><td rowspan="4">pig</td><td>2</td><td>3.2110</td><td>3.8976</td><td>5.1616</td><td>4.4941</td><td>7.0998</td><td></td></tr><tr><td>3</td><td>3.6821</td><td>4.9248</td><td>5.2334</td><td>4.6945</td><td>7.9815</td><td>4.3744</td></tr><tr><td>4</td><td>3.9859</td><td>4.9545</td><td>5.3763</td><td>4.7266</td><td>9.2002</td><td>4.5586</td></tr><tr><td>5</td><td>4.1130</td><td>5.2493</td><td>5.7323</td><td>4.8389</td><td>9.8534</td><td>4.7509 5.4511</td></tr></table></body></html>
+
+Table 4Indices of segmented image obtained by each algorithm   
+
+<html><body><table><tr><td rowspan="2">图像</td><td rowspan="2">K</td><td colspan="6">PSNR</td><td colspan="6">SSIM</td></tr><tr><td>ISCA</td><td>SAPSO</td><td>SSA</td><td>PSO</td><td>ALO</td><td>HSO</td><td>ISCA</td><td>SAPSO</td><td>SSA</td><td>PSO</td><td>ALO</td><td>HSO</td></tr><tr><td rowspan="4">tiger</td><td>2</td><td>14.3932</td><td>14.3737</td><td>14.3832</td><td>14.3832</td><td>14.3832</td><td>14.1392</td><td>0.3183</td><td>0.3169</td><td>0.3181</td><td>0.3181</td><td>0.3181</td><td>0.3087</td></tr><tr><td>3</td><td>17.0466</td><td>17.0313</td><td>17.0313</td><td>17.0313</td><td>17.0313</td><td>16.7344</td><td>0.4638</td><td>0.4638</td><td>0.4638</td><td>0.4530</td><td>0.4638</td><td>0.4636</td></tr><tr><td>4</td><td>19.3209</td><td>19.1908</td><td>19.1908</td><td>19.1947</td><td>19.1908</td><td>19.2525</td><td>0.5737</td><td>0.5679</td><td>0.5679</td><td>0.5675</td><td>0.5679</td><td>0.5700</td></tr><tr><td>5</td><td>21.6244</td><td>21.0907</td><td>20.9584</td><td>20.9790</td><td>21.0748</td><td>20.8383</td><td>0.6896</td><td>0.6522</td><td>0.6485</td><td>0.6494</td><td>0.6525</td><td>0.6398</td></tr><tr><td rowspan="4">horseman</td><td>2</td><td>14.4799</td><td>14.3832</td><td>14.3832</td><td>14.3832</td><td>14.3832</td><td>14.3776</td><td>0.3252</td><td>0.3181</td><td>0.3181</td><td>0.3181</td><td>0.3181</td><td>0.3180</td></tr><tr><td>3</td><td>17.0459</td><td>17.0313</td><td>17.0313</td><td>17.0313</td><td>17.0313</td><td>16.8233</td><td>0.4638</td><td>0.4557</td><td>0.4638</td><td>0.4638</td><td>0.4638</td><td>0.4498</td></tr><tr><td>4</td><td>19.7594</td><td>19.1917</td><td>19.1908</td><td>19.1878</td><td>19.1908</td><td>18.9160</td><td>0.5693</td><td>0.5675</td><td>0.5679</td><td>0.5679</td><td>0.5679</td><td>0.5498</td></tr><tr><td>5</td><td>22.4564</td><td>20.9709</td><td>21.0748</td><td>21.0688</td><td>20.9601</td><td>20.7858</td><td>0.6874</td><td>0.6481</td><td>0.6525</td><td>0.6525</td><td>0.6485</td><td>0.6444</td></tr><tr><td rowspan="4">bridge</td><td>2</td><td>14.2048</td><td>14.1361</td><td>14.1361</td><td>14.1361</td><td>14.1361</td><td>14.0884</td><td>0.4934</td><td>0.4918</td><td>0.4918</td><td>0.4918</td><td>0.4918</td><td>0.4889</td></tr><tr><td>3</td><td>16.7809</td><td>16.7379</td><td>16.7379</td><td>16.7379</td><td>16.7379</td><td>16.1889</td><td>0.6204</td><td>0.6191</td><td>0.6191</td><td>0.6191</td><td>0.6191</td><td>0.5887</td></tr><tr><td>4</td><td>19.3742</td><td>18.9590</td><td>18.9590</td><td>18.9588</td><td>18.9590</td><td>18.8898</td><td>0.7114</td><td>0.7113</td><td>0.7113</td><td>0.7070</td><td>0.7113</td><td>0.7082</td></tr><tr><td>5</td><td>20.3207</td><td>20.2488</td><td>20.2551</td><td>19.1329</td><td>20.2535</td><td>19.9317</td><td>0.7693</td><td>0.7680</td><td>0.7452</td><td>0.7637</td><td>0.7691</td><td>0.7593</td></tr><tr><td rowspan="4">pig</td><td>2</td><td>15.3413</td><td>15.3083</td><td>15.3083</td><td>15.3083</td><td>15.3083</td><td>15.3390</td><td>0.4216</td><td>0.4214</td><td>0.4214</td><td>0.4214</td><td>0.4214</td><td>0.4186</td></tr><tr><td>3</td><td>18.1568</td><td>17.2892</td><td>17.2620</td><td>17.2335</td><td>17.2620</td><td>17.3977</td><td>0.5546</td><td>0.5246</td><td>0.5509</td><td>0.5510</td><td>0.5509</td><td>0.5346</td></tr><tr><td>4</td><td>19.5513</td><td>19.5423</td><td>19.5423</td><td>19.5413</td><td>19.5423</td><td>19.3491</td><td>0.6394</td><td>0.6377</td><td>0.6377</td><td>0.6375</td><td>0.6377</td><td>0.6354</td></tr><tr><td>5</td><td>23.8224</td><td>21.3863</td><td>21.4014</td><td>21.4419</td><td>21.5022</td><td>21.9999</td><td>0.7016</td><td>0.6994</td><td>0.6993</td><td>0.6978</td><td>0.6996</td><td>0.6916</td></tr></table></body></html>
+
+多阈值图像分割的阈值个数越多，其分割图片的精度越高，即与原图更加接近。为定量地评估各优化算法在分割效果方面的能力，本文对各算法的PSNR和SSIM指标进行比较，其结果如表4所示。首先分析峰值信噪比PSNR，当 $\scriptstyle 1 = 2$ ，3时，各优化算法取值相近，说明其分割图像差别也不是很大，但相比之下本文算法仍有一定优势。当 $\mathrm { K } { = } 4 , 5$ 时，ISCA算法的分割指标增加明显，对于tiger和horseman 这种目标与背景相差较小、不易处理的图像，数值有明显提升。说明本文算法不仅适用于多维函数极值求解问题，在图像分割领域也有很强的工程实用性。其次分析结构相似性SSIM，从表4中可以看出，随着阈值个数的增加，分割图像的失真程度越低，更加接近于原图像。本文算法得到的指标均优于对比算法，ALO算法随着阈值个数的继续增加，其结构相似性指标则低于本文算法获得指标，说明ALO算法所得阈值与理想分割阈值相比仍有着一定差距，进而验证了ISCA算法寻优精度高，能够得到较好的分割阈值。本文提出的ISCA算法与其他对比算法相比性能最佳，得到的分割图像与原图像相似度最高，说明该算法能够胜任复杂图像的处理任务，更好地为后续植物冠层图像的识别与分割提供支持。为进一步证明多阈值分割方法在图像处理领域中的优异性能，能很好地将图像分为若干个具有特殊性质的独立区域，在下一节中将会对植物冠层图像进行实验与分析。
+
+# 4.3植物冠层图像分割实验
+
+植物的冠层作为植物最先接触到外界气体环境和光照的部位，其结构形态与植物的生长状况密切相关。为提高植物生长状态评估的可靠性，降低由于图像分割技术不成熟导致测算误差的可能，本节对植物冠层图像的分割进行了研究。选取2幅植物冠层图像进行多阈值分割实验，如图3所示，并与改进分水岭算法以及模糊聚类算法进行分割效果对比[22\~24]。为得到较好的分割效果阈值个数以及聚类数均设置为5。实验中ISCA算法参数的设置与上节一致，模糊聚类算法迭代终止条件设为相邻两次迭代差值小于0.001。
+
+为从分割图像中分割出植物冠层部分，本文进行了如下操作：
+
+a）从分割得到的 $\textstyle \mathrm { K } { + } 1$ 个区域中选取含有植物主体的区域并将其置1，其余部分置0。
+
+b)对选取的区域进行形态学处理（腐蚀，膨胀等操作），在得到的图像中提取最大连通区。上述操作反复进行，直到获得外轮廓线清晰且闭合的图像。
+
+c)对得到的最大连通区图像进行填洞处理并与原图像矩阵点乘，即可得到分割后的植物图像如图4所示。
+
+为了更好的验证本文提出的算法，将最大熵作为评测指标对比各算法的分割图像中的信息量，其定义如下：
+
+$$
+E n t r o p y = - P _ { 0 } \log P _ { 0 } - P _ { 1 } \log P _ { 1 }
+$$
+
+其中： $P _ { 0 }$ 与 $P _ { 1 }$ 分别为图像前景、背景像素占整幅图像的概率。  
+熵值越大代表图像所包含信息越丰富，即图像质量越高。
+
+![](images/e5343a6190b7dcea60437731c77dd377626af72a4272ba1fb69a3282e8c56935.jpg)  
+图3植物冠层图像Fig.3Plant canopy images
+
+各算法的植物冠层图像的分割图如图4所示，从图4可以明显地看出，本文提出的基于ISCA算法的多阈值图像分割方法优于其他分割算法，完整地将植物的叶片区域进行分割。从Plant1分割图像中可以看出，改进分水岭算法分割效果较差，存在欠分割现象，只能获得部分叶片。模糊聚类算法尽管获得叶子大致轮廓但仍存在叶片残缺及花盆区域，存在过分割现象。而相比之下本文算法分割质量较高，能够将花盆与冠层主体很好进行分割。从Plant2植物冠层的分割结果图可知，分水岭算法的分割能力较弱，对叶片的区域分割不完整。模糊聚类算法能够分割冠层主体区域，但由于叶片的受光不均导致分割效果较差，使叶片的分割结果存在残缺。本文算法有效地解决了受光不均的问题，很好地将冠层主体归为一类，有效的对叶片区域进行了分割。
+
+![](images/0b95220609eac94e9b30d4bd323472da8d5d600ce9e4d918eab57e656fed69d0.jpg)  
+Fig.4Segmented images of plant canopy
+
+各算法分割后图像的最大熵值和运行时间如表5所示。从表5中的最大熵值可知，改进的分水岭数值最差，本文提出的算法优其他对比算法，反映图像中的信息更多，分割效果更好。从CPU运行时间可知，模糊聚类算法尽管在分割效果上优于改进分水岭算法，但其运行时间较长。而本文算法的程序运行时间最短，对于 $K { = } 5$ 这种高阈值情况其运行时间较短，说明ISCA算法获得分割图像的速度更快，实时性更好，能够在保证分割质量的基础上减少运行时间。由以上分析可知，本文提出的基于ISCA的图像分割方法性能较好，能够胜任复杂图像的分割。
+
+表5各算法指标对比  
+Table 5Comparison of the indices obtained by each algorithm   
+
+<html><body><table><tr><td rowspan="2">图像</td><td colspan="3">最大熵</td><td colspan="3">运行时间（s)</td></tr><tr><td>本文算法</td><td>改进分水岭</td><td>模糊聚类</td><td>本文算法</td><td>改进分水岭</td><td>模糊聚类</td></tr><tr><td>Plant1</td><td>0.55482</td><td>0.21022</td><td>0.43235</td><td>2.382716</td><td>76.933121</td><td>116.095853</td></tr><tr><td>Plant2</td><td>0.77895</td><td>0.22682</td><td>0.67370</td><td>4.568249</td><td>89.217856</td><td>199.667319</td></tr></table></body></html>
+
+# 5 结束语
+
+本文提出了一种基于改进正余弦算法的多阈值图像分割方法，并利用该算法对图像分割的阈值选取过程加以优化。从伯克利图像的实验结果可知，该算法有效地提高了运行效率以及分割精度，表现出良好地适应性，很好地平衡了探索与开发能力，为图像的进一步处理奠定了基础。从植物冠层图像的分割实验可知，本文提出的算法能够完成复杂图像的分割。今后将会寻找更多有效的智能优化算法，并尝试与混沌搜索策略结合，将其应用到多阈值图像分割领域以提高算法的寻优精度。
+
+# 参考文献：
+
+[1]薛志文，杨傲雷，费敏锐，等．用于金属板图像分割的自适应阈值算 法[J].电子测量技术,2017,40(7):85-89.(Xue Zhiwen,Yang Aolei, Fei Minyue,et al. Adaptive threshold algorithm for metal plate image segmentation [J]. Electronic Measurement Technology,20o7,40(7): 85-89.)   
+[2]陈乔松，冉会琼，闫亚星，等．基于数据场和水平集演化的图像分割 [J]．重庆邮电大学学报:自然科学版，2018,30(2):257-264.(Chen Qiaosong,Ran Huiqiong,Yan Yaxing,et al. Image segmentation based on data field and horizontal set evolution [J]. Journal of Chongqing University of Posts and Telecommunications:Natural Science,2008,30 (2): 257-264.)   
+[3]杨章静，钱建军，黄璞，等．基于Gabor 变换的GrabCut 纹理图像分 割[J].控制与决策，2016,31(1):149-154.(Yang Zhangjing，Qian Jianjun, Huang Pu,et al. GrabCut texture image segmentation based on Gabor transformation [J].Control and Decision-making,2016,31(1): 149-154. )   
+[4]张桂梅，王大雷．结合LPG&PCA的中智学图像分割[J]．中国图象 图形学报，2014，19 (5):693-700.(Zhang Guimei，Wang Dalei. Combined with LPG&PCA image segmentation [J]. Chinese Journal of Image and Graphics,2014,19(5):693-700.)   
+[5]陈永艳，林丽华，田瑞．基于自动识别理论的车牌定位算法研究[J]. 内蒙古农业大学学报:社会科学版，2009,11(4):119-121.(Chen Yongyan,Lin Lihua,Tian Rui.Research on license plate location algorithm based on automatic recognition theory [J].Journal of Inner Mongolia Agricultural University:Social Science ，20o9,11 (4): 119-121. )   
+[6]于玉海，林鸿飞，孟佳娜，等．跨模态多标签生物医学图像分类建模 识别[J].中国图象图形学报,2018,23(6):917-927.(Yu Yuhai,Lin Hongfei,Meng Jiana,et al.Classification modeling recognition of cross-modal multi-label biomedical images [J]. Chinese Journal of Image and Graphics,1998,23 (6): 917-927.)   
+[7] 胡加鑫，贾鹤鸣，邢致恺，等．基于鲸鱼算法的森林火灾图像多阈值 分割[J].森林工程,2018,34(4):1-6.(Hu Jiaxin,Jia Heming,Xing Zhikai,et al. Multi-threshold segmentation of forest fire images based
+
+Uu wHaic aiguium [J]. ruicst EugmccIg,∠Uio,ə(+).1-0.）   
+[8]Khairuzzaman AK M, Chaudhury S.Multilevel thresholding using grey wolf optimizer for image segmentation [J].Expert Systems with Applications,2017,86: 64-76.   
+[9]Aziz MAE,A.Ewees A,Hassanien AE.Whale optimization algorithm and moth-flame optimization for multilevel thresholding image segmentation [J].Expert Systems with Applications,2017,83:242-256.   
+[10] Sarkar S,Das S,Chaudhuri S S.Multi-level thresholding with a decomposition-based multi-objectiveevolutionaryalgorithmfor segmenting natural and medical images [J]. Applied Soft Computing, 2017,50: 142-157.   
+[11]柳新妮，马苗．布谷鸟搜索算法在多阈值图像分割中的应用[J].计 算机工程,2013,39(7):274-278.(Liu Xinni,Ma Miao.The application of cuckoo search algorithm in multi-threshold image segmentation [J]. Computer Engineering,2013,39(7):274-278.）   
+[12] Mirjalili S.SCA:A Sine Cosine Algorithm for solving optimization problems [J].Knowledge-Based Systems,2016,96:120-133.   
+[13]张海涛，程新文，熊红伟，等．改进蜂群算法的图像阈值分割方法 [J]．计算机应 用研究,2017,34(12):3880-3884.(Zhang Haitao,Cheng Xinwen,Xiong Hongwei,et al. Image threshold segmentation method of improved bee swarm algorithm [J]. Application Eesearch of Computers,2017,34(12): 3880-3884.)   
+[14]杨陶，田怀文，刘晓敏，等．基于双界线的 Otsu 阈值分割法及其快 速算法[J].计算机应用研究，2016,33(12):3872-3875.(Yang Tao, Tian Huaiwen,Liu Xiaomin,et al.Otsu thresholding segmentation based on double boundaries and its fast algorithm [J].Application Research of Computers,2016,33(12):3872-3875.)   
+[15]石雨豪，胡威旺，尚睿，等．一种基于熵和聚类理论的图像阈值分割 算法[J].计算机应用研究,2016,33(7):2231-2235.(Shi Yuhao,Hu Weiwang,Shang Rui,et al. Image threshold segmentation algorithm based on entropy and clustering theory [J].Application Research of Computers,2016,33(7):2231-2235.）   
+[16]龙文，伍铁斌．协调探索和开发能力的改进灰狼优化算法[J].控制 与决策,2017,32 (10):1749-1757.(Long Wen,Wu Tiebin.Improved grey wolf optimization algorithm with coordinated exploration and development capability [J].Control and Decision-making,2007,32 (10): 1749-1757.)   
+[17]毕晓东，杨柏林．基于多源特征与混沌算法的彩色图像加密算法 [J]．控制工程,2018,25 (5):855-862.(Bi Xiaodong, Yang Bolin.Color image encryption algorithm based on multi-source feature and chaos algorithm[J].Control Engineering,2008,25 (5): 855-862.)   
+[18]许栋，崔小欣，王田，等．基于Logistic 映射的混沌随机数发生器研 究[J].微电子学与计算机,2016,33(2):1-6.(Xu Dong,Cui Xiaoxin, Wang Tian,et al. Study on chaotic random number generator based on Logistic mapping [J].Microelectronics and Computers,2016,33 (2): 1-6.)   
+[19] 曾艳阳，冯云霞，赵文涛．基于 logistic 映射的自适应变尺度混沌粒 子群算法[J]．系统仿真学报，2017，29(10):2241-2246.(Zeng Yanyang，Feng Yunxia, Zhao Wentao． An adaptive variable scale chaotic particle swarm algorithm based on logistic mapping [J]. Journal of System Simulation,2007,29 (10): 2241-2246.)   
+[20]汪慎文，丁立新，谢承旺，等．应用精英反向学习策略的混合差分演 化算法[J]．武汉大学学报：理学版，2013,59(2)：111-116.(Wang Shenwen,Ding Lixin，Xie Chengwang，et al.Hybrid differential evolution algorithm using elite reverse learning strategies [J]. Journal of Wuhan University (science),2013,59 (2): 11-116.)   
+[21]蒋刚毅，黄大江，王旭，等．图像质量评价方法研究进展[J]．电子 与信息学报,2010,32(1):219-226.(Jiang Gangyi, Huang Dajiang, Wang Xu, et al. Research progress of image quality evaluation methods [J].Journal of Electronics and Information,2010,32 (1):219-226)   
+[22]冀甜甜，崔嘉，董新锋，等．结合分水岭的纹理梯度各向异性图像分 割[J].中国图象图形学报,2017,22(7):926-934.(Ji Tiantian,Cui Jia, Dong Xinfeng,et al. Texture gradient anisotropy image segmentation combined with watershed [J]. Journal of Image and Graphics,2017,22 (7): 926-934)   
+[23]王展，杜平安，李杨，等．基于FCM聚类的示温漆图像分割算法[J]. 航空动力学报，2018,33(3):604-610.(Wang Zhan,Du Pingan,Li Yang,et al. Image segmentation algorithm based on FCM clustering [J]. Journal of Aerospace Power,2018,33 (3): 604-610)   
+[24]胡学刚，严思奇．基于FCM 聚类的图像分割算法[J].计算机工程 与设计，2018,39(1):159-164.(Hu Xuegang，Yan Siqi.Image segmentation algorithm based on FCM clustering [J]. Computer Engineering and Design,2018,39 (1):159-164)

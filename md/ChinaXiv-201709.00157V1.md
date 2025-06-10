@@ -1,0 +1,368 @@
+# Reheating phase diagram for single-field slow-roll inflationary models
+
+Rong-Gen Cai,\* Zong-Kuan Guo,† and Shao-Jiang Wang‡ State Key Laboratory of Theoretical Physics，Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 100190，China (Dated:September 10,2015)
+
+We investigate the influence on the inflationary predictions from the reheating processes characterized by the $e$ -folding number $N _ { \mathrm { r e h } }$ and the effective equation-of-state parameter $w _ { \mathrm { r e h } }$ during the reheating phase. For the first time, reheating processes can be constrained in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane from Planck 2015.We find that for Higgs inflation with a nonminimal coupling to gravity, the predictions are insensitive to the reheating phase for current CMB measurements.We also find that the spontaneously broken SUSY inflation and axion monodromy inflation with $\phi ^ { 2 / 3 }$ potential, which with instantaneous reheating lie outside or at the edge of the 95% confidence region in the $n _ { s } - r$ plane from Planck 2015 TT,TE,EE+lowP,can well fit the data with the help of reheating processes. Future CMB experiments would put strong constraints on reheating processes.
+
+# I. INTRODUCTION
+
+Models of single-field slow-roll inflation with a standard kinetic term provide a very good fit to the Planck data[1,2]. In the inflationary scenario,the Universe expands quasi-exponentially as the scalar field rolls slowly along a very flat potential. After inflation ends,the inflaton field oscillates around the minimum of the potential.During such a period of reheating,the energy in the inflaton is transferred to the plasma of standard model particles. Reheating is an integral part of inflationary models.Without reheating,the Universe after inflation would be empty and cold. However,the physics of reheating may be more complicated. As pointed out in Ref.[3], the equation-of-state parameter changes sharply during the reheating phase due to the out-of-equilibrium nonlinear dynamics of fields.
+
+Predictions of slow-roll inflationary models are usually derived given a reasonable range for the $e$ -foldingnumber $N _ { \mathrm { i n f } }$ during inflation.With more and more precise CMB measurements [1,2],it becomes important to consider the impact on the inflationary predictions from reheating processes [4-9]. It is pointed out that the reheating processes provide additional constraints on inflationary models via the reheating temperature [1O],and some specific inflationary models are investigated in Refs.[11-13] Although the physics of reheating is highly uncertain and unconstrained due to its nonlinear backreaction and nonperturbative nature,the reheating phase can in principle be characterized by two parameters only: the $e$ -folding number $N _ { \mathrm { r e h } }$ and the effective equation-of-state (EoS) parameter $w _ { \mathrm { r e h } }$ . In terms of these two parameters,one can express the observable quantities such as the scalar spectral index $n _ { s }$ and its running $\alpha _ { s }$ ,the tensor spectral index $n _ { t }$ and its running $\alpha _ { t }$ , the tensor-to-scalar ratio $r$ ， the $e$ -folding number $N _ { \mathrm { i n f } }$ ，and the reheating temperature $T _ { \mathrm { r e h } }$ ．Thus,reheating processes can be constrained in the $N _ { \mathrm { r e h } } { - } w _ { \mathrm { r e h } }$ plane by Planck constraints on $n _ { s }$ and （204 $r$ ：
+
+Following the approach proposed in Refs. [1O-12],in this paper we study several models of single-field slow-roll inflation including Higgs inflation,power-law potential, hilltop inflation,natural inflation,spontaneously broken (SB)SUSY inflation,and superconformal $\alpha$ -attractors. Although the reheating/preheating mechanisms are well studied in the Higgs inflation [14-16],the underlying mechanisms of unitarization and stabilization in Higgs inflation might have substantial impact on the reheating phase,as discussed in Ref.[17]. For Higgs inflation，we find that the inflationary predictions are insensitive to reheating processes given the current precision of CMB measurements. The same conclusion is also derived in Ref.[18]. We find that the SB SUSY inflation and powerlaw potential $\phi ^ { 2 / 3 }$ , which lie outside or at the edge of the $9 5 \%$ confidence region in the $n _ { s } - r$ plane from Planck 2015TT,TE,EE+lowP,can well fit the data if reheating processes are taken into account.However the constrained parameter space of reheating processes is still very large for most inflationary models due to current relatively weak constraints on inflation; future measurements of $n _ { s }$ and $r$ will eventually narrow down the parameter space,thus revealing the physics of the reheating era.
+
+The paper is organized as follows: In Sec.I we introduce the effective descriptions of the reheating phase in terms of $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ for single-field slow-roll inflationary models.In Sec.III we study some specific inflationary models. Section IV is devoted to conclusions.
+
+# II. DESCRIPTIONSOF THEREHEATING PHASE
+
+First, following the method proposed in Refs.[10-12], we derive a formula for the effective number of degrees of freedom $g _ { \mathrm { r e h } }$ at the end of the reheating phase.It is worth noting that one should not take this literally, since most of the observables are insensitive to the precise value of $g _ { \mathrm { r e h } }$ due to its logarithmic dependence.However, the derived formula of $g _ { \mathrm { r e h } }$ will be essential to carry out the inflationary predictions in the $N _ { \mathrm { r e h } } { - } w _ { \mathrm { r e h } }$ plane,which can be used to constrain the parameter space of the reheating phase to meet the current constraints on inflation.
+
+The pivot scale is chosen as $k _ { * } = 0 . 0 5 \mathrm { M p c } ^ { - 1 }$ ,which is also expressed by
+
+$$
+k _ { * } = a _ { * } H _ { * } = \frac { a _ { * } } { a _ { \mathrm { e n d } } } \frac { a _ { \mathrm { e n d } } } { a _ { \mathrm { r e h } } } \frac { a _ { \mathrm { r e h } } } { a _ { 0 } } a _ { 0 } H _ { * } .
+$$
+
+In what follows,the current scale factor $a _ { 0 } = 1$ and all quantities with subscript“ $^ *$ ” are evaluated at the moment when the pivot scale crosses the horizon.
+
+The first two factors of (1) can be computed by
+
+$$
+\frac { a _ { * } } { a _ { \mathrm { e n d } } } \frac { a _ { \mathrm { e n d } } } { a _ { \mathrm { r e h } } } = e ^ { - ( N _ { * } + N _ { \mathrm { r e h } } ) } .
+$$
+
+The third factor of (1） is computed as follows. We usetheconserationequationofetroy $g _ { \mathrm { r e h } } a _ { \mathrm { r e h } } ^ { 3 } T _ { \mathrm { r e h } } ^ { 3 } =$ $g _ { \gamma } a _ { 0 } ^ { 3 } T _ { \gamma } ^ { 3 } + g _ { \nu } a _ { 0 } ^ { 3 } T _ { \nu } ^ { 3 } = ( 4 3 / 1 1 ) T _ { \gamma } ^ { 3 } a _ { 0 } ^ { 3 }$ by noting that $g _ { \gamma } = 2$ ， $g _ { \nu } = ( 7 / 8 ) \times 3 \times 2 = 2 1 / 4$ ，and $T _ { \nu } ^ { 3 } = ( 4 / 1 1 ) T _ { \gamma } ^ { 3 }$ ； here we adopt $T _ { \gamma } = 2 . 7 2 5 5 \mathrm { ~ K ~ }$ .Thus, the third factor can be written as
+
+$$
+{ \frac { a _ { \mathrm { r e h } } } { a _ { 0 } } } = \left( { \frac { 4 3 } { 1 1 g _ { \mathrm { r e h } } } } \right) ^ { \frac { 1 } { 3 } } { \frac { T _ { \gamma } } { T _ { \mathrm { r e h } } } } ,
+$$
+
+where the temperature $T _ { \mathrm { r e h } }$ at the end of the reheating phase needs to be properly accounted for. Assuming that the whole history during the reheating phase can be effectively describedby the $e$ -foldingnumber $N _ { \mathrm { r e h } }$ and the effective EoS parameter $w _ { \mathrm { r e h } }$ ，we are able to relate the reheating phase to the inflationary phase via
+
+$$
+\begin{array} { l } { \displaystyle \rho _ { \mathrm { e n d } } = \frac { 3 } { 3 - \epsilon _ { \mathrm { e n d } } } V _ { \mathrm { e n d } } , } \\ { \displaystyle \rho _ { \mathrm { r e h } } = \rho _ { \mathrm { e n d } } e ^ { - 3 N _ { \mathrm { r e h } } \left( 1 + w _ { \mathrm { r e h } } \right) } , } \\ { \displaystyle \rho _ { \mathrm { r e h } } = \frac { \pi ^ { 2 } } { 3 0 } g _ { \mathrm { r e h } } T _ { \mathrm { r e h } } ^ { 4 } . } \end{array}
+$$
+
+The inflation ends when the first Hubble hierarchy parameter $\epsilon _ { H } = ( 3 / 2 ) ( 1 + w ) = 3 K / ( K + V ) = \epsilon _ { \mathrm { e n d } }$ therefore the kinetic energy $K _ { \mathrm { e n d } } = \epsilon _ { \mathrm { e n d } } V _ { \mathrm { e n d } } / ( 3 - \epsilon _ { \mathrm { e n d } } )$ ; thus the total energy density $\rho _ { \mathrm { e n d } } = K _ { \mathrm { e n d } } + V _ { \mathrm { e n d } } = 3 V _ { \mathrm { e n d } } / ( 3 -$ （204号 $\epsilon _ { \mathrm { e n d } }$ ).The second equation above comes from direct calculation of $\begin{array} { r } { \rho _ { \mathrm { r e h } } = \rho _ { \mathrm { e n d } } \exp \left( - 3 \int _ { a _ { \mathrm { e n d } } } ^ { a _ { \mathrm { r e h } } } ( 1 + w _ { \mathrm { r e h } } ) \mathrm { d } \ln a \right) = } \end{array}$ $\rho _ { \mathrm { e n d } } e ^ { - 3 N _ { \mathrm { r e h } } ( 1 + w _ { \mathrm { r e h } } ) }$ . Combining the above three equations gives rise to
+
+$$
+T _ { \mathrm { r e h } } ^ { 4 } = \frac { 9 0 V _ { \mathrm { e n d } } } { \pi ^ { 2 } ( 3 - \epsilon _ { \mathrm { e n d } } ) g _ { \mathrm { r e h } } } e ^ { - 3 N _ { \mathrm { r e h } } ( 1 + w _ { \mathrm { r e h } } ) } .
+$$
+
+Inserting(7) into (3） gives the final expression for the third factor of (1).
+
+The last factor $H _ { * }$ is usually fixed by Planck normalization $A _ { s } = H _ { * } ^ { 2 } / 8 \pi ^ { 2 } \epsilon _ { * }$ ,namely $H _ { * } = \pi \sqrt { r _ { * } A _ { s } / 2 }$ . However,it requires full knowledge on the tensor-to-scalar ratio $r _ { * }$ and the consistency relation $r _ { * } = 1 6 \epsilon _ { * }$ ，both of which have not been observed or confirmed yet.A more conservative way to compute $H _ { * }$ is to use the slow-roll equation
+
+$$
+3 H _ { * } ^ { 2 } = V _ { * } .
+$$
+
+Combining (2)，(3)，and (8） together gives the final formula for the effective number of degrees of freedom at the end of the reheating phase:
+
+$$
+\begin{array} { l l l } { \displaystyle { g _ { \mathrm { r e h } } = \left( \frac { T _ { \gamma } } { k _ { * } } \right) ^ { 1 2 } \left( \frac { 4 3 } { 1 1 } \right) ^ { 4 } \left( \frac { 3 - \epsilon _ { \mathrm { e n d } } } { 8 1 0 } \right) ^ { 3 } \left( \frac { \pi ^ { 6 } V _ { * } ^ { 6 } } { V _ { \mathrm { e n d } } ^ { 3 } } \right) } } \\ { \displaystyle { \phantom { \frac { 1 } { 1 2 } } \times \exp \left( 9 N _ { \mathrm { r e h } } \left( w _ { \mathrm { r e h } } - \frac { 1 } { 3 } \right) - 1 2 N _ { * } \right) . } } \end{array}
+$$
+
+Next,we apply (9) for general single-field slow-roll inflationary potential $V ( \phi , p )$ with only one parameter $p$ (for multiparameter inflationary potential, one has to fix some of its parameters).The inflation ended when the slow-roll condition was broken:
+
+$$
+\epsilon ( \phi _ { \mathrm { e n d } } , p ) = \epsilon _ { \mathrm { e n d } } \Rightarrow \phi _ { \mathrm { e n d } } ( p ) .
+$$
+
+Once we have the field value of $\phi _ { \mathrm { e n d } } ( p )$ at the end point of inflation,we have the potential energy density at that moment:
+
+$$
+V ( \phi _ { \mathrm { e n d } } ( p ) , p ) \equiv V _ { \mathrm { e n d } } ( p ) .
+$$
+
+To compute $H _ { * }$ via the slow-roll equation $3 H _ { * } ^ { 2 } = V _ { * }$ ,one requires the field value of $\phi _ { * }$ when the pivot scale crosses the horizon. This can only be done by inputting Planck observations on the scalar power spectrum amplitude via
+
+$$
+A _ { s } = \frac { 1 } { 2 4 \pi ^ { 2 } } \frac { V ( \phi _ { * } , p ) } { \epsilon ( \phi _ { * } , p ) } \Rightarrow \phi _ { * } ( p ) .
+$$
+
+Once we know the field value of $\phi _ { * } ( p )$ ，we have all the information needed to restore $H _ { * } = \sqrt { V _ { * } / 3 }$ by
+
+$$
+V ( \phi _ { * } ( p ) , p ) \equiv V _ { * } ( p ) .
+$$
+
+There is one more quantity to complete the evaluations, which is the $e$ -folding number during inflation:
+
+$$
+\int _ { \phi _ { \mathrm { e n d } } ( p ) } ^ { \phi _ { * } ( p ) } \frac { V ( \phi , p ) } { V _ { \phi } ^ { \prime } ( \phi , p ) } \mathrm { d } \phi \equiv N _ { * } ( p ) .
+$$
+
+Combining(11),(13),and (14) together,we have
+
+$$
+\begin{array} { r l r } {  { g _ { \mathrm { r e h } } ( p , N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) } } \\ & { } & { = ( \frac { T _ { \gamma } } { k _ { * } } ) ^ { 1 2 } ( \frac { 4 3 } { 1 1 } ) ^ { 4 } ( \frac { 3 - \epsilon _ { \mathrm { e n d } } } { 8 1 0 } ) ^ { 3 } \frac { \pi ^ { 6 } V _ { * } ^ { 6 } ( p ) } { V _ { \mathrm { e n d } } ^ { 3 } ( p ) } } \\ & { } & { \times \exp ( 9 N _ { \mathrm { r e h } } ( w _ { \mathrm { r e h } } - \frac { 1 } { 3 } ) - 1 2 N _ { * } ( p ) ) . } \end{array}
+$$
+
+Finally, three comments on(15） follow:
+
+1.It can be tested that the general formalism presented above is insensitive to the precise values of （20 $\epsilon _ { \mathrm { e n d } }$ and $g _ { \mathrm { r e h } }$ due to the logarithmic dependence. Therefore，it suffices to take the fiducial values （ $\epsilon _ { \mathrm { e n d } } ~ = ~ 1$ ， $g _ { \mathrm { r e h } } ~ = ~ 1 0 6 . 7 5$ for Higgs inflation and （2 $g _ { \mathrm { r e h } } = 1 0 ^ { 3 }$ for other single-field slow-roll inflationary models.
+
+2. The $w _ { \mathrm { r e h } } = 1 / 3$ case should be seen as the equivalent case $N _ { \mathrm { r e h } } = 0$ ,which presents an instantaneous reheating process.We will see in the next section that an instantaneous reheating process manifests itself as an asymptotic line in the $N _ { \mathrm { r e h } } { - } w _ { \mathrm { r e h } }$ plane.
+
+3.The degeneracy between between the phases is the source of the freedom of choices of $N _ { * }$ in the $n _ { s } - r$ plane.This can be seen from the fact that any shift $\Delta N _ { * }$ from $N _ { * }$ can be compensated by the shifts （204号 $\Delta N _ { \mathrm { r e h } }$ and $\Delta w _ { \mathrm { r e h } }$ from $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ ，provided that $9 N _ { \mathrm { r e h } } \Delta w _ { \mathrm { r e h } } + 9 \Delta N _ { \mathrm { r e h } } ( w _ { \mathrm { r e h } } + \Delta w _ { \mathrm { r e h } } - \mathrm { \Omega } _ { 3 } ^ { \mathrm { 1 } } ) =$ （204号 $1 2 \Delta N _ { * }$ ：
+
+# III. REHEATINGPHASEDIAGRAM
+
+We start with the usual $n _ { s } - r$ plane.By solving the equations
+
+$$
+\begin{array} { l } { \displaystyle { A _ { s } = \frac { 1 } { 2 4 \pi ^ { 2 } } \frac { V ( \phi _ { * } , p ) } { \epsilon ( \phi _ { * } , p ) } , } } \\ { \displaystyle { N _ { * } = \int _ { \phi _ { \mathrm { e n d } } ( p ) } ^ { \phi _ { * } } \frac { V ( \phi , p ) } { V _ { \phi } ^ { \prime } ( \phi , p ) } \mathrm { d } \phi } } \end{array}
+$$
+
+with an input value of $A _ { s }$ ，one can express the field value $\phi _ { * } ( N _ { * } )$ and potential parameter $p ( N _ { * } )$ in terms of $e$ -folding number $N _ { * }$ during inflation.Hence,the inflationary predictions $n _ { s } ( \phi _ { * } ( N _ { * } ) , p ( N _ { * } ) ) \equiv n _ { s } ( N _ { * } )$ and $r ( \phi _ { * } ( N _ { * } ) , p ( N _ { * } ) ) \equiv r ( N _ { * } )$ can be made with respect to （204号 $N _ { * }$ in the $n _ { s } - r$ plane.However, the reheating phase variables $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ cannot be specified in this case in the $n _ { s } - r$ plane.
+
+To break the degeneracy between the inflationary phase and the reheating phase as mentioned in the previous section,we propose to solve the equations
+
+$$
+\begin{array} { l } { \displaystyle { A _ { s } = \frac { 1 } { 2 4 \pi ^ { 2 } } \frac { V ( \phi _ { * } , p ) } { \epsilon ( \phi _ { * } , p ) } , } } \\ { \displaystyle { g _ { \mathrm { r e h } } = g _ { \mathrm { r e h } } ( p , N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) } } \end{array}
+$$
+
+with input values of $A _ { s }$ and $g _ { \mathrm { r e h } }$ ，and the obtainedsolutions $\phi _ { * } ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } )$ and $p ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } )$ can be used to express inflationary observables like （204号 $n _ { s } ( \phi _ { * } ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) , p ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) ) \quad \mathrm { ~ \equiv ~ } \quad n _ { s } ( N _ { \mathrm { r e h } } ^ { \mathrm { ~ ~ } } )$ $n _ { s } ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } )$ ， （204 $r ( \phi _ { * } ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) , p ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) ) \equiv r ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } )$ ）in terms of reheating phase variables $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ . Other quantities like $N _ { * } ( p ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) ) ~ \equiv ~ N _ { * } ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } )$ in (14) and T $\mathrm { \Gamma } _ { \mathrm { r e h } } ( p ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) , N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } } ) \equiv T _ { \mathrm { r e h } } ( N _ { \mathrm { r e h } } , w _ { \mathrm { r e h } }$ ）in (7） can also be expressed in terms of reheating phase variables $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ . Expressing various observables in terms of reheating phase variables $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane will be referred as the reheating phase diagrams. It can be tested that the reheating phase diagrams are insensitive to different input values of greh·
+
+What priors should we choose for $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ in general?First，the inflation era ends when the EoS parameter equals $- 1 / 3$ ，and the radiation era begins when the EoS parameter equals $1 / 3$ . It seems that $w _ { \mathrm { r e h } }$ （204号 should be in the range $[ - 1 / 3 , 1 / 3 ]$ .However,it is possible to achieve potential dominance (with its EoS parameter equal to $- 1$ ）and kinetic dominance (with its EoS parameter equal to $^ { 1 }$ ),assuming a massive inflaton. Second,in the $n _ { s } - r$ plane,the inflationary predictions are usually made by choosing $N _ { \mathrm { i n f } }$ in the range [50,60], or more generally [4O,7O],which is actually degenerated with $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ ，because,as mentioned in the last section,any shift $\Delta N _ { * }$ from $N _ { * }$ can be compensated by the shifts $\Delta N _ { \mathrm { r e h } }$ and $\Delta w _ { \mathrm { r e h } }$ from $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ , provided that $9 N _ { \mathrm { r e h } } \Delta w _ { \mathrm { r e h } } + 9 \Delta N _ { \mathrm { r e h } } ( w _ { \mathrm { r e h } } + \Delta w _ { \mathrm { r e h } } - \frac { 1 } { 3 } ) = 1 2 \Delta N _ { * }$ Assuming the maximum $e$ -folding number during inflation $N _ { * } = 7 0$ which can be shifted by $\Delta N _ { * } = - 3 0$ ，and the maximum EoS parameter during reheating $w _ { \mathrm { r e h } } = 1$ which can be shifted by $\Delta w _ { \mathrm { r e h } } ~ = ~ - 2$ ，one can easily work out the minimum $e$ -folding number during reheating $N _ { \mathrm { r e h } } = 0$ ,which can be shifted by
+
+$$
+\Delta N _ { \mathrm { r e h } } = \frac { 1 2 \Delta N _ { \ast } - 9 N _ { \mathrm { r e h } } \Delta w _ { \mathrm { r e h } } } { 9 \left( w _ { \mathrm { r e h } } + \Delta w _ { \mathrm { r e h } } - \frac { 1 } { 3 } \right) } = 3 0 .
+$$
+
+Therefore,without preknowledge on the reheating phase, one can in general choose $N _ { \mathrm { r e h } }$ in the prior $[ 0 , 3 0 ]$ and $w _ { \mathrm { r e h } }$ in the prior $[ - 1 , 1 ]$ ，which will cover $N _ { * }$ in the range [40,7O]. A constant EoS parameter $w _ { \mathrm { r e h } }$ in this sense should be viewed as an effective parameter timeaveraging the EoS parameter during the whole reheating process.
+
+# A. Reheating phase diagram for Higgs inflation
+
+In the Higgs inflation,the Higgs field with a large nonminimal coupling to Einstein gravity in the Jordan frame can give rise to an exponential plateau-like potential in the large field region in the Einstein frame where the inflaton is defined.The action in the Jordan frame is
+
+$$
+S _ { J } = \int \mathrm { d } ^ { 4 } x \sqrt { - g } \left( \frac { M _ { \mathrm { P } } ^ { 2 } } { 2 } \Omega ^ { 2 } R - \frac { 1 } { 2 } ( \partial h ) ^ { 2 } - V ( h ) \right) ,
+$$
+
+where $V ( h ) = ( \lambda / 4 ) ( h ^ { 2 } - v ^ { 2 } ) ^ { 2 }$ with the vacuum expecta-tion value（VEV）of electroweak（EW） vacuum $v = 2 4 6$ GeV.Here the conformal factor
+
+$$
+\Omega ^ { 2 } = \frac { \widetilde { g } _ { \mu \nu } } { g _ { \mu \nu } } = 1 + \frac { \xi h ^ { 2 } } { M _ { \mathrm { P } } ^ { 2 } }
+$$
+
+andthe scalarfieldredefinition
+
+$$
+\left( { \frac { \mathrm { d } \chi } { \mathrm { d } h } } \right) ^ { 2 } = { \frac { 1 } { \Omega ^ { 2 } } } + { \frac { 6 M _ { \mathrm { P } } ^ { 2 } } { \Omega ^ { 2 } } } \left( { \frac { \mathrm { d } \Omega } { \mathrm { d } h } } \right) ^ { 2 }
+$$
+
+allow us to switch the action into the Einstein frame
+
+$$
+S _ { E } = \int \mathrm { d } ^ { 4 } x \sqrt { - \widetilde { g } } \left( \frac { M _ { \mathrm { P } } ^ { 2 } } { 2 } \widetilde { R } - \frac { 1 } { 2 } ( \widetilde { \partial } \chi ) ^ { 2 } - U ( \chi ) \right) ,
+$$
+
+where the kinetic terms for Einstein gravity and the new scalar field are both canonically normalized.The potential term
+
+$$
+U ( \chi ( h ) ) = \frac { V ( h ) } { \Omega ^ { 4 } } = \frac { \lambda M _ { \mathrm { P } } ^ { 4 } } { 4 \xi ^ { 2 } } \frac { \left( \frac { \xi h ^ { 2 } } { M _ { \mathrm { P } } ^ { 2 } } - \frac { \xi v ^ { 2 } } { M _ { \mathrm { P } } ^ { 2 } } \right) ^ { 2 } } { \left( 1 + \frac { \xi h ^ { 2 } } { M _ { \mathrm { P } } } \right) ^ { 2 } }
+$$
+
+canbeabbreviated as
+
+$$
+U ( \chi ( \phi ) ) = \frac { Z } { 4 } \frac { \phi ^ { 4 } } { ( 1 + \phi ^ { 2 } ) ^ { 2 } } \equiv V ( \phi )
+$$
+
+by using the dimensionless scalar feld $\phi = \sqrt { \xi } h / M _ { \mathrm { P } }$ and the combined parameter $Z = \lambda / \xi ^ { 2 }$ for later convenience. Here we ignore $v$ and set $M _ { \mathrm { P } } ^ { 2 } = 1$ from now on. In the large field region $h \gg M _ { \mathrm { P } } / \sqrt { \xi }$ ,one can solve the scalar field redefinition (23) to obtain $\chi \simeq \sqrt { 6 } M _ { \mathrm { P } } \ln \sqrt { \xi } h / M _ { \mathrm { P } } \equiv$ ${ \sqrt { 6 } } M _ { \mathrm { P } } \ln \phi$ ; thus an exponential plateau-like potential in the large field region
+
+$$
+U ( \chi ) = \frac { Z } { 4 } \left( 1 + e ^ { - \frac { 2 \chi } { \sqrt { 6 } } } \right) ^ { - 2 }
+$$
+
+is obtained as promised. The slow-roll dynamics with respect to the inflaton $\chi$ can be carried out directly by computing the slow-roll parameters
+
+$$
+\begin{array} { l } { \displaystyle \epsilon ( \phi ) = \frac { 4 } { 3 } \frac { 1 } { ( \phi ^ { 2 } + 1 ) ^ { 2 } } , } \\ { \displaystyle \eta ( \phi ) = - \frac { 4 } { 3 } \frac { 1 } { \phi ^ { 2 } + 1 } + \frac { 4 } { ( \phi ^ { 2 } + 1 ) ^ { 2 } } , } \\ { \displaystyle \zeta ^ { 2 } ( \phi ) = \frac { 1 6 / 9 } { ( \phi ^ { 2 } + 1 ) ^ { 2 } } - \frac { 1 6 } { ( \phi ^ { 2 } + 1 ) ^ { 3 } } + \frac { 6 4 / 3 } { ( \phi ^ { 2 } + 1 ) ^ { 4 } } , } \end{array}
+$$
+
+the $e$ -folding number during inflation
+
+$$
+N ( \phi _ { N } ) = \frac { 3 } { 4 } \left( \phi _ { N } ^ { 2 } - \phi _ { \mathrm { e n d } } ^ { 2 } - \ln \frac { 1 + \phi _ { N } ^ { 2 } } { 1 + \phi _ { \mathrm { e n d } } ^ { 2 } } \right) ,
+$$
+
+the scalar spectral indexes and its running and the tensorto-scalarratio
+
+$$
+\begin{array} { l } { { \displaystyle n _ { s } ( \phi _ { N } ) = 1 - \frac { 8 } { 3 } \frac { 1 } { \phi _ { N } ^ { 2 } + 1 } , } } \\ { { \displaystyle r ( \phi _ { N } ) = \frac { 6 4 } { 3 } \frac { 1 } { ( \phi _ { N } ^ { 2 } + 1 ) ^ { 2 } } , } } \\ { { \displaystyle \alpha _ { s } ( \phi _ { N } ) = - \frac { 3 2 } { 9 } \frac { 1 } { ( \phi _ { N } ^ { 2 } + 1 ) ^ { 2 } } + \frac { 3 2 } { 9 } \frac { 1 } { ( \phi _ { N } ^ { 2 } + 1 ) ^ { 3 } } } } \end{array}
+$$
+
+in terms of dimensionless $\phi$
+
+The reheating phase diagrams with respect to （204号 $n _ { s } , r , \alpha _ { s } , Z , T _ { \mathrm { r e h } } , N _ { \mathrm { i n f } }$ for Higgs inflation can be shown simultaneously in Fig.1 with input values of $g _ { \mathrm { r e h } } = 1 0 6 . 7 5$ and $\ln ( 1 0 ^ { 1 0 } A _ { s } ) = 3 . 0 9 4 \pm 0 . 0 3 4$ from the Planck 2015 normalization [2]. The dashed contour lines in the last panel are due to different input values of $\ln ( 1 0 ^ { 1 0 } A _ { s } ) =$ $3 . 0 9 4 \pm 0 . 0 3 4$ from the Planck 2015 normalization [2]. However, the dashed contour lines in other panels are too close to the solid contour lines to tell any difference.Therefore,it suffices to take the mean value for $\ln ( 1 0 ^ { 1 0 } A _ { s } )$ when other inflationary models are concerned. It can be seen in the first panel of Fig.1 that almost all possible reheating processes are allowed within the $1 \sigma$ region of $n _ { s } = 0 . 9 6 4 5 \pm 0 . 0 0 4 9$ reported by Planck 2015 TT,TE,EE+lowP [2]. This insensitivity of cosmological predictions on the reheating phase can be shown in other panels too.Therefore,the cosmological predictions (in cluding reheating temperature as already shown in Ref. [18] in the $n _ { s } - r$ plane) of Higgs inflation are insensitive to its reheating processes given the current precision of CMB measurements. However, the reheating processes should be appreciated for the future measurement of $n _ { s }$ （204号 with refined precision up to $1 \%$ and direct detection of primordial gravitational waves.
+
+# B. Reheating phase diagram for other models
+
+The reheating phase diagram can be also built to other single-field slow-roll inflationary models. Among those inflationary models selected by the Planck Collaboration [2]，we choose to study power-law potential, hilltop inflation，natural inflation，SB SUSY inflation, and superconformal $\alpha$ -attractors E/T-models.Since the models closest to Higgs inflation (equivalent to $R ^ { 2 }$ inflation to the lowest order in slow-roll approximation at tree level)in terms of Bayes evidence are brane inflation and exponential inflation,we expect the outcome of these two models would be essentially the same as Higgs inflation.From now on,we adopt the fiducial value $g _ { \mathrm { r e h } } = 1 0 ^ { 3 }$ and the mean value $\ln ( 1 0 ^ { 1 0 } A _ { s } ) = 3 . 0 9 2$ from Eand （20 $\Lambda$ CiD of iwhiah $n _ { s } ~ = ~ 0 . 9 6 5 2 _ { - 0 . 0 0 9 1 } ^ { + 0 . 0 0 9 3 }$ $r ~ < ~ 0 . 1 0 6$ $9 5 \%$ pivot scale $k _ { * } ~ = ~ 0 . 0 5 \mathrm { M p c ^ { - 1 } }$ will be used to constrain the reheating phase diagrams.As an aside,the reheating phase diagrams with respect to the $e$ -folding number $N _ { \mathrm { i n f } }$ during inflation are also presented for all models.
+
+# 1. Power-law potential
+
+Inflation models with power-law potential [19] motivated by axion monodromy [20,21] take values,such as （204号 $p = 4 / 3 , 1 , 2 / 3$ for
+
+$$
+V ( \phi ) = \Lambda ^ { 4 } \phi ^ { p } .
+$$
+
+The slow-roll approximations give
+
+$$
+\begin{array} { c } { \epsilon ( \phi ) = p ^ { 2 } / ( 2 \phi ^ { 2 } ) , } \\ { \eta ( \phi ) = p ( p - 1 ) / \phi ^ { 2 } , } \\ { \phi _ { \mathrm { e n d } } = p / \sqrt { 2 } , } \\ { N = ( \phi _ { N } ^ { 2 } - \phi _ { \mathrm { e n d } } ^ { 2 } ) / ( 2 p ) , } \end{array}
+$$
+
+![](images/2f479dae8a311515a4fa982f8b5f591ee003a674a9321403d07fd53dbee851ba.jpg)  
+FIG.1. Reheating phase diagrams for Higgs inflation. Cosmological predictions of $n _ { s } , r , \alpha _ { s } , Z , T _ { \mathrm { r e h } } , N _ { \mathrm { i n f } }$ are drawn with respect to phase variables $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ .The dashed contour lines in the last panel are due to different input values of （20 $\ln ( 1 0 ^ { 1 0 } A _ { s } ) = 3 . 0 9 4 \pm 0 . 0 3 4$ from the Planck 2015 normalization [2]. It can be shown in the first panel that almost all possible reheating processes are allowed within the $1 \sigma$ region of $n _ { s } = 0 . 9 6 4 5 \pm 0 . 0 0 4 9$ reported by Planck 2015 TT,TE,EE+lowP [2]. This insensitivity of cosmological predictions on the reheating phase can also be seen in other panels.
+
+which are necessary to carry out their reheating phase diagrams in Fig. 2. By requiring $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r ~ < ~ 0 . 1 0 6$ according to current constraints on inflation from Planck 2015 TT,TE,EE+lowP [2],one finds the parameter spaces of its reheating phase specified by the green color in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane.An interesting observation is that inflation models with a larger green area have larger Bayes factors,as shown in Table6in Ref.[2]. It is worth noting that the axion monodromy inflation with $\phi ^ { 2 / 3 }$ potential, which lies at the edge of the $9 5 \%$ confidence region in the $n _ { s } - r$ plane constrained byPlanck 2015TT,TE,EE $^ +$ lowP, can actually meet the current constraints on inflation from Planck 2O15 if the reheating processes [22] are taken into account.We did not present here the reheating phase diagrams for powerlaw potential with $p \geqslant 2$ ，because their reheating phase diagrams simply have no green region at all.(To put it in other words, the regions allowed for $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and regions allowed for $r < 0 . 1 0 6$ have no intersection.)
+
+# 2. Hilltopinflation
+
+Hilltop inflation [23] with inflationary potential
+
+$$
+V ( \phi ) = \Lambda ^ { 4 } \left( 1 - \frac { \phi ^ { p } } { \mu ^ { p } } + \cdot \cdot \cdot \right)
+$$
+
+considered here takes the small field limit $\phi \ll \mu$ with super-Planckian VEV $\mu \gg 1$ . The slow-roll approximations give
+
+$$
+\begin{array} { l } { \displaystyle \epsilon _ { 1 } ( \phi ) = - \frac { \dot { H } } { H ^ { 2 } } = \frac { p ^ { 2 } } { 2 \mu ^ { 2 } } \frac { ( \phi / \mu ) ^ { 2 p - 2 } } { ( 1 - ( \phi / \mu ) ^ { p } ) ^ { 2 } } , } \\ { \displaystyle \epsilon _ { 2 } ( \phi ) = \frac { \dot { \epsilon _ { 1 } } } { H \epsilon _ { 1 } } = \frac { 2 p } { \mu ^ { 2 } } \frac { p - 1 + ( \phi / \mu ) ^ { p } } { ( 1 - ( \phi / \mu ) ^ { p } ) ^ { 2 } } ( \phi / \mu ) ^ { p - 2 } , } \\ { \displaystyle \phi _ { \mathrm { e n d } } = \mu - 1 / \sqrt { 2 } + ( p - 1 ) / ( 4 \mu ) + \mathcal { O } ( 1 / \mu ^ { 2 } ) . } \end{array}
+$$
+
+in addition with
+
+$$
+\begin{array} { l } { \displaystyle { N = \frac { \mu ^ { 2 } } { 2 p } [ ( \frac { \phi _ { N } } { \mu } ) ^ { 2 } - ( \frac { \phi _ { \mathrm { e n d } } } { \mu } ) ^ { 2 }  } } \\ { \displaystyle { \phantom { \frac { 1 } { 2 p } \mu } + \frac { 2 } { p - 2 } ( ( \frac { \phi _ { N } } { \mu } ) ^ { 2 - p } - ( \frac { \phi _ { \mathrm { e n d } } } { \mu } ) ^ { 2 - p } ) ] } } \end{array}
+$$
+
+for $p \neq 2$ and
+
+$$
+N = \frac { \mu ^ { 2 } } { 4 } \left[ \left( \frac { \phi _ { N } } { \mu } \right) ^ { 2 } - \left( \frac { \phi _ { \mathrm { e n d } } } { \mu } \right) ^ { 2 } - 2 \ln \left( \frac { \phi _ { N } / \mu } { \phi _ { \mathrm { e n d } } / \mu } \right) \right]
+$$
+
+for $p = 2$ .It was constrained at the $9 5 \%$ C.L.that Planck 2015 favors hilltop inflation with $\log _ { 1 0 } \mu > 1 . 0 2 ( 1 . 0 5 )$ for （20 $p = \mathrm { 2 } , w _ { \mathrm { r e h } } = \mathrm { 0 }$ (allowing $w _ { \mathrm { r e h } }$ to vary）and $\log _ { 1 0 } \mu >$ 1.05(1.02) for $p = 4 , w _ { \mathrm { r e h } } = 0$ （allowing $w _ { \mathrm { r e h } }$ to vary). However, the reheating phase diagrams for hilltop inflation presented in Fig.3 slightly loosen the bound on $\log _ { 1 0 } \mu$ .Each colored region is specified by requiring
+
+$0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r < 0 . 1 0 6$ with respect to different values of parameter $\mu$ . Larger values of $\mu$ will cover larger parts of parameter space in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane. However,lower values of $\mu$ would require more exotic reheating processes beyond theoretically reasonable reheating processes with $N _ { \mathrm { r e h } } \sim \mathcal { O } ( 1 )$ and $w _ { \mathrm { r e h } } \in [ - 1 / 3 , 1 / 3 ]$
+
+# 3.Natural inflation
+
+Natural inflation [24, 25] with periodic potential is expressed by
+
+$$
+V ( \phi ) = \Lambda ^ { 4 } \left[ 1 + \cos \left( \frac { \phi } { f } \right) \right] .
+$$
+
+As far as only $n _ { s }$ ， $r$ are concerned, natural inflation seems to recover the quadratic chaotic inflation when the scale of curvature of the potential $f  \infty$ . The slow-roll ap proximations give
+
+$$
+\begin{array} { c } { { \epsilon _ { 1 } ( \phi ) = - \displaystyle \frac { \dot { H } } { H ^ { 2 } } = \frac { 1 } { 2 f ^ { 2 } } \displaystyle \frac { \sin ^ { 2 } ( \phi / f ) } { ( 1 + \cos ( \phi / f ) ) ^ { 2 } } , } } \\ { { \epsilon _ { 2 } ( \phi ) = \displaystyle \frac { \epsilon _ { 1 } } { H \epsilon _ { 1 } } = \frac { 2 } { f ^ { 2 } } \displaystyle \frac { 1 } { 1 + \cos ( \phi / f ) } , } } \\ { { \phi _ { \mathrm { e n d } } = f \operatorname { a r c c o s } \left( \frac { 1 - 2 f ^ { 2 } } { 1 + 2 f ^ { 2 } } \right) , } } \\ { { N = f ^ { 2 } \ln \left( \displaystyle \frac { 1 - \cos ( \phi _ { \mathrm { e n d } } / f ) } { 1 - \cos ( \phi _ { N } / f ) } \right) , } } \end{array}
+$$
+
+which are necessary to carry out their reheating phase diagram in Fig.4.It was constrained at $9 5 \%$ C.L. that Planck 2O15 favors natural inflation with $\log _ { 1 0 } f >$ $0 . 8 4 ( 0 . 8 3 )$ for $w _ { \mathrm { r e h } } = 0$ (allowing $w _ { \mathrm { r e h } }$ to vary). As in the case of hilltop inflation, the reheating phase diagram presented in Fig. 4 slightly loosens the bound on $\log _ { 1 0 } f$ ,and smaller or larger values of $f$ will require more exotic reheating processes.However,since there are temporarily no observational constraints on reheating phase variables, one cannot simply rule out these parameter spaces.
+
+4.Spontaneously broken SUSY
+
+Spontaneously broken SUSY inflation [26] is described by the potential
+
+$$
+V ( \phi ) = \Lambda ^ { 4 } ( 1 + \alpha _ { h } \log \phi )
+$$
+
+![](images/08c1ed3d5b6a3b839fe4832400e2fb36f22ec80c898f8b132e89d211f2ce257a.jpg)  
+FIG.2. Reheating phase diagrams for power-law potential with $p = 4 / 3 , 1 , 2 / 3$ from the top row down. In the left column, the green colored region is specified by requiring requiring $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r < 0 . 1 0 6$ .The reheating phase diagrams with respect to $N _ { \mathrm { i n f } }$ are also presented in the right column.
+
+![](images/c4d7115b178243dd10214ae6912f4be1bb56cc0f5d3db269b1d8deb351cead23.jpg)  
+FIG.3.Reheating phase diagrams for hilltop inflation with $p = 2$ (first row） and $p = 4$ (second row).In the left column, each colored region is specified by requiring $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r < 0 . 1 0 6$ with respect to different values of parameter $\mu$ . In the right column, reheating phase diagrams with respect to $N _ { \mathrm { i n f } }$ are presented for the corresponding choices of parameter $\mu$ as in the left column.
+
+with a fat prior $[ - 2 . 5 , 1 ]$ for $\log _ { 1 0 } \alpha _ { h }$ . The slow-roll ap proximations give
+
+$$
+\begin{array} { r l } & { \epsilon ( \phi ) = \frac { \alpha _ { h } ^ { 2 } } { 2 \phi ^ { 2 } \left( 1 + \alpha _ { h } \log \phi \right) ^ { 2 } } , } \\ & { \eta ( \phi ) = - \frac { \alpha _ { h } } { \phi ^ { 2 } \left( 1 + \alpha _ { h } \log \phi \right) } , } \\ & { \phi _ { \mathrm { e n d } } = \sqrt { 2 } / \sqrt { W ( 2 \exp \left[ 2 / \alpha _ { h } \right] ) } , } \\ & { \quad N = \left( \frac { 1 } { 2 \alpha _ { h } } - \frac { 1 } { 4 } \right) \left( \phi _ { N } ^ { 2 } - \phi _ { \mathrm { e n d } } ^ { 2 } \right) } \\ & { \quad \quad \quad + \frac { 1 } { 4 } \left( \phi _ { N } ^ { 2 } \log \phi _ { N } ^ { 2 } - \phi _ { \mathrm { e n d } } ^ { 2 } \log \phi _ { \mathrm { e n d } } ^ { 2 } \right) . } \end{array}
+$$
+
+SUSY inflation is presented in Fig. 5. As in the case of natural inflation,smaller values of $\alpha _ { h }$ are allowed if one invokes more exotic reheating processes. Although SB SUSY inflation lies outside the $9 5 \%$ confidence region in the $n _ { s } - r$ plane constrained by Planck 2015 TT,TE,EE+lowP, there exist parameter spaces of reheating phase in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane to accommodate the Planck constraints on inflation.Therefore, SB SUSY inflation cannot be simply ruled out if the reheating phase is taken into account.
+
+Here $W ( z )$ is the Lambert function by definition $z \ =$ $W ( z ) \exp [ W ( z ) ]$ .The reheating phase diagram for SB
+
+![](images/c995d3055da8c8f591fb2c1ad7b90b26b8d7e55956168184d2f16093b9ebc5c7.jpg)  
+FIG.4.Reheating phasediagrams fornaturalinflation.Inthefrstpanel,each coloredregionisspecifed byrequiring $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r < 0 . 1 0 6$ with respect to different values of parameter $f$ . In the second panel, the reheating phase diagram with respect to $N _ { \mathrm { i n f } }$ is presented for the corresponding choices of parameter $f$ as in the first panel.
+
+![](images/47bf5f04a8d9ca4d2fff9ff25b1f50bcd68efcb0dfa3c2be13989eb876828ccb.jpg)  
+FIG.5.Reheating phase diagrams for SB SUSYinfation.In the firstpanel,each colored region is specifed byrequiring （204号 $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r < 0 . 1 0 6$ with respect to different values of parameter $\alpha _ { h }$ . In the second panel, the reheating phase diagram with respect to $N _ { \mathrm { i n f } }$ is presented for the corresponding choices of parameter $\alpha _ { h }$ as in the frst panel.
+
+# 5. $\alpha$ -attractors
+
+（204号 $\alpha$ -attractors E-models [27] with exponentially flat po tential
+
+$$
+V ( \phi ) = \Lambda ^ { 4 } \left( 1 - e ^ { - \frac { 2 \phi } { \sqrt { 6 \alpha } } } \right) ^ { 2 }
+$$
+
+approach the predictions on $( n _ { s } , r )$ of quadratic inflation for $\alpha  \infty$ and the Starobinsky model $\mathit { \Omega } ^ { \prime } n _ { s } = 1 { - } 2 / N , r =$ $1 2 / N ^ { 2 } )$ for $\alpha = 1$ and $\alpha$ attractors $( n _ { s } = 1 - 2 / N , r = 0 )$ （204 for $\alpha  0$ .Planck 2015 favors $\alpha$ -attractors E-models with $\log _ { 1 0 } \alpha ^ { 2 } < 1 . 7 ( 2 . 0 )$ for $w _ { \mathrm { r e h } } = 0$ （allowing $w _ { \mathrm { r e h } }$ to vary).However, the reheating phase diagram presented in Fig.6 slightly loosens the bound on $\alpha$ as expected.
+
+$\alpha$ -attractors T-models [27] with inflationary potential
+
+$$
+V ( \phi ) = \Lambda ^ { 4 } \operatorname { t a n h } ^ { 2 m } \left( \frac { \phi } { \sqrt { 6 \alpha } } \right)
+$$
+
+approach the predictions on $( n _ { s } , r )$ of power-law potential $\phi ^ { 2 m }$ for $\alpha  \infty$ and $\alpha$ attractors $( n _ { s } = 1 \mathrm { - } 2 / N , r = 0 )$ for $\alpha  0$ ．Planck 2015 favors $\alpha$ -attractors T-models with $\log _ { 1 0 } \alpha ^ { 2 } < 2 . 3 ( 2 . 5 )$ for $m = 1 , w _ { \mathrm { r e h } } = 0$ (allowing $w _ { \mathrm { r e h } }$ to vary） and $0 . 2 < m < 1 ( m < 1 )$ for $m \neq 1 , w _ { \mathrm { r e h } } = 0$ (allowing $w _ { \mathrm { r e h } }$ to vary). However,the reheating phase diagram presented in Fig. 6 slightly loosens the bound on $\alpha$ as expected.
+
+![](images/eb9d4a056571ca1bb610dbf17a98834f27bdfadb5f040d1bf9240bfd3343da3c.jpg)  
+FIG. 6. Reheating phase diagrams for $\alpha$ -attractors E-model (frst row) and T-model (second row） with $m = 1$ .In the left column,each colored region is specified by requiring $0 . 9 5 6 1 < n _ { s } < 0 . 9 7 4 5$ and $r < 0 . 1 0 6$ with respect to different values of parameter $\alpha$ . In the right column,reheating phase diagrams with respect to $N _ { \mathrm { i n f } }$ are presented for the corresponding choices of parameter $\alpha$ as in the left column.
+
+# IV.CONCLUSIONS
+
+In the $n _ { s } – r$ plane,one usually characterizes the uncertainties from the reheating phase by the choice of freedom on the $e$ -folding number of inflation.In this paper, we characterize the reheating phase by only two effective parameters, $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ . Thanks to the fact that observable quantities are insensitive to the effective number of degrees of freedom at the end of reheating phase,we are able to express all other inflationary observables in terms of the phase variables $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ .Therefore, for the first time we are able to constrain the parameter space of the reheating phase in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane with respect to the constraints on inflation from Planck 2015.For Higgs inflation，the parameter space of the reheating phase covers almost all the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane, indicating that inflationary predictions of Higgs inflation are insensitive to its reheating processes given the current precision of CMB measurements.However, future refined measurements on the scalar spectral index and direct detection of primordial gravitational waves will constrain the reheating phase variables. For other inflationary models selected by the Planck Collaboration, the constrained parameter spaces of the reheating phase generally loosen the bound on the potential parameters if more exotic reheating processes are allowed. Inflationary models with larger parameter spaces in the reheating phase diagrams generally appear with larger Bayes factors. Since there are only theoretical considerations, not observational constraints on the possible reheating phase,one cannot simply rule out those parameter spaces of the reheating phase with exotic reheating processes even if they lie outside the 95% confidence region in the $n _ { s }$ rplane constrainedbyPlanck 2015 TT,TE,EE+lowP. Only those inflationary models with no allowed parameter space of the reheating phase in the $N _ { \mathrm { r e h } } - w _ { \mathrm { r e h } }$ plane can be certainly ruled out.
+
+It should be acknowledged that in the case of warm inflation scenarios [28, 29],a separate reheating phase is not necessary [3o].Unlike the standard scenarios,where the inflaton field has to be coupled to other degrees of freedom in order to transfer its vacuum energy to reheat the Universe until the radiation era finally takes over, the inflaton field could slowly dissipate its kinetic energy into radiation;thus,the relative abundance of radiation may slowly increase during the inflation phase until it smoothly takes over.When taking these dissipative effects into consideration, one can actually accommodate, for example,the $\lambda \phi ^ { 4 }$ model,with the Planck data for a nearly thermalized state in a supersymmetric realization of warm inflation with renormalizable interactions [31].
+
+# ACKNOWLEDGMENTS
+
+We would like to thank Peng-Xu Jiang and JianWei Hu for helpful discussions. R.G.C.is supported by the Strategic Priority Research Program of the Chinese Academy of Sciences, Grant No. XDB09000000.Z.K.G. is supported by the National Natural Science Foundation of China,Grants No. 11175225 and No. 11335012.
+
+Note added Reference [18] recently showed up on arXiv.We both follow the same method to study a similar problem for Higgs inflation but with different angles. We characterize the reheating phase with $N _ { \mathrm { r e h } }$ and $w _ { \mathrm { r e h } }$ and express every other observable in terms of these two phase variables. The impact from various reheating processes on the inflationary predictions can be shown with respect to not only the reheating temperature but also other cosmological observables.We further study other inflationary models selected by the Planck Collaboration and find that the reheating phase diagram can be used to constrain the parameter space of the reheating phase to meet current constraints on inflation.
+
+[1]P.Ade et al. (Planck Collaboration),Astron.Astrophys. 571，A22 (2014)，arXiv:1303.5082 [astro-ph.CO].   
+[2] P.Adeetal.(Planck Collaboration), (2015), arXiv:1502.02114 [astr0-ph.CO].   
+[3] D.I. Podolsky, G. N. Felder, L. Kofman， and M. Peloso, Phys.Rev.D73,023501 (2006)，arXiv:hep-ph/0507096 [hep-ph].   
+[4] J.Martin and C.Ringeval，Phys.Rev. D82，023511 (2010),arXiv:1004.5525 [astro-ph.CO].   
+[5]J.Martin,C.Ringeval, and R. Trotta,Phys.Rev.D83, 063524 (2011),arXiv:1009.4157 [astro-ph.CO].   
+[6]J.Martin,C.Ringeval,and V.Vennin,Phys.Dark Univ. 5-6,75 (2014)，arXiv:1303.3787 [astro-ph.CO].   
+[7] J.Martin, C.Ringeval,R. Trotta,and V.Vennin,JCAP 1403,039 (2014),arXiv:1312.3529 [astro-ph.CO].   
+[8]J.Martin,C.Ringeval,and V.Vennin,JCAP1410,038 (2014),arXiv:1407.4034 [astro-ph.CO].   
+[9]J.Martin,C.Ringeval,and V.Vennin,Phys.Rev.Lett. 114,081303 (2015),arXiv:1410.7958 [astro-ph.CO].   
+10]L.Dai,M.Kamionkowski,and J.Wang,Phys.Rev.Lett. 113,041302 (2014)，arXiv:1404.6704 [astro-ph.CO].   
+11] P.Cremineli,D.L.Nacir,M. Simonovic,G. Trevisan, and M.Zaldarriaga，Phys.Rev.D90，083513 (2014), arXiv:1405.6264 [astro-ph.CO].   
+12]J.B.Munoz and M.Kamionkowski,Phys.Rev.D91, 043521 (2015),arXiv:1412.0656 [astro-ph.CO].   
+13] J.L. Cook，E. Dimastrogiovanni,D.A. Easson, and L.M.Krauss,JCAP1504,047(2015),arXiv:1502.04673 [astro-ph.CO].   
+14] F.L.Bezrukov and M. Shaposhnikov,Phys.Lett.B659, 703(2008),arXiv:0710.3755 [hep-th].   
+15]F.Bezrukov,D.Gorbunov，and M. Shaposhnikov,JCAP 0906,029 (2009)，arXiv:0812.3622 [hep-ph]   
+[16]J.Garcia-Bellido，D.G.Figueroa， and J. Rubio, Phys.Rev.D79，063531 (2009)，arXiv:0812.4624 [hepph].   
+[17] F.Bezrukov,J.Rubio，and M. Shaposhnikov，(2014), arXiv:1412.3811 [hep-ph].   
+[18]J.-O.Gong，S.Pi， and G.Leung，JCAP 1505,027 (2015),arXiv:1501.03604 [hep-ph].   
+[19] A.D.Linde,Phys.Lett.B129,177(1983).   
+[20]E.Silverstein and A.Westphal,Phys.Rev.D78,106003 (2008),arXiv:0803.3085 [hep-th].   
+[21]L．McAllister，E.Silverstein, and A. Westphal, Phys.Rev.D82,046003 (2010),arXiv:0808.0706 [hep-th].   
+[22] H. B. Moghaddam and R.Brandenberger，(2015), arXiv:1502.06135 [hep-th].   
+[23]L.Boubekeur and D.Lyth,JCAP 0507,O10 (2005), arXiv:hep-ph/0502047 [hep-ph].   
+[24] K. Freese，J. A. Frieman, and A.V.Olinto, Phys.Rev.Lett.65,3233(1990).   
+[25] F. C. Adams, J. R. Bond, K. Freese, J. A. Frieman, and A. V. Olinto,Phys.Rev. D47, 426 (1993),arXiv:hepph/9207245 [hep-ph].   
+[26]G.Dvali,Q. Shafi，and R.K. Schaefer,Phys.Rev.Lett. 73,1886 (1994),arXiv:hep-ph/9406319 [hep-ph].   
+[27]R.Kallosh,A.Linde，and D.Roest,JHEP 1311,198 (2013),arXiv:1311.0472 [hep-th].   
+[28] A.Berera,Phys.Rev.Lett.75,3218 (1995),arXiv:astroph/9509049 [astro-ph].   
+[29]A.Berera and L.-Z.Fang，Phys.Rev.Lett.74，1912 (1995),arXiv:astro-ph/9501024 [astro-ph].   
+[30] We thank an anonymous referee for pointing this out to us.
+
+[31]S.Bartrum,M.Bastero-Gil,A.Berera,R.Cerezo,R.O.
+
+Ramos，and J.G.Rosa,Phys.Lett.B732,116 (2014), arXiv:1307.5868 [hep-ph].

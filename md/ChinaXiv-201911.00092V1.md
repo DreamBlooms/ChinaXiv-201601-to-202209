@@ -1,0 +1,129 @@
+# 基于流式细胞术的乌饭树核DNA含量（2C-值）测定
+
+黄婧1，张敏1\*，林峰²，周鹏1，周洁1(1．江苏省林业科学研究院，南京 211153；2．南京林业大学，南京 210037)
+
+摘要：核DNA含量（2C-值）是描述植物生物多样性的一个重要特征参数。本试验利用流式细胞仪检测越橘属植物乌饭树核DNA含量。建立了适合乌饭树基因组的流式细胞术测定方法：以野生乌饭树的嫩叶为材料，以已知核DNA含量的水稻品种‘日本晴’为内标，采用GPB 解离液，细胞核悬液加入 ${ 5 0 \mu \mathrm { L } \cdot \mathrm { m L } ^ { - 1 } }$ 碘化丙啶染色 $5 \mathrm { m i n }$ 即可上机检测。9个乌饭树单株的核 DNA 含量平均值为 $1 . 2 2 { \pm } 0 . 0 3 \mathrm { p g }$ ，最小值为 $1 . 1 8 \mathrm { p g }$ ，最大值为 $1 . 2 7 { \mathrm { p g } }$ 。检测结果与已知的越橘属二倍体植株的2C-值含量相似，且不同地理来源的单株DNA含量没有显著差异（ $. P { > } 0 . 0 5 )$ ），推测这9个单株为二倍体植株。本研究测定的乌饭树核DNA含量（2C-值）可丰富越橘属植物的C-值库；基于流式细胞术建立的乌饭树核DNA含量测定方法可为该属其他植物的相关研究提供借鉴。
+
+关键词：乌饭树，核DNA含量，2C-值，流式细胞术中图分类号：Q946 文献标识码：A
+
+# Determination of nuclear DNA content (2C-value) of Vaccinium bracteatum by flow cytometry
+
+Huang Jing1, Zhang Min1\*,Lin Feng²,Zhou Peng', Zhou Jiel (1.Jiangsu Academy ofForestry,Nanjing 211153;2.Nanjing Forestry University,Nanjing 210037)
+
+Abstract: The plant nuclear DNA content (2C-value) is a principal characteristic parameter to describe biodiversity of plant species.For better understanding the nuclear DNA information of this plant, the nuclear DNA content of Vaccinium bracteatum wild plants were estimated by flow cytometry (FCM). In order to establish the optimal FCM method, young fresh leaves were taken as samples,and Oryza sativa subsp. japonica‘Nipponbare’ with known nuclear DNA content was set as internal standard.The nucleus of the mixed leaf cells was isolated by GPB dissociation solution and stained with ${ 5 0 \ \mu \mathrm { L } \cdot \mathrm { m L } ^ { - 1 } }$ propidium iodide (PI) with $5 \ \mathrm { m i n }$ ，then the PI emission fluorescence intensity was measured by flow cytometry. The results showed that the average nuclear DNA content of nine $V .$ bracteatum plants is $1 . 2 2 \mathrm { p g } { \pm } 0 . 0 3$ , the minimum value is $1 . 1 8 \mathrm { p g }$ （204 and the maximum is $1 . 2 7 ~ \mathrm { p g }$ .The results are similar to the nuclear DNA content of the known diploid plants of Vaccinium,and there is no significant difference in DNA content of plants from different geographical origins $( P { > } 0 . 0 5 )$ . It is speculated that these nine $V .$ bracteatum plants are diploid plants.The detected nuclear DNA contents (2C-value） of $V .$ bracteatum can enrich the
+
+C-value database of Vaccinium.The nuclear DNA content detection method established based on FCM for V. bracteatum can provide reference for related research of other Vaccinium species. Key words: Vaccinium bracteatum, nuclear DNA content, 2C-value, flow cytometry
+
+真核生物体细胞核中，染色体组数和DNA含量保持一定的数值，为了将DNA含量与染色体数目相区分，Swiftetal.（1950）提出了C-值（C-value）的概念，C-值是指真核生物细胞中，没有复制的单倍体细胞核（无论倍性水平）所含的DNA总量。C-值的单位可以用皮克（pg， ${ 1 } { \mathrm { p g } } { = } { 1 0 } ^ { - 1 2 } { \mathrm { g } } { \mathrm { , } }$ ）表示， $1 \mathrm { p g } \mathrm { D N A }$ 代表 $0 . 9 7 8 \times 1 0 ^ { 9 }$ 碱基对（base pairs，bp）（Dolezelet al.,2003）。C-值是植物的一项重要特征参数，与生物体的细胞大小、寿命、光合速率等生理参数有一定的相关性（Beaulieu etal.,2007），同时C-值具有种的特征，也与植物的种群进化、遗传信息总量等有密切关系，因此对植物的C-值进行研究有重要意义。目前，植物C-值数据库（http://data.Kew.org/cvalues/）包含超过8 500 个种的数据，包括被子植物、裸子植物，蕨类，苔藓，以及藻类的C-值数据，方便科研工作者查询与分析。
+
+核 DNA 含量一般被称为含有2C的DNA含量（Dolezel&Bartos,2005），这是由于在有丝分裂间期，细胞核含有两份未复制的基因组拷贝。核DNA含量的测定方法主要有化学分析法，复性动力学法，孚尔根染色法（feulgen microdensitometry），流式细胞术（Flowcytometry，FCM）等方法。化学分析法和复性动力学法现在已经很少被使用了；孚尔根染色法操作复杂且结果不够稳定（Moscone,2003）。1983 年 Science（Galbraith etal.,1983）报道了应用流式细胞术测定植物细胞周期检测和细胞核DNA含量的研究，开辟了流式细胞术应用于植物研究的先河。流式细胞仪（FlowCytometer）操作方便迅速，结果准确可靠，目前被广泛应用于植物C-值的测定中（金亮等，2016），其工作原理是利用特殊的荧光染料与DNA碱基结合，通过激光照射被荧光染料染色的细胞会发射出荧光，由于荧光强度与DNA 含量成正比的原理，通过测定细胞的荧光强度即可推算出样本细胞的DNA含量。由于不同植物、组织中的细胞内含物和次生代谢物质不同，针对不同研究对象，采用适合的细胞核提取液配方、提取和染色方法是流式细胞术的应用难点。
+
+目前，利用流式细胞术已经测定了越橘属7个种的核DNA含量（Costich etal.,1993），分别是：旱地蓝莓（Vacciniumpallidum） $1 . 2 1 { \mathrm { p g } }$ ，北方越橘（Vaccinium.boreale） $1 . 1 8 \mathrm { p g }$ 蓝莓‘埃利奥特’（Vaccinium elliotti） $1 . 2 6 \ : \mathrm { p g }$ ，加拿大蓝莓（Vaccinium myrtilloides） $1 . 2 6 \ : \mathrm { p g }$ 南方蓝莓（Vaccinium tenellum） $1 . 3 0 \mathrm { p g }$ ，蓝莓‘达柔’（Vacciniumdarrowi） $1 . 3 1 \mathrm { p g }$ ，北高丛蓝莓（Vaccinium corymbosum） $1 . 3 3 \mathrm { p g }$ 。然而尚无关于越橘属植物乌饭树核DNA含量的研究报道。乌饭树（Vaccinium bracteatum）又名南烛，古称染菽，是属于越橘属的常绿灌木。在我国主要分布在浙江、福建、江西、湖南、江苏和台湾等丘陵地带。乌饭树具有很高的营养价值和保健功能（Leeetal.,2014），亦是不可多得的盆景及园林绿化树种。乌饭树作为一种特色保健乡土树种，具有极高的开发利用价值，但是其基因与基因组层面的研究甚少，严重限制了种质资源的利用和育种进程。本试验摸索乌饭树的流式细胞术测定方法，检测乌饭树野生单株的核DNA含量，并分析基因组倍性情况以及核DNA含量变化与种质地理来源之间的关系，以期为乌饭树的种质资源研究、倍性育种和基因组学提供参考。
+
+# 1材料与方法
+
+# 1.1 植物材料
+
+本实验以来自3个省份的9个野生乌饭树单株为研究对象，其来源省份见表1。以植物鲜嫩叶片为材料，标准植物水稻‘日本晴’（Oryza sativa subsp.japonica‘Nipponbare',$2 C { = } 0 . 7 9 5$ ）（Sasaki&Burr,2000）为内部标样。
+
+表1乌饭树单株的地理来源  
+Table 1 The geographical sources of Vaccinium bracteatum plants   
+
+<html><body><table><tr><td>省份</td><td>城市</td><td>编号</td></tr><tr><td>Province</td><td>City</td><td>Sample Number</td></tr><tr><td></td><td>宜兴</td><td>1</td></tr><tr><td></td><td>Yixing</td><td></td></tr><tr><td>江苏</td><td>溧阳</td><td></td></tr><tr><td>Jiangsu</td><td>Liyang</td><td>4，5</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>无锡</td><td>6</td></tr><tr><td></td><td>Wuxi</td><td></td></tr><tr><td></td><td>常德</td><td>2</td></tr><tr><td>湖南</td><td>Changde</td><td></td></tr><tr><td>Hunan</td><td>白云山</td><td>3</td></tr><tr><td></td><td>Baiyunshan</td><td></td></tr><tr><td>江西</td><td>赣州</td><td></td></tr><tr><td>Jiangxi</td><td>Ganzhou</td><td>7，8，9</td></tr></table></body></html>
+
+# 1.2 标本制作
+
+1.2.1解离液选择与荧光染料配制
+
+采用LB01、Galbraith's、WPB、GPB 和Tris $\mathbf { \cdot M g C l } _ { 2 } 5$ 种配方进行试验，找出测定乌饭树基因组的最佳解离液配方。配制碘化丙啶PI染色液（ ${ \bf \cdot } 5 0 { \mu } { \bf L } { \cdot } \mathrm { m } { \bf L } ^ { - 1 }$ ，含RNA酶）， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。
+
+# 1.2.2细胞核悬液制备与DNA特异性染色
+
+制备待测样、标样、待测样 $^ +$ 标样混合的细胞核悬液。取待测样品和标样嫩叶各 $5 0 \mathrm { m g }$ 一起放入置于冰上的塑料平皿中，加入 $1 \mathrm { m L }$ 预冷的解离液，用锋利刀片迅速切碎叶片。使用移液枪吸取塑料平皿中的解离液（弃去碎材料），置于 $1 . 5 ~ \mathrm { m L }$ EP 管，用孔径为 $4 0 ~ { \mu \mathrm { m } }$ 无菌注射式过滤器过滤，得滤液至新管内，置于冰中孵育 $5 \mathrm { m i n }$ 。于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下， $8 0 0 ~ \mathrm { r / m i n }$ 离心5min，小心吸取上清置新管中。再加入 ${ 5 0 0 \mu \mathrm { L } }$ 配置好的PI-Rnase 染液，避光染色 $5 { \sim } 1 0 \ \mathrm { m i n }$ 。另取待测样品、标样的嫩叶各 $5 0 \mathrm { m g }$ ，按照同样的方法分别备至细胞核悬液作为空白对照，空白对照以同样的方法进行染色。将制备好的经染色的细胞核悬液转入标准上样管中，上机测定。
+
+# 1.3流式细胞仪检测及分析
+
+利用 BDInfluxTM流式细胞仪对经染色后的细胞核悬液样品上机检测，采用 $4 8 8 ~ \mathrm { n m }$ 的激光激发，收集670/30通道的荧光，检测荧光强度。每个待测样品收集约10000个细胞，每管样品测试3次，并在不同日期进行2次重复，取平均值计算。
+
+使用仪器自带软件进行作图分析。已知核DNA含量的水稻‘日本晴’的实生幼苗为参照样本，按照以下公式计算得到待测样品的核DNA含量，其中 $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 峰的变异系数(coefficient of variation，CV, $C V \% =$ 标准差/平均值 $\times 1 0 0$ ）， $C V$ 值大于 $5 \%$ 的结果予以舍弃（Arumuganathan&Earle,199la）。并根据 $1 \mathrm { p g } \mathrm { D N A } = 9 7 8 \mathrm { M p }$ ，计算乌饭树的基因组大小。
+
+# 2结果预分析
+
+# 2.1解离液的选择
+
+由于不同解离液对不同植物的解离效果存在明显差异，在乌饭树核DNA含量检测前，比较5种植物常用的解离液（LB01、Galbraith's、WPB、GPB 和 Tris- $\cdot \mathrm { M g } \mathrm { C l } _ { 2 }$ ）对乌饭树叶片的解离效果。发现GPB 解离液对乌饭树和水稻叶片细胞核的解离效果最佳，其细胞核悬液的浓度较高，上机检测能得到较好的荧光信号：噪音少、峰形佳、面积相对较大，变异系数控制在 $5 \%$ 左右。因此，本研究采用GPB 解离液制样进行测试。
+
+# 2.2待测样品的荧光强度范围确定
+
+为了便于控制试验方法误差，试验采用内标法进行测定，经查询、比较常用的植物标样和部分越橘属植物的 2C-值后，选择水稻‘日本晴’作为标准样品。以标样水稻‘日本晴’、各个乌饭树样本单独上机检测，通过观察流式细胞术检测图中峰的位置，初步确定标样与待测样本的荧光强度范围。在同一检测模板下，水稻‘日本晴’的荧光强度峰值在10000 附近（图1），乌饭树的荧光强度峰值在17000 附近（图2）。由于细胞核的荧光强度与核DNA 含量成正比，说明水稻‘日本晴’的核DNA含量小于乌饭树；同时可以推测，在下一步混合样本的流式细胞术检测图中，代表水稻的峰应位于流式细胞术检测图的左侧，而代表乌饭树样品的峰应位于图的右侧。
+
+![](images/9d7aef87859e1d6246e0955c575dabb14674dcbf9339bb4ea08e525f05a81e8a.jpg)  
+注：图a、b的横坐标代表670/30通道（ $4 8 8 ~ \mathrm { n m }$ 激光）的相对荧光强度 $/ \times 1 0 ^ { 3 }$ ，纵坐标分别代表侧向散射光（SSC）粒子数（图a）和细胞计数（图b）。下同。
+
+Note: The abscissas ofFigures aand b represent the relative fluorescence intensity of the 67O/3O channel( $4 8 8 ~ \mathrm { n m }$ laser) $/ \times 1 0 ^ { 3 }$ ,and the ordinate represents the number of side scatter (SSC) light particles and the cell count respectively. The same below.
+
+Fig.1 FCM detection analysis for Oryza sativa subsp. japonica‘Nipponbal
+
+![](images/fafbe312349f5ecc486fc937fe0fb4d771402cd068be045604606cebae1cbbc6.jpg)  
+图1水稻‘日本晴’的流式细胞术检测分析结果  
+图2乌饭树的流式细胞术检测分析结果Fig.2 FCM detection analysis for Vaccinium bracteatum
+
+# 2.3乌饭树核DNA含量（2C-值）的测定结果
+
+分别将9份乌饭树测试样本与水稻标样的混合样本上机测试，测试结果如图3所示，水稻与乌饭树混样的主峰区分度良好，均清晰且无重叠，说明本试验方法准确可行。分别比较各乌饭树测试样本与水稻标样的 $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期峰值相对位置，图中左侧的P1峰代表标样水稻‘日本晴’的荧光强度，右侧的P2峰代表乌饭树测试样本的荧光强度。
+
+![](images/2040833d999290e8857aecbe09ee168c31c9af0bfdac1e8aba3ba2d121df7dbd.jpg)
+
+注：图a-i代表乌饭树样本1\~9；图a-i的横坐标表示670/30 通道（ $4 8 8 \mathrm { n m }$ 激光）的相对荧光强度 $\times 1 0 ^ { 3 }$ 纵坐标表示细胞计数；图a-j中P1代表水稻的G0/G1期峰，P2乌饭树的G0/G1期峰。 Note: Figs.a-irepresents the nine samples of Vaccinium bracteatum; InFigs.a-i,the abscissa of histogram represents the relative fluorescence intensity of the 67O/3O channel (488 nm laser) $/ \times 1 0 ^ { 3 }$ ,and the ordinate represents thecellcount; In Figs.a-i,P1 represents the Go/G1 phase peak of Oryza sativa subsp. japonica ‘Nipponbare’,and P2 represents the GO/G1 phase peak of Vaccinium bracteatum.
+
+图3 水稻‘日本晴’与9个乌饭树单株混合样本的流式细胞仪测定结果 Fig.3 FCM detection analysis for mixed samples of Oryza sativa subsp. japonica‘Nipponbare' and nine Vaccinium bracteatum samples
+
+乌饭树测试样品的核DNA含量（2C-值）见表2，9个样本的平均核DNA含量（2C-值)为 $1 . 2 2 { \mathrm { p g } }$ ，标准差为0.03，最大的是样本6号为 $1 . 2 7 { \mathrm { p g } }$ ，最小的是样本5号为 $1 . 1 8 \mathrm { p g }$ 经单因素方差分析（表3），不同省份的野生单株之间核DNA含量无显著差异（ $. P { > } 0 . 0 5 \$ ），说明乌饭树核DNA含量没有因地理分布不同而产生进化差异。检测结果与已知的二倍体越橘品种的核DNA含量（ $1 . 1 8 { \sim } 1 . 3 1 \ \mathrm { p g }$ ）相似，且前人的研究表示三、四倍体越橘品种的核DNA含量显著大于二倍体（ $P { < } 0 . 0 5$ ）（Costich etal.,1993），因此，推测本试验鉴定的9个单株均为二倍体植株。
+
+一般认为植物DNA1pg相当于 $9 7 8 \mathrm { M b }$ 。本试验测得乌饭树核DNA含量（2C-值）为$1 . 2 2 { \pm } 0 . 0 3 \mathrm { p g }$ ，推测乌饭树基因组大小约为 $1 1 9 4 . 3 9 { \scriptstyle \pm 2 9 . 0 7 } \mathrm { M b }$ 。
+
+Table 2 Nuclear DNA contents （2C-value） of nine V. bracteatum samples  
+
+<html><body><table><tr><td></td><td>样本1 Sample 1</td><td>样本2 Sample 2</td><td>样本3 Sample 3</td><td>样本4 Sample 4</td><td>样本5 Sample 5</td><td>样本6 Sample 6</td><td>样本7 Sample 7</td><td>样本8 Sample 8</td><td>样本9 Sample 9</td><td>平均值 Average</td></tr><tr><td>核 DNA含量 Nuclear DNA</td><td>1.25</td><td>1.21</td><td>1.20</td><td>1.25</td><td>1.18</td><td>1.27</td><td>1.22</td><td>1.19</td><td>1.23</td><td>1.22±0.03</td></tr><tr><td>content(pg) 基因组大小 Genome size(Mb)</td><td>1 218.65</td><td>1 184.74</td><td>1 174.65</td><td>1 221.33</td><td>1 150.49</td><td>1 238.40</td><td>1 192.91</td><td>1 163.08</td><td>1 205.29</td><td>1 194.39±29.07</td></tr></table></body></html>
+
+表2乌饭树单株的核DNA含量（2C-值）  
+表3不同地理来源的植物单株的核DNA含量间的方差分析Table 3 ANOVA testing for the differences in nuclear DNA contents of samples fromdifferent provinces  
+
+<html><body><table><tr><td>种源省份</td><td>数量</td><td>平均值</td><td>F值</td><td>P值</td></tr><tr><td>Province</td><td>n</td><td>x±s</td><td>F</td><td>P</td></tr><tr><td>江苏 Jiangsu</td><td>4</td><td>1.237 5±0.039 48</td><td></td><td></td></tr><tr><td>湖南 Hunan</td><td>2</td><td>1.205 0±0.007 07</td><td>0.946</td><td>0.439</td></tr><tr><td>江西 Jiangxi</td><td>3</td><td>1.213 3±0.020 82</td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+本研究首次利用流式细胞术检测乌饭树核DNA含量（2C-值）。测试得到乌饭树野生单株核DNA含量（2C-值）平均值为 $1 . 2 2 { \pm } 0 . 0 3 \mathrm { p g }$ ，基因组大小约为 $1 ~ 1 9 4 . 3 9 { \pm } 2 9 . 0 7 ~ \mathrm { M b }$ 。检测单株与越橘属二倍体品种的核DNA 含量近似，且不同省份来源的野生单株的核 DNA含量无显著差异（ $( P { > } 0 . 0 5 )$ ），推测供试单株均为二倍体植株。本研究旨在为乌饭树基因组学研究、遗传多样性研究和育种工作奠定基础。
+
+流式细胞术根据样本的相对荧光强度来分析其DNA含量，是一种快速准确鉴定植物基因组大小及倍性的方法。前人利用流式细胞术检测越橘属植物2C-值时使用的解离液（Arumuganathan＆Earle,1991a）和外标样品（Costich et al.,1993）（虹鳟鱼红细胞），目前已不常在植物研究中使用，因此本研究自行摸索了乌饭树的流式细胞术试验方法。最终采用水稻‘日本晴’作为内标，选择GPB 解离液，使用红色或鲜绿色的乌饭树鲜叶制备细胞悬浮液，经 ${ 5 0 } \mu \mathrm { L } { \cdot } \mathrm { m L } ^ { - 1 } \mathrm { P I }$ 溶液染色 $5 \mathrm { m i n }$ 即可上机检测。该方法相比于前人对越橘属植物的测定方法简化了许多，结果重复性较好， $C V$ 值控制在 $5 \%$ ，可为本属其它植物的流式细胞术研究提供参考。
+
+本试验随机挑选了分布在江苏、湖南、江西的9个单株，检测结果均为二倍体植株。这与越橘属其它植物的基因组特性（孙海悦和张亚东，2014）有类似之处，生长在美国东南部温暖湿润地区的常绿越橘（Vaccinium darrowi）、兔眼越橘（Vaccinium virgatum）小穗越橘（Vaccinium tenellum）都是二倍体植株（ $\scriptstyle 2 { \mathrm { n } } = 2 { \mathrm { x } } = 2 4$ ）；生长在严寒地区的北高丛蓝莓、矮丛越橘（狭叶越橘为主）品种多是四倍体植株（ $\scriptstyle 2 \mathrm { n } = 4 \mathrm { x } = 4 8$ ）。乌饭树与其他越橘属植物的分布范围不同，目前只发现生长在温暖湿润的地区，尤其是丘陵地带或海拔 400-1400 米的山地（郝娟娟，2010），结合本试验的结果，推测乌饭树可能是二倍体植物。但由于试验检测的乌饭树单株数量较少，尚不能确定乌饭树是否存在三、四、六倍体，还需要检测更多植株，尤其是生长量大、株高较高，以及生长在低温地区的植株。同时，在今后的育种工作中，可以利用乌饭树的耐热和低冷温需要量基因，对耐冷的北方的越橘品种进行改良，扩大其种植适应范围，也保留其品种的优良性状。
+
+越橘属植物种类繁多，并且经过长期的自然选择，遗传变异丰富，前人研究发现，越橘属不同倍性植株的核DNA含量大小存在显著差异（ $P { < } 0 . 0 5$ ），甚至在二倍体品种之间也存在一定差异（Costich etal.,1993），这种现象在其他植物中也被证实存在（林峰等，2017;吴丽萍等，2013；陈丙以等，2015）。本研究中不同省份的乌饭树二倍体单株核DNA含量没有显著差异（ $P { > } 0 . 0 5$ ），暗示这些乌饭树的核DNA含量可能没有受到地理环境影响而发生遗传进化。但对于不同地理环境是否造成种群遗传进化差异，仅根据本次试验结果，尚无法得出确定的结论，可以进一步利用分子标记开展不同种源种质的遗传多样性的研究，以期了解乌饭树种质的遗传进化进程。
+
+根据植物C-值大小的5个等级（Leitch etal.,1998;Soltis et al.,2003）划分，乌饭树属于“很小（1C-值 ${ \leqslant } 1 . 4 \mathrm { p g }$ ）”的植物；利用测得的二倍体单株的核DNA含量预测，乌饭树基因组大小约为 $1 ~ 1 9 4 . 3 9 \pm 2 9 . 0 7 ~ \mathrm { M b }$ 。对照前人的研究结果（Arumuganathan&Earle,1991b），估计乌饭树基因组大小是拟南芥的4倍，玉米的1/5，番茄的1/2，远大于木瓜、芒果、杏、樱桃、橙和覆盆子等水果植物。该结果能够为乌饭树基因组的研究提供一些依据。
+
+目前，国内尚无关于乌饭树核DNA含量的研究报道，本研究结果可以丰富越橘属植物的C-值库，基于流式细胞术建立的乌饭树核DNA含量测定方法可为加快越橘属植物的相关研究提供借鉴。
+
+# 参考文献：
+
+ARUMUGANATHAN K, EARLE E D,1991a. Estimation of nuclear DNA content of plants by bow cytometry [J]. Plant Mol Biol Rep, 9(3):229-241.   
+ARUMUGANATHAN K, EARLE E D,1991b. Nuclear DNA content of some important plant species [J]. Plant Mol Biol Rep, 9(3):208-218.   
+BEAULIEU JM, LEITCH IJ, KNIGHT CA,2OO7. Genome size evolution in relation to leaf strategy and metabolic rates revisited [J]. Ann Bot, 99(3):495-505.   
+CHEN BY,LI JF,HUO HZ,et al., 2O15.Estimation of genome size in six wild strawberry species [J].JFruit Sci,(1):51-56.[陈丙义，李金凤，霍恒志，等,2015.6种野生草莓基因组大小估算 [J]．果树学报,(1):51-56.]   
+COSTICHD E, ORTIZ R,MEAGHER TR, et al.,1993. Determination of ploidy level and nuclear DNA content in blueberry by flow cytometry [J]. TAG, 86(8):1001-1006.   
+DOLEZEL J, BARTOS J, VOGLMAYR H, et al., 2003. Nuclear DNA content and genome size of trout and human [J]. Cytom Parta, 51(2):127-128.   
+DOLEZEL J, BARTOS J, 2O05. Plant DNA Flow Cytometry and estimation of nuclear genome size [J]. Ann Bot, 95(1):99-110.   
+GALBRAITH DW, HARKINS KR, MADDOX JM, et al., 1983. Rapid Flow Cytometric Analysis of the Cell Cycle in Intact Plant Tissues [J]. Science,220(4601):1049-51.   
+HAO JJ, 2010. A preliminary study on Vaccinium bracteatum Thunb. germplasm collection and utilization technology[D].Nanjing: Nanjing Forestry University.[郝娟娟,2O10.乌饭树种质 资源收集与利用的初步研究 [D]．南京：南京林业大学.]   
+JIN L, XU WW,LI XB, et al., 2016. Application of DNA flow cytometry to plant genetics and breeding[J].Chin JCell Biol,(2):225-234.[金亮，徐伟韦，李小白，等,2016.DNA 流式细胞 术在植物遗传及育种中的应用 [J].中国细胞生物学学报,(2):25-234.]   
+LEE S,JUNG ES,DO SG, et al., 2014. Correlation between species-specific metabolite profiles and bioactivities of blueberries (Vaccinium spp.)[J].J Agr Food Chem, 62(9): 2126-2133.   
+LEITCH IJ, CHASE MW, BENNETT MD, 1998. Phylogenetic analysis of DNA C-values provides evidence for a small ancestral genome size in flowering plants [J]. Ann Bot, 82:85-94.   
+LIN F, ZHOU X Y, XU LI, et al., 2O17. Estimation of genomic C value in several species of Salvia[J].Chin JAgric Biotechol,25(10):1622-1628.[林峰，周翔宇，徐莉，等,2017．几种鼠 尾草属植物基因组C值测定 [J]．农业生物技术学报,25(10):1622-1628.]   
+MOSCONE EA, 2O03. Analysis of nuclear DNA content in Capsicum (Solanaceae) by flow cytometry and feulgen densitometry [J]. Ann Bot, 92(1):21-29.   
+SASAKI T, BURR B,2OOo. International Rice Genome Sequencing Project: The effort to completely sequence the rice genome [J]. Curr Opin Plant Biol, 3(2):138-141.   
+SOLTIS DE, SOLTIS PS,BENNETT MD, et al., 2003.Evolution of genome size in the angiosperms [J]. Am JBot, 90(11):1596-1603.   
+SUN HY,LI YD, 2O14. Overview of blueberry breeding in the world [J].JNE Agric Univ, (9):116-122.[孙海悦，李亚东,2014．世界蓝莓育种概述[J]．东北农业大学学报, (9):116-122.]   
+SWIFT H,1950. The constancy of desoxyribose nucleic acid in plant nuclei [J]. PNAS, 36(11):643-654.
+
+WU LP,TANG Y,LI YY, et al., 2O13. Estimation of genome size of Ziziphus jujube and Z.acdiojujuba[J].JBeijing For Univ,35(3):77-83.[吴丽萍，唐岩，李颖岳，等,2013．枣和酸枣基因组大小测定 [J]．北京林业大学学报,35(3):77-83.]

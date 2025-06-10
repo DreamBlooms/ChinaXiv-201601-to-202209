@@ -1,0 +1,195 @@
+# 自适应的邻域粗糙集邻域大小取值方法
+
+彭潇然a，刘遵仁ʰ，纪俊ʰ
+
+(青岛大学 a.数据科学与软件工程学院;b.计算机科学技术学院，山东 青岛 266071)
+
+摘要：邻域粗糙集应用的好坏依赖于邻域大小 $\delta$ 的取值。在使用基于邻域粗糙集的属性约简算法时，现有的 $\delta$ 取值方法一般是点值式的，即仅凭借人的经验指定某个值，这种方法在对 $\delta$ 取值时没有结合实际问题的具体情况，因此在算法的实用性上可以作进一步讨论。为此，提出一种自适应 $\delta$ 取值方法，其最大特点是不指定 $\delta$ 取值，而是指定 $\delta$ 取值的区间，然后在该取值区间上，通过使用一种结合了数据集和分类器自身特性的适应值函数自动地选出最合适的 $\delta$ 取值。实验结果表明，相比点值式 $\delta$ 取值方法，通过自适应 $\delta$ 取值方法能找到属性个数更少，而分类精度更高的属性集。实验证明该方法能进一步提高基于邻域粗糙集的属性约简算法的实用性。
+
+关键词：邻域粗糙集；邻域大小；属性约简；分类 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.07.0676
+
+# Adaptable method for determining neighborhood size of neighborhood rough set
+
+Peng XiaoranA,Liu ZunrenB, Ji JunB (a.Colegeof Data Science& Software Engineering,b.CollegeofComputer Science&Technology,Qingdao University Qingdao Shandong 266071, China)
+
+Abstract: The application of neighborhood rough set depends on the value of neighborhood size $\delta$ .When using attribute reduction algorithms based on neighborhood rough set,an existing method for determining $\delta$ is usually point-type, that is, to specifyavalueonlyby human experience.The method does not combine with the actual situation when it isusedtodetermine （204 $\delta$ ,so the practicabilityofthe algorithms can be further discussed.For this reason,an adaptable method for determining $\delta$ is proposed. The biggest characteristic is not determining $\delta$ but the interval of $\delta$ , then the most appropriate $\delta$ in the interval is forwardlyselected byusing a fitnessfunction that iscombined with thecharacteristicsofdata setsandclasifiers.The experimental results show that, compared with the point -type method for determining $\delta$ ,this method can find reduction sets which numberofatributesislessandclassficationaccuracyishigher,whichproves thatthismethodcanfurtherimprove the practicability of attribute reduction algorithms based on neighborhood rough set.
+
+Key Words: neighborhood rough set; neighborhood size;atribute reduction; classification
+
+# 0 引言
+
+粗糙集理论认为知识是有粒度的，它是一种对论域中对象进行分类的能力[1]。经典的Pawlak粗糙集[2采用等价划分和等价类的概念保证了粒度计算的进行，但是这种处理方式只适用于离散型变量，而现实应用中需要处理的数据类型往往是数值型的，这种局限滞缓了粗糙集理论的应用。
+
+针对上述问题，Zadeh[提出了信息粒化和粒度计算的概念。Lin[4在信息粒化、粒度的基础上提出了邻域模型的概念。 $\mathrm { H u } ^ { \left[ 5 \right] }$ 基于邻域粒化和粗糙逼近，提出的邻域粗糙模型[-7]可以处理数值型数据，这进一步拓展了粗糙集理论的应用范围。但是，和经典的Pawlak粗糙集不同，因为引入了邻域粒化的概念，基于邻域粗糙集的属性约简算法在对一个数据集进行属性约简时，其结果的好坏依赖于邻域大小 $\delta$ 的取值[5.8\~16]。合适的 $\boldsymbol { \delta }$ 取值能让算法得到较好的属性约简集合，而不合适的 $\delta$ 取值则会让算法得到一般，甚至是很差的属性约简集合。对于约简算法得到的约简集合，本文希望属性个数较少且有效性较高。其中，约简集合的有效性体现在分类器根据该约简集合对数据集进行分类后得到的分类精度上，分类精度越高，则约简集合的有效性越高。因此，针对 $\boldsymbol { \delta }$ 取值的讨论就显得十分重要且有意义了。
+
+现有的 $\boldsymbol { \delta }$ 取值方法一般是点值式的，即仅根据人的经验指定 $\delta$ 为某个值[5,9\~16]。例如, $\mathrm { H u } ^ { \left[ 5 \right] }$ 在与其他算法的对比实验中，指定提出的邻域粗糙集算法中 $\delta = 0 . 1 2 5$ ；刘[9]在与其他算法的对比实验中，指定提出的邻域粗糙集算法中 $\delta$ 为数据集归一化之后的标准差；段[1在与其他算法的对比实验中，针对不同数据集，指定提出的邻域粗糙集算法中 $\boldsymbol { \delta }$ 为不同值；Chen[15]在与其他算法的对比实验中，指定提出的邻域粗糙集算法中 $\delta = 0 . 1$ 等等。但是，需注意到，对于不同的数据集和分类器，它们本身的性质是不同的。例如，有的数据集含有的噪声数据较少，而有的数据集则较多；同一数据集的某个属性集合可能在一个分类器上分类效果较好，而在另外一个分类器上的分类效果较差。因此，这种仅凭借经验，没有结合具体实际情况的 $\delta$ 取值方法，在一定程度上限制了属性约简算法的实用性。
+
+针对上述问题，本文提出一种自适应的邻域粗糙集 $\delta$ 取值方法。该方法不指定 $\boldsymbol { \delta }$ 取值，而是指定 $\delta$ 取值范围，通过结合数据集和分类器本身的性质，设计一种适应值函数用于评价取值范围中各 $\delta$ 取值的好坏，并自动选取适应值最大的 $\delta$ 取值作为最终结果。此外，可以通过调整适应值函数的权值使算法更好地满足实际应用的需求，进一步提升算法的实用性。
+
+# 1 相关概念[2]
+
+# 1.1 邻域粒化
+
+定义1度量计算。给定 $n$ 维实数空间 $R ^ { n }$ ，对于空间中的任意两个点 $x _ { i } = ( x _ { i _ { 1 } } , x _ { i _ { 2 } } { \bf K _ { \rho } } , x _ { i _ { n } } )$ 和 $x _ { _ { j } } = ( x _ { _ { j 1 } } , x _ { _ { j 2 } } , \mathbf { K _ { \alpha } } , x _ { _ { j n } } )$ ，定义$d ( x _ { i } , x _ { j } )$ 是 $R ^ { \prime }$ 上的一个度量计算，一般选用欧氏距离，即
+
+$$
+d ( x _ { i } , x _ { j } ) = \left( \sum _ { p = 1 } ^ { n } \Bigl | x _ { i p } - x _ { j p } \Bigr | ^ { 2 } \right) ^ { \frac { 1 } { 2 } }
+$$
+
+定义2邻域粒子。在实数空间上，定义样本的非空有限集合 $U = \left\{ x _ { _ 1 } , x _ { _ 2 } \mathbf { K _ { \alpha } } , x _ { _ n } \right\}$ ，且称 $U$ 为论域。定义 $U$ 上的样本 $x _ { i }$ 的 $\delta$ -邻域为 $\delta ( x _ { i } ) = \{ x _ { j } \mid x _ { j } \in U , d ( x _ { i } , x _ { j } ) \leq \delta \}$ ，其中 $\delta \geq 0 \circ \delta ( x _ { i } )$ 称做由 $x _ { i }$ 生成的 $\boldsymbol { \delta }$ -邻域信息粒子，简称为 $x _ { i }$ 的邻域粒子。
+
+# 1.2决策表及上下近似
+
+定义3决策表。定义四元组 $\mathbf { N D T } = ( U , C \mathbf { Y } D , V , f )$ 为决策表。其中 $U$ 是论域； $c$ 是条件属性集； $\mathbf { D }$ 是决策属性集，且CI $D = \emptyset$ ， $c \neq \emptyset$ ， $\mathbf { D } \neq \emptyset$ ； $\boldsymbol { V }$ 是信息函数 $f$ 的值域。
+
+定义4上下近似。给定一个决策表 $\mathrm { N D T } = ( U , C \Upsilon D , V , f )$ $D$ 将 $U$ 划分为 $N$ 个等价类： $D _ { _ { 1 } } , D _ { _ { 2 } } , . . . , D _ { _ { N } }$ ， $\forall B \in C$ ，定义决策属性集 $D$ 关于 $B$ 的下近似和上近似为
+
+$$
+\underline { { N _ { _ B } D } } = \sum _ { i = 1 } ^ { N } \underline { { N _ { _ B } D _ { _ i } } } ,
+$$
+
+$$
+\overline { { N _ { _ B } D } } = \mathbf { \sum } _ { i = 1 } ^ { N } \overline { { N _ { _ B } D _ { i } } }
+$$
+
+其中, $N _ { \scriptscriptstyle B } D _ { \scriptscriptstyle i } = \{ x _ { \scriptscriptstyle i } | \delta _ { \scriptscriptstyle B } ( x _ { \scriptscriptstyle i } ) \subseteq D _ { \scriptscriptstyle i } , x _ { \scriptscriptstyle i } \in U \} ,$
+
+$$
+\overline { { N _ { s } D _ { i } } } = \{ x _ { i } | \delta _ { s } ( x _ { i } ) \mathrm { I } ~ D _ { i } \neq \emptyset , x _ { i } \in U \}
+$$
+
+定义决策属性集 $D$ 关于 $B$ 的正域为 $P o s _ { _ B } ( D ) = N _ { _ B } D$ ，边界域为 $B N D _ { _ B } ( D ) = \overline { { N _ { _ B } D } } - N _ { _ B } D$ ，负域为 $N E G _ { _ B } ( D ) = U - \overline { { N _ { _ B } D } }$ 。
+
+# 2 F2HARNRS算法及 $\delta$ 取值分析
+
+为了分析 $\boldsymbol { \delta }$ 取值对基于邻域粗糙集的属性约简算法的影响，首先介绍一种属性约简算法，然后基于此算法对不同的 $\boldsymbol { \delta }$ 取值进行可靠性分析。
+
+定义 ${ \bf 6 } ^ { [ 5 ] }$ 属性约简。给定一个决策表$\mathrm { N D T } = ( U , C \Upsilon D , V , f )$ ， $\forall B \subseteq C$ ，若满足 $\mathrm { P o s } _ { _ B } ( D ) = \mathrm { P o s } _ { _ C } ( D )$ ，则称 $B$ 是一个独立属性子集；如果对 $\forall a \in B$ ，$\mathrm { P o s } _ { { } _ { B - \{ a \} } } ( D ) < \mathrm { P o s } _ { { } _ { B } } ( D )$ ，则称 $B$ 为 $c$ 的一个属性约简。
+
+贪心策略具有以较少时间求解最优解或次优解的特点。$\mathrm { H u } ^ { \left[ 5 \right] }$ 结合贪心思想构造了一种前向贪心的决策表属性约简算法(Fast forward heterogeneous attribute reduction based onneighborhood rough sets,F2HARNRS)，F2HARNRS 算法被提出后得到了广泛地应用与研究[8-I]。本文中对 $\boldsymbol { \delta }$ 取值的讨论将建立在该算法的基础上。
+
+F2HARNRS算法将原属性集下的正域样本个数作为贪心目标，其具体策略是：初始化属性约简集合为空集，此时当前正域为空集，每次选取使当前正域中样本个数增加最多的属性加入集合，直至待选的任意属性均不再增加正域中样本个数或待检验的样本全划入当前正域中时，输出集合。其中，根据新增加的属性不会使已属于正域的样本变为非正域样本这一性质，在算法的计算过程中，每次仅对还未判定为正域的样本进行正域计算。如算法1所示。
+
+算法1:Input:决策表 $( U , C \Upsilon D , V , f ) , \delta$ （204号Output：属性约简集合red初始化 $\mathrm { r e d } { = } \emptyset$ ，待检验样本 $\mathrm { s m p \ } \mathrm { c h k } = U$ ，样本数最多的正域集合 $\mathrm { \ m a x \_ p o s { = } } \emptyset$ ，max_pos $_ { : = \infty }$ 对应的  
+属性 $\operatorname* { m a x } _ { - 1 = \varnothing }$ （20while $\mathrm { s m p \_ c h k } \neq \emptyset$ $\operatorname* { m a x } _ { - \operatorname { p o s } } = \varnothing$ ·，for each $k _ { i } \in \left( C - \mathrm { r e d } \right)$ $\mathrm { P o s } _ { \mathrm { i } } \mathrm { = } \mathrm { P o s } \left( \mathrm { s m p \mathrm { \_ c h k , r e d Y k _ { i } , D } } , \delta \right) ;$ （20if|max_pos|<|Pos;|$\mathrm { \ m a x \_ p o s { = } P o s _ { i } }$ max_i=k ;end ifend forif （204号 $\operatorname* { m a x } _ { - \mathrm { p o s } \neq \emptyset }$ red=red Y max_i ;smp_chk $\varXi$ smp_chk-max_pos;elsebreak;end ifend whilereturn red;在算法1中， $\mathrm { P o s } \left( \mathrm { s m p \_ c h k , r e d Y k _ { i } } , \mathrm { D } , \delta \right)$ 是正域计算函数，  
+也是算法时间开销最大的部分。它的功能是：在当前 $\boldsymbol { \delta }$ 取值下，
+
+求得 $\mathrm { s m p \_ c h k }$ 中决策属性 $D$ 关于条件属性集合 red $\mathrm { Y } \mathbf { k } _ { \mathrm { i } }$ 的正域。
+
+在该算法下，假设某一数据集有 $\mathbf { \Sigma } _ { m }$ 个属性，约简结果中包含 $k$ 个属性，且每增加一个属性正域中增加 $\frac { \left| U \right| } { k }$ 个样本，则算法1进行样本是否属于正域的判定次数为
+
+$$
+\begin{array} { l } { m \displaystyle \lvert U \rvert + \big ( m - 1 \big ) \displaystyle \lvert U \rvert \frac { k - 1 } k + . . . + \big ( m - k \big ) \displaystyle \lvert U \rvert \frac 1 k } \\ { < \displaystyle \frac { m \big \lvert U \big \rvert \big ( 1 + 2 + . . . + k \big ) } k } \\ { = \displaystyle \frac { m \big \lvert U \big \rvert \big ( 1 + k \big ) } 2 } \end{array}
+$$
+
+可以看出，F2HARNRS 算法的效果与 $\delta$ 取值紧密相关， $\delta$ 取值不同则F2HARNRS算法的效果不同。这是因为在不同的$\delta$ 取值下形成的邻域粒子 $\delta ( x _ { i } )$ 不同，这造成正域计算的结果不同，进而造成F2HARNRS算法根据正域计算得到的属性约简集合也不同。其中，不同约简集合的可靠性也是不同的。约简集合的可靠性主要体现在约简集合中属性个数和分类算法根据该约简集合进行分类后得到的分类精度上，即对原属性集是否达到了较好的约简效果，约简后是否仍能保证分类精度没有严重丢失。其次，F2HARNRS算法的终止条件有2个：smp_chk= 和max_pos=，即待检验的样本全划入当前正域中或待选的任意属性均不再增加正域中样本个数，任何一个条件成立则算法结束。
+
+分析在 $\boldsymbol { \delta }$ 取值逐渐增大的过程中邻域粒子 $\delta ( x _ { i } )$ 的变化情况及对应约简集合的可靠性。如图1所示，图1(a)中，在当前2 维实数空间中，当 $\delta$ 取值较小时， $\delta ( x _ { i } )$ 只包含样本 $x _ { i }$ ，此时原属性集中的任意两个条件属性都能使所有的待检测样本划入正域中，即使算法1中的条件 $\mathrm { s m p \_ c h k } = \emptyset$ 成立，此时所得的属性约简没有意义，约简集合red的可靠性为零；图1(b)中，随着 $\boldsymbol { \delta }$ 取值的增大， $\delta ( x _ { i } )$ 中样本增多，直至在某个较大的 $\delta$ 取值下， $\delta ( x _ { i } )$ 包含整个论域中的样本，此时任意2个条件属性都不能使任意的待检测样本划入正域中，即使算法1中的条件$\operatorname* { m a x } _ { - \operatorname { p o s } } = \varnothing$ 成立，此时正域中样本个数为0，约简集合red 为空，约简集合red的可靠性也为零。这说明随着 $\delta$ 取值的增大，约简集合red的可靠性先增大后减小。其中，这种可靠性的变化过程因数据集和分类器的不同而不同，因此仅凭经验的点值式 $\delta$ 取值方法在一定程度上并不能得到最好的 $\delta$ 取值和保证算法效果的最大化，限制了算法的实用性。
+
+![](images/f703edd7d4941bcb1add2ed9fe96acb2248a85dfe43f9da7a69a70ff63529aff.jpg)  
+图1 $\delta$ 取值的两种极端情况
+
+# 3 自适应的 $\delta$ 取值方法
+
+根据第2节的分析，本文提出的 $\delta$ 取值方法的主要工作在于：将评价标准由仅依据人的经验改进为结合实际数据集和分类器的性质，且将评价 $\delta$ 取值的好坏转换为分析其对应约简集合可靠性的高低。其中，约简集合可靠性的高低可以通过数据直观地体现出来。自适应的 $\delta$ 取值方法的主要思想是：指定 $\delta$ （204号取值范围，并在该范围上选取多个待比较的 $\delta$ 取值，然后对各$\delta$ 取值进行评价，最后将最好的 $\delta$ 取值作为结果。
+
+结合实际情况，提出一种用于评价 $\boldsymbol { \delta }$ 取值好坏的适应值函数，该函数主要包含两个变量length和ratio，表示对应约简集合的可靠性。其中，length表示在该 $\delta$ 取值下，属性约简算法所得的约简集合中属性个数的适应值；ratio表示在该 $\delta$ 取值下，分类器根据约简集合对数据集进行分类后所得的分类精度的适应值。 $\boldsymbol { \delta }$ 取值的适应值取决于这两个变量的加权求和，如式(1)所示。
+
+$$
+f i t ( \delta ) = \alpha \cdot l e n g t h + \beta \cdot r a t i o
+$$
+
+其中： $\alpha$ 和 $\beta$ 是两个权值，且满足 $\alpha > 0 \ , \beta > 0 \ , \alpha + \beta = 1 \ \circ$ 权值的设置可以根据应用需求进行调整，增大侧重项相应权值的比重。本文实验部分采用α=0.4，β=0.6。
+
+本文 $\boldsymbol { \delta }$ 取值方法的步骤为：
+
+a)指定取值区间 $\scriptstyle { \big [ } a , b { \big ] } ( a \neq 0 )$ ，并选取 $n$ 个待比较的 $\delta$ 取值;
+
+b)计算各 $\boldsymbol { \delta }$ 取值下属性约简算法得到的约简集合，并统计对应的属性个数和分类精度；
+
+c)对上述两组记录length和ratio 进行归一化处理，之后调整 $l e n g t h = 1 - l e n g t h$ 。即对某个约简集合而言，属性个数越少length 值越高，分类精度越高ratio值越高;
+
+d)代入式(1)中计算各 $\boldsymbol { \delta }$ 取值的适应值 $f i t ( \delta )$ ，并选取适应值最大的 $\delta$ 取值作为最后结果。
+
+根据第2节中的分析可知，约简集合red的可靠性是先增大后减小的，这说明 $\delta$ 取值过小或过大都是无意义的。一般来说取值区间 $\left[ a , b \right] \left( a \neq 0 \right)$ 应包含于(0,0.8]，可根据具体情况进行选取。在 $\mathrm { H u } ^ { \left[ 5 \right] }$ 的实验结论中，针对其选取的数据集和分类器，[0.1,0.3]是 $\boldsymbol { \delta }$ 较好的取值区间，大多数分类器在此 $\boldsymbol { \delta }$ 的取值下可以获得良好的分类性能。在本文实验中，参考 $\mathrm { H u } ^ { \left[ 5 \right] }$ 的实验结论，指定的取值区间为[0.02,0.4]，以0.02 增进，共取得 20 个待比较的 $\delta$ 取值，效果较好。合理的取值区间能避免无用功，提高该方法的效率。
+
+其次，该方法的时间开销主要在于步骤b)。若需要比较的$\delta$ 取值个数为 $n$ ，属性约简算法的时间开销为 $\mathrm { O } _ { \mathit { r e d } } \left( \begin{array} { l }  \right) \end{array}$ ，则该方法的时间开销可以表示成 $n \cdot \mathrm { O } _ { \mathit { r e d } }$ （）。对于不同的属性约简算法，若其 $\mathrm { O } _ { { r e d } } \left( \begin{array} { l }  \right) \end{array}$ 很大，可适当调整取值范围及增进量。
+
+# 4 实验分析
+
+在本次实验中，首先采用"F2HARNRS+SVM"的方式并通过三个维数不同的UCI数据集分析 $\delta$ 取值与属性个数及分类精度之间的关系；然后对比点值式和自适应的 $\delta$ 取值方法，分别记录在这两种方法下，采用“F2HARNRS+SVM”方式和"F2HARNRS $^ { + 1 }$ -NN"方式在7个不同的UCI数据集上所得的属性个数和分类精度；最后，分析实验结果并得出结论。其中，对于两种分类算法，随机地选取数据集中每类对象的2/3作为训练集，1/3作为测试集，算法执行20次，分类精度的结果取均值。
+
+# 4.1实验环境
+
+UCI(Universityof California Irvine)(http://archive.ics.uci.edu/ml/)提供了一系列用于测试的标准数据集。本文从UCI数据集中挑选了7个数值型数据集，其中，每个数据集提供了条件属性和决策属性。
+
+表1数据集描述  
+
+<html><body><table><tr><td>数据集</td><td>样本数</td><td>属性数</td><td>类别数</td></tr><tr><td>Wine</td><td>178</td><td>13</td><td>3</td></tr><tr><td>WDBC</td><td>569</td><td>30</td><td>2</td></tr><tr><td>Sonar</td><td>208</td><td>60</td><td>2</td></tr><tr><td>WPBC</td><td>198</td><td>33</td><td>2</td></tr><tr><td>Ionosphere</td><td>351</td><td>33</td><td>2</td></tr><tr><td>Credit Approval</td><td>690</td><td>13</td><td>2</td></tr><tr><td>German Credit</td><td>1000</td><td>24</td><td>2</td></tr></table></body></html>
+
+本次实验在一台Intel(R)CoreTMi5CPU和4GB内存的 PC机上，采用Windows7环境下的MATLABR2016b进行算法仿真。
+
+# 4.2 $\delta$ 取值与实验结果
+
+# 4.2.1取值和属性约简个数的关系
+
+在区间[0.04,1]上，按0.04 增进，共取得 25个 $\boldsymbol { \delta }$ 取值，记录不同 $\delta$ 取值下F2HARNRS 算法在数据集Wine、WDBC 和Sonar上所得约简集合中属性的个数以及SVM分类算法根据该约简集合对数据集分类后的分类精度。
+
+$\delta$ 取值与属性个数的关系如图2所示。
+
+![](images/96cb24642b166d178c6628dc5032bda64f1c5435f77b734f7d105e4e73fad82f.jpg)  
+图2取值与属性个数之间的关系
+
+如图2所示，对同一数据集， $\boldsymbol { \delta }$ 取值不同时，所得的属性个数也不同，过大或过小的 $\boldsymbol { \delta }$ 取值没有对应的结果，这进一步说明过大或过小的 $\boldsymbol { \delta }$ 取值均是无意义的。随着 $\boldsymbol { \delta }$ 取值的增大，所得属性的个数增大，直到增大到某个值时稳定或者为空，称此时的 $\delta$ 取值为饱和点(如图2虚线所示)。4.2.2 $\delta$ 的取值和SVM算法的分类精度$\delta$ 的取值与分类精度的关系如图3所示。
+
+![](images/e54fc5ed5a61ec8d7dbffd7a6b03472367da5579500e9f5b3f077696b9bb9d22.jpg)  
+图3 $\delta$ 取值与 SVM分类精度之间的关系
+
+分析图3中(a)\~(c)，横线代表原属性集的分类精度，折线代表不同 $\delta$ 取值下对应的分类精度，虚线代表饱和点。以饱和点为基准，将图3中(a)\~(c)分为前后两部分。根据4.2.1节中对饱和点的表述可知：对同一数据集的原属性集而言，前半部分对应着在不同 $\delta$ 取值下的约简集合，后半部分对应着原属性集或者属性集合为空。根据实验目的重点分析前半部分。
+
+分析前半部分：首先，3条折线均呈现上升趋势，且图3(a)(b)中折线到达某个顶点后稳定。这说明，随着 $\delta$ 取值的增大，约简集合的有效性逐渐增加，且在(a)(b)中达到了最大值；其次，各图中饱和点不同，最大精度值和最小精度值之间的差值也不同，特别是在Sonar 数据集中，这种差值达到了近10个百分点。这说明每个数据集的特性是不同的。对于特性各异的数据集，若仅凭经验指定某个 $\boldsymbol { \delta }$ 取值，然后用得到的约简结果去证明属性约简算法的效果，这种做法是可以进一步改进的。
+
+# 4.2.3实验结论
+
+总体来说，随着 $\delta$ 取值的增大，属性个数增多，分类精度增大，而本文希望的结果是属性个数较少，分类精度较高。针对这种情况，点值式 $\delta$ 取值方式在一定程度上限制了约简算法的实用性。
+
+# 4.3点值式与自适应 $\delta$ 取值方法的对比
+
+对点值式 $\delta$ 取值方法设置 $\delta { = } 0 . 1 5$ ；对自适应 $\delta$ 取值方法设置 $\alpha = 0 . 4$ ， $\beta = 0 . 6$ ，且设置 $\delta$ 取值区间为[0.02,0.4]，按0.02增进，共取得 20个 $\boldsymbol { \delta }$ 取值。针对7个数据集，分别在 SVM分类器和1-NN分类器上对两种方法进行对比。
+
+两种取值方法在SVM分类器上的实验结果如表2所示。
+
+表2F2HARNR $\boldsymbol { \mathrm { . } } \boldsymbol { \mathrm { S + S V M } }$ 的实验结果  
+
+<html><body><table><tr><td rowspan="2">数</td><td colspan="5">F2HARNRS+SVM</td></tr><tr><td colspan="3">点值式</td><td colspan="3">自适应</td></tr><tr><td>集</td><td>8</td><td>属性 个数</td><td>分类 精度</td><td>8</td><td>属性 个数</td><td>分类 精度</td></tr><tr><td>Wine</td><td>0.15</td><td>6</td><td>0.9836</td><td>0.12</td><td>7</td><td>0.9945</td></tr><tr><td>WDBC</td><td>0.15</td><td>12</td><td>0.9750</td><td>0.12</td><td>7</td><td>0.9743</td></tr><tr><td>Sonar</td><td>0.15</td><td>7</td><td>0.7306</td><td>0.24</td><td>18</td><td>0.8256</td></tr><tr><td>WPBC</td><td>0.15</td><td>7</td><td>0.6664</td><td>0.34</td><td>17</td><td>0.7705</td></tr><tr><td>Ionosphere</td><td>0.15</td><td>9</td><td>0.8832</td><td>0.16</td><td>9</td><td>0.8918</td></tr><tr><td>Credit Approval</td><td>0.15</td><td>13</td><td>0.8727</td><td>0.02</td><td>7</td><td>0.8645</td></tr><tr><td>German</td><td>0.15</td><td>13</td><td>0.7223</td><td>0.12</td><td>11</td><td>0.7171</td></tr><tr><td>Credit</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值</td><td></td><td>9.57</td><td>0.8334</td><td></td><td>10.86</td><td>0.8626</td></tr></table></body></html>
+
+两种取值方法在1-NN分类器上的实验结果如表3所示。
+
+表3F2HARNRS+1-NN 的实验结果  
+
+<html><body><table><tr><td rowspan="2">数 据</td><td colspan="5">F2HARNRS+1-NN</td></tr><tr><td colspan="3">点值式</td><td colspan="3">自适应</td></tr><tr><td>集</td><td>8</td><td>属性 个数</td><td>分类 精度</td><td>8</td><td>属性 个数</td><td>分类 精度</td></tr><tr><td>Wine</td><td>0.15</td><td>6</td><td>1.0000</td><td>0.20</td><td>7</td><td>0.9982</td></tr><tr><td>WDBC</td><td>0.15</td><td>12</td><td>0.9765</td><td>0.10</td><td>7</td><td>0.9802</td></tr><tr><td>Sonar</td><td>0.15</td><td>7</td><td>0.9075</td><td>0.32</td><td>9</td><td>0.9167</td></tr><tr><td>WPBC</td><td>0.15</td><td>7</td><td>0.9023</td><td>0.12</td><td>3</td><td>0.9172</td></tr><tr><td>Ionosphere</td><td>0.15</td><td>9</td><td>0.9627</td><td>0.18</td><td>7</td><td>0.9754</td></tr><tr><td>Credit Approval</td><td>0.15</td><td>13</td><td>0.9319</td><td>0.12</td><td>13</td><td>0.9417</td></tr><tr><td>German</td><td>0.15</td><td>13</td><td>0.8757</td><td>0.02</td><td>7</td><td>0.8743</td></tr><tr><td>Credit</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均值</td><td></td><td>9.57</td><td>0.9367</td><td></td><td>7.57</td><td>0.9434</td></tr></table></body></html>
+
+实验结果与数据集和分类器自身的特性及本次实验的实验方案相关，根据以上结果可知：自适应的 $\delta$ 取值方法可以根据实际情况选择较好的 $\delta$ 取值。可以看出，对于同一个分类器而言，在不同的数据集上合适的 $\delta$ 取值是不同的；对于同一个数据集而言，在不同分类器上合适的 $\delta$ 取值也是不同。大体上，相比点值式 $\boldsymbol { \delta }$ 取值方法，通过自适应 $\delta$ 取值方法能找到属性个数更少，而分类精度更高的属性集；或是得到在其中一项接近的情况下，另一项更好的结果。因为结合了实际问题，这种优势是十分明显的，例如在对WPBC数据集采用"F2HARNRS+SVM"方式得到的结果中，相比点值式 $\boldsymbol { \delta }$ 取值方法，在自适应的 $\delta$ 取值方法下，分类精度提升了近11个百分点，虽然得到约简集合中的属性个数为17个，比之多了10个，但是原属性集的属性个数是33个，该约简集合可以认为是较好的约简集合，反观点值式 $\boldsymbol { \delta }$ 取值方法，虽然得到约简集合中的属性个数更少，但分类精度损失严重，并不能认为是较好的约简集合。可见自适应的 $\boldsymbol { \delta }$ 取值方法能进一步提升算法的实用性。
+
+# 5 结束语
+
+邻域粗糙集约简算法的效果与邻域大小的 $\boldsymbol { \delta }$ 取值紧密相关。本文对分析了 $\boldsymbol { \delta }$ 取值对算法效果的影响，指出点值式 $\boldsymbol { \delta }$ 取值方法的不足，将对 $\delta$ 取值的评价标准由仅依据人的经验改进为结合实际数据集和分类器的性质，实验证明该方法是可行的。在数据训练阶段求得合适的 $\boldsymbol { \delta }$ 取值，进而得到满足实际需求的属性约简集合，对减轻分类任务的工作量，保持甚至提高分类任务的精度是具有一定意义的。
+
+# 参考文献：
+
+[1]王国胤，姚一豫，于洪．粗糙集理论与应用研究综述[J].计算机学报, 2009,32(7):1229-1246.   
+[2]Pawlak Z,So-Winski R.Rough set approach to multi-attribute decision analysis [J].European Journal of Operational Research,1994,72 (3): 443- 459.   
+[3]Zadeh LA.Towards a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic [J].Fuzzy Sets & Systems, 1997,90 (90): 111-127.   
+[4]Lin TY.Granular Computing on binary relations I: Data mining and neighborhood systems [J]. Rough Sets in Knowledge Discovery,1998 (2): 165-166.   
+[5]Hu Q,Yu D,Liu J,Wu C.Neighborhood rough set based heterogeneous feature subset selection [J].Information Sciences,2008,178(18):3577- 3594.   
+[6]王国胤.Rough 集理论与知识获取[M].西安：西安交通大学出版社， 2001: 147-156.   
+[7]胡清华，于达人．应用粗糙计算[M].北京：科学出版社,2012.   
+[8]Du Y,Hu Q,Zhu P,Ma P.Rule learning for classification based on neighborhood covering reduction [J].Information Sciences,2011,181 (24): 5457-5467.   
+[9] 刘遵仁，吴耿锋．基于邻域粗糙模型的高维数据集快速约简算法[J]. 计算机科学,2012,39(10):268-271.   
+[10] Liu Y,Huang W, Jiang Y, Zeng Z.Quick atribute reduct algorithm for neighborhood rough set model[J]. Information Sciences,2014,271(7): 65- 81.   
+[11]段洁，胡清华，张灵均等．基于邻域粗糙集的多标记分类特征选择算法 [J].计算机研究与发展,2015,52(1):56-65.   
+[12] Chen H,Li T,Luo C,et al.Dominance-Based Neighborhood Rough Sets and Its Attribute Reduction [M]//Rough Sets and Knowledge Technology. [S.l.] : Springer International Publishing,2015.   
+[13] Guo G,Liu Z,Lou C,et al. Improving on a rapid atribute reduction algorithm based on neighborhood rough sets [C].//Proc of International Conference on Fuzzy Systems and Knowledge Discovery.2016:236-240.   
+[14] Wang C,Shao M,He Q,et al.Feature subset selection based on fuzzy neighborhood rough sets [J].Knowledge-Based Systems,2016,111:173- 179.   
+[15] Chen Y, Zeng Z,Lu J.Neighborhood rough set reduction with fish swarm algorithm[J].Soft Computing,2016:1-12.   
+[16] Fan A，Zhao H,Zhu W. Test-cost-sensitive attribute reduction on heterogeneous data for adaptive neighborhood model [J]. Soft Computing, 2016,20(12): 4813-4824.

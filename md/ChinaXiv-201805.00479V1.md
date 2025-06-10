@@ -1,0 +1,126 @@
+# 一种移动众包系统在线激励机制优化算法
+
+张永棠1,2
+
+(1．广东东软学院 计算机科学与技术系，广东 佛山 528225;2.广东省大数据分析与处理重点实验室，广州 510006)
+
+摘要：大数据环境下，移动众包模式的研究成为热点。为提高移动众包系统的有效性和可靠性，设计了一套完整的在线激励机制优化算法，针对用户到达和参与任务的异步行为，提出一种改进的多阶段反向拍卖算法，通过在线学习自适应确定“密度阈值”，动态选择最优用户集，并在每次交易后对用户的信誉进行更新，以指导下次任务分配。仿真结果表明，该优化算法满足计算有效性、利益双方正收益性和真实性，能在一定预算和时间约束下获得更好的性能。
+
+关键词：移动众包；数据感知；优化算法；智能优化 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.02.0145
+
+# Optimization algorithm of online incentive mechanism for mobile crowdsourcing system
+
+Zhang Yongtang1, 2 (1.Dept.ofComputerScience &TechnologyGuangdong Neusoft Institute,Foshan Guangdong 528225,China;2.Guangdong Key Laboratory of Big Data Analysis & Processing, Guangzhou 510006, China)
+
+Abstract:The studyofmobilecrowdsourcing system has becomea hotspotin bigdata environment.In order to improve the validityand reliabilityof mobile crowdsourcing system,acomplete optimization algorithmofonline incentive mechanism is designed.For theasynchronous behaviorofusersariving and participating in tasks,animproved multi-stage reverse auction algorithmis proposed.Through online learning Adaptivelydetermine the "densitythreshold",dynamicallselect theoptimal userset,and update theuser'sreputationafter each transactionto guide thenext task asignment.Te simulationresults show thattheoptimizationalgorithmcanmeetecomputational eficiencyandthe profitabilityandauthenticityofboth parties,nd can achieve better performance under certain budget and time constraints .
+
+Key words: mobile crowdsourcing; data awareness; optimization algorithm; intelligent optimization
+
+# 0 引言
+
+众包[1]是互联网带来的一种分布式问题解决模式。近年来，随着移动设备的普及和无线通信技术的快速发展，移动众包[1]的概念应运而生。用户可以利用智能设备内置的丰富传感器和强大的存储、计算能力随时随地参与众包任务，任务请求者和用户之间也可以通过Wi-Fi、蓝牙或D2D等无线网络技术直接通信，弱化了基站和众包平台的干预，更好的进行资源共享和任务协作。与传统的基于Web的众包模式不同，移动众包系统具有更强的实时性和移动性，因此不能用已有的离线算法解决相关问题。
+
+由于用户参与众包任务必然会消耗移动设备的资源和电量，甚至存在地理位置等隐私泄露的威胁。因此，激励机制的设计尤为重要。已有的关于用户招募和激励的研究大多基于离线同步场景，通过Stackelberg博弈[2或贪婪搜索的算法[3选择最优用户集，但其要求所有人同时提交竞价或彼此信息公开，不适合用户随机到达和离开的异步现实场景。近两年，设置固定阈值的异步在线拍卖算法首先被提出，之后Zhang等人[4提出二阶段拍卖算法，拒绝并以第一阶段提交竞价的用户信息作为参考，但这对早到的用户有失公平性；Wang等人[5提出结合信誉更新和隐私保护的在线激励机制，但其将众包任务完全以感知时间衡量，限制了应用场景；Zhao等人[提出多阶段拍卖算法的思想，但未充分考虑利益双方违约的情况。本文在参考前人研究的基础上，针对更加真实的用户异步移动场景，提出一套完整的在线激励机制，包括改进的多阶段反向拍卖算法和信誉更新算法，理论和仿真结果证明，该激励机制优化算法满足计算有效性、利益双方正收益性和真实性，同时能在一定的时间和预算约束下获得更好的性能。
+
+# 1 系统模型
+
+假设候选用户集 $\mathbf { C } = \left\{ 1 , 2 , . . . , n \right\}$ ，任务集 $\mathfrak { 4 } = \left\{ \varphi _ { 1 } , \varphi _ { 2 } . . . . \varphi _ { m } \right\}$ ，任务请求者在某时某地发布任务信息（包括截止时间 $T$ 和预算 $B$ ），到达的用户根据个人兴趣提交竞价（包括期待报酬 $b _ { i }$ 和贡献值$\nu _ { i }$ )，用户 $i$ 完成此任务对应的花费为 $c _ { i }$ ，当前信誉值为 $r _ { i }$ 。每收到一个用户的竞价信息，任务请求者需立即决定是否接受该用户，若接受，则发放报酬 $p _ { i }$ 并进行交易。交易结束，根据任务完成质量对该用户的信誉值进行更新。故参与任务的每个用户 $i$ 的效益函数为
+
+$$
+g _ { i } = { \left\{ \begin{array} { l l } { p _ { i } - c _ { i } , } & { { \mathrm { i f ~ } } i \in \mathbf { S } } \\ { 0 , } & { { \mathrm { e l s e } } } \end{array} \right. }
+$$
+
+其中S代表已选用户集。定义任务请求者的实际效益为
+
+$$
+U \left( \mathbf { S } \right) = \lambda \log \left( 1 + \frac { V \left( \mathbf { S } \right) } { \lambda } \right) - P \left( \mathbf { S } \right)
+$$
+
+其中 $V \left( \mathbf { S } \right) = \sum _ { i \in \mathbf { S } } \nu _ { i }$ ， $P ( \mathbf { S } ) { = } \sum _ { i { \in } \mathbf { S } } p _ { i }$ ， $\lambda$ 为系统任务参与者的数量，该单调子模函数反映了经济学中边际效益递减的趋势，适用于很多现实场景。每个用户 $i$ 为任务请求者提供的实际边缘效益为
+
+$$
+\begin{array} { l } { { \displaystyle { u _ { i } = U \left( { \bf S } \cup { \it i } \right) - U \left( { \bf S } \right) } } } \\ { { \displaystyle ~ = \lambda \log \left( 1 + \frac { V \left( { \bf S } \right) + \nu _ { i } } { \lambda } \right) - \lambda \log \left( 1 + \frac { V \left( { \bf S } \right) } { \lambda } \right) - p _ { i } } } \end{array}
+$$
+
+式（3）用来衡量用户的实际个人贡献。基于此，本文的目标是设计一套合理的在线激励机制，能在预算和时间约束下最大化系统效益，即
+
+$$
+\mathbf { M a x i m i z e } U ( \mathbf { S } ) { \mathrm { s u b j e c t ~ t o } } P \left( \mathbf { S } \right) \leq B { \mathrm { a n d } } t \leq T
+$$
+
+# 2 算法设计
+
+# 2.1改进的多阶段反向拍卖算法
+
+针对上述系统模型，本文首先提出改进的多阶段反向拍卖算法。将任务过程按截止时间T分为多个阶段，动态增加样本，并通过在线学习的方式实时更新每个阶段的“密度阈值”[7]，用于对下一阶段进行决策。由于阈值的计算结合了用户的实际情况，可以自适应地调整至最优，改善了人为设置的不确定和不合理性。同时，初始化一个任务请求者可以接受的较小阈值来指导第一阶段的决策，这样第一阶段的用户也有机会赢得拍卖，且鼓励用户尽早到达，解决了二阶段拍卖算法的不公平问题。改进的多阶段在线反向拍卖算法如下：
+
+<html><body><table><tr><td>Input:budget B,deadline T Initialize:B'=|2i-1B/2[og2T]</td></tr><tr><td>|;t=1; T'=|2i-T/2[0g2]</td></tr><tr><td>S=Ω;ρ=ε;U(S)=0;P(S)=0 .</td></tr><tr><td>while t≤T do</td></tr><tr><td>if there is a user iarriving at time step t then</td></tr><tr><td>b=b; ;v=vi;u =U(SUi)-U(S);</td></tr><tr><td>If bi≤ui/p≤B'-P(S) then</td></tr><tr><td>Pi←b;S←SU{i}；</td></tr><tr><td>U(S)←U(S)+u; P(S)←P(S)+ Pi;</td></tr><tr><td>Else</td></tr><tr><td>end if</td></tr><tr><td>if t=T' then</td></tr></table></body></html>
+
+<html><body><table><tr><td>p=U(S)/(δ*P(S)) ;</td></tr><tr><td>B'←2B';T'←2T';</td></tr><tr><td>end if</td></tr><tr><td></td></tr><tr><td>t←t+1;</td></tr><tr><td>end while</td></tr></table></body></html>
+
+# 2.2真实的在线信誉更新算法
+
+任务请求者和用户的交易行为分为先付报酬和先完成任务两种情况。考虑个体的自私性，双方均倾向于损失更小的花费获得更高的效益，因此会出现“违约”行为[8]。本文以情况一为例对用户端设置奖惩激励，情况二对任务请求者同理。假设 $r _ { i } ^ { k - 1 }$ 为用户 $i$ 当前信誉值， $r _ { i } ^ { k }$ 为其完成任务 $k$ 之后的信誉值。定义$r _ { \mathrm { m a x } }$ 为系统用户信誉的最大值，各任务要求的信誉值集合为$\boldsymbol { \Theta } = \left\{ \theta _ { \scriptscriptstyle 0 } , \theta _ { 1 } , . . . , \theta _ { { m } } \right\}$ ，其中 $\theta _ { 0 }$ 是系统最低信誉阈值， $\theta _ { 1 } , \theta _ { 2 } , . . . , \theta _ { m } \geq \theta _ { 0 }$ 分别对应任务 $\varphi _ { 1 } , \varphi _ { 2 } , . . . , \varphi _ { m }$ 的信誉阈值， $0 \leq \theta \leq 1 0$ 。定义$q = \left( { \mathrm { g o o d } } , { \mathrm { b a d } } \right)$ 代表用户在本次任务中选择可信/不可信策略。则用户 $i$ 在完成任务 $k$ 之后的信誉更新算法如下：
+
+$$
+\begin{array} { r } { r _ { i } ^ { k } = \left\{ \begin{array} { l l } { \operatorname* { m i n } \left( r _ { i } ^ { k - 1 } + 1 , r _ { \mathrm { m a x } } \right) , \mathrm { i f ~ } q = \mathrm { g o o d } , r _ { i } ^ { k - 1 } \geq \theta _ { k } } \\ { \theta _ { k } - 1 , } & { \mathrm { i f ~ } q = \mathrm { b a d } , r _ { i } ^ { k - 1 } > \theta _ { k } , \theta _ { k } > \theta _ { 0 } } \\ { \theta _ { 0 } , } & { \mathrm { i f ~ } q = \mathrm { b a d } , r _ { i } ^ { k - 1 } > \theta _ { k } , \theta _ { k } = \theta _ { 0 } } \\ { \theta _ { 0 } , } & { \mathrm { i f ~ } q = \mathrm { b a d } , r _ { i } ^ { k - 1 } = \theta _ { k } , \theta _ { k } > \theta _ { 0 } } \\ { \theta _ { 0 } - 1 , } & { \mathrm { i f ~ } q = \mathrm { b a d } , r _ { i } ^ { k - 1 } = \theta _ { k } , \theta _ { k } = \theta _ { 0 } } \\ { r _ { i } ^ { k - 1 } , } & { \mathrm { i f ~ } r _ { i } ^ { k - 1 } < \theta _ { k } } \end{array} \right. } \end{array}
+$$
+
+可以看出，若用户在某次交易中选择了不可信行为，信誉会受损，但还有机会通过完成其他要求较低的任务进行弥补，只有信誉值低于系统阈值才会被系统驱逐，不能再参与任何任务。该方法可以有效激励用户按真实的报价完成任务，同时避免了设置单一阈值的传统信誉更新方法中的过度惩罚问题。
+
+# 3 仿真结果与分析
+
+# 3.1改进的多阶段反向拍卖算法仿真结果及分析
+
+编写MATLAB 程序，设置任务截止时间 $T = 8 \mathrm { { m i n } }$ ，预算$\scriptstyle B = 8 0$ ，用户的到达时间服从到达率为0.6的泊松分布[8]，用户竞价和贡献值均随机分布在1-10的范围内，系统任务参与者数量 $\lambda = 5 0 0$ ，初始密度阈值 $\rho = 1 / 2$ 。与设置固定密度阈值 $\rho = 1 / 2$ 的普通在线拍卖算法作对比，每个实验独立运行50次取平均值。仿真结果如图1所示。
+
+![](images/3c37c622d8d8a065dd757663c826cb5d708d4c7d2e711ddbfc73013ac53fa858.jpg)  
+（a）算法性能对比
+
+![](images/461b4aa2d367f00306312fd94958dd3140567f96f61dccd1cd015307f6c5dcaa.jpg)  
+图1改进的多阶段反向拍卖算法仿真结果
+
+从图1可以看出，本文提出的多阶段拍卖算法在效益和时间上都比传统的在线拍卖算法更胜一筹。事实上，若传统算法选择合适阈值，可以达到与本算法相近的性能，但人工选取阈值非常困难，这也是本算法的优点之一。图1（b）所示的程序运行时间代表交易时间，说明多阶段拍卖算法可以通过更少的交易次数获得 更高的效益，从全局角度优化了任务效率和能量损耗。但在现实场景中拒绝用户和等待新用户到达也需要时间，这也是该算法付出的代价。考虑人口密集、参与用户充足的情况，该时间消耗可忽略不计。
+
+单一改变截止时间 $T$ 、任务预算 $B$ 和用户到达率 $\boldsymbol { r }$ 对算法性能进行仿真比较，结果如图2所示。
+
+![](images/410a0c33f67a35ea59ea35eec49ba93f35c9ab201a8e2632a75ab7b1ca98d227.jpg)  
+(c）到达率 $\boldsymbol { r }$ 的影响   
+图2单一任务信息对实际效益的影响
+
+从图2可以看出，给定的预算越大，截止时间越长，用户到达率越高，任务请求者最终的实际效益越大。因为这三种情况都对应可以招募更多的优质用户参与任务，符合实际情况，进一步证明了算法的合理性。
+
+# 3.2在线信誉更新算法仿真结果及分析
+
+本文首先结合演化博弈理论[分析移动众包系统中可信用户的行为演化趋势，利益双方的博弈收益情况为：若任务请求者选择可信用户，双方收益为 $u _ { i } - p _ { i }$ ， $p _ { i } - c _ { i }$ ；若选择非可信用户，双方收益为 $- { p } _ { i }$ ， $\boldsymbol { p } _ { i }$ ；拒绝用户则双方收益为0。根据博弈收益矩阵分析纳什均衡[10]，设置系统中初始可信用户比例 $x$ 为0.3至0.9，步长为0.1，用户平均报酬和花费为5和2。可信用户行为演化趋势如图3所示。
+
+![](images/339c21c7dae8fa50f10c594b20cab6d95925c3179bdc2ca6fac2a8c7a4b1d991.jpg)  
+图3可信用户演化趋势
+
+从图3可以看出，在初始可信用户比例小于0.6的情况下，用户趋于选择非可信策略，所以有必要进行奖惩激励。对提出的信誉更新算法进行仿真，初始化可信用户数量为100，系统最小信誉阈值分别为 $\theta _ { 0 } = 6 , 7 , 8 , 9$ ，任务 $k$ 的要求阈值 $\theta _ { k } = 9$ 。与设置单一阈值的信誉更新算法作对比，结果如图4所示。
+
+![](images/cb20b837085f08170f4d7242da0280aa749c5be40dd0b3b919db8dcdfba8ea4a.jpg)  
+图4在线信誉更新算法性能对比
+
+从图4可以看出，新的信誉更新算法对用户的包容度更大，可使可信用户数量稳定在一个较高比例，更好地维持系统运行。而传统算法中用户一次不可信行为便会被系统驱逐，容易对潜在的可信用户造成过度惩罚。
+
+# 4 结束语
+
+本文针对新兴的移动众包场景提出一套完整的在线激励机制优化算法，包括改进的多阶段反向拍卖算法和信誉更新算法。
+
+理论上可以证明该机制满足计算有效性、利益双方正收益性和真实可靠性；仿真结果进一步表明，该激励机制能在一定的预算和时间约束下获得更好的性能。
+
+# 参考文献：
+
+[1]Chatzimilioudis G,Konstantind A. Crowdsourcing with smartphones [J]. IEEE Internet Computing,2012,16(5): 36-44.   
+[2]Tang Ming， Gao Lin， Pang Haitian.A multi-dimensional auction mechanism for mobile crowdsourced video streaming [C]//Proc of IEEE Conference on Computer Communications.2016:1-9.   
+[3] 王莹洁，蔡志鹏，童向荣，等．基于声誉的移动众包系统的在线激励机 制[J].计算机应用,2016,36(8):2121-2127.(Wang Yingjie,Cai Zhipeng, Tong Xiangrong,et al. Online incentive mechanism based on reputation for mobile crowdsourcing system [J].Journal of Computer Applications, 2016,36(8):2121-2127.)   
+[4]Zhang Xinglin, Yang Zheng, Zhou Zimu. Free market of crowdsourcing: Incentive mechanism design for mobile sensing[J].IEEE Trans on Parallel And Distributed Systems,2014,25 (12): 3190-3200.   
+[5]Wang Yingjie,Cai Zhipeng,Yin Guisheng.An incentive mechanism with privacy protection in mobile crowdsourcing systems [J].Computer Networks,2016,102 (3):157-171.   
+[6]Zhao Dong,Li Xiangyang,Ma Huadong.Budget-feasible online incentive mechanisms for crowdsourcing tasks truthfully [J].IEEE//ACM Trans on Networking,2016,24(2): 647-661.   
+[7]张永棠．基于代换加密的隐私保护协同过滤推荐算法[J]．新疆大学学 报：自然科学版,2017,34(4): 446-451.(Zhang Yongtang.An algorithm of cooperative filtering for privacy protection based on substitution encryption [J].Journal of Xinjiang University:Natural Science Edition,2O17,34(4): 446-451. )   
+[8]李熠晨，陈莉，石晨晨，等．采用信任网络增强的协同过滤算法[J]. 计算机应用研究,2018,35(1):116-120.(LiYichen,Chen Li,Shi Chenchen, et al. Enhanced collaborative filtering algorithm adopting trust network [J]. Application Research ofComputers,2018,35(1):116-120.)   
+[9]张永棠.考虑用户-发布者关系的个性化微博搜索模型[J].电子科技 大学学报,2018,47(1): 31-38.(Zhang Yongtang.Personalized Micro-Blog Search Model Considering User-publisher Relationship [J]，Journal of University ofElectronic Science and TechnologyofChina,2018,47(1): 31- 38.）   
+[10]杨凯．微博用户关系网络的结构研究与聚类分析[J].复杂系统与复杂 性科学,2013,10 (2): 36-42.(Yang Kai,Zhang Ning. Structure and Cluster Analysis on Micro-Blog User’s Relationship Networks[J].Complex
+
+Systems and Complexity Science,2013,10(2):36-42.)

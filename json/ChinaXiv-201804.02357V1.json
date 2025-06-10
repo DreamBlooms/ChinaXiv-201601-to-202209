@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "Diet characteristics of wild sheep (Ovis ammon darwini) in the Mengluoke Mountains, Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Bang1, XU Wenxuan1, David A BLANK1,2, WANG Muyang1, YANG Weikang1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 KeyLaboratoryof Biogeographyand ioresource inAridLand,Xinjiang Instituteof Ecologyand GeographyChinese Academy of Sciences,Urumqi 830o11,China; 2Research Center for Ecology and Environment of Central Asia, Bishkek 72Oo01, Kyrgyzstan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In most arid and semi-arid regions of the world,domestic livestock and native wildlife share pastures,and their competition for forage and habitat is thought to be a serious conservation issue. Moreover,unmanaged grazing by livestock can cause the population decline in wild ungulates. The diet of an animal species is a determining aspect of its ecological niche,and investigating its diet has been one of the initial steps in basic ecology study of a new species. To get an approximate understanding of the interspecific food relationships of argali (Ovis ammon darwini) between sexes, and sympatric domestic sheep and goats,we compared the diet compositions and diet-overlaps among these herbivores,i.e., male argali, female argali,domestic sheep,and domestic goats in the Mengluoke Mountains of Xinjiang, China by using micro-histological fecal analysis. Female argali, male argali， domestic sheep and domestic goat primarily consumed forbs $( 4 3 . 3 1 \\% \\pm 4 . 8 6 \\% )$ ，grass $( 3 6 . 0 2 \\% \\pm 9 . 3 2 \\% )$ ，forbs( $( 4 1 . 0 1 \\% \\pm 9 . 1 8 \\% )$ ，and forbs $\\langle 3 6 . 2 2 \\% \\pm 1 0 . 6 1 \\% \\rangle$ ,respectively in warm season.All these animals consumed mostly shrubs (female argali: $3 6 . 4 7 \\% \\pm 7 . 5 6 \\%$ ；male argali: $4 7 . 2 8 \\% \\pm 1 0 . 7 5 \\%$ domestic sheep: $4 0 . 4 6 \\% \\pm 9 . 5 6 \\%$ and domestic goats: $4 2 . 8 8 \\% \\pm 9 . 3 4 \\%$ ,respectively) in cold season. The diet-overlaps were relatively high among all species in cold season with values ranging from 0.88 to 0.94. Furthermore, Schoener's index measured between each possible pair of 4 herbivores increased from the warm season to the cold season.The results ilustrate that the high degree of diet-overlap of argali and domestic livestock (sheep and goat) may pose a threat to the survival of the argali in cold season. From the viewpoint of rangeland management and conservation of the endangered argali,the numbers of domestic sheep and goats should be limited in cold season to reduce food competition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:argali; fecal analysis; food habits; competition; diet-overlap ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pastoralism is the primary source of livelihood in many arid and semi-arid areas of the world, especially in Central Asia (Brown,1971; Li et al.,2OO8). In most of these regions, native wildlife shares many resources with domestic livestock (Campos-Arceiz et al.,2O04; Chu et al., 2009; Xu et al.,2O12a),and competition with domestic livestock for forage and habitat may be a serious conservation issue (Harris and Miller,1995; Campos-Arceiz et al., 20O4; Shrestha et al., 2005; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Harris,2O07； Wingard et al., 2O11). Overgrazing by livestock can cause population declines in wild ungulates (Liu and Jiang, 2OO4). The diet of an animal species is a determining aspect of its ecological niche,and quantifying diets has been one of the most significant steps in studying the basic ecology of the animal (Sih and Christensen,2OO1; Scasta et al., 2O16). Therefore,it is important to determine the diet composition and to maintain proper stocking levels of domestic and wild ungulates for a sustainable wildlife and ecosystem management (Caughley and Sinclair, 1994; Harris and Miller, 1995; Li et al.,2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Argali (Ovis ammon darwini) is the largest species in the genus Ovis (Fedosenko,20oo), which is classified as Vulnerable (NE) by the International Union for Conservation of Nature (IUCN). The Convention on International Trade of Endangered Species of Wild Flora and Fauna (CITES) lists all subspecies of argali as either Appendix Ior II. In China,argali is listed as a Grade I species under state protected animals (Wang,1998).This species lives in southern Siberia and in the mountains of Central and Middle Asia, from the center of Kazakhstan to the west of Shanxi Province of China in the east, and from Altai Mountains to the north of Himalayas Mountains in the south (Fedosenko and Blank,2Oo5; Gao et al.,2O11). There have been a few investigations of the food habits of the argali (Schaller,1998;Fedosenko,2OOO),and diet-overlap with livestock (Harris and Miller, 1995; Wingard et al.,2O11), but these studies are not enough and have their limitations because most of these researches were conducted in one season (Harrs and Miller, 1995),and did not reveal the connection between sexes and diet-overlap level (Wingard et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Body size and the digestive physiology of the herbivores are affective factors of fecal composition (Campos-Arceiz et al., 2O04). The Jarman-Bell principle has unveiled that smaller ungulates selectively choose beter quality foods, while larger ungulates eat lower quality foods non-selectively (Bell,1971; Jarman,1974).The size of the male argali is significantly larger than females, domestic sheep or domestic goats, for example,mass of adult males is $1 1 0 \\mathrm { k g }$ ,but that of adult females is $4 0 { - } 7 0 \\mathrm { k g }$ (Fedosenko and Blank,2Oo5) However, mean weight of domestic sheep or goats is about $3 5 ~ \\mathrm { k g }$ for adult females and $6 0 ~ \\mathrm { k g }$ for males (Badarch et al., 2OO3). Therefore, forage competition between male argali and the livestock may be considered to decrease because of their variations in the body size.However, forage is under limited competition for it may be strong when morphological differences tend to facilitate coexistence (Gordon and Illius,1989). Winngard et al. (2O11) found the largest diet-overlap of argali and livestock occurred in spring and winter seasons when vegetation was lowest in quality and palatability. Therefore,with the objective consideration of interspecific food relationships among the male argali, female argali, and sympatric domestic sheep and goat, the botanical compositions and diet-overlaps among 4 herbivores were compared by analyzing the feces found in the Mengluoke Mountains of Xinjiang, China to test the hypothesis that argali may have difference in diet composition between sexes. Besides,making a prediction, the botanical composition and species richness of diets calculated between male and female argali in warm season (group segregated) could be different, and that diet composition and diet species richness of both sexes could be similar in cold season (group aggregation)； while the predicted diet-overlap between livestock and the male argali might be quite low,with a high diet-overlap between livestock and the female argali. Totally，the diet-overlap is higher in cold season than in warm season. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Field work was conducted in Mengluoke Mountains $( 4 4 ^ { \\circ } 3 1 ^ { \\prime } \\mathrm { N }$ $9 1 ^ { \\circ } 4 7 ^ { \\prime } \\mathrm { E }$ ）in eastern Junggar Basin, Xinjiang, China. The mountains consist of $1 0 0 \\mathrm { k m } ^ { 2 }$ of the narrow valleys and worn rock outcrops, with flora representative of the desert-steppe communities at $1 2 0 0 { - } 1 7 5 0 \\ \\mathrm { m }$ elevation.The climate of the Mengluoke Mountains is continental, known for its relatively long cold winter (October to early May） and shorter warm summer (middle May to September). Precipitation is low and seasonal; mean annual precipitation is about $1 5 0 ~ \\mathrm { m m }$ ,mostly in summer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In these desert-steppe communities，vegetation is sparse with dominant plants,including grasses (e.g., Stipa grandis， Stipa caucasica, Achnatherum splendens and Leymus racemosus), shrubs and semi-shrubs (e.g., Caragana leucophloea, Caragana jubata, Spiraea hypericifolia and Seriphidium spp.) and forbs (e.g., Anabasis brevifolia, Ceratoides latens, Heteropappus hispidus, llium polyrhizum and Hedysarum spp.). The area is an important habitat of wildlife,inhabited by various protected animals such as the goitred gazelle (Gazella subgutturosa),lynx (Lynx lynx), wolf (Canis lupus), red fox (Vulpes vulpes) and chukar partridge (Alectoris chukar). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The resident herder population was approximately 78, from 18 households, sharing Mengluoke Mountains,with an estimated 1700 sheep,1300 goats,24 horses,and 17 catle in 2015,during the study period.The intensity of grazing the grassland varies due to the residents'seasonal migration of every year. The south of the mountain is used as main winter grassland in cold season, from October to May in the next year,while the north of the mountain is used as the main summer grassland in warm season from May to September. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Dung collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Field study was conducted in the survey region on food in warm season (from June to August, 2015)and cold season (from October to November, 2O15), covering all vegetation types in the reserve. Fresh fecal samples were only collected from observed animals.The fresh fecal samples were collected before they moved away. According to the existing literature,15 fecal samples could be as precise as 50 rumen samples (Anthony and Smith,1974), so 20 fecal samples of male and female were collcted in the area and in each season.Moreover, fecal samples from livestock were collected using the same protocols as for argali at different herder camps in the same region. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Micro-histological analysis of feces,which has been wildly used as for its reliability to estimate diet composition for grazing animals (Stewart， 1967； Korfhage，1976； Stevens et al.,1987; Shrestha et al., 2Oo5), was used to study the diets of the argali, domestic sheep,and goat. The initial treatment of fecal samples in the field refers to Wingard et al. (2O11) and $\\mathrm { X u }$ et al. (2012b), drying in an area of good air circulation to prevent molding in the field. After preliminary drying, each pellet sample from each animal group was separately stored in different paper bags labeled with necessary information, such as date, time, GPS location, and the animal group. The protocol used was designed referring to researches conducted by Williams (1969) and Stevens et al. (1987). Then fecal samples were treated under process as follows: oven-drying $( 6 0 ^ { \\circ } \\mathrm { C } , 2 4 \\mathrm { h } )$ ， grounding in a mortar, dissolving in water and then being treated in different solutions. For each group animal in each season，15 microscopic slides were set. Then，2O microscope fields per slide were examined at $1 0 0 \\times$ magnification via a binocular microscope (total 30o views per sample). The frequency of recognizable plant fragments was qualified for each sample, and the relative density (RD)of these plant species was calculated in the diet for each season of each group (Johnson, 1982; Shrestha et al.,2Oo5). The identification of the fragments can be determined by different characteristics and factors of the epidermal cells as well as other taxonomical structures (Holechek and Gross,1982). All micro-histological analyses were conducted by the same person to minimize observer bias. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Data analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Argali and livestock diets were reconciled with specimens of key plant species (i.e., species representing $> 3 \\%$ of the mean diets of argali or livestock in at least one season),and main plant categories (plant categorical levels included forbs, grasses, shrubs, sedges,and others; category 'others' means flowers， insects， lichens， fruits， etc.； Wingard et al.，2011). One-Sample Kolmogorov-Smirnov Test was used to check whether the data fit a normal distribution: if negative,the nonparametric tests would be used; and if positive, multivariate analysis of variance and $t \\cdot$ -test would be used to test whether proportion of the main plant categories was similar in the diets of 4 herbivores or two seasons,as well as interactions between these two factors. Statistical significance would be set at $P { < } 0 . 0 5$ level. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The diet-overlaps among male argali, female argali, domestic sheep,and domestic goat were qualified using Schoener's index (Schoener,1968): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO _ { j k } = 1 - { \\frac { 1 } { 2 } } / \\sum \\Bigl | P _ { i j } - P _ { i k } \\Bigr | ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $O _ { j k }$ is the overlap between species $j$ and $k ; P _ { i j }$ and $P _ { i k }$ are the proportions of species $i$ in the diet of ungulates $j$ and $k$ ,respectively; the Schoener's index ranges from O to 1 and is considered to be biologically significant when it exceeds O.6 (Mathur,1977; Abrams,1980). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Seasonal food habits ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Totally，37 plant species in the diets of female argali were identified,among which 7 constituted $> 3 \\%$ of mean seasonal diets in at least one season,and they occupied $8 5 . 6 8 \\%$ of the mean diet in argali feces in warm season and $8 9 . 7 1 \\%$ in cold season.Key shrubs ate by female argali were Caragana leucophloea, Ceratoides latens,Spiraea hypericifolia,Anabasis brevifolia and Convolvulus tragacanthoides; key forbs were Seriphidium spp. and Atriplex patens; and key grasses were Stipa caucasica and Stipa grandis (Table 1). Female argali predominantly fed on forbs $( 4 3 . 3 1 \\% )$ and shrubs $( 3 0 . 3 5 \\% )$ in warm season,while they fed more on shrubs $( 4 8 . 5 7 \\% )$ and grasses $( 3 4 . 9 1 \\% )$ in cold season (Fig. 1).Multivariate analysis of variance indicate that proportions of forbs $\\scriptstyle 1 = 6 . 9 8$ ， $P { < } 0 . 0 1$ ，grass $\\stackrel { \\cdot } { t } = - 3 . 5 2$ ， $P { < } 0 . 0 1$ ),and shrubs( $\\scriptstyle { t = - 2 . 1 3 }$ $P { < } 0 . 0 5 )$ had significant differences between two seasons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile,37 plant species in the diets of male argali were identified,among which 8 constituted $5 3 \\%$ of mean seasonal diets in more than one season,and they accounted for $8 6 . 0 3 \\%$ of the mean diet in male argali feces in warm season and $9 0 . 1 7 \\%$ in cold season. Key shrubs used were Caragana leucophloea, Ceratoides latens, Spiraea hypericifolia and Anabasis brevifolia; key forbs were Seriphidium spp. and Atriplex patens; key grasses were Stipa caucasica and Stipa grandis (Table 1).Male argali predominantly fed on grass $( 3 6 . 0 2 \\% )$ and forbs $( 3 5 . 4 4 \\% )$ in warm season.However, they fed more on shrubs $( 4 7 . 2 8 \\% )$ and grasses $( 3 8 . 6 5 \\% )$ in cold season (Fig. 1). The proportions of forbs and shrubs had significant difference between two seasons (forbs: $\\scriptstyle t = 7 . 5 6$ $P { < } 0 . 0 1$ ; shrubs: $t { = } - 5 . 2 3$ $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/06a774dc5e194c45803cb43aa13ff5000e0b13827fb7eedfff6b9881f8c6926e.jpg",
+        "img_caption": [
+            "Fig.1Proportion of diet composition of argali and livestock in warm season (a)and cold season (b） in Mengluoke Mountains,Xinjiang, China. Circle illustrates the mean of diet composition. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b90c012ddb497c27a4f31ed0b95cb27b910146d1f1e99602395f838e10bc9cf2.jpg",
+        "table_caption": [
+            "ree ",
+            "irlriregsaiansetcrealbll atr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Food species</td><td colspan=\"4\">Female argali</td><td colspan=\"4\">Male argali</td><td colspan=\"4\">Domestic sheep</td><td colspan=\"4\">Domestic goat</td></tr><tr><td colspan=\"2\">Warm season</td><td colspan=\"2\">Cold season</td><td colspan=\"2\">Warm season</td><td colspan=\"2\">Cold season</td><td colspan=\"2\">Warm season</td><td colspan=\"2\">Cold season</td><td colspan=\"2\">Warm season</td><td colspan=\"2\">Cold season</td></tr><tr><td>x</td><td>SD</td><td>-x</td><td>SD</td><td>-x</td><td>SD</td><td>_x</td><td>SD</td><td>_x</td><td>SD</td><td>_x</td><td>SD</td><td>-x</td><td>SD</td><td>-x</td><td>SD</td></tr><tr><td>Forbs</td><td>43.31</td><td>4.86</td><td>28.61</td><td>6.55</td><td>35.44</td><td>8.43</td><td>13.57</td><td>7.39</td><td>41.01</td><td>9.18</td><td>21.05</td><td>5.61</td><td>36.22</td><td>10.61</td><td>19.36</td><td>6.04</td></tr><tr><td>Seriphidiumspp.</td><td>16.66</td><td>5.96</td><td>13.89</td><td>5.55</td><td>17.14</td><td>7.29</td><td>11.13</td><td>7.65</td><td>16.57</td><td>7.87</td><td>15.23</td><td>5.97</td><td>16.87</td><td>8.29</td><td>14.27</td><td>5.87</td></tr><tr><td>Atriplex patens</td><td>15.57</td><td>5.05</td><td>-</td><td>1</td><td>6.71</td><td>5.03</td><td>1</td><td>1</td><td>8.27</td><td>4.33</td><td>1.07</td><td>2.22</td><td>10.31</td><td>7.62</td><td>1.45</td><td>2.14</td></tr><tr><td>Salsola affinis</td><td>2.01</td><td>3.26</td><td>0.62</td><td>1.65</td><td>2.73</td><td>2.57</td><td>0.28</td><td>1.08</td><td>1</td><td>1</td><td>0.35</td><td>1.36</td><td>0.67</td><td>1.81</td><td></td><td>1</td></tr><tr><td>Salsolasubcrassa</td><td>1.43</td><td>2.52</td><td>-</td><td>-</td><td>1.99</td><td>3.10</td><td></td><td>1</td><td>1.87</td><td>2.93</td><td>1</td><td>1</td><td>2.04</td><td>3.10</td><td>1</td><td>1</td></tr><tr><td>Plantagoasiatica</td><td>0.28</td><td>1.08</td><td>-</td><td>1</td><td>0.28</td><td>1.08</td><td>1</td><td>1</td><td>2.42</td><td>2.55</td><td>1.36</td><td>2.36</td><td>0.28</td><td>1.08</td><td>0.59</td><td>1.57</td></tr><tr><td>Ranunculus spp.</td><td>二</td><td>二</td><td></td><td>二</td><td>二</td><td>二</td><td>二</td><td>二</td><td>3.88</td><td>2.63</td><td>1.02</td><td>2.11</td><td>二</td><td>二</td><td>0.62</td><td>1.64</td></tr><tr><td>Grasses</td><td>25.78</td><td>6.81</td><td>34.91</td><td>7.42</td><td>36.02</td><td>9.32</td><td>38.65</td><td>8.15</td><td>35.12</td><td>7.71</td><td>37.09</td><td>8.53</td><td>29.64</td><td>10.13</td><td>36.35</td><td>7.40</td></tr><tr><td>Stipa caucasica</td><td>19.69</td><td>4.62</td><td>29.95</td><td>5.55</td><td>28.76</td><td>7.11</td><td>32.29</td><td>6.96</td><td>25.40</td><td>5.77</td><td>30.82</td><td>6.05</td><td>21.96</td><td>5.99</td><td>30.01</td><td>6.25</td></tr><tr><td>Stipa grandis</td><td>2.23</td><td>2.21</td><td>3.02</td><td>2.86</td><td>3.47</td><td>3.94</td><td>3.60</td><td>3.13</td><td>3.04</td><td>3.34</td><td>2.85</td><td>3.41</td><td>3.73</td><td>3.71</td><td>3.61</td><td>3.23</td></tr><tr><td>Achnatherum splendens</td><td>1</td><td>1</td><td>1</td><td>1</td><td>一</td><td>1</td><td>1</td><td>1</td><td>2.47</td><td>2.64</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Shrubs</td><td>30.35</td><td>8.15</td><td>36.47</td><td>7.56</td><td>27.97</td><td>9.42</td><td>47.28</td><td>10.75</td><td>20.78</td><td>7.97</td><td>40.46</td><td>9.56</td><td>31.68</td><td>8.92</td><td>42.88</td><td>9.34</td></tr><tr><td>Caragana leucophloea</td><td>9.22</td><td>3.76</td><td>11.91</td><td>3.76</td><td>8.71</td><td>3.98</td><td>12.15</td><td>3.81</td><td>5.10</td><td>2.56</td><td>7.41</td><td>2.90</td><td>12.32</td><td>4.58</td><td>9.23</td><td>3.77</td></tr><tr><td>Ceratoides latens</td><td>9.55</td><td>4.89</td><td>11.95</td><td>5.83</td><td>8.52</td><td>5.05</td><td>11.47</td><td>7.11</td><td>8.06</td><td>4.92</td><td>12.52</td><td>6.68</td><td>6.00</td><td>4.48</td><td>12.50</td><td>7.01</td></tr><tr><td>Spiraea hypericifolia</td><td>8.26</td><td>4.30</td><td>9.36</td><td>4.19</td><td>7.16</td><td>4.00</td><td>9.74</td><td>3.87</td><td>4.32</td><td>2.50</td><td>9.04</td><td>3.61</td><td>10.03</td><td>3.98</td><td>9.31</td><td>3.42</td></tr><tr><td>Anabasis brevifolia</td><td>0.22</td><td>0.86</td><td>5.70</td><td>2.74</td><td>1</td><td>1</td><td>6.99</td><td>2.81</td><td>0.22</td><td>0.86</td><td>4.36</td><td>3.81</td><td>0.20</td><td>0.78</td><td>3.99</td><td>2.69</td></tr><tr><td>Convolvulustragacanthoides</td><td>二</td><td>二</td><td>3.30</td><td>3.27</td><td>一</td><td>二</td><td>2.03</td><td>2.25</td><td>二</td><td>二</td><td>0.72</td><td>1.90</td><td>二</td><td>二</td><td>1.32</td><td>1.97</td></tr><tr><td>Sedges</td><td>0.57</td><td>1.50</td><td>二</td><td>二</td><td>0.57</td><td>1.50</td><td>0.52</td><td>1.37</td><td>3.09</td><td>2.62</td><td>1.39</td><td>2.39</td><td>2.45</td><td>2.14</td><td>1.41</td><td>2.12</td></tr><tr><td>Carexspp.</td><td>0.57</td><td>1.50</td><td>一</td><td>1</td><td>0.57</td><td>1.50</td><td>0.52</td><td>1.37</td><td>3.09</td><td>2.62</td><td>1.39</td><td>2.39</td><td>2.45</td><td>2.14</td><td>1.41</td><td>2.12</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We identified 40 and 38 plant species in domestic sheep and domestic goat, respectively, of these,9 and 8 constituted $5 3 \\%$ of mean seasonal diets in more than one season,and they accounted for $8 4 . 7 2 \\%$ and $8 6 . 8 7 \\%$ of the mean diet in domestic sheep and domestic goat feces in warm season, and $8 8 . 1 5 \\%$ and $8 8 . 3 1 \\%$ in cold season, respectively. Key plants used by livestock were Caragana leucophloea, Ceratoides latens, Spiraea hypericifolia and Anabasis brevifolia; grasses Stipa caucasica and Stipa grandis; forbs Seriphidium spp.，Atriplex patens and Ranunculus spp.,and the only key sedge Carex spp. (Table 1). Both domestic sheep and domestic goat predominantly fed on forbs $( 4 1 . 0 1 \\%$ VS. $3 6 . 2 2 \\%$ ，grass $( 3 5 . 1 2 \\%$ VS. $2 9 . 6 4 \\%$ ）and shrubs （20 $( 2 0 . 7 8 \\%$ vs. $3 1 . 6 2 \\% )$ ）in warm season.However, they fed more on shrubs $( 4 0 . 4 6 \\%$ VS. $4 2 . 8 8 \\%$ 0 and grasses $( 3 7 . 0 9 \\%$ Vs. $3 6 . 3 5 \\%$ in cold season (Fig.1).The proportions of forbs and shrubs had significant difference in domestic sheep (forbs: $\\scriptstyle t = 7 . 1 8$ ， ${ \\cal P } { < } 0 . 0 1$ ; shrubs: $t { = } - 6 . 1 2$ ， $P { < } 0 . 0 1 \\$ ）and domestic goat (forbs: $\\scriptstyle t = 5 . 3 5$ $P { < } 0 . 0 1$ ; shrubs: $t { = } - 3 . 3 6$ $P { < } 0 . 0 1 \\$ )between two seasons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In warm season, proportions of the main plant categories eaten differed among the 4 ungulates $\\scriptstyle ( F = 5 . 5 9$ ：， $P { < } 0 . 0 1 \\$ ).Female argali grazed more forbs than male ( $_ { t = 2 . 5 1 }$ ， $P { < } 0 . 0 5 )$ ,male argali and domestic sheep grazed more grass than female argali ( $\\scriptstyle \\cdot = 2 . 9 8$ ， $P { < } 0 . 0 5$ ； $\\scriptstyle t = 2 . 6 6$ ， $P { < } 0 . 0 1$ ， respectively), female argali and domestic goat grazed more shrub than domestic sheep $\\scriptstyle ( t = 2 . 9 4 ,$ $P { < } \\bar { 0 } . 0 5$ ： $\\scriptstyle t = 3 . 0 9$ ， $P { < } 0 . 0 1$ ,respectively),domestic sheep grazed more sedge than male and female argali ( $_ { t = 2 . 5 2 }$ ， $P { < } 0 . 0 5$ ：， $\\scriptstyle t = 2 . 5 2$ ， $P { < } 0 . 0 5$ ，respectively).In cold season,proportions of the main plant categories eaten differed among the 4 ungulates ( ${ \\it F } { = } 6 . 3 6$ ， $P { < } 0 . 0 1 \\$ ).Female argali grazed more on forbs than male argali, domestic sheep and goat ( $_ { t = 5 . 9 0 }$ ${ P \\mathrm { { < } } } 0 . 0 1 \\$ · $\\scriptstyle t = 3 . 9 6$ $P { < } 0 . 0 1$ $\\scriptstyle t = 4 . 0 2$ $P { < } 0 . 0 1$ ,respectively),and less on shrub than male argali and domestic goat ( $\\overset { \\cdot } { t } = - 3 . 1 8$ ， $P { < } 0 . 0 1$ ·， $t =$ $- 2 . 0 7$ ， $P { < } 0 . 0 5$ , respectively),and less on sedge than domestic sheep ( $\\stackrel { \\prime } { t } = - 2 . 5 2$ ， $P { < } 0 . 0 5 )$ and goat 0 $\\stackrel { \\cdot } { t } = - 2 . 5 8$ ， $\\scriptstyle P < 0 . 0 5$ ). There were no differences in proportions of grass among 4 ungulates.Male argali grazed less on forbs than domestic sheep ( $\\scriptstyle t = - 3 . 1 2$ ， $P { < } 0 . 0 1 \\rangle$ ）and goat did( $\\stackrel { \\prime } { t } = - 2 . 3 5$ $P { < } 0 . 0 5 \\rangle$ ,and there were no differences in proportions of grass, shrubs and sedges among the 3 ungulates. It is evident that no significant difference of main plant categories was found between domestic sheep and goats. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Diet-overlap among male argali, female argali, domestic sheep, and domestic goat ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All Schoener's index measured between each possble pair of 4 herbivores increased from the warm season to the cold season. Diet-overlaps were relatively high among all species in cold season with values ranging from O.88 to O.94 (Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1Seasonal foodhabits ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Argali are mixed feeders in Mongolian Gobi, Altai-Sayan Region,and Tibetan Plateau (Harris and Miler,1995; Miller and Schaller,1996; Schaller,1998;Fedosenko,2000; Shrestha et al., 2005; Wingard et al.,2O11). Argali foraged mainly on shrubs,followed by graminoids and forbs at lower elevations in summer. However, argali diets mostly consist of forbs and grasses in summer on the Tibetan Plateau. In warm season (June and July) male argali was similar to those reported by Harris and Miller(1995） and Miller and Schaller(1996) in those diets mainly consist of grasses and forbs.Thus, there was the cause of these differences among diets，subspecies, studying time and vegetation species (Shrestha et al.，2OO5)，all of which determine forage availability. Our results illustrated that the diet composition of argali was $2 7 . 9 7 \\% - 4 8 . 5 9 \\%$ shrub, $2 5 . 7 7 \\% - 3 8 . 6 5 \\%$ grass,and $1 3 . 5 7 \\% - 4 3 . 3 0 \\%$ forb.Hofmann and Stewart (1972） found that the mixed feeders' diet contains more than $2 5 \\%$ browse and less than $7 5 \\%$ fruits,dicotyledonous foliage,and shoots.Therefore,Darwini argali could be categorized as a mixed feeder. It is believed that the natural diet of Darwini argali has been adapted to the arid mountain environment. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Argali is one of the most sexually dimorphic mammals (Fedosenko and Blank,2005). According to prior studies,rumen and the turnover ratio depends significantly on the size of animals,and larger animal tends to have larger rumen and lower turnover ratio, providing a more efficient digesting ability by keeping food longer in the stomach (Demment and VanSoest,1985; Illius and Gordon,1992). Similar phenomenon was thought to occur between sexes where males may have a preference of abundant, low-quality forage, while females could have a preference of high-quality forage to fulfill high energy demands caused by gestation and lactation (Main and Coblentz,1996). Our results show that female argali fed on more forbs than male argali in warm season $( 4 3 . 3 1 \\%$ Vs. $3 6 . 0 2 \\% )$ . Similarly, it has been shown that when provided with greater nitrogen content, desert bighorn sheep(Ovis canadensis mexicana) (Fulbright et al., 2001） and Khulan (Equus hemionus hemionus) (Xu et al., 2O12b) prefer forbs strongly. However, there are no significant differences between sexes in cold season.In addition,the diet of rocky mountain bighorn sheep shows a variety of different percentages of plant species in winter, while the reasons for these differences was that the use of areas is entirely different because of the different forage plant availabilities (Shank,1982,1985). In our study area, male and female argali show no difference in occurrence in cold season, low aboveground biomass and grazing by livestock may be responsible to the shortage of sexual partitioning in diet in cold season. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a792391d38c5497886130763ebc3b64df5e5f186b224131ff277296cc5433c4.jpg",
+        "table_caption": [
+            "Table 2Schoener's index $( O _ { j k } )$ on the diet-overlaps among male argali, female argali， domestic sheep,and domestic goat in the Mengluoke Mountains,Xinjiang,China "
+        ],
+        "table_footnote": [
+            "Note: $O _ { j k } { = } 0$ means no overlap and $O _ { j k } = 1$ means complete overlap. "
+        ],
+        "table_body": "<html><body><table><tr><td>Ungulate pair</td><td>Period</td><td>Ojk</td></tr><tr><td rowspan=\"2\">Male argali vs. female argali</td><td>Warm season</td><td>0.87</td></tr><tr><td>Cold season</td><td>0.92</td></tr><tr><td rowspan=\"2\">Male argali vs.domestic sheep</td><td>Warm season</td><td>0.85</td></tr><tr><td>Cold season</td><td>0.88</td></tr><tr><td rowspan=\"2\">Male argali vs.domestic goat</td><td>Warm season</td><td>0.88</td></tr><tr><td>Cold season</td><td>0.89</td></tr><tr><td rowspan=\"2\">Female argali vs. domestic sheep</td><td>Warm season</td><td>0.79</td></tr><tr><td>Cold season</td><td>0.89</td></tr><tr><td rowspan=\"2\">Female argali vs.domestic goat</td><td>Warm season</td><td>0.89</td></tr><tr><td>Cold season</td><td>0.91</td></tr><tr><td rowspan=\"2\">domestic sheep vs.domestic goat</td><td>Warm season</td><td>0.81</td></tr><tr><td>Cold season</td><td>0.94</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although the similarity of diet composition for these 4 ungulates in both warm and cold seasons was marked,there are still several exceptions.Both argali and livestock eat similar plant species with the exception of two species (Ranunculus spp. and Convolvulus arvensis),which were eaten by livestock but not by argali. Besides, domestic sheep and goats eat more Carex spp., Ranunculus spp.,and Plantago asiatica than male and female argali. Livestock more often consumed those plants near water pools.Thus,animal distribution and subsequent selection may be another determining factor, since argali tend to avoid water resources where the residents choose to live. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2 Diet-overlap ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The competition of wild ungulates with livestock is usually unavoidable (Putman,1996; Mishra et al.,2004). Conflicts might be severe in cold season (winter and spring) because of reduction of aboveground biomass (Caughley and Sinclar,1994; Ego et al.,2OO3). Due to our studies,better forage availability could be the reason for lower diet-overlap in warm season,and the higher diet-overlap between argali and livestock appeared in cold season with most limited forage (Table 2). High overlap in diet composition indicated a high possibility of food competition, particularly when available aboveground biomass is low in winter (Li et al.，2Oo8). Studies on forage availability in Nart Nature Reserve (Mongolia) show that total mean biomass in summer (19.0 $\\mathrm { g } / \\mathrm { m } ^ { 2 } )$ declined by $82 \\%$ to a mean of $3 . 5 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ in winter,and the diet-overlap of argali and livestock was high,ranging from $72 \\%$ in summer to $9 5 \\%$ in winter(Wingard et al.,2011). It is crucial that diet-overlap between male and female argali was higher than domestic sheep. We found domestic goats ate more shrubs than sheep in warm season (Fig.1),and our sampling was referred to those reported by Lopes and Stuth (1984),and Harrington (1986) in that goat diets were dominated by shrubs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theories relating to interspecific competition， diet，and habitat segregation predict that potential competitors who coexist in the same community should exhibit different niche or resource portioning to avoid intense competition (Begon et al.， 2Oo6). Ungulates might select different foraging areas to avoid interspecific competition, such as roe deer (Caprelus capreolus) and muntjac (Muntiacus reevesi) in East Africa (Hemami et al.,2O04). The north of Mengluoke Mountains served as the primary pastures for domestic livestock in warm season (from middle May to September),argali mainly grazed in the south of mountain to avoid competition by the field observation in one year. Although livestock were in the south of Mengluoke Mountains in cold season，the grazing behavior of argali was still observed， probably because of the overgrazing in the north and the reduction of biomass in cold season. Therefore,the potential for competition between argali and livestock is high in cold season. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Micro-histological fecal analysis has been suggested to be one of the best techniques for quantifying diet composition of large ungulate on rangelands.However, it also has some important disadvantages which are discussed by Owen (1975), Smith and Shandruk (1979),and Vavra and Holechek (198O).Holechek et al. (1982) reviewed and discussed systematically the pros and cons of fecal analysis. Comprehensively,over-estimation of shrub may be quite common given to the larger fiber content and relatively lower digestibility; however, the digested forbs are usually undervalued (Holechek and Vavra,1981).When comparing with herbivores,the fecal analyses can be proper, which could be especially appropriate in comparing the herbivorous via the same method (Baldi et al., 2OO4). Similarly, it may not bring systematic bias into the diet assessment when we compared 4 species in micro-histological fragmental analyses. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Analysis of fecal samples of male argali, female argali, domestic sheep,and domestic goat revealed food preferences and diet-overlaps among the ungulates. Our conclusions are: (1） the proportions of forbs and grass of male and female argali differ when sexes are segregated, but that main plant categories (forbs， grass， shrubs and sedges） of both sexes are similar during aggregation; (2) the diet-overlap between domestic goat and argali was higher than that of the domestic sheep and argali; and (3) diets of 4 ungulates were highly overlapped in cold season, indicating a competition for food resources. Our study shows that the high degree of diet-overlap between the argali and domestic livestock (sheep and goats) may pose a threat to the survival of the argali in cold season. From the viewpoint of rangeland management and conservation of the endangered argali, the numbers of domestic sheep and goats should be limited in cold season. Especially, the domestic goat in the reserve should be rigorously restricted for avoiding diet competition. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theresearch wassupported by the National Key Research and Development Project of China (2016YFC0503307)，and the National Natural Science Foundation of China (31661143019，4151101357, U1303301).We give our thanks to Dahuangshuiquan Border Police Station and Forestry Police Station of Mori Kazak Autonomous County， Xinjiang, China for supporting our research.And we appreciate the field work conducted by WU Ke and ZHAO Xianxian. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abrams P.1980.Some comments on measuring niche overlap.Ecology,61(1): 44-49.   \nAnthonyRG,Smith NS.1974.Comparisonof rumenandfecalanalysis to describe der diets.Journal of Wildlife Management, 38(3): 535-540.   \nBadarch D,ZilinskasRA,BalintPJ.2Oo3.Mongoliatoday:science,culture,environmentanddevelopment.MongoliaToday Science Culture Environment &Development, 64(3):735-736.   \nBaldiR,Peliza-SbrilerAD,ElstonD,etal.2O04.High potentialforcompetitionbetween guanacosandsheepinPatagonia. Journal ofWildlife Management,68(4):924-938.   \nDtgUI ivI,UwHseIuC,HaipeI ZUUU.Ecuiogy:rIo uiviuuais to EcusysteiHs（4 UXIOIu. DIacKWeH ScIeHuIC 264-265.   \nBell R H V.1971.A grazing ecosystem in the Serengeti. Scientific American,225(1): 86-93.   \nBrown LH.1971.The biology of pastoral man as afactor in conservation.Biological Conservation,3(2): 93-100.   \nCampos-Arceiz A,Takatsuki S,Lhagvasuren B.20o4.Food overlap between Mongolian gazellesand livestockinOmnogobi, southern Mongolia. Ecological Research,19(4): 455-460.   \nCaughley G, Sinclair AR E.1994.Wildlife Ecology and Management. Cambridge: Blackwell Science,305-324.   \nChu HJ,Jiang ZG,GeY,etal.2Oo9.Population densitiesandnumberof khulanandgoitredgazeleinMt.Kalamaili Ungulate Nature Reserve.Biodiversity Science,17(4): 414-422.(in Chinese)   \nDemment MW,VanSoestPJ.1985.Anutrional explanation forbody-size paternsofruminantand nonruminantherbivores. The American Naturalist,125(5): 641-672.   \nEgo WK,MbuviDM,KibetPFK.2Oo3.Dietarycompositionof wildebest (Connochaetes taurinus)kongoni (Alcephalus buselaphus)andcatle (Bos indicus),grazing onacommonranch insouth-central Kenya.African Journal ofEcology,41(1): 83-92.   \nFedosenko A K. 2Oo0.Study of Argali in Russia and Bordering Countries.Moscow: GU Tsentrookhotkontrol,291.   \nFedosenko A K, Blank DA. 2005. Ovis ammon. Mammalian Species,773: 1-15.   \nFulbrightTE,RobnsWF,HelgrenEC,etal.2Oo1.Lackofdietpartitioningbysex inreintroduceddesertbighorsheep. Journal of Arid Environments,48(1): 49-57.   \nGao X Y, XUWX,Yang WK,etal.2011.Status anddistributionofungulates in Xinjiang,China.Journalof Aridand,3(1): 49-60.   \nGordonIJ,Ilius A W.1989.Resource partitioning by ungulateson the Isle of Rhum. Oecologia,79(3):383-389.   \nHarrington GN.1986. Herbivore diet in a semi-arid Eucalyptus populnea woodland.2.Feral goats.Australian Journalof Experimental Agriculture,26(4): 423-429.   \nHaris  B,MilerDJ.1995.Overlap in summer habitats and diets of TibetanPlateauungulates.Mammalia,59(2):197-212.   \nHarris RB.2OO7.WildlifeConservation in China: Preservingthe Habitat of China's Wild West.New York:M.E.Sharpe,Inc. 47-54.   \nHemami MR,Watkinson AR,Dolman PM.2O04.Habitat selection by sympatric muntjac(Muntiacus reevesi) and roe der (Capreolus capreolus) ina lowland commercial pine forest.Forest Ecology and Management,194(1-3): 49-60.   \nHofmannRR,StewartDR M.1972.Grazeror browser: aclassification based on the stomach-structure and fedinghabitsof East African ruminants.Mammalia,36(2): 226-240.   \nHolechek JL,Gross B D.1982.Training needed for quantifying simulated diets from fragmented range plants.Journalof Range Management, 35(5): 644-647.   \nHolechekJL,VavraM.1981.The effectof slideand frequencyobservation numbersontheprecisionof microhistological analysis.Journal of Range Management, 34(4): 337-338.   \nHolechekJL,Vavra M,PieperRD.1982.Botanicalcompositiondeterminationofrange herbivore diets:areview.Journalof Range Management,35(3): 309-315.   \nIllius A W,GordonIJ.1992.Modeling the nutritionalecologyofungulate hrbivores: evolutionofbody sizeandcompetitive interactions. Oecologia,89(3): 428-434.   \nJarman PJ.1974.The social organisation of antelope in relation to their ecology.Behaviour,48(1): 215-267.   \nJohnson M K.1982.Frequencysampling for microscopic analysis of botanical compositions.Journal of Range Management, 35(4): 541-542.   \nKorfhage R C.1976.Summer food habits of elk in the Blue Mountains of Northeastern Oregon based on fecal analysis. Journal of Range Management, 29(4): 319.   \nLi Z Q,Jiang ZG,Li CW.2O08.Dietaryoverlapof Przewalski'sgazelle，Tibetan gazele，and Tibetan sheep on the Qinghai-Tibet Plateau. Journal of Wildlife Management,72(4): 944-948.   \nLiu BW,Jiang ZG2004.Dietary overlap between Przewalski’s gazele anddomesticsheep in the Qinghai Lakeregion and implications for rangeland management. Journal of Wildlife Management, 68(2): 241-246.   \nLopes EA,StuthJW.1984.Dietaryselectionand nutritionof Spanish goatsas influenced by brush management.Journalof Range Management,37(6): 554-560.   \nMain M B,Coblentz BE.1996.Sexual segregation in Rocky Mountain mule deer. Journal of Wildlife Management,60(3): 497-507.   \nMathur D.1977Food habitsand competitive relationshipsof the bandfin shiner in Halawakee Creek,Alabama.American Midland Naturalist, 97(1): 89-100.   \nMillerDJ,Schaler GB.1996.Rangelandsof the Chang Tang WildlifeReserve in Tibet.Rangelands,18(3):91-96.   \nMishra C,VanWieren SE,KetnerP,etal.2O04.Competitionbetweendomestic livestockand wildbharalPseudois nayaurin the Indian Trans-Himalaya.Journal of Applied Ecology,41(2): 344-354.   \nOwen M.1975.Anassssment offecal analysis technique in waterfowl feeding studies.Journal of Wildlife Management, 39(2): 271-279.   \nPutmanRJ.1996.Competion and Resource Partitioning in Temperate Ungulate Assemblies.New York: Springer Science and Business Media, 5-9.   \nScasta JD,BeckJL,AngwinCJ.2016.Meta-analysisof dietcompositionand potentialconflictof wildhorses with livestock and wild ungulates on western rangelands of North America.Rangeland Ecology& Management,69(4): 310-318.   \nSchaller G B.1998.Wildlife of the Tibetan Steppe.Chicago: University of Chicago Press,208-209.   \nSchoenerTW.1968.The Anolis lizards of Bimini: resource partitioning in acomplex fauna.Ecology,49(4):704-726.   \nShank CC.1982.Age-sex diferences inthe dietsof wintering RockyMountainbighornsheep.Ecology,63(3):627-633.   \nShank CC.1985.Inter-and intra-sexual segregationof chamois (Rupicapra rupicapra)byaltitudeand habitat during summer. Zeitschrift fur Säugetierkunde,50:117-125.   \nShrestha R,Wegge P, KoiralaRA.2Oo5.Summerdietsofwildand domesticungulatesinNepal Himalaya.Journalof Zoology, 226(2): 111-119.   \nSih A,ChristensenB.2Oo1.Optimal diet theory:when does it work,andwhenand whydoesitfail?Animal Behaviour,61(2): 379-390.   \nSmith AD,ShandrukLJ.1979.Comparisonoffecal,rumenandutilizationmethods forascertaining pronghorn diets.Joural ofRange Management,32(4):275-279.   \nStevens EJ,Stevens SJ,Gates RN,etal.1987.Procedure for fecalcuticle analysisof herbivore diets.Jourmalof Range Management, 40(2): 187-189.   \nStewart R D M.1967.Analysis of plant epidermis in faeces:a technique for studying the food preferencesof grazing herbivores.Journal of Applied Ecology,4(1): 83-111.   \nVavraM,Holechek JL.1980.Factors influencing microhistological analysisof herbivore diets．Journal of Range Management, 33(5): 371-374.   \nWang S.1998.ChinaRed Data Book of Endangered Animals: Mammalia.Beijing:Science Press,335-340. (in Chinese)   \nWilliams OB.1969.An improved technique for identificationof plant fragments in herbivore feces.Journal of Range Management,22(1): 51-52.   \nWingardGJ,HarrisRB,letscherDH,etal.2O1rgalifoodabitsanddietaryoverlapwithdomesticlivestockinhNart Nature Reserve,Mongolia. Journal of Arid Environments,75(2):138-145.   \nXu WX,XiaCJ,LinJ,etal.2012a.DietofGazellsubgutturosa(Guldenstaedt,780)andfoodoverlapwithdomesticshep in Xinjiang,China.Folia Zoologica,61(1): 54-60.   \nXu WX,Xia CJ,Yang WK,etal.2012b.Seasonal dietof Khulan (Equidae)innorthem Xinjiang,China.Italian Journalof Zoology,79(1): 92-99. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

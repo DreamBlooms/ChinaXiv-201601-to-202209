@@ -1,0 +1,195 @@
+蒙脱石对采食霉变花生粕型饲粮肉仔鸡生长性能和免疫机能的影响王芳1,2 张海军²王晶² 史兆国1\* 武书庚2\*（1.甘肃农业大学动物科学技术学院，兰州730070；2.中国农业科学院饲料研究所，农业部饲科生物技不里点开放头验至，生物饲科开反国豕工柱研九中心，北京I00081)
+
+摘要：本试验旨在研究蒙脱石对采食天然黄曲霉素毒素 $\mathbf { B } _ { 1 }$ ( $\mathbf { A F B } _ { 1 }$ ）污染花生粕饲粮的肉仔鸡生长性能和免疫机能的影响，确定蒙脱石作为霉菌吸附剂的饲用效果。选用 288 只1日龄爱拔益加（AA）健康公雏，随机分为4组，每组6个重复，每个重复12只鸡。正对照组饲喂玉米-豆粕型基础饲粮,负对照组饲粮用自然霉变花生粕（含 $\mathrm { A F B } _ { 1 } \ 1 \ 2 8 4 . 2 1 \ \mu \mathrm { g / k g } ;$ 前期、后期饲粮分别添加 $8 . 8 \%$ 和 $1 2 . 0 \%$ ）替代部分豆粕，试验组分别在负对照组饲粮中添加 $2 . 0 \ \mathrm { g / k g }$ 的天然或改性蒙脱石。试验期 $4 2 \mathrm { d }$ 。结果表明：1）与正对照组相比，霉变花生粕显著降低了肉仔鸡平均日增重（ADG）、平均日采食量（ADFI）、42日龄胸肌率和腿肌率以及血浆蛋白含量（ $P { < } 0 . 0 5$ ），显著提高了料重比和免疫器官指数（ $. P { < } 0 . 0 5$ ）。2）与负对照组相比,天然或改性蒙脱石均显著提高了肉仔鸡ADG、ADFI及血浆蛋白含量( $( P { < } 0 . 0 5 )$ ，显著降低了免疫器官指数（ $P { < } 0 . 0 5$ ）。3）与天然蒙脱石组相比，改性蒙脱石显著提高了肉仔鸡 ADG及血浆总蛋白和白蛋白含量（ $. P { < } 0 . 0 5$ ），显著降低了胸腺指数（ $. P { < } 0 . 0 5$ ）。综上，AFBi污染的霉变花生粕能降低肉仔鸡的生长性能和免疫功能，蒙脱石能缓解 $\mathbf { A F B } _ { 1 }$ 引起的不良影响，改性蒙脱石作用效果更佳。
+
+关键词：蒙脱石；黄曲霉毒素 $\mathbf { B } _ { 1 }$ ；肉仔鸡；生长性能；免疫中图分类号：S816.7 文献标识码：A 文章编号：1006-267X(2016)00-0000-00
+
+近年来，饲料原料被霉菌毒素污染的现象较为普遍，对养殖业的经济效益带来了巨大损失。作为饼粕类饲料原料，花生粕含有蛋白质、维生素、矿物质（如磷、铁、钙）等营养素，蛋白质含量高（约 $50 \%$ ）、适口性好，但是氨基酸含量不平衡、黄曲霉毒素 $\mathbf { B } _ { 1 }$ (aflatoxin$\mathbf { B } _ { 1 }$ ， $\mathbf { A F B } _ { 1 }$ ）污染严重影响了其在饲料中的大量使用[2]。 $\mathbf { A F B } _ { 1 }$ 的毒性较强，1993 年被世界卫生组织（WTO）列为一级致癌物质。 $\mathbf { A F B } _ { 1 }$ 具有强烈的肝毒性和致癌性，对家禽消化机能和免疫系统产生不良影响，导致免疫力、繁殖能力、饲料转化率降低、实质器官损伤、生长受阻等，而肉仔鸡是敏感动物之一[3-5]。当前对霉菌毒素防控的措施主要有天然吸附和生物降解 2种方法，其中天然吸附成本较低。蒙脱石属于天然硅铝酸盐类，具有较大的比表面积和吸附力，对霉菌毒素有较好的吸附力；改性铝硅酸盐矿物的选择性吸附力更好、脱毒效果更好[7]。目前许多试验都是采用试剂级的霉菌毒素纯品作为试验材料，研究不同类型蒙脱石对霉菌毒素的吸附作用及其对家禽的影响，而以生产中普遍存在的自然霉变原料为材料的研究较少。因此，本试验以自然霉变的花生粕为 $\mathbf { A F B } _ { 1 }$ 来源，研究天然和改性蒙脱石的吸附效果，评价其对肉仔鸡生长性能和免疫机能的影响。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+天然和改性蒙脱石产品均为市售产品，编号分别为SDNZ和SDAD。经过X射线衍射(XRD)检测，2种蒙脱石的理化性质如表1所示。
+
+Table1Physical and chemical properties of montmorillonite   
+
+<html><body><table><tr><td>项目</td><td>蒙脱石含量</td><td>吸蓝量</td><td>pH</td><td>层间距</td></tr><tr><td>Items</td><td>Montmorillonite content/%</td><td>Ethylene blue adsorbed/%</td><td></td><td>Spacing of layers/nm</td></tr><tr><td>SDNZ</td><td>89.5</td><td>40.3</td><td>7.49</td><td>1.01</td></tr><tr><td>SDAD</td><td>91.0</td><td>43.9</td><td>9.37</td><td>1.51</td></tr></table></body></html>
+
+$\mathbf { A F B } _ { 1 }$ 源自霉变花生粕（含 $\mathrm { A F B _ { 1 } } 1 2 8 4 . 2 1 \mu \mathrm { g / k g } )$ ，正对照组、负对照组、天然和改性蒙脱石组前期、后期饲粮中 $\mathbf { A F B } _ { 1 }$ 含量分别为0.57、112.51、110.92 和 $1 1 3 . 6 2 \mu \mathrm { g / k g }$ ，0.60、154.04、153.86和 $1 5 5 . 5 0 \mu \mathrm { g / k g }$ 。 $\mathbf { A F B } _ { 1 }$ 测定采用酶联免疫吸附法（ELISA）检测。我国《饲料卫生标准》（GB13078—2001)规定，肉仔鸡饲粮中 $\mathbf { A F B } _ { 1 }$ 含量前期 $\leq 1 0 . 0 ~ \mu \mathrm { g / k g } .$ 、后期 $\lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert  \lvert \lvert  \lvert \lvert \lvert \lvert  \lvert \lvert \lvert \lvert \lvert \lvert \lvert  \lvert \lvert \lvert \lvert \lvert \lvert \lvert  \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert \lvert$ ug/kg。
+
+参照《鸡饲养标准》（NY/T33—2004）配制玉米－豆粕型饲粮（表2），冷压制粒，其中正对照组饲粮为玉米－豆粕型，负对照组和试验组饲粮用自然霉变的花生粕替代部分豆粕。
+
+表1蒙脱石的理化性质  
+表2基础饲粮组成及营养水平(风干基础)  
+Table 2Composition and nutrient levels of basal diets (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>1~21日龄1 to 21 days of age</td><td></td><td>22~42 日龄 22 to 42 days of age</td></tr><tr><td></td><td>试验组</td><td>对照组</td><td>试验组</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>Control group</td><td>Experimental</td><td>Control group</td><td>Experimental</td></tr><tr><td></td><td></td><td>group</td><td></td><td>group</td></tr><tr><td>原料Ingredients 玉米 Corm</td><td></td><td></td><td>59.188</td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>55.200</td><td>54.550</td><td></td><td>60.912</td></tr><tr><td>花生粕 Peanut meal</td><td>36.992</td><td>29.200</td><td>31.900</td><td>19.800</td></tr><tr><td>豆油 Soybean oil</td><td></td><td>8.800</td><td></td><td>12.000</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>3.705</td><td>3.050</td><td>5.150</td><td>3.100</td></tr><tr><td>石粉 Limestone</td><td>1.955</td><td>1.965</td><td>1.698</td><td>1.715</td></tr><tr><td>食盐NaCl</td><td>1.190</td><td>1.220</td><td>1.095</td><td>1.160</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.350</td><td>0.350</td><td>0.350</td><td>0.350</td></tr><tr><td></td><td>0.268</td><td>0.288</td><td>0.248</td><td>0.272</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCI 苏氨酸Thr</td><td>0.020</td><td>0.192</td><td>0.034</td><td>0.273</td></tr><tr><td>维生素预混料 Vitamin premixl)</td><td></td><td>0.065</td><td>0.017</td><td>0.098</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.020</td><td>0.020</td><td>0.020</td><td>0.020</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.200</td><td>0.200</td><td>0.200</td><td>0.200</td></tr><tr><td></td><td>0.100</td><td>0.100</td><td>0.100</td><td>0.100</td></tr><tr><td>合计Total</td><td>100.000</td><td>100.000</td><td>100.000</td><td>100.000</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.56</td><td>12.56</td><td>13.19</td><td>13.19</td></tr><tr><td>粗蛋白质CP</td><td>22.00</td><td>22.00</td><td>20.00</td><td>20.00</td></tr><tr><td>钙Ca</td><td>1.00</td><td>1.00</td><td>0.90</td><td>0.90</td></tr><tr><td>总磷TP</td><td>0.70</td><td>0.70</td><td>0.64</td><td></td></tr><tr><td>有效磷AP</td><td>0.45</td><td>0.45</td><td>0.40</td><td>0.40</td></tr><tr><td>赖氨酸Lys</td><td>1.15</td><td>1.15</td><td>1.05</td><td>1.05</td></tr><tr><td>蛋氨酸Met</td><td>0.62</td><td>0.63</td><td>0.50</td><td>0.51</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.91</td><td>0.91</td><td>0.76</td><td>0.76</td></tr><tr><td>苏氨酸Thr</td><td>0.81</td><td>0.81</td><td>0.72</td><td>0.72</td></tr><tr><td>色氨酸Try</td><td>0.24</td><td>0.24</td><td>0.21</td><td>0.21</td></tr></table></body></html>
+
+1维生素预混料为每千克饲粮提供 Vitamin premix provided the following per $\mathbf { k g }$ of diets: VA 12 500 IU,
+
+VD3 2 500 IU，VE15 IU，VK3 2.65 mg，VBi2 mg， $\mathrm { V B } _ { 2 } 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 5 ~ \mathrm { m g }$ ，生物素 biotin $0 . 3 5 \mathrm { m g }$ ，叶酸 folic acid $1 . 2 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 2 \mathrm { m g }$ ，烟酸 niacin $5 0 \mathrm { m g }$ 。
+
+2）矿物质预混料为每千克饲粮提供 Mineral premix provided the following per kg of diets：Cu (as copper sulfate) $8 ~ \mathrm { m g }$ ，Zn (as zinc sulfate) $7 5 \mathrm { m g }$ ，Fe (as ferrous sulfate) $8 0 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $8 0 ~ \mathrm { m g }$ ，I(as potassium iodide) $0 . 3 5 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 1 5 \mathrm { m g }$ 。
+
+3）营养水平均为计算值。Nutrition levels were all calculated values.
+
+# 1.2 试验动物及试验设计
+
+试验选用288只1日龄爱拔益加（AA）肉仔鸡健康公雏，随机分为4组，每组6个重复，每个重复12只鸡。鉴于生产中花生粕易被黄曲霉毒素污染的现状，寻找完全不含 $\mathbf { A F B } _ { 1 }$ 的花生粕原料不易实现，本试验设计正对照组为玉米－豆粕型基础饲粮，负对照组饲粮用自然霉变的花生粕替代部分豆粕，前期、后期饲粮分别含花生粕 $8 . 8 \%$ 和 $1 2 . 0 \%$ ；2个试验组饲粮为负对照组饲粮中分别添加 $2 . 0 \ \mathrm { g / k g }$ 的天然或改性蒙脱石。试验期 $4 2 { \mathrm { d } }$ 。
+
+# 1.3 饲养管理
+
+肉鸡饲养在同一鸡舍内，采用3层笼养， $2 4 \mathrm { ~ h ~ }$ 光照，自由饮水、常规免疫，每天2次饲喂。
+
+# 1.4指标测定与方法
+
+# 1.4.1 生长性能
+
+分别于1、21和42日龄早晨空腹称重。前1天22：00禁食，自由饮水，于次日08：00 以重复为单位称重，统计各重复试验鸡1\~21日龄和 22\~42 日龄耗料量，计算平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G）。
+
+# 1.4.2 胴体组成
+
+分别于21和42日龄，每重复选取1只体重接近该重复平均值的肉仔鸡，翅静脉采血，屠宰，分离胸肌和腿肌并称重，计算全净膛率、胸肌率、腿肌率和腹脂率。计算公式如下：
+
+全净膛率 $( \% ) =$ 全净膛重（ $\mathbf { \nabla } _ { \cdot } \mathbf { k g } \mathbf { \cdot } \mathbf { \nabla }$ ）/活重 $( \mathbf { k g } ) \mathbf { \Omega } \times 1 0 0 \mathbf { \Omega }$ 胸肌率 $( \% ) \ = \quad$ 胸肌重（ $\mathrm { i } \mathrm { g }$ ）/全净膛重 $( \mathbf { k g } ) \mathbf { \Omega } \times 1 0 0 \mathbf { \Omega }$ 腿肌率 $( \% ) \ = \quad$ 腿肌重 $( \mathbf { k g } ^ { \mathrm { ~ \tiny ~ . ~ } }$ ）/全净膛重 $( \mathbf { k g } ) \mathbf { \Omega } \times 1 0 0 \mathbf { \Omega }$ 腹脂率 $( \% ) = ,$ 腹脂重（ $\mathrm { \ k g \Omega }$ ）/[全净膛重（ $\mathbf { \nabla } \cdot \mathbf { k g }$ ） $^ +$ 腹脂重（ $\mathbf { \mathrm { \ k g } }$ ） $\scriptstyle \mathbf { \left| \times 1 0 0 \right. }$ 。
+
+# 1.4.3 器官指数
+
+分别于21和42日龄，每重复选取1只体重接近该重复平均值的肉仔鸡，屠宰，摘取胸腺、脾脏和法氏囊，称重并计算各器官指数。计算公式如下：
+
+器官指数 $( \% ) =$ 器官重量（g）/活体重（kg） $\times 1 0 0$ 。
+
+# 1.4.4 血液生化指标
+
+分别于21和42日龄，每重复选取1只体重接近该重复平均值的肉仔鸡，翅静脉采血，抗凝管存放， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液分装， $- 2 0 ^ { \circ } \mathrm { C }$ 保存。血浆总蛋白（TP）、白蛋白（ALB）和球蛋白（GLB）含量采用全自动生化分析仪测定，试剂盒购自上海科华生物工程股份有限公司。
+
+# 1.5 数据统计分析
+
+数据经 Excel前处理后，采用 SPSS19.0 进行单因素方差分析（one-way ANOVA），用Duncan氏法进行多重比较，以 $P { < } 0 . 0 5$ 为差异显著水平，结果以平均值 $\pm$ 标准差表示。
+
+# 2结果与分析
+
+# 2.1 生长性能
+
+由表2可知，1\~21日龄：与正对照组相比，霉变花生粕显著降低了肉仔鸡体重、ADG和ADFI（ $\scriptstyle \cdot - 0 . 0 5$ ），负对照组和天然蒙脱石组F/G 显著提高（ $( P { < } 0 . 0 5 )$ ）；与负对照组相比，饲粮中添加蒙脱石使得肉仔鸡体重显著提高（ $P { < } 0 . 0 5$ ），改性蒙脱石组 ADG 显著提高（ $P { < } 0 . 0 5 \rangle$ ），F/G呈降低趋势，其中改性蒙脱石组F/G显著降低（ $. P { < } 0 . 0 5$ ）；与天然蒙脱石组相比，改性蒙脱石组ADG显著提高（ $. P { < } 0 . 0 5$ ），其他指标差异不显著（ $. P { > } 0 . 0 5 \$ ）。
+
+22\~42日龄：与正对照组相比，负对照组肉仔鸡体重、ADG 和 ADFI 均显著降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ），F/G显著提高（ $. P { < } 0 . 0 5 \$ ）；与负对照组相比，天然和改性蒙脱石组体重、ADG和 ADFI均显著提高（ $. P { < } 0 . 0 5$ ），改性蒙脱石组F/G 显著降低 $( P { < } 0 . 0 5 )$ ；与天然蒙脱石组相比，改性蒙脱石组ADG 显著提高（ $. P { < } 0 . 0 5$ ），F/G显著降低（ $P { < } 0 . 0 5$ ）。
+
+1\~42日龄：与正对照组相比，霉变花生粕显著降低了肉仔鸡 ADG 和 ADFI（ $P { < } 0 . 0 5 \$ ），使F/G显著升高（ $. P { < } 0 . 0 5$ ）；与负对照组相比，天然和改性蒙脱石组ADG和ADFI均显著提高（ $\scriptstyle P < 0 . 0 5 .$ ），F/G显著降低（ $\scriptstyle P < 0 . 0 5 .$ ）；改性蒙脱石组与天然蒙脱石组相比，各指标无显著差异（ $P { > } 0 . 0 5$ ）。
+
+# 表2肉仔鸡生长性能
+
+<html><body><table><tr><td></td><td>正对照组</td><td>负对照组</td><td>天然蒙脱石组</td><td>改性蒙脱石组</td></tr><tr><td>项目Items</td><td>Positive control</td><td>Negative control</td><td>Montmorillonite</td><td>Modified</td></tr><tr><td></td><td>group</td><td>group</td><td>group</td><td>montmorillonite group</td></tr><tr><td>1~21 日龄 1 to 21 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>体重BW/g</td><td>851.67±24.87a</td><td>750.44±27.12c</td><td>810.00±28.03b</td><td>829.93±16.88ab</td></tr><tr><td>平均日增重 ADG/g</td><td>38.28±2.73a</td><td>34.04±2.86b</td><td>35.68±2.22b</td><td>37.96±1.01a</td></tr><tr><td>平均日采食量 ADFI/g</td><td>53.44±1.55a</td><td>49.77±1.29b</td><td>50.73±1.53b</td><td>51.46±1.47b</td></tr><tr><td>料重比F/G</td><td>1.32±0.06</td><td>1.47±0.09a</td><td>1.43±0.05ab</td><td>1.37±0.08b</td></tr><tr><td colspan="5">22~42 日龄 22 to 42 days of age</td></tr><tr><td>体重BW/g</td><td>2 576.29±50.73a</td><td>2 433.92±81.98b</td><td>2 523.67±74.57a</td><td>2 537.56±84.81a</td></tr><tr><td>平均日增重 ADG/g</td><td>106.17±1.37a</td><td>96.95±1.70c</td><td>101.64±1.45b</td><td>104.27±1.69a</td></tr><tr><td>平均日采食量 ADFI/g</td><td>184.20±2.55a</td><td>177.74±2.93b</td><td>181.79±2.29a</td><td>182.83±2.92a</td></tr><tr><td>料重比F/G</td><td>1.81±0.02b</td><td>1.85±0.01a</td><td>1.84±0.01a</td><td>1.82±0.02b</td></tr><tr><td colspan="5">1~42 日龄 1 to 42 days of age</td></tr><tr><td>平均日增重 ADG/g</td><td>62.36±1.93a</td><td>57.20±1.73c</td><td>59.04±1.87b</td><td>61.12±1.81ab</td></tr><tr><td>平均日采食量 ADFI/g</td><td>103.58±1.27a</td><td>97.06±1.27c</td><td>101.15±1.72b</td><td>103.09±1.65ab</td></tr><tr><td>料重比F/G</td><td>1.65±0.02c</td><td>1.72±0.02a</td><td>1.69±0.02b</td><td>1.68±0.02b</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 ) \$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with different small letter superscripts mean significant difference ( $\scriptstyle ( P < 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference ( $P { > } 0 . 0 5$ ).The same as below.
+
+# 2.2 胴体组成
+
+由表3可知，各组肉仔鸡21日龄胴体组成无显著差异（ $P { > } 0 . 0 5$ ）。42日龄，与正对照组相比，霉变花生粕显著降低了肉仔鸡的胸肌率和腿肌率（ $_ { . } { \cdot } { \cdot } { \cdot } { 0 . 0 5 }$ ），对全净膛率和腹脂率无显著影响（ $. P { > } 0 . 0 5 .$ ）；与负对照组相比，天然和改性蒙脱石组的胸肌率和腿肌率显著提高（ $_ { . P < 0 . 0 5 ) }$ ）；2种蒙脱石组之间各指标无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表3肉仔鸡胴体组成  
+Table 3 Carcass composition of broilers   
+
+<html><body><table><tr><td>项目Items</td><td>正对照组</td><td>负对照组</td><td>天然蒙脱石组</td><td>改性蒙脱石组</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>Positive control group</td><td>Negative control</td><td>Montmorillonite</td><td>Modified</td></tr><tr><td>21日龄 21 days of age</td><td></td><td>group</td><td> group</td><td>montmorillonite group</td></tr><tr><td>全净膛率 Dressing percentage</td><td>70.78±1.38</td><td>67.59±1.64</td><td>68.52±1.46</td><td>69.62±2.78</td></tr><tr><td>胸肌率 Breast muscle percentage</td><td>24.44±0.66</td><td>23.80±0.81</td><td>24.01±1.15</td><td>24.33±0.64</td></tr><tr><td>腿肌率 Leg muscle percentage</td><td>12.77±0.73</td><td>12.11±0.46</td><td>12.54±0.38</td><td>12.43±0.76</td></tr><tr><td>腹脂率Abdominal fat percentage</td><td>0.81±0.08</td><td>0.70±0.07</td><td>0.77±0.06</td><td>0.78±0.07</td></tr><tr><td>42日龄 42 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>72.06±1.64</td><td>70.77±1.69</td><td></td><td></td></tr><tr><td>全净膛率 Dressing percentage</td><td></td><td></td><td>71.50±1.01</td><td>71.90±0.92</td></tr><tr><td>胸肌率 Breast muscle percentage</td><td>28.18±1.35a</td><td>18.87±1.64b</td><td>26.43±3.04a</td><td>28.06±1.11a</td></tr><tr><td>腿肌率 Leg muscle percentage</td><td>21.57±0.64a</td><td>16.09±0.54c</td><td>20.27±0.95b</td><td>20.77±1.24ab</td></tr><tr><td>腹脂率 Abdominal fat percentage</td><td>1.89±0.05</td><td>1.85±0.09</td><td>1.78±0.09</td><td>1.71±0.06</td></tr></table></body></html>
+
+# 2.3 免疫器官指数
+
+由表4可知，21日龄，与正对照组相比，霉变花生粕显著提高了肉仔鸡的胸腺指数、脾脏指数和法氏囊指数（ $P { < } 0 . 0 5$ ）；与负对照组相比，天然和改性蒙脱石组胸腺指数和法氏囊指数显著降低（ $. P { < } 0 . 0 5$ ），改性蒙脱石组脾脏指数显著降低（ $P { < } 0 . 0 5$ ）；与天然蒙脱石组相比，改性蒙脱石组胸腺指数显著降低（ $P { < } 0 . 0 5$ ），脾脏指数和法氏囊指数无显著差异（ $. P { > } 0 . 0 5 )$ ）。
+
+42 日龄，与正对照组相比，负对照组肉仔鸡的胸腺指数、脾脏指数和法氏囊指数显著提高 ( $\scriptstyle \cdot { P < 0 . 0 5 }$ ）；与负对照组相比，天然和改性蒙脱石组胸腺指数、脾脏指数和法氏囊指数均显著降低 （ $. P { < } 0 . 0 5 )$ ）；与天然蒙脱石组相比，改性蒙脱石组的胸腺指数和脾脏指数显著降低（ $. P { < } 0 . 0 5$ ），法氏囊指数无显著差异（ $P { > } 0 . 0 5$ ）。
+
+表4肉仔鸡免疫器官指数  
+Table 4Immune organ indices of broilers   
+
+<html><body><table><tr><td colspan="5">70</td></tr><tr><td></td><td>正对照组</td><td>负对照组</td><td>天然蒙脱石组</td><td>改性蒙脱石组</td></tr><tr><td>项目Items</td><td>Positive control</td><td>Negative control</td><td>Montmorillonit</td><td>Modified</td></tr><tr><td></td><td>group</td><td>group</td><td>e group</td><td>montmorillonite group</td></tr><tr><td>21日龄 21 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>胸腺指数 Thymus index</td><td>1.40±0.07d</td><td>2.37±0.04a</td><td>2.21±0.05b</td><td>1.75±0.01c</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>脾脏指数 Spleen index</td><td>0.58±0.04c</td><td>0.71±0.03a</td><td>0.66±0.08ab</td><td>0.62±0.03bc</td></tr><tr><td>法氏囊指数 Bursa of Fabricius index</td><td>1.07±0.08b</td><td>1.30±0.07a</td><td>1.13±0.06b</td><td>1.15±0.04b</td></tr><tr><td>42 日龄 42 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>胸腺指数 Thymus index</td><td>0.94±0.14d</td><td>2.87±0.13a</td><td>1.71±0.22b</td><td>1.45±0.23c</td></tr><tr><td>脾脏指数 Spleen index</td><td>1.64±0.04c</td><td>1.88±0.07a</td><td>1.74±0.05b</td><td>1.68±0.06c</td></tr><tr><td>法氏囊指数 Bursa ofFabricius index</td><td>0.58±0.01c</td><td>0.85±0.04a</td><td>0.69±0.06b</td><td>0.66±0.08b</td></tr></table></body></html>
+
+# 2.4血浆蛋白含量
+
+由表5可知，21日龄，负对照组肉仔鸡血浆TP、ALB 和GLB含量显著低于其他各组（ $P { < } 0 . 0 5 )$ ）；与负对照组相比，天然蒙脱石组血浆ALB和GLB含量显著升高（ $_ { . P < 0 . 0 5 ) }$ ），TP 含量无显著差异 $( P { > } 0 . 0 5 )$ ,改性蒙脱石组血浆TP、ALB 和GLB含量显著升高 $( P { < } 0 . 0 5 )$ ：与天然蒙脱石组相比，改性蒙脱石组血浆TP和ALB含量显著提高（ $. P { < } 0 . 0 5 \rangle$ ），GLB含量无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+42 日龄，与正对照组相比，霉变花生粕显著降低了肉仔鸡血浆TP、ALB 和GLB含量（ $\cdot P { < } 0 . 0 5 )$ ）；与负对照组相比，天然蒙脱石组血浆TP和ALB含量显著升高（ $P { < } 0 . 0 5 \$ ），GLB含量无显著差异( $( P { > } 0 . 0 5 )$ ),改性蒙脱石组血浆TP、ALB和GLB含量显著升高( $_ { . P < 0 . 0 5 ) }$ ：与天然蒙脱石组相比，改性蒙脱石组血浆TP和ALB含量显著提高（ $_ { . P < 0 . 0 5 }$ ），GLB含量无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+表5肉仔鸡血浆蛋白含量  
+Table 5Plasma protein contents of broilers   
+
+<html><body><table><tr><td rowspan="4"></td><td>正对照组</td><td>负对照组</td><td>天然蒙脱石组</td><td>改性蒙脱石组</td></tr><tr><td>Positive control</td><td>Negative control</td><td>Montmorillonite</td><td>Modified</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>group</td><td>group</td><td>group</td><td>montmorillonite group</td></tr><tr><td>21日龄 21 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP</td><td>30.79±1.48a</td><td>27.13±1.12b</td><td>28.65±1.31b</td><td>30.42±2.07a</td></tr><tr><td>白蛋白 ALB</td><td>15.76±0.44a</td><td>13.32±0.70c</td><td>14.30±0.48b</td><td>15.31±0.44a</td></tr><tr><td>球蛋白GLB</td><td>15.37±0.32a</td><td>13.64±0.45c</td><td>14.37±0.23b</td><td>14.83±0.32b</td></tr><tr><td>42 日龄 42 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白TP</td><td>41.66±0.84a</td><td>37.16±0.86d</td><td>38.57±0.50c</td><td>39.98±0.55b</td></tr><tr><td>白蛋白 ALB</td><td>19.49±0.73a</td><td>14.97±0.80d</td><td>16.35±0.43c</td><td>17.36±0.60b</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1霉变花生粕对肉仔鸡生长性能的影响
+
+霉变花生粕能够降低家禽的采食量、日增重和饲料转化率。 $1 0 0 \mu \mathrm { g / k g / A F B } _ { 1 }$ 可使黄羽肉鸡 ADG 降低 $5 . 0 9 \%$ ，F/G升高 $4 . 4 2 \%$ ，ADFI下降 $0 . 8 5 \% ^ { [ 8 ] }$ ；100.0和 $1 5 0 . 0 \mu \mathrm { g / k g / A F B } _ { 1 }$ 可降低体重，极显著降低 ADG 和 ADFI，提高 $\mathrm { F / G ^ { \left[ 9 \right] } }$ ；用霉变稻米（含 $\mathbf { A F B } _ { 1 }$ ）饲喂，肉鸭ADG和 ADFI显著降低，F/G 显著提高[10]；自然霉变玉米能显著降低肉鸭体重、ADG 和 ADFI,提高 F/G，增加死亡率[]。本试验用霉变花生粕替代豆粕，肉仔鸡 ADG 和 ADFI 显著降低、F/G 显著提高，与上述研究结果一致。可见，自然霉变的原料与添加 $\mathbf { A F B } _ { 1 }$ 均能影响肉仔鸡生长性能。因为霉菌毒素之间有协同效应，一般认为，自然霉变饲料的中毒症状比添加单一毒素的毒性效应更大[12]。
+
+# 3.2霉变花生粕对肉仔鸡免疫指标的影响
+
+免疫器官指数是评价家禽免疫力的重要指标。本研究表明，霉变花生粕对肉仔鸡免疫功能的影响，体现为胸腺指数、脾脏指数和法氏囊指数增大。何健等[13]报道，分别用0、$50 \%$ 和 $100 \%$ 的霉变玉米替代正常玉米，随着替代比例的增加，肉鸭14和35日龄脾脏指数和法氏囊指数显著提高。用 $8 \%$ 的霉变棉籽粕替代正常的棉籽粕，肉鸭35日龄胸腺指数、脾脏指数和法氏囊指数显著提高[14]。
+
+本研究表明，霉变花生粕降低了肉鸡血浆中TP、ALB 和GLB 的含量。AFBi污染的饲粮同样能使肉鸭血清蛋白（TP、ALB 和GLB）含量显著降低[15]；霉变玉米显著降低 14 和35 日龄肉鸭血清 TP、ALB 和GLB 含量[16]； $2 ~ 5 0 0 ~ { \mu \mathrm { g / k g } }$ 黄曲霉毒素（含 $8 3 . 0 6 \% \mathrm { A F B } _ { 1 }$ ）可显著减少肉仔鸡血清 TP 和 ALB 含量[17]。家禽采食受 $\mathbf { A F B } _ { 1 }$ 污染的饲粮，脾脏指数、胸腺指数和法氏囊指数升高，血浆蛋白（TP、ALB 和GLB）含量降低，这可能是AFBi使肉仔鸡胸腺、脾脏和法氏囊等免疫器官受损伤，导致机体免疫球蛋白合成降低；也可能是黄曲霉毒素与核酸结合，抑制了蛋白质的合成，从而引起肉仔鸡免疫器官发育不完全，抑制机体免疫因子的产生，最终影响了家禽的免疫功能。
+
+# 3.3蒙脱石对AFBi毒性的缓解作用
+
+用蒙脱石来降低黄曲霉毒素给家禽养殖带来的危害在生产中已得到应用。蒙脱石是一种硅铝酸盐类，因具有不饱和负电荷及阳离子交换能力，可以捕获、吸附和固定毒素，降低肠道对毒素的吸收，降低毒害作用[18]。在被AFBi污染的饲粮中添加 $3 . 0 \mathrm { g / k g }$ 的钠基改性蒙脱石，能显著缓解黄曲霉毒素对肉仔鸡生长性能、免疫器官指数以及血清生化指标的影响[19]；在被黄曲霉毒素污染的饲粮中添加 $5 . 0 ~ \mathrm { g / k g }$ 的蒙脱石，可使肉仔鸡的死亡率降低$3 7 . 5 \%$ 、体增重提高 $2 8 . 8 \% ^ { [ 2 0 ] }$ ；在霉变的饲粮中添加 $2 . 0 \mathrm { g / k g }$ 的蒙脱石，显著提高了肉鸭ADG、ADFI及血浆蛋白含量，显著抑制免疫器官指数的升高[4]；在被 $3 0 0 0 \mu \mathrm { g / k g } \mathrm { A F B } _ { 1 }$ 污染的饲粮中分别添加2.5 和 $5 . 0 \mathrm { g / k g }$ 钙基蒙脱石，肉仔鸡42日龄体重分别增加了 $1 3 . 3 \%$ 和 $2 2 . 7 \%$ 、ADFI增加了 $9 . 7 \%$ 和 $2 4 . 7 \%$ 、饲料转化率提高了 $5 3 . 0 \%$ 和 $6 6 . 5 \% ^ { [ 2 1 ] }$ ；在被 $2 ~ 5 0 0 ~ \mu \mathrm { g / k g } ~ \mathrm { A F B } _ { 1 }$ 污染的饲粮中添加膨润土，能缓解由 $\mathbf { A F B } _ { 1 }$ 对肉仔鸡生长性能和血浆 ALB 的负面影响[17]。本研究表明, $2 . 0 \ \mathrm { g / k g }$ 的天然或改性蒙脱石均可有效缓解饲量中霉变花生粕对肉仔鸡造成的生长抑制和免疫器官肿大现象，该结果与前人的研究相一致。
+
+蒙脱石边面中的 Si-OH和Al-OH作为氢键供氢体， $\mathbf { A F B } _ { 1 }$ 分子结构中的2个基作为氢键受氢体，两者在空间上可能存在互补关系，因而可以形成双氢键，使蒙脱石能对 $\mathbf { A F B } _ { 1 }$ 产生选择性吸附。有研究认为，天然和改性蒙脱石对 $\mathbf { A F B } _ { 1 }$ 的吸附量无明显的差别，但是由于蒙脱石经改性处理后，部分改性剂分子带正电荷的一端可吸附在蒙脱石外表面或进入蒙脱石层间，羟基端留在蒙脱石边缘，增加了蒙脱石边缘氢键供氢体，增加了它们之间形成双氢键机会，加固了 $\mathbf { A F B } _ { 1 }$ 的吸附稳定性，使得 $\mathbf { A F B } _ { 1 }$ 解析率降低[22-23]。在雄性肉仔鸡饲粮中分别添加 $1 . 5 ~ \mathrm { g / k g }$ 蒙脱石和载铜蒙脱石，发现添加载铜蒙脱石能够增加肉仔鸡的 ADG，降低肠道大肠杆菌的数量，而单独添加天然蒙脱石则效果不明显[24]；还有研究表明，改性蒙脱石对玉米赤霉烯酮的吸附率达到 $9 2 . 4 4 \%$ 、解吸率 $5 . 3 1 \%$ ，说明改性蒙脱石对玉米赤霉烯酮具有较高的吸附脱毒率，吸附玉米赤霉烯酮后所形成的复合物稳定性较好[25]。本研究表明， $2 . 0 \ \mathrm { g / k g }$ 的天然和改性蒙脱石，都可有效缓解霉变花生粕对肉仔鸡生长性能和免疫指标的影响，且改性蒙脱石的效果优于天然蒙脱石。
+
+# 4结论
+
+霉变花生粕显著降低了肉仔鸡生长性能和免疫功能，添加蒙脱石可有效缓解 $\mathbf { A F B } _ { 1 }$ 对肉仔鸡的不利影响，而且改性蒙脱石对 $\mathbf { A F B } _ { 1 }$ 的吸附效果要优于天然蒙脱石。
+
+# 参考文献：
+
+[1]龚阿琼,罗金玲,胡骏鹏.2014 年我国饲料原料中霉菌毒素含量的测定与分析[J].中国饲 料,2015(7):40-41.   
+[2]程传民,柏凡,李云,等.2013 年饼粕类饲料原料中霉菌毒素污染情况调查[J].饲料研 究,2015(4):1-7,11.   
+[3]CHENG Y H,SHEN T F,PANG V F,et al.Effects of aflatoxin and carotenoids on growth performance and immune response in mule ducklings[J].Comparative Biochemistry and Physiology Part C:Toxicology & Pharmacology,2001,128(1):19-26.   
+[4]ZAGHINI A,MARTELLI G,RONCADA P,et al.Mannanoligosaccharides and aflatoxin $\mathbf { B } _ { 1 }$ in feed for laying hens:effects on egg quality,aflatoxins $\mathbf { B } _ { 1 }$ and $\mathbf { M } _ { 1 }$ residues in eggs,and aflatoxin $\mathbf { B } _ { 1 }$ levels in liver[J].Poultry Science,2005,84(6):825-832.   
+[5] 熊慧慧,肖长峰,卢永红,等.饲料中黄曲霉毒素 $\mathbf { B } _ { 1 }$ 对家禽的影响[J].国外畜牧学:猪与 禽,2015(2):59-61.   
+[6] 徐雪梅,齐德生,张妮娅,等.葡甘露聚糖单方、复配膨润土及改性产物的霉菌毒素体外吸 附效果[J].动物营养学报,2013,25(12):2973-2980.   
+[7]齐德生,刘凡,于炎湖,等.改性蒙脱石对黄曲霉毒素 $\mathbf { B } _ { 1 }$ 吸附机理的研究[J].华中农业大学 学报,2005,23(5):538-542.   
+[8] 尹逊慧,陈善林,曹红,等.日粮添加黄曲霉毒素解毒酶制剂对黄羽肉鸡生产性能、血清生 化指标和毒素残留的影响[J].中国家禽,2010,33(2):29-33.   
+[9]吕武兴,贺建华,宋洪国,等.黄曲霉毒素 $\mathbf { B } _ { 1 }$ 对肉鸭生长、肝组织结构及免疫相关基因表 达的影响[J].动物营养学报,2013,25(4):812-818.   
+[10]HAN X Y,HUANG Q C,LI W F,et al.Changes in growth performance,digestive enzyme activities and nutrient digestibility of cherry valley ducks in response to aflatoxin $\mathbf { B } _ { 1 }$ （204号 levels[J].Livestock Science,2008,119(1/2/3):216-220.   
+[11] 温子瑜,郑萍,张克英,等.黄曲霉毒素污染的玉米及吸附剂对樱桃谷肉鸭生产性能、血 清生化指标及器官指数的影响[J].中国畜牧杂志,2013,49(3):49-55.   
+[12]SWAMY H V L N,SMITH T K,MACDONALD E J,et al.Effects of feeding a blend of grains naturally contaminated with Fusarium mycotoxins on swine performance,brain regional neurochemistry,and serum chemistry and the efficacy of a polymeric glucomannan mycotoxin adsorbent[J].Journal of Animal Science,2002,80(12):3257-3267.   
+[13]何健,张克英,陈代文,等.自然霉变玉米对肉鸭生产性能及免疫功能的影响[J].中国畜牧 杂志,2011,47(19):25-30.   
+[14]谢庆,孙满吉,常文环,等.黄曲霉毒素与吸附剂对肉鸭生长性能和免疫指标的影响[J].动 物营养学报,2015,27(1):204-211.
+
+[15] WAN X L,YANG Z B,YANG W R,et al.Toxicity of increasing aflatoxin $\mathbf { B } _ { 1 }$ concentrations fromcontaminated corn with or withoutclayadsorbentsupplementation in ducklings[J].Poultry Science,2013,92(5):1244-1253.
+
+[16]何健.自然霉变玉米对肉鸭生产性能和免疫功能的影响及机制研究[D].博士学位论文.雅安：四川农业大学,2011.
+
+[17]KECECI T,OGUZ H,KURTOGLU V,et al.Effects of polyvinylpolypyrrolidone,synthetic zeolite and bentonite on serum biochemical and haematological characters of broiler chickens during aflatoxicosis[J].British Poultry Science,1998,39(3):452-458.
+
+[18] TENORIO A M G,MULDER I,BARRIENTOS VZ A L,et al.Smectite clay adsorption of aflatoxin vs.octahedral compositionasindicatedby FTIR[J].Claysand Clay Minerals,2008,56(5):571-578.
+
+[19] SHI Y H,XU Z R,FENG JL,et al.Eficacy of modified montmorillonite nanocomposite to reducethetoxicity of aflatoxin in broiler chicks[J].Animal Feed Scienceand Technol0gy,2006,129(1/2):138-148.
+
+[20]BAILEY C A,LATIMER G W,BARR A C,et al.Efficacy of montmorillonite clay (NovaSil PLUS) for protecting full-term broilers from aflatoxicosis[J].The Journal of Applied Poultry Research,2006,15(2):198-206.
+
+[21]ECKHARDT J C,SANTURIO JM,ZANETTE R A,et al.Efficacy of a Brazilian calcium montmorillonite against toxic effects of dietary aflatoxins on broilers reared to market weight[J].British Poultry Science,2014,55(2):215-220.
+
+[22]齐德生.蒙脱石改性前后对 $\mathbf { A F B } _ { 1 }$ 和营养成分的吸附及对 $\mathbf { A F B } _ { 1 }$ 的脱毒效果[D].博士学位论文.武汉：华中农业大学,2004.
+
+[23]齐德生,刘凡,于炎湖,等.蒙脱石及改性蒙脱石对黄曲霉毒素 $\mathbf { B } _ { 1 }$ 的吸附研究[J].畜牧兽医学报,2003,34(6):620-622.
+
+[24] XIA M S,HU C H,XU Z R.Effects of copper-bearing montmorillonite on growth performance,digestive enzyme activities,and intestinal microflora and morphology of male broilers[J].Poultry Science,2004,83(11):1868-1875.
+
+[25]姚志成,叶盛群,许家亮,等.改性蒙脱石对霉菌毒素体外吸附脱毒效果试验[J].山东畜牧兽医,2012(9):19-20.
+
+Montmorillonite Affected Growth Performance and Immune Function of Broilers Fed Diets Containing Mouldy Peanut Meal WANG Fang1,2 ZHANG Haijun² WANG Jing²SHI Zhaoguol\* WU Shugeng2   
+(1. College of Animal Science and Technology, Gansu Agricultural University, Lanzhou 730070, China; 2. Key Laboratory of Feed Biotechnology of Ministry ofAgriculture,National   
+Engineering Research Center of Biological Feed,Feed Research Institute, Chinese Academy of Agricultural Sciences,Beijing 1OoO81, China)
+
+Abstract: This experiment was conducted to investigate the effects of montmorilonite on growth performance and immune function of broilers fed diets containing peanut meal naturally polluted with aflatoxin $\mathbf { B } _ { 1 }$ (AFBi),with an aim to determine the feeding results of montmorillonite as an adsorbent. A total of 288 one-day-old Arbor Acre (AA） male broiler chicks were randomly divided into 4 groups with 6 replicates containing 12 birds each. The four diets formulated included a corn-soybean meal basal diet (positive control group),a negative diet with naturally mouldy peanut meal ( $\mathrm { A F B } _ { 1 }$ content was $1 ~ 2 8 4 . 2 1 ~ \mu \mathrm { g / k g }$ ，with $8 . 8 \%$ and $12 . 0 \%$ for starter and grower period) to replace part of soybean meal (negative control group),and two contaminated diets supplemented with $2 . 0 \ \mathrm { g / k g }$ natural or modified montmorillonite based on the negative diet. The experiment lasted for 42 days. The results showed as follows: 1) compared with the positive control group, $\mathbf { A F B } _ { 1 }$ contaminated peanut meal diet significantly decreased average daily gain (ADG),average daily feed intake (ADFI), percentage of breast muscle and leg muscle of broilers at 42 days of age,and plasma protein contents $( P { < } 0 . 0 5 )$ , while significantly increased the ratio of feed to gain and immune organ indices of broilers $( P { < } 0 . 0 5 )$ . 2) Compared with the negative control group, the natural or modified montmorillonite significantly increased ADG, ADFI and plasma protein contents $( P { < } 0 . 0 5 )$ ，and significantly inhibited immune organ indices of broilers （20 $( P { < } 0 . 0 5 )$ ； 3） Compared with the natural montmorillonite group,the modified montmorillonite significantly increased ADG and contents of total protein and albumin in plasma $( P { < } 0 . 0 5 )$ ，and significantly decreased thymus index of broilers $( P { < } 0 . 0 5 )$ . In conclusion, $\mathbf { A F B } _ { 1 }$ contaminated peanut meal decreases the growth performance and immune functions of broilers,and dietary supplementation of natural or modified montmorillonite can ameliorate the negative efects of $\mathbf { A F B } _ { 1 }$ ,and the modified montmorillonite gets the better effects.
+
+Key words:montmorillonite; aflatoxin $\mathbf { B } _ { 1 }$ ; broilers; growth performance; immune

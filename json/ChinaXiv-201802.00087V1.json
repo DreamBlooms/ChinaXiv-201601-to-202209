@@ -1,0 +1,271 @@
+[
+    {
+        "type": "text",
+        "text": "相变蓄冷换热器的优化设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "莫冬传1,2，吕树申1,2，何振辉2.3（1．中山大学化学与化学工程学院，广州510275）（2．中山大学空间技术中心，珠海 519082)（3．中山大学物理科学与工程技术学院，广州510275)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对某间歇剧烈放热的设备，设计了一套某带相变蓄冷换热器的泵驱两相环路热控系统，并对相变蓄冷换热器进行优化设计。经过比较，拟采用石蜡与膨胀石墨的混合物为相变材料(PCM)，在大大提高材料热导率时，又可保持较大的相变潜热。为了提高换热效率，应尽量避免PCM的融化距离过深，同时应优先减小外管壁与PCM间的接触热阻。相变蓄冷换热器的最优管间距与蓄冷时间、冷凝传热系数和接触表面传热系数等因素密切相关，本相变蓄冷器的最优管间距选为 $3 0 \\mathrm { m m }$ 。通过动态模拟，可以得到相变蓄热换热器内不同时间的温度分布，确认所设计的相变蓄冷换热器可以满足要求，并为储液器的设计提供了相变蓄热换热器内不同时间的空泡率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：换热器；相变材料；高热流密度中图分类号： TK123 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimization of a Thermal Energy Storage Heat Exchanger ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MO Dong-Chuan1,² LU Shu-Shen1,²HE Zhen-Hui2,3 (1. Dept. of Chemistry and Chemical Engineering,Sun Yat-sen University, P.R. China; 2.Center of Space Technology, Sun Yat-sen University, P.R. China; 3.Dept. of Physics and Physical Engineering, Sun Yat-sen University,P.R.China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To solve the heat transfer problem of a machine with intermittent high heat flux,a pumped two-phase loop thermal control system with a thermal energy storage heat exchanger (TESHE） was designed and the TESHE was optimized.The phase change material for the TESHE was selected as parafin C15-C16/expanded graphite composite，which has both the advantage of high thermal conductivity and large heat offusion.To increase the heat transfer eficient, the melting distant should not be too large,and the contact thermal resistance between the outer wall and the PCM should be reduced first.The optimized tube spacing was function of the melting time,heat transfer coeficient, contact thermal resistance and so on, and the optimized tube spacing here was chosen as $3 0 \\mathrm { m m }$ .The dynamic modelling results show the temperature distribution in the TESHE at diferent time to confirm that the TESHE can meet the requirement. The dynamic modeling results can also provide void fraction distribution in the TESHE at different time for the accumulator design. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: heat exchanger; phase change material; high heat flux ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "相变蓄冷系统可以应用于太阳能存储[1],保护电子元件[2]，建筑节能[3]和其它方面[4]。由于相变材料(PCM)的相变潜热一般比显热要大得多，故采用PCM的蓄冷系统一般可储存的能量密度更大；而且吸热和放热过程可以在非常均匀的温度情况下进行。相变蓄冷换热器(thermal energy storage heatexchanger,TESHE)是整个蓄冷系统的核心部件。一般认为，相变蓄冷换热器的主要热阻在管外侧。为了减少管外侧换热过程的热阻，可以在盘管外侧加上翅片[5]，或者是采用板翅式蓄冷换热器[6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文采用提高相变材料热导率的方式来减少相变蓄冷换热器的外侧热阻，管子外侧无翅片，方便加工。下面介绍其优化设计过程。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1工作原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b6a15128ef6370adfb046042688d41535e72b17391d53f9b637d4029a24d4e0.jpg",
+        "img_caption": [
+            "图1某带相变蓄冷换热器的泵驱两相环路热控系统原理图 Fig.1 The schematics of a pumped two-phase loop thermal control system with a thermal energy storage heat exchanger "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1给出了某带相变蓄冷换热器的泵驱两相环路热控系统的原理图。某机器每小时内有5分钟是处于剧烈放热状态。为了保证设备的正常工作，需要将热量及时带走。由于条件所限，难以在短时间内将大量的热释放到环境。因此，在机器工作时，先通过一个泵驱动的两相环路热控系统，将机器产生的热量带到相变蓄冷换热器中。当机器停止工作时，再开启空调系统，将热量从相变蓄冷换热器带到环境中。这个系统在设计时有几大挑战：（1）、机器工作中的热流密度非常高；（2）、预留给泵驱两相环路热控系统的饱和工质与相变蓄冷换热器的相变温度间的温差非常小，最理想的情况在 $4 { \\sim } 5 \\mathrm { ~ ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ ·（3）、整个系统的质量和体积都受到严格限制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这个系统中，相变蓄冷换热器是最为关键的部件。图2给出了相变蓄冷换热器的结构示意图。为了降低系统阻力，同时提高换热效率，将进入相变蓄冷换热器的流体分为若干股，每股又由若干的管道串联焊接而成。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/739d1973644188e62c489911798b6573260956c8a6b67f80c0f1abd2f7aa8619.jpg",
+        "img_caption": [
+            "图2相变蓄冷换热器的结构示意图Fig.2Thesketchof the TESHE"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 模型设置",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图3给出了相变蓄冷换热器的模型设置示意图。在模拟中，认为进入相变蓄冷换热器后分成的若干股流体具有相同的传热效果，故只对其中一股进行分析。将该股流体流经的所有管道划分若干控制体。在正常工作时，泵所能提供的质量流量变化不大，故对流体的进口设置为固定质量流量的边界；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了模拟由于压力降产生的饱和工质温度梯度，对流体的出口设置为固定压力的边界。对于每一个控制体，采用均相模型。对每一个控制体与PCM间的传热过程，又详细划分为从控制体内的流体到内壁面（冷凝换热系数为hcondensation），从内壁面到外壁面，外壁面与PCM材料的接触（接触面传热系数为 $h _ { \\mathrm { c o n t a c t } } )$ ，接触外壁面的PCM材料与PCM固液界面间的热传导。其中，将流体与固液界面间的温差定义为dT，将外壁面到固液界面的距离定义为融化深度dR。本文只考虑机器放热时，相变蓄冷换热器的融化过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3f874bbfe3b9445bee3b8ce9f0f3068b2ef0e26e3ba6fd6066de70393ad8a8c.jpg",
+        "img_caption": [
+            "图3相变蓄冷换热器的模型设置示意图Fig.3The model set-up of the TESHE"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1相变材料的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1不同PCM 的物性",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f71d2e862379f4ceb0257968fad02c25734bb4d83a61e8788eda47ed216c2e85.jpg",
+        "table_caption": [
+            "Table 1 Properties of the different PCM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>相变材料</td><td>Tm/℃ Hm/J·g-1</td><td>λ/W·m-1·K-1</td><td>p/g·cm-3</td></tr><tr><td>十五烷[4]</td><td>10 207</td><td>0.17</td><td>0.768</td></tr><tr><td>十六烷[4]</td><td>18.2 238</td><td>0.21</td><td>0.774</td></tr><tr><td>石蜡C15-C16[9]</td><td>8 153</td><td></td><td></td></tr><tr><td>石蜡C16-C18[9]</td><td>20 152</td><td></td><td></td></tr><tr><td>91%石蜡与膨胀 石墨混合物[8]</td><td>1 60.1</td><td>9.22</td><td>0.850</td></tr><tr><td>65%石蜡与膨胀 石墨混合物[8]</td><td>44</td><td>153.3</td><td>1.080</td></tr><tr><td>85.6%石蜡与膨 胀石墨混合物[7]</td><td>161.45</td><td></td><td>0.7157</td></tr><tr><td>拟用的石蜡与膨 胀石墨混合物</td><td>10~11 160</td><td>5</td><td>0.500</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计目标限定了所选PCM的相变点介于10和$2 0 ^ { \\circ } \\mathrm { C }$ 之间，温度越低越好。表1列出了满足相变点要求的不同PCM的物性。从表可见，对于纯的石蜡系PCM来说，其热导率非常的低。为了提高PCM的热导率，可以增加膨胀石墨[7,8]。在同样的工艺下，增加的膨胀石墨越多，热导率越大，但相变潜热也会对应减少，导致需要的相变材料质量增加。本项目拟采用石蜡与膨胀石墨的混合物，其热导率可以到达 $5 \\mathrm { \\ : W { \\cdot m } ^ { - 1 } { \\cdot K } ^ { - 1 } }$ 以上，但相变潜热基本可以在$1 6 0 \\mathrm { J \\cdot g ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20 15   \nuu □   \n10   \nd --λ=5W·m¹K 5 6□ □ -O-λ=10Wm·K △λ=0.21WmK A 全 △ 0 全 2 空 1 上 0 1 2 3 4 5 6 dT/℃ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4给出了不同相变材料在不同温差时的融化深度(300s)。由图可见，对于纯石蜡来说，在温差 $\\mathrm { d } T$ 为 $5 \\mathrm { { ^ \\circ C } }$ ，其在300s 内的融化深度仅为 $2 \\mathrm { m m }$ 需要大量增加管道，使换热器变得庞大而笨重。而对于拟选的热导率可以为 $5 \\mathrm { \\ : W \\cdot m ^ { - 1 } \\cdot K ^ { - 1 } }$ 的石蜡与膨胀石墨的混合物，其在温差 $\\mathrm { d } T$ 为 $5 \\mathrm { { ^ circ C } }$ 、 $3 0 0 \\mathrm { s }$ 内的融化深度为 $1 2 \\mathrm { m m }$ ，可以满足要求。如果热导率进一步上升到 $1 0 \\ \\mathrm { W \\cdot m ^ { - 1 } \\cdot K ^ { - 1 } }$ ,其在温差 $\\mathrm { d } T$ 为 $5 ^ { \\circ } \\mathrm { C } \\ 、 3 0 0 \\mathrm { s }$ 内的融化深度为 $1 6 \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "r eereesesrceseer 一□一between the fluid and inner wall 0.04-O- wall conduction 一一between theouterwall and the PCM 0.03F -一PCM conduction △I△I△I△II△I△I△I△I△I△I△I△ V 0.02 0.01 □ □ DIOIO 0.00 X D A △ D D 0 2 4 6 8 10 12 14 dR/mm ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c8e9ff1e200f784d4b5727b0d90e81df3c4acc2cfa2ac36783b67cadb1fbc7b.jpg",
+        "img_caption": [
+            "图 4不同相变材料在不同温差时的融化深度(300s)Fig.4 The melting distance of different PCMs with differenttemperature difference",
+            "图5热阻分布随融化深度的变化",
+            "Fig.5 The thermal resistance distribution according to different melting distance ",
+            "图6融化深度与冷凝传热系数和接触表面传热系数的关系 Fig.6 The melting distance based on different condensation coefficient and the surface contact heat transfer coefficient "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5给出了热阻分布随融化深度的变化图。由于此为初步计算，故在图中假设hcondensation为4000$\\mathrm { W } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { K } ^ { - 1 }$ ， $h _ { \\mathrm { c o n t a c t } }$ 为 $1 0 0 0 \\mathrm { W } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { K } ^ { - 1 }$ 。随着融化深度的变化，PCM的热传导热阻逐渐上升，说明在设计时，为了提高换热效率，应该尽量避免PCM的融化距离过深。从图上也可以看出，外管壁与PCM间的接触所占的热阻为最大，说明如果要提高换热效率，应该优先减小外管壁与PCM间的接触热阻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2合适管间距的选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "管间距是相变蓄冷换热器设计的关键点。如果管间距过短，则管壁周围PCM材料的相变过程不足以持续 $3 0 0 \\mathrm { s }$ 。如果间距过大，则管壁周围有大量PCM没有参与相变过程。图6给出了融化深度与冷凝传热系数和接触表面传热系数的关系。随着冷凝传热系数和接触表面传热系数的增大，融化深度可以增大。经过分析，拟采用外径为 $1 2 \\mathrm { m m }$ 的管道，所采用经过强化的管道内表面的冷凝传热系数可以达到$1 0 0 0 0 \\ \\mathrm { W } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { K } ^ { - 1 }$ ，接触面的表面传热系数可以达到$2 0 0 0 \\mathrm { W } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { K } ^ { - 1 }$ ，传热温差 $\\mathrm { d } T$ 为 $4 ^ { \\circ } \\mathrm { C }$ 。此时， $\\mathrm { d } R$ 大概为 $8 \\mathrm { m m }$ 。由此可以推算管间距约为 $2 8 ~ \\mathrm { m m }$ 。为了增加余量，将管间距设为 $3 0 \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3蓄热器的动态模拟 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于相变蓄冷换热器主要用来控制温度，故其温度分布最为重要。图7给出了相变蓄热换热器内不同时间的温度分布。横坐标表示沿流动方向等间距所定的测温点。随着相变过程的进行，所有测温点的温度都在升高。由于本系统采用了泵驱动，故应该保证换热器出口的温度有足够的过冷度，避免流体在泵中发生气蚀现象，影响系统的正常工作。从图可见，在整个过程中，换热器的出口过冷度都超过 $5 \\mathrm { { ^ circ C } }$ ，可以有效避免泵中发生气蚀现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图8给出了相变蓄热换热器内不同时间的空泡率分布。在融化过程中，相变蓄冷换热器内工质的气液界面朝着出口移动。此时，多余的工质将要进入储液器。空泡率分布可以为储液器的设计提供重要参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1bcb8a096f54504357fbd79a425dc191d751aa8d02b983e8640d07be1b3cd6d.jpg",
+        "img_caption": [
+            "图7相变蓄热换热器内不同时间的温度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c30781589521e824a778bfcb1f77978bd31b6e4c126dfde755710eab7792ebd4.jpg",
+        "img_caption": [
+            "Fig.7The temperature distribution inthe TESHE at different ",
+            "图8相变蓄热换热器内不同时间的空泡率分布Fig.8 Thevoid fractiondistributionin the TESHE at differenttime"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文针对间歇剧烈放热的某机器设计了一套相变蓄冷换热器散热系统。通过对相变蓄冷换热器进行优化设计，得到以下结论：（1)、相变材料可采用某石蜡与膨胀石墨的混合物，其热导率可以到达 $5 \\mathrm { \\ : W { \\cdot m } ^ { - 1 } { \\cdot K } ^ { - 1 } }$ 以上，但相变潜热基本可以在 $1 6 0 \\mathrm { J \\cdot g ^ { - 1 } }$ 。（2）、为了提高换热效率，应该尽量避免PCM的融化距离过深，同时应该优先减小外管壁与PCM间的接触热阻。（3）、相变蓄冷换热器的最优管间距与蓄冷时间、冷凝传热系数和接触表面传热系数等因素密切相关。本文所介绍的相变蓄冷器的最优管间距约为$2 8 ~ \\mathrm { m m }$ 。为了增加余量，将管间距设为 $3 0 \\mathrm { m m }$ （4)、通过动态模拟，可以由相变蓄热换热器内不同时间的温度分布确认设计的相变蓄冷换热器满足要求；同时可以为储液器的设计提供空泡率随时间的变化规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]．Kenisarin $\\mathtt { M }$ and Mahkamov K. Solar energy storage using phase change materials[J]. Renewable and Sustainable Energy Reviews，2007，11(9):1913-1965 [2]．Tan F L and Tso C P. Cooling of mobile electronic devices using phase change materials[J]. Applied Thermal Engineering，2004，24(2-3):159-169 [3]．Khudhair A Mand Farid MM. Areview on energy conservation in building applications with thermal storage by latent heat using phase change materials[J]. Energy Conversion and Management，2004，45(2):263-275 [4]．Zalba B,Marin JM,Cabeza L F,et al． Review on thermal energy storage with phase change: materials, heat transfer analysis and applications[J]. Applied Thermal Engineering，2003，23(3): 251-283 [5]．袁俊飞，曾秒，唐大伟，等．盘管式蓄冷器释冷 过程实验研究[C]//2012年中国工程热物理学会传热传质学 年会.东莞：2012：论文编号:123599 YUAN Junfei， ZENG Miao，TANG Dawei，et al. Experimental study on the cooling process of coil thermal energy storage heat exchanger[C]// 2012 Chinese Society of Engineering Thermophysics Heat and Mass Transfer Conference. Dongguan: 2012:No. 123599 [6]．曾秒，郭朝红，袁俊飞，等．用于大功率电器冷 却的板翅式相变换热器模拟设计[C]//中国工程热物理学会 传热传质学年会．东莞：2012：论文编号：123596 ZENG Miao，GUO Chaohong，YUAN Junfei，et al. simulation on a plate thermal energy storage heat exchange for high power electronic cooling[C] // 2012 Chinese Society of Engineering Thermophysics Heat and Mass Transfer Conference.Dongguan:2012:No.123596 [7]．Zhang Z and Fang X. Study on paraffin/expanded graphite composite phase change thermal energy storage material [J]. Energy Conversion and Management，2006，47(3):303-310 [8]． Zhong Y，Li S, Wei X,et al. Heat transfer enhancement of paraffin wax using compressed expanded natural graphite for thermal energy storage[J]. Carbon, 2010，48(1):300-304 [9]．张兴祥.相变材料胶囊制备与应用[M].北京:化学 工业出版社，2009 ZHANG Xingxiang. The fabrication and application of encapsulated Phase Change Materials [M]. Bei jing: Chemistry industry press， 2009 ",
+        "page_idx": 3
+    }
+]

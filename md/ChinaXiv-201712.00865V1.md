@@ -1,0 +1,93 @@
+# 临床研究
+
+# 高反应患者重复长方案对卵巢反应性及妊娠结局的影响
+
+倪 郝},何思锐²,李 红',陈东红},华 芮',陈思梅',全 松'南方医科大学'南方医院妇产科生殖医学中心， $^ { 2 } 2 0 1 0$ 级临床医学1班，广东广州510515摘要：目的探讨高反应患者在体外受精-胚胎移植(IVF-ET)中行重复周期垂体降调节长方案，调整治疗策略对卵巢反应性及妊娠结局的影响。方法选择南方医院生殖医学中心2008年1月\~2011年12月30例高反应患者60个长方案行IVF-ET治疗不孕症的周期进行回顾性分析,比较高反应患者前后周期治疗的临床特点。结果与第一治疗周期相比，患者行重复周期治疗时年龄明显增加( $_ { ( P < 0 . 0 0 1 }$ ),Gn启动剂量明显减少 $\scriptstyle P = 0 . 0 4 9 .$ ）， $\mathrm { \ h C G }$ 日雌激素 $\left( \operatorname { E } _ { 2 } \right)$ 水平降低 $\scriptstyle P = 0 . 0 2 7 ,$ ，获卵数减少（ $\scriptstyle P = 0 . 0 3 0 )$ ，优质胚胎形成率( $P { < } 0 . 0 0 1 \$ 、临床妊娠率( $scriptstyle P = 0 . 0 0 9$ )升高,但在降调节剂量、Gn应用总量、Gn刺激时间、2原核(PN)个数、受精数、卵巢过度刺激综合征(OHSS)高危倾向周期取消率无显著性差异 $( P { > } 0 . 0 5 )$ ,再次发生卵巢高反应者占 $4 0 \% ( 1 2 / 3 0 )$ 。结论 对于高反应患者,行长方案重复IVF周期治疗时应注意减小Gn启动剂量,减少再次发生高反应的风险，改善助孕结局。
+
+关键词：体外受精-胚胎移植；卵巢高反应；长方案;重复周期
+
+# Ovarian response and pregnancy outcome in hyper-responders during repeated in vitrc fertilization and embryo transfer
+
+NI Hao,HE Sirui²,LI Hong',CHENDonghong',HUA Rui’,CHENSimei’, QUAN Song   
+CenterforprciciepmteicdCcalcde   
+Southern Medical University, Guangzhou 510515, China
+
+Abstract: Objective To evaluate the ovarian responseand pregnancy outcomes in patients with excessve ovarian response receiving long-protocol pituitary down-regulation during repeated invitrofertilization andembryo transfer (IVF-ET). Methods Sixty IVF-ETcycles fromJanuary2008 to December 2011 were analyzed retrospectively.Theclinicalcharacteristics were compared between the various treatmentcycles.Results Compared with those with thefirst reatment cycle,the patients receiving repeated cycles had a significantly older age $( P { < } 0 . 0 0 1 )$ ，reduced initial doses of Gn $\scriptstyle ( P = 0 . 0 4 9 )$ ， and moderately lowered estrogen level on the day of hCG administration $\left( \mathrm { E } _ { 2 } \right)$ $( P { = } 0 . 0 2 7 )$ and the number of oocytes retrieved $( P { = } 0 . 0 3 0 )$ . The high-quality embryo formation rate $( P { < } 0 . 0 0 1 )$ and clinical pregnancy rate $_ { ( P = 0 . 0 0 9 ) }$ were both significantly higher in patients with repeated ccles.Thedosefordown-regulation,total Gndose,durationof Gnstimulation,number of two pronuclei(PN), number offertilizedoocyte,and thecancelationrateforahigh riskofovarian hyperstimulationsyndrome (OHS)were all comparable between the two groups $( P { > } 0 . 0 5 )$ . The recurrence rate of ovarian excessive respond was $4 0 \%$ (12/30). Conclusion For patients receiving repeated IVF treatment cycle with a high ovarian response,asmaller initial dose of $\mathrm { G n }$ should be used to minimize the risk of hyper-response and improve the outcome of assisted reproductive treatment.
+
+Key words: in vitro fertilization and embryo transfer; excessve ovarian response; long protocol; repeated cycles
+
+卵巢高反应是控制性卵巢刺激(controlledovarianstimulation，COS)过程中生殖医学工作者研究的热点之一[1-2]。针对卵巢高反应患者,如何根据既往诊治策略调整重复周期COS的方案、更为个体化治疗、提高重复周期的临床妊娠率并减少卵巢过度刺激综合征等不良结局已成为临床医生和患者共同关注的问题[3]。本研究回顾性分析第一治疗周期为卵巢高反应的患者，行重复周期超促排卵治疗的临床资料及实验室数据，以期了解相同方案重复周期治疗对卵巢反应性的影响，并探索改善重复IVF-ET助孕结局的有效途径。
+
+# 1资料与方法
+
+# 1.1研究对象
+
+选择2008年1月\~2011年12月在南方医院生殖医学中心首次采用垂体降调节长方案超促排卵施行IVF-ET的30例高反应患者再次COS的临床资料进行回顾性分析。所有研究对象纳入标准为满足下述所有条件：年龄25\~40岁；双侧附件完整；月经周期规律；自然月经周期第3天基础卵泡刺激素(bF $\mathrm { S H } ) { \leqslant } 1 0 \ \mathrm { m I U / m L }$ 均采用黄体中期长方案且临床资料完整;第一治疗周期按照本中心标准为卵巢高反应患者，再次在我中心进行第2次IVF治疗;受精方式均为IVF;无吸烟或酗酒；配偶精液常规2次检查(至少间隔1个月)各项参数均在正常参考值范围内。排除标准为以下任一：超促排卵禁忌证;纳入研究前3个月内使用过留体激素或其它影响内分泌的药物者；施行第2天胚胎移植、囊胚移植或两步移植;coasting方案;复发性流产;赠卵;子宫畸形或子宫内膜器质性病变者以及既往有盆腔结核病史者。其中原发性不孕11例，继发性不孕19例；主要不孕原因包括盆腔卵管因素、子宫内膜异位症、实行3次人工受精未孕、多囊卵巢综合征及混合因素。
+
+# 1.2控制性卵巢刺激方案
+
+COS方案均采用黄体中期长方案，根据患者基础窦卵泡计数(AFC)及体质指数(BMI)选择适量的促性腺激素释放激素激动剂(GnRH-a)长效制剂[达菲林，法国博福-益普生(天津)制药],用量范围 $1 . 2 0 { \sim } 1 . 8 7 5 ~ \mathrm { m g }$ 或短效制剂达菲林，法国博福-益普生(天津)制药」，用量范围 $0 . 0 5 { \sim } 0 . 1 0 ~ \mathrm { m g }$ ,具体方案按照本中心技术常规4]
+
+# 1.3黄体支持及确定临床妊娠
+
+自取卵日始，患者每日肌注黄体酮 $6 0 ~ \mathrm { m g }$ 或经阴道塞4颗微粒化黄体酮胶囊(安琪坦，英维达公司)行黄体支持。胚胎移植后12\~14d测定血 $\beta$ -hCG水平了解是否妊娠，移植后4周经阴道超声观察到妊娠囊及原始心管博动者判定为临床妊娠(所有获得临床妊娠患者持续随访至妊娠终止)。
+
+# 1.4卵巢高反应判断标准
+
+有研究以获卵数作为参考，认为获卵数超过10个即是卵巢高反应[56；Tolikas等选择获卵数超过12个以上； ${ \mathrm { w } } _ { \mathrm { u } }$ 等定义获卵数>15个为高反应患者。另有研究参考hCG日血清 $\mathrm { E } _ { 2 }$ 水平的绝对值，当 $\mathrm { E } _ { 2 } { > } 5 5 0 0 \mathrm { p g / m L }$ 时为卵巢高反应[9-10]。Bahgeci等[]则以hCG日血清 $\mathrm { E } _ { 2 }$ 水平的百分位数界定，认为 $\mathord { \mathrm { > } } 9 0$ 百分位数 $\mathrm { E } _ { 2 }$ 水平为卵巢高反应[12]。Pan等[13-14]参考获卵数 ${ \geqslant } 1 5$ 个或hCG日血清 $\mathrm { E } _ { 2 }$ 水平 $\mathrm { \cdot { > } 3 0 0 0 ~ p g / m L }$ 。Kol等[15]认为既往有OHSS病史或因OHSS高风险导致流产周期也为高反应患者。上述标准相对简单，可操作性强，且未将患者年龄、卵巢储备功能、外源性药物剂量等因素合并考虑；我中心据文献报道结合上述标准，制定本中心高反应标准需同时符合获卵数 $_ { \geqslant 1 5 }$ 个且hCG日血清 $\operatorname { E } _ { 2 }$ 水平 $> 3 0 0 0 ~ \mathrm { p g / m L }$ O
+
+# 1.5统计学方法
+
+采用SPSS13.0软件包对数据进行统计学分析。计量资料以均数 $\stackrel { \cdot } { \pm } ,$ 标准差表示，采用配对t检验；计数资料应用绝对数和相对数表示;率的比较应用x检验；均以 $P { < } 0 . 0 5$ 表示有统计学差异。
+
+# 2结果
+
+# 2.1 患者基本资料
+
+患者首次就诊时平均不孕年限 $3 . 5 7 { \scriptstyle \pm 2 . 3 2 }$ 年，基础卵泡刺激素(bFSH)水平 $7 . 0 7 { \scriptstyle \pm 1 . 5 4 ~ \mathrm { m I U / m L } }$ ，基础雌激素 $\left( \mathsf { b E } _ { 2 } \right)$ 水平 $3 9 . 0 7 { \pm } 1 9 . 0 3 ~ \mathrm { p g / m L }$ ,基础窦卵泡(bAFC)$1 6 . 5 5 { \scriptstyle \pm 5 . 9 0 }$ 个，体质指数 $( \mathrm { B M I } ) 2 0 . 6 4 \pm 2 . 4 2 \mathrm { ~ k g } / \mathrm { m } ^ { 2 }$ 经过第1周期COS治疗后，平均行冷冻胚胎移植周期$1 . 6 7 { \pm } 1 . 1 2 \$ 个。
+
+# 2.2患者重复周期治疗COS用药情况及激素水平比较
+
+两次COS治疗患者的降调节剂量、促性腺激素中 $\mathbf { \bar { G } n } )$ 应用总量， $\cdot \mathrm { G n }$ 刺激时间、hCG日内膜厚度、hCG剂量 $\mathrm { \Omega } \cdot \mathrm { h C G }$ 日黄体生成素(LH)水平、hCG日孕酮(P)水平均无统计学意义( $( P { > } 0 . 0 5 )$ ,患者接受重复周期治疗时的年龄 $3 2 . 5 5 { \pm } 3 . 7 8$ 岁)较第一周期治疗时 $( 3 1 . 4 7 \pm 3 . 8 5$ 岁)显著增加( $_ { ( P < 0 . 0 0 1 }$ ),Gn启动剂量、hCG日 $\mathrm { E } _ { 2 }$ 水平显著下降( $\scriptstyle \phantom { + } P < 0 . 0 5$ ，表1)。
+
+表1患者重复周期治疗促排用药及激素水平比较 Tab.1 Comparison of patients with repeated treatment cycles of in COS and hormone levels   
+
+<html><body><table><tr><td>Item</td><td>First COS cycle</td><td>Repeated cycle</td><td>t</td><td>P</td></tr><tr><td>Age(year)</td><td>31.47±3.85</td><td>32.55±3.78</td><td>13.690</td><td>0.000*</td></tr><tr><td>GnRH-a dose(mg)</td><td>0.54±0.66</td><td>0.66±0.67</td><td>0.826</td><td>0.415</td></tr><tr><td>Starting dose(IU)</td><td>215.00±76.73</td><td>188.75±73.35</td><td>2.057</td><td>0.049*</td></tr><tr><td>Total dosage for Gn(IU)</td><td>2287.08±873.01</td><td>2216.67±761.20</td><td>0.435</td><td>0.667</td></tr><tr><td>Gn stimulatin days</td><td>11.00±2.12</td><td>11.27±2.07</td><td>0.580</td><td>0.566</td></tr><tr><td>Endometrial thickness on hCG day（mm）</td><td>11.17±2.36</td><td>10.81±2.22</td><td>0.953</td><td>0.348</td></tr><tr><td>hCG dose(IU)</td><td>6800.00±2023.99</td><td>7433.33±2207.88</td><td>1.790</td><td>0.084</td></tr><tr><td>E2 level on hCG day(pg/mL)</td><td>4170.40±1319.84</td><td>3349.77±1700.76</td><td>2.324</td><td>0.027*</td></tr><tr><td>LH level on hCG day(mIU/mL)</td><td>1.72±1.13</td><td>1.65±0.91</td><td>0.406</td><td>0.688</td></tr><tr><td>Plevel on hCG day(ng/mL)</td><td>1.04±0.41</td><td>0.96±0.41</td><td>0.944</td><td>0.353</td></tr></table></body></html>
+
+2.3患者重复周期COS治疗实验室数据及助孕结局比较两次COS治疗患者新鲜周期移植胚胎数、2原核(PN)数、卵子受精数、2PN卵裂数、冷冻胚胎个数以及因卵巢过度刺激综合征(OHSS)高危倾向的周期取消率均无显著性差异 $( P { > } 0 . 0 5 )$ ,患者接受重复周期治疗时的获卵数( $\cdot 1 6 . 1 0 { \pm } 7 . 1 9 \rangle$ 较第一周期治疗时 $( 1 9 . 6 0 { \pm } 4 . 5 1 ) \$ 显著减少 $( P { < } 0 . 0 5 )$ ,优质胚胎形成率及临床妊娠率显著提高$( P { < } 0 . 0 5 )$ 。见表2。且按照本中心标准，再次助孕治疗患者发生卵巢高反应的比例为 $4 0 \% ( 1 2 / 3 0 )$ ，没有患者发生中重度OHSS。
+
+表2患者重复周期治疗实验室数据及临床结局比较 Tab.2 Comparison of patients with repeated cycles of laboratory data and clinical outcomes   
+
+<html><body><table><tr><td>Item</td><td>First COS cycle</td><td>Repeated cycle</td><td>t/x²</td><td>P</td></tr><tr><td>Number of retrieved oocytes</td><td>19.60±4.51</td><td>16.10±7.19</td><td>2.289</td><td>0.030*</td></tr><tr><td>Embryo transfer number</td><td>2.00±0.79</td><td>2.13±1.17</td><td>0.548</td><td>0.588</td></tr><tr><td>Number of 2PN</td><td>11.70±5.40</td><td>9.50±6.03</td><td>1.836</td><td>0.077</td></tr><tr><td>Number of normal fertilization</td><td>13.40±5.69</td><td>11.17±6.48</td><td>1.729</td><td>0.094</td></tr><tr><td>Number of 2PN cleavage</td><td>11.30±5.45</td><td>9.20±5.82</td><td>1.776</td><td>0.086</td></tr><tr><td>Number of frozen embryo</td><td>7.47±5.31</td><td>6.27±6.01</td><td>1.060</td><td>0.298</td></tr><tr><td>Good quality embryo rate per attempt</td><td>28.32%(96/339)</td><td>45.65%(126/276)</td><td>19.816</td><td>0.000*</td></tr><tr><td>Clinical pregnancy rate</td><td>14.81%(4/27)</td><td>54.17%(13/24)</td><td>6.880</td><td>0.009*</td></tr><tr><td>Tendentious OHSS cancellation rate</td><td>6.67%(2/30)</td><td>10.00%(3/30)</td><td></td><td>1.000</td></tr></table></body></html>
+
+# 3讨论
+
+COS是辅助生殖技术实施的重要环节，其目的在于较自然月经周期募集更多的卵母细胞，以提高临床妊娠率。即使应用统一的COS方案，卵巢对药物的反应性仍存在个体差异和周期差异。在临床工作中，依据卵巢反应性不同大致可以分为卵巢低反应、正常反应和高反应3种类型，但迄今学术界对其程度划分尚无公认的界定标准;卵巢高反应是否影响IVF-ET的妊娠结局目前也存在争议。Kosmas等[16对既往的9项回顾性研究进行系统性分析，显示垂体降调节方案中，尚无高质量证据证实hCG日 $\mathrm { E } _ { 2 }$ 水平与IVF助孕的临床妊娠率有关联。Kyrou等[1前瞻性研究207例39岁以下患者行固定拮抗剂方案hCG日 $\mathrm { E } _ { 2 }$ 水平与妊娠结局，显示 $\mathrm { E } _ { 2 }$ 浓度与是否妊娠无关;但对高反应患者，即使改善胚胎质量，也不能抵消高 $\mathrm { E } _ { 2 }$ 浓度对子宫内膜容受性的潜在不利影响。 ${ \sf W } { \sf u }$ 等8回顾性分析274个IVF周期,结果显示高 $\mathrm { E } _ { 2 }$ 水平不影响IVF结局,尽管 $\mathrm { E } _ { 2 } { > } 5 0 0 0 ~ \mathrm { p g / m L }$ 时胚胎着床率和妊娠率有所下降,但并无统计学差异。Imudia等[18]研究提示，hCG日 $\mathrm { E } _ { 2 }$ 水平 ${ \tt > } 9 0 \$ 百分位数的患者卵子受精率下降,但不影响胚胎着床率、临床妊娠率及自然流产率。Joo等[19回顾性研究455个新鲜IVF-ET周期hCG日的 $\operatorname { E } _ { 2 }$ 水平与临床结局，显示合适的 $\mathrm { E } _ { 2 }$ 水平与妊娠结局密切相关，且合适的 $\mathrm { E } _ { 2 }$ 水平取决于患者年龄， $^ { < 3 8 }$ 岁以下患者 $\operatorname { E } _ { 2 }$ 水平介于 $3 0 0 0 { \sim } 4 0 0 0 \ \mathrm { p g / m L }$ 较为合适， $\geqslant 3 8$ 岁患者则介于 $2 0 0 0 { \sim } 3 0 0 0 ~ \mathrm { p g / m L }$ 较为合适。Imudia等[12]研究显示hCG日 $\mathrm { E } _ { 2 } { > } 3 4 5 0 ~ \mathrm { p g / m L }$ 会增加不良产科结局(如分娩小于胎龄儿、先兆子痫)的发生风险。上述结论差异可能与各研究采用的研究方法、界定指标及研究对象不同相关。
+
+对第一周期助孕结局欠佳的高反应患者，再次助孕时可考虑更换COS方案，或应用相同方案调整用药；目前对"高反应"的定义尚不一致、此类患者对Gn的有效阈值范围相对较窄、个体化的卵巢刺激既是临床治疗难点也是研究的热点，在重复周期中调整治疗策略尤其重要，故本文为避免不同COS方案对助孕结局的影响，联合参考血清 $\mathrm { E } _ { 2 }$ 水平及获卵数,纳入标准严格，从自身前后COS对比的视角出发，分析小样本应用长方案行IVF周期治疗的临床特点，结果显示：高反应患者再次助孕治疗发生卵巢高反应的比例为 $4 0 \% ( 1 2 / 3 0 )$ ；两次COS治疗患者的降调节剂量、 $\mathbf { G } \mathbf { n }$ 应用总量、 $\cdot \mathrm { G n }$ 刺激时间、hCG日内膜厚度、hCG剂量、新鲜周期移植胚胎数、2PN数、卵子受精数、2PN卵裂数、冷冻胚胎个数以及因OHSS高危倾向的周期取消率均无显著性差异( $P >$ 0.05);Gn启动剂量、hCG日 $\mathrm { E } _ { 2 }$ 水平、获卵数较第一周期治疗时显著降低，可能与减小启动剂量后达到相对适合的FSH阈值范围，在Gn应用总量相似的基础上，募集适量的卵泡、将雄激素优势微环境转化为雌激素优势微环境后继续生长发育，保证优势卵泡对FSH的敏感，且避免了雌激素过度升高带来的负面影响。患者接受重复周期治疗时的年龄较前相比绝对数增加不多，且均值均小于35岁（与该类型患者获得相对更多的可移植胚胎，增加行冷冻胚胎移植的次数有关),尽管有统计学差异但从临床角度考虑对COS的影响在可接受范围之内。优质胚胎形成率及临床妊娠率显著提高，说明COS方案合适的 $\mathrm { E } _ { 2 }$ 范围有利于获得一定数量和质量的卵子，改善胚胎质量和妊娠结局，与前述部分学者的研究结论一致，也与我们的前期研究相符20]。本资料中尚无患者发生中重度OHSS,考虑与我中心采取有效地预防措施有关，自取卵当日应用羟乙基淀粉氯化钠注射液静脉滴注，部分高反应患者在知情告知并取得其同意后行全部胚胎冷冻 $\mathrm { \dot { . } + }$ 择期行冷冻胚胎移植[21]。
+
+综上所述，对于高反应患者，助孕前充分评估卵巢储备功能，行长方案治疗时应注意减小Gn启动剂量，从而减少卵巢发生高反应的风险，获得一定数量和质量的卵子，有助于改善助孕结局。
+
+# 参考文献：
+
+[1]Huber M,Hadziosmanovic N,Berglund L,et al. Using the ovarian sensitivity index to define poor,normal,and high response after controlled ovarian hyperstimulation in the long gonadotropinreleasing hormone-agonist protocol: suggestions for a new principle to solve an old problem[J].Fertil Steril,2013,100(5):1270-6.   
+[2]Broer SL,Dólleman M,Van Disseldorp J,et al. Prediction of an excessiveresponseininvitrofertilizationfrompatient characteristics and ovarian reserve tests and comparison in subgroups:an individual patient data meta-analysis[J].Fertil Steril, 2013,100(2): 420-9.e7.   
+[3]Soave I,Marci R.Ovarian stimulation in patients in risk of OHSS [J].Minerva Ginecol,2014,66(2): 165-78.   
+[4]陈雷宁,全 松,李 红,等.重组卵泡刺激素预充注射笔在控制性超促 排卵中的临床应用[J].南方医科大学学报,2009,29(1):100-4.   
+[5]Neulen J, Wenzel D,Hornig C,et al.Poor responder-high responder: the importance of soluble vascular endothelial growth factor receptor 1 in ovarian stimulation protocols[J].Hum Reprod, 2001, 16(4): 621-6.   
+[6]Artini PG,Monti M,Matteucci C,et al.Vascular endothelial growth factor and basic fibroblast growth factor in polycystic ovary syndrome during controlled ovarian hyperstimulation[J].Gynecol Endocrinol,2006,22(8): 465-70.   
+[7]Tolikas A,Tsakos E,Gerou S,et al.Anti-Mullerian hormone (AMH) levels in serum and follicular fluid as predictors of ovarian response in stimulated (IVF and ICSI) cycles [J].Hum Fertil (Camb),2011,14(4): 246-53.   
+[8]Wu CH,Kuo TC,Wu HH,et al.High serum estradiol levels are not detrimental to in vitro fertilization outcome[J]. Taiwan J Obstet Gynecol,2007,46(1): 54-9.   
+[9]Makkar G, Ng EH, Yeung WS,et al. Reduced expression of interleukin-11andinterleukin-6intheperiimplantation endometrium of excessive ovarian responders during in vitro fertilization treatment [J].J Clin Endocrinol Metab,2006,91(8): 3181-8.   
+[10] Makkar G,Ng EH, Yeung WS,et al. Excessive ovarian response is associated with increased expression of interleukin-2 in the periimplantation endometrium [J].Fertil Steril,2009，91(4): 1145-51.   
+[11]Bahceci M,Ulug U,Erden HF,et al．Elevated oestradiol concentrations are not associated with increased first trimester miscarriage rates of singleton gestations conceived by assisted conception treatment[J]. Reprod Biomed Online,2006,12(1): 33-8.   
+[12] Imudia AN,Awonuga AO,Doyle JO,et al. Peak serum estradiol level during controlled ovarian hyperstimulation is associated with increased risk of small for gestational age and preeclampsia in singleton pregnanciesafter in vitro fertilization[J].Fertil Steril, 2012, 97(6): 1374-9.   
+[13]Pan HA,Wu MH,Cheng YC,et al.Quantification of ovarian Doppler signal in hyperresponders during in vitro fertilization treatment using thre-dimensional power Doppler ultrasonography [J].Ultrasound Med Biol,2003,29(7): 921-7.   
+[14]朱依敏.卵巢高反应人群的降调节方案[J].生殖医学杂志,2007,16 (5): 310-1.   
+[15]Kol S,Muchtar M.Recombinant gonadotrophin-based,ovarian hyperstimulation syndrome-free stimulation of the high responder: suggested protocol for further research[J].Reprod Biomed Online, 2005,10(5): 575-7.   
+[16]Kosmas IP,Kolibianakis EM,Devroey P.Association of estradiol levelson the dayof hCG administration and pregnancy achievement in IVF: a systematic review[J]. Hum Reprod,2004,19 (11): 2446-53.   
+[17]Kyrou D,Popovic-Todorovic B,Fatemi HM,et al．Does the estradiol level on the day of human chorionic gonadotrophin administration have an impact on pregnancy rates in patients treated with rec-FSH/GnRH antagonist [J]. Hum Reprod,2009,24(11): 2902-9.   
+[18]Imudia AN,Goldman RH,Awonuga AO,et al. The impact of supraphysiologic serum estradiol levelson peri-implantation embryo development and early pregnancy outcome following in vitro fertilization cycles [J].J Assist Reprod Genet,2014,31(1): 65-71.   
+[19]Joo BS,Park SH,An BM,etal. Serum estradiol levels during controlled ovarian hyperstimulation influence the pregnancy outcome of in vitro fertilization in a concentration-dependent manner[J]. Fertil Steril,2010, 93(2): 442-6.   
+[20]倪 郝,陈雷宁,全 松,等.长方案垂体降调节行IVF-ET时雌二醇水平 变化的意义[J].南方医科大学学报,2011,31(2):365-8.   
+[21]Imudia AN,Awonuga AO，Kaimal AJ,et al.Elective cryopreservation of all embryos with subsequent cryothaw embryo transfer in patients at risk for ovarian hyperstimulation syndrome reduces the risk of adverse obstetric outcomes: a preliminary study [J].Fertil Steril,2013,99(1): 168-73. (纻辑 苦工颜)

@@ -1,0 +1,238 @@
+# 快速射电暴的数据统计
+
+余秋雨1，王培²，刘志杰1，
+
+（1.贵州师范大学贵州省信息与计算科学重点实验室，贵阳550018；2.中国科学院 国家天文台，北京 100012）
+
+摘要：快速射电爆（Fast Radio Burst简称FRB）于2007年首次在脉冲星搜索数据中被发现，是一种在射电波段强烈爆发的天体物理现象，其特征为持续时间一般仅为若干毫秒，峰值流量密度可达到央斯基量级。类似于射电脉冲星的单个脉冲但具有超过同一视线方向上整个银河系星际介质的预期总色散量，可作为研究离子化星系间介质和自由电子空间分布的宇宙学尺度探针。对截止2018年6月Parkes 望远镜、GBT望远镜、Arecibo 电望远镜、UTMOST望远镜和ASKAP 望远镜已探测到的52例FRB事件进行了观测量统计分析。排除来自银河系星际介质贡献的色散量后，FRB平均色散量约为584.521pccm-3，这暗示FRB 来自河外。通过最佳拟合估算红移幂律分布谱 $\mathsf { \Phi } \cdot \mathsf { d N } / \mathsf { d F o b s } = 4 . 1 4 \pm 1 . 3 0 \times F _ { o b s } ^ { - 1 . 1 2 0 5 5 } \mathsf { s k y } ^ { - 1 } \mathsf { d a y } ^ { - 1 }$ 。FAST望远镜使用19波束接收机探测灵敏度后，FAST多科学目标同时扫描巡天（CRAFTS）中估计经过一年时间的科学运行，FAST 能发现大约10个FRB，将有效的扩大样本，为FRB 研究提供重要信息。
+
+关键字：快速射电爆；强度分布；FAST中图分类号：P162文献标识码：A
+
+# Fast Radio Bursts Statistics
+
+Abstract:Fast Radio Burst was first discovered in pulsar search data in 2OO7, it is intense radio flashes,can be a powerful probe for studying the ionized intergalactic medium and the spatial distribution of free electrons.After subtracting the contribution from the interstellar medium of our Galaxy, Their mean dispersion measure is found to be ${ \sim } 5 8 4 . 5 2 1 \mathrm { p c } \ \mathrm { c m } ^ { - 3 }$ ， supporting their being fromcosmological origin. Thelaw-distribution can be described asdN/dFobs=4.14 ± $1 . 3 0 { \times } \mathrm { { F o b s } ^ { - 1 . 1 2 0 5 5 } { s k y } ^ { - 1 } \ d a y } ^ { - 1 } .$ Based onthis intensity distribution function, CRAFTS willbe able todetect about 10 FRBs for every a year of observation time.
+
+Key words:Fast Radio Burst,intensitydistributionfunction,FAST
+
+# 1、引言
+
+2007年，一类新的射电暴首次在脉冲星搜索数据中被发现[1]。这类射电暴类似于射电脉冲星的单个脉冲具有超过同一视线方向上整个银河系星际介质的预期总色散（Lorimeretal．2007)。因只有一个事例，当时并没有引起太多的重视。直到2013年多个类似的爆发信号被探测到（Thorntonetal．2013)，这类爆发被命名为快速射电爆（Fast Radio Burst，FRB)，Thornton 等人（2013）首次在《science》上确认一个快速射电暴位置、宿主星系以及红移的研究结果[2]。该快速射电暴精确位置和宿主星系的确定，是继 2016 年初LIG0引力波探测之后天文和物理界最重要的发现，重要性在于确认了射电观测现象和宇宙学尺度天体物理起源的直接连接。主流学界认为其来自于宇宙学距离3，相关研究成为射电天文领域的热点。提出的模型包括伽马暴、黑洞并合、巨脉冲以及地球范围内的电磁效应等[4]。
+
+到目前为共发表了约52个FRB的观测数据（FRBCAT，Petroffetal．2018）。其中22个是Parkes望远镜在 ${ 1 4 0 0 } \mathrm { M H z }$ 波段发现的，2个是Arecibo望远镜在1400MHz发现的，1是GBT望远镜在 ${ 8 0 0 } \mathrm { M H z }$ 发现的，4个是UTMOST望远镜在 $8 4 3 \mathrm { M H z }$ 发现的，其余是ASKAP望远镜在 ${ 1 3 0 0 } \mathrm { M H z }$ 发现的。扣除银河系星际介质的贡献后，这 52个FRB 平均的色散量为 584.521pccm，这暗示 FRB 来自河外。这些 FRB的能量输出跨越了三个量级，平均值约为 $1 0 ^ { 3 8 } \mathrm { e r g s }$ ，而 FRB 的持续时间通常为毫秒量级，通常观测时间持续在 $1 - 1 0 \mathrm { m s } ^ { [ 4 ] }$ （Katz etal.2016)。由于FRB 输出能量高，持续时间短，所以光度巨大。另一方面持续时间短也说明这些源非常致密。除此之外，我们获得的FRB的信息有限，进一步的观测限制是这一领域的突破方向(Emily Petroffet al 2017)。
+
+快速射电暴信号的色散延迟超过在视线方向上银河系的色散量总和。其宇宙学尺度的河外起源和高射电流量密度的观测特征，使快速射电暴的到达时间（TOA）可成为基本物理量精密测量的灵敏探针。比如[6.7]（Wei et al．2015 PRL，115,261101；Keane et al．2016 Nature，530，453)：测定宇宙距离、测量宇宙中的电子密度、大尺度宇宙学的精确测量对暗物质证据、FRB 对光子静质量、FRB 源属性、脉冲星单脉冲对脉冲星辐射机制、星际闪烁效应、重子起源和标准模型等，甚至检验爱因斯坦等效原理乃至量子引力理论的强有力工具[8-10]。随着观测积累的快速射电暴样本数目增加，甚至可通过样本色散延迟空间的多极矩来分析宇宙物质分布的成团性质，测量宇宙大尺度结构。
+
+本文：将在第2节介绍FRB的搜寻过程，综述干扰消除、消色散和特征信号搜索等步骤。第3节对FRB样本进行了数据统计分析和观测量数据统计分析研究FRB 特性，估算FRB的强度分布函数。第4节讨论FAST对FRB的观测前景。第 5节进行总结和展望。
+
+# 2、FRB搜寻的数据处理
+
+搜寻核心思想是：在有干扰信号的脉冲星巡天或FRB 巡天数据中，寻找具有色散效应的短时标、强脉冲性信号。
+
+FRB 信号数据量大，内存大和计算速度快的cpu 或 gpu 保证FRB 数据正确的导入。FRB 数据记录的辐射流量密度F，是关于时间t、频率f和偏振p 的多元函数：
+
+FRB 信号射频干扰消除处理是后期搜寻处理必备前提。根据FAST的19 波束设备馈源参数设置，波束间互相会有少量交叉重叠区域。因而，望远镜不同波束会顺次经过同一射电源，但对同一源的观测存在时间差。为此，可利用多波束间数据和应用数据库技术开展交叉检验，识别射电源并改善源定位精度，准确提取RFI 信息。具体算法采用多波束交叉相关和梯度下降检测技术结合算法：多波束交叉相关算法对两个同一观测时间点的不同波束进行时间位移的互相关，得出两个矩阵在时间差上的互相关系数，并进行波束间遍历和标准化。每个波束接收的辐射功率谱可由源与波束距离加权平均计算，再使用梯度下降最优化算法搜索源的可能发生位置，最后通过反卷积波束形状解构出多波束覆盖天区的源强度分布或侦测获取RFI所处频段分布信息。
+
+对任一路偏振，巡天数据以一个二维数组的形式存放于psrfits 或者fits(The Flexible Image Transport System (FITS)文件中。在基本的搜寻过程中，所需完成的工作就是在T(时间)-DM(色散量)组成的两维空间中搜索单脉冲强流量信号。当脉冲星信号传播过程中，会受到等离子体中的自由电子相互作用导致群速度由不同频率决定到达早晚，低频信号出现延迟，而高频信号的脉冲辐射较早抵达。故其信号的到达时间延迟和频率之间成平方反比关系。
+
+$$
+\Delta \mathrm { { t } \propto \Delta \mathrm { { v } \mathrm { { \Omega } ^ { - 2 } } } }
+$$
+
+不同频率的电磁波在介质中的传播速度不同，对于不同频率f，信号到达延迟时间t为
+
+$$
+\begin{array} { r } { \mathbf { t } = \mathbf { D } \times \frac { D M } { f ^ { 2 } } } \end{array}
+$$
+
+其中，D为色散常数： $\begin{array} { r } { \mathrm { D } = \frac { e ^ { 2 } } { 2 \pi c m _ { e } } = 4 . 1 4 8 8 0 8 \times 1 0 ^ { 3 } M H z ^ { 2 } p c ^ { - 1 } c m ^ { 3 } s } \end{array}$ ，色散量$\scriptstyle { \mathrm { D M } } = \int _ { 0 } ^ { d } n _ { e } d l$ 表示快速射电暴的距离，从（4）式，DM 值的合理取值为
+
+$$
+\mathrm { 5 } \ \mathrm { D M } = 1 . 2 0 5 \times 1 0 ^ { - 7 } c m ^ { - 3 } p c . t _ { s a m p } f ^ { 3 } / \Delta f
+$$
+
+消色散完成后得到相应的数据，接着针对每1个DM值产生的数据进行判别。在检测器中,预先排除已知的脉冲星干扰并设置合理的信噪比和时间阈值参数，可以得到疑似的候选值，再对候选体筛选找到FRB。
+
+# 3、样本和统计分析
+
+综合当前澳大利亚的帕克斯（Parkes）望远镜、美国的绿岸（GBT）望远镜、美国的阿雷西博电（arecibo）望远镜、UTMOST望远镜(M.Caleetal2016)和 ASKAP 望远镜共有 52个快速射电暴。其中有一个是重复的快速射电暴FRB121102,这个快速射电暴在 2012 年被美国阿雷西博射电望远镜第一次探测到，接着在2015年和2016年再次被GBT和美国的甚大天线阵总计25次探测到爆发,Tendulkar et al[2第一次精确地测出该快速射电暴的红移和宿主星系，确认了快速射电暴的宇宙学起源。其余都是非重复的快射射电暴，52 个快速射电暴参数如表1所示。52个FRB最小DM值为114.1,最大的高达2596.1;其中 $\mathrm { F o b s } { = } \mathrm { S p e a k } \times \mathrm { W }$ ，DMExcess $\circleddash$ DM-DMGalaxy :
+
+Table1.1.截止到2018年6月己观测到的52个快速射电暴样木  
+
+<html><body><table><tr><td>FRB</td><td>telescope</td><td></td><td>b</td><td>DM</td><td>DMGalaxy</td><td>DMExcess</td><td>SNR</td><td>Wobs</td><td>Speak</td><td>Fobs</td><td>z1</td><td>22</td><td>z3</td></tr><tr><td></td><td></td><td>(degree)</td><td></td><td>(pc·cm^3)</td><td>(pc·cm^3)</td><td>(pc·cm^3)</td><td></td><td>(ms)</td><td>(Jy)</td><td>(Jy-ms)</td><td></td><td></td><td></td></tr><tr><td>FRB010125</td><td>parkes</td><td>356.641</td><td>-20.0206</td><td>790±3</td><td>110</td><td>680±3</td><td>17</td><td>9.4</td><td>0.3</td><td>2.82</td><td>1.001</td><td>0.931</td><td>0.861</td></tr><tr><td>FRB010621</td><td>parkes</td><td>25.434</td><td>-4.00381</td><td>745±10</td><td>523</td><td>222±10</td><td>16.3</td><td>7</td><td>0.41</td><td>2.87</td><td>0.594</td><td>0.524</td><td>0.454</td></tr><tr><td>FRB010724</td><td>parkes</td><td>300.653</td><td>-41.8051</td><td>375</td><td>44.58</td><td>330.42</td><td>23</td><td>5</td><td>30</td><td>150</td><td>0.394</td><td>0.324</td><td>0.254</td></tr><tr><td>FRB090625</td><td>parkes</td><td>226.444</td><td>-60.0303</td><td>899.55±0.01</td><td>31.69</td><td>867.86±0.01</td><td>30</td><td>1.92</td><td>1.14</td><td>2.1888</td><td>1.226</td><td>1.155</td><td>1.085</td></tr><tr><td>FRB110214</td><td>parkes</td><td>290.7</td><td>-66.6</td><td>168.9±0.5</td><td>31.1</td><td>137.8±0.5</td><td>13</td><td>1.9</td><td>27</td><td>51.3</td><td>0.207</td><td>0.137</td><td>0.067</td></tr><tr><td>FRB110220</td><td>parkes</td><td>50.829</td><td>-54.7663</td><td>944.38±0.05</td><td>34.77</td><td>909.61±0.05</td><td>49</td><td>5.6</td><td>1.3</td><td>7.28</td><td>1.29</td><td>1.22</td><td>1.15</td></tr><tr><td>FRB110523</td><td>GBT</td><td>56.12</td><td>-37.82</td><td>623.3±0.06</td><td>43.52</td><td>579.78±0.06</td><td>42</td><td>1.73</td><td>0.6</td><td>1.038</td><td>0.828</td><td>0.758</td><td>0.687</td></tr><tr><td>FRB110626</td><td>parkes</td><td>355.862</td><td>-41.7522</td><td>723±0.3</td><td>47.46</td><td>675.54±0.3</td><td>11</td><td>1.4</td><td>0.4</td><td>0.56</td><td>0.967</td><td>0.897</td><td>0.826</td></tr><tr><td>FRB110703</td><td>parkes</td><td>80.9978</td><td>-59.0191</td><td>1103.6±0.7</td><td>32.33</td><td>1071.27±0.7</td><td>16</td><td>4.3</td><td>0.5</td><td>2.15</td><td>1.515</td><td>1.445</td><td>1.375</td></tr><tr><td>FRB120127</td><td>parkes</td><td>49.2871</td><td>-66.2037</td><td>553.3±0.3</td><td>31.82</td><td>521.48±0.3</td><td>11</td><td>1.1</td><td>0.5</td><td>0.55</td><td>0.747</td><td>0.677</td><td>0.607</td></tr><tr><td>FRB121002</td><td>parkes</td><td>308.22</td><td>-26.2647</td><td>1629.18±0.02</td><td>74.27</td><td>1554.91±</td><td>16</td><td>5.44</td><td>0.43</td><td>2.3392</td><td>2.199</td><td>2.129</td><td>2.059</td></tr></table></body></html>
+
+基金项目：国家自然科学基金（U1631132）收稿日期:2018-11- 21;作者简介：余秋雨，女，硕士．研究方向:FAST数据处理研究．Email:gznuyqy@163.com
+
+<html><body><table><tr><td colspan="9">0.02</td></tr><tr><td>FRB121102</td><td>arecibo</td><td>174.95</td><td>-0.225138</td><td>557±2</td><td>188</td><td>369±2</td><td>14 3</td><td>0.4</td><td>1.2</td><td>0.32</td><td>0.32</td><td>0.32</td></tr><tr><td>FRB130626</td><td>parkes</td><td>7.45003</td><td>27.4203</td><td>952.4±0.1</td><td>66.87</td><td>885.53±0.1</td><td>21 1.98</td><td>0.74</td><td>1.4652</td><td>1.244</td><td>1.174</td><td>1.104</td></tr><tr><td>FRB130628</td><td>parkes</td><td>225.955</td><td>30.6556</td><td>469.88±0.01</td><td>52.58</td><td>417.3±0.01</td><td>29 0.64</td><td>1.91</td><td>1.2224</td><td>0.593</td><td>0.523</td><td>0.453</td></tr><tr><td>FRB130729</td><td>parkes</td><td>324.788</td><td>54.7446</td><td>861±2</td><td>31</td><td>830±2</td><td>14 15.61</td><td>0.22</td><td>3.4342</td><td>1.172</td><td>1.101</td><td>1.031</td></tr><tr><td>FRB131104</td><td>parkes</td><td>260.55</td><td>-21.9253</td><td>779±1</td><td>71.1</td><td>707.9±1</td><td>30 2.08</td><td>1.12</td><td>2.3296</td><td>0.783</td><td>0.713</td><td>0.643</td></tr><tr><td>FRB140514</td><td>parkes</td><td>50.8413</td><td>-54.612</td><td>562.7±0.6</td><td>34.9</td><td>527.8±0.6</td><td>16 2.8</td><td>0.471</td><td>1.3188</td><td>0.755</td><td>0.685</td><td>0.615</td></tr><tr><td>FRB141113</td><td>arecibo</td><td>191.9</td><td>0.36</td><td>400.3</td><td>188</td><td>212.3</td><td>8.4 2</td><td>0.039</td><td>0.078</td><td>0.145</td><td>0.075</td><td>0.005</td></tr><tr><td>FRB150215</td><td>parkes</td><td>24.6628</td><td>5.28092</td><td>1105.6±0.8</td><td>427.2</td><td>678.4±0.8</td><td>19 2.88</td><td>0.7</td><td>2.016</td><td>1.135</td><td>1.065</td><td>0.994</td></tr><tr><td>FRB150418</td><td>parkes</td><td>232.665</td><td>-3.2348</td><td>776.2±0.5</td><td>188.5</td><td>587.7±0.5</td><td>39 0.8</td><td>2.2</td><td>1.76</td><td>0.632</td><td>0.562</td><td>0.492</td></tr><tr><td>FRB150610</td><td>parkes</td><td>278</td><td>16.5</td><td>1593.9±0.6</td><td>122</td><td>1471.9±0.6</td><td>18 2</td><td>0.7</td><td>1.4</td><td>2.062</td><td>1.992</td><td>1.922</td></tr><tr><td>FRB150807</td><td>parkes</td><td>333.892</td><td>-53.5959</td><td>266.5±0.1</td><td>36.9</td><td>229.6±0.1</td><td>0 0.35</td><td>128</td><td>44.8</td><td>0.338</td><td>0.268</td><td>0.198</td></tr><tr><td>FRB151206</td><td>parkes</td><td>32.6</td><td>-8.5</td><td>1909.8±0.6</td><td>160</td><td>1749.8±0.6</td><td>10 3</td><td>0.3</td><td>0.9</td><td>2.452</td><td>2.382</td><td>2.311</td></tr><tr><td>FRB151230</td><td>parkes</td><td>239</td><td>34.8</td><td>960.4±0.5</td><td>38</td><td>922.4±0.5</td><td>17 4.4</td><td>0.42</td><td>1.848</td><td>1.294</td><td>1.223</td><td>1.153</td></tr><tr><td>FRB160102</td><td>parkes</td><td>18.9</td><td>-60.8</td><td>2596.1±0.3</td><td>13</td><td>2583.1±0.3</td><td>16 3.4</td><td>0.5</td><td>1.7</td><td>3.609</td><td>3.539</td><td>3.469</td></tr><tr><td>FRB160317</td><td>UTMOST</td><td>246.05</td><td>-0.99</td><td>1165±11</td><td>319.6</td><td>845.4±11</td><td>13 21</td><td>3</td><td>63</td><td>1.08</td><td>1.01</td><td>0.94</td></tr><tr><td>FRB160410</td><td>UTMOST</td><td>220.36</td><td>27.19</td><td>278±3</td><td>57.7</td><td>220.3±3</td><td>13 4</td><td>7</td><td>28</td><td>0.31</td><td>0.24</td><td>0.17</td></tr><tr><td>FRB160608</td><td>UTMOST</td><td>254.11</td><td>-9.54</td><td>682±7</td><td>238.3</td><td>443.77</td><td>12 9</td><td>4.3</td><td>38.7</td><td>0.521</td><td>0.451</td><td>0.381</td></tr><tr><td>FRB170107</td><td>ASKAP</td><td>266</td><td>54.1</td><td>609.5±0.5</td><td>35</td><td>574.5±0.5</td><td>16 2.4</td><td>24.1</td><td>57.84</td><td>0.819</td><td>0.749</td><td>0.679</td></tr><tr><td>FRB170416</td><td>ASKAP</td><td>337.6</td><td>-50</td><td>523.2±0.2</td><td>40</td><td>483.2±0.2</td><td>13 5</td><td>19.4</td><td>97</td><td>0.695</td><td>0.625</td><td>0.555</td></tr><tr><td>FRB170428</td><td>ASKAP</td><td>359.2</td><td>-49.9</td><td>991.7±0.9</td><td>40</td><td>951.7±0.9</td><td>10.5 4.4</td><td>7.7</td><td>33.88</td><td>1.352</td><td>1.282</td><td>1.212</td></tr><tr><td>FRB170707</td><td>ASKAP</td><td>269.1</td><td>-50.5</td><td>235.2±0.6</td><td>36</td><td>199.2±0.6</td><td>9.5 3.5</td><td>14.8</td><td>51.8</td><td>0.292</td><td>0.222</td><td>0.152</td></tr><tr><td>FRB170712</td><td>ASKAP</td><td>329.3</td><td>-51.6</td><td>312.79±0.07</td><td>38</td><td>274.79±0.07</td><td>12.7 1.4</td><td>37.8</td><td>52.92</td><td>0.401</td><td>0.331</td><td>0.261</td></tr><tr><td>FRB170827</td><td>UTMOST</td><td>303.2</td><td>-51.7</td><td>176.8±0.04</td><td>37</td><td>139.8±0.04</td><td>110 0.4</td><td>60</td><td>24</td><td>0.211</td><td>0.141</td><td>0.071</td></tr><tr><td>FRB170906</td><td>ASKAP</td><td>34.2</td><td>-49.5</td><td>390.3±0.4</td><td>39</td><td>351.3±0.4</td><td>17 2.5</td><td>29.6</td><td>74</td><td>0.51</td><td>0.44</td><td>0.37</td></tr><tr><td>FRB171003</td><td>ASKAP</td><td>283.4</td><td>46.3</td><td>463.2±1.2</td><td>40</td><td>423.2±1.2</td><td>13.8 2</td><td>40.5</td><td>81</td><td>0.6</td><td>0.53</td><td>0.46</td></tr><tr><td>FRB171004</td><td>ASKAP</td><td>282.2</td><td>48.9</td><td>304±0.3</td><td>38</td><td>266±0.3</td><td>10.9 2</td><td>22</td><td>44</td><td>0.38</td><td>0.31</td><td>0.24</td></tr><tr><td>FRB171019</td><td>ASKAP</td><td>52.5</td><td>-49.3</td><td>460.8±1.1</td><td>37</td><td>423.8±1.1</td><td>23.4 5.4</td><td>40.5</td><td>218.7</td><td>0.609</td><td>0.539</td><td>0.469</td></tr><tr><td>FRB171020</td><td>ASKAP</td><td>29.3</td><td>-51.3</td><td>114.1±0.2</td><td>38</td><td>76.1±0.2</td><td>19.5 3.2</td><td>117.6</td><td>376.32</td><td>0.124</td><td>0.054</td><td>0.01</td></tr><tr><td>FRB171116</td><td>ASKAP</td><td>205</td><td>-49.8</td><td>618.5±0.5</td><td>36</td><td>582.5±0.5</td><td>11.8 3.2</td><td>19.6</td><td>62.72</td><td>0.815</td><td>0.745</td><td>0.674</td></tr><tr><td>FRB171213</td><td>ASKAP</td><td>200.6</td><td>-48.3</td><td>158.6±0.2</td><td>36</td><td>122.6±0.2</td><td>25.1 1.5</td><td>88.6</td><td>132.9</td><td>0.167</td><td>0.097</td><td>0.027</td></tr><tr><td>FRB171216</td><td>ASKAP</td><td>273.9</td><td>-48.4</td><td>203.1±0.5</td><td>37</td><td>166.1±0.5</td><td>8 1.9</td><td>21</td><td>39.9</td><td>0.245</td><td>0.174</td><td>0.104</td></tr><tr><td>FRB180110</td><td>ASKAP</td><td>7.8</td><td>-51.9</td><td>715.7±0.2</td><td>38</td><td>677.7±0.2</td><td>35.6 3.2</td><td>128.1</td><td>409.92</td><td>0.967</td><td>0.897</td><td>0.827</td></tr><tr><td>FRB180119</td><td>ASKAP</td><td>199.5</td><td>-50.4</td><td>402.7±0.7</td><td>36</td><td>366.7±0.7</td><td>15.9 2.7</td><td>40.7</td><td>109.89</td><td>0.512</td><td>0.441</td><td>0.371</td></table></body></html>
+
+基金项目：国家自然科学基金（U1631132）收稿日期:2018-11- 21;作者简介：余秋雨，女，硕士．研究方向:FAST数据处理研究．Email:gznuyqy@163.com
+
+<html><body><table><tr><td>FRB180525</td><td>ASKAP</td><td>349</td><td>50.7</td><td>388.1±0.3</td><td>31</td><td>357.1±0.3</td><td>27.4</td><td>3.8</td><td>78.9</td><td>299.82</td><td>0.506</td><td>0.436</td><td>0.365</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表1截止2018年3月观测到的52个快速射电暴样本第1列提供了FRB名称；第2列指明观测的所属望远镜。第3列和第4列分布给出各个快速射电暴的银经（1）和银纬（b)；第5,6和7列分别显示了观察到的快速射电暴的色散量(DM)，来自银河系所贡献的色散量（ $\mathrm { \Delta D M _ { G a l a x y } }$ ）和对应的色散量（ $\mathrm { \ D M _ { E x c e s s } } .$ ；第8列是信噪比；第9列给出了观察到的观测脉冲宽度（ $\left[ \mathbb { W } _ { \mathrm { o b s } } \right)$ 。第10列是FRB的峰值流量密度（ $ { \mathrm { \cdot S } } _ { \mathrm { p e a k } } )$ ；第11栏以Jyms为单位列出观测流量 $( \mathtt { F } _ { \circ \mathfrak { b } \mathfrak { s } } )$ ；第12,13和14列是分别在 $\mathbb { D } \mathbb { M } _ { \mathrm { h o s t } }$ 为 $\phantom { + } 0 , \phantom { \rule { 0 ex } { 0 ex } } 5 0$ 和100 时的红移值。注红移计算通过YMW16 包含了一个星系间介质中自由电子密度的模型，FRB12110不存在该假设，其红移已明确。
+
+注：表格源自网站astronomy.swin.edu.au/pulsar/frbcat
+
+Tablel Column 1 shows the FRB names,Column 2 indicates the telescope,The longitude and latitude of each FRB are given in Column 3,4. Column 5,6,and 7 provide the observed DMs of FRBs, the DM contributions from the Galaxy and the DMExcess,respectively. SNR is presented in Column 8.Column 9 provides the observed width duration of the corresponding ratio pulse(Wobs).Column 10 is the observed peak flux density(Speak）of each FRB.Column 11l tabulates the observed fluences(Fobs).Column 5,6,and 7 provideredshift values at DMhost 0,50,and 100,respectively.
+
+Data from http://y.swin.edu.au/pulsar/frbcat/ (Petroff et al.2018)。
+
+大多数快速射电暴的银纬分布范围从 $2 . 6 0 6 3 ^ { \circ }$ 到 $8 3 . 2 9 3 8 ^ { \circ }$ ,FRBs在各个天空的角度方向上分布机率相等，应该具有各向同性(KeithW．2014)。其中，存在有 FRBs空间分布位置十分接近如FRB140514和FRB110220，两者之间位置仅相差9角分左右，两者DM相差380pc cm。对此Piro&Burke-Spolo 认为其是同一个 FRB,起源于超新星遗迹中的中子星[13]，由于超新星喷流膨胀会导致天体源附近环境发生变化，导致色散量发生改变[14]。此外比较相同纬度FRB 和脉冲星的色散量时发现FRB的色散量显著偏高，超出银河系所贡献的色散量的10—20倍，该情况被认为主要是星际介质中自由电子所导致。
+
+# 3.1数据分析
+
+![](images/83d05cd6b387f30f2a77e7985e8ac34e4e50b0e524f386a63b8edef74ce62190.jpg)  
+图1DM和DMExcess的统计直方图
+
+# Fig.1statistical histogram of DM and DMExcess
+
+对 FRB 色散量进一步观察，DM的函数峰值为 $6 6 4 . 5 2 4 6 \mathrm { p c c m } ^ { - 3 }$ ，而 DMExcess峰值为 584.521pccm。其中 DMExcess 占 DM 的 $87 . 9 5 \%$ ，支持了FRB 是天文学起源。如图1里图a和图b所示的DM和DMExcess的直方图的拟合曲线呈瑞利分布，且属于 $\sigma$ 为1的瑞利分布情况。根据瑞利公式
+
+$$
+\begin{array} { r } { \mathbf { y } = \left\{ \begin{array} { l l } { \frac { x } { \sigma ^ { 2 } } e ^ { - \frac { x ^ { 2 } } { 2 \sigma ^ { 2 } } } } \\ { 0 \quad \mathbf { , } \ x \leq 0 } \end{array} \right. , x > 0 } \end{array}
+$$
+
+推导出DM与FRB 数量的关系，公式如下：
+
+$$
+\ N = D M e ^ { - { \frac { D M ^ { 2 } } { 2 } } }
+$$
+
+图2分别给出了观测流量密度、峰值流量密度与 $\mathtt { D M } _ { \mathtt { E x c e s s } }$ 的相关性；峰值流量密度、对应色散量与脉冲宽度的相关性  
+![](images/9e7498c18c34028b4114f5dc50e99b4184a865ad9ffb4f45fe0b98f97d526d8a.jpg)  
+基金项目：国家自然科学基金（U1631132）收稿日期:2018-11 - 21;作者简介：余秋雨，女，硕士．研究方向:FAST数据处理研究．Email: gznuyqy@163.com
+
+Fig2The correlation between Fobs,Speak and DMExcess respectively. The correlation between Speak DMExcess and Wobsrespectively
+
+# 注：误差棒的取值源自文献[12]
+
+图上（a）、（b）显示Fobs和Speak与DMExcess没有任何明显的相关性，出乎理论上的结果，可能存在两方面原因：1.星系际（IGM）介质的电子密度分布不清，模型依赖严重，需要更多样本和多波段观测约束和提高IGM电子密度模型的真实性；2.FRB能量输出跨越数个量级，不能完全体现 $\mathrm { 1 / r ^ { 2 } }$ 的距离相关性也是正常的。根据图内容大致得到显示Fobs和Speak 与 $\mathrm { D M } _ { \mathrm { E x c e s s } }$ 呈现负相关关系。（c）说明部分较强的流量密度的快速射电暴具有较窄的脉冲宽度，这些符合脉冲星的巨型脉冲的相关性质，Geng&Huang 提出，小行星与中子星的碰撞接触面积小时，发生的碰撞更激烈，导致流量密度较大快速射电暴更亮，即碰撞接触面积大时，碰撞过程出现延长，造成流量密度较小快速射电暴更暗[15]，故快速射电暴可能起源于小行星与中子星碰撞。图（d）说明脉冲宽度和$\mathrm { D M } _ { \mathrm { E x c e s s } }$ 具有正相关关系，脉冲宽度越大， $\mathrm { D M } _ { \mathrm { E x c e s s } }$ 越大。
+
+![](images/7f3dd75ef318c2de33fd11426001a0c4d4ec4d089935f2b71a5a5a69e92ade75.jpg)  
+图3图a观测流量密度与红移的相关性；图b对应色散量与红移相关性
+
+Fig3 panels (a) correlation between Fobs and z. panels(b) correlation between DMExcess and z
+
+采用了YMW16包含了一个星系间介质中自由电子密度的模型，计算FRB 红移。无法确定FRB是否源于宿主星系，所以DMhost的不同取值作为红移的统计误差；选择的IGM，目的是为避免脉冲星的DMs大于该方向的最大YMW16模型预测值(显然不正确)。图（a）明显看到红移和观测流量没有相关的关系，图（b）红移和DM成线性关系，随着DM的增大红移随着加大，通过红移和 DM都可大致确定射电暴所在。此外，重复射电暴FRB121102的重复爆发被确定了天区明确宿主星系和红移最有可能的值是0.32（Cordes,Lazio）[16,17]。研究学者关于该重复射电暴认为有可能的前身星物理模型有软伽马重复暴18、磁化中子星穿过小行星带[19]以及中子星-白矮星双星系统等[20]。
+
+# 3.2强度分布
+
+曾统计FRB具有非泊松重复[21]，且现实爆发更加复杂，从观察推断出的事件率取决于观察策略（Liam Connor 2016)。当前数据采取幂律函数的统计分布情况，将一条斜率为幂指数的负数的直线,也就是幂律函数去是判定FRBs强度分布，助于今后发现更多的FRB。采取Tavanid[22对伽马射电暴的峰值流量密度的累计分布结果，因为在峰值流量密度较小的一段改分布明显的偏离欧几里得平坦空间的 $\mathrm { N } \propto \mathrm { ~ S ~ } _ { \mathrm { p e a k } } \mathrm { } ^ { - 3 / 2 }$ 关系，然后改结论被伽马暴红移被精确测定后证实是正确，考虑对快速射电暴进行类似研究，此外 Bera et al[23],Wang&Yu[24],Lilongbiao[25]等等许多研究者将Fobs作为统计分析和宇宙学应用的选择。故将每天在特定的效应Fobs下出现的FRB的实际数密度去做幂律分布分析，公式如下
+
+$$
+\begin{array} { r } { \frac { d N } { d F _ { o b s } } = A F _ { o b s } ^ { - a } } \end{array}
+$$
+
+其中A 是以事件 sky天为单位的常系数和a 是幂律指数。A和a 都需要通过观察来确定。
+
+![](images/ddd33d59d333dd5f0338f35eaeae2aa981e65815c1f398c68be23ce5e9515a8d.jpg)
+
+图4（a）表示观测流量密度组距为2.2时的强度分布函数，X轴的误差棒代表组距的大小， Y轴表示每个区间对应的FRB数目，其误差棒为统计误差，即区间内样本数目的平方根值。 (b)将FRBs按照不同的Fobs组距划分后拟合得到的幂律指数a。   
+Fig4 panels(a) provides the intensity distribution function when $\pmb { \triangle } \mathbf { F } \mathbf { = } 2 . 2$ ,The error bar on the X-axis represents the size of the spacing,and the Y-axis represents the number of FRBS corresponding to each interval. The error bar is the statistical error, namely the square root value of the number of samples within the interval. (b) the power law exponent a obtained by fiting FRBs according to different Fobs group spacing partition.
+
+因为当前FRB的总数量不足够多，所以组距的选择至关重要。将52个非重复快速射电暴的峰值流量密度宽度尝试各种不同值来研究其效果，因为FRBs 的观测流量值范围跨度较大，所以当组距非常小（ $\Delta$ Fobs≤2）时，分组的数目多，数据点过于分散，拟合时效果极差，不可用于分析强度分布函数；当组距过大（ $\Delta$ Fobs≥8）时，分组误差较大，计算的结果没有意义；中间存在一段组距（3${ \leqslant } \Delta$ Fobs $\leqslant 7 . 3$ ）时，每个分组的数目跳动过大，拟合的线穿过的数据太少，幂律指数太大，将其作为异常值。 $\Delta$ Fobs在2到3以及7.3到8之间的范围内时，最适合用来计算幂律分布函数的参数。统计合适的组距里的斜率，采用斜率的平均值作为幂律指数a，根据图4知a取1.12055。
+
+表2文献中FRBs的A值  
+
+<html><body><table><tr><td>FLimit</td><td>R（>FLimit）</td><td>Reference</td><td>Derived coefficier</td></tr><tr><td>（Jyms）</td><td>（sky-1day-1)</td><td></td><td>(10²sky-¹day-1)</td></tr><tr><td>3.0</td><td>104</td><td>Thornton et al 2013</td><td>5.61±2.04</td></tr><tr><td>0.35</td><td>3.1×104</td><td>Spitler et al</td><td>7.88±6.92</td></tr><tr><td>2.0</td><td>2.5×104、3</td><td>Keane et al 2015</td><td>1. 17±0.51</td></tr><tr><td>1.8</td><td>1.2×104</td><td>Law et al 2015</td><td>5.37±2.47</td></tr><tr><td>4.0</td><td>4.4×103</td><td>Rane et al 2016</td><td>2.86±0.90</td></tr><tr><td>0. 13-5.9</td><td>6.0×103</td><td>Champion et al 2013</td><td>1. 94±1. 27</td></tr><tr><td>0.03</td><td>3.3×104</td><td>Long-Biao Liet al 2016</td><td>4.14±1.30</td></tr></table></body></html>
+
+# Table2Avalues ofFRBs in literature
+
+选择FAST设备来研究FRB的探测情况，采取 $\mathrm { A } { = } 4 . \ 1 4 { \pm } 1 . 3 0 { \times } 1 0 ^ { 3 } \mathrm { s k y } ^ { - 1 } \mathrm { d a y } ^ { - 1 }$ （Long-Biao Lietal 2016)。故FRB 的强度分布函数为：
+
+$$
+\begin{array} { r } { \frac { \mathrm { d } \mathrm { N } } { d F o b s } = 4 . 1 4 \pm 1 . 3 0 \times 1 0 ^ { 3 } \times F _ { o b s } ^ { - 1 . 1 2 0 5 5 } s k y ^ { - 1 } d a y ^ { - 1 } } \end{array}
+$$
+
+# 4、FAST对FRB的观测前景
+
+射天天文学的发展必备高灵敏度的大口径射电望远镜，目前在大型望远镜巡天设备有美国 $3 0 5 \mathrm { m }$ 射电望远镜Arecibo、德国Eff elsberg $1 0 0 \mathrm { m }$ 射电望远镜、澳大利亚 $6 4 \mathrm { m }$ 射电望远镜Parkes和中国 $5 0 0 \mathrm { m }$ 射电望远镜等，其中中国的Fast是建于贵州平塘的500米口径射电球面望远镜，利用天然的喀斯特洼坑作为台址，数千块可调节的单元构成500米球冠主动反射面，作为世界上最大、最灵敏的单口径射电望远镜,将在中性氢巡视、脉冲星搜索、国际VLBI网联测及地外生命搜寻等重要前沿领域取得突破[26]。FAST天空覆盖的顶峰角度为 $2 6 . 4 ^ { \circ }$ （Li di etal2018），观测频率为 $7 0 \mathrm { M H z } \sim 3 \mathrm { G H z }$ (未来可升级到8GHz)，接收机波束数为19(未来焦平面阵列大于100)，灵敏度(L 波段)为 $1 8 \mathrm { K } { \cdot } \mathrm { J } \mathrm { y } ^ { - 1 }$ ，系统温度为Tsys ${ \approx } 5 0 \mathrm { K }$ ，天空覆盖范围为赤纬 $- 1 4 ^ { \circ } 1 2 ^ { \prime } \leq \delta \leqslant 6 5 ^ { \circ } 4 8 ^ { \prime }$ 。和Arecib望远镜相比，Fast的原始灵敏度高2.5倍[27]，巡天速度高10倍，综合灵敏度高10倍，覆盖的天区是2到3倍。FAST的接收器将覆盖低频（70到500MHz）和中频（0.5到3GHz）频段。Fast有助于发现更多FRB，对于更深一步的 FRB 研究也会大有帮助。在探测毫秒脉冲星、脉冲双星、双脉冲星和银河系外的脉冲星等方面更具优势。FAST还具有发现脉冲星黑洞体系的科学潜力，这将有助于了解黑洞的精确信息。
+
+FAST的19波束的优势和特点，有助于开展多科学目标同时扫描巡天：脉冲星搜索、气体星系搜索、银河系中性氢成像、快速射电源的搜索。世界上其他射电望远镜，还没有这四大目标同时进行，是世界上没有前例的开创。构建出比较有效的扫描巡天模式，提供给全国天文学者，产生系统性的发现和重大突破。多科学目标同时扫描巡天测量FRB还具备实时触发机制，可将基带数据再1分钟内完成保存在环形缓冲区中。具有前所未有的快速、最小的系统控制复杂性和RFI降低保证获得最佳系统性能。
+
+通过预期FAST的观测限定FRB 的发生条件，给出FRB发生概率的估计。在不考虑台址射电环境干扰的理想条件下，根据FRB 事件的全天爆发率，和 FAST采用19 波束接收机探测灵敏度、FAST可见天区范围（ $\sim _ { 4 1 0 0 0 }$ 平方度）和波束尺寸（19波束覆盖 ${ \widetilde { \mathbf { \Gamma } } } 0 . 1 5$ 平方度)，FAST的灵敏度或流量密度下限可通过下式估算(zhang et al.2015) [28]：
+
+$$
+\begin{array} { r } { S _ { l i m i t } \sim ( 1 2 \mu J y ) ( \frac { 0 . 7 7 \times \frac { 1 0 ^ { 3 } m ^ { 2 } } { k } } { \frac { A _ { e } } { T _ { s y s } } } ) ( \frac { S N R } { 3 } ) ( \frac { 1 \dot { \mu } o u r } { \bigtriangleup \tau } ) ^ { 1 / 2 } ( \frac { 1 0 0 M H z } { \bigtriangleup { v } } ) ^ { 1 / 2 } } \end{array}
+$$
+
+其中， $\mathrm { T _ { s y s } }$ 是系统温度， $\triangle \tau$ 是积分时间，SNR为信噪比，通常取10作为可靠的FRB 检测(Champion et al．2016)， $\bigtriangleup v$ 是观测带宽， $\mathrm { A } _ { \mathrm { e } }$ 是有效面积。由（Lietal.2017）知，FAST的观测流量限制为 $\mathrm { F _ { \mathrm { { l i m i t } } } \mathrm { { = } S _ { \mathrm { { l i m i t } } } \times \triangle \tau = 0 . \ 0 3 J y } }$ ms.
+
+$$
+\begin{array} { r } { \mathrm { R } = \mathrm { A } \int _ { F l i m i t } ^ { F _ { m a x } } \ F _ { o b s } ^ { - a } d F _ { o b s } \ \mathrm { ~ ( ~ } 1 0 } \end{array}
+$$
+
+其中，Flimit是射电望远镜的灵敏度，Fmax是快速射电暴观测流量的上限。
+
+$$
+\begin{array} { r } { R _ { f a s t } { \sim } 3 . 5 7 8 \pm 1 . 3 0 \times 1 0 ^ { 4 } \times \frac { 0 . 1 5 d e g ^ { 2 } } { 4 1 2 5 3 d e g ^ { 2 } } d a y ^ { - 1 } = 0 . 1 3 \mathrm { d a y } ^ { - 1 } } \end{array}
+$$
+
+根据上式，可计算出FAST在1000 小时内可探测到约6个FRB，，FAST19 波束每日巡天8小时将采集到约 5TB 量级的数据。全年可工作 200 余天一年的
+
+观测时间可以探测到约个10FRB。
+
+# 5、总结与展望
+
+本文统计分析了Parkes望远镜、GBT望远镜、Arecibo电望远镜、UTMOST望远镜和ASKAP望远镜探测到的截止2018年的52个FRB关键参数。FRB空间分布呈现各向同性，DM 范围从114.1到 $2 5 9 6 . 1 \mathrm { p c c m ^ { - 3 } }$ ，峰值为 $6 6 4 . 5 2 4 6 \mathrm { p c c m ^ { - 3 } }$ ，而 DMExcess 峰值为 584.521 pccm-3。而占DM总量的约 $87 . 9 5 \%$ 。表明 Speak、Fobs 与DMExcess 没有任何明显的相关性，存在有DM和红移呈现正比关系。
+
+将观测流量作为FRB 强度的因素之一，计算快速射电暴事件发生率，计算出幂律分布函数的指数a 约为1.12055，强度分布函数 $\mathrm { { d N } / \mathrm { { d F o b s } = 4 . 1 4 \pm 1 . 3 0 \times } }$ $1 0 ^ { 3 } \times { F _ { o b s } ^ { - 1 . 1 2 0 5 5 } } \mathrm { { s k y } ^ { - 1 } \ d a y ^ { - 1 } }$ 。其中存在有几个因素误差。第1，目前观察到的 FRB总数仍然非常有限。它可能会导致测量的幂律指数有较大的波动。至少需要约100FRB，才能提取有关FRB物理性质的结论性信息。第2，FRB不是理想的标准。第三，FRB可能不是同质的光源，共移动密度或其亮度可能会在太空中演变。FRB事件实际上可能实际上发生在天空中，但由于当前的技术限制，我们无法记录或找到它们，未来将需要更多新的FRB样品。
+
+综上所诉，计算出的强度分布函数还只是一个中期阶段的结果。以后需要更多样本来更准确地确定幂律指数。FAST望远镜具有大口径面积和多波束探测，对 FRB 的探测有很大帮助，有助于增加发现FRB样本。更重要的是，FAST可以在很宽的频率范围内工作，并且可以为FRB提供详细的频谱信息，通过预期FAST的观测限定FRB的发生条件，给出FRB发生概率的估计，计算出FAST在1000小时内可探测到约6个FRB，一年的工作时间内探测到10个FRB,有望成为该领域的强大工具。
+
+# 致谢
+
+回首完成这篇论文的过程，我是极度幸运的，这篇论文集合实验室里刘老师和许余云师兄的指导、王培师兄的大力帮助、袁建平老师修改和远在美国读研的研究天体物理的王坤同学的指点。
+
+作为一个对天体物理充满好奇的人，感谢王培师兄带我一步步的走进快速射电暴的领域，不仅给予我充分的相关文献，还在百忙之中帮助我修改论文，感谢您宝贵的时间和让人感动的细心修改和批注，看着被您改过一遍遍的红色批注虽然会气自己怎么又没写好，但是更感动的是您的认真修改和谆谆教导。此外，还帮我找到了袁老师和王同学一起来合力帮助。同时，也感谢天文研究与技术杂志的审稿老师，给了很多宝贵意见。最后感谢万永波同学在我编程过程的协助，遇到问题时和他交流沟通后，效率极大提高。感谢你们的帮助，我很幸运，我也要更努力更积极向上的去珍惜这份幸运。
+
+参考文献   
+[1]Lorimer D R,BailesM,McLaughlin M A,et al. A Bright Milisecond Radio Burst of Extragalactic   
+Origin,Science,2007,318:777   
+[2]ThorntonD,StappersB,BailesM,etal.A Population of Fast Radio Burstsat Cosmological   
+Distance.Science,2013,341:53-56   
+[3]KeithW.The Galactic Position Dependenceof FAST Radio Burstsand The Discoveryof   
+FRB011025.2014.33   
+[4]Katz J I. Fast radio bursts-—A brief review: Some questions, fewer answers.Modern Physics   
+Letters A,2016,31:1630013   
+[5]Emily Petroff et al. VOEvent Standard for Fast Radio Bursts.2017. arXiv:1710.08155v1   
+[6]Wei J J,GaoH,Wu X F,et al. Testing Einstein's Equivalence Principle With Fast Radio   
+Bursts.Physical Review Letters,2015,115(26):261101   
+[7]KeaneEF,JohnstonS,BhandariS,etal.The host galaxyofafast radio   
+burst.Nature,2016,530:453-456   
+[8]M. Cale et al. Fast Radio Transient searches with UTMOST at 843 MHz.2016.122   
+[9]Liam Connor,Ue-Li Pen.FRB repetition and non-Poissonian statistics,2O16,118   
+[10]Wei J J,GaoH,Wu X F,etal.Tesing Einstein's Equivalence Principle With Fast Radio   
+Bursts.Physical Review Letters,2015,115(26):261101   
+[11]Liam Connor, Ue-Li Pen. FRB repetition and non-Poissonianstatistics,2016,118   
+[12]Tendulkar S P,Bassa C G,Cordes JM,etal.The Host Galaxy and Redshift of the Repeating Fast   
+Radio Burst FRB 121102. The Astrophysical Journal Letter,2017,834:L7   
+[13]Piro AL and Burke-SpolaorS.What if the Fast Radio Bursts 11022O and 140514 Are from the   
+Same Source? The Astrophysical Journal Letter,2017,841:L30   
+[14]Piro A L and Burke-SpolaorS.What if the Fast Radion Bursts 11022O and 140514 Are from the   
+Same Source? The Astrophysical Journal Letter,2O17,841:L30   
+[15]Geng JJ and Huang Y FFast Radio Bursts:Collisions between Neutron Stars and   
+Asteroids/Comets.The Astrophysical Journal,2015,809:24   
+[16]Cordes JM and Lazio TJW. NE2OO1.II. Using Ration Propagation Data to Construct a Model   
+for the Galactic Distribution of Free Electrons.ArXiv Astrophysics e-prints,2003   
+[17]Cordes JM and Lazio T JW. NE2001.I. A New Model for the Galactic Distribution of Free   
+Electrons and its Fluctuations.ArXiv Astrophysics e-prints,2002   
+[18]Kulkarni S R,Ofek E O,Neill J D,etal.Giant Sparks at Cosmological Distances?The   
+Astrophysical Journal,2014,797:70   
+[19]Dai Z G,Wang J S,Wu X F,etal.Repeating Fast Radio Bursts from Highly Magnetized Pulsars   
+Traveling through Asteroid Belts.The Astrophysical Journal,2O16,829:27   
+[20]Gu W M,Dong Y Z,LiuT,et al. A Neutron Star-White Dwarf Binary Model for Repeating Fast   
+Radio Burst 121102.The Astrophysical Journal,2016,823:L28   
+[21]LiamConnor, Ue-LiPen,NielsOppermann. FRBrepetitionandnon-Poissonian   
+statistics.arXiv:1601.04051v1   
+[22]TavaniM.Euclidean versus Non-Euclidean Gamma-Ray Bursts.The Astrophysical Journal   
+Letter,1998,497:L21-L24   
+[23]BeraA,Bhattacharyya S,Bhaeadwaj S,et al. On modelling the Fast Radio Burst population   
+and event rate predicitons.Mon. Not.R.Astron.Soc.,2016,457:2530-2539   
+[24]Wang F Y and Yu H.SGR-like behavior of the repeating FRB 121102.Journal of Cosmology   
+and Astroparticle Physics,2017,3:023   
+[25]Long-Biao Li.Intensity Distribution Function and Statistical Properties of Fast Radio   
+Bursts.RAA.2016.26   
+[26]南仁东,李会贤,FAST 的进展——科学、技术与设备,中国科学：物理学力学天文学，   
+2014,44 10   
+[27]刘鹏，王培，李药等，FAST19 波束脉冲星漂移扫描巡天模拟，2018.5,362   
+[28] Li di et al FAST In Space.IEEE.2018.1527-3342

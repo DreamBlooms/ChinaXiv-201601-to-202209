@@ -1,0 +1,172 @@
+# 一道工序智能加工系统RGV调度模型
+
+冯倩倩 周伟刚\*吴远鸿 何光辉 陈仕军湖北文理学院数学与统计学院，襄阳，441053
+
+摘要 研究了一道工序智能加工系统轨道式自动引导车（RGV）调度问题．该问题为2018 年全国大学生数学建模竞赛B题的一部分．系统由一辆轨道式自动引导车和若干台计算机数控机床(CNC)等部件组成,RGV操控多台CNC完成多个物料加工,RGV调度方案决定了系统的效率．以RGV的移动路径为决策变量，以RGV在CNC上的操作结束时刻为时间节点，以物料加工剩余时间为状态变量，给出了问题的数学模型，但模型中的部分参数以决策变量为下标．通过定义新的变量和约束，将模型修改为不含变量下标和分段函数的非线性混合整数规划模型．最后给出了算例，说明了模型的正确性和可操作性.
+
+关键词智能加工系统；调度问题；非线性混合整数规划；数学建模中图分类号：0221.4 文献标志码：A
+
+# RGV Scheduling Model of Intelligent Processing System
+
+# with One Process
+
+FENG Qianqian, ZHOU Weigang\*,WU Yuanhong, HE Guanghui, CHEN Shijun School of Mathematics and Statistics,Hubei University of Arts and Science, Xiangyang 441053
+
+Abstract: Scheduling problem of intelligent processing system is studied. This problem is a part of Problem B of 2O18 China Undergraduate Mathematical Contest in Modeling. The system consists of a Rail Guide Vehicle (RGV),several Computer Number Controllrs (CNC) and other components. RGV manages multiple CNCs to finish multiple units of material. RGV scheduling scheme determines the efficiency of the system. Taking RGV's moving path as decision variable, RGV's operation ending time on CNCs as time nodes,and material processing remaining time as state variables,the mathematical model of the problem is developed. However, the subscripts of some parameters are decision variables in this model. By defining new variables and constraints, the model is modified to exclude the decision-variable subscripts and piecewise functions,and the model is transformed into a nonlinear mixed integer programming model. Finally, a numerical example is given, which illustrates the correctness and operability of the model.
+
+Keywords: inteligent machining system； scheduling problem； nonlinear mixed integerprogramming; mathematical modeling
+
+给定的智能加工系统由一辆轨道式自动引导车(RailGuide Vehicle,RGV)和若干台计算机数控机床(Computer Number Controller,CNC)等部件组成，RGV 操控多台CNC 完成多个物料加工，RGV调度方案决定了系统的效率．该问题为2018年全国大学生数学建模竞赛赛题[1]，文献[2]指出该问题是一个具有很强的实用性和操作性的问题]
+
+系统可描述为：RGV是一种无人驾驶、能在固定轨道上自由运行的智能车，根据指令能自动控制移动方向和距离，并自带一个机械手臂，RGV的机械手臂前端有2个手爪，通过旋转可以先后各抓取1个物料，完成上下料和清洗熟料作业，同一时间只能执行移动、停止等待、上下料和清洗作业中的一项；每台CNC 安装同样的刀具，物料可以在任意一台CNC上加工完成，物料加工只需一道工序；传送带为CNC 输送生料（未加工的物料），将成料
+
+（加工并清洗完成的物料）送出系统．只考虑RGV移动、上料、下料和清洗熟料的时间对系统效率的影响.关于系统的更详细的介绍参见文献[1].
+
+文献[2]先分析一个周期RGV 运行路径的耗时，并给物料编号，以某个物料是否指派到某个CNC为0-1决策变量，基于耗时最小路径建立了非线性混合整数规划模型，设计算法求解模型．本文给出了与文献[2]不一样的建模方法．文献[3]以仿真模拟的方法研究了该问题.文献[4]用动态规划方法研究了一个周期RGV运行路径最短的问题.
+
+# 1建模
+
+# 1.1 符号和分析
+
+一个物料的加工过程为：上料,CNC加工物料，下料，最后是清洗，其中上料、下料和清洗都需要RGV来操作．下料后，RGV可以先清洗物料，也可以通过另一手爪，先完成另一物料的上料操作，再清洗物料．不难发现先完成另一物料的上料更节约时间．一辆RGV要同时操控 $m$ 台CNC,RGV从CNCi移动到CNC $j$ 需要的时间为 $d _ { { } _ { i j } }$ (distance)．每个物料的加工时间为 $p$ (process)，清洗时间为 $w$ (wash)，当 $p \leq w$ 时只需要一台CNC工作，所以假设 $p > w$ ：CNC $i$ 的上料时间为 $a _ { i }$ (arrive)，下料时间为 $l _ { i }$ (leave)．其它操作时间忽略不计.
+
+在没被物料占用的CNC上,RGV的操作为上料一次；在被占用的CNC上,RGV的操作为先下料，然后上料，最后清洗，将在同一CNC上连续的下料、上料和清洗也记为一个操作;$z = 0$ 表示给空闲的CNC上料； $z = 1$ 表示给加工完的 $\mathrm { C N C } y _ { i }$ 下料、上料，然后清洗物料； $n$ 个物料对应 $n$ 个上料操作．不再取生料的时刻之后，CNC上仍有没完成加工的物料,RGV到达各个CNC时，需要执行的操作为：下料，然后清洗熟料．调度RGV的顺序可以按照先加工则先下料的顺序执行,RGV完成一个CNC上的操作，就开始往下一个CNC 移动．为了模型的简洁，我们在模型中不考虑不再取生料的时刻之后的加工过程，以 RGV 从开始工作到第 $n$ 个操作结束时刻的时间段最短为目标.
+
+RGV 的初始位置为 $y _ { 0 }$ ．按时间先后顺序的 $n$ 个操作对应 RGV 的 $n$ 个位置，记为RGV的移动路径 $y = ( y _ { 1 } , y _ { 2 } , \cdots , y _ { n } )$ ．称RGV 在 $\mathrm { C N C } y _ { i - 1 }$ 的操作 $z _ { i - 1 }$ 结束时刻到在 $\mathrm { C N C } y _ { i }$ 的操作 $z _ { i }$ 结束时刻为阶段 $i$ .阶段 $i$ ，RGV先从 $\mathrm { C N C } y _ { i - 1 }$ 移动到 $\mathrm { C N C } y _ { i }$ ，然后在 $\mathrm { C N C } y _ { i }$ 上对物料执行操作．在RGV 到达时，如果 $\mathrm { C N C } y _ { i }$ 加工物料还没完成,RGV还需等待.
+
+阶段 $i$ 开始时刻(即阶段 $i - 1$ 结束时刻CNC的状态向量记为
+
+$$
+h _ { i - 1 } = ( h _ { i - 1 , 1 } , h _ { i - 1 , 2 } , \cdots , h _ { i - 1 , m } ) ,
+$$
+
+用 $h _ { i j } = - 1$ 表示阶段 $i$ 结束时刻 $\mathrm { C N C } j$ 上没有物料，对应RGV的操作为 $z _ { i } = 0$ ; $h _ { \scriptscriptstyle i j } \geq 0$ 时，阶段 $i$ 结束时刻CNC $j$ 上的物料加工还需 $h _ { _ { i j } }$ 单位时间，对应RGV 的操作为 $z _ { i } = 1$ ，表示有加工完成的物料在等待．初始时刻为0，初始状态为 $h _ { 0 } = ( - 1 , - 1 , \cdots , - 1 )$
+
+阶段 $i$ ，给定状态 $h _ { i - 1 }$ 和 RGV位置 $y _ { i - 1 }$ ，决策为确定RGV的下一位置 $y _ { i }$ 和操作 $z _ { i }$ .因决
+
+策 $z _ { i }$ 由状态 $h _ { i - 1 , y _ { i } }$ 确定， $y _ { i }$ 为唯一独立的决策.
+
+# 1.2阶段时长
+
+RGV 到达CNC 时，根据CNC 的状态执行相应的操作。例如，RGV 到达CNC时，如果CNC空闲，RGV只给CNC上料，见表1的第二行。RGV到达CNC时，CNC上有物料的情形见表1的第三、四行。
+
+表1CNC状态与RGV的操作  
+
+<html><body><table><tr><td colspan="2">CNC 状态</td><td colspan="4">RGV操作</td></tr><tr><td colspan="2">空闲</td><td></td><td></td><td>上料</td><td></td></tr><tr><td rowspan="2">占 用</td><td>剩余加工时间大于零</td><td>等待</td><td>下料</td><td>上料</td><td>清洗</td></tr><tr><td>剩余加工时间等于零</td><td></td><td>下料</td><td>上料</td><td>清洗</td></tr></table></body></html>
+
+由表1，不难得出阶段 $i$ 时长 $\pi _ { i }$ 表示为
+
+$$
+\begin{array} { r } { \pi _ { i } = \left\{ \begin{array} { c c } { d _ { y _ { i - 1 } y _ { i } } + a _ { y _ { i } } , } & { h _ { i - 1 , y _ { i } } = - 1 , } \\ { d _ { y _ { i - 1 } y _ { i } } + l _ { y _ { i } } + a _ { y _ { i } } + w , } & { 0 \leq h _ { i - 1 , y _ { i } } \leq d _ { y _ { i - 1 } y _ { i } } , } \\ { h _ { i - 1 , y _ { i } } + l _ { y _ { i } } + a _ { y _ { i } } + w , } & { h _ { i - 1 , y _ { i } } > d _ { y _ { i - 1 } y _ { i } } . } \end{array} \right. } \end{array}
+$$
+
+# 1.3 状态转移公式
+
+对于 $\mathrm { C N C } y _ { i }$ ：若 $h _ { i - 1 , y _ { i } } = - 1$ ，即 $\mathrm { C N C } y _ { i }$ 上没有物料，操作为上料，上料结束后, $\mathrm { C N C } y _ { i }$ 的物料剩余加工时间为 $p$ ，即 $h _ { _ { i y _ { i } } } = p$ ；若 $h _ { i - 1 , y _ { i } } \geq 0$ ，则操作为下料、上料、再清洗，操作结束后， $\mathrm { C N C } y _ { i }$ 的物料剩余加工时间为 $p - w$ ，即 $h _ { { } _ { i y _ { i } } } = p - w$ ：
+
+对于 $\mathrm { C N C } j$ ， $j \neq y _ { i }$ ：若 $h _ { i - 1 , j } = - 1$ ，则 $h _ { i j } = - 1$ ，即 CNC上仍没有物料；若 $h _ { i - 1 , j } \geq 0$ ，则$h _ { i j } = \operatorname* { m a x } \{ 0 , h _ { i - 1 , j } - \pi _ { i } \}$ ，即 CNC 上的物料加工又过去了 $\pi _ { i }$ 单位时间．阶段 $i$ 结束时刻的状态（20 $h _ { _ { i j } }$ 表示为
+
+$$
+h _ { i j } = \left\{ \begin{array} { c c } { p , } & { h _ { i - 1 , j } = - 1 , j = y _ { i } , } \\ { p - w , } & { h _ { i - 1 , j } \ge 0 , j = y _ { i } , } \\ { - 1 , } & { h _ { i - 1 , j } = - 1 , j \ne y _ { i } , } \\ { \operatorname* { m a x } \{ 0 , h _ { i - 1 , j } - \pi _ { i } \} , } & { h _ { i - 1 , j } \ge 0 , j \ne y _ { i } . } \end{array} \right.
+$$
+
+# 1.4模型
+
+以时间长度最小化为目标得模型1.
+
+模型1
+
+$$
+\begin{array} { r l } & { \displaystyle \operatorname* { m i n } _ { y } \sum _ { i = 1 } ^ { N } \pi _ { i } } \\ & { \displaystyle { \left\{ \begin{array} { l l } { \displaystyle d _ { y + x y } + d _ { x y } + a _ { y } , } & { h _ { i - 1 , y } = - 1 , } \\ { \displaystyle a _ { i } = \left\{ d _ { y + x y } + d _ { x _ { i } } + a _ { y } + w , \right.} & { 0 \leq h _ { i - 1 , y } \leq d _ { y + x y } , } \end{array}  \right. } } \\ & { \displaystyle { \left\{ \begin{array} { l l } { \displaystyle h _ { i - 1 , y } + d _ { y } + w , } & { h _ { i - 1 , y } > d _ { y + x y } , } \\ { \displaystyle h _ { i } = \left\{ \begin{array} { l l } { \quad p , } & { h _ { i - 1 , y } = - 1 , j = y , } \\ { \quad p - w , } & { h _ { i - 1 , y } \geq 0 , j = y , } \\ { \quad \quad - 1 , } & { h _ { i - 1 , y } = - 1 , j \neq y , } \\ { \quad \operatorname* { m a x } \{ 0 , h _ { i - 1 , i } = - x _ { i } \} , } & { h _ { i - 1 , y } = 0 , j \neq y \} . \ } \end{array} \right. } \right.} \end{array}  }  \end{array}
+$$
+
+$$
+h _ { 0 } = ( - 1 , - 1 , \cdots , - 1 ) , y _ { 0 } = 1 ;
+$$
+
+$$
+y _ { i } \in \{ 1 , 2 , \cdots , m \} ;
+$$
+
+$$
+i = 1 , 2 , \cdots , n ; j = 1 , 2 , \cdots , m .
+$$
+
+# 2模型转化
+
+因含变量下标和分段函数的模型在很多软件中不能直接求解，下面修改模型1．对(1)式，定义 $X = ( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } )$ ， $\boldsymbol { x } _ { i } = ( x _ { i 1 } , x _ { i 2 } , \cdots , x _ { i m } )$ ，满足
+
+$$
+\sum _ { i = 1 } ^ { m } x _ { i j } = 1 , x _ { i j } \in \{ 0 , 1 \} .
+$$
+
+$x _ { i j } = 1$ 表示RGV在第 $i$ 阶段的操作在 $\mathrm { C N C } j$ 上，决策由 $y$ 改为 $X$ .定义 $\boldsymbol { e } _ { i } = ( e _ { i 1 } , e _ { i 2 } , e _ { i 3 } )$ ，满足
+
+$$
+\sum _ { i = 1 } ^ { 3 } e _ { i s } = 1 , e _ { i s } \in \{ 0 , 1 \} .
+$$
+
+对应(1)式的三个部分.约束
+
+$$
+x _ { i - 1 , u } x _ { i \nu } e _ { i 1 } \geq - x _ { i - 1 , u } x _ { i \nu } h _ { i - 1 , \nu }
+$$
+
+使得：当 $x _ { i - 1 , u } = 1$ 、 $x _ { i \nu } = 1$ 、 $h _ { i - 1 , \nu } = - 1$ ，一定有 $e _ { i 1 } = 1$ .用 $\boldsymbol { \varepsilon }$ 表示可以任意小的正数， $M$ 表示足够大的整数，约束
+
+$$
+M x _ { i - 1 , u } x _ { i \nu } e _ { i 2 } \geq x _ { i - 1 , u } x _ { i \nu } ( h _ { i - 1 , \nu } + \varepsilon ) ( d _ { u \nu } - h _ { i - 1 , \nu } + \varepsilon )
+$$
+
+使得：当 $x _ { i - 1 , u } = 1$ 、 $x _ { i \nu } = 1$ 、 $h _ { i - 1 , \nu } ( d _ { u \nu } - h _ { i - 1 , \nu } ) \geq 0$ (即 $0 \leq h _ { i - 1 , y _ { i } } \leq d _ { y _ { i - 1 } y _ { i } }$ ），一定有 $e _ { i 2 } = 1$ .约束
+
+$$
+M x _ { i - 1 , u } x _ { i \nu } e _ { i 3 } > x _ { i - 1 , u } x _ { i \nu } ( h _ { i - 1 , \nu } - d _ { u \nu } - \varepsilon )
+$$
+
+使得：当 $x _ { i - 1 , u } = 1 \ , x _ { i \nu } = 1 \ , h _ { i - 1 , \nu } - d _ { u \nu } > 0$ ，一定有 $e _ { i 3 } = 1$ . (1)式修改为
+
+$$
+\pi _ { i } = \sum _ { u = 1 } ^ { m } \sum _ { \nu = 1 } ^ { m } [ e _ { i 1 } x _ { i - 1 , u } x _ { i \nu } ( d _ { u \nu } + a _ { \nu } ) + e _ { i 2 } x _ { i - 1 , u } x _ { i \nu } ( d _ { u \nu } + l _ { \nu } + a _ { \nu } + w )
+$$
+
+$$
++ e _ { i 3 } x _ { i - 1 , u } x _ { i \nu } ( h _ { i - 1 , \nu } + l _ { \nu } + a _ { \nu } + w ) ] .
+$$
+
+对(2)式，定义 $o _ { i j } = ( o _ { i j 1 } , o _ { i j 2 } )$ ，满足
+
+$$
+o _ { i j 1 } + o _ { i j 2 } = 1 , o _ { i j t } \in \{ 0 , 1 \} .
+$$
+
+对应 $h _ { i - 1 , j } = - 1$ 和 $h _ { i - 1 , j } \geq 0$ 两种情况， 类似的分析可将(2)式修改为
+
+$$
+h _ { i j } = \sigma _ { i j 1 } x _ { i j } p + \sigma _ { i j 2 } x _ { i j } ( p - w ) + o _ { i j 1 } ( 1 - x _ { i j } ) ( - 1 ) + o _ { i j 2 } ( 1 - x _ { i j } ) \operatorname* { m a x } \left\{ 0 , h _ { i - 1 , j } - \pi _ { i } \right\}
+$$
+
+由(3)和(4)，模型1修改为模型2
+
+模型2
+
+$\operatorname* { m i n } _ { x } \sum _ { i = 1 } ^ { n } \pi _ { i }$ $\begin{array} { c } { { \displaystyle \sum _ { i = 1 } ^ { m } x _ { i j } = 1 , x _ { i j } \in \{ 0 , 1 \} ; } } \\ { { \displaystyle \sum _ { i = 1 } ^ { 3 } e _ { i s } = 1 , e _ { i s } \in \{ 0 , 1 \} ; } } \end{array}$ （24  
+S $\begin{array} { r } { \mathbb { E } : \{ \tau _ { 1 } = \sum _ { u = 1 } ^ { \infty } \tau _ { 2 } ( \tau _ { 2 } \lambda _ { u } x _ { 2 } - \lambda _ { 1 } \epsilon _ { \lambda _ { 2 } } = \lambda ( 0 , t _ { \lambda _ { 1 } } - t _ { \lambda _ { 2 } } ) \} , } \\ { \lambda _ { t _ { 1 } = 1 } \lambda _ { t _ { 1 } } \epsilon _ { \lambda _ { 2 } } \epsilon _ { \lambda _ { 1 } } \epsilon _ { \lambda _ { 2 } } - \lambda _ { t _ { 1 } = 1 } \lambda _ { t _ { \lambda _ { 1 } } } \epsilon _ { \lambda _ { 2 } } , } \\ { \lambda X _ { t _ { 1 } = 1 } \lambda _ { t _ { 1 } } \epsilon _ { \lambda _ { 2 } } \epsilon _ { \lambda _ { 2 } } \epsilon _ { \lambda _ { 1 } } \epsilon _ { \lambda _ { 1 } } \epsilon _ { \lambda _ { 2 } } + \lambda ( 1 _ { d _ { u } } - \lambda _ { t _ { 1 } , 1 } + \epsilon ) ( d _ { u } - \lambda _ { t _ { 1 } , 1 } + \epsilon ) ; } \\ { M X _ { t _ { 1 } = 1 } \lambda _ { t _ { 1 } } \epsilon _ { \lambda _ { 1 } } \epsilon _ { \lambda _ { 2 } } \epsilon _ { \lambda _ { 1 } } \epsilon _ { \lambda _ { 2 } } > \lambda _ { t _ { 1 } - 1 } \lambda _ { t _ { 1 } } ( h _ { \lambda _ { 1 } - t _ { 1 } } - d _ { u } - \lambda ) ; } \\ { \lambda _ { t _ { 1 } } = \sum _ { u = 1 } ^ { \infty } \sum _ { u = 1 } ^ { \infty } \Gamma _ { ( u _ { 1 } , x _ { 1 } , x _ { u } ) } ( d _ { u } + \alpha _ { t _ { 1 } } ) + \epsilon _ { \lambda _ { 2 } } \epsilon _ { \lambda _ { 1 } - u , x _ { t _ { 1 } } } ( d _ { u } + \lambda _ { t _ { 1 } } + \alpha _ { t } + u ) + \epsilon _ { \lambda _ { 3 } - 1 , u } x _ { u } ( h _ { \lambda _ { 1 } - t _ { 1 } } + \lambda _ { t _ { 1 } } + \alpha _ { t } + w ) \} ; } \\ { \epsilon _ { \lambda _ { 1 } } + \epsilon _ { \lambda _ { 2 } } = 1 , \sigma _ { \lambda _ { 2 } } \epsilon _ { \lambda _ { 3 } } \epsilon _ { \lambda _ { 3 } } = \{ 0 , 1 \} ; } \\ { M \sigma _ { \lambda _ { 2 } } \geq h _ { - 1 , 1 } ; } \\ { M \sigma _ { \lambda _ { 2 } } \geq h _ { - 1 , 1 } ; } \\  h _ { \mu _ { 1 } } = \sigma _ { \lambda _ { 1 } } x _ { \mu } P + \sigma _ { \lambda _ { 2 } } x _ { \mu _ { 1 } } ( p - w  \end{array}$ （2$h _ { 0 } = ( - 1 , - 1 , \cdots , - 1 ) , x _ { 0 } = ( 1 , 0 , \cdots , 0 ) ;$ （204号$i = 1 , \cdots , n ; u , \nu , j = 1 , \cdots , m ; s = 1 , \cdots , 3 ; t = 1 , \cdots , 2 .$
+
+# 3求解
+
+对于模型1，若决策 $y$ 是确定的，则可以从第一阶段开始，由式(1)和(2)循环求 $\pi _ { i }$ 和 $h _ { _ { i j } }$ 的值，能很快地求出目标函数值，也能很快地由模型1求出在“每个周期RGV 移动的路径固定”假设下的最优解．假设每个周期RGV移动的路径固定，通过Matlab 对文献[1]的算例的第三组数据进行计算,380个阶段结束时刻为7.9236小时，文献[2]给出的是8小时内完成393个物料的加工，因为我们的模型不考虑最后几个物料的加工过程，380个阶段结束时刻CNC上还有 8个物料在加工，所以我们的结果与文献[2]给出的结果基本一致．由 $\pi _ { i }$ 和 $h _ { _ { i j } }$ 的值不难得出上下料等操作的开始时刻.
+
+对模型2，通过Lingo计算了只有2到5个物料的算例，与模型1的结果相符．因为模型2含较多非线性约束，计算速度较慢，对模型2设计更快的算法是需要进一步研究的课题
+
+# 4结语
+
+时间节点和状态变量的选取对模型1的建立非常关键，模型1不需先考虑一个周期RGV 的耗时，忽略最后几个工件的做法也使得模型更为简洁.CNC故障时，将其从CNC 集合中去掉，其它CNC 的状态为当前状态，然后重新求解模型．出现故障的CNC 修复后，将其重新加入CNC集合，并将其状态定义为空闲，其它CNC的状态为当前状态，然后重新求解模型．加工时间很短时，最优解会有CNC一直空闲．也可基于模型1考虑多道工序的问题.
+
+# 致谢
+
+湖北省教育厅科学技术研究基金(D20162602)资助课题
+
+# 参考文献
+
+[1]2018 年高教社杯全国大学生数学建模竞赛赛题.[EB/OL].[2019-2-15].http : //www.mcm.edu.cn /html_cn / node/7cec7725b9a0ea07b4dfd175e8042c33.html[2] 韩中庚.2018 全国大学生数学建模竞赛讲评：智能 RGV 的动态调度策略[EB/OL].[2019-2-15].http : // special.univs.cn /service/ jianmo/sxjmyw/2018/1129/1188033.shtml[3] 钟卓辉，高雨彤，周嘉欣，李 纯．智能RGV 的动态调度策略[J].计算机科学与应用,2019,9(1):89-95.[4] 沃芸婷，禹一童．基于动态规划算法的RGV 智能调度策略[J].工业技术创新,2018,5(6): 44-47+52.

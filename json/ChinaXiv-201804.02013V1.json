@@ -1,0 +1,666 @@
+[
+    {
+        "type": "text",
+        "text": "基于正四棱锥结构的机器人声源定位系统研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈国良，徐扬，黄晓琴(武汉理工大学 机电工程学院，武汉 430070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：声源定位成为机器人智能研究的重要方向。针对当前声源定位精度不理想、实时性不佳等问题，提出了一种正四棱锥麦克风阵列声源定位结构。采用时间延迟估计的声源定位方法，并提出时延值的快速搜索策略；推导了该结构的基于信号时延的时空映射关系，建立了声源目标位置的几何计算模型，并依据正四棱锥结构特点及冗余的时延值对值域划分，缩小求解范围，运用迭代算法得到声源的位置坐标，并通过双重筛选机制剔除错误的定位结果。实验结果证明了该结构及定位算法在提高系统定位精度和实时性能的有效性，能满足机器人应用中对声源定位的需求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：声源定位；四棱锥麦克风阵列；快速搜索策略；迭代算法；时延估计 中图分类号：TP391.42 doi: 10.3969/j.issn.1001-3695.2017.11.0780 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sound source localization system for robot based on rectangular pyramid structure ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Guoliang, Xu Yang, Huang Xiaoqin (Institute ofElectrical&Mechanical Engineering,Wuhan UniversityofTechnology,Wuhan 43oo70,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Sound source localization (SSL)has become an important fieldof intelligent robot research.This paper proposeda localizationmodelbasedonthe multi-microphonewiththerectangular pyramid structure.Firstly,thesystememployedthe time delayestimation(TDE)method based on thecross-power spectral phasealgorithmand afast search strategyofpeak value to estimate thetimedelaydiferencesAndthen,thegeometricequationbasedonthetime-space mappingrelationshipisestablished to calculate the positionof the sound source.Forfast solvingtheequations,the multi-microphonearay spaceis divided into severalsubspaces tonarrow thesolutionrangeaccordingtothecharacteristics ofrectangularpyramidstructureandthedundant time dierences,and Newton iterative algorithmis introducedto soletheequations,which itssolution withalargeerr is eliminatedbythe doublescreening mechanism.Theexperimentalresultsshow thatthe modeland thealgorithmareeffective in improving the localization accuracyand real-time performance,which can met the demand of sound source localization in robot application. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:soundsourcelocation;rectangularpyramid microphonearay;fastsearch strategy;iterativealgorithm;time delay estimation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "机器人作为当前科学技术领域的活跃因子，提高其智能化水平，实现与人类更加友好、便捷的交互是未来的发展趋势[I]。听觉是人体所具有的重要功能，也是人感知外界环境，并与外界环境进行交互的重要方式，再者听觉有其独特的优势，比如，听觉具有全向性，而且能够在黑暗的、有障碍物遮挡的环境下进行定位[2.3]。因此，基于听觉感知与定位的智能机器人技术得到了广泛的关注与快速的发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "听觉定位技术在机器人领域具有广阔的应用前景[4]。一方面，从机器人服务于人的角度，该技术可使机器人定位说话人，并跟踪声源轨迹，提高人机交互的智能性和友好性；另一方面，从机器人识别环境的角度，机器人可以监听所在环境下的异常声音，并定位出声音源，找出声音事件发生的位置，便于机器人报警或者自行处理该异常事件。此外，还有护理机器人、智能雷达系统等重要行业领域的应用都表明了机器人听觉的积极作用，对人类的生产和生活有着较为深远的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，常用的声源定位方法有三种：基于最大输出功率的可控波束形成方法[5.6]、高分辨率谱估计方法[78]和基于时延估计方法[9,10]。其中，基于时间延迟的定位方法，由于其计算量相对较小，易于实现而成为最普遍使用的方法[1]。文献[12]在机器人球形头部搭建仿双耳声源定位系统，为了降低基于信号相关的时延估计算法中，信号采样率对定位分辨率的影响，利用最大似然方法找出最大化互功率之和的声源轴向角，另外考虑机器人头部带来的多径效应，降低外界干扰，利用基于front-back的多径补偿因子来修正时延估计。文献[13]设计了四麦克风的十字平面阵列，并提出一种基于时间差特征的空间栅格匹配算法，找到与待定位声源的时间差特征最匹配的栅格作为声源位置．该方法可以有效地避免几何定位方法的非线性方程组求解问题，复杂度较低．并且合理的麦克风阵列拓扑可以避免几何定位方法可能陷入局部最优点的问题，但阵列尺寸较大，限制了与机器人的结合。当前，优化麦克风阵列结构以提高与机器人的融合度；探索鲁棒的、定位精度高、对各种噪声广泛适用的抗噪声技术以适应人机交互中复杂的声学环境成为机器人听觉系统实用化过程中的研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于声达时间差设计一种正四棱锥麦克风阵列定位系统。采用互功率谱相位算法获取时延，并提出峰值快速搜索策略；根据正四棱锥的结构特点和冗余的时延值对求解区域进行划分，缩小值域范围，最后采用牛顿迭代算法求得声源的最优化位置解，实验证明该模型和定位算法有效地提高了计算的速度和定位的精度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 正四棱锥声源定位原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1声源定位原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同一声源传播到空间位置不同的两个麦克风 $m _ { 1 }$ 和 $m _ { 2 }$ 会产生时间差 $\\tau _ { 2 1 }$ ， $\\tau _ { 2 1 }$ 由声源到达 $m _ { 2 }$ 的时间减去声源到达 $m _ { 1 }$ 的时间所得（同理，可以定义 $\\displaystyle \\boldsymbol { \\tau } _ { 1 2 }$ )，这里设 $\\because \\tau _ { 2 1 } > 0$ ，即声源接近于 $m _ { 1 }$ ，根据时间差可以得到声程差。由双曲线的性质可知，双曲线上任意一点到两个焦点距离差的绝对值为常数，即实轴长。据此可知，声源将在以这两个传声器的位置为焦点，声程差为实轴长的双曲线并且靠近 $m _ { 1 }$ 的分支线上。当有多个传声器的时候，就可以得到多个双曲线，则多个双曲线的交点即为声源的位置[14]。如图1所示， $s$ 为声源。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3d40dc6c7ecea0bcb6fee24b79c775325a515eb0b6f8f6a45ef8c6c238a432b.jpg",
+        "img_caption": [
+            "图1基于时延的双曲线声源定位原理图",
+            "图3峰值搜索区间"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 时间延迟估计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设 $x _ { 1 } ( t )$ 和 $x _ { 2 } ( t )$ 分别为位置不同的两个麦克风接收到的同一声源的信号模型，则两信号模型必然存在相关性。互功率谱相位算法就是通过检测这两个信号的互相关函数的峰值点而得到声源到达两个麦克风的时延值[15,16]。其互相关函数可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { x _ { 1 } x _ { 2 } } \\left( \\tau \\right) = \\frac { 1 } { 2 \\pi } \\int _ { - \\infty } ^ { + \\infty } \\varphi _ { x _ { 1 } x _ { 2 } } \\left( \\omega \\right) G _ { x _ { 1 } x _ { 2 } } \\left( \\omega \\right) e ^ { j \\omega \\tau } d \\omega\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ { \\varphi } _ { { { x } _ { 1 } } , { { x } _ { 2 } } } } \\left( \\omega \\right) = 1 \\mathord { \\left/ { \\vphantom { { \\varphi } { { x } _ { 1 } } { { x } _ { 2 } } } } \\right. \\kern - delimiterspace } { { G } _ { { { x } _ { 1 } } , { { x } _ { 2 } } } } \\left( \\omega \\right) \\mathord { \\left| { \\begin{array} { r l } \\end{array} } \\right. \\kern - delimiterspace }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varphi _ { x _ { 1 } x _ { 2 } }$ 为加权函数； $G _ { x _ { 1 } x _ { 2 } } ( \\omega )$ 为两麦克风获取信号 $x _ { 1 } ( t )$ 和$x _ { 2 } ( t )$ 的互相关功率谱函数。 $R _ { x _ { 1 } x _ { 2 } } ( \\tau )$ 峰值所对应的横坐标即为时延值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1峰值的快速搜索策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当信号的采样频率较高、数据量较大时，能缩小互相关函数的峰值搜索区间，快速准确地找出峰值点，也是提高算法性能和实时性的一种表现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于单个声源和两个麦克风而言，它们在同一平面上可存在两种几何关系。图2所示，一种是线性关系，即直线 $s _ { 2 } m _ { 1 } m _ { 2 }$ 和直线 $s _ { 3 } m _ { 2 } m _ { 1 }$ ，另一种是三角关系，即三角形 $s _ { 1 } m _ { 1 } m _ { 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab0e50aab242a70981cbbfa07fbe8a9d1597a814b1009e434a8c3e2917bd2253.jpg",
+        "img_caption": [
+            "图2声源与麦克风的几何关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当两个麦克风的位置固定，距离间隔为l，并设声源到达麦克风 $\\mathbf { \\nabla } _ { m _ { 1 } }$ 的距离与到达麦克风 $\\mathbf { \\nabla } _ { m _ { 2 } }$ 的距离差值为d。由于三角形任意两边之差小于第三边，因此只有当声源与两麦克风共线，如声源位于图2中 $s _ { 2 }$ 或者 $\\mathbf { \\sigma } _ { S _ { 3 } }$ 时， $d$ 取得最大值i和最小值-l。若声音的传播速度是 $v$ ，采样频率为 $f$ ，则易知峰值所在的采样点数区间为 $[ - l \\times f / v , l \\times f / v ]$ 。如图3所示，虚线1和虚线2即为峰值搜索的边界。由此可以限定峰值的搜索范围，减少时延估计的耗时。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0.040.03虚线1 虚线20.020.01 h盟0onnglgha0.02-0.03-1 -0.5 0 0.5 1采样点 x 104",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2时延值筛选 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当所估计的时延值出现误差，且误差较大时，将导致最终定位的数值性错误，而且若在区域的分界线附近出现时延误差也极易产生定位的方向性错误。因此，在时延值快速搜索的基础上，更进一步，提出对时延值的筛选策略，其具体实现过程",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）理想状态下，在同一次时延估计中，麦克风 $i , j , k$ 之间的时延值存在如下关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { i j } = \\tau _ { i k } + \\tau _ { k j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "例如 $\\tau _ { 1 2 } = \\tau _ { 1 3 } + \\tau _ { 3 2 }$ ，但由于时延估计精度的问题，上式不可能处于完全相等的状态，它们之间有一个误差的存在。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）针对a）中所提到的误差设定一个合理的阈值 $\\varepsilon$ ，其中ε值可根据系统定位精度的需求来设定，并进行下面不等式的判断：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\tau _ { i j } - \\left( \\tau _ { i k } + \\tau _ { k j } \\right) \\right| \\leq \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）当不满足该不等式时，说明时延估计的偏差较大，则槟弃该组时延值；当满足条件时，则该组时延通过筛选，进而进行定位计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3基于时间延迟估计的正四棱锥声源定位",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计采用基于正四棱锥的三维麦克风阵列进行声源目标的定位。建立如图4所示的坐标系， $m _ { 0 } - m _ { 4 }$ 分别为五个麦克风且位于四棱锥的五个顶点之上，坐标分别为 $( x _ { i } , y _ { i } , z _ { i } )$ 0 $\\overset { \\cdot } { \\underset { \\cdot } { i } } =$ 0,1,2,3,4)，待求声源点 $G$ 的坐标为 $( x , y , z )$ ，声音在空气中的传播速度为 $v _ { s o u n d }$ ，声源点 $G$ 到各个麦克风的距离分别为 $s _ { i } ( i =$ 0,1,2,3,4)；则目标声源到达其他麦克风的距离与到达 $m _ { 0 }$ 的距离之差为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i 0 } = s _ { i } - s _ { 0 } = \\nu _ { s o u n d } \\tau _ { i 0 } \\left( i = 1 , 2 , 3 , 4 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\tau _ { i 0 }$ 为声源到达 $m _ { i }$ 与到达 $m _ { 0 }$ 的时间差。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a20ce0f81adf3313ba3f044f7978134e8194a576c5be4d2e116fd35e98ba74d.jpg",
+        "img_caption": [
+            "图4正四棱锥声源定位示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4的空间几何关系可建立声源定位数学模型如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ { \\begin{array} { l } { s _ { i } = { \\sqrt { \\left( x - x _ { i } \\right) ^ { 2 } + \\left( y - y _ { i } \\right) ^ { 2 } + \\left( z - z _ { i } \\right) ^ { 2 } } } } \\\\ { s _ { 0 } = { \\sqrt { \\left( x - x _ { 0 } \\right) ^ { 2 } + \\left( y - y _ { 0 } \\right) ^ { 2 } + \\left( z - z _ { 0 } \\right) ^ { 2 } } } } \\\\ { d _ { i 0 } = s _ { i } - s _ { 0 } \\left( i = 1 , 2 , 3 , 4 \\right) } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 基于迭代优化的声源位置计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方程组(6)中的任意三个方程联立，均可求解出声源的位置坐标。考虑到实际测量的误差，可以使其中三个方程分别联立，采用牛顿迭代优化算法求解出一组位置坐标，由组合原理易知可以得到四组解，再取四个解的平均值作为位置坐标的最终估计值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 分区迭代过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初始位置坐标的选取对牛顿迭代算法的收敛速度以及最终的收敛结果产生较大的影响。为了初步确定声源位置坐标范围从而减小迭代次数，也使每个取值范围内具有唯一的优化点，由正四棱锥的结构特点可知麦克风阵列在定位时会产生冗余的时间差，例如 $\\tau _ { i 1 } ( i = 2 , 3 , 4 )$ ，当 $\\tau _ { 2 1 } \\geq 0$ 、 $\\tau _ { 3 1 } \\geq 0$ 、 $\\tau _ { 4 1 } \\geq 0$ 且$\\tau _ { 2 1 } \\geq \\tau _ { 4 1 }$ 时，可知声源的位置坐标满足 $\\{ ( x , y , z ) | x \\ge 0 , y \\ge$ $0 \\& x \\geq y \\}$ ，方位角也必然在 $[ 0 ^ { \\circ } 4 5 ^ { \\circ } ]$ 的范围内。因此，可以充分利用这些冗余时间差进行求解区间的划分，照此规则，如图5所示，按45为一个区域，将定位空间等划分为八个区域。当得知麦克风阵列测得的时间差以及时间差之间的相对大小关系时，即可初步将声源的位置坐标锁定在其中一个区域内，由此可以缩小求解的范围区间，加快计算速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/916c745e4fc05b761f3fbdb503e056f755ed68c60974ed46a0ce7294899f950d.jpg",
+        "img_caption": [
+            "图5定位区间划分示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由牛顿迭代算法原理，并结合阵列定位数学模型，将(6)式转换为四组标准的迭代表达式，其中一组为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { f _ { i } \\left( x , y , z \\right) = \\sqrt { \\left( x - x _ { i } \\right) ^ { 2 } + \\left( y - y _ { i } \\right) ^ { 2 } + \\left( z - z _ { i } \\right) ^ { 2 } } } \\\\ { - \\sqrt { \\left( x - x _ { 0 } \\right) ^ { 2 } + \\left( y - y _ { 0 } \\right) ^ { 2 } + \\left( z - z _ { 0 } \\right) ^ { 2 } } - d _ { i 0 } \\left( i = 1 , 2 , 3 \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其Jacobi矩阵为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = \\left[ \\begin{array} { l l l } { \\displaystyle \\frac { \\hat { \\sigma } f _ { 1 } } { \\hat { \\sigma } x } } & { \\displaystyle \\frac { \\hat { \\sigma } f _ { 1 } } { \\hat { \\sigma } y } } & { \\displaystyle \\frac { \\hat { \\sigma } f _ { 1 } } { \\hat { \\sigma } z } } \\\\ { \\displaystyle \\frac { \\hat { \\sigma } f _ { 2 } } { \\hat { \\sigma } x } } & { \\displaystyle \\frac { \\hat { \\sigma } f _ { 2 } } { \\hat { \\sigma } y } } & { \\displaystyle \\frac { \\hat { \\sigma } f _ { 2 } } { \\hat { \\sigma } z } } \\\\ { \\displaystyle \\frac { \\hat { \\sigma } f _ { 3 } } { \\hat { \\sigma } x } } & { \\displaystyle \\frac { \\hat { \\sigma } f _ { 3 } } { \\hat { \\sigma } y } } & { \\displaystyle \\frac { \\hat { \\sigma } f _ { 3 } } { \\hat { \\sigma } z } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则声源坐标位置可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l } { x ^ { ( k + 1 ) } } \\\\ { y ^ { ( k + 1 ) } } \\\\ { z ^ { ( k + 1 ) } } \\end{array} \\right] = \\left[ \\begin{array} { l } { x ^ { ( k ) } } \\\\ { y ^ { ( k ) } } \\\\ { z ^ { ( k ) } } \\end{array} \\right] - J ^ { - 1 } \\left[ \\begin{array} { l } { f _ { 1 } \\big ( x ^ { ( k ) } , y ^ { ( k ) } , z ^ { ( k ) } \\big ) } \\\\ { f _ { 2 } \\big ( x ^ { ( k ) } , y ^ { ( k ) } , z ^ { ( k ) } \\big ) } \\\\ { f _ { 3 } \\big ( x ^ { ( k ) } , y ^ { ( k ) } , z ^ { ( k ) } \\big ) } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 定位结果筛选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上节对时延值的筛选，为迭代运算进行准确的区间划分和求解提供了一定的保障。当迭代运算在正确的区间运行时，四组定位结果较为准确，且彼此之间的误差较小；然而当声源极其接近分界线时，很小的时延误差也会造成求解区域的判断错误，在错误的区间进行迭代运算，将得到错误的定位结果，且定位结果之间误差较大，甚至无法得出结果。因此，可以利用这一差异，采用与时延值筛选相似的方法对误差设定阈值$\\delta _ { k } ( k = 1 , 2 , 3 )$ ，并设四组定位结果分别为 $( x _ { i } , y _ { i } , z _ { i } )$ $( i = 1 , 2 , 3 , 4 )$ ，则：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\left| x _ { i } - x _ { j } \\right| \\leq \\delta _ { 1 } } \\\\ { \\left| y _ { i } - y _ { j } \\right| \\leq \\delta _ { 2 } } \\\\ { \\left| z _ { i } - z _ { j } \\right| \\leq \\delta _ { 3 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $i , j = 1 , 2 , 3 , 4$ 且 $i \\neq j$ ， $\\delta _ { k }$ 值根据系统定位精度需求而定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当定位结果满足上面三个不等式时，则通过定位筛选，认为定位结果是正确的，否则予以剔除。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将通过筛选机制得到的四组解取平均值作为最终的定位结果 $( x , y , z )$ ，并由此可以求解出声源目标到原点距离 $R$ 、方位角$\\alpha$ 、仰角 $\\beta$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = { \\sqrt { x ^ { 2 } + y ^ { 2 } + z ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\arctan { \\frac { y } { x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\arctan { \\frac { \\sqrt { x ^ { 2 } + y ^ { 2 } } } { z } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验样机",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6为声源定位的测试样机。样机在硬件上主要包括正四棱锥阵列、麦克风模块、数据采集卡以及计算机等。正四棱锥阵列设计后由3D打印完成，棱长为 $2 5 \\mathrm { c m }$ ，在四棱锥的五个顶点处设计有麦克风安装孔，可实现麦克风与阵列模型较为稳固的机械连接，麦克风采用DGO-6050CD-P，为全向性驻极体麦克风，频率范围为 $2 0 \\mathrm { H z } \\mathrm { - } 1 6 \\mathrm { K H z }$ 。麦克风的具体参数如表1所示。样机实验所用的移动机器人平台为“旅行家二号”轮式移动机器人。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/778197ba064b2a6504bccc0eccb03d7beabc3bc576c3df70f06b475d0a83b429.jpg",
+        "table_caption": [
+            "表1麦克风技术参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>尺寸</td><td>9.7X6.7mm</td></tr><tr><td>灵敏度</td><td>-48-66dB</td></tr><tr><td>方向特征</td><td>全指向</td></tr><tr><td>工作电压范围</td><td>1.5-10V</td></tr><tr><td>阻抗</td><td>低阻抗</td></tr><tr><td>电流消耗</td><td>最大500uA</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选用USB_HRF4626数据采集卡完成对声音信号的采集与传输，其一端通过USB与计算机连接，另一端通过5根数据线与麦克风阵列相连，如图7所示。该款数据采集卡是一种基于USB总线的高速高精度同步数据采集卡，可以很方便地与外部设备连接；其具有8路16位高精度同步AD采集通道，本实验使用其中的5路通道即可。单通道的采样频率最大值达到${ 5 0 } \\mathrm { K H z }$ 。其具体参数如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/83356e62521743b6ce186355caa665e012c12da87569d5909641a2911e61cdb6.jpg",
+        "img_caption": [
+            "图6麦克风阵列实物图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f45228dfe82a5499269ae5c716a12a866a74f9fd065acb7f6e2f5e71bdf9fe4.jpg",
+        "table_caption": [
+            "表2数据采集卡技术参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>AD类型</td><td>双极性</td></tr><tr><td>精度</td><td>16bit</td></tr><tr><td>输入电压量程</td><td>-10-10V</td></tr><tr><td>电压通道数</td><td>8</td></tr><tr><td>最大耐压值</td><td>±16.5V</td></tr><tr><td>最高采样频率</td><td>50KHz</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/755898f3b3cf2c00030d294d96e10670adf3fee4d26e3e66873d330a7c3c7e4e.jpg",
+        "img_caption": [
+            "图7数据采集卡的连接图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各麦克风获取声源信号并经过预处理后，采用互功率谱相位算法获取两两麦克风的时延值。例如对于麦克风 $\\mathbf { \\nabla } _ { m _ { i } }$ 和 $m _ { j }$ ，将两麦克风接收到的声音信号通过傅里叶变换从时域变换到频域在频域内通过互功率谱加权函数突出声源信号抑制噪声影响，再将信号变换到时间域，最后通过检测这两个信号的互相关函数的峰值点而得到时延值 $\\tau _ { i j }$ ，如图8所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/55a7dd5040daff35c02cafdbde973fb85cf9805cedce469a15471bb6581d15d6.jpg",
+        "img_caption": [
+            "图8时延获取的信号处理过程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "编写上位机程序求取麦克风的各时延值，然后采用第二节的迭代优化定位算法即可得出声源的位置坐标，其上位机界面",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "移动机器人声源定位系统时延值： 坐标值： 极坐标：t10: -0.36ms X: 2.98 m R: 3.71 m声  \n源定位 t20. 0.24 品 。计算Y： 1.98 m α: 33.7t30: 0.62 m5t40: 0.04 ms Z: 0.99 m β: 3.6指令发送 目标坐标显示  \n串口号：COM1 □  \n波特率：9600 4 5↓- 源目标  \n打开串口 \\* 009099  \n手动发送 陈列原点  \n定时发送  \n定时周期2000 0 0Y轴 -5 -5 X轴",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3911b6fd595945518bdbdf286c6229b89e184b33d904db79def625df26e2ff96.jpg",
+        "img_caption": [
+            "图10实验环境"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2实验分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过具体实验来验证所建麦克风阵列模型以及定位算法性能的优劣。该实验被安排在一间较为宽敞的实验室内，可保证在室内任何一个角落都可以接收到声音信号。实验环境相对安静，但也存在一定噪声的干扰，噪声的来源主要是室内照明设备的声响以及电脑的散热，实验环境如图10所示。定位阵列模型被安装在机器人平台上并建立起通信连接，声源选用已录制好的一段拍手的声音信号，因为拍手声的信号能量集中，且无声段与有声段区分明显，易于实验的进行，声音信号大小为45dB。样机采样频率设置为 $5 0 \\mathrm { k H z }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验总共进行了36个位置的测量，声源设备到阵列中心点的距离 $R$ 分别为 $\\mathrm { 1 m }$ 、 $2 \\mathrm { m }$ 、 $3 \\mathrm { m }$ 、 $4 \\mathrm m$ 、 $5 \\mathrm { m }$ 、6m，每个距离点上方位角 $\\alpha$ 分别为0、 ${ 6 0 } ^ { \\circ }$ 、 ${ { 1 2 0 } ^ { \\circ } }$ 、 $1 8 0 ^ { \\circ } , 2 4 0 ^ { \\circ }$ 、 $3 0 0 ^ { \\circ }$ ，仰角 $\\beta$ 均为 $3 0 ^ { \\circ }$ ，如图11所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bf3a6129ed627a8c4058000698ef3e9e44858039417f10794eeabd35396613f.jpg",
+        "img_caption": [
+            "图9上位机界面",
+            "图11测量点分布示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验采取的数据处理流程为：信号预处理阶段，信号分帧帧长为1024个采样点，帧移为512个采样点；时延估计阶段，采用互功率谱相位算法进行时延估计，并通过筛选机制剔除误差较大的时延估计值；定位阶段，采用所提出的分区迭代方法求取目标定位结果，并对定位结果进行筛选。实验在每个测量点重复做5次测量，然后取平均值作为该测量点的最终定位结果。得到的实验结果如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb0ff4e977ed4b9b434ab52ae6218843424c2e42628742a3a2d320e807787618.jpg",
+        "table_caption": [
+            "表3定位实验结果统计表",
+            "角度单位：（度）距离单位：（m) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">真实值</td><td rowspan=\"2\">实验值</td><td rowspan=\"2\">真实值</td><td rowspan=\"2\">实验值</td><td rowspan=\"2\"></td><td rowspan=\"2\">实验值</td></tr><tr><td>真实值</td></tr><tr><td>(α，β，R) (0,30,1)</td><td>(α，β，R) (0.9,30.8,1.05)</td><td>(α，β，R) (60,30,1)</td><td>(α，β，R) (59.1,29,7,1.06)</td><td>(α，β，R) (120,30,1)</td><td>(α，β，R) (120.7,30.6,0.91)</td></tr><tr><td>(0,30,2)</td><td>(1.1,30.3,2.08)</td><td>(60,30,2)</td><td>(60.6,30.9,2.10)</td><td>(120,30,2)</td><td>(118.9,28.9,2.08)</td></tr><tr><td>(0,30,3)</td><td>(1.0,29.8,2.88)</td><td>(60,30,3)</td><td>(60.8,30.6,3.13)</td><td>(120,30,3)</td><td>(121.1,30.4,3.12)</td></tr><tr><td>(0,30,4)</td><td>(0.8,30.5,3.85)</td><td>(60,30,4)</td><td>(60.9,29.3,3.88)</td><td>(120,30,4)</td><td>(120.7,30.4,4.13)</td></tr><tr><td>(0,30,5)</td><td>(0.9,30.5,5.18)</td><td>(60,30,5)</td><td>(60.9,29.1,5.19)</td><td>(120,30,5)</td><td></td></tr><tr><td>(0,30,6)</td><td>(1.0,30.4,6.22)</td><td>(60,30,6)</td><td>(59.2,30.0,6.19)</td><td>(120,30,6)</td><td>(119.0,29.7,4.86)</td></tr><tr><td>真实值</td><td>实验值</td><td>真实值</td><td>实验值</td><td>真实值</td><td>(121.0,29.3,6.21)</td></tr><tr><td>(α，β，R)</td><td>(α，β，R)</td><td>(α，β，R)</td><td>(α，β，R)</td><td>(α，β，R)</td><td>实验值 (α，β，R)</td></tr><tr><td>(180,30,1)</td><td>(181.1,30.6,1.07)</td><td>(240,30,1)</td><td>(239.0,30.2,1.04)</td><td>(300,30,1)</td><td></td></tr><tr><td>(180,30,2)</td><td>(181.2,30.8,1.88)</td><td>(240,30,2)</td><td>(240.9,30.2,2.11)</td><td></td><td>(301.3,29.5,1.07)</td></tr><tr><td>(180,30,3)</td><td>(180.9,30.9,3.09)</td><td>(240,30,3)</td><td>(241.4,29.3,2.85)</td><td>(300,30,2)</td><td>(300.8,30.6,1.90)</td></tr><tr><td>(180,30,4)</td><td></td><td></td><td></td><td>(300,30,3)</td><td>(301.3,29.3,3.12)</td></tr><tr><td>(180,30,5)</td><td>(181.3,29.4,4.16)</td><td>(240,30,4)</td><td>(241.2,30.9,3.87)</td><td>(300,30,4)</td><td>(298.8,29.6,4.14)</td></tr><tr><td></td><td>(180.9,29.6,5.18)</td><td>(240,30,5)</td><td>(241.0,30.6,5.17)</td><td>(300,30,5)</td><td>(301.4,29.3,5.16)</td></tr><tr><td>(180,30,6)</td><td>(181.3,30.3,6.16)</td><td>(240,30,6)</td><td>(241.4,30.9,5.82)</td><td>(300,30,6)</td><td>(301.2,30.7,6.24)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3的定位结果，采用均方根误差(RMSE)作为实验定位精度的判断标准。由于本实验着重实现机器人对室内声源目标的定位，仰角的影响因素相对较小。因此，本实验将重点分析定位距离与定位方位角的精度问题，暂不考虑仰角信息（由表",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3可知仰角误差在 $1 . 2 ^ { \\circ }$ 以内)，由此可得到定位误差的曲线图，如图12到图15所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图12、13可知，在同一方位角度下，随着声源与定位阵列距离的增大，距离定位误差与角度定位误差呈现出不同的关系曲线。即定位距离误差随着距离的增大而增大，在 $6 \\mathrm { m }$ 的范围内，最大距离定位误差保持在 $0 . 2 5 \\mathrm { ~ m ~ }$ 以内，最小误差只有 $0 . 0 5 \\mathrm { m }$ 左右；而方位角定位误差并没有随着声源距离的变化而出现显著的变动，误差在1.5以内，保持了较好的稳定性，定位精度相对较高。从距离误差与角度误差的相对大小来看，角度定位精度要优于距离定位精度。初步分析，造成这种定位精度差异的重要原因是距离的计算式（11）是由乘方与加法组成，这也会造成误差的累积；而角度值的求解公式恰恰相反，是由除式组成的，这对误差的消除起到了一定的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1a451f631cdbadfdd322be9b41511df766e18b34204142fa6b9c282b2769d4e.jpg",
+        "img_caption": [
+            "图12定位距离误差与距离的关系曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a42f96d20280918acdd2d710da64053ec364d7c848cdfb14c30c215e9e11cc91.jpg",
+        "img_caption": [
+            "图13定位角度误差与距离的关系曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图14和图15可知，在同一距离的情况下，随着方位角的变化，距离定位误差与方位角定位误差均呈现出较平稳的关系曲线。距离定位误差的波动范围保持在 $0 . 0 8 \\mathrm { m }$ 以内，方位角定位误差的波动范围维持在 $0 . 6 ^ { ^ { \\circ } }$ 以内。从阵列结构上分析可知，由于正四棱锥的对称性，使得从各个角度接收到声源信号较为均衡。因此距离定位误差和角度定位误差并没有随着方位角的不同而出现显著的波动。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/055b8fe3809b82f5f631d114f9132e3e00caa31782dc46338338f8408d72fe98.jpg",
+        "img_caption": [
+            "图14定位距离误差与方位角的关系曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ae9179ef8abe1b8d1a74d631d02ebf68812c776e048054263d8d0d5d25873b1.jpg",
+        "img_caption": [
+            "图15定位角度误差与方位角的关系线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 相对误差分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图16和图17分别表示定位距离相对误差与定位方位角相对误差随距离与角度的变化曲线。从图中可以看出，两者的相对误差均随着两者的增大而出现减小的趋势；在设定的实验距离范围内，定位距离的相对误差最大值为，最小值仅为 $2 . 6 7 \\%$ 方位角的相对误差则在以内，能较好地满足室内目标定位需求。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1535be211f355b7390ccbe6a48a5926d5c753c58a92a508ee7a07f286636c09.jpg",
+        "img_caption": [
+            "图16定位距离的相对误差"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e28261b6fe6740934d72f459fb3c92107666cbd4f26d4709593635062a433dd7.jpg",
+        "img_caption": [
+            "图17定位角度的相对误差"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4性能对比验证 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "科大讯飞作为智能语音技术的先行者，在语音识别、声源定位等多项技术上拥有领先的成果。旗下发布的新一代平面六麦克风环形阵列XFR801，集成声源定位、语音增强、语音唤醒、语音打断等多种功能，广泛应用于机器人、智能家居、智能硬件等多种场景，其算法复杂度较高。而声源定位作为本文的研究重点和研究目标，因此重点从声源定位的角度将本阵列与XFR801进行比较，其结果如表4所示。有关XFR801的其他功能与技术是本文今后需要学习和研究的方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/23548085c19a3a261c6e9e774adf0d7b67544e8ad61db8764d6de61bf5cacc72.jpg",
+        "table_caption": [
+            "表4性能对比结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>阵列</td><td>定位角度 范围</td><td>水平角度 定位误差</td><td>是否具有 仰角定位</td><td>是否具有 距离定位</td><td>是否具有 语音增强</td><td>是否具有 语音唤醒</td></tr><tr><td>XFR801</td><td>360</td><td>≤10</td><td>香</td><td>香</td><td>是</td><td>是</td></tr><tr><td>测试样机</td><td>360</td><td>≤1.5</td><td>是</td><td>是</td><td>否否</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "设计实现了基于正四棱锥的空间声源定位系统。该系统采用互功率谱相位算法获取时延，并制定了时延值快速搜索策略；建立起合适的声源定位数学模型，并对求解区域进行划分，初步确定定位范围，采用牛顿迭代算法求取声源的位置坐标，并利用双重筛选机制剔除错误的定位结果。从实验结果与分析可以看出，该模型和算法达到了较好的定位效果，在一定程度上弥补了先前声源定位模型定位精度不理想的问题，可以满足实际的应用需求。进一步，将该装置与移动机器人结合，可实现对声源目标的自主定位与跟踪。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]任福继，孙晓．智能机器人的现状及发展[J].科技导报,2015,33(21): 32-38.   \n[2]Marinescu R S,Buzo A,Cucu H,et al.Fast accurate time delay estimation based on enhanced accumulated Cross-power Spectrum Phase [C]//Proc of Signal Processing Conference.2014:1-5.   \n[3]Mayyas K,Momani F.An LMS adaptive algorithm with a new step-size control equation [J]. Journal of the Franklin Institute,2011,348(4):589- 605.   \n[4]Valin JM,Michaud F,Rouat J,etal. Robust sound source localization using a microphone array on a mobile robot [C]//Proc of IEEE//RSJInternational Conference on Intelligent Robots and Systems.2016:1228-1233.   \n[5]Brutti A.Tracking of multidimensional TDOA for multiple sound sources with distributed microphone pairs [J].Computer Speech & Language,2013, 27 (3): 660—682.   \n[6]Baumgartner R,Majdak P.Assessment of Sagital-plane Sound Location Performance in Spatial-audio [M].Berlin: Springer,2013: 93-119.   \n[7]Joshua M Sachar, Harvey F Silverman.Microphone Position and Gain Calibration for a Large-Aperture Microphone Array [J]. IEEE Transactions on Speech and Audio Processing,2005,13 (1): 42-52.   \n[8]Salvati D,Canazza S.Adaptive time delay estimation using filter length constraints for source localization in reverberant acoustic environments [J]. IEEE Signal Processing Letters,2013,20 (5): 507-510.   \n[9]刘慧珠．基于麦克风阵列的声源方位估计算法研究[D].成都：西南交 通大学,2015.   \n[10] Pourmohammad A,Ahadi S M. The real time high accuracy 3-d phat-based sound source localization using a simple 4-microphone arangement [J]. IEEE Systems Jourmal,2012,6 (3): 455-468.   \n[11] Tsiami A,Katsamanis A,Maragos P, et al. Experiments in acoustic source localization using sparse arrays in adverse indoors environments [Cl//Proc of Signal Processing Conference.2014: 2390-2394.   \n[12] Kim UH,Mizumoto T, Ogata T,et al. Improvement of speaker localization by considering multipath interference of sound wave for binaural robot audition [C]//Proc of IEEE//RSJ International Conference on Intelligent Robots and Systems.2011: 2910-2915.   \n[13] Li X,Liu H, Yang X,et al. Sound source localization for mobile robot based on time difference feature and space grid matching [Cl//Proc of IEEE//RSJ International Conference on Intelligent Robots and Systems.2O11:2879- 2886.   \n[14] Nesta F，Omologo M.Generalized state coherence transform for multidimensional TDOA estimation of multiple sources [J]. IEEE Trans on Speech Processing,2012,20(1): 246-260.   \n[15]张雷岳，张兴敢，刘超．麦克风阵列声源定位中时延估计的改进[J]. 南京大学学报：自然科学版,2015,51(1):25-30.   \n[16]孙昊，仲维灿，刘贺洋．正四面体麦克风阵列声源定位模型研究[J]. 计算机真,2015,32(2):378-382. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

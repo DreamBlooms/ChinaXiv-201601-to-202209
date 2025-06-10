@@ -1,0 +1,421 @@
+[
+    {
+        "type": "text",
+        "text": "Structure and thermoelectric properties of the n-type clathrate $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 } \\dagger$ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jingtao $\\mathsf { X } \\mathsf { u } , ^ { \\star \\mathsf { a } }$ Jiazhen Wu,b Hezhu Shao,ä Satoshi Heguri,b Yoichi Tanabe,c Yongfu Liu,a Guo-Qiang Liu,a Jun Jiang.a Haochuan Jianga and Katsumi Tanigaki\\*bc ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study type I clathrate $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ single crystals (space group $P m \\bar { 3 } n$ no.223, $a = 1 0 . 7 1 5 1 ( 3 ) )$ （20 grown using a Sn flux method.Microprobe analysis and single-crystal X-ray difraction reveal a small amount of Sn embedded in the $\\mathsf { C u / G e }$ framework,which increases disorder at the guest Ba sites. $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ is diamagnetic with a susceptibility of ${ \\sim } 2 . 8 \\ \\times \\ 1 0 ^ { - 7 }$ emu ${ \\mathfrak { g } } ^ { - 1 }$ and shows metal-like behavior $( \\mathsf { d } \\rho / \\mathsf { d } T > 0 )$ with a low charge carrier concentration of $0 . 5 ~ \\mathrm { e } ^ { - }$ per unit cell at $3 0 0 ~ \\mathsf { K } .$ The single crystals show a relatively high carrier mobility $( \\mu ~ ( 3 0 0 ~ \\mathsf { K } ) = 1 1 . 9 ~ \\mathsf { c m } ^ { 2 } ~ \\mathsf { V } ^ { - 1 } )$ and very low lattice thermal conductivity $( \\sim 0 . 6$ W $\\mathsf { m } ^ { - 1 } \\mathsf { K } ^ { - 1 } )$ .The thermoelectric figure of merit $Z T$ of $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ single crystals reaches a maximum value of 0.6 at $7 7 3 \\mathsf { \\ K } ,$ which can be further improved by adjusting the chemical composition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is known that intermetallic type I clathrates have low lattice thermal conductivity,which can be attributed to the interaction of the heat-carrying phonons with local vibration modes of guest atoms,so-called rattling，within the covalently bonded host framework.1-4 The electrical transport properties of clathratesare mainly controlled by the framework atoms and depend strongly on the chemical composition as well as the amount and distribution of defects in the framework.This makes the clathrates very suitable candidates for“phonon glass electron crystal”and opens up the possibility of optimizing their thermoelectric performance by tuning the composition.1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ba-containing clathrates have been widely studied as prospective thermoelectric materials.2, The parent compound, binary ${ \\bf B a } _ { 8 } { \\bf G e } _ { 4 3 }$ ,is not directly useful in thermoelectric applications because of its high charge carrier concentration as can be seen from the electronic balance $[ \\mathbf { B } \\mathbf { a } ^ { 2 + } ] _ { 8 } [ ( 3 \\mathbf { b } ) \\mathbf { G e } ^ { - } ] _ { 1 2 } [ ( 4 \\mathbf { b } )$ $\\mathrm { G e } ^ { 0 } ] _ { 3 1 } + 4 \\mathrm { e } ^ { - } .$ 6 In order to optimize the thermoelectric performance,a third component has been introduced into the framework to tune the electronic band structure and reduce the carrier concentration.Until now,clathrates with nominal composition $\\mathbf { B a } _ { 8 } \\mathbf { T } _ { x } \\mathbf { G e } _ { 4 6 - x - y }$ 0 $\\mathbf { T } = \\mathbf { G } \\mathbf { a }$ , Zn, Cd, Ni,Pd,Pt, Cu, Ag, and Au) have been studied by various groups.7-21 Among these clathrates,the highest thermoelectric figure of merit ZTthat has been obtained is 1.35 at $9 0 0 \\mathrm { ~ K ~ }$ in the Czochralski-grown $\\mathbf { B a } _ { 8 } .$ $\\mathbf { G a } _ { 1 6 } \\mathbf { G e } _ { 3 0 }$ single crystal.18 For type I clathrates with transition metals,their ZTs have been found to be relatively low.Recently, a study by X.Shi et al. shows that a Ba-Ga-Ge clathrate with slight Ni and Zn doping presents a high $Z T$ of 1.2 at $1 0 0 0 \\mathrm { K } . ^ { 2 2 } \\mathrm { M }$ Falmbigl et al. report that Sn substitution in Ba-containing germanium-based clathrates can reduce the lattice thermal conductivity and therefore enhance the ZTvalues.23,24 Relatively high $Z T$ values of 0.82 at $8 5 0 \\mathrm { ~ K ~ }$ and 0.9 at $8 3 0 \\mathrm { ~ K ~ }$ have been achieved in Ba-Zn-Ge-Sn and Ba-Ni-Zn-Ge-Sn clathrates, respectively.23,24 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cordier and Woll' reported $\\mathrm { B a _ { 8 } C u _ { 6 } G e _ { 4 0 } }$ as the first clathrate I phase in the $\\mathbf { B a } _ { 8 } \\mathbf { C u } _ { x } \\mathbf { G e } _ { 4 6 - x }$ system.Li et al. subsequently reported that the preferred composition of the Cu content is close to 5 per cell.2 Johnsen et al. showed that $\\mathbf { B a } _ { 8 } \\mathbf { C u } _ { x } \\mathbf { G e } _ { 4 6 - x }$ is homogeneous in the range $0 < x \\le 0 . 7$ and such systems have large Seebeck coefficient, low thermal conductivity,and n-type conduction with a carrier mobility $( \\mu \\ : = \\ : 8 – 1 0 \\ : \\ : \\mathrm { c m } ^ { 2 } \\ : \\mathrm { V } ^ { - 1 } \\ : \\mathrm { S } ^ { - 1 } )$ higher than those of clathrates containing transition metals.2,8 These results suggest that $\\mathbf { B a } _ { 8 } \\mathbf { C u } _ { x } \\mathbf { G e } _ { 4 6 - x }$ clathrates may have a goodthermoelectricperformance at high temperature. However,the only high temperature thermoelectric data that have been published are by Yan et al.26 in the $\\mathbf { B a } _ { 8 } \\mathbf { C u } _ { 5 } \\mathbf { S i } _ { x } \\mathbf { G e } _ { 4 1 - x }$ system,where $\\mathbf { B a _ { 8 } C u _ { 5 } G e _ { 4 1 } }$ shows a $Z T$ of ${ \\sim } 0 . 4$ at about $3 9 0 ^ { \\circ } \\mathbf { C } .$ To date,the transport properties of Ba-Cu-Ge clathrates have onlybeen studied in polycrystalline samples,where theyare strongly affected by grain boundaries. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The single crystals of typeIclathrates that have been studied are mostly $\\mathbf { B a _ { 8 } G a _ { 1 6 } G e } _ { 3 0 }$ ， $\\mathrm { S r } _ { 8 } \\mathrm { G a } _ { 1 6 } \\mathrm { G e } _ { 3 0 }$ ，and $\\mathrm { B a } _ { \\mathrm { s } } \\mathrm { Z n } _ { \\mathrm { 8 } } \\mathrm { G e } _ { 3 8 }$ ，where elements with low melting temperature (Ga, Zn, Sn etc.) can be used as self-flux.For the ones containing transition metal elements with higher melting points,only $\\mathbf { B a _ { 8 } N i _ { 3 . 5 } G e _ { 4 2 . 1 } }$ and $\\mathbf { B a } _ { 8 } \\mathbf { A u } _ { 5 . 3 } \\mathbf { G e } _ { 4 0 . 7 }$ single crystals have been grown using the Bridgman method,but they have low ZT values $\\left( \\leq 0 . 3 \\right)$ .20,21 In this paper，we use a simple Sn flux method to grow single crystals of type I clathrate $\\mathbf { B a _ { 8 } C u _ { 5 . 3 } G e _ { 4 0 . 7 } }$ ：Their crystalline structure，physical properties,and thermoelectric properties will be discussed.We focus on the subtle relation between disorder in the crystalline structure and the thermoelectric properties. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polycrystalline samples of the nominal composition $\\mathbf { B a _ { 8 } C u _ { 5 . 3 } } –$ $\\mathrm { G e } _ { 4 0 . 7 }$ were synthesized in an Ar-filled glovebox $[ p ( \\mathbf { O } _ { 2 } , \\mathbf { H } _ { 2 } \\mathbf { O } ) \\leq 1$ ppm].The stoichiometric mixtures of Ba pieces $( 9 9 . 9 \\%$ metal basis), Cu grains $( 9 9 . 9 9 \\% )$ ,and Ge grains $( 9 9 . 9 9 9 \\% )$ were melted on a water-cooled copper hearth in a radio frequency (RF) induction furnace,and cooled down within a few minutes to room temperature.The ingots were put into quartz tubes with additional flux Sn,and then evacuated and sealed.The atomic ratio of Sn to Baisabout 2O to 8.The quartz tube was heated to $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ in 10 hours,kept for 12 hours,and then cooled to $6 5 0 ^ { \\circ } \\mathrm { C }$ at a speed of $1 \\mathrm { ^ { \\circ } C h o u r ^ { - 1 } }$ . At this temperature,the quartz tube was removed from the furnace and the flux was removed from the crystal by centrifuging.The crystal we obtained is shown in Fig. 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During the growth experiment,a one-step method was also tested.The stoichiometric mixtures of Ba pieces $( 9 9 . 9 \\%$ metal basis),Cu grains $( 9 9 . 9 9 \\% )$ ，Ge grains $( 9 9 . 9 9 9 \\% )$ ，and Sn flux were directly put into the quartz tube without the RF induction process,which also leads to similar crystals.Other flux,such as Ga,was used to grow a $\\mathbf { B a _ { 8 } C u _ { 5 . 3 } G e _ { 4 0 . 7 } }$ single crystal,but the obtained crystals tend to be $\\mathbf { B a _ { 8 } G a _ { 1 6 } G e } _ { 3 0 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After the growth,the single crystals were evacuated and sealed in quartz tubes,and then annealed at ${ 7 0 0 ~ ^ { \\circ } \\mathrm { C } }$ for three days before measuring the properties.Only the samples grown by the two-step method were used for property studies in this manuscript. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Powder X-raydiffraction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Powder X-ray diffraction patterns were recorded using O.498103(2) A synchrotron radiation. The wavelength was determined using $\\mathbf { C e O } _ { 2 }$ as the standard $( a = 5 . 4 1 1 1 0 2 \\mathrm { ~ \\AA ~ } ) $ 1. The fine powders were mounted in the $\\phi \\ 0 . 2 \\ \\mathrm { m m }$ glass capillaries.Data were recorded using the large Debye-Scherrer camera with an imaging plate detector on the BLo2B2 beamline at the Spring-8 synchrotron radiationresearch facility.Unit cell dimensions were determined using a least-squares technique with the program package GSAS.27,28 The calculated unit cell parameters for two single crystals are given in Table 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6d77aaf0a8a58f4e6e818a33227a32f48afd3b54ec44fe0dd60daa37ae0ecd0.jpg",
+        "img_caption": [
+            "Fig.1Photograph of a BagCu5.1Ge40.2Sno.7 single crystal. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crystal structure investigation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synchrotron radiation X-ray single crystal diffraction measurements were carried out at the BLo2B1 beamline of the Spring-8 synchrotron radiation research facility. The wavelength was calibrated to be $0 . 3 5 3 8 4 8 \\mathring { \\textbf { A } }$ also using $\\mathbf { C e O } _ { 2 }$ as the standard. Each side of the single crystal was less than $2 0 \\mu \\mathrm { m }$ .Nine frames of diffraction images were taken at $2 0 \\mathrm { ~ K ~ }$ (lowest temperature in the system) by a cryogenic He flowing system (XR-HR10K-S, Japan Thermal Engineering Co.Ltd). The oscillation angle of the crystal $\\scriptstyle { \\left( \\omega \\right) }$ in each frame was $1 0 ^ { \\circ }$ .The crystal structure refinement was made by employing a full-matrix least-squares procedure with the program package WinGX.3o Details concerning the data collection and structure refinement are given in Table 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The single crystal diffraction data between $1 0 0 ~ \\mathrm { K }$ and $4 0 0 ~ \\mathrm { K }$ were collected using a rotating anode diffraction system Rigaku MERCURY CCD R-AXIS IV (Mo radiation, $\\lambda = 0 . 7 1 0 7 5 \\mathrm { ~ \\AA ~ }$ at Institute for Molecular Science.Absorption correction was performed by a multiscan procedure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Microstructure analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Energy dispersive X-ray spectroscopy (EDXs) was performed using the Si(Li) detector of an EDAX system (Gemsis SoftwareV4.61) on different parts of each crystal,which confirms the homogeneous composition of the samples.The composition was calculated from the measured intensities of the X-ray lines Ba L,Cu K, Ge K and Sn L caused by the electron beam at a $2 5 ~ \\mathrm { k V }$ acceleration voltage.The standard-lessmethod using the2AF matrix correction shows that the composition is $\\mathrm { { B a } _ { 8 } \\mathrm { { C u } _ { 5 . 1 } \\mathrm { { G e } _ { 4 0 . 2 } \\mathrm { { S n } _ { 0 . 7 } } } } }$ where it is assumed that there are 8 Ba atoms per formula unit. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ab7be8e9772b86e79a5a77a9cb829e8fbc03936113d9291a9ff163365cea7b0.jpg",
+        "table_caption": [
+            "Table 1 Lattice parameters of $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ single crystals in comparison with literature values for polycrystalline samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Composition</td><td>a/A</td><td>Ref.</td></tr><tr><td>BagCu5.1Ge40.2Sn0.7</td><td></td><td></td></tr><tr><td>Crystal I</td><td>10.71540(3)</td><td>This work</td></tr><tr><td>Crystal II</td><td>10.71484(2)</td><td>This work</td></tr><tr><td>BagCu6Ge40</td><td>10.6859(8)</td><td>7</td></tr><tr><td>BagCu5.3Ge40.7</td><td>10.69145(5)</td><td>8</td></tr><tr><td>BagCu6Ge40</td><td>10.6894(2)</td><td>8</td></tr><tr><td>BagCu4.5Ge40.9</td><td>10.6952(2)</td><td>9</td></tr><tr><td>BagCu6Ge40</td><td>10.6903(2)</td><td>9</td></tr><tr><td>BagCu6Ge40</td><td>10.6850(1)</td><td>10</td></tr><tr><td>BagCu2Ge44</td><td>10.6987(1)</td><td>25</td></tr><tr><td>BagCu6Ge40</td><td>10.6872(2)</td><td>25</td></tr><tr><td>BagCu6Ge40</td><td>10.7492(5)</td><td>29</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/52089fc20773a188afabcb9e3c54425ee648e3c48413f7f82af502cf12e098df.jpg",
+        "table_caption": [
+            "Table2 Crystallographic data of $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ at $2 0 ~ \\mathsf { K }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Composition</td><td>BagCu5.1Ge40.2Sno.7</td></tr><tr><td>Molar mass</td><td>4424.72 g mol-1</td></tr><tr><td>a/A</td><td>10.6742(10)</td></tr><tr><td>Unit cell volume/A</td><td>1216.2(2)</td></tr><tr><td>Z; pc/g cm-3</td><td>1; 6.041</td></tr><tr><td>Radiation,wavelength λ/A</td><td>Fine-focus sealed tube,0.35385</td></tr><tr><td>Monochromator</td><td>Graphite</td></tr><tr><td>T/K</td><td>20(2)</td></tr><tr><td>μ/mm-1</td><td>33.265</td></tr><tr><td>F(000)/e</td><td>1916</td></tr><tr><td>Absorption correction</td><td>Multi-scan</td></tr><tr><td>Reflections collected; independent</td><td>6874;844[Rint = 0.034]</td></tr><tr><td>Refinement method</td><td>Full-matrix least-squares on F</td></tr><tr><td>Refined parameters</td><td>23</td></tr><tr><td>Residuals [I > 2σ()]</td><td>R=0.022,WR=0.030</td></tr><tr><td>Residuals (all data)</td><td>R=0.039,wR=0.031</td></tr><tr><td>Goodness-of-fit on F</td><td>1.017</td></tr><tr><td>Extinction coefficient</td><td>0.00000(15)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Differential scanning calorimetry ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DSC measurements were performed with a Netzsch DSC 404C instrument.About $2 0 \\mathrm { \\ m g }$ of the sample were sealed in Nb ampoules $\\left( \\phi \\ 5 \\mathrm { m m } \\right)$ .The system was heated under an Ar atmosphere from room temperature to $1 2 7 3 \\mathrm { K }$ by applying a heat rate of $1 0 \\mathrm { K } \\mathrm { m i n } ^ { - 1 }$ $\\mathbf { B a _ { 8 } C u _ { 5 . 1 } G e _ { 4 0 . 2 } S n _ { 0 . 7 } }$ is found to melt congruently at $T = 9 1 1 ( 4 ) \\ ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Physical properties ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The hall coefficient $\\left( R _ { \\mathrm { H } } \\right)$ and the heat capacity $( C _ { \\mathrm { p } } )$ from $2 \\mathrm { ~ K ~ }$ to $3 5 0 \\mathrm { ~ K ~ }$ were measured using a Quantum Design physical properties measurement system (PPMS).The carrier concentration was calculated via $n = 1 / ( e R _ { \\mathrm { H } } ) _ { \\mathrm { \\ell } }$ ，where $e$ is the electron charge. The electrical conductivity $\\sigma$ and Seebeck coefficient $s$ were measured in the temperature range from 300 to $8 2 3 \\mathrm { ~ K ~ }$ using a ZEM-3 instrument (ULVAC-RIKO). The magnetization of the crystals wasmeasured using a Quantum Design superconducting quantum interference device (sQUID) in the temperature range $2 \\mathrm { ~ K ~ }$ to $4 0 0 ~ \\mathrm { K }$ .The background signal of the holder was subtracted and the magnetic susceptibility $x$ was calculated via $\\begin{array} { r } { \\chi = ( M ( 5 T ) - M ( 2 T ) ) / 3 T . } \\end{array}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The thermal diffusivity $\\alpha$ was determined in the temperature range $3 0 0 ~ \\mathrm { K }$ to $8 2 3 \\mathrm { ~ K ~ }$ using the laser flash technique (LFA 457 Micro Flash,Netzsch). The thermal conductivity $\\kappa$ was derived using the relationship $\\kappa = C _ { \\mathrm { p } } d \\alpha$ ,where $d$ is the sample density. $C _ { \\mathrm { p } }$ above room temperature was estimated based on the PetitDulong law with $C _ { \\mathrm { p } } = 3 N R / M$ ,where $N$ is the number of atoms per formula unit, $M$ is the molar mass,and $R$ is the gas constant. No correction for thermal expansion was applied. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The electronic contribution $\\kappa _ { \\mathrm { e } }$ to the thermal conductivity was calculated using the Wiedemann-Franz law $\\kappa _ { \\mathrm { e } } = L \\sigma T _ { \\mathrm { : } }$ where $L$ is the Lorenz number which is obtained from the accepted approach of fitting the Seebeck data to the reduced chemical potential.31 The lattice thermal conductivity $\\boldsymbol { \\kappa _ { \\mathrm { L } } }$ was obtained by subtracting the electronic thermal contribution from the total thermal conductivity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Calculation procedure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The calculations are based on the density functional theory (DFT) in the generalized gradient approximation (GGA) with the Perdew-Burke-Ernzerhof (PBE) functional,² as implemented in the Vienna ab initio Simulation Package (VAsP).33,34 The planewave energy cutoff is set to be $5 0 0 . 0 0 \\ \\mathrm { e V }$ ，and the electronic energy convergence is ${ { 1 0 } ^ { - 5 } }$ eV. A $T$ -centered $5 \\times 5 \\times 5$ Monkhorst-Pack $k$ -point mesh is used to sample the irreducible Brillouin zone. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From PXRD data, the lattice constant $a$ of the single crystals is found to be in the range 10.7148 to $1 0 . 7 1 5 4 \\mathrm { ~ \\normalfont ~ \\AA ~ }$ at room temperature. The average value $a = 1 0 . 7 1 5 1 { \\left( 3 \\right) } \\mathring { \\mathrm { A } }$ is significantly larger than the previously reported value of $\\mathrm { { B a } _ { 8 } \\mathrm { { C u } _ { 6 } \\mathrm { { G e } _ { 4 0 } } } }$ (see Table 1).8-10,25 The PXRD pattern of a ground single crystal is shown in Fig.2.The reflection intensities are in good agreement with the structure model derived from single-crystal diffraction data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The refinement of the crystal structure was performed using synchrotron single-crystal X-ray diffraction data collected at 20 K.In the first step of the structure refinement,the structure model of Cordier and Woll with the overall composition $\\mathbf { B a } _ { 8 } \\mathbf { - }$ $\\mathrm { C u } _ { 6 } \\mathrm { G e } _ { 4 0 }$ and all six Cu atoms at the 6c site was applied. After refinement of the anisotropic displacement parameters,fairly good values $R ( F ) = 0 . 0 5 1$ and $\\mathrm { w } R ( F ) = 0 . 0 6 7$ were obtained.The anisotropic displacement parameters of the Ba2 atoms were very large.An off-centered model (a quarter-occupied $2 4 \\mathrm { k }$ site instead of a fully occupied 6d site) was used to reduce these parameters,giving $R ( F ) = 0 . 0 3 8$ and $\\mathrm { w } R ( F ) = 0 . 0 4 4 5$ 、As Sn atoms may occupy some cage sites according to the chemical analysis,the cage siteswere described by the mixed occupation of Ge (Cu) and Sn,which leads to $R ( F ) = 0 . 0 3 5$ and $\\mathbf { w } R ( F ) = { }$ 0.017.However，the composition strongly deviates from the results obtained by chemical analysis.The final atomic parameters are shown in Table 3. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study the vibrational properties and the disorder on each site,the on-center model was employed to analyze the single crystal diffraction data from $4 0 0 ~ \\mathrm { ~ K ~ }$ to $1 0 0 ~ \\mathrm { ~ K ~ }$ The atomic displacement parameter (ADP) $U$ forall atoms linearlydecreases with decreasing temperature as shown in Fig.3.The temperature dependences of $U _ { \\mathrm { e q } }$ for the guest Ba atom and the framework atoms are respectively written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/020a9345a1e3e9e568e3920856a1aea6dee207ea759cd50541b314f9f907711d.jpg",
+        "img_caption": [
+            "Fig.2Powder X-ray diffraction pattern of $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 } .$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea2ea3fcffa4f076ed1162cdbac009bb2b74c16f91a7bf49c1522a107baea742.jpg",
+        "table_caption": [
+            "Table 3Fractional atomic coordinates，site occupancies,and isotropic $( U _ { \\mathrm { e q } } )$ and anisotropic $( U _ { j j } )$ atomic displacement parameters of BagCu5.1Ge40.2Sno.7 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Atom</td><td>Site</td><td>x</td><td>y</td><td></td><td>Occupancy</td><td>Ueq/A²</td></tr><tr><td>Ba1</td><td>2a</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.0054(1)</td></tr><tr><td>Ba2</td><td>24i</td><td>0</td><td>0.498(2)</td><td>0.243(1)</td><td>0.25</td><td>0.0200(4)</td></tr><tr><td>Cu1/Ge1</td><td>6c</td><td>0.2500</td><td>0.5000</td><td>0</td><td>0.85/0.15</td><td>0.00321(1)</td></tr><tr><td>Ge2</td><td>16i</td><td>0.18323(2)</td><td>x</td><td>X</td><td>1.000</td><td>0.00202(6)</td></tr><tr><td>Ge3/Sn3</td><td>24k</td><td>0.11986(3)</td><td>0.31465(3)</td><td>0</td><td>0.97/0.03</td><td>0.00341(6)</td></tr><tr><td>Atom</td><td>U11</td><td>U22</td><td>U33</td><td>U23</td><td>U13</td><td>U12</td></tr><tr><td>Ba1</td><td>0.00540(11)</td><td>U11</td><td>U11</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ba2</td><td>0.0076(6)</td><td>0.0428(15)</td><td>0.0095(17)</td><td>0.0133(18)</td><td>0.000</td><td>0.000</td></tr><tr><td>Cu1/Ge1</td><td>0.0051(3)</td><td>0.00226(19)</td><td>0.00226(19)</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>Ge2</td><td>0.00202(6)</td><td>U11</td><td>U11</td><td>-0.00041(7)</td><td>U23</td><td>U23</td></tr><tr><td>Ge3/Sn3</td><td>0.00412(14)</td><td>0.00383(13)</td><td>0.00229(13)</td><td>0.000</td><td>0.000</td><td>0.00142(13)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { i i } ( \\mathbf { B a } ) = { \\frac { \\hbar ^ { 2 } } { 2 m k _ { \\mathrm { B } } \\theta _ { \\mathrm { E } , i i } } } \\coth \\left( { \\frac { \\theta _ { \\mathrm { E } } } { 2 T } } \\right) + d ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { e q } } ( \\mathrm { c a g e } ) = \\frac { 3 \\hbar ^ { 2 } T } { m k _ { \\mathrm { B } } \\theta _ { \\mathrm { E } } ^ { 2 } } \\left[ \\frac { T } { \\theta _ { \\mathrm { D } } } \\int _ { 0 } ^ { \\theta _ { \\mathrm { D } } / T } \\frac { x } { \\exp ( x ) - 1 } \\mathrm { d } x + \\frac { \\theta _ { \\mathrm { D } } } { 4 T } \\right] + d ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { \\mathrm { E } } , ~ \\theta _ { \\mathrm { D } }$ and $d ^ { 2 }$ are the Einstein temperature for the Ba atoms,the Debye temperature for the framework atoms,and the temperature-independent disorder term,respectively.The fits with these equations yield the characteristic temperatures $\\theta _ { \\mathrm { E } } \\mathbf { ( B a 1 ) } = 9 7 ~ \\mathrm { K }$ ,and $\\theta _ { \\mathrm { E } } \\big ( \\mathrm { B a } 2 \\big ) = 6 0 ~ \\mathrm { K }$ ,and the Debye temperature of the framework $\\theta _ { \\mathrm { D } } \\sim 2 3 0 ~ \\mathrm { K }$ .The rattling of Ba atoms located in the 6c site (Ba2) exhibits significant anisotropy as can also be seen in Fig.3.The fitting parameters for the temperature dependence of $U _ { 1 1 }$ and $U _ { 2 2 } \\left( U _ { 2 2 } = U _ { 3 3 } \\right)$ of Ba2 atoms are listed in Table 4.The Einstein temperatures are consistent with those found in previous works,8,29 but the disorder of this site in our single crystalismuch larger,which may be attributed to the increasing disorder strength in the cage framework resulting from slight Sn doping.From the lattice parameters vs. $T$ shown in the inset of Fig.3,the coefficient of thermal expansion has been estimated to be $1 . 1 8 \\big ( 3 \\big ) \\times 1 0 ^ { - 4 } \\mathring { \\mathrm { A } } \\mathrm { K } ^ { - 1 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The band structure calculation has been performed based on the structure analysis (Fig.4). The basic band structure of the nominal composition $\\mathrm { { B a } _ { 8 } \\mathrm { { C u } _ { 6 } \\mathrm { { G e } _ { 4 0 } } } }$ is almost the same as the one found in ref.8. The band gap at the $M$ point is $0 . 2 3 \\ \\mathrm { e V }$ ，slightly larger than the previous result.Substituting Sn for Ge shows little influence on the band,but substituting one Sn atom for Cu at the 6c site $( 5 \\mathrm { { C u } } / 1 \\mathrm { { s n } ) }$ increases the Fermi level and changes the carrier type from holes to electrons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The heat capacity consists of the electronic contribution $C _ { \\mathrm { e } } =$ $\\gamma T$ and the lattice contribution $C _ { \\mathrm { l } }$ .The latter one is usually treated as a sum of a Debye term originating from the cage framework and an Einstein term arising from the localized vibrational modes of the guest Ba atoms.35,36 The heat capacity can be written as eqn (3) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle C _ { \\mathrm { p } } = C _ { \\mathrm { e } } + C _ { \\mathrm { l } } = \\gamma T + \\frac { 1 2 \\pi ^ { 4 } N _ { \\mathrm { D } } k _ { \\mathrm { B } } } { 5 } \\int _ { 0 } ^ { \\theta _ { \\mathrm { D } } / T } \\frac { \\chi ^ { 4 } \\mathrm { e } ^ { x } \\mathrm { d } x } { \\left( \\mathrm { e } ^ { x } - 1 \\right) ^ { 2 } } } } \\\\ { { \\displaystyle ~ + \\sum _ { i } p _ { i } N _ { \\mathrm { E } _ { i } } R \\left( \\frac { \\theta _ { \\mathrm { E } _ { i } } } { T } \\right) ^ { 2 } \\frac { \\mathrm { e } ^ { \\theta _ { \\mathrm { E } _ { i } } / T } } { \\left( \\mathrm { e } ^ { \\theta _ { \\mathrm { E } _ { i } } / T } - 1 \\right) ^ { 2 } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $x = \\hbar \\omega / k _ { \\mathrm { B } } T$ with $\\hbar$ being the reduced Planck constant and $k _ { \\mathrm { B } }$ being the Boltzmann constant, $\\theta _ { \\mathbf { D } }$ and $N _ { \\mathrm { D } }$ are the Debye temperature and the number of Debye oscillators per formula unit,and $p _ { i } , N _ { \\mathrm { E } _ { i } }$ and $\\theta _ { \\mathbf { E } _ { i } }$ are the degrees of freedom,the number ofEinstein oscillators,and the Einstein temperature of the ith vibrational mode,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/de902aee67c38bb8c516f1061603b8f998d290d4aaa18d93bf9a565b94ce59d2.jpg",
+        "img_caption": [
+            "Fig.3 The atomic displacement parameter $U$ as a function of temperaturefor $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ Trianglespointingupare $U _ { 2 2 } ( { \\mathsf { B a 2 } } )$ circlesare $U _ { \\mathrm { e q } } ( { \\mathsf { B a 2 } } )$ ,invertedtrianglesare $U _ { 1 1 } ( { \\mathsf { B a 2 } } )$ ，squares are $U _ { \\mathrm { e q } } ( \\mathsf { B a 1 } )$ ,and othersare $U _ { \\mathrm { e q } }$ for cage framework atoms.The inset is the lattice parameters asa function of temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7dff852de3136bf85831e572292bd2acf104ab13f67a758cb903adbfb23cfbf3.jpg",
+        "table_caption": [
+            "Table 4 Einstein temperature $( \\theta _ { \\mathsf { E } } )$ and temperature-independent disorderparameters $( d )$ of ${ \\mathsf { B a } } _ { 8 } { \\mathsf { C u } } _ { x } { \\mathsf { G e } } _ { 4 6 - x }$ clathrates.SC stands for the single crystals investigated in this paper "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>SC</td><td>BagCu6Ge4o (ref. 8)</td><td>BagCu6Ge4o (ref.29)</td></tr><tr><td>a(A)</td><td>10.7148</td><td>10.6894(2)</td><td>10.7492(5)</td></tr><tr><td>0E,11 (K)</td><td>83(2)</td><td>92(2)</td><td>82(2)</td></tr><tr><td>0E,22(K)</td><td>63(1)</td><td>64(1)</td><td>63(1)</td></tr><tr><td>dE,11 (A)</td><td>0.125(3)</td><td>0.097(4)</td><td>0.080(2)</td></tr><tr><td>dE,22 (A)</td><td>0.154(2)</td><td>0.080(2)</td><td>0.109(1)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At low temperatures,where the Einstein contribution is very small, the data can be understood using the electronic contribution and the Debye contribution following $C _ { \\mathrm { p } } = \\gamma T + \\beta T ^ { 3 }$ .The data below $5 \\mathrm { ~ K ~ }$ are plotted inFig.5,anda fit of the data below $4 . 4 \\mathrm { ~ K ~ }$ gives $\\gamma = 2 . 5 7 ~ \\mathrm { m J ~ m o l ^ { - 1 } ~ K ^ { - 2 } }$ and $\\beta = 4 . 6 7 \\ \\mathrm { m J \\ m o l ^ { - 1 } \\ K ^ { - 4 } }$ The resulting Debye temperature $\\theta _ { \\mathrm { D } } \\sim 2 7 0 ~ \\mathrm { K }$ is higher than the result from fitting the atomic displacement parameter,but is comparable to previous reports.21,35 To emphasize the Einstein contribution,the data are replotted as $^ { \\mathfrak { a } } C _ { \\mathrm { p } } / T ^ { 3 }$ vs. log $T ^ { \\flat }$ in the inset of Fig.5.The contribution of the Einstein term appears as a pronounced peak center at ${ \\sim } 1 0 \\ \\mathrm { K }$ .Asthe $U$ factors for the 2a Ba atoms are quite to those for the cage atoms (see Fig.3), these atoms are also considered to be Debye oscillators,like the cage framework atoms.Thus,only the Ba atoms at the 6c site can be viewed as Einstein-like oscillators.Besides，the anisotropic vibrations of the 6d atoms shown in Fig.3 suggest that two vibrational modes are needed to described the two in-plane $\\left( \\theta _ { \\mathbf { E } 2 2 } \\right)$ and one out-of-plane $\\left( \\theta _ { \\mathrm { E 1 1 } } \\right)$ motions.The degrees of freedom and the numbers of oscillators are then given as $P _ { \\mathrm { E } 2 2 } =$ 2, $P _ { \\mathrm { E 1 1 } } = 1$ ，and $N _ { \\mathrm { { E } 2 2 } } = N _ { \\mathrm { { E } 1 1 } } = 6$ ,respectively.With $\\theta _ { \\mathrm { D } } = 2 7 0 ~ \\mathrm { K }$ obtained from the low temperature $C _ { \\mathrm { p } }$ data,the best ft to reproduce the peakin Fig.5 gives $\\theta _ { \\mathrm { E } 2 2 } = 6 0 ~ \\mathrm { K }$ and $\\theta _ { \\mathbf { E 1 1 } } = 8 0 ~ \\mathbf { K } .$ which are consistent with those deduced from our diffraction data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/93f6e55f621e559bab11438292db260a799fad1f4e9dac6bc45e037eeb9b8de3.jpg",
+        "img_caption": [
+            "Fig.4 Calculated band structures of (a) $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 6 } \\mathsf { G e } _ { 4 0 }$ and (b) $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 } \\mathsf { G e } _ { 4 0 } \\mathsf { S n }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $M$ versus $H$ results for the $\\mathbf { B a _ { 8 } C u _ { 5 . 1 } G e _ { 4 0 . 2 } S n _ { 0 . 7 } }$ single crystal at $2 \\mathrm { ~ K ~ }$ are shown in the inset of Fig.6.A clear linear dependence is observed, in contrast to what was found using polycrystalline samples.25 The magnetic susceptibility $\\chi \\ \\approx$ $- 2 . 8 2 \\times { { 1 0 } ^ { - 7 } }$ emu $\\mathrm { g } ^ { - 1 }$ is much smaller than the value reported previously.10,25 To minimize the influence from impurities, the $\\chi$ values at different temperatures are calculated from the magnetization difference between $2 T$ and $5 T$ as shown in Fig. 6. Atlow temperature,a weak Curie-law-like upturn toward low temperature is observed,indicating the presence of Curieparamagnetic unpaired spins from the impurities or magnetic point defects.Above $\\sim 5 0 ~ \\mathrm { K }$ $\\chi$ increases slightly with temperature from $- 2 . 8 8 \\times { { 1 0 } ^ { - 7 } }$ emu ${ \\mathrm { g } } ^ { - 1 }$ a $5 0 \\mathrm { K }$ 0 $- 2 . 7 7 \\times 1 0 ^ { - 7 }$ emu ${ \\bf g } ^ { - 1 }$ at $4 0 0 \\mathrm { ~ K ~ }$ ，which may be attributed to the increase of Pauli contribution due to higher carrier concentration at higher temperature. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The carrier concentration and Hall mobility as functions of temperature are presented in Fig.7.The carrier concentration shows a slightly linear increase with temperature,indicating intrinsic and impurity band excitations.At room temperature, the carrier concentration is $4 . 4 2 ~ \\times ~ 1 0 ^ { 2 0 } ~ \\mathrm { c m } ^ { - 3 }$ ，which corresponds to $0 . 5 \\ \\mathrm { ~ e ~ } ^ { - }$ per unit cell.It is higher than the values reported by Johnsen et al. in $\\mathrm { B a } _ { 8 } \\mathrm { C u } _ { x } \\mathrm { G e } _ { 4 6 - x } , \\qquad $ but close to the ones of $\\mathbf { B a _ { 8 } G a _ { \\scriptscriptstyle X } C u _ { \\scriptscriptstyle y } G e _ { 4 6 - x - y } }$ presented by Anno et al.37 For the Zintl-like electron count, $\\mathbf { B a _ { 8 } C u _ { 5 . 1 } G e _ { 4 0 . 2 } S n _ { 0 . 7 } }$ here is written as $\\mathrm { \\Delta [ B a ^ { 2 + } ] _ { 8 } [ ( 4 b ) C u ^ { 3 - } ] _ { 5 . 1 } [ ( 4 b ) G e ^ { 0 } ] _ { 4 0 . 2 } [ ( 4 b ) S n ^ { 0 } ] _ { 0 . 7 } + 0 . 7 ~ e ^ { - } . }$ Thus, $\\mathbf { B a } _ { 8 ^ { - } }$ $\\mathrm { C u } _ { 5 . 1 } \\mathrm { G e } _ { 4 0 . 2 } \\mathrm { S n } _ { 0 . 7 }$ should have a charge concentration of $0 . 7 ~ \\mathrm { e } ^ { - }$ perunit cell,which is very close to the experimentally observed result $( 0 . 5 \\ \\mathrm { e } ^ { - }$ per unit cell).The Hall mobility $\\mu _ { \\mathrm { H } }$ of the $\\mathrm { B a } _ { 8 ^ { - } }$ $\\mathrm { C u } _ { 5 . 1 } \\mathrm { G e } _ { 4 0 . 2 } \\mathrm { S n } _ { 0 . 7 }$ single crystal decreases with increasing temperature.At room temperature, the value is $1 1 . 9 ~ \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } ~ \\mathrm { s } ^ { - 1 }$ .Even though the slight Sn doping increases the disorder degree of both cage framework and Ba sites,the Hall mobility in our single crystal with a higher carrier concentration is still higher than the values in polycrystalline $\\mathbf { B a } _ { 8 } \\mathbf { C u } _ { x } \\mathbf { G e } _ { 4 6 - x }$ reported before. In view of the fact that the Ba-Cu-Ge clathrates have highercarrier mobility than other Ba-TM-Ge clathrates( $\\mathbf { \\tilde { T } M } \\ =$ transition metal)²,& and the mobility enhancement by Cu doping in $\\mathbf { B a _ { 8 } G a _ { 1 6 } G e _ { 3 0 } }$ clathrates,7 it seems that Cu substitution in a Ba-Ge clathrate system is beneficial in increasing the carrier mobility,which is very important to improve the thermoelectric performance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/abd921499aa8bd22a3869973dc7b4fc793477e7bddc89c1d8ec6d02166baa924.jpg",
+        "img_caption": [
+            "Fig.5The heat capacity of a $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ single crystal. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8885c4ca46d735516ade66556edf6dd9e5d7459dbbea50ee6c5629163f9bd553.jpg",
+        "img_caption": [
+            "Fig.6The temperature dependence of magnetic susceptibility for the $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ single crystal.The inset is the field dependence at 2 K. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The temperature dependent resistivity, Seebeck coefficient, power factor, thermal conductivity,and $Z T$ of the single crystal are shown in Fig.8.The electrical resistivity increases with temperature as is typical in a degenerate semiconductor. The resistivity at room temperature is $0 . 7 4 {  { \\mathrm { ~ m } } } \\Omega$ cm.In the whole measured temperature range that has been studied, the Seebeck coefficient is negative，which suggests that the electrons dominate the electrical conduction,in agreement with Hall coefficient measurement.The absolute value of the Seebeck coefficient increases with increasing temperature toa maximum value of $- 1 5 3 \\mu \\mathrm { V } \\mathrm { K } ^ { - 1 }$ at $7 7 3 \\mathrm { K }$ At high temperatures, the decrease of thermopower with temperature probably originates from the thermal excitation of minority carriers across the band gap. The width of band gap $E _ { \\mathrm { g } }$ is estimated as $E _ { \\mathrm { g } } =$ $2 \\mathrm { e } S _ { \\mathrm { m a x } } T \\mathrm { \\big ( } S _ { \\mathrm { m a x } } \\mathrm { \\big ) }$ from the maximum absolute thermopower value $S _ { \\mathrm { m a x } }$ and the temperature $T ( S _ { \\mathrm { m a x } } )$ at which the maximum occurs. For $T ( S _ { \\mathrm { m a x } } ) = 7 7 3 \\ : \\mathrm { K }$ and $S _ { \\mathrm { m a x } } { = } { - } 1 5 3 \\mu \\mathrm { V } \\mathrm { K } ^ { - 1 }$ ,we obtain a band-gap width of $0 . 2 3 6 \\mathrm { e V }$ and it is consist with the calculated value for the $\\mathrm { { B a } _ { 8 } \\mathrm { { C u } _ { 6 } \\mathrm { { G e } _ { 4 0 } } } }$ composition. The power factor $\\scriptstyle ( S ^ { 2 } / \\rho )$ increases with temperature to a maximum value of $1 0 \\mu \\mathrm { W } \\mathrm { c m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ at $7 2 3 \\mathrm { ~ K ~ }$ and thenreduces significantly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4722955f2b72ab4d048b6f7a43b35457e92ac14de7093061fc0d7612251410a8.jpg",
+        "img_caption": [
+            "Fig.8Thermoelectric properties of $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ single crystals.(a) Resistivity,(b) Seebeck coefficient,(c) thermal conductivity,and (d)ZT.Au and Ni represent the data of $\\mathsf { B a } _ { 8 } \\mathsf { A u } _ { 5 . 3 } \\mathsf { G e } _ { 4 0 . 7 }$ and $\\mathsf { B a } _ { 8 } \\mathsf { N i } _ { 3 . 5 ^ { - } }$ $\\mathsf { G e } _ { 4 2 . 1 }$ single crystals from previous studies,20.21 respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total thermal conductivity decreases with temperature from $1 . 7 ~ \\mathrm { W ~ m } ^ { - 1 } ~ \\mathrm { K } ^ { - 2 }$ at $3 0 0 ~ \\mathrm { K }$ to 1.1 W $\\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ at $8 2 3 \\ \\mathrm { K } .$ The lattice thermal conductivity is obtained by subtracting the electronic contribution from the total thermal conductivity. Above room temperature，the lattice thermal conductivity reduces to approximately $0 . 6 \\mathrm { ~ W ~ m ~ } ^ { - 1 } \\mathrm { ~ K ~ } ^ { - 1 }$ around $5 0 0 ~ \\mathrm { K } ,$ and is more or less unchanged athigher temperatures.This minimum lattice thermal conductivity of $\\sim 0 . 6 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ is lower than the previously reported value in $\\mathbf { B a _ { 8 } N i _ { 3 . 5 } G e _ { 4 0 . 1 } }$ single crystals,20 which could be attributed to the increased disorder degree in thecage framework of the Ba sites.Nevertheless,this value is still higher than that of a $\\mathbf { B a _ { 8 } G a _ { 1 6 } G e } _ { 3 0 }$ single crystal with large randomness of $\\mathbf { G a } / \\mathbf { G e }$ displacementin the cage framework. $^ { 1 8 } Z T$ reaches a maximum value of o.6 at $7 7 3 \\ \\mathrm { K } .$ .Thisvalueismuch higher than those of $\\mathbf { B a } _ { 8 } \\mathbf { A u } _ { 5 . 3 } \\mathbf { G e } _ { 4 0 . 7 }$ or $\\mathbf { B a _ { 8 } N i _ { 3 . 5 } G e _ { 4 2 . 1 } }$ single crystals.With further carrier concentration optimization or phonon engineering,the $Z T$ value of the type I Ba-Cu-Ge clathrate could be improved at high temperatures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/494cbbc7f3a1aa264f7ca22821a8d9bfbade26aadd4c3600f49180614e572314.jpg",
+        "img_caption": [
+            "Fig.7Carrier concentration and Hall mobility of $\\mathsf { B a } _ { 8 } \\mathsf { C u } _ { 5 . 1 } \\mathsf { G e } _ { 4 0 . 2 } \\mathsf { S n } _ { 0 . 7 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have successfully synthesized Ba-Cu-Ge clathrate single crystals using the Sn-flux method.A small amount of Sn was found in the lattice and the real composition is $\\mathbf { B a _ { 8 } C u _ { 5 . 1 } }$ （204号 $\\mathrm { G e } _ { 4 0 . 2 } \\mathrm { S n } _ { 0 . 7 }$ .The single crystal is diamagnetic with $\\chi$ to- $2 . 8 \\times$ ${ { 1 0 } ^ { - 7 } }$ emu ${ \\mathrm { g } } ^ { - 1 }$ between $2 \\mathrm { ~ K ~ }$ and $4 0 0 \\mathrm { ~ K ~ }$ ，It is a degenerated semiconductor with a carrier concentration of $0 . 5 \\ \\mathrm { e } ^ { - }$ per unit cell.Both the band structure calculations and the experimental data suggest that the band gap is about $0 . 2 3 { \\mathrm { ~ e V } } .$ 、The slight Sn doping in the cage framework increases the disorder degree at the Ba sites,which gives rise to a low lattice thermal conductivity (0.6 W $\\mathrm { m } ^ { - 1 } \\mathrm { K } ^ { - 2 }$ above $5 0 0 ~ \\mathrm { K }$ )but the Hall mobility (11.9 $\\mathrm { c m } ^ { 2 } \\mathrm { \\bf V } ^ { - 1 } \\mathrm { \\bf \\$ 5 } ^ { - 1 }$ at room temperature) is not strongly influenced. The maximum ZTvalue of the single crystal was found to be 0.6 at $7 7 3 \\mathrm { ~ K ~ }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National Nature Science Foundation of China (NSFC No.11304327,11404348) and Ningbo Scienceand Technology Innovation Team (GrantNo. 2014B82004).This work is also supported by the Tohoku University 21 COE program of Particle-Matter Hierarchy. This work is also supported by the Joint Studies Program of the Institute for Molecular Science.J.W.would like to thank MEXT for their promotion of student education through the IGPAS program. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "16 N.Melnychenko-Koblyuk,A.Grytsiv,P.Rogl，M. Rotter, E.Bauer,G. Durand,H. Kaldarar,R. Lackner,H. Michor, E. Royanian, M. Koza and G. Giester, Phys. Rev. B: Condens. Matter Mater. Phys.,2007,76,144118.   \n17 N.Melnychenko-Koblyuk,A.Grytsiv，P.Rogl，M. Rotter, R.Lackner，E. Bauer，L. Fornasara，F. Marabelli and G. Giester, Phys. Rev.B: Condens. Matter Mater. Phys., 2007,   \n76, 195124.   \n18 A.Saramat,G. Svensson，A. E.C. Palmqvist，C. Stiewe, E．Mueller，D. Platzek，S.G.K.Williams,D.M.Rowe, J. D.Bryan and G.D. Stucky,J. Appl. Phys., 2006,99,023708.   \n19 E.S.Toberer,M.Christensen,B.B.Iversen and G.J. Snyder, Phys. Rev.B: Condens. Matter Mater.Phys.,2008,77,075203.   \n20 L.T.K.Nguyen，U.Aydemir，M.Baitinger，E.Bauer, H.Borrmann，U.Burkhardt,J. Custers,A.Haghighird, R.Hofler,K.D.Luther,F. Ritter,W.Assmus,Y. Grin and S.Paschen, Dalton Trans.,2010,1071.   \n21 H. Zhang，H. Borrmann，N. Oeschler，C. Candolfi, W. Schnelle,M. Schmidt，U. Burkhardt，M. Baitinger, J.-T. Zhao and Y. Grin,Inorg. Chem.,201,50,1250.   \n22 X. Shi, J. Yang, S. Q.Bai, J. H. Yang, H. Wang, M. F. Chi, J. R. Salvador, W. Q. Zhang, L. D. Chen and W. Wong-Ng, Adv. Funct. Mater., 2010,20,755.   \n23 M. Falmbigl,A. Grytsiv,P. Rogl, X. L. Yan, E. Royanian and E. Bauer,Dalton Trans.,2013,2913.   \n24M.Falmbigl,A.Grytsiv,P.Rogl,P.Heinrich,E.Royanian and E.Bauer,J.Alloys Compd.,2013,567,65.   \n25 Y. Li, J. Chi, W. P. Gou, S. Khandekar and J. H. Ross Jr,J. Phys.: Condens.Matter,2003,15,5535.   \n26 X.Yan，E.Bauer，P.Rogl and S.Paschen，Phys.Rev.B: Condens. Matter Mater. Phys.,2013,87,115206.   \n27A.C.Larson and R.B.Von Dreele,General Structure Analysis System (GSAS),Los Alamos National Laboratory Report LAUR   \n86-748,1994.   \n28 B.H. Toby,J. Appl. Crystallogr., 2001,34, 210-213.   \n29 M. Christensen, S. Johnsen,F. Juranyi and B. B. Iversen, J. Appl.Phys.,2009,105,073508.   \n30 L. J. Farrugia,J. Appl. Crystallogr.,1999,32, 837-838.   \n31 A. F. May,E. S. Toberer,A. Saramat and G.J. Snyder, Phys. Rev.B: Condens.Matter Mater.Phys.,2009,80,125205.   \n32 J.P. Perdew, K. Burke and M. Ernzerhof,Phys. Rev. Lett.,   \n1996, 77, 3865.   \n33G.Kresse and J.Hafner,Phys.Rev.B: Condens.Matter Mater. Phys.,1993,47,558.   \n34 G.Kresse and J. Furthmuller, Phys. Rev. B: Condens. Matter Mater. Phys.,1996,54,11169.   \n35J.T. Xu，S.Heguri，Y.Tanabe，G.Mu，J.Z.Wu and K.Tanigaki,J. Phys. Chem. Solids,2012,73,1521.   \n36 J. T. Xu, J. Tang,K. Sato,Y. Tanabe, S.Heguri, H. Miyasaka, M.Yamashita and K. Tanigaki, J. Electron. Mater., 2011, 40,   \n879.   \n37 M. Hokazono, H. Anno and K. Matsubara, Mater. Trans.,   \n2005,46, 1485C1489.   \n1G．A.Slack,in New Materials and Performance Limits for Thermoelectric Cooling,ed.D.M. Rowe,CRC,Boca Raton, FL,1995.   \n2 M.Christensen, S. Johnsen and B. B. Iversen, Dalton Trans., 2010,978.   \n3 T.Takabatake, K. Suekuni, T. Nakayama and E. Kaneshita, Rev. Mod. Phys.,2014,86,669.   \n4 M.Christensen，A.B.Abrahamsen，N.B.Christensen, F.Juranyi，N.H. Andersen，K. Lefmann,J.Andreasson, C.R.H. Bahl and B.B. Iversen, Nat. Mater., 2008,7,805.   \n5 R.F.W.Herrmann, K.Tanigaki,T.Kawaguchi, S.Kuroshima and O. Zhou,Phys.Rev.B: Condens.Matter Mater.Phys.,1999, 60, 13245.   \n6 U．Aydemir，C. Candolfi，H.Borrmann，M.Baitinger, A. Ormeci,W. Carrillo-Cabrera,C. Chubilleau,B.Lenoir, A.Dauscher,N. Oeschler,F. Steglich and Y.Grin,Dalton Trans.,2010,1078.   \n7G.Cordier and P.Woll,J. Less-Common Met.,1991,169,291.   \n8 S.Johnsen,A.Bentien,G.K.H.Madsen,B.B.Iversen and M.Nygren,Chem.Mater.,2006,18,4633.   \n9 N.Melnychenko-Koblyuk,A. Grytsiv,P.Rogl, H. Schmid and G. Giester,J. Solid State Chem.,2009,182,1754.   \n10 H. Zhang, J.-T. Zhao, M.-B. Tang, Z.-Y. Man, H.-H. Chen and X.-X. Yang,J. Alloys Compd., 2009, 476,1.   \n11 N. Melnychenko-Koblyuk， A. Grytsiv， L. Fornasari, H.Kaldarar，H. Michor，F.R.Ohrbacher，M.Koza, E.Royanian，E. Bauer，P. Rogl，M. Rotter，H. Schmid, F. Maraelli, A. Devishvili, M. Doerr and G. Giester, J. Phys.: Condens.Matter,2007,19,216223.   \n12 E．Alleno，G．Maillet，O．Rouleau，E.Leroy，C.Godart, W. Carrillo-Cabrera,P. Simon and Y. Grin, Chem. Mater., 2009,21, 1485.   \n13N.Melnychenko-Koblyuk,A.Grytsiv, S.Berger,H.Kaldarar, H. Michor,F.R.Ohrbacher, E. Royanian,E.Bauer,P. Rogl, H. Schmid and G.Giester,J. Phys.: Condens. Matter, 2007, 19, 046203.   \n14 I. Zeiringer,N. Melnychenko-Koblyuk,A. Grytsiv,E. Bauer, G. Giester and P.Rogl,J. Phase Equilib. Diffus.,2011,32,115.   \n15 I. Zeiringer,M. X. Chen,I. Bednar,E. Royanian,E. Bauer, R.Podloucky,A. Grytsiv,P.Rogl and H. Effenberger,Acta Mater.,2011,59,2368. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

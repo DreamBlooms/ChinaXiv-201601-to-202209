@@ -1,0 +1,181 @@
+# DOI:10.5846/stxb201606021062
+
+李文,叶旭红,韩冰,张西超,邹洪涛，张玉龙.不同灌溉方式下3种土壤微生物活性测定方法比较.生态学报,2017,37(12)：4084-4090.LiW,YeXH,HanBZgXuHZangoparisooftemeosuedteteiolcobalctividedirsystems.Acta Ecologica Sinica,2017,37(12）:4084-4090.
+
+# 不同灌溉方式下3种土壤微生物活性测定方法比较
+
+李文,叶旭红,韩冰,张西超,邹洪涛\*，张玉龙阳农业大学土地与环境学院,农业部东北耕地保育重点实验室，土壤肥料资源高效利用国家工程实验室，沈阳110866摘要：探究不同灌溉方式下土壤微生物活性,对维持土壤稳定和提高水资源利用效率具有重要意义。以沈阳农业大学长期定位灌溉试验基地为平台,采用土壤酶活性、土壤呼吸和微量热法,研究节水灌溉组覆膜滴灌、渗灌及对照组沟灌下的土壤微生物活性并比较3种微生物活性测定方法。结果表明：不同灌溉方式下土壤脲酶、转化酶、脱氢酶活性无显著差异,土壤呼吸在3个主要生长季也没有明显变化规律;而微量热法得到的热功率时间曲线呈现了典型的微生物生长特征趋势,覆膜滴灌的生长速率较大,且与沟灌的总热量、最大热功率相差不大。因此,从可持续农业观点出发,覆膜滴灌是保证土壤微生物活性较高的一种节水灌溉方式;微量热法也为传统方法下不易检测的微生物活性提供了新思路。
+
+关键词：灌溉；酶活性；土壤呼吸；微量热
+
+# Comparison of three methods used to determine soil microbial activity under different irrigation systems
+
+LI Wen,YE Xuhong,HAN Bing,ZHANG Xichao, ZOU Hongtao\*,ZHANG Yulong ColegeofLdtlUsiodetfdt agriculture，Nationalengineeinglboratoryforefcientutilizationofsoilandfertizeresources，henyang1086China
+
+Abstract：Irigation isamainagricultural management measure inaridregions.Theareaof irigatedfarmlandhas reached 58.5million hectares in China，andthearea of water-saving irigation hasreached29.O millionhectareswith the developmentofsustainableagriculture.However,furrowiigationisstillwdelyused，especiallyinvegetablefields，which require multiple water sources.Thisresults in the wasteof water and issues relating to soil quality.Recent studies have demonstratedthatirrigationcan changethesoil moistureconditions，andthusafect soil microbialactivity.Soil microbial activity，asignificantassessment index forsoilquality，linksthe microbial community structure with ecosystemfunction. Therefore，determining microbialactivity，bothacuratelyandquickly，isimportantfortheevaluationofsoil microbial metabolism.Several approaches have beenutilized toanalyze soil microrganismactivity inmany studies.Soil enzyme activityandsoil respiration are widelyused;however，theresults mightlack accuracyduetocertain limitations.Therefore, theobjectiveof this studywas toanalyze theeffectsof diferent irrigation methodsonsoil microbial activity，which was assessedbysoil enzymeactivity，soilrespiration，andmicrocalorimetricmethods，basedonalong-termirrigationexperiment inShenyang Agriculture University.Threeirrigation methods were investigated，includingdrip irigation（D），subsurface drip irrigation（S），andfurrow irigation（F）asacontrol.Theresultsshowedthere was no significant diference in soil enzymeactivityorsoil respirationunder diferent irrigation systems.Compared with conventional methods，the microcalrimetric method provided moreuseful informationonchanges in thesoil microbialactivity.Themicrocalorimetric method produced apower-time curve，which was atypical microbial growth curve.Basedonthesoil thermaldynamic index, changes intotal heat，maximum thermal power，and growthrate underdrip irigationand furrow irrigation were negligible. Nodiference inmicrobialactivitywasobserved between dripirrgationand furrow irrigation；however，activity was the lowest withsubsurfacedrip irrgation.Therefore,dripirrigation withplasticwasthe methodof water-saving irrigation most suitable for maintaining higher microbialactivityinsustainableagriculture.Thus，the technologyofsubsurfacedrip irigation shouldbe further improved.Furthermore，the microcalorimetricmethodrepresentsanovelwayof detecting microbialactivity，which was dificult todetectusing traditionalmethods.Asaconsequence,theuseof traditional methods todeterminatesoilmicrobialactivityislimited,andthemicrocalorimetricmethodishighlysensitiveforthedeterminationof soil microorganism activity.
+
+Key Words：irrigation；enzyme activity；soil respiration；microcalorimetry
+
+当前土壤微生物研究的重点是微生物群落结构与生态系统功能之间的联系,而微生物活性正是整合两者的纽带[1]。因此,准确、快速地测定微生物活性对于评价土壤微生物新陈代谢能力具有重要作用。土壤微生物活性即微生物代谢活力,可以用多种方法测定。传统测定土壤微生物活性的方法有土壤酶活性,土壤呼吸等,然而这些方法均存在一定的局限性。微量热法已被证实是一种高度敏感的测定土壤微生物活性的方法，且微量热法得到的热动力学指标与土壤呼吸速率及其他传统方法的结果存在一定的相关性[2]。因而微量热法已成为一种有广泛应用前景的微生物活性评价工具[-3]。微量热法不仅可以有效的确定生长速率,也可以快速的检测到新陈代谢过程中的扰动,在环境科学、医学等方面被广泛应用[45]。
+
+灌溉是旱地农业的主要田间管理措施,我国约有 $45 \%$ 的农田是灌溉农田，灌溉面积已达到 $5 . 8 5 \times 1 0 ^ { 7 }$ $\mathrm { h m } ^ { 2 [ 6 ] }$ 。随着可持续农业的发展,节水灌溉面积已达到 $2 . 9 0 \times 1 0 ^ { 7 } \mathrm { h m } ^ { 2 [ 7 ] }$ 。然而传统沟灌仍被广泛使用,特别是在需水量大的设施蔬菜地。沟灌不仅造成了水资源的浪费，也出现了保护地土壤酸化等一系列土壤质量问题。覆膜滴灌、渗灌和喷灌等节水灌溉方式不仅可以解决这些土壤问题,还可以准确控制水量减少水分蒸发和深层渗漏,从而增加作物产量并防止土壤退化[8-9]。灌溉会改变土壤的水分条件,进而影响土壤微生物活动场所,对微生物的生长均有不同程度的影响。已有研究表明灌溉影响土壤的理化性质,进而影响土壤微生物活性[1],并指出在田间持水量下土壤微生物活性最高。目前对于不同灌溉方式下土壤微生物的活性研究较多,但由于方法不同,得出的结论不一致,陈全胜等[11]认为土壤水分在特定范围内变化对土壤呼吸影响不显著,侯乐等[12认为过氧化氢酶、转化酶、脲酶活性因灌水方法不同表现出差异。
+
+因此,本研究采用微量热、酶活性与土壤呼吸法来研究不同灌溉方式对土壤微生物活性的影响。首先,通过3种微生物活性测定方法比较,找到一个可靠精确的微生物活性测定方法。其次,研究覆膜滴灌,渗灌与沟灌下微生物活性变化趋势,从理论上认识灌溉对微生物活性的影响,从而找到一种高效的节水灌溉方式,为节水灌溉方法推广提供更加准确的理论依据。
+
+# 1材料与方法
+
+# 1.1试验地概况
+
+试验于2015年4月到8月在沈阳农业大学长期定位灌溉试验基地( $4 1 ^ { \circ } 4 9 ^ { \prime } \mathrm { N }$ ， $1 2 3 ^ { \circ } 3 3 ^ { \prime } \mathrm { E }$ ，海拔高度 51.6m)的温室大棚进行。供试土壤为棕壤（Mollc Gleysols，FAO-UNESCO 系统）[13],土壤的基本理化性质为 $\mathrm { \ p H }$ 6.8,有机质含量 $1 2 . 5 8 ~ \mathrm { g / k g }$ ,全氮含量 $1 . 4 7 ~ \mathrm { g / k g }$ ,全钾含量 $1 7 . 6 0 ~ \mathrm { g / k g }$ ,全磷含量 $0 . 1 0 ~ \mathrm { g / k g }$ 。供试作物为番茄（Lycopersicon esculentum Mill,绿又福)。试验设对照组沟灌（F)和试验组覆膜滴灌（D）、渗灌（S)3个处理,3次重复，试验小区随机分布。各小区面积为 $2 0 \mathrm { ~ m } ^ { 2 }$ ,每个小区4条垄,小区间用深埋 $6 0 ~ \mathrm { c m }$ 塑料膜隔开防止水分互渗。沟灌以垄沟为灌水沟,按常规方法灌水;滴灌管为市售,采用一管四的铺设方式,即1根滴灌管下接4 根滴灌带,分别铺于4条垄上,两出水孔中心点距离 $3 0 \ \mathrm { c m }$ ,与植株相对;渗灌管为自主研制的节点式渗灌管，两组出水孔间距 $3 0 ~ \mathrm { c m }$ ,埋于地下 $3 0 ~ \mathrm { c m }$ 。在各小区垄上埋设张力计,当地下 $2 0 ~ \mathrm { c m }$ 的张力计的土壤水吸力值到 $3 0 \ \mathrm { k P a }$ 时开始灌水,灌水上限为 $6 ~ \mathrm { { k P a } }$ 。地下 $5 \ \mathrm { c m }$ 埋曲管地温计,记录地温。
+
+番茄定植于4月19日，浇定植水,并在1周后浇缓苗水,此后开始记录不同灌溉处理下的灌水次数及灌水量。在番茄生长期,D、S、F分别灌水9次、13次、9次,灌水总量分别为 $6 6 2 . 6 \ 、 6 4 7 . 4 \ 、 1 2 3 4 . 6 \ \mathrm { m } ^ { 3 } / \mathrm { h m } ^ { 2 }$ 。滴灌的3个小区均铺设 $6 0 ~ \mathrm { c m }$ 宽的黑色防水的PE 可降解薄膜以防止水分蒸发。
+
+施肥处理：在土壤翻耕前撒施 $2 5 . 5 3 ~ \mathrm { t / h m } ^ { 2 }$ 腐熟的牛粪和 $3 7 . 5 ~ \mathrm { t / h m } ^ { 2 }$ 膨化的鸡粪。定植时沟施 $0 . 6 ~ \mathrm { { V h m } ^ { 2 } }$ 的磷酸二铵、硫酸钾和 $0 . 1 5 ~ \mathrm { t / h m } ^ { 2 }$ 的尿素。于番茄穗果膨大期追施两次尿素，各 $0 . 1 5 ~ \mathrm { t / h m } ^ { 2 }$ O
+
+# 1.2样品采集
+
+2015年8月番茄收获后采集根际土壤样品,具体为每个小区用五点法随机选择5株番茄植株,挖取具有完整根系的土体,先轻轻抖落大块的土壤,然后将根表面附着的土壤全部抖落于报纸上,五点土样迅速混匀装在聚乙烯塑料袋中,放入冰盒带回实验室[1415]。将重复土壤样品混合分3部分，一部分用于基本理化指标测定，一部分保存于 $4 ^ { \circ } \mathrm { C }$ 用于土壤微量热测定,剩于土样风干,分别过 $1 ~ \mathrm { m m }$ 和 $2 ~ \mathrm { m m }$ 筛测定酶活性。
+
+# 1.3 测定项目与方法
+
+# 1.3.1 土壤基本理化性质测定
+
+土壤含水量测定采用称重法。土壤全氮、总有机碳采用元素分析仪(Elementer II,德国)。有机质含量为总有机碳的1.724倍。土壤 $\mathrm { \ p H }$ 在水土比2.5:1下用pH计测定。
+
+# 1.3.2土壤酶活性测定
+
+土壤脲酶、转化酶分别取 $1 0 \mathrm { ~ g ~ }$ 过 $1 \ \mathrm { m m }$ 筛风干土样,脱氢酶取 $5 \mathrm { \text g }$ 过 $2 ~ \mathrm { m m }$ 筛风干土样参照《土壤微生物研究原理与方法》测定[16]。脲酶活性以每单位土产生的 $\mathrm { N H _ { 4 } ^ { + } { - } N }$ 的毫克数表示;转化酶以单位土消耗 $0 . 1 ~ \mathrm { m o l / \Omega }$ L硫代硫酸钠的毫升数表示;脱氢酶以产生的三苯基甲賸的量表示。
+
+# 1.3.3 土壤呼吸测定
+
+采用静态箱气象色谱法测定番茄生长期内土壤呼吸。在番茄定植前,每个小区放置底座,规格为 $5 0 \ \mathrm { c m } \times$ $5 0 ~ \mathrm { c m } \times 1 5 ~ \mathrm { c m }$ （长 $\times$ 宽 $\times$ 高)，含 $3 \ \mathrm { c m }$ 高的凹槽用于密封。静态箱规格是 $5 0 ~ \mathrm { c m } \times 5 0 ~ \mathrm { c m } \times 6 0 ~ \mathrm { c m }$ （长 $\times$ 宽 $\times$ 高）。内置风扇用于搅动箱内气体确保气体浓度均匀,温度计测定箱内温度。采样时,向凹槽内注水,将静态箱放于底座上密封,用 $5 0 ~ \mathrm { m L }$ 针管抽取 $0 . 5 , 1 0 , 1 5 , 2 0 \mathrm { \ m i n }$ 气体装入集气袋中，并记录每一时刻的箱内温度。土壤呼吸量测定在8:00到10:00 进行,在番茄生长的幼苗期、开化期和结果期并不在灌溉前后和施肥前后进行样品采集。收集到的气体样品用气相色谱仪（AgilentGC7890A）测定 $\mathrm { C O } _ { 2 }$ 含量。土壤呼吸 $\mathrm { C O } _ { 2 }$ 排放通量的计算公式：
+
+$$
+F { = } \rho { \times } h { \times } \frac { 2 7 3 } { 2 7 3 { + } T } { \times } \ \frac { \mathrm { d } c } { \mathrm { d } t }
+$$
+
+式中， $F$ 为 $\mathrm { C O } _ { 2 }$ 的排放通量( $\mathbf { m g \Lambda C \Lambda m ^ { 2 } \Lambda h ^ { - 1 } }$ ） $\rho$ 为气体在标准状态下的密度； $h$ 为箱体的高度（m）； $T$ 为采气箱内温度（C）;dc 为气体的浓度差;dt为时间的间隔（h）；d 为采样箱内气体浓度的变化速率，通过5个采样点所测的数据作图可知。
+
+# 1.3.4土壤微生物代谢活性的测定
+
+取 $\mathrm { ~ 1 ~ g ~ }$ 土样放入 $4 ~ \mathrm { m L }$ 灭菌的安瓿瓶中,加 $6 0 ~ \mu \mathrm { L }$ LB（胰蛋白陈和酵母提取物2:1)培养基密封,安瓿瓶放入TAM II 微量热仪(TA Instrument，USA) $2 8 ~ \mathrm { { ^ { \circ } C } }$ 培养,3次重复。土壤微生物代谢活性以热功率值被计算机实时监控、记录,待信号终止即停止试验。根据热功率时间曲线计算总热量 $Q _ { \mathrm { t o t a l } }$ ,最大热功率 $P _ { \mathrm { { m a x } } }$ 及达到最大热功率的时间 $t _ { \mathrm { m a x } }$ ,可通过热力学动力方程[17-18]得到生长速率常数 $( k )$ 。
+
+$$
+\mathrm { l n } P _ { \mathrm { \ell } } = \mathrm { l n } P _ { \mathrm { \ell 0 } } + k \left( \mathrm { \ell } t - { t _ { \mathrm { 0 } } } \right)
+$$
+
+式中， $\mathbf { \Phi } _ { t } ^ { t }$ 是对数期的某一时刻， $P _ { 0 }$ 是微生物进入对数期时的初始放热功率， $\boldsymbol { P } _ { \mathrm { ~ t ~ } }$ 是 $\mathbf { \chi } _ { t }$ 时刻总放热功率。
+
+# 1.4数据处理与分析
+
+试验数据采用Origin 8.0和 SPSS19.0软件进行单因素方差分析（One-way ANOVA）,多重比较采用最小显著差异法(LSD）,显著性水平设为0.05,结果以平均值 $\pm$ 标准误表示。
+
+# 2结果与分析
+
+# 2.1灌溉方式对土壤基本理化性质的影响
+
+通过不同灌溉方式的处理,沟灌的土壤含水量显著高于渗灌,但与覆膜滴灌无显著差异,这是因为膜下滴灌能保证灌溉前后含水量空间分布相似[19]。3种不同灌溉方式下土壤pH相差不大。土壤全氮、总有机碳及有机质均无显著性差异（表1）,表明灌溉方式不同对土壤养分状况没有显著影响。
+
+Table 1 Soil physical and chemical properties under different irrigation methods   
+
+<html><body><table><tr><td>处理 Treatment</td><td>M 含水量/%ent</td><td>pH</td><td>有机质/（g/kg）</td><td>总有机碳/（g/kg）</td><td>全氨/(gg)</td></tr><tr><td>覆膜滴灌 drip irrigation</td><td>11.86±1.19 ab</td><td>6.30±0.03 a</td><td>28.07±5.17 a</td><td>16.28±3.00 a</td><td>2.03±0.33 a</td></tr><tr><td>渗灌 subsurface drip irrigation</td><td>10.48±1.88 b</td><td>6.42±0.07 a</td><td>23.27±2.04 a</td><td>13.49±1.18 a</td><td>1.61±0.13 a</td></tr><tr><td>沟灌 furrow irrigation</td><td>14.67±2.24 a</td><td>6.18±0.13 a</td><td>27.81±5.53 a</td><td>16.13±3.20 a</td><td>1.95±0.38 a</td></tr></table></body></html>
+
+不同小写字母表示处理间差异显著( $\begin{array} { r }  P < 0 . 0 5 \ \end{array}$ 0
+
+# 2.2灌溉方式对土壤酶活性的影响
+
+从表2可以看出,不同灌溉方式对土壤脲酶、转化酶和脱氢酶活性均无显著性影响,但总体呈现的趋势是覆膜滴灌的转化酶和脱氢酶均为最高,沟灌次之,渗灌最小。灌水量相对高的沟灌会提高脲酶的活性,灌水量小的渗灌会降低土壤转化酶的活性。覆膜滴灌下土壤酶活性相对较高可能是由于地膜覆盖,使得地温保持在适宜的水平，从而增强了土壤酶的活性。 1
+
+表1不同灌溉方式下土壤理化性质  
+表2不同灌溉方式下土壤酶活性  
+Table 2Soil enzyme activity under different irrigation method:   
+
+<html><body><table><tr><td>处理 Treatment</td><td>脲酶/(NH4-N μg/g) Urease</td><td>转化酶/(Glucose mg/g) Inverting enzyme</td><td>脱氢酶/（μLg-1 6h-1) Dehydrogenase</td></tr><tr><td>覆膜滴灌Drip irrigation</td><td>7.94±2.96 a</td><td>11.54±2.33 a</td><td>14.23±2.12 a</td></tr><tr><td>渗灌 Subsurface drip irrigation</td><td>7.08±1.46 a</td><td>8.24±1.56 a</td><td>11.67±2.58 a</td></tr><tr><td>沟灌 Furrow irrigation</td><td>9.02±1.67 a</td><td>9.78±1.33 a</td><td>13.12±1.43 a</td></tr></table></body></html>
+
+不同小写字母表示处理间差异显著( $P < 0 . 0 5$ ）
+
+2.3灌溉方式对土壤呼吸速率的影响
+
+图1通过对番茄3个主要生长期 $\mathrm { C O } _ { 2 }$ 排放通量的变化趋势来表示土壤的呼吸速率。在番茄幼苗期,沟灌的土壤 $\mathrm { C O } _ { 2 }$ 排放通量显著高于覆膜滴灌,而渗灌与沟灌的排放通量无显著性差异。开花期3种灌溉方式均无显著性差异。结果期沟灌与渗灌有显著性差异，与覆膜滴灌无显著性差异。3个时期 $\mathrm { C O } _ { 2 }$ 排放通量的总趋势是沟灌最高，覆膜滴灌、渗灌次之。
+
+2.4灌溉方式对土壤新陈代谢活性的影响
+
+图2描绘了一个典型的微生物生长特征曲线,展示了微生物的完整生长期。以对照组沟灌为例,停滞期(a 和b),微生物适应新环境;对数生长期(b和c）,微生物以稳定的几何数级增长;稳定期(c和d),由于营养物质消耗殆尽,微生物总数处于平坦阶段;衰亡期(d和e),微生物生长减慢,死亡数目增多;潜伏期(e和h)，微生物恢复到自然活性状态[20]。
+
+计算获得覆膜滴灌、渗灌和沟灌3种灌溉方式的总热量 $Q _ { \mathrm { t o t a l } }$ ,最大热功率 $\boldsymbol { P } _ { \mathrm { m a x } }$ 及达到最大热功率的时间$t _ { \mathrm { m a x } }$ 和生长速率常数 $k$ 如表2所示。沟灌下最大热功率、总热量与覆膜滴灌相差不大,仅是达到最大热功率的时间相差 $4 0 ~ \mathrm { m i n }$ 。而沟灌与渗灌的最大热功率、总热功率相差较大。生长速率常数 $k$ 值越大,表明微生物活性越高、生长越快。根据生长速率常数可知,滴灌下土壤微生物活性最高,而渗灌的土壤微生物活性最小。
+
+![](images/3c3db071970b9a3b308e898c3a0bf085ff110768858c08a0e7fdebb3c9e95218.jpg)  
+图1不同灌溉方式对番茄3个主要生长期 $\mathbf { C O } _ { 2 }$ 排放通量的影响Fig.1The effect of irrigation methods on $\mathbf { C O } _ { 2 }$ emission flux duringtomato main growth period
+
+D:覆膜滴灌 drip irrigation;S:渗灌 subsurface drip irrigation;F：沟灌furrow irrigation;不同小写字母表示同一时期不同处理间差异显著$( P { < } 0 . 0 5 )$ （204
+
+![](images/70a5445581bcb9bce0aa0e36b684f0698ede55fa7beaba907ed9035383083782.jpg)  
+图2不同灌溉方式下土壤微生物活性的热功率时间曲线Fig.2Thermal power time curve of soil microbial under differentirrigation methodsa和b代表微生物生长特征曲线的停滞期;b和c代表对数期;c和d代表稳定期;d和e代表衰亡期;e和h代表潜伏期
+
+表3不同灌溉方式下土壤微生物活性的热动学指标  
+Table 3Thermal indicators of soil microbial activity under different irrigation methods   
+
+<html><body><table><tr><td>处理 Treatment</td><td>总热量/(J/g) Total heat dissipation (Qtoal)）</td><td>峰值功率/μW the maximum thermal power peak（Pmax )</td><td>峰值功率时间/min the time to reach the maximumt of h peak</td><td>生长速率常数/min Growth rate constant （k)</td></tr><tr><td>覆膜滴灌 Drip irrigation</td><td>15.45</td><td>844.61</td><td>460</td><td>0.006926</td></tr><tr><td>渗灌 Subsurface drip irigation</td><td>14.86</td><td>720.34</td><td>470</td><td>0.005854</td></tr><tr><td>沟灌Furrow irrigation</td><td>15.52</td><td>848.36</td><td>420</td><td>0.006595</td></tr></table></body></html>
+
+# 3讨论
+
+3.1不同灌溉方式下3种微生物活性测定方法的比较
+
+本研究中3种灌溉方式对脲酶、转化酶和脱氢酶没有显著影响，无法判断出灌溉方式对微生物活性的影响。同时有研究发现,植物根系能够分泌释放一些酶到根际土壤中,而目前很难将植物根系提供的酶和微生物提供的酶区分开[21]。此外,土壤样品的预处理和贮藏也是影响土壤酶活性的重要因素[22]。因此仅从单一酶类来反映土壤微生物活性变化存在一些局限性和片面性,无法客观、全面的反映灌溉方式对土壤微生物活性的影响。
+
+有研究表明,土壤含水量在田间持水量和萎蔫系数之间时,对土壤呼吸没有显著影响[23]。而3 种灌溉方式下的土壤含水量始终保持在田间持水量,因此土壤呼吸的变化波动也较小。本研究中沟灌在幼苗期 $\mathrm { C O } _ { 2 }$ 的排放通量显著高于滴灌,结果期的 $\mathrm { C O } _ { 2 }$ 的排通量均显著高于渗灌，而在开花期灌溉方式无显著性差异。无论是滴灌还是沟灌对土壤呼吸排放 $\mathrm { C O } _ { 2 }$ 差异不显著。可能是由于设施蔬菜地的温度较高,复杂的温度因素掩盖了土壤水分对土壤 $\mathrm { C O } _ { 2 }$ 排放的影响[24」。此外，不同灌溉方式使水的运移和土壤结构有所不同,从而导致土壤的通气状况不同。因此,很难从番茄生长期的土壤呼吸来判断土壤微生物活性。同时由于土壤呼吸包括根系呼吸、微生物呼吸和土壤中C、N的矿化,仅从土壤呼吸来判断土壤微生物活性存在一些不确定性,要准确测定土壤微生物呼吸必须消除植物根系呼吸和土壤动物呼吸的影响[23]。此外,休眠状态中的微生物所占比重较高,而对呼吸起很大作用的活性微生物仅是比例很小的部分[25]。同时,Friedel[26]认为灌溉比降雨农业提供了更加恒定的土壤水含量,灌溉土壤中的微生物活性一般来说会加强,但是土壤的基础呼吸和脱氢酶活性波动没有一个固定的形式。
+
+在土壤生态系统中,外加LB培养基可以刺激土壤微生物生长,分解更多营养物质,产生较多代谢热量。微量热仪记录这些代谢过程的热功率随时间而变化的数据,从而得到微生物生长的最大热功率( $\mathrm { \Delta } P _ { \operatorname* { m a x } } \mathrm { \Delta } \big )$ 、达到最大热功率的时间( $\dot { \boldsymbol { t } } _ { \mathrm { m a x } }$ )和整个代谢过程中的总热( $Q _ { \mathrm { t o t a l } }$ ）,并可根据热力学动力方程线性拟合得到微生物的生长速率常数 $k$ ,这些参数可以准确的表征微生物活性大小。此外,由于不同灌溉方式对微生物活性影响较低,需要用非常灵敏的测试手段才能精确的检测土壤微生物的活性变化。微量热高精度、高灵敏的测试方法使其成为检测微生物活性的一种有效方法。有研究发现,微量热法和土壤呼吸强度、微生物数量及土壤酶活性有很高的相关性[27]。Critter[28]已经证实微量热和土壤呼吸值达到0.91的显著相关性。 $P _ { \mathrm { m a x } } ^ { \mathcal { J } }$ 分别与脲酶、脱氢酶达到 $0 . 8 7 1 、 0 . 9 5 1$ 的显著相关性, $k$ 与所有的酶活性都达到显著相关[17]。这些结果均表明,微量热法从热动力学观点研究微生物活性有一定优势[29],可以准确的测定土壤微生物活性(表4)。
+
+表4微量热法与常用传统方法比较  
+Table 4Microcalorimetric compared with traditional methods   
+
+<html><body><table><tr><td>微量热法与传统方法相比较 Comparison between the microcalorimetry and the</td><td>酶活性 Enzymatic activity Soil respiration</td><td colspan="2">土壤呼吸</td><td>微量热 Microcalorimetry</td></tr><tr><td>traditional methods 与 微量热的相关性 Correlation with microcalorimetry</td><td>**[17]</td><td colspan="2">[28]</td><td></td></tr><tr><td>优点 Advantage</td><td>1.成本低</td><td colspan="2">1.原位测定</td><td>1.操作过程简单,耗时短 2.不破坏样品 3.真实状态下土壤微生物的活性</td></tr><tr><td>缺点 Disadvantage</td><td>1.个别酶活性难以表征微生物 活性 2.测定方法不统一，结果不 致[30]</td><td>1.耗时耗力 2.费用高 3.有动、植物呼吸干扰</td><td colspan="2">1.普及度较低</td></tr></table></body></html>
+
+\*\*表示在 $P < 0 . 0 1$ 达到极显著相关
+
+# 3.2不同灌溉方式对土壤微生物活性的影响
+
+研究表明， $P _ { \mathrm { { m a x } } }$ 和 $t _ { \mathrm { m a x } }$ 的大小可以用于表示土壤微生物活性[31-32]。由微量热法结果可知,覆膜滴灌和沟灌最大热功率较为相似,说明两者的微生物活性基本相同。而覆膜滴灌的灌水量仅为沟灌的1/2,从用水量上考虑,覆膜滴灌是一种既可以保证微生物活性处于较高水平,也可以实现节水灌溉的可持续灌溉方式。渗灌的热动力学指标均不高,这可能是由于渗灌管位于地下 $3 0 \ \mathrm { c m }$ 处,而番茄根系大部分位于 $0 { - } 2 0 ~ \mathrm { c m }$ 处,番茄根系不能完全吸收利用渗灌灌溉水。因此,渗灌技术有待于进一步提高。
+
+# 4结论
+
+在农田生态系统中,土壤微生物在养分循环与能量流动中具有重要作用。灌溉方式的不同带来的土壤水分含量及其分布的变化势必会影响土壤微生物活性,但由于本研究中不同灌溉方式土壤含水量变化较小,仅用传统的微生物活性测定方法无法判断灌溉方式对土壤微生物活性的影响。因此根据土壤热动力学指标,覆膜滴灌与沟灌处理下土壤微生物活性相差不大，而渗灌土壤的微生物活性最低,表明覆膜滴灌更适合于设施蔬菜地灌溉,而渗灌技术需要进一步改进。同时,不同方法的应用表明微量热是测定土壤微生物活性简单快速准确的方法。
+
+http ://www.ecologica.cn
+
+致谢：南京土壤研究所土壤生物与生化研究室林先贵研究员、冯有智副研究员对本试验给予指导和帮助,特此致谢。
+
+# 参考文献（References）：
+
+[1］车荣晓，王芳，王艳芬，邓永翠,张静，马双，崔晓勇.土壤微生物总活性研究方法进展.生态学报，2016,36(8)：2103-2112.  
+[2］冯有智，林先贵.微量热法在土壤微生物研究中的应用进展.土壤，2012，44(4)：535-540.  
+[3]Zheng SX,HuJL,Chen K,Yao J,Yu Z,Lin $\mathrm { ~ X ~ G ~ }$ .Soil microbial activity measured by microcalorimetry in response to long-term fertilizationregimes and available phosphorous on heat evolution.Soil Biology and Biochemistry，2O09,41（10）：2094-2099.  
+[4］胡艳军，蒋风雷，欧阳宇，刘义.微量热法在药物活性评价中的应用.中国科学：化学，2010,40(9)：1276-1285.  
+[5]Breressoaltcxenobiotic on Tetrahymena pyriformis.Ecotoxicology and Environmental Safety,2013,98(3）：88-94.  
+[6］朱秀芳，赵安周，李宜展，曹森，李慕义.农田灌溉对气候的影响研究综述.生态学报，2014,34（17）：4816-4828.  
+[7] 中华人民共和国水利部.2013全国水利发展统计公报.北京：水利水电出版社，2014.  
+[8]WangDKangYWanSectofolatricotetaloatoielddwateusendedrigaoodiioAgualterManagement，2007，87(2）：180-186.  
+[9] 周振江，牛晓丽，李瑞，胡田田.根系分区交替灌溉条件下水肥供应对番茄果实硝酸盐含量的影响.生态学报,2013,33（7)：2139-2146.  
+[10] BarrosN,GoOreeijRetoflsuelalidcocalotActa，1995,249(95):161-168.  
+[11］陈全胜，李凌浩，韩兴国，阎志丹.水分对土壤呼吸的影响及机理.生态学报，2003，23(5)：972-978.  
+[12] 侯乐，张玉龙.灌水方法对保护地土壤酶活性的影响.安徽农学通报，2011，17（11)：108-111.  
+[13] YangLJ,Zag,,LiFtssdilrtliieouseeisoil water regimes.Agricultural Water Management，2015,160：98-105.  
+[14]邱权，李吉跃，王军辉，王宁,孙奎，何茜，苏艳，潘昕.西宁南山4种灌木根际和非根际土壤微生物、酶活性和养分特征.生态学报，2014,34(24):7411-7420.  
+［15］陆雅海，张福锁.根际微生物研究进展.土壤，2006，38（2)：113-121.  
+[16] 林先贵.土壤微生物研究原理与方法.北京：高等教育出版社，2010：243-262.  
+[17] HassanW,ChWCai,angQtiaioticcal,dcalproptisiooilycocaloolof Thermal Analysis and Calorimetry，2013,116(2）：969-988.  
+[18] 罗园园，吴雪楠，刘文娟，柴汉魁，姚俊.镉累积效应对土壤微生物活性的影响.化学与生物工程,2016，33（7)：23-27.  
+[19] 谭帅，王全九，罗小东，马媛.膜下滴灌前后表层土壤水分空间变异性.干旱地区农业研究，2016，34(1)：43-49.  
+[20] 刘晓梅，马嘉琦，张婧，郑红，冯虎元.等温微量热法在土壤微生物研究方面的进展.冰川冻土，2008，30(4)：710-716.  
+[21] 刘善江，夏雪，陈桂梅，卯丹，车升国，李亚星.土壤酶的研究进展.中国农学通报,2011,27(21)：1-7.  
+[22] 孙波，赵其国，张桃林，俞慎.土壤质量与持续环境：II.土壤质量评价的生物学指标.土壤，1997,29(5)：225-234.  
+[23] 邓东周，范志平，王红，孙学凯，高俊刚，曾德慧，张新厚.土壤水分对土壤呼吸的影响.林业科学研究，2009，22（5）：722-727.  
+[24]Kalenbach C M，Rolston D E， Horwath W R. Cover cropping affects soil ${ \bf N } _ { 2 } \mathrm { O }$ and $\mathrm { C O } _ { 2 }$ emissions diferentlydependingontypeof irrigation.Agriculture，Ecosystems &Environment，2010,137(3/4）:251-260.  
+[25］唐玉姝，魏朝富，颜廷梅，杨林章，慈恩.土壤质量生物学指标研究进展.土壤，2007，39(2)：157-163.  
+26]Frideloeeiin central Mexico.Biology and Fertility of Soils，2000,31(5）： 414-41.  
+[27] Baros N,Feijo S，Hansen L D.Hansen Calorimetric determination of metabolic heat, $\mathrm { C O } _ { 2 }$ rates and the calorespirometricratioof soil basalmetabolism.Geoderma，2011，160(3/4）: 542-547.  
+[28]] CriterSAMFreitasSroldi.CompaofoalctivioeBralilsycocalotridspo.Thermochimica Acta,2004,410(1/2）: 35-46.29 BarrosN,Gleisiiyfloeccatooflbalctioct58/2.  
+[30] GengYQ，WangD.esearchdvancesoteeasureentmethodsfoilhdrolytsactivis.ineseJalofEAiclur,2012,20(4): 387-394.  
+[31]AhamadBagQenW,Wen,ZgJ,edCaiigiocaloiricentfcrobaiylong-term fertilization experimental soils of Southern China.FEMS Microbiology Ecology，209,70(2）：186-195.  
+[32]Barros N,Salgado J,Feij6o S. Calorimetry and soil. Thermochimica Acta,2007,458(1/2）：11-17.

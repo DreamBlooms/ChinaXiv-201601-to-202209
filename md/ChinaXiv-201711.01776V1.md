@@ -1,0 +1,130 @@
+成纤维细胞生长因子23在骨矿物质代谢中的作用及其调控机理董中亮 $^ { 1 }$ 任晓曼 $^ { 1 }$ 卜舒扬」闪爱婷’王玉婷²杨建成 1\*（1.沈阳农业大学畜牧兽医学院，沈阳110866；2.沈阳204 医院，沈阳110043）
+
+4摘要：骨源性激素成纤维细胞生长因子 23（FGF23）介导由甲状旁腺、肾脏、骨骼和维生素D组成的负反馈回路，建立“骨骼-肾脏-甲状旁腺”内分泌轴，参与骨矿物质代谢并发挥重要作用。钙、磷、铁、维生素D、甲状旁腺素（PTH)、成纤维细胞生长因子受体（FGFR)/FGF 以及蛋白质翻译后修饰调控FGF23的分泌、活性和胞内过程。随着深入的研究，探索出了一些以FGF23 为靶点治疗骨矿物质代谢障碍疾病的新疗法。本文综述了FGF23 在骨矿物质代谢中的作用及其调控机理的研究进展，以期为相关研究提供参考依据。
+
+关键词：成纤维细胞生长因子23；骨矿物质代谢；钙；磷；铁
+
+中图分类号：S852.2
+
+钙、磷是动物生长、骨骼发育和维持机能所必需的矿物质元素，是骨骼的基本组成成分，它们结合生成的羟基磷灰石构成骨盐。钙、磷代谢是骨矿物质代谢的重要部分，对骨代谢有很大影响，低血磷导致幼龄动物伺偻病、成年家畜和产蛋家禽骨质疏松症；高血磷不仅延迟骨矿化，还引起由磷/钙结晶沉淀导致的异位血管钙化，继发产生和激活趋钙激素，从而间接影响骨形成。铁是一种参与骨代谢的重要矿物质，能够羟基化蛋白质，调节肾脏维生素D分泌[1]，对骨胶原蛋白质合成非常重要，过量和缺乏都会直接或间接影响骨生长[2]。成纤维细胞生长因子23（FGF23）是近年来发现的激素，它与甲状旁腺素（PTH）和维生素D 相互作用，共同保持钙、磷平衡；此外，在一些低磷性骨疾病中，FGF23与铁相互调节，在维持骨矿物质平衡中发挥作用。调控FGF23是一个复杂的多层次的过程，涉及钙、磷、铁、甲状旁腺素（PTH）、维生素D、FGF受体（FGFR）/FGF以及蛋白质翻译后修饰，当FGF23的分泌、活性和胞内过程异常时，会引起骨矿物质代谢障碍从而导致各种骨疾病。在实践中，
+
+人们已探索出了一些以FGF23为靶点的疗法。本文对FGF23在骨矿物质代谢中的作用及其．调控机理的研究进展进行综述，
+
+1 FGF23 的生物学特性FGF23 属于多肽类激素成纤维细胞生长因子（FGF）家族，由成骨细胞和骨细胞合成与分泌，物种间略有差异，就人类而言，基因定位于常染色体12p13，由251个氨基酸组成，相对分子质量为 $3 2 \mathrm { k u }$ 。血液中存在2种形式：一种是活性全长成熟FGF23,其N端具备FGFR结合位点，C端具备 $\mathbf {  { a } }$ -Klotho（αKL）的结合位点；另一种是无活性的水解裂解产物，N端FGF23 和C端FGF23（cFGF23）。FGFR与FGF23 结合的亲和力十分低，需要和αKL 结合成复合受体才具有高亲和力，FGF23主要通过丝裂原活化蛋白激酶（MAPK）/胞外信号调节激酶（ERK）信号通路作用于肾脏和甲状旁腺，与钙、磷和铁等矿物质、维生素D 以及PTH 等激素相互作用，间接调节骨代谢。  
+2 FGF23在骨矿物质代谢中的作用和调控  
+2.1 FGF23 与维生素 D、PTH、钙和磷FGF23 能够降低维生素D的活性，其机制为：一方面下调肾1α-羟化酶（Cyp27b1）表达，抑制活性维生素D 的合成；同时上调维生素D-羟化酶（ $C y p 2 4 a 1$ ）表达，将活性维生素 D 转化为活性低的产物。维生素D 是调节FGF23 的重要因子，能够直接促进FGF23 分泌和增强其活性，研究发现给予小鼠维生素D 可显著提高血液 FGF23 含量；在体外培养的成骨细胞中，维生素D可诱导 FGF23 表达并剂量依赖性增强其启动子活性[3]。FGF23 通过以下方面抑制 PTH合成和分泌：作用于甲状旁腺上的维生素D受体以及钙敏感受体抑制甲状旁腺细胞增殖;降低PTHmRNA合成；上调甲状旁腺1α-羟化酶( $\langle C y p 2 7 b 1 \rangle$ ）： 表达，促进活性维生素D 合成，抑制 PTH，甲状旁腺分泌PTH并表达αKL，而 FGF23 需： 要与 αKL 结合并且能抑制PTH，在甲状旁腺和骨之间构成一个潜在负反馈回路，PTH 通过它促进骨表达FGF23。研究证明，PTH 和其下游孤核受体[核受体相关蛋白1（Nurr1）]处理骨肉瘤细胞系促进了FGF23mRNA合成[4]；小鼠被高磷饲粮诱导为肾衰竭后，血液 FGF23含量显著增高，切除甲状旁腺可降低血液 FGF23 含量[5]。； 血液中钙通过以下方式维持平衡：血液中钙降低促进 PTH分泌，PTH作用于远端肾单位促进钙重吸收，同时也增加肾1α-羟化酶（Cyp27b1）表达，促进活性维生素D合成，提高血液中钙含量；血液中钙含量升高促进钙、磷在肠道中吸收，通过负反馈回路抑制甲状旁腺 PTH分泌，从而降低血液中钙含量。  
+磷代谢由肠、肾脏和骨组成的内分泌反馈回路进行系统调节，其中肾脏是调节短期血液中磷含量的主要器官。FGF23 调控血液中磷含量的机制为：高血液磷含量促进骨分泌FGF23[7]，FGF23 作用于肾脏，直接下调近曲小管上皮细胞中的钠磷协同转运蛋白（NaPi)-2a 和 NaPi-2c 含量从而减少磷重吸收；抑制PTH的合成和分泌，间接影响 NaPi活性，减少尿中磷的重吸收，增加尿磷排泄；此外，FGF23 抑制活性维生素D合成，而磷在肠道的吸收依赖活性维生素D，造成肠磷吸收减少[8]，最终血磷降低。  
+FGF23与维生素D和PTH相互作用调节钙、磷代谢，降低血液钙和磷含量，反过来，高钙与高磷促进FGF23分泌。添加外源钙小幅增强FGF23 的活性，而添加钙通道阻滞剂则抑制 FGF23 的活性；在低钙并添加能上调FGF23表达的维生素D或磷的体外细胞培养试验中，并不能上调FGF23 表达[10]。
+
+# 2.2 FGF23与铁
+
+临床和转化研究表明，铁抑制骨分泌FGF23，缺铁可刺激FGF23转录，使血液FGF23含量升高。孕妇和处于青春期的青少年普遍比正常人群缺铁，更容易患常染色体显性遗传低磷性佝偻病（ADHR）[1]，血液 FGF23 和 cFGF23 含量增高且与血液铁含量负相关[12]；对于X 连锁低磷性伺偻病（XLH）患者，血液 FGF23和cFGF23 含量更高，且cFGF23与血液铁含量有显著的负相关性[13]；这些研究表明，尽管 ADHR 与 XLH 患者的发病机理不同,但血液cFGF23含量都增高，且与血液铁含量负相关。
+
+2.3 FGF23与FGFR/FGF
+
+FGF23的活性和FGF23表达受FGFR调控，研究表明，FGFR1增效剂增强FGF23启  
+动子活性，FGFR1 显性负性结构、磷脂酶C 和 MAPK 的抑制剂抑制其启动子活性[14]；用  
+FGFR1的单克隆激活抗体（R1Mab）处理野生型小鼠，提高了血液FGF23含量并引起轻微  
+低磷血症，处理小鼠成骨细胞促进FGF23mRNA表达和FGF23的分泌，而敲除FGFR1则  
+抑制了FGF23 活性[15]。成纤维细胞生长因子2（FGF2）与FGFR一起调节骨分泌FGF23，方式分别为：高分  
+子质量FGF2（HMW-FGF2)激发FGFR1信号传导，低分子质量FGF2激活细胞表面的FGFR。
+
+骨过表达HMW-FGF2促进FGF23分泌，引起低磷性伺偻病；HMW-FGF2转基因小鼠的骨髓间质细胞中存在高含量FGF23 和矿化内在缺陷，使用FGF23中和抗体、MAPK 抑制剂和FGFR 酪氨酸激酶抑制剂可以改善[16]。HMW-FGF2基因敲除小鼠，FGF23mRNA表达减少,血液磷和 PTH含量正常，骨矿物质密度增大以及成骨细胞活性增强[17]。
+
+# 2.4FGF23与蛋白质翻译后修饰
+
+调控FGF23的细胞系统不仅影响FGF23mRNA表达，而且根据实时状态逐步调节蛋白质翻译后修饰在蛋白质水平进行调控。弗林蛋白酶是一种类枯草杆菌前体蛋白转化酶，能够在FGF23179位精氨酸（ $\mathbf { A r g } ^ { 1 7 9 }$ ）和180位丝氨酸（Ser180）之间剪切从而水解FGF23，乙酰-α-D-半乳糖氨基转移酶3（GalNacT3）特异性识别FGF23178位苏氨酸（ $\mathrm { T h r } ^ { 1 7 8 }$ )，并在此位置催化FGF23O-糖基化，阻止水解，这对于保持 FGF23的稳定和维持其活性非常重要[18-19]。序列相似性家族 20 成员 C（family with sequence similarity 20,member C，FAM20c）在 Ser18处磷酸化FGF23，抑制GalNacT3 催化FGF23 O-糖基化，使 FGF23 易被胞内蛋白酶裂解[20]。序列相似性家族 20成员 A(family with sequence similarity20,memberA,FAM20a)为假激酶，可与 FAM20c 形成一个功能型复合体增强 FAM20c 的活性[21]，它们之间的转化能够增强或降低FGF23的活性。
+
+3以FGF23为靶点治疗骨矿物质代谢障碍疾病的新疗法
+
+当FGF23的分泌、活性和胞内过程异常时，能引起骨矿物质代谢障碍从而导致各种遗传性和后天获得性骨疾病。随着对FGF23研究的深入，发现了一些以FGF23为靶点的新疗法，比如抑制 FGF23 活性治疗与 FGF23 相关的获得性低磷症间质瘤-肿瘤性骨软化症[22];FGF23 中和抗体几乎完全逆转XLH小鼠低磷性佝偻病表型[23]，给 XLH患者注射抗 FGF23的单克隆抗体KRN23，患者的生化指标得到了改善，尽管血维生素D提高很多并且持续超过 50 d，但没有并发高磷血症，血液和尿中钙含量也维持在正常范围内[24]；ADHR 患者缺铁时会出现高血液FGF23含量，患者补铁后，血液中铁、磷、维生素D含量和肾小管最大磷酸盐重吸收力/肾小球滤过率等生化指标得到改善，待血液中铁含量稳定后，逐步减少直至停服佝偻病药和铁，血液 FGF23含量恢复正常，低磷血症也得到了改善[25]。
+
+# 4小结与展望
+
+钙、磷和铁是参与骨代谢重要的矿物质，它们代谢紊乱能引起各种骨疾病。FGF23 通过“骨骼-肾脏-甲状旁腺”内分泌轴，全面调节包括钙、磷和铁代谢在内的骨矿物质代谢，同时很多因素也共同影响FGF23的分泌、活性以及胞内过程，已在研究过程中探索出了一些以FGF23为靶点治疗骨矿物质代谢障碍疾病的新疗法，这刷新了人们对骨矿物质代谢的认识，FGF23已经成为目前研究的热点。
+
+畜禽骨矿物质代谢障碍疾病发病率高，危害大，不可小觑，找出发病原因并将其去除十分具有意义，这不仅可以降低普通畜禽的经济损失，而且对于具有较高价值的珍稀野生动物、宠物和特种经济动物具有特殊意义。遗憾的是，目前关于FGF23的研究主要集中在动物模型和人类，对畜禽的研究鲜有报道，而畜禽疾病与人类疾病的发生具有相似性，所以对于广大从事畜禽营养和疾病的研究者来说，可以从以下方面入手来关注 FGF23：借鉴已有的研究成果，验证血液FGF23含量与有关骨疾病的相关性，研究其能否作为独立的预测因子；在分子水平对 FGF23受体及其作用机制进行深入的理论研究，为准确确定饲料中钙、磷和铁等矿物质元素和维生素D 等维生素的添加量以及治疗骨矿物质代谢障碍疾病提供参考依据。
+
+# 117 参考文献：
+
+118 [1]SUGIMOTO H,SHINKYO R,HAYASHI K,et al.Crystal structure of CYP105A1 (P450SU-1)   
+119 in complex with 1α,25-dihydroxyvitamin $\mathrm { D } _ { 3 } [ \mathrm { J } ]$ Biochemistry,2008,47(13):4017-4027.   
+120 [2]TOXQUI L,VAQUERO M P.Chronic iron deficiency as an emerging risk factor for   
+121 osteoporosis:a hypothesis[J].Nutrients,2015,7(4):2324-2344.   
+122 [3]ITO M,SAKAI Y,FURUMOTO M,et al.Vitamin D and phosphate regulate fibroblast growth   
+123 factor-23 inK-562cels[J].AmericanJournalofPhysiology-Endocrinologyand   
+124 Metabolism,2005,288(6):E1101-E1109.   
+125 [4]MEIR T,DURLACHER K,PAN Z,et al.Parathyroid hormone activates the orphan nuclear   
+126 receptor Nurrl to induce FGF23 transcription[J].Kidney International,2014,86(6):1106-1115.   
+127 [5]LAVI-MOSHAYOFF V,WASSERMAN G,MEIR T,et al.PTH increases FGF23gene   
+128 expression and mediates the high-FGF23 levels of experimental kidney failure:a bone parathyroid   
+129 feedback loop[J].American Journal of Physiology.Renal Physiology,2010,299(4):F882-F889.   
+130 [6]BACIC D,LEHIR M,BIBER J,et al.The renal $\mathrm { { N a } ^ { + } } ,$ phosphate cotransporter NaPi- I a is   
+131 internalizedviathereceptor-mediated endocyticroute inresponse toparathyroid   
+132 hormone[J].Kidney International,2006,69(3):495-503.   
+133 [7]SHIMADA T,HASEGAWA H,YAMAZAKI Y,et al.FGF-23 is a potent regulator of vitamin D   
+134 metabolism and phosphate homeostasis[J].Journal of Bone and Mineral   
+135 Research,2004,19(3):429-435.   
+136 [8]SHIMADA T,MIZUTANI S,MUTO T,et al.Cloning and characterization of FGF23 as a   
+137 causative factor of tumor-induced osteomalacia[J].Proceedings of the National Academy of   
+138 Sciences of the United States of America,2001,98(11):6500-6505.   
+139 [9] DAVID V,DAI B,MARTIN A,et al.Calcium regulatesFGF-23expressionin   
+140 bone[JJ.End0crinol0gy,2013,154(12):446y-4482.   
+141 [10]RODRIGUEZ-ORTIZ M E,LOPEZ I,MUNOZ-CASTANEDA J R,et al.Calcium deficiency   
+142 reduces circulatinglevelsofFGF23[J].JournaloftheAmericanSociety of   
+143 Nephrology,2012,23(7):1190-1197.   
+144 [11] ECONSMJ,MCENERYPT.Autosomaldominanthypophosphatemic   
+145 rickets/osteomalacia:clinical characterization of a novel renal phosphate-wasting disorder[J].The   
+146 Journal of Clinical Endocrinology & Metabolism,1997,82(2):674-681.   
+147 [12]IMEL E A,PEACOCK M,GRAY A K,et al.Iron modifies plasma FGF23 differently in   
+148 autosomal dominant hypophosphatemic rickets and healthy humans[J].The Journal of Clinical   
+149 Endocrinology & Metabolism,2011,96(11):3541-3549.   
+150 [13]IMEL E A,GRAY A K,PADGETT L R,et al.Iron and fibroblast growth factor 23 in X-linked   
+151 hypophosphatemia[J].Bone,2014,60:87-92.   
+152 [14] XIAO Z S,HUANG J S,CAO L,et al.Osteocyte-specific deletion of Fgfr1 suppresses   
+153 FGF23[J].PLoS One,2014,9(8):e104154.   
+154 [15]WU A L,FENG B,CHEN M Z,et al.Antibody-mediated activation of FGFR1 induces   
+155 FGF23 production and hypophosphatemia[J].PLoS One,2013,8(2):e57322.   
+156 [16]XIAO L P,ESLIGER A,HURLEY M M.Nuclear fibroblast growth factor 2 (FGF2) isoforms   
+157 inhibit bone marrow stromal cell mineralization through FGF23/FGFR/MAPK in vitro[J].Journal   
+158 of Bone and Mineral Research,2013,28(1):35-45.   
+159 [17]HOMER-BOUTHIETTE C,DOETSCHMAN T,XIAO L P,et al.Knockout of nuclear high   
+160 molecular weight FGF2 isoforms in mice modulates bone and phosphate homeostasis[J].Journal of   
+161 Biological Chemistry,2014,289(52):36303-36314.   
+162 [18]BERGWITZ C,BANERJEE S,ABU-ZAHRA H,et al.Defective O-glycosylation due to a   
+163 novel homozygous S129P mutation is associated with lack of fibroblast growth factor 23 secretion   
+164 and tumoral calcinosis[J].The Journal of Clinical Endocrinology &   
+165 Metabolism,2009,94(11):4267-4274.   
+166 [19]KATO K,JEANNEAU C,TARP M A,et al.Polypeptide GalNAc-transferase T3 and familial   
+167 tumoral calcinosis.Secretion of fibroblast growth factor 23 requires O-glycosylation[J].The   
+168 Journal of Biological Chemistry,2006,281(27):18370-18377.   
+169 [20]TAGLIABRACCI V S,ENGEL J L,WILEY S E,et al.Dynamic regulation of FGF23 by   
+170 Fam20C phosphorylation,GalNAc-T3 glycosylation,and furin proteolysis[J].Proceedings of the   
+171 National Academy of Sciences of the United States of America,2014,111(15):5520-5525.   
+172 [21]CUI J X,XIAO J Y,TAGLIABRACCI V S,et al.A secretory kinase complex regulates   
+173 extracellular protein phosphorylation[J].Elife,2015,4:e06120.   
+174 [22]RYAN E A,REISS E.Oncogenous osteomalacia.Review of the world literature of 42 cases   
+175 and report of two new cases[J].American Journal of Medicine,1984,77(3):501-512.   
+176 [23] CARPENTER T O,IMEL E A,RUPPE M D,et al.Randomized trial of the anti-FGF23   
+177 antibody KRN23 in X-linked hypophosphatemia[J].Journal of Clinical   
+178 Investigation,2014,124(4):1587-1597.   
+179 [24]IMEL E A,ZHANG X P,RUPPE M D,et al.Prolonged correction of serum phosphorus in   
+180 adults with $\mathbf { \boldsymbol { x } }$ -linked hypophosphatemia using monthly doses of KRN23[J].The Journal of Clinical   
+181 Endocrinology & Metabolism,2015,100(7):2565-2573.   
+182 [25]KAPELARI K,KOHLE J,KOTZOT D,et al.Iron supplementation associated with loss of   
+183 phenotype in autosomal dominant hypophosphatemic rickets[J].The Journal of Clinical
+
+Endocrinology&Metabolism,2015,100(9):3388-3392.
+
+Fibroblast Growth Factor-23: Functions in Bone Mineral Metabolism and Regulation Mechanism DONG Zhongliang1REN Xiaoman1BU Shuyang1SHAN Aiting' WANG Yuting² YANG Jiancheng1\* (1. College of Veterinary and Animal Science, Shenyang Agricultural University, Shenyang 110866, China; 2. Shenyang 204 Hospital, Shenyang 110043, China)   
+Abstract: fibroblast growth factor-23 (FGF23) as a bone-derived hormone plays an important role   
+in bone mineral metabolism by mediating the negative feedback loops formed by parathyroid   
+gland, kidney,bone and vitamin D to constructing a bone-kidney-parathyroid gland endocrine axis.   
+The secretion, activity and intracellular processes of FGF23 are regulated by calcium, phosphate,   
+iron, Vitamin D, parathyroid hormone (PTH), fibroblast growth factor receptor (FGFR)/FGF and   
+postranslational modifications.With the increase of study on FGF23，the researchers have   
+explored new therapeutic interventions on bone mineral metabolism disorder. In order to provide   
+reference for relevant research, functions and regulation mechanism of FGF23 in bone mineral   
+metabolism were reviewed in this paper.
+
+Key words: fibroblast growth factor-23; bone mineral metabolism; calcium; phosphate; iron

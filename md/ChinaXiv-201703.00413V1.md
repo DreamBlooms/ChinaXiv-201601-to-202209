@@ -1,0 +1,180 @@
+# DOI:10.5846/stxb201510072015
+
+寇萌，焦菊英，尹秋龙.黄土丘陵沟壑区潜在抗侵蚀植物分析.生态学报,2017,37(5)：1561-1571.  
+KouMJl1561-1571.
+
+# 黄土丘陵沟壑区潜在抗侵蚀植物分析
+
+寇萌¹，焦菊英1,2,\*，尹秋龙³
+
+1中国科学院水利部水土保持研究所，黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100  
+2 西北农林科技大学水土保持研究所，杨凌712100  
+3 西北农林科技大学林学院，杨凌712100
+
+摘要;基于对黄土丘陵沟壑区延河流域多年(2003—2014年)植被调查资料的整理分析,根据抗侵蚀植物定义及 Braun-Blanquet植物社会学方法，筛选该区潜在的抗侵蚀植物，阐明不同抗侵蚀植物的分布特征及其生存繁衍能力。结果表明;1)共筛选出潜在的抗侵蚀植物42种,分属18科33属,禾本科、豆科、菊科、蔷薇科物种最多，占总物种数的 $6 6 \%$ 。2)42 种植物中 $8 5 \%$ 的物种生活型为高位芽、地上芽和地面芽植物， $7 6 \%$ 的物种生长型为灌木/小灌木和多年生草本， $78 \%$ 的物种水分生态类型为旱生和中生;结合该流域的气候条件及42种植物的分布范围,可将其分成广幅种、中幅种、窄幅种3种类型。3) $5 5 \%$ 的物种最大盖度超过 $5 0 \%$ ，可成为群落的建群种或单优种;其它最大盖度小于 $5 0 \%$ 的物种多成为群落的共优种,这些物种具有较高的盖度和地上生物量,表明植物能适应该区侵蚀环境且长势较好。4)42种植物几乎都具有土壤种子库和幼苗库， $6 0 \%$ 的物种具有植冠种子库;除一年生植物,其他植物均可进行营养繁殖,表明潜在的抗侵蚀植物均能维持自身的生存繁衍。5)42种植物中有 13 种为主杆型植物,其较大的冠幅能够保护基部土壤;8种疏丛型植物具较强的保护土体和拦截沉积物能力;6种聚丛型和7种簇丛型植物能有效拦截沉积物。总之，只占研究区记录的总物种数 $1 3 \%$ 的潜在抗侵蚀植物具有种子库和幼苗库,多年生植物以营养生殖为主,能维持自身的生存繁衍;由于植冠对其下土壤的保护和植物基部茎对沉积物的拦截,在植物基部能形成土堆,可有效控制土壤侵蚀。
+
+关键词：抗侵蚀植物；土壤侵蚀；多年生草本植物；预防径流；沉积物拦截
+
+# Potential erosion-resistant species analysis in the hill-gully region of the Loess Plateau
+
+KOU Meng'， JIAO Juying1,2,\*， YIN Qiulong³
+
+1StateKeysostfldeed Ministryof Water Resources，Yangling，712100,China   
+2InstituteofSoiland WaterConservation，NorthwestAgricultureand Forest University，Yangling7121Oo,China   
+3College ofForestry，Northwest Agriculture and Forest University，Yangling7121OO,China
+
+Abstract:TheLoess Plateauiswellknown foritssevere soil erosion.Soil erosionseverely interferes withtheprocessof plantdevelopment and succesion.However，plants do survive inthis regionof very serious soil erosion.These individuals canovercome stressanddisturbancedue tosoil erosionthrough various breeding strategies，aswellas through morphological and physiologicalcompensation.Therefore,a plantisconsidered erosion-resistantwhenitnotonlyhas survivedandadapted tothesoil erosionenvironment,butitcanalsoprotectand improvethesoil，prevent furthersoil erosion,regenerateitself, and maintain the plantcommunity'sstabilityandsustainable development.This studywas basedonseveral years（2003-
+
+2014）ofvegetationsurveydataoftheYanriverbasininthe hill-gullyregionof theLoessPlateau.Theresearchobjective was toselect potential erosion-resistantspecies，andsubsequentlyillustrate theirdistribution characteristicsand their survivaland propagationability.Thedefinitionof erosion-resistant speciesand Braun-Blanquet phytosociology methods were used to select potential erosion-resistantspecies.The mainresultswereas follows:1）Atotal of42 potential erosionresistant species were selected，which belong to18familiesand 33 genera.Gramineae，Leguminosae，Compositae，and Rosaceae species accounted for $66 \%$ of the total potential erosion-resistant species.2）Phanerophyte，chamaephytes，and hemicryptophytes were the main plant life forms，and they accounted for $8 5 \%$ of the total erosion-resistant species. Shrubs or small shrubs，and perennial herbs were the main plant growth forms，and they accounted for $76 \%$ of the total erosionresistant species.Xerophyte and mesophyte plants were the main plant water ecological types，accounting for $78 \%$ of the total erosion-resistantspecies.Furthermore，combined with theclimaticconditionsof studyarea，the42 potential erosionresistant species could be divided into three types: eurytopic species，medium amplitude species，and stenotic species.3) Overall , $5 5 \%$ of the species were erosion-resistant，having a maximum cover over $50 \%$ ，and could be the structural or single dominant species in a community. Maximum cover of the other species was less than $50 \%$ ，and these species usually were the co-dominant species.Allpotential erosion-resistantspecieshada high cover and aboveground biomass，indicating that thesespecies could adapt todiferent erosionenvironmentsandgrowadequately.4）Almost all42 potential erosionresistant species had a soil seed bank and seedling emergence，and $60 \%$ erosion-resistant species had canopy seed bank. Exceptforannual plants，alspecies wereable toreproduceasexually.Thisresultindicatedthat thepotential erosionresistant species could maintain their own survival and reproduction.5）From the 42 potential erosion-resistant species，13 hadabasal stem-shot architecture，withalarge crown thatcanprotect thebase soil.Furthermore，eight species have an expanding shoot architecture，which displayastrong ability toprotectthesoiland interceptsediments.In addition，six species havedense shootarchitecture，andseven haveatussock-forming shootarchitecture.Both types caneffectively intercept sediments.In conclusion，the potential erosion-resistant species，which only occupied $13 \%$ of the total species recorded,hadaseedand sedlingbank.Furthermore，the perennial plants mainly employed vegetativereproduction，and could maintain theirown survival and reproduction.Because the plant crowns can protectthe soil surface and plant base stems can interept sediments，a mound canbe formed inthe plant base，which willeffctivelycontrol soil erosion.
+
+Key Words:erosion-resistant species；soil erosion；perennial herbs；runoff prevention；sediment interception
+
+黄土丘陵沟壑区位于半湿润半干旱向干旱荒漠地区的过渡地带，由于地理位置的过渡性、地形地貌的复杂性、土壤的易蚀性及人类对土地的过度利用,该区生态环境不断恶化，侵蚀强烈，已成为我国水土流失与生态环境问题最严重的地区之一[1]。土壤侵蚀对植物的胁迫与干扰是植被发育与恢复演替的重要限制因子[2],其对植物的影响始于种子形成发育,贯穿于植物整个生长发育过程,进而影响着植被恢复演替的进程与方向[3-4]。尽管土壤侵蚀限制植被的发育与演替,在土壤侵蚀非常严重的地段仍有植物生存[5],这些植物可通过采用不同的生存策略适应和抵抗土壤侵蚀造成的各种胁迫与干扰,并能发展为可抵抗土壤侵蚀的植物群落[6]。在有关土壤侵蚀与植被恢复的研究中,出现了“抗侵蚀植物(erosion-resistant species）”一词,如在芬兰北部沿海地区侵蚀沙地,Carexrostrata 和Salix phylicifolia成活率较高(分别为 $3 0 \%$ 和 $8 0 \%$ ),因而被认为是该区的抗侵蚀植物[7];在西班牙北部,Erucastrum nasturtifolium,Lithodora fruticosa 和 Santolinach amaecyparissus3个物种在泥灰岩区的高侵蚀区域和黏土区的轻度侵蚀区域出现频率较高,因此在这2种区域可作为抗侵蚀植物[2]。然而,植物可以有效控制土壤侵蚀依靠其自身特性,但如何筛选可有效控制土壤侵蚀的植物种?Albaladejo 等[8]采用植物物种的萌发和建植能力、满足恢复目标的适合程度(如改善土壤稳定性和土壤肥力)及对生态条件和景观美学的考虑来选择适合的植物种;Quinton 等[9]做了一张关于对地中海畧荒地植被恢复可能相关的物种的生态和生物工程特性的清单,以此选择可有效控制土壤侵蚀的物种。也有研究认为,植物可以依靠自身的植物构型和机械特性有效控制土壤侵蚀[10],Baets 等[11]建立了关于植物自身构型和机械特性的方法论体系,用于筛选西班牙东南部典型半干旱退化区域的抗侵蚀植物。邹厚远和焦菊英[6]在总结前人研究的基础上,给出了抗侵蚀植物的定义,即将凡具有适应土壤侵蚀环境,能在土壤侵蚀条件下生存,并能保护改良土壤和具有防止土壤侵蚀作用,具有繁殖更新能力,可维持群落稳定与可持续发展的植物,称之为抗侵蚀植物,并分析了黄土丘陵沟壑区植被恢复过程中不同抗侵蚀植物的消长变化特征,但这仅是基于多年研究经验的定性描述[12]。因此,本研究将在黄土丘陵沟壑区延河流域,以不同侵蚀环境下的植被恢复生态系统为研究对象,筛选该区潜在抗侵蚀植物,分析不同侵蚀环境下抗侵蚀植物的分布特征,阐明植被恢复过程中不同抗侵蚀植物的生存、繁衍与更新能力及对侵蚀环境的改善能力,为该区植被自然修复与人工植被重建中的物种合理选择与配置提供理论依据。
+
+# 1研究区与研究方法
+
+# 1.1 研究区概况
+
+本研究选取黄土丘陵沟壑区延河流域( $3 6 ^ { \circ } 2 3 ^ { \prime } - 3 7 ^ { \circ } 1 7 ^ { \prime } \mathrm { N } , 1 0 8 ^ { \circ } 4 5 ^ { \prime } - 1 1 0 ^ { \circ } 2 8 ^ { \prime } \mathrm { E } )$ 作为研究区（图1）。延河流域位于陕西省北部，总面积 $7 6 8 7 \mathrm { k m } ^ { 2 }$ ,海拔495— $1 7 9 5 \mathrm { ~ m ~ }$ ;流域属暖温带大陆性半干旱季风气候,年均温$8 . 8 \mathrm { - } 1 0 . 2 ~ \mathrm { ^ { \circ } C }$ ,年均降水约 $5 0 0 ~ \mathrm { m m }$ ,其中7—9月降雨量占全年降雨量 $6 0 \%$ 以上[13]。延河流域气候具有明显的梯度变化特征,从东南向西北降水减少、温度降低;植被随环境梯度变化同样明显,从南向北依次为森林带、森林草原带和草原带[14]。流域南部为森林带北缘,土壤多是黄绵土,主要建群种为辽东栎（Quercusliaotungensis）、侧柏(Platycladus orientalis)等,灌木有黄刺枚（Rosa xanthina）、虎榛子（Ostryopsis davidiana）、丁香（Syringa pekinensis）、绣线菊（Syringa pekinensis）等,草本植物有大披针薹草（Carex lanceolata)等;流域中部为森林草原带,土壤以黄绵土为主,乔木以刺槐（Robinia psendoacacia）、小叶杨（Populus simonii)为主,灌木主要是人工柠条（Caragana intermedia）、沙棘（Hippophae rhamnoides）及封禁后自然恢复的黄刺玫、狼牙刺（Sophora vicifolia）等,草本植物主要有铁杆蒿（Artemisia gmelinii）、长芒草（Stipa bungeana）、白羊草（Bothriochloa ischaemun）、达乌里胡枝子（Lespedeza davurica)等;流域北部是草原带,土壤主要是黄棕壤和黄褐土,植被属温带干旱草原型,草木植物主要有茭蒿（Artemisia giraldii）、冷蒿（Artemisia frigida）、猪毛蒿（Artemisia scoparia）、百里香（Thymus mongolius）等[15]。
+
+![](images/b3dbd905cdc556c5ad7e19a325ef5704c39b254cac06dd6f16a157789b46a150.jpg)  
+图1延河流域样地分布示意图  
+Fig.1The location of Yan river basin and sampling plots
+
+# 1.2 研究方法
+
+# 1.2.1 样地选择与调查
+
+本研究收集整理了课题组2003—2014年在延河流域的所有植被调查资料(共720个样地)（图1）。植被调查样方大小视植被类型而定，乔木为 $1 0 \ \mathrm { m } { \times } 1 0 \ \mathrm { m }$ ,灌木为 $5 ~ \mathrm { m } \times 5 ~ \mathrm { m }$ ,草地为 $2 { \mathrm { ~ m } } { \times } 2 { \mathrm { ~ m } }$ ,乔木有一个样方，样方灌草样地至少有3个样方重复,记录植被样方内物种多度、高度、盖度、冠幅,并采集测定草木层和灌木层地上生物量。
+
+# 1.2.2 潜在抗侵蚀植物的筛选
+
+依据抗侵蚀植物的定义[6]可知,植物在土壤侵蚀条件下必须具有一定的覆盖度，即说明植物生长发育状况良好,在群落中占有优势地位,才可维持群落的稳定与可持续发展。群落优势种由群落特征种和恒有伴生种组成,因而,按照 Braun-Blanquet 的植物社会学法来确定群落优势种[16]与金振洲[17],以此来划分抗侵蚀植物，即确限度在3级以上（个体数量不考虑，盖度大于 $2 5 \%$ )的物种为群落特征种；确限度2级（盖度在 $5 \%$ 一$2 5 \%$ ,或数量很多而盖度在 $5 \%$ 以下)的物种为伴生种,如果伴生种的存在度大于 $6 0 \%$ ,称之为恒有伴生种,这些物种为群落优势种。因此，凡物种出现的最大盖度大于 $2 5 \%$ 或存在度大于 $6 0 \%$ ,即为潜在抗侵蚀植物。其中,物种存在度是根据各物种出现于所有样地的百分数来确定。
+
+# 1.2.3生长特征调查分析
+
+潜在抗侵蚀植物的生长特征(包括植物盖度、密度、高度、生物量)数据通过所有样地植被调查获得。各物种的种子库、幼苗库和营养繁殖体特征、枝系构型的调查分析基于纸坊沟流域的调查资料(具体实验方法见文献[13,18]）、植物志和相关文献资料的查阅[19-20]。
+
+# 2结果与分析
+
+# 2.1 潜在抗侵蚀植物的筛选
+
+统计分析黄土丘陵沟壑区延河流域720个样地的植被调查资料,共记录物种68科196属321种。其中,禾本科25属40种,菊科23属51种,豆科16属31种,蔷薇科15属30种。这4科共占属、种总数的 $4 0 \%$ 、$4 7 \%$ 。可见,黄土丘陵沟壑区约一半的物种都是由菊科、豆科、蔷薇科、禾本科组成,这4科物种在该区广泛分布。本研究筛选出42种潜在抗侵蚀植物，占总物种数的 $1 3 \%$ ,分属于18科33属。在该区广泛分布的禾本科(9 种）菊科(7种）豆科(7种）蔷薇科(5种)物种较多，占抗侵蚀植物总数的 $6 6 \%$ ;其它14科均为单属单种(表1)。分布较多的4科是该区退耕地植被恢复演替过程中主要的植物组成[15]。据李登武[21]统计,陕北黄土高原地区（面积约9.3万 $ { \mathrm { k m } } ^ { 2 }$ )共有野生植物1350 种,隶属于123 科542 属,占黄土高原地区（面积64万$ { \mathrm { k m } } ^ { 2 }$ )总物种数的 $4 1 . 9 \%$ ,其中菊科、禾本科、蔷薇科、豆科为大科,另外还有毛茛科、藜科、唇形科、莎草科、蓼科、百合科、十字花科、石竹科、虎耳草科、杨柳科、玄参科、伞形科、忍冬科、龙胆科、罂粟科、大戟科和紫草科的物种分布较多。延河流域面积0.77万 $ { \mathrm { k m } } ^ { 2 }$ ,其区域物种库主要有205种植物,分属58科155属，占到上述陕北地区物种数的 $1 5 \%$ ,属数的 $2 8 \%$ ,科数的 $4 7 \%$ 。黄土高原地区菊科、禾本科、豆科、蔷薇科4大科在物种库内的物种组成中占很大比例[13]。在本研究中,这4大科的物种分布最广泛,因而导致在筛选该区潜在的抗侵蚀植物时，这4科的物种所占比例较高。
+
+# 2.2潜在抗侵蚀植物的生态学组成
+
+采用 Raunkiaer的生活型分类系统（以植物度过不利时期时复苏芽或繁殖器官所处的位置和保护的方式为依据),可将42种抗侵蚀植物分为高位芽植物、地上芽植物、地面芽植物、一年生植物和地下芽植物 5类（图2A)。其中,高位芽植物(12种）、地上芽植物(11种)和地面芽植物(13种)最多，占总物种数的（204号 $8 5 \%$ ,体现了该区暖温带半干旱区植被分布的地带性特征[22]。一年生草本植物有狗尾草、猪毛菜、猪毛蒿3种,地下芽植物有阿尔泰狗娃花、长芒草、野菊3种。乔、灌木多为高位芽或地上芽植物,多年生草本多为地面芽植物。
+
+表1潜在抗侵蚀植物  
+Table 1The potential erosion-resistant species   
+
+<html><body><table><tr><td colspan="9">TableTTnepotentialerosion-resistantspecies</td></tr><tr><td>物种</td><td></td><td></td><td>Fily</td><td>Cer</td><td></td><td>生活型</td><td></td><td>D布</td></tr><tr><td>侧柏Platycladus orientalis</td><td>40</td><td>1</td><td>柏科</td><td>侧柏属</td><td>T</td><td>PH</td><td>中生</td><td>8</td></tr><tr><td>辽东栎 Quercus wutaishanica</td><td>75</td><td>1</td><td>壳斗科</td><td>栎属</td><td>T</td><td>PH</td><td>中生</td><td>9</td></tr><tr><td>三角槭 Acer buergerianum</td><td>50</td><td>1</td><td>槭树科</td><td>槭属</td><td>T</td><td>PH</td><td>中生</td><td>8</td></tr><tr><td>刺槐 Robinia pseudoacacia</td><td>55</td><td>9</td><td>豆科</td><td>刺槐属</td><td>T</td><td>PH</td><td>中生</td><td>9</td></tr><tr><td>虎榛子Ostryopsis davidiana</td><td>90</td><td>3</td><td>桦木科</td><td>虎榛子属</td><td>S</td><td>PH</td><td>中生</td><td>14</td></tr><tr><td>黄刺玫 Rosa xanthina</td><td>60</td><td>5</td><td>蔷薇科</td><td>蔷薇属</td><td>S</td><td>PH</td><td>中生</td><td>8</td></tr><tr><td>土庄绣线菊 Spiraea pubescens</td><td>25</td><td>3</td><td>蔷薇科</td><td>绣线菊属</td><td>S</td><td>CH</td><td>旱中生</td><td>8</td></tr><tr><td>水枸子Cotoneaster multiflorus</td><td>70</td><td>3</td><td>蔷薇科</td><td>枸子属</td><td>S</td><td>PH</td><td>中生</td><td>8</td></tr><tr><td>酸枣 Ziziphus jujuba</td><td>40</td><td>5</td><td>鼠李科</td><td>枣属</td><td>S</td><td>CH</td><td>旱生</td><td>15</td></tr><tr><td>狼牙刺 Sophora davidii</td><td>95</td><td>17</td><td>豆科</td><td>槐属</td><td>S</td><td>PH</td><td>旱生</td><td>9</td></tr><tr><td>紫丁香 Syringa oblata</td><td>55</td><td>7</td><td>木樨科</td><td>丁香属</td><td>SL</td><td>PH</td><td>中生</td><td>10</td></tr><tr><td>杠柳 Periploca sepium</td><td>35</td><td>20</td><td>萝摩科</td><td>杠柳属</td><td>S</td><td>PH</td><td>中旱生</td><td>6</td></tr><tr><td>河朔莞花 Wikstroemia chamaedaphne</td><td>70</td><td>5</td><td>瑞香科</td><td>荠花属</td><td>S</td><td>CH</td><td>旱中生</td><td>14</td></tr><tr><td>柠条锦鸡儿 Caragana korshinskii</td><td>70</td><td>9</td><td>豆科</td><td>锦鸡儿属</td><td>S</td><td>PH</td><td>强旱生</td><td>11</td></tr><tr><td>沙棘 Hippophae rhamnoides</td><td>90</td><td>5</td><td>胡颓子科</td><td>沙棘属</td><td>S</td><td>PH</td><td>中生</td><td>10</td></tr><tr><td>茅莓 Rubus parvifolius</td><td>30</td><td>4</td><td>蔷薇科</td><td>茅莓属</td><td>SL</td><td>CH</td><td>中生</td><td>8</td></tr><tr><td>灌木铁线莲 Clematis fruticosa</td><td>25</td><td>18</td><td>毛茛科</td><td>铁线莲属</td><td>SL</td><td>CH</td><td>中旱生</td><td>1</td></tr><tr><td>多花胡枝子 Lespedeza floribunda</td><td>29</td><td>4</td><td>豆科</td><td>胡枝子属</td><td>SL</td><td>CH</td><td>旱生</td><td>9</td></tr><tr><td>达乌里胡枝子 Lespedeza daurica</td><td>80</td><td>84</td><td>豆科</td><td>胡枝子属</td><td>SL</td><td>CH</td><td>旱生</td><td>9</td></tr><tr><td>尖叶铁扫帚 Lespedeza juncea</td><td>35</td><td>10</td><td>豆科</td><td>胡枝子属</td><td>SL</td><td>CH</td><td>旱生</td><td>9</td></tr><tr><td>茭蒿 Artemisia giraldii</td><td>97</td><td>50</td><td>菊科</td><td>蒿属</td><td>SS</td><td>CH</td><td>中旱生</td><td>8</td></tr><tr><td>铁杆蒿 Artemisia gmelinii</td><td>90</td><td>81</td><td>菊科</td><td>蒿属</td><td>SS</td><td>CH</td><td>旱生</td><td>8</td></tr><tr><td>百里香 Thymus mongolicus</td><td>50</td><td>8</td><td>唇形科</td><td>百里香属</td><td>SS</td><td>H</td><td>旱生</td><td>10</td></tr><tr><td>冷蒿 Artemisia frigida</td><td>40</td><td>4</td><td>菊科</td><td>蒿属</td><td>P</td><td>H</td><td>旱生</td><td>8</td></tr><tr><td>阿尔泰狗娃花 Heteropappus altaicus</td><td>14</td><td>77</td><td>菊科</td><td>狗娃花属</td><td>P</td><td>G</td><td>旱生</td><td>14</td></tr><tr><td>白羊草 Bothriochloa ischcemum</td><td>95</td><td>39</td><td>禾本科</td><td>孔颖草属</td><td>P</td><td>H</td><td>中旱生</td><td>2</td></tr><tr><td>北京隐子草 Cleistogenes hancei</td><td>25</td><td>17</td><td>禾本科</td><td>隐子草属</td><td>P</td><td>H</td><td>旱生</td><td>1</td></tr><tr><td>糙隐子草 Cleistogenes squarrosa</td><td>62</td><td>36</td><td>禾本科</td><td>隐子草属</td><td>P</td><td>H</td><td>旱生</td><td>10</td></tr><tr><td>中华隐子草 Cleistogenes chinensis</td><td>25</td><td>37</td><td>禾本科</td><td>隐子草属</td><td>P</td><td>H</td><td>旱生</td><td>10</td></tr><tr><td>长芒草 Stipa bungeana</td><td>84</td><td>82</td><td>禾本科</td><td>针茅属</td><td>P</td><td>G</td><td>旱生</td><td>8</td></tr><tr><td>大针茅 Stipa grandis</td><td>68</td><td>19</td><td>禾本科</td><td>针茅属</td><td>P</td><td>CH</td><td>旱生</td><td>8</td></tr><tr><td>赖草 Leymus secalinus</td><td>62</td><td>24</td><td>禾本科</td><td>赖草属</td><td>P</td><td>H</td><td>中旱生</td><td>8-5</td></tr><tr><td>芦苇Phragmites australis</td><td>25</td><td>15</td><td>禾本科</td><td>芦苇属</td><td>P</td><td>HG</td><td>湿生</td><td>1</td></tr><tr><td>大披针臺草 Carex lanceolata</td><td>62</td><td>11</td><td>莎草科</td><td>墓草属</td><td>P</td><td>H</td><td>湿生</td><td>1</td></tr><tr><td>菊叶委陵菜Potentilla tanacetifolia</td><td>39</td><td>37</td><td>蔷薇科</td><td>委陵菜属</td><td>P</td><td>H</td><td>中旱生</td><td>8</td></tr><tr><td>蒙古蒿 Artemisia mongolica</td><td>25</td><td>21</td><td>菊科</td><td>蒿属</td><td>P</td><td>CH</td><td>中生</td><td>8</td></tr><tr><td>野菊 Chrysanthemum indicum</td><td>36</td><td>14</td><td>菊科</td><td>菊属</td><td>P</td><td>G</td><td>中生</td><td>8</td></tr><tr><td>山野豌豆 Vicia amoena</td><td>43</td><td>21</td><td>豆科</td><td>野豌豆属</td><td>P</td><td>H</td><td>中生</td><td>8</td></tr><tr><td>异叶败酱Patrinia heterophylla</td><td>30</td><td>16</td><td>败酱科</td><td>败酱属</td><td>P</td><td>H</td><td>中旱生</td><td>14</td></tr><tr><td>狗尾草 Setaria viridis</td><td>30</td><td>27</td><td>禾本科</td><td>狗尾草属</td><td>A</td><td>TH</td><td>中生</td><td>2</td></tr><tr><td>猪毛菜 Salsola collina</td><td>80</td><td>22</td><td>黎科</td><td>猪毛菜属</td><td>A</td><td>TH</td><td>旱生</td><td>1</td></tr><tr><td>猪毛蒿 Artemisia scoparia</td><td>70</td><td>51</td><td>菊科</td><td>蒿属</td><td>A</td><td>TH</td><td>旱生</td><td>8</td></tr></table></body></html>
+
+生长型 SS:半灌木sub-shrub,P:多年生草本 pereialherb,S:灌木shrub,T:乔木tree,SL;小灌木dwarfshrub,A:1年生草本anual herb;生活型;PH:高位芽植物phaen erophytes,CH;地上芽植物chamaephytesm,H;地面芽植物hemicryptophytes,HG;地面-地下芽植物hemicryptophytes-geophytes,G:地下芽植物 geophytes,TH:1年生草本therophytes;地理分布:1世界分布,2泛热带分布,6热带亚洲至热带非洲分布,8北温带分布，8—5 欧亚和南美洲温带间断分布,9东亚和北美间断分布,10旧世界温带分布,11温带亚洲分布,14东亚分布,15中国特有分布
+
+![](images/51a847490f6373527d93822336f2bcd85196dc2194e79d04178496116be0f868.jpg)  
+图242种潜在抗侵蚀植物的生长型、生活型及水分生态类型组成  
+Fig.2Growth form,life form and ecological type of 42 potential erosion-resistant species
+
+T:乔木 tree, $\mathrm { s / S L }$ :灌木/小灌木 shrub/dwarf shrub,SS:半灌木 sub-shrub,P:多年生草本 perennial herb,A:1年生草本 annual herb;PH:高位芽植物phaenerophytes,CH;地上芽植物chamaephytesm,H;地面芽植物hemicrpophytes,TH;一年生植物therophytes,G;地面芽植geopytes。XE;旱生 xeromorphic plant,XM:旱中生 xero-mesophyte plant,MX:中旱生 meso-xeromorphic plant,ME:中生 mesophyte plant
+
+按Whitaker的生长型系统(以植物的形状类别为依据)将42种抗侵蚀植物分为乔木、灌木/小灌木、半灌木、多年生草本、一年生草本植物5类(图2B)。其中,灌木/小灌木(16种)和多年生草本(16种)植物最多，占总物种数的 $7 6 \%$ ;乔木有侧柏、辽东栎、三角槭、刺槐4种,半灌木有茭蒿、铁杆蒿、百里香3种,一年生草本植物有狗尾草、猪毛菜、猪毛蒿3种。
+
+水分条件是半干旱区影响植物生长的主导和限制因子[23],本研究依据《中国植被》[24]与《陕西植被》[25]中的描述对42 种抗侵蚀植物的水分生态类型进行划分,植物水分生态类型以旱生(17种)和中生（14种)为主（图2C），占总物种数的 $78 \%$ ,其中,旱生植物多为草本植物、半灌木和小灌木,中生植物多为乔、灌木;另外,中旱生/旱中生植物有9种,占总物种数的 $2 2 \%$ 。
+
+由于地带性气候条件决定了植被类型,本研究区主要植被类型是疏林草原与灌木草原,本区自东南向西北气温和降雨量逐渐降低,东南部以疏林草原占优势,西北部以灌木草原占优势,乔木种类较少,调查到的有29 种,且全部来自森林区,草本植物(一年生和多年生植物共235种)分布最多,也有一定数量的的灌木物种（包括半灌木/小灌木共57种);灌木、半灌木和草本物种多以旱生种类为主,中生种类也占有一定比例[26]。因此,该区气候的自然选择决定了植被生长型主要以灌草为主,植物水分生态类型以中生、旱生植物为主[18]。
+
+# 2.3潜在抗侵蚀植物的分布特征
+
+结合延河流域的气候条件[27],将42 种植物分成3种类型;广幅种、中幅种和窄幅种(表2）。
+
+广幅种即为广布于延河流域(年均降雨量在 $4 2 0 { \ - } { \ - } 5 4 0 \ \mathrm { m m }$ )的物种,包括沙棘、达乌里胡枝子、茭蒿、铁杆蒿、猪毛蒿、阿尔泰狗娃花、长芒草、芦苇,以及分布于阳坡的狼牙刺、白羊草和分布于阴坡的大针茅11种植物。
+
+中幅种占潜在抗侵蚀植物的 $5 9 \%$ ,按出现的区域分为4种：分布于延河流域年均降雨量在 $4 7 0 { \mathrm { - } } 5 4 0 \ \mathrm { m m }$ 间的中南部区域,主要有刺槐、丁香、杠柳、水枸子、大披针草,以及分布于阴坡的虎榛子、黄刺玫、野菊、异叶败酱,共9种植物,此区域降水量较高,多为乔灌木,草本植物也多属于中生植物;分布于延河流域年均降雨量在 $4 5 0 { \mathrm { - } } 5 0 0 \ \mathrm { m m }$ 间的区域,主要有旱生禾草糙隐子草、中华隐子草、北京隐子草、狗尾草和菊科蒙古蒿,共 5种植物;分布于延河流域年均降雨量在 $4 7 0 { \mathrm { - } } 5 0 0 \ \mathrm { m m }$ 间的区域,主要有酸枣,以及分布于阳坡的菊叶委陵菜和分布于阴坡的尖叶铁扫帚、茅莓、多花胡枝子、山野豌豆,共6种植物;分布于延河流域年均降雨量在 420—$5 0 0 ~ \mathrm { m m }$ 间的中北部区域,主要有灌木铁线莲、赖草、柠条锦鸡儿,以及分布于阳坡的猪毛菜,共4种植物。
+
+表2潜在抗侵蚀植物的空间分布特征  
+Table 2Spatial distribution of potential erosion-resistant species   
+
+<html><body><table><tr><td>分布类型 Distribution type</td><td>分布范围 Distribution range</td><td>坡向 Aspect</td><td>坡度 Slope /(°)</td><td>物种 Species</td></tr><tr><td>广幅种 Generalist species</td><td>广布延河流域,年均降雨量在 420—540 mm 间</td><td>无限制</td><td>3-50</td><td>沙棘，达乌里胡枝子，茭蒿， 铁杆蒿,长芒草，猪毛蒿，阿</td></tr><tr><td rowspan="5">中幅种 Medium amplitude species</td><td rowspan="5">分布于延河流域年均降雨量在</td><td>阳坡</td><td>5-50</td><td>尔泰狗娃花，芦苇 狼牙刺，白羊草</td></tr><tr><td>阴坡</td><td>5-37</td><td>大针茅</td></tr><tr><td>无限制 470—540 mm 间的中南部区域</td><td>15—40</td><td>刺槐，丁香，杠柳,水枸子，大 披针草</td></tr><tr><td>阴坡</td><td>10—50</td><td>虎榛子，黄刺玫，野菊，异叶</td></tr><tr><td>分布于延河流域年均降雨量在 无限制</td><td>15—40</td><td>败酱 灌木铁线莲，赖草</td></tr><tr><td rowspan="8">450—500 mm 间的区域</td><td>420—500mm间的中北部区域</td><td></td><td>5—41</td><td>柠条锦鸡儿</td></tr><tr><td rowspan="3">分布于延河流域年均降雨量在</td><td>阳坡</td><td>20—30</td><td>猪毛菜</td></tr><tr><td>无限制</td><td>5-31</td><td>糙隐子草，中华隐子草，北京</td></tr><tr><td></td><td>20-30</td><td>隐子草,狗尾草 蒙古蒿</td></tr><tr><td rowspan="3">分布于延河流域年均降雨量 在 470—500 mm 间的区域</td><td>无限制</td><td>5-31</td><td>酸枣</td></tr><tr><td>阳坡</td><td>20—35</td><td>菊叶委陵菜</td></tr><tr><td>阴坡</td><td>10—35</td><td>尖叶铁扫帚，茅莓</td></tr><tr><td></td><td></td><td>25—45</td><td>多花胡枝子，山野豌豆</td></tr><tr><td>窄幅种</td><td>分布于延河流域年均降雨量</td><td>阳坡</td><td>30-40</td><td>侧柏</td></tr><tr><td rowspan="3">Stenotopic species</td><td>>500 mm 的南部区域</td><td>阴坡</td><td>20-—50</td><td>辽东栎，三角槭，土庄绣线菊</td></tr><tr><td>分布于延河流域年均降雨量</td><td>阳坡</td><td>17—28</td><td>河朔莞花</td></tr><tr><td><450 mm 的北部区域</td><td></td><td>6-30</td><td>百里香</td></tr><tr><td></td><td></td><td>阴坡</td><td>3-30</td><td>冷蒿</td></tr></table></body></html>
+
+窄幅种按出现的区域可分为2种：分布于延河流域年均降雨量 $>$ $5 0 0 ~ \mathrm { m m }$ 的南部区域的中生乔灌木,主要有分布于阳坡的侧柏和分布于阴坡的辽东栎、三角槭、土庄绣线菊,共4种植物;分布于延河流域年均降雨量在 $< 4 5 0 ~ \mathrm { m m }$ 的北部区域,主要有分布于阳坡的河朔莞花、百里香和分布于阴坡的冷蒿,共3种植物。
+
+植物在空间的分布是植物对不同侵蚀环境响应的集中表现。由于本研究区地形地貌在大的方面影响着水热分配及人类活动的历史过程,因而从较大的尺度决定了地带性物种、不同生态型物种的空间分布;退耕时间决定了群落恢复演替阶段,同时影响物种迁移到恢复地的概率,进而影响地上植被组成;残留斑块种源与恢复地的距离及物种扩散能力、繁殖能力、更新能力、寿命等影响这些物种扩散到退耕恢复地并形成种群或群落的速度[13]。在不同生境中,演替过程中的一年生杂草猪毛蒿,多年生草本达乌里胡枝子、长芒草、阿尔泰狗娃花等,半灌木铁杆蒿、茭蒿等在全区均有分布,随演替时间的推进逐步出现,基本上不受地形条件的影响。随着演替的进行,植被类型逐渐出现生境分化,如分布于阳坡的侧柏、狼牙刺、白羊草,阴坡的辽东栎、黄刺玫、虎榛子、披针叶草、野菊等[28]。一些地带性乔灌物种(辽东栎、三角槭等)多分布在局部陡峭的沟坡,但是,这些物种能在本研究区形成群落,而且历史资料也表明在植被遭受人为破坏之前，这些物种能够形成分布范围广且生长良好的群落[2-30]。百里香和冷蒿是荒漠草原特征植物,是草原旱生匍匐小半灌木,一般不进入森林草原地带,它们的出现是由于疏林草原与灌木草原植被破坏后,强烈的水蚀和风蚀及过度放牧造成了局地微气候和基质旱化的结果[31]。
+
+# 2.4潜在抗侵蚀植物的生存、繁衍与更新能力
+
+通过对42种潜在抗侵蚀植物的盖度统计发现(表3），物种平均盖度在 $2 5 \%$ 一 $. 5 8 \%$ 之间,其中 $5 5 \%$ 物种最大盖度超过 $5 0 \%$ ,作为群落建群种或单优种存在;部分物种如灌木铁线莲、茅莓、多花胡枝子、尖叶铁扫帚、阿尔泰狗娃花、北京隐子草、菊叶委陵菜、蒙古蒿、山野豌豆、异叶败酱、中华隐子草最大盖度小于 $5 0 \%$ ,多与其它物种成为群落共优种,构成不同组合的植物群落类型。当这些物种在群落中具有较高的盖度时,相应地物种密度及地上生物量也较高,而较高的覆盖度及地上生物量则表明植物能适应所处环境而且长势较好[32]因此,可以认为这42种植物适应研究区的侵蚀环境,且生长发育状况良好,具有较强的生存能力[16]。
+
+植物维持自身生存可通过有性生殖和营养繁殖两种方式。大多数植物可通过土壤种子库更新,土壤种子库既可让种子避免各种威胁,又可为植物群落演替及其遭受干扰后的更新与恢复提供种源[33]。通过在纸坊沟小流域的土壤种子库鉴定结果[13]与文献查阅[34-35],除未发现河朔尧花,其它41种植物均具有土壤种子库,具有持久土壤种子库和短暂土壤种子库的物种各有13和12种（表3)。大部分抗侵蚀植物的种子能在合适条件下迅速萌发。
+
+有些植物可将种子储存在植冠中推迟脱落,形成植冠种子库,种子的延缓传播可使繁殖体避免被捕食及不可预测干扰等带来的威胁,也能补充土壤种子库,为土壤种子库提供持续供给[36]。冠层宿存的种子多在冬、春季散落,利于随风长距离传播及在春季萌发。通过野外观测与文献查阅[20,37],发现42种潜在抗侵蚀植物中25 种植物具有形成植冠种子库的潜力,包括乔木侧柏、辽东栎、刺槐,灌木黄刺玫、土庄绣线菊、水枸子、酸枣、醉鱼草、狼牙刺、杠柳、沙棘,小灌木紫丁香、灌木铁线莲、达乌里胡枝子、尖叶铁扫帚,半灌木茭蒿、铁杆蒿;草本植物有大针茅、赖草、芦苇、菊叶委陵菜、蒙古蒿、狗尾草、猪毛菜、猪毛蒿8种(表3）。
+
+种子萌发、幼苗存活是从种子到植株过渡的关键阶段,也是对环境最为敏感的时期[38]。通过在纸坊沟小流域的幼苗调查[13,39]与文献查阅[40],除河朔荠花、虎榛子2种植物外,其它40 种植物均观测到幼苗（表3）。表明这些物种能够通过种子库萌发、幼苗建植而实现植被的自然更新、演替。
+
+营养繁殖在自然生态系统中普遍存在,尤其是在激烈竞争和胁迫的生境中,更占有重要地位[41]。根据野外调查及植物志查阅[13],明确了42种潜在抗侵蚀植物中除一年生植物外，其它植物均可进行营养繁殖。其中,根出条型物种有7种;根茎型物种有17种;匍匐茎型物种3种;6种禾本科植物为分藥型（表3）。在研究区较恶劣的环境中,克隆植物的后代由母体供养,更容易安全度过幼龄期,实现成功定居。因此,这些具营养繁殖的物种有利于提高个体的生存和竞争力,有利于种群迅速扩散和传播,在恶劣环境中较有性繁殖具有更强的适应性。
+
+# 2.5潜在抗侵蚀植物对侵蚀环境的改善能力
+
+由于植冠对其下土壤的保护和植物基部茎对沉积物的拦截,在植物基部能形成土堆，这种土堆微地形能将"植被间地"侵蚀掉的养分水分拦截汇聚,加之植物根系对植物基部周围土壤养分元素的吸收,形成一个微型的"资源岛”,可改善土壤侵蚀环境[42-43]。植物枝系构型在植物土堆形成中起着介导作用[44],在缓坡和陡坡条件下,土堆主要是由植物冠幅内外不对称的溅蚀形成,植物冠幅外溅蚀强于冠幅覆盖土体,使植物基部土壤得以保护,形成土堆;在极陡坡与险坡条件下,土堆的形成主要是由于植物冠幅外土壤表面径流侵蚀造成土壤表面下降,而植物冠幅下土壤得到保护,同时坡面上部所来泥沙、枯落物由于植物茎的拦截堆积在植物基部,综合作用形成土堆[18]。
+
+植物冠幅大小和基部枝条数量在植物土堆形成过程中起着重要作用。依据植物冠幅及基部形态可将植物分为4种,主杆型;单轴分枝的多年生落叶乔灌木,基部通常有一或两个主杆茎,在株高中部处分枝;疏丛型;多年生落叶草本,地下根茎发达,可产生芽并进行横向扩展,占领相对较大的区域;聚丛型：合轴式分枝的多年生小灌木或草本,在基部形成新梢和向外扩张的密集分枝;簇丛型;多年生禾草,基部有许多紧密排列的分蘖枝,在研究区通常形成环状草丛[45]。42 种潜在抗侵蚀植物中 $8 1 \%$ 的物种枝系构型属于这4种(表3）,主杆型植物(如侧柏、辽东栎、三角槭、刺槐、虎榛子、黄刺玫、土庄绣线菊、水枸子、狼牙刺、紫丁香、杠柳、河朔荠花、沙棘)以其较大的冠幅保护了基部土壤,但较高的冠幅在截留雨水方面能力较弱,其主杆型结构对沉积物的拦截效果也较差,因此形成的土堆面积随坡度增大迅速减小;簇丛型(如大披针臺草,禾本科白羊草、北京隐子草、糙隐子草、中华隐子草、长芒草、大针茅)和聚丛型植物(如酸枣、柠条锦鸡儿、灌木铁线莲、多花胡枝子、铁杆蒿、猪毛菜)冠幅小但枝系密度大,使其在不同侵蚀环境下都能有效的拦截沉积物;疏丛型植物（如阿尔泰狗娃花、赖草、狗尾草、蒙古蒿、猪毛蒿、茭蒿、尖叶铁扫帚、达乌里胡枝子)有发达的地下根茎,可产生数量发达的枝条,也可将其枝系扩展至较大区域,因此在保护土体和拦截沉积物方面能力较大,形成土堆能力较强,坡上位泥沙、枯落物等沉积物来源量随坡度增加而增多,其形成的土堆面积随坡度增加而不断增加[18]。
+
+表3潜在抗侵蚀植物的生长特征  
+
+<html><body><table><tr><td>Growth characteristics of potential erosion-resistant species</td><td colspan="10">Table 3</td></tr><tr><td></td><td>盖度范围</td><td>密度范围</td><td></td><td>单株生物</td><td>种子传播</td><td>植冠</td><td>土壤</td><td></td><td>持久种 Pestent</td><td>营养繁殖</td><td>枝系构型</td></tr><tr><td>物种</td><td>range/%</td><td>Dengsty</td><td>高度范围 range/m</td><td>量范围 range/</td><td>方 propagation</td><td>种子库</td><td>种子库</td><td>幼 bank</td><td>soil seed</td><td>ve propagation</td><td>architecture Branching</td></tr><tr><td></td><td></td><td>(株(丛)/m²)</td><td></td><td>（g/m²）</td><td>way</td><td>seed bank</td><td>bank</td><td></td><td>bank</td><td>type</td><td></td></tr><tr><td>侧柏 辽东栎</td><td>40-50</td><td>5-12 *</td><td>3.7-6.1</td><td></td><td>Z0</td><td>√</td><td>√</td><td>√</td><td></td><td>V</td><td>主杆型</td></tr><tr><td></td><td>25-75</td><td>4-7*</td><td>10.3-12.3</td><td></td><td>Z0</td><td>√</td><td>√</td><td>√</td><td></td><td>Vrs</td><td>主杆型</td></tr><tr><td>三角槭</td><td>28-41</td><td>6-14*</td><td>4.0-9.3</td><td></td><td>An</td><td></td><td>√</td><td>√</td><td></td><td>Vrs</td><td>主杆型</td></tr><tr><td>刺槐</td><td>25-55</td><td>4-45 *</td><td>0.5—14.3</td><td></td><td>Z0</td><td>√</td><td>√</td><td>√</td><td>T</td><td>Vrs</td><td>主杆型</td></tr><tr><td>柠条锦鸡儿</td><td>25-90</td><td>1-2</td><td>1.0-1.6</td><td>82.3-1452.1</td><td>Z0</td><td></td><td>√</td><td>√</td><td></td><td>Vr</td><td>聚丛型</td></tr><tr><td>沙棘</td><td>25-70</td><td>1-2</td><td>0.9-2.1</td><td>28.6—1884.9</td><td>Z0</td><td>√</td><td>√</td><td>√</td><td></td><td>Vr</td><td>主杆型</td></tr><tr><td>狼牙刺</td><td>25-70</td><td>1-4</td><td>0.4-1.7</td><td>4.9-931.4</td><td>Z0</td><td>√</td><td>√</td><td>√</td><td>T</td><td>V</td><td>主杆型</td></tr><tr><td>土庄绣线菊</td><td>25-40</td><td>0.6-1</td><td>1.0-1.6</td><td>41.7—404.3</td><td>An</td><td>√</td><td>√</td><td>√</td><td></td><td>V</td><td>主杆型</td></tr><tr><td>虎榛子</td><td>25-30</td><td>1-7</td><td>0.7-1.7</td><td>94.2-206.3</td><td>Z0</td><td></td><td>√</td><td></td><td></td><td>Vr</td><td>主杆型</td></tr><tr><td>黄刺玫</td><td>30-35</td><td>0.6-1</td><td>1.5-2.0</td><td>175.8-190.3</td><td>Z0</td><td>√</td><td>√</td><td>√</td><td></td><td>Vrs</td><td>主杆型</td></tr><tr><td>水枸子</td><td>25-95</td><td>0.6-1</td><td>1.0-1.7</td><td>35.4—457.8</td><td>Z0</td><td>√</td><td>√</td><td>√</td><td></td><td>V</td><td>主杆型</td></tr><tr><td>灌木铁线莲</td><td>25-31</td><td>1-2</td><td>0.3-0.8</td><td>41.2—196.6</td><td>An</td><td>√</td><td>√</td><td>√</td><td>P</td><td>V</td><td>聚丛型</td></tr><tr><td>酸枣</td><td>25-60</td><td>1-10</td><td>0.5-1.0</td><td>5.3-130.2</td><td>Z0</td><td>√</td><td>√</td><td>√</td><td>T</td><td>Vrs</td><td>聚丛型</td></tr><tr><td>杠柳</td><td>27-70</td><td>1-2</td><td>0.6-1.0</td><td>10.55—105.6</td><td>An</td><td>√</td><td>√</td><td>√</td><td>P</td><td>Vrs</td><td>主杆型</td></tr><tr><td>河朔尧花</td><td>30-90</td><td>1-5</td><td>0.4-0.5</td><td>16.7-88.8</td><td>Z0</td><td></td><td></td><td></td><td></td><td>V</td><td>主杆型</td></tr><tr><td>紫丁香</td><td>25-55</td><td>1-9</td><td>0.9-3.0</td><td>1.7—110.9</td><td>An</td><td>√</td><td>√</td><td>√</td><td>T</td><td>Vrs</td><td>主杆型</td></tr><tr><td>茅莓</td><td>25--30</td><td>2-6</td><td>0.6-1.5</td><td>7.6-19.4</td><td>Z0</td><td></td><td>√</td><td>√</td><td></td><td>Vs</td><td>枝条弓形</td></tr><tr><td>多花胡枝子</td><td>25-30</td><td>4-175</td><td>0.1-0.8</td><td>10.3-36.3</td><td>Au</td><td></td><td>√</td><td>√</td><td>T</td><td>Vr</td><td>聚丛型</td></tr><tr><td>尖叶铁扫帚</td><td>30-35</td><td>1-27</td><td>0.5-1.0</td><td>0.6-2.8</td><td>Au</td><td>√</td><td>√</td><td>√</td><td>T</td><td>Vr</td><td>疏丛型</td></tr><tr><td>达乌里胡枝子</td><td>25-80</td><td>1-2</td><td>0.3-1.0</td><td>0.1—14.2</td><td>Au</td><td>√</td><td>√</td><td>√</td><td>P</td><td>Vr</td><td>疏丛型</td></tr><tr><td>茭蒿</td><td>25-97</td><td>1-8</td><td>0.3-0.7</td><td>1.1—41.1</td><td>An</td><td>√</td><td>√</td><td>√</td><td>P</td><td>Vr</td><td>疏丛型</td></tr><tr><td>铁杆蒿</td><td>26—100</td><td>1-57</td><td>0.1-0.9</td><td>0.3-30.9</td><td>An</td><td>√</td><td>√</td><td>√</td><td>P</td><td>Vr</td><td>聚丛型</td></tr><tr><td>百里香</td><td>25-50</td><td>1</td><td>贴地面</td><td>0.6—17.0</td><td>An</td><td></td><td>√</td><td>√</td><td></td><td>Vs</td><td>匍匐茎</td></tr><tr><td>阿尔泰狗娃花</td><td>14-38</td><td>1-5</td><td>0.2-0.4</td><td>0.3-0.5</td><td>An</td><td></td><td>√</td><td>√</td><td>P</td><td>Vr</td><td>疏丛型</td></tr><tr><td>白羊草</td><td>25-85</td><td>1-25</td><td>0.1-0.8</td><td>0.1-16.9</td><td>An</td><td></td><td>√</td><td>√</td><td>P</td><td>Vt</td><td>簇丛型</td></tr><tr><td>北京隐子草</td><td>25-26</td><td>1-5</td><td>0.1-0.3</td><td>1.0-1.2</td><td>An</td><td></td><td>√</td><td>√ √</td><td>T</td><td>Vt</td><td>簇丛型</td></tr><tr><td>糙隐子草</td><td>25-62</td><td>6--31</td><td>0.1-0.6</td><td>1.0-1.5</td><td>An</td><td></td><td>√</td><td></td><td>T</td><td>Vt</td><td>簇丛型</td></tr><tr><td>长芒草</td><td>25-84</td><td>3-54</td><td>0.1-0.4</td><td>0.2-1.6</td><td>Z0</td><td></td><td>√</td><td>√</td><td>P</td><td>Vt</td><td>簇丛型 簇丛型</td></tr><tr><td>大针茅</td><td>25-68</td><td>2-12</td><td>0.1—1.2</td><td>0.1-6.2</td><td>Z0</td><td>√</td><td>√</td><td>√ √</td><td>T P</td><td>Vt</td><td>短茎</td></tr><tr><td>菊叶委陵菜 赖草</td><td>25-39</td><td>1-21</td><td>0.2-0.2</td><td>0.5-2.5</td><td>Au</td><td>√</td><td>√</td><td></td><td>T</td><td>Vs</td><td>疏丛型</td></tr><tr><td>冷蒿</td><td>25-62 25-50</td><td>25-100</td><td>0.4-0.8</td><td>0.1-0.2</td><td>An</td><td>√</td><td>√</td><td></td><td></td><td>Vr</td><td>匍匐茎</td></tr><tr><td>芦苇</td><td>25-30</td><td>1 2-6</td><td>贴地面 0.3-0.7</td><td>5.0-6.0 1.1-4.9</td><td>An An</td><td>√</td><td>√ √</td><td>√ √</td><td>T</td><td>Vr Vr</td><td>单株直立</td></tr><tr></table></body></html>
+
+乔木密度范围标 $*$ 表示密度单位是密度/株 $/ 1 0 0 \mathrm { m } ^ { 2 }$ ;百里香和冷蒿多以根茎侧向蔓延而贴地面连片生长,因此未统计株丛数;种子传播方式;An,风力扩散;Au,自重扩散;Zo,动物扩散;营养繁殖类型:Vr,根茎型;Vrs,根出条型;Vs,葡匐茎型;Vt,分藥型。植冠种子库、土壤种子库和幼苗库标出"√"为本研究和研究区内其他研究中有记载的物种;种子库持久性;P,具有持久土壤种子库;T,具有短暂土壤种子库
+
+总之,在侵蚀环境中,这42种潜在抗侵蚀植物不仅能通过维持一定的盖度和生物量来适应土壤侵蚀环境,通过土壤种子库、植冠种子库、幼苗建植及营养繁殖等方式在土壤侵蚀条件下生存繁衍,而且可通过自身特有的枝系构型来防止土壤侵蚀。
+
+# 3结论
+
+综上所述,本研究共筛选出潜在抗侵蚀植物42种,分属18科33属。禾本科、豆科、菊科、蔷薇科这4种世界广布且含有千种以上物种的大科在研究区占优势地位,是退耕地植被恢复演替过程中的主要植物组成。该区气候的自然选择决定了地区植物生长型以灌、草为主,灌木多为高位芽或地上芽植物,多年生草本植物以地面芽为主;水分生态类型以中生、旱生为主。在研究区筛选出的42种潜在抗侵蚀植物虽然只占记录到的总物种数的 $1 3 \%$ ,但这些植物相互组合,是该区主要群落类型的优势物种。这些物种具有土壤种子库和幼苗库,多数物种的土壤种子库可以从植冠种子库得到补充,多年生植物以营养生殖为主,能维持自身的生存繁衍;由于植冠对其下土壤的保护和植物基部茎对沉积物的拦截,在植物基部能形成土堆,可改善土壤侵蚀环境,有效控制土壤侵蚀。今后还需进一步揭示植物如何通过自身生理、解剖结构、根系构型等方面特性来适应和抵抗土壤侵蚀,以期能够利用植被手段控制土壤侵蚀，恢复生态环境。
+
+# 参考文献（References）:
+
+[1]FuB,HCeYuseigrosioreeossaessaaEcological Complexity，2011,8(4）：284-293.  
+2]GueetaieeslEocene marls from Northeast Spain.Plant Ecology，2004，173(1)：83-93.  
+[3]BochetEarcaFaysPsenJopogapctresholdsforplantcatiooridrodesEarthSufacrLandforms，2009，34(13）：1758-1771.  
+[4]WangN,JiaoJY,LeiD,henY，WangDEfectfrinfallrosio；singamageadestabishmentprobles.LandDedaion&Development，2014,25(6)：565-572.  
+[5]GuresetsfiosotlslVegetation Science，2000,11(3）：329-336.  
+［6］邹厚远，焦菊英.黄土丘陵沟壑区抗侵蚀植物的初步研究.中国水土保持科学，2010,8（1)：22-27.  
+[7elkiEEef1996，340(1/3):339-343.  
+[8]AlbaladejJstillVdaneabilatifgdedilsyterrosioiadots/ubiJlslDegradationand Desertification in Mediterranean Environments.Logrofo：Geoforma Ediciones，1996：265-278.  
+[9]QuintoJ,R,rL,HallGengprciplsdsertiigti/tJ,ThomesJB,ds.MditeaanDesertfiaio：AoscofrocessandResposes.ichestr：JonWileydSs，：9-05.  
+[1]BochetE，esubiunofdlsserallofaidediterasbdieceoftland rainfall intensity.Earth Surface Processes and Landforms,2006,31(5）：536-549.  
+[11] DeBaets,bsu,kersJodlcalfrekctpntsifoiiland gullerosion：applicationtoa Mediteranancosystem.Earth SurfaceProcessesandLandforms，20,34（1O）：1374-1392.  
+[12］邹厚远，焦菊英.黄土丘陵区生态修复地不同抗侵蚀植物的消长变化过程.水土保持通报，2009,29(4)：235-240.  
+[13] 王宁.黄土丘陵沟壑区植被自然更新的种源限制因素研究[D].杨凌：中国科学院研究生院，2013.  
+[14] 温仲明，焦峰，焦菊英.黄土丘陵区延河流域潜在植被分布预测与制图.应用生态学报，2008，19（9)：1897-1904.  
+[15] 寇萌.黄土丘陵沟壑区植物改善土壤侵蚀环境的群落生态学特性[D].杨凌：西北农林科技大学，2013.  
+［16］宋永昌.植被生态学.上海：华东师范大学出版社，2001.  
+［17］金振洲.植物社会学理论与方法.北京：科学出版社，2009.  
+[18］杜华栋.黄土丘陵沟壑区优势植物对不同侵蚀环境的适应研究：从群落、个体、组织到生理[D].杨凌：中国科学院研究生院，2013.  
+[19]egoardCoials，opuatisditOfdacklitbai157.  
+［20］刘志民，闫巧玲，马君玲，刘博.科尔沁沙地植物繁殖对策.北京：气象出版社，2010.  
+[21] 李登武.陕北黄土高原植物区系地理研究.杨凌：西本农林科技大学出版社，2009.  
+[22］刘江华，李登武，刘国彬,李小利，候禧禄.刺槐林下植被的水分生态型和生活型谱特征.中国水土保持科学，2008,6(2）：95-99.  
+[23］邹厚远，关秀琦，韩蕊莲，张信.关于黄土高原植被恢复的生态学依据探讨.水土保持学报，1995,9（4)：1-4.  
+[24］中国植被编辑委员会.中国植被.北京：科学出版社，1980.  
+[25] 雷明德.陕西植被.北京：科学出版社，1999.  
+[26] 朱志诚.陕北森林草原区的植物群落类型—I、疏林草原和灌木草原.中国草地学报，1982，（2）：1-8.  
+[27] 肖云丽.基于植物群落健康的景观格局配置研究［D].杨凌：西北农林科技大学，2009.  
+[28］焦菊英，张振国,贾燕锋，王宁，白文娟.陕北丘陵沟壑区嚣荒地自然恢复植被的组成结构与数量分类.生态学报，2008，28（7)：2981- 2997.  
+[29］朱志诚.陕北黄土高原上森林草原的范围.植物生态学与地植物学丛刊，1983，7(2)：122-131.  
+[30］王守春.历史时期黄土高原的植被及其变迁.人民黄河，1994，（2)：9-12.  
+[31］朱志诚，黄可.陕北黄土高原森林草原地带植被恢复演替初步研究.山西大学学报：自然科学版，1993，16(1)：94-100.  
+[32］王建国，樊军，王全九，王力.黄土高原水蚀风蚀交错区植被地上生物量及其影响因素.应用生态学报，2011,22（3)：556-564.  
+3]RotudaVertilgeeatfosiageaScience，2004，15(4)：515-522.  
+[34］袁宝妮，李登武，李景侠，王冬梅，薛玲，刘杰.黄土丘陵沟壑区植被自然恢复过程中土壤种子库特征.干旱地区农业研究，2009，27(6) : 215-222.  
+［35］宋瑞生．片断化常绿阔叶林的土壤种子库及天然更新[D].金华：浙江师范大学，2008.  
+[36]Van Oudtshoorn KVR,Van Rooyen MW.Dispersal Biologyof Desert Plants.Berlin Heidelberg：Springer,，1999.  
+[37］王东丽.黄土丘陵沟壑区植物种子生活史策略及种子补播恢复研究[D]．杨凌：西北农林科技大学，2014.  
+[38］Harper JL.Population Biology of Plants.New York，USA：Academic Press，1977.  
+［39］苏姬.黄土丘陵沟壑区不同侵蚀环境下幼苗库及幼苗存活特征研究[D]．杨凌：西北农林科技大学，2013.  
+[40］贺少轩，梁宗锁，蔚丽珍，周自云.土壤干旱对2个种源野生酸枣幼苗生长和生理特性的影响.西北植物学报，2009,29（7）：1387-1393.  
+[41]PriceECashallCalltalergittocttnlat99/3-7.  
+[42]BuisE,TemeAJAM,VelampA,BoekenB,JongmansAG,VanBreeenN,SchorJM.Shrubmoundformationandtability-arid slopes inthe Northern NegevDesertofIsrael：Afieldandsimulationstudy.Geoderma,2010,156(3）：363-371.  
+[43]El-BanaM,isedrA-H.ThportancfPygenconds（Nbhas）forRestoratiofridgadedaneladsinSinai. Restoration Ecology，2003，11(3）：317-324.  
+44]BochetEuiotioleclimate（Valencia，Spain）.Geomorphology，1998，23(2/4）：139-150.  
+[45]DuHDiJiannggcdofoutalsiuesaietogLoess Plateau of China.Geomorphology，2013，193：57-64.

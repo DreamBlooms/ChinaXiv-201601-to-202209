@@ -1,0 +1,777 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201507301600 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阿多,赵文吉,宫兆宁,张敏,范云豹.1981—2013华北平原气候时空变化及其对植被覆盖度的影响.生态学报,2017,37（2):576-592.AD,ZhaoWggsteeeo1981to 2013.Acta Ecologica Sinica,2017,37(2):576-592.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1981一2013华北平原气候时空变化及其对植被覆盖度的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阿多1,2,3，赵文吉1,2,3，\\*，宫兆宁1,2,3,张敏1,2,3，范云豹1,2,3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1首都师范大学资源环境与旅游学院，北京100048  \n2三维信息获取与应用教育部重点实验室，北京100048  \n3资源环境与地理信息系统北京市重点实验室，北京100048",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于1981—2013年华北平原气象数据,对华北平原近30a的气候时空变化趋势与突变情况进行分析,并结合GIMMS-NDVI(1981—2006年)和 MODIS-NDVI(2000—2013年)遥感数据,探讨气候突变影响下,华北平原1981—2013年植被覆盖度的空间分布和变化特征。结合生态学分区,从不同时空尺度出发,分析华北平原不同生态分区内气候因子与植被覆盖度在年代际、年际和月变化的相关关系。结果发现：(1)1981—2013年,华北平原气温整体呈现显著上升趋势 $\\left( 0 . 2 0 \\mathrm { ^ { q } C } / 1 0 \\mathrm { a } , P \\mathrm { < } 0 . 0 1 \\right)$ ，春季气温的升高 $\\mathrm { \\Omega } _ { \\mathrm { { \\upsilon } } } > 1 5 ^ { \\circ } \\mathrm { { C } }$ 等温线控制范围的扩大和年均温 $0 ^ { \\circ } \\mathrm { C }$ 等值线在华北平原的消失,是区域平均气温升高的诱因。华北平原降水整体呈现显著减少趋势 $( - 1 . 7 5 \\mathrm { m m } / 1 0 \\mathrm { a } , P { > } 0 . 0 5 )$ ,其中秋季降水量减少过快， $4 0 0 { \\ - } { \\ - } 6 0 0 { \\mathrm { m m } }$ 降水等值线控制范围的扩大、$6 0 0 { - } 8 0 0 \\mathrm { m m }$ 和 $8 0 0 { - } 1 0 0 0 { \\mathrm { m m } }$ 降水等值线的范围的缩小,共同造成区域降水量的减少。四季气候倾向率的特征变化敏感区域主要位于北纬 $3 5 ^ { \\circ }$ 一 $3 9 ^ { \\circ }$ 之间。1991—1994 年为华北平原气候的突变时期。（2)华北平原植被覆盖度总体呈现上升的趋势,呈增加趋势的面积占总面积的 $5 5 \\%$ 。人类活动不仅加速了区域植被覆盖度的降低,也加剧了降低速率的变快。（3)总体上，研究区月尺度植被覆盖度与气候因子的相关性高于年尺度的值。植被覆盖度与年降水量的偏相关性高于其与年均温的偏相关性。年均温对农业生态区和森林生态区的植被覆盖度的影响更大,草原生态区的植被覆盖度对年降水量的依赖性更强。在月尺度上降水量对植被的影响具有时滞效应。气温对草原生态区具有时滞效应,降水量对农业生态区具有时滞效应。（4)华北平原干热化的气候突变降低了植被覆盖度的增加趋势。从植被覆盖度出发，草原生态区对气候突变的响应最明显;从变化速率角度出发,农田生态区的响应最明显。就整体而言,人类活动的影响力还在持续增强,且呈现出在退化区的作用力高于改善区的趋势。气候突变后，出现了人类活动在植被覆盖度的改善区的相对作用力高于退化区的变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候变化；植被覆盖度；趋势分析；残差分析;偏相关性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Temporal analysis of climate change and its relationship with vegetation cover on the north china plain from 1981 to 2013 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A Du01,2.3，ZHAO Wenji1,2,3\\*，GONG Zhaoning1,3，ZHANG Min1,2.3，FAN Yunba1,23 1College of Resources Environment & Tourism，Capital Normal University,Beijing 1Ooo48,China 2KeyLaboratory of3DInformation Acquisition and Applicationof Ministry，Beijing 1Ooo48,China 3Key Laboratory of Resources Environment and GIS of Beijing Municipal,Beijing lOoo48,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Globalclimate change hasresulted insignificant vegetationchangesinthepastfiftyyears.TheNorth China Plain，the most important grain production baseof China,is experiencing prominent warming and drying.Vegetation cover, which is used to monitor vegetationchange,isafected byclimatechange，predominantly temperatureand precipitation.In ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the present study，GIMMS（Glaobal Inventory Modellingand Mapping Studies)NDVI（NormalizedDiffrence Vegetation Index），MODIS（Moderate-resolution Imaging Spectrometer）NDVI,and climatedata，during 1981—2013，were used to investigatethespatial distributionandchangesof vegetation.Therelationship between climateand vegetationonthe North China Plain were alsoanalyzedon diferent spatial（agricultural,forest，and grassand）and temporal（yearly，decadal, and monthly）scales.（1） It was found that the temperature increased slightly ( $\\mathrm { 0 . 2 0 ^ { \\circ } C / 1 0 a }$ ， $P < 0 . 0 1$ ). This may be due to the disappearance of the $0 \\mathrm { { ^ { \\circ } C } }$ isotherm，the rise of spring temperatures，and the increase of the isotherm ( $\\mathrm { \\Phi } > 1 5 \\mathrm { \\% }$ ）area. At the same time，precipitation decreased significantly( $- 1 . 7 5 \\mathrm { m m } / 1 0 \\mathrm { a }$ ， $P > 0 . 0 5$ ). The expanding of the 400- $6 0 0 ~ \\mathrm { { m m } }$ （204号 precipitation contour area，the narrowing of ranges of 6OO—8Oo and $8 0 0 { \\ - } { \\ - } 1 0 0 0 \\ \\mathrm { m m }$ ，and excessive reduction of autumn precipitation indicated lessprecipitation.The sensitive areas of characteristic climaticchange were mainlylocated between the latitudes $3 5 { - } 3 9 ^ { \\circ }$ . The climate mutation occurred during 1991—1994.（2）Vegetation cover increased slightly in $5 5 \\%$ of the total study area，with a rate of change of $0 . 0 0 0 3 9 / 1 0 \\mathrm { a }$ . Human activities could accelerate the changes of the vegetationcoverandaffcttherateof thesechanges.（3）Overall，thecorrelationbetween thevegetationcoverand climatic factors is higher for a monthlythanyearlyscale.Thecorrelationanalysis between vegetationcoverand climate change showed that annual vegetationcover was positivelycorelated with precipitation in grassand biomes；but itshowed amore positive corelation with temperature in theagriculturaland forestbiomes.In adition，vegetationcoverwastemporally sensitive toprecipitation.（4）Thevegetationcoverincreasedbeforeandaftertheclimate variations，buttherateofincrease slowed down.Moreover,thegrassland biome hadanobvious response tothe climatic variations，but theagricultural biome showedasignificantresponse.Theefectof humanactivityinregionsofdegradation was higherthan that inenvironmentaly improvedareas.However,aftertheclimateabruptlychanging，theefectofhumanactivity inenvironmentally improvement areas was higher than that in the degraded regions，and the influence of human activity willcontinue in the future. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:climatic change；vegetation coverage；trend analysis；residual analysis；partial correlation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据IPCC 的研究报告,从1880到2012年,全球陆地和海洋表面的平均温度升高了 $0 . 8 5 \\mathrm { ^ { \\circ } C ^ { [ 1 ] } }$ 。在过去的50a里,我国的地表温度升高了 $1 . 1 \\mathrm { { ^ { \\circ } C } }$ ,升高的速率约为 $0 . 2 2 / 1 0 \\mathrm { a }$ ,略高于全球水平[2]。气候和陆气间相互作用的变化,通过气温的升高,降水机制的改变以及季节周期性的波动,对植物的生长和分布产生重要影响[3]。因此,气候变化引起的归一化植被指数 NDVI在一定范围内来回波动[4]。20a以上的长期研究揭示生物和自然系统变化与区域气温降水变化相关[5]。因此区域气候特征变化和区域生态系统变化的内在联系，以及两者间的响应机制成为了研究热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被作为生态系统的重要组成部分,对诸如大气系统和土壤系统等生态系统之间的能量传输有重要的影响作用[6]。与植被覆盖度有正相关系数的植被指数 NDVI是指示植被密度和长势的重要指示器[7]。处在自然环境和人类活动共同影响下的植被覆盖度,在全球气候和碳循环系统中扮演重要的角色。所以,植被的变化情况揭示了自然环境和人类活动的相关影响,以及两者之间的反馈影响。Myneny[8]和 Tucker[9]研究发现长时间序列的植被覆盖度呈现增加的趋势,特别是在北半球中纬度地区。他们把这一趋势归因于全球气候的变暖。一些研究发现不同地区的植被覆盖度的增减趋势是不一致的。Park[10]和Piao[11]研究发现在欧亚大陆增减趋势是一致的。Wang[12]和 Zhang[13]研究发现在北美洲,西北部和东北部的增减趋势呈现相反趋势。已有研究都表明,植被覆盖度与气候因子有内在联系,尤其是温度因子和降水量因子[1416]。研究表明在中国的西北地区,植被覆盖度的变化趋势与降水量的变化趋势一致,植被指数与降水量之间有显著的正相关关系,与气温的相关性较低。依据以上研究发现,植被覆盖度的变化呈现明显的区域差异性，与气候因子关系的空间异质性也较强。同时,气候因子在一定的时间尺度内会有突变现象发生[17]。气候突变势必影响动植物生长和生态结构变化。因此,探讨各生态系统内植被覆盖度对气候变化的响应,对保护区域生物多样性与生态安全具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于植被覆盖度变化与气候因子之间的密切关系,以及植被覆盖度时空变化的空间异质性。本文选择华北平原为研究区,探讨华北平原植被覆盖度的空间分布特征和变化趋势。并从气候要素人手,结合生态系统分区,从不同时空尺度出发,分析了农田生态区、草原生态区和森林生态区内植被覆盖度的年代际变化、年际变化和月变化对降水量因子和温度因子的时空响应，并探讨1981—2013年植被覆盖度变化对气候突变的响应特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区地理概况及生态区划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "华北平原位于 $3 0 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { - } 4 0 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { N } \\mathrm { , } 1 1 2 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { - } 1 2 2 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { E }$ 之间,包括河北、河南、山东、安徽、江苏、北京及天津等5省2市的大部或部分地区,总面积约 $4 0 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ 。研究区北起燕山,西沿太行山、伏牛山,南抵淮河干流及苏北灌溉总渠,东临黄海和渤海,除山东半岛为丘陵外,大部分地区地势平坦,平原面积约为 $3 3 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ,耕地面积约占总面积的 $7 2 \\%$ 。研究区属于温带大陆季风气候区,光热资源丰富,雨热同季,降水量大且多集中于6—9月。冬小麦、夏玉米为主要种植农作物,种植制度为一年两熟[18-19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/36f97e50f621d8e5e415450679ed290b29ce602fad67b4e368b9bb0643af61ef.jpg",
+        "img_caption": [
+            "图1华北平原地理位置和气象站点分布图",
+            "Fig.1The distribution of the meteorological station "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考 ${ { \\mathbb { W } } _ { \\mathbf { u } } }$ 等[20]的研究成果,将研究区分为8个地理分区（图2)。从南到北按照编码顺序依次为：淮南与长江中下游自然区（1）、汉中盆地自然区（2）、华北平原自然区(3）、鲁中山地丘陵自然区（4）、辽东胶东山地丘陵区(5）、华北山地丘陵自然区(6）、大兴安岭南部自然区(7)和内蒙古高原平原东部自然区（8）。为探讨不同生态系统分区植被覆盖度的变化特征，将已有自然分区按照生态系统类型合并为3个大类分区：森林生态系统区、草原生态系统区和农业生态系统区。结果如图2所示。草原生态区主要分布于河北省的西北部，包括张北地区和木兰围场。该生态区地处我国温带半湿润地区与半干旱地区的交织带，主要以温性草甸草原、山地草甸和温性草原为主[2]。森林生态区包括燕山山脉、太行山-伏牛山山脉和山东半岛的丘陵山地，植被类型从山麓至山顶，大体分布落叶林、阔叶针叶混交林、针叶林和高山灌木草丛,主要以松林、侧柏林、栎林为主[22]农田生态区分布区域为除了草原生态区和森林生态区以外的区域。华北平原的农业以一年两熟为主,农作物中冬小麦、玉米占绝对优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d9db34ce5a56beee69ba115fe4dbf149b7bcccb207ab2af04ad5367862e862a.jpg",
+        "img_caption": [
+            "图2研究区生态区分区图",
+            "Fig.2 The distribution of the ecological area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2数据准备与研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1数据准备与一致性检验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "美国马里兰大学提供的GIMMS-NDVI数据集包含1981—2006年半月最大合成数据,空间分辨率为 $8 \\mathrm { k m } \\times$ $8 \\mathrm { k m }$ ,数据经过辐射校正和几何校正、大气校正、除云等处理,GIMMS 数据集的质量优于其他 NDVI数据集[23]。GIMMS 数据集是目前最长时间序列的 NDVI数据,与其他高分辨率数据集之间具有较好的相关性,已广泛应用在全球和区域尺度植被动力学研究中[24-25]。NASA 提供的 MODIS-NDVI 数据集包含 2000—2013 年华北平原 MOD13Q1级产品,时间分辨率为16d,空间分辨率为 $2 5 0 \\mathrm { m } \\times 2 5 0 \\mathrm { m }$ 。应用 MODIS Reprojection Tools(MRT)软件对数据进行投影转换、数据拼接等处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在获取植被覆盖度的方法中,最大值合成法 MVC（Maximum Value Composites）使用较为广泛,它是基于NDVI旬数据合成获得月度和年度 NDVI数据的方法。具体公式如下[26]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } _ { i } { = } \\mathbf { M a x } ( \\mathbf { \\Delta } \\mathrm { N D V I } _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中,NDVI指第i个月或者第 $i$ 年的 NDVI, $\\mathrm { N D V I } _ { i j }$ 指第 $i$ 月的第 $j$ 个15天的NDVI数据或第 $i$ 年的第 $j$ 月的NDVI 数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于GIMMS 和 MODIS 数据采用不同的传感器,因此需要对两者进行一致性检验[27-28]。本文采用的GIMMS-NDVI数据的时间序列为1981—2006,MODIS-NDVI数据的时间序列为2000—2013年,依据 2000—2006 年的重叠数据,对年最大NDVI数据进行相关性分析,得到两者相关系数为0.801,在0.05 置信水平上显著相关,说明两种数据的年度数据在全区域尺度上具有显著一致性,二者的线性回归方程为： $\\mathrm { \\Delta N D V I _ { G I M M S } } =$ （204号$0 . 5 8 8 6 \\times \\mathrm { { N D V I } } _ { \\mathrm { { M o D I S } } } + 0 . 0 9 6 5 \\left( r ^ { 2 } = 0 . 6 4 1 7 , n = 7 , P < 0 . 0 5 \\right)$ 。采用同样方法对两者的月尺度数据进行一致性检验,两者月尺度数据的相关系数为0.957,在0.01置信水平上通过检验,线性回归方程为： $\\mathrm { N D V I } _ { \\mathrm { G I M M S } } = 0 . 7 8 1$ $\\mathrm { N D V I } _ { \\mathrm { M o D I S } } - 0 . 0 4 6 9 ( r ^ { 2 } = 0 . 9 1 6 1 , n = 7 , P < 0 . 0 1 )$ 。通过以上回归方程,结合2007—2013年 MODIS-NDVI数据插补2007—2013 年度和月度GIMMS-NDVI数据,将实验数据的时间跨度延伸为1981—2013 年。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 突变检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "气候突变是普遍存在于气候系统中的重要现象。气候突变的普适性定义：气候从一种稳定态（或稳定持",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "续的变化趋势)跳跃式地转变到另一种稳定态(或稳定持续的变化趋势)的现象,表现为气候在时空上从一个统计特性到另一个统计特性的急剧变化。在气候突变的检测方法中,Mann-Kendall非参数检测法的检测范围宽、人为性少,定量化程度高,不需要样本遵从一定的分布,也不受少数异常值的干扰[29-30]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mann-Kendall检测的基本原理如下：气候序列设为平稳序列( $\\mathbf { \\Phi } _ { i } ^ { \\prime } = 1 , 2 , 3 , \\cdots , n )$ ,表示第 $i$ 个样本( $( 1 \\leqslant j \\leqslant i )$ （20的累计数,定义统计量：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { k } = \\sum _ { i = 1 } ^ { k } m _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在原序列的随机独立等的假设下，均值、方差分别为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { v a r } ( d _ { k } ) = k ( k - 1 ) ( 2 k + 5 ) / 7 2\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$d _ { k }$ 标准化后，",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU F _ { k } = ( d _ { k } - E ( d _ { k } ) ) / { \\sqrt { \\operatorname { v a r } ( d _ { k } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "满足标准正态分布,其概率 $a = p r o b ( \\mid U \\mid > \\mid U F _ { _ { k \\mid } } )$ 可以通过计算或者查表获得。给出显著性水平 $\\mathbf { \\Omega } _ { a }$ （取 $\\scriptstyle a =$ $0 . 0 5 , \\ L = 1 . 9 6 \\ L ,$ ，若 $| U F | > \\mathrm { U } _ { a }$ 则表明该气候序列呈现显著的变化趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将气候序列 ${ ( i = 1 , 2 , 3 , \\cdots , n ) }$ 的逆序列,按照以上过程计算一次。同时使 $| \\operatorname { U B } _ { k } | = - \\operatorname { U F } _ { _ k }$ ， $k = n \\sb { \\circ } , n - 1 , \\ldots , 1$ ，$U B _ { 1 } = 0$ 。若 $| \\operatorname { U F } | { > } 0$ ,此时序列呈上升趋势;若 $| \\operatorname { U F } | < 0$ 序列呈下降趋势。通过信度检验可知其是否有变化趋势。当曲线超过置信水平线时,表明序列的上升(下降)趋势显著.若 $U F$ 和 $U B$ 两条曲线出现交点，且交点位于置信区间内，该交点对应的时刻即序列突变开始的时刻。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3植被覆盖度变化趋势 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于像元的植被覆盖度的变化趋势,可以通过一元线性回归分析得出,计算公式为[31]：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { s l o p e } } = \\frac { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i \\times C _ { i } - \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } C _ { i } } { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i ^ { 2 } - ( \\sum _ { i = 1 } ^ { n } i ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\theta _ { \\mathrm { s l o p e } }$ 为变化趋势的斜率， $n$ 为监测的年数, $C _ { i }$ 为第 $i$ 年的年最大植被覆盖度。植被覆盖年际间变化的显著性可以通过年时间序列和植被覆盖度的相关关系获得。正值代表植被覆盖度上升，负值代表植被覆盖度下降。变化趋势的显著性检验采用 $F$ 检验。统计量计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ F = U \\times { \\frac { N - 2 } { Q } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $U = \\sum _ { i \\mathop { = } 1 } ^ { n } \\ \\big ( \\widehat { y } _ { i } \\ : - \\ : \\bar { y } \\big ) ^ { 2 }$ 为误差平方和, $Q = \\sum _ { i \\ : = 1 } ^ { n } { \\left( y _ { i } \\ : - \\ : \\widehat { y } _ { i } \\right) } ^ { 2 }$ 为回归平方和， $\\boldsymbol { y } _ { i }$ 为第 $i$ 年覆盖度真实观测值, $\\boldsymbol { { \\widehat { y } } } _ { i }$ 为覆盖度的10 年平均值。根据检验结果将趋势变化分为5个等级：极显著减少 $\\theta _ { \\mathrm { s l o p e } } { < } 0 , P { < } 0 . 0 1 )$ ；显著减少（204号 $\\theta _ { \\mathrm { s l o p e } } < 0 , 0 . 0 1 < P < 0 . 0 5 >$ ；变化不显著( $P { > } 0 . 0 5 \\mathrm { ; }$ ；显著增加( $\\cdot \\theta _ { \\mathrm { s l o p e } } > 0 , 0 . 0 1 < P < 0 . 0 5 )$ ；极显著增加 $\\theta _ { \\mathrm { s l o p e } } > 0 , P <$ 0.01)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4气候因子与植被覆盖度的相关关系",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地理系统是一种多要素的复杂巨系统,其中一个要素的变化必然影响到其他要素的变化。在多要素系统中,研究一个要素对另外一个要素的相关性时,暂不考虑其他要素的影响,则称为偏相关[32]。偏相关系数的计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x y * z } = \\frac { r _ { x y } - r _ { x z } r _ { y z } } { \\sqrt { ( 1 - r _ { x z } ^ { 2 } ) ( 1 - r _ { y z } ^ { 2 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $r _ { x y * z }$ 为变量 $z$ 固定后变量 $x$ 与变量 $y$ 的偏相关系数; $r _ { x y }$ 为变量 $x$ 与变量 $y$ 的相关系数; $r _ { x z }$ 为变量 $y$ 与变量 $z$ 的相关系数; $r _ { y z }$ 为变量 $x$ 与变量 $z$ 的相关系数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $x , y$ 和 $z$ 之间的相关系数计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x y } = \\frac { \\displaystyle { \\sum _ { i = 1 } ^ { n } \\sum _ { i = 1 } ^ { 1 2 } \\left( x _ { i j } - \\bar { x } \\right) \\left( y _ { i j } - \\bar { y } \\right) } } { \\displaystyle { \\sqrt { \\sum _ { i = 1 } ^ { n } \\sum _ { i = 1 } ^ { 1 2 } \\left( x _ { i j } - \\bar { x } \\right) ^ { 2 } \\sum _ { i = 1 } ^ { n } \\sum _ { i = 1 } ^ { 1 2 } \\left( x _ { i j } - \\bar { y } \\right) ^ { 2 } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $r _ { x y }$ 为 $x$ 与 $y$ 之间的相关系数， $x _ { i j } \\ 、 y _ { i j }$ 分别为第 $i$ 年第 $j$ 月的研究变量值； $x _ { i j } \\ 、 y _ { i j }$ 分别为变量在各时间尺度的均值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "偏相关系数的显著性检验，一般采用 $\\mathbf { \\chi } _ { t }$ 检验法。其统计量计算公式为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = { \\frac { r _ { 1 2 , 3 4 , \\ldots , m } } { \\sqrt { 1 - r _ { 1 2 , 3 4 , \\ldots , m } ^ { 2 } } } } { \\sqrt { n - m - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $r _ { 1 2 , 3 4 , \\dots , m }$ 为偏相关系数; $n$ 为样本数; $m$ 为自变量个数。显著水平的临界值 $t _ { a }$ 可以通过查询 $\\mathbf { \\chi } _ { t }$ 分布表获得,若 $t > t _ { a }$ ,则表明偏相关显著;若 $t < t _ { a }$ ,则偏相关不显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5 残差分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "气候变化对植被覆盖度变化产生重要影响,降水因子和气温因子是气候变化影响中的重要因子。通过降水因子和气温因子拟合出 NDVI的预测值,即为气候变化的影响量。计算其与NDVI真实值之间的差,可作为人为因素的影响,该方法即为残差分析,已经得到广泛应用[33-35]。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon = \\mathrm { N D V I } _ { \\mathrm { r e a l } } \\mathrm { - N D V I } _ { \\mathrm { p r e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { \\Delta N D V I _ { r e a l } }$ 为 NDVI真实值, $\\mathrm { \\Delta N D V I _ { \\mathrm { p r e } } }$ 为 NDVI预测值, $\\scriptstyle { \\varepsilon > 0 }$ ,说明人类活动产生正面影响; $\\scriptstyle { \\varepsilon < 0 }$ ,说明人类活动产生负面影响; $\\scriptstyle { \\varepsilon = 0 }$ ,说明人类活动影响比较微弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1华北平原气候变化特征与突变分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1981—2013年华北平原气温和降水量的年际和四季变化趋势如图3所示,表1为统计的气温和降水量的年际和四季的气候倾向率。从图3中可见,华北平原年均温呈现整体上升的趋势,其气候倾向率约为$0 . 2 6 \\% / 1 0 \\mathrm { a } ( P { < } 0 . 0 1 )$ 。气温的季节性变化整体呈现升高趋势，只是幅度略有不同,春季 $\\mathrm { ( 0 . 3 4 ^ { \\circ } C / 1 0 a ) }$ 增温最快，冬季 $\\left( 0 . 0 9 \\mathrm { { C } / 1 0 a } \\right)$ 最慢。春季均温的气候倾向率大于年均温,说明春季增温对年均温的增长贡献大于其他季节。该研究结果与赵少华的研究结果一致[36]。降水量呈现减少的趋势,气候倾向率约为 $- 1 8 . 1 5 \\mathrm { { m m } } / 1 0 \\mathrm { { a } }$ 中 $( P { > } 0 . 0 5 )$ 。与气温的季节性整体升高趋势不同,降水量季节性差异更加明显。降水量在秋季减少最快$( - 1 0 . 7 0 \\ \\mathrm { m m } / 1 0 \\mathrm { a } )$ ，夏季减少最慢( $- 0 . 3 5 \\ \\mathrm { m m } / 1 0 \\mathrm { a }$ ),冬季呈现略微增长的趋势，气候倾向率为 $1 . 4 \\mathrm { { m m } / 1 0 \\mathrm { { a } } }$ 。虽然冬季的降水呈增加趋势,但增加幅度小,远不及其他季节降水量的减少幅度。从气温与降水量的变化趋势可见，华北平原的气候变化有向干热化发展的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/90ccd52c5fda454c5de7b6e860176c8fbed5363e67ef3ec9679e9515fbef1c6f.jpg",
+        "table_caption": [
+            "表11981一2013年气候因子气候倾向率统计结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间尺度 Time scale</td><td colspan=\"2\">气温因子 Temperature</td><td colspan=\"2\">降水量因子Precipitation</td></tr><tr><td>一元线性方程 Linear equation</td><td>R</td><td>一元线性方程Linear equation</td><td>R</td></tr><tr><td>春 Spring</td><td>y= 0.03x+12.89</td><td>0.39</td><td>y= -0.84x+167.96</td><td>0.18</td></tr><tr><td>夏 Summer</td><td>y=0.02x+24.87</td><td>0.18</td><td>y= -0.03x+433.95</td><td>0.05</td></tr><tr><td>秋 Autumn</td><td>y=0.018x+13.73</td><td>0.22</td><td>y=-1.07x+164.32</td><td>0.23</td></tr><tr><td>冬Winter</td><td>y=0.009x+0.22</td><td>0.08</td><td>y=0.14x+54.986</td><td>0.18</td></tr><tr><td>年Year</td><td>y=0.026x+12.677</td><td>0.46</td><td>y=-1.80x+815.55</td><td>0.18</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4为华北平原年降水量和年均温的气候倾向率的空间分布图。1981—2013 年间,华北平原82个气象站点的年均温气候倾向率大部分呈现增温变化趋势,增温趋势为 $0 . 3 2 \\mathrm { ^ { \\circ } C } / 1 0 \\mathrm { a }$ 。增温趋势较高区域位于河北省西部太行山地区以及山东省的威海( $\\mathrm { 0 . 6 4 ^ { \\circ } C / 1 0 a } \\mathrm { ) }$ 和青岛（ $\\left( 0 . 6 7 \\% \\right) \\$ 。河北承德、山东东营站点年均温的气候倾向率呈现降低趋势，气候倾向率分别为 $- 0 . 0 6 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ 和 $- 0 . 2 8 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ 。河北省的气候倾向率均值高于山东省,山东省的值高于河南省。说明在全球增暖背景下,华北平原气温的空间变化具有一定的纬度地带性,即：气温的气候倾向率随纬度升高而升高。春季、夏季和秋季的气候倾向率分布特征从南到北呈现高—低—高的趋势,低值区域分布也相似,主要呈带状沿河南、山东和河北三省交界地区向东直到渤海一带分布。冬季从南到北呈现逐渐增大的趋势。华北平原年降水量的气候倾向率为 $- 1 . 7 5 \\mathrm { ^ { \\circ } C } / 1 0 \\mathrm { a }$ ,整体呈减少趋势,减少幅度最快的站点为东营。年降水量增加的区域主要位于南阳—郑州—菏泽一线的南侧。春、秋两季呈现南部减少,北部增加的趋势,夏、冬两季呈现南部增加北部减少的趋势。季节气候倾向率增减特征变化敏感区域主要位于$3 5 ^ { \\circ } - 3 9 ^ { \\circ } \\mathrm { N }$ 之间。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a13ee779ba35ebfa20c87166467c9a5d62895acb1a6e2b3fa0725f2324fb198d.jpg",
+        "img_caption": [
+            "图3华北平原气温与降水量数据的变化趋势",
+            "Fig.3The change trend of temperature and precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分别提取各年代际的气候因子的面积要素,探寻气温和降水量因子各量级在不同年代际的空间分布变化。气温因子按照 $< 0 . 0$ 5、5—10、10- $1 5 \\mathrm { ^ \\circ C }$ ） $> 1 5 ^ { \\circ } \\mathrm { C }$ 五类统计，降水量因子按照 $< 4 0 0$ 、400—600、600—800、",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3092651ec1c5cd6128203b96af2f715e9150330d556ef3916ac8d7c9b41ca08b.jpg",
+        "img_caption": [
+            "图4华北平原年降水量气候倾向率(a)与年均温气候倾向率(b)空间分布",
+            "Fig.4The spatial distribution of climate tendency rate of precipitation(a）and temperature（b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$8 0 0 { - } 1 0 0 0 , 1 0 0 0 { - } 1 5 0 0 , > 1 5 0 0 \\mathrm { m m }$ 六类统计。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图5中可以发现，1960—2010年，华北平原大部分地区都被10— $1 5 \\mathrm { ^ \\circ C }$ 范围的温度控制（多年均值面积占比 $7 8 . 5 2 \\%$ )，其次是5- $1 0 \\%$ 的控制范围( $1 5 . 4 9 \\%$ ） ${ > } 1 5 \\mathrm { \\% }$ 的控制范围排在第三位 $( 5 . 0 8 \\%$ ）， ${ < } 0 \\mathrm { { ^ { \\circ } C } }$ 和0一 $- 5 \\mathrm { ^ { \\circ } C }$ 的平均面积占比均未超过 $1 \\%$ 。各量级区间面积占比在不同年代际的变化各不相同。1980s是各温度范围控制面积变化的特征年代， ${ > } 1 5 \\mathrm { ^ { \\circ } C }$ 的面积范围在1990s超过了5— $1 0 \\mathrm { { ^ { \\circ } C } }$ 的面积范围。总体上， $> 1 5 \\mathrm { ^ { \\circ } C }$ 温度的控制范围在变大,其它等温线控制的范围,从1960s到2010s面积都在减小。结合研究区年均温的整体升高趋势，可以得出结论：一方面,全球变暖背景下的华北平原各站点的年均温大部分呈升高趋势;另一方面， $> 1 5 \\mathrm { ^ { \\circ } C }$ 等温线控制范围的扩张,也是年均温升高的因素之一。从图5可见,华北平原降水量 $4 0 0 { \\ - } { \\ - } 6 0 0 { \\mathrm { m m } }$ 等值线（面积占比 $3 3 . 9 7 \\%$ )和 $6 0 0 { - } 8 0 0 \\mathrm { m m }$ （面积占比 $3 5 . 0 6 \\%$ )等值线控制范围的平均面积相当，其次是降水量1000一$1 5 0 0 \\mathrm { m m }$ 等值线控制范围（面积占比 $2 0 . 1 5 \\%$ ）。 ${ < } 4 0 0 \\mathrm { m m }$ 等值线控制面积和 $1 0 0 0 { - } 1 5 0 0 \\mathrm { m m }$ 的控制面积的平均值相当,分别为 $4 . 5 1 \\%$ 和 $6 . 8 7 \\%$ 。研究区降水量 $> 1 5 0 0 \\mathrm { m m }$ 的面积占比多年来一直低于 $1 \\%$ ,但也呈现略微下降趋势。总体上，全区大部分地区的降水量范围为 $4 0 0 { \\ - } { \\ - } 6 0 0 { \\mathrm { m m } }$ 和 $6 0 0 { - } 8 0 0 \\mathrm { m m }$ ,两种类型斑块面积平均占比之和达到 $7 9 \\%$ 。 $4 0 0 { \\ - } { \\ - } 6 0 0 { \\mathrm { m m } }$ 等值线控制的面积整体呈现增加趋势,其余等值线的控制范围都呈现下降或者维持不变的态势。1970s—1980s之间， $4 0 0 { \\ - } { \\ - } 6 0 0 { \\mathrm { m m } }$ 降水等值线控制范围超过了 $6 0 0 { - } 8 0 0 \\mathrm { m m }$ 控制范围，成为最大面积斑块。1980s是各降水量等值线控制面积变化的特征年代。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "华北平原的气候环境在过去的30多年内经历了突变,尤其是气温的突变比较明显(图6)。M-K检测结果显示：1981—2013年间,UF 和UB曲线在1994年相交,且交点在置信区间内。累积距平统计结果呈“V\"字形,转折点出现在1993年,表明华北平原气温经历了从1981—1993年之间的降温过程和1994—2009 年之间的增温过程,2009—2013年又有小幅回落。结合两种检测方法结果分析得出:1981—2013年,华北平原气温由冷到暖的转变时间出现在1993—1994年间。华北平原年降水量的M-K检测结果显示（图7）,UF 和UB 曲线在置信水平内有5个交点。依据累积距平的统计结果分析，1982—1991年间，降水量累积距平呈现增多的变化过程;1991—2013年间,累积距平变为减少趋势,降水量累积距平的最大值出现在1991年。结合两种检测结果分析得出：在1981—2013 年间,华北平原降水由多到少的转变时间发生在1991年前后。结合年均温和降水量的突变研究结果得出:1991—1994年间是气候因子活跃变化时期,该时期为突变特征时期。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cbde7426eb98e36aa28c6adbbef12a92a49ccaa78125401b783f38ae9981b61.jpg",
+        "img_caption": [
+            "Fig.5The change trend chart of temperature and the precipitation in Huabei Plain "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8fbea83e427a245e31eda667e3c865cf96f3a276e856264d0bfef8415e6baa3.jpg",
+        "img_caption": [
+            "图5华北平原气温与降水量各统计量变化趋势图",
+            "图6年均温M-K检测与累积距平图",
+            "Fig.6M-K test and Cumulative anomaly of temperature "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2植被覆盖度空间分布与变化趋势特征",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图8是华北平原1981—2013年植被覆盖度空间分布格局。研究区年平均植被覆盖度为0.6471。城市群、较大的水面和海岸线地区的植被覆盖度相对稀疏,甚至没有植被覆盖。植被覆盖度较低和中等水平植被覆盖度区域，主要分布在河北省西北部半干旱的农牧交织带以及河南省和山东省的低山丘陵地区。植被覆盖度较高的区域主要集中在华北平原中部,包括河北平原、河南省的中东部、山东省西部以及安徽北部地区。植被覆盖度最高区域集中分布在燕山和秦岭东延的伏牛山山脉中的几乎不受人类影响的区域。草原生态区多年平均植被覆盖度约为0.5504。森林生态区平均植被覆盖度约为0.6526。农田生态区平均植被覆盖度约为0.6520,水平与森林生态区差别不大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从月尺度植被覆盖度变化趋势图(图9)中可以看出,在植被生长季,草原生态区和森林生态区的植被覆盖度在植物生长期内表现出先增加后下降的趋势。两者出现峰值均在8月份,分别为0.541和0.549。草原生态区的植被覆盖度整体低于森林生态区。农业生态区的植被覆盖度在植物生长季的变化相对复杂,6月份植被覆盖度出现明显的降低,随后持续增高,在8月出现峰值0.59。华北平原农作物以冬小麦为主，6月是小麦收获的季,大面积裸露的农田造成了该生态区植被覆盖度的突然降低。4—5月的峰值期,农业生态区的植被类型主要是以小麦为主。8月的峰值期主要以玉米、高梁以及经济作物为主,且生态区内栽培果树等都达到生长季峰值。植被类型的不同,是造成8月份峰值高于4—5月峰值的主要原因。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bf74ad3f8f4e0c0a23ef887a0471d369f688416c12fbf8589266f3e8db891aa.jpg",
+        "img_caption": [
+            "Fig.7 M-K test and Cumulative anomaly of precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3115ae3f866407b1d8e4e2e2f946ad80702185a6d4b4757505e06218b72e11ac.jpg",
+        "img_caption": [
+            "图7年均降水量M-K检测与累积距平图",
+            "Fig.8Spatial patterns of vegetation coverage "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e4a86a885e57f003c089c1af34f48866b85615ac3ec54c377ae24a615462b5b.jpg",
+        "img_caption": [
+            "图8植被覆盖度空间分布",
+            "图9植被生长期内各生态区覆盖度变化趋势 Fig.9 Variation trend of coverage of ecotope "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图10为基于像元的植被覆盖度变化趋势空间分布图。华北平原植被覆盖度呈现增加趋势,增加速率为$0 . 0 0 0 3 9 / 1 0 \\mathrm { a }$ ,呈现增加趋势的区域占总面积的 $5 5 \\%$ ，主要位于河北省西北部山区、山东省西南部、河南省东部以及安徽省北部地区。呈现减少趋势的区域主要集中于人类活动相对频繁的地区,包括河南省中部和西部，山东省北部,以及人口密集京津唐地区。在各生态区的趋势变化中,森林生态区的增加趋势最快,约为0.000034/10a;农业生态区的增加速率最慢,约为 $0 . 0 0 0 2 4 / 1 0 \\mathrm { a }$ ,草原生态区增加的速率约为 $0 . 0 0 2 9 / 1 0 \\mathrm { a }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3气候因子与植被覆盖度的关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.1不同年代际的水热条件对植被覆盖度的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "植被生长受到气象要素、土地利用和 $\\mathrm { C O } _ { 2 }$ 的等因素的多重影响,其中气温和降水是植被生长的关键性因素[37],水热条件是决定植被空间分布及其变化的主要非生物因素[23]。同时,地表植被覆盖度的变化也影响局部气候[38]。为探讨不同水热组合与植被覆盖度之间的相互作用关系,选择1980s、1990s和2010s3个时期的相关数据,分别计算温度累积距平、降水量距平白分率和植被覆盖度的变化趋势,探寻不同水热组合影响卜的植被覆盖度变化情况。 $1 9 8 0 \\mathrm { s } \\lrcorner 1 9 9 0 \\mathrm { s }$ 和2010s3个时期的气温和降水相较于多年均值的盈亏情况如表2所示：1980s年处于气温偏低、降雨偏多的水热状况,1990s处于气温偏高,降雨偏多的水热状况,2010s处于气温偏高降雨偏少的水热状况。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccd8954b18f749be2fea048a00a5c2aeb5c567edf704090329a18152c1ec8398.jpg",
+        "img_caption": [
+            "图10植被覆盖度变化趋势空间分布 Fig.10Dynamic of vegetation coverage "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/323163db66d484f92fb9f9d8786e6792cdfc50c016ca0c6517351fdcc721fd06.jpg",
+        "img_caption": [
+            "图111990s研究区气候因子偏差分析",
+            "Fig.11Deviation analysis of climatic factors in 1990s "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/61e05afa3b0bfdac32d4c60e910aa7cf8a3eac4fd8d3aab3e17f3bb2c0cf6f08.jpg",
+        "table_caption": [
+            "表2不同年代际气温和降水的增减趋势",
+            "Table 2Trends of temperature and precipitation over decadal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时间尺度 Time scale</td><td colspan=\"3\">温度距平百分比 Temperatur departure percentage</td><td colspan=\"3\">降水量距平百分比 Precipitation departure percentage</td></tr><tr><td>1980s</td><td>1990s</td><td>2010s</td><td>1980s</td><td>1990s</td><td>2010s</td></tr><tr><td>春季 Spring</td><td>-0.5034</td><td>-0.151</td><td>0.791</td><td>-0.02146</td><td>0.101</td><td>-0.119</td></tr><tr><td>夏季 Summer</td><td>-0.415</td><td>0.072</td><td>0.371</td><td>-0.015</td><td>0.014</td><td>-0.003</td></tr><tr><td>秋季Autumn</td><td>-0.348</td><td>0.083</td><td>0.279</td><td>0.140</td><td>-0.105</td><td>-0.010</td></tr><tr><td>冬季Winter</td><td>-0.676</td><td>0.407</td><td>0.191</td><td>-0.179</td><td>-0.010</td><td>0.219</td></tr><tr><td>年 Year</td><td>-0.512</td><td>0.096</td><td>0.449</td><td>0.0002</td><td>0.008</td><td>-0.011</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在1980s,华北平原植被覆盖度呈现整体增加的趋势,速率约为 $0 . 0 3 / 1 0 \\mathrm { a }$ 。农田生态区 $\\left( 0 . 0 8 / 1 0 \\mathrm { a } \\right)$ 和森林生态区( $0 . 0 4 / 1 0 \\mathrm { { a } , }$ 呈增加趋势，草原生态区呈现减少趋势 $( - 0 . 0 3 / 1 0 \\mathrm { a } )$ 。该年代际的温低水多的水热条件对整体以及农田和森林生态区的植被覆盖度呈现增加的影响,对草原生态区则呈现减少的影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在1990s，华北平原植被覆盖度的呈现整体减少趋势，速率约为 $- 0 . 0 2 / 1 0 \\mathrm { a }$ 。农业生态区( $- 0 . 0 5 / 1 0 \\mathrm { a } )$ 和森林生态区 $( - 0 . 0 3 / 1 0 \\mathrm { a } )$ 呈减少趋势,农业生态区的减少速率最快,草原生态区呈现增加的趋势 $( 0 . 0 2 / 1 0 \\mathrm { a } )$ 。结合该时期的年均温和年降水量的距平百分比可以发现,雨热不同步抑制了植被的生长(图11)。草原生态区的植被覆盖度呈现增加趋势,主要得益于 $5 \\mathrm { ^ { \\circ } C }$ 等温线和 $4 0 0 \\mathrm { { m m } }$ 降水等值线的北移。以 $4 0 0 \\mathrm { { m m } }$ 降水等值线为例,多年均位于草原生态区的边缘，而该时段却几乎覆盖了整个草原生态区。相较于整个研究区的雨热不均，平原草原区降水的增多结合适宜的温度,导致植被覆盖度呈现增加趋势。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在2010s,华北平原植被覆盖度呈现整体增加趋势,速率约为 $0 . 0 2 / 1 0 \\mathrm { a }$ 。农田生态区 $( 0 . 0 2 / 1 0 \\mathrm { a } )$ 、森林生态区(0.07/10a)和草原生态区(0.13/10a)均呈现增加趋势。研究区的干热化趋势已经呈现,区域内植被覆盖度呈现整体增加的趋势。虽然降水量整体有所降低,但是与多年均值的空间分布相比,没有呈现明显差异。说明区域内各生态区的气温和降水量达到了较好的水热组合条件，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综合1981—2010 的华北平原不同年代际的植被覆盖度对不同水热组合的分析结果得出：在基于年代际的时间尺度研究中,气温的增加,对华北平原农业生态区的影响体现为植被覆盖度的稳定增加,但是速率在不断降低。降水量的减少对农业生态区植被覆盖度的影响相对较小。草原生态区植被覆盖度的变化趋势在一定程度上与气温的变化趋势一致。当气温偏高降雨偏多时,森林生态区的植被覆盖度呈减少趋势,其余的水热组合方式植被覆盖度均呈现增加趋势。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3.2气候突变前后植被覆盖度变化特征",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在3.1节得出结论1991—1994 年为研究时段华北平原气候因子突变的特征时段。因要对气候突变前后植被覆盖度对气候因子响应情况进行比对,因此暂将华北平原的气候突变年选在1994年,此时降水量因子和气温因子均已经历了突变变化。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "将1981—1994年和1995—2013年两个时间段的遥感影像分别计算,得出基于像元的植被覆盖度分布和变化速率统计结果图(图12)。华北平原年均植被覆盖度在气候突变前后分别为0.662和0.663。结合各生态区年均植被覆盖度的统计结果图发现，草原生态系统区在气候突变后由0.544增加到0.590,显著增幅约为$8 \\%$ 。农田生态系统区由0.668增加到0.669。森林生态系统区由0.668减少到0.663。说明植被覆盖度在研究区内部,空间异质性较强,气候突变对草原生态区的植被覆盖度的影响比其他生态区显著。气候突变前后植被覆盖度的平均增加趋势为 $0 . 0 1 8 / 1 0 \\mathrm { a }$ 和 $0 . 0 0 6 / 1 0 \\mathrm { a }$ ,增加幅度降低了 $0 . 0 1 2 / 1 0 \\mathrm { a }$ 。在各生态区中，降低幅度最快的是农田生态区（降低了 $0 . 0 1 6 / 1 0 \\mathrm { { a } ) }$ ,其次是森林生态区（降低了 $0 . 0 0 5 / 1 0 \\mathrm { a } \\dot { , }$ ）,草原生态区变化最小（降低了 $0 . 0 0 1 / 1 0 \\mathrm { a } \\cdot$ ）。在气候突变前,增加速率最快的是农田生态区,气候突变后草原生态区植被覆盖度增加速率最快。森林生态区的速率相对较慢。气候突变对农田生态区的植被覆盖度变化速率影响最大,其次是森林生态区,草原生态区几乎不受气候突变的影响。可见,从植被覆盖度高低的角度出发,气候突变对草原生态区影响最大;从变化速率角度出发,对农田生态区的影响最大。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/b853ac86719a0cc29c31f4e1825c3e1192f96470a4c9e6628fc0ad59dda1c78f.jpg",
+        "img_caption": [
+            "图12气候突变前后各生态区植被覆盖度变化情况统计结果",
+            "Fig.12The results of climate change effects on vegetation coverage of ecological zones "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3.3植被覆盖度与气候因子的相关性分析",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图13为年际植被覆盖度与年均温和年降水量的偏相关性空间分布结果。如图显示：在1981—2013年之间,华北平原年际植被覆盖度与年降水量的整体平均偏相关系数为0.018,年植被覆盖度与年温度的整体平均偏相关系数为0.006,其中呈正相关的像元分别占总像元面积的 $5 9 \\%$ 和 $5 1 \\%$ 。总体来说,植被覆盖度与降水量的偏相关性,高于其与年均温的偏相关性。两者在空间分布上都表现出明显的空间异质性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "农业生态区的植被覆盖度与年均温和年降水量的平均相关系数为0.01和-0.001,与之对应的呈正相关的区域面积占分区面积的 $5 2 \\%$ 和 $4 8 \\%$ ，表明在农业生态区气温是影响区域内植被长势的主导因素。从图13b可以看出,农业生态区与气温呈正相关的区域主要分布在河北平原、河南东南部、安徽北部,呈现负相关的区域主要集中于山东半岛以及山东省西北部地区,且相对集中。华北农业主要以种植冬小麦、玉米、棉花为主，冬小麦生长周期长,且在主要生长期多抽取地下水灌溉,导致区域植被覆盖度与降水量相关性较弱,甚至呈负相关关系。森林生态区的植被覆盖度与年均温和年降水量的平均相关系数为0.03和-0.001,与之对应的呈正相关区域面积占比为 $5 3 \\%$ 和 $4 9 \\%$ ,表明气温是影响森林生态区植被覆盖度的主导因子。森林生态区植被覆盖度与降水呈现负相关,原因在于降雨意味着辐射减少和温度的降低,从而影响植被生长[13.27]。森林生态区植被覆盖度与气温因子的相关性有区域差异。北部太行山、燕山山脉的植被生长更多受到低温的影响,因此与气温呈正相关的区域面积更大，约为 $5 5 \\%$ 。山东半岛丘陵地区的森林植被覆盖度与气温呈现正相关的区域占比为 $3 5 \\%$ 。山东半岛丘陵地区相较于太行山、燕山山脉更靠南,植被生长所需的热量资源更丰富。热量资源较为充足的地区,增温对植被的影响会变弱[39]。太行山脉地区的降水量与植被覆盖度相关性高于山东半岛丘陵地区的相关性,燕山地区的相关性最低。除了各地区的气候、地形、土壤类型不同以外,太行山山脉的植被类型以落叶灌和草甸为主,山东半岛丘陵地区植被以温带针叶林和阔叶林为主,燕山山脉的植被类型以灌丛和温带阔叶林为主。不同的植被类型,对降水的响应机制不同,增强了相关系数的空间异质性。草原生态区植被覆盖度与年均温和年降水量的平均相关系数为-0.015和0.18,与之对应的呈正相关的区域面积分别占分区面积的 $3 9 \\%$ 和 $9 2 \\%$ .说明降水量是影响该区域植被生长的主要气候因子。该结论与张戈丽和穆少杰[28.31]的结论一致。该区域内的草原生态区位于内蒙古高原,地处我国水资源相对紧缺地区,因此降水对该地区的影响要高于气温的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/346cbfdc13bb80f848f1bf8bb89d597804d228f93e7424ec1ea1362ee6dcdf4d.jpg",
+        "img_caption": [
+            "图13植被覆盖度与降水量(a)和温度(b)的相关系数",
+            "Fig.13Coefficient of vegetation and temperature (a）and precipitation（b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4气候对植被覆盖度的滞后性研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以1982—2006年植被覆盖度和气象数据为基础,分别计算生长季3月—11月的月植被覆盖度和月降水量、月均温的偏相关系数,以探讨月植被覆盖度与前一月以及当月气候因子的相关性，进而得出植被覆盖度对气候因子的滞后性变化。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "华北平原当月植被覆盖度与当月的月均温和月降水量的平均相关系数为0.14和0.13（图14），与之对应的呈正相关的区域面积分别占总面积的 $8 8 \\%$ 和 $94 \\%$ ,其中通过 $P { < } 0 . 0 5$ 检验的面积占比分别为 $2 7 . 4 5 \\%$ 和$3 1 . 1 5 \\%$ 。华北平原月植被覆盖度与前一月的月均温和月降水量的平均相关系数为0.008 和0.227（图15），与之对应的呈正相关的区域面积分别占总面积的 $4 7 \\%$ 和 $8 5 \\%$ ，通过 $P { < } 0 . 0 5$ 检验的面积占比分别为 $8 . 0 1 \\%$ 和$5 4 . 6 5 \\%$ 。总体而言,植被覆盖度与前一个月的月均温的相关性低于当月均温的相关性，与前一个月的月降水量的相关性高于当月降水量的相关性。说明在月尺度上，降水量对整体植被覆盖度有时滞效应。植被覆盖度与前一月气象因子关系的空间分布具有显著纬度地带性：月均温与植被覆盖度的相关系数呈现随纬度升高而降低的总体趋势,月降水量与植被覆盖度的相关系数呈现随纬度增高而升高的趋势。总体月尺度的相关性要远高于年际水平。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "农业生态区植被覆盖度与前一月降水量的平均相关系数为0.3,高于其与当月降水量的相关系数0.131。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "其与前一月的月均温的平均相关性为-0.08,低于其与当月均温的相关性0.109,这表明,在月水平上农业生态区植被生长对降水量的响应存在时滞效应,与月均温则没有明显的时滞效应。气温随季节变化是一种自然规律,在植物生长季,气温是植被某些生长期的关键诱因,植被遵循气温的变化进入不同的生长期,因而在月尺度上,气温对植物生长不存在时滞效应。森林生态区植被覆盖度与前一月的月均温的平均相关系数为0.13,低于其与当月的数值0.205,其与前一月降水量的相关系数为0.12,与当月降水量的数值0.11基本相同,整体而言不存在时滞效应。这与穆少杰[31]的研究结果一致。其中当月的月均温与月植被覆盖度的相关系数呈正相关的面积占分区面积的 $9 3 \\%$ ,范围分布在0一0.35之间。草原生态区植被覆盖度与前一月的月均温的平均相关系数为0.24,高于其与当月平均相关性0.046,其与前一月降水量的相关系数为0.07,低于其与当月平均相关性系数0.26。这表明,草原生态分区对气温的响应具有时滞效应。在月水平上,相关性结果表现出一定的经度地带性;从西到东,植被生长与降雨的相关性递减,同时与温度的相关性则表现出递增趋势。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf45f508bb74e577469a856c60f9f132659d6086a6adc37d98502aee58a1a9c4.jpg",
+        "img_caption": [
+            "Fig.14The coeficient of vegetation and temperature（a）and precipitation（b）in month scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/8aa67eaa0ef92515d81897729c83cff4f7dfd485300dd1d59b7a1d3ea09dddff.jpg",
+        "img_caption": [
+            "图14植被覆盖度与当月温度(a)和降水量(b)的相关系数",
+            "图15植被覆盖度与前一月温度(a)和降水量(b)的相关系数",
+            "Fig.15The coefficient of vegetation and temperature（a）and precipitation（b）of the month bfore "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.5人类活动对植被覆盖度影响力的趋势分析",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "为探讨人类活动对植被覆盖度的影响,本文用残差分析计算人类活动对植被覆盖度的影响,并在此基础上计算人类活动影响的变化趋势。图16为影响植被覆盖度变化的人类活动影响力的变化趋势空间分布图。统计结果显示，人类活动影响力的整体平均变化趋势为 $0 . 0 0 4 / 1 0 \\mathrm { a }$ ,说明人类活动影响力呈现继续增强的趋势。图中正值表示人类活动影响力继续增强，负值表示影响力减弱。从图中可见，河北北部和河南中东部地区人类活动影响力在持续下降，其中京津唐地区减弱速度最快。以北京市为例，不断涌入的人口加快了城市化进程，中心城区的不透水面建设接近饱和，导致人类对植被覆盖度变化的影响力的变弱。山东省西南部、安徽和江苏北部地区人类活动影响力呈现持续增强的态势。从生态学角度出发，草原生态区的人类影响力增加速率最快 $( 0 . 0 0 5 / 1 0 \\mathrm { a } )$ ，农业生态区的影响力增加最慢$( 0 . 0 0 3 / 1 0 \\mathrm { a } )$ 。农业生态区中，果树和粮食混种区的人类影响增加的趋势最快 $( 0 . 0 0 5 / 1 0 \\mathrm { a } )$ ,粮食和经济农作物种植区次之 $( 0 . 0 0 4 / 1 0 \\mathrm { a } )$ ,果树种植区最慢 $( 0 . 0 0 3 / \\$ 10a）。同时，结合植被覆盖度变化趋势图，统计研究区内人类活动的整体作用力为 $- 5 \\%$ （其中，植被覆盖度呈增加趋势的区域的相对作用力为正值,植被覆盖度变化趋势呈退化趋势区域的相对作用力为负值,两者之差即为整体相对作用力),说明人类活动将继续以负面影响的作用力为主。气候突变前植被改善区的人类活动作用力低于植被退化区的相对作用力;气候突变后植被改善区的人类活动作用力高于退化区。农业生态区的作用力一直呈现负面作用,改善区的相对作用力减弱了$4 \\%$ 。草原生态区的作用力呈现改善力增强的趋势,幅度达到 $12 \\%$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/94c34bc7998460e43a09d7bac877efe9bada731a7ba40b5177075a2218e7f264.jpg",
+        "img_caption": [
+            "图16人类活动影响力变化趋势图 Fig.16Dynamic of vegetation coverage "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文基于GIMMS-NDVI和MODIS-NDVI遥感数据,结合1981—2013年气象数据,利用残差分析、趋势分析、相关性分析,揭示了华北平原近30年气候和植被覆盖度的空间变化特征,并对气候变化对各生态区内植被覆盖度的影响进行了分析,结论如下：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1)1981—2013年间，华北平原气温整体呈现显著上升趋势 $( 0 . 2 0 \\% / 1 0 \\mathrm { a } , P { < } 0 . 0 1 )$ ，一方面全球气候变暖背景下大部分站点气温整体升高，另一方面春季气温的升高 $\\ 、 > 1 5 ^ { \\circ } \\mathrm { C }$ 等温线控制范围的扩大和年均温 $0 ^ { \\circ } \\mathrm { C }$ 等值线在华北平原的消失，也是区域平均气温升高的诱因。其中， $1 5 \\mathrm { ^ { \\circ } C }$ 等值线的年代际间南北波动范围达到2个纬度，有大于 $2 0 0 \\mathrm { k m }$ 的北移。华北平原降水整体呈现显著减少趋势 $( - 1 . 7 5 \\mathrm { { m m } } / 1 0 \\mathrm { { a } } , P { > } 0 . 0 5 )$ ,其中秋季降水量减少过快，加上 $4 0 0 { \\ - } { \\ - } 6 0 0 { \\mathrm { m m } }$ 降水等值线控制范围的扩大，压缩了 $6 0 0 { - } 8 0 0 \\mathrm { m m }$ 和 $8 0 0 { - } 1 0 0 0 \\mathrm { m m }$ 降水等值线的范围,这些因素都造成了区域降水量的减少。四季气候倾向率的特征变化敏感区域主要位于 $3 5 ^ { \\circ }$ 一 ${ } . 3 9 ^ { \\circ } \\mathrm { N }$ 之间。1991—1994 年为华北平原气候的突变时期。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2)华北平原植被覆盖度空间分布具有显著的地区差异性,整体上呈现上升趋势,呈现增加趋势的面积占比为 $5 5 \\%$ 。草原生态区的年均植被覆盖度较低,森林生态区和农业生态区相对较高。从植被覆盖度和植被覆盖度变化趋势的空间分布来看，人类活动不仅加速了区域植被覆盖度的降低,也加剧了降低速率的变快。在基于年代际的时间尺度研究中,气温的增加,对华北平原农业生态区的影响体现为植被覆盖度的稳定增加，但是速率在不断降低;草原生态区植被覆盖度的变化趋势在一定程度上与气温的变化趋势一直。当气温偏高降雨偏多时;森林生态区的植被覆盖度呈减少趋势,其余的水热组合方式植被覆盖度均呈现增加趋势。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3)总体上,研究区月尺度植被覆盖度与气候因子的相关性高于年尺度上的值。植被覆盖度与年降水量的偏相关性高于其与年均温的偏相关性,但是存在明显的区域差异。年均温对农业生态区和森林生态区的植被覆盖度的影响更大,草原生态区的植被覆盖度对年降水量的依赖性更大。在月尺度上年降水量对植被的影响具有时滞效应。气温对草原生态区具有时滞效应，降雨对农业生态区具有时滞效应。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(4)华北平原干热化的气候突变降低了植被覆盖度的增加趋势。在气候突变前,增加速率最快的是农田生态区;气候突变后草原生态区植被覆盖度增加速率最快。从植被覆盖度高低的角度出发，气候突变对草原生态区影响最大;从变化速率角度出发,对农田生态区的影响最大。虽然气候突变后,人类活动在植被覆盖度的改善区的相对作用力高于退化区，但是就整体而言，人类活动的影响力还在持续增强，且呈现出在退化区的作用力高于改善区的趋势。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2讨论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本文从生态学角度出发,对不同生态区植被覆盖度的分布与变化趋势进行了分析讨论，总结了基于生态学分区的植被覆盖的分布和变化规律,探讨了植被覆盖度与气候因子的关系。相较于传统统计分析结果,相关系数有一些不同。与把整个研究区域作为统计单元的研究方法相比,基于像元的小样本统计能更好的体现NDVI和气候因子的空间差异性。在统计年限有限的情况下,显著的空间差异可能会影响小样本的统计分析结果,掩饰了气候因子与NDVI的相关性。另外,植被生长季的有效降水跟 NDVI的相关性可能更高,此次研究没有排除非生长季的无关水影响。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "水热组合是决定植被生长的重要非生物因素。虽然本研究利用不同年代际的水热组合对植被覆盖度的响应进行了粗略探讨,但是水热组合的形式多样,且不同植物种类对水热组合的胁迫响应机制也各不相同。适宜的水热组合加速植物的生长,不适宜的水热组合将对植被生长产生抑制作用。因此,在全球气候不断变暖,厄尔尼诺现象频发的大背景下,研究植被对不同水热组合的响应机理,探讨不同植被类型气候变化的响应和分布,可以做为下一步研究内容。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "除了气候因子，人类活动也是影响植被覆盖度变化的重要驱动因素，虽然本文对人类活动的整体影响做了简单分析,但是人类活动对植被覆盖度的影响机理错综复杂。特别是进入21世纪,人类活动强度和范围逐渐扩大,包括人口增长、城镇化发展、能源消耗结构调整、退耕还林、退耕还牧、农业结构的调整等,都会对区域植被覆盖度产生严重影响。因此,如何细化人类活动对植被覆盖度的影响,定位重要的人类活动因子,消除影响植被变化的不利因素,将对植被覆盖度的变化产生积极影响,对于区域生态安全也有积极意义。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1]IPCC.Climatechang3thephysicalecebsis/tocrF,QinD,laterGK,igorM,SK,oscngJ,els,iaY,BexV,MidgdsoiofokingopfesstetofeoealeloleCgCambridge，United Kingdom，New York，NY，USA：Cambridge University Press，2013：5-5.  \n[2］任国玉，郭军,徐铭志，初子莹，张莉，邹旭凯，李庆祥，孙小宁.近50年中国地面气候变化基本特征.气象学报，2005，63（6)：942-956.  \n[3]ZhaoMungSWoghtiducdductioilobaltetrialetpraryprodutofroothh9.iec，19(5994):940-943.  \n[4]PiaoatAangegJDbcasehfperaterassdsdsespostaegin China.Global Environmental Change,2006,16(4）：340-348.  \n[5］刘光生，王根绪，胡宏昌，任东兴,孙向阳.长江黄河源区近45年气候变化特征分析.资源科学,2010,32（8)：1486-1492.  \n[6]WangQ，ZhangQP,ZhouW.GraslandcoveragechangesandanalysisofthedrivingforcesinMaqucountyPhysicsProcedia，1，31292- 1297.  \n[7］孙红雨，王长耀，牛铮，布和敖斯尔,李兵.中国地表植被覆盖度变化及其与气候因子关系—一基于NOAA 时间序列数据分析.遥感学报，1998，2(3)：204-210.  \n[8]MyneniRB,KeelingCD,uckerCJAsrarG,eaniRR.Icreasedplanrothineortiglatudefro98to9ae,1997，386(6626):698-702.  \n[9]TuckerC,labackDA,inJE,LsSO,MynRBaylorMG.Higerortatitudeoaledfrecevegeatioegrowing season trends from1982 to 1999.International Journal of Biometeorology，2001,45(4）：184-190.  \n[0]ParkHoBJetrsgofgeatioEstsiouplihmperauefallsJalical",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Research，2010，115（D14），doi：10.1029/2009JD012752.[1]PiaoSanXs,ZngiuJselieieatoothrdieratedls1982 to 2006.Global Change Biology，2011，17(10）：3228-3239.[12]WangXH,iaS，iaisP,LiJS,rilingsteinPKovnC,hAP.SpringtemperaturechangeadiplicatoiafvegetationgrohiNtecafr98trosfttoaladfecofteUitedSatesec8(4):1240-1245.[13］张学珍，戴君虎，葛全胜.1982-2006 年中国东部春季植被变化的区域差异.地理学报，2012,67(1)：53-61.[14]JingX,YaWQ,WangJH,ongXYAsdyoeeliostedaicagofvegetatiocoveagdpreipiatioiiig'smountainous areas during the last 2O years.Mathematical and Computer Modeling,2O11,54（3/4）：1079-1085.[15］毕晓丽，王辉，葛剑平.植被归一化指数(NDVI)及气候因子相关起伏型时间序列变化分析.应用生态学报，2005，16(2)：284-288.[16］孙睿，刘昌明，朱启疆.黄河流域植被覆盖度动态变化与降水的关系.地理学报，2001,56(6)：667-672.[17］贺伟，布仁仓，熊在平，胡远满.1960-2005年东北地区气温和降水变化趋势.生态学报，2013，33（2）：519-531.[18］刘园，王颖，杨晓光.华北平原参考作物蒸散量变化特征及气候影响因素.生态学报，2010,30(4)：923-932.[19］莫兴国，刘苏峡，林忠辉，邱建秀.华北平原蒸散和GPP格局及其对气候波动的响应.地理学报，2011,66(5）：589-598[20] WuSH,YangQYZengD.DelieatioofogeapcegioalsystofCina.JoualofogacalSiecs，，3）：-15.[21］徐敏云,李运起，王望，曹玉凤，于海良，李雪枫，李连树，景福军，李佳祥，谢帆.河北省草地资源分布及植被特征动态.草业学报，2009，18(6):1-11.22]HouX，uJQiaacteristofialleaifvgegeiCi92009.Acta Ecologica Sinica，2012，32(6)：297-304.[23］陈效逑，王恒.1982-2003年内蒙古植被带和植被覆盖度的时空变化.地理学报，2009,64(1)：84-94.[24］赵玉萍，张宪洲，王景升，沈振西.1982年至2003年藏北高原草地生态系统NDVI与气候因子的相关分析.资源科学，209，31（11)：1988-1998.[25]Tucker CJ,Pinzon JE,Brown ME,Slaybak D A,Pak E W,Mahoney R,Vermote EF.An extended AVHRR $8 ~ \\mathrm { k m }$ NDVI dataset，compatiblewith MODIS and SPOTvegetation NDVI data.International Journal of Remote Sensing，2O05，26(2O）:4485-4498.[26］张月丛，赵志强，李双成，孟宪峰.基于SPOT NDVI的华北北部地表植被覆盖变化趋势.地理研究，2008,27（4)：745-754.[27］信忠保，许炯心，郑伟.气候变化和人类活动对黄土高原植被覆盖变化的影响.中国科学 D辑：地球科学，2007,37(11)：1504-1514.[28］张戈丽，徐兴良，周才平，张宏斌，欧阳华.近30年来呼伦贝尔地区草地植被变化对气候变化的响应.地理学报，2011,66(1)：47-58.[29］符淙斌，王强.气候突变的定义和检测方法.大气科学，1992，16(4)：482-493.[30］王力群，李崇银，谭言科，严冬.冬季蒙古高压的时空变化和突变特征研究.高原气象，2010,29(1)：23-32.[31］穆少杰，李建龙，陈奕兆，刚成诚，周伟，居为民.2001-2010年内蒙古植被覆盖度时空变化特征.地理学报，2012,67（9)：1255-1268.[32] 徐建华.现代地理学中的数学方法(第二版).北京：高等教育出版社，2002：43-47.[33］黄森旺，李晓松，吴炳方，裴亮.近25年三北防护林工程区土地退化及驱动力分析.地理学报，2012,67(5)：589-598.[34］王静，郭妮，蔡迪花，邓振镛.玛曲县草地退牧还草工程效果评价.生态学报，2009,29（3)：1276-1284.[35］许端阳，康相武，刘志丽，庄大方，潘剑君.气候变化和人类活动在鄂尔多斯地区沙漠化过程中的相对作用研究.中国科学D辑：地球科学，2009，39(4)：516-528.[36］赵少华，杨永辉，邱国玉，樊彤，胡玉昆.河北平原34年来气候变化趋势分析.资源科学,2007，29（4)：109-113.[37］李小燕.黄土高原植被对水热状况的响应研究.地理科学,2013，33（7）：865-872.[38］张，任志远，袁鑫.西北地区NDVI对水热条件年内变化的响应及其空间特征.资源科学，2011，33（12）：2356-2361.[39］徐兴奎，林超晖，薛峰.气象因子与地表植被生长相关性分析.生态学报，2003，23（2)：221-230.",
+        "page_idx": 16
+    }
+]

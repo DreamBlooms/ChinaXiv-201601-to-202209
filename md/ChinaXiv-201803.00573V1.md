@@ -1,0 +1,148 @@
+# ANOVEL INCREMENTAL BENDING PROCESS OF COMPLEXCURVED SHEETMETAL
+
+# ABSTRACT
+
+The bending of complex curved sheet metals of ship hull has long been a challenge in shipbuilding yard on account of some inherent defects of the traditional forming processes such as the line heating. This paper presents a novel incremental bending process based on punching to obtain all kinds of curved steel plates,in order to take the place of those inefficient traditional forming processes of ship hulls.
+
+The presented incremental bending process is carried out by a series of stepping punches, so it is also defined as incremental punching in this work.By means of this process,the blank plate that is fixed and held by a flexible supporting system can be bent to the target shape by a press tool with a planned tool trajectory gradually and incrementally one step after another. Meanwhile, in order to improve geometric accuracy of the formed work-piece,a 3D scanning feedback system is applied to measure the deformation of the work-piece during the forming process.The three dimensional shape of the formed work-piece is imaged and recorded by the 3D scanning system as a large amount of point cloud data.The difference between the formed work-piece obtained by rebuilding the model from the point cloud data and the target CAD model can be acquired,which can be used as feedback for controlling the forming accuracy if necessary.
+
+To validate the presented forming process,an original incremental punching prototype was designed and manufactured, which was mainly composed of a 3-axis CNC machine,a flexible supporting system and a 3D scanning feedback system. A forming experiment of a gradual curvature steel plate was carried out using this prototype and is discussed in detail in this paper in order to demonstrate the feasibility of the proposed incremental bending process of complex curved steel plate.
+
+Keywords: sheet metal forming, incremental sheet forming, curved surface, flexible manufacturing.
+
+# INTRODUCTION
+
+The bending of complex curved sheet metals of ship hull has long been a challenge in shipbuilding yard on account of some inherent defects of the traditional forming processes.The ship hull, especially located in bow and stern, is always designed to various complex shapes in order to reduce the resistance of water current in ocean or river. The steel plates which are used for constructing the ship hull are formed traditionally by line heating process [1]. The principle of this process is relatively simple. As shown in figure 1,along the tracks of heating and cooling,the flat plates expand when heated and contract when cooled, and gradually turn into the desired curved shapes in this way. In the light of this principle of line heating, just a flame gun,a water-jet and several fixtures can acquire all kinds of curved steel plates. However, the accuracy of the final work-piece could not be guaranteed because the process is deeply dependent on worker's experience. Even worse，the environment of the working place is so bad due to the noise and pollution from the heating tools that the worker's health is badly affected. Although some methods [2-4] have been proposed to improve this process, its defects have not been overcome thoroughly until now.
+
+![](images/dee6016875f972243c6c5a6a261d2da1a9ad0cf1fb857d4878c60b7b17d6e7fb.jpg)  
+Figure 1. Schematic model of line heating process.
+
+Accordingly, some novel flexible forming methods were proposed to take the place of the line heating process, such as multi-point forming (MPF)[5-7],line array roll set (LARS)[8,9], continuous roll forming (CRF)[10-12] and so on. The MPF process take advantage of two reconfigurable flexible forming tool groups to approximate the upper and lower die surfaces so that the complex curved sheet metal can be formed by punching. However, the quality and precision of the formed work-piece couldn't be guaranteed due to uncontrollable deformation resilience of the work-piece. The LARS machine composed of a pair of upper and lower symmetric roll assemblies.The sheet metal can be bent by the upper and lower roll sets.Through adjusting the relative position of each roll, the curvatures in the transverse direction and longitudinal direction could be generated during roling process. The CRF process is also a flexible forming methods for the complex curved sheet metal based on roling. It can form the doubly curved surface by means of a pair of bendable rols controlled at a series of points as a forming tool. The two schemes of LARS and CRF are similar with the different pairs of roll arrays. However they both could only be used in the bending of thin plate and the maximum size of the plate is also limited.
+
+In the past few decades,incremental sheet forming (ISF） process has been developing and improving rapidly since the idea was presented by Roux and Leszak in 196Os [14,15]. Comparing with the conventional sheet forming processes,ISF process is a highly versatile and flexible method for manufacturing of small-batch or customized sheet metal parts which are desired to be bent or stretched into a variety of complex shapes according to their functions.Although the ISF process is a bit time consuming in contrast to the conventional forming processes like stamping, the forming force in ISF process does not increase with the size of the sheet metal part due to localized plastic deformation taking place incrementally,accordingly, it can be applied to the forming of a wide size range of sheet metal materials.Therefore,besides the aviation,architecture,auto industries and so on, there is a potential application in shipbuilding, specifically, the forming of the steel plates of ship hull.
+
+Based on the principle of the ISF, this paper presents a novel incremental bending process by punching to obtain various curved steel plates. Its principle is explained in more detail in this paper. Furthermore,an original incremental punching prototype was designed and manufactured,and a typical forming experiment of a certain gradual curvature steel plate was also carried out to investigate the feasibility and validity of this process.
+
+# FORMING PROCESS
+
+The presented incremental bending process is carried out by a series of stepping punches, which is shown schematically in Figure 2,so it is defined as incremental punching in this work.At first, the blank sheet is fixed on a flexible supporting system which is composed of a matrix of supporting pillars.Each supporting pilar consists of an electromagnetic chunk,a spherical joint bearing,and a lifting pillar. The electromagnetic chunk is installed at top of the supporting pillar for holding and magnetizing the formed steel plate tightly by magnetism,and it is connected with lifting pillar through the spherical joint bearing so that it can rotate around the bearing center to guarantee the surface contact with the formed sheet plate.The supporting pillar can independently be driven up and down by a motor or by hydraulic power so that the height of every supporting pillar can be adjusted according to the deformation of the steel plate during the forming process.Then, the blank sheet would be punched slowly by a press tool with a predefined tool trajectory gradually and incrementally one step after another. At each punching step,the applied force from the presstool stresses the steel plate beyond its yield strength a litle,causing the plate to plastically deform but not to fail or pit on the surface. By doing so,the steel plate would be bent into a variety of complex shapes step by step,and eventually, the final work-piece would be obtained in this way.
+
+![](images/df168067b05256147d8bfcf6f1a03b13c588da36063bfdae6099a69bcc7acdd4.jpg)  
+Figure 2. Schematic model of incremental punching process.
+
+Obviously, the tool trajectory play a key role in the above incremental punching process because it would significantly influence not only the quality of the final work-piece,but the forming effciency. The trajectory planning of the press tool is mainly concerned with two aspects- -the tool path and the longitudinal punching feed ofevery step.The former is relevant to the forming eficiency,and the latter noticeably influences the forming quality.Figure 3 illustrates a trajectory planning method for the press tool. On one hand,the tool path can be planned according to the sequence and the coordinate position of every punching step. Take the coordinate system shown in Figure 3 for example, the whole tool path is depicted by the sequence of every punching step of the press tool, which is recorded by step n $( \mathrm { n } { = } 1$ ， 2,3...),and their corresponding coordinate position, which is marked by and .On the other hand,the longitudinal punching feed of the press tool on every step, which is depicted by the axial feed of step n $( \mathrm { n } { = } 1 , 2 , 3 . . . )$ as the example shown in Figure 3,can be formulated according to the deformation of the steel plate on corresponding punching position. Clearly, every punching feed must be reasonable, otherwise there would be pitted on the work-piece surface if the feed gives too much. On balance, for a sound trajectory planning,the punching speed of the press tool at the working stroke must be slow suitably in order to reduce the punching impact, but for the sake of the increase in forming eficiency, the press tool should move swiftly at the idle stroke.
+
+![](images/cd39eb3ec16161c47cae00a9115f6527da4889ecefcc0b808e30da2f0ac09d83.jpg)  
+Figure 3.Schematic trajectory planning of the press tool.
+
+The flow chart of the whole forming process is given in Figure 4. First, a CAD-model is built according to the desired shape of the final work-piece. Considering the significance of an optimal trajectory planning of the press tool, it is necessary to take advantage of a simulation analysis of the forming process by finite-element method (FEM) in advance in the light of the prepared CAD-model. Then,a CNC code which is used to control the motions of all kinds of the modules of the forming system (such as the motions of the press tool and the pillars of flexible supporting system) is generated by a specific CAM software package on the basis of the planned optimal trajectory. In addition, a scanning feedback system is applied to monitor the shape and accuracy of the work-piece during the forming process.From the scanning fedback system,the difference between the formed work-piece and the prepared CAD-model (i.e. the desired steel plate part) can be obtained by comparative analysis, so that some local modification could be carried out to increase the forming accuracy if necessary.
+
+![](images/13097cbe63efd874c664188b998fa51f118d3bc834d61f53c6db7393e88610ca.jpg)  
+Figure 4.Flow chart of forming process.
+
+# PROTOTYPEEQUIPMENT
+
+In order to validate and investigate the above forming process,an original prototype equipment was designed and manufactured. This equipment is mainly composed of a 3-axis CNC machine, a flexible supporting system and a scanning system, as shown in Figure 5.
+
+![](images/c7d3837fc84977ff56770b1f2ddccc2c4d945eddc7cbb2511a29ad01e0064b4c.jpg)  
+Figure 5.Photograph of the prototype equipment, showing its configuration.
+
+# 3-axis CNC machine
+
+The 3-axis CNC machine consists of an XY working table and a vertical column that own a movable spindle box along Z-axis.The flexible supporting system that hold and carry the work-piece is placed on the XY working table so as to move along the X-axis or/and Y-axis directions freely with the motion of the XY working table.Meanwhile,the press tool is fixed together with the spindle nose of the vertical column so that can move along the Z-axis direction with the motion of the spindle box and accordingly exert a certain applied force to the work-piece.The motions of the XY working table and the spindle box are controlled precisely by an external CNC system.
+
+# Flexible Supporting System
+
+The steel plate is held and carried by the supporting system during the forming process as shown in Figure 6. In this prototype, there are totally 12 independent supporting pillars which are arranged as $4 { \times } 3$ in the flexible supporting system. Of course, the number and arrangement of the pillars could be adjusted according to different condition. All the center distances between those pillars are $1 2 0 ~ \mathrm { m m }$ The range of up and down of each pillar is $9 0 \mathrm { m m }$ ：
+
+![](images/7141dcdd2ebb68dd459d6b8114d3deb2caff09c2264f43958395f8674c3cf5f7.jpg)  
+Figure 6.Photograph of the incremental punching process.
+
+From the assembly scene of the flexible supporting system shown in Figure 7, it can be seen that there is a circular electromagnetic chunk at the top of every supporting pillar, which can be used to clamp the steel plate by magnetism during the forming process At each pillar, the electromagnetic chunk is put on a spherical joint bearing,which can rotate around the joint center to guarantee the surface contact between the steel plate and the electromagnetic chunk with the deformation of the steel plate.The pillar is driven up and down by a motor. During the whole forming processthe altitude of every pillar should be adjusted individually according to the shape of the formed steel plate to make sure that allthe pilars can hold and clamp the plate flexibly. Moreover, during the forming process the vertical punching force along with the supporting pillar from the press tool must not be directly transmitted to the motor to prevent damage. So a thrust ball bearing is used at bottom of each pilar in order to transmit the punching force to the beam,then to the supporting block,and finally to the XY working table of the 3-axis CNC machine.
+
+![](images/0defe03663ec74462592ceb648d3f4ac459a4b9d79496327c5bcb136acefb983.jpg)  
+Figure 7. Photograph of the assembly scene of the flexible supporting system, showing its major components.
+
+# 3D Scanning System
+
+The 3D scanning system can rapidly generate a large amount of point cloud data to obtain a highdefinition 3D image of the formed work-piece by scanning the objective surface. The 3D scanning image represents the real shape of the formed work-piece and can be used for comparative analysis with the prepared CAD-model of the desired final work-piece.The key part of the 3D scanning system is a 3D scanner whose working principle is shown in Figure 8.It can be seen that there is a projector in the middle of the scanner to project a scanning light to the objective (i.e. the work-piece),and the corresponding reflected light is received respectively by two cameras which are fixed on both sides of the scanner. By means of a geometric synthesis process of the relative position of the lights received by the two cameras, the 3D digital shape of the objective can be easily obtained.
+
+![](images/beaeb695b904cab00a0a9998fa28ab28bca1035fd30a17ffb3658e955e6914a4.jpg)  
+Figure 8. Schematic of the 3D scanning system.
+
+The 3D scanner in this prototype is shown in Figure 9. Its maximum scanning zone from one shot is $8 0 0 { \times } 6 0 0 ~ \mathrm { m m }$ . But it can also composite multiple scanning images from multi shots into a big one to enlarge its scanning zone. Furthermore, its responding speed is less than five seconds per imaging. The precision of the scanning image can achieve $0 . 0 3 \sim 0 . 0 8 \mathrm { m m }$ ，
+
+![](images/bea9b50c380a712d71d62bb33e8ccde5d064b80c88a1b67e4f5337521b4ffe81.jpg)  
+Figure 9.Photograph of the 3D scanner.
+
+# EXPERIMENTALINVESTIGATION
+
+The proposed incremental punching process was investigated by means of a series of forming experiments of various curved sheet metals with the above prototype equipment. One of those experiments was to form a kind of steel plate with gradual curvature, which is the most common shape of the curved sheet metals for constructing ship hull. It is discussed in detail as follows:
+
+# ExperimentalPreparation
+
+The size of the blank sheet is $3 3 0 { \times } 4 5 0 { \times } 2 . 5 ~ \mathrm { m m }$ and the material is Q235.The CAD-model of the target work-piece is shown in Figure 10,in which the numerical ruler on the right side indicates the value of axial deformation along the Z-axis direction at any point of the plate.
+
+![](images/8976e03c65abc9a531da98fb871c9b05ed3fbcc3611a7577bde2f03ce4173c4b.jpg)  
+Figure 10. CAD-model of the target work-piece.
+
+According to the prepared CAD-model of the target work-piece,the tool trajectory could be planned by means of simulation analysis of the whole forming process from the blank sheet to the target work-piece. The purpose of the simulation analysis is to obtain all kinds of needed forming parameters in advance for trajectory planning of the press tool by simulating the whole process of dynamical deformation. These forming parameters normally include the amount of deformation and the forming force of every punching step and so on. In addition, there are another two principles for the trajectory planning of the press tool:
+
+(1） Symmetry principle, on account of the CAD-model of the target work-piece belonging to symmetric shape referring to XZ plane.
+
+(2) Shortest path principle, for the sake of increasing forming efficiency.
+
+Based on the result of the simulation analysis and the above two principles,the trajectory planning of the press tool in this experiment can be worked out and is given in Figure 11. Itcan be seen that the sequence of all the punching steps of the press tool follows the above principles.Furthermore,the forming process is layered to carry out in order to reduce the forming force. The sequence and the acting positions of all the punching steps in every layer are the same, but the corresponding axial fed of the press tool (i.e. punching feed) at each acting position is increased one layer after another. In fact, the punching feeds at allthe acting positions of every layer are relevance to the layer number. That is, the less the layer number, the large the punching feeds of every layer are.Therefore,the layer number must be reasonable because the forming effciency would be lower as the layer number increasing, but on the contrary, the forming quality would be bad if the layer number is too less to overlarge punching feeds.According to the result of the simulation analysis,5 layers should be reasonable in this experiment.Table 1 gives the all the punching feeds of the 5 layers, in which the axial feed correspond to the of the punching step n $( \mathrm { n } { = } 1 , 2 , 3 { \ldots } )$ shown in Figure 11.
+
+![](images/01d24ac266584f84cd963b1d72f62fa97492223a82a646bc97e2f6697161e3f2.jpg)  
+Figure 11.Trajectory planning of the press tool for the forming of the gradual curvature steel plate (the size of the blank sheet: $3 3 0 4 5 0 2 . 5 \mathrm { m m }$ ）
+
+Table 1.Axial feed of step n of various layers (mm)   
+
+<html><body><table><tr><td>n</td><td>Layer 1</td><td>Layer 2</td><td>Layer 3</td><td>Layer 4</td><td>Layer 5</td></tr><tr><td>1</td><td>-2.04</td><td>-4.09</td><td>-6.13</td><td>-8.18</td><td>-10.22</td></tr><tr><td>2</td><td>-3.28</td><td>-6.57</td><td>-9.85</td><td>-13.13</td><td>-16.42.</td></tr><tr><td>3</td><td>-4.54</td><td>-9.09</td><td>-13.63</td><td>-18.17</td><td>-22.72</td></tr><tr><td>4</td><td>-5.83</td><td>-11.66</td><td>-17.49</td><td>-23.31</td><td>-29.15</td></tr><tr><td>5</td><td>-7.15</td><td>-14.30</td><td>-21.45</td><td>-28.60</td><td>-35.75</td></tr><tr><td>6</td><td>-6.58</td><td>-13.16</td><td>-19.74</td><td>-26.32</td><td>-32.90</td></tr><tr><td>7</td><td>-6.58</td><td>-13.16</td><td>-19.74</td><td>-26.32</td><td>-32.90</td></tr><tr><td>8</td><td>-5.35</td><td>-10.69</td><td>-16.04</td><td>-21.38</td><td>-26.73</td></tr><tr><td>9</td><td>-5.35</td><td>-10.69</td><td>-16.04</td><td>-21.38</td><td>-26.73</td></tr><tr><td>1 0</td><td>-4.15</td><td>-8.29</td><td>-12.44</td><td>-16.59</td><td>-20.73</td></tr><tr><td>11</td><td>-4.15</td><td>-8.29</td><td>-12.44</td><td>-16.59</td><td>-20.73</td></tr><tr><td>1 2</td><td>-2.97</td><td>-5.94</td><td>-8.92</td><td>-11.90</td><td>-14.87</td></tr><tr><td>1 3</td><td>-2.97</td><td>-5.94</td><td>-8.92</td><td>-11.90</td><td>-14.87</td></tr><tr><td>1 4</td><td>-1.82</td><td>-3.64</td><td>-5.47</td><td>-7.29</td><td>-9.11</td></tr><tr><td>1 5</td><td>-1.82</td><td>-3.64</td><td>-5.47</td><td>-7.29</td><td>-9.11</td></tr><tr><td>1 6</td><td>-2.04</td><td>-4.09</td><td>-6.13</td><td>-8.17</td><td>-10.22</td></tr><tr><td>1 7</td><td>-2.04</td><td>-4.09</td><td>-6.13</td><td>-8.17</td><td>-10.22</td></tr><tr><td>1 8</td><td>-2.95</td><td>-5.90</td><td>-8.86</td><td>-11.81</td><td>-14.76</td></tr><tr><td>1</td><td>-2.95</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td>-5.90</td><td>-8.86</td><td>-11.81</td><td>-14.76</td></tr><tr><td>2 0</td><td>-3.89</td><td>-7.77</td><td>-11.66</td><td>-15.55</td><td>-19.43</td></tr><tr><td>2 1</td><td>-3.89</td><td>-7.77</td><td>-11.66</td><td>-15.55</td><td>-19.43</td></tr></table></body></html>
+
+# Resultanddiscussion
+
+The duration of the forming process is no more than 20 minutes. The final work-piece formed by the above tool trajectory is shown in Figure 12.The forming quality is acceptable because the surface of the formed work-piece is smooth and not pited. However, there is slight crease near the bigger curvature end of the work-piece.Figure 13 shows the 3D image of the actual formed work-piece which was generated by the 3D scanning system with the point cloud data.Itcan be used for the comparative analysis with the CAD-model of the target work-piece to investigate the forming accuracy, because it represents the real shape of the formed work-piece.
+
+![](images/a72145984da413b31569dd57054f8210da8588474324e1da30b203839e6f6cb3.jpg)  
+Figure12.Formedwork-piece.
+
+![](images/7ee5d28074e8e426cd515a42b6ab64552c19680b892dcdab5a3db7448525e830.jpg)
+
+Figure 13.3D image of the formed work-piece (rebuilt by a large amount of point cloud data).
+
+Since the 3D image and the CAD-model represent the formed and the target work-pieces respectively, the forming accuracy can be displayed by the axial diffrence along the Z-axis direction between the 3D image and the CAD-model if put them into the same coordinate system and let their reference frames coincide. Figure 14 shows this process of the comparative analysis of the forming accuracy. The axial diference along the Z-axis direction of the 3D image and the CAD-model is recorded as $\Delta Z$ ，correspondingly, the distribution of $\Delta Z$ is shown in Figure 15. It can be found that the biggest difference appears around the electromagnetic chunks near the bigger curvature end of the work-piece. Generally, the difference can be deemed to be allowable as long as it is within tolerance. In fact, further improving measures such as local forming correction at the biggest error region could be carried out by means of error feedback control to increase the forming accuracy if necessary.
+
+![](images/163db7ab92e0c02eda4cec238e0b6225df24030b32f54d091e4a3355a18e28f0.jpg)  
+Figure 14. Comparative analysis of the target work-piece and the formed work-piece.
+
+![](images/43be8207dce33ce4b8729d85bb60f41724853d9b13ac46f4dfd43478514e1a58.jpg)  
+Figure 15.Difference distribution (△Z) between the target work-piece and the formed work-piece. In general, the proposal incremental punching process is feasible because the forming efficiency and quality are acceptable. The difference of the formed work-piece also can be controlled to reasonable scope and within tolerance by means of comparative analysis of diference and further error feedback mechanism.
+
+# CONCLUSIONS
+
+This paper puts forward a novel incremental bending process based on punching to obtain all kinds of curved steel plates.By means of this process,the blank plate that is fixed and held by a flexible supporting system can be bent to the target shape by a press tool with a planned tool trajectory gradually step by step. In the light of the principle of this forming process,an original prototype equipment was designed and manufactured. A typical forming experiment was carried out using this prototype and is demonstrated in this paper. The main conclusions can be drawn as follows:
+
+a) The presented incremental bending process is fit for the forming of various curved steel plate, so it can be applied to bending of complex curved sheet metals of ship hull. b） The tool trajectory play a key role in the proposed incremental bending process,which significantly influence the forming efficiency and quality. c) The novelty of this work lies in the guarantee of the forming accuracy by means of comparative analysis of difference and error feedback mechanism.
+
+# ACKNOWLEDGMENTS
+
+Thepresented research work wassupported by Shenzhen Peacock Plan Project (KQCX20130628112914289) and Shenzhen Basic Research Project (JCYJ20150521094519483).
+
+# REFERENCES
+
+[1] Shin, J. G., Ryu, C. H.,Lee, J. H.,and Kim, W. D.,2003, "User-Friendly, Advanced Line Heating Automation for Accurate Plate Forming", Journal of Ship Production, Vol.19, pp. 8-15.   
+[2] Zhang, X., Ji, Z.,and Liu, Y., 2005,“Curvature Analysis Method for Ship-Hull Plate Forming”, Journal of Ship Production,Vol. 21, pp. 65-72.   
+[3] Jung S. P., Jong G. S.,and Kwang H. K.,2007,“Geometric Assessment for Fabrication of Large Hull Pieces in Shipbuilding",Computer-Aided Design, Vol. 39, pp. 870-881.   
+[4] Truong-Thinh. N.， Young-Soo，Y.， Kang-Yul B.，and Sung-Nam C.， 2009，“Prediction of Deformations of Steel Plate by Artificial Neural Network in Forming Process with Induction Heating”, Journal of Mechanical Science and Technology, Vol. 23, pp.1211\~1221.   
+[5] Li,M. Z., Cai, Z. Y., Sui, Z.,and Yan, Q.G.,2002, "Multi-Point Forming Technology for Sheet Metal", Journal of Materials Processing Technology, Vol. 129, pp.333-338.   
+[6] Liu, C. U.,Li, M. Z., and Fu, W. Z., 2008, "Principles and Apparatus of Multi-Point Forming for Sheet Metal", International Journal of Advanced Manufacturing Technology, Vol. 35, pp. 1227- 1233.   
+[7] Peng,H.,Li, M.,Liu, C.,and Cao, J., 2013, "Study of Multi-Point Forming for Polycarbonate Sheet", International Journal of Advanced Manufacturing Technology, Vol. 67, pp.2811-2817.   
+[8] Shim,D. S., Yang,D.Y., Kim,K.H., Han,M. S.,and Chung, S.W.,2009,"Numerical and Experimental Investigation into Cold Incremental Rolling of Doubly Curved Plates for Process Design of a New LARS (Line Array Roll Set) Rolling Process", CIRP Annals - Manufacturing Technology, Vol. 58, pp. 239-242.   
+[9]Shim, D. S., Yang, D.Y., Kim, K.H., Chung, S.W.,and Han, M. S.,2010,"Investigation into Forming Sequences for the Incremental Forming of Doubly Curved Plates Using the Line Array Roll Set (LARS) Process", International Journal of Machine Tools and Manufacture, Vol. 50, pp. 214-218.   
+[10] Wang, D.,Li, M.,and Cai, Z.,2014, "Research on Forming Precision of Flexible Roling Method For Three-Dimensional Surface Parts Through Simulation", International Journal of Advanced Manufacturing Technology, Vol. 71, pp. 1717-1727.   
+[11] Cai, Z.Y., Guan, D. B.,Wang,M.,and Li, M. Z., 2014, "A Novel Continuous Roll Forming Process of Sheet Metal Based on Bended Rolls"， International Journal of Advanced Manufacturing Technology, Vol. 73, pp. 1807-1814.   
+[12] Cai, Z. Y.， Li, L.L.，Wang,M.， and Li, M. Z.， 2014， "Process Design and Longitudinal Deformation Prediction in Continuous Sheet Metal Roll Forming for Three-Dimensional Surface", International Journal of Precision Engineering and Manufacturing,Vol.15, pp.1889- 1895.   
+[13] Roux,P.,1960,“Machines for Shaping Sheet Metal", United States Patent Office.   
+[14] Leszak,E.,1967,“Apparatus and Process for Incremental Dieless Forming", United States Patent Office.

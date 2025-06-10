@@ -1,0 +1,227 @@
+# 一种改进的Kp指数现报模式
+
+王庚12 罗冰显 刘四清1 龚建村1
+
+1(中国科学院国家空间科学中心北京 100190)2(中国科学院大学北京 100049)
+
+摘要在评估国际常用 $K p$ 指数现报模式 Takahashi及其应用于中国地磁台站效果的基础上，提出了一种改进的地磁 $K p$ 指数现报模式，其可以有效识别地磁规则日变化的逐日变化特性，反映地磁扰动的季节效应和地方时效应，从而提升了 $K p$ 指数现报的准确性.采用 Takahashi模式开发时所使用的台站数据进行对比，新模式将单站地磁 $K p$ 指数现报效率由0.77提升至0.84,多站联合 $K p$ 指数现报效率由0.88提升至0.92；采用2000—2006 年北京十三陵台站(BMT，磁纬 $\mathrm { 2 9 ^ { \circ } N }$ ）数据进行评估， $K p$ 指数现报效率由0.70提升至0.80.对 $K p$ 指数现报结果的误差分析发现，现报误差存在明显的地方时差异和一定的季节差异，误差随扰动强度变化并在中强磁扰时最大．利用 SuperMAG 的指数分析表明, $K p$ 台站的经度不均匀分布会对现报效果造成一定影响.
+
+关键词 $K p$ 指数, $S _ { \mathrm { q } }$ 指数,FMI方法,现报，磁扰中图分类号 $\mathrm { ~ P 3 5 3 ~ }$
+
+# An Improved Algorithm for Nowcast of Kp Index
+
+WANG Geng1,2 LUO Bingxian1 LIU Siqing1 GONG Jiancun $^ { 1 }$
+
+1(National Space Science Center,Chinese Academy of Sciences,Beijing 100190) 2(University of Chinese Academy of Sciences,Beijing 100049)
+
+AbstractThe planetary three-hour-range $K p$ index is widely used in space weather services. Due to the two weeks’ time delay of the release of $K p$ index, the real-time estimation of the $K p$ index becomes essential for space weather forecasting organizations. In this paper,an improved algorithm for real-time $K p$ estimation on the basis of Takahashi's procedure was developed. The new algorithm improved the accuracy of $K p$ estimation by distinguishing the day-to-day variations of geomagnetic field's regular variation and taking account of both the diurnal and seasonal variations of magnetic disturbance.The statistical result shows that the Prediction Effciency (PE) increased from 0.77 to 0.84 using Fredericksburg's data, from 0.88 to 0.92 using the nine stations network's data. Using the data from Beijing Ming Tombs observatory (BMT） from 2000 to 2006,the PE increased from 0.70 to 0.80 compared with the Takahashi procedure.The error of the estimations differs from universal time,season and the scale of magnetic disturbance. The RMS error reached maximum for $K p = 7$ ：
+
+Analysis of $K p$ using the SuperMAG indices indicated that the asymmetric distribution of $K p$ stations affects the $K p$ nowcast performance.
+
+Key words $K p$ index, $S _ { \mathrm { q } }$ index,FMI method,Nowcast,Magnetic disturbance
+
+# 0引言
+
+国际3h磁情指数 $K p ^ { [ 1 - 2 ] }$ 是磁层物理研究的重要参量[4-12]．同时，由于地磁扰动和其他磁层物理现象的紧密关系，很多空间天气模式需要以 $K p$ 指数作为输入参数．学术研究和空间天气预报对 $K p$ 指数发布的时效性要求是完全不同的．目前， $K p$ 指数的发布（德国波茨坦地球科学研究中心）延迟2周,这一延迟对空间天气预报的实时性要求影响很大，
+
+当前解决 $K p$ 指数在空间天气预报中时效性需求的方法大致归为两类．一是建立 $K p$ 指数短期预报模式，以ACE卫星L1点的太阳风参数为输入，提前约半小时预报地磁 $K p$ 指数.此类模式主要是基于神经网络方法开发的，例如Wing 等的APL 模式[13],Boberg 模式[14]和Bala 模式[15]．二是根据地磁台站实时监测数据发展的地磁 $K p$ 指数估计方法，对 $K p$ 指数进行现报.此类模式一般是按照 $K p$ 指数的推导过程,在某些环节上采用一些近似假设，进行 $K p$ 指数的估算,具有代表性的是Takahashi等[16]采用9个地磁台站的历史数据构造的现报模式，单站 $K p$ 指数现报值与实测值的相关系数为 $0 . 8 5 \mathrm { \sim } 0 . 9$ ，而9台站联合 $K p$ 指数现报值与实测值的相关系数为0.94.该模式在美国国家海洋和大气管理局空间天气预警中心（NOAA/SWPC)运行，并作为地磁暴警报的判断依据.
+
+$K p$ 指数现报的误差来源主要有两方面：一是现报模式中近似的假设，主要涉及地磁规则日变化提取以及由单站或多站 $K$ 指数估算 $K p$ 指数时的拟合关系；二是用于 $K p$ 指数现报的台站数及地理分布.
+
+降低现报模式误差，提升地磁 $K p$ 指数现报的准确性是空间环境预报的重要需求．由于中国台站磁纬较低，地磁扰动的响应相对高纬台站较弱，当完全使用Takahashi模式时，正午附近现报值与 $K p$ 的相关系数较低.此外，Takahashi 模式中的一些近似假设使得该模式无法去除地磁规则日变化的逐日变化，对地磁扰动的季节变化也未加区分，这都给该模式的地磁 $K p$ 指数现报准确性带来影响
+
+本文通过对以Takahashi模式为代表的国际常用 $K p$ 指数现报模式计算流程的分析，对该模式应用于中国地磁台站的效果进行评估，提出了一种改进的地磁 $K p$ 指数现报模式，新模式能有效识别地磁静日变化的逐日变化特性，反映地磁扰动的季节效应和地方时效应，从而提升了 $K p$ 指数现报的准确性.通过对比，检验了新模式的效果，进而分析了 $K p$ 指数现报的误差及可能的原因，
+
+# 1 $K p$ 指数现报模式及应用效果
+
+# 1.1 $K p$ 指数现报模式
+
+$K p$ 指数是由全球13个台站的 $K$ 指数推算得到的，计算过程包括5个步骤：(1）提取单台站地磁三分量的规则日变化；(2）从地磁实测值中去除规则日变化，计算单台站的 $\mathrm { 3 h }$ 扰幅；(3）根据扰幅与 $K$ 指数对应关系，计算单台站 $K$ 指数，有 $0 { \sim } 9$ 共10级；(4)根据 $K { - } K s$ 转换表计算单台站 $K s$ 指数; (5)所有 $K p$ 台站 (分布如图1所示）的 $K s$ 求平均得到 $K p$ 指数.由于不同磁纬度的台站、同一台站不同季节 (使用劳埃德天文季节划分法，一年划分为三个季节[1])或地方时的地磁扰幅平均强度均不同,在历史频次分布相同的原则下，每个标准台站都制定出各自扰幅与 $K$ 的对应关系、 $K \ – K s$ 转换表，以使得同一时段各台站 $K s$ 指数具有相同的权重,所有标准台站的 $K s$ 平均值近似反映全球磁情[1-2].
+
+$K p$ 指数的现报，一般是按照 $K p$ 指数的推导过程，在某些环节上采用近似假设进行计算得到的.在计算流程上，Takahashi模式与 $K p$ 指数现报模式的区别主要是步骤(1）和步骤 (4)，即地磁规则日变化QDC（Quiet Day Curve）的提取和单站 $K$ 指数向 $K p$ 指数的转换
+
+地磁规则日变化QDC的提取是计算 $K p$ 指数最重要的一步．Menvielle等[17]评估了多种计算机标定QDC的算法,并与手工标定结果进行对比，发现FMI方法效果最好.但是FMI方法无法直接应用在 $K p$ 指数现报，因为在求解某一时段的QDC 时，需要使用该时段前后各一段时间内的地磁实测值，这在地磁指数实时现报中是不可能满足的.为解决该问题,Takahashi等[16]经过分析评估，采用了一种时序叠加的QDC计算方法：利用当日之前10天的历史数据，对全天0，1，2，，23 共 $\mathrm { 2 4 h }$ ，求之前10天内各小时的中值，再对得到的全天24个点进行傅里叶变换，滤去5次以上谐波，插值回分钟精度即得到当日QDC.相比Chapman等[18提出的采用当月5个磁静日的平均值计算QDC的常规方法，Takahashi方法是一种改进版本,因为其不再依赖于对磁静日的人为判定．但其共同假定是在进行时序叠加的时间范围内QDC的形态和变幅无明显变化.
+
+![](images/52257de73d744802a609ff03917328e0ac6383c4586891966d45b5b1337bcda2.jpg)  
+图1 $K p$ 指数计算使用的13个台站、SWPC 现报 $K p$ 指数使用的9个台站及北京十三陵地磁台的位置分布 (IGRF 2000 地磁坐标系)  
+Fig.1Locations of 13 geomagnetic feld stations used for the derivation of $K p$ index,9 stations used by SPWC for $K p$ index nowcast and the domestic station BMT (in IGRF 20oO geomagnetic coordinates)
+
+各站 $K$ 指数向 $K s$ 指数转换是为了消除地磁扰动的季节和地方时差异.Takahashi现报模式中没有区分季节，只分地方时按照线性拟合关系，将各站的 $K$ 指数转为 $K s$
+
+# 1.2 应用效果
+
+Takahashi等在构造 $K p$ 指数现报模式时，使用的地磁台站的地磁纬度均在 $4 3 ^ { \circ }$ 以上，而中国所处地磁纬度较低，空间天气预报中常用的北京十三陵地磁
+
+台站地磁纬度为 $2 9 ^ { \circ } \mathrm { N }$ ，直接将Takahashi现报模式应用于该站效果不理想.
+
+表1列出了利用2000—2006 年北京十三陵地磁监测数据对Takahashi地磁 $K p$ 指数现报模式的评估结果.根据现报效率定义，
+
+$$
+P _ { \mathrm { E } } = 1 - \frac { \sum ( P - O ) ^ { 2 } } { \sum ( O - \overline { { O } } ) ^ { 2 } } ,
+$$
+
+这里 $P$ 为现报值， $O$ 为实测值, $\overline { { \boldsymbol { O } } }$ 为实测值的平均值整体上分析，现报值与实测值的相关系数为0.81,现报效率为0.70．从现报效果的地方时和季节分布看，地方时差异非常大，正午附近的预报效果最差，三个季节的现报效果有一定差异.
+
+为提升 $K p$ 指数现报效果,进一步应用于中国地磁台站，通过改进QDC 提取方法，兼顾地磁扰动的季节和地方时分布，提出一种改进的 $K p$ 现报模式
+
+# 2改进的 $K p$ 指数现报模式
+
+# 2.1 地磁规则日变化QDC实时提取方法
+
+地磁 $\mathrm { 3 h }$ 扰幅是 $K$ 类指数的核心变量，提取扰幅的关键是从地磁数据中识别非磁扰成分.Bartels等对非磁扰成分的定义是非 $K$ 变化(non- $K$ -variations),其包含了太阳静日变化 $S _ { \mathrm { q } }$ 及太阴静日变化 $L$ 和磁扰过后恢复期环电流等磁层电流缓慢变化 $D _ { \mathrm { m a } }$ 等成分[1]．Mayaud等给出了识别非 $K$ 变化的一系列规则[19]，符合此规则的磁场变化成分称为 $S _ { \mathrm { R } }$ 变化，即规则日变化．本文沿用Takahashi模式[16]中使用的QDC（QuietDayCurve）表示磁场规则日变化曲线，将Takahashi模式计算QDC的方法称之为Takahashi方法.
+
+表1Takahashi现报模式应用于北京十三陵台站的效果  
+Table 1 Performance of the Takahashi $K p$ nowcast algorithm when applied to the BMT station   
+
+<html><body><table><tr><td rowspan="3">时段</td><td colspan="2">D季节</td><td colspan="2">E季节</td><td colspan="2">J季节</td><td colspan="2"></td></tr><tr><td>LC</td><td>PE</td><td>LC</td><td>PE</td><td>LC</td><td>PE</td><td>LC</td><td>PE</td></tr><tr><td>时段1</td><td>0.87</td><td>0.83</td><td>0.86</td><td>0.82</td><td>0.86</td><td>0.80</td><td>0.86</td><td>0.82</td></tr><tr><td>时段2</td><td>0.75</td><td>0.71</td><td>0.81</td><td>0.70</td><td>0.74</td><td>0.61</td><td>0.77</td><td>0.68</td></tr><tr><td>时段3</td><td>0.67</td><td>0.52</td><td>0.67</td><td>0.52</td><td>0.70</td><td>0.56</td><td>0.68</td><td>0.53</td></tr><tr><td>时段4</td><td>0.69</td><td>0.48</td><td>0.68</td><td>0.47</td><td>0.76</td><td>0.55</td><td>0.71</td><td>0.50</td></tr><tr><td>时段5</td><td>0.78</td><td>0.64</td><td>0.81</td><td>0.64</td><td>0.82</td><td>0.66</td><td>0.80</td><td>0.65</td></tr><tr><td>时段6</td><td>0.87</td><td>0.80</td><td>0.87</td><td>0.79</td><td>0.88</td><td>0.78</td><td>0.87</td><td>0.79</td></tr><tr><td>时段7</td><td>0.89</td><td>0.83</td><td>0.89</td><td>0.82</td><td>0.89</td><td>0.81</td><td>0.89</td><td>0.82</td></tr><tr><td>时段8</td><td>0.90</td><td>0.83</td><td>0.91</td><td>0.84</td><td>0.87</td><td>0.79</td><td>0.89</td><td>0.82</td></tr><tr><td>平均值</td><td>0.80</td><td>0.70</td><td>0.81</td><td>0.70</td><td>0.82</td><td>0.69</td><td>0.81</td><td>0.70</td></tr></table></body></html>
+
+注D 季节为1,2,11,12月；E季节为3,4,9,10月;J季节为5,6,7,8月.时段1到时段8分别对应北京地方时 02:00LT—04:00LT,05:00LT—07:00LT,·,20:00LT—22:00LT,23:00LT—01:00LT.LC 为现报值与实测值的相关系数，PE为现报效率.
+
+QDC具有显著的逐日变化，主要归因于太阳日变化 $S _ { \mathrm { q } }$ 的逐日变化[20]. $S _ { \mathrm { q } }$ 主要取决于周日潮汐引起的电离层发电机电流，其具有复杂的形成机制，但主导变量可归结为电离层电导率和潮汐风场[21-22],电离层电导率及潮汐风场等因素的逐日变化导致 $S _ { \mathrm { q } }$ 的逐日变化[21-22]．而磁层电流的缓慢变化也会对 QDC引入逐日变化的成分[23-26]．图2(a）给出的是 2013年连续两个磁静日十三陵台站 $H$ 分量随地方时的变化，表明每日正午附近的磁场变化均非常平缓，但日变化幅度和相位都有差异
+
+不同方法识别QDC逐日变化的效果不同.目前已有的识别QDC的方法非常多，按基本的数学方法可分为统计回归法、频率滤波法、正交基分解法等几类,IAGA认可了USGS,AS,FMI和LRNS等4种具体方法[27]．Menvielle 等评估的结果显示,FMI方法与人工标定效果最接近[17].FMI方法是一种变窗口回归方法：在计算某一时间段的QDC 时,需要衡量这段时间前后的磁场变化，即如果磁扰较小时，取较小的时段内的磁场平均值计算QDC；而当磁扰较大时，按照磁扰规模相应扩大时段计算 $\mathrm { Q D C ^ { [ 2 8 - 3 0 ] } }$ ：时间窗口的扩展范围按照 $m + n$ 计算.其中: $m$ 为取决于地方时的常数; $n = K ^ { 3 . 3 }$ ，这里 $K$ 为QDC 计算过程中初步得到的 $K$ 指数值.如图2(b）所示，由于考虑了每日磁场实际变化的特点，该方法可以很好地区分QDC的逐日变化.图2(c)表明，相比FMI方法,Takahashi方法无法识别QDC的逐日变化
+
+两种方法可以结合在一起实时识别QDC.对于某个磁场分量，FMI 方法计算得到的QDC 经过各个时段时间窗口内实测数据的平均值点[17]，而对QDC本身，计算其各个时段时间窗口的平均值然后经过插值、滤波得到的曲线与自身重合，即把QDC代入FMI方法将得到QDC本身.因此，如果先利用过去数天数据的平均值初步求得规则日变化（下文称为准QDC)，再把准QDC中地方时与当前时刻之后时段相对应的值取出，连接在实测数据之后，代入
+
+![](images/b49b58c15b614de25eb0d2587016aae7d1f5c6dbcbdf3d4b4273ff70b662e596.jpg)  
+图22013年10月18日和19日十三陵台站地磁 $H$ 分量的实测值(a),FMI方法的QDC 计算值(b）以及Takahashi方法的QDC计算值(c）随时间的变化Fig.2Time variation of BMT's magnetic $H$ component's observations (a) and QDC curves calculated by FMI (b)and Takahashi(c) method from 18 to 19 in October 2013
+
+FMI方法，则在实测时间段，将得到与FMI相同的结果,在未来时间段，将得到与准QDC相同的结果，在两部分数据的连接处，计算QDC的效果受到磁扰程度和消除两端数据跃变方法的影响.在磁静时，QDC由 $S _ { \mathrm { q } }$ 变化决定. $\mathrm { { X u } }$ 等[20]认为， $S _ { \mathrm { q } }$ 的逐日变化主要表现在正午附近的变化幅度上，而相位的逐日变化大多在半小时之内.因此，准QDC 在数据间断点前一小时和后一小时的均值变化应与实测数据相应的变化相差不大，变化量值的差异取决于QDC的幅度因此把准QDC的未来部分整体上下平移使得合成数据在间断点前后时均值的变化量与准QDC的相应变化量相同，即可在如下意义上消除间断，即最终得到的QDC与准QDC在两区间连接处的变化率相同．在磁扰时，间断点前一小时的磁场强度可能整体变化，应对时间窗口进行扩展．由于不同磁纬度台站QDC变幅与地磁扰动幅度的比例不同，最佳扩展长度因台站纬度而异，
+
+图3给出的是利用新方法生成QDC的过程，假设当前时刻为 $1 5 { : } 0 0 \mathrm { L T B }$ (北京时间)，所现报 $\mathrm { 3 h }$ 区间为12:00LTB—15:00LTB.任一地磁分量实测值截止到15:00LTB(图3a)；根据过去数天实测值计算得到准QDC(图 3b)；对准QDC 进行整体平移，使其与实测值在14:00LTB—15:00LTB时段的平均值相等,截取平移后QDC 在 $1 5 { : } 0 0 \mathrm { L T B }$ 时刻以后的部分，计算实测值在 $1 4 { : } 0 0 \mathrm { L T B - 1 5 { : } 0 0 \mathrm { L T B } }$ 时段的平均值时，应根据初步得到的 $K$ 指数值判断向前扩展时间窗口的长度(图3c);因FMI方法使用3天数据计算中间一天的QDC，所以取1.5天的实测值，1.5天经过平移的准QDC,代入FMI方法，计算得到中间一天的QDC，截取其中间时段12:00LTB—15:00LTB的部分作为现报时段的QDC (图3d)．图4给出的是利用新方法计算QDC得到的结果．因计算过程按 $\mathrm { 3 h }$ 区间推移，最终结果由所有3h区间的QDC连接而成.
+
+![](images/8bc42e425f5aa89f97f1bba17d7282c916bbafed7b50377541fbf99f37d53cc3.jpg)  
+图3利用新方法生成 QDC 的过程.15:00 BLT 为当前时刻,12:00LTB—15:00LTB 为所现报的 $\mathrm { 3 h }$ 区间.(a)实线表示某一地磁分量实测值，加号表示每小时的平均值.（b）虚线表示利用过去数天观测值计算的准QDC,方框表示每小时的平均值：(c）整体移动准QDC 使得 14:00LTB—15:00LTB 时段其平均值与实测值平均值相等，保留移动后准 QDC15:00 LTB 时刻以后的部分.(d）将实测数据与移动后准QDC 代入FMI方法计算得到 $2 4 \mathrm { h }$ 的QDC,  
+截取其中12:00LTB—15:00LTB时段
+
+Fig.3Example of calculating QDC by the new method,supposing that the present local time is 15:00LTBand the three-hour-intervalfor nowcast is12:00LTB—15:00LTB.(a) Solid line indicates observation ofa geomagnetic feld component,plus sign indicates hourly average of the observation.(b) Dashed line indicates quasi-QDC calculated from former several days’observations,square sign indicates the hourly average of the quasi-QDC. (c) Moving   
+quasi-QDC as a whole to a position where hourlyaverageof the moved quasi-QDC is equal to thatof the observation   
+in 14:00LTB—15:00LTB.(d)Applying theFMI method to 3-daydata,including 1.5 days of the observations before   
+15:00LTB and 1.5 days of the moved quasi-QDC after 15:00LTBand getting the QDCof the centralday.Taking the results corresponding to the interval of 12:00LTB—15:00LTBas the final QDC needed for the nowcast
+
+![](images/6636f8d397cd1eb3e7d57df5af420dc4d207b28c6417b0ffeb1936dbcb60eaa0.jpg)  
+图4利用新方法计算QDC 所得结果 Fig.4Derived QDC using the new method (solid line), compared with that of the FMI method (dotted line)
+
+# 2.2 $\kappa$ 指数转换为 $\kappa _ { s }$ 指数的多项式拟合
+
+采用多年样本，按照上述方案得到 $\mathrm { 3 h }$ 扰幅,并按照各台站转换关系得到 $K$ 指数估算值 $K _ { \mathrm { e s } }$ 后，即可用最小二乘回归方法，得到从 $K _ { \mathrm { e s } }$ 到单台 $K p$ 估算值 $K p _ { \mathrm { { e s } } }$ 的转换函数，用于未来现报．在不同地方时及不同季节下需要统计各自的转换函数，以完整替代 $K { \cdot } K s$ 转换表.Takahashi模式采用线性拟合方式，区分全天8个 $\mathrm { 3 h }$ 段，但并未区分全年3个劳埃德季节.新模式按照式（1）使用多项式拟合，分别得到3个劳埃德季节下8个 $\mathrm { 3 h }$ 区间的24组转换函数（见图5).从图5可以看出，不同地方时的转换函数差异较大，不同季节的转换函数存在一定差异.
+
+$$
+K p = f ( K _ { \mathrm { e s } } ) , \quad K p _ { \mathrm { e s } } = f ( K _ { \mathrm { e s } } ) .
+$$
+
+# 3新模式现报效果检验
+
+# 3.1 模式对比
+
+使用与Takahashi现报模式相同的测试数据(Fredericksburg 台站 (FRD）1998 年2—10 月数据)进行测试，对新模式与Takahashi模式进行对比，结果如图6所示 (图6a取自文献[16])．从图6可以看到，地方时正午附近的相关系数明显提高，从原来的0.78提升至0.88，现报效率从0.62提升至0.77;新旧两种模式在地方时子夜附近现报值的相关系数均高于0.9，新模式效果略有提高，相关系数从0.93提升至0.94，现报效率从0.88提升至0.89；从所有样本分析，新模式 $K p$ 现报值的离散度明显减小，相比旧模式，相关系数从0.87提升至0.92，现报效率从0.77提升至0.84.可以看出，新模式可大大减小正午QDC 的识别误差,使得 $K p$ 现报效果明显提高.
+
+使用Takahashi现报模式9个台站（见图1）中8个台站1998 年的数据进行多台站测试，由于个别台站数据不完整或有错误，最终结果取各台站结果的中值．相比Takahashi模式，现报值与 $K p$ 值的相关系数由0.94提升至0.96,现报效率由0.88提升至0.92图7给出的是两种模式的最终现报值与 $K p$ 值的相关系数随世界时的变化，可以看到，新模式在各个时段均优于Takahashi模式.但同时两种模式的效果都在18:00UT附近较差，这可能是由于所使用的台站大多分布在北美 (见图1)，正午附近的现报偏差没有完全消除.图8给出了两种模式的最终现报值与 $K p$ 值差异的频率分布，可以看到新模式有 $8 1 \%$ 的结果与 $K p$ 值无偏差,相比Takahashi模式的 $7 2 \%$ ，提高了 $9 \%$ ，进一步说明新模式具有更好的准确性.两种模式均有约 $9 9 \%$ 的结果与 $K p$ 值偏差不大于1，表明多台联合现报可相当准确地反映 $K p$ 指数量值
+
+# 3.2 中国台站数据的现报效果
+
+利用2000—2006年共7年的十三陵台站地磁数据进行测试，分别评估了新模式与Takahashi模式的效果，相比Takahashi模式，新模式在所有时段的相关系数平均值由0.81提升至0.89，现报效率由0.70提升至0.80．图9给出了两种模式现报效果的比较,可以看出，新模式相比Takahashi模式,在日侧时段05:00LT—16:00LT,现报效果提升较明显.任一指标均存在明显的地方时变化，在正午时段11:00LT—$1 3 { : } 0 0 \mathrm { L T }$ 效果较差，在夜侧时段效果较好.图9(c）显示，均方根误差存在季节变化，在E季节 (春秋分)的正午时段达到最大值，现报结果离散度最大.
+
+# 4讨论
+
+图 10 给出了使用 2000—2006 年北京十三陵台站数据，采用两种QDC计算方法得到 $K p _ { \mathrm { { e s } } }$ 均方根误差随 $K p$ 的变化情况．两种方法的变化趋势均表现出 $K p < 2$ 时均方根误差较高， $K p$ 为 $2 { \sim } 7$ 时均方根误差递增，, $K p > 7$ 时均方根误差减小．新方法的效果在 $K p \leqslant 6$ 时优于Takahashi方法,但在 $K p \geqslant 7$ 时基本相当.
+
+![](images/ddc335c40beaac4a9a32a9eb20a09ee536428abf68f2dc2cc3ceb223e1265f30.jpg)  
+图5 $K _ { \mathrm { e s } }$ 到 $K p _ { \mathrm { e s } }$ 的多项式转换函数曲线  
+Fig.5Conversion function series from $K _ { \mathrm { e s } }$ to $K { p _ { \mathrm { e s } } }$
+
+![](images/f5a0fbeb6927cad4061432b1d0ec683f4b1b6d3ed4270e8210a26940af2dd82c.jpg)  
+图6使用 FRD 台站1998 年2—10 月数据时 Takahashi模式与新模式的现报结果.(a) Takahashi现报模式给出 的 $2 0 { : } 0 0 \mathrm { L T }$ ， $1 1 { : } 0 0 \mathrm { L T }$ 和全天现报值与 $K p$ 值的对比；(b）新模式的相应结果 Fig.6Results are based on the dataofFRD from February to October in1998.(a) Distributions of real-time estimated $K p$ and $K p$ for $2 0 { : } 0 0 \mathrm { L T }$ ， $1 1 { : } 0 0 \mathrm { L T }$ and all the local time given by Takahashi procedure. (b) Corresponding nowcast results given by the new procedure
+
+![](images/b4ff27eb8772f2946aec934f038401dad451d06a1ef6b6c4200e26a9f40ee35b.jpg)  
+图7多台站联合现报结果与 $K p$ 指数相关系数随世界时的变化  
+Fig.7Variation of correlation coefficient between $K p _ { \mathrm { e s } }$ and $K p$ using multi-stations network data withUniversal Time
+
+# 4.1新方法计算QDC的准确性
+
+图10 显示出两种QDC计算方法用于中国台站时 $K p$ 现报效果的差异．新方法相比Takahashi方法在 $K p = 6$ 时有明显提升,但在更强磁暴时提升并不明显.Menvielle[17]指出,FMI方法得到的QDC 与实测值曲线贴合太紧，在磁扰时会混入规则变化以外的成分.Takahashi方法识别的QDC虽然与实际规则日变化相比有平均 $1 0 \mathrm { n T }$ 的偏差[16],但结果较为稳定.新方法的现报效果取决于FMI方法的准确性，因此这里对比分析了FMI方法与Takahashi方法的效果．图11(a）给出了两种方法得到的 $K _ { \mathrm { e s } }$ 标准差随 $K p$ 的变化，在 $K p \textless 3$ 时，Takahashi方法的结果较差， $K p > 3$ 后Takahashi方法比FMI方法的结果稳定．图11(b)给出了两种方法得到的 $K _ { \mathrm { e s } }$ 平均值随 $K p$ 的变化，显示出FMI方法得到的结果偏小,即当 $K p$ 较大时可能造成漏报．但对于最终现报结果 $K { p _ { \mathrm { e s } } }$ ，新方法相比Takahashi方法在 $K p \leqslant 6$ 时有
+
+![](images/59403500eae38bbd5e6d1cef219b74831f79616070f04e8e54f5894a26c53262.jpg)  
+图8多台联合现报结果与 $K p$ 差值的频率统计
+
+Fig.8Frequency distribution of the differences between $K p _ { \mathrm { e s } }$ and $K p$ using multi-stations network data更好的效果,这是由于 $K p \leqslant 3$ 时Takahashi方法所得结果离散度较高而造成的.图11(c）给出的是 $K p$ 标准差随两种方法的 $K _ { \mathrm { e s } }$ 变化，相比FMI 方法，Takahashi方法的 $K _ { \mathrm { e s } }$ 在 $4 { \sim } 5$ 附近时 $K p$ 的离散度较大．图11(d）进一步显示，Takahashi方法的 $K _ { \mathrm { e s } }$ 在 $4 { \sim } 5$ 附近时 $K p$ 的平均值较小,这说明当 $K p$ 较小时Takahashi方法更可能出现虚报，使得对中小磁暴预警的准确性降低．基于上述原因，新方法相比 Takahashi方法在 $K p \leqslant 6$ 时现报效果更好，但在更强磁暴时提升不明显
+
+![](images/0bca7cbc044180542f53a2f43c45b034bd17a3b4b5204da6176e4e2a9b45b68b.jpg)  
+图92000—2006 年十三陵台站新模式与 Takahashi 模式 $K p _ { \mathrm { e s } }$ 及 $K p$ 在不同季节下的相关系数与地方时的关系 (a),现报效率与地方时的关系(b)以及均方根误差与地方时的关系(c).红色为新模式的提升部分Fig.9Local time variation of correlation coefficients between $K { p _ { \mathrm { e s } } }$ and $K p$ (a),prediction efficiencies (b),and rootmean square erors of the Takahashi procedure and the new procedure (c)using the BMT data from 2000 to 2006.Red bars indicate the improvement of the new procedure compared with the Takahashi procedure
+
+![](images/a064253d7f4352d0a0ec7b6db6216984e1f8b984b7450c5c9d99190137d4b1ab.jpg)  
+图10基于 2000—2006 年十三陵台站数据所得新方法 和 Takahashi方法 $K p _ { \mathrm { e s } }$ 均方根误差与 $K p$ 的关系 Fig.10Variation of the root mean square error of $K { p _ { \mathrm { e s } } }$ of the Takahashi method(dashed line) and the new method(solid line)with $K p$ using the data of BMT during 2000 to 2006
+
+# 4.2 $K p _ { \mathrm { e s } }$ 与 $K p$ 偏差的原因
+
+从图10还可以看出，两种方法的现报效果在中强磁暴 $( 5 \leqslant K p \leqslant 7 )$ ）时均较差，即 $K { p _ { \mathrm { e s } } }$ 与 $K p$ 偏差较大.这种现报偏差的根本来源是 $\mathrm { 3 h }$ 扰幅，具体可归结为两方面：一是QDC计算方法对扰幅识别的偏差；二是相同 $K p$ 条件下，单台扰幅存在较大离散度.图12给出了两种方法现报结果在中强磁暴（ $[ 5 \leqslant$ $K p \leqslant 7 )$ 下标准偏差随地方时的变化．可以看到两种方法结果的离散度均在正午时段11:00LT—13:00LT时达到最大，在 $1 7 { : } 0 0 \mathrm { L T - } 1 9 { : } 0 0 \mathrm { L T }$ 时有一个局部极小值.考虑到 $S _ { \mathrm { q } }$ 变化在正午附近最剧烈 (见图2)，从图12显示的现报结果在地方时正午附近的较高离散度可以推测，QDC计算方法对扰幅识别的偏差是中强磁暴现报效果较差的重要原因．此外，地磁活动存在混沌机制[31],使得相同 $K p$ 条件下,单台扰幅本身存在离散性，从而导致现报结果出现偏差，这决定了单台现报效果的上限．如图12所示，两种方法的结果在 $1 7 { : } 0 0 \mathrm { L T - } 0 7 { : } 0 0 \mathrm { L T }$ 同有0.75左右的离散度.确定性混沌所致扰幅的离散性是很难消除的；对扰幅识别偏差的消除有赖于进一步改进QDC的识别方法，从图12所示两种方法现报结果在正午附近离散度的峰值可以看出，QDC的识别方法仍有改进余地.
+
+![](images/c0dbc7857a155c2c3897019cb9a15343dd753763c0b4adfbe32b051c1ad711a3.jpg)  
+图11利用FRD台站1998—2001 年数据得到的 $K p$ 与 $K _ { \mathrm { e s } }$ 统计结果Fig.11Statistics on $K _ { \mathrm { e s } }$ and $K p$ by different QDC calculating methods using the data of FRD from 1998 to 2001
+
+![](images/f17eea3ec97070598682dcfac2fae9a1fceb3a9c6a6a1374f0740c04437614d8.jpg)  
+图122000—2006 年中强磁暴 $( 5 \leqslant K p \leqslant 7 )$ 现报结果的标准差随地方时的变化  
+Fig.12 Local time variation of the standard deviation of the nowcast result by the new procedure (solid curve) and Takahashi procedure (dashed curve) during disturbed periods( $5 \leqslant K p \leqslant 7$ ）based on the BMT data from 2000 to 2006
+
+另外还有一些因素可能会对现报效果造成影响，例如 $K p$ 标准台站的时区分布不均匀，主要集中在欧洲和美洲(见图1),尽管 $K \ – K s$ 转换表旨在消除各台站磁扰强度的地方时差异，但效果有限，Kp指数存在明显的世界时变化[32]；磁层电流系的空间分布特征，单台站的平均扰动程度存在地方时差异.
+
+本文使用SuperMAG指数分析上述因素对现报效果的具体影响．SuperMAG 仿照AE指数和 Dst指数的计算方法分别制定了极光电急流指数SME，部分环电流指数SMR-00，SMR-06，SMR-12，SMR-18和环电流指数SMR（SMR-00，SMR-06,SMR-12,SMR-18的平均值)，均利用了约 100 个均匀分布台站的数据[26,33-34]，反映出夜侧极光总能量[33]、不同地方时的部分环电流强度和全球环电流的平均强度[34]．考虑极区电流系(场向电流及相应的极区电离层电流）和环电流这两个影响全球地面磁场扰动的主要电流系统，使用SME，SMR-00，SMR-06，SMR-12，SMR-18和SMR指数分别作为极区电流强度、不同地方时的部分环电流强度和对称环电流强度的衡量指标，使用上述指数的 $\mathrm { 3 h }$ 变化幅度分别表示极区电流及不同地方时的部分环电流和对称环电流的 $\mathrm { 3 h }$ 扰动程度.
+
+# 4.2.1相同 $K p$ 条件下极区电流与环电流强度随世界时的变化
+
+图13分别给出了在不同地磁条件下与 $K p$ 指数 $\mathrm { 3 h }$ 区间对应的时间段极区电流和环电流的扰动程度随世界时的变化．极区电流的扰动程度无论在磁静时 $( K p < 4 )$ 还是中强磁暴时 $( 5 \leqslant K p \leqslant 7 )$ 都有一个峰值,出现在 $0 9 { : } 0 0 \mathrm { U T - 1 1 { : } 0 0 \mathrm { U T } }$ 时段内.环电流的扰动程度在磁静时随世界时变化较小,在中强磁暴时存在明显的两个峰值，分别位于 $1 2 { : } 0 0 \mathrm { U T - }$ $1 4 { : } 0 0 \mathrm { U T }$ 和 $1 8 { : } 0 0 \mathrm { U T - 2 0 { : } 0 0 \mathrm { U T } }$ 时段.考虑到 $K p$ 标准台站有约一半集中分布在欧洲，4个分布在北美(见图1)，从图13的结果可以推断 $K p$ 标准台站在正午附近容易得到相比实际全球磁扰强度偏小的结果.图13(b)的两个峰值一定程度上验证了这一观点， $1 2 { : } 0 0 \mathrm { U T { \_ } 1 4 { : } 0 0 \mathrm { U T } }$ 欧洲台站处于正午附近，北美台站处于晨点附近; $1 8 { : } 0 0 \mathrm { U T - 2 0 { : } 0 0 \mathrm { U T } }$ 时欧洲台站处于昏点附近，北美台站恰好处于正午附近，
+
+因此, $K p$ 台站的经度不均匀分布导致了相同 $K p$ 条件下极区电流与环电流强度随世界时的变化．因为极区电流系 (场向电流及相应的极区电离层电流)和环电流是两个影响全球范围的地面磁场扰动的主要电流系统,在相同 $K p$ 量值下全球范围的地面磁场扰动强度存在世界时变化
+
+# 4.2.2 $K p$ 台站分布不均匀对现报结果的影响
+
+4.2.1节的结果说明， $K p$ 标准台站的时区分布不均匀导致了相同 $K p$ 指数下全球范围的地面磁扰强度随世界时的变化．具体到单台站，其磁扰强度还存在随地方时的变化．SMR-00，SMR-06，SMR-12，SMR-18分别给出夜侧、晨侧、日侧、昏侧半球的环电流强度，显示扰时不同地方时的环电流强度[34].本文采用十三陵台站所在地方时的SMR指数的 $\mathrm { 3 h }$ 扰幅来大致衡量相应地方时的磁扰强度.08:00LT—$1 3 { : } 0 0 \mathrm { L T }$ 采用 SMR-12， 14:00LT—19:00LT采用SMR-18， 20:00LT—01:00LT 采用 SMR-00,02:00LT—07:00LT采用SMR-06.图14(a）为不同 $K p$ 区间内部分环电流指数 $\mathrm { 3 h }$ 扰幅的平均值随十三陵地方时的变化，图线显示中强磁暴时（ $( 5 \ \leqslant$ $K p \leqslant 7 )$ 部分环电流指数扰幅存在明显的地方时变化．对各个地方时，中强磁暴时 $( 5 \leqslant K p \leqslant 7 )$ 和静时！ $( K p \ < \ 4 )$ 部分环电流指数扰幅的比值反映出此地方时附近地面磁扰强度随 $K p$ 的增长速度．比值越大扰幅分布的范围就越宽，现报效果受QDC识别偏差和单台扰幅本身离散性的影响就越小；反之，QDC识别偏差和单台扰幅本身离散性的影响就被放大．图14(b）给出这一比值随地方时的变化，其变化趋势与图12曲线存在反相关性，特别是在 $1 7 { : } 0 0 \mathrm { L T - } 1 9 { : } 0 0 \mathrm { L T }$ 时现报结果离散度的极小值与图14(b)的峰值相对应,说明 $K p$ 标准台站的不均匀分布对单台站的扰时现报效果造成了影响
+
+![](images/90973f8800ee4148dfac62ba44befe8c85a969468ab6ad290797d7505cfd236d.jpg)  
+图132000—2006 年中强磁暴时 $( 5 \leqslant K p \leqslant 7 )$ ）和磁静时（ $\lfloor K p < 4 \rfloor$ ）SME指数(a)和SMR指数的$\mathrm { 3 h }$ 扰幅平均值(b)随世界时的变化
+
+![](images/9e942532a1101aeb23539b04959da0fda0f9b07f061e0f081e81bf67a35ee4ed.jpg)  
+Fig.13Universal time variation of the mean value of $\mathrm { 3 h }$ range of $S M E$ index(b) and SMR index (a) for disturbed periods ( $5 \leqslant K p \leqslant 7$ ）and quiet periods ( $\lfloor K p < 4 \rfloor$ ）from 2000 to 2006   
+图142000—2006 年 SuperMAG部分环电流指数 $\mathrm { 3 h }$ 扰幅平均值.(a）暴时(实线)和磁静时(虚线)随地方时的变化,(b）暴时与磁静时的比值随地方时的变化  
+Fig.14Local time variation of the mean value of $3 \mathrm { h }$ range of SuperMAG partial ring current index from 2000 to 20o6.(a) For disturbed periods (solid curve) and quiet periods (dashed curve). (b) ratio of the disturbed periods and quiet periods
+
+# 5结语
+
+基于提升 $K p$ 指数现报效果的目的，提出了一种改进的 $K p$ 指数现报模式．新模式实时识别规则日变化的方法结合了 $K p$ 计算过程中使用的 FMI 方法与SWPC的 $K p$ 现报模式中使用的Takahashi方法，可以识别规则日变化的逐日变化；新模式兼顾了地磁活动的季节效应与地方时效应，使用24组多项式转换函数，完整替代单台站的 $K { \cdot } K s$ 转换表.从整体效果看，与Takahashi模式相比，新模式对单台站现报效果的提升非常明显， $K p$ 台站FRD 的相关系数从0.87提升至0.92，现报效率从0.77提升至0.84;中国BMT台站的相关系数从0.81提升至0.89,现报效率从0.70提升至0.80．新模式对多台站联合现报的准确性也有所提升，相关系数从0.94提升至0.96，现报效率从0.88提升至0.92．从现报效果的地方时变化看，在地方时正午附近新模式的提升效果非常显著．从现报效果随磁扰程度的变化看，新模式有效提升了中小磁暴（ $( K p \leqslant 6 )$ 以下预报的准确性,强磁暴的预报效果与Takahashi模式相当
+
+通过评估可以认为，条件有限时新模式可直接用于中国单台站实测地磁数据 $K p$ 现报，而选取时区跨度较大的多台站数据来联合现报能够获得更好的 $K p$ 现报效果.
+
+致谢所使用的 $K p$ 数据由世界数据中心京都地磁分中心提供，使用的SMR，SMR-00，SMR-06，SMR-12，SMR18 指数由 SuperMAG 提供 (http://supermag.jhuapl.edu).
+
+# 参考文献
+
+[1]BARTELS J.The Standardized Index,Ks,and the Planetary Index, $K p$ [M].Paris:IUGG Publication Office,1949   
+[2] BARTELS J，HECK N H，JOHNSTON H F.The three-hour-range index measuring geomagnetic activity[J].Terr.Mag.Atmos.Elec.,1939,44(4):411-454   
+[3] THOMSEN M F.Why $K p$ is such a good measure of magnetospheric convection[J].Space Weather,2004，2, S11004   
+[4]GUSSENHOVEN M S,HARDYD A,HEINEMANN N. Systematics of the equatorward diffuse auroral boundary[J].J.Geophys.Res.,1983,88(7):5692-5708   
+[5] MCILWAIN C E.Plasma convection in the vicinity of the geosynchronous orbit [M]//Earth's Magnetospheric Processes.Netherlands:Springer,1972: 268-279 [6] FRIEDEL R H W, KORTH H, HENDERSON M G,et al. Plasma sheet access to the inner magnetosphere [J].J. Geophys.Res., 2001,106(4): 5845-5858 [7] CAUFFMAN D P,GURNETT D A. Double-probe measurements of convection electric fields with the Injun-5 satelite[J].J. Geophys.Res.,1971,76(25): 6014-6027 [8] ROWLAND D E,WYGANT J R. Dependence of the large-scale, inner magnetospheric electric field on geomagnetic activity[J]. J. Geophys.Res.,1998,103(A7): 14959- 14964 [9] BINSACK J H. Plasmapause observations with the MIT experiment on IMP 2[J]. J. Geophys.Res.,1967, 72(21): 5231-5237   
+[10] CARPENTER D L，PARK C G. On what ionospheric workers should know about the plasmapauseplasmasphere[J].Rev. Geophys.,1973,11(1): 133-154   
+[11] HEPPNER JP.High latitude electric fields and the modulations related to interplanetary magnetic field parameters [J]. Radio Sci.,1973,8(11):933-948   
+[12]ALCAYDED,CAUDAL G,FONTANARI J.Convection electric fields and electrostatic potential over $6 1 ^ { \circ } \ll 7 2 ^ { \circ }$ （204号 invariant latitude observed with the European Incoherent Scatter Facility:1. Initial results[J].J. Geophys. Res., 1986, 91(1): 233-247   
+[13] Wing S, Johnson JR,Jen J,et al. $K p$ forecast models [J]. J.Geophys.Res.,2005,110,A04203   
+[14] BOBERG F,WINTOFT P,LUNDSTEDT H. Real time $K p$ prediction from solar wind data using neural networks [J].Phys. Chem. Earth.,2000,25(4): 275-280   
+[15] BALA R,REIFF PH, LANDIVAR J E.Real-time prediction of magnetosphere activity using the Boyle index[J]. Space Weather, 2009,7, S04003   
+[16] Takahashi K, Toth B A, Olson JV.An automated procedure for near-real-time $K p$ estimates [J].J. Geophys. Res., 2001,106(A10): 21017-21032   
+[17] MENVIELLE M, PAPITASHVILI N, HAKKINEN L,et al.Computer production of $K$ indices: review and comparison of methods [J].Geophys.J. Intern.,1995,123(3): 866-886   
+[18] CHAPMAN S, BARTELS J. Geomagnetism [M]. London: Oxford University Press,1940   
+[19]MAYAUDP N.Atlas of Indices $K$ [M].Paris:IUGG Publication Office,1967   
+[20] XU Wenyao.Day-to-day variability of the $S _ { \mathrm { q } }$ dynamo currents and $S _ { \mathrm { q } }$ index [J]. Chin. J. Geophys.,1992, 35(6): 676-684 (徐文耀. $S _ { \mathrm { q } }$ 发电机电流的逐日变化和 $S _ { \mathrm { q } }$ 指数[J].地 球物理学报，1992,35(6):676-683)   
+[21] KIRCHHOFF V W JH,CARPENTER L A. The dayto-day variability in ionospheric electric felds and currents [J]. J. Geophys.Res.,1976,81(16): 2737-2742   
+[22] WU Yingyan, XU Wenyao, CHEN Gengxiong. Analysis of the periodical characteristics of $S _ { \mathrm { q } }$ index[J].Chin．J. Geophys.,2012,55(3):953-959(吴迎燕,徐文耀,陈耿雄. $S _ { \mathrm { q } }$ 指数的周期变化分析[J].地球物理学报，2012,55(3):953-959)   
+[23] OLSON W P.Introduction to the topology of magnetospheric current systems[J].Geophys.Monogr.Ser.,1984, 28:49-62   
+[24] TAKEDA M.Day-to-day variation of equivalent $S _ { \mathrm { q } }$ current system during March 11—16,1970 [J].J.Geomagn. Geoelec.,1984,36(5):215-228   
+[25] XU W Y.Effects of the magnetospheric currents on the $S _ { \mathrm { q } }$ -field and a new magnetic index characterizing $S _ { \mathrm { q } }$ dynamo current intensity[J].J.Geomagn.Geoelec.,1992, 44(3):449-458   
+[26]GJERLOEVJW.The SuperMAG data processing technique[J].J.Geophys.Res.,2012,117,A09213   
+[27] YANG M L,LIU C M,YE D H.Preliminary study of computing $K$ index with FMI method[J].Seismol.Geom．Obs．Res.,2004,25(2):55-61(杨马陵,刘昌谋,叶东华. FMI方法计算地磁 $K$ 指数的初步研究[J].地震地磁观测与研 究,2004,25(2):55-61)   
+[28]BITTERLY M,MENVIELLE M,BITTERLY J，et al. A comparison between computer derived (FMI method) and hand-scaled $K$ indices at Port Aux Francis and Port Alfred French observatories [C]//Proceeding of the International Workshop on Geomagnetic Instrument,Data Acquisition and Processing.Bruxelles:Académie Royale de Belgique,1997: 136-143   
+[29]PIRJOLA R，RYNO J,SUCKSDORFF C.Computer production of $K$ -indices by a simple method based on linear elimination [C]//Proceeding of the International Workshop on Geomagnetic Observatory Data Acquisition and Processing,1990:136-146   
+[30] SUCKSDORFF C,PIRJOLA R,HAKKINEN L.Computer production of $K$ -values based on linear elimination[J].Geophys.Trans.,1991,36:333-345   
+[31]BAKERD N,KLIMAS AJ,MCPHERRONRL,et al. The evolution from weak to strong geomagnetic activity: Aninterpretation in terms of deterministic chaos [J].Geophys.Res.Lett.,1990,17(1):41-44   
+[32] SVALGAARD L.Recalibration of Bartels’geomagnetic activity indices $K p$ and $a p$ to include universal time variations [J].J.Geophys.Res.,1976,81(28):5182-5188   
+[33]NEWELL P T,GJERLOEVJW.Evaluation of SuperMAG auroral electrojet indices as indicators of substorms and auroral power[J]．J.Geophys. Res.，2011，116, A12211   
+[34] NEWELL P T,GJERLOEV JW.SuperMAG-based partial ring current indices[J].J.Geophys.Res.,2012,117, A05215

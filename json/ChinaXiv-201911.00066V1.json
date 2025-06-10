@@ -1,0 +1,340 @@
+[
+    {
+        "type": "text",
+        "text": "银川市湖泊一地下水转化关系一以阅海湖为例①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄小琴¹，张一冰¹，李英¹,2,，张勃¹，孟旭晨¹，徐磊(1．宁夏回族自治区水文环境地质勘察院,宁夏银川750011；2．中国地质大学（北京)水资源与环境学院,北京100083；3．宁夏回族自治区地质局，宁夏 银川750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在阅海湖西岸建立了一条原位监测剖面,通过分析湖水与地下水的动态规律、动态相关性以及氘、氧同位素分布特征，解析阅海湖与地下水之间的转化关系和驱动力条件。结果表明： $\\textcircled{1}$ 阅海湖仅与近岸区浅层地下水之间存在密切的动态响应关系； $\\textcircled{2}$ 在近岸区，湖水补给地下水的作用过程在 $5 \\mathrm { ~ m ~ }$ 深度范围内明显，当地下水埋深大于$5 \\mathrm { ~ m ~ }$ 时，湖水向地下水的转化补给作用减弱; $\\textcircled{3}$ 人工补水形成的高水头是驱动湖水向近岸区浅层地下水转化的直接动力因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：阅海湖；地下水；转化关系；同位素；二维流场；银川市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地下水对于维持湿地生态系统健康、结构与功能稳定的重要性日渐得到重视。地下水文过程对湿地生态系统的影响、湿地一地下水系统水量与水质转化关系、污染的地下水对湿地系统的影响以及湿地系统水量平衡等是当前湿地一地下水交互作用研究的热点[1-2]。在水资源紧缺的干旱半干旱地区,研究湿地一地下水水量水质转化机制，对区域水资源综合管理与湿地生态保护具有重要的理论价值和实践价值。韩爱果等[3]研究了北京地区地下水位与湿地发展之间的关系，指出北京地区湿地发展经历的3个阶段与地下水变化的关系极为密切；王磊等[4]采用水化学法和同位素法分析了扎龙湿地地表水与浅层地下水之间的联系，证明扎龙湿地是地下水的重要补给来源，为湿地水环境保护提供了重要依据。徐华山等[5通过黄河孟津湿地地下水位与洪水的响应关系，探讨了滨河湿地对洪水的调节作用和范围。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "银川市湖泊、湿地数量众多，有近200个，面积$5 . 3 1 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,在维护区域生态安全方面发挥着十分重要的作用。过去，银川市的湖泊、湿地在农田灌溉退水、洪水、降水和地下水的共同补给下，能够维持天然的稳定状态和良好的生态功能。20世纪50年代以来，受多次大规模农田开发、水利建设和持续的城市化扩张发展以及区域地下水位下降、黄河上游来水量减少和气候变化诸多因素的影响，多数湖泊湿地得不到充足的水源补给，面积萎缩、湖水变浅乃至干涸，湿地及湖滨生物资源遭到破坏，湖泊湿地生态功能严重退化[6-7]。由于湿地地表水与地下水之间的交互作用十分复杂(8-1],目前针对银川市湖泊湿地与地下水转化关系研究的报道十分少见。本文以银川市面积最大的湖泊湿地一一阅海为研究对象，开展湖泊一地下水转化关系研究，以期为湖泊一地下水交换量的计算、湖泊生态补水、地方水资源调控与优化配置以及水污染防治等工作提供科学指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阅海地处银川平原中部，行政区划隶属于银川市金凤区，总面积 $2 \\ 6 6 7 \\ \\mathrm { h m } ^ { 2 }$ ,平均水深 $1 . 4 \\mathrm { ~ m ~ }$ ,湖泊蓄水量 $1 6 1 2 \\times 1 0 ^ { 4 } \\ \\mathrm { m } ^ { 3 [ 1 2 ] }$ 。银川市西枕贺兰山,东吮黄河水，地貌类型自西部贺兰山山地、山前洪积倾斜平原向中东部依次过渡为冲洪积平原和冲湖积平原（图1）。地形西高东低，南高北低，向东北倾斜，平原区海拔 $1 \\ 0 8 9 \\sim \\ 1 \\ 6 0 0 \\ \\mathrm { m }$ 。贺兰山前洪积倾斜平原沉积了巨厚的砂卵砾石，自山前到洪积扇前缘，沉积物颗粒由粗到细，岩性由块石、卵石、砂砾石变为细砂夹砾石。在广大的冲洪积平原和冲湖积平原，沉积物岩性主要为细砂、砂黏土、黏砂土、粉细砂夹淤泥及砂卵砾石。地下水主要接受引黄渠系渗漏补给、田间灌溉入渗补给、大气降水入渗补给和侧向径流补给。由于沉积物颗粒细小，地势平缓，水力坡度小，地下水径流滞缓，径流方向为南西一北东向。排泄方式主要有潜水蒸发排泄、排水沟排泄、人工开采和向黄河径流排泄。阅海在地貌上处于冲湖积平原，是引黄灌区的主体，土地肥沃，农耕发达，不同地区农作物种类不同，灌溉方式不同，地下水的补给条件和动态变化也有所不同。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc634c1b3ccde7bedaef60de8440e939f498418cd5c1768d2c6aee8e83dd379d.jpg",
+        "img_caption": [
+            "图1研究区地理位置",
+            "Fig.1Geographical location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在阅海湖西岸建立了一条东西向长约 $6 . 0 \\ \\mathrm { k m }$ 的原位监测剖面，开展地下水动态监测，同步对照湖水动态变化规律，判断两者之间是否存在动态响应关系。环境同位素直接参与水文循环全过程，是了解水文循环过程，研究地下水补给来源，地表水与地下水转化关系的理想方法(13-16]。氘（D）和氧$1 8 ( ^ { 1 8 } \\mathrm { O } )$ 同位素是研究地表水与地下水转化最常用的环境同位素[17-20]。通过分析各地下水样品与湖水、黄河水样品 $ { 8 \\mathrm { D } } -  { 8 } ^ { 1 8 }  { 0 }$ 关系，绘制阅海湖西岸地下水剖面二维流场，分析地下水动力场特征，详细解析阅海湖与地下水之间的转化关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原位监测剖面建立方法：沿湖岸法线方向依次部署4组监测孔（YH01孔、YH02孔、YH03孔和YH04孔），各孔组到阅海湖岸的距离依次为0.18$\\operatorname { k m } \\phantom { - } 1 . 4 6 \\ \\mathrm { k m } \\phantom { - } 3 . 8 9 \\ \\mathrm { k m }$ 和 $6 . 1 6 ~ \\mathrm { k m }$ 。每组监测孔都包括 $6 . 0 0 \\ \\mathrm { m } \\ 、 1 1 . 5 0 \\ \\mathrm { m }$ 和 $3 1 . 5 0 \\mathrm { ~ m ~ }$ （滤水管位置分别位于 $5 \\mathrm { ~ m ~ } , 1 0 \\mathrm { ~ m ~ }$ 和 $3 0 \\mathrm { ~ m ~ }$ )3个不同深度的监测孔，分别用以监测不同深度地下水动态变化规律（图2）。水位采用3参数 Solinst(水位、水温、电导率)实时记录,记录频率设置为 $2 0 \\ \\mathrm { m i n }$ 。2018年4月，取各监测孔枯水期D和 $^ { 1 8 } 0$ 同位素样各11件,共计22 件（ $\\mathrm { Y H } 0 2 - 1$ 取样期间为干孔）。同时，为了更好地解析阅海湖水与地下水的补给关系和水动力关系，分别取小口子泉（贺兰山区）、阅海湖和黄河水D、 $^ { 1 8 } 0$ 同位素样品各1件，共计6件。同位素样品送至国土资源部地下水科学与工程重点实验室测试,测试仪器为同位素分析仪，测试方法为波长扫描一光腔衰荡光谱法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 湖水动态分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "银川市湖泊补水来源主要有渠系引黄(河)水、农田灌溉退水和山洪调蓄。由于当地水资源量不丰，为避免生态补水与农业用水争水，利用灌溉空闲期对湖泊进行生态补水的错峰补水机制，因此，银川市湖泊水文动态受农业灌溉规律控制作用明显。阅海湖的水源主要由典农河补给，每年的补水时间为4月一次，第二、三季度各补一次，秋灌停水后疏导唐徕渠积水补水一次，冬灌期间利用渠道弃水补水一次。每次补水时,湖水水位迅速上涨,补水结束后，在强烈的蒸散发作用下，水位持续回落，直至下一次补水,水位重新上涨。从2018 年阅海湖水位动态曲线看（图3），年初冰层解冻以来水位持续下降。到4月中旬，年内第一次生态补水引起湖水位明显上涨，涨幅 $0 . 3 3 \\mathrm { ~ m ~ }$ 。此后水位总体呈下降趋势，期间受小规模补水因素的影响，水位有几次小幅度上涨。为庆祝宁夏回族自治区成立60周年，自7月下旬开始对阅海湖进行了持续补水，水位涨幅0.47m，至9月初补水停止后，水位开始回落。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/240f7e1090af3b7b5256f569e4f5b0e5a31e158521b2303d26bf0056572beb02.jpg",
+        "img_caption": [
+            "图2地下水原位监测剖面布置",
+            "Fig.2Profile of in-situ groundwater monitoring ",
+            "图3阅海湖水位和地下水动态曲线",
+            "Fig.3Dynamic diagram of the Yuehai Lake and groundwater "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 地下水动态分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地下水动态监测工作自2018年3月23日开始，各组监测孔完整记录了距离阅海湖西岸不同位置不同深度的地下水动态特征。图3显示，距离阅海湖不同位置的4组地下水动态曲线特征显著不同。由表1可知，距离阅海湖较远的YH02、YH03孔和YH04孔地下水与湖水之间没有动态响应关",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1108 YH01-1 YH01-2 1108 YH02-2 YH02-31107 YH01-3 阅海湖水位 1107 阅海湖水位1106 m1106  \n1105 1105  \n位 水1104  \n水1104 1103 !1103 (a)YH01组 1102 (b)YH02组1102 110110-00 10-01 01-40 00- 20 60- 29 61-20 80-80 87-80 ∠[-60 ∠0-01 17-01 10-00 00-51 01-40 20-50 20 0 29 61-20 80-80 87-80 ∠[-60 ∠0-01 11-014 5 6 6 5 6 -90日期 日期1109 YH03-1 Y位 1 111 YH04-1 海永位1108 1 1101109  \n1107 wr 1108  \n水 水1107 (d)YH04组1105 (c) YH03组 11061104 1 10510-00 21 01-50 00-50 20 8 67-90 61-20 8 28 10-04 10-00 10-01 01-50 00-50 200 60-90 67-90 61-20 80-80 87-80 ∠I-60 ∠0-01 11-15-00 -90 -90 -80 -80日期 日期",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/860dc672f62abb848e4445dc603029f3d2f48cbfcd805a49a006e4b4a2555f01.jpg",
+        "table_caption": [
+            "Tab.1The dynamic correlation coefficients between each observation hole and the Yuehai Lake "
+        ],
+        "table_footnote": [
+            "注： $*$ 代表在0.05水平上显著相关； $^ { * * }$ 代表在0.01水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>样点号</td><td>YH01 -1</td><td>YH01 -2</td><td>YH01 -3</td><td>YH02 -2</td><td>YH02 -3</td><td>YH03-1</td><td>YH03-2</td><td>YH03 -3</td><td>YH04 -1</td><td>YH04 -2</td><td>YH04 -3</td><td>阅海湖</td></tr><tr><td>YH01 -1</td><td>1.000</td><td>0.745 **</td><td>0.749 **</td><td>0.717 **</td><td>0.724 **</td><td></td><td>-0.605 ** -0.601** -0.472.**</td><td></td><td>0.922 **</td><td>0.921 **</td><td>0.911 **</td><td>0.940 **</td></tr><tr><td>YH01 -2</td><td></td><td>1.000</td><td>1.000 **</td><td>0.936 **</td><td>0.945 **</td><td></td><td>-0.403 **-0.387**-0.197**0.737 **</td><td></td><td></td><td>0.744 **</td><td>0.668 **</td><td>0.640 **</td></tr><tr><td>YH01 -3</td><td></td><td></td><td>1.000</td><td>0.936 **</td><td>0.945 **</td><td></td><td>-0.414 ** -0.398 ** -0.208 ** 0.738 **</td><td></td><td></td><td>0.745 **</td><td>0.670 **</td><td>0.642 **</td></tr><tr><td>YH02 -2</td><td></td><td></td><td></td><td>1.000</td><td>0.999 **</td><td></td><td>-0.351**-0.336 **-0.149*</td><td></td><td>0.729 **</td><td>0.739 **</td><td>0.626 **</td><td>0.605 **</td></tr><tr><td>YH02-3</td><td></td><td></td><td></td><td></td><td>1.000</td><td></td><td>-0.368 ** -0.353 ** -0.166 *</td><td></td><td>0.733**</td><td>0.743 **</td><td>0.632 **</td><td>0.611**</td></tr><tr><td>YH03-1</td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>1.000 **</td><td></td><td></td><td></td><td>0.968 **-0.566** -0.564** -0.510 ** -0.697 **</td><td></td></tr><tr><td>YH03-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td></td><td></td><td></td><td>0.972 **-0.560 ** -0.558 ** -0.506** -0.694 **</td><td></td></tr><tr><td>YH03 -3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000-0.421** -0.417** -0.376** -0.559 **</td><td></td></tr><tr><td>YH04 -1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>1.000 **</td><td>0.940 **</td><td>0.903**</td></tr><tr><td>YH04 -2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.936 **</td><td>0.901 **</td></tr><tr><td>YH04 -3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.911 **</td></tr><tr><td>阅海湖</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系。YH01-1孔与阅海湖之间的动态相关系数为0.940，YH01-2、YH01-3孔与阅海湖之间的动态相关性系数分别为0.640和0.642，表明阅海湖与近岸区浅层地下水之间存在密切的动力响应关系，而与近岸区埋深大于 $5 \\mathrm { ~ m ~ }$ 的地下水之间动态响应关系较弱。 $\\mathrm { Y H 0 1 } - 2 \\mathrm { , Y H 0 1 } - 3$ 孔与YH02孔动态变化规律一致，并且相关系数达到0.936和0.945，表明近岸区埋深大于 $5 \\mathrm { ~ m ~ }$ 的地下水动态主要受区域地下水动态控制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3氘、氧同位素分布特征及补给条件指示",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可看出，地下水8D值介于： $- 8 4 \\% o \\sim$ $- 4 1 \\text{‰}$ ,均值为 $- 6 9 . 7 0 \\text{‰}$ $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 值介于 $- 1 1 . 2 0 \\% o$ $- 3 . 4 0 \\% o$ ,均值为 $- 9 . 2 0 \\% o$ ，与黄河水 $\\mathrm { 5 D } ( \\mathrm { ~ - } 6 8 \\% o )$ （204号和 $\\delta ^ { 1 8 } 0 ( \\mathit { \\Omega } - 9 . 6 0 \\% o )$ 值非常接近。图4可见,所有地下水样点都落在银川地区雨水线( $ { \\mathrm { \\delta D _ { s M o w } } } = 7 . 2 8$ $\\delta ^ { 1 8 } \\mathrm { O } _ { \\mathrm { S M O W } } + 5 . 7 6$ ,相关系数 $r = 0 . 9 8$ )[21]的右下方，且地下水样点基本可分为两个区（I区和 $\\mathbb { I }$ 区），其中 $\\mathbb { I }$ 区地下水样点（埋深 $5 \\mathrm { ~ m ~ }$ 和 $1 0 \\mathrm { ~ m ~ }$ 处地下水样)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基本沿黄河水 $ { 8 \\mathrm { D } }  { \\mathrm { ~ - ~ } }  { 8 } ^ { 1 8 }  { \\mathrm { ~ O ~ } }$ 关系（ $\\delta \\mathrm { D } _ { \\mathrm { { s M o w } } } = 4$ .66$\\delta ^ { 1 8 } \\mathrm { O } _ { \\mathrm { S M O W } } - 2 2 . 7 5$ ,相关系数 $r = 0 . 9 2$ )[22]线分布，表明当地降水不是地下水的主要补给来源，地下水主要源自引黄灌溉入渗补给，且在入渗过程中经历了蒸发作用。与Ⅱ区相比，I区地下水样点（埋深 $3 0 \\mathrm { ~ m ~ }$ 处地下水样)的氘氧值明显偏负，反应二者补给来源存在差异。I区δD、 $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ 值介于 $- 7 6 \\% c \\sim - 8 4 \\% o$ 和 $- 1 1 . 2 0 \\% o \\sim - 1 0 . 7 0 \\%$ ,均值分别为 $- 7 9 . 8 0 \\text{‰}$ 和$\\mathrm { ~ - ~ } 1 0 . \\mathrm { ~ } 9 0 \\% o$ ,与小口子泉 $\\delta \\mathrm { D } \\left( \\mathrm { ~ - ~ } 7 5 . 8 0 \\% c \\right)$ 和 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { ~ 0 ~ }$ $( \\mathrm { ~ - ~ } 1 0 . 9 0 \\% o )$ 接近，而且具有沿地下水径流方向逐渐偏负的规律，表明来自贺兰山区的侧向径流对I区地下水具有明显的补给作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阅海湖水样点落在银川地区雨水线的右下方，黄河水氘氧同位素关系线的上端，反映了阅海湖的水源主要来自黄河水（包括引黄渠系生态补水、引黄灌溉农田退水），并经历了强烈的蒸发过程。样点YH01-1氘氧值落在阅海湖水样点的下方，但比Ⅱ区水样点明显偏正，指示该点地下水受到了来自阅海湖水的补给。结合阅海湖水与YH01组各孔水位动态关系，说明阅海湖向近岸区埋深 $5 \\mathrm { ~ m ~ }$ 以内地下水的转化补给作用明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c178c3312cf27f2e2fa071d654718aca53da312fba6fffa01cdd2b8bf6d3c95e.jpg",
+        "table_caption": [
+            "表1各观测孔之间及其与阅海湖的动态相关性分析",
+            "表2地表水和地下水样品δD 和 $\\mathfrak { \\delta } ^ { 1 8 } \\mathbf { O }$ 测试结果",
+            "Tab.2Test results of δD and $\\bar { \\mathbf { 0 } } ^ { 1 8 } \\mathbf { 0 }$ in surface water and groundwater sample "
+        ],
+        "table_footnote": [
+            "注：银川地区降雨加权平均值来自于GNIP(Global Network of Isotope in Precipitation）。"
+        ],
+        "table_body": "<html><body><table><tr><td>样点号</td><td>取样深度/m</td><td>8D/%0</td><td>818 0/%0</td><td>样点号</td><td>取样深度/m</td><td>8D/%0</td><td>8180/%0</td></tr><tr><td>YH01 -1</td><td>5</td><td>-41</td><td>-3.40</td><td>YH04 -1</td><td>5</td><td>-66</td><td>-8.60</td></tr><tr><td>YH01 -2</td><td>10</td><td>-71</td><td>-9.10</td><td>YH04 -2</td><td>10</td><td>-70</td><td>-9.60</td></tr><tr><td>YH01 -3</td><td>30</td><td>-84</td><td>- 11.20</td><td>YH04 -3</td><td>30</td><td>-76</td><td>-10.70</td></tr><tr><td>YH02 -2</td><td>10</td><td>-63</td><td>-8.30</td><td>阅海湖</td><td>1</td><td>-14</td><td>2.10</td></tr><tr><td>YH02 -3</td><td>30</td><td>-81</td><td>-10.80</td><td>小口子泉</td><td>1</td><td>-75</td><td>-10.90</td></tr><tr><td>YH03-1</td><td>5</td><td>-72</td><td>-9.60</td><td>黄河水</td><td></td><td>-68</td><td>-9.60</td></tr><tr><td>YH03 -2</td><td>10</td><td>-65</td><td>-8.60</td><td>银川地区降雨加权平均值</td><td>一</td><td>-43.40</td><td>-6.80</td></tr><tr><td>YH03-3</td><td>30</td><td>-78</td><td>-10.90</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ddb68d6810fa749aee60e4a3481068366938f03356a8b0c2761d770103cb698.jpg",
+        "img_caption": [
+            "Fig.4Relationship between &D and $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ in surface water and groundwater samples "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "地下水 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathbf { 0 }$ 值垂向分布曲线(图5)显示，随着深度增加， $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathbf { 0 }$ 值逐渐偏负。当垂向深度大于 $5 \\mathrm { ~ m ~ }$ 时,地下水 $\\delta ^ { 1 8 } \\mathrm { O }$ 值快速收敛。说明随着深度增加，地下水接受引黄灌溉入渗补给和湖水转化补给的作用逐渐减弱，山区侧向径流补给作用明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c5e0d76aa047e3c1fad1090ae3aa55349a9c50fb6eddef9b1f493300c3cce23.jpg",
+        "img_caption": [
+            "图4地表水与地下水的 $ { 8 \\mathrm { D } } -  { 8 } ^ { 1 8 }  { 0 }$ 关系",
+            "图5地下水 $\\boldsymbol { \\mathfrak { \\delta } } ^ { 1 8 } \\mathrm { O }$ 垂向分布曲线",
+            "Fig.5The vertical distributions of $\\mathfrak { F } ^ { 1 8 } \\mathrm { O }$ in groundwater ",
+            "图6地下水剖面二维流场",
+            "Fig.6Two-dimensional flow field of groundwater profile "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4阅海湖西岸地下水剖面二维流场特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "据各监测孔和湖水动态数据，结合氘、氧同位素分析结果，分别绘制了阅海湖西岸枯水期和丰水期地下水剖面二维流场(图6)。由图6a可见，在区域地下水流场控制下，地下水自西向东径流，水位沿程降低。在阅海湖近岸区，受人工补水影响，湖水位始",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a)枯水期流场 比例尺：水平1:25000YH04-1 垂直1:200YH04-2 YH03-1 YH02-1YH01-11115 YH04-3 YH03-2 YH02-2YH01-2 1115YH03-3 YH02-YH01-31110 阅海湖 -11101105 6.0 -11051110  \nT 1095 1100 1110 11.5 11696.0 11.5 11071166 110511.5 /6.0 11.5 6.0 1106 1095 -1100  \n高1090 1109 1104 -1090福1108 11041085 -108511051080 31.5 1107 11061105 1104 -10801075 31.5/ = 31 81.5 -10751070 ！ -1070(b)丰水期流场 比例尺：水平1:25000YH04-1 垂直1:200YH04-2 YH03-1 YH01-11115 YH04-3 YH03-2 1111105 6.0 -11051100 11.5 1110 6,0 1108110711060 1106 -1100  \n1095 /11.5 11.5 11.5 -1095  \n高1090 程 1109 -1090高 程1085 1108 1105 1106 -10851080 1.5 1107 11061105 -10801075 31.5 31.5/ 31.5 -10751070 -1070",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "终高于YH01孔和YH02孔地下水位，在湖水高水头的驱动下，浅层地下水自东向西径流。由于人工补水在阅海湖近岸区形成的局部地下水流场，与区域地下水流场叠加后，在距离湖岸 $1 . ~ 4 6 ~ \\mathrm { k m }$ 处（YH02孔)形成一个低水头区，使得 $3 0 \\mathrm { ~ m ~ }$ 深度以下以侧向径流为主的地下水在此处向上顶托，地下水向上径流。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "丰水期的流场特征与枯水期完全一致，仅水位抬升了 $0 . 2 6 \\sim 1 . 4 4 \\mathrm { ~ m ~ }$ ,这里不再赘述。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）阅海湖水与距离湖岸较远的YH02、YH03孔和YH04孔地下水之间没有动态响应关系，仅与近岸区浅层地下水之间存在密切的动态响应关系；近岸区埋深大于 $5 \\mathrm { ~ m ~ }$ 的地下水动态主要受区域地下水动态控制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）近岸区地下水接受阅海湖水的转化补给，且阅海湖对近岸区埋深小于 $5 \\mathrm { ~ m ~ }$ 的地下水的转化补给作用明显，当埋深大于 $5 \\mathrm { ~ m ~ }$ 时，湖水向地下水的转化补给作用减弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）由于人工补水作用，在阅海湖近岸区形成一个局部地下水流场，控制了近岸区浅层地下水径流特征，而近岸区埋深大于 $5 \\mathrm { ~ m ~ }$ 的地下水仍然受区域地下水流场的控制。人工补水形成的高水头是驱动湖水向近岸区浅层地下水转化的直接动力因素。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2013年以来，银川市对鸣翠湖等31处湖泊湿地根据面积的大小，划定了 $5 0 ~ \\sim 1 0 0 ~ \\mathrm { ~ m ~ }$ 不等的保护区红线，规定除公益项目外，任何单位和个人不得在保护红线范围内进行开发建设和经营活动。但这些红线在划定时，忽略了湖泊湿地一地下水是一个系统，没有考虑到两者之间的水量和水质交互关系。本文研究结果表明，阅海湖与近岸区浅层地下水之间存在密切的联系，由于人工补水作用在阅海湖近岸区形成的局部地下水流场，与区域地下水流场叠加后，在距离湖岸 $1 . 4 6 ~ \\mathrm { k m }$ 处会形成一个低水头区，若在这一影响范围内实施降水等开发活动，相当于间接地抽取湖水；同时，若湖水受到污染，还会引起周围地下水环境质量恶化等问题。因此，仅从地表一定范围划定湖泊湿地保护区红线，忽略其与地下水之间的转化关系，不能从根本上保护湖泊湿地。本次研究成果将为阅海湖生态保护红线的划定提供更加科学的依据，为区域水资源管理与水环境保护提供支撑。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢：课题研究得到了长安大学王文科教授及长安大学旱区地下水文与生态效应创新团队的支持，在此表示真诚的谢意！",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］范伟,章光新,李然然.湿地地表水－地下水交互作用的研究 综述[J].地球科学进展,2012,27（4）：413-423.［FanWei， Zhang Guangxin,Li Ranran. Review of groundwater-surface water interactions in wetland[J].Advances in Earth Science,2012,27 (4) :413 -423.]   \n[2]章光新,尹雄锐,冯夏清.湿地水文研究的若干热点问题[J]. 湿地科学,2008,6（2）:105-115.[Zhang Guangxin,Yin Xiongrui,Feng Xiaqing.Review of the issues related to wetland hydrology research[J].Wetland Science,2008,6(2）:105 -115.]   \n[3]韩爱果,孙颖,韩坤立.浅谈北京地区湿地修复与地下水资源 的关系[J].水土保持研究,2006,13(4）:61-63.[Han Aiguo, Sun Ying,Han Kunli. Discussion on the relationship between wetlands restoration and groundwater resource in Beijing area[J]. Research of Soil and Water Conservation,2006,13(4）:61 -63.]   \n[4］王磊,章光新.扎龙湿地地表水与浅层地下水的水文化学联系 研究[J].湿地科学,2007,5（2）:165-173.[Wang Lei,Zhang Guangxin.Hydro-chemical interaction between surface water and groundwater in Zhalong Wetland[J].Wetland Science,2007,5 (2):165-173.]   \n[5]徐华山,赵同谦,孟红旗,等.滨河湿地地下水位变化及其与河 水响应关系研究[J].环境科学,2011,32（2）:362-367.[Xu Huashan,Zhao Tongqian,Meng Hongqi,et al. Relationship between groundwater level in riparian wetlands and water level in the river[J].Environmental Science,2011,32(2）:362-367.]   \n[6]汪一鸣.银川平原湖沼的历史变迁与今后利用方向[J].干旱 区资源与环境,1992,6(1）:47-56.[Wang Yiming.The historical changes and future utilization of lakes in Yinchuan[J]. Journal of Arid Land Resources and Environment,1992,6(1):47 -56.]   \n[7]全晓虎,米文宝,宋春玲.银川平原湿地生态系统保护、恢复与 利用初步研究——以银川阅海湿地公园为例[J].水土保持研 究,2007,14(5）:71-77.[Quan Xiaohu,Mi Wenbao,Song Chunling.Ecology system: Conservation,restoration and utilization on wetlands in Yinchuan plain; Yinchuan Yuehai Lake Wetland Park as an example[J]. Research of Soil and Water Conservation, 2007,14(5):71 -77.]   \n[8]Schmalz B,Springer P,Fohrer N.Variabilityof water quality in a riparian wetland with interacting shallow groundwater and surface water[J].Journal of Plant Nutrition and Soil Science,2O09,172 (6) :757 - 768.   \n[9]Mc Ewan KL,Jolly ID,Holland KL,et al. Salinization risk in semi-arid floodplain wetlands subjected to engineered weting and drying cycles[J].Hydrological Processes,2009,23（24）:3 440 - 3 452.   \n[10]Jolly ID,McEwanKL,Holland KL.A review of groundwater-surface water interactions in arid/semi-arid wetlands and the con-sequences of salinity for wetland ecology[J].Ecohydrology,2008,1 (1):43 -58.   \n[11］韩鹏飞,王旭升,胡晓农,等.巴丹吉林沙漠湖泊水面蒸发与气 象要素的动态关系[J].干旱区研究，2018,35（5）：1012- 1020.[Han Pengfei,Wang Xusheng,Hu Xiaonong,et al. Dynamic relationship between lake surface evaporation and meteorological factors in the Badain Jaran Desert[J].Arid Zone Research,2018, 35(5):1012 -1020.]   \n[12]孙胜民,何彤慧,楼晓钦,等.银川湖泊湿地水生态恢复及综合 管理[M].北京;海洋出版社,2012.[Sun Shengmin,He Tonghui,Lou Xiaoqin,et al.Water Ecosystem Rehabilitation and Integrated Management of Yinchuan Lake Wetlands[M].Beijing :China Ocean Press,2012.]   \n[13]王恒纯.同位素水文地质概论[M].北京：地质出版社，1991. [Wang Hengchun.Isotope Hydrogeology[M].Beijing:Geological Press,1991.]   \n[14]Mook W G.Environmental Isotopes in the Hydrological Cycle[M]. Paris:UNESCO,2001.   \n[15]Clark ID,Fritz P.Environmental Isotopes in Hydrogeology[M]. New York:Lewis Publisher,1977:328.   \n[16」张人权.同位素方法在水文地质中的应用[M].北京：地质出 版社,1983.［Zhang Renquan.Application of Isotope Method in Hydrogeology[M].Beijing:Geological Press,1983.]   \n[17］章光新,何岩,邓伟.同位素D与 $^ { 1 8 } 0$ 在水环境中的应用研究进 展[J].干旱区研究,2004,21（3）:225-229.[Zhang Guangxin, He Yan,Deng Wei.Progresses of the applied study on the isotopic D and $^ { 1 8 } 0$ in aqueous environment[J].Arid Zone Research, 2004,21(3):225- 229.]   \n[18]贾艳琨,刘福亮,张琳,等.利用环境同位素识别酒泉一张掖盆 地地下水补给和水流系统[J].地球学报,2008,29(6)：740- 744.[Jia Yankun,Liu Fuliang,Zhang Lin,et al.Recognition of groundwater recharge and flow system in the Jiuquan-Zhangye Basinby means of environmental isotopic tracers[J].Acta Geoscientica Sinica,2008,29(6):740 -744.]   \n[19」刘宏伟,徐明,管清浩.银川地区大气降水中氢氧稳定同位素 的变化特征及影响因素分析[J].水科学与工程技术,2012 (1）:88-9O.[Liu Hongwei,Xu Ming,Guan Qinghao.Variation characteristics and influencing factors of hydrogen-oxygen stable isotope in precipitation of Yinchuan area[J].Water Sciences and Engineering Technology,2012（1）:88-90.]   \n[20]彭靖,陈建生,杨光亮,等.银川地区降水氢氧同位素变化规律 分析[J].河南科学,2014,32（10）:2 094-2 098.[Peng Jing, Chen Jiansheng,Yang Guangliang,et al.Hydrogen and oxygen isotope changing trend analysis of precipitation in Yinchuan area[J]. Henan Science,2014,32（10）:2 094-2 098.]   \n[21］苏小四,林学钰.银川平原地下水循环及其可更新能力评价的 同位素证据[J].资源科学,2004,26(2）:29-35.[Su Xiaosi, Lin Xueyu.Cycle pattern and renewability evaluation of groundwater in Yinchuan basin : Isotopic evidences[J].Resources Science, 2004,26(2):29 -35.]   \n[22]苏小四,林学钰,廖资生,等.黄河水 $\\mathfrak { 8 } ^ { 1 8 } \\mathrm { O } , \\mathfrak { 8 } \\mathrm { D }$ 和 $^ 3 \\mathrm { H }$ 的沿程变 化特征及其影响因素研究[J].地球化学,2003,32（4)：349- 357.[Su Xiaosi,Lin Xueyu,Liao Zisheng,et al. The variation of isotopes in the Yellow River along the flow path and its affecting factors[J].Geochimica,2003,32(4）:349-357.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conversion Relationship between Lake and Groundwater in Yinchuan City : A Case Study for the Yuehai Lake ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HUANG Xiao-qin'，ZHANG Yi-bing1，LI Ying1,2.3，ZHANG Bo¹，MENG Xu-chen1，XU Leil (1.InstitutefHydrogeologyndEironmentalGeologyofingxiaHuiutonomous Region,incuan5Ol1,ingxia,hina; 2.School of Water Resources & Environment,China University of Geosciences,Beijing 1Ooo83,China; 3.Geological Bureau of Ningxia Hui Autonomous Region,Yinchuan 75oO21,Ningxia,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：An in-situ monitoring profile was built on the west bank of the Yuehai Lake.The conversion between lake water ofthe Yuehai Lakeand groundwater and its drivingconditions were explored by analyzing the dynamics and the dynamic correlation between lake water and groundwater as wellas the distributionof deuterium and oxygen isotopes. The results indicated that: $\\textcircled{1}$ There was the close dynamic responses between the Yuehai Lake and the shallow groundwater only in the near-shore area; $\\textcircled{2}$ In the near-shore area,lake water recharged groundwater obviously within $5 - \\mathrm { ~ m ~ }$ depth,but its recharge to groundwater deeper than $5 \\mathrm { ~ m ~ }$ decreased ; $\\textcircled{3}$ High water head resulted fromartificial water compensation was the direct driving factorofthe conversion from lake water to shalow groundwater in the near-shore area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words：Yuehai Lake；groundwater;conversion relationship；isotope；two-dimension flow field； Yinchuan City",
+        "page_idx": 6
+    }
+]

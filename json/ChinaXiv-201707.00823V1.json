@@ -1,0 +1,341 @@
+[
+    {
+        "type": "text",
+        "text": "技术与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "位点特异整合微环DNA的体内制备",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "聂永强’马海燕1,2 马晴雯1,2\\*\\*(1上海交通大学附属儿童医院上海市儿童医院上海交通大学医学遗传研究所上海200040)(2 卫生部医学胚胎分子生物学重点实验室暨上海市胚胎与生殖工程重点实验室上海200040)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：应用诱导表达的LR克隆酶系统,建立一种在细菌体内获得基于链霉菌噬菌体 $\\Phi ^ { \\mathbf { C } 3 1 }$ 整合酶系统的位点特异整合型微环DNA的方法,为实现无细菌骨架等冗余序列的转基因奠定基础。方法：构建包含阿拉伯糖启动子的LR克隆酶系统和 $\\Phi ^ { \\mathbf { C } 3 1 }$ 整合酶系统的亲本质粒，在L-阿拉伯糖的诱导下重组产生表达ΦC31整合酶的微质粒和包含有目的基因和attB位点等元件的微环DNA。以限制性内切核酸酶酶切电泳定性其重组效率， $\\mathrm { { q P C R } }$ 定量分析微环、微质粒及亲本质粒的比例,定量计算重组效率。观察随着诱导时间的推进微环/微质粒值的变化。结果：细菌体内LR克隆酶系统可有效催化亲本质粒的重组，重组率达 $8 5 \\%$ 以上。相比商品化LR克隆酶体外反应具有更高的稳定性而且更经济。结论;获得了一种高效、稳定的细菌体内产生位点特异性整合型微环DNA 的亲本质粒。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 微环DNA LR 克隆酶系统 位点特异性整合阿拉伯糖启动子ΦC31整合酶中图分类号 Q78",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微环DNA为非病毒、染色体外的、共价闭合的环状基因表达载体,通常在重组细菌中合成,具有满足临床治疗的安全性和长期基因表达所需的简约骨架[1]。由于微环DNA一般不整合入基因组，在静息或活跃分裂的细胞中有较高的安全性，亦可实现持续的转基因表达,因此被认为是一种理想的非病毒载体[2]。虽然介导基因转移的病毒型载体通常较非病毒型载体具有较高的整合效率，但其安全性一直备受担忧;因此，在转基因动物制备中，上述两类载体目前都无法将安全性和整合效率兼顾。而近来研究较热的基因编辑利器TALEN和CRISPR/Cas9系统，在特异位点的针对性编辑上表现出色，但TALEN的相对较低的重组效率、CRISPR/Cas9的脱靶效应也一直是其有待改善之处。链霉菌噬菌体 $\\Phi \\mathrm { C } 3 1$ 整合酶在哺乳动物细胞内能有效介导携带链霉菌attB序列的外源基因与哺乳动物基因组\"假attP”位点发生高效重组，实现外源基因位点特异性整合[3],且重组反应不可逆,每个细胞往往为单拷贝的基因整合[4],可以有效地降低外源基因整合的随机性和高风险位点整合带来的安全隐患。但 $\\Phi ^ { \\mathrm { C } 3 1 }$ 整合酶系统介导的整合最大的缺点就是整个质粒都会整合到细胞基因组中，由此插入了大量的细菌骨架序列。因此，若能制备基于 $\\Phi ^ { \\mathrm { C 3 1 } }$ 整合酶系统的微环DNA，则有望避免细菌骨架等冗余序列的插入。除了传统的阿拉伯糖诱导重组酶(如Cre重组酶、ParA解离酶、 $\\Phi { \\bf C } 3 1$ 整合酶等)表达[57]来介导其识别位点重组制备微环DNA 外,LR 克隆酶也可用于微环 DNA 的制备[8]。该酶是由Invitrogen公司提供的一种商品化酶混合物，可介导入attL和入attR之间的重组生成入attB和入attP，是一种由 $\\lambda$ 噬菌体整合酶(Int）、切割酶(Xis)和细菌体内整合宿主因子(IHF)共同发挥作用的重组系统[9-10]但上述几种方法均需在重组后将微环DNA回收纯化[5-8],价格昂贵、费时、费力、得率低。针对这些问题,本研究室在前期研究中利用LR克隆酶体外制备了基",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c1f8f885e8bdae571a6f26472fde3e37d0fb4702d34c179ecf51c3a81a826ad.jpg",
+        "img_caption": [
+            "图1微环DNA制备示意图",
+            "Fig.1Schematic diagram of minicircle DNA preparation "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FΦC31整合酶系统的位点特异整合型微环DNA，大大节省了操作步骤和时间,获得了稳定表达的细胞株2]。然而,体外制备微环 DNA 使用的商品化 LR克隆酶价格昂贵且活性不稳定，因此，本研究将LR克隆酶基因表达框引入亲本质粒，使用阿拉伯糖诱导启动子驱动LR克隆酶的表达（图1），建立了一种在细菌体内快捷、高效地获得基于 $\\Phi { \\bf C } 3 1$ 整合酶系统的位点特异整合型微环DNA的方法,进一步节省了微环DNA 的制备步骤和时间，降低了实验成本，为扩大微环DNA的应用范围奠定了基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1细胞与质粒质粒 $\\mathrm { M F  – P P ^ { [ 1 1 ] } }$ 为本所构建保存;含有入噬菌体整合酶和切割酶基因的入-HindIII购自Fermentas公司;质粒pBCPB $^ +$ 和质粒pInt由Prof.MPCalos 惠赠[12];含阿拉伯糖启动子的质粒pBAD/myc-HisA 购自Invitrogen 公司;质粒pEGFP-PP[13]为本所构建保存；大肠杆菌DH10B为本所保存；大肠杆菌TOP10感受态细胞购自天根生化科技(北京)有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2主要试剂Ex-Taq 酶和pMD19-T载体购自日本 TaKaRa 公司;限制性内切酶、T4DNA 连接酶和Q5超保真酶购自美国NEB公司； $\\operatorname { S Y B R } ^ { \\circledast }$ 荧光定量PCR试剂购自美国Roche公司；PCR纯化试剂盒和胶回收试剂盒购自德国Qiagen公司；质粒小提中量试剂盒购自天根生化科技（北京)有限公司；L-阿拉伯糖购自美国Sigma 公司;LR克隆酶购自美国Invitrogen 公司；引物(表1)由上海捷瑞生物工程有限公司合成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1目的片段的获得设计引物LR-F和LR-R以$\\lambda$ -HindIIIDNA为模板扩增获得 $\\lambda$ 噬菌体整合酶和切割酶基因( $\\lambda { \\mathrm { i n t } } + \\mathrm { X i s }$ 片段，为方便起见，本文将其统称为LR克隆酶)；设计引物Ara-F和Ara-R以质粒pBAD/myc-HisA为模板获得阿拉伯糖启动子（AraC-araBAD片段）；以质粒pEGFP-PP为模板设计引物入attL-F和入attL-R获得入attL，设计引物入attR-F和入attR-R获得入attR;设计引物Adaptor-F和Adaptor-R获得接头Adaptor（上述引物序列见表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2验证质粒的获得SalI和HindII双酶切入attL片段,插入到质粒 $\\mathrm { \\ p B C P B + }$ 的 $S a l \\mathrm { ~ I ~ }$ 和Hind III酶切位点获得质粒pBCLP;SpeI酶切入attR片段，插入到质粒pBCLP的SpeI位点间，获得验证质粒pBCLR，该质粒的入attL片段和入attR片段之间为LacZ基因，能够采用蓝白斑实验在细菌体内验证LR克隆酶的重组作用。1.2.3亲本质粒的获得在质粒pInt 酶切位点BamHI和 SpeI之间插入 $\\lambda \\mathrm { I n t } + \\mathrm { X i s }$ 片段( $B a m \\mathrm { H I }$ 和BglⅡ为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1PCR和定量PCR所用的引物",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e7e2c47106c1952aab1a29a94ac4c9c6e388ec2db6580d3a970233bd7871e79.jpg",
+        "table_caption": [
+            "Table1 Primer sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primer name</td><td>Primer sequences (5'-3')</td></tr><tr><td>LR-F</td><td>AGATCTCCTGAGGTTATTTGATTTCAAT</td></tr><tr><td>LR-R</td><td>ACTAGTATGTACTTGACACTTCAGGAGTG</td></tr><tr><td>Ara-F</td><td>AGAGCTCCTCAGGATTATGACAACTTGA</td></tr><tr><td>Ara-R</td><td>GCACTAGTAACAGTAGAGAGTTGCGATAA</td></tr><tr><td>入attL-F</td><td>CGAGTCGACATGTCAAATAATGA</td></tr><tr><td>入attL-R</td><td>CGCAAGCTTAATATAGCCTGCTT</td></tr><tr><td>入attR-F</td><td>GGCGCTCGAGAAGTACTAGTACA</td></tr><tr><td>λattR-R</td><td>GGACTAGTCATAGTGACTGGATATGT</td></tr><tr><td>Adaptor-F</td><td>CGGCCAAGCTTCATGGCTGACTAATTTTTTTTATTTATGCAGAGGCCGAGGCCGCCT</td></tr><tr><td>Adaptor-R</td><td>CGGCCTCGGCCTCTGCATAAATAAAAAAAATTAGTCAGCCATGAAGCTTGGCCGCCG</td></tr><tr><td>A</td><td>GGCGAGAAAGGAAGGGAAGA</td></tr><tr><td>B</td><td>ATTAACCCTCACTAAAGGGA</td></tr><tr><td>入attP-F</td><td>TGCCCGCTTTCCAGTC</td></tr><tr><td>入attP-R</td><td>CATTTTACGTTTCTCGTTCAG</td></tr><tr><td>入attB-F</td><td>TAACTTCGTATAATGTATGCTA</td></tr><tr><td>入attB-R</td><td>GGCTATGAACTAATGACC</td></tr><tr><td>入attP-F</td><td></td></tr><tr><td>入attB-R</td><td>TGCCCGCTTTCCAGTC</td></tr><tr><td>MPS-F</td><td>GGCTATGAACTAATGACC</td></tr><tr><td></td><td>GGGTGCCTAATGAGTGAGC</td></tr><tr><td>MPS-R MCS-F</td><td>CCGATTGTCTGTTGTGCC</td></tr><tr><td>a MCS-R</td><td>TTGGAGAAACAGCAACCCAT CCACTACCAGCAGAACACCC</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同尾酶)获得质粒pXis,在质粒pXis 酶切位点 SacI和SpeI之间插入AraC-araBAD片段获得质粒pXis.Ara,其中 $\\lambda \\mathrm { I n t } + \\mathrm { X i s }$ 的表达受阿拉伯糖启动子的驱动。内切酶 SfI酶切质粒MF-PP，回收含有卡那霉素抗性基因、复制起始位点元件的 $2 . 7 \\mathrm { k b }$ 片段与Adaptor 连接得到质粒 $\\mathrm { p Y q I }$ 。内切酶 $B s u 3 6 \\mathrm { ~ I ~ }$ 酶切pXis.Ara,得到含有$\\lambda \\mathrm { I n t } + \\mathrm { X i s }$ 和 AraC-araBAD的 $2 . 5 \\mathrm { k b }$ 片段。正向连入$\\mathrm { p Y q I }$ 的 $B s u 3 6 \\mathrm { ~ I ~ }$ 酶切位点得到质粒 $\\mathrm { p Y q I I }$ 。内切酶 SfI酶切质粒 $\\mathrm { p Y q I I }$ 得到的5.2kb片段连接到MF-PP的SfiI位点之间得到亲本质粒pMF.LA。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 LR克隆酶基因功能验证质粒pXis转化大肠杆菌DH10B 感受态得到DH10BIX大肠杆菌,将此菌制成感受态，质粒pBCLR转化大肠杆菌DH10BIX感受态得到DH10BIXLR大肠杆菌，在氯霉素、卡那霉素双抗性培养基平板培养并进行蓝白斑实验，随机挑取8个白斑设计引物A和B进行菌落PCR验证删除效率，实验重复三次；另质粒pBCLR转化大肠杆菌DH10B感受态在氯霉素抗性平板上进行蓝白斑实验作为对照。引物设计:入attL上游设计正向引物A、入attR下游设计反向引物B(引物序列见表1);若发生LR重组反应则会扩增出 $2 2 0 \\mathrm { b p }$ 的条带，反之，则会扩增出 $4 \\mathrm { k b }$ 的条带，PCR反应条件如下： $9 4 ^ { \\circ } \\mathrm { C } 1 0 \\mathrm { m i n }$ 变性， $9 4 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { s } \\mathrm { , 6 0 ^ { \\circ } \\mathrm { C } }$ $3 0 \\mathrm { s } \\sqrt { 2 } \\mathrm { \\textcircled { C } 4 m i n }$ 每个循环退火温度降 $1 ^ { \\circ } \\mathrm { C }$ 共15个循环,$9 4 ^ { \\circ } \\mathrm { C } \\ 3 0 \\mathrm { s } \\ . 4 5 ^ { \\circ } \\mathrm { C } \\ 3 0 \\mathrm { s } \\ . 7 2 ^ { \\circ } \\mathrm { C } \\ 4 \\mathrm { m i n }$ 共16个循环， $7 2 \\mathrm { ^ c ~ 8 m i n }$ ○1.2.5亲本质粒体内LR重组效率测定将指数期生长的大肠杆菌以 $1 : 1 0$ 稀释接种到 $1 0 \\mathrm { m l }$ 的LB培养基中（卡那霉素 $6 0 \\mu \\mathrm { g / m l }$ ,L-阿拉伯糖 $3 \\mathrm { m g / m l }$ ）， $2 2 0 \\mathrm { r } / \\$ $\\mathrm { m i n } \\llangle 3 0 ^ { \\circ } \\mathrm { C }$ 培养,测量诱导 $2 \\mathrm { h } \\ . 4 \\mathrm { h } \\lrcorner 6 \\mathrm { h } \\ . 8 \\mathrm { h } \\ . 1 0 \\mathrm { h } \\ . 1 2 \\mathrm { h } \\ . 1 6 \\mathrm { h } \\ .$ $2 4 \\mathrm { h }$ 不同时间段的重组效率。提取质粒以 $S a l \\mathrm { ~ I ~ }$ 酶切质粒pMF.LA的LR重组产物来鉴定重组反应的发生：若发生重组,得到 $1 0 . 4 \\mathrm { k b }$ 的微环DNA（minicircle DNA,MC,本文中命名为MF.LA-MC）和 $7 . 8 \\mathrm { k b }$ 的微质粒（miniplasmid,MP,本文中命名为MF.LA-MP）；若未发生重组，则亲本质粒（parentalplasmid，PP）pMF.LA被切成 $3 . 1 \\mathrm { k b }$ 和 $1 5 . 1 \\mathrm { k b }$ 两条带。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同时，应用荧光定量PCR方法检测诱导时间为$2 \\mathrm { h } \\ . 4 \\mathrm { h } \\ . 6 \\mathrm { h } \\ . 8 \\mathrm { h } \\ . 1 0 \\mathrm { h }$ 质粒的拷贝数，可较为准确地计算三种质粒(MC、MP和PP)拷贝数的比例，并计算重组率。LR反应的重组效率计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$( \\% ) = \\frac { 1 1 { \\mathrm { C } } \\ddagger \\boxed { \\frac { 1 } { 5 } } \\mathrm { J } \\vphantom { \\frac { 1 } { 5 } } \\overline { { \\mathcal { X } } } \\mathrm { J } } { \\mathrm { P P } \\vphantom { \\frac { 1 } { 5 } } \\ddagger \\boxed { \\frac { 1 } { 5 } } \\mathrm { J } \\vphantom { \\frac { 1 } { 5 } } \\overline { { \\mathcal { X } } } \\mathrm { J } } \\times 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在微环DNA的入attB上游设计引物入attB-F、下游设计引物入attB-R，在入attP上游设计引物入attP-F、下游设计引物入attP-R（引物序列见表1）;入attB-F和入attB-R扩增微环的特有片段，大小为 $1 6 0 \\mathrm { b p }$ ;入attP-F和入attP-R扩增微质粒的特有片段,大小为 $1 5 5 \\mathrm { b p }$ ; 入attP-F 和入atB-R扩增亲本质粒pMF.LA的特有片段，大小为179bp。另外,以 MF.LA-MP 为模板在 λattP-F上游设计引物MPS-F和入attP-R下游设计引物MPS-R（引物序列见表1）,长度为519bp的PCR产物连入T载体构建质粒T-MP以制作微质粒定量PCR 标准曲线;以 MF.A-MC 为模板在 入attB-F 上游设计引物 MCS-F 和入attB-R下游设计引物MCS-R（引物序列见表1），长度823bp的PCR产物连入T载体构建质粒T-MC制作微环标准曲线;以质粒MF-PP为模板制作亲本质粒pMF.LA标准曲线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 . 6$ 体外LR克隆酶重组效率测定提取pMF.LA质粒在体外进行LR重组反应，反应条件参照LR克隆酶说明书。反应体系如下：亲本质粒（pMF.LA) $2 0 0 \\mathrm { n g }$ $1 0 ^ { 6 } \\times \\mathrm { ‰ }$ R克隆酶 $2 \\mu \\mathrm { l } , \\mathrm { d d H } _ { 2 } \\mathrm { O }$ 补加到 $1 0 \\mu \\mathrm { l }$ 体系。5个独立的反应于 $2 5 \\mathrm { ^ \\circ C }$ 分别反应 $2 \\mathrm { h } \\ . 4 \\mathrm { h } \\ . 6 \\mathrm { h } \\ . 8 \\mathrm { h } \\ . 1 0 \\mathrm { h }$ ，应用荧光定量PCR方法通过绝对定量检测PP和MC的拷贝数，进而计算重组率，所用的引物、标准曲线模板及重组率计算公式同1.2.5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1LR克隆酶基因功能验证结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双抗平板均为白斑，氯霉素抗性的平板均为蓝斑;常规PCR方法验证结果如图2所示，所有8个样品均扩增产生 $2 2 0 \\mathrm { b p }$ 片段，说明 $\\lambda \\mathrm { I n t } + \\mathrm { X i s }$ 表达，并介导质粒pBCLR上的入attR和入attL发生了LR重组反应，将两者之间的LacZ基因删除。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2亲本质粒体内LR重组效率测定结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阿拉伯糖诱导 $2 \\mathrm { h } \\sqrt { . 4 \\mathrm { h } } \\sqrt { . 8 \\mathrm { h } } \\sqrt { . 1 0 \\mathrm { h } } \\sqrt { . 1 2 \\mathrm { h } } \\sqrt { 1 6 \\mathrm { h } } \\sqrt { . 2 4 \\mathrm { h } }$ 对应的重组效率如图3所示，限制性内切核酸酶SalI酶切得到10.4kb的微环DNA，7.8kb的微质粒，3.1kb和15.1kb的亲本质粒;从图3中可以看出亲本质粒3.1kb和15.1kb两条带基本消失，微环DNA/微质粒值随着时间延长越来越小，说明LR重组反应有效发生，而且微环DNA/微质粒的比例随着诱导时间的变化而改变，因此，可以通过改变诱导时间来调节微环DNA/微质粒的值。三个标准品逐级稀释后，进行荧光定量PCR反应；诱导 $2 \\mathrm { h } \\ . 4 \\mathrm { h } \\ . 6 \\mathrm { h } \\ . 8 \\mathrm { h } \\ . 1 0 \\mathrm { h }$ 不同时间绝对定量PCR结果如图4所示，LR重组反应重组效率随着时间的延长先升高后降低，6h时达到最高值 $8 5 \\%$ ;随着诱导时间的延长，亲本质粒所占的比例越来越低，而且由于微质粒能自主复制，随着诱导时间的延长微质粒/微环的比例越来越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/875cbfff93eb43be70b0eb35470a4939ea63dcc5261731b13083920dcd8f1854.jpg",
+        "img_caption": [
+            "图2菌落PCR电泳结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/62e0583eff825f9556509b8025f0ea83a67d133cb6c5ea8a42896713e4eeef42.jpg",
+        "img_caption": [
+            "Fig.2Electrophoresis results of colony PCR ",
+            "图3不同诱导时间重组产物SalI酶切电泳结果 Fig.3Electrophoresis results of Sal I digestion of recombination products under different induction time "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Oh2h 4h、6h、8h、10h、12h、16h、24h:Different induction time;M:1kb marker",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MC/PP MP/MC Recombinationrate 8.00 81% 85% 83%   \nTiiar 6.00 61% 71% 80.0 5.00 60.0   \n4.00   \n0 3.00 4.324.08 5.57.4 4.96.27 6.66 40.0 1.00 2591.75 2.39 0.00 0.0 2h 4h 6h 8h 10h Induction time(h) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3体外LR克隆酶重组效率测定结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "两个标准品(T-MC和MF-PP)逐级稀释后，进行荧光定量PCR反应；不同反应时间 $2 \\mathrm { h } \\ . 4 \\mathrm { h } \\ . 6 \\mathrm { h } \\ . 8 \\mathrm { h } \\ . 1 0 \\mathrm { h }$ 的重组效率如图5所示，LR重组反应效率随着时间的延长虽有升高的趋势，但无规律可循， $1 0 \\mathrm { { h } }$ 时最高值$1 1 . 8 \\%$ 。随着诱导时间的延长，重组效率并未产生较大的提高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f08d04f447d391d7c0e3f6fdf257238624959ab6ab991e75bd89affada95759a.jpg",
+        "img_caption": [
+            "图4亲本质粒pMF.LA细菌体内LR重组率与时间的关系",
+            "Fig.4The relationship between in vivo LR recombination rate and time of pMF.LA ",
+            "图5亲本质粒pMF.LA的体外LR重组率与时间的关系",
+            "Fig.5The relationship between in vitro LR recombination rate and time of pMF.LA "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微环DNA是在传统质粒的基础上通过位点特异性重组删除细菌骨架而得到的一种较亲本质粒分子质量降低的超螺旋分子，在细胞体内具有更高的转基因表达水平和安全性[7,14]。微环 DNA 的制备方法有很多，经典的微环DNA的制备是利用 $\\mathrm { { c I 8 5 7 / p R } }$ 启动子[15-16]或者阿拉伯糖启动子[5-7]控制重组酶的表达,发生重组反应形成微质粒和微环DNA，微环DNA需进一步纯化,与微质粒和残留的亲本质粒分离后[14]方可用于下游应用。近年来，微环DNA的纯化得到了许多改进[17-18],如进行菌株的改良、使用阴离子交换色谱法等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管如此，微环DNA的纯化仍面临诸多问题。为将微环DNA与微质粒和亲本质粒分离，微质粒和亲本质粒通常被内切核酸酶线性化，然后通过氯化铯超速离心法分离微环DNA,该方法得率往往较低，且需要较高的内切酶耗费和较大的人力投入[14];Chen 等[19]采用细菌体内内切核酸酶共表达的方法可以大大提高微环DNA的回收率,但亲本质粒残留高且耗时长,尽管进行了改进[17],但需要特定的菌株且仍存在亲本质粒的少量残留。Tasic等[8]使用商品化LR克隆酶在体外发生LR重组反应，方便、省力;但商品化LR克隆酶介导的体外重组反应会有大量的亲本质粒残留，且商品化LR克隆酶价格昂贵、反应效率不稳定，可能是由于Invitrogen公司开发LR克隆酶的目的是为了将其应用于Gateway Technology系统[1°,该系统中LR克隆酶介导的是两个分子间的LR重组，而非微环DNA制备中的分子内重组。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\Phi ^ { \\mathrm { C } 3 1 }$ 整合酶系统在哺乳动物细胞中能介导携带有 attB 序列的外源基因与哺乳动物基因组“假 attP”[20]位点发生高效重组反应，实现目的基因的位点特异性整合。利用 $\\Phi { \\bf C } 3 1$ 整合酶进行外源基因的位点特异性整合需要把含有 $\\Phi ^ { \\mathbf { C } 3 1 }$ 整合酶表达盒的质粒和含有attB 位点的质粒共转染进人动物细胞[3]。ΦC31整合酶系统具有诸多优点：介导含attB位点的质粒整合于哺乳动物基因组内“假attP”位点的效率是随机整合的5 \\~10 倍[21];哺乳动物基因组中“假attP\"位点大多位于基因的非编码区[22],且外源目的基因往往为单拷贝整合[21-22]； $\\Phi ^ { \\mathrm { C 3 1 } }$ 整合酶系统可很好地介导较大片段外源基因片段的整合[23-24],其能力优于逆转录病毒载体。但该系统介导的整合会把质粒载体上的冗余序列，如复制起始位点、抗性基因等细菌骨架序列[25]，随目的基因一起插入到哺乳动物的基因组内，引起潜在的生物安全问题[25-26]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为避免上述问题，本研究结合了LR克隆酶系统和$\\Phi ^ { \\mathrm { C 3 1 } }$ 整合酶系统的优势，建立了一种获得位点特异性整合微环DNA的方法：在L-阿拉伯糖诱导下,入噬菌体整合酶和切割酶表达，与细菌整合宿主因子共同发挥LR克隆酶系统的作用，介导亲本质粒发生LR重组反应，在细菌体内产生包含有目的基因和 $\\Phi ^ { \\mathrm { C 3 1 } }$ 整合酶所识别的attB位点等元件的微环DNA和真核生物细胞内表达 $\\Phi { \\bf C } 3 1$ 整合酶的微质粒。因此，LR重组混合物中的微质粒含有C31整合酶表达盒，而微环DNA含有attB位点，该混合物可在真核细胞中利用phiC31整合酶系统实现目的基因的位点特异性整合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用本研究构建的亲本质粒pMF.LA,微环的产生率可达到 $8 5 \\%$ ，而使用商品化的LR克隆酶进行体外重组,pMF.LA的重组效率仅为 $1 1 . 8 \\%$ 左右(图5），实验采用两个不同批次的LR克隆酶重复了三次，发现重组效率不稳定;而使用较小的质粒，如pEGFP-PP(7.3kb)重组效率可达 $8 5 \\%$ 左右[4」，同本研究所测该质粒的重组率相当（数据未给出），可能是因为LR克隆酶识别位点入attL和入attR之间的间隔越短重组反应的效率越高，可进一步研究识别位点不同间隔长度的质粒与LR重组反应效率的关系；之后的研究发现，随着诱导细菌的培养体系的增大（如 $1 0 \\mathrm { m l }$ 增大到 $2 0 0 \\mathrm { m l }$ ）， $\\mathrm { p M F }$ .LA的LR重组效率可以提高至 $9 3 \\%$ 以上（数据未给出），可能是因为实验中培养体系和容器的增大使分子质量较大的亲本质粒的复制速率相对于分子内的重组反应效率降低,更多的亲本质粒发生重组形成微环DNA,这将有利于微环DNA的扩大化生产。未来可检测溶氧、比生长速率和培养方式等因素对重组率的影响,以期进 一步提高重组率。因微质粒部分可以自主复制，因此可以通过改变L-阿拉伯糖诱导时间来调节微质粒/微环的比例,以进一步提高 $\\Phi { \\bf C } 3 1$ 整合酶在真核细胞介导外源基因位点特异整合的效率。研究表明，调节携带ΦC31整合酶表达盒的质粒与携带attB位点的质粒拷贝数比例到合适水平能降低随机整合的水平[27]。而且在构建亲本质粒时预先引入Cre/LoxP系统，由此得到的微环 DNA 在整合人真核细胞基因组后可在 Cre 酶作用下删除LoxP位点间筛选基因等冗余序列[28],获得只含目的基因和启动子的转基因细胞系。微环产生过程残余的亲本质粒因分子质量大且含量低，较微环DNA难转染,即使亲本质粒插入基因组的“假attP”位点，在Cre酶作用下同样也可以删除LoxP位点间的冗余序列。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究建立了应用LR克隆酶系统在细菌体内获得微环DNA与含有 $\\Phi { \\bf C } 3 1$ 整合酶表达盒的微质粒的方法，无需分离微环DNA即可共转染真核细胞，从而能够经济、高效、稳定地获得位点特异性整合微环DNA的方法，为拓展微环DNA在转基因研究中的应用奠定了基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］ManiarLEG，ManiarJM,ChenZ，et al.Minicircle DNA vectors achieve sustained expression reflected by active chromatin ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and transcriptional level．Molecular Therapy，2O13，21（1）：131-138.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]GasparV，de Melo-Diogo D，Costa E，et al.Minicircle DNA vectors for gene therapy：advances and applications.Expert Opin Biol Ther,2015，15(3)：353-379. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3]Karow M，Calos M P.The therapeutic potential of PhiC31 integrase asa gene therapy system.Expert Opin Biol Ther, 2011,11(10): 1287-1296.   \n[4]Chalberg T W，Portlock JL，Olivares E C，et al.Integration specificity of phage phiC31 integrase in the human genome.J Mol Biol,2006,357(1): 28-48.   \n[5]Bigger BW,Tolmachov O,Collombet JM，et al．An araCcontrolled bacterial cre expression system to produce DNA minicircle vectors for nuclear and mitochondrial gene therapy.J Biol Chem，2001,276(25）：23018-23027.   \n[6]JechlingerW,Azimpour TC，Lubitz W,et al.Minicircle DNA immobilized in bacterial ghosts；in vivo production of safe nonviral DNA delivery vehicles．JMol Microbiol Biotechnol,2004, 8(4):222-231.   \n[7]Chen ZY,HeC Y,Ehrhardt A,et al．Minicircle DNA vectors devoid of bacterial DNA result in persistent and high-level transgene expression in vivo．Mol Ther,2003,8（3）：495-500.   \n[8]Tasic B,Hippenmeyer S,Wang C,et al. Site-specific integrasemediated transgenesis in mice via pronuclear injection.Proc Natl Acad Sci USA,2011，108（19)：7902-7907.   \n[9]Landy A.Dynamic，structural,and regulatory aspects of iambda site-specificrecombination.Annual Reviewof Biochemistry, 1989,58(1) : 913-941.   \n[10] Liang X,Peng L，Baek C，et al. Single step BP/LR combined gateway reactions．BioTechniques，2013,55（5）：265-268.   \n[11］刘浏．位点特异整合型微环DNA在转基因研究中的应用．上 海：上海交通大学，医学院,2014. Liu L.The Application of Site-specific Integration Minicircle DNA in Transgenic Research. Shanghai:Shanghai Jiao Tong University, Medical School,2014.   \n[12]Groth A C，Olivares E C，Thyagarajan B，et al．A phage integrase directs eficient site-specific integration in human cells. Proc Natl Acad Sci USA,2000,97(11):5995-6000.   \n[13］刘浏，周在威，马晴雯．位点特异整合型微环 DNA 的构建及 应用．中国医药生物技术，2014,9（1)：13-19. Liu L,Zhou Z W,Ma Q W.An improved method to generate sitespecific integration minicircle DNA.Chin Med Biotechnol,2014, 9(1):13-19.   \n[14]Mayrhofer P，Schleef M，Jechlinger W.Use of minicircle plasmids for gene therapy．Methods Mol Biol，2009,542：87- 104.   \n[15]Darquet A M,Cameron B,Wils P,et al.A new DNA vehicle for nonviral gene delivery： supercoiled minicircle.Gene Ther, 1997,4(12):1341-1349.   \n[16]Nehlsen K,Broll S,Bode J.Replicating minicircles：Generation of nonviral episomes for the efficient modification of dividing cells-researcharticle.Gene Therapyand Molecular Biology, 2006，10B:233-243.   \n[17］Kay M A，He C，Chen Z.A robust system for production of minicircle DNA vectors．Nature Biotechnology，2010,28（12）： 1287-1296.   \n[18]Diamantino T,Pereira P,Queiroz JA，et al．Minicircle DNA purification using a CIM(R）DEAE-1 monolithic support.JSep Sci,2016，39(18):3544-3549.   \n[19］Chen Z Y，He C Y，Kay M A．Improved production and purification of minicircle DNA vector free of plasmid bacterial Bi Y，Liu X,Zhang L，et al．Pseudo attP sites in favor of transgene integration and expression in cultured porcine cells identified by Streptomyces phage phiC31 integrase.BMC Mol Biol,2013,14:20.   \n21hgavaeEsa phiC31 integrase．Mol Cell Biol，2001，21（12）：3926-3934.   \n[22DChalberg T W，Portlock JL，Olivares E C，et al． Integration specificity of phage phiC31 integrase in the human genome.JMol Biol,2006，357(1):28-48.   \n[23]Ortiz-Urda S,Thyagarajan B,Keene DR,et al.Stable nonviral genetic correction of inherited human skin disease.Nat Med, 2002，8(10):1166-1170.   \n[24]Quenneville S P，Chapdelaine P，Rousseau J，etal. Nucleofection of muscle-derived stem cells and myoblasts with phi C31 integrase：Stable expression of a full-length-dystrophin fusion gene by human myoblasts．Molecular Therapy，2O04，10（4）： 679-687.   \n[25］Jechlinger W.Optimization and delivery of plasmid DNA for vaccination．Expert Rev Vaccines，2006，5(6）:803-825.   \n[26］Pang A SD.Production of antibodiesagainst Bacillus thuringiensisdelta-endotoxinbyinjectingitsplasmids. Biochemical and Biophysical Research Communications，1994, 202(3):1227-1234.   \n[27]WoodardLE,HillmanRT,KeravalaA，etal.Effect of nuclear localization and hydrodynamic delivery-induced cell division on phiC31 integrase activity.Gene Ther,2010,17(2）：217-226.   \n[28]Ma BG，Duan X Y，Niu JX，et al.Expression of stilbene synthase gene in transgenic tomato using salicylic acid-inducible Cre/loxP recombination system with self-excision of selectable marker.BiotechnolLett，2009，31（1）：163-169. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An in vivo Robust System for Generation of Site-specific Integration Minicircle DNA Vector ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NIE Yong-qiang1MA Hai-yan1²MA Qing-wen1,2 (1ShanghaiIstituteofMedicalGnetics,hanghaiChildren’sHospitalhanghaiJiaoTongUniversityhanghaiOo,ina） (2Key Laboratoryof Embryo Molecular Biology，Ministry of Health & Shanghai Key Laboratory of Embryo and Reproduction Engineering，Shanghai2Ooo40,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AbstractObjective: Transgenic technology has an important application value in the field of gene therapy, transgenic animals，genome modification and other biomedical researches.Many researches demonstrated that （204号 $\\Phi { \\bf C } 3 1 \\$ integrase system was an eficient tool for site-specific integration，butthe biggest drawback of this system is the integration of the bacterial backbone in the attB donor plasmid.The minicircle DNA isan expression vector containing only the target gene， preparation of minicircle DNA based on $\\Phi { \\bf C } 3 1 \\$ integrase system is expected to avoidthe introduction ofbacterial backbone at the integration site,with improved biological safetyofthe system. The classic procedure for minicircle DNA preparation is laborious with low yield and unstable eficiency.In order to solve above problems，a feasible and effective method for obtaining site-specific integrated minicircle DNA by combining the LR clonase system and the Streptomyces phage @C31 integrase system were established，and laying afoundation for the construction of transgenic cels without redundant sequences such as bacterial backbone. Methods : The parental plasmid containing LR clonase system and $\\Phi { \\bf C } 3 1 \\$ integrase system is constructed,it can be recombined by L-arabinose induced LR clonase in bacteria to produce a miniplasmid expresing $\\Phi { \\bf C } 3 1 \\$ integrase in eukaryotic cells and a minicircle DNA containing the original genes such as the target gene and attB site. The recombination efficiency was qualitatively analyzedbyrestriction endonuclease digestion and quantitatively analyzed by calculating the proportion of minicircle DNA，miniplasmid and the parental plasmid.The change of theratio of minicircle DNA/miniplasmid was observed along with the induction time.Results：A validation plasmid and aparental plasmid for the production of site-specific integrated minicircle DNA were constructed.The LR clonase system could effctively catalyze the recombination of attL and attR in the parental plasmid in bacteria，and the recombination rate was more than $8 5 \\%$ ．Conclusion：A parental plasmid which can be recombined to generate site-specific integration minicirele DNA by L-arabinose induction in bacteria with higher and more stable efficiency when compare to the in vitro LR recombination were constructed，which will expand the application potential of minicircle DNA in transgenic researches. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key wordsMinicircle DNALR clonase system Site-specific integration Arabinose promoter@C31 integrase system ",
+        "page_idx": 7
+    }
+]

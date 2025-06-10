@@ -1,0 +1,222 @@
+# 基于相似性群体的混合型Web服务推荐
+
+# 谢琪1,2 崔梦天1
+
+1(西南民族大学计算机科学与技术学院成都 610225)  
+2(香港中文大学计算机科学与工程学系香港 999077)
+
+摘要：【目的】改进服务计算环境下Web服务推荐数据稀疏性导致的相似服务或相似用户缺失的问题。【方法】根据相似性距离分别为目标用户和服务构造个性化的相似性用户群体和服务群体，同时使用用户和服务群体中心之间的群体相似性设计新的混合型推荐算法(GHQR)。【结果】使用197万条真实Web 服务质量数据集的实验结果表明，与UPCC 和 IPCC 两种推荐算法相比,GHQR 的标准平均绝对误差(NMAE)平均下降 $3 1 \% , 6 9 \%$ ，覆盖率平均提高 $10 5 \%$ 、 $163 \%$ 。【局限】实验仅对服务质量属性响应时间进行分析，还需对其他Web服务质量属性如吞吐率等进行验证。【结论】与WSRec 和CFBUGI推荐算法相比,GHQR的NMAE平均下降 $2 6 \%$ 、 $7 . 7 \%$ ，覆盖率平均提高 $1 8 8 \%$ 、 $4 \%$ 。GHQR不仅能提高预测的准确性，而且覆盖率也获得显著提高。
+
+关键词：个性化推荐 服务计算Web 服务服务质量分类号：TP311
+
+# 1引言
+
+随着互联网上Web服务的不断增加，如何为服务用户提供满足其需求的Web服务已成为服务计算领域内的一个研究热点和重点[1-9]。为了适应 Web 服务的动态网络环境，基于服务质量(Qualityof Service,QoS)的Web服务预测方法已成为该问题的主要解决方案。由于Web服务的QoS值会受到网络延迟、用户/服务物理位置等因素的影响，可能使得Web服务的QoS值并不是服务提供商所提供的QoS值2。不同的服务用户调用同一个Web 服务可能具有不同的QoS值。如日本dyndns.org服务提供商提供的语音验证码服务CaptchaAudio，对于在美国的用户 $\mathbf { u } _ { 1 }$ 调用该服务获得的响应时间为0.222秒，而对于在日本的用户 $\mathbf { u } _ { 3 }$ 调用该服务获得的响应时间为0.358秒。因此如何获得动态实时的真实QoS值是Web服务推荐亟待解决的关键问题。
+
+目前基于QoS的推荐研究主要集中于将传统协同过滤的推荐算法[10-13]应用于Web 服务推荐[1-2,5-6]。邵凌霜等[1]较早地提出一种基于QoS的Web 服务推荐算法，该算法将传统协同过滤中的商品评分值替换为服务用户调用服务的QoS值。Zheng 等[2提出一种基于用户和基于服务的混合型Web服务推荐算法，并发布了真实Web 服务质量数据集WS-DREAM。张璇等[5]考虑可信因素对服务推荐的影响，提出一种基于协同过滤的可信Web 服务推荐方法。王海艳等[引入服务的推荐属性特征，并对传统的相似度计算公式进行改进从而提出一种基于可信联盟的服务推荐方法。姜波等[7将Web服务之间的关系抽象成一个二部图，提出一种基于二部图的服务推荐算法。虽然上述研究针对单个用户或单个服务对传统推荐算法进行改进，并获得优于传统推荐算法的推荐性能，但这些研究较少考虑到用户或服务所在的用户群体或服务群体对Web服务推荐结果的影响，其推荐性能仍需获得进一步的提高。以用户群体或服务群体为单位进行推荐不仅能缓解因数据稀疏性导致的相似邻居缺失问题，而且能更准确地反映出用户之间或服务之间的真实相似性，从而提
+
+高推荐的性能。
+
+此外，另一部分研究工作使用聚类算法对相关用户进行聚类，再根据聚类结果进行Web服务的推荐[3,8]。这些聚类算法与本文所用的相似度距离方法的区别是不仅群体划分的依据不同，而且相似性计算的顺序和方法不同。使用聚类算法的Web服务推荐使用用户的情境信息(如：地理位置)进行群体的划分，之后再计算单个用户与用户群体之间的相似性，此外情境信息的缺失会导致这些聚类算法的失效。本文方法仅使用用户调用服务的QoS矩阵而不依赖于特殊的情境数据。首先计算单个用户(服务)之间的相似性，然后依据单个目标用户(服务)的相似性距离为用户(服务)构建用户群体(服务群体)，再计算用户群体(服务群体)之间的相似性，从而更好地度量用户之间或服务之间的相似性。林耀进等[12]在传统推荐领域内提出一种基于用户群体影响的协同过滤推荐算法。本文与该算法不同之处在于：应用场景不同，不同于传统的对商品评分进行协同过滤推荐，本文是应用于服务计算领域对Web服务质量进行预测和推荐；同时使用用户和服务群体中心之间的相似性构建新的混合型推荐算法；在群体预测公式中以群体中心均值代替文献[12]中用户的均值；不仅考虑用户群体之间的关系而且将服务群体之间的关系也引入Web服务推荐，充分利用基于用户群体和基于服务群体的推荐优势，提出一种基于相似性群体的混合型Web 服务质量推荐算法(Similarity Groupbased HybridWeb Service QoSRecommendationAlgorithm,GHQR)。该算法利用群体代替个体用户或服务，从而可以有效地解决 Web 服务推荐中数据稀疏性导致的相似服务或相似用户缺失的问题，在提高Web服务推荐准确性的同时获得较高的预测值覆盖率。
+
+# 2基于相似性群体的混合型Web服务推荐算法
+
+为了解决Web服务推荐算法数据稀疏性问题的同时提高推荐算法的性能，GHQR充分考虑用户群体和服务群体对Web服务推荐结果的影响，并依据相似性距离构建相应的用户群体和服务群体。GHQR主要包括以下模块：用户群体和服务群体的构建、用户群体和服务群体相似性计算、相似群体邻居的选择、混合型Web服务推荐公式、算法及性能分析。
+
+# 2.1 预备知识
+
+基于协同过滤的Web服务推荐主要使用基于用户的协同过滤技术和基于项目的协同过滤技术[1-3.5,9]。其中，相似性的计算方法大多采用皮尔森相关系数法(Pearson Correlation Coeficient,PCC)[2]。基于用户的皮尔森相关系数(User-basedPearson Correlation Coefficient,UPCC)和基于项目的皮尔森相关系数(Item-basedPearson Correlation Coefficient,IPCC)分别计算用户之间的相似性和项目之间的相似性[2]。
+
+# 2.2用户群体和服务群体的构建
+
+受到文献[12]的启发，用户的群体影响能更加精确地刻画用户之间的相似度。本文将文献[12]的用户群体方法应用于服务计算领域，并分别定义本文的用户群体和服务群体。
+
+定义1给定用户集合 $\mathrm { U } { = } \{ \mathrm { u } _ { 1 } , \mathrm { u } _ { 2 } , \ \cdots , \mathrm { u } _ { \mathrm { m } } \}$ ，为U中的任意用户 $\mathbf { u } _ { \mathrm { i } }$ ，定义其 $\mathbf { \alpha } _ { \mathrm { ~ \normalfont ~ d ~ } }$ 群体为： $\mathsf { a } ( \mathrm { u } _ { \mathrm { i } } ) = \{ \mu \mid \mu \in \mathrm { U } _ { \mathrm { : } }$ $\Delta ( \mu , \mathrm { u _ { i } } ) \leqslant 1 - \alpha \} - \left\{ \mathrm { u _ { i } } \right\}$ ，其中 $\Delta ( \mu , \mathrm { u _ { i } } )$ 为空间度量，$\mathrm  \alpha \mathrm  \alpha \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \mathrm  \Omega \Omega \Omega \mathrm  \Omega \Omega \mathrm  \Omega \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \Omega \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm  \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm  \Omega \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \mathrm \mathrm \Omega \Omega \mathrm \mathrm \mathrm \Omega \mathrm \mathrm \Omega \mathrm \Omega \mathrm \mathrm \mathrm \Omega \mathrm \Omega \mathrm \Omega \Omega \$ 表示为服务用户 $\mathbf { u } _ { \mathrm { i } }$ 构建的用户群体 $\alpha$ ，并且相似度距离阈值 $\alpha$ 取值为 $0 \leqslant \mathbf { \alpha } \mathbf { \mathrm { q } } \leqslant 1$ [12]
+
+定义2给定服务集合 ${ \mathrm { S } = \{ { \mathrm { s } } _ { 1 } , { \mathrm { s } } _ { 2 } , \ \cdots , { \mathrm { s } } _ { \mathrm { n } } \} }$ ，为S中的任意服务 $\mathbf { s } _ { \mathrm { i } }$ ，定义其 $\beta$ 群体为： $\beta ( { \mathrm { s } } _ { \mathrm { i } } ) = \{ \Psi \mid \Psi \in \mathrm { S } ,$ $\Delta ( \psi , \mathrm { s _ { i } } ) \leqslant 1 - \beta \ - \left\{ \mathrm { s _ { i } } \right\}$ ，其中 $\Delta ( \Psi , \mathrm { s _ { i } } )$ 为空间度量，β(si)表示为服务用户 ${ \bf s } _ { \mathrm { i } }$ 构建的服务群体 $\beta$ ，并且相似度距离阈值β取值为 $0 \leqslant \beta \leqslant 1 ^ { [ 1 2 ] }$
+
+根据定义1和定义2，可以构建基于相似度距离阈值 $\alpha$ 的用户群体 $\mathbf { \alpha } \cdot \mathbf { { \alpha } } \mathbf { { \mathrm { a } } } ( \mathbf { \alpha } \mathbf { u } _ { \mathrm { i } } )$ 和基于相似度距离阈值β的服务群体 $\{ \beta ( { \mathsf { s } } _ { \mathrm { i } } )$ 。当距离阈值 $\alpha$ 和距离阈值β变小时，对应的空间度量值将增大，用户群体和服务群体中包括的用户和服务数量会随之增加。用户之间和服务之间的差别将减少。由此可见，用户群体和服务群体的大小将会影响用户之间和服务之间的相似关系。
+
+# 2.3用户群体和服务群体相似性计算
+
+不同于林耀进等[12]使用平均相似性方法计算用户群体的相似性，本文考虑到用户群体和服务群体的群体特征，定义群体中心代替群体，从而计算用户群体和服务群体之间的相似性。
+
+定义3用户群体中心 ${ \mathfrak { p } } _ { \mathrm { i } } = \{ { \overline { { \mathfrak { r } _ { \mathrm { p _ { i } , \mathrm { s _ { i } } } } } } } , { \overline { { \mathfrak { r } _ { \mathrm { p _ { i } , \mathrm { s _ { 2 } } } } } } } , \cdots , { \overline { { \mathfrak { r } _ { \mathrm { p _ { i } , \mathrm { s _ { n } } } } } } } \}$ 被定义为用户群体 $\mathrm { \alpha \mathrm { \Omega \ a ( u _ { i } ) } }$ 中所有用户调用服务向量的平均QoS向量。
+
+定义4服务群体中心 ${ \mathrm { q } } _ { \mathrm { i } } = \{ \overline { { { \mathrm { r } } _ { { \mathrm { u } } _ { 1 } , { \mathrm { q } } _ { \mathrm { i } } } } } , \overline { { { \mathrm { r } } _ { { \mathrm { u } } _ { 2 } , { \mathrm { q } } _ { \mathrm { i } } } } } , \cdots , \overline { { { \mathrm { r } } _ { { \mathrm { u } } _ { \mathrm { m } } , { \mathrm { q } } _ { \mathrm { i } } } } } \}$ 被定义为在服务群体 $\beta ( \mathrm { s _ { i } } )$ 中用户调用所有Web 服务的平均QoS 向量。
+
+根据定义3和定义4，设计用户群体和服务群体之间的相似性计算公式如下：
+
+$$
+\mathrm { U G S i m ( p _ { 1 } , p _ { 2 } ) } = \frac { \displaystyle \sum _ { \ j \in \mathrm { I } ( p _ { 1 } ) \cap \mathrm { I } ( p _ { 2 } ) } ( \mathbf { r } _ { p _ { 1 } , \ j } - \overline { { \mathbf { r } _ { p _ { 1 } } } } ) ( \mathbf { r } _ { p _ { 2 } , \ j } - \overline { { \mathbf { r } _ { p _ { 2 } } } } ) } { \displaystyle \sqrt { \sum _ { \ j \in \mathrm { I } ( p _ { 1 } ) \cap \mathrm { I } ( p _ { 2 } ) } ( \mathbf { r } _ { p _ { 1 } , \ j } - \overline { { \mathbf { r } _ { p _ { 1 } } } } ) ^ { 2 } } \sqrt { \sum _ { \ j \in \mathrm { I } ( p _ { 1 } ) \cap \mathrm { I } ( p _ { 2 } ) } ( \mathbf { r } _ { p _ { 2 } , \ j } - \overline { { \mathbf { r } _ { p _ { 2 } } } } ) ^ { 2 } } }
+$$
+
+$$
+\mathrm { S G S i m } ( { \bf q } _ { 1 } , { \bf q } _ { 2 } ) = \frac { \displaystyle \sum _ { \bf u \in U ( { \bf q } _ { 1 } ) \cap U ( { \bf q } _ { 2 } ) } ( { \bf r } _ { u , { \bf q } _ { 1 } } - \overline { { { \bf r } _ { { \bf q } _ { 1 } } } } ) ( { \bf r } _ { u , { \bf q } _ { 2 } } - \overline { { { \bf r } _ { { \bf q } _ { 2 } } } } ) } { \sqrt { \displaystyle \sum _ { \bf u \in U ( { \bf q } _ { 1 } ) \cap U ( { \bf q } _ { 2 } ) } ( { \bf r } _ { u , { \bf q } _ { 1 } } - \overline { { { \bf r } _ { { \bf q } _ { 1 } } } } ) } \sqrt { \displaystyle \sum _ { \bf u \in U ( { \bf q } _ { 1 } ) \cap U ( { \bf q } _ { 2 } ) } ( { \bf r } _ { u , { \bf q } _ { 2 } } - \overline { { { \bf r } _ { { \bf q } _ { 2 } } } } ) } }
+$$
+
+其中, $\mathsf { U G S i m } ( \mathsf { p } _ { 1 } , \mathsf { p } _ { 2 } )$ 为用户群体 $\mathfrak { p } _ { 1 }$ 和用户群体 $\mathfrak { p } _ { 2 }$ 的群体相似性值, $\mathrm { S G S i m } ( \mathrm { q } _ { 1 } , \ \mathrm { q } _ { 2 } )$ 为服务群体 ${ \bf q } _ { 1 }$ 和服务群体 ${ \sf q } _ { 2 }$ 的群体相似性值。 $\mathrm { j }$ 属于用户群体 $\mathfrak { p } _ { 1 }$ 和用户群体 $\mathsf { p } _ { 2 }$ 共同调用的服务集合， $\mathrm { ~  ~ u ~ }$ 属于同时调用服务群体${ \bf q } _ { 1 }$ 和服务群体 ${ \bf q } _ { 2 }$ 的用户集合。
+
+# 2.4相似群体邻居的选择
+
+传统使用Top-K算法对相似邻居的相似性进行排序，从而选择相似性较高的K个相似邻居进行服务质量的预测[2]。为了提高预测的准确性，笔者提出以群体邻居代替单个用户或服务邻居进行Top-K的选择，其公式定义如下：
+
+$$
+\mathrm { T U G S i m ( p ) } = \{ \operatorname { s p } | \operatorname { s p } \in \mathrm { T o p K ( p ) } , \operatorname { U G S i m ( s p , p ) } > 0 , \operatorname { s p } \neq \mathfrak { p } \}
+$$
+
+$$
+\mathrm { T S G S i m ( q ) } = \{ \mathrm { s q } | \mathrm { s q } \in \mathrm { T o p K ( q ) } , \mathrm { S G S i m ( s q } , \mathrm { q ) } > 0 , \mathrm { s q } \neq \mathrm { q } \}
+$$
+
+其中,TopK(p)表示用户群体p的最相似K个用户群体集合，TopK(q)表示服务群体 $\mathsf { q }$ 的最相似性K个服务群体集合。
+
+# 2.5 混合型Web服务推荐公式
+
+本文提出的 GHQR 将基于用户群体的推荐和基于服务群体的推荐相结合，以解决QoS数据稀疏性问题并提高推荐的预测准确性。混合型Web服务推荐公式定义如下：
+
+$$
+\mathrm { U S G P ( r _ { u , j } ) } = \gamma \times ( \overline { { r _ { p } } } + \frac { \mathrm { s p e r U G S i m ( p ) } } { \mathrm { s p e r U G S i m ( p ) } } \times \mathrm { i m ( p , s p ) } ) + \nonumber
+$$
+
+其中，参数γ和参数(1-γ)分别为基于用户群体预测方法和基于服务群体预测方法在混合型预测算法中所占的预测权重。p为用户u所在的用户群体中心,sp 属于用户群体中心p的Top-K相似用户群体中心集合;q为服务j所在的服务群体中心,sq属于服务群体中心q的Top-K相似服务群体中心集合。 $\overline { { \mathrm { { r } _ { p } } } }$ 表示u所在的用户群体中心p对调用的Web 服务所获得的QoS值均值。
+
+在混合型Web服务推荐公式中，基于用户群体的预测方法使用用户群体中心均值代替传统算法中的用户均值，而对于基于服务群体的预测方法仍然保留传统算法中的服务均值方法。这是由于从定义4中可以看出，服务群体中心实质是用户的QoS平均值，而用户平均值的预测准确性会低于服务平均值，因此为了提高Web服务的推荐准确性，保持原有算法的预测优势，在混合型Web服务推荐算法中保留服务群体计算过程中的服务平均方法 ${ \bf \Pi } ( \overline { { { \bf \Pi } } } _ { \mathrm { j } } ^ { - } )$ ，相似性的计算则仍改进为基于服务群体中心的算法。
+
+# 2.6 GHQR算法及性能分析
+
+输入：QoS 数据的训练集 TrainingData，QoS 数据的测试集TestData，服务用户数M,Web服务数N，相似邻居数Top-K，相似度距离阈值α，相似度距离阈值β
+
+输出:P(ru,j)
+
+Begin:
+
+$\textcircled{1}$ SimU=ComputeSimU(TrainingData, M); SimS=ComputeSimS(TrainingData, N);   
+$\textcircled{2}$ GroupCenterMatrixU= ConstructGroupCenterMatrixU(SimU,α,M,N); GroupCenterMatrixS= ConstructGroupCenterMatrixS(SimS,β,M, N);   
+$\textcircled{3}$ GroupSimU $\sqsubseteq$ ComputeSimU(GroupCenterMatrixU,M); GroupSimS $\ c =$ ComputeSimS(GroupCenterMatrixS,N);   
+$\textcircled{4}$ for each missing ${ \bf r } _ { \mathrm { u , j } }$ in TestData do   
+$\textcircled{5}$ Sort the similarity values for user group of u-th row in GroupSimU with descend;   
+$\textcircled{6}$ Choose top K user group centers from the sorted user group similarities;   
+$\textcircled{7}$ Sort the similarity values for service group of j-th row in GroupSimS with descend;   
+$\textcircled{8}$ Choose top K service group centers from the sorted service group similarities;   
+$\textcircled { 9 } \mathrm { P } ( \mathrm { r } _ { \mathrm { u } , \mathrm { j } } ) =$ PredictionQoSValue (TestData, GroupCenterMatrixU, GroupCenterMatrixS, K);   
+$\textcircled{10}$ end for   
+$\textcircled{1}$ for each target service user do   
+$\textcircled { 1 2 }$ Recommend a list of the functionally-equivalent candidate Web
+
+services which have high predicted QoS values in $\mathrm { P } ( \mathrm { r } _ { \mathrm { u } , \mathrm { j } } )$ for target user; 3end for End
+
+在算法中,ComputeSimU和ComputeSimS函数分别使用皮尔森相关系数法计算用户和服务之间的相似性；根据定义1 和定义2，使用ConstructGroupCenterMatrixU和ConstructGroupCenterMatrixU函数构建用户和服务群体中心矩阵，然后计算用户和服务群体中心之间的相似性；为目标用户分别选择Top-K用户和服务群体中心的相似近邻；运用公式(5)使用PredictionQoSValue函数计算缺省的QoS预测值；最后根据预测的QoS值为目标用户推荐具有最优QoS预测值的Web服务列表以满足服务用户的需求。
+
+在相似性计算时间复杂度上，GHQR算法与传统的基于用户的协同推荐 $( \mathrm { O } ( \mathrm { M } ^ { 2 } ) )$ 或基于服务的协同推荐 $\mathrm { ( O ( N ^ { 2 } ) } ,$ 算法相比，GHQR增加了步骤 $\textcircled{3}$ 计算群体中心之间的相似性。由于基于用户和基于服务的推荐算法可以并行计算，故GHQR的时间复杂度为$\operatorname* { m i n } ( \mathrm { O } ( 2 \mathrm { M } ^ { 2 } ) , \mathrm { O } ( 2 \mathrm { N } ^ { 2 } ) ) \mathrm { ~ }$ 。由此可见，与传统协同过滤推荐算法相比GHQR并未增加算法的时间复杂度。
+
+# 3实验
+
+# 3.1 数据来源
+
+为了验证GHQR算法的有效性和准确性，采用拥有大规模真实Web服务质量调用记录的数据集WS-DREAM①。该数据集包含分布于世界各地的 339个服务用户对5825个Web服务调用的1974675条QoS 值记录[2]。本实验使用响应时间(Response Time,RT)进行对比实验,WS-DREAM中部分响应时间(单位为秒)的数据如表1所示，矩阵中的数据表示用户 $\mathbf { u } _ { \mathrm { i } }$ 调用服务si的响应时间值。
+
+表1WS-DREAM中部分响应时间数据  
+
+<html><body><table><tr><td></td><td>S1</td><td>S2</td><td>S3</td><td>S4</td></tr><tr><td>u1</td><td>5.982</td><td>0.222</td><td>5.776</td><td>0.329</td></tr><tr><td>u2</td><td>2.130</td><td>0.254</td><td>0.740</td><td>0.244</td></tr><tr><td>u3</td><td>0.854</td><td>0.358</td><td>1.271</td><td>0.211</td></tr><tr><td>u4</td><td>0.693</td><td>0.219</td><td>0.960</td><td>0.304</td></tr></table></body></html>
+
+# 3.2 算法推荐标准
+
+为了评估算法的预测性能，使用的评价指标包括标准平均绝对误差(Normalized Mean Absolute Error,NMAE)和覆盖率(Coverage)。其中NMAE 的定义公式如下所示：
+
+$$
+\mathrm { N M A E } = \frac { \sum _ { \mathrm { u , j } } \lvert \boldsymbol { \ r } _ { \mathrm { u , j } } - \hat { \boldsymbol { \ r } } _ { \mathrm { u , j } } \rvert } { \sum _ { \mathrm { u , j } } \mathrm { r } _ { \mathrm { u , j } } }
+$$
+
+其中 ${ \bf r } _ { \mathrm { u , j } }$ 和 $\hat { \mathrm { r } } _ { \mathrm { u , j } }$ 分别为用户 $\mathrm { ~  ~ u ~ }$ 对服务j调用的真实响应时间值和预测响应时间值。从NMAE的定义可以看出，NMAE值越小，表明预测的响应时间值与真实的响应时间值之间的误差越小，从而获得的预测准确性越高。
+
+针对Web服务响应时间值的属性，覆盖率定义为预测响应时间值大于0的预测服务数量(plusNum)与实际需要预测的全部服务数量(Num)的百分比，覆盖率值越大表明预测算法能正确预测Web服务QoS值的百分比越高，从而表明预测结果越好。具体计算如下：
+
+$$
+\mathrm { C o v e r a g e } = \frac { \mathrm { p l u s N u m } } { \mathrm { N u m } }
+$$
+
+# 3.3 实验结果及分析
+
+在本实验中，笔者将GHQR算法与4种代表性推荐算法作对比分析：传统的基于用户的协同过滤推荐算法(UPCC)、基于项目的协同过滤推荐算法(IPCC)、著名的基于协同过滤QoS 感知的 Web 服务推荐算法(WSRec)[2]和基于用户群体影响的协同过滤推荐算法[12](本文简称CFBUGI)。
+
+为了构造真实Web 服务数据稀疏性的场景，从WS-DREAM数据集5825个Web服务中任意挑选出不同数量的Web服务，使用参数 $\boldsymbol { \chi }$ 控制挑选的Web服务数量，并设置 $\scriptstyle x = 1 0 0 0$ 以构造数据稀疏性的场景。将包含 $\mathbf { M } \times { \boldsymbol { \chi } }$ 的数据集(命名为 RTset)分为两个部分，一部分为预测算法的训练集；另一部分为预测算法的测试集。参数Percent表示训练集所占RTset的百分比。此外，使用变量Density设置训练集的稀疏性。变量Top-K为选择的相似邻居的数量。
+
+表2展示了GHQR算法与4种推荐算法的NMAE和Coverage值对比结果。其中，实验环境设置为
+
+Percent $= 8 0 \%$ ，Top $\cdot \mathrm { K } { = } 3 0$ ，群体 $\mathrm { \alpha } _ { \mathrm { { \alpha } } } \mathrm { = } 0 . 8$ ，群体 $\scriptstyle  \{ 3 = 0 . 8$ Density分别为 $10 \%$ 、 $20 \%$ 和 $30 \%$ ，相应的Y值设置为$\gamma = 0 . 8$ ， $\gamma = 0 . 6 5$ ， $\gamma = 0 . 4 5$ 。对推荐算法WSRec设置Top- $\scriptstyle \cdot K = 9 0$ ，UPCC和IPCC的权重分别为 $80 \%$ 和 $20 \%$ 。从表2可以看出随着Density从 $10 \%$ 递增到 $30 \%$ ,GHQR均获得最低的NMAE值和最高的Coverage值。表3是GHQR 算法与其余4种算法相比在NMAE 和Coverage上获得的提高百分比。其中NMAE 和Coverage 获得的最优百分比分别为 $69 \%$ 和 $1 8 8 \%$ 如表2和表3所示，表明GHQR与其余4种方法相比在不同稀疏性的设置下均获得最优的预测准确性，同时获得最高的预测值覆盖率，从而验证了GHQR算法的优越性。
+
+表2标准平均绝对误差和覆盖率对比结果  
+
+<html><body><table><tr><td>Metric</td><td>Density</td><td>UPCC</td><td>IPCC WSRec</td><td>CFBUGI</td><td>GHQR</td></tr><tr><td rowspan="3">NMAE</td><td>10%</td><td></td><td>1.06642 2.50279 1.06642</td><td>0.81416</td><td>0.72538</td></tr><tr><td>20%</td><td></td><td>1.04139 2.26790 0.95167</td><td>0.77757</td><td>0.73229</td></tr><tr><td>30%</td><td></td><td>1.04981 2.27672 0.97152</td><td>0.78899</td><td>0.73896</td></tr><tr><td rowspan="3">Coverage</td><td>10%</td><td></td><td>0.48334 0.27345 0.48334</td><td>0.79175</td><td>0.98190</td></tr><tr><td>20%</td><td></td><td>0.43179 0.39325 0.25057</td><td>0.83998</td><td>0.91787</td></tr><tr><td>30%</td><td></td><td>0.41421 0.41814 0.27807</td><td>0.80869</td><td>0.82027</td></tr></table></body></html>
+
+表3GHQR算法在标准平均绝对误差和覆盖率上的提高  
+
+<html><body><table><tr><td>Metric</td><td>Density</td><td>Impro. Vs UPCC</td><td>Impro. Vs IPCC</td><td>Impro. Vs WSRec</td><td>Impro. Vs CFBUGI</td></tr><tr><td rowspan="3">NMAE</td><td>10%</td><td>32%</td><td>71%</td><td>32%</td><td>10.9%</td></tr><tr><td>20%</td><td>30%</td><td>68%</td><td>23%</td><td>5.8%</td></tr><tr><td>30%</td><td>30%</td><td>68%</td><td>24%</td><td>6.3%</td></tr><tr><td>Average</td><td>1</td><td>31%</td><td>69%</td><td>26%</td><td>7.7%</td></tr><tr><td rowspan="3">Coverage</td><td>10%</td><td>103%</td><td>259%</td><td>103%</td><td>2.4%</td></tr><tr><td>20%</td><td>113%</td><td>133%</td><td>266%</td><td>9.3%</td></tr><tr><td>30%</td><td>98%</td><td>96%</td><td>195%</td><td>1.4%</td></tr><tr><td>Average</td><td>二</td><td>105%</td><td>163%</td><td>188%</td><td>4%</td></tr></table></body></html>
+
+这是因为在数据稀疏性的条件下，使用单个用户(服务)的推荐算法可能会面临相似邻居缺失的问题或其相似邻居实质上并不太相似，而是刚好与目标用户(服务)共同调用过较少数量的服务(用户)[2]。然而相似邻居的寻找是协同过滤推荐算法中最重要的步骤之一。在相似邻居不具有高相似性的情况下进行推荐可能导致预测QoS值与真实QoS值之间具有较大的误差。因此推荐算法的预测准确性和覆盖率都需获得进一步的提高。如表1中以单个用户(服务)进行推荐的算法(UPCC，IPCC，WSRec)获得较低的预测准确性和覆盖率。以群体代替单个用户(服务)的推荐算法，是使用用户(服务)群体中心代替单个用户(服务)，计算用户(服务)群体与用户(服务)群体之间的群体相似性代替单个用户(服务)与单个用户(服务)之间的相似性，从而根据群体相似性寻找到更准确的群体相似邻居进行推荐，以获得更准确的预测QoS值，从而获得较高的预测准确性和覆盖率。以群体进行推荐的算法(CFBUGI、GHQR)获得较优的预测性能从而验证了上述的推理。此外，在本文所提算法中对典型的混合型算法进行改进，并充分利用原有基于用户和基于服务推荐算法的预测优势，从而与GHQR群体算法相比具有较优的预测性能。
+
+# (1）预测权重Y对预测结果的影响
+
+为了研究预测权重γ对预测结果的影响，将实验环境设置为Percent $= 8 0 \%$ ， $\scriptstyle 1 = 3 0$ ，群体 $\mathrm { \alpha } \mathrm { \simeq } 0 . 8$ ，群体$\scriptstyle  \{ \beta = 0 . 8 \$ ,Density分别为 $10 \%$ 、 $20 \%$ 和 $30 \%$ 。由于当预测权重γ为0时混合算法的预测结果仅为基于用户群体的预测结果，而当预测权重 $\gamma$ 为1时，混合算法的预测结果仅为基于服务群体的预测结果。所以将预测权重γ以步长0.05从初始值0.05递增到0.95以研究γ对GHQR预测结果的影响。
+
+图1和图2分别为GHQR与基于用户群体影响的协同过滤算法CFBUGI在NMAE和Coverage指标上的预测性能对比。从图1中可以看出，不同稀疏性情况下当γ值增加的时候，首先GHQR的NMAE值持续降低，到达最低值时再增加。这表明在不同稀疏性情况下GHQR 的最佳值有所不同，并且随着γ值增加基于用户群体算法在GHQR中的权重值逐步下降。当稀疏性为 $10 \%$ 、 $20 \%$ 、 $30 \%$ 时，获得最佳预测值的γ分别为0.8(0.72538)、0.65(0.73229)、0.45(0.73896)。与CFBUGI算法相比，不同稀疏性情况下的GHQR最佳NMAE值均小于0.74，表明GHQR具有较优的预测准确性。同理从图2中可以看出，随着预测权重γ值的不断增加，GHQR的Coverage 值也持续增加并最后到达平稳状态。当稀疏性为 $10 \%$ 、 $20 \%$ 、 $30 \%$ 时，与CFBUGI的Coverage值0.80869、0.83998、0.79175相比，GHQR获得的最佳Coverage值分别为0.99286、0.98001、0.86577。从而表明GHQR算法具有较优的预测性能。
+
+![](images/cee5419cdd3fc2ef11c5709ad5830c617d009f88e8086f37c9c86c83488256c7.jpg)  
+图1预测权重Y对NMAE的影响
+
+![](images/bbe8c6592450c2aa365a0855554cc5acf1d9114092017dd035684b64a1ada813.jpg)  
+图2预测权重Y对Coverage 的影响
+
+(2）群体相似度阈值 $\alpha ( \beta )$ 对预测结果的影响
+
+根据定义1和定义2，群体相似度距离阈值 $\alpha$ 和β分别控制群体用户和群体服务的空间大小。为了研究这两个参数对预测结果的影响，如图3所示，将实验环境设置为Percent $= 8 0 \%$ ， $\mathrm { K } { = } 3 0$ ，Density $_ { = 1 0 }$ $\gamma = 0 . 6$ 。群体相似度阈值 $\alpha$ 和群体β取相同的值，标记为 $\alpha ( \beta )$ 。 $\alpha$ 和β值以0.1为步长从0递增到1。与基于用户群体影响的协同过滤算法 CFBUGI 相比,GHQR 在不同 $\alpha$ 和 $\beta$ 取值下，均获得较低的NMAE值和较高的Coverage 值，从而表明GHQR不仅能提高预测的准确性，而且在预测值覆盖率上获得显著提高。
+
+![](images/722213c84d865d184caa713becfc9855fe635e45779d53d4e9302e2b82a8e1b3.jpg)  
+图3群体 $\alpha ( \beta )$ 对NMAE 和Coverage 的影响
+
+# 4结语
+
+本文利用群体特性提出一种基于相似性群体的混合型Web服务推荐算法，该算法充分利用基于用户群体和基于服务群体的优点，分别为目标用户和服务根据相似性距离构造个性化的相似性用户群体和服务群体，定义用户群体和服务群体中心，并设计新的融合用户群体中心和服务群体中心之间相似性的混合型Web服务推荐算法。实验结果表明本文所提出的预测算法不仅能提高Web服务预测的准确性而且能获得较高的覆盖率。在后续的工作中将对更多的QoS属性进行研究以拓展混合型算法的应用场景。对Web服务QoS值预测准确性有影响的其他因素(如：QoS的时序性，可信度等)也将是后续工作的研究重点。
+
+# 参考文献：
+
+[1] 邵凌霜，周立，赵俊峰，等．一种Web Service 的服务质量 预测方法[J]．软件学报，2009，20(8):2062-2073.(Shao Lingshuang,Zhou Li,Zhao Junfeng,et al.Web Service QoS Prediction Approach [J].Journal of Software,20o9,20(8): 2062-2073.)   
+[2] Zheng Z,Ma H,Lyu M R,et al.QoS-aware Web Service Recommendation by Collaborative Filtering[J].IEEE Transactions on Service Computing,2011,4(2): 140-152.   
+[3] Chen X, Zheng Z,Liu X,et al.Personalized QoS-aware Web Service Recommendation and Visualization [J].IEEE Transactions on Services Computing,2013,6(1): 35-47.   
+[4] He P,Zhu J,Zheng Z,et al. Location-based Hierarchical Matrix Factorization for Web Service Recommendation [C]. In:Proceedings of 2O14 IEEE International Conference on Web Services (ICWS2014).Washington,DC: IEEE Computer Society,2014: 297-304.   
+[5] 张璇，刘聪，王黎霞，等．基于协同过滤的可信Web 服务 推荐方法[J]．计算机应用，2014，34(1):213-217.(Zhang Xuan,Liu Cong,Wang Lixia, et al. Trustworthy Web Service Recommendation Based on Collaborative Filtering [J]. Journal of Computer Applications,2014,34(1):213-217.)   
+[6] 王海艳，杨文彬，王随昌，等．基于可信联盟的服务推荐 方法[J]．计算机学报,2014,37(2):301-311.(Wang Haiyan, YangWenbin， WangSuichang， etal.A Service Recommendation Method Based on Trustworthy Community [J]. Chinese Journal of Computers,2014,37(2): 301-311.)   
+[7]姜波，张晓筱，潘伟丰．基于二部图的服务推荐算法研究 [J]．华中科技大学学报：自然科学版,2013,41(S2):93-99. (Jiang Bo， ZhangXiaoxiao，PanWeifeng. Bipartite Graph-based Service Recommendation Method Study [J]. Journal of Huazhong University of Science and Technology: Natural Science Edition,2013,41(S2): 93-99.)   
+[8]林祥云，刘小青，唐明董,等.Web 服务QoS与用户位置的 相关性实证研究[J]．计算机工程与科学，2013，35(9): 83-88.(Lin Xiangyun,Liu Xiaoqing, Tang Mingdong,et al. An Empirical Study of Correlation Between Web Service QoS and User Location [J]. Computer Engineering and Science, 2013,35(9): 83-88.)   
+[9]Xie Q，Zheng Z,Liu L，et al．Correlation-based Top-k Recommendation for Web Services [C]. In:Proceedings of the 13th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC-2015), Liverpool, UK.2015:1903-1909.   
+[10] 高虎明，赵凤跃．一种融合协同过滤和内容过滤的混合推 荐方法[J]．现代图书情报技术，2015(6)：20-26.(Gao Huming,Zhao Fengyue.A Hybrid Recommendation Method Combining Collaborative Filtering and Content Filtering [J]. New Technology of Library and Information Service, 2015(6): 20-26.)   
+[11] 祝婷，秦春秀，李祖海．基于用户分类的协同过滤个性化 推荐方法研究[J]．现代图书情报技术,2015(6):13-19.(Zhu Ting，Qin Chunxiu,Li Zuhai. Research on Collaborative Filtering Personalized Recommendation Method Based on User Classification [J].New Technology of Library and Information Service,2015(6): 13-19.)   
+[12] 林耀进，胡学钢，李慧宗．基于用户群体影响的协同过滤 推荐算法[J]．情报学报,2013,32(3):299-305.(Lin Yaojin, HuXuegang，LiHuizong.CollaborativeFiltering Recommendation Algorithm Based on User Group Influence [J].Journal of the China Society for Scientific and Technical Information,2013,32(3):299-305.)   
+[13]盈艳,曹妍，牟向伟.基于项目评分预测的混合式协同过滤推 荐[J].现代图书情报技术,2015(6):27-32.(Ying Yan,Cao Yan, Mu Xiangwei. A Hybrid Collaborative Filtering Recommender Based on Item Rating Prediction[J]. New Technology of Library and Information Service,2015(6): 27-32.)
+
+# 作者贡献声明：
+
+谢琪，崔梦天：提出研究思路，设计研究方案，论文起草和最终版本修订;  
+谢琪：数据的获取、提供与分析，进行实验。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+[1]郑子彬.339-5825-QoSDataset2.zip.339个用户调用5825个服务 的QoS 调用记录.
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail: zibin.gil@gmail.com。
+
+收稿日期:2016-03-07  
+收修改稿日期:2016-04-14
+
+# Group Similarity Based Hybrid Web Service Recommendation Algorithm
+
+Xie Qi1,²Cui Mengtian' 1(School of Computer Science and Technology,Southwest University for Nationalities, Chengdu 610225,China) 2(Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong 999077, China)
+
+Abstract: [Objective] This paper tries to solve the issues of lacking similar services or users in Web service computing due to the data sparsityof Qualityof Service(QoS)recommendation. [Methods] First, we created personalized similar user and service groups according to similarity distance of the target users and services. Second, we used the group center similarities of the user and service groups to design a new hybrid recommendation algorithm(GHQR), which was tested with real-world data of 1.97 million QoS records.[Results] Compared with two traditional recommendation algorithms, the GHQR reduced the Normalized Mean Absolute Error (NMAE) by $31 \%$ and $69 \%$ . It also increased the Coverage by $10 5 \%$ and $1 6 3 \%$ ，respectively. [Limitations] Our study only examined the response time of QoS,and more research was needed to investigate other QoS properties. [Conclusions] Comprared with WSRec and CFBUGI, the GHQR can reduce the NMAE by $2 6 \%$ and $7 . 7 \%$ . It also increased the Coverage by $1 8 8 \%$ and $4 \%$ , respectively. GHQR not only enhances the prediction accuracy but also increases the coverage significantly.
+
+Keywords: Personalized recommendation Service computing Web services Quality of Service

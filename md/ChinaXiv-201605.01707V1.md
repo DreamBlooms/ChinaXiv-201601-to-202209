@@ -1,0 +1,146 @@
+# Complete one-loop effects of SUSY QCD in bbh production at the LHC under current experimental constraints
+
+Ning Liu $^ { 1 }$ ， Lei Wu $^ 2$ ， Pei Wen Wu $^ 2$ ， Jin Min Yang²
+
+（20 $^ { 1 }$ Physics Department, Henan Normal University， Xinxiang 453007, China $^ 2$ Institute of Theoretical Physics， Academia Sinica, Beijing 100190, China
+
+# Abstract
+
+Inspired by the recent LHC Higgs data and nul search results of supersymmetry (SUSY), we scan the parameter space of the Minimal Supersymmetric Standard Model (MSSM) with relatively heavy sparticles (1-3 TeV). Then in the parameter space allowed by current collider experiments and dark matter detections, we calculate the complete one-loop SUSY QCD corrections to $p p  b b h$ （204 at the LHC with $\sqrt { s } = 1 4$ TeV and obtain the following observations: (i) For the large values of $\tan \beta$ and low values of $m _ { A }$ , the SUSY QCD effects can be quite large, which, however, have been excluded by the latest results of LHC search for $H / A \to \tau ^ { + } \tau ^ { - }$ ; (ii) For modest values of $\tan \beta$ and （204号 $m _ { A }$ which so far survived all experimental constraints, the SUSY QCD corrections can maximally reach about $- 9 \%$
+
+PACS numbers:
+
+# I. INTRODUCTION
+
+Very recently the ATLAS and CMS collaborations have independently reported the observation of a Higgs-like resonance with a mass about 125 GeV [1]. At the same time, the CDF and D0 collaborations have also updated their combined results for the Higgs searches in $b b$ channel, which support the LHC observation [2]. Since in the Minimal Supersymmetric Standard Model (MSSM) a SM-like Higgs boson is predicted with a mass below 130 GeV, the observation of such a 125 GeV Higgs boson supports SUSY, albeit quite restrictive on the parameter space of SUSY [3].
+
+Meanwhile, the direct searches for SUSY particles (sparticles) have been performed at the LHC.Based on about 5 fb $^ - 1$ luminosity, the ATLAS and CMS collaborations have reported null results and obtained some bounds on the sparticle masses, which is about 1 TeV for the gluino and first generation of squarks [4], 330 GeV for the electroweak gauginos,180 GeV for the sleptons [5],465 GeV for the stops and 480 GeV for the sbottoms [6]. These bounds indicate that SUSY may be heavier than expected and the sparticles may be significantly heavier than the electroweak scale [7,8].
+
+In case that the sparticles are heavy and beyond the LHC scope of direct production, search for the indirect SUSY effects via loop corrections will be of great importance. Since the loop effects of heavy sparticles are usually small, we should look for some processes in which the heavy sparticles have residual loop efects. One type of such processes are Higgs productions at the LHC, such as the production of $t H ^ { - }$ and $h b b$ , in which the heavy sparticles have sizable residual loop effects for a small value of $m _ { A }$ and a large value of $\tan \beta$ （20 [9,10] (when $m _ { A }$ getting large, such effects will vanish). The reason for these residual loop effects is that the couplings in the loops are proportional to some SUSY mass parameters and can be enhanced by the large values of $\tan \beta$
+
+In this note we focus on the production of $h b b$ at the LHC and calculate the complete oneloop SUSY QCD corrections to this process. As an important Higgs production channel for the MSSM, this production has been studied in the literature [10], where the residual SUSY QCD effects are found to be large (reach -40% for $\tan \beta = 3 0$ ). We revisit this production for the following reasons: Firstly, in the literature the SUSY QCD corrections to this process are calculated only partially (only the corrections to the $h b b$ vertex have been considered). The complete one-loop corrections involve pentagon Feynman diagrams, whose calculations are rather complicated and have not been performed. Secondly, the CMS collaboration has recently measured this channel and given constraints on the plane of $\tan \beta$ versus $m _ { A }$ [11]. Since the residual SUSY QCD effects in this production is sensitive to the values of $\tan \beta$ （20 and $m _ { A }$ , we should update the calculations by considering such new constraints. Moreover, other experimental constraints,such as the dark matter direct detection limits and the SMlike Higgs boson mass around 125 GeV, are also rather restrictive and should be considered. In this work, we consdier all current experimental constraints to scan the MSSM parameter space and then in the allowed parameter space we calculate the process $p p  b b h$ with the complete one-loop SUSY QCD corrections.
+
+The paper is organized as follows. In Sec. II. we describe the calculations for the process （204号 $p p  b b h$ . In Sec.III we show numerical results. Finally, we draw the conclusions in Sec. IV.
+
+# II. THE DESCRIPTION OF CALCULATIONS
+
+In the MSSM the lighter CP-even Higgs mass $( m _ { h } )$ is smaller than $M _ { Z }$ at tree level but receives large corrections at the loop level. The leading part of the corrections is from the stop sector and can be expressed as [13]
+
+$$
+\Delta m _ { h } ^ { 2 } ( \tilde { t } ) \simeq { \frac { 3 m _ { t } ^ { 4 } } { 2 \pi ^ { 2 } v ^ { 2 } \sin ^ { 2 } \beta } } [ \log { \frac { m _ { \tilde { t } _ { 1 } } m _ { \tilde { t } _ { 2 } } } { m _ { t } ^ { 2 } } } + { \frac { X _ { t } ^ { 2 } } { 2 m _ { \tilde { t } _ { 1 } } m _ { \tilde { t } _ { 2 } } } } ( 1 - { \frac { X _ { t } ^ { 2 } } { 6 m _ { \tilde { t } _ { 1 } } m _ { \tilde { t } _ { 2 } } } } ) ]
+$$
+
+where $X _ { t } = A _ { t } { - } \mu \cot \beta$ is the stop mixing parameter. We see that a large stop mass or a large stop mixing parameter is needed to increase $m _ { h }$ to 125 GeV. In our calculations we consider the collider constraints on the MSSM Higgs sector, using the packages FeynHiggs2.8.6 [14] and HiggsBounds-3.8.0[15] to calculate the observables in the Higgs sector and require them to satisfy the constraints from the LEP, Tevatron and LHC.
+
+The SUSY QCD corrections to $h b b$ production at the LHC involve the sbottoms and gluino in the loops. The sbottom mass matrix takes the form [16]
+
+$$
+M _ { \tilde { b } } ^ { 2 } = \left( \begin{array} { c c } { { m _ { \tilde { b } _ { L } } ^ { 2 } } } & { { m _ { b } X _ { b } ^ { \dagger } } } \\ { { m _ { b } X _ { b } } } & { { m _ { \tilde { b } _ { R } } ^ { 2 } } } \end{array} \right) \ ,
+$$
+
+where
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { m _ { \tilde { b } _ { L } } ^ { 2 } = m _ { \tilde { Q } } ^ { 2 } + m _ { b } ^ { 2 } - m _ { Z } ^ { 2 } ( \frac { 1 } { 2 } - \frac { 1 } { 3 } \sin ^ { 2 } \theta _ { W } ) \cos ( 2 \beta ) , } } \\ { { } } & { { } } & { { m _ { \tilde { b } _ { R } } ^ { 2 } = m _ { \tilde { D } } ^ { 2 } + m _ { b } ^ { 2 } - \frac { 1 } { 3 } m _ { Z } ^ { 2 } \sin ^ { 2 } \theta _ { W } \cos ( 2 \beta ) , } } \\ { { } } & { { } } & { { X _ { b } = A _ { b } - \mu \tan \beta , } } \end{array}
+$$
+
+where $m _ { \tilde { Q } } ^ { 2 }$ and $m _ { \tilde { D } } ^ { 2 }$ are respectively the soft-breaking mass parameters for the left-handed squark doublet $\tilde { Q }$ and the right-handed down squark $\tilde { D }$ ， $A _ { b }$ is the sbottom soft-breaking trilinear coupling and $\mu$ is the SUSY-preserving bilinear coupling of the two Higgs doublets in the superpotential. This mass matrix can be diagonalized by a unitary transformation which rotates the weak eigenstates $\tilde { b } _ { L , R }$ to the mass eigenstates $\tilde { b } _ { 1 , 2 }$ ，
+
+$$
+\left( \begin{array} { c } { { \tilde { b } _ { 1 } } } \\ { { \tilde { b } _ { 2 } } } \end{array} \right) = \left( \begin{array} { c c } { { \cos { \theta _ { \tilde { b } } } } } & { { \sin { \theta _ { \tilde { b } } } } } \\ { { - \sin { \theta _ { \tilde { b } } } \cos { \theta _ { \tilde { b } } } } } \end{array} \right) \left( \begin{array} { c } { { \tilde { b } _ { L } } } \\ { { \tilde { b } _ { R } } } \end{array} \right)
+$$
+
+with the sbottom masses $m _ { \tilde { b } _ { 1 , 2 } }$ and the mixing angle $\theta _ { \tilde { b } }$ determined by
+
+$$
+\begin{array} { c } { { m _ { \tilde { b } _ { 1 , 2 } } = \displaystyle \frac { 1 } { 2 } \left[ m _ { \tilde { b } _ { L } } ^ { 2 } + m _ { \tilde { b } _ { R } } ^ { 2 } \mp \sqrt { \left( m _ { \tilde { b } _ { L } } ^ { 2 } - m _ { \tilde { b } _ { R } } ^ { 2 } \right) ^ { 2 } + 4 m _ { b } ^ { 2 } X _ { b } ^ { 2 } } \right] , } } \\ { { \tan 2 \theta _ { \tilde { b } } = \displaystyle \frac { 2 m _ { b } X _ { b } } { m _ { \tilde { b } _ { L } } ^ { 2 } - m _ { \tilde { b } _ { R } } ^ { 2 } } . } } \end{array}
+$$
+
+We produce the one-loop amplitudes with FeynArts-3.5 [17] and use the FormCalc-6.1 [18] to simplify them and express the loop functions. The numerical calculations are performed by using LoopTools-2.2 [19]. In Fig.1 we display the representative pentagon Feynman diagrams for the SUSY QCD corrections in the subprocesses $g g  b b h$ . Due to no massless particles in the loop, all the Feynman diagrams with the gluino and sbottoms in the loops are infrared (IR) finite.
+
+We take the definitions of the scalar and tensor two-, three-, four- and five-point integral functions presented in Ref.[20]. For the calculation of the pentagon diagrams, we use Passarino-Veltman method[21] to reduce the N-point(N $\leq 5$ ） tensor functions to scalar integrals. Our programs have been used to study the SUSY-QCD corrections to the process $p p \to t \bar { t } Z ^ { 0 }$ at the LHC [22] and have been checked with Ref.[23] therein. In order to further validate the calculation of the pentagon diagrams, we used our programs to calculate the NLO QCD corrections to $p p  t \bar { t } h$ in the SM at the LHC and compared with the results in Ref.[24]. As shown in Table I, our results argee with those in Ref.[24] very well. In order to preserve supersymmetry, we adopt the constrained differential renormalization (CDR) [25] to regulate the ultraviolet divergence (UV) in the self-energy and vertex corrections, which is equivalent to the dimensional reduction method at one-loop level [26].
+
+![](images/09efdd0cc7479a938aef657468b418d9adfd1f5f18ec48ea2f19f8468cb16409.jpg)  
+FIG.1: The pentagon diagrams for SUSY QCD corrections to the subprocess of $g g  b \bar { b } h$ at the LHC.
+
+TABLE I: The comparison of our numerical results for the process $p p  t \bar { t } h$ in the SM at the LHC with those in Ref.[24]， where the LO and NLO QCD corrected cross sections for different Higgs mass are listed with the relevant parameters and the PDFs being the same as in Ref.[24], i.e., $\mu _ { 0 } = ( 2 m _ { t } + m _ { h } ) / 2$ ， $m _ { t } = 1 7 4$ GeV and the MRST PDFs.
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td>mh(GeV) our oLo(fb)our σNLo(fb)σLo(fb) in [24] oNLo(fb) in [24]</td></tr><tr><td>120</td><td>577.4(4)</td><td>701.3(13)</td><td>577.3(4)</td><td>701.5(18)</td></tr><tr><td>140</td><td>373.6(2)</td><td>452.4(11)</td><td>373.4(3)</td><td>452.3(12)</td></tr><tr><td>160</td><td>251.3(4)</td><td>305.5(7)</td><td>251.6(2)</td><td>305.6(8)</td></tr></table></body></html>
+
+In our calculations, we assume a common SUSY mass $M _ { S U S Y }$ defined by $M _ { S U S Y } = M _ { \tilde { Q } } =$ （204号 $M _ { \tilde { U } } = M _ { \tilde { D } } = M _ { \tilde { g } } = A _ { t } = A _ { b } = \mu$ . We fix slepton mass parameters $M _ { \tilde { L } } = M _ { \tilde { E } } = A _ { \tau } = 3$ TeV and scan the following MSSM parameter regions:
+
+$$
+5 \leq \tan \beta \leq 6 0 , \quad 9 0 ~ \mathrm { G e V \leq M _ { A } \leq 3 5 0 ~ \mathrm { G e V } , \quad 1 ~ \mathrm { T e V \leq M _ { S U S Y } \leq 3 ~ \mathrm { T e V } } }
+$$
+
+In our scan we consider the follwing constraints on the parameter space: (i) We require that the bounds for Higgs bosons from LEP, Tevatron and LHC are satisfied and the mass of light CP-even Higgs is in the region of 123 GeV $< m _ { h } < 1 2 9$ GeV; (ii) For the constraints from favor physics and electroweak precision tata, we checked by using the package susy_flavor v2.0 [27] that they are safely satisfied because we assume relatively heavy sparticles. (ii) We consider the dark matter constraints from the WMAP relic density and the direct detection results by using the package MicrOmega v2.4 [28].
+
+# III. NUMERICAL RESULTS
+
+Since the b-quark Yukawa coupling may receive large radiative corrections in the MSSM, we use the running b-quark mass $( m _ { b } ^ { \overline { { D R } } } )$ and use the method induced in [30] to absorb the MSSM corrections into the effective b-quark Yukawa couplings. But for the b-quark in the final state,we take the pole mass to assure the correct on-shell behavior.
+
+In our numerical calculations, we take the input parameters of the SM as [31]
+
+$$
+n _ { t } = 1 7 2 \ \mathrm { G e V } , m _ { b } ^ { \overline { { { M S } } } } ( m _ { b } ^ { \overline { { { M S } } } } ) = 4 . 1 9 \ \mathrm { G e V } , m _ { Z } = 9 1 . 1 8 7 6 \ \mathrm { G e V } , \alpha ( m _ { Z } ) = 1 / 1 2 \ \mathrm { G e V } ,
+$$
+
+Here $m _ { b } ^ { \overline { { { M S } } } } ( m _ { b } ^ { \overline { { { M S } } } } )$ is the QCD- $\overline { { M S } }$ bottom-quark mass， which is related to $m _ { b } ^ { \overline { { D R } } }$ DR as
+
+$$
+m _ { b } ^ { \overline { { { D R } } } } = m _ { b } ^ { \overline { { { M S } } } } [ 1 - { \frac { \alpha _ { s } } { 3 \pi } } - { \frac { \alpha _ { s } ^ { 2 } } { 1 4 4 \pi ^ { 2 } } } ( 7 3 - 3 n _ { f } ) ]
+$$
+
+where $n _ { f }$ is the number of the active quark flavors. For the strong coupling constant $\alpha _ { s } ( \mu )$ ， we take its 2-loop evolution with QCD parameter $\Lambda ^ { n _ { f } = 5 } = 2 2 6$ MeV and get $\alpha _ { s } ( m _ { Z } ) = 0 . 1 1 8$ ： We use CTEQ6L1 and CTEQ6M [32] parton distribution functions (PDF） for the SM tree level and SUSY QCD one-loop level computations, respectively. The renormalization scale （20 $\mu _ { R }$ and factorization scale $\mu _ { F }$ are chosen to be $\mu _ { R } = \mu _ { F } = m _ { Z }$ . We numerically checked that all the UV divergence in the loop corrections canceled.
+
+In Fig.2 we project the survived samples satisfying all the experimental constraints on the planes of $\tan \beta$ and $M _ { h }$ versus $m _ { A }$ and also present the excluded regions. It can be seen that a large part of the parameter space (the light blue region) has been ruled out by the
+
+![](images/c4139a541a947b70dc902968740851d4c9a7e006b1889fbc0a4548666d97f6d0.jpg)
+
+FIG. 2: The parameters space satisfying constraints (i)-(ii), projected on the planes of $\tan \beta$ versus （204号 $m A$ . The blue region is excluded by the LHC data, in particular,by the search of new particles decaying into $\tau ^ { + } \tau ^ { - }$ and the measurement of $B _ { s }  \mu ^ { + } \mu ^ { - }$ . The yellow region is excluded by the non-observation of Higgs boson at LEP2. The red dots represent the samples survied all the constraints.
+
+7 TeV LHC data, in particular, by the search of new particles decaying into $\tau ^ { + } \tau ^ { - }$ and the measurement of $B _ { s } \to \mu ^ { + } \mu ^ { - }$ . For the small $\tan \beta$ and low and moderate $M _ { A }$ region,it has been excluded by the non-observation of Higgs boson at LEP2. We also note that, with the very recently released 7+8 TeV LHC results of $H / A \to \tau ^ { + } \tau ^ { - }$ based on $\mathcal { L } = 1 7$ fb $^ { - 1 }$ [33], the excluded lower limit on the plane of $\tan \beta - M _ { A }$ has been further pushed down and overlaps with the one of LEP2 in the low $M _ { A }$ case. Since we require the Higgs boson mass to be in the range of 123-129 GeV indicated by the LHC data(126±3 GeV),the parameter space that can correctly produce the Higgs boson mass is highly constrained and situated in a region with a modest $M _ { A }$ ( $M _ { A } \gtrsim 2 0 0$ GeV）and a small $\tan \beta$ （ $6 \lesssim \tan \beta \lesssim 1 2 ,$ .However, for other parts of the parameters space, they produce a too heavy Higgs boson ( $m _ { h } > 1 2 9$ GeV when $\tan \beta > 1 2$ ） or a too light Higgs boson（ $m _ { h } < 1 2 3$ GeV when $\tan \beta < 6$ ）
+
+In Fig.3 we present seperately the pentagon diagram contribution (lower panel） and the total SUSY-QCD contribution (upper panel) for the surviving samples. In order to show the influence of the recent LHC data, we present the complete one-loop SUSY QCD corrections for the samples satisfying or not satisfying the LHC constraints. We can see that the complete SUSY QCD corrections will be significant for the samples which have a large $\tan \beta$ and a low value of $m _ { A }$ . This can be understood by the contribution to the effective b-quark Yukawa coupling after integration of the heavy sparticles, which is $\delta { \bar { y } } _ { h b \bar { b } } =$ m()tanβ+ota[8].Since weassumeMsus=Mgμ,teYkawa coupling will be independent of the sparticle masses and be greatly enhanced by a large $\tan \beta$ However, it should be noted that these samples will lead to the excess of the production rate of $p p  H / A  \tau ^ { + } \tau ^ { - }$ and thus have been excluded by the current measurements. With the increase of $m _ { A }$ and the decrease of $\tan \beta$ , the corrections drop rapidly and approach zero in the decoupling limit. The main reason is that $\delta { \bar { y } } _ { h b { \bar { b } } }$ can be heavily reduced by the cancellation between $\tan \beta$ and $\cos \alpha$ ， which have a relation as $\cot \alpha \simeq - \tan \beta - 2 m _ { Z } ^ { 2 } \tan \beta \cos ^ { 2 } \beta / m _ { A } ^ { 2 }$ （204号 for a large $m _ { A }$ . From the lower panel of Fig.3, we see that contributions of those pentagon diagrams are small and maximally reach about $0 . 8 \%$ . This is because in those pentagon diagrams the Higgs boson only couples to sbottoms while the $h b b$ vertex does not appear. So the large residual loop effects in the $h b b$ vertex are absent in the pentagon diagrams. For the samples which survived all the constraints, the complete SUSY QCD corrections can only reach about $- 9 \%$ at the LHC with $\sqrt { s } = 1 4$ TeV. Detecting such a size of SUSY QCD effects may be challenging in the future measurement of the process $p p  b b h$ [34].
+
+![](images/c4822d9dc28a4bfa2e2a54d7ee27460d50a3d9459ac7d1f13e3e5eb46d4efde6.jpg)  
+FIG. 3: The upper panel shows the complete one-loop SUSY QCD corrections( $( \delta \sigma / \sigma )$ versus $M _ { A }$ and $\tan \beta$ for the samples satisfying(red triangles) or not satisfying(green dots) the LHC constraints. The lower panel shows the SUSY-QCD corrections from the contributions of pentagon diagrams $( \delta \sigma _ { p } / \sigma )$ for the red triangle samples.
+
+# IV. CONCLUSION
+
+In this work, we calculated the complete one-loop SUSY QCD corrections to the process （204 $p p  b b h$ at the LHC with $\sqrt { s } = 1 4$ TeV. We found that the large SUSY QCD corrections in the non-decoupling regime with a large $\tan \beta$ and a low $m _ { A }$ has been excluded by the latest results of LHC non-standard Higgs searches. For the survived decoupling regime which have modest values of $\tan \beta$ and $m _ { A }$ , the SUSY QCD corrections can maximally reach $- 9 \%$
+
+# Acknowledgement
+
+This work was supported in part by the National Natural Science Foundation of China (NNSFC) under grant Nos. 10821504 and 11135003,by the Project of Knowledge Innovation Program (PKIP) of Chinese Academy of Sciences under grant No. KJCX2.YW.W10. and by the Startup Foundation for Doctors of Henan Normal University under contract No.11112.
+
+[hep-ph]; J. Cao, et al.,arXiv:1207.3698 [hep-ph]; arXiv:1206.3865 [hep-ph]; Phys.Lett.B 710, 665 （2012）[arXiv:1112.4391 [hep-ph]}; JHEP 1203,086 (2012） [arXiv:1202.5821 [hep-ph]; Z. Kang, et al., arXiv:1203.2336 [hep-ph].   
+[4] ATLAS Collaboration,ATLAS-CONF-2012-109; CMS Collaboration, CMS-PAS-SUS-11-022.   
+[5] ATLAS Collaboration, ATLAS-CONF-2012-076.   
+[6] ATLAS Collaboration, ATLAS-CONF-2012-106; G. Aad et al., arXiv:1208.1447 [hep-ex]. [7] D. Feldman, G. Kane, E. Kuflik and R.Lu,Phys.Lett.B 704, 56 (2011); H. Baer et al., JHEP 1010, 018 (2010); A. Cohen, D. B. Kaplan and A. Nelson, Phys. Lett. B 388, 588 (1996)； M. Dine,A. Kagan and S. Samuel, Phys. Lett. B 243, 250 (1990).   
+[8] A. Dobado, M. J. Herrero and D. Temes, Phys. Rev. D 65, 075023 (2002) [hep-ph/0107147]; A. Dobado, M. J. Herrero and S. Penaranda, Eur. Phys. J. C 7,313 (1999) [hep-ph/9710313]; [9] L.J. Hall， R. Rattazzi and U. Sarid，Phys.Rev.D 50，7048 (1994) [hep-ph/9306309]; M. S. Carena, M. Olechowski, S. Pokorski and C. E. M. Wagner， Nucl. Phys. B 426,269 (1994) [hep-ph/9402253]; A. M. Curiel, M. J. Herrero and D. Temes, AIP Conf. Proc. 670, 306 (2003); M. J. Herrero, hep-ph/0109291. M. J. Herrero, S. Penaranda and D. Temes, Phys. Rev. D 64,115003 (2001); H. E. Haber, et al., Phys. Rev. D 63, 055004 (2001） [hep-ph/0007006]; A. Dobado, M. J. Herrero and S. Penaranda, Eur. Phys. J. C 17, 487 (2000) [hep-ph/0002134]; G.Gao, et al., Phys. Rev. D 66, 015007 (2002) [hep-ph/0202016]; J. Cao, et al., Phys. Rev. D 68,075012 (2003) [hep-ph/0210211]; N. D. Christensen, T. Han and T. Li, arXiv:1206.5816 [hep-ph]; S. Kanemura, T. Shindou and K. Yagyu, Phys. Lett. B 699, 258 (2011).   
+[10] G. Gao,R. J. Oakes and J. M. Yang,Phys. Rev. D 71,095005 (2005) [hep-ph/0412356].   
+[11] CMS Collaboration,CMS-PAS-HIG-12-027.   
+[12] S. Chatrchyan et al. [CMS Collaboration], Phys. Lett. B 713,68 (2012).   
+[13] Y. Okada, M. Yamaguchi and T. Yanagida, Prog. Theor. Phys. 85,1 (1991)； J.R. Elis, G. Ridolfi and F. Zwirner,Phys. Lett. B257, 83 (1991); H.E. Haber and R. Hempfling, Phys. Rev. Lett.66,1815 (1991).   
+[14] M. Frank, et al., JHEP 0702, 047 (2007); G. Degrassi, et al., Eur. Phys. J. C 28,133 (2003); S. Heinemeyer，W. Hollik and G. Weiglein， Comput. Phys. Commun. 124,76 (2000)； Eur. Phys. J. C 9, 343 (1999);   
+[15] P.Bechtle, et al., Comput. Phys. Commun.182, 2605 (2011); Comput. Phys. Commun.181, 138 (2010).   
+[16] J. F.Gunion and H. E. Harber, Nucl. Phys. B 272,1 (1986).   
+[17] T. Hahn, Comput.Phys. Commun. 140, 418 (2001).   
+[18] T. Hahn,M. Perez-Victoria, Comput. Phys. Commun.118,153 (1999).   
+[19] G. J. van Oldenborgh, Phys Commun 66,1 (1991).   
+[20] A. Denner, Fortschr. Phys. 41, 307 (1993).   
+[21] G. t'Hooft and M. Veltman,Nucl. Phys. B153, 365 (1979);   
+[22] N. Liu, L. Guo, W. -G. Ma, R. -Y. Zhang and L. Han, arXiv:1006.5249 [hep-ph].   
+[23] A.Lazopoulos,T. McElmurry, K. Melnikov and F.Petriello, Phys. Lett.B 666,62 (2008).   
+[24] W. Beenakker, S. Dittmaier, M. Kramer, B. Plumper, M. Spira and P. M. Zerwas, Nucl. Phys. B 653,151 (2003)[hep-ph/0211352].   
+[25] F. del Aguila,A. Culati, R. Tapia,and M. Perez-Victoria, Nucl. Phys.B537, 561 (1999).   
+[26] W. Siegel, Phys. Lett.B84, 193 (1979)； T. Hahn and M. Perez-Victoria, Comput. Phys. Commun.118,153(1999),hep-ph/9807565.   
+[27] J.Rosiek, et al.，Comput.Phys.Commun. 181，2180 (2010)；A. Crivellin,L. Hofer and J. Rosiek, JHEP 1107, 017 (2011).   
+[28] G. Belanger, et al., Comput. Phys. Commun. 182, 842 (2011).   
+[29] J. Dunkley et. al. [WMAP Collaboration],Astrophys. J. Suppl. 180,306 (2009)   
+[30] T. N. Dao, W. Hollik and D. N. Le, Phys. Rev. D 83, 075003 (2011).   
+[31] C. Amsler et al., Particle Data Group, Phys. Lett. B 667, 1 (2008).   
+[32] J. Pumplin et al., JHEP 0602,032 (2006).   
+[33] [CMS Collaboration], Note CMS-PAS-HIG-12-050.   
+[34] J. Dai, J. F. Gunion and R. Vega,Phys. Lett.B 345, 29 (1995); Phys. Lett. B 387,801 (1996).

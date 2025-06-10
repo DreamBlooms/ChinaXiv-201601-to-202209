@@ -1,0 +1,228 @@
+# Dodging the cosmic curvature to probe the constancy of the speed of light
+
+# Rong-Gen Cai $^ { a , b }$ Zong-Kuan Guo $^ { a , b }$ Tao Yang $^ { a , b }$
+
+$a$ CAS Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences,P.O.Box 2735,Beijing 100190, China   
+$\upsilon$ School of Physical Sciences, University of Chinese Academy of Sciences,No.19A Yuquan Road,Beijing 100049, China
+
+E-mail: cairg@itp.ac.cn, guozk@itp.ac.cn, yangtao@itp.ac.cn
+
+Abstract. We develop a new model-independent method to probe the constancy of the speed of light $c$ . In our method, the degeneracy between the cosmic curvature and the speed of light can be eliminated, which makes the test more natural and general. Combining the independent observations of Hubble parameter $H ( z )$ and luminosity distance $d _ { L } ( z )$ ，we use the model-independent smoothing technique, Gaussian processes,to reconstruct them and then detect variation of the speed of light. We find no signal of deviation from the present value of the speed of light $c _ { 0 }$ .Moreover,to demonstrate the improvement in probing the constancy of the speed of light from future experiments, we produce a series of simulated data. The Dark Energy Survey will be able to detect $\Delta c / c _ { 0 } \sim 1 \%$ at $\sim 1 . 5 \sigma$ confidence level and $\Delta c / c _ { 0 } \sim 2 \%$ at $\sim 3 \sigma$ confidence level. If the errors are reduced to one-tenth of the expected DES ones,it can detect a $\Delta c / c _ { 0 } \sim 0 . 1 \%$ variation at $\sim 2 \sigma$ confidence level.
+
+# Contents
+
+1Introduction 1
+
+2Method 2
+
+3Null test using $H ( z )$ and supernovae data 4   
+3.1Hubble rate data, Union 2.1 and JLA 4   
+3.2Mock data 4
+
+4Conclusions and discussions 7
+
+# 1 Introduction
+
+The constancy of the speed of light is one of the most fundamental and recognized physical properties and plays a crucial role in basic physical laws such as Maxwell equations, special and general relativity and many others. Although many measurements of the speed of light have been performed since 1675 and ended with very accurate measurements today, some people argue that the speed of light $c$ may be dynamical and has been varying in the past. Such an idea has attracted a lot of interest recently because it can provide an alternative solution of horizon and the flatness problems in the non-inflationary cosmology. The theories of varying speed of light （VSL） have been considered [1-4]. However,a comparison of those theories with experimental data seems to be still missing. Recently, V. Salzano et al.introduced a model-independent method to measure the speed of light through Baryon Acoustic Oscillations (BAO),and then it was followed by some newly updated results about its application to the forecast data [5]. In their paper, based on a spatially fat FriedmannRobertson-Walker (FRW） universe they derived a relation among the speed of light, the angular diameter distance and the Hubble function,
+
+$$
+D _ { A } ( z _ { M } ) \cdot H ( z _ { M } ) = c ( z _ { M } ) ,
+$$
+
+where $z _ { M }$ is the redshift at which the angular diameter $D _ { A } ( z _ { M } )$ is maximal. They used the Gaussian Processes （GP） to reconstruct $D _ { A } ( z )$ and $H ( z )$ and then found the redshift $z _ { M }$ Finally, they used Eq.(1.1) to obtain the speed of light at $z _ { M }$ and probed the constancy of the speed of light. However， since $z _ { M }$ is not covered by observational data sets,they only used mock data to test the accuracy of the method. More recently, they showed that Square Kilometer Array (SKA) can detect a $1 \%$ variation in the speed of light at $3 \sigma$ level [6].But smaller signals are hardly detected by already-planned future galaxy surveys.
+
+It seems that the method has two drawbacks. The first is that the speed of light can be measured only at one redshift $z _ { M }$ ，which is extremely limited by the redshift range covered by the data. The second and most important is that they ignore the cosmic curvature which is degenerated with the speed of light. Although the value of the cosmic curvature given by current data is very small, if we want to probe even smaller variation of the speed of light, it may be problematic. As a model-independent method, it is more general to include the cosmic curvature. In this paper, we develop a new and more general model-independent method which can dodge the cosmic curvature. We use the luminosity distance $d _ { L }$ instead of the angular diameter distance $D _ { A }$ to test the speed of light, so that we can use the large sample of real data such as cosmic chronometers (CC), BAO and SNeIa Union 2.1 or joint light-curve analysis (JLA) to probe the constancy of the speed of light over a wide range of redshift. We will also produce a series of mock data to test the accuracy of our method.
+
+This paper is organized as follows. In Sec. 2，we introduce the theoretical method to probe the constancy of the speed of light. In Sec. 3, we apply GP method to the test using two independent data sets: CC $^ +$ BAO and SNeIa Union 2.1 (and JLA). Furthermore it is followed by a series of simulated data tests. We give discussions and conclusions in Sec. 4.
+
+# 2 Method
+
+For a FRW universe, given that the speed of light is a function of time, the line-element can be expressed as
+
+$$
+d s ^ { 2 } = - c ^ { 2 } ( t ) d t ^ { 2 } + a ^ { 2 } ( t ) \left[ \frac { d r ^ { 2 } } { 1 - K r ^ { 2 } } + r ^ { 2 } ( d \theta ^ { 2 } + \mathrm { s i n } ^ { 2 } \theta d \phi ^ { 2 } ) \right] ,
+$$
+
+where $K = + 1 , - 1 , 0$ corresponds to a closed, open and flat universe, respectively. Note that we write the metric with a preferred proper comoving time [7, 8]. We define $D ( z ) \equiv$ $( H _ { 0 } / c _ { 0 } ) ( 1 + z ) ^ { - 1 } d _ { L } ( z )$ as the normalized comoving distance,where $c _ { 0 }$ is the value of the speed of light today,and $d _ { L } ( \boldsymbol { z } )$ is the luminosity distance.Given that the speed of light is time dependent,we should reevaluate the luminosity distance from the definition:
+
+$$
+d _ { L } ^ { 2 } \equiv \frac { L _ { s } } { 4 \pi F } ,
+$$
+
+where $L _ { s }$ is the absolute luminosity of a source and $F$ is an observed flux. Setting $r = \sin \chi$ L $K = + 1$ )， $r = \chi$ ( $K = 0$ )，and $r = \sinh \chi$ ( $K = - 1$ ）in Eq. (2.1),the 3-dimensional space line-element is expressed as
+
+$$
+d \sigma ^ { 2 } = d \chi ^ { 2 } + ( f _ { K } ( \chi ) ) ^ { 2 } ( d \theta ^ { 2 } + \sin ^ { 2 } \theta d \phi ^ { 2 } ) ,
+$$
+
+where
+
+$$
+f _ { K } ( \chi ) = \left\{ \begin{array} { l l } { { \sin \chi } } & { { ( K = + 1 ) , } } \\ { { \chi } } & { { ( K = 0 ) , } } \\ { { \sinh \chi } } & { { ( K = - 1 ) . } } \end{array} \right.
+$$
+
+The function (2.4) can be written in a unified way:
+
+$$
+f _ { K } ( \chi ) = \frac { 1 } { \sqrt { - K } } \sinh ( \sqrt { - K } \chi ) .
+$$
+
+Wecan easily check that $\chi$ is the comoving distance:
+
+$$
+\chi = \frac { 1 } { H _ { 0 } } \int _ { 0 } ^ { z } \frac { c ( \tilde { z } ) } { E ( \tilde { z } ) } d \tilde { z } .
+$$
+
+Note that the observed luminosity $L _ { 0 }$ (detected at $\chi = 0$ and $z = 0$ ）is different from the absolute luminosity $L _ { s }$ of the source (emitted at the comoving distance $\chi$ with the redshift $z$ ） The flux $F$ is defined by $F = L _ { 0 } / S$ ,where $S = 4 \pi ( f _ { K } ( \chi ) ) ^ { 2 }$ is the area of a sphere at $z = 0$ . So the luminosity distance in Eq. (2.2) yields $d _ { L } ^ { 2 } = ( f _ { K } ( \chi ) ) ^ { 2 } L _ { s } / L _ { 0 }$ . If we write the energy of light emitted at the time-interval $\Delta t _ { 1 }$ to be $\Delta E _ { 1 }$ , then the absolute luminosity $L _ { s } = \Delta E _ { 1 } / \Delta t _ { 1 }$ ， and similarly the observed luminosity is given by $L _ { 0 } = \Delta E _ { 0 } / \Delta t _ { 0 }$ . Note that here the speed of light is time dependent,so $\Delta E _ { 1 } / \Delta E _ { 0 } = \nu _ { 1 } / \nu _ { 0 } = ( c _ { 1 } / \lambda _ { 1 } ) / ( c _ { 0 } / \lambda _ { 0 } ) = \hat { c } ( z ) ( 1 + z )$ ，where （20 $\hat { c } ( z ) \equiv c ( z ) / c _ { 0 }$ .Moreover, $\Delta t _ { 0 } / \Delta t _ { 1 } = \nu _ { 1 } / \nu _ { 0 } = \hat { c } ( z ) ( 1 + z )$ . Hence we find
+
+$$
+d _ { L } = \hat { c } ( z ) f _ { K } ( \chi ) ( 1 + z ) .
+$$
+
+Then combine the definition of $D ( z )$ and Eqs. (2.5)-(2.7), we can derive
+
+$$
+D ( z ) = \frac { \hat { c } ( z ) } { \sqrt { \Omega _ { K } } } \sinh ( \sqrt { \Omega _ { K } } \int _ { 0 } ^ { z } \frac { \hat { c } ( \tilde { z } ) } { E ( \tilde { z } ) } d \tilde { z } ) ,
+$$
+
+where $E ( z ) ~ \equiv ~ H ( z ) / H _ { 0 }$ ，and $\Omega _ { K } \equiv - K { c _ { 0 } } ^ { 2 } / { H _ { 0 } } ^ { 2 }$ is the dimensionless curvature density parameter at $z = 0$ . Differentiating Eq. (2.8) with the redshfit $\boldsymbol { \mathrm { z } }$ ， we can get
+
+$$
+\Omega _ { K } = \frac { [ \hat { c } ( z ) D ^ { \prime } ( z ) - \hat { c } ^ { \prime } ( z ) D ( z ) ] ^ { 2 } E ^ { 2 } ( z ) - \hat { c } ^ { 6 } ( z ) } { D ^ { 2 } ( z ) \hat { c } ^ { 4 } ( z ) } .
+$$
+
+From Eq. (2.9) we can see that there is degeneracy between VSL and curvature which is also pointed out in Ref. [6]: the possible detection of a signal might be equally interpreted as "VSL $^ +$ null curvature” or “constant $c ( z )$ $^ +$ curvature". Thus,to eliminate $\Omega _ { K }$ ,using the second derivative of $D ( z )$ we obtain
+
+$$
+\begin{array} { r l } { 0 = } & { \hat { c } ^ { 6 } ( z ) + A ( z ) \hat { c } ^ { 2 } ( z ) - B ( z ) \hat { c } ( z ) \hat { c } ^ { \prime } ( z ) } \\ & { + M ( z ) c ^ { \prime 2 } ( z ) - N ( z ) \hat { c } ( z ) \hat { c } ^ { \prime \prime } ( z ) , } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { l l } { { A ( z ) = } } & { { \left[ D ^ { \prime \prime } ( z ) E ( z ) + D ^ { \prime } ( z ) E ^ { \prime } ( z ) \right] D ( z ) E ( z ) } } \\ { { } } & { { - D ^ { \prime 2 } ( z ) E ^ { 2 } ( z ) , } } \end{array}
+$$
+
+$$
+B ( z ) = E ^ { 2 } ( z ) D ( z ) D ^ { \prime } ( z ) + D ^ { 2 } ( z ) E ( z ) E ^ { \prime } ( z ) ,
+$$
+
+and
+
+$$
+M ( z ) = 2 N ( z ) = 2 D ^ { 2 } ( z ) E ^ { 2 } ( z ) .
+$$
+
+Eq. (2.1O) is valid for any form of $c ( z )$ which is the function of time no matter what the value of the cosmic curvature is. If we assume the constancy of the speed of light, thus （20 $\hat { c } ( z ) = c ( z ) / c _ { 0 } = 1$ ,then Eq.（2.10) becomes
+
+$$
+\begin{array} { r l } { { T ( z ) } } & { { \equiv 1 + \left[ D ^ { \prime \prime } ( z ) E ( z ) + D ^ { \prime } ( z ) E ^ { \prime } ( z ) \right] D ( z ) E ( z ) } } \\ { { } } & { { - D ^ { \prime 2 } ( z ) E ^ { 2 } ( z ) = 0 , } } \end{array}
+$$
+
+it always holds if the speed of light is constant. Any deviation of $T$ from $0$ at redshift $z _ { * }$ will indicate $c ( z _ { * } )$ is different from $c _ { 0 }$ . Thus we can test the speed of light at every redshift we want. This will make our test more flexible so that our method will not be limited to probing the constancy of the speed of light only at redshift $z _ { M }$ as obtained in [5,6]. On the contrary, we can choose the redshift where the quality of the data is better so that we can improve the precision of the test for the mock data.
+
+In summary, we propose a null test Eq. (2.14) to probe the constancy of the speed of light in a more general way, which is cosmological model-independent. The most important point is that we can dodge the cosmic curvature. Thus we need not assume the value of the cosmic curvature. It is emphasized that the only hypothesis is the FRW metric of the background. In addition,we would like to mention here that once reconstruct $A ( z )$ ， $B ( z )$ ， and $M ( z )$ , we can obtain the dependence of the speed of light on the redshift through solving (2.10). However, in this paper we pay attention on testing the constancy of the speed of light through (2.14).
+
+# 3 Null test using $H ( z )$ and supernovae data
+
+Given some observational data sets,it is crucial to use a model-independent method to reconstruct $E ( z )$ ， $D ( z )$ ， $E ^ { \prime } ( z )$ ， $D ^ { \prime } ( z )$ and $D ^ { \prime \prime } ( z )$ , in order to test the constancy of the speed of light folowing (2.14). Note that here we need also reconstruct the derivatives of the functions $E ( z )$ and $D ( z )$ . Here we use the nonparametric approach Gaussian processes [9- 12] to smooth the data and take the Gaussian processes in Python [12]. The detailed analysis and description of the GP method can be found in [12, 13] or in our previous works [14,15]. The analysis of the choice covariance kernel can be also found in [13].
+
+# 3.1 Hubble rate data,Union 2.1 and JLA
+
+Following [16,17] we proceed to an analysis based on observational Hubble data compiled from several sources, independent of SNeIa. We combine measurements of $H ( z )$ obtained with two methods. One is cosmic chronometers, which are mainly passively evolving galaxies. There are 21 data points compiled by Moresco et al. [18,19]. The other is radial baryon acoustic oscillations from galaxy clustering in redshift surveys,which give 7 data points of Hubble parameters from different experiments [2O-23]. We summarize the total 28 data points in Table 1.
+
+To reconstruct $D ( z )$ , we use two different data, first we adopt the SNeIa Union 2.1 data sets [24]，which contain 580 SNeIa data. Then we employ the most recent SNeIa catalog available: the JLA [25]. We use the binned JLA compilation which shows the same trend as using the full catalog itself. For Union 2.1 and the JLA，We have included the covariance matrix with both the statistical and systematic uncertainties. We transform the distance modulus $m - M$ given in the data set to $D$ using
+
+$$
+m - M + 5 \log \left[ \frac { H _ { 0 } } { c _ { 0 } } \right] - 2 5 = 5 \log \left[ ( 1 + z ) D \right] .
+$$
+
+We apply the reconstructions of $E ( z )$ ， $D ( z )$ and their derivatives to the null test in Eq. (2.14) The result is shown in Fig. 1.
+
+As expected, from Fig. 1 we can see that for both of the Union 2.1 and the JLA, $T ( z ) = 0$ lies within $1 \sigma$ C.L.of the reconstructed region,which indicates that using current observational data there is no signal of variation of $c ( z )$ ：
+
+# 3.2 Mock data
+
+In order to evaluate the constraint on the null test from future observational experiments and its ability to probe the small variation of the speed of light from a constant,we create mock data to test the ability. Following [5,6],we choose a general theoretically-motivated expression given in [4] as
+
+$$
+c ( a ) \propto c _ { 0 } ( 1 + \frac { a } { a _ { c } } ) ^ { n } ,
+$$
+
+<html><body><table><tr><td>Index</td><td>N</td><td>H(z)</td><td>Refs.</td></tr><tr><td>1</td><td>0.090</td><td>69 ±12</td><td>[18]</td></tr><tr><td>2</td><td>0.170</td><td>83±8</td><td>[18]</td></tr><tr><td>3</td><td>0.179</td><td>75±4</td><td>[18]</td></tr><tr><td>4</td><td>0.199</td><td>75±5</td><td>[18]</td></tr><tr><td>5</td><td>0.240</td><td>79.69 ± 2.32</td><td>[20]</td></tr><tr><td>6</td><td>0.270</td><td>77 ± 14</td><td>[18]</td></tr><tr><td>7</td><td>0.350</td><td>82.1 ± 4.9</td><td>[21]</td></tr><tr><td>8</td><td>0.352</td><td>83±14</td><td>[18]</td></tr><tr><td>9</td><td>0.400</td><td>95 ±17</td><td>[18]</td></tr><tr><td>10</td><td>0.430</td><td>86.45 ± 3.27</td><td>[20]</td></tr><tr><td>11</td><td>0.440</td><td>82.6 ± 7.8</td><td>[22]</td></tr><tr><td>12</td><td>0.480</td><td>97 ±62</td><td>[18]</td></tr><tr><td>13</td><td>0.570</td><td>92.4 ± 4.5</td><td>[23]</td></tr><tr><td>14</td><td>0.593</td><td>104 ± 13</td><td>[18]</td></tr><tr><td>15</td><td>0.600</td><td>87.9 ± 6.1</td><td>[22]</td></tr><tr><td>16</td><td>0.680</td><td>92±8</td><td>[18]</td></tr><tr><td>17</td><td>0.730</td><td>97.3 ± 7</td><td>[22]</td></tr><tr><td>18</td><td>0.781</td><td>105 ± 12</td><td>[18]</td></tr><tr><td>19</td><td>0.875</td><td>125 ± 17</td><td>[18]</td></tr><tr><td>20</td><td>0.880</td><td>90 ± 40</td><td>[18]</td></tr><tr><td>21</td><td>0.900</td><td>117 ± 23</td><td>[18]</td></tr><tr><td>22</td><td>1.037</td><td>154 ± 20</td><td>[18]</td></tr><tr><td>23</td><td>1.300</td><td>168 ± 17</td><td>[18]</td></tr><tr><td>24</td><td>1.363</td><td>160 ± 33.6</td><td>[19]</td></tr><tr><td>25</td><td>1.430</td><td>177 ± 18</td><td>[18]</td></tr><tr><td>26</td><td>1.530</td><td>140 ± 14</td><td>[18]</td></tr><tr><td>27</td><td>1.750</td><td>202 ± 40</td><td>[18]</td></tr><tr><td>28</td><td>1.965</td><td>186.5 ± 50.4</td><td>[19]</td></tr></table></body></html>
+
+![](images/241e391ae096ab78305cedc70903ea62dee00c5064d8fe39c7766400d4129512.jpg)  
+Table 1． $H ( z )$ measurements from different surveys using passively evolving galaxies and radial BAO.   
+Figure 1. Reconstruction of $T ( z )$ from CC+BAO with Union 2.1 (Left) and JLA (Right). The shaded blue regions are the $6 8 \%$ and $9 5 \%$ C.L. of the reconstruction. The red line corresponds to $c _ { 0 }$
+
+![](images/0ec9e31e1d9a9d467142213173d051f1f212f724aaf0ce47602cb1bb65ce685c.jpg)  
+Figure 2. Reconstructions of $T ( z )$ for different models.From top to bottom, $\Omega _ { K } = 0 , 0 . 1 6 , - 0 . 1 6$ respectively. And from left to right, $\Delta c = 0$ ， $\Delta c / c _ { 0 } \sim 1 \%$ ， $\Delta c / c _ { 0 } \sim 2 \%$ ， respectively. The shaded blue regions are the $6 8 \%$ and $9 5 \%$ C.L.for the reconstruction.
+
+![](images/c6f3a680d0736222dd296c6d08504e02d8e93f767a11221ad9c154054d0624b3.jpg)  
+Figure 3. Reconstructions of $T ( z )$ for $\Delta c / c _ { 0 } \sim 0 . 1 \%$ . The error is one-tenth of the original mock data The shaded blue regions are the $6 8 \%$ and $9 5 \%$ C.L.of the reconstruction. The red line corresponds to co·
+
+where $a \equiv 1 / ( 1 + z )$ is the scale factor. Note that here we should add a normalization factor to make $c ( a = 1 ) = c _ { 0 }$ . Since our model-independent method can probe the constancy of the speed of light at every redshift,we can focus on the redshift range where the high quality of the data sets lie, i.e. $z \in \left[ 0 . 2 , 0 . 6 \right.$ _
+
+We firstly simulate a data set of 128 points for $E ( z )$ . Adopting the methodology in [26], we use the errors of current observational data. We draw the error from a Gaussian distribution: $\sigma _ { E } \sim \mathcal { N } ( \bar { \sigma } , \epsilon )$ with $\bar { \sigma } = ( \sigma _ { + } + \sigma _ { - } ) / 2$ and $\epsilon = ( \sigma _ { + } - \sigma _ { - } ) / 4$ ，where $\sigma _ { + }$ and $\sigma _ { - }$ are the two straight lines bound the uncertainties $\sigma ( z )$ of the observational $E ( z )$ data from above and below， respectively. Then $E ( z ) _ { s i m }$ is sampled from the Gaussian distribution $E ( z ) _ { s i m } \sim \mathcal { N } ( E ( z ) _ { f i d } , \sigma _ { E } )$ ，where $E ( z ) _ { f i d }$ is the theoretical value of the fiducial model.
+
+For simulated $D ( z )$ data，we create mock data sets of future SNeIa according to the
+
+Dark Energy Survey (DES) [27]. The DES is expected to obtain high quality light curves for about 400o SNeIas from $z = 0 . 0 5$ to $z = 1 . 2$ . From Table 14 in [27] we can calculate the errors in $D$ and $\sigma _ { D }$ and the corresponding numbers of SNeIa for each redshift bin. At every redshift point $z$ ， $D ( z ) _ { s i m }$ is sampled from the normal distribution $D ( z ) _ { s i m } \sim \mathcal { N } ( D ( z ) _ { f i d } , \sigma _ { D } )$
+
+In our analysis,we produce mock data based on three different cosmological models: (1) $\Delta c = 0$ ， the baseline $\Lambda$ CDM model; (2) $a _ { c } = 0 . 0 5$ ， $n = - 0 . 0 4$ ， $\Delta c / c _ { 0 } \sim 0 . 5 \% - 1 . 5 \%$ at $z \in [ 0 . 2 , 0 . 6 ]$ ； (3) $a _ { c } = 0 . 0 5$ ， $n = - 0 . 0 9$ ， $\Delta c / c _ { 0 } \sim 1 . 5 \% - 3 \%$ at $z \in \left\lfloor 0 . 2 , 0 .\right.$ 6].Additionally, in these three models we set $\Omega _ { K } = 0$ ， $+ 0 . 1 6$ and $- 0 . 1 6$ , respectively, which is significantly large to be detected by current data sets using a model-independent method proposed in [15]. If the nul-tests with different values of the cosmic curvature have the same results,it implies that we have indeed dodged the cosmic curvature. Here we emphasize that in the case of non-vanishing cosmic curvature, the corresponding Friedmann equation is
+
+$$
+H ^ { 2 } = \frac { 8 \pi G } { 3 } \rho - K ( 1 + z ) ^ { 2 } c ^ { 2 } .
+$$
+
+As illustrated in Fig 2,we can distinguish these three models correctly. $\Delta c / c _ { 0 } \sim 1 \%$ can be detected at $\sim 1 . 5 \sigma$ C.L. and $\Delta c / c _ { 0 } \sim 2 \%$ or lager can be detected at $\sim 3 \sigma$ C.L. The results with different values of the cosmic curvature are consistent,which indicates that we indeed dodged the cosmic curvature as discussed in Sec. 2.
+
+Comparing our results to those obtained in the papers [5,6], we find that DES can not provide better improvement in detecting variation of the speed of light for the $\Delta c / c _ { 0 } \sim 1 \%$ case. This is because dodging the cosmic curvature introduces the second derivatives which will lead to larger errors on the results. Though we have this disadvantage,our method has almost the same ability to detect the $\Delta c / c _ { 0 } \sim 1 \%$ deviation. If we want to detect smaller deviation from $c _ { 0 }$ , we have to use the data sets with higher quality, i.e., bigger number and smaller errors of data. Following [6] we also produce the cosmic chronometers $H ( z )$ and SNeIa data from DES,but with errors ten times smaller than the expected DES ones. The result is shown in Fig. 3. We can see that reducing the errors to one-tenth of the expected DES ones will make it possible to detect $\Delta c / c _ { 0 } \sim 0 . 1 \%$ at $2 \sigma$ C.L.
+
+# 4 Conclusions and discussions
+
+In this paper,we develop a new method to probe the constancy of the speed of light. By dodging the cosmic curvature, we can directly test the speed of light without assuming any cosmological model,which should be more natural than the method proposed in [5]. Furthermore,we can test $c ( z )$ at every redshift covered by the data sets,so that we can use real observational data and it is not limited in the constrained region of the redshifts. We use $H ( z )$ data from the cosmic chronometers and BAO,and then combine them with SNIa Union 2.1 and the most recent JLA to give a nulltest of the speed of light. The result indicates that there is no signal of deviation from $c _ { 0 }$ . What we are more concerned about is how small variation of the speed of light we can detect using higher quality data sets in the future. For this purpose,we create mock data sets based on three fiducial models. We find that using the simulated data sets whose errors are obtained from cosmic chronometers and DES,we can detect $\Delta c / c _ { 0 } \sim 1 \%$ at $\sim 1 . 5 \sigma$ C.L.and $\Delta c / c _ { 0 } \sim 2 \%$ at $\sim 3 \sigma$ C.L. If we improve the quality of the data,i.e,set the errors to be one-tenth of the expected DES ones,we can easily detect a $\Delta c / c _ { 0 } \sim 0 . 1 \%$ variation at $2 \sigma$ C.L.The luminosity distance containing more a factor $\hat { c } ( z )$ outside the integral makes it can detect more information of the speed of light.
+
+Dodging the cosmic curvature is crucially important when we want to detect a smaller variation of the speed of light because even a very small cosmic curvature can influence the results due to the strong degeneracy between them. Our new method developed in this paper overcomes such a problem. Although our method has no advantage in the accuracy compared to the one in [5] using current data sets, it provides a model-independent way to detect variation of the speed of light with more precision when the quality of the data sets can be improved in the future. Finally we mention that according to (2.10),in principle, we can reconstruct the speed of light,once one knows $A ( z )$ ， $B ( z )$ ,and $M ( z )$ from the observational data.
+
+In fact, changing the speed of light at a redshift $z$ leads to a variation in the fine structure constant $\alpha \equiv e ^ { 2 } / ( \hbar c )$ ，where $e$ is the electron charge and $\hbar$ the reduced Planck constant [28]. If the parameters $e$ and $\hbar$ involved in its definition are assumed to be constant,it is easy to get $\Delta c / c _ { 0 } = - \Delta \alpha / \alpha$ ，which impacts the measurement of the redshift $z$ of the object. Recent analysis in Ref. [29] implies that the variation in the fine structure constant is very small, at least $\Delta \alpha / \alpha < 1 0 ^ { - 4 }$ . Therefore, we can ignore the effect of the variation in $\alpha$ on the measurement of the redshift. In principle,a large variation in the speed of light can still be compatible with such orders of magnitudes if the other parameters are allowed to vary.
+
+It is known that the distance-duality between the luminosity distance and the angulardiameter distance is violated by non-conservation of photon number [30, 31]. Of course, such a violation of the distance-duality results in the deviation of $T ( z )$ in Eq.(2.14) from zero. We have to emphasize that only the change of the speed of light has been considered in this paper.
+
+# Acknowledgments
+
+This work is supported by the Strategic Priority Research Program of the Chinese Academy of Sciences, Grant No.XDB09000000. Z.K.G is supported by the National Natural Science Foundation of China Grants No.11575272 and No.11335012.
+
+# References
+
+[1] J.D. Barrow,Phys. Rev. D 59, 043515 (1999). doi:10.1103/PhysRevD.59.043515   
+[2] A.Albrecht and J. Magueijo,Phys. Rev.D 59, 043516 (1999) doi:10.1103/PhysRevD.59.043516 [astro-ph/9811018].   
+[3] J. D. Barrow and J. Magueijo, Phys. Lett. B 447, 246 (1999) doi:10.1016/S0370-2693(99)00008-8 [astr0-ph/9811073].   
+[4] J. Magueijo, Rept. Prog. Phys. 66,2025 (2003) doi:10.1088/0034-4885/66/11/R04 [astro-ph/0305457].   
+[5] V. Salzano, M. P. Dabrowski and R. Lazkoz, Phys.Rev. Lett. 114,no.10,101304 (2015) doi:10.1103/PhysRevLett.114.101304 [arXiv:1412.5653 [astro-ph.CO].   
+[6] V. Salzano,M. P. Dabrowski and R. Lazkoz, Phys.Rev. D 93, no. 6,063521 (2016) doi:10.1103/PhysRevD.93.063521 [arXiv:1511.04732 [astro-ph.CO]].   
+[7] J. Z. Qi, M. J. Zhang and W. B. Liu,Phys. Rev. D 90, no.6, 063526 (2014) doi:10.1103/PhysRevD.90.063526 [arXiv:1407.1265 [gr-qc]].   
+[8] J. W. Moffat,arXiv:1501.01872 [astro-ph.CO].   
+[9] T.Holsclaw,U. Alam,B. Sanso,H. Lee,K. Heitmann, S.Habib and D. Higdon,Phys.Rev.D 82,103502 (2010) [arXiv:1009.5443 [astr0-ph.CO]].   
+[10] T.Holsclaw, U. Alam, B. Sanso,H. Lee,K. Heitmann, S. Habib and D. Higdon, Phys. Rev. Lett.105, 241302 (2010)[arXiv:1011.3079 [astro-ph.CO]].   
+[11] T.Holsclaw, U. Alam, B. Sanso, H. Lee,K. Heitmann, S. Habib and D. Higdon, Phys. Rev. D 84,083501 (2011) [arXiv:1104.2041 [astr0-ph.CO]].   
+[12] M. Seikel, C. Clarkson and M. Smith, JCAP 1206,036 (2012) [arXiv:1204.2832 [astro-ph.COl]   
+[13] M. Seikel and C. Clarkson, arXiv:1311.6678 [astro-ph.CO].   
+[14] T. Yang, Z.K. Guo and R.G. Cai, Phys. Rev. D 91, no. 12,123533 (2015) doi:10.1103/PhysRevD.91.123533 [arXiv:1505.04443 [astro-ph.COl].   
+[15] R.G. Cai, Z.K. Guo and T. Yang, Phys. Rev. D 93, no. 4, 043517 (2016) doi:10.1103/PhysRevD.93.043517 [arXiv:1509.06283 [astro-ph.COl].   
+[16] M. Seikel, S. Yahya, R. Maartens and C. Clarkson, Phys. Rev. D 86, 083001 (2012) [arXiv:1205.3431 [astr0-ph.CO]].   
+[17] M. Bilicki and M. Seikel, Mon. Not. Roy. Astron. Soc. 425,1664 (2012) [arXiv:1206.5130 [astro-ph.CO].   
+[18] M. Moresco,L. Verde,L. Pozzetti, R. Jimenez and A. Cimatti, JCAP 1207,053 (2012) [arXiv:1201.6658 [astro-ph.CO]].   
+[19] M. Moresco,Mon. Not. Roy. Astron. Soc. 450,no.1, L16 (2015) [arXiv:1503.01116 [astro-ph.CO]].   
+[20] E. Gaztanaga,A. Cabre and L. Hui, Mon. Not. Roy. Astron. Soc. 399,1663 (2009) [arXiv:0807.3551 [astro-ph].   
+[21] C. H. Chuang and Y. Wang, Mon. Not. Roy. Astron. Soc. 426, 226 (2012) [arXiv:1102.2251 [astro-ph.CO]].   
+[22] C.Blake et al., Mon. Not. Roy. Astron. Soc. 425,405 (2012) [arXiv:1204.3674 [astro-ph.COl].   
+[23] B.A. Reid et al., Mon. Not. Roy. Astron. Soc. 426, 2719 (2012) [arXiv:1203.6641 [astro-ph.CO]].   
+[24] N. Suzuki et al., Astrophys. J. 746, 85 (2012) [arXiv:1105.3470 [astro-ph.CO]].   
+[25] M. Betoule et al. [SDSS Collaboration],Astron. Astrophys.568,A22 (2014) doi:10.1051/0004-6361/201423413 [arXiv:1401.4064 [astr0-ph.CO].   
+[26] C. Ma and T. J. Zhang, Astrophys. J. 730, 74 (2011) [arXiv:1007.3787 [astro-ph.CO]].   
+[27] J. P. Bernstein et al., Astrophys. J. 753,152 (2012) [arXiv:1111.1969 [astro-ph.CO]].   
+[28] V.A. Dzuba, V. V. Flambaum and J. K. Webb, Phys. Rev. Lett. 82,888 (1999) doi:10.1103/PhysRevLett.82.888 [physics/9802029 [physics.atom-ph]].   
+[29] H. Rahmani, N. Maheshwari and R. Srianand, Mon. Not. Roy. Astron. Soc. 439,70 (2014) doi:10.1093/mnrasl/slt183 [arXiv:1312.5324 [astro-ph.CO].   
+[30] B.A. Bassett and M. Kunz,Phys. Rev. D 69,101305 (2004) doi:10.1103/PhysRevD.69.101305 [astro-ph/0312443].   
+[31] M. Kunz and B.A.Bassett,astro-ph/O406013.

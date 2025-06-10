@@ -1,0 +1,210 @@
+# Study on $\mathbf { A l _ { 2 } O _ { 3 } }$ Extraction From Activated Coal Gangue under Different Calcination Atmospheres
+
+DONG Ling1,LIANG Xinxing1,2, SONG Qiang1, GAO Gewu1, SONG Lihua1, SHU Yuanfeng1, SHU Xinqian1\*
+
+1. China University of Mining & Technology(Beijing), Beijing,10o083 China   
+2.Aptech Hami Coal Chemical Industry Co.,Ltd.,Hami, 839o00 China
+
+$\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017
+
+Coal gangue was calcinated under air, nitrogen,carbon dioxide,air-hydrogen,and hydrogen atmospheres.The effects of different calcination temperatures and atmospheres on the mineral composition of activated coal gangue were investigated by X-ray diffraction.Moreover,the acid leaching kinetics of aluminum oxide from coal gangue was investigated with sulfuric acid.It showed that the air atmosphere promoted kaolinite decomposition during coal gangue calcination. The hydrogen atmosphere promoted the activation and decomposition of kaolinite at reaction temperatures exceeding $6 5 0 ^ { \circ } \mathrm { C }$ .The carbon dioxide atmosphere eliminated the influence of residual carbon on coal gangue.When the ratio of acid/coal gangue was 1.5 and reaction temperature was $6 5 0 ^ { \circ } \mathrm { C }$ ,the sulfuric acid leaching rate under air,air-hydrogen, carbon dioxide,hydrogen and nitrogen atmospheres were $9 3 . 6 6 \%$ $9 0 . 9 0 \%$ + $8 4 . 0 6 \%$ ， $8 1 . 9 1 \%$ and $7 7 . 5 4 \%$ respectively. The acid leaching reaction process conformed to unreacted shrinking core modelofparticle unchanged,and was controlled bythe interfacial chemical reaction.The reaction kinetic equation for the leaching process was 1 $\lvert - ( 1 - \mathbf { x } ) \rvert / 3 { = } \mathbf { k } \mathbf { t }$ with an apparent activation energy of $4 8 . 9 7 \mathrm { k J / m o l }$
+
+# Keywords: coal gangue, aluminum oxide, calcination and activation, atmosphere
+
+# Introduction
+
+Years of exploitation and utilization have gradually reduced domestic high-quality bauxite resources. Therefore,it is increasingly difficult to meet the demands of the rapid development of aluminum-making industry in China. China relies on considerable quantities of imported bauxite,and is thus the highest bauxite importer in the world[1-2]. The coal gangue output of China is approximated at about 20o million tons per year. As of 2010,China has 5 billion tons of stockpiled coal gangue. The chemical components of coal gangue are $\mathrm { S i O } _ { 2 }$ ， $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ and $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ ，which account for more than $80 \%$ of coal gangue,and ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ accounting for $20 \%$ to $3 5 \% [ 3 ]$ . The effective extraction of ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ from coal gangue will enable its high-value utilization and simultaneously ease the shortage of bauxite resources in China[4-5]. However, the current extraction rate of ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ from coal gangue is low because the majority of ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ in gangue exists as kaolinite,which is relatively stable and has low leaching activity. Research indicates that transforming stable kaolinite to metakaolin and further to an amorphous mineral might increase the leaching activity. Then,acid leaching or alkali leaching methods can effectively be used to extract ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ from activated coal gangue[6]. Coal gangue activation methods include calcination activation,machinery activation，chemical activation and compound activation[7-13]. Calcination activation is a simple and con venient method to transform kaolinite $( \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } { \cdot } 2 \mathrm { S i O } _ { 2 } { \cdot } 2 \mathrm { H } _ { 2 } \mathrm { O } )$ to $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } { \cdot } 2 \mathrm { S i O } _ { 2 }$ ，even amorphous $\mathrm { S i O } _ { 2 }$ and active $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ these transformations increased the chemical reaction activity of coal gangue[14-16]. Previous research demonstrated that the calcination temperature and atmosphere were the two most important factors that affect coal gangue activity. Luo [17] posited that acid leaching to kaolinite rock calcinated at $7 5 0 ^ { \circ } \mathrm { C }$ may increase the $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ leaching rate.Wang [18] determined that a calcination temperature of $8 0 0 ^ { \circ } \mathrm { C }$ effectively activates coal gangue.Si[19] demonstrated that the thermal conversion process of kaolinite is the same under ${ \bf N } _ { 2 }$ and $\mathrm { C O } _ { 2 }$ atmospheres when the temperature is lower than $7 0 0 ^ { \circ } \mathrm { C }$ However,when the temperature exceeds $8 0 0 ^ { \circ } \mathrm { C }$ ，the $\mathrm { C O } _ { 2 }$ atmosphere suppresses kaolinite product transformation.
+
+These studies show that different calcination temperatures and atmospheres have different effects on the activation of coal gangue. Therefore, the influence of calcination temperatures and atmospheres on coal gangue activation and subsequent acid leaching was systematically studied. $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ extraction from activated coal gangue by acid leaching under air, nitrogen, hydrogen,airhydrogen, carbon dioxide atmospheres at $5 0 0 ^ { \circ } \mathrm { C } { \mathrm { - } } 9 5 0 ^ { \circ } \mathrm { C }$ was investigated This work lays the foundation for the development and optimization of large-scale ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ extraction from coal gangue by acid leaching.
+
+# Experiment
+
+# Samples
+
+The coal gangue were collected from Sanjiaohe coal mine,in Shanxi Province,China,which is a black,gray, andmassive rock withahard texture and shell fracture.
+
+![](images/952a7cb97ee15da2b55b632d49902a15d3e4307ccff64928f700149e53e8e185.jpg)  
+Fig.1 X-ray infrared spectra of gangue
+
+To obtain test samples, the coal gangue was crushed to less than $5 \mathrm { m m }$ with a jaw crusher and then pulverized to less than $0 . 1 2 ~ \mathrm { m m }$ with a ball mill. The processed samplesweredried at $1 0 5 ^ { \circ } \mathrm { C }$ for 24 hours.Table 1 and Fig.1 show the chemical and mineral composition of coal gangue,respectively. The coal gangue is composed of kaolinite,muscovite and quartz.
+
+Table 1 The chemical composition of coal gangue $( \% )$   
+
+<html><body><table><tr><td>Component</td><td>SiO2</td><td>AlO3</td><td>FeO3</td><td>CaO</td></tr><tr><td>Content/% (Sanjiaohe)</td><td>43.44</td><td>26.87</td><td>4.24</td><td>1.96</td></tr><tr><td>Component</td><td>MgO</td><td>TiO2</td><td>Loston</td><td>Totals</td></tr><tr><td>Content/% (Sanjiaohe)</td><td>0.44</td><td>0.09</td><td>22.05</td><td>99.09</td></tr></table></body></html>
+
+# Activation and acid leaching test
+
+# Calcination experiment
+
+Calcination experiment was performed in a laboratory fixed bed reactor (Fig.2).Prior to the experiment, $1 0 \mathrm { { g } }$ of the coal gangue was spread evenly on a quartz tube reactor with quartz wool.The quartz tube was then fixed in the reaction device. The bottom of the reactor was connected to the air inlet and the top of the reactor was connected to the air outlet. In the calcination experiment, the gas cylinder was opened and the inlet gases was used with air,nitrogen,hydrogen,air-hydrogen,and carbon dioxide respectively. The gas flow rate was set to 50 $\mathrm { { m l } } / \mathrm { { m i n } }$ . The air atmosphere was adjusted with a nitrogen flow rate of $4 0 \ \mathrm { m l / m i n }$ and an oxygen flow rate of 10 $\mathrm { { m l } } / \mathrm { { m i n } }$ . The air-hydrogen atmosphere was adjusted with a nitrogen flow rate of $2 5 ~ \mathrm { m l / m i n }$ ,anoxygen flow rate of $5 \ \mathrm { m l / m i n }$ and a hydrogen flow rate of $2 5 \mathrm { m l / m i n }$ . The final temperatures were $5 0 0 ^ { \circ } \mathrm { C }$ ， $6 5 0 ^ { \circ } \mathrm { C }$ ， $8 0 0 ^ { \circ } \mathrm { C }$ ，and $9 5 0 ^ { \circ } \mathrm { C }$ .The residence time was $^ { 2 \mathrm { ~ h ~ } }$ .The sample was left in the reactor for calcination and then cooled to room temperature.Finally, the sample was removed,weighed, and placed in the dryer.
+
+![](images/453c9a9d3edae41b5b82f7e8986ae7458fe68a6b5e26217066f35ce63113b117.jpg)  
+Fig.2Schematic diagram of the fixed-bed reactor
+
+1. pressure relief valve,2.Furnace,3.Reactor, 4.heating jacket, 5.Condensation,6.Dryer,7.flow meter,8.temperature controller,9.flow control,10. Thermocouple,11. gas cylinders
+
+# Acidleaching experiment
+
+${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ was extracted from calcinated coal gangue via sulfuric acid leaching.The required amount of concen trated sulfuric acid was measured with a graduated cylinder and placed in a $2 0 0 \mathrm { - m L }$ breaker,which was then placed on a magnetic heating stirrer. The calcinated coal gangue were added and stirred at a constant temperature of $1 0 0 ^ { \circ } \mathrm { C }$ for $1 . 5 \mathrm { h }$ and then vacuum-filtered after the reaction was completed.The filtrate was transferred to a $1 0 0 \mathrm { - m L }$ graduated cylinder to be measured and recorded. The composition of the filtrate was analyzed by an inductively coupled plasma atomic emission spectrometer (ICP-AES).
+
+The leaching rate nA of aluminum oxide in coal gangue was calculated according to the formula (1):
+
+$$
+\eta _ { A } = \frac { T _ { \mathrm { A 1 } } - M _ { \mathrm { A 1 } } } { T _ { \mathrm { A 1 } } } \times 1 0 0 \%
+$$
+
+$$
+M _ { \mathrm { { A l } } } { = } C _ { \mathrm { { A l } } } { \times } V
+$$
+
+where $\mathrm { T _ { A l } }$ is the amount of aluminum oxide in the coal gangue (g), $\mathbf { M } _ { \mathrm { A l } }$ is the amount of aluminum oxide in the acid leachate (g), $\mathrm { \bf C } _ { \mathrm { \bf A l } }$ is the concentration of acid leachate $\mathrm { ( g / m L ) }$ ,and $\mathrm { v }$ is the volume (mL) of the acid leachate.
+
+# Test and analysis of the samples
+
+XRD analysis was performed with a D8 Focus $\mathrm { \Delta X }$ -ray diffractometer (Bruker Company, Germany） to investigate mineral composition present in the samples. The target was $\mathrm { C u }$ ,tube current was $4 0 ~ \mathrm { m A }$ ,tube voltage was $4 0 \ \mathrm { k V } ,$ scanning range was $2 \theta = 5 ^ { \circ } - 9 0 ^ { \circ }$ ， scanning speed was $0 . 0 6 ~ \mathrm { s / s t e p }$ ，and step interval was $0 . 0 2 ^ { \circ } ,$ /step. XRD analysis was performed with X'Pert-High score software andPDF2003 database.
+
+# Result and discussions
+
+# Activation mechanism of coal gangue calcinated at different atmospheres
+
+Fig.3 shows the XRD analysis of coal gangue that were calcinated and activated under different atmospheres and temperatures.Calcination temperature was the main factor that affected coal gangue activation and kaolinite transformation. The diffraction peak of kaolinite decreased with the increase of the calcination temperatures[13]. Fig.3 shows that when the calcination temperature reached $5 0 0 ^ { \circ } \mathrm { C }$ ，the main components of coal gangue were kaolinite, quartz, and muscovite under different atmoshpere.However, the diffraction peaks of kaolinite and muscovite weakened because of the decomposition of kaolinite and muscovite[16]. When the calcination temperature reached $6 5 0 ^ { \circ } \mathrm { C }$ ,the kaolinite diffraction peak further weakened and disappeared,which indicated that large quantities ofhydroxyl radicals in the kaolinite and muscovite minerals of the coal gangue were decomposed and were released. The structure of the crystal phase in coal gangue changed, and kaolinite $( \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } { \cdot } 2 \mathrm { S i O } _ { 2 } { \cdot } 2 \mathrm { H } _ { 2 } \mathrm { O } )$ gradually transformed into metakaolin $( \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } { \cdot } 2 \mathrm { S i O } _ { 2 }$ )[14].
+
+The kaolinite diffraction peak disappeared as the calcination temperature increased,which resulted from the complete destruction of kaolinite structure.Fig.3 shows that the crystal structure of quartz did not change significantly,which indicated its stability during the coal gangue calcination.
+
+To quantify the effects of different temperatures and atmospheres on the decomposition and transformation of kaolinite in coal gangue, the decomposition rate of kaolinite was proposed and obtained by the change in the intensity of (Oo1) peak of kaolinite relative to the strongest peak（101） of quartz at $6 5 0 ^ { \circ } \mathrm { C }$ under different atmospheres:
+
+$$
+\alpha { = } 1 { - } \frac { \left( I _ { \mathrm { k } } \left/ I _ { Q } \right. \right) _ { \mathrm { c a l c i n e d } } } { \left( I _ { K } \left/ I _ { Q } \right. \right) _ { \mathrm { r a w } } }
+$$
+
+where $\mathrm { I } _ { \mathrm { k } }$ and $\mathrm { I _ { Q } }$ represent the intensity of the diffraction peak of kaolinite (Oo1） and the diffraction peak of quartz (1O1)，respectively. The decomposition rates of kaolinite in coal gangue calcinated at $6 5 0 ^ { \circ } \mathrm { C }$ were $5 2 . 4 4 \%$ ， $5 0 . 9 0 \%$ ， $4 7 . 0 4 \%$ $45 . 3 6 \%$ ，and $4 3 . 4 2 \%$ under air, air-hydrogen，carbon dioxide,hydrogen，and nitrogen atmospheres,respectively.
+
+# Effects of calcination atmosphere on coal gangue activity
+
+Comparing the effects of different atmospheres on calcination activation showed that the diffraction peak intensity of kaolinite was the most obvious under the air atmosphere because the heat from carbonaceous combustion promoted the decomposition and transformation of kaolinite in coal gangue. $\mathrm { O } _ { 2 }$ in the air reacted with the carbon in coal gangue,which generated CO or $\mathrm { C O } _ { 2 }$ . CO further reacted with $\mathbf { O } _ { 2 }$ to generate $\mathrm { C O } _ { 2 }$ ，which diffused to the particle surface and reacted with carbon to generate CO.The possible reaction pathways are as follows:
+
+$$
+C + O _ { 2 }  C O _ { 2 }
+$$
+
+$$
+2 C + O _ { 2 }  2 C O
+$$
+
+$$
+2 C O + O _ { 2 }  2 C O _ { 2 }
+$$
+
+$$
+C O _ { 2 } + C  2 C O
+$$
+
+Li[20] studied the effect of kaolinite on coal combustion and found that when coal gangue was calcinated under an air atmosphere, the combustion of the carbon in the coal gangue promoted the calcination and transformation of kaolinite. Under ${ \bf N } _ { 2 }$ atmosphere and increasing temperature，carbonaceous substances may escape by devolatilization from the coal gangue.However, the peak changes in the XRD spectrum indicated that the decomposition rate under the ${ \bf N } _ { 2 }$ atmosphere was slower than that under the air atmosphere.This indicated that the main reaction was the hydroxyl-free reaction ofkaolinite under the nitrogen atmosphere.As calcination temperature increased, the stable alumina-oxygen octahedron in kaolinite was gradually destroyed,and as the alumina-oxygen bond and silicon-oxygen bonds were weakened, kaolinite gradually transformed into metakaolin and released water. The carbon in coal gangue under $\Nu _ { 2 }$ atmosphere could not combust as that under air atmosphere，kaolinite decomposition was relatively slower. Therefore, the following reaction occurred under ${ \bf N } _ { 2 }$ atmosphere:
+
+$$
+\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } \cdot 2 \mathrm { S i O } _ { 2 } \cdot 2 \mathrm { H } _ { 2 } \mathrm { O }  \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } \cdot 2 \mathrm { S i O } _ { 2 } + 2 \mathrm { H } _ { 2 } \mathrm { O }
+$$
+
+Under the hydrogen atmosphere,the changes in the diffraction peaks of kaolinite were similar to those under the nitrogen atmosphere.However, when calcination temperature exceeded $6 5 0 ^ { \circ } \mathrm { C }$ ，the kaolinite diffraction peaks significantly decreased in comparison with those under other atmospheres.This behavior indicated that hydrogen atmosphere promoted the transformation of kaolinite and the activation of coal gangue at higher temperatures.
+
+Comparing the samples calcinated under the carbon dioxide atmosphere with the original samples,it showed that the kaolinite diffraction peaks at $6 5 0 ^ { \circ } \mathrm { C }$ and $8 0 0 ^ { \circ } \mathrm { C }$ did not decrease significantly because carbon preferentially reacted with $\mathrm { C O } _ { 2 }$ in the coal gangue under $\mathrm { C O } _ { 2 }$ atmosphere instead of with aluminum silicate [21-22]. Therefore,the kaolinite decomposition rate under the $\mathrm { C O } _ { 2 }$ atmosphere was low. $\mathrm { C O } _ { 2 }$ first diffused through the ash layer to the surface of the unreacted kaolinite par ticles and reacted with the carbon in kaolinite，which generated CO and spread outwards:
+
+$$
+C O _ { 2 } + C  2 C O
+$$
+
+# Effects of calcination of coal gangue on acid leaching
+
+The acid leaching test was performed under different conditions and the results are shown in Fig.4.When the calcination temperatures increased from $5 0 0 ^ { \circ } \mathrm { C }$ to $6 5 0 ^ { \circ } \mathrm { C }$ the leaching rate of calcinated coal gangue increased gradually and reached a maximum value at $6 5 0 ^ { \circ } \mathrm { C }$ .The acid leaching rate decreased when the calcination temperatures exceeded $6 5 0 ^ { \circ } \mathrm { C }$ .The results in Fig. 4 show that the acid leaching rates of calcinated coal gangue at $6 5 0 ^ { \circ } \mathrm { C }$ were $9 3 . 6 6 \%$ under the air atmosphere, $9 0 . 9 0 \%$ under air-hydrogen atmosphere, $8 4 . 0 6 \%$ under carbon dioxide atmosphere, $8 1 . 9 1 \%$ under hydrogen atmosphere, and $7 7 . 5 4 \%$ under nitrogen atmosphere.These results are consistent with the change in the decomposition and transformation rates of kaolinite during the calcination of the coal gangue.
+
+Sulfuric acid leaching rates of calcinated coal gangue under air and air-hydrogen atmospheres were higher than those under the other atmospheres,which showed that an oxidizing atmosphere promoted carbon in coal gangue combustion and kaolinite decomposition,as well as accelerated metakoalin transformation[15]. When coal gangue calcinated under the nitrogen (inert gas） atmosphere， the carbonaceous substances only pyrolysis to form semi-coke,which likely increased the resisitance of mass transfer and solid-liquid separation resistance in the acid leaching reaction, thus decreasing acid leaching rate[16].
+
+The effect of low calcination temperature on the leaching rate of alumina in the calcinated coal gangue was not obvious under the hydrogen atmosphere (reducing atmosphere).As the temperature increase,the leach
+
+1800 1600 7000 1600 (a) 3 1-whilinimica 1400 (b) 3 1-khilinimica 6000 (c) 3 1-khilinimica 绿 3L 10000 31 3333 3 上 1 31 33333 L 200 500C 200 1 W Hyul 500℃ 1000 H 650℃ 0 0 0 10 20 30 40 50 60 70 80 90 10 20 30 40 50 60 70 80 90 10 20 30 40 50 60 70 80 90 20() 20(°) 20() 5000 (d) 3 1-kaolinite 5000 (e) 3 1-kaolinite 4000 3 33333 3 2-white mica 3-quar795c 4000 1 3Ⅱ 333331 3 339500 2-white mica 2 2 2000 800C 2000 1 800℃ 1000 1000 650℃ 650℃ 0 0 上 10 20 30 40 50 60 70 80 90 10 20 30 40 50 60 70 80 90 20(° 20()
+
+![](images/2fcfb89b47d03dfbeb388aa33ff6e6805ec1b989c353c52be8b933f42b4a47a2.jpg)  
+Fig.4The leaching rate of activated coal gangue under different atmospheres and temperature (a. $5 0 0 ^ { \circ } \mathrm { C }$ ,b. $6 5 0 ^ { \circ } \mathrm { C }$ c. $8 0 0 ^ { \circ } \mathrm { C }$ d. $9 5 0 ^ { \circ } \mathrm { C }$ 1
+
+ing rate under this atmosphere was higher than that under the other atmospheres because hydrogen produced a reduction reaction that destroyed the oxide structure of some minerals to promote the transformation from a stable structure into a non-stable structure[17].
+
+At $6 5 0 ^ { \circ } \mathrm { C }$ ， the leaching rate under the air-hydrogen atmosphere was slightly higher than those under the nitrogen and hydrogen atmosphere. Furthermore， the leaching rate under the air-hydrogen atmosphere was higher than the other atmosphere when the calcination temperature was above $8 0 0 ^ { \circ } \mathrm { C }$ ，which showed that hydrogen calcination promoted coal gangue activation at higher temperature.
+
+The leaching rate of coal gangue under carbon dioxide atmosphere was $8 4 . 0 6 \%$ when calcinated at $6 5 0 ^ { \circ } \mathrm { C }$ ，and the acid leaching rate of the calcinated coal gangue was higher than that under the nitrogen atmosphere,which showed that the $\mathrm { C O } _ { 2 }$ atmosphere eliminated the influence of carbonaceous substances in coal gangue.However, the local reaction temperature may decrease because the reduction reaction of $\mathrm { C O } _ { 2 }$ and carbon is an endothermic reaction. The decrease in temperature may partially affect the acid leaching reaction and the acid leaching rate.
+
+# Reaction kinetics of alumina extraction during coal gangue acid-leaching
+
+The reaction of kaolinite in the coal gangue and sulfuric acid can generate $\mathrm { S i O } _ { 2 }$ ， $\mathrm { H } _ { 2 } \mathrm { O }$ ，and $\mathrm { { A l H } ( S O _ { 4 } ) _ { 2 } }$ Meanwhile $\mathrm { C a C O } _ { 3 }$ in the coal gangue react with sulfuric acid to generate $\mathrm { H } _ { 2 } \mathrm { O }$ ， $\mathrm { C O } _ { 2 }$ ，and $\mathrm { C a } ( \mathrm { S O } _ { 4 } ) _ { 2 } [ 1 9 ]$ . The influenceof acid leaching time on the leaching rate of aluminum from coal gangue was analyzed. Here, the leaching time was 0.5,1,1.5,and $2 \textrm { h }$ respectively. The chemical reaction of coal gangue follows the shrinking core model with surface reaction control, and the dynamic equation of coal gangue reaction can be described as[23]:
+
+$$
+1 { - } \big ( 1 { - } X \big ) ^ { 1 / 3 } = t / t _ { \mathrm { f } }
+$$
+
+where $\mathrm { \Delta X }$ indicates the reactant conversion rate,t indicates the reaction time,and $\mathbf { t } _ { \mathrm { f } }$ indicates the complete reaction time.
+
+$$
+\mathbf { t } _ { f } = \rho _ { B } R _ { s } / B m _ { B } k C
+$$
+
+where $\rho _ { \mathrm { B } }$ is the solid reactant concentration, Rs is the solid particle initial radius, $\mathbf { B }$ is the measure coefficient of the solid reactant, ${ \mathfrak { m } } _ { \mathrm { B } }$ is the molecular weight of the solid reactant, $\mathbf { k }$ is the reaction rate constant, and $\mathrm { ~ C ~ }$ is the liquid reactant concentration.
+
+Fora fixed solid-liquid phase reaction, $\mathbf { t } _ { \mathrm { f } }$ is considered as a constant.Thus, the formula can be converted to:
+
+$$
+1 - \left( 1 - X \right) ^ { 1 / 3 } = \mathbf { k } t
+$$
+
+The relationship between sulfuric acid leaching rate and reaction time at different calcination temperatures are shown in Fig. 5.
+
+![](images/717b1cb28798aeed3ead93f47619ee8a0eb2c5ab58d4216034e5de4aee44a2f2.jpg)  
+Fig.5Relationship between leaching rate of alumina and reaction time at different temperatures
+
+Fig.6 presents the curve fitting results of $1 - \left( 1 - \mathbf { X } \right) ^ { 1 / 3 }$ and reaction time t. The fitting correlation coefficient at $5 0 0 ^ { \circ } \mathrm { C } _ { \mathrm { \ell } }$ ， $6 5 0 ^ { \circ } \mathrm { C }$ ， $8 0 0 ^ { \circ } \mathrm { C }$ ，and $9 5 0 ^ { \circ } \mathrm { C }$ were 0.9963,0.9923, 0.9971,and 0.9961, respectively. The apparent rate constant K was calculated from Fig.6 and were O.04772, 0.06679, 0.05472, and $0 . 0 2 3 4 8 { \mathrm { h } } ^ { - 1 }$ ：
+
+![](images/c6f0ea86f87172b8a0728fd186bf23a35bedceb46237af8e1cdc179a9f888f5a.jpg)  
+Fig.6Relationship between $1 - \left( 1 - \mathbf { X } \right) ^ { 1 / 3 }$ and reaction time at different temperatures
+
+The K values calculated in Fig.7 were substituted into the Arrhenius equation, $\mathbf { k } = A e ^ { - E _ { \mathrm { { a } } } / R T }$ , which was then integrated on both sides of the equation $\ln k = \ln A - { \frac { - E _ { a } } { R T } } .$ Linear regression of $\mathrm { T } ^ { - 1 }$ was then calculated by lnk,and the results are shown in Fig. 7.Therefore,the apparent activation energy of the acid leaching reaction was 48.97 $\mathrm { k J / m o l }$ ：
+
+![](images/2bf90f5c763c41283e93c871189af72e6395a96dc4e7b2aff092832bc58f4105.jpg)  
+Fig.7Arrhenius diagram
+
+# Conclusion
+
+Acid leaching method for extracting ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ from coal gangue was discussed.Moreover, the effects of calcination atmosphere and temperature on ${ \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ leaching rates in coal gangue were investigated. Based on the results above mentioned, the following conclusions can be obtained:
+
+(1）Air atmosphere has a preferable activation effect because carbon combustion in the coal gangue promoted the transformation of kaolinite to metakaolin.The effect of hydrogen atmospheres was mainly in high temperature condition. Carbon preferentially reacted with $\mathrm { C O } _ { 2 }$ ，but not with aluminum under the $\mathrm { C O } _ { 2 }$ atmosphere.
+
+(2) When coal gangue was calcinated at $6 5 0 ^ { \circ } \mathrm { C }$ under air,air-hydrogen, carbon dioxide,hydrogen,or nitrogen atmospheres,the decomposition rates ofkaolinite were $5 2 . 4 4 \%$ ， $5 0 . 9 0 \%$ ， $4 7 . 0 4 \%$ ， $45 . 3 6 \%$ ，and $4 3 . 4 2 \%$ respectively. The acid leaching rate of coal gangue calcinated under different atmospheres were $9 3 . 6 6 \%$ under the air atmosphere, $9 0 . 9 0 \%$ under the air-hydrogen mixed atmosphere, $8 4 . 0 6 \%$ under the carbon dioxide atmosphere, $8 1 . 9 1 \%$ under the hydrogen atmosphere,and $7 7 . 5 4 \ \%$ under the nitrogen atmosphere.
+
+(3）Under the conditions of reaction temperatures $6 0 0 ^ { \circ } \mathrm { C } \mathrm { - } 9 5 0 ^ { \circ } \mathrm { C }$ ,the sulfuric acid leaching of coal gangue conformed to unreacted shrinking core model. The reaction kinetics equation of the process was $1 - ( 1 - \mathrm { x } ) ^ { 1 / 3 } = \mathrm { k t }$ with an apparent activation energy of $4 8 . 9 7 \mathrm { k J / m o l }$ ：
+
+# Acknowledgement
+
+This work is supported by National Natural Science Foundation of China (51074170), Shaanxi Key Technology R & D Program(2016GY-147)， and Key Laboratory of Coal Resources Exploration and Comprehensive Utilization,Ministry of Land and Resources Open Research Topic (KF2016-3).
+
+# References
+
+[1]Zhou C., Chang X.， Survey of the Technology of Comprehensive Utilization of Coal Gangue. Coal Preparation Technology,2007,(4): p.2-3.   
+[2]Jiang A.,The Composition Characteristics of Gangue and the Utilization Way. China Coal, 2000,26(3): p.25-27.   
+[3] Leng F.,The Comprehensive Utilization of Coal Slack. Building Science Research of Sichuan，20oo,26(2): p.44-46.   
+[4]Gu L.,Xia J.and Zhang Z.,Affecting Factors on the Alumina Extracting from the Coal Gangue with Sulfuric Acid.Journal of Safety and Environment,2012,12(2): p.88-91.   
+[5]Zhang J., Tong J.and Sun Pe., Study on Sintering Process of Raw Materials in Extracting Alumina From Coal Gangue.Hydrometallurgy of China,2011,30(4):p.316- 319.   
+[6]Si P.，Activaation Technology for Aluminum Recovery from Coal Spoil through Acid Leaching Route.Shanghai: East China University of Science and Technology, 2011.   
+[7]Gong C., Song X.and Li D.,Mechanism Discussion on Calcinated Activate Coal Gangue.Journal of Materials Science & Engineering, 2005,23(1): p.1-2.   
+[8]Li Y., Wang W. and Yang X., Analysis of Thermal Activation and Phase Transformation of Coal-gangue. Journal of the Chinese Ceramic Society, 2007,35 (9): p.1259- 1260.   
+[9]Li Y.,Wang W. and Yang X., Thermal Activation and Influential Factors of Coal-gangue. Coal Conversion, 2007, 30(1): p.1-2.   
+[10]Guo J., Kaolinite-Mullite Reaction Series: $\mathrm { A } ^ { 2 7 } \mathrm { A l }$ and $^ { 2 9 } \mathrm { S i }$ MASNMR Study.Acta Mineralogica Sinica,1997,17(3): p.250-260.   
+[11]Wei C.，Study on Phase Transformation of Calcinated Coal Kaolinite and Activity of Volcanic Ash.Bulletin of the Chinese Ceramic Society, 2005,24(2): p.13-16.   
+[12]Wei C., Influence of Temperature on Phase Transformation of Calcinated Kaolinite and Si,Al Activity. Acta Mineralogica Sinica,2005,25(3): p.197-200.   
+[13]Zheng S., Li Y. and $\operatorname { X u } X .$ , Study of Effects of Temperature on the Physical and Chemical Properties of Calcinated Kaolinite.Journal of the Chinese Ceramic Society, 2003,31(4): p.417-420.   
+[14] Zhang Z. and Zhang R.，Study on Dehydroxylation Process of Kaolinite and its Structural Change.Bulletin of the Chinese Ceramic Society, 1993,12(6):p.37-41.   
+[15]Gong Ch., Song X. and Li D., Mechanism Discussion on Calcinated Activate Coal Gangue.Journal of Materials Science & Engineering,2005,23(1):p.1-2.   
+[16]Cheng F.，Study on Aluminum Oxide Extracted from Coal Gangue. Chinese Journal of Environmental Engineering,2007,1(11): p.101-103.   
+[17]Luo Y.,Ma Z.and Wu J., et al.Effect of Different Calcination Temperature on Structure and Extraction Ratio of Alumina from Kaolinite. Chemical Industry and Engineering,2005,22(4): p.263-266.   
+[18]Wang K.,Yu Y.and Ou H.,2003.Experimental Study on the Excitation Activity of Low Temperature Calcination of New Grouting Material with Coal Gangue. Chinese Journal of Environmental Engineering,26 (6): p.4-6.   
+[19]SiP.,Qiao X.and Yu J., Influence of Calcination Atmospheres on Thermal Activation of Kaolinite-Rich Rocks Associated with Coal Measures.Journal of East China Universtiy of Science and Technology (Nature Science Edition),2011,05(11): p.571-576.   
+[20]Li M., Zhang H.and Sun., Study on the Effect of Kaolinite on the Combustion Characteristics of Coal.Coal Convertion,2004,27(3): p.68-71.   
+[21]MacKenzie K.,Meinhold R.and Brown I., Theformation of Mullite from Kaolinite under Reaction atmospheres. Journal of the European Ceramic Society,1996,16(2): p.115-119.   
+[22]MacKenzie K.,Meinhold R.and Brown.,The Effect of Reaction Atmospheres on the Early Stage Carbonther-mal Reduction of Kaolinite: An XRD, Si and Al MAS NMR Study.Journal of Materials Science,1994,29(21): p.5631-5640.   
+[23]Cheng F.,Study on aluminum oxide extracted from coal gangue.Journal of Environmental Engineering,2007, 1(11): p.99-103.

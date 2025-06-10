@@ -1,0 +1,185 @@
+# DOI:10.5846/stxb201607211486
+
+谢余初,巩杰,齐姗姗,胡宝清,王克林.基于综合指数法的白龙江流域生物多样性空间分异特征研究.生态学报,2017,37（19)：6448-6456.XieYC,ongQiungKAesdlraofodivesitiliveratedfrctaEcologica Sinica,2017,37(19):6448-6456.
+
+# 基于综合指数法的白龙江流域生物多样性空间分异特征研究
+
+谢余初1,2,3，巩 杰²，\*，齐姗姗²，胡宝清1，王克林³
+
+1广西师范学院北部湾环境演变与资源利用教育部重点实验室，南宁530001  
+2兰州大学资源环境学院西部环境教育部重点实验室，兰州730000  
+3中国科学院亚热带农业生态研究所亚热带农业生态过程重点实验室，长沙410125
+
+摘要：大中区域尺度上生物多样性空间分布格局识别是制定和实施区域生物多样性保护计划的前提条件,也是生物多样性保护确定优先区域研究工作迫切需要解决的关键问题之一。拟以甘肃白龙江流域为例,结合InVEST模型和遥感、GIS 技术,以区域生境质量、植物净初级生产力和景观状态指数为评价指标,应用归一化处理方法,构建区域生物多样性空间格局综合评估方法，在栅格像元尺度上开展白龙江流域生物多样性评价及其空间分异特征分析。结果表明：白龙江流域生物多样性较为丰富,空间分异特征明显。生物多样性较高的区域(I和Ⅱ级以上)面积约占 $3 9 . 8 0 \%$ ,且主要集中在自然保护区和林业管护区。生物多样性较低的地区主要分布在舟曲-武都-文县的白龙江两岸及其以北区域、宕昌县岷江沿岸、高寒稀疏植被区和高山积雪-裸岩区。关键词：生物多样性;评价指标;空间分异;InVEST模型;甘肃白龙江流域
+
+# Assessment and spatial variation of biodiversity in the Bailong River Watershed of the Gansu Province
+
+XIE Yuchu1,2.3， GONG Jie²,\*， Qi Shanshan²，HU Baoqing1，WANG Kelin³
+
+1KeyLaboratoryofEoentChagedesoucesUseinBeibuGulf（Minstryfucatio），uangxiTeacersucationUesityn530001，China  
+2KeyLaboratofst'sotalstfuc），ldecUiLanzhou 730000,China  
+3KeyLaboratofrolclrceeinuboicalostutefubroclgcuecdefiec410125，China
+
+Abstract：The lossof biodiversityhasbecomeoneof themajor global environmental problems，with strengtheningof biodiversity conservationandprotectionurgentlyrequired.Thefirststepinsolvingthisproblem istheidentificationand understanding of thespatialvariation of biodiversityonaregional scale，with the formulationand implementationof biodiversity protection schemes imperative.This hasbecome the focus of biodiversityassessments over both large and medium scales.The Bailong River Watershedof the Gansu Province（BRWGP），oneof the most abundant biodiversity regionsin China,islocated inthe transitional ecotone alongthe TibetPlateau,LoessPlateau，andQinba Mountains.The BRWGP wasselected inthepresent studytoanalyzethespatial heterogeneityof biodiversity.Inclusionof threeassessment indicators（habitat quality，vegetation netprimary productivity，and landscape state index）enabled the constructionof a comprehensive indexsystemof biodiversityspatial paternsandapplicationof spatialdiferentiationanalysisunderthe landscape geography perspective. Our goal was to revise the biodiversity evaluation module of the $\mathrm { I n V E S T }$ model and demonstrate biodiversityspatial paternsonagridcell.Theresults indicated that biodiversitywas highand hadobvious spatial patern variations in the BRWGP.The land area containing higher biodiversity accounted for $3 9 . 8 \%$ of the total watershedarea，which wasmainlydistributed in the national naturereserveand forest.Therelativelypoor biodiversityareas were mainlydistributed inthevalleysofthe BRWGPbetween Zhouqu-Wudu-Wenxian，thevallyof Minjiang in Tanchang County，alpine mountain snow regions，and bare rock zones.
+
+Key Words：biodiversity；asessment indicators；spatialvariation；InVESTmodel；Bailong River Watershedof the Gansu Province >
+
+生物多样性不仅是人类赖以生存发展的不可缺少的物质条件和基础,而且在调节气候、保持水土、维持自然平衡等方面起着不可替代的作用[1-2]。然而,随着全球环境变化、外来物种入侵以及人类活动干扰,全球生物多样性丧失问题正日趋严重[3-4]。2010 年《全球生物多样性展望》报告指出,15000 多个物种正在消失,且生物多样性丧失的趋势仍没有得到有效遏制[5]。2014 年联合国环境署(UNEP)也强调,生物多样性持续减退是继气候变化之后又一个严重威胁人类的全球环境问题[6。因此,加强对生物多样性的认知、评价、保护、规划、管理和政策制定,不仅是实现区域可持续发展战略的重要保证,而且已迫在眉睫。
+
+开展大中尺度上生物多样性及其空间分异特征研究,是生物多样性保护重要区和生态补偿区识别、界定和规划的基础,也是小尺度生物多样性评价、保育与管理的前提条件。为此,国内外学者们就大中区域尺度下生物多样性研究开展了大量工作。朱万泽等[7]通过构建区域生物多样性综合评价指标体系与方法,分析了长江上游生物多样性保护的重要性。李咏红等[8以县域为评价单元探讨了成渝经济区生物多样性空间分布特征。Hou 等驱动力-压力-状态-影响-响应(DPSIR)框架思路细化各评估指标,开展了社会经济活动对生物多样性影响的评估工作[9]。Luo 等从物种丰富度、特有种属和威胁因子状态与格局的角度分析了中国两栖动物保护及优先保护区的识别[10]。这些研究多以行政区划为评价单元或倾向于通过生物多样性监测网络来获得野外观测数据,而在栅格单元上开展生物多样性空间尺度和时间尺度的研究报道较为鲜见[1];；同时,在缺乏全面的生物监测数据的大尺度区域范围内,基于行政单元的生物多样性评估,其结果在一定程度上与实际分布状况可能存在一定差距或不一致的现象。近年来,随着3S技术和生态模型的发展,区域生物多样性评估逐渐趋向于空间化、定量化、精细化、模型化。InVEST(Integrated Valuation of Ecosystem Service and Tradeoff)模型是由斯坦福大学、大自然保护协会、世界自然基金会等机构共同开发,可用于量化多种生态系统服务功能(如：生境多样性、碳储量、产水量、土壤保持和水体净化等),并能将评估结果以专题地图的形式展现出来的生态系统服务综合评估模型[12-13]。杨芝歌等[14]基于森林资源二类调查数据和InVEST模型分析和评估了北京山区生物多样性与碳储量功能。徐佩等[15]利用InVEST模型和GIS 空间分析技术探讨了汶川地震灾区生物多样性热点地区。Polasky等[16]通过InVEST模型模拟分析了明尼苏达州土地利用变化对生物多样性保护的影响。由此可见,利用GIS 和生态模型空间量化生物多样性空间格局是可行的。
+
+甘肃白龙江流域位于嘉陵江流域上游,是长江上游生物多样性重要保护区的重要组成部分,也是中国滑坡和泥石流灾害四大高发区之一[17]。近年来,随着该地区的植被破坏、水土流失、滑坡、泥石流等生态和自然灾害问题突出(如2010年流域内舟曲特大泥石流灾害),正严重威胁着社会经济的可持续发展和生物多样性的维护,亟需开展该区域生物多样性空间分异评估工作。为此,本文拟在了解和认识该流域生物、气候、地质地貌等多种地理环境因素的基础上,采用遥感、GIS 技术和InVEST模型,构建大尺度区域水平上生物多样性空间分异评估方法，在栅格单元上定量分析流域内生物多样性空间分异特征，旨在为区域生物多样性保护与规划管理提供科学依据。
+
+http://www.ecologica.cn
+
+# 1研究方法
+
+# 1.1 研究区概况
+
+甘肃白龙江流域， $( 3 2 ^ { \circ } 3 6 ^ { \prime } - 3 4 ^ { \circ } 2 4 ^ { \prime } \mathrm { N } , 1 0 3 ^ { \circ } 0 0 ^ { \prime } - 1 0 5 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } )$ 地处青藏高原东缘、西秦岭与岷山山脉交汇地带,是长江上游重要的水源地和生态屏障。流域内地形复杂,山峦叠嶂、沟壑纵横、坡陡流急,素以“山大沟深”著称。气候类型复杂多样,气候垂直地带分异明显,夏季高温多雨,冬季温凉少雨,年均气温6- $1 5 \mathrm { ^ { \circ } C }$ ，年均降水量 $4 0 0 { \ - } 8 5 0 \ \mathrm { m m }$ 。植被覆盖较好,森林广布,流域源头属青藏高原高寒植被区域,中上游以暖温带落叶阔叶林区域为主,下游多为亚热带常绿阔叶林区域[17],有珙桐（Davidia inoolucrata Baill）、水杉（Metasequoiaglyptostroboides）、银杉（Cathaya）、香果树（Emmenopterys henryi Oliv.）、连香树（Cercidiphyllaceae）鹅掌树（Acerpaxi Franch）、红椿（Toona ciliata Roem.）、南方红豆杉（Taxuschinensis（Pilger）Rehd.var.）水青树（Tetracentron sinense Oliv.)等多种珍稀濒危植物以及国家一级保护植物7种,二级保护植物19种[18]；当归（Angelica sinensis）、党参（Codonopsis pilosula（Franch.）Nannf.）、大黄（Rheum palmatum L.）红芪（Hedysarumpolybotrys Hand.Mazz）、柴胡（Radix bupleuri)等药用植物近700种;拥有大熊猫（Ailuropoda melanoleuca）、金丝猴（Rhinopithecus roxellana）、羚羊（Antidorcas marsupialis）、短尾猴（Macaca arctoides）麝（Moschus moschiferusLinnaeus）、毛冠鹿（Elaphodus cephalophus）、鲵（Megalobatrachus japonicus daoidianuas（Blanchard））等 20 多种保护动物。
+
+# 1.2 研究方法
+
+生物多样性评价研究是一个十分复杂的过程,可分为遗传、物种、生态系统、景观4个层次,但在大尺度区域水平上多指景观的度量,包括景观的丰富度、均匀度和弹性等。从景观地理学的角度去理解和分析生物多样性的概念、层次和丧失原因等,同时考虑到各评估指标空间表达的可操作性和可视性,本文拟遴选生境质量、植被净初生产力(NPP)和景观结构指数3个指标来分别反映区域生物栖息地质量、区域环境状况和生态系统景观多样性。
+
+（1）生境质量
+
+可通过InVEST模型计算获得。InVEST模型是从土地利用与覆被变化角度出发,通过结合景观类型敏感度和外界威胁强度,认为生境质量是一个连续的变量,由研究区内可供生物生存、繁殖和发展所需资源的多少来决定,其值的大小将代表区域的生物多样性丰富程度[12,19-20]。即,生境质量高的地区生物多样性水平高,生境质量低和生境范围小的则意味着生物多样性低。具体计算过程如下：
+
+$$
+Q _ { x j } = H _ { j } \times \left[ 1 - \left( \frac { D _ { x j } ^ { z } } { D _ { x j } ^ { z } + k ^ { z } } \right) \right]
+$$
+
+$$
+\begin{array} { r } { D = \displaystyle \sum _ { r = 1 } ^ { R } \sum _ { y = 1 } ^ { Y _ { r } } \left( \frac { W _ { r } } { \displaystyle \sum _ { r = 1 } ^ { R } W _ { r } } \right) r _ { y } i _ { r x y } \beta _ { x } S _ { j r } } \end{array}
+$$
+
+式中， ${ \mathcal { Q } } _ { x j }$ 是地类景观 $j$ 中栅格 $x$ 的生境质量; $H _ { j }$ 表示地类景观 $j$ 的生境适宜程度; $D _ { x j }$ 为地类景观 $j$ 中栅格单元$x$ 的生境退化程度; $k$ 为半饱和系数; $Z$ 为常数。 $R$ 为生态威胁因子个数; $\textstyle \ W _ { r }$ 为生态威胁因子 $\boldsymbol { r }$ 的权重; $y$ 为生态威胁因子 $\boldsymbol { r }$ 的所有栅格单元; $Y _ { r }$ 是生态威胁因子 $\boldsymbol { r }$ 栅格单元的总数;根据白龙江流域具体实际情况,本文选取城镇、农村居民点、人口密度、农田、道路(国道、省道、县乡道路)、综合生态风险源(滑坡、泥石流、土壤侵蚀、地震、干旱)等对地表景观影响较大的人为或自然因素作为生态威胁因子(图1)。土地覆盖数据主要是采用监督分类方法遥感影像进行目视解译获得,根据中国土地利用分类的标准和白龙江流域土地资源利用的实际情况,划分为6个大类12个小类,即耕地、林地(有林地、灌木林地、疏林地、其他林地）、草地(高覆盖高低、中覆盖草地、低覆盖草地）、水域(河流、湖泊水库）、建设用地、未利用地(沙地裸地、高山积雪-裸岩),比例尺为1:10万。 $i _ { r \gamma }$ 表示生态威胁因子 $\boldsymbol { r }$ 的最大影响距离; $r _ { y }$ 为地类景观 $y$ 栅格单元中生态威胁因子的个数; $\beta _ { x }$ 为栅格单元 $x$ 的合法可达性(或法律准入程度或到达度),是指在当前的各项政策、法律、法规、条例及其实施办法下,土地资源或生态系统保护程度[12.15]。本文暂不考虑白龙江流域特定的土地保护区因素,将区域内各土地覆被类型在国家法律法规上受到保护的程度是平等均一的,系统将自动给赋值为1,即完全到达; $S _ { j r }$ 为地类景观 $y$ 对于威胁因子 $\boldsymbol { r }$ 的敏感度大小,取值范围为[0,1]。
+
+![](images/c2264edbd85de7ce1b9913304855c269acaeffb4bb3619969f9ebb651a310623.jpg)  
+图1白龙江流域生态威胁因子分布图  
+Fig.1Ecological threat factors of Bailong river watershed
+
+(2）植被净初生产力（NPP)
+
+植被净初生产力是指当前自然环境条件下植物群落的净初生产能力,是植物自身生物学特性与外界环境因子相互作用的结果,反映着区域陆地生态系统状况及弹性[17,21-22]。在一定范围内,植被净初生产力高的区域,生物多样性相对较高[21]。目前针对大中尺度 NPP 的计算主要是基于光能利用率模型（CASA 模型）[17]。CASA 模型简单而实用,它主要考虑了光能利用率和光合有效辐射两个因子,且大部分参数可以利用遥感直接获得[17,22],适用于大范围的 NPP 计算。计算公式如下：
+
+http://www.ecologica.cn
+
+$$
+\mathrm { N P P } ( x , t ) = \mathrm { A P A R } ( x , t ) \ \times \varepsilon ( x , t )
+$$
+
+$$
+\varepsilon ( x , t ) = \varepsilon _ { \mathrm { m a x } } \times T \varepsilon ( x , t ) \times W \varepsilon ( x , t )
+$$
+
+$$
+\mathrm { A P A R } ( x , t ) = \mathrm { S O L } ( x , t ) \times 0 . 5 \times \mathrm { F P A P } ( x , t )
+$$
+
+$$
+\mathrm { F P A R } ( x , t ) = \frac { ( \mathrm { N D V I } ( x , t ) \ - \ \mathrm { N D V I } _ { i , \mathrm { n i n } } ) \cdot ( \mathrm { F P A R } _ { \mathrm { m a x } } \ - \ \mathrm { F P A R } _ { \mathrm { m i n } } ) } { ( \mathrm { N D V I } _ { i , \mathrm { n a x } } \ - \ \mathrm { N D V I } _ { i , \mathrm { m i n } } ) } + \mathrm { F P A R } _ { \mathrm { m i n } }
+$$
+
+式中， $\mathrm { N P P } ( x , t )$ 为 $\mathbf { \chi } _ { t }$ 月份象元 $x$ 的植被净第一性生产力， $\mathrm { A P A R } \left( x , t \right)$ 为 $\mathbf { \chi } _ { t }$ 月份象元 $x$ 吸收的光合有效辐射,ε$( x , t )$ 代表 $\mathbf { \chi } _ { t }$ 月份象元 $x$ 的实际光能利用率。 $\mathbf { \chi } _ { t }$ 表示时间, $x$ 表示空间。 $T _ {  { \varepsilon } } ( x , t )$ 表示温度胁迫系数, $W _ { \varepsilon } ( x , t )$ 表示水分胁迫系数， $\varepsilon _ { \mathrm { m a x } }$ 表示没有受任何限制的情况下植被的最大光能利用率。APAR $( x , t )$ 为 $\mathbf { \chi } _ { t }$ 月份象元 $x$ 吸收的光合有效辐射， $\mathrm { S O L } ( x , t )$ 是 $\mathbf { \chi } _ { t }$ 月份象元 $x$ 处的太阳总辐射量( $\mathrm { \Delta M J / m } ^ { 2 }$ ）， $\mathrm { F P A R } ( x , t )$ 指的是 $\mathbf { \chi } _ { t }$ 月份象元 $x$ 处的光合有效辐射吸收率,常数0.5表示植被所吸收的太阳有效辐射（波长范围 $0 . 3 8 { \ - } { \longrightarrow } 1 \mu \mathrm { m }$ 与植被冠层接收到的太阳总辐射之比。NDVI是归一化植被指数， $\mathrm { \Delta N D V I _ { \mathrm { m a x } } }$ 和 $\mathrm { \ n N D V M _ { \mathrm { m i n } } }$ 分别表示第 $i$ 种植被类型的 NDVI最大值和最小值。本研究以2000—2013 年白龙江流域 NPP 年平均值来代表区域总体植被净初生产力状况,其计算过程中所需的 NDVI原始数据为 $2 5 0 \mathrm { m }$ 分辨率的 M0D13Q1遥感数据,气象数据1990—2013年研究区及周边17个气象站点的观测数据,根据CASA模型利用 ENVI5.1和ArcGIS10.2等软件计算获得。
+
+# （3）景观结构指数
+
+一定区域范围内,生态系统越复杂、景观结构状态越好、类别越均衡,则景观多样性程度越大[23]。因此,景观结构状态能间接反映区域景观多样性的强弱，且可以通过相关的景观指数构建其结构损失度函数来间接反映变化状态。景观损失度是景观结构受到干扰后造成的可能损失程度,具体可通过景观破碎度、景观分离度和景观分维数加权函数式表征[24-26];其值越大,景观安全性越低、结构越不稳定,景观多样性越低：
+
+$$
+L S _ { i } = 1 - S _ { i } = 1 - \left( a C _ { i } + b N _ { i } + c F _ { i } \right) 
+$$
+
+$$
+N _ { i } = 0 . 5 \sqrt { \frac { n _ { i } } { A } } \times \frac { A } { A _ { i } }
+$$
+
+$$
+F _ { i } = 2 \mathrm { l n } \Bigg ( \frac { P _ { i } } { 4 } \Bigg ) \mathrm { l n } A _ { i }
+$$
+
+式中， $L S _ { i }$ 为景观状态指数， $\langle S _ { i \setminus i } \rangle \bigcirc _ { i } ^ { \phantom { } } \setminus N _ { i }$ 和 $F _ { i }$ 分别为景观损失指数、破碎度指数、分离度指数和分维数; $n _ { i }$ 和 $A _ { i }$ 同上， ${ \boldsymbol { P } } _ { i }$ 为某一景观类型 $i$ 的周长。 $\textit { a , b }$ 和 $\scriptstyle { \begin{array} { l } { c } \end{array} }$ 分别为各个景观格局指标的权重,其权重采用层次分析法（AHP)计算。
+
+(4)生物多样性综合指数（ $B I _ { x }$ )计算方法
+
+生物多样性综合指数( $B I _ { x }$ )是由区域生境质量、植被净初生产力和景观结构指数的加权函数式组成的,其概念框架为：
+
+生物多样性指数
+
+$$
+B I _ { x } = Q _ { x j } \times \beta _ { 1 } + \mathrm { N P P } _ { x } \times \beta _ { 2 } + S _ { x } \times \beta _ { 3 }
+$$
+
+式中， $B I _ { x } ^ { - }$ 表示栅格单元 $x$ 的生物多样性指数, $Q _ { x j }$ 为第 $j$ 类土地利用/覆被类型(地类景观)在第 $x$ 个栅格的生境质量， $\mathrm { N P P } _ { x }$ 为第 $x$ 个栅格的植被净初生产力年值, $S _ { x }$ 为景观尺度上第 $x$ 个栅格的景观结构指数， $\beta _ { x }$ 为权重系数,通过结合研究区实地特点,利用层次分析法对生境质量、植被净初生产力和景观结构指数权重值分别赋值为0.5、0.3和0.2。各指标均进行标准化处理。
+
+# 3结果与分析
+
+# 3.1生物多样性单指标分析
+
+由图2可知,白龙江流域整体景观生境质量空间格局分布明显,其低生境质量区（数值 $< 0 . 2 5$ )所占比重较大,主要分布在土石山区交错带上人类活动相对频繁的河谷地带,如舟曲-武都段白龙江两岸区域及武都北峪河区域、文县和武都交界区、宕昌县西北部地区;高生境质量区域主要集聚在人类活动较弱的中高山林区和自然保护区。在行政上,迭部县生境质量最高,其次是文县,武都区的最小。
+
+2000—2013 年甘肃白龙江流域 NPP 数值范围集中在 $3 0 0 { - } 7 0 0 \ \mathrm { g C \ m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ ,其最高值为 $1 1 4 7 . 6 8 \ \mathrm { g C } \ \mathrm { m } ^ { - 2 }$ （204$\mathbf { a } ^ { - 1 }$ ,平均值 $5 0 0 . 5 9 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ 。在空间上,植被净初生产力低值区（平均值低于 $3 0 0 \mathrm { g C \ m } ^ { - 2 } \mathrm { \ a } ^ { - 1 }$ )主要分布在工农业较发达的河谷地带和丘陵区和高寒山区（海拔 $3 5 0 0 \mathrm { m }$ 以上山区,如迭部县与卓尼县交界的北部迭山山脉)。植被净初生产力高值区（平均值大于 $5 0 0 \mathrm { g C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 } .$ )则主要分布在文县东南部及南部、高楼山林区、迭山林区以及阿夏、多儿、插岗梁、博裕河上游自然保护区等(图2)。在不同植被类型上,常绿阔叶林、常绿/落叶阔叶林年均 NPP 最高( $( 6 7 7 . 8 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { a } ^ { - 1 } )$ ，草甸最低 $( 3 1 9 . 2 ~ \mathrm { g C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 } ,$ ）
+
+景观结构指数空间分布格局与生境质量、NPP 的相似,景观结构相对稳定(景观多样性较高)区域主要集中在自然保护区和林业管护区，以中山阔叶林和亚高山针阔混交林的林灌复合生态系统较为明显。景观结构相对脆弱(景观多样性较低)的地区主要分布在武都区的马街乡、安化镇、汉王镇、三河镇、鱼龙乡及两水镇，宕昌县城至车拉乡和八力乡至哈达铺镇等区域（图2）。
+
+![](images/517419f5e8f4259454c155a2114f95989675ba629e94c06b607fa609cf3f33c8.jpg)  
+图2白龙江流域生物多样性评价指标空间分布状况  
+Fig.2Spatial distribution of biodiversity assessment indicators in Bailong river watershed
+
+3.2生物多样性综合评价分析
+
+由图3和表1可知,白龙江流域生物多样性评价结果为高(I级)的区域,面积约占 $1 3 . 3 \%$ ,主要分布在海拔约为 $1 5 0 0 { - } 3 0 0 0 \mathrm { m }$ 的中高山林区域;这些地区物种高度丰富、植被覆盖好、生境质量高、人类活动干扰极少、生态系统类型多样,且多为自然保护区、林业管护区或天然林生态系统集中区域,是大熊猫、金丝猴、珙桐、银杉、连香树、水青树等珍稀动植物或国家重点保护动植物分布关键区域。生物多样性Ⅱ级区域,面积约占$2 6 . 5 3 \%$ ,该区域以森林为主,灌丛草地相间分布;物种相对丰富、植被覆盖好、生境质量较好、人类活动干扰少、生态系统类型较多,局部地区生物多样性高度丰富,生物多样性指数为中。生物多样性Ⅲ级区域,面积约占 $3 7 . 8 9 \%$ ,多为农牧或农林生态系统、灌草生态系统;物种相对较少,生境质量一般,在局部山岭丘陵地区生物多样性较丰富，生物多样性指数为一般。生物多样性V级区域，面积比重约为 $2 3 . 3 1 \%$ ，是农业主产区和城乡集中分布区;该区域内生态环境相对脆弱，人类活动干扰强烈，滑坡、泥石流、水土流失等灾害频繁，物种相对贫乏、景观破碎化高、生境质量较差、生态系统类型较为单一，生物多样性较低（图1和图3）。
+
+# 4讨论
+
+甘肃白龙江流域生物多样性的时空分布特征呈现出一定的规律性，生物多样性综合指数较低的区域（IV级)主要分布在人类活动相对频繁、工农业相对比较发达的河谷地带和缓丘区，以城乡聚落区、裸地、坡耕地和低覆盖草地等景观类型最为突出，而生物多样性较高的区域（I和Ⅱ级区），即生物多样性优先保护的关键区域，则主要分布在地表扰动较少的自然保护区和林业管护区,这与其他学者[7-8,15,20]研究的成果相似。生物多样性I和Ⅱ级区域总面积约占 $3 9 . 8 0 \%$ ,且有近百种动植物被列入《濒危野生动植物种国际贸易公约》附录物种,间接反映出研究区生物多样性保护的重要性。这与我国环境保护部 2015年发布的《中国生物多样性保护优先区域范围》中指出,甘肃白龙江流域大部分区域属于我国岷山-横断山北段生物多样性保护优先区域的客观事实相吻合。
+
+![](images/f0046edc0664c823e9d4373e37a0935bd80176e35f11c8b155de39c8a6cdcea2.jpg)  
+图3白龙江流域生物多样性空间分布格局  
+Fig.3Integrative assessment of biodiversity spatial pattern in Bailong river watershed
+
+表1白龙江流域生物多样性状况分级  
+Table 1Classification of biodiversity index in BRW   
+
+<html><body><table><tr><td>生物多样性等级 Classification</td><td>生物多样性状况 Characterization depict of biodiversity</td><td>生态多样性综合指 数平均值(BI) Biodiversity index(BI)</td><td>面积比重/% Area percentage</td></tr><tr><td>I（高High)</td><td>物种高度丰富，特有属 种多，植被净初生产力高，景观稳定高，生境 质量高，人类活动干扰极少，生态系统丰富多样</td><td>0.344<BI</td><td>13.27</td></tr><tr><td>ⅡI（中Moderate）</td><td>物种较丰富，植被覆盖好、生境质量较好、人类活动干扰少、生态系 统类型较多,局部地区生物多样性高度丰富</td><td>0.238<BI≤0.34</td><td>26.53</td></tr><tr><td>ⅢI(一般Medium-low)</td><td>物种较少，植被净初生产力良好，景观较为破碎,生境质量一般，局 部地区生物多样性较丰富,但生物多样性总体水平一般</td><td>0.149<BI≤0.238</td><td>37.89</td></tr><tr><td>V（低Low）</td><td>物种相对贫乏，生境质量较差，人类活动干扰频繁而强烈,生态系统 类型单一、脆弱,生物多样性相对较低</td><td>0.149<BI</td><td>22.31</td></tr></table></body></html>
+
+InVEST-biodiversity模块是从生物多样性的环境背景与质量(或者生物栖息地质量)的角度,通过分析生境质量来探讨生物多样性高低。在大中尺度的景观水平上,生物多样性还包含着景观的丰富度和生态系统多样性。因此,本文尝试在景观地理学视角下,利用NPP 和景观结构指数来分别表征景观丰富度（或者区域环境状况)和生态系统景观多样性,结合InVEST-biodiversity模型的评估结果改进区域生物多样性空间分布的评估方法,同时通过野外样方生物多样性本底调查、部分自然保护区科学考察报告和全国野生高等动植物名录等相关资料进行验证与分析,结果表明从区域尺度上改进后的评估结果能够较清晰和客观地体现白龙江流域生物多样性实际空间分布格局。与以往基于行政单元的区域生物多样性空间格局研究成果相比较，本研究将生物多样性分布格局落实到像元尺度上，弥补了基于行政单元生物多样性空间格局可能与生物多样性实际分布存在局部差异的现象,有利于生物多样性的保护与规划管理。但由于研究区面积较大、地形复杂,目前生物多样性评价缺乏规范的基础监测数据,研究过程中野外调查样方数据较少,且地形与植物多样性关系复杂[27-28],因此未来在继续加大生物多样本底调查和长期野外观测工作的基础上,结合宏观尺度的遥感观测,量化生物多样性评估体系与指标,以期更准确地开展区域生物多样性评估工作和弥补生物多样性在时间和空间尺度上的不足[11,21]。
+
+# 5 结论
+
+在空间分布上,甘肃白龙江流域生物多样性丰富的区域主要集中在白水江国家级自然保护区、裕河大熊猫自然保护区、插岗梁自然保护区、博裕河自然保护区、迭部县的白龙江阿夏与多儿大熊猫自然保护区和达拉沟流域、迭山林区地带等。生物多样性较低的地区主要分布在舟曲-武都-文县的白龙江两岸及其以北区域、宕昌县岷江沿岸和迭部县海拔 3300 米以上的高寒山区。
+
+本文尝试在遥感和GIS技术的支持下,结合InVEST模型、NPP和景观结构指数构建区域生物多样性空间格局的评估方法,并在栅格像元尺度上量化分析生物多样性空间分布状况。与单纯只考虑InVEST模型或者与以往基于行政单元的区域生物多样性空间格局相比,对于山大沟深、灾害频发、缺乏长期野外监测数据的甘肃白龙江流域而言,构建后的区域生物多样性空间格局评估方法的研究结果更为客观和真实,更符合流域生物多样性实际分布状况。
+
+致谢：王茜茜、陈国清、吴婧帮助修改。
+
+# 参考文献（References）:
+
+[1]ButchartSH,WalpoleM,ColenB,van StrienA，ScharlemannJPW,AlmondREA,BailleJEM,BomhardB,Brown C,BrunoJ,CarpenterKE,CarrGM,ChansonJ，CheneryAM,CsirkeJ,DavidsonNC,DentenerF,FosterM,GalliA,GalowayJN,GenovesiP,Gregory RD,Hockings M,Kapos V,LamarqueJF,LeveringtonF，LohJ，McGeoch MA,McRaeL，MinasyanA，Hern(dez Morcill,OldfieldTEE,PaulyD,QuaderS,RevengaC,SauerJR,SkolikB，SpearD,Stanwel-SmithD,StuartSN,SymesA,TerneyM,ellD,VieJC，Watson R. Global biodiversity:Indicators of recent declines.Science,2010,328(5982）:1164-1168.  
+[2]IsbellFeichB,nD,HbeS,syerSutritentovesityssosentisproductivity.ProceedingsoftheNationalAcademyofSciencesof the United StatesofAmerica,2O13,110(29)：1191-11916.  
+[3]Chaplin-KramerR,SharpRP,MandeL,SimS,JohsonJ,utnarI,CanalsLM,EichelbergerBA,RamlerI,MuelerC,McLachlanN,YousefA，igeplfalecseitbfNational Academy of Sciences of the United States of America,2015,112(24)：7402-7407.  
+[4]ZhaoG,uJaguygZY,XieL.DistubacactsfusehaeoiversieatoprritcoChina：1990-2010.Journal of Geographical Sciences，2015,25(5）：515-529.  
+[5]CB（eaalftoticalesibalesitOutotrealdetofBiological Diversity,2010:4-87.  
+[6]CBD（relfetoliit）obalieiOttaldelofBiological Diversity， 2014:155-155.  
+[7］朱万泽，范建容，王玉宽，申旭红，田兵伟，魏宗华.长江上游生物多样性保护重要性评价——以县域为评价单元.生态学报，2009，29(5): 2603-2611.李咏红，香宝，袁兴中，谢强，李莉，马广文.成渝经济区生物多样性空间分异特征.环境科学研究，2012，25(10)：1148-1154.HouY,Zouurd,ullrFocioeooicifuencoiversitycossercsndanelg：iiapplication of the DPSIR model in Jiangsu，China.Science of The Total Environment，2014,490:1012-1028.  
+[10]LuoZL,WeiSC,ZangW,ZaoMA，WuHAmpibianbdiveitycoruenceandconseatioprioritisininaIteatingseciesrichness，endemism，and threat patterns.Biological Conservation，2015，191：650-658.  
+[11]ScholesRJ,WaltersM,TurakE,SarenmaaH,HHeipC,TuamaEO,FaithD,MooneyHA,FerrerS,HGJongmanR,sonIJ,YaharaT,PereiraHM,LarigauderieA，GelerG.BulingglobalobservingsystemforbiodiversityCurrentOpinoninEnviotalSustainability，2012,4(1):139-146.  
+[12]TallsHT,RickettsT,uerryA,WoodSA,harR,NelsonE,EaayD,WolyS,OlweroN,VigerstlK,engonD,edoaG,AukemaJ,FosterJ,estJ,eronD,keaK,sdofE,KedyC,VerutesG,iCK,aelG,aefusfJikM,BermhardtJ,GriffnR,GlowinskiK,ChaumontN,PerelmanA,LacayoM.InVEST2.5.6User'sGuide.Stanford：TheNaturalCapitalProject，2013.  
+[13]NelsonJE,MendozaG,egetzJ,PolaskyS,TalisH,CmeronD,hanK,DailyGC,GoldsteinJ,KareivaP,LsdorfE,d,RicketsTH,delinguleoodesioetiiuctefsaalFrontiers in Ecology and the Environment,2009,7(1)：4-11.  
+[14］杨芝歌，周彬，余新晓，樊登星，张艺，王奇.北京山区生物多样性分析与碳储量评估.水土保持通报，2012，32（3）：42-46.  
+[15] 徐佩，王玉宽，杨金凤，彭怡.汶川地震灾区生物多样性热点地区分析.生态学报，2013，33（3)：718-725.  
+16]PolasksoEocfesisdcase study in the state of minnesota.Environmental and Resource Economics,2011,48(2)：219-242.  
+[17］高彦净.基于CASA 模型的植被 NPP 时空动态研究——以甘肃白龙江流域为例[D].兰州：兰州大学，2015.  
+[18] 汤萃文，孙学刚，肖笃宁.甘肃省中国种子植物特有属物种多样性保护优先地区分析.生态学杂志，2005，24（10)：1127-1133.  
+[19] 刘志伟.基于InVEST 的湿地景观格局变化生态响应分析[D].杭州：浙江大学，2014.  
+[20]包玉斌，刘康,李婷，胡胜.基于InVEST模型的土地利用变化对生境的影响——以陕西省黄河湿地自然保护区为例.干旱区研究，2015，32(3):622-629.  
+[21]LauschA,BaehrL，BeckmannM,BoehC,FeilauerH,HackerJ,HeurichM,JungA,KlenkeR,NeumanC,Pause,oi,Schaepman ME,SchmidtleinS，SchulzK,SelsamP,SeteleJ,kidmoreAK,CordAF.LinkingEarthObservationandaxonomictructuraland functional biodiversity:local to ecosystem perspectives.Ecological Indicators,2016,70：317-339.  
+[22]LiuCYgXF,asfdelatiateorasfoaoetalsas,China.CATENA，2015，125：190-199.  
+[23］邬建国.景观生态学—格局、过程、尺度与等级(第二版).北京：高等教育出版社，2007.  
+[24］李景宜，李谢辉，傅志军，冯普林，石长伟.流域生态风险评价与洪水资源化——以陕西省渭河流域为例.北京：北京范大学出版社，2008.  
+[25］巩杰，谢余初，赵彩霞，高彦净.甘肃白龙江流域景观生态风险评价及其时空分异.中国环境科学，2014，34（8)：2153-2160.  
+[26］谢余初，巩杰，张玲玲.基于PSR 模型的白龙江流域景观生态安全时空变化.地理科学,2015,35(6)：790-797.  
+[27] 李果，吴晓莆，罗遵兰，李俊生.构建我国生物多样性评价的指标体系.生物多样性，2011，19(5）：497-504.  
+[28]YuFY,WangTJ，GroenTA,SkimoreAK,YangXF，GengYY,MaKP.Mult-scalecomparisonoftopograpiccomplexitdcsinrelation to plant species richness. Ecological Complexity, 2015，22: 93-101.

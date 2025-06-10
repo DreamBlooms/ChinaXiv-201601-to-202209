@@ -1,0 +1,365 @@
+[
+    {
+        "type": "text",
+        "text": "耀变体在射电波段的偏振研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐小林，张皓晶，易庭丰，张燕，余莲，任国伟，李富婷，吴月承，张雄t(云南师范大学物理与电子信息学院，云南昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文利用UMRAO数据库的22个耀变体源的偏振数据，根据Lazarian & Pogosyan的理论模型进行分析研究了耀变体射电波段的偏振随波长的变化，得出不同类的耀变体偏振随波长的变化的原因。其结果表明，与Lazarian & Pogosyan 的理论模型吻合较好。由此我们得出如下结论：（1）反常去偏振耀变体源中反常法拉第旋光起主导作用，反常去偏振相对较少；（2）热辐射与同步辐射混合作用，高频波段的偏振度就小于低频波段的偏振度（反常去偏振)；（3）当被观测波段波长小于吸积盘热辐射所对应的维恩波长时，高频波段的偏振度就大于低频波段的偏振度 (常规去偏振)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：耀变体；射电波段；偏振；法拉第旋光；MHD中图分类号：文献标识码：文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作为活动星系核（耀变体）的一个子类，辐射与观察者的视线相一致的耀变体（Blazars）被相对论喷流所主导[I。具有同步辐射的相对论喷流和强烈的线偏振。线偏振度可以计算为$\\textstyle p = { \\frac { \\alpha + 1 } { \\alpha + 5 / 3 } }$ $\\alpha$ 用UMRAO（htps:/dept.astro.lsa.umich.edu/datasets/umrao.php）数据库给出的观测结果，研究 blazar 的偏振度与波长的变化。UMRAO数据库提供了一个很好的研究射 blazar 电波段的偏振特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于法拉第散射，去偏振对同步辐射源的偏振度有一定的作用。偏振的形式可以为 $p \\propto$ $e ^ { - \\lambda ^ { 4 } }$ ，其中λ是观测波长[3]。法拉第旋转量（RM）可能与磁场拓扑结构有关[4][5]，并存在一种特殊的磁场扭曲效应[6][7]。另外，在近期的研究中，Marscher.A.P等提出了法拉第 RM 中的湍流特性，推导出了一个 $p \\propto e ^ { - 4 / \\zeta }$ 的形式，其中与湍流能级联的指数有关[8]，一些模拟也表明，湍流可能是blazar 偏振变化的一个原因[9]。近年来，综合利用统计相关函数研究了三维各向异性磁流体动力学（MHD)，来说明湍流对偏振随波长变化的影响，也表明可以应用 Lazarian&Pogosyan（2016）给出的MHD 湍流建模结果来分析UMRAO数据库的射电波段的偏振。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文是研究射电波段中的去偏振特性，揭示偏振随波长变化的物理原因。我们收集了UMRAO中2009年9月份到2012年5月份的偏振数据，并通过 $p \\propto a \\lambda ^ { - b }$ 的幂律拟合多波段偏振度，其中 $b$ 是拟合参数。就耀变体而言，我们首先验证Lazarian&Pogosyan（2016年）给出的法拉第旋转的物理条件；然后，给出的与波长有关的去偏振特征的物理原因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．样本选择和拟合结果",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一般认为，耀变体的偏振是由相对论电子同步辐射产生的，有单电子同步辐射和集体电子同步辐射之分。由于耀变体的偏振是由大量电子产生的，所以用集体电子同步辐射来研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "耀变体的偏振和去偏振。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由集体电子同步辐射，电子的谱发射率[10]为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { j ( v ) = S ( v ) \\int N ( \\gamma , \\theta ) d \\gamma d \\Omega _ { \\theta } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\Omega _ { \\theta } = 2 \\pi s \\mathrm { i n } \\theta d \\theta , N ( \\gamma , \\theta )$ 是电子能谱， $S ( \\nu )$ 是单相对论电子同步辐射谱。通常取γ为 $| \\gamma _ { 1 } \\leq$ $\\gamma \\leq \\gamma _ { 2 }$ 。电子能谱服从幂率分布 $\\begin{array} { r } { N ( \\gamma , \\Theta ) = \\frac { 1 } { 4 \\pi } N _ { \\gamma } \\gamma ^ { - n } \\mathbf { g } ( \\Theta ) } \\end{array}$ ， $n$ 为电子的能谱指数， $\\mathbf { g } ( \\boldsymbol { \\theta } )$ 为在0方向上的电子分布函数。则集体电子同步辐射产生的偏振度为:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P = \\frac { j ^ { 2 } - j ^ { 1 } } { j ^ { 2 } + j ^ { 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "若频率满足 $\\mathsf { v } ( \\gamma _ { 1 } ) \\ll \\mathsf { v } \\ll \\mathsf { v } ( \\gamma _ { 2 } )$ ，则集体电子同步辐射的偏振度为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textstyle P = { \\frac { n + 1 } { n + 7 / 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "耀变体的连续谱通常满足 $\\boldsymbol { F _ { \\mathrm { v } } } \\propto \\boldsymbol { v } ^ { - \\alpha }$ ， $\\alpha$ 为谱指数，所以， $n$ 和 $\\alpha$ 的关系为 $n = 2 \\alpha + 1$ 。因此耀变体的偏振度可表示为[2]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textstyle P = { \\frac { \\alpha + 1 } { \\alpha + 5 / 3 } } $ (4）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可看出，耀变体的偏振度与频率（波长）无关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上只针对于均匀辐射源，而耀变体一般是非均匀发射源的。Ballard 等人[1提出了一种来估算不均匀源的偏振，其表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P ( \\mathbf { v } ) = \\Pi ( \\mathbf { v } ) \\frac { \\alpha ( \\mathbf { v } ) + 1 } { \\alpha ( \\mathbf { v } ) + 5 / 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中I(v)表示磁场有序度，由磁场的几何性质决定。（5）式中可以看出，偏振度与频率（波长）有关，偏振度是随波长变化而变化的WDP（wavelength dependence polarization）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产生WDP的原因，即产生II(v)的原因，解释有多种，磁场湍流也会对偏振产生一定的影响（去偏振的内部原因)。产生WDP行为的原因有两种：（1）热辐射和同步辐射混合作用，使得产生WDP 行为；（2）同步辐射中本来就存在WDP 行为[12]。耀变体的谱指数 $\\alpha$ 一般在0到2之间，对应于（4）式的偏振度为 $60 \\%$ 到 $82 \\%$ 。然而实际测得的射电波段的偏振度一般低于 $10 \\%$ ，则 $\\Pi ( \\nu )$ 起到了主要的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lazarian 和Pogosyan[13]分别讨论了法拉第旋转主导和湍流主导下对偏振的影响，偏振随波长的变化：（1）在法拉第旋转主导下，偏振随波长变化的关系为 $p ( \\lambda ) \\propto \\lambda ^ { - 1 / 2 }$ 或者 $p ( \\lambda ) \\propto$ $\\lambda ^ { ( - 1 - m ) / 2 }$ ；（2）在湍流主导下，偏振随波长的变化关系为 $p ( \\lambda ) \\propto \\lambda ^ { ( - 1 + m ) / 2 }$ 或者 $p ( \\lambda ) \\propto$ （204号$\\lambda ^ { ( - 1 - m ) / ( 2 - m _ { \\phi } ) }$ ，其中 ${ m , m _ { \\phi } }$ 分别对应于湍流的能谱指数和法拉第 RM 的能谱指数，偏振随波长变化的关系服从幂率形式。在文献[14]中用 $p = a \\lambda ^ { - b }$ 来拟合数据，我们仍采用此形式来拟合UMRAO数据库中的射电数据，得到不同源对应的 $b$ 值，再得到与之相对应的 $m$ 值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果我们假定 $m _ { \\phi } = 0$ ，则湍流主导与法拉第旋转主导下的偏振随波长变化保持一致 $p ( \\lambda ) \\propto \\lambda ^ { ( - 1 - m ) / 2 }$ ； $m _ { \\phi } > 1$ 的效果与 $m _ { \\phi } = 1$ 的效果一致，则取 $m _ { \\phi } = 1 ^ { [ 1 3 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在选取样本时，由于不同探测器之间的不协调性，我们只选取了UMRAO(https://dept.astro.lsa.umich.edu/datasets/umrao.php）数据库的 $4 . 8 \\mathrm { G H z }$ 、8GHz、14.5GHz 偏振数据，且只选了2009年9月份到2012年5月份的偏振数据。在众多AGN源中，我们只选取利于研究的22个耀变体源，在选取的22个耀变体源的数据中，观测的平均周期为1天，且2009年9月份到2012年5月份没有表现出激烈的爆发。由于三个波段的偏振数据不是准同时性的，且为了研究的方便，我们对它们的偏振和误差分别求平均值，得到3个数据点。在进行幂率拟合时，3个数据点足以说明幂率情况，拟合具有可行性。UMRAO数据库的数据来源于NOEMA射电望远镜观测的数据，其主要目的是用于校准其他射电望远镜获得的数据，且其中的线偏振为部分线偏振，数据库仅包含每日观测的偏振度 $\\mathrm { P } { > } 3$ sigmaP 的数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/922db2d5477bb512b86a7426a3d1e35f3708ea95fe73aab44b1f65a6e358c573.jpg",
+        "img_caption": [
+            "Fig.1Fitting power factor of blazars source for $\\scriptstyle \\log ( 0$ ,where the horizontal axis is the wavelength and the vertical axis is the polarization degree. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/11cacbd29cf6a50bcec6c4322416a48c830e73a0052fd6afae8d7b1671366b9e.jpg",
+        "img_caption": [
+            "图1 $\\scriptstyle \\log ( 0$ 时的耀变体幂率拟合情况，横轴为波长，纵轴为偏振度"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可以看出b值小于0，偏振度随波长而降低 $d p / d \\lambda > 0$ ，表现出反常去偏振。很难用 MHD 湍流和法拉第旋转简单的来解释产生 $d p / d \\lambda > 0$ 的物理机制。反常的去偏振特性，即偏振随波长变长而增加，在文献[14]的文章中，光学波段表现的很少，而本文的射电波段却有相对较多的表现，大约占耀变体源的 $2 7 \\%$ ，接近1/3。这种现象大致意味着大约有1/3的耀变体喷流中，吸积盘的内部的偏振比外围的偏振低，相当于外围磁场强，越靠内磁场越弱，这是很反常的。这种反常，说明很有可能这些1/3的耀变体的吸积盘或喷流中的磁场发生了扭曲。这种扭曲使得常规的同步辐射和MHD 模型中的磁场在数据结果中与预测的不一致，究其原因，我们认为有可能是湍动磁重联造成的。即导致了磁场拓扑结构发生改变，将磁能转化为等离子体的动能和热能，并加速等离子体中的部分带电粒子，吸积盘内的磁场一部分被耗散掉，耗散的磁场转化为等离子体的动能和热能，并加速等离子体中的部分粒子，使得盘内磁场减小，小到低于外围磁场强度。最后形成热辐射与同步辐射相混合，进而反常法拉第旋光起主导作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f83a037e99bbfe547eb9ccf3e3fc97afe291c7bcebd0eb05354a71ea6d29017e.jpg",
+        "img_caption": [
+            "图2 ${ \\mathsf { b } } { \\mathsf { > } } 0$ 时的耀变体源幂率拟合情况，横轴为波长，纵轴为偏振度"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2blazars source power law fitting for ${ \\mathsf { b } } { \\mathsf { > } } 0$ ,where the horizontal axis is the wavelength and the vertical axis is the polarization ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "degree. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2给出了 $ { \\mathbf { b } } { > } 0$ 的情况。有14个耀变体源。偏振度随波长而增大 $d p / d \\lambda < 0$ ，表现出常规去偏振。大致表明在这些耀变体喷流中，吸积盘的内部的偏振比外围的偏振高，外围磁场弱，越靠内磁场越强，服从同步辐射的磁场特性。这种情况大约占 $70 \\%$ ，属于大多数情况。当观测波段小于吸积盘热辐射所对应的维恩波长（热辐射的最大波长）时，高频波段的偏振度就大于低频波段的偏振度，与参考文献[17]中光学波段所预测的一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.3 Distribution of b values. ",
+            "图4每个耀变体源的b值情况。其中 ${ \\bf { b } } { > } 0$ ，代表 $d p /$ $d \\lambda < 0$ . $\\scriptstyle \\log ( 0 .$ 代表 $d p / d \\lambda > 0$ 0Fig.4b-values for each blazar source.Where ${ \\mathsf { b } } { \\mathsf { > } } 0$ 5stands for $d p / d \\lambda < 0$ $\\scriptstyle \\log ( 0$ ,stands for $d p / d \\lambda > 0$ #"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 0.90 0.80 4 μlu Jaqunu Gn [ea D FI -0.20 -0.30 -0.40 -0.50 -0.60 2 114 -0.60 u 0 3 O 3 O fOR CcCor G CBLLCEA -0.40 -0.20 0.00 0.20 0.40 0.60 0.80 5 &U 287) 273279) 103) CA102) b value source name ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3给出了b值的分布直方图，由图可以看出， ${ \\mathsf { b } } { \\mathsf { > } } 0$ 的个数多与 $\\scriptstyle \\mathbf { b < } 0$ 的个数，这表明 $d p /$ $d \\lambda > 0$ 在偏振随波长的变化中起了主导作用。b值大致分布在0到0.8之间，主要集中分布在0到0.4之间,图4表明每个耀变体源b值得分布情况,可以明显看出只有6个源位于 $\\scriptstyle \\log \\log ($ 其余的都是 ${ \\mathsf { b } } { \\mathsf { > } } 0$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e3574f770e30aafd2116d1ac5a64b283a874339dd71919832eef3d3d2b36289.jpg",
+        "img_caption": [
+            "图3b值的分布情况。",
+            "图6湍流磁场主导时湍流指数 $\\mathrm { ~ m ~ }$ 的分布情况，每个 $\\mathrm { ~ m ~ }$ 值对应于相应的b值，注意到 $\\scriptstyle { \\mathrm { m = 2 / 3 } }$ 对应于三维各向异性Kolmogorov 谱。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Distribution of the MHD turbulent index m in the turbulent magnetic field.Each value of m is derived from the fitting value of b.We note that $\\mathrm { m } { = } 2 / 3$ corresponds to the three-dimensional anisotropic Kolmogorov scaling. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/09dd224a40c1da5362cdcd7696db3dc1e47ffbfd95595c0574495f75f7ecbd19.jpg",
+        "img_caption": [
+            "图5平均磁场主导时湍流指数m的分布情况，每个m值对应于相应的b值，注意到 $\\scriptstyle { \\mathtt { m } } = 2 / 3$ 对应于三维各向异性Kolmogorov 谱。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1样本拟合结果与FDP特性总结。 Table 1 Summary of sample fit results and FDP characteristics. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fca6e0caedf12e40d2359b1f20ceb9c3f95dd1a7ae4cf8865830978fe78d118.jpg",
+        "table_caption": [
+            "Fig.5Distribution of the MHD turbulent index m in the regular magnetic field dominated case.Each value of $\\mathbf { m }$ is derived from the fitting value of b.We note that $\\mathrm { m } { = } 2 / 3$ corresponds to the three-dimensional anisotropic Kolmogorov scaling. "
+        ],
+        "table_footnote": [
+            "注： $\\mathfrak { m } _ { \\mathrm { R } }$ 表示在平均磁场占优情况下得到的MHD 湍流指数， $\\mathbf { m } _ { \\mathrm { T } }$ 表示在湍流磁场占优情况下得到的 MHD 湍流指数。（#)代表dp/$d \\lambda > 0$ 的耀变体源。"
+        ],
+        "table_body": "<html><body><table><tr><td>Name</td><td>Type</td><td>Redshift</td><td>b</td><td>mR</td><td>mT</td></tr><tr><td>0133+476 (DA 55)</td><td>BL Lac</td><td>0.859</td><td>0.10±0.12</td><td>0.79</td><td>0.90</td></tr><tr><td>0215+015 (OD 026)</td><td>BL Lac</td><td>1.715</td><td>0.37±0.07</td><td>0.26</td><td>0.63</td></tr><tr><td>0235+164</td><td>BL Lac</td><td>0.940</td><td>-0.47±0.49#</td><td>1.94</td><td>1.47</td></tr><tr><td>0316+413 (3C 84)</td><td>Blazar</td><td>0.01756</td><td>-0.27±0.03#</td><td>1.54</td><td>1.27</td></tr><tr><td>0528+134</td><td>BL Lac</td><td>2.070</td><td>-0.09±0.18#</td><td>1.18</td><td>1.09</td></tr><tr><td>0716+714</td><td>BL Lac</td><td>0.300</td><td>0.38±0.41</td><td>0.25</td><td>0.62</td></tr><tr><td>0727-115</td><td>BL Lac</td><td>1.591</td><td>0.22±0.29</td><td>0.56</td><td>0.78</td></tr><tr><td>0851+202 (OJ287)</td><td>BL Lac</td><td>0.306</td><td>0.73±0.35</td><td>-0.45</td><td>0.27</td></tr><tr><td>1127-145</td><td>BL Lac</td><td>1.18906</td><td>-0.47±0.18#</td><td>1.94</td><td>1.47</td></tr><tr><td>1226+023 (3C 273)</td><td>BL Lac</td><td>0.158</td><td>0.34±0.31</td><td>0.31</td><td>0.66</td></tr><tr><td>1253-055 (3C 279)</td><td>Blazar</td><td>0.53620</td><td>-0.40±0.05#</td><td>1.79</td><td>1.40</td></tr><tr><td>1308+326</td><td>BL Lac</td><td>0.996</td><td>0.03±0.02</td><td>0.95</td><td>0.97</td></tr><tr><td>1502+106 (OR 103)</td><td>BL Lac</td><td>1.83928</td><td>0.53±0.39</td><td>-0.06</td><td>0.47</td></tr><tr><td>1510-089</td><td>Blazar</td><td>0.361</td><td>-0.16±0.31#</td><td>1.31</td><td>1.16</td></tr><tr><td>1633+382 (4C+38.41)</td><td>Blazar</td><td>1.81313</td><td>0.29±0.27</td><td>0.41</td><td>0.71</td></tr><tr><td>1641+399 (3C 345)</td><td>Blazar</td><td>0.59476</td><td>0.05±0.14</td><td>0.90</td><td>0.95</td></tr><tr><td>1749+096 (OT 081)</td><td>BL Lac</td><td>0.322</td><td>0.19±0.08</td><td>0.62</td><td>0.81</td></tr><tr><td>2022-077</td><td>BL Lac</td><td>1.388000</td><td>0.37±0.42</td><td>0.25</td><td>0.63</td></tr><tr><td>2200+420 (BL LAC)</td><td>BL Lac</td><td>0.069</td><td>0.08±0.00</td><td>0.84</td><td>0.92</td></tr><tr><td>2230+114 (CTA 102)</td><td>BL Lac</td><td>1.037</td><td>0.16±0.15</td><td>0.68</td><td>0.84</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可看出，平均磁场主导时湍流指数 $\\mathrm { ~ m ~ }$ 的分布情况,b值所对应的 $\\mathrm { ~ m ~ }$ 值分布直方图。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图6，湍流磁场主导时湍流指数 $\\mathrm { ~ m ~ }$ 的分布情况，b值所对应的 $\\mathrm { ~ m ~ }$ 值分布直方图。看起来观测样本的拟合结果与平均磁场主导（法拉第旋转占优）情况和湍流磁场主导（法拉第旋转占优）情况大致一致。表1中，我们列出了每个源偏振观测的结果特性，发现OJ287和OR103的 $\\mathfrak { m } _ { \\mathtt { R } }$ 值小于0，这与文献[14]中的结果不符，其原因不尽相同。可能结果是因为数据点的不足，或者是在数据的时间段内偏振变化相对较大，从而导致取数据的平均值误差较大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3．讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在拟合的结果中，有两个源0420-014、0805-077的结果为 $p _ { 0 }$ （偏振随波长变化不明显)。有14个源的 $d p / d \\lambda < 0$ ，6个源 $d p / d \\lambda > 0$ 。耀变体的偏振主要来自同步辐射，但星际介质、吸积盘、宽线区等也会对偏振造成一定的影响。在本文中，我们只考虑磁场湍流和法拉第旋光的影响，并忽略了以上效应。由于只把电子能谱作为简单的幂率形式，所以内秉偏振度与波长无关，对结果无影响。我们观察到样本中 $d p / d \\lambda < 0$ 的去偏振特性，也注意到表1中列出了一些 $d p / d \\lambda > 0$ 的情况，很难应用MHD 湍流和法拉第旋转来解释产生 $d p / d \\lambda > 0$ 的物理机制，应用反常的去偏振特性，即偏振随波长变长而增加，扭曲的磁场可以减少反常的法拉第旋转效应[15]。因此， $d p / d \\lambda > 0$ 的去偏振情况是可以发生的。最近，在一些耀变体喷流中发现了常规去偏振 $( d p / d \\lambda < 0$ ）和反常去偏振 $( d p / d \\lambda > 0 )$ ）特性[16]。反常去偏振的耀变体源中反常法拉第旋光起主导作用，反常去偏振相对较少。本文样品中得到的去偏振情况，表明了喷流中偏振的特性：热辐射与同步辐射混合后，高频波段的偏振度就小于低频波段的偏振度（反常去偏振)；当观测波段小于吸积盘热辐射所对应的维恩波长（热辐射的最大波长）时，高频波段的偏振度就大于低频波段的偏振度[17]（常规去偏振)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lazarian&Pogosyan 的理论分析表明，法拉第旋转波动来自各向异性MHD 湍流。我们在耀变体样品中的拟合统计结果表明，射电波段的去偏振大致服从Kolmogorov谱。去偏振和相关的湍流特性，表明了不同耀变体源的偏振多样性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对某一耀变体而言，不同波长的射电偏振并不是在时间上同步或准同步观测得到的，那么，本文的分析和结果以及物理依据不是很合适的。另外，在本文中可以看到，样本中大部分耀变体，不同波长的偏振度变化幅度并不大，数据只有三个波段，波段范围也很窄，不利于拟合和分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "文章中提到的有关磁场湍流和磁场有序度II(v)，我们将在接下来的文章中进一步研究。II(v)和湍流对磁场起到的具体作用及物理机制，有着重要的研究价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：表一中列举的源的类型，期初由于对SIMBAD数据库的不熟悉，从而导致了对源的分类的误判，对审稿人造成的误解和麻烦，我们深表歉意。在今后的学习中，我们会熟悉数据库的使用，不会再出现如此类似的错误。由此，我们再次深表抱歉。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢编辑和审稿人对我们稿件“耀变体在射电波段的偏振研究”提供的意见。这些意见对我们进行论文修改和提高论文质量非常有帮助。我们根据审稿人的意见对论文做了仔细修改。在今后的学习中，我会广读文献来加强自己知识点的不足。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Urry CM,PadovaniP.Unified SchemesforRadio-LoudActiveGalactic Nuclei[J].PublicationsoftheAstronomical Society of the Pacific,1995,107(715):803-845.   \n[2] Bjornsson CI,Blumenthal GR.Spectral polarization propertiesofopticallythinsynchrotronradiation[J].Astrophsical Journal,1982,259(259):805-819.   \n[3] Burn BJ.On the Depolarization of Discrete Radio Sources by Faraday Dispersion[J].Monthly Notices of theRoyal Astronomical Society,1966,133(133):67.   \n[4]Kigure H, Uchida Y,Nakamura M,etal.DitributionofFaradayRotation Measure inJets from ActiveGalacticNuleiI. Predictionfromour Sweeping Magnetic TwistModelforthe WiggledPartsofAGNJetsandTails[J].Astrophysical Journal, 2004,608(1):119-135.   \n[5] HorelluC,FletcherA.Magnetic fieldtomography,helicalmagnetic fieldsandFaradaydepolarization[J].MonthlyNotices of the Royal Astronomical Society,2018,441(3):2049-2057.   \n[6] Sokoloff DD,BykovAA,ShukurovA,etal.DepolarizationandFaradayefects ingalaxies[J].MonthlyNoticesof the Royal Astronomical Society,2010,299(1):189-206.   \n[7]ContopoulosI,Christodoulou DM,KazanasD,etal.TheInvariant Twistof MagneticFields intheRelativistic Jetsof Active Galactic Nuclei[J].Astrophysical Journal, 2009,702(2):L148-L152.   \n[8] Tribble PC.Depolarization of extended radio sources byaforeground Faraday screen[J]. Monthly Notices of the Royal Astronomical Society,1991,250(4):726-736.   \n[9] MarscherAP.Turbulent,Extreme Multi-Zone Model forSimulatingFluxandPolarization VariabilityinBlazars[J]. Astrophysical Journal,2013,780(1):30-38.   \n[10]尤峻汉．天体物理中的辐射机制[M].科学出版社,1983. You Junhan. Radiation Mechanism in Astrophysics[M]. Science Press,1983.   \n[11]BalladKR,MeadARG,BrandPWJL,etal.SimultaneousopticalandIRpolarimetricoservationsofBlazars[J].Lecture Notes in Physics,1989,334:181.   \n[12]Sasada M,Uemura M,Fukazawa Y,etal.Multi-Wavelength hotometricandPolarimetricObservationsof theOutburstof 3C 454.3 in 2009 December[J].Physics,2011,42(5):-.   \n[13]Lazarian A,Pogosyan D.Spectrum and Anisotropyof Turbulence from Mult-Frequency Measurement of Synchrotron Polarization[J].2016,818(2):178.   \n[14]Guo X,MaoJ，Wang J.Can Turbulence Dominate DepolarizationofOptical Blazars?[J].Astrophysical Journal,2017, 843(1):23.   \n[15]SokoloffDD,BykovAA,ShukurovA,etal.DepolarizationandFaradayefects ingalaxies[J].MonthlyNoticesof the Royal Astronomical Society,2010,299(1):189-206.   \n[16]KravchenkoEV,KovalevYY,SokolovskyKV.Parsec-scaleFaradayrotationand polarizationof20activegalactic nuclei jets[J]. Monthly Notices of the Royal Astronomical Society,2017, 467.   \n[17]郭晓通,王建成.耀变体的光学偏振研究进展[J].天文学进展,2018,36(01):45-56. Guo Xiaotong, Wang Jiancheng.Research Advances inOptical PolarizationofBlazar[J].Progressinastronomy2018,36(01): 45-56. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "PolarizationStudy of Blazar in Radio frequency band ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Xu Xiaolin,ZhangHaojing,Yi Tingfeng,Zhang Yan, Yu ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lian,LiFuting,RenGuowei,WuYuecheng,Zhang Xiongt (College ofPhysicsandElectronics,YunnanNormalUniversityKunming 65o5oo,China,Email:kmzhanghj@63.com) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this paper, the polarization data of 22 ray sources in UMRAO database are used to analyze thechange of polarization with wavelengthin the radiofrequency bandonblazars,according to the theoretical model of Lazarian & Pogosyan. The cause of the change ofpolarizationwith wavelengthaboutdifferent class of blazars.The results show that it is in good agreement with the theoretical model of Lazarian & Pogosyan.From this,we conclude that:（1） the anomalous Faraday rotation in the anomalous depolarization source is dominant, and the anomalous depolarization is relatively smal;(2) when the combination of thermal radiation and synchrotron radiation， the degree of polarization in the high frequency band is less than the of polarizationdegree in the low frequency band (abnormal depolarization); (3) when the wavelength of the observed frequencyband is smaller than the Wien wavelength of the thermal radiation of the accretion disk， the polarizationdegree of the high frequency band is greater than the polarizationdegree of the low frequency band (conventional depolarization). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Blazar; Radio frequency band; Polarization; Faraday rotation; MHD ",
+        "page_idx": 8
+    }
+]

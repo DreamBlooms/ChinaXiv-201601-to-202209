@@ -1,0 +1,409 @@
+[
+    {
+        "type": "text",
+        "text": "Explorations of the Top Quark Forward-Backward Asymmetry at the Tevatron ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jing Shu $a$ ,\\* Tim M.P. Tait $\\boldsymbol { b }$ ,t and Kai Wang αt   \n（204 $a$ Institute for the Physics and Mathematics of the Universe,   \nThe University of Tokyo， Chiba 277 - 8568， Japan   \n（204号 $\\boldsymbol { b }$ Department of Physics and Astronomy,   \nUniversity of California， Irvine, CA 92697   \n(Dated: November 17, 2009)   \nAbstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We consider the recent measurement of the top quark forward-backward asymmetry at the Fermilab Tevatron，which shows a discrepancy of slightly more than $2 \\sigma$ compared to the SM prediction. We find that $t$ -channel exchange of a color sextet or triplet scalar particle can explain the measurement,while leaving the cross section for $t t$ production within measured uncertainties. Such particles have good discovery prospects by study of the kinematic structure of $t t +$ jets at the LHC. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The huge mass of the top quark, the only Standard Model (SM) fermion whose mass lies at the electroweak scale, may be a clue that the top is special in some way, perhaps serving as a portal to the physics of electroweak symmetry-breaking. Thanks to the wealth of data from the Tevatron, the existence of top is well-established,and fundamental measurements such as its mass have become routine. Interest now turns to more subtle properties, including the characteristics of its production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently， both the CDF and DO collaborations have measured the forward-backward asymmetry of the top quark, $A _ { F B } ^ { t }$ [1,2,3]. The most recent is by CDF based on a data sample of 3.2 fb $^ - 1$ [1], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { F B } ^ { t } = 0 . 1 9 3 \\pm 0 . 0 6 5 \\mathrm { _ { s t a t . } } \\pm 0 . 0 2 4 \\mathrm { _ { s y s t . } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in the $p p$ rest frame (with $m _ { t } = 1 7 5$ GeV). Combined in quadrature, the over-all measure ment is $A _ { F B } ^ { t } = 0 . 1 9 3 \\pm 0 . 0 6 9$ . This is to be compared with the best theoretical predictions for $A _ { F B } ^ { t }$ in the SM [4, 5, 6], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal A } _ { F B } ^ { t ~ ( S M ) } = 0 . 0 5 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which in the SM is dominantly produced by one-loop corrections from the strong force, with a smaller contribution from electroweak $t t$ production. It further appears to be stable with respect to corrections from QCD threshold resummation [7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This is an interesting measurement for a number of reasons. First,and most obviously, the measurement is slightly more than $2 \\sigma$ away from the SM prediction. While the discrepancy could be simply statistics, it is large enough,and consistent (within reasonably large error bars)with the DO and previous CDF measurements. Second, this discrepancy is the latest in a series of measurements of heavy quark asymmetries (starting with $A _ { F B } ^ { b }$ and $A _ { F B } ^ { c }$ at LEP and SLC) to show a discrepancy, raising the question: is this an unrelated effect，or part of a bigger picture? Finally, this measurement involves the heavy top quark and at very high momentum transfer, both of which suggest it may be particularly sensitive to physics beyond the Standard Model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Such a large enhancement of $A _ { F B } ^ { t }$ is a challenge for physics beyond the Standard Model. Measurements of the $t t$ inclusive cross section [8, 9], currently dominated by the 4.6 fb $^ - 1$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CDF result ( $m _ { t } = 1 7 2 . 5$ GeV), ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { t \\bar { t } } = 7 . 5 0 \\pm 0 . 3 1 _ { \\mathrm { s t a t } } \\pm 0 . 3 4 _ { \\mathrm { s y s t } } \\pm 0 . 1 5 _ { \\mathrm { t h } } \\mathrm { p b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(combining errors in quadrature, $\\sigma ^ { e x p } = 7 . 5 0 \\pm 0 . 4 8$ pb） is in agreement with SM theory predictions of $\\sigma = 7 . 5 _ { - 0 . 7 } ^ { + 0 . 5 }$ [10, 11, 12]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $t t$ invariant mass distribution appears to fall off as expected for large invariant masses [13, 14]. Any theory which attempts to \"fx” the value of $A _ { F B } ^ { t }$ must do so without introducing large corrections to either the cross section or the invariant mass distribution which are inconsistent with those measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Ref. [15], it was argued that a $t$ -channel vector boson exchange with flavor-violating couplings to right-handed up-type quarks can satisfy all of these criteria. A $t$ -channel exchange avoids resonant behavior, and thus does not lead to large features in the invariant mass distribution for a light particle,and allows a relatively larger forward-backward asymmetry compared to $s$ -channel exchange [16,17, 18,19, 20,21]. In this article,we explore new scalar bosons (in a variety of $S U ( 3 ) _ { c }$ representations) which couple in a favor-violating way to up quarks and the top quark,and explore the possibility that they can explain the measurement of $A _ { F B } ^ { t }$ while remaining consistent with all other measurements. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II. EFFECTIVETHEORIES ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SM $S U ( 3 ) _ { c } \\times S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ gauge structure severely limits the possible representations of any scalar particle which can couple an up quark to the top quark. The various possibilities may be distinguished by the $S U ( 3 ) _ { c }$ representation of $\\phi$ .The possible cases include a color octet,a color singlet,a color triplet,and a color sextet, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 8 , 2 ) _ { - 1 / 2 } , ~ ( 1 , 2 ) _ { - 1 / 2 } , ~ ( \\bar { 3 } , 1 ) _ { 4 / 3 } , ~ ( 6 , 1 ) _ { 4 / 3 } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All of these possibilities require that $\\phi$ is complex. We could also explore $( 6 , 3 ) _ { 1 / 3 }$ and $( 3 , 3 ) _ { 1 / 3 }$ representations, but these objects have couplings to left-handed quarks which are (somewhat） related to CKM elements,and thus have more potential to lead to strong constraints from flavor observables. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To describe the scalar,we add terms (after electroweak symmetry-breaking) to the SM Lagrangian such as, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } _ { \\phi } = D _ { \\mu } \\phi ^ { \\dagger } D ^ { \\mu } \\phi - M _ { \\phi } ^ { 2 } | \\phi | ^ { 2 } + \\phi ^ { a } { \\bar { \\hat { t } } } T _ { r } ^ { a } ( y _ { S } + y _ { P } \\gamma _ { 5 } ) u + h . c . ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathcal { D } _ { \\mu } \\phi$ is the appropriate covariant derivative for $\\phi$ depending on its gauge quantum numbers, $M _ { \\phi }$ is the scalar mass and $T _ { r } ^ { u }$ are the $S U ( 3 ) _ { c }$ Clebsch-Gordon coefficients which connect $\\phi ^ { a }$ of color $a$ to the two quarks. For the cases in which $\\phi$ lives in an $S U ( 2 )$ doublet, there will also be couplings between the $S U ( 2 )$ charged partners of the neutral $\\phi$ involving the $b$ and $d$ quarks. $\\hat { t }$ depends on the color representation of $\\phi$ ， ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { t } = \\left\\{ \\begin{array} { l } { { t \\quad \\mathrm { ( o c t e t ~ o r ~ s i n g l e t ) } } } \\\\ { { t ^ { c } \\ : \\mathrm { ( t r i p l e t ~ o r ~ s e x t e t ) } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $t ^ { c } = i \\gamma ^ { 0 } \\gamma ^ { 2 } t$ is the charge conjugate of the top quark. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We have neglected the possibility of a quartic interaction for $\\phi$ (or mixed $\\phi$ Higgs quartic interactions), full $3 \\times 3$ generational coupling to the up-type quarks, and coupling to downtype quarks. All of these may be included without substantially changing our conclusions, although the down-type couplings will in general have strong experimental constraints from flavor-violating observables. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. ASYMMETRY AND CROSS SECTION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The process $u ( p _ { 1 } ) \\ \\bar { u } ( p _ { 2 } )  t ( k _ { 1 } ) \\ t ( k _ { 2 } )$ is described in the SM by the $s$ -channel gluon exchange diagram. In additional, the flavor-violating portion of the $\\phi$ interaction will mediatea $t$ -channel contribution. The differential partonic cross section, summed/averaged over final/initial state spins and colors may be written, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { d \\sigma } { d \\cos \\theta } } = { \\frac { 1 } { 4 } } { \\frac { 1 } { 9 } } { \\frac { \\beta } { 3 2 \\pi s } } \\sum \\vert { \\cal M } \\vert ^ { 2 } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta$ and $\\beta \\equiv \\sqrt { 1 - 4 m _ { t } ^ { 2 } / s }$ are the the scattering angle between the outgoing top and incoming quark and top quark velocity, defined in the partonic center-of-mass frame, and the sum is over the matrix elements $\\mathcal { M }$ for both SM and $\\phi$ contributions. The hadronic cross section is obtained by convolving this cross section with the parton distribution functions (PDFs). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Including both the SM and $\\phi$ contributions, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum \\left| { \\mathcal M } \\right| ^ { 2 } = \\frac { 1 6 g _ { S } ^ { 4 } } { s ^ { 2 } } ( t _ { t } ^ { 2 } + u _ { t } ^ { 2 } + 2 s m _ { t } ^ { 2 } ) + 8 C _ { ( 0 ) } g _ { S } ^ { 2 } y ^ { 2 } \\frac { s m _ { t } ^ { 2 } + t _ { t } ^ { 2 } } { s t _ { \\phi } } + C _ { ( 2 ) } \\frac { 4 y ^ { 4 } t _ { t } ^ { 2 } } { t _ { \\phi } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the tiny up quark mass has been neglected, and $s \\equiv ( p _ { 1 } + p _ { 2 } ) ^ { 2 }$ ， $t \\equiv ( p _ { 1 } - k _ { 1 } ) ^ { 2 }$ ， and $u ~ \\equiv ~ ( p _ { 1 } - k _ { 2 } ) ^ { 2 }$ are the Mandelstam variables. We use a compact notation where ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ec6dfd6448f4f08f7709464685c1155e7db762daa0922de6e827a3db5ad3b7b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Color Factor</td><td>Octet</td><td>Singlet</td><td>Sextet</td><td>Triplet</td></tr><tr><td>C（0)</td><td>-2/3</td><td>4</td><td>1</td><td>1</td></tr><tr><td>C(2)</td><td>2</td><td>9</td><td>3/2</td><td>3/4</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Color factors for a $S U ( 3 )$ octet,singlet, sextet,and triplet object in the $t$ -channel. $C _ { ( 0 ) }$ and $C _ { ( 2 ) }$ stand for the color factor from the $t$ -channel physics interfering with an $s$ -channel gluon exchange and its amplitude squared term,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（20 $t _ { t } \\equiv t - m _ { t } ^ { 2 }$ ， $t _ { \\phi } \\equiv t - M _ { \\phi } ^ { 2 }$ , and so on. The couplings $y _ { S }$ and $y _ { P }$ occur only in the combination （20 $y \\equiv \\sqrt { y _ { S } ^ { 2 } + y _ { P } ^ { 2 } }$ , indicating that at this level our results are the same regardless of the chiral nature of the $\\phi$ coupling. The color factors $C ^ { ( 0 ) }$ and $C ^ { ( 2 ) }$ depend on the color representation of $\\phi$ . They can be found in Table I. The color sextet and triplet cases also require the switch of Mandelstam $u  t$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The dependence on the scattering angle,and thus the potential to contribute to a forwardbackward asymmetry， may be made more clear by working in the partonic center-of-mass frame variables $\\theta$ and $\\beta$ defined above. Using the relations, $u _ { t } = - s ( 1 + c _ { \\theta } ) / 2$ ， $t _ { t } = - s ( 1 -$ （204号 $c _ { \\theta } ) / 2$ ，where $c _ { \\theta } = \\beta \\cos { \\theta }$ for a color octet or singlet $\\phi$ (for a sextet or triplet, the swap $t  u$ （204号 takes $c _ { \\theta }  - c _ { \\theta }$ ),the matrix element becomes, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum \\left| { \\mathcal M } \\right| ^ { 2 } = 8 g _ { S } ^ { 4 } ( 1 + c _ { \\theta } ^ { 2 } + 4 m ^ { 2 } ) + 2 y ^ { 2 } g _ { S } ^ { 2 } C _ { ( 0 ) } s \\frac { ( 1 - c _ { \\theta } ) ^ { 2 } + 4 m ^ { 2 } } { t _ { \\phi } } + y ^ { 4 } C _ { ( 2 ) } \\frac { s ^ { 2 } ( 1 - c _ { \\theta } ) ^ { 2 } } { t _ { \\phi } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m \\equiv m _ { t } / \\sqrt { s }$ . As odd powers of $c _ { \\theta }$ contribute to a forward-backward asymmetry, we see that both the scalar exchange amplitude interfering with the SM amplitude as well as the scalar amplitude squared can produce a nonzero asymmetry. The resulting hadronic asymmetry will be somewhat washed out by the PDFs, higher order jet radiation， and detector effects. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To assess the impact of the scalar exchange on top observables at the Tevatron，we compute the inclusive cross section and $A _ { F B } ^ { t }$ . We do not attempt to simulate the top decays, parton showering, hadronization, or detector efects, as these have already been unfolded in the quoted measurements. Our calculations are performed using a version of MadGraph [22] (with CTEQ6L PDFs [23] and renormalization and factorization scales set to the top mass $\\mu _ { R } = \\mu _ { F } = m _ { t }$ [24]）which has been modified to insert by hand the exotic color factors and fermion-number violating interactions of the form ${ \\psi } _ { i } ^ { { I } ^ { \\prime } } { C } ^ { - 1 } { \\psi } _ { j } \\phi$ . We apply the SM $K$ -factor of （20 $K = 1 . 3 2 9$ to account for higher order QCD corrections. Since most of this $K$ -factor arises from initial state radiation,we assume it will be similar for the new physics,at least close to threshold. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f750b01394ccd17b238b29203cf339d4e0c4cdcaf79597d876e131e6f882f0f.jpg",
+        "img_caption": [
+            "FIG.1: Forward-backward asymmetry (left panel) and $t \\bar { t }$ inclusive cross section (right panel) for color triplet (red curves) and sextet (blue curves) scalars, as a function of the scalar mass $M _ { \\phi }$ for values of the coupling $y = 2 . 0$ (solid curves), $y = 4 . 0$ (dashed curves)，and $y = 6 . 0$ (dotted curves). Also shown are the range of values up to $1 \\sigma$ (yellow region） and $2 \\sigma$ （green region） from the experimental measurements. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Figures 1 and 2 we present the resulting $t t$ cross section and $A _ { F B } ^ { t }$ for the four $\\phi$ $S U ( 3 )$ representations. The experimental measurements discussed above are shown for reference, where we have assumed the NLO QCD and new physics contributions to $A _ { F B } ^ { t }$ will simply add, since both are small corrections to the dominant tree level SM contribution. Examining the figures,it is clear that for both the color sextet and triplet cases,there are large parameter spaces for which the measurement of $A _ { F B } ^ { t }$ can be explained to within $1 \\sigma$ ，and the cross section remains within the experimental errors. In the intermediate region, $A _ { F B } ^ { t }$ arises mainly from the numerator of the $t$ -channel squared term so the color sextet and triplet have the desired sign. A large Yukawa coupling remains consistent with $\\sigma _ { t \\bar { t } }$ because of a cancelation between the interference and scalar exchange squared terms. A detailed scan of the consistent parameter space is shown in figure 3. In contrast, color octet and singlet scalars both have great difficulty realizing a large positive contribution to $A _ { F B } ^ { t }$ ，and only succeed for very low masses which have too large an impact on the cross section,and open the door to further constraints by allowing the decay $t \\to \\phi u$ to take place. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bcec768f584a973a2e26182c81472a9e39a6a21a94b8241413a1e7fc66c6dfc.jpg",
+        "img_caption": [
+            "FIG. 2: Forward-backward asymmetry (left panel) and $t \\bar { t }$ inclusive cross section (right panel） for color singlet (red curves） and octet (blue curves) scalars,as a function of the scalar mass $M _ { \\phi }$ for values of the coupling $y = 1 . 0$ (solid curves), $y = 2 . 0$ (dashed curves） and $y = 3 . 0$ (dotted curves). Also shown are the range of values up to $1 \\sigma$ (yellow region） and $2 \\sigma$ （green region） from the experimental measurements. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Another potentially important constraint results from the invariant mass distribution of the $t t$ pair. This distribution has been measured by CDF [13]( $m _ { t } = 1 7 5$ GeV) and is shown in Figure 4. Also shown is the $t t$ invariant mass distribution for benchmark points of the color sextet and triplet cases,and the SM predictions at the tree level with a constant Kfactor. The modification of the invariant mass distributions for the $t$ -channel scalar exchange shows similar behavior to the one for the vector boson exchange [15, 25],and there is tension between the predictions at the data. However,a flat K-factor is probably overly naive, as the NLO enhancement arises predominantly from processes involving extra radiation which are suppressed at high invariant masses [26], which helps explain the feature that the CDF data are consistently below the SM predictions for $M _ { t \\bar { t } } >$ 400 GeV. Finally, since a genuine NLO calculation for the scalar exchange is beyond the scope of this work, it is hard to derive solid constraints based on the invariant mass distributions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fff988ade7739c5e14e8c48a01e5ca6c57668bb9f99e7888003a8632b84ffda.jpg",
+        "img_caption": [
+            "FIG. 3: The regions of parameter space (in the $M _ { \\phi } \\cdot \\boldsymbol { y }$ plane）which predict both $A _ { F B } ^ { t }$ and $\\sigma _ { t \\bar { t } }$ （204号 consistently within one sigma (yellow region） and two sigma (green region) of the experimental measurements,for color sextet (left panel) and color triplet (right panel) scalars. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/81be895e404646519cddd4e72f7ce2c16c27a1c9ea06e1cc88e194963cb3e9ff.jpg",
+        "img_caption": [
+            "FIG. 4: $t t$ invariant mass distribution for the SM, the theory with a color sextet scalar,and the theory with a color triplet scalar. The sextet ( $M _ { \\phi } = 6 1 0$ GeV, $y \\ = \\ 3 . 6 5$ ）and triplet （ $M _ { \\phi } =$ 410 GeV, $y = 3 . 7 0$ ） benchmark points are within the $1 \\sigma$ of both $A _ { F B } ^ { t }$ and $\\sigma _ { t \\bar { t } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a312d7292fac4b2e3ea77a7c60b2ae5371250c3980640c13e05b6dcc1a48cd1.jpg",
+        "img_caption": [
+            "FIG. 5: Comparison of $t$ -channel excange from models with vector bosons and scalars. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compared to $t$ -channel vector boson exchange,a light scalar produces a much smaller effect on $A _ { F B } ^ { t }$ (see Figure 5). This is because of competition between the spin-correlation and the Rutherfold singularity for the scalar case, which can be seen from the opposite sign of the angular dependence between the numerator and denominator of the t-channel amplitude square term in Eq. (9). One can understand this behavior intuitively (although for a massless top quark) by supposing an initial up quark moves in the positive $z$ -direction, scattering through a $t$ -channel scalar particle to become a top quark. As usual, the zero angular momentum partial wave has the largest component. However, in order to conserve angular momentum along the $z$ -axis,the final top quark(which in the massless limit,has the opposite helicity state） must move in the negative $z$ -direction，and consequently does not receive a Rutherford enhancement. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "IV. CONSTRAINTS AND FURTHER SIGNALS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this section, we discuss the constraints and future collider signals for color sextet and triplet scalars. Including the full $3 \\times 3$ generational structure, the interactions are: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f _ { i j } \\overline { { { u ^ { c } } } } _ { \\alpha i } u _ { \\beta j } \\phi _ { \\alpha \\beta } } } \\\\ { { \\ } } \\\\ { { y _ { i j } \\epsilon _ { \\alpha \\beta \\gamma } \\overline { { { u ^ { c } } } } _ { \\alpha i } u _ { \\beta j } \\phi _ { \\gamma } ^ { \\prime } \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi _ { \\alpha \\beta }$ is the color sextet scalar and $\\phi _ { \\gamma } ^ { \\prime }$ represents the color triplet scalar. The symmetry of the color indices requires, $f _ { i j } = f _ { j i }$ ，or $y _ { i j } = - y _ { j i }$ . Consequently, if the scalar is a color triplet, it cannot couple to the same flavor quarks. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Since we rely on large flavor violation in the colored scalar coupling to the up-type quarks, one may expect the model to sufer from serious constraints from $D ^ { 0 } - \\overline { { D ^ { 0 } } }$ mixing and nonstrange decays as $D \\to \\pi \\pi$ . However, these constraints limit the couplings to charm quarks [27, 28], and not the $\\phi$ u $t$ coupling which is of importance to explain $A _ { F B } ^ { t }$ . Color sextet or triplet scalars are GIM-violating [29]. Consequently， even with suppressed couplings to charm,the left-handed rotation (which enters the CKM matrix) can still induce flavor violation. This motivated our choice to explore the $( 3 , 1 ) _ { 4 / 3 }$ and $( 6 , 1 ) _ { 4 / 3 }$ representations (whose couplings depend on right-handed rotations, disconnected from any SM quantity) in Eq. (4),as opposed to the $( 6 , 3 ) _ { 1 / 3 }$ or $( 3 , 3 ) _ { 1 / 3 }$ representations, whose couplings are connected to CKM elements. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A large $\\phi$ -u- $t$ coupling could potentially contribute to the process $u u  t t$ ，strongly bounded by its production of same-sign dileptons [30]. $t$ -channel exchange would bound the color singlet and octet cases, but the sextet and triplets are also electricall charged, So $t$ -channel exchange does not lead to like-sign top quarks. A color sextet could lead to this process through $s$ -channel exchange, provided $\\phi$ $u$ $u$ and $\\phi$ $t$ $t$ couplings are present and large enough to lead to an appreciable rate, but neither of these couplings need be large for a significant contribution to $A _ { F B } ^ { t }$ （ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "One can search for direct production of $\\phi$ , through partonic reactions such as, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { u + g  \\bar { t } + \\phi } \\\\ & { } & { \\bar { u } + g  t + \\phi ^ { * } } \\\\ & { } & { g + g ( q + \\bar { q } )  \\phi ^ { * } + \\phi , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where the $\\phi$ plus single top rates go through the Yukawa interactions $y$ ，whereas the pair production rate is purely through the strong reaction, and thus depends only on $M _ { \\phi }$ [31]. If $\\phi$ dominantly decays into a ut final state, both processes will contribute to $^ { t t + }$ jets.From Fig. 3,we see that to fit $A _ { F b } ^ { t }$ consistent with $\\sigma _ { t \\bar { t } }$ , one can define benchmark models which satisfy both measurements at $1 \\sigma$ by taking parameters which satisfy, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S e x t e t } : y = { \\frac { M _ { \\phi } } { 2 5 7 \\mathrm { G } e V } } + 1 . 2 8 ;\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T r i p l e t : } ~ y = { \\frac { M _ { \\phi } } { 2 2 8 . 5 7 ~ \\mathrm { G e V } } } + 1 . 8 1 2 5 ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa01a2bb2256c90cd6d4df4cf124be73af857fc2810683ed8677afac4e7218d1.jpg",
+        "img_caption": [
+            "FIG.6: Production of triplet scalars (blue) and sextet scalars (black) in the modes of $\\phi t$ (dashedcurves） and $\\phi \\phi ^ { * }$ (solid curves） at Tevatron(a） and 14 TeV LHC(b） for the benchmark modelsdefined in the text."
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 6, we plot the rate of $\\phi t + \\phi ^ { * } t$ for the benchmark points described in Eq. (16) as well as the $\\phi ^ { * } \\phi$ production rate at Tevatron and 14 TeV LHC. By assuming $\\mathrm { B r } ( \\phi \\to u t ) = 1 0 0 \\%$ . one can estimate the contribution to $t t$ +jets. At Tevatron，the contribution due to $\\phi$ is less than $1 \\%$ of SM production due to phase space suppression. At the 14 TeV LHC, it can reach $\\mathcal { O } ( 1 0 ^ { 2 } )$ pb which is comparable total SM $t t$ rate (800 pb). In the heavy resonace decay $\\phi  u t$ ， there is always a hard-jet associated with the top,and this feature makes it possible to identify the events in the $t t +$ jets sample, for example by taking the hardest jet and pairing it with a reconstructed top to see if there is any sign of a resonance in such events. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "V. OUTLOOK ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The forward-backward asymmetry of top quarks at the Tevatron is interesting, and bears watching. While it is too early to conclude that it is a manifestation of new physics, it has consistently been measured to be large for several years, and continues a general trend of mysterious behavior in the measurements of heavy quark asymmetries. Given the wealth of data we have about the top quark, it is somewhat difficult to produce large effects while remaining consistent with the other measurements. Theories which manage that task thus reveal potential holes in our knowledge of the dynamics of top,and inspire new searches to help us close them. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We have examined models in which a scalar is exchanged in the $t$ -channel, exploring the spectrum of $S U ( 3 )$ representations which may explain the CDF measurement of $A _ { F B } ^ { t }$ while still allowing for a modest enough effect on the $t t$ cross section to remain consistent with the experimental measurements. The result of our exploration is that color sextet and triplet scalars may be able to explain the anomaly, whereas color singlets and octets cannot explain it without running into trouble with other observables. The models that work have relatively strong up-top flavor violating effects,and scalar particles with masses in the range of 400 GeV to a bit less than 1.5 TeV. They can lead to novel signatures that affect the rates and kinematics of $t t + \\mathrm { j }$ ets,and warrant further attention as the Tevatron collects data, and the LHC turns on. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "T Tait is glad to acknowledge conversations with fellow top enthusiast Michael Peskin, and input and harassment from Tilman Plehn. This work was supported by the World Premier International Research Center Initiative (WPI initiative) by MEXT, Japan. The work of J.S. was also supported by the Grant-in-Aid for scientific research (Young Scientists (B) 21740169) from JSPS. T Tait acknowledges the hospitality of the SLAC theory group, where part of this work was completed. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[6] J. H. Kühn and G. Rodrigo, Phys. Rev. D 59, 054017 (1999); Phys. Rev. Lett. 81, 49 (1998).   \n[7] L.G. Almeida，G. Sterman and W. Vogelsang， Phys.Rev. D 78，O14008 (008) [arXiv:0805.1885 [hep-ph].   \n[8] http://www-cdf.fnal.gov/physics/new/top/2009/xsection/ ttbar_combined_46invfb/   \n[9] V.M. Abazov et al. [D0 Collaboration], arXiv:0903.5525 [hep-ex].   \n[10] M. Cacciari, S. Frixione,M. L. Mangano,P. Nason and G. Ridolf, JHEP O809,127 (2008).   \n[11] N. Kidonakis and R. Vogt, Phys. Rev. D 78, 074005 (2008).   \n[12] S. Moch and P. Uwer, Nucl. Phys. Proc. Suppl. 183,75 (2008).   \n[13]T.Aaltonen et al.[CDF Collaboration],Phys.Rev.Lett.102,22003 (2009)[arXiv:0903.2850 [hep-ex]; Phys.Rev. D 77, 051102 (2008) [arXiv:0710.5335 [hep-ex].   \n[14] http://www-d0.fnal.gov/Run2Physics/WWW/results/ prelim/TOP/T83/T83.pdf   \n[15] S. Jung, H. Murayama, A. Pierce and J. D. Wells, arXiv:0907.4112 [hep-ph].   \n[16] G. Rodrigo, PoS RADCOR2007 (2008) 010.   \n[17] P. Ferrario and G. Rodrigo,arXiv:0906.5541 [hep-ph].   \n[18] P. Ferrario and G. Rodrigo, Phys. Rev. D 78, 094018 (2008).   \n[19]M. V. Martynov and A. D. Smirnov,Mod. Phys.Lett. A 24,1897 (2009) [arXiv:0906.4525 [hep-ph]].   \n[20] A. Djouadi, G. Moreau, F. Richard and R. K. Singh,arXiv:0906.0604 [hep-ph].   \n[21] P. H. Frampton, J. Shu and K. Wang, arXiv:0911.2955 [hep-ph].   \n[22] G. C. Cho, K. Hagiwara, J. Kanzaki, T. Plehn, D. Rainwater and T. Stelzer, Phys. Rev. D 73,054002 (2006) [arXiv:hep-ph/0601063].   \n[23] P. M. Nadolsky et al.，Phys. Rev. D 78, 013004 (2008) [arXiv:0802.0007 [hep-ph].   \n[24] [Tevatron Electroweak Working Group and CDF Collaboration and DO Collab], arXiv:0903.2503 [hep-ex].   \n[25] K. Cheung, W. Y. Keung and T. C. Yuan, arXiv:0908.2589 [hep-ph].   \n[26] R. Frederix and F. Maltoni, JHEP 0901, 047 (2009)[arXiv:0712.2355 [hep-ph].   \n[27] R. N. Mohapatra, N. Okada and H. B. Yu, Phys.Rev. D 77, 011701 (2008) [arXiv:0709.1486 [hep-ph]].   \n[28] C. H. Chen, arXiv:0902.2620 [hep-ph].   \n[29] J. M. Arnold, M. Pospelov, M. Trott and M. B. Wise,arXiv:0911.2225 [hep-ph].   \n[30] S.Bar-Shalom，A. Rajaraman, D.Whiteson and F. Yu, Phys.Rev. D 78, 033003 (2008) [arXiv:0803.3795 [hep-ph]]. T. Aaltonen et al. [CDF Collaboration], Phys. Rev. Lett.102, 041801 （2009） [arXiv:0809.4903 [hep-ex]].   \n[31] C. R. Chen，W. Klemm，V. Rentala and K. Wang， Phys.Rev. D 79,054002 (2009) [arXiv:0811.2105 [hep-ph]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

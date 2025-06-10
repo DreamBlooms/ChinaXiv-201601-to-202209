@@ -1,0 +1,360 @@
+[
+    {
+        "type": "text",
+        "text": "Hierarchical responses of soil organic and inorganic carbon dynamics to soil acidification in a dryland agroecosystem, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIN Shaofei1,2.3, TIAN Xiaohong4, WANG Hesong5\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Geography, Ocean College,Minjiang University,Fuzhou 350108,China;   \n2 Institute of Oceanography,Minjiang University,Fuzhou 350108,China;   \n3KeyLaboratoryof WetlandEcologyandEnvironment,Northeast InstituteofGeographyandAgroecology,ChineseAcademy   \nof Sciences, Changchun 130102, China;   \n4 College of Natural Resources and Environment,Northwest A&F University, Yangling 71210o, China;   \n5 College ofForestry,Beijing Forestry University,Beijing 10oo83,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil acidification is a major global issue of sustainable development for ecosystems. The increasing soil acidity induced by excessive nitrogen $\\mathrm { ( N ) }$ fertilization in farmlands has profoundly impacted the soil carbon dynamics.However, the way in which changes in soil $\\mathrm { \\ p H }$ regulating the soil carbon dynamics ina deep soil profile is stillnot well elucidated.In this study,through a 12-year field N fertilization experiment with three N fertilizer treatments (O,12O,and $2 4 0 \\ \\mathrm { k g } \\ \\mathrm { N } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ) )$ in a dryland agroecosystem of China, we explored the soil $\\mathrm { \\ p H }$ changes over a soil profile up to a depth of $2 0 0 ~ \\mathrm { c m }$ and determined the responses of soil organic carbon (SOC) and soil inorganic carbon (SIC) to the changed soil $\\mathrm { \\Delta p H }$ . Using a generalized additive model, we identified the soil depth intervals with the most powerful statistical relationships between changes in soil $\\mathrm { \\Delta p H }$ and soil carbon dynamics.Hierarchical responses of SOC and SIC dynamics to soil acidification were found. The results indicate that the changes in soil $\\mathrm { \\ p H }$ explained the SOC dynamics well by using a non-linear relationship at the soil depth of $ { 0 - 8 0 } ~ \\mathrm { c m }$ $\\scriptstyle ( P = 0 . 0 0 6 )$ ,whereas the changes in soil $\\mathrm { \\ p H }$ were significantly linearly correlated with SIC dynamics at the $1 0 0 { - } 1 8 0 ~ \\mathrm { c m }$ soil depth $\\scriptstyle \\langle P = 0 . 0 1 5 \\rangle$ . After a long-term N fertilization in the experimental field,the soil $\\mathrm { p H }$ value decreased in all three N fertilizer treatments.Furthermore, the declines in soil $\\mathrm { \\ p H }$ in the deep soil layer ( $1 0 0 { - } 2 0 0 ~ \\mathrm { c m } ,$ ）were significantly greater ( $\\scriptstyle \\left( P = 0 . 0 3 5 \\right)$ ）than those in the upper soil layer $\\left( 0 { - } 8 0 \\thinspace \\mathrm { c m } \\right)$ . These results ndicate that soil acidification in the upper soil layer can transfer excess protons to the deep soil layer,and subsequently, the structural heterogeneous responses of SOC and SIC to soil acidification were identified because of different buffer capacities for the SOC and SIC.To better estimate the effects of soil acidification on soil carbon dynamics, we suggest that future investigations for soil acidification should be extended to a deeper soil depth, e.g., $2 0 0 \\ \\mathrm { c m }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil acidification; deep soil; calcium carbonate; generalized additive model (GAM);agroecosystem; soil organic carbon; soil inorganic carbon ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil acidification is a major global threat to the sustainable development of ecosystems (Rengel, 2003). Changes in soil pH can regulate the soil carbon dynamics (Adams and Adams,1983; Andersson et al.,200O; Kemmit et al., 2006; Ahmad et al.,2015) and hence impact the role of soil in carbon sequestration. Soil $\\mathsf { p H }$ impacts the soil organic carbon (SOC） by regulating microbiological processes (Adams and Adams,1983),and also affects the soil inorganic carbon (SIC) via chemical processes (Yang et al.,2012, 2015). Although the global SIC stock contributes equally to what the SOC contributes (Lal,2O04), studies were mainly concentrated on the effects of soil acidification on SOC dynamic because of the insensitivity of soil acidification in calcareous soils with high SIC.For example,the regions with high amounts of carbonates in croplands of China had the low changes in soil $\\mathrm { p H }$ ，while significant acidification was found over the entire agricultural system (Guo et al.,2O1O). Nevertheless, the capacity to bufer soil acidity is undertaken by the loss of SIC(Yang et al.，2O12). Therefore,the integrated potential role of lowing soil $\\mathrm { p H }$ in carbon dynamics can be masked in calcareous soils. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite being a natural process (Bolan et al.,2OO3),soil acidification has been accelerated by the overuse of nitrogen (N) fertilizer over recent decades (Campbell and Zentner, 1984; Bolan et al.,2003; Guo et al., 2010; Meng et al., 2013). Generally, the changes of $\\mathrm { p H }$ in calcareous soils combined with $\\mathbf { N }$ fertilizer application mainly involve three processes: (1) biological processes, including the increasing proton $\\left( \\mathrm { H } ^ { + } \\right)$ ions produced from nitrification (Eq. 1） and the decomposition of soil organic matter caused by soil microorganisms (Eq.2) (Zhao et al.,2016); (2) chemical processes of the decreased $\\mathrm { H ^ { + } }$ ions caused from the dissolution of SIC (Eqs.3 and 4), which might contribute to soil $\\mathrm { C O } _ { 2 }$ emissions (Ramnarine et al.,2012); and (3) physical processes of leaching the dissolved inorganic carbon ions (bicarbonate and carbonate) to the groundwater (Li et al., 2015). Therefore, the reduced soil $\\mathsf { p H }$ induced by $\\mathbf { N }$ fertilizer application can alter the carbon balance in calcareous soils (Yang et al.， 2O12) and will accelerate acidification in soils with low SIC (Yang et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N H } _ { 4 } ^ { + } + 2 \\mathrm { O } _ { 2 }  \\mathrm { N O } _ { 3 } ^ { - } + \\mathrm { H } _ { 2 } \\mathrm { O } + 2 \\mathrm { H } ^ { + } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { O r g a n i c C } \\to \\mathrm { R C O O H } \\to \\mathrm { R C O O ^ { - } } + \\mathrm { H ^ { + } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C a C O } _ { 3 } + \\mathrm { H } _ { 2 } \\mathrm { O } + \\mathrm { C O } _ { 2 }  \\mathrm { C a } ^ { 2 + } + 2 \\mathrm { H C O } _ { 3 } ^ { - } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H C O } _ { 3 } ^ { - } + \\mathrm { H } ^ { + }  \\mathrm { H } _ { 2 } \\mathrm { O } + \\mathrm { C O } _ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two moles of $\\mathrm { H ^ { + } }$ will be produced when one mole of nitrate is produced in the nitrification processes under aerobic conditions (Bolan et al.,2Oo3). In calcareous soils,these protons will be directly neutralized by the SIC when soil $\\mathrm { p H }$ is stable (Guo et al., 201O). Under this supposition, lowering $\\mathrm { \\ p H }$ value in calcareous soils has been proven to lead to a significant decline of soil carbonates in grasslands (Yang et al.,2O12) and in farmlands with long-term fertilization (Shi et al.，2012). Soil $\\mathsf { p H }$ indirectly regulates the SOC dynamics by controlling microbial turnover (Adams and Adams,1983).Meanwhile,both plant-induced and soil-induced carbon processes (carbon assimilation and decomposition of SOC,respectively） can result in a decline of soil $\\mathrm { p H }$ value. Relationships (positive, negative and no interaction) between SOC dynamics and soil pH vary largely in different studies (e.g., Adams and Adams,1983; Andersson et al., 20oo; Kemmitt et al.,2006). Therefore,how the soil $\\mathrm { p H }$ impacts the SOC dynamics still needs to be further evaluated or explored (Karlsson,2013). Furthermore, experiments of lime additions to overcome soil acidification showed that the carbon in limed soil or the SIC willbe released at a short-term interval compared with the carbon derived from the SOC (Adams and Adams,1983). These results implied that the SIC would react firstly to the increase in the protons compared to the SOC. However,if these implications are correct, interpreting why the topsoil can still contain SIC under continuous proton production is an interest and key question. In addition,soil acidification in the topsoil layer can cause acidification in the deep soil layer via the movement of protons (Rengel, 2003; Li et al.,2O16). In calcareous soils,due to lower SOC and higher SIC in the dep soil layer (Li et al., 2OO7; Wu et al., 2O09), the proton input into the deep soil layer can be expected to induce the loss of SIC with the relative stable soil $\\mathrm { p H }$ in the deep soil layer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study,we explored the relationships between changes in soil $\\mathsf { p H }$ and soil carbon dynamics over the soil profile of $0 { - } 2 0 0 ~ \\mathrm { c m }$ through a long-term N fertilization experiment (with crop cultivation) conducted in a dryland agroecosystem, China. We expected that this long-term experiment could regulate the soil $\\mathrm { p H }$ by applying different $\\mathbf { N }$ fertilization levels. If the changes in soil pH can regulate the soil carbon dynamics,after a long-term (12-year period) N fertilizer application，the changes in soil $\\mathrm { p H }$ will be expected to explain the changes in soil carbon dynamics,not the absolute carbon content. Due to the spatial heterogeneity of soil $\\mathsf { p H }$ and soil carbon over the soil profile,a generalized additive model (GAM) was applied to distinguish the responses of SIC and SOC to soil acidification in the soil profile. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Specifically,we tested three hypotheses.The first hypothesis (H1) states that soil $\\mathrm { p H }$ value of the deep soil (mineral layer) would decrease to a greater extent than those of the topsoil and subsoil layer. The second and the third hypotheses are two competing hypotheses.The second hypothesis (H2) is that if the responses of SIC and SOC to soil acidification are homogeneous, then the changes in soil $\\mathrm { p H }$ will have the same effect on SIC and SOC at the same soil depth, e.g., both negative or positive. Alternately, if the responses of SIC and SOC to soil acidification are heterogeneous,for example,more SOC can buffer the effect of increasing acidity (Ritchie and Dolling,1985), then the deep soil layer with lower SOC would lose more SIC than SOC (i.e., the third hypothesis, H3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted at a long-term experimental farmland $( 3 4 ^ { \\circ } 1 7 ^ { \\prime } 4 4 ^ { \\prime } \\mathrm { T }$ ， $1 0 8 ^ { \\circ } 0 4 ^ { \\prime } 1 0 ^ { \\prime \\prime } \\mathrm { E }$ ， $5 2 4 ~ \\mathrm { m }$ a.s.l.)of the Northwest A&F University， Yangling, Shaanxi Province, China.This experimental farmland was established in 2Oo2.This area is situated in a dryland agroecosystem of the Loess Plateau and is characterized by a temperate continental climate with an annual mean temperature of $1 3 ^ { \\circ } \\mathrm { C }$ .The mean annual precipitation is $6 0 0 ~ \\mathrm { { m m } }$ ，with $60 \\%$ of the total precipitation occurring from July to September. The soil classification is the Eum-Orthic Anthrosol in the FAO system (Wang et al., 2014). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was performed as a complete random block design with a total of nine experimental plots( $6 . 6 \\ m \\times 9 . 9 \\ m$ for each plot).A monoculture of winter wheat (Triticum aestivum） was planted in this area from 2002 to 2014. The $\\mathbf { N }$ fertilizer application experiments with three $\\mathbf { N }$ levels (NO, $0 ~ \\mathrm { k g } ~ \\mathrm { N / ( h m ^ { 2 } \\cdot a ) }$ ; N120, $1 2 0 \\mathrm { k g } \\mathrm { N } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ；N240, $2 4 0 \\mathrm { k g } \\mathrm { N } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ) )$ were initiated in October 2002.The three $\\mathbf { N }$ application levels represent the control level (without chemical $\\mathbf { N }$ application),recommended level (the optimal $\\mathbf { N }$ fertilizer application rate after a soil test) and projected level (the level that the farmers may apply in the future),respectively. For each plot,the phosphate fertilizer was applied at a rate of $1 0 0 \\mathrm { \\textrm { k g } } \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } / \\mathrm { h m } ^ { 2 }$ . Superphosphate $( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } \\mathrm { > } 1 6 \\% )$ and urea $( \\mathrm { N } { > } 4 6 \\% )$ were applied as the phosphate and $\\mathbf { N }$ ，respectively. No potash fertilizer was applied. In early October of each year, all fertilizers in each plot were plowed thoroughly to a soil depth of $3 0 \\ \\mathrm { c m }$ .Then,the winter wheat seeds $( 1 5 0 \\mathrm { k g / h m } ^ { 2 } )$ were sown by a machine (after 2OO6), with 3O rows in each plot. All other field managements were folowed the adopted practices locally. Finally, the wheat yield was measured in the mid-June of the following year. The original soil properties at the $0 { - } 2 0 ~ \\mathrm { c m }$ soil depth in 2OO2(before seeding） can be referred to Wang et al. (2O14). Table 1 presents the values of SOC content, SIC content, soil pH and soil bulk density at the depth of $0 { - } 2 0 0 \\ \\mathrm { c m }$ in October 20O2.Briefly，soil samples were collected using a soil auger ( $4 \\ \\mathrm { c m }$ in diameter) at an interval of $2 0 \\ \\mathrm { c m }$ depth. SOC content was measured using wet combustion with $\\mathrm { K } _ { 2 } \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 7 }$ ； SIC content was measured by the manometric collection of $\\mathbf { C O } _ { 2 }$ evolved with an HCl treatment process; soil bulk density was measured using the oven-dry method to the soil mass and the core volume; and soil $\\mathrm { p H }$ was measured using a pH ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "meter (PHS-3C) on a 1:5 soil:water extract. ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/502f1da56582f2804e9946efd0928b689fbb59f9675995c88d67a03aa231b5cd.jpg",
+        "table_caption": [
+            "Table 1 Basic soil properties at the depth of $0 { - } 2 0 0 ~ \\mathrm { c m }$ in 2002 (before seeding) "
+        ],
+        "table_footnote": [
+            "Note: SOC,soil organic carbon; SIC,soil inorganic carbon;BD,bulk density "
+        ],
+        "table_body": "<html><body><table><tr><td>Soil depth (cm)</td><td>SOC content (g/kg)</td><td>SIC content (g/kg)</td><td>Soil pH</td><td>Soil BD (g/cm)</td></tr><tr><td>0-20</td><td>11.76</td><td>10.66</td><td>8.41</td><td>1.21</td></tr><tr><td>20-40</td><td>7.82</td><td>11.55</td><td>8.18</td><td>1.56</td></tr><tr><td>40-60</td><td>4.48</td><td>9.32</td><td>8.58</td><td>1.48</td></tr><tr><td>60-80</td><td>3.71</td><td>5.66</td><td>8.75</td><td>1.43</td></tr><tr><td>80-100</td><td>3.73</td><td>1.45</td><td>8.50</td><td>1.36</td></tr><tr><td>100-120</td><td>4.22</td><td>1.05</td><td>8.81</td><td>1.36</td></tr><tr><td>120-140</td><td>4.02</td><td>1.73</td><td>8.80</td><td>1.36</td></tr><tr><td>140-160</td><td>3.56</td><td>8.51</td><td>8.86</td><td>1.36</td></tr><tr><td>160-180</td><td>2.89</td><td>7.02</td><td>8.86</td><td>1.36</td></tr><tr><td>180-200</td><td>2.67</td><td>22.73</td><td>8.48</td><td>1.36</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Soil sampling and laboratory analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For this study, soil sampling was conducted on 25 June 2O14,i.e.，after $1 0 \\mathrm { ~ d ~ }$ of harvesting. Samples from $0 { - } 2 0 0 ~ \\mathrm { c m }$ depth were collected using a soil auger ( $4 \\mathrm { c m }$ in diameter) at an interval of $2 0 \\ \\mathrm { c m }$ depth. In each plot, three replicate cores were taken from each soil depth and mixed thoroughly as one sample for this depth. Soil samples were then air-dried after removing the roots and other crop residues. The air-dried samples were ground to fully pass through a $2 \\mathrm { - m m }$ sieve. Then,they were divided into three parts. One part was used to measure soil $\\mathrm { p H }$ value using a pH meter (PHS-3C) on a 1:5 soil:water extract; one was used to measure soil carbon after being passed through a $0 . 1 5 \\mathrm { - m m }$ sieve;and the last one was stored as a validation sample. Soil carbon was measured using multi N/C 21OO (Analytik Jean, AG, Germany) at the Institute of East China Sea Fishery Research, Chinese Academy of Fishery Sciences.For soil total carbon (STC),10-20 mg of soil sample was combusted directly. For SOC, soil samples were reacted with $10 \\%$ HCl to remove the carbonate and were then combusted thoroughly. The difference between STC and SOC was calculated as the SIC.Next, the carbon stock $( \\mathrm { k g } / \\mathrm { m } ^ { 2 } )$ was obtained using the carbon concentration $( { \\mathrm { g } } / { \\mathrm { k g } } )$ , bulk density, and the representing soil depth interval. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data and statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We used a one-way ANOVA to evaluate the effects of long-term N fertilizer application (12 years) on soil pH, SOC, SIC and STC at each soil depth, and a two-way ANOVA to evaluate the effects in relation to soil depths. The significance level was set at O.O5. Furthermore,the changes in soil $\\mathrm { \\ p H }$ ,SOC, SIC and STC during 2O02-2014 were represented using boxplots for each soil depth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to the occurrence of negative values of the effects of N fertilization on soil carbon and soil $\\mathrm { \\ p H } .$ ，data transformation to explore linear relationships cannot be carried out by using common transformation methods,e.g.， square root or logarithmic transformations. Thus, a generalized additive model (GAM) was applied in this study to investigate the relationships of changes in soil $\\mathrm { p H }$ with changes in SOC and SIC. The GAM uses smoothing curves to illustrate relationships between the response variable and the explanatory variables. In addition, the GAM can also model linear relationships between variables.A general formula for the GAM is shown as follows (Eq. 5): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } { = } a { + } s ( X _ { i } ) { + } \\varepsilon _ { i } \\varepsilon _ { i } { \\sim } N ( 0 , \\delta ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { i }$ represents the soil carbon; $a$ is the intercept of the model; $s ( X _ { i } )$ is the population smoothing function and can represent trends in soil carbon changes along the soil profile with the partial residuals of smoothing; $\\varepsilon _ { i }$ is the error of the model;and $\\delta$ is the standard deviation. This model can also be named as an additive model with one explanatory variable.Then, to explore the responses of soil carbon to the changes in soil $\\mathrm { p H }$ at different soil depths based on H2 and H3,we tested and evaluated all possible sub-models of GAM by comparing the significance of changes in soil $\\mathrm { p H }$ and the explained deviance derived from the corresponding sub-model. Sub-model with a higher explained deviance and a lower $P$ value $( P { < } 0 . 0 5 )$ was considered to be the best model. The ANOVA was run in R base package (R Development Core Team， 2O16). Difference was considered significant at the $P { < } 0 . 0 5$ level. All sub-models were obtained using the mgcv package (Wood, 2O17). Moreover, all figures were plotted using the ggplot2 package (Wickham, 2009). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Changes in soil carbon and soil $\\mathbf { p H }$ over the soil profile ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At each soil depth, there were no significant difference in soil $\\mathrm { p H }$ and soil carbon contents among different $\\mathbf { N }$ fertilizer application levels(Fig.1） and $\\mathbf { N }$ fertilization exhibited no significant effect on both soil $\\mathrm { p H }$ and soil carbon contents (Table 2),after a long-term(12 years) $\\mathbf { N }$ fertilization in the experimental field.However, there was a marginally significant effect of $\\mathbf { N }$ fertilization on soil $\\mathsf { p H }$ in relation to soil depths after the long-term N fertilization ( $\\scriptstyle \\cdot \\ P = 0 . 0 5 8$ ; Table 3).The soil $\\mathrm { p H }$ value decreased in all three $\\mathbf { N }$ fertilizer treatments after the long-term $\\mathbf { N }$ fertilization in the experimental field (Table 3).Although the N fertilization did change the soil carbon stock at the $0 { - } 2 0 0 ~ \\mathrm { c m }$ soil depth, the recommended $\\mathbf { N }$ fertilizer application rate (i.e.,N12O) had the highest SOC stock. Meanwhile, the projected N fertilizer application rate (i.e., N240) had the lowest SIC stock. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2443c1d653a52da195cd9417cdde34816edc2cfa69ab29b8ed6d33d9f7fae3a.jpg",
+        "img_caption": [
+            "Fig.1Vertical distribution of soil $\\mathrm { \\ p H }$ (a),soil organic carbon (SOC) content (b),soil inorganic carbon (SIC) content (c） and soil total carbon(STC) content (d) at the $0 { - } 2 0 0 ~ \\mathrm { c m }$ soil depth in 2014 under three $\\mathbf { N }$ fertilizer application levels.NO,N120 and N240 represent the $\\mathbf { N }$ fertilizer application levels of O,120 and $2 4 0 \\mathrm { k g } \\mathrm { N } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } ) .$ respectively. Error bars indicate the standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3e9af2fe06cf44f52a51d8995f54d63ea5dea1d64ee55098865fe2ef1d4bc06.jpg",
+        "table_caption": [
+            "Table2Effects( $P$ and $F$ values）of long-term(l2 years）N fertilization on soil $\\mathrm { \\ p H }$ ，SOC content and SIC content at each soil depth "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Soil depth (cm)</td><td colspan=\"2\">Soil pH</td><td colspan=\"2\">SOC content</td><td colspan=\"2\">SIC content</td></tr><tr><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td></tr><tr><td>0-20</td><td>0.573</td><td>0.611</td><td>0.359</td><td>1.222</td><td>0.503</td><td>0.772</td></tr><tr><td>20-40</td><td>0.509</td><td>0.757</td><td>0.387</td><td>1.115</td><td>0.086</td><td>3.788</td></tr><tr><td>40-60</td><td>0.145</td><td>2.710</td><td>0.430</td><td>0.974</td><td>0.374</td><td>1.164</td></tr><tr><td>60-80</td><td>0.763</td><td>0.283</td><td>0.359</td><td>1.220</td><td>0.648</td><td>0.467</td></tr><tr><td>80-100</td><td>0.726</td><td>0.338</td><td>0.618</td><td>0.522</td><td>0.078</td><td>4.027</td></tr><tr><td>100-120</td><td>0.131</td><td>2.904</td><td>0.101</td><td>3.435</td><td>0.500</td><td>0.780</td></tr><tr><td>120-140</td><td>0.461</td><td>0.884</td><td>0.895</td><td>0.113</td><td>0.492</td><td>0.799</td></tr><tr><td>140-160</td><td>0.060</td><td>4.658</td><td>0.152</td><td>2.616</td><td>0.662</td><td>0.443</td></tr><tr><td>160-180</td><td>0.104</td><td>3.385</td><td>0.328</td><td>1.352</td><td>0.338</td><td>1.305</td></tr><tr><td>180-200</td><td>0.840</td><td>0.182</td><td>0.670</td><td>0.444</td><td>0.801</td><td>0.235</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f5330cead1d10158da70d6b686c5179e6ed4ac8ba308a526ded4f8d2e5efa3c.jpg",
+        "table_caption": [
+            "Table 3Soil pHchange,soil total carbon (STC) stock,SOC stock and SIC stock after a long-term(12 years) N fertilization "
+        ],
+        "table_footnote": [
+            "Note:NO,N12O and N24O represent the N fertilizer application levels of O,12O and $2 4 0 \\ \\mathrm { k g } \\ \\mathrm { N } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { a } )$ ,respectively. $P$ values were obtained from the one-way ANOVA.Mean±SD; $\\scriptstyle n = 3$ # "
+        ],
+        "table_body": "<html><body><table><tr><td>N fertilization treatment</td><td>Change in soil pH</td><td>STC stock (kg/m²)</td><td>SIC stock (kg/m²)</td><td>SOC stock (kg/m²)</td></tr><tr><td>NO</td><td>-0.38±0.13</td><td>34.02±1.51</td><td>25.10±2.44</td><td>8.92±0.96</td></tr><tr><td>N120</td><td>-0.44±0.14</td><td>33.21±5.92</td><td>22.79±6.16</td><td>10.43±1.42</td></tr><tr><td>N240</td><td>-0.46±0.15</td><td>30.48±2.92</td><td>20.96±3.11</td><td>9.53±0.45</td></tr><tr><td>P</td><td>0.058</td><td>0.544</td><td>0.532</td><td>0.267</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All data were combined to analyze the relationships between changes in soil $\\mathrm { p H }$ and soil carbon dynamics.The soil $\\mathrm { \\ p H }$ decreased significantly (mean change value of $- 0 . 4 3$ ：， $P { < } 0 . 0 0 1 \\$ ）alongthe soil profile after the long-term $\\mathbf { N }$ fertilization.For each soil depth,pronounced acidification was found throughout the soil profile $( 0 { - } 2 0 0 ~ \\mathrm { c m } )$ ,except for the $2 0 { \\ - } 4 0 \\ \\mathrm { c m }$ soil depth (Fig. 2a). The changes in soil $\\mathrm { p H }$ after the long-term $\\mathbf { N }$ fertilization at different soil depths ranged from $- 0 . 6 7$ $( \\pm 0 . 0 4 )$ at the $1 0 0 { - } 1 2 0 ~ \\mathrm { c m }$ soil depth to 0.01 $( \\pm 0 . 0 3 )$ at the $2 0 { - } 4 0 ~ \\mathrm { c m }$ soil depth.In addition, the amplitude of changes in soil $\\mathrm { p H }$ after the long-term N fertilization in the topsoil and subsoil layer （204号 $\\left( 0 { - } 8 0 \\ \\mathrm { c m } \\right)$ was significantly lower $scriptstyle P = 0 . 0 3 5 ,$ ）than that in the deep soil layer $8 0 { - } 2 0 0 ~ \\mathrm { c m } )$ ，with the mean change values of $- 0 . 3 6$ and $- 0 . 4 8$ ，respectively. This suggests that the effects of $\\mathrm { \\bf N }$ fertilization on soil $\\mathrm { p H }$ existed the entire soil profile,with a fast response in the deep soil layer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After the long-term $\\mathsf { N }$ fertilization, decreases in SOC content were found throughout the soil profile $( 0 { - } 2 0 0 ~ \\mathrm { c m } )$ ,except for the $6 0 { - } 1 0 0 \\ \\mathrm { c m }$ soil depth (Fig. 2b). The topsoil layer lost the most SOC (change of $- 4 . 4 \\ ( \\pm 0 . 2 5 ) \\ \\mathrm { g / k g ) }$ . Obvious changes in SIC content were found throughout the soil profile after the long-term $\\mathrm { \\bf N }$ fertilization,except for the $1 8 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil depth (Fig. 2c). Specifically, SIC content was decreased at the $\\scriptstyle 0 - 8 0 \\ c \\mathrm { m }$ soil depth and increased at the $8 0 { - } 1 8 0 ~ \\mathrm { c m }$ soil depth. The net change in STC content showed negative values at the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil depth and positive values at the $1 0 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil depth after the long-term N fertilization (Fig. 2d). Generally speaking,the vertical distribution of changes in soil $\\mathrm { p H }$ was opposite to that of changes in SOC content, while the vertical distribution of changes in SIC and STC contents had similar patterns. This results indicate that potential relationships may exist between soil carbon dynamics and soil acidification. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Relationships between changes in soil $\\mathbf { p H }$ and soil carbon content ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Given the different distribution patterns of changes in soil $\\mathsf { p H }$ and soil carbon content,we investigated whether there are significant relationships between changes in soil $\\mathsf { p H }$ and soil carbon content at different soil depths by comparing their explained deviance and significance value in the sub-models of GAM.The full model comparison is listed in Table 4. The results show that SOC content and SIC content showed different responses to the changes in soil $\\mathsf { p H }$ For the optimal relationship between changes in soil $\\mathrm { p H }$ and SOC content, the changes in soil $\\mathsf { p H }$ at the $\\scriptstyle 0 - 8 0 \\ c \\mathrm { m }$ soil depth explained $5 1 . 3 \\%$ of the changes in SOC content ( $P { = } 0 . 0 0 6$ ; Fig. 3). In contrast, the changes in soil $\\mathrm { p H }$ at the $1 0 0 { - } 1 8 0 \\ \\mathrm { c m }$ soil depth only explained $1 2 . 3 \\%$ of the changes in SOC content ( ${ \\it P } { = } 0 . 3 1 0 )$ . The optimal relationship between changes in soil $\\mathsf { p H }$ and SIC content was found at the $1 0 0 { - } 1 8 0 \\ \\mathrm { c m }$ soil depth (Fig. 3). The changes in soil $\\mathsf { p H }$ at this depth explained $1 6 . 1 \\%$ of the changes in SIC content $P { = } 0 . 0 1 5 )$ . In contrast, the changes in soil $\\mathrm { p H }$ at the $ { 0 - 8 0 }  { \\mathrm { c m } }$ soil depth only explained $5 . 5 \\%$ of the changes in SIC content $\\scriptstyle P = 0 . 4 8 8 ,$ .These results imply that in calcareous soils,soil acidification will mainly regulate the SOC dynamics in the root layer and the SIC dynamics in the deep soil layer. Furthermore,two piecewise trends for the relationship between soil acidification and SOC dynamics were found. Specifically， when the soil $\\mathsf { p H }$ decreased by more than O.2 units, the SOC content would increase significantly; and when the soil $\\mathsf { p H }$ decreased by less than O.2 units, the SOC content would decrease profoundly. For the SIC dynamics,this relationship suggests a nearly linear decline in SIC content with soil acidification. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aba69c3f29fd0582f062ba075dd657d50ffd1d90485ef4282cc6286ef172fa3e.jpg",
+        "img_caption": [
+            "Fig.2 Changes in soil $\\mathrm { \\ p H }$ (a), SOC content (b), SIC content (c) and STC content (d) at the soil depth of 0-200 cm after long-term (12 years)N fertilization.The black dot represents the observed value,the white rhombus represents the mean value of the changes,and the black rhombus represents the outlier.The short black solid line within the boxplot represents the median.The left and right whiskers represent the minimum and maximum values,respectively.The zero reference line canconservatively estimate whether significant differences were detected. Significance was considered at the $P { < } 0 . 0 1$ level when the whiskers overlap with the reference line. The estimated trend of changes along the soil profile is shown as a smoothing curve (with one standard error) in the grey region. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/51816b8cb44530679fc46a9759eef5898bd24faed29595bc93bd73c32d233e4e.jpg",
+        "table_caption": [
+            "Table 4Summary of the $R ^ { 2 }$ ,explained deviance and $P$ values in all sub-models using the generalized additive model "
+        ],
+        "table_footnote": [
+            "Note:aepresentsthat tesoildepthintervalof1O-7cmwasselectedtodescribethebstrelationshipbetweenchangesinsoilpH and SIC;b represents that the soil depth interval of $1 0 { - } 7 0 ~ \\mathrm { c m }$ was selected to describe the best relationship between changes in soil pH and SOC.Ss,the start soil depth of the model; Es,the end soildepth of the model;Dev,explained deviance. "
+        ],
+        "table_body": "<html><body><table><tr><td>Ss (cm)</td><td>Es (cm)</td><td>Carbon type</td><td>R²</td><td>Dev (%)</td><td>P</td><td>Carbon type</td><td>R²</td><td>Dev (%)</td><td>P</td></tr><tr><td>10</td><td>50</td><td>SIC</td><td>0.023</td><td>8.6</td><td>0.517</td><td>SOC</td><td>0.312</td><td>46.2</td><td>0.092</td></tr><tr><td>10</td><td>70</td><td>SIC</td><td>0.014</td><td>5.5</td><td>0.488</td><td>SOCb</td><td>0.405</td><td>51.3</td><td>0.006</td></tr><tr><td>10</td><td>90</td><td>SIC</td><td>0.126</td><td>17.1</td><td>0.090</td><td>SOC</td><td>0.022</td><td>4.4</td><td>0.164</td></tr><tr><td>10</td><td>110</td><td>SIC</td><td>0.004</td><td>3.0</td><td>0.566</td><td>SOC</td><td>0.108</td><td>18.6</td><td>0.175</td></tr><tr><td>10</td><td>130</td><td>SIC</td><td>0.008</td><td>2.5</td><td>0.249</td><td>SOC</td><td>0.133</td><td>20.5</td><td>0.091</td></tr><tr><td>10</td><td>150</td><td>SIC</td><td>0.027</td><td>4.8</td><td>0.244</td><td>SOC</td><td>0.121</td><td>18.2</td><td>0.076</td></tr><tr><td>10</td><td>170</td><td>SIC</td><td>0.034</td><td>5.7</td><td>0.233</td><td>SOC</td><td>0.073</td><td>13.0</td><td>0.202</td></tr><tr><td>30</td><td>70</td><td>SIC</td><td>0.000</td><td>1.7</td><td>0.515</td><td>SOC</td><td>0.053</td><td>9.0</td><td>0.129</td></tr><tr><td>30</td><td>90</td><td>SIC</td><td>0.183</td><td>25.6</td><td>0.076</td><td>SOC</td><td>0.060</td><td>9.7</td><td>0.200</td></tr><tr><td>30</td><td>110</td><td>SIC</td><td>0.010</td><td>4.5</td><td>0.517</td><td>SOC</td><td>0.059</td><td>9.5</td><td>0.189</td></tr><tr><td>30</td><td>130</td><td>SIC</td><td>0.013</td><td>3.7</td><td>0.359</td><td>SOC</td><td>0.021</td><td>4.3</td><td>0.249</td></tr><tr><td>30</td><td>150</td><td>SIC</td><td>0.032</td><td>5.9</td><td>0.255</td><td>SOC</td><td>0.006</td><td>2.2</td><td>0.248</td></tr><tr><td>30</td><td>170</td><td>SIC</td><td>0.052</td><td>7.8</td><td>0.167</td><td>SOC</td><td>0.000</td><td>0.6</td><td>0.515</td></tr><tr><td>50</td><td>90</td><td>SIC</td><td>0.247</td><td>27.6</td><td>0.005</td><td>SOC</td><td>0.000</td><td>1.4</td><td>0.562</td></tr><tr><td>50</td><td>110</td><td>SIC</td><td>0.020</td><td>4.8</td><td>0.197</td><td>SOC</td><td>0.000</td><td>1.7</td><td>0.453</td></tr><tr><td>50</td><td>130</td><td>SIC</td><td>0.000</td><td>2.1</td><td>0.342</td><td>SOC</td><td>0.011</td><td>7.5</td><td>0.714</td></tr><tr><td>50</td><td>150</td><td>SIC</td><td>0.000</td><td>1.1</td><td>0.442</td><td>SOC</td><td>0.000</td><td>0.1</td><td>0.828</td></tr><tr><td>50</td><td>170</td><td>SIC</td><td>0.040</td><td>5.5</td><td>0.064</td><td>SOC</td><td>0.004</td><td>2.8</td><td>0.559</td></tr><tr><td>70</td><td>110</td><td>SIC</td><td>0.037</td><td>8.1</td><td>0.264</td><td>SOC</td><td>0.278</td><td>37.8</td><td>0.067</td></tr><tr><td>70</td><td>130</td><td>SIC</td><td>0.044</td><td>9.2</td><td>0.341</td><td>SOC</td><td>0.202</td><td>29.8</td><td>0.112</td></tr><tr><td>70</td><td>150</td><td>SIC</td><td>0.000</td><td>1.4</td><td>0.435</td><td>SOC</td><td>0.001</td><td>1.3</td><td>0.458</td></tr><tr><td>70</td><td>170</td><td>SIC</td><td>0.052</td><td>7.0</td><td>0.053</td><td>SOC</td><td>0.014</td><td>3.9</td><td>0.374</td></tr><tr><td>90</td><td>130</td><td>SIC</td><td>0.029</td><td>9.6</td><td>0.516</td><td>SOC</td><td>0.293</td><td>41.8</td><td>0.087</td></tr><tr><td>90</td><td>150</td><td>SIC</td><td>0.000</td><td>0.2</td><td>0.798</td><td>SOC</td><td>0.000</td><td>2.6</td><td>0.343</td></tr><tr><td>90</td><td>170</td><td>SIC</td><td>0.020</td><td>4.2</td><td>0.176</td><td>SOC</td><td>0.035</td><td>6.3</td><td>0.221</td></tr><tr><td>110</td><td>150</td><td>SIC</td><td>0.013</td><td>5.1</td><td>0.258</td><td>SOC</td><td>0.359</td><td>45.2</td><td>0.019</td></tr><tr><td>110</td><td>170</td><td>SICa</td><td>0.137</td><td>16.1</td><td>0.015</td><td>SOC</td><td>0.068</td><td>12.3</td><td>0.310</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study,we explored the regulation of soil acidification on soil carbon dynamics over a soil profile of $0 { - } 2 0 0 \\ \\mathrm { c m }$ depth in calcareous soils by manipulating a long-term $\\mathbf { N }$ fertilization experiment.First,we identified that after 12 years of N fertilization, the soil $\\mathrm { p H }$ over the entire soil profile significantly decreased. Then，we evaluated three hypotheses: the first one (H1) emphasizes the differences in the buffering capacity between soil layers with large amounts of SOC and large amounts of SIC; the second one (H2) highlights the homogeneous responses of soil organic and inorganic carbon dynamics to soil acidification; and the third one (H3) notes the hierarchical responses of soil organic and inorganic carbon dynamics to soil acidification. In conclusion, our results supported the first hypothesis (H1) by implying that the abiotic (deep) soil layer with low SOC content would face more acidity than the biotic (upper) soil layer, and also the third hypothesis (H3) by suggesting that the responses of SOC and SIC to soil acidification are proved to be structurally heterogeneous. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Numerous studies have investigated the effects of N fertilization on soil carbon, yet there is no agreement on these effects (Khan et al., 2OO7). Marginal differences in soil $\\mathrm { p H }$ for the effects of N fertilization in our study were similar to the acidification issue on the Loess Plateau, China (Guo et al.,2O1O). These results indicate the buffering of SIC in the study region.Furthermore,our profile data reveal that the deep soil layer had a greater decline in soil $\\mathrm { \\ p H }$ than the topsoil and subsoil layer after the long-term N fertilization.This suggests that soil acidification would occur in the deep soil layer than conventional soil observations (Bolan et al.,2OO3; Rengel,2Oo3; Iwald, 2016).Previous related studies mostly concentrated on soil layers up to $1 0 0 ~ \\mathrm { c m }$ depth (Diaz-Hernandez, 2O1O),a depth that was considered as the root depth for most cereal plants (Canadell et al., 1996; Jackson et al.,1996),or up to $3 0 \\ \\mathrm { c m }$ depth (Richter and Markewitz, 1995; Richter and Billings,2O15; Richter et al.,2O15). As a result,few studies identified the responses of soil carbon in the deep soil layer to acidification in the upper soil layer. The protons created from the topsoil layer can be moved to the deep soil layer along with irrigation and precipitation (Rengel, 2Oo3). Then, the downward movement of protons leads to a decrease of soil $\\mathrm { \\ p H }$ value. Furthermore, this also highly implies the role of SOC (contributing less than $20 \\%$ of the STC) in buffering the soil $\\mathrm { p H }$ in the deep soil layer (Dong et al.,2013). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/24a9b32febbe0b06fb6b077b7e1236b1a17b8d62252888b7c223ad43d34c603d.jpg",
+        "img_caption": [
+            "Fig.3Optimal relationships between changes in soil $\\mathsf { p H }$ and SIC content (a,b) and between changes in soil $\\mathsf { p H }$ and SOC content(c,d) at the O-8O and $1 0 0 { - } 1 8 0 ~ \\mathrm { c m }$ soil depths after model selection.The black solid line represents the spline of the depth,and the grey ribbon represents the $9 5 \\%$ confidence interval of the spline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition,the direct and indirect reaction between soil protons and soil carbon could alter the responses of soil carbon to soil acidification.As expected, there was an almost linear decline in SIC with increasing soil acidity in the deep soil layer in this study.This implies that the loss of SIC would be estimated using a linear function, which is consistent with the empirical regression function in grassands and forests (Yang et al.，2O12, 2015).However,we did not find the relationships between changes in soil $\\mathrm { \\ p H }$ and SIC content in the topsoil and subsoil layer. This suggests that other factors may play significant roles in the loss of SIC in the upper soil profile (Curtin et al.,1998). For example,the dissolution of calcium carbonate due to irrgation can contribute up to $60 \\%$ of $\\mathrm { C O } _ { 2 }$ emissions (Ramnarine et al., 2012; Ahmad et al., 2013). Moreover, the SOC in the regulation of soil $\\mathsf { p H }$ can also play roles in the loss of SIC in the upper soil layer. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,relationships with the high explained deviance were found between changes in soil $\\mathsf { p H }$ and SOC content. This indicates that soil $\\mathsf { p H }$ has comparable roles in the regulation of SOC dynamics. The relationships between changes in soil acidity and SOC still remain controversial: positive relationships (e.g.， this study； Kemmitt et al.， 2Oo6） or negative relationships (Karlsson, 2O13). The reason that leads to the controversial relationships might be induced by the indirect effect of soil acidity on soil carbon dynamics.The regulation of soil $\\mathrm { p H }$ on SOC dynamics can be achieved by controlling the microbial dynamics. Each response during the indirect regulation would affect the ultimate relationships. Moreover, we first applied a nonlinear way to investigate the relationships between changes in soil $\\mathrm { \\ p H }$ and soil carbon dynamic in this study. The profound decline in SOC content at the beginning of soil acidification (soil $\\mathsf { p H }$ of 0.0-0.2) may suggest an interesting interaction of microbial dynamics with the increase in soil acidity. However, we do not have any evidence to explain this pattern currently. Then, following the higher acidity in the topsoil and subsoil layer, the changes in the activities of microbes may cause the accumulation of SOC (Kemmitt et al.,2Oo6). This special relationship highlights that more observations of microbiological responses will be needed in the beginning stage of soil acidification. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, through a 12-year field $\\mathbf { N }$ fertilization experiment in a dryland agroecosystem of China,we explored how the soil carbon responses to the soil $\\mathrm { \\ p H }$ changes over a soil profile up to a depth of $2 0 0 ~ \\mathrm { c m }$ .The high acidification in the deep soil layer（ $( > 1 0 0 ~ \\mathrm { c m }$ depth）remarkably suggests that the effects of soil acidification on soil carbon dynamic can spread from the biological soil layer $\\left( 0 { - } 8 0 ~ \\mathrm { c m } \\right)$ to the mineral soil layer $\\left( > 8 0 \\ \\mathrm { c m } \\right)$ . The mineral soil layer can directly bufer the excess protons by the linear loss of SIC; in contrast, complex processes can buffer the effects of soil acidification in the biological soil layer. Therefore,to beter estimate the comprehensive effects of soil acidification on soil carbon dynamics， we suggest that investigations of soil acidification should be extended to a deeper soil depth,e.g., $2 0 0 ~ \\mathrm { c m }$ ,rather than limited in biological soil depth ( $\\left( < 8 0 \\mathrm { c m } \\right)$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Basic Research Program of China (2O14CB954204)and the National Natural Science Foundation of China (41701099,31770765). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Adams TM,Adams SN.1983.Theeffectsof limingand Soil-pHoncarbonand nitrogencontained inthe soilbiomas.Journal of Agricultural Science,101(3): 553-558.   \nAhmadW,SinghB,DijkstraFA,etal.2Ol3.Inorganicandorganiccrbondynamicsinalimedacidsoilaremediatedbyplants. Soil Biology and Biochemistry,57:549-555.   \nAhmad W,Singh B,DalalR C,etal.2Ol5.Carbon dynamics fromcarbonate dissolutionin Australianagriculturalsoils.Soil Research,53(2):144-153.   \nAndersson S,NilssonSI,SaetreP.o.Leachingofdisovedorganiccarbon (DOC)anddisslvedorganic nitrogen(N)in mor humus as affected by temperature and pH.Soil Biology and Biochemistry,32(1):1-10.   \nBolanN S,Adriano DC，Curtin D.2Oo3.Soil acidification and liming interactionswith nutrientand heavy metal transformation and bioavailability.Advances in Agronomy,78:215-272.   \nCampbell C A, Zentner R P.1984.Effect of fertilizer on soil $\\mathrm { \\ p H }$ after 17 years of continuous cropping in southwestern saskatchewan. Canadian Journal of Soil Science,64(4): 705-710.   \nCanadellJ,JacksonRB,EleringerJR,etal.1996.Maximumrootingdepthofvegetationtypesattheglobalsale.Ocologia 108(4): 583-595.   \nCurtin D,CampbellCA,JalilA.1998.Efects ofacidityonmineralization: pH-dependenceoforganic matermineralization in weakly acidic soils.Soil Biology and Biochemistry,3O(1): 57-64.   \nDiaz-Hernández JL. 2010. Is soil carbon storage underestimated? Chemosphere,80(3): 346-349.   \nDong YJ,Cai M, ZhouJB.2O13.The stocksand characteristicsof organic and inorganiccarbon inLou soil in Yangling, Shaanxi.Journal of Northwest A&F University,41(2):152-158.(in Chinese)   \nGuo JH,LiuXJ,Zhang Y,etal.20l0.SignificantacidificationinmajrChinese croplands.Science,327(5968):1008-1010.   \nIwald J.2016.Acidificationof Swedish forest soils.Licentiate Thesis.Uppsala: Swedish Universityof Agricultural Sciences.   \nJacksonRB,CanadellJ,ElerigerJR,etal996.Aglobalanalysisofrootdistributionsforterestrialiomes.Oecologia, 108(3): 389-411.   \nKarlson T.2O13.Soil carbon,pHand yield development inalong-term humus balance trial. MSc Thesis.Uppsala: Swedish University of Agricultural Sciences.   \nKemmit SJ,WrightD,Goulding KWT,etal.2O6.pHregulationofcarbonand nitrogen dynamicsin twoagriculturalsoils. Soil Biology and Biochemistry,38(5): 898-911.   \nKhanSA,MulvaneyRL,Elsworth TR,ealOo7.Themythofnitrogen fertilzationforsoilcarbonsequestration.Joualof Environmental Quality,36(6): 1821-1832.   \nLal R. 2004. Carbon sequestration in dryland ecosystems. Environmental Management,33(4): 528-544.   \nL S Y,LiHX,Yang CL,etal.016.Ratesofsoilacidificationintaplantatiosndpoiblecauses.Agriculture,Ecostems & Environment,233: 60-66.   \nLi ZP,HanFX,SuY,etal.2Oo7.Assessmentofsoilorganicandcarbonatecarbonstorage inChina.Geoderma,38(1-2): 119-126.   \nMeng HQ,XuMG,LuJL,etal.2O13.SoilpHdynamicsand nitrogen transformationsunderlong-termchemicalertization in four typical Chinese croplands.Journal of Integrative Agriculture,12(11): 2O92-2102.   \nR Development Core Team.2016.R:A language and environment for statistical computing.Vienna:R Foundation for Statistical Computing.   \nRamnarine R,Wagner-Riddle C,Dunfield KE,et al.2O12.Contributions of carbonates to soil $\\mathbf { C O } _ { 2 }$ emissions. Canadian Journal of Soil Science,92(4): 599-607.   \nRengel Z.2O03.Handbook of Soil Acidity.New York: Marcel Dekker,1-496.   \nRichter D D,Markewitz D.1995.How deep is soil? BioScience, 45(9): 600-609.   \nRichterDD,BaconAR,Brecheisen Z,etal.2O15.Soil intheanthropocene.IOPConference Series:EarthandEnvironmental Science,25:012010.   \nRichterDD,Bilings SA.2015.One physical system':Tansley's ecosystemasEarth'scriticalzone.NewPhytologist,06(3): 900-912.   \nRitchieGSP,DolingPJ.1985.Theroleoforganic matter insoilacidification.Australian JournalofSoil Research,23(4): 569-576.   \nShiY,BaumannFMaY,etal.Ol2.OrganicandinorganiccarbointhetopsoiloftheongolianandTibetangralads: patern,control and implications.Biogeosciences,9(6): 2287-2299.   \nWang S,Tian X,LiuT,etal.2O14.Irigation,straw,andnitrogenmanagementbenefitswheat yieldandsoil properties ina dryland agro-ecosystem. Agronomy Journal,106(6): 2193-2201.   \nWickham H.2Oo9.Ggplot2: Elegant Graphics for Data Analysis.New York: Springer,180-185.   \nWood S.2017.Mixed GAM computation vehicle with automatic smoothness estimation.R package versions1.8-22. https://CRAN.Rproject.org/package $$ mgcv.   \nWu H,Guo Z,Gao Q,et al.2oo9.Distributionof soil inorganiccarbon storageand itschangesdue toagricultural landuse activity in China.Agriculture,Ecosystems & Environment,129(4): 413-421.   \nYangYH,JiCJ,Ma WH,et al.2012.Significantsoilacidificationacrossnorthern China's graslands during1980s-2000s. Global Change Biology,18(7): 2292-2300.   \nYang Y H,Li P,He HL,et al.2015.Long-term changes in soil $\\mathsf { p H }$ across major forest ecosystems in China. Geophysical Research Letters,42(3): 933-940. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

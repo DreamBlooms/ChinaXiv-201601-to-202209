@@ -1,0 +1,610 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201607261528 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘国红,刘波,王阶平,朱育菁，车建美，陈倩倩,陈峰.养猪微生物发酵床芽胞杆菌空间分布多样性.生态学报,2017,37（20):6914-6932.LiuGH,LiBgJZueJStialridieioflfermentation bed system for pig rearing.Acta Ecologica Sinica,2017,37(20）:6914-6932.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "养猪微生物发酵床芽胞杆菌空间分布多样性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘国红，刘 波\\*，王阶平，朱育菁,车建美，陈倩倩,陈峥福建省农业科学院农业生物资源研究所，福州350003",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：了解微生物发酵床大栏养猪垫料中的芽胞杆菌多样性和空间分布规律,为微生物发酵床管理、芽胞杆菌新资源挖掘及菌剂开发奠定基础。将发酵床划分为32个方格（4行 $\\times 8$ 列),采用五点取样法获得每个方格的样品。采用可培养法从32 份样品中分离芽胞杆菌菌株,利用16S rRNA 基因序列初步鉴定所分离获得的芽胞杆菌种类。利用聚集度指标和回归分析法,分析芽胞杆菌的样方空间分布型。通过 Shannon-Wiener 多样性指数、Simpson 优势度指数、Hill指数及丰富度指数分析,揭示微生物发酵床中芽胞杆菌的空间分布多样性。从32份样品中共获得芽胞杆菌452株,16S rRNA 基因鉴定结果表明它们分别隶属于芽胞杆菌纲的2个科、8个属、48个种。其中,种类最多的为芽胞杆菌属（Bacilus）,30种;赖氨酸芽胞杆菌属（Lysinibailus），6种;类芽胞杆菌属（Paenibacilus）,5种;短芽胞杆菌属（Brevibacilus）,3种;鸟氨酸芽胞杆菌属（Ornithinibacillus）、大洋芽胞杆菌属（Oceanibacilus）、少盐芽胞杆菌属（Paucisalibacillus）和纤细芽胞杆菌属（Gracibacillus）各1个种。芽胞杆菌种类在发酵床空间分布差异很大,根据其空间出现频次,可分为广分布种类,如地衣芽胞杆菌(Bacillu licheniformis);寡分布种类,如根际芽胞杆菌（B.rhizosphaerae);少分布种类,如弯曲芽胞杆菌（B.flexus）。依据其数量,可分为高含量组优势种群,如地衣芽胞杆菌（B.licheniformis）;中含量组常见种群,耐盐赖氨酸芽胞杆菌（Lysinibacilus halotolerans）;寡含量组寡见种群,如根际芽胞杆菌（B.rhizosphaerae);低含量组偶见种群,如土地芽胞杆菌（B.humi）。空间分布型聚集度和回归分析测定表明,芽胞杆菌在微生物发酵床的分布类型为聚集分布。微生物发酵床垫料中芽胞杆菌种类总含量高达 $4 . 4 1 \\times 1 0 ^ { 8 }$ 个 $\\mathbf { \\chi } _ { \\mathbf { g } } ^ { \\prime }$ ,其种类含量范围为0.01—$9 4 . 1 \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\nabla } ^ { \\prime } \\mathbf { g } ( \\mathbf { \\nabla }$ 均值为 $8 . 9 6 \\times 1 0 ^ { 6 }$ 个/g)，丰富度指数 $( D )$ 、优势度指数（λ）Shannon-Wiener指数 $( H ^ { \\prime } )$ 和均匀度指数 $\\left( J ^ { \\prime } \\right)$ 分别为0.4928、0.2634、1.3589和0.9803,其中香农指数最大的单个芽胞杆菌种类为地衣芽胞杆菌（B.licheniformis）。根据芽胞杆菌种类多样性指数聚类分析，当欧式距离 $\\lambda = 1 7$ 时,可分为高丰富度高含量和低丰富度低含量类型。微生物发酵床的芽胞杆菌种类丰富、数量高，是一个天然的菌剂“发酵罐”,有望直接作为微生物菌剂,应用于土壤改良、作物病害防控、污染治理等领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：芽胞杆菌；微生物发酵床；16SrRNA基因;空间分布;多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatial distribution pattern and community diversity of the Bacillus-like species in a fermentation bed system for pig rearing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Guohong,LIU Bo\\*，WANG Jieping， ZHU Yujing，CHE Jianmei，CHEN Qianqian，CHEN Zhen; Agricultural Bio-ResourcesResearch Institute，FujianAcademy of Agricultural Sciences，Fuzhou 35oo03,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Toprovideafoundationforthe managementof microbialfermentation beds，newresource miningof Bacilus-like species，anddevelopmentof microbialagents，we investigatedthespatial distributionpatternandcommunitydiversityof Bacilus-likespeciesinthelitersofapigon-itersystem.Themicrobialfermentationbedwasdivided into32squareareas of 4 rows $\\times 8$ columns.A sample from each area was obtained using a five-point sampling mode.Bacillus-like bacteria were isolated from the32samples using aculture methodand preliminarilyidentified basedon16SrRNA gene sequences.The spatialdistributionpaternof the Bacillus-likebacteriawasanalyzedusingaconcentrationindexandregresionanalysis. Moreover，the Shannon-Wienerdiversity index，Simpsondominance index，Hill index，andrichnesswereseparately calculatedtoreveal thecommunitystructureanddiversityof the Bacillus-likebacteriainthemicrobialfermentationbed.A total of 452Bacillus-likeisolateswereobtained from the32litersamples，andidentifiedas48speciesbelonging toeight genera and two Families（Bacilaceae and Paenibacillceae）within the Bacilliby16S rRNA gene sequences.The species numbers forthegenera wereasfolows：3OforBacills，sixforLysinibacillus，fiveforPaenibacillus,，threeforBrevibacillus, andone foreachofOrnithinibacills，Oceanobacillus，Paucisalibacills，and Gracilibacillus.There wasalarge difference in thedistrbutionof Bacilus-likespeciesinthefermentationbed.Onthebasisof theiroccurrence frequency,the Bacillus-like species could be discriminatedas the widespread species，including Bacilus licheniformis；sparsely distributedspecies, including B.rhizosphaerae；andrarespecies，including B.flexus.Accordingtotheabundanceofeach species,the Baciluslike species could be clasified intothe high-content dominant populations，including B.licheniformis；medium-content common populations，includingLysinibacilus halotolerans；oligocontentoligopopulations，includingB.rhizosphaerae，and low-content occasional populations，includingB.humi.Theconcentration classandregressonanalysis resultsindicatedthat the spatialdistributionpaternoftheBacilus-likespeciesinthemicrobial fermentationbedwasanagregateddistribution. In the litters，the content range，total content，richness，Simpson index，Shannon-Wiener index，and Pielou's eveness index of the Bacillus-like species were $0 . 0 1 { - } 9 4 . 1 \\times 1 0 ^ { 6 } ~ \\mathrm { c f u / g }$ ， $4 . 4 1 \\times 1 0 ^ { 8 } ~ \\mathrm { { c f u / g } }$ ,0.4928,0.2634,1.3589,and 0.9803, respectively.Moreover，B.licheniformis appeared to have the highest Shannon-Wiener index value.Onthe basis of the diversity index clusteranalysis，allthe Bcilus-likespeciescouldbedivided intoahighrichness highcontent groupand a lowrichnesslowcontent group.The Bacilus-likebacteriacanactivelyinhabit microbialfermentationbedsand haverich speciesandabundantcontents.Thus,the microbial fermentation bedcanbeconsideredasanatural bacterial“fermentation tank,”which is expected tobe directlyusedasa microbial inoculum and aplied in the fields for purposes including soil improvement，crop disease prevention and control，and pollution management. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Bacillus-like species；piggery bedding；16S rRNA gene；spatial distribution； diversity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生猪养殖过程造成严重的环境污染，以福建省为例,2011年生猪存栏1297.80万头，按每天每头猪排放粪尿加冲洗猪栏污水约 $2 5 ~ \\mathrm { k g }$ 计算,全年排污量高达11842.425万t,成为农业面源污染的主要污染源之一[1]近年来,微生物发酵床应用于养猪,采用垫料(椰糠、谷壳、菌糠、锯末等配合)铺垫猪舍,接入微生物菌剂,猪粪尿直排其上,通过微生物原位发酵,分解猪粪、消除臭味,从而实现生猪养殖的零排放,解决养猪污染的问题[2-4]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵床养猪思路最早可以追溯到中国360 年前张履祥辑补《沈氏农书》记载的猪圈垫草饲养方法[5]。现代微生物发酵床养殖研究最早见于日本,1970 年日本建立了第一个以木屑为垫料的发酵床[6],中国香港的 Tiquia 等研究了发教床垫料翻堆的作用[7],德国的 Kaufmann 等研究了育肥猪发酵床猪粪营养平衡[8]。加拿大 Biotech 公司于1985年推出一个以秸秆为垫料的发酵床系统[9],克罗地亚的 Margeta等分析了本国养猪发酵床优缺点及其发展前景[10],波兰的 Knecht 等研究发现发酵床猪舍猪寄生虫病流行低于漏缝地板猪舍[],刘波等设计了 $2 1 0 0 \\mathrm { m } ^ { 2 }$ 的大栏发酵床智能化养猪系统的猪舍[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于发酵床微生物特性研究报道较少,刘波等研究了发酵床微生物群落脂肪酸生物标记多样性[13]。郑雪芳等分析了发酵床垫料微生物亚群落的分化[14]。张学峰等揭示了不同深度发酵床垫料土著稳定微生物菌群[15]。王迪分离鉴定了发酵床的芽胞杆菌（Bacillus）[16]。林莉莉等研究了发酵床猪舍环境与猪体表微生物分布状况[17]。张庆宁从微生物发酵床筛选出了分解猪粪的芽胞杆菌[18]。刘让等筛选芽胞杆菌作为发酵床发酵菌种[19]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵床对猪病具有一定的生防作用,郑雪芳等研究发现微生物发酵床养猪基质垫层形成的稳定微生物群落结构能抑制大肠杆菌特别是致病性大肠杆菌的生长[20]。毕小艳研究了猪用发酵床垫料中微生物动态变化及对猪免疫力的影响[21]。以往的研究表明,芽胞杆菌作为发酵床的优势菌群,具有生长优势强,耐发酵高热,能够产生多种与猪粪降解相关的酶类[18],具有降解猪粪[16]、抑制病原[2]、清除臭味[23]等的作用;随着在发酵床饲养时间的延长,从对应猪分离的大肠杆菌的抗药性逐渐降低[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究发酵床芽胞杆菌特性，了解发酵床芽胞杆菌空间分布多样性,对于研究发酵床微生物群落功能、猪粪降解机理、猪病生防机理等具有重要意义。目前,关于微生物发酵床芽胞杆菌种类结构,数量分布,空间格局等的研究未见报道。本研究以 $2 1 0 0 \\mathrm { ~ m } ^ { 2 }$ 的微生物发酵床大栏养猪为研究对象,通过空间格局采样,用可培养法分离芽胞杆菌方法,对发酵床芽胞杆菌种类分布、数量分布、空间分布的多样性进行分析,利用空间分布型、多样性指数评估养猪微生物发酵床中芽胞杆菌的空间分布特征,为发酵床管理、猪粪资源化利用、猪病的生防等提供研究基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 样品的采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2015年1月26日,从福建省农业科学院福清现代设施农业样本工程示范基地大栏养猪微生物发酵床采集样品,发酵床垫料已使用1a至 $1 . 5 \\mathrm { a }$ 左右。该大栏发酵床猪场建筑面积为 $2 1 0 0 ~ \\mathrm { m } ^ { 2 } ( 3 5 ~ \\mathrm { m } \\times 6 0 ~ \\mathrm { m } )$ ,发酵床槽面积 $1 9 1 0 \\ \\mathrm m ^ { 2 }$ ,除两个隔离栏,养殖面积为 $1 6 0 0 \\ \\mathrm { m } ^ { 2 }$ ,发酵床深度 $8 0 ~ \\mathrm { c m }$ ,发酵床垫料由 $70 \\%$ 椰糠和 $3 0 \\%$ 谷壳组成。发酵床饲养1600头育肥猪,饲养密度为1头 $/ \\mathrm { m } ^ { 2 }$ （图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ceb725f6c9743af9fa1ade07bd3ebc239c95ec6dbcd35b1abba1f20abeee7bef.jpg",
+        "img_caption": [
+            "图1大栏微生物发酵床 Fig.1 The piggery bedding "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采样方法：将大栏发酵床宽度方向划分4栏(行),长度方向划分8栏(列),每个栏采用五点取样方法采集 $0 { - } 2 0 ~ \\mathrm { c m }$ 的样品并混合获得栏的垫料样品,共采集32个空间的32个样品（图2）,装人无菌聚氯乙烯塑料瓶,带回实验室，并立即进行芽胞杆菌菌株的分离与保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2仪器与试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR 仪和凝胶成像分析仪（Bio-Rad 公司）;恒温培养箱（BI-250AG）购自施都凯仪器设备（上海)有限公司； $2 { \\times } \\mathrm { P C R } ^ { \\circ }$ Master Mix 购自上海铂尚生物技术有限公司;引物由上海铂尚生物技术有限公司合成。LB 培养基：胰蛋白肺 $1 0 . 0 \\ \\mathrm { g }$ ,酵母提取物 $5 . 0 ~ \\mathrm { g }$ ,氯化钠 $5 . 0 \\textrm { g } , \\mathrm { p H } 7 . 2$ -7.4，琼脂 $1 5 . 0 ~ \\mathrm { g }$ ,水 $1 . 0 \\mathrm { ~ L ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 1 . 3 } ^ { \\gamma }$ 微生物发酵床芽胞杆菌分离与鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过梯度稀释涂布法分离获得微生物发酵床样品中的芽胞杆菌，根据菌落形态特征等进行芽胞杆菌种类归类、统计计数及纯化,采用 $- 8 0 \\ \\mathrm { { ^ { \\circ } C } }$ 甘油冷冻法进行保存。采用Tris-饱和酚法提取芽胞杆菌基因组DNA。采用通用细菌16S rRNA 引物进行扩增、测序,主要参考Liu 等描述的方法[24]。16S rRNA 基因扩增引物为 27F（ $5 ^ { \\prime }$ -AGAGTTTGATCCTGGCTCAG- $3 ^ { \\prime }$ )和1492R( $5 ^ { \\prime }$ -GGTTACCTTGTTACGACTT- $3 ^ { \\prime }$ ）。检测出有条带的菌株PCR产物送至上海铂尚生物技术有限公司进行测序。将测序所得16S rRNA序列在韩国网站（EZtaxon-e.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ezbiocloud.net)上进行序列比对分析[25],初步判断得出芽胞杆菌种的分类地位。根据 Tindall等描述,当16SrRNA相似性 $5 9 7 \\%$ 时可定义为同一个分类单元[26]。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d9bea22fddf20332d6e761eddbbe513f88b468452ecd66855b4cde63e324465.jpg",
+        "img_caption": [
+            "图2发酵床空间采集格局",
+            "Fig.2Samples information collcted from fermentation bed in the piggrey "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4微生物发酵床样方芽胞杆菌种类与数量空间分布",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵床划分成横向4个单元，纵向8个单元，共取样32个空间样本。统计各空间样本芽胞杆菌种类数、数量总和、最大值、最小值、平均值等,比较发酵床空间样本芽胞杆菌种类与数量的变化,绘制直方图分析芽胞杆菌种类在微生物发酵床空间样本中出现频次和数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 微生物发酵床芽胞杆菌空间分布型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于微生物发酵床4行8列采集方案,构建数据矩阵,统计每行样本芽胞杆菌平均值和方差，利用聚集度指标和回归分析法,分析芽胞杆菌样方空间分布型(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/72e8269c9631c67480c1c1568f9be9f2831446932cadeb146d42e3935732d82b.jpg",
+        "table_caption": [
+            "表1微生物发酵床芽胞杆菌空间分布型指数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table 1 Distribution index of Bacillus-lile species in the piggery bedding</td></tr><tr><td>聚集度指标</td><td>方程</td><td>注释 Note</td><td>判别 Discrimination</td></tr><tr><td>Aggregation indices 平均拥挤度（m*</td><td>Equation Mean</td><td>x为平均数，</td><td></td></tr><tr><td>Crowding intensity</td><td>） s² m* x</td><td>s²为方差 x为平均数，</td><td>当I<0时为均匀分布,当I=0时为随机分布，当I>0时为聚</td></tr><tr><td>I指标Iindex</td><td>s2 x /=</td><td>s²为方差</td><td>集分布</td></tr><tr><td>m /m 指标 m*/m index</td><td>m* m* m x</td><td>m*为平均拥挤度,x 为平均数</td><td>当m*/m<1时为均匀分布;当m*/m=1时为随机分布;当 m*/m>1时为聚集分布</td></tr><tr><td>CA 指标 CA index</td><td>CA = s2 x</td><td>1)/x s²为方差， x为平均数</td><td>当CA<0时为均匀分布，当CA=0时为随机分布，当CA>0 时为聚集分布</td></tr><tr><td>扩散系数(C) Diffusion coefficient</td><td>C = s²/x</td><td></td><td>当C<1时为均匀分布,当C=1时为随机分布,C>1时为 聚集分布</td></tr><tr><td>负二项分布K指标 K index of negative</td><td>K = x²/(s² -x)</td><td></td><td>当 K<0时为均匀分布,当K=0时为随机分布,当K>0时为</td></tr><tr><td>binomial distribution m*-m回归分析法</td><td></td><td></td><td>聚集分布 当b<1时，为均匀分布;当b=1时，为随机分布;当b>1</td></tr><tr><td>m* -m regression analysis</td><td>m*=α+βx</td><td></td><td>时，为聚集分布</td></tr><tr><td>Talor 幂法则 Taylor'spower law</td><td>lgs² = lga + blgx</td><td></td><td>当b→0时为均匀分布,b=1时为随机分布,b>1时为聚集 分布</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6微生物发酵床芽胞杆菌多样性指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以芽胞杆菌种类为样本,以样本为指标,构建数据矩阵,利用生物统计软件 PRIMER v5（Primer-E Ltd.,Plymouth,United Kingdom［2001])进行计算、统计微生物发酵床芽胞杆菌种类出现频次、种类数量、丰富度指数 $( D )$ 、均匀度指数 $\\left( J ^ { \\prime } \\right)$ 、优势度指数 $( \\lambda )$ 、Shannon-Wiener 指数 $( H ^ { \\prime } )$ 和 Hill 指数 $( N _ { 1 } )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以芽胞杆菌为样本,以多样性指数为指标,构建数据矩阵,通过生物统计软件 SPSS16.0,以欧氏距离为尺度,用类平均法进行微生物发酵床芽胞杆菌多样性指数聚类分析。多样性指数公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)丰富度指数 $( D )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = ( S - 1 ) / \\lg ( N )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)均匀度指数 $\\left( J ^ { \\prime } \\right)$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ^ { \\prime } = H ^ { \\prime } / \\lg \\left( S \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3)优势度指数 $( \\lambda )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\sum { ( P _ { i } ^ { 2 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4)Shannon-Wiener指数 $( H ^ { \\prime } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { \\prime } = \\sum \\ ( P _ { \\mathrm { { \\scriptsize { i } } } } \\times \\mathrm { { l g } } P _ { \\mathrm { { \\scriptsize { i } } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5)Hill指数( $N _ { 1 \\mathrm { ~ \\small ~  ~ } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { \\mathrm { 1 } } = \\exp \\mathrm { \\ ( \\it H ^ { \\prime } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { i } = N _ { i } / N$ 。 $N _ { i }$ 为第 $i$ 种芽胞杆菌的数量， $s$ 为芽胞杆菌占据的单元总数， $N$ 为芽胞杆菌种类个体总数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1微生物发酵床芽胞杆菌的分离与鉴定",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验结果见表2。根据菌落形态特征区分,从32份微生物发酵床空间样品中分离获得了芽胞杆菌452株,通过16SrRNA基因序列比对分析,所有芽胞杆菌菌株相似性皆大于 $9 7 . 0 \\%$ ,鉴定为48个种,隶属于芽胞杆菌纲的2个科即芽胞杆菌科（Bacillaeae）和类芽胞杆菌科（Paenibacillaceae）,8个属即芽胞杆菌属（Bacillus）（30种）、类芽胞杆菌属（Paenibacillus）（5种）、赖氨酸芽胞杆菌属（Lysinibacillus）（6种）、短芽胞杆菌属（Brevibacillus）（3种）、鸟氨酸芽胞杆菌属（Omithinibacilus）（1种）、大洋芽胞杆菌属（Oceanibacillus）（1种）少盐芽胞杆菌属（Paucisalibacillus）（1种）和纤细芽胞杆菌属（Gracilibacillus）（1种）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d486ed098a3d44dbd78ba00ff30c160800cbe5234908646aea711890b487cf27.jpg",
+        "table_caption": [
+            "表2微生物发酵床芽胞杆菌种类分离与鉴定",
+            "Table 2Isolation and identified of Bacillus-like species from the piggery bedding "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号No.</td><td>菌株编号 Strain no</td><td>16S rRNA相似性/% 16S rRNAsimilarity</td><td>物种名 Species name</td><td>种类数 Number</td></tr><tr><td>[1]</td><td>FJAT-41456</td><td>98.1</td><td>高地芽胞杆菌 Bacillus altitudidns</td><td>30</td></tr><tr><td>[2]</td><td>FJAT-41678</td><td>99.3</td><td>解淀粉芽胞杆菌Bacillus amyloliquefaciens</td><td></td></tr><tr><td>[3]</td><td>FJAT-41614</td><td>99.5</td><td>阿氏芽胞杆菌 Bacillus aryabhattai</td><td></td></tr><tr><td>[4]</td><td>FJAT-41708</td><td>100</td><td>蜡状芽胞杆菌 Bacillus cereus</td><td></td></tr><tr><td>[5]</td><td>FJAT-41599</td><td>99.5</td><td>环状芽胞杆菌 Bacilluscirculans</td><td></td></tr><tr><td>[6]</td><td>FJAT-41623</td><td>99.7</td><td>克劳氏芽胞杆菌Bacillus clausii</td><td></td></tr><tr><td></td><td>FJAT-41407</td><td>99.10</td><td>蚯蚓芽胞杆菌 Bacillus eiseniae</td><td></td></tr><tr><td>[8]</td><td>FJAT-41644</td><td>99.0</td><td>弯曲芽胞杆菌 Bacillus flexus</td><td></td></tr><tr><td>[9]</td><td>FJAT-42923</td><td>99.3</td><td>海口芽胞杆菌 Bacillus haikouensis</td><td></td></tr><tr><td>[10]</td><td>FJAT-41639</td><td>99.5</td><td>嗜盐噬糖芽胞杆菌 Bacillus halosaccharovorans</td><td></td></tr><tr><td>[11]</td><td>FJAT-41679</td><td>99.8</td><td>霍氏芽胞杆菌 Bacillus horneckiae</td><td></td></tr><tr><td>[12]</td><td>FJAT-41709</td><td>97.9</td><td>土地芽胞杆菌 Bacillus humi</td><td></td></tr><tr><td>[13]</td><td>FJAT-41627</td><td>99.3</td><td>印空研芽胞杆菌 Bacillus isronensis</td><td></td></tr><tr><td>[14]</td><td>FJAT-41629</td><td>99.7</td><td>柯赫芽胞杆菌 Bacillus kochii</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b0cee37890a64b40f48ee8da9b121729d4baaf96ab9d8b1eb00453df0ae30eb.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "FJAT是FuJian Agaricultural Technology(福建农业科技)的缩写 "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">续表</td></tr><tr><td>编号No.</td><td>菌株编号 Strain no</td><td>16S rRNA 相似性/% 16S rRNAsimilarity</td><td>物种名 Species name</td><td>种类数 Number</td></tr><tr><td>[15]</td><td>FJAT-41609</td><td>99.3</td><td>地衣芽胞杆菌 Bacillus licheniformis</td><td></td></tr><tr><td>[16]</td><td>FJAT-41224</td><td>99.4</td><td>黄海芽胞杆菌 Bacillus marisflavi</td><td></td></tr><tr><td>[17]</td><td>FJAT-41714</td><td>99.8</td><td>嗜常温芽胞杆菌 Bacillus mesophilum</td><td></td></tr><tr><td>[18]</td><td>FJAT-41604</td><td>99.5</td><td>甲基营养型芽胞杆菌 Bacillus methylotrophicus</td><td></td></tr><tr><td>[19]</td><td>FJAT-41602</td><td>98.2</td><td>尼氏芽胞杆菌 Bacillus nealsonii</td><td></td></tr><tr><td>[20]</td><td>FJAT-41408</td><td>99.5</td><td>烟酸芽胞杆菌 Bacillus niacini</td><td></td></tr><tr><td>[21]</td><td>FJAT-41206</td><td>98.8</td><td>海床类芽胞杆菌 Bacillus oceanisediminis</td><td></td></tr><tr><td>[22]</td><td>FJAT-41638</td><td>99.0</td><td>蔬菜芽胞杆菌 Bacillus oleronius</td><td></td></tr><tr><td>[23]</td><td>FJAT-41641</td><td>99.7</td><td>根际芽胞杆菌 Bacillus rhizosphaerae</td><td>gica.</td></tr><tr><td>[24]</td><td>FJAT-41494</td><td>99.6</td><td>暹罗芽胞杆菌 Bacillus siamensis</td><td></td></tr><tr><td>[25]</td><td>FJAT-41608</td><td>99.9</td><td>青贮窖芽胞杆菌 Bacillus siralis</td><td></td></tr><tr><td>[26]</td><td>FJAT-41518</td><td>99.9</td><td>枯草芽胞杆菌 Bacillus subtilis</td><td></td></tr><tr><td>[27]</td><td>FJAT-41219</td><td>99.9</td><td>特基拉芽胞杆菌 Bacillus tequilensis</td><td></td></tr><tr><td>[28]</td><td>FJAT-41593</td><td>98.2</td><td>泰门芽胞杆菌 Bacillus timonensis</td><td></td></tr><tr><td>[29]</td><td>FJAT-41252</td><td>99.5</td><td>越南芽胞杆菌 Bacillus vietnamensis</td><td></td></tr><tr><td>[30]</td><td>FJAT-41633</td><td>99.8</td><td>厦门芽胞杆菌 Bacillus xiamenensis</td><td></td></tr><tr><td>[31]</td><td>FJAT-41635</td><td>99.9</td><td>波茨坦短芽胞杆菌 Brevibacillus borstelensis</td><td>3</td></tr><tr><td>[32]</td><td>FJAT-41467</td><td>99.2</td><td>居湖短芽胞杆菌 Brevibacillus limnophilus</td><td></td></tr><tr><td>[33]</td><td>FJAT-41640</td><td>99.6</td><td>硝化短芽胞杆菌 Brevibacillus nitrificans</td><td></td></tr><tr><td>[34]</td><td>FJAT-41653</td><td>99.0</td><td>海洋纤细芽胞杆菌 Gracilibacillus marinus</td><td>1</td></tr><tr><td>[35]</td><td>FJAT-41606</td><td>98.5</td><td>清国酱赖氨酸芽胞杆菌 Lysinibacillus chungkukjangi</td><td>6</td></tr><tr><td>[36]</td><td>FJAT-41646</td><td>97.5</td><td>堆肥赖氨酸芽胞杆菌 Lysinibacillus composti</td><td></td></tr><tr><td>[37]</td><td>FJAT-41611</td><td>99.6</td><td>纺锤形赖氨酸芽胞杆菌Lysinibacillus fusiformis</td><td></td></tr><tr><td>[38]</td><td>FJAT-41610</td><td>99.7</td><td>耐盐赖氨酸芽胞杆菌 Lysinibacillus halotolerans</td><td></td></tr><tr><td>[39]</td><td>FJAT-41612</td><td>99.6</td><td>长赖氨酸芽胞杆菌 Lysinibacillus macroides</td><td></td></tr><tr><td>[40]</td><td>FJAT-41607</td><td>99.3</td><td>锰矿土赖氨酸芽胞杆菌 Lysinibacillus manganicus</td><td></td></tr><tr><td>[41]</td><td>FJAT-42930</td><td>99.4</td><td>淤泥大洋芽胞杆菌Oceanobacillus caeni</td><td>1</td></tr><tr><td>[42]</td><td>FJAT-41619</td><td>98.7</td><td>拾蛤鸟氨酸芽胞杆菌 Ornithinibacillus scapharcae</td><td>1</td></tr><tr><td>[43]</td><td>FJAT-41201</td><td>99.9</td><td>巴伦氏类芽胞杆菌Paenibacillus barengoltzii</td><td></td></tr><tr><td>[44]</td><td>FJAT-41656</td><td>99.0</td><td>人参土芽胞杆菌Paenibacillus ginsengiterrae</td><td></td></tr><tr><td>[45]</td><td>FJAT-41484</td><td>98.3</td><td>伊利诺伊类芽胞杆菌Paenibacillus illinoisensis</td><td></td></tr><tr><td>[46]</td><td>FJAT-41526</td><td>99.5</td><td>牛奶类芽胞杆菌Paenibacillus lactis</td><td></td></tr><tr><td>[47]</td><td>FJAT-41673</td><td>98.4</td><td>饲料类芽胞杆菌Paenibacillus pabuli</td><td></td></tr><tr><td>[48]</td><td>FJAT-41371</td><td>? 98.3</td><td>小球状少盐芽胞杆菌Paucisalibacillus globulus</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2微生物发酵床样本芽胞杆菌空间分布",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1微生物发酵床空间样本芽胞杆菌种类分布",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实验结果见表3。微生物发酵床划分成横向4个单元、纵向8个单元,共取样32个空间样本,分离鉴定统计各空间样本中芽胞杆菌的种类和数量,结果表明:(1)各空间样本芽胞杆菌种类差异很大,从最多的 14 种(MF-1-3)到最少的5种(MF-6-3);（2)芽胞杆菌分布在发酵床空间差异很大,有些芽胞杆菌种类分布在多个空间样本中,如阿氏芽胞杆菌(Bacillus aryabhattai)可以分布在空间样本 MF-1-1、MF-1-2、MF-1-3、MF-1-4等19个空间样本中,有些种类只分布在特定的空间样本中,如海口芽胞杆菌（Bacillus haikouensis）仅分布在空间样本 MF-5-3,居湖短芽胞杆菌(Brevibacillus limnophilus）仅分布在空间样本 MF-4-1等;（3)芽胞杆菌单个菌株在一个空间样本中的最大含量是环状芽胞杆菌（Bacilluscirculans）,分布数量为 $5 0 . 0 \\times 1 0 ^ { 6 }$ 个/g(MF-1-4);含量最小的是印空研芽胞杆菌(Bacillus isronensis)等,分布数量为 $0 . 0 1 \\times 1 0 ^ { 6 }$ 个/g(MF-4-3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c9c1920915e3ee7a4313600f50bd8b9c4e474243e812cd09fbf1e0890c026a5.jpg",
+        "table_caption": [
+            "表3微生物发酵床空间样本芽胞杆菌种类含量",
+            "Table 3The content of Bacillus-like species from the piggery bedding "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">空间样本 Sample</td><td rowspan=\"2\">菌株编号 Strain no</td><td rowspan=\"2\">鉴定种类 Closest</td><td rowspan=\"2\">含量/ (x106个/g)</td><td rowspan=\"2\">空间样本 Sample</td><td rowspan=\"2\">菌株编号 Strain no</td><td rowspan=\"2\">鉴定种类 Closest</td><td rowspan=\"2\">含量/ (x106个/g)</td></tr><tr><td></td></tr><tr><td></td><td></td><td>species Bacillus aryabhattai</td><td>Content</td><td>MF-4-3</td><td></td><td>species Bacillus altitudinis</td><td>Content</td></tr><tr><td>MF-1-1 12种</td><td>FJAT-41614</td><td>Bacillus circulans</td><td>0.3</td><td>7种</td><td>FJAT-41215 FJAT-41209</td><td>Bacillus isronensis</td><td>0.5 0.01</td></tr><tr><td></td><td>FJAT-41599 FJAT-41616</td><td>Bacillus altitudinis</td><td>5.0</td><td></td><td>FJAT-41214</td><td>Bacillus aryabhattai</td><td>0.05</td></tr><tr><td></td><td>FJAT-41609</td><td>Bacillus liheniformis</td><td>1.0</td><td></td><td>FJAT-41220</td><td>Bacillus kochii</td><td>2.7</td></tr><tr><td></td><td>FJAT-41604</td><td>Bacillus methylotrophicus</td><td>8.0 1.0</td><td></td><td>FJAT-41216</td><td>Bacillus licheniformis</td><td>0.2</td></tr><tr><td></td><td>FJAT-41602</td><td>Bacillus nealsonii</td><td>2.3</td><td></td><td>FJAT-41219</td><td>Bacillus tquilensis</td><td>1.3</td></tr><tr><td></td><td>FJAT-41608</td><td>Bacillus siralis</td><td>0.2</td><td></td><td>FJAT-41213</td><td>Bacillus subtilis</td><td>1.0</td></tr><tr><td></td><td>FJAT-41611</td><td>Lysinibacillus fusiformis</td><td>0.1</td><td>MF-4-4</td><td>FJAT-41495</td><td></td><td></td></tr><tr><td></td><td>FJAT-41610</td><td>Lysinibacillus halotolerans</td><td></td><td>7种</td><td>FJAT-41488</td><td>Bacillus kochii</td><td>0.1</td></tr><tr><td></td><td></td><td>Lysinibacillus macroides</td><td>0.1</td><td></td><td>FJAT-41489</td><td>Bacillus eiseniae</td><td>0.5</td></tr><tr><td></td><td>FJAT-41612</td><td>Lysinibacilluschungkukjangi</td><td>0.1</td><td></td><td>FJAT-41494</td><td>Bacillus licheniformis Bacillus siamensis</td><td>0.3</td></tr><tr><td></td><td>FJAT-41606 FJAT-41607</td><td>Lysinibacillus manganicus</td><td>1.0 0.3</td><td></td><td>FJAT-41491</td><td>Bacillus tequilensis</td><td>0.07 2.5</td></tr><tr><td>MF-1-2</td><td>FJAT-41620</td><td>Bacillus aryabhattai</td><td></td><td></td><td>FJAT-41492</td><td>Bacillus subtilis</td><td>0.2</td></tr><tr><td>11种</td><td>FJAT-41622</td><td>Bacillus circulans</td><td>3.0</td><td></td><td>FJAT-41496</td><td>Gracilibacillus marinus'</td><td>0.1</td></tr><tr><td></td><td>FJAT-41623</td><td>Bacillus clausii</td><td>2.0 1.0</td><td>MF-5-1</td><td>FJAT-41504</td><td>Bacillus altitudinis</td><td>0.3</td></tr><tr><td></td><td>FJAT-41625</td><td>Bacillus altitudinis</td><td>1.0</td><td>7种</td><td>FJAT-41498</td><td>Bacillus kochii</td><td>0.8</td></tr><tr><td></td><td>FJAT-41629</td><td>Bacillus kochii</td><td>2.0</td><td></td><td>FJAT-41499</td><td>Bacillus licheniformis</td><td>1.5</td></tr><tr><td></td><td>FJAT-41630</td><td>Bacillus licheniformis</td><td>1.0</td><td></td><td>FJAT-41503</td><td>Bacillus rhizosphaerae</td><td>0.1</td></tr><tr><td></td><td>FJAT-41621</td><td>Bacillus methylotrophicus</td><td>5.0</td><td></td><td>FJAT-41511</td><td>Bacillus tequilensis</td><td>1.8</td></tr><tr><td></td><td>FJAT-41633</td><td>Bacillus xiamenensis</td><td>0.1</td><td></td><td>FJAT-41506</td><td>Lysinibacillus halotolerans</td><td>0.7</td></tr><tr><td></td><td>FJAT-41627</td><td>Bacillus isronensis</td><td>10</td><td></td><td>FJAT-41510</td><td>Ornithinibacillus scapharcae</td><td>1.2</td></tr><tr><td></td><td></td><td>Lysinibacillus halotolerans</td><td>0.7</td><td>MF-5-2</td><td>FJAT-41519</td><td>Bacillus altitudinis</td><td></td></tr><tr><td></td><td>FJAT-41632 FJAT-41619</td><td>Ornithinibacillus scapharcae</td><td>0.1</td><td>11种</td><td>FJAT-41512</td><td>Bacillus amyloliquefaciens</td><td>0.02</td></tr><tr><td>MF-1-3</td><td>FJAT-41636</td><td>Bacillus nealsonii</td><td></td><td></td><td>FJAT-41513</td><td>Bacillus cereus</td><td>0.3 0.04</td></tr><tr><td>14种</td><td>FJAT-41652</td><td>Bacillus aryabhattai</td><td>10.0</td><td></td><td>FJAT-41515</td><td>Bacills ftexus</td><td>0.18</td></tr><tr><td></td><td>FJAT-41642</td><td>Bacillus cirulans</td><td>5.0</td><td></td><td>FJAT-41523</td><td>Bacillus clausii</td><td>0.12</td></tr><tr><td></td><td>FJAT-41639</td><td>Belus hlosachorororans</td><td>2.0</td><td></td><td>FJAT-41527</td><td>Bacillus kochii</td><td>0.02</td></tr><tr><td></td><td></td><td>Bacillus icheniformis</td><td>2.0</td><td></td><td>FJAT-41520</td><td>Bacillus licheniformis</td><td>0.48</td></tr><tr><td></td><td>FJAT-41643</td><td>Baeillus mehyotrophicus</td><td>2.0</td><td></td><td>FJAT-41524</td><td>Bacillus siamensis</td><td>0.01</td></tr><tr><td></td><td>FJAT-41648</td><td>Baellusleronius</td><td>2.0</td><td></td><td>FJAT-41518</td><td>Bacillus subtilis</td><td>0.08</td></tr><tr><td></td><td>FJAT-41638 FJAT-41641</td><td>Baellus rhirosrhaerae</td><td>3.0</td><td></td><td>FJAT-41516</td><td>Bacillus tequilensis</td><td>0.09</td></tr><tr><td></td><td>FJAT-41635</td><td>Brevibacillus borstelensis</td><td>0.1</td><td></td><td>FJAT-41526</td><td>Paenibacillus lactis</td><td>0.15</td></tr><tr><td></td><td> FJAT-41640</td><td>Brevibacillus nitrficans</td><td>0.1 0.2</td><td>MF-5-3</td><td>FJAT-42924</td><td>Bacillus altitudinis</td><td>0.1</td></tr><tr><td></td><td>FJAT-41644</td><td>Bacillus fexus</td><td>1.0</td><td>8种</td><td>FJAT-42919</td><td>Bacillus aryabhattai</td><td>0.3</td></tr><tr><td></td><td>FJAT-41649</td><td>Lysinibacillus composti</td><td>2.1</td><td></td><td>FJAT-42929</td><td>Bacillus clausii</td><td>0.1</td></tr><tr><td></td><td>FJAT-41650</td><td>Lysinibacillus halotolerans</td><td></td><td></td><td>FJAT-42926</td><td>Bacillus kochii</td><td>0.4</td></tr><tr><td></td><td></td><td>Ornithinibacillus scapharcae</td><td>0.2</td><td></td><td>FJAT-42925</td><td>Bacilus licheniformis</td><td>0.5</td></tr><tr><td>MF-1-4 12种</td><td>FJAT-41637</td><td></td><td>0.2</td><td></td><td></td><td>Bacillus haikouensis</td><td>1.0</td></tr><tr><td></td><td>FJAT-41656</td><td>Paenibacillus ginsengiterrae</td><td>20.0</td><td></td><td>FJAT-42923</td><td></td><td></td></tr><tr><td></td><td>FJAT-41658</td><td>Bacillus aryabhattai</td><td>20.0</td><td></td><td>FJAT-42921</td><td>Bacillus subtilis Oceanobacillus caeni</td><td>5.0 0.2</td></tr><tr><td></td><td>FJAT-41667</td><td>Bacillus altitudinis</td><td>0.2</td><td>MF-5-4</td><td>FJAT-42930</td><td></td><td></td></tr><tr><td></td><td>FJAT-41668</td><td>Bacillus circulans</td><td>50.0</td><td></td><td>FJAT-41532</td><td>Bacillus altitudinis</td><td>0.12</td></tr><tr><td></td><td>FJAT-41662</td><td>Lysinibacillus halotolerans</td><td>1.0</td><td>7种</td><td>FJAT-41536</td><td>Bacillus clausii</td><td>0.3</td></tr><tr><td></td><td>FJAT-41663</td><td>Bacillus halosaccharovorans</td><td>4.0</td><td></td><td>FJAT-41542</td><td>Bacillus kochii</td><td>0.1</td></tr><tr><td></td><td>FJAT-41654</td><td>Bacillus licheniformis</td><td>0.4</td><td></td><td>FJAT-41537</td><td>Bacillus licheniformis</td><td>1.1</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a04a68eabe20a976023437befa721f5324a95b7ce05cdc242da6121fa45b5984.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">空间样本</td><td rowspan=\"2\">菌株编号</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">空间样本</td><td rowspan=\"2\">菌编号</td><td rowspan=\"2\"></td></tr><tr><td></td></tr><tr><td rowspan=\"7\"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FJAT-41660</td><td>Bacillus methylotrophicus</td><td>0.6</td><td>FJAT-41529</td><td>Bacillus rhizosphaerae</td><td>0.1</td></tr><tr><td>FJAT-41666</td><td>Bacillus nealsonii</td><td>0.2</td><td>FJAT-41541</td><td>Bacillus tequilensis</td><td>0.1</td></tr><tr><td>FJAT-41661</td><td>Bacillus oleronius</td><td>1</td><td>FJAT-41539</td><td>Lysinibacillus halotolerans</td><td>0.6</td></tr><tr><td>FJAT-41659</td><td>Bacillus rhizosphaerae</td><td>0.1 MF-6-1</td><td>FJAT-41223</td><td>Bacillus methylotrophicus</td><td>0.29</td></tr><tr><td>FJAT-41653</td><td>Gracilibacillus marinus</td><td>0.1</td><td>6种 FJAT-41225</td><td>Bacillus aryabhattai</td><td>9.2</td></tr><tr><td>FJAT-41679</td><td>Bacillus horneckiae</td><td>1.0</td><td>FJAT-41236</td><td>Bacillus circulans</td><td>0.3</td></tr><tr><td>MF-2-1 8种</td><td>FJAT-41684 Bacillus circulans</td><td>4.3</td><td></td><td>FJAT-41234</td><td>Bacillus kochi</td><td>0.1</td></tr><tr><td></td><td>FJAT-41682 Bacillus clausii</td><td>2.0</td><td></td><td>FJAT-41235</td><td>Bacillus licheniformis</td><td>2.6</td></tr><tr><td>FJAT-41674</td><td>Bacillus halosaccharovorans</td><td>2.0</td><td></td><td>FJAT-41224</td><td>Bacillus marisflavi</td><td>0.1</td></tr><tr><td>FJAT-41683</td><td>Bacillus altitudinis</td><td>3.0</td><td>MF-6-2</td><td>FJAT-41552</td><td>Bacillus altitudinis</td><td>1.0</td></tr><tr><td>FJAT-41670</td><td>Bacillus licheniformis</td><td>5.0</td><td>6种</td><td>FJAT-41548</td><td>Bacillus clausii</td><td>0.2</td></tr><tr><td></td><td>FJAT-41673</td><td>Paenibacillus pabuli</td><td>0.2</td><td>FJAT-41545</td><td>Bacillus licheniformis</td><td>1.7</td></tr><tr><td></td><td>FJAT-41678</td><td>Bacillus amyloliquefaciens</td><td>2.0</td><td>FJAT-41551</td><td>Bacillus metylotrophicus</td><td>0.1</td></tr><tr><td>MF-2-2</td><td>FJAT-41694</td><td>Bacillus aryabhattai</td><td>2.0</td><td>FJAT-41549</td><td>Bacillus tequilensis</td><td>1.7</td></tr><tr><td>8种</td><td>FJAT-41689</td><td>Bacillus circulans</td><td>1.0</td><td>FJAT-41544</td><td>Brevibacillus borstelensis</td><td>0.1</td></tr><tr><td></td><td>FJAT-41690</td><td>Bacillus clausii</td><td>1.0</td><td>MF-6-3 FJAT-41244</td><td>Bacillus methylotrophicus</td><td>0.57</td></tr><tr><td></td><td>FJAT-41700</td><td>Bacillus halosaccharovorans</td><td>7.0 5种</td><td>FJAT-41255</td><td>Bacillus aryabhattai</td><td>2.4</td></tr><tr><td></td><td>FJAT-41695</td><td>Bacillus altudinis</td><td>2.0</td><td>FJAT-41248</td><td>Baillu equilensis</td><td>0.06</td></tr><tr><td></td><td>FJAT-41687</td><td>Bacillus kochii</td><td>0.2</td><td>FJAT-41242</td><td>Bacillus kochii</td><td>1.0</td></tr><tr><td></td><td>FJAT-41699</td><td>Bacillus methyotrophicus</td><td>0.5 一</td><td>FJAT-41252</td><td>Bacillus vietnamensis</td><td>1.0</td></tr><tr><td></td><td>FJAT-41703</td><td>Ornithinibacillus scapharcae</td><td>0.4 MF-6-4</td><td>FJAT-41143</td><td>Bacillus clausii</td><td>1.4</td></tr><tr><td>MF-2-3</td><td>FJAT-41708</td><td>Bacillus cereus 1</td><td>1.0 7种</td><td>FJAT-41146</td><td>Lysinibacillus macrolides</td><td>0.1</td></tr><tr><td>10种</td><td>FJAT-41705</td><td>Bacillus rhizosphaerae</td><td>1.0</td><td>FJAT-41142</td><td>Bacillus siamensis</td><td>1.0</td></tr><tr><td></td><td>FJAT-41709</td><td>Bacillus humi</td><td>1.0</td><td>FJAT-41147</td><td>Bacillus licheniformis</td><td>2.6</td></tr><tr><td></td><td>FJAT-41712</td><td>Bacillus aryabhattai</td><td>3.0</td><td>FJAT-41150</td><td>Bacillus tequilensis</td><td>1.0</td></tr><tr><td></td><td>FJAT-41713</td><td>Bacillus circulans</td><td>1.0</td><td>FJAT-41149</td><td>Bacillus cereus</td><td>1.0</td></tr><tr><td></td><td>FJAT-41718</td><td>Bacllushlosaecharororans</td><td>1.0</td><td>FJAT-41145</td><td>Bacillus subtilis</td><td>1.0</td></tr><tr><td></td><td>FJAT-41715</td><td>Bacillus kochi</td><td>2.0 MF-7-1</td><td>FJAT-41167</td><td>Bacillus ltudinis</td><td>3.0</td></tr><tr><td></td><td>FJAT-41706</td><td>Bacluslishenfomis</td><td>3.0 7种</td><td>FJAT-41175</td><td>Bacillus circulans</td><td>23.0</td></tr><tr><td></td><td>FJAT-41714</td><td>Bacillus mesophilum</td><td>1.0</td><td>FJAT-41172</td><td>Bacillus kochii</td><td>2.0</td></tr><tr><td></td><td>FJAT-41707</td><td></td><td>1.7</td><td>FJAT-41168</td><td>Bacillus licheniformis</td><td>6.0</td></tr><tr><td>MF-2-4</td><td>FJAT-41729</td><td>Bacillus clausii</td><td>2.0</td><td>FJAT-41166</td><td>Bacillus subtilis</td><td>1.0</td></tr><tr><td>10种</td><td>FJAT-41728</td><td>Bacillus isronensis</td><td>4.0</td><td>FJAT-41176</td><td>Bacillus tequilensis</td><td>4.0</td></tr><tr><td></td><td>FJAT-41736</td><td>Bacillus rhizosphaerae</td><td>2.0</td><td>FJAT-41174</td><td>Ornithinibacillusscapharcae</td><td>1.0</td></tr><tr><td></td><td>FJAT-41739</td><td>Lysinibacillus halotolerans</td><td>1.0 MF-7-2</td><td>FJAT-41295</td><td>Baeillus methylotrophicus</td><td>0.05</td></tr><tr><td></td><td>FJAT-41734</td><td>Bacillus aryabhattai</td><td>3.0 7种</td><td>FJAT-41299</td><td>Bacillus aryabhattai</td><td>0.11</td></tr><tr><td></td><td>FJAT-41735</td><td>Bacillus circulans</td><td>2.0</td><td>FJAT-41305</td><td>Bacillus circulans</td><td>0.01</td></tr><tr><td></td><td>FJAT-41726</td><td>Bacillus altitudinis</td><td>2.0</td><td>FJAT-41307</td><td>Bacillus kochii</td><td>0.41</td></tr><tr><td></td><td>FJAT-41722</td><td>Bacillus kochii</td><td>3.0</td><td>FJAT-41302</td><td>Bacillus licheniformis</td><td>4.02</td></tr><tr><td rowspan=\"8\">MF-3-1 8种</td><td>FJAT-41727</td><td>Bacillus licheniformis</td><td>0.7</td><td>FJAT-41301</td><td>Lysinibacillus halotolerans</td><td>0.2</td></tr><tr><td>FJAT-41731</td><td>Bacillus methylotrophicus</td><td>0.9 MF-7-3</td><td>FJAT-41178</td><td>Bacillus circulans</td><td>0.3</td></tr><tr><td>FJAT-41752</td><td>Bacillus kochii</td><td>1.0</td><td>7种 FJAT-41180</td><td>Bacillus clausii</td><td>0.4</td></tr><tr><td>FJAT-41754</td><td>Bacillus siralis</td><td>2.0</td><td>FJAT-41181</td><td>Lysinibacillus halotolerans</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0.1</td></tr><tr><td>FJAT-41742</td><td>Gracilibacillus marinus</td><td>4.0</td><td>FJAT-41182</td><td>Bacillus kochii</td><td>1.6</td></tr><tr><td>FJAT-41746</td><td>Bacillus aryabhattai</td><td>2.0</td><td>FJAT-41184</td><td>Bacillus licheniformis</td><td>1.5</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ddfac6ac799d50ec955ac4d8e43a1b7bfb9f22f3b98ce1b5bd8d022dbac4322.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">空间样本 Sample</td><td rowspan=\"2\">菌株编号 Strain no</td><td rowspan=\"2\">鉴定种类 Closest</td><td rowspan=\"2\">含量/ (x106个/g)</td><td rowspan=\"2\">空间样本 Sample</td><td rowspan=\"2\">菌株编号 Strain no</td><td>鉴定种类</td><td>含量/</td></tr><tr><td>Closest</td><td>(x106个/g）</td></tr><tr><td rowspan=\"6\">MF-3-2</td><td>FJAT-41750</td><td>species Bacillus altitudinis</td><td>Content 2.0</td><td></td><td>FJAT-41179</td><td>species Bacillus methylotrophicus</td><td>Content 0.3</td></tr><tr><td>FJAT-41741</td><td>Bacillus licheniformis</td><td>6.0</td><td></td><td>FJAT-41190</td><td>Bacillus subtilis</td><td>0.1</td></tr><tr><td></td><td>Bacillus methylotrophicus</td><td>0.5</td><td>MF-7-4</td><td>FJAT-41309</td><td>Bacillus kochii</td><td>0.16</td></tr><tr><td>FJAT-41747</td><td>Ornithinibacillus scapharcae</td><td>0.1</td><td>5种</td><td>FJAT-41312</td><td>Bacillus altitudinis</td><td>0.03</td></tr><tr><td>FJAT-41740</td><td>Bacillus aryabhattai</td><td>2.0</td><td></td><td>FJAT-41317</td><td>Bacillus methylotrophicus</td><td>0.21</td></tr><tr><td>FJAT-41382 FJAT-41375</td><td>Bacillus circulans</td><td>2.0</td><td></td><td>FJAT-41318</td><td>Bacillus aryabhattai</td><td>0.2</td></tr><tr><td>8种</td><td>FJAT-41374</td><td>Bacillus halosaccharovorans</td><td>1.0</td><td>FJAT-41319</td><td>Bacillus amyloliquefaciens</td><td></td></tr><tr><td></td><td>FJAT-41386</td><td>Bacillus licheniformis</td><td>15.0</td><td>MF-8-1 FJAT-41323</td><td>Bacillus methylotrophicus</td><td>0.2</td></tr><tr><td>FJAT-41380</td><td></td><td>Bacillus methylotrophicus</td><td>0.6 7种</td><td>FJAT-41322</td><td>Bacillus aryabhattai</td><td>0.18</td></tr><tr><td>FJAT-41372</td><td>Bacillus rhizosphaerae</td><td></td><td>0.4</td><td>FJAT-41331</td><td>Bacillus cireulans</td><td>1.2</td></tr><tr><td>FJAT-41392</td><td>Lysinibacillus halotolerans</td><td></td><td></td><td>FJAT-41328</td><td>Bacillus kochii </td><td>0.1</td></tr><tr><td></td><td>FJAT-41371</td><td>Paucisalibacillusglobulus</td><td>0.2 0.2</td><td></td><td>FJAT-41324 Bacillus licheniformis</td><td></td><td>0.1 2.9</td></tr><tr><td>MF-3-3</td><td>FJAT-41399</td><td>Bacillus aryabhattai</td><td>0.2</td><td></td><td>FJAT-41329</td><td>Lysinibacillus halotolerans</td><td>0.3</td></tr><tr><td>7种</td><td>FJAT-41393</td><td>Bacillus clausii</td><td>0.4</td><td></td><td>FJAT-41330</td><td>Bacillus amyliquefaciens</td><td>0.1</td></tr><tr><td></td><td>FJAT-41398</td><td>Bacillus halosaccharovorans</td><td>0.1</td><td>MF-8-2</td><td>FJAT-41595</td><td>Bacillus methylotrophicus</td><td>0.3</td></tr><tr><td rowspan=\"6\">MF-3-4</td><td>FJAT-41395</td><td>Bacillus kochii</td><td>0.1</td><td>8种</td><td>FJAT-41598</td><td>Bacillus altitudinis</td><td>0.1</td></tr><tr><td>FJAT-41396</td><td>Bacillus licenformis</td><td>3.0</td><td></td><td>FJAT-41596</td><td>Bacillus cereus</td><td>0.2</td></tr><tr><td>FJAT-41397</td><td>Bacillus rhizoshaerae</td><td>1.0</td><td></td><td>FJAT-41590</td><td>Bacillus clausii</td><td>0.9</td></tr><tr><td>FJAT-41400</td><td>Bacillus circulans</td><td>1.0</td><td></td><td>FJAT-41585</td><td>Bacillus licheniformis</td><td>1.6</td></tr><tr><td>FJAT-41410</td><td>Bacillus cereus</td><td>0.2</td><td></td><td>FJAT-41586</td><td>Bacillus siamensis</td><td>0.1</td></tr><tr><td>FJAT-41409</td><td>Bacillus aryabhattai</td><td>0.2</td><td></td><td>FJAT-41597</td><td>Bacillus tequilensis</td><td>0.1</td></tr><tr><td>9种</td><td>FJAT-41412</td><td>Bacillus clausii</td><td></td><td></td><td>FJAT-41593</td><td>Bacillus timonensis</td><td>0.1</td></tr><tr><td></td><td>FJAT-41407</td><td>Bacillus eiseniae</td><td></td><td>O MF-8-3</td><td>FJAT-41333</td><td>Bacillus cereus group</td><td>0.01</td></tr><tr><td></td><td>FJAT-41413</td><td>Bacillus ochii</td><td>0.2 0.4</td><td>6种</td><td>FJAT-41334</td><td>Bacillus kochii</td><td>0.03</td></tr><tr><td></td><td>FJAT-41404</td><td>Bacillus liheniformis</td><td></td><td></td><td>FJAT-41335</td><td>Bacillus methylotrophicus</td><td>0.11</td></tr><tr><td></td><td>FJAT-41403</td><td>Bacillus methylotrophicus</td><td>0.2 0.2</td><td></td><td>FJAT-41336</td><td>Bacillus amyloliquefaciens</td><td>0.01</td></tr><tr><td></td><td>FJAT-41408</td><td>Bacillus niacini</td><td></td><td></td><td>FJAT-41338</td><td>Bacillus aryabhattai</td><td>0.06</td></tr><tr><td></td><td>FJAT-41445</td><td>Lysinibacillus halotolerans</td><td>0.2 0.1</td><td></td><td>FJAT-41343</td><td>Bacillus licheniformis</td><td>1.56</td></tr><tr><td rowspan=\"6\">MF-4-1 6种</td><td>FJAT-41458</td><td>Bacillus altitudinis</td><td>0.2</td><td>MF-8-4</td><td>FJAT-41205</td><td>Bacillus amyloliquefaciens</td><td>2.1</td></tr><tr><td>FJAT-41463</td><td>Baeillus hochi</td><td>0.4</td><td>11种</td><td>FJAT-41199</td><td>Bacillus clausii</td><td>0.3</td></tr><tr><td>FJAT-41457</td><td></td><td>1.3</td><td></td><td>FJAT-41203</td><td>Bacillus eiseniae</td><td>0.1</td></tr><tr><td>FJAT-41459</td><td>Bacillus methylotrophicus</td><td>0.6</td><td></td><td>FJAT-41191</td><td>Bacillus licheniformis</td><td>0.7</td></tr><tr><td>FJAT-41467</td><td>Brevibacillus limnophilus</td><td>0.2</td><td></td><td>FJAT-41206</td><td>Bacillus oceanisediminis</td><td>0.1</td></tr><tr><td>FJAT-41455</td><td>Ornithinibacillus scapharcae</td><td>0.3</td><td></td><td>FJAT-41195</td><td>Bacillus siamensis</td><td>0.5</td></tr><tr><td>MF-4-2</td><td>FJAT-41476</td><td>Bacillus circulans</td><td>0.1</td><td></td><td>FJAT-41192</td><td>Bacillus subtilis</td><td>1.1</td></tr><tr><td>9种</td><td>FJAT-41474</td><td>Bacillus altitudinis</td><td>0.5</td><td></td><td>FJAT-41202</td><td>Brevibacillus borstelensis</td><td>0.1</td></tr><tr><td></td><td>FJAT-41468</td><td>Bacillus kochii</td><td></td><td></td><td>FJAT-41198</td><td>Lysinibacillus halotolerans</td><td>2.2</td></tr><tr><td rowspan=\"7\"></td><td>FJAT-41469</td><td>Bacillus licheniformis</td><td>0.1</td><td></td><td>FJAT-41197</td><td>Ornithinibacillus scapharcae</td><td>0.2</td></tr><tr><td>FJAT-41473</td><td>Bacillus methylotrophicus</td><td>0.8 7.0</td><td></td><td>FJAT-41201</td><td>Paenibacillus barengoltzii</td><td>0.1</td></tr><tr><td>FJAT-41475</td><td>Bacillus siralis</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1.0</td><td></td><td></td><td></td><td></td></tr><tr><td>FJAT-41470</td><td>Lysinibacillus halotolerans</td><td>1.0</td><td></td><td></td><td></td><td></td></tr><tr><td>FJAT-41484</td><td>Paenibacillu ilioisensis</td><td>10.0</td><td></td><td></td><td></td><td></td></tr><tr><td>FJAT-41483</td><td>Paucisalibacillus globulus</td><td>10.0</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.2微生物发酵床芽胞杆菌空间频次分布",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于表3统计,微生物发酵床芽胞杆菌种类空间出现频次分析结果见图3。芽胞杆菌种类微生物发酵床32个空间样本中出现频次差异显著,有的种类广泛分布在空间样本中,有的种类分布在少数空间样本中,其分布广泛性可分为3类：第I类为广分布种类,有8个种分布在14—29个空间样本中,分别为地衣芽胞杆菌（Bacillus licheniformis）（29样本）、柯赫芽胞杆菌（B.hochii）（23样本）、甲基营养型芽胞杆菌（B.methylotrophicus）（21样本）、高地芽胞杆菌（B.altitudidns）（18样本）、阿氏芽胞杆菌（B.aryabhattai）（19样本）环状芽胞杆菌(B.circulans）（16 样本）、耐盐赖氨酸芽胞杆菌（Lysinibacilus halotolerans）（14 样本）和克劳氏芽胞杆菌(B.cdausi)（14样本)。第Ⅱ类为寡分布种类,有8个种分布在5—10个空间样本中,它们是特基拉芽胞杆菌（B.tequilensis）（10样本）、根际芽胞杆菌（B.rhizosphaerae）（8样本）、拾蛤鸟氨酸芽胞杆菌（Ornithinibacillus scapharcae）（8样本）、嗜盐噬糖芽胞杆菌（B.halosaccharovorans）（7样本）解淀粉芽胞杆菌（B.amyloliquefaciens）（6样本）、蜡状芽胞杆菌(B.cereus）（6样本）、枯草芽胞杆菌(B.subtilis）（8样本）和暹罗芽胞杆菌(B.siamensis)（5样本)。第II类为少分布种类,其余的32个种分布在1—4个空间样本中。特别注意地是类芽胞杆菌和短芽胞杆菌在这都属于少分布种类,常见的蜡状芽胞杆菌和枯草芽胞杆菌属于寡分布类型的种类。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.3微生物发酵床芽胞杆菌数量分布",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于表3统计,微生物发酵床芽胞杆菌数量分布结果见图4。微生物发酵床48种芽胞杆菌数量最大值$9 4 . 1 1 \\times 1 0 ^ { 6 }$ 个/g,最小值为 $0 . 1 \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\check { g } }$ ,平均值为 $8 . 9 6 \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\check { g } }$ 。根据数量分布可将其分为4类,第I类为高含量组,优势种群,占比 $1 6 . 7 \\%$ ,数量分布在 $( 1 7 - 9 4 ) \\times 1 0 ^ { 6 }$ 个/g之间,属于该类的芽胞杆菌有环状芽胞杆菌、地衣芽胞杆菌、阿氏芽胞杆菌、甲基营养型芽胞杆菌、人参土芽胞杆菌(Paenibacillus ginsengiterrae）、柯赫芽胞杆菌、高地芽胞杆菌和嗜盐噬糖芽胞杆菌;第Ⅱ类为中含量组,常见种群，,占比 $1 4 . 6 \\%$ ,数量分布在 $( 8 - 1 3 ) \\times$ $1 0 ^ { 6 }$ 个/g之间,属于该类的芽胞杆菌包含特基拉芽胞杆菌、克劳氏芽胞杆菌、尼氏芽胞杆菌( $B .$ ，nealsonii）、小球状少盐芽胞杆菌（Paucisalibacillus globulus）、伊利诺伊类芽胞杆菌（Paenibacills illinoisensis）、枯草芽胞杆菌和耐盐赖氨酸芽胞杆菌;第II类为寡含量组,寡见种群,占比 $1 8 . 7 6 \\%$ ,数量分布在 $( 3 - 5 ) \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\nabla } \\cdot / \\mathbf { g }$ 之间,属于该类的为印空研芽胞杆菌（B.isronensis）、根际芽胞杆菌、解淀粉芽胞杆菌( $B _ { \\ l }$ ，amyloliquefaciens）、海洋纤细芽胞杆菌（Gracilibacillus marinus）、蔬菜芽胞杆菌（Bacillus oleronius）、拾蛤鸟氨酸芽胞杆菌( $O r$ ，scapharcae）、青贮窖芽胞杆菌（Bacillus siralis）蜡状芽胞杆菌和堆肥赖氨酸芽胞杆菌（Lysinibacilus composti）;第IV类为低含量组,偶见种群,占比 $5 0 \\%$ ,数量分布在 $( 2 { - } 0 . 1 ) \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\chi } _ { \\mathbf { g } } ^ { \\prime }$ 之间,属于该类的芽胞杆菌有蜡状芽胞杆菌、暹罗芽胞杆菌（Bacillus siamensis）、海口芽胞杆菌(B.haikouensis）、霍氏芽胞杆菌（Bacillus horneckiae）、土地芽胞杆菌（Bacillus humi）、嗜常温芽胞杆菌（Bacillus mesophilum）、越南芽胞杆菌（Bacilus vietnamensis）、清国酱赖氨酸芽胞杆菌（Lysinibacillus chungkukjangi）、波茨坦短芽胞杆菌（Brevibacillus borstelensis）、锰矿土赖氨酸芽胞杆菌（Lysinibacilus manganicus）、烟酸芽胞杆菌（Bacilus niacini）、居湖短芽胞杆菌（Brevibacilus limnophilus）、硝化短芽胞杆菌（Brevibacillus nitrificans）、长赖氨酸芽胞杆菌（L.macroides）、淤泥大洋芽胞杆菌（Oceanibacilluscaeni）、饲料类芽胞杆菌（Paenibacills pabuli）、牛奶类芽胞杆菌（Paenibacillus lactis）、弯曲芽胞杆菌（B.flexus）、黄海芽胞杆菌（B.marisflavi）、海床类芽胞杆菌（B.oceanisediminis）、泰门芽胞杆菌（B.timonensis）、厦门芽胞杆菌（B.xiamenensis）、纺锤形赖氨酸芽胞杆菌（L.fusiformis）和巴伦氏类芽胞杆菌（Paenibacillusbarengolzii）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3 微生物发酵床芽胞杆菌空间分布型",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于表3,将4横8纵分割的32个空间样本单元内的各芽胞杆菌数量按单元分别作总和统计，考察芽胞杆菌作为一个种群在发酵床的空间分布型,统计结果见表4。结果表明;微生物发酵床空间样本单元芽胞杆菌数量分布差异很大,其中样本中数量最高的是 $9 7 . 6 \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\check { g } }$ ,位于空间样本M-4-1,最低的是 $0 . 8 0 0 \\times 1 0 ^ { 6 }$ 个/g,位于空间样本M-7-4,平均值为 $1 3 . 7 7 \\times 1 0 ^ { 6 }$ 个 $\\mathbf { \\check { g } }$ 。利用表3数据统计空间分布型指数见表5。空间分布型的",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "地衣芽胞杆菌 Bacillus licheniformis 129 科赫芽胞杆菌 Bacillus kochii 23 甲基营养型芽胞杆菌 Bacillusmethylotrophicus 121   \n第I类广分布种类 阿氏芽胞杆菌 Bacillus aryabhattai 119 高地芽胞杆菌 Bacillus altitudinis 18 环状芽胞杆菌 Bacillus circulans 116 耐盐赖氨酸芽胞杆菌 Lysinibacillus halotolerans 14 克劳氏芽胞杆菌 Bacillus clausii 14 特基拉芽胞杆菌 Bacillus tequilensis 10 拾蛤鸟氨酸芽胞杆菌 Ornithinibacillus scapharcae 8 枯草芽胞杆菌 Bacillus subtilis 8 根际芽胞杆菌 Bacillus rhizosphaerae 8   \n第Ⅱ类寡分布种类 嗜盐噬糖芽胞杆菌 Bacillus halosaccharovorans 7 蜡状芽胞杆菌 Bacillus cereus 6 解淀粉芽胞杆菌 Bacillus amyloliquefaciens 6 暹罗芽胞杆菌 Bacillus siamensis 5 波茨坦短芽胞杆菌 海洋纤细芽胞杆菌 Brevibacillus borstelensis Gracilibacillus marinus ologica. 13 青贮窖芽胞杆菌 Bacillus siralis 尼氏芽胞杆菌 Bacillus nealsonii 印空研芽胞杆菌 Bacillus isronensis 蚯蚓芽胞杆菌 Bacillus eiseniae 3 小球状少盐芽胞杆菌 Paucisalibacillus globulus 2 长赖氨酸芽胞杆菌 Lysinibacillus macroides 蔬菜芽胞杆菌 Bacillus oleronius 弯曲芽胞杆菌 Bacillus flexus 饲料类芽胞杆菌 Paenibacillus pabuli 牛奶类芽胞杆菌 Paenibacillus lactis 伊利诺伊类芽胞杆菌 Paenibacillus illinoisensis 人参地类芽胞杆菌 Paenibacillus ginsengiterrae 1 巴伦氏类芽胞杆菌 Paenibacillus barengoltzii   \n第II类少分布种类 淤泥大洋芽胞杆菌 Oceanobacillus caeni 锰矿土赖氨酸芽胞杆菌 Lysinibacillus manganicus 纺锤形赖氨酸芽胞杆菌 Lysinibacillus fusiformis 堆肥赖氨酸芽胞杆菌 Lysinibacillus composti 清国酱赖氨酸芽胞杆菌Lysinibacillus chungkukjangi 硝化短芽胞杆菌 Brevibacillus nitrificans 居湖短芽胞杆菌 Brevibacillus limnophilus 厦门芽胞杆菌 Bacillus xiamenensis 越南芽胞杆菌 Bacillus vietnamensis 泰门芽胞杆菌 Bacillus timonensis 海洋沉积芽胞杆菌 Bacillus oceanisediminis 烟酸芽胞杆菌 Bacillus niacini 嗜常温芽胞杆菌 Bacillus mesophilum 黄海芽胞杆菌 Bacillus marisflavi 土地芽胞杆菌 Bacillus humi 霍氏芽胞杆菌 Bacillus horneckiae 1 海口芽胞杆菌 Bacillus haikouensis □ 1 0 5 10 15 20 25 30 35 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "聚集度测定结果表明，芽胞杆菌 $I$ 指标 $= 2 2 . 6 1 8 3 { > } 0$ ,为聚集分布；平均拥挤度， $\\left( m ^ { * } / m \\right)$ 指标 $= 2 . 4 2 1 2 { > } 1$ ，为聚集分布； $C A$ 指标 $= 1 . 4 2 1 2 { > } 0$ ,为聚集分布;扩散系数 $( \\phantom { } C ) = 2 3 . 6 1 8 3 > 1$ ,为聚集分布;负二项分布 $K$ 指标 $= 1 . 0 7 7 8$ $> 0$ ,为聚集分布,表明芽胞杆菌在发酵床中分布为聚集分布。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究拥挤度 $( m ^ { * } )$ 与平均值 $( m )$ 之间的关系，用 $\\boldsymbol { m } ^ { * } - \\boldsymbol { m }$ 回归分析,建立 $\\boldsymbol { m } ^ { * } - \\boldsymbol { m }$ 回归式 $m \\ ^ { * } = a + b m$ ,结果表明， $\\boldsymbol { m } ^ { * } - \\boldsymbol { m }$ 回归方程(IWAO)为 $m ^ { * } = - 4 7 . 1 2 0 8 + 5 . 9 0 7 6 m$ $r = 0 . 7 7 9 5$ $a = - 4 7 . 1 2 0 8 < 0$ ,表明芽胞杆菌微生物个体群之间相互排斥， $b = 5 . 9 0 7 6 { > } 1$ ,表明芽胞杆菌空间分布型为聚集分布。运用幂法则分析表明,Taylor幂法则方",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bacillus circulans 194.11 Bacillus licheniformis 75.66 Bacillus aryabhattai 54.22 Bacillus methylotrophicus 22.71   \n第「类高含量组 Paenibacillus ginsengiterrae 20 Bacillus kochii 19.72 Bacillus halosaccharovorans 17.1 Bacillus altitudinis 17.07 Bacillus tequilensis 12.65 Bacillus nealsonii 12.5 Bacillus clausii 10.52   \n第Ⅱ类中含量组 Paucisalibacillus globulus 10.2 Paenibacillus illinoisensis 10 Bacillus subtilis 9.48 Lysinibacillus halotolerans 18.5 Bacillus isronensis 15.01 Bacillus rhizosphaerae 4.8 Bacillus amyloliquefaciens 4.71 Gracilibacillus marinus, 4.2   \n第Ⅲ类寡含量组 Bacillus oleronius ecologica. Ornithinibacillus scapharcae Bacillus siralis Bacillus cereus Lysinibacillus composti Bacillus siamensis 1 1.68 Bacillus flexus 1.18 Bacillus vietnamensis 1 Lysinibacillus chungkukjangi 1 Bacillus mesophilum 1 Bacillus haikouensis 1 Bacillus humi 1 Bacillus horneckiae 1 Bacillus eiseniae 0.8 ， Lysinibacillus manganicus 0.3 Brevibacillus borstelensis 0.3 Oceanobacillus caeni 0.2   \n第V类低含量组 Paenibacillus pabuli 0.2 Lysinibacillus macroides 0.2 Brevibacillus nitrificans 0.2 Brevibacillus limnophilus 0.2 Bacillus niacini 0.2 Paenibacillus lactis 0.15 Paenibacillus barengoltzii 0.1 Bacillus xiamenensis 0.1 Bacillus timonensis 0.1 Lysinibacillus fusiformis 0.1 Bacillus marisflavi 0.1 Bacillus oceanisediminis 0.1 0 20 40 60 80 100 /(×10cfu/g) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Distribution diversity of Bacillus-like species in the piggery bedding 程为 $\\mathrm { l g } ( s ) = - 1 . 2 8 7 6 + 3 . 1 9 6 6 \\mathrm { l g } ( x )$ ， $r = 0 . 8 2 3 3$ ， $b = 3 . 1 9 6 6 { > } 1$ ,为聚集分布。 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，养猪微生物发酵床芽胞杆菌空间分布为聚集分布。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4微生物发酵床芽胞杆菌多样性指数",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 微生物发酵床芽胞杆菌空间分布多样性",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "基于表4统计,芽胞杆菌总体多样性指数结果见表6。芽胞杆菌含量范围为 $( 0 . 0 1 { \\ - } 9 . 4 1 1 ) \\times 1 0 ^ { 7 }$ 个 $\\mathbf { \\nabla } \\cdot / \\mathbf { g }$ ;48种芽胞杆菌总含量达 $4 . 4 1 \\times 1 0 ^ { 8 }$ 个 $/ \\mathbf { g }$ ;丰富度指数 $( D )$ 、优势度指数 $( \\lambda )$ 、Shannon-Wiener 指数( $\\langle H ^ { \\prime }$ ）、均匀度指数 $\\left( J ^ { \\prime } \\right)$ 分别为10.49276、0.26342、1.3589、0.98027。芽胞杆菌数量达 $1 . 5 \\times 1 0 ^ { 7 }$ 个 $\\mathbf { \\nabla } \\cdot / \\mathbf { g }$ 以上的种类有环状芽胞杆菌（ $\\phantom { - } 9 . 4 1 1 \\times 1 0 ^ { 7 }$ 个 $\\mathbf { \\nabla } / \\mathbf { g }$ ）、地衣芽胞杆菌( $7 . 5 6 6 \\times 1 0 ^ { 7 }$ 个 $\\mathbf { \\chi } _ { \\mathbf { g } } ^ { \\prime }$ ）、阿氏芽胞杆菌( ${ \\phantom { - } 5 . 4 2 2 3 \\times 1 0 ^ { 7 } }$ 个 $\\mathbf { \\nabla } \\cdot / \\mathbf { g }$ )、甲基营养型芽胞杆菌0 $2 . 2 7 1 \\times 1 0 ^ { 7 }$ 个 $/ \\mathbf { g }$ ）、人参土芽胞杆菌（ $( 2 . 0 0 0 \\times 1 0 ^ { 7 }$ 个 $\\mathbf { \\nabla } / \\mathbf { g }$ ）、柯赫芽胞杆菌( $( 1 . 9 7 2 \\times 1 0 ^ { 7 }$ 个 $\\mathbf { \\nabla } \\cdot / \\mathbf { g }$ )、嗜盐噬糖芽胞杆菌0 $\\phantom { 0 } { 1 . 7 1 0 \\times 1 0 } ^ { 7 }$ 个/g）。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/513c98d494db9bd527071ad11769a81812826f4c1fbb9aab686485ecb89e87ae.jpg",
+        "table_caption": [
+            "Table 4The content of Bacillus-like species in the piggery bedding "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">采样位置 Location</td><td rowspan=\"2\"></td><td colspan=\"8\">列坐标 Column coordinate/(×10个/g）</td><td rowspan=\"2\">平均值 Average</td><td rowspan=\"2\">方差 Variance</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>行坐标</td><td>1</td><td>19.4000</td><td>19.5000</td><td>18.6000</td><td>3.0000</td><td>6.4000</td><td>12.5900</td><td>40.0000</td><td>4.8800</td><td>15.5463</td><td>172.6288</td></tr><tr><td rowspan=\"3\">Row-coordinate</td><td>2</td><td>16.9000</td><td>14.1000</td><td>21.4000</td><td>30.5000</td><td>1.4900</td><td>4.8000</td><td>4.8000</td><td>3.4000</td><td>12.1738</td><td>157.3118</td></tr><tr><td>3</td><td>29.9000</td><td>15.7000</td><td>5.8000</td><td>5.7600</td><td>7.6000</td><td>5.0300</td><td>4.4000</td><td>1.7800</td><td>9.4963</td><td>85.1001</td></tr><tr><td>4</td><td>97.6000</td><td>20.6000</td><td>2.1000</td><td>3.7700</td><td>2.4200</td><td>8.1000</td><td>0.8000</td><td>7.5000</td><td>17.8613</td><td>1142.4909</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/14af43ad52b78a00591cef6dac6b16b32cef43a24e99bdeefd1c7003ac0fba99.jpg",
+        "table_caption": [
+            "表5微生物发酵床芽胞杆菌空间分布型指数",
+            "Table 5The distribution index of Bacillus-like species in the piggery bedding "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样方行 Sample row</td><td>拥挤度m* Congestion degree</td><td>1指标 I index</td><td>m*/m指标 m */m index</td><td>CA指标 扩散系数C CA index Diffusion coefficient</td><td>K指标 K index</td></tr><tr><td>1</td><td>25.8085</td><td>9.7499</td><td>1.6071</td><td>10.7499</td><td>1.6471</td></tr><tr><td>2</td><td>24.1162</td><td>10.9300</td><td>1.8289</td><td>11.9300</td><td>1.2064</td></tr><tr><td>3</td><td>17.4526</td><td>8.0706</td><td>1.8602</td><td>9.0706</td><td>1.1625</td></tr><tr><td>4</td><td>79.9375</td><td>61.7225</td><td>4.3886</td><td>62.7225</td><td>0.2951</td></tr><tr><td>平均值 Average</td><td>36.8287</td><td>22.6183</td><td>2.4212</td><td>23.6183</td><td>1.0778</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/67ac53b4f60afdd02744de9cd89127d7a1049218f9e12540ddb2de6baa7ea5d0.jpg",
+        "table_caption": [
+            "表4微生物发酵床空间样本芽胞杆菌含量",
+            "表6微生物发酵床芽胞杆菌群落多样性指数",
+            "Table6Diversity index of Bacillus-like species in the piggery bedding "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>项目 Item</td><td>数量 Account</td></tr><tr><td>空间样方数 Samples</td><td>优势度指数 Simpson diversity index(λ)</td><td>0.2634</td></tr><tr><td>芽胞杆菌含量 Content of Bacillus /(×107个/g)</td><td>Shannon-Wiener 指数 Shannon-Wiener index(H')</td><td>1.3589</td></tr><tr><td>丰富度指数 Richness index(D) 人</td><td>均匀度指数 Pielou's evenness index(J')</td><td>0.9803</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 微生物发酵床芽胞杆菌种类分布多样性",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "芽胞杆菌种类多样性指数基于表3计算,结果见表7。芽胞杆菌 Shannon-Wiener指数范围0—2.88,最大的种类为地衣芽胞杆菌(2.88）,最小的种类为海口芽胞杆菌、黄海芽胞杆菌、海洋芽胞杆菌等 22 种芽胞杆菌;优势度指数范围 $0 . 0 8 { \\ = } 1$ ,最大的种类是黄海芽胞杆菌、海洋芽胞杆菌等 22种芽胞杆菌,最小的种类是地衣芽胞杆菌(0.08);Hil指数范围1—17.75,最大的种类是地衣芽胞杆菌(17.75）,最小的种类是海口芽胞杆菌、黄海芽胞杆菌、海洋芽胞杆菌等 22种芽胞杆菌;芽胞杆菌丰富度指数范围0—7.71,最大的种类是,最小的种类为海口芽胞杆菌、黄海芽胞杆菌、海洋芽胞杆菌等22 种芽胞杆菌;均匀度指数范围0—1,最大的种类是长赖氨酸芽胞杆菌和波茨坦短芽胞杆菌,最小的种类是黄海芽胞杆菌、海洋芽胞杆菌等22 种芽胞杆菌。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 微生物发酵床芽胞杆菌多样性指数聚类分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "芽胞杆菌多样性指数聚类分析,根据表7数据，以欧式距离为尺度,用类平均法进行系统聚类,作图5。当 $\\lambda = 1 7$ 时,可将其分为2类：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第I类为高丰富度高含量类型,包括了7个种,即甲基营养型芽胞杆菌、耐盐赖氨酸芽胞杆菌、高地芽胞杆菌、克劳氏芽胞杆菌、阿氏芽胞杆菌、科赫芽胞杆菌、地衣芽胞杆菌。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d3ed78c2404e6abcd72142bd511e2b7fba3a72f3e71a21d881f0405e9e10c4f.jpg",
+        "table_caption": [
+            "表7发酵床芽胞杆菌种类空间分布多样性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Table 7 Distribution diversity of Bacillus-like species in the piggery bedding</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>种</td><td></td><td></td><td></td><td>index</td><td>index</td><td>优数</td><td></td></tr><tr><td></td><td></td><td>7.566</td><td>6.47</td><td>0.85</td><td>2.88</td><td></td><td></td></tr><tr><td>Bacillus licheniformis</td><td>29 23</td><td>1.972</td><td>7.38</td><td>0.81</td><td>2.55</td><td>0.08</td><td>17.75</td></tr><tr><td>Bacillus kochii Bacillus methylotrophicus</td><td>21</td><td>2.271</td><td>6.40</td><td>0.75</td><td>2.27</td><td>0.10 0.16</td><td>12.85</td></tr><tr><td>Bacillus aryabhattai</td><td>19</td><td>5.322</td><td>4.53</td><td>0.70</td><td>2.06</td><td>0.20</td><td>9.72 7.84</td></tr><tr><td>Bacillus altitudinis</td><td></td><td>1.707</td><td>5.99</td><td>0.82</td><td>2.36</td><td></td><td></td></tr><tr><td>Bacillus circulans</td><td>18</td><td>9.411</td><td>3.30</td><td>0.54</td><td>1.50</td><td>0.12</td><td>10.59</td></tr><tr><td>Bacillus clausi</td><td>16</td><td>10.52</td><td>5.52</td><td>0.87</td><td></td><td>0.35</td><td>4.49</td></tr><tr><td>Lysinibacillus halotolerans</td><td>14</td><td>0.850</td><td>6.07</td><td>0.86</td><td>2.30</td><td>0.12</td><td>10.01</td></tr><tr><td>Bacillus tequilensis</td><td>14</td><td>12.65</td><td>3.55</td><td></td><td>2.28 ●</td><td>0.13</td><td>9.77</td></tr><tr><td>Bacillus rhizosphaerae</td><td>10</td><td></td><td></td><td>0.78</td><td>1.80</td><td>0.19</td><td>6.07</td></tr><tr><td>Bacillus subtilis</td><td>8</td><td>0.480</td><td>4.46 3.11</td><td>0.74</td><td>1.55</td><td>0.27</td><td>4.70</td></tr><tr><td>Ornithinibacillus scapharcae</td><td>8</td><td>0.948 0.350</td><td>5.59</td><td>0.71</td><td>1.47</td><td>0.33</td><td>4.34</td></tr><tr><td>Bacillus halosaccharovorans</td><td>8</td><td>1.710</td><td></td><td>0.82</td><td>1.71</td><td>0.23</td><td>5.55</td></tr><tr><td>Bacillus amyloliquefaciens</td><td>7</td><td>0.471</td><td>2.11 3.23</td><td>0.81</td><td>1.57</td><td>0.26</td><td>4.80</td></tr><tr><td></td><td>6</td><td></td><td>5.58</td><td>0.63 0.69</td><td>1.13</td><td>0.39</td><td>3.09</td></tr><tr><td>Bacillus cereus Bacillus siamensis</td><td>6</td><td>0.245 0.168</td><td>7.71</td><td></td><td>1.23</td><td>0.35</td><td>3.42</td></tr><tr><td>Bacillus isronensis</td><td>5</td><td>0.501</td><td>1.24</td><td>0.62 0.47</td><td>1.00</td><td>0.45</td><td>2.72</td></tr><tr><td>Bacillus eiseniae</td><td>3</td><td>0.080</td><td>0.00</td><td>0.82</td><td>0.51 0.90</td><td>0.68</td><td>1.67</td></tr><tr><td>Bacillus nealsonii</td><td>3 3</td><td>1.250</td><td>0.79</td><td>0.51</td><td>0.56</td><td>0.47</td><td>2.46</td></tr><tr><td>Brevibacillus borstelensis</td><td>3</td><td>0.030</td><td>0.00</td><td>1.00</td><td>1.10</td><td>0.67</td><td>1.74</td></tr><tr><td>Bacillus siralis</td><td>3</td><td>0.320</td><td>1.72</td><td>0.76</td><td>0.83</td><td>0.33</td><td>3.00 2.29</td></tr><tr><td>Gracilibacillus marinus</td><td>3</td><td>0.420</td><td>1.39</td><td>0.20</td><td>0.22</td><td>0.49</td><td>1.25</td></tr><tr><td>Bacillus flexus</td><td>2</td><td>0.118</td><td>1 6.04</td><td>0.62</td><td>0.43</td><td>0.91</td><td>1.53</td></tr><tr><td>Lysinibacillus macrolides</td><td>2</td><td>0.020</td><td>● 0.00</td><td>1.00</td><td>0.69</td><td>0.74</td><td>2.00</td></tr><tr><td>Paucisalibacillus globulus</td><td>2</td><td>1.020</td><td>0.43</td><td>0.14</td><td>0.10</td><td>0.50 0.96</td><td>1.10</td></tr><tr><td>Bacillus oleronius</td><td>2</td><td>0.400</td><td>0.72</td><td>0.81</td><td>0.56</td><td></td><td>1.75</td></tr><tr><td>Bacillus haikouensis</td><td>1</td><td>6.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.63 1.00</td><td>1.00</td></tr><tr><td>Bacillus horneckiae</td><td>1</td><td>0.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Bacillus humi</td><td>1</td><td>0.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td></td><td>1.00</td></tr><tr><td>Bacillus marisflavi</td><td>1</td><td>0.010</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00 1.00</td><td>1.00</td></tr><tr><td>Bacillus mesophilum</td><td>1</td><td>0.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Bacillus niacini</td><td>1</td><td>0.020</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Bacillus oceanisediminis</td><td>1</td><td>0.010</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Bacillus timonensis ●</td><td>W1</td><td>0.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Bacillus vietnamensis</td><td>? 1</td><td>0.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td> Bacillus xiamenensis</td><td>1</td><td>0.010</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td> Brevibacillus limnophilus</td><td>1</td><td>0.020</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Brevibacillus nitificans</td><td>1</td><td>0.020</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Lysinibacillus chungkukjangi</td><td>1</td><td>0.100</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Lysinibacillus composti</td><td>1</td><td>0.210</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Lysinibacillus fusiformis</td><td>1</td><td>0.010</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Lysinibacillus manganicus</td><td>1</td><td>0.030</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Oceanobacillus caeni</td><td>1</td><td>0.020</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Paenibacillus barengoltzii</td><td>1</td><td>0.010</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Paenibacillus ginsengiterrae</td><td>1</td><td>2.000</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Paenibacillus illinoisensis</td><td>1</td><td>1.000</td><td>0.00</td><td>0.00</td><td>0.00</td><td>1.00</td><td>1.00</td></tr><tr><td>Paenibacillus lactis</td><td>1</td><td>0.015</td><td>0.00 0.00</td><td>0.00 0.00</td><td>0.00 0.00</td><td>1.00 1.00</td><td>1.00</td></tr><tr><td>Paenibacillus pabuli</td><td>1</td><td>0.020</td></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "第Ⅱ类为较低丰富度较低含量类型,该类分为2个亚类,第一亚类为中等丰富度中等含量的类型,包括了10个种,即弯曲芽胞杆菌、蜡状芽胞杆菌、暹罗芽胞杆菌、环状芽胞杆菌、枯草芽胞杆菌、嗜盐噬糖芽胞杆菌、解淀粉芽胞杆菌、拾蛤鸟氨酸芽胞杆菌、根际芽胞杆菌、特基拉芽胞杆菌。第二亚类为低丰富度低含量的类型,其余的31个种。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/46833a3777728127d9651ae79c4581308fcdd99cdb8e522d12ae14735ed2ccc5.jpg",
+        "img_caption": [
+            "图5芽胞杆菌种类分布聚类分析",
+            "Fig.5Distribution analysis of Bacillus-like speceis "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵床养猪是近几年发展起来的一种现代化生态养猪模式和技术体系，目前在我国各地得到了广泛应用。微生物发酵床能高效分解猪粪、消除恶臭,并最终将猪粪转化形成人工腐殖质,而后者又可以进一步研制成微生物肥料、生物农药、生物育苗与栽培基质等高值产品,因此,同时实现了养猪污染的原位微生物治理和猪粪的资源化利用。在此过程中,微生物起到了关键作用。前期,作者所在课题组利用高通量宏基因组",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "学技术分析了发酵床垫料中的微生物多样性,发现发酵床垫料中的微生物多样性极其丰富，而且存在着种类多样的芽胞杆菌（Bacillus-like）（数据待发表）。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "芽胞杆菌是一类重要的微生物资源,种类繁多,可以产生多种具有抑菌功能物质,如I和Ⅱ类羊毛硫抗生素（lantibiotics）[27]。因此,芽胞杆菌对猪群具有抗菌防病功能,具有作为益生菌开发的潜力。Manhar等研究发现枯草芽胞杆菌AMS6具有耐强酸( $\\mathrm { p H } 2 . 0 )$ 和胆汁( $( 0 . 3 \\% )$ ）、高抗菌活性、抗病原菌黏附和较强的纤维素降解能力等益生菌特性,作为饲料添加剂可以增强动物纤维素消化和肠道健康[28]。Lopetuso 等综述了益生克劳氏芽胞杆菌的临床应用效果、益生菌与肠道屏障相互作用、重建肠道平衡的可能作用机理[29]。大量研究表明,芽胞杆菌还具有高效降解猪粪中的有机物、抗生素、药物等及除臭、减少氨气排放等功能[30-34]。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析微生物发酵床垫料中可培养芽胞杆菌种群及其空间分布规律,本文通过稀释涂布平板和16S rRNA基因系统发育结合法研究垫料中的可培养芽胞杆菌空间分布多样性。结果表明：1)微生物发酵床垫料中的可培养芽胞杆菌种类极其多样,从32份微生物发酵床样品共分离获得芽胞杆菌452株,隶属于芽胞杆菌科和类芽胞杆菌科8个属的48 个种;2)发酵床垫料中的芽胞杆菌呈现出非常高的丰度,其中,丰度最高的达到 $9 4 . 1 1 \\times 1 0 ^ { 6 }$ 个/g,最低的也达到了 $0 . 1 \\times 1 0 ^ { 6 }$ 个/g,平均丰度高达 $8 . 9 6 \\times 1 0 ^ { 6 } \\approx \\langle \\mathbf { g } ; 3 \\rangle$ 优势芽胞杆菌种群分别为地衣芽胞杆菌、阿氏芽胞杆菌、环状芽胞杆菌、柯赫芽胞杆菌、甲基营养型芽胞杆菌、高地芽胞杆菌等;4)微生物发酵床不同空间的芽胞杆菌数量分布差异很大,表现为聚集分布型。这些结果表明,芽胞杆菌是发酵床垫料中的重要微生物种群，也提示：猪粪对芽胞杆菌的富集起到了一定作用。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "尽管发酵床垫料芽胞杆菌种群及其空间分布的研究较少报道,但国内外研究者在其他含有猪粪环境（如猪粪耗氧、厌氧堆肥)开展的相关研究也发现了类似结果。如,Yi等利用可培养、限制性片段长度多态性(PCR-RFLP)和变性剂梯度凝胶电泳(PCR-DGGE)法分析发现猪粪堆肥过程中可培养芽胞杆菌的数量和时空分布特性随着温度的改变发生了显著地变化,枯草芽胞杆菌和蜡样芽胞杆菌为优势种,在各阶段,芽胞杆菌的多样性均较低;在高温阶段堆肥各层的芽胞杆菌含量最高,而在各阶段的堆肥中间层含量均最低[35]。Guo等采用PCR-RFLP 法研究发现猪粪堆肥降温阶段堆肥中间层芽胞杆菌属是优势种群,底层优势种群则为梭菌属[36]。Li等分析发现牛粪高温堆肥阶段芽胞杆菌属、地芽胞杆菌属（Geobacillus）和尿素芽胞杆菌属（Ureibacillus）是优势属,热脱氮地芽胞杆菌(G.thermodenitrificans）是优势种;在高温后期,就地堆肥地芽胞杆菌（G.toebii）和领地尿素芽胞杆菌(U.terrenus）是优势种[37]。Guo 等也发现猪粪高温堆肥过程中芽胞杆菌属是各层最常见种群[38]。He 等研究表明芽胞杆菌种类在鸡粪堆肥各个阶段均有较高的含量[39]。本文研究结果与上述不完全一致,发酵床垫料的优势属与上述相同亦为芽胞杆菌属,但优势种群不一致。本研究亦获得了猪粪堆肥过程中的优势种枯草芽胞杆菌和蜡质芽胞杆菌,但该2种芽胞杆菌非发酵床的优势种群。牛粪高温堆肥的优势种未在养猪发酵床垫料中发现,其种群结构与猪粪的差异很大。本研究发现养猪发酵床中仅次于芽胞杆菌属的种群为赖氨酸芽胞杆菌属，而该属在猪粪和牛粪堆肥过程皆不为优势属。微生物发酵床芽胞杆菌种类分布多样性指数不均一，可能与发酵床的发酵等级和芽胞杆菌种类对发酵床成分的适应性和利用有关。有些芽胞杆菌种类出现富集成为优势种,几乎存在于整个发酵床,如地衣芽胞杆菌,但有些适应力弱导致其数量少,仅在某些位置存在。这说明垫料发酵程度对微生物种类分布有很大的影响。薛超等发现连作会造成土壤微生物的选择适应性,出现一些种群富集,而一些种群数量降低的现象[40],进而导致不同茬次营养基质中微生物对碳源数量的利用能力出现显著差异[41]。微生物发酵床主要成分为椰糠和谷壳等高纤维材料，所构建出的生存环境适合于能降解纤维的微生物生存。叶少文等分析了微生物发酵床垫料不同深度酶活,发现垫料中纤维素酶活和半纤维素酶活性很高,揭示了一类微生物的生存空间[42]。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "在养猪微生物发酵床芽胞杆菌优势种群中,地衣芽胞杆菌能够产生纤维素酶、果胶酶、淀粉酶、蛋白酶等[43-4],这些酶作用能为地衣芽胞杆菌的生存提供碳源和氮源能量来源,Mc Carthy 等发现地衣芽胞杆菌是猪粪固体堆肥过程的优势可培养微生物,这就印证了本研究中地衣芽胞杆菌是养猪发酵床垫料中优势种群结果的可靠性[45]。Islas-Espinoza 等发现地衣芽胞杆菌能降解猪粪中难降解的合成抗生素磺胺类药物,表明养猪微生物发酵床中大量地衣芽胞杆菌的存在在猪粪降解过程扮演着重要角色[32]。阿氏芽胞杆菌具有坚强的生命力，分布范围广。优势种高地芽胞杆菌是一种多功能芽胞杆菌，能产生碱性蛋白酶[46]，可以用于固体发酵的添加菌剂[47]。优势种阿氏芽胞杆菌和高地芽胞杆菌的强大存在可能与发酵床的发酵健康程度密切相关。环状芽胞杆菌在微生物发酵床的广泛存在与发酵床具有生防抗病作用有一定的相关性。环状芽胞杆菌作为发酵床的优势种群是一种重要的动物益生菌,它不仅能产生抑制猪病原菌的物质和表面活性剂[48],同时,还可以作为堆肥发酵程度检测指标[49]。优势种嗜盐噬糖芽胞杆菌源于盐碱土壤分离,关于此菌报道甚少,属于芽胞杆菌脂肪酸群III,特性就是可以在偏盐碱性环境生存[50]。蓝江林等发现微生物发酵床垫料含盐量很高,且pH普遍在8.0—9.0之间,随着发酵时间的增加,垫料中的盐浓度和 $\\mathrm { \\ p H }$ 皆呈上升状态[51]。因此,发酵床垫料的高盐碱度很可能是导致耐(嗜)盐碱芽胞杆菌种类存在的主要原因。优势种科赫芽胞杆菌文献报道较少,该菌最初是从乳制品分离获得,有着非常宽广的生长条件,如温度范围10— $4 0 \\ \\mathrm { ^ { \\circ } C }$ 、酸碱度范围pH6.0—10.5、盐度范围 $0 \\%$ 一 $1 0 \\%$ NaCI[52],该菌的生长特性适应微生物发酵床发酵过程生长条件极端变化而广泛分布。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵床含有丰富的微生物资源,通过微生物发酵床芽胞杆菌种群多样性分析,获得了大量的芽胞杆菌资源,这为进一步挖掘新功能和新物种提供了重要来源。关于芽胞杆菌种群变化与微生物发酵床生态功能的关联有待于进一步探讨和研究。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1］包武，李元钦，钱午巧，蔡元呈,邹以强，朱光荣 陈钧生.福建省生猪养殖污染状况及治理对策.安徽农学通报，2013，19（18)：90-94，105- 105.  \n[2］郑雪芳，刘波，林营志，蓝江林，刘丹莹.利用磷脂脂肪酸生物标记分析猪舍基质垫层微生物亚群落的分化.环境科学学报，2009，29(11)：2306-2317.  \n［3］赵冬青，吴建平，段淇斌.生物发酵床养猪效能和猪肉营养成分影响研究.草业学报，2012，21（2）：212-218.  \n[4］李买军,马晗，郭海宁，尹微琴，王小治，封克，顾洪如.养猪场发酵床垫料及下层土壤中酶活性变化特性研究.农业环境科学学报，2014,33(4) : 777-782.  \n［5］张履祥.沈氏农书.北京：中华书局，1956：50-50.  \n[6] GaddJ.UnnelhousingofpigsinLivestockEviroent/Fourthnteatioalymposium.Micigan：AmercanSocietyofgiculuralEnginneers，1993：1040-1048.  \n[7]TiquiaSgkisJfectsofingfreqcyooostingftpigaureaustiter.oresouceholo1997,62(1/2): 37-42.  \n[8]KaufmannR,Heler W,BieriM.Nutrientbalanceinthebiobedsystemforfateningpigs.Agrarforschung，997,，4(1）:25-28.  \n[9] Connor ML.Update on altermative housing systems for pigs.Manitoba Swine Seminar Proceedings，1995，（8）： 93-96.  \n[10] MargetaV，KralikGkDeaep-lieepiratsictaaraoss，）.  \n11]KnechtDopieZleseatisfpigdhlveofstrintestialprasiifectrevetieeaMedicine,2011,99(2/4): 234-239.  \n[12] 刘波，蓝江林，唐建阳，史怀.微生物发酵床菜猪大栏养殖猪舍结构设计.福建农业学报，2014，29（5）：505-509.  \n[13］刘波，郑雪芳，朱昌雄，蓝江林，林营志，林斌，叶耀辉.脂肪酸生物标记法研究零排放猪舍基质垫层微生物群落多样性.生态学报，2008,28(11): 5488-5498.  \n[14] 郑雪芳，刘波，林营志，蓝江林，刘丹莹.利用磷脂脂肪酸生物标记分析猪舍基质垫层微生物亚群落的分化.环境科学学报，2009，29(11):2306-2317.  \n[15］张学峰，周贤文，陈群，魏炳栋，姜海龙.不同深度垫料对养猪土著微生物发酵床稳定期微生物菌群的影响.中国兽医学报，2013，33(9)：1458-1462.  \n[16］王迪.猪用生物发酵床垫料中微生物群落多样性变化及芽孢杆菌分离与鉴定[D].武汉：华中农业大学，2012.  \n[17］林莉莉，姜雪，冯聪，范亮，王际辉，张或．发酵床养猪猪舍环境与猪体表微生物分布状况的研究.安徽农业科学，2010，38（34)：19530-19532.  \n[18］张庆宁，胡明，朱荣生，任相全，武英，王怀忠，刘玉庆，王述柏.生态养猪模式中发酵床优势细菌的微生物学性质及其应用研究.山东农业科学，2009，（4）：99-105.  \n[19］刘让，陈少平，张鲁安，苏贵成，李岩.生态养猪发酵益生菌的分离鉴定及体外抑菌试验研究.国外畜牧学：猪与禽，2010,30（2)：62-64.  \n[20］郑雪芳，刘波，蓝江林，苏明星，卢舒娴，朱昌雄.微生物发酵床对猪舍大肠杆菌病原生物防治作用的研究.中国农业科学，2011，44(22) : 4728-4739.  \n［21］毕小艳.猪用发酵床垫料中微生物动态变化及对猪免疫力的影响[D]．长沙：湖南农业大学，2011.  \n[22］卢舒娴.养猪发酵床垫料微生物群落动态及其对猪细菌病原生防作用的研究[D]．福州：福建农林大学，2011.  \n[23] 张金龙.猪发酵床养殖中芽孢杆菌菌株的筛选、鉴定及产蛋白酶条件的优化[D].雅安：四川农业大学，2009.  \n[24]Liu,uGilmeesotefressteailofEvolutionary Microbiology，2014,64（10）：3346-3352.  \n[25]KimOS,ChoYJ,LeeK,Yoon SH,KimM,NaH,ParkSC,JeonYS,LeeJH,YiH,WonS,ChunJ.Introducing EzTaxon-6prokaryotic16SrRNAGenesequencedatabasewithphylotypesthatrepresentunculturedspeciesInternationalJournalofSystematicandEvolutionary Microbiology，2012,62(3）：716-721.  \n[26]Tindalloelra，eJdgmperotesaacterzatiofprokaroersfocupInternational Journal of Systematic and Evolutionary Microbiology，2010,6O(1）：249-266.  \n[27]BarbosaJ，CaetanoTMendoSCsIandclassIlanthipeptidesproucedbyBilussppJualof NaturalProducts，1，78（）:2850-2866.  \n[28]ManharAK,BshirY,SikiaD,NathD,uptaK,KwarBK,KumarR,NamsaD,MadalMCellolytpotentilofprobiotlussubtilisAMS6olatedfrotraditioalfermentedsobean（Churpi）：ninvitrosudywithregadstapplatiosnaialfdditie.Microbiological Research,2016,186-187:62-70.  \n29]LpeusaleiFsilitesitdespiReview of Gastroenterology & Hepatology，2016，10（8）：943-948.  \n[30]MaedaK，HanajimaD，ToyodaS，YoshidaN，MoriokaR，OadaT.McrbigyofnitrogencycleinanimalmanurecompostMobialBiotechnology，2011，4（6）：700-709.  \n[31]KurodaK，WakiMsdukuoYaA,asakiKUtatioofBcilusrainTsologicaldiucammoniaemisions duringcompostingof swinefeces.Bioscience,Biotechnology，and Biochemistry，2015,79（10）：702-1711.  \n[32]Islas-EeiJexlerdSctealdpresexpetegdatiffpig manure. Microbial Ecology，2012,64(1): 140-151.  \n[3]GutarowskaB，MatusiakK，BorowskiS，ajkowskaA，BryckiBRemovalofodorouscompoundsfrompoultrymanurebymcrogissnperlite-bentonitecarrer.Journal of Environmental Management，2014，141:70-76.  \n[34]HaaDtaKsceloitygcfsosmanure slurry.Journal of Applied Microbiology，2009，106(1):118-129.  \n[35]YiJ，WuHY，uJengCZgR,ChaoZleularlgenetiivestfBcilsouitdstespatiaduring the swine manure of composting.Applied Microbiology and Biotechnology，2012,93（1）:411-421.  \n[36]GuoY,ZagJLanYF，WuJ,ZuNW,DengCYoleularphgeetidversitndataldistrbtiooftralocooling stage during swin manure composting. Asian-Australasian Journal of Animal Sciences，2015,28(6)：888-895.  \n[37]LiR,LiLZ,HangR,SunYF,MeiXL,hnB,enQR.Variatiosclurableteroplicicrobeumbsdbacterieduring the thermophilic phase of composting.World Journal of Microbiologyand Biotechnology，2014,30(6):1737-1746.  \n[38] Guo Y,ZhangJL，DengCY,ZhuNW.Spatialheterogeneityofbactera:evidencefromhotcompostsbycur-dependentaalysisAsianAustralasian Journalof Animal Sciences，2012,25（7): 1045-1054.  \n[39]HeYM,XieKZ,XuPZ，HuangX,GuWJ,ZhangFB,TangSH.Evolutionfmicrobialcoitydiversityandeaticctitungmposting.Research in Microbiology，2013，164(2）：189-198.  \n[40]薛超，黄启为，凌宁，高雪莲，曹云，赵青云，何欣，沈其荣.连作土壤微生物区系分析、调控及高通量研究方法.土壤学报，2011,48(3): 612-618.  \n[41］邹春娇，齐明芳，马建，武春成，李天来.Biolog-ECO解析黄瓜连作营养基质中微生物群落结构多样性特征.中国农业科学，2016，49(5): 942-951.  \n[42］叶少文，车建美，刘波，王阶平，陈倩倩，刘国红，陈峥，唐建阳.微生物发酵床垫料酶活性变化研究.福建农业学报，2016，31（1)：52-56.  \n[43］尹红梅，吴迎奔，张德元，王震，陈薇，贺月林.发酵床中耐高温地衣芽胞的分离鉴定及产酶分析.家畜生态学报，2012，3（6)：97-102.  \n[44］孙碧玉，邵继海，秦普丰，汤浩，黄红丽.养猪发酵床中净水芽胞杆菌的分离及其固体发酵研究.环境工程，2014，32（11）：60-63.  \n[45]McCrlofoleGAetlgoosigsolid fraction of pig manure.Bioresource Technology，2011，102（19）：9059-9067.  \n[46]VijayKuarE,ijaaMKiranKuarK,HarikrisaNeddyG.AvelerealkaineprteafBclsltuinisdsapplication as a dehairing agent.Bioprocess and Biosystems Engineering，2011，34(4）：403-409.  \n[47]MdriA,guB,rksddructifpoteseltssigstorsidfermentation.Applied Biochemistry and Biotechnology，2012，167(5）：1199-1207.  \n[48] MukherjeeS，Das,SivapathasearanC，SenR.AntiicrobialbiosurfactantsfrommarineBaciluscirculans：extracelularipurification.Letters in Applied Microbiology，2009，48(3）：281-288.  \n[49]SubbaRao,dvendraSvasRaR,HbsPrakashmRSuisoiprovingtheimobilieadreusabilitaiproteaseproductionbyisolatedimmobiliedBaciluscirculans（MTCC611）usingoverallevaluationcriteriaApliediochmistndBiotechnology，2008，150(1）：65-83.  \n[50］刘波，刘国红，林乃钰.基于脂肪酸生物标记芽胞杆菌属种类的系统发育.微生物学报，2014,54（2）：139-158.  \n[51] 蓝江林，宋泽琼，刘波，史怀，黄素芳，林娟.微生物发酵床不同腐熟程度垫料主要理化特性.福建农业学报，2013,28（11)：1132-136.  \n[52SeilerHdhelcaefrdacealufacunilJournal of Systematic and Evolutionary Microbiology，2012,62(5）：1092-1097.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

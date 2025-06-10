@@ -1,0 +1,339 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201509061830 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张雪梅，王永东，徐新文，雷加强，孙景鑫.塔里木沙漠公路防护林地表调落物分解对施肥的响应.生态学报,2017,37（5）：1506-1514.  \nZhangXM,WgD,uXeiJQnJsorlidiceoosioeel.  \nActaEcologica Sinica,2017,37(5):1506-1514.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔里木沙漠公路防护林地表凋落物分解对施肥的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张雪梅1,2,3,4，王永东1,4，徐新文1,4，\\*，雷加强1,4，孙景鑫1,3,4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院新疆生态与地理研究所，乌鲁木齐830011  \n2 新疆大学资源与环境科学学院，乌鲁木齐830046  \n3中国科学院大学，北京100049  \n4国家荒漠-绿洲生态建设工程技术研究中心，乌鲁木齐83001",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探讨沙漠公路防护林地表凋落物的分解速率和养分释放动态对施肥的响应,采用凋落物分解袋法,对塔里木沙漠公路防护林地乔木状沙拐枣（Callgonum arborescens）同化枝、梭梭（Haloxylon ammodendron）同化枝和多枝怪柳（Tamarix ramosissima）枝凋落物在施肥处理下的分解及养分释放特征进行研究。结果表明：经过420d的分解,3种凋落物质量残留率在对照（不施肥）施用氮肥、施用磷钾复合肥处理间存在显著性差异( $\\scriptstyle \\left. { P < 0 . 0 5 } \\right.$ 。乔木状沙拐枣同化枝、梭梭同化枝和多枝怪柳枝在对照处理下的质量残留率分别为 $5 6 . 9 5 \\% , 3 1 . 3 2 \\%$ 和 $5 0 . 2 4 \\%$ 。施肥处理下3种凋落物均呈现出梭梭同化枝分解速率最快,多枝怪柳枝次之,乔木状沙拐枣同化枝分解最慢。施用磷钾复合肥极显著提高了3种凋落物的分解速率( $\\cdot  { P _ { < 0 . 0 1 } }$ );施用氮肥则促进多枝怪柳枝的分解,抑制乔木状沙拐枣和梭梭同化枝的分解。凋落物分解过程中,对照组3种植物凋落物的 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 和K元素均呈现净释放状态;施肥后凋落物的N、P和K元素呈现出富集-释放的模式。凋落物初始P含量和 $\\mathrm { C } / \\mathrm { N } , \\mathrm { C } / \\mathrm { P }$ 比值是分解初期的主导因素，初始K、木质素、纤维素含量和 $\\mathrm { C } / \\mathrm { N }$ 、木质素/N比值是分解后期的主要控制因素。研究表明,施肥显著影响沙漠公路防护林地表凋落物的分解,增加防护林地表凋落物的养分归还量,延后养分释放的时间，改善塔里木沙漠公路防护林地的土壤肥力。凋落物初始C/N 比值是预测塔里木沙漠凋落物分解的重要因素,且不同分解时期影响凋落物分解的初始化学组成有所差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：质量残留率；分解速率;养分；施肥；沙漠公路防护林",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of fertilizer addition on surface litter decomposition in the Tarim Desert Highway shelterbelt ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xuemei1234， WANGYongdong $^ { 1 , 4 }$ ， XU Xinwen $^ { 1 , 4 }$ \\*,LEI Jiaqiang $^ { 1 , 4 }$ ，SUN Jingxin13.4   \n1 Xinjiang Institute of Ecology and Geography，Chinese Academy of Sciences，Urumqi 830o11,China   \n2 College of Resources and Environmental Science，Xinjiang University，Urumqi 83o046,China   \n3Graduate University of Chinese Academy of Sciences，Beijing 1Ooo49,China   \n4 National Enginering Technology Research CenterforDesert-Oasis Ecological Construction，Urumqi 8300l1，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Literdecomposition determines thenutrientand carbon cycling processes and regulates nutrient return to thesoil inmany terrestrial ecosystems.Wood plant literdecompositionisacrucialbiogeochemical processforcarbonandnutrient cycling，especiallyinaridandnutrient-constrained ecosystems.However,theroleofliterdecomposition inextremedrought deserts andthedetermining factors remaindebatableandpoorlyunderstood.The Tarim Desert HighwayShelterbeltconsists of three artificial plant species thataccountforthe majorityof netprimaryproductivity，and their litersare themajor contributors tocarbonandnutrientrecycling.Insuchartificialdesertshelterforests，theadditionoffertilizercauses contradictory effectsonliter decompositionandnutrient dynamics.Thisstudyaims to（1）examine how theadditionof fertilizerafectssurfacelitterdecompositionand nutrient dynamics，and（2）determinethemajor factors influencing liter decompositioninarid deserts.The literbag method wasused to investigate theassimilative branchesdecompositionof Caligonumarborescensand Haloxylonammodendron，and thebranches decomposition of Tamarixramosisima in the Taklimakan DesertResearch Station.Filledliterbags were placedonsoilsurfacesat diferentplots in March2O13.Fertilizer aditionand irrgation were implemented from March to November during the experiment.Litterbags were colected in May, July，September，and Novemberof2013,and in March and Mayof 2014.The massremaining,elemental content（carbon, nitrogen，phosphorus，andpotasium），anddecompositionratesof itter wereanalyzedateachdecompositionstage.Results showed thatafter42Odaysofdecomposition，significant diferences were foundamongcontrol（withoutfertilizer），addition of nitrogenfertilizer，and phosphorusand potassumcompoundfertilizer treatments.The massremainingfortheassimilative branches of $C$ ，arborescens，assimilative branches of $H .$ ，ammodendron，and branches of $T$ ，ramosissima without fertilizer addition were $5 6 . 9 5 \\%$ ， $3 1 . 3 2 \\%$ ，and $5 0 . 2 4 \\%$ ，respectively.The decomposition rate of fertilizer treatments among different litters was the highest for the assimilative branches of $H .$ ammodendron，followed by the branches of $T$ ，ramosissima，and then the assimilative branches of $C$ ，arborescens.The addition of phosphorus and potassium compound fertilizer significantly acceleratedthe literdecompositionrateof thethree plantspecies，whereasnitrogen fertilizer increased thedecomposition rate of the branches of $T _ { \\cdot }$ ，ramosissima and restrained the decomposition rate of the assimilative branches of $C$ .arborescens and $H .$ ，ammodendron.During the decomposition process，litter nutrients presented net release patterns in the treatments without fertilizer.Incontrast，thenitrogen，phosphorus，and potassiumcontentsofthe fertilizer treatmentsshowedan accumulation-releasepattern.The literdecompositionratewas determined bythe initialphosphorus contentand C/Nand C/Pratios at the initial decomposition stage.However，thedecompositionrate wascontroled bythe initial potassium, lignin，andcelllosecontentsandC/N,andlignin/Nratiosatthefinal stage.Overall,theresultssuggestthattheaddition offertilizer significantlychanged thedecompositionrateofsurface liters，increasedtheamountofreturnednutrients，and postponed thetimeof nutrientrelease.Improvingsoilfertilityinthe TarimDesertHighwayshelterbeltisessential in enhancing thequalityof thisvaluableecosystem.Theinitial literC/Nratioiscritical tosurface literdecomposition in the Tarim Desert，andthe initial chemicalcomposition tosurface literdecompositionratevariesatdiferent decomposition stages. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:massremaining；litter decompositionrate；nutrients；fertilizer adition；Tarim Desert Highwayshelterbelt ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "凋落物的分解及转化是生态系统养分和碳循环的关键环节之一，是土壤有机质的主要来源[1],是植物与土壤营养元素的主要补给者[2],是土壤碳库的主要输入者[3],在维持土壤肥力、促进森林生态系统正常的物质生物循环和养分平衡等方面起着重要的作用[46]。凋落物分解所归还的养分是森林生态系统养分的主要来源,它可满足植物生长所需总量的 $6 9 \\% - 8 7 \\% ^ { [ 7 ] }$ 。森林每年通过调落物分解归还给土壤的总氮、磷和钾量分别占植物生长所需总氮量的 $70 \\% - 8 0 \\%$ ,总磷量的 $6 5 \\% - 8 0 \\%$ 和总钾量的 $3 0 \\% - 4 0 \\% ^ { \\left[ 8 \\right] }$ 。在干旱半干旱的沙漠地区,相对贫乏的土壤养分限制其初级生产力[9,外来养分的输入匮乏,凋落物分解在维持生态系统的物质平衡、植物资源利用和改善土壤肥力等方面有着更加重要的意义[10]。国内外诸多学者对干旱半干旱地区凋落物分解的研究主要集中在非生物因素(温度、降水、光辐射、氮沉降等)和生物因素(凋落物质量、土壤微生物、土壤动物、土壤酶活性、种群组成和群落结构等)对凋落物分解的影响方面[10-13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "塔里木沙漠公路南北贯穿塔克拉玛干沙漠，全长 $5 2 6 ~ \\mathrm { k m }$ ,穿越流动沙漠区 $4 3 6 ~ \\mathrm { k m }$ ,是世界上穿越流动沙漠最长的二级公路。为防治塔里木沙漠公路的风沙危害,保障沙漠公路的安全运行，于2005年建成的防护林带(宽 $7 2 { - } 7 8 \\mathrm { ~ m ~ }$ ），总面积 $3 1 . 2 8 ~ \\mathrm { k m } ^ { 2 }$ ,种植林木达2000 万株。受环境和气候条件的制约,防护林地凋落物自然分解非常缓慢,限制了林地内的养分归还量，不利于土壤肥力改善。防护林沿线采用地下水滴灌的管护模式,以施用氮肥为主、磷钾复合肥为辅来提高防护林体系的养分(氮、磷、钾)。施肥不仅改变防护林地内植物和土壤的养分状况,同时也影响着林地内凋落物的分解。因生态系统类型、植物种类、研究区、研究方法和观测时间等的不同,外源元素添加对凋落物分解的影响可分为3种情况：一是促进凋落物的分解,外源元素的添加使得凋落物中相应元素的含量增加,有助于加速凋落物的分解[14-15];二是抑制凋落物的分解,外源元素的添加通过改变参与分解的微生物组成及酶活性等,从而延缓凋落物分解的速率[16-7];三是无影响,外源元素对凋落物的分解无促进或抑制作用,或受到其他因素的限制[18-19]。为探讨沙漠公路防护林地表主要凋落物的分解和养分释放对施肥的响应,设计了凋落物分解的施肥控制实验。本研究有助于理解咸水滴灌下塔里木沙漠公路防护林地表凋落物分解和养分归还特征,阐明特殊生境下凋落物分解及转化的规律,揭示人类活动在分解过程中起到的调控作用,为沙漠公路防护林土壤肥力和养分循环特征研究提供理论和基础数据支持，对于准确认识和估计该区域内的物质循环与能量流动有着重要生态学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区域与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于塔里木沙漠腹地,地理坐标为 $3 9 ^ { \\circ } 0 1 ^ { \\prime } \\mathrm { ~ N ~ } , 8 3 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { ~ E ~ }$ ,海拔 $1 1 0 0 \\mathrm { ~ m ~ }$ 。属暖温带极端干旱的大陆气候,气候特征表现为气温年较差和日较差大、日照时间长、风沙活动强烈。降水全年分布不均,主要集中在6—7月,年降水量 $1 1 - 5 0 ~ \\mathrm { m m }$ ,潜在蒸散量高达 $3 6 3 8 . 6 ~ \\mathrm { m m } ^ { [ 2 0 . 2 1 ] }$ 。塔里木沙漠地面景观以流动性高大复合沙垄为主,土壤类型绝大部分为流动风沙土。沙漠公路沿线缺乏地表径流,但地下水储存量较大,水质差,矿化度 $2 . 6 { - } 3 0 ~ \\mathrm { g / L }$ ,其中 $9 0 \\%$ 以上地段大于 $4 ~ \\mathrm { g } / \\mathrm { L } ^ { [ 2 1 ] }$ 。塔里木沙漠公路防护林特殊的地理环境以及灌溉水资源的限制决定了极其匮乏的植物资源,防护林带内主要以沙拐枣属（CalligonumL.）、梭梭属（Haloxylon Bunge）、怪柳属(Tamarix Linn.)等防风固沙、抗旱抗盐的高抗逆灌木和小乔木树种为主[20-21]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2实验设计及样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验在塔里木沙漠腹地的塔克拉玛干沙漠研究站进行,设置3个施肥处理;施用氮肥、施用磷钾复合肥和对照,每个处理设置3个重复,共设置了9个 $1 \\ \\mathrm { m } \\times 1 . 5 \\ \\mathrm { m }$ 的实验样地。在3种植物的生长季结束时（10—11月）,选择与沙漠公路防护林同年定植的未破坏、有代表性的防护林地,收集当年自然凋落的乔木状沙拐枣同化枝、梭梭同化枝和多枝怪柳枝样品,同一植物的样品去除杂质混合均匀后,自然风干。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 种凋落物样品各称取 $2 0 . 0 0 \\mathrm { ~ g ~ }$ 分别装入大小为 $2 0 \\ \\mathrm { c m } { \\times } 2 0 \\ \\mathrm { c m }$ ，网眼直径为 $1 ~ \\mathrm { m m }$ 的尼龙网分解袋中。同时，每种凋落物各称取5个样品于 $7 0 \\%$ 烘 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后称重，计算凋落物样品的初始干重，部分烘干样品粉碎用以凋落物初始化学组成的测定。于2013年3月底,将称量好的162袋凋落物样品平铺放置于相应样地的地表，每个样地放置18袋(每种凋落物样品在每个样地中放置6袋)。根据塔里木沙漠公路的灌溉制度和施肥管理,实验期间(2013年3月—2014年5月)各样地每年3月至11月份每 $1 5 \\mathrm { ~ d ~ }$ 灌水1次,每次灌水量 $3 0 ~ \\mathrm { L / m } ^ { 2 }$ ，11月至翌年2月份免灌,灌溉用水为就地取用地下水,矿化度为 $4 . 0 4 ~ \\mathrm { g / L }$ 。施用氮肥处理(NF)是将尿素（CO（ $\\left. { N H } _ { _ { 2 } } \\right) _ { 2 }$ )溶解于灌溉水中，施用磷钾复合肥处理(PK)是将磷酸二氢钾( ${ \\mathrm { K H } } _ { 2 } { \\mathrm { P O } } _ { 4 }$ )溶于灌溉水中,每次施肥量均为 $5 ~ \\mathrm { g / L }$ ;对照处理(CK)不施肥。用喷壶将配好的水均匀的添加至各处理样地的凋落物分解袋上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验期间每隔 $6 0 \\mathrm { ~ d ~ }$ 收集一次凋落物分解袋,分6次(2013年5月、7月、9月、11月，2014年3月、5月）取回凋落物分解袋(每次每个样地每种凋落物分解袋各取回1袋,每次共取回27袋凋落物)。收回的分解袋去除杂物后,用蒸馏水对凋落物样品进行快速冲洗(凋落物表面不存在残留物),装入信封风干后于 $6 5 \\mathrm { ^ { \\circ } C }$ 下烘干至恒量并称量,获得凋落物干物质残留量。将一部分烘干样品粉碎并过 $0 . 2 5 \\ \\mathrm { m m }$ 筛,用于调落物全C、全N、全P、全K含量的测定。其中,全C采用燃烧法测定,全N采用三酸消化凯氏定氮法测定,全P采用三酸消化钼蓝比色法测定,全K采用三酸消化原子吸收法测定,木质素和纤维素采用范氏（Van Soest)洗涤纤维分析法测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "凋落物的分解动态常用Olson指数衰减模型[22]来描述和预测： $M _ { t } / M _ { 0 } = \\mathrm { e } ^ { - k t }$ ，式中 $M _ { 0 }$ 为凋落物初始重量（g）， $\\boldsymbol { M } _ { t }$ 为经时间 $\\mathbf { \\chi } _ { t }$ 后的凋落物残留量 $\\mathbf { \\Psi } ( \\mathbf { g } ) \\mathbf { \\Psi } , k$ 为凋落物分解系数， $\\mathbf { \\chi } _ { t }$ 为分解时间。凋落物分解 $5 0 \\%$ 时所需时间（半衰期 $t _ { 0 . 5 }$ )和分解 $9 5 \\%$ 时所需时间 $\\left( t _ { 0 . 9 5 } \\right)$ ）计算公式为： $t _ { 0 . 5 } = \\ln 0 . 5 / ( - k )$ ， $t _ { 0 . 9 5 } = \\ln 0 . 0 5 / ( - k )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分解过程中凋落物元素残留率表示为[23]： $N R = M _ { t } X _ { t } / M _ { 0 } X _ { 0 } \\times 1 0 0 \\$ ,式中 $M _ { 0 }$ 为凋落物初始干物质质量 $\\mathbf { \\tau } ( \\mathbf { g } )$ ，$X _ { 0 }$ 为凋落物中元素初始浓度( $\\mathrm { m g / g } \\mathrm { \\dot { \\Omega } }$ ） $M _ { t }$ 为凋落物分解 $\\mathbf { \\chi } _ { t }$ 时刻干物质残留量（g）， $X _ { t }$ 为分解 $\\mathbf { \\chi } _ { t }$ 时刻凋落物中元素浓度 $( \\mathrm { m g / g } )$ 。当 $N R { < } 1 0 0 \\%$ ,凋落物分解过程中元素发生了净释放,当 $N R { > } 1 0 0 \\%$ ,凋落物分解过程中元素发生了净富集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运用 $\\mathrm { 0 r i g i n ~ 8 . 0 }$ 作图,用 SPSS 16.0 对数据进行统计分析。凋落物的分解时间、物种、处理及其交互作用对凋落物质量残留率、分解速率和元素残留率的显著性影响采用多因子方差分析(ANOVA)和最小显著差异法（LSD），显著性水平 $\\alpha = 0 . 0 5$ ;运用相关分析方法研究各物种凋落物分解速率与初始含量之间的相关关系，同时应用指数回归拟合凋落物质量残留率的Olson负指数回归方程。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 凋落物的初始化学特性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可知,塔里木沙漠公路防护林地3种凋落物初始化学性质的总体差异显著( $\\scriptstyle \\left. { P < 0 . 0 5 } \\right.$ 。其中，乔木状沙拐枣同化枝初始C、P、木质素、纤维素含量和C/N、木质素/N比值最高,N含量最低;梭梭同化枝初始 N含量最高,C、木质素、纤维素含量和C/N、木质素/N 比值最低;多枝怪柳枝初始P和K含量最低。凋落物初始总养分浓度在物种间表现出梭梭同化枝 $>$ 多枝怪柳枝 $>$ 乔木状沙拐枣同化枝;难分解物质（木质素和纤维素)含量在物种间则呈现与之相反的变化规律,即乔木状沙拐枣同化枝最高,梭梭同化枝最低。3种凋落物初始化学组成之间的显著性差异是由乔木状沙拐枣、梭梭和多枝怪柳自身的生态学特性及凋落物的性质所决定的[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd6b67b61f0ee75d0ed1bd31587e3186a5a36857ea246b2860410eba69b03bd2.jpg",
+        "table_caption": [
+            "表1调落物的初始化学组成（平均值 $\\pm$ 标准偏差)",
+            "Table 1Initial chemical properties of litters（mean ± SD) "
+        ],
+        "table_footnote": [
+            "同行不同小写字母表示在0.05水平上差异显著"
+        ],
+        "table_body": "<html><body><table><tr><td>指标 Index</td><td>乔木状沙拐枣 C.arborescens</td><td>梭梭 H.ammodendron</td><td>多枝柽柳 T. ramosissima</td></tr><tr><td>全碳 Total C/(g/kg)</td><td>401.17 ± 1.75 a</td><td>349.36 ± 0.75 b</td><td>400.82 ± 5.26 a</td></tr><tr><td>全氮 Total N/(g/kg)</td><td>4.48 ± 0.17 a</td><td>11.38 ± 0.13 b</td><td>9.70 ± 0.32 b</td></tr><tr><td>全磷 Total P/(g/kg)</td><td>0.75 ± 0.03 a</td><td>0.45 ± 0.03 b</td><td>0.24 ± 0.02 c</td></tr><tr><td>全钾 Total K/(g/kg)</td><td>4.94 ± 0.20 a</td><td>8.36 ± 0.04 b</td><td>4.20± 0.14 c</td></tr><tr><td>木质素Lignin/(wt.%)</td><td>27.48 ± 0.16 a</td><td>14.95 ± 0.32 b</td><td>26.03 ± 0.77 a</td></tr><tr><td>纤维素Cellulose/（wt.%)</td><td>29.58 ± 1.07 a</td><td>18.29 ± 0.36 b</td><td>28.86 ± 0.87 a</td></tr><tr><td>碳氮比Ratio of C/N</td><td>90± 1 a</td><td>31± 2 b</td><td>41 ± 3 b</td></tr><tr><td>碳磷比Ratio of C/P</td><td>537 ± 19 a</td><td>817 ± 57 a</td><td>1718 ± 76 b</td></tr><tr><td>木质素氮比Ratio of Lignin/N</td><td>61 ±4a</td><td>13 ± 2 b</td><td>27 ±3c</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 施肥对凋落物分解的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "施肥处理下3种凋落物干物质残留率在分解前期(0—120d)随时间的推移迅速下降,随后逐渐趋于平缓。分解前期(0—120d)凋落物干物质损失量占整个分解周期(0—420 d)内凋落物干物质总损失量的$3 1 . 7 8 \\%$ 一 $8 2 . 9 3 \\%$ ,此时间段内凋落物质量残留率降低的幅度明显高于其它分解时段。不同物种间凋落物存在显著性差异( $P { < } 0 . 0 5 )$ ,梭梭同化枝残留率最低,其次是多枝怪柳枝,乔木状沙拐枣同化枝残留率最高。经过 $4 2 0 \\mathrm { ~ d ~ }$ 的分解后，CK凋落物质量残留率为 $3 1 . 3 2 \\% - 5 6 . 9 5 \\%$ ,平均分解速率为 $0 . 6 9 \\mathrm { a } ^ { - 1 }$ ;NF调落物质量残留率为 $3 9 . 3 8 \\%$ 一 $6 1 . 7 2 \\%$ ,平均分解速率为 $\\mathrm { 0 . 6 4 a } ^ { - 1 }$ ;PK调落物质量残留率为 $2 0 . 2 8 \\% - 5 2 . 3 7 \\%$ ,平均分解速率为$0 . 8 6 \\mathrm { a } ^ { - 1 }$ （图1)。施肥极显著降低了梭梭同化枝的质量残留率( $( P { < } 0 . 0 1 )$ ,显著降低了多枝怪柳枝的质量残留率 $_ { _ { P < 0 . 0 5 ) } }$ ,而对乔木状沙拐枣同化枝的质量残留率无显著影响( $P { > } 0 . 0 5 )$ 。凋落物分解时间、时间和处理的交互作用对质量残留率有极显著影响( ${ \\cdot } P { < } 0 . 0 1$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fadb696475b7420b9c1b48612221d13cd506b4401dabd8bb1d19c719b51166a.jpg",
+        "img_caption": [
+            "图1施肥对凋落物质量残留率的影响",
+            "Fig.1 Effects of fertilization on litter mass remaining "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CK,对照处理controlreamet；NF，施用氮肥处aditioofitrogfertilier；PK,施用磷复肥处aditioofposporusdpasiumcompound fertilizer. $\\ast$ 和 ns，显著性差异 significance level（ns： $\\textstyle P > 0 . 0 5$ ， $* P { < } 0 . 0 5$ ， $\\ast \\ast P { < } 0 . 0 1$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "施肥处理对3种凋落物分解速率有显著影响,各处理间以PK的分解速率最快,NF的分解速率最慢（表2）。分解420d后,PK的乔木状沙拐枣、梭梭和多枝怪柳凋落分解速率分别比CK高 $1 3 . 2 1 \\% . 3 2 . 9 8 \\%$ 和$3 . 6 4 \\%$ ,凋落物分解所需时间分别缩短 $1 1 . 1 9 \\% . 2 4 . 8 4 \\%$ 和 $3 . 1 1 \\%$ ;NF多枝怪柳枝的分解速率比CK提高$1 0 . 9 1 \\%$ ,凋落物分解所需时间减少 $1 0 . 6 0 \\%$ 。而NF的乔木状沙拐枣和梭梭凋落物分解速率则分别比CK降低$2 0 . 4 5 \\%$ 和 $1 6 . 0 5 \\%$ ,凋落物分解所需时间分别增加 $1 9 . 7 2 \\%$ 和 $1 6 . 6 7 \\%$ 。凋落物分解速率在物种间存在极显著差异（ $\\scriptstyle \\cdot P < 0 . 0 1 { \\mathrm { ~ , ~ } }$ ),梭梭同化枝分解速率最大,多枝怪柳枝分解速率高于乔木状沙拐枣同化枝。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/32426377bbd15b9d1b215b5fbc532e2d62c0da1b96922de7559621bd9ba368d4.jpg",
+        "table_caption": [
+            "表2调落物分解的负指数衰减方程",
+            "Table 2Negative exponential decomposition equations of litter decompositior "
+        ],
+        "table_footnote": [
+            "CK：对照处理control reatment；NF：施用氮肥处理additionof nitrogen fertilizer；PK：施用磷钾复合肥处理additionof phosphorusand potassium compound fertilizer "
+        ],
+        "table_body": "<html><body><table><tr><td>物种 Species</td><td>处理 Treatment</td><td>Olson 负指数 衰减模型 Negative exponential decomposition model</td><td>决定系数R² Determination coefficient</td><td>分解系数k Decay constant/ (gg-1a-1)</td><td>t0.5/a Time of half decomposition</td><td>t0.95/a Time of 95% decomposition</td></tr><tr><td>乔木状沙拐枣</td><td>CK</td><td>Y= 100.88e-0.044 t</td><td>0.92</td><td>0.53</td><td>1.30</td><td>5.63</td></tr><tr><td>C.arborescens</td><td>NF</td><td>Y= 99.38e-0.037t</td><td>0.92</td><td>0.44</td><td>1.56</td><td>6.74</td></tr><tr><td></td><td>PK</td><td>Y= 103.29e-0.050t</td><td>0.98</td><td>0.60</td><td>1.16</td><td>5.00</td></tr><tr><td>梭梭</td><td>CK</td><td>Y= 94.27e-0.078t</td><td>0.92</td><td>0.94</td><td>0.74</td><td>3.18</td></tr><tr><td>H.ammodendron</td><td>NF</td><td>Y= 93.29e-0.067t</td><td>0.91</td><td>0.81</td><td>0.86</td><td>3.71</td></tr><tr><td></td><td>PK</td><td>Y= 89.84e-0.104t</td><td>0.90</td><td>1.25</td><td>0.55</td><td>2.39</td></tr><tr><td>多枝柽柳</td><td>CK</td><td>Y= 85.51e-0.046t</td><td>0.81</td><td>0.55</td><td>1.26</td><td>5.47</td></tr><tr><td>T.ramosissima</td><td>NF</td><td>Y= 92.76e-0.051t</td><td>0.91</td><td>0.61</td><td>1.13</td><td>4.89</td></tr><tr><td></td><td>PK</td><td>Y=84.34e-0.047 t</td><td>0.81</td><td>0.57</td><td>1.23</td><td>5.30</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "凋落物基质质量(物理结构、化学组成等)与调落物分解速率密切相关,因此凋落物基质质量常用来预测调落物分解速率[22]。学者研究发现C、P含量和木质素/N 比值能够较好地预测森林调落物的分解[24];也有学者表明N 含量是凋落物分解初期的主要控制因素,而木质素则是分解后期的主导因子[25];赵红梅等对干旱区沙漠短命植物凋落物分解的研究认为凋落物C/N 比值是分解速率的一个重要影响因素[10]。本研究中,凋落物在不同时期的分解速率与初始化学组成的相关分析表明(表3）,凋落物前期(0—120d)分解速率与凋落物初始P含量和 $\\mathrm { C } / \\mathrm { N }$ 比值呈极显著负相关关系( $P { < } 0 . 0 1 \\rangle$ ）,与初始C/P比值呈显著正相关关系( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ ；调落物后期(240—420d)分解速率与凋落物初始C、木质素、纤维素含量和 $\\mathrm { C } / \\mathrm { N } ,$ 木质素/N比值呈极显著负相关关系( $P { < } 0 . 0 1 \\rangle$ ）,与初始N含量和K含量呈极显著正相关关系( $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ , ~ } }$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/967a2dfdabaa96f23dcb830d24f9945ddd0a5952d98a36b76d778ccbb3330ce7.jpg",
+        "table_caption": [
+            "表3凋落物初始化学组成与分解速率的相关分析",
+            "Table 3Person correlation relationship between initial chemical composition and decomposition rat "
+        ],
+        "table_footnote": [
+            "CK：对照处理control reatment；NF：施用氮肥处理additionofnitrogen fertilizer；PK：施用磷钾复合肥处理additionof phosphorusand otassium compound fertilizer；\\* 显著性差异 significance level（ $\\ast P < 0 . 0 5$ ， $* * P < 0 . 0 1$ ） "
+        ],
+        "table_body": "<html><body><table><tr><td>分解阶段 Decomposition stage</td><td>处理 Treatment</td><td>C</td><td>N</td><td>P</td><td>K</td><td>“P 木质素 Lignin</td><td>纤维素 Cellulose</td><td>C/N</td><td>C/P</td><td>木质素/N Lignin/N</td></tr><tr><td>前期分解速率</td><td>CK</td><td>-0.11</td><td>0.41</td><td>-0.67 *</td><td>0.22</td><td>-0.31</td><td>-0.36</td><td>-0.75 *</td><td>0.69 *</td><td>-0.41</td></tr><tr><td>Initial decomposition</td><td>NF</td><td>-0.17</td><td>0.66</td><td>-0.87 **</td><td>0.12</td><td>-0.17</td><td>-0.09</td><td>-0.72 *</td><td>0.83**</td><td>-0.64</td></tr><tr><td>rate</td><td>PK</td><td>-0.12</td><td>0.71*</td><td>-0.91**</td><td>0.14</td><td>-0.17</td><td>-0.23</td><td>-0.74 *</td><td>0.87 **</td><td>-0.67 *</td></tr><tr><td>后期分解速率</td><td>CK</td><td>-0.96 **</td><td>0.84**</td><td>-0.37</td><td>0.92 **</td><td>-0.99 **</td><td>-0.97**</td><td>-0.77 *</td><td>0.14</td><td>-0.83 **</td></tr><tr><td>Final decomposition</td><td>NF</td><td>-0.67 *</td><td>0.97 **</td><td>-0.77 *</td><td>0.84**</td><td>-0.73 *</td><td>-0.71*</td><td>-0.97 **</td><td>0.45</td><td>-0.97 **</td></tr><tr><td>rate</td><td>PK</td><td>-0.97 **</td><td>0.76 *</td><td>-0.28</td><td>0.95 **</td><td>-0.99 **</td><td>-0.97 **</td><td>-0.72 *</td><td>0.19</td><td>-0.79 *</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3凋落物分解的养分释放模式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "凋落物分解过程中的养分迁移主要有3种模式,即淋溶-释放、富集-释放和淋溶-富集-释放模式[2]。由图2可知,在凋落物分解过程中,施肥处理的3种凋落物C残留率均随分解时间的推移而降低,分解前期（0一120d)迅速下降随后缓慢降低,呈现淋溶-释放模式。不同处理的3种凋落物N残留率变化有所差异,CK的乔木状沙拐枣、梭梭和多枝怪柳凋落物N残留率呈下降趋势,呈现净释放状态。NF 的乔木状沙拐枣凋落物 N残留率呈波动上升趋势,表现为富集模式;梭梭凋落物N残留率呈缓慢下降趋势,表现出净释放模式;多枝怪柳凋落物N残留率呈先上升后下降趋势，分解末期(360—420d)N残留率低于 $100 \\%$ ,呈现富集-释放模式。PK的乔木状沙拐枣凋落物N残留率呈先升高后降低趋势,分解后期(240—420d)N残留率低于 $100 \\%$ ,呈现出富集-释放规律;梭梭和多枝怪柳凋落物呈波动下降趋势,呈现净释放状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "施肥处理下3种凋落物P和K残留率变化规律基本一致。CK和NF的多枝怪柳凋落物P残留率呈降低-升高-降低的变化趋势,在分解初期(0一60d)和末期( $3 6 0 { \\ - } { \\ - } 4 2 0 { \\mathrm { ~ d } } ) \\mathrm { P }$ 残留率均低于 $100 \\%$ ,呈现出淋溶-富集-释放模式。CK 和NF 的乔木状沙拐枣和梭梭凋落物 $\\mathrm { ~ \\bf ~ P ~ }$ 和K残留率以及多枝怪柳凋落物K残留率均呈缓慢下降趋势，一直处于净释放状态。PK的3种凋落物P和K残留率呈先升高后降低趋势,在分解末期$( 3 6 0 { \\ - } 4 2 0 \\ \\mathrm { d } ) \\mathrm { P }$ 和K残留率低于 $100 \\%$ ,呈现富集-释放模式。乔木状沙拐枣和多枝怪柳凋落物分解在 $2 4 0 \\mathrm { ~ d ~ }$ 时，梭梭凋落物分解在 $1 8 0 \\mathrm { ~ d ~ }$ 时P和K残留率出现拐点，转为下降趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "凋落物C残留率在物种和处理间皆无显著性差异( $P { > } 0 . 0 5 )$ ，调落物N和 $\\mathrm { ~ \\bf ~ P ~ }$ 残留率在物种间存在极显著差异( $\\stackrel { \\cdot } { P } < 0 . 0 1$ )，凋落物K残留率在物种间无显著性差异( $P { > } 0 . 0 5 \\$ )。凋落物分解时间、处理及其交互作用对调落物 $_ { \\textrm { N } , \\textrm { P } }$ 和K残留率存在极显著影响( $P { < } 0 . 0 1$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同施肥处理下3种凋落物的质量残留率均呈现出分解前期(0—120d)迅速下降,随后逐渐趋于平缓的趋势。分析原因,一方面,凋落物分解的初始阶段(0—120d),凋落物质量损失主要来源于凋落物中可溶性物质的淋溶损失以及易分解物质的快速分解作用[11];而且,分解试验的初始阶段(3—5月）,研究区日平均气温",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/61ec9118fc2f76cba1749d235ba3ba0901f6daa7e50b4e7dc369a2770efda2d8.jpg",
+        "img_caption": [
+            "图2施肥对凋落物分解过程中元素残留率的影响",
+            "Fig.2Effects of fertilization on element remaining during decomposition process "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CK：对照处理control treatment；NF：施用氮肥处理aditionof nitrogen fertlizer；PK：施用磷钾复合肥处理additionof phosphorusand potassium compound fertilizer； $*$ 和 ns，显著性差异 significance level（ns： $\\textstyle P > 0 . 0 5$ ，\\* $\\scriptstyle P < 0 . 0 5$ ， $\\ast \\ast P { < } 0 . 0 1$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为 $2 0 \\%$ 左右,夜间气温在 $0 ^ { \\circ } \\mathrm { C }$ 以下,较大的昼夜温差形成的冻融交替作用加快了凋落物的分解[10]。另一方面,塔里木沙漠公路防护林的3种植物是灌木及小乔木树种,其凋落物内木质素和纤维素含量相对较高,分解后期凋落物内高浓度的木质素和纤维素限制凋落物的分解;此外,研究区夏季最高平均温度 $2 8 . 2 \\%$ ,水分蒸发较快,高温抑制微生物等的分解,冬季最低平均气温 $- 8 . 1 \\mathrm { { ^ \\circ C } }$ ,土壤出现结冻现象,环境条件限制凋落物的分解。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "施肥影响着凋落物分解的化学过程,改变凋落物的分解速率[26]。施肥对塔里木沙漠公路防护林地表的乔木状沙拐枣同化枝、梭梭同化枝和多枝怪柳枝凋落物分解速率的影响有所差异,这不仅和凋落物本身基质质量有关,而且间接表明不同物种在分解过程中所需要的主要养分元素的异质性。有研究表明,外源养分元素的添加,改变了微生物生长所需的营养元素之间的平衡[27]和微生物的生长环境[,影响微生物组成及数量,微生物生物量和土壤酶活性等,从而对凋落物的分解产生不同的效应[28-29]。本研究发现,施用磷钾复合肥后凋落物中的P和K元素出现富集，P和K元素含量的增加对微生物体系产生的影响，加速了沙漠公路防护林地表3种凋落物的分解;施用氮肥改变凋落物中N元素的含量,微生物系统发生的改变,有利于提高多枝怪柳枝的分解速率,却抑制乔木状沙拐枣和梭梭同化枝的分解。咸水滴灌下的塔里木沙漠公路防护林地，施用氮肥仅促进了多枝怪柳枝凋落物的分解；施用磷钾复合肥对土壤微生物体系的改变，有助于提高3种凋落物的分解速率，缩短分解周期。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3种凋落物本身所含的营养物质不同,不同施肥处理下,分解过程中养分元素的释放模式有所差异。学者们研究发现，在凋落物分解过程中,凋落物初始N浓度和凋落物N固持或释放的格局密切相关，即凋落物养分元素的初始浓度越小,越容易发生富集[25]。凋落物N元素的首先富集是由于微生物对N 的固持作用,当C/N 比值高于25 后N元素开始呈现释放状态,且C/N值较低的凋落物首先结束富集[30]。本研究中,3种凋落物初始C/N 比值均高于25,对照处理凋落物分解过程中养分元素均表现出净释放状态,但当施肥降低了凋落物中C/N比值后出现N富集现象,且施肥后凋落物的N、P和K元素均呈现富集-释放模式。3种凋落物中梭梭同化枝初始总养分和N 含量最高,在施氮肥处理下一直呈现净N释放模式,这是由于养分含量高的凋落物,自身的养分即可满足微生物分解者的需求,直接释放养分[25]。另外,施肥对凋落物的N/P 比值也有着显著性影响( $P { < } 0 . 0 5 \\mathrm { ) }$ ）,且N/P比值在处理间呈现出 $\\mathrm { N F > C K > P K }$ 的变化规律，这表明随着施肥的进行,凋落物内原本的氮磷限制状况发生改变,凋落物需要通过调整氮磷养分重吸收率或转移率来维持养分平衡[31]。随着人工施肥增加防护林养分元素( $\\ [ \\mathrm { N } , \\mathrm { P } , \\mathrm { K } )$ 输入量，改变凋落物分解速率,使得养分元素在分解过程中出现富集现象,这有助于改善土壤有效氮、磷、钾含量及其可利用性[32-33]。本研究中磷钾复合肥的施用使得防护林地表凋落物分解速率和养分释放均高于对照组,因而在塔里木沙漠公路防护林内施用磷钾复合肥能促进地表凋落物的分解,增加养分归还量,有利于沙漠公路防护林地土壤肥力的改善和人工防护林地的可持续发展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述,在咸水灌溉下的塔里木沙漠公路防护林,凋落物C/N比值是防护林地表凋落物分解过程中的主要影响因子。而凋落物P含量和C/P 比值是凋落物分解初期的限制因子,初始C、N、K、木质素、纤维素含量和木质素/N比值则是凋落物分解后期的控制因子。施用磷钾复合肥促进沙漠公路防护林地表凋落物的分解,并增加凋落物的养分归还量，延缓达到养分释放的时间。因此,在人工林可持续经营管理中,合理施肥能够提高凋落物分解速率和养分归还量,对人工防护林地土壤肥力的维持和提升以及加快整个防护林系统物质循环有着积极的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "［1］曾锋，邱治军，许秀玉.森林凋落物分解研究进展.生态环境学报，2010，19（1)：239-243.  \n［2］王相娥，薛立，谢腾芳.凋落物分解研究综述.土壤通报，2009，40(6)：1473-1478.  \n[3]FisherFakJGaesoasoshiChihuahuanDesert.Journal ofRange Management，1988，41(5）：387-391.  \n［4］曲浩，赵学勇，赵哈林，王少昆.陆地生态系统调落物分解研究进展.草业科学，2010,27（8）：44-51.  \n[5］葛晓改，肖文发，曾立雄，黄志霖，周本智.三峡库区马尾松林土壤-调落物层酶活性对调落物分解的影响.生态学报，2014，34（9)：2228-2237.  \n[6]RobinsonCH.Controlsondecompositionandsoilnitrogenavailabilityathighlatitudes.Plantandsoil，Oo2,242（1)：65-81.  \n［7］周存宇.调落物在森林生态系统中的作用及其研究进展.湖北农学院学报，2003，23（2）：140-145.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]GholzHL,FisherRF,Prichett WL.Nutrient dynamicsinslash pineplantationcosystems.Ecolog，1985,66(3）：647-659.  \n[9]FogK.Theefectofaddednitrogenontherateofdecompositiooforganicmater.BilogicalReviews，1988,63（3）:4-562.  \n[10］赵红梅，黄刚，马健，李彦，周丽.荒漠区地表调落物分解对季节性降水增加的响应.植物生态学报，2012，36(6)：471-582.  \n11]Galsiolo9(1):152-161.  \n12]Martifitoeicand litter quality.Acta Oecologica,2007,32(3）：291-300.  \n[13］王新源，赵学勇，李玉霖，连杰，曲浩，岳祥飞.环境因素对干旱半干旱区调落物分解的影响研究进展.应用生态学报，2013，24(11)：3300-3310.  \n[14]effJG,SJlJonVbleEftsrogdslitsoil carbon.Nature，2002,419(6910）：915-917.  \n[15]SogCgGofdgsfimarshes of Northeast China.Ecological Engineering，2011,37(10）：1578-1582.  \n6]Hostofubaertlofliepo）.  \n[17]Micks P,Downs MR，MagillA H,Nadelhofer KJ,AberJD.Decomposing liter as a sink for $^ { 1 5 }$ N-enriched additions to an oak forest and a redpine plantation.Forest Ecology and Management，2004，196(1）：71-87.  \n[18]Prescot CE.DosnitrognavailabilityontrolrtesoflitedecompositioninforestsPlantandSl1995,68（）：-88.  \n[19]Dukes JS,Field C B. Diverse mechanisms for $\\mathrm { C O } _ { 2 }$ effcts on grassland liter decomposition. Global Change Biology，20o0,6(2）：145-154.  \n[20] 李江风.塔克拉玛干沙漠和周边山区天气气候.北京：科学出版社，2003：201-574.  \n[21］李丙文，张洪江，邱永志，徐新文，李生宇，周宏伟，常青，许波，威力.咸水灌溉对塔里木沙漠公路防护林植物生长的影响.干旱区地理,2011,34(2):215-221.  \n[22]OlsonJS.Energystorageandthebalanceofproducersanddecomposersiecologicalsystes.Ecology，96,44（2）：22-31.  \n[23］郭忠玲，郑金萍，马元丹，李庆康，于贵瑞，韩士杰，范春楠，刘万德.长白山各植被带主要树种调落物分解速率及模型模拟的试验研究.生态学报，2006,26(4)：1037-1046.  \n[24]Mlradfi8）.  \n[25]Parton W,SilverWL,BurkeIC,GrasensL,HarmonME,CurieWS,KingJY,AdairEC,BrandtLA,HartSC,FasthB.Gbal-scalesimilarities in nitrogen release patterns during long-term decomposition.Science,2007,315(5810）：361-364.  \n26]Bergpi(1) : 1-25.  \n[27]MoJeogrllitsubileaeestsfroalManagement，2003，175(1/3）:573-583.  \n28]TresederKriidobal:etaasfools.  \n[29]RamietsofsdlChange Biology，2012，18(6）：1918-1927.  \n[30]BallradfodunterrogedoouseesidisisaprefrgesaEcosystems，2009，12(1）：87-100.  \n[31]KozovitsAR,BustamanteMMC，GarofaloCR，ucciS，FrancoAC，GoldsteinG,MeinzerFC.Nutrinresorptionadpaesfierproduction and decomposition in a Neotropical Savanna.Functional Ecology，20o7,21(6）：1034-1043.  \n[32]Smalll，acerisradiata plantations.Forest Ecology and Management,2008,256(4）： 564-569.  \n[3]LuM,YangY,YQ,FangC,ZXH,nJK,YngX,iBesposofosystetrogcletrgdoeanalysis.New Phytologist，2011，189(4）：1040-1050.",
+        "page_idx": 8
+    }
+]

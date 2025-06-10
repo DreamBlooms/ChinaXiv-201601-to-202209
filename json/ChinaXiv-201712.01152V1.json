@@ -1,0 +1,283 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "瞬时感受器电位通道1在臭氧致小鼠肺组织炎症中的表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "扶招弟」,周丽芬',黄建荣²,郭淑仪³,章洁纯³,方永标,刘筱蔼1,陈庆梓',李建华！广州医科大学'生理学教研室,第三临床学院,广东广州 510182；2中山大学附属第二医院骨科,广东 广州 510120摘要：目的 探讨经典瞬时感受器电位通道1(TRPC1)在臭氧暴露下小鼠肺组织中的表达情况。方法 采用臭氧暴露建立小鼠肺组织炎症模型,通过对小鼠行为学观察、支气管肺泡灌洗液的细胞分类计数和肺组织病理形态分析证实模型建立成功后，RT-PCR法检测肺组织TRPC1mRNA的表达,Westem blot法和免疫组织化学染色法分别观察TRPC1蛋白在肺组织的表达和定位情况。结果RT-PCR和Westemblot结果显示，与对照组相比，臭氧组小鼠肺组织TRPC1mRNA及其蛋白表达上调( $P <$ 0.05);免疫组织化学染色法进一步证实,臭氧组小鼠肺组织TRPC1蛋白在肺泡上皮细胞、支气管上皮细胞、浸润的炎症细胞的表达均较对照组明显增强 $( P { < } 0 . 0 5 )$ ;相关性分析显示,小鼠肺组织中TRPC1mRNA和蛋白的表达均与支气管肺泡灌洗液中白细胞总数、巨噬细胞、中性粒细胞、淋巴细胞数呈显著性正相关 $( P { < } 0 . 0 1 \\$ )。结论TRPC1可能与小鼠肺组织炎症发病机制有关。关键词：瞬时感受器电位通道1;臭氧;肺;炎症",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression of transient receptor potential canonical 1 in ozone-induced inflammatory lung tissues in mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FUZhaodi,ie,Goguyi,HGnogb,iiing Departmentofilodcalgicalenapamtofd Second Affiliated Hospital of Sun Yet-Sen University,Guangzhou 51o120,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To detect theexpresion of transient receptor potentialcanonical1 (TRPC1) in a mouse model of ozone-inducedlung inflammationand exploreits roleinlung inflammation.Methods Inamouse modeloflung inflammation established by ozone exposure, the expresion of TRPC1 in the inflammatory lungtisues was detected byRT-PCR, Wstern blottingand immunohistochemistry.Results Compared tothecontrolmice,themiceexposed toozone showedsignificantly increased expresson level of TRPC1 mRNA and protein in the inflammatory lung tissues $( P { < } 0 . 0 5 )$ . Immunohistochemistry showed increasdPC1protenexpressnsinthalveolarepihelialcells,roncialeithelialcels,andiflammatoryclls in the inflammatory lung tissues $_ { ( P < 0 . 0 5 ) }$ . The mRNA and protein expression levels of TRPC1 were positively correlated with thecounts ofwhitebloodcels,macrophages,neutrophilsandlymphocytes inthebronchoalveolarlavagefluidoftheexosed mice $( P { < } 0 . 0 1 )$ . Conclusion TRPC1 may play a role in ozone-induced lung inflammation in mice. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: transient receptor potential canonical 1; ozone; lung; inflammation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "臭氧(Ozone, $\\mathrm { O } _ { 3 }$ )是一种广泛存在于空气中的二次污染物。研究表明，臭氧对呼吸道有严重损伤作用，可引起以中性粒细胞增多为主的炎症反应。众多研究表明 $\\mathrm { C a ^ { 2 + } }$ 与炎症反应密切相关[1-4]。瞬时感受器电位通道(TRPC)是位于细胞膜上的一类重要的非选择性阳离子通道，主要介导钙离子和钠离子内流。TRPC家族包括7个成员，即TRPC1-7。TRPC1是最早被克隆的哺乳动物TRPC通道，也是近年来研究最热门的TRPC通道之一。本课题组前期研究表明，TRPC1在卵白蛋白诱导的哮喘小鼠肺组织中表达升高[5，提示TRPC1有可能在变应原引起的以嗜酸性粒细胞增多为主的炎症反应中起促进炎症发生发展的作用。TRPC1是否在臭氧诱导的炎症反应中起作用，目前未见相关报道。本研究通过臭氧暴露建立小鼠肺组织炎症模型，研究小鼠肺组织中TRPC1与肺组织炎症的关系，旨在为极其复杂的肺组织炎症反应调控网络补充新的内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1实验动物及分组",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "清洁级BALB/c雌性小鼠14只，6\\~8周龄，体质量$1 5 { \\sim } 1 8 ~ \\mathrm { g }$ ，由广东省医学实验动物中心提供。随机将小鼠分为对照组(controlgroup)和臭氧组( $\\mathrm { \\langle O _ { 3 } }$ group）,每组7只。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2主要试剂及仪器",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Trizol(Invitrogen公司），RT-PCR试剂（TAKARA公司），一抗为兔抗小鼠TRPC1多克隆抗体(Abcam公司,ab74919),二抗辣根过氧化物酶标记山羊抗兔IgG（北京鼎国，进口分装)，浓缩型DAB试剂盒(北京中杉金桥公司)，L-小型臭氧发生器(广州康利科技有限公司),便携式臭氧检测仪(深圳沃塞特科技有限公司)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1小鼠气道炎症模型的建立将小鼠放入小鼠隔离器中饲养，适应环境1周。臭氧组小鼠于适应环境后的第1天、第3天、第5天在 $2 . 0 \\ \\mathrm { p p m }$ 臭氧环境中暴露 $3 \\mathrm { ~ h ~ }$ 对照组于相同环境下新鲜空气暴露。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2BALF的细胞学分类计数末次暴露 $2 4 \\mathrm { ~ h ~ }$ 后，戊巴比妥钠麻醉小鼠，仰卧位固定，气管插管，解剖分离出左肺后结扎左主支气管，每次以 $0 . 4 ~ \\mathrm { m l }$ PBS灌洗右肺，反复灌洗回收3次(回收率大于 $80 \\%$ )，收集的BALF于$4 \\mathrm { \\ : ^ { \\circ } C \\ : , 1 5 0 0 \\ : r / m i n }$ 离心 $1 0 ~ \\mathrm { m i n }$ ,细胞用 $1 \\mathrm { m l } \\mathrm { P B S }$ 重悬，吹打均匀后取 $1 0 ~ \\mu \\mathrm { l }$ 于血细胞计数板上进行白细胞总数计数，余下的BALF于 $4 \\mathrm { ^ { \\circ } C } , 1 5 0 0 \\mathrm { \\ r / m i n }$ 离心 $1 0 ~ \\mathrm { { m i n } }$ ，弃上清，取细胞沉淀涂片，用姬姆萨染色法在光学显微镜下进行细胞分类计数(每例随机计数100个细胞)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.3观察肺组织病理变化肺组织用 $4 \\%$ 多聚甲醛溶液固定，常规制备病理切片，苏木精-伊红(HE)染色后观察肺组织病理变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.4RT-PCR法检测TRPC1mRNA表达取肺组织$1 0 0 ~ \\mathrm { { m g } }$ ，加入1mlTrizol试剂，按试剂说明书提取总RNA,在ND-1000型核酸蛋白测定仪上测RNA的浓度及纯度。按照试剂盒的说明书进行RT-PCR。引物序列：TRPC1上游引物序列5'-CAAGATTTTGGGAAATTTCTGG-3'；下游引物序列5'-TTTATCCTCATGATTT-GCTAT-3',扩增片段长度 $3 7 2 \\mathrm { b p }$ 。GAPDH上游引物序列 $5 ^ { \\prime }$ -ACCACAGTCCATGCCATCAC-3'；下游引物序列5'-TCCACCACCCTGTTGCTGTA-3',扩增片段长度$4 5 5 \\mathrm { b p }$ 。反应条件： $( 1 ) 9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $5 \\mathrm { m i n }$ ;(2)94 ℃变性$1 5 \\mathrm { ~ s ~ } . 5 3 \\mathrm { ~ } \\mathrm { ^ { \\circ } C }$ 退火 $1 5 \\mathrm { s } , 7 2 \\mathrm { ‰ }$ 延伸30s,TRPC1进行35个循环，GAPDH进行30个循环；(3)延伸 $5 \\mathrm { { m i n } _ { \\mathrm { { o } } } }$ PCR产物进行琼脂糖电泳。ImageJ软件对条带进行光密度分析，以目的基因与GAPDH的光密度之比作为其相对表达量。1.3.5Westernblot法检测TRPC1蛋白的表达从液氮中取出肺组织剪碎，放入EP管中，加入裂解液及蛋白酶抑制剂,匀浆、煮沸、离心后,将上清移入另一EP管。用BCA法测定蛋白浓度。各组取 $5 0 ~ { \\mu \\mathrm { g } }$ 蛋白样品于 $10 \\%$ SDS-PAGE凝胶电泳，电湿转法将蛋白转印至PVDF膜上。将PVDF膜取出放入TBST溶液洗 $1 0 \\mathrm { m i n } \\times 3$ 次， $5 \\%$ 脱脂奶粉 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 封闭 $1 \\mathrm { h } , 3 \\%$ 牛血清白蛋白稀释一抗(1:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 0 ) 4 ~ \\mathrm { { ^ { \\circ } C } }$ 水箱摇动孵育过夜。次日，TBST洗膜 $1 0 \\mathrm { m i n } \\times$ 3,加辣根过氧化物酶标记的山羊抗兔 $\\mathrm { I g G } ( 1 { : } 5 0 0 0 )$ ，水平摇床室温孵育1h,TBST洗膜 $1 0 \\mathrm { m i n } \\times 3$ 次，经ECL化学发光剂曝光 $5 \\mathrm { m i n }$ ,用ImageJ软件分析条带光密度值，蛋白表达水平以其与GAPDH光密度值比值表示。1.3.6免疫组织化学法观察TRPC1蛋白的定位石蜡切片脱蜡水化， $9 5 ~ \\mathrm { ^ { \\circ } C }$ 左右抗原修复 $1 5 \\ \\mathrm { m i n } , 0 . 3 \\% \\mathrm { H } _ { 2 } ($ 甲醇室温封闭孵育 $1 0 ~ \\mathrm { m i n }$ ,灭活内源性过氧化物酶，1mol/lPBS冲洗 $3 \\operatorname* { m i n } \\times 3$ 次，正常山羊血清 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 封闭$2 0 \\mathrm { m i n }$ ,滴加一抗 $( 1 : 1 0 0 ) 3 7 \\mathrm { ~ \\textdegree C }$ 孵育 $\\mathrm { 1 h , 1 m o l / l P B S }$ 冲洗 $3 \\operatorname* { m i n } \\times 3$ 次，以PBS代替一抗作阴性对照。滴加辣根过氧化物酶标记的山羊抗兔抗体(1:200）， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育$1 0 \\mathrm { m i n }$ ,PBS冲洗 $3 \\operatorname* { m i n } \\times 3$ 次。DAB显色,蒸馏水冲洗，终止显色。苏木精复染， $1 \\%$ 盐酸酒精分化，自来水冲洗，中性树脂封片，显微镜下观察。阳性表达为细胞内呈棕黄色颗粒改变。同一光强度下，光学显微镜( $\\times 2 0 0$ ）随机选取5个视野拍照保存,Image-pro Plus(IPP)6.0图像分析系统检测累积光密度值(IOD)，计算TRPC1蛋白阳性相对表达量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验数据用均数 $\\cdot \\pm$ 标准误表示，采用SPSS13.0统计软件对数据进行统计分析，显著性检验用 $\\mathbf { \\Phi } _ { t }$ 检验，相关性分析采用Pearson直线相关法。 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模型的成功建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1行为学观察臭氧组小鼠表现为烦躁不安、呼吸急促、节律不齐、腹肌痉挛、大小便失禁;持续的臭氧应激后，部分小鼠出现喘息或哮鸣音。对照组未见上述改变。2.1.2BALF的细胞分类计数由表1可见，与对照组相比较，臭氧组小鼠BALF中白细胞总数、巨噬细胞、中性粒细胞和淋巴细胞数显著增多 $( P { < } 0 . 0 5 )$ ，以中性粒细胞增多为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.3肺组织病理形态分析对照组小鼠光镜下可见肺泡结构完整，肺泡腔内无渗出液，支气管上皮细胞排列有序，有少量环形气道平滑肌且不连续(图1A);臭氧组小鼠肺组织光镜下可见肺泡壁结构受损，肺间质充血，支气管管腔狭窄，上皮有脱落，气道平滑肌增厚且连续，气管和血管周围可见炎性细胞浸润(图1B)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/202ec7d7e0f69b09b617215e3bb366e8d3d28b720a4486afe3e5a8d63d73382b.jpg",
+        "table_caption": [
+            "表1BALF的细胞分类计数Tab.1 Cell counts in the BALF $( \\times 1 0 ^ { 4 } / \\mathrm { L } ,$ Mean±SD)"
+        ],
+        "table_footnote": [
+            "$^ { \\mathrm { t } } P { < } 0 . 0 5$ vs control group. "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Total WBC</td><td>Macro</td><td>Neutro</td><td>Lympho</td><td>Eosino</td></tr><tr><td>Control group</td><td>16.96±1.71</td><td>16.29±1.64</td><td>0.24±0.03</td><td>0.08±0.01</td><td>0.42±0.04</td></tr><tr><td>O3 group</td><td>55.8±3.75*</td><td>50.29±3.37*</td><td>3.35±0.22*</td><td>1.96±0.13*</td><td>0.52±0.06</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d9a8bb81be2eb2868bae355946f1fdcb5bb496489927fa105efbddcf0bcbfd5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2TRPC1mRNA在肺组织中的表达情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RT-PCR结果显示，臭氧组小鼠肺组织TRPC1mRNA表达量为 $0 . 3 2 { \\scriptstyle \\pm 0 . 0 4 }$ ，对照组为 $0 . 1 5 { \\scriptstyle \\pm 0 . 0 3 }$ （图2）。两组相比，臭氧组TRPC1mRNA表达明显增强。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e85a85d6d98a2baccb69456ed13db3ed1208cf981271109a836052c00bbc463e.jpg",
+        "img_caption": [
+            "图1肺组织形态学改变 Fig.1 Morphological changes of the lung tissues (HE staining,original magnification: $\\times 2 0 0$ .A: Control group; B: $\\mathrm { O } _ { 3 }$ group. ",
+            "图2RT-PCR法检测两组小鼠肺组织中 TRPC1mRNA的表达情况 Fig.2 mRNA expressions of TRPC1 in mouse lung tissues detected by RT-PCR. $^ { * } P { < } 0 . 0 5$ US control group.1: Control group; 2: $\\mathrm { O } _ { 3 }$ group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "症细胞表达均较对照组增强，且对照组和臭氧组TRPC1蛋白阳性表达的IOD分别为 $1 6 6 5 6 . 1 0 { \\scriptstyle \\pm 1 4 0 5 . 2 2 }$ 和 $6 7 8 2 0 . 5 6 { \\scriptstyle \\pm 5 0 9 8 . 4 9 }$ ，差异有统计学意义 $( P { < } 0 . 0 5 )$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/884a2308fa93966532756b92d20e356fb240d4200e605c089cd5345cc645bddc.jpg",
+        "img_caption": [
+            "图3Westernblot法检测两组小鼠肺组织中 TRPC1蛋白表达情况 Fig.3 Protein expressions of TRPC1 in mouse lung tissues detected by Western blotting. $^ { * } P <$ 0.05 us control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3TRPC1蛋白在小鼠肺组织中的表达情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Westernblot结果(图3)发现，对照组和臭氧组小鼠肺组织TRPC1蛋白表达量分别为 $0 . 2 5 { \\scriptstyle \\pm 0 . 0 5 }$ 和 $0 . 4 7 \\pm$ 0.04,差异有统计学意义 $( P { < } 0 . 0 5 )$ 。免疫组织化学结果(图4)显示，对照组小鼠肺组织中肺泡上皮和支气管上皮细胞有少量阳性表达，其他部位表达不明显，而臭氧组小鼠肺泡上皮细胞、支气管上皮细胞和浸润的炎",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4相关性分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相关性分析显示，小鼠肺组织中TRPC1mRNA表达与BALF白细胞总数、巨噬细胞、中性粒细胞、淋巴细胞数呈显著性正相关( $\\boldsymbol { \\cdot }$ 分别为0.826、0.823、0.842和0.841, $P { < } 0 . 0 1 \\rangle$ ,TRPC1蛋白表达也与BALF白细胞总数、巨噬细胞、中性粒细胞、淋巴细胞数呈显著性正相关(r分别为 $0 . 8 6 3 , 0 . 8 6 0 , 0 . 8 7 8$ 和 $0 . 8 7 8 , P { < } 0 . 0 1$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/62945b5ee70162e44d50eaed827ff8058019a0cd772c826ae7290c89944f1a2f.jpg",
+        "img_caption": [
+            "图4免疫组织化学法观察两组小鼠肺组织中TRPC1蛋白表达的定位 Fig.4Localization of TRPC1 protein inmouse lung tissues detected by immunohistochemistry(Original magnification: $\\times 4 0 0$ ). A: Control group; $B \\colon { \\mathrm { O } } _ { 3 }$ group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "钙离子作为第二信使，广泛参与细胞中各种生命活动。胞内 $\\mathrm { C a } ^ { 2 + }$ 稳态失衡是影响细胞生理功能的重要因素，细胞内 $\\mathrm { C a ^ { 2 + } }$ 浓度( $\\mathrm { [ C a ^ { 2 + } ] i ) }$ 调节主要依靠：肌浆内质网钙池系统中 $\\mathrm { C a ^ { 2 + } }$ 释放以及胞外 $\\mathrm { C a } ^ { 2 + }$ 通过离子通道如电压依赖性钙通道，钙库操纵性钙通道(store-operatedcalciumchannels,SOCC)或受体操纵性钙通道内流。对于兴奋性细胞来说，电压操纵性钙通道是胞外钙内流的主要途径，但大部分非兴奋性细胞没有电压操纵性钙通道,钙库操纵性钙内流(store-operated calcium entry,SOCE)是非兴奋性细胞钙内流的主要途径[。SOCC由基质交联分子1(STIM1）、钙释放激活钙通道蛋白(Orai)和TRPC构成。在多种细胞中发现,TRPC1与STIM1、Orai共同调节 $\\operatorname { S O C E } ^ { [ 8 - 1 0 ] }$ ,TPRC1被认为是构成SOCC最有可能的TRPC通道。有研究显示，SKF96365(SOCC的抑制剂)能抑制小鼠淋巴细胞的活化和增殖，也可以抑制刀豆蛋白A和PMA(phorbol12-myristate13-acetate)/离子霉素诱导的炎性细胞因子的释放[]。这些研究提示TRPC1可能与炎症有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "有研究报道核转录因子-kappaB（NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ )和TRPC1在血管紧张素Ⅱ诱导的SOCE和人脐静脉内皮细胞通透性中起重要作用，TRPC1引起的SOCE依赖于NF-kB的激活[12]。Lin等[13]研究发现,在人结肠肌成纤维细胞系CCD-18细胞中，TNF-α通过NF- $\\kappa \\mathbf { B }$ 途径可诱导TRPC1蛋白表达增加和TRPC1介导的钙离子内流，NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ 的特异性抑制剂SN-50作用后抑制了TRPC1的表达和减弱了钙离子内流[13]。Paria等[14-15]发现在人肺动脉内皮细胞中，凝血酶通过激活 ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\kappa B } }$ 能促进TRPC1mRNA和蛋白的表达增加，从而使TRPC1诱导的钙离子内流和内皮细胞通透性增加，且在TRPC1的5'-调控区发现有3个NF $\\mathbf { \\sigma } _ { \\cdot \\kappa \\mathbf { B } }$ 的结合位点。这些研究提示NF- $\\kappa \\mathbf { B }$ 可能作为上游调控TRPC1的表达，而NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 途径与炎症密切相关，TRPC1可能通过NF- $\\kappa \\mathbf { B }$ 的调控参与炎症反应。本次试验首次发现，臭氧暴露后，BALB/c小鼠肺组织的TRPC1mRNA和蛋白质表达上调,进一步研究提示蛋白定位在肺泡上皮细胞、支气管上皮细胞和浸润的炎症细胞上。且TRPC1mRNA和蛋白质的表达与与肺泡灌洗液中白细胞总数、巨噬细胞、中性粒细胞、淋巴细胞数呈显著正相关。提示，TRPC1可能参与臭氧暴露导致的肺组织炎症。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，TRPC1在臭氧导致的炎症中起重要作用，有可能成为肺部炎症疾病治疗的靶点，但其具体作用机制及其与NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 的关系有待进一步探讨。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Barkan YT,Rashid G,Weintal I,et al.Low extracellular $\\mathrm { C a } ^ { 2 + }$ ：a mediator of endothelial inflammation[J].Nephrol Dial Transplant, 2009,24(11): 3306-12.   \n[2]Lee IT,Lin CC,Lin WN,et al.Lung inflammation caused by adenosine-5'-triphosphate is mediated via $\\mathrm { C a } ^ { 2 }$ +/PKCs-dependent COX-2/PGE2 induction[J].Int J Biochem Cell Biol,2013,45(8): 1657-68.   \n[3]Martino MB,Olsen JC,Nanette BF,et al.Airway epithelial inflammation-induced endoplasmic reticulum $\\mathrm { C a } ^ { 2 + }$ store expansion is mediated by X-box binding protein-1[J].JBiol Chem,2009,284 (22): 14904-13.   \n[4]Scheff NN,Lu SG,Gold MS.Contribution of endoplasmic reticulum $\\mathrm { C a } ^ { 2 \\mathrm { ~ + ~ } }$ regulatory mechanisms to the inflammation-induced increase in the evoked $\\mathrm { C a } ^ { 2 + }$ transient in rat cutaneous dorsal root ganglion neurons[J].Cell Calcium,2013,54(1): 46-56.   \n[5]李建华,周丽芬,陈志勇,等.经典瞬时受体电位通道在哮喘小鼠肺组 织中的表达[J].华中科技大学学报:医学版,2011,40(6):678-81.   \n[6]Ambudkar IS,Ong HL,Liu XB,et al.TRPC1: the Link between functionally distinct store-operated Calcium channels [J].Cell Calcium,2007,42(2): 213-23.   \n[7]Stathopulos PB,Li GY,Plevin MJ,et al. Stored $\\mathrm { C a } ^ { 2 + }$ depletioninduced oligomerization of stromal interaction molecule 1 (STIM1) via the EF-SAM region: An initiation mechanism for capacitive $\\mathrm { C a } ^ { 2 + }$ entry[J].JBiol Chem,2006,281(47): 35855-62.   \n[8]Ohba T,Watanabe H,Murakami M,et al.Essential role of STIM1 in the development of cardiomyocyte hypertrophy[J].Biochem Biophys Res Commun,2009,389(1):172-6.   \n[9]Bishara NB,Ding H.Glucose enhances expression of TRPCl and Calcium entry in endothelial cells[J].Am JPhysiol Heart Circ Physiol,2010,298(1):H171-8.   \n[10]Li S,Ran Y, Zheng X,et al.15-HETE mediates sub-acute hypoxiainduced TRPC1 expression and enhanced capacitative Calcium entry in rat distal pulmonary arterial myocytes[J].Prostaglandins Other Lipid Mediat,2010,93(1/2):60-74.   \n[11]Ye Y,Zhang Y,Lu X,et al. The anti-inflammatory effect of the SOCCblocker SK&F 96365 on mouse lymphocytesafter stimulation by Con A or PMA/ionomycin [J].Immunobiology, 2011,216(9): 1044-53.   \n[12] Yang LX,Guo RW,BeiL,et al. Role of TRPC1 and NF-kappa B in mediating angiotensin I-induced $\\mathrm { C a } ^ { 2 + }$ entry and endothelial hyperpermeability[J].Peptides,2009,30(7):1368-73.   \n[13]Lin H, Yasuhiro K,Yuko L,et al. Counteracting effect of TRPC1- associated $\\mathrm { C a } ^ { 2 \\mathrm { ~ + ~ } }$ influx on TNF-alpha-induced COX-2-dependent prostaglandin E2 production in human colonic myofibroblasts[J]. AmJPhysiol Gastrointest Liver Physiol,2011,301(2): 356-67.   \n[14]Biman CP,Asrar BM,Kwiatek AM,et al. Tumor necrosis factoralpha induces nuclear factor-kappaB-dependent TRPC1 expression in endothelial cells[J].JBiol Chem,2003,278(39):37195-203.   \n[15]Paria BC,Vogel SM,Ahmmed GU，et al.Tumor necrosis factor-alpha-induced TRPC1 expression amplifies store-operated $\\mathrm { C a } ^ { 2 + }$ influx and endothelial permeability[J].AmJPhysiol Lung Cell Mol Physiol,2004,287(6): L1303-13. (编辑：黄开颜） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,417 @@
+[
+    {
+        "type": "text",
+        "text": "Interaction of NS2 with AIMP2 Facilitates the Switch from Ubiquitination to SUMOylation of M1 in Influenza A Virus-Infected Cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shijuan Gao,a Jiaoxiang $\\mathsf { w } \\mathsf { u } , ^ { \\mathsf { b } }$ Ran-Yi Liu, Jiandong $\\mathbf { L i } , ^ { \\mathsf { a } }$ Liping Song,a Yan Teng,e Chunjie Sheng,a Dong Liu,a Chen Yao,b Huiming Chen,b Wei Jiang,a Shuai Chen,a,c Wenlin Huanga,c,d ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AKb Provet uagd Beijing, Chinae ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InfluenzaAviruses(IAVs)relyonhostfactors tosupportheirlifecycle,asviralproteins hijackorinteractwithcelularproteins to execute theirfunctions.Identificationandunderstandingofthesefactors would increaseourknowledgeofthe molecular mechanismsmanipulatedbytheviruses.Inthistudy,wesearchedfornovelbinding partnersofthe influenzaAvirusNSprtein,thenuclearexportproteinresponsibleforovercominghostrangerestriction,byayeast two-hybridscreningassayand glutathione S-transferase-pulldownandcoimmunoprecipitationasays andidentifed AIMP,apotenttumorsuppresorthat usuallyfunctionstoregulate proteinstability,asoneofthe majorNS2-bindingcandidates.Wefoundthatthe presenceofNS protectedAIMP2fromubiquitin-mediateddegradationinNS2-transfectedcellsandAIMP2functionedasapositiveregulatorof IAVreplication.Interestingly,AIMP2hadnosignificantefectonNS2butenhancedthestabilityofthe matrix proteinM1.Further,weprovideevidencethatAIMP2recruitmentswitchesthe modificationofM1fromubiquitinationtoSUMOylation,which occurs on thesameattachment site(K242)onM1and thereby promotes M1-mediatedviralribonucleoproteincomplex nuclear exportto increaseviralreplication.Collctively,ourresults revealanewmechanismof IMP2 mediationof influenzaviusreplication. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IMPORTANCE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AlthoughtheubiquitinationofM1duringIAVinfectionhasbeenobserved,theprecisemodificationsiteandthemolecularconsequencesofthis modifcationremainobscure.Here,we demonstrateforthe first timethatubiquitinandSUMOcompete for thesamelysine(K242)onM1andtheinteractionofNS2withAIMP2facilitates theswitchofthe M1modificationfromubiquitination to SUMOylation, thus increasing viral replication. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nfluenza A virus (IAV) is a significant cause of morbidity and mortality in both humans and animal species owing to its ability to cause yearly epidemics and occasional pandemics (1-3).Like other viruses,IAV hijacks the host cellular machinery to support its life cycle.Thus,identification and characterization of the interactions between viral components and specific host factors would help provide an understanding of the mechanisms by which the viruses acquire human pandemic potential. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IAVbelongs to the Orthomyxoviridae family,and its genome consists of eight negative-sense RNA segments encoding up to 17 viral proteins (4-9).The viralRNA(vRNA) exists as a formofviral ribonucleoprotein complexes (vRNPs) containing vRNA, nucleoprotein (NP),and three viral polymerase proteins (PBl,PB2,and PA).Unlike most other RNA viruses,influenza virus transcribes and replicates its genome in the nucleus.Thus,after it entersa host cell, vRNPs enter the nucleus to complete transcription and replication (10).The newly synthesized vRNPs are exported from the nucleus for packaging into progeny virions (11). In this regard, efficient nuclear export of vRNPs is essential for productive infection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NS2,also known as nuclear export protein (NEP),acts as an adaptor to mediate the nuclear export of vRNPs by forming the Crml-NS2-M1-vRNP complex (12,13).Recently,this adaptor protein has been shown to play an important role in overcoming host range restriction.Adaptive mutations in NS2 can increase viral RNA accumulation,which compensates for the reduced activity of avian viral polymerase in mammalian cells,therebyallowing highly pathogenic avian H5N1 influenza viruses to overcome host restriction(14).It has also been reported that NS2 promotes the efficient release of budding virions by recruiting $\\mathrm { F _ { 1 } F _ { o } }$ ATPase (15).Consequently,NS2 appears to perform different functions during the viral life cycle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M1,anotherkey regulator of vRNP nuclear export(11,16),is a multifunctional protein that plays essential structural and functional roles in various steps of the influenza virus life cycle. The proper subcellular localization of Ml is necessary for its functions in the viral life cycle.Early in infection,newly synthesized M1 translocates to the nucleus,where it blocks the transcription of viralmRNAbybindingtovRNPs and mediatesvRNPnuclear export (l6-19).Late in infection,M1 is exported from the nucleus to block the reentry of vRNPs into the nucleus,mediate viral assembly and budding,and control virus morphology(11,20-22). Posttranslational modifications of Ml play important roles in the regulation of its cellular localization and function.Phosphorylation of M1 at Yl32 mediates the nuclear import of M1 (23), whereas SUMOylation of Ml regulates the nuclear export of vRNPs and promotes virion assembly and budding (21). Ubiquitination of M1 has been implicated in IAV release from the endosomes (24).However, the precise modification site and the biological functions of Ml ubiquitination are not well understood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Aminoacyl-tRNA synthetase interacting multifunctional protein2(AIMP2;also known as JTV-1 or p38) was first identified to be a component of the multi-aminoacyl-tRNA synthetase (ARS) complex (25,26).Besides stabilizing the ARS complex to promote efficient protein synthesis,AIMP2 has recently been shown to dissociate from the ARS complex following DNA damage or oncogenic stimuli and work as a potent tumor suppressor through the regulation of ubiquitin-mediated degradation of target proteins. AIMP2 binds to and sequesters p53 from Mdm2-dependent ubiquitination in response to oxidative stress (27). Following transforming growth factor $\\beta$ treatment,AIMP2 interacts with and mediates the ubiquitination of FBP (28).AIMP2 also promotes tumornecrosis factor alpha(TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ )-induced ubiquitin-dependent degradationofTRAF2 (29).Moreover,AIMP2 itself is asubstrate of the E3 ligaseParkin (30,31). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we performed a yeast two-hybrid assay to screen NS2-interacting host proteins and identified AIMP2 to be its potential binding partner.We present data that NS2 interacts with AIMP2 and protects it from ubiquitin-mediated degradation.AIMP2 functions as a positive regulator of IAV replication by facilitating the switch from ubiquitination to SUMOylation of M1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell culture,viruses,and antibodies.A549 (human type II alveolar epithelial),293T (human embryonic kidney),HeLa (human epithelial carcinoma） cells,and MDCK(Madin-Darby canine kidney) cells were cultured in Dulbecco's modified Eagle's medium(DMEM) supplemented with $1 0 \\%$ heat-inactivated fetal bovine serum(Gibco,Paisley,United Kingdom). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recombinant influenza virus A/WSN/33(H1N1)(WSN) was generated using a l2-plasmid-based reverse genetics approach and propagated in MDCK cells (32).A/PR/8/34 (H1N1) virus was propagated in specificpathogen-free chicken embryos.The viral titer was measured usinga standard plaque assay or hemagglutinin (HA) assay (33,34).The M1 K242R mutant virus was generated using reverse genetics in which segment 7 (wild-type [WT] M gene）was replaced with the mutant construct (AAA $$ AGA at residue 749). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mouse anti-Flag antibody(M2; catalog number F3165)was purchased from Sigma (St.Louis,MO,USA).Mouse anti-HA (catalog number sc7392),anti-Myc (catalog number sc-4O),and anti-influenza A virus NP (catalog number sc-1Ol352) antibodies,goat anti-influenza A virus NS2 (catalog number sc-17598) and anti-JTV1 (AIMP2) (catalog number sc160454) antibodies,and horseradish peroxidase-conjugated donkey antigoat IgG were provided by Santa Cruz Biotechnology (Santa Cruz, CA, USA).Rabbit anti-lamin B1 was purchased from Boster(Wuhan,China). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mouse antitubulin(catalog number ZS-8o35O) and anti-His antibodies, tetramethyl rhodamine isocyanate (TRITC)-conjugated anti-goat IgG, and TRITC-conjugated anti-mouse IgG were purchased from Zhongshan Golden Bridge Biotechnology (Beijing,China).Fluorescein isothiocyanate (FITC)-conjugated anti-rabbit IgG and FITC-conjugated antimouse IgG were from Jackson ImmunoResearch Laboratories.Rabbit polyclonal antibody against influenza Avirus NP and mouse monoclonal anti-influenza A virus Ml antibody were kindly provided by Wenjun Liu (Institute of Microbiology,Chinese Academy of Sciences,Beijing, China). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmids.The NS2 gene was amplified from influenza A virus A/WSN/33(H1N1）cDNA by PCR and cloned into the pGEX4T-1, pBridge,pXJ40-HA,pcDNA3.0-Flag,or pcDNA4.0-Myc/His vector. The NS2 gene ofA/PR/8/34(H1N1) or A/QH/12/05 (H5N1) was cloned into pXJ40-HA.M1cDNA was derived from the A/WSN/33 strain and cloned into the pcDNA3.0-Flag or pcDNA4.0-Myc/His vector.Full-length M1 carryinga K102R,K187R,K230R,or K242R mutation was generated by PCR with specific primers and cloned into the pcDNA3.0-Flag or pcDNA4-Myc/His vector.AIMP2 was cloned into the pGADT7,pXJ40- HA,pcDNA3.0-Flag,or pcDNA4.0-Myc/His vector.Ubiquitin(Ub)-conjugated HA (HA-Ub),HA-K48-Ub,and HA-K63-Ub were kindly provided by Xin Ye (Institute ofMicrobiology, Chinese Academy of Sciences, Beijing,China).HA-SUMO-1 was cloned into the pXJ40-HA vector.The Ubc9 plasmid was kindly provided by Hong Tang (Institute of Biophysics, Chinese Academy of Sciences,Beijing, China).Plasmids for expressing nontagged PB1,PB2,PA,and NP were derived froman influenzaAvirus reverse genetics system.A polymerase I-expressing plasmid carrying an influenza virus-like RNA encoding firefly luciferase (vNS-Luc) was kindly provided by Xin Ye. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yeast two-hybrid screening.The GAL4BD-NS2 fusion bait plasmid was transformed into Saccharomyces cerevisiae strain CG1945 using the lithium acetate protocol. The transformant was grown on synthetic dropout (SD) agar plates without Trp and spread on SD agar plates without His and Trp for self-activation estimation.The cDNAlibrary derived from human fetal brain was screened following the Matchmaker two-hybrid system protocol (Clontech).Approximately $1 0 ^ { 7 } \\ T r p ^ { + } \\ L e u ^ { + }$ transformants were selected on SD agar plates without His,Leu,and Trp for the primary screening and then tested by the LacZ assay for the second screening.After rescue,the potential positive plasmids were isolated and retransformed into yeast strain CG1945 containing the NS2 bait plasmid. Only the clones that were positive for all the reporters and confirmed to be positive by at least two independent tests were selected for specific interactions and sequenced. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "siRNA oligonucleotide sequences and transfection.The sequences of small interfering RNA(siRNA) targeting AIMP2(siAIMP2) were as follows: for siAIMP2 sense, $5 ^ { \\prime }$ -ACACCAGAUGCAGACUUGAUGUAA $\\cdot 3 ^ { \\prime }$ · for siAIMP2 antisense, $5 ^ { \\prime }$ -UUACAUCAAGUCUGCAUCUGGUGU $\\cdot 3 ^ { \\prime }$ (35).The siRNA oligonucleotides were chemically synthesized (Guangzhou Ribobio,Guangzhou,China）and transfected into 293T or A549 cells using the Lipofectamine 2ooo reagent according to the manufacturer's instructions (Invitrogen). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quantitativereal-timePCR analysis.TotalRNA was isolated from A/WSN/33 virus-infected cells using the TRIzol reagent (TianGen Biotech Co.,Ltd.,Beijing, China).Two-microgram RNA aliquots were used for first-strand cDNA synthesis using Moloney murine leukemia virus reverse transcriptase (Promega,USA).The primers used for reverse transcription of vRNA,cRNA,and mRNA were $5 ^ { \\prime }$ -AGCGAAAGCAGG- $\\cdot 3 ^ { \\prime }$ , $5 ^ { \\prime }$ -AGTAGAAACAAGG $3 ^ { \\prime }$ ,andoligo(dT),respectively.Real-time PCR was conducted using SYBR $E x$ Taq I premix (TaKaRa Co.,Ltd.,DaLian, China).The cycle conditions included an initial denaturation step at $9 5 ^ { \\circ } \\mathrm { C }$ for $3 0 s$ ,followed by 40 cycles of amplification for $3 s$ at $9 5 ^ { \\circ } \\mathrm { C }$ and $1 \\mathrm { m i n }$ at $6 0 ^ { \\circ } \\mathrm { C }$ .The amounts of viral RNA were normalized by the amount of 18S rRNA.The primer sequences used in the real-time PCR were as follows: $5 ^ { \\prime }$ -GCCTGCCTGCCTGTGTGTATGGAT- $\\cdot 3 ^ { \\prime }$ for the NP forward primer and $5 ^ { \\prime }$ -GGCATGCCATCCACACCAGTTGAC- $\\cdot 3 ^ { \\prime }$ for the NP reverse primer, $5 ^ { \\prime }$ -GTAACCCGTTGAACCCCATT- $\\cdot 3 ^ { \\prime }$ for the18S rRNA forward primer and $5 ^ { \\prime }$ -CCATCCAATCGGTAGTAGCG $\\cdot 3 ^ { \\prime }$ for the 18S rRNA reverseprimer (36), $5 ^ { \\prime }$ -CCCCAATGTCTCTGTTGTTGAC- $\\cdot 3 ^ { \\prime }$ for the GAPDH(glyceraldehyde-3-phosphate dehydrogenase） forward primer and $5 ^ { \\prime }$ -CAGCCTTCACTACCCTCTTGAT- $\\cdot 3 ^ { \\prime }$ for the GAPDH reverse primer;and $5 ^ { \\prime }$ -ACCTGTCTCTGCAAGCTCTT- $\\cdot 3 ^ { \\prime }$ for the AIMP2 forward primer and $5 ^ { \\prime }$ -GTGGTTAAAGTCGTGGGCTC- $\\cdot 3 ^ { \\prime }$ for the AIMP2 reverse primer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Luciferase assay.293T cells were transfected with the IAV PA,PB1, PB2,and NP expression vectors,along with a luciferase reporter (vNSLuc)and the Renilla luciferase reporter vector pRL-TK (Promega, USA), which was used as an internal control.The cells were also cotransfected with Flag-AIMP2 and HA-NS2.The cell lysates were prepared at $^ { 3 0 \\mathrm { ~ h ~ } }$ posttransfection,and the luciferase activity was measured using a dualluciferase reporter assay system (Promega, USA) according to the manufacturer's recommendations.Each set of assays was performed in triplicate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western blot analysis.Cell lysates were prepared by washing the transfected or virus-infected cells with cold phosphate-buffered saline (PBS) and extracting the total protein using cell lysis buffer(Cell Signaling Technology).To detect the cellular localization of influenza virus proteins,cytoplasmic or nuclear extracts were prepared using a nuclear and cytoplasmic protein extraction kit (Beyotime Institute of Biotechnology, Beijing,China).The extracted proteins were separated using SDS-PAGE and transferred to a polyvinylidene difluoride membrane.After blocking, the membrane was incubated with the primary antibody overnight at $4 ^ { \\circ } \\mathrm { C } ,$ followed by incubation with a horseradish peroxidase-conjugated secondary antibody for $^ { 2 \\mathrm { h } }$ at room temperature.Bands were detected using enhanced chemiluminescence (Applygen, China). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence assay.The transfected or A/WSN/33 virus-infected293TorA549 cells werewashed three timeswithPBS,fixed in $4 \\%$ paraformaldehyde for $2 0 ~ \\mathrm { m i n }$ at room temperature,and permeabilized with $0 . 2 \\%$ Triton X-100 for $4 ~ \\mathrm { m i n }$ .After blocking in $5 \\%$ bovine serum albumin for $3 0 ~ \\mathrm { m i n }$ ,the cells were incubated for 35 to $4 0 ~ \\mathrm { m i n }$ with the primary antibodies at $3 7 ^ { \\circ } \\mathrm { C }$ .After washing with PBS,the cells were incubated for $4 0 ~ \\mathrm { m i n }$ with TRITC conjugates and fluorescein isothiocyanate conjugates at $3 7 ^ { \\circ } \\mathrm { C }$ .Cell nucleiwere stained withDAPI $( 4 ^ { \\prime } , 6$ -diamidino2-phenylindole) according to the manufacturer's recommendations.The cells were observed with a Leica confocal microscope. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GST-pulldown and coimmunoprecipitation assays.Glutathione Stransferase(GST)and GST fusion proteins were purified from Escherichia coli BL21(DE3) cells using glutathione-Sepharose 4B beads (Amersham Biosciences,Uppsala, Sweden).An equal amount of either GST or GST fusion protein $( 2 ~ \\mu \\mathrm { g } )$ bound to the beads was incubated with the lysates from transiently transfected 293Tcells in NP-40 lysis buffer for $ { 4 \\mathrm { h } }$ at $4 ^ { \\circ } \\mathrm { C }$ .The beads were then washed five times with PBS containing $0 . 1 \\%$ Triton X-1oo.The bound proteins were eluted by boiling in $2 \\times$ SDS loading buffer and analyzed by Western blotting with an anti-HA antibody. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the coimmunoprecipitation experiments,transfected or infected cells were lysed inlysis buffer ( $1 \\%$ Triton X-100,150 mMNaCl, $2 0 ~ \\mathrm { m M }$ HEPES, pH7.5, $1 0 \\%$ glycerol, $1 \\mathrm { m M }$ EDTA,protease inhibitors),and the cell lysates were incubated with antibodies at $4 ^ { \\circ } \\mathrm { C }$ for $^ { 2 \\mathrm { h } }$ .Protein G agarose beads (Sigma,USA)were then added,and the mixture was incubated at $4 ^ { \\circ } \\mathrm { C }$ overnight. The beads were washed three times with lysis buffer, boiled in $2 \\times { \\mathrm { s D s } }$ loading buffer for $5 \\mathrm { { m i n } }$ ,and then analyzed by Western blotting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses.Thedataarepresented as the mean $\\pm$ standard deviation(SD).Statistical comparisons were performed using SPSS (version11.5) software(SPSS,Inc.,Chicago,IL,USA).Parametric data were compared using Student's t test. One-way analysis of variance (ANOVA) was used to determine the difference between independent groups.The differences between the variants were considered statistically significant if $P$ was $< 0 . 0 5$ · ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NS2 interacts with AIMP2 in vitro and in IAV-infected cells.To better understand the roles ofNS2 in the pathogenesis of influenza viruses,we performed yeast two-hybrid assays to identify NS2- binding proteins and obtained four proteins,including AIMP2, ATP5E,HINT2,and SMC3.Among them,we focused on AIMP2 (Fig.1A).The interaction between NS2 and AIMP2 was further confirmed in the in vitro GST-pulldown assay (Fig.1B) and an in vivo coimmunoprecipitation study in 293T cells cotransfected with vectors expressing Flag-tagged AIMP2 and HA-tagged NS2 (Fig.1C).Next we examined whether endogenous AIMP2 could interact with NS2 in IAV-infected cells by another coimmunoprecipitation study.As shown in Fig.1D,NS2 could be coimmunoprecipitated in WSN-infected A549 cell extracts when using a precipitation antibody to endogenous AIMP2,whereas NS2 was not detected in the immunoprecipitates by a control IgG.Finally, we performed immunofluorescence analyses to detect the cellular colocalization of AIMP2 with NS2in 293T or A549 cells.AIMP2 colocalized specifically with NS2 in the cytoplasm(Fig.1E）but not with NS1 (data not shown).Together, these data clearly demonstrate that NS2 is able to physically bind to AIMP2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate whether the NS2 proteins of other IAV strains also interact with AIMP2,we performed coimmunoprecipitation assays with Myc-tagged AIMP2 and HA-tagged NS2 froma lowpathogenic strain,A/PR/8/34 (H1N1),the NS2 protein of which exhibited $9 5 \\%$ identity with WSN NS2,and a highly pathogenic strain,A/QH/12/05 (H5N1),the NS2 protein of which had $9 3 \\%$ homology with WSN NS2.As shown in Fig.1F,AIMP2 interacted with the NS2 proteins from the two different IAV strains as well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Identification of the NS2-AIMP2-binding region.NS2 can be divided into an N-terminal protease-sensitive domain and a Cterminal protease-resistant domain (Fig.2A).TheN-terminal domain contains a highly conserved nuclear export signal which is thought to be required for binding with Crml.The C-terminal domain consists of two $\\propto$ -helices,C1 and C2,and is essential for M1 binding (37).Thus,NS2 is believed to be an adaptor protein during Crml-mediated nuclear export of vRNPs by forming the vRNP-M1-NS2-Crml complex(12).Here,we found that the Nterminal domain but not the C-terminal(M1-binding) domain of NS2 was responsible for the binding with AIMP2 by the GSTpulldown assay (Fig. 2B). Furthermore,we also identified the region of AIMP2 involved in its binding with NS2 by the GSTpulldown assay.The peptide spanning amino acids (aa) 1 to l60 of AIMP2 interacted with NS2,while the peptides spanning aa 160 to 320,1 to 83,and 1 to 320 with deletion of aa 83 to 160 [AIMP2(△83-160)] did not interact with NS2,implying that AIMP2 amino acid residues 83 to l6O are essential for binding with NS2 (Fig. 2C and D). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NS2 inhibits AIMP2 ubiquitination.Under physiological conditions,AIMP2 is an integral component of the ARS complex In response to signals,AIMP2 dissociates from the ARS complex to participate in a variety of cellular processes (28,38).The released AIMP2 can be recognized by E3 ligases,such as Parkin, leading to its ubiquitination and degradation quickly through the proteasome pathway (39).Here,we observed that IAV infection significantly decreased the protein levels of AIMP2,while treatment with the proteasome inhibitor MG-132 attenuated the reduction (Fig.3A).Furthermore,there was no significant difference in AIMP2 mRNAlevels between the cells with or without ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df15f999d2e744e80c4afee86d74b1481474141d5e6e7e00a2bbfa1551d149d4.jpg",
+        "img_caption": [
+            "FIGNteracile CG194asodidaedpeseuaite) showingthedctteracoNLaofellsedecubedialamooo GST-NS2boundttateroeeadseoudpoteeeaaldyesteotigiiFtbdsie brilate.（ lysateses endogenous AIMPandNS2inA/WSN/33virus-infectedA549cells.A549cllswereinfectedwithA/WSN33vrusatanMOIof2for $1 6 \\mathrm { h }$ ,and the cell lysates wereiuoeaboihabesloalHd4 A549 cels were cotransfected with HA-NS2 and Flag-AIMP2. At $2 8 \\mathrm { h }$ posttransfection,the cels were fixed,permeabilized,and stained for Flag-AIMP2 (green) andHA-NS2(ededitepresetscs.ota-ydHiTe immopreioboiaaist experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WSN infection (Fig.3B).These results suggest that IAV infection maytriggerubiquitin-mediated degradation of AIMP2.To further confirm the ubiquitination of AIMP2 in IAV-infected cells, 293Tcells were cotransfected with AIMP2-Myc and HA-Ub,followed by infection with A/WSN/33 virus.Immunoprecipitation experiments clearly indicated that IAV infection enhanced the ubiquitination of AIMP2 (Fig. 3C). It is known that K48-linked polyubiquitin chains target proteins for proteasome-mediated degradation,whereas K63-linked polyubiquitin chains usually regulate a variety of nonproteolytic cellular functions.Here,we found that WSN virus infection induced theK48-but not K63- linked ubiquitination of AIMP2 (Fig. 3D). Given the clear evidence of the interaction between NS2 and AIMP2,we next investigated whether NS2 was involved in the regulation of AIMP2 ubiquitination.Since no recombinant WSN virus lacking the NS2 gene is available,we studied the effects of NS2 on AIMP2 ubiquitination in cells transfected with NS2.We observed that the presence ofNS2 eliminated the ubiquitin chain from AIMP2 (Fig.3E), supporting the negative regulatory roles of NS2 on AIMP2 ubiquitination.Taken together,our results indicate that IAV infection induces ubiquitin-dependent AIMP2 degradation and that binding with NS2 protects AIMP2 from ubiquitin modification. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d242f2801e5b3bf3b8151aaa6dedbe211674106a2b7aa1eb66a8600b06879016.jpg",
+        "img_caption": [
+            "FG2Mapec.ta (B)LysatesofcelstseedirecbaedilmotofG-frot-f GST-NS2fro5tfro54t5Gfro8todeserealdstetg antibodyC)eota.Doateacita in panels B and D are representative of those from three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AIMP2 enhances IAV replication by promoting vRNP nuclear export.We next investigated whether AIMP2 affected IAV replication.To this end,293T cells were transfected with plasmid pcDNA-AIMP2 with wild-type AIMP2,deletion mutant plasmid pcDNA-AIMP2(△83-160) lacking the NS2-binding site,or specific siRNA targeting AIMP2 (siAIMP2),followed by infection of A/WSN/33 orA/PR/8/34 virus ata multiplicity of infection (MOI) of 0.5.The supernatants of infected cells were harvested to determine virus titers byhemagglutinin assay.As shown in Fig.4A, for both the A/WSN/33 and A/PR/8/34 strains,viral titers were increased in AIMP2-overexpressing cells and decreased in AIMP2- knockdown cells $( P < 0 . 0 1$ ),whereas no significant difference was observed in cells transfected with pcDNA-AIMP2(△83-160). Therefore,it is likely that AIMP2 functions as a positive regulator ofIAV replication by binding to NS2.We then investigated how AIMP2 could influence IAV replication.293T cells were transfected with control siRNA(siCtr) or siRNA targeting AIMP2 for $4 8 \\mathrm { h }$ ,followed by infection with A/WSN/33 virus at an MOI of 0.5. At 8,12,and $1 6 \\mathrm { h }$ postinfection (p.i.),both the culture supernatants and whole-cell lysates were assayed by Western blotting with anti-NP antibody.We observed that AIMP2 knockdown had no significant effect on NP levels in cellular lysates at 8 and $1 2 \\mathrm { h }$ p.i. but decreased the NP levels in the culture supernatants (virus particle)at 12 and $1 6 \\mathrm { ~ h ~ }$ p.i. (Fig. 4B). These results indicate that AIMP2 may not be involved in the early step of viral replication but most likely has an effect in the late stage,when viral protein synthesis has started to occur(24,40).We also performed realtime PCR to examine whether AIMP2 had any effect on the transcription and replication of the viral genome in the early step of viral replication. $2 9 3 \\mathrm { T }$ cells were transfected with siCtr,siAIMP2, orsiAIMP2 and pcDNA-AIMP2,followed by infection with A/WSN/33 virus.The levelsof mRNA,cRNA,and vRNA specific for the NP segment were measured by real-time PCR with specific primers.No significant differences inNP mRNA,cRNA,or vRNA levels were observed among the three groups at 4 and $6 \\mathrm { h }$ p.i. (Fig. 4C).Meanwhile,we applied a minireplicon reporter assay to confirm the negligible effect ofAIMP2 on RNA-dependentRNA polymerase (RdRp）activity.As expected,overexpression of NS2, which has been shown to inhibit reporter gene expression in this system,did significantly inhibit RdRpactivity( $\\stackrel { \\cdot } { P } < 0 . 0 1 \\stackrel { . } { }$ ).In contrast,overexpression ofAIMP2 did not alterRdRp activity or NS2- mediated RdRp inhibition (Fig. 4D). Thus,AIMP2 appeared not to regulate transcription or replication of the genome.Previously, NS2 has been shown to act as a key adaptor in vRNP nuclear export (12，41).The interaction between NS2 and AIMP2 prompted us to investigate whether AIMP2 regulates vRNP nuclear export.To better track the subcellular localization ofvRNPs, we performed an immunofluorescence assay with anti-NP antibody because NP is associated with viral genomic RNA. NP (Fig. 4E,green) was localized in the nucleus at $^ { 4 \\mathrm { h } }$ p.i. and exported to the cytoplasm at $^ { 8 \\mathrm { ~ h ~ } }$ p.i. in AIMP2-overexpressing cells (Fig. 4E, red),while NP was still retained in the nucleus at $^ \\textrm { \\scriptsize 8 h }$ p.i. in AIMP2-nonoverexpressing cells (Fig. 4E),indicating that AIMP2 facilitates vRNP nuclear export.The enhancement of the nuclear export of vRNPs byAIMP2 was further confirmed byanalysis of relative NPlevels in the cytoplasm and nucleus when AIMP2 expression was up- or downregulated.As shown in Fig.4F (right), ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6761126a6cd2fd43041201516d61c5f103b7650d72d0eabe1c626cda9fc819a2.jpg",
+        "img_caption": [
+            "FIG3NS2isieeseeledi A/WSN/33 virus at an MOIof1or left uninfected.At $1 2 \\mathrm { h }$ postinfection,the proteasome inhibitor MG-132 or a dimethyl sulfoxide(DMSO)-treated control was added to the cells for $^ { 4 \\mathrm { h } }$ .Cell lysates were prepared and immunoblotted forAIMP2,NP,and $\\beta$ -actin.Relative AIMP2 band intensities were measured using ImageJ software (NIH).Data are shown as the mean $\\pm \\operatorname { S D }$ from three independent experiments.Statistical significance was determined by ANOVA. (B)IAV does not alter mRNA levels of AIMP2.293Tcells were infected with the A/WSN/33 virus at an MOIof1orleft uninfected.At $1 2 \\mathrm { h }$ postinfection, AIMP2 mRNA expresion was evaluatedbyquantitative reversetranscription-PCR withGAPDHasaninternalcontrol.Datarepresentthe mean $\\pm \\operatorname { S D }$ from three independent experientstatieeeso and HA-Ub or an HA control vector for $2 8 \\mathrm { h }$ and then infected with the A/WSN/33 virus at an MOI of1or left uninfected for an additional $1 2 \\mathrm { h }$ .The cell lysates weretracteddboasfdie( ubiquitination of AIMP2.293T cells were transfected with the indicated plasmids for $2 8 \\mathrm { h }$ and then infected with the A/WSN/33 virus at an MOI of 1 for $1 2 \\mathrm { h }$ Celysateseoiaebodii trasfectedo representative of those from at least three independent experiments. $^ { * * }$ $P < 0 . 0 1$ ; ns,no significant difference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AIMP2 knockdown leads to a decrease in NP levels in the cytoplasmic fractions (column 2; $P < 0 . 0 1$ ）andan increase in the nuclear fractions(column 6; $P < 0 . 0 1$ ).Conversely,AIMP2 overexpression increases the amounts of NP in the cytoplasmic fractions (column 3; $P < 0 . 0 5$ )anddecreases thenuclearretentionof NP (column 7; $P < 0 . 0 5$ ).While the ectopic expression of AIMP2 was silenced by siAIMP2, there were no alterations in NP levels in the cytoplasmic fractions or the nuclear fractions (columns 4 and 8,respectively). Collectively,AIMP2 functions as a positive regulator for IAV replication,acting in the steps of vRNP nuclear export. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ec4bdc40ace780fd0e81707ed99f6401d5db4c5823259f8d66c663f81ab1f1e.jpg",
+        "img_caption": [
+            "FIG4AIM2poVlcpcelsaseit,trus or siCtr plus pcDNA-AIMP2(△83-160) for $^ { 4 8 \\mathrm { ~ h ~ } }$ ,followed by infection with the A/WSN/33orA/PR/8/34 virus atan MOIof0.5.The supernatants of the cel cultureeretdo $\\pm \\ : \\mathrm { S D }$ from threindepenetxperitseaOVAasetetfeeeepeetgousTfsethatse considered statistically significant if $P$ was $< 0 . 0 5$ .(B) 293Tcells were transfected with siAIMP2 or siCtr for $4 8 \\mathrm { h }$ ,followed by infection with the A/WSN/33 virus at an MOI of0.5.At 8,12,and $1 6 \\mathrm { h }$ p.i.,boththemediaandhole-cellysates wereassayedbyWesternblottingwithanti-NPantibody.Dataarerepresentative fthosefromteepetexpes.Csttodastofal transfected with siAIMP2,siCtr,or siAIMP2 and pcDNA-AIMP2. At $3 6 \\mathrm { h }$ posttransfection,the cells were infected with the A/WSN/33 virus at an MOI of0.1.At 4and $6 \\mathrm { h }$ .,totalcaseei as an internal control. Data represent the mean $\\pm \\thinspace \\mathrm { S D }$ from three independent experiments.Statistical significance was determined by ANOVA.The differences between the variants were considered statistically significant if $\\mathbf { \\dot { \\rho } }$ was $< 0 . 0 5$ .(D)AIMP2 has no effect on RdRp activity.293Tcels were transfected with pPolI-Luc adplsd AIMP2 or NS2,as indicated $\\operatorname { A t } 3 0 \\mathrm { h }$ posttransfection,luciferase activity was measured.The data represent the mean $\\pm \\operatorname { S D }$ from three independent experiments. Statisticls.otd the/ aow AIMP2 promotesuclearexprt9celserasedithCtr,2,Ctrpusp-,2pus-f $4 8 \\mathrm { h }$ 0 followed by infection with the A/WSN/33 virus atan MOI of2 for an additional $1 2 \\mathrm { h }$ Cytoplasmic (Cyto)and nuclear (Nuc) proteins were extracted and assayed byWesteoibeci Relative NP band intensity was measured using ImageJ software (NIH). Data represent the mean $\\pm \\ \\mathrm { S D }$ from three independent experiments. Statistical significance was determined by ANOVA. $^ { * * }$ $P < 0 . 0 1 ; { ^ \\ast }$ $P < 0 . 0 5$ ; ns, no significant difference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AIMP2 enhances the stability of M1. Subsequently,we investigated how AIMP2 regulates vRNP nuclear export. Since AIMP2 directly binds NS2 and NS2 is an essential adaptor for vRNP nuclear export,we hypothesized that AIMP2 may facilitate vRNP nuclear export by regulating the cellular distribution or expression ofNS2.To test this hypothesis,we transfected 293T cells with Flag-AIMP2 and HA-NS2 and analyzed the levels of NS2 in cytoplasmic and nuclear extracts.The results of Western blot analysis showed that AIMP2 had no significant effect on either the expression or the distribution of NS2 in the transfected cells (Fig.5A). Thus,it is likely that AIMP2 regulates vRNP nuclear export by targeting other proteins rather than by directly regulating NS2.To confirm this,we then determined the effects of AIMP2 knockdown on viral NP and Ml,two other important proteins involved in mediating the nuclear export of vRNPs in IAV-infected cells. $2 9 3 \\mathrm { T }$ cells were transfected with control siRNA or siRNA targeting AIMP2 for $^ { 4 8 \\mathrm { h } }$ ,followed by infection with A/WSN/33 virus,and the cytoplasmic and nuclear proteins were subjected to Western blot analysis.As shown in Fig.5B and C,knockdown of AIMP2 had no significant effect on either NS2 or NP protein levels or cellular localization at the early stage of infection ( $^ { \\cdot } { } _ { ^ { 8 } } \\mathrm { h }$ p.i.). Interestingly,both the protein levels and the nuclear localization of M1 were reduced in AIMP2-knockdown cells at $^ { 8 \\mathrm { ~ h ~ } }$ p.i. $( P < 0 . 0 5 ^ { \\cdot }$ ), suggesting that the disruption of AIMP2 negatively regulated M1. These results were further confirmed by tracing the distribution of M1 in IAV-infected A549 and $2 9 3 \\mathrm { T }$ cells with or without AIMP2 overexpression.The intensity of immunofluorescence for M1 in AIMP2-overexpressing cells was higher than that in AIMP2-nonoverexpressing cells,although M1 was mainly localized in the nucleus in both AIMP2-overexpressing and AIMP2-nonoverexpressing cells at $6 \\mathrm { h }$ p.i. (Fig. 5D). The positive regulation of M1 by AIMP2 was further confirmed by the increased amount of M1 in AIMP2-overexpressing cells ( $P < 0 . 0 5 )$ and the decreased amount of M1 in AIMP2-knockdown cells $( P < 0 . 0 1 ) \\$ ）(Fig.5E).Together, these results suggest that AIMP2 increases Ml protein levels upon IAV infection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcd7af597a18eab843140bf656ddc5e6f14f821c69a6a8a4b377ad2421ee95d1.jpg",
+        "img_caption": [
+            "FIG5IMPbi cells were cotransfected with Flag-AIMP2 and HA-NS2.At $3 0 \\mathrm { ~ h ~ }$ posttransfection,cytoplasmic and nuclear proteins were extracted and assayed by Western bltii band intensities were measured using ImageJ software (NIH).Data represent the mean $\\pm \\thinspace \\mathrm { S D }$ from three independent experiments.One-way ANOVA was used todeterinethediferencesbetweeindependentgoups.Thediferencesbetweentevariantsereconsideredstatisticallysignificantif $P$ was $< 0 . 0 5$ (B) Knockdowecplleaif ataMOofAoesa representatieodedepeCtedeses (NIH).Data represent the mean $\\pm \\thinspace \\mathrm { S D }$ fromthreeindependent experiments.Statistical significance wasdeterminedbyANOVA.(D)EnhancementofM1 nuclear localization in AIMP2-overexpressing cells.A549 and $2 9 3 \\mathrm { T }$ cells were transfected with HA-AIMP2 and infected with A/WSN/33 at an MOIof2.At 6 h p.i., the e Dataareepreseaeoeepeexpselleasdittus h,followed by infection with the A/WSN/33 virus at an MOI of 2 for $^ { 8 \\mathrm { h } }$ .Whole-cell lysates were assayed by Western blotting with the indicated antibodies. Relative band intensities were measured using ImageJ software (NIH). Data represent the mean $\\pm \\ : \\mathrm { S D }$ from three independent experiments.Statistical significance was determined by ANOVA. $x = 4 x$ $P < 0 . 0 0 1$ $^ { * * }$ $P < 0 . 0 1 ; \\$ \\*， $P < 0 . 0 5$ ; ns, no significant difference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AIMP2 promotes the switch from ubiquitination to SUMOylationofM1 onK242.AIMP2 increasesM1 protein levels (Fig. 5B and E) but not mRNA levels (data not shown), suggesting a possible role of AIMP2 in the regulation of M1 stability. The ubiquitin-proteasome pathway is the most common method used by cells to degrade endogenous proteins.Therefore,we tested if it plays a role in the AIMP2-mediated regulation of M1 stability upon IAV infection.After treatment with the proteasome inhibitor MG-132,the degradation of M1 in AIMP2-knockdown cells was attenuated $( P < 0 . 0 5 ) \\$ ）(Fig. 6A), suggesting that AIMP2 protects Ml from ubiquitin-mediated degradation.Furthermore,we observed that overexpression of AIMP2 reduced M1 ubiquitination (Fig. 6B).We next determined the potential ubiquitinated sites in M1.On the basis of the ubiquitination sites predicted by two online software tools(BDM-PUB and ubPred),K102,K187, K230,andK242were selected for furtherstudy.To verify these predicted sites,we constructed M1 mutants including K102R, K187R,K230R,and K242R.When K242 was mutated to Arg (R), the mutant Ml protein in the cells could no longer be modified by ubiquitin(Fig. 6C),indicating that K242 is the major,if not the only,ubiquitin modification site ofM1.Interestingly,K242 has been shown to be the SUMO modification site on M1 (21).This finding was also confirmed in our experiments (Fig. 6D).As both modifiers target the same site on Ml,a positive action of AIMP2 on the SUMOylation of M1 was proposed. Accordingly, overexpression of AIMP2 increased the effciency of SUMOylation of M1 (Fig. 6E). Collectively,these data strongly suggest that AIMP2 decreases the ubiquitination of K242 on Ml and enhances the SUMOylation of the same site. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "K242ofMl is essential forIAV replication.To assess the roles of K242 on M1 in IAV replication,we attempted to generate M1 mutant (K242R） virus by reverse genetics. The M1 mutant (K242R）virus could be rescued but replicated to significantly lower titers than WT virus (1oo-fold less)(Fig.7A) and produced smaller plaques than WT virus (data not shown).To further characterize the impact of M1 K242 on the viral life cycle,we then detected the expression ofM1 in 293T cells transfected with the 12 plasmids of the virus rescue system containing WT or mutant (K242R) M1.There was no significant difference in the protein levels between WTMl and mutant (K242R) Ml at $4 8 \\mathrm { h }$ posttransfection (p.t.). At $7 2 \\mathrm { { h } }$ posttransfection, the levels of WT M1 were higher than those of mutant(K242R) M1,which can be explained by the more effcient WT virus replication at that time point (Fig 7B).We also traced the intracellular distribution of M1 in 293T cells transfected with the 12 plasmids of the virus rescue system containing WT or mutant (K242R) M1.Wild-type M1 could be detected in both the cytoplasm and the nucleus at $2 4 \\mathrm { h }$ posttransfection (p.t.) and concentrated on the cell membrane at $3 6 \\mathrm { h }$ p.t. Surprisingly,the K242R mutant was still retained in the nucleus at $3 6 \\mathrm { h }$ p.t. (Fig.7C),suggesting that the K242R mutation resulted in the nuclear retention of Ml,which may lead to inefficient vRNP trafficking and virion assembly.To further clarify the effect of AIMP2 on WT or mutant virus rescue,293T cells were cotransfected with pcDNA-AIMP2 along with the 12 plasmids containing WTor mutant M1.The plaque assays indicated that AIMP2 overexpression promoted WT but not mutant virus propagation (Fig. 7D). The increased efficiency of infectious virus particle production from AIMP2-overexpressing cells may benefit from the enhanced Ml protein levels (Fig.7E). On the contrary,AIMP2 had no effect on the protein levels of K242R mutant M1.These data suggest that K242 of M1 is essential for IAV replication and AIMP2-mediated enhancement of IAV replication is dependent on K242 of M1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa4fb81cd6acf7ce9e5d12e98095f2aa3e4bd8bbfba9f016be40ec4d33039770.jpg",
+        "img_caption": [
+            "FIG6AIMraod.deleraeproteasepede cells were transfected with siCtr or siAIMP2 for $4 8 \\mathrm { h }$ ,followed by infection with A/WSN/33 atan MOIof2 along with DMSO or MG-132 treatment for $^ { 8 \\mathrm { h } }$ .Cell lsatee software (NIH).Data represent the mean $\\pm \\ : \\mathrm { S D }$ from three independent experi nents.Statistical significance was determined byANOVA. $^ { * * }$ $P < 0 . 0 1$ \\*， $P <$ 0.05;ns,no significant difference.(B) AIMP2 inhibits ubiquitination of M 293T cells were cotransfected with the indicated plasmids for $2 6 \\mathrm { h }$ .The cell lysates were extracted and immunoprecipitated with anti-Myc antibody.Ir was performed withHA,Myc,and Flag antibodies.(C) Ubiquitination of M1 is dependent on K242.293T cells were cotransfected with the indica $2 6 \\mathrm { ~ h ~ }$ tracted and immunoprecipitated with an anti-Myc antibody.Immunoblotting was performed with the indicated ylation site ofM1.293Tcells were cotransfected with the indicated plasmids for $2 6 \\mathrm { ~ h ~ }$ . The cell lysates were im indicatedantibodies.(E)AIMP2 enhancesK242- mediated SUMOylation of M1.293T cells were cotransfected with the $2 6 \\mathrm { h }$ were extracted and immunoprecipitated with anti-Myctbodboiiaedataesepesefoos independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although ubiquitination of M1 during IAV infection has been observed (42),the precise modification site and the molecular consequences of this modification remain obscure.Here,we showed that ubiquitin and SUMO competed for the same lysine (K242) site on M1 to control the cellular localization of Ml and regulate its function in vRNP nuclear export and virus assembly duringIAVinfection.InteractionofNS2withAIMP2 facilitated the switch from the ubiquitination to the SUMOylation of M1, thereby increasing virus replication. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our model for the regulatory roles of the AIMP2-NS2 interaction in Ml posttranslational modifications is presented in Fig. 8. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/be35f14e15e5fa44e3af3b44d41ce41c5d90e7f1d8b309cdabaae5dad186173f.jpg",
+        "img_caption": [
+            "FG7K24lalas system containing wild-type or mutant (Mut) (K242R) M1.At $7 2 \\mathrm { { h } }$ posttransfection,the media were collected and subjected to plaque assays on MDCK cells. Data represent the mean $\\pm \\ \\mathrm { S D }$ from three independent experiments.(B)293Tcels were transfectedas described inthe legend to panelA.At48and $^ { 7 2 \\mathrm { ~ h ~ } }$ postrasfectitleloal-taepf experiments.(C) 293Tcels were transfected as described in thelegend to panelA.At 24 and $3 6 \\mathrm { h }$ posttransfection,the cells were fixed,permeabilized,and stained forM(ed)di(ue)taeepsefedepdttspsdttt (K24R)viuslotrdatt fection,the media were collected and subjected to plaque assays on MDCK cels.Data represent the mean $\\pm \\operatorname { s D }$ from three independent experiments.Statistical significance was determined byANOVA.\\*, $P < 0 . 0 5$ ; ns,no significant difference. (E)293Tcells were transfected as described in the legend to panel D.At $4 8 \\mathrm { h }$ postrasfectitleloal-taepf experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AIMP2 is incorporated into the ARS complex under physiological conditions and dissociates from the complex upon IAV infection. The released AIMP2 can be recognized and ubiquitinated by E3 ubiquitin ligases,such as Parkin,and then degraded.To prevent ubiquitin-mediated degradationofAIMP2,NS2 quickly interacts with AIMP2 to keep it away from E3 ligase.Following binding with NS2,AIMP2 recruitment prevents the K242-mediated ubiquitination and degradation of M1 by an unknown mechanism. M1 then translocates into the nucleus,where it is SUMOylated at K242.The SUMOylation of Ml may induce a conformational change or an alteration of the protein-protein interaction,an effect likely attributable to vRNP nuclear export and the following viral assembly and budding. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitination of M1 was first reported by Liu and colleagues (42),who showed that overexpression of CypA increases the ubiquitination and degradation of M1 to restrict IAV replication.A recent report by Su etal. has demonstrated that Itch,an E3 ligase, interacts with Ml and mediates the ubiquitination of Ml during the virus entry process (24). They speculate that Itch-mediated ubiquitination ofM1 facilitates the dissociation of viral RNA from Ml and the subsequent transport of vRNP to the nucleus (24).In this regard,ubiquitination of M1 during the virus entry process is beneficial to the viral life cycle.However,for the newly synthesized M1,Itch- or other E3 ligase-mediated ubiquitination and degradation of Ml are undoubtedly limiting factors for the production of progeny virus.Therefore,influenza virus develops strategies to evade recognition by host E3 ligase.Here we present evidence that the interaction between NS2 and AIMP2 prevents M1 fromubiquitin-mediated degradation.Moreover,we identifyK242 to be the major,if not the only,ubiquitin modification site ofMl.Interestingly,K242 has been shown to be the SUMO modification site on M1(21). Different from ubiquitin-mediated degradation, SUMOylation usually alters protein-protein interactions,induces a conformational change,or promotes a relocalization of the target protein within the cell (43).K242-mediated M1 SUMOylation has been suggested to control the maturation and assembly of influenza virus particles by facilitating the interaction between M1 and vRNPs (21).As both modifiers target the same lysine on M1, the negative effect of ubiquitin on Ml may result not only from the degradation of M1 but also from the occupation of the SUMO attachment site lysine residue on M1.Therefore,AIMP2-mediated inhibitionofM1ubiquitinationleads to increasedMl stability and the release of K242 for SUMO modification. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AIMP2 is primarily an integral component of the translational machinery,the ARS complex.In response to signals,such as DNA damage(27,38) or TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ stimulation (29),AIMP2 dissociates from the complex to participate in a variety of cellular processes. AIMP2 has been shown to stabilize p53 via an apparently independent mechanism in response to oxidative stress.On the one hand,AIMP2 directly interacts with p53,preventing MDM2-mediated ubiquitination and the degradation of p53 (27); on the otherhand,AIMP2 coactivates FBP to induce ubiquitin-specific peptidase 29（USP29） expression.USP29 binds to p53,cleaves polyubiquitin chains from p53,and stabilizes p53 (38).Upon IAV infection,AIMP2 dissociates from the ARS complex in order to participate in the cellular antiviral response.We present data that the released AIMP2 could be readily hijacked by NS2 to prevent M1 from ubiquitin-mediated degradation.How AIMP2 inhibits M1 ubiquitination remains unclear.It is possible that AIMP2 disturbs the interaction betweenMl and its E3 ligase or regulates the activity of E3 ligase or a deubiquitinating enzyme that acts on M1. These questions need to be further investigated. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f53fa360d5b5e16d26525796b1c8d429ef3ab4eeae96373064de2449299a86ce.jpg",
+        "img_caption": [
+            "FIG8Proposddelfiguatofuvuseliisopoaeditmpleerl conditionsFloee degradatiose withN2, atK242.Taa-eae and budding of progeny virions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Collectively,the findings from this study provide proof of principle that AIMP2 promotes IAV replication by interaction with NS2 to facilitate the switch from K242-mediated ubiquitination to SUMOylation of M1.The present work may point toward a newly identified regulatory mechanism used by IAV to ensure its life cycle. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the National Basic Research Program of China (973 Program; no.2011CB504706,no.2012CB518900, no.2012CB519003,no.2011CB504805,and no.2010CB912201),the National Natural Science Foundation of China (no.81171572),the National ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Major Scientific and Technological Special Project for Major New Drugs Innovation and Development (2014ZX09101041),and the Guangdong Innovative Research Team Program (no.20o9010058). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank WenjunLiuand Xin Ye for providing materials ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.LiuD,ShiW,Shi Y,WangD,Xiao H,LiW,BiY,WuY,LiX,YanJ, LiuW,Zhao G,YangW,WangY,MaJ,ShuY,LeiF,Gao GF.2013. Origin and diversity of novel avian influenza A H7N9 viruses causing human infection: phylogenetic,structural,and coalescent analyses.Lancet   \n381:1926-1932.http://dx.doi.0rg/10.1016/S0140-6736(13)60938-1.   \n2.Zhu Y,Qi X,CuiL,Zhou M,Wang H.2013.Human co-infection with novel avian influenza A H7N9 and influenza A H3N2 viruses in Jiangsu province, China. Lancet 381:2134. http://dx.doi.org/10.1016 /S0140-6736(13)61135-6.   \n3.World Health Organization.2oo9.New influenza A(H1N1) virus infections:global surveillance summary,May 2oo9.Wkly Epidemiol Rec 84:   \n173-179.   \n4.Wise HM,Hutchinson EC,Jagger BW,Stuart AD,Kang ZH,Robb N, Schwartzman LM,Kash JC,FodorE,Firth AE,Gog JR,Taubenberger JK,DigardP.20l2.Identification of a novel splice variant form of the influenza A virus M2 ion channel with an antigenically distinct ectodomain.PLoS Pathog 8:e1002998.http://dx.doi.org/10.1371/journal.ppat .1002998.   \n5.Jagger BW,Wise HM,Kash JC,Walters KA,Wills NM,Xiao YL, Dunfee RL,Schwartzman LM,Ozinsky A,Bell GL,Dalton RM,Lo A, Efstathiou S,Atkins JF,FirthAE,Taubenberger JK,DigardP.2012.An overlapping protein-coding region in influenza A virus segment 3 modulates the host response. Science 337:199-204. http://dx.doi.org/10.1126 /science.1222213.   \n6.Muramoto Y,Noda T,Kawakami E,Akkina $\\mathbf { R } ,$ Kawaoka Y. 2013. Identification of novel influenza A virus proteins translated from PA mRNA.JVirol 87:2455-2462.http://dx.doi.org/10.1128/JVI.02656-12.   \n7.ChenW,Calvo PA,MalideD,GibbsJ,SchubertU,BacikI,Basta S, O'NeillR,SchickliJ,Palese P,Henklein P,Bennink JR,Yewdell JW. 2001.A novel influenza A virus mitochondrial protein that induces cell death. Nat Med 7:1306-1312. http://dx.doi.0rg/10.1038/nm1201-1306. 8.Wise HM, Foeglein A,Sun J, Dalton RM,Patel S,Howard W,Anderson EC,Barclay Ws,Digard P.20o9.A complicated message: identification of a novel PBl-related protein translated from influenza A virus segment 2 mRNA.J Virol 83:8021-8031. http://dx.doi.0rg/10.1128/JV1.00826-09. 9.Vasin AV, Temkina OA,Egorov VV,Klotchenko SA,Plotnikova MA, Kiselev OI.2014.Molecular mechanisms enhancing the proteome of influenza A viruses: an overview of recently discovered proteins.Virus Res 185:53-63. http://dx.doi.org/10.1016/j.virusres.2014.03.015.   \n10.Stegmann T,White JM,Helenius A.1990. Intermediates in influenza induced membrane fusion.EMBO J9:4231-4241.   \n11.Martin K,Helenius A.1991. Nuclear transport of influenza virus ribonucleoproteins: the viral matrix protein (M1) promotes export and inhibits import. Cell 67:117-130. http://dx.doi.0rg/10.1016/0092-8674(91) 90576-K.   \n12.Shimizu T, Takizawa N,Watanabe K, Nagata K, Kobayashi N. 2011. Crucial role of the influenza virus NS2 (NEP) C-terminal domain in M1 binding and nuclear export of vRNP. FEBS Lett 585:41-46. http://dx.doi .org/10.1016/j.febslet.2010.11.017.   \n13.Akarsu H, Burmeister WP,Petosa C,Petit I, Muller CW,Ruigrok RW, Baudin F.20o3.Crystal structure of the M1 protein-binding domain of the influenza A virus nuclear export protein (NEP/NS2). EMBO J 22: 4646-4655. http://dx.doi.org/10.1093/emboj/cdg449.   \n14.Manz B, Brunotte L,Reuther P,Schwemmle M.2012.Adaptive mutations in NEP compensate for defective H5N1 RNA replication in cultured human cells. Nat Commun 3:802.http://dx.doi.org/10.1038/ncomms1804.   \n15.Gorai T,Goto H,Noda T,Watanabe T,Kozuka-Hata H, Oyama M, Takano R,Neumann G,Watanabe S,Kawaoka Y. 2012. $\\mathrm { F _ { 1 } F _ { o } }$ -ATPase, F-type proton-translocating ATPase,at the plasma membrane is critical for efficient influenza virus budding.Proc Natl Acad Sci U S A109:4615- 4620. http://dx.doi.org/10.1073/pnas.1114728109.   \n16.Bui M,Wils EG,Helenius A,Whittaker GR.20oo.Role of the influenza virus Ml protein in nuclear export of viral ribonucleoproteins.J Virol 74:1781-1786. http://dx.doi.org/10.1128/JV1.74.4.1781-1786.2000.   \n17. Sha B,Luo M.1997.Structure of a bifunctional membrane-RNA binding protein,influenza virus matrix protein M1.Nat Struct Biol 4:239-244. http://dx.doi.org/10.1038/nsb0397-239.   \n18.Baudin F,Petit I,Weissenhorn W,Ruigrok RW.20o1.In vitro disection of the membrane and RNP binding activities of influenza virus M1 protein. Virology 281:102-108.http://dx.doi.0rg/10.1006/viro.2000.0804.   \n19.Ye ZP,Pal R,Fox JW,Wagner RR.1987.Functional and antigenic domains of the matrix (M1) protein of influenza A virus.JVirol 61:239-246.   \n20.Burleigh LM,Calder LJ,Skehel JI,Steinhauer DA.2O05.Influenza A viruses with mutations in the M1 helix six domain display a wide variety of morphological phenotypes.J Virol 79:1262-1270. htp://dx.doi.0rg/10 .1128/JVI.79.2.1262-1270.2005.   \n21.Wu CY,Jeng KS,Lai MM.2011.The SUMOylation of matrix protein M1 modulates the assembly and morphogenesis of influenza A virus. J Virol 85:6618-6628. http://dx.doi.0rg/10.1128/JV1.02401-10.   \n22. Calder LJ,Wasilewski S,Berriman JA,Rosenthal PB.20l0. Structural organization of a filamentous influenza A virus.Proc Natl Acad Sci U S A 107:10685-10690.http://dx.doi.org/10.1073/pnas.1002123107.   \n23.Wang S,Zhao Z,Bi Y,Sun L,Liu X,Liu W.2013. Tyrosine 132 phosphorylation of influenza A virus Ml protein is crucial for virus replication by controlling the nuclear import of M1.J Virol 87:6182-6191. http://dx.doi.org/10.1128/JV1.03024-12.   \n24. Su WC,Chen YC,Tseng CH,Hsu PW,Tung KF,Jeng KS,Lai MM. 2013.Pooled RNAi screen identifies ubiquitin ligase Itch as crucial for influenza A virus release from the endosome during virus entry.Proc Natl Acad Sci U S A 110:17516-17521. http://dx.doi.0rg/10.1073/pnas .1312374110.   \n25.Nechushtan H, Kim S,KayG,Razin E.209.Chapter 1: the physiological role of lysyl tRNA synthetase in the immune system.Adv Immunol 103:1-27. http://dx.doi.0rg/10.1016/S0065-2776(09)03001-6.   \n26.Ofir-Birin Y,Fang P,Bennett SP,Zhang HM,Wang J,Rachmin I, Shapiro R,Song J,Dagan A,Pozo J, Kim S,Marshall AG, Schimmel P, Yang XL,Nechushtan H, Razin E,Guo M. 2013. Structural switch of lysyl-tRNA synthetase between translation and transcription.Mol Cell 49:30-42. http://dx.doi.org/10.1016/j.molcel.2012.10.010. nnun Chang SH,Cho MH,Kim S.2008.AIMP2/p38,the scaffold for the multi-tRNA synthetase complex,responds to genotoxic stresses via p53. Proc Natl Acad Sci US A 105:11206-11211. htp://dx.doi.org/10 .1073/pnas.0800297105.   \n28.Kim MJ,Park BJ,Kang YS,Kim HJ,Park JH,Kang JW,Lee SW,Han JM,Lee HW,Kim S.2003.Downregulation of FUSE-binding protein and C-myc by tRNA synthetase cofactor p38 is required for lung celldifferentiation. Nat Genet 34:330-336.http://dx.doi.org/10.1038/ng1182.   \n29.Choi JW,Kim DG,Park MC,Um JY,Han JM,Park SG,Choi EC,Kim S. 2009. AIMP2 promotes TNFalpha-dependent apoptosis via ubiquitinmediated degradationof TRAF2.J Cell Sci122:2710-2715.http://dx.doi .org/10.1242/jcs.049767.   \n30.Ko HS,Leen JH,appgoer,GdadB,KolkeJ Pletnikova O,Troncoso JC,Dawson VL,Dawson TM.201o.Phosphorylation by the c-Abl protein tyrosine kinase inhibits Parkin's ubiquitination and protective function.Proc Natl Acad Sci U S A 107:l6691-16696. http://dx.doi.org/10.1073/pnas.1006083107.   \n31.Lee Y,Karuppagounder SS,Shin JH,Lee YI, KoHS,Swing D, Jiang H, Kang SU,Lee BD,Kang HC,KimD,Tessarollo L,Dawson VL,Dawson TM.2013.Parthanatos mediates AIMP2-activated age-dependent dopaminergic neuronal loss Nat Neurosci 16:1392-1400. http://dx.doi.org/10 .1038/nn.3500.   \n32.Neumann G,Watanabe T,Ito H,Watanabe S,Goto H, Gao P,Hughes M,Perez DR,Donis R,Hoffmann E,Hobom G,Kawaoka Y.1999. Generation of influenza A viruses entirely from clonedcDNAs.Proc Natl Acad SciUSA96:9345-9350.http://dx.doi.0rg/10.1073/pnas.96.16.9345.   \n33. Song L, Liu H, Gao S, Jiang W, Huang W. 2010. Cellular microRNAs inhibit replication of the H1N1 influenza A virus in infected cells.J Virol 84:8849-8860. http://dx.doi.org/10.1128/JV1.00456-10.   \n34.Wang S,Chi X,Wei H, Chen Y,Chen Z,Huang S,Chen JL.2014. Influenza A virus-induced degradation of eukaryotic translation initiation factor 4B contributes to viral replication by suppressing IFITM3 protein expression. J Virol 88:8375-8385. http://dx.doi.org/10.1128 /JVI.00126-14.   \n35.Han JM,Lee MJ,Park SG,Lee SH,Razin E,Choi EC,Kim S.2006. Hierarchical network between the components of the multi-tRNA synthetase complex: implications for complex formation.J Biol Chem 281: 38663-38667. http://dx.doi.org/10.1074/jbc.M605211200.   \n36.Zhang J,Li G,Ye X.2010.Cyclin T1/CDK9 interacts with influenza A virus polymerase and facilitates its association with cellular RNA polymerase II.JVirol 84:12619-12627. http://dx.doi.0rg/10.1128/JVI.01696-10.   \n37.Paterson D,Fodor E.20l2.Emerging roles for the influenza A virus nuclear export protein (NEP).PLoS Pathog 8:e1003019. http://dx.doi.org /10.1371/journal.ppat.1003019.   \n38.Liu J,Chung HJ,Vogt M, Jin Y,Malide D,He L,Dundr M, Levens D. 2011.JTV1 co-activates FBP to induce USP29 transcription and stabilize p53 in response to oxidative stress EMBOJ30:846-858.htp://dx.doi.org /10.1038/emboj.2011.11.   \n39.Ko HS,von Coelln R,Sriram SR,Kim SW,Chung KK,Pletnikova O, Troncoso J, Johnson B, Saffary R,Goh EL, Song H,Park BJ,Kim MJ, Kim S,Dawson VL,Dawson TM.20o5.Accumulation of the authentic Parkin substrate aminoacyl-tRNA synthetase cofactor,p38/JTV-1, leads to catecholaminergic cell death. JNeurosci 25:7968-7978. http://dx.doi .0rg/10.1523/JNEUROSC1.2172-05.2005.   \n40.Demirov D,Gabriel G,Schneider C,Hohenberg H,Ludwig S.2012. Interaction ofinfluenza A virus matrix protein with RACK1 is required for virus release.Cell Microbiol14:774-789.http://dx.doi.org/10.1111/j.1462 -5822.2012.01759.x.   \n41.Neumann G,Hughes MT,Kawaoka Y.2Ooo.Influenza A virus NS2 protein mediates vRNP nuclear export through NES-independent interaction with hCRM1. EMBO J19:6751-6758.http://dx.doi.0rg/10.1093 /emboj/19.24.6751.   \n42. Liu X,Sun L,Yu M, Wang Z, Xu C, XueQ, Zhang K, Ye X, Kitamura Y,Liu W.2oo9.Cyclophilin A interacts with influenza A virus Ml protein and impairs the early stage of the viral replication.Cell Microbiol 11:730- 741. http://dx.doi.0rg/10.1111/j.1462-5822.2009.01286.x.   \n43.Everett RD,BoutellC,Hale BG.2013.Interplay between viruses and host sumoylation pathways.Nat Rev 11:400-411. http://dx.doi.org/10.1038 /nrmicro3015. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

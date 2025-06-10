@@ -1,0 +1,625 @@
+[
+    {
+        "type": "text",
+        "text": "BDSBAS时间基准互操作方法研究与性能测试",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘成1，陈颖1，熊帅²，邵搏²，张键²，王威1（1.北京跟踪与通信技术研究所，北京100094；2.中国电子科技集团公司第二十研究所，西安 710068）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：卫星导航星基增强系统（SBAS）由不同国家建设，所增强卫星星座和参考时间系统不尽相同，因此 SBAS 时间基准之间的兼容互操作一直是国际民航组织（ICAO）SBAS 标准研究中的重要技术问题。本文介绍了SBAS网络时间（SNT）概念和研究现状，结合ICAOSBAS标准与建议措施（SAPRs）制定，对SNT兼容互操作问题进行了分析和研究，并给出了目前最新的联合解决方案。在此基础上，对北斗星基增强系统（BDSBAS）地面状态进行了升级，并开展了服务性能初步测试。结果表明，BDSBAS 单频（SF）SNT 和双频多星座（DFMC）SNT与参考GNSS时间基准之间的最大偏差分别为37ns、 $0 . 1 7 ~ \\mu \\mathrm { s }$ ，满足ICAO标准要求；服务性能基本符合APV-I等级要求，证明了BDSBAS时间基准互操作的可行性和可靠性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：北斗；全球导航卫星系统；星基增强；双频多星座；星基增强网络时",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：V19 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金（42074044)；中国科协青年人才托举工程（2019QNRC001)；  \n陕西省创新能力支撑计划项目（2021TD-03)；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research and Performance Assessment of BDSBAS Time System Interoperability ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Cheng1,SHAO Bo², ZHANG Jian², CHEN Ying1, WANG Wei1 (1.Beijing Institute of Tracking and Telecommunication Technology,Beijing 10o094; 2.The 2Oth Research Institute of China Electronics Technology Group Corporation,Xi'an 710068) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Since each SBAS is constructed by different countries， the augmented GNSS constellation and the reference time are not the same,the compatibility and interoperability between SBAS time systems has been one of the important issues in the SBAS standard research of the International Civil Aviation Organization (ICAO). The contribution introduces the concept and research status of the SBAS network time (SNT),combined with the formulation of ICAO SBAS Standards and Recommended Practices (SAPRs), analyzes and studies SNT compatibility and interoperability issues,and presents the latest joint solution. On this basis, the ground state of the BeiDou Satellite-Based Augmentation System (BDSBAS） was upgraded, and preliminary service performance assessment was carried out. The results show that the maximum deviations between the BDSBAS single-frequency (SF) SNT and dual-frequency multi-constelltion (DFMC) SNT and the reference GNSS time reference are 37 ns and $0 . 1 7 ~ \\mu \\mathrm { s } .$ ,respectively, which meet the ICAO standards. The service performance basically conforms to the APV-I level requirements, which proves the feasibility and reliability of the interoperability of BDSBAS SNT. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keyword: BeiDou; global navigation satellite system (GNSS)； satellite-based augmentation system (SBAS); dual-frequency multi-constellation (DFMC); SBAS network time (SNT) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Foundation support: The National Natural Science Foundation of China (No. 42074044); Innovation Capability Support Program ofShaanxi Province(2O21TD-03)； Industrial Development Fund Project of CETC (20201121) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，世界上已完成建设和正在开展建设的星基增强系统（Satellite-Based AugmentationSystem,SBAS）主要包括美国广域增强系统（Wide Area Augmentation System,WAAS）[1-3]、欧盟欧洲地球同步导航重叠系统（European Geostationary Navigation Overlay System,EGNOS）[4-5]、日本多功能星基增强系统（MTSAT Satellte-based Augmentation System,MSAS）[6-7]、印度 GPS 辅助型地球同步轨道增强系统（GPS-Aided GEO Augmented Navigation System,GAGAN)[8-9]、俄罗斯差分改正与监测系统（System of Differential Correction and Monitoring,SDCM）[l0-1l、韩国星基增强系统（Korea Augmentation Satelite System, KASS）[2、非洲及印度洋星基增强系统（SBAS for Africa and Indian Ocean,A-SBAS）[13-14]、澳大利亚/新西兰南部定位增强网（Southern Positioning Augmentation Network,SouthPAN）[15]以及我国北斗星基增强系统（BeiDou Satelite-Based Augmentation System,BDSBAS）等[16-19]，国际各国SBAS分布如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/98af5011d814b3194199e7c32e57cde7259ac8a6ceb466864cb6102a4e0bf15d.jpg",
+        "img_caption": [
+            "图1国际各国SBAS分布示意图",
+            "Fig.1Distribution of the SBASs in the world "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于各 SBAS 由不同国家进行建设，所增强的全球导航卫星系统（Global NavigationSatelite System,GNSS）星座也不尽相同，因此如何顺利实现各 SBAS之间的兼容与互操作成为重大挑战。为此，国际民航组织（International Civil Aviation Organization,ICAO）下设成立了星基增强互操作工作组(InteroperabilityWorking Group,IWG),专门负责联合各 SBAS服务供应商，共同开展 SBAS 国际标准的研究和制定工作。2012年，IWG已顺利完成单频（Single Frequency, SF)SBAS 标准与建议措施(Standards and Recommended Practices,SARPs）的制定工作，并提交ICAO 审核颁布。2015 年起，IWG 启动了双频多星座（Dual-FrequencyMulti-Constellation,DFMC）SBAS SARPs 草案的联合研究和制定工作，我国 BDSBAS 也从这一时期开始正式参与[20]。相比SF SBAS，DFMC SBAS 将利用双频伪距测量值组合消除电离层误差，进一步提升定位精度和完好性；由于不再需要播发格网电离层改正数，因此DFMC SBAS 可以实现对四个GNSS核心星座（BDS、GPS、GLONASS、GALILEO）的增强；同时，DFMC SBAS 还将实现更快的完好性告警时间（从10s 提升至6s）[21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 SBAS SARPs研究中，不同 SBAS 之间的时间基准互操作是主要技术问题之一。一方面,为了实现对GNSS的独立观测和完好性监测，SBAS需要建立和维持一套独立的时间，称为 SBAS 网络时（SBAS Network Time,SNT)，它们之间本身即存在着差异；另一方面，各 SBAS 所选择增强的GNSS 星座也不尽相同，其改正数的时间基准问题也应该予以研究和明确。在 SF SARPs 制定过程中，由于当时仅存在GPS、GLONASS 两个GNSS 星座，SF",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SBAS 的增强电文仅能够对GPS或GLONASS 进行增强（因为电离层格网信息的播发占用了大量字节资源)，因此 SFSBAS的时间基准互操作问题相对而言较为容易解决。然而，在DFMCSARPs制定过程中，世界卫星导航格局已发生显著变化——随着北斗三号全球定位系统（BDS-3）的建成和GALILEO的加速建设，GNSS核心星座已扩展为四个；同时，SBAS的数量也进一步增加。这些发展和变化，都为SBAS时间基准的互操作带来了新的挑战。2020年11月，DFMC SBAS SARPs 草案已通过 ICAO NSP/6会议审议，并向ICAO 航委会（AirNavigation Commission,ANC）提交审核，DFMC SBAS SARPs 草案明确了包括 SBAS 时间基准互操作在内的各项技术内容[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文从 SBAS 国际标准出发，介绍了SNT 的基本概念和互操作现状。重点结合ICAOSBAS SAPRs草案的制定进展，对 SNT的兼容互操作问题进行了分析和研究，并给出了目前的最新解决方案。在此基础上，根据 SBAS 互操作时间基准的国际标准最新要求，对BDSBAS工程和软件状态进行了升级，并给出了升级后的实测性能结果。相关内容能够为当前正在研制的BDSBAS 接收机，特别是支持最新DFMC 服务模式的BDSBAS 接收机提供有益参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 SBAS相关时间基准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用 SBAS 进行增强定位时涉及到两套时间基准系统—一GNSS 时间和 SBAS 时间。本节分别对GNSS时间和SBAS时间进行介绍和分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 GNSS时间",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 GPS系统时",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GPS 系统时（GPS Time,GPST)通过安装在地面的原子钟与卫星原子钟共同维持。GPST的起始历元为协调时的1980年1月6日（星期日）零时刻，自该时刻起，GPST周而复始地计数。GPST落后国际原子钟 $1 9 \\mathrm { ~ s ~ }$ ，美国海军天文台（The United States Naval Observatory,USNO）定期将其所维持的协调时与GPST比较，并控制GPST，使之与国际原子时（TempsAtomique International, TAI）保持同步[23-25]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T A I } = \\mathrm { G P S T } + 1 9 s\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GPST与协调时之间整数秒的差异随着协调时的跳秒不断变化，当前GPST与协调时之间的整数秒差增至 $1 8 ~ \\mathrm { s } ^ { [ 2 5 ] }$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { G P S T } } \\approx { \\mathrm { U T C } } + 1 8 s\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了整秒差异外，GPST与协调时之间存在着小于 $1 ~ \\mu \\mathrm { s }$ 的秒内偏差，通常该偏差被控制在几百纳秒之内，甚至通常小于 20 ns（1σ）[26]。GPST可用GPS周（WN）和GPS 周内秒（SOW）表示，周内秒最小值为0，最大值不超过 $6 0 4 8 0 0 \\mathrm { s }$ ，在每星期六午夜零时从0开始逐渐增大，经过一周（即604800s）后又返回至0，同时星期数（WN）增加1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 北斗系统时",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "北斗系统时（BeiDou Time,BDT）与GPST一样采用原子时，以国际单位制（SI）秒为基本单位连续累计，起始历元为2006年1月1日协调世界时（UTC)00时00分00秒。BDT通过UTC（NTSC）与国际UTC建立联系，BDT与国际UTC的偏差保持在50纳秒以内（模1 s)，且无需闰秒[27]。但由于BDT与UTC 保持在一定的公差范围以内，而UTC 存在闰秒问题，因此 BDT与GPST均存在与UTC 之间的跳秒改正（通过广播电文播发)。并且，由于在2006年1月1日00时00分00秒BDT起算之前，GPST已与UTC之间存在14s的跳秒改正，因此BDT与GPST 除了相差的1356周外，还始终保持一个14s的系统差[28]。即两者之间存在如下关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中给出了目前BDT与GPST的实测结果，证明了BDT与GPST之间所保持的稳定的14s时差（周内秒）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6bc8d2ad76cc5f90b924bf6f6f07ac4a022d2e5fdbe445778f5042b3c8e7b93.jpg",
+        "img_caption": [
+            "图2BDT与GPST的周内秒时差",
+            "Fig.2The time of week(TOW) difference of BDT and GPST "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 Galileo系统时",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Galileo 系统时（Galileo System Time,GST）是一个连续时间尺度，溯源到国际原子时TAI，与TAI相差整数秒，不实施闰秒，保持偏差小于 $5 0 ~ \\mathrm { n s }$ 。GST的起始历元定义在1999年8月22日协调时（UTC）00时00分00秒的基础上超前 $1 3 \\mathrm { ~ s ~ }$ ，与GPST 保持一致[29]。到目前为止超前UTC $1 8 \\mathrm { ~ s ~ }$ ，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G S T } = \\mathrm { U T C } + 1 8 \\ : s\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 GLONASS系统时",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GLONASS 时间（GLONASSTime,GLONASST）采用莫斯科时间为标准，以俄罗斯维持的UTC(SU)作为时间度量的标准。与上述几类GNSS 时间系统不同，GLONASST 与UTC(SU)具有相同的闰秒，因此不存在整秒差异。但它们之间存在3小时的整数偏移，且相差一个微小偏差（ $1 \\mathrm { m s }$ 以内)，其相互关系为[-30-31].",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G L O N A S S T } \\approx \\mathrm { U T C ( S U ) } + 3 \\mathrm { h }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 SBAS时间",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据ICAO标准要求，各 SBAS 需要维持和使用一套自身的时间基准，称为SBAS 网络时（SBAS Network Time,SNT）。SNT定义为在满足SBAS总体性能要求的前提下，SBAS利用自身地面监测站所维持的GNSS 系统时间。本质上，这是 SBAS 出于独立观测和监视GNSS 完好性的需要。当使用 SBAS改正数时，用户定位将是在 SNT下进行的，而非GNSS系统时（GNSS Time,GNSST)。然而，由于 SF SBAS与DFMC SBAS的 SARPs 制定时间相差了数年，期间世界卫星导航格局发生了重大变化，因此这两类 SBAS 服务的时间基准要求也不相同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 SF SBAS时间基准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ICAO SARPs中关于SFSBAS的标准内容早在2012年即已完成制定，且目前ICAO暂时没有重新启动修订更新的计划。由于当时全球只有GPS和GLONASS两个GNSS系统，因此 SF SBAS可选增强对象目前暂时只能是GPS 或GLONASS（二选一），可选 SNT基准为GPST。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但根据 ICAO SARPs 附件10第I卷中的要求，SF SBAS 的 SNT只能以GPST为基准，且两者之间的差异需保持在 $5 0 \\mathrm { n s }$ 以内[30]，即：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\mathrm { S N T } _ { \\mathrm { S F } } - \\mathrm { G P S T } | \\leq 5 0 \\mathrm { n s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 DFMCSBAS时间基准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2015年，ICAO开始组织各SBAS服务供应商，启动和开展DFMCSBAS标准的制定工作。由于中国和欧洲均开始建设自己的GNSS（BDS-3和Galileo)，GNSS核心星座从2个增加为4个，因此在完成相关技术内容的论证和确认后，DFMC SBAS 的可选增强对象也被扩展成4个（GPS/GLONASS/BDS/Galileo)，相应地，在DFMC SBAS SARPs文件中，DFMCSBAS 的 SNT 也被调整为可从四大核心GNSS 的系统时间中进行选择（可选 SNT 基准为GPST/GLONASST/BDT/GST)。两者之间的差异需保持在 $1 ~ \\mu \\mathrm { s }$ 以内[22]，即：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lvert S \\mathrm { N T } _ { \\mathrm { D F M C } } - \\mathrm { G N S S T } \\rvert \\leq 1 \\mu s\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DFMC SBAS SNT基准信息通过DFMC SBAS 电文类型（Message Type,MT）37中的时间参考标识（Time Reference ID）字段参数进行播发（GPS标识号：0；GLONASS标识号：1；Galileo 标识号：2；BDS 标识号：3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3SBAS时间互操作方法与策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 SFSNT互操作方法与策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在 SF 服务模式下，由于只有俄罗斯 SDCM选择增强本国的GLONASS、而其他 SBAS均选择增强 GPS，因此对于 SDCM以外的其他 SBAS 而言，ICAO 所制定的这一时间同步要求是适用的——SBAS播发GPST下的GPS卫星改正数，用户同时接收GPS广播星历和SBAS改正数进行解算，获得自身在GPST下的定位结果，无需额外操作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而，对于 SDCM而言情况更为复杂。因为 SDCM虽然播发GLONASS卫星改正数，但它的时间基准却是相对于GPST的。这意味着，用户需要额外做一次时间转换，将GLONASS卫星改正数从GPST换算至GLONASST下，才能与GLONASS卫星的广播星历配合，共同完成对GLONASS的增强定位。这可以通过以下两种途径实现：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a）接收GLONASS广播星历、计算得到GLONASST 相对于UTC 的时差，同时接收GPS 广播星历、计算得到GPST相对于UTC的时差，进而计算得到GLONASST 与GPST之间的时差;  \nb）在GLONASS广播星历中播发GLONASST与GPST之间的时差参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2DFMCSNT互操作方法与策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在 DFMC 模式下，SBAS 可选择增强GNSS 星座数量增加为4个，SNT 基准也可以由各 SBAS 供应商自行选择。在2017年制定形成的DFMC SBAS SARPs草案中，各 SBAS 供应商已明确了各自的选择对象，见表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/335d62bb7ce466c644aea401fb0f977d343f793a1877311e9e2b6288c0adae23.jpg",
+        "table_caption": [
+            "表1SBAS供应商所选择的DFMC增强对象和SNT基准",
+            "Table 1DFMC augmented constellations and SNT references of each SBAS provider "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SBAS</td><td>DFMCSBAS增强对象</td><td>SNT参考基准</td></tr><tr><td>WAAS</td><td>GPS、Galileo</td><td>GPST</td></tr><tr><td>EGNOS</td><td>Galileo、GPS</td><td>GST</td></tr><tr><td>MSAS</td><td>GPS</td><td>GPST</td></tr><tr><td>GAGAN</td><td>GPS、Galileo</td><td>GPST</td></tr><tr><td>KASS</td><td>GPS、Galileo</td><td>GPST</td></tr><tr><td>SDCM</td><td>GLONASS、GPS</td><td>GLONASST</td></tr><tr><td>BDSBAS</td><td>BDS、GPS</td><td>BDT</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1中，“DFMC SBAS 增强对象”指的是该 SBAS 播发改正数的GNSS 星座。至于航空机载接收机在该 SBAS 服务区域内究竟使用其中哪个GNSS 星座及其增强改正数进行导航，由航空机载接收机设备厂商和各国民用航空主管部门确定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于DFMC SBAS 对多个GNSS 星座进行增强，涉及到更多的时间基准系统，因此 SNT的互操作实现比 SF SBAS 更为复杂。根据 DFMC SBAS 原理,当用户使用电文类型(MessageType，MT）32中的被增强GNSS卫星改正数进行定位解算时，对GNSS卫星钟差的改正值",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\delta \\Delta t _ { _ { S V } }$ 如式(8)所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\Delta t _ { _ { S V } } = \\frac { \\delta B + \\delta B ^ { 8 } \\times \\left( t - t _ { _ D } \\right) } { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\delta B$ 为卫星时钟偏差改正数， $\\delta$ B为卫星时钟偏差变化率改正数， $\\scriptstyle { \\mathbf { \\alpha } } _ { c }$ 为光速， $\\mathbf { \\Phi } _ { t }$ 为该卫星在所在GNSS 星座时间系统下的测量时刻（由GNSS广播电文得到)， $t _ { { } _ { D } }$ 为该改正数在所在SNT时间系统下的参考时刻（由SBAS增强电文得到)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对 GNSS 卫星轨道的改正值 $\\begin{array} { r } { \\left[ \\delta x ( t ) \\delta y ( t ) \\delta z ( t ) \\right] ^ { \\mathrm { T } } } \\end{array}$ 如式(9)所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left[ \\delta \\boldsymbol { x } ( t ) \\right] = \\left[ \\delta \\boldsymbol { x } \\right] + \\left[ \\delta \\delta \\boldsymbol { \\mathbf { \\overline { { z } } } } \\right] \\delta \\boldsymbol { \\mathbf { \\overline { { \\delta } } } } ( t ) } \\\\ { \\delta \\boldsymbol { y } ( t ) = \\left[ \\delta \\boldsymbol { y } \\right] + \\left[ \\delta \\delta \\boldsymbol { \\mathbf { \\overline { { z } } } } \\right] \\times \\left( t - t _ { D } \\right) } \\\\ { \\delta \\boldsymbol { z } ( t ) \\rfloor } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\left[ \\delta x \\quad \\delta y \\quad \\delta z \\right] ^ { \\mathrm { T } }$ 为卫星轨道偏差改正数；[δ& $\\delta$ & $\\delta$ 母为卫星轨道偏差变化率改正数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 DFMC SBAS SNT以某一GNSS 时间系统为基准——例如以BDT为基准时，时间参考标识为3（见表3)，表明 DFMC SBAS SNT以BDT为基准，式(1)和式(2)中的 $t _ { { } _ { D } }$ 将为BDT下的时间。此时，若用户仅使用 BDS 进行增强定位，不存在问题；但如果用户同时使用GPS或其他GNSS 进行增强定位，则需要将式(1)和式(2)中t从其所在GNSS 星座时间系统转换至BDT之下，否则会将不同GNSS时间系统之间的差异引入定位解算中。具体地，当用户使用GPS卫星进行增强定位时，由于GPST与BDT之间相差固定的 $1 4 \\mathrm { ~ s ~ }$ ，因此对于GPS卫星的钟差改正值 $\\delta \\Delta t _ { S V } ^ { G P S }$ 有：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta \\Delta t _ { S V } ^ { G P S } = \\frac { \\delta B + \\delta B ^ { \\& } \\times \\left( t - 1 4 - t _ { D } \\right) } { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于 GPS 卫星的轨道改正值 $\\begin{array} { r l r } { [ \\delta x ^ { G P S } ( t )  } & { { } \\delta y ^ { G P S } ( t ) } & { \\delta z ^ { G P S } ( t ) ] ^ { \\mathrm { T } } } \\end{array}$ 有：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l } { \\delta x ^ { G P S } \\left( t \\right) } \\\\ { \\delta y ^ { G P S } \\left( t \\right) } \\\\ { \\delta z ^ { G P S } \\left( t \\right) } \\end{array} \\right] = \\left[ \\begin{array} { l } { \\delta x } \\\\ { \\delta y } \\\\ { \\delta z } \\end{array} \\right] + \\left[ \\begin{array} { l } { \\delta \\delta \\vec { \\mathbf { z } } } \\\\ { \\delta \\mathfrak { z } } \\\\ { \\delta \\mathfrak { z } } \\end{array} \\right] \\times \\left( t - 1 4 - t _ { o } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于GPST、BDT与GST之间的整秒差异是固定的，因此很容易通过上述方式完成转换处理。但对于GLONASS 而言，由于GLONASST与其他GNSST之间整秒差异不是固定的，而存在一个随时间变化的闰秒（这是由于GLONASST随UTC进行闰秒而其他GNSST不随 UTC 进行闰秒所导致的)，因此无法通过在接收机中进行预设的方式解决。相比其他GNSS，用户必须接收GLONASS广播电文的闰秒信息，才能完成GLONASS与其他GNSS的DFMC 模式兼容定位。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从SBAS互操作层面，这意味着所有DFMCSBAS接收机必须增强GLONASS，否则就无法使用 SDCM播发的改正数信息。这并不符合DFMC SBAS 服务的设计和开发目。因此，在2020 年11月召开的 ICAO NSP/6会议上,DS2工作组给出了DFMC SBAS SNT与被增强星基参考时间之间的转换关系[22]，以实现DFMC SBAS 的GNSS 时间兼容问题，见表2所",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/940de1e8ed04fc167444c3a2d84a6499fdfbccec7c6d85fa0c5a4e193eaa4ca1.jpg",
+        "table_caption": [
+            "表2DFMCSBASSNT与被增强星座参考时间之间的转换关系 Table 2Conversion relationship between the DFMC SBAS SNT and the reference time of the augmented constellation "
+        ],
+        "table_footnote": [
+            "注： $\\Delta t _ { L S }$ 为 BDS、GPS、GALILEO 与GLONASS 参考时间的闰秒差，利用GNSS 导航电文信息进行解算"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">MT37中的时间 参考标识</td><td>0 (GPS)</td><td>1 (GLONASS)</td><td>2 (GALILEO)</td><td>3 (BDS)</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\">GPS</td><td rowspan=\"3\">t(SNT=0)= t(GPST)</td><td>t(SNT=1)</td><td>t(SNT=2) = t(GPST)</td><td>t(SNT=3)</td></tr><tr><td>= t(GPST) - △tLs + 10800 s</td><td></td><td>= t(GPST) - 14 s</td></tr><tr><td>t(SNT=1)</td><td>t(SNT=2)</td><td>t(SNT=3)</td></tr><tr><td>增</td><td rowspan=\"3\">GLONASS</td><td>=t(GLONASST)</td><td>= t(GLONASST)</td><td>= t(GLONASST)</td><td>= t(GLONASST)</td></tr><tr><td>强</td><td>+ △tLs -10800 s</td><td>t(SNT=1)</td><td>+ △tLs -10800 s</td><td>+ △tLs -10800 s</td></tr><tr><td>星 座</td><td>t(SNT=0) = t(GST)</td><td>= t(GsT) - △tLs</td><td>t(SNT=2) = t(GST)</td><td>t(SNT=3) = t(GST) - 14 s</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\">BDS</td><td>=(7) 14 </td><td>+ 10800 s t(SNT=1)</td><td></td><td></td></tr><tr><td></td><td>= t(BDT)- △tLs + 10800 s</td><td>= (7 + 14s</td><td>t(SNT=3） =t(BDT)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4测试与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "前期，BDSBAS已根据SFSBAS国际标准中的时间基准要求开展建设，相关服务性能满足ICAO 标准要求。针对DFMC SBAS 国际标准中的这一最新技术要求和动态，BDSBAS对地面段监测处理能力与流程进行了升级，以确保DFMC模式下的GNSS改正数是相对于各自GNSST下的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 BDSBAS时间基准测试",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2021年5月8日至6月21日，在BDSBAS数据处理中心（西安）和北斗系统主控站（北京)架设共视接收机，进行了连续45天的观测。通过卫星共视时间传递方法，对BDSBASSF SNT、DFMC SNT与相应GNSS时间基准之间的偏差进行了计算和评估。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 SF 时间基准测试",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对于 SF SBAS SNT 而言，目前 SF SBAS SARPs 国际标准中要求选择 GPST 或者GLONASST作为基准。因此，BDSBASSFSNT采用在BDT基础上增加 $1 4 \\mathrm { ~ s ~ }$ 整秒时间的方式，以实现与GPST同步的目的，从而满足ICAO当前标准要求。通过卫星共视时间传递方法计算得到了BDSBAS SF SNT与GPST之间的时间偏差，结果如图3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/47028d43b9caa3bce151436651e23fd7f75a66634803c5113886350e4f4adb55.jpg",
+        "img_caption": [
+            "图3BDSBAS SF SNT与GPST之间的偏差 Fig.3Difference between BDSBAS SF SNT and GPST "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图3结果可知，BDSBASSFSNT与GPST之间的最大偏差为 $3 7 ~ \\mathrm { n s }$ ，满足SF SBASSARPs中的 $5 0 \\mathrm { n s }$ 指标要求。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.2 DFMC时间基准测试 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于DFMC SBASSNT而言，DFMC SBASSARPs标准允许其从四大核心GNSS的系统时间中自行选择。因此，BDSBASDFMC SNT选择以BDT为基准、与BDT之间进行同步。通过卫星共视时间传递方法计算得到了BDSBASDFMCSNT与BDT之间的时间偏差，结果如图4所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7433721fd031f625ce77d0c2b9e95ada3e602735790a263449c51eb99c6185d.jpg",
+        "img_caption": [
+            "图4BDSBASDFMC SNT与BDST之间的偏差 Fig.4Difference between BDSBAS SF SNT and GPST 图4 结果可知，BDSBASDFMC SNT与BDT之间的最大偏差为 $0 . 1 7 ~ \\mu \\mathrm { s }$ ，满足DFMC "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SBAS SARPs中的 $1 ~ \\mu \\mathrm { s }$ 指标要求。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 BDSBAS服务性能测试",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BDSBAS 服务性能测试选用BDSBAS北京监测站2021年6月15日1秒采样数据，增强电文采用BDSBASPRN130卫星播发的增强信息。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 SF 服务性能测试",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "北京站的定位误差直方图和斯坦福图分布如图5和图6所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a440a1c8faad7ad904b017ea54fcd636b3e35e8f52c9913755bd0eb43d5aab9.jpg",
+        "img_caption": [
+            "图52021年6月15日BDSBAS单频服务北京站定位误差统计直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3089b621d781de872c47ed934948fc8ec6bcf391f922d8d073fd39d3eb44552e.jpg",
+        "img_caption": [
+            "Fig.5Positioning error histogram of BDSBAS SF service at Beijing station (June 15,2021 ",
+            "图62021年6月15日BDSBAS单频服务北京站水平/垂直斯坦福图"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Horizontal/vertical Stanford chart of BDSBAS SF service at Beijing station (June 15,2021)统计得到水平精度（ $9 5 \\%$ ）为 $1 . 1 8 7 \\mathrm { m }$ ，垂直精度（ $9 5 \\%$ ）为 $2 . 3 5 6 \\mathrm { m }$ ；APV-I可用性为$9 9 . 4 4 6 \\%$ ；连续性为 $9 9 . 0 7 9 \\%$ ；水平和垂直最小安全因子分别为4.107和3.098；计算时段内",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "未发生HMI事件。可以看到，北京站的BDSBAS 单频服务的定位精度、可用性满足ICAOAPV-I服务等级要求；并且最小水平/垂直安全因子均大于1，保护级将定位误差完全包络，HMI事件发生次数为0，表明完好性参数可满足能够为用户提供可靠的完好性保障。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 DFMC服务性能测试",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "北京站的定位误差直方图和斯坦福图分布如图7和图8所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e16a1b495df08364b22a20d75f525ad8031194fd9339e0ca80f5bc65a8d628e.jpg",
+        "img_caption": [
+            "图72021年6月15日BDSBASDFMC服务北京站定位误差统计直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/47a2b0f0177bed738614aa30a9b68d4955fd9d8d5275d4b24fe81fbd52a1cd4f.jpg",
+        "img_caption": [
+            "Fig.7Positioning error histogram of BDSBAS DFMC service at Beijing station (June 15,2021 ",
+            "图82021年6月15日BDSBASDFMC服务北京站水平/垂直斯坦福图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.8Horizontal/vertical Stanford chart of BDSBAS DFMC service at Beijing station (June 15,2021) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "统计得到水平精度（ $9 5 \\%$ ）为 $1 . 8 3 0 \\mathrm { m }$ ，垂直精度（ $9 5 \\%$ ）为 $2 . 8 6 0 \\mathrm { m }$ ；APV-I可用性为$1 0 0 . 0 0 \\%$ ；连续性为 $1 0 0 . 0 0 \\%$ ；水平和垂直最小安全因子分别为1.872和2.581；计算时段内未发生HMI事件。可以看出，BDSBAS DFMC 服务定位精度较单频稍差。其原因在于，虽然BDS B1C/B2a双频组合消除掉了电离层影响，但会放大伪距测量噪声，导致最终该组合模型噪声较大，定位误差稍大于单频结果。但另一方面，由于双频测量不受电离层格网点分布、是否可用影响，可用于增强定位的卫星数量增多、弧段边长使双频服务的覆盖范围明显增大，因此可用性、连续性等有所提升。评估时段内的BDSBASDFMC服务性能满足APV-I等级要求。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了 SNT的基本概念和互操作现状，结合ICAO SBAS SAPRs草案的制定进展，对 SNT的兼容互操作问题进行了分析和研究。对于 SF SBAS SNT而言，由于目前SF SBASSARPs 国际标准中只能选择GPST或者GLONASST作为基准，因此BDSBAS SF SNT 选择暂时以GPST为基准、与GPST之间进行时间同步。后续，待SF SBASSAPRs标准修订工作重新启动、推进北斗进入SFSBASSAPRs后，将升级为以BDT为基准。对于DFMCSBAS，由于需要对多个GNSS 星座进行增强，涉及到更多的时间基准系统，因此SNT的互操作实现比SF SBAS 更为复杂。为此，ICAO SBASSARPs标准联合工作组研究和制定了DFMCSBAS SNT与被增强 SBAS参考时间之间的转换关系，以实现DFMC SBAS 的GNSS 时间兼容。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "针对 SBAS 互操作时间基准的上述国际标准最新要求，BDSBAS 进行了软硬件状态升级与服务性能初步测试。结果表明，对于 SF模式而言，BDSBAS SNT与GPST之间的偏差最大为 $3 7 ~ \\mathrm { n s }$ ，满足ICAO标准中的 $5 0 ~ \\mathrm { n s }$ 指标要求；对于DFMC 模式而言，BDSBASSNT与 BDT之间的时间偏差最大值为 $0 . 1 7 ~ \\mu \\mathrm { s }$ ，满足ICAO 标准中的1μs 指标要求。在时间同步基础上，进一步开展了BDSBAS 服务性能测试。结果表明，测试期间 BDSBAS SF 服务的精度、可用性满足ICAO APV-I指标要求，但连续性未能达标;BDSBASDFMC 服务的精度、可用性、连续性均满足ICAO APV-I指标要求。测试结果证明了BDSBAS 时间基准互操作方法的可行性和可靠性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "后续，BDSBAS将继续开展ICAO国际标准的联合研究与制定工作，并积极推进北斗进入SF SBAS SARPs 标准、成为 SF SBAS 服务增强选择对象。同时，持续开展系统建设与服务性能优化，以早日提供符合ICAO 国际标准的高性能、高安全性航空导航增强服务。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] JASON B.Wide area augmentation system (WAAS) update [R]. Changsha, China: SBAS IWG 30,2016.   \n[2]JASON B. Wide Area Augmentation System (WAAS） program overview [R]. Australia: SBAS IWG 35, 2019.   \n[3] 邵搏，耿永超，丁群，等．国际星基增强系统综述[J]．现代导航,2017,6(3):157-161. SHAO Bo, GENG Yongchao,DING Qun,et al. Summarize of international satelite based augmentation system [J].Modern Navigation,2017,6(3): 157-161.   \n[4] European Satelite Services Provider (ESSP).EGNOS performance and LPV implementation status [R]. Changsha, China: SBAS IWG 30,2016.   \n[5] NATHALIE R. EGNOS programme status [R]. Changsha, China: SBAS IWG 30,2016.   \n[6] MASASHI G. MSAS status [R]. Changsha, China: SBAS IWG 30,2016.   \n[7] HIDETSUGU W.MSAS status and future plan [R]. Australia: SBAS IWG 35,2019.   \n[8] Airports Authority of India (AAI). GPS aided GEO augmented navigation (GAGAN) [R]. Changsha, China: SBAS IWG 30, 2016.   \n[9] Airports Authority of India (AAI). GPS aided GEO augmented navigation (GAGAN) [R]. Senegal: SBAS IWG 31, 2016.   \n[10] China Satellite Navigation Office (CSNO). SDCM [EB/OL]. [2021-07-20]. http://www.beidou.gov.cn/zy/kpyd/201710/t20171023_4777.html   \n[11] European Space Agency (ESA). SDCM [EB/OL]. [2021-07-20]. https://gssc.esa.int/navipedia/index.php/SDCM   \n[12] EUNSUNG L. Korea SBAS program [R]. Changsha, China: SBAS IWG 30, 2016.   \n[13] ASECNA. SBAS for Africa and Indian Ocean initiative [R]. Ghana: Twenty-Second Meeting for the AFI Planning and Implementation Regional Group,2019.   \n[14] ASECNA. Update on “SBAS for Africa and Indian Ocean”(A-SBAS) development [R]. Montreal: ICAO NSP Sixth Meeting, virtual meeting, 2020.   \n[15] Jeffrey Bollard，Simon Reynolds.Southern Positioning Augmentation Network Program Update [R]. Montreal: ICAO NSP Sixth Meeting, virtual meeting, 2020.   \n[16] 中国卫星导航系统管理办公室．北斗卫星导航系统应用服务体系（1.0版)[R].北京：中国卫星导航系 统管理办公室,2019.   \n[17] Civil Aviation Administration of China (CAAC). The new service provider ID and UTC standard ID for BDSBAS [R]. Montreal: ICAO NSP 4th Meeting, 2017.   \n[18]LIU Cheng, GAO Weiguang, SHAO Bo,et al. Development of BeiDou satelite-based augmentation system [J]. Navigation, 2021, 68(2): 405-417.   \n[19] 陈谷仓，刘成，卢鋆．北斗星基增强系统服务等级与系统性能分析 [J]．测绘科学,2021,46(1):42-48. CHEN Gucang,LIU Cheng,LU Jun. Service level and system performance analysis of BDSBAS [J]. Science of Surveying and Mapping, 2021, 46(1): 42-48.   \n[20] 邵搏，丁群，耿永超，等．双频多星座星基增强系统电文综述[C]．第 29 届中国飞行器测控学术会议, 中国，上海,2018:E-07. SHAO Bo,DING Qun,GENG Yongchao,et al. The Summarize of dual-frequency multi-constellation satelite-based augmentation system messages [J]. Shanghai: The 29th Conference of Spacecraft TT&C Technology, 2018: E-07.   \n[21] IWG. Satelite-based augmentation system dual-frequency multi-constelation definition document [R]. Senegal: SBAS IWG 31, 2016.   \n[22] DS2 rapporteur. Proposed amendments to Annex 10, Volume I: Satelite-based augmentation system (SBAS) provisions [R]. ICAO NSP Sixth Meeting, virtual meeting, 2020.   \n[23] United States Naval Observatory (USNO). USNO [EB/OL]. [2021-07-20]. https://www.usno.navy.mil/USNO.   \n[24] 刘成，李芳．卫星轨道误差对定位精度影响的摄动分析分析[J]．天文研究与技术,2018,15(1):40-45.   \n[25] Leap Second. GPS， UTC， and TAI Clocks [EB/OL]. [2021-07-20]. http://www.leapsecond.com/java/gpsclock.htm#:\\~:text=UTC%2C%20Coordinated%20Universal%20Time% 2C%20popularly%20known%20as%20GMT,clocks%20in%20the%20GPS%20ground%20control%20statio ns%20and   \n[26] IS-GPS-200.NAVSTAR GPS Space Segment/Navigation User Interfaces [S]. PNT Capability Area Integration,Portfolio Architect Space and Missile Systems Center, 2021.   \n[27] BDS-SIS-ICD-B1C-1.0.北斗卫星导航系统空间信号接口空间信号接口控制文件公开服务信号 B1C （1.0版）[S]．北京：中国卫星导航系统管理办公室,2017. BDS-SIS-ICD-B1C-1.0. BeiDou Navigation Satelite System Signal In Space Interface Control Document Open Service Signal B1C (Version 1.O)[S]. Beijing: China Satellite Navigation Office,2017.   \n[28] 高星伟，过静珺，程鹏飞，等．基于时空系统统一的北斗与GPS 融合定位 [J]．测绘学报，2012, 41(5):743-755. GAO Xingwei, GUO Jingjun, CHENG Pengfei, et al. Fusion positioning of Compass/GPS based on spatio temporal system unification [J]. Acta Geodaetica et Cartographica Sinica, 2O12,41(5): 743-748,755.   \n[29] ERIC C,NATALIA C.UPDATE TO GALILEO OPEN SERVICE DRAFT SARPS [R]. ICAO NSP GSSVWG Meeting, virtual meeting,2020.   \n[30] 刘庆元，包海，王虎，等.GPS、GLONASS、GALILEO 三大系统间时间系统以及坐标系统的转换[J]. 测绘科学,2008,33(5):13-15. LIU Qingyuan, BAO Hai, WANG Hu, et al. The transformation and coordinates transformation among GPS, GLONASS and GALILEO [J]. Science of Surveying and Mapping, 2008, 33(5): 13-15.   \n[31] ICAO.International Standards and Recommended Practices Annex1O Aeronautical Telecommunications Volume IRadio Navigation Aids [S]. Senegal: 2018. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第一作者简介：刘成（1987-)，男，博士，研究方向：卫星导航与定位、多源融合导航、集成电路设计与开发。Email: liucheng@beidou.gov.cn",
+        "page_idx": 12
+    }
+]

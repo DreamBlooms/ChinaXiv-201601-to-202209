@@ -1,0 +1,180 @@
+# 重组杆状病毒细小VP2蛋白40L生物反应器放大工艺研究
+
+苏晓蕊1，李伟国1，王延辉，高晓静，闪伊红，谭菲菲，李向东，田克恭\*
+
+国家兽用药品工程研究中心，河南 洛阳471003
+
+摘要研究了Sf9细胞生产重组杆状病毒细小VP2蛋白在机械搅拌式生物反应器（STR）中从3L至40L的放大工艺。首先在3L反应器中，通过DO和搅拌转速的优化，使反应器中的VP2蛋白HA效价不低于摇瓶结果。在40L反应器放大时，温度、pH、DO保持不变，根据输入搅拌功率、体积溶氧系数和叶尖线速度等工程参数的计算，得到了该反应器的合理搅拌转速，最终HA效价测定结果与小罐一致。豚鼠免疫试验证实，反应器中表达的VP2蛋白制成疫苗，与HN2011灭活苗及商品化灭活疫苗相比，抗体水平上升较快且高于传统灭活苗。
+
+关键词 Sf9细胞 重组杆状病毒细小VP2 生物反应器放大
+
+# Scale-up process optimization for recombinant PPV-VP2protein production using baculovirus expression system in 40L bioreactor
+
+Su Xiao-rui Li Wei-guoWang Yan-hui Gao Xiao-jing Shan Yi-hong Tan Fei-fei Li Xiang-dong Tian Ke-gong
+
+National Research Center for Veterinary Medicine，Luoyang，Henan，47100:
+
+AbstractThis case study focuses on the scale-up of a Sf9 celline to produce recombinant porcine parvovirus (PPV) VP2 protein expression using baculovirus/insect expression system from the initial 3-L bench scale to the 40-L scale.In 3L bioreactor,HA titer of VP2 protein side-by-side comparison of shake flask by optimization of DO and Agit.The operational parameters of temperature,DO,and pH for large vessels were set at the same values as those of 3-L bioreactor. Appropriately applying the calculated results to power input per volume,oxygen transfer coefficient and tip speed,resulted in successful scale-upof agitation speed for the large bioreactors.By HA titer analysis，VP2 protein had identical haemagglutinating activity comparison of 3-L.By guinea pig immunization test,we found that recombinant VP2 subunit vaccine can be induced high level antibody reaction, and immune with recombinant VP2 subunit vaccine was faster than classcal inactivated PPV vaccine.
+
+KeywordsSf9 cell Recombinant baculovirus PPV-VP2 STR Scale-up
+
+猪细小病毒(PPV)是一种高度稳定且持久感染的自主型病毒[l。引起怀孕母猪的繁殖障碍，流产、死胎及木乃伊胎等,还引起仔猪皮炎、腹泻、非化脓性心肌炎和呼吸系统疾病[2.3],成年猪不表现明显的临床症状。疫苗免疫是目前预防和控制该病的重要措施，但现有疫苗存在毒力返祖、免疫能力低下、生产成本高等缺陷。
+
+基因工程亚单位疫苗中病毒样颗粒疫苗（VLPs）是目前研究的热点，VLPs是由一种或多种病毒衣壳蛋白自行装配而成的空壳颗粒，不含病毒核酸，不能复制，没有感染性，形态结构上与天然病毒粒子相同或相似，即使没有佐剂也可刺激机体产生强烈的体液和细胞免疫[4]。有研究表明[5]，体外表达的PPV-VP2蛋白具有良好的免疫原性，可诱导机体产生保护性免疫反应。
+
+昆虫细胞-杆状病毒表达系统具有重组蛋白表达量高，能同时表达多个基因等优点。实验室利用IC/BEVS系统表达的猪细小病毒VP2蛋白，具有良好的免疫原性，可以用于预防猪细小病毒病。为了满足工业化生产的需求，本文在3L反应器培养的基础上，运用输入搅拌功率的放大策略，通过体积溶氧系数、输入搅拌功率和叶尖线速度的计算，实现了重组杆状病毒PPV-VP2生产规模从3L到40L的放大。
+
+# 1材料与方法
+
+# 1.1材料
+
+1.1.1细胞培养Sf9 细胞，本实验室保藏。无血清培养基 SF-900TM III SFM（Gibco，USA）。
+
+..1.2病毒株表达细小病毒VP2蛋白的重组杆状病毒，本实验室构建并保存。
+
+1.1.3 3L/14L/40L生物反应器美国NBS CelliGen115、CelliGen310、CelliGen510。
+
+1.1.4 1.4实验动物25只体重约为 $2 5 0 \mathrm { g }$ 健康成年豚鼠。
+
+# 1.2 实验方法
+
+# 1.2.1 细胞的复苏及扩增
+
+常规复苏 Sf9 细胞， $8 0 0 { \sim } 1 0 0 0 \mathrm { r p m }$ 离心后，弃去上清，另取 $2 0 \mathrm { m l }$ 新鲜生长液重悬，置
+
+于 $1 1 0 \mathrm { r p m }$ 、 $2 7 ^ { \circ } \mathrm { C }$ 摇床培养。 $2 { \sim } 3 \mathrm { d }$ 后，按照1:10的比例进行扩增传代。
+
+1.2.23L 反应器重组杆状病毒 PPV-VP2 培养工艺优化
+
+将CelliGen115-3L反应器清洗、灭菌备用。种子细胞放大后，将细胞按照 $0 . 3 \sim$ $0 . 5 { \times } 1 0 ^ { 6 } \mathrm { c e l l s / m L }$ 的密度接种进3L反应器中，最后补加新鲜培养基至终体积 $2 . 0 \mathrm { L }$ 。培养72h后，新鲜培养基稀释至 $2 . 0 { \sim } 2 . 5 { \times } 1 0 ^ { 6 } \mathrm { c e l l s / m L }$ ，按照 $\mathrm { M O I } { = } 1 0$ 接种病毒液
+
+# 1.2.2.1 DO 的优化
+
+培养参数为：搅拌转速（Agit） $5 0 \mathrm { r p m }$ 、Temp $2 7 \mathrm { { ^ \circ C } }$ 、 $\mathrm { p H } 6 . 2$ ；DO设置 $20 \%$ 、 $40 \%$ 、 $60 \%$ 、$80 \%$ 四个梯度，通入空气和纯氧两种气体维持溶液中溶解氧的浓度，空气的通气量设置为0.005vvm。检测不同DO值下的VP2蛋白HA效价，选择一个最优的DO。
+
+1.2.2.2 搅拌转速上限的测定
+
+搅拌范围的下限是保证生物反应器中传质传氧的充分；上限是不会因高的剪切力导致细胞活率下降。其他参数不变，同 1.2.2.1，DO 设为 $40 \%$ ，将最高转速定为 $1 5 0 \mathrm { r p m }$ ，在该转速下比较与 50rpm 时细胞的生长曲线变化。
+
+# 1.2.3 40L生物反应器放大工艺研究
+
+根据 3L反应器优化的结果，在培养工艺放大过程中，pH、DO、Temp 大罐与小罐3L一致，主要解决在几何相似性原则（高径比均为2:1）下，放大后罐体的空气流量、搅拌转速和功率消耗的问题。
+
+按照输入搅拌功率放大的方法，依据体积溶氧系数 $\mathrm { K } _ { \mathrm { L } }$ a值相同，则有：
+
+$$
+\mathrm { N } _ { 2 } { = } \mathrm { N } _ { 1 } [ ( \mathrm { V s } ) _ { 1 } / ( \mathrm { V s } ) _ { 2 } ] ^ { 0 . 3 0 } ( \mathrm { D } _ { 1 } / \mathrm { D } _ { 2 } ) ^ { 0 . 5 1 }
+$$
+
+依据单位体积液体消耗功率 $\mathrm { \Delta P / V }$ 相等，则有：
+
+不通气时转速 $\mathrm { N } _ { 2 } { = } \mathrm { N } _ { 1 } ( \frac { D \mathbf { 1 } } { D z } ) ^ { 2 / 3 }$
+
+通气时转速 $\mathrm { N } _ { 2 } { = } \mathrm { N } _ { 1 } ( \frac { D { = } 1 } { D { = } 2 } ) ^ { 0 . 7 5 } \cdot ( \frac { Q \varXi \varXi } { Q \varXi 1 } ) ^ { 0 . 0 1 1 4 }$
+
+依据搅拌桨叶尖线速度nDi相等，则有：
+
+CelliGen115-3L、CelliGen510-40L尺寸及比例见表1，结构示意图见图1。
+
+# 表1不同规格生物反应器尺寸
+
+# Table 1 Bioreactor vessel dimensions
+
+中国生物工程杂志 China Biotechnology  
+
+<html><body><table><tr><td colspan="4"></td></tr><tr><td>Variable</td><td>3-L bioreactor</td><td>14-L bioreactor</td><td>40-L bioreactor</td></tr><tr><td>Vt (L)</td><td>3</td><td>14</td><td>40</td></tr><tr><td>Vw (L)</td><td>2.2</td><td>10.5</td><td>32.0</td></tr><tr><td>Di (in)</td><td>6.5</td><td>11</td><td>15.5</td></tr><tr><td>Dt (in)</td><td>12.0</td><td>21</td><td>30</td></tr><tr><td>L=Ht+Hb</td><td>19.5</td><td>30.3</td><td>45.3</td></tr><tr><td>Ht(in)</td><td>24</td><td>42</td><td>60</td></tr><tr><td>H/Dt</td><td>2:1</td><td>2:1</td><td>2:1</td></tr></table></body></html>
+
+![](images/9cb9353783bdae9641a45185ea0a0a3a833126d9eae3bc9f5926fde599e3d887.jpg)  
+图1生物反应器示意图  
+Fig.1 The schematic diagrams of bioreactors.
+
+1.2.4VP2蛋白的HA 效价及HI抗体测定参照文献[。
+
+1.2.540L反应器中表达的VP2蛋白免疫原性试验
+
+分别将3L和40L反应器中表达的PPVVP2蛋白分别与佐剂按照一定比例乳化，制成亚单位疫苗；设置阴性对照，全病毒灭活疫苗阳性对照，同时与商品化的PPV疫苗作对比。
+
+# 2结果
+
+# 2.1 DO对细胞生长、病毒感染以及VP2蛋白表达的影响
+
+DO 作为细胞培养过程一个重要的控制参数，影响着细胞的生长、代谢以及目标产物的表达，严格的溶氧控制可以省去生物反应器的 $\mathfrak { p H }$ 控制。
+
+采用批培养的方式，按照 $0 . 5 \times 1 0 ^ { 6 } \mathrm { c e l l s / m L }$ 接种 Sf9 细胞，DO 在 $20 \%$ 、 $40 \%$ 、 $60 \%$ 和$80 \%$ 时，3d后细胞均可以达到最大密度（ $\mathrm { \langle 5 . 0 \times 1 0 ^ { 6 } c e l l s / m L }$ ），且在细胞生长、活率（图2）、营养消耗以及摄氧率（OUR）方面也未见明显的不同。这表明，Sf9 细胞的生长和代谢对DO 水平是相对不敏感。
+
+随后，新鲜培养基将细胞稀释至 $2 . 0 { \sim } 2 . 5 \times 1 0 ^ { 6 } \mathrm { c e l l s / m L }$ ，接种病毒液（ $\mathrm { M O I } { = } 1 0$ ）。接种病毒液后，病毒感染发生在 24hpi内，四种条件下细胞活细胞密度基本一致（图2）。病毒接种后培养 $7 2 \mathrm { h } \mathord { \sim } 9 6 \mathrm { h }$ 收获全部培养液，离心后，取上清液检测HA效价（表2），DO 由$20 \%$ 升高至 $80 \%$ 时，VP2蛋白的HA 效价基本一致。我们的结论是，Sf9 细胞可以适应一个较大的DO 浓度范围。这与文献[7中报道的结果一致，Sf9 细胞无论是在生长阶段还是病毒感染、蛋白表达对低DO 都是不敏感的。所以本文将生物反应器中的DO 设定为 $20 \%$ 。
+
+![](images/359e900e3b2080316c712fbee4be815f775b99d316efc450f2864b314d74d637.jpg)  
+图2不同DO对Sf9细胞在不同DO下生长曲线
+
+Fig.2 Sf9 cell profiles in four DO levels during growth and infection.
+
+表2DO 对VP2蛋白HA效价的影响
+
+Table 2EffectofDO on VP2 proteinHA titer   
+
+<html><body><table><tr><td>DO</td><td>20%</td><td>40%</td><td>60%</td><td>80%</td></tr><tr><td>HA titer</td><td>214</td><td>214</td><td>214</td><td>213</td></tr></table></body></html>
+
+# 2.2 Sf9 细胞在不同转速下细胞生长曲线
+
+当Temp $2 7 \mathrm { { ^ \circ C } }$ 、 $\mathrm { p H } 6 . 2$ ；DO $40 \%$ 时，在Agit $5 0 \mathrm { r p m }$ 和 $1 5 0 \mathrm { r p m }$ 时，Sf9 细胞在3L反应器中的生长曲线见图3，在 $1 5 0 \mathrm { r p m }$ 时，Sf9 细胞的生长曲线与 $5 0 \mathrm { r p m }$ 基本一致。其中，叶尖线速度与搅拌转速的关系如下表3：
+
+![](images/b3e0f5ba384be2d0b9e27ba24452469562485fb9c3b5c7cfe1ad6202d555db3b.jpg)  
+图3转速对Sf9 细胞生长的影响  
+Fig. 3 Effect of Agitator on Sf-9 cell growth
+
+Table 3 The relationship between impeller tip speed & agitation speed in different bioreactor   
+
+<html><body><table><tr><td>impeller tip (m/s)</td><td>3L bioreactor（rpm）</td><td>14L bioreactor（rpm）</td><td>40L bioreactor（rpm）</td></tr><tr><td>0.02</td><td>50</td><td>35</td><td>25</td></tr><tr><td>0.03</td><td>100</td><td>52</td><td>37</td></tr><tr><td>0.05</td><td>150</td><td>87</td><td>62</td></tr></table></body></html>
+
+# 2.340L生物反应器放大培养
+
+在几何相似性原则下进行培养规模的放大。放大过程中，大罐的pH、Temp、DO 与小罐相同，根据不同的放大准则，计算14L和40L反应器的搅拌转速，见表3。
+
+表3不同规模生物反应器叶尖线速度与搅拌转速关系  
+表4基于不同策略放大计算出的搅拌转速范围  
+
+<html><body><table><tr><td>Criteria</td><td>Model</td><td>3-L</td><td>14-L</td><td>40-L</td></tr><tr><td>KL a</td><td>Equation (1)</td><td>50～150 rpm</td><td>32～96rpm</td><td>23～70rpm</td></tr><tr><td>P/V</td><td>Equation （3）</td><td>50～150 rpm</td><td>34～103rpm</td><td>27～80rpm</td></tr><tr><td>nDi</td><td>Equation （4)</td><td>50～150 rpm</td><td>35～87rpm</td><td>25～62rpm</td></tr></table></body></html>
+
+根据工程参数的计算，不同放大准则下大罐的搅拌转速有差异。当3L生物反应器搅拌转速设定为 $5 0 \mathrm { r p m }$ 时，40L反应器为 $2 5 \mathrm { r p m }$ 左右，此转速无法满足传质传氧的需求。
+
+生物反应器在放大的时候，可以实现罐体、搅拌桨等部件的几何相似性放大，但表面积和体积等参数无法实现线性放大，因此实际放大过程中，多以单位体积输出功率作为准则。三种规格反应器的培养参数见表5。
+
+Table 4Proposed agitation speeds based on different scale-up criteria   
+表53L、14L、40L反应器优化后的培养参数  
+Table 5The bioreactor operational actual set points for the processes of different scales   
+
+<html><body><table><tr><td>Parameters</td><td>3-L bioreactor</td><td>14-L bioreactor</td><td>40-L bioreactor</td></tr><tr><td>Temperature（℃）</td><td>27</td><td>27</td><td>27</td></tr><tr><td>pH</td><td>6.20</td><td>6.20</td><td>6.20</td></tr><tr><td>Dissolved oxygen（%）</td><td>40</td><td>40</td><td>40</td></tr><tr><td>Agitation speed（rpm）</td><td>50</td><td>80</td><td>60</td></tr><tr><td>Gas flow to sparger</td><td>0.05vvm</td><td>0.05vvm</td><td>0.075vvm</td></tr></table></body></html>
+
+对上述工艺进行连续三批验证试验，得到的培养数据如下：
+
+# 表6工艺验证
+
+Table6Processvalidation   
+
+<html><body><table><tr><td>培养批次</td><td>pH范围</td><td>DO 范围</td><td>温度范围</td><td>VP2 蛋白HA效价</td></tr><tr><td>第1批</td><td>6.12~6.30</td><td>39.6%~40.1%</td><td>26.2~27.1</td><td>216</td></tr><tr><td>第2批</td><td>6.17~6.35</td><td>39.1%~41.4%</td><td>26.6~27.3</td><td>215</td></tr><tr><td>第3批</td><td>6.15~6.27</td><td>39.9%~47.7%</td><td>26.1~27.0</td><td>215</td></tr></table></body></html>
+
+# 2.4免疫原性试验
+
+体重约为 $2 5 0 \mathrm { g }$ 成年健康豚鼠25只，分为5组，每组5只，分别进行3L、40L反应器亚单位疫苗、PPV 全病毒疫苗、商品化疫苗、空白对照的免疫，首免后在1、2、4、5、6、7、8周分别采集各组豚鼠血，分离血清，进行血凝抑制检测抗体，结果见图3。
+
+无论是VP2蛋白与全病毒还是商品化PPV疫苗相比，还是不同的反应器规模生产的VP2蛋白比较，豚鼠免疫试验表明，VP2蛋白产生的抗体水平上升较快且高于传统灭活苗。从免疫原性考察，也证明实现了反应器从3L-40L的放大。
+
+![](images/888074f7a82a73e96b71bd4cbcaebb39c03da9265da6b68a623194ca4a58eeb0.jpg)  
+图3HI实验检测4组PPV疫苗豚鼠抗体水平
+
+Fig.3 HI assay for PPV specific antibodies of sera from guinea pigs immunized with 4kinds of PPV vaccines
+
+# 3讨论
+
+杆状病毒表达系统具有与哺乳动物细胞相似的转录、翻译和翻译后加工等功能，表达的外源蛋白基本保持了原有的生物学活性，其表达的细小病毒VP2 结构蛋白可形成病毒样颗粒（Virus-Like Particles，VLPs）[7,8]。
+
+本实验室成功构建了表达PPV-VP2的重组杆状病毒，为了实现规模化培养，探索了从3L至40L生物反应器的放大工艺。分别计算小罐和大罐反应器的基本工程参数，确定初步的放大参数，最终使得在大罐中的剪切力不超过细胞的最大耐受程度，氧气的传递速率满足耗氧需求， $\mathrm { C O } _ { 2 }$ 分压低于毒性水平，气泡伤害和泡沫积累在安全范围，pH和营养分布梯度不会对蛋白产量和质量造成较大影响。为了提高放大的成功几率，采用逐级放大法，由3L到14L再到40L反应器。放大过程中，温度、pH、DO不会随着培养体积的变化而发生变化[9,10]，主要考虑搅拌转速和通气量的改变。
+
+本文以输入搅拌功率为放大准则，对 $3 \mathrm { L } \mathord {  } 4 0 \mathrm { L }$ 生物反应器细胞放大工艺进行了初探，事实上，当培养规模放大至生产级的几百升、几千升时，仅仅考虑输入搅拌功率的放大是远远不够的，还需要考虑混合时间、 $\mathrm { C O } _ { 2 }$ 的积累、罐压等因素，更深层次来讲，最好是通过细胞生理状态一致性来进行放大则更为有效。由于实验条件的限制，在细胞培养、病毒感染以及蛋白表达阶段未进行代谢、OUR等生理状态的监测。但是，从培养过程中氧气通入百分比观察，在杆状病毒的感染阶段，耗氧率增加；感染阶段结束，进入蛋白表达阶段，纯氧的消耗逐渐较少。这与文献[12]中通过检测OUR得出的杆状病毒表达外源蛋白时的耗氧变化结论致。
+
+# 参考文献
+
+[1]杜毅超，吴健敏，刘金凤.猪细小病毒病毒样颗粒研究进展.动物医学进展，2016，37（7）：71-75.
+
+Du Y C，Wu JM，Liu JF. Progress on porcine parvovirus virus-like particles. Progress in Veterinary Medicine，2016，37（7）：71-75. [2] Lager KM，Mengeling WL. Porcine parvovirus associated with cutaneous lesions in piglets.J Vet Diagn Invest，1994，6(3): 357-359. [3]Bolt DM，Waldvogel AS，Hani H，et al. Non-suppurative myocarditis in piglets associated with porcine parvovirus infection.JComp Pathol，1997，117(2):107-118. [4] Kushnir N，Streatfield S J，Yusibov V.Virus-like particles as a highly efficient vaccine platform:Diversity of targets and production systems and advances in clinical development. Vaccine，2012，31(1): 58-83. [5] Martinez C，Dalsgaard K.Vaccine，1992，10:684-690. [6] 丧生科.PPV/HN-2011毒株分子生物学特性研究及利用杆状病毒表达其 VP2 蛋白．郑州：河南农 业大学，2013. Chang S K. Porcine parvovirus HN-201l molecular biological characteristics and expressed VP2 protein in insect baculovirus cell system. Zhengzhou:Henan Agricultural University:2013. [7] Martine ZC，Dalsgaard K，Lopezde Turiso JA，et al. Production of porcine parvovirus empty capsids with high immunogenic activity. Vaccine，1992，10(10): 684-690. [8] Adriaan FGA，Christianne JMB，Palomar，et al.A novel recombinant virus-like particle vaccine for prevention of porcine parvovirus-induced reproductive failure. Vaccine， 20o6，24: 5481-5490. [9]JD Yang,CLu，B Stasny，etal.Fed-Batch Bioreactor Process Scale-UpFrom3-Lto 2,500-L Scale For Monoclonal Antibody Production From Cell Culture.Biotechnology and Bioengineering，2007，98(1): 141-154. [10] Dreher T，Husemann U，Adams T，et al. Design space definition for a stired single-use bioreactor family from 50 to 2000L scale.Eng.Life Sci.2014，14: 304-310. [11] Agathos SN.Insect cell bioreactors.Cytotechnology，1996，20：173-189.

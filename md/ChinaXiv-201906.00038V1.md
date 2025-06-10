@@ -1,0 +1,143 @@
+# A STUDY ON THEFEATURES OF CHESTANDABODOMINALBREATHINGBETWEEN RECITINGAND CHANTINGCHINESEPOEMS Feng Yang JinanUniversity,Guangzhou
+
+# ABSTRACT
+
+This research studies the features of chest and abdominal breathing between reciting and chanting Chinese poems of different styles.Eight participants were recruited to recite and chant 85 modern style poems (近體詩) and 39 Song poems(宋 詞).The chest and abdominal breathing signals as well as speech signal were recorded simultaneously. Programs for breathing analysis have been written to extract parameters such as breathing reset amplitude,time of inhale phase,and slope of exhale phase. The results show that the poem chanting has a larger depth of breathing and amount of breath,and more frequent exhalations compared with the poem reciting. In both poem reciting and chanting，the pause and declination of chest breathing is closely correlated with the prosodic boundaries.The major function of chest breathing in speaking is to keep the extended state of the chest and provide enough breath for articulation and chest resonance.And the function of abdominal breathing is to provide stable sub-glottal pressure through contraction of abdominal muscle and diaphragm, controlling continuous airflow to produce continuous sound.
+
+# SUBJECTKEYWORDS
+
+Chest and abdominal breathing Poem reciting Poem chanting Speech production
+
+# 1.INTRODUCTION
+
+Breathing,as the driving force of speech,is part of speech production (Wang 2Oo8). It plays an important role in human speech activities. The coordination of the muscular movements of the chest,diaphragm,and rectus abdominis has been proved to be closely related with the prosodic organization of human speech (Hixon 1987). One of the important functions of the breathing system is that it produces sub-glottal pressure for continuous sound flow,and this pressure is changing at the prosodic boundaries (Ohala 199O). The breathing pattern in speaking can be analyzed into smaller units,which were considered as the basic unit of intonation production and perception (Lieberman 1967). Ladefoged and Loeb (2Oo2) believe that the production of stressed syllables is the result of the excessive respiratory power that is initiated by the internal intercostals.
+
+Wu and Lin (1989) carried out research on Chinese with signals of airflow and pressure for the first time in China.Tan etal (2OO8) and Shi etal (2O1O) have studied abdominal breathing reset of Mandarin reciting of various writing styles, and made statistical analysis of different types of breathing reset. Yang et al (2013) explored mechanisms of chest and abdominal breathing.
+
+The present research compares breathing features of reciting and chanting of Chinese traditional poems through analyzing simultaneous signals of chest breathing,abdominal breathing and speech sound. The effects of chest breathing and abdominal breathing and their interrelationship are also investigated.
+
+# 2.METHOD
+
+# 2.1.Data Sampling
+
+Eighty-five five-syllable or seven-syllable modern style poems and 39 Song poems performed by eight professional scholars were sampled in three styles, namely Standard Chinese,dialect and chanting in dialect.All the poems are recorded in the laboratory of Peking University. The major equipment for recording is 16-channel Powerlab PL3516.This experiment collects signals of 4 channels using Chart 5. Channel1 is speech signal collected through microphone and console mixer; Channel 2 is phonation signal collected through Electroglottography; Channel 3 is pectoral breathing signal collected by Breathing stripe，MLT1132 sensor； Channel 4 is abdominal breathing signal also collected through Breathing stripe,MLT1132 sensor. All sample rates are $4 4 \mathrm { k H z }$ .Breathing stripe used for measuring chest breathing is fastened $1 0 \mathrm { { c m } }$ below the armpit,while breathing stripe used for measuring abdominal breathing is fastened above the naval.Devices used in recording are: microphone, Sony ECM-44B；console mixer，Behringer XENYX502；Electroglottography，Kay 6103;breathing strips,ADInstrument MLT1132.
+
+# 2.2.ParameterExtraction
+
+In order to study simultaneously the signals of speech,phonation,chest breathing,and abdominal breathing,a data analysis platform was built in Matlab.As shown in Fig 1.
+
+![](images/da1b745903689532ad6afc584a456c635aeeef3e539b3fb4183bae3796f2c1ee.jpg)  
+Figure 1.The interface of the data analyzing platform
+
+In the interface of the data analyzing platform,there are five sub-windows in which five signals are displayed.The five signals,from top to bottom,are:1)speech signal; 2)EGG signal; 3)chest breathing signal; 4)abdominal breathing;and 5) the sum of chest and abdominal breathing calculated breathing.On the right of interface,there are four function plots and in each of them,there are some functional buttons for text labeling and signal processing.
+
+![](images/930ab17e93288e2992f5ef27b410cbfd818377f77ee5ec7d9c43f10584efd399.jpg)  
+Figure 2.Definition of breathing parameters (From top to bottom: chest breathing , abdominal breathing)
+
+The definition of breathing parameters is shown in Fig.2. The horizontal axis is time measured in seconds,while the vertical axis is the amplitude of breathing. Above is the signal of chest breathing and below the abdominal breathing. Rising curve indicates inhale and falling curve exhale.A,B,and C are inhale onset time, breathing onset time,and exhale end time respectively. The duration of inhale TI=B-A, duration of exhale $\scriptstyle \mathrm { { T E = C - B } }$ ： $\mathbf { A } \mathbf { I } =$ inhale reset amplitude, $\mathrm { A E = }$ exhale reset amplitude. Other parameters,like the slope of inhale period,slope of exhale period,area of inhale phase,and area of breathing phase,can be measured with those parameters mentioned above.
+
+First,the signal is low-pass filtered to eliminate high-frequency interference. Then,the signal is normalized to facilitate inter-person comparison.The formula of normalization is:
+
+BreathSignal $\ c =$ OriginalSignal/max(abs(OriginalSignal)) $^ { * } 0 . 8$ 0
+
+The prosodic boundaries of each layer are marked manually.The inhale onset time,breathing onset time,and exhale end time of each period of chest and abdominal breathing are marked consequently. Other parameters are calculated by the analyzing platform. The parameters are saved as .mat format to produce breathing parameters in Microsoft Excel for statistical analysis.
+
+# 3.RESULT
+
+3.1 The Difference of the Respiratory Patterns between Reciting and Chanting Modern-style Poems
+
+Chanting poems is a traditional way to read out poems with prolonged sounds and characteristic melody. It draws on the feature of reciting and singing. When chanting modern-style,chanters apply a respiratory pattern that has a much larger respiratory magnitude and breathing volume and the protracted exhale phase in each respiratory cycle.
+
+![](images/921fa9134ae08ee7a98aa5cea573e8a234d46a64844eb9b60824746814e07d82.jpg)  
+Figure 3.Comparison of chanting and reciting in chest and abdominal breathing(top:
+
+chest breathing,bottom: abdominal breathing,left: chanting,right:reciting)
+
+Figure 3 shows examples of chest and abdominal breathing cycles in chanting and reciting a seven-syllable modern-style poem entitled“Jin Ling Yi" (Port Jinling)．The three signals from top to bottom are chest breathing，abdominal breathing,and the superposition of two breathing signals.The exhale reset amplitude from A1 to A4 represents the respiratory pattern of poem chanting,and that from B1 to B4 of poem reciting.A direct observation shows that the respiratory pattern of chanting involves larger exhale reset amplitude compared with that of reciting poem. In addition,an alternating pattern emerges in the breathing signal of reciting poems with the smaller exhale reset amplitude immediately following the larger one.
+
+Table 1.Comparison of parameters of exhale phase between chanting and reciting of modern-style poems   
+
+<html><body><table><tr><td colspan="2"></td><td>amplitude of exhale reset</td><td>duration of exhale(s)</td><td>slope of exhale phase</td><td>area of exhale phase</td></tr><tr><td rowspan="2">chest breathing</td><td>reciting</td><td>0.29</td><td>4.07</td><td>-0.10</td><td>6.36</td></tr><tr><td></td><td></td><td>1.65</td><td>0.07</td><td>0.94</td></tr><tr><td rowspan="2">abdominal reciting breathing</td><td>chanting 0.13</td><td>0.69</td><td>4.26</td><td>-0.18</td><td>5.85</td></tr><tr><td>chanting 0.42</td><td></td><td>1.82</td><td>-0.27</td><td>1.54</td></tr></table></body></html>
+
+Table 1 shows the average exhale parameters of the chest and abdominal breathing in two modes of performance for the modern-style poems.It can be seen that the chanting has larger exhale reset amplitude for both chest and abdominal breathing.The duration of the exhale phase is three times longer than that of the inhale phase.The smaller exhale slope in chanting indicates that the abdominal muscular contraction tends to be slowly escalated to produce sustainable breath.The area of the exhale for chest and abdominal breathing in chanting is about nine times and five times larger respectively,than those in reciting.In summary,the four exhale parameters indicate that more breathing volume is applied in chanting compared with reciting.
+
+Table 2.Comparison of parameters of inhale phase between chanting and reciting of modern-style poems   
+
+<html><body><table><tr><td colspan="2"></td><td>amplitude of inhale reset</td><td>duration of inhale(s)</td><td>slope of inhale phase</td><td>area of inhale phase</td></tr><tr><td rowspan="2">chest breathing</td><td>reciting</td><td>-0.54</td><td>0.46</td><td>1.80</td><td>0.99</td></tr><tr><td>chanting</td><td>-0.31</td><td>0.33</td><td>1.54</td><td>0.43</td></tr><tr><td>abdominal</td><td>reciting</td><td>-0.45</td><td>0.59</td><td>2.34</td><td>1.08</td></tr></table></body></html>
+
+<html><body><table><tr><td>breathing</td><td>chanting -0.27</td><td></td><td>0.47</td><td>1.75</td><td>0.48</td></tr></table></body></html>
+
+Table 2 shows the average inhale breathing parameters of the chest and abdominal breathing in chanting and reciting modern-style poems.It is clearly seen that chanting consumes more breath volume.The inhale reset amplitudes of the chest and abdominal breathing in chanting are -O.54 and -O.45,which are lower than those in reciting (-O.31 and -O.27).This result indicates that chanters take a deeper breath in each respiratory cycle.Meanwhile,the chanting has a longer inhale duration and steeper inhale slope,and the inhale area is two times larger than that in reciting.The above results indicate that more breath volume is applied in chanting compared with reciting.
+
+3.2 The Difference of the Respiratory Patterns between Reciting and Chanting ci
+
+Similar respiratory pattern is applied in chanting ci (or classical Chinese poetry from Song Dynasty） with larger inhale amplitude and breath volume,and longer exhale phase.
+
+Table 3 shows the average chest and abdominal breathing parameter of the chanting and reciting 39 poems.It can be seen that the exhale reset amplitude is larger in chanting compared with reciting. The exhale duration and area of exhale phase in chanting are two times larger than those in reciting.The exhale curve of abdominal breathing in chanting declines much slowly than that in reciting which yields a larger slope,and is indicative of gradual and continual contraction of the abdominal muscles. To summarize,more breathing volume is consumed in chanting,and it is released gradually through the continual contraction of the abdominal muscles.
+
+Table 3.Comparison of parameters of exhale phase between chanting and reciting of Song poems   
+
+<html><body><table><tr><td colspan="2"></td><td>amplitude of exhale reset</td><td>duration of exhale(s)</td><td>slope of exhale phase</td><td>area of exhale phase</td></tr><tr><td rowspan="2">chest breathing</td><td>reciting</td><td>0.21</td><td>5.16</td><td>-0.06</td><td>17.43</td></tr><tr><td>chanting</td><td>0.07</td><td>3.35</td><td>-0.01</td><td>7.03</td></tr><tr><td rowspan="2">abdominal reciting breathing</td><td></td><td>0.58</td><td>3.85</td><td>-0.19</td><td>18.99</td></tr><tr><td>chanting</td><td>0.37</td><td>1.95</td><td>-0.25</td><td>7.72</td></tr></table></body></html>
+
+Table 4 shows the average inhale parameters of the chest and abdominal breathing in chanting and reciting ci.Like those in chanting modern-style poems,a deeper breath is taken in chanting than in reciting poems,which indicates more breathing volume is taken into the lungs.The inhale reset amplitudes of the chest and abdominal breathing reach -O.56 and -O.41,respectively,lower than their counterparts in reciting (-O.4O and -O.14). Other parameters show that chanting poems involves longer inhale duration and steeper inhale slope.The inhale phase area in chanting is two times larger than that in reciting.
+
+Table 4. Comparison of parameters of inhale phase between chanting and reciting of Song poems   
+
+<html><body><table><tr><td colspan="2"></td><td>amplitude of inhale reset</td><td>duration of inhale(s)</td><td>slope of inhale phase</td><td>area of inhale phase</td></tr><tr><td rowspan="2">chest</td><td>reciting</td><td>-0.56</td><td>0.88</td><td>1.89</td><td>6.83</td></tr><tr><td></td><td></td><td>0.55</td><td>1.25</td><td></td></tr><tr><td rowspan="2">abdominal</td><td></td><td>-0.40</td><td></td><td></td><td></td></tr><tr><td>chanting</td><td>-0.41 -0.14</td><td>0.72 0.65</td><td>1.10</td><td></td></tr></table></body></html>
+
+3.3 The Effect between Chest and Abdominal Breathing and their Relationship
+
+In speechless natural breathing,abdominal breathing is the major means. The lengths of inhale phase and exhale phase are almost the same.The upper column of Fig.4 indicates chest breathing，while the column below indicates abdominal breathing. In speechless natural breathing,the amplitude of chest breathing is comparatively small,while the abdominal breathing is large.Both are obviously periodical with the inhale and exhale phase almost equal.
+
+![](images/ff7b0786019030f89dc6dec72bae58664aafb343b897846a8c4a515b09652cd4.jpg)  
+Figure 4.The chest and abdominal breathing in speechless natural breathing
+
+When one is speaking,the major effect of chest breathing is to maintain the extended state of the chest,providing enough breath for articulation and chest resonance.The major effect of abdominal breathing is to provide stable sub-glottal pressure through contraction of abdominal muscle and diaphragm，controlling continuous airflow to produce continuous sound.The reset time of abdominal breathing is earlier than the onset time of chest breathing and sound.
+
+The chanting of 8O poems was selected from all samples of the eight chanters and evaluated by 2O college students.The result shows that the samples with good evaluation have a feature in common: the patterns of chest and abdominal breathing are similar. As shown in Fig.5,the onset times of sound and chest breathing (dotted line) overlap,that is,the chest is in the extended state when chanting.The times of inhale and exhale reset of abdominal breathing(solid line) are earlier than chest breathing.Sound begins after the exhale phase of abdominal breathing the curve of which falls slightly.This shows the continuous and tender contraction of abdominal muscle and diaphragm.
+
+![](images/9ec3b82e7b26e8dc9eb961ef0744f34e660ab0173b7bd9329121fb0b139430c3.jpg)
+
+Figure 5.The relationship among chest breathing,abdominal breathing and sound The major effect of chest is to provide enough breath for articulation and chest resonance.The pause or declination of chest breathing is related to prosodic boundaries.Fig.6 shows that chest breathing is related to prosodic boundaries.There are four seven-syllable poem lines in the figure,corresponding to four periods of chest breathing.A,B,C,and D are boundaries between prosodic phrases in one sentence, where chest breathing pauses.Small fluctuations at other positions correspond to boundaries between prosodic words.
+
+![](images/4937c3ef48fe9c3720e1d182979784e8238b013f478813056ff0b7f3c6c555e2.jpg)  
+Figure 6.Chest breathing and prosodic boundaries
+
+# 4.CONCLUSIONANDPROSPECT
+
+This research makes use of chest and abdominal breathing signals associated with reciting and chanting of ancient Chinese poems,in order to study the features of chest and abdominal breathing in different styles of poem and in reciting and chanting,respectively,and the effect of chest and abdominal breathing and their interrelationship. Computer programs for breathing analysis have been written to extract parameters such as breathing reset amplitude,time of inhale phase,and slope of exhale phase.The result shows that:
+
+(1） The feature of chanting poems is that both the amplitude of breathing reset and the amount of breath are larger than in reciting. That is,the depth of breathing,the amount of breath,and the time of exhale increase. (2）The times of inhale and exhale reset of abdominal breathing are earlier than chest breathing.The pause or declination of chest breathing is related to prosodic boundaries. (3) The major effect of chest breathing when speaking is to keep the extended state of the chest, providing enough breath for articulation and chest resonance. (4) The major effect of abdominal breathing is to provide stable sub-glottal pressure through contraction of abdominal muscle and diaphragm， controlling continuous airflow to produce continuous sound.
+
+For further study,barometric pressure and airflow are required to be measured to calculate more exactly the amount of airflow,sub-glottal pressure,and the volume of lungs.Images of lungs obtained by spiral CT or MRI are also needed to model three-dimensional dynamics of the lungs,which play an important role in exploring the breathing mechanism of speech production.
+
+# NOTES
+
+1. This study is supported by funds from National Social Sciences Funds [1O&ZD125], Ministry of Education of China [13YJC740119],China Postdoctoral Science Funds [2014M552277],and Guangzhou Social Science Foundation [13Q03]. Prof. Kong Jiangping read the draft and offered his insights.Prof.Li Yinghao read the whole paper and provided the author with detailed comments and suggestions.Part of the results of this paper was orally presented at 12th National Conference on Man-Machine Speech Communication,2O13,Guiyang, China.
+
+# REFERENCES
+
+BAKEN,R.J., S.A. Cavallo,and K.L.Weissman.1979.Chest wall movements prior to phonation.JournalofSpeech and HearingResearch 22:862-872.   
+HIXON,T.J.,M.D.Goldman,and J.Mead.1973.Kinematics of the chest wall during speech production:Volume displacements of the rib cage,abdomen,and lung.Journal of Speech and Hearing Research 19:297-356.   
+LADEFOGED,P.and G.Loeb.2OO2.Preliminary studies on respiratory activity in speech.UCLA Working Papersin Phonetics 1O1:50-60.   
+LIBERMAN，P. 1967． Intonation， Perception， and Language. Cambridge, Massachusettes: The MIT Press.   
+OHALA,J.J.1990.Respiratory activity in speech.In Speech Production and Speech Modelling，ed.W.J.Hardcastle，A.Marchal，23-53．Dordrecht:Kluwer Academic Publishers.   
+SHI,Feng,Jinyu Zhang,Xuejun Bai,and Zhaohong Zhu. 2O1o.Intonation and Respiration: a PreliminaryAnalysis. Journalof Chinese Linguistics 38(2):323-335.   
+TAN，Jingjing 譚晶晶，Yonghong Li 李永宏，and Jiangping Kong 孔江平．2008. Hanyu Putonghua butong wenti langdu shi de huxi chongzhi texing 漢語普通話 不同文體朗讀時的呼吸重置特徵(Breathing-reset when reading literature in Mandarin).Tsinghua daxue xuebao(ziran kexue ban）清華大學學報(自然科學 版)48(S1):613-620.   
+WU,Zongji 吳宗濟 and Maocan Lin 林茂燦.1989. Shiyan yuyinxue gangyao 實 驗語音學綱要（Compendium of Experimental Phonetics）Beijing:Gaodeng Jiaoyu Chubanshe 高等教育出版社.   
+WANG,W.S-Y王士元.2008.Hongguan yuyinxue 宏觀語音學(Macro Phonetics). In Zhongguo yuyin xuebao 中國語音學報.Beijing 北京:Shangwu Yinshuguan 商務印書館1:1-9.   
+YANG,Feng 楊鋒，Xingquan Hou 侯兴泉,and Jiangping Kong孔江平.2013.Yanyu chansheng de xiongfu huxi jizhi 言語產生的胸腹呼吸機制(Chest and stomach breathing control for speech production). Tsinghua daxue xuebao(ziran kexue ban）清華大學學報(自然科學版）53(6):852-855.
+
+古詩詞朗讀與吟誦的呼吸特徵研究
+
+# 楊鋒\*
+
+暨南大學華文學院 暨南大學亞太語言文化生態研究中心
+
+# 提要
+
+為探討胸腹呼吸在不同文體與不同誦讀方式中的特徵，以及胸腹呼吸的作用和二者的關係，本文同步錄製了8位吟誦人的85首近體詩和39篇詞的語音、胸呼吸和腹呼吸三路信號·使用自主編寫的呼吸分析程式，提取了呼吸重置幅度、吸氣相時間、呼氣相斜率等參數·實驗結果表明，古詩詞吟誦比朗讀中呼吸重置幅度大，即呼吸深度大，氣息量增大，呼氣時間長，氣息更為平緩·言語狀態下腹呼吸重置時間早於胸呼吸和語音起始時間，胸呼吸間斷或下傾與韻律邊界相關。言語狀態下胸呼吸主要作用是在發音時胸腔保持擴張狀態至發音結束，為發音提供足夠的氣息，同時提供胸腔共鳴；腹呼吸主要作用是，通過腹肌和膈肌的穩健收縮，以保證穩定的聲門下壓，控制氣流持續釋放，以獲得連續的語音。
+
+# 關鍵字
+
+胸腹呼吸朗讀吟誦言語產生

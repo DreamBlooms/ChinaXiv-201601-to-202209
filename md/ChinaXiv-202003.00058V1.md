@@ -1,0 +1,249 @@
+# 广藿香FPPS基因原核表达
+
+# 及茉莉酸甲酯对FPPS表达量的影响
+
+卢昌华」，邓文静¹，曾建荣¹，刘键锺¹，张宏意2,3，何梦玲1,2.3，严寒静 1，2,3\*（1.广东药科大学中药学院广东广州 510006；2.国家中医药管理局岭南药材生产与开发重点研究室广州510006；3.中药材国家现代农业产业技术体系广州综合试验站广州510006)
+
+摘要：法尼基焦磷酸合酶（farmesyl diphosphate synthase,FPPS）是广藿香甲羟戊酸途径中萜类物质生物合成的关键酶，其催化异戊二烯焦磷酸(IPP）和二甲基烯丙基焦磷酸（DMAPP)合成萜类物质前体法尼基焦磷酸。为了进一步研究广藿香萜类合成途径的分子机制，本研究通过逆转录聚合酶链式反应获得PTS 基因的cDNA序列，利用生物信息学软件预测 FPPS编码蛋白的理化性质、结构和功能。结果表明该序列的开放阅读框全长 $1 0 5 0 \mathrm { b p }$ ，编码349个氨基酸，预测分子量为 $4 0 \exp$ ，等电点为5.43，存在一个结构域，参与异戊二烯化合物的合成，不存在信号肽，亚细胞定位于细胞质；系统发育分析表明广藿香FPPS氨基酸序列和丹参(Salvia miltiorrhiza Bunge)、撒尔维亚（Salvia officinalis Linn）的氨基酸序列亲缘关系最近。其次，为研究其蛋白的表达情况，该文使用无缝克隆技术构建pET-32b-FPPS原核表达载体，并导入菌株BL21（DE3）中，考察不同浓度异丙基- $\cdot \beta$ -D-硫代半乳糖苷（IPTG）对诱导融合蛋白的表达量的影响。结果发现融合表达蛋白以包涵体形式存在沉淀中，4个浓度的IPTG诱导蛋白表达效果差异不明显。最后，为研究茉莉酸甲酯（MeJA）对FPPS表达量的影响，该文采用荧光定量技术分析0.1、0.25mmoIL°MeJA对FPPS基因表达水平的影响，发现 $0 . 1 \ \mathrm { m m o l { \cdot } L ^ { - 1 } \ M e J \ A }$ 诱导后FPPS基因的表达量的趋势是先升高后降低再升高再降低；0.25 mmol· ${ \mathrm { L } } ^ { - 1 }$ MeJA诱导后FPPS基因的表达量的趋势是先降低后升高再降低。推测植物体内MeJA浓度的变化能影响FPPS基因的表达，高浓度具抑制作用，低浓度具促进作用。本研究为广藿香萜类合成途径的研究奠定基础，为后续基因功能验证提供理论参考。
+
+关键词：广藿香，法尼基二磷酸，无缝克隆，茉莉酸甲酯，荧光定量PCR中图分类号：Q943 文献标识码：A
+
+# Prokaryotic expression of FPPS gene from Pogostemon cablin and the effect of Methyl Jasmonate on the expression
+
+# of FPPS
+
+LU Changhua’，DENG Wenjing1， ZENG Jianrong1，LIU Jianzhong1， ZHANG Hongyi1,2.3，HE Mengling123，YANHa2 (1.GuangdongPharmaceutical University,Guangzhou 5106,China;2.KeyLaboratoryofStateAdministration
+
+基金项目：国家自然科学基金项目（81773829）[Supported by the National Natural Science Foundation of China(81773829)]  
+作者简介：卢昌华，（1994-），男，广东汕头人，硕士研究生，主要从事生药学研究工作，(E-mail)862978903@qq.com。  
+\*通信作者：严寒静，博士，教授，硕士研究生导师，主要从事中药资源品质评价研究工作，(E-mail)yanhanjing1211 $@$ 163.com。
+
+ofTraditional Chinese Medicine for Production &DevelopmentofCantonese Medicinal Materials,Guangzhou 510006, China; 3.Comprehensive Experimental Station of Guangzhou, Chinese Materia Medica, China Agriculture Research System, Guangzhou 510006, China)
+
+Abstract: Farnesyl diphosphate synthase (FPPS),a key enzyme for terpene biosynthesis in patchouli mevalonate pathway， catalyzes isoprene pyrophosphate $( I P P )$ and dimethylallyl Diphosphate pyrophosphate (DMAPP) into farnesyl pyrophosphate.Firstly, in order to study the molecular mechanism of terpenoid synthesis pathway in patchouli, this study obtained the cDNA sequence of the FPPS gene by reverse transcription,and used bioinformatics software to predict the physicochemical properties，structure and function of the protein encoded by FPPS. The results show that the open reading frame of the sequence is 1 O5O bp in length and encodes 349 amino acids. The predicted molecular weight of the expressed protein is $4 0 ~ \mathrm { K D }$ . The isoelectric point of the protein is 5.43.And there is a domain involved in the synthesis of isoprene compounds .There is no signal peptide in the protein,and its subcellular localization is in the cytoplasm. Phylogenetic analysis shows that the amino acid sequence of patchouli FPPS is closest to the amino acid sequence of Salvia miltiorrhiza and Salvia japonica. Secondly, in order to study the expression of FPPS protein，the effect of different concentrations of isopropyl- $\cdot \beta$ -Dthiogalactoside on the expression of the fusion protein was examined. The result indicated that fusion-expressed protein was present in the form of inclusion bodies. And there was no significant difference in the expresson of protein induced by 4 concentrations of IPTG. Finally, in order to study the effect of methyl jasmonate (MeJA) on the expression of FPPS,this experiment used fluorescence quantitative technology to analyze the effects of O.l and $0 . 2 5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ MeJA on the expression level of FPPS gene.The results found that the expression of FPPS gene after 0.1 mmol- ${ \mathrm { L } } ^ { - 1 }$ MeJA induction was first increased, then decreased, then increased and then decreased. However, after $0 . 2 5 \mathrm { \ m m o l { \cdot } L } ^ { - 1 }$ MeJA induction, the expression of FPPS gene tended to decrease first, then increase and then decrease.It is speculated that high concentrations of MeJA have an inhibitory effect, and low concentrations of MeJA have a promoting effect. This study lays the foundation for the research on terpenoid synthesis pathways of patchouli and provides a theoretical reference for subsequent gene function verification.
+
+Key words: Pogostemon cablin, farnesyl pyrophosphate, seamless cloning, methyl jasmonate, qPCR
+
+广藿香来源于唇形科刺蕊草属植物Pogostemoncablin 的干燥地上部分，在我国海南地区和岭南地区均有栽培，常用于治疗暑湿导致的各种表证，也用于湿浊导致的胃皖不适。目前，广藿香不仅作为一种药用植物，同时也作为一种香料植物。广藿香油含有140多种生物活性物质，其中包括萜类化合物和类黄酮（Mallappa＆Uma，2015），常用于缓解抑郁和压力，镇静神经，控制食欲，改善性欲；同时还具有杀虫，抗菌和抗真菌的特性（Albuquerqueet al.,2013；Rocha et al.,2018）。广藿香醇作为广藿香油的主要成分之一，是一种广泛用于香水和化妆品的三环倍半萜化合物（Pauletal.,2010），可作为紫杉醇的化学合成起始化合物（Blowman etal.,2018）。近年来随着广藿香药用价值不断被挖掘，医药和香料行业对广藿香的需求日益增加，因此，研究广藿香中重要化合物合成的分子机制，提高广藿香药材中挥发油的含量，特别是广藿香醇含量，具有重要意义。
+
+异戊二烯基二磷酸合酶有两种立体结构，分别属于E家族和Z家族，在E家族中，异戊二烯链中的碳原子在双键的相反侧（反式），其家族主要合成短链类异戊二烯；而对于Z家族，异戊二烯链中的碳原子在双键的同一侧（顺式），主要合成长链类异戊二烯。法尼基焦磷酸合酶是类异戊二烯途径的主链延伸酶，属于异戊二烯基二磷酸合酶的 E 家族。催化二甲基烯丙基（DMAPP）二磷酸（C5）的连续缩合和香叶基二磷酸（C10）的烃基加成到异戊烯基（IPP）二磷酸（C5）中，生成法尼基焦磷酸（FPP）的E-异构体（C15）（Thulasiram&Poulter，2006；Kellogg&Poulter，1998）。FPPS是类异戊二烯途径合成化合物的分支点，相当于化合物合成的发散点。因此，一旦FPPS活性或结构的改变会使下游类异戊二烯化合物产生较大差异，使流向各个化合物分支的碳通量产生变化，从而影响到下游萜类物质表达，所以FPPS在类异戊二烯代谢的调节中起着至关重要的作用。FPPS除了是合成类异戊二烯的关键酶外，还在成纤维细胞生长因子介导的信号转导中起作用。FPPS在成纤维细胞中的过表达也增加了Ras信号蛋白的法尼基化作用，并激活细胞外Ras／ERK信号的级联反应(John etal.,2002)。在药物研究方面，FPPS酶可充当药物开发的分子靶标。Beek etal.（1999）通过在牛脑上使用C14标记甲羟戊酸，异戊烯基焦磷酸和二甲基烯丙基焦磷酸，证明了FPPS是含氮的双麟酸酯 NBps 的细胞内靶标。随着对FPPS酶功能的深入研究，越来越多功能被挖掘，将有望提高其在药品研发和生产中的作用，为前沿医学研究做贡献。
+
+茉莉酸甲酯的母体结构为环戊酮，是茉莉酸经过甲酯化产生的化合物，作为植物体内的内源信号分子，在植物的新陈代谢、次生产物合成、抗病虫害和抗逆性方面发挥重要作用（Fung etal.,2004）。一般情况下，茉莉酸甲酯因为其挥发性和分子特性，可以从植物的气孔进入植物体内，从而实现长距离的信号传导和植物间的信息交流（徐伟和严善春，2004）。茉莉酸甲酯进入植物体后进一步被水解成茉莉酸，茉莉酸的产生会刺激不同种类的次生代谢产物的生物合成，比如生物碱尼古丁，异喹啉，硫代葡萄糖苷，花青素，倍半萜化合物青蒿素和萜类吲哚生物碱等。当昆虫啃食植物时，植物通过释放特异性的应激子，从而产生挥发性物质参与到防御中，在在这一系列的信号传导中，茉莉酸被认为是这一过程的核心物质（Kessler etal.,2004）。Thaler（1999）发现用茉莉酸处理过的烟草植株挥发性物质的量会增加，在一定程度上提高了烟草害虫被寄生蜂寄生的概率。Ozawa et al.（2009）和 Zhou et al.（2009）研究发现利马豆植株在经过茉莉酸处理后能够释放萜类挥发物，从而引诱捕食性螨虫来捕食叶螨、细须螨、跗线螨和癭螨等有害螨。
+
+茉莉酸甲酯的信号传导会使植物挥发性物质的增加，倍半萜类化合物是挥发性物质的重要组成成分，而法尼基焦磷酸又是合成倍半萜化合物的重要前体物质，因此研究茉莉酸甲酯对法尼基焦磷酸基因的表达调控，对于揭示茉莉酸甲酯在植物之间的信号传导及植物发挥抗病虫害的机制具有重要作用。
+
+本研究对广藿香的FPPS基因进行克隆，采用无缝克隆构建Pet-32b-FPPS原核表达载体，进行原核蛋白小量表达，并对FPPS进行生物信息学分析；与此同时利用荧光定量PCR技术研究茉莉酸甲酯对FPPS 基因表达量的影响，以期对进一步研究广藿香的倍半萜生物合成途径及茉莉酸甲酯对FPPS的调控表达机制奠定基础。
+
+# 1材料
+
+# 1.1广藿香叶片
+
+广藿香植株种源来自海南省儋州市，移栽至广东药科大学中药学院种植，经刘基柱副教授鉴定为唇形科刺蕊草属植物广藿香（Pogostemoncablin）。
+
+# 1.2 菌株
+
+大肠杆菌感受态 $\mathrm { D H } 5 \alpha$ 、蛋白表达菌株BL21(DE3）均购自北京庄盟国际生物基因科技有限公司。
+
+# 1.3仪器和试剂
+
+仪器：电子天平CP214（奥豪斯仪器有限公司）；紫外微分光光度计（K5500Plus，北
+
+京凯奥科技发展有限公司）；PCR仪T100（Bio-RadLaboratories,Inc）；电泳仪DYCP-31CN（北京六一生物科技有限公司）；凝胶成像仪Tocan320（上海领成生物科技有限公司）；  
+蓝光切胶仪BD-BGC1（无锡博弗瑞德生物科技有限公司）；冷冻离心机3K15（SIGMA）；  
+恒温摇床QYC-200（上海福玛实验设备有限公司）；荧光定量PCR仪（Biorad CFX96）；  
+细胞破碎仪（SONICSVCX750）；
+
+试剂：TRIpureReagent（北京艾德莱生物科技有限公司）；FastKing一步法RT-PCR 试剂盒；琼脂糖（Biowest 公司）；DNA 纯化回收试剂盒、质粒小提试剂盒；pGM-TFast ligationkit（天根生化科技有限公司）；SYBR@Green Pro Taq HS 预混型qPCR 试剂盒、Evo M-MLVRT 试剂盒（艾科瑞生物）；6xprotein loading buffer、Blue Plus Protein Marker（北京全式金生物技术有限公司）；pET-32b 质粒、SE 无缝克隆和组装试剂盒、DL2000 Marker、ExRed核酸电泳染料（北京庄盟国际生物基因科技有限公司）。
+
+# 2方法
+
+# 2.1广藿香总RNA的提取
+
+按照 TRIpure Reagent试剂盒说明书提取RNA，根据FastKing一步法RT-PCR 试剂盒得到cDNA，将产物进行 $1 \%$ 琼脂糖凝胶电泳鉴定，切胶回收目的片段，并测定cDNA的浓度和纯度， ${ \boldsymbol { - 2 0 } } \ { \boldsymbol { \circ } } { \boldsymbol { \mathrm { C } } }$ 保存。
+
+# 2.2FPPS基因的T-A克隆
+
+按pGM-TFastligation 试剂盒说明书进行T-A克隆。导入 $\mathrm { D H } 5 \mathrm { a }$ 感受态细胞后，用引物FPPS-F:ATGGCGAATCCGAACGGAGC，FPPS-R: TTATTTCTGTCTCTTGTAAATCTTGCC进行菌液PCR鉴定。取阳性克隆菌液过夜培养，使用质粒提取试剂盒提取质粒，检测浓度及纯度，取适量质粒送擎科生物科技有限公司测序，剩余质粒 ${ \cdot 2 0 } ^ { \circ } \mathrm { C }$ 保存，测序结果使用contigeexpress软件进行序列拼接，并用Blastn进行序列比对。
+
+# 2.3无缝克隆构建pET-32b-FPPS原核表达载体
+
+2.3.1FPPS基因和pET-32b载体同源臂的引入
+
+FPPS基因PCR反应体系:pGM-T-FPPS重组质粒 $\mathrm { ( 1 0 0 n g \cdot \mu L ^ { - 1 } ) 1 \mu L }$ ，引物FPPS-pET-F$\mathrm { { ( 1 0 \mu m o l { \cdot } L ^ { - 1 } } }$ ） $1 . 2 5 { \mu \mathrm { L } }$ ，引物FPPS-pET-R（ $\cdot \mu \mathrm { M } \cdot \mathrm { L } ^ { - 1 } .$ ） $1 . 2 5 \mu \mathrm { L }$ ，PrimeSTAR $\textsuperscript { \textregistered }$ Max DNAPolymerase $2 5 \mu \mathrm { L }$ ， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 补足至 ${ 5 0 \mu \mathrm { L } }$ 。（引物FPPS-pET-F:ACGACGACGACAAGGCGAATCCGAACGGAG，引物FPPS-pET-R：AGGGGTTATGCTAGTTATTTCTGTCTCTTG）
+
+pET-32b 载体PCR反应体系：pET-32b 载体 $( 6 0 { \mathrm { n g } } { \cdot } { \mu } \mathrm { L } ^ { - 1 } ) 1 { \mu } \mathrm { L }$ ，引物pET-F( $1 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ ）$1 . 2 5 \mu \mathrm { L }$ ，引物pET-R( $\cdot 1 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ ） $1 . 2 5 \mu \mathrm { L }$ ，PrimeSTAR $\textsuperscript { \textregistered }$ Max DNAPolymerase $2 5 { \mu \mathrm { L } }$ ， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 补足至 ${ 5 0 \mu \mathrm { L } }$ 。（引物 pET-F:GAGACAGAAATAACTAGCATAACCCCTTGG，pET-R:CGTTCGGATTCGCCTTGTCGTCGTCGTCGGTAC)
+
+FPPS基因和pET-32b载体PCR反应条件： $9 5 ^ { \circ } \mathrm { C }$ 预变性 $3 \mathrm { m i n }$ ， $9 8 ^ { \circ } \mathrm { C }$ 变性 $1 0 \mathrm { { s } }$ ， $5 5 ^ { \circ } \mathrm { C }$ 退火 $5 \mathrm { ~ s ~ }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸6s，共35个循环； $7 2 ^ { \circ } \mathrm { C }$ 终延伸 $5 \mathrm { m i n }$ 。产物经 $1 \%$ 琼脂糖凝胶电泳鉴定后切胶回收，并检测浓度及纯度， ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存备用。
+
+# $2 . 3 . 2 F P P S$ 基因与pET-32b线性化载体的环化
+
+按照无缝克隆试剂盒说明书对FPPS基因和pET-32b 线性化载体进行环化，环化后导入$\mathrm { D H } 5 \alpha$ 感受态细胞进行克隆，挑取单菌落小量培养后进行菌液PCR验证，阳性克隆菌株培养后提取质粒后送测序。测序结果拼接后与T-A克隆测序结果比对，同时确认目的条带插入位点是否准确。
+
+# 2.4广藿香FPPS基因蛋白的小量表达
+
+分别考察不同温度 $( 2 0 , 2 5 , 3 0 , 3 7 ^ { \circ } \mathrm { C } )$ 、不同浓度的 IPTG（1、0.75、0.5、0.25 mmol·L-1)
+
+诱导下蛋白的表达情况。
+
+分别取 ${ 5 0 \mu \mathrm { L } }$ 各浓度IPTG 诱导得到的上清、沉淀和对照空白菌液，加入 $1 0 \mu \mathrm { L } 6 \times$ 蛋白上样缓冲液， $1 0 0 ^ { \circ } \mathrm { C }$ 加热 $1 0 \mathrm { m i n }$ ，取 $1 0 \mu \mathrm { L }$ 样品进行电泳，电泳条件为 $8 0 \mathrm { V }$ ， $2 0 \mathrm { m i n }$ ；120V， $8 0 \mathrm { m i n }$ ，总电泳时长 $1 0 0 \mathrm { { m i n } }$ 。
+
+电泳结束后使用考马斯亮蓝染色过夜，脱色后进行拍照。
+
+# 2.5广藿香FPPS基因的生物信息学分析
+
+采用 Expasy 在线分析平台对FPPS编码的蛋白进行一级结构和理化性质进行分析；采用TMHMM2.0预测蛋白跨膜结构；使用 SignalP4.1在线预测蛋白是否含有信号肽；使用ProtComp9预测蛋白的亚细胞定位；使用 SOPMA预测蛋白结构域；使用 SWISS-MODEL在线软件，基于同源建模的方法，构建FPPS的三级结构模型。
+
+利用MEGA7.0软件将本实验获得的FPPS基因编码的氨基酸序列和GenBank上收录的其他植物61种植物的FPPS基因编码的氨基酸序列进行多序列比对，并构建系统发育树。
+
+# 2.6MeJA对广藿香FPPS表达量的影响
+
+2.6.1材料的选取及处理
+
+取30 株扦插半年、生长状态良好的广藿香，搬至恒温室中培养数天以使植物适应实验环境，配制好 $0 . 1 , 0 . 2 5 \mathrm { m m o l { \cdot } L } ^ { - 1 }$ 茉莉酸甲酯溶液，均匀喷洒在植物叶片上，覆上保温膜 $^ { \textrm { 1 h } }$ 于2019年8月26号9点开始取样，分别于0、2、6、12、24、48、72h采摘成熟的叶片，迅速置于液氮中速冻后放于 $. 8 0 ^ { \circ } \mathrm { C }$ 冰箱保存。
+
+# 2.6.2RNA的提取及cDNA第一链的合成
+
+RNA 提取和2.1方法一致，cDNA 第一链合成根据 EvoM-MLVRT 试剂盒说明书进行。
+
+2.6.3引物设计及验证
+
+根据广藿香FPPS基因和内参基因18SrRNA的mRNA序列，采用CmSuite8软件设计PCR引物，引物由擎科新业生物技术有限公司合成。QFPPS-F：AGGTCCCTAAGGTTGGTATG;QFPPS-R:GGAACTCCACCTCATTGAAC;内参基因 18S 引物 18S-F:TCAACCATAAACGATGCCGACC；18S-R:TTTCAGCCTTGCGACCATACTCC。验证FPPS及内参基因使用 $1 0 ~ \mu \mathrm { L }$ 体系，RT-PCR 程序为预变性 $9 8 ^ { \circ } \mathrm { C }$ ， $3 0 ~ \mathrm { s }$ ；变性 $9 8 ^ { \circ } \mathrm { C }$ ， $1 0 ~ \mathrm { s }$ ；复性 $5 3 ^ { \circ } \mathrm { C }$ ， $3 0 ~ \mathrm { s }$ 延伸 $7 2 ^ { \circ } \mathrm { C }$ ， $1 \mathrm { m i n }$ ；终延伸 $7 2 ^ { \circ } \mathrm { C }$ ， $7 \mathrm { m i n }$ ；中间3步进行40个循环。反应结束后使用 $1 \%$ 琼脂糖电泳进行检测。
+
+# 2.6.4荧光定量PCR反应
+
+荧光定量PCR反应按 SYBRGreen Pro TaqHS 预混型qPCR 试剂盒的说明书进行，样本和内参都设置了3个平行，在96孔板中进行，以 $1 \mathrm { m L }$ 无水乙醇稀释同样倍数后喷洒于广藿香作为对照组。
+
+# 2.6.5数据统计与分析
+
+每个样品设置3个重复，使用2-△CT法对荧光定量的数据进行处理，基因的表达量为2-△△CT，处理组和对照组的 $\Delta C \mathrm { T = }$ 目标基因的CT值一同一样本内参基因的CT值，△△CT$\ O =$ 处理组的 $\Delta$ CT一对照组的 $\Delta C \mathrm { T }$ ，最后利用统计学软件SPSS 对数据进行显著性分析。
+
+# 3结果
+
+# 3.1广藿香总RNA的提取与FPPS的cDNA的合成
+
+提取到3个平行组的总RNA完整性都较好，OD260/280为1.8， $1 \%$ 琼脂糖凝胶电泳显示18S，28S条带清晰，能满足后续实验需要，见图1。使用一步法逆转录试剂盒得到的cDNA进行电泳显示在 $1 \ 0 0 0 { \sim } 1 \ 5 0 0 \ \mathrm { b p }$ 之间有清晰明亮的条带，见图2。
+
+![](images/1e9442696c58a7040414e0a13d49cd6b3874f6236d46a99c58d2cb0e243bf8f4.jpg)  
+图1RNA琼脂糖凝胶电泳
+
+![](images/a54aa2bccd910942d49a89dccebfe449722d67ad1935e789e681c2bf462ddfad.jpg)  
+图2cDNA琼脂糖凝胶电泳   
+Fig.2 cDNA agarose gel electrophoresis
+
+# 3.2广藿香FPPS基因的T-A克隆
+
+构建完T载体后，进行菌液PCR验证阳性克隆，将阳性克隆菌株培养后提取质粒后送擎科生物有限公司测序，测序结果进行BLAST，结果显示与NCBI上其他植物的FPPS基因有很高匹配度，上传到GenBank，登录号为MN326318。
+
+![](images/e978b9eb0776e41c76c734ee28724f6201aafa2a56e2b7c506a32445710711ac.jpg)  
+Fig.1RNAagarose gel electrophoresis
+
+# 3.3无缝克隆构建原核表达载体
+
+FPPS基因和pET-32b载体引入同源臂后，使用 $1 \%$ 琼脂糖电泳检测，结果显示FPPS基因在1000\~1500 bp 有明显条带,pET-32b 载体片段在5500 处有一清晰明亮条带，见图3。无缝克隆后再转入 $\mathrm { D H } 5 \mathrm { a }$ ，挑取8个菌落进行菌液PCR验证，8个菌落全部转化成功，见图4
+
+注：1.DL2000 Marker；2.FPPS基因；3.pET-32b 线性化载体片段；4.DL15000 Marker。Note:1.DL2000 Marker; 2.FPPS gene; 3. pET-32b linearized vector fragment; 4.DL15000 Marker.图3引入同源臂后的FPPS基因和pET-32b 琼脂糖电泳图Fig. 3 FPPS gene and pET-32b agarose electrophoresis after introduction of homology arms注：1.DL2000Marker；2.空载体菌液；3-9.融合表达载体菌液。
+
+![](images/983dc04c49dd0135c1d2d63cd414e89ea44d570a556049507e189e3b9954771e.jpg)  
+Fig.4PCR verification resultsof bacterial solution
+
+Iote:1.DL2Ooo Marker;2.Empty carrier bacteria liquid; 3-9.Bacterial fluid containing fusion expresson vec
+
+# 图4菌液PCR验证结果
+
+# 3.4FPPS蛋白的表达
+
+控制 $2 0 ^ { \circ } \mathrm { C }$ 、 $1 3 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ ，分别对含有0、0.25、0.5、0.75、1.0 mmol ${ \mathrm { L } } ^ { - 1 }$ IPTG 的菌液诱导 $6 \mathrm { { h } }$ 进行考察，结果发现，pET-32b-FPPS 菌株表达的蛋白为硫氧还蛋白-FPPS融合蛋白，分子量为 $5 0 \mathrm { K D }$ 左右，从图5可明显看出，融合蛋白没有在上清表达，而是以包涵体形式存在于沉淀。在 $2 0 ^ { \circ } \mathrm { C }$ 不同浓度IPTG诱导下可看出，融合蛋白在的表达量没有显著差异。
+
+注：1.蛋白marker；2.pET32b-FPPS未诱导全菌；3.1.0 mmol $\mathrm { L } ^ { - 1 }$ IPTG 诱导上清； $4 . 1 . 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ IPTG   
+诱导沉淀； $\mathsf { 5 . 0 . 7 5 \ m m o l { \cdot } L ^ { - 1 } }$ IPTG 诱导上清； $6 . 0 { . } 7 5 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ IPTG 诱导沉淀； $7 . 0 . 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ IPTG 诱导上   
+清； $\mathbf { 8 . 0 . 5 \ m m o l { \cdot } L } ^ { - 1 }$ IPTG诱导沉淀； $\mathbf { 9 . 0 . 2 5 \ m m o l { \cdot } L ^ { - 1 } }$ IPTG 诱导上清； $\mathbf { 1 0 . 0 . 2 5 \ m m o l { \cdot } L ^ { - 1 } }$ IPTG 诱导沉淀。 Note:1.Protein marker; 2. pET32b-FPPS uninduced whole bacterial protein; 3.1.0 mmol. ${ \mathrm { L } } ^ { - 1 }$ IPTG induced supernatant protein; 4.1.0 mmol ${ \mathrm { L } } ^ { - 1 }$ IPTG induced precipitated protein; 5. 0.75 mmol- ${ \mathrm { L } } ^ { - 1 }$ IPTG induced supernatant protein; $6 . 0 . 7 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ IPTG-induced precipitation of protein; $7 . 0 . 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ IPTG-induced supernatant protein; 8. 0.5 mmol ${ \mathrm { L } } ^ { - 1 }$ IPTG-induced precipitation of protein; $9 . 0 . 2 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ IPTG-induced supernatant protein; $\mathbf { 1 0 . 0 . 2 5 \ m m o l { \cdot } L ^ { - 1 } }$ IPTG-induced precipitated protein.
+
+![](images/4cc202d57b65591e56f9b5d91fe7fd17727dbe70418dccef90b056f89450f886.jpg)  
+图5FPPS蛋白小量表达电泳图  
+Fig.5 Small expression electropherogram of FPPS protein
+
+# 3.5生物信息学分析
+
+FPPS基因的开放阅读框全长为 $1 0 5 0 \mathrm { b p }$ ，编码349个氨基酸。与其他61种植物的FPPS的氨基酸序列的系统发育树表明，广藿香的FPPS 氨基酸序列与同为唇形科的丹参和撒尔维亚氨基酸序列的亲缘关系最近，聚为一支，可信度为 $84 \%$ ，它们与杜仲科、毛茛科、龙胆科、兰科植物聚为一大类；其他植物大都以同科属聚为一类，见图6。
+
+56 橡胶树Hevea brasiliensisKP677545.2 木薯Manihot esculenta AMN82833.1 橡胶树2 H.brasiliensis Z49786.1 蓖麻Ricinuscommunis KT306005.1 印度Safed MusliChlorophytumborivilianumKM2722 白羽扁豆LupinusalbusU15777.1 84 紫苜蓿Medicago sativaGU361537.1 绞股蓝GynostemmaKJ917160.1 土沉香Aquilaria sinensis KC708224.1 81 90 树棉GarboreumY12072.1 99 陆地棉GossypiumhirsutumKU513440.1 巴旦木Prunus persica KJ789372.1 99 苹果Malusxdomestica AY083165.1 99 西洋梨PyruscommunisKF855953.1 99 99 辣椒C.annuum X84695.1 番茄Lycopersicon esculentum AFO48747.1 红参 PanaxsokpayensisKT936527.1 60 草ValerianaofficinalisKP735611.1 22 栀子Gardenia jasminoidesMG811940.1 99 68 白桦BetulaplatyphyllaKP729177.1 21 青钱柳Cyclocarya paliurus GU121224.1 52 64 94 忙果Mangiferaindica JNO35296.1 83 雷公藤TripterygiumwilfordiiKMo58712.1 向日葵HelianthusannuusAFO19892.1 三七Panax sokpayensis AMT75532.1 32 印度人参WithaniasomniferaHM855234.1 99 X6177 44 99 99 甘菊Matricariachamomilla KJ130321.1 86 丹参Salvia miltiorrhiza HQ687768.1 撒尔维亚SalviaofficinalisKY399787.1 广藿香Pogostemoncablin MN326318 芍药Paeonia lactiflora KP708571.1 黄龙胆Gentiana lutea ABO17371.1 13 52 杜仲Eucommiaulmoides AY162472.2 73 霍山石斛 Dendrobium huoshanense AHC30884.1 99 铁皮石斛Dendrobium officinale JX679465.1 99 99 台湾线A46. 7 39 春兰Cymbidium goeringii JXo50150.1 28 蝴蝶兰Phalaenopsis japonica MG018616.1 腊梅Chimonanthuspraecox FJ415102.1 野生番茄Solanumhabrochaites FJ194969.1 37 龙骨马尾杉Huperziacarinata JXo27510.1 99 蛇足石杉 Huperzia serrata JXO27508.1 37 菊花ChrysanthemumxmorifoliumKT8o9342.1 虎眼万年青OrnithogalumlongebractKF509889.1 99 东方泽泻 Alisma orientale HQ724508.1 泽泻Alisma plantago HQ668175.1 川贝母Fritillaria cirrhosaMG674920.1 99 暗紫贝母FritillariaunibracteataKX9o0485.1 4 99 浦竹仔Indosasahispida KX819311.1 玉米Zea L39789.1 28 普通小麦 Triticumaestivum JX235717.1 99 麝香百合Liliumlongiflorum JF273657.1 69 乐昌含笑Michelia chapensis GQ214406.1 小果野蕉Musaacuminata AF470318.1 红姜花Hedychiumcoccineum JN695015.1 22 Plagiochasma appendiculatum JQ905263.1
+
+FPPS基因编码的蛋白质的分子量为 $4 0 \exp$ ，等电点为5.43。氨基酸组成中，酸性氨基酸（Asp，Glu）占 $1 4 . 1 \%$ ，碱性氨基酸（Lys，Arg）占 $1 1 . 7 \%$ ，极性氨基酸(Asn，Cys，Gln,Ser，Thr，Tyr)占 $2 6 \%$ ，疏水氨基酸占 $3 5 . 2 \%$ ，负电荷残基占 $49 \%$ ，正电荷残基占 $41 \%$ 。脂肪系数为91.89,不稳定系数为34.47,在酵母体内半衰期大于 $2 0 \mathrm { h }$ ,在大肠杆菌体内大于 $1 0 \mathrm { { h } }$ 推测其蛋白质比较稳定。TMHMM2.0预测蛋白全部位于膜外，无跨膜区域。使用PSORTI在线软件预测亚细胞定位于细胞质。
+
+SOPMA预测FPPS氨基酸序列共有4种二级结构。其中 $\mathfrak { a }$ -螺旋氨基酸有214个，占氨基酸总数的 $6 1 . 3 2 \%$ ，参与链延伸的氨基酸占 $7 . 1 6 \%$ ，有25个， $\beta$ -转角氨基酸有9个，占氨基酸总数的 $2 . 5 8 \%$ ，无规则卷曲有101个氨基酸参与，占氨基酸总数的 $2 8 . 9 4 \%$ ，图7。
+
+使用 SMART在线软件预测FPPS基因编码蛋白的结构域，结果发现FPPS有一个结构域，包含 266个氨基酸残基，从39\~304（aa序列），可能参与异戊二烯化合物的合成。
+
+使用SignalP5.0预测FPPS蛋白不具有脂蛋白信号肽(Sec/SPII)、Tat信号肽(Tat/SPI)或其他信号肽。
+
+采用 SWISS-MODEL 软件对FPPS 蛋白进行同源建模，以单萜合酶 FDS-5 和叶绿体-法尼基焦磷酸合酶1的嵌合体为（SMTLID：4kk2.1，相识度： $7 5 . 6 6 \%$ ）模板蛋白，构建FPPS蛋白三级结构模型。GMQE 值（Global ModelQuality Estimation）为0.86；（GMQE 评分区间为0\~1，越靠近1表示模型越可靠)QMEAN值（Qualitative Model Energy Analysis）为-0.35（QMEAN 值在0附近，表明模型结构与相似尺寸的实验结构具有良好的一致性。 $\mathbf { - } 4 . 0$ 或以下的分数表示模型质量较差），从两个值可以看出构建的3D模型比较可靠，可以较好预测FPPS蛋白结构，见图8。
+
+![](images/0fb46c52c27bdd973176fcc7f585c02371aeb76fae9a3e9ac82d0ce3ab0b5154.jpg)
+
+注：蓝色代表 $\mathfrak { a }$ 螺旋，红色代表链的延伸，绿色为 $\beta$ 转角，紫色代表无规则卷曲。
+
+Note: Blue represents alpha helix,red represents chain extension, green represents beta rotation,and purple represents random curl.
+
+![](images/1895b9fbdf89eec04aa2d1a484f2635bb168089224db6ac21c38f4f9313724c3.jpg)  
+图7FPPS基因编码的蛋白的二级结构预测  
+Fig.7 Secondary structure prediction of proteins encoded by the FPPS gene   
+图8FPPS基因编码的蛋白的三级结构预测模型
+
+Fig. 8 Tertiary structure prediction model of protein encoded by FPPS gene
+
+# 3.6茉莉酸甲酯对FPPS基因表达量的影响
+
+以对照组的FPPS基因的表达量为1, $0 . 1 \ \mathrm { m m o l { \cdot } L ^ { - 1 } }$ 茉莉酸甲酯诱导下48、72hFPPS 的表达量与对照组有极显著性差异； $0 . 2 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 茉莉酸甲酯诱导下 $4 8 \ : \mathrm { h } \ : F P P S$ 的表达量与对照组有极显著性差异。两个浓度的茉莉酸甲酯诱导下的FPPS 基因的表达量均在 $^ { 4 8 \mathrm { ~ h ~ } }$ 达到最高。 $0 . 1 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 茉莉酸甲酯诱导下的FPPS基因的表达量的趋势随着诱导时间先升高后降低再升高后降低； $0 . 2 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 茉莉酸甲酯诱导下的FPPS基因的表达量的趋势随着诱导时间先降低后升高再降低，见图9。
+
+注：\*\*表示和对照组有极显著差异（ ${ \cal P } { < } 0 . 0 1$ ）。
+
+![](images/c73ad87707c4cb0098e5c87995711d6f31995a5cf463a05b4e5a7c557a78a9f3.jpg)  
+图9不同浓度MeJA对FPPS基因表达量的影响
+
+Note： \*\* Significantly different from the control group $( P { < } 0 . 0 1 )$
+
+Fig.9 Effects of different concentrations of MeJA on the expression of FPPS gene
+
+# 4讨论
+
+# 4.1FPPS蛋白的结构和功能预测
+
+FPPS基因预测编码的蛋白质的等电点为5.43，本实验做小量表达发现蛋白在沉淀中以包涵体存在，因此如果后续做包涵体的复性和纯化实验，复性溶液配制时pH要尽量高于等电点，避免复性后出现沉淀；蛋白的亚细胞定位和跨膜预测结果表明FPPS基因只存在于细胞质中，这与前人的报道结果（马转转等，2015）相吻合，这有利于后续学者研究广藿香相关萜类合成部位和进行定向转基因，比如使用叶绿体转运肽将FPPS基因和下游基因导入叶绿体中，实现目标萜类化合物在叶绿体的大量表达。SMART预测结果表明FPPS有一个参与异戊二烯化合物合成的结构域，从结构上看，底物二甲丙稀基焦磷酸和异戊稀基焦磷酸均为 ${ \bf C } _ { 5 }$ 结构，而法尼基焦磷酸为 $\mathbf { C } _ { 1 5 }$ 结构，并且为直链产物，所以该结构域可能参与碳链的连接，先催化底物生成10个C的牛儿基焦磷酸后再生成 $\mathbf { C } _ { 1 5 }$ 的法尼基焦磷酸。
+
+# 4.2茉莉酸甲酯对FPPS基因的调控效果
+
+植物体内关键酶基因的表达量往往受到时间、空间和温度的影响，并且同一植物的不同部位其表达量也有一定的差异性，刘璐等（2016）通过实时荧光定量分析1天中8个不同时间段的广藿香醇合酶基因的表达情况，发现不同时间段基因的表达量有很大差异，并且在3点时广藿香醇合酶基因表达量最高。吴耀生等（2007）发现在一年生的三七中，鲨烯合酶基因的表达量是根>芦头>茎。本次实验只针对茉莉酸甲酯对成熟叶片中FPPS基因表达量的影响，并在实验过程中对同一时间同一样品都提取多个RNA后进行混合，减少实验过程中叶片个体差异。后续实验将对不同成熟度的叶片（老叶、嫩叶、成熟叶）进行研究，以期进一步了解MeJA对植物萜类合成的作用机制。
+
+外源施加的 MeJA 对FPPS 基因的表达量密切相关。FPPS 基因的表达量在施喷低0.1mmol- ${ \mathrm { L } } ^ { - 1 }$ MeJA后先升高后降低再升高再降低，然而在施喷 $0 . 2 5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } M e J A }$ 后FPPS基
+
+因的表达量是先降低后升高再降低。
+
+在 $0 . 2 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 } \mathrm { M e } \mathrm { J }$ A诱导下，植物吸收大量MeJA后，在0、2、6h阶段FPPS基因表达量是出现抑制情况，MeJA在植物体内降解后FPPS表达量在12、24、 $4 8 \mathrm { h }$ 阶段是升高的，说明这一阶段的茉莉酸甲酯浓度能促进FPPS基因的表达，进一步降解后FPPS表达量降低，植物慢慢恢复原有水平。
+
+在 $0 . 1 \ \mathrm { m m o l { \cdot } L ^ { - 1 } \ M e J A }$ 诱导下，植物吸收MeJA的量比较少，在 $2  { \mathrm { h } }$ 还未出现抑制状态，因此在 $2 \mathrm { ~ h ~ } F P P S$ 基因表达量在是先升高的，植株逐渐吸收MeJA后浓度达到一定水平，出现了抑制，FPPS基因表达量在6、12、24h阶段是逐步降低的，植物对茉莉酸甲酯降解后达到适宜浓度，MeJA浓度对FPPS表达量又出现了促进作用，在 $4 8 \mathrm { ~ h ~ } F P P S$ 基因表达量升高，进一步降解后 $7 2 \mathrm { { h } }$ 表达量降低。
+
+茉莉酸甲酯浓度越高，植物富集的越快，更快出现抑制情况。综合两个浓度的MeJA对FPPS基因表达量的影响可以推测在植物体内高浓度的茉莉酸甲酯会抑制FPPS基因的表达，低浓度茉莉酸甲酯能促进FPPS基因的表达。
+
+在萜类生物合成的途径中，转录因子通过与相关的合成酶基因5'端上游的启动子元件相互结合，从而抑制或增强相关萜类的合成。此外，转录因子还可以对代谢通路上多个其他靶点进行同时调控，使其他基因的表达也受到影响并使基因表达趋向于产生相类似的代谢产物，从而达到多个靶点调控的作用（Aharoni&Galili，2011）。随着医药行业的高速发展，萜类物质在临床上的作用不断被挖掘，使萜类化合物的需求量逐渐增加，但是由于萜类化合物结构的复杂性使化学合成遇到极大阻碍，目前大部分萜类化合物只能依靠从原植物中提取获得。因此，从分子水平上来调控原植物中萜类的代谢从而提高萜类化合物产量成为科研工作者的研究热点，而从关键酶基因的转录水平上进行调控更是研究的必然趋势。
+
+# 参考文献：
+
+AHARONI A，GALILI G，2011. Metabolic engineering of the plant primary-secondary metabolism interface.[J]. Curr Opin Biotechnol, 22(2):239-244.   
+ALBUQUERQUE ELD，LIMA JANAINA KA， SOUZA FHO,et al.， 2013. Insecticidal and repellence activity of the essential oil of Pogostemon cablin against urban ants species [J]. Acta Trop,127(3):181-186.   
+BEEK E V, PIETERMAN E, COHEN L,et al.，1999. Farnesyl pyrophosphate synthase is the molecular target of nitrogen-containing bisphosphonates[J]. Biochem Biophys Res Comm, 264(1):0-111.   
+BLOWMAN K, MAGALHAES M, LEMOS MFL, et al., 2018. Anticancer properties of essential oils and other natural products[J]. Evid-Based Compl Altern,(2O18):1-12.   
+FUNG RWM, WANG CY, SMITH DL, et al.， 2O04. MeSA and MeJA increase steady-state transcript levels of alternative oxidase and resistance against chiling injury in sweet peppers (Capsicum annuumL.)[J]. Plant Sci, 166(3):1-719.   
+REILLY JF, MARTINEZ SD, MICKEY G, et al., 20O2. A novel role for farnesyl pyrophosphate synthasein fibroblastgrowth factor-mediated signal transduction[J]. BiochemJ, 366(2):501-510.   
+KESSLER A, HALITSCHKE R, BALDWIN IT, 2OO4. Silencing the jasmonate cascade: Induced plant defenses and insect populations[J]. Science, 305(5684):665-668.   
+KELLOGG BA，POULTER CD，1998. Chain elongation in the isoprenoid biosynthetic pathway[J]. Curr Opin Chembiol, 1(4):570-578.   
+LIU L,WU YG, YU J et al., 2O16. Expression analysis of PTS gene of Pogostemon Cablin at diferent time points[J].JTrop Biol,7(1):89-91.[刘璐，吴友根，于靖，等，2016．藿香中 PTS 基因不同时间点的表达分析[J]．热带生物学报，7(1)：89-91.]   
+MA ZZ,PANG XQ, CHEN R et al., 2O15. Research advances of key enzymes in the biosynthesis pathways of isoprenoids[J]. JHangzhou Norm(Nat Sci Ed),14(6):608-615.[马转转,庞潇卿, 谌容，等，2015．萜类化合物生物合成途径中关键酶的研究进展[J]．杭州师范大学学报 （自然科学版），14(6)：08-615.]   
+MALLAPPA S, UMA S,2015.A comprehensive review on the phytochemical constituents and pharmacological activities of Pogostemon cablin Benth.: An aromatic medicinal plant of Industrial Importance[J]. Molecules,20(5): 8521-8547.   
+OZAWA R,ARIMURA GI, TAKABAYASHI J, et al.，2OO0. Involvement of jasmonate- and salicylate-related signaling pathways for the production of specific herbivore-Induced volatiles in plants[J]. Plant Cell Physiol, 41(4):391-398.   
+PAUL A, THAPA G, BASU A,et al., 2010. Rapid plant regeneration,analysis of genetic fidelity and essential aromatic oil content of micropropagated plants of Patchouli, Pogostemon cablin (Blanco） Benth. -An industrially important aromatic plant[J]. Ind Crops Products, 32(3):366-374.   
+ROCHA AG, OLIVEIRA BMS, MELO CR,et al., 2018.Lethal effect and behavioral responses of leaf-cutting Ants to essential oil of Pogostemon cablin (Lamiaceae） andits nanoformulation[J]. Neotrop Entomol, 47(6): 769-779.   
+XU W,YAN SC,2OO4. The function of Jasmonic acid in induced plant defence[J]. Acta Ecol Sinica,25(8):2074-2082.[徐伟，严善春，2004．茉莉酸在植物诱导防御中的作用[J]．生 态学报，25(8):2074-2082.]   
+THALER JS. 1999. Jasmonate-inducible plant defences cause increased parasitism of herbivores[J]. Nature, 399(6737):686-688.   
+THULASIRAM HV，POULTER CD，2006.Farnesyl Diphosphate Synthase:The art of compromise between substrate selectivity and stereoselectivity[J]. J Am Chem Soc, 128(49):15819-15823.   
+WU YS, ZHU H,LI S,et al., 2OO7. Transcription expression of squalene synthase gene in root, stem and rootstock of Panax notoginseng and synthesis of triterpenoids[J]. Chin J Biochem Mol Biol,23（12):1000-1005.[吴耀生，朱华，李坤，等，2007．三七鲨烯合酶基因 在三七根、茎、芦头中的转录表达与三萜皂苷合成[J]．中国生物化学与分子生物学报, 23 (12): 1000-1005.]   
+ZHOU G, QI J, REN N, et al., 2009. Silencing OsHI-LOX makes rice more susceptible to chewing herbivores,but enhances resistance to a phloem feeder[J].Plant J, 6O(4):638-648.

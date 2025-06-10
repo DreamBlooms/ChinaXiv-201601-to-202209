@@ -1,0 +1,136 @@
+1 二乙烯三胺/一氧化氮聚合物诱导的奶牛外周血单个核细胞氧化损伤模型的建立  
+2 郑亚光齐敬宇张博綦史彬林闫素梅\*
+
+（内蒙古农业大学动物科学学院，呼和浩特010018）
+
+4 摘要：本试验旨在利用二乙烯三胺/一氧化氮聚合物(DETA/NO）作为一氧化氮(NO)供体，  
+5 以细胞存活率和抗氧化指标作为判断依据，确定建立奶牛外周血单个核细胞（PBMC）的氧  
+6 化损伤模型的适宜条件。试验分2部分进行。试验1采用单因子完全随机试验设计，以不同  
+7 浓度[0（对照）、50、100、200、300、 $5 0 0 \mathrm { \textmu m o l / L }$ ）]的 DETA/NO 作为刺激源，在 $3 7 \ \mathrm { { ^ circ C } }$ 下  
+8 分别作用细胞2、4、6、8、 $1 2 \mathrm { h }$ ，通过测定细胞存活率，初步确定适宜的DETA/NO作用时间。试验2根据试验1得出的DETA/NO 适宜作用时间，以不同浓度[0（对照）、50、100、200、300、 $5 0 0 \mathrm { \textmu m o l / L }$ ）]的DETA/NO 作为刺激源，依据抗氧化指标、炎症因子含量进一步筛选出适宜的DETA/NO 作用浓度。结果显示：200 μmol/LDETA/NO 作用细胞 $^ { 4 \mathrm { h } }$ ，PBMC存活率降低至 $7 2 . 3 \%$ ，超氧化物歧化酶、过氧化氢酶、谷胱甘肽过氧化物酶活性均较对照组显著降低 ( $. P { < } 0 . 0 5 )$ ，白细胞介素-1、白细胞介素-6、肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ 、丙二醛和 NO 含量均较对照组显著上升（ $P { < } 0 . 0 5 )$ 。结果提示，在 $3 7 \ \mathrm { { ^ circ C } }$ 下，DETA/NO 诱导 PBMC 建立 PBMC氧化损伤模型的适宜作用浓度和作用时间分别为 $2 0 0 \mu \mathrm { m o l / L }$ 和 $^ { 4 \mathrm { h } }$ 。
+
+关键词：奶牛外周血单个核细胞；二乙烯三胺/一氧化氮聚合物；氧化损伤中文分类号：S823 文献识别码：A 文章编号：
+
+高产奶牛尤其是泌乳高峰期的奶牛，由于较高的营养需求和代谢水平，通常伴随着自由基类代谢产物的增加。过量的自由基可以诱导动物机体产生脂质过氧化，引起细胞膜结构和功能的改变，造成机体的抗氧化应激能力、免疫功能及炎症应答能力下降，使奶牛对疾病的易感性增强。研究表明，从妊娠后期到围产期和泌乳高峰期，奶牛氧化应激水平的进程性提高是导致免疫功能障碍的主要原因[1-2]。因此，深入探讨奶牛机体的氧化应激发生机制、减缓氧化应激的发生、提高其免疫功能对保障奶牛的健康生产具有重要的理论与实际意义。一氧化氮（NO）是生物体内的一种气体信号分子和活性氮自由基，存在于多种细胞（如巨噬细胞、肝细胞、肌细胞和内皮细胞等）中，主要具有免疫调节、神经信号传递、血压生理调控和血小板凝聚抑制等生理功能[3]。研究证实，NO的浓度与机体多种信号通路的活性和炎症反应有关，低剂量的NO 对维持机体免疫功能、血流量、血小板凝集反应和神经传递等内环境的稳定具有重要的生理作用，而过多的NO 通常伴随有炎症和免疫紊乱。诱导型一氧化氮合酶（iNOS）在生理情况下不表达，而在炎症状态下iNOS 被激活产生大量NO，导致组织损伤，加剧炎症进程[4]，由此得出，NO 的过量产生可能是引起奶牛氧化应激产生的原因之一。本课题组的前期研究表明，高剂量二乙烯三胺/一氧化氮聚合物（DETA/NO）使奶牛乳腺上皮细胞（bovine mammary epithelial cells，BMEC）产生明显的氧化应激反应，并已成功建立NO 诱导的BMEC 氧化损伤模型[5]。奶牛外周血单个核细胞（peripheral bloodmononuclear cell，PBMC）是一类重要的免疫效应细胞，能够反映机体感染及疾病的发生，其抗氧化应激能力与奶牛的抗氧化功能和免疫功能密切相关。目前，关于PBMC 氧化应激发生机制的研究报道较少。有研究认为，分布于巨噬细胞的iNOS 在机体的免疫应答后激活并产生过量的NO，是引起PBMC氧化应激和机体炎症反应加剧的原因之一[]。鉴于此，本研究以DETA/NO为NO供体，筛选NO 的作用浓度与作用时间，建立奶牛体外PBMC 的NO 损伤模型，为通过体外法揭示奶牛PBMC的氧化应激机制，进一步缓解高产奶牛氧化应激提供基础性理论依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+PBMC，采用单次密度梯度离心分离法分离培养制备；RPMI-1640 基础培养基购自美国Gibco 公司；台盼蓝、牛PBMC 分离液，购自天津市灏洋生物制品科技有限责任公司；DETA/NO，购自美国 Sigma 公司；CellCounting Kit-8（CCK-8)，购自上海碧云天生物技术有限公司；磷酸盐缓冲液（PBS)，购自美国HyClone公司。
+
+# 1.2DETA/NO培养液的配制
+
+准确称取 $1 0 \mathrm { m g }$ DETA/NO 溶于 $6 1 2 . 8 ~ \mu \mathrm { L }$ 的超纯水中，配制成浓度为 $0 . 1 \mathrm { m o l / L }$ 的母液，配制方法参照本课题组前期试验[5]。再将DETA/NO 母液按试验要求配制成不同浓度（0、50、100、200、300、 $5 0 0 \mathrm { \textmu m o l / L }$ ）的DETA/NO 贮备液。取不同浓度的DETA/NO 贮备液加入到 RPMI-1640 基础培养基中，配制成 DETA/NO 终浓度分别为0、50、100、200、300、$5 0 0 \mathrm { \textmu m o l / L }$ 的细胞培养液。各细胞培养液中除DETA/NO 浓度不同外，其他成分均相同。将上述细胞培养液经 $2 2 \mu \mathrm { m }$ 的过滤器过滤，现用现配，避光保存。
+
+# 1.3PBMC的培养
+
+本试验利用单次密度梯度离心分离法分离培养PBMC,分离培养方法参照天津灏洋TBD牛PBMC分离液说明书。健康奶牛尾静脉采血后， $1 2 \mathrm { h }$ 内进行PBMC 分离。将血液样本用RPMI-1640 基础培养基稀释1倍后，小心地将血液加于牛PBMC 分离液上方， $1 5 ~ \mathrm { m L }$ 离心管中稀释后血液与分离液比例为1:1， $4 0 0 { \sim } 5 0 0 { \times } g$ 分离 $4 0 \mathrm { m i n }$ （离心机温度低于 $2 5 \ \mathrm { { ^ \circ C } }$ ，细胞获得率高低与室温有关，超过 $2 5 \ \mathrm { { ^ \circ C } }$ 时会影响细胞获得率)，离心后由上至下分为4层，第1层为血浆层，第2层为环状乳白色PBMC层，第3层为透明分离液层，第4层为红细胞层。吸取第2层，并用PBS 重悬清洗细胞， $2 5 0 \times g$ 离心 $1 0 \mathrm { m i n }$ 后弃上清，重复清洗细胞2次后，将细胞接种于 $2 5 \mathrm { c m } ^ { 2 }$ 培养瓶中，于 $3 7 \ \mathrm { { ^ circ C } }$ 、 $5 \% C O _ { 2 }$ 培养箱中培养，培养 $6 8 \mathrm { ~ h ~ }$ 后将细胞离心后收集进行后续试验。在细胞培养结束前 $^ { 4 \mathrm { h } }$ 取部分细胞用台盼蓝进行染色并计数活细胞数0 $( > 9 5 \%$ ）
+
+1.4 试验设计
+
+试验分为2个部分。试验1采用单因子完全随机试验设计，将细胞离心后重悬于不同浓度的 DETA/NO 培养液中，以 $6 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 的密度接种于96孔培养板中，并随机分为30个组，每组8个重复，细胞培养液中DETA/NO 的终浓度分别为0、50、100、200、300、$5 0 0 \mathrm { \textmu m o l / L }$ ，并在 $3 7 \ \mathrm { { ^ circ C } }$ 下分别作用2、4、6、8、 $1 2 \mathrm { h }$ ，通过测定其对细胞存活率的影响，初步筛选 DETA/NO 适宜的作用时间，其中以 $0 ~ { \mu \mathrm { m o l / L } }$ 为对照组。试验2采用单因子完全随机试验设计，将培养后得到的PBMC 以 $6 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 的密度接种于24孔培养板中，并随机分为6个组，每组6个重复，细胞培养液中DETA/NO 的终浓度分别为0、50、100、200、300、 $5 0 0 \mathrm { \textmu m o l / L }$ ，在 $3 7 \ \mathrm { { ^ circ C } }$ 下以试验1筛选得出的DETA/NO 适宜作用时间为DETA/NO 的处理时间，通过检测细胞培养液抗氧化指标和炎症因子，进一步筛选出DETA/NO 的适宜作用浓度，其中以 $0 \mu \mathrm { m o l / L }$ 为对照组。
+
+# 1.5样品采集与处理
+
+将 24孔培养板中的细胞培养液以重复为单位，分别收集于 $1 . 5 \mathrm { m L }$ Eppendorf离心管中，于 $4 \mathrm { { ^ \circ C } }$ 、 $1 0 \ : 0 0 0 \times g$ 离心 $5 \mathrm { m i n }$ ，收集上清液用于抗氧化指标与炎症因子的测定，样品采集与处理方法参照本课题组前期相关试验[7]。
+
+# 1.6 测定指标与方法
+
+1.6.1细胞存活率
+
+采用CCK-8法检测细胞存活率，以吸光度值反映细胞的数量[8。按照试验1的试验设计将细胞悬液以 $6 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 的密度接种于96孔培养板， $1 0 0 ~ \mu \mathrm { L }$ 的细胞悬液加入CCK-8的体积为 $1 0 ~ \mu \mathrm { L }$ ，避光 $3 7 \ \mathrm { { ^ \circ C } }$ 孵育 $ { 4 \mathrm { h } }$ 后在波长 $4 5 0 \ \mathrm { n m }$ 处检测各孔的吸光度值（ $\mathrm { O D } _ { 4 5 0 \mathrm { n m } } )$ ，各组的细胞存活率用相对于对照组 $\mathrm { O D } _ { 4 5 0 \mathrm { n m } }$ 的百分比表示。对照组的细胞存活率表示为$100 \%$ 。细胞存活率 $( \% ) =$ （试验组 $\mathrm { O D } _ { 4 5 0 \mathrm { n m } }$ 一空白组 $\mathrm { O D } _ { 4 5 0 \mathrm { n m } }$ )/（对照组 $\mathrm { O D } _ { 4 5 0 \mathrm { n m } }$ 一空白组 $\mathrm { O D } _ { 4 5 0 \mathrm { n m } }$ ）$\times 1 0 0$ 。
+
+# 1.6.2抗氧化指标与炎症因子
+
+抗氧化指标：超氧化物歧化酶(SOD)活性采用黄嘌呤氧化酶法测定，过氧化氢酶（CAT）活性采用比色法测定，谷胱甘肽过氧化物酶（GPx）活性采用二硫代二硝基苯甲酸法测定，丙二醛（MDA）含量采用硫代巴比妥酸（TBA）法测定，操作步骤按照试剂盒说明书进行，试剂盒购自南京建成生物工程研究所。
+
+炎症因子：NO、白细胞介素-1（IL-1）、白细胞介素-6（IL-6）和肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ (TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ）含量均采用双抗体夹心法测定，具体操作按照试剂盒说明书进行，试剂盒购自美国R&D 公司。
+
+# 1.7数据统计与分析
+
+试验数据用Excel2007进行初步整理，采用SAS9.0统计软件中的ANOVA程序进行单因素方差分析，应用Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 表示差异显著。
+
+2结果
+
+2.1DETA/NO作用浓度与作用时间对PBMC存活率的影响
+
+由表1可以看出，与对照组相比，作用时间为 $4 { \sim } 1 2 \mathrm { h }$ 时，所有作用浓度的DETA/NO对PBMC存活率均具有显著的降低作用( $_ { , P < 0 . 0 5 ) }$ ，且随着DETA/NO作用浓度的增加,PBMC存活率呈逐渐的降低趋势。作用时间为 $^ { 4 \mathrm { h } }$ 时，DETA/NO 作用浓度为 50、 $1 0 0 \mathrm { \ : \mu m o l / L }$ 时，PBMC存活率组间差异不显著（ $_ { . P > 0 . 0 5 ) }$ ，但数值上有下降的趋势；DETA/NO作用浓度为$2 0 0 { \sim } 5 0 0 ~ \mathrm { \mu m o l / L }$ 时，PBMC存活率随作用浓度的增加显著下降（ $( P { < } 0 . 0 5 )$ ；作用浓度为300、
+
+$5 0 0 \ \mathrm { \textmu m o l / L }$ 时PBMC存活率分别为 $5 9 . 3 \%$ 和 $4 7 . 7 \%$ ，显著低于作用浓度为50、100和200$\mu \mathrm { m o l / L }$ 时（ $_ { \cdot } P { < } 0 . 0 5 { \ : } )$ ，作用浓度为50、100 和 $2 0 0 \ \mathrm { \mu m o l / L }$ 时 PBMC 存活率均在 $70 \%$ 以上。作用时间为 $6 , 8 \mathrm { h }$ 的各浓度组中, $1 0 0 { \sim } 5 0 0 \ \mathrm { \mu m o l / L }$ 组作用6h时PBMC存活率为 $3 0 . 9 \% { \sim } 5 4 . 1 \%$ ，作用 $8 \mathrm { ~ h ~ }$ 时 PBMC 存活率为 $2 2 . 1 \% { \sim } 5 2 . 6 \%$ ，均显著低于对照组和 $5 0 ~ \mathrm { \textmu m o l / L }$ 组（ $P { < } 0 . 0 5 )$ ;作用时间为 $1 2 \mathrm { h }$ 的各浓度组中， $1 0 0 { \sim } 5 0 0 ~ \mathrm { \mu m o l / L }$ 组PBMC 存活率为 $2 2 . 5 \% { \sim } 5 0 . 4 \%$ ，显著低于对照组和 $5 0 ~ \mathrm { \textmu m o l / L }$ 组 $( P { < } 0 . 0 5 )$ 。当DETA/NO 作用浓度为 $5 0 ~ \mathrm { \textmu m o l / L }$ 时，作用时间分别为2、4、6h时，PBMC 存活率均在 $80 \%$ 以上，当作用时间延长至8、 $1 2 \mathrm { h }$ 时，PBMC存活率降低，分别为 $7 6 . 8 \%$ 、 $7 5 . 8 \%$ 。当DETA/NO 作用浓度分别为300、 $5 0 0 \ \mathrm { \textmu m o l / L }$ 时，随着DETA/NO作用时间的延长，PBMC存活率分别由 $2 \mathrm { h }$ 的 $8 3 . 7 \%$ 、 $7 9 . 5 \%$ 均降低至 $60 \%$ 以下，最低降到 $2 2 . 1 \%$ 。
+
+表1DETA/NO作用浓度与作用时间对PBMC存活率的影响  
+Table 1 Effects of action concentration and time of DETA/NO on PBMC survival rate %   
+
+<html><body><table><tr><td rowspan="2">DETA/NO作用浓度 DETA/NO action concentration/（μmol/L）</td><td colspan="4">DETA/NO 作用时间 DETA/NO action time/h</td></tr><tr><td>2 4</td><td>6</td><td>8</td><td>12</td></tr><tr><td>0</td><td>100.0</td><td>100.0a</td><td>100.0a</td><td>100.0a</td><td>100.0a</td></tr><tr><td>50</td><td>89.9</td><td>89.9b</td><td>80.6b</td><td>76.8b</td><td>75.8b</td></tr><tr><td>100</td><td>88.3</td><td>87.2b</td><td>54.1c</td><td>52.6c</td><td>50.4c</td></tr><tr><td>200</td><td>85.7</td><td>72.3℃</td><td>47.6cd</td><td>33.6d</td><td>30.2d</td></tr><tr><td>300</td><td>83.7</td><td>59.3d</td><td>43.4d</td><td>31.7d</td><td>24.5d</td></tr><tr><td>500</td><td>79.5</td><td>47.7e</td><td>30.9e</td><td>22.1e</td><td>22.5d</td></tr><tr><td>SEM</td><td>2.45</td><td>2.77</td><td>3.48</td><td>2.14</td><td>4.96</td></tr><tr><td>P值 P-value</td><td>0.080 9</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td></tr></table></body></html>
+
+同列数据肩标相同字母表示差异不显著（ $_ { . P > 0 . 0 5 ) }$ ，不同字母表示差异显著（ $_ { , P < 0 . 0 5 ) }$ 。下表同。
+
+Values in the same column with the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2DETA/NO作用浓度对PBMC抗氧化指标和炎症因子的影响
+
+由表2可以看出，不同浓度的DETA/NO 作用 $^ { 4 \mathrm { h } }$ 后，SOD 活性随着DETA/NO 作用浓度的增加呈下降趋势。当DETA/NO作用浓度为 $5 0 ~ \mathrm { \textmu m o l / L }$ 时，SOD 活性相比对照组差异不显著（ $P { > } 0 . 0 5 )$ ；当DETA/NO 浓度为 $1 0 0 { \sim } 5 0 0 \ \mathrm { \textmu m o l / L }$ 时，SOD活性相比对照组显著降低（ $_ { . } P { < } 0 . 0 5 )$ ,且DETA/NO作用浓度为 $2 0 0 { \sim } 5 0 0 \mu \mathrm { m o l / L }$ 时的 SOD 活性还显著低于DETA/NO作用浓度为 $5 0 ~ \mathrm { \textmu m o l / L }$ 时（ $( P { < } 0 . 0 5 )$ ，尤以作用浓度为 $5 0 0 \mathrm { \textmu m o l / L }$ 时 SOD 活性最低。GPx 和CAT 活性呈现与 SOD活性相似的变化规律,MDA含量则呈现与SOD活性相反的变化规律，且以作用浓度为DETA/NO $5 0 0 \mathrm { \textmu m o l / L }$ 时 $\mathbf { G P x }$ 和CAT 活性最低，MDA 含量最高。
+
+Table 2Effects of DETA/NO concentration on antioxidant parameters of PBMC   
+
+<html><body><table><tr><td colspan="5"></td></tr><tr><td>DETA/NO 作用浓度 DETA/NO action concentration/(μmol/L)</td><td>超氧化物歧化 酶 SOD/(U/mL)</td><td>过氧化氢酶 CAT/(U/mL)</td><td>谷胱甘肽过氧化 物酶 GPx/ (U/mL)</td><td>丙二醛 MDA/ （nmol/mL)</td></tr><tr><td>0</td><td>1.03a</td><td>3.24a</td><td>60.37a</td><td>0.91f</td></tr><tr><td>50</td><td>0.98ab</td><td>3.07a</td><td>56.99ab</td><td>0.97df</td></tr><tr><td>100</td><td>0.93b</td><td>2.25b</td><td>52.45b</td><td>1.02d</td></tr><tr><td>200</td><td>0.82c</td><td>1.97b</td><td>44.26c</td><td>1.99c</td></tr><tr><td>300</td><td>0.66d</td><td>1.45℃</td><td>37.07d</td><td>2.67b</td></tr><tr><td>500</td><td>0.43e</td><td>0.56d</td><td>29.01e</td><td>3.11a</td></tr><tr><td>SEM</td><td>0.020 1</td><td>0.122 5</td><td>1.925 0</td><td>0.081 2</td></tr><tr><td>P值P-value</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td></tr></table></body></html>
+
+由表3结果可以看出，不同浓度的DETA/NO 作用4h后，随着DETA/NO 作用浓度的增加TNF- $\mathbf { \sigma } \cdot \mathbf { a }$ 含量逐渐升高，以 $5 0 0 \mathrm { \textmu m o l / L }$ 组TNF- $\mathbf { \sigma } \cdot \mathbf { a }$ 含量最高；DETA/NO 作用浓度为 50\~500$\mu \mathrm { m o l / L }$ 时的TNF- $\mathfrak { a }$ 含量相较对照组均显著上升（ $\scriptstyle P < 0 . 0 5 .$ )。NO、IL-1、IL-6 含量与TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 含量呈现相似的变化趋势，但DETA/NO作用浓度为 $5 0 ~ \mathrm { \textmu m o l / L }$ 时IL-1含量与对照组相比在数值上呈上升趋势，但差异未达显著水平（ $. P { > } 0 . 0 5 )$ 。
+
+表2DETA/NO 作用浓度对PBMC 抗氧化指标的影响  
+表3DETA/NO 作用浓度对 PBMC 炎症因子含量的影响  
+Table 3Effects of DETA/NO concentration on inflammatory cytokine contents of PBMC   
+
+<html><body><table><tr><td>DETA/NO作用浓度 DETA/NO action</td><td>一氧化氮 NO/（μmol/L）</td><td>白细胞介素-1 IL-1/ (ng/L)</td><td>白细胞介素 -6 IL-6/ （ng/L）</td><td>肿瘤坏死因子 -α TNF-α/ (ng/L）</td></tr><tr><td>0</td><td>190.1e</td><td>130.7d</td><td>150.5f</td><td>131.2e</td></tr><tr><td>50</td><td>205.3d</td><td>134.4d</td><td>155.3e</td><td>159.4d</td></tr><tr><td>100</td><td>213.4dc</td><td>140.5c</td><td>157.9d</td><td>163.3d</td></tr><tr><td>200</td><td>220.2℃</td><td>145.6bc</td><td>162.0c</td><td>170.0c</td></tr><tr><td>300</td><td>249.5b</td><td>150.7ab</td><td>167.0b</td><td>180.6b</td></tr><tr><td>500</td><td>290.3a</td><td>155.5a</td><td>170.3a</td><td>187.7a</td></tr><tr><td>SEM</td><td>2.797 6</td><td>1.806 5</td><td>0.848 5</td><td>1.471 8</td></tr></table></body></html>
+
+<html><body><table><tr><td>P值 P-value</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td></tr></table></body></html>
+
+3讨论
+
+NO 是生物体内的一种气体信号分子和活性氮自由基，介导多种生物功能，如宿主防御、血管舒张等[9]。NO是由 $L$ -精氨酸向 $L$ -瓜氨酸转化过程中生成的，并通过一氧化氮合酶(NOS)内源合成。巨噬细胞来源的NO在生理、病理和炎症反应中起重要作用，然而NO的过量产生引发机体炎症反应及氧化应激[10]。DETA/NO 是人工合成的NO/核苷化合物，无需酶催化便能迅速释放NO且半衰期长，有利于体外试验的长时程观察，是较为理想的外源性NO 供体[]。因此，以DETA/NO 为NO 供体，诱导 PBMC 建立氧化损伤模型，可为科学调控奶牛抗氧化能力及机制研究提供理想的试验平台。
+
+周丽娜等[12]的研究指出，细胞死亡率为 $20 \% { \sim } 3 0 \%$ 可以作为建立小鼠脊髓神经元细胞氧化应激模型的评判标准。Huo 等[13]报道，在小鼠的心肌细胞中，选取细胞存活率为 $4 0 \% { \sim } 5 0 \%$ 作为过氧化氢（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）氧化损伤模型的依据。孙婧陶等[14]指出，以细胞死亡率为 $5 0 \% { \sim } 6 0 \%$ 作为建立延边奶山羊BMEC氧化损伤模型的判别标准。叶新平等[15]在人的体外淋巴细胞损伤试验中，使用低浓度乙醇建立了氧化损伤模型，将乙醇对淋巴细胞的抑制率控制在 $10 \%$ 郭咏梅等[]在用DETA/NO 建立BMEC 损伤模型时，将细胞死亡率控制在 $20 \% { \sim } 3 0 \%$ 作为判断标准。根据上述研究报道可知，由于细胞种类及使用的刺激源不同，细胞对氧化损伤的耐受能力也不相同，在选择细胞损伤标准上也存在差异。
+
+本试验初步确定将细胞死亡率控制在 $20 \% { \sim } 3 0 \%$ 作为判断标准，结果表明，当DETA/NO作用4h后，50、 $1 0 0 \mathrm { \ : \mu m o l / L }$ 组的 PBMC 存活率分别为 $89 . 9 \%$ 和 $87 . 2 \%$ ，而 $2 0 0 \mu \mathrm { m o l / L }$ 组的PBMC 存活率表现出显著下降，为 $7 2 . 3 \%$ 。在全部浓度组中以细胞存活率控制在 $70 \% { \sim } 8 0 \%$ 范围内的DETA/NO 作用浓度与作用时间可供参考的是： $5 0 ~ \mathrm { \textmu m o l / L }$ 作用8或 $1 2 \mathrm { { h } }$ ，PBMC存活率分别为 $7 6 . 8 \%$ 和 $7 5 . 8 \%$ ； $2 0 0 \ \mathrm { \mu m o l / L }$ 作用 $^ { 4 \mathrm { h } }$ ，PBMC存活率为 $7 2 . 3 \%$ ； $5 0 0 ~ \mathrm { \textmu m o l / L }$ 作用 $2 \mathrm { h }$ ，PBMC存活率为 $7 9 . 5 \%$ 。
+
+DETA/NO作用时间为 $2 \mathrm { h }$ 时，各浓度组的PBMC存活率随着作用浓度的增加在数值上有下降的趋势，除 $5 0 0 ~ \mathrm { \textmu m o l / L }$ 组PBMC存活率为 $7 9 . 5 \%$ 外，其余各组PBMC 存活率均在$80 \% { \sim } 9 0 \%$ 之间，表现为细胞在不同浓度的DETA/NO 处理下仍保持较好的生长状况和细胞活力，即 PBMC 对DETA/NO的氧化损伤具有较好的耐受性；但考虑到作用浓度过高不适合作为DETA/NO 损伤的适宜作用浓度。另外，当DETA/NO作用时间为 $1 2 \mathrm { h }$ 时，尽管 $5 0 ~ \mathrm { \textmu m o l / L }$ 组PBMC存活率为 $7 5 . 8 \%$ ，但作用时间过长，不便于试验进行。 $2 0 0 ~ \mu \mathrm { m o l }$ I/LDETA/NO作用时间 $^ { 4 \mathrm { h } }$ ，可使PBMC 存活率降低至 $7 2 . 3 \%$ ，综合作用时间不宜过长、作用浓度不宜过高，初步筛选DETA/NO作用 $^ { 4 \mathrm { h } }$ 即可使PBMC的氧化应激达到较为理想的损伤效果，便于后续试验继续对DETA/NO 的作用浓度进行合理筛选。
+
+活性氧物质的生物效应在体内受到多种酶和非酶防御机制的控制，SOD、CAT、GPx、活性及 MDA 含量可反映出细胞是否受到氧化损伤以及细胞的氧化损伤程度[16]。NO、IL-1、IL-6、TNF-α是当机体发生氧化应激后产生的常见的炎症因子，测定这些炎症因子含量可以进一步反映细胞氧化损伤的程度[17]。因此，细胞氧化应激模型的建立，除了以细胞存活率作为判别指标外，细胞的抗氧化指标和炎症因子含量的变化也是非常关键的判别指标。通过本试验的结果可以看出，与对照组相比，当DETA/NO作用时间为 $^ { 4 \mathrm { h } }$ 、作用浓度为 $1 0 0 { \sim } 5 0 0$ $\mu \mathrm { m o l / L }$ 时，即可引起 SOD、CAT、 $\mathbf { G P x }$ 活性显著下降，MDA含量显著升高；当DETA/NO作用时间为 $^ { 4 \mathrm { h } }$ 、作用浓度为 $5 0 ~ \mathrm { \textmu m o l / L }$ 时，即可引起 NO、IL-6、TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 含量显著上升。如前所述，引起PBMC 存活率达到 $70 \% \sim 8 0 \%$ 的 DETA/NO 作用浓度为 $2 0 0 \mu \mathrm { m o l / L }$ 、作用时间为4h，因此，结合以上抗氧化指标与炎性因子的结果可以得出，以DETA/NO为外源刺激源作用于PBMC 时，当其作用浓度为 $2 0 0 \mu \mathrm { m o l / L }$ 、作用时间为 $^ { 4 \mathrm { h } }$ 时，即可引起PBMC 的氧化应激损伤和抗氧化能力降低，并增强炎症反应。
+
+4结论
+
+以DETA/NO 为刺激源，其在 $3 7 \ \mathrm { { ^ \circ C } }$ 下作用诱导PBMC建立PBMC氧化损伤模型的适宜作用浓度和作用时间分别为 $2 0 0 \mathrm { \ : \mu m o l / L }$ 和 $^ { 4 \mathrm { h } }$ 。
+
+参考文献:
+
+[1]SORDILLO L M,MAVANGIRA V.The nexus between nutrient metabolism,oxidative stress and inflammation in transition cows[J].Animal Production Science,2014,54(9):1204-1214.
+
+[2] ABUELO A,HERNANDEZ J,BENEDITO J L,et al.The importance of the oxidative status of dairy catle in the periparturient period:revisiting antioxidant supplementation[J].Journal of Animal Physiology and Animal Nutrition,2015,99(6):1003-1016.
+
+[3]SCHMIDT HHH W,WALTER U.NO at work[J].Cell,1994,78(6):919-925.
+
+[4]FORSTERMANN U.Nitric oxide and oxidative stress in vascular disease[J].Pfluigers Archiv-European Journal of Physiology,2010,459(6):923-939.   
+[5] 郭咏梅,张博綦,石惠宇,等.二乙烯三胺/一氧化氮聚合物诱导的奶牛乳腺上皮细胞氧化损 伤模型的建立[J].动物营养学报,2016,28(8):2378-2384.   
+[6] JABLONSKA E,PUZEWSKA W,MARCINCZYK M,et al.iNOS expression and NO production by neutrophils in cancer patients[J].Archivum Immunologiae et Therapiae Experimentalis,2005,53(2):175-179.   
+[7] 李俊良,史彬林,闫素梅,等.不同壳聚糖浓度培养液对断奶仔猪外周血淋巴细胞中花生四 烯酸代谢的影响[J].动物营养学报,2014,26(1):184-189.   
+[8] KIM J,PARK S,JUNG C M,et al.A case of cycloserine-induced lichenoid drug eruption supported by the lymphocyte transformation test[J].Allergy,Asthma & Immunology Research,2017,9(3):281-284.   
+[9] 潘会君,唐宁,华晓东,等.中药调控一氧化氮合酶-一氧化氮系统的研究[J].中国实验方剂 学杂志,2010,16(12):202-205.   
+[10] ALDERTON W K,COOPER C E,KNOWLES R G.Nitric oxide synthases:structure,function and inhibition[J].Biochemical Journal,2001,357(3):593-615.   
+[11] KEEFERLK,NIMSRW,DAVIESKM,etal."NONOates"(1-substituted diazen-l-ium-1,2-diolates） asnitricoxide donors:convenientnitricoxidedosage forms[J].Methods in Enzymology,1996,268:281-293.   
+[12] 周丽娜,叶文博.野木瓜注射液及其提取物对脊髓神经元的氧化保护和生长促进作用[J]. 上海师范大学学报（自然科学版）,2011,40(5):540-545.   
+[13] HUO R,SHI Y,XU J J,et al.Antioxidant effect of human selenium-containing single-chain Fv in rat cardiac myocytes[J].Chemical Research in Chinese Universities,2009,25(2):216-219.
+
+[14]孙婧陶,李兆华,张宝修,等.过氧化氢诱导延边奶山羊乳腺上皮细胞氧化损伤模型的建立[J].江苏农业科学,2013,41(10):149-152.
+
+[15]叶新平,彭涛,苏智雄,等.暴露于低浓度乙醇下体外淋巴细胞氧化损伤模型的建立[J].现代预防医学,2010,37(8):1514-1516.
+
+[16] iNAL M E,KANBAK G,SUNAL E.Antioxidant enzyme activities and malondialdehyde levels related to aging[J].Clinica Chimica Acta,2001,305(1/2):75-80.
+
+[17] LINDQVIST D,DHABHAR F S,JAMES S J,et al.Oxidative stress,inflammation and treatment response in major depression[J].Psychoneuroendocrinology,2017,76:197-205.
+
+Establishment of Oxidative Damage Model of Dairy Cow Peripheral Blood Mononuclear Cell Induced by Diethylenetriamine/Nitric Oxide Adduct
+
+ZHENG Yaguang QI Jingyu ZHANG BoqiSHI Binlin YAN Sumei\*   
+(College of Animal Science,Inner Mongolia Agricultural University,Hohhot O1oo18,China) Abstract: This study was conducted to investigate the suitable condition for oxidative damage model ofdairycowperipheralbloodmononuclearcell(PBMC) inducedby diethylenetriamine/nitric oxide adduct (DETA/NO） which provide nitric oxide (NO). The oxidative damage model of PBMC was established by detecting the cell survival rate and antioxidant parameters. The test was divided into 2 parts, test 1 was conducted as a single factor randomized arrangement, PBMC was exposed in DETA/NO with different concentrations [0 (control), 50,100,200,300 and $5 0 0 \ \mathrm { \mu m o l / L } ]$ for 2,4,6,8 and 12 hours at $3 7 \mathrm { ~ \textdegree C }$ ,respectively The suitable action time of DETA/NO was determined by detecting the cel survival rate. Based on the results of suitable action time of DETA/NO in test 1, the cells exposed in DETA/NO with different concentrations [0(control)，50,100,200，300 and $5 0 0 \ \mathrm { \textmu m o l { } L } ]$ in test 2, the suitable action concentration of DETA/NO was further screened by detecting the antioxidant parameters and inflammatory cytokine contents. The results showed that the PBMC survival rate decreased to $7 2 . 3 \%$ ， the activities of superoxide dismutase,catalase and glutathione peroxidase decreased significantly $( P { < } 0 . 0 5 )$ ，and the contents of interleukin-1, interleukin-6,tumor necrosis factor- $\mathbf { \nabla } \cdot \mathbf { a }$ ， malondialdehyde and NO increased significantly $( P { < } 0 . 0 5 )$ ）after treated with $2 0 0 \ \mathrm { \ u m o l / L }$ DETA/NO for 4 hours.It is concluded that the suitable action concentration and action time at $3 7 \mathrm { ~ \textdegree ~ }$ of DETA/NO for establishing the oxidative damage model of dairy cow PBMC are 200 $\mu \mathrm { m o l / L }$ and 4 hours,respectively.   
+Key words: peripheral blood mononuclear cel; diethylenetriamine/nitric oxide adduct; oxidative damage

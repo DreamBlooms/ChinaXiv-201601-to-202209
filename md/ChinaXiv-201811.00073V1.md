@@ -1,0 +1,228 @@
+# 中国干旱内陆河出山径流对流域气象要素与全球气象指数的响应特征研究
+
+祁晓凡}²，李文鹏²，李海涛²，崔虎群'，凤蔚²1中国地质调查局水文地质环境地质调查中心,河北保定071051；2中国地质环境监测院,北京100081)
+
+摘要：干旱内陆河出山径流及其影响因素分析对于流域水资源评价、流域经济生态安全保障具有重要意义。基于1960—2012年塔里木河流域“三源流”与黑河流域的出山径流、降水、气温资料及4个全球气象指数监测数据,采用小波分析方法研究了各水文气象要素的周期特征，以及流域出山径流对气象要素与气象指数的响应特征。结果表明：(1)各水文气象因子多具有1\~2个显著周期,周期多在2\~7a尺度范围内。（2)叶尔羌河、黑河出山径流与流域降水分别在6\~17a $\cdot 2 \sim 1 6$ a周期上关系显著。各出山径流与流域降水、气温的多尺度共振周期性差异，反映了各径流来源构成及其与气象要素年际动态方面的差异。(3)各流域出山径流对气象指数的响应特征不同，这在显著时频域以及径流响应时滞等方面均有表现。此研究可为气候变化条件下干旱内陆河流域生态—水文过程响应及水资源管理提供依据。
+
+关键词：出山径流；气象指数；小波分析；多尺度周期;
+
+中图分类号：P339 文献标识码：A 文章编号
+
+中国西北干旱区水资源紧缺，生态环境脆弱[1],气候变化更是加剧了西北干旱区内陆河流域的水文波动和水资源的不确定性[2]。水资源是制约干旱区绿洲经济社会发展、影响自然生态安全的关键因素[2]。西北干旱区水资源由冰(川)雪融水、降水、基岩裂隙水等构成，主要在干旱内陆河流域上游山区产(汇)流,中、下游产流较少或不产流[1-3],使干旱内陆河出山径流成为干旱内陆河流域水资源量的直接表征。在区域尺度上，出山径流的年内及年际动态(多时间尺度)受产流区气温、降水等的直接影响[4-5];而在全球尺度上,干旱区气温、降水等气象要素又是通过海气相互作用[6-7],由南方涛动指数(SOI)等全球气象指数所制约[8-9]。全球气象指数影响我国西北干旱半干旱区的区域气象条件[6-10],进而影响干旱内陆河流域出山径流[11-12]。
+
+周期项是水文、气象时间序列的重要组成部分[13],且其本身通常由多个不同尺度的周期叠加而成。全球气象指数具有明显的多尺度周期性[9,14-15],我国干旱区气象要素、出山径流同样如此[11]。气候变化条件下,气象要素、气象指数在其多尺度周期上对出山径流等水文要素的作用机制及表现形式是干旱内陆河流域水资源研究的重要科学命题，而当前相关研究成果较少。目前国内干旱内陆河出山径流与气象要素的关系研究多为统计分析[5,16],多尺度周期关系方面,在塔里木河[4]、乌鲁木齐河[17]、黑河[11]等流域见有研究成果。而出山径流对全球气象指数的响应分析，仅见黑河出山径流与北极涛动指数（AOI)的遥相关关系[1 研究。我国西北干旱区内陆河出山径流与气象指标的多尺度分析，尤其是出山径流对全球气象指数的响应分析等的研究尚缺乏较系统的成果。
+
+小波分析是获取水文、气象序列时间一频率特征的有效工具[18-19]。交叉小波变换（Cross WaveletTransform,WT）与小波相干谱（Wavelet Coherence,WTC)可定量评价两时间序列的多尺度共振周期、时段与时滞特征等，在水资源研究中已多应用[4,11,17,20-22]。本文选取塔里木河流域的“三源流”与黑河干流，应用小波分析方法研究流域出山径流对气象要素、全球气象指数的响应特征，基于数理统计分析气象要素、气象指数对出山径流作用机制的表现形式。本文研究有助于直观的展示前述各时间序列间的多尺度耦合特征，可为干旱内陆河流域生态一水文要素的变化及其影响因素分析提供数据支撑。
+
+# 1 研究区概况
+
+塔里木河流域与黑河流域是中国第一与第二大内陆河流域，位于中国西北干旱半干旱地区（图1）。
+
+塔里木河流域主要分布于我国新疆、甘肃，地理坐标为 $7 3 . 4 5 ^ { \circ } \sim 9 6 . 3 8 ^ { \circ } \mathrm { E } , 3 4 . 8 4 ^ { \circ } \sim 4 3 . 3 6 ^ { \circ } \mathrm { N }$ ，流域总面积 $1 . 3 1 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ,包含多个子流域及沙漠。流域干流为塔里木河，其主要源流包括发源于天山南坡的阿克苏河、发源于喀喇昆仑山的叶尔羌河、发源于昆仑山北坡的和田河与发源于天山的开都河等，以上各源流流域面积分别为 $5 . 4 1 \times 1 0 ^ { 4 } \ \mathrm { k m } ^ { 2 } \cdot 8 . 3 9 \times$ $1 0 ^ { 4 } \ \mathrm { k m ^ { 2 } \Omega \cdot 8 . 9 8 \times 1 0 ^ { 4 } \ k m ^ { 2 } \Omega , 1 . 1 3 \times 1 0 ^ { 5 } \ k m ^ { 2 } }$ 。我国最大流动沙漠塔克拉玛干沙漠位于塔里木河流域中部。
+
+黑河流域分布于我国青海、甘肃、内蒙古与蒙古国，地理坐标为 $9 6 . 1 4 ^ { \circ } \sim 1 0 4 . 1 9 ^ { \circ } \mathrm { E } , 3 7 . 7 2 ^ { \circ } \sim 4 3 . 3 3 ^ { \circ }$ N,流域总面积 $2 . 9 0 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ,包含东、中、西3个子流域及巴丹吉林沙漠等，流域主要河流为发源于祁连山北坡的黑河干流。流域边界、河流分布等数据（图1)来源于“寒区旱区科学数据中心”（http：//westdc.westgis.ac.cn/）。
+
+# 2 研究方法
+
+水文气象时间序列具有随机性、模糊性、非线性、非平稳性和多时间尺度等特征，可通过模糊分析、混沌理论、信息熵和小波分析等新方法进行研究[23]。本文采用小波分析方法进行研究,其中连续小波变换（ContinuousWaveletTransform，WT）分析各时间序列的多尺度周期特征，交叉小波变换(XWT)揭示两时间序列波动强烈时段上的多尺度关系，小波相干谱(WTC)则反映全部时段上两序列的多尺度关系[18-19] ○
+
+本文小波变换的计算方法和程序来自TOR-RENCE 等[18]和GRINSTED 等[19],其原理已多有介绍[,11,17-22],不再述。
+
+# 3 数据来源
+
+# 3.1 出山径流
+
+干旱内陆河出山径流包括塔里木河流域上游“三源流”阿克苏河、叶尔羌河、和田河3个子流域出山径流,及黑河流域的黑河干流出山径流。各流域出山径流分别依据1\~2个水文站(表1)的观测资料统计[3,24],得出1960—2012 年共53a 的年值数据。
+
+![](images/559037b4e35d402b3f55e4e506c21e9588925fdfad3f2d371b69a3584a541225.jpg)  
+图1内陆河流域与水文站、气象站分布图  
+Fig.1Inland river basins and distribution of hydraulic and meteorological monitoring stations
+
+# 3.2 气象要素
+
+气象要素为1960—2012年各流域产流区及其周边2\~3个气象站[3,9,24]（表1)的年均气温、年降水量统计数据，来源于中国气象数据网（http：//da-ta.cma. gov.cn/）。
+
+# 3.3 全球气象指数
+
+SOI(南方涛动指数）：指塔希堤（Tahiti）岛（位于法属玻利尼西亚）与澳大利亚的达尔文(Darwin)站的海平面气压差，以此来定量表示南方涛动的强弱。数据来自于美国国家海洋和大气管理局（NO-AA)国家环境预报中心（NCEP）。
+
+NAO(北大西洋涛动）：为冰岛低压与亚速尔高压之间的海平面气压差。气压差的强度控制北大西洋西风的强度、方向，以及风暴路径。NAO是北极涛动(AO)的一部分，NAO随时间变动而没有特定的周期。数据来自NOAA气候预测中心（CPC）。
+
+AO(北极涛动）：为北半球热带外 $1 \ 0 0 0 \ \mathrm { h P a }$ 高度场经验正交函数分析第一模态的时间系数，是北
+
+# 表1研究区水文站、气象站基本信息
+
+Tab.1Basic information of hydraulic and meteorological stations   
+
+<html><body><table><tr><td colspan="6">8-</td></tr><tr><td>站点 类别</td><td>所属 流域</td><td>站点 名称</td><td>经度 /E</td><td>纬度 /N</td><td>高程 /m</td></tr><tr><td>水文</td><td>阿克苏河</td><td>协合拉</td><td>79.62</td><td>41.57</td><td>1 445</td></tr><tr><td>站</td><td></td><td>沙里桂兰克</td><td>78.47</td><td>40.93</td><td>1 950</td></tr><tr><td></td><td>叶尔羌河</td><td>卡群</td><td>75.23</td><td>37.83</td><td>1 461</td></tr><tr><td></td><td>和田河</td><td>乌鲁瓦提</td><td>79.42</td><td>36.87</td><td>1 834</td></tr><tr><td></td><td></td><td>同古孜洛克</td><td>79.90</td><td>36.80</td><td>1 613</td></tr><tr><td></td><td>黑河</td><td>莺落峡</td><td>100.18</td><td>38.80</td><td>1 700</td></tr><tr><td>气象 站</td><td>阿克苏河</td><td>阿克苏</td><td>80.23</td><td>41.17</td><td>1 691</td></tr><tr><td></td><td></td><td>吐尔尕特</td><td>75.40</td><td>40.52</td><td>850</td></tr><tr><td rowspan="5"></td><td></td><td>阿合奇</td><td>78.45</td><td>40.93</td><td>880</td></tr><tr><td>叶尔羌河</td><td>塔什库尔干</td><td>75.32</td><td>37.77</td><td>1 411</td></tr><tr><td></td><td>莎车</td><td>77.27</td><td>38.43</td><td>1398</td></tr><tr><td>和田河</td><td>于田</td><td>81.39</td><td>36.51</td><td>1 422</td></tr><tr><td></td><td>和田</td><td>79.93</td><td>37. 13</td><td>1 664</td></tr><tr><td rowspan="2"></td><td>黑河</td><td>野牛沟</td><td>99.58</td><td>38.42</td><td>3180</td></tr><tr><td></td><td>祁连</td><td>100.25</td><td>38.18</td><td>2 787</td></tr></table></body></html>
+
+半球中高纬度地区大气环流尺度最大、最重要的模态，对东亚气候存在影响。数据来自NOAA气候预测中心（NCEP/CPC）。
+
+PDO(太平洋年代际涛动)：是除去全球平均海表温度后，北太平洋( $5 ^ { \circ } \mathrm { N }$ 以北)月值海表温度异常经验正交函数的第一主分量，数据基于英国气象局（MO）哈德利中心HadSST3。
+
+以上全球气象指数均为1960—2012 年年值数据。
+
+# 4结果与分析
+
+# 4.1 连续小波变换
+
+将各全球气象指数、各流域降水、气温、出山径流序列分别进行连续小波变换（图2），以分析其主要波动周期与显著时段等信息。
+
+各要素均具有不同的多尺度周期性（表2）。对于全球气象指数， $S O I$ 与PDO的多尺度周期较为明显，分别主要有 $3 \sim 5$ a $\cdot 4 \sim 6$ a的短周期与 $1 1 \sim 1 2$ a ${ \ 、 } 9 \sim 1 0$ a的长周期，各周期显著时段不同。NAO与 $A O$ 仅有2\~4a周期，在 $6 0 \mathrm { ~ a ~ }$ 代具有显著性，更长周期不显著。
+
+对于降水，各流域主要有 $2 \sim 4$ a的短周期与4$\sim 7$ a 的长周期,其中4\~7a的周期性较强,该周期在叶尔羌河、和田河与黑河均有分布，显著时段较长。对于气温，各流域均有显著的2\~5a尺度不等的短周期，其中叶尔羌河的周期性最为明显，在 20世纪80、90年代持续分布。
+
+对于出山径流，除叶尔羌河外各流域有2～5a尺度不等的显著周期，阿克苏河的周期性最为明显，主要分布在90年代，其次为黑河流域。
+
+# 4.2气象要素与出山径流的小波变换
+
+将各流域降水、气温与出山径流分别进行交叉小波变换（XWT)与小波相干谱变换（WTC），以分析其共振周期、显著时段及相位关系等（图3，仅绘制典型相关，下同)，揭示出山径流对气象要素的响应特征。
+
+各流域气象要素与出山径流均具有不同的共振周期性特征(表3）。交叉小波变换着重分析两时间序列波动强烈时段上的共振关系，小波相十谱则对波动不强烈的时段也有很好地识别。这使小波相干谱的显著时频域通常会涵盖交叉小波变换的显著时频域，而同时相位关系基本一致（图3）。因此，以小
+
+![](images/4b031070f632ef396463f66e3dcc36e589525ca0d8cc5dd2d3289858c2b1801b.jpg)  
+图2各要素连续小波变换
+
+注：图中红色与蓝色分别表示能量密度的峰值和谷值,颜色深浅表示能量密度的相对变化。黑色粗实线圈闭的区域通过了 $9 5 \%$ 置信水平的标准红噪声检验，黑色细实线下方锥形区域为小波影响锥（Coneof influence,COI)区域，为小波变换数据边缘效应影响较大的区域
+
+# 表2各要素连续小波变换的主要显著周期与时段
+
+Fig.2Continuous wavelet transforms of statistic elements   
+Tab.2Significant periodicities and time of continuous wavelettransform ofstatisticelements   
+
+<html><body><table><tr><td>统计要素</td><td>显著周期／a</td><td>显著时段</td></tr><tr><td>SOI</td><td>3~5</td><td>1968—1973，1976—1988</td></tr><tr><td rowspan="2">PDO</td><td>11~12</td><td>1996—2002</td></tr><tr><td>4~6</td><td>1991—1999</td></tr><tr><td rowspan="2">降水(叶尔羌河)</td><td>9~10</td><td>1998—2001</td></tr><tr><td>3~4</td><td>1993—2001</td></tr><tr><td></td><td>5~7</td><td>1977—1987</td></tr><tr><td>降水(和田河)</td><td>4~6</td><td>1982—1991</td></tr><tr><td>降水(黑河)</td><td>2~3</td><td>1996—2002</td></tr><tr><td></td><td>4~6</td><td>1987—2004</td></tr><tr><td>气温(叶尔羌河)</td><td>2~5</td><td>1985—1998</td></tr><tr><td>气温(黑河)</td><td>2~4</td><td>1965—1970，1996—2003</td></tr><tr><td>径流(阿克苏河)</td><td>3~4</td><td>1991—2000</td></tr><tr><td>径流(黑河)</td><td>2~3</td><td>1995—1998</td></tr><tr><td></td><td>3~5</td><td>1990—1992</td></tr></table></body></html>
+
+波相干谱来分析气象要素与出山径流的多尺度相关关系。
+
+叶尔羌河、黑河流域的降水与出山径流均具有强烈的共振关系。叶尔羌河6～17a共振周期与黑河 $2 \sim 1 6$ a 周期均在1960—2012年全时段显著，两流域径流分别滞后降水约 $2 \sim 4 \ \mathrm { a } _ { \cdot }$ 约0a（同相位），相位关系稳定。黑河流域降水与径流的多尺度同相位关系说明二者的年际动态基本一致，这与作为降水补给型河流,黑河多年径流组成降水占 $5 2 . 4 \%$ [1]的情况一致。
+
+阿克苏河、叶尔羌河、和田河气温与径流均在3$\sim 5$ a 周期尺度上存在显著共振,径流滞后气温约$0 . 5 \sim 1 \mathrm { ~ a ~ }$ 。其中阿克苏河、叶尔羌河相位关系稳定，而和田河则是由80年代之前1a的径流时滞，转变为90年代约0.5a的时滞。在相关文献中，阿克苏河径流以高山冰雪融水补给为主，其比例约为$5 9 . 3 \%$ ;叶尔羌河冰川、永久积雪融水补给占重要地位，比例约为 $5 4 . 0 \%$ ；和田河源头分布着大量现代
+
+![](images/acb0d17bf5c2f945db0031700ad333ccab23d15bd79a17d849fda4278b4cc34c.jpg)
+
+注：图中箭头方向反映了地下水位与降水的相位关系,由左向右的箭头表示二者同相位，由右向左的箭头表示反相位，垂直向下表示降水的小波变换提前地下水位1/4个周期,垂直向上则表示降水提前地下水位3/4个周期。其他的颜色与符号意义与连续小波变换(图2)相同图3各流域气象要素与出山径流的交叉小波变换(XWT)与小波相干谱(WTC)
+
+Fig.3Crosswavelet ransforms(XWT)andwaveletcoherence（WTC)ofmeteorologicalelementswithrespect tomountainousruoff
+
+表3各流域气象要素与出山径流小波变换的共振周期性特征  
+Tab.3Periodicities of wavelet transforms of meteorological elements with respect to runoff   
+
+<html><body><table><tr><td>变换类型</td><td>流域</td><td>变换序列</td><td>显著周期／a</td><td>显著时段</td><td>径流时滞／a</td></tr><tr><td>交叉小波</td><td>阿克苏河</td><td>气温一径流</td><td>3~5</td><td>1991—1999</td><td>约0.5</td></tr><tr><td rowspan="10"></td><td>叶尔羌河</td><td>降水一径流</td><td>2~4</td><td>1992-1996</td><td>约1.5</td></tr><tr><td></td><td></td><td>5~7</td><td>1976—1987</td><td>约2.5</td></tr><tr><td></td><td>气温一径流</td><td>2~5</td><td>1987—1996</td><td>约0.5</td></tr><tr><td>黑河</td><td>降水一径流</td><td>2~3</td><td>1994—2002</td><td>约0.0</td></tr><tr><td></td><td></td><td>3~8</td><td>1982—2004</td><td>约0.0</td></tr><tr><td></td><td>气温一径流</td><td>3~4</td><td>1994—2002</td><td>约0.0</td></tr><tr><td>阿克苏河</td><td>气温一径流</td><td>3~5</td><td>1988—2012</td><td>约0.5</td></tr><tr><td>叶尔羌河</td><td>降水一径流</td><td>3~5</td><td>1980—1986</td><td>约2.0</td></tr><tr><td></td><td></td><td>6~17</td><td>1960—2012</td><td>约2~4</td></tr><tr><td></td><td>气温一径流</td><td>3~5</td><td>1986—1997</td><td>约0.5</td></tr><tr><td></td><td>和田河</td><td>气温一径流</td><td>3~5</td><td>1960—1972,1974—1979,1989—1995</td><td>约0.5~1</td></tr><tr><td></td><td>黑河</td><td>降水一径流</td><td>2~16</td><td>1960—2012</td><td>约0.0</td></tr></table></body></html>
+
+冰川,有研究表明其比例约为 $5 9 . 5 \% ^ { [ 2 - 3 ] }$ 。以上结论在本文小波变换中有较好的反映，即影响冰雪(川)融水补给的气温与出山径流有较好的显著共振（图3），多尺度相关关系更为明晰。
+
+# 4.3全球气象指数与出山径流的交叉小波变换
+
+全球气象指数与各流域出山径流分别进行交叉
+
+![](images/e0e70de8ae7135bef986b9c3630bde527b02f624b40c8c5d7175e4b1fdd141a3.jpg)  
+图4各流域全球气象指数与出山径流的交叉小波变换  
+Fig.4Cross wavelet transforms of climate indices with respect to mountainous runoff
+
+# 表4各流域全球气象指数与出山径流交叉小波变换的周期性特征
+
+Tab.4Periodicities of cross wavelet transforms of climate indices with respect to runoff   
+
+<html><body><table><tr><td>流域</td><td>变换 序列</td><td>显著周 期／a</td><td>显著 时段</td><td>径流时 滞/a</td></tr><tr><td>阿克</td><td>SOI一径流</td><td>3~5</td><td>1970—1978，1987—2001</td><td>约2.5</td></tr><tr><td>苏河</td><td>PDO一径流</td><td>3~5</td><td>1991—2000</td><td>约1.5</td></tr><tr><td>叶尔</td><td>SOI一径流</td><td>4~6</td><td>1974—1981</td><td>约3</td></tr><tr><td>羌河</td><td>PDO一径流</td><td>3~6</td><td>1992—2003</td><td>约2.5</td></tr><tr><td>和田河 黑河</td><td>SOI一径流</td><td>3~6</td><td>1968-1980</td><td>约3</td></tr><tr><td rowspan="5"></td><td>SOI—径流</td><td>3~6</td><td>1986—1993，1997—1998</td><td>不稳定</td></tr><tr><td>AO一径流</td><td>3~5</td><td>1988—1993</td><td>约3.5</td></tr><tr><td></td><td>6~8</td><td>1983—1987</td><td>约5</td></tr><tr><td>PDO一径流</td><td>2~6</td><td>1982—2000</td><td>约1.5</td></tr><tr><td></td><td>8~10</td><td>1996—2001</td><td>约2</td></tr></table></body></html>
+
+小波变换，分析其共振周期、显著时段及相位关系等遥相关特征(图4）。
+
+SOI与各流域出山径流的遥相关共振周期为3\~6a，此周期上的显著时段内阿克苏河、叶尔羌河、和田河径流滞后SOI约2.5～3a,相位关系稳定；而黑河时滞不稳定（表4）。AO与黑河径流在$3 \sim 5 \mathrm { ~ a ~ } , 6 \sim 8$ a周期上存在遥相关，径流滞后AO 约3.5 a $\cdot ^ { 5 }$ a。 $P D O$ 与阿克苏河、叶尔羌河、黑河径流有2\~6a不等的共振周期，径流时滞约 $1 . 5 \mathrm { ~ a ~ } . 2 . 5$ a $\cdot 1 . 5 \mathrm { ~ a ~ }$ 。在长周期上， $P D O$ 与黑河径流有 $8 \sim 1 0$ a共振周期，径流滞后PDO约 $2 \mathrm { ~ a ~ }$ 。交叉小波揭示了各气象指数与出山径流在其波动强烈时段上的共振关系，更多反映的是极值年份的遥相关特征，而对于年值气象、水文数据,其波动不强烈的时段具有同等重要意义，因此，进一步通过小波相干谱分析其遥相关特征。
+
+# 4.4全球气象指数与出山径流的小波相干谱变换
+
+各全球气象指数与各流域出山径流分别进行小波相干谱变换，以进一步分析出山径流对气象指数的响应特征（图5）。
+
+各流域出山径流对气象指数响应特征不同（表5）。阿克苏河流域径流与 ${ \cal S } O I , P D O$ 均在3\~6a周期上存在遥相关，显著时段上径流滞后 $S O I$ 约2.5a，与 $P D O$ 同相位分布。
+
+叶尔羌河流域径流与 $S O I$ 有3\~4a $\phantom { + } 1 0 \sim 1 4$ a周期的遥相关，径流时滞分别为约 $^ { 3 \mathrm { ~ a ~ } , 9 }$ a,其中10$\sim 1 4$ a 周期显著时段长,遥相关强烈。径流与 $N A O$ 有 $4 \sim 7$ a 周期的遥相关，显著时段长，二者同相位分布。径流与AO有 $1 0 \sim 1 4$ a周期的遥相关,径流时滞约 $6 \mathrm { ~ a ~ }$ 。径流与 $P D O$ 有 $4 \sim 6 \ \mathrm { ~ a ~ } , 1 1 \sim 1 3$ a周期的遥相关，显著时段较短。
+
+和田河流域径流与 $N A O$ 主要有5\~6a周期的遥相关，二者同相位分布。
+
+黑河流域径流与 $N A O \setminus A O$ 的遥相关周期分别 为3\~7a $\ 、 4 \sim 8 \mathrm { ~ a ~ }$ ，显著时段上径流时滞为约 $3 \sim 5 \ \mathrm { a } ,$ （204
+
+![](images/3b5d2e69b2c5dac320b06a670c7e822784c7156a7c48f9fc09d4efd0b801859d.jpg)  
+图5各流域全球气象指数与出山径流的小波相干谱
+
+# 表5各流域全球气象指数与出山径流小波相干变换的周期性特征
+
+Fig.5Wavelet coherence（WTC）of climate indices with respect to mountainous runof   
+Tab.5Periodicities of wavelet coherence transforms of climate indices with respect to runoff   
+
+<html><body><table><tr><td>流域</td><td>变换 序列</td><td>显著周 期／a</td><td>显著 时段</td><td>径流时 滞/a</td></tr><tr><td>阿克</td><td>SOI一径流</td><td>3~6</td><td>1969—1977，1991—2002</td><td>约2.5</td></tr><tr><td>苏河</td><td>PDO一径流</td><td>3~6</td><td>1966-1977</td><td>约0</td></tr><tr><td>叶尔</td><td>SOI—径流</td><td>3~4</td><td>1964—1971</td><td>约3</td></tr><tr><td>羌河</td><td></td><td>10~14</td><td>1969-1998</td><td>约9</td></tr><tr><td></td><td>NAO一径流</td><td>4~7</td><td>1960—1994</td><td>约0</td></tr><tr><td></td><td>AO一径流</td><td>11 ~14</td><td>1990—2008</td><td>约6</td></tr><tr><td></td><td>PDO一径流</td><td>4~6</td><td>1991—1997</td><td>约2.5</td></tr><tr><td></td><td></td><td>11~13</td><td>1969—1987</td><td>约1.5</td></tr><tr><td>和田</td><td>NAO一径流</td><td>2~4</td><td>1977—1980</td><td>约2.5</td></tr><tr><td>河</td><td></td><td>5~6</td><td>1975—1991</td><td>约0</td></tr><tr><td rowspan="4">黑河</td><td>NAO一径流</td><td>3~7</td><td>1982—2001</td><td>约3~5</td></tr><tr><td>AO一径流</td><td>4~8</td><td>1978—1997</td><td>约4~5</td></tr><tr><td>PDO一径流</td><td>2~3</td><td>1981—1987</td><td>约2</td></tr><tr><td></td><td>8~12</td><td>1992—2010</td><td>约2.5</td></tr></table></body></html>
+
+约 $4 \sim 5 \mathrm { ~ a ~ }$ 。径流与PDO主要遥相关周期为 $8 \sim 1 2$ a,此周期上径流滞后PDO 约 $2 . 5 \mathrm { ~ a ~ }$ 。
+
+分析各流域出山径流对气象指数的响应特征，可发现各气象指数与径流的遥相关周期、径流时滞具有一定程度的相似性。如前文交叉小波变换， $S O I$ 与各流域出山径流的遥相关周期均为 $3 \sim 6 \mathrm { ~ a ~ }$ ；小波相干谱变换， $N A O$ 与各出山径流遥相关周期均主要为 $3 \sim 7 ~ \mathrm { a } , P D O$ 与径流则为 $2 \sim 6 \ \mathrm { ~ a ~ } , 8 \sim 1 3 \ \mathrm { ~ a ~ } _ { \odot }$ 这说明全球气象指数作为全球性大尺度气象指标，通过对中国西北地区降水、气温等的综合影响，对各干旱内陆河流域出山径流的影响存在一定的一致性。
+
+# 5讨论
+
+比较连续小波变换与气象、径流的交叉小波、小波相干变换结果,发现在后两种变换的显著时频域通常与某一变换序列连续小波变换的显著时频域有很好的对应，即该序列主导了两序列的多尺度相关关系。如阿克苏河径流与气温的多尺度相关，主要由阿克苏河径流的多尺度周期主导;叶尔羌河径流与降水、气温的多尺度相关，则主要由流域的降水、气温主导。对于连续小波变换与气象指数、径流的遥相关，则更多的表现为两变换序列的相互作用，如
+
+SOI与阿克苏河径流，在70年代的遥相关中，多由SOI的多尺度周期主导，而90年代的遥相关则由出山径流主导。这是由各时间序列本身的特征决定的。另外值得注意的是，在连续小波变换某些不显著的时频域,其交叉小波、小波相干变换可能为显著遥相关，如PDO与阿克苏河径流小波相干谱在 70年代的遥相关，应与径流在该时频域的高值能量区有关,这说明交叉小波、小波相干变换对连续小波变换的不显著周期进行了很好的遥相关识别。
+
+本文通过小波分析方法，讨论了中国干旱内陆河出山径流对流域气象要素、全球气象指数的响应特征。各全球气象指数通过海气相互作用，影响包括我国西北干旱区在内的各地区水汽、热量、能量的输送和平衡[6-7]。因此建议：(1）继续加强水文、气象监测，以更长的时间序列进行研究。（2）注重研究海气相互作用的具体物理过程，以从物理机制方面分析水文要素与气象要素、全球气象指数的多尺度关系。（3）从大气环流与流域水文气象因子关系角度,进行流域气象要素[25]与出山径流等的未来变化研究。
+
+# 6结论
+
+中国典型干旱内陆河出山径流、流域气象要素与全球气象指数各具有不同的显著时频域特征，其周期范围多在2\~7a尺度内。
+
+交叉小波与小波相干分析适宜于内陆河出山径流与气象指标的多尺度相关性研究，可很好地揭示包括显著时频域与时滞在内的径流响应特征。
+
+叶尔羌河、黑河流域降水与出山径流分别存在6\~17a、2\~16a的全时段显著共振周期，相位关系稳定；“三源流”流域气温与出山径流的共振周期均为 $3 \sim 5 \mathrm { ~ a ~ }$ 尺度，径流时滞有所差异。各流域出山径流对全球气象指数的响应特征各有不同。以上响应差异均源于各流域的实际自然地理与地质条件等的差异。
+
+# 参考文献(References)
+
+[1］李文鹏,康卫东,刘振英,等.西北典型内流盆地水资源调控与 优化利用模式—以黑河流域为例[M].北京：地质出版社， 2010.[LIWenpeng,KANGWeidong,LIU Zhenying,etal.Water resources regulation and optimal utilization modes of typical interior riverbasin in northwest China:A case study of Heihe River Basin [M].Beijing:Geological Publishing House,2010.] [2］陈亚宁,李稚,范煜婷,等.西北干旱区气候变化对水文水资源 影响研究进展［J].地理学报,2014,69（9)：1295－1304. [CHEN Yaning,LI Zhi,FAN Yuting,etal.Research progress on the impact of climate change on water resources in the arid region of northwest China[J].Acta Geographica Sinica,2014,69（9）： 1295 -1304.]
+
+[3］陈忠升.中国西北干旱区河川径流变化及归因定量辨识[D]. 上海：华东师范大学,2016.[CHEN Zhongsheng.Quantitative identification of river runoff change and its attribution in the arid region of Northwest China[D].Shanghai：East China Normal University,2016.]
+
+[4］孙鹏,张强,白云岗,等.塔里木河流域径流量周期特征及其影 响因素［J].地理科学,2013,33（2）:216-222.[SUN Peng, ZHANG Qiang,BAI Yungang,et al.Periodic properties of runoff changes of the Tarim River Basin:Possible causes and implications [J].Scientia Geographica Sinica,2013,33(2）:216-222.]
+
+[5］傅丽昕,陈亚宁,李卫红,等.塔里木河源流区近50a径流量与 气候变化关系研究[J].中国沙漠，2010,30（1）：204－209. [FULixin,CHEN Yaning,LI Weihong,et al.Relation between climate change and runoff volume in the headwaters of the Tarim Riverduring the last5O years[J].Journal of Desert Research,2010, 30(1):204-209.]
+
+[6]王伏村,付双喜，王旭东,等.河西走廊春末夏初降水异常与大 气环流及海温场关系[J].干旱区地理，2014，37（2）：381- 389.[WANGFucun,FU Shuangxi,WANG Xudong,et al.Rela tions between precipitation anomaly in late spring and early sum merin Hexi Corridor and atmospheric circulation and sea surface temperature[J].AridLand Geography,2014,37(2）:381-389.] [7］李艳春,杨建玲,朱晓炜.赤道中东太平洋关键区海温对宁夏 春季降水的影响[J].干旱区地理,2015，38（6）：1087－1094. [LIYanchun,YANG Jianling,ZHU Xiaowei.Effect of equatorial east Pacific SST of key areas on spring rainfall in Ningxia[J].Arid Land Geography,2015,38(6）:1087-1094.]
+
+[8]LIBF,CHENYN,SHIX.Why does the temperature rise faster in the arid region of northwest China?［J].Journal of Geophysical Research,2012,117:D16115.
+
+[9]祁晓凡,李文鹏,李海涛,等.黑河流域气象要素与全球性大气 环流特征量的多尺度遥相关分析[J].干旱区地理，2017，40 (3）:1-9.[QI Xiaofan,LIWenpeng,LI Haitao,et al.Multiscale teleconnections between meteorological elements of Heihe River Basin and global climate indices[J].Arid Land Geography,2017, 40(3):1-9.]
+
+[10］张耀宗，张勃，刘艳艳,等.1960—2012年宁夏强干旱时空格局及影响因素分析[J].灾害学，2016，31（1）：120－127.[ZHANG Yaozong,ZHANG Bo,LIU Yanyan,et al. Spatial andtemporal pattern of strong drought and its influence factors inNingxia from 1960—2012[J]. Journal of Catastrophology,2016,31
+
+(1):120-127.]
+
+[11］刘志方，刘友存,郝永红，等.黑河出山径流过程与气象要素多 尺度交叉小波分析[J].干旱区地理，2014，37（6)：1136- 1146.［LIU Zhifang,LIU Youcun,HAO Yonghong,et al.Multitime scale cross-wavelet transformation between runoff and climate factors in the upstream of Heihe River[J].Arid Land Geography, 2014,37(6):1136-1146.]
+
+[12］顾西辉，张强，刘剑宇，等.新疆塔里木河流域洪水过程集聚性及低频气候影响[J].水科学进展，2016，27（4）：501-511.[GU Xihui,ZHANG Qiang,LIU Jianyu,et al. Temporal clusteringof the Tarim River floods and its relationship to climate teleconnec-tion patterns[J].AdvancesinWater Science,2016,27(4）:501-511.]
+
+[13］周仰效.娘子关泉流量的时间序列叠加模型[J].工程勘察，1986,（4）:31-34.[ZHOU Yangxiao.Time series superpositionmodel of discharge of Niangziguan spring[J].Geotechnical Investi-gation& Surveying,1986,（4） :31-34.]
+
+[14]KUSSAJM,GURDAKJJ.Groundwater level response in U.S. principal aquifers to ENSO,NAO,PDO,and AMO[J]. Journal of Hydrology,2014,519（B）:1939-1952.
+
+[15］祁晓凡,李文鹏,李海涛,等.济南岩溶泉域地下水位、降水、气 温与大尺度气象模式的遥相关[J」.水文地质工程地质，2015， 42(6）:18-28.[QI Xiaofan,LI Wenpeng,LI Haitao,et al. Teleconnections between groundwater levels,precipitation,air temperature of the Jinan karst springs watershed and large scale climatic patterns[J].Hydrogeology&Engineering Geology,2015,42（6）： 18 -28.]
+
+[16］花婷，王训明，郎丽丽，等.甘肃省气温与降水变化趋势及其对 主要流域径流量的影响[J」.中国沙漠，2015，35（3）：744- 752.［HUA Ting，WANG Xunming,LANG Lili,et al.Climate change and its significance on the runoff of major rivers in Gansu, China from 1961 to 2011[J].Journal of Desert Research,2015,35 (3):744-752.]
+
+[17］刘友存，刘志方，郝永红，等.基于交叉小波的天山乌鲁木齐河 出山径流多尺度特征研究[J].冰川冻土，2013，35（6)：1564- 1572.［LIU Youcun,LIU Zhifang,HAO Yonghong,et al.Multitime scale features of runoff on cross-wavelet transformation in the upstream of Urumqi River,Tianshan Mountain[J].Journal of Glaciology and Geocryology,2013,35(6）:1564-1572.]
+
+[18］TORRENCEC,COMPOGP.A practical guide to wavelet analysis [J].Bulletin of the American Meteorological Society,1998,79 (1):61-78.
+
+[19］GRINSTED A,MOOREJC,JEVREJEVA S.Application of the cross wavelet transform and wavelet coherence to geophysical time series[J].Nonlinear Processes in Geophysics,2004,11（5-6）： 561 -566.
+
+[20］祁晓凡，杨丽芝，韩晔,等.济南泉域地下水位动态及其对降水响应的交叉小波分析[J].地球科学进展，2012，27（9）：969-978.[QI Xiaofan,YANG Lizhi,HAN Ye,etal.Cross wavelet anal-ysis of groundwater level regimes and precipitation-groundwaterlevel regime in Ji'nan spring region[J].Advances in Earth Sci-ence,2012,27(9):969-978.]
+
+[21］祁晓凡，李文鹏,杨丽芝，等.济南白泉泉域地下水位动态对降水响应的年内时滞分析[J].地球与环境，2015，43（6)：619-627.[QI Xiaofan,LIWenpeng,YANGLizhi,etal. The lag analy-sis of groundwater level anomalies to precipitation anomaly of Ji'nansprings watershed[J].Earth and Environment,2015,43（6）：619 -627.]
+
+[22］祁晓凡，王雨山，杨丽芝，等.近50年济南岩溶泉域地下水位对降水响应的时滞差异[J」.中国岩溶，2016，35（4）：384-393.[QI Xiaofan,WANG Yushan,YANG Lizhi,et al. Time lagsvariance of groundwater level response to precipitation of Ji'nankarst spring watershed in recent 5O years[J].Carsologica Sinica,2016,35(4) :384 -393.]
+
+[23］桑燕芳，王中根，刘昌明.水文时间序列分析方法研究进展[J].地理科学进展,2013,32（1）:20-30.［SANG Yanfang,WANG Zhonggen,LIU Changming.Research progress on the timeseries analysis methods in hydrology[J].Progress in Geography,2013,32(1):20-30.]
+
+[24］李奇虎.西北干旱区气候变化及其对水文过程的影响[D].上 海：华东师范大学,2012.［LI Qihu.Climate change spatiotempo ral features and impacton hydrological process in northwest arid area of China[D].Shanghai：East China Normal University,2O12.] [25］祁晓凡，李文鹏，李海涛，等.基于CMIP5模式的干旱内陆河流 域未来气候变化预估[J].干旱区地理，2017，40（5）：987- 996.[QI Xiaofan,LI Wenpeng,LI Haitao,et al. Future climate change prediction of arid inland river basin based on CMIP5 model [J].AridLand Geography,2017,40(5）:987-996.]
+
+# Response characteristics of mountainous runoffs of th einland rivers in arid areas of China to watershed meteorological elements and global climate indices
+
+QI Xiao-fan12，LI Wen-peng²，LI Hai-tao²，CUI Hu-qun’，FENGWei² (1Center for Hydrogeology and Environmental Geology Survey,CGS,Baoding O71051,Hebei,China; 2China Institute of Geo-Environment Monitoring,Beijing 1Ooo81,China)
+
+Abstract：Analysis of mountainous runofsof the inland rivers in thearid areas of Chinaand their influence factors has great significance in the evaluation of their basin water resources and the insurance of basin economic and ecological safety.Based onmountainousrunoffs,precipitationand air temperature data of thresub-basins in Tarim River Basin（TRB）,the Aksu River Basin（ARB）,Yarkand River Basin（YRB）and Hotan River Basin （HTRB）,and Heihe River Basin（HRB）,together with four climate indices,the Southern Oscilation Index （SOI),North Atlantic Oscillation（NAO）,Arctic Oscillation（AO）and Pacific Decadal Oscillation ( $P D O$ ）from 1960 to 2012,multi-scale periodicities of the hydrologicaland meteorological elements,and the response characteristicsof the mountainous runofs to watershed meteorological elements and global climate indices are systematicaly investigated in this paper byadopting methods of wavelet analysis,including Continuous Wavelet Transform（WT）, Cross Wavelet Transform（XWT）and Wavelet Coherence（WTC).The results show thatthe multi-scale periodicities of $S O I$ are 3\~5 a, $1 1 \sim 1 2$ a and the multi-scale periodicities of $P D O$ are $4 \sim 6 \mathrm { ~ a } , 9 \sim 1 0$ a. The multi-scale periodicities of $N A O$ and $A O$ are $2 \sim 4$ a in 196Os.The periodicities of precipitation in all basins are $2 \sim 4 \mathrm { ~ a } , 4 \sim 7$ a,and that of air temperature are 2\~5 a.The periodicities of mountainous runoffs are $2 \sim 5$ a except for the Yarkand River.Whole time significant resonance periodicity of $6 \sim 1 7$ a is identified between precipitation and mountainous runoff in YRB,and periodicity of $2 \sim 1 6$ a is identified in HRB. Significant resonance periodicities of $3 \sim 5$ a are identified between air temperature and mountainous runofs in ARB,YRB and HTRB.The multiple-scale resonance periodicities between runofs and watershed precipitationand temperature reflectthe diferences of runoff source compositions and inter-annual dynamicsof both runofsand meteorological elements.Theresponse characteristics of the runfsto the climate indices are different,which have performance in the significanttime-frequencydomains and the runoffresponse time lags.The findings and methods presented here help understand the response of mountainous runoffs of the inland river basins inthearidareas to meteorological elementsand climate indices,and expand he knowledge and usable toolbox of approaches thatcan beused bythe related peopleand scientists to improve eco-hydraulic processes and water resource planning and operations under future climate uncertainty.
+
+Key words:mountainous runoff； climate indices ；wavelet analysis ； multi-scale periodicity ;arid inland river basin

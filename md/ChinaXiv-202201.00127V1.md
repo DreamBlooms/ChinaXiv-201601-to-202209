@@ -1,0 +1,301 @@
+# 语言和情境对具体概念感知运动仿真的影响\*
+
+石如彬」 谢久书²杨梦情」王瑞明1(1“儿童青少年阅读与发展”教育部哲学社会科学实验室，华南师范大学，广州510631)
+
+(南京师范大学心理学院，南京210097)
+
+摘要具体概念加工中的感知运动仿真是概念表征的核心加工过程。本研究系统探讨了语言因素(语言类型：第一语言和第二语言)和情境因素(知觉情境：空间知觉情境和语义知觉情境）对具体概念加工中感知运动仿真的影响。实验1采用语义相关判断范式探讨了第二语言加工过程中是否存在感知运动仿真，以及第二语言中的仿真和第一语言中的仿真是否存在差异。研究发现，第二语言加工中依然存在感知运动仿真，但是第一语言的感知运动仿真具有一定的优势。实验2采用语义相关判断范式及其变式，通过2个分实验分别探讨了个体加工概念时空间知觉信息和语义知觉信息对于概念表征过程中感知运动仿真的影响。研究发现，无论是在较弱的空间信息知觉条件下还是在较浅的语义信息知觉条件下，具体概念加工过程中都产生了感知运动仿真。本研究的发现弥补了知觉符号理论未对第二语言中的感知运动仿真提出针对性预测的不足，表明感知运动仿真具有一定的跨语言稳定性。同时，具体概念加工中的感知运动仿真不受空间信息和语义信息的调节，这表明感知运动仿真能在一定程度上自动化产生。
+
+关键词 具体概念，概念表征，感知运动仿真，知觉符号理论分类号
+
+# 1引言
+
+概念如何在人们头脑中进行表征，一直是认知科学研究的重点问题。传统的命题符号理论(Propositional Symbol System)认为，认知系统的构成形式是命题，然后命题间相互连接形成命题网络(Hamad,1990；王瑞明 等,2005)。但命题符号理论仍存在许多问题，比如，缺乏直接的经验性证据证明命题符号的存在，命题符号理论也难以对从知觉事物向命题符号转换的过程做出令人满意的解释。
+
+针对命题符号理论的不足，Barsalou(1999,2008)提出了颇具创新性的知觉符号理论(Perceptual Symbol System)，该理论认为概念表征过程中需要对概念所表达的事物进行感知运动仿真(Sensorimotor Simulation)。人们在习得概念时，词汇意义及其感知觉情境信息会形成经验路径，它们被一起存储在大脑中(Zwaan＆ Madden,2005)。在概念表征过程中需要对这些经验路径进行激活，这一过程被称为感知运动仿真(Strozyk etal.,2019)。概念的性质不同，感知运动仿真激活的信息也存在差异，具体概念更多地激活物体和场景等信息，而抽象概念更多地激活情境和内省等信息(Barsalou,1999,2008)。
+
+知觉符号理论的主要革新在于重新定义了内在符号与外在刺激原型之间的关系。知觉符号理论认为两者的关系是类似的、知觉的(Fodor,1975;Pylyshyn,1984; Barsalou,1999;Barsalou,2008；莫雷 等,2006；王瑞明 等,2006)。比如对于“桌子”这一词汇的概念表征，知觉符号理论认为概念的表征不仅激活“桌子”这一符号，同时还会激活表示桌子原型的感知觉信息，比如形状、大小、颜色以及方位等信息(Barsalou,1999)。知觉符号理论认为概念在不同的语义背景下可能表征出不同的信息，比如，会议室背景下更可能表征出“椭圆的长桌”，而餐厅背景下更可能表征出“较小的圆桌或方桌”。
+
+知觉符号理论认为感知运动信息的激活是概念表征的基础。支持该观点的经典研究是通过创设概念信息与感知觉信息一致或不一致两种条件，探讨感知觉信息对概念表征的影响。众多研究结果发现，一致条件会促进概念的加工，说明概念表征是基于感知运动信息的，两者共享表征资源(刘文娟 等,2015)。例如，Zwaan和Yaxley (2003)采用具有纵向空间次序物体的具体名词词对为实验材料(如“树冠-树根”），两个具体名词垂直呈现在屏幕上，名词出现的位置与其指代实际物体所处于的空间位置构成一致或不一致两种条件，如词汇在屏幕上方和下方同时呈现“树冠-树根”为一致条件，而在屏幕上方和下方同时呈现“马路-汽车”为不一致条件，被试的任务是判断两个词汇的语义是否相关。根据知觉符号理论的观点，人们在加工概念时会对名词词对的空间信息进行感知运动仿真，在一致条件下，词汇呈现的空间位置与其指代物在现实中出现的空间位置一致，此时被试的加工较不一致条件的加工更容易。结果发现，一致条件下被试做语义相关判断时的反应显著快于不一致，支持了知觉符号理论。其他相关研究也揭示了概念表征过程会激活感知运动信息(Zwaan et al.,2002;Bergenet al., 2010)。
+
+而在感知觉信息中，对概念加工影响最为深刻的因素是空间信息。人们生活在一定的空间中，“上下、左右、高低、内外”等空间概念是人们与客观世界接触时建立起来的最初始的概念范畴(Lakoff& Johnson,1980)。人们在习得隐含空间的具体概念时往往需要进行多次抽象的语言概念与具体物体之间的联系，这时物体的空间信息可能与概念信息一起被储存进大脑中。因此，个体在概念表征过程中会同时仿真空间信息。以往研究采用Stroop范式发现隐含空间方位的具体概念加工激活了空间位置信息(Lachmair et al.,2011; Dudschig et al.,2012; Dudschig et al.,2013; Dudschig& Kaup,2017)。因此，本研究将以具体概念的空间信息为代表，使用经典语义相关判断范式及其变式研究隐含空间信息的具体概念在表征过程中的空间信息激活情况及其影响因素。
+
+虽然具体概念表征会激活感知运动信息已经得到较多实验的支持(Barsalou,1999;Glenberg& Kaschak,2002; Glenberg & Gallese,2012; Zwaan & Madden,2005)，但是在什么条件下概念表征过程中会激活感知运动信息并没有达成一致性的结论。本研究将基于影响感知运动仿真的语言因素和情境因素对该问题进行系统探讨。首先，本研究将考察影响具体概念感知运动仿真发生的语言因素——语言类型(第一语言和第二语言)。由于一语和二语的语言表征本身便存在质的差异，这种差异可能导致一语和二语中的感知运动仿真截然不同(Jaredet al.,2013;Zhao et al.,2020)。因此，本研究首先探讨可能影响感知运动仿真的底层因素-语言类型。然后，在情境因素中，空间知觉情境和语义知觉情境对具体概念的感知运动仿真影响较为显著。感知运动仿真是联结知觉和语义的桥梁和表征形式(Barsalou,1999)。因此，探究感知运动仿真发生的外部条件，需要从这两方面入手。知觉信息中的空间知觉是人类获得的最初始概念范畴，对语言表征意义重大。并且，众多关于知觉符号表征的研究也主要围绕空间知觉情境开展(Barsalou et al.,2018;Estes&Barsalou,2018)。此外，语义加工的深度直接影响情绪概念加工和情绪面孔知觉加工相互影响的方向性(刘文娟 等,2016)。因此，有必要探讨语义情境信息如何影响感知运动仿真的发生。
+
+国内外学者对于具体概念表征中感知运动仿真的研究主要关注一语。而在语言习得过程中一语和二语存在较大的差异。一语往往是在日常生活环境中逐渐习得的，具有丰富的亲身经历与个人情感体验，这可能使个体在概念习得过程中储存相关的感知运动信息，因此在概念表征过程中会进行感知运动仿真。而二语(如英语)的习得过程与一语存在较大的差异，特别是中国教育环境下的二语学习往往更关注于中英文概念之间的对等互译，这可能导致个体只是形成了二语的抽象符号表征，而缺乏相应的感知觉信息。
+
+先前相关研究也发现了语言类型的不同对概念表征过程中感知运动仿真的影响。Eilola和 Havelka(2010)采用 Stroop 颜色词命名任务的研究发现一语学习者对于负性词汇和禁忌词汇相比于中性词汇和积极词汇有更高的皮肤电激活，然而这种差异在二语学习者身上没有产生。但也有许多研究发现二语加工中存在类似的感知运动仿真。Dudschig,de la Vega 和 Kaup(2014)以德语-英语双语者为研究对象采用 Stroop 范式开展研究，分别向被试呈现二语隐含空间名词(如 star 和 mole)和二语情绪词(如 happy 和 sad)，并要求被试对字体颜色进行向前或向后的手部运动按键反应。结果发现，尽管词义是任务无关变量但其仍能激发类似于一语的感知运动仿真。Grauwe 等 (2014)更是以荷兰语-德语双语者为研究对象，使用 fMRI（Functional Magnetic Resonance Imaging）从神经机制的角度揭示高熟练的双语者和单语者存在相似的脑区激活模式，一语和二语都会激活感知运动脑区。
+
+然而，上述二语中引发感知运动仿真的研究使用的被试是德语-英语双语者或荷兰语-德语双语者，它们属于同种语系，两种语言间的文化背景和语言特征差异较小，这可能导致两种语言间包含的知觉符号更容易发生跨语言间的迁移。而中-英双语者(跨语系双语者)语言文化背景和语言特征差异较大，这种条件下是否也存在知觉符号的迁移呢？Costa 等(2005)的研究发现双语者二语的语义通达是词汇连接型还是概念调节型取决于二语与一语的词汇相似性。王瑞明等(2010)的研究则进一步发现，晚期熟练中英双语者在日语这种三语的词汇通达中不会通达与日语不相似的英语词汇，而在法语这种三语的语义通达中会通达与法语相似的英语词汇。近期关于双语者正字法迁移的研究发现，正字法技能和使用经验可以在表音文字间不同程度地迁移（如英文和法文），但不能在表音文字和语素文字间迁移（如英文和中文）。这可能是由于正字法规则和语音-语义结构关系在表音文字间的重叠度较高，而在表音文字和语素文字间的重叠度较低导致的（谢久书 等,2022）。中-英双语者与其他掌握两种表音文字的双语者（如德语-英语双语者）相比，最大的不同在于中文和英文采用不同的文字符号系统，这两类文字符号系统与语音和语义的匹配规则截然不同(Lewis etal.,2015)。而知觉符号表征的形成，有赖于字形、字音和字义间的匹配关系。例如，表达敌对信息时的语音更加尖锐，而表达积极信息时的语音更加柔和(Nielsen&Rendall,2013)。然而，以往研究尚未系统探讨过中-英双语者在一语和二语中是否均存在类似的知觉符号表征。因此，本研究的实验1采用语义相关判断范式考察具有相对空间信息的具体概念加工中的感知运动仿真是否会受语言类型(一语或二语)的影响。
+
+另外，先前有研究发现个体知觉到的情境不同会影响感知运动仿真的发生。在Lebois 等(2014)的研究中，请被试阅读隐含空间信息的词汇然后进行向上或向下的按键反应，发现空间一致性效应并不总会产生，只有当前情境更加突出感知运动信息时，被试才会激活感知运动信息。然而，先前研究对情境因素的探讨较少，尚不清楚情境因素如何影响概念表征过程中感知运动仿真的产生。因此，实验2分别从空间知觉情境(即空间知觉线索的强弱)和语义知觉情境(即语义加工的深浅)两个角度探讨概念表征过程中感知运动仿真的产生是自动化
+
+的还是策略性的。
+
+先前研究表明知觉信息的不同会对概念加工产生影响。刘文娟等(2016)通过向被试先后呈现情绪面孔图片、情绪词的方式研究知觉信息对概念信息的影响，实验结果表明知觉信息的加工与概念信息的加工存在相互影响。根据知觉符号理论的观点，感知运动信息的加工和概念信息的加工具有重叠的神经机制，两者的关系是双向的，即概念加工会影响知觉加工，知觉加工也会影响概念加工，刘文娟等(2016)的研究为知觉符号理论提供了支撑。既然个体知觉信息的不同会对概念信息的表征产生影响，那么先前研究中使用语义相关判断范式引发的感知运动仿真，是概念表征过程中自动化加工的结果，还是个体在垂直空间线索的提示下策略性加工的结果呢？该问题尚未获得系统研究。以往研究发现，调整知觉的显著性可以影响人们的策略性加工，而对自动化加工的影响较小(Lakens,2012;Proctor& Xiong,2015)。因此，实验2a将使用语义相关判断范式，通过创设不同的垂直空间知觉情境来探讨概念表征过程中感知运动仿真是自动化的还是策略性的。
+
+概念表征过程中感知运动信息的激活是否还会受到语义知觉情境的影响？如果个体在语义程度非常低或语义与实验任务无关的情况下，仍能够进行感知运动仿真，则表明感知运动信息在概念加工过程中有较高的自动化特性。反之，则为策略性的。对于该问题的探讨，先前研究较多关注具有典型绝对上下空间特征的概念，如太阳、山谷。Lachmair 等(2011)向被试呈现与上方或者下方具有紧密联系的位置词汇(如房顶或树根)，要求被试阅读词汇后按键判断。在不同的实验中，研究者改变了被试提取词汇语义的深度以及反应时是上下运动按键还是原地静止按键。实验结果显示，词汇隐含空间信息与按键反应方向一致的条件显著快于不一致条件，表明词汇加工过程中激活了词汇的空间信息。Dudschig,de la Vega,Filippis和Kaup (2014)使用掩蔽范式来掩蔽被试对词汇的觉察，结果表现出空间-动作反应的反向兼容性效应，表明概念表征过程中的感知运动仿真具有高度自动化特性，即使在被试对概念的语义信息提取较弱时依然能够产生感知运动仿真。然而，上述研究结果可能是使用具有绝对上下空间词汇的原因。这类词语在概念表征过程中可以自动激活感知运动信息，这可能是在空间信息较强的条件下，个体可以在不完全通达语义的情况下自动仿真垂直空间信息。
+
+而相对空间概念(如玫瑰-花瓶)往往缺乏较强的绝对上下空间关系，而只具有相对的上下位置关系，这可能导致被试需要更多地依赖语义才能确定相对空间关系从而引发感知运动仿真。因此，实验2b从语义知觉情境角度，通过真假词判断(较浅语义加工)和语义相关判断(较深语义加工)双任务请被试进行不同程度的语义加工以探究感知运动仿真是策略性还是自动化加工的结果。在传统的语义相关判断任务中，个体可能觉察出隐含空间词汇的垂直关系与物体真实情况下是否一致，从而会引发个体进行策略性的反应。而在真假词判断任务中通过让个体在不完全通达语义的条件下进行真假词识别，探究是否仍然会自动的产生感知运动仿真，从而更好地揭示感知运动仿真的发生是自动化的还是策略性的。
+
+综上所述，本研究将系统探讨语言和情境对具体概念表征过程中感知运动仿真的影响。具体而言，本研究首先关注语言类型（一语和二语）对感知运动仿真发生的影响。进而，本研究关注与具体概念密切相关的空间知觉情境和语义知觉情境对感知运动仿真发生的影响。为此，本研究设计了3个系列实验。实验1采用语义相关判断范式探讨一语和二语具体概念表征过程中是否均存在类似的感知运动仿真。实验2a和2b采用语义相关判断范式及其变式，分别探讨了具体概念表征过程中的空间知觉信息和语义知觉信息对感知运动仿真的影响。
+
+# 2 实验1
+
+# 2.1目的
+
+探讨二语的概念表征过程中是否存在感知运动仿真？若存在，二语的感知运动仿真与一语是否存在差异？
+
+# 2.2方法
+
+# 2.2.1 被试
+
+选取英语专业大学生48名，均通过了英语专业四级考试，平均年龄22.60岁。所有被试裸眼或矫正视力正常，母语均为汉语，无阅读障碍，实验结束后会获得少量的报酬。
+
+# 2.2.2 实验设计
+
+采用2(空间关系：一致/不一致) $\mid \times 2$ (语言类型：中文/英文)两因素被试内设计，因变量为被试的反应时和正确率。
+
+# 2.2.3 实验材料
+
+实验材料包含80个中文词对和80个英文词对，它们是翻译对等词。80个中文词对和80 个英文词对各自包含 20个语义相关实验词对、20个语义相关填充词对、40个语义无关词对。20 个语义相关实验词对是具有上下空间关系的词对(如玫瑰-花瓶，桌子-书籍)，根据空间关系的一致性匹配成两个材料系列。两个材料系列均包含这20个词对，每个材料系列中一半为词对上下呈现顺序与真实空间关系一致(如玫瑰-花瓶)，另一半为词对上下呈现顺序与真实空间关系不一致(如桌子-书籍)。20个语义相关填充词对仅存在语义相关关系，但所表达的语义不存在上下空间关系（如校园-学生）。加入语义相关填充词对可以保证整个实验中判断语义相关的词对和判断语义无关的词对各有40对，使得“是”和“否”反应在数量上均衡。更重要的是，语义相关填充词对的加入也可以使被试忽略语义中隐含的上下空间关系信息，从而避免被试猜测实验目的。
+
+15 名大学生对中文词对的语义相关性、熟悉性、具体性进行7级评分，他们均未参加正式实验。在相关性评定中，被试需评价两个词语在语义间的相关程度。在熟悉性评定中，被试需评定他们对词对中每个词语的熟悉程度。在具体性评定中，被试需评定词对中每个词语所指代物品、人物等的具体程度。评价结果为：(1)语义相关性结果发现语义相关实验词对 $( M e a n = 6 . 0 3$ ， $S D = 0 . 4 2 )$ 、语义相关填充词对 $( M e a n = 5 . 9 2$ ， $S D = 0 . 3 9 ,$ 和语义无关填充词对 $( M e a n = 1 . 5 5$ ， $S D = 0 . 3 1 \_$ )三者差异显著 $F ( 2 , 7 9 ) = 1 5 0 3 . 6 7$ ， $p < 0 . 0 0 1$ ，其中语义相关实验词对和语义相关填充词对差异不显著， $F ( 1 , 3 9 ) = 0 . 7 0$ ， $p = 0 . 4 0 9$ 。 (2)熟悉性结果发现语义相关实验词对 $( M e a n = 6 . 2 2$ ， $S D = 0 . 3 9 ,$ )与语义相关填充词对 $( M e a n = 6 . 2 5$ ， $S D = 0 . 3 8 \mathrm { \Omega }$ 差异不显著， $F ( 1 , 3 9 ) = 0 . 0 5 , p = 0 . 8 2 7 _ { \circ } ($ (3)具体性结果发现语义相关实验词对 $( M e a n = 6 . 6 2 , S D = 0 . 3 4 )$ 与语义相关填充词对 $( M e a n = 6 . 6 1$ ， $S D = 0 . 2 5 )$ 差异不显著， $F ( 1 , 3 9 ) = 0 . 0 3$ ， $p = 0 . 8 7 4$ 。 (4)笔画数结果发现语义相关实验词对 $( M e a n = 1 7 . 4 3$ ， $S D = 3 . 6 1$ )与语义相关填充词对 $( M e a n =$ 16.45， $S D = 2 . 8 7 _ { \cdot }$ 差异不显著， $F ( 1 , 3 9 ) = 0 . 8 9$ ， $p = 0 . 3 5 1$ 。
+
+英文实验材料是中文实验材料的翻译对等词，另外请17名大学生对英文实验材料进行评定，他们均未参加正式实验。评价结果为：(1)语义相关性结果发现语义相关实验词对(Mean$= 5 . 2 2$ ， $S D = 0 . 9 5 )$ 、语义相关填充词对 $( M e a n = 5 . 4 2$ ， $S D = 0 . 6 3 \$ 和语义无关填充词对 $( M e a n =$ 2.20， $S D = 0 . 4 7 \mathrm { ; }$ 三者差异显著 $F ( 2 , 7 9 ) = 2 2 8 . 2 4 \$ ， $p < 0 . 0 0 1$ ，其中语义相关实验词对和语义相关填充词对差异不显著， $F ( 1 , 3 9 ) = 0 . 6 6$ ， $p = 0 . 4 2 0$ 。(2)熟悉性结果发现语义相关实验词对 $( M e a n = 6 . 3 4 , S D = 0 . 7 2 )$ 与语义相关填充词对 $( M e a n = 6 . 5 4 , S D = 0 . 2 4 )$ 差异不显著， $F ( 1 , 3 9 )$ $= 1 . 3 9$ ， $\begin{array} { r } { p = 0 . 2 4 5 } \end{array}$ 。(3)具体性结果发现语义相关实验词对 $( M e a n = 6 . 2 8$ ， $S D = 0 . 3 8 \mathrm { \Omega }$ 与语义相关填充词对 $( M e a n = 6 . 3 7$ ， $S D = 0 . 3 3 \mathrm { \AA }$ 差异不显著， $F ( 1 , 3 9 ) = 0 . 5 6$ ， $p = 0 . 4 6 1$ 。 (4)字母数结果发现语义相关实验词对 $( M e a n = 4 . 7 0 , S D = 0 . 8 8 )$ 与语义相关填充词对 $( M e a n = 5 . 3 3$ ， $S D = 1 . 5 2 { \cdot }$ 差异不显著， $F ( 1 , 3 9 ) = 2 . 5 4$ ， $p = 0 . 1 1 9$ 。
+
+# 2.2.4 实验程序
+
+采用 E-prime1.2编制实验程序。实验包括中文和英文两个区组，被试需要完成两个区组的实验，区组间的顺序在被试间进行了平衡。实验中，首先在白色屏幕中心呈现 $5 0 0 \mathrm { m s }$ 的红色注视点“+”，让被试集中注意力。注视点消失后，在注视点上方和下方同时各呈现一个中文双字词（中文区组）或英文单词（英文区组），要求被试判断词汇之间是否存在语义相关，若存在相关按“J”键，无关按“F”键。“J”和“F”按键与是否语义相关的对应关系在被试间进行了平衡。实验中要求被试又快又准的做出反应。被试做出反应或无反应达到 $3 0 0 0 \mathrm { { m s } }$ 后进入 $8 0 0 \mathrm { { m s } }$ 的空屏，空屏结束后自动进入下一个试次。正式实验前被试接受练习实验，给予被试正确与否的反馈，只有达到一定正确率才能进行正式实验。为了保证试次的数量足够，实验材料重复3遍，每名被试完成480个试次，中英文实验材料各半。具体实验流程见图1。
+
+![](images/7ac68f4b3d686980f692ecaf7a17f7039f73f7ddd515d20c4084de57d4ec6ecc.jpg)  
+图1A实验1中文语义相关判断任务流程图
+
+![](images/771062145fb78d3e2052b6342c746256cb92a5630ef3a7ebcb02e550a4928ad6.jpg)  
+图1B实验1英文语义相关判断任务流程图
+
+# 2.3 结果与分析
+
+所有被试正确率均达到 $80 \%$ 以上，没有剔除被试数据。仅20个语义相关实验词对的反应时和正确率数据纳入数据分析。剔除错误反应、反应时大于 $2 0 0 0 \mathrm { \ m s }$ 或小于 $4 0 0 \mathrm { { m s } }$ 以及在2.5个标准差之外的反应时数据，共计剔除了 $9 . 9 \%$ 的数据。各条件下反应时数据见表1。
+
+表1语言类型条件下不同空间关系的反应时 $\scriptstyle ( M \pm S D )$   
+
+<html><body><table><tr><td>语言类型</td><td>空间一致(ms)</td><td>空间不一致(ms)</td></tr><tr><td>中文</td><td>784.00±82.32</td><td>799.02±94.00</td></tr><tr><td>英文</td><td>1004.66±110.66</td><td>1030.88±144.82</td></tr></table></body></html>
+
+采用 SPSS 21.0对反应时进行分析。结果显示空间关系的主效应显著 $F ( 1 , 4 7 ) = 4 . 2 8$ ， $p$ $= 0 . 0 4 4$ ， $\eta _ { \mathrm { \Delta p } } ^ { 2 } = 0 . 0 8$ ，空间一致条件显著快于空间不一致条件。语言类型的主效应显著 $F ( 1 , 4 7 )$ $= 2 6 5 . 7 1 \$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } \mathfrak { p } ^ { = } 0 . 8 5$ ，中文条件显著快于英文条件。空间关系与语言类型交互作用不显著 $F ( 1 , 4 7 ) = 0 . 3 6$ ， $p = 0 . 5 5 1$ 。
+
+表2语言类型条件下不同空间关系的正确率 $( M \bot S D )$   
+
+<html><body><table><tr><td>语言类型</td><td>空间一致</td><td>空间不一致</td></tr><tr><td>中文</td><td>0.97±0.04</td><td>0.95±0.04</td></tr><tr><td>英文</td><td>0.92±0.07</td><td>0.93±0.07</td></tr></table></body></html>
+
+正确率数据见表2，对正确率进行分析，结果显示空间关系的主效应不显著 $F ( 1 , 4 7 ) =$ 0.10， $ { p } = 0 . 7 5 4$ ，语言类型的主效应显著 $F ( 1 , 4 7 ) = 2 8 . 4 1$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } { \sf p } = 0 . 3 8$ ，空间关系与语言类型交互作用显著 $F ( 1 , 4 7 ) = 4 . 1 1$ ， $p = 0 . 0 4 8$ ， $\eta ^ { 2 } { \sf p } = 0 . 0 8$ 。简单效应分析发现，在英文实验条件下，空间一致性差异不显著 $F ( 1 , 4 7 ) = 0 . 4 1$ ， $p = 0 . 4 0 4$ 。在中文实验条件下，空间一致性差异显著 $F ( 1 , 4 7 ) = 6 . 7 6$ ， $p = 0 . 0 1 2$ ， $\mathfrak { n } _ { \mathrm { ~ p } } ^ { 2 } \mathrm { = } 0 . 1 7$ ，空间一致的正确率高于空间不一致。
+
+实验1结果表明，一语条件在反应时和正确率上均发现具体概念表征过程的感知运动仿真，二语条件只在反应时上显现出具体概念表征过程的感知运动仿真。综合反应时和正确率结果表明，中英双语条件下均能够产生感知运动仿真，但一语在概念表征过程的感知运动仿真具有一定的优势，这种优势的产生可能与一语有更高的熟练水平有关。那么，情境因素对于概念表征过程中感知运动仿真的发生是否也会有影响，实验2将分别从空间知觉情境因素(实验 2a)和语义知觉情境因素(实验2b)两个方面进行探讨。
+
+# 3 实验2a
+
+# 3.1目的
+
+探究空间知觉情境的不同对于概念表征过程中感知运动仿真的影响。
+
+# 3.2方法
+
+# 3.2.1被试
+
+选取大学生48名，均未参加实验1。平均年龄20.00岁。所有被试裸眼或矫正视力正常，母语均为汉语，无阅读障碍。实验结束后会获得少量的报酬。
+
+# 3.2.2实验设计
+
+实验采用2(空间关系：一致/不一致) $| \times \rrangle$ 2(空间知觉：强空间知觉/弱空间知觉)两因素被试内设计，因变量为被试的反应时和正确率。
+
+# 3.2.3实验材料
+
+实验材料为实验1的中文实验材料，共80 对词汇，其中 20对语义相关实验词对、20对语义相关填充词对、40对语义无关填充词对。随机抽取各类实验材料的一半作为强空间知觉条件下的实验材料，另一半作为弱空间知觉条件下的实验材料。根据每个语义相关实验
+
+词对在四种实验处理下的不同，随机组成四个实验系列。每名被试只随机接受其中一种材料系列。
+
+![](images/7ac834b3105556da65926dcde9f37d8f7793641d4d688c194ae93d3f07bb9c11.jpg)  
+图2A实验2a空间知觉强条件流程图
+
+![](images/ed9f3ea1ebb62422cbb04d34ef0ba612a1357abd77352d80351e2d1018e45389.jpg)  
+图2B实验2a空间知觉弱条件流程图
+
+# 3.2.4实验程序
+
+实验流程如图，每名被试均完成两个区组，两个区组的不同之处在于词汇呈现界面中两个词汇垂直空间距离的不同。实验通过改变词对的垂直距离，操纵垂直空间知觉信息的显著性。在长垂直空间距离区组中，两个词汇呈现在屏幕上的垂直距离较长，此时被试更容易觉察出词对间的垂直空间信息；而在短垂直空间距离区组中，两个词汇呈现在屏幕上的垂直距离较短，此时被试较难觉察到词对间的垂直空间信息。通过这种知觉信息强弱的变化，来检验知觉信息不同对具体概念加工中感知运动仿真的影响。同时，在长垂直空间距离区组中，一半的试次中两个词汇的呈现位置与实际空间关系一致，另外一半的试次中两个词汇的呈现位置与实际空间关系不一致。在短垂直空间距离区组中也采用同样的处理方法。由于在实验1中被试报告长时间注视白色屏幕容易产生视觉疲劳，故实验2的屏幕改为黑底白字，注视点改为白色“+”号。为保证刺激的数量，每个词对重复5次，每名被试完成400个实验试次。平衡左右手按键以及两个区组的顺序。
+
+# 3.3结果与分析
+
+数据处理同实验1，所有被试正确率均达到 $80 \%$ 以上，没有剔除被试数据。仅20个语义相关实验词对的反应时和正确率数据纳入数据分析。剔除错误反应、反应时大于 $2 0 0 0 \mathrm { \ m s }$ 或小于 $4 0 0 \mathrm { { m s } }$ 以及在2.5个标准差之外的反应时，共剔除 $7 . 6 \%$ 的数据。各条件下反应时数
+
+据见表3。
+
+表3 空间知觉情境条件下不同空间关系的反应时 $( M \bot S D )$   
+
+<html><body><table><tr><td>空间知觉</td><td>空间一致(ms)</td><td>空间不一致(ms)</td></tr><tr><td>强空间知觉</td><td>732.53±97.06</td><td>744.35±88.56</td></tr><tr><td>弱空间知觉</td><td>672.34±78.68</td><td>679.83±75.84</td></tr></table></body></html>
+
+对反应时进行分析，结果显示空间关系的主效应显著， $F ( 1 , 4 7 ) = 7 . 6 5$ ， $p = 0 . 0 0 8$ ， $\mathfrak { n } ^ { 2 } \mathfrak { p } ^ { = }$ 0.14，空间一致条件显著快于空间不一致。空间知觉的主效应著， $F ( 1 , 4 7 ) = 5 8 . 6 1 \$ ， $p < 0 . 0 0 1$ $\mathfrak { n } _ { \mathrm { ~ \mathfrak { p } ~ } } ^ { 2 } = 0 . 5 6$ ，弱空间知觉的条件下反应时显著快于强空间知觉。空间关系与空间知觉的交互作用不显著， $F ( 1 , 4 7 ) = 0 . 2 1$ ， $ { p } = 0 . 6 4 7$ 。
+
+表4 空间知觉情境条件下不同空间关系的正确率 $( M \bot S D )$   
+
+<html><body><table><tr><td>空间知觉</td><td>空间一致</td><td>空间不一致</td></tr><tr><td>强空间知觉</td><td>0.94±0.07</td><td>0.94±0.07</td></tr><tr><td>弱空间知觉</td><td>0.96±0.05</td><td>0.97±0.03</td></tr></table></body></html>
+
+正确率数据见表4，对正确率进行分析，结果显示空间关系的主效应不显著， $F ( 1 , 4 7 ) =$ 0.20， $p = 0 . 6 5 9$ 。空间知觉的主效应显著， $F ( 1 , 4 7 ) = 1 0 . 5 0$ ， $p = 0 . 0 0 2$ ， $\eta ^ { 2 } { _ \mathrm { p } } = 0 . 1 8$ ，弱空间知觉条件下显著高于强空间知觉。空间关系与空间知觉的交互作用不显著， $F ( 1 , 4 7 ) = 0 . 1 4$ ， $p$ （20$= 0 . 7 1 2$ 。
+
+实验 2a 结果表明，空间一致条件反应时显著快于空间不一致条件，而空间关系与空间知觉的交互作用不显著，这表明被试对词对中隐含空间信息的加工不受知觉情境因素的影响。根据知觉符号理论，理解词对中隐含的空间信息需要依赖于空间知觉信息的再激活和语义信息的激活。空间知觉信息的再激活并没有对被试加工隐含的空间信息产生影响，这表明被试对词对中隐含空间信息的加工可能是自动化的。
+
+# 4实验2b
+
+4.1目的探究语义加工深度对概念表征过程中感知运动仿真的影响。
+
+# 4.2 方法
+
+# 4.2.1 被试
+
+选取大学生48名，均未参加上述实验。平均年龄21.00 岁。所有被试裸眼或矫正视力
+
+正常，母语均为汉语，无阅读障碍。实验结束后会获得少量的报酬。
+
+# 4.2.2 实验设计
+
+实验采用2(空间关系：一致/不一致) $\mid \times 2$ (任务类型：语义相关判断/真假词判断)两因素被试内设计，因变量为被试的反应时和正确率。
+
+# 4. 2. 3 实验材料
+
+选取实验1的中文实验材料，共80个实验材料，其中20 对语义相关实验词对、20 对语义相关填充词对、40对语义无关填充词对。随机抽取各类实验材料的一半作为语义相关判断任务的实验材料，另一半作为真假词判断任务的实验材料。在真假词判断任务的实验材料中，原实验1中的每对语义无关填充词对中的一个词被替换为假词。假词的编制原则参照刘文娟等（2016）的研究。假词为真词的顺序颠倒或者两个汉字的随机组合，它们均没有真实的语义。其余的实验材料与实验1完全相同。根据每个语义相关实验词对在四种实验处理下的不同，随机组成四个实验系列。每名被试只随机接受其中一种材料系列。
+
+![](images/54e457728f056cb1d2b8e63f21c230f646f9e8dc05e1d06b032afedd7190f821.jpg)  
+图3A实验2a语义相关判断任务流程图
+
+![](images/b090a5950b5714d17a84b88fbff6d0837c82d714119b239e628c63dd395b4841.jpg)  
+图3B实验2b真假词判断任务流程图
+
+# 4.2.4 实验程序
+
+实验流程与实验2a类似，分别为语义相关判断任务和真假词判断任务两个区组，每名被试完成两个实验区组。两个区组的不同之处在于一个是语义相关判断任务，而另一个是真假词判断任务。在语义相关判断任务区组中，被试需按键判断屏幕上出现的两个词语是否存在语义相关。在真假词判断任务区组中，被试需按键判断屏幕上出现的两个词语中是否存在假词。并且，在真假词判断任务区组中，假词出现的位置完全随机。在其中 $50 \%$ 的试次中，假词出现在屏幕上方，另外 $50 \%$ 的试次中，假词出现在屏幕下方。为了保证刺激的数量，每个词对重复5次，每名被试完成400个实验试次。平衡左右手按键以及两个区组的顺序。
+
+# 4.3结果与分析
+
+数据处理如同实验1，所有被试正确率均达到 $80 \%$ 以上，没有剔除被试数据。仅20个语义相关实验词对的反应时和正确率数据纳入数据分析。剔除错误反应、反应时大于 $2 0 0 0 \mathrm { m s }$ 或小于 $4 0 0 \mathrm { { m s } }$ 以及在2.5个标准差之外的反应时，共删除了 $7 . 2 \%$ 的数据。各条件下反应时数据见表5。
+
+表5 语义知觉情境条件下不同空间关系的反应时(M±SD)  
+
+<html><body><table><tr><td>任务类型</td><td>空间一致(ms)</td><td>空间不一致(ms)</td></tr><tr><td>语义相关判断任务</td><td>776.95±99.58</td><td>791.62±108.60</td></tr><tr><td>真假词判断任务</td><td>839.05±116.82</td><td>853.53±101.66</td></tr></table></body></html>
+
+对反应时进行分析，结果显示空间关系的主效应显著， $F ( 1 , 4 7 ) = 5 . 1 6$ ， $\begin{array} { r } { p = 0 . 0 2 8 } \end{array}$ ， $\mathfrak { n } ^ { 2 } \mathfrak { p } ^ { = }$ 0.10，空间一致条件的反应显著快于空间不一致。任务类型的主效应显著， $F ( 1 , 4 7 ) = 4 9 . 8 9$ $p < 0 . 0 0 1$ ， $\mathfrak { n } _ { \mathrm { ~ \mathfrak { p } ~ } } ^ { 2 } = 0 . 5 2$ ，语义相关判断任务的反应显著快于真假词判断任务。空间关系与任务类型的交互作用不显著， $F ( 1 , 4 7 ) < 0 . 0 0 1$ ， $\textstyle p = 0 . 9 8 9$ 。
+
+表6语义知觉情境条件下不同空间关系的正确率 $( M \pm S D )$   
+
+<html><body><table><tr><td>任务类型</td><td>空间一致</td><td>空间不一致</td></tr><tr><td>语义相关判断任务</td><td>0.93±0.10</td><td>0.95±0.08</td></tr><tr><td>真假词判断任务</td><td>0.98±0.05</td><td>0.97±0.05</td></tr></table></body></html>
+
+正确率数据见表6，对正确率进行分析，结果显示空间关系的主效应不显著， $F ( 1 , 4 7 ) =$ 0.37， $\begin{array} { r } { p = 0 . 5 4 8 } \end{array}$ 。任务类型的主效应显著， $F ( 1 , 4 7 ) = 6 . 0 0$ ， $p = 0 . 0 1 8$ ， $\mathfrak { n } _ { \mathrm { ~ \mathfrak { p } = 0 . 1 1 } } ^ { 2 }$ ，语义相关判断任务中的正确率显著低于真假词判断任务中的正确率。空间关系与任务类型的交互作用不显著， $F ( 1 , 4 7 ) = 0 . 8 5$ ， $p = 0 . 3 6 2$ 。
+
+实验 2b 结果显示空间一致条件反应时显著快于空间不一致条件，并且任务类型与空间关系的交互作用不显著，这表明被试对词对中隐含空间信息的加工并不受语义知觉情境的调节。根据知觉符号理论，理解词对中隐含的空间信息也需要激活语义信息。语义加工的深浅并没有对被试加工隐含空间信息产生影响，这也可能表明被试对词对中隐含空间信息的加工是自动化的。此外，实验2b也发现真假词判断任务的反应时长于语义相关判断任务的反应时。这可能是由于语义相关判断中，目标词汇存在语义启动效应，从而促进了词对的加工。
+
+例如，被试对“汽车”的加工促进了对“马路”的加工，进而促进了整个词对的加工。而真假词判断任务中却没有类似的启动效应。
+
+# 5 讨论
+
+本研究通过系列实验探究语言因素和情境因素对具体概念表征过程中感知运动仿真的影响。三个系列实验均发现空间关系的主效应显著，揭示了具体概念表征过程中存在感知运动仿真，支持了知觉符号理论。
+
+关于感知运动仿真产生的影响因素，本研究分别从语言因素(一语和二语)与情境因素(空间知觉情境与语义知觉情境)两个方面进行探讨。结果表明，中英双语者在两种语言条件下均能够产生感知运动仿真，但一语具有一定的优势，具体表现为：在一语中，个体在空间一致的条件下不仅有更快的反应时，而且有更高的正确率；在二语中，个体在空间一致的条件下只有更快的反应时。但是，本研究采用的被试为英语专业的大学生，其英语熟练水平较高。对于较低熟练程度的二语者是否仍然会表现出类似的感知运动仿真，这需要后续进一步研究。本研究还揭示具体概念加工过程中感知运动仿真具有较高的自动化特性，无论是在较弱的空间知觉信息条件下还是在较浅的语义提取条件下概念表征过程中均自动仿真感知觉信息。综上所述，本研究揭示具体概念加工过程中的感知运动仿真具有跨语言稳定性和一定的自动化特性。
+
+一语具体概念加工中的感知运动仿真得到较多研究的支持。而二语的习得过程与一语存在较大的差异，这种习得差异是否会影响概念表征过程中的感知运动仿真？先前研究并没有达成一致性结论。有的研究发现一语学习者对于负性词汇和禁忌词汇相比于中性词汇和积极词汇有更高的皮肤电激活，而这种差异在二语学习者的身上没有产生，二语的感知运动仿真相比于一语较弱(Eilola&Havelka,2010)，有的研究者发现二语学习者身上存在相似的感知运动仿真(Dudschig,de la Vega,& Kaup,2014)。因此，本研究使用具有相对上下空间信息的具体概念，探讨了中英双语者在概念表征过程中是否会自动激活空间信息。实验表明，在两种语言条件下均产生了感知运动仿真，但一语条件表现出了正确率优势，这表明一语中的知觉符号仿真具有一定的优势。
+
+那么，二语的感知运动信息是如何获得的呢？是从一语概念中迁移还是在二语学习过程中重新习得相应的感知运动信息？虽然本研究没有直接探讨该问题，但是通过对先前研究的梳理可以进行初步的推测，以便对未来研究有所启发。先前研究表明，个体仅习得二语词汇与一语词汇之间的语义联系，这不足以使个体具备二语感知运动仿真的能力，个体需要在习得二语词汇的同时进行相应的感知觉体验才能够产生感知运动仿真。Gunther 等(2017)研究中向个体呈现一些新词，通过学习使个体仅获得语义信息，具体习得方法有新词与一语词汇之间对等互译或把新词放入一语自然语句中等，实验表明尽管个体能够准确识别新词的词义，但是依然难以引发感知运动仿真。OTTL 等(2017)请个体学习人造词，通过把人造词分别呈现在人们视野内的上方或下方，使个体习得人造词词义的同时获得上下空间信息，结果发现概念表征过程中仿真了上下空间信息。对比上述两个研究发现，二语的感知觉信息是二语习得过程中重新获得的结果。这可以解释本研究中二语加工中感知运动仿真的现象，英语专业大学生虽然在课堂中习得二语词汇的语义信息，但是他们会在一些真实场景或模拟场景中尝试使用，这些使用情境可能使二语学习者获得感知运动仿真的能力。
+
+实验1结果还发现，相比于二语概念，一语概念表征具有一定的优势，即一语在空间一致条件不仅表现出更快的反应时，而且有更高的正确率。先前研究也表明一语加工存在一定的优势。Baumeister 等(2017)研究发现二语情绪词相比于母语有更弱的情感体验，这种现象的产生可能与二语情绪记忆较弱有关。Chen 等(2020)使用粤语-普通话-英语三语者研究个体加工隐含空间特征句子时的感知运动仿真，结果发现所有语言都可以仿真空间信息，但是一语空间一致性效应会比二语和三语更加明显。Vukovic和Shtyrov (2014)使用脑电图动态测量德-英双语者的mu波，发现一语和二语语言理解中都激活了运动皮层，但是二语的激活水平显著低于一语。一语和二语产生这种感知运动仿真不平衡的原因可能与二语的熟练程度有关。高熟练双语者在词汇与感知觉信息之间有更稳固的连接，这种连接与一语更加相似，故产生同等程度的感知运动仿真。随着二语熟练度的提升，这种连接会变强，因此感知运动仿真会逐渐显现出语言的平衡性。如Bergen 等(2010)向二语学习者呈现词-图匹配任务，发现二语熟练度越高的被试感知运动仿真动作信息越和母语相似。Harris 等(2003)对晚期双语者的研究表明，一语的禁忌词汇和负性词汇能够引发更大的皮肤反应。研究者认为这一效应的产生可能与二语的熟练度有关。因此，二语熟练水平的提高有助于二语概念表征过程中的感知运动仿真。
+
+知觉符号理论主要建构于一语表征的基础上，对于二语概念表征并未详细论述。但是，随着世界各国和地区间交流的密切，二语学习已成为适应全球化趋势的必备能力。为更好地理解二语概念表征，并探寻高效的二语学习方法，当务之急是系统探讨二语中的感知运动仿真。本研究实验1发现，一语和二语中存在着相似的感知觉符号表征，支持了知觉符号理论。这是首次在跨语系的双语者中，发现二语中的感知运动仿真，这对弥合以往研究中的争论具有启发意义。该发现暗示，无论是一语还是二语的学习均需建立在感知运动仿真的基础上。
+
+通过结合上述发现和现有研究，本研究认为二语中的感知运动仿真似乎不是从一语中迁移过来的，而是在二语学习过程中重新建立的。但是，由于一语的先天优势，二语中的感知运动仿真似乎不如一语中的感知运动仿真流畅，该发现是对知觉符号理论研究范围的重要拓展。
+
+先前研究表明个体知觉情境信息的不同会对概念加工产生影响。在Lebois 等(2014)的研究中，请被试阅读隐含空间信息的词汇然后做向上或向下的按键反应，发现空间一致性效应并不总会产生，只有当前情境更加突出感知运动信息时，被试才会激活感知运动信息。而以往研究对情境因素如何影响具体概念加工中的感知运动仿真探讨较少。知觉符号理论也未对情境因素对概念加工中感知运动仿真的影响进行详细的界定。刘文娟等(2016)通过向被试先后呈现情绪面孔图片、情绪词的方式研究知觉信息对概念信息的影响，实验结果表明知觉信息的加工与概念信息的加工存在相互影响。根据知觉符号理论的观点，感知运动信息的加工和概念信息的加工具有重叠的神经机制，两者的关系是双向的，即概念加工会影响知觉加工，知觉加工也会影响概念加工。本研究实验2分别从空间知觉情境与语义知觉情境两个方面进一步推进，研究这种知觉加工对概念加工的影响是自动化的还是策略性的。实验 2a 通过改变垂直空间知觉信息的强弱对这一问题进行探讨。实验发现，垂直空间知觉信息的强弱对于感知运动仿真没有影响，感知运动仿真具有较高的自动化特征。实验2b 则通过语义相关判断任务与真假词判断任务进行比较，探究被试在不完全通达语义的条件下是否会产生感知运动仿真。实验发现，语义加工深度的不同对于隐含空间信息的具体概念加工中的感知运动仿真没有调节作用，这与以往相关研究结论一致。以往研究发现，无论是视觉呈现(Dudschig et al.,2013)还是听觉呈现(Dunn et al.,2014)隐含绝对空间的概念，请被试做真假词判断任务，都会引发被试的眼睛向一致方向的扫视。但以往研究较多关注具有绝对上下空间的概念，比如太阳或山谷，这些概念往往具有较强的上下空间信息，这可能导致个体可以在不完全通达语义的条件下直接仿真感知运动信息。而本研究使用的是相对空间概念(如玫瑰-花瓶)，往往缺乏绝对的上下空间信息。因此，本研究实验2b 揭示了具有相对空间概念的具体名词在概念表征过程中同样具有较高的自动化特性，不易受语义加工深度的影响。
+
+综上，本研究初步探讨了语言因素和情境因素对具体概念加工中感知运动仿真的影响，未来研究应以非熟练双语者为研究对象，考察非熟练中英双语者在不同语言条件下是否均能产生类似的感知运动仿真。此外，本研究主要探讨了垂直空间水平中具体概念的感知运动仿真的发生条件，未来研究可以深入考察水平空间中具体概念感知运动仿真的发生条件，如积极词与右手、消极词与左手的联结。
+
+# 6结论
+
+本研究系统探讨了语言因素(语言类型)和情境因素(知觉情境)对具体概念加工中的感知运动仿真的影响。实验发现熟练中英双语者在两种语言条件下均能够产生感知运动仿真，但是一语具有一定的优势。并且发现无论是在较弱的空间信息知觉条件下还是在较浅的语义信息知觉条件下，具体概念加工过程中都自动产生了感知运动仿真。该实验结果支持了知觉符号理论，表明具体概念加工中感知运动仿真既有一定的稳定性，也能自动化发生。这一发现为知觉符号理论提供了新的实证证据，扩充了知觉符号理论的应用范围。
+
+# 参考文献
+
+Barsalou,L.W.(1999).Perceptions of perceptual symbols.Behavioral and Brain Sciences,22(04),637-660.   
+Barsalou,L.W.(20o8). Grounded cognition.Annual Review of Psychologyl,59(1),617-645.   
+Barsalou,L.W.,Dutriaux,L.,& Scheepers, C.(2O18). Moving beyond the distinction between concrete and abstract concepts.Philosophical Transactions of the Royal Society B:Biological Sciences,373(1752).   
+Baumeister,J.C.,Foroni,F.,Conrad,M.,Rumiati,R.I.,&Winkielman,P.(2o17).Embodimentand emotional memory in first vs.second language.Frontiers in Psychology,8(8),394.   
+Bergen,B.,Lau,T.T.C.,Narayan,S.,Stojanovic,D.,& Wheeler,K. (2OlO).Body partrepresentations in verbal semantics. Memory & Cognition,38(7), 969-981.   
+Chen,D., Wang,R., Zhang,J.,&Liu, C.(2020).Perceptual Representations inL1,L2 andL3 Comprehension: Delayed Sentence-Picture Verification.Journal of psycholinguistic research,49(1),41-57.   
+Costa,A.,Santesteban,M.& Cano,A.(2oo5). On facilitatory efect cognate words inbilingual speech produefion. Brain and Language, 94(9): 94-103.   
+Dudschig,C.,Lachmair,M.,de la Vega,I.,DeFilippis,M.,& Kaup,B. (2012).From top to botom: spatial shifts of attention caused by linguistic stimuli. Cognitive processing,13(1),151-154.   
+Dudschig, C.,Souman,J.,Lachmair,M.,de la Vega,I.,& Kaup,B. (2013).Reading “sun”and looking up: The influence of language on saccadic eye movements in the vertical dimension. PloS one,8(2),e56872.   
+Dudschig, C.,de la Vega,I.,De Filippis,M.,& Kaup,B.(2014).Language and vertical space: On the automaticity of language action interconnections. Cortex,58,151-160.   
+Dudschig, C.,de la Vega,1.,& Kaup,B. (2014).Embodiment and second-language: Automatic activation of motor responses during processing spatially associated L2 words and emotion L2 words in a vertical Stroop paradigm. Brain and language,132,14-21.   
+Dudschig, C.,& Kaup,B. (2Ol7). Is it all task-specific? The role of binary responses,verbal mediation,and saliency for eliciting language-space associations. Journal of Experimental Psychology: Learning, Memory,and Cognition,43(2),259-270.   
+Dunn,B., Kamide,Y.,& Scheepers, C. (2014). Hearing“moon” and looking up: Word-related spatial associations facilitate saccades to congruent locations. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol.36,No.36).   
+Eilola,T.M.,& Havelka,J. (2010).Behavioural and physiological responses to the emotional and taboo Stroop tasks in native and non-native speakers of English.International Journal of Bilingualism,15(3),353-
+
+369. Estes, Z., & Barsalou,L. W. (2018). A Comprehensive Meta-Analysis of Spatial Interference From Linguistic Cues: Beyond Petrova et al. (2018).Psychological Science,29(9), 1558-1564. Fodor ,J. A. (1975). The language of thought. Cambridge, MA: Harvard University Press. Glenberg,A. M., & Kaschak, M. P. (2002). Grounding language in action. Psychonomic Bulletin & Review, 9(3), 558-565. Glenberg, A. M., & Gallese, V. (20l2). Action-based language: A theory oflanguage acquisition, comprehension, and production. Cortex, 48(7), 905-922. Grauwe, S.D., Willems,R.M.,Rueschemeyer,S.A.,Lemhofer,K.,& Schriefers, H. (2014). Embodied language in first- and second-language speakers: Neural correlates of processing motor verbs. Neuropsychologia, 56,334-349. Guinther,F., Dudschig, C.,& Kaup,B.(2018). Symbol grounding without direct experience: Do words inherit sensorimotor activation from purely linguistic context?. Cognitive science, 42,336-374. Harnad,S.(1990).The Symbol Grounding Problem. Physica D Nonlinear Phenomena,42(1-3),335-346. Harris,C.L.,Aycicegi, A.,& Gleason, J.B. (2oo3). Taboo words and reprimands elicit greater autonomic reactivity in a first language than in a second language.Applied Psycholinguistics,24(4),561-579. Jared,D.,Pei Yun Poh,R.,&Paivio,A. (2013).LlandL2 picture naming in Mandarin-Englishbilinguals: A test of Bilingual Dual Coding Theory. Bilingualism: Language and Cognition,16(2),383-396. Lachmair,M.,Dudschig,C.,Filippis,M.D., Vega,I.,& Kaup,B.(2011).Root versus roof: automatic activationof location information during word processing. Psychonomic Bulletin & Review, 18(6),1180-1188. Lakens, D. (2012). Polarity correspondence in metaphor congruency efects: Structural overlap predicts categorization times for bipolar concepts presented in vertical space. Journal of Experimental Psychology: Learning,Memory, and Cognition,38(3),726-736. Lakoff, G., & Johnson, M. (1980). Metaphors we live by. Chicago,IL: University of Chicago Press. Lebois,L.A., Wilson-Mendenhall, C.D.,& Barsalou,L. W. (2014). Are automatic conceptual cores the gold standard of semantic processing? The context - dependence of spatial meaning in grounded congruency effects. Cognitive Science, 39(8),1764-1801. Lewis,M. P., Simons, G.F.,& Fennig, C. D. (2015). Ethnologue: Languages of the world (18th ed.). SIL International. Liu,W.J.,Li,Y.,& Wang,R.M. (2015).The Role of Sensorimotor Information in Conceptual Representation. Journal of Psychological Science, 38(6),1347-1352. [刘文娟,李莹,& 王瑞明.(2015).感知运动信息在概念表征中的作用.心理科学,38(6),1347-1352.] Liu, W. J., Shen, M. Q.,Li,Y.,& Wang,R. M. (2016).The interaction between emotional concept processing and emotional face perception. Acta Psychologica Sinica, 48(2),163-173. [刘文娟，沈曼琼,李莹,王瑞明.(2016).情绪概念加工与情绪面孔知觉的相互影响．心理学报,48(2), 163-173.] Mo,L.,Wu,L.M.,& Wang, R.M. (2006). Spatial Iconicity Affects Semantic Relatedness Judgment.Journal of Psychological Science,29(4), 770-773. [莫雷，伍丽梅，王瑞明(2006)．物体的空间关系对语义相关判断的影响．心理科学,29(4):770-773] Nielsen,A. K. S.,& Rendall, D.(2013). Parsing the role of consonants versus vowels in the classic Takete-Maluma phenomenon. Canadian Journal of Experimental Psychology, 67(2),153-163. OTTL, B., Dudschig, C., & Kaup,B. (2017).Forming asociations between language and sensorimotortraces during novel word learning. Language and Cognition, 9(1),156-171. Proctor,R. W.,& Xiong,A. (2015). Polarity Correspondence as a General Compatibility Principle. Current
+
+Directions in Psychological Science,24(6), 446-451.   
+Pylyshyn,Z.W.(1984).Computation and cognition. Cambridge,MA:MITPress.   
+Strozyk,J. V.,Dudschig, C.,& Kaup,B. (2019).Do I need to have my hands free to understand hand-related language? Investigating the functional relevance of experiential simulations.Psychological research, 83(3),406-418.   
+Vukovic,N.,& Shtyrov,Y.(2O14). Cortical motor systems are involved in second-language comprehension: evidence from rapid mu-rhythm desynchronisation.NeuroImage,102, 695-703.   
+Wang,R.M.,Mo,L.,Li,L., Wang, S.P.,& Wu,J. (20o5).Perceptual symbol representation and propositional symbol representation in language comprehension. Acta Psychologica Sinica,37(2),143-150.   
+[王瑞明，莫雷,李利，王穗苹,& 吴俊.(2005).言语理解中的知觉符号表征与命题符号表征.心理学 报,37(2),143-150.]   
+Wang,R.M.,Mo,L.,Wu,L.M.,& Li,L. (20o6).The Influence of Spatial Information on Semantic Relatedness Judgment.Journal ofPsychological Science,29(6),1320-1323.   
+[王瑞明，莫雷，伍丽梅，李利.(2006).空间信息表征对语义相关判断的影响．心理科学,29(6):1320-1323.]   
+Wang,R.M.,Zhang,J.T.,Li,L,& Mo,L.(2010).The Role of Bilinguals'second Language in semantic Access of Third Language.Journal of Psychological Science,33(4):853-856.   
+[王瑞明，张洁婷,李利，莫雷.(2010).二语词汇在双语者三语词汇语义通达中的作用．心理科学, 33(4):853-856.   
+Xie,J. S.,Shen, G.Y.,& Huang,Y.L. (2022). Debates and integration of bilinguals’cross-language orthographic transfer.Journal of Psychological Science   
+[谢久书，沈光银，黄艳利.(2022).双语者跨语言正字法迁移的争议与整合．心理科学]   
+Zhao,T.Y.,Huang,Y.L., Chen,D.G.,Jiao,L.,Ramos,F.M., Wang,R.M.,& Xie,J.S.(202O).The modality switching costs ofChinese - English bilinguals in the processing ofL1 and L2. Quarterly Journal of Experimental Psychology, 73(3)396-412.   
+Zwan,R.A., Stanfield,R.,& Yaxley,R.H., (2O02).Language comprehenders mentally represent the shapes of objects.Psychological Science,13(2),168-171.   
+Zwaan,R.A.,& Yaxley,R.H. (2oo3). Spatial iconicity afects semantic relatedness judgments. Psychonomic Bulletin & Review,10(4),954-958.   
+Zwaan,R.A.,& Madden,C.J. (2oo5).Embodied sentence comprehension. Grounding cognition: The role of perception and action in memory, language, and thinking,224-245.
+
+# The Influence of Language and Context on Sensorimotor
+
+# Simulation of Concrete Concepts
+
+SHI Rubin1,XIE Jiushu², YANG Mengqing],WANG Ruiming1
+
+PhilosophyandSocial ScienceLaboratoryofReadingand DevelopmentinChildrenandAdolescents (South China Normal University),Ministry ofEducation,Guangzhou 510631,China) (School ofPsychology,Nanjing Normal University,Nanjing 21oo97,China)
+
+# Abstract
+
+How concepts are represented in the brain is an important topic in cognitive science. There are two different theories on this research question,i.e., propositional symbol theory and perceptual symbol theory.The difference between these two theories is how to treat the relationship between the internal symbol and the external archetype.The propositional symbol theory holds that the relationship between the two is arbitrary. Perceptual information does not participate in the processing of concepts. While perceptual symbols theory holds that the relationship between the two is similar. Perceptual information participates in the processing of concepts.
+
+People learn conceptual information in the vertical space.The spatial information is stored in long-term memory along with the representation of concepts. This hypothesis has been supported by many studies and is in line with the perceptual symbol theory. However, few studies have tested what factors influence sensorimotor simulation in conceptual processing.In this study, the semantic relevance judgment paradigm is used to test this question.The present study examined whether the sensorimotor simulation participates in conceptual processing in the first and second languages. Then, the present study examined how situational information modulates conceptual processing,by manipulating the intensity of spatial information and the level of semantic processing.
+
+In Experiment 1, the semantic relevance judgment paradigm is used to test whether sensorimotor simulation is involved in the second language processing and whether there is any difference between the first language and second language processing. The results of Experiment 1 show that the sensorimotor simulation has participated in the second language processing. However,there is an accuracy advantage in the sensorimotor simulation in the first language. In Experiment 2,two experiments are conducted to test the effect of the perceptual situation on sensorimotor simulation. Experiment 2a tests the influence of perceptual situation on sensorimotor simulation by changing the intensity of individual perceptual in vertical spatial axis.The results show that the sensorimotor simulation can be found in both strong and weak spatial perception. The effect of semantic processing level on perceptual motion simulation is tested in Experiment 2b.The experiment manipulates the level of semantic processng by using the semantic relevance judgment task and word judgment task. The results show that sensorimotor simulation participates in the processing of concepts, while semantic situational did not modulate this effect. The results of Experiment 2 suggest that sensorimotor stimulation may be automatic in conceptual processing.
+
+The present study conducted two experiments to test the role of sensorimotor simulation in conceptual processing. Results found that the sensorimotor simulation participates in conceptual representation, supporting the perceptual symbol theory. Furthermore, the sensorimotor simulation takes place in both Chinese and English. This finding extends the perceptual symbol theory. Finally, results found that sensorimotor stimulation may be automatic in conceptual representation and is not affected by spatial information and semantic processing.
+
+Key wordsConcrete Concept, Conceptual Representation, Sensorimotor Simulation, Perceptual Symbol Theory
+
+# 附录
+
+# 实验1和2材料
+
+(1)英文实验材料
+
+<html><body><table><tr><td>1</td><td>rose</td><td>vase</td><td>41</td><td>wine</td><td>card</td></tr><tr><td>2</td><td>car</td><td>road</td><td>42</td><td>cow</td><td>subway</td></tr><tr><td>3</td><td>bridge</td><td>river</td><td>43</td><td>bedroom</td><td>potato</td></tr><tr><td>4</td><td>eye</td><td>nose</td><td>44</td><td>dollar</td><td>stone</td></tr><tr><td>5</td><td>island</td><td>sea</td><td>45</td><td>camera</td><td>spider</td></tr><tr><td>6</td><td>cloud</td><td>rain</td><td>46</td><td>museum</td><td>vegetable</td></tr><tr><td>7</td><td>pan</td><td>stove</td><td>47</td><td>fork</td><td>donkey</td></tr><tr><td>8</td><td>head</td><td>shoulder</td><td>48</td><td>dictionary</td><td>sun</td></tr><tr><td>9</td><td>farmer</td><td>field</td><td>49</td><td>hawk</td><td>bill</td></tr><tr><td>10</td><td>boat</td><td>lake</td><td>50</td><td>snow</td><td>file</td></tr><tr><td>11</td><td>desk</td><td>book</td><td>51</td><td>forest</td><td>coin</td></tr><tr><td>12</td><td>stage</td><td>actor</td><td>52</td><td>clerk</td><td>flood</td></tr><tr><td>13</td><td>lawn</td><td>tent</td><td>53</td><td>gate</td><td>map</td></tr><tr><td>14</td><td>desert</td><td>camel</td><td>54</td><td>leaf</td><td>housewife</td></tr><tr><td>15</td><td>boot</td><td>raincoat</td><td>55</td><td>egg</td><td>lightning</td></tr><tr><td>16</td><td>pants</td><td>shirt</td><td>56</td><td>secretary</td><td>onion</td></tr><tr><td>17</td><td>table</td><td>cup</td><td>57</td><td>calculator</td><td>earth</td></tr><tr><td>18</td><td>seat</td><td>passenger</td><td>58</td><td>knife</td><td>drug</td></tr><tr><td>19</td><td>soil</td><td>plant</td><td>59</td><td> president</td><td>ant</td></tr><tr><td>20</td><td> ground</td><td>sky</td><td>60</td><td>hotel</td><td>deer</td></tr><tr><td>21</td><td>campus</td><td>student</td><td>61</td><td>soap</td><td> journalist</td></tr><tr><td>22</td><td>water</td><td>ice</td><td>62</td><td>photo</td><td>nut</td></tr><tr><td>23</td><td>lawyer</td><td>judge</td><td>63</td><td>pork</td><td>radio</td></tr><tr><td>24</td><td>textbook</td><td>schoolbag</td><td>64</td><td>snake</td><td>glove</td></tr><tr><td>25</td><td>writer</td><td>novel</td><td>65</td><td>rice</td><td>brush</td></tr><tr><td>26</td><td>fridge</td><td>television</td><td>66</td><td>machine</td><td>sand</td></tr><tr><td>27</td><td>mouse</td><td>cat</td><td>67</td><td>channel</td><td>temple</td></tr><tr><td>28</td><td>chocolate</td><td>candy</td><td>68</td><td>station</td><td>nest</td></tr><tr><td>29</td><td>sheep</td><td>pig</td><td>69</td><td>worm</td><td>passport</td></tr><tr><td>30</td><td>film</td><td>director</td><td>70</td><td>frog</td><td>toilet</td></tr><tr><td>31</td><td>orange</td><td>grape</td><td>71</td><td>spokesman</td><td>goat</td></tr><tr><td>32</td><td>baby</td><td>toy</td><td>72</td><td>highland</td><td>switch</td></tr><tr><td>33</td><td>dog</td><td>bone</td><td>73</td><td>poster</td><td>hotpot</td></tr><tr><td>34</td><td>noodle</td><td>dumpling</td><td>74</td><td>gardener</td><td>spoon</td></tr><tr><td>35</td><td>silk</td><td>cloth</td><td>75</td><td>attendant</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>pepper</td></tr><tr><td>36 37</td><td>pie lion</td><td>pizza tiger</td><td>76 77</td><td>suit chemist</td><td>corn</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td> storm</td></tr><tr><td>38</td><td>cinema</td><td>comedy</td><td>78</td><td>tear</td><td>whale</td></tr></table></body></html>
+
+<html><body><table><tr><td>39</td><td>bomb</td><td>gun</td><td>79</td><td>chef</td><td>note</td></tr><tr><td>40</td><td>panda</td><td>bamboo</td><td>80</td><td>dust</td><td>balloon</td></tr></table></body></html>
+
+注：1-20为语义相关实验词对，21-40为语义相关填充词对，41-80为语义无关填充词对(2)中文实验材料
+
+<html><body><table><tr><td>1</td><td>玫瑰</td><td>花瓶</td><td>41</td><td>果酒</td><td>纸牌</td></tr><tr><td>2</td><td>汽车</td><td>马路</td><td>42</td><td>奶牛</td><td>地铁</td></tr><tr><td>3</td><td>桥梁</td><td>河流</td><td>43</td><td>卧室</td><td>土豆</td></tr><tr><td>4</td><td>眼睛</td><td>鼻子</td><td>44</td><td>美元</td><td>石头</td></tr><tr><td>5</td><td>岛屿</td><td>海洋</td><td>45</td><td>相机</td><td>蜘蛛</td></tr><tr><td>6</td><td>乌云</td><td>雨水</td><td>46</td><td>展馆</td><td>蔬菜</td></tr><tr><td>7</td><td>煮锅</td><td>炉子</td><td>47</td><td>餐叉</td><td>毛驴</td></tr><tr><td>8</td><td>脑袋</td><td>肩膀</td><td>48</td><td>字典</td><td>太阳</td></tr><tr><td>9</td><td>农民</td><td>田地</td><td>49</td><td>老鹰</td><td>账单</td></tr><tr><td>10</td><td>小船</td><td>湖泊</td><td>50</td><td>雪花</td><td>文件</td></tr><tr><td>11</td><td>桌子</td><td>书籍</td><td>51</td><td>森林</td><td>硬币</td></tr><tr><td>12</td><td>舞台</td><td>演员</td><td>52</td><td>员工</td><td>洪水</td></tr><tr><td>13</td><td>草地</td><td>帐篷</td><td>53</td><td>闸门</td><td>地图</td></tr><tr><td>14</td><td>沙漠</td><td>骆驼</td><td>54</td><td>树叶</td><td>主妇</td></tr><tr><td>15</td><td>靴子</td><td>雨衣</td><td>55</td><td>鸡蛋</td><td>雷电</td></tr><tr><td>16</td><td>短裤</td><td>衬衫</td><td>56</td><td>秘书</td><td>洋葱</td></tr><tr><td>17</td><td>茶几</td><td>水杯</td><td>57</td><td>电脑</td><td>地球</td></tr><tr><td>18</td><td>座椅</td><td>乘客</td><td>58</td><td>匕首</td><td>药物</td></tr><tr><td>19</td><td>土壤</td><td>植物</td><td>59</td><td>总统</td><td>蚂蚁</td></tr><tr><td>20</td><td>地面</td><td>天空</td><td>60</td><td>酒店</td><td>小鹿</td></tr><tr><td>21</td><td>校园</td><td>学生</td><td>61</td><td>肥皂</td><td>记者</td></tr><tr><td>22</td><td>清水</td><td>冰块</td><td>62</td><td>照片</td><td>坚果</td></tr><tr><td>23</td><td>律师</td><td>法官</td><td>63</td><td>猪肉</td><td>广播</td></tr><tr><td>24</td><td>教材</td><td>书包</td><td>64</td><td>毒蛇</td><td>手套</td></tr><tr><td>25</td><td>作家</td><td>小说</td><td>65</td><td>大米</td><td>刷子</td></tr><tr><td>26</td><td>冰箱</td><td>彩电</td><td>66</td><td>机器</td><td>沙子</td></tr><tr><td>27</td><td>老鼠</td><td>猫咪</td><td>67</td><td>海峡</td><td>寺庙</td></tr><tr><td>28</td><td>甜品</td><td>糖果</td><td>68</td><td>车站</td><td>鸟窝</td></tr><tr><td>29</td><td>绵羊</td><td>小猪</td><td></td><td>幼虫</td><td>护照</td></tr><tr><td>30</td><td>电影</td><td>导演</td><td>69 70</td><td>青蛙</td><td>厕所</td></tr><tr><td>31</td><td>桔子</td><td>葡萄</td><td>71</td><td>高原</td><td>开关</td></tr><tr><td>32</td><td>婴儿</td><td>玩具</td><td></td><td>海报</td><td>火锅</td></tr><tr><td>33</td><td>小狗</td><td>骨头</td><td>72</td><td>园丁</td><td>调羹</td></tr><tr><td></td><td></td><td></td><td>73</td><td></td><td>胡椒</td></tr><tr><td>34 35</td><td>面条 丝绸</td><td>饺子</td><td>74</td><td>侍者 西装</td><td>谷物</td></tr><tr><td>36</td><td>馅饼</td><td>衣服</td><td>75</td><td></td><td></td></tr><tr><td></td><td></td><td>披萨</td><td>76</td><td>药师</td><td>暴雨 鲸鱼</td></tr><tr><td>37 38</td><td>狮子 影院</td><td>老虎 喜剧</td><td>77</td><td>泪水 厨师</td><td>便签</td></tr><tr><td>39</td><td>炸弹</td><td>手枪</td><td>78 79</td><td>主播</td><td>海豚</td></tr></table></body></html>
+
+<html><body><table><tr><td>40</td><td>熊猫</td><td>竹子</td><td>80</td><td>灰尘</td><td>气球</td></tr></table></body></html>
+
+注：1-20为语义相关实验词对，21-40为语义相关填充词对，41-80为语义无关填充词对
+
+# 实验2b实验材料
+
+<html><body><table><tr><td>1</td><td>玫瑰</td><td>花瓶</td><td>41</td><td>果酒</td><td>纸牌</td></tr><tr><td>2</td><td>汽车</td><td>马路</td><td>42</td><td>奶牛</td><td>地铁</td></tr><tr><td>3</td><td>桥梁</td><td>河流</td><td>43</td><td>卧室</td><td>土豆</td></tr><tr><td>4</td><td>眼睛</td><td>鼻子</td><td>44</td><td>美元</td><td>石头</td></tr><tr><td>5</td><td>岛屿</td><td>海洋</td><td>45</td><td>相机</td><td>蜘蛛</td></tr><tr><td>6</td><td>乌云</td><td>雨水</td><td>46</td><td>展馆</td><td>蔬菜</td></tr><tr><td>7</td><td>煮锅</td><td>炉子</td><td>47</td><td>餐叉</td><td>毛驴</td></tr><tr><td>8</td><td>脑袋</td><td>肩膀</td><td>48</td><td>字典</td><td>太阳</td></tr><tr><td>9</td><td>农民</td><td>田地</td><td>49</td><td>老鹰</td><td>账单</td></tr><tr><td>10</td><td>小船</td><td>湖泊</td><td>50</td><td>雪花</td><td>文件</td></tr><tr><td>11</td><td>桌子</td><td>书籍</td><td>51</td><td>肥皂</td><td>记者</td></tr><tr><td>12</td><td>舞台</td><td>演员</td><td>52</td><td>照片</td><td>坚果</td></tr><tr><td>13</td><td>草地</td><td>帐篷</td><td>53</td><td>猪肉</td><td>广播</td></tr><tr><td>14</td><td>沙漠</td><td>骆驼</td><td>54</td><td>毒蛇</td><td>手套</td></tr><tr><td>15</td><td>靴子</td><td>雨衣</td><td>55</td><td>大米</td><td>刷子</td></tr><tr><td>16</td><td>短裤</td><td>衬衫</td><td>56</td><td>机器</td><td>沙子</td></tr><tr><td>17</td><td>茶几</td><td>水杯</td><td>57</td><td>海峡</td><td>寺庙</td></tr><tr><td>18</td><td>座椅</td><td>乘客</td><td>58</td><td>车站</td><td>鸟窝</td></tr><tr><td>19</td><td>土壤</td><td>植物</td><td>59</td><td>幼虫</td><td>护照</td></tr><tr><td>20</td><td>地面</td><td>天空</td><td>60</td><td>青蛙</td><td>厕所</td></tr><tr><td>21</td><td>校园</td><td>学生</td><td>61</td><td>森林</td><td>币洪</td></tr><tr><td>22</td><td>清水</td><td>冰块</td><td>62</td><td>员工</td><td>水硬</td></tr><tr><td>23</td><td>律师</td><td>法官</td><td>63</td><td>闸门</td><td>图泪</td></tr><tr><td>24</td><td>教材</td><td>书包</td><td>64</td><td>树叶</td><td>气妇</td></tr><tr><td>25</td><td>作家</td><td>小说</td><td>65</td><td>鸡蛋</td><td>雷药</td></tr><tr><td>26</td><td>冰箱</td><td>彩电</td><td>66</td><td>秘书</td><td>葱蚂</td></tr><tr><td>27</td><td>老鼠</td><td>猫咪</td><td>67</td><td>电脑</td><td>球地</td></tr><tr><td>28</td><td>甜品</td><td>糖果</td><td></td><td>匕首</td><td>物药</td></tr><tr><td>29</td><td>绵羊</td><td>小猪</td><td>68</td><td>总统</td><td>蚁洋</td></tr><tr><td>30</td><td>电影</td><td>导演</td><td>69 70</td><td>酒店</td><td>鹿主</td></tr><tr><td>31</td><td>桔子</td><td>葡萄</td><td>71</td><td>原高</td><td>开关</td></tr><tr><td>32</td><td>婴儿</td><td>玩具</td><td>72</td><td>报海</td><td>火锅</td></tr><tr><td>33</td><td>小狗</td><td>骨头</td><td>73</td><td>丁园</td><td>调羹</td></tr><tr><td>34</td><td>面条</td><td>饺子</td><td></td><td>者主</td><td>胡椒</td></tr><tr><td>35</td><td>丝绸</td><td>衣服</td><td>74</td><td>装地</td><td>谷物</td></tr><tr><td>36</td><td>馅饼</td><td>披萨</td><td>75</td><td>师电</td><td>暴雨</td></tr><tr><td>37</td><td>狮子</td><td>老虎</td><td>76 77</td><td>水西</td><td>鲸鱼</td></tr><tr><td>38</td><td>影院</td><td>喜剧</td><td>78</td><td>师厨</td><td>便签</td></tr><tr><td>39</td><td>炸弹</td><td>手枪</td><td>79</td><td>播小</td><td>海豚</td></tr></table></body></html>
+
+<html><body><table><tr><td>40</td><td>熊猫</td><td>竹子</td><td>80</td><td>球侍</td><td>灰尘</td></tr></table></body></html>
+
+(注：1-20 为语义相关实验词对，21-40为语义相关填充词对，41-60为语义无关填充词对，61-80 为存在假词词对)

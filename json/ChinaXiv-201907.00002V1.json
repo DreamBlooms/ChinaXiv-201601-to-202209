@@ -1,0 +1,276 @@
+[
+    {
+        "type": "text",
+        "text": "The Change of the Electron Clouds of Ions in Cuprate Superconductor CaCuO2: A First-Principles Investigation of the Electron-Pairing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mechanism ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TieGe Zhou ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "zhoutg@nankai.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "College of Electronic Information and Optical Engineering,Nankai University,30o350 Tianjin,P.R.China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "July 2, 2019 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P. W.Anderson raised an important question in 2Oo7: Is There Glue in Cuprate Superconductors? The author believes that the change of the electron clouds of ions is the glue in cuprate superconductors. The change of the electron clouds of the ions in the parent structure of the layered high-temperature superconductors ${ \\mathrm { C a C u O } } _ { 2 }$ has been studied by the first-principles calculations. The electron clouds of ${ \\mathrm { C u } } ^ { 2 + }$ and $0 ^ { 2 \\cdot }$ ions change obviously under electric fields. It is also found, for the first time, the characteristic frequencies of the change of the electron clouds are 250 meV, 360 meV, and $1 0 0 \\ \\mathrm { m e V } ,$ respectively, for the modes observed. The frequencies are low and close to that of lattice vibrations, indicating the change of the electron cloud of ions can be the electron-pairing medium in cuprate superconductors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:cupratesuperconductors;time-dependentdensityfunctional theory; electron-pairing medium ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 1986，J.G. Bednorz and K.A． Müller [1］ discovered that there may be high-temperature superconductivity (HTS) in La-Ba-Cu-O oxides. After that, many cuprate superconductors were discovered with transition temperatures higher than 77K [2][3]4]. The electron-lattice interaction cannot explain the electron pairing mechanism in cuprate superconductors.The pairing mechanism for unconventional HTS is still under debate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P. W. Anderson [5] raised an important question in 2007: Is There Glue in Cuprate Superconductors? The author believes that the change of the electron clouds of ion can be the glue in cuprate superconductors. The mechanism is as follows.When a free electron comes to a new location, the electron cloud of the ions in the vicinity will change.In this way, the charge density around the free electron will decrease. When the free electron leaves, the electron cloud of the ions will not relax immediately, so that there will be a region lack of charge (equivalent to a positive charge region） that will atract another free electron. Atraction between free electrons appears. This mechanism is essentially the same as the electron-phonon interaction, except that the medium is the change of the electron cloud, not the displacement of ions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to Born Oppenheimer approximation [6l， the electrons are moving and responding to forces very quickly, because the electrons have much smaler masses than the nuclei (more than 1Ooo times). The electron density changes too fast and can not be excited by free electrons. So,it is generally believed that electron pairing cannot be achieved by the change of the electron cloud. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "But, can the electron density change as slowly as the nucleus? If it is, then it can be the electron-pairingmedium. ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the above consideration the author made an investigation. The research object is the parent structure of the layered high-temperature superconductors ${ \\mathrm { C a C u O } } _ { 2 }$ [7]. Firstly, the change of the charge density under the influence of electric fields was studied. Secondly, the characteristic frequency of the change was calculated with real-time TDDFT method [8, 9l. The author found,for the first time, the characteristic frequencies of the change of the electron clouds of ions are close to that of the latice vibration. So,the change of the electron cloud of ions can be excited by free electrons, indicating the change of the electron clouds can be electron-pairing medium in cuprate superconductors. This paper will report the methods and results. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Firstly, VASP[10][11] and QE[12] are used to study the change of charge densities under the influence of electric fields. In calculations with VASP, the projector augmented plane wave (PAW) method [13][14] was used to describe the interaction between the valence electrons and the ion cores. The generalized gradient approximation (GGA) of Perdew-Burke-Ernzerhof (PBE) [15] was used for the exchange correlation potential. To describe the strong correlation of the $3 d$ electrons, the $\\mathrm { G G A ^ { + } U }$ method is used. For the $3 d$ orbitals of $\\mathrm { C u }$ ，the $\\mathrm { U } _ { \\mathrm { e f f } }$ value is $6 . 5 \\mathrm { e V }$ [16][17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plane waves were used to expand the valence electron wave functions. The cutoff energy is set to $4 0 0 ~ \\mathrm { e V }$ which has been tested by taking both accuracy and computing cost into account. The valence electron configurations of the pseudopotentials are taken as $3 \\mathrm { s } ^ { 2 } 3 \\mathrm { p } ^ { 6 } 4 \\mathrm { s } ^ { 2 }$ for Ca, $3 \\mathrm { p } ^ { 6 } 3 \\mathrm { d } ^ { 1 0 } 4 \\mathrm { s } ^ { 1 }$ for $\\mathrm { c u }$ and $2 \\mathrm { s } ^ { 2 } 2 \\mathrm { p } ^ { 4 }$ for O. Further calculations with the Heyd, Scuseria,and Ernzerhof (HSE) [18] hybrid-functional were performed for crossvalidation. In the calculation with QE, norm-conserving pseudopotentials were employed to calculate the change under uniform electric fields. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Then, the characteristic frequency of the change of the charge density was studied by the real-time TDDFT method. Calculations were conducted within the Octopus package [19, 20]. $3 \\mathrm { p } ^ { 6 } 4 \\mathrm { s } ^ { 2 }$ of Ca, $3 \\mathrm { p } ^ { 6 } \\mathrm { d } ^ { 1 0 } 4 \\mathrm { s } ^ { 1 }$ of $\\mathrm { { C u } }$ and $2 \\mathrm { s } ^ { 2 } \\mathrm { p } ^ { 4 }$ of $\\mathrm { ~ o ~ }$ are taken as valence electrons. The generalized gradient approximation (GGA) of Perdew-Burke-Ernzerhof (PBE) was used to describe the exchange-correlation energy. The $\\mathrm { G G A ^ { + } U }$ method [21, 2] was considered to deal with the strong correlation of the $3 d$ electrons. HSCV pseudopotentials [23］ were adopted. Approximated Enforced Time-Reversal Symmetry (AETRS) algorithm was used to approximate the evolution operator and the time step is $0 . 0 0 2 \\hbar / \\mathrm { e V } .$ （204号 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Results and Discussions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 displays the crystal structure and the charge density difference (CDD) with and without electric fields. The yellow color represents a positive value or increase of the charge density，while the blue color negative or decrease. The charge density around ${ \\mathrm { C u } } ^ { 2 + }$ ions change significantly. There is no similar change around $\\mathrm { C a } ^ { 2 + }$ ions.The change is more like a rigid rotation rather than an elastic deformation, because the change is not entirely along the direction of the electric field. Some areas increase, while some areas decrease.Furthermore, the pattern of the change is like $3 d$ electron clouds. Why do electron clouds change this way? We know that transition metal ions have incompletely filled $3 d$ orbitals. The electron cloud does not have perfect spherical symmetry. It is like a polar molecule and will change under electric fields. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The charge density around $0 ^ { 2 \\cdot }$ ions changes significantly, too. The author thinks that the valence of $0 ^ { 2 \\cdot }$ ions is not $^ { - 2 }$ strictly. If it is a strict $^ { - 2 }$ valence, it will remain unchanged just like $\\mathrm { C a } ^ { 2 + }$ ions.The author has also studied eight other unconventional superconductors （204号 $\\mathrm { ( F e _ { 2 } K S e _ { 2 } }$ ， $\\mathrm { L a } _ { 2 } \\mathrm { F e } _ { 2 } \\mathrm { A s } _ { 2 } \\mathrm { O } _ { 2 }$ ，Nd2Fe2As2O2，Ba2Fe4AS4，YBa2Cu3O7， $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 9 } }$ $\\mathrm { T l } _ { 2 } \\mathrm { B a } _ { 2 } \\mathrm { C a C u } _ { 2 } \\mathrm { O } _ { 8 }$ and $\\mathrm { B i } _ { 2 } \\mathrm { S r } _ { 2 } \\mathrm { C a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 1 0 } )$ [24]. Under static electric fields, the electron clouds of transition metal ions change significantly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/65c350801cc7a47f5544123555d5c507e72c914582b158f97dc16675fdf6f77f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 (a) Crystal structure of ${ \\mathrm { C a C u O } } _ { 2 }$ ; (b) Charge density difference (CDD) caused by Uniform E-field (QE, isosurface $= 0 . 0 0 5$ , efield_cart(1) $\\ O =$ efield_cart(2) $\\ O =$ efield_cart(3) $= 0 . 0 0 2$ ,kpoint $= 5 { \\times } 5 { \\times } 7$ ,ecutwfc $= 6 0 . 0 \\mathrm { R y }$ )；; (c) CDD caused by changing one atom slightly (VASP, $\\mathrm { G G A ^ { + } U } ,$ kpoints $= 6 { \\times } 6 { \\times } 1 0$ , isosurface $= 0 . 0 0 5$ ); The effect of an electric field induced by a slight change in the position of one oxygen atom in the copper oxide plane.The original coordinate of the oxygen atom is (0.75,0.25,0.00),and changed to (0.8,0.3,0.00); (d) CDD caused by changing one atom (VASP, HSE, kpoints $= 6 { \\times } 6 { \\times } 1 0$ ,is $_ { 0 } = 0 . 0 0 5$ ). Plots were generated using VESTA [25]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to study the real-time evolution of the change of the charge density, two methods are used to excite the charge vibration. One is to apply a time dependent electric field,while the other is to slightly change the position of some atom. The form of the time-dependent electric field is as below: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( t ) = F _ { 0 } \\cos ( \\frac { \\pi } { 2 } \\frac { t - 2 \\tau _ { 0 } - t _ { 0 } } { \\tau _ { 0 } } ) \\cos \\omega t \\qquad I f \\left| t - t _ { 0 } \\right| > \\tau _ { 0 } , t h e n f ( t ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 shows the crystal structure and the real-time evolution of the charge density excited by a time dependent electric field with $\\omega = 1 . 8 \\ \\mathrm { e V }$ and $F _ { 0 } = 1 . 0 \\ \\mathrm { e V } /$ angstrom. The excitation vanishes after 5OoO steps and the charge densities vibrate freely thereafter. After 7000 steps,the charge densities are recorded.10O represents the charge density difference between the 7100th step and the 7000th step and the same below. The change of the electron clouds of the $0 ^ { 2 \\cdot }$ ions (marked with an arrow) become obvious gradually with the evolution steps.The change of the charge density reaches its maximum after about 5OO steps,and the corresponding time is $1 . 0 \\ \\hbar / \\mathrm { e V } .$ It is the time from zero to the maximum. The time of one period should be $4 { \\times } 1 . 0 \\hbar / \\mathrm { e V }$ and the frequency is about $2 5 0 { \\mathrm { ~ m e V } } .$ （204 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7b51c2cfd2d939348af2f11ee3f0a90f09a010c5326fc5245fcd061eef2a17d.jpg",
+        "img_caption": [
+            "Fig.2 Crystal structure and the charge density evolution of ${ \\mathrm { C a C u O } } _ { 2 }$ . The isosurface is $0 . 0 0 2 ~ \\mathrm { e / b o h r ^ { 3 } }$ .Theyellow color represents an increase of the charge density,while the blue a decrease. $\\omega = 1 . 8 \\mathrm { e V }$ and $F _ { 0 } = 1 . 0 \\mathrm { e V } ,$ /angstrom. The excitation vanishes after 5OoO steps and the charge densities vibrate freely thereafter. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 shows the crystal structure and the real-time evolution of the charge density excited by a time dependent electric field with $\\omega = 1 . 8 \\mathrm { ~ e V }$ and $F _ { 0 } = 1 0 ~ \\mathrm { e V } /$ angstrom. The excitation vanishes after 5OoO steps and the charge densities vibrate freely thereafter. After 18000 steps,the charge densities are recorded 5O represents the charge density difference between the 18050th step and the18000th step. The change of the charge density of the ${ \\mathrm { C u } } ^ { 2 + }$ ion marked with an arrow reaches its maximum after about 350 steps,and the frequency is about $3 6 0 \\mathrm { m e V } .$ （20 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd0256db59ce1bc3d34a6e18cbd1cd9521de03a464a351f77a70b477727f995b.jpg",
+        "img_caption": [
+            "Fig.3 Crystal structure and the charge density evolution of ${ \\mathrm { C a C u O } } _ { 2 }$ excited by a time dependent electric field with "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\omega = 1 . 8 \\ \\mathrm { e V }$ and $F _ { 0 } = 1 0 \\ \\mathrm { e V } / \\$ angstrom.The isosurface is 0.04. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 shows the crystal structure and the real-time evolution of the charge density excited by slightly changing an Ca atom. To excite the charge vibration, the position of a Ca atom is slightly changed. The original coordinate is (0, 0.5, 0.5),and modified to (0.02, 0.52, 0.5),ie.，the Ca atom was moved in the (Oo1） direction by $0 . 1 5 \\mathrm { ~ \\AA ~ }$ . Ground state was calculated. Then the coordinate was modified back to (0,0.5,0.5） for TDDFT calculation. Charge densities were recorded after 13o0O steps. The electron cloud of the ${ \\mathrm { C u } } ^ { 2 + }$ ion marked with an arrow changes gradually. The change reaches its maximum value afterl3Oo steps and the frequency is about $1 0 0 { \\mathrm { m e V } } .$ （20 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd649c1484b0918c07af6d918775329207453bf833ae9090db47959169f4308a.jpg",
+        "img_caption": [
+            "Fig. 4 Crystal structure and evolution of the charge density of ${ \\mathrm { C a C u O } } _ { 2 }$ .The isosurface is 0.03. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The author also studied the change of the electron cloud of the ions in other superconductors [26]. For the TDDFT study of $\\mathrm { L a } _ { 2 } \\mathrm { F e } _ { 2 } \\mathrm { A s } _ { 2 } \\mathrm { O } _ { 2 }$ ,FeSe sheet and $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } }$ the characteristic frequencies are 160 meV, 190meV, and $2 5 0 \\mathrm { m e V } ,$ respectively [27]．For ${ \\mathrm { B a F e } } _ { 2 } { \\mathrm { A s } } _ { 2 }$ ， the characteristic frequencies are 150 meV, 160 meV, 250 meV, and $2 0 0 \\ \\mathrm { m e V } ,$ （204 respectively, for the modes the author observed [28]. Table 1 gives the maximum phonon frequenciesand $T _ { \\mathrm { c } }$ of three typical conventional superconductors. The characteristic frequencies of the change of the electron clouds are close to that of the latice vibrations. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4218e328226b25efd2ce8958c4b6afa8e50d25dc98926ea7e7c5a078f92793cf.jpg",
+        "table_caption": [
+            "Table 1 Maximum phonon frequencies and $T _ { \\mathrm { c } }$ of three typical conventional superconductors. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Pb[29]</td><td>MgB2[29]</td><td>H3S[30]</td></tr><tr><td>ω/meV</td><td>9</td><td>90</td><td>250</td></tr><tr><td>Tc/K</td><td>7</td><td>39</td><td>164</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is worth noting that the change of the electron clouds of transition metal ions is very complicated. There may be different modes,corresponding to different frequencies. The results are unexpected, because the general view is that the change of the electron density is very quick and the frequency is much higher than the lattice vibration. The frequencies the author obtained are close to that of the latice vibration, indicating it can be excited by free electrons. So， the change of the electron clouds of transition metal ions can be the electron-pairing medium. W. A.Litte [31 gave similar results, but the frequencies are too high （204号 $\\mathrm { ( > 1 0 0 0 ~ m e V ) }$ . Whether it can be excited by free electrons should be justified. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Why do the electron clouds of transition metal ions change this way? The main reason is that the electron clouds possess no spherical symmetry, and easy to change under electric fields. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Summary ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The change of the electron clouds of ions in ${ \\mathrm { C a C u O } } _ { 2 }$ was studied by the first-principles method.The author found,for the first time, that the electron cloud of ions can change slowly. The frequencies of evolution of electron clouds match well with the frequencies of the lattice vibrations. This is contrary to Bonn Oppenheimer approximation. Though the frequencies obtained by this method are not accurate, it can give a significant evidence that the change of electron clouds can be the electron-pairing medium in HTS.The change of electron cloud can be used as a pairing medium for superconducting electrons. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Bednorz, J. G., Müller, K. A.: Possible high $T _ { C }$ superconductivity in the Ba-La-Cu-O system. Zeitschrift fur Physik B 64,189-193 (1986)   \n[2] Wu, M. K., Ashburn, J.R., Torng, C.J., Hor,P.H., Meng, R.L., Gao,L., Huang, Z. J., Wang, Y. Q., Chu, C. W.: Superconductivity at $9 3 \\mathrm { K }$ in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure. Physical Review Letters 58, 908-910 (1987)   \n[3] Zhao, Z. X., Chen, L. Q., Yang, Q. S., Huang, Y. Z., Chen, G. H., Tang, R. M.,Liu, G.R., Cui, C. G., Chen,L., Wang,L. Z., Guo, S. Q.,Li, S.L., Bi, J. Q.: Superconductivity above liquid-nitrogen temperature in Ba-Y-Cu oxides. Chinese Science Bulletin 6, 412-414 (1987)   \n[4] Chu, C. W., Gao,L., Chen,F., Huang, Z. J., Meng, R. L., Xue, Y. Y.: Superconductivity above 150 K in $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 + \\delta } }$ at high pressures. Nature 365,323-325 (1993).   \n[5] Anderson, P.W.: Is There Glue in Cuprate Superconductors? Science 22,1705-1707 (2007) [6] M. Born and R. Oppenheimer,“Zur Quantentheorie der Molekeln,” Ann. Physik 84, 457-484 (1927).   \n[7] Siegrist, T., Roth, R.S., Zahurak, S.M., Murphy, D.W.: The parent structure of the layered high-temperature superconductors, Nature 334, 231-232 (1988).   \n[8] Castro, A., Marques, M.A.L., Alonso, J.A., Rubio, A.: Optical properties of nanostructures from time-dependent density functional theory,J. Comp. Theoret. Nanoscience 1,231-255 (2004). [9] Marques, M.A.L., Gross, E.K.U.: Time-dependent density functional theory, Annu. Rev. Phys. Chem. 55 427-455 (2004).   \n[10] Kresse, G., Hafner, J.: Ab initio molecular dynamics for liquid metals. Physical Review B 47, 558-561 (1993).   \n[11] Kresse, G., Furthmuller, J.: Eficient iterative schemes for ab initio total-energy calculations using ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a plane-wave basis set.Physical Review B 54,11169-11186 (1996). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12] Giannozzi,P., Baroni,S.,Bonini,N., Calandra,M.,Car,R., Cavazzoni, C., Ceresoli,D., Chiarotti, G. L., Cococcioni, M.,Dabo,I., Corso,A.D., de Gironcoli, S.,Fabris,S.,Fratesi, G., Gebauer, R., Gerstmann, U., Gougoussis, C., Kokalj, A.,Lazzeri, M., Martin-Samos,L., Marzari, N., Mauri,F., Mazzarello,R., Paolini, S., Pasquarello,A., Paulatto,L.,Sbraccia, C., Scandolo, S., Sclauzero, G., Seitsonen, A. P., Smogunov, A., Umari, P., Wentzcovitch, R. M.: QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials. Journal of Physics: Condensed Matter 21,395502 (2009)   \n[13] Blochl, P.E.: Projector augmented-wave method. Physical Review B 50,17953-17979 (1994) [14] Kresse, G., Joubert, D.: From ultrasoft pseudopotentials to the projector augmented-wave method. Physical Review B 59,1758-1775 (1999)   \n[15] Perdew, J. P., Burke,K., Ernzerhof, M.: Generalized Gradient Approximation Made Simple. Physical Review Letters 77, 3865 (1996)   \n[16] Qian, M. C., Hu, W. Y., Zheng, Q. Q.: Electronic structure of $\\mathrm { P r B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 }$ and $\\mathrm { Y B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 }$ A local spin density approximation with the on-site Coulomb interaction study. Journal of Applied Physics 85, 4765-4767 (1999)   \n[17] Blaha P., Schwarz, K., Novak, P.: Electric Field Gradients in Cuprates: Does LDA $+ \\mathrm { U }$ Give the Correct Charge Distribution? International Journal of Quantum Chemistry 101, 550-556 (2005) [18] Heyd,J., Scuseria, G.E., Ernzerhof, M.: Hybrid functionals based on a screened Coulomb potential. Journal of Chemical Physics 118, 8207-8215(2003)   \n[19] Andrade, X., Strubbe, D.A., De Giovannini, U.,Larsen, A.H., Oliveira, M.J.T., Alberdi-Rodriguez, J., Varas,A., Theophilou,I., Helbig,N., Verstraete, M., Stela,L, Nogueira,F, Aspuru-Guzik,A., Castro,A., Marques, M. A. L., Rubio, A.: Real-space grids and the Octopus code as tools for the development of new simulation approaches for electronic systems. Phys. Chem. Chem. Phys.17, 31371-31396 (2015)   \n[20] Marques,M.A.L., Castro,A.,Bertsch, G.F., Rubio,A: Octopus: a first-principles tool for excited electron-ion dynamics. Comput. Phys. Commun. 151 60-78 (2003)   \n[21] Agapito,L.A., Curtarolo, S., Nardeli, M.B.: Reformulation of DFT + U as a Pseudohybrid Hubbard Density Functional for Accelerated Materials Discovery. Phys. Rev. X 5(1), 011006 (2015) [22] Tancogne-Dejean, N., Oliveira, M.J.T., Rubio,A.: Self-consistent DFT $+ \\mathrm { U }$ method for real-space time-dependent density functional theory calculations. Phys. Rev. B 96,245133 (2017) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23] Vanderbilt, D.: Optimall smooth norm-conserving pseudopotentials. Phys. Rev. B 32,8412-8115 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1985)   \n[24] Zhou, T.G.: Rotation of Transition Metal Ions under Electric Fields: Possible New   \nSuperconducting Electron Pairing Mechanism.http://vixra.org/abs/1804.0338 (2018)   \n[25] Momma, K., Izumi, F.: VESTA: a three-dimensional visualization system for electronic and structural analysis. J. Appl. Cryst. 41, 653-658 (2008).   \n[26] Tiege Zhou: Rotation of Transition Metal Ions under Electric Fields: Possible New   \nSuperconducting Electron Pairing Mechanism. http://vixra.org/abs/1804.0338(2018)   \n[27] Tiege zhou: Real-Time Evolution of the Electron Clouds of Transition Metal Ions:   \nElectron-Pairing Medium of Unconventional High Temperature Superconductors,   \nhttp://vixra.0rg/abs/1904.0447 (2019)   \n[28] Tiege Zhou: Characteristic Frequency of the Orbital Fluctuation in the Unconventional Iron-Based Superconductor Bafe2as2: a TDDFT Investigation of the Electron Pairing Mechanism.   \nhttp://vixra.0rg/abs/1906.0205 (2019)   \n[29]Ponce, S.,Margine,E.R., Verdi, C., Giustino,F.: EPW: Electron-phonon coupling, transport and superconducting properties using maximally localized Wannier functions. Comput. Phys. Commun. 209,116-133 (2016)   \n[30] Durajski, A.P., Szczesniak,R.: First-principles study of superconducting hydrogen sulfide at pressure up to 500 Gpa. Sci. Rep. 7, 4473 (2017)   \n[31] Little, W. A., Holcomb, M. J., Ghiringhell, G., Braicovich,L.,Dallera, C., Piazzalunga, A., Tagliaferri,A., Brookes,N. B.: A determination of the pairing interaction in the high $T _ { \\mathrm { c } }$ cuprate superconductor $\\mathrm { T l _ { 2 } B a _ { 2 } C a C u _ { 2 } O _ { 8 } }$ (Tl2212).Physica C 460-462,40-43 (2007). ",
+        "page_idx": 9
+    }
+]

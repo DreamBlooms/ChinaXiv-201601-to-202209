@@ -1,0 +1,267 @@
+[
+    {
+        "type": "text",
+        "text": "The Application of SNiPER to the JUNO Simulation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tao Lin1, Jiaheng Zou1,Weidong $\\mathbf { L i } ^ { 1 }$ ， Ziyan Deng $^ 1$ ， Xiao Fang², Guofu Cao $^ 1$ ， Xingtao Huang $^ 3$ and Zhengyun You4 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(On Behalf of the JUNO Collaboration) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Institute of High Energy Physics, Chinese Academy of Sciences,Beijing, China   \n$^ 2$ Sichuan University, Chengdu, China   \n$^ 3$ Shandong University, Jinan, China   \n$^ 4$ Sun Yat-sen University, Guangzhou, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail:lintao@ihep.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract. The JUNO （Jiangmen Underground Neutrino Observatory） is a multipurpose neutrino experiment which is designed to determine neutrino mass hierarchy and precisely measure oscillation parameters.As one of the important systems,the JUNO ofline software is being developed using the SNiPER software.In this proceeding,we focus on the requirements of JUNO simulation and present the working solution based on the SNiPER. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The JUNO simulation framework is in charge of managing event data, detector geometries and materials,physics processes,simulation truth information etc. It glues physics generator, detector simulation and electronics simulation modules together to achieve a full simulation chain.In the implementation of the framework,many attractive characteristics of the SNiPER have been used,such as dynamic loading,fexible fow control, multiple event management and Python binding.Furthermore,additional efforts have been made to make both detector and electronics simulation flexible enough to accommodate and optimize different detector designs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the Geant4-based detector simulation,each sub-detector component is implemented as a SNiPER tool which is a dynamically loadable and configurable plugin. So it is possible to select the detector configuration at runtime. The framework provides the event loop to drive the detector simulation and interacts with the Geant4 which is implemented as a passive service.All levels of user actions are wrapped into different customizable tools,so that user functions can be easily extended by just adding new tools. The electronics simulation has been implemented by following an event driven scheme.The SNiPER task component is used to simulate data processing steps in the electronics modules. The electronics and trigger are synchronized by triggered events containing possible physics signals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The JUNO simulation software has been released and is being used by the JUNO collaboration to do detector design optimization,event reconstruction algorithm development and physics sensitivity studies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JUNO [1,2] is a multi-purpose neutrino experiment designed to measure neutrino mass hierarchy and precisely measure oscillation parameters and detect astrophysical and geological neutrinos. It will be located in southern China about 53 km away from Yangjiang and Taishan nuclear power plants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the schematic view of the JUNO detector. The central detector (CD), which is the innermost part, is used for neutrino detection. It consists of a spherical acrylic vessel containing 20 kt liquid scintilltor (LS). Photomultiplier tubes (PMTs) are placed surrounding the acrylic vessel to collect light from LS.Around the CD,a water pool is used to shield radioactivities. PMTs in the water pool are used to veto cosmic ray muon events by detecting Cherenkov light. On the top of the water pool, there is a top tracker which is also used to measure and veto muons. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3e7ff5da6c4fd473024b66d2a765c9a4fafea527556bb9beb9f3e6ec27bbd9f.jpg",
+        "img_caption": [
+            "Figure 1.Schematic view of JUNO detector "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The raw data needs to be processed ofline and reconstructed for further physics analysis. The simulation data and raw data share the same event data model, so the simulation data could be processed in the same way. Figure 2 shows the current data processng steps, which are implemented as diferent algorithms following the scheme of the SNiPER [3] framework. Each algorithm reads event data 4] from data buffer and does corresponding calculations, then puts the result back to data bufer. A ROOT I/O [5] service is used for event data persistency from data buffer to disk and vice versa. A detector geometry service uses GDML [6] and ROOT as detector geometry description, which can be used by algorithms in a unified way. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Figure 2, the physics generators generate kinematic information of primary particles, which are saved into GenEvent objects. The format of HepMC [7] is used in GenEvent. Other formats, such as HepEvt and GENIE [8],are converted to HepMC via corresponding tools. In the next step,the detector simulation algorithm accesses these GenEvent objects and starts tracking. Hits,which contain charge and time information, are generated in sensitive detectors and saved in SimEvent objects. After that,the electronics simulation algorithm reads these SimEvent objects and performs the digitization, which generates ElecEvent objects containing waveforms information. These waveforms are processed by PMT calibration algorithm and CalibEvent objects are saved. The event reconstruction algorithm performs the event reconstruction by reading CalibEvent objects and stores RecEvent objects. At last， physicists can perform any physics analysis from RecEvent objects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As part of the offline data processing software [9],the reliable Monte Carlo (MC) simulation software plays an important role for detector parameters optimization and physics study. A simulation framework is developed based on SNiPER framework，consisting of physics generators,detector simulation and electronics simulation modules. It is integrated with SNiPER ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f2c868ff1304b3be04736b80a02bb7536f3af245107327b198d4890092d6b88.jpg",
+        "img_caption": [
+            "Figure 2. Work flow of data processing "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and takesadvantages of SNiPER. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Detector simulation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The JUNO detector simulation software, which is based on Geant4 [10,11]，was developed as a standalone application. In order to run simulation in the framework, several interface classes are designed to integrate SNiPER and Geant4 without too much modification to the user code. The extendibility supplied by SNiPER simplifes management of physics generator， detector geometry construction,user actions and so on. At the same time,tools are used to configure parameters using Python scripts instead of using Geant4's macro files. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3fdd02ae32d8edffaff48b8f136504461bd9ae91963c9755d91badd0379c4bd.jpg",
+        "img_caption": [
+            "Figure 3. Class diagram of detector simulation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the design of detector simulation framework. This detector simulation framework is a bridge between Geant4 and SNiPER.It consists of the integration of Geant4 and SNiPER, a configurable user interface, geometry management and modularized user actions. With this extra layer as middleware, detector simulation becomes a seamless component of the offline software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Both SNiPER and Geant4 have their own event loop control. It's necessary to adapt Geant4's event processing work flow into SNiPER. In order to adopt SNiPER's event loop,an algorithm named DetSimAlg is invoked event by event in SNiPER. Then DetSimAlg invokes a service named G4SvcRunManager，which is derived from G4RunManager, to initialize simulation and start tracking. To decouple run manager and user code, such as detector construction and physics list,a factory class named DetSimFactory is implemented. This class is responsible for constructing user code and passing them to G4SvcRunManager. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Physics generator interfaces, physics processes and detector components are all configurable. Instead of using Geant4's macro files, they are configured by lightweight tools. This keeps user interface same as other algorithms by using Python script only. To be compatible with Geant4's macro files,a command line option can be used to specify input macro files. For example, user can visualize detectors by specifying a visualization macro file. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Geometry management is an issue when there are several different detector design options. To be consistent and flexible,a detector element is proposed to represent one detector component, which is a high level concept. For example,a central detector is a detector element，which contains LS,container and buffer material only. However,PMTs are not placed in this detector element.Therefore diferent options of central detector can be interchanged while keeping the arrangement of PMTs unchanged. It's also useful when diferent types of PMTs are used. These PMTs are managed in a unified way. Besides real detector components,a detector component based on GDML can construct any geometries and materials via parsing an input GDML file. There is another interface to control the placement of detector elements. Calibration units are placed into the central detector at runtime by a corresponding configuration. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "User actions are important for developers to get MC truth information during detector simulation. To modularize these user actions,they are organized into a list of lightweight tools, which can access all necessary information supplied by Geant4. A manager, which manages these tools, is invoked by diferent levels of user actions. Then it dispatches calculation to these tools according to their registration order. Users can load the corresponding tools according to requirements. Developers can create a new tool without modifying any other tools. There are some “official” tools loaded by default, such as writers for event data model and geometry. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Electronicssimulation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An IBD (inverse beta decay, $\\bar { \\nu } _ { e } + p \\to e ^ { + } + n$ ） event consists of a prompt signal from $e ^ { + }$ and a delayed neutron captured on hydrogen. Electronics simulation needs to split such a physics event into two readouts. Meanwhile, detector backgroud mixing is also needed. In order to handle both event splitting and event mixing,a “pull” mode is proposed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5b068c84188b3ea6ae7c7f0e573897933563db0a843e4f2730bb9a2b60a521a.jpg",
+        "img_caption": [
+            "Figure 4. Work flow of electronics simulation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Instead of starting from an event mixing algorithm, electronics simulation starts from a readout algorithm,as shown in Figure 4. At first, the readout algorithm needs a trigger from the trigger buffer to create a readout event. If the corresponding trigger bufer is empty, the trigger simulation algorithm is asked to execute. Then this trigger simulation needs enough pulses to give a trigger of an event. If there are not enough pulses in the pulse bufer,a PMT simulation algorithm starts to produce pulses from the hit bufer, until there are enough pulses in a time window. An unpacking algorithm unpacks hits from diffrent events into the hit buffer, while an event mixing algorithm put events into the event buffer. After allbuffers are flled with corresponding data, the readout algorithm digitizes the waveforms and saves them into readout event.In such a process, simulation of one event is done. Finally the global time stamp is updated to synchronize the data buffers. For memory optimization, circular buffers are used in Some algorithms, such as the waveform algorithm. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this implementation,each algorithm is associated with a task. These tasks are executed passively and invoked only when the data in the corresponding buffer is not enough. SNiPER's incident mechanism is used to communicate between an algorithm and a task.When a task is invoked, registered algorithms in this task are executed once.At the same time, input service, output service and buffer service of this task are updated. To mix events from diferent files, tasks with only input service and buffer service are setup dynamicaly. User can also use a label name to identify type of data and associate its event rate. According to the event rate,an event mixing algorithm invokes corresponding tasks respectively. Then this event mixing algorithm accesses buffers in these tasks and puts events into its own bufer. Then an unpacking algorithm Sorts all hits by time order and mixes them up. In this way, hit-level event mixing is achieved. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.Performance measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IBD events are used for performance study. Detector simulation, electronics simulation without mixing and electronics simulation with mixing are measured respectively. For each category, 20 jobs with 10o0 readout events per job are prepared. Jobs were submitted to a dedicated blade server with the Intel Xeon E5-4620 v2 $@$ 2.60GHz CPU and 132 GB of memory. When a job is running, a daemon process monitors its CPU and memory usage and saves the result into files. To eliminate interference, this daemon updates the result every 5 seconds. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Due to readout splitting of IBD events, one SimEvent object will produce two ElecEvent objects. For an electronics simulation job,1000 readout objects are produced from less than 500 IBD events. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Hit-level event mixing is performed in electronics simulation only. The input SimEvent objects are prepared before event mixing. For the test,1 Hz of IBD events are used here, with 6 Hz of U-238 events,6 Hz of Th-232 events and 2 Hz of K-40 events. The other configuration is the same as previous measurements. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf3ab1c9e429ce4aa7a813221b0f7a0c28374705b0b13a54e7a543ba2d88749a.jpg",
+        "table_caption": [
+            "Table 1. Summary of software performance "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>DetSim</td><td>ElecSim w/o mixing</td><td>ElecSim w/ mixing</td></tr><tr><td>Physical memory (GB)</td><td>0.9</td><td>0.5</td><td>0.6</td></tr><tr><td>Virtual memory (GB)</td><td>1.4</td><td>2.2</td><td>2.4</td></tr><tr><td>CPU time (min)</td><td>168.9</td><td>21.2</td><td>14.2</td></tr><tr><td>CPU utilization (%)</td><td>98.9</td><td>94.2</td><td>92.2</td></tr><tr><td>Size per event (MB)</td><td>0.1</td><td>5.8</td><td>3.5</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the summary of simulation software performance. Detector simulation is both time and memory consuming, due to propagation of thousands of optical photons. Its ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CPU utilization shows that detector simulation software is effcient even though integrated with SNiPER. For high energy cosmic ray muon events, millions of optical photons are generated in liquid scintillator, some methods are studied to speed up the simulation [12]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electronics simulation is memory and I/O consuming. Even though with optimization of data structure, thousands of waveforms with 1 GHz of sampling rate still occupy a lot of memory and disk usage.For event mixing, it takes less time and disk usage due to lower energies of particles from background. Most readout objects are actually background only. However, event mixing needs to load events from multiple fles randomly, so CPU utilization is suppressed due to I/O latency. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this proceeding, we show how SNiPER is applied in the JUNO simulation software, including physics generator， detector simulation and electronics simulation modules. By introducing several middleware classes, SNiPER and Geant4 are integrated to simplify the management of geometry and user actions. Via incident mechanism in SNiPER, electronics simulation is implemented in a “pull” work flow,which supports hit level mixing naturally. The performance of current simulation software shows the software fulfills requirements as well. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "However， there are still several challenges, such as simulation of huge number of optical photons and PMTs. The concurrent computing using GPU and phi-coprocessor is being studied in order to speed up the simulation of light propagation in the large liquid scintillator detector. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by Joint Large-Scale Scientific Facility Funds of the NSFC and CAS (U1532258)， the Strategic Priority Research Program of the Chinese Academy of Sciences, Grant No. XDA10010900, National Natural Science Foudation of China (11575224,11405279, 11675275). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]AnF et al. (JUNO) 2016 J.Phys.G43 030401(Preprint 1507.05613)   \n[2]Djurcic Z et al. (JUNO) 2015(Preprint 1508.07166)   \n[3] Zou JH, Huang XT, LiW D,Lin T,Li T, Zhang K,Deng Z Y and Cao GF 2015 J.Phys. Conf.Ser. 664 072053   \n[4] Li T, Xia X,Huang X T, Zou JH,Li WD,Lin T, Zhang K and Deng Z Y(Preprint 1702.04100)   \n[5]Brun R and Rademakers F 1997 Nucl.Instrum.Meth.A389 81-86   \n[6] Chytracek R,McCormick J,Pokorski W and Santin G 2006 IEEE Trans.Nucl. Sci.53 2892   \n[7]Dobbs M and HansenJB 2001 Comput.Phys.Commun.134 41-46   \n[8] Andreopoulos C et al. 2010 Nucl. Instrum.Meth.A614 87-104(Preprint 0905.2517)   \n[9] Huang X T,LiT, Zou JH,Lin T,LiWD,Deng ZYand Cao GF 2016 PoS ICHEP2016 1051 URL http://pos.sissa.it/cgi-bin/reader/conf.cgi?confid=282   \n10] Agostinelli S et al.(GEANT4) 2003 Nucl. Instrum.Meth.A506 250-303   \n11]AllisonJ et al.2006IEEE Trans.Nucl.Sci.53 270   \n12]Lin T,Deng Z Y,LiWD,Cao GF,You ZYandLiXY2016 Chin.Phys.C40 086201(Preprint 1602.00056) ",
+        "page_idx": 5
+    }
+]

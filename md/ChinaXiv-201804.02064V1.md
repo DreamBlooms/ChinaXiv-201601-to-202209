@@ -1,0 +1,281 @@
+# 基于位置社交网络的个性化兴趣点推荐
+
+韩笑峰，牛保宁，杨茸(太原理工大学 计算机科学与技术学院，太原 030024)
+
+摘要：兴趣点(point-of-interest，POI)推荐是基于位置的社交网络(location-based socialnetworks，LBSN)中一项重要的服务。针对目前推荐算法存在的噪声数据影响推荐质量，用户个性化程度低的问题，提出了一种个性化联合推荐算法。提出了引入POI的位置因素去除不可能或可能性较小的POI，形成初步候选集；综合考虑POI的类别、流行度及用户的社会行为，增加用户个性化的程度，提高推荐结果的质量。在Foursquare 真实签到数据集上的实验，证明了提出的联合推荐算法与目前先进的算法相比，准确率提高 $1 1 \%$ ，召回率提高 $8 \%$ 。
+
+关键词：兴趣点推荐；位置信息；分类信息；流行度信息；社会信息；位置社交网络中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.11.0739
+
+# Personalized point-of-interest recommendation in location-based social networks
+
+Han Xiaofeng, Niu Baoning†, Yang Rong (School ofComputerScience&Technology,Taiyuan UniversityofTechnology,Taiyuan O3oo24,China)
+
+Abstract: Point-of-interest (POl)recommendationisan importantserviceinlocation-based socialnetworks (LBSNs).Forthe current recommendationalgorithmexists the problemsof thenoisedataafects therecommendedqualityand lowlevelofuser personalization.Motived bythis,this paper proposed a personalized jointrecommendation algorithm (JRA）.JRA initially utilizedthelocalityofuseractivityareatoearlyfltertheOIswhichareimpossbleorless ikelytobearesult.Forthereceived preliminarycandidateset,thenitalsoconsideredconsidercategory factorandthepopularityfactorofPOI,andthe social behavioroftheuser to further improve theuser experience.The experiments onrealFoursquarecheck-indataset demonstrate that the JRA compared with the current advanced algorithm, the accuracy rate increased by $1 1 \%$ ,recall rate increased by $8 \%$
+
+Key words: POIrecommendation;localityofPOI;categoryof POI; popularityofPOI; social ofPOI; locationbased social network
+
+# 0 引言
+
+随着移动定位技术的进步和兴趣点(point-of-interests，POI)的增加（如商场、餐厅、公园、景点等)，基于位置的社交网络(location-based socialnetworks,LBSN)吸引了越来越多的用户。典型的LBSN有Foursquare、Gowalla、街旁、大众点评等。这些LBSN网站为用户提供位置签到、位置评论、位置与社交好友分享等功能，积累了大量可用于用户行为分析和个性化兴趣点推荐的数据。兴趣点推荐关联用户和兴趣点，既可以让用户迅速发现满足偏好的兴趣点，又可以让兴趣点找准自身定位，吸引相关用户，实现两者的双赢。
+
+协同过滤技术[2]是常用的推荐技术，大量算法[3-都是以协同过滤作为基础的，它的基本思想是推荐的对象应当是与用户喜爱的对象相似，或者是与用户兴趣相似的其他用户喜爱的对象。在目前兴趣点推荐的研究中，主要存在以下两点不足：
+
+a)未能提出有效的过滤机制消除噪声数据。庞大的用户签到数据中不可避免地混杂许多噪声数据，过多的噪声数据会导致推荐质量的降低。若能提前将原始数据中不符合用户行为习惯的签到数据筛选，可以有效提高推荐质量，并减少计算量，如将远离用户生活圈的兴趣点过滤。
+
+b)个性化程度较低。每个用户的需求是不同的，个性化程度代表对用户需求的探索程度，影响推荐结果的质量。协同过滤算法聚类相似用户行为，体现用户的偏好[3-6]，即用相似用户的偏好代替用户自身偏好。这样做着重于反映和用户兴趣相类似的群体的社会化个性，忽视了对象自身的属性。用户访问过的兴趣点属性是用户偏好和需求最直观的表现，若能在相似用户的偏好的基础上，选择对象合适的属性加以考虑，可以维系用户的历史偏好，提高推荐结果的个性化程度。
+
+针对问题a）本文提出基于位置的过滤算法。根据用户签到的地理特征对目标进行过滤，筛选出符合用户日常活动范围的兴趣点，去除噪声数据的干扰，提高推荐的质量。针对问题b)本文利用用户访问过的兴趣点的分类、流行度来增强推荐结果的个性化程度。这两种属性可以方便地从签到数据中获取，带有明显的用户偏好，可以维系用户自身的历史兴趣，把它们与协同过滤算法得到的相似用户偏好相融合，提高推荐结果的个性化程度。
+
+# 1 相关工作
+
+LBSN签到数据中包含多维度信息，与兴趣点和用户属性相关，利用LBSN签到数据可以提高兴趣点推荐质量。兴趣点推荐技术主要有以下两类。
+
+a)基于内容的推荐。通过提取用户特征和兴趣点特征构建推荐模型。Gao 等人[将兴趣点特征、用户兴趣和用户情感相结合，将这三种类型信息合并到一个统一框架中，建立了一个推荐模型。Bao 等人[7结合从兴趣点特征中得到的个人偏好和从数据集中分析出的专家信息，对兴趣点评分。这些推荐算法以被推荐对象的内容特征为主，推断用户的偏好，仅考虑用户和兴趣点本身，没有考虑用户间以及兴趣点之间的各种联系。
+
+b)基于协同过滤的推荐算法。大致可以分为基于模型的协同过滤算法和基于记忆的协同过滤算法两类[8]。
+
+基于模型的推荐算法的核心是使用用户一地点评分矩阵构建预测模型。Liu等人[12]提出一种改进型奇异值分解模型，对用户的签到矩阵进行特征提取，有助于解决矩阵稀疏性的问题；但分解后的矩阵仍需还原，这需要很大的计算量。曹玖新等人[13]设置元路径特征集，利用随机游走算法度量节点间的关联度，用监督学习方法获得特征权值推断签到概率；然而元路径在收集阶段需要遍历整个网络的不同类型节点所有可能的链接情况，计算代价十分高昂。
+
+目前的研究更多的集中在基于记忆的协同过滤算法[9]，并在此基础上加入其他因素来提高推荐质量。一种思路是通过挖掘用户之间的社会因素来提高兴趣点推荐质量。Konstas等人[9]利用潜在因素模型获得用户社会关系中的相似性，再无缝衔接到基于用户的协同过滤中。另一种思路是利用位置因素提高推荐质量。Ye 等人[10]提出兴趣点的分布符合幂律分布，综合考虑兴趣点的距离因素和用户的社会因素进行协同过滤。Yuan等人[I]认为用户行为受时空因素的制约，利用兴趣点的空间距离和时间差估计幂律分布，衡量访问位置对新位置的影响。以上研究仅考虑将社会因素和位置因素引入协同过滤算法中，本文在这两者的基础上作出改进，将其中的位置因素设置为预处理条件，增加了兴趣点的流行度因素和类别因素，提出计算POI分类流行度的方法，能有效提高推荐质量。
+
+本文提出一种个性化联合推荐算法，综合考虑类别因素、流行度因素、位置因素、社交好友因素和用户历史签到行为，提出基于位置的过滤算法减少噪声和干扰，以提高推荐结果的质量。利用历史访问的兴趣点特征，结合用户的社会关系、历史行为提高用户个性化程度。
+
+# 2个性化联合推荐算法
+
+# 2.1问题描述
+
+LBSN中的兴趣点推荐是通过分析用户历史签到数据，为用户推荐未访问过的兴趣点。LBSN中包含用户集$U { = } \{ u _ { 1 } , u _ { 2 } , . . . . . . . , u _ { m } \}$ 、兴趣点集 $L { = } \{ l _ { 1 } , l _ { 2 } , . . . . . . . , l _ { n } \}$ 及用户在兴趣点的签到记录集合三类数据 $T = \left\{ t _ { 1 } , t _ { 2 } , . . . . . . , t _ { s } \right\}$ 。图1描述了一个简单的基于位置的社交网络图 $G = \{ U , L , T \}$ 。其中包含若干用户、若干POI及三类相关关系—用户之间的好友关系，兴趣点之间的关联关系以及用户与兴趣点之间的签到关系。签到记录蕴涵有用户和POI这两种实体的三种关系。分析签到记录可以发现这些关系，从而提高推荐质量。本文提出的个性化联合推荐算法为用户提供一个包含TOP-N未曾访问过的POI的推荐列表。若之后用户对这些POI进行访问，则认为推荐的结果符合用户的判断，是高质量的推荐。
+
+![](images/99eb8e4fd77e89d8cad5229168e307a12ea7d291e5d02143e09bbd4102daf351.jpg)  
+图1位置社交网络结构
+
+为方便讨论，表1列出了本文中使用的一些重要符号。
+
+表1符号  
+
+<html><body><table><tr><td>符号</td><td>描述</td></tr><tr><td>U</td><td>LBSN中所有用户的集合(Users)</td></tr><tr><td></td><td>用户集中的一个用户：ui∈U</td></tr><tr><td>L</td><td>LBSN 中所有 POls 的集合(Locations)</td></tr><tr><td></td><td>POI集合中的一个POI：∈L</td></tr><tr><td>C</td><td>LBSN 中所有分类的集合(Category)</td></tr><tr><td>Ck</td><td>类别集合的一个种类：Ck∈C</td></tr><tr><td>T</td><td>LBSN 中所有签到记录的集合(Tips)</td></tr><tr><td>tg</td><td>签到集合的记录：t(ui,lj)∈T</td></tr></table></body></html>
+
+# 2.2兴趣点推荐中的位置因素
+
+在实际的生活中，人们的活动往往局限于某一范围，反映在签到数据中，就是用户的签到行为发生在相对较小的地理空间内，称为签到的空间聚类现象[10]。地理学第一定律[14]指出：
+
+任何事物都相关，只是相近的事物关联更紧密。因此，在对用户进行POI推荐时，位置因素是一个不可被忽视的因素，用户更趋向于访问距离较近的兴趣点。为了验证这个推断，本文做了下面的实验。
+
+以Foursquare中真实数据集为例，对所有用户计算其访问过的任意两个POI之间的距离，并对得到的距离进行聚类，结果如图2所示。图中横坐标代表距离，纵坐标代表任意两个POI对间的平均距离小于横坐标指定距离区间的用户比例。例如，横坐标 $5 \mathrm { k m }$ 对应的纵坐标代表平均距离处在 $0 { \sim } 5 \mathrm { k m }$ 之间的用户比例。
+
+图2显示，超过 $89 . 3 \%$ 以上的用户平均签到距离在 $1 0 ~ \mathrm { k m }$ 以内，可以认为当距离超过 $1 0 \mathrm { k m }$ 时，用户访问该POI的可能性非常低。通过平均距离的计算，分析得出人们更倾向于访问与之前签到记录距离相近的兴趣点，且访问兴趣点的概率随着兴趣点距离的增加而逐渐降低。
+
+因此，本文提出基于位置的过滤算法，对原始数据集根据距离信息进行过滤，将远离用户日常活动范围的POI排除，避免这些POI干扰推荐结果，提高推荐的质量。
+
+![](images/3c84e971ef9a2373287022878ef6fd1736a4ad16b9985fe49b88fcea4cf66536.jpg)  
+图2用户签到平均距离分布
+
+基于上述分析，本文首先利用用户未访POI与已访问POI间的平均距离提出一种基于位置的过滤算法（locationbasedfilteringalgorithm,LBFA)，为用户推荐TOP-N个未访问的POI。算法1列出了LBFA算法的伪代码，第1\~5行首先扫描签到数据集的所有记录，选出所有属于指定用户 $\boldsymbol { u } _ { x }$ 的签到兴趣点集合$L U$ 。第6行生成用户仍未访问过的POI集合Candlist。第7\~17行依次遍历Candlist中每一个候选点，计算它与用户访问过的POI集合 $L U$ 中兴趣点的平均距离(8\~11行)，对得到候选点的平均距离进行判定，若其值小于规定的阈值 $( \mathrm { D } _ { \mathrm { m } } { = } 1 0 ~ \mathrm { k m } )$ ，则将这个点加入过滤后的最终候选点集合 $C U$ 中（12\~15行)，直到Candlist中所有点都判定完毕，返回过滤后的候选点集合 $C U$ 。
+
+算法1基于位置的过滤算法  
+输入用户 $u _ { x }$ 、用户签到数据集 $T$ 、兴趣点集合 $L$ 。输出 经过位置过滤的POI集合 $C U$ 。  
+1.for each $t _ { i } \in T$ do  
+2.if( $t _ { i , u } = u _ { x }$ ）then  
+3． $L U . a d d ( t _ { i } )$   
+4.end if
+
+5．end for   
+6. $C \mathrm { a n } d l i s t = L \backslash L U$   
+7.for each $l _ { i } \in C a n d l i s t$ do   
+8.for each $l _ { j } \in L U$ do   
+9. （ $D _ { i } + = D i s t ( l _ { i } , l _ { j } )$ （204号   
+10．end for   
+11. $D _ { i } = D _ { i } / \left| { \cal { L } } U \right|$   
+12.if $: ( D _ { \mathrm { \Omega } _ { i } } \le D _ { \mathrm { \Gamma } _ { m } }$ ）then   
+13. $C U . a d d ( l _ { i } )$ （204号   
+14.end if   
+15．end for   
+16．return CU
+
+# 2.3兴趣点推荐中的分类流行度因素
+
+LBSN中的签到数据按照POI被分为不同的类别。类别信息隐含了POI的风格和提供的产品与服务。用户访问过的POI的类别信息可用于分析用户的个性化偏好。除了相似用户的偏好，类别信息也能体现用户的主观意愿。例如，当某用户在博物馆这个类别的POI签到记录数量远超其他类别时，可以认为该用户钟情于艺术收藏，当推荐POI时，应该优先推荐博物馆类别的POI。
+
+Foursquare 将所有的POI分为以下8大类： $\angle$ Arts&Entertainment，College&University，Food,Great Outdoors,Buildings,Nightlife Spots,Shops,Travel Spots>，可以利用用户签到不同类别之间的数量关系来量化用户对不同类别的偏好程度。
+
+如式(1)所示，首先统计用户每个类别的签到数量$T ( u , c ) = \{ t _ { n } \in T | t _ { n } . u = u \cap c a t ( t _ { n } . l ) = c \}$ ，再将其标准化为0到1之间的数值。式(1)中分子为用户访问某类别POI的签到数量，分母是用户访问过的所有类别中签到数量的最大值。通过式(1)每个用户都会得到一个对各个类别的偏好的得分向量，记为$C A T ( \mathbf { u } ) = < c a t ( u , c _ { 1 } ) , . . . , c a t ( u , c _ { 8 } ) >$ ，用于表示用户对于不同类别POI 的偏好程度。
+
+$$
+c a t ( u , c ) = { \frac { \left| T ( u , c ) \right| } { \arg _ { c ^ { \prime } \in C } M A X ( \left| T ( u , c ^ { \prime } ) \right| ) } }
+$$
+
+然而仅仅利用分类信息只能将用户偏好具体到类别，每个类别中又有许多的POI，认为所有同类别POI对于用户是同等重要的显然是不合理的。为了得到同种类不同POI的权重，本文在类别的基础上引入了流行度因素。流行度即POI的受欢迎程度，可以反映POI所提供服务的质量。本文认为对于同类型的POI，流行度越高，则POI的质量越高，推荐的优先级也应该越高。
+
+从签到记录中可以得到以下两种标签：POI总访客数量$\nu ( l _ { i } )$ 和POI总签到数量 $t ( l _ { i } )$ 。POI的访客数和签到数是同类别POI流行度最直观的表现，可以说明一个POI的受欢迎程度。由于POI之间的访客数和签到数可能相差很大，用式(2)计算已知类别的POI的流行度，采用调和平均数希望得到相对较大的
+
+结果。
+
+式(2)中 $C M A X ( | t ( l ) | ) = \arg _ { l \in L , c a t ( l _ { i } ) = c a t ( l ) } M A X ( \left| t ( l ) \right| )$ 代表同类别的兴趣点中签到数量的最大值，$\begin{array} { r } { C M A X ( | \nu ( l ) \bigr | ) = \arg _ { \mathstrut _ { l \in L , c a t ( l _ { i } ) = c a t ( l ) } } M A X ( | \nu ( l ) \bigr | ) } \end{array}$ 代表同类别的 POI 中访客数量的最大值。
+
+$$
+\mathrm { p o p } ( l _ { i } ) = \frac { 2 \times \displaystyle \frac { | t ( l _ { i } ) | } { C M A X ( | t ( l ) | ) } \times \displaystyle \frac { | \nu ( l _ { i } ) | } { C M A X ( | \nu ( l ) | ) }  } { \displaystyle \frac { | t ( l _ { i } ) | } { C M A X ( | t ( l ) | ) } + \frac { | \nu ( l _ { i } ) | } { C M A X ( | \nu ( l ) | ) } }
+$$
+
+综上，用户对候选POI的偏好得分 $P S$ 利用式(3)来计算，其同时考虑了类别因素和流行度因素。
+
+$$
+P S ( u _ { i } , l _ { j } ) = c a t ( u _ { i } , c _ { k } ) p o p ( l _ { j } )
+$$
+
+# 2.4兴趣点推荐中的社会因素
+
+基于用户的协同过滤算法核心思想在于行为相似的用户应当有同样的偏好。传统的基于用户的协同过滤依据历史访问记录来寻找行为相似的用户。
+
+在现实生活中，用户在购买不熟悉的物品前倾向于求助好友，类似地，在访问某个兴趣点时，比起陌生人或者POI供应商，用户更愿意相信自己的好友。同时，好友们也常常一起活动，例如好友会一起去看电影或者结伴去景点游玩，用户会去好友极力推荐的餐厅吃饭等。因此，好友之间常表现有共同的兴趣和相似的行为。研究证明，用户的所有首次访问记录中，超过 $30 \%$ 的 POI，其好友都曾经访问过[4]，因此有必要将用户的社会因素引入推荐系统，增加推荐的精度。
+
+将社会因素引入基于用户的协同过滤算法之后，发生变化的量主要为用户访问候选POI的概率计算公式。
+
+传统的基于用户的协同过滤算法计算用户 $u _ { i }$ 对任意候选POI $l _ { j }$ 的访问概率计算公式为： $\hat { \mathbf { t } } _ { i , j } = \frac { \sum _ { U } s i m _ { i , k } t _ { k , j } } { \sum _ { U } s i m _ { i , k } }$ ∑usimiki其中：simk表示用户之间的相似度，可以有多种度量方法，如Cosine、Jaccard相似度以及皮尔逊相似度。其中Cosine相似度结果相对准确且方便计算[15],因此选择这种方法计算用户相似度。$s i m _ { i , k } = \frac { \sum _ { l _ { j } \in L } t _ { i , j } t _ { k , j } } { \sqrt { \sum _ { l _ { j } \in L } t _ { \phantom { } i , j } ^ { 2 } } \sqrt { \sum _ { l _ { j } \in L } t _ { \phantom { } k , j } ^ { 2 } } }$ 。 $t _ { i , j }$ 为签到记录表示用户 $u _ { x }$ 在頭兴趣点 $l _ { j }$ 的访问状态，若 $t _ { i , j } = 1$ 代表用户已在此处签到， $t _ { i , j } = 0$ 则代表用户还未在此签到。引入社会因素后，用户 $u _ { i }$ 对任意候选POI $l _ { j }$ 的访问概率计算公式为： $\hat { \mathbf { t } } _ { i , j } = \frac { \sum _ { \mathbf { u } _ { k } \in F } S I _ { i , k } \cdot t _ { k , j } } { \sum _ { \mathbf { u } _ { k } \in F } S I _ { i , k } }$ 。其中： $F$ 代表用户 $u _ { i }$ 的好友集合； $S I _ { i , k }$ 代表用户 $\boldsymbol { u } _ { k }$ 对于用户 $u _ { i }$ 的社会影响因子。
+
+用户的社会影响因子由相似程度和熟悉程度两部分组成。一方面，在实际的推荐过程中，并不是所有的好友都起正面的作用，有些用户尽管是社交好友，他们之间的兴趣相差极大。
+
+例如，本文一般会在社交网络中与长辈互相关注，但他们的偏好与本文相差极大。为了避免这种情况，好友之间的相似度必须考虑。另一方面，好友之间的推荐也不是同等重要的。一个点头之交建议的可信度与关系密切的好友的建议的可信度显然不一样。好友之间的熟悉程度也要考虑。因此使用式(4)表示用户的社会影响因子：
+
+$$
+S I _ { \mathrm { i , k } } = s i m _ { i , k } \cdot f a m _ { i , k }
+$$
+
+其中： $s i m _ { i , k }$ 表示好友间的相似度，仍使用Cosine相似度计算；$f a m _ { i , k }$ 表示好友间的熟悉程度， $f a m _ { i , k } = { \frac { \left| F _ { i } \cap F _ { k } \right| } { \left| F _ { i } \cup F _ { k } \right| } }$ 。这里由于是用户集合之间的计算，选择使用Jarccard相似度计算好友的熟悉程度。笔者认为用户间的共同好友数量越多，说明两者之间的关系越密切。
+
+在实际计算时，将计算得到的所有候选POI的签到概率进行标准化得到用户关于POI的社会得分SS，标准化公式为
+
+$$
+S S ( u _ { i } , l _ { j } ) = \frac { \left| \hat { t } _ { i , j } \right| } { \arg _ { l _ { j } \in L } M A X \left| \hat { t } _ { i , j } \right| }
+$$
+
+其中： $\hat { t } _ { i , j }$ 代表候选 $\mathrm { P O I } l _ { j }$ 的签到概率； $\mathbf { a r g } _ { l _ { j } \in L } M A X \left| \widehat { t } _ { i , j } \right|$ 代表所有候选点签到概率的最大值。
+
+# 2.5联合推荐算法
+
+目前大多数流行的算法仅考虑将社会因素和位置因素引入协同过滤算法中，本文在这两者的基础上作出改进，将其中的位置因素设置为预处理条件，增加了兴趣点的流行度因素和类别因素，提出计算POI分类流行度的方法，与现有的协同过滤方法融合，最终形成了综合考虑POI的位置、类别、流行度、社会因素和用户行为的算法，即联合推荐算法(joint reco-mmendationalgorithm,JRA)。算法2列出了JRA算法的伪代码。第1行首先调用LBFA算法，对原始数据中的兴趣点集进行过滤，返回候选点集合 $C U$ 。第2\~6行扫描候选点集中的所有兴趣点，分别调用CompuCat()和CompuPop()函数计算兴趣点的分类得分和流行度得分，将两者相乘得到兴趣点的偏好得分PS。第7\~14 行调用CompuSim()和CompuFam()函数计算用户 $u _ { x }$ 和好友集合 $F$ 中的每个用户 $\boldsymbol { u } _ { k }$ 之间的相似度和熟悉度，将两者相乘得到用户的社会影响因子，把这个因子带入到好友协同过滤算法得到兴趣点的社会得分SS。第15行根据参数 $\alpha$ $( 0 < \alpha < 1 \dot { }$ 将 $P S$ 和 SS 线性融合得到最终得分 $s$ 。第16\~18行将候选点集 $C U$ 根据得分 $s$ 降序重新排序得到序列集 $S U$ ，选出$S U$ 中前K个兴趣点形成最终推荐结果集合 $R S$ ，完成推荐过程。
+
+$$
+S ( u _ { i } , l _ { j } ) = \alpha \cdot S F ( u _ { i } , l _ { j } ) + ( 1 - \alpha ) \cdot S S ( u _ { i } , l _ { j } )
+$$
+
+算法2联合推荐算法
+
+输入用户 $u _ { x }$ 、用户集合 $U$ 、用户签到数据集 $T$ 、兴趣点集合 $L$ 、兴趣点分类集合 $C$ 、用户 $u _ { x }$ 好友集合 $F$ 。  
+输出TOP- $\cdot N$ 个兴趣点组成的推荐列表 $R S _ { \circ }$
+
+1． $\boldsymbol { C U } = L B F A ( \boldsymbol { u _ { x } } , T , L )$
+
+2.for each $l _ { j } \in C U$ do
+
+3. $c a t ( u _ { x } , c _ { i } ) \gets C o m p u C a t ( u _ { x } , c _ { i } )$
+
+4. $p o p \big ( l _ { j } , c _ { i } \big ) \gets C o m p u P o p \big ( l _ { j } , c _ { i } \big )$
+
+$$
+S F { \left( u _ { x } , l _ { j } \right) } = c a t { \left( u _ { x } , c _ { i } \right) } \cdot p o p { \left( l _ { j } , c _ { i } \right) }
+$$
+
+6．end for
+
+7.for each $l _ { j } \in C U$ do
+
+8．for each $u _ { k } \in F$ do
+
+$$
+\begin{array} { r l } & { s i m \big ( u _ { x } , u _ { k } \big ) \gets C o m p u S i m \big ( u _ { x } , u _ { k } \big ) } \\ & { \quad f a m \big ( u _ { x } , u _ { k } \big ) \gets C o m p u F a m \big ( u _ { x } , u _ { k } \big ) . } \\ & { S I \big ( u _ { x } , u _ { k } \big ) = s i m \big ( u _ { x } , u _ { k } \big ) f a m \big ( u _ { x } , u _ { k } \big ) . } \\ & { \quad } \\ & { S S \big ( u _ { x } , l _ { j } \big ) = F B C F ( S I ) } \end{array}
+$$
+
+13. end for
+
+14．end for
+
+16. $S U = R e o r d e r \big ( C U , S \big ( u _ { x } , l _ { j } \big ) \big )$
+
+18.return RS
+
+# 3 实验设计
+
+# 3.1数据集描述
+
+本文采用典型的LBSN网站Fousquare 的公开用户签到数据集。数据收集自美国的两个大型城市一一纽约和洛杉矶。其中纽约数据集包括49062个用户的221128条签到数据，兴趣点的数量为92018个。洛杉矶数据集包括31544个用户的104478 条签到数据，兴趣点的数量为70 241个。将Foursquare 的两个数据集中每个用户的签到数据按时间顺序划分，其中的 $7 5 \%$ 选为训练集，余下的 $2 5 \%$ 作为测试集。选取数据的相关信息如表2所示。
+
+表2数据集结构  
+
+<html><body><table><tr><td>数据类型</td><td>包含主要属性</td></tr><tr><td>users</td><td>User id,Gender, City,Friend id</td></tr><tr><td>venues</td><td>Venue id,latitude longitude,check-in,visit,category</td></tr><tr><td>tips</td><td>Userid, Venue id,latitude longitude, time</td></tr></table></body></html>
+
+# 3.2评价指标
+
+本文选取两个在推荐算法中应用最为广泛的评价指标：准确率precision $@ \mathrm { N }$ 和召回率 recall@N，分别如式(7)和(8)所示，N代表最终推荐结果的数量。准确率是指算法推荐结果中用户实际访问的兴趣点数量占推荐结果总数的比例，反映推荐的准确性。召回率是指算法推荐结果里用户访问的兴趣点数量占用户实际访问兴趣点总数的比例，反映推荐的全面性。其中： $R ( U )$ 代表推荐算法在训练集执行后得到的兴趣点推荐列表；而T(u)代表用户在测试集上的实际签到的兴趣点列表。
+
+$$
+\mathrm { P r } e c i s i o n { = } \frac { \sum _ { \substack { u \in U } } \big | R ( u ) \cap T ( u ) \big | } { \sum _ { \substack { u \in U } } \big | R ( u ) \big | }
+$$
+
+$$
+\mathrm { R e } c a l l = \frac { \sum _ { \boldsymbol { u } \in \boldsymbol { U } } \bigl | R ( \boldsymbol { u } ) \cap \boldsymbol { T } ( \boldsymbol { u } ) \bigr | } { \sum _ { \boldsymbol { u } \in \boldsymbol { U } } \bigl | \boldsymbol { T } ( \boldsymbol { U } ) \bigr | }
+$$
+
+# 3.3参数 $\alpha$ 选取
+
+在第 2.5节提到需要确定参数α $( 0 < \alpha < 1 )$ 的取值，调节用户的偏好得分 $P S$ 和社会得分SS在推荐结果中所占的比例，当α 的值越大时，通过用户的兴趣点特征得到的偏好得分对结果的影响比较大；反之，通过用户好友协同过滤得到的社会得分所占的比例较大，通过在实际数据集上的测试来确定 $\alpha$ 的取值。
+
+![](images/dce3062d8238657e4bc6e0eae1fc172de30e5becc0ca214b95c45c08d014f720.jpg)  
+图3参数 $\textbf { \em a }$ 的取值对应的准确率
+
+![](images/f607a320ed9316e2c7815b0f0ef568bbf9797389843f870c162d8287b689cb5e.jpg)  
+图4参数 $\mathfrak { a }$ 的取值对应的召回率
+
+图3、4分别是比较 $\alpha$ 在不同取值下对应的准确率和召回率变化趋势。当 $\alpha$ 取值为0.2左右时，可以同时获得最高的准确率和召回率。因此在之后的对比实验时，将 $\alpha$ 值默认设置为0.2。
+
+# 3.4 实验性能比较
+
+为了验证本文提出的个性化联合推荐算法的性能，把它与两个基础推荐算法以及目前先进的推荐算法作比较，比较的算法如表3所示。
+
+表3比较的推荐算法  
+
+<html><body><table><tr><td>算法(简称)</td><td>算法描述</td></tr><tr><td>Userbased CF(U)[2]</td><td>基于用户的历史签到数据计算用户之间的相似 度，再根据相似用户记录计算候选兴趣点得 分。</td></tr><tr><td>Friend based CF(F) [9]</td><td>基于用户历史签到数据和社会关系计算用户之 间的相似度，再根据相似用户的访问记录推荐 兴趣点。</td></tr><tr><td>USG(G)[10]</td><td>同时考虑用户的历史签到数据和兴趣点的社会</td></tr><tr><td rowspan="2">JRA(J)</td><td>关系和地理因素，将三者线性融合得到结果。</td></tr><tr><td>本文提出的个性化联合推荐算法，综合考虑了 分类因素、流行度因素、位置因素、社交好友</td></tr></table></body></html>
+
+![](images/d004e982e5c5f425d17948c25e9bc7e70d8242253d6700a5544860568a596f0f.jpg)  
+图5纽约数据集推荐结果的准确率
+
+![](images/33c3079f0c42875b7480434e46e7da8164a99a07990788d1dd00ffd9f0545b8b.jpg)  
+图6纽约数据集推荐结果的召回率
+
+![](images/45ccb2213da85eccfdc8a21063bcf2aa241ab27bc2353773e80d88e39fb5b0e9.jpg)  
+图7洛杉矶数据集推荐结果的准确率
+
+![](images/415164a63eb1c0c083c03ff6686a0b086731a6b67f0507c8ddabe0f962895d76.jpg)  
+图8洛杉矶数据集推荐结果的召回率
+
+针对两个数据集，将本文提出的个性化联合推荐算法与三个不同的推荐算法作了比较。其中图5、6对应Foursquare 的纽约数据集，图7、8对应Foursquare 的洛杉矶数据集，展示了各种算法TOP-N( $\mathrm { \bar { \langle } N } { = } 5 , 1 0 , 2 0 \mathrm  \bar  \$ 的推荐性能。由图5\~8分析可得，算法U作为一个基础的协同过滤算法，结果的准确率和召回率都最低；算法F在U的基础上引入了社会因素，推荐结果略高于U，这证明了社会因素在推荐过程中起了积极因素；算法G在算法F的基础上进一步引入了位置因素，得到相对较高的准确率和召回率，说明位置因素在兴趣点推荐时不可忽视，其可以很大程度上提高推荐质量；而本文提出的联合推荐算法J在两个数据集的准确率和召回率都高于其他几个算法，与其中表现较好的G算法相比平均提高了 $1 1 \%$ 的准确率和 $8 \%$ 的召回率，可见基于位置的预处理和引入类别因素、流行度因素可以显著提高推荐的质量。
+
+# 3.5 实验开销比较
+
+本实验中，查询时间定义为在所有POI上计算一个用户u的推荐分数的平均时间（查询时间不包括对查询结果中POI的排序时间)。不同算法的查询时间如表4所示。结果显示，传统的协同过滤算法U的查询时间最短，增加考虑因素会使查询时间适当增长，但不同的查询时间相差很小，相较于结果准确率和召回率的提升，这些时间开销可以接受。
+
+表4不同算法的查询时间/s  
+
+<html><body><table><tr><td>推荐兴趣点数量</td><td>U</td><td>F</td><td>G</td><td>J</td></tr><tr><td>5</td><td>2.80</td><td>3.40</td><td>3.95</td><td>4.09</td></tr><tr><td>10</td><td>2.98</td><td>3.97</td><td>4.18</td><td>4.32</td></tr><tr><td>20</td><td>3.21</td><td>4.26</td><td>4.48</td><td>4.79</td></tr><tr><td>50</td><td>4.20</td><td>4.88</td><td>5.19</td><td>5.40</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提出一种个性化联合推荐算法，通过引入兴趣点的位置因素去除不可能或可能性较小的POI，形成初步候选集；综合考虑POI的类别、流行度及用户的社会行为，增加用户个性化的程度，提高推荐结果的质量。此外，通过在大规模的Foursquare 数据集上进行了实验对比，证明了相较于其他兴趣点推荐算法，该算法的准确率和召回率都有所提高。
+
+在将来的工作中希望能在以下两个方面取得突破：一方面，争取能将时间因素也引入推荐算法中，进一步提高推荐算法性能；另一方面，现有的兴趣点推荐算法都集中于本地推荐，希望能设计一种高性能的异地兴趣点推荐算法。
+
+# 参考文献：
+
+[1]Resnick P,Varian HR.Recommender systems [J].Communications of the ACM,1997,40 (3): 56-58.   
+[2]Schafer JB,Konstan J A，Riedl J.E-commerce recommendation applications [J].Data Mining& Knowledge Discovery,20o1,5(1-2):115- 153.   
+[3]Yang X, Guo Y,Liu Y, elal.A survey of collaborative filtering based social recommender systems [J].Computer Communications,2013,41 (5):1-10.   
+[4]Wang H,Terrovitis M,Mamoulis N.Location recommendation in locationbased social networks using user check-in data [C]//Proc of the 2lst ACM Sigspatial International Conference on Advances in Geographic Information Systems.2013:374-383.   
+[5]Liu B,Fu Y,Yao Z,et al.Learning geographical preferences for point-ofinterest recommendation [C]//Proc of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.2013:1043-1051.   
+[6]Gao H, Tang J,Hu X.Content-aware point of interest recom-mendation on location-based social networks[C]//Proc of the 29th AAAI Conference on Artificial Intelligence.2015:1721-1727.   
+[7]Bao J,Zheng Y,Mokbel M F.Location-based and preference-aware recommendation using sparse geo-social networking data [C]//Proc of the 20th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems.2012:199-208.   
+[8]Schafer JB,Dan F,Herlocker J,et al. Collborative filtering recommender systems [M]// The Adaptive Web.Berlin: Springer,2007:291-324.   
+[9]Konstas I, Stathopoulos V,Jose JM. On social networks and collaborative recommendation [C]// Proc of the 32nd International ACM SIGIR Conference on Research and Development in Information Retrieva.2009: 195-202.   
+[10] Ye M,Yin P,Lee W C,el al.Exploiting geographical influence for collaborative point-of-interest recommendation [C]// Proc of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval.2011: 325-334.   
+[11] Yuan Q,Cong G,Ma Z.Time-aware point-of-interest recom-mendation [C]//Proc of the 36th International ACM SIGIR Conference on Research and Development in Information Retrieval.2013: 63-372.   
+[12] Liu B,Fu Y,Yao Z,el al. Learning geographical preferences for point-ofinterest recommendation [C]//Proc of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.2013:1043-1051.   
+[13]曹玖新，董羿，杨鹏伟，等.LBSN 中基于元路径的兴趣点推荐[J].计 算机学报,2016,39(4):675-684.   
+[14] Tobler WR.A computer movie simulating urban growth in the detroit region [C]/Proc of International Geographical Union Commission on Quantitative Methods.1970:234-240.

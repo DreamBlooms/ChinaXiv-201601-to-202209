@@ -1,0 +1,332 @@
+# 基于End-to-end深度强化学习的多车场车辆路径优化
+
+雷坤1，郭鹏1,，王祺欣1，赵文超1，唐连生²†(1.西南交通大学 机械工程学院，成都 610031;2.宁波工程学院 经济与管理学院，浙江 宁波 315211;3.轨道交通运维技术与装备四川省重点实验室，成都 610031)
+
+摘要：为提高多车场车辆路径问题(Multi-Depot Vehicle Routing Problem，MDVRP)的求解效率，提出了端到端的深度强化学习框架。首先，将 MDVRP 建模为马尔可夫决策过程(Markov Decision Process，MDP)，包括对其状态、动作、收益的定义。同时，提出了改进图注意力网络(Graph Attention Network，GAT)作为编码器对 MDVRP 的图表示进行特征嵌入编码，设计了基于Transformer 的解码器。并采用改进 REINFORCE 算法来训练该模型。该模型不受图的大小约束，即其一旦完成训练，就可用于求解任意车场和客户数量的算例问题。最后，通过随机生成的算例和公开的标准算例验证了所提出框架的可行性和有效性。即使在求解客户节点数为100的MDVRP上，经训练的模型平均仅需2毫秒即可得到与现有方法相比更具优势的解。
+
+关键词：多车场车辆路径问题；深度强化学习；图神经网络；REINFORCE算法；Transformer 模型 中图分类号：TP242.2 doi: 10.19734/j.issn.1001-3695.2022.03.0095
+
+End-to-end deep reinforcement learning framework for multi-depot vehicle routing problem
+
+Lei Kun1, Guo Peng1,3, Wang Qixin', Zhao Wenchaol, Tang Liansheng2+ (1.SchoolofMechanicalEngineeing,SouthwestJiaotong University,Chengdu6031,China;2.SchoolofEconomics& Management,NingboUniversityofTechnology,NingboZhejiang315211,China;3.Technology&EquipmentofRailTranit Operation & Maintenance Key Laboratory of Sichuan Province, Chengdu 61oo31, China)
+
+Abstract: This paper proposedan end-to-end deepreinforcement learning framework to improve the efficiencyof solving the Multi-Depot Vehicle Routing Problem (MDVRP).There is a novel formulation ofthe Markov Decision Process (MDP) forthe MDVRP,including the definitionsofits state,action,andreward.Then,this paper exploitedan improved Graph Atention Network (GAT)as the encoder toperform feature embedding on the graphrepresentationofMDVRP,anddesigned aTransformer-based decoder Meanwhile,this paper usedthe improvedREINFORCE algorithmto trainthe proposed encoderdecoder model.Furthermore,the designed encoder-decoder model is notbounded bythesizeof the graph.Thatis,once the frameworkistraned,itcanbeusedtosolveMDVRPinstances withdiferentscales.Finall,theresultsonrandomlygeerated andpublished standard instances verifythe feasibilityand effectivenessofthe proposed framework.Significantly,evenon solving MDVRP with 10O customer nodes,the trained model takes only two millsecondson average to obtain a very competitive solution compared with existing methods.
+
+Key words: multi-depot vehicle routing problem; deep reinforcement learning; graph neural network; reinforce algorithm; transformer model
+
+# 0 引言
+
+随着电子商务和交通运输产业的不断壮大，物流业飞速发展，中国乃至世界物流经历了连续十多年的爆炸式增长。例如，2021年菜鸟、京东、顺丰等大型物流公司的全国快递业务量突破1083亿件，随着构建新发展格局的加快和物流需求的增长，未来我国物流业务量仍会保持较快的增长。同时，物流行业的高速发展对大型实时物流调度系统提出了更高的要求。然而，物流配送产生的运输和仓储成本居高不下。基于物流配送现状和时代需求，寻求高效的物流配送模式受到了学界和业界的广泛关注。多车场车辆路径问题(Multi-DepotVehicleRoutingProblem,MDVRP)具有广泛的应用场景，包括交通运输、物流配送和快递分发等实际情况，探索该问题的高效求解方法对我国供应链发展具有重要的理论和现实意义。MDVRP问题属于车辆路径问题(Capacitated
+
+VehicleRoutingProblem,CVRP)的一个变体。由于CVRP已是NP-hard问题，而相比单车场的CVRP而言，MDVRP的解空间更加庞大。因此，MDVRP也属于NP-hard问题。
+
+求解MDVRP的传统方法主要包括精确算法、多项式时间近似算法、元启发式算法。精确算法能够求得最优解，但由于其NP-hard性质很难应用于求解50个客户以上的问题[1]。多项式时间近似算法通常能够得到有质量保证的解，但最优性保证较弱，甚至不能得到该问题的局部最优解。元启发式算法，例如狼群算法[2]、蚁群优化算法[3]、蝙蝠算法[4]和变邻域搜索算法[5]，由于其高性能被广泛使用，但通常需要针对特定的问题定制和专业的领域知识[]，并且难以在多项式时间内寻找到大规模问题的较优解。以上三种方法很少利用优化问题的共同特征，经常反复求解相同类型问题的算例，对于这些算例可以认为目标函数或约束中的系数值是从相同的基础分布中采样所得[7]。尽管出现了大量的求解策略但求解效率仍然有进一步的提升空间和基于更加高效的求解框架搭建的必要。因此，引入学习的方法以高效寻找接近最优解决方案尤为重要。
+
+近年来，越来越多的研究将深度强化学习(DeepReinforcementLearning,DRL)技术应用于求解组合优化问题，并取得了突破性进展。表1对现有基于强化学习求解路径问题的方法进行了总结。强化学习可以进一步分为基于模型的和无模型的方法。而无模型强化学习方法可以分为Valuebased和Policy-based的方法或者两者的结合(Actor-critic)。此外，按路径问题可以分为旅行商问题(Travellingsalesmanproblem,TSP)、CVRP和MDVRP。
+
+表1求解路径问题的深度/强化学习方法汇总  
+Tab.1Survey of deep/reinforcement learning methods in solving   
+
+<html><body><table><tr><td colspan="4">routingproblems</td></tr><tr><td>路径问题</td><td>文献</td><td>网络结构</td><td>方法类型</td></tr><tr><td rowspan="8">TSP</td><td>文献[8]</td><td>Transformer</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[9]</td><td>NN</td><td>无模型的RL,Policy-Based</td></tr><tr><td>文献[10]</td><td>GPN</td><td>无模型的分层RL,Policy-Based</td></tr><tr><td>文献[11]</td><td>GAT</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[12]</td><td>GCN</td><td>无模型的RL,Given Model</td></tr><tr><td>文献[13]</td><td>GAT+注意力机制</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[14]</td><td>Transformer</td><td>无模型的RL,Policy-Based</td></tr><tr><td>文献[15]</td><td>GNN</td><td>无模型的RL,Policy-Based</td></tr><tr><td rowspan="8"></td><td>文献[16]</td><td>LSTM+注意力机制</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[17]</td><td>LSTM</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[8]</td><td>Transformer</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[18]</td><td>LSTM+注意力机制</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>CVRP文献[19]</td><td>NN</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[20]</td><td>GAT+GRU</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[13]</td><td>GAT+注意力机制</td><td>无模型的RL,Actor-Critic</td></tr><tr><td>文献[21]</td><td>GAT+GRU</td><td>无模型的RL,Actor-Critic</td></tr><tr><td rowspan="5">MDVRP</td><td>文献[22]</td><td></td><td>无模型的RL,Actor-Critic</td></tr><tr><td></td><td>Transformer</td><td></td></tr><tr><td>文献[23]</td><td>Transformer</td><td>无模型的RL,Actor-Critic</td></tr><tr><td></td><td>本文RE-GAT+Transformer</td><td>无模型的RL,Actor-Critic</td></tr></table></body></html>
+
+注：在网络结 构列，LSTM:long short-term memory；NN:neural networks; GRU: gate recurrent unit; GPN: graph pointer network.
+
+大多数基于DRL的应用集中在路径问题，如TSP和VRP。Vinyals 等[24]引入了sequence-to-sequence 模型指针网络(PtrNet)的监督学习框架来训练求解TSP等组合优化问题，该模型通过Softmax 注意力机制(指针)来选择输入序列中的元素作为输出的递归架构。Bello 等[25]引入了Actor-Critic 风格的深度强化学习算法以无监督的方式训练PtrNet来求解TSP，并且其性能在多达100个节点的TSP上优于以前的大多数近似算法。Nazari等[16]在Bello 的框架上进行了扩展以解决VRP。
+
+包括VRP在内的大多数组合优化问题都具有图结构[6]，可以很容易地通过现有的图嵌入或图网络嵌入技术来建模，将图信息嵌入到连续的节点表示中。图神经网络的最新发展可以用于网络设计，因为它在信息嵌入和图拓扑的信念传播方面具有很强的能力[6]。然而，上述工作中使用的sequence-to-sequence神经网络结构不能充分利用并提取该问题的图结构信息，例如图中节点包含客户的位置和需求信息、边包含权重信息。作为处理非欧氏数据和捕捉图结构信息的有力工具，图神经网络(GraphNeuralNetwork,GNN)近年来得到了广泛的研究。
+
+近年来基于GNN的近似求解器经过训练后，其算法时间复杂度明显优于传统的运筹优化算法。Li等[26应用图卷积网络(GCN)模型[27]以及引导树搜索算法来解决基于图的组合优化问题，如最大独立集和最小顶点覆盖问题。Dai 等[7]通过GNN对问题算例进行编码，与序列到序列模型相比，图神经网络具有节点顺序不变性，更好地反映了TSP的组合结构，他们使用 DQN[28]训练 structure2vec 图嵌入模型[29]。受Transformer架构[30]的激励，Kool等[8]提出了注意力模型以解决多种组合优化问题，并在策略梯度算法中使用Rollout基线显著的改善了小规模路径问题的求解结果。Nowak等[31]以监督学习的方式使用深度GCN 通过高度并行的波束搜索以非自回归的方法构建有效的TSP图表示并输出行程。Drori 等[13]开发了新的框架来解决图上的组合优化问题，该框架运用(Graph Attention Networks,GAT)求解众多图组合优化问题，他们称该框架具有从小图上的训练到大图上的测试和从随机图上的训练到在现实世界的图上测试的泛化性能。
+
+然而大多数机器学习方法聚焦于求解单车场的车辆路径问题，对于多车场车辆路径问题的研究较少。王万良等[23]基于多头注意力机制设计了多智能体强化学习框架求解MDVRP，并利用策略梯度算法进行训练，他们的实验结果表明所提出的多智能体深度强化学习模型及其与搜索策略的结合能够快速获得高质量的解。然而，文献[23]没有验证其训练后的模型泛化到不同规模算例的性能，及泛化到真实世界算例(标准算例)的性能。相反，本文提出的编码器-解码器模型不受问题规模(即车场和客户数)的约束，即经过训练的模型可适用于任意车场和客户数的算例，且能够在毫秒级给出解决方案。该框架具有较强的泛化性能。通过对随机生成数据集的测试，验证了该框架的有效性。此外，通过VRPLIB的标准算例测实验实验证了该框架具有从随机算例训练到真实世界算例测试的泛化能力。
+
+以上基于GNN 的Learning-based 方法激励本文探索其在求解MDVRP中的潜力。提出了基于端到端(End-to-end)的深度强化学习框架用于高效求解MDVRP。在该框架中，首先将MDVRP建模为马尔可夫决策过程(MarkovDecisionProcess,MDP)。本文提出了残差-边-图注意力网络(Residualedge graphattentionnetwork,RE-GAT)模型作为编码器提取嵌入MDVRP图表示的状态特征，该模型是对图注意力网络(graphattentionnetwork,GAT)的改进。GAT在提取图结构信息的过程中仅考虑节点的信息忽视了边的信息，而边的特征可以为学习策略提供与优化目标相关的更多直接信息(如加权距离)。此外，同时输入节点和边信息有利于挖掘不同节点之间空间邻接关系的特征。提出的 RE-GAT模型将MDVRP图表示中节点和边(如权重)的信息进行融合并更新并在层与层之间添加了残差连接有效地防止了深层模型中梯度消失和模型退化的问题。此外，还基于Transformer模型设计了解码器用于求解过程中高效地预测节点。所提出的编码器-解码器模型一经训练即可适用于任意车场和客户数量的算例，且能够在毫秒级给出路径优化方案。换言之，该框架可作为一种线下训练、线上测试的实时优化框架。
+
+为验证该框架的可行性和有效性，本文设计了随机生成的算例对框架进行训练和测试。此外，通过VRPLIB标准算例测试该框架的泛化性能，并与最新的基于机器学习方法和元启发式算法进行对比以验证所提框架的优越性。最后，通过实验验证并分析了框架在训练和测试阶段运行时间的复杂度。
+
+# 1 问题描述
+
+一般地，MDVRP可以描述为具有容量限制的一辆车向需求有限的多个客户运送货物，当车辆载物用完或不满足客户需求时返回仓库,其目标是在满足所有客户需求的基础上，使得总路线长度最小化，图1展示了具有两车场的MDVRP示意图。本文通过无向图 $G = \left( V , E , W \right)$ 来定义MDVRP，其中节点包括客户和多个车场 $i = \{ 1 , . . . k , k + 1 , . . . , m \}$ 表示其原始特征$n _ { i }$ ，包括该节点的坐标 $n _ { i } ^ { \prime }$ 和需求信息 $\delta _ { i }$ 。其中， $i = \{ 1 , . . . , k \}$ 表示车场节点， $i > k$ 表示第 $i$ 个客户节点。客户节点$i , i \in \{ k + 1 , . . . , m \}$ 的货物需求为 $\delta _ { i }$ ，其中 $0 < \delta _ { i } < D$ ，且 $D { > } 0$ 表示车辆的容量。假设车场的需求 $\delta _ { i } = 0 , i \in \{ 1 , . . . , k \}$ 。$a _ { i j } \in E , i , j \in V , i \neq j$ 表示从节点 $i$ 到节点 $j$ 的边， $e _ { i j } \in W$ 表示 $a _ { i j }$ 的距离信息。车场和客户节点坐标均从单位平方[0.1] $\times$ [0.1]中随机生成，即对客户节点数量为20、30、50的问题，本文分别生成 $n { = } 2 0 { + } k , 5 0 { + } k , 1$ $1 0 0 { + } k$ 个节点，与之三个规模问题相对应的车辆容量为30、40、50，每个客户节点需求在 $\{ 1 , \cdots , 9 \}$ 中随机产生。此外，将客户节点需求归一化到[01之间，车辆容量 $D$ 相应地变换为3、4、5。
+
+![](images/62c9652eee7fe5ea7c8708a636884fc606fb69754ac81bcf67be3b5e783a768a.jpg)  
+图1MDVRP示意图
+
+本文引入所有节点的排列 $\hat { \pi } = \left( \hat { \pi } _ { 1 } , . . . , \hat { \pi } _ { z } \right)$ 表示该问题的解，其中 $\hat { \pi } _ { t } \in \left\{ 1 , . . . , z \right\}$ 并且 $\hat { \pi } _ { t } \neq \hat { \pi } _ { t ^ { \prime } }$ ， $\forall t \neq t ^ { \prime }$ 。本文的目标是在给定问题算例的情况下找到问题的解 $\hat { \pi }$ ，使得每个客户节点只能访问一次(车场节点可以多次访问，即有 $z \geq m$ )，并且总的路线长度最小。排列 $\hat { \pi }$ 的长度定义为
+
+$$
+L ( \hat { \pi } | s ) = \mid \mid n _ { \hat { \pi } _ { z } } - n _ { \hat { \pi } _ { 1 } } \mid \mid _ { 2 } + \sum _ { t = 1 } ^ { z - 1 } \mid \mid n _ { \hat { \pi } _ { t } } - n _ { \hat { \pi } _ { t + 1 } } \mid \mid _ { 2 } ,
+$$
+
+其中 $| | \cdot | | _ { 2 }$ 表示2范数， $\parallel n _ { \hat { \pi } _ { z } } - n _ { \hat { \pi } _ { 1 } } \Vdash $ 表示最后服务的客户节点到车场的距离。本文的图-注意力模型为MDVRP算例 $s$ 定义了一个随机策略 $p ( \hat { \pi } \vert s )$ 。基于链式概率法则，序列 $\hat { \pi }$ 的选择概率可以基于图-注意模型的参数集合 $\theta$ 计算:
+
+$$
+p _ { \theta } \left( \hat { \pi } \vert s \right) = \prod _ { t = 1 } ^ { m } p _ { \theta } \left( \hat { \pi } _ { t } \vert s , \hat { \pi } _ { t ^ { \prime } } , \forall t ^ { \prime } < t \right) .
+$$
+
+编码器对所有输入节点的原始特征编码嵌入到高维特征。解码器基于编码器的输出在每一个时间步骤 $t$ 选择一个节点，从而产生输入节点的排列 $\hat { \pi }$ 。
+
+# 2 MDVRP的马尔可夫决策过程定义
+
+本节对 MDVRP 的马尔可夫决策过程(Markov decisionprocess,MDP)进行建模，其中包括对状态、动作和收益的定义：
+
+a）状态：在时间步骤 $\textit { t }$ ，状态由已访问的节点所构成的子图 $G ^ { \prime } ( G ^ { \prime } \subseteq G = ( V , E , W ) )$ 表示。
+
+b)动作：在时间步骤 $\textit { t }$ ，动作是未进行服务的客户节点或车场节点。
+
+c）收益：本文的优化目标是最小化车辆的行驶距离$L ( \hat { \pi } | s )$ 。首先计算时间步骤 $t$ 到时间步骤 $_ { t + 1 }$ 所访问的两个节点的距离( $\| n _ { \hat { \pi } _ { t } } - n _ { \hat { \pi } _ { t + 1 } } \| _ { 2 }$ )，然后将智能体的即时收益定义为：$- \| n _ { \hat { \pi } _ { t } } - n _ { \hat { \pi } _ { t + 1 } } \|$ l(强化学习的目标是最大化收益，因此取负值)。
+
+# 3 参数化强化学习智能体行为策略网络
+
+# 3.1 编码器
+
+编码器将图 $G = \left( V , E , W \right)$ 作为输入，其结构如图2所示。输入节点特征为 $n _ { i }$ ，输入边的特征为欧氏距离 $e _ { i j } , i , j \in \{ 1 , . . . , m \}$ 。上述两个特征分别通过全连接的层(图2中的 FC层)嵌入(embedding)到 $d _ { x }$ 和 $d _ { e }$ 维特征中，然后被送入RE-GAT 进行编码。式(3)和(4)分别描述了节点和边的嵌入过程。
+
+$$
+\pmb { x } _ { i } ^ { ( 0 ) } = B N \big ( A _ { 0 } \pmb { n } _ { i } + \pmb { b } _ { 0 } \big ) , i \in \{ 1 , . . . , m \}
+$$
+
+$$
+\hat { e } _ { i j } = B N \big ( A _ { 1 } e _ { i j } + b _ { 1 } \big ) , i , j \in \{ 1 , . . . , m \}
+$$
+
+其中: $A _ { 0 }$ 和 $\mathbf { A } _ { 1 }$ 分别表示可学习的权重矩阵， $\pmb { b } _ { 0 }$ 和 $\pmb { b } _ { 1 }$ 分别表示可学习的权重向量，BN()表示批归一化(batchnormalization)[32]。
+
+![](images/53c989caf03767097441e74209cdca8a1cb7fbfa587fbd78903794d39edc193c.jpg)  
+Fig.1The description of MDVRP   
+图2编码器整体结构  
+Fig.2Encoder network structure
+
+本文中编码器包含 $L$ 层RE-GAT，图3描述了单层RE-GAT如何将边的信息集成到节点信息中并更新每个节点的信息。注意力系数 $\alpha _ { i j } ^ { \prime }$ 表示第 $l \left( l \in \{ 1 , . . . , L \} \right)$ 层中节点 $j$ 相对于节点 $i$ 的权重系数(注意力系数)，其中 $i , j \in \{ 1 , . . . , m \}$ ：
+
+$$
+\alpha _ { i j } ^ { \ell } = \frac { \exp \bigl ( \sigma \bigl ( g ^ { \ell T } \bigl [ W ^ { \ell } \left( { \pmb x } _ { i } ^ { ( \ell - 1 ) } \parallel { \pmb x } _ { j } ^ { ( \ell - 1 ) } \parallel \hat { \pmb e } _ { i j } \right) \bigr ] \bigr ) \bigr ) } { \sum _ { z = 1 } ^ { m } \exp \bigl ( \sigma \bigl ( g ^ { \ell T } \bigl [ W ^ { \ell } \left( { \pmb x } _ { i } ^ { ( \ell - 1 ) } \parallel { \pmb x } _ { z } ^ { ( \ell - 1 ) } \parallel \hat { \pmb e } _ { i z } \right) \bigr ] \bigr ) \bigr ) }
+$$
+
+其中 $( \cdot ) ^ { T }$ 表示转置运算符，·Ⅱ·表示连接操作符， $\textbf {  { g } } ^ { \prime }$ 和 $W ^ { \iota }$ 是可学习的权重向量和权重矩阵， $\sigma ( \cdot )$ 是LeakyReLU激活函数。图2展示了具有多层RE-GAT的编码器模型结构。RE-GAT 的每一层通过式(5)和(7)描述的注意机制更新每个节点的特征向量。模型在每两层之间使用了残差连接(由式(6)表示)。也就是说，第 $\ell$ 层的输出被计算为
+
+$$
+\pmb { x } _ { i } ^ { ( i ) } = \pmb { x } _ { i , R } ^ { ( i ) } + \pmb { x } _ { i } ^ { ( i - 1 ) } , 2 < \ell < L ,
+$$
+
+其中 $\pmb { x } _ { i , R } ^ { ( \ell ) }$ 由式(7)计算所得。
+
+$$
+\pmb { x } _ { i , R } ^ { ( \ell ) } = \sum _ { j = 1 } ^ { m } \alpha _ { i j } ^ { \prime } \pmb { W } _ { 1 } ^ { \prime } \pmb { x } _ { j } ^ { ( \ell - 1 ) } ,
+$$
+
+其中: ${ \pmb W } _ { 1 } ^ { \prime }$ 表示可学习的权重矩阵。第 $L$ 层RE-GAT输出每个节点的最终嵌入特征向量 $\boldsymbol { x } _ { i } ^ { ( L ) }$ 。然后，用它们计算最终的图嵌入向量 $\overline { { \pmb { x } } } = \{ \overline { { x } } _ { 1 } , . . . , \overline { { x } } _ { d _ { x } } \} , \overline { { x } } _ { j } \in \mathbb { R }$ ，对于每个节点 $j \in \{ 1 , 2 , \cdots , d _ { x } \}$ 由式(8)表示：
+
+$$
+\overline { { x } } _ { j } = \frac { 1 } { m } \sum _ { i = 1 } ^ { m } ( \pmb { x } _ { i } ^ { ( L ) } ) _ { j } , j = 1 , \cdots , d _ { x }
+$$
+
+# 3.2 解码器
+
+在解码过程中，解码器基于注意力机制生成待选择节点(所有车场和客户)的概率分布，即每个节点都会关联一个概率值。然后，通过掩码(下文将详细介绍)机制来处理相关约束，即避免重复访问已服务的客户节点和连续两次选择车场节点。最后，搜索策略基于所输出的概率分布进行节点选择，如贪婪搜索(贪婪地选择概率最大的节点)或采样的解码策略(基于概率分布进行采样)。调度中心的选取同样适用该解码机制。传统的启发式算法通常采用"先分组后规划"的思想[23]求解MDVRP，存在以下缺点[23]:a)不同分组各自规划,这导致分组之间整体关联性的缺失;b)启发式方法中分组的优劣通常决定了整体规划的优劣，而分组规则的制定需要专家领域知识，人为选取的分组规则很难达到最优效果。相反，深度强化学习智能体能够通过数据驱动的方式与调度环境进行交互，进而不断更新进化自身策略以最大化收益(对于路径问题为总路线长度的负值)。即在本文的解码过程中强化学习策略选取调度中心的过程中无须无须依靠人为启发式地进行干预。
+
+![](images/b6dbedb2ec03b8c769a820bcc5294f978cd61844dc5c4cb191bc7a2f1b27cd44.jpg)  
+图3边和节点信息的聚合和更新方式
+
+本文采用类似于Transformer[30]模型所采用的多头注意力机制来设计针对MDVRP的解码器。与原始Transformer模型的结构不同，本文所设计的基于多头注意力机制的解码器为了提升计算效率只包含两个注意力子层，且不使用残差连接、批量归一化和全连接层网络。第一层通过多头注意机制计算上下文向量，第二层输出所选节点的概率分布，并基于该分别选择节点。
+
+解码按顺序进行，在时间步骤 $\textit { t }$ ，首先利用图嵌入向量$\overline { { x } }$ 、 $_ { t - 1 }$ 时刻选择的节点 $\hat { \pi } _ { \mathfrak { r } - 1 }$ 的嵌入向量和车辆的剩余容量计算出上下文向量 $\pmb { c } _ { t } ^ { ( 0 ) }$ ：
+
+$$
+\pmb { c } _ { t } ^ { ( 0 ) } = \left\{ \frac { \overline { { \pmb { x } } } + \pmb { W } _ { x } ( \pmb { x } _ { \hat { \pi } _ { t - 1 } } ^ { ( L ) } \| D _ { t - 1 } ^ { ^ { \prime } } ) , t > 1 } { \overline { { \pmb { x } } } + \pmb { W } _ { x } ( \pmb { x } _ { 0 } ^ { ( L ) } \| D _ { t } ^ { ^ { \prime } } ) \quad , t = 1 } . \right.
+$$
+
+其中： $\pmb { W } _ { x }$ 是可学习的权重矩阵， $D _ { t - 1 } ^ { \cdot }$ 和 $D _ { t } ^ { \prime }$ 分别表示两个解码步骤车辆的剩余容量。其中 $D _ { \iota } ^ { \prime }$ 的更新公式如下：
+
+$$
+D _ { t } ^ { \prime } = \left\{ { \begin{array} { l } { D _ { t - 1 } ^ { \prime } - \delta _ { \hat { \pi } _ { t } } ^ { * } \quad , \hat { \pi } _ { t } \in \{ 1 , . . . , m \} } \\ { D _ { \tau } \qquad , \hat { \pi } _ { t } = 0 } \end{array} } . \right.
+$$
+
+解码器第一层的输入是上下文向量 $\pmb { c } _ { t } ^ { ( 0 ) }$ ，该层产生新的上下文向量 $\boldsymbol { c } _ { t } ^ { ( 1 ) }$ 。特别地，该上下文向量是通过一个多头( $H$ 头)注意力机制获得的。式(11)描述了多头注意力机制，通过编码器输出的节点的嵌入向量和上下文向量 $\pmb { c } _ { t } ^ { ( 0 ) }$ 来分别计算键向量 $\pmb { k } _ { i } \in \mathbb { R } ^ { d _ { v } }$ ，值向量 $\pmb { \nu } _ { i } \in \mathbb { R } ^ { d _ { v } }$ ，查询向量 $\pmb q \in \mathbb { R } ^ { d _ { \nu } }$ ：
+
+$$
+\pmb q = \pmb { W } ^ { \varrho } \pmb { c } _ { t } ^ { ( 0 ) } , ~ \pmb { \nu } _ { i } = \pmb { W } ^ { V } \pmb { x } _ { i } ^ { ( L ) } , ~ \pmb { k } _ { i } = \pmb { W } ^ { K } \pmb { x } _ { i } ^ { ( L ) } ,
+$$
+
+$$
+i \in \{ 1 , 2 , \cdots , m \}
+$$
+
+其中: $W ^ { K } \in \mathbb { R } ^ { d _ { \nu } \times d _ { x } }$ ， $W ^ { Q } \in \mathbb { R } ^ { d _ { \nu } \times d _ { x } }$ 和 $W ^ { V } \in \mathbb { R } ^ { d _ { \nu } \times d _ { s } } \left( d _ { \nu } = d _ { x } / H \right)$ 都是可学习的权重矩阵。
+
+本文使用上下文向量 $\pmb { c } _ { t } ^ { ( 0 ) }$ 来计算每个查询向量 $\pmb q$ 。然后，利用编码器输出的节点嵌入向量 $\pmb { x } _ { i } ^ { ( L ) }$ ， $i \in \{ 1 , 2 , \cdots , m \}$ 计算键向量 $\pmb { k } = \{ \pmb { k } _ { 1 } , \cdots , \pmb { k } _ { m } \}$ 和值向量 $\pmb { \nu } = \{ \pmb { \nu } _ { 1 } , \cdots , \pmb { \nu } _ { m } \}$ 。并利用查询向量 $\pmb q$ 和键向量 $\pmb { k } = \{ \pmb { k } _ { 1 } , \cdots , \pmb { k } _ { m } \}$ 计算第一解码层的注意系数 $u _ { i , t } ^ { ( 1 ) } \in \mathbb { R } , i \in \{ 1 , \cdots , m \}$ ·
+
+$$
+u _ { i , t } ^ { ( 1 ) } = \{ \begin{array} { c } { ( - \infty , i f \ i \neq \hat { \pi } _ { t ^ { \prime } } \big ( \forall t ^ { \prime } < t \big ) o r \ \delta _ { i } ^ { \prime } > D _ { t - 1 } ^ { \prime } \  } \\ {  o r t = 1 \ o r \ \hat { \pi } _ { t - 1 } \in \{ 1 , \ldots k \}  \ } \\ {  \displaystyle \frac { q ^ { T } k _ { i } } { \sqrt { d _ { \nu } } } , \ o t h e r w i s e . } \end{array}  .
+$$
+
+本文通过掩码 $( m a s k )$ 来避免重复选择客户节点、车辆剩余容量不满足该客户节点和连续两次选择车场节点(即在$_ { t - 1 }$ 时刻选择车场节点 $\hat { \pi } _ { t - 1 } \in \{ 1 , . . . k \}$ )。具体地，在式(12)中，通过将上述情况的注意力系数设置为 $- \infty$ 来掩码。然后使用式(13)通过Softmax激活函数将注意力系数 $u _ { i , t } ^ { ( 1 ) }$ 归一化：
+
+$$
+\hat { u } _ { i , t } ^ { ( 1 ) } = s o f t m a x { \left( u _ { i , t } ^ { ( 1 ) } \right) } , i \in \{ 1 , \cdots , m \}
+$$
+
+其次，根据式(14)计算第 $h$ （ $h \in \{ 1 , \cdots , H \}$ 头归一化注意力系数 $( \hat { u } _ { i , t } ^ { ( 1 ) } ) ^ { h }$ ，其中 $1 \leq i \leq m$ 。然后将每个头计算出的向量串联起来，并通过全连接层计算得到最终的上下文向量 $\boldsymbol { c } _ { t } ^ { ( 1 ) }$ ·
+
+$$
+\pmb { c } _ { t } ^ { ( 1 ) } = \pmb { W } _ { f } \cdot \left( | | \pmb { \mathrm { H } } _ { { 1 } = 1 } \sum _ { i = 1 } ^ { m } ( \hat { u } _ { i , t } ^ { ( 1 ) } ) ^ { h } \pmb { \nu } _ { i } ^ { h } \right) ,
+$$
+
+其中: $\boldsymbol { W } _ { \boldsymbol { f } }$ 是可学习的权重矩阵。该多头注意机制有助于提高注意力学习过程的稳定性[33]。
+
+第二层解码器基于单头注意力机制，其输入是上下文向量 $\boldsymbol { c } _ { t } ^ { ( 1 ) }$ 。然后利用式(15)计算第二解码层在 $t$ 时刻的注意系数$u _ { i , r } ^ { ( 2 ) } \in \mathbb { R } , i \in \left\{ 1 , . . . m \right\}$ 。基于Bello 等的工作[25]，采用 tanh 激活函数将该系数截断在 $\left[ - C , C \right]$ 内(本文选取 $C = 1 0$ )。然后通过式(16)采用Softmax 激活函数获得每个节点的选择概率 $p _ { i , t }$ ，$\mathfrak { i } \in \{ 1 , . . . m \}$ ：
+
+$$
+\begin{array} { r } { u _ { i , t } ^ { ( 2 ) } = \left\{ \begin{array} { l l } { - \infty , i f \ i \neq \hat { \pi } _ { t ^ { \prime } } \left( \forall t ^ { \prime } < t \right) o r \ \delta _ { i } ^ { * } > D _ { t - 1 } ^ { * } \ o r } \\ { \qquad t = 1 \ o r \ \hat { \pi } _ { t - 1 } \in \left\{ 1 , \ldots k \right\} } \\ { \qquad C \cdot \operatorname { t a n h } \left( \displaystyle \frac { c _ { t } ^ { ( 1 ) \tau } k _ { i } } { \sqrt { d _ { \nu } } } \right) \quad , o t h e r w i s e } \end{array} \right. , } \end{array}
+$$
+
+$$
+p _ { i , t } = p _ { \theta } \left( \hat { \pi } _ { t } \big | s , \hat { \pi } _ { t ^ { \prime } } , \forall t ^ { \prime } < t \right) = s o f t m a x \big ( u _ { i , t } ^ { ( 2 ) } \big ) .
+$$
+
+最后，根据策略概率分布的 $p _ { i , t }$ ，使用采样或贪婪解码(将在下文介绍)来预测下一个要访问的节点(车场或客户节点)。
+
+# 4基于策略梯度的深度强化学习算法
+
+本文引入改进的REINFORCE算法来训练所提出的模型。将损失函数定义为 $\begin{array} { r } { L o s s ( \theta | s ) = \mathbb { E } _ { \hat { \pi } \sim p _ { \theta } ( \hat { \pi } | s ) } \left[ L ( \hat { \pi } | s ) \right] } \end{array}$ 。该改进REINFORCE算法具有actor-critic风格，但又与传统地将状态-价值估计函数作为critic不同。与该算法的原始版本相比，本文所实现的版本添加了Rollout基线方法[8]，以加速算法收敛速度以及增强优化性能。其损失函数的梯度计算过程如下：
+
+$$
+\begin{array} { r } { \nabla _ { \theta } L o s s ( \theta | s ) = \mathbb { E } _ { \hat { \pi } \sim p _ { \theta } ( \hat { \pi } | s ) } [ ( L ( \hat { \pi } | s ) - b ) \nabla _ { \theta } l o g p _ { \theta } ( \hat { \pi } | s ) ] . } \end{array}
+$$
+
+![](images/fe524480c5d9f03bf299b46b0a5dba680f4e1e519d3842d2ab3e68ee1fccb347.jpg)  
+Fig.3Edge and node fusion and update method   
+图4改进REINFORCE算法流程框图  
+Fig.4Improvement reinforce algorithm process block diagram
+
+在所提出的具有Rollout基线版本的REINFORCE算法中，critic网络被基线actor所取代。该算法的流程框图如图4所示。算法可以描述为具有两个actor的结构，基线actor的策略网络 $\pi _ { \theta ^ { B L } }$ （ $\theta ^ { B L }$ 为参数集合)在每个 epoch 内被固定(即其参数不进行更新)，该策略类似于DDQN[34]中固定目标Q-网络。在每个epoch结束时，使用贪婪解码来比较当前训练actor和基线actor的结果。然后，基线actor策略网络的参数只有在测试算例上具有显著提升(对其进行t检验，显著性水平 $\alpha = 5 \%$ )才会进行更新。在训练过程中，本文还采用“代码级优化"的策略对该算法进行改进，包括Adam优化器的学习率衰减和奖励函数的归一化，提高了该算法的性能。
+
+有效的组合优化搜索算法主要包括束波搜索、邻域搜索和树搜索。Bello 等[25]提出了诸如采样、贪婪搜索和主动搜索等搜索策略。本文使用了以下两种解码策略。
+
+a)贪婪解码：一般来说，贪婪算法构造局部最优解并提供全局最优解的快速近似值。在每个解码步骤中，贪婪地选择概率最高的节点，当所有节点的要求都被满足时，即搜索终止，从而构造出有效解。
+
+b)随机采样：在每个解码时间步骤 $\textit { t }$ ，随机策略$p _ { \theta } \left( \hat { \pi } _ { t } | s , \hat { \pi } _ { t ^ { ' } } \forall t ^ { \prime } < t \right)$ 根据概率分布随机选择节点来构造有效解。在测试过程中，Bello等[25]利用温度超参数 $\lambda \in \mathbb { R }$ 对式(16)进行修正，以保证采样的多样性。修改后的公式如下：
+
+$$
+p _ { i , t } = p _ { \theta } \left( \hat { \pi } _ { t } | s , \hat { \pi } _ { t ^ { \prime } } \forall t ^ { \prime } < t \right) = s o f t m a x \Bigg ( \frac { u _ { i , t } ^ { ( 2 ) } } { \lambda } \Bigg ) .
+$$
+
+通过对温度超参数的网格搜索，发现温度值分别为2.5、1.8、1.2时对于MDVRP20(客户节点数为20)、MDVRP50和MDVRP100效果最好。
+
+在训练过程中，通常需要模型探索环境以获得更好的模型性能，因此采用随机采样的解码策略。而在测试过程中，本文使用了贪婪解码策略。此外，根据现有的研究的测试方法[8][25]，本文还采用随机采样的方法求得了1280 个解决方案并报告其最好的一个。
+
+# 5 计算实验
+
+本节通过实验验证所提出框架的可行性和有效性。实验包括训练和测试两个部分，由于训练需要大量数据，因此训练数据由均匀分布随机产生。测试数据集包括随机生成的算例和公开的标准算例(Cordeau 等提出[35,36]）其分别用于测试所提出框架的有效性和泛化性能。此外本文还将所提出的框架与其他Learning-based 的方法、Google OR-tools 和元启发式算法进行了比较。
+
+# 5.1数据集与超参数的选择
+
+为提高可读性，本文将MDVRP的规模以"客户数-车场数"的格式表示。本文所用到的数据集包括随机生成的训练数据、验证数据和随机测试数据。分别针对规模20-2、50-2和100-2从单位平方 $[ 0 , 1 ] \times [ 0 , 1 ]$ 中随机生成MDVRP 算例。并分别为20-2的训练集生成了819200个算例，为50-2和100-2的训练集生成了768000个算例，且每个模型训练100个Epoch。对于验证数据和随机测试数据，使用与训练数据相同的分布，分别为每个规模生成10000个算例。此外，本文还采用公开的标准算例(Cordeau 等提出[35,36)来评估所提出的模型由随机生成的算例训练到真实世界算例测试的泛化性能以及测试不同规模算例(不同数量的车场以及客户)的泛化性能。所有实验在具有一块TurboHT（100W)DDR4-2400CPU和一块NvidiaGeForceRTX3090GPU的计算机上进行表2列出了训练过程的其他相关超参数的值。本文的模型由PyTorch构造，并用Python3.7进行实现。
+
+表2超参数选值  
+Tab.2Value of hyper-parameters   
+
+<html><body><table><tr><td>超参数</td><td>值</td></tr><tr><td>编码器层数L</td><td>4</td></tr><tr><td>学习率衰减系数β</td><td>0.96</td></tr><tr><td>学习率l</td><td>1×10-³(m= 20)</td></tr><tr><td></td><td>3×10-4(m=50,100)</td></tr><tr><td>多头注意力机制头数H</td><td>8</td></tr><tr><td>节点的信息嵌入维数dx</td><td>128</td></tr><tr><td>边的信息嵌入维数de</td><td>16</td></tr><tr><td>优化器</td><td>Adam[37]</td></tr></table></body></html>
+
+# 5.2计算结果分析
+
+# 5.2.1随机算例分析
+
+表3列出了所提框架(根据解码策略的不同由"Greedy”“Sampling128"和"Sampling1280"表示)、Google OR-tools和其他基于DRL 的方法[23]在不同规模随机生成的 MDVRP上的测试结果。该表中距离(越小越好)和相对最优Gap值为10000 个算例的平均值。此外，还给出了所有测试算例的平均运算时间。
+
+表3所提出的框架、其他强化学习方法和GoogleOR-tools的随机算例计算结果  
+).3Resultsofthe proposedframework,areinforcementlearningmethodandGoogleOR-toolsonrandomgeneratedMDVRPnsta   
+
+<html><body><table><tr><td rowspan="2">方法</td><td rowspan="2">类型</td><td colspan="3">MDVRP20-2</td><td colspan="3">MDVRP50-2</td><td colspan="3">MDVRP100-2</td></tr><tr><td>距离</td><td>Gap值</td><td>时间</td><td>距离</td><td>Gap值</td><td>时间</td><td>距离</td><td>Gap值</td><td>时间</td></tr><tr><td>Greedy[23]</td><td>RL, G</td><td></td><td></td><td></td><td></td><td>-</td><td></td><td>15.62</td><td>13.68%</td><td>43.9 ms</td></tr><tr><td>Greedy (本文)</td><td>RL, G</td><td>5.35</td><td>1.71%</td><td>0.2 ms</td><td>9.40</td><td>4.56%</td><td>0.7 ms</td><td>14.46</td><td>5.24%</td><td>1.8 ms</td></tr><tr><td>OR-tools</td><td>H,S</td><td>5.65</td><td>7.41%</td><td>0.18 ms</td><td>9.73</td><td>8.23%</td><td>1.02 ms</td><td>14.99</td><td>9.10%</td><td>3.6 ms</td></tr><tr><td>Sampling128[23]</td><td>RL, S</td><td></td><td></td><td></td><td></td><td></td><td></td><td>15.07</td><td>9.68%</td><td>5.68 s</td></tr><tr><td>Sampling128 (本文)</td><td>RL, S</td><td>5.33</td><td>1.33%</td><td>19 ms</td><td>9.27</td><td>3.12%</td><td>0.07 s</td><td>14.34</td><td>4.36%</td><td>0.21 s</td></tr><tr><td>Sampling1280 (本文)</td><td>RL,S</td><td>5.26</td><td>0.00%</td><td>91 ms</td><td>8.99</td><td>0.00%</td><td>0.46 s</td><td>13.74</td><td>0.00%</td><td>1.58 s</td></tr></table></body></html>
+
+由该表可以看出，采样解码策略能够获得所有方法给出结果的最好解。该策略对每个算例都执行128或1280次采样，即构造128或1280个解并报告最好的一个。相反，贪婪解码策略仅通过训练后的模型在每次解码过程中贪婪的选择具有最高概率的节点以构造单个解。此外，基于神经网络的并行计算可以对多个算例进行批处理，这使得训练后的模型以贪婪解码的方式具有极快的求解速度。例如，对于规模为100-2的10000个MDVRP算例，所提出的方法以贪婪解码的方式求解单个算例只需要 $1 . 8 ~ \mathrm { m s }$ ，而采样的解码方式需要 $1 . 5 8 \mathrm { ~ s ~ }$ 。
+
+GoogleOR-tools是基于局部搜索的高效求解器，文献[23]是深度强化学习方法。然而，在所有规模的MDVRP问题上，所提出的框架无论采用贪婪解码还是采样解码的方式都优于OR-tools和文献[23]所提出强化学习方法，且贪婪解码方式在运行时间上也要远优于这两种方法。此外，图5展示了训练过程中各规模MDVRP的收敛曲线，可以看出各规模的算例训练过程中在80个Epoch后都能很好地收敛。
+
+# 5.2.2公开算例分析
+
+为评估所提出框架从随机生成的算例泛化到真实世界算例以及泛化到不同规模(即不同客户和车场数)的性能，本节将训练后的模型(通过随机生成的规模为100-2的MDVRP算例进行训练)用于求解 Cordeau 等[35,36]针对 MDVRP 提出的公开标准算例(客户数50-160)，所有结果均列在表4中。此外，为进一步评估所提出框架的性能，还与最先进的元启发式算法(改进ACO[38)进行比较，其结果同样列在表4中。两种方法的 Gap 值均基于已知最好的解(best known solutions,BKS)求得。
+
+由表4可以看出，虽然改进ACO算法在大部分算例上优于本文所提出的框架，且其平均Gap 值也更优( $1 . 9 8 \%$ vS.$4 . 9 7 \%$ )。但该改进ACO方法的结果是针对每个算例单独执行100 次并报告最好的一个，表中时间为平均时间。相反，本文所提出的框架采用贪婪解码的策略对每个算例进行单次求解。本文所提出的框架在运行时间上要远远优于该改进
+
+ACO 算法[38](0.09 svs.51.59s)。因此，本文所提出的框架在该数据集的求解质量和运行时间上较为均衡。此外，所提出的框架可以作为一种线下训练线上测试使用的实时求解框架。
+
+![](images/9cae39ef8ff83b9445d6d3c048ac5eca0793be384ae03ccc260293723b88c496.jpg)  
+图5各规模MDVRP训练过程收敛曲线  
+Fig.5 Convergence curve of MDVRP with different scales in training process
+
+5.2.3拓展计算分析(CVRP)
+
+为进一步评估所提出框架对于不同场景车辆路径问题的求解性能及泛化能力，将所提出的框架用于求解单车场的CVRP。本节采用随机算例进行实验验证，即由均匀分布随机生成10000个算例(与文献[8][1保持一致)。并通过与现有的Learning-based 方法(表5种"PtrNet"和"AM"都是基于深度强化学习的方法)、Google OR-tools、Gurobi 精确求解器和LKH3求解器进行对比，来验证所提出框架在单车场CVRP上的有效性。不同规模的CVRP算例的测试结果列于表5中。表中所列出的结果根据其求解方法的属性可以分为三个大类，包括求解器、贪婪方法和采样/搜索方法。除了所提出模型的结果，该表的其他结果均取自Kool等[8]。在模型性能方面，所提出的框架无论是采样还是贪婪解码策略的结果都要优于其他所列出的基于学习的方法。其结果说明了所提出的框架在单车场CVRP场景下仍然具有较好的泛化性能。同时，验证了该模型具有迁移到其他场景VRP的潜力。
+
+Tab.4Results of the proposed framework and improved ACO on benchmarks   
+表5不同方法在各规模CVRP上的结果  
+
+<html><body><table><tr><td rowspan="2">No.</td><td rowspan="2">问题</td><td rowspan="2">客户数</td><td rowspan="2">车场数</td><td rowspan="2">BSK</td><td colspan="3">Greedy</td><td colspan="3">改进ACO[38]</td></tr><tr><td>距离</td><td>Gap值</td><td>时间</td><td>距离</td><td>Gap值</td><td>平均时间</td></tr><tr><td>1</td><td>p01</td><td>50</td><td>4</td><td>576.87</td><td>633.47</td><td>9.81%</td><td>0.06 s</td><td>607.66</td><td>5.34%</td><td>1.7 s</td></tr><tr><td>2</td><td>p02</td><td>50</td><td>4</td><td>473.53</td><td>493.34</td><td>4.18%</td><td>0.06 s</td><td>495.34</td><td>4.61%</td><td>1.8 s</td></tr><tr><td>3</td><td>p03</td><td>75</td><td>5</td><td>641.19</td><td>683.71</td><td>6.63%</td><td>0.09 s</td><td>670.82</td><td>4.62%</td><td>4.3 s</td></tr><tr><td>4</td><td>p04</td><td>100</td><td>2</td><td>1001.59</td><td>1104.65</td><td>10.28%</td><td>0.10 s</td><td>1021.36</td><td>1.97%</td><td>28.4 s</td></tr><tr><td>5</td><td>p05</td><td>100</td><td>2</td><td>750.03</td><td>809.79</td><td>7.96%</td><td>0.10 s</td><td>750.72</td><td>0.09%</td><td>25.6 s</td></tr><tr><td>6</td><td>p06</td><td>100</td><td>3</td><td>876.50</td><td>961.77</td><td>9.72%</td><td>0.09 s</td><td>902.91</td><td>3.01%</td><td>31.9 s</td></tr><tr><td>7</td><td>p07</td><td>100</td><td>4</td><td>885.80</td><td>980.08</td><td>10.64%</td><td>0.09 s</td><td>907.55</td><td>2.46%</td><td>30.9 s</td></tr><tr><td>8</td><td>p12</td><td>80</td><td>2</td><td>1318.95</td><td>1329.82</td><td>0.82%</td><td>0.04 s</td><td>1318.95</td><td>0.00%</td><td>15.4 s</td></tr><tr><td>9</td><td>p13</td><td>80</td><td>2</td><td>1318.95</td><td>1329.82</td><td>0.82%</td><td>0.04 s</td><td>1318.95</td><td>0.00%</td><td>16.0 s</td></tr><tr><td>10</td><td>p14</td><td>80</td><td>2</td><td>1360.12</td><td>1360.12</td><td>0.00%</td><td>0.04 s</td><td>1365.69</td><td>0.41%</td><td>16.9 s</td></tr><tr><td>11</td><td>p15</td><td>160</td><td>4</td><td>2505.42</td><td>2586.66</td><td>3.24%</td><td>0.15 s</td><td>2554.12</td><td>1.94%</td><td>167.1 s</td></tr><tr><td>12</td><td>p16</td><td>160</td><td>4</td><td>2572.23</td><td>2586.66</td><td>0.56%</td><td>0.15 s</td><td>2606.22</td><td>1.32%</td><td>188.1 s</td></tr><tr><td>13</td><td>p17</td><td>160</td><td>4</td><td>2709.09</td><td>2709.09</td><td>0.00%</td><td>0.15 s</td><td>2709.09</td><td>0.00%</td><td>147.3 s</td></tr><tr><td>平均值</td><td></td><td></td><td></td><td></td><td></td><td>4.97%</td><td>0.09 s</td><td></td><td>1.98%</td><td>51.59 s</td></tr></table></body></html>
+
+表4所提出方法和改进ACO的结果  
+Tab.5Results of different methods on random generated CVRP instances   
+
+<html><body><table><tr><td rowspan="2">方法</td><td rowspan="2">类型</td><td colspan="3">VRP20</td><td colspan="3">VRP50</td><td colspan="3">VRP100</td></tr><tr><td>距离</td><td>Gap值</td><td>总时间</td><td>距离</td><td>Gap值</td><td>总时间</td><td>距离</td><td>Gap值</td><td>总时间</td></tr><tr><td>Gurobi</td><td>Solver</td><td>6.10</td><td>0.00%</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LKH3</td><td>Solver</td><td>6.14</td><td>0.58%</td><td>7.2 ms</td><td>10.38</td><td>0.00%</td><td>25.2 ms</td><td>15.65</td><td>0.00%</td><td>46.8 ms</td></tr><tr><td>PtrNet [16]</td><td>RL,G</td><td>6.59</td><td>8.03%</td><td></td><td>11.39</td><td>9.78%</td><td></td><td>17.23</td><td>10.12%</td><td></td></tr><tr><td>AM[8]</td><td>RL,G</td><td>6.40</td><td>4.97%</td><td>0.1 ms</td><td>10.98</td><td>5.86%</td><td>0.3 ms</td><td>16.80</td><td>7.34%</td><td>0.8 ms</td></tr><tr><td>Greedy</td><td>RL,G</td><td>6.26</td><td>2.6%</td><td>0.2 ms</td><td>10.88</td><td>4.81%</td><td>0.7 ms</td><td>16.69</td><td>6.68%</td><td>1.7ms</td></tr><tr><td>OR Tools</td><td>H, S</td><td>6.43</td><td>5.41%</td><td></td><td>11.31</td><td>9.01%</td><td></td><td>17.16</td><td>9.67%</td><td></td></tr><tr><td>PtrNet[16]</td><td>SL,BS</td><td>6.40</td><td>4.92%</td><td></td><td>11.15</td><td>7.46%</td><td></td><td>16.96</td><td>8.39%</td><td></td></tr><tr><td>AM [8]</td><td>RL, S</td><td>6.25</td><td>2.49%</td><td>36 ms</td><td>10.62</td><td>2.40%</td><td>0.17 s</td><td>16.23</td><td>3.72%</td><td>0.72 s</td></tr><tr><td>Sampling</td><td>RL,S</td><td>6.19</td><td>1.47%</td><td>84 ms</td><td>10.54</td><td>1.54%</td><td>0.44 s</td><td>16.16</td><td>3.25%</td><td>1.55 s</td></tr></table></body></html>
+
+注：在类型列中，RL：强化学习方法、H:启发式方法、SL：监督学习、S：采样/搜索、G:贪婪搜索、BS:束波搜索、“"：不能在合理时间内求解。
+
+# 5.2.4框架计算时间复杂度分析
+
+该框架通过线下训练和线上测试的方式来求解路径问题。接下来，通过对TSP问题的求解(大多数文献[7][13]通过求解TSP来分析时间复杂度，为了便于与文献中的方法进行比较，本文也通过 TSP 进行评估)来评估所提出模型在训练和测试阶段随图规模(即节点数)增大和运行时间的关系。本节采用的所有算例均由均匀分布随机生成(与文献[7][13]保持一致)。对于训练阶段，训练时间不仅取决于问题的图规模，还取决于训练数据的数量和批量大小。为不失一般性，这里用10000个训练实例和相同的批量大小(批量大小为128)测试了单个epoch内节点数从1增加到100 实例的运行时间。图6(a)显示了所提出的框架在训练阶段的运行时间随图节点增长呈线性增长。
+
+在测试阶段，测试了图规模(节点数)从1增加到500时，整个编码器-解码器器模型的运行时间。图6(b)显示了所提出的模型在测试阶段的运行时间随图规模(节点数)的增加呈线性增长。表6总结了几类方法包括精确算法、启发式算法和基于学习的方法在规模为100个节点的TSP上的运行时间复杂度、运行时间(平均值)和平均最优解间距。除了所提出的框架的结果以外，所有的结果都取自Drori等[13]的表1。所提出框架的结果以粗体列出。精确算法、近似算法、启发式算法的运行时间在图规模上至少呈平方增长，S2V-DQN[7]是强化学习方法，运行时间复杂度分别为 $O ( n ^ { 2 } )$ ，且具有较大的最优解间距(为 $8 . 4 \%$ ，本文所提出的框架的运行时间复杂度为 $O ( n )$ ，在运行时间和最优解间距上都有较大的提升。GAT[13]与所提出的框架都具有相同的运行时间复杂度但其最优解间距更大。
+
+表6各方法的运行时间复杂度  
+Tab.6Running time complexity of each method   
+
+<html><body><table><tr><td>Tab.6</td><td colspan="3">Runningtimecompiexityo1eachmethod</td></tr><tr><td>方法</td><td>运行时间复杂度</td><td>运行时间 (毫秒)</td><td>Gap值</td></tr><tr><td>Gurobi</td><td>NA</td><td>3,220 ms</td><td>0.0%</td></tr><tr><td>Concorde</td><td>NA</td><td>254.1 ms</td><td>0.0%</td></tr><tr><td>Christofifides</td><td>O(n3)</td><td>5,002 ms</td><td>2.9%</td></tr><tr><td>LKH</td><td>O(n2²)</td><td>2,879 ms</td><td>0.0%</td></tr><tr><td>2-opt</td><td>O(n2)</td><td>30.08 ms</td><td>9.7%</td></tr><tr><td>Farthest</td><td>0(n2)</td><td>8.35 ms</td><td>7.5%</td></tr><tr><td>Nearest</td><td>O(n2)</td><td>9.35 ms</td><td>24.5%</td></tr><tr><td>S2V-DQN[7]</td><td>O(n²)</td><td>61.72 ms</td><td>8.4%</td></tr><tr><td>GAT[13]</td><td>0(n)</td><td>1.17 ms</td><td>7.4%</td></tr><tr><td>Greedy</td><td>0(n)</td><td>1.06 ms</td><td>3.7%</td></tr></table></body></html>
+
+# 6 结束语
+
+本文提出了端到端的深度强化学习框架用于提升MDVRP的求解效率。为MDVRP建模了马尔可夫决策过程设计了改进图注意力网络作为编码器对求解过程中的状态信息进行编码，还基于Transformer模型设计了解码器模型。为训练所提出的编码器-解码器模型，设计了改进REINFORCE算法用于。此外，所设计的框架不受问题规模的约束，一旦模型完成训练就可以应用于不同规模的算例问题(不同的客户数和车场数)。为验证所提出框架的可行性和有效性，通过随机生成的算例和公开标准算例进行了数值实验，并与现有的Learning-based 方法、Google OR-tools、元启发式算法进行对比。计算结果表明所提出的框架对于求解不同规模及不同场景下的车辆路径问题具有可行性和高效性。
+
+本文考虑了静态环境下的MDVRP，而在实际的物流运输过程中，运输环境通常是瞬息万变地，即会面临订单动态到达的情况。基于本文所提出框架求解该问题的快速性，其具有在动态环境下进行实时调度车辆的潜力。因此，未来的研究将会专注于构建动态环境下的端到端深度强化学习框架。
+
+![](images/cf034cc15cbe0201c6ca0f7a0839a0d031c1bc0e6c4dc87b6bb8a0f9f1d3c0ad.jpg)  
+图6所提出框架的运行时间复杂度分析  
+Fig.6Running time complexity analysis of the proposed framework
+
+# 参考文献：
+
+[1]Sharma N,Monika.ALiterature Survey on Multi Depot Vehicle Routing Problem [J]. International Journal for Scientific Research Development, 2015,3 (4): 1752-1757.   
+[2]叶勇，张惠珍．多配送中心车辆路径问题的狼群算法[J].计算机应 用研究,2017,34(9):2590-2593.(Ye Yong,Zhang Huizhen.Wolf pack algorithm for multi-depot vehicle routing problem [J].Application Research of Computers,2017,34(9): 2590-2593.)   
+[3]胡蓉，陈文博，钱斌等．学习型蚁群算法求解绿色多车场车辆路径 问题[J]．系统仿真学报，2021,33(9):2095-2108.(Hu Rong,Chen Wenbo,Qian Bin,et al. learning ant colony algorithm for green multidepot vehicle routing problem[J]. Journal of System Simulation,2021, 33 (9): 2095-2108.)   
+[4] 戚远航，蔡延光，蔡颢，等．泰森多边形的离散蝙蝠算法求解多车场 车辆路径问题[J].控制理论与应用，2018,35(8):1142-1150.(Qi Yuanhang,Cai Yanguang,Cai Hao,et al.Voronoi diagram-based discrete bat algorithm formulti-depot vehicle routing problem[J].Control Theory & Applications,2018,35(8):1142-1150.)   
+[5]李洋，胡蓉，钱斌等．两阶段算法求解多车场车辆路径问题[J].信 息与控制,2020,49 (6):752-760.(Li Yang,Hu Ron,Qian Bin,et al. two-stage algorithm for multi-depot vehicle routing problem [J]. Information and Control, 2020,49 (6): 752-760.)   
+[6]Bengio Y,Lodi A,Prouvost A.Machine learning for combinatorial optimization:A methodological tour d'horizon [J].European Journal of Operational Research,2021,290 (2): 405-421.   
+[7]Khalil E,Dai H,Zhang Y,et al.Learning combinatorial optimization algorithms over graphs [J]．In Advances in Neural Information Processing Systems,2017,30:6348-6358.   
+[8]Kool W,Van H H,Welling M.Attention,Learn to Solve Routing Problems! [C]/ proceedings ofthe International Conference on Learning Representations,2018.   
+[9]Malazgirt GA, Unsal O S,Kestelman AC. Tauriel: Targeting traveling salesman problem with a deep reinforcement learning inspired architecture [J/OL].2019,arXiv preprint arXiv: 1905. 05567.   
+[10] Ma Q,Ge S,He D,et al. Combinatorial Optimization by Graph Pointer Networks and Hierarchical Reinforcement Learning [J/OL].2019,arXiv: 1911. 04936.   
+[11] Cappart Q,Moisan T,Rousseau L M,et al. Combining Reinforcement Learning and Constraint Programming for Combinatorial Optimization [J/OL].2020,arXiv: 2006.01610.   
+[12] Subramaniam V,Lee G K,Ramesh T,et al.Machine Selection Rules in a Dynamic Job Shop [J].The International Journal of Advanced Manufacturing Technology,2000,16 (12): 902-908.   
+[13] Drori I，Kharkar A，Sickinger W R,et al.Learning to Solve Combinatorial Optimization Problems on Real-World Graphs in Linear Time [J/OL].2020,arXiv: 2006.03750.   
+[14] Zhang R,Prokhorchuk A,Dauwels J. Deep Reinforcement Learning for Traveling Salesman Problem with Time Windows and Rejections [C]// International Joint Conference on Neural Networks (IJCNN),2020:1-8.   
+[15] Hu Y, Yao Y,Lee WS.Areinforcement learning approach for optimizing multiple traveling salesman problems over graphs [J]. Knowledge-Based Systems,2020,204:106244.   
+[16] Nazari M,Oroojlooy A,Snyder L,et al. Reinforcement learning for solving the vehicle routing problem [C]// Advances in Neural Information Processing Systems,2018: 9839-9849.   
+[17] Chen X,Tian Y.Learning to perform local rewriting for combinatorial optimization [Cl//proceedings of the Advances in Neural Information Processing Systems,2019: 6281-6292.   
+[18] Zhao J,Mao M,Zhao X,etal.AHybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems [J].Ieee Transactions on Intelligent Transportation Systems,2020:1-11.   
+[19] Lu H, Zhang X,Yang S.A Learning-based Iterative Method for Solving Vehicle Routing Problems [Cl//proceedings of the International Conference on Learning Representations,2019.   
+[20] Gao L,Chen M, Chen Q,et al.Learn to Design the Heuristics for Vehicle Routing Problem [J/OL].2020,arXiv: 2002.08539.   
+[21] Chen M,Gao L,Chen Q,et al. Dynamic Partial Removal: A Neural Network Heuristic for Large Neighborhood Search [J/OL].2020,arXiv: 2005.09330.   
+[22] Zhang K,HeF, Zhang Z,etal. Multi-vehicle routing problems with soft time windows: A multi-agent reinforcement learning approach [J]. Transportation Research Part C:Emerging Technologies,2020,121: 102861.   
+[23]王万良，陈浩立，李国庆，等．基于深度强化学习的多配送中心车辆 kzyjc.2021.1381.(Wang Wanliang, Chen Haoli,Li Guoqing,et al.Deep Reinforcement Learning for Multi-depot Vehicle Routing Problem [J/OL]. Control and Decision: DOI: 10.13195/j. kzyjc.2021.1381.)   
+[24] Vinyals O,Fortunato M, Jaitly N.Pointer networks [C]//proceedings of the Advances in Neural Information Processing Systems,2015:2692- 2700.   
+[25] Bello I, Pham H,Le Q V,et al. Neural combinatorial optimization with reinforcement learning [J/OL]. arXiv preprint arXiv: 09940,2016.   
+[26] Li Z， Chen Q，Koltun V. Combinatorial optimization with graph convolutional networks and guided tree search [C]// proceedings of the Proceedings of the 32nd International Conference on Neural Information Processing Systems,2018: 537-546.   
+[27] Kipf T N,Welling M. Semi-supervised classification with graph convolutional networks [J/OL]. arXiv preprint arXiv: 02907,2016.   
+[28] Mnih V, Kavukcuoglu K, Silver D,et al.Playing Atari with Deep Reinforcement Learning [J/OL].2013,arXiv: 1312.5602.   
+[29] Dai H,Dai B,Song L.Discriminative embeddings of latent variable models for structured data [J]. International conference on machine learning,2016:2702-2711.   
+[30] Vaswani A,Shazeer N,Parmar N,et al.Attention is all you need [C]//In Advances in Neural Information Processing Systems,2017,30:5998- 6008.   
+[31] Nowak A,VillarS,Bandeira A S,et al. Anote on learning algorithms for quadratic assignment with graph neural networks [C]// proceedings of the Proceeding of the 34th International Conference on Machine Learning (ICML),2017: 22.   
+[32] Ioffe S, Szegedy C. Batch normalization: accelerating deep network training by reducing internal covariate shift [C]//Proceedings ofthe 32nd International Conference on International Conference on Machine Learning-Volume 37.Lille,France; JMLR.org.2015: 448-456   
+[33] Velickovic P,Cucurull G, Casanova A,et al. Graph Attention Networks [C]//proceedings of the International Conference on Learning Representations,2018.   
+[34] Van HH, Guez A, Silver D.Deep Reinforcement Learning with Double Q-Learning [Cl// Proceedings of the AAAI Conference on Artificial Intelligence,2016,30(1).   
+[35] Cordeau JF, Gendreau M,Laporte G.A tabu search heuristic for periodic and multi-depot vehicle routing problems [J]. Networks,1997,30 (2): 105-119.   
+[36] Cordeau JF,Maischberger M.A parallel iterated tabu search heuristic for vehicle routing problems [J]. Computers & Operations Research,2012, 39 (9):2033-2050.   
+[37] Kingma D P,Ba J.Adam: A Method for Stochastic Optimization [C]//In International Conference on Learning Representations,2015.   
+[38] Stodola P. Using Metaheuristics on the Multi-Depot Vehicle Routing Problem with Modified Optimization Criterion [J].2018,11 (5): 74.

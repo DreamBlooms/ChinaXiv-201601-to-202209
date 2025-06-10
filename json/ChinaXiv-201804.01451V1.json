@@ -1,0 +1,669 @@
+[
+    {
+        "type": "text",
+        "text": "一种考虑风力作用的KNN城市AQI预测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨丰玉，王宝英，陈英，冯涛，陈涛苹(南昌航空大学 软件学院，南昌 330063)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：考虑风力对城市空气质量指数(AQI)的重要影响，基于KNN算法提出一种新的模型对城市AQI进行预测。该模型主要依赖于数据间的局部相似性和依赖性,再将风力因素对城市AQI的影响进行量化并加入到KNN预测结果中，得到最终预测结果。实验对九个重点城市进行 AQI预测，结果表明，该模型相较传统KNN方法预测得到的AQI值，准确率大幅度提升，对城市AQI的预测具有指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：空气质量指数；K近邻；风力因素；预测 中图分类号：TP183 doi:10.3969/j.issn.1001-3695.2017.12.0797 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K nearest neighbor urban forecasting algorithm considering wind factors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Fengyu, Wang Baoying†, Chen Ying, Feng Tao, Chen Taoping (School of Software,NanchangHangkongUniversity,Nanchang 33oo63,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Considering the important influence of wind on air quality index(AQI),this paper proposes anew model,which based on KNNalgorithmto predicttheurbanAQI.The model mainlyreliesonthelocalsimilarityanddependence between data,and quantifiestheimpactof windfactorsonurbanAQIandadsittotheKNNforecastresults toget thefinalforecast results.The experimental resultsof AQI in nine major cities show that the proposed model has significantly improved the accuracy ofAQI compared with the traditional KNN method.The modelhas guiding significance for the predictionof urban AQI . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:Air quality index; K nearest neighbor;Wind factors; forecast ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "空气质量情况与人们的工作生活有极大的关系，空气中的污染物不利于人体健康，易导致呼吸道疾病。空气污染严重时，肉眼可见度极低，易发生道路交通事故及影响航班出行，严重影响人们的日常生活和社会经济发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016年12月，法律法规网(http://www.lc123.net/xw/rd/2016-12-08/607831.html)指出,我国 $78 . 4 \\%$ 的城市空气质量不达标，部分地区冬季重度及以上污染[频发。有效的城市空气质量指数预测至关重要，人们可以根据空气质量指数预测来安排出行计划及方式，相关部门也可根据空气质量指数预测在污染严重时提醒人们。故高准确率的空气质量指数预测很有必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 时间序列预测常用方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "时间序列预测方法主要分为基于模型的时间序列预测和基于人工智能的时间序列预测两类。基于模型的时间序列预测方法主要有ARMA模型和ARIMA模型[2]。基于人工智能的时间序列预测方法主要有 SVM和神经网络。2014年，席超等人[3]使用ARMA模型对导航卫星钟差进行预测，与多项式模型和灰色模型相比，ARMA模型预测导航卫星钟差准确率更高。2017年，Zhang等人[4使用ARMA和粒子群优化的核极限学习机（KELM）构建预测模型，对电价进行预测，澳大利亚和西班牙的市场实验结果表明该方法能有效预测电价。2016年，翟静等人[5使用ARIMA和BP神经网络对中国粮食产量进行预测，结果表明预测结果较准确。2017年，Ruby-Figueroaa等人[使用ARIMA模型对超滤果汁六小时的渗透通量进行预测，分别对使用不同渗透膜的佛手柑、猕猴桃和石榴汁的渗透通量进行实验，结果表明预测效果理想。2015年，刘爱国等人[7使用优化核函数的SVM对超短期风电功率进行预测，该方法取得较好的预测结果。2017年，Direito等人[8使用多通道高维特种集和多类支持向量机对癫痫患者的发病进行预测，该方法在预测过程中定义了一组区分患者发病前和发病后的特征，实验结果表明该方法对患者发病预测有效。2017年，李博等人[9使用景气预测的先行指标和神经网络的适应性等特点，构建四种预测模型对北京市中关村高新科技园总收入进行预测，实验结果表明四种给予神经网络的预测模型均适用于景气预测。2017年，Asencio-Cortés等人[1o]使用从文献中得到的地震指标，基于神经网络构建预测模型，对东京2015年高于5级、时间跨度大于7天的地震进行预测，实验结果表明该方法有效。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KNN算法是模式识别的一种，适用于非线性序列数据。算法核心是数据间的依赖性：如果训练数据与查询数据相近（该训练数据称为查询数据的相近邻），则认为相近邻的预测数据与该查询数据的预测数据相近，即若查询数据相近，则预测数据也相近，相近程度越高则相似度越大。为确保预测数据不因某个特殊点而造成极大误差，选用K个最近邻来获得最终的预测结果。到目前为止，KNN算法已成功应用于多个领域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2014年，Zheng等人[11]用KNN算法进行短期车流量预测，实验结果表明该算法适用于各地复杂的车流量预测。2017年，Oliveira等人[12]用KNN算法预测短期用水需求，在训练数据较多的情况下，该算法取得了较好的结果。AQI序列数据与车流量及用水需求量一样均为非线性序列数据，且经观察空气质量有春冬采暖季污染严重、夏天一般空气质量较好的规律，数据间具有局部相似性和依赖性。故而选择KNN算法应用于AQI预测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KNN 算法总共分为以下四个步骤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)选取 $\\mathfrak { n }$ 组查询数据 $X _ { i }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i } = \\left\\{ x _ { i } , x _ { i + 1 } , x _ { i + 2 } , \\cdots , x _ { i + n - 2 } , x _ { i + n - 1 } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)在训练数据中依次选取 $\\mathbf { \\eta } _ { \\mathrm { n } }$ 组训练数据 $X _ { j }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { j } = \\left\\{ x _ { j } , x _ { j + 1 } , x _ { j + 2 } , \\cdots , x _ { j + n - 2 } , x _ { j + n - 1 } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)计算 $X _ { i }$ 和 $X _ { j }$ 之间的欧氏距离 $d i s$ 。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i s = { \\sqrt { \\left( X _ { j } - X _ { i } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)选择欧式距离最小的 $k$ 组数据，加入权重，计算得到预测值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 本文提出的方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 风力因素的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "风对空气质量有很大的影响，风能将污染物吹散或带离某个地区，能带走多少污染物或带来多少污染物取决于风力的大小。风向所影响的是风将污染物带向哪个方向或从哪个方向带来。考虑污染一般在城市出现，城市与城市之间的地区产生污染的可能性很小，故风对城市空气质量产生的影响一般是将污染物带离城市，将城市周边质量较好的空气带到城市；且风向对空气质量的影响还需结合各城市周边山脉等环境。影响小且情况复杂，故本方法不考虑风向对空气质量的影响，只考虑风力对空气质量的影响。且考虑到AQI变化的原因有多种，而风对AQI造成的影响一般是下降，若上升则考虑为其他因素，本方法不考虑其他因素，故只考虑 AQI下降情况，将后一天AQI值与当前AQI值的差值作为当前风力对AQI的影响，忽略当",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "日风对当日AQI值的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2算法步骤 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)选取K近邻 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 初始化两个长度为 $k$ 的数组，其中一个数组存放 $k$ 个最小的欧氏距离，数组为 $d i s [ k ]$ ，且该数组按升序排序。数组中最后保留的最小欧式距离一般在100 左右，故先将数组中的每个值初始化为9999，对最终结果不会产生任何影响，$d i s [ k ] = \\{ 9 9 9 9 , 9 9 9 9 , 9 9 9 9 , \\cdots , 9 9 9 9 9 , 9 9 9 9 , 9 9 9 9 \\}$ ；另一个数组存放对应于欧式距离最小的训练数据的日期即，数组为 $f l a g [ k ]$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 选预测数据前 $\\mathbf { \\bar { n } }$ 天数据作为的查询数据 $X _ { i }$ ，$X _ { i } = \\left\\{ x _ { i } , x _ { i + 1 } , x _ { i + 2 } , \\cdots , x _ { i + n - 2 } , x _ { i + n - 1 } \\right\\} \\mathrm { ~ } .$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 在该指定日期AQI预测实验过程中，若是第一次获取训练数据，则执行第 $\\textcircled{4}$ 步；否则，执行第 $\\textcircled{5}$ 步。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 从训练数据第一条数据起依次获取连续 $n$ 天AQI数据作为Xj，X,={xj,xj+xj+2…,xj+n-2xj+n-1}",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 从训练数据指定数据起依次获取连续 $n$ 天AQI数据作为$X _ { j } , X _ { j } = \\left\\{ x _ { j } , x _ { j + 1 } , x _ { j + 2 } , \\cdots , x _ { j + n - 2 } , x _ { j + n - 1 } \\right\\} \\circ$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{6}$ 计算 $X _ { i }$ 和 $X _ { j }$ 之间的欧氏距离 $d i s$ ， $d i s = { \\sqrt { \\left( { { X } _ { j } } - { { X } _ { i } } \\right) ^ { 2 } } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{7}$ 分别比较 $d i s$ 与 $d i s [ k ]$ 中每个数的大小，若 $d i s \\leq d i s [ i ]$ ，即 $X _ { i }$ 和 $X _ { j }$ 之间的欧式距离小于或等于 $d i s [ k ]$ 中的某个数，则将 $d i s [ k ]$ 中欧氏距离最大的数据删除并将 $d i s$ 插入到相应位置；与此同时，更新 $d i s [ k ]$ 数组相应位置的值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{8}$ 据欧氏距离最小的 $k$ 个值 $d i s [ k ]$ 和训练数据对应日期$f l a g [ k ]$ ，取得相应的 $k$ 个预测 AQI值 $F A Q I [ k ]$ 作为预测值的$\\mathrm { ~ K ~ }$ 近邻。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)加入权重",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{9}$ 训练数据日期往后移一天，若仍可依次获取 $n$ 条AQI数据，则跳转至第 $\\textcircled{4}$ 步；否则，本次指定日期的AQI预测筛选过程结束，跳转至第 $\\textcircled{10}$ 步。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{10}$ 在K近邻中加入权重(欧氏距离越小，权重越大)。 $k$ 组欧氏距离之和为 $D i s = \\sum d i s$ ，每组欧氏距离最小的值相应的预测值分别为 $F A Q I [ i ]$ 。则加权 AQI 预测值计算公式如下：$A Q I = \\sum F A Q I { \\bigl [ } i { \\bigr ] } * { \\frac { D i s - F A Q I { \\bigl [ } i { \\bigr ] } } { { \\bigl ( } k - 1 { \\bigr ) } ^ { * } D i s } } ( 4 )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 若测试数据均预测完毕，则实验步骤结束；否则预测日期往后移一天，并跳转至第 $\\textcircled{1}$ 步。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3)考虑风力因素的AQI预测值 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{12}$ 计算下一天AQI值 $A Q I _ { t + 1 }$ 与当前 AQI 值 $A Q I _ { t }$ 的差值$D _ { t }$ 作为当天风力对下一天AQI的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { t } = A Q I _ { t + 1 } - A Q I _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{13}$ 筛选指定风力值 $x$ 下差值为负即 $D _ { t } < 0$ 的值 $D _ { \\it { x , n e t } }$ ，计算差值对应当天实际 AQI的百分比 $d _ { x , t }$ ,即当前风力对当天AQI所造成的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { x , t } = \\frac { D _ { x , n e t } } { A Q I _ { t } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{14}$ 计算该风力下 $\\mathbf { \\nabla } _ { m }$ 组 $d _ { x , t }$ 对 AQI所造成影响的平均值 $d _ { x }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { x } = \\frac { 1 } { m } { \\sum } d _ { x , t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{15}$ 使用计算所得的风力影响值对KNN 预测所得结果$A Q I _ { t }$ 进行修正。根据测试数据上一天的风力值 $x$ 引入风力影响值，得到修正后的AQI值 $A Q I _ { t 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA Q I _ { t 1 } = A Q I _ { t } \\times \\left( 1 + d _ { x } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)实验数据来源及划分",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中所用到的实验数据均从网站“天气后报\"(http://www.tianqihoubao.com/aqi/)取得。由于本算法是一种具有普遍性的算法，故共取全国东西南北中各地九个重点城市的天气数据作为研究对象，包括日期、AQI、风力等数据；九个城市分别为：北京、西安、合肥、南昌、南京、上海、武汉、长沙、郑州。各城市所获取数据均从2013-10-28至2017-12-31，共1526条数据，分为训练数据和测试数据两个部分。其中，2013-10-28至2016-12-31的1161条数据作为训练数据，2017-1-1至2017-12-31的365条数据作为测试数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)实验数据预处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在\"天气后报\"中获取的数据中，有一部分数据的AQI信息缺失，故而需要对其进行预处理。且在风力数据中，风力信息种类繁多，也需要对风力数据进行预处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 缺失数据",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将所有缺失数据的AQI均设为9999，以保证包含该天数据的欧氏距离计算所得到的数值足够大，故而包含该天的数据不会被选中作为查询数据的K近邻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 风力数据",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取进行研究的九个城市对象中，风力因素最小的均为3级，故而3级风不予考虑对AQI的影响，从3级以上风开始考虑。不考虑风向因素，只考虑风力等级因素，将风力因素数字等级化；数字化方式： $\\textcircled{1}$ 若风力等级为3，则直接数字化为3；若风力等级为3-4，则直接数字化为3.5；以此类推。 $\\textcircled{2}$ 在风力数据数字化过程中，若包含两种等级的风力，则直接将风力等级高的数字化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)算法参数设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本算法需要确定两个参数，分别是查询数据个数 $n$ 和最近邻的个数 $k _ { \\mathrm { { c } } }$ 在九个实验城市中随机选取三个城市(选取城市为：南昌、武汉和西安)。 $\\textcircled{1}$ 根据不同的查询天数 $n ( n \\in \\left[ 3 , 1 0 \\right] )$ 分别对三个城市2017年8月AQI进行预测，实验结果如表1所示。查询天数 $n = 5$ 时，三个城市的平均误差均最小，故取 $n = 5$ 。$\\textcircled{2}$ 根据相关研究，K近邻的个数 $k \\in [ 3 0 , 6 0 ]$ 时，预测效果最好[13]，但该理论建立在数据量达 10000 的基础上。由于实验数据有限，只有1000条， $k$ 值过大，反而会影响预测效果，故本算法取 $k \\in \\left[ 3 , 1 0 \\right]$ 。根据不同的K近邻个数( $k \\in \\left[ 3 , 1 0 \\right]$ )分别对三个城市2017年8月AQI进行预测，实验结果如表2所示。在$k = 7$ 时效果较好，故取 $k = 7$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b388db72b8c2fb2bf828669744f71744533713915ed478ff60ecb8c326eeb2f1.jpg",
+        "table_caption": [
+            "表1不同查询天数n所得预测结果的平均绝对值误差"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>城市</td><td>n=3</td><td>n=4</td><td>n=5</td><td>n=6</td><td>n=7</td><td>n=8</td><td>n=9</td><td>n=10</td></tr><tr><td>南昌</td><td>0.251</td><td>0.238</td><td>0.245</td><td>0.254</td><td>0.258</td><td>0.257</td><td>0.267</td><td>0.264</td></tr><tr><td>武汉</td><td>0.387</td><td>0.354</td><td>0.304</td><td>0.353</td><td>0.339</td><td>0.358</td><td>0.371</td><td>0.340</td></tr><tr><td>西安</td><td>0.342</td><td>0.293</td><td>0.300</td><td>0.326</td><td>0.306</td><td>0.318</td><td>0.342</td><td>0.313</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/44432f7b3dc0d579e7d896c9e3452b845e6022983c35355735fb059f5249b29b.jpg",
+        "table_caption": [
+            "表2不同K近邻个数所得预测结果的平均绝对值误差"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>城市</td><td>k=3</td><td>k-4</td><td>k=5</td><td>k=6</td><td>k=7</td><td>k=8</td><td>k=9</td><td>k=10</td></tr><tr><td>南昌</td><td>0.266</td><td>0.276</td><td>0.251</td><td>0.255</td><td>0.244</td><td>0.245</td><td>0.241</td><td>0.234</td></tr><tr><td>武汉</td><td>0.312</td><td>0.309</td><td>0.304</td><td>0.327</td><td>0.330</td><td>0.328</td><td>0.325</td><td>0.319</td></tr><tr><td>西安</td><td>0.296</td><td>0.305</td><td>0.300</td><td>0.303</td><td>0.307</td><td>0.306</td><td>0.298</td><td>0.296</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)实验结果评估方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对只使用KNN方法预测得到的AQI值 $A Q I _ { t }$ 以及考虑风力作用后得到的AQI值 $A Q I _ { t 1 }$ 进行评估。分别计算 $A Q I _ { t }$ 和$A Q I _ { t 1 }$ 与当天实际 AQI 值 $A Q I _ { r }$ 的绝对误差 $E _ { t }$ 和 $E _ { t 1 }$ 以及 $E _ { t }$ 和$E _ { t 1 }$ 的平均值 $M A E _ { t }$ 和 $M A E _ { t 1 }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { t } = \\frac { \\left| A Q I _ { t } - A Q I _ { r } \\right| } { A Q I _ { r } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { t 1 } = \\frac { \\left| A Q I _ { t 1 } - A Q I _ { r } \\right| } { A Q I _ { r } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { M A E _ { t } = \\sum E _ { t } } } \\\\ { { M A E _ { t 1 } = \\sum E _ { t 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）三个典型城市实际AQI和两次预测结果对比",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验首先选取中、西、北三个方位各一个典型城市作为实验对象。图 $1 { \\sim } 3$ 是三个典型城市2017年实际AQI值、预测 AQI值以及引入风力后预测AQI值之间的对比效果。每张图显示三个月的数据；图4是三个典型城市 2017年8月有风天气实际AIQ、KNN预测 AQI和本文算法预测 AQI的对比簇状柱形图。由图 $1 { \\sim } 4$ 可知，虽然有部分有风天气引入风力因素后预测AQI不如KNN预测AQI准确，但影响较小，整体效果上看，引入风力因素对AQI预测具有积极作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）风力因素对AQI预测的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，是风力因素对九个城市2017年AQI预测的准确率的影响。如图5(a)所示，是九个城市引入风力因素前后对有风天气AQI预测的误差对比簇状柱形图； (b)是九个城市引入风力因素前后对整月AQI预测的误差对比簇状柱形图。由表3和图5可知，引入风力因素后，每个城市的AQI预测准确率均得到提升。合肥、南京准确率提升幅度最大，分别达到 $1 8 . 7 5 \\%$ 和 $12 . 5 0 \\%$ ，提升效果最为明显；预测效果也最为明显。西安、武汉和南昌提升幅度不明显，但这三个城市本身预测效果已经很好，有风天数少，准确率提升幅度虽不明显，但总体预测效果很好。郑州、长沙和上海准确率提升效果较好，这三个城市本身KNN预测效果不差，故而引入风力因素后AQI预测效果较好。北京KNN预测效果较差，预测准确率提升效果一般，仅$5 . 8 8 \\%$ ，故预测效果不理想。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbff5d8acdaa16c99db1f7b7e7d17650e024d18120b2b1c30ab219d730b307ef.jpg",
+        "img_caption": [
+            "(a)北京AQI预测对比图2017-01—2017-03 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc0e39a17f82f5fcb6f6bd8896226a9790f6f85acd38cd50b0461a146e430c3b.jpg",
+        "img_caption": [
+            "(b)北京AQI预测对比图2017-04—2017-06 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/91a93ab122c056bc361f26c4b8c376881146441010b002e772c8aaf0dbc77336.jpg",
+        "img_caption": [
+            "(c)北京AQI预测对比图2017-07—2017-09 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dbddd4e3f3b55de955822f545799b9f4ade8657e4e6d085fb11efa932a61f7e.jpg",
+        "img_caption": [
+            "(d)北京AQI预测对比图2017-10—2017-12 ",
+            "图2西安2017年实际AQI、KNN预测AQI和风力因素预测AQI折线对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/893e5369b5a01c7a854f212a6772e180262faf023c2a39e6e552334fd63a0b70.jpg",
+        "img_caption": [
+            "(a)西安AQI预测对比图2017-01—2017-03 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d7a2d416b1b4dfae01c60b7215c2abcde082e608688b3b88846d0b53ad6481f.jpg",
+        "img_caption": [
+            "(b)西安AQI预测对比图2017-04—2017-06 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38d8d968977c3f7fdb07b7074f64880f72ce9ae18657c3aea8188096fa691c9b.jpg",
+        "img_caption": [
+            "(c)西安AQI预测对比图2017-07—2017-09 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/98c873ce90a2a3286176b1c419140eddd30000cc487454083e9ac58d99188d9e.jpg",
+        "img_caption": [
+            "图1北京2017年实际AQI、KNN预测AQI和风力因素预测AQI折线对比",
+            "(d)西安AQI预测对比图2017-10—2017-12 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/da0ba9bb0bb98b60e5ebd3d0af2ec89fe826135a3bd1a9ddeeedbeb1f335d717.jpg",
+        "img_caption": [
+            "(a)合肥AQI预测对比图2017-01—2017-03 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AQ合肥2017-04-2017-06 KNN  \n220 风力因需  \n190  \n170  \n150  \n130  \n90 WW  \n70  \n2017/4/12017/4/82017/4/52017//222017/4/292017/5/62017/5/132017/5/20207/5/272017//32017/6/02047/6/172017/6/24日期",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "际AQI合肥2017-07-2017-09 KNNAO风力因A13011090 MwwwMAu142VAL202017/7/12017/7/82017/7/152017/7/222017/7/292017/8/52017/8/122017/8/192017/8/2E2017/9/2 2017/9/92017/9/162017/9/232017/9/30日期",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e48aba08931624cc1a4a22b2c34ac2014d875bfb4d4d2ef2ebb79711817d236.jpg",
+        "img_caption": [
+            "(b)合肥AQI预测对比图2017-04—2017-06 ",
+            "(d)合肥AQI预测对比图2017-10—2017-12 ",
+            "图3合肥2017年实际AQI、KNN预测AQI和风力因素预测AQI折线对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bef5a49a2d156d78a6f6cd7d7eabc2a0815c0f3b30a686eb9754fe00a4b3a940.jpg",
+        "img_caption": [
+            "(a)北京有风天气的AQI预测对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba64b4403c9efa6082ab3343f8fca72a3a0caaa6d0d766e5c7ec1cf5722ecc44.jpg",
+        "img_caption": [
+            "(b)合肥有风天气的AQI预测对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c6167c82813e484f3284d4ebe351dee8f03f1e678f7325bae10cd22e10b5496.jpg",
+        "img_caption": [
+            "(c)合肥AQI预测对比图2017-07—2017-09 ",
+            "图4三个典型城市有风天气实际AQI、KNN预测AQI及风力因素预测AQI对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ee84fed528e061dc195446fb79140349f0211d980f06c163930ab7702d0642b.jpg",
+        "table_caption": [
+            "表3风力因素对AQI预测准确率的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">城市</td><td colspan=\"2\">有风天 提升准确</td><td rowspan=\"2\">降低准确 率天数</td><td rowspan=\"2\">KNN预 测误差</td><td rowspan=\"2\">风力因素 预测误差</td><td rowspan=\"2\">准确率提升 百分比</td></tr><tr><td>数</td><td>率天数</td></tr><tr><td>北京</td><td>107</td><td>58</td><td>75</td><td>0.51</td><td>0.48</td><td>5.88%</td></tr><tr><td>合肥</td><td>192</td><td>98</td><td>94</td><td>0.32</td><td>0.26</td><td>18.75%</td></tr><tr><td>西安</td><td>38</td><td>21</td><td>17</td><td>0.30</td><td>0.29</td><td>3.33%</td></tr><tr><td>南昌</td><td>62</td><td>29</td><td>33</td><td>0.31</td><td>0.29</td><td>6.45%</td></tr><tr><td>南京</td><td>345</td><td>148</td><td>197</td><td>0.32</td><td>0.28</td><td>12.50%</td></tr><tr><td>上海</td><td>115</td><td>61</td><td>54</td><td>0.33</td><td>0.31</td><td>6.06%</td></tr><tr><td>武汉</td><td>35</td><td>21</td><td>14</td><td>0.30</td><td>0.29</td><td>3.33%</td></tr><tr><td>长沙</td><td>79</td><td>45</td><td>34</td><td>0.35</td><td>0.32</td><td>8.57%</td></tr><tr><td>郑州</td><td>107</td><td>52</td><td>55</td><td>0.33</td><td>0.30</td><td>10.00%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "风力因素对有风天气AQI预测误差的影响 引入风力前0.6 引入风力后递0.3 mnil北京 西安合肥南昌 南京上海 武汉长沙 郑州城市(a)风力因素对有风天气AQI预测的影响风力因素对2017年AQI预测误差的影响\\`引入风力前引入风力后0.500.40030 m0.200.100.00北京 西安合肥南昌南京上海武汉长沙 郑州城市(b)风力因素对有总体AQI预测影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3）误差分布情况",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，是本文算法对九个城市共279天AQI预测后的误差分布图。在十个城市共279条数据中，引入风力后的预测 AQI误差中，绝对误差在[0.0.2)区间的天数最多，占比$4 4 . 6 2 \\%$ ，随着误差增大，天数逐渐减少，[0.6,1.0)区间，总占比 $7 \\%$ ，。但是在 $\\left[ 1 . 0 , + \\infty \\right)$ 区间，占比又高达 $3 . 9 3 \\%$ 。本算法对城市AQI的预测总体效果很好，但也存在部分数据预测很不准确。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "九个城市3285天误差分布900802800700 664600 i500271300200 17112994100 70 35 3100-0.1 0.1-0.20.2-0.30.3-0.4 0.4-0.5 0.5-0.6 0.6-0.7 0.7-0.8 0.8-0.9 0.9-1.0 >1.0区间",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2原因分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出的方法只考虑数据与数据之间的局部相似性和依赖性及简单的风力因素，实际上AQI值受到天气变化、污染物排放以及城市周边环境等多种因素影响。单一考虑数据间的关系以及简单的风力因素，无法完美解决AQI复杂的成因问题，故而存在一定误差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 突变点无法处理",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 AQI数据中，存在一系列数据，前几天的AQI呈下降趋势，且前一天有风。该种情况下，该天AQI值较前一天应该下降，但实际 AIQ值反而上升；或者存在一列数据前几天的AQI值呈上升趋势，且前一天无风，该天AQI值较前一天应该上升，但实际AQI值反而下降，这样的点称之为突变点。突变点一般是因为受到其他因素的影响，可能是天气的变化，也可能污染物排放的变化，但是本文提出的方法只是简单考虑了风力因素，对其他因素产生的影响无法进行量化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 数据有限",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在\"天气后报\"网站上获取一个城市的历史AQI值只有1500条，本文提出的引入风力因素的KNN算法主要依赖的是数据间相似性和依赖性，数据量不够大的情况下，筛选得到的最近邻的预测AQI值可能会有极大的偶然性误差，从而造成最终的预测结果不够理想，如北京市。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文在KNN算法的基础上，提出引入风力因素的KNN 算法，对北京、西安、合肥、南昌、南京、上海、武汉、长沙、郑州九个重点城市的AQI进行预测，预测结果表明九个城市KNN 算法预测的AQI在引入风力因素后与实际AQI的误差均下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文提出的方法主要依赖数据间的相似性和依赖性，但AQI变化原因复杂，需要考虑的因素很多，且数据有限，预测AQI值的偶然性误差较大，故部分城市预测结果理想，但也有城市预测结果不是很理想。在未来的研究里，将致力于多方位考虑AQI变化的原因，使用深度学习或深度学习等方法，对城市 AQI进行预测，以期获得更好的预测结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]杨思琪，赵丽华．随机森林算法在城市空气质量预测中的应用[J].统 计与决策,2017(20):83-86.   \n[2] 伦淑娴，林健，姚显双．基于小世界回声状态网的时间序列预测[J]. 自动化学报,2015,42(9):1669-1679.   \n[3]席超，蔡成林，李思敏，等．基于ARMA模型的导航卫星钟差长期预报 [J]．天文学报,2014,55(1):78-88.   \n[4]Zhang Yang,Li Ce,Li Lian.Electricity price forecasting by a hybrid model, combining wavelet transform,ARMA and kernel-based extreme learning machine methods [J].Applied Energy,2017(190): 291-305.   \n[5]翟静，曹俊．基于时间序列ARIMA与BP神经网络的组合预测模型[J]. 统计与决策,2016(4):29-32.   \n[6]Ruby-Figueroaa R,Saavedrab J,Bahamondec N,et al.Permeate flux prediction in the ultrafiltration of fruit juices by ARIMA models [J]. Journal of Membrane Science,2017(524): 108-116.   \n[7]刘爱国，薛云涛，胡江鹭，等．基于GA 优化SVM的风电功率的超短 期预测[J].电力系统保护与控制,2015,43(2):90-95.   \n[8]Direito B,Teixeira CA, Sales F,et al.A realistic seizure prediction study based on multiclass SVM[J].International Journal ofNeural Systems,2017, 27 (3):   \n[9]李博，王建国，李静文．基于神经网络的景气预测模型[J].统计与决 策,2017(10):43-46.   \n[10] Asencio-Cortés G,Martinez-Alvarez F, Troncoso A,et al.Medium-large earthquake magnitude prediction in Tokyo with artificial neural networks [J]. Neural Computing and Applications,2017,28 (5):1043-1055.   \n[11] Zheng Zuduo.Su Dongcai. Short-term traffic volume forecasting:a K",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "nearest neighborapproach enhanced by constrained linearly sewing principlecomponent algorithm[J].Transportation Research Part C,2014,43: 143-157.   \n[12] Paulo José A,Dominic L,AM.K-Nearest neighbor for short term water demand forecasting[C]//Proc ofWorld Environmental and WaterResources Congress.2017:201-510.   \n[13]罗辛，欧阳元新，熊璋，等.通过相似度支持度优化基于K近邻的协同 过滤算法 [J].计算机学报,2010,33(8):1440-1441. ",
+        "page_idx": 6
+    }
+]

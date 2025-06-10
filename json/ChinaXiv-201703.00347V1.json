@@ -1,0 +1,307 @@
+[
+    {
+        "type": "text",
+        "text": "Towards Brain-like Information Processing based on Quantum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cognitive Computing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dawei Song1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. School of Computer Science and Technology,Tianjin University,Tianjin 3Oo350, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. School of Computing and Communications,The Open University,Milton Keynes MK76AA, United Kindom ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Email: dwsong@tju.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the next stageof Artificial Intelligence,Brain-like Intelligent Computing willbeconsideredasa fundamentalrole in the forthcoming China Brain Project.Researchers have triedto use the brain frame structure andthe brain functions, aiming at developing a new generation of information theoryand computational methods (such as anew generation of artificial intelligence systems).Diferentfrom the traditional information processing basedontheclassical physicsand logics,the human brain should rely onadeeper level physics (such as quantum mechanics）to process information, generate awarenessand consciousness.The project willtry to exploitquantum information theory in the human cognition related nformation interactionand processing models.Theoverallresearch goal is:in typical information interaction scenarios (such asexploratory information access and natural languageunderstanding)，modeling the non-classical (quantum orquantum-like)experimental phenomenon,developingquantum models ofcognitive behavior,and establishing a new framework of brain-like information interactionmodel,with theaplication in typical tasks for information interaction scenarios. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: information interaction; natural language understanding; quantum cognition; brain-like inteligence; deep learnings ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This article is a proposal scheduled to submitted to NSFC.This article can be freely accessed online for public reading, nevertheless all rights reserved for Prof.Dawei Song (Email: dwsong $@$ tju.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Research Trends ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Currently，artificial intelligence，machine learning and other intelligent information processing technologies have brought great change to economy and society. Meanwhile, the significant gap between machine intelligence and brain intelligence is increasingly becoming a bottleneck for the development of intelligent information processing technology.Physicist Pan points out that there exists a close correlation between quantum entanglement, quantum superposition and the mechanism of mind. In quantum mechanics,the uncertainty principle implies that everyone is immeasurable,and this‘uncertainty’ supports the essential difference between human and robot. Nowadays，using quantum information theory to model brain has open the quantum-like artificial inteligence field in which machine learning can work based on quantum algorithm. NASA and Google have announced the initiation of quantum artificial Intelligence lab,and this event may show that quantum-like artificial intelligence has strong forward and a positive practical significance. Our project plan to further develop quantum cognition， research the feasibility of quantum cognition applying to information interaction and neural network. Through combining experimental investigation, quantum logic with quantum information processing，we can develop quantum cognition computing and promote the research of brain-like information processing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The Main Objectives of This Project ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) Judging and identifying the non-classcal user cognition phenomena in scenarios of information interaction (e.g.,exploratory information access and natural language understanding） based on the core concept of quantum interference and quantum entanglement in quantum theory.   \n(2） Designing experimental paradigm for phenomenon of quantum interference， quantum entanglement, etc.,in the process of information access and interactions abide by the criteria of cognition science researches.Furthermore, exploring the cognitive processng’ mechanism and brain functional network behind the specific quantum cognition phenomenon.   \n(3） Model the quantum entanglements among the concepts in natural language using the deep neural networks, leading to a natural language understanding model under the quantum cognition framework (4) We aim to replace the conventional IAR paradigm by a geometry of IAR. As the geometry will be based on the quantum mechanical framework, probability, quantum logic and vector space can be combined into one unified formalism.   \n(5) Modeling quantum contextuality,order effect, quantum interference and quantum entanglement in user interaction behaviors for exploratory information access task with the information geometry paradigm. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Background, Merits and Importance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quantum cognition refers to the usage of quantum theory to model cognition phenomenon. Cognition includes the brain's information processing, memory, human judgment, decision-making and even intuition,and other logical processes.The brain can be seen a computer,whether classical or quantum. The brain cognition and decision-making behavior has a quantum nature,that is a complex brain system can generally be described by quantum information theory and probability. And we hope the quantum theory to take over the classcal probability theory to further explain those quantum cognition phenomena. Content of the current study include Quantum cognitive brain information processing, decision-making behavior, the concept representation and reasoning, human memory and perception, information retrieval and etc. Although the quantum theory of cognitive has made great progress，but still does not solve the important problem of cognitive brain fundamentally: the researchers did not dig out specific cognitive mechanism and a lot of work just explains some of the quantum phenomena,ignoring the nature of these phenomena behind. The project will be mainly focus on natural language understanding and exploratory information access tasks,and carry on the user cognitive behavioral study of non-classical phenomena to explain brain cognitive processing modes and mechanisms behind the cognitive phenomena, and develop natural language understanding and information interaction model based on the quantum cognition system. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Scientific Issues targeted ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) How to judge and identify the non-classical cognition phenomena (quantum or quantum-like) in scenarios of user information interaction (e.g.， natural language understanding and exploratory information access task).   \n(2) How to analyse the non-classical cognition phenomenon from the perspective of brain cognition? We will design event-related experimental paradigm and utilize the brain imaging techniques for the research of the phenomenon of quantum interference,quantum entanglement, etc.，exist in the scenarios of information access and interaction，explain the mechanisms of brain cognition and construct the brain functional network behind the non-classical phenomenon.   \n(3）How to integrate quantum cognitive phenomena of information interaction into the natural language understanding model? The project will use deep neural network model to integrate the quantum entanglement among concepts, leading to a quantum recognition based natural language understanding system.   \n(4) How to integrate the quantum/quantum-like phenomenon of brain cognition and decision into the exploratory information access models? In this proposal,， we will investigate the process of brain ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "cognition and decision in explorative information access task from three view of points,i.e., quantum contextuality, quantum interference effect and quantum entanglement phenomena etc. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5．Proposed Methodologies Applicable ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our proposed methodology is divided into six work packages (WP), detailed below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WP1: Judging and Modeling the Quantum Interference of User Relevance Judgment in Exploratory Information Access Task ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In exploratory information access process,users need to interact with information system and other users continuously to satisfy their information need and search task gradually.An important behavior in this decision process is to conduct relevance judgment for candidate information objects (e.g., webpages，images， video and mechandise etc.） with respect to users' information need. Users' interaction behaviors will influcence users relevance judgment in some way. However we cannot explain why and how the influence phenomenon occurs with the classical theory. For example,the total probabilistic equation is violated in some relevance judgment scenarios when judging the relevance of a information object after viewing an interference information object before the judgment. This phenomenon presents the property of quantum interference. In this project, we willpropose some experimental paradigms to judge and identify the quantum interference phenomenon in relevance judgment of exploratory information access. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to study the quantum interference in relevance judgment of exploratory information access, we first present the following hypotheses: (i) quantum interference between users willinfluence users' relevance judgment like the double-slit interference experiment. In this analogy, information objects are analogous to the photons from a light source,current user and other users are analogous to the double-slit, the relevance judgment is analogous to the collapse of photons to the screen.Double-slit interference will change the distribution of photons in screen，users'relevance judgment for information objects will also change after quantum interference between users accordingly. (ii) quantum interference between information objects will influence users' relevance judgment according to the quantum order effect. Users' relevance judgment for one information object is considered as a quantum measurement. The relevance judgment for one object when a user measure it directly is different from the relevance judgment when the user measure it after observe some other related information objects. The total probability equation isviolated for this experiments， which demonstrates that there exists quantum interference phenomenon between information objects. (ii) quantum interference between different modalities (e.g.,text, image, video,voice etc.) or dimensions (e.g., topicality, novelty,understandability,scope and reliability etc.） of the same information object can influence the relevance judgment in different ways. One is like the double-slit interference experiment. Two information modalities (dimensions) can simultaneously influcence users' relevance judgment like double-slit experiment and can also sequentially influcence the relevance judgment according to the quantum order effect. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this project, we will design experiments from diferent angles to verify the above hypothesis.For example,(i) we ask users to do two rounds of relevance judgment experiments in order to judge the relevance degree for a series of information objects (e.g. document, images, videos and voices, etc.) with respect to one given information need in two different experimental settings.The first round of experiment requires users to judge the information objects directly. The second round of experiment requires users to judge the information objects after reading/observing some other related information objects or discussing the same topics with some other users.We wil analyse the experiment results with different statistic method to verify if there exist quantum interference efect among users.(ii we ask two groups of users to judge the same information objects.We ask one group of users to judge the relevance for information objects directly. Meanwhile,we ask another group of users to judge the relevance for each information object after reading/viewing/observing another related information object. We analyse the final relevance judgment results to judge if the resuts violate the total probability equation. If the total probability equation is violated,the results shows that there exists quantum interference between information objects according to the order effect. (ii) We will design experiments like (i) and (ii) to investigate if there exists quantum interference between different information modalities and information dimensions for the same information object. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experimental results will motivate the desgin of future exploratory information access models. In this way, users dynamic and complex information need will be captured through modeling different types of quantum interferences. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WP2: The exploration of quantum entanglement in sematic concept space of user's natural language understanding scenarios. ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To establish feasible algorithms to discover the quantum entanglement in sematic concept space,it is essential to distinguish the classical modeling and the quantum cognition modeling. In quantum cognition, each concept can be represented by a superposed state, which is essentially different from the classical state.After the user understand the meaning of a word or a text, the state will be collapsed into a concrete state. Therefore,the semantic concept can be represented by a quantum superposition state. In natural language understanding scenarios,the user's cognitive state of the word's sense can be superposed,and this superposed state willbecome concrete in a specific context. The sematic concept can be also represented by a quantum composite system. In a system, if quantum entanglement exists,the system cannot be factorized into several subsystems by the tensor product. In Natural language understanding，the concept of a semantic component model can be not only expressed as a compositional model, but also a non-compositional model. In natural language,a concept is the basic unit of human understanding but different concepts have different combinations of properties.In some concepts，word frequency distribution indicates that the concept may can not factorized into a number of distribution,and these concepts can be used to model non-component model. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The project will study the concept of non-component model in depth via the quantum entanglement. The main idea is the following. First, we plan to design some experiments,to determining if the quantum entanglement exists or not via the establishment of Bell inequality and its subsequent inequality [such as CHSH inequality]. Second, for any text fragments in the post-measurement setup, we can determine the existence of entangled states by testing whether the probability distribution cannot be factorized unconditionally. If yes， it corresponds to a entangled state before the measurement. Third,for the user dialogue or a real-time query expansion, we try to determine whether the nonlocal action at a distance between the association process words will happen.In addition, Considering the system will be evolved over time and show dynamic properties,we can investigate the quantum Zeno effect and the Temporal Bel Inequality, to investigate the dynamic cognitive state in the user interaction scenarios. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WP3: Paradigm design for quantum cognition phenomenon abide by the criteria of brain cognition research. ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Taking the electroencephalograph (EEG) based approach for example,at present the brain electrical data acquisition equipment with ultrahigh temporal resolution has been able to noninvasively colect EEG data meeting scientific analysis precision requirement from scalp. The event-related potentials (ERPs),is the product of the processed EEG,are related with mental activities,it can reflect the potential variations of diferent brain regions in the process of information and cognition processing when information stimuli received through various perceptual systems in our brain. The ERPs-based researches typically conduct analysis through four aspects,namely latency period, electric polarity, wave amplitude and distribution topology. Various ERPs components which are related with cognitive resources allocation have been widely adopted as objects of study in cognition processing researches, such as N280/Lexical Processing Negativity(LPN)，N400, N170, P600, P300,Early Left Anterior Negativity (ELAN),Mismatch Negativity (MMN), etc. The practicability and feasibility of source analysis by using EEG has been elucidated by Gevins (1995). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking，the design of experimental paradigm should take some critical aspects into consideration,including: the choose of the stimulus material, the selection of the subjects,the form of the stimuli, etc.Next, we willillustrate our idea of ERPs-based experimental paradigm design for two specific cases of quantum cognition phenomenons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The first is the Quantum Interference phenomenon oriented experimental paradigm design. We select the Order Effect in influencing the text relevance judgement as the case for study.In the phenomenon of Order Effect, a user's relevance judgement of one specific document may change by checking one prior document, namely the interference between documents. The case paradigm we design for the order effect are briefly illustrated as folowed: In each trial, the system selects one term T from many elaborately selected terms in which everyone correlates two short interference text A and B.For example, the term T ‘North Korea's nuclear test’ correlates a short text A ‘The missile defence system may be deployed in South Korea after the North Korea's nuclear test’ and B‘South Korea reach an agreement with U.S.on the deployment of Thad missile defence system'，where the relevance judgement for B may be influenced by reading A in advance. Two groups of subjects are required to conduct a T $\\mathrm { - } > \\mathrm { A } \\mathrm { - } > \\mathrm { B }$ sequence and a $\\mathrm { T } \\mathrm { \\mathrm { - } } \\mathrm { > } \\mathrm { B }$ sequence ‘read and judge’ test respectively, in each trial the subject is required to judge and report the relevance of B to T. In the data analysis period, we try to figure out the differences of brain activities between the two groups of subjects who have different relevance judgement for B,and explain the interference phenomenon from a neurocognitive science perspective. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The second is the Quantum Entanglement phenomenon oriented experimental paradigm design. Here we take the Concept Combination for example to illustrate our idea of paradigm design. Concept Combiation is a kind of phenomenon in natural language, it indicates constructing a new combined concept by combining two or more concepts together,in which the meaning of the combined concept can't be expressed by any of the two isolated concept. For example,the combination‘pet human’ is related to‘slave',it's a case of emergent association,and the combination ‘mountain story’ is a case of abduction, which can be understand as ‘a story happened in a mountain’ or ‘a story about a mountain'. These combined concepts can be seen as entangled quantum particles. In Mednick's “theory of associative creativity',it's a kind of creativity to associate and reconstruct different things, concepts and elements that are far apart, in the semantic network of concept, different concepts correlate with each other through semantic strength. As mentioned above, our paradigm design in this case focuses on investigating the cognition processing of our brain during associating concepts with different semantic distance.We select concepts with different semantic distance, such as ‘mountainmagazine',‘Sun Wukong-monkey',etc., in each trial, the system starts with showing the first isolated concept,then followed by the second one,after the show is complete the subjects have to report whether or not they have successfully associate these two isolated concepts to construct a new one. In the data analysis period,we group the subjects according to success or failure of the association process,try to compare the two groups of subjects and explain the neurocognive process in the Concept Combination period. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WP4: A natural language understanding model based on the quantum cognition. ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In information interaction,the fundamental task of natural language understanding model is to obtain the text representation in the semantic space.Based on WP1,human brain has complex quantum or quantum-like phenomena,such as the concept composition,semantic abstraction and word association, in the process of natural language understanding. Given the success of deep learning in the modeling of natural language,we wil combine the study of quantum cognitive phenomena and existing deep neural network model and propose the novel quantum cognition based natural language understanding model, so as to reveal the quantum properties among concepts in natural language. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To achieve this goal,we need to first investigate the existing neural network model for natural language understanding. Overall for the natural language understanding tasks,the traditional machine learning methods rely on manually designed input feature and obtain optimal prediction results by adjusting the model parameters. However,the design of manual features is often very time-consuming, and the features are usually incomplete or task dependent. Deep learning methods integrate the feature learning and prediction model, which can automatically learn the features of the original text to obtain the abstracted semantic representation and use this new representation in various tasks (such as text classification, grammatical structure, sentiment analysis, etc.). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Quantum cognitive phenomenon in natural language understanding is mainly the entangled state between concepts,i.e., the semantic unit that cannot be decomposed into independent sub-components. Meanwhile,the entanglement between concepts (the concept combination) can be used as abstract concepts in the combination with other concep,lead to a higher level of abstraction of concept. In this point-of-view,we will utilize the recursive neural networks to learn the hierarchical structure of entanglement between the concepts. First, based on preliminary studies the applicant teams,we can quickly identify the presence of quantum entanglement (equivalent to pure unconditional dependency) of the concept with various orders in post measurement setup (order here refers to the number of concepts included in the entanglement). Second, in recursive neural networks,the concept is represented as a semantic vector,and the entanglement can be defined as the tensor operator among concept vectors.Finally, we train the network using a large-scale data to optimize the predictions of the concept entanglement structure. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The concept vector obtained can be further used to model word association process.With the set of historical words, we can use neural networks to obtain the hierarchy of concepts with various levels of abstraction.We can then extract the words that best matches the historical concept from a set of candidate words,and recommend that word to represent the word that brain associated after seeing the historical words.The semantic vector representation of concepts can also be applied to all kinds of information interaction tasks. This project will focus on its application in exploratory information access. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WP5: Subspace representation and query logic in information interaction. ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to model contextual feature, information need and logic, we aim to replace the conventional IAR paradigm by a geometry of IAR based on the quantum mechanical framework. This project wil focus on three aspects: a) Defining abstract vector subspace to build contextual feature; b) Defining a query logic theory based on subspace representation； c） Defining a ranking function based on subspace representation and query logic. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Firstly,Defining abstract vector spaces to build multimodal complex features.Consider the feature spaces defined by tasks WP2. From this representation, complex features will be defined within abstract vector spaces and represented by multi-dimensional subspaces spanned by one or more complex feature vectors; complex features can be planes when defined by two vectors,cubes when defined by three vectors and in general they are hyperplanes. For example,a word of a natural language is an example of textual feature,the gray level of a pixel or a codeword of an image is another example and chroma-based descriptors for content-based music representation are yet another example.A finite vector space contains $\\mathbf { k }$ distinct features,which is also the dimensionality of the vector space. Given k real coefficients ai, $\\mathbf { i } = 1 , . . . , \\mathbf { k }$ and the $\\mathbf { k }$ feature vectors wi, $\\mathbf { i } { = } 1 , { \\ldots } , \\mathbf { k }$ ，acomplex feature vector is defined as $\\scriptstyle { \\mathrm { t } } = { \\mathrm { a l } } \\ w{ 1 } +$ ··· $^ +$ akwk for ai. Given m complex feature vectors t1,..., tm, $\\mathbf { m } \\leqslant \\mathbf { k }$ ,an even more complex feature is represented by the subspace of all vectors expressed as bltl ${ \\bf + \\cdots \\cdot + b m t m }$ ，e.g., a complex feature can be represented by a plane in the 2-dimensional as {blt1 $+ { \\tt b } 2 \\mathrm { t } 2 \\}$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Secondly,Defining a logic in abstract vector spaces. A general subspace based query language will be defined. It may be utilised by the end user and will also play the role of formalising how the document collction will be searched. Specifically,two basic operators \"meet\" and \"join\" will be defined to combine subspaces that represents “themes”and information needs expressed in multimodal way. The meet is the smallest subspace containing both subspaces. For example,the meet of two onedimensional themes $1 = { \\mathfrak { t } } 1$ and $2 = { \\mathfrak { t } } 2$ can be defined by $\\tau = \\tau { 1 } \\ \\vee \\ \\tau { 2 }$ and can be represented by the subspace of vectors $\\tau = { \\sf b l } \\tau { \\sf 1 } + { \\sf b } 2 \\tau { \\sf 2 } .$ . The join is the largest subspace contained by both subspaces. For example, the join of two bi-dimensional themes $\\tau 3$ and $\\tau 4$ can be defined by $\\tau 5 = \\tau 3 \\bigwedge \\tau 4$ and can be represented by the subspace of vectors in the intersection between the subspace spanned by the basis of $\\textsf { \\texttt { T 3 } }$ and the subspace spanned by the basis of t 5.Note that for meet and joint, the traditional distributive law is violated. If an expression like $( \\mathbf { A } \\wedge \\mathbf { B } ) \\vee ( \\mathbf { A } \\wedge \\mathbf { C } )$ would be equivalent to $\\mathbf { A } \\bigwedge ( \\mathbf { B } \\bigvee \\mathbf { C } )$ using the traditional Boolean logic, an expression like $( \\texttt { t } 1 \\wedge \\texttt { \\tau } 2 ) \\vee ( \\texttt { \\tau } 1 \\wedge \\texttt { \\tau } 3 )$ is not equivalent to T $1 \\land ( \\textsf { \\tau } 2 \\lor \\textsf { \\tau } 3 )$ using our subspace based logic. There has been evidence that human cognition and decision-making shows a non-classical and quantum-like nature,our subspace-based query language provides new opportunities for a user who interacts with a retrieval system to experiment many more non-classical expressions of her/his information need.In addition to meet and join, more operators will be investigated，such as entailment,orthogonality and other relatedness between subspaces. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lastly,Defining a ranking function in abstract vector space. The ranking rule utilised to measure the degree to which a document is about an information need (as a complex feature subspace determined by the user formulated query and current retrieval context） relies on the theory of abstract vector spaces.To measure this degree, a representation of a document in a vector space and a representation of a complex feature in the same space are necessary. A document is represented by a vector $\\varphi =$ (c1,.,.ck)' such that ci is the measure of the degree to which the document that is represented by the vector is about complex feature i. Let's $\\{ \\mathbf { v } 1 , . . . , \\mathbf { v m } \\}$ be an orthogonal basis representing complex features.The measure of the degree to which a document is about a complex feature represented by the subspace spanned by this basis is the size of the projection of the document vector on the complex feature subspace, that is 1 $\\mathbf { r } [ ( \\mathrm { v } 1 \\mathrm { v } 1 * + \\cdot \\mathbf { \\partial } \\cdot \\mathbf { \\partial } \\cdot \\mathbf { \\partial } \\mathrm { v m v m } * \\mathbf { \\partial } ) \\varphi \\varphi * ]$ where tr is the trace operator according to the mathematical theory of QM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WP6: Novel Exploratory Information Access Models inspired by Quantum Cognition. ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the process of exploratory information access, users interact with information through a series of interaction behaviors (e.g.,query request, browing webpages,click and reading, etc.). Each interaction behavior involves the brain cognition and decision process. For example, users tend to change queries to represent dynamic information need,decide to click and read which webpages,decide if continure the information interaction behaviors， etc. In this project，we will develop novel exploratory information access models based on the previous research results. Specifically, we will propose some novel exploratory access modes and methods inspired by quantum interference phenomena and quantum entanglement phenomena in brain cognition revealed in WP 1, 2 and 3. Moreover, we will also implement effective exploratory information access models using the techniques of natural language understanding and subspace logics proposed in WP 4 and 5.We will introduce the quantum cognition inspired exploratory information access models as follows: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "First， novel exploratory information access models based on quantum interference.We have investigated three quantum interferences in users' relevance judgment for exploratory information access process.They are between-users quantum interferences,between-information-objects quantum interferences and between-modalities/dimensions quantum interferences.We will model these three quantum interferences in exploratory information access scenarios, e.g.，personalized web search, session search,dynamic search and dialogure system, etc.We will model between-users quantum interference in personalized web search. In this way,the representation of information need will change influenced by other users' information interaction. In session search,the previously observed documents will influence the representation of information need for current query. In dynamic search, we will use quantum probabilistic automation to model the user cognition state transition after quantum interference. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Second, novel exploratory information access models based on quantum entanglement. We have developed effective natural language understanding methods with the quantum entanglement. In this project，we will use the natrual language understanding methods to understand users' dynamic information need represented with natural language, e.g., spoken text, dialogure text, query language, etc. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Third,novel exploratory information access models based on quantum contextulity. In this work package, we will use the quantum contextulity to model users'information need and use the subspace logics to develop novel exploratory informaiton access models.A subspace is composed of a series of basis vectors. Each basis vector can represent one contexutal dimension (e.g.,topicality，novelty, readability,reliability,information scope,interest and habit, etc.)of information need. One important difficulty is how to capture the dynamics of users' brain cognition in process of exploratory information access task, since that the brain cognition state is uncertainty. The uncertainty principle in quantum machanics is similar to brain cognition. In this project， we will borrow the strong representation ability of quantum theory to represent users' dynamic information. Furthermore，we have fomalized a unified subspace logics and operators. In exploratory information access task, we will use the subspace logics to compute the relevance between dynamics information need and information objects represented by the subpace inspired by the quantum contextuality. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]Song, Dawei, Shi, Yanjie, Zhang,Peng, Hou, Yuexian, Hu, Bin, Jia, Yuan, et al. (2013) Optimization of an integrated model for automatic reduction and expansion of long queries. Lecture Notes in Computer Science : Information Retrieval Technology, 8281, pp. 133-144. [2]Song, D., Huang, Q., Bruza, P.D and Lau, R.Y.K. (2O12). An Aspect Query Language Model Based on Query Decomposition and High-Order Contextual Term Associations. Computational Intelligence. Vol. 28(1), pp. 1-23.   \n[3]Aerts, D., Bruza, P., Hou, Y., Jose,J., Melucci. M., Nie, J.Y.and Song,D. (2011). Quantum Theory-Inspired Search. Procedia Computer Science, Volume 7, pp.278-280.   \n[4]Bruza, P.D., Kitto, K., Sitbon,L., Song, D.and Blomberg, S. (2011). Quantum-like nonSeparability of Concept Combinations, Emergent Associates and Abduction. Logical Journal of the IGPL. Vol. 20(2), pp. 445-457.   \n[5]Song, D., Lalmas, M., van Rijsbergen, C.J., Frommholz, I., Piwowarski, B., Wang, J., Zhang, P., Zuccon, G., Bruza, P.D., Arafat, S., Azzopardi,L.,Di Buccio,E., Huertas-Rosero,A., Hou, Y., Melucci, M. and Rueger, S. (2O1O). How Quantum Theory is developing the Field of Information Retrieval. AAAI-Fall Symposium on Quantum Informatics for Cognitive, Social, and Semantic Processes (QI2010), pp. 105-108.   \n[6]Zhang, P., Song, D., Hou, Y., Wang, J.and Bruza, P.D. (2O1O). Automata Modeling for Cognitive Interference in Users Relevance Judgment. AAAI-Fall 201O Symposium on Quantum Informatics for Cognitive, Social, and Semantic Processes (QI201O), pp. 125-133.   \n[7]Wang, J., Song, D., Zhang,P., Hou, Y.and Bruza, P.D. (2O1O). Explanation of Relevance Judgement Discrepancy with Quantum Interference. AAAI-Fall 2010 Symposium on Quantum Informatics for Cognitive, Social, and Semantic Processes (QI201O), pp. 117-124. ",
+        "page_idx": 11
+    }
+]

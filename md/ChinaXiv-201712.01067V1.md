@@ -1,0 +1,106 @@
+基础研究
+
+# 葡萄胎病理相关新基因F10与绒癌细胞系JEG-3成瘤性的关系
+
+苏晓华，庞战军，苏桂栋南方医科大学南方医院妇产科，广东广州510515
+
+摘要：目的探讨葡萄胎病理相关新基因F10与绒癌细胞系JEG-3裸鼠皮下成瘤的关系。方法通过细胞转染技术及RNA干扰技术,分别建立和筛选出F10基因稳定过表达及沉默的绒癌细胞系JEG-3。取SPF级裸鼠(4\~5周龄)30只,随机均分为JEG-3F10过表达组、JEG-3F10沉默组、JEG-3未处理组（ $\scriptstyle { \overbrace { n { = } 1 0 } } ^ { } ,$ ，分别接种F10基因过表达的JEG-3细胞、F10基因沉默的JEG-3细胞和未处理的JEG-3细胞株 $5 { \times } 1 0 ^ { 7 }$ 个于颈背部皮下。接种后每3\~4d称量裸鼠质量观察，记录肿瘤发生时间,观察皮下肿瘤的生长情况。绘制在体肿瘤生长曲线，计算各组裸鼠的成瘤率。结果3组的成瘤率均为 $1 0 0 \% ( 1 0 / 1 0 )$ 。JEG-3F10过表达组、JEG-3F10沉默组、JEG-3未处理组的成瘤时间分别为 $6 . 2 { \pm } 0 . 7 8 \ 、 7 { \pm } 2 . 4 9 \ 、 6 . 3 { \pm } 0 . 6 7 \mathrm { \ d }$ ，组间比较无统计学差异( $F { = } 0 . 7 8 1 , P { = } 0 . 4 6 8 )$ 。JEG-3F10过表达组肿瘤的在体生长速度较JEG-3F10沉默组、JEG-3未处理组增快,差异有统计学意义( $P { < } 0 . 0 5 )$ ,JEG-3F10未处理组肿瘤的在体生长速度较JEG-3F10沉默组快( $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ 。细胞接种5周后处死小鼠，取瘤组织称重，JEG-3F10过表达组、JEG-3F10沉默组、JEG-3未处理组肿瘤重量分别为 $\cdot 5 7 1 . 1 \pm 2 2 1 . 1 0 \ \mathrm { m g } \cdot 1 3 6 . 2 \pm 6 6 . 2 5 \ \mathrm { m g } \cdot 3 5 4 . 5 \pm 1 1 6 . 2 3 \ \mathrm { m g }$ ,组间比较存在统计学差异 $F { = } 2 1 . 1 9 9 , P { = } 0 . 0 0 0 ,$ 。结论F10基因与绒癌细胞系JEG-3的增殖调节有关,可增强JEG-3细胞系在裸鼠体内的致瘤性。
+
+关键词：绒癌;F10基因;JEG-3细胞;成瘤性试验
+
+# Role of hydatidiform mole-related gene F10 in the tumorigenicity of choriocarcinoma cell line JEG-3
+
+SU Xiaohua, PANG Zhanjun, SU Guidong DepartmentftetricsdyecoloyfangHospital,outhernedicalesityangzouin
+
+Abstract:ObjectiveTo exploretheroleof thehydatidiformmole-related geneF10inthe tumorigenicityofchoriocarcinoma cellines JEG-3 innude mice.Methods Choriocarcinoma JEG-3cellines with stableF10 gene over-expressionandF10 gene silencing were established usingcelltransfectionandRNA interference techniques,respectively.Thirty SPF nude mice (4-5 weeks old) were equally randomized into F10 over-expression group,control group,and F10 gene-silenced group for subcutaneous injection of $0 . 2 ~ \mathrm { m l }$ cell suspension ( $5 \times 1 0 ^ { 7 }$ cells) of F10 gene over-expressing JEG-3 cells, non-treated JEG-3 cells, andF10 gene-silencedJEG-3cels,espectively.The mice wereobservedand weighed every3-4days,andthe tumorforation time wasrecordedtodrawthe tumor growth curve andcalculate the tumorformationrate.Results The tumor formationates were $1 0 0 \%$ in all the 3 groups.No significant difference was found in the tumor formation time among the F10 over-expression, F10-silenced and control groups ( $\phantom { - } 6 . 2 { \pm } 0 . 7 8 \$ US $7 { \pm } 2 . 4 9$ US $6 . 3 { \scriptstyle \pm 0 . 6 7 }$ days; $F { = } 0 . 7 8 1$ $P { = } 0 . 4 6 8 \$ ). A significantly greater tumor growth rate was noted in the F10 over-expression group compared with the other two groups $( P { < } 0 . 0 5 ) ,$ and the growth rate was significantly slower in F10-silenced group than in the control group $_ { ( P < 0 . 0 5 ) }$ . The subcutaneous tumor weight at 5 weeksafter JEG-3cell injection diffred significantly among F10over-expression,F10-silencedandcontrol groups $( 5 7 1 . 1 \pm$ 221.10 us $1 3 6 . 2 \pm 6 6 . 2 5$ Us $3 5 4 . 5 \pm 1 1 6 . 2 3 \mathrm { m g }$ $F { = } 2 1 . 1 9 9 \$ $\scriptstyle P = 0 . 0 0 0$ ). Conclusion F10 gene plays a role in the regulation of choriocarcinoma JEG-3 cell proliferation and might enhance its tumorigenicity in nude mice.
+
+Key words: choriocarcinoma; gene F1O; JEG-3 cells; tumorigenicity test
+
+近年来，随着人类基因组计划的顺利完成及各种基因克隆方法的发明及广泛应用，越来越多的新基因被发现及定位。F10基因(GenBank号：AB196290)是本课题组从葡萄胎与正常早孕绒毛的差异cDNA文库中筛选出的一条功能未知的新基因[。前期研究显示，F10基因在多种肿瘤组织中表达[2],在正常早孕绒毛组织无表达，在葡萄胎、侵蚀性葡萄胎、绒癌中均阳性表达且依次增强3，提示F10基因与滋养细胞疾病的发生有关，并可能与滋养细胞疾病的侵袭行为有关。滋养细胞的侵袭调控过程可能涉及大量的生长因子、趋化因子、蛋白激酶及信号通路，其侵人调控失衡会导致各种病变，若滋养细胞过度侵袭至子宫深肌层及血管，则导致滋养细胞肿瘤如：绒癌的发生[4]。研究绒毛外滋养细胞与蜕膜细胞的相互作用是寻找滋养细胞肿瘤发病机制的一个关键突破口[5]。F10作为葡萄胎病理相关的新基因，其是否参与滋养细胞侵袭过程及其具体的作用机制目前还不明确，因此深入研究其在滋养细胞肿瘤发生发展中的作用尤为重要。本课题组通过上调及下调该基因，从双向角度来阐明F10的功能。分别构建真核质粒表达载体及RNAi慢病毒载体，设计并构建重组体，将重组体分别转染到JEG-3绒癌细胞系，经筛选及包装，获得F10基因稳定过表达及沉默的绒癌细胞，并将F10基因稳定过表达和沉默绒癌细胞株制备裸鼠绒癌动物模型，模拟人体内环境，在活体动物上直观地观察F10基因过表达和基因沉默对绒癌细胞系成瘤性的影响。
+
+# 1材料与方法
+
+1.1 材料
+
+EsTaq DNAPolymerase, $\mathrm { T } _ { 4 }$ DNALigase(TaKaRa公司)，快速琼脂糖凝胶DNA回收试剂盒，质粒小提试剂盒(Omega公司）， $\mathrm { S D S } { \times } \mathrm { P A G E }$ 凝胶制备试剂盒，中分子量蛋白Marker,表达载体pcDNA3.1Vector，限制性内切酶BamHI和 EcoRI（New Engl and Biolabs）,RNA提取试剂盒,逆转录试剂盒(Invitrogen),dsDNAoligo(广州维伯鑫生物科技有限公司委托合成)。SPF级裸鼠30只，购自南方医科大学实验动物中心，4\~5周龄,雌雄不限，体质量 $1 8 { \pm } 3 \ \mathrm { g }$ ,饲养在恒温 $( 2 0 { \sim } 2 6 ^ { \circ } \mathrm { C } )$ 恒湿 $5 0 \% { \sim } 5 6 \%$ )、SPF级空气洁净层流架内，按清洁级动物饲养标准喂养，裸鼠盒、空气过滤罩、垫料、饲料和饮水等均经高压蒸汽灭菌，并在无菌条件下适时更换。JEG-3细胞株购自中国科学院典型培养物保藏委员会细胞库，采用添加胎牛血清和青-链霉素的RPMI1640培养基(Gibco)于 $\mathrm { C O } _ { 2 }$ 培养箱(Thermo FormaSeriesII)中培养,倒置相差显微镜(Olympus)观察细胞生长状态。
+
+# 1.2实验方法与步骤
+
+1.2.1F10过表达的JEG-3稳定细胞系的建立和筛选用Trizol法提取细胞总RNA，以RNA为模板逆转录合成cDNA,根据F10基因的mRNA序列，用软件CloneManager7设计引物，扩增整个ORF区，上游引物添加BamHI位点的序列和保护碱基，下游引物添加EcoRI位点的序列和保护碱基，PCR扩增目的基因F10,PCR产物用 $1 \%$ 的琼脂糖凝胶进行电泳。DNA琼脂糖凝胶电泳回收，参照QIAquick的琼脂糖凝胶电泳回收试剂盒进行回收。回收用PCR产物和pcDNA3.1Vector以BamHI和EcoRI酶切反应，二者用T4DNA连接酶连接过夜，转化大肠杆菌Stbl3。PCR挑取阳性克隆菌落，并用小量质粒提取试剂提取重组质粒pcDNA3.1-F10,对上述重组的质粒进行酶切鉴定，鉴定为阳性者，委托Introvigin公司进行测序分析，确定阳性重组体后采用lipofectin2000转染、筛选，具体参照脂质体转染试剂盒操作说明书操作。
+
+1.2.2F10基因沉默的JEG-3稳定细胞系的建立和筛选dsDNAoligo由广州维伯鑫生物科技有限公司委托合成(表1)。
+
+表1dsDNAoligo序列Tab.1 Sequence of dsDNA oligo  
+
+<html><body><table><tr><td>NO.</td><td>5'</td><td>STEM</td><td>Loop</td><td>STEM</td><td>3'</td></tr><tr><td>LV-F10-RNAi(8847-1)-a</td><td>Ccgg</td><td>ctGAGCGAGTTCTACATCCTA</td><td>CTCGAG</td><td>TAGGATGTAGAACTCGCTCAG</td><td>TTTTTg</td></tr><tr><td>LV-F10-RNAi(8847-1)-b</td><td>aattcaaaaa</td><td>ctGAGCGAGTTCTACATCCTA</td><td>CTCGAG</td><td>TAGGATGTAGAACTCGCTCAG</td><td></td></tr></table></body></html>
+
+引物退火形成带双链DNA,通过 $\mathrm { T } _ { 4 }$ DNA连接酶将双酶切线性化的pGC-LV载体和DNA片段放于适当的buffer中 $1 6 ~ \mathrm { { ^ circ C } }$ 连接过夜，用 $0 . 1 \mathrm { m o l } / \mathrm { L } \mathrm { C a C l } _ { 2 }$ 制备新鲜的大肠杆菌感受态细胞，将已转化的感受态细胞转移到含LB琼脂培养基上。挑取转化子重悬于 $1 0 \mu \mathrm { l } \mathrm { L B }$ 溶液，混匀取 $1 \mu \mathrm { l }$ 作为模板；使用GV112通用引物，进行菌落PCR鉴定实验。培养JEG-3细胞并于转染前1d接种于$1 5 \mathrm { c m }$ 培养皿内，待细胞密度达到 $70 \%$ 左右进行转染。制备DNA液,体系如下:pGC-LV载体 $2 0 ~ { \mu \mathrm { g } }$ ,pHelper1.0载体 $1 5 ~ { \mu \mathrm { g } }$ ,pHelper2.0载体 $1 0 ~ \mu \mathrm { g }$ ,与相应体积的Opti-MEM混合均匀，调整总体积为 $2 . 5 ~ \mathrm { m l }$ ，在室温下温育 $5 ~ \mathrm { m i n }$ 。按照使用说明，配置Lipofectamine 2000混合液,将DNA与Lipofectamine2000混合液转移至JEG-3细胞进行转染。转染 $8 \mathrm { ~ h ~ }$ 后更换培养基 $4 8 \mathrm { ~ h ~ }$ 后收集富含病毒颗粒培养上清，浓缩并纯化，荧光定量PCR检测F10基因的表达，验证RNA干扰后目的基因沉默的效率，结果提示F10基因RNAi成功。
+
+1.2.3不同处理的JEG-3细胞系裸鼠成瘤性观察
+
+1.2.3.1 绒癌细胞接种裸鼠 将JEG-3F10过表达、JEG-3F10沉默、JEG-3未处理3种绒癌细胞株分别用含 $10 \%$ 胎牛血清的RPMI1640培养基于 $3 7 ~ \mathrm { \textbar { C } } , 5 \% ~ \mathrm { C O } _ { 2 }$ 培养箱中孵育，收集对数生长期细胞， $8 0 0 ~ \mathrm { r / m i n }$ 离心$5 \mathrm { m i n }$ ，弃上清，用无血清RPMI1640培养液洗2次， $3 0 \mathrm { m i n }$ 内完成动物接种。将30只裸鼠随机均分为JEG-3F10过表达、JEG-3F10沉默和JEG-3未处理组 $\scriptstyle { \overbrace { n { = } 1 0 } } ^ { \prime }$ ，以$7 5 \%$ 乙醇消毒裸鼠局部皮肤， $1 \mathrm { m l }$ 无菌注射器吸取预先制备的细胞悬液( $\mathrm { \langle 0 . 2 ~ m l / }$ 只，含细胞 $5 { \times } 1 0 ^ { 7 }$ 个)接种于动物颈背部皮下。
+
+1.2.3.2实验动物的饲养、处理与观察全部实验动物接种瘤细胞后定期(3\~4d)观察,称量体质量，观察和记录成瘤情况，观察到局部肿瘤发生时(裸鼠局部皮下出现球形或结节状突起,直径约 $3 \ \mathrm { m m }$ )[6]。(1)记录裸鼠肿瘤发生时间；(2)绘制在体肿瘤生长曲线：成瘤后每隔3d用游标卡尺测量肿瘤大小，根据公式 $\mathrm { V } { = } \pi \mathrm { a b } ^ { 2 } / 6$ （a为长径，b为短径)计算肿瘤体积"，以3组连续记录的5次(成瘤后1、5、9、13、17d)体积数值绘制在体肿瘤生长曲线;(3)计算各组裸鼠的成瘤率。
+
+1.2.3.3裸鼠的处理全部裸鼠于接种5周后处死，记录并比较各组皮下肿瘤的瘤体质量，取下肿瘤组织进行后续相关实验研究。
+
+1.2.4免疫组化法检测不同处理的JEG-3细胞成瘤组织中F10的表达情况每组10例标本均经 $10 \%$ 甲醛固定，24h内取材，石蜡包埋， $4 \mu \mathrm { m }$ 厚连续切片，采用SP法，按照超敏三步法免疫组化试剂盒说明书进行操作。超敏三步法免疫组化试剂盒由Zhongshan Corporation提供，F10单克隆抗体由委托上海康成公司合成。标本脱蜡、水化,微波抗原修复， $1 0 \% \mathrm { H } _ { 2 } \mathrm { O } _ { 2 } ^ { . }$ 甲醇封闭内源性过氧化物酶 $1 0 ~ \mathrm { m i n }$ 。 $5 0 ~ \mu \mathrm { l }$ 正常非免疫动物血清封闭，室温下孵育 $4 0 ~ \mathrm { m i n }$ ；加F10一抗 ${ 5 0 \ \mu 1 , 4 ^ { \circ } }$ 过夜;次日加生物素标记的二抗 $5 0 ~ \mu \mu \mu$ ，室温下孵育 $6 0 \mathrm { m i n }$ ;加链霉菌抗生物素-过氧化酶溶液 $5 0 \mu \mathrm { l }$ ，室温下孵育 $3 0 \mathrm { m i n }$ ;DAB显色,苏木精复染，中性树胶封片。Olympus显微镜下 $4 0 0 \times$ 随机选取5个不连续的高倍视野，Image-Pro Plus(Version6.0,USA)软件分析图像，平均光密度值代表表达强度。
+
+# 1.3数据采集及统计学分析
+
+采用SPSS13.0软件进行统计分析。计量资料以均数 $\cdot \pm$ 标准差表示。3组成瘤时间及瘤体肿瘤的比较采用单因素方差分析(One-way ANOVA),进一步两两比较采用LSD-t检验。在体肿瘤生长曲线的比较采用重复测量方差分析。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1F10基因过表达及沉默JEG-3细胞系构建的鉴定
+
+肿瘤组织中F10免疫组织化学阳性染色主要位于绒癌细胞的细胞质内，阳性染色为细胞质有棕黄色颗粒沉着(图1)，半定量结果分析显示，JEG-3F10过表达组、JEG-3F10沉默组、JEG-3未处理组平均光密度值分别为 $0 . 2 6 3 \pm 0 . 0 0 8 , 0 . 1 8 6 \pm 0 . 0 2 8 , 0 . 2 2 1 \pm 0 . 0 0 4 ,$ 组间比较存在统计学差异 $\stackrel { \prime } { F } = 1 5 . 4 0 5 , P = 0 . 0 0 8 )$ 。与JEG-3未处理的对照组相比，JEG-3F10过表达组F10蛋白表达水平明显增强( $P { < } 0 . 0 5 )$ ,JEG-3F10沉默组F10蛋白表达水平降低 $( P { < } 0 . 0 5 )$ 。
+
+![](images/078db15199e01ba7acbadc95462e84bf708bc8cbef61c601a54323fd2b3664df.jpg)  
+图1免疫组化法检测F10在各组皮下成瘤组织中的表达  
+Fig.1ExpressionofF0inthe subcutaneous tumor tisses detectedbyimmunohischemistry(SP,originalmagnification, $\times 4 0 0$ .A:F10- silenced group; B: Control group; C: F10 over-expresson group.
+
+# 2.2裸鼠接种绒癌细胞的成瘤时间、成瘤率及在体生长速度分析
+
+3组的成瘤率均为 $1 0 0 \% ( 1 0 / 1 0 )$ 。JEG-3F10过表达组、JEG-3F10沉默组、JEG-3未处理组的成瘤时间分别为 $6 . 2 { \pm } 0 . 7 8 . 7 { \pm } 2 . 4 9 . 6 . 3 { \pm } 0 . 6 7 \mathrm { d } .$ ，组间比较无统计学差异 $\left( F { = } 0 . 7 8 1 , P { = } 0 . 4 6 8 \right)$ 。对3组在不同时间点的成瘤体积进行重复测量方差分析显示，组间主效应(不同时间的数据与各组的数据)差异有统计学意义( $F { = } 1 3 6 . 3 1 1$ ，$\scriptstyle P = 0 . 0 0 0 { \mathrm { , } }$ 。将各组数据采用单因素方差分析发现，
+
+JEG-3F10过表达、JEG-3未处理组、JEG-3F10沉默组在不同时间点的成瘤体积差异显著 $\scriptstyle ( F = 6 8 . 5 4 8 , P =$ 0.000，表2，图2)，时间与组间的交互效应差异显著( $F =$ 16.011, $\scriptstyle P = 0 . 0 0 0$ ,表2)。LSD-t多重比较显示，JEG-3F10沉默组肿瘤在体生长速度较JEG-3未处理组减慢，JEG-3F10过表达组在体生长速度较JEG-3未处理组明显增快，差异均有统计学意义( $\scriptstyle P = 0 . 0 0 0 )$ 0
+
+# 2.3裸鼠接种绒癌细胞成瘤的瘤体质量
+
+于接种5周后处死裸鼠，取下肿瘤组织并称质量，结果显示：JEG-3F10过表达组、JEG-3F10沉默组、JEG-3未处理组肿瘤质量分别为 $5 7 1 . 1 { \pm } 2 2 1 . 1 0 . 1 3 6 . 2 { \pm }$ $6 6 . 2 5 . 3 5 4 . 5 { \scriptstyle \pm 1 1 6 . 2 3 ~ \mathrm { m g } }$ ，组间比较存在统计学差异( $F =$ 21.199, $\scriptstyle P = 0 . 0 0 0 ,$ 。JEG-3F10过表达组、JEG-3未处理组、JEG-3F10沉默组的瘤体质量逐渐减轻。
+
+![](images/8602021684e923b5a8bf0a8921e33e0eb02dca7719013f4edd1b51b7578e1d03.jpg)  
+图2裸鼠皮下肿瘤在体生长情况 Fig.2The growthofsubcutaneous tumor in nude mice (A:F10 silenced group; B: Control group; C:F10overexpression group)
+
+# 3讨论
+
+F10基因是本课题组采用抑制性消减杂交的方法发现的一种葡萄胎差异性表达基因。研究发现，F10基因在正常组织、癌旁组织不表达，而在某些腺癌如：原发性肝癌、子宫内膜癌中呈阳性表达[2.8-9],说明其与上述肿瘤的发生发展有关。滋养细胞侵袭行为受到严格的时间和空间调控,其间涉及大量的细胞因子及信号激酶，F10基因可能通过调控相关因子参与滋养细胞肿瘤的发生发展过程。为了全面认识其在滋养细胞肿瘤中的作用，本研究构建了F10稳定过表达和基因沉默的绒癌细胞系JEG-3,并分别接种于裸鼠皮下，致瘤裸鼠随机分为JEG-3F10过表达组、JEG-3未处理组、JEG-3F10沉默组，动物实验结果显示：3组成瘤率 $100 \%$ ,JEG-3F10过表达组、JEG-3未处理组及JEG-3F10沉默组裸鼠皮下肿瘤在体生长速度逐渐下降。JEG-3F10基因过表达组裸鼠接种后，肿瘤生长速度快，瘤体体积及质量增加，表明F10基因可增强绒癌细胞系JEG-3的成瘤性，具有促进绒癌细胞增殖的作用。前期课题组已构建F10基因的真核表达载体，转染重组pRc-CMV2-F10质粒于肺癌细胞系A549,结果发现F10有促进肺癌细胞增殖的作用[],这与本研究的实验结果是一致的。而JEG-3F10沉默组裸鼠较未处理组生长速度下降，瘤体体积减小，瘤体质量下降，说明F10基因沉默后的绒癌细胞生长速度减慢，从反面进一步验证了F10在促进绒癌细胞增殖方面具有重要作用。
+
+表2裸鼠皮下成瘤在体生长速度Tab.2 The growth speed of subcutaneous tumor in nude mice (Mena±SD, $n { = } 1 0$ ）  
+
+<html><body><table><tr><td>Day (d)</td><td>F10 silenced group (mm)</td><td>Control group (mm3)</td><td>F10 overexpression group (mm)</td></tr><tr><td>1</td><td>2.511±4.500</td><td>5.757±8.775</td><td>5.809±9.780</td></tr><tr><td>5</td><td>18.324±21.366</td><td>39.251±42.516</td><td>73.423±47.688</td></tr><tr><td>9</td><td>42.272±30.012</td><td>94.935±45.745</td><td>177.619±97.561</td></tr><tr><td>13</td><td>100.090±37.242</td><td>171.433±48.788</td><td>347.918±90.019</td></tr><tr><td>17</td><td>154.704±123.469</td><td>356.301±122.191</td><td>585.069±113.835</td></tr><tr><td>Total</td><td>63.580±10.600</td><td>133.535±10.600</td><td>237.968±10.600</td></tr></table></body></html>
+
+$F _ { \mathrm { t i m e ^ { * } g r o u p } } { = } 1 6 . 0 1 1$ $P { = } 0 . 0 0 0$ $F _ { \mathrm { t i m e } } { = } 1 3 6 . 3 1 1$ $\scriptstyle P = 0 . 0 0 0$ $F _ { \mathrm { g r o u p } } { = } 6 8 . 5 4 8$ $\scriptstyle P = 0 . 0 0 0$
+
+绒癌是一种继发于正常或异常妊娠之后的滋养细胞肿瘤，其恶性程度极高，早期可发生远处转移。本研究中，三组皮下肿瘤中随着F10基因的表达增强肿瘤体积逐渐增大，肿瘤在体生长速度逐渐加快，说明F10基因可促进绒癌细胞JEG-3生长，这提示F10极有可能与绒癌的细胞增殖及浸润转移密切相关，并有可能成为肿瘤基因治疗的靶基因。同时，本课题组前期已采用pET28a质粒表达载体，获得高纯度F10基因编码蛋白及F10单克隆抗体]，这为后期开展F10基因功能研究奠定了实验基础。恶性肿瘤的发生不仅与细胞的异常增生密切相关[12],而且与细胞的凋亡受抑相关[13-14]。细胞凋亡失衡是导致人类多种肿瘤发生、发展及转移的重要原因之一。前期研究发现，利用RNAi技术相关原理，F10基因表达下调后的KLE细胞的凋亡比率明显增加[5，提示F10基因高表达在滋养层细胞肿瘤发生中的作用机理可能与抑制细胞凋亡有关。本研究中F10基因下调后的绒癌细胞系增殖速度减慢，致瘤性减弱，这极可能提示F10沉默处理后的绒癌细胞凋亡增加，进而说明F10基因可能通过抑制绒癌细胞凋亡，促进绒癌细胞增殖，增强绒癌细胞系JEG-3在裸鼠体内的成瘤性。但其具体作用机制尚不明确，有待于进一步的研究。
+
+# 参考文献：
+
+[1]李贵堂,庞战军,周 瑾,等.葡萄胎发病相关新基因的克隆[J].广东医学,2006,27(1):22-4.  
+[2]周 瑾,梁卫华,李 冰,等.葡萄胎发病新基因F10在不同肿瘤组织的表达[J].广东医学,2005,26(5):596-7.  
+[3］周 瑾,陈士岭,邢福祺,等.葡萄胎发病新基因F10与滋养细胞肿瘤侵袭相关性研究[J].第一军医大学学报,2005,25(2):171-3.  
+[4]Wells M. The pathology of gestational trophoblastic disease: recentadvances[J]. Pathology,2007,39(1): 88-96.  
+[5]Al-Khan A,Bulmer JN, Chantraine F,et al. Trophoblast deportation,gestational tropho-blastic disease,placental insufficiency and fetalgrowth restriction,trophoblast over-invasion[J].Placenta,2013,34(27): S11-6.  
+[6] 蒲才秀,常淑芳,孙江川,等.2种人卵巢癌裸鼠移植瘤模型的生物学特性比较研究[J].重庆医科大学学报，2011,36(11):1343-6.  
+[7]何志军,陈先祥,蔡庆和,等.移植瘤体积不同计测方法的比较[J].中国比较医学杂志,2009,19(9):47-50,插8.  
+[8］周 瑾,邢福祺,余良宽,等.葡萄胎发病新基因F10在原发性肝癌中的表达分析[J].解放军医学杂志,2007,32(6):601-3.  
+[9]周 瑾,余良宽,冯桂萍,等.葡萄胎发病新基因F10在子宫内膜癌的表达分析[J].解放军医学杂志,2008,33(8):1042.  
+[10]宋亚丽,张弓,庞战军,等.F10基因过表达对A549细胞致瘤性的影响[J].解放军医学杂志,2012,37(7):676-80.  
+[11]庞战军,周君桂.葡萄胎病理相关新基因F10重组蛋白的表达及鉴定[J].医学研究生学报,2014,27(6):577-81.  
+[12] Valäskovä Z,Kinová S,Danihel L,et al. The complexity ofinteractions of the tumour growth process[J]. Vnitr Lek,2009,55(12): 1145-58.  
+[13] Caroppi P, Sinibaldi F,Fiorucci L,et al.Apoptosis and humandiseases:mitochondrion damage and lethal role of releasedcytochrome C as proapoptotic protein[J]. Curr Med Chem, 2009,16(31): 4058-65.  
+[14] Sarcevi B. Apoptosis in tumors[J].Acta Med Croatica,2009,63(Suppl 2): 43-7.  
+[15]崔艳国,全 松,邢福祺.RNAi下调F10基因表达对KLE细胞凋亡的影响[J].南方医科大学学报,2008,28(3):317-9.
+
+（编辑：吴锦雅）

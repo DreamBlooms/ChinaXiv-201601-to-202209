@@ -1,0 +1,348 @@
+[
+    {
+        "type": "text",
+        "text": "木聚糖酶异源表达的研究进展李吉萍 张斯童 包昌杰 陈光\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（吉林农业大学生命科学学院，长春，130118）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：摘要：木聚糖（Xylan）在自然界中的含量极其丰富，在农作物和农林剩余物中大量存在。随着能源资源问题的日益凸显，对木聚糖的应用和研究越来越受到重视。木聚糖酶（Xylanase）是可以将木聚糖降解为低聚木糖和木糖的一类水解酶，近年来，为了实现木聚糖酶的高产、高酶活表达，科研工作者做了大量的研究工作，本文将就木聚糖酶异源表达（Heterologous expresson）的研究进展进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：木聚糖；木聚糖酶；异源表达",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research Advances in Heterologous expression of Xylanase LI Ji-ping1 ZHANG Si-tong 1 BAO Chang-jie 1 CHEN Guang1\\* (1 College of Life Sciences, Jilin Agricultural University, Changchun 130118) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Xylan is abundant in cropsand agricultural and forestry residues.With the increasing emphasis on energy resources,more atention has been paid to the application and research of xylan.Xylanase is a class of hydrolases that can degrade xylan into xyloligosaccharides and xylose.Several improvements were made over theyear to achieve high yield and high enzyme activity of xylanase.In this report,we willreview the research progress of heterologous expression of xylanase. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:xylan; xylanase; heterologous expression ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "木聚糖（Xylan）是自然界中含量及其丰富的多糖，其含量仅次于纤维素，也是半纤维素的主要组成成分，广泛存在于植物组织的的细胞壁中[1]。木聚糖酶（Xylanase）是可以降解木聚糖的主要酶系，可将木聚糖降解为木糖和低聚木糖。除了其降解产物在食品加工、制药等行业有广泛应用外，有研究报道，半纤维素的去除，能大大增加纤维素和木质素的释放，对于缓解能源资源利用问题具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "木聚糖酶在自然界分布广泛，可从动物、植物和微生物中获得，目前研究和应用得最多的是细菌和真菌来源的木聚糖酶。通常，自然来源的微生物中木聚糖酶的产量并不高，不能满足生产应用需求，因此，众多研究人员将木聚糖酶基因进行克隆，表达于不同的表达系统中，期望提高木聚糖酶的表达量，本文将对木聚糖酶的异源表达研究进展进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1木聚糖酶概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "木聚糖是植物半纤维素的组成成分，存在于植物细胞壁中，是自然界中的第二大类多糖，大多数的木聚糖是结构复杂、含有多种取代基的具有高度分枝的异质多糖，因此降解木聚糖不仅仅需要一种酶，而是依靠一系列木聚糖降解酶系",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1木聚糖降解酶系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "木聚糖降解酶系包括β-1，4-内切木聚糖酶（endo-l,4-β-D-xylanase）、a-L-呋喃阿拉伯糖苷酶（a-L-arabinofuranosidase）、a-D-葡萄糖醛酸苷酶（a-D-glucuronidase）、乙酰木聚糖苷酶（acetyl xylan  \nesterase）、阿魏酸酯酶（ferulic acid esterase)和β-木糖苷酶（ $\\beta$ -D-xylosidase），这一系列的酶为广  \n义木聚糖酶，即可以将木聚糖彻底降解的一系列酶的总和，而狭义的木聚糖酶仅指β-1，4-内切木聚  \n1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【C】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "糖酶，即切割主链内部的β-1，4-木糖苷键[2。β-1，4-内切木聚糖酶(EC.3.2.1.8)被称为水解木聚糖的关键酶[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2木聚糖酶的结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木聚糖酶的分子结构较为复杂，一般的四级结构含有一个催化结构域，和一些非催化域例如与纤维素结合的部位为纤维结合结构域，与木聚糖结合的为木聚糖结合结构域，热稳定域，连接序列以及一些未知功能的其它结构域4。在木聚糖酶的空间结构中就可以清晰看出对于不同木聚糖酶他们的分子结构有很大差异因此作用效果及作用对象也是不同的，有一部分结构简单，而有的则需要一些非催化功能的结构域进行一些辅助作用，例如于底物结合，与其它相关木聚糖酶系相结合等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "催化结构域（catalyticdomain）是木聚糖酶所必备的结构域也是起到催化和降解木聚糖做用的关键结构域，又可称其为功能结构域。一般来说自然界中大多数的木聚糖酶空间结构中含有一个催化能力的催化结构域，但是在生黄瘤胃球菌（Ruminococcus flavefacieus）中检测到了两个催化结构域，它们分别位于该蛋白的C末端和N末端，对于这样含有两个或多个催化结构域的木聚糖酶则是十分罕见的[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "纤维素结合结构域（celllose binding domain）其主要作用是结合纤维素，一般广泛存在于纤维素酶中，但在具有水解纤维素和半纤维素功能的木聚糖酶中也存在纤维素结合结构域，主要作用就是与底物木聚糖相连接的纤维素相结合，起到调节和固定的作用[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "热稳定域（thermostabilising domain）对于酶的热稳定具有很大作用，一般存在于耐高温的微生物产生的木聚糖酶的结构中，其主要含有较多的芳香族氨基酸且结构域的分子折叠程度较高。木聚糖酶结构中的连接序列的主要作用就是将该酶蛋白结构中的各个结构域相连接，因此具有较好的柔韧性和延展性，而不同的木聚糖酶的连接序列也是大有不同[。来自假单胞菌木聚糖酶A的Cbm10 纤维素结合模块的溶液结构。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木聚糖结合结构域（xylan binding domain）作用为结合底物木聚糖的作用，也是功能结构域的一种。研究发现木聚糖酶与底物结合一般是依赖于大分子表面的静电作用，而该结构域的作用并不是很显著，但是在 Streptomyces Olivaceovividis E-86产生的木聚糖酶中的木聚糖结合结构域在降解木聚糖的过程中起到重要作用，结构完整的木聚糖酶可以降解可溶与不可溶的木聚糖，进行木聚糖结合结构域结构敲除后发现不能对于不可溶的木聚糖进行降解[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3木聚糖酶的理化性质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "木聚糖酶普遍存在于自然界中，且种类繁多，不同种类的木聚糖酶，其理化性质也是大有不同。一般来源于细菌的木聚糖酶仅含有一个亚基，且分子量范围在 $8 { \\cdot } 1 4 5 \\mathrm { k D a }$ 之间，这主要是由细菌所分泌的木聚糖酶，而真菌产生的木聚糖酶其结构较为复杂，一般含有多个亚基，因此真菌产生的木聚糖酶的分子量要比细菌产生的木聚糖酶的分子量大许多9；根据木聚糖酶所适应的环境将其分为酸性木聚糖酶和碱性木聚糖酶，酸性木聚糖酶的 $\\mathsf { p H }$ 范围在4-7之间，一般产生于细菌体内，且分子量要小于 $3 0 \\mathrm { { k D a } . }$ 。碱性木聚糖酶其pH值在8-10 范围之间,主要由细菌和真菌产生,其分子量要大于 $3 0 \\mathrm { { k D a } } ^ { [ 1 0 ] }$ ：不同来源的木聚糖酶其适应温度范围也是大有不同，热稳定性相对较好的产酶菌株大多数是细菌，包括芽孢杆菌，链霉菌等[11,12]。一般细菌产生的木聚糖酶适应的温度范围较为宽泛在 $4 0 – 6 0 ^ { \\circ } \\mathrm { C }$ 左右，而产生于真菌的木聚糖酶仅在 $5 0 ^ { \\circ } \\mathrm { C }$ 上下作用较为稳定；不同来源木聚糖酶的等电点范围在3-10之间，在这一范围内，通常都处于稳定状态。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/53d1a5197be3437c905309070ff29d2d5eaf0f191f9d849c59db875732ccdb99.jpg",
+        "img_caption": [
+            "Fig1.Themodel3-D structure of xylanase 图1.木聚糖酶3D结构模型 注：图片译自DalRyeKim等 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2木聚糖酶的异源表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自Horikoshi等人于1973年首次报道来自碱性细菌中的木聚糖酶基因以来，众多国内外的科研工作者针对木聚糖酶基因开展了大量的研究工作，使其实现了在多种表达系统中的表达。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "木聚糖酶在细菌中进行异源表达的研究中，以大肠杆菌为表达系统研究的最早，最普遍，也最具有代表性，很多的木聚糖酶基因均可在大肠杆菌中得到表达[13.14]。相比较于以细菌为宿主的蛋白表达系统，以真菌为宿主的表达系统具有更大的优势[58]，例如异源表达的木聚糖酶的活性更高，产酶量更大，不会形成包涵体更利于木聚糖酶的纯化等，以真菌为宿主的蛋白表达系统可分为酵母菌表达系统和丝状真菌表达系统，而相较于以丝状真菌为宿主的表达系统，以酵母菌为宿主的表达系统研究更为成熟[15.16]。微生物表达系统生长过程中可能会发生污染产生致病因子，使得最终产物感染人或者动物，而植物表达系统具有较高的安全性而且培养条件简单，更易于成活[7]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1木聚糖酶在细菌表达系统中的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1木聚糖酶在大肠杆菌中的异源表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大肠杆菌作为宿主菌的原核表达系统是研究最早也最为广泛的表达系统，该异源基因表达系统有遗传背景清楚，载体受体系统完备，培养简单，生长周期短等优势。因此越来越多的科学家从不同菌体中获得木聚糖酶并将来源不同的木聚糖酶基因以大肠杆菌为宿主实现异源表达，1995 年KOTARO[18等人从黑曲霉(Aspergillus niger)中克隆出多种木聚糖酶的基因。次年Iefuji $\\mathrm { ~ H ~ } ^ { [ 1 9 ] }$ 等人分离纯化出了可以产生木聚糖酶的酵母菌Cryptococcus sp.S-2。2001年 $\\mathrm { B e g Q ~ K } ^ { [ 2 0 ] }$ 等的研究表明到 2001年已从20余种细菌、16种真菌、3种酵母以及8种放线菌中分离出相应的木聚糖酶,并可以在以真菌或细菌为宿主的表达系统中得到表达。2003 年薛业敏[2等人利用 PCR 技术将嗜热产乙醇菌 $T$ ：maritima 编码高度热稳定性木聚糖酶的基因克隆至原核表达载体pET-20b，使之与组氨酸标签融合，并在大肠杆菌JM109（DE3)中得到了高效表达。为了提高饲料中纤维素的利用率，王磊[22]等人2014年将来源于枯草芽孢杆菌的木聚糖酶基因和内切葡聚糖酶基因celW 同时转入大肠杆菌中得到共表达。2014 年刘叔洋[23]用 PCR方法从包含黏琼脂芽饱杆菌(Bacillus agaradhaerens)的全基因组文库中扩增木聚糖酶基因 $x y l A$ ，在大肠杆菌中实现异源表达并对重组酶进行酶学性质研究。通过优化培养基和诱导条件等因素，在最优条件下测得上清液酶活力为 $3 7 2 9 \\mathrm { U / m L }$ ，是出发菌株的2.3倍。2016年何瑶,殷欣,吴芹[23]等人人工合成了11家族耐热木聚糖酶基因xynll Em 并将其克隆至表达质粒pET-28a(+)中，获得重组质粒pET-28a-xynllEm。随后转化 Escherichia coli BL21(DE3)，成功构建了可以表达耐热木聚糖酶的基因工程重组菌 $E .$ coliBL21/xynllEm，实验结果表明xynllEm成功在E.coliBL21中实现了异源表达，耐热木聚糖酶良好的热稳定性具有较好的工业应用潜力。同年吴迪[2将来源于短小芽抱杆",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【C】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "菌 NJ-M2 的木聚糖酶基因与绿色荧光蛋白基因(gfp)进行融合表达，成功将木聚糖酶展示在大肠杆菌细胞表面，从而得到了一种能将木聚糖酶展示表达在细胞表面的大肠杆菌菌株。这一研究为木聚糖酶的工业固定化和发酵应用提供了理论依据。2018年郝荣华,张晓元2]等人全基因合成枯草芽抱杆菌木聚糖酶基因序列并进行密码子优化，实现以枯草芽抱杆菌为来源的木聚糖酶基因在大肠杆菌 BL21中的高效分泌表达并对其产木聚糖酶进行酶学性质分析。同年刘雨露[2]等人将来源于Clostridiumclariflavum的双功能木聚糖酶 $X y n 2 0 3 8$ ，转入大肠杆菌中进行异源表达获得了三个重组木聚糖酶，并且对重组木聚糖酶的酶学性质进行了研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2木聚糖酶在枯草芽孢杆菌中的异源表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "枯草芽抱杆菌是继大肠杆菌之后又一广泛使用的表达系统，它没有致病性，只具有单层细胞外膜，并且能直接将许多蛋白分泌到培养基中。因此许多研究选择枯草芽抱杆菌为木聚糖酶基因表达宿主菌。目前由英、法、德、日、瑞士等八个国家已联合完成的B.subtilis168基因组测序，其全部4,214,810个碱基已被测序并公开发表，在已绘制并公开发表的枯草芽抱杆菌基因图谱包含了2.379个基因，为枯草芽抱杆菌的改造、工程菌株的构建提供了详细的背景资料[28]，并且为使用代谢工程技术指导构建生产菌株提供了有效地理论支持[29-31]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2012年曹鹏涛[32]等人克隆含有信号肽碱性术聚糖酶基因(xynA)片段，将其克隆至实验室前期构建的大肠杆菌-枯草芽抱杆菌穿梭载体上，并转化入枯草芽抱杆菌WB700 菌株，获得重组菌 BXS-W，然后再通过各种应激手段诱导枯草芽抱杆菌大量分泌木聚糖酶。2013年 Verma[33]等第一次实现了耐热木聚糖酶的宏基因组转入枯草芽孢杆菌中并实现了特异性异源表达。2015年Huang[34]等人将来源于Thermoanerobacterium aotearoense SCUT27的耐热木聚糖酶剪切，并将剪切后的基因整合到枯草芽孢杆菌基因组中进行表达，最终获得的耐热木聚糖酶的活性高于其在大肠杆菌中四倍。2016年向亚萍[35]等人克隆极耐热木聚糖酶基因 xynB，将其与罗克霉素启动子融合，构建融合质粒载体pXYNB2，将其转化到枯草芽孢杆菌 Bs916中，获得重组枯草芽抱杆菌 $( \\mathsf { B s 9 1 6 / p } X Y N B 2 )$ ，在枯草芽抱杆菌 Bs916中进行异源分泌表达。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4177ec09abece7c92c80a1f271659e371f7f471f62092240ee25f101d4c3d092.jpg",
+        "table_caption": [
+            "表2.1木聚糖酶在细菌表达系统中的表达",
+            "Table2.1 Expression of xylanase in bacterial expression system "
+        ],
+        "table_footnote": [
+            "注：1）NR表示文献中未做说明",
+            "1）收稿日期：2018-12-10，修回日期：2019-01-152）资助项目：吉林省秸秆综合利用技术创新平台，2014【C】-13）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com"
+        ],
+        "table_body": "<html><body><table><tr><td>木聚糖酶 编号</td><td>基因来源</td><td>蛋白大小</td><td>最 适 pH</td><td>最 适 温度</td><td>酶比活 力</td><td>表达宿主 系统</td><td>表达载 体</td><td>启 动 子</td><td>信号 肽</td><td>酶表达活力</td></tr><tr><td>EC.3.2.1.8</td><td>枯草芽孢杆菌</td><td>43.0KD</td><td>10.0</td><td>65℃</td><td>NR1)</td><td>大肠杆菌</td><td>pET26b</td><td>T7/Lac</td><td>pelB</td><td>1201.5IU/mL</td></tr><tr><td>EC.3.2.1.8</td><td>黑曲霉XZ-3S</td><td>33.47KD</td><td>5.0</td><td>45℃</td><td>61.43U/</td><td>BL21 大肠杆菌</td><td>pET28a</td><td>T7/Lac</td><td>等</td><td>NR</td></tr><tr><td rowspan=\"2\">NR</td><td rowspan=\"2\">黑曲霉</td><td rowspan=\"2\">25.0KD</td><td rowspan=\"2\">7.5</td><td rowspan=\"2\"></td><td>mg</td><td>BL21</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">pelB</td><td rowspan=\"2\"></td></tr><tr><td>58.19U/</td><td>枯草芽孢</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\">37℃</td><td></td><td>杆 菌</td><td rowspan=\"3\">pGJ 148</td><td rowspan=\"3\">pglv</td><td rowspan=\"3\">YnfF</td><td rowspan=\"3\">NR</td></tr><tr><td>mg</td><td>WB700</td></tr><tr><td></td><td></td></tr><tr><td rowspan=\"3\">EC.3.2.1.8</td><td rowspan=\"3\">短小芽抱杆菌 BYGS-20N</td><td rowspan=\"3\">28.34KD</td><td rowspan=\"3\">6.8</td><td rowspan=\"3\">42℃</td><td>NR</td><td>枯草芽抱</td><td rowspan=\"3\">pBXS</td><td rowspan=\"3\">PgsiB</td><td rowspan=\"3\">Pho B等</td><td rowspan=\"3\">30.89U/mL</td></tr><tr><td>杆菌</td><td></td></tr><tr><td>WB700</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2木聚糖酶在真菌中的异源表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1木聚糖酶在毕赤酵母中的异源表达",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "毕赤酵母(Pichia pastoris)表达系统，遗传稳定，可对蛋白质进行翻译后加工，表达效率高，产物可分泌至培养基且适于高密度发酵[36]，己成为一种被广泛使用的、能高效表达外源蛋白的表达系统，目前已有数百种外源蛋白在该系统中获得了高效表达。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ming[]等在毕赤酵母中高效分泌表达了黑曲霉木聚糖A 基因，木聚糖酶比酶活达 $1 7 5 \\mathrm { U / m g }$ ，是亲本菌株比酶活的1.9倍。该研究者在醇氧化酶启动子AOX1的调控下，在毕赤酵母中首次表达了Bacillus licheniformis 木聚糖酶基因，其比酶活达 $1 2 2 . 9 \\mathrm { U / m g }$ 。 Zhang $\\boldsymbol { \\mathrm { F } } ^ { [ 3 8 ] }$ 将嗜热放线菌木聚糖酶基因在毕赤酵母中表达，发酵液酶活性达 $3 2 4 . 2 \\mathrm { U / m L }$ 。2000 年，berrinJ.G[39等人在毕赤酵母中表达黑曲霉木聚糖酶基因，重组菌在合成培养基上的产量达到 $6 0 \\mathrm { { m g / L } }$ ，该黑曲霉产木聚糖酶基因是第一个能在毕赤酵母中正确表达、有效分泌的基因。2009 年韩双艳[4]等人将编码枯草芽袍杆菌(Bacillus subtilisB2)木聚糖酶XYN的基因克隆到pPIC9K载体中，构建了分泌型表达载体pPIC9K-XYN后转化Pichiapastoris GS115，筛选获得了分泌表达 XYN 的重组毕赤酵母工程菌GS115-pPIC9K-XYN，重组毕赤酵母工程菌摇瓶水平发酵上清液中木聚糖酶酶活可达 $1 5 4 2 . 6 \\mathrm { U / m L }$ 。2014年高赫4等人根据毕赤酵母密码子的偏好性优化了木聚糖酶 XynB-wild 基因。合成优化的基因XynB-opt,并连接到pPICZaA载体上。然后把重组质粒线性化后电转入毕赫酵母CS115中，得到了可以表达木聚糖酶的毕赫酵母工程菌。2015 年吴金莲，薛勇[42]等人将来源于东方肉座菌的(Hypocrea orientalis)EU7-22 的基因组DNA 和cDNA 为模板，利用pcr技术和染色体步移得到东方肉座菌GH10家族木聚糖酶III的基因(xynI)之后构建表达载体转化毕赫酵母,诱导168h 后在发酵液中得到了酶活较高的木聚糖酶。周晨妍[42]等人 2016年将黑曲霉XZ-3S木聚糖酶 Xyn43A成熟肽基因插入表达载体pPIC9K，重组质粒SalI线性化后分别电击转化2种毕赤酵母GS115 和 KM71，获得两株重组菌GS115/Xyn43A(Mut+)和KM71/Xyn43A(Mut')。2017年韩瑞祥44等人为了提高木聚糖酶的热稳定性，将嗜热子囊菌木聚糖酶 xynA转入巴斯德毕赫酵母GS115中，得到了相较于原始菌株热稳定性更高的木聚糖酶。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2木聚糖酶在酿酒酵母中的异源表达",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "酿酒酵母表达系统不产生毒素，安全性好，其表达产物不需要经过大量宿主安全性实验，遗传背景清处，易于进行操作等优势。在酿造工业中酿酒酵母不能直接利用木聚糖作为碳源，因此通过筛选从其他菌株中得到酶活较高的木聚糖酶，利用分子生物学手段使其整合到酿酒酵母的基因组中，并获得高效表达的菌株[45，46]。李海燕，毛爱军[47]等人首次报道将黑曲霉 A.niger T21糖化酶基因(glucoamylase; EC3.2.1.3)和 A. niger- UV11 木聚糖酶基因(endo-1,4-13- β-D-xylan xylanohydrolase; EC3.2.1.8)整合到酒精生产用酵母菌S.cerevisiae 2.346的染色体中，获得了能够同时稳定分泌表达糖化酶和木聚糖酶的酒精生产用酵母工程菌株。DC la Grange 等[48]将里氏木霉(Trichodermareesei)的 XYN2基因，用不同的启动子ADH2 和PGK1在酿酒酵母(Saccharomycescerevisiae)中表达，酶活力分别为1200nkat/mL 和160nkat/mL。Filip Nuyens[48]等2001年运用不同的克隆载体将短小芽抱杆菌(Bacilluspumilus)的 xynA在酿酒酵母中表达，获得酶活分别为8.5 nkat/mL和4.5 nkat/mL。张水龙[5等人2013年将来源于黑曲霉的木聚糖酶基因 xynB利用醋酸锂化转法导入酿酒酵母(Sacharomycescerevisiae)INVSC1菌株表达，获得了两株产木聚糖酶的酿酒酵母工程菌。2017年张斯童[5等人利用rDNA整合法构建了产木聚糖酶酿酒酵母工程菌，实现了木聚糖酶基因的多拷贝表达，最终获得了十株多拷贝产木聚糖酶酿酒酵母工程菌，并对木聚糖酶的酶活进行测定，酶活最高可达到 308U/ml.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3木聚糖酶在丝状真菌中的异源表达。",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "丝状真菌表达系统具有高效分泌目的蛋白的潜质，能进行各种正确的翻译后修饰，许多修饰方式与高等真核生物相似，丝状真菌在生产工业用酶方面十分重要，主要是因为丝状真菌易于培养，生长迅速，适合大批量培养，对于丝状真菌的发酵工艺的研究也比较成熟[52]，丝状真菌分泌蛋白时有分子伴侣参与，可以帮助蛋白得到更好的修饰，这些特点使得丝状真菌成为了比较有优势的宿主。关于木聚糖酶在丝状真菌中的异源表达的研究目前来说比较少，现在利用丝状真菌为异源表达宿主的研究",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【c】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中通常利用强启动子，或者是增加拷贝数等方法提高蛋白的分泌量和稳定性，虽然可以看到成效，但是成功的例子并不太多。2007年Arja Mantyla[53]等从Chaetomiumthermophilum CBS 730.95中克隆获得3个木聚糖酶基因 Ctxynl1A,Ct xynl1B,and Ctxynl1C,利用 T.reesei cel7A(cellobiohydrolase 1,cbhl)的启动子，成功实现了在里氏木霉中的异源表达。2013年王红霞4等人将一段含有信号肽基因的来源于葡萄穗霉木聚糖酶xyn1转入黑曲霉中得到了酶的比活力接近 $3 9 2 \\mathrm { U / m g }$ 的木聚糖酶。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/edcb59308fd307ffdef19042a61f04a53583f39d59ae523cb8b5d7abcfa141a9.jpg",
+        "table_caption": [
+            "表2.2木聚糖酶在真菌表达系统中的表达",
+            "Table2.2 Expression of xylanase in fungal expression system "
+        ],
+        "table_footnote": [
+            "注：1）NR表示文献中未做说明"
+        ],
+        "table_body": "<html><body><table><tr><td>木聚糖酶编 号</td><td>基因来源</td><td>蛋白大小</td><td>最适 pH</td><td>最适 温度</td><td>酶比活力</td><td>表达宿 主系统</td><td>表达载体</td><td>启动 子</td><td>信号肽</td><td>酶表达活力</td></tr><tr><td>EC.3.2.1.8</td><td>黑曲 霉 XZ-3S</td><td>34.5KD</td><td>5.0</td><td>45℃</td><td>145.24U/mg</td><td>毕赤酵 母</td><td>pPIC9k</td><td>AOX 1</td><td>Alpha-fat orc</td><td>NR1)</td></tr><tr><td>EC.3.2.1.8</td><td>Thermotoga maritima</td><td>40.0KDa</td><td>6.0</td><td>60℃</td><td>NR</td><td>毕赤酵 母</td><td>pAo815</td><td>AOX 1</td><td>PHO5、 a-factor</td><td>8000 U/mL</td></tr><tr><td>NR</td><td>黑曲霉菌株 IME-216</td><td>35.0KD</td><td>6.0</td><td>40℃</td><td>NR</td><td>GS115 酿酒酵 母YS2</td><td>pUG6</td><td>PGK</td><td>a-factor</td><td>90000U/mL</td></tr><tr><td>EC.3.2.1.8</td><td>Trichoderma reesei</td><td>21.0KD</td><td>6.0</td><td>60℃</td><td>NR</td><td>毕赤酵 母</td><td>pPICZaA</td><td>AOX</td><td>a-factor</td><td>298U/mL</td></tr><tr><td>EC.3.2.1.8</td><td>黑曲 霉 MC062</td><td>23.0KD</td><td>3.5</td><td>55℃</td><td>NR</td><td>酿酒酵 母</td><td>pYES6/C T</td><td>GAL1</td><td>a-factor</td><td>62.5IU/mL</td></tr><tr><td>NR</td><td>黑曲霉</td><td>24KD</td><td>5.0</td><td>50℃</td><td>NR</td><td>INVSc 1 酿酒酵 母</td><td>pYES2</td><td>GAL1</td><td>a-factor</td><td>7.59U/mL</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3木聚糖酶在植物表达系统中的表达",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物表达系统相较于微生物表达系统具有较高的安全性，以植物为表达系统产生木聚糖酶，这样的转基因植物可以直接作为饲料被动物食用，易于储存和运输，生产规模大，成本低等优势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1992 年Laliberte[55]首次 以酵母为来源的木聚糖酶基因转移到烟草植株中，发现基因组中的内含子可以在烟草植株中被剪接，说明该木聚糖酶基因可以在植物中转录，但是并没有做后续实验。随后在 1995 年Herbers[56,57]等实现了木聚糖酶在烟草中的异源表达，并且在烟草的叶片和根际分泌物中检测到木聚糖酶的活性。2000年HungYJ[58]等人将油体蛋白基因oleosin 和来源于水生生物中提取的木聚糖酶基因进行融合之后转化到油菜中，实现了木聚糖酶的表达。同年有研究人员将经过特异性诱导的 xynA 在大麦的种子中进行表达，但是在长成的植株中并没有发现木聚糖酶，只有在大麦的种子中才发现目的蛋白。2003 年 Kimura[59等人获得 Clostridium thermocellum 中的木聚糖酶基因并整合进入了水稻的基因组中，在水稻的植株体内和水稻的种子中检测到了木聚糖酶活性。2010 年黄莹莹[59]等人将杂合木聚糖酶基因atx导入水稻成熟胚的愈伤组织中，木聚糖酶基因可以在该愈伤组织中得到转录，并且不同水稻植株中的木聚糖酶表达量存在差异。杨培龙博士选择烟草和马铃薯为生物反应器，将来源于橄榄绿链霉菌(Streptomyces olivaceoviridis)A1的高比活木聚糖酶 XYNB 分别转入烟草和马铃薯块茎中，分别获得了具有高酶活力的转基因植株，并且在烟草中表达的木聚糖酶活性达到 $1 7 0 \\mathrm { { I U / g } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【C】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "鲜叶片，这一酶活力水平是目前报道中最高水平，并且转基因烟草可以正常生长，稳定遗传。在马铃薯叶片和块茎中也检测到了木聚糖酶活性，分别为 $9 0 \\mathrm { { I U / g } }$ 鲜叶和 $1 3 \\mathrm { { I U / g } }$ 鲜块茎。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c915f2851c62c9f41e111fc2755fe96efe8d8da7d2fbd4c5c7d49824558785da.jpg",
+        "table_caption": [
+            "表3.1木聚糖酶在植物表达系统中的表达",
+            "Table3.1 Expression of xylanase in plant expression system "
+        ],
+        "table_footnote": [
+            "注：1）NR表示文献中未做说明"
+        ],
+        "table_body": "<html><body><table><tr><td>木聚糖酶 编号</td><td>基因 来源</td><td>蛋白大小</td><td>最适 pH</td><td>最适 温度</td><td>酶比活力</td><td>表达 宿主 系统</td><td>表达载体</td><td>启动子</td><td>信号肽</td><td>酶表达 活力</td></tr><tr><td>EC.3.2.1.8</td><td>橄榄 绿链 霉菌 A1</td><td>胞 内 21.0KD 胞 间 31.0KD</td><td>NR1)</td><td>23℃</td><td>90IU/g鲜叶 片（10IU/g 总蛋白) 13IU/g鲜块 茎</td><td>马铃 薯块 茎</td><td>含有xynB 的组成型和 块茎特异性 植物表达载 体</td><td>马铃薯 Patatin 启动子</td><td>马铃薯 蛋白酶 抑制剂 Ⅱ信号 肤序列</td><td>NR</td></tr><tr><td>EC.3.2.1.8</td><td>橄榄 绿链 霉菌 A1</td><td>21KD</td><td>NR</td><td>25℃</td><td>170IU/g鲜叶 片（23IU/mg 总蛋白）</td><td>烟草</td><td>35S启动子 和 AMV 增 强子的组成 型表达载体</td><td>35S启 动子</td><td>NR</td><td>NR</td></tr><tr><td>NR</td><td>杂合NR 木聚 糖酶 基因</td><td></td><td>NR</td><td>NR</td><td>3.51 U/g鲜 叶片</td><td>水稻 成熟 胚</td><td>pCAMBIA1 301</td><td>CaMV 35S启 动子</td><td>NR</td><td>NR</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "木聚糖酶在食品、饲料、造纸和医药领域都得到了广泛应用，因此有大量学者在探究木聚糖酶的批量生产，筛选出产木聚糖酶菌株并将其进行培养，这样会得到产木聚糖酶活力更高的菌株，从而提高产木聚糖酶的效率，但是人工筛选出的产木聚糖酶菌株在批量生产木聚糖酶方面存在许多的限制，例如菌株自然产生木聚糖酶的产量低，活性弱，且筛选过程工作量大，成本高，耗费时间等弊端。因此随着生物工程技术的不断发展，采用基因工程的方法使木聚糖酶在真核或原核系统中异源表达来解决这些问题，虽然目前酶在真菌或细菌中的异源表达的研究中仍然存在些许的问题，例如以细菌为异源表达系统时细菌内缺少对蛋白修饰的细胞器而且产酶量比较低等缺陷，以真菌为异源表达系统时出现虽有相较于细菌异源表达系统明显的优势，但仍存在外源蛋白过度糖基化阻碍蛋白的分泌和运输，或自身分泌的蛋白对目的蛋白的活性有影响等问题。但是瑕不掩瑜，木聚糖酶的异源表达无疑是今后木聚糖酶批量生产的方向，在越来越多的科研工作者投身到这项研究工作中的时候，这些存在的问题将会被更好的解决。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]高雅君，丁长河．木聚糖酶在食品工业中的应用研究进展[J]．粮食与食品工业,2017(02):32-36",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【C】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]吴金连，薛勇，黎海龙，等．半纤维素侧链降解酶— $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ -葡萄糖醛酸酶的研究进展[J]．新能源进展,2014(05):327-33.[3]DueduKO,French CE.CharacterizationofaCellomonas fimi exoglucanase/xylanase-endoglucanasegenefusionwhichimproves microbial degradationofcellulosic biomassJ]. Enzyme Microb Technol,2016,93-94:113-121.  \n[4]DingC,LiM,HuY.Hgctiiyrouctiofylsebyichiiiis:ratioracteation,iticatiodxylooligosaccharides production[J].IntJBiolcromol,2018,117:72-77.  \n[5]沈骥冬.木聚糖酶 XynAGN16 的酶学特性及热盐适应性改性研究[D].云南师范大学,2016.  \n[6]冯波.木聚糖酶产生菌的筛选、发酵条件优化及其酶学性质研究[D]．湖南农业大学,2016.  \n[7]吴芹.木聚糖酶温度特性的改善及其在总皂苷提取中的应用[D].江南大学,2017.  \n[8]SunnaA,AntranikianG.Xylanolytic enzymes from fungi and bacteria[J]. CritRevBiotechnol,1997,17(1):39-67.  \n[9]冯波.木聚糖酶产生菌的筛选、发酵条件优化及其酶学性质研究[D]．湖南农业大学,2016.  \n[10]范光森.樟绒枝霉耐热木聚糖酶的纯化、性质和应用研究[D].中国农业大学,2014.  \n[11]G.CP,ChoiYH,ChoiYS,etal.AnovelthermostablecellulasefreexylanasestableinbroadrangeofpHfroStreptomcessp.CS428[J]. Process Biochemistry,2013,48(8):1188-1196.  \n[12]AmoreA,ParameswaranB,KumarR,etal.ApplicationofanewxylanaseactivityfromBacilusamyloliquefaciens XR44inbrewer's spent grain saccharification[J].JChem Technol Biotechnol,2015,90(3):573-581.  \n[13]Yousefi-RadN,ShokrgozarMA,BehdaniM,etal.Antigenicassessmentofarecombinant human CD9protein exprssedinprokaryotic expressionsystem[J].Protein Expr Purif,2015,116:139-143.  \n[14]JahangirzadehZ,GfouriH,ajediRH,etal.olecularlongrokaryoticexpresion,purification,tructuralstuidfunctionalimplicationsofHeatSockProtein7(Hsp70)fromRtilusfrisi kutum[J].ItJiolacromol,18,08:798-807.[15]Theron CW,Labuschagne M,GudiminchiR,etal.Abroad-range yeast expresionsystemreveals Arxulaadeninivoransexpresingafungalself-suficientcytochromeP450monooxygenaseasanexcellntwhole-cellbiocatalyst[J].FEMSYeastes,2014,14(4):556-566.  \n[16]Salcedo-SraJE,WardSA,iagini GA.Ayeast expressionsysteforfunctionalandpharmacologicalstudiesof themalariaparasite $\\mathrm { C a } ( 2 ) ( + ) / \\mathrm { H } ( + )$ antiporter[J].Malar J,2012,11:254.  \n[17]RozovSM,PermyakovaNV,DeinekoEV.Main StrategiesofPlantExpressionSystemGlycoengineringforProducingHumanized Recombinant Pharmaceutical Proteins[J]. Biochemistry (Mosc),2018,83(3):215-232.  \n[18]KOTARO KINOSHITA MTT K. Cloning of the xynNB Gene Encoding Xylanase $B$ from Aspergihs niger and Its Expression inAspergillus kawachi[J].  \n[19]Iefuji H,ChinoM,Kato,tal.AcidanasefroyeastCryptococussp.S-2:purfication,characterzation,cloingndsequencing[J]. Biosci Biotechnol Biochem,1996,60(8):1331-1338.  \n[20]BegQK,KapoorM,MahajanL,etal.Microbial xylanasesandtheirindustralapplications:areview[J].ApplMicrobiolBiotechnol,2001,56(3-4):326-38.  \n[21]薛业敏，曹建平，毛忠贵，等．木聚糖酶基因在大肠杆菌中的表达及表达蛋白的纯化[J].无锡轻工大学学报，2003(03):57-61.  \n[2]王磊，蔡蓓，高印，等．枯草芽孢杆菌内切葡聚糖酶和木聚糖酶基因在大肠杆菌中的共表达：中国畜牧兽医学会家禽生态学分会学术研讨会，中国青海西宁,2014[C].  \n[23]刘叔洋.包含黏琼脂芽孢杆菌木聚糖酶基因在大肠杆菌中表达研究[D]．四川农业大学,2014.  \n[24]何瑶，殷欣，吴芹，等．耐热木聚糖酶基因 xynll(EM)在大肠杆菌中的表达[J]．食品与生物技术学报,2016(09):935-940.[25]吴迪.短小芽孢杆菌 NJ-M2来源的木聚糖酶在大肠杆菌中的表面展示及其酶学性质的研究[D]．湖北大学,2016.[26]郝荣华，张晓元，王羽，等．耐热耐碱木聚糖酶在大肠杆菌中的高效分泌表达及酶学性质研究[J].食品与药品，2018(03):168-173.  \n[27]刘雨露，王华广，杜建辉，等．双功能木聚糖酶 Xyn2083的异源表达和酶学性质研究[J].食品与发酵工业:1-9.  \n[28]KustFOgasaraN,oserI,tal.ecopleteeoeseueceoftegam-ositiveacteBcilusubtilis]ure1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【c】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com1997,390(6657):249-256.  \n[29]DaunerM,SauerU.Stoichiometricgrowthmodelforriboflavin-producingBacilussubtilis[J].Biotechnol Bioeng,2001,76(2):132-143.  \n[30]SauerU,aileyE.EtimationofP-toOatioinBacilussubtilisanditsifueneonmaximumboflaviyieldJ]ioteolBioeng,1999,64(6):750-754.  \n[31]Zamboni N,MounceyN,Hohmann HP,etal.Reducing maintenance metabolismbymetabolicengineeringofespirationimprovesriboflavin production by Bacillus subtilis[J].Metab Eng,20o3,5(1):49-55.  \n[32]曹鹏涛，杨丽娜，龚月生，等．应激诱导木聚糖酶基因在枯草芽孢杆菌中表达[J]．西北农业学报,2012(03):55-58.[33]VeraD,SatyanaraanaT.Productioofcellas-freexylanasebyterecombinantBacilussubisditsaplicabilitypaperpulp bleaching[J]. Biotechnol Prog,2013,29(6):1441-1447.  \n[34]HuangX,LiZ,DuC,etalImprovedExpresioandCaracterzationofauidomai Xylaasefro Termonerobacterimaotearoense SCUT27 in Bacillus subtilis[J].JAgric Food Chem,2015,63(28):6430-6439.  \n[35]向亚萍，罗楚平，周华飞，等．枯草芽孢杆菌分泌表达极耐热木聚糖酶及其酶学性质[J].江苏农业学报,2016(05):1037-1042.  \n[36]DalyR,HearMTExpresioofheterologousproteinsinPichia pastoris:ausefulexperimetal tolinproteinenginerngandproduction[J]. JMolRecognit,2005,18(2):119-138.  \n[37]Liu M,Liu G.Expressonofrecombinant Bacillus licheniformis xylnase $A$ in Pichia pastoris and xylooligosaccharides releasedfrom xylans by it[J].Protein Expr Purif,2008,57(2):101-107.  \n[38]ZhangF,ChenJJRenWZ,etal.Cloing,expresion,andcharacterzationofanakalinetermostableGHllylaasfromThermobifida halotolerans YIM946T[J].JIndMicrobiolBiotechnol,2012,39(8):11-16.  \n[39]BerrinJG,WillamsonG,PuigserverA,etal.Hig-levelproductionofrecombinantfungalendo-beta-1,4-xylanasetemethylotrophic yeast Pichia pastoris[J].Protein Expr Purif,20o0,19(1):179-187.  \n[40]韩双艳，林小琼，张溪，等．枯草芽孢杆菌 B2(Bacilus subi B2)木聚糖酶在毕赤酵母中的表达[J].现代食品科技,2009(08):872-876.  \n[41]高赫，单安山．黑曲霉木聚糖酶基因 XynB 在毕赤酵母中的表达和酶学性质的分析：中国畜牧兽医学会动物营养学分会第七届中国饲料营养学术研讨会，中国河南郑州,2014[C].  \n[42]吴金连，薛勇，黎海龙，等．东方肉座菌GH10 家族木聚糖酶基因的克隆及异源表达[J].生物学杂志,2015(05):1-6.[43]周晨妍，刘振华，王丹丹，等．产木聚糖酶毕赤酵母工程菌株构建及表达条件优化研究[J].食品工业科技,2016(13):162-167.  \n[44] 韩瑞祥.来自嗜热子囊菌的耐热重组木聚糖酶在巴斯德毕赤酵母中的异源表达[D].安徽医科大学,2017.  \n[45]LuY,Zhong H,Tang Q,tal.Constructionand verificationofCYP3A5gene polymorphismsusingaSaharomyeserevisiaeexpression system to predict drug metabolism[J]. Mol Med Rep,2017,15(4):1593-1600.  \n[46]Wang HY,XiaoDF,Zhou C,etal.YLL056Cfrom Sacharomcescerevisiaeencodesanovel protein withaldehydereductaseactivity[J].ApplicrobiolBiotechnol,2017,101(11):4507-40  \n[47]李海燕，毛爱军，何永志，等．黑曲霉糖化酶和木聚糖酶基因在工业用酿酒酵母中的共表达[J].菌物学报,2004(04):494-501.  \n[48]BielyP,schJ,laGrangeDC,etal.Achromogenicubstrateforabeta-xylosidasecoupledayoflpha-gucurodse[J].Anal Biochem,2000,286(2):289-294.  \n[49]NuyensF,aZylWH,IserentantD,etal.Heterolgos expressionof theBaciluspumilusndbet-xylnase(xyAgeneinthe yeast Saccharomyces cerevisiae[J].ApplicrobiolBiotechnol,201,56(3-4):431-434.  \n[50]张水龙，陈东，曹树威，等．黑曲霉木聚糖酶基因 xynB 的克隆及在酿酒酵母中的表达[J].广西科学,2013(02):148-151.[51]兰雪，张斯童，李哲，等．微滴数字 PCR 技术在多拷贝木聚糖酶酿酒酵母工程菌筛选中的应用[J].食品科学,2018(10):179-184.  \n1）收稿日期：2018-12-10，修回日期：2019-01-15  \n2）资助项目：吉林省秸秆综合利用技术创新平台，2014【c】-1  \n3）\\*通讯作者：陈光，教授，博士生导师，主要研究方向为秸秆综合利用，邮箱地址：chg61@163.com[52]YaverDS,amsaM,undsR,etal.UsingD-taggedutagensis timproeheterologousproteiproductionispilsoryzae[J]. Fungal Genet Biol,2000,29(1):28-37.  \n[53]MantylaA,PaloheoM,HakolaS,etal.ProuctioninTricodermareeseioftreeylanasesfroChaetomumteroum:arecombinant thermoxylanase for biobleaching of kraft pulp[J].Appl Microbiol Biotechnol,20o7,76(2):377-386.  \n[54]王红霞，王华明，张大龙，等．葡萄穗霉木聚糖酶 XYA6205 在黑曲霉中的表达及酶学特性分析[J].生物技术通报,2013(02):130-134.  \n[5]LaliberteJF,NcolasO,DurandS,tal.TheylanaseintronsfroCryptococcusalbidusareaccuratelysplicedintragenictobacco plants[J].Plant Mol Biol,1992,18(3):447-451.  \n[56]KomasksjuksjukLGetaructioofoaproteisibacouatiofidJ]tiol2000,124(3):927-934.  \n[57]BorisjukNV,BorisjukLG,LogendraS,etal.Productionofrecombinantproteinsinplantotexudates[J].Natiotechol,1999,17(5):466-469.  \n[58]HungYJPengCCTzenJetal.Imobilzationofocalimastixpatriciaruyanaseoartificialoiloiesdsatisticaloptimization of enzyme activity[J]. Bioresour Technol,2008,99(18):8662-8666.  \n[59]KimuraT,MizutaniT,TanakaT,etal.MolecularbredingoftransgencrceexpressngaxyanasedomainofthexyAgenefromClostridium thermocelum[J].Appl Microbiol Biotechnol,2003,62(4):374-379.  \n[60]黄莹莹.外源木聚糖酶基因 $a t x$ 在水稻中的表达及其转基因后代特性研究[D]．浙江大学,2010.  \n[61]杨培龙.来源于橄榄绿链霉菌A1的高比活木聚糖酶在植物中的高效表达[D].中国农业科学院,2005.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

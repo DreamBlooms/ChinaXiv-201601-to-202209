@@ -1,0 +1,403 @@
+# The Measure for the Multiverse and the Probability for Inflation
+
+Miao Li $^ { 1 , 2 }$ , Yi Wang $^ { 2 , 1 }$
+
+$^ { 1 }$ The Interdisciplinary Center for Theoretical Study
+
+of China (USTC), Hefei, Anhui 230027,P.R.China
+
+（204号 $^ 2$ Institute of Theoretical Physics, Academia Sinica, Beijing 100080, P.R.China
+
+# Abstract
+
+We investigate the measure problem in the framework of inflationary cosmology. The measure of the history space is constructed and applied to inflation models. Using this measure, it is shown that the probability for the generalized single field slow roll inflation to last for $N$ e-folds is suppressed by a factor （204号 $\exp ( - 3 N )$ ，and the probability for the generalized $n$ -field slow roll inflation is suppressed by a much larger factor $\exp ( - 3 n N )$ . Some non-inflationary models such as the cyclic model do not suffer from this difficulty.
+
+# 1 Introduction
+
+It is claimed that our vacuum is one of the $1 0 ^ { 5 0 0 }$ possible meta-stable vacua in the string theory landscape [1]. If this is true, then the physical parameters labeling which vacuum we are living in can not be calculated from the first principle. Theoretically, these parameters may only be explained by some anthropic reasoning [2], or by pure chance.
+
+From the cosmological point of view, in the framework of eternal inflation [3], the vast landscape of vacua is not only a logic possibility but also the reality. If we demand that our observable universe is not too special in the multiverse, in principle, we can make predictions in the multiverse by calculating the probability of the corresponding universe history.
+
+A serious problem arises at this point.A measure of the history space is essentially needed in order to compare different histories of the universe. But in general relativity, it is not straightforward to construct such a measure. It is because there is no preferred space slicing and time notation in general relativity, and singularities commonly arise in the cosmic solutions. Even in the much simplified Friedmann-Robertson-Walker universe, the measure problem is not easy to solve. The construction of a measure of the history space is considered as one of the central problems in cosmology. Attempts for this problem can be found in [4, 5].
+
+To analyze this problem in detail, let us construct the history space of the universe and discuss the measure. In general relativity, all the trajectories in the phase space should lie on the hypersurface $\mathcal { H } ^ { - 1 } ( 0 )$ due to the Hamiltonian constraint $\mathcal { H } = 0$ . Now we want to consider the history space, where a trajectory is represented by a single point. So we have to identify the points in $\mathcal { H } ^ { - 1 } ( 0 )$ which can be linked by the time evolution. Then, the history space,or the multiverse, takes the form
+
+$$
+M = \mathcal { H } ^ { - 1 } ( 0 ) / \mathbb { R } .
+$$
+
+The next step is to construct a measure on the history space. To make sense and to be natural in physics, a measure of the history space should satisfy three conditions [4,6]: (i) It should be positive. (ii) It should depend only on the intrinsic dynamics and neither on any choice of time slicing nor on the choice of dependent variables. (iii) It should respect all the symmetries of the space of solutions.
+
+A measure of the history space satisfying these three requirements can be constructed from the phase space symplectic form [4, 6, 7]. The symplectic form of the phase space $\omega$ can be written in terms of the canonical coordinates and momenta as
+
+$$
+\omega = \sum _ { i = 1 } ^ { m } d p _ { i } \wedge d q ^ { i } .
+$$
+
+where $m$ is the number of canonical coordinates.
+
+If we choose $p _ { m } = \mathcal { H }$ ， then from the Hamilton's equations, $q ^ { m } = t$ is the time coordinate. And the symplectic form (2) can be written as
+
+$$
+\omega = \sum _ { i = 1 } ^ { m - 1 } d p _ { i } \wedge d q ^ { i } + d { \mathcal { H } } \wedge d t .
+$$
+
+The Hamiltonian constraint $\mathcal { H } = 0$ naturally yields a two-form transverse to the time evolution. This is the two-form in the history space,
+
+$$
+\omega _ { \cal C } \equiv \omega \vert _ { \varkappa = 0 } = \sum _ { i = 1 } ^ { m - 1 } d p _ { i } \wedge d q ^ { i } .
+$$
+
+The measure of the history space can be constructed by raising $\omega _ { C }$ to the $( m - 1 ) \mathrm { t h }$ power,
+
+$$
+\Omega _ { { \cal M } } \equiv \frac { ( - 1 ) ^ { ( m - 1 ) ( m - 2 ) / 2 } } { ( m - 1 ) ! } \omega _ { \cal C } ^ { m - 1 } .
+$$
+
+Note that $\Omega _ { M }$ is an exact form. It can be globally written as $\Omega _ { M } \sim d A$ with
+
+$$
+A \equiv p _ { 1 } d q ^ { 1 } \wedge \sum _ { i = 2 } ^ { m - 1 } d p _ { i } \wedge d q ^ { i } .
+$$
+
+This measure of the history space can be applied to the inflationary cosmology in determining the probability of inflation. At first, it was believed that the canonical measure favors inflation [6]. But soon it is realized that both inflationary and noninflationary history have infinite measure [8]. So the measure problem in cosmology remained unsolved.
+
+Recently， Gibbons and Turok [4] suggested a solution to this measure problem. They noticed that a universe with a very smal spacial curvature at the present time can not be distinguished from a flat one. So physically, it makes sense to cut off the history space by identifying a universe with a very small spacial curvature with a flat universe. As was shown in [4], the measure for some quantities, like the spacial curvature, is cutoff dependent， and dominated by the cutoff. While the measure for some other quantities, for example, the e-folding number of inflation, is cutoff independent. So by applying this cutoff, the question whether a N e-folds' inflation is natural can be well defined, and investigated explicitly. It is shown that the history space volume for slow roll inflation is suppressed by a factor of $\exp ( - 3 N )$ ，where $N$ is the e-folding number.
+
+The work [4] concentrates on a single feld minimal coupled inflation model. There is a vast variety of inflation models in addition to a single inflaton model, thus it is interesting to ask how other models weigh in this measure. Some of the inflation models involve a modified Lagrangian density other than the minimal one, some involve multi-fields and some modify the Einstein gravity. We want to know whether these inflation models are also suppressed for a large e-folding number. An investigation of these models is the main task of this paper.
+
+This paper is organized as follows. In Section 2，we review the approach by Gibbons and Turok [4] for gravity minimally coupled to a scalar field. It is shown that the inflation probability can be calculated directly as a function of $N$ . In Section 3, we discuss the measure for the scalar field with a more general Lagrangian. We find that in this generalized case, the measure for the slow roll inflationary history is suppressed by exactly the same factor $\exp ( - 3 N )$ . In Section 4, we consider the multifield inflation. It can be shown that with the assumption of slow roll for the Hubble constant, the measure is a lot more suppressed by the exponential factor $\exp ( - 3 n N )$ ， where $n$ is the number of inflaton fields. So it seems much more unnatural for multifield inflation to happen. In Section 5, we investigate the generalized Lagrangian for multi-field inflation. We find that the generalization of the Lagrangian can not solve the measure problem raised in Section 4. Finally, we summarize the paper in the last section.
+
+# 2 Single Field Inflation Models
+
+In this section, we consider a single scalar field minimally coupled with gravity with the action
+
+$$
+S = \int d ^ { 4 } x { \mathcal N } \left( - 3 a ( { \mathcal N } ^ { - 2 } \dot { a } ^ { 2 } - k ) + \frac 1 2 a ^ { 3 } { \mathcal N } ^ { - 2 } \dot { \varphi } ^ { 2 } - a ^ { 3 } V ( \varphi ) \right) ,
+$$
+
+where $\mathcal { N }$ is the lapse function,and $k = 0 , \pm 1$ represents the spacial curvature, and dot denotes the derivative with respect to time. For simplicity， we have set $M _ { p } ^ { 2 } \equiv$ $1 / ( 8 \pi G ) = 1$ ：
+
+By varying the action with respect to the lapse function $\mathcal { N }$ ，we obtain the Friedmann equation
+
+$$
+3 H ^ { 2 } = \frac { 1 } { 2 } \dot { \varphi } ^ { 2 } + V ( \varphi ) - \frac { 3 k } { a ^ { 2 } } ,
+$$
+
+where after the variation, we have set $\mathcal { N } = 1$ . Varying the action with respect to $\varphi$ （204 leads to the scalar field equation of motion
+
+$$
+\ddot { \varphi } + 3 H \dot { \varphi } + V _ { \varphi } = 0 ,
+$$
+
+where the subscript $\varphi$ in $V$ denotes derivative with respect to $\varphi$
+
+From the time derivative of (8) and using (9),we get
+
+$$
+\dot { H } = - \frac { 1 } { 2 } \dot { \varphi } ^ { 2 } + \frac { k } { a ^ { 2 } } .
+$$
+
+To construct the history space，we need to slice the $\mathcal { H } = 0$ hypersurface of the phase space. A good way to do this is to choose a constant $H$ surface $H = H _ { S }$ as a slicing [4]，where $H _ { S }$ is chosen low enough that it just above the end of inflation and the universe evolves adiabatically from then on. To choose a constant $H$ slice is because for the flat or open universe, and non-negative potential $V ( \varphi )$ , each history trajectory crosses a constant $H$ surface exactly once. And the reason for choosing $H$ low enough is that only this choice can result in a cutoff independent measure of e-folds,and this choice is in agreement with the anthropic “top down” approach to cosmology [9].
+
+On a constant $H$ surface, the measure for the history space takes the form
+
+$$
+\int _ { H _ { S } } \Omega _ { M } \sim \int _ { H _ { S } } d p _ { \varphi } \wedge d \varphi ,
+$$
+
+where $p _ { \varphi } \equiv a ^ { 3 } \dot { \varphi }$ denotes the canonical momentum for $\varphi$ . It can be calculated that
+
+$$
+\int _ { H _ { S } } \Omega _ { M } \sim \int _ { H _ { S } } d \varphi d a ~ 3 a ^ { 2 } { \frac { 6 H _ { S } ^ { 2 } - 2 V + 4 k a ^ { - 2 } } { \sqrt { 6 H _ { S } ^ { 2 } - 2 V + 6 k a ^ { - 2 } } } } .
+$$
+
+A divergence occurs in the large $a$ limit of (12).This is the infinity discovered in [8]. Following [4]， we set a cutoff for the spacial curvature to critical density ratio （204号 $\Omega _ { k } \equiv - k / ( a ^ { 2 } H _ { S } ^ { 2 } )$ as
+
+$$
+| \Omega _ { k } | \geq \Delta \Omega _ { k } ,
+$$
+
+The cutoff makes sense physically because a small enough $\Omega _ { k }$ is neither geometrically meaningful nor physically observable. As we are working on a constant $H _ { S }$ surface, the cutoff can be translated into the cutoff of the scale factor
+
+$$
+a ^ { 2 } \leq a _ { \mathrm { m a x } } ^ { 2 } \equiv \frac { 1 } { \Delta \Omega _ { k } H _ { S } ^ { 2 } } .
+$$
+
+Recall that $\Omega _ { M } = d A$ ，The measure can be reduced to a surface integral around a constant $a$ surface of the constant $H _ { S }$ history space,
+
+$$
+\int _ { H _ { S } } \Omega _ { M } = \int _ { \partial H _ { S } } A = \int _ { \partial H _ { S } } p _ { \varphi } d \varphi = a _ { \mathrm { m a x } } ^ { 3 } \int _ { \partial H _ { S } } \dot { \varphi } d \varphi .
+$$
+
+To investigate the probability distribution for inflation， now concentrate on an history space volume element $A \sim \dot { \varphi } \Delta \varphi$ . Where we have dropped the $a _ { \mathrm { m a x } } ^ { 3 }$ term as it is a constant. Since the variation operation $\Delta$ is taken on a constant $H$ surface, it is convenient to convert the time derivative $\partial _ { t }$ to the derivative with respect to the Hubble constant $\dot { O } _ { H }$ ，using
+
+$$
+\partial _ { t } = \dot { H } \partial _ { H } = - { \frac { 1 } { 2 } } \dot { \varphi } ^ { 2 } \partial _ { H } .
+$$
+
+Then we can take the advantage that $\dot { \boldsymbol { O } } _ { H } \cdot \boldsymbol { \Delta } = \boldsymbol { \Delta } \cdot \dot { \boldsymbol { O } } _ { H }$
+
+Note that $H$ do not change when we move on the history space. Then the equation (8)leads to a constraint for the history space variation
+
+$$
+\dot { \varphi } \Delta \dot { \varphi } + V _ { \varphi } \Delta \varphi = 0 ,
+$$
+
+Given this constraint, the Hubble evolution for $A$ can be calculated as
+
+$$
+\partial _ { H } A = - { \frac { 3 H } { \dot { H } } } A .
+$$
+
+where we have neglected the spatial curvature energy density, because it have to be small during the last e-folds of inflation.
+
+Note that for the e-folding number $N$ ， $- H = \partial _ { t } N = \dot { H } \partial _ { H } N$ ， the equation (18) takes the form
+
+$$
+\partial _ { H } A = 3 A \partial _ { H } N ,
+$$
+
+which can be integrated out to give
+
+$$
+A = e ^ { 3 N } A ( H _ { S } ) .
+$$
+
+The above equation tells us that as we stand at the end of inflation and track backwards with time, a volume in the history space expands exponentially. In order not to break the slow roll condition along the whole 6O e-folds’ inflation, The volume element $A$ must lie in a exponentially narrow corner in the constant $H _ { S }$ history space. So the probability for inflation is suppressed by the $\exp ( - 3 N )$ factor. This suppression shows that inflation is not as natural as we intuitively think. It may have not solved the naturalness problems of the hot big bang cosmology because of its unnatural nature, or there remains some unknown mechanism to produce a exponentially sharp peak for the possibility distribution of the history space.
+
+# 3 Generalized Single Field Models
+
+In this section,we consider the action
+
+$$
+S = \int d ^ { 4 } x \mathcal { N } \left\{ - 3 a \mathcal { N } ^ { - 2 } \dot { a } ^ { 2 } + a ^ { 3 } f \left( \varphi , \mathcal { N } ^ { - 1 } \dot { \varphi } \right) \right\} .
+$$
+
+A good many inflation models can be described using this action. For example, K-Inflation [10], Phantom Inflation [11], Inflation driven by the brane DBI action [12, 13], etc.
+
+Choosing $\varphi$ as a canonical coordinate and using the proper time, the canonical momentum for $\varphi$ takes the form
+
+$$
+p = \pi a ^ { 3 } , \quad { \mathrm { w h e r e ~ } } \pi \equiv f _ { \dot { \varphi } } .
+$$
+
+Take variation with respect to $\mathcal { N }$ and $\varphi$ , one obtains
+
+$$
+3 H ^ { 2 } = \dot { \varphi } \pi - f , \quad \dot { \pi } + 3 H \pi - f _ { \varphi } = 0 , \quad \dot { H } = - \frac { 1 } { 2 } \dot { \varphi } \pi .
+$$
+
+Using (23), the constraint for the variation in the history space can be written as
+
+$$
+\dot { \varphi } \Delta \pi = f _ { \varphi } \Delta \varphi .
+$$
+
+And using the definition of $\pi$ ，we have the variation relation
+
+$$
+\Delta \dot { \varphi } = f _ { \dot { \varphi } \dot { \varphi } } ^ { - 1 } ( \Delta \pi - f _ { \dot { \varphi } \varphi } \Delta \varphi ) .
+$$
+
+where we have assumed that $f _ { \dot { \varphi } \dot { \varphi } } \not = 0$ , in order that $\varphi$ can be treated as a dynamical degree of freedom.
+
+Now we take the cutoff as discussed in the last section, and reduce the integration of the history space to the boundary integration
+
+$$
+\int _ { H _ { S } } \Omega _ { M } = \int _ { \partial H _ { S } } A = \int _ { \partial H _ { S } } p d \varphi = a _ { \mathrm { m a x } } ^ { 3 } \int _ { \partial H _ { S } } \pi d \varphi .
+$$
+
+Then it can be calculated that the variation of the volume element in the history space $A \sim \pi \Delta \varphi$ evolves along the constant $H$ surfaces as
+
+$$
+\partial _ { H } A = - \frac { 3 H } { \dot { H } } A = 3 A \partial _ { H } N
+$$
+
+So the conclusion is exactly the same as that of the last section. In order to get $N$ e-folds’ slow roll inflation， the volume element in the history space should be exponentially fine turned.
+
+It should be noticed that in this general case, there is the possibility that even the history evolution is not slow rolling, accelerated expansion with a large e-folding number can be achieved in models such as the Kfation or the phantom inflation. But it is difficult to get a scale invariant perturbation spectrum if the slow roll condition is not satisfied [11].
+
+# 4 Multi-Field Inflation Models
+
+Multi-field inflation models take an important part in the inflationary model building. In string theory, there can be a number of scalar fields at the inflation scale. Phenomenally, in multi-field models, slow roll condition is less stringent and can be satisfied in more models [14]. Moreover, there are interesting inflation models, like the hybrid inflation model [15], which requires essentially more than one field. So it is useful to study the measure for multi-field inflation and investigate the corresponding probability.
+
+The action for the multi-field inflation takes the form
+
+$$
+S = \int d ^ { 4 } x \mathcal { N } \left( - 3 a \mathcal { N } ^ { - 2 } \dot { a } ^ { 2 } + \frac { 1 } { 2 } a ^ { 3 } \mathcal { N } ^ { - 2 } \dot { \varphi _ { i } } ^ { 2 } - a ^ { 3 } V ( \varphi _ { i } ) \right) ,
+$$
+
+where the duplicate index $i$ is summed over the $n$ scalar fields.
+
+Choosing to use the proper time, the canonical momentum for $\varphi _ { i }$ is $p _ { i } \equiv a ^ { 3 } \dot { \varphi } _ { i }$ And the equations of motion takes the form
+
+$$
+3 H ^ { 2 } = \frac { 1 } { 2 } \dot { \varphi } _ { i } ^ { 2 } + V , \dot { H } = \frac { 1 } { 2 } \dot { \varphi } _ { i } ^ { 2 } , \ddot { \varphi } _ { i } + 3 H \dot { \varphi } _ { i } + V _ { \varphi _ { i } } = 0 .
+$$
+
+The constraint for constant $H _ { S }$ variation is
+
+$$
+\dot { \varphi } _ { i } \Delta \dot { \varphi } _ { i } + V _ { \varphi _ { i } } \Delta \varphi _ { i } = 0 .
+$$
+
+It can be checked by direct calculation that $\dot { \boldsymbol { O } } _ { H } \cdot \Delta = \Delta \cdot \dot { \boldsymbol { O } } _ { H }$ is also true operating on （204号 $\dot { \varphi } _ { i }$ . In this multi-field case
+
+$$
+A \sim \dot { \varphi } _ { 1 } \Delta \varphi _ { 1 } \wedge \Delta \dot { \varphi } _ { 2 } \wedge \Delta \varphi _ { 2 } \wedge . . . \wedge \Delta \dot { \varphi } _ { n } \wedge \Delta \varphi _ { n } .
+$$
+
+Using the constraint (30),each term in $\partial _ { H } A$ is proportional to $A$ ，and $\partial _ { H } A$ turns out to be
+
+$$
+\partial _ { H } A = 3 n \left\{ 1 - \frac { 1 } { 3 n } \left( 2 \frac { \ddot { \varphi } _ { 1 } } { H \dot { \varphi } _ { 1 } } - \frac { \ddot { H } } { H \dot { H } } \right) \right\} A \partial _ { H } N .
+$$
+
+In a multi-field inflation model, $\ddot { H } / ( H \dot { H } )$ should also be small and rolling slowly as in the single field case. If one assumes that $\ddot { \varphi } _ { 1 } / ( H \dot { \varphi } _ { 1 } )$ is also small and slow rolling, then the integration can be carried out as
+
+$$
+A = e ^ { 3 n N } A ( H _ { S } ) ,
+$$
+
+which shows that the departure from slow-roll evolves much faster than that in the single field case. As a result, multi-field inflation is much more unnatural then the single-field inflation with a much smaller measure in the history space. This result is not surprising. It is because from the first equation in (29), the Hubble constant has contribution from the energy density of all inflation fields. While from the third equation in (29), the Hubble constant appears as a friction in the evolution of each single inflaton field. So in the multi-field inflation case, the friction of each single field is contributed by all the fields,and the history space for slow roll inflation is much more concentrated then the single field models
+
+As analyzed in [16], $| \ddot { \varphi } _ { 1 } / ( H \dot { \varphi } _ { 1 } ) | \ll 1$ may break down in some multi-field inflation models. Now let's see whether a fast rolling $\dot { \varphi } _ { 1 }$ can result in something more natural.
+
+If we want $\ddot { \varphi } _ { 1 } / ( H \dot { \varphi } _ { 1 } )$ to cancel the exponential expansion of the history space volume,we need
+
+$$
+\frac { \ddot { \varphi } _ { 1 } } { \dot { \varphi } _ { 1 } } \geq \frac { 3 n } { 2 } H ,
+$$
+
+which amounts to demanding that $| \dot { \varphi } _ { 1 } / a ^ { 3 n / 2 } |$ increases with time. As $n \geq 2$ ， $| \dot { \varphi } _ { 1 } |$ must be increasing faster than $a ^ { 3 }$ to make this cancellation possible. And this cancellation need to be valid along the whole 6O e-folds of inflation. It seems impossible for $\dot { \varphi } _ { 1 }$ to behave like this. So even a fast rolling $\dot { \varphi } _ { 1 }$ can not make the situation more natural.
+
+A few words are in order here. We have picked a specific field $\varphi _ { 1 }$ out of many other fields in studying the measure, this is just the result of integrating out $p _ { \varphi _ { 1 } }$ ， namely, we have allowed $\dot { \varphi } _ { 1 }$ to vary as much as possible. We could have picked out another field, then we would be discussing the differential measure in a different region on the history space.
+
+Now we see that the multi-field inflation is even more impossible than the single field inflation. Then, if for anthropic principle or some other reasons that a 6O e-folds' inflation has to have happened in our history, it should be single field inflation rather than multi-field inflation, because the latter has much smaller measure.
+
+# 5 Generalized Multi-Field Models
+
+In this section, we do the generalizations one step further to consider the action
+
+$$
+S = \int d ^ { 4 } x \mathcal { N } \left\{ - 3 a \mathcal { N } ^ { - 2 } \dot { a } ^ { 2 } + a ^ { 3 } f \left( \varphi _ { i } , \mathcal { N } ^ { - 1 } \dot { \varphi } _ { i } \right) \right\} ,
+$$
+
+which has the features of the actions in both Section 3 and Section 4.
+
+Using the proper time, the canonical momentum for $\varphi$ takes the form
+
+$$
+p _ { i } = \pi _ { i } a ^ { 3 } , \quad \mathrm { w h e r e } ~ \pi _ { i } \equiv f _ { \dot { \varphi } _ { i } } ,
+$$
+
+withthe equations of motion
+
+$$
+3 H ^ { 2 } = \dot { \varphi } _ { i } \pi _ { i } - f , \quad \dot { \pi } _ { i } + 3 H \pi _ { i } - f _ { \varphi _ { i } } = 0 , \quad \dot { H } = - \frac { 1 } { 2 } \dot { \varphi } _ { i } \pi _ { i } .
+$$
+
+and the constraint for the history space variation
+
+$$
+\dot { \varphi } _ { i } \Delta \pi _ { i } = f _ { \varphi _ { i } } \Delta \varphi _ { i } .
+$$
+
+We assume that the matrix $f _ { { \dot { \varphi } } _ { i } { \dot { \varphi } } _ { j } }$ has inverse matrix. This should be true when al the constraints in (35) are solved and $\varphi _ { i }$ only denotes the dynamical degree of freedom. We use $f ^ { \dot { \varphi } _ { i } \dot { \varphi } _ { j } }$ as the inverse matrix of $f _ { { \dot { \varphi } } _ { i } { \dot { \varphi } } _ { j } }$ Then it can be shown that
+
+$$
+\Delta \dot { \varphi } _ { i } = f ^ { \dot { \varphi } _ { i } \dot { \varphi } _ { j } } ( \Delta \pi _ { j } - f _ { \dot { \varphi } _ { j } \varphi _ { k } } \Delta \varphi _ { k } ) .
+$$
+
+In this generalized case,
+
+$$
+A \sim \pi _ { 1 } \Delta \varphi _ { 1 } \wedge \Delta \pi _ { 2 } \wedge \Delta \varphi _ { 2 } \wedge \ldots \wedge \Delta \pi _ { n } \wedge \Delta \varphi _ { n } .
+$$
+
+using the same technique developed in Section 3 and Section 4, one finds
+
+$$
+\begin{array} { r c l } { { \partial _ { H } A } } & { { = } } & { { \displaystyle \left\{ - \frac { 3 n H } { \dot { H } } + \frac { \dot { \pi } _ { 1 } } { \dot { H } \pi _ { 1 } } + \frac { f ^ { \dot { \varphi } _ { 1 } \dot { \varphi } _ { i } } \dot { \pi } _ { i } } { \dot { \varphi } _ { 1 } \dot { H } } + \frac { \dot { \varphi } _ { i } \dot { \pi } _ { i } } { 2 \dot { H } ^ { 2 } } + \frac { \pi _ { i } f ^ { \dot { \varphi } _ { i } \dot { \varphi } _ { k } } \dot { \pi } _ { k } } { 2 \dot { H } ^ { 2 } } \right. } } \\ { { } } & { { } } & { { \displaystyle \left. - \frac { f ^ { \dot { \varphi } _ { 1 } \dot { \varphi } _ { j } } f _ { \dot { \varphi } _ { j } \varphi _ { k } } \dot { \varphi } _ { k } } { \dot { H } \dot { \varphi } _ { 1 } } - \frac { \pi _ { i } f ^ { \dot { \varphi } _ { i } \dot { \varphi } _ { j } } f _ { \dot { \varphi } _ { j } \varphi _ { k } } \dot { \varphi } _ { k } } { 2 \dot { H } ^ { 2 } } \right\} A } } \end{array}
+$$
+
+To see the implications of this equation, let us concentrate on the double field inflation models. It is because it seems more diffcult to cancel the $- \frac { 3 n H } { \dot { H } }$ term for lager $n$ . Lagrangian densities like $f = g ( \varphi _ { 1 } ) \dot { \varphi } _ { 1 } ^ { 2 } + h ( \varphi _ { 2 } ) \dot { \varphi } _ { 2 } ^ { 2 }$ are not of special interest here,because they can be transformed into the case discussed in Section 4 by a field redefinition. As another example, let us consider the Lagrangian density
+
+$$
+f = f \left( \varphi _ { 1 } , \varphi _ { 2 } , \frac { 1 } { 2 } ( \varphi _ { 1 } ^ { 2 } + \varphi _ { 2 } ^ { 2 } ) \right) ,
+$$
+
+in this case, the equation (41) takes the form
+
+$$
+\partial _ { H } A = - 6 A \left\{ 1 - \frac { 1 } { 6 } \left( 2 \frac { \ddot { \varphi } _ { 1 } } { H \dot { \varphi } _ { 1 } } + \frac { \dot { f } ^ { \prime } } { H f ^ { \prime } } - \frac { \ddot { H } } { H \dot { H } } \right) \right\} \partial _ { H } N ,
+$$
+
+where
+
+$$
+f ^ { \prime } \equiv \frac { \partial f } { \partial \left[ \frac { 1 } { 2 } ( \dot { \varphi } _ { 1 } ^ { 2 } + \dot { \varphi } _ { 2 } ^ { 2 } ) \right] } .
+$$
+
+So a fast rolling $f ^ { \prime } \dot { \varphi } _ { 1 } ^ { 2 }$ is required to cancel the exponential expansion of the volume of the history space.
+
+To see the physical implications for this condition， consider the DBI inflation model by [13]. The action of the DBI inflation model is given by
+
+$$
+S _ { \mathrm { D B I } } = - \int d ^ { 4 } x \left\{ \tilde { f } ^ { - 1 } \left( \sqrt { 1 - \tilde { f } \dot { \varphi } ^ { 2 } } - 1 \right) + V ( \varphi ) \right\}
+$$
+
+where the angular motion of $\varphi _ { i }$ has been ignored, so $\dot { \varphi } ^ { 2 } \equiv \dot { \varphi } _ { i } ^ { 2 }$ . Then $f ^ { \prime } = 1 / \sqrt { 1 - \tilde { f } \dot { \varphi } ^ { 2 } } \equiv$ （204 $\gamma$ is just the relativistic factor defined in [13]. From the spectral index
+
+$$
+n _ { s } - 1 = 4 { \frac { \dot { H } } { H ^ { 2 } } } - 2 { \frac { \ddot { H } } { H \dot { H } } } + 2 { \frac { \ddot { \varphi } } { H \dot { \varphi } } } - 2 { \frac { \dot { \gamma } } { H \gamma } } ,
+$$
+
+We conclude that $\gamma$ should not be a fast rolling quantity along the whole history of observable inflation. Moreover, from the equation $\dot { H } = - \gamma \dot { \varphi } ^ { 2 } / 2$ ， we see again that $\gamma$ can not be large for a long time during inflation. So the cancellation of the $e ^ { - 3 n N }$ （20 factor can not be obtained.
+
+# 6 Conclusion and Discussions
+
+In this paper, we have reviewed the measure problem in cosmology. We calculated the measure and the probability for inflation in single and multi-field models with generalized Lagrangian density. It is shown that the measure for the single field inflation and the corresponding generalizations are suppressed by a factor of $\exp ( - 3 N )$ . While the $n$ -field and generalized multi-field inflation models has a measure proportional to $\exp ( - 3 n N )$ ：
+
+This work can be understood in another way. Taking apart the discussion for the measure and the slow roll condition, other parts of this paper can be thought of as a proof of the attractor behavior of various kinds of generalized inflation models. On the one hand, it is a proof that the attractor behavior is very common in inflationary models. While on the other hand, to take the measure into consideration, we see that it is far from obvious for an attractor to be a natural solution in cosmology. And it is just this early time attractor combined with the requirement of slow roll that puts inflation into a highly unnatural situation.
+
+We did not study explicitly the inflation models with non-minimal coupling to gravity [17]. But these models do not seem to bring large correction for the suppression factor. It is because through conformal transformation, these non-minimal coupled models are generally equivalent with the corresponding minimal coupled infation models with the same number or one more inflation fields. Another reason not to consider these models in this work is that, as the energy scale commonly drops during inflation, near the end of inflation, the non-minimal coupling effect may not be so important.
+
+There are also infation models with extra components or special spacetime properties. Examples of this kind are inflation with holographic dark energy [18,19] or in the non-commutative spacetime [20, 21, 22]. These models do not seem to change the results much either. Because in the former example, the holographic dark energy is diluted during inflation so do not seem to cause large corrections near the end of inflation. In the latter case,although the spectrum for perturbations is greatly modified in the non-commutative spacetime, the isotropic and homogeneous inflating background do not change much because it belongs to a lower energy scale. So the corrections to the probability can not be large.
+
+As a closing remark,we noticed that some non-inflationary models do not share the small measure problem. One example is the cyclic universe model [23]. Although the cyclic model is controlled by gravity coupled with a scalar field, it do not have slow roll behavior backwards in time in the cycle we live. So the key observation that the exponentially expansion of the phase space volume breaks the slow roll condition do not apply in the cyclic model. Nevertheless, the number of cycles in the cyclic universe must be finite [23], so it remains to explain how all the cycles begin in the first place.
+
+# Acknowledgments
+
+This work was supported by grants of NSFC. We thank Bin Chen, Yi-Fu Cai, ChaoJun Feng,and Yushu Song for discussion.
+
+# References
+
+[1] R.Bousso，J. Polchinski， JHEP 0006:006,2000，hep-th/0004134. S. Kachru, R.Kallosh，A. Linde and S. Trivedi，Phys.Rev.D68 (2003） 046005，hepth/0301240. L. Susskind，hep-th/0302219.M. R. Douglas，JHEP 0305，046 (2003).hep-th/0303194.   
+[2] Steven Weinberg, Rev. Mod. Phys. 61:1-23 (1989).   
+[3] Steinhardt, P J1983,Proceedings of the Nuffield Workshop, Cambridge, 21 June - 9 July, 1982, eds: Gibbons, G W, Hawking, S W and Siklos, S T C (Cambridge: Cambridge University Press), pp. 251-66. Vilenkin, A, Phys. Rev. D27, 2848-55 (1983). A. D. Linde, Phys. Lett. B175, 395 (1986).   
+[4] G.W. Gibbons and Neil Turok, hep-th/0609095.   
+[5] Jaume Garriga， Delia Schwartz-Perlov， Alexander Vilenkin， Sergei Winitzki, JCAP 0601 (2006） 017, hep-th/0509184. Richard Easther，Eugene A. Lim, Matthew R. Martin， JCAP 0603 (2006) 016， astro-ph/0511233. Vitaly Vanchurin,Alexander Vilenkin, Phys. Rev. D74 (2006) 043520, hep-th/0605015. R. Bousso,Phys. Rev.Lett. 97,191302 (2006), hep-th/0605263.   
+[6] G.W. Gibbons, S. W. Hawking and J. M. Stewart, Nucl. Phys. B 281, 736 (1986).   
+[7] M. Henneaux, Nuovo Cim Lett.38,609 (1983).   
+[8] S. W. Hawking and D. N. Page, Nucl. Phys. B298, 789 (1988).   
+[9] S.W. Hawking，ThomasHertog，Phys. Rev. D73 (2006) 123527, hep-th/0602091.   
+10] C. Armendariz-Picon, T. Damour, V. Mukhanov,Phys.Lett. B458(1999) 209- 218   
+11] Yun-Song Piao and Yuan-Zhong Zhang, Phy. Rev. D 70， 063513 (2004), astro-ph/O401231. P. F. Gonzalez-Diaz and J. A. Jimenez-madrid, Phys. Lett. B596,16 (2004).   
+[12] Eva Silverstein and David Tong, Phys. Rev. D70:103505,2004, hep-th/0310221. Mohsen Alishahiha, Eva Silverstein, David Tong, Phys. Rev. D70:123505,2004, hep-th/0404084.   
+[13] Gary Shiu and BretUnderwood， Phys. Rev. Lett. 98:051301,2007, hep-th/0610151.   
+[14] Yun-Song Piao, Rong-Gen Cai, Xin-min Zhang, Yuan-Zhong Zhang, Phys. Rev. D66:121301,2002. hep-ph/0207143.   
+[15] A. Linde, Phys. Rev. D49:748-754,1994, astro-ph/9307002.   
+[16] Robert Brandenberger, Pei-Ming Ho and Hsien-chung Kao, JCAP O411 (2004) 011,hep-th/0312288.   
+[17] A. Starobinsky, Phys. Lett. B91 (1980) 99； A. Starobinsky, Sov. Astron. Lett. 9（1983) 302. Viatcheslav F. Mukhanov,H.A. Feldman and Robert H. Brandenberger, Phys. Rept. 215,(1992) 203 Jai-chan Hwang and Hyerim Noh, Phys. Rev.D71， (2005) 063536，gr-qc/0412126.Miao Li, astro-ph/0607525, JCAP 0610 (2006) 003. Bin Chen, Miao Li, Tower Wang, Yi Wang, astro-ph/0610514.   
+[18] M. Li, Phys.Lett. B603 (2004) 1, hep-th/0403127; Q.-G. Huang and M,Li, JCAP 0408 (2004) 013,astro-ph/0404229. Qing-Guo Huang,Miao Li, hep-th/0410095, JCAP 0503 (2005) 001. Bin Chen, Miao Li, Yi Wang,astro-ph/0611623.   
+[19] Qing-Guo Huang， Yungui Gong，astro-ph/0403590， JCAP 0408 (2004） 006. Hsien-Chung Kao, Wo-Lung Lee, Feng-Li Lin, astro-ph/0501487, Phys.Rev. D71 (2005）123518. Xin Zhang，astro-ph/0504586, Int. J. Mod. Phys. D14 (2005) 1597-1606; Xin Zhang, Feng-Quan Wu, astro-ph/0506310, Phys. Rev. D72 (2005) 043524; Zhe Chang, Feng-Quan Wu, Xin Zhang, astro-ph/0509531, Phys. Lett. B633 (2006) 14-18; Xin Zhang, astro-ph/0609699, Phys. Rev. D 74 (2006) 103505. Xin Zhang, Feng-Quan Wu, astro-ph/0701405.   
+[2nl Rnhert Rrandenheroer Pei-Mino Hn Phvs Rev D66·023517 20n2 A APPS
+
+Bull.12N1:10-20,2002， hep-th/0203119. Q.-G. Huang and M. Li， JHEP
+
+0306(2003)014， hep-th/0304203； S. Tsujikawa， R. Maartens and R. Brandenberger， astro-ph/0308169. Q.-G. Huang and M. Li, JCAP 0311(2003)001, astro-ph/0308458; Nucl. Phys. B713(2005)219, astr0-ph/0311378;   
+[21] Q.-G. Huang and M， Li， astro-ph/0603782; X. Zhang and F.-Q， Wu, astro-ph/0604195, Phys. Lett. B638 (2006) 396; Qing-Guo Huang, Phys. Rev. D74:063513,2006, astro-ph/0605442. X. Zhang, hep-th/0608207; Q.-G. Huang, astro-ph/0610389, JCAP 0611:004,2006.   
+[22] Seoktae Koh, Robert H. Brandenberger, hep-th/O702217. Robert Brandenberger, hep-th/0703173.   
+[23] J. Khoury, B.A. Ovrut, P.J. Steinhardt and N. Turok, Phys. Rev. D64 (2001) 123522; P.J. Steinhardt and N. Turok, Science 296,(2002) 1436; Phys. Rev. D65 126003 (2002)； P.J. Steinhardt and N. Turok, astro-ph/0404480, New Astron. Rev. 49 (2005) 43-57.

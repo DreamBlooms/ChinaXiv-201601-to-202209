@@ -1,0 +1,235 @@
+黄芪多糖对种公鸡不同组织miR-16表达的影响及其功能预测分析任小春 李玉龙 武圣儒 雷新宇 郭伟党燕娜 龚月生\* 杨小军\*（西北农林科技大学动物科技学院，杨凌 712100）
+
+摘要：本试验研究黄芪多糖（APS）对种公鸡不同组织中miR-16表达的影响，结合miR-16预测靶基因的GO和KEGG功能富集性分析，旨在探讨APS对不同组织功能的潜在调控作用。选取1日龄科宝500父母代肉种鸡64只，随机分为对照组和APS组，每组4个重复，每个重复8只鸡。对照组饲喂玉米-豆粕型基础饲粮，APS组在基础饲粮中添加 $1 0 ~ \mathrm { g / k g }$ APS，试验期40周。结果表明：1）相比于对照组，APS组可以提高种公鸡的采精量和有效精子数，降低精子畸形率，但差异不显著（ $P { > } 0 . 0 5$ ）。2）miR-16具有组织差异性，APS可显著或极显著上调肝脏、脾脏、十二指肠黏膜、回肠黏膜miR-16的表达（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），显著降低睾丸miR-16的表达（ $_ { \cdot \cdot P < 0 . 0 5 }$ ）。3）对miR-16预测靶基因进行GO富集分析，表明预测靶基因在跨膜运输、泛素依赖的蛋白质降解、胞内蛋白运输、糖酵解等物质代谢相关生物过程显著或极显著富集（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。KEGG富集分析表明，miR-16靶基因在黏着斑、胰岛素信号通路、糖酵解/糖异生等与机体物质代谢、细胞增殖分化相关通路显著富集（ $P { < } 0 . 0 5$ ），在Toll样受体信号通路、自然杀伤细胞介导的细胞毒性等免疫相关通路也有富集。由此可见，APS上调种公鸡脾脏、肝脏、十二指肠黏膜、回肠黏膜组织的miR-16表达，下调睾丸miR-16表达；miR-16预测靶基因与物质代谢、免疫调控密切相关。APS通过调控种公鸡不同组织miR-16表达，影响机体物质代谢和免疫调控功能。
+
+关键词：黄芪多糖；种公鸡；miR-16；精液品质；组织表达；功能分析中国分类号：S831 文献标识码： 文章编号：
+
+黄芪多糖（Astragalus polysaccharide,APS）是提取自黄芪根的一种水溶性杂多糖，具有机体物质代谢调控[1]、抗炎[2-3]、抗氧化[4-5]、抗肿瘤[6-7]、免疫调控[8]等生物学活性，作为非营养性饲料添加剂，可有效改善畜禽的机体健康及生产性能。阐明APS 调节动物物质代谢及免疫功能的潜在机理，有助于生产中更有效使用 APS。APS 通过影响免疫及代谢相关基因的表达，发挥其调控作用，多数基因的表达存在miRNA的调控作用，miRNA 通过RNA-RNA互作，在转录后调控基因表达[9]。证据表明，营养成分和水平均可影响动物miRNA表达，进而调控机体健康状态[1]。miRNA的表达具有组织特异性，并随机体发育状况改变而改变[]，一方面，miRNA 在细胞的增殖分化及调亡、机体发育、代谢、免疫反应等过程中具调节作用，保证机体的正常发育[12-15]；另一方面，miRNA 可调控基因表达适应环境的变化，有利于机体健康状态的保持[16-17]。因此，在受到相同的营养素刺激下，同一miRNA的表达也存在差异，进而调控不同组织发挥各自的功能。
+
+miR-16源于mir-16-1和mir-16-22个前体，分别位于鸡1号和9 号染色体上，基因转录经剪接形成成熟的 miR-16，成熟 miR-16 具有抑制肿瘤[18-20]、参与机体免疫应答[21-22]、调控关键酶、影响糖代谢[23-24]等作用。课题组前期高通量测序研究表明，APS 可显著降低睾丸组织miR-16 的表达，表明 miR-16 的生物学调控功能与APS 存在一定对应性，故本研究选择miR-16作为研究对象。目前，miR-16的功能研究多在人和鼠上展开，而有关营养素调控作用下鸡miR-16的组织表达状况及功能研究未见报道。本研究通过向种公鸡饲粮中添加APS,检验9个组织中miR-16的表达，结合其预测靶基因的生物信息分析，为后期研究miR-16介导下APS对机体代谢及免疫性能的调控功能提供线索。
+
+1材料与方法
+
+# 1.1 试验材料
+
+APS：粉剂，纯度 $70 \%$ ，购自华北制药有限公司。  
+试验动物：1日龄科宝500父母代肉种鸡，购自北京家禽育种有限公司。
+
+# 1.2 试验设计
+
+选取1日龄科宝500肉鸡父母代种公鸡64只，随机分为对照组和APS组，每个处理4个重复，每个重复8只鸡。对照组饲喂玉米-豆粕型基础饲粮，APS组在基础饲粮中添加 $1 0 ~ \mathrm { g / k g }$ APS。正常免疫，自由饮水，按标准饲喂。试验期40周。
+
+# 1.3精液品质测定
+
+采用背腹式按摩法采集种公鸡精液，第38\~39周进行采精训练，建立条件反射。精液采集后置于 $3 7 ^ { \circ } \mathrm { C }$ 水浴短暂保存后，立刻采用常规精液品质评定方法，测定精液量（mL）、精子活率（直线前进运动精子数/总精子数）、精子密度（ $1 0 ^ { 8 } ~ \mathrm { s p z / m }$ ）和精子畸形率（ $\%$ ）；计算有效精子数（ $1 0 ^ { 8 } \ \mathrm { s p z }$ ），有效精子数是精液量、精子密度和精子活率3个指标的乘积。
+
+# 1.4样品采集和总RNA提取
+
+样品采集：40周龄时，每个重复随机选取一只鸡采样。背腹式按摩法采精，颈部放血处死，屠宰，采集肝脏、脾脏、胸腺、睾丸和胸肌样品放于冻存管中；分离十二指肠、空肠和回肠，用生理盐水冲洗去除肠段内容物，用载玻片轻轻刮取肠黏膜保存到冻存管中。样品采集后迅速放入液氮罐中，后转入 $- 8 0 ~ \mathrm { { ^ circ C } }$ 保存。
+
+总RNA提取：精液总RNA提取采用热酸酚法，其他组织样品总RNA提取采用Trizol（Takara）法。
+
+# 1.5 实时定量PCR
+
+miR-16和U6 snRNA定量引物为Bulge-LoopTM miRNA qRT-PCR Primer Set和U6 snRNAqPCR Primer Set（广州锐博生物科技有限公司），miR-16和U6 snRNA反转采用PrimeScriptTMRTreagentKitwith gDNAEraser（Takara）。
+
+反转录体系（ $2 0 ~ \mu \mathrm { L }$ ）： $5 { \times } \mathrm { g D N A }$ Eraser（Buffer $2 ~ \mu \mathrm { L }$ ，gDNA Eraser1 μL， Total RNA（ $< 1 \mu \ g )$ ，添加RNase Free $\mathrm { \ d H } _ { 2 } \mathrm { O }$ 至 $1 0 ~ \mu \mathrm { L }$ ， $4 2 \ \mathrm { ^ { \circ } C } \ 2 \ \operatorname* { m i n }$ ： $5 \times$ PrimeScript Buffer $4 \mu \mathrm { L }$ ， PrimeScriptRT Enzyme Mix $\mathrm { ~ I ~ } 1 \mu \mathrm { L }$ ，RT primer $2 \mu \mathrm { L }$ ，加入上述 $1 0 \mu \mathrm { L }$ 反应液，添加RNase Free $\mathrm { \ d H } _ { 2 } \mathrm { O }$ 至$2 0 { \mu \mathrm { L } }$ 。 $3 7 \ \mathrm { ^ { \circ } C } \ 1 5 \ \mathrm { m i n }$ ， $8 5 ^ { \circ } \mathrm { C } \ 1 5 \ \mathrm { s }$ ， $4 \mathrm { { ^ \circ C } }$ 停止。
+
+采用 $\operatorname { S Y B R } ^ { \circledast }$ PremixEx TaqTMII（Takara）检测miR-16和U6 snRNA的表达。反应体系（ $2 0 \mu \mathrm { L } \dot { }$ ）：SYBR Premix Ex Taq I $( 2 \times ) 9 \mu \mathrm { L }$ ， Bulge-LoopTM miRNA Forward Primer $0 . 8 ~ \mu \mathrm { L }$ ，Bulge-LoopTM miRNA Reverse Primer $0 . 8 ~ \mu \mathrm { L }$ ，反转录产物 $2 \mu \mathrm { L }$ ，RNase Free $\mathrm { d H } _ { 2 } \mathrm { O } 7 . 4 ~ \mu \mathrm { L }$ 。反应条件： $9 5 ^ { \circ } \mathrm { C } 3 0 ~ \mathrm { s }$ ； $9 5 ^ { \circ } \mathrm { C } 5 \mathrm { \ s }$ ， $6 0 ^ { \circ } \mathrm { C } 3 0 \mathrm { ~ s ~ }$ ， $7 2 ^ { \circ } \mathrm { C } 3 0$ s反应40个循环；于 $7 2 ^ { \circ } \mathrm { C }$ 采集荧光。各组织样品设置3个平行，U6snRNA作为内参基因。
+
+1.6miRNA靶基因预测和富集性分析
+
+利用TargetScan和miRanda软件预测鸡miR-16的潜在靶基因，筛选出2种算法的靶基因交集用于后续生物信息学分析。采用DAVID数据库（https://david.ncifcrf.gov/）对预测靶基因进行GO富集分析和KEGG通路分析。
+
+# 1.7 数据统计
+
+以 $2 ^ { - \triangle \triangle _ { \mathrm { C t } } }$ 法计算 miR-16 在各组织中相对表达量。数据用 SPSS 20.0 软件分析，进行Student's $t$ 检验，结果用平均值 $\pm$ 标准误表示， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2结果
+
+2.1APS 对种公鸡精液品质的影响
+
+由表1可知，相较于对照组，APS 组种公鸡的采精量和有效精子数均高于对照组，畸形率低于对照组，但差异不显著 $( P { > } 0 . 0 5 )$ 。两组间精子密度和精子活率也无显著差异$( P { > } 0 . 0 5 )$ 。
+
+表1 APS 对种公鸡精液品质的影响  
+Table 1Effects of APS on sperm quality of breeder cocks   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>APS组</td><td>P值</td></tr><tr><td>采精量 Semen volume/mL</td><td>0.49±0.09</td><td>APS group 0.58±0.10</td><td>P-value 0.53</td></tr><tr><td>精子密度 Sperm density/(108 spz/mL)</td><td>31.85±4.12</td><td>31.78±0.95</td><td>0.99</td></tr><tr><td>精子活率 Sperm motility/%</td><td>95.00±2.89</td><td>87.50±2.50</td><td>0.10</td></tr><tr><td>畸形率 Percentage of abnormal sperm/%</td><td>7.00±1.47</td><td>5.25±1.25</td><td>0.40</td></tr><tr><td>有效精子数 Number of effective sperm/108</td><td></td><td></td><td></td></tr><tr><td>spz</td><td>14.11±3.99</td><td>15.14±2.45</td><td>0.84</td></tr></table></body></html>
+
+同行无字母或数据肩标相同字母表示差异不显著（ $\mathrm { \Delta } P { > } 0 . 0 5$ ）。
+
+In the same row, values with no letter or the same letter superscripts mean no significantdifference( $\cdot  { P } { > } 0 . 0 5 \$ ）：
+
+# 2.2 miR-16引物特异性验证
+
+在精液品质鉴定基础上，本课题组对种公鸡睾丸进行了miRNA高通量测序，发现APS可显著降低辜丸组织miR-16的表达，表明miR-16的生物学调控功能与APS存在一定对应性，故本研究选择miR-16作为后续研究的对象。本试验采用定制的特异茎凸环引物利用SYBR染料法检测miR-16在种公鸡不同组织中的表达，miR-16和内参基因U6 snRNA熔解曲线及实时定量PCR后，部分产物的凝胶电泳检测图见图1。由图1可知，miR-16和U6 snRNA熔解曲线为单峰；电泳条带均一整齐的分布在100 bp左右，表明本研究所用的miR-16引物特异性较高，其检测结果可用于后续分析。
+
+![](images/41bf64c02851581782999ee5cdaf1237c60b4c3cfabc2eeae54aa8fd3f68cf2e.jpg)
+
+(C)
+
+![](images/7fd4a8b437c9f87c210006a5261ab22ac4c13183a169e0aef84e6edf6d7a130e.jpg)  
+图1实时定量PCR的熔解曲线（A、B）和PCR产物凝胶电泳检测图（C）
+
+（A）miR-16的熔解曲线；（B)U6 snRNA（内参基因）的熔解曲线；（C）1：空肠；2： 回肠；3：十二指肠；4：精液；5睾丸；6：脾脏；7：肝脏；8肌肉；9：胸腺；M:DL500Marker。 (A) Melt curve of miR-16; (B) Melt curve of U6 snRNA (used as internal standard miRNA); (C) 1: jejunum; 2: ileum; 3: duodenum; 4: semen; 5: testis; 6: spleen; 7: liver; 8: muscle; 9: thymus; M: DL500 Marker.
+
+Fig.1The melting curve of real-time quantitative PCR (A and B) and gel electrophoresis
+
+detection of product (C)
+
+2.3APS对种公鸡不同组织miR-16相对表达水平的影响
+
+由图2可知，miR-16在所检测的9种组织中均有不同水平的表达；由图3可知，APS可显著或极显著提高脾脏、肝脏、十二指肠黏膜、回肠黏膜中miR-16相对表达水平（ $. P { < } 0 . 0 5$ 或$P { < } 0 . 0 1$ ）。睾丸组织中，APS组的miR-16相对表达水平显著下降（ $P { < } 0 . 0 5$ ）。APS对种公鸡胸腺、肌肉、精液和空肠黏膜miR-16相对表达水平均无显著影响（ $. P { > } 0 . 0 5$ ）。
+
+![](images/b169d16b1ac6374bd9a53eb4f2f8edca4794780db6681b10d737ef1cc0594f4a.jpg)  
+图2miR-16在种公鸡不同组织中的相对表达水平
+
+Fig.2The relative expression level of miR-16 in different tissues of male chicken breede
+
+![](images/ec36985947f94680f34aed29a3dce4df43757b8e0efe9e0858c7cec379dadac8.jpg)  
+图3APS对种公鸡不同组织中的miR-16相对表达水平的影响
+
+数据柱上标无字母表示差异不显著（ $( P { > } 0 . 0 5 \$ )，不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。
+
+Value columns with no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ , and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ）
+
+Fig.3Effects of APS on the relative expression level of miR-16 in different tissues of male chicken breeder
+
+# 2.4miR-16靶基因的生物信息学分析
+
+为更好理解APS通过影响miR-16的表达，进而影响鸡生物学功能的发挥，本研究通过TargetScan和miRanda 2种算法预测其靶基因，2种算法获得560个共同靶基因，进行GO和KEGG信号通路功能富集性分析。
+
+2.4.1 miR-16靶基因的GO富集分析
+
+对560个预测靶基因进行GO 富集分析，其中213个靶基因获得注释。GO 富集性分析包括3个方面：生物过程、细胞组分、分子功能。由表1可知，预测靶基因极显著富集的生物过程为跨膜运输、核苷酸代谢和脊索发育（ ${ \scriptstyle \cdot } { \cal P } { \scriptstyle < } 0 . 0 1 ~ \$ ），在泛素依赖的蛋白质降解过程、胞内的蛋白质运输、糖酵解、蛋白质的聚泛素化、磷酸戊糖旁路、蛋白质泛素化的负调控等物质运输代谢相关生物学过程显著富集（ $. P { < } 0 . 0 5 \$ ）。而在与免疫相关的通路虽不显著但有富集（ $P { > } 0 . 0 5$ ），如 Toll样受体（TLR）信号通路（包括TLR2、TLR3、TLR4、TLR5、TLR7、TLR15、TLR21）（GO:0002224、GO:0034134、GO:0034138、GO:0034142、GO:0034146、GO:0034154、GO:0035681、GO:0035682）、白细胞介素-2（IL-2)生成的负调控（GO:0032703）、白细胞介素-17（IL-17）生成的负调控（GO:0032700）、干扰素 $- \gamma$ （IFN-γ）生成的负调控（GO:0032689）、B细胞分化的负调控（GO:0045578）、T细胞分化（GO:0042098）。
+
+细胞组分和分子功能方面的分析是生物学过程的辅助分析。细胞组分富集性分析显示miR-16多数预测靶基因编码的蛋白质位于细胞膜上（表2）。分子功能富集性分析发现预测靶基因分子功能在水解酶活性极显著富集（ ${ \cdot } P { < } 0 . 0 1$ ）（表3），在TLR结合(GO:0035325）也有富集（ $\scriptstyle P = 0 . 0 8 { \mathrm { . } }$ ）。
+
+表2miR-16预测靶基因在生物过程上的GO富集分析  
+Table 2 GO term enrichment for the predicted target genes of miR-16 on biological process   
+
+<html><body><table><tr><td>项目Items</td><td>匹配到单个GO 显著差异基因数</td><td>显著差异基因总数</td><td>匹配到单个GO 基因总数</td><td>基因总数 TB gene</td><td>P值</td></tr><tr><td>跨膜运输</td><td>S gene number</td><td>TS gene number</td><td>B gene number</td><td>number</td><td>P-value</td></tr><tr><td> Transmembrane transport</td><td>9</td><td>213</td><td>47</td><td>2717</td><td>0.009</td></tr><tr><td>泛素依赖的蛋白降解过程 Ubiquitin-dependent protein</td><td>5</td><td>213</td><td>23</td><td>2 717</td><td>0.030</td></tr><tr><td>catabolic process 胞内蛋白运输</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intracellular protein transport 糖酵解过程</td><td>5</td><td>213</td><td>24</td><td>2717</td><td>0.035</td></tr><tr><td>Glycolytic process</td><td>4</td><td>213</td><td>16</td><td>2 717</td><td>0.032</td></tr><tr><td>核苷酸代谢途径 Nucleotide metabolic process</td><td>3</td><td>213</td><td>6</td><td>2 717</td><td>0.008</td></tr><tr><td>蛋白质的聚泛素化</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Protein polyubiquitination</td><td>3</td><td>213</td><td>9</td><td>2 717</td><td>0.028</td></tr><tr><td>神经管闭合</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Neural tube closure</td><td>3</td><td>213</td><td>11</td><td>2 717</td><td>0.049</td></tr><tr><td>输尿管芽发育</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Ureteric bud development</td><td>3</td><td>213</td><td>11</td><td>2 717</td><td>0.049</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脊索发育</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Notochord development</td><td>2</td><td>213</td><td>2</td><td>2 717</td><td>0.006</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+Table 3GO term enrichment for the predicted target genes of miR-16 on cellular component   
+
+<html><body><table><tr><td>疼痛刺激应答</td><td>2</td><td>213</td><td>3</td><td>2717</td><td>0.017</td></tr><tr><td>Response to pain</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>磷酸戊糖旁路</td><td>2</td><td>213</td><td>3</td><td>2 717</td><td>0.017</td></tr><tr><td>Pentose-phosphate shunt</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋白质泛素化的负调控</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Negative regulation of protein</td><td></td><td>213</td><td>3</td><td>2 717</td><td>0.017</td></tr><tr><td>ubiquitination</td><td>2</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表3miR-16预测靶基因在细胞组分上的GO富集分析
+
+<html><body><table><tr><td>项目Items</td><td>匹配到单个GO 显著差异基因 数</td><td>显著差异基因总 数</td><td>匹配到单个GO基因总 数</td><td>基因总数</td><td>P值</td></tr><tr><td></td><td>S gene number</td><td>TS gene number</td><td>B gene number</td><td>TB gene number</td><td>P-value</td></tr><tr><td>细胞膜 Membrane</td><td>48</td><td>213</td><td>448</td><td>2 717</td><td>0.010</td></tr><tr><td>核膜 Nuclear membrane</td><td>4</td><td>213</td><td>18</td><td>2 717</td><td>0.047</td></tr><tr><td>泛素连接酶复合物 Ubiquitin ligase</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>complex 自噬小体</td><td>3</td><td>213</td><td>6</td><td>2 717</td><td>0.008</td></tr><tr><td>Autophagic vacuole 前自噬体结构膜</td><td>2</td><td>213</td><td>2</td><td>2 717</td><td>0.006</td></tr><tr><td>Pre-autophagosomal</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>structure membrane</td><td>2</td><td>213</td><td>2</td><td>2 717</td><td>0.006</td></tr></table></body></html>
+
+表4miR-16预测靶基因在分子功能上的GO富集分析
+
+Table 4GO term enrichment for the predicted target genes of miR-16 on molecular function
+
+<html><body><table><tr><td>项目Items</td><td>匹配到单个GO显著差异基因 数 S gene number</td><td>显著差异基因总 数 TS gene number</td><td>匹配到单个GO基因总 数 B gene number</td><td>基因总数 TB gene number</td><td>P值</td></tr><tr><td>水解酶活性</td><td>21</td><td>213</td><td>139</td><td>2 717</td><td>P-value 0.002</td></tr><tr><td>Hydrolase activity 核酸结合 Nucleic acid</td><td>8</td><td>213</td><td>51</td><td>2 717</td><td>0.042</td></tr><tr><td>binding 泛素-蛋白转移酶 活性</td><td>6</td><td>213</td><td>25</td><td>2 717</td><td>0.011</td></tr><tr><td>Ubiquitin-protein transferase activity 胰核糖核酸酶活性</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pancreatic ribonuclease activity</td><td>2</td><td>213</td><td>3</td><td>2 717</td><td>0.017</td></tr><tr><td>5'核苷酸酶活性 5'-nucleotidase</td><td>2</td><td>213</td><td>3</td><td>2 717</td><td>0.017</td></tr></table></body></html>
+
+# 2.3.2miR-16靶基因的KEGG富集分析
+
+由表5可知，miR-16预测靶基因KEGG富集分析发现miR-16与细胞运动、增殖分化及机体物质代谢等生物学过程密切相关，显著富集的信号通路为黏着斑、胰岛素信号通路、表皮生长因子受体（ErbB）信号通路、糖酵解/糖异生、缬氨酸/亮氨酸/异亮氨酸的生物合成、烟酸和烟酰胺代谢、脂肪酸延长和DNA复制（ $( P { < } 0 . 0 5 )$ 。与免疫相关的通路也有富集（ $( P { > } 0 . 0 5 )$ ，主要是与抗原识别呈递相关的自然杀伤细胞介导的细胞毒性（ $\mathrm { k o 0 4 6 5 0 }$ ）和TLR信号通路（ko04620）。
+
+表5miR-16预测靶基因的通路分析  
+Table 5Pathway analysis for the predicted target genes of miR-16   
+
+<html><body><table><tr><td>通路名称</td><td>匹配到单个GO 显著差异基因数</td><td>显著差异基因总数</td><td>匹配到单个GO基因总数</td><td>基因总数</td><td>P值</td></tr><tr><td>pathway description</td><td>S gene number</td><td>TS gene number</td><td>B gene number</td><td>TB gene number</td><td>P-value</td></tr><tr><td>糖酵解/糖异生</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Glycolysis /Gluconeogenesis</td><td>6</td><td>161</td><td>44</td><td>3 670</td><td>0.011</td></tr><tr><td>表皮生长因子受体信号通路</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ErbB signaling pathway</td><td>8</td><td>161</td><td>74</td><td>3 670</td><td>0.015</td></tr><tr><td>黏着斑</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Focal adhesion</td><td>14</td><td>161</td><td>169</td><td>3 670</td><td>0.015</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td colspan="6">胰岛素信号通路</td></tr><tr><td>Insulin signaling pathway</td><td>10</td><td>161</td><td>107</td><td>3 670</td><td>0.018</td></tr><tr><td>脂肪酸伸长</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fatty acid elongation</td><td>2</td><td>161</td><td>6</td><td>3 670</td><td>0.026</td></tr><tr><td>DNA复制</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4</td><td>161</td><td>29</td><td>3 670</td><td>0.036</td></tr><tr><td>DNA replication</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>缬氨酸、亮氨酸和异亮氨酸的生物合成</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Valine,leucine and isoleucine biosynthesis</td><td>2</td><td>161</td><td>8</td><td>3 670</td><td>0.045</td></tr><tr><td>烟酸和烟酰胺代谢</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nicotinate and nicotinamide metabolism</td><td>3</td><td>161</td><td>19</td><td>3 670</td><td>0.048</td></tr><tr><td>2 促性腺激素释放激素信号通路</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7 GnRH signaling pathway</td><td>7</td><td>161</td><td>77</td><td>3 670</td><td></td></tr><tr><td>0</td><td></td><td></td><td></td><td></td><td>0.050</td></tr><tr><td>磷酸戊糖途径</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pentose phosphate pathway</td><td>3</td><td>161</td><td>21</td><td>3 670</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0.062</td></tr><tr><td>内吞用 2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>：</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Endocytosis</td><td>12</td><td>161</td><td>170</td><td>3 670</td><td>0.068</td></tr><tr><td>?</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>细胞周期</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>n</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cell cyele</td><td>8</td><td>161</td><td>103</td><td>3 670</td><td></td></tr><tr><td>h</td><td></td><td></td><td></td><td></td><td>0.081</td></tr><tr><td>过氧化物酶体增殖物激活受体信号通路</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PPAR signaling pathway</td><td>5</td><td>161</td><td>54</td><td>3 670</td><td>0.086</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>半乳糖代谢</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Galactose metabolism</td><td>3</td><td>161</td><td>25</td><td>3 670</td><td>0.094</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1APS对种公鸡精液品质的影响
+
+APS是一种提取自中草药黄芪的功能性多糖，本课题组前期结果发现种公鸡饲粮添加10g/kg APS能显著传代影响商品代肉鸡生长性能，进一步的转录组测序数据表明APS可以调节种公鸡免疫相关基因的表达并可以传代影响子代肉鸡的免疫性能[25]。精液品质可反映动物的繁殖性能，对生产具有指示作用，同时精子的发生及功能的发挥是APS传代影响肉鸡生长性能和免疫功能的唯一途径。本试验结果表明APS虽不能显著影响种公鸡精液品质，但一定程度上能改善精液品质，如降低精子畸形率和提高有效精子数和采精量。另外，Liu等[26]体外试验研究发现黄芪提取物显著提高精子活力和有效精子数，Kim等[27]研究发现APS可有效缓解环磷酰胺对小鼠辜丸生殖毒性，有效改善辜丸相对重量及精液品质。因此，本试验选择饲粮添加APS在睾丸（精子生成的唯一场所）中显著差异表达的miR-16为研究对象，并结合miR-16的组织差异表达情况及其靶基因的生物信息分析结果来为后期研究miR-16介导下APS对机体代谢及免疫性能的调控功能提供线索。
+
+# 3.2 miRNA实时定量检测
+
+miRNA是一种微量动态的表观遗传调控因子，分析不同营养状态下miRNA在不同组织中的表达状况，寻找组织特异和功能调控相关的miRNA，是了解miRNA功能的关键步骤，miRNA功能研究的第一步是miRNA的定量检测。目前miRNA定量检测方法有微阵列芯片、Northern blotting、高通量测序和实时定量PCR等。茎环实时定量PCR检测具有灵敏度高、精确度高、检测范围宽等优点[28]，本研究采用的公司定制茎凸环引物特异性好、灵敏度高，可满足后续定量检测准确性的需求。
+
+# 3.3 APS对种公鸡不同组织miR-16表达的影响
+
+miRNA 表达具有时空特异性，这种特异表达与特定的生理功能密切相关[29]。Yue 等[30]发现miR-16在成年大鼠的肝脏、脾脏、肾脏、小肠和睾丸组织均有表达，且有组织差异性。本研究发现在肉种鸡中miR-16的表达具有组织差异性，这与很多其他miRNA的研究结果相一致[31l；同时，本研究发现APS 可改变多种组织（脾脏、肝脏、睾丸等）miR-16 的表达状况。外界环境发生改变时，机体会发生适应性调整，相关基因表达水平发生改变，在此过程中miRNA发挥了重要作用，miRNA通过影响其效应靶基因的表达状况调控机体的环境适应性。Casas-Agustench 等[32]发现不同的脂肪酸组分能调节大鼠肝脏和脂肪组织miRNA 差异表达；Meale 等[33]发现不同脂肪组分可调节牛皮下和内脏脂肪组织 miRNA 差异表达;Romao 等[34]发现高脂饮食也可调控羊皮下和内脏组织miRNA差异表达，这都说明不同营养因子可调控动物miRNA不同组织差异表达进而影响机体代谢调控。体外试验发现，添加姜黄素可上调 miR-16 表达，进而诱导细胞凋亡和增殖相关基因表达的改变[35-36]。一种绿茶叶提取物表没食子儿茶素没食子酸酯（epigallocatechin gallate，EGCG）可上调 miR-16表达，抑制抗凋亡蛋白B 淋巴细胞瘤-2（BCL-2）基因表达，激活细胞凋亡过程[37]。目前 miRNA相关研究多着眼于营养因素、miRNA 和机体健康状况三者间的关联性，适当的营养供给有利于保持 miRNA 的正常表达，使机体处于健康状态[10]。APS 作为一种提自植物的高效免疫调节剂，同样可通过影响多种组织中miR-16的表达，进而调节相关基因的表达，发挥其生物学调控效应来维持机体健康状态。Yuan 等[38]发现APS 以剂量效应模式调控脾脏肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { a }$ （TNF-α）和白细胞介素（ $\scriptstyle { \mathit { I L } }$ ） $- 1 \beta$ 的表达。在脂多糖（LPS）的刺激下，Liu 等[39]发现APS可以调节肠道黏膜 $I L \mathrm { - } 1 \beta$ 的表达。辜丸通过血-辜屏障、支持细胞、间质免疫细胞、细胞因子和雄激素在内的多种因素构成一个复杂的免疫网络体系。Zhang 等[40]在鸡睾丸检测到TLR-2-I,-2-II,-3,-4,-5,-15,-21的表达，而LPS刺激可以改变辜丸 $I L \mathrm { - } 1 \beta$ 和 $I L { - } 6$ 的表达。大量研究表明，APS可以调控包括 TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、IL-1β、IL-8、干扰素 $- \gamma$ （IFN-γ）在内的细胞因子的表达[38.39.41-44],且 miR-16 能通过与上述细胞因子的一段高度保守区域的互补，进而发挥调控效应，影响机体免疫性能。本试验结果显示 APS 上调十二指肠黏膜、回肠黏膜和脾脏组织中 miR-16 的表达以及下调睾丸组织miR-16 的表达，其可能调控miR-16 表达影响相关细胞因子表达进而影响机体免疫性能。另外，APS 可诱导脂肪代谢相关基因过氧化物酶体增殖物激活受体 $\mathfrak { a }$ （PPAR-α）的表达[1],而PPAR $\cdot a$ 基因所在的PPAR 信号通路是miR-16预测靶基因的富集通路，而本试验发现APS 组种公鸡肝脏miR-16 表达显著升高，表明miR-16可能介导APS 对肝脏脂肪代谢相关基因的调控。
+
+# 3.4miR-16靶基因的功能预测分析
+
+miRNA通过与靶基因的3'UTR结合，使靶基因的mRNA降解或者在蛋白质翻译水平上抑制翻译，来发挥其生物调控功能[45]。本研究发现APS可显著改变种公鸡多种组织miR-16的表达水平，因此我们进一步采用TargetScan和miRanda 2种算法预测miR-16的靶基因，将二者交集作为预测靶基因，进行GO分析和KEGG通路富集分析获得富集的信号通路。
+
+GO分析显示预测靶基因主要富集在跨膜运输、泛素依赖的蛋白质降解过程和胞内蛋白质运输、糖酵解等与物质运输代谢相关的生物过程，而KEGG富集分析结果与GO分析结果一致，多数靶基因富集在与物质代谢相关的信号通路中，表明miR-16可与物质代谢相关基因互作参与机体调控。
+
+miR-16与能量代谢过程密切相关，其预测靶基因富集的糖酵解/糖异生条目就是能量代谢的重要内容，而APS调控下免疫活性的发挥同样需要消耗大量的能量，与能量代谢活动息息相关。Calin等[23]发现miR-15a/miR-16-1簇在慢性淋巴细胞性白血病中表达显著下调或缺失可显著下调糖酵解途径关键酶果糖二磷酸醛缩酶A（aldolase A,ALDOA）的活性。胰岛素信号通路可广泛影响葡萄糖的摄取、三大营养物质合成、细胞增殖分化和凋亡等生物学反应[46]。葡萄糖转运蛋白4（glucose transporter 4，GLUT4）是胰岛素信号通路重要的调控因子，可介导葡萄糖从胞外进入胞内,调节细胞内糖和脂肪酸代谢。Talari等[24]发现在成肌细胞过表达miR-16后通过上调GLUT4增强胰岛素介导的葡萄糖摄取作用，进而影响细胞糖代谢。而外源添加APS亦可对能量代谢产生影响，Chen等[1的研究发现APS可诱导GLUT4高表达，并抑制PPAR-α及其靶基因脂肪酸转运蛋白(FATP)、基辅酶A合成酶(ACS)的表达，从而影响能量代谢。本试验发现APS可调节作为代谢中枢的肝脏的miR-16表达，而靶基因富集分析结果及前人研究显示miR-16与能量代谢密切相关，说明APS可通过调控miR-16表达进而影响能量代谢。另外，肠道作为机体重要的消化吸收器官，APS可上调十二指肠黏膜和回肠黏膜miR-16的表达，且其靶基因富集于跨膜运输、胞内蛋白质运输等与物质运输和糖酵解等物质代谢相关的通路，说明APS可能通过调控miR-16表达影响物质运输进而影响物质代谢。
+
+APS可显著提高miR-16在种公鸡脾脏、十二指肠黏膜和回肠黏膜中的表达。有研究报道，miR-16可能是TLR介导的炎症反应的重要调控因子，miR-16能快速降解在3'UTR区富含AU元件（AU-rich elements，AREs）的mRNA[47],而大多数细胞因子和趋化因子如TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、IL-8和IL-6等的3'UTR区均含有AREs[48]。Jing等[47]的研究证实，miR-16能够直接结合TNF- $\cdot a$ mRNA的AREs，降低mRNA的稳定性并促进其降解，转染miR-16序列特异性互补寡核苷酸片段则能逆转这种作用。进一步分析发现,炎症因子IL-12和IL-23共有亚基IL-12p40的3'端非编码区也同样存在着AREs,miR-16同样可以结合到TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 和IL-12p40的AREs上,从而调控众多炎症因子TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 、IL-12、IL-23、IL-17、IFN-γ、IL-lβ和IL-6等的蛋白质表达水平[49]。另外，miR-16还可下调TLR4和IL-1受体相关激酶的转录活性来抑制LPS诱导的炎症反应[50]。在本试验中，miR-16预测靶基因也在免疫相关GO和KEGG信号通路上也有所富集，说明miR-16与机体免疫调控密切相关，结合之前的研究[47-50]可说明miR-16具有炎症抑制活性，保证机体正常的健康状态。另外，研究显示APS具有高免疫调节活性，可影响脾脏[38.51]及肠道黏膜免疫系统[39,41-44]的免疫活性。Shi等[44]的研究发现APS可有效提高黏膜完整性及其免疫功能，拮抗LPS诱导的IL-1和IFN-y表达量升高，利于防止炎症发生和促进空肠黏膜完整性；Wang等[42-43]体外试验研究发现APS可有效抑制LPS处理Caco2细胞的促炎性细胞因子（TNF- $\cdot a$ ， IL-1β及IL-8）表达激活，并可有效提高Caco2细胞紧密连接蛋白和闭合蛋白的表达量，发挥炎症抑制和黏膜完整性保护作用。本试验发现APS可显著提高种公鸡十二指黏膜、回肠黏膜、脾脏miR-16表达水平，APS可能通过上调miR-16来行使其肠道黏膜、脾脏组织中的免疫调控功能。
+
+4结论
+
+miR-16在种公鸡不同组织中差异表达，APS可上调种公鸡脾脏、肝脏、十二指肠黏膜、回肠黏膜组织miR-16的表达，下调睾丸组织miR-16的表达，功能预测显示miR-16靶基因与物质代谢、免疫调控密切相关，说明APS可通过调控miR-16表达影响机体物质代谢和免疫调控功能。
+
+# 参考文献
+
+[1]CHEN W,XIA Y P,CHEN W J,et al.Improvement of myocardial glycolipid metabolic disorder in diabetic hamster with Astragalus polysaccharides treatment[J].Molecular Biology Reports,2012,39(7):7609-7615.
+
+[2] HE X J,SHU J,XU L,et al.Inhibitory effect of Astragaluspolysaccharideson lipopolysaccharide-induced TNF-a and IL-1β production in THP-1 cells[J].Molecules,2012,17(3):3155-3164.
+
+[3]WANG X F,LI Y L,YANG X J,et al.Astragalus polysaccharide reduces inflammatory response by decreasing permeability of LPS-infected Caco2 cells[J].International Journal of Biological Macromolecules,2013,61:347-352.
+
+[4]ZHANG G G,YANG Z B,WANG Y,et al.Effects of Astragalus membranaceus root processed to different particle sizes on growth performance,antioxidant status,and serum metabolites of broiler chickens[J].Poultry Science,2013,92(1):178-183.
+
+[5]ZUO Z Y,YANG W R,WANG Y,et al.Effects of Astragalus membranaceus on laying performance and antioxidant status of laying hens[J].The Journal of Applied Poultry Research,2012,21(2):243-250.
+
+[6]ZHU Z Y,LIU R Q,SI C L,et al.Structural analysis and anti-tumor activity comparison of polysaccharides from Astragalus[J].Carbohydrate Polymers,2011,85(4):895-902.   
+[7]SUN S Y,ZHENG K,ZHAO H Y,et al.Regulatory effect of Astragalus polysaccharides on intestinal intraepithelial γδT cels of tumor bearing mice[J].Molecules,2014,19(9):15224-15236. [8] ABUELSAAD A SA.Supplementationwith Astragaluspolysaccharidesalters Aeromonas-induced tissue-specific cellular immune response[J].Microbial Pathogenesis,2014,66:48-56.   
+[9]GUIL S,ESTELLER M.RNA-RNA interactions in gene regulation:the coding and noncoding players[J].Trends in Biochemical Sciences,2015,40(5):248-256.   
+[10]ROSS S A,DAVIS C D.The emerging role of microRNAs and nutrition in modulating health and disease[J].Annual Review of Nutrition,2014,34(1):305-336.   
+[11]LIANG Y,RIDZON D,WONG L,et al.Characterization of microRNA expression profiles in normal human tissues[J].BMC Genomics,2007,8(1):166-185.   
+[12] BUSHATI N,COHENS M.microRNA functions[J].Annual Review of Cell and Developmental Biology,2007,23(1):175-205.   
+[13] XIAO C C,RAJEWSKY K.MicroRNA control in the immune system:basic principles[J].Cell,2009,136(1):26-36.   
+[14]TUFEKCI K U,MEUWISSEN R L J,GENC \$.The role of microRNAs in biological processes[M]//YOUSEF M,ALLMER J.miRNomics:MicroRNA Biology and Computational Analysis.New York:Humana Press,2014:15-31.   
+[15]LEE H M,NGUYEN D T,LU L F.Progress and challnge of microRNA research in immunity[J].Frontiers in Genetics,2014,5:178.   
+[16]KAPPIL M,CHEN J.Environmental influence of microRNA in Children’s health[J].Current Opinion in Pediatrics,2014,26(2):243-251.   
+[17]HARRYANTO H.Role of MicroRNA in early life placental programming of insulin resistance and metabolic health[D].Ph.D.Thesis.Adelaide:The University of Adelaide,2014. [18]MOBARRA N,SHAFIEE A,RAD S M A H,et al.Overexpression of microRNA-16 declines cellular growth,proliferation and induces apoptosis in human breast cancer cels[J].In Vitro
+
+Cellular & Developmental Biology-Animal,2015, 51(6):604-611.
+
+[19]YANG T Q,LU X J,WU T F,et al.MicroRNA-16 inhibits glioma cell growth and invasion through suppresson of BCL2 and the nuclear factor-kB1/MMP9 signaling pathway[J].Cancer Science,2014,105(3):265-271.   
+[20]HUANG E Y,LIU R H,CHU Y W.miRNA-15a/16:as tumor suppressors and more[J].Future Oncology,2015,11(16):2351-2363.   
+[21]ZHOU R,LI X Q,HU G K,et al.miR-16 targets transcriptional corepressor SMRT and modulates NF-kappaB-regulated transactivation of interleukin-8 gene[J].PLoS One,2012,7(1):e30772.   
+[22]LI T,MORGAN M J,CHOKSI S,et al.MicroRNAs modulate the noncanonical transcription factor NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ pathway by regulating expression of the kinase IKKα during macrophage differentiation[J].Nature Immunology,2010,11(9):799-805.   
+[23]CALIN G A,CIMMINO A,FABBRI M,et al.MiR-15a and miR-16-1 cluster functions in human leukemia[J].Proceedings of the National Academy of Sciences of the Unites States of America,2008,105(13):5166-5171.   
+[24]TALARI M,KAPADIA B,KAIN V,et al.MicroRNA-16 modulates macrophage polarization leading to improved insulin sensitivity in myoblasts[J].Biochimie,2O15,119:16-26.   
+[25]李玉龙.APS调控种公鸡基因传代转录分析[D].硕士学位论文.杨凌:西北农林科技大 学,2015.   
+[26]LIU J,LIANG P,YIN C,et al.Effects of several Chinese herbal aqueous extracts on human sperm motility in vitro[J].Andrologia,2004,36(2):78-83.   
+[27]KIM W,KIM S H,PARK S K,et al.Astragalus membranaceus ameliorates reproductive toxicity inducedby cyclophosphamide in male mice[J].Phytotherapy Research,2012,26(9):1418-1421.   
+[28] CHEN C F,RIDZON D A,BROOMER A J,et al.Real-time quantification of microRNAs by stem-loop RT-PCR[J].Nucleic Acids Research,2005,33(20):e179.   
+[29] SMALL E M,OLSON E N.Pervasive roles of microRNAs in cardiovascular biology[J].Nature,2011,469(7330):336-342.   
+[30] YUEJ M,TIGYI G.ConservationofmiR-15a/16-1andmiR-15b/16-2 clusters[J].Mammalian Genome,2010,21(1/2):88-94.   
+[31]LIANG Y,RIDZON D,WONG L,et al.Characterization of microRNA expression profiles in normal human tissues[J].BMC Genomics,2007,8(1):166.   
+[32] CASAS-AGUSTENCH P,FERNANDES FS,TAVARES DO CARMO M G,et
+
+al.Consumption of distinct dietary lipids during early pregnancy differentially modulates the expression of microRNAs in mothers and offspring[J].PLoS One,2015,10(2):e0117858.
+
+[33]MEALE S J,ROMAO JM,HE M L,et al.Effect of diet on microRNA expression in ovine subcutaneous and visceral adipose tissues[J].Journal of Animal Science,2014,92(8):3328-3337. [34]ROMAO J M,JIN W,HE M L,et al.Altered microRNA expression in bovine subcutaneous and visceral adipose tissues from cattle under different diet[J].PLoS One,2012,7(7):e40605. [35]YANG J,CAO Y X,SUN J F,et al.Curcumin reduces the expresson of Bcl-2 by upregulating miR-15a and miR-16 in MCF-7 cells[J].Medical Oncology,2010,27(4):1114-1118.   
+[36]GAO S M,YANG J J,CHEN C Q,et al.Pure curcumin decreases the expression of WT1 by upregulation of miR-15a and miR-16-1 in leukemic cells[J].Journal of Experimental & Clinical Cancer Research,2012,31(1):27.   
+[37]TSANG W P,KWOKT T.Epigallocatechin gallate up-regulation of miR-16 and induction of apoptosis in human cancer cells[J].The Journal of Nutritional Biochemistry,2010,21(2):140-146. [38] YUAN C T,PAN X P,GONG Y,et al.Effects of Astragalus polysaccharides (APS) on the expression of immune response genes in head kidney,gill and spleen of the common carp,Cyprinus carpio L.[J].International Immunopharmacology,2008,8(1):51-58.   
+[39]LIU L,SHEN J,ZHAO C,et al.Dietary Astragalus polysaccharide alleviated immunological stressinbroilersexposed tolipopolysaccharide[J].International Journal ofBiological Macromolecules,2015,72:624-632.   
+[40]ZHANG M,NII T,ISOBE N,et al.Expression of Toll-like receptors and effects of lipopolysaccharide on the expression of proinflammatory cytokines and chemokine in the testis and epididymis of roosters[J].Poultry Science,2012,91(8):1997-2003.   
+[41]ZHANG C L,REN H J,LIU M M,et al.Modulation of intestinal epithelial cell proliferation,migration,and differentiation invitro by Astragaluspolysaccharides[J].PLoS One,2014,9(8):e106674.   
+[42]WANG X F,SHEN J,LI S Z,et al.Sulfated Astragalus polysaccharide regulates the inflammatory reaction in LPS-infected broiler chicks[J].International Journal of Biological Macromolecules,2014,69:146-150.   
+[43]WANG X F,WANG S Y,LI Y L,et al.Sulfated Astragalus polysaccharide can regulate the inflammatory reaction induced by LPS in Caco2 cels[J].International Journal of Biological Macromolecules,2013,60:248-252.   
+[44]SHI J J,ZHAO Y,WANG Y P,et al.Inflammatory caspases are innate immune receptors for intracellular LPS[J].Nature,2014,514(7521):187-192.   
+[45] BARTEL D P.MicroRNAs:target recognition and regulatory functions[J]J.Cel,2009,136(2):215-233. [46]SALTIEL A R,PESSIN JE.Insulin signaling pathways in time and space[J].Trends in Cell Biology,2002,12(2):65-71.   
+[47]JING Q,HUANG S,GUTH S,et al.Involvement of microRNA in AU-rich element-mediated mRNA instability[J].Cell,2005,120(5):623-634.   
+[48] ANDERSONP.Post-transcriptionalcontrolofcytokineproduction[J].Nature Immunology,2008,9(4):353-359.   
+[49]HUANG Z,MA J T,CHEN M J,et al.Dual TNF- ${ \bf \nabla } \cdot { \bf a } ,$ /IL-12p40 interference as a strategy to protect against colitis based on miR-16 precursors with macrophage targeting vectors[J].Molecular Therapy,2015,23(10):1611-1621.   
+[50]WANG X L,WANG X L,LIU X L,et al.miR-15a/16 are upreuglated in the serum of neonatal sepsis patients and inhibit the LPS-induced inflammatory pathway[J].International Journal of Clinical and Experimental Medicine,2015,8(4):5683-5690.   
+[51]ZHANG X H,WANG D Y,HU Y L,et al.Immunologic enhancement of Astragalus polysaccharide (APS） on the humoral immunity of chicken[J].Chinese Journal of Veterinary Science,2009,29(3):312-314,334.
+
+Effects and Bioinformatic Analysis of Astragalus Polysaccharide on miR-16 Expression in Different Tissue of Breeder Cocks
+
+REN Xiaochun LI YulongWU Shengru LEI Xinyu GUO Wei DANG Yanna GONG Yuesheng\* YANG Xiaojun\*
+
+(College of Animal Science and Technology,Northwest A&F University, Yanling,712100) Abstract: This experiment was conducted to investigate the effects of Astragalus polysaccharides (APS)on miR-16 expression in different tissues of breeder cocks,combining with the functional enrichment analysis of GO and KEGG pathway of miR-16 predicted targets,and to explore the potential regulation role of APS in different tissues via miR-16. A total of 64 one-day-old Cobb 500 breeder cocks were randomly divided into control group and APS group with 4 replicates per group and 8 breeder cocks per replicate.Cocks in the control group were fed with a corn-soybean meal based diet, and the others in APS group were fed the basal diet supplemented with $1 0 ~ \mathrm { g / k g }$ APS.The experiment lasted for 40 weeks. The results showed as follows: 1) compared with the control group,dietary supplemented with APS improved the semen volume and number of effective sperm, decreased the percentage of abnormal sperm $( P { > } 0 . 0 5 )$ . 2）miR-16 differentially expressed in different tissues; APS ssignificantly increased the miR-16 expression in liver, spleen, duodenum mucosa and ileum mucosa ( $_ { \it P } { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ), and down-regulated miR-16 expression in testis ( $( P { < } 0 . 0 5 )$ .3） GO enrichment analysis of miR-16 predicted targets were showed to be enriched for the metabolic functions in transmembrane transport, ubiquitin-dependent protein catabolic process,intracellular protein transport, glycolytic process ( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ).KEGG pathway showed that the target genes were enriched in focal adhesion, insulin signaling pathway, glycolysis/gluconeogenesis associated with cell proliferation， differentiation and metabolism （20 $( P { < } 0 . 0 5 )$ . And the target genes were also enriched in toll-like receptors signaling pathways and natural killer cell mediated cytotoxicity related to immune pathways. In conclusion，APS up-regulates the expression of miR-16 in liver, spleen, duodenum mucosa, ileum mucosa, while down-regulates it in testis of breeder cocks.miR-16 predicted targets collecte with metabolism and immune regulation, it showed that APS regulated the miR-16 expression on different tissue of breeder cocks to affect the metabolism and immune regulation functions.
+
+Key Words: APS; breeder cocks; miR-16; semen quality; tissue expresson; bioinformatics analysis

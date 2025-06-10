@@ -1,0 +1,222 @@
+# 不同相关线索下海洛因成瘾者的反应差异
+
+# 及反应抑制特征：来自ERP的证据
+
+郑志灵 王鹏飞 苏得权 郭伟杰 孙楠\*麻彦坤\* 曾红\*(广州大学教育学院心理系广州大学心理与脑科学研究中心广州510006)
+
+摘 要采用ERP技术，探究海洛因成瘾者在不同相关线索下的脑电反应及其与冲动性的关系。实验采用组间实验设计和双选择Oddball范式，要求海洛因成瘾组和健康对照组被试对标准刺激与偏差刺激分别做不同的按键反应，记录他们的EEG数据。结果发现：相比对照组被试，海洛因成瘾者在观看药物相关线索时诱发的N2 波幅更小，P3波幅更大；在成瘾组内，相比用药工具线索，用药动作线索诱发了更小的 N2波幅和更大的P3波幅。这表明海洛因成瘾者对药物相关线索存在反应抑制缺陷，且不同的药物相关线索会激发海洛因成瘾者不同程度的反应抑制缺陷，用药动作线索比用药工具线索更大程度地影响成瘾者的反应抑制能力，反映出更高的动作冲动性。
+
+关键词 海洛因成瘾者；相关线索;冲动性;双选择Oddball范式;ERP
+
+# 1前言
+
+相关线索是指与药物使用同时存在的环境刺激，包括用药工具、动作、人物及当事人的心境，它们通过条件作用，成为药物相关线索。个体成瘾后，一旦出现相关线索，就会引发条件反射，产生相关线索反应，包括习惯性用药行为和渴求感(Yalachkov,Kaiser,&Naumer,2010;曾红,苏得权,姜醒,陈骐,叶浩生,2015)。在相关线索下，用药行为趋向自动化，可以在很少的注意力、目的或认知努力的情况下进行，构成一种自动化性质的“习惯”性行为反应倾向(Zeng etal.,2018)。如果药物不可获得，则这种行为反应倾向会转化为心理渴求感，并表现出强迫性的用药行为倾向(王鹏飞,严瑞婷,苗心,刘泱,曾红,2019)。这两种相关线索反应形式均表现出冲动性的特征。习惯性用药行为反映出典型的动作冲动，而心理渴求驱使下的强迫性用药行为则既有无法控制动作的动作冲动，又包含了不能控制对目标渴求的等待冲动。这些不同的冲动性形成成瘾者的典型特征(Houben&Wiers,2009)。
+
+冲动性的特征之一是自发的、无意识的行为习惯(动作冲动)，在物质成瘾过程中起着重要作用(Everitt & Robbins,2016; Jentsch et al.,2014; Pattij &De Vries,2013)。反应抑制受损是动作冲动产生的重要原因，也是冲动性的表现(Bickel,Jarmolowicz,Mueller,Gatchalian,&McClure,2012;Perry&Carroll,2008)。反应抑制差的人会表现出无法控制自己的优势反应，而表现出动作冲动性特征(MacKillop etal.,2016)。海洛因成瘾者的反应抑制能力存在缺陷，造成成瘾个体难以抑制相关线索下的海洛因寻求和使用行为(Field&Cox,2008;Franken,2003; Robinson & Berridge,1993)。
+
+持续的药物使用使成瘾物质与相关线索不断匹配，在条件作用下，造成只要出现相关线索，个体就会产生习惯性的药物寻求或使用行为倾向。这种倾向由相关线索刺激引发，自动化呈现，个体难以控制。在成瘾物质可获得的情况下，表现为相关线索下无意识地、不加思考地直接使用成瘾物质，反映出低水平的反应抑制特征(王鹏飞 等,2019)。这表现为成瘾者在 Stop-Signal任务上普遍呈现更差的停止冲动(Ersche et al.,2013)，也称反应抑制不足，表现为高冲动性行为。这可能是至上而下的控制机能无法控制经由条件反射形成的动作反应，不能及时有效地制止已经启动的行为的结果。
+
+相关线索下，当药物不可即时获得时，相关线索引发的习惯性行为倾向无法得到表达，会转化为对药物的强烈心理渴求，自动化的行为倾向转化为具有目标的冲动行为，无法克制，呈现强迫性特征：即使面对严重的负性后果，个体仍会继续用药(Dalley etal.,2007)。动物研究显示，高冲动的大鼠即使在电击的惩罚下，仍然持续地寻求和使用可卡因(Pelloux,Everitt,&Dickinson,2007)，表现出显著的强迫性药物摄入行为。这类强迫性与冲动性具有相同的性质，无法控制自身的行为(Robbins,Gillan,Smith,de Wit,& Ersche,2012)。
+
+习惯性和强迫性用药行为出现在相关线索反应的不同阶段。早期，呈现条件反射性质的习惯性反应倾向，成瘾个体直接用药，表现为典型的动作冲动性，这种反应有可能是下意识地进行。当外界环境无法满足这种下意识的行为表达时，则转化为主观性很强的、意识范畴内的渴求感，并进一步导致强迫性用药行为，表现出典型的等待冲动特征。两个阶段中，成瘾者均表现出强烈的冲动性，或者说成瘾者的自我控制能力均不足以抑制该阶段由于条件作用造成的药物使用冲动。不过，这两种冲动由于其出现的时间不同，可能存在不同的生理基础，现在对此还不十分清楚。
+
+观察行为或与之有关的刺激会增加一个人做出这些行为的可能性(Boy,Husain,Singh,&Sumner,2010)。Wagner,Cin,Sargent,Kelley 和 Heatherton (2011)的研究发现：与吸烟行为相关的线索能激活成瘾者大脑中相应的动作表达，在客观条件许可的情况下，转化为自动化的吸烟行为。这种激活可以通过观察使用药物的动作，激发动作观察网络并内在地模仿(Yalachkov& Naumer,2011)。由此表明，与动作(刺激)有关的相关线索可能比其他相关线索更易激发成瘾者的相关线索的动作反应，即习惯性药物使用。不过，与动作有关的线索是否对线索下的习惯性行为反应有更强的促进作用，目前还不确定。本研究中把相关线索分为与动作有关和无直接关系两类，尝试确定是否与用药动作相关的线索可以更直接地促进用药(复吸)行为的形成。Zeng 等(2018)采用 fMRI，发现与用药动作相关的线索能激发成瘾者在感觉动作脑区更强烈的反应，但基于影像的研究无法从时间上区别是否相关线索下的脑区激活是由于动作线索中的动作属性(与动作相关的脑区激活)造成的还是由于与药物相关的属性(与用药效应相关的脑区)造成的，或者两者兼而有之。ERP技术以其更精确地分辨时间的特点而使探索不同反应的时间顺序成为可能。
+
+双选择Oddball范式的ERP研究显示，额-中央区的N2成分和中央－顶区的P3 成分是与反应抑制控制过程密切相关的两个ERP 成分(Yuan,He,Zhang,Chen,&Li,2008)。N2 成分被认为是反应抑制的早期阶段(潜伏期一般为 $2 0 0 { \sim } 3 0 0 ~ \mathrm { m s } ,$ ，主要与冲突监测和冲动控制有关，N2 波幅越大，代表冲突觉察即控制冲动性的能力越强(Dong,Yang,Hu,& Jiang,2009;赵仑,2010)；P3成分(潜伏期一般在 $3 0 0 ~ \mathrm { { m s } }$ 左右)则是反应抑制加工过程的直接指标，被广泛认为与后期的反应决策和抑制控制过程相关，其波幅的变化可能反映了参与者成功抑制反应冲动时的认知努力程度(Dong,Lu,Zhou,& Zhao,2010;赵仑,2010)：抑制过程越强烈(意味着引发的自动化用药行为倾向或心理渴求越强烈)，P3 波幅就越大(Donkers& vanBoxtel,2004; Nieuwenhuis,Aston-Jones,& Cohen,2005; Yuan et al.,2008)，但更大的 P3 波幅可能与抑制控制受损有关(Dong et al.,2009)。这两个心理过程也是抑制过程中的基本能力(Dong et al., 2010)。
+
+一项使用双选择Oddball任务的ERP研究发现，在相关线索下，海洛因成瘾者的N2 波幅与健康对照组被试相比更小(Su et al.,2017)。海洛因成瘾者在Go/Nogo 任务中，Nogo 刺激和Go 刺激所诱发的P3 潜伏期与健康对照组被试相比更长(Yang et al.,2015)，表明海洛因成瘾者的反应抑制受损，且表现在冲动抑制过程中的冲突监控阶段和抑制加工阶段。
+
+与 Go/Nogo 范式要求被试抑制对小概率 Nogo 刺激的反应不同，双选择Oddball范式要求被试尽快且准确地对大概率Go刺激(标准刺激)与小概率 Nogo 刺激(偏差刺激)做两类不同的按键反应，弥补了Go/Nogo任务中反应相关过程污染抑制相关过程的不足(辛勇,李红，袁加锦,2010;袁加锦,徐萌萌,杨洁敏,李红,2017)。由于标准刺激的呈现概率远大于偏差刺激，实验中被试对标准刺激的反应频率远高于对偏差刺激的反应频率。因此，个体对标准刺激的反应成为优势反应。当偏差刺激呈现时，被试需抑制对标准刺激的优势反应，从而确保对偏差刺激做出正确的行为反应(辛勇 等,2010)。标准刺激和偏差刺激在行为和脑电层面上的差异被作为纯粹的抑制效应指标(Yuan et al.,2008;辛勇 等,2010)。综上，通过操纵偏差刺激的线索并记录各偏差条件与标准条件诱发的脑活动，便可考察不同的线索对反应抑制/冲动性的影响。双选择Oddball范式可应用于物质成瘾者行为冲动性的检测与干预研究(袁加锦等,2017)。
+
+本研究采用ERP双选择Oddball范式，考察不同相关线索下，海洛因成瘾者的行为反应以及与此相关的脑电特征，了解处于戒断期的成瘾者在不同相关线索下呈现的冲动性特征及其脑电基础。由于成瘾者在药物相关线索下会产生自动化的习惯性用药行为倾向反应，是一种基于条件反射性质的无意识反应；在药物不可获得的情况下，成瘾者紧接着会产生心理渴求，如无法自我控制，则产生强迫性的“目标-导向”行为倾向，因此，我们假设：1、代表早期反应的脑电成分N2波幅会呈现降低的状况，作为这种无意识反应的生理指标之一；代表相对后期出现行为的P3 波幅则会升高。2、与用药工具线索相比，用药动作线索会造成成瘾者更强的反应，表现为N2 波幅更低、P3波幅更高。
+
+# 2研究方法
+
+# 2.1被试
+
+成瘾组被试是来自广东省某自愿戒毒所的20名海洛因男性成瘾者(年龄： $3 9 . 8 4 \pm 3 . 4 5$ 岁)，入组标准：(1)年龄18\~45 岁；(2)没有严重的头部损伤和神经系统疾病，没有服用有可能影响神经系统的药物；(3)符合DSM-V药物成瘾的诊断标准；(4)距末次用药时间至少1个月以上；(5)小学及以上教育程度。健康对照组为20 名健康男性(年龄： $4 2 . 4 6 \pm 1 5 . 3 5$ 岁)，均为社会招募人员，没有使用成瘾性药物的经历，无精神疾病和神经系统疾病病史，年龄、性别和受教育时间与成瘾组相匹配。
+
+# 2.2实验材料及程序
+
+# 2.2.1材料
+
+在双选择Oddball范式中，实验材料分为标准刺激和偏差刺激(比例为 $70 \%$ VS. $30 \%$ 两类，包括两种条件：(1)工具条件，“杯子”图片为标准刺激，用药工具和对照工具线索为偏差刺激；(2)动作条件，“喝水”图片为标准刺激，用药动作和对照动线索作为偏差刺激。
+
+偏差刺激图片包括两大类：一类为药物相关线索图片，这类图片又分成2种：用药工具图片，包括针筒、各类海洛因吸食工具；用药动作图片，图片呈现他人手持用药工具吸食或注射海洛因的情景。另一类为对照线索图片，该类图片也分成2种，分别与药物相关线索图片对应的日常生活工具图片和使用这些日常生活工具完成作用于身体的动作图片。所有药物相关图片和对照图片在大小、质地以及呈现的图片布局上都尽可能相同。同时，用药动作图片和对照动作图片在动作上尽量保持相似，如都是使用某类工具作用于身体，以减少眼动和注视范围不同而造成的脑激活偏差。
+
+各类药物相关图片来源：首先收集药物相关线索图片50张，经筛选之后，分成两类：用药工具图片，包含药物和使用药物的工具，不能出现人物和动作；用药动作图片包含药物、工具和用药动作。图片处理后，请戒毒康复机构的海洛因戒毒人员评价线索图片诱发心理渴求的程度，评价者30人，年龄 $3 9 . 2 7 \pm 5 . 3 7$ 岁，教育程度为 $1 0 \pm 2 . 4 2$ 年，药物依赖时间为 $1 1 \pm 5 . 6 8$ 年，戒断时间为 $1 9 . 3 \pm 1 5$ 个月，他们对每一张图片诱发的心理渴求程度进行0\~7级评分。删除1个无效数据，共得到29名海洛因成瘾者的评价数据。删除不能诱发心理渴求的图片和3个标准差之外的图片，获得用药工具图片、用药动作图片各16张。单因素方差分析显示，线索类型的渴求度主效应显著， $F ( 1 , 3 0 ) = 4 9$ ， $p < 0 . 0 0 1$ 。
+
+# 2.2.2程序
+
+2 (被试类型：海洛因成瘾组、健康对照组) $\times 2$ (线索属性：工具线索、动作线索) $\times 2$ (线索类型：药物线索、对照线索)三因素混合设计，因变量为行为数据(反应时、正确率)和ERP数据(N2、P3 的平均波幅和潜伏期)。正式实验共有2个Block，分别为工具条件和动作条件，每个Block包含300个试次。工具和动作条件的顺序在被试间平衡，随机选取一半被试先完成工具条件任务，另一半被试则先完成动作条件任务。被试在进入实验室后，主试向被试讲解实验目的、要求、注意事项等，并为被试戴好电极帽，坐在距离显示器 $8 0 \ \mathrm { c m }$ 的椅子上并注视屏幕中央。正式实验时，首先在屏幕中央呈现一个 $1 0 0 0 \mathrm { { m s } }$ 的“ $+ ^ { , }$ 注视点；紧接着随机呈现标准刺激或偏差刺激，刺激在按键后消失，呈现时间上限为 $1 2 0 0 ~ \mathrm { { m s } }$ ；最后再呈现$1 0 0 0 \mathrm { { m s } }$ 的黑屏。在呈现刺激时，要求被试认真观看刺激并又快又准地进行分类按键反应：当被试看到标准刺激时按“F"键，看到偏差刺激时按“J"键。每个Block结束后呈现反应的正确率和反应时反馈，休息 $5 \mathrm { m i n }$ ，接着进行下一个Block直到结束。实验流程见图1。
+
+![](images/9489c52bac32a1b4bcd752a919a54793f4082455ea3cf8771fbb337bc08b753f.jpg)  
+图1实验流程图 (以工具条件为例)
+
+# 2.3实验过程
+
+在广东省某戒毒康复机构，通过口头和书面广告招募参与实验的成瘾组被试，然后对报名者进行筛选，符合要求者参与实验。在社会招募健康对照组被试。所有参与实验者均签署知情同意书，并得到120元报酬。
+
+海洛因成瘾组被试在参加实验的前一个月没有使用毒品，前一天不能喝酒。实验当天进行尿检测试。心理学专业主试一对一指导每一位被试填写知情同意书，成瘾组被试还需完成成瘾行为个案调查表，焦虑自评量表，并进行心理渴求的口头报告，同时测试心跳、呼吸、血压、皮电、皮温，对其药物渴求状态进行评估。实验结束后，对成瘾组被试再重测上述指标和报告心理渴求状态，并进行结构式访谈，帮助被试降低可能由实验引发的负面情绪。
+
+# 2.4ERP数据记录与分析
+
+采用 BPERP记录与分析系统，按国际10-20 系统扩展的64导电极帽记录EEG。脑电记录时各电极参考于左侧乳突，离线分析时通过对TP8的再参考，实现以左侧乳突和 TP8的平均值为参考。前额中央接地。垂直眼电(VEOG)电极分别安放在左眼的上下 $1 . 5 \mathrm { c m }$ 处。水平眼电(HEOG)电极分别置于左右眼外。记录采用的滤波宽带为 $0 . 0 1 { \sim } 2 5 0 \mathrm { H z }$ ，采样频率为${ 5 0 0 } \mathrm { H z } /$ 导，头皮阻抗 $< 5 \mathrm { k } \Omega$ 。
+
+实验完成后对数据进行离线分析，分析时程为 $8 0 0 \mathrm { m s }$ ，以刺激界面出现前的 $1 0 0 ~ \mathrm { { m s } }$ 作为基线。对各线索偏差刺激及标准刺激诱发的ERP分别进行叠加平均。波幅大于 $\pm 1 0 0 \mu \mathrm { V }$ 的trial被视为伪迹剔除，最后采用 $1 6 \mathrm { H z }$ 低通滤波处理。参考已有研究并综合本研究目的，主要分析与反应抑制控制相关的 N2（ $( 2 0 0 { \sim } 3 0 0 ~ \mathrm { m s } )$ 和P3 $( 3 5 0 { \sim } 5 5 0 ~ \mathrm { m s } )$ 成分，并选择以下12个电极位置记录的ERP波形用于统计分析：F3、Fz、F4、C3、Cz、C4、CP3、CPz、CP4、P3、Pz、P4。脑电数据分析中我们剔除了波幅大于 $\pm$ $1 0 0 ~ \mu \mathrm { V }$ 的被试4人(其中成瘾组1人，健康对照组3人)，最后纳入数据分析的被试为36名。
+
+# 2.5统计
+
+统计分析采用 SPSS Statistics 22.0。首先通过平均波幅分析在200\~300 ms及350\~550ms 两窗口检验抑制控制效应。分析因素为刺激类型(标准刺激、偏差刺激)与电极点(12个电极点)。在抑制控制效应显著的基础上，通过测量各线索下N2、P3的平均波幅和潜伏期，进一步分析被试类型、线索属性及线索类型对反应抑制控制过程的影响。对上述各成分的波幅和潜伏期进行四因素方差分析，其中被试类型(海洛因成瘾组、健康对照组)为被试间变量，线索属性(工具线索、动作线索)、线索类型(药物线索、对照线索)和电极点(12个电极点)为被试内变量。方差分析的结果采用Greenhouse-Geisser 法校正自由度及P值。
+
+# 3结果
+
+# 3.1被试的基本信息
+
+海洛因成瘾组和健康对照组在年龄 $( t ( 3 4 ) = - 0 . 8 7 , p = 0 . 3 9 )$ 、受教育年限 $( t ( 3 4 ) = - 1 . 5 7 , p$ $= 0 . 1 3 )$ 和焦虑水平 $( t ( 3 4 ) = 1 . 8 9 , p = 0 . 0 7 )$ 上均没有显著差异；成瘾组的吸烟、饮酒量显著高于对照组， $t ( 3 4 ) = 4 . 9 3 , p < 0 . 0 0 1$ ， $t ( 3 4 ) = 3 . 1 6$ $p = 0 . 0 0 3$ 。成瘾组被试首次吸毒的平均年龄约20岁，吸毒平均持续时间为205个月，平均戒断时长为37个月，以前海洛因的使用量为平均 $0 . 5 6 \mathrm { g } /$ 天(见表1)。
+
+表1被试基本信息表 $\left( N = 3 6 \right)$ （204号  
+
+<html><body><table><tr><td>项目</td><td>海洛因成瘾组 (n = 19)</td><td>健康对照组 (n=17)</td><td>p值</td></tr><tr><td>年龄 (岁)</td><td>M (SD) 39.84 (3.25)</td><td>M (SD) 42.46 (12.73)</td><td>0.391</td></tr><tr><td>受教育年限 (年)</td><td>9.65 (1.41)</td><td>11.25 (4.22)</td><td>0.127</td></tr><tr><td>吸烟情况 (包/周)</td><td>5.85 (2.08)</td><td>2.34 (2.19)</td><td>0.000</td></tr><tr><td>饮酒情况 (ml/周)</td><td>833.82 (855.94)</td><td>168.75 (135.53)</td><td>0.003</td></tr><tr><td>焦虑水平</td><td>30.29 (6.35)</td><td>26.67 (4.98)</td><td>0.067</td></tr><tr><td>首次吸毒年龄 (岁)</td><td>19.76 (3.82)</td><td></td><td></td></tr><tr><td>吸毒持续时间 (月)</td><td>205 (42.93)</td><td></td><td></td></tr><tr><td>戒断时间 (月)</td><td>37.18 (20.01)</td><td></td><td></td></tr><tr><td>以前海洛因使用量 (克/天)</td><td>0.56 (0.25)</td><td></td><td></td></tr></table></body></html>
+
+# 3.2海洛因成瘾组被试在实验前后的渴求感及生理指标
+
+ERP 实验前后，对成瘾组被试进行了渴求感报告和各项生理指标的测试，比较相关线
+
+索对其渴求感的诱发和个体反应情况。采用配对样本 $t$ 检验，结果显示，所有生理指标在测试前后皆无显著差异，口头报告的渴求感也无差异(见表2)。
+
+表2海洛因成瘾组在ERP实验前后各项生理指标及渴求感的变化状况   
+
+<html><body><table><tr><td>变量</td><td>ERP前</td><td>ERP后</td><td>t</td><td>P</td></tr><tr><td>平均体温</td><td>36.87 (0.34)</td><td>36.93 (0.24)</td><td>- 0.72</td><td>0.48</td></tr><tr><td>皮电(30s)</td><td>5.88 (9.37)</td><td>- 1.06 (20.81)</td><td>1.584</td><td>0.13</td></tr><tr><td>皮电(60s)</td><td>2.29 (11.15)</td><td>- 2.35 (12.63)</td><td>1.06</td><td>0.31</td></tr><tr><td>收缩压 (mm/Hg)</td><td>128.12 (14.62)</td><td>127.65 (10.40)</td><td>0.20</td><td>0.85</td></tr><tr><td>舒张压 (mm/Hg)</td><td>81.53 (11.73)</td><td>82.94 (9.47)</td><td>- 0.80</td><td>0.44</td></tr><tr><td>心率 (次/分)</td><td>75.94 (9.01)</td><td>75.65 (12.22)</td><td>0.15</td><td>0.88</td></tr><tr><td>渴求感</td><td>0.94 (1.18)</td><td>1.06 (1.27)</td><td>- 1.12</td><td>0.28</td></tr></table></body></html>
+
+# 3.3行为结果
+
+被试对标准刺激和偏差刺激的反应正确率均超过 $96 \%$ ，且对标准刺激的正确率显著高于偏差刺激 $[ F ( 1 , 3 4 ) = 2 0 . 4 6 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 3 5$ 。反应时方面，刺激类型的主效应显著 $[ F ( 1 ,$ $3 4 ) = 5 5 . 8 3 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 6 2 ]$ ，被试在偏差刺激上的反应时显著长于标准刺激。对被试类型、线索属性和线索类型的重复测量方差分析显示，线索属性的主效应 $[ F ( 1 , 3 4 ) = 2 6 . 9 7 , p <$ 0.001, $\eta ^ { 2 } = 0 . 4 4 ]$ 、线索属性和线索类型的交互效应 $[ F ( 1 , 3 4 ) = 7 . 2 5 , p = 0 . 0 1 1 , \mathsf { r }$ $\eta ^ { 2 } = 0 . 1 8 ]$ 以及被试类型和线索类型的交互效应显著 $[ F ( 1 , 3 4 ) = 1 0 . 1 7 , p = 0 . 0 0 3 , \eta ^ { 2 } = 0 . 2 3 ]$ 。成瘾组在药物线索和对照线索上的反应时均显著长于对照组 $[ F ( 1 , 3 4 ) = 1 4 . 7 7 , p = 0 . 0 0 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 3 0$ ， $F ( 1 , 3 4 ) =$ $5 . 5 4 , p = 0 . 0 2 5 , \eta ^ { 2 } = 0 . 1 4 ]$ 。成瘾组在观看用药工具线索和用药动作线索时的反应时均显著长于对照组[F(1,34)= 11.14, $p = 0 . 0 0 2$ $\mathfrak { n } ^ { 2 } = 0 . 2 5$ ：， $F ( 1 , 3 4 ) = 1 7 . 7 0$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 3 4 ]$ ；成瘾组在用药动作线索上的反应时长于用药工具线索 $[ F ( 1 , 3 4 ) = 3 . 8 4 , p = 0 . 0 5 8 , \eta ^ { 2 } = 0 . 1 0 ] _ { \odot }$
+
+# 3.4ERP成分与统计分析
+
+# 3.4.1抑制效应检验： (原始波形)
+
+对 $2 0 0 { \sim } 3 0 0 ~ \mathrm { m s }$ 区间的平均波幅进行重复测量方差分析，发现显著的刺激类型主效应$[ F ( 1 , 3 4 ) = 6 . 7 0 , p = 0 . 0 1 4 , \eta ^ { 2 } = 0 . 1 7 ]$ ，偏差刺激诱发出相比标准刺激更大的N2波幅。在$3 5 0 { \sim } 5 5 0 ~ \mathrm { m s }$ 区间发现显著的电极点主效应 $[ F ( 1 1 , 2 4 ) = 1 4 . 4 0 , p < 0 . 0 0 1$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 8 7 ]$ 以及刺激类型和电极点交互效应 $[ F ( 1 1 , 2 4 ) = 1 4 . 5 0 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 8 7 ]$ ，偏差刺激在中央顶区诱发的P3波幅显著大于标准刺激。由此可知，本实验条件下，偏差刺激可诱发出显著的行为抑制效应。
+
+# 3.4.2各类线索对反应抑制能力的影响(偏差-标准差异波)
+
+N2 效应：被试类型的主效应显著 $[ F ( 1 , 3 4 ) = 6 . 1 4 , p = 0 . 0 1 8 , \eta ^ { 2 } = 0 . 1 5 ]$ ，成瘾组诱发的N2 波幅比对照组显著更小。被试类型、线索属性和线索类型的交互效应显著 $[ F ( 1 , 3 4 ) = 5 . 5 7$ $p = 0 . 0 2 4 , \eta ^ { 2 } = 0 . 1 4 ]$ 。成瘾组在观看药物线索和对照线索的N2波幅均显著小于对照组 $[ F ( 1 ,$ （20
+
+$3 4 ) = 5 . 5 4 , p = 0 . 0 2 5 , \eta ^ { 2 } = 0 . 1 4 ; F ( 1 , 3 4 ) = 5 . 8 2 , p = 0 . 0 2 1 , \eta ^ { 2 } = 0 . 1 5 ]$ ；成瘾组在观看药物线索时的N2波幅与对照线索相比没有显著差异 $[ F ( 1 , 3 4 ) = 0 . 4 9 , p = 0 . 4 8 7 ]$ ；对照组在观看药物线索时的N2波幅大于对照线索 $[ F ( 1 , 3 4 ) = 2 . 9 7 , p = 0 . 0 9 4 , \eta ^ { 2 } = 0 . 0 9$ 。与对照组相比，成瘾组在观看用药动作线索时的N2 波幅显著更小 $[ F ( 1 , 3 4 ) = 8 . 1 7 , p = 0 . 0 0 7 , \eta ^ { 2 } = 0 . 1 9 ]$ ；与用药工具线索相比，成瘾组在观看用药动作线索时的N2波幅更小 $[ F ( 1 , 3 4 ) = 3 . 5 6 \$ $p = 0 . 0 6 8$ $\ \eta ^ { 2 } =$ 0.10]，而对照组在观看用药工具和用药动作时的N2 波幅无显著差异。
+
+成瘾组在观看用药工具线索和对照工具线索间与用药动作线索和对照动作线索间的 N2波幅均无显著差异；对照组在观看用药动作诱发的N2波幅显著大于对照动作 $[ F ( 1 , 3 4 ) =$ 6.48, $p = 0 . 0 1 6$ $\boldsymbol { \eta } ^ { 2 } = 0 . 1 6 \boldsymbol { \mathrm { J } }$ ，用药工具和对照工具无显著差异。此外，被试类型、线索属性、线索类型和电极点四阶交互效应显著 $: [ F ( 1 1 , 3 7 4 ) = 3 . 6 4 , p = 0 . 0 1 4 , \eta ^ { 2 } = 0 . 1 0 ]$ ，成瘾组在观看用药动作线索时额区、中央区和中央顶区诱发的N2波幅均显著小于对照组。
+
+对 N2 的潜伏期分析表现出显著的电极点 $[ F ( 1 1 , 3 7 4 ) = 3 . 2 6 , p = 0 . 0 0 7 , \eta ^ { 2 } = 0 . 0 9 ]$ 、线索属性 $[ F ( 1 , 3 4 ) = 1 2 . 3 6 , p = 0 . 0 0 1 , \eta ^ { 2 } = 0 . 2 7 ]$ 主效应，以及电极点和线索属性的交互效应 $[ F ( 1 1 ,$ $3 7 4 ) = 2 . 9 7 , p = 0 . 0 0 4 , \eta ^ { 2 } = 0 . 0 8 ]$ 。成瘾组在观看药物线索时中央顶区诱发的N2潜伏期显著小于对照线索 $[ F ( 1 , 3 4 ) = 8 . 1 6 , p = 0 . 0 0 7 , \eta ^ { 2 } = 0 . 1 9 ]$ ，对照组无该显著差异。成瘾组在观看用药动作线索时中央顶区诱发的N2 潜伏期显著小于对照动作线索 $[ F ( 1 , 3 4 ) = 4 . 4 4$ ， $p = 0 . 0 4 3$ $\eta ^ { 2 } = 0 . 1 2 \big ]$ ；成瘾组在观看用药工具线索时中央区和中央顶区诱发的N2潜伏期显著小于对照工具线索 $F ( 1 , 3 4 ) = 3 . 6 4 , p = 0 . 0 6 5 , \eta ^ { 2 } = 0 . 1 0 ; F ( 1 , 3 4 ) = 3 . 7 6 , p = 0 . 0 6 1 , \eta ^ { 2 } = 0 . 1 0 ]$ ，对照组无该显著差异。
+
+P3 效应：电极点 $[ F ( 1 1 , 3 7 4 ) = 1 2 . 7 6 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 2 7 ]$ 、线索类型 $[ F ( 1 , 3 4 ) = 7 . 3 1 , p =$ 0.011, $\eta ^ { 2 } = 0 . 1 8 ]$ 的主效应与电极点和线索属性的交互效应 $[ F ( 1 1 , 3 7 4 ) = 6 . 5 2 , p < 0 . 0 0 1$ ， $\ \eta ^ { 2 } =$ 0.16]、电极点和线索类型的交互效应 $[ F ( 1 1 , 3 7 4 ) = 1 0 . 4 0 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 2 3 ]$ 以及被试类型、线索属性和线索类型的交互效应显著 $[ F ( 1 , 3 4 ) = 7 . 1 5 , p = 0 . 0 1 1 , \eta ^ { 2 } = 0 . 1 7 ]$ 。成瘾组在观看药物线索和对照线索时所诱发的P3 波幅均显著大于对照组 $[ F ( 1 , 3 4 ) = 8 . 1 1$ ， $p = 0 . 0 0 7$ ， $\ \eta ^ { 2 } =$ 0.19; $F ( 1 , 3 4 ) = 3 . 6 2 , p = 0 . 0 6 5 , \eta ^ { 2 } = 0 . 1 0 ]$ ；成瘾组在观看药物线索时的P3波幅与对照线索相比没有显著差异 $[ F ( 1 , 3 4 ) = 1 . 4 6 , p = 0 . 2 3 6 ]$ ，而对照组观看药物线索诱发的P3 波幅显著小于对照线索 $[ F ( 1 , 3 4 ) = 6 . 6 6 , p = 0 . 0 1 4 , \eta ^ { 2 } = 0 . 1 6 ]$ 。与对照组相比，成瘾组在观看用药动作线索时所诱发的P3 波幅显著更大 $[ F ( 1 , 3 4 ) = 1 3 . 7 9 , p = 0 . 0 0 1 , \eta ^ { 2 } = 0 . 2 9 ]$ ；成瘾组在观看用药动作线索时所诱发的P3 波幅显著大于用药工具 $[ F ( 1 , 3 4 ) = 4 . 5 0 , p = 0 . 0 4 1 , \eta ^ { 2 } = 0 . 1 2 _ { \mu }$ ，对照组无该显著差异；成瘾组在观看用药工具线索时的波幅显著小于对照工具线索 $[ F ( 1 , 3 4 ) =$ 4.13 $, p = 0 . 0 5 0 , \eta ^ { 2 } = 0 . 1 1 ]$ ，对照组无该显著差异；成瘾组在观看用药动作线索和对照动作线索间的波幅无显著差异 $[ F ( 1 , 3 4 ) = 0 . 0 4 , p = 0 . 8 4 ]$ ，对照组在观看用药动作诱发的P3 波幅显著小于对照动作 $[ F ( 1 , 3 4 ) = 9 . 7 3 , p = 0 . 0 0 4 , \eta ^ { 2 } = 0 . 2 2 ]$ 。电极点和线索属性、线索类型的交互效应显著 $[ F ( 1 1 , 3 7 4 ) = 4 . 8 8 , p = 0 . 0 0 2 , \eta ^ { 2 } = 0 . 1 3 ]$ ，对成瘾组进行简单效应分析显示，成瘾组在中央区、中央顶区和顶区的用药动作线索P3 波幅显著大于用药工具线索；成瘾组在中央区和顶区的用药动作线索波幅显著大于对照组。
+
+对 P3 的潜伏期分析表现出显著的电极点 $[ F ( 1 1 , 3 7 4 ) = 2 6 . 8 0 , p < 0 . 0 0 1$ $\boldsymbol { \eta } ^ { 2 } = 0 . 4 4 \boldsymbol { \mathrm { J } }$ 、线索属性 $[ F ( 1 , 3 4 ) = 6 . 0 3 , p = 0 . 0 1 9 , \eta ^ { 2 } = 0 . 1 5 ] .$ 、线索类型 $[ F ( 1 , 3 4 ) = 1 1 . 7 5 , p = 0 . 0 0 2 , \eta ^ { 2 } = 0 . 2 6 ]$ 主效应，电极点和线索属性的交互效应 $\cdot [ F ( 1 1 , 3 7 4 ) = 3 . 3 3 , p = 0 . 0 0 4 , \eta ^ { 2 } = 0 . 0 9 ]$ ，以及被试类型、线索属性和电极点的交互效应 $[ F ( 1 1 , 3 7 4 ) = 3 . 3 0 , p = 0 . 0 0 4 , \eta ^ { 2 } = 0 . 0 9 ]$ 。成瘾组在观看动作线索时额区和中央区诱发的潜伏期显著长于工具线索，成瘾组在观看工具线索和动作线索时额区诱发的潜伏期均显著小于对照组。
+
+![](images/ad384bade1e923fe4cb8b2a079e57cb746313d72dc3ca62672d0112dd6a74b17.jpg)  
+图2观看用药工具线索和用药动作线索所诱发成分的组间比较（电极点：Fz， $\mathrm { C z }$ ， $\mathrm { C P z }$ ， $\mathbf { P } \mathbf { z } ,$ L。
+
+![](images/307b862119a2c388ff418aa3e5b47c192d326310bbf7ad6c9aa2b50a1a439afd.jpg)  
+图3观看用药工具-对照工具线索和用药动作-对照动作线索的差异波的组间比较(电极点：Fz，Cz，CPz，Pz)。
+
+# 3.4.3用药工具线索和用药动作线索与反应抑制能力的关系(线索类别：用药工具 $\_$ 对照工具，用药动作-对照动作)
+
+N2 效应的被试类型和线索类别交互效应显著， $F ( 1 , 3 4 ) = 5 . 5 7 , p = 0 . 0 2 4 , \eta ^ { 2 } = 0 . 1 4$ 成瘾组在用药动作-对照动作的N2差异波幅显著小于对照组 $[ F ( 1 , 3 4 ) = 4 . 0 1 , p = 0 . 0 5 3 , \eta ^ { 2 } =$ 0.11]；两组被试在用药工具－对照工具上的N2差异波幅没有显著差异 $[ F ( 1 , 3 4 ) = 1 . 4 6 , p =$ 0.235]。成瘾组在用药动作－对照动作和用药工具－对照工具上的N2差异波幅无显著差异$[ F ( 1 , 3 4 ) = 1 . 1 7 , p = 0 . 2 8 ]$ ；对照组在用药动作－对照动作的N2差异波幅显著大于用药工具- 对照工具 $[ F ( 1 , 3 4 ) = 4 . 9 6 , p = 0 . 0 3 3 , \eta ^ { 2 } = 0 . 1 3 ]$ 。被试类型、线索类别和电极点的交互效应显著 $[ F ( 1 1 , 3 7 4 ) = 3 . 6 4 , p = 0 . 0 1 4 , \eta ^ { 2 } = 0 . 1 0 ]$ 。成瘾组在额区和中央区诱发的用药动作－对照动作的 N2差异波幅显著小于对照组 $\lfloor [ F ( 1 , 3 4 ) = 8 . 1 6 , p = 0 . 0 0 7 , \eta ^ { 2 } = 0 . 1 9 ; F ( 1 , 3 4 ) = 9 . 8 2 , p =$ 0.004, $\mathfrak { n } ^ { 2 } = 0 . 2 2 ]$ ；两组被试各脑区的用药工具－对照工具的N2差异波幅上均无显著差异。成瘾组各脑区的用药动作－对照动作和用药工具－对照工具的N2差异波幅均无显著差异；对照组在额区和中央区诱发的用药动作－对照动作的N2差异波幅显著大于用药工具－对照工具 $[ F ( 1 , 3 4 ) = 7 . 7 1 , p = 0 . 0 0 9 , \eta ^ { 2 } = 0 . 1 9 ; F ( 1 , 3 4 ) = 8 . 5 0 , p = 0 . 0 0 6 , \eta ^ { 2 } = 0 . 2 0 ] _ { \circ }$
+
+P3效应的电极点主效应 $[ F ( 1 1 , 3 7 4 ) = 1 0 . 7 1 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 .$ 、电极点和线索类别的交 互效应 $[ F ( 1 , 3 4 ) = 4 . 8 8 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 1 3 ]$ 及被试类型和线索类别的交互效应显著 $[ F ( 1 , 3 4 )$
+
+$= 6 . 9 4 , p = 0 . 0 1 3 , \eta ^ { 2 } = 0 . 1 7 ]$ 。成瘾组在用药动作－对照动作的P3差异波幅比对照组显著更大$[ F ( 1 , 3 4 ) = 4 . 0 4 , p = 0 . 0 5 2 , \eta ^ { 2 } = 0 . 1 1 ]$ ，两组被试在用药工具－对照工具上的差异波幅没有显著差异 $[ F ( 1 , 3 4 ) = 0 . 7 7 , p = 0 . 3 8 7 ]$ 。对三因素进行简单效应分析显示，成瘾组在额区和中央区诱发的用药动作－对照动作的P3差异波幅显著大于对照组 $[ F ( 1 , 3 4 ) = 3 . 4 4 , p = 0 . 0 7 2 ,$ $\boldsymbol { \eta } ^ { 2 } =$ 0.10; $F ( 1 , 3 4 ) = 6 . 2 4 \$ $p = 0 . 0 1 8$ ,η²=0.16]；成瘾组在顶区诱发的用药动作－对照动作的 P3差异波幅比用药工具－对照工具显著更大， $F ( 1 , 3 4 ) = 3 . 8 1 , p = 0 . 0 5 9$ $\eta ^ { 2 } = 0 . 1 0$ ；对照组在额区和中央区诱发的用药动作－对照动作的P3差异波幅显著大于用药工具 $\mathrm { ~ - ~ }$ 对照工具 $[ F ( 1 ,$ $3 4 ) = 6 . 5 8 , p = 0 . 0 1 5 , \eta ^ { 2 } = 0 . 1 6 ; F ( 1 , 3 4 ) = 8 . 9 7 , p = 0 . 0 0 5 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 0 2 1 , \eta ^ { 2 } = 0 . 2 1 , \eta ^ { 2 } = 0 . 0 2 1 , \eta ^ { 2 } = 0 . 0 2 1 , \eta ^ { 2 } = 0 . 0 2 1 , \eta ^ { 2 } = 0 .$ （204号
+
+# 3.4.4成瘾组成瘾时长、戒断时长与药物线索-对照线索的差异波幅的相关分析
+
+成瘾组的成瘾时长与N2、P3的差异波幅均无显著相关。戒断时长与额区、中央区用药动作－对照动作的N2差异波幅相关， $r = 0 . 4 1$ ， $\begin{array} { r } { p = 0 . 0 8 5 } \end{array}$ ， $r = 0 . 4 6 , p = 0 . 0 4 9 ,$
+
+# 4讨论
+
+本研究采用ERP双选择Oddball范式考察海洛因成瘾者在不同药物相关线索下的反应，首先证明了双选择Oddball范式能有效操控抑制控制效应(Yuan et al.,2008)，成瘾者对药物相关线索特别是用药动作线索存在反应时间延迟效应。其次，我们发现海洛因成瘾者在观看药物相关线索时，早期冲突监测阶段和后期抑制控制阶段的能力均呈现较弱的状态，表现出反应抑制损伤。这种反应抑制损伤在现实中的表现就是难以抑制由于条件作用形成的习惯性和强迫性动作倾向，表现出高停止冲动性和等待冲动性的特征。第三，在海洛因成瘾者中，相比用药工具线索，用药动作线索所引发的相关线索反应更强，反应抑制更低或停止冲动更高。
+
+(1)有研究提出，在双选择Oddball范式中，即使偏差刺激与标准刺激的准确率相似，两者间的反应时代价(偏差刺激相比标准刺激的反应时延迟)增大也可作为个体反应抑制能力减弱的有效指标(袁加锦 等,2017)。据此，本行为结果表明成瘾者在面对药物相关线索时反应抑制能力会有所减弱，特别是面对用药动作线索时冲动控制的能力更弱。
+
+(2)与对照组的非药物使用人群相比，海洛因成瘾者在观看药物相关线索时所诱发的N2 波幅显著更小、P3 波幅显著更大。这与前人的研究结果部分一致(Su etal.,2017)。说明海洛因成瘾者对药物相关线索存在反应抑制缺陷，在行为层面上表现为对药物相关线索，特别是对用药动作线索存在反应时间延迟效应。
+
+额－中央区的N2成分是反应抑制的早期阶段，主要与冲突监测和冲动控制有关(Donget al.,2009)；同时也可反映对线索的自动化注意偏向(Carretié,Hinojosa,Martin-Loeches,Mercado,& Tapia,2004)，而注意缺陷是降低冲动控制的一个重要因素(Dong et al.,2010)。药物相关线索会吸引海洛因成瘾者的注意偏向(Franken,Stam,Hendriks,& van den Brink,2003)，这种注意偏向是诱发药物渴求或产生习惯性觅药行为的重要原因(Field&Cox,2008;王春光,袁明,李勇辉,隋南,2015)。用药早期，由于正向激励作用而不断重复用药，成瘾者的大脑形成与药物使用有关的自动行为图式，使其对相关线索的注意偏向变得自动化、无意识(Tiffany,1990)，在阈下发生，成为前注意偏向。药物相关线索优先获取和维持成瘾者的注意(Field,Marhe,&Franken,2014)。同时，由于熟悉的相关线索诱发的N2 波幅比新奇线索低(Daffner et al.,2000)(海洛因相关线索对成瘾者来说是熟悉的线索刺激)，不需要投入较多的认知资源。因此，在此阶段，N2 波幅降低，显示早期反应抑制缺陷，对药物相关线索反应的抑制能力降低，即没有觉察到药物相关线索这一冲突，表现为明显的动作冲动性增强，在药物可获得的情况下，习惯性的自动化用药倾向转变为用药行为。
+
+P3成分与后期抑制控制过程相关(Donkers& van Boxtel,2004;Nieuwenhuis et al.,2005)，其波幅的变化可能反映了参与者成功抑制反应冲动时的认知努力程度(Dong et al.2010)，而更大的P3 波幅可能与冲动控制受损有关(Dong et al.,2009)：抑制过程越强烈(意味着引发的自动化用药行为倾向或心理渴求越强烈)，P3 波幅就越大(Donkers＆van Boxtel,2004; Yuan et al.,2008)。本研究中，成瘾者在药物相关线索下，其自动化用药倾向由于药物的不可获得而转化为强烈的心理渴求，可能发生的用药行为从自动化转化为“目标-导向”性质的行为倾向。同样由于实验背景下，参与实验的成瘾者无法在具有强烈渴求的状态下完成使用海洛因的“目标-导向”行为，因此，需要使用更多的认知资源用于抑制被激发的使用成瘾物质的“目标-导向”行为，表现出强烈的P3增强现象。这种抑制“目标-导向”行为(心理渴求)的性质，与等待冲动密切相关。在此阶段，若在用药环境中，海洛因成瘾者通常无法控制自己的用药渴求，即使知道用药带来的负性后果，仍然会寻求和使用药物，表现出典型的等待冲动特征。
+
+影像研究显示，控制此阶段行为的神经基础从背外侧纹状体、运动脑区和前额叶的环路转化为背内侧纹状体、背外侧前额叶皮层的环路(Zeng etal.,2018)。背外侧前额叶皮层的功能受损，会表现出反应决策缺陷，也会在脑电中体现为P3波幅增大，即抑制过程强烈。由此表明，即使海洛因成瘾者通过长期的戒断，药物相关线索仍会引发成瘾者的反应，这种反应分为两个阶段，早期的自动化用药行为倾向(在此体现为更早的N2降低)和随后的心理渴
+
+求(体现为P3增强)。
+
+(3)相比对照线索，成瘾者在观看药物相关线索特别是用药动作线索时，中央顶区诱发了显著提前的N2潜伏期。N2潜伏期代表反应冲突觉察的速度，成瘾者能较快地监测药物相关线索这一冲突，这可能是因为经过长期戒断，成瘾者的反应抑制能力有所恢复。此外，用药动作线索引发成瘾组中央区、中央顶区和顶区显著增大的P3 波幅(相比用药工具线索)，在顶区诱发的用药动作－对照动作的P3 差异波幅比用药工具－对照工具显著更大。
+
+相比对照组，用药动作线索引发成瘾组额区、中央区和中央顶区的N2波幅显著更小，且在额区和中央区诱发的用药动作－对照动作的N2差异波幅显著小于对照组。说明成瘾者出现了作为早期反应的动作冲动。另外，成瘾组在中央区和顶区的用药动作线索诱发的P3波幅显著更大，在额区和中央区诱发的用药动作－对照动作的P3差异波幅比对照组更大。这表明用药动作线索引发的前注意偏向更为明显，反应更为强烈，冲动控制能力更弱，从而导致抑制控制过程更强烈。损伤的抑制控制功能不足以抑制成瘾后相关线索下的早期的习惯性和随后的强迫性的用药倾向，会显示强烈的冲动性特征，并导致用药行为。这与Wagner等人(2011)观察到抽烟者在抽烟动作的视频材料刺激下，额下回、前运动皮层、顶上小叶和顶内沟前端等动作表征脑区自动激活是相一致的，和我们关于药物相关线索反应的影像研究结果也是一致的：用药动作线索会更多地激活顶叶，包括顶上小叶、顶下小叶以及中央后回，而这些脑区均属于高、低级感觉区或运动区，是负责运动、动作输出的脑区(Zengetal.,2018)。导致相关线索下，成瘾者直接输出用药动作反应。
+
+用药工具线索和用药动作线索反应的比较显示，成瘾者对用药动作线索存在反应时间延迟效应，且用药动作线索诱发的 N2波幅小于用药工具线索，P3 波幅显著大于用药工具线索。用药动作和技能是在用药过程中，经过长期、反复练习，通过联结学习形成的，是一种高度自动化的习惯性行为(Tiffany,1990)。用药动作本身可以成为一个更为直接的相关线索，引发成瘾者的条件反射，并以相同的动作作为条件反应。Jasinska等认为一旦包含用药动作在内的线索暴露后，由于联结作用，会产生动作共鸣，进而降低成瘾者实施实际用药行为的阈限，激发自动化用药行为，提高复吸的可能性(Jasinska,Stein,Kaiser,Naumer,&Yalachkov, 2014)。
+
+就成瘾者而言，运动皮层和后壳核存在结构连接，是习惯性行为(控制)的神经机制(deWit et al.,2012)。中央顶区P3 活动的出现是抑制控制加工的直接指标(辛勇 等,2010)，表明成瘾者在相关线索下存在对习惯性及随之而来的强迫性用药行为的控制过程。Smittenaar 等发现，强迫性的药物寻求和使用行为与右侧动作脑区的顶下小叶有关(Smittenaar,FitzGerald,Romei,Wright,&Dolan,2013)。表明用药动作线索可能引起了动作脑区的动作加工，从而诱发相关线索反应，造成暴露在用药动作线索下时，会产生更强的用药冲动，并进而转化为更强的心理渴求，这种强烈的渴求很难抑制，表现为现实生活中的强迫性用药行为。
+
+此外，我们还发现，用药动作线索和对照动作线索间N2和P3 波幅均无显著差异，说明可能动作本身对成瘾者反应抑制的影响更大。这与其冲动性特征有显著关系。冲动性包括特质冲动、等待和停止冲动，它们在不同的阶段可能独自作用，也可能共同对用药行为产生影响。Hogarth,Chase 和Baess (2012)的研究发现，习惯性用药行为增多与BIS 测量中显示的冲动人格特质中的动作冲动部分相关，说明冲动性人格本身就包含了低水平的反应抑制特征(王鹏飞 等,2019)。有遗传研究发现，成瘾者及其兄弟姐妹的壳核的灰质容量和对照组被试相比有显著增大的现象(Morein-Zamir&Robbins,2015)，意味着与习惯性行为相对应的动作冲动(反应抑制)在人格特质中已先于成瘾行为而存在，并成为成瘾行为的易感因素，促使相关线索下习惯性用药行为的形成。也就是说，可能正是这些遗传、生理上的反应抑制差异促使个体滥用行为发生性质的转变(Ersche etal.,2013)；同时，反应抑制水平又在长期的药物影响下进一步降低，最终形成相关线索下习惯性的自动化用药行为。在此，相关线索可能只是起到了一个辅助的作用，成瘾者本身的反应抑制缺陷是决定反应的关键。这就可以解释为什么对于成瘾者，相关线索的动作本身对反应抑制的影响更大，而不是药物相关线索。
+
+(4)最后，我们还发现，成瘾者的戒断时长与额区和中央区的用药动作－对照动作的N2差异波幅呈正相关，即随着戒断时间的增长，成瘾者对用药动作线索的冲突监控能力可能会逐渐恢复。有研究指出，药物滥用引起的神经认知缺陷是可恢复缺陷，而不是永久性的神经支配(Robinson& Kolb,2004;Wang,Kydd,& Russell,2015)。但相比对照组被试，成瘾者在观看药物相关线索，特别是用药动作线索时的N2波幅还是更小；且相比用药工具线索，成瘾者在用药动作线索上的N2波幅更小。这可能表明其反应抑制能力并没有恢复到正常水平，对药物相关线索还存在冲突监测的缺陷。
+
+局限：实验结果显示成瘾者观看用药工具线索诱发的P3波幅显著小于对照工具线索，这与实验的主要发现是相矛盾的，虽然可能是由于对照工具线索的新奇性造成的，但我们无法确认该现象的具体原因，可能需要进一步的验证研究进行证实。其次，本研究采用静态图片作为研究的相关线索。尽管静态线索已被证明是研究线索诱发渴求的工具，但动态行为刺激可能更适合研究运动表征，这可能是将来需要开展的工作。另外，本研究中的海洛因成瘾者的平均酒精使用量高于对照组被试，且所有参与者都被允许吸烟，这些因素可能会对结果产生影响。不过现在并没有证据确认饮酒或吸烟水平是否影响这些结果及对其的解释。最后，在关于相关线索反应的研究中，可以结合更早的、阈下时间范畴内的脑电指标，而不是仅限于N2，以更精确地探测成瘾者相关线索下的阈下反应，进一步了解相关线索下习惯性用药行为的性质。这是将来继续要开展的工作。
+
+# 5结论
+
+本研究结果部分验证了之前关于药物相关线索反应的ERP研究，阐明了成瘾者相关线索反应的脑电基础。并在此基础上，进一步说明了不同相关线索下成瘾者的不同阶段的反应特征及其与冲动性的关系：(1)海洛因成瘾者对药物相关线索存在反应抑制缺陷，在相关线索下，其早期冲突监测阶段和后期抑制控制阶段的能力都更弱，表现为相关线索下的习惯性和强迫性用药行为倾向，这两种用药行为倾向又分别反映了成瘾者的动作冲动和等待冲动的特征。(2)不同的药物相关线索会激发海洛因成瘾者不同程度的反应抑制问题，用药动作线索比用药工具线索更大程度地影响成瘾者的反应抑制能力，激发出更高的用药冲动性。这些发现对成瘾行为的预防和临床干预具有指导意义，提示也许可以在现实中通过尽量减少相关线索尤其是动作相关线索的刺激的方法来帮助预防复吸，而不是仅仅让成瘾者通过意志力来抵挡相关线索的诱惑，控制药物使用行为。
+
+参考文献   
+Bickel,W.K,olcz,DP,uelerE.tclaK.,re,..().reutiecii antipodes?Aconceptualreconstructionwithspecialreference toadiction.Psychopharmacology,221(3),61-387.   
+Boy,F.,Husain,ingh,K.D,&umer,P.().pementaryotorareaactivationsicosciousibitionofvota action.Experimental Brain Research,206(4),441-448.   
+Caretie,L,njosa,A.os,.,radoF,&apia,. ().utomaticeontmotalstiieal correlates.Human Brain Mapping,22(4),290-299.   
+Daffner,K.R.,esulam,.,intoL.F.,Calvo,Vust,R.Holcomb,P.J.().Alectrophyiologcalidexf stimulus unfamiliarity.Psychophysiology,37(6),737-747.   
+DallyJW.db. D2/3 receptors predict trait impulsivityand cocaine reinforcement. Science,315(5816),1267-1270.   
+de Wit,S.,Watson,P.,aayHA,oe,.XeVer,I,&idderiof,K.().Coriorataloii individual differencesinthebalancebetween habitualandgoal-directedactioncontrol.Jouralof Neuroscience,32(35),266 12075.   
+Donkers,F.C.Lnotel,G.J.().heNinGotasrflctscoflictmoitoringotresoseibiora and Cognition,56(2),165-176.   
+Dong,G.H.,LuQ.L,Zou,H,&Zhao,X.(10).mpulseinibitionineoplewithnteredictiondisorder:Electroioloical evidence froma Go/NoGo study.NeuroscienceLetters,485(2),138-142.   
+Dong,G.H.,YngL.,u,Y.Z,ngY).sssiatdhesslressoovispsue control processes?. Neuro Report,20(6),537-542   
+Ersche,K.Ds,P..iamsG..,ithD.Glre,E,obs,T..).sticiersaiti neuralorelatesassociatedwithstimulantduguseversusfamilialiskofstimulantdependene.BologicalPsyhaty74() 144.   
+EverittB.J.,&Robins,T.W.(016).Drugadiction:Updatingactionstohabitstocompulsionstenyearson.AnnualReviewof Psychology，67(1),23-50.   
+Field,M.,&CoxW..(o).eialbisidictiebiors:Aviefisevelontsdserg andAlcoholDependence,97(1),1-20.   
+Field,M.,ah,Fkn,.H.(4).icaleetoaliasiaeseds.St(), 225-230.   
+Franken,I.H.A.(o).Drgvingnddiction:Itegratingsyhologicalandeuropschoparacologicalaproachs.oge inNeuro-Psychopharmacology&BiologicalPsychiatry,27(4),563-579   
+Franken,I.H.A,Stam,C.J.,Hendriks,V.M.,&vanenBrik,W.(2o3).Neurophsiologicalevidenceforabnormalogitie processing of drug cues in heroin dependence. Psychopharmacology,170(2),205-212   
+Hogarth,L.,ase,H.s,.2).piredgoadirectedhaiouralcotrolinmampusiityQuarterlyal Experimental Psychology,65(2),05-16.   
+Houben，K.，&Wiers，R.W.(o9).Responseinhbitionmoderatestherelationshipbetweenimplicitassociationsanddrinking behavior.Alcoholism:ClinicalandExperimentalResearch,3(4),626633.   
+Jasinska,A.tein,E.A.aiser,Jumer,JYachkov,Y.(4).Factorsmodlatingeuralreactivitytorgn addiction: A survey of human neuroimaging studies.Neuroscience & Biobehavioral Reviews,38(1),1-16.   
+Jentsch,J..estJ.te,.a.,A..,to,.T.(4).sei its relationships to drug addictions.Annals of theNew York Academy ofSciences,1327(1),1-26.   
+MacKillop,JferJay.Ohi.m.itH().aterctureipusiity:e impulsive action,and impulsive personality traits.Psychopharmacology,233(18),3361-3370.   
+Morein-Zamir,,obbs,.W(5).ottrataliuitsisponetio:elevacetdictioraiReea68, 117–129.   
+Nieuwenhuis,S.,AstonJones,G.,&ohen,J.D.(O5).Decisionmaking,theP3,andthelocuscoeruleus-norepinephrinetem Psychological Bulletin,131(4),510-532.   
+atij,T.,&DeVis,TJ.(3).eoleompulsivityielapseneabilityCurrntOpiioninurobiolg(4)705   
+Peloux,Y.,EverittB.J,&ickison,A.(o).Compusivedrugseekingbyatsuderpushment:Effctsofugtakingistor Psychopharmacology,194(1),127-137.   
+Perry,J.L.,&Carroll,M.E.(0o8).heroleofimpulsivebehaviorindrugabuse.Psychopharmacology(),-26   
+Robbins,T.W,ilan,C..mith,D.G,deWit,S.,&Ershe,K.D.(2).Nurocognitivendopenotypesofimpusivid compulsivity: Towards dimensional psychiatry.Trends in Cognitive Sciences,16(1),81-91.   
+Robinson,T.E.,&Beridge,K.C.(1993).Theneuralbasisofdrugcraving:Anincentive-sensitizationtheoryofdiction.Brain Research Reviews,18(3),247-291.   
+Robinson,T.E,olb,.).uctualasticityssciatedeouretgsbe.eomaclog6   
+Smitenaar，P.,FitzGerald,.H.B,omei,V.,Wright,N.D.，&Dolan,R.J.(ol3).isruptionofdorsolateralprefrontalcortex decreases model-based in favor of model-free control in humans.Neuron,80(4),914-919.   
+Su,B.B.,Wang,S.,mich,A.,Li,S..,Yang,LCai,.Y,&Wang,G.Y(7).ReductioninNmplitude irespsetdevt drug-relatedstimuliduringatwo-choiceOddbaltaskinlng-termhroinabstainers.Psychopharmacology234(21),1953205.   
+Tifany，S.T.(1990).Acognitivemodelof drugurgesanddrug-usebehavior:Roleofautomaticandnonautomaticproceses.
+
+PsychologicalReview,97(2),147-168. Wagner,D.Din.rgtely,atoTF()aoctiepa watchingmovie characterssmoke.TheJournal ofNeuroscience,31(3),894-898. Wang,C.G.,uan,M.,LiY.H,&uN.(5).dentifingtefeatresofetionsinetampetaineadicts:studyih words emotional Stroop task. Chinese Journal of Drug Dependence,24(5),391-395. [王春光,袁明,李勇辉,隋南.(2015).甲基苯丙胺成瘾者对成瘾相关线索的注意偏向特征:字词情绪 Stroop 任务的研究.中国药物 依赖性杂志,24(5),391-395.] Wang,G.Y,ydd,.&ussellB.R.(5).ditoreentrelatedpotentialsethdoeubitutedpiateesJoualof Psychopharmacology,29(9),983-995. Wang,P.F.,Yan,R.T.,Miao,X.,LiuY.,&Zeng,H.(2o19).Impulsivityorhabitualbehavior?Thefunctionand mechanismof impulsivity indifferentphasesof drug addiction.Advances inPsychological Science,27(5),1-9. [王鹏飞,严瑞婷,苗心,刘决,曾红.(2019).冲动还是习惯？成瘾过程中不同性质的冲动性的作用与机制.心理科学进展,27(5),1- 9.] Xin,Y.,Li,H,&an,J.J.().gativemotiointeferivialbioryotrol:AEtudyActasygic Sinica, 42(3),334341. [辛勇,李红,袁加锦.(2010).负性情绪干扰行为抑制控制:一项事件相关电位研究.心理学报,42(3),334-341.] YalachkovYiser.()rdotrtsctiooualin 222. Yalachkov,Y,&Numer,.J.().Iolvementofcti-relatedbraiegiosicotidictionJoualofuroilogy 106(1), 1-3. Yang,L.,Xu,.Y,i.F.,ZaoX,.,Zen,Y.F..).eecsomeadoeatenacetreamnt addicts withresponseinhibitionfunctionimpairments:Evidencefromevent-related potentials.JournalofFood&DrugAnalysis, 23(2),260-266. Yuan,J.J,He,YYZagQ.L,nA.T,&i,H.(8)edederensinaraibyotrol:Eevideefro a two-choiceOddball task.Psychophysiology,45(6),986-993. Yuan,J.J,Xu,.,ang,J..,&LiH.().eaplicatioofthtwochoiceOdballparadigmtoereserchofbaal inhibitory control. Science in China: Life Sciences,47(10),53-61. [袁加锦,徐萌萌,杨洁敏,李红.(2017).双选择 Odball范式在行为抑制控制研究中的应用.中国科学:生命科学,47(10),53-61.] Zeng,H.SuD.Q,ngX,enQ,&e,H.).Actitiosofsesotorbegiosiesonetditf drug-associated cues.Acta Psychologica Sinica,47(7),890-902. [曾红,苏得权,姜醒,陈骐,叶浩生.(2015).不同药物相关线索反应下感觉-运动脑区的激活及作用.心理学报,47(7),890-902.]
+
+Zeng,H.,SuD..,Wang,P.F,Wang,M.CVolstad-Klein,S.,CenQ.&Ye,H..(8).eactionepresentatioeliciedby differenttypesofdrug-related cues in heroin-abstinentindividuals.Frontiers inBehavioral Neuroscience,l2,1-11.   
+Zhao,L.(2o10).ERPs experimental tutorial. Revised edition.Nanjing: Southeast University Press.]   
+[赵仑.(2010).ERPs实验教程.修订版.南京:东南大学出版社.]
+
+# Differences in Brain Reactivity in Relation to Different Types of Drug-associated Cues and Disinhibition among Heroin Addicts: Ar ERP Study
+
+ZHENG Zhiling; WANG Pengfei; SU Dequan; GUO Weijie; SUN Nan; MA Yankun; ZENG Hong (DepartmentofsychologyResearchCenterofPychology&rainScience,GuangzhouUniversityGuangzhou,China)
+
+# Abstract
+
+Persons who are addicted are known to show cue-induced responses (such as psychological craving) to drug-related cues. Previous research showed that both tool-related (e.g.,syringe) and action-related (e.g.,use of the syringe) drug cues can elicit craving. However, whether the two types of drug related cues can elicit the same brain reactivity and similar degree of disinhibition is still unclear, especially because of the scarcity of ERP studies on this topic. Using a behavioral task and the ERP technique,the present study investigated the behavior reactivity and EEG characteristics shown by men addicted to heroin and healthy controls in response to tool-related and action-related drug cues.
+
+Participants were 36 men,19 of whom were addicted to heroin and 17 of whom were healthy nondrug users, matched on age and years of education. Participants engaged in the two-choice Oddball task,which included two conditions: A. the tool condition,with a picture of a “cup" serving as the standard stimulus and pictures of drug-use tools serving as deviant stimuli; B. the action condition, with a picture of“drinking water” serving as the standard stimulus and pictures of drug-use actions serving as deviant stimuli. In this experiment, the probabilities of standard stimuli and deviant stimuli were $70 \%$ and $30 \%$ . Participants were asked to press different keys on the keyboard in response to standard stimuli and deviant stimuli as rapidly and accurately as possible.
+
+Behavioral results indicated that in men who were addicted to heroin, greater disinhibition was seen in a longer reaction time in response to action cues than tool cues. Between-group analyses of the ERP data showed that compared to the healthy controls,men who were addicted to heroin demonstrated a smaller N2 and larger P3 amplitude in response to drug related cues. Moreover, action cues elicited a smaller N2 amplitude in the heroin addicted group than the control group, especially in the frontal, central and central-parietal areas of the brain, and a larger P3 amplitude, especially in the central and parietal areas of the brain. Within-group analyses in just the heroin
+
+addicted group showed that the N2 was smallr in response to action cues versus tool cues. Meanwhile, the action cues elicited a larger amplitude of P3 than the tool cues,especially in the central, central-parietal and parietal regions of the brain.   
+These findings provide behavioral and ERP evidence for the hypothesis that different types of drug-related cues produce different cue-induced reactivity. More specifically， drug use action stimuli, which appear to trigger greater disinhibition and greater ERP reactivity in the brain areas associated with motor resonance, should be considered in the treatment of addiction and in relapse prevention.
+
+Key Words: heroin addiction; cue-induced reactivity; impulsivity; two-choice Oddball task; ERP

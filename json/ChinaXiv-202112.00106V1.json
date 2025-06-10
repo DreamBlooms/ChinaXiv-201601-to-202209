@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "近60a内蒙古夏季气候变化特征及其对厄尔尼诺的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李瑞青'，宋桂英'，迎春²(1.内蒙古自治区气象台,内蒙古 呼和浩特010051；2.锡林郭勒盟气象局,内蒙古 锡林浩特026000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：内蒙古大部分地区属于温带大陆性季风气候区,气候脆弱、复杂多样。作为中国北方重要的生态安全屏障,在全球变暖的背景下,内蒙古夏季气温降水发生显著变化，该区域对气候变化的敏感性日渐凸显。基于气象站历史观测及全球再分析数据，分析近 $6 0 \\mathrm { ~ a ~ }$ 内蒙古夏季气象要素变化特征及其对厄尔尼诺事件的响应，得出如下结论：(1）近60a内蒙古中部及以东大部分地区夏季降水量呈减少趋势,而气温则是全区性增温趋势。(2)冬季厄尔尼诺指数与次年夏季气象要素的相关性呈年代际变化特征，且东部型厄尔尼诺次年夏季内蒙古大部地区降水偏多,气温偏低;中部型厄尔尼诺次年夏季内蒙古西北部降水偏多，而中东部大部降水偏少，全区气温偏高。（3）分析不同型厄尔尼诺夏季降水差异的主要原因是2类厄尔尼诺事件中西太平洋副热带高压和异常反气旋环流以及中高纬度环流异常的强度和位置不同引起。东部型厄尔尼诺次年夏季,副高较常年偏南,欧亚中高纬地区双阻型环流异常,其间的低槽冷涡与上游阻高之间的偏北气流引起北冰洋水汽与副高西侧太平洋水汽在华北地区汇合并向东北输送,造成内蒙古降水异常偏多。对于中部型,副高位置较常年偏西偏北使偏南水汽转向东输送，同时中高纬度反气旋环流异常不利于高纬度水汽输送，使内蒙古大部地区水汽输送减小，降水较常年偏少。（4）2类厄尔尼诺事件次年夏季印度洋海温异常引起的印度夏季风水汽输送对内蒙古夏季降水也有相当的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候变化；气温；降水；厄尔尼诺；季风；内蒙古 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内蒙古位于中国北部边疆，涉及东北、华北、西北3个区域，以温带大陆性季风气候为主，从东到西植被覆盖类型分别为森林草原、草原、荒漠草原、荒漠等，是我国北方重要的生态安全屏障，其生态安全不仅关系区内群众生活和社会经济发展，更关系到华北、东北、西北乃至全国的生态安全。近年来由于全球气候变暖，大气环流模态产生变化，对区域气候构成影响。许多研究表明[1-4],近几十年内蒙古全区降水大范围偏少，尤以中部和东南部地区为重，而全区的平均气温在波动中不断上升。任志艳等[5]通过计算降水集中度(PCD)和降水集中期(PCP)得出1960—2012年内蒙古地区的年平均降水量表现出下降趋势，同时在空间上表现出从东南向西北增加的趋势。内蒙古夏季降水也有明显的年代际变化特征，在20世纪70一90年代中期降水量呈增加趋势，但从90年代中期到2010年降水量迅速减少,并且具有5\\~7a的周期变化[6-7]。通过对内蒙古夏季降水的相关影响因子进行分析，发现影响内蒙古夏季降水的主要因子有大气环流和前期冬季、同期春季海表温度[7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "厄尔尼诺作为热带海气相互作用最强的年际变化信号[8],对东亚季风系统以及中国的气候变化有着重要的影响[9-10]。研究表明,厄尔尼诺对东亚大气环流和中国夏季降水的滞后效应，表现为使长江流域夏季降水偏多,而淮河流域降水偏少[1I-12],在厄尔尼诺衰减年夏季，异常反气旋使得副热带高压西伸[3,来自西太平洋的大量水汽输送使长江流域降水增多[14]。从20世纪90年代以来，海温异常变暖区出现在赤道中太平洋地区的中部型厄尔尼诺事件发生概率明显增加15,并且由于东部型和中部型2类厄尔尼诺事件海温异常分布不同所产生的大气响应不同，进而对中国气候的影响也有很大差异,张人禾等[16]认为厄尔尼诺事件对中国夏季降水的影响主要归因于西北太平洋异常反气旋的作用，而2类厄尔尼诺事件对中国降水的影响其差异主要归因于反气旋环流位置的变化[17-18]。东部型厄尔尼诺次年夏季，副高西伸，中国北方和长江流域降水均产生明显的同步性增加响应，而中部型厄尔尼诺事件次年夏季反气旋环流异常偏北，其西侧强的水汽输送导致江淮地区降水明显增加[19]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往的研究显示，2类厄尔尼诺事件对大气的影响不同，因此对中国降水的滞后影响也存在显著差异。大部分研究结果主要侧重于厄尔尼诺事件对中国长江流域和江淮地区降水的影响，而较少涉及对中国北方的影响，张人禾[20]和白小娟等[21]研究指出厄尔尼诺盛期我国华北地区具有显著的降水负异常，贾艳青等22通过计算标准化降水蒸散发指数，指示的北方干湿气候对比也显示在厄尔尼诺次年里中国北方气候湿润。而东部型厄尔尼诺次年夏季，我国西北、华北和东北等北方地区降水较常年明显偏多[19.23]。从历次厄尔尼诺事件中内蒙古地区的气候滞后响应结果显示，厄尔尼诺事件除使得南方地区降水有显著异常外，内蒙古地区降水也有显著异常，例如,1997/1998年超强东部型厄尔尼诺事件的次年（1998年），内蒙古全区降水异常偏多，而2009/2010年中部型厄尔尼诺事件次年（2010年），内蒙古汛期降水异常偏少，这些研究和事实表明，厄尔尼诺事件对内蒙古地区降水有较大的影响，不同类型厄尔尼诺事件对内蒙古地区降水的影响也不完全相同。因此，本文从不同类型厄尔尼诺事件对内蒙古地区气候特征影响的角度，研究近60a 内蒙古气候变化特征对2种厄尔尼诺事件的滞后响应，以期找出厄尔尼诺对内蒙古气候变化的影响机理，以提高内蒙古地区汛期气候预测水平，对改善和预防内蒙古地区自然灾害具有重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文数据包括：（1）1961—2020年内蒙古119站地面气象观测和国家气象科学数据中心提供的中国地面降水和气温月值 $0 . 5 ^ { \\circ } \\times 0 . 5 ^ { \\circ }$ 格点数据集(V2.0)[24]，该数据集基于国家气象信息中心基础资料专项编整的中国地面2472台站资料，利用ANUSPLIN软件的薄盘样条法进行空间插值。（2)美国国家环境预测中心/国家大气环境中心(NCEP/NCAR)提供的高空场和风场等月平均再分析资料，水平分辨率为 $2 . 5 ^ { \\circ } { \\times } 2 . 5 ^ { \\circ }$ ，垂直17层。（3）美国国家海洋和大气管理局(NOAA)气候预测中心CPC(ClimatePredictionCenter)提供的月尺度ERSST.v5资料[25]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太平洋东部型和中部型厄尔尼诺指数定义[15]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { N i n o E P } } = { \\mathrm { N i n o } } 3 - \\alpha \\times { \\mathrm { N i n o } } 4\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { N i n o C P } } = { \\mathrm { N i n o } } 4 - \\alpha \\times { \\mathrm { N i n o } } 3\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $_ \\mathrm { N i n o } 3 { \\times } \\mathrm { N i n o } 4 { > } 0$ 时， $\\scriptstyle \\alpha = 0 . 4$ ，当 $\\mathrm { N i n o } 3 { \\times } \\mathrm { N i n o } 4 { \\leqslant } 0$ 时， $\\scriptstyle \\alpha = 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：NinoEP为东部型指数；NinoCP为中部型指数；Nino3和Nino4指数分别定义为月平均Nino3区（ $1 5 0 ^ { \\circ } \\mathrm { W } { \\sim } 9 0 ^ { \\circ } \\mathrm { W } , 5 ^ { \\circ } \\mathrm { S } { \\sim } 5 ^ { \\circ } \\mathrm { N } )$ 和Nino4区（ $1 6 0 ^ { \\circ } \\mathrm { E } { \\sim } 1 5 0 ^ { \\circ } \\mathrm { W }$ $5 ^ { \\circ } \\mathrm { S } { \\sim } 5 ^ { \\circ } \\mathrm { N } \\$ )区域平均海温距平，气候平均值年份为1981—2010年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以连续5个月指数 $\\geqslant 0 . 5$ 作为标准，并参考中国气象局国家气候中心官网发布的ENSO历史事件统计表，识别出1961—2020年之间共9次东部型厄尔尼诺事件和6次中部型厄尔尼诺事件(表1)，大部分东部型厄尔尼诺事件相比中部型厄尔尼诺事件强度更强，其中1982/1983年、1997/1998年、2014/2016年为3次超强东部型厄尔尼诺事件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1气候变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1981—2010年内蒙古夏季降水和气温的气候态空间分布特征(图1a、图1b)显示，内蒙古夏季平均降水量在 $1 8 { \\sim } 1 2 0 ~ \\mathrm { m m }$ 之间，总体呈自西向东逐渐递增的分布趋势。其中，阿拉善盟西部部分地区降水量不足 $1 8 ~ \\mathrm { m m }$ ，而呼伦贝尔市东部最大降水量超过 $1 2 0 ~ \\mathrm { m m }$ 。而气温则呈现出自西南向东北逐渐递减的分布趋势，夏季平均气温在 $1 4 { \\sim } 2 8 \\ \\mathrm { ^ circ C }$ 之间，其中，内蒙古西部大部分地区的夏季平均地面气温在$2 4 ^ { \\circ } \\mathrm { C }$ 以上，而呼伦贝尔市东北部夏季平均地面气温则不到 $1 6 ~ \\mathrm { { ^ circ C } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从1961—2020年内蒙古夏季平均降水和气温的年际变化趋势空间分布(图1c、图1d)可见，近60a来除了内蒙古西部和东北部地区，内蒙古的中部和东部大部地区降水量整体呈减少趋势，其中东南部地区降水量减少最为明显，达到 $0 . 3 ~ \\mathrm { m m ^ { \\cdot } a ^ { - 1 } }$ ,通过了$9 0 \\%$ 的显著性检验。从年代际变化特征看，全区平均夏季降水量在20世纪70—90年代为波动性增加趋势，进入21世纪后降水量整体偏少，近60a降水量变化趋势为 $- 0 . 0 4 \\ \\mathrm { m m ^ { \\cdot } a ^ { - 1 } }$ 。而气温则在全区都表现为明显的增温趋势，尤其是在内蒙古西中部偏北和东部地区增温更加明显，达到 $0 . 0 4 ~ \\mathrm { ^ { q } C \\cdot a ^ { - 1 } }$ ，全区区域平均后增温幅度为 $0 . 0 3 \\ \\mathrm { ^ { q } C \\cdot a ^ { - 1 } }$ ，而从年代际变化特征看，进入21世纪以后全区的气温显著升高。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/faffff55e670397782247dc28a641c0c93bf91bfc622c7865be59b022fc0a413.jpg",
+        "img_caption": [
+            "注：该图基于国家自然资源部标准地图服务网站下载的审图号为GS(2019)1821号的标准地图制作，底图无修改。下同。图1夏季内蒙古降水(单位： $\\mathrm { m m }$ )和气温(单位： $^ \\circ \\mathrm { C }$ )气候态(a，b）线性趋势(c，d，单位： $\\mathrm { m } \\mathrm { m } { \\cdot } \\mathrm { a } ^ { - 1 }$ 和 $^ { \\circ } \\mathrm { C } \\cdot \\mathbf { a } ^ { - 1 }$ ））空间分布及其年际变化特征(e,f)",
+            "Fig.1Spatialdistributionandinterannual variationcharacteristicsofsummerprecipitation (units:mm)and temperature (units $^ { \\circ } \\mathrm { C }$ climate state (a,b) and linear trend (c,d, units: $\\mathrm { m } \\mathrm { m } { \\cdot } \\mathrm { a } ^ { - 1 }$ and $^ \\circ \\mathrm { C } \\cdot \\mathrm { a } ^ { - 1 }$ )in Inner Mongolia (e,f) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2厄尔尼诺指数与降水和气温的相关关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬季NinoEP和NinoCP与次年夏季降水和气温相关系数的空间分布特征如图2所示，NinoEP与次年夏季降水除东北部和西南部部分地区以外，其余大部分地区为正相关关系，东部部分地区相关性通过 $9 0 \\%$ 显著性检验，区域平均后二者相关性达0.16。NinoCP与次年夏季降水的相关性空间分布特征在全区并不完全一致，中部偏东和东部偏西地区为负相关关系，其余地区则为正相关关系，NinoCP注：阴影区为达到 $9 0 \\%$ 显著性检验区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d7b92c9bcae8cad3676a6bc8e634eb7f4c3bd5f6288dd1116adce0001847dda.jpg",
+        "img_caption": [
+            "图2冬季NinoEP和NinoCP与次年夏季降水(a,b)及气温(c,d)的相关系数空间分布 Fig.2The spatial distributionof thecorrelationcoeficients betweenthe NinoEP/NinoCP in winterand theprecipitation (a, b)and temperature (c, d) in the decaying summer "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与全区平均降水的相关性仅为 $0 . 0 5$ 。气温与Nino指数的相关性较降水更为一致，冬季NinoEP与次年夏季气温在全区大部都表现为负相关关系，但没有通过显著性检验，NinoEP与全区平均气温的相关性为-0.07，而NinoCP与气温在全区大部分为一致的正相关关系，尤其是呼伦贝尔市西部地区相关性通过 $9 0 \\%$ 显著性检验，NinoCP与全区平均气温相关系数为0.16。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步计算冬季NinoEP和NinoCP与次年夏季内蒙古全区降水和气温年际变化特征的11a滑动相关系数显示(图3)，厄尔尼诺事件对内蒙古地区气候因子的影响存在明显的年代际变化波动特征，NinoEP与降水的相关性在20世纪70年代末由正相关转为负相关关系，90年代至21世纪初为显著正相关，而在近十几年则转为负相关关系，NinoCP与降水的相关性存在年代际波动特征，但并不显著。气温与2类厄尔尼诺指数的相关系数变化特征也存在明显的年代际波动特征，NinoEP与气温的相关性并不显著，NinoCP与气温的相关性在70—90年代为正相关关系，之后转为负相关，到21世纪初期又转为正相关关系, $\\mathrm { W a n g ^ { [ 2 6 ] } }$ 的研究结果也表明ENSO与东亚夏季风之间的关系具有年代际变化特征。因此，厄尔尼诺事件对内蒙古全区气候特征的影响呈年代际变化可能也是两者之间相关系数没有达到显著性检验的原因(图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，在东部型厄尔尼诺事件中，除2006/2007年全区整体降水表现为偏少以外，其余8次东部型事件中降水都较常年偏多，尤其是1997/1998年超强厄尔尼诺事件中，全区降水距平百分率达到 $3 9 . 1 2 \\%$ ,对9次东部型厄尔尼诺事件进行合成后，全区降水距平百分率为 $9 . 9 1 \\%$ 。中部型厄尔尼诺事件中有4次表现为降水偏多，2次表现为降水显著偏少，尤其在2009/2010年降水减少 $4 0 . 6 3 \\%$ ,中部型厄尔尼诺事件合成后全区降水偏少 $4 . 6 7 \\%$ 。大部分东部型厄尔尼诺事件中气温也表现为偏低，合成后气温较常年偏低 $0 . 2 7 ^ { \\circ } \\mathrm { C }$ ，中部型厄尔尼诺事件合成后气温偏高 $0 . 4 0 ^ { \\circ } \\mathrm { C }$ ，值得注意的是气温的距平值在东部型和中部型厄尔尼诺事件中，都是在21世纪以后气温距平值为正，这可能也与全球气候变暖有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfc7a6ff06deb25355fbccfd9bff33142c781b6024467d3b4b46ef970fc975de.jpg",
+        "img_caption": [
+            "图3冬季NinoEP和NinoCP与次年夏季内蒙古全区降水(a)和气温(b)的11a滑动相关系数 Fig.3The 11-year running correlation coefficient of NinoEP and NinoCP in winter and precipitation (a) and temperature (b) in the decaying summer of Inner Mongolia "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9f448c60d749840d1aeab3370c5b072fa93d59c03f763481daa74dff3f37a77.jpg",
+        "table_caption": [
+            "表11961—2020年间的厄尔尼诺事件及次年夏季降水和气温距平值",
+            "Tab.1EPand CPElNino eventsand the decaying summer precipitation and temperatureanomalies during 1961-2020 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">东部型</td><td colspan=\"4\">中部型</td></tr><tr><td>序号</td><td>起止年月</td><td>降水距平百分率/%</td><td>气温/℃</td><td>序号</td><td>起止年月</td><td>降水距平百分率/%</td><td>气温/℃</td></tr><tr><td>1</td><td>1965-05—1966-01</td><td>7.09</td><td>-0.69</td><td>1</td><td>1994-07—1995-05</td><td>11.92</td><td>-0.35</td></tr><tr><td>2</td><td>1972-06—1973-02</td><td>15.46</td><td>-0.57</td><td>2</td><td>2002-04—2003-04</td><td>7.47</td><td>-0.62</td></tr><tr><td>3</td><td>1976-07—1977-02</td><td>16.37</td><td>-0.82</td><td>3</td><td>2004-07—2005-04</td><td>-22.76</td><td>0.91</td></tr><tr><td>4</td><td>1982-08—1983-08</td><td>0.50</td><td>-1.15</td><td>4</td><td>2009-10—2010-04</td><td>-40.63</td><td>1.57</td></tr><tr><td>5</td><td>1986-11—1987-12</td><td>8.86</td><td>0.10</td><td>5</td><td>2018-08—2019-02</td><td>10.57</td><td>0.27</td></tr><tr><td>6</td><td>1991-11—1992-05</td><td>12.31</td><td>-1.07</td><td>6</td><td>2019-06—2020-04</td><td>5.44</td><td>0.59</td></tr><tr><td>7</td><td>1997-06—1998-06</td><td>39.12</td><td>-0.40</td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>2006-09—2007-01</td><td>-13.35</td><td>1.35</td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>2014-11—2016-03</td><td>2.82</td><td>0.83</td><td></td><td></td><td></td><td></td></tr><tr><td>平均</td><td></td><td>9.91</td><td>-0.27</td><td></td><td>平均</td><td>-4.67</td><td>0.40</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从内蒙古全区降水距平百分率的空间分布特征上可以看出(图4a，图4b)，除了内蒙古东北部以外，东部型厄尔尼诺事件造成内蒙古次年夏季降水较常年整体偏多，尤其在西部地区，降水偏多 $2 0 \\%$ 以上，而在中部型厄尔尼诺事件中降水的距平分布特征相对分散，除西北部和东部偏东地区以外，内蒙古中部和东部偏西地区降水都较常年偏少，东部地区降水偏少 $10 \\%$ 以上。气温距平变化相对降水在全区的分布更为一致(图4c，图4d)，在东部型厄尔尼诺事件次年，内蒙古全区都表现为气温偏低，而中部型事件次年全区则都表现为气温偏高，尤其是在中部偏北地区，气温偏高 $0 . 6 ^ { \\circ } \\mathrm { C }$ 以上。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3厄尔尼诺事件对内蒙古气候的可能影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，东部型和中部型厄尔尼诺事件对内蒙古全区降水和气温的影响并不一致，东部型厄尔尼诺事件使内蒙古大部分地区降水偏多，气温偏低，而中部型厄尔尼诺事件使内蒙古西北部降水偏多，中部偏东和东部偏西地区降水偏少，全区气温偏高。值得注意的是气温的距平变化可能也与全球变暖有关，进入21世纪以后全球气候变暖，内蒙古地区气温也明显升高(图1f)，而中部型厄尔尼诺事件在21世纪以后发生的频率也显著增加，在此主要侧重分析厄尔尼诺事件造成内蒙古次年夏季降水出现异常的可能原因，从环流特征和水汽特征2个大尺度天气背景场方面进行初步分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先降水与持续的水汽输送及水汽通量散度有直接的关系，图5给出了东部型和中部型厄尔尼诺事件次年夏季整层水汽通量及径向和纬向水汽输送异常的合成分析结果，可以看出东部型厄尔尼诺事件次年夏季(图5a)，西太平洋洋面从南至北为异常反气旋和气旋的环流特征，异常反气旋环流北边缘在 $3 0 ^ { \\circ } \\mathrm { N }$ 附近，西侧异常强的西南风可携带大量的西太平洋水汽向我国长江流域及以北地区输送，而欧亚大陆中高纬度地区反气旋-气旋的异常环流结构有利于将北冰洋及高纬度的水汽向西北内陆输送，来自北冰洋的水汽与来自西太平洋的水汽在西北东部和华北地区汇合后沿气旋异常环流东侧向东北地区输送。径向水汽输送异常分布特征也显示在贝加尔湖西部为负异常中心(图5c)，有偏北风水汽向西北和华北地区输送，而在 $1 0 0 ^ { \\circ } \\mathrm { E }$ 以东中国东部大部地区都为显著正异常中心，说明有强的偏南风水汽输送至华北以及东北地区，使华北地区上空有水汽异常辐合区，此外，副热带高空急流位置偏北(图5e)，急流轴位于 $4 0 ^ { \\circ } \\mathrm { N }$ 附近，急流强度偏弱，中心风速大于等于 $3 0 \\mathrm { m \\cdot s ^ { - 1 } }$ 的区域经向跨度接近20个经距，华北地区的西风带水汽输送也明显偏强，大气中的可降水量也出现显著正异常，造成内蒙古大部地区夏季降水异常偏多。中部型厄尔尼诺事件次年夏季(图5b)，西北太平洋上空反气旋环流较东部型厄尔尼诺事件中位置偏北，强度更强，北边缘可达 $4 0 ^ { \\circ } \\mathrm { N }$ 附近，其西侧异常偏强的西南风水汽输送将低纬度大量的水汽输送至江淮流域，在江淮流域形成明显的异常水汽辐合中心，然后转向东输送至日本。同时，贝加尔湖附近的异常反气旋环流中心不利于北冰洋及高纬度水汽向华北地区输送。径向水汽输送结果也显示华北地区的偏南风水汽输送明显偏弱(图5d)，说明华北地区来自低纬度的水汽输送减少，同时，副热带高空急流位置偏南(图5f)，而且在华北地区急流轴向东南方向发生了明显的“倾斜”，华北地区的西风带水汽输送减弱，内蒙古地区上空为偏东风水汽输送异常，大气中的可降水量在内蒙古中东部大部分地区出现负异常，导致降水较常年偏少。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4298b559defc4cd6e85636b75b8a6ae418740a36830852dcd4b85bfec440a187.jpg",
+        "img_caption": [
+            "图4东部型和中部型厄尔尼诺事件次年夏季降水距平百分率(a,b,单位： $\\%$ )和气温距平(c，d，单位： $^ \\circ \\mathrm { C }$ ， Fig.4Composite anomalous distributions of precipitation(a $, \\mathrm { b } , \\mathrm { u n i t } ; \\%$ and temperature(c,d,unit: $^ { \\circ } \\mathrm { C }$ )inEPElNino(a,c) and CP El Nino(c,d) decaying summer "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/347f334912fd7d97c5e621fb435d7dbad160883f975245e8880d12c1839d4e1f.jpg",
+        "img_caption": [
+            "注：图a,图b中字母C和A分别代表气旋和反气旋环流异常;图e,图f中黑色点线为副热带急流轴线。 图5东部型和中部型厄尔尼诺年次年夏季整层水汽通量异常和水汽通量散度异常(a,b); 水汽径向输送异常和大气可降水量异常(c,d);水汽纬向输送异常和副热带西风急流(e,f) Fig.5Composite anomalous distributions of vertically integrated water vapor flux and divergence (a,b), 'adial water vapor flux and precipitation water (c,d),zonal water vapor flux and upper level subtropical jet (e,l "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "西太平洋副热带高压是影响我国东部水汽输送路径的重要系统，不同类型厄尔尼诺事件通过海气相互作用对副热带高压的位置和强度也会产生不同的影响。从2类厄尔尼诺事件历次 $5 8 8 0 \\ \\mathrm { g p m }$ 和$5 8 6 0 ~ \\mathrm { g p m }$ 等值线位置(图6)及 $5 0 0 \\mathrm { { h P a } }$ 高度距平场(图7)可以看出，东部型厄尔尼诺事件次年，历次厄尔尼诺事件次年夏季的副高位置差异较大(图6a），其中典型的1982/1983年、1997/1998年、2014/2016年3次超强厄尔尼诺事件中，副高位置较常年显著加强西伸，而在1972/1973年、1976/1977年2次厄尔尼诺事件中，副高位置较常年显著偏弱东退。对所有东部型厄尔尼诺事件合成后，副高脊线位置较常年略偏南， $5 0 0 \\ \\mathrm { h P a }$ 高度场距平(图7a)显示西太平洋和东亚地区呈“ $+ -$ ”的东亚一太平洋遥相关型波列，有利于将来自太平洋地区的水汽输送至长江流域，易造成长江流域地区降水偏多。而欧亚中高纬度地区乌拉尔山一贝加尔湖一鄂霍次克海地区呈“ $^ { + - + }$ ”的高度距平分布，有利于形成北方水汽输送通道，使北冰洋和欧亚高纬度的水汽向我国北方地区输送。同时贝加尔湖以南异常强的低槽冷涡有利于来自高纬度的水汽和来自太平洋的西南水汽向华北地区输送，并使华北地区垂直上升运动异常加强，从而有利于华北地区降水的发生，使内蒙古地区降水较常年显著偏强(图4a)。中部型厄尔尼诺事件次年夏季，副高位置较常年和东部型均偏西偏北(图6b)，西太平洋异常反气旋环流位置也偏北（图7b），副高西侧水汽可大量输送至江淮流域，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "105E 120E 135E 150E 165E 180° 105E 120E 135E 150E 165E 180°   \nNo00 (a)-19661973 1977198319881992 19982007 2016 N00 N00 (b） \\~1995 2003 2005 2010 2019 2020 100 300N 2 ） 5840 5880 5840   \nN000 5880 5880 N00 N00 5860 5860 5880 880 58805880 5880   \nN00 5880 5880 5880 N000 N00 5880 58805880 1000 N00   \nNoOI 5880- NoOI NoOI   \n0 860 0 o 5860 E 8 105E 120°E 135E 150°E 165E 180° 105°E 120E 135E 150E 165E 180° ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "黑色实线为气候态值，黑色虚线为事件合成值。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d645450c4ff3eb9d2f43b759a6e8c28f934b5da961b62d33412df6596e7453eb.jpg",
+        "img_caption": [
+            "注：该图基于自然资源部标准地图服务网站下载的审图号为GS(2016)1663号的标准地图制作，底图无修改。",
+            "图6东部型(a)和中部型(b)厄尔尼诺次年夏季 $5 0 0 \\mathrm { { h P a } }$ 高度场 $5 8 8 0 \\ { \\mathrm { g p m } } \\cdot 5 8 6 0 \\ { \\mathrm { g p m } }$ 和 $5 8 4 0 ~ \\mathrm { g p m }$ 高度线 Fig.6 The western Pacific sub-tropical high with 5880,5860 and $5 8 4 0 ~ \\mathrm { g p m }$ contours in EP(a) and CP(b) El Nino decaying summer ",
+            "注：“ $^ { \\circ } +$ \"和\"-\"分别表示正高度距平和负高度距平。",
+            "图7东部型(a)和中部型(b)厄尔尼诺年次年夏季 $5 0 0 \\mathrm { { h P a } }$ 高度场(等值线，单位：gpm)和垂直速度(阴影，单位： $\\mathrm { P a } \\cdot \\mathrm { s } ^ { \\mathrm { - 1 } } )$ 距平值 Fig.7Composite anomalous distribution of $5 0 0 \\mathrm { { h P a } }$ geopotential height (contours,units:gpm) and vertical velocity (shadows, units: $\\mathrm { P a } \\cdot \\mathrm { s } ^ { \\mathrm { - 1 } ^ { \\cdot } }$ )in EP ElNino(a) and CPElNino(b) decaying summer "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$5 0 0 \\mathrm { { h P a } }$ 高度距平显示西太平洋一鄂霍次克海地区呈“ $^ { + - }$ ”的距平分布，副高西北侧的西南暖湿水汽和南下的湿冷水汽在江淮流域和日本汇合，垂直上升运动异常加强，为该地区降水提供有力的水汽条件。而欧亚大陆中高纬度地区自西向东呈“ $- + - { }$ ”的高度距平分布，不利于北冰洋及高纬度的水汽向我国北方地区输送，从而不利于华北地区降水的发生，同时副高的加强西伸及贝加尔湖附近的气压正距平也使得内蒙古地区夏季气温偏高。由此可以看出，在2类厄尔尼诺事件次年夏季，由于热带海洋强迫，西太平洋异常反气旋环流，使大量来自西太平洋和低纬度地区水汽可以输送至长江或江淮流域，造成其降水明显偏多，但在东部型厄尔尼诺事件次年，由于华北地区受欧亚中高纬度双阻型异常大气环流的影响，其与南方地区的降水产生了同步性增多响应，而在中部型厄尔尼诺事件次年，由于华北地区受西高东低异常环流系统的影响，不利于北冰洋及高纬度水汽的输送，导致内蒙古地区降水相对偏少。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外有研究表明，厄尔尼诺事件次年夏季西北太平洋异常反气旋环流的维持(图5)以及副高的加强西伸(图6)与印度洋异常偏暖有关。此时，赤道中东太平洋异常暖海温减弱，而印度洋海温从次年春季升高，并持续至夏季，此时的副高西伸以及西北太平洋反气旋的维持主要是印度洋海温滞后响应的作用，而太平洋海温的影响则相对减弱[28-29]。Zhang[30]的研究表明,夏季热带印度洋增暖时,减弱的印度夏季风水汽输送可以造成中国华北地区降水显著减少；杨洁凡3的研究也表明，印度夏季风与华北夏季降水有显著正相关。为了分析印度洋海温异常与内蒙古夏季降水的联系，利用Xie等[32]定义的夏季热带印度洋 $( 2 0 ^ { \\circ } \\mathrm { S } { \\sim } 2 0 ^ { \\circ } \\mathrm { N }$ P $4 0 ^ { \\circ } \\mathrm { E } { \\sim } 1 0 0 ^ { \\circ } \\mathrm { E }$ ））区域平均的海面温度异常与内蒙古夏季降水计算相关性(图8)，结果显示夏季热带印度洋海温与内蒙古大部分地区的夏季降水都呈负相关关系，尤其在东南部地区为显著负相关关系，即当夏季热带印度洋增暖时，内蒙古大部地区出现显著降水负异常。图9给出了东部型和中部型厄尔尼诺事件次年夏季印度洋海温异常分布特征，可以看到，2种厄尔尼诺事件引起的次年夏季印度洋海温异常并不一致，东部型厄尔尼诺事件次年夏季印度洋海温增暖范围较小，大部分海温距平为负值，异常偏冷的印度洋海温有利于印度夏季风水汽输送的加强，进而影响内蒙古大部地区降水偏多，而中部型厄尔尼诺事件次年夏季热带印度洋异常增暖，减弱的印度夏季风水汽输送可以引起内蒙古地区降水较常年偏少。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fabd5afbc15d6a00fb054a1e19434f9bc2272b3280e093690949d11ff08b7e20.jpg",
+        "img_caption": [
+            "图8夏季热带印度洋 $( 2 0 ^ { \\circ } \\mathrm { S } { \\sim } 2 0 ^ { \\circ } \\mathrm { N } , 4 0 ^ { \\circ } \\mathrm { E } { \\sim } 1 0 0 ^ { \\circ } \\mathrm { E } )$ 区域平均 海温异常与内蒙古夏季降水的相关系数分布 Fig.8 The correlation coefficient distribution between summer mean SST anomaly in the tropical Indian Ocean 1 $2 0 ^ { \\circ } \\mathrm { S } { - } 2 0 ^ { \\circ } \\mathrm { N }$ $4 0 ^ { \\circ } \\mathrm { E } { - } 1 0 0 ^ { \\circ } \\mathrm { E }$ ）and summer precipitation in Inner Mongolia "
+        ],
+        "img_footnote": [
+            "注：阴影区为达到 $9 0 \\%$ 显著性检验区域。"
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文基于中国地面观测格点数据，ERSST.v5海表温度数据以及NCEP再分析资料，通过对1961—2020年内蒙古全区夏季降水和气温的变化特征进行分析，进一步对中部型和东部型2种厄尔尼诺事件背景下气象要素的差异进行对比，并探讨其出现差异的可能原因，得出如下结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）内蒙古夏季平均降水量在 $1 8 { \\sim } 1 2 0 ~ \\mathrm { m m }$ 之间，总体呈现出自西向东递增的分布趋势，而气温则呈现出自西南向东北递减的分布趋势，夏季平均气温在 $1 4 { \\sim } 2 8 \\ \\mathrm { ^ circ C }$ 之间。1961—2020年除了内蒙古西部和东北部地区以外，内蒙古的中部和东部大部分地区降水量整体呈减少趋势，而气温则都表现出增温趋势，尤其是在内蒙古西中部偏北和东部地区增温更加明显。区域平均后，降水和气温的线性变化趋势分别为 $- 0 . 0 4 \\ \\mathrm { m m ^ { \\cdot } a ^ { - 1 } }$ 和 $0 . 0 3 \\ { ^ \\circ \\mathrm { C } } \\cdot \\mathrm { a } ^ { - 1 }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee816bd031504568b0d5df7bba7ee66717750ce61f17acbdaa80be6fe7f2744a.jpg",
+        "img_caption": [
+            "注：该图基于国家自然资源部标准地图服务网站下载的审图号为GS(2016)1663号的标准地图制作，底图无修改。图9东部型(a)和中部型(b)厄尔尼诺事件次年夏季印度洋海温异常分布特征(单位： $^ \\circ \\mathrm { C }$ ））Fig.9 Composite anomalous distribution of SST anomalies in the Indian Ocean in EPEl Nino (a)and CP El Nino(b) decaying summer (unit: $^ \\circ \\mathrm { C }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）通过对东部型和中部型厄尔尼诺事件合成分析显示，东部型和中部型厄尔尼诺事件对内蒙古次年夏季降水和气温的影响并不一致，东部型厄尔尼诺事件使内蒙古大部地区降水偏多，气温偏低，而中部型厄尔尼诺事件使内蒙古西北部降水偏多，中东部大部地区降水偏少，全区气温偏高。区域平均后，东部型厄尔尼诺事件次年降水偏多 $9 . 9 1 \\%$ ，气温偏低 $0 . 2 7 ^ { \\circ } \\mathrm { C }$ ，而在中部型厄尔尼诺事件次年降水减少 $4 . 6 7 \\%$ ，气温升高 $0 . 4 0 ~ \\mathrm { ^ { q } C }$ 。值得注意的是，东部型厄尔尼诺指数(NinoEP)和中部型厄尔尼诺指数(NinoCP)与次年夏季内蒙古大部地区的气象要素相关性相反，但都没有达到显著性检验，通过计算11a滑动相关系数分析，可能与厄尔尼诺事件对气象因子的影响存在显著的年代际变化特征有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3）进一步从环流特征和水汽特征对东部型和中部型厄尔尼诺事件引起次年夏季降水异常的原因进行分析，导致内蒙古地区降水出现差异的主要原因是2类厄尔尼诺事件中副热带高压位置以及异常反气旋环流的强度和位置不同，进而引起中高纬度环流水汽输送异常导致降水出现显著差异。东部型厄尔尼诺事件次年夏季，西太平洋副热带高压脊线位置较常年略偏南，西北太平洋地区异常反气旋环流北边缘在 $3 0 ^ { \\circ } \\mathrm { N }$ 附近，有利于副高西侧水汽向中国长江中下游地区输送，此外欧亚中高纬度地区$5 0 0 \\ \\mathrm { h P a }$ 高度距平自西向东呈“ $^ { + - + }$ ”的双阻型分布特征，其反气旋一气旋一反气旋环流异常引起的北冰洋水汽与太平洋水汽在华北地区汇合并向北输送，造成内蒙古大部降水较常年异常偏多。中部型厄尔尼诺事件次年夏季，副高位置较常年偏西偏北，西太平洋异常反气旋环流位置也偏北，有利于大量水汽输送至江淮流域，但中高纬度地区 $5 0 0 \\mathrm { { h P a } }$ 西高东低的高度距平分布不利于北冰洋及高纬度的水汽向北方地区输送，从而不利于内蒙古地区夏季降水的发生。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4）厄尔尼诺事件次年夏季印度洋海温异常与内蒙古夏季降水，尤其是东南部地区夏季降水有显著的负相关关系。而东部型和中部型厄尔尼诺事件导致的次年夏季印度洋海温异常并不完全一致，东部型厄尔尼诺次年夏季印度洋海温异常偏冷使印度夏季风水汽输送加强，有利于内蒙古降水偏多，而中部型厄尔尼诺事件次年夏季热带印度洋增温明显，减弱的印度夏季风水汽输送不利于内蒙古地区的降水产生。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文通过分析大气环流和水汽输送特征以定性解释内蒙古夏季降水出现异常的原因，值得注意的是2种厄尔尼诺事件次年夏季降水和气温的异常变化在内蒙古大部地区没有达到显著性检验标准，这意味着处于夏季风影响过渡区的内蒙古高原，除受厄尔尼诺事件的影响以外，还受其他环流系统的影响。因此，在后续的研究中除了考虑海气相互作用引起的副热带高压位置东西摆动以外，其他环流系统变化的影响也非常值得关注，比如中纬度西风带、东亚夏季风、青藏高原夏季风等的影响在预测内蒙古夏季降水时都需进一步考虑[33-34] O",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢中国科学院西北生态环境资源研究院李孝泽研究员对本文提出的宝贵意见和建议。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):   \n[1]高涛,肖苏君,乌兰.近47年(1961—2007年)内蒙古地区降水和 气温的时空变化特征[J].内蒙古气象,2009,33(1):3-7,49. [Gao Tao, Xiao Sujun,Wu Lan.Temporal-spatial characteristics of precipitation and temperature in Inner Mongolia for the last 47 years(1961- 20O7)[J].Meteorology Journal of Inner Mongolia, 2009,33(1): 3-7, 49.]   \n[2]马爱华,岳大鹏,赵景波,等.近60a来内蒙古极端降水时空变 化及其影响[J].干旱区研究,2020,37(1):74-85.[Ma Aihua, Yue Dapeng,Zhao Jingbo,et al. Spatiotemporal variation and effect of extreme precipitation in Inner Mongolia inrecent6O years [J]. Arid Zone Research,2020,37(1): 74-85.]   \n[3]春兰,秦福莹,宝鲁,等.近55a内蒙古极端降水指数时空变化 特征[J].干旱区研究,2019,36(4): 963-972.[Chun Lan,Qin Fuying,Bao Lu,etal.Spatiotemporal variationof extreme precipitation indices in Inner Mongolia in recent 55 years[J].Arid Zone Research,2019,36(4): 963-972.]   \n[4]吴英杰,李玮,王文君,等.基于降水量距平百分率的内蒙古地 区干旱特征[J].干旱区研究,2019,36(4):943-952.[Wu Yingjie, Li Wei,Wang Wenjun, et al. Drought characteristics in Inner Mongolia based on precipitation anomaly percentage[J]. Arid Zone Research,2019,36(4): 943-952.]   \n[5]任志艳,延军平,王鹏涛.1960—2012年内蒙古降水集中度和 降水集中期时空变化[J].中国沙漠,2016,36(3):760-766.[Ren Zhiyan, Yan Junping,Wang Pengtao.Spatio-temporal variations of precipitation concentration degree and precipitation concentration period in Inner Mongolia[J]. Journal of Desert Research,2016,36 (3): 760-766. ]   \n[6]庞波,毛文书,张禄英.近50年内蒙古夏季降水气候特征分析 [J].成都信息工程大学学报,2019,34(4):428-434.[Pang Bo, Mao Wenshu, Zhang Luying. Climatic characteristics of summer precipitation are studied in Inner Mongolia in recent 5O years[J]. Journal of Chengdu University of Information Technology,2019, 34(4): 428-434. ]   \n[7]高晶.内蒙古夏季降水变化特征及其影响因子的研究[D].南 京：南京信息工程大学,2013.[Gao Jin.Analysis on the Variation Characteristics and the Influencing Factors of the Summer Precipitation in Inner Mongolia[D]. Nanjing: Nanjing University of Information Science & Technology,2013.]   \n[8]李瑞青,吕世华,韩博.10个CMIP5模式对亚澳季风环流及其 变率的模拟[J].热带气象学报,2013,29(5):749-758.[Li Ruiqing,Lyu Shihua,Han Bo.Simulations of Asian-Australian monsoon circulation and variability by10 CMIP5 models[J]. Journal of Tropical Meteorology,2013,29(5): 749-758.]   \n[9]Li Ruiqing,Lyu Shihua,Han Bo,et al. Projections of South Asian summer monsoon precipitation based on 12 CMIP5 models[J]. International Journal of Climatology,2016,37(1): 94-108.   \n[10]Li Ruiqing,Lyu Shihua,Han Bo,et al. Connections between the South Asian summer monsoon and the tropical sea surface temperature in CMIP5[J]. Journal of Meteorological Research,2015,29 (1): 106-118.   \n[11]Liu Yanju,Ding Yihui, Song Yafang,etal. Climatological characteristics of the moisture budget and their anomalies over the joining area of Asia and the Indian-Pacific Ocean[J]. Advances in Atmospheric Sciences,2009,26(4): 642-655.   \n[12] 范伶俐,徐峰,徐华,等.春季/夏季型El Nino对中国夏季降水 变化的影响[J].大气科学学报,2018,41(6):819-828.[Fan Lingli, Xu Feng,Xu Hua,et al.Spring and summer El Nino events and their influences on summer precipitation in China[J]. Journal of Nanjing Institute of Meteorology,2018,41(6): 819-28.]   \n[13] Chang CP, Zhang Y S,Li Tim.Interannual and interdecadal variations of the East Asian summer monsoon and tropical Pacific SSTs.Part I: Roles of the subtropical ridge[J]. Journal of Climate, 2000,13(24): 4310-4325.   \n[14]Wang Yi, Yan Zhongwei. Changes of frequency of summer precipitation extremes over the Yangtze River in association with largescale Oceanic-atmospheric conditions[J].Advances in Atmospheric Sciences,2011,28(5): 1118-1128.   \n[15]Ren Hongli,Jin Feifei.Nino indices for two types of ENSO[J]. Geophysical Research Letters,2011,38(4): L04704.   \n[16]张人禾,闵庆烨,苏京志.厄尔尼诺对东亚大气环流和中国降水 年际变异的影响:西北太平洋异常反气旋的作用[J].中国科 学:地球科学,2017,47(5):544-553.[Zhang Renhe,Min Qingye, Su Jingzhi. Impact of El Nino on atmospheric circulations over East Asia and rainfall in China:Role of the anomalous western North Pacific anticyclone[J]. Science China Earth Sciences,2017, 47(5): 544-553.]   \n[17]Feng Juan, Chen Wen,Tam C Y,et al. Different impacts of El Nino and El Nino Modoki on China rainfallin the decaying phases [JJ.International Journal of Climatology,2011,31(14): 2091-2101.   \n[18] Li Xiuzhen, Zhou Wen,Chen Deliang,etal. Water vapor transport and moisture budget over Eastern China: Remote forcing from the two typesof El Nino[J]. Journal of Climate,2014,27(23): 8778- 8792.   \n[19] 吴萍,丁一汇,柳艳菊.厄尔尼诺事件对中国夏季水汽输送和降 水分布影响的新研究[J].气象学报,2017,75(3):371-383.[Wu Ping,Ding Yihui, Liu Yanju.A new study of E1 Nino impacts on summertime water vapor transport and rainfall in China[J].Acta Meteorologica Sinica,2017,75(3): 371-383.]   \n[20] 张人禾.ElNino盛期印度夏季风水汽输送在我国华北地区夏 季降水异常中的作用[J].高原气象,1999,18(4): 567-574. [Zhang Renhe.The role of Indian summer monsoon water vapor transportation on the summer rainfall anomalies on the Northern part of China during the El Nino mature phase[J]. Plateau Meteorology,1999,18(4): 567-574.]   \n[21]白小娟,赵景波.厄尔尼诺/拉尼娜事件对内蒙古自治区气候的 影响[J].水土保持通报,2012,32(6):245-249.[Bai Xiaojuan, Zhao Jingbo.Effects of El Nino/La Nina events on climate in Inner Mongolia autonomous region[J]. Bulletin of Soil and Water Conservation,2012,32(6): 245-249.]   \n[22]贾艳青,张勃.1960—2017年中国北方气候干湿变化及其与 ENSO 的关系[J].地理科学,2020,40(12): 2115-2124.[Jia Yanqing,Zhang Bo. Correlation analysis of variation of dry-wet climate and ENSO in Northern China during 196O-2017[J]. Scientia Geographica Sinica,2020,40(12): 2115-2124.]   \n[23] 徐洁,王舒，肖高翔.不同分型厄尔尼诺事件对新疆汛期降水的 影响[J].沙漠与绿洲气象,2016,10(3):53-58.[XuJie,Wang Su, Xiao Gaoxiang.El Nino events of different types and their impact on the flood season precipitation in Xinjiang[J].Desert and Oasis Meteorology,2016,10(3): 53-58.]   \n[24] 赵煜飞,朱江,许艳.近50a中国降水格点数据集的建立及质量 评估[J].气象科学,2014,34(4):414-420.[Zhao Yufei, Zhu Jiang,Xu Yan. Establishment and assessment of the grid precipitation datasets in China for recent 5O years[J]. Journal of the Meteorological Sciences,2014,34(4): 414-420.]   \n[25]Huang Boyin,Thorne Peter W,Banzon Viva F,etal.Extended reconstructed sea surface temperature version 5(ERSSTv5)，upgrades,validations,and intercomparisons[J]. Journal of Climate, 2017,30(20): 8179-8205.   \n[26]Wang Huijun. The instability of the East Asian summer monsoonENSO relations[J].Advances in Atmospheric Sciences,2002,19 (1): 1-11.   \n[27]李维京.1998年大气环流异常及其对中国气候异常的影响[J]. 气象,1999,25(4): 21-26,58.[Li Weijing. General atmospheric circulation anomaly in 1998 and their impact on climate anomaly in China[J]. Meteorological Monthly,1999,25(4): 21-26,58.]   \n[28]Yuan Yuan,Yang Song.Impacts of different types of El Nino on the East Asian climate: Focus on ENSO cycles[J]. Journal of Climate,2012,25(21): 7702-7722.   \n[29]Xie Shangping,Kosaka Yu,Du Yan,et al. Indo-western Pacific ocean capacitor and coherent climate anomalies in post- ENSO summer:A review[J].Advances in Atmospheric Sciences,2O16,33 (4): 411-432.   \n[30] Zhang Renhe.Relations of water vapor transport from Indian Monsoon with that over East Asia and the summer rainfall in China[J]. Advances in Atmospheric Sciences,2001,18(5):1005-1017.   \n[31] 杨洁凡.欧亚遥相关型对印度夏季风与华北夏季降水关系的影 响[D].南京:南京信息工程大学,2019.[Yang Jiefan.Effect on the Relationship between Indian Summer Monsoon and North China Summer Rainfall by Eurasian Teleconnection[D]. Nanjing: Nanjing University of Information Science & Technology,2019.]   \n[32] Xie Shangping,Hu Kaiming,Hafner Jan, et al. Indian Ocean capacitor effect on Indo-Western Pacific climate during the summer following El Nino[J]. Journal of Climate,2009,22(3): 730-747.   \n[33] 杨金虎,张强,刘晓云,等.中国典型夏季风影响过渡区夏季降 水异常时空特征及成因分析[J].地球物理学报,2019,62(11): 4120-4128.[Yang Jinhu,Zhang Qiang,Liu Xiaoyun,et al. Spatial-temporal characteristics and causes of summer precipitation anomalies in the transitional zone of typical summer monsoon, China [J]. Chinese Journal of Geophysics,2019,62(11): 4120-4128.]   \n[34]姬凯,王士新,左洪超,等.东亚副热带急流经向位置对中国西 北东部盛夏降水的影响[J].干旱区研究,2020,37(1):10-17.[Ji Kai,Wang Shixin, Zuo Hongchao,et al.Effect of meridional position of East Asian subtropical jet on midsummer precipitation in eastern part of Northwest China[J].Arid Zone Research,2O20,37 (1): 10-17.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of summer climate change and its response to El Nino in Inner Mongolia during the past 6O years ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LI Ruiqing'， SONG Guiying'， YIN Chun² (1.Meteorological Observatory of Inner Mongolia Autonomous Region,Hohhot O1oo51,Inner Mongolia, China; 2. Meteorological Bureau of Xilin Gol League,Xilinhaote O26OOo,Inner Mongolia, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A large part of Inner Mongolia has temperate mainland monsoon climate,which is fragile,complex, and diverse.As an important ecological security barrer in northern China,Inner Mongolia has experienced significant changes in summer temperature and precipitation under the background of global warming,and its sensitivity to climate change is becoming increasingly prominent.In this study,various characteristics of summer meteorological elements and their responses to El Nino events in Inner Mongolia in the past 6O years were analyzed on the basis of the historical observation of meteorological stations and global reanalysis data.The following conclusions were drawn.(1) In the past 6O years,precipitation in most parts of central and eastern Inner Mongolia decreased in summer, whereas temperature in the whole region increased.(2） The correlation between El Nino index in winter and meteorological factors in summer of the folowing year was characterized by interdecadal variation.In the following summer,eastern El Nino in most areas in Inner Mongolia had more precipitation and lower temperature. Central El Nino had more precipitation in the northwest of Inner Mongolia, less precipitation in most parts of the middle and east,and higher temperature in the whole region. (3)The main reasons of summer precipitation differences in various El Nino types included the diffrent intensities and locations of the subtropical high in the Central and Western Pacific Ocean,abnormal anticyclone circulation,and circulation anomalies at middle and high latitudes in two types ofEl Nino events.In the following summer of eastern El Nino,the subtropical high was southward compared with that in the past,and double resistance circulation anomalies appeared at middle and high latitudes of Eurasia and Asia.The northerly airflow between the low trough cold vortex and the high upstream resistance caused the water vapor of the Arctic Ocean and the water vapor of the Pacific Ocean on the west side of the subtropical high to converge in North China and be transported to the northeast,resulting in more precipitation in Inner Mongolia.For the central type,the location of the subtropical high was west by north; consequently, water vapor moved from south to east. Anticyclone circulation anomalies at middle and high latitudes are not conducive to water vapor transport at high latitudes, thereby reducing precipitation and water vapor transport in most parts of Inner Mongolia.(4) Water vapor transport in summer monsoon was caused by the sea surface temperature anomaly in the following summer in the Indian Ocean and implicated in summer precipitation in Inner Mongolia. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords: climate change; temperature； precipitation; El Nino; monsoon; Inner Mongolia ",
+        "page_idx": 12
+    }
+]

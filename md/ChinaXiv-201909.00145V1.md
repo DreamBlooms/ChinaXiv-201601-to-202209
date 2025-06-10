@@ -1,0 +1,168 @@
+# 乌昌地区基本公共服务失配度时空格局演化及影响因素分析
+
+钟佳利}²，杨德刚}，霍金炜'(1中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011；2中国科学院大学,北京100049)
+
+摘要：通过将基本公共服务作为一种民生资源，从失配视角研究其配置问题，运用熵值法和健康距离模型,分析乌昌地区2007—2016年基本公共服务失配度时空格局及其影响因素，为推进乌昌地区基本公共服务均等化建设提供决策依据。研究发现：乌昌地区8个市县基本公共服务失配度的平均值逐渐减小,2007年为0.759,属于高度失配，2016年为0.573，属于低度失配;2007年高度失配市县占比高达 $8 7 . 5 \%$ ,2016年，基本公共服务配置较高、高度失配的市县占比仅为 $2 5 \%$ ，整体上各市县基本公共服务状态有所提高，但2016年基本公共服务失配市县占比仍高达 $7 5 \%$ ，说明乌昌地区仍有较多市县基本公共服务不协调。时间上，基本公共服务失配度演化主要经历3个阶段：高度失配主导阶段(2007—2011年）、失配度下降过渡阶段(2012—2014年)和中度失配主导阶段(2015—2016年)。空间上，基本公共服务失配度由均衡高度失配逐渐演进成不均衡中低度失配，并呈现出“核心、两翼”格局，“两翼”基本公共服务大多处于高度失配和较高度失配状态，而“核心”则一直处于良好或优秀状态，在变化趋势上，失配度由“核心”向“两翼”逐渐变化，离“核心”越近的市县基本公共服务失配度越早呈现下降趋势。
+
+关 键 词：乌昌地区；基本公共服务；失配度；时空格局；影响因素
+
+基本公共服务是全体公民生存和发展的基本需要。推进基本公共服务均等化对促进社会公平正义、增进人民福祉具有十分重要的意义。乌鲁木齐市与昌吉回族自治州(简称：乌昌地区)作为新疆空间开发格局中的核心区和丝绸之路经济带中的重要节点，是我国扩大向西开放的重要门户和对外经济文化交流的窗口。加快建设与经济社会发展水平相适应的基本公共服务，对促进乌昌地区协调发展和实现新疆社会稳定与长治久安总目标具有重要意义。
+
+基本公共服务作为最基本的生产、生活前提[],主要涉及义务教育、公共卫生等直接与民生密切相关的公共服务[2]。在已有研究文献中,国外学者主要从空间公平[3]、资源分配[4]等视角来研究其公平性。国内学者较多关注其空间格局[5]、供给效率[等。近年来国内学者在基本公共服务的研究区域和研究方法方面不断深入，如孙建国等运用熵值法研究兰州市基本公共服务水平差异；曹莎等[8]利用投影寻踪模型研究四川省基本公共服务水平空间格局及其驱动机制。
+
+基本公共服务作为一种资源，其发展过程中偏离最优水平将出现失配现象。“失配”的概念最早由美国哈佛大学KAIN[9提出。此后，国外将其逐渐从研究种族差异扩展到就业与居住空间[10]、社会公共资源[11-12]等领域。国内"失配”问题相关研究提出较晚,2004 年周江评[13]在就业障碍问题研究中首次引入，此后国内学者将“失配”概念多用于职住空间研究[14],也有学者将“失配”概念扩展到城镇化水平[15]、经济发展[16]、民生质量[17]、“五化"协同发展[18]。近年来,部分学者将其运用到基本公共服务[8,19]、医疗卫生[20]、教育资源[21]等领域。
+
+总结以往研究，学者研究基本公共服务主要集中在单一资源要素分配和总体视角，较少有学者将基本公共服务作为一种民生资源，从失配视角研究其配置问题。借鉴相关研究成果，以新疆乌昌地区为研究区，从失配视角建立指标体系，综合运用熵值法和健康距离模型，分析乌昌地区2007—2016 年基本公共服务失配度时空格局及其影响因素，为推进乌昌地区基本公共服务均等化建设提供决策依据。
+
+# 1研究区概况
+
+乌昌地区位于天山北麓、准噶尔盆地南缘（图1），总面积 $9 . 7 9 \times 1 0 ^ { 6 } \ \mathrm { h m } ^ { 2 }$ ,是新疆空间开发格局中的核心区和丝绸之路经济带中的重要节点。截止
+
+N9 85E 86E 87°E 88E 89E 90°E 91°E NVNΛ 0 50 100km  
+N 昌地区 N9V  
+No 玛纳斯图壁县 2市 阜康市0 吉木萨尔县  
+N 乌鲁木齐市 ★ o10 奇台县 木垒哈萨克自治县 No86°E 87°E 88°E 89°E 90°E 91°E 92E
+
+2016年，乌昌地区总人口407.97万人，占全疆总人□ $1 7 . 7 2 \%$ ；乌昌地区生产总值达3577.22亿元，占全疆生产总值 $3 7 . 0 7 \%$ 0
+
+# 2 研究方法与数据来源
+
+# 2.1 指标体系构建
+
+基本公共服务是公共服务范围中最基础、最核心的部分，包括基础教育、医疗卫生、社会保障等领域[22]。本文结合乌昌地区经济社会发展状况、相关政策、文献资料[7-9]以及数据可获得性,将基本公共服务分为5个大类(表1）。
+
+# 2.2 研究方法
+
+2.2.1熵值法确定指标权重前，为消除量纲差异，先进行标准化处理。假设有 $m$ 个城市， $n$ 项评价指标，形成原始指标数据矩阵 $X = ( x _ { i j } ) m \times n ( 0 \leqslant i$ $\leqslant m , 0 \leqslant j \leqslant n ,$ ）， $x _ { i j }$ 为第 $\mathbf { \chi } _ { i }$ 个城市第 $j$ 个指标的指标值。根据正向与负向指标对结果的不同影响效果，进行如下处理：
+
+正向指标： ${ \bf \chi } _ { i j } = x _ { i j } - x _ { i j \mathrm { m i n } } / x _ { i j \mathrm { m a x } } - x _ { i j \mathrm { m i n } }$ 负向指标:yij=xijmax-xi/xijmax
+
+权重的确定包括主观和客观两种赋权法。客观赋权法中，熵值法更能够深刻反映指标信息熵值的效用价值[23]。为使权重的确定更客观,本文采用熵值法计算指标的权重系数。计算步骤如下：
+
+表1乌昌地区基本公共服务失配度指标体系  
+Tab.1Index system of mismatch degree of basic public service in Urumqi-Changji Region   
+
+<html><body><table><tr><td>目标层</td><td>一级指标</td><td>二级指标</td><td>标准值</td><td>单位</td><td>标准来源</td></tr><tr><td>乌昌</td><td>基础教育</td><td>万人财政教育支出</td><td>≤3 671.89</td><td>104元</td><td>阜康市(2016)</td></tr><tr><td>地区</td><td></td><td>万人普通高中小学拥有教师数</td><td>≤155.54</td><td>人</td><td>木垒县(2008)</td></tr><tr><td>基本</td><td></td><td>普通教育学校全疆占比</td><td>≤14.71</td><td>%</td><td>乌鲁木齐市(2016)</td></tr><tr><td>公共</td><td></td><td>每百人公共图书馆藏书</td><td>≤170.67</td><td>册</td><td>昌吉市(2012)</td></tr><tr><td>服务</td><td>医疗卫生和社会保障</td><td>万人医院、卫生院数</td><td>≤1.68</td><td>所</td><td>呼图壁县(2007)</td></tr><tr><td>失配</td><td></td><td>万人均医院、卫生院床位数</td><td>≤131.09</td><td>床</td><td>昌吉市(2013)</td></tr><tr><td>度指 标体</td><td></td><td>万人均医院、卫生院卫生技术人员数</td><td>≤131.66</td><td>人</td><td>昌吉市(2014)</td></tr><tr><td>系</td><td></td><td>万人均医疗卫生财政支出</td><td>≤2 054.64</td><td>104元</td><td>吉木萨尔县(2015)</td></tr><tr><td rowspan="6"></td><td></td><td>万人均社会保障和就业支出</td><td>≤2 185.23</td><td>104元</td><td>木垒县(2016)</td></tr><tr><td>公共基础设施</td><td>每万人拥有公共车辆</td><td>≤20.1</td><td>台</td><td>乌鲁木齐市(2007)</td></tr><tr><td></td><td>人均城市道路面积</td><td>≤46.17</td><td>m²</td><td>昌吉市(2016)</td></tr><tr><td></td><td>人均日生活用水量</td><td>≤197.1</td><td>L</td><td>阜康市(2014)</td></tr><tr><td>城乡生活人均用电</td><td></td><td>≤712.74</td><td>kW·h</td><td>乌鲁木齐市(2016)</td></tr><tr><td></td><td>人均天然气供应量</td><td>≤1100</td><td>t</td><td>乌鲁木齐市(2016)</td></tr><tr><td rowspan="4"></td><td></td><td>人均公园绿地面积</td><td>≤25.36</td><td>m²</td><td>玛纳斯县(2013)</td></tr><tr><td>生态环境</td><td>万人均节能环保财政支出</td><td>≤911.82</td><td>104元</td><td></td></tr><tr><td></td><td>污水处理集中处理率</td><td></td><td></td><td>阜康市(2012)</td></tr><tr><td>万人互联网用户数</td><td></td><td>≤100 ≤4 160.19</td><td>% 户</td><td>阜康市(2011) 乌鲁木齐市(2016)</td></tr></table></body></html>
+
+$\textcircled{1}$ 计算第 $j$ 项指标下第 $i$ 个城市指标值的比重$p _ { i j } \ = \ y _ { i j } \Bigg / \ \sum _ { i \ = 1 } ^ { m } y _ { i j } \thinspace$ 。 $\textcircled{2}$ 计算第 $j$ 项指标的熵值 $e _ { j } \ =$ $- k \sum _ { i = 1 } ^ { m } p _ { i j } \ : \mathrm { l n } p _ { i j }$ ，其中 $k = 1 / \mathrm { l n } m$ 。 $\textcircled{3}$ 计算评价指标 $j$ 的差异性系数 $\begin{array} { r } { g _ { j } = 1 - e _ { j } } \end{array}$ 。 $\textcircled{4}$ 计算评价指标 $j$ 的权重$w _ { j } \ = \ g _ { i } { \bigg / } \sum { g _ { i } } _ { \circ }$ （20
+
+2.2.2健康距离模型健康距离模型是陈高提出并运用于评估生态系统的模型[24],本文引入健康距离模型的思想测算基本公共服务失配度。乌昌地区各市县基本公共服务发展过程中可能会偏离最优配置状态，测算实际基本公共服务状态与最优状态之间的相对综合距离从而评估偏离程度，距离越大，则越偏离最优状态，基本公共服务失配情况越严重，反之亦然。
+
+假设 $A$ 和 $B$ 是两个不同状态的基本公共服务系统， $x _ { 1 } , x _ { 2 } , x _ { 3 } \cdots , x _ { n }$ 是基本公共服务系统共有属性 ${ } _ { , x _ { a 1 } , x _ { a 2 } , x _ { a 3 } } \cdots { } _ { , x _ { a n } }$ 是最优基本公共服务状态 $A$ 的具体指标 $, x _ { b 1 } , x _ { b 2 } , x _ { b 3 } \cdots , x _ { b n }$ 是实际基本公共服务状态 $B$ 的具体指标。步骤如下：
+
+$\textcircled{1}$ 从实际基本公共服务状态 $B$ 的具体指标$x _ { b 1 } , x _ { b 2 } , x _ { b 3 } \cdots , x _ { b n }$ 中,运用最值法得出的 $x _ { a 1 } , x _ { a 2 } , x _ { a 3 }$ $\cdots , x _ { a n }$ 最大值作为最优基本公共服务状态 $A$ 的具体指标。 $\textcircled{2} \ x _ { a j }$ 到 $x _ { b j }$ 的相对距离： lxbi-xxwj，其中Xaj  
+$\boldsymbol { w } _ { j }$ 为第 $j$ 项指标的权重。 $\textcircled{3} A$ 到 $B$ 的相对综合健康距离： $H D ( A , B ) ~ = ~ \sum _ { j = 1 } ^ { n } ~ \left| \frac { B ( x _ { b j } ) ~ - { A ( x _ { a j } ) } } { A ( x _ { a j } ) } ~ \right| ~ \times ~ w _ { j }$ ，其中 $H D ( A , B )$ 为 $A$ 到 $B$ 的相对综合健康距离； $A ( x _ { a j } )$ 为基本公共服务标准值; $B ( \boldsymbol { x } _ { b j } )$ 为基本公共服务实际值； $\boldsymbol { w } _ { j }$ 为第 $j$ 指标的权重， $H D$ 即为基本公共服务失配度的度量值， $H D$ 值越大，则失配度越大， $H D$ 值
+
+越小，则失配度越小。
+
+# 2.3 数据来源
+
+本文主要数据来源2008—2017年《新疆统计年鉴》、《乌鲁木齐统计年鉴》、《昌吉回族自治州统计年鉴》，2008—2017年各县市经济和社会发展统计公报及2014年《新疆县域社会经济资料》。对于个别年份缺失的数据，利用前后两年平均值代替。
+
+# 3结果分析
+
+通过健康距离模型计算得到2007—2016年乌昌地区基本公共服务失配度（表2），运用ArcGIS几何间隔法，将乌昌地区基本公共服务失配度分为6级（优秀： $H D \leqslant 0 . 5 0 0$ ，良好： $0 . 5 0 0 < H D \leqslant 0 . 5 5 0$ ，低度失配： $0 . 5 5 0 < H D \leqslant 0 . 6 0 0$ ，中度失配： $0 . 6 0 0 < H D$ $\leqslant 0 . 6 5 0$ ,较高度失配： $0 . 6 5 0 < H D \leqslant 0 . 7 0 0$ ,高度失配： $H D > 0 . 7 0 0 \rangle$ 。
+
+# 3.1 时间序列特征
+
+3.1.1整体演化特征据表2分析发现,整体上存在较明显的3个阶段性特征：高度失配主导阶段（2007一2011年），这一阶段乌昌地区各市县基本公共服务高度失配度市县占比较大，如2007年高度失配的市县占比达 $8 7 . 5 \%$ ；失配度下降过度阶段(2012一2014年），这一阶段高度失配、较高失配、中度失配、低度失配混合不均等出现；中度失配主导阶段（2015一2016年），这一阶段基本公共服务配置优秀和良好的市县占比从2007年的 $1 2 . 5 \%$ 上升到2016年的 $2 5 \%$ 。分析乌昌地区整体基本公共服务失配度的平均值(图2)发现，乌昌地区基本公共服务失配度由2007年的0.759（高度失配)变为2016年的0.573（低度失配），可见整体上各市县基本公共服务状态有所提高，但2016年基本公共服务失配市县占比仍高达 $7 5 \%$ ,说明乌昌地区基本公共服务资源配置不协调，仍有待于提升。
+
+表2乌昌地区基本公共服务失配度(2007一2016年)  
+Tab.2Mismatch degree of basic public service in Urumqi-Changji Region(2007-2016)   
+
+<html><body><table><tr><td>市县</td><td>2007</td><td>2008</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>2014</td><td>2015</td><td>2016</td></tr><tr><td>乌鲁木齐市</td><td>0.511</td><td>0.461</td><td>0.449</td><td>0.467</td><td>0.396</td><td>0.354</td><td>0.281</td><td>0.244</td><td>0.239</td><td>0.189</td></tr><tr><td>昌吉市</td><td>0.756</td><td>0.688</td><td>0.656</td><td>0.679</td><td>0.638</td><td>0.560</td><td>0.537</td><td>0.556</td><td>0.517</td><td>0.503</td></tr><tr><td>阜康市</td><td>0.799</td><td>0.794</td><td>0.764</td><td>0.768</td><td>0.743</td><td>0.702</td><td>0.655</td><td>0.636</td><td>0.618</td><td>0.641</td></tr><tr><td>玛纳斯县</td><td>0.796</td><td>0.766</td><td>0.748</td><td>0.725</td><td>0.726</td><td>0.676</td><td>0.623</td><td>0.621</td><td>0.617</td><td>0.640</td></tr><tr><td>呼图壁县</td><td>0.773</td><td>0.768</td><td>0.734</td><td>0.738</td><td>0.718</td><td>0.512</td><td>0.662</td><td>0.651</td><td>0.617</td><td>0.612</td></tr><tr><td>吉木萨尔县</td><td>0.811</td><td>0.806</td><td>0.793</td><td>0.768</td><td>0.757</td><td>0.715</td><td>0.712</td><td>0.705</td><td>0.662</td><td>0.671</td></tr><tr><td>奇台县</td><td>0.829</td><td>0.803</td><td>0.781</td><td>0.738</td><td>0.748</td><td>0.714</td><td>0.704</td><td>0.708</td><td>0.689</td><td>0.692</td></tr><tr><td>木垒哈萨克自治县</td><td>0.799</td><td>0.770</td><td>0.748</td><td>0.723</td><td>0.717</td><td>0.718</td><td>0.704</td><td>0.646</td><td>0.653</td><td>0.635</td></tr></table></body></html>
+
+![](images/b183fc22dc4df13fe619fad7f1e8d74e1179bc5803848aca37fd647ad2f0b1dd.jpg)  
+图2乌昌地区基本公共服务失配度平均值(2007—2016年)
+
+3.1.2区间差异特征通过乌昌地区8个市县基本公共服务失配度的极差、标准差和变异系数（图3)分析发现，极差由2007年的0.318不断增大到2016年为0.503，说明乌昌地区市县间的基本公共服务两极分化现象不断加剧；标准差波动上升，2007年为0.096，2016年为0.154，说明基本公共服务失配度在市县间变化越来越不稳定；变异系数不断增长，说明消除测量量纲的影响，乌昌地区市县间的基本公共服务失配度差异仍在不断扩大。综合而言，乌昌地区基本公共服务失配度随时间由市县间差距较小、高度失配的状态向市县间差距较大、中低失配的状态演化。
+
+# 3.2 空间格局特征
+
+利用ArcGIS空间分析功能，根据基本公共服务失配度数值，绘制其空间格局变化图（图4）。
+
+乌昌地区基本公共服务失配度在空间上呈现明显的“核心低、两翼高”格局。从图4可见,2007年，“两翼”基本公共服务均处于高度失配状态，“核心”处于良好状态，其中失配度排序具体表现为：奇台县 $>$ 吉木萨尔县 $>$ 木垒县 $>$ 玛纳斯县 $>$ 阜康市 $>$ 呼图壁县 $>$ 昌吉市 $>$ 乌鲁木齐市；到2011年，“两翼”中仅有昌吉市失配度有所变化，从高度失配变为较高度失配，“核心”乌鲁木齐市失配度状态从良好变为优秀;到2016年，除奇台县，其余各市县失配状态均有变化，乌鲁木齐市为优秀，昌吉市变为良好，阜康市、吉木萨尔县和呼图壁县变为中度失配，玛纳斯县和木垒县变为较高度失配
+
+![](images/f926ff46ccbe61da66e6ba0e37b83ef04dfcc8d664a625f2be503f898ac2cbbc.jpg)  
+图3基本公共服务失配度极差、标准差、变异系数Fig.3Range,standard deviation and variation coefficientof the mismatch degree of basic public service
+
+![](images/a68d110d7b462abb217482d24beaf946bd6b1eff2cb583fbcbdd3eceafa37ce3.jpg)  
+Fig.2Average of mismatch of basic public service in Urumqi-Changji Region(2007—2016)   
+图4乌昌地区基本公共服务失配度空间格局演变图 Fig.4Spatial pattern evolution map of the mismatch degree of basic public service in Urumqi-Changji Region
+
+2007一2016年，总体上基本公共服务失配度由均衡高度失配逐渐演进成不均衡中低度失配，并呈现出“核心低、两翼高”格局，离“核心”越近的市县基本公共服务失配度越早呈现下降趋势，与乌鲁木齐市省会辐射功能密切相关。
+
+# 4时空格局演化的影响因素分析
+
+# 4.1 宏观影响因素
+
+借鉴参考文献[19-21],据近10 a 乌昌地区现实状况，选取人均地区生产总值（X1）、人均固定资产投资（X2）、人均地方财政支出 $( X 3 )$ 、人均工业总产值（X4）、非农产值占GDP比重（X5）、城市化率(X6）、公路网密度( $\cdot \ : X 7 \ : )$ 为解释变量，同期的基本公共服务失配度(Y)为被解释变量，使用SPSS软件对2007一2016年乌昌地区各影响因素与基本公共服务失配度进行相关性分析，结果如表3所示。
+
+由历年相关性结果(表3)可知，人均地区生产总值 $( X 1 )$ 、人均工业总产值( $\ \cdot$ 、非农产值占GDP比重（X5）、城市化率(X6）、公路网密度(X7）与基本公共服务失配度均成负相关关系，说明地区经济发展程度、工业化发展程度、产业结构高级化程度、城市化发展程度、交通发展程度越高，基本公共服务失配度则越低。人均固定资产投资 $( X 2 )$ 、人均地方财政支出 $( X 3 )$ 呈现由负相关转变为正相关，说明在一定时期内，地方政府行政能力和财政支出能力产生的正向影响作用并不显著。
+
+# 4.2 指标影响因素
+
+进一步反剖析指标，运用SPSS软件，分析乌昌地区基本公共服务的指标因素，发现2007一2016年与失配度显著相关的指标主要集中在普通教育学校全疆占比、万人均医院、卫生院卫生技术人员数、每万人拥有公共车辆、人均天然气供应量、万人互联网用户数，且均呈现负相关性，即其数值越大，对应失配度越小。
+
+由于各县市在指标状态上存在明显的差异性（图5），就普通教育学校全疆占比而言，阜康市和吉木萨尔县本底值较低，呼图壁县下降趋势显著;就卫生技术人员数而言，尽管奇台和木垒县均有上升趋势，但上升幅度较小且本底值偏低；就每万人拥有公共车辆而言，奇台县上升趋势最小，昌吉市呈下降趋势,吉木萨尔县的本底值相较于其他市县偏低;就人均天然气供应量，木垒县呈下降趋势，其中吉木萨尔和木垒县本底值均偏低；就万人互联网用户数而言，吉木萨尔县和木垒县本底值偏低，且增长速度缓慢。
+
+综合而言，宏观影响因素方面，乌鲁木齐市作为一直处于优良状态的“核心”，其在乌昌地区经济发展中扮演着增长极的角色，今后应加大乌鲁木齐市对乌昌地区经济社会发展的辐射涓滴效应，带动周边地区工业化和城镇化不断发展，进而促进各县市不断完善基本公共服务资源的配置。在微观指标方面，各县市应以基本公共服务均等化为目标，结合各自基本公共服务配置方面的短板问题，有针对性地提高配置效率，不断缩小各项公共服务资源在各市县间的差距和失配程度。
+
+表3乌昌地区基本公共服务失配度影响因素相关性分析(2007一2016)Tab.3Influence factor correlation analysis of the mismatch degree of basic public services in Urumqi-Changji Region(2007—2016)  
+
+<html><body><table><tr><td colspan="2">2007</td><td colspan="2">2008</td><td colspan="2">2009</td><td colspan="2">2010</td><td colspan="2">2011</td></tr><tr><td></td><td>相关因子 Pearson 相关性</td><td>相关因子</td><td>Pearson 相关性</td><td></td><td>相关因子 Pearson 相关性</td><td></td><td>相关因子 Pearson 相关性</td><td></td><td>相关因子 Pearson 相关性</td></tr><tr><td>X1</td><td>-0.983 **</td><td>X6</td><td>-0.912 **</td><td>X6</td><td>-0.933**</td><td>X6</td><td>-0.870 **</td><td>X6</td><td>-0.909 * *</td></tr><tr><td>X6</td><td>-0.891**</td><td>X5</td><td>-0.734 *</td><td>X3</td><td>-0.765 *</td><td>X5</td><td>-0.690</td><td>X5</td><td>-0.756 *</td></tr><tr><td>X3</td><td>-0.801 *</td><td>X7</td><td>-0.649</td><td>X5</td><td>-0.764 *</td><td>X7</td><td>-0.671</td><td>X7</td><td>-0.380</td></tr><tr><td>X5</td><td>-0.731 *</td><td>X3</td><td>-0.546</td><td>X7</td><td>-0.535</td><td>X3</td><td>-0.402</td><td>X1</td><td>-0.298</td></tr><tr><td>X2</td><td>-0.571</td><td>X2</td><td>-0.485</td><td>X1</td><td>-0.339</td><td>X1</td><td>-0.231</td><td>X4</td><td>-0.276</td></tr><tr><td>X7</td><td>-0.488</td><td>X1</td><td>-0.328</td><td>X4</td><td>-0.284</td><td>X4</td><td>-0.214</td><td>X3</td><td>-0. 227</td></tr><tr><td>X4</td><td>-0.238</td><td>X4</td><td>-0.231</td><td>X2</td><td>-0.278</td><td>X2</td><td>0.067</td><td>X2</td><td>0.398</td></tr><tr><td colspan="2">2012</td><td colspan="2">2013</td><td colspan="2">2014</td><td colspan="2">2015</td><td colspan="2">2016</td></tr><tr><td></td><td>相关因子 Pearson 相关性</td><td>相关因子</td><td>Pearson 相关性</td><td></td><td>相关因子 Pearson 相关性</td><td>相关因子</td><td>Pearson 相关性</td><td></td><td>相关因子 Pearson 相关性</td></tr><tr><td>X6</td><td>-0.862 **</td><td>X6</td><td>-0.947**</td><td>X6</td><td>-0.927 **</td><td>X6</td><td>-0.946 **</td><td>X6</td><td>-0.927 **</td></tr><tr><td>X5</td><td>-0.681</td><td>X5</td><td>-0.769 *</td><td>X5</td><td>-0.686 *</td><td>X5</td><td>-0.771 *</td><td>X5</td><td>-0.736 *</td></tr><tr><td>X1</td><td>-0.441</td><td>X3</td><td>-0.427</td><td>X3</td><td>-0.441</td><td>X1</td><td>-0.308</td><td>X7</td><td>-0.290</td></tr><tr><td>X4</td><td>-0.203</td><td>X1</td><td>-0.415</td><td>X7</td><td>-0.297</td><td>X7</td><td>-0.277</td><td>X1</td><td>-0.122</td></tr><tr><td>X3</td><td>-0.036</td><td>X4</td><td>-0.266</td><td>X1</td><td>-0.248</td><td>X2</td><td>0.527</td><td>X2</td><td>0.680</td></tr><tr><td>X2</td><td>0.347</td><td>X7</td><td>-0.107</td><td>X4</td><td>-0.024</td><td>X3</td><td>0.195</td><td>X4</td><td>0.204</td></tr><tr><td>X7</td><td>0.019</td><td>X2</td><td>0.362</td><td>X2</td><td>0.504</td><td>X4</td><td>0.027</td><td>X3</td><td>0.177</td></tr></table></body></html>
+
+注：\*在0.05水平(双侧)上显著相关；\*\*在01水平(双侧)上显著相关
+
+![](images/cbf6f5b6ebba97a6f873a57afb8c90e368dfde73cdf137d90e6f3754a86948ae.jpg)
+
+市县
+
+# 5结论
+
+借鉴失配度概念和健康距离模型，分析2007—2016年乌昌地区基本公共服务失配度时空格局演化及影响因素。主要结论如下：
+
+（1）时间序列特征：呈现明显的3个阶段性特征，即高度失配主导阶段（2007—2011年），失配度下降过度阶段（2012一2014年），中度失配主导阶段(2015—2016年）。尽管乌昌地区各市县失配度均有不同程度下降，但整体失配度仍偏高。
+
+（2）空间结构特征：乌昌地区基本公共服务失配度在空间上呈现明显的“核心、两翼”空间格局，“两翼"基本公共服务多数处于高度失配和较高度失配状态，“核心”一直处于良好或优秀状态。在变化趋势上，呈现出由均衡高度失配逐渐演进成不均衡中低度失配，离“核心”越近的市县基本公共服务失配度越早呈现下降趋势。
+
+(3）主要影响因素：普通教育学校新疆占比、万人均医院、卫生院卫生技术人员数、每万人拥有公共车辆、人均天然气供应量、万人互联网用户数是影响失配度变化的主要指标因素，反映出公共服务设施的完善与地区经济发展程度、工业化紧密相关。
+
+（4）本文基于新疆乌昌地区不断发展的现实需求，将基本公共服务作为一种民生资源，从失配视角，研究2007—2016年乌昌地区各市县基本公共服务配置问题，并基于研究结果有针对性的提出了一些建议。但本文在基本公共服务失配度指标的选取和基本公共服务最优配置标准值的选取上仍有待进一步完善。
+
+参考文献（References）   
+[1]SONG XQ,WEI D,YING L. Spatial spillover and the factors influencing public servicesupply in Sichuan Province,China[J].Journal of Mountain Science,2014,11(5）:1356-1371.   
+[2]刘蕾.基本公共服务均等化内涵研究述评[J].长安大学学报 （社会科学版）,2009,11（1）:69－73.[LIULei.Connotation of basic public services equalization[J]. Journal of Chang'an University(Social Science Edition）,2009,11(1）:69-73.]   
+[3]BOYNE G,POWELL M,ASHWORTH R. Spatial equity and public services:An empirical analysis of local government finance in England[J].Public Management Review,2001,3（1):19-34.   
+[4]OKORAFOR O A,THOMAS S. Protecting resources for primary health care under fiscal federalism: Options for resource allcation [J].Health Policy Plan,2007,22(6):415 -426.   
+[5］马慧强,韩增林,江海旭.我国基本公共服务空间差异格局与 质量特征分析[J].经济地理,2011,31（2）:212－217.[MA Huiqiang,HAN Zenglin,JIANG Haixu. The characteristic and spatial differences of basic public services of cities at prefecture level and above in China[J].Economic Geography,2011,31(2）:212 -217.]   
+[6］乔路明,赵林,吴迪,等.中国省际基本公共服务供给效率时空 演变分析［J].西北师范大学学报（自然科学版）,2018,54 (1）:84-91.[QIAO Luming,ZHAO Lin,WU Di,et al. The measure and characteristics of spatio-temporal evolution of basic public services supply efficiency in China[J]. Journal of Northwest Normal University(Natural Science）,2018,54(1） :84-91.]   
+[7］孙建国,王红霞,张志华.兰州市基本公共服务水平的区域差 异分析[J].测绘科学,2017,42（5）:70-75.[SUN Jianguo, WANG Hongxia,ZHANG Zhihua.Ananalysis of regional diferences of basic public service level in Lanzhou City[J].Science of Surveying and Mapping,2017,42(5） :70-75.]   
+[8］曹莎,刘邵权,彭立,等.四川省基本公共服务水平的空间格局 及驱动机制[J].中国科学院大学学报,2017,34（3）：351- 361.[CAO Sha,LIU Shaoquan,PENG Li,et al. Spatial pattern and mechanisms of basic public services in Sichuan[J]. Journal of University of Chinese Academy of Sciences,2017,34（3）:351 - 361.]   
+[9]KAIN JF. Housing segregation,negro employment and metropolitan decentralization[J].The Quarterly Journal of Economics,1968,82 (2) :175 -197.   
+[10]GALSTER G C， KILLEN S P. The geography of metropolitan opportunity :A reconnaissance and conceptual framework[J].Housing Policy Debate,1995,6(1):7-43.   
+[11]GRAND JL,CRIPPS M,MACHIN S,et al. Quasi-markets and social policy[J].Economic Journal,1991,101(408）:1256-1267.   
+[12]ORCHARD L. Managerialism,economic rationalism and public sectorreforminAustralia: Connections,dvergences,lternativsJ] Australian Journal of Public Administration,201,57(1):19-32.   
+[13］周江评.“空间不匹配"假设与城市弱势群体就业问题：美国相 关研究及其对中国的启示[J].现代城市研究,2004，（9）：8- 14.[ZHOU Jiangping.Spatial mismatch hypothesisandemployment of the disadvantaged social group:Research evolution in the U.S.and implications for China[J].Modern Urban Studies,2004, (9):8-14.]   
+[14］赵渺希.多中心城市就业—居住的非完全结构匹配模型［J].
+
+地理研究,2017,36（8）:1531-1542.[ZHAO Yuxi.Hypothesis
+
+of incomplete-structural matching job-housing in a polycentric city [J]. Geographical Research,2017,36(8）:1531-1542.]   
+[15］牛晓春,杜忠潮,李同昇.基于新型城镇化视角的区域城镇化 水平评价——以陕西省10个省辖市为例[J].干旱区地理, 2013,36（2）:354-363.[NIU Xiaochun,DU Zhongchao,Li Tongsheng.Evaluation of regional urbanization level based on new urbanization;A case of 1O provincial cities in Shaanxi Province [J]. Arid Land Geography,2013,36(2）:354-363.]   
+[16］魏晓旭,赵军,魏伟,等.丝绸之路经济带中国段经济发展时空 演化特征[J].干旱区地理,2015,38（6）:1300-1309.［WEI Xiaoxu,ZHAO Jun,WEI Wei,et al. Spatio-temporal evolution characteristics of economic development in Chinese section of Silk Road Economic Belt[J].Arid Land Geography,2015,38（6）: 1300 -1309.]   
+[17］呼梦霞,杜宏茹,张小雷,等.基于主体功能区视角下新疆民生 质量的区域差异及影响因素［J].干旱区地理,2017,40（3）： 655-663.[HU Mengxia,DU Hongru,ZHANG Xiaolei,et al. Regional differences and influencing factors of the quality of Xinjiang people's livelihood based on the major function zones[J].Arid Land Geography,2017,40(3）:655-663.]   
+[18］郑海松,石培基,康靖.甘肃省“五化"协同发展时空演变格局 及影响因素分析[J].干旱区地理,2018,41（4)：874-884. [ZHENG Haisong,SHI Peiji,KANG Jing.Spatio-temproal evolution pattern and influencing factors in synergetic development of industrialization,urbanization,informatization,agricultural modernization and greenization in Gansu Province[J].Arid Land Geography,2018,41(4) :874 -884.]   
+[19］赵林,张宇硕,张明,等.东北地区基本公共服务失配度时空格局 演化与形成机理[J].经济地理,2015,35（3）:36-44.[ZHAO Lin,ZHANG Yushuo,ZHANG Ming,et al.The spatio-temporal evolution and formation mechanism of basic public service mismatch in Northeast of China[J].Economic Geography,2015,35（3）:36 44.]   
+[20］程兰花,杨德刚.乌昌地区医疗卫生资源失配度时空演化特征 [J].中国科学院大学学报,2018,35（3）：382－390.［CHENG Lan,YANG Degang. Spatio-temporal evolution characteristics of health resources mismatch in Urumqi-Changji Region[J]. Journal ofUniversityof Chinese Academy of Sciences,2018,35(3） :382- 390.]   
+[21］赵林,吕晓,于伟,等.山东省基础教育资源配置时空演变特征 与影响因素[J].干旱区资源与环境,2018,32(6)：43－49. [ZHAO Lin,LYU Xiao,YU Wei,et al.The spatio-temporal evolution characteristics of basic education resources allocation and the influencing factors in Shandong Province[J]. Journal of Arid Land Resources and Environment,2018,32(6）:43 -49.]   
+[22］郭小聪,代凯.国内近五年基本公共服务均等化研究：综述与 评估[J].中国人民大学学报,2013,27（1）：145－154.[GUO Xiaocong,DAI Kai.Domestic research on equalization of basic public services in the recent five years: Summary and evaluation [J]. Journal of Renmin University of China,2013,27（1）:145- 154.]   
+[23］陈明星，陆大道，张华.中国城市化水平的综合测度及其动力 因子分析[J]．地理学报,2009,64（4）:387－398.［CHEN Mingxing,LU Dadao,ZHANG Hua. Comprehensive evaluation and the driving factorsof China’surbanization[J].Acta Geographica
+
+# Spatiotemporal evolution and influencing factors of basic public service mismatch in Urumqi-Changji Region
+
+ZHONG Jia-l1²，YANG De-gang’，HUO Jin-wei1 (1Xinjiang Institute of Ecology and Geography,Chinese Academyof Sciences,Urumqi 83oo11,Xinjiang,China; 2University of Chinese Academy of Sciences,Beijing 100049,China)
+
+Abstract：Basic public services are the basic needs for the survival and development of citizens.As the core area of Xinjiang,Chinaandtheimportant node inthe Silk Road,Urumqi-Changji region isanimportant gateway for the development of China's economy to the west and awindow for foreign cultural exchanges.Accelerating theconstructionofbasic public services that are suitable forthe level of economic and social developmentis of great significance to promoting thecoordinated developmentof Urumqi-Changji region and achieving the overall goal of social stability and long-term stability in Xinjiang.This paper regards basic public services as a living resource and studies its configuration problem from the perspective of mismatch,usingthe entropy method and healthy distance model to study thespatiotemporal evolutionand influencing factors of basic public service mismatch in Urumqi-Changji region from 2007 to 2O16.The research results can provide basis for further promoting the equalization of basic public services in Urumqi-Changji region.We discoveredthat the average degree of mismatch of basic public services is found to be significantly reduced.It was0.759 in 2007,which is a high degree of mismatch,and it became O.573 in 2016, which indicated alow mismatch.In 2O07,the proportion of cities and counties with a high degree of mismatch was $8 7 . 5 \%$ ,while in 20l6,the proportion of cities and counties with high basic public service but yet higher mismatch was only $2 5 \%$ . Overall,the basic public service status of cities and counties has improved,but the proportion of basic public service mismatches in 2O16 was still as high as $7 5 \%$ ,indicating that there are still many cities and counties in Urumqi-Changji region where the basic public servicesare notcoordinated.In the aspect of time,the mismatch includes three phases,the highly mismatch dominated stage（2O07—2011）when the proportion of the cities and counties with a high degree of mismatch was much higher,the mismatch decline stage （2O12—2014） when there were a mixture of various mismatch status such as high degreeof mismatch,higher mismatch,moderate mismatch,and low mismatch mixed exist in this stage,and the moderate mismatch stage (2015—2016）when the proportion of moderately mismatched cities and counties was relatively large;The basic public serviceconfiguration was gradually improved,butthe overallmismatch degree was not good.From the space's perspective,the spatial pattern change of the mismatch displayed atrend frombalanced high mismatch to unbalanced low to medium mismatch,and graduallyformed a“Bird”pattern where the“The Wings”represented the situations when thebasic public services were mostly in a high degree of mismatch or higher degree of mismatch,while the“Core”represented a good or excelent condition regarding the mismatch.Onthe change trend,fromthe“Core”to the“The Wings”the mismatch was gradually changed,andthe closer to the“Core”,the earlierthe declining trend started.In terms of the indicators,the influencing factors included mainlytheproportion of general education schols,the number of hospitals per 10 thousands people,the number of health technicians in health centers,the number of public vehicles per capita, the per capita natural gas supply,the number of Internet users per millon people,and the actual development macro conditions.These indicatorfactors reflectto some extentthat the improvement of public service facilities is closely related to macro factors in the urbanization and economy development.
+
+Key words:Urumqi-Changji region；basic public services；mismatch；spatiotemporal pattrn；influencing factors

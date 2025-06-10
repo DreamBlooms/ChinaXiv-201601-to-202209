@@ -1,0 +1,181 @@
+DOl:10.11931/guihaia.gxzw201710027
+
+# 樟树长链脂肪酰基CoA合成酶基因9克隆与表达分析
+
+汪信东，章挺，杨海宽，郑永杰，江香梅（江西省林业科学院樟树研究所 江西南昌 330013)
+
+摘要：长链脂肪酰基CoA 合成酶（long chain faty aycl-coA synthetases,LACSs）亚家族在植物脂肪酸代谢中具有重要作用。樟树（Cinnamomum camphora(L.)Presl.）属富油木本植物，其籽油富含中链脂肪酸、但生物合成机制尚未可知。本研究以樟树转录组数据为基础，通过生物信息学方法筛选获得了拟南芥AtLACS9 同源候选基因CcLACS9。通过PCR 法克隆了CcLACS9全长cDNA序列，相关软件预测其编码 697个氨基酸及享有植物LACS 亚家族成员3个特征 motifs。在△lacs 缺陷型酵母互补测试中，以油酸作为唯一外源脂肪酸、转化了CcLACS9 的突变型酵母恢复正常生长，证明CcLACS9 具有典型的脂肪酰基CoA 合成酶的功能。为探究CcLACS9是否参与了樟树籽油生物合成，我们进一步研究了其组织表达模式和在种子发育过程中其表达量与籽油累积量之间的关系。实时荧光定量PCR分析显示CcLACS9基因在种仁与花中优势表达，种仁中相对表达量是根中的17.74倍。之后随机测定调查了30棵成年樟树成熟期种子千粒重、籽油含量和中链脂肪酸比例等指标。根据仁油含量将测试群体划为高、中、低三个不同品级，并在各品级中挑选3棵单株、逐月关联分析其仁油含量与CcLACS9 相对表达量。结果显示：在种仁发育前期，仁油含量和CcLACS9表达量都持续上升且二者呈正相关性，8月份为CcLACS9表达量峰值期；9月下旬后，仁油含量趋向稳定但CcLACS9表达量仍处于较高水平但呈现下降趋势，二者无明显相关性。LACS 亚家族在植物进化中较为保守，同源基因在不同植物中具有相同或相似的功能，该研究结果暗示CcLACS9可能拥有 AtLACS9 相似的生物学功能，即在樟树种仁油酯合成和累积过程起重要作用。
+
+关键词：樟树，长链脂肪酰基CoA合成酶9，籽油，表达分析，酵母互补检测中图分类号： 文献标识码：A 文章编号：
+
+# Identification and expression analysis of Long Chain Fatty Aycl-coA Synthetase Gene 9 from Cinnamomum camphora
+
+WANG Xin-dong, Zhang Ting, Yang Hai-kuan, ZHENG Yong-jie, JIANG Xiang-mei\* (InstituteofCamphor tree,jiangxiAcademy ofForestry,NanChangJiangXi330013)
+
+Abstract: Oilseedsofcamphor tree(Cinnamomumcamphora(L.)Presl.)contains highcontentof mediumchain fatty-acyl (MCFA) However,thebiosynthetic mechanism is stillmissing.Longchainfattyaycl-coenzyme(CoA)synthetases (ACSs)cancatalyze free fatyacids tocyl-CoAthioestersandplayimportantrolesinfattyacidmetabolisminterestrialplantInthissudy,theDNA encoding AtLACS9 homologous was identified and cloned basedon transcriptomes data of C.camphora,sharing $7 5 \%$ sequence similarityto AtLACS9and being registered toCcLACS9.Multiplesequences alignment shows CcLACS9 posseses three plant LACS-specificmotifsand plastidical argetingsignaliN-terminal. Usingoleicacidasasubstrate,CLACS9couldactivatefrefatty acids intoacyl-CoAthioestersinayeastmutantdeficientinACScomplementatiotest.Thtissue-specificexpresionprofilefurther revealed that $C c L A C S 9$ was predominantly expressed in developing seeds and flowers,but fewer in leaf and stem by real-time
+
+quantitativePCRanalysis.Therewere17.74-folds relativequantitativeexpresionofCcLACS9 inkernels relativetorotsInplant, thehomoeologousofLACSs subfamilytendtocarryouttecommon functions.Inaneforttobeterunderstand whetherCcLACS9 involvedoilseedsiosthsis inamporkel,theorelationbwenexpressionofCLACS9andlseedsontentwassueyed. Thesedsofthirtyadult camphortrees wererandomlysampled In Novemberandthousandsed weight,oilseeds content and the percentageofdecanoicacidandlauricacidweretestedandcounted.Accordingtoilsedscontent,the30individuals weresubdivided intothreegroupsand3representativeplants were selected fromeachgrouptobesubjectedtoasociationanalysis betwnsedoil yieldand CcLACS9 expresionlevel indeveloping kerel.Theresultsofthree groupsallshowed thatboththecontentsofsdoil andexpressionlevelofCcLACS9contiuedtorisefromJunetoAugust,andthereweresignificantpositivecorelationexistbetween them.Te peakofexpresionlevelofCcLACS9 inkerel wasfoundinAugust.After September,thecontentsofoilseds tendedto bestable,however,CcLACS9kepedhighexpressionlevelandhadnorelationwithontentsofoilseeds.Thesereslutsimpliedthat CcLACS9 was possible play an important role in oilseeds accumulation in kernel of camphor tree.
+
+Key words: camphor tree,longchain fatyaycl-coAsynthetase9,seedoil,geneexpressionanalysis,yeastcomplementation
+
+樟树是我国潜在可持续开发能源树种之一，种仁中油脂占其自身干重 $5 5 \% { \sim } 6 5 \%$ ，主要以癸酸和月桂酸为主、比例高达 $90 \%$ 以上(赵曼丽等,2012)。癸酸（C10）和月桂酸(C12)属于中链脂肪酸，具有凝固点低、氧化稳定性好、可被迅速吸收、相容性和延展性佳等特性，广泛应用于工业，医药，保健、化妆、动物养殖等行业(宫雪等,2012；刘梦芸等,2016)。樟树广布于南方诸省，据统计仅湖南一省每年产籽油便可超过 400t，作为我国鲜有的富含中链脂肪酸植物资源具有良好的开发潜力。然目前樟树籽油未被规模化开发利用，缺少具有竞争力的良种是其关键因素之一。作为高杂合的木本植物，樟树个体间籽油含量和成分差异显著，如何为良种定向筛选和培育提供约束性理论指标显得尤为重要。加强樟树油脂生物合成研究、特别是关键基因挖掘，填补相关基础研究空白，将有助于今后良种培育和樟树油脂产业开发。
+
+长链脂肪酰基CoA合成酶（LACS）可催化游离脂肪酸（C14\~C20）形成脂肪酰基CoA参与生物体内各类脂类代谢反应，在植物发育、脂肪酸延伸、植物种子油脂即三酰基甘油 TAG（triacylglycerol）形成和$\beta$ -氧化、生物膜合成与细胞信号转导等生物过程中具有重要作用(Watkins,1997;Khurana et al,2011;)。在高等植物中，LACS 是一类序列保守的蛋白，具有腺苷合成酶基因超家族（Adenylate-forming EnzymesSuperfamily,AAE）的共同特征，即包含一段高度保守的 motifl（T[SG]-S[G]-G-[ST]-T[SE]-G[S]-X-P[M])和 motif2（Y[LWF]-G[SMW]-X-T[A]-E）组成（注X代表任意氨基酸）的AMP-绑定结构域和享有相似的催化反应机制：第一步在消耗ATP的条件下形成酰基-AMP中间体、同时释放焦磷酸盐；第二步，将酰基转移至最终受体并释放AMP(Babbitet al,1992; Stuible et al,2000)。AMP-绑定结构域是第一步反应的主要执行者，也是腺苷合成酶基因超家族成员鉴定的特征探针序列（Stuible et al,2000)。LACS 包含的另一段由约 25个高度保守氨基酸残基组成的保守结构域称为酰基CoA合成酶（ACS）信号序列，可能是脂肪酸的结合部位和 ACS 的激活位点(Mashek etal,2007)。此外，一段约由45\~70个不等残基组成的专一连接区域（linker)则是LACS 区别于其它 ACS 家族成员的特征序列，其为LACS 成员行使正常生物学功能所必需(Steinberg etal, 2000; Iijima et al, 1996)。
+
+随着植物基因组或转录组测序工作的广泛开展，越来越多植物中LACS基因亚家族成员被陆续鉴定获得，为研究植物油脂代谢奠定了基础。植物中LACS基因亚家族各成员功能研究在模式植物拟南芥中开展最为深入和广泛。在拟南芥中已鉴定获得9个LACS 编码基因，缺陷型酵母互补测试证实了当中7个编码蛋白具都有较强的脂酰CoA合成酶活性，而在体外催化测试中则9个编码蛋白皆具有较强的活性、但底物偏好性各异(Shockey et al,2002)。表达分析显示，除 AtLACS5（花中特异表达）之外、其它成员在各组织中普遍转录但具有明显器官或组织特异性(Shockey et al,2002)。相关实验表明 AtLACS 亚家族具有不同的亚细胞定位，在脂肪酸相关油脂代谢不同节点上起着重要作用，对植物正常各器官组织发育亦至关重要(Fulda et al,2002; Lü et al,2009; Schnurret al,2004; Jessen et al,2011)。其中，AtLACS9 基因在发育种子和莲座叶中优势表达，其编码蛋白(Atlg77590)定位于质体膜上(Schnurr et al,2002)。尽管T-DNA 插入未引起 lacs9-1突变体发育和表型明显变化,但叶绿体中长链脂肪酰基CoA合成酶活性只维持约野生对照个体 $10 \%$ ，表明AtLACS9是质体中主要的长链脂肪酰基CoA合成酶类但存在另一种LACS与之共同介导脂肪酸运出质体(Schnurr et al,2002)。随后，双突变鉴定证实了AtLACS9与AtLACS1功能存在部分冗余，在籽油合成过程中起重要作用(Zhao et al, 2010)。
+
+# 1材料与方法
+
+# 1.1材料与主要试剂
+
+试验材料取自江西省林业科学院院内约10\~20年生的小样本樟树群体。
+
+樟树LACS9基因序列参考国家林业局樟树工程技术中心构建的樟树五种化学类型（芳樟醇型、桉叶油素型、樟脑型、龙脑型与异橙花椒醇型）叶组织转录组数据(江香梅等,2014)。
+
+RNA提取试剂盒（RNAiso for Polysaccharide-rich Plant Tissue）、TaKaRa LA Taq?、反转录试剂盒（FirstStrand cDNA Synthesis Kit）、荧光定量试剂盒（SYBR Green IqPCR Kit）、琼脂糖凝胶回收试剂盒及PMD18-T克隆试剂盒均购自TaKaRa公司。酵母表达载体 $p Y E S 2$ 和缺陷型酵母（S.cerevisiae）YB525 菌株由江苏大学谭小力教授惠赠。各链长脂肪酸购于sigma公司。
+
+实验室常规试剂和培养基购自上海生工；克隆测序由上海生工完成。
+
+# 1.2 方法
+
+1.2.1小样本樟树群体种子千粒重和种仁含油量和成分调查
+
+随机挑选30棵长势相仿的樟树，于2015年11月份采集种子2公斤，洗净、晾干，利用千分之一克电子天平称量、统计千粒重。剥取种仁、阴干后，称取 $\boldsymbol { 1 0 0 } \mathrm { g }$ 采用索氏提取法提取油脂。称取油脂重量，计算单株籽油出油率；通过气相-质谱联用（GC-MS）测定籽油中各中链脂肪酸成分和相对含量。
+
+# 1.2.2樟树候选LACS9基因筛选
+
+查询 Pfam（htp:/pfam.xfam.org/）数据库、下载 AAE 家族特征结构域的隐马氏模型文件（Pfam 号码：PF00501）(Conti et al,1996)，运行 HMMER3.0程序（htp://hmmer.janelia.org/）注释樟树五种化学类型叶组织转录组数据；根据注释结果，筛选获得樟树转录组中注释为AAE 超家族的全部Contigs 序列；以AtLACS9作为参考序列建库，运行本地 blast X，比对樟树 AAE 超家族候选Contigs 序列，根据相似性挑选 AtLACS9同源Contigs；运行序列拼接软件CAP3，完成樟树LACS9基因电子克隆。
+
+# 1.2.3樟树LACS9基因克隆
+
+于2016年4\~7月份，分别采集樟树茎、叶、根、花和种仁五种组织、速冻于液氮中。根据 TaKaRa 公司RNAiso for Polysaccharide-rich Plant Tissue 说明书提取上述五种组织 total RNA。DNAaseI消化后去除残留DNA，取 $5 0 ~ \mathrm { n g }$ total RNA，使用 PrimeScript1st Strand cDNA Synthesis Kit反转录试剂盒合成cDNA 第一链。参考由樟树五种化学类型叶组织转录组数据提供的 $L A C S 9$ 基因电子克隆序列、设计特异引物，以樟树上述五种组织cDNA为模板，采用PCR法特异扩增樟树 $L A C S 9$ 基因。特异引物为F：$5 ^ { \circ }$ -TTGCGAGAAATGGCTGAAT- $. 3 ^ { \circ }$ ; $\mathrm { R } \colon 5 ^ { \prime }$ -AAGTTCCAACCAACGGATTPCR-3’。反应体系总体积为 $2 0 { \mu \mathrm { L } }$ ，包括 $L A$ Taq $0 . 2 ~ \mu \mathrm { L }$ 、cDNA $1 ~ \mu \mathrm { L }$ 、 $1 0 { \times } L A$ Taq buffer $2 \mu \mathrm { L }$ 、上下游引物各 $0 . 5 \mu \mathrm { L } ( 1 0 \textrm { } \textrm { \textmu m o l { L } } ) .$ 、dNTPs $1 ~ \mu \mathrm { L }$ 1 $( 2 . 5 \mathrm { m } \mathrm { m o l } / \mathrm { L }$ 和 $\mathrm { d d H } _ { 2 } \mathrm { O } \ 1 4 . 8 \ \mu \mathrm { L }$ 。PCR反应程序为： $9 5 ^ { \circ } \mathrm { C }$ 预变性 $3 \mathrm { m i n }$ ; $9 5 ^ { \circ } \mathrm { C } 3 0 ~ \mathrm { s }$ ， $5 6 ^ { \circ } \mathrm { C } 3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C } 2 \mathrm { m i n }$ $7 2 ^ { \circ } \mathrm { C } 1 0 \mathrm { m i n }$ ；35个循环。 $1 \%$ 琼脂糖凝胶电泳检测 PCR产物，切取与目标产物大小相当的电泳条带，回收后与 $P M D I { \& } { T }$ 克隆载体连接， $4 2 ^ { \circ } \mathrm { C }$ 热激转化大肠杆菌TOP10 感受态细胞。菌液PCR筛选阳性克隆，送至上海生工测序。
+
+# 1.2.4樟树LACS9基因序列分析与鉴定
+
+使用 Scanprosite Results viewer 工具搜索注释的樟树 LACS 9保守域信息;使用 Clustalx 软件进行多序列比对，计算樟树 LACS9基因与其它植物直系同源基因序列相似性；使用 SignalP4.1 Server 和 Predictprotein等软件预测樟树LACS9亚细胞定位；引入拟南芥、油菜、花生等植物LACS9，通过 MEGA6.0软件分析植物LACS9基因谱系发生关系。
+
+1.2.5樟树LACS9基因表达组织特异性分析
+
+于2016年4月份至7月份，分别采集樟树花、茎、叶、种仁和根组织，提取total RNA。以Actin 基因作为内参对照基因（F:5'-CCTCGACACACAGGCGTTAT-3';R: $5 ^ { \circ }$ -CCATGCTCGATGGGATATTTCA- $. 3 ^ { \dagger }$ ），采用实时荧光定量PCR方法（qRT-PCR）检测樟树 $L A C S 9$ 基因在樟树不同组织中表达情况。qRT-PCR引物为：F:5'-ACCTGCCTTTGGCTCACA-3'，R: $5 ^ { \circ }$ -AAGGCGATCCGTATCCAA-3’。PCR 反应在 Bio-RAD$\mathrm { C l 0 0 0 } ^ { \mathrm { T M } }$ ThermalCycler 荧光定量PCR仪上完成。反应体系总体积 $2 0 \mu \mathrm { L }$ ，包括(cDNA 50 ng， $2 \times { \bf S Y B R }$ （204号Green ${ \tt q P C R l 0 \mu L }$ ， $1 0 \mathrm { m } \mathrm { m o l } / \mathrm { L }$ 的正反向引物各 $1 ~ \mu \mathrm { L }$ ，超纯水补足至 $2 0 ~  { \mu \mathrm { L } }$ ，反应程序为 $9 5 \ \mathrm { ^ { \circ } C } \ 2 \ \mathrm { m i n }$ $9 5 ^ { \circ } \mathrm { C }$ $1 5 \mathrm { ~ s ~ }$ ， $5 8 ^ { \circ } \mathrm { C } 3 0 \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C } 2 0 \mathrm { s }$ ；40 个循环，添加溶解曲线；每个样品重复3次。实验数据统计参照 $2 ^ {    }$ （20计算相对表达量(Livak& Schmitgen,2001)。
+
+1.2.6樟树 $L A C S 9$ 基因表达量与种仁发育过程关联分析
+
+根据上年仁油测定结果，将测试小样本分为三个品级，即出油率 $. > 6 0 \%$ 为高品级、出油率介于 $5 0 \% \sim 6 0 \%$ 为中品级和出油率 $< 5 0 \%$ 为低品级。每个品级随意选取3棵作为代表植株，于2016年5月至11月份，逐月采集樟树种子、剥取种仁。一部分种仁用于提取籽油，测定油脂含量和成分；一部分种仁用于总RNA 提取，测定樟树种子发育各时期 $L A C S 9$ 基因相对表达量。籽油提取采用索氏提取法并通过GC-MS 测定含量和成分。种仁总RNA 提取和 $L A C S 9$ 基因实时荧光定量表达分析同上。采用SPSS Statistics19.0统计软件分析种子发育过程中 $L A C S 9$ 基因表达量和油脂含量之间的关联性。
+
+# 1.2.7樟树LACS9缺陷型酵母互补实验
+
+酵母菌株YB525（faal△faa4△）缺少活化外源脂肪酸所必需的LACS，不能在基本培养基中正常生长，常用于外源LACS活性分析（朱福各等,2009）。将重组质粒 $p Y E S 2  – C c L A C S 9$ 和对照质粒 $p Y E S 2$ 分别转化至缺陷型酵母YB525感受态细胞中，通过缺省尿嘧啶固体培养基筛选阳性转化克隆。随机挑取阳性克隆，在缺省尿嘧啶液体培养基中培养至对数期中后期，低速离心收集酵母细胞，加入 $2 \mathrm { m o l / L }$ 的山梨醇、漂洗两次。将细胞转接至缺省尿嘧啶液体培养基（含 $2 \%$ 半乳糖且不含葡萄糖）中，振荡培养 $4 { \sim } 5 \mathrm { ~ h ~ }$ 、以诱导外源目标基因大量表达。按 $1 \%$ 比例吸取菌液加入到缺省尿嘧啶液体培养基（含 $2 \%$ 半乳糖和 $0 . 1 \%$ Tritonx-100)中，并添加 $9 8 \ \mathrm { \textmu m o l / L }$ 的脂肪酸C18：1作为外源脂肪酸。于 $3 0 ^ { \circ } \mathrm { C }$ 振荡培养约 $8 4 \mathrm { h }$ ，各取 $1 \mathrm { m l }$ 培养基利用分光光度计测量菌体密度来衡量其生长速度。
+
+# 2结果与分析
+
+2.1小样本樟树群体种子千粒重和种仁含油量调查
+
+11月份采集的30 棵樟树种子千粒重最高值为 $ { 1 8 4 . 2 3 \mathrm { g } }$ ，最低值为 $ { 1 1 8 . 6 2 ~ \mathrm { g } }$ ，平均值为 $_ { 1 4 9 . 9 2 \mathrm { g } }$ 。在测试小样本中，三分之二樟树个体种子千粒重处于 $1 4 0 { \sim } 1 8 0 ~ \mathrm { g }$ 之间，方差为16.92，呈类"正态"分布。测试样本出油率最高为 $7 6 . 7 8 \%$ ，最低为 $4 2 . 4 8 \%$ ，均值为 $5 7 . 3 7 \%$ 。出油率高于 $60 \%$ 有15株，低于 $50 \%$ 有12株，介于 $50 \% { \sim } 6 0 \%$ 之间的有3株，分布呈"两极化”。脂肪酸成分分析表明，测试樟树种仁中中链脂肪酸相对含量平均高达 $9 5 . 7 1 \%$ ，除个别单株之外都介于 $9 4 \% { \sim } 9 7 \%$ 之间，分布比较集中。中链脂肪酸当中癸酸含量（平均为 $6 2 . 3 6 \%$ ）显著高于月桂酸含量（平均为33.35），二者呈负相关性 $( { \bf r } { = } { - } 0 . 8 6 , { \bf P } { < } 0 . 0 1 )$ 。在5个调查指标中，方差值表现为千粒重 $>$ 出油率 $\mathrm { : > }$ 癸酸相对含量 $\ >$ 月桂酸相对含量 $\ >$ 大于中链脂肪酸相对含量。
+
+表一小样本樟树群体种子千粒重、种仁出油率和中链脂肪酸含量调查表  
+Table 1 Survey of the thousand seed weight,seed oil yield and medium chain fatty in kernel of small sample sizes of camphor trees   
+
+<html><body><table><tr><td>ofcampnortrees</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>树编号</td><td>千粒重(g)</td><td>出油率(%)</td><td>癸酸Ci相对含量(%)</td><td>月桂酸C12相对含量</td><td>中链脂肪酸相对含量（%)</td></tr><tr><td>Tree No.</td><td>Thousand seed weight</td><td>Seed oil yield</td><td>Content of decanoic acid</td><td>Content of lauric acid</td><td>Content of medium fatty acid</td></tr><tr><td>No1.</td><td>156.22±5.21</td><td>66.57±2.08</td><td>62.37±3.38</td><td>34.65±3.66</td><td>97.02±2.58</td></tr><tr><td>No2.</td><td>137.61±9.53</td><td>63.69±3.23</td><td>63.04±4.12</td><td>33.86±1.09</td><td>96.9±4.55</td></tr><tr><td>No3.</td><td>144.2±3.34</td><td>42.69±5.44</td><td>54.83±5.2</td><td>42.05±2.25</td><td>96.88±3.27</td></tr><tr><td>No4.</td><td>177.63±8.31</td><td>63.3±2.21</td><td>61.87±6.41</td><td>35.01±3.72</td><td>96.88 ±2.86</td></tr><tr><td>No5.</td><td>156.41±3.26</td><td>62.91±1.70</td><td>74.02±6.31</td><td>22.8±2.29</td><td>96.82±3.34</td></tr><tr><td>No6.</td><td>144.59±8.43</td><td>62.24±3.23</td><td>64.75±4.27</td><td>32.06±4.03</td><td>96.81±2.36</td></tr><tr><td>No7.</td><td>150.12±3.02</td><td>47.25±4.35</td><td>63.82±3.03</td><td>32.98± 3.11</td><td>96.8±2.45</td></tr><tr><td>No8.</td><td>119.15±5.05</td><td>62.57±3.87</td><td>56.95±4.23</td><td>39.84± 1.46</td><td>96.79±6.28</td></tr><tr><td>No9.</td><td>165.34±6.27</td><td>62.27±6.07</td><td>60.19±3.76</td><td>36.56±2.36</td><td>96.75±4.58</td></tr><tr><td>No10.</td><td>149.26±11.21</td><td>57.09±2.28</td><td>64.07±4.48</td><td>32.64±4.30</td><td>96.71±3.36</td></tr><tr><td>No11.</td><td>184.23±6.32</td><td>42.48±1.67</td><td>68.76±5.56</td><td>27.86±2.44</td><td>96.62±2.58</td></tr><tr><td>No12.</td><td>173.56±4.08</td><td>67.65±3.46</td><td>67.54±3.52</td><td>28.9±3.56</td><td>96.44±1.62</td></tr><tr><td>No13.</td><td>168.45±4.87</td><td>46.5±2.73</td><td>61.62±3.84</td><td>34.73±4.78</td><td>96.35±5.75</td></tr><tr><td>No14.</td><td>149.81±5.66</td><td>62.84±4.13</td><td>69.66±5.57</td><td>26.67±1.27</td><td>96.33 ±3.91</td></tr><tr><td>No15.</td><td>161.46±10.05</td><td>47.34±2.56</td><td>60.97±4.73</td><td>35.31±4.41</td><td>96.28±3.62</td></tr><tr><td>No16.</td><td>138.47±6.04</td><td>58.05±2.43</td><td>60.28±5.42</td><td>36±3.69</td><td>96.28±6.02</td></tr><tr><td>No17.</td><td>129.39±7.07</td><td>71.18±3.39</td><td>70.33±6.19</td><td>25.94±2.06</td><td>96.27±4.25</td></tr><tr><td>No18.</td><td>143.55±4.31</td><td>65.16±5.21</td><td>61.79±3.09</td><td>34.47±3.14</td><td>96.26±2.95</td></tr><tr><td>No19.</td><td>158.71±3.32</td><td>48.31±2.54</td><td>59.38±3.67</td><td>36.85±4.55</td><td>96.23 ±6.29</td></tr><tr><td>No20.</td><td>152.22±7.45</td><td>60.69±7.06</td><td>72.62±4.99</td><td>24.57±2.25</td><td>97.19 ±5.24</td></tr><tr><td>No21.</td><td>133.45±5.29</td><td>49.23±4.26</td><td>67.84±3.76</td><td>29.24±2.26</td><td>97.08±4.87</td></tr><tr><td>No22.</td><td>128.46±4.28</td><td>46.49± 3.84</td><td>61.62±3.29</td><td>34.73±3.75</td><td>96.35± 3.39</td></tr><tr><td>No24.</td><td>168.24±5.69</td><td>49.42± 2.17</td><td>56.49±6.43</td><td>38.03±3.63</td><td>94.52±1.94</td></tr><tr><td>No25.</td><td>157.23±8.81</td><td>43.6±2.26</td><td>55.44±5.53</td><td>38.59±3.18</td><td>94.03±4.35</td></tr><tr><td>No26.</td><td>149.25±4.26</td><td>64.37±5.44</td><td>41.4±2.28</td><td>36.76±4.42</td><td>78.16±2.57</td></tr><tr><td>No27.</td><td>138.34±5.58</td><td>73.29±5.08</td><td>65.04±4.73</td><td>30.91±2.29</td><td>95.95±4.61</td></tr><tr><td>No28.</td><td>136.27±5.37</td><td>64.03±3.34</td><td>68.48±5.65</td><td>27.44±3.36</td><td>95.92±3.41</td></tr><tr><td>No29.</td><td>118.62± 3.63</td><td>44.6±2.17</td><td>59.91±4.77</td><td>35.93±4.23</td><td>95.84±2.68</td></tr><tr><td>No30.</td><td>135.14±6.861</td><td>76.78±4.98</td><td>62.61±3.62</td><td>33.18±3.08</td><td>95.79±3.25</td></tr><tr><td>平均数 (average numbe)</td><td>149.94±8.09</td><td>57.37±2.55</td><td>62.36±5.33</td><td>33.35±4.68</td><td>95.71±3.62</td></tr><tr><td>方差(variance)</td><td>16.92 ± 2.24</td><td>10.00±3.02</td><td>6.52± 1.01</td><td>4.92±0.89</td><td>3.39±0.46</td></tr></table></body></html>
+
+续表一 Continue tablel
+
+2.2樟树LACS9基因筛选与cDNA序列克隆   
+5
+
+在樟树叶组织转录组数据中搜索到5条Unigenes 或Contings序列（表1），可能为拟南芥 LACS9 基因直系同源序列。借助软件CAP3对 5条Unigenes 或Contings 序列进行拼接，获得了包含完整开放阅读框的樟树 LACS9 基因电子克隆。根据电子克隆设计引物，分别以樟树茎、叶、根、花和种仁五种组织cDNA为模板、通过PCR 法进行全长cDNA序列特异扩增， $1 \%$ 琼脂糖凝胶电泳检测获得了清晰的单一条带（图1)。经单克隆测序显示，扩增条带大小为2356 bp，包含 2094bp 的编码区序列、编码 697个氨基酸多肽，命名为CcLACS9。EditSeq软件预测显示，CcLACS9大小为 $8 6 . 8 3 \mathrm { K D a }$ ，等电点为7.39、生理中性条件下略偏碱性。ProtParam软件在线分析显示CcLACS9 含有多个较强的亲水区域，为亲水性蛋白。提交GeneBank数据库，获得登入号MF966481。
+
+表2 基于樟树叶组织转录组筛选AtLACS9 基因直系同ContigsTable 2Identification of AtLACS9 homologous Contigs according to foliar transcriptome data ofcamphor tree  
+
+<html><body><table><tr><td>序列号(ID)</td><td>大小(bp)</td><td>同源区段</td><td>序列相似性</td></tr><tr><td>Contigs ID</td><td>Size</td><td>Homologous region</td><td>Sequence similarity</td></tr><tr><td>CL7040.Contig1_All;</td><td>1992</td><td>131~691</td><td>79%</td></tr><tr><td>Unigene79184_All;</td><td>1164</td><td>131~480</td><td>78%</td></tr><tr><td>CL30093.Contig1_All;</td><td>905</td><td>1~129</td><td>62%</td></tr><tr><td>CL20714.Contig1_All;</td><td>863</td><td>1~129</td><td>62%</td></tr><tr><td>CL30941.Contig1_All;</td><td>942</td><td>1~129</td><td>62%</td></tr><tr><td>CcLACS9</td><td>2094</td><td>1-691</td><td>75%</td></tr></table></body></html>
+
+![](images/ab9f51f4a8faf2ae2e4587f90d11a80b6c93677aae6ab8cad449cf84173b99b4.jpg)  
+图1樟树LACS9 基因cDNA克隆Fig.1 Cloning of LACS9 cDNA from C.camphora
+
+# 2.3樟树LACS9序列鉴定及进化分析
+
+AMP 绑定结构域（PROSITE PS00455）[LIVMFY]-{E}-{VES}-[STG]-[STAG]-G-[ST]-[STEI]-[SG]- $\mathbf { \nabla \cdot X }$ -[PASLIVM]-[KR]是植物ACS 家族的标志性标签。为了鉴定CcLACS9 是否属于植物ACS 家族成员，利用Scanprosite Results viewer 软件分析了其保守结构域。结果显示（图2A），在CcLACS9蛋白序列第 256\~267和第452\~462位分别存在12个和10个氨基酸残基（图中\*标记）组成的高度保守的AMP绑定结构域；第531\~560位包含由30个氨基酸（图中☆标记）组成高度保守的ACS信号序列，表明CcLACS9属于典型的植物ACS 基因家族成员。此外，介于AMP 绑定结构域和ACS 信号序列之间，还存在一段包含71个氨基酸残基组成的保守结构域（第354-424，图中 $\blacktriangle$ 标记）即为LACS基因家族特殊的linker结合域，该结合域在不同物种与不同成员中序列长度有所差异。综上所述，CcLACS9 既具备 ACS 家族的共同特征，又具有真核生物 LACS 专有的linker结合域，可基本确认其为樟树所含有的LACS基因家族成员之一。将CcLACS9与其它植物LACS 家族同源基因进行了多序列比对，结果显示AMP绑定结构域、ACS信号序列和 linker结合域都具有极强的保守型（图2B）。
+
+CcLACS9 与油棕（Elaeis guineensis）、莲花（Nelumbo nucifera）、无油樟（Amborella trichopoda），二倍体棉花（Gossypium raimondii）、芝麻（Sesamum indicum）、拟南芥（Arabidopsis thaliana）、麻枫树（Jatropha curcas）、油菜（Brassica napus）、玉米（Zea mays）、蓖麻（Ricinus communis）等物种中同源基因序列相似性分别为 $80 \%$ 、 $81 \%$ 、 $80 \%$ 、 $78 \%$ 、 $78 \%$ 、 $7 5 \%$ 、 $78 \%$ 、 $7 5 \%$ 、 $7 5 \%$ 和 $76 \%$ ，表明在植物进化中LACS9 基因极为保守，可能在不同植物中都具有相同或相似的功能。LACS9谱系发生分析显示，CcLACS9进化上介于单子叶植物和双子叶植物LACS9之间、与莲LACS9较为相似，该结果与樟树在陆生植物中的进化地位相符。SignalP4.1Server 和 Predictprotein 等亚细胞定位预测软件都预测 CcLACS9 定位于质体，暗示其极可能与AtLACS9一样，执行了将生物合成后脂肪酸运出质体的任务且进而对种仁中油脂合成调控具有重要作用。
+
+A 1 MNPYLVGVLVPIIFSLVFRNAKNGKKRGVPVDVGGEPGYAVRNRRFTSPVETSWLGISTLAELFEQSCRLHADRILLGSR81 KLIARETEMSQDGRSFEKLHLGNYEWLSYGGAFEAVCSFSSGLVELGHTGKGRAAIFADTRAEWFIALQACFRRNITVVT161 IYASLGEEALCHSLNETEVSTIICGPKELKKLLDISGQLDTVRHVICMEDDGVTTEASLIERHTKWTITSFVEVERLGRQAMP binding domain1241NHTDADLPVSADIAVIMYTSGSTGLPKGVMMTHGNVLSTLSAVMTIVPGLGSKDIYLAYLPLAHILELAAENLIAAVGSA\*\*\*\*\*\*\*\*\*\*\*\*LACS specific linker domain321 IGYGSPLTLTDTSNKIKKGTKGDASMLGPTLMTAVPSILDRVRDGVRKKVDAKGGLSKKLFDVAYGRRLSAISGSWFGAW.....·AMP binding domain2401GLEKLLWNLLVFRKVRAVLGGRIRFLLSGGAPLSGETQRFINICLGAPIGQGYGLTETCGGGTFSEYDDTSVGRVGAPLP\*\*\*\*\*\*\*\*\*\* ACS signature motif481CSFIKLIDWNEGGYLTKDSPMPRGEIVIGGPNVTLGYFKNEEKTNVVYKVDERGMRWFYTGDIGRFHSDGCLEIIDRKKD☆☆☆食☆☆☆☆食☆☆☆☆☆☆☆☆食☆☆☆☆561IVKLQHGEYVSLGKVEAALIVSPYVDNIMLHADPFHNYCVALVVPSQHAVEDWATKRGIAFTNFSDLCQKEEPVKEVHGS641LVKAARDARLEKFEVPAKIKLLPDPWTPEVGLVTAALKLKRETIRKAFAEDLAQLYAAMP-binding domainBlockI Block II ACS signature motifCoLACS4255IMYTSGSTGLPK -451GYGLTETCAGG---519- DERGMRWFYTGDVGQFHSDGCLEIIDRKKDAtLACS9250IMYTSGSTGLPK -446GYGLTETCAGG ---514- DEKGMRWFYTGDIGRFHPDGCLEIIDRKKDJcLACS9 256IMYTSGSTGLPK --452GYGLTETCAGG --520- DERGMRWFYTGDIGQFHADGCLEIIDRKKDBnLACS9251IMYTSGSTGLPK -447GYGLTETCAGG --515 DEKGMRWFYTGDIGQFHPDGCLEIIDRKKDCcLACS9256IMYTSGSTGLPK 452GYGLTETCGGG -520 DERGMRWFYTGDIGRFHSDGCLEIIDRKKDLACS specific linker domainCOLACS4353AVPAILDRVRDGVRKKVDTTGGLSKKLFDLAYARRLSAMNGSWFGAWGLERLLWNFLVFRKVRAILGGAILACS9 348AVPAILDRVRDGVRKKVDAKGGLSKKLFDEAYARRLSAINGSWFGAWGLEKLLWDVLVFRKIRAVLGGJCLACS9 354AVPAILDRVRDGVRKKVDAKGGLSKKLFDLAYARRLSALNGSWFGAWGLELLLWNELVFRKVRAVLGGBnLACS9349AVPAILDRVRDGVRKKVDAKGGAAKKLFDFAYARRLSAINGSWFGAWGLEKLLWDVLVFGKIRAVLGGCLACS9354AVPSILDRVRDGVRKKVDAKGGLSKKLFDVAYGRRLSAISGSWFGAWGLEKLLWNLLVFRKVRAVLGG注：麻枫树（XP_012078234.1）；蓖麻（XP_002513807.1）；二倍体棉花（XP_012450538.1）；拟南芥（NP_177882.1）；油菜（NP_001303207.1）；油茶（ALF39596.1）；芝麻（XP_011069534.1）；莲（XP_010242787.1）；无油樟（XP_006847032.1)；油棕（XP_010930884.1）；玉米（XP_008679622.1)
+
+![](images/e421db66aee6649664d504cc38ad12bdbea50a05f5e84ef3bd9d7c338e205da9.jpg)  
+图2CcLACS9氨基酸序列ACS亚家族特征结构域鉴定与保守性分析  
+Fig.2Identification and conservation analysis of ACS specific motifs in CcLACS9   
+图3植物LACS9基因进化分析  
+Fig.3 Phylogenetic analysis ofLACS9 in plants
+
+Note: Jatroph curcas (XP012078234.1)；Ricinus communis (XP_00251387.1)；Gossypiumraimondi (XP_012450538.1); Arabidopsis thaliana (NP_177882.1)；Brassicanapus (NP001303207.1)；Cameliaoleifera(ALF39596.1)；Seasmumindicum (XP_011069534.1)； Nelumo nucifera (XP_010242787.1)；Amborell trichopoda (XP_006847032.1)；Elaeis guineensis (XP_010930884.1)； Zea mays (XP_008679622.1)
+
+2.4樟树LACS9基因表达具有组织特异性
+
+提取樟树花、叶、茎、根和种仁等组织 total RNA，以樟树 Actin 基因为内参、通过荧光定量 PCR 法分析了CcLACS9基因在不同组织中的表达情况。结果如图3所示，CcLACS9基因在花、叶、茎、根和种仁中均有表达，但表达丰度具有明显的差异性。其中，CcLACS9基因在花、种仁中优势表达最为明显、叶组织次之，在三者中表达量远高于其它组织。将根中CcLACS9基因表达量设定为1，在茎、叶、花和发育种仁等四个组织中相对表达量分别是其4.75、9.31、15.82和17.74倍。
+
+![](images/0ea3d6d3606ebf9a443a2da484003a704896605c5846cf449a906dd0b5bd37e9.jpg)  
+图4荧光定量PCR检测不同组织中CcLACS9基因表达情况Fig.4 Analysis expression level of CcLACS9 in tissues by quantitative real-time PC
+
+2.5樟树种仁发育前期油脂含量与 $\mathrm { C c } L A C S 9$ 基因表达量正相关
+
+根据种仁含油量，将供试樟树小样本群体划分为上（ $56 0 \%$ ）、中（ $5 0 \% { \sim } 6 0 \%$ ）和下（ $< 5 0 \%$ ）三个品级。每个品级随机抽样3棵樟树进行各发育时期种仁含油量分析。于2016年6月至11月逐月采集樟树种子、剥取种仁，阴干后用于油脂提取。如图所示（图6），樟树种子发育前期（6-8月份），随着种子个体不断发育膨大、种仁油脂含量（出油率）呈快速增长态势；9月份至11月份，随着种子逐渐发育至成熟阶段，种仁中油脂含量增长缓慢至趋于停滞。各品级樟树油脂含量在8月份开始呈现显著差异并保留至成熟期（11月份），所有单株不同脂肪酸比例在整个发育时期大体稳定。
+
+![](images/244c73123e6b9d504e54daa3d9ec70bda93da1a07beb370c37a7c0361a1d0cae.jpg)  
+樟树种仁采集时间 The timing ofkernel collection
+
+对应地，我们通过荧光定量PCR方法测定了各品级樟树种仁发育过程中CcLACS9基因的变化情况，以期研究该基因表达量与种仁含油量之间的关系。如图6所示，相比较于5月初种子刚出现时期，6月至11月时期种仁中CcLACS9基因都呈现出显著的上调表达态势，其中表达高峰出现在8月份。同一时期，$\mathrm { C c } L A C S 9$ 基因相对表达量在不同品级各单株间无明显的差异且具有相似的时空表达模式。应用 SPSSStatistics 19.0软件分析二者关联情况，结果表明在种子发育前期（6-8月份）、种仁含油量与CcLACS9基因相对表达量呈现明显正相关性（ $\scriptstyle \cdot = 0 . 9 6$ ）；后半期（9-11月份）、种仁含油量与CcLACS9基因无明显的相关性（ $\scriptstyle \cdot = 0 . 1 3$ ），但二者都维持高水平。
+
+![](images/1945068bc2696bbd500ac4395bec144c61921412227d41514f873e378ba7fdfc.jpg)  
+Fig .5Analysis oil content s in developing kernel of C.camphora   
+图6种仁发育过程中 $C c L A C S 9$ 基因表达变化分析  
+Fig. 6Expression analysis of CcLACS9 in kernel developing
+
+![](images/3e58fd9561e80c3144d30e116544b22e332906614e3f3f14f6fcb3d2f5afff4d.jpg)  
+图5樟树种仁不同发育期油脂含量分析
+
+2.6樟树 $L A C S 9$ 基因缺陷型酵母互补实验检测
+
+通过酶切连接的方法将CcLACS9基因CDS区插入表达载体 $p Y E S 2$ 多克隆位点，重组质粒通过酶切鉴定和测序验证正确。将对照原始质粒 $p Y E S 2$ 和重组质粒 $p Y E S 2 - C c L A C S 9$ 分别转化缺陷型酵母YB525菌株，挑选阳性转化子培养于含有C18:1（油酸）作为唯一碳源的缺省尿嘧啶液体培养基中， $2 8 ^ { \circ } \mathrm { C }$ 振荡培养至对数期中期（约 $8 4 \mathrm { h }$ ）。 $\mathrm { \Gamma _ { O D _ { 6 0 0 } } }$ 值测定显示，转化了 $p Y E S 2  – C c L A C S 9$ 重组质粒的缺陷型酵母细胞可以正常生长，而转化了原始 $p Y E S 2$ 质粒的转化子不能生长。实验结果表明CcLACS9能够互补酵母缺陷型，证明其具有脂酰CoA合成酶活性（图7）。
+
+注：A为 $p Y E S 2 ~ \mathrm { Y B } 5 2 5$ 转化子；B为 $p$ YES2-CcLACS9YB525转化子   
+图7缺陷型酵母YB525互补实验检测CclACS9脂酰CoA合成酶 活性   
+Note:A is pYES2 YB525 transformant; B is $p$ YES2-CcLACS9 YB525transform Fig. 7 Acyl-CoA synthase activity of CclACS9 was tested by complementation of $\bigtriangleup$ LACSYeaststrain YB525
+
+# 3讨论
+
+据调查樟、沉水樟、毛豹皮樟、山樞、大叶木姜子、舟山木姜子、海南木姜子等多种樟科植物种仁平均含油量超过 $50 \%$ ，是我国潜在的重要的生物质能源开发树种之一(祝必琴等,2014)。然而，目前相关资源还未获得有效利用与开发、樟树大量种子脱落甚至作为行道绿化时的"负产物"而难以处理，缺乏有竞争力的良种是其主要原因之一，需要开展针对性的高含油量的品种选育。在本研究所测试的30棵小样本樟树群体中，单株间种子千粒重和种仁出油率差异明显，差异极值分别为65.61克/千粒和 $34 . 3 \%$ ，表明在自然界中樟树油脂良种筛选中具有很大的选育空间。千粒重和出油率之间无明显相关性，在选育过程中二者应综合被考虑。
+
+植物脂肪酸从头合成始于质体中，在脂肪酸合成酶催化下以丙二酰-ACP和乙酰-CoA作为起始底物进行连续聚合反应，以每个循环增加两个碳的频率延伸酰基碳链直至合成16到18个碳的饱和脂肪酰-ACP(Brown et al,2006)。之后，依次在△9硬脂酰去饱和酶和酰基-ACP 水解酶作用下形成游离非饱和脂肪酸(Kachroo et al,2007)。为完成诸如三酰甘油、蜡质、角质及软木质等等物质合成，一大部分游离非饱和脂肪酸需以酰基-CoA 激活形式运出质体，该反应过程由LACS 介导完成。实验数据表明 AtLACS9在拟南芥种仁油脂合成和累积过程中起重要作用(Schnurr et al,2002)。在本研究中，CcLACS9 基因序列与 AtLACS9 基因相似性为 $7 5 \%$ ，亚细胞定位预测定位为质体中且在种子中优势表达，暗示其极可能作为AtLACS9直系同源基因在樟树籽油合成与累积过程中起重要作用。4月底樟树开始挂果，5\~8月份是果实快速膨胀期和籽油合成累积高峰期，9月之后逐渐过渡到成熟期。CcLACS9在种子发育过程前期（5-8月份）处于持续上调表达状态，其表达量与种仁油脂含量呈正相关，再次暗示了其在樟树籽油合成和累积过程中起了重要作用。种子成熟后（9月份后），CcLACS9表达量与种仁油脂含量无明显相关性，其维持较高表达水平可能主要在于由于弥补呼吸作用等引起的能量消耗、维持种仁油脂含量动态平衡。不同单株中，CcLACS9基因表达量差异性与油脂含量差异性无明显相关性，暗示还有其它因素参与了籽油合成调控。
+
+樟树籽油富含中链脂肪酸成分，是研究中链脂肪酸生物合成机制的好材料。酰基-ACP水解酶是调控樟树合成中链脂肪酰基的关键基因之一(Yuan et al,1995),然 CcLACS9 激活游离脂肪酸是否具有链长选择性还为未可知。在本研究中，我们特意比较了UFA（unusual fatty acid）植物包括樟树、油棕和蓖麻与普通植物如拟南芥、大豆、芝麻等LACS9序列特征，结果显示植物LACS9一类较保守的基因，所有物种间该同源基因序列相似性介于 $7 5 \% { \sim } 8 1 \%$ 之间且无明显特征性motifs存在。利用MEGA6.0构建植物LACS9基因谱系发生树，结果显示CcLACS9系统发育介于油棕、玉米等单子叶植物LACS9基因和芝麻、油茶等双子叶植物LACS9 基因之间，恰与樟树作为基底被子植物的进化地位相符，来源于UFA植物的LACS9并未特异聚集在一个进化分支上。在微生物、动物相关研究中(Lindner et al,2006; Kasuya et al,2009;Meng et al,2010),中链脂肪酸酰基CoA合成酶（MACS）可专一性地"活化"中链脂肪酸。杨树 MACS 在体外实验中亦对已酸、壬酸和癸酸具有明显的活性(曹山等,2016)。然而目前尚未发现定位于质体中的MACS，对其具有将植物体内中链脂肪酸转入\出质体功能存疑。樟树中是否存在特异MACS 介导中链脂肪酸转入\出质体需要进一步研究。
+
+# 参考文献
+
+BABBITTPC,KENYONGL,MARTINBM,et al,1992.Ancestryof the 4-chlorobenzoatedehalogenase:analysisofainoacid sequenceidentitiesamong familiesofacyl:adenylligases，enoyl-CoA hydratases/isomerases，andacyl-CoAthioesterases[J]. Biochemistry-USA,31(24): 5594-5604.   
+BLACK PN,DUSSOCC,METZGERAK,etal1992.Cloing,sequeningandexpresionofthefadDgeneofEscherchiacoli encoding acyl coenzyme A synthetase[J]. JBiol Chem, 267(35): 25513-25520.   
+BROWN AP,AFFLECK V,FAWCEETT,etal,2006.Tandemaffinitypurification taggingoffattyacidbiosyntheticenes in Synechocystis sp.PCC6803 and Arabidopsis thaliana[J].JExp Bot, 57(7): 1563-1571.   
+CAO S,JIANGLL,LILH,etal,216Cloningandenzymaticanalysisofmedium-chainacylcomezye AsythetaseinPopulus trichocarpa[J].JBeijing For.Univ,38(7):9-15.[曹山，蒋璐瑶,李丽红,等,2016.毛果杨中链酰基辅酶 A合成酶的克隆及酶 学分析[J]．北京林业大学学报,38(7):9-15.]   
+CONTIE,FRANKSNP,BRICK P,1996.Crystal structureoffireflyluciferase throws lightonasuperfamilyofadenylate-foing enzymes[J]. Structure, 4(3): 287-298.   
+FULDA M,SHOCKEYJ,WERBER M,etal,2002.Twolong-chainacyl-CoA synthetases from Arabidopsis thaliana involved in peroxisomal fatty acid beta-oxidation[J].Plant J,32(1): 93-103.   
+GONG X, ZHANG Y,LIUYH,et al,2012.Effect of medium-chaincapryic andcapricacids on glucose metabolism inmicewith diabetes melitus[J].JChinese Plapostgrad Med Sch,33(2):108-109.[宫雪，张永，刘英华,等．中链脂肪酸辛酸和癸酸对糖尿 病小鼠糖代谢的影响[J]．解放军医学院学报,2012,33(2):108-109.]   
+IJIMA H,FUJIO,MNEKURAH,etal96.Biochemical studiesof tworatacyl-CoA sthetases,ACS1and ACS2[J].EuJ Biochem,242(2): 186-190.   
+JESSEN D,OLBRICHA,KNUFER J,et al,2011.CombinedactivityofLACS1andLACS4isrequiredfor properpolencoat formation in Arabidopsis[J]. Plant J, 68(4): 715-726.   
+JIANG XM,WUYF,XIAOFM,etal,2014.Transcriptomeanalysis forleavesoffivechemicaltypeinCinamomum Camphora[J]. Hereditas,36(01):58-68.[江香梅，伍艳芳，肖复明,等,2014．樟树5种化学类型叶片转录组分析[J].遗传,36(01):58-68.]   
+KACHROO A,SHANKLINJ,WHITLEE,etal,2007.The Arabidopsisstearoyl-acylcarrerprotein-desaturase familyandthe contribution of leaf isoforms to oleic acid synthesis.[J]. Plant Mol Biol, 63(2): 257-271.   
+KASUYAF,KAZUMIM,TATSUKIT,etal,2009.Efectofsalicylicacidanddiclofenaconthe medium-chainandlong-chain acyl-CoA formation in the liver and brain of mouse[J]. J Appl Toxicol, 29(5): 435-445.   
+KHURANA P,GOKHALERS,MOHANTYD,2010.Genome scale predictionofsubstrate specificityforacyladenylate superfamily of enzymes based on active site residue profiles[J]. Bmc Bioinformatics,11(1): 57-74.   
+LINDNER I, RUBIN D, HELWIG U,et al，2006.The L513S polymorphism in medium-chain acyl-CoA synthetase2 (MACS2)is associated withriskfactorsofthe metabolic syndrome inaCaucasiastudypopulation[J].MolNutrFoodRes,50(3):270-274.   
+LIU MY,ZHAOH,DENGLetal,016.Aplationfmedumhaifatyacdsinkenbedig[J].Cina poultry8(15): 43-47.[刘梦芸，赵豪斌，邓伶俐,等．中链脂肪酸在鸡养殖中的应用研究进展[J]．中国家禽,2016,38(15):43-47.]   
+LIVAKI KJand SCHMITTGENTD,2001.Analysisof relativegene expresion data using real-timeQuantitativePCRandthe2-Ct method[J]. Methods, 25: 402-408.   
+LU SY,SONG T,KOSMA DK,et al,2009.Arabidopsis CER8encodes long-chainacyl-CoA synthetase1(LACS1) that has overlapping functions with LACS2 in plant wax and cutin synthesis[J]. Plant J, 59(4): 553-564.   
+MASHEK DG,LILO,COLEMANRA,2007.Long-chainacyl-CoAsnthetasesandfattacidchaeling[J].Future Lipidol,2(4): 465-476.   
+MENGY,INGRAMSMITH C,COOPERLL,etal,2010.Characterizationof anArchaeal Medium-Chain Acyl Coenzyme A Synthetase from Methanosarcina acetivorans[J].JBacteriol, 192(22): 5982-5990.   
+SCHNURRJA,SHOCKEYJM,BROWSEJ,2004.TheAcyl-CoASynthetaseEncodedbyLACS2IsEssentialforNormalCuticle Development in Arabidopsis[J].Plant Cell, 16(3): 629-642.   
+SCHNURRJA,SHOCKEYJM,DEBOERGJ,etal2002.Fatyacidexport fromthechloroplastMolecularcharacterizatioofa major plastidial acyl-coenzyme A synthetase from Arabidopsis[J].Plant Physiol 129(4): 1700-1709.   
+SHOCKEY JM,FULDA M,BROWSE JA,2002. Arabidopsis Contains NineLong-Chain Acyl-Coenzyme A SynthetaseGenes That Participate in Fatty Acid and Glycerolipid Metabolism[J]. Plant Physiol,129(4): 1710-1722.   
+STEINBERG SJ,MORGENTHALERJ,HEINZERAK,etal,200.Verylong-chainacyl-CoA synthetases.Human"bublegum" represents anew familyof proteins capableofactivating verylong-chain fatyacids[J].JBiol Chem,275(45):3562-35169.   
+STUIBLEHUERDGJ,etalo.utatialalysisof4oarate:Clgasedentifsfcallt amino acids and veriest its close relationship to other adenylate-forming enzymes[J]. Febs Let,467(1):117-122.   
+WATKINS PA,1997. Fatty acid activation[J]. Prog Lipid Res,36(1): 55-83.   
+YUANL,VOELKER TA,HAWKINSDJ,1995.Modificationof the Substrate Specificityof an Acyl-Acyl CarrierProtein Thioesterase by Protein Engineering[J].Proc Nat Acad Sci USA, 92(23): 10639-10643.   
+ZHAOL,KACV,IF,alertlmutatlyisrealsthalghcysase1(Ctt LACS8, functionallyoverlaps with LACS9 in Arabidopsis seed oil biosynthesis[J]. Plant J, 64(6):1048-1058.   
+ZHAO ML,YANG H,YANGF,etal,2012.CompositioaalysisofCinamomumcamphorasedkerneloilandsheoilJ].J Nanchang Univ(Nat Sci.Edn.),36(5):445-448.[赵曼丽，杨辉，杨芳,等,2012.樟树籽仁油和壳油的油脂组成分析[J].南昌 大学学报理科版,36(5):445-448.]   
+ZHUBQ,LIUY,E,etal14.SudyexploratiadutilzatioftheluracoscsiesingXipre[J] Ecolo Sci,3(3):445-451.[祝必琴，刘宇，陈晖,等,2014.江西省樟科富油能源植物的开发利用研究[J].生态科学,2014, 33(3): 445-451.]   
+ZHUFG,TANXL,CONGBQ,etal,09.hracterationandfunctioalanalsisofX66geneinBasicnpus[J].ine JOil Crop Sci,2009,31(3):274-278.[朱福各，谭小力，崇保强,等,2009．油菜脂酰 CoA合成酶基因pXT166的鉴定和功能 分析[J].中国油料作物学报,31(3):274-278.]

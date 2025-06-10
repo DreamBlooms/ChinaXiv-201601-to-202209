@@ -1,0 +1,176 @@
+# 局部超亲水调控自然循环流动沸腾传热研究
+
+华 蒙¹张晓鹏¹　张 良¹　范利武1,2　俞自涛1　胡亚才1(1．浙江大学热工与动力系统研究所，杭州3100272．能源清洁利用国家重点实验室，杭州310027)
+
+摘要气液分层流动沸腾现象是水平加热管道内在低热流和流量条件下常见的现象，提高和改善气液分层流动沸腾换热对于改善换热设备性能具有重要意义。本文通过建立蒸发段水平加热自然循环流动沸腾实验台，通过对加热功率为$1 0 0 0 ~ \mathrm { W }$ ，长度为 $0 . 8 ~ \mathrm { m } ,$ ，内径为 $\mathrm { 1 5 . 0 ~ m m }$ 的蒸发段内典型的气液分层区域(C-D区)沸腾表面进行局部超亲水修饰，研究局部超亲水修饰对自然循环系统内气液分层流动沸腾性能的影响。实验结果表明：局部超亲水表面处理方法可以有效改善传热特性，蒸发段各截面温度均有不同程度的下降，并且各截面温度变化趋势趋于平缓；局部超亲水表面可以提高蒸发段平均传热系数 $1 5 9 \%$ ，并且有效降低蒸发段热阻。
+
+关键词流动沸腾；气液分层；超亲水表面中图分类号：TK124 文献标识码：A
+
+文章编号：0253-231X(2017)03-0613-06
+
+# Study of the Natural Circulation Flow Boiling Heat Transfer Based On Partially Superhydrophilic Surface Modification
+
+HUA Meng1 ZHANG Xiao-Peng1 ZHANG Liang1 FAN Li-Wu1,2 YU Zi-Tao1 HU Ya-Cai1
+
+(1.Institute of Thermal Science and Power Systems,Collge of Energy Engineering,Zhejiang University, Hangzhou 310027,China; 2.State Key Laboratory of Clean Energy Utilization, Zhejiang University，Hangzhou 3l0027,China);
+
+Abstract The phenomenon of gas-liquid stratified fow boiling is usually happened in horizontally tubes in condition of the low heat and mass flux. It is of great significant to improve thermal performance of thermal systems by enhancing and regulating the gas-liquid flow boiling heat transfer. In this work,a natural circulation fow boiling test rig of thermosyphon loop with horizontal arranged evaporator was set up.The experiment was caried out by heating a 0.8 m-long horizontal evaporator with an inner diameter of 15.0 mm under a heat load of 100o W. Efects of partially superhydrophilic surface on the thermal characteristics of the gas-liquid stratified fow boiling in the natural circulation system were investigated. The local surface at region C-D where gas-liquid stratifcation often occurred was modified in this work. The results show that heat transfer performance in the evaporator was effectively improved by the partially superhydrophilic surface modification. Temperatures at each cross section of the evaporator appeared different degrees of decline. And temperature fluctuation between the cross sections tended to be more moderate.Finally,the average heat transfer coefficient was enhanced by 159% due to the modification of superhydrophilic surface. And a decrease of thermal resistance was also observed.
+
+Key wordsflow boiling; gas-liquid stratification; superhydrophilic surface
+
+# 0前言
+
+太阳能热利用技术在工业中具有广泛的应用[1,2]，利用热虹吸管建立自然循环太阳能集热系统成为太阳能高效经济发展的一种趋势。低热流密度的自然循环太阳能集热系统[3-5]也在工业中发挥着越来越重要的作用，但是在热通量较低和集热管水平布置时，例如槽式太阳能集热系统 (PTC)或复合槽式太阳能系统 (CPC)，蒸发段流动沸腾时极易出现气液分层现象。气液分层导致流动截面上壁面部分位置浸润性较差，导致壁面存在较大温差，从而出现传热恶化现象。
+
+对于水平管流动沸腾气液分层现象的研究，Kattan 等[6-9] 将流动沸腾特性分成以下五个阶段：分层流(S)、分层波状流(SW)、间断流(I)、环状流(A）和雾状流 (MF)，并且提出了用来预测局部气液分层流动沸腾问题最早一个模型K-T-F模型；Wojtan等[10]基于对动态孔隙率的计算和观察,对K-T-F的流型图进行了修正，将 SW区域细分成3个分区(slug、slug+SW、SW)，并且添加了A-D 和D-M转换曲线，确定水平管中干涸的起止点，提出了准确性更高的流动沸腾传热模型。目前对于水平管流动沸腾气液分层的研究方向主要是在对于气液分层现象及特性的研究上，对于气液分层现象带来的传热恶化现象如何进行改善却很少涉及。
+
+在改善传热的各种方法中，纳米流体强化技术[11]以及微结构表面[12]强化传热具有明显的效果。通过纳米技术，使得物体表面具有一些特定形状的微结构特征从而达到强化传热的效果。Khodab-an-deh等[13]研究了通过在蒸发段电镀铜微观孔结构，可以减小蒸发段的温度波动并且改善传热增加传热系数。Singh等[14]研究了多壁碳纳米管表面在水平通道内的流动沸腾情况，结果表明，在相同的工况下多壁碳纳米管可提高热流密度 $3 0 \% { \sim } 8 0 \%$ 。
+
+探究并理解纳/微结构修饰表面对自然循环气液分层流动沸腾现象传热特性的优化具有很好的研究价值。本文将对局部超亲水表面对于水平圆管自然循环流动沸腾系统中气液分层流动沸腾传热特性的改善进行实验研究。
+
+# 1实验系统
+
+如图1所示为水平圆管自然循环气液分层流动沸腾传热的实验研究平台。整个系统由水平蒸发段的热虹吸管构成，主要包括加热蒸发段、冷凝段和绝热段（上升、下降管）组成。工质在蒸发段被均匀缠绕的电热丝加热直至沸腾，产生的蒸汽流经上升管，在冷凝段冷凝后，通过下降管再次回到蒸发段，依此往复循环。
+
+集热管(蒸发段）由 $0 . 8 \mathrm { ~ m ~ }$ 长 $\mathrm { 1 5 . 0 ~ m m }$ 内径的铜管构成。本实验控制加热功率恒定为 $1 0 0 0 ~ \mathrm { W }$ 。蒸发段等间距的分成间隔 $2 0 0 ~ \mathrm { { m m } }$ 的5个截面（A-E截面)，每个截面圆周间隔 $9 0 ^ { \circ }$ 布置有4个 $\mathrm { ~ T ~ }$ 型热电偶，总共通过 $4 \times 5$ 个 $\mathrm { ' } T _ { \mathrm { A } } , T _ { \mathrm { B } } , T _ { C } , T _ { \mathrm { L } }$ 和 $T _ { \mathrm { E } }$ )T型热电偶对测试段的温度进行测量，蒸发段压力通过进出口两端的压力计（ $P _ { \mathrm { e v a p - i n } }$ ， $P _ { \mathrm { e v a p - o u t } } ,$ ）进行测量。
+
+![](images/88e95ba53b2c1b8849ce66d7f92c457b7178277cf044f8f6fcfa228b210ea62e.jpg)  
+图1自然循环气液分层流动沸腾传热实验台 Fig.1 Schematic diagram of natural circulation gas-liquid stratified flow boiling test rig
+
+# 表1实验系统参数表
+
+Table 1 Parameters of the test rig   
+
+<html><body><table><tr><td>项目</td><td>数值</td></tr><tr><td>蒸发段/mm</td><td>800</td></tr><tr><td>冷凝段/mm</td><td>1200</td></tr><tr><td>上升段/mm</td><td>800</td></tr><tr><td>下降段/mm</td><td>800</td></tr><tr><td>加热功率/W</td><td>1000</td></tr></table></body></html>
+
+冷凝段由一个U型套管结构构成，内管与上升管和下降管两端相互焊接连接，外套管与水浴进水口和出水口相连。本实验中，在外套管两端分别安装T型热电偶（ $\cdot T _ { \mathrm { c i r c - i n } }$ ， $T _ { \mathrm { c i r c - o u t } } )$ 来测量套管内冷却水的进出口温度，冷却水的入口温度控制为 $5 7 ~ ^ { \circ } \mathrm { C }$ 0同时，套管中的冷却水流量 $( G _ { \mathrm { c i r c } } )$ 通过浮子流量计进行调节和测量。热管系统的工作压力保持在0.15$\mathrm { M P a }$ 。同时，在集热管和冷凝段的进出口分别装有1个压力计和2个 $\mathrm { ~ T ~ }$ 型热电偶，对应的符号分别为：蒸发段 $( T _ { \mathrm { e v a r p - i n } }$ ， $T _ { \mathrm { e v a r p - o u t } }$ ， $P _ { \mathrm { e v a r p - i n } }$ ， $P _ { \mathrm { e v a r p - o u t } } )$ ，冷凝段( $\cdot T _ { \mathrm { c o n d - i n } }$ ， $T _ { \mathrm { c o n d - o u t } }$ ， $P _ { \mathrm { c o n d - i n } }$ ， $P _ { \mathrm { c o n d - o u t } } \backslash$ ，分别用于测量蒸发段蒸汽入口温度、出口温度、入口压力、出口压力以及冷凝段蒸汽入口温度、出口温度、入口压力、出口压力。热电偶的温度均经校核后的精度为$\pm \ : 0 . 1 \ : ^ { \circ } \mathrm { C }$ 、压力计的精度为 $\pm \ 0 . 2 5 \%$ 。为了保证实验的重复性和准确性，每个工况均进行3次实验。
+
+热管（热虹吸管）内水的充液率,FR 为0.25，其中 FR的定义为：
+
+$$
+F R = { V _ { \mathrm { f } } } / { V _ { \mathrm { t h e r m o } } } ,
+$$
+
+式中， $V _ { \mathrm { f } }$ 为工质水的体积, $\mathrm { m ^ { 3 } }$ ， $V _ { \mathrm { t h e r m o } }$ 为热虹吸管的体积, $\mathrm { m ^ { 3 } }$ 。
+
+集热管蒸发段的对流换热系数， $h _ { \mathrm { t p } }$ ，利用如下
+
+公式进行计算：
+
+$$
+h _ { \mathrm { t p } } = q / \pi D _ { \mathrm { i } } L ( \overline { { T _ { \mathrm { i } } } } - T _ { \mathrm { s a t } } ) ,
+$$
+
+式中， $q$ 为净加热功率， $( U I - q _ { \mathrm { e l } } )$ ，其中， $q _ { \mathrm { e l } }$ 是散热功率。 $T _ { \mathrm { s a t } }$ 为集热管内饱和温度，通过集热管进出口的蒸汽压力查表求得。
+
+本实验中，管道内表面温度可通过一维导热过程求得：
+
+$$
+T _ { \mathrm { i } } = T _ { \mathrm { o } } - ( q / 2 \pi k L ) \ln ( D _ { \mathrm { o } } / D _ { \mathrm { i } } ) ,
+$$
+
+通过误差分析得到对流传热系数的系统误差经计算小于 $6 . 7 \%$ ，具体计算过程见已有研究报道[18]。
+
+# 2局部超亲水表面制备与表征
+
+本此实验采用一种化学刻蚀[15-17]方法来制备超亲水表面：具体制备过程包括：1）铜管的清洗：首先用沙盘打磨抛光铜管的内壁面和外壁面，吹扫打磨和抛光留下的碎屑。然后用稀盐酸浸泡 $2 0 \mathrm { m i n }$ 后，用去离子水冲洗干净，除去表面的氧化物和各种无机化合物。最后风干处理后备用。2）刻蚀：将等量的 $2 . 5 \mathrm { m o l / L }$ 氢氧化钠和 $0 . 1 \mathrm { m o l / L }$ 过硫酸铵溶液混合，倾倒入铜管中，刻蚀时间 $2 . 5 \mathrm { { h } }$ 。刻蚀结束后，用去离子水清洗铜管，得到超亲水表面，之后让其自然风干。
+
+如图2(a）所示，考虑到蒸发段内的流型特征以及进出口影响，本实验主要对蒸发段入口 $3 0 0 { \sim } 7 0 0$ mm 的沸腾表面进行超亲水处理。如图2(b)为原始表面和局部超亲水处理后表面的接触角以及SEM和
+
+![](images/3cd0e891f19dbdb1c99a0161152e5beed285489cd5894748117a087c6b893340.jpg)  
+图2局部超亲水表面及原始表面示意及表征图 Fig.2 Characterization figures of the partially superhydropilic surface and original surface.(a) sketch of the modification position of superhydropilic surface.(b) Characterization of different surfaces:(1) contact angle (2) SEM(3)AFM.
+
+AFM形貌特征图。从图中可以看出，经超亲水处理后，管道表面的接触角由 $8 0 ^ { \circ } \mathrm { C }$ 变为接触角小于 $5 ^ { \circ } \mathrm { C }$ 0而且，超亲水表面的表面出现了大量针片状CuO形貌结构 (SEM)，其表面粗糙度也由 $\mathrm { R m s } { = } 1 1 6 . 6 2 ~ \mathrm { n m }$ （204号提高到 $\mathrm { 1 9 2 . 4 2 \ n m }$ 。需要指出的是，本方法获得的超亲水表面具有很好的稳定性。
+
+# 3结果与讨论
+
+# 3.1蒸发段截面温度分布特征
+
+图3所示为局部超亲水表面及原始表面的集热管截面平均温度分布特征比较图。经过局部超亲水表面修饰后，局部超亲水表面处理后的蒸发段五个截面温度出现了较为明显的降低，其降低幅度平均在 $5 ~ \mathrm { { ^ \circ C } }$ 左右，说明局部超亲水表面处理不仅影响局部超亲水表面处理部分，而且会影响整个蒸发段的温度分布，对于蒸发段整体传热特性都有不同程度的改善。值得注意的是，虽然在经过局部超亲水表面修饰之后，各个截面的温度均有下降，但是整个管段的温度分布趋势并没有发生改变，即从A截面到C截面温度上升，C面为最高，之后D截面、E截面温度又逐渐下降。对于原始表面，A-C、C-E温度上升及下降趋势比较明显，经过局部超亲水表面处理后，蒸发段A-C、C-E 温度上升及下降趋势减缓，蒸发段整体温度变化趋于平缓，蒸发段整体各截面温差显著减小。
+
+![](images/c4dfb0e4aee73944274bba7f838f41a5e63abe30e6df269d20c27dca459345b7.jpg)  
+图3局部超亲水表面及原始表面截面平均温度分布比较图 Fig.3 Comparison of temperature distribution at cross section of evaporator between partially superhydrophilic surface and original surface
+
+如图4所示为局部超亲水表面及原始表面的集热管截面平均温差、截面顶部“1”区域温差、截面底部“3”区域温差。如图所示，虽然蒸发段整体分布呈现出下降的趋势，但是不同截面温度下降程度不同，进行局部超亲水表面处理的位置（截面C、D）温度下降最多 $( 6 ~ ^ { \circ } \mathrm { C } )$ 。对于原始表面，C截面为温度最高点，这意味着C截面上的干度最大，传热恶化现象最为严重。对C截面进行超亲水处理后温度下降最多，传热恶化改善现象最为明显。此外，超亲水工况下，A-C截面温度下降幅度逐渐增大，而D-E截面温度下降幅度逐渐减小，这说明越接近局部超亲水处理区域温度下降越为明显，效果越好。比较局部超亲水表面与原始表面在管壁顶部和底部不同区域的温度差，可以看出管壁顶部和底部不同截面的温度都出现了不同程度的降低，这表明修饰表面不仅可以强化液侧的沸腾换热，也可以强化气侧壁面的换热。对于液侧壁面，管底浸润性改善使得核态沸腾增强，核态沸腾增强主要是在局部超亲水处理区域(C、D),从而使整体换热得到强化；对于气侧壁面，局部超亲水修饰表面对于蒸发段各截面（A、B、C、D）传热改善相差不大，说明局部超亲水处理后对于蒸发段上部整体的浸润性改善较为明显，气侧壁面浸润性整体得到增强，更好的浸润沸腾表面，从而强化换热。
+
+![](images/9e78361ebbf55d5e361da5301c841884ad66184c8986a97a0d7e0be9b191f102.jpg)  
+图4局部超亲水表面与原始表面截面温差图 Fig.4 Temperature difference between partially super-hydrophilic surface and original surface at each cross section
+
+图5所示为局部超亲水表面与原始表面管顶部区域与管底部区域温差比较图。由图5可知，局部超亲水修饰表面的温差分布和原始表面呈现出不同的趋势，与原始表面相比，局部超亲水表面修饰表面在C截面出现最大温差。由图4可知局部超亲水表面之所以能够强化气液分层下的流动沸腾特性主要是由于加强了下壁面核态沸腾，而核态沸腾又直接取决于截面处气液界面高度，所以C截面呈现出最大的截面温差暗示了气液界面的上升，从而导致
+
+核态沸腾增强。
+
+![](images/ea895e78b291ce7c398595d6e7a85d21b7328ca90adc379ddd839c94a53691f5.jpg)  
+图5局部超亲水表面与原始表面管顶部区域与管底部区域温差比较图  
+Fig.5 Temperature difference between up and down for partially superhydrophilic surface and original surface
+
+# 3.2传热系数
+
+为了进一步定量评价局部超亲水表面对气液分层流动沸腾换热的强化效果，通过蒸发段平均传热系数及各截面传热系数的计算来评价。蒸发段平均传热系数及各截面传热系数如表2所示。局部超亲水修饰表面的传热系数较原始表面有较大幅度的提升，比原始表面增加了 $1 5 9 \%$ ，在B、C、D截面分别增长了 $1 2 6 \%$ 、 $1 3 8 \%$ 和 $1 8 8 \%$ ，沿着流动方向上，表面传热系数增加比例逐渐增大。
+
+# 表2不同截面及蒸发段平均传热系数换热系数
+
+Table 2 Average heat transfer coefficient of each cross section and evaporator   
+
+<html><body><table><tr><td>项目</td><td>蒸发段</td><td>B</td><td>C</td><td>D</td></tr><tr><td>铜原始表面</td><td>2354.59</td><td>2322.07</td><td>1815.78</td><td>2349.68</td></tr><tr><td>局部超亲水表面</td><td>6096.52</td><td>5246.92</td><td>4323.14</td><td>6755.77</td></tr><tr><td>传热系数增加比例</td><td>1.59</td><td>1.26</td><td>1.38</td><td>1.88</td></tr></table></body></html>
+
+# 3.3系统热阻分析
+
+系统热阻也是定量分析系统传热特性的重要因素。本实验中，系统热阻 $( R _ { \mathrm { t h } } )$ 及系统各部分热阻$R _ { \mathrm { t h - c o n d } }$ (冷凝段热阻)、 $R _ { \mathrm { t h , e v } }$ (蒸发段热阻)、 $R _ { \mathrm { t h , d p } }$ (其他部分热阻)计算如下所示：
+
+$$
+R _ { \mathrm { t h } } = ( \bar { T } _ { \mathrm { i } } - T _ { \mathrm { c i r c - i n } } ) / q
+$$
+
+$$
+R _ { \mathrm { t h , c o n d } } = ( T _ { \mathrm { c o n d - i n } } - T _ { \mathrm { c i r c - i n } } ) / q
+$$
+
+$$
+R _ { \mathrm { t h , e v } } = ( \overline { { T _ { \mathrm { i } } } } - T _ { \mathrm { s a t } } ) / q
+$$
+
+$$
+R _ { \mathrm { t h , d p } } = ( T _ { \mathrm { e v a - o u t } } - T _ { \mathrm { c o n d - i n } } ) / q
+$$
+
+本实验中，热通量通过固定加热功率来控制，冷凝段热阻计算需要设定固定的冷凝水进口温度。
+
+如图6所示为局部超亲水表面及原始表面系统热阻分析，其中，图6(a)中为各部分热阻的组成，图6(b）为各部分所占百分比比较，从图中可以看出，超亲水表面处理后系统热阻和蒸发段热阻有所降低(如图6(a))。而且，局部超亲水修饰后蒸发段热阻所占系统总体热阻比例所占比例也小于原始表面蒸发段 (如图6(b))。由此可见，系统热阻降低主要来源为蒸发段热阻的降低，而蒸发段热阻的降低源于局部超亲水表面的处理。
+
+![](images/4697a2cb36aaf0685fffae43d50e66504f155091516b9bd9ad34900df4b9075c.jpg)  
+图6局部超亲水表面及原始表面热阻分析  
+Fig.6 Analysis of thermal resistance for partially superhydrophilic surface and original surface.
+
+1）局部超亲水表面修饰后的铜管管壁的各个截面温度有不同程度明显下降，说明局部超亲水表面不仅改善超亲水区域传热特性，而且对全管传热特性均有所改善。
+
+2）局部超亲水表面修饰后的铜管管壁的顶部区域与底部区域温度均有不同程度明显下降，表明修饰表面不仅可以强化液侧的沸腾换热，也可以强化气侧壁面的换热。
+
+3）采用局部超亲水修饰表面之后，蒸发段的传热系数有了明显提高。蒸发段平均换热系数以及B、C、D截面换热系数分别提高 $1 5 9 \%$ 、 $1 2 6 \%$ $1 3 8 \%$ 和 $1 8 8 \%$ 。
+
+# 参考文献
+
+[1] Shukla R,Sumathy K,Erickson P,et al.Recent Advances in the Solar WaterHeating Systems:AReview [J].Renewable and Sustainable Energy Reviews,2013,19:173-190   
+[2] Mekhilef S,Saidur R and Safari A.A Review on Solar Energy Use in Industries [J].Renewable and Sustainable Energy Reviews,2011,15(4):1777-1790   
+[3] ZHANG Liang,WANG Wujun,YU Zitao, et al. An Experimental Investigation of A Natural Circulation Heat Pipe System Applied to A Parabolic Trough Solar Collector Steam Generation System [J]. Solar Energy, 2012, 86(3):911-919   
+[4] ZHANG Liang,FAN Liwu,HUA Meng,et al. An Indoor Experimental Investigation of the Thermal Performance of A TPLT-based Natural Circulation Steam Generator as Applied to PTC Systems [J].Applied Thermal Engineering,2014,62(2):330-340   
+[5] HUA Meng, ZHANG Liang,FAN Liwu, et al. Experimental Investigation of Effect of Heat Load on Thermal Performance of Natural Circulation Steam Generation System as Applied to PTC-based Solar System [J]. Energy Conversion and Management,2015,91:101-109   
+[6] ZHANG Liang,HUA Meng,LU Hai,et al. Effect of Receiver Diameter Ratio on Thermal Performance of Natural Circulation Steam Generation System as Applied to Parabolic Trough Collector Using Water as Working Fluid [J]. International Journal of Heat and Mass Transfer, 2016, 92:1191-1200   
+[7] Kattan N, Thome JR and Favrat D.Flow Boiling in Horizontal Tubes:Part 1-Development of A Diabatic Twophase Flow Pattern Map [J]. Tractions of the ASME Journal of Heat Transfer,1998,120(1):140-147   
+[8]Kattan N,Thome JR and Favrat D.Flow Boiling in Horizontal Tubes:Part 2-New Heat Transfer Data for Five Refrigerants [J].Tractions of the ASME Journal of Heat Transfer,1998,120(1):148-155   
+[9]Kattan N,Thome JR and Favrat D.Flow Boiling in Horizontal Tubes:Part 3-Development of A New Heat Transfer Model Based on Flow Patterns [J].Tractions of the ASME Journal of Heat Transfer,1998,120(1):156-165   
+10] Wojtan L, Ursenbacher T and Thome JR.Investigation of Flow Boiling in Horizontal Tubes:Part I-A New Diabatic
+
+# 4结论
+
+本实验研究主要探究了局部超亲水表面对于自然循环流动沸腾气液分层现象传热特性的改善，实验结果表明：
+
+Two-phase Flow Pattern Map [J].International Journal of Heat and Mass Transfer,2005,48(14):2955-2969   
+[11]FANG Xiande,WANG Run,CHEN Weiwei,et al.A Review of Flow Boiling Heat Transfer of Nanofluids [J].Applied Thermal Engineering,2015,91:1003-1017   
+[12] Shojaeian M,Kosar A.Pool Boiling and Flow Boiling on Micro- and Nanostructured Surfaces [J].Experimental Thermal and Fluid Science,2015,63:45-73   
+[13]Khodabandeh R and Furberg R.Heat transfer，Flow regime and Instability of a Nano-and Micro-porous Structure Evaporator in Two-phase Thermosyphon Loop [J]. International Journal of Thermal Sciences,2O1O,49(7): 1183-1192   
+[14] Singh N,Sathyamurthy V,Peterson W,et al.Flow Boiling Enhancement on a Horizontal Heater Using Carbon Nanotube Coatings [J].International Journal of Heat and Fluid Flow,2010,31(2):201-207   
+[15] ZHU Xiaotao,ZHANG Zhaozhu,MEN Xuehu,et al. Rapid Formation of Superhydrophobic Surfaces with Fast Response Wettability Transition [J].Applied Materials and interfaces,2010,2(12):3636-3641   
+[16]都颖,陈海杰,陈中军,等.分子自组装法制备具有可控浸润 性的铜表面[J].高等学校化学学报，2014,35(1)：105-109 DUYing,CHENHaijie,CHENG Zhongjun,et al.Preparation of Copper Surfaces with Controlled Wettability Through the Molecular Self-assembling Process[J].Chemical Journal of Chinese Universities,2014,35(1):105-109   
+[17]郝婷婷.表面亲/疏水性能对脉动热管热传递性的影响[D]. 大连：大连理工大学,2014 HAO Tingting.Effects of Hydrophilic/hydrophobic Surface on Transport Performance of An Oscillating Heat Pipe[D].Dalian:Dalian University of Technology,2014   
+[18] ZHANGLiang,HUA Meng,ZHANG Xiaopeng,et al. Visualized Investigation of Gas-liquid Stratified Flow Boiling of Water in A Natural Circulation Thermosyphon Loop with Horizontal Arranged Evaporator [J].International Journal of Heat and Mass Transfer,2016,102:980-990

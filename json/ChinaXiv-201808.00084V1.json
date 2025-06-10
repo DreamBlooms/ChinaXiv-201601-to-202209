@@ -1,0 +1,725 @@
+[
+    {
+        "type": "text",
+        "text": "改进PSO算法在多无人机协同任务分配中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒋硕，袁小平(中国矿业大学，江苏 徐州 221116)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对多无人机协同任务分配越来越复杂的问题，采用一种改进的阶层分级粒子群优化算法(HGIWPSO)获得最优分配方案。首先，根据粒子适应度值将种群动态划分为不同三个阶层，依据不同阶层粒子特性选择合适的学习模型，并引入独立权重思想调节惯性权重大小，平衡算法全局与局部搜索能力，提高算法性能；然后，建立协同多任务分配问题模型，采用多余负载竞拍方案减少非法劣解，通过实数编码建立粒子和实际分配方案之间的映射关系，解决实际分配问题。实验结果表明，该算法能够有效解决复杂约束条件下多无人机协同任务分配问题，得到最优分配序列，具有一定的理论以及实际意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：无人机；阶层分级；任务分配；粒子群算法；实数编码 中图分类号：TP301.6 doi: 10.3969/j.issn.1001-3695.2018.05.0303 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of improved PSO algorithm in multi UAV cooperative task allocation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiang Shuo, Yuan Xiaoping (China UniversityofMining&Technology,Xuzhou Jiangsu 221116,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to solve theincreasinglycomplex problem of multi-UAVcollaborative task allocation,used an improved hierarchicalparticle swarmoptimizationalgorithm (HGIWPSO)tobtaintheoptimalallocationscheme.Firstly,according to particle fitnes,thepopulation dynamics were divided into three diferentclasses,andselected theappropriate learingmodel according tothecharacteristicsofdiferentclassesof particles，and introducedthe independent weight idea toadjustthe weightofthe inertia weightthatimproved theperformanceof thealgorithm.Then,establishedthe modelofcollborative multi task assgnment problem,and adopted theredundant load auctionscheme toreduce ilegal solutions.Established the mapping relationship between theparticleandtheactual allcation scheme through real numbercoding to solve the actual allocation problem.Finally,theexperimental resultsshowthatthealgorithmcanefectivelysolvethe problemofmulti-UAV coordinatedtaskasignmentundercomplex constraintsandobtaintheoptimal distribution sequence.Ithascertain theoretical and practical significance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: UAV; hierarchical classification; task assignment; PSO; real number coding ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多UAV协同决策分配问题规模大小和作战过程中将不同任务进行耦合求解等因素决定了其复杂性。目前国内外对UAV任务分配问题的研究主要集中数学建模和分配模型的求解优化这两个方面。现阶段建模方面的主要成果包括了车辆路径问题模型(vehicle routing problem,VRP)、多旅行商问题模型(multipletraveling salesmanproblem，MTSP)、混合整数线性规划模型(mix-integer linearprogramming，MILP)、网络流优化模型(networkflowoptimization，NFO)和多UAV协同任务分配模型(multiple processorsresource allocation,CMTAP)等。文献[1]中将UAV 看做VRP模型中的车辆，将侦察目标看做VRP模型中的乘客，由此将问题简化来解决UAV 航路规划任务问题。文献[2]中将UAV任务分配问题分解转换为经典的MTSP和NFO问题求解。文献[3，4]对多个UAV建立约束条件以及目标函数来建立MILP模型求解。文献[5]分析各种类型任务之间的约束关系，将UVA的总航程和所需要的时间进行优化，建立CMTAP模型求解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对模型求解算法主要有禁忌搜索、遗传算法错误!未找到引用源。错误！未找到引用源。 (genetic algorithm，GA)、蚁群算法错误!未找到引用源。(antcolony optimization,ACO)和粒子群优化算法错误!未找到引用源。错误！未找到引用源。 (particle swarmoptimization,PSO)等。文献[12]设置禁忌表来表征已有局部最优位置，在求解过程中不断更新与测试局部最优值，最终求得最优解。文献[13]设计遗传算法对多UAV协同分配问题进行求解，并与分支界定法和随机搜索方法进行比较表明其具有较好的时间效率。文献[14]通过二进制矩阵编码实现UAV的离散化编码，然后以交叉变异策略加强粒子多样性，将PSO算法有效的运用于求解多UAV侦察任务分配问题。文献[15]提出一种多UAV任务分配与航迹规划整体控制架构，采用与协同系统相匹配的粒子改进PSO 算法解决任务分配问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述求解方法都能在一定程度上解决UAV协同任务分配问题。但是都存在求解算法复杂或者求解效率较低等问题，PSO算法参数较少、原理简单、搜索速度较快，适合用于求解UAV协同任务分配问题。本文提出的阶层分级策略，针对不同阶层粒子的特性给出相应更新方式，增强种群多样性，提高算法的收敛精度以及搜索效率，并对粒子采用实数编码方式简化算法求解UAV协同任务分配问题，取得较好的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1模型描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文涉及的主要环境为模拟二维战场环境，假设战场中的目标任务集合为 $T = \\{ T _ { 1 } , T _ { 1 } , . . . , T _ { N _ { t } } \\}$ ， $\\boldsymbol { N } _ { t }$ 为需要执行的目标任务总数。对于 $\\forall T _ { i } \\in T$ ,我们通过一个六元组来标志任务目标的属性，$< T i d ^ { T } , P o s ^ { T } , S t a t e ^ { T } , V a l u e ^ { T } , D ^ { T } , T h r ^ { T } >$ 为相应的六元组。其中每个任务的标记都是唯一确定的，用 $\\boldsymbol { T } i \\boldsymbol { d } ^ { T }$ 标志。在二维战场空间中用$P o s ^ { T }$ 来标志其坐标位置，State代表当前任务目标的状态，Value'代表UAV攻击指定的任务目标价值量，也就是目标任务的价值， $D ^ { T }$ 标志的是敌方目标的威胁范围区域， $T h r ^ { T }$ 代表的是UAV攻击敌方目标对UAV自身的威胁系数，也就是UAV执行该任务被击落的概率， $T h r ^ { T } \\in [ 0 , 1 )$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中UAV的集合为 $V = \\{ V { \\scriptstyle 1 , V _ { 2 } , . . . , V _ { N _ { u } } } \\}$ ， $\\boldsymbol { N } _ { \\boldsymbol { u } }$ 代表的是UAV的数目。UAV属性用一个七元组表示，$< U i d ^ { U } , P o s ^ { U } , S t a t e ^ { U } , V a l u e ^ { U } , A t , T s , L >$ 为相应的七元组。其所代表的内容和目标任务类似，分别为执行目标的UAV编号、UAV在二维战场上的坐标位置、当前的状态、UAV本身拥有的价值、执行目标UAV的攻击能力、任务集合以及最大的任务执行载荷。 $A t \\in [ 0 , 1 )$ ,也即表示UAV攻击任务目标的时候能够击毁任务目标的概率， $\\textbf { \\em L }$ 表示的是UAV能够执行的最大任务数量，其中 $1 \\leq \\left| T S _ { i } \\right| \\leq L _ { i }$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2代价函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UAV 对敌方目标进行打击的过程中，己方被敌对目标击毁的可能尽可能小。设第 $i$ 架UAV执行完任务 $j$ 后的存活概率为$p _ { i }$ ，则 $p _ { \\mathrm { { } } i } = 1 - T h r { \\mathrm { { } } }$ 。因此，一架UAV完成 $N$ 个任务所需付出的代价值如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } = V a l u e _ { i } ^ { U } * ( 1 - \\prod _ { j = 1 } ^ { N i } ( 1 - T h r _ { j } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：Value为UAV $i$ 的价值， $m r _ { j }$ 为UAV被敌对目标 $j$ 击落的概率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在UAV与敌对攻击目标都处于较为理想的状态下时，己方执行攻击任务的UAV距离目标任务点的距离大小，决定了UAV航程代价的大小，UAV相对越接近目标其航程代价将会越小，因此目标被距离较近的UAV执行的几率相对更大。航程代价的表达式如(2)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 2 } = d _ { i j } / d _ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $d _ { i j }$ 为UAV $i$ 与目标 $j$ 的欧式距离； $d _ { \\mathrm { m a x } }$ 表示所有UAV相距目标 $j$ 的最远距离，即 $d \\operatorname* { m a x } = \\operatorname* { m a x } { i ( d _ { i j } ) }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "攻击收益指的是UAV执行完成攻击任务，击毁任务目标获得目标估值，该项评价标志在对目标进行优化决策中引导最终结果趋向于作战能效最大化，如式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 3 } = V a l u e _ { j } ^ { T } * A t _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上文中的三项评价标准并非统一的度量单位，具有不可公度性而无法进行简单的累加综合计算，需要通过一些标准化变换对相应的评价标准进行处理。本文选取线性尺度变换法对UAV价值和目标估值对比效益指标实现规范化操作，如式(4)(5)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC 1 = \\frac { V a l u e _ { i } ^ { U } } { \\operatorname* { m a x } _ { i \\in N _ { u } } { e _ { i } ^ { U } } } * ( 1 - \\prod _ { j = 1 } ^ { N _ { i } } ( 1 - T h r _ { j } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 3 } = \\frac { V a l u e _ { j } ^ { T } } { \\operatorname* { m a x } { V a l u e _ { j } ^ { T } } } * A t _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多UAV协同分配实质上是一个优化多目标的问题，本文通过引用和借鉴线性加权和法将复杂的优化多目标的问题转化为相对简单的优化单目标的问题。通过设置相应的权重向量来平衡各个因素对分配结果的影响程度。其中权重向量表示为${ \\boldsymbol { \\omega } } = ( \\omega _ { 1 } , \\omega _ { 2 } , \\omega _ { 3 } )$ ，并且满足 $\\omega _ { i } \\in ( 0 , 1 )$ ， $\\textstyle \\sum _ { i = 1 } ^ { 3 } \\omega _ { i } = 1$ 。多UAV任务分配问题转换为求解式(6)所示最优问题)错误!未找到引用源。：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } { f } = \\sum _ { i = 1 } ^ { N u } \\left( \\sum _ { j = 1 } ^ { N t } ( \\omega _ { 1 } C _ { 1 } + \\omega _ { 2 } C _ { 2 } - \\omega _ { 3 } C _ { 3 } ) \\ d { x } _ { i j } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：决策变量 $x _ { i j }$ 为0-1变量， $x _ { i j } = 1$ 表示UAV $i$ 执行任务 $j$ 。约束条件如式(7)\\~式(9)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { N _ { u } } { x _ { i j } } \\le 1 , \\forall j \\in J\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { N _ { t } } { x _ { i j } } \\le L , \\quad \\ \\forall i \\in I\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { N _ { u } } \\sum _ { j = 1 } ^ { N _ { t } } \\chi _ { i j } \\leq N _ { \\operatorname* { m i n } } \\underline { { \\underline { { \\Delta } } } } \\operatorname* { m i n } \\{ N _ { t } , \\sum _ { i = 1 } ^ { N _ { u } } L i \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在上面所述的相关约束条件中，式(7)表示每一项指定的攻击任务只能由一架UAV去完成；式(8)指的是每架UAV所能执行的任务载荷限制的大小，比如一个UAV的任务载荷为3，那么该架UAV最多允许执行3个任务；式(9)表示的是整个机群能够执行任务的总量大小，也就是总共能够执行的任务数量的大小，通常这个约束条件都能够满足，可以保证每一个任务都能够被执行；UAV与目标的下标集合定义分别为 $I \\underline { { \\underline { { \\Delta } } } } \\{ 1 , 2 , . . . , N _ { _ u } \\}$ 和$J \\underline { { \\underline { { \\Delta } } } } \\{ 1 , 2 , . . . , N _ { t } \\}$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进的 PSO 算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1基本 PSO算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基本 PSO 算法的数学描述如下错误!未找到引用源。错误!未找到引用源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子群的初始种群规模定为 $M$ ，粒子维数为 $n$ 维，在 $t$ 时刻粒子 $i$ 在解空间的坐标定义为， $X _ { i } ^ { t } = ( ( x _ { i 1 } ^ { t } , x _ { i 2 } ^ { t } , . . . , x _ { i n } ^ { t } )$ ， $i = 1 , 2 , . . . , M$ ，其速度大小决定了粒子每次在解空间飞行距离大小，用$V _ { i } ^ { t } = ( \\nu _ { i 1 } ^ { t } , \\nu _ { i 2 } ^ { t } , . . . , \\nu _ { i n } ^ { t } )$ 表示，则粒子 $i$ 在时刻 $\\textit { t }$ 的第 $j ( j = 1 , 2 , . . . , n )$ 维空间中的速度以及位置更新公式如式(10)\\~(12)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } ^ { t } = \\omega \\nu _ { i j } ^ { t - 1 } + c _ { 1 } r _ { 1 } ( p _ { i j } - x _ { i j } ^ { t - 1 } ) + c _ { 2 } r _ { 2 } ( g _ { j } - x _ { i j } ^ { t - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\nu _ { i j } ^ { t } = \\left\\{ { \\begin{array} { r l } { \\nu _ { \\mathrm { m a x } } , } & { { } \\quad \\nu _ { i j } ^ { t } > \\nu _ { \\mathrm { m a x } } } \\\\ { - \\nu _ { \\mathrm { m a x } } , } & { { } \\quad \\nu _ { i j } ^ { t } < - \\nu _ { \\mathrm { m a x } } } \\end{array} } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ v x _ { i j } ^ { t } = \\ v x _ { i j } ^ { t - 1 } + \\ v \\nu _ { i j } ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\omega$ 为惯性权值（inertiaweight）， $c _ { 1 }$ 和 $c _ { 2 }$ 为加速因子（acceleration constants）， $r _ { \\mathrm { i } }$ 和 $r _ { 2 }$ 是在[0.1]内的两个随机数，粒子在解空间进行搜索的过程中，粒子的速度会被限定在一个最大的搜索范围之内，速度最大值用 $\\nu _ { \\mathrm { m a x } }$ 表示，限定粒子在搜索过程中的范围，改善算法性能。 $g _ { j }$ 表示迭代过程中群体的历史最优位置，即全局极值 $g _ { b e s t }$ ，而 $p _ { i j }$ 表示的则是粒子自身搜索过程中的最优位置，即个体极值 $p _ { b e s t }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 阶层分级的PSO算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PSO优化过程中，当代全体粒子的适应度值大小用集合$F = \\{ f _ { 1 , } f _ { 2 , } { . . . , f _ { m } } \\}$ 表示,其中 $m$ 代表粒子的总数， $f _ { i }$ 代表的是第i个粒子的适应度值大小。根据计算所得适应度值对全体粒子进行升序排列（此处适应度值越小代表粒子位置越优)，形成新的粒子序列集合 $X = \\{ x _ { 1 } , x _ { 2 } , . . . , x _ { m } \\}$ ，通过判断粒子距离第一个粒子距离的远近将种群划分为不同的三个阶层。设定全局最优粒子重新排序后的序列号为 $N X _ { g }$ ，具体的阶层分级策略如下详述：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)如果 $N X _ { g } \\leq N X _ { i } < M \\mathrm { ~ / ~ } 4$ ，那么表明粒子为上级阶层粒子。其中， $N X _ { i }$ 表示重新排序后第 $i$ 个粒子的序列号，M代表总的粒子数量，通过对粒子重新排序，粒子的序列号标志了其距离当前最优粒子的远近。对上级阶层粒子，其自身搜索已经处于最优值附近，随着算法不断迭代，粒子自身越来越靠近最优位置，这个时候整个群体的经验对于自身来说已经不具备太大的学习作用，所以粒子在迭代更新过程中忽略群体学习经验，主要考虑自身学习经验模型。对此，我们对于上级阶层粒子在原有速度更新公式上提出新的速度更新公式，适应粒子自身的特点，达到更好的搜索寻优的目的，上级阶层的粒子速度更新公式如式(13)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } ^ { t } = \\omega \\nu _ { i j } ^ { t - 1 } + c _ { 1 } r _ { 1 } ( p _ { i j } - x _ { i j } ^ { t - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $t$ 代表粒子的当前迭代次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)如果 $M \\mathrm { ~ / ~ } 4 \\le N X _ { _ i } \\le 3 M \\mathrm { ~ / ~ } 4$ ，那么表明粒子为中层阶级粒子。对于中层阶级的粒子，其自身的搜索位置处于优劣位置之间，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子在搜索过程中对于自身经验和群体经验都需要借鉴，所以，对于中层阶级粒子的速度更新方式保持标准PSO算法的速度更新公式不变如式(14)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } ^ { t } = \\omega \\nu _ { i j } ^ { t - 1 } + c _ { 1 } r _ { 1 } ( p _ { i j } - x _ { i j } ^ { t - 1 } ) + c _ { 2 } r _ { 2 } ( g _ { j } - x _ { i j } ^ { t - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)如果 $3 M / 4 < N X _ { i } \\leq N X _ { _ M }$ ，那么表明粒子为下层阶级粒子。对于下层阶级粒子，其搜索位置已经远远偏离了最优位置，自身搜索经验参考价值不大，所以对于下层阶级粒子速度更新方式，采用群体学习模型，其速度更新如式(15)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i j } ^ { t } = \\omega \\nu _ { i j } ^ { t - 1 } + c _ { 2 } r _ { 2 } ( g _ { j } - x _ { i j } ^ { t - 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，因为下层阶级粒子已经远远偏离了最优解的位置，为了能够让该层级的粒子能够和优秀粒子进行经验信息交流，让下层阶级的粒子和全局最优粒子以一定的概率 $p$ 进行交叉操作，促进粒子的信息交流。随机选择两个点 $^ { } | a , b _ { }$ ，满足$a , b \\in [ 1 , D ] , a < b$ ，其中 $D$ 表示粒子维数，交叉二者之间的维数形成新的粒子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PSO 算法在迭代后期容易失去多样性，算法陷入局部最优，为解决该问题，算法中引入随机扰动速度跳出局部陷阱。定义第 $i$ 个粒子到当前最佳粒子的维度距离为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { i } = \\frac { 1 } { d } \\sqrt { \\sum _ { j = 1 } ^ { d } ( x _ { i j } - x _ { g j } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(17)表示维度距离的标准差.",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV r = \\sqrt { \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } ( d _ { i } - \\overline { { d } } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\overline { d }$ 表示维度距离的期望值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当粒子的状态满足 $V r < \\Re$ 时（其中 $\\Re$ 为定义的标称值)，判定算法在迭代过程中已经陷入局部最优陷阱。此时给与一个随机速度扰动，帮助粒子摆脱局部最优，继续进行迭代搜索，随机扰动速度更新公式如式(18)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i j } ^ { t } = \\left\\{ \\begin{array} { c } { \\omega v _ { i j } ^ { t - 1 } + c _ { 1 } r _ { 1 } ( p _ { i j } - x _ { i j } ^ { t - 1 } ) + \\nu _ { i j } ^ { t - 1 } * r a n d ( ) , N X _ { g } \\leq N X _ { i } < \\displaystyle \\frac { M } { 4 } } \\\\ { \\qquad \\quad } \\\\ { \\omega \\nu _ { i j } ^ { t - 1 } + c _ { 1 } r _ { 1 } ( p _ { i j } - x _ { i j } ^ { t - 1 } ) + c _ { 2 } r _ { 2 } ( g _ { j } - x _ { i j } ^ { t - 1 } ) + \\nu _ { i j } ^ { t - 1 } * r a n d ( ) , \\displaystyle \\frac { M } { 4 } < N X _ { i } \\leq \\displaystyle \\frac { 3 M } { 4 } } \\\\ { \\qquad \\omega v _ { i j } ^ { t - 1 } + c _ { 2 } r _ { 2 } ( g _ { j } - x _ { i j } ^ { t - 1 } ) + \\nu _ { i j } ^ { t - 1 } * r a n d ( ) , \\displaystyle \\frac { 3 M } { 4 } < N X _ { i } \\leq N X _ { M } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结合本文改进策略的特点，选取独立惯性权重调节粒子全局与局部寻优能力，如式(19)所示错误!未找到引用源。。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega _ { i } = \\omega _ { s t a r t } - ( \\omega _ { s t a r t } - \\omega _ { e n d } ) ^ { * } ( \\frac { t } { N } ) ^ { \\kappa _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\omega _ { s t a r t }$ 为初始权重值， $\\omega _ { e n d }$ 为结束权重值； $\\kappa _ { i }$ 为指数变化因子，计算方式如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa _ { i } = \\phi + \\eta ^ { * } \\frac { \\arctan ( \\log \\frac { f i t ( x _ { i } ) } { f i t _ { a \\nu } } ) } { \\pi }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { \\phi } _ { \\phi , \\eta }$ 为固定常量， $f i t ( x _ { i } ) , f i t _ { a \\nu }$ 分别代表粒子 $i$ 的适应度值和平均适应度值。通过对数据进行数学变换取值是为了数据尽量满足假设，并且让波动相对稳定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 HGIWPSO算法求解任务分配问题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1算法性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用测试函数来测试算法性能，标准测试函数如表1所示误!未找到引用源。。实验通过统计适应度误差值的均值与标准差以及研究适应度值随迭代次数的变化曲线来评价算法改进后的优化性能，取500次的平均值，仿真实验结果如下所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/60f7d61e01536d4b49f2c29a707b9672ec5b19d25e0acf77e8d6a2029c46a3b4.jpg",
+        "table_caption": [
+            "表1实验采用的测试函数及其相关属性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>表达式</td><td>初始化范围</td></tr><tr><td>Sphere</td><td>f1(x）=x²</td><td>[-100,50]</td></tr><tr><td>Rosenbrock</td><td>f2(x)=∑(00(xit-x²)²)+(x-1)²</td><td>[-2.048,2.048]</td></tr><tr><td>Ackley</td><td>f3(x)=e+20-20exp(-0 1 ∑cos(2πx)) D台</td><td>[-32.768,16]</td></tr><tr><td>Griewank</td><td>f4(x)= cos( Xi )+1 i=1 √i 4000台</td><td>[-600,200]</td></tr><tr><td>Rastrigin</td><td>f5(x)=∑(x² -10cos(2πx) +10)</td><td>[-5.12,2]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/75dd9c6c55ae281f273fe6e41871dbecf27c86a09fd4f7e2d6393c1a99ce23fc.jpg",
+        "table_caption": [
+            "表2算法对比数据(10 维)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">测试函数</td><td>PSO</td><td>SAPSO</td><td>CLSPSO</td><td>HGIWPSO</td></tr><tr><td rowspan=\"2\">f1</td><td>mean</td><td>0.0098</td><td>4.3384e-14</td><td>7.6352e-59</td><td>6.1328e-99</td></tr><tr><td>std</td><td>0.0278</td><td>3.0633e-13</td><td>5.3983e-58</td><td>4.0220e-98</td></tr><tr><td rowspan=\"2\">f2</td><td>mean</td><td>7.1355</td><td>0.6437</td><td>0.7973</td><td>0.5267</td></tr><tr><td>std</td><td>2.0210</td><td>1.4863</td><td>1.6105</td><td>1.3520</td></tr><tr><td rowspan=\"2\">f3</td><td>mean</td><td>2.3077</td><td>0.7969</td><td>1.5510</td><td>0.6543</td></tr><tr><td>std</td><td>0.9419</td><td>0.8525</td><td>0.8652</td><td>0.8252</td></tr><tr><td rowspan=\"2\">f4</td><td>mean</td><td>0.1649</td><td>0.1404</td><td>0.1603</td><td>0.1376</td></tr><tr><td>std</td><td>0.1090</td><td>0.0709</td><td>0.0876</td><td>0.0833</td></tr><tr><td rowspan=\"2\">f5</td><td>mean</td><td>12.4199</td><td>8.8153</td><td>16.3571</td><td>6.7856</td></tr><tr><td>std</td><td>4.8183</td><td>4.5882</td><td>7.0616</td><td>2.8898</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0f5d283e05142c8054d9863fb55f410ba8bd673c01af3a5cc96b3846273fb78.jpg",
+        "table_caption": [
+            "表3算法对比数据(30 维)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">测试函数</td><td>PSO</td><td>SAPSO</td><td>CLSPSO</td><td>HGIWPSO</td></tr><tr><td rowspan=\"2\">f1</td><td>mean</td><td>4.7752e+02</td><td>2.4555</td><td>0.0338</td><td>0.0118</td></tr><tr><td>std</td><td>1.8189e+02</td><td>1.2729</td><td>0.4943</td><td>0.1705</td></tr><tr><td rowspan=\"2\">f2</td><td>mean</td><td>1.5298e+02</td><td>29.8197</td><td>12.3050</td><td>3.1052</td></tr><tr><td>std</td><td>59.5632</td><td>9.4281</td><td>16.8979</td><td>4.2535</td></tr><tr><td rowspan=\"2\">f3</td><td>mean</td><td>8.8051</td><td>3.6526</td><td>6.5942</td><td>2.8480</td></tr><tr><td>std</td><td>1.1737</td><td>0.8119</td><td>1.3359</td><td>0.6245</td></tr><tr><td rowspan=\"2\">f4</td><td>mean</td><td>1.3858</td><td>0.0926</td><td>0.0389</td><td>0.0144</td></tr><tr><td>std</td><td>0.1493</td><td>0.0434</td><td>0.0285</td><td>0.0141</td></tr><tr><td rowspan=\"2\">f5</td><td>mean</td><td>89.2660</td><td>71.4109</td><td>96.5783</td><td>54.3095</td></tr><tr><td>std</td><td>16.3387</td><td>20.2922</td><td>25.0982</td><td>15.3889</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9e37666fa193b695bd5415a53bcec278b99244fe9472c86d5738c4f1d487253.jpg",
+        "img_caption": [
+            "图1Sphere 函数收敛对比曲线(10 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf1696d00f78629c2828ac50f1e77cd4f1ff591f5478b51044c89f9776d0fefc.jpg",
+        "img_caption": [
+            "图2Sphere 函数收敛对比曲线(30 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/be5ddf5a65f21833d3c5ff4f138dce4670d0bb411f4eb2180ae31000f3100810.jpg",
+        "img_caption": [
+            "图3Rosenbrock 函数收敛对比曲线(10 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c05d7b1b25cce9d707bc1f389c2a0d709707fb941627319f32089a9e2c566974.jpg",
+        "img_caption": [
+            "图5Ackley 函数收敛对比曲线(10 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2af1e7f6b27a21b5a28117be2c32080165c2d313b66e826cdc864580b4fe3de9.jpg",
+        "img_caption": [
+            "图7Griewank 函数收敛对比曲线(10 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1d8099f21898cfb241df83a2f6b0c2386fdcba08ab88aee9ade4b4f29bcc239.jpg",
+        "img_caption": [
+            "图9Rastrigin 函数收敛对比曲线(10 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图表数据可以很明显地看出，不管是对于高维情况还是低维的情况，HGIWPSO 算法相比于其他对比改进算法能够跳出局部最优位置，取得更好的优化精度，较好的收敛速度。误差和均方差均优于其它的改进算法，相比其他算法具有更好的性能，证明改进的可行性和有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2HGIWPSO 算法实现任务分配 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用实数编码方式进行编码。设定被攻击任务目标的数量等于粒子维数，粒子的整数部分用来标志执行任务的UAV编号，相同的整数部分则代表着一架UAV执行任务的编码序列，小数部分以升序排列决定UAV执行攻击任务的先后次序。同时引入拍卖机制优化减少非法劣解，保证负载约束条件能够满足。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/009cf2e67ba9a39c5fba49db7e4be5fd6db96ff60c730b2cd868c31151644047.jpg",
+        "img_caption": [
+            "图4Rosenbrock 函数收敛对比曲线(30 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce157419b3b9c0c0a2f19037e6e0c483918be1cf87c3c164945c79579f7237e4.jpg",
+        "img_caption": [
+            "图6Ackley 函数收敛对比曲线(30 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6be66651916b8cca938f1ed70edb3b38280b7d4b403ec9f2d410fb35d5b313fe.jpg",
+        "img_caption": [
+            "图8Griewank 函数收敛对比曲线(30 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ab111ba61388f1c37be7403dbf264e97f34c9341e2ee31f939acd2620077769.jpg",
+        "img_caption": [
+            "图10Rastrigin 函数收敛对比曲线(30 维)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "加入拍卖机制的任务分配算法执行流程如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)初始化粒子群；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)对初始化粒子进行解码，如果满足约束条件则转到下一步，如果不满足则按照拍卖算法的任务协调分配方法进行调整修正，重新编码粒子，更新粒子位置；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "c)计算各个粒子的适应度值；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "d)更新粒子速度和位置；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "e)判断收敛准则是否成立，如果成立，给出分配方案，算法结束，如果不成立转入b)继续执行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "给出三架执行任务的无人机以及需要被执行攻击任务的目标参数如表4和5所示错误！未找到引用源。错误！未找到引用源。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/da7fc4a8e908e3594592b18702612fdc85d13221ac9c6021d50d274ad9fad6d1.jpg",
+        "table_caption": [
+            "表4目标参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标编号</td><td>位置</td><td>价值</td><td>杀伤概率</td></tr><tr><td>T1</td><td>(55，50)</td><td>20</td><td>0.50</td></tr><tr><td>T2</td><td>(60，70)</td><td>20</td><td>0.55</td></tr><tr><td>T3</td><td>(65，30)</td><td>40</td><td>0.60</td></tr><tr><td>T4</td><td>(75，20)</td><td>100</td><td>0.85</td></tr><tr><td>T5</td><td>(80，50)</td><td>40</td><td>0.70</td></tr><tr><td>T6</td><td>(78，70)</td><td>50</td><td>0.75</td></tr><tr><td>T7</td><td>(75，90)</td><td>30</td><td>0.80</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdb671d91ce565d6306d312de79f0aa83c4e9dd6b845cdeaf6423b98283ad2af.jpg",
+        "table_caption": [
+            "表5无人机参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>位置</td><td>价值</td><td>任务载荷</td><td>杀伤概率</td></tr><tr><td>UAV1</td><td>(15，45)</td><td>50</td><td>3</td><td>0.60</td></tr><tr><td>UVA2</td><td>(20，50)</td><td>60</td><td>4</td><td>0.70</td></tr><tr><td>UAV3</td><td>(15，55)</td><td>40</td><td>2</td><td>0.80</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为验证算法在任务分配应用中的有效性，进行仿真对比实验。算法进行仿真实验时参数如下：种群大小为40，粒子维度为7维，最大迭代次数300，战术权重分别取(0.2.0.4.0.4)，固定常量分别取0.73和1.02，惯性权重最大值和最小值分别为0.9 和0.4。取50次结果的平均值，仿真实验结果如下所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6d6f733b6d258f8184c28854cd6e23cfa5d2936d7e92cf3005cd5497838a277.jpg",
+        "table_caption": [
+            "表6任务分配结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>无人机</td><td>任务分配计划</td></tr><tr><td>UAV1</td><td>T3—T6-T2</td></tr><tr><td>UAV2</td><td>T5-T1</td></tr><tr><td>UAV3</td><td>T4-T7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/431bfd1a6d2f0d6e5ce42aaa9e9bb199a75d01d52e87d9c0bb9e962a6a349299.jpg",
+        "img_caption": [
+            "图11代价函数随迭代次数变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由上图仿真结果可以看出，随着算法迭代的不断进行，执行任务的总体代价在不断的下降。并且由图中的对比实验可以看出，PSO 算法、SAPSO 算法、CLSPSO 算法分别在200\\~250代左右陷入局部最优，而本文提出的改进算法在UAV任务分配中，更具有优势，能够跳出局部位置，最终寻找到最优位置(2.7473，1.8132，1.4449，3.6773，2.7441，1.7111，3.8870)让执行任务的总代价最小为0.8433，得出最优分配方案如表6所示。并且在170代左右就成功收敛到最优位置，收敛速度较快。证明本文提出的改进算法应用于多UAV协同任务分配上面效果较好，改进策略可行，具有一定理论和实际意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文针对多UAV协同任务分配复杂多耦合的特性，给出可行建模方案，简化问题进行求解。采用阶层分级策略并结合独立权重的改进PSO算法很好的解决了任务分配问题。改进算法采用阶层分级和独立权重思想，不同于现有的改进策略，大多针对整个群体，而是通过阶层分级充分体现不同阶层粒子的特性，并由独立权重策略平衡个体粒子全局以及局部搜索能力，能够很好的增强粒子的多样性，让粒子能够更加容易跳出局部最优，加快搜索速率，很好的弥补了算法的缺陷，并相对于现阶段相关改进算法效果更为显著。将改进算法用于求解多UAV协同任务分配问题，采用实数编码方式降低问题的求解难度，并通过负载竞拍方式解决实际负载约束问题，取得较好的效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Zorlu O.Routing unmanned aerial vehicles as adapting to capacitated vehicle routing problem with genetic algorithms [Cl//Proc of International Conference on Recent Advances in Space Technologies.2O15: 675-679.   \n[2]Kim M H,Baik H,Lee S.Response threshold model based uav search planning and task allocation [J]. Journal of Intelligent & Robotic Systems, 2014,75 (3-4): 625-640.   \n[3]叶媛媛，闵春平，朱华勇，等．基于整数规划的多UCAV任务分配问题 研究[J].信息与控制，2005，34(5):548-552.(Ye Yuanyuan，Min Chunping,Zhu Huayong,etal.Research on multi UCAV task allocation based on integer programming [J]. Information and Control, 2Oo5,34 (5): 548-552.)   \n[4] 张庆杰．基于一致性理论的多UAV 分布式协同控制与状态估计方法 [D].长沙：国防科学技术大学，2011.(ZhangQinjie.Multi UAV distributed cooperative control and state estimation method based on consistency theory [D]. Changsha: National University of Defense Science and Technology,2011.)   \n[5]Schumacher C,Chandler PR,Rasmussen S J,et al. Task allocation for wide area search munitions with variable path length [C]// Proc of the American Control Conference.2003:3472-3477.   \n[6]于莹莹，陈燕，李桃迎．改进的遗传算法求解旅行商问题[J].控制与 决策，2014,29 (8):1483-1488.(Yu Yingying,Chen Yan,Li Taoying，. Improved genetic algorithm for traveling salesman problem [J]. Information and Control,2014,29(8):1483-1488.)   \n[7] 刘全，王晓燕，傅启明，等．双精英协同进化遗传算法[J].软件学报, 2012,23 (4): 765-775.(Liu Quan,Wang Xiaoyan,Fu Qiming,etal. Double ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "elitist coevolutionary genetic algorithm [J]. Journal of Software,2O12,23 (4): 765-775.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]金敏，鲁华祥．一种遗传算法与粒子群优化的多子群分层混合算法[J]. 控制理论与应用,2013,30(10):001231-1238.(Jin Ming,Nu Huaxiang.A multi subgroup hierarchical hybrid algorithm based on genetic algorithm and particle swarm optimization [J].Control Theory and Application,2013, 30 (10):001231-1238.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]王磊，郭顺生，李西兴，等．基于改进蚁群算法的多主体制造资源配置 冲突协调方法[J].计算机集成制造系统，2017（12）.（WangLei,Guo Shunsheng,Li Xixing,etal.Conflict coordination method of multi-agent manufacturing resource allocation based on improved ant colony algorithm [J]. Computer Integrated Manufacturing System,2O17(12) .) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]冯金芝，陈兴，郑松林．一种改进的多目标粒子群优化算法及其应用 [J].计算机应用研究，2014,31(3):675-678.(Feng Jinzhi,Chen Xing, Zheng Songlin.An improved multi-objective particle swarm optimization algorithm and its application [J].Application Research of Computers,2014, 31 (3): 675-678.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11]王曙燕，杨悦，孙家泽．基于改进粒子群算法的变异体选择优化[J]. 计算机应用研究,2017,34(3):752-755.(Wang Shuyan,Yang Yue,Sun Jiangze.Optimization of variant selection based on Improved Particle Swarm Optimization Algorithm [J].Application Research of Computers, 2017,34 (3): 752-755.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12]Hua-WeiMA,FanFW,Xiao-XuanHU,etal.SolvingtheMulti-Truck and Single Trailer Routing Problem Based on Tabu Search Algorithm [J]. Chinese Journal of Management Science,2016. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13] Shima T,Rasmussen SJ,Sparks AG,et al.Multiple task assignments for cooperating uninhabited aerial vehicles using genetic algorithms [J]. Computers& Operations Research,2006,33(11):3252-3269. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14] Zhang Y Z,LiJW,Hu B,et al.An improved PSO algorithm for solving multi-UAV cooperative reconnaissance task decision-making problem [C]// Proc of IEEE International Conference on Aircraft Utility Systems.2016: 434-437. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15]孙小雷，齐乃明，董程，等．无人机任务分配与航迹规划协同控制方法 [J]．系统工程与电子技术，2015，37(12):2772-2776.(Sun Xiaolei,Qi Naiming,Dong Chen,etal.Cooperative control method for UAV mission allocation and route planning [J]. System Engineering and Electronic Technology,2015,37(12): 2772-2776.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16]杜继永，张凤鸣，杨骥，等．多UCAV协同任务分配模型及粒子群算法 求解[J].控制与决策，2012,27(11):1751-1755.(Du Jiyong，Zhang Fengming,Yang Ji,et al.Multi UCAV cooperative task allocation model and particle swarm optimization algorithm [J]. Control and Decision, 2012, 27 (11): 1751-1755.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17] Masdari M, Salehi F,Jalali M,et al.A survey of PSO-based scheduling algorithms in cloud computing [J].Journal of Network & Systems Management,2017,25(1):122-158. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]刘振，周先存．基于独立权重和分级变异策略的粒子群算法[J]．吉林 大学学报：理学版，2017,55(2):333-339.(Liu Zheng，Zhou Xiancun. Particle swarm optimization algorithm based on independent weight and hierarchical mutation strategy [J]. Journal of Jilin University,2O17,55 (2): 333-339.) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19]Dogan B,Olmez T.A new metaheuristic for numerical function optimization:Vortex Search algorithm[J].Information Sciences,2O15,293: 125-145. ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "type": "text",
+        "text": "内毒素对猪的危害及其控制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "汪志董国忠\\* 吴剑波 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西南大学动物科技学院，重庆市牧草与草食家畜重点实验室，重庆 400716)摘要：内毒素又称脂多糖，是革兰氏阴性菌细胞壁的成分，在细菌的生长期和稳定期以及细菌死亡溶解时都会被释放出来。在实际养猪生产中，空气和饲料中的内毒素以及疾病诱导产生的内毒素均能对猪只健康及生产性能产生不利影响。本文就内毒素的来源、内毒素对猪健康和生产性能的影响，以及内毒素的控制措施进行综述，为减少养猪生产中内毒素的危害提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：猪；内毒素；来源；危害；控制中图分类号：S828 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内毒素又称脂多糖（LPS），是革兰氏阴性菌细胞壁的组成成分，在细菌生长期和稳定期以及细菌死亡崩解时会被释放出来[1]。内毒素分子结构分为多糖和磷脂两部分。多糖部分由特异O链条和核心区组成[2]。特异O链条又叫O抗原，是决定内毒素分子抗原性所在的区域。核心区分为外核区和内核区，与内核区相连的磷脂部分又叫脂质A，脂质A决定了内毒素分子的毒性。内毒素耐热且稳定，其化学本质不是蛋白质，在 $1 0 0 ^ { \\circ } \\mathrm { C }$ 下加热1h也不会被破坏，只有在 $1 6 0 ^ { \\circ } \\mathrm { C }$ 或更高的温度下加热 $2 { \\sim } 4 \\mathrm { h }$ ，或用强碱、强酸、强氧化剂加热煮沸$3 0 \\mathrm { m i n }$ 才能破坏它的生物活性。而且内毒素不能经甲醛处理变成类毒素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "革兰氏阴性菌在环境中普遍存在，因此内毒素在土地、空气和水中处处都有。此外，在一些规模化猪场中细菌病常年发生，当采用大剂量的抗生素治疗时会使得革兰氏阴性菌死亡，进而释放出大量内毒素[3]。内毒素对猪可产生广泛的损害，包括发热、败血性休克、厌食、炎症反应、组织损伤及生产性能下降等[4。近年来，关于内毒素对反刍动物的影响已有较多综述，而关于内毒素对猪的危害综述较少。本文着重阐述内毒素的来源、内毒素对猪健康和生产性能的影响及其控制措施，为减少养猪生产中内毒素的危害提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1内毒素的来源",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1圈舍空气中的内毒素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空气是人类和动物赖以生存的外界条件之一，也是影响猪舍中猪只健康的重要因素。人类和猪只活动及其他原因，使得猪舍空气中漂浮很多的尘埃、微生物，一些细菌释放出来的内毒素也会以一种相对稳定的形式存在于空气中。猪舍空气中内毒素含量与空气中尘埃含量密切相关，且猪舍空气中尘埃的组成成分变化很大，可能包括一些微生物及其细胞壁成分、干的粪尿、皮屑、谷物中的螨虫、孢子、花粉、饲料和垫草颗粒等[5。空气尘埃可以作为细菌内毒素的传播载体，使其能够被猪只吸入肺部深处，从而对猪体造成不利影响。猪舍空气中尘埃及内毒素的含量受猪和人活动水平、猪舍中机械通风率、空气湿度、饲料的物理特性及猪舍漏板种类等因素的影响。猪和人活动水平的升高、机械通风率的升高和猪舍相对湿度下降均能导致猪舍空气中内毒素和尘埃含量的升高[5。另外，饲喂液体或颗粒饲料的猪舍空气中尘埃和内毒素含量比饲喂粉料的猪舍低；使用塑料漏板的猪舍空气中尘埃和内毒素含量低于水泥漏板猪舍。目前，对于影响猪只健康的空气中内毒素含量阈值尚不十分清楚。有研究发现，波兰东部猪场空气中尘埃含量在 $3 . 0 3 { \\sim } 1 4 . 0 5 ~ \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，内毒素含量在 $1 . 8 8 \\sim 7 5 . 0 \\$ $\\mu \\mathrm { g } / \\mathrm { m } ^ { 3 }$ ，超过了内毒素安全阈值（ $\\mathrm { [ 0 . 1 \\mu g / m ^ { 3 } } )$ 的 $1 8 . 8 \\sim 7 5 0 \\$ 倍[6]；也有研究表明，影响猪只健康的猪舍空气中内毒素含量阈值是1540 内毒素单位（EU) $/ \\mathrm { m } ^ { 3 }$ ，大多数卫生条件较差，环境控制不理想的猪舍空气中内毒素含量均高于此数值[7]。由于猪舍空气中内毒素含量受环境影响较大，因此其变异范围也较大，猪舍空气中内毒素对猪的不利影响是不容忽视的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲料中的内毒素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于环境因素和生产工艺等各种因素的影响，饲料中或多或少会含有一定量的内毒素[8]。并且，越来越多的饲料添加剂由革兰氏阴性菌发酵生产，尤其是大肠杆菌在饲料添加剂的生产中应用较广泛。目前，大肠杆菌K-12在很多方面被认为是安全的，虽然其内毒素与其他菌株相比毒力较小，但也有相当于野生型菌株内毒素四分之一的活性9]，因此，通过大肠杆菌 K-12 生产的饲料添加剂中可能会混入其内毒素从而对动物产生潜在危害。Cort 等[10]的研究表明，猪饲料中平均内毒素浓度为 $1 3 \\mathrm { m g / k g }$ ，最大浓度为 $6 0 \\mathrm { m g / k g }$ 。但有证据表明，在健康猪饲粮中添加高剂量的内毒素不会引起猪的临床症状；在小鼠上的研究也发现口服高剂量的大肠杆菌内毒素对小肠结构和细胞增殖没有显著作用[12]。Taniguchi 等[13]的研究也发现口服高剂量的单一内毒素对小鼠没有不良作用，连续28d给予重复剂量的内毒素后没有在小鼠体内发现肝中毒、肾中毒、炎症以及体重下降的证据。可见，健康动物的肠道能够耐受一定数量的内毒素，正常、健康的动物通过口腔采食进入的内毒素所造成的危害较小，因此给健康猪饲喂通过革兰氏阴性菌发酵生产的饲料添加剂中内毒素含量不超过正常饲料原料中的含量时，猪只将不会受到显著影响。但如果猪发生应激或消化道功能紊乱时，则其胃肠道的屏障功能会降低，胃肠道中的内毒素会过多进入体内并引起猪的病理变化[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 疾病来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 便秘 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "妊娠母猪便秘是养猪生产中常见问题之一，便秘也是导致内毒素进入猪体增多的原因之一。导致妊娠母猪发生便秘的因素有很多，母猪每天饲喂量和饲粮中纤维含量大幅度下降、饮水不充足、热应激及缺乏运动等均易导致母猪发生便秘[15-16]。并且，由于分娩这一生理过程的到来会使得母猪肠道活力减弱，肠道蠕动减缓，因此临产母猪比怀孕母猪和泌乳母猪更容易便秘[17]。当母猪发生便秘时，肠道菌群会发生异常变化，类杆菌数量会显著增加，乳酸菌和梭菌数量会显著降低，并且可能会诱导内毒素的产生和肠道黏膜屏障系统的损伤，导致进入机体的内毒素含量升高，进而产生一系列炎症反应，严重时会导致猪体死亡[18]。也有研究表明，由于发生便秘时，食糜在消化道中停留的时间延长，肠道微生物的繁殖增多，使得内毒素的释放和吸收增多，最终导致产后母猪乳腺炎、子宫炎以及泌乳障碍等疾病[15]。因此，便秘是导致猪体内毒素升高不可忽视的因素之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 腹泻 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "腹泻是猪场中仔猪容易发生的常病，尤其是断奶仔猪更易发生腹泻。断奶仔猪发生腹泻的原因很多，早期断奶应激会造成仔猪肠道的适应性发生剧烈改变，肠道消化机能受损，最终导致仔猪腹泻甚至死亡[19]。Kiers 等[20]报道，早期断奶仔猪消化功能不健全，对饲料养分消化率较低，机体对饲料中的抗原物质可能产生过敏反应，最终导致仔猪发生腹泻。Li 等[21]研究了豆粕中的多种抗营养因子(如胰蛋白酶抑制因子、大豆凝血素和抗原蛋白等)，发现这些抗营养因子可导致仔猪肠道上皮细胞通透性增加和黏膜水肿，加快隐窝细胞生长速度，使肠绒毛萎缩脱落和消化吸收面积减少而导致腹泻。由于仔猪的体温调节机能不健全，当保温不当时，仔猪免疫力下降，造成仔猪腹泻[22]。仔猪发生腹泻会导致仔猪肠上皮细胞充血、出血和水肿，肠绒毛损坏、脱落等，使得肠道结构发生改变，甚至被严重破坏[23]。与此同时，仔猪应激性腹泻会导致肠道菌群发生显著改变，主要表现为乳杆菌等优势菌群的数量显著降低，大肠杆菌等有害菌的数量显著升高[24]。这两方面的改变使肠道微生态屏障遭到破坏，更进一步加重了仔猪腹泻。有害微生物数量的增多和仔猪肠道屏障的破坏会使得肠道中内毒素的含量以及进入机体的内毒素含量增多[25]，进而对猪体产生进一步的损害。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2内毒素对猪的影响  \n2.1 对呼吸系统的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空气中内毒素含量与猪呼吸系统的健康状况密切相关。空气中内毒素能够在一定程度上影响猪的呼吸系统。Donham[7对瑞典南部 28个猪场进行研究时发现，猪场空气中内毒素含量与猪的肺炎、胸膜炎以及新生仔猪的死亡有一定相关性。Thom 等[26的研究发现，空气中的内毒素会诱导中毒性肺炎的发生。也有研究表明，猪舍空气中的内毒素和尘埃会导致猪呼吸道功能紊乱和猪鼻黏膜受损[27]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 对生产性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内毒素进入猪体后能够产生一系列免疫应答，最终对猪的生产性能造成影响。生产性能卜降可能有两方面原因：一是内毒素进入猪体引起免疫应答后会使得猪体发热，并且促炎性细胞因子增多，导致猪的采食量减少[28]；二是内毒素引起的免疫级联反应会改变动物体内的代谢过程，代谢过程的改变会导致用于生长的一部分营养物质重新分配到免疫系统，进而导致机体的生长速度减慢和饲料利用率下降[29]。Liu 等[28]的研究表明，受内毒素感染的猪相对于对照组，白细胞介素（IL) $- 1 \\beta$ 、前列腺素E2、皮质醇、胰岛素样生长因子-1的含量都大大升高，日增重下降了 $1 3 \\%$ ，日采食量下降了 $1 2 . 8 \\%$ 。Chen 等[30]对断奶仔猪按 $2 0 0 ~ \\mu \\varrho / \\ k \\mathrm { g }$ （204号体重的剂量肌肉注射LPS，与对照组相比，LPS 注射组的断奶仔猪日采食量降低了 $28 \\%$ ，日增重降低了 $43 \\%$ ，饲料转化效率降低了 $2 1 \\%$ 。内毒素诱导的免疫反应对动物体代谢的改变主要是能够影响蛋白质的合成与分解代谢。Chen 等[30]的氮平衡试验也表明，相比于对照组，LPS 注射组的氮摄入量下降了 $2 7 \\%$ ，氮沉积率下降了 $45 \\%$ ，氮的表观消化率下降 $9 \\%$ 。有研究表明，感染内毒素后骨骼肌蛋白质分解率上升，其原因可能是为了满足急性期蛋白合成时对于氨基酸的需要[31]。另外，内毒素诱导产生的炎性细胞因子如 IL-6、IL-1 和肿瘤坏死因子（TNF) $- \\alpha$ 能够通过降低合成代谢激素如生长激素和胰岛素样生长因子的释放和增加分解代谢激素如糖皮质激素的释放来减少蛋白质的合成，增加其分解[32]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 对肾脏钠钾ATP酶的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "猪感染内毒素后会引发系统性免疫应答，使体内促炎性细胞因子如TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 、干扰素-γIL-6 和IL-1的表达量增多[33]。肾脏近曲小管上皮细胞中存在诱生型一氧化氮合酶(iNOS)[34],肾脏上皮细胞在这些促炎性细胞因子的刺激下会激活iNOS的表达，进而产生一氧化氮(NO)[35]。产生的NO 有扩张血管的作用，能使肾血压下降和肾小球滤过率下降[36]。NO 和过氧化物经过1个双自由基加成反应会产生1个强氧化物过氧亚硝酸根离子（ONOO-）[37]，钠钾ATP 酶对游离自由基和膜脂质的过氧化作用很敏感，ONOO-能够通过对肾脏近端小管中钠钾 ATP 酶活性中心的巯基的氧化作用来抑制其活性[38]。另外，内源性 NO 能够对肾脏中钠钾 ATP 酶的活性产生直接的抑制作用，造成近曲小管的氧化性损伤，进而导致近曲小管的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "重吸收能力降低[39]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3内毒素的控制措施",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1肠道碱性磷酸酶对内毒素的去磷酸化作用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肠道碱性磷酸酶是一种重要的刷状缘顶端上的酶。在整个炎症反应期，上皮细胞能够增加肠道碱性磷酸酶的表达进而修饰由微生物所产生的促炎介质。例如，肠道碱性磷酸酶能够使革兰氏阴性菌外膜上的内毒素去磷酸化，从而降低内毒素的毒性[40]。因此，肠道碱性磷酸酶能够抑制胃肠道的炎症级联反应，进而抑制细菌的移位[41]。然而，仔猪断奶后饲料适□性和消化率的改变会导致采食量的下降，肠道形态和生理上的改变会导致刷状缘顶端的肠道碱性磷酸酶的活性和表达量下降[42]。但有研究发现，一些饲料添加剂如丁酸钠、锌能够促进肠道碱性磷酸酶的表达和激活[43]。Prakash 等[44]的试验也证明，丁酸钠能够上调肠道碱性磷酸酶的表达。Kim 等[45]报道了锌在促进肠道碱性磷酸酶表达中的作用，指出锌诱导肠道碱性磷酸酶的超表达可能会有助于提高肠道健康。因此，可以通过在饲料中添加一些如丁酸钠和含锌饲料添加剂来增强肠道碱性磷酸酶的表达，从而降低内毒素对机体所造成的危害。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2喷洒植物油降低空气中内毒素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "空气中尘埃浓度和内毒素含量密切相关，猪舍中喷洒植物油能够降低尘埃和内毒素的含量。在猪舍中喷洒菜籽油可减少猪舍空气中 $8 6 \\%$ 的总尘埃量以及猪舍空气中 $8 2 . 5 \\%$ 的总内毒素含量[46]。Nonnenmann 等[47]报道，喷洒大豆油的肥育猪舍中可吸入尘埃的浓度是 0.65$\\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ，而对照组猪舍是 $1 . 3 9 \\mathrm { m g } / \\mathrm { m } ^ { 3 }$ ；相对于对照组，可吸入尘埃的浓度下降了 $54 \\%$ ，并且空气中内毒素的含量也显著下降。但此方法由于经济成本较高，在实际生产中难以推广。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3加强饲养管理，减少疾病的发生",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，热应激导致体温的上升可能会抑制肠黏膜上皮紧密连接蛋白的表达[48],进而增加黏膜上皮的通透性，导致更多的内毒素进入血液。因此，应加强环境控制，搞好环境卫生，避免发生热应激，以控制猪体内毒素含量的升高。另外，便秘、腹泻等疾病的发生均可能导致肠道中内毒素增加和肠道黏膜屏障损伤，进而肠道中内毒素进入机体增多[18,25]。因此维持猪肠道微生物区系的平衡，增强肠道健康，减少便秘、腹泻等疾病的发生，能够有效控制猪体内毒素的含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，圈舍环境、饲料、疾病等因素均能够造成猪体内内毒素含量的上升。内毒素可对猪的呼吸系统、肾脏中钠钾 ATP 酶以及生产性能造成不利影响。在猪生产中可采取一系列措施如提高肠道碱性磷酸酶活性、在猪舍中喷洒植物油、加强饲养管理、减少疾病等来减少猪体内内毒素的增加，以提高猪只的健康水平以及生产性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] WELLS JE,RUSSELL JB.The effect of growth and starvation on the lysis of the ruminal cellulolytic bacterium Fibrobacter succinogenes[J].Applied and Environmental Microbiology,1996,62(4):1342-1346. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] PLAIZIER J C,KHAFIPOUR E,LI S,et al.Subacute ruminal acidosis (SARA),endotoxins and health consequences[J].Animal Feed Science and Technology,2012,172(1/2):9-21.   \n[3] 王宏艳,严晗光,徐玉花.猪内毒素的综合防治方案研究[J].畜禽业,2015(5):31-32.   \n[4] WEBEL D M,FINCK B N,BAKER D H,et al.Time course of increased plasma cytokines,cortisol,andureanitrogeninpigsfollowingintraperitonealinjectionof lipopolysaccharide[J].Journal of Animal Science,1997,75(6):1514-1520.   \n[5] PEDERSEN S,NONNENMANN M,RAUTIAINEN R,et al.Dust in pig buildings[J].Journal of Agricultural Safety and Health,2000,6(4):261-274.   \n[6] DUTKIEWICZ J,POMORSKI Z J H,SITKOWSKA J,et al.Airborne microorganisms and endotoxin in animal houses[J].Grana,1994,33(2):85-90.   \n[7] DONHAM K J.Association of environmental air contaminants with disease and productivity in swine[J].American Journal of Veterinary Research,1991,52(10):1723-1730.   \n[8] LUCHI M,MORRISON D C.Comparable endotoxic properties of lipopolysaccharides are manifestindiverseclinicalisolatesofgram-negativebacteria[J].Infectionand Immunity,2000,68(4):1899-1904.   \n[9] SVENSSON M,HAN L,SILFVERSPARRE G,et al.Control of endotoxin release in Escherichia coli fed-batch cultures[J].Bioprocess and Biosystems Engineering,2005,27(2):91-97.   \n[10] CORT N,FREDRIKSSON G,KINDAHL H,et al.A clinical and endocrine study on the effect of orally administered bacterial endotoxin in adult pigs and goats[J].Journal of Veterinary Medicine: Series A,1990,37(1/2/3/4/5/6/7/8/9/10):130-137.   \n[11] OKETANI K,INOUE T,MURAKAMI M.Effect of E3040,an inhibitor of 5-lipoxygenase and thromboxane synthase,on rat bowel damage induced by lipopolysaccharide[J].European Journal of Pharmacol0gy,2001,427(2):159-166.   \n[12] ILLYES G,KOVACS K,KOCSIS B,et al.Failure of oral $E$ ：coli O83 lipopolysaccharide to ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "influence intestinal morphology and cell proliferation in rats:short communication[J].Acta Veterinaria Hungarica,2008,56(1):1-3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13] TANIGUCHI Y,YOSHIOKA N,NISHIZAWA T,et al.Utility and safety of LPS-based fermented flour extract as a macrophage activator[J].Anticancer Research,2OO9,29(3):859-864. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14] MANI V,HARRIS A J,KEATING A Fet al.Intestinal integrity,endotoxin transport and detoxification in pigs divergently selected for residual feed intake[J].Journal of Animal Science,2013,91(5):2141-2150. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15] TABELING R,SCHWIER S,KAMPHUES J.Effects of different feeding and housing conditions on dry matter content and consistency of faeces in sows[J].Journal of Animal Physiology and Animal Nutrition,2003,87(3/4):116-121. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16] PERSSON A,PEDERSEN M A,KUHL W.A long-term study on the health status and performance of sows on different feed allowances during late pregnancy.II.Escherichia coli and other bacteria,total cell content,polymorphonuclear leucocytes and $\\mathsf { p H }$ in colostrum and milk during the first 3 weeks of lactation[J].Acta Veterinaria Scandinavica,1996,37(3):293-313. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17] KLOPFENSTEIN C,D'ALLAIRE S,MARTINEAU G P.Effect of adaptation to the farrowing crate on water intake of sows[J].Livestock Production Science,1995,43(3):243-252. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]FUKUSHIMAS,NIIMIK,TAKAHASHIE.Piebald mutation onaC57BL/6J background[J].Journal of Veterinary Medical Science,2015,77(2):161-166. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19] ARMSTRONG W D,CLAWSON A J.Nutrition and management of early weaned pigs:effect of increased nutrient concentrations and (or） supplemental liquid feeding[J].Journal of Animal Science,1980,50(3):377-384. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[20] KIERS JL,MEIJER JC,NOUT M JR,et al.Effect of fermented soya beans on diarrhoea and feed efficiency in weaned piglets[J].Journal of Applied Microbiology,2003,95(3):545-552. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21] LI D F,NELSSEN J L,REDDY P G,et al.Transient hypersensitivity to soybean meal in the early-weaned pig[J].Journal of Animal Science,1990,68(6):179O-1799. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22]王红宁.仔猪腹泻成因及综合防治技术措施[J].中国畜牧杂志,2006,42(6):58-60.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[23] LECCE J G,ARMSTRONG WD,CRAWFORD PC,et al.Nutrition and management of early weaned piglets:liquid vs dry feeding[J].Journal of Animal Science,1979,48(5):1007-1014. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[24] 左之才,刘兵,李莉,等.早期断乳应激性腹泻对仔猪肠道形态结构与肠道菌群的影响[J].中国兽医科学，2012,42(1):64-68.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[25]LUDIDI S,JONKERS D,ELAMIN E.et al.The intestinal barrier in irritable bowel syndrome:subtype-specific effects of the systemic compartment in an in vitro model[J].PLoS One,2015,10(5):e0123498. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26] THORN J,RYLANDER R.Inflammatory response after inhalation of bacterial endotoxin assessed by the induced sputum technique[J].Thorax,1998,53(12):1047-1052. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27] URBAIN B,MAST J,BEERENS D,et al.Effects of inhalation of dust and endotoxin on respiratory tracts of pigs[J].American Journal of Veterinary Research,1999,60(9):1055-1060. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28] LIU YL,LI D F,GONG L M,et al.Effects of fish oil supplementation on the performance and the immunological,adrenal,and somatotropic responses of weaned pigs after an Escherichia coli lipopolysaccharide challenge[J].Journal of Animal Science,2003,81(11):2758-2765. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29] KLASING K C.Nutritional modulation of resistance to infectious diseases[J].Poultry Science,1998,77(8):1119-1125. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30] CHEN D W,ZHANG K Y,WU C Y.Influences of lipopolysaccharide-induced immune chalenge on performance and whole-body protein turnover in weanling pigs[J].Livestock Science,2008,113(2/3):291-295. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[31] BALLMER P E,MCNURLAN M A,SOUTHORN B G,et al.Effects of human recombinant interleukin- $1 \\beta$ on protein synthesis in rat tissues compared with a classical acute-phase reaction inducedbyturpentine.Rapidresponseofmuscletointerleukin-1β[J].Biochemical Journal,1991,279(3):683-688. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32]HONEGGER J,SPAGNOLI A,D'URSOR,et al.Interleukin- $\\beta$ modulates the acute release of growth hormone-releasing hormone and somatostatin from rat hypothalamus in vitro,whereas tumor necrosis factor and interleukin-6 have no effect[J].Endocrinology,1991,129(3):1275-1282. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33] GABLER N K,SPURLOCK M E.Integrating the immune system with the regulation of growth and efficiency[J].Journal of Animal Science,2008,86(Suppl.14):E64-E74. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34] GUZMAN N J,FANG M Z,TANG S S,et al.Autocrine inhibition of $\\mathrm { { N a ^ { + } / K ^ { + } } }$ -ATPase by nitric oxide in mouse proximal tubule epithelial cells[J].Journal of Clinical Investigation,1995,95(5):2083-2088. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[35] MARKEWITZ B A,MICHAEL J R,KOHAN D E.Cytokine-induced expression of a nitric oxide synthase in rat renal tubule cells[J].Journal of Clinical Investigation,1993,91(5):2138-2143. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[36] SCHWARTZ D,MENDONCA M,SCHWARTZ I,et al.Inhibition of constitutive nitric oxide synthase (NOS） by nitric oxide generated by inducible NOS after lipopolysaccharide administration provokes renal dysfunction in rats[J].Journal of Clinical Investigation,1997,100(2):439-448. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[37] ZHANG C J,WALKER L M,MAYEUX P R,et al.Role of nitric oxidein lipopolysaccharide-induced oxidant stress in the rat kidney[J].Biochemical Pharmacol0gy,2000,59(2):203-209.   \n[38] MURIEL P,SANDOVAL G.Nitric oxide and peroxynitrite anion modulate liver plasma membrane fluidity and $\\mathrm { { N a ^ { + } / K ^ { + } } }$ -ATPase activity[J].Nitric Oxide,2000,4(4):333-342.   \n[39] KANG D G,KIM J W,LEE J.Effects of nitric oxide synthesis inhibition on the Na,K-ATPase activity in the kidney[J].Pharmacological Research,2000,41(1):121-125.   \n[40] KOYAMA I,MATSUNAGA T,HARADA T,et al.Alkaline phosphatases reduce toxicity of lipopolysaccharidesinvivoandinvitrothroughdephosphorylation[J].Clinical Biochemistry,2002,35(6):455-461.   \n[41] VAISHNAVA S,HOOPER L V.Alkaline Phosphatase:keeping the Peace at the Gut Epithelial Surface[J].Cell Host & Microbe,2007,2(6):365-367.   \n[42] LACKEYRAM D,YANG C B,ARCHBOLD T,et al.Early weaning reduces small intestinal alkaline phosphatase expresson in pigs[J].Journal of Nutrition,2010,140(3):461-468.   \n[43] MALO M S,BISWAS S,ABEDRAPO M A,et al.The pro-inflammatory cytokines,IL $\\cdot 1 \\beta$ and TNF-α,inhibitintestinalalkalinephosphatasegeneexpresion[J].DNA&Cell Biology,2006,25(12):684-695.   \n[44] PRAKASH U N S,SRINIVASAN K.Beneficial influence of dietary spices on the ultrastructureand fluidity oftheintestinal brush border in rats[J].British Journal of Nutrition,2010,104(1):31-39.   \n[45] KIM J C,HANSEN C F,MULLAN B P,et al.Nutrition and pathology of weaner pigs:nutritional strategies to support barier function in the gastrointestinal tract[J].Animal Feed Science and Technology,2012,173(1/2):3-16.   \n[46] SIGGERS J L,KIRYCHUK S P,LEMAY S P,et al.Size distribution of particulate and associated endotoxin and bacteria in traditional swine barn rooms and rooms sprinkled with oil[J].Journal of Agromedicine,2011,16(4):271-279.   \n[47] NONNENMANN M W,DONHAM K J,RAUTIAINEN R H,et al.Vegetable oil sprinkling as ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "a dust reduction method in swine confinement[J].Journal of Agricultural Safetyand Health,2004,10(1):7-15. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[48] 马燕芬,杜瑞平,高民.热应激对奶山羊瘤胃黏膜紧密连接蛋白表达的影响[J].动物营养学报，2014,26(3):768-775.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Adverse Effects of Endotoxin on Pigs and Its Control WANG Zhi DONG Guozhong\\* WU Jianbo (Chongqing Key Laboratory of Forage and Herbivores， College of Animal Science and Technology， Southwest University， Chongqing 400716， China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Endotoxin，also called lipopolysaccharide，is a component of the cell wall of gram-negative bacteria, which can be released during the growth and stasis of the bacteria as well as the bacterial death when dissolved. In the practical pig production, endotoxin contained in the air and feeds and induced by diseases can have a negative impact on the health and production performance of pigs. This paper reviewed sources of endotoxin, effects of endotoxin on pigs' health and performance and some controling measures,in order to provide a reference for reducing the harm of endotoxin in pig production. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: pig; endotoxin; source; harm; control ",
+        "page_idx": 9
+    }
+]

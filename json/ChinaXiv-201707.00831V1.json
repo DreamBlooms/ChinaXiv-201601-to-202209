@@ -1,0 +1,441 @@
+[
+    {
+        "type": "text",
+        "text": "人巨细胞病毒抗原表位的重组表达及免疫原性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王　蒙¹孙文辉　姬芳玲1　蒲中机’李寅生²\\*包永明1\\*(1大连理工大学生命科学与技术学院大连1160242大连市药品检验所大连116029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：用大肠杆菌表达系统表达人巨细胞病毒(HCMV)pp65 蛋白和gB蛋白的优势抗原表位基因,制成HCMV 亚单位疫苗,探究其在Balb/c小鼠体内的体液免疫和细胞免疫活性。方法：选取pp65蛋白的 $4 9 0 \\sim 5 0 8 \\mathrm { a a }$ 和gB蛋白的607\\~621aa的基因片段，经PCR扩增目的片段，连接表达载体 $\\mathrm { p E T } { - } 3 2 \\mathrm { a } \\left( \\mathbf { \\Omega } + \\mathbf { \\Omega } \\right)$ ，转化BL21（DE3）plys 菌株，十二烷基硫酸钠-聚丙烯酰胺凝胶（SDS-PAGE)分析蛋白质表达，金属螯合亲和镍柱法纯化目的蛋白。重组蛋白免疫Balb/c小鼠，Western blotting 法和间接ELISA 法检测重组蛋白的体液免疫活性;通过流式细胞仪和双抗夹心ELISA法检测重组蛋白的细胞免疫活性。结果：获得分子质量约为 $2 2 \\mathrm { { k D a } }$ 的融合蛋白，Westernblotting 检测显示抗体有特异性,间接 ELISA 法检测其效价为 $1 : 1 0 2 \\ 4 0 0$ 。与对照组相比,实验组小鼠外周血中 $\\mathrm { C D 4 } ^ { + }$ T 细胞和CD8+T细胞的数量,以及IFN- $\\cdot \\gamma$ 、IL-2、IL-12的含量有显著提高$( P < 0 . 0 1 )$ 。结论：制备的具有免疫优势抗原表位的重组蛋白能诱导小鼠产生较强的体液免疫和细胞免疫反应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 人巨细胞病毒pp65 蛋白gB蛋白体液免疫 细胞免疫中图分类号 Q816",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人巨细胞病毒（humancytomegalovirus，HCMV）属于疱疹病毒科的双链DNA病毒，病毒颗粒由外到内主要由包膜、被膜、核衣壳组成[1]。HCMV 在人体内的感染以潜伏感染为主。当人体免疫功能不成熟或缺陷时，潜伏病毒重新激活、原发性HCMV感染或新HCMV毒株的感染都可引起病毒大量增殖，导致损伤和疾病[24]。研究发现并证实,HCMV 参与多种疾病的发生，如单核细胞增多症、CMV综合征、胃肠疾病、肺炎、肝炎、动脉粥样硬化病等；HCMV还会引起先天性的感染，导致胎儿宫内发育迟缓，脾脏肿大，血小板减少，脉络膜视网膜炎，肝炎[5-8]等先天性疾病。因此，HCMV也是影响优生优育的重要致病因子之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "机体受HCMV原发感染后，会建立起长期的免疫机制。由于HCMV属于胞内感染，只有体液免疫和细胞免疫的共同作用才能彻底有效的清除病毒。机体对HCMV的体液免疫反应是由位于病毒颗粒外层的糖蛋白主导激发的。包膜糖蛋白B（glycoproteinB,gB)是研究较多的糖蛋白，它能激发主要的中和反应，是中和抗体和保护性抗体的重要靶标[9-I1]。而外被磷蛋白 65（phosphoprotein65,pp65）是可诱导 $\\mathrm { C D 8 ^ { + } C T L }$ 反应的最具有免疫原性的病毒抗原，在细胞免疫中发挥重要的作用[12]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "到目前为止，仍没有HCMV疫苗可以获准上市。近年来，国内外学者对于HCMV疫苗的研制已取得一定进展，如HCMVpp65蛋白疫苗、gB蛋白疫苗、DNA疫苗等[13-17],通过实验证明可以诱导机体的体液免疫或细胞免疫反应。能同时引起机体体液免疫和细胞免疫的亚单位疫苗却鲜有报道。一方面，重组表达一种蛋白质同时实现体液免疫和细胞免疫尚需技术突破;另一方面，分别重组表达pp65和 $\\mathrm { \\bf g B }$ 部分蛋白质，进行复合制备抗原也需要大量的优化工作。根据文献及生物信息学方法分析， $\\mathrm { p p } 6 5$ 蛋白的 $4 9 0 \\sim 5 0 8 \\$ 位氨基酸序列和 $\\mathrm { \\bf g B }$ 蛋白的 $6 0 7 \\sim 6 2 1$ 位氨基酸序列具有较强的免疫原性，可认定为免疫优势表位。因此，本研究选取$p p 6 5 _ { 4 9 0 \\sim 5 0 8 }$ 和 $g B _ { 6 0 7 \\sim 6 2 1 }$ 基因,表达成融合蛋白,制备一种同时含有T细胞和B细胞的优势抗原表位的HCMV疫苗，能同时诱导体液免疫和细胞免疫反应，可以有效防治HCMV感染，为今后相关疫苗研究及HCMV相关疾病的防治奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E. coli $\\mathrm { D H } 5 \\alpha$ 和E.coliBL21（DE3）plys 菌株均为本实验室保存。pET-32a载体用于蛋白质表达，为本实验室保存。质粒提取、DNA回收试剂盒购自Omega公司，BamHI和HindII限制性内切核酸酶、Taq 酶、DNA连接酶、DNAMarker购自宝生物工程（大连）有限公司，引物由华大基因有限公司合成。 $\\mathrm { I F N } _ { - \\gamma }$ 定量检测试剂盒购自美国R&D公司（进口分装）,IL-2、IL-12定量检测试剂盒购自上海朗顿生物科技有限公司。人HCMV阳性血清由辽阳市第三人民医院检验科收集，抗为辣根过氧化为酶(HRP)标记的羊抗鼠IgG抗体和羊抗人IgG抗体，购自武汉三鹰生物科技有限公司。Balb/c小鼠由大连医科大学动物研究中心提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2$ 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 $p p 6 5 _ { 4 9 0 \\sim 5 0 8 } – \\mathrm { G G G G S } – g B _ { 6 0 7 \\sim 6 2 1 }$ 基因的克隆及重组质粒的构建基于Genbank 中HCMV AD169 株 pp65基因序列和 $g B$ 基因序列,设计选取pp65蛋白 $4 9 0 \\sim$ 508aa 和 $\\mathrm { \\bf g B }$ 蛋白的 $6 0 7 \\sim 6 2 1 \\mathrm { a a }$ 的基因片段,两者之间加人GGGGS 柔链区,人工合成编码基因;以合成编码基因序列作为模板，设计引物P1（ $5 ^ { \\prime }$ ，GACACGGATCCGGCATCCTGGCCCGCAAC）、P2（ $5 ^ { \\prime }$ 1GTGTCAAGCTTTCACCCGGCGATGAAGAT），酶切位点为BamHI和HindII。PCR反应条件为： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性$5 \\mathrm { m i n } ; 9 4 ^ { \\circ } \\mathrm { C }$ 变性30s, $5 5 \\mathrm { ^ { \\circ } C }$ 退火30s， $7 2 \\%$ 延伸 $1 \\mathrm { m i n }$ ,30个循环； $7 2 \\%$ 延伸 $1 0 \\mathrm { { m i n } }$ 。经扩增后的目的基因和pET-$3 2 \\mathrm { a }$ 载体用BamHI和HindI双酶切， $1 \\%$ 琼脂糖凝胶电泳及DNA回收纯化后，用T4DNA连接酶 $1 6 \\mathrm { { ^ circ C } }$ 过夜连接，将连接产物转化 $E$ coli $\\mathrm { D H } 5 _ { \\alpha }$ 感受态细胞。提取质粒进行双酶切验证，并送至华大基因有限公司测序，获得阳性克隆。再将重组质粒转化BL21（DE3)plys 感受态细胞，提取质粒并测序，用BLAST进行序列比较及分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2目的蛋白的表达及纯化挑取阳性菌落接种于 $5 \\mathrm { m l }$ LB 培养液中， $3 7 \\mathrm { ^ { \\circ } C }$ 培养 $1 2 \\mathrm { h }$ 后，以 $1 : 1 0 0$ 转接于新鲜的LB培养液中， $3 7 \\%$ 培养至 $O D _ { 6 0 0 }$ 约为0.6时，加入终浓度为 $1 \\mathrm { m m o l } \\mathrm { ~ / L ~ }$ 的异丙基 $\\cdot \\{ \\beta$ -D-硫代吡喃半乳糖苷（IPTG）， $2 5 \\mathrm { { ^ \\circ C } }$ 培养8h,诱导蛋白质的表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "离心收集菌体,加入含有 $2 0 \\mathrm { m m o l } / \\mathrm { L }$ 磷酸钠、$0 . 5 \\mathrm { m o l / L } \\ \\mathrm { N a C l } \\sqrt { . 2 0 \\mathrm { m m o l / L } }$ 咪唑 $\\mathrm { \\cdot p H 7 . 4 }$ 的磷酸钠缓冲液重悬,冰上超声破碎 $5 \\mathrm { { m i n } }$ 。将匀浆物在 $4 \\%$ 下，$1 2 ~ 0 0 0 \\mathrm { r / m i n }$ ,离心 $1 5 \\mathrm { m i n }$ 。取上清进行镍离子亲和层析柱（1mlHisTrap excel,GEHealthcare,美国）,用AKTAexplorer蛋白质纯化系统（GEHealthcare，美国)纯化蛋白质，用含有 $2 0 \\mathrm { m m o l } / \\mathrm { L }$ 磷酸钠、0.5mol/L NaCl、$5 0 0 \\mathrm { m m o l / L }$ 咪唑、 $\\mathrm { p H } 7 . 4$ 的洗脱缓冲液洗脱。SDS-PAGE 法检测蛋白质纯度，BCA法测定蛋白质浓度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3动物免疫取6\\~8周龄的Balb/c雌性小鼠16只，随机分成两组，分别为实验组和生理盐水对照组，每组8只。将纯化后的重组蛋白与弗式完全佐剂乳化,腹腔注射， $1 0 0 \\mu \\mathrm { g } /$ 只，免疫实验组小鼠,2周后将重组蛋白与弗式不完全佐剂乳化，以同样的方式和剂量再次免疫，1周后进行加强免疫，共免疫3次。同时，以同样的方式和剂量用生理盐水与佐剂混合注射对照组小鼠。于末次免疫一周后分离血清， $- 2 0 \\%$ 分装保存。1.2.4 Western blotting 法检测抗血清的特异性将重组蛋白进行SDS-PAGE,电转至PVDF膜,用含 $5 \\%$ 脱脂奶粉的TBST室温下封闭2h;分别加入 $1 : 1 \\ 0 0 0$ 稀释的小鼠阳性血清、阴性血清， $4 ^ { \\circ } \\mathrm { C }$ 过夜孵育，TBST洗膜;加入1:5O00 稀释的HRP标记的羊抗鼠的 $\\mathrm { I g G }$ ,室温下孵育1h，TBST洗膜;加入ECL试剂后，显色曝光。同时设置一抗为人HCMV阳性血清，二抗为HRP标记的羊抗人IgG作为阳性对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5间接ELISA法检测免疫后小鼠抗血清效价纯化后蛋白质包被酶标板， $1 0 0 \\mu \\mathrm { l / }$ 孔， $4 ^ { \\circ } \\mathrm { C }$ 过夜孵育，洗剂；用含 $5 \\%$ 脱脂奶粉的PBS 缓冲液封闭2h，洗剂；加入进行一系列梯度稀释( $( 1 : 4 0 0 \\sim 1 : 2 0 4 \\ 8 0 0 )$ 的阴性血清、阳性血清， $3 7 \\%$ 孵育1h,洗剂;加入 $1 : 5 \\ 0 0 0$ 稀释的HRP 标记的羊抗鼠的 $\\mathrm { I g G } , 3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h;洗净甩干后加入TMB显色液,避光反应 $1 5 \\mathrm { m i n }$ ，加入 $2 \\mathrm { m o l / L }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ 终止液。测定阴性血清、阳性血清的 $O D _ { 4 5 0 \\mathrm { n m } }$ 值，以$\\mathrm { P } / \\mathrm { N } \\geqslant 2 . 1$ 判定为阳性， $\\mathrm { P } / \\mathrm { N } \\geqslant 2 . 1$ 的最大稀释度作为被检血清的抗体效价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.6双抗夹心ELISA法检测抗原取一系列梯度稀释 $( 1 : 1 0 0 \\sim 1 : 1 2 \\ 8 0 0 )$ 的小鼠阳性血清、阴性血清包被酶标板， $1 0 0 \\mu \\mathrm { V }$ 孔， $4 ^ { \\circ } \\mathrm { C }$ 过夜孵育,洗剂;用含 $5 \\%$ 脱脂奶粉的PBS缓冲液封闭2h，洗剂;加入重组蛋白， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h,洗剂;加入 $1 : 1 0 0$ 稀释的人HCMV 阳性血清，$3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h,洗剂;加入 $1 : 5 \\ 0 0 0$ 稀释的 HRP 标记的羊抗人的 $\\mathrm { I g G } , 3 7 ^ { \\circ } \\mathrm { C }$ 孵育1h;洗净甩干后加入TMB 显色液，避光反应 $1 5 \\mathrm { m i n }$ ，加入 $2 \\mathrm { m o l / L }$ 的 ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ 终止液。测定阴性血清、阳性血清的 $O D _ { 4 5 0 \\mathrm { n m } }$ 值，以 $\\mathrm { P } / \\mathrm { N } \\geqslant 2 . \\ 1$ 判定为阳性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.7流式细胞仪检测用流式细胞仪检测小鼠外周血中 $\\mathrm { C D 4 ^ { + } ~ T }$ 细胞和 $\\mathrm { C D 8 ^ { + } ~ T }$ 细胞的百分比。取小鼠抗凝血(阴性、阳性血) $5 0 \\mu \\mathrm { l }$ 于流式细胞仪专用上样管中，分别加入PE-CD8和 APC-CD4单抗，避光放置$2 0 \\mathrm { m i n }$ ，加 $1 ~ 5 0 0 \\mu \\mathrm { l }$ 的NH4CI震荡数秒裂解红细胞，$1 5 \\mathrm { m i n }$ 后流式细胞仪检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.8IFN- $\\cdot \\gamma$ 、IL-2、IL-12 浓度的测定采用双抗夹心ELISA法检测小鼠血清中 $\\mathrm { I F N } { \\cdot } \\gamma , \\mathrm { I L } { \\cdot } 2 , \\mathrm { I L } { \\cdot } 1 2$ 的浓度。分别取小鼠的阴性血清、阳性血清，按试剂盒说明书检测 IFN- $\\cdot \\gamma$ 、IL-2、IL-12 的浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计学分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用SPSS13.0软件，对实验数据进行分析，采用 $\\mathbf { \\chi } _ { t }$ 检验法分析， $P < 0 . 0 5$ 代表差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 \\hslash$ 结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$p p 6 5 _ { 4 9 0 \\sim 5 0 8 }$ -GGGGS $g B _ { 6 0 7 \\sim 6 2 1 }$ 基因的克隆及重组 质粒的双酶切验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2PCR扩增目的片段经 $1 . 5 \\%$ 琼脂糖凝胶电泳后，在142bp处有一条特异性条带，与预期目的条带的大小一致（图1）。重组质粒经BamHI和HindII双酶切，琼脂糖凝胶电泳分析，在 $1 4 2 \\mathrm { b p } \\hphantom { 0 } { . 5 } ~ 9 0 0 \\mathrm { b p }$ 处有特异性条带，说明目的片段和载体片段大小与预期值是一致的（图2）。测序结果经BLAST 比对与理论基因序列一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 . { \\overset { \\underset { \\mathrm { ~ \\tiny ~ 4 ~ } } { } } { 2 } }$ 目的蛋白的表达及纯化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "纯化后蛋白进行 $12 \\%$ SDS-PAGE电泳实验，结果如图3所示，纯化后蛋白在 $2 2 \\mathrm { { k D a } }$ 附件处有一条明显的条带（目的蛋白理论分子质量为 $2 1 . 6 \\mathrm { { k D a } } ^ { \\cdot }$ ），经ImageJ软件分析电泳条带灰度，测得蛋白质的纯度为 $8 0 . 1 \\%$ 0采用BCA法测定蛋白质浓度，纯化样品蛋白质含量为$3 0 . 5 \\mathrm { m g }$ ,纯化后所得样品蛋白含量为 $9 . 3 \\mathrm { m g }$ ，得率为$3 0 . 5 1 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Western blot检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用Westernblot检测抗血清与重组蛋白结合的特异性，结果显示在 $2 2 \\mathrm { { k D a } }$ 附近处有特异性条带，在人HCMV阳性血清实验中也有特异性条带，而小鼠的阴性血清检测没有条带，说明免疫后的小鼠阳性血清中抗体可以与重组蛋白特异性结合，进一步证明所制备",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/10b50860b33e7d029560c1a8b53e28fba7ff9e9285079002031006f3835e63af.jpg",
+        "img_caption": [
+            "图1目的基因PCR产物琼脂糖凝胶电泳图 Fig.1Agarose gel electrophoresis analysis ofPCR amplification products of fragment "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M:DL2 OOO DNA Marker;1,2:PCR amplification products of pp65 ·gB ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d20b730070fb45d9480b1ba5702e622b934b7115c1807e2e4167fe66b16526ff.jpg",
+        "img_caption": [
+            "图2重组质粒的双酶切验证"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.2The double restrictive enzyme digestion analysis result of recombination vector "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M1：1kb Ladder DNA Marker；M2：DL2 OOO DNA Marker; 1：Recombination vector of $\\mathrm { p E T ~ - \\ p p { 6 5 } ~ \\cdot ~ { \\ g B } ; ~ 2 }$ 2：Recombination vector digested by BamHI and Hind l ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的 HCMV疫苗可以使小鼠产生体液免疫反应（图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4抗血清效价的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "间接ELISA法测定抗血清的效价，以 $\\mathrm { P } / \\mathrm { N } { \\geqslant } 2 . 1$ 的最大稀释度作为被检血清的抗体效价，因此测定抗血清的效价为1:102400（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2605c2b98628540fe0962e7e4f32fb62915a230baddf22ecf9e64c47a03c0266.jpg",
+        "img_caption": [
+            "图3重组蛋白的SDS-PAGE分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "M：Marker；1：Uninduced bacteria；2：Induced bacteria；3：Lysed supernatant；4：Lysed precipitation；5：Purified protein ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed036e0f696327678aa1459f3cc6b20c627cdf230c5b2349bd2c97d3dd52189a.jpg",
+        "img_caption": [
+            "Fig.3SDS-PAGE analysis of recombinant protein ",
+            "图4 血清的Westernblot检测结果",
+            "Fig.4The result of serum western blot detection "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a）Positive serum of mice（b）HCMV positive serum of human",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1小鼠抗体的ELISA检测结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad5aba7947174851bab11bcc3b62f52226276aa01a6d8e51200fc45ed03ae864.jpg",
+        "table_caption": [
+            "Table1ELISA assayresult of mice antibody "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>血清稀释度</td><td>1: 400</td><td>1: 800</td><td>1:1 600</td><td>1:3 200</td><td>1:6 400</td><td>1: 12 800</td><td>1: 25 600</td><td>1:51 200</td><td>1: 102 400</td><td>1: 204 800</td></tr><tr><td>P</td><td>1.310</td><td>1.203</td><td>1. 101</td><td>0.946</td><td>0.882</td><td>0.812</td><td>0.754</td><td>0.393</td><td>0.178</td><td>0.077</td></tr><tr><td>N</td><td>0.125</td><td>0.103</td><td>0.098</td><td>0.081</td><td>0.076</td><td>0.077</td><td>0.062</td><td>0.059</td><td>0.058</td><td>0.052</td></tr><tr><td>P/N值</td><td>10.48</td><td>11. 68</td><td>11. 23</td><td>11.68</td><td>11.61</td><td>10.55</td><td>12.16</td><td>6.66</td><td>3.07</td><td>1.48</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双抗夹心ELISA法检测抗原特异性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双抗夹心ELISA法结果显示，抗原能与小鼠阳性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血清和人HCMV阳性血清特异性结合，说明重组蛋白含有HCMV抗原表位，具有较好的特异性（表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2双抗夹心ELISA 法检测结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Crg1771-111711:71111-11 ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e24d39b840f46b8c637f1cb83617065187066fb66dfa96a7dcf9c271cceca3a.jpg",
+        "table_caption": [
+            "Table2Sandwich ELISA assay result "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>血清稀释度</td><td>1:100</td><td>1:200</td><td>1:400</td><td>1:800</td><td>1:1 600</td><td>1:3 200</td><td>1:6 400</td><td>1: 12 800</td></tr><tr><td>h</td><td>P</td><td>0.391</td><td>0.384</td><td>0.371</td><td>0.372</td><td>0.366</td><td>0.352</td><td>0.329</td><td>0.304</td></tr><tr><td>C</td><td>N</td><td>0.140</td><td>0.138</td><td>0.127</td><td>0.130</td><td>0.127</td><td>0.994</td><td>0.852</td><td>0.817</td></tr><tr><td></td><td>P/N值</td><td>2.80</td><td>2.78</td><td>2.92</td><td>2.87</td><td>2.88</td><td>0.35</td><td>0.39</td><td>0.37</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 流式细胞仪检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用流式细胞仪检测小鼠外周血中 $\\mathrm { C D 4 } ^ { + }$ T细胞和$\\mathrm { C D 8 ^ { + } ~ T }$ 细胞的百分比。结果显示，与对照组相比，实验组小鼠外周血中 $\\mathrm { C D 4 } ^ { + }$ T细胞和 $\\mathrm { C D 8 ^ { + } ~ T }$ 细胞的数量有显著增加，差异有统计学意义（ $P < 0 . 0 1 \\$ )，如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.7 $\\mathbf { I F N - } \\boldsymbol { \\gamma } \\mathbf { \\cdot } \\mathbf { I L - } 2 \\mathbf { \\cdot } \\mathbf { I L - } \\mathbf { 1 } 2$ 浓度的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用双抗夹心ELISA 法分别对小鼠血清中 $\\mathrm { I F N } { \\sim } { \\gamma }$ ，IL-2、IL-12 浓度进行测定。结果显示，与对照组相比，实验组小鼠血清中 $\\mathrm { I F N } { \\cdot } \\gamma \\ 、 \\mathrm { I L } { - } 2 \\ 、 \\mathrm { I L } { - } 1 2$ 的浓度有了显著的提高，差异有统计学意义( $\\left( P < 0 . 0 1 \\right)$ ），如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近20年来，随着免疫低下状态人群(爱滋病、放射损伤、器官移植和恶性肿瘤等患者）的增多，HCMV感染及其引发的严重疾病日益增加，而HCMV的药物治疗方法会产生较强的副作用，因此制备HCMV疫苗是防治HCMV最有效的方法。对于HCMV优势抗原表位，即能够产生较强的免疫反应的抗原表位，目前已经研究报道的有 $\\mathrm { p p 6 5 \\_ g B \\_ p p 1 5 0 \\_ I E - 1 \\_ g H }$ 蛋白等多个抗原表位[18]。而gB蛋白和pp65 蛋白是目前研究最多,也是被证明能分别产生较强的体液免疫和细胞免疫反应的两种蛋白质。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54518c2a0991c2660b42112a832593acd2b02af4f7564b8570924ca2942dee4d.jpg",
+        "img_caption": [
+            "图5流式细胞仪检测 $\\mathbf { C D 4 ^ { + } \\Sigma T }$ 细胞和 $\\mathbf { C D 8 ^ { + } { \\textbf { T } } }$ 细胞的百分比"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5The percentage of $\\mathbf { C D 4 ^ { + } \\Sigma T }$ cells and $\\mathbf { C D 8 ^ { + } }$ T cells detected by flow cytometer‘a），（b）Control group of mice（c），（d）Experiment group of miceQ1：Represents $\\mathrm { C D 8 ^ { + } }$ T cellsQ4:Represents $\\mathrm { C D 4 ^ { + } \\mathrm { ~ T ~ } }$ cells（a）The concentration of $\\mathrm { I F N - } \\gamma$ （b）The concentration of IL-2（c）The concentration of IL-12",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4327f215b821830262f686e7f7e07a097a99781476b641279e9eb48ad22a419.jpg",
+        "img_caption": [
+            "图6 ELISA 法测定 $\\mathbf { I F N - } \\gamma$ 、IL-2、IL-12 浓度",
+            "Fig.6The concentration of IFN- $\\pmb { \\gamma } .$ IL-2、IL-12detectedbyELISA "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过生物信息学技术，本研究选取pp65蛋白的$4 9 0 \\sim 5 0 8 \\mathrm { a a }$ 和 $\\mathbf { g B }$ 蛋白的 $6 0 7 \\sim 6 2 1 \\mathrm { a a }$ 作为优势抗原表位，制备HCMV疫苗，通过免疫小鼠，检测免疫后血清的指标来探究它的体液免疫和细胞免疫活性，Westernblot和间接ELISA方法可以检测小鼠产生的特异性抗体和对应抗原的特异性及抗体的效价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 4 } ^ { + }$ T细胞和 $\\mathrm { C D 8 ^ { + } }$ T细胞作为两种重要的免疫细胞,在机体体液和细胞免疫中发挥重要作用。 $\\mathrm { C D 8 } ^ { + }$ T细胞能诱导产生 $\\mathrm { I F N } { - } \\gamma$ ,主要在细胞免疫中发挥重要作用。 $\\mathrm { C D 4 } ^ { + }$ T细胞可分为 Th1 和 Th2 两大类细胞[19]。Th1细胞分泌 $\\mathrm { I F N } { - } \\gamma$ 、IL-2、IL-12 等细胞因子，主要介导细胞免疫应答，并可通过细胞表面的CD40L与巨噬细胞表面的CD40特异性结合，使巨噬细胞接收信号，进步清除宿主细胞内的病原体;而Th2细胞主要介导体液免疫应答，产生抗体。虽然 $\\mathrm { C D 8 ^ { + } }$ T细胞被认为是对抗病毒的主要效应细胞，然而HCMV的彻底清除可能高度依赖于数量和功能正常的 $\\mathrm { C D 4 } ^ { + }$ T细胞的协助。因此,本研究通过检测小鼠外周血中 $\\mathrm { C D 4 } ^ { + }$ T细胞和D8 T细胞的数量,以及Th1型细胞因子的浓度来探究疫苗在小鼠体内的细胞免疫活性。进一步研究可通过细胞毒性试验、ELISPOT实验等来探究抗原多肽特异性的 $\\mathrm { C D 8 ^ { + } }$ CTL 细胞的产生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上,本研究通过生物信息学技术选取能产生较强体液免疫和细胞免疫反应的优势序列表位肽段，通过短肽柔链串联，构建人工抗原表位;采用蛋白质工程技术合成HCMV人工抗原表位编码基因并与表达载体pET-32a连接，通过表达制备重组抗原，利用重组的His+标签实现金属螯合层析有效分离纯化，作为HCMV亚单位疫苗，能诱导小鼠产生较强的HCMV体液免疫和细胞免疫反应，对HCMV的防治及研制HCMV临床应用疫苗具有重要意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]JosefV，Van MH,SiannyC，et al．Use of flow cytometry forcharacterization of human cytomegalovirus vaccineparticles.Vaccine，2016，34(20）:2321-2328.  \n[2]Saracino A，Colucci R，Latorraca A，et al.The effectsofpreemptive therapy using a very low threshold of pp65 antigenemiato prevent cytomegalovirus disease in kidney transplant recipients :a single-center experience.Transplant Proc,2013,45(1）：182-184.  \n[3]ElisaG,Francesca B,Chiara F,et al.Polyfunctional analysis ofhuman cytomegalovirus（HCMV）-specific CD4+and CD8 +for prevention of congenital infection and disease.Current Opinionin Virology，2014,6(22）:13-23.  \n[6］Mori T，Kato J.Cytomegalovirus infection/disease afterhematopoietic stem cell transplantation． International Journal ofHematology,2010,91(4）: 588-595.  \n[7］Koch S,Solana R,Dela Rosa O,et al.Human cytomegalovirusinfection and T cell immunosenescence：a mini review. MechAgeing Dev,2006,127(6）:538-543.  \n[8]Stanley P.The history of vaccination against cytomegalovirus.Med Microbiol Immunol,2015，204(3）:247-254.  \n[9]Anders E L,Peter W M. The next generation recombinant humancytomegalovirus vaccine candidates-beyond gB.Vaccine，2012,30(49) : 6980-6990.  \n[10]Cui XL,Cao Z H,Chen QY,et al．Rabbits immunized withEpstein-Barr virus gH/gL or gB recombinant proteins elicit higherserum virus neutralizing activity than gp350．Vaccine，2016,34(34): 4050-4055.  \n[11]Feire AL，Roy R M，Manley K，et al．The glycoprotein Bdisintegrin-like domain bindsbeta1integrin tomediatecytomegalovirus entry．Virology，2010,84（19）:10026-10037.  \n[12]MosesS，Malathi J，etal.Determination ofhumancytomegaloviruspp65antigenemiaamongrenaltransplantpatients.Indian JNephrol,2012,22(5）：347-352.  \n［13］唐光美，刘菊．重组人巨细胞病毒疫苗研究进展．国际生物制品学杂志，2013，36(4）：201-206.Tang G M，Liu J. Progress in research of recombinant humancytomegalovirus vaccines．International Journal of Biologicals,2013，36(4)：201-206.  \n［14］李小姣,秦婷婷，杨春,等．含人巨细胞病毒糖蛋白B中 AD2位点I的鞭毛融合蛋白在小鼠中的免疫应答．中国生物制品学杂志，2015，28(5)：451-455.Li XJ,Qin TT,Yang C，et al．Immune responses of flagellinfusion protein containing AD2 site Iof human cytomegalovirusglycoprotein B in mice.ChinJBiologicals,2015,28（5）：451-455.  \n[15］邱果，许凤，邱义兰,等．抗HCMV pp65 蛋白单克隆抗体的制备及性质研究．激光生物学报，2014，23（4）：338-345.Qiu G,XuF,Qiu YL,et al.Preparation and characterization ofmonoclonal antibodies against HCMV pp65 protein．Acta LaserBiology Sinica，2014,23(4）：338-345.  \n[16］岳盈盈,宋楠楠,李志会,等．人巨细胞病毒截短被膜磷蛋白pp65 的原核表达及抗原性分析．2012，52（43）：20-22.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "QiuYY,SongNN,Li $Z \\mathrm { ~ H ~ }$ ，et al.Prokaryotic expression and antigenic analysis of fragment of tegument protein pp65 of human cytomegalovirus．Shandong Medical Journal,2012，52(43）：20- 22. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17］胡海峰，吴燕.巨细胞病毒感染的治疗研究进展.微生物学免疫学进展，2015，4（1）：64-68.Hu H F，Wu Y.Progress on treatment ofcytomegalovirusinfection．Prog in Microbiol Immunol,2015，4（1）：64-68.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]Zhao P，Ma D X，Yu S，et al．The development of Chineses specific human cytomegalovirus polyepitope recombinant vaccine. Antiviral Research，2012,93(2）：260-269.   \n[19]Thi HON,Nicole A M,Lisbeth A S,et al.Refinement in the production and purification of recombinant HCMV IE1-pp65 protein for the generation of epitope-specific T cell immunity. Protein Expression and Purification,2008,61(1）：22-30. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recombinant Expression of Antigen Epitope Genes of Human Cytomegalovirus and Immunogenicity Detection of the Fusion Protein ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WANG Meng' SUN Wen-hui1JI Fang-ling'PU Zhong-ji1LI Yin-sheng² BAO Yong-ming1 (1 School of Life Science and Biotechnology，Dalian University of Technology，Dalian116024,China) (2 Dalian Institute for Drug Control,Dalian116029,China） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract Objective：To obtain the recomninant protein as HCMV subunit vaccine，the dominant antigen epitope gene of protein pp65 and $\\mathrm { \\bf g B }$ of human cytomegalovirus（HCMV）were expressed in $E$ .coli，and the humoral and cellular immune responses of the recombinant protein in Balb/c mice were detected.Methods:The coden genes of 490 -508 aa in pp65 protein and 607 - 621 aa in gB protein were selected as gene segments and cloned into expression vector pET32a ${ \\bf \\Xi } ( { \\bf \\Lambda } + { \\bf \\Lambda } )$ after amplified by PCR. The protein expressed was analyzed by SDSPAGE，after the recombinant plasmid transformed into $E$ ，coli BL21（DE3）plys. Balb/c mice were immunized with therecombinant protein purified by nickel metal chelate afinity column.The humoral immune activity of recombinant proteins was detected by Western bloting and indirect ELISA.Thecelular immune activity was detected by flow cytometry and sandwich ELISA. Results:The fusion protein about $2 2 \\mathrm { { k D a } }$ was obtained.Western blottingtest showed thatthe multiclonal antibodyfor HCMV has specificityand the titers reach to $1 : 1 0 2 \\ 4 0 0$ （204号 detected by indirected ELISA.The number of $\\mathrm { C D 4 ^ { + } \\mathrm { ~ T ~ } }$ cells and $\\mathrm { C D 8 ^ { + } }$ T cells in peripheral blood and the quantities of $\\mathrm { I F N } { \\cdot } { \\gamma }$ ，IL-2，IL-12 were significantly higher than control group ( $\\ P < 0 . \\ 0 1 \\ \\cdot$ ）．Conclusions:The recombinant protein with dominant antigen epitopes can induce significant humoral immunity and cellular immunity in mice，and is a potential vaccine for HCMV. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key wordsHuman cytomegaloviruspp65 proteingB proteinHumoral immunity Cellular immunity ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,978 @@
+[
+    {
+        "type": "text",
+        "text": "Type-III two Higgs doublet model plus a pseudoscalar confronted with $h \\to \\mu \\tau$ ， muon $g - 2$ and dark matter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xuewen Liu,1 Ligong Bian, ${ } ^ { 2 , 3 }$ Xue-Qian Li,1 and Jing Shu $^ 3$ （204号 $^ { 1 }$ School of Physics，Nankai University， Tianjin 30oo71，China $\\mathcal { Z }$ Department of Physics， Chongqing University， Chongqing 401331， China $^ { 3 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 10019o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,we introduce an extra singlet pseudoscalar into the Type-II two Higgs doublet model (2HDM)which is supposed to solve a series of problems in the modern particle-cosmology.With existence of a light pseudoscalar, the $h \\to \\mu \\tau$ excess measured at CMS and as well as the $( g - 2 ) _ { \\mu }$ （20 anomaly could be simultaneously explained within certain parameter spaces that can also tolerate the data on the flavor-violating processes $\\tau \\to \\mu \\gamma$ and Higgs decay gained at LHC.Within the same parameter spaces,the DM relic abundance is wellaccounted. Moreover,the recently observed Galactic Center gamma ray exces(GCE) is proposed to realize through dark matter(DM) pair annihilations,and in this work,the scenario of the annihilation being mediated by the pseudoscalar is also addressed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Even though in the framework of a minimal extended Standard model (SM) with non-zero neutrino masses the leptonic flavor violation (LFV) process is negligible for the smallness of neutrino masses which are experimentally confirmed [1]. Therefore,a direct search for the LFV processes would provide an ideal probe for new physics beyond SM,or in other words any observational anomaly may hint us its existence.Besides the $B$ -factory,since its high energy and luminosity, LHC is definitely the machinery for the exploration. A search for LFV has been performed by the CMS collaboration via two channels $h  \\mu \\tau _ { e }$ and $h  \\mu \\tau _ { h }$ ，and a $2 . 4 \\sigma$ excess_of the branching fraction $\\mathrm { B R } ( h \\to \\mu \\tau ) = ( 0 . 8 4 _ { - 0 . 3 7 } ^ { + 0 . 3 9 } ) \\%$ [2] is reported. If one could account such an excess as an anomaly, there should be some mechanisms which are obviously beyond SM,to be responsible for it. The Type-III two Higgs doublet model (2HDM） is one of them, because in the model a favor-violating Yukawa interaction exists which may contribute to the LFV at tree level. The model has been explored extensively [3-11] to study this phenomenological observation.Furthermore,the Yukawa interaction contributes to the muon $g \\mathrm { ~ - ~ } 2$ via one loop diagrams and thus would provide a possibility to explain the $( g \\mathrm { ~ - ~ } 2 ) _ { \\mu }$ discrepancy [8,11,12]. Meanwhile, the flavor-changing Yukawa interaction would inducea substantial contribution to the radiative decay $\\tau \\to \\mu \\gamma$ , thus the flavor-changing Yukawa interaction might be rigorously constrained by the available experimental data [9,11,12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One of the main characteristics of the 2lst century is that the cosmology has already become an accurate science and the corresponding observation must be combined with the precise measurements andnewdiscoveriesat the facilities on the Earth to testify the standing theories. The identity of dark matter(DM) and the interaction which determines the behavior of DM particles are the key point and searching for them is the most challenging job for both experimentalists and theorists of high energy physics and cosmologists. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, the Fermi Large Area Telescope data show an excess of gamma-ray at energy of a few GeV coming from Galactic Center(GCE) [13-21]. To explain the observation,it is suggested that annihilation of DM particles weighing $3 0 -$ 70 GeV into $b b$ is responsible for the GCE [22-24]. Even though there exist other proposals to explain the excess,such as a population of millisecond pulsars (MSP）[25,26] which might be responsible for GCE,it is not easy to explain the energy spectrum and spatial distribution of the GCE [27,28]. Thus in this work we discard the astrophysical source explanation [25-30] and focus on the DM scenario. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The dwarf galaxies are considered to be the cleanest sources for detecting gamma rays produced by DM annihilations, thus the data on gamma ray observed at Reticulum II [31-33] may imply existence of abundant DM at our galaxy. To be sure,we need to compute the cross section of DM annihilation in a model of particle physics.Meanwhile other cosmological phenomena must also be concerned, namely the DM annihilation cross section required by the newdata shouldbe of the same order as that determined by the thermal DM relic abundance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, the original Type-III 2HDM does not provide a natural explanation to the DM particle annihilation cross section. Thus we need to extend the model which can also accommodate the DM annihilation. It is note that a pseudoscalar could mediate the annihilation of dark matter(DM) pair, meanwhile due to the small momentum transfer at $\\mathrm { \\Delta t }$ -channel, the interaction between the DM particles coming from the outer space and the nuclei in the detector is not affected by the existence of the new pseudoscalar, so that the DM particles may evade the direct search at not-much sensitive detectors. This idea has been implemented in various models [24,34-48]. It further motivates us to consider the DM explanation to the GCE,and introduce a Dirac fermion field serving as the DM candidate. In this work,we introduce a pseudoscalar $a _ { 0 }$ into the Type-III 2HDM.The pseudoscalar does not directly couple to the SM particles,but it slightly mixes with the CP-odd Higgs which exists in the original TypeIII 2HDM, thus it would effectively couple to SM via this mixing. Therefore the pseudoscalar can mediate an effective interaction between the DM $\\chi \\chi$ and the SM fermions $b b$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moreover, its introduction may bring up two more advantages as following: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.An extra pseudoscalar would open a new decay channel for the Higgs and thus affect the $h \\to \\mu \\tau$ excess. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. There could be a mixing of the newly introduced pseudoscalar with the CP-odd scalar $A _ { 0 }$ in the original Type-III 2HDM,and hence induces a new contribution to the value of $( g - 2 ) _ { \\mu }$ . With increase of the mixing,the contribution of the new pseudoscalar would cancel that of the Heavy Higgs, thus in this extended model the theoretical prediction on $( g - 2 ) _ { \\mu }$ can be decreased to a tolerable level. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work the pseudoscalar also plays a role to explain the $h \\to \\mu \\tau$ excess and the discrepancy between theoretical prediction and data of $( g - 2 ) _ { \\mu }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows: after this introduction，we discuss the new scenario where a light pseudoscalar is introduced to extend the Type III 2HDM in section.II.In the section.III,we investigate the relevant topics including the $h \\to \\mu \\tau$ excess observed at CMS,muon $( g - 2 ) _ { \\mu }$ anomaly, the galac tic center gamma ray excess (GCE） and the constraints from the $\\tau \\to \\mu \\gamma$ process and LHC Higgs data. The numerical results are presented in section.IV, then the last section is devoted to our conclusion and discussion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. THE MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,a Dirac fermion ( $\\chi$ ）of mass $m _ { \\chi }$ stands as the DM candidate and a gauge singlet pseudoscalar $a _ { 0 }$ is introduced to extend the TypeIII two Higgs doublet model,where $a _ { 0 }$ mediates the coupling between the dark matter and the SM particles.The interaction Lagrangian reads ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } _ { \\mathrm { d a r k } } = - y _ { \\chi } a _ { 0 } { \\bar { \\chi } } i \\gamma ^ { 5 } \\chi ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pseudoscalar $a _ { 0 }$ mixes with the pseudoscalar in the original 2HDM and then couples to the SM particles through the potential, given as[48] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = V _ { \\mathrm { 2 H D M } } + \\frac { 1 } { 2 } m _ { a _ { 0 } } ^ { 2 } a _ { 0 } ^ { 2 } + \\frac { \\lambda _ { a } } { 4 } a _ { 0 } ^ { 4 } + V _ { \\mathrm { p o r t a l } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { p o r t a l } } = - i B a _ { 0 } H _ { 1 } ^ { \\dagger } H _ { 2 } + \\mathrm { h . c . } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $B$ is a parameter of mass dimension,and the Higgs potential is[49] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { V _ { \\mathrm { 2 H D M } } = \\mu _ { 1 } H _ { 1 } ^ { \\dagger } H _ { 1 } + \\mu _ { 2 } H _ { 2 } ^ { \\dagger } H _ { 2 } + ( \\mu _ { 3 } H _ { 1 } ^ { \\dagger } H _ { 2 } + h . c . ) } \\\\ & { } & { ~ +  \\lambda _ { 1 } ( H _ { 1 } ^ { \\dagger } H _ { 1 } ) ^ { 2 } + \\lambda _ { 2 } ( H _ { 2 } ^ { \\dagger } H _ { 2 } ) ^ { 2 } + \\lambda _ { 3 } ( H _ { 1 } ^ { \\dagger } H _ { 1 } ) } \\\\ & { } & { ~ \\times ( H _ { 2 } ^ { \\dagger } H _ { 2 } ) - \\lambda _ { 4 } ( H _ { 1 } ^ { \\dagger } H _ { 2 } ) ( H _ { 2 } ^ { \\dagger } H _ { 1 } ) } \\\\ & { } & { ~ + [ ( \\lambda _ { 5 } H _ { 1 } ^ { \\dagger } H _ { 2 } + \\lambda _ { 6 } H _ { 1 } ^ { \\dagger } H _ { 1 } + \\lambda _ { 7 } H _ { 2 } ^ { \\dagger } H _ { 2 } )  } \\\\ & { } & { ~ \\times  ( H _ { 1 } ^ { \\dagger } H _ { 2 } ) + h . c . ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We can explicitly rewrite $\\boldsymbol { H } _ { 1 }$ and $H _ { 2 }$ in the Higgs basis as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { 1 } = \\left( \\begin{array} { c } { { G ^ { + } } } \\\\ { { \\frac { v + \\phi _ { 1 } + i G ^ { 0 } } { \\sqrt 2 } } } \\end{array} \\right) , \\quad H _ { 2 } = \\left( \\begin{array} { c } { { H ^ { + } } } \\\\ { { \\frac { \\phi _ { 2 } + i A _ { 0 } } { \\sqrt 2 } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $G ^ { + }$ and $G ^ { 0 }$ are the Nambu-Goldstone bosons and $H ^ { + }$ and $A _ { 0 }$ are a charged Higgs boson and a CP-odd Higgs boson，respectively. Without losing generality, let us concentrate on the CP-conserving case,where $a _ { 0 }$ does not develop a vacuum expectation value (VEV) and all $\\lambda _ { i }$ and $\\mu _ { 3 }$ are set to be real. Then the potential is minimized to $\\langle H _ { 1 } \\rangle = v / \\sqrt { 2 }$ $\\langle H _ { 2 } \\rangle = 0$ ，with $v = 2 4 6$ GeV. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the basis of $( \\phi _ { 1 } , \\phi _ { 2 } )$ , the mass matrix for the CP-even Higgs is $\\mathcal { M } _ { h } ^ { 2 }$ whose elements are, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\mathcal { M } _ { h 1 1 } ^ { 2 } = 2 \\lambda _ { 1 } v ^ { 2 } , } } \\\\ { { \\displaystyle \\mathcal { M } _ { h 2 2 } ^ { 2 } = m _ { H ^ { + } } ^ { 2 } + \\frac { \\lambda _ { 4 } v ^ { 2 } } { 2 } + \\lambda _ { 5 } v ^ { 2 } , } } \\\\ { { \\displaystyle \\mathcal { M } _ { h 1 2 } ^ { 2 } = \\mathcal { M } _ { h 2 1 } ^ { 2 } = \\lambda _ { 6 } v ^ { 2 } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Diagonalizing the matrix,one obtains the physical CP-even states $h$ and $H$ $( m _ { h } \\leq m _ { H } )$ as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\left( \\begin{array} { l } { \\phi _ { 1 } } \\\\ { \\phi _ { 2 } } \\end{array} \\right) = \\left( \\begin{array} { l l } { \\cos \\alpha } & { \\sin \\alpha } \\\\ { - \\sin \\alpha } & { \\cos \\alpha } \\end{array} \\right) \\left( \\begin{array} { l } { H } \\\\ { h } \\end{array} \\right) , } \\\\ { \\tan 2 \\alpha = \\frac { 2 \\mathcal { M } _ { h 1 2 } ^ { 2 } } { \\mathcal { M } _ { h 2 2 } ^ { 2 } - \\mathcal { M } _ { h 1 1 } ^ { 2 } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with eigen-masses being ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle m _ { h , H } ^ { 2 } = \\frac { 1 } { 2 } \\Biggl [ \\mathcal { M } _ { h 1 1 } ^ { 2 } + \\mathcal { M } _ { h 2 2 } ^ { 2 } } } \\\\ { { \\displaystyle \\qquad \\mp \\sqrt { \\left( \\mathcal { M } _ { h 1 1 } ^ { 2 } - \\mathcal { M } _ { h 2 2 } ^ { 2 } \\right) ^ { 2 } + 4 \\left( \\mathcal { M } _ { h 1 2 } ^ { 2 } \\right) ^ { 2 } } \\Biggr ] ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and we consider the eigenstates $h$ and $H$ as the SMlike and heavy Higgs bosons respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The CP-odd Higgs $A _ { 0 }$ mixes with $a _ { 0 }$ due to the potential $V _ { \\mathrm { p o r t a l } }$ (Eq. 3),and the mass matrix in the $( A _ { 0 } , a _ { 0 } )$ basis is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { M } _ { A } ^ { 2 } = \\left( \\begin{array} { c c } { { m _ { A _ { 0 } } ^ { 2 } } } & { { B v } } \\\\ { { B v } } & { { m _ { a _ { 0 } } ^ { 2 } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where mA $m _ { A _ { 0 } } ^ { 2 } ~ = ~ m _ { H ^ { + } } ^ { 2 } + \\lambda _ { 4 } v ^ { 2 } / 2 - \\lambda _ { 5 } v ^ { 2 }$ staTts the $A _ { 0 } , a _ { 0 }$ $A$ $a$ is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { A _ { 0 } } \\\\ { a _ { 0 } } \\end{array} \\right) = \\left( \\begin{array} { c c } { \\cos \\theta } & { - \\sin \\theta } \\\\ { \\sin \\theta } & { \\cos \\theta } \\end{array} \\right) \\left( \\begin{array} { l } { A } \\\\ { a } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effective coupling of DM fermions to the mediator given in Eq.(1) is simply expressed as, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { \\mathrm { d a r k } } = - y _ { \\chi } \\left( \\cos \\theta a + \\sin \\theta A \\right) \\bar { \\chi } i \\gamma ^ { 5 } \\chi .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Yukawa interactions in the extended Type-III 2HDM are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\mathcal { L } _ { \\mathrm { Y u k a w a } } = - \\bar { Q } _ { L } ^ { i } V _ { \\mathrm { C K M } } ^ { i j } H _ { 1 } y _ { d } ^ { i } d _ { R } ^ { i } - \\bar { Q } _ { L } ^ { i } V _ { \\mathrm { C K M } } ^ { i j } H _ { 2 } \\rho _ { d } ^ { i j } d _ { R } ^ { j } } } \\\\ & { } & { - \\bar { Q } _ { L } ^ { i } \\tilde { H } _ { 1 } y _ { u } ^ { j } u _ { R } ^ { j } - \\bar { Q } _ { L } ^ { i } \\tilde { H } _ { 2 } \\rho _ { u } ^ { j k } u _ { R } ^ { k } } \\\\ & { } & { - \\bar { L } _ { L } ^ { i } H _ { 1 } y _ { e } ^ { i } e _ { R } ^ { i } - \\bar { L } _ { L } ^ { i } H _ { 2 } \\rho _ { e } ^ { i j } e _ { R } ^ { j } , \\qquad ( 1 4 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $Q = ( u _ { L } , { \\cal V } _ { \\mathrm { C K M } } d _ { L } ) ^ { T }$ ， $L = ( V _ { \\mathrm { M N S } } \\nu _ { L } , e _ { L } ) ^ { T }$ and ${ \\tilde { H } } _ { i }$ stands for $i \\sigma _ { 2 } H _ { i } ^ { * }$ ： $V _ { \\mathrm { C K M } } ( V _ { \\mathrm { M N S } } )$ is the CabbiboKobayashi-Maskawa (Maki-Nakagawa-Sakata） matrix. The general 3-by-3 complex matrices $\\rho _ { f } ^ { i j }$ induce the Higgs-mediated Flavor Changing Neutral Current (FCNC).In the mass eigen-basis of the Higgs bosons,the Yukawa interactions are recast as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\mathrm { ~ } \\mathcal { L } _ { \\mathrm { Y u k a w a } } ~ = } & { - y _ { \\phi i j } \\bar { f } _ { L i } \\phi f _ { R j } - \\bar { \\nu } _ { L i } ( V _ { \\mathrm { M N S } } ^ { \\dagger } \\rho _ { e } ) ^ { i j } H ^ { + } e _ { R j } } & \\\\ & { - \\bar { u } _ { i } ( V _ { \\mathrm { C K M } } \\rho _ { d } P _ { R } - \\rho _ { u } ^ { \\dagger } V _ { \\mathrm { C K M } } P _ { L } ) ^ { i j } H ^ { + } d _ { j } } & \\\\ & { + \\mathrm { h . c . } , } & { ( 1 5 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $\\phi = h , H , A , a$ ， $f = u , \\ d , \\ e , \\nu$ ，and",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with the mixing angle ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\frac { 1 } { 2 } \\tan ^ { - 1 } ( \\frac { 2 B v } { m _ { A _ { 0 } } ^ { 2 } - m _ { a _ { 0 } } ^ { 2 } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and the masses squares are ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { a , A } ^ { 2 } = \\frac { 1 } { 2 } \\left[ m _ { A _ { 0 } } ^ { 2 } + m _ { a _ { 0 } } ^ { 2 } \\pm \\sqrt { \\left( m _ { A _ { 0 } } ^ { 2 } - m _ { a _ { 0 } } ^ { 2 } \\right) ^ { 2 } + 4 B ^ { 2 } v ^ { 2 } } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The parameter $B$ in terms of $^ { \\prime \\prime \\iota _ { a , A } }$ and $\\theta$ can be expressed as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = \\frac { 1 } { 2 v } \\left( m _ { A } ^ { 2 } - m _ { a } ^ { 2 } \\right) \\sin 2 \\theta .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effective coupling of the CP-even Higgs bosons to the SM $W$ is $i g m _ { W } C _ { \\phi W W } g ^ { \\mu \\nu }$ with $C _ { h W W } \\ =$ $\\sin \\alpha$ ， $C _ { H W W } = \\cos \\alpha$ , and the CP-odd Higgs bosons $A ( a )$ do not couple to $W$ ,i.e.， $C _ { A ( a ) W W } = 0$ . And the $V _ { \\mathrm { p o r t a l } }$ is recast in terms of mass eigenstates and mixing angle as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { { p o r t a l } } } = - { \\frac { 1 } { 4 v } } \\left( m _ { A } ^ { 2 } - m _ { a } ^ { 2 } \\right) \\left[ s _ { 4 \\theta } a A + s _ { 2 \\theta } ^ { 2 } \\left( A ^ { 2 } - a ^ { 2 } \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c l } { y _ { h \\lambda j } = \\displaystyle \\frac { m _ { j } ^ { i } } { \\nu } \\sin { \\alpha \\delta _ { \\lambda j } } + \\frac { \\rho _ { j } ^ { i , j } } { \\sqrt { 2 } } \\cos { \\alpha } , } \\\\ { y _ { H \\lambda j } = \\displaystyle \\frac { m _ { j } ^ { i } } { \\nu } \\cos { \\alpha } \\delta _ { i j } - \\frac { \\rho _ { j } ^ { i , j } } { \\sqrt { 2 } } \\sin { \\alpha } , } \\\\ { y _ { A \\lambda j } = \\displaystyle \\left\\{ \\begin{array} { c } { \\displaystyle - \\frac { i \\rho _ { j } ^ { i , j } } { \\nu _ { j } ^ { 2 } } \\cos { \\theta } , \\ ( f = u ) , } \\\\ { \\displaystyle \\frac { i \\rho _ { j } ^ { i , j } } { \\nu _ { j } ^ { 2 } } \\cos { \\theta } , \\ ( f = d , \\ e ) , } \\end{array} \\right. } \\\\ { y _ { a \\lambda j } = \\displaystyle \\left\\{ \\begin{array} { c } { \\displaystyle \\frac { i \\rho _ { j } ^ { i , j } } { \\nu _ { j } ^ { 2 } } \\sin { \\theta } , \\ ( f = u ) , } \\\\ { \\displaystyle - \\frac { i \\rho _ { j } ^ { i , j } } { \\nu _ { j } ^ { 2 } } \\sin { \\theta } , \\ ( f = d , \\ e ) , } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the couplings $y _ { A i j }$ and $y _ { a i j }$ exist in the new Feynman rules and are accompanied by $\\gamma _ { 5 }$ . For investigating $( g \\mathrm { ~ - ~ } 2 ) _ { \\mu }$ excess，we do not need to invoke the so-called Cheng-Sher ansatz for $\\rho _ { f } ^ { i j } .$ [50] since the corresponding parameter space is'highly restricted [9,12]. The smallness of the mixing parameter $\\cos \\alpha$ is favored by the current LHC Higgs coupling measurements,and we will study the issue in later part.In this scenario,the coupling of the SM-like Higgs to fermions $y _ { h f f }$ approaches to the SM one, thus the flavor-violating processes mediated by the SM-like Higgs boson are almost completely suppressed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "III. SEVERALRELEVANTTOPICSWHICHARESPECIFICALLYADDRESSED",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Constraints on the parameter space of the aforemodel ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At first，we explore possible constraints coming from $B$ physics and Electroweak precision test,and find that the model is more advantageous over the Type-II 2HDM as it may evade those constraints in the situation of $m _ { H ^ { + } } ~ \\sim ~ m _ { A }$ because the $\\tan \\beta$ enhancement effect does not exist. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1．Constraints from B Physics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A light $a$ can mediate the initial and final states of decay $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ in addition to the SM contribution,hence imposes a stringent constraint on the model. For $m _ { a } \\ll m _ { Z }$ ,the correction due to an $a$ exchange at the s-channel was calculated [51] and the results are ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\mathrm { B R } \\left( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } \\right) \\approx \\mathrm { B R } \\left( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } \\right) _ { \\mathrm { S M } } ( 1 7 } \\\\ & { } & { \\qquad \\times \\left| 1 + \\frac { v ^ { 2 } m _ { B _ { s } } s _ { \\theta } ^ { 2 } \\rho ^ { b b } \\rho ^ { \\mu \\mu } } { 4 m _ { \\mu } ( m _ { B _ { s } } ^ { 2 } - m _ { a } ^ { 2 } ) } \\frac { f \\left( x _ { t } , y _ { t } , r \\right) } { Y \\left( x _ { t } \\right) } \\right| ^ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "for $\\rho _ { u } ^ { t b } = 0$ ，and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { B R } ( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } ) \\approx \\mathrm { B R } ( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } ) _ { \\mathrm { S M } } ( 1 \\ell  } \\\\ {  \\times | 1 + \\frac { v ^ { 2 } m _ { B _ { s } } s _ { \\theta } ^ { 2 } \\rho ^ { b b } \\rho ^ { \\mu \\mu } } { m _ { \\mu } ( m _ { B _ { s } } ^ { 2 } - m _ { a } ^ { 2 } ) } \\frac { f ( x _ { t } , y _ { t } , r ) } { Y ( x _ { t } ) } | ^ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "for $\\rho _ { u } ^ { t b } = \\rho ^ { b b } s _ { \\theta }$ ，with $x _ { t } = m _ { t } ^ { 2 } / m _ { W } ^ { 2 }$ ， $y _ { t } = m _ { t } ^ { 2 } / m _ { H ^ { \\pm } } ^ { 2 }$ ， $r = m _ { H ^ { \\pm } } ^ { 2 } / m _ { W } ^ { 2 }$ ，and the $f$ and $Y$ functions can be found in Eq. A.3 of the Appendix. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The average of the LHCb and CMS measurements on this mode is $\\mathrm { B R } ( B _ { s } \\to \\mu ^ { + } \\mu ^ { - } ) = ( 2 . 9 \\pm 0 . 7 ) \\times$ $1 0 ^ { - 9 }$ [52-54]. This could be compared against the SM prediction,which is taken to be $( 3 . 6 5 \\pm 0 . 2 3 ) \\times$ $1 0 ^ { - 9 }$ [55,56]. We note that the $\\tan \\beta$ enhancement effect in the calculation of $B _ { s } \\to \\mu ^ { + } \\mu ^ { - }$ with the Type-II 2HDM [48,51, 57] does not appear in our model and thus the constraint from $B _ { s }$ leptonic decay is relaxed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. The $T$ parameter ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the Type-III 2HDM, the constraint on the $T$ parameter imposed by the electroweak precision test may be the most stringent. Following the method ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "proposed by the authors of Ref.[12,58],the $T$ pa rameter in our model is obtained as, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle T = \\frac { 1 } { 1 6 \\pi s _ { W } ^ { 2 } m _ { W } ^ { 2 } } \\Big [ F ( m _ { A } ^ { 2 } , m _ { H ^ { + } } ^ { 2 } ) \\cos ^ { 2 } \\theta + \\sin \\alpha ^ { 2 } } } \\\\ { { \\displaystyle \\times \\left( F ( m _ { H ^ { + } } ^ { 2 } , m _ { H } ^ { 2 } ) - \\cos ^ { 2 } \\theta F ( m _ { A } ^ { 2 } , m _ { H } ^ { 2 } ) \\right) \\Big ] ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( x , y ) = \\frac { x + y } 2 - \\frac { x y } { x - y } \\log \\frac { x } { y } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The $a / A$ and $h / H$ mixing is highly constrained by the current LHC data to be around $\\sin \\alpha \\sim 1$ and $\\cos \\theta \\ \\sim \\ 1$ ，along with the parameter choice $m _ { H ^ { + } } \\sim m _ { A }$ ，the $T$ parameter is suppressed,as seen in Eq. 19, therefore it does not actually affect applications of this model as indicated in [59]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B.Relevant processes under investigation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the following parts,we investigate several relevant processes in this extended Type-III 2HDM model. All the puzzles about the $h  \\mu \\tau$ excess, muon $g \\mathrm { ~ - ~ } 2$ discrepancy,constraints coming from $\\tau \\to \\mu \\gamma$ ,dark matter relic abundance and GCE explanations which were not solved in previous TypeII 2HDM will be addressed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1． $h \\to \\mu \\tau$ excess ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Existence of the favor-violating Yukawa coupling in the extended Type-III 2HDM may possibly explain the $h \\to \\mu \\tau$ excess observed by the CMS collaboration.Now let us compute the branching ratio of $h \\to \\mu \\tau$ in terms of our model, the result is shown as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { B R } ( h  \\tau \\mu ) = \\frac { m _ { h } } { 8 \\pi \\Gamma _ { h } } ( | y _ { h \\tau \\mu } | ^ { 2 } + | y _ { h \\mu \\tau } | ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma _ { h }$ is the total decay width of the SM-like Higgs boson.To meet the observed excess,the flavor mixing shouldbe of a magnitude ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { \\rho } ^ { \\mu \\tau } \\equiv \\sqrt { \\frac { | \\rho _ { e } ^ { \\mu \\tau } | ^ { 2 } + | \\rho _ { e } ^ { \\tau \\mu } | ^ { 2 } } { 2 } } \\simeq 0 . 0 0 1 8 \\left( \\frac { \\sqrt { \\Gamma _ { h } } } { \\cos \\alpha } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For $\\Gamma _ { h } ~ \\sim ~ 4 . 2$ MeV and $c _ { \\beta \\alpha } ~ = ~ 0 . 0 1$ ，as long as $\\bar { \\rho } ^ { \\mu \\tau } \\sim { \\cal O } ( 0 . 1 )$ is reached,the new model is able to accommodate the $h \\to \\mu \\tau$ excess. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The previous study indicated that new physics may contribute to the anomalous magnetic moment of the muon and radiative process $\\tau \\to \\mu \\gamma$ via a chirality flipping dipole operator [60] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { C ^ { i j } } { \\Lambda _ { N P } ^ { 2 } } \\langle H \\rangle \\overline { { { e _ { i } } } } \\sigma ^ { \\alpha \\beta } P _ { R } e _ { j } F _ { \\alpha \\beta } + \\mathrm { h . c . } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $i , j$ denote the flavors of the external leptons, $F _ { \\alpha \\beta }$ is the electromagnetic strength tensor and gαβ=[γα,γ]. The diagonal component contributes to the anomalous magnetic moment of muon，whereas the off-diagonal component corresponds to a dipole transition from $\\tau$ to $\\mu$ .Itis noted that the coefficient $\\frac { C ^ { i j } } { \\Lambda _ { N P } ^ { 2 } }$ is derived in various new physics models and has different values which would help to determine the corresponding parameter space.In this work,we are going to derive this coefficient in the extended Type-III 2HDM. The flavor-violating Yukawa couplings and the newly introduced pseudoscalar induce additional contributions to $( g - 2 ) _ { \\mu }$ and $\\tau \\to \\mu \\gamma$ via one-loop and two loop Barr-Zee diagrams [61],as shown in the two panels of Figure.1. We include these extra contributions into the numerical computations. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. The muon $g$ -2anomaly ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In our case, the model-dependent coefficient （20 $C ^ { i j } / \\Lambda _ { N P } ^ { 2 }$ could be expressed as [60] ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the lepton flavor violating Lagrangian ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { L } = e m _ { l } A _ { \\mu } \\bar { l } _ { j } [ i \\sigma ^ { \\mu \\nu } q _ { \\nu } ( \\mathcal { A } _ { L } ^ { i j } P _ { L } + \\mathcal { A } _ { R } ^ { i j } P _ { R } ) l _ { j } ] } \\\\ { + h . c , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the coefficients $C ^ { i j }$ in Eq.(23） could be expressed in terms of the form factors $\\boldsymbol { \\mathcal { A } } _ { L }$ and $\\mathcal { A } _ { R }$ as done in Ref.[60], ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { \\tau \\mu } = \\frac { e m _ { \\tau } \\Lambda _ { N P } ^ { 2 } \\mathcal { A } _ { R } ^ { \\tau \\mu } } { \\sqrt { 2 } v } , \\quad C ^ { \\mu \\tau * } = \\frac { e m _ { \\tau } \\Lambda _ { N P } ^ { 2 } \\mathcal { A } _ { L } ^ { \\tau \\mu } } { \\sqrt { 2 } v } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus, the branching ratio of $\\tau \\to \\mu \\gamma$ is calculated as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\mathrm { B R } ( \\tau \\to \\mu \\gamma ) } & { { } } & { } \\\\ { \\frac { 4 8 \\pi ^ { 3 } \\alpha _ { \\mathrm { e m } } } { G _ { F } ^ { 2 } } \\left( | A _ { L } | ^ { 2 } + | A _ { R } | ^ { 2 } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { e \\delta a _ { \\mu } } { 4 m _ { \\mu } } = \\frac { { \\bf R e } \\{ C ^ { \\mu \\mu } \\} } { \\Lambda _ { N P } ^ { 2 } } { \\bf \\sigma } \\cdot \\frac { \\ v v } { \\sqrt { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The contributions coming from the two CPodd Higgs bosons give rise to ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\delta a _ { \\mu } ^ { \\mathrm { 1 - l o o p } } \\simeq \\sum _ { \\phi } y _ { \\phi \\tau \\mu } ^ { 2 } \\frac { m _ { \\mu } m _ { \\tau } } { 8 \\pi ^ { 2 } m _ { \\phi } ^ { 2 } } \\left( \\ln \\frac { m _ { \\phi } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac { 3 } { 2 } \\right) ~ ( } } \\\\ { { \\displaystyle \\delta a _ { \\mu } ^ { f } = - \\frac { \\alpha _ { \\mathrm { e m } } m _ { \\mu } } { 4 \\pi ^ { 3 } m _ { f } } \\sum _ { i , f } N _ { f } ^ { C } Q _ { f } ^ { 2 } y _ { \\phi \\mu \\mu } y _ { \\phi f \\bar { f } } f _ { \\phi } ( r _ { \\phi } ^ { f } ) } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8aac352db8a948d124795f6f35a127dc461697e804b6b1983ebe8c27d85074aa.jpg",
+        "img_caption": [
+            "FIG.1: The Feynman diagrams for $\\tau \\to \\mu \\gamma$ and $( g - 2 ) _ { \\mu }$ where $\\phi$ represents $h , H , A , a$ and the loop at the bottom panel corresponds to $t , W$ and Goldstone loops. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\phi = A , a$ ， $r _ { \\phi } ^ { f } = m _ { f } ^ { 2 } / m _ { \\phi } ^ { 2 }$ and $y _ { \\phi f f ^ { \\prime } }$ is defined in Eq.(16), $f _ { \\phi }$ could be found in Eq. A.1 of the attached Appendix.The $W$ and Goldstone loops would not contribute to the BarrZee diagrams for $C _ { A ( a ) W W } = 0$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.The T → μγ process ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Due to $| y _ { h \\tau \\mu } | = | y _ { h \\mu \\tau } |$ in the model,we have $\\vert \\mathcal { A } _ { L } \\vert = \\vert \\mathcal { A } _ { R } \\vert \\equiv \\vert \\mathcal { A } \\vert$ ．The two CP-odd Higgs bosons contribute to the form factor $\\mathcal { A }$ through 1-loop and 2-loop Barr-Zee diagrams as shown in Fig.1,and the new form factor is obtained as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { A } = \\frac { 1 } { 1 6 \\pi ^ { 2 } } \\left( \\mathcal { A } _ { 1 } + \\mathcal { A } _ { 2 } ^ { t , b } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\mathcal { A } _ { 1 } ~ = ~ \\sqrt { 2 } \\sum _ { \\phi } \\frac { y _ { \\phi \\mu \\tau } y _ { \\phi \\tau \\tau } } { m _ { \\phi } ^ { 2 } } \\left( \\ln \\frac { m _ { \\phi } ^ { 2 } } { m _ { \\tau } ^ { 2 } } - \\frac { 3 } { 2 } \\right) , } } \\\\ { { \\displaystyle \\mathcal { A } _ { 2 } ^ { t , b } ~ = ~ 2 \\sum _ { \\phi , f } y _ { \\phi \\mu \\tau } y _ { \\phi f f } \\frac { N _ { c } Q _ { f } ^ { 2 } \\alpha _ { \\mathrm { e m } } } { \\pi } \\frac { f _ { \\phi } ( r _ { \\phi } ^ { f } ) } { m _ { \\tau } m _ { f } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The other contributions from the CP-even Higgs bosons are induced by the 2-loop BarrZee diagrams where an intermediate photon and a $W$ -boson are involved[12, 62]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. DM annihilation and GCE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For $m _ { a } \\ll m _ { A }$ ,the Dirac DM fermions annihilate into $b b$ primarily through exchanging $a$ at s-channel, the annihilation cross section for the relative velocity $v _ { r }$ is given as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\sigma v _ { r } \\rangle \\simeq \\frac { 3 } { 1 6 \\pi } \\frac { y _ { \\chi } ^ { 2 } ( \\rho _ { f } ^ { i j } ) ^ { 2 } s _ { 2 \\theta } ^ { 2 } m _ { \\chi } ^ { 2 } } { ( s - m _ { a } ^ { 2 } ) ^ { 2 } + m _ { a } ^ { 2 } \\Gamma _ { a } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\sqrt { s }$ is the center-of-mass energy of the annihilating DM fermions, $m _ { a }$ and $\\Gamma _ { a }$ are the mass and decay width of the mediator boson $a$ respectively. In thenon-relativisticapproation $s \\sim 4 m _ { \\chi } ^ { 2 } + m _ { \\chi } ^ { 2 } v _ { r } ^ { 2 }$ thus Eq.33 can be rewritten as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\sigma v _ { r } \\rangle \\simeq \\frac { 3 } { 2 5 6 \\pi m _ { \\chi } ^ { 2 } } \\frac { y _ { \\chi } ^ { 2 } ( \\rho _ { f } ^ { i j } ) ^ { 2 } s _ { 2 \\theta } ^ { 2 } } { ( \\delta + v _ { r } ^ { 2 } / 4 ) ^ { 2 } + \\gamma ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\gamma \\equiv m _ { a } \\Gamma _ { a } / 4 m _ { \\chi } ^ { 2 }$ and $\\delta$ are two dimensionless parameters,and the kinematic factor $\\delta$ is defined as $\\delta = 1 - m _ { a } ^ { 2 } / ( 4 m _ { \\chi } ^ { 2 } )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As long as $\\delta$ is not too small, the DM annihilation could occur in the region far away from the resonance, then the cross section is almost indepen dent of the velocity. In this case,the GCE and correct thermal DM relic density could be accommodated simultaneously provided that the parameter $y _ { \\chi } ^ { 2 } ( \\rho _ { f } ^ { i j } ) ^ { 2 } s _ { 2 \\theta } ^ { 2 }$ is adjusted toanappropriatevalueFor small $\\delta$ , the resonance effect would enhance the DM annihilation cross section. For that case,adjusting the parameter $y _ { \\chi } ^ { 2 } ( \\rho _ { f } ^ { i j } ) ^ { 2 } s _ { 2 \\theta } ^ { 2 } / ( \\delta ^ { 2 } + \\gamma ^ { 2 } )$ can give a reasonable explanation to the GCE observation.When $\\delta > 0$ , Eq. 34 indicates that the magnitude of $\\left. \\sigma v _ { r } \\right.$ decreases as the temperature increases and the process ${ \\bar { \\chi } } \\chi \\to a \\to b b$ does not sufficiently reduce the DM abundance at the freeze-out epoch,therefore some other annihilation processes which affect the DM relic abundance must exist in the Lee-Weinberg evolution equation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.A SYNTHESIS OF ALL THE INGREDIENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this section，we perform a numerical analysis to investigate the CMS $h \\to \\mu \\tau$ excess，muon $( g - 2 ) _ { \\mu }$ anomaly and the $\\tau \\to \\mu \\gamma$ ，as well as DM relic abundance and GCE in the extended TypeIII 2HDM.The model has been implemented in the program FeynRules[63],and the model file of the form CalcHEP [64] has been employed in the packages micrOMEGAs 4.1.8 [65] to calculate the relic density and the annihilation cross section of DM. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Higgs masses in the model are set as: $m _ { H } =$ 150 GeV, $m _ { H ^ { \\pm } } = m _ { A } = 3 0 0$ GeV.Here the value of $m _ { H ^ { \\pm } }$ is allowed by the flavor physics constraint [66], and $m _ { A } = m _ { H ^ { \\pm } }$ is suggested by the $T$ parameter constraint as indicated in section.IIIA2，and the value of $m _ { H }$ employed in our computations is consistent with the vacuum stability requirement [67]. The magnitude of the two CP-even Higgs mixing angle $\\alpha$ , is severely constrained by the recent Higgs data [68],and its closeness to $\\pi / 2$ will be explored in later parts of this work. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The invisible and undetected decays of SM-like Higgs boson are accounted as the decays of beyond SM(BSM) Higgs boson [68]，and it is denoted as $\\Gamma ( h \\to a a ) + \\Gamma ( h \\to \\mu \\tau ) = \\Gamma _ { \\mathrm { B S M } } ( h )$ .Since the contribution of BSM to the decay branching ratio is bounded bellow O.34 at 68% CL, the decay of $h  a a$ and $h \\to \\mu \\tau$ in this model would be constrained. The best fit of the branching ratio of the undetected decays is $\\leq 0 . 2 3$ at $6 8 \\%$ CL，and this limit allows that of $\\mathrm { B R } ( h \\to \\mu \\tau ) = ( 0 . 8 4 _ { - 0 . 3 7 } ^ { + 0 . 3 9 } ) \\%$ ，therefore it implies that the constraint on the flavor violating process is relaxed. As $m _ { a } < m _ { h } / 2$ ，the $a / A$ mixing angle $\\theta$ dominates the exotic decay rate of the SMlike Higgs $h  a a$ and changes the total decay width of the SM-like Higgs,by which the prediction value of $\\mathrm { B R } ( h  \\mu \\tau )$ in this model would be affected. The magnitude of $\\theta$ is required to be at order of $O ( 0 . 0 1 - 0 . 1 )$ required by the present Higgs signal fit which is also welcome by the estimate of the DM relic abundance and GCE interpretation since this value affects the magnitude of $\\left. \\sigma v _ { r } \\right.$ (see Eq.34). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The parameter dependence of the coupling $\\rho _ { d } ^ { b b }$ ( denoted as $\\rho _ { b b }$ for simplicity）needs to be carefully analyzed for the following reasons: the coupling $\\rho _ { b b }$ is responsible for one of the dominant_ decay modes of the SM-like Higgs boson $h  b b$ ，thus any change of $\\rho _ { b b }$ would affect the theoretical prediction on $\\operatorname { B R } ( h \\to \\mu \\tau )$ ; meanwhile the DM annihilation $\\chi \\chi \\to b b$ is supposed to be the dominant one and its cross section is proportional to the square of $\\rho _ { b b }$ ，as given in Eq.34. $\\rho _ { b b }$ is set at the same order as $\\rho _ { \\mu \\tau }$ ，i.e.as aforementioned in sec.IIB1. The contributions of tau lepton and top quark dominate $\\mathrm { B R } ( \\tau \\to \\mu \\gamma$ )，asshown in Eq.31 and Eq.32.Thus the two parameters $\\rho _ { e } ^ { \\tau \\tau }$ and $\\rho _ { u } ^ { t t }$ (denoted as $\\rho _ { \\tau \\tau }$ and $\\rho _ { t t }$ for simplicity）need to be explored,here we use the parameter range of $\\rho _ { \\tau \\tau } ( \\rho _ { t t } ) \\sim \\rho _ { b b }$ . Even though we do not take the Cheng-Sher ansatz for $\\rho _ { f } ^ { i j }$ , we still choose a negative value for $\\rho _ { f } ^ { i j }$ as in the Cheng-Sher ansatz [9,12],except for $\\rho _ { \\tau \\tau }$ and $\\rho _ { t t }$ while considering the current experimental constraint of $\\tau \\to \\mu \\gamma$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To interpret GCE,the DM fermion mass and the coupling of the DM fermion to the mediator $( a , A )$ are set as $m _ { \\chi } = 3 0$ GeV and $y _ { \\chi } = 0 . 5$ , and the range of $m _ { a }$ ranges between 30 GeV-95 GeV to account for the resonance effects in the DM annihilation process. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To obtain the parameter spaces favored by the physical picture including all the aforementioned constraints,we perform a complete numerical analysis for all possible parameter spaces: $\\alpha - \\rho _ { \\mu \\tau }$ ， $\\alpha - \\theta$ ， $\\theta - \\rho _ { \\mu \\tau }$ ， $\\rho _ { b b } - \\rho _ { \\mu \\tau }$ ， $\\rho _ { t t } - \\rho _ { \\tau \\tau }$ ,and $m _ { a } - \\theta$ , with relevant parameters being free within the ranges of: 30 GeV $\\leq$ $m _ { a } ~ \\leq ~ 9 5$ GeV, $0 . 0 2 5 < \\theta < 0 . 1$ ， $1 . 4 7 5 \\ <$ $\\alpha \\ < \\ 1 . 5 7$ ， $- 0 . 1 1 5 \\ < \\ \\rho _ { \\mu \\tau } \\ < \\ 0$ ， $- 0 . 3 \\ < \\ \\rho _ { b b } \\ < \\ 0$ ， $- 0 . 2 8 < \\rho _ { t t } < 0 . 2 8$ ， $- 0 . 0 5 < \\rho _ { \\tau \\tau } < 0 . 0 5$ based on aforementioned arguments.For each specific parameter space listed above,several parameters need to be fixed as shown in the following ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "· for parameters spaces of $\\alpha - \\theta \\ ( \\alpha - \\rho _ { \\mu \\tau } )$ （20 $\\rho _ { \\mu \\mu } = - 0 . 0 1$ ， $\\rho _ { \\tau \\tau } = 0 . 0 1 2$ ， $\\rho _ { t t } = - 0 . 2$ ， $\\rho _ { b b } =$ −0.2，and $m _ { a } ~ = ~ 5 0 \\mathrm { G e V } ( 4 6 ~ \\mathrm { G e V } )$ ， $\\begin{array} { r l } { \\rho _ { \\mu \\tau } } & { { } = } \\end{array}$ （204号 $- 0 . 1 0 2 ( \\theta = 0 . 0 6 )$ ； · for parameters spaces of $\\rho _ { t t } - \\rho _ { \\tau \\tau } ( \\rho _ { b b } - \\rho _ { \\mu \\tau } )$ ： （204 $m _ { a } = 5 0 \\mathrm { G e V }$ ， $\\alpha = 1 . 5 4 6$ ， $\\rho _ { \\mu \\mu } = - 0 . 0 1 ,$ 0=   \n0.045, $\\rho _ { b b } = - 0 . 2$ and $\\rho _ { \\mu \\tau } = - 0 . 1 0 2$ 0 $\\dot { } \\rho _ { \\tau \\tau } =$   \n0.012 and $\\rho _ { t t } = - 0 . 2 \\$ ; · for the $\\rho _ { \\mu \\tau } - \\theta ( m _ { a } - \\theta )$ parameter spaces: （204号 $\\alpha = 1 . 5 4 6$ ， $\\rho _ { \\tau \\tau } = 0 . 0 1 5$ ， $\\rho _ { t t } = - 0 . 2$ ， $\\rho _ { b b } =$ $- 0 . 2$ ，and $\\rho _ { \\mu \\mu } = - 0 . 0 1 ( - 0 . 0 2 )$ ， $m _ { a } = 5 0 \\mathrm { G e V }$ （20 （ $\\rho _ { \\mu \\tau } = - 0 . 1 0 2 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conducting a numerical analysis by means of the above parameter setup,the relevant processes are depicted by the figure 2 (see the caption of the figure for details). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. The $h \\to \\mu \\tau$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To understand the CMS excess $0 . 8 4 _ { - 0 . 3 7 } ^ { + 0 . 3 9 } \\%$ thereatioewelin （204号 $\\rho _ { \\mu \\tau }$ and $\\alpha$ given in Eq. 22 should be satisfied. The region colored by magenta in the top-left plot of Fig.2 is allowed to explain this excess.Witha properly fixed $\\alpha$ ,theboth plots of the middle panel show that a sizeable coupling （204号 $\\rho _ { \\mu \\tau } \\sim 0 . 1$ is required. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The exotic decay mode $h  a a$ with a large branching ratio can efficiently change the total Higgs decay width,thus the $a / A$ mixing angle $\\theta$ and the mediator mass $m _ { a }$ affect the prediction of $\\operatorname { B R } ( h \\to \\mu \\tau )$ ，as plotted in the bottom-right panel. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The whole magenta region in the bottom-right panel with the value of $\\mathrm { B R } ( h \\to \\mu \\tau ) = 0 . 6 1$ （204号 implies that when $\\theta$ is relatively small or in a case of $2 m _ { \\chi } < m _ { a }$ , the decay process of $h  a a$ cannot occur，so would not affect the Higgs total width and becomes irrelevant to $h \\to \\mu \\tau$ process.Eq.21 clearly interprets the situation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is worth indicating that when this work is close to be finalized, the ATLAS collaboration published new analysis on $h  \\mu \\tau _ { h }$ ，theyobtained a slightly smaller excess compared to the CMS result,while its upper bound is consistent with the CMS result [69]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. The muon $g - 2$ anomaly ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The contribution of two-loop Barr-Zee diagrams to $\\delta \\boldsymbol { a } _ { \\mu }$ is negligible because of the smallness of $\\cos \\alpha$ ．The dominant contributions to $\\delta \\boldsymbol { a } _ { \\mu }$ include the one-loop diagrams where CPeven Higgs $H$ and CP-odd $A$ are mediators, especially, the two diagrams respectively provide negative and positive contributions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The contribution of the one-loop diagram where CP-odd $a$ is the mediator to $\\delta \\boldsymbol { a } _ { \\mu }$ is positive,it becomes larger for smaller $m _ { a }$ and/or larger $\\theta$ ,therefore cancels out the contribution of the diagram where $H$ is involved. The situation is depicted at the top- and bottom-right panels of Fig.2 (by the red dashed curves). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To gain the outcome result which is consistent with the present experimental value $( \\delta a _ { \\mu } / 1 0 ^ { - 9 } = ( 2 . 6 1 \\pm 0 . 8 ) \\$ [70]),a sizeable $\\rho _ { \\mu \\tau }$ is required,it is also consistent with the CMS $h \\ \\to \\ \\mu \\tau$ excess， and its_dependence on $\\rho _ { \\mu \\tau }$ is demonstrated in the plots(top-left and the middle panels). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Within the allowed parameter space in $\\rho _ { \\tau \\tau }$ 1 $\\rho _ { t t }$ ，a value of muon $g$ -2: $\\delta a _ { \\mu } = 2 . 8 0 \\times 1 0 ^ { - 9 }$ is reached. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Constraints from $\\tau \\to \\mu \\gamma$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The dominant contributions come from the one-loop diagrams( $A$ -loop and $H$ -loop diagrams) and the Barr-Zee diagram with topquark being involved, asshownin ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/68799feea3e5da467f3bc71d1ce22cdcf6290d8832ccfde4259a026b5e45a819.jpg",
+        "img_caption": [
+            "FIG. 2: The corresponding results are presented as functions of $\\alpha$ ， $\\rho _ { b b }$ ， $\\rho _ { t t }$ ， $\\rho _ { \\tau \\tau }$ ， $\\rho _ { \\mu \\tau }$ ， $m _ { a }$ and $\\theta$ The cyan (orange) regions give the DM annihilation cross section of $\\langle \\sigma v _ { r } \\rangle = ( 0 . 5 - 4 ) \\times 1 0 ^ { - 2 6 } \\mathrm { c m } ^ { 3 } / \\mathrm { s } ( ( 0 . 5 - 1 ) \\times 1 0 ^ { - 2 6 } \\mathrm { c m } ^ { 3 } / \\mathrm { s } )$ . DM relic density $\\Omega h ^ { 2 } ( = 0 . 1 1 9 7 \\pm 0 . 0 0 2 2 )$ is depicted by blue lines and contours.Magenta region/contours are for CMS $h \\to \\mu \\tau$ （20 excess. Red dashed lines are contours of $\\delta a _ { \\mu } / 1 0 ^ { - 9 }$ . The black curves are contours of $\\mathrm { B R } ( \\tau \\to \\mu \\gamma ) / 1 0 ^ { - 8 }$ ,and the red region in the bottom-left panel is consistent with the experimental constraint $< 4 . 4 \\times 1 0 ^ { - 8 }$ .The green curves are contours of BR( $h  a a$ ).The gray region is ruled out by the constraints of CMS Higgs signal strengths. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Eq. (30,31,32). Existence of opposite signs be",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$H$ (negative) and the CP-odd Higgs $A$ (positive) one-loop diagrams [12] leads to a cancelation effect,however, it does not occur as long as $m _ { A } > m _ { H }$ .With a large coupling $\\rho _ { t t }$ and under the limit $\\sin \\alpha \\sim 1$ ，the Barr-Zee diagram involving top-quark composes the dominant contribution (positive） to $\\tau \\to \\mu \\gamma$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additionally, like the case of $\\delta \\boldsymbol { a } _ { \\mu }$ ，as $m _ { a }$ is smaller and $\\theta$ is larger, the importance of the one-loop where $a$ is involved to $\\mathrm { B R } ( \\tau \\to \\mu \\gamma ,$ enhances as shown in the bottom-right panel of Fig.2. As well,a smaller $\\alpha$ would also induce an enhancement of the contribution of the $h$ mediated Barr-Zee diagram with a $W$ loop. Thus due to the contributions of this Barr-Zee diagram and the $a$ one-loop diagram,for a region with larger $\\theta$ and smaller $\\alpha$ ,our calculation would predict an even larger BI $\\operatorname { \\mathrm { \\Omega } } ^ { \\mathrm { \\Omega } } \\left( \\tau \\to \\mu \\gamma \\right.$ ） (see the top-right panel). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The theoretical prediction on $\\mathrm { B R } ( \\tau \\ \\to \\ \\mu \\gamma )$ （2 with respect to $\\rho _ { \\mu \\tau }$ (plotted at the top-left and middle panels) shows that its behavior is similar to that for $\\delta \\boldsymbol { a } _ { \\mu }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is noteworthy that since the the form factor $\\mathcal { A }$ is related to tau lepton and top quark through the concerned loops, (see Eq. (31,32)), the current experimental bound $\\mathrm { B R } ( \\tau { \\quad } $ $\\mu \\gamma ) < 4 . 4 \\times 1 0 ^ { - 8 }$ [71,72] constrains $\\rho _ { \\tau \\tau }$ and $\\rho _ { t t }$ strictly. The red region in the bottom-left panel of Fig.2 is allowed.It is interesting to note that $\\rho _ { t t }$ and $\\rho _ { \\tau \\tau }$ should have opposite signs as favored by the data. This result agrees with that given by the authors of Ref. [11]. One can see that the upper bound demands $\\rho _ { \\tau \\tau }$ to be small as about $| \\rho _ { \\tau \\tau } | < 0 . 0 4$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "values of $\\langle \\sigma v _ { r } \\rangle = 1 . 8 ( 2 . 5 ) \\times 1 0 ^ { - 2 6 } \\mathrm { c m ^ { 3 } / s }$ = ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The blue curves and contours from Fig. 2 represent the correct dark matter relic density （ $\\Omega h ^ { 2 } = 0 . 1 1 9 7 \\pm 0 . 0 0 2 2$ [74]).We note that the range of $\\left. \\sigma v _ { r } \\right.$ favored by the DM relic density and GCE as expected highly depends on ， $\\theta$ ，and (see Sec.IIIB3). Due to the $m _ { a }$ $\\rho _ { b b }$   \nenhancement of the annihilation cross section when the mediator mass ma is close to \\~ 2mx the dark matter relic density rules out a range in the parameter space (see the bottom-right panel). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With a sizeable $\\rho _ { b b } \\sim O ( 0 . 1 )$ ，the DM relic density and GCE could be tolerated simultaneously in a range of $\\langle \\sigma v _ { r } \\rangle = ( 0 . 5 - 4 ) \\times$ $1 0 ^ { - 2 6 } \\mathrm { c m ^ { 3 } / s }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "However，the results newly reported by the Fermi-LAT and DES collaborations constrain $\\left. \\sigma v _ { r } \\right.$ to be smaller than $1 . 0 \\times 1 0 ^ { - 2 6 } \\mathrm { c m ^ { 3 } / s }$ for the 3O GeV dark matter fermions,which is slightly smaller than the value required by the thermal relic abundance,thus there should exist other additional DM annihilation channels to make up the correct DM relic density [75,76]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5. The CMS constraints ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Recently， the CMS collaboration combined the comprehensive sets of production and decaymeasurementsforthe125 GeVHiggs boson，including decay channels into $\\gamma \\gamma , Z Z ^ { * } , W W ^ { * } , \\tau ^ { + } \\tau ^ { - } , b b$ ，and $\\mu ^ { + } \\mu ^ { - }$ ，and found no significant deviation from the standard model predictions [68]. That synthesis should severely constrain the parameter spaces of all built models. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.DM relic density and GCE ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As long as assuming that the observed GCE is caused by dark matter annihilation,the lower bound of the annihilation cross section $\\left. \\sigma v _ { r } \\right.$ should be about $0 . 5 \\times 1 0 ^ { - 2 6 } \\mathrm { c m ^ { 3 } / s }$ as discussed in Ref.[22]. The upper bound of $\\left. \\sigma v _ { r } \\right.$ is determined to be $4 . 0 \\times 1 0 ^ { - 2 6 } ~ \\mathrm { { c m ^ { 3 } / s } }$ at $9 5 \\%$ CL. [33]. Also the data of Pass 8 of Fermi-LAT [73] from dwarf spheroidal satellite galaxies set a new upper bound $( \\sim 1 . 0 \\times 1 0 ^ { - 2 6 } \\mathrm { c m ^ { 3 } / s ) }$ on the dark matter annihilation cross section at the dark matter mass 3O GeV.The areas in Fig. 2 that give an annihilation cross section of $\\langle \\sigma v _ { r } \\rangle =$ $0 . 5 - 4 . 0 ( 1 . 0 ) \\times 1 0 ^ { - 2 6 } \\mathrm { { c m } ^ { 3 } / \\mathrm { { s } } }$ are depicted as the cyan (orange) regions. As for the top-left (bottom-left）parameter space,the calculated ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "More specifically, the signal strengths for $\\tau ^ { + } \\tau ^ { - } , b \\bar { b } , W W ^ { * } , Z Z ^ { * } , \\gamma \\gamma$ channels are defined as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { i } = \\frac { \\sigma ( h ) \\times \\mathrm { B R } _ { i } } { \\sigma ^ { \\mathrm { S M } } ( h ) \\times \\mathrm { B R } _ { i } ^ { \\mathrm { S M } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "which can be gained by fitting the CMS data within $1 \\sigma$ tolerance [77].In the text $\\sigma ( h )$ and $\\boldsymbol { \\sigma } ^ { \\mathrm { { s m } } } ( h )$ ( $\\mathrm { B R } _ { i }$ and $\\mathrm { B R } _ { i } ^ { \\mathrm { S M } }$ ） correspond to the Higgs production cross section (decay branching fractions of the five decay modes） predicted by respectively this model and the SM as $\\mathrm { B R } _ { i } = \\Gamma ( h \\to i i ) / ( \\Gamma _ { \\mathrm { B S M } } ( h ) + \\Gamma _ { \\mathrm { S M } } ( h ) )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We find that the upper bound on $\\mu _ { W }$ and the lower bound on $\\mu _ { \\gamma }$ set more rigorous constraints on the parameters of this model,and the grey areas in Fig.2 are excluded.With the allowed spaces of the parameters,the ranges of the signal strengths $\\mu _ { i }$ are given in Table.I. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/becfd7735cee0c1ce8baea8d2f637171ad1d21faba29a96f4faab19ab43fc7f8.jpg",
+        "table_caption": [
+            "TABLE I:A comparison of the signal strengths in the allowed parameter spaces of this model with the Higs data coming from CMS [68]. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>CMS[68]</td><td>ma-0</td><td>α-θ</td><td>α-PμT</td><td>PμT-0</td><td>PTT-Ptt</td><td>PμT-Pbb</td></tr><tr><td>μT</td><td>0.91 ±0.28</td><td>0.94-1.07</td><td>0.92-1.11</td><td>0.93-1.10</td><td>0.94-1.08</td><td>0.85-1.19</td><td>0.92-1.0</td></tr><tr><td>μb</td><td>0.84±0.44</td><td>0.58-0.67</td><td>0.63-0.65</td><td>0.64-0.65</td><td>0.58-0.67</td><td>0.64-0.69</td><td>0.64-0.66</td></tr><tr><td>μW</td><td>0.83±0.21</td><td>0.88-1.0</td><td>0.88-1.04</td><td>0.89-1.03</td><td>0.88-1.0</td><td>0.96-1.04</td><td>0.87-1.03</td></tr><tr><td>μz</td><td>1.0 ±0.29</td><td>0.88-1.0</td><td>0.88-1.04</td><td>0.89-1.03</td><td>0.88-1.0</td><td>0.96-1.04</td><td>0.87-1.03</td></tr><tr><td>μ~</td><td>1.12 ± 0.24</td><td>0.88-1.0</td><td>0.88-1.04</td><td>0.89-1.04</td><td>0.88-1.01</td><td>0.97-1.04</td><td>0.88-1.04</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The CMS Higgs decay signal strength strongly constrains the $h / H$ ， $a / A$ mixing angles $\\alpha$ and $\\theta$ ,concretely it demands both sin $\\alpha$ and $\\cos \\theta$ to be close to unity (see the middle-left and top panels). The constraint on $\\alpha$ is found to be compatible with the parameter space obtained by accounting for the $h \\to \\mu \\tau$ excess. $\\rho _ { b b }$ is also severely bounded since it could affect the primary decay mode of the SM-like Higgs significantly. As is shown in middle-right panel of Fig.2,which is a contour diagram of $\\rho _ { b b }$ $\\rho _ { \\mu \\tau }$ , one notes that only a small band with $\\rho _ { b b }$ being between $- 0 . 1 5$ and $- 0 . 2 2$ is not ruled out. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile from the contour diagram of $m _ { a } - \\theta$ one can see that as long as $\\mathrm { B R } ( h  a a )$ is larger than O.12,the grey regions in the figure are excluded by the CMS Higgs signal strengths. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the not-yet-detected channel $h \\ \\to \\ a a$ ， the pseudoscalar primarily decays into $b b$ ,then there should be an additional contribution of the process $h  a a  4 b$ in the $h \\  \\ b b$ searches [78],and the data of the CMS experiment [68,79] would definitely constrain the coupling between $h b \\bar { b }$ as long as $m _ { a } < m _ { h } / 2$ The upper bound on the undetected decay of Higgs will be further improved as the $b b$ pair production is measured at the 13 (14)TeV. Moreover the $h  2 b 2 \\nu$ searches at LHC [48] could give more rigorous constraints on the parameters $m _ { a }$ and $\\theta$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6.Collider observation of the pseudoscalar ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the benchmark scenarios of the work,when $m _ { a } > 2 m _ { \\chi }$ ,the masses relation $m _ { A } > m _ { h } + m _ { a }$ opens the channel $p p ( g g ) ~  ~ A ~  ~ h ( h ~ $ $\\gamma \\gamma ) a ( a  \\chi \\bar { \\chi } )$ for the observation of the pseudoscalar $a$ at theLHC,which is found to be the case of the mono-Higgs searches in [8O].The backgrounds are dominated by the SM process $p p \\to Z \\gamma \\gamma ^ { 1 }$ with $Z \\to \\nu \\nu$ ，and the Higgs associated production process $p p  Z h$ with $Z \\to \\nu \\nu$ . The collider analysis is performed by generating signal and background events with MADGRAPH5_AMC $@$ NLO [81, 82] at 14 TeV, and then passing on to PYTHIA 8.1[84] for parton shower and hadronization,and the detector simulation is conducted by DELPHEs 3[85] at last. After implement the selection cuts $m _ { \\gamma \\gamma } \\in [ 1 2 0 , 1 3 0 ]$ GeV,as well as $\\mathcal { \\vec { H } } _ { T } , \\mathcal { P } _ { T } ^ { \\gamma \\gamma } > 7 6$ GeV following Ref.[8O], the number of events of signal and background are obtained as 37 and 48respectively, thus the significance for the observation of $a$ is found to $S / \\sqrt { S + B } \\sim 4$ for the benchmark of $m _ { a } - \\theta$ with $\\theta = 0 . 0 8 , m _ { a } =$ 76 GeV and with an integrated luminosity $\\mathscr { L } = 3 0 0 f b ^ { - 1 }$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The probe of the pseudoscalar could also be conducted with hard b-jets and large missing transverse energy [86] when $m _ { a } > 2 m _ { \\chi }$ and the pseudoscalar dominantly decay to dark matter.And when the pseudoscalar decay mostly to b-quarks,the collider search of the pseudoscalar could be found in Ref.[24]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "V.CONCLUSIONS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The discovered anomalies by the LHC experiments and observations of the Dark matter greatly excite the curiosity of human beings and inspire enthusiasm of searching for new physics beyond standard model.However，so far，the trend is not very successful. Even though we know new physics must be around,but do not know its scale.Direct and indirect search for dark matter,LHC experiments,long-baseline and short-baseline neutrino experiments and numerous lower energy experiments including BELLE,BES and many others provide hints towards new physics beyond standard model, however at the same time,set more and more rigorous constraints on those models which have been proposed to explain the anomalies observed in astronomy and high energy experiments. Some of the models survive the so-far measurements and many have been ruled out. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In this work, we have extended the Type-III 2HDM by introducing a pseudoscalar $a$ which can mediate the DM pair annihilation process.In a recent paper,Han et al.[87]also extended the 2HDM with an aligned Yukawa sector to explain the $( g - 2 ) _ { \\mu }$ excess,in comparison,our scheme is somewhat different from theirs.We not only consider the $( g - 2 ) _ { \\mu }$ excess,but also many other constraints from both earth experiments and cosmology.In this framework，the LFV process $h  \\mu \\tau$ observed at LHC is addressed, the possibility of explaining the muon $g - 2$ anomaly, dark matter relic abundance and GCE have also been investigated,the role played by the newly introduced $a$ is studied in some details.It is found that there indeed exist certain parameter spaces which can tolerate $h \\to \\mu \\tau$ excess, muon $g - 2$ discrepancy and dark matter relic abundance. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With the flavor violating coupling $\\rho _ { \\mu \\tau } \\sim O ( 0 . 1 )$ and a tiny mixing between $h$ and $H$ around $\\sin \\alpha \\sim$ 1,the observation of the $h  \\mu \\tau$ excess could be easily accommodated. The pseudoscalar $a$ opens an important undetected decay channel for the SM-like Higgs ( $h  a a$ as $m _ { a } < { m _ { h } } / { 2 }$ ，thus affects the branching ratio of $h  \\tau \\mu$ .It also plays a role to explain the discrepancy between theoretical prediction and data of $( g - 2 ) _ { \\mu }$ . A smaller $m _ { a }$ and a slightly larger CP-odd $a / A$ mixing $\\theta$ helps to interpret the muon $g - 2$ anomaly. Increasing the CP-odd Higgs mixing angle and $| \\rho _ { \\mu \\tau } |$ increases I $3 \\mathrm { R } ( \\tau \\to \\mu \\gamma )$ ，thus would further constrain the parameters space of our model. The measurement of the branching ratio of $\\tau \\to \\mu \\gamma$ sets a stringent bound on the flavor conserving Yukawa couplings $\\rho _ { t t }$ and $\\rho _ { \\tau \\tau }$ ，moreover,it determines an opposite sign between the two couplings.There are parameter regions in our model allowed by the current experimental data of $\\tau \\to \\mu \\gamma$ where both the measured $h  \\mu \\tau$ excess and the muon g-2 anomaly can be explained. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To account for the dark matter relic density, the $a / A$ mixing angle should be of order $O ( 0 . 0 1 )$ and （204号 $\\rho _ { b b } \\sim { \\cal O } ( 0 . 1 )$ is required,however this parameter region does not coincide with that favored by the GCEobservation if it is postulated that the GCE is fully coming from the $\\chi \\chi$ DM pair annihilation. This inconsistency may imply that there are other sources to result in the GCE besides the pure $\\chi \\bar { \\chi }$ DM annihilation mechanism. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The LFV process $h \\to \\mu \\tau$ is studied in terms of our model and our prediction on $\\operatorname { B R } ( h \\to \\mu \\tau )$ is qualitatively consistent with that observed by CMS and ATLAS at 8 TeV,however to makea decisive conclusion,more data are needed and theLHCRunII of14 TeV should help.A synthesis of data accumulated by high energy collider LHC,the future SPPC of 100 TeV and maybe some lower energy experiments as well as the new astronomical observation would make the whole picture clearer, then we will be able to judge whether this model indeed works or needs to be further modified. For the case of ma > 2mx, the mono-Higgs search provide one possible probe of the pseudoscalar. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix:Loop functions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The function $f _ { \\phi }$ and $h$ using for the calculation of （204号 $g - 2$ and $\\tau \\to \\mu \\gamma$ are given by, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { A , a } ( r ) = \\frac { r } { 2 } \\int _ { 0 } ^ { 1 } d x \\frac { 1 } { x ( 1 - x ) - r } \\log \\frac { x ( 1 - x ) } { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The functions $f \\left( x , y , r \\right)$ and Inami-Lim function $Y ( x )$ being used in Eq.（17) are ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { f \\left( x , y , r \\right) = \\displaystyle \\frac { x } { 8 } \\Biggl [ - \\frac { r \\left( x - 1 \\right) - x } { \\left( r - 1 \\right) \\left( x - 1 \\right) } \\log r + \\frac { x \\log x } { \\left( x - 1 \\right) } } } \\\\ { { \\displaystyle \\qquad - \\frac { y \\log y } { \\left( y - 1 \\right) } + \\frac { x \\log y } { \\left( r - x \\right) \\left( x - 1 \\right) } \\Biggr ] , \\quad \\mathrm { ( A . ~ } } } \\\\ { { \\displaystyle Y \\left( x \\right) = \\frac { x } { 8 } \\left[ \\frac { x - 4 } { x - 1 } \\log x + \\frac { 3 x \\log x } { \\left( x - 1 \\right) ^ { 2 } } \\right] . \\qquad \\mathrm { ( A . ~ } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Peng-Fei Yin and Zuowei Liu for helpful discussions on Galactic Center gamma ray excess. This work is supported by the National Natural Science Foundation of China under Grants No.11375128，and No.11547305，and by Fundamental Research Funds for the Central Universities under Grant No.0903005203404. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] A.Vicente,arXiv:1411.2372 [hep-ph].   \n[2] V.Khachatryanet al.[CMS Collaboration], arXiv:1502.07400 [hep-ex].   \n[3] A.Crivellin, A.Kokulu and C. Greub, Phys.Rev.D87, no. 9, 094031 (2013) doi:10.1103/PhysRevD.87.094031 [arXiv:1303.5877 [hep-ph].   \n[4] A.Crivellin,G.D?Ambrosio and J. Heeck，Phys. Rev.Lett.114,151801 (2015) [arXiv:1501.00993 [hep-ph]].   \n[5] A.Crivellin, J. Heeck and P. Stoffer, arXiv:1507.07567 [hep-ph].   \n[6] A.Crivellin,G.D?Ambrosio and J.Heeck,Phys. Rev.D 91,no.7,075006(2015） [arXiv:1503.03477 [hep-ph].   \n[7] I.Dorner，S. Fajfer，A. Greljo,J. F. Kamenik, N.Konik and I. Niandic,JHEP 1506,108 (2015) [arXiv:1502.07784 [hep-ph].   \n[8] A.Hektor，K.Kannike and L.Marzola，JCAP 1510， n0．10，025(2015） doi:10.1088/1475- 7516/2015/10/025 [arXiv:1507.05096 [hep-ph].   \n[9] D.Aristizabal Sierra and A.Vicente,Phys.Rev. D 90,no.11,115004 (2014) [arXiv:1409.7690 [hepph]].   \n[10] W.Altmannshofer, S. Gori, A. L. Kagan, L. Silvestrini and J. Zupan,arXiv:1507.07927 [hep-ph].   \n[11] Y.Omura,E.Senaha and K.Tobe,JHEP 1505, 028（2015)[arXiv:1502.07824 [hep-ph]].   \n[12] S.Davidson and G.J.Grenier, Phys.Rev.D 81, 095016(2010) [arXiv:1001.0434 [hep-ph].   \n[13] V.Vitaleetal.[Fermi-LAT Collaboration], arXiv:0912.3828 [astro-ph.HE].   \n[14] L.Goodenough and D.Hooper，arXiv:0910.2998 [hep-ph].   \n[15] D.Hooper and L.Goodenough,“Dark Matter Annihilation in The Galactic Center As Seen by the Fermi Gamma Ray Space Telescope,” Phys. Lett. B697 (2011) 412,arXiv:1010.2752 [hep-ph].   \n[16] D.Hooper and T.Linden，“On The Origin Of The Gamma Rays From The Galactic Center,” Phys.Rev.D84（2011）123005,arXiv:1110.0006 [astro-ph.HE].   \n[17] K.N.Abazajian and M. Kaplinghat，“Detection of a Gamma-Ray Source in the Galactic Center Consistent with Extended Emission from Dark Matter Annihilation and Concentrated Astrophysical Emission,” Phys.Rev. D86 (2012） 083511, arXiv:1207.6047 [astro-ph.HE].   \n[18] T.Daylan,D.P.Finkbeiner,D.Hooper,T.Linden, S.K.N.Portillo,et al.,“The Characterization of the Gamma-Ray Signal from the Central Milky Way: A Compelling Case for Annihilating Dark Matter,\" arXiv:1402.6703 [astro-ph.HE].   \n[19] B. Zhou, Y.-F. Liang, X. Huang,X. Li, Y.-Z. Fan, et al.，“GeV excess in the Milky Way: The Role OI Diuse Gaiactic gamma ray Emission tempiate, arXiv:1406.6948 [astro-ph.HE].   \n[20] F.Calore，I.Cholis，and C.Weniger，“Background model systematics for the Fermi GeV excess,” JCAP 1503 (2015) 038,arXiv:1409.0042 [astro-ph.Co].   \n[21] S. Murgia,“Observation of the high energy gammaray emission towards the Galactic center,” (2014), Talk given on Fifth Fermi Symposium, Nagoya, 20- 24 October 2014.   \n[22] F. Calore, I. Cholis, C. McCabe and C. Weniger, Phys.Rev.D91， no.6,063003(2015) [arXiv:1411.4647 [hep-ph].   \n[23]P.Agrawal,B. Batell,P.J.Fox and R.Harnik, JCAP 1505,011 (2015)[arXiv:1411.2592 [hep-ph].   \n[24] J. Fan， S. M. Koushiappas and G. Landsberg, arXiv:1507.06993 [hep-ph].   \n[25] K.N. Abazajian,“JCAP1103， 010(2011) [arXiv:1011.4275 [astro-ph.HE]].   \n[26] Q. Yuan and B. Zhang，JHEAp 3-4，1 (2014) [arXiv:1404.2318 [astro-ph.HE]].   \n[27] D.Hooper,I. Cholis,T. Linden,J. Siegal-Gaskins and T.Slatyer，Phys.Rev.D 88，083009 (2013) [arXiv:1305.0830 [astro-ph.HE]].   \n[28] I. Cholis,D.Hooper and T.Linden,arXiv:1407.5583 [astro-ph.HE].   \n[29] R.Bartels,S. Krishnamurthy and C. Weniger, arXiv:1506.05104 [astr0-ph.HE].   \n[30] S.K.Lee,M. Lisanti, B.R. Safdi,T.R. Slatyer and W.Xue,arXiv:1506.05124 [astro-ph.HE].   \n[31] A.Geringer-Sameth,M.G.Walker,S.M.Koushiappas，S.E.Koposov，V. Belokurov， et al., “Evidence for Gamma-ray Emission fromthe Newly Discovered Dwarf Galaxy Reticulum 2,\" arXiv:1503.02320 [astro-ph.HE].   \n[32] D.Hooper and T.Linden，“On The Gamma-Ray Emission From Reticulum I and Other Dwarf Galaxies,”arXiv:1503.06209 [astro-ph.HE].   \n[33] The Fermi-LAT Collaboration,The DES Collaboration,:,A.Drlica-Wagner,A.Albert,K.Bechtol, M. Wood, L. Strigari, M. Sanchez-Conde, L. Baldini,R.Essig,and et al.,“Search for Gamma-Ray Emission from DES Dwarf Spheroidal Galaxy Candidates with Fermi-LAT Data,”arXiv:1503.02632 [astro-ph.HE].   \n[34] C.Boehm，M.J.Dolan，C.McCabe，M.Spannowsky and C. J. Wallace，JCAP 1405，009 (2014) doi:10.1088/1475-7516/2014/05/009 [arXiv:1401.6458 [hep-ph].   \n[35] J.Kozaczuk and T.A.W. Martin， JHEP 1504， 046 (2015） doi:10.1007/JHEP04(2015)046 [arXiv:1501.07275 [hep-ph].   \n[36] O.Buchmueller，S.A.Malik，C.McCabe and B.Penning,Phys.Rev.Lett.115, no.18, 181802 (2015) doi:10.1103/PhysRevLett.115.181802 [arXiv:1505.07826 [hep-ph].   \n[37] A.Berlin, S. Gori, T. Lin and L. T.Wang,Phys. Rev.D 92,no.1,015005（2015) [arXiv:1502.06000 [hep-ph]].   \n[38] J. Cao, L. Shang, P. Wu, J. M. Yang and Y. Zhang, arXiv:1506.06471 [hep-ph].   \n[39] J. Cao，L. Shang,P. Wu，J. M. Yang and Y. Zhang,Phys.Rev.D 91,no.5,055005 (2015) [arXiv:1410.3239 [hep-ph]].   \n[40] J. Guo, J. Li, T. Li and A. G. Wiliams, Phys. Rev. D 91,no.9,095003 (2015）[arXiv:1409.7864 [hepph]].   \n[41] K.\" Ghorbani, JCAP 1501， 015 (2015) [arXiv:1408.4929 [hep-ph].   \n[42] J. Huang, T.Liu, L.T. Wang and F. Yu, Phys. Rev. D 90 (2014) 11,115006 [arXiv:1407.0038 [hep-ph].   \n[43] A. Berlin, D. Hooper and S. D. McDermott, Phys. Rev.D 89,no.11,115022 (2014) [arXiv:1404.0022 [hep-ph]].   \n[44] J. M. Cline, G. Dupuis, Z. Liu and W. Xue, Phys. Rev.D 91,no.11,115010(2015) [arXiv:1503.08213 [hep-ph]].   \n[45] P. Agrawal, B. Batell, D. Hooper and T. Lin, Phys. Rev.D 90,no.6,063512(2014) [arXiv:1404.1373 [hep-ph]].   \n[46] A.Berlin,P.Gratia,D.Hooper and S.D.McDermott，Phys.Rev.D 90，no.1，015032 (2014) [arXiv:1405.5204 [hep-ph].   \n[47] C.Arina,E.Del Nobile and P.Panci,Phys.Rev. Lett：114，011301（2015）[arXiv:1406.5542[hepph]].   \n[48] S. Ipek, D. McKeen and A. E. Nelson, Phys. Rev. D 90,no.5, 055021 (2014) [arXiv:1404.3716 [hep-ph].   \n[49]J.F.Gunion and H.E. Haber,Phys.Rev.D 67, 075019(2003） doi:10.1103/PhysRevD.67.075019 [hep-ph/0207010].   \n[50] T. P. Cheng and M. Sher, Phys. Rev. D 35,3484 (1987).   \n[51] W. Skiba and J. Kalinowski, Nucl. Phys. B 404, 3 (1993).   \n[52] S. Chatrchyan et al. [CMS Collaboration]，Phys. Rev.Lett．111，101804 (2013） [arXiv:1307.5025 [hep-ex]].   \n[53] R. Aaij et al. [LHCb Collaboration], Phys. Rev. Lett.111,101805 (2013)[arXiv:1307.5024 [hep-ex].   \n[54] CMS and LHCb Collaborations [CMS and LHCb Collaborations]， CMS-PAS-BPH-13-007， LHCbCONF-2013-012,CERN-LHCb-CONF-2013-012.   \n[55] C.Bobeth,M. Gorbahn,T.Hermann,M.Misiak, E. Stamou and M. Steinhauser,Phys. Rev. Lett. 112,101801 (2014) [arXiv:1311.0903 [hep-ph].   \n[56] A. J. Buras,R. Fleischer, J. Girrbach and R. Knegjens,JHEP 1307,77 (2013) [arXiv:1303.3820 [hepph]].   \n[57] H. E. Logan and U. Nierste, Nucl. Phys. B 586, 39 (2000）[hep-ph/0004139].   \n[58] W.Grimus, L. Lavoura, O．M.Ogreid and P.Osland,J. Phys.G 35，075001(2008) [arXiv:0711.4022 [hep-ph]].   \n[59] M.Baak et al.[Gfiter Group Collaboration],Eur. Phys.J. C 74,3046 (2014) [arXiv:1407.3792 [hepph].   \n[60] M. Raidal et al.,Eur.Phys.J.C 57,13(2008) [arXiv:0801.1826 [hep-ph]].   \n[61] S.M.Barr and A. Zee,Phys. Rev. Lett.65,21 (1990)[Phys.Rev.Lett.65,2920 (1990)].   \n[62] D. Chang, W. S. Hou and W. Y. Keung, Phys. Rev. D 48,217 (1993) [hep-ph/9302267].   \n[63] A. Alloul, N. D. Christensen, C. Degrande, C. Duhr and B.Fuks,Comput.Phys.Commun.185,2250 (2014)[arXiv:1310.1921 [hep-ph].   \n[64] A.Belyaev，N. D. Christensen and A. Pukhov, Comput. Phys.Commun.184，1729(2013) [arXiv:1207.6082 [hep-ph]].   \n[65] G.Blanger,F.Boudjema,A.Pukhov and A. Semenov，Comput.Phys.Commun.192,322(2015) [arXiv:1407.6129 [hep-ph]].   \n[66] F.Mahmoudi and O. Stal, Phys. Rev.D 81, 035016 (2010)[arXiv:0907.1791 [hep-ph]].   \n[67]P.M. Ferreira and D.R. T. Jones,JHEP 0908,069 (2009）[arXiv:0903.2856 [hep-ph]].   \n[68] V.Khachatryan et al.[CMS Collaboration],Eur. Phys.J.C 75,no.5,212(2015)[arXiv:1412.8662 [hep-ex]].   \n[69] G. Aad etal. [ATLAS Collaboration], arXiv:1508.03372 [hep-ex].   \n[70] K.Hagiwara,R.Liao,A.D.Martin,D.Nomura and T.Teubner，J.Phys.G 38，085003 (2011) [arXiv:1105.3149 [hep-ph].   \n[71] B.Aubert et al. [BaBar Collaboration], Phys. Rev. Lett.104,021802 (2010) [arXiv:0908.2381[hep-ex]].   \n[72] K.Hayasaka et al.[Belle Collaboration],Phys. Lett. B 666,16(2008) [arXiv:0705.0650 [hep-ex]].   \n[73] M.Ackermann et al. [Fermi-LAT Collaboration], arXiv:1503.02641 [astro-ph.HE].   \n[74] P.A.R. Adeetal.[Planck Collaboration], arXiv:1502.01589 [astro-ph.CO].   \n[75] C.Cheung,M. Papucci,D.Sanford,N.R. Shah and K.M. Zurek,Phys.Rev.D 90,075011 (2014) [arXiv:1406.6372 [hep-ph]].   \n[76] X.J.Bi,L.Bian,W.Huang,J. Shu and P.F. Yin,Phys. Rev.D 92, no.2, 023507 (2015) [arXiv:1503.03749 [hep-ph]].   \n[77]CMS Collaboration [CMS Collaboration]，CMSPAS-HIG-14-009.   \n[78] D.Curtin et al.，Phys.Rev.D 90,no.7,075004 (2014）[arXiv:1312.4992 [hep-ph]].   \n[79] S.Chatrchyan et al. [CMS Collaboration]，Phys. Rev.D 89,no.1, 012003(2014) [arXiv:1310.3687 [hep-ex]].   \n[80] J.M. No,Phys.Rev.D 93,no.3,031701 (2016) [arXiv:1509.01110 [hep-ph].   \n[81] J.Alwall et al.，JHEP 1407, 079 (2014) [arXiv:1405.0301 [hep-ph]].   \n[82] J.Alwall, M. Herquet,F.Maltoni, O. Mattelaer and T.Stelzer, JHEP i106,128 (2011) [arXiv:1106.0522 [hep-ph]].   \n[83]J.Lilley, CERN-THESIS-2011-013.   \n[84] T.Sjostrand, S.Mrenna and P.Z. Skands,Comput. Phys.Commun.178，852(2008)[arXiv:0710.3820 [hep-ph]].   \n[85]J.de Favereau et al. [DELPHES 3 Collaboration], JHEP 1402,057 (2014) [arXiv:1307.6346 [hep-ex].   \n[86] T.Lin,E.W.Kolb and L.T.Wang,Phys.Rev.D 88,no.6,063510（2013)[arXiv:1303.6638[hep-ph]   \n[87] T.Han,S.K.Kang and J.Sayre,arXiv:1511.05162 [hep-ph]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

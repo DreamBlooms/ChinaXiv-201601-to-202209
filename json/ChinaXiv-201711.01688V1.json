@@ -1,0 +1,370 @@
+[
+    {
+        "type": "text",
+        "text": "1 不同精粗比饲粮中添加甘露寡糖对绵羊体外瘤胃发酵的影响陈志龙 百燕葭工杯趁 曾燕霞王林赵臣郑琛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2  \n3 （甘肃农业大学动物科学技术学院，兰州730070）  \n4 摘要：本试验旨在研究不同精粗比饲粮中添加甘露寡糖（MOS）对绵羊体外瘤胃发酵的  \n5 影响。采用 $4 { \\times } 6$ 二因子析因试验设计，在4种不同精粗比饲粮（20:80、30:70、40:60、50:50）  \n6 中分别添加6个水平的MOS（0、 $0 . 4 \\%$ 、 $0 . 8 \\%$ 、 $1 . 2 \\%$ 、 $1 . 6 \\%$ 、 $2 . 0 \\%$ )，制备出24种底物，以体外产气法对各底物培养3、6、9、12 和 $2 4 \\mathrm { ~ h ~ }$ ，对体外培养液 $\\mathrm { \\ p H }$ 、氨态氮（ $\\mathrm { \\Delta N H _ { 3 }  – N }$ ）浓度和挥发性脂肪酸（VFA）浓度进行测定。结果表明：精粗比对培养液 $\\mathrm { \\ p H }$ 、 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度、总挥发性脂肪酸（TVFA）浓度和丁酸含量产生了显著影响（ $. P { < } 0 . 0 5 )$ ），MOS水平对培养液$\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度产生了显著影响（ $\\scriptstyle P < 0 . 0 5$ ），精粗比与MOS水平对培养液 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度产生显著的交互作用（ $P { < } 0 . 0 5$ ）。随着精粗比的提高，培养液 TVFA浓度和丁酸含量升高，而pH和 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度降低；随着MOS水平升高，培养液 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度略有升高。综合得出，不同精粗比饲粮中添加MOS 对绵羊体外瘤胃发酵 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度有显著影响，其中MOS 的影响较轻微，尚未呈现剂量效应，主体起作用的仍是精粗比；饲粮精粗比的提高增加了绵羊体外瘤胃发酵VFA 浓度，降低了 $\\mathsf { p H }$ 和 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：精粗比；甘露寡糖；绵羊； $\\mathrm { \\ p H }$ ；挥发性脂肪酸；氨态氮中图分类号：S826;S816.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "功能性寡糖无论在体内还是体外都能促进有益菌群如双歧杆菌和乳酸杆菌的增殖，改善肠道微生态环境[1]。甘露寡糖（mannanoligosaccharides，MOS）因其具有稳定、安全无毒、无残留等特点以及改善肠道菌群、提高免疫力等益生作用成为功能性寡糖应用较为广泛的一种[2-6]。曾有报道认为，因为反刍动物瘤胃微生物对寡糖的强烈降解作用以及可以利用纤维素、半纤维素、果胶等物质合成寡糖，所以对反刍动物添加寡糖意义不大[7]。而且由于寡糖可以改善动物胃肠道内环境，对幼龄反刍动物如腹泻等胃肠道疾病具有良好的缓解及预防作用，以及寡糖可通过幼龄反刍动物尚不健全的瘤胃到达肠道发挥其益生作用等一系列原因，使寡糖有限的研究也集中在幼龄反刍动物上[8]。事实上，无论瘤胃微生物对寡糖有多大降解作用，反刍动物瘤胃中仍然有一定水平的寡糖发挥其益生作用，寡糖对反刍动物瘤胃发酵也具有重要的调控作用[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮结构如精粗比以及饲粮类型的不同会导致瘤胃微生物环境如pH、瘤胃微生物区系等的改变，从而改变其对寡糖的发酵效率，可能会与MOS产生一定的交互作用，因此本试验选用西北地区绵羊饲养中常用的饲草料并固定饲粮组成，通过体外培养的方法，探讨不同精粗比饲粮条件下MOS 对绵羊体外瘤胃发酵的作用，为MOS 在反刍动物上的进一步研究提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料MOS购自奥特奇生物制品（中国）有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验采用 $4 { \\times } 6$ 二因子析因试验设计，设精粗比(A)和 MOS(B)2个因子，饲粮精粗比分别为20:80（A1）、30:70（A2）、40:60（A3）及50:50（A4)，在每个精粗比饲粮中分别添加6个水平的 MOS，即O（B1）、 $0 . 4 \\%$ （B2）、 $0 . 8 \\%$ （B3）、 $1 . 2 \\%$ （B4）、 $1 . 6 \\%$ （B5）和 $2 . 0 \\%$ (B6),共制成24种底物进行体外瘤胃发酵试验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验动物及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用4只1岁左右，体重（ $2 8 . 0 4 \\pm 2 . 0 7$ ）kg 并安装永久瘤胃瘘管的健康杂种羯羊（白头萨福克 $\\delta \\times$ 小尾寒羊吊）作为瘤胃液供体动物。试验期给供试绵羊饲喂精粗比30:70的饲粮$[ 1 . 0 \\mathrm { k g / }$ （头·d）]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4试验饲粮 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照我国《肉羊饲养标准》（NY/T816—2004）中育成公羊营养需要量（体重 $3 0 \\mathrm { k g }$ ，日增重 $1 0 0 \\mathrm { g }$ )，配制4个不同精粗比的饲粮，以此为发酵底物。试验饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮组成及营养水平(风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1Composition and nutrient levels of experimental diets (air-dry basis) % ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目Items",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20:80(A1) 30:70(A2) 40:60(A3) 50:50 (A4) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原料 Ingredients",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/636897f66d558efc529aadbb3b30a96d1d605fbad71c516d2bfd610e375f820d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>玉米Corn</td><td>12.49</td><td>19.29</td><td>29.29</td><td>37.99</td></tr><tr><td>大豆粕 Soybean meal</td><td>7.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>1.50</td><td>1.50</td><td>1.50</td><td>2.50</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>37.80</td><td>29.00</td><td>26.00</td><td>19.00</td></tr><tr><td>燕麦草 Oat grass</td><td>40.00</td><td>40.00</td><td>33.00</td><td>30.30</td></tr><tr><td>食盐 NaCl</td><td>0.70</td><td>0.70</td><td>0.70</td><td>0.70</td></tr><tr><td>预混料 Premixl</td><td>0.51</td><td>0.51</td><td>0.51</td><td>0.51</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²)</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>90.86</td><td>90.62</td><td>90.27</td><td>89.97</td></tr><tr><td>消化能 DE</td><td>9.12</td><td>9.69</td><td>10.32</td><td>10.93</td></tr><tr><td>粗蛋白质 CP/(MJ/kg)</td><td>10.46</td><td>10.91</td><td>11.03</td><td>11.16</td></tr><tr><td>粗蛋白质/消化能 CP/DE/(g/MJ)</td><td>11.47</td><td>11.26</td><td>10.69</td><td>10.21</td></tr><tr><td>钙Ca</td><td>0.67</td><td>0.57</td><td>0.53</td><td>0.44</td></tr><tr><td>磷P</td><td>0.21</td><td>0.22</td><td>0.23</td><td>0.24</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 预混料为每千克饲粮提供Premix provided the following per $\\mathrm { k g }$ of diets:S $2 0 0 ~ \\mathrm { { m g } }$ ,Fe 25 mg,Zn 40 mg,Cu 8 mg,I 0.3 mg,Mn 40 mg, Se 0.2 mg, $\\mathrm { C o } 0 . 1 \\mathrm { m g }$ ，VA 940 IU,VE 20 IU。 2)计算值 Calculated values 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5体外产气试验",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验参照Menke等[I0]推荐的方法进行体外产气试验。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "晨饲（08:00）前在4只绵羊瘤胃内不同位点采集足量瘤胃液，经4层纱布过滤饲料颗粒后灌入已经预热达39 $\\mathrm { { } ^ { \\circ } C }$ 并通有 $\\mathrm { C O } _ { 2 }$ 的暖瓶中，待采集足量瘤胃液后立即盖严瓶口，迅速返回实验室，持续通入 $\\mathrm { C O } _ { 2 }$ 气体 $5 \\mathrm { m i n }$ ，然后迅速与缓冲液以1:2的比例制成混合液。在已加好样品（取样量 $0 . 2 \\ \\mathrm { g }$ 左右）和MOS 的玻璃注射器（德国Haeberle）中加混合液 $3 0 ~ \\mathrm { m L }$ ，并排尽注射器内的气体，放入已预热（ $3 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ）的恒温振荡水浴箱中培养3、6、9、12和 $2 4 \\mathrm { h }$ 。每个水浴箱设置2个空白对照（ $1 0 0 ~ \\mathrm { { m L } }$ 玻璃注射器只加入 $3 0 ~ \\mathrm { m L }$ 混合液)。每个样品每个时间点做3个重复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 测定指标",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6.1 培养液pH ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各时间段培养结束后，将消化液及残渣完全转入至 $1 0 0 ~ \\mathrm { { m L } }$ 的塑料离心管中，立即采用高精度酸度计（PB-1O，德国Sartorius）测定培养液 $\\mathrm { \\ p H }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.2培养液氨态氮（ $\\mathrm { \\Delta N H _ { 3 }  – N }$ ）浓度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将测定pH后的塑料离心管 $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，离心后采集上清液并存储在-20℃冰箱待测。 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度参照冯宗慈等[1改进的比色法使用分光光度计测定，培养液取样量为 $0 . 2 { \\mathrm { m L } }$ 。本试验测得的标准曲线为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY { = } 1 . 7 6 7 \\ 6 X { - } 0 . 0 2 7 \\ 6 ( R ^ { 2 } { = } 0 . 9 9 7 \\ 9 ) _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y$ 为 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 质量（ $\\mathrm { \\dot { \\ m g } }$ ； $X$ 为吸光度值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6.3培养液挥发性脂肪酸（VFA）浓度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用Aglient 6890N 型气相色谱仪测定VFA浓度。色谱柱为HP19091N—213毛细管柱（美国Aglient）。色谱条件为：进样口温度 $2 0 0 \\mathrm { ~ \\textdegree ~ }$ ， ${ \\bf N } _ { 2 }$ 流量 $2 . 0 \\ \\mathrm { m L / m i n }$ ，分流比40:1，程序升温模式 $( 1 2 0 ~ \\mathrm { ~ \\textdegree ~ } 3 \\operatorname* { m i n }$ ，然后 $1 0 \\ \\mathrm { ^ { \\circ } C / m i n }$ 至 $1 8 0 ~ \\mathrm { { ^ circ C } }$ ，保持 $1 \\mathrm { m i n } .$ )，火焰离子检测器(FID)温度 $2 5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，FID 空气、 $\\mathrm { H } _ { 2 }$ 和尾吹气（ $\\mathbf { N } _ { 2 }$ ）流量分别为450、40和 $4 5 ~ \\mathrm { m L / m i n }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS19.0软件进行二因子方差分析，差异显著时，采用Tukey法（方差齐)或Tamhane法（方差不齐）进行多重比较。以 $P { < } 0 . 0 5$ 作为差异显著性判断标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同精粗比饲粮中添加 MOS 对体外培养液pH的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，随精粗比的增加，除了 $^ { 3 \\mathrm { ~ h ~ } }$ 外各时间点的pH逐渐降低，精粗比对培养液pH产生了显著影响 $( P { < } 0 . 0 5 )$ ；MOS 水平对体外培养液 $\\mathsf { p H }$ 未产生显著影响 $( P { < } 0 . 0 5 )$ ；精粗比与MOS水平也没有对培养液 $\\mathsf { p H }$ 产生显著交互作用（ $. P { > } 0 . 0 5 .$ )。培养 $3 \\mathrm { h }$ ，A2 组培养液pH 显著高于 A4 组 $( P { < } 0 . 0 5 )$ ；培养6和 $^ { \\mathrm { ~ 9 ~ h ~ } }$ ，A4 组培养液 $\\mathsf { p H }$ 显著低于其余3 组 $( P { < } 0 . 0 5 )$ ：培养12 和 $2 4 \\mathrm { ~ h ~ }$ ，A1 组培养液pH显著高于其余3组 $( P { < } 0 . 0 5 )$ ，且在培养 $2 4 \\mathrm { ~ h ~ }$ 时A2 和A3组培养液 pH也显著高于 A4 组 $( P { < } 0 . 0 5 )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/070012d5d48892259af751b86c0822f2adb1dc7dfb5f0931675912b9854e0838.jpg",
+        "table_caption": [
+            "表2不同时间点体外培养液pH",
+            "Table 2The pHof in vitro cultivated fluid at different time point $\\scriptstyle ( n = 3 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">精粗比 C/R</td><td rowspan=\"2\">MOS 水平 MOS level</td><td colspan=\"5\">时间Time/h</td></tr><tr><td>3</td><td>6</td><td>9</td><td>12</td><td>24</td></tr><tr><td rowspan=\"2\">20:80(A1)</td><td>0(B1)</td><td>6.62</td><td>7.28</td><td>7.34</td><td>7.26</td><td>7.42</td></tr><tr><td>0.4%(B2)</td><td>6.74</td><td>7.33</td><td>7.29</td><td>7.30</td><td>7.39</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1000b0a0c62f34060620c81201dc8f4d85a974b0a2a20a9551c849f98fa06795.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>0.8%（B3)</td><td>6.90</td><td>7.26</td><td>7.37</td><td>7.32</td><td>7.45</td></tr><tr><td></td><td>1.2%（B4)</td><td>6.86</td><td>7.34</td><td>7.41</td><td>7.33</td><td>7.36</td></tr><tr><td></td><td>1.6%（B5)</td><td>6.68</td><td>7.24</td><td>7.45</td><td>7.26</td><td>7.41</td></tr><tr><td></td><td>2.0% (B6)</td><td>6.65</td><td>7.35</td><td>7.32</td><td>7.22</td><td>7.34</td></tr><tr><td></td><td>0（B1)</td><td>6.90</td><td>7.22</td><td>7.36</td><td>7.27</td><td>7.32</td></tr><tr><td></td><td>0.4%（B2)</td><td>6.80</td><td>7.31</td><td>7.35</td><td>7.18</td><td>7.35</td></tr><tr><td>30:70（A2)</td><td>0.8% (B3)</td><td>7.03</td><td>7.23</td><td>7.34</td><td>7.15</td><td>7.35</td></tr><tr><td></td><td>1.2%（B4)</td><td>6.69</td><td>7.22</td><td>7.34</td><td>7.09</td><td>7.34</td></tr><tr><td></td><td>1.6%（B5)</td><td>6.74</td><td>7.11</td><td>7.37</td><td>7.27</td><td>7.29</td></tr><tr><td></td><td>2.0% (B6)</td><td>6.80</td><td>7.19</td><td>7.34</td><td>7.14</td><td>7.30</td></tr><tr><td></td><td>0(B1)</td><td>6.75</td><td>7.21</td><td>7.37</td><td>7.24</td><td>7.27</td></tr><tr><td></td><td>0.4% （B2)</td><td>6.63</td><td>7.24</td><td>7.36</td><td>7.19</td><td>7.26</td></tr><tr><td>40:60（A3)</td><td>0.8% (B3)</td><td>6.46</td><td>7.24</td><td>7.36</td><td>7.18</td><td>7.31</td></tr><tr><td></td><td>1.2% (B4)</td><td>6.57</td><td>7.22</td><td>7.34</td><td>7.16</td><td>7.34</td></tr><tr><td></td><td>1.6%（B5)</td><td>6.80</td><td>7.22</td><td>7.37</td><td>7.15</td><td>7.28</td></tr><tr><td></td><td>2.0% (B6)</td><td>6.74</td><td>7.21</td><td>7.34</td><td>7.16</td><td>7.24</td></tr><tr><td></td><td>0（B1)</td><td>6.46</td><td>7.15</td><td>7.26</td><td>7.16</td><td>7.15</td></tr><tr><td></td><td>0.4% (B2)</td><td>6.79</td><td>7.16</td><td>7.32</td><td>7.17</td><td>7.12</td></tr><tr><td>50:50 (A4)</td><td>0.8%（B3)</td><td>6.70</td><td>7.20</td><td>7.26</td><td>7.12</td><td>7.18</td></tr><tr><td></td><td>1.2% (B4)</td><td>6.48</td><td>7.15</td><td>7.23</td><td>7.14</td><td>7.21</td></tr><tr><td></td><td>1.6% （B5)</td><td>6.45</td><td>7.21</td><td>7.25</td><td>7.16</td><td>7.25</td></tr><tr><td></td><td>2.0% (B6)</td><td>6.64</td><td>7.17</td><td>7.28</td><td>7.11</td><td>7.16</td></tr><tr><td></td><td>20:80（A1)</td><td>6.74ab</td><td>7.30a</td><td>7.36a</td><td>7.28a</td><td>7.40a</td></tr><tr><td>精粗比 C/R</td><td>30:70（A2)</td><td>6.83a</td><td>7.21a</td><td>7.35a</td><td>7.18b</td><td>7.33b</td></tr><tr><td></td><td>40:60（A3)</td><td>6.66ab</td><td>7.22a</td><td>7.36a</td><td>7.18b</td><td>7.28b</td></tr><tr><td></td><td>50:50（A4)</td><td>6.59b</td><td>7.19b</td><td>7.27b</td><td>7.14b</td><td>7.18c</td></tr><tr><td></td><td>0(B1)</td><td>6.68</td><td>7.22</td><td>7.31</td><td>7.23</td><td>7.29</td></tr><tr><td></td><td>0.4%（B2)</td><td>6.74</td><td>7.26</td><td>7.32</td><td>7.21</td><td>7.28</td></tr><tr><td>MOS 水平 MOS level</td><td>0.8%（B3)</td><td>6.77</td><td>7.23</td><td>7.31</td><td>7.20</td><td>7.32</td></tr><tr><td></td><td>1.2%（B4)</td><td>6.65</td><td>7.23</td><td>7.31</td><td>7.18</td><td>7.31</td></tr><tr><td></td><td>1.6%（B5)</td><td>6.67</td><td>7.20</td><td>7.33</td><td>7.21</td><td>7.31</td></tr><tr><td></td><td>2.0% (B6)</td><td>6.71</td><td>7.23</td><td>7.30</td><td>7.16</td><td>7.26</td></tr><tr><td>SEM</td><td></td><td>0.02</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td></td><td>精粗比 C/R</td><td>0.002</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.036</td></tr><tr><td>P值 P-value</td><td>MOS 水平 MOS level 精粗比xMOS 水平</td><td>0.564</td><td>0.055</td><td>0.063</td><td>0.092</td><td>0.591</td></tr><tr><td></td><td>C/RxMOS level</td><td>0.090</td><td>0.062</td><td>0.054</td><td>1.000</td><td>0.375</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )。下表同。Values in the same row with different small letter superscripts mean significant difference（ $P { < } 0 . 0 5$ ）.The same as below.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "93 2.2不同精粗比饲粮中添加 MOS 对体外培养液 NH-N 浓度的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，精粗比、MOS水平及二者交互作用对各时间点培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度均产生了显著的影响( $. P { < } 0 . 0 5$ )。培养 $3 \\mathrm { h }$ ,A2组培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度显著高于A1组 $( P { < } 0 . 0 5 )$ ：培养 $6 \\mathrm { h }$ ，A1组培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度显著高于其余3组 $( P { < } 0 . 0 5 )$ ，A2 组显著高于A3和 A4组 $( P { < } 0 . 0 5 )$ ，B3 组培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度显著高于B5组（ $. P { < } 0 . 0 5 )$ ；培养 $^ { 9 \\mathrm { h } }$ ，B2、B3 和B5组培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度显著高于B4组（ $P { < } 0 . 0 5 \\$ ；培养 $1 2 \\mathrm { ~ h ~ }$ ，A1组培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度显著高于其余3 组 $( P { < } 0 . 0 5 )$ ，A3、A4 组显著高于A2 组 $( P { < } 0 . 0 5 )$ ，B5 和 B6 组显著高于 B3组( $P { < } 0 . 0 5 )$ ；培养 $2 4 \\mathrm { ~ h ~ }$ ，A3组培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度显著低于其余3组（ $. P { < } 0 . 0 5 )$ ，B5和B6组显著高于B2和B4组（ $. P { < } 0 . 0 5 \\$ )，B1组显著高于B2组（ $_ { . } { P } { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8212823e6f4a62fa2789557af7dd23a55d57ecae0cfa1bf6411c68dee9c8ba3f.jpg",
+        "table_caption": [
+            "表3不同时间点体外培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度",
+            "Table 3 $\\mathrm { N H } _ { 3 }$ -N concentration of in vitro cultivated fluid at different time point $\\scriptstyle ( n = 3 )$ mg/dL "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>精粗比 C/R</td><td>MOS 水平 MOS</td><td colspan=\"5\">时间 Time/h</td></tr><tr><td rowspan=\"7\">20:80(A1)</td><td>level</td><td>3</td><td>6</td><td>9</td><td>12</td><td>24</td></tr><tr><td>0 (B1)</td><td>48.30℃</td><td>131.57ab</td><td>45.95a</td><td>66.41abed</td><td>55.63bcde</td></tr><tr><td>0.4% (B2)</td><td>54.39abc</td><td>123.02abc</td><td>48.66a</td><td>63.78abede</td><td>57.42abcde</td></tr><tr><td>0.8% （B3）</td><td>51.82abc</td><td>147.00a</td><td>43.16ab</td><td>68.42ab</td><td>57.71abcde</td></tr><tr><td>1.2% (B4)</td><td>52.09abc</td><td>122.37abc</td><td>39.47abc</td><td>67.41abc</td><td>55.16cde</td></tr><tr><td>1.6% （B5）</td><td>53.63abc</td><td>100.13bedef</td><td>45.89a</td><td>63.25abcde</td><td>55.79bcde</td></tr><tr><td>2.0% (B6)</td><td>54.80abc</td><td>103.43bcdef</td><td>39.21abc</td><td>70.32a</td><td>55.79bede</td></tr><tr><td rowspan=\"6\">30:70(A2)</td><td>0 (B1)</td><td>55.30abc</td><td>119.03abcd</td><td>41.65ab</td><td>42.02 f</td><td>56.69abcde</td></tr><tr><td>0.4% (B2)</td><td>54.27abc</td><td>122.64abc</td><td>44.32ab</td><td>53.88ef</td><td>54.18cde</td></tr><tr><td>0.8% （B3）</td><td>59.15abc</td><td>113.49abcde</td><td>47.66a</td><td>41.92f</td><td>59.09abcd</td></tr><tr><td>1.2% (B4)</td><td>51.96abc</td><td>93.08bcdef</td><td>44.40ab</td><td>53.10ef</td><td>53.57de</td></tr><tr><td>1.6% （B5)</td><td>53.08abc</td><td>95.91bedef</td><td>41.55abc</td><td>56.87bcde</td><td>54.37cde</td></tr><tr><td>2.0% (B6)</td><td>64.08ab</td><td>103.16bcdef</td><td>42.86ab</td><td>57.61bcde</td><td>61.95ab</td></tr><tr><td rowspan=\"6\">40:60(A3)</td><td>0（B1)</td><td>55.87abc</td><td>75.37ef</td><td>40.49abc</td><td>53.90ef</td><td>55.39cde</td></tr><tr><td>0.4% (B2)</td><td>53.53abc</td><td>74.31ef</td><td>41.55abc</td><td>52.11ef</td><td>51.47e</td></tr><tr><td>0.8% （B3）</td><td>52.39abc</td><td>78.49def</td><td>49.05a</td><td>51.78ef</td><td>51.92e</td></tr><tr><td>1.2% (B4)</td><td>51.41bc</td><td>100.00bedef</td><td>25.58c</td><td>54.79de</td><td>52.84de</td></tr><tr><td>1.6% （B5）</td><td>54.08abc</td><td>67.71f</td><td>50.15a</td><td>62.54abede</td><td>56.89abcde</td></tr><tr><td>2.0% (B6)</td><td>55.32abc</td><td>84.07cdef</td><td>51.05a</td><td>55.16cde</td><td>55.34cde</td></tr><tr><td rowspan=\"6\">50:50 (A4)</td><td>0 (B1)</td><td>60.36ab</td><td>84.87cdef</td><td>43.34ab</td><td>60.42abede</td><td>60.26abc</td></tr><tr><td>0.4% （B2)</td><td>49.29abc</td><td>75.21ef</td><td>44.22ab</td><td>57.32bede</td><td>54.04cde</td></tr><tr><td>0.8% (B3)</td><td>49.54abc</td><td>78.29def</td><td>41.65ab</td><td>53.88ef</td><td>54.24cde</td></tr><tr><td>1.2% (B4)</td><td>57.02abc</td><td>81.93cdef</td><td>38.76abc</td><td>53.31ef</td><td>56.40abede</td></tr><tr><td>1.6% （B5）</td><td>64.37a</td><td>86.29cdef</td><td>39.33abc</td><td>57.97bcde</td><td>62.39a</td></tr><tr><td>2.0% (B6)</td><td>56.53abc</td><td>86.23cdef</td><td>29.10bc</td><td>55.24cde</td><td>55.71bcde</td></tr><tr><td rowspan=\"2\">精粗比 C/R</td><td>20:80 (A1)</td><td>52.51b</td><td>121.25a</td><td>43.72</td><td>66.60a</td><td>56.25a</td></tr><tr><td>30:70(A2)</td><td>56.30a</td><td>107.89b</td><td>43.74</td><td>50.90c</td><td>56.64a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/64e52d6abd7f914dba32333f6c1caaf879c488ccdab48ae3c6d67146dc3e4a34.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3不同精粗比饲粮中添加MOS对体外培养液VFA 浓度的影响"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>40:60（A3)</td><td>53.76ab</td><td>79.99€</td><td>42.98</td><td>55.05b</td><td>53.97b</td></tr><tr><td></td><td>50:50(A4)</td><td>56.19ab</td><td>82.14c</td><td>39.40</td><td>56.36b</td><td>57.17a</td></tr><tr><td></td><td>0（B1)</td><td>54.96</td><td>102.71ab</td><td>42.85ab</td><td>55.69ab</td><td>56.99ab</td></tr><tr><td></td><td>0.4% （B2)</td><td>52.87</td><td>98.80ab</td><td>44.69a</td><td>56.77ab</td><td>54.27℃</td></tr><tr><td>MOS 水平</td><td>0.8% （B3）</td><td>53.22</td><td>104.32a</td><td>45.38a</td><td>54.00b</td><td>55.74abc</td></tr><tr><td>MOS level</td><td>1.2% (B4)</td><td>53.12</td><td>99.34ab</td><td>37.05b</td><td>57.15ab</td><td>54.49bc</td></tr><tr><td></td><td>1.6% （B5)</td><td>56.29</td><td>87.51b</td><td>44.23a</td><td>60.16a</td><td>57.36a</td></tr><tr><td>SEM</td><td>2.0% (B6)</td><td>57.68</td><td>94.22ab</td><td>40.56ab</td><td>59.58a</td><td>57.20a</td></tr><tr><td></td><td></td><td>0.53</td><td>2.77</td><td>0.84</td><td>0.92</td><td>0.38</td></tr><tr><td>值</td><td>精粗比 C/R</td><td>0.020</td><td>0.000</td><td>0.041</td><td>0.000</td><td>0.000</td></tr><tr><td>P P-value</td><td>MOS 水平 MOS level</td><td>0.032</td><td>0.038</td><td>0.002</td><td>0.003</td><td>0.001</td></tr><tr><td></td><td>精粗比xMOS水平 C/RxMOS level</td><td>0.003</td><td>0.007</td><td>0.000</td><td>0.000</td><td>0.000</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，精粗比对培养液中TVFA浓度和丁酸含量产生了显著影响 $( P { < } 0 . 0 5 )$ ，MOS水平对培养液中TVFA浓度和各VFA含量未产生显著影响（ $. P { > } 0 . 0 5 \\$ ，精粗比与MOS水平也没有对培养液中TVFA浓度和各VFA含量产生显著交互作用（ $( P { > } 0 . 0 5 )$ )。随精粗比提高，TVFA 浓度和丁酸含量升高。A1组培养液中TVFA 浓度显著低于其余3组（ $P { < } 0 . 0 5 )$ ，且丁酸含量显著低于A4组（ $. P { < } 0 . 0 5 ^ { \\cdot }$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6aa9b96a25cd1ed5dde65199d628647479ca0d74ea56e538430d9f6024eeeb04.jpg",
+        "table_caption": [
+            "表4体外培养液中TVFA浓度及各种VFA含量",
+            "Table 4TVFA concentration and VFA contents of in vitro cultivated fluid "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">精粗比 C/R</td><td rowspan=\"2\">MOS水平MOS level</td><td rowspan=\"2\">总挥发性 脂肪酸 TVFA/(m</td><td rowspan=\"2\">乙酸/丙酸 乙酸</td><td rowspan=\"2\"></td><td rowspan=\"2\">丙酸 Propionat</td><td rowspan=\"2\">丁酸 Butyrate</td><td rowspan=\"2\">其他酸 Others/%</td></tr><tr><td>Acetate/prop Acetate/</td></tr><tr><td rowspan=\"8\">20:80 (A1)</td><td></td><td>mol/L)</td><td>ionate</td><td>%</td><td>e/%</td><td>1%</td><td></td></tr><tr><td>0(B1)</td><td>35.72</td><td>4.09</td><td>70.03</td><td>17.60</td><td>7.64</td><td>4.73</td></tr><tr><td>0.4% (B2)</td><td>35.54</td><td>4.28</td><td>70.47</td><td>17.13</td><td>7.70</td><td>4.70</td></tr><tr><td>0.8% （B3）</td><td>40.90</td><td>4.23</td><td>69.65</td><td>17.48</td><td>7.69</td><td>5.18</td></tr><tr><td>1.2% (B4)</td><td>35.04</td><td>4.10</td><td>69.24</td><td>17.85</td><td>7.99</td><td>4.92</td></tr><tr><td>1.6% （B5）</td><td>37.60</td><td>4.21</td><td>70.52</td><td>17.13</td><td>7.43</td><td>4.92</td></tr><tr><td>2.0% (B6)</td><td>41.92</td><td>4.08</td><td>69.61</td><td>18.25</td><td>7.56</td><td>4.58</td></tr><tr><td>0（B1)</td><td>51.74</td><td>4.38</td><td>70.69</td><td>17.02</td><td>7.50</td><td>4.79</td></tr><tr><td rowspan=\"5\">30:70(A2)</td><td>0.4% （B2）</td><td>45.01</td><td>3.97</td><td>67.47</td><td>18.09</td><td>8.90</td><td>5.54</td></tr><tr><td>0.8% （B3）</td><td>48.45</td><td>4.36</td><td>71.02</td><td>16.89</td><td>7.86</td><td>4.22</td></tr><tr><td>1.2% (B4)</td><td>48.35</td><td>4.14</td><td>68.98</td><td>17.69</td><td>8.56</td><td>4.76</td></tr><tr><td>1.6% （B5）</td><td>46.58</td><td>4.77</td><td>71.71</td><td>15.78</td><td>8.23</td><td>4.28</td></tr><tr><td>2.0% (B6)</td><td>47.64</td><td>4.35</td><td>70.23</td><td>17.46</td><td>8.11</td><td>4.20</td></tr><tr><td>40:60（A3)</td><td>0(B1) 0.4% (B2)</td><td>49.59 43.80</td><td>3.90 4.44</td><td>68.01 69.60</td><td>18.00 16.25</td><td>8.84 8.80</td><td>5.16 5.35</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6232edd93c0b4c989de3dfd02fb801b9b108f00efd3fa33c904305ee6307385.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"11\">50:50(A4)</td><td>0.8% （B3）</td><td>52.05</td><td>3.90</td><td>68.77</td><td>18.07</td><td>8.25</td><td>4.91</td></tr><tr><td>1.2% (B4)</td><td>54.78</td><td>3.93</td><td>69.17</td><td>18.53</td><td>7.85</td><td>4.45</td></tr><tr><td>1.6% （B5)</td><td>46.42</td><td>3.97</td><td>69.90</td><td>18.17</td><td>7.94</td><td>3.99</td></tr><tr><td>2.0% (B6)</td><td>57.60</td><td>4.54</td><td>72.09</td><td>16.44</td><td>7.80</td><td>3.67</td></tr><tr><td>0(B1)</td><td>67.82</td><td>4.65</td><td>72.01</td><td>16.88</td><td>7.50</td><td>3.62</td></tr><tr><td>0.4% （B2)</td><td>58.24</td><td>4.38</td><td>70.66</td><td>16.96</td><td>8.37</td><td>4.01</td></tr><tr><td>0.8% （B3）</td><td>46.25</td><td>3.63</td><td>65.07</td><td>19.91</td><td>9.33</td><td>5.68</td></tr><tr><td>1.2% (B4)</td><td>45.72</td><td>5.65</td><td>70.55</td><td>15.81</td><td>9.00</td><td>4.65</td></tr><tr><td rowspan=\"10\"></td><td>1.6% （B5）</td><td>50.23</td><td>3.86</td><td>67.69</td><td>17.88</td><td>9.01</td><td>5.41</td></tr><tr><td>2.0% （B6)</td><td>61.09</td><td>4.27</td><td>69.63</td><td>17.15</td><td>8.11</td><td>5.11</td></tr><tr><td>20:80 (A1)</td><td>37.85b</td><td>4.16</td><td>69.91</td><td>17.59</td><td>7.67b</td><td>4.83</td></tr><tr><td>30:70(A2)</td><td>47.98a</td><td>4.36</td><td>70.24</td><td>17.04</td><td>8.19ab</td><td>4.64</td></tr><tr><td>40:60（A3)</td><td>50.90a</td><td>4.14</td><td>69.70</td><td>17.52</td><td>8.23ab</td><td>4.56</td></tr><tr><td>50:50(A4)</td><td>54.41a</td><td>3.98</td><td>68.33</td><td>18.16</td><td>8.55a</td><td>4.69</td></tr><tr><td>0（B1)</td><td>50.92</td><td>4.27</td><td>70.30</td><td>17.34</td><td>7.80</td><td>4.56</td></tr><tr><td>0.4% (B2)</td><td>44.67</td><td>4.60</td><td>69.79</td><td>16.85</td><td>8.43</td><td>4.92</td></tr><tr><td>水平 0.8% （B3）</td><td>46.41</td><td>4.08</td><td>68.90</td><td>17.94</td><td>8.20</td><td>4.95</td></tr><tr><td>1.2% （B4)</td><td>45.55</td><td>4.42</td><td>69.45</td><td>17.50</td><td>8.34</td><td>4.71</td></tr><tr><td rowspan=\"5\">SEM</td><td>1.6% （B5）</td><td>45.01</td><td>4.23</td><td>70.02</td><td>17.17</td><td>8.14</td><td>4.66</td></tr><tr><td>2.0% (B6)</td><td>50.50</td><td>4.30</td><td>70.42</td><td>17.39</td><td>7.86</td><td>4.32</td></tr><tr><td></td><td>1.28</td><td>0.09</td><td>0.37</td><td>0.24</td><td>0.10</td><td>0.10</td></tr><tr><td>精粗比 C/R</td><td>0.000</td><td>0.337</td><td>0.949</td><td>0.900</td><td>0.016</td><td>0.799</td></tr><tr><td>MOS 水平 MOS level</td><td>0.386</td><td>0.685</td><td>0.834</td><td>0.826</td><td>0.430</td><td>0.550</td></tr><tr><td>P value C/RxMOS level</td><td>精粗比xMOS 水平</td><td>0.794</td><td>0.466</td><td>0.524</td><td>0.761</td><td>0.466</td><td>0.086</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "112 3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1不同精粗比饲粮中添加 MOS 对体外培养液 pH的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液pH是反映瘤胃内环境的一个重要生理指标，能直观反映瘤胃发酵是否正常，pH过高或过低对于正常的瘤胃微生物的生长、增殖及瘤胃发酵均不利[2]。瘤胃内 pH维持在一个正常的范围是保证瘤胃正常发酵的前提。本试验中，各组体外培养液 pH 变动范围为6.45\\~7.45，均在瘤胃液 pH的正常变化范围（ $5 . 5 { \\sim } 7 . 5$ ）内变化[13]。本试验中，精粗比对各时间点体外培养液中pH都产生了显著影响，且 $\\mathsf { p H }$ 随精粗比的提高而降低。这是由于精粗比提高时，非结构性碳水化合物的比例也随之上升，发酵产物累积，从而产生更多的 VFA使 $\\mathsf { p H }$ 降低。MOS水平在各时间点对培养液 $\\mathsf { p H }$ 没有产生显著影响，与肖宇等[14]的结果，即MOS 显著降低奶山羊瘤胃液pH的结果不一致。这可能是由于本试验中MOS 的添加水平较低（最高 $2 . 0 \\%$ ， $0 . 0 4 \\mathrm { ~ g ~ }$ 左右)，致使MOS 的作用不明显；也可能是因为体外培养不能完全模拟体内环境，没有瘤胃上皮细胞对VFA 的吸收作用而使pH变化不明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2不同精粗比饲粮中添加MOS对体外培养液 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 是瘤胃代谢中含氮物降解的产物，也是瘤胃微生物合成菌体蛋白的主要氮源，一定程度上可以反映出瘤胃微生物分解含氮物质产生 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 及对其摄取利用的情况，是瘤胃内环境的重要指标。如果 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度过高，则说明瘤胄微生物降解氮源释放氨的速率超过了微生物利用其合成自身蛋白质的速率，这会增加瘤胃氮循环中氮素的损失，而 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度过低会限制纤维素分解菌分解纤维素的效率[15]。 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 作为菌体蛋白合成的氮源,其最适浓度各国学者比较一致的看法是 $1 0 { \\sim } 5 0 \\mathrm { m g / d L } ^ { [ 1 6 ] }$ ，而要保证动物的最高采食量和消化率，瘤胃内氨态氮的浓度应不低于 $2 0 \\mathrm { \\ m g / d L }$ 。本试验中，体外培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度在25.58\\~131.57mg/dL之间变动，较反刍动物瘤胃内正常 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度高，这可能是由于体外培养中发酵产物与代谢终产物无法移出且没有反刍动物瘤胃壁可以吸收氨的缘故，导致氨在培养液中积累。整个培养期，培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度随饲粮精粗比升高而降低，这可能是由于精饲料比例升高时易降解能源物质含量升高，促进瘤胃微生物增殖而加速培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 的消耗，促进菌体蛋白的合成[6。MOS 水平也对整个培养期体外培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度产生了显著的影响，但并未表现出规律性的变化，仅在培养后期呈现出 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度随MOS 添加水平升高而略有升高。这可能是由于MOS 对瘤胃微生物的促增殖作用较为缓慢，试验初期作用不明显，而在培养后期，随着 MOS 作用的逐渐呈现，使培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度随 MOS添加水平升高而略有增加。此外，体外发酵毕竟不能完全模拟体内环境，尤其是随着发酵时间延长、产物积累及pH 降低均对微生物的发酵产生不利影响，因此，体外培养液中 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度并未表现出非常规律性的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3不同精粗比饲粮中添加MOS对体外培养液TVFA浓度和VFA含量的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "VFA是反刍动物瘤胃中碳水化合物发酵的主要产物，也是反刍动物最主要的能量来源，用于合成体脂肪、乳脂肪等或者转化成其他物质提供能量[17]。由于VFA主要来源于微生物对碳水化合物的发酵，所以瘤胃发酵类型及VFA产量主要与饲粮的类型密切相关[18]。本试验中，A1组培养液 TVFA 浓度显著低于其余3组，是由于精饲料中非纤维性碳水化合物含量更高，能够快速完全地降解从而使 TVFA 浓度上升，这也与本试验中随精粗比提高pH 降低的结果相对应。本试验中乙酸、丙酸含量及乙酸/丙酸变化不明显，可能是由于发酵底物较少，导致仅在VFA发酵总量上出现差异而不能显著影响到各种脂肪酸的含量，也有可能是在体外研究条件下，瘤胃微生物发酵产生的VFA不能像体内一样，被瘤胃壁和网胃壁等吸收，从而使乙酸和丙酸等单个脂肪酸的含量变化不明显。肖宇等[4]报道，外源添加功能性寡糖可以增加奶山羊瘤胃中乙酸和 TVFA 浓度；而 Mwenya 等[19]报道饲粮中添加异麦芽寡糖对绵羊瘤胃中VFA含量均不产生显著影响。本试验中MOS 对体外培养液中TVFA浓度、乙酸/丙酸及各种酸的含量没有产生显著的影响，可能是因为MOS 的添加水平较低(最高 $0 . 0 4 { \\bf g } { \\dot { \\bf \\theta } }$ ）导致其作用不明显，因此对于MOS 在反刍动物上的适宜添加水平以及添加方式还需进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 不同精粗比饲粮中添加MOS 对绵羊体外瘤胃发酵 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度有显著影响,其中MOS的影响较轻微，尚未呈现剂量效应，主体起作用的仍是精粗比。$\\textcircled{2}$ 饲粮精粗比的提高增加了绵羊体外瘤胃发酵VFA浓度，降低了 $\\mathsf { p H }$ 和 $\\mathrm { N H } _ { 3 ^ { - } } \\mathrm { N }$ 浓度。参考文献：[1]王彬.半乳甘露寡糖在动物生产中的研究进展[J].兽药与饲料添加剂,2009,14(4):18-19.[2]杨华,王珍喜.微生态添加剂-甘露寡糖应用研究进展[J].江西畜牧兽医杂志,2005(1):22-23.[3]钟志勇.不同组合的功能性寡糖对锦江黄牛瘤胃发酵和内容物酶活的影响[D].硕士学位论文.南昌:江西农业大学,2012.[4]祁茹,林英庭.甘露寡糖在反刍动物中的应用[J].中国饲料,2011(4):24-28.[5]鲍延安,邢淑芳,徐庆龙.甘露寡糖对荷斯坦奶牛产奶量及乳常规的影响[J].饲料研究,2009(2):57-60.[6]FRANKLIN S T,NEWMAN M C,NEWMAN K E,et al.Immune parameters of dry cows fedmannan oligosaccharide and subsequent transfer of immunity to calves[J].Journal of DairyScience,2005,88(2):766-775.[7]郑琛.外源添加甘露寡糖对绵羊养分消化代谢、瘤胃发酵、消化道食糜流通量及免疫的影响[D].博士学位论文.兰州:甘肃农业大学,2012.[8] 张学峰.外源寡糖在绵羊消化道内的降解、转化、利用和流通规律及其对瘤胃微生物区系、免疫和营养物质消化影响的研究[D].博士学位论文.呼和浩特:内蒙古农业大学,2007.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[9]戈婷婷,瞿明仁.日粮中不同水平甘露寡糖对锦江黄牛瘤胃微生物体外发酵的影响[J].饲料广角,2010(20):26-27,40.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10]MENKE K H,RAAB L,SALEWSKI A,et al.The estimation of the digestibility and metabolizable energy content of ruminant feedingstufs from the gas production when they are incubated with rumen liquor in vitro[J].The Journal of Agricultural Science,1979,93(1):217-222. [11]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].畜牧与饲料 学,2010,31(6/7):37.   \n[12]HOOVER W H,KINCAID C R,VARGA G A,et al.Effects of solids and liquid flows on fermentation in continuouscultures. IV .pH and dilution rate[J].Journal ofAnimal Science,1984,58:692-699.   \n[13]王加启,冯仰廉.不同粗饲料日粮发酵规律及合成瘤胃微生物蛋白质效率研究[J].黄牛杂 志,1994,20(S2):82-85.   \n[14]肖宇,王利华,程明,等.功能性寡糖对奶山羊瘤胃发酵功能的影响[J].动物营养学 报,2011,23(12):2203-2209.   \n[15]HRISTOV A N,ROPP J K,HUNT C W.Efect of barley and its amylopectin content on ruminal fermentation and bacterial utilization of ammonia-N in vitro[J].Animal Feed Science and Technology,2002,99(1/2/3/4):25-36.   \n[16]韩正康,陈杰.反刍动物瘤胃的消化和代谢[M].北京:科学出版社,1988.   \n[17]郝正里,刘世民,孟宪政.反刍动物营养学[M].兰州:甘肃民族出版社,2000.   \n[18]刘洁,刁其玉,赵一广,等.饲粮不同 NFC/NDF 对肉用绵羊瘤胃 pH、氨态氮和挥发性脂肪 酸的影响[J].动物营养学报,2012,24(6):1069-1077.   \n[19] MWENYA B,SAR C,SANTOSO B,et al.Comparingtheeffectsofβ1-4 galacto-oligosaccharides and $\\mathrm { ~ L ~ }$ cysteine to monensin on energy and nitrogen utilization in steers fed a very high concentrate diet[J].Animal Feed Science and Technology,2005,118(1/2):19-30. Effects of Mannanoligosaccharides Supplementation in Diets with Different Concentrate to Roughage Ratios on in Vitro Ruminal Fermentation of Sheep ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(College of Animal Science and Technology, Gansu Agricultural University, Lanzhou 730070, China） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The purpose of this study was to investigate the effects of mannanoligosaccharides (MOS） supplementation in diets with different concentrate to roughage ratios on in vitro ruminal fermentation of sheep. Six levels(O, $0 . 4 \\%$ ， $0 . 8 \\%$ ， $1 . 2 \\%$ ， $1 . 6 \\%$ and $2 . 0 \\%$ ）of MOS were supplemented in diets with four concentrate to roughage ratios (20:80,30:70, 40:60 and 50:50) to formulate 24 kinds of subtract using a $4 { \\times } 6$ two factorial experiment design. The subtracts were cultured for 3, 6, 9, 12 and $2 4 \\mathrm { ~ h ~ }$ using in vitro gas production method, respectively, and pH, ammonia nitrogen $\\mathrm { ( N H } _ { 3 ^ { - } } \\mathrm { N } )$ ）and volatile fatty acid (VFA） concentrations in cultivated fluid were determined. The results showed as follows: the pH, $\\mathrm { N H } _ { 3 }$ -N concentration, total VFA concentration and butyrate content in cultivated fluid were significantly afected by concentrate to roughage ratio $( P { < } 0 . 0 5 )$ ， $\\mathrm { N H } _ { 3 }$ -N concentration was significantly influenced by MOS level $( P { < } 0 . 0 5 )$ ，and $\\mathrm { N H } _ { 3 }$ -N concentration was also significantly influenced by the interaction between MOS level and concentrate to roughage ratio $( P { < } 0 . 0 5 )$ . With the increase of concentrate to roughage ratio, total VFA concentration and butyrate content in cultivated fluid tended to be increased, while the pH and $\\mathrm { N H } _ { 3 }$ -N concentration in cultivated fluid tended to be decreased; with the increase of MOS level，NH3-N concentration in cultivated fluid was slightly increased. In conclusion，MOS supplementation in diets with different concentrate to roughage ratios can significantly affect $\\mathrm { N H } _ { 3 }$ -N concentration of in vitro fermentation of sheep,the effect of MOS is slightly,and the main influencing factor stillis concentrate to roughage ratio; the increase of concentrate to roughage ratio increases VFA concentration，but decreases $\\mathrm { \\ p H }$ and $\\mathrm { N H } _ { 3 }$ -N concentration of in vitro fermentation of sheep. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: concentrate to roughage ratio; mannamoligosaccharides; sheep; $\\mathrm { \\ p H }$ ; volatile fatty acid; ammonia nitrogen ",
+        "page_idx": 11
+    }
+]

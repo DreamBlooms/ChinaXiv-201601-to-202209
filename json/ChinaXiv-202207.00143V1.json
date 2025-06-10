@@ -1,0 +1,639 @@
+[
+    {
+        "type": "text",
+        "text": "农业元宇宙：关键技术、应用情景、挑战与展望",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈枫1,2，邢斌1,2，罗娜1,2，刘海深1.3，孙传恒 $^ { 1 , 2 ^ { * } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.国家农业信息化工程技术研究中心，北京100097；2.农产品质量安全追溯技术及应用国家工程研究中心，北京100097;3.数字植物北京市重点实验室，北京100097)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：元宇宙这一新兴概念受到了产学研各界的广泛关注。农业与元宇宙的结合将极大的推动农业信息化和智能化发展，为农业智能化转型升级提供新动能。为深入了解元宇宙在农业领域的应用研究进展，本文首先介绍了元宇宙的概念和关键技术，分析了各关键技术的原理，特点及其在元宇宙中发挥的功能。接着讨论了农业元宇宙的在农业领域的作用，并阐述了国内外农业元宇宙在农业数字孪生与平行农业、虚拟农场、农业教学系统和农产品追溯系统领域的研究进展。最后总结了农业元宇宙面临的挑战并展望了农业元宇宙未来的发展方向。本文可为农业元宇宙的应用研究提供指导作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农业元宇宙；扩展现实；数字孪生；平行农业；虚拟农场中图分类号： 文献标志码： 文章编号： (黑体，小五)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review on the Metaverse for Agriculture ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Feng 1.2, XING Bin1²2, LUO $\\mathrm { N a } ^ { 1 , 2 }$ ,LIU Haishen1,3, SUN Chuanheng 1.2\\* (1.National EngineeringResearch Centerfor InformationTechnology inAgriculture,Beijing,1097,China; 2.National Engineering Laboratory for Agri-product Quality Traceability,Beijing,1Ooo97,China; 3.Beijing Key Laboratory of Digital Planty,Beijing,1Ooo97,China;) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Asanemerging concept,metaverse has atracted extensive attntion from industry,academiaand scientific research field.Thecombination of agriculture and metaverse will greatlypromote thedevelopment of agricultural informatization andagricultural intellgence.Thecombination of agricultureand metaverseprovidenew impetus for the transformation and upgadingof agricultural intellgence.Firstly,to expound theresearch progressof theapplicationof metaverse inagriculture,thisreview brieflydescribed the basic principle and key technologies of metaverse,and analyzes the principles,characteristics and main functions ofeach keytechnology inmetaverse.Then,thereview discuses theroleof agricultural metaversein thefieldofagriculture,and expounds theresearch progressof agricultural metaverse in the fields of agricultural digitaltwinand paralel agriculture,virtual farm,agricultural teaching systemand agricultural product traceabilitysystem.Finaly,thechalenges inthedevelopmentofagricultural metaversenowadays weresummarized,andthe future development directions of agricultural metaverse were prospected.This reviewcanprovide theoreticalreferences and technical supports for the development of metaverse in the field of agriculture. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: agricultural metaverse; extended reality; digital twin; parallel agriculture; virtual farm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "元宇宙(Metaverse)在世界范围内掀起一股热潮，行业专家们将2021年称为\"元宇宙元年”。2021年3月，元宇宙第一股Roblox在美上市。10月，Facebook更名为Meta，希望被视为一家元宇宙公司。国内来看，腾讯、百度、阿里、字节跳动等大厂也在不断布局元宇宙相关产业，与此同时，三大运营商也宣布成立国内首家元宇宙行业协会，元宇宙这一新兴概念受到了产学研各界的广泛关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "具体到农业领域，随着互联网、大数据(BigData)、云计算(CloudComputing)、人工智能(ArtificialIntelligence，AI)等现代信息技术与农业深度的融合，农业的智能革命已经到来[1]。农业元宇宙技术将有机整合农业生产的物理实体和数字空间，提供虚实结合的仿真平台和沉浸式的设计仿真环境，有望为农业智能化转型升级提供新动能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，农业元宇宙已广泛应用于农业数字孪生系统、平行农业、虚拟农场、农业教育系统和农产品追溯系统等多个领域。然而，针对农业元宇宙的研究目前尚未出现全面的综述报道。因此，本文通过介绍元宇宙关键技术，梳理元宇宙在农业领域的发展现状，阐述了农业元宇宙还将面临的挑战，同时提出了对农业元宇宙未来发展趋势的设想，为农业元宇宙的发展提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 元宇宙关键技术",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "元宇宙一词起源于1992年美国作家尼尔·斯蒂芬森的小说《雪崩》，书中描绘了一个超现实主义的数字空间“元宇宙”，为地理空间所阻隔的人们可通过各自的\"化身(Avatar)\"相互交往，度过闲暇时光。元宇宙技术并不是一个新技术，而是多种IT新技术的综合集成应用[2]。以虚拟现实(VirtualReality，VR)，增强现实(AugmentedReality，AR)和混合现实(MixedReality，MR)为代表的扩展现实(ExtendedReality，XR)技术可以将现实中的人们“传送\"至虚拟空间，为人们提供身临其境的体验。物联网(InternetofThings，IoT)和三维重建（3DReconstruction)等技术可以收集和提供来自物理世界的数据，为在计算机中建立表达客观世界的虚拟现实提供支撑。5G，6G 等技术可以为连接设备提供可靠、灵活和低延迟的网络，为实时数据传输提供必要的动力。AI可为元宇宙中的\"化身\"赋予智能和学习能力，为元宇宙的智能化提供推动。区块链(BlockChain)技术和非同质化代币(Non-Fungible Token，NFT)技术具有去中心化和不可篡改性，信息安全透明，可为元宇宙构建去中心化基础设施提供支持。元宇宙技术架构图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6a7f103c2360418a5792d6567778aaf7b314235f1e6c613d930cf3d8a5ae1d3.jpg",
+        "img_caption": [
+            "图1元宇宙技术架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农业系统是一个复杂的动态系统，农业领域的创新大多需要较长的周期去验证和调整，农业元宇宙的出现可以极大的推进农业智能化转型速度。农业元宇宙具有显著的多学科交叉特点，由于农业具有生物特性，直接将元宇宙技术应用于农业领域不能有效解决问题。因此，开展基于农业特性的元宇宙交叉研究，将元宇宙技术与农业基础原理深度融合，是农业元宇宙发展的重中之重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1元宇宙基础设施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1区块链与NFT ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区块链是利用密码学、分布式共识机制、智能合约等技术手段，在无需互相信任的分布式系统节点间实现去中心化点对点交易、协调和协作的全新的分布式基础架构和计算范式[3]。区块链具有去中心化、不可篡改、公开透明和合约自治等特性，能够在多利益主体参与的场景下，以低成本的方式构建信任基础，重塑信用体系[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NFT是基于区块链技术的非同质化数字资产[5]。具有不可分割性、独一无二性和高度透明性[。目前已广泛应用于数字藏品、游戏等领域[7]。NFT 通过将数字资产和唯一加密货币令牌进行绑定，使数字资产永久保存在区块链上。NFT还可将数字资产与实体商品进行锚定，通过数字令牌的交易实现实体商品所有权的转移。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "元宇宙作为与现实世界映射和交互的虚拟世界，必须具有可存续性，不会因为某个公司或政府的决策而消失。区块链技术为元宇宙提供了理想的去中心化环境，在去中心化数据传输、存储与管理等方面提供了一套完整的解决方案。此外，区块链技术和NFT技术在构建元宇审经济体系上也起到了关键性作用，参与者可通过数字资产的交易、展览等方式从虚拟经济中获取利润。目前，区块链技术和NFT技术已在农产品追溯领域广泛应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 5G与6G ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5G即第五代移动通信技术，是具有高速率、低延迟和大连接等特点的新一代移动通信技术[8]。6G 作为5G 的必然演进方向，将具有更高的性能和更低的功耗[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "要实现元宇宙的沉浸式体验，就要实现数据的实时渲染。数据的传输速率和延迟是影响参与者体验的关键因素。5G和6G可为元宇宙提供高速率、低延迟、大连接的网络通信基础，让位于不同空间位置大量的XR设备同时接入元宇宙后，实现流畅的体验成为可能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 AI ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AI是指使机器能够从经验中学习并执行各种任务的理论和技术，在自然语言处理[10]、计算机视觉[1]和推荐系统[12]等领域广泛应用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AI是推动元宇宙发展的重要一环，AI可以使得元宇宙世界中的“化身\"更为逼真，赋予他们学习人类语言和对话风格的能力[13]，使其学会理解人类意图并有效表达自我意图[14]。AI还可用于辅助元宇宙中用户的决策、管理、服务问题[15]。此外，AI可以解决元宇宙中的语言问题，使得使用不同语言的元宇宙参与者实现无障碍沟通[16]。目前，AI已在农产精准信息服务，辅助决策等领域广泛应用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 虚实交互 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1IoT ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物联网是一种将从不同种类的设备获得的数据融合到现有互联网基础设施上的方法[17]。其通过各类传感器设备、射频识别技术、全球定位系统等装置与技术实时采集各类信息，通过各类网络接入实现物与物，人与人之间的广泛连接。未来可通过物联网将现实世界的物体转化为虚拟世界的智能\"化身\"[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物联网增强了元宇宙与现实世界的联系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物联网为元宇宙提供了从现实世界实时采集的数据，利用这些数据可以提高元宇宙虚拟世界与现实世界的一致性，使其更加精准的描述现实世界。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2三维重建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三维重建是指在计算机中建立一个现实三维物体的数学模型，并可对其进行处理、操作和分析[19]。三维重建目前已广泛应用于土木工程[20]，城市重建[21]，水下结构[22]和文化遗产数字化[23]等多个领域，在作物表型研究中也已开展应用。三维重建是在计算机中建立表达客观世界的虚拟现实的关键技术。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三维重建技术可以为元宇宙描述现实世界提供技术支持，对于虚拟世界的三维环境重建，建筑物重建以及虚拟世界和现实世界的位置对应具有重要意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3云计算和边缘计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "云是互联网的隐喻，云计算即通过互联网而不是计算机硬盘存储和访问数据和程序[24]。边缘计算则为在靠近数据源头的一侧，采用存算一体化的平台就近提供端服务[25]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "元宇宙不可避免地会产生大量数据，元宇宙的规模和完整性直接取决于现实世界的计算能力和存储能力。云计算在成本、稳定性、安全性和效率方面具有极大的优势。此外，边缘计算的引入可以增强系统的处理能力，使得处理更靠近用户，元宇宙的体验更加流畅。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3扩展现实 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 XR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XR是AR、VR、MR等多种技术的统称，指的是由计算机技术和可穿戴设备产生的真实和虚拟结合的环境和人机交互[26]。AR是一种将数字信息叠加在现实世界中的物体或地点上增强用户体验的技术，具有结合现实和数字信息的能力[27]。VR通过计算机模拟虚拟环境从而给人以环境沉浸感，是一种完全沉浸式、引人入胜的交互体验。参与者可以通过特殊的人机交互设备感受和触摸虚拟对象，从而产生这些对象确实存在的感觉[28]。MR 则通过在虚拟环境中引入现实环境的场景信息，在虚拟世界、现实世界和用户之间搭建起一个交互反馈的信息回路以增强用户体验的真实感[29]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "元宇宙要为用户提供身临其境的体验，XR技术是必不可少的。XR技术可以为元宇宙提供了通往虚拟世界的门户，是元宇宙的接入点。元宇宙参与者可通过XR技术体验到虚拟试衣间[30]、虚拟陈列室[31]和虚拟商店[32]等沉浸式元宇宙体验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2脑机接口",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "脑机接口指的是通过大脑活动控制外部设备的硬件和软件[33]。其通过在人或动物的大脑与外部设备之间创建直接连接，实现大脑与设备的信息交换。脑机接口可对部分患有身体残疾的用户提供与健康用户相同的接入体验[34]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当前所有的XR设备都依赖于屏幕和传统的控制系统，脑机接口则旨在完全取代屏幕和物理硬件，实现面向消费者的精神控制系统。使用户获得更具沉浸式的元宇宙体验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3农业元宇宙应用情景",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "智慧农业的兴起预示着农业领域正在与现代信息技术深度融合。元宇宙与农业的融合将会为农业领域带来新的智能革命。目前，农业元宇宙还处于起步阶段，随着元宇宙与农业的深度融合以及元宇宙关键技术的突破，农业元宇宙将逐步提高农业生产效率，管理效率以及农产品品质，推动农业发展迈入新阶段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于农业领域，元宇宙技术的应用会为农业信息感知、农业智能化管理、农业数字孪生系统、虚拟农场、农业教育、农产品源等领域提供虚实结合的农业元宇宙平台和沉浸式环境，极大推动农业领域发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1农业数字孪生与平行农业",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1农业数字孪生",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数字孪生（DigitalTwin，DT）指的是以数字化方式在信息化平台内建立、模拟一个物理实体、流程或系统在现实环境中的行为。借助于DT，可以通过虚实交互反馈、数据融合分析、决策迭代优化等手段在信息化平台上了解物理实体的状态，并对物理实体里预定义的接口元件进行控制[35]。这种物理世界与数字世界的绑定是构建元宇宙的基础，只有数字世界而无法与物理世界交互的元宇宙仅仅是一个“模型\"[36]此外，数字世界不仅可以表示物理世界的当前状态，也可基于物理世界中发展和相互作用的模拟过去状态和预测未来状态[37]。数字孪生的概念最早是由 MichaelGrieves 教授于 2003 年，在美国密歇根大学的产品全生命周期管理课程上提出，当时被称作\"镜像空间模型\"[38]，后被定义为“数字孪生\"[39]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农业中的物理系统或物理世界是一个复杂的动态环境，包括大气、土壤、作物、农业机械设备、操作员和管理措施等多个层级的信息和特征[40]。通过温度、土壤、光照等农业IOT设备采集物理世界的实时信息，通过物理世界的信息感知驱动数字世界的融合建模。农业DT系统架构如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f8fb14d7bbcea1738b9d1f9e72ee2126040122d540bbe4b48b0917e71ceef0a.jpg",
+        "img_caption": [
+            "图2农业数字孪生系统架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农业DT系统的蓬勃发展有助于推动农业元宇宙的加速落地。表1对一些农业DT系统进行了总结整理，未来农业DT系统还需结合VR，AR，MR等XR技术，增加数字世界与物理世界的交互，结合区块链，NFT等技术解决数据确权难题，实现更高级的农业元宇宙系统。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 平行农业",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平行系统是指由某一个现实系统和对应的一个或多个虚拟或理想的人工系统所组成的共同系统[41]，实现虚拟和现实的结合[42]。平行系统通过整合人工社会，计算实验和平行执行等方法，形成新的计算研究体系[43]。其目的是基于人工系统(Artificial systems，A)、计算实验(Computational experiments，C)和 平 行执行(Parallelexecution,P)，即ACP方法，解决难以建模、难以解析、难以预测的复杂系统[44]。其系统架构如图3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/60d298576365671d9c1d14071b374d5ee19dc7fb209d3d942b398983e17a5230.jpg",
+        "table_caption": [
+            "表1农业数字孪生系统Table1Agricultural Digital Twin System"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>标题</td><td>简介</td><td>应用领域</td></tr><tr><td>数字孪生系统在农业生产中的应用探讨[40]</td><td>系统分析了作物生产系统及其认知方法的发展历程，提出我国 农业数字孪生系统的应用方向和发展路径</td><td>农业生产</td></tr><tr><td>Toward the Next Generation ofDigitalization in Agriculture Based on Digital Twin Paradigm[45]</td><td>介绍了数字李生概念的最新进展，以及数字李生系统在土壤灌 溉系统、农作物生产和收获后处理过程的应用</td><td>土壤灌溉系 统、农作物生 产、作物处理</td></tr><tr><td>Digital twins in agri-food : Societal and ethical themes and questions for further research[37]</td><td>从资源、表示、行动和实施四个方面分析了数字李生在农业食 品领域可能产生的社会、道德和安全影响</td><td>农业食品</td></tr><tr><td>Digital Twins in Livestock Farming[46]</td><td>探讨了畜牧业中数字孪生系统的使用，包括预测繁殖，监测动 物情绪等</td><td>畜牧业</td></tr><tr><td>ADecision Support System for Urban Agriculture Using Digital Twin: A Case Study With Aquaponics[47]</td><td>使用数字孪生系统和机器学习增强鱼菜共生的实施，评估了一 种大规模城市农业生态系统建模框架</td><td>城市农业</td></tr><tr><td>A single view leaf reconstruction method based on the fusion of ResNet and differentiable render in plant growth digital twin system[48]</td><td>提出了一种融合了ResNet和可微分渲染的的植物生长数字孪生 系统中单视图叶片重建方法</td><td>农业生产</td></tr><tr><td>Introducing digital twins to agriculture[49]</td><td>研究了数字李生在农业中的使用程度，统计了2017-2020年农业 数字孪生的文献</td><td>农业生产</td></tr><tr><td>Digital twins in smart farming[50]</td><td>分析了数字孪生如何推进智能农业</td><td>智能农业</td></tr><tr><td>ADigital Twin Architecture to Optimize Productivity within Controlled Environment Agriculture[51]</td><td>引入了用于受控环境农业系统的数字孪生架构，并将其应用于 案例研究进行验证</td><td>受控环境农业</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9d3fbe09b8d093bc446ae5ebfa29c726528c88dc6da14bb1c5d4f7a0ab7dcb6.jpg",
+        "img_caption": [
+            "图3基于ACP的平行系统架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平行农业是指通过在虚拟空间构建人工农业系统描述实际的农业系统问题，并利用构建出的人工农业系统对未来发展进行预估和优化，最终实现人工农业系统与实际农业系统两者间持续的相互作用、相互反馈、相互引导，指导农业发展[52]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "农业数字孪生和平行农业有相同之处但也存在侧重点的区别。农业数字孪生和平行农业均为解决信息、物理、社会融合这一科学问题提供了新的解决思路，且两者都与先进传感采集、仿真、高性能计算、智能算法等的发展有着密不可分的关系[53]。农业数字孪生系统侧重于针对机理明确的农业系统，构建农业数字孪生系统通常需要人工构建的虚拟农业系统和实际物理农业系统在状态转换、观测、控制的机理上相互对应。而平行农业可以对尚未明确机理的复杂农业系统做出构建和解释。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.3农业元宇宙",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农业元宇宙相比农业数字孪生和平行农业，增加了XR 和区块链等新技术，更加注重参与人的体验和交互，关注参与人的沉浸感，而不仅仅是实现对物理系统的虚拟化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 虚拟农场",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虚拟农场是农业元宇宙最重要的应用之一，是农业元宇宙赋能传统农业的重要方式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在农业生产领域，传统农业生产效率和资源利用率较低[54]，农业创新和进步需要耗费大量的人力物力，农业领域的创新大多需要较长的周期去验证和调整。因需较高的投入和长周期验证，目前从事农业技术研究的多为有实力大型公司或科研机构。此外，研究成果还面临二次适应的问题，即研究成果应用于不同气候、不同土壤条件的耕地时，原始成果参数需要在基础参数上进行微调。而最关心实际应用的农民，却无力去进行这种微调。农业元宇宙的应用，将在一定程度上解决该局面。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1农业生产",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农业元宇宙在农业生产领域应用前景巨大农业元宇宙可以在虚拟环境中建立虚拟农场，模拟实现农作物和畜禽的完整成长过程，可以在极短的时间内收集到大量的农作物生长数据和畜禽生长数据，实现智能化和精细化农业。此外，虚拟农场还可以模拟害虫活动，从而确定最佳的喷药方式和时间，农户无需掌握高深的理论知识，即可得到最新的决策方案。对于畜牧经营管理者，虚拟农场可以实现对动物从器官、组织、系统到整体的精确模拟。当畜牧经营管理者对“虚拟动物\"进行操作时，“虚拟动物\"会模仿真实动物做出相对应反应，这对模拟动物生存环境、动物营养需求和品种选育等具有重大意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在农业生产领域，虚拟农场在国内外已有部分应用。阿里巴巴达摩院XR实验室实现了虚实联动的农业采摘机器人案例，该案例通过对果园和果树进行三维建模，构建出整个果园的高精度虚拟模型，采摘机器人可以在虚拟世界中进行运动规划方案设定，设定结果会映射到物理世界的采摘机器人大脑中，完成采摘机器人的自动采摘工作，降低果园管理成本。超级码科技提出了元宇宙智慧茶园，在元宇宙茶园中可以快速模拟茶树的生长周期，有效缩短农事操作周期和成本，短时间内即可获取海量生长数据，突破传统农业周期长、难量化等特点，为精细化和智能化作业奠定了基础，同时可通过小气候一体机、土壤熵情监测站等物联网设备实时采集土壤、气象等各维度数据，根据气象数据和历年流通数据，模拟开采期、产量和产值还可以模拟不同气象条件下各类茶叶的品质，农户足不出户就能了解茶树的长势情况。在室内种植领域，室内农业种植者已经在使用AR技术对作物的生理习性，成长过程和相关数据进行数字化和监测[55]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 农业体验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "休闲农业体验是农业经济与旅游产业相结合的新兴产业，以农业、生态旅游为特色，以农业观光体验为主要内容，以观光采摘、休闲度假体验民俗为主要方式。目前，我国休闲农业体验产业链已形成了多元结构、全周期、多功能、集多方面利于一体的休闲农业旅游产业链特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "农业元宇宙在农业体验领域的应用主要集中在利用农业元宇宙构建虚拟世界，结合现在流行的认养模式、农旅休闲、民俗体验等模式，探索虚拟农场与现实农业生产的结合。在这过程中，消费者利用XR技术实时掌握农场情况，以虚拟“化身\"的形式，实现远程浇水、施肥的沉浸式体验。此外，农业的种植者和农业设备采购者也可通过农业元宇宙预先对其计划购买的农业产品和农业设备等进行体验，而不受空间和时间的限制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "元宇宙休闲农业体验在国内外广受关注。2022年4月21日，苏宁易购与元初世界合作落地元宇宙农业电商项目“五个农民数字奶牛”，消费者可以在虚拟牧场中养殖奶牛，在农业元宇宙构建的虚拟牧场中实现确权、流转交易和产奶收益，同时，消费者可以在现实世界中收到高品质牛奶。“五个农民数字奶牛\"将现实世界的商品价值属性，和虚拟农场中的虚拟映射体验相结合，使得消费者在享受虚拟农场生活体验的同时得到现实世界的商品回馈。因新冠疫情对泰国旅游造成了巨大打击，泰国国家旅游局为实现旅游可持续发展、促进当地旅游、提高旅游竞争力，泰国同东部府域10位榴莲园主合作推出了“元宇宙游园\"活动，该活动源于“元宇宙神奇泰国：神奇榴莲\"项目，通过Web3平台刺激休闲农业发展，旨在为游客提供全新的休闲农业体验[56]。从化岭南水果产业协会通过农业元宇宙展示从化荔枝的智慧化种植，打造虚拟荔枝果园体验种植 $^ +$ 定制基地。消费者认养一棵荔枝树，即可通过VR视频实时观看果树的种植情况，实现远程浇水、施肥的沉浸式体验农业元宇宙与农旅休闲的结合，可使游玩者通过立体化、可视化的虚拟世界体验亲自耕种等田园乐趣。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.3虚拟人物",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "元宇宙虚拟人物是元宇宙中的重要一环。2021年10月31日，元宇宙虚拟人物柳夜熙凭借第一条视频的横空出道收获数百万粉丝，不到两个月的时间其发布的4条视频累计播放量上亿，元宇宙虚拟人物随之走入大众的视线。虚拟人物的核心作用是帮助现实世界的人处理虚拟世界事务。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在农业领域，元宇宙虚拟人物在农产品宣传推广，直播带货等方面有着很大应用空间。近几年，网络直播带货持续火热，但在我国的农村地区，农民不愿出镜、参与意愿低等情况仍然普遍存在。针对此问题，元宇宙虚拟人物不仅可以代替真人直播带货，而且具备形象好、普通话标准、24小时在线等诸多独特优势。此外，元宇宙虚拟人物也可作为休闲农业体验的导游，使休闲农业游玩者更加立体化、直观的体验田园乐趣。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2021年12月20日，广东省率先推出首个农业虚拟人物“小柑妹\"作为德庆贡柑虚拟管家2022年1月10日，“小柑妹\"首次以视频的形式出现，视频中“小柑妹\"进入广东德庆贡柑园并与德庆新农人陈慧在现实农场中进行互动。在德庆贡柑园的虚拟农场中，德庆贡柑树的认养，远程浇水、施肥、监测、采果等都将由“小柑妹\"来提供服务，此外，“小柑妹\"还将提供全年数字化管理等服务。此后，广东省又推出首个预制菜虚拟人物\"小鲜妹”。与“小柑妹\"不同的是，“小鲜妹\"的定位是与市场、产品宣传和推广需求深度融合，增加消费者的互动和线上体验。后续“小鲜妹\"将在各大电商和短视频平台为广东预制菜进行直播带货。此外，浙江省也推出了元宇宙智慧茶园虚拟人物形象“小码哥”。“小码哥\"负责在茶山上为大家介绍所在的元宇宙世界里茶树的生长情况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3农业教学系统",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "元宇宙教学系统是在一个类似于自然场景的虚拟世界中创建的教学系统，并增加了元宇宙的空间感和虚实互动性[57]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "党的十五届三中全会曾经指出：“农业的根本出路在科技和教育”，只有发展科技和教育才能使农业资源优势向商品优势转变，才能使传统农业向现代农业转变。面对全球流行的新冠病毒的全球威胁以及随之而来的全国封锁，农业教学面临着新的挑战[58]，利用农业元宇宙技术来维持农业可持续教育刻不容缓。农业元宇宙教学系统可以利用碎片化“微课程\"的方式节约培训时间，提高培训效率，让种植者能够身临其境的边做边学。种植者能够在世界各地接受培训教育，并且这种教育是沉浸式，互动型，更为清晰直观的[59]。相关学习内容可以针对语言和培训环境等要素进行定制化设计，针对急需种植技术人员的情况，农业元宇宙教学系统还支持不限时间不限空间的技术培训。老挝国立大学农业学院构建了一个元宇宙农业教学系统[60]，该系统以蛋鸡农场农业课程为例，由农业学院教师对农业知识，农业技术，布局和农场位置等进行教学。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4农产品追溯系统",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "农产品追溯系统因可降低质量安全风险，提高产品召回效率、保障公众健康水平，已成为农产品供应链管理的有效手段[61]。农产品源可以让消费者了解农产品的生产信息，看到农产品的生产全过程，对企业，对产品更放心。但因农产品及食品供应链时空跨度大、参与主体众多且分散、中心化方式管理与运作困难，加之数据采集时缺乏约束机制，易造成信息不透明，导致追溯信息可信度不高。提高追溯可信度已成为追溯系统可持续应用中面临的重要问题[62]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过在农产品的溯源过程中引入农业元宇宙技术，以更加真实的场景和更加多元的表现形式向消费者展示产品生产和流通全过程，可以使得消费者对农产品的种植、生产、加工、流通等各环节都有更为清晰的认知，这对于打击农产品市场上存在的以次充好行为，保护国家地理标志农产品的品牌属性，促进我国农产品行业朝着健康的方向发展均有着重要意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我国存在着很多的国家地理农产品，如平谷大桃，莱阳梨等。但由于我国迟迟没有建立一个完整的农产品溯源体系，这导致了现今市场上存在着严重的以次充好行为，对国家地理标志农产品来说，无疑是一种严重的伤害。农业元宇宙技术可以大大降低农产品质量信息的获取成本，提升消费者对品牌的信任度。当下人们越来越注重参与感和体验感，将农业元宇宙技术引入到农产品生产源头，是一个必然的过程。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当前农产品追溯系统与农业元宇宙的结合大多在区块链领域，利用区块链不可篡改，可追溯，高透明度的特性，构建农产品区块链追溯系统[63]。随着农业元宇宙技术的发展，农业元宇宙和农村电商的联结会成为化解食品安全和供需矛盾，促进消费者和生产者有效沟通的重要手段。消费者可通过农业元宇宙终端可以看到产品产地的所有情况，并根据个人所需选择购买相应产品，实现产品从采摘到快递到家全程可控。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4农业元宇宙挑战与展望",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 主要挑战",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "尽管目前农业元宇宙取得了一定的技术上的突破，并应用于多个农业领域，但农业元宇宙当前还处于起步阶段，相关领域的研究还存在一些需要解决的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）物理世界的农业系统是一个复杂的动态系统，农业生产过程中的不确定因素较多，如地域差异，气候差异，冻害，病虫害，动植物疫病等。这导致农业元宇宙虚拟世界的建立较为困难。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）农村基础设置较为薄弱，农村宽带网络虽已覆盖到村，但覆盖到农户的比例较低，到农业园区的比例较少。农村4G 网络信号不稳定，5G基站少，通信费用高等问题也亟待解决。在无法全部采用有线布局的农业平原，采用网关 $^ +$ 子节点的方式，通信距离需要达到千米级，低功耗无线通信技术的研究也至关重要。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）目前元宇宙技术还不够成熟，XR设备无法同时做到设备小型化、便携化和低成本，且长时间佩戴XR设备造成的眩晕感无法解决，设备产生的逼真度不足。这也导致了元宇宙落地应用较少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）目前元宇宙技术的实际营收基本集中在游戏和新闻现场等契合度高的行业，而对农业领域应用的探索较少，在农业领域的运营方式不够明朗。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2未来发展展望",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随着科技的不断进步，小型化、低成本、低功耗的XR设备的不断研发；随着元宇宙与AI、云计算、物联网和区块链等技术深度融合；随着元宇宙在农业领域的科学高效应用，农业元宇宙将会极大的推动农业信息化和智能化发展。因此元宇宙在农业领域前景辽阔，发展潜力巨大。考虑到元宇宙在农业领域面临的多种挑战，未来农业元宇宙将主要从以下方面展开科学研究：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）开展元宇宙在农业领域的适用性研究。农业中的物理系统或物理世界是一个复杂的动态环境，只有更紧密的融合农业的地域性、季节性、多样性、周期性等农业特性，才能建立更符合作物生长规律的农业元宇宙模型。（2）开展农业生长机理研究。建立计算机科学、自动化、电气工程和农学等多学科研究团队，推进农业信息化、智能化发展，为农业元宇宙的应用打好坚实的基础。（3）研究针对农业应用的低功耗无线通信技术，建立覆盖到户的农村宽带网络。结合物联网、无线传感网、互联网，实现农场网络全覆盖。（4）推进农业元宇宙产业化应用。探索农业元宇宙多应用场景的产业化应用，主要针对虚拟农场、农业教学系统等开展深入研究，早日实现大规模产业化应用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]秦蕊,李娟娟，王晓，等.NFT:基于区块链的非同 质化通证及其应用[J]．智能科学与技术学报,2021, 3(2): 234-242. QIN R,LI J, WANG X, et al. NFT: Blockchain-based non-fungible token and applications[J]. Chinese Journal of Intelligent Science and Technology, 2021, 3(2): 234-242.   \n[7]WANG Q,LIR,WANG Q, et al. Non-fungible token (NFT):Overview，evaluation， opportunitiesand challenges[J].arXiv preprint arXiv:2105.07447,2021.   \n[8]SHAFI M, MOLISCH AF, SMITHP J, et al. 5G: A tutorial overview of standards, trials,challenges, deployment,and practice[J]. IEEE journal on selected areas in communications,2017, 35(6): 1201-1221.   \n[9]DOGRA A, JHA R K, JAIN S.A survey on beyond 5G network with the advent of 6G: Architecture and emerging technologies[J]. IEEE Access，2020，9: 67512-67547.   \n[10] CAMBRIA E,WHITE B.Jumping NLP curves: A review of natural language processing research[J]. IEEE Computational intelligence magazine，2014, 9(2): 48-57.   \n[11]VOULODIMOS A,DOULAMIS N,DOULAMIS A, et al.Deep learning for computer vision: A brief review[J]. Computational intelligence and neuroscience,2018,2018:1-2.   \n[12]PARKDH,KIMHK, CHOI IY,et al.A literature review and classfication of recommender systems research[J]. Expert systems with applications, 2012, 39(11): 10059-10072.   \n[13] YNAG Q， ZHAO Y,HUANG H, et al. Fusing Blockchain and AI with Metaverse: A Survey[J]. arXiv preprint arXiv:2201.03201, 2022.   \n[14] WILLIAMS T, SZAFIR D, CHAKRABORTI T, et al. Virtual,augmented,and mixed reality for humanrobot interaction (vam-hri)[C]//2019 14th ACM/IEEE InternationalConferenceon Human-Robot Interaction.IEEE,2019:671-672.   \n[15] ZHANG J，ZONG C. Deep Neural Networks in Machine Translation:AnOverview[J]．IEEE Intelligent Systems,2015,30(5): 16-25.   \n[16] PHILLIPS-WREN G.AI tools in decision making support systems: a review[J]. International Journal on Artificial Intelligence Tools,2012,21(02):1240005.   \n[17] FAROOQ M U, WASEEM M, MAZHAR S, et al. A review on internet of things (IoT)[J]. International journal of computer applications,2015,113(1): 1-7.   \n[18] MADAKAM S,LAKE V,LAKE V, et al. Internet of Things (IoT): A literature review[J]. Journal of Computer and Communications,2015,3(05): 164.   \n[19] HAM H, WESLEY J, HENDRA H. Computer vision based 3D reconstruction:A review[J]. International   \n[1] 赵春江．智慧农业发展现状及战略目标研究[J]. 智慧农业,2019,1(01):1-7. ZhaoC.State-of-the-artandrecommended developmentalstrategicobjectivesof smart agriculture[J]. Smart Agriculture,2019,1(1):1-7.   \n[2] 王文喜，周芳，万月亮，等．元宇宙技术综述[J]. 工程科学学报,2022,44(4):744-756. WANG W X, ZHOUF, WAN YL, et al. A survey of metaversetechnology[J]. ChineseJournalof Engineering,2022,44(4): 744-756.   \n[3] 袁勇，王飞跃．区块链技术发展现状与展望[J]．自 动化学报,2016,42(4):481-494. YUANY,WANGFY.Blockchain:The State of the Art and Future Trends.ACTA AUTOMATICA SINICA,2016,42(4):481-494.   \n[4] 曾诗钦，霍如，黄韬，等．区块链技术研究综述： 原理，进展与应用[J]．通信学报，2020,41(01): 134-151. ZENG S Q,HUO R,HUANG T,et al. Survey of blockchain: Principle,progressand application[J]. Journal on Communications,2020,41(1):134-151.   \n[5] DOWLING M. Is non-fungible token pricing driven by cryptocurrencies?[J].Finance Research Letters, 2022,44:ID 102097. 9(4): 2394.   \n[20] MA Z,LIU S.A review of 3D reconstruction techniquesincivilengineeringandtheir applications[J]. Advanced Engineering Informatics, 2018, 37: 163-174.   \n[21] POLLEFEYS M, NISTER D,FRAHM J M, et al. Detailed real-time urban 3d reconstruction from video[J]. International Journal of Computer Vision, 2008, 78(2): 143-167.   \n[22] BEALL C,LAWRENCE B J,ILA V,et al.3D reconstruction ofunderwater structures[C]//2010 IEEE/RSJ International Conference on Intelligent Robots and Systems.IEEE,2010: 4418-4423.   \n[23] GOMES L，BELLON O R P，SILVA L. 3D reconstruction methods for digital preservation of cultural heritage: A survey[J]. Pattern Recognition Letters,2014,50: 3-14.   \n[24] RASHID A,CHATURVEDI A. Cloud computing characteristicsand services:a brief review[J]. International Journal of Computer Sciences and Engineering,2019,7(2): 421-426.   \n[25] SITTON-CANDANEDO I， ALONSORS, CORCHADO J M, et al. A review of edge computing reference architectures and a new global edge proposal[J]. Future Generation Computer Systems, 2019,99: 278-294.   \n[26] FAST-BERGLUND A, GONG L, LI D. Testing and validating Extended Reality (xR） technologies in manufacturing[J]. Procedia Manufacturing, 2018, 25: 31-38.   \n[27] BERRYMAN D R.Augmented reality: a review[J]. Medical reference services quarterly，2012,31(2): 212-218.   \n[28] HALARNKAR P, SHAH S, SHAHH, et al. A review onvirtual reality[J].International Journalof Computer Science Issues,2012, 9(6): 325.   \n[29] ROKHSARITALEMI S， SADEGHI-NIARAKI A, CHOI S M.A review on mixed reality: Current trends, challenges and prospects[J]. Applied Sciences,2020, 10(2): 636.   \n[30] KAEWRAT C,BOONBRAHM P.A survey for a virtual fitting room by a mixed reality technology[J]. Walailak Journal of Science and Technology, 2017, 14(10): 759-767.   \n[31] RAHIMIANFP,CHAVDAROVA V, OLIVER S, et al. OpenBIM-Tango integrated virtual showroom for offsitemanufacturedproductionofself-build housing[J]. Automation in Construction,2019,102: 1-16.   \n[32]KATERATTANAKUL P, SIAU K. Creating a virtual store image[J]. Communications of the ACM, 2003, 46(12): 226-232.   \n[əɔ]KAIVIADAIN VADI Dlalll computerinterface:controlsignalsreview[J]. Neurocomputing,2017,223: 26-44.   \n[34] ALLISON B Z, WOLPAW E W,WOLPAW J R. Brain-computer interface systems:progressand prospects[J]. Expert review of medical devices, 2007, 4(4): 463-474.   \n[35] 刘大同，郭凯，王本宽，等．数字孪生技术综述与 展望[J]．仪器仪表学报,2018,39(11):1-10. LIU D T, GUO K, WANG B K, et al. Summary and perspective survey on digital twin technology[J]. Chinese Journal of Scientific Instrument,2018, 39(11): 1-10.   \n[36] WRIGHT L，DAVIDSON S.How to tell the difference between a model and a digital twin[J]. Advanced Modeling and Simulation in Engineering Sciences,2020,7(1): 1-13.   \n[37] VAN D B S,KLOPPENBURG S,KOK E J, et al. Digital twins in agri-food: Societal and ethical themes and questions for further research[J]. NJAS: Impact in Agricultural and Life Sciences,2021, 93(1): 98-125.   \n[38]GRIEVES，MICHEALW.Productlifecycle management: the new paradigm for enterprises[J]. International Journal of Product Development, 2005, 2(1/2): 71.   \n[39] GITHENS G. Product lifecycle management: driving the next generation of lean thinking by michael grieves[J].JournalofProduct 商行行 Innovation Management, 2007,24(3): 278-280.   \n[40]顾生浩，卢宪菊，王勇健，等．数字孪生系统在农 业生产中的应用探讨[J]．中国农业科技导报,2021, 23(10): 82-89. GU S H, LU X J, WANG JY, et al. Application of Agricultural Digital Twin System in Crop Production System[J]. Journal of Agricultural Science and Technology,2021,23(10): 82-89.   \n[41]王飞跃．平行系统方法与复杂系统的管理和控制 [J]．控制与决策,2004,19(5): 485-489. WANG F Y. Parallelsystem methodsfor management and control of complex systems[J]. Control and Decision,2004,19(5): 485-489.   \n[42] 王飞跃．人工社会，计算实验，平行系统--关于复 杂社会经济系统计算研究的讨论[J].复杂系统与 复杂性科学,2004(4):25-35. WANG F Y. Artificial Societies，Computational Expermients,and Parallel Systems:A Discussion on Computational Theory of Complex Social-Economic Systems[J].COMPLEXSYSTEMS AND COMPLEXITY SCIENCE,2004 (4): 25-35.   \n[43]尹培丽，王建华，陈阳泉，等．平行测量：复杂测 量系统的一个新型理论框架及案例研究[J]．自动 化学据2018 A4(3):425-433 YIN P L,WANG J H, CHEN Y Q,et al. Parallel Measurements: A New Theory and Framework for Complex Measurement System and A Case Study[J]. ACTA AUTOMATICA SINICA,2018,44(3): 425- 433.   \n[44] 张俊，许沛东，王飞跃．平行系统和数字李生的一 种数据驱动形式表示及计算框架[J]．自动化学报, 2020,46(7): 1346-1356. ZHANG J, XU PD,WANGF Y.Parallel Systems and Digital Twins: A Data-driven Mathematical Representation and Computational Framework[J]. ACTA AUTOMATICA SINICA,2020, 46(7): 1346- 1356.   \n[45] NASIRAHMADI A,HENSEL O. Toward the Next Generation of Digitalization in Agriculture Based on Digital Twin Paradigm[J]. Sensors,2022,22(2): 498.   \n[46] NEETHIRAJAN S，KEMP B.Digital livestock farming[J]. Sensing and Bio-Sensing Research,2021, 32: 100408.   \n[47]GHANDAR A,AHMED A,ZULFIQAR S,et al. A decision support system for urban agriculture using digital twin: A case study with aquaponics[J]. IEEE Access,2021,9: 35691-35708.   \n[48] LI W, ZHU D,WANG Q.A single view leaf reconstruction method based on the fusion of ResNet and differentiable render in plant growth digital twin system[J]. Computers and Electronics in Agriculture, 2022,193: 106712.   \n[49] PYLIANIDIS C, OSINGA S, ATHANASIADIS IN. Introducing digital twins to agriculture[J]. Computers and Electronics in Agriculture,2021,184: 105942.   \n[50]VERDOUWC,TEKINERDOGANB,BEULENS A, et al. Digital twins in smart farming[J]. Agricultural Systems,2021,189:103046.   \n[51] CHAUXJD， SANCHEZ-LONDONOD, BARBIERI G. A Digital Twin Architecture to Optimize Productivity within Controlled Environment Agriculture[J].Applied Sciences,2021, 11(19): 8875.   \n[52] 康孟珍，王秀娟，华净，等．平行农业：迈向智慧 农业的智能技术[J]．智能科学与技术学报,2019, 1(2): 107-117. KANG M Z,WANG X J,HUA J,et al. Parallel agriculture: intelligent technology toward smart agriculture[J]. Chinese Journal of Intelligent Science and Technology, 2019,1(2): 107-117.   \n[53]王飞跃．平行控制与数字孪生：经典控制理论的 回顾与重铸[J].智能科学与技术学报,2020,2(3): 293-300. WANGF Y.Parallel control and digital twins: control theory revisited and reshaped[J]. Chinese Journal of Intelligent Science and Technology,2020,2(3): 293- 300.   \n[54]赵春江，李瑾，冯献．面向 2035 年智慧农业发展 战略研究[J]．中国工程科学,2021,23(4):1-9. ZHAO C J, LI J, FENG X. Development Strategy of Smart Agriculture for 2035 in China[J]. Strategic Study of CAE,2021,23(04): 1-9.   \n[55] NICOLA K.What is the future of the Metaverse for indoor agriculture?[EB/OL]. https://www.hortidaily.com/article/9406592/what-isthe-future-of-the-metaverse-for-indoor-agriculture/   \n[56]泰国网．泰国开启“元宇宙果园\"[EB/OL]. http://app.myzaker.com/news/article.php?pk=626bfc ef8e9f097df561a57d   \n[57] IFDIL I, SITUMORANG D D B,FIRMAN F,et al. Virtual reality in Metaverse for future mental healthhelping profession: an alternative solution to the mental health challengesofthe COVID-19 pandemic[J]. Journal of Public Health,2022,fdac049.   \n[58] LEE H J，HWANG Y. Technology-Enhanced Education through VR-Making and MetaverseLinking to Foster Teacher Readiness and Sustainable Learning[J]. Sustainability,2022,14(8): 4786.   \n[59] PARK S,KIM S. Identifying World Types to Deliver Gameful Experiences for Sustainable Learning in the Metaverse[J]. Sustainability,2022,14(3): 1361.   \n[60]KHANSULIVONG C，WICHA S，TEMDEE P. Adaptive of New Technology for Agriculture Online Learning by Metaverse: A Case Study in Faculty of Agriculture,National University of Laos[C]//2022 Joint International Conference on Digital Arts,Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering. IEEE,2022:428- 432   \n[61]杨信廷，钱建平，孙传恒，等．农产品及食品质量 安全追溯系统关键技术研究进展[J]．农业机械学 报,2014,45(11): 212-222. YANG X T,QIAN J P, SUN C H, et al. Key Technologies for Establishment Agricultural Products and Food Quality Safety Traceability Systems[J]. Transactions of the Chinese Society for Agricultural Machinery,2014,45(11): 212-222.   \n[62] 钱建平，吴文斌，杨鹏．新一代信息技术对农产品 追溯系统智能化影响的综述[J].农业工程学报, 2020,36(5): 182-191. QIAN J P，WU W B,YANG P. Review on agriculturalproductssmart traceabilitysystem affected by new generation information technology[J]. Transactions of the Chinese Society of Agricultural Engineering,2020,36(5):182-191. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[63]孙传恒，于华竟，徐大明，等．农产品供应链区块链追溯技术研究进展与展望[J].农业机械学报,2021,52(1): 1-13.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SUN C H,YU HJ,XU D M, et al.Review and Prospectof Agri-products Supply Chain Traceability Based on Blockchain Technology[J].Transactions of the Chinese Society for Agricultural Machinery,2021, 52(1): 1-13. ",
+        "page_idx": 11
+    }
+]

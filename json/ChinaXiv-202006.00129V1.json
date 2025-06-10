@@ -1,0 +1,721 @@
+[
+    {
+        "type": "text",
+        "text": "干旱区地表温度和热岛效应演变研究一以宁夏沿黄城市带为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙灏，马立茹，蔡创创，黄涛²，吕林涛²，阮琳¹，陈伟1(1中国矿业大学(北京)地球科学与测绘工程学院,北京100083；2宁夏回族自治区遥感测绘勘查院(宁夏回族自治区遥感中心),宁夏银川 750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：宁夏沿黄城市带位于宁夏东北部，不仅是干旱地区地理研究的重点区域，也是宁夏经济发展的核心区域。基于2000—2018年的MODIS地表温度、土地覆盖类型以及植被覆盖率数据,通过计算热岛比例指数(URI),利用Mann-Kendall非参数检验及Sen's斜率估计法，对宁夏沿黄城市带近20a白天和夜间的地表温度(LST)和热岛效应时间变化进行分析。结果表明：(1）近20a来，宁夏沿黄城市带大部分地区LST变化不显著，但在植被覆盖率增加区域，白天LST显著减小而夜间LST显著上升；植被覆盖率减小区域与之相反;夜间LST变化幅度强于白天。（2）宁夏沿黄城市带的热岛效应通常在白天较弱、在夜间较强；白天和夜间时刻的城市热岛效应在一年内呈现不同的季节变化特点，白天春冬较强，夜间夏季较强；过去近 $2 0 \\mathrm { ~ a ~ }$ ，宁夏沿黄城市带白天热岛效应呈现稍微减弱趋势，夜间热岛效应呈现稍微增强趋势，但变化趋势均不显著。（3）从植被覆盖率和地物类型两个影响因素的研究表明，植被覆盖率是影响地表温度变化的重要因素，城建区与郊区主要地物温差的改变是城市热岛强度变化的重要原因。从长时间序列变化的角度详细分析干旱区城市热岛的特征和变化原因,可为干旱区城市热岛带来的环境问题治理提供参考，也为研究干旱区热岛提供了借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城市热岛比例指数；Mann-Kendall非参数检验；Sen's 斜率估计；土地覆盖类型；植被覆盖率文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城市热岛是指城市温度高于周围郊区温度的现象，热岛现象的产生会导致一系列气候特征和环境特征，给人类生活带来不便，热岛效应作为城市化进程中的一种重要气候现象，得到越来越多学者的关注和研究[1-3]。在热岛效应的影响因素上,ULLAH、CHEN 等[4-7]研究了地表温度(LST)与土地利用类型，海拔、不透水面和反照率的关系；MISHRA以尼泊尔为例，研究并得出了土地覆盖指数与热岛的正相关关系[8]，现在越来越多学者通过模型构建将不同的影响因素结合进行了研究[9-11];在研究热岛现象的时空变化上，徐涵秋，陈本清在2003年提出了城市热岛比例指数(URI)[12],用于定量分析城市热岛在时相上的变化并进行了验证，城市热岛比例指数得到了广泛地应用[13-15],LAI等在时间和空间上同时对热岛现象进行了研究[16]。虽然对于研究热岛的文章很多，但是都着重研究热带与亚热带地区。目前对于干旱地区的热岛现象的研究很少，RASUL、BALZTER等对干旱、半干旱地区的热岛效应及其影响因素进行了研究[17-18],表明在干旱、半干旱地区存在大量的稀疏植被、裸地导致城市白天LST可能出现低于郊区的现象，即城市冷岛，郊区热岛的现象，刘永畅、庄元等对中国的甘肃、包头和乌鲁木齐等城市的热岛现象进行了研究[19-21],得到了相同的研究结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宁夏沿黄城市带位于宁夏东北部，地处西北干旱区和内蒙古及长城沿线地区交界处，为温带大陆性气候,年日照时长达 $2 \\ 6 0 0 \\sim 3 \\ 0 0 0 \\ \\mathrm { h }$ ,且气温的日较差、年较差大[22],年均降水量约为 $2 0 0 ~ \\mathrm { { m m } }$ 左右，蒸发量远大于降雨量，是沙漠化研究的重点区域。宁夏沿黄城市带以银川市、石嘴山市、吴忠市、中卫市4个地级市为主干，依靠本地区的能源矿产优势，形成了以煤炭、电力等为主的能源化工产业体系，占据了宁夏全区经济总量的 $90 \\%$ 以上[23],城市化进程远快于宁夏其他地区，但是城市化的发展，有可能会对生态环境造成一定的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "之前的研究都以一个区域或城市为对象且研究时序短、时空变化规律不够全面，宁夏沿黄城市带作为典型的干旱地区，且是宁夏经济发展的重点区域，对其热岛现象的研究还不够充分。本文即以宁夏沿黄城市带为研究区，探究2000—2018年近20a该区域LST的时间变化趋势;并应用城市热岛比例指数在整体上分析宁夏沿黄城市带城市热岛效应的日变化、季节变化和年际变化趋势;最后从土地覆盖类型及植被覆盖率两个方面进行深入的原因分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 数据资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 MODIS地表温度产品介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用的地表温度产品包括TERRA卫星的MOD11A2产品和AQUA卫星的MYD11A2产品，空间分辨率为 $1 ~ \\mathrm { k m }$ ,时间分辨率为8d,同一地方一天可以获得四次观测资料。MODIS地表温度产品已被证明可以准确评价区域尺度热岛效应的演变特征[24]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次使用2000—2018年的 MOD11A2数据和2003—2018年MYD11A2数据，轨道号为 $\\mathtt { h 2 6 v 0 5 }$ ，经过投影转换、格式转换、裁剪及数值变换得到宁夏沿黄城市带的地表温度分布图。使用TIMESAT对于LST图像进行SG 滤波分析，填补缺失影像和缺失值,并剔除无效值和尖峰值[25]。使用滤波后的地表温度影像，计算得到2000一2018年的年均地表温度图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2MODIS土地覆盖产品介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MCD12Q1是MODISL3级土地覆盖类型产品，空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ,时间分辨率为1a。时间跨度为2001—2017年，使用国际地圈生物圈计划（IG-BP)全球分类法进行分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 其他产品介绍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MCD15A2为MODIS叶面积指数( $. L A I )$ ，时间分辨率为8d,空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ；MOD09A1为MO-DIS 地表反射率产品，时间分辨率为8d,空间分辨率为 $5 0 0 \\mathrm { ~ m ~ }$ ,包含的太阳天顶角数据与叶 $L A I$ 结合可以计算植被覆盖率，这两个产品的时间范围均为2002—2018 年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2技术方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1城市热岛比例指数遥感计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先对温度进行归一化处理，得到相对温度指数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } = \\frac { T _ { i } - T _ { \\operatorname* { m i n } } } { T _ { \\operatorname* { m a x } } - T _ { \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { i }$ 为第 $i$ 个像元的温度值; $T _ { i }$ 为第 $i$ 个像元的$L S T ; T _ { \\mathrm { m i n } }$ 为研究区最小温度值; $T _ { \\mathrm { m a x } }$ 为研究区最大温度值； $N _ { i }$ 与热岛强度呈正相关关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶彩华等[26]经过研究表明,将相对温度指数划分为低温、较低温、中温、较高温、高温（表1），可以有效反映城市热岛的大小。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d756bdb8c641b9e1470bc8c9f895e0a559f48073ee10d717e3908682958d90ed.jpg",
+        "table_caption": [
+            "表1LST分级标准Standard of relative temperature index grading"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级</td><td>相对温度指数</td><td>等级定义</td></tr><tr><td>1</td><td>0.0~0.1</td><td>低温区</td></tr><tr><td>2</td><td>0.1~0.3</td><td>较低温区</td></tr><tr><td>3</td><td>0.3~0.7</td><td>中温区</td></tr><tr><td>4</td><td>0.7~0.9</td><td>较高温区</td></tr><tr><td>5</td><td>0.9~1.0</td><td>高温区</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用MCD12Q1的分类结果对城建区进行提取,计算城市热岛比例指数，由于2000 年和2018 年MCD12Q1数据缺失，分别用2001年和2017年城建区的范围代替，城市热岛比例指数计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU R I = \\frac { 1 } { 1 0 0 m } \\sum _ { i = 1 } ^ { n } w _ { i } p _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $U R I$ 为城市热岛比例指数； $m$ 为相对温度指数分级数； $i$ 为城区高于郊区的温度等级，取4、5级； $n$ $= 2$ 为城区高于郊区的温度等级数； $\\boldsymbol { w } _ { i }$ 为第 $i$ 级权重值，取第 $\\mathbf { \\chi } _ { i }$ 级的级值； $p$ 为第 $\\mathbf { \\chi } _ { i }$ 级的百分比，即城建区第 $i$ 级区域占城建区总面积百分比。 $U R I$ 值越大，城市热岛现象越严重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2植被覆盖率计算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用MODIS叶面积指数产品和太阳天顶角数据产品，计算植被覆盖率FVC，FVC的取值范围为0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "到1，式(3)为植被覆盖率计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF A C = 1 { \\mathrm { ~ - e } } ^ { - L A I / ( 2 * \\mathrm { c o s } \\theta ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta$ 为太阳天顶角。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为减少大气的云、颗粒、阴影、视角以及太阳高度角等对 $L A I$ 数据的影响，本报告采用最大值合成法（MaximumValueComposit，MVC）,对8d尺度的 $L A I$ 进一步处理,其表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL A I ^ { i } = \\underset { i = 1 } { M a x } L A I _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：LAI是第i年（月)LAI最大合成值，即LAI的最高值； $\\mathrm { L A I _ { i } }$ 为各像元8d合成最大 $L A I$ 值； $d$ 为第 $i$ 年（月） $8 { \\mathrm { ~ d ~ } }$ 合成 $L A I$ 影像总数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3M-K非参数检验和Sen's斜率估计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 M-K非参数检验 M-K非参数检验方法是一种用来检验时间序列变化趋势显著性的方法，因为具有样本随机不受异常值的影响;特点被广泛应用于降水、气温等时间序列的分析[27-30] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设时间序列为 $x _ { 0 } , x _ { 1 } , x _ { 2 } , \\cdots , x _ { n }$ ,且它们独立同分布,对于所有的 $x _ { i } , x _ { j } , i , j < n$ 且 $i < j$ 且 $i \\neq j$ ，计算统计量 $s$ ·",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\ = \\ \\sum _ { i \\ = 1 } ^ { n - 1 } \\sum _ { j \\ = i + 1 } ^ { n } \\ { \\mathrm { s g n } } \\ \\left( \\ x _ { j } \\ - \\ x _ { i } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { s g n ( ) }$ 为符号函数，其函数公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { s g n } ( x _ { j } - x _ { i } ) = \\left\\{ \\begin{array} { c c } { { 1 , } } & { { x _ { j } - x _ { i } > 0 } } \\\\ { { } } & { { } } \\\\ { { 0 , } } & { { x _ { j } - x _ { i } = 0 \\Biggr \\} } } \\\\ { { - 1 , } } & { { x _ { j } - x _ { i } < 0 \\Biggr ] } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$s$ 服从正态分布，当 $n$ 足够大时（一般 $n > 0$ ），构造标准正态分布统计量 $Z$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\frac { S - 1 } { \\sqrt { V a r ( S ) } } , } } & { { } S > 0 } \\\\ { Z = } & { { } 0 \\qquad , \\quad S = 0 } \\\\ { \\frac { S + 1 } { \\sqrt { V a r ( S ) } } , } & { { } S < 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $V a r ( S )$ 为 $s$ 的方差：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV a r ( S ) = n ( n - 1 ) ( 2 n + 5 ) / 1 8\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $Z > 0$ 时,时间序列为增大趋势， $Z < 0$ 时，时间序列为减小趋势。对 $Z$ 进行双边检验，在置信水平 $\\alpha = 0 . 0 5$ 时， $\\vert Z \\vert > 1 . 9 6$ 时,时间序列表现为显著的增大或减小趋势，否则无显著变化。在置信水平时 $\\alpha = 0 . 0 1 , \\vert Z \\vert > 2 . 5 7$ 时，时间序列表现为显著的增大或减小趋势，否则无显著变化。根据不同的置信水平对检验结果 $Z$ 值进行分类（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2M-K非参数检验结果分类标准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f53149d46282d1c66e536945833c5ff7098bbbee19aab357e817cb69940b69de.jpg",
+        "table_caption": [
+            "Tab.2 Standard of M-K non-parametric testresult classification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变化趋势</td><td>统计量Z</td></tr><tr><td>极显著下降</td><td>Z<-2.57</td></tr><tr><td>显著下降</td><td>-2.57<Z< -1.96</td></tr><tr><td>无显著变化</td><td>-1.96 <Z<1.96</td></tr><tr><td>显著上升</td><td>1.96<Z<2.57</td></tr><tr><td>极显著上升</td><td>Z>2.57</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Sen's斜率估计Sen's 斜率估计是一种估计时间序列变化斜率的估计方法，它不受某几个异常值的影响[31-33]。Sen's斜率估计的原理如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设有时间序列 $x _ { 0 } , x _ { 1 } , x _ { 2 } , \\cdots , x _ { n }$ ,对于任的意$\\ : i , j < n \\ :$ 且 $i < j$ 且 $i { \\neq } j$ ，则其斜率的计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { i j } = \\frac { x _ { i } - x _ { j } } { j - i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $\\beta _ { i j }$ 的中值,即：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\mathrm { M e d i a n } ( \\beta _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：Median（)为取中值函数。当 $\\beta > 0$ 时，时间序列表现为上升趋势，当 $\\beta < 0$ 时，表现为下降趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1宁夏沿黄城市带地表温度的时空分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "城市热岛产生的本质是LST的不一致性，为了深入研究城市热岛，先对 $L S T$ 的空间分布及其时间变化进行研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1地表温度的空间分布为2017年年均LST白天和夜间分布图，LST在白天和夜间呈现相反的分布规律，在白天中北部地区LST较低，南部地区较高，而在夜间中北部LST较高，东南、西南部较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 地表温度的时间变化对2000—2018 年白天和夜间的年均 $L S T$ 时间变化进行分析，为M-K非参数检验分析结果， $L S T$ 显著升高区域白天小于夜间， $L S T$ 显著减小的区域白天大于夜间。对LST不同变化趋势所占比例进行统计（表3），在白天有$7 8 . 5 \\%$ 的区域 $L S T$ 无显著变化， $2 . 6 3 \\%$ 的区域显著下降， $3 . 0 \\%$ 的区域极显著下降，下降区域主要集中在沙坡头区、中宁县、红寺堡和大武口区， $9 . 1 3 \\%$ 的区域 $L S T$ 呈现显著上升, $6 . 7 4 \\%$ 的区域为极显著上升，上升区域主要集中在贺兰县、金凤区、兴庆区、青",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e74810a420a8faf6b16cf14d1655d9bbd47f5e301701d594d81486691b90606.jpg",
+        "img_caption": [
+            "图12017年宁夏沿黄城市带白天和夜间年均LST分布图",
+            "Fig.1Image of average annual surface temperature distribution of the daytime and nighttime in 2017 of the city belt along the Yellow River in Ningxia ",
+            "图22000—2018 年宁夏沿黄城市带白天和夜间年均 $L S T$ 变化趋势分布图",
+            "Fig.2Trend distribution ofannual average surface temperature of the daytime and nightime of the city belt along the Yellow River in Ningxia from 2OOO to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "105°0'0\"E 106°0'0\"E 107°0'0\"E 105°0'0\"E 106°0'0\"E 107°0'0\"E （a)白天 N (b)夜间 N   \nN.0.0.68 图例 W Y X E N.0.0.68 N.0.0.68 图例 W E N.0.0.68 X X 县界 县界 天武 口区\\~？ 罗 S 河流 贺 河流 2 极显著降低 西夏 T 极显著降低 显著降低 区 显著降低 金凤 兴庆区   \nN.0.0.88 无显著变化 灵武市 N.0.0.88 N.0.0.88 无显著变化 灵武市 N.0.0.88 青铜峡市 青铜峡市 极显著上升 利 通 极显著上升 利通区 盐池县 盐池县 年 县 红寺堡 中宁县 红寺堡 沙坡头区 沙坡头区   \nN0.0 0 30 90120km 2.0.00 N.0.028 0 30 60 90120km N.0.028 ！ W 105°0'0\"E 106°0'0\"E 107°0'0\"E 105°0'0\"E 106°0'0\"E 107°0'0\"E ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表32000—2018年宁夏沿黄城市带白天和夜间年均LST变化趋势统计表",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24f15f9b56c7491125ac54d5ecbac861e18ff01e7b45ab79062b93f541b64606.jpg",
+        "table_caption": [
+            "Tab.3Trend statistics of annual average surface temperature of the daytime and nighttime of the citybelt along the Yellow River in Ningxia from 2000 to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>极显著 下降／%</td><td>显著 下降／%</td><td>无显著 变化／%</td><td>显著 上升／%</td><td>极显著 上升／%</td></tr><tr><td>白天</td><td>3.00</td><td>2.63</td><td>78.50</td><td>9.13</td><td>6.74</td></tr><tr><td>夜间</td><td>0.02</td><td>0.03</td><td>55.42</td><td>24.78</td><td>19.73</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "铜峡市、利通区和灵武市。在夜间 $L S T$ 有 $5 5 . 4 2 \\%$ 的区域无显著变化，几乎没有呈现下降的区域，$2 4 . 7 8 \\%$ 的区域显著上升， $1 9 . 7 3 \\%$ 的区域极显著上升，上升区域遍布整个研究区。总体来看,温度上升区域范围要大于温度下降的区域范围，且大部分区域LST无显著变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为Sen's斜率分析得到的变化斜率图，在变化趋势上与M-K检验结果(图4)保持一致， $L S T$ 上升区域夜间大于白天， $L S T$ 下降区域白天大于夜",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "105°0'0\"E 106°0'0\"E 107°0'0\"E 105°0'0\"E 106°0'0\"E 107°0'0\"E （a)白天 N (b)夜间 N   \nN.0.0.68 图例 大武口农 W 聚 E N.0.0.68 N.0.0.68 图例 大武口 惠农区 W 彩 E N.0.068 县界 罗 S 县界 罗 E S 河流 河流 贺 <-0.1 西夏区 2 庆区 <-0.1 金凤庆区 西夏区   \nN.0.0.88 -01-010 艮武市 N.0.0.88 N.0.0.88 -01-010 灵武市 N.0.0.88 >0.1 青铜区 Y >0.1 青市区 A 盐池县 盐池县 申宁县 红寺堡 中 宁县 红寺堡 3 沙坡头区 沙坡头区 J > 7   \nN.0.08 0 30 60 90 120 km 2.0.02 1.0.0 0 30 60 90120km 2.0.08 105°0'0\"E 106°0'0\"E 107°0'0\"E 105°0'0\"E 106°0'0\"E 107°0'0\"E ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Slope distribution of annual average surface temperature of thedaytime and nightime of the city belt along the Yellow River in Ningxia from 2OOO to 2018 ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fced9ac3e1958aec9e2e4245a682fe2bed822da88399edbdef7c9249f19569e9.jpg",
+        "img_caption": [
+            "图32000—2018年宁夏沿黄城市带白天和夜间年均LST变化斜率分布图",
+            "主:terra 白天和夜间分别为 terra卫星白天和夜间过境时间;aqua 白天和夜间分别为 aqua卫星白天和夜间过境时间图42012 年和2017年宁夏沿黄城市带URI日内变化趋势Fig.42O12 and 2O17 URI change trend within the dayof the city belt along the Yellow River in Ningxia"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "间；在分布区域上与M-K检验也有很高的一致性，白天升高趋 $> 0 . 1$ 的区域集中于中部县区，下降区域集中在四周县区，夜间升高趋势 $> 0 . 1$ 的区域分布在各个县区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2宁夏沿黄城市带URI遥感分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了研究城市化对LST的影响，引进城市热岛比例指数URI,研究城市热岛现象，从日变化、季节变化和年际变化进行研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1URI日内变化选取2012年和2017年3月13日、6月17日、9月21日和12月29日研究URI的日内变化（图4），可以看出四个季节，URI都在terra夜间过境时间达到最高值且白天的URI小于夜间，说明城市化对夜间LST升高贡献较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2URI季节变化　2001—2017 年每隔4年，对URI的变化趋势进行综合拟合分析（图5），在白天，URI春冬季节较大，在三月左右达到最高值，夏秋较弱，九月左右达到最低值，说明在白天城市化对LST的贡献在春冬两季较显著;在夜间，从春季到冬季呈现先上升后下降的趋势，在7月左右达到峰值，说明在夜间城市化对夏季LST贡献较显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 URI年际变化对2000—2018年白天和夜间URI的变化趋势进行线性拟合（图6和图7），并与M-K非参数检验和Sen's斜率检验结果进行对比（表4），3种分析方式都显示在白天URI呈现下降趋势，在夜间呈现上升趋势；白天URI变化幅度为-0.031,Z值为-1.40,夜间变化幅度为 $0 . 0 0 5 \\ 4 , Z$ 值为0.99，在置信水平 $\\alpha = 0 . 0 5$ 的情况下，无论白天还是夜间变化趋势都不显著，表明城市化对热岛的影响不显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/681d6639fdcdd969549a7f7f2b0ed5358dec4619b9b9890e0542e905bf76b702.jpg",
+        "img_caption": [
+            "Fig.5URI seasonal change trend of the city belt along the Yellow River in Ningxia "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a7d5cda23861765ad541b58262526cd9bd22e7337705de7393c8756903501a5.jpg",
+        "img_caption": [
+            "图5宁夏沿黄城市带白天和夜间URI季节变化趋势 ",
+            "图62000—2018年宁夏沿黄城市带白天URI变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a40a3ed59150d33201a33b65c4c826c2734839b46523703b98ec1f16fadef04c.jpg",
+        "img_caption": [
+            "Fig.6Daytime URI change trend of the city belt along the Yellow River in Ningxia ",
+            "图72000 年宁夏沿黄城市带夜间URI变化趋势",
+            "Fig.7Nighttime $U R I$ change trend of the city belt along the Yellow River in Ningxia "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1LST与植被覆盖率关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从 $L S T$ 与植被覆盖率的关系分析LST的时间变化趋势。图8为经过M-K非参数检验的宁夏沿黄城市带的植被覆盖度率趋势变化图，与LST变化趋",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表42000—2018年宁夏沿黄城市带白天和夜间URIM-K和 Sen's分析结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f143a42efa8085c2b95bbcd70044d8341495cbf6d25295ef44731fb8995de453.jpg",
+        "table_caption": [
+            "Tab.4M-K and Sen's analysis results of daytime and nighttime URIof the city belt along the yellow River in Ningxia from 20o0 to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时间</td><td>Z</td><td>2000—2018 年趋势幅度p</td><td>趋势</td></tr><tr><td>白天</td><td>-1.40</td><td>-0.0031</td><td>下降</td></tr><tr><td>夜间</td><td>0.99</td><td>0.0054</td><td>上升</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "105°0'0\"E 106°0'0\"E 107°0'0\"E N 图例   \nN.0.0.68 县界 大武口农区 W 聚 E N0.0.68 河流 灰罗县 S 极显著降低 贺兰县 显著降低 金凤兴庆区 无显著变化   \nN0.0.88 县 N=0.0.88 显著升高 灵武市 极显著升高 青铜峡市 和通区 盐池县 中宁县红寺堡 沙坡头区 5   \nN=0.000 0 30 60 90 105°0'0\"E 106°0'0\"E 107°0'0\"E ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作用；植被覆盖度减小使得白天LST升高明显，但是可以缓解夜间LST的升高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2LST与土地覆盖类型的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从LST与土地覆盖类型的关系分析URI的日变化、季节变化和年际变化趋势，由于URI是一个表示相对温度大小的概念，所以主要从城建区与其他地物温差的角度分析。图9为宁夏沿黄城市带2001年和2017年土地覆盖类型分类结果，可以看到草地、稀疏灌丛、农用地、城建区和稀疏植被为主要覆盖类型，由其近20a覆盖占比(图10)可知，草地的占地面积先增大后减小，占地比例达到了 $70 \\%$ 以上，稀疏植被占地比例呈现减小趋势，农用地、稀疏灌丛和城建区均呈现上升趋势，城建区增长最缓慢，到2017年其面积占比为5种主要地物最低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对这5种主要地物的LST进行统计（图11），在白天稀疏植被、稀疏灌丛和草地的平均温度均高于城建区，农用地低于城建区；在夜间，城建区的平均温度高于其他4种地物类型且不同地物之间的温差较小。统计结果与LST的分布图结果一致（图1)，白天高温集中在草地、稀疏植被和稀疏灌丛地区；在夜间，温度较高的区域沿河流进行分布，高温地区大多分布在城建区周围，因此URI在夜间大于白天。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "势结合分析发现，植被覆盖度增大可以有效缓解白天LST的升高，但是在夜间会对LST的升高起贡献",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图12为城建区与郊区主要地物的温差绝对值，在白天，城建区LST低于稀疏灌丛、稀疏植被和草地，URI与城建区和这3种地物的温差绝对值成负",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "105°0'0\"E 106°0'0\"E 107°0'0\"E 105°0'0\"E 106°0'0\"E 107°0'0\"E图例 N 图例 N  \nN0.0.68 县 W 聚 E N=0.0.68 N=0.0.68 县 W 聚 N=0.0.68其他地物 贺兰县 其他地物 贺兰县稀疏灌丛 西夏区 稀疏灌丛 西夏区草地 金凤兴庆区 草地 凤 奥庆区  \nN0.0.88 永宁县 N=0.0.88 N0.0.88 日 N=0.0.88农用地 灵武市 农用地 灵武市城建区 青铜峡市 城建区 青铜峡市稀疏植被 利通区 稀疏植被 和通区盐池县 盐池县，中宁县 红寺堡 中宁县 红寺堡沙坡头区 5 沙坡头区  \nN0.028 0 30 60 0 0 N=0.0 0 30 60 90120km N=0.08(a)2001年 (b)2017年105°0'0\"E 106°0'0\"E 107°0'0\"E 105°0'0\"E 106°0'0\"E 107°0'0\"E稀疏植被城建区农用地稀疏灌丛草地  \n0.95  \n0.80  \n0.75  \n0.7020022004200620082010201220142016年份",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "相关关系;在夜间，城建区LST高于郊区，URI与城建区和郊区其他地物的温差成正相关关系，即相同的趋势。URI的季节变化趋势与图12结果保持一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于研究区2017年土地覆盖类型图，对不同地物近20aLST时间变化趋势进行统计（表5），2000—2017年5种主要地物 $L S T$ 上升区域所占比例全部超过 $5 0 \\%$ ,宁夏沿黄城市带整体LST呈现上升趋势；Sen's斜率估计和M-K非参数检验结果表明，在白天，城建区 $L S T$ 上升区域所占比例都远小于其他4种地物，所以近 $2 0 \\mathrm { ~ a ~ }$ 白天URI呈现下降趋",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/52fab0f9f69442dcae2e50a4ba588e132a5655183ad0e2063ce71f2ad13d094c.jpg",
+        "table_caption": [
+            "表55种主要地物LST不同时间变化趋势占比分析统计",
+            "Tab.5Analysis and statistics of the change trend of different time LST of five main features "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>检验</td><td>Sen's斜率 估计上升／%</td><td>M-K非参数 检验上升／%</td><td>M-K非参数 检验显著上升／%</td></tr><tr><td>土地覆盖类型</td><td>白天 夜间</td><td>白天 夜间</td><td>白天 夜间</td></tr><tr><td>城建区</td><td>64.34 99.48</td><td>64.60 99.48</td><td>26.36 71.83</td></tr><tr><td>农用地</td><td>83.00 94.02</td><td>83.54 94.79</td><td>46.79 21.84</td></tr><tr><td>草地</td><td>74.75 99.81</td><td>76.23 99.83</td><td>8.18 50.47</td></tr><tr><td>稀疏植被</td><td>71.18 99.06</td><td>72.60 99.13</td><td>13.46 45.51</td></tr><tr><td>稀疏灌丛</td><td>82.37 100.00</td><td>83.29 100.00</td><td>7.37 29.61</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "势；但是在夜间与其他地物差别不大，尤其是LST显著上升区域所占比例远大于其他地物，所以近20a夜间URI呈现上升趋势；说明城建区的发展对夜间LST的影响明显。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析城建区扩张对LST的影响，对城建区扩张地区LST变化进行统计（表6），可以看到在白天，“草地 $$ 城建区”的转化有 $4 0 . 6 3 \\%$ 地区温度升高， $5 9 . 3 8 \\%$ 温度降低，“农用地 $$ 城建区”有$9 5 . 2 4 \\%$ 地区温度升高，“稀疏植被 $$ 城建区”有$6 6 . 6 7 \\%$ 温度升高;在夜间，“草地、农用地、稀疏植被 $$ 城建区”均显示温度升高。因此，在白天，城建区的扩张不一定会导致热岛效应的增强，但是在夜间，城建区对热岛效应增强起贡献作用，",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/222f936afee5dfe33ababff19e3e5959ddb6cdd43662b1df5acd006aa6a0e488.jpg",
+        "img_caption": [
+            "图102001—2017不同地物占地比例变化趋势 Fig.10Trend of the proportion change of different land covers from 2001 to 2017 ",
+            "图112001 年白天和夜间不同地物类型地表温度(LST)",
+            "Fig.11Surface temperature of different land covers of daytime and nighttme in 2001 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a7468295f3cec8727674d9eb544ba120a7452adb125a1cf71dbd0105a6d0f39.jpg",
+        "img_caption": [
+            "图12白天和夜间城建区与其他主要地物温差绝对值"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.12Absolutetemperaturediferencebetweenurbanconstructionareaandothermainobjectsduring thedaytimeandnightime ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表6城建区扩张对LST的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8110831ff4feb126fd3e00644d89ea92c2d8bfeb31d37c3bad8197d7f04288fa.jpg",
+        "table_caption": [
+            "Tab.6Influence of urban construction expansion "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">onsurfacetemperature</td></tr><tr><td>地表类 型变化</td><td>草地→城建区</td><td></td><td>农用地→城建区</td><td>稀疏植被→城建区</td><td></td></tr><tr><td rowspan=\"2\">趋势</td><td>升高</td><td>降低</td><td>升高</td><td>降低</td><td>升高</td><td>降低</td></tr><tr><td>/%</td><td>/%</td><td>/%</td><td>/%</td><td>/%</td><td>/%</td></tr><tr><td>白天</td><td>40.63</td><td>59.38</td><td>95.24%</td><td>4.76</td><td>66.67</td><td>33.33</td></tr><tr><td>夜间</td><td>100.00</td><td>0.00</td><td>100.00%</td><td>0.00</td><td>100.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文基于2000—2018年的MODIS地表温度以及土地覆盖产品、植被覆盖率产品，采用M-K非参数检验、Sen's斜率估计，分析了宁夏沿黄城市带过去近20a的地表温度及城市热岛比例指数时空变化，通过分析其与土地覆盖类型和植被覆盖率的关系，对城市化在干旱区对地表温度和热岛现象的影响进行了详细分析，结果表明：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）由于干旱的气候特征，郊区植被覆盖率低，导致宁夏沿黄城市带白天和夜间地表温度的分布规律不同于热带、亚热带等气候较湿润地区，高温区并非白天和夜间都集中于城建区，在白天集中在植被覆盖率较低的郊区，城建区反而呈现出冷岛现象，表明在白天植被覆盖率是影响地表温度的重要因素，但在夜间高温依然集中在城建区及周围，城市化对地表温度的影响依然存在。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）2000—2018年，宁夏沿黄城市带整体表现为地表温度上升且夜间较白天强烈，但是上升趋势均不明显。白天地表温度上升区域小于夜间,地表温度下降区域白天大于夜间，植被覆盖率的增加缓解了白天地表温度的升高，但加剧了夜间地表温度的升高。进一步表明，在干旱区，除了城市化，植被覆盖率也是影响干旱区地表温度的重要因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）宁夏沿黄城市带的城市热岛效应表现出与气候较湿润区不同的日变化和季节变化,通常在白天较弱、在夜晚较强;在白天城市热岛呈现出上升一下降一上升的趋势，春冬季节较强，夏秋季节较弱，在夜间，从春季到冬季呈现上升一下降的趋势，在7月左右达到峰值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（4）过去近 $2 0 \\mathrm { ~ a ~ }$ ，宁夏沿黄城市带白天热岛比例指数呈现弱下降趋势，夜间热岛比例指数呈现弱上升趋势。这主要是由于宁夏沿黄城市带低植被覆盖区较多，白天郊区的地表温度升高比城建区明显，但是在夜间，城建区较郊区地表温度升高明显",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此次研究具有之前对干旱区热岛研究所没有的长时间序列的特点，且详细从日变化、季节变化和年际变化分析了热岛强度的变化并从热岛比例指数定义的层面上分析了原因。通过本次研究，说明在干旱区，植被覆盖率对地表温度的影响是与城市化同等重要的不可忽视的因素。由于稀疏植被、裸地等地物的存在，在白天，城市化对热岛的减弱甚至会出现正面影响，但是城市化导致夜间热岛的增强依然是不可避免的问题。所以对于干旱地区的治理，一方面要从治理城市环境着手，另一方面也要关注郊区低植被覆盖区、裸地等地区的治理。本次研究对于其他干旱区地表温度和热岛效应的时空变化研究提供了参考，也为研究影响干旱区地表温度和热岛现象的影响因素提供了借鉴。为了保证高时间分辨率，本次研究的空间分辨率较低，虽然可以为热岛带来的环境问题治理提供一定依据，但是若要制定小范围区域的政策仍需要高空间分辨率影像的支持。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）   \n[1]LI Long,HUANG Xin,LI Jiayi,et al. Quantifying the spatiotemporal trends of canopy layer heat island（CLHI）and its driving factors over Wuhan,China with satellite remote sensing[J].Remote Sensing,2017,9(6) :536.   \n[2]LI Xiaoma,ZHOU Weiqi. Spatial paterns and driving factors of surface urban heat island intensity:A comparative study for two agriculture-dominated regions in China and the USA[J]. Sustainable Cities and Society,2019,48(8）:101518.   \n[3］吴慧凤,陈志强.福州市城市热岛效应的转移矩阵与缓冲区 [J].天津师范大学学报（自然科学版）,2019,39（3）:69 -75. [WU Huifeng,CHEN Zhiqiang.Transfer matrix and bufer of urban heat island effect in Fuzhou[J].Journal of Tianjin Normal University(Natural Science）,2019,39(3）:69-75.]   \n[4]HAASHEMI Sirous,WENG Qihao,DARVISHI Ali,et al. Seasonal variations of the surface urban heat island in asemi-arid city[J]. Remote Sensing,2016,8(4） :352.   \n[5]SILVA JS,SILVA R M DA,SANTOS C A G.Spatiotemporal impact of land use/land cover changes on urban heat islands:A case study of Paco do Lumiar,Brazil[J].Building and Environment, 2018,136:279 - 292.   \n[6]ULLAH S,AHMAD K,SAJJAD R U,et al. Analysis and simulation of land cover changes and their impacts on land surface temperature ina lower Himalayan region[J].JEnviron Manage,2019, 245:348 - 357.   \n[7]CHEN Yucheng,LIAO Yujie,YAO Chunkuei,et al. The application of a high-density stret-level air temperature observation network（HiSAN）: The relationship betweenair temperature,urban development,and geographic features[J].Sci Total Environ,2019, 685:710 - 722.   \n[8]MISHRA B,SANDIFER J,GYAWALI B R. Urban heat island in Kathmandu,Nepal:Evaluating relationship between NDVI and LST from 2000 to 2O18[J].International Journal of Environment, 2019,8(1) :17 -29.   \n[9]HUANG Qiuping,HUANG Jiejun,YANG Xining,et al. Quantifying the seasonal contribution of coupling urban land use types on urban heat island using land contribution index:A case study in Wuhan, China[J]. Sustainable Cities and Society,2019,44:666 -675.   \n[10]ZHU Xinming,WANG Xuhong,YAN Dajiang,et al.Analysis of remotely-sensed ecological indexes’influence on urban thermal environment dynamic using an integrated ecological index:A case study of Xi'an,China[J].International Journal of Remote Sensing, 2018,40(9) :3421 -3447. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11」杨智威，陈颖彪，吴志峰，等.粤港澳大湾区城市热岛空间格局 及影响因子多元建模［J].资源科学，2019，41（6)：1154- 1166.[YANG Zhiwei,CHEN Yingbiao,WU Zhifeng,et al. Spatial pattern of urban heat island and multivariate modeling of impact factors in the Guangdong-Hong Kong-Macao Greater Bay area[J]. Resources Science,2019,41(6):1154 -1166.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12］徐涵秋,陈本清.不同时相的遥感热红外图像在研究城市热岛 变化中的处理方法[J].遥感技术与应用,2003,18（3）：129-   \n133.[XU Hanqiu,CHEN Benqing.An Image processing technique for the studyof urban heat island changes using different seasonal remote sensing data[J].Remote Sensing Technology and Application,2003,18（3):129-133.] [13］刘勇洪,房小怡,张硕,等.京津冀城市群热岛定量评估[J].生 态学报,2017,37（17）:5818-5835.[LIU Yonghong,FANG Xiaoyi,ZHANG Shuo,et al.Research on quantitative evaluations of heat islands for the Beijing-Tianjin-Hebei Urban Agglomeration [J].Acta Ecologica Sinica,2017,37(17）:5818 -5835.] [14］孙明,谢敏,丁美花,等.2001—2015年间广西壮族自治区防城 港市热岛效应时空变化研究[J].国土资源遥感,2018,30（1)：   \n135-143.[SUN Ming,XIE Min,DING Meihua,et al.Spatio-temporal variation of urban heat island efects in Fangchenggang City, Guangxi Zhuang Autonomos Region[J]. Remote Sensing for Land and Resources,2018,30(1） :135 -143.] [15］王琳,徐涵秋.快速城市化下福州市的热环境变迁[J].同济大 学学报（自然科学版）,2017,45(9）：1336-1344.[WANG Lin， XU Hanqiu.Thermal environment change of Fuzhou City with rapid urbanization[J].Journal of Tongji University（Natural Science），   \n2017,45(9) :1336 -1344. ] [16]LAI Jiameng,ZHAN Wenfeng,HUANG Fan,et al.Identification of typical diurnal patterns for clear-sky climatology of surface urban heat islands[J].Remote Sensing of Environment,2018,217:203 -220. [17]RASULasul A,BALZTER H,SMITH C. Spatial variation of the daytime surface urban cool island during the dry season in Erbil,Iraqi Kurdistan,from Landsat 8[J]. Urban Climate,2015,14:176 -186. [18]RASUL A,BALZTER H,SMITH C. Diurnal and seasonal variation of surface urban cool and heat islands in the semi-arid city of Erbil,Iraq[J]. Climate,2016,4(3）:42. [19］刘永畅,刘理臣,刘静妮,等.干旱半干旱气候条件下夏季地表 城市热岛特征与影响因素［J].科学技术与工程,2017,17 (28）:160-165.[LIU Yongchang,LIU Lichen,LIU Jingni,et al. Characteristics and influence factors of summer surface urban heat island under arid and semi-arid climate[J]. Science Technology and Engineering,2017,17（28）:160 -165.] [20］庄元,薛东前,王剑.半干旱区典型工业城市热岛时空分布及 演变特征—以包头市为例[J].干旱区地理,2017,40（2）：   \n276 -283.[ZHUANG Yuan,XUE Dongqian,WANG Jian.Spatialtemporal evolution of urban heat island in semiarid typical industrial city:A case of Baotou City[J].Arid Land Geography,2017,40 (2) :276 -283.]   \n[21］瓦力江·瓦黑提,任国玉,孙秀宝.乌鲁木齐城市热岛强度的 日变化和季节特征[J].沙漠与绿洲气象,2018,12（1)：21- 28.［WAHEITI Walijlang,REN Guoyu,SUN Xiubao.The daily temperature characteristics of the intensity of urban heat island in Urumqi and seasonal changes[J]. Desert and Oasis Meteorology, 2018,12(1) :21-28.]   \n[22］杨瑞.宁夏沿黄经济区区域经济差异与协调发展研究［D].银 川:宁夏大学,2017.［YANG Rui.Research on regional economic disparity and coordinated development of Economic Zone along the YellwRiver in Ningxia［D]．Yinchuan：Ningxia University, 2017.]   \n[23］程云龙.宁夏沿黄经济区增强城市空间相互作用对策研究 [J].现代商业,2016,（30）:45-46.［CHENG Yunlong.Research on the countermeasures of enhancing urban spatial interaction in Ningxia Yellow Economic Zone[J].District Economy, 2016,(30) :45 -46.]   \n[24］李净，黄康刚.基于MODIS日地表温度产品的兰州市热岛效 应特征[J].干旱区地理,2017,40(6):1235-1240.[LI Jing, HUANG Kanggang. Characteristics of urban heat island based on MODIS daily land surface temperature product in Lanzhou[J].Arid Land Geography,2017,40(6）:1235-1240.]   \n[25]JONSSON Per,EKLUNDH Lars.TIMESAT—a program for analyzing time-series of satellite sensor data[J].Computers & Geosciences,2004,30(8) :833-845.   \n[26］叶彩华,刘勇洪,刘伟东,等.城市地表热环境遥感监测指标研 究及应用[J].气象科技,2011,39（1）：95-101.［YECaihua, LIU Yonghong,LIU Weidong,et al.Research on urban surface heat environment monitoring indexes and its application[J].Meteorological Science and Technology,2011,39（1）:95-101.]   \n[27］王万瑞,王刘明,张雪蕾，等.1956—2015 年洮河径流演变特征 研究[J].西北师范大学学报（自然科学版）,2018,54（1)：92 -99.[WANG Wanrui,WANG Liuming,ZHANG Xuelei,et al. Changeable characteristics if channel disicharge in the Taohe River Basin from 1956 to 2015[J].Journal of Northwest Normal University（Natural Science）,2018,54(1) :92-99.]   \n[28］王延贵,陈康，陈吟,等.黄河流域产流侵蚀及其分布特性的变 异[J].中国水土保持科学,2018,16(5）：120－128.[WANG Yangui,CHEN Kang,CHEN Yin,etal. Variation in runoff erosion and their distribution in the Yellow River Basin[J].Science of Soil and Water Conservation,2018,16(5）:120-128.]   \n[29］莫跃爽,周秋文.贵州省 1960—2014 年不同地貌类型的气温 变化特征[J].水土保持研究,2019,26（4)：166-170,176. [MO Yueshuang,ZHOU Qiuwen.Temperature variation characteristics of different landform types in Guizhou Province from 1960 to 2014[J]. Soil and Water Conservation Research,2019,26（4）: 166 -170,176.]   \n[30］白勇,高瑞忠,王喜喜,等.北方半干旱快速城镇化流域径流变 化的驱动因素分析[J].干旱区地理,2018,41（2)：282-289. [BAI Yong,GAO Ruizhong,WANG Xixi,et al.Driving factors on runoff change in the north semiarid rapidly urbanization watershed [J].Arid Land Geography,2018,41(2）:282-289.]   \n[31］李慧,周维博,马聪,等.城市化对西安市降水及河流水文过程 的影响[J].干旱区地理,2017,40（2）：322-331.［LIHui, ZHOU Weibo,MA Cong,et al.Efcts of urbanization on reginal precipitation and river hydrological process in Xi'an City[J].Arid Land Geography,2017,40(2） :322 -331.]   \n[32］张亚宁,张明军,王圣杰,等.1961—2015 年中国降水面积变化 特征研究[J].干旱区地理,2019,42（4)：762-773.[ZHANG Yaning,ZHANG Mingjun,WANG Shengjie,et al. Changes of precipitation area in China during from 1961 to 2015[J].Arid Land Geography,2019,42(4）:762-773.]   \n[33］春兰,秦福莹,宝鲁,等.近55a内蒙古极端降水指数时空变化 特征[J].干旱区研究,2019,36(4）:963-972.[CHUN Lan, QIN Fuying,BAO Lu,et al.Temporal and spatial variation characteristics of extreme precipitation indices in Inner Mongolia in recent 55 years[J].Arid Zone Research,2019,36(4):963-972.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Evolution of surface temperature and heat island effect in arid areas : A case study along the yellow city belt in Ningxia ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SUN Hao’，MA Li-ru’，CAI Chuang-chuang’，HUANG Tao²，LV Lin-tao²，RUAN Lin’， CHEN Wei1   \n(1ChinaUnesityfining&TechologejingfcultyfErthiencsndSureyingEngineeing,eijingona; 2Remote Sensing Survey and Mapping Institute of Ningxia Hui Autonomous Region （Ningxia Remote Sensing Center）， Yinchuan 750021，Ningxia,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Theurbanbelt along the Yellow River in Ningxia is located atthe northeastof Ningxia Province,China.It is both a key areafor geographical research inarid areas and the core of economic development in Ningxia. As an important climatic phenomenon related to the processof urbanization,the heat island efect has brought much inconvenience to human life,for which reason it has becomea major topic incurrent urbanization research.Most previous studies have been conductedon wet climate regions,and there are relatively few studies on arid and semi-arid regions.Moreover,the time seriesused in previous studies has typically been short and their resolution low,hence theanalysis of urban-heat-island trendsand the reasons for their occurrence are not yet comprehensively understood.Based on MODIS surface temperature products,this paper uses the Mann-Kendall non-parametric test and Sen's slope estimation method to analyze the time trend of surface temperature during the past 2O years along the Yellow River city belt. Combining MODIS surface temperature data with MODIS land cover type products,and introducing theurban-heat-islandratio index,dailyandseasonal changes intheurban-heat-island efectalong theyellow city belt and their time series trends over the past 2O years were analyzed.The results show thatthe surface temperatures of most areas along the yellow urban belt in Ningxia have shown anupward trend,which is stronger during nighttime than daytime.An increase of surface coverage is an important reason for this trend.Compared with humid climates,the heat island effect along the yellowurban belt shows different dailyand seasonal trends.At nighttime, the heat island efect is stronger than during thedaytime and inover course ofone year,the heat island ffect is stronger in winterand spring at daytime but stronger in summer at nightime.The heat island effectin the study areas shows a decreasing trend,whereas the nightime heat island efect show an increasing trend,butthetrend was not found to be significant.Finally,land and vegetation cover types were analyzed.To some extent,our results indicate thaturbanization and surface coverage are equally important contributions to heat islands along the study area.Surface coverage increases during the daytime can weaken surface temperatures increases,while promoting such ncreases at night.Increased surface coverage can thus aleviate increases in surface temperature during the daytime.Urbanization does not necessarily promote the heat island effect during daytime,but sometimes mitigates its fct on low vegetationcoverage areas,such as bare land.Nonetheless,the impact of urbanizationon the heat island effect is more obvious at night.This study provides a direction forthe management of arid areas and a reference for studies of temporal and spatial changes in surface temperature due to the heat island effect in other arid regions.It also gives guidance for studies concerning the influence of such phenomena in other arid regions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key Words:urban-heat-island ratio index;Mann-Kendall nonparametric test;Sens slope estimation;surface cover type ;surface vegetation coverage. ",
+        "page_idx": 11
+    }
+]

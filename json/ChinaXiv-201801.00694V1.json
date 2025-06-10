@@ -1,0 +1,440 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于神经网络的血浆纤维蛋白原参考值与地理因素的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李孟姣'，葛淼,王聪霞²,岑敏仪，姜吉琳,何进伟³,林倩怡,刘 鑫1  \n1陕西师范大学旅游与环境学院健康地理研究所，陕西西安710062；西安交通大学医学院第二附属医院心内  \n科,陕西 西安 710004；延安大学医学院，陕西 延安 716000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的分析我国健康成年人血浆纤维蛋白原参考值与地理因素之间的关系，为制定血浆纤维蛋白原的统一标准提供科学依据。方法 收集了103个市县10701例健康成年人血浆纤维蛋白原参考值，运用相关分析方法研究其与地势、气候、土壤有关的18项地理因素之间的关系。选取与血浆纤维蛋白原参考值有相关性的地理因素进行BP神经网络建模,借用析取克里金插值法拟合出中国健康成年人血浆纤维蛋白原参考值的地理分布图。运用MATLAB软件,通过5层神经网络，选取含11个隐含层的2000次训练自学习建立模拟规则,用此规则模拟健康成年人血浆纤维蛋白原参考值与地理环境的神经网络模型。结果我国健康成年人血浆纤维蛋白原参考值与纬度、年日照时数、年平均气温、年平均相对湿度、年降水量、气温年较差、表土石砾含量、表土(粉土)阳离子交换量8项地理因素呈显著相关的关系。我国健康成年人血浆纤维蛋白原参考值分布图呈现南高北低，东高西低的特征。结论若已知某地各项地理指标的值，则可通过构建神经网络模型或绘制地理分布图得出该区的健康成年人血浆纤维蛋白原参考值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：血浆纤维蛋白原；BP人工神经网络；地统计分析；空间分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relationship between reference values of fibrinogen and geographical factors based on neural network analysis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Mengjiao',GEMiao’,WANGCongxia,CENinyi,JANGJilin’,HEJinwei’,LIQianyi,in 1InstituteofHlldotilsiyit Cardioasoloedalaloeiii Yan'an University,Yan'an,7160o0,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective Toanalyzetherelationshipbetween thereference valuesoffibrinogen (FIB)inhealthyChineseadultsand geographicalfactors toprovide scientific evidences forestablishingtheuniformstandard.Methods Thereference values fFIB of 10701 Chinese healthy adults from 103cities were coected to investigate their relationship with18 geographical factors including spatialindex,terrinindex,climate idex,andsoil indexGeograpcalfactors thatsignficantlycorelaed wihthe referencevalues were selected for constructing the BP neural network model. The spatial distribution map of thereference value of FIBofhealthy Chineseadults wasfited bydisjunctivekriging interpolation.We used the5-layer neural network and selected 200 timesoftraining covering 11 hiddenlayers tobuild the simulationrule forsimulating therelationship between FIB and geographical environmental factors using the MATLAB software. Results The reference value of FIB in healthy Chinese adults wassignificantlycorrelated withthelatitude,sunshine duration,annual averagetemperature,annualaverage relative humidityannual precipitation,anualangeofair temperature,averageannualsoil gravelcontent,andsoilation exchangecapacity (silt).Theartificial neural networks werecreated toanalyze the simulationof the selected indicatorsof geographical factors.The spatial distribution map of the reference values of FIB in healthy Chinese adults showed a distributionpaternthatFIBlevels werehigher inthe SouthandlowerintheNorth,andhigherintheEastandlower inthe West.Conclusion When the geographical factors of a certainarea are known,thereferencevaluesof FIBinhealthy Chinese adults can be obtained by establishing the neural network mode or plotting the spatial distribution map. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: fibrinogen; BP neural network; geostatistical analyst; spatial analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "血浆纤维蛋白原(FIB)是一种由肝脏合成的具有凝血功能的蛋白质，大量存在于血液中的糖蛋白，相对分子质量为340000,是一种对称二聚体，由6条多肽链组合而成，血浆纤维蛋白原在凝血、止血过程中起到重要的作用1。血浆纤维蛋白原的升高或降低都会对人体健康造成影响，常见的因指标值不正常所引起的疾病有：肝脏疾病、肾病综合征、粥样硬化以及心血管疾病[2-4]。血浆纤维蛋白原参考值的变化与非环境因素例如性别、年龄、饮食起居习惯、人体肥胖程度、血脂浓度、吸烟史、寒冷刺激等影响有关[5，而其与自然要素，如气候条件、土壤条件等的关系，并无太多研究。临床时在进行某项指标测量之后，由于该指标的标准值不统一，故需要大量的临床经验来确诊或对某疾病严重程度进行判断。目前制定医学参考指标准时，忽略了地理因素对参考值的影响，仅仅考虑身高，体重等传统影响因子，影响了临床判断的准确性。因此，研究地理环境与血浆纤维蛋白原参考值之间的复杂的非线性关系，具有重要的科学价值。通过查阅文献，统计了大量文献中的不同地区健康人群血浆纤维蛋白原参考值-17,这为制定中国健康成年人血浆纤维蛋白原参考值的统一标准提供了科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究血浆纤维蛋白原参考值与地理环境之间的联系,本文在运用人工神经网络的基础上[18],将神经网络插值预测与地统计分析相结合，研究中国各地区健康成年人的血浆纤维蛋白原参考值与地理环境的关系，为制定中国健康成年人血浆纤维蛋白原的统一标准提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1FIB正常参考值的获取通过检索中国期刊网、万方数据库、维普数据库、超星数字图书馆、中国优秀博硕士学位论文全文数据库、中国生物医学文献数据库、中国重要会议全文数据库等收集了全国101个市、县、区级医院和相关部门及高等院校测定的10701例正常健康成年人血浆纤维蛋白原参考值；年龄范围为18\\~80岁之间的健康成年人，性别及年龄对参考值存在一定程度的影响，但各文献中并未区分，仅取平均值，且本文主要探讨血浆纤维蛋白原参考值与地理环境之间的关系，固不区分年龄、性别。资料来源于全国28个省、市、自治区，缺少港、澳、台以及西藏等的资料，东部平原地区的资料多于西部高原地区的资料。采取的样本的方法为空腹静脉抽血，采用仪器是STAGO全自动血凝仪以及相近功能血凝仪所测定的指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2相关地理资料的获取对于人体各项医学指标参考值，医学界公认的影响因素为年龄与身高，但各项参考值的差异并不仅仅因年龄身高变化而不同，地理因素对人体机能也会造成不同程度的影响。根据人体血常规检测中各项血液指标、D-二聚体、hs-CRP等血液指标与地理环境的关系研究，气象因素对人体影响是不可忽视的[19-21]。本文还选取土壤要素的表土石砾含量与表土(粉土)阳离子交换量两项指标进行分析，土壤是人类赖以生存的基础之一，土壤质量的不同，决定着该地区农作物产品以及畜牧业产品的品质。人类长期食用该地土壤产出的产品，必然会受到不同程度的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地理资料来源于国家测绘局数据中心、中国气象科学数据共享服务网(http://cdc.cma.gov.cn/)及世界和谐土壤数据库(HarmonizedWorld Soil Database)(http://www.fao.org/nr/land/soils/harmonized-world-soil-datab$\\mathrm { a s e / z h / }$ 提供的共享资料，选取的地理因素指标是：X1经度()，X2纬度()，X3海拔 $\\mathrm { ( m ) }$ ,X4年日照时数(h)，X5年平均气温( $\\mathrm { ^ { \\circ } C } )$ ,X6年平均相对湿度 $( \\% )$ ，X7年降水量 $\\mathrm { { ( m m ) } }$ ,X8气温年较差 $\\mathrm { { \\langle { \\mathcal { C } } \\rangle } }$ ,X9年平均风速 $\\mathrm { ( m / s ) }$ ，X10表土砂粒百分率( $\\%$ wt.)，X11表土粉粒百分率( $\\%$ wt.)，X12表土黏粒百分率( $\\%$ wt.),X13表土参考容重$\\mathrm { ( k g / d m ^ { 3 } ) }$ ,X14表土容重 $\\left( \\mathrm { { k g / d m } ^ { 3 } } \\right)$ )，X15表土石砾含量(%vol.)，X16表土有机质含量( $\\%$ wt.),X17表土pH值,X18表土阳离子交换量(粘土) $\\mathrm { ( c m o l / k g ) }$ ,X19表土阳离子交换量(粉土） $\\mathrm { ( c m o l / k g ) }$ ),X20表土盐基饱和度 $( \\% )$ ，X21表土总可交换量( $\\mathrm { \\ c m o l / k g } \\mathrm { \\cdot }$ ,X22表土碳酸钙含量L $\\mathrm { \\ c m o l / k g }$ ),X23表土硫酸钙含量 $\\mathrm { \\ c m o l / k g }$ ),X24表土碱度 $\\mathrm { ( c m o l / k g ) }$ ,X25表土盐分（ $\\mathrm { { . d } S / m } \\mathrm { { . } }$ 共25项。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1相关分析应用SPSS19.0软件建立数据库，并将中国健康人群血浆纤维蛋白原参考值与25项地理因素指标进行相关分析，将具有相关性的各项地理指标提取出来。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2人工神经网络构建 人工神经网络(ANN)是一种模拟人脑的生物过程，进行分布式并行信息处理的算法数学模型,是近年来发展起来人工智能技术[22-24]。BP人工神经网络理论上可以实现任意非线性映射，其特点是能对数据进行分类并进行相应处理[25-26]。中国健康人群血浆纤维蛋白原参考值与地理因素神经网络使用MATLAB软件中的BP神经网络进行构建模型。神经网络的构建具体如下：以8个与血浆纤维蛋白原参考值相关的地理要素作为输入变量。作为输入层的8个神经元： $x _ { 1 } \\ 、 x _ { 2 } 、 x _ { 3 } 、 x _ { 4 } 、 x _ { 5 } 、 x _ { 6 } 、 x _ { 7 } 、 x _ { 8 }$ ；隐含层设置为3层，隐含层神经元的个数由公式计算的结果确定，公式为：$j = { \\sqrt { x + y } } + a ;$ j为隐含层节点数， $x$ 为输入层节点数， $y$ 为输出层节点数， $\\mathfrak { a }$ 为1\\~10之间的任意常数，经计算，隐含层节点数为4\\~13范围内任意常数。本文通过对比神经网络建模的各个隐含层节点数的预测值与实测值的差异，选取与实测值误差最小的隐含层节点数作为最佳节点数。输出层设置一个神经元，为中国健康人群血浆纤维蛋白原参考值Y。其中，用logsig函数来激活输入层以及第一层的隐含层，其他隐含层和输出层的激活函数为pureline[27]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 地统计分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.1地统计地统计学是由法国统计学家GMatheron提出创立的理论，经过不断的研究完善，现已成为一种新兴且具有实用性的数学工具。地统计学是一种以区域化变量理论为基础，以变异函数为主要工具,研究那些空间分布上既随机又有结构性，或空间相关性和依赖性的自然现象的学科。其核心是由不同的取样点来获取某一变量的空间变化规律，来推算未知点的预测值。进行空间分析时要经过以下几个步骤，即数据的探索分析，空间连续性的量化模型，未知点属性值的预测以及对未知点局部及空间整体不确定性的预测。1.2.3.2正态性检验首先使用ArcGIS软件对原始数据进行数据探索分析，从输出的直方图以及详细结果表格对样本数据进行简单分析，后使用SPSS软件进行K-S正态性检验，进一步判断数据是否呈正态分布。如果呈正态分布，就选用普通克里金法进行插值和绘图，反之，选用其他插值方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.3空间变化趋势图运用ArcGIS软件中的地统计分析模块里的趋势分析功能，对预测数据进行空间变化趋势分析，通过分析空间趋势变化图并选定拟合模型。1.2.3.4克里金插值克里金插值又叫做空间局部插值法，是以空间自相关为理论基础，运用半方差函数和原始数据的结构性，对有限区域区域化变量的位置取样点进行无偏估值的差值方法。其方法主要为普通克里金法、析取克里金法、协同克里金法、对数正态克里金等，不同的方法适用于不同的样本数据。除此之外，半变异函数模型也是影响空间插值效果的重要条件。通过正态性检验，得出预测数据的正态性分布结果,选择相应的克里金插值进行空间趋势图绘制。普通克里金法的运用需要样本数据服从正态分布;若样本数据不存在正态分布，则选择析取克里金法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4空间趋势图绘制为了精确的体现出中国健康人群血浆纤维蛋白原参考值的地理分布规律，本文选取了全国2322个市县作为取样点，将与各个取样点相关的8项地理指标带人训练，选择预测效果最好的神经元节点数进行神经网络模型的仿真预测，计算出全国2322个市县健康人群血浆纤维蛋白原参考值的预测值。利用ArcGIS软件中的地统计分析模块进行克里金插值28]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据分析、模型构建及讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1原始数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将收集到的所有数据进行筛选处理，最终选取101组数据,共10701例,其中，最小值为 $2 . 0 3 ~ \\mathrm { g / L }$ ,出现在北京市。最大值为 $3 . 9 1 \\ \\mathrm { g / L }$ ,出现在陕西省西安市,平均值为 $2 . 8 7 \\ \\mathrm { g / L }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 相关分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用SPSS中的Spearman相关分析[29]计算出中国健康成年人FIB参考值与上述25项地理指标单相关系数 $( r )$ 和 $P$ 值，见表1。从表1中的单相关系数可以看出，所选取的25项地理因素指标中，有8项与我国健康成年人FIB参考值有相关性，分别为：纬度、年日照时数、年平均气温、年平均相对湿度、年降水量、气温年较差、表土石砾含量、表土(粉土)阳离子交换量。同时，年平均气温、年平均相对湿度、年降水量、表土石砾含量呈正相关,与年日照时数、气温年较差、与表土(粉土)阳离子交换量呈负相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/207b571ec4cf156016929262ea8d769e1ab2052b3693904de2254bcb3ae7c466.jpg",
+        "table_caption": [
+            "表1血浆纤维蛋白原实测值与地理因素相关系数矩阵",
+            "Tab.1 Correlation coefficient matrix between measured FIB values and the geographical factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Geographical factors</td><td>Correlation oefficient r</td><td>P</td></tr><tr><td>X</td><td>0.005</td><td>0.944</td></tr><tr><td>X</td><td>-0.240**</td><td>0.001</td></tr><tr><td>X</td><td>-0.038</td><td>0.615</td></tr><tr><td>X4</td><td>-0.206**</td><td>0.006</td></tr><tr><td>X5</td><td>0.247**</td><td>0.001</td></tr><tr><td>X6</td><td>0.174*</td><td>0.022</td></tr><tr><td>X7</td><td>0.182*</td><td>0.017</td></tr><tr><td>X8</td><td>-0.209**</td><td>0.006</td></tr><tr><td>X</td><td>-0.089</td><td>0.249</td></tr><tr><td>X10</td><td>0.002</td><td>0.982</td></tr><tr><td>X11</td><td>-0.074</td><td>0.335</td></tr><tr><td>X12</td><td>-0.042</td><td>0.578</td></tr><tr><td>X13</td><td>0.069</td><td>0.366</td></tr><tr><td>X14</td><td>0.016</td><td>0.835</td></tr><tr><td>X15</td><td>0.196**</td><td>0.009</td></tr><tr><td>X16</td><td>0.034</td><td>0.659</td></tr><tr><td>X17</td><td>-0.064</td><td>0.399</td></tr><tr><td>X18</td><td>-0.121</td><td>0.111</td></tr><tr><td>X19</td><td>-0.170*</td><td>0.025</td></tr><tr><td>X20</td><td>-0.093</td><td>0.225</td></tr><tr><td>X21</td><td>-0.058</td><td>0.449</td></tr><tr><td>X22</td><td>-0.050</td><td>0.508</td></tr><tr><td>X23</td><td>-0.050</td><td>0.511</td></tr><tr><td>X24</td><td>-0.090</td><td>0.240</td></tr><tr><td>X25</td><td>-0.090</td><td>0.238</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3神经网络预测分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为构建血浆纤维蛋白原参考值范围与各项地理因素的神经网络模型,就要选择合适的隐含层节点数。若节点数太少，则不能拟合出理想的预测模型；而选取的节点数过多时，会造成网络饱和,也无法拟合出理想的模型。节点数由公式计算得出，范围在4\\~13次，所以对该范围内节点数分别进行2000次训练，获取网络参数，对构建出的网络模型的网络均方误差MSE值进行分析，并预测出新的输入变量的指标值；模拟结果输出以后，对比分析不同隐含层节点数的神经网络模型所输出的2322个预测值与实测值的差异，选出误差最小的隐",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "含层节点数。结果见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过计算，实测数据的标准差为0.35889，各个节点所模拟处的MSE值均小于标准差，符合神经网络的基本要求。由表2可以看出，在11个节点时MSE值达到0.053，经过多次试验，0.053已是本数据能达到的MSE值最低点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在确定了最佳隐含层节点数之后，仍要进行不同的训练次数的模型构建，来选取最优拟合模型，分别数据对进行100\\~2000次训练，获取网络的参数。运用MATLAB建立神经网络误差变化曲线图并输出预测值，通过与实测值数据进行对比，选取最优模型。由图1可知，训练100、200、500、1000、1500、2000次的MSE值分别为0.07576、0.078819、0.077225、0.053208、0.053101、0.053034，MSE值在1000次训练以后误差值较小，可以用于预测。经对比分析，在隐含层单元数为11的2000次训练模型的预测值最接近实测值，故作为最终预测模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fec42abdff4a43373d83861543aafa58c1b4353fae016be215c825cfc41c8b30.jpg",
+        "table_caption": [
+            "表2神经网络不同隐含层节点数的2000次训练值结果 Tab.2 Different hidden layer nodes of 2Ooo training times in the neural network "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Nodes</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr><tr><td>Iteration number</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td><td>2000</td></tr><tr><td>MSE</td><td>0.097</td><td>0.093</td><td>0.097</td><td>0.088</td><td>0.094</td><td>0.073</td><td>0.072</td><td>0.053</td><td>0.079</td><td>0.065</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "厂 Tra 10²Best training performance is 0.078819 at epoch 200 Ba 10° 10 10²   \n10 103   \n0 20 40 60 80 100 0 50 100 150 200 100 Epochs 200 Epochs   \n(ae glnl nrrrnlerra $1 0 ^ { 2 }$ 二 Ta 一 oa   \n10°   \n10°   \n10-²   \n10-3   \n0 100 200 300 400 500 0 200 400 600 800 1000 500 Epochs 1000 Epochs   \n二 Tra 厂 Tr Aaes 10² 10   \n0 500 1000 1500 0 500 1000 1500 2000 1500 Epochs 2000 Epochs ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将2000次神经网络模型中的实测值和预测值进行比较，做出中国健康人群血浆纤维蛋白原参考值与地理因素训练的实测值和预测值的对比表(表3)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4地统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1插值数据的正态性检验 对MATLAB所输出的预测数据进行正态分布分析，由图2可看出，预测数据服从标准正态分布，数据标准差为0.4006，偏度为-0.20956,呈左偏态。与标准正态分布相比，中国健康人群血浆纤维蛋白原参考值的偏度接近于0,峰度为2.7405，峰度过大，所以再进行K-S检验",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3059e23d7afa4d5c7d3df13d4c06adc6f6ccd2a02faa4945355d7f25527060e7.jpg",
+        "table_caption": [
+            "表3神经网络预测值与实测值对比表 Tab.3 Predictive value of the neural network and the actual value (Mean±SD,g/L) "
+        ],
+        "table_footnote": [
+            "X-X:Latitdsatiolegmeatuealgatieityaliiatiol temperature,average annual soil gravel content,and soil cation exchange capacity (silt),respectively. $Y$ is the measured reference value,and Y2000 is the predicted reference value after 2Ooo training. "
+        ],
+        "table_body": "<html><body><table><tr><td>City</td><td>X</td><td>X</td><td>X</td><td>X4</td><td>X</td><td>X</td><td>X</td><td>X</td><td>Y</td><td>Y2000</td></tr><tr><td>Beijing</td><td>39.89</td><td>2763.7</td><td>12.3</td><td>60</td><td>571.9</td><td>30.8</td><td>4</td><td>6</td><td>3.24</td><td>3.27</td></tr><tr><td>Nanjing</td><td>32.08</td><td>2155.2</td><td>15.3</td><td>77</td><td>1062.4</td><td>34.3</td><td>10</td><td>11</td><td>2.97</td><td>2.89</td></tr><tr><td>Qingdao</td><td>36.08</td><td>2500.8</td><td>12.2</td><td>77</td><td>702.0</td><td>25.1</td><td>7</td><td>17</td><td>2.61</td><td>2.77</td></tr><tr><td>Taiyuan</td><td>37.80</td><td>2756.0</td><td>10.0</td><td>59</td><td>431.2</td><td>29.9</td><td>15</td><td>14</td><td>3.18</td><td>3.13</td></tr><tr><td>Baotou</td><td>40.66</td><td>3050.0</td><td>6.0</td><td>52</td><td>308.9</td><td>35.1</td><td>8</td><td>22</td><td>2.34</td><td>2.80</td></tr><tr><td>Urumqi</td><td>43.78</td><td>2451.2</td><td>6.9</td><td>59</td><td>286.3</td><td>40.9</td><td>10</td><td>17</td><td>2.67</td><td>2.69</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b90b453a4e40840363daffc372ddd3a99662047651a0f167185f2982402af7f.jpg",
+        "img_caption": [
+            "图2中国健康人群血浆纤维蛋白原参考值直方图Fig.2Histogram of FIB reference values in healthy Chinese subjects."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用SPSS软件对预测值进行正态分布检验，得出Z值为2.913,显著性 $P$ 值为零，故推翻原假设，数据不服从正态分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2空间变化趋势分析运用ArcGIS中的地统计分析模块中数据探索下的趋势分析功能，分析中国健康人群血浆纤维蛋白原参考值的空间变化趋势图(图3)。由图3可看出，中国健康成年人血浆纤维蛋白原参考值在南北(Y轴)方向上的变化幅度比东西(X轴)方向的幅度略大，反映出血浆纤维蛋白原值存在由中心向四周辐射，且在两个方向上的变化不是简单的线性变化，而是较复杂的二阶趋势，所以在对数据点进行插值之前需要进行二阶变换处理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5绘制血浆纤维蛋白原参考值范围空间分布图",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了准确且直观的表现出表现中国健康人群血浆纤维蛋白原参考值的地理分布规律，本文选取2322个市(县)地区作为观测点，运用ArcGIS软件中的地统计模块拟合出中国健康人群血浆纤维蛋白原参考值的空间分布图(图4)。由于数据不符合正态分布，故选取析取克里金法，最终进行插值出图。在图4中可以查出中国大部分地区现中国健康人群血浆纤维蛋白原参考值。在相同的颜色区域内的血浆蛋白原参考值相同，颜色相近的区域参考值也相近，颜色变化多的区域表示参考值变化速度快，反之则变化较慢。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cc48e33cfe6a4dc71ef5790c8293f84a095805cc38237c44c2ab26782fab47e.jpg",
+        "img_caption": [
+            "图3中国健康人群血浆纤维蛋白原参考值趋势空间趋势图Fig.3 Spatial trend of FIB in healthy Chinese subjects."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从相关分析结果得出，中国健康成年人血浆纤维蛋白原参考值与8项地理因素具有相关性。其中，纬度、年日照时数、年平均气温、气温年较差、表土石砾含量与血浆纤维蛋白原具有极其显著的相关性。通过建立模型预测以及插值出图后，整体血浆纤维蛋白原参考值的分布趋势为东南高，西北低，中部较高，沿海较高的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/162bb7f03bc1c28ef67b3ea7c0f7392a4ad19e6cb45d4ebc450da42df344cc8c.jpg",
+        "img_caption": [
+            "图4中国健康人群血浆纤维蛋白原正常参考值空间分布图Fig.4 Spatial distribution of FIB values in healthy Chinesesubjects."
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FIB是由肝细胞所合成和分泌的一种蛋白质，是体内重要的凝血因子，同时也是一种急性时相反应蛋白，其水平升高往往是机体的一种非特异反应，炎症、感染、创伤等可使其水平升高[30]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1气候影响因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从相关系数来看，影响我国健康成年人血浆纤维蛋白原参考值的主要为气象因素。本文选取指标与气象指标中的年平均气温、年平均相对湿度、年降水量呈正相关，与年日照时数、气温年较差呈负相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将年平均气温、气温年较差与年日照时数放在一起讨论。《素问·阴阳应象大论篇》记述了我国五方气候的基本特点：东方生风,南方生热,西方生燥,北方生寒，中央生湿[31]。我国的气候类型为大陆性季风气候，冬天干燥寒冷，夏天湿润炎热，气象条件变化幅度大且特别急剧，是地球上较为特殊的一种气候类型。从中国健康成年人血浆纤维蛋白原正常参考值分布图中可以看出，FIB参考值的分布基本呈由东南向西北递减的趋势，基本与3项气象指标变化趋势相同，同时从图中可以看出，FIB参考值的变化与气温呈正相关，与气温年较差和年至日照时数呈负相关。在高温环境下，微血管扩张，毛细血管大量开放，血液疲滞，血流缓慢，血管周围有渗出32,血管内皮损伤,引起血管炎性反应,肝细胞产生急性时相蛋白增多，使血浆纤维蛋白原含量明显增高[33]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "再来讨论年平均相对湿度和年降水量。大气湿度是指大气的潮湿程度，特征量用相对湿度来表达，而降水量则多少影响某地区的干湿程度，通过相关分析，二者都与FIB值呈正相关。机体最适宜湿度为气温 $1 5 \\sim$ $2 0 \\ \\%$ 时，相对湿度 $45 \\% { \\sim } 5 5 \\%$ ，气温 $2 5 ~ \\mathrm { { ^ { \\circ } C } }$ 时，相对湿度$2 0 \\% ^ { [ 3 4 ] }$ 。我国中医学认为，夏天气候炎热,湿热加重，冬天气候寒冷，湿热减轻，北方天气寒冷干燥故湿热轻，南方天气炎热潮湿因而造成湿热变重[35]。由图4可以看出，我国健康成年人血浆纤维蛋白原由南向北缓缓增大，大致走向与我国年平均相对湿度和年降水量走势大致相同。在夏季，南北方气温上升，湿热加重，而南方气候湿热程度高于北方，长期在潮湿环境中居住的人群，类风湿性关节炎患病率较高或患者病情复发甚至加重，体内炎性反应的发生可以诱发和加重凝血反应[3,导致FIB值升高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 土壤影响因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我国健康成年人血浆纤维蛋白原参考值的地理分布图呈现的地域特征与我国地理环境要素的分布特征有密切联系，在土壤质地方面，我国西北地区多分布沙质土壤，石砾含量较高；在土壤化学性质方面，又呈现出“南酸北碱\"的地域特征。相关分析结果得出，血浆纤维蛋白原参考值与表土石砾含量呈正相关，与表土(粉土)阳离子交换量呈负相关。土壤与人体健康的联系大部分为间接联系，并不会直接对指标造成影响，但其重要性也不可忽略。土壤的水热性质会对湿度造成一定程度的影响；有机质含量影响土壤肥力高低，所产出的农产品的蛋白质、纤维素含量就有所不同，人体长期食用不同品质的食物，对身体器官、机能都会产生影响。表土阳离子交换量是一项评价土壤肥力的重要指标，这间接证明了饮食差异对人体组织器官功能等指标的正常值存在一定程度的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地理环境是人类生存的基础，是由各种地理要素组成的有机结合体，人的生理状况受环境影响尤其明显，地理环境有着显著的地域分布规律，使得人类的许多生理特性也表现出明显的地域性，这与《黄帝内经》中“因地异质，因地制宜\"的理论也是相吻合的。地理环境要素之间相互依赖，若某一要素发生改变，则会引起其他要素的相应变化，最后对人体产生影响。所以血浆纤维蛋白原参考值的大小不单由一个地理环境要素而确定，而是由多种地理环境要素综合影响而决定的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前制定医学参考指标准时，忽略了地理因素对参考值的影响，仅仅考虑身高，体重等传统影响因子，影响了临床判断的准确性。因此，研究地理环境与血浆纤维蛋白原参考值之间的复杂的非线性关系，具有重要的科学价值。若获得某一地区的有关地理要素，如纬度、年日照时数、年平均气温、年平均相对湿度、年降水量、气温年较差、表土石砾含量、表土(粉土)阳离子交换量的值，则可以通过构建神经网络对该地区健康成年人血浆纤维蛋白原参考值范围进行预测。如西安地区的纬度为 $3 4 . 2 8 ^ { \\circ }$ ,年日照时数为 $1 6 4 6 . 1 \\mathrm { ~ h ~ }$ ，年平均气温为 $1 3 . 7 \\mathrm { { ^ { \\circ } C } }$ 年平均相对湿度为 $70 \\%$ ,年降水量为 $5 5 3 . 3 ~ \\mathrm { m m }$ ，气温年较差为 $2 6 . 7 ~ \\mathrm { \\textdegree C }$ ，表土石砾含量为 $10 \\%$ ,表土(粉土)阳离子交换量为 $1 1 \\mathrm { c m o l / k g }$ ，输入已构建好的神经网络模型进行仿真，得出该地区健康成年人血浆纤维蛋白原的参考值为 $2 . 5 0 { \\pm } 0 . 2 4 \\ \\mathrm { g / L }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过使用SPSS中Spearman相关分析可以发现，FIB值与地理因素间存在一定的的关系，尤其与纬度、年日照时数、年平均气温、年平均相对湿度、年降水量、气温年较差、表土石砾含量、表土(粉土)阳离子交换量等地理因素存在很强空间相关性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过BP神经网络模型的建立，可以看出，在分析一个不确定性质的指标时，要谨慎的选择合适的训练方法、隐含层节点数以及训练次数。本文所选取的模型经过了多次试验，模型所输出的结果参差不齐，有的模型会预测超出正常值范围很多的预测值，神经网络模型的不确定性和随机性造成了这个结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过ArcGIS中的Disjunctive Kriging插值得出,FIB参考值在空间分布上呈南高北低，东高西低，中部较高的趋势,最高值主要集中在东南沿海。土壤因素对人体的影响也是不容忽视的，由土壤因素影响可发现各地人群的饮食习惯等因素也可影响人体健康。地理环境对人体血浆纤维蛋白原的影响不是孤立的，而是相互作用的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数据点的不均匀分布和不同程度的偏差对本次研究造成一定影响，地理因素的选择取舍问题也有必要改善。水环境对人体的影响也不容忽视，而营养因素也是人们关注的热点，在今后的研究中，将着重搜集此类数据，使分析更加精确。随着研究的进展，需要进一步改变思路，提高研究的科研价值和实用性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Matsuda M,Sugo T.Hereditary disorders of fibrinogen[J].Ann NYAcad Sci,2001,936(4):65-68.  \n[2」杨春生，梁金山,刘艳梅,等.肝硬化患者联合检测腺苷脱氨酶、胆碱酯酶、纤维蛋白原及D二聚体的临床意义[J].血栓与止血学,2013,19(1): 23-4.  \n[3]邓 琪.颈动脉粥样硬化斑块与FIB的相关性研究[J].现代诊断与治疗，2013,24(14):3314-5.  \n[4」杨黄欢,王霄一，杨 勇,等.肾病综合征患者血纤维蛋白原、D-二聚体水平变化及临床意义[J].浙江实用医学,2011,16(5):327-8,346.  \n[5]De Maat MP.Effects of diet,drugs,and genes on plasma fibrinogenlevels[J].Ann NY Acad Sci,2001,936(8): 509-21.  \n[6]Sato S,Nakamura M,Iida M,et al. Plasma fibrinogen and coronaryheart disease in urban Japanese[J].Am JEpidemiol,2Ooo,152(5):420-3.  \n[7]黄菊,王宙政,叶俏,等.D-二聚体,纤维蛋白原在类风湿性关节炎患者外周血重的含量测定[J].中华全科医学,2014,152(5):401-2.  \n[8]王梅芬,张 磊,韩艳平,等.D-二聚体和纤维蛋白原含量变化与冠心病的相关性[J].中国热带医学,2014,14(4):460-1.  \n[9]王娟.于素甫江·苏来曼.不同类型早发冠心病患者纤维蛋白原及C反应蛋白含量的变化[J].中西医结合心脑血管病杂志,2014,12(8):941-2.  \n[10]宋月华.肺栓塞患者FIB和D-二聚体联合测定的临床意义[J].国际检验医学杂志，2014,35(12):1652-3.  \n[11]李焕英,张梅.脑梗死急性期患者FIB水平和糖代谢状况的关系[J]中西医结合心脑血管病杂志,2014,12(7):845-6.  \n[12]叶亚丽,费鲜明.同型半胱氨酸和纤维蛋白原在急性脑梗塞诊断中的应用评价[J].中国卫生检验杂志,2014,24(1):87-9.  \n[13]陈高科.血浆D-二聚体和纤维蛋白原检测在冠心病临床诊断中的价值[J].中外医学研究,2014,12(24):35-6.  \n[14]王旭东.血浆D-二聚体与纤维蛋白原在下肢静脉血栓中的诊断价值[J].临床研究,2014,4(7): 211-3.  \n[15]黄锡通,徐 耕,边 昶.血液纤维蛋白原和糖化血红蛋白水平与冠状动脉Gensini积分的相关性分析[J].心脑血管病防治,2014,14(1):11-2, 26.  \n[16]杨 军,邝 孛,王苏燕,等.ACS患者外周血巨噬细胞炎性蛋白1α水平与FIB的关系[J].临床心血管病杂志,2014,30(1):43-5.  \n[17]龙 松,陆霓虹,杨 蕤.AECOPD患者D-2聚体,纤维蛋白原检测的临床意义[J].临床肺科杂志,2014,19(6):1044-6.  \n[18]孙 帆,施学勤.基于MATLAB的BP神经网络设计[J].计算机与数字工程,2007,35(8):124-6.  \n[19]Epstein PR. Climate change and human health: risks and responses[J].Bulletin of the World Health Organization,2004,83(5): 830-2.  \n[20]Leaf A.Potential health effects of global climatic and environmental changes[J].N EnglJMed,1989,321(23):1577-83.  \n[21]Tan J, Zhu WY,Li RB.Chemical endemic diseases and their impacton population in China[J]. Environ Sci (China),1989:107-17.  \n[22]葛哲学,孙志强.神经网络理论与MATLABR2007实现[M].北京:电子工业出版社,2007:110.  \n[23]Pattie DC, Snyder J. Using a neural network to forecast visitorbehavior[J].Ann Tourism Res,1996,23(1): 151-64.  \n[24]Dayhoff JE,Deleo JM. Artificial neural networks: opening the blackbox[J]. Cancer,2001,91(8 Suppl): 1615-35.  \n[25]李凯旋,刘哲星,刘思德,等.胶囊内窥图像识别系统算法设计及实现[J].南方医科大学学报,2012,32(7):948-51.  \n[26]于德宪,林立丰,罗 雷,等.人工神经网络模型用于分析气候因素对白纹伊蚊密度影响的初步探讨[J].南方医科大学学报,2010,30(7):1604-5,1609.  \n[27]葛 淼,薛然尹,何进伟,等.中国男性儿童呼气高峰流量参考值地理分布[J].地理研究,2014,33(3):451-66.  \n[28]汤国安,杨 昕.ArcGIS地理信息系统空间分析教程[M].北京:科学出版社,2006:50-203.  \n[29]张 超,杨秉赛.计量地理学基础[M].北京:高等教育出版社,1991:86-129.  \n[30]唐 萍,王斌,何丽华,等.同型半胱氨酸、超敏C反应蛋白、胱抑素C和纤维蛋白原与急性脑梗死患者关系的研究[J].国际检验医学杂志,2014,35(15): 2045-6.  \n[31]信 楠.《内经》中地理环境气候与健康的关系[J].西部中医药,2012,25(1): 57-8.  \n[32]任传成,刘久波,叶天雄,等.气象因素对微循环的影响[J].微循环学杂志,1999,9(3): 12-3.  \n[33]陈艺丹，吕 程.原发性高血压FIB及超敏C-反应蛋白变化分析[J].中国热带医学,2010,10(12):1486-7.  \n[34]常立果.运气学说\"六气\"在气象医学中的价值[D].北京:北京中医药大学,2004.  \n[35]吴伟红.湿度和温度对类风湿关节炎患者CRP、ESR的影响[J].光明中医,2013,28(3):490-1.  \n[36]张 薇.D-二聚体及纤维蛋白原检测在类风湿关节炎中的临床意义[J].海南医学,2014,25(1):55-7.日",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

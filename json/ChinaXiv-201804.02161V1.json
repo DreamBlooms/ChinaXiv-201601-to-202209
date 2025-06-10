@@ -1,0 +1,754 @@
+[
+    {
+        "type": "text",
+        "text": "基于广义分形插值理论的多尺度分类尺度下推算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李佳星a,b,c，赵书良a,b,c，安磊a,b,c，李长镜a,b,c(河北师范大学a.数学与信息科学学院;b.河北省计算数学与应用重点实验室;c.移动物联网研究院，石家庄 050024)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：多尺度数据挖掘多应用于空间遥感图像数据，以图像的分辨率或者区域分割为依据进行尺度划分，然后在每个尺度层进行分析。近期，有不少学者将多尺度数据挖掘应用于一般数据集上，以等级理论、概念分层以及包含度理论等为尺度划分依据，研究不同尺度层的分布规律，进而发现有意义的事实，如多尺度关联规则以及多尺度聚类。但是在一般数据集下，很少将多尺度数据挖掘应用于分类算法领域。定义了广义分形插值理论的概念，打破了局限于迭代函数系统IFS（iterative function systems）的缺憾，拓展了分形插值的应用；提出了基于广义分形插值理论的多尺度分类尺度下推算法 MSCSDA（multi-scale clasification scaling-down algorithm）。仿真实验建立在四个UCI基准数据集和一个H省部分人口真实数据集上，并将MSCSDA与KNN、Decision Tree 以及LibSVM算法进行对比分析，实验结果表明，MSCSDA算法在不同的数据集上均优于其他算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多尺度数据挖掘；分类；分形插值；尺度下推中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.01.0031",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Scaling-down algorithm of multi-scale classification based on generallized fractal interpolation theory ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Jiaxinga,b,c, Zhao Shulianga, b,c, An Leia,b,c,Li Changjinga, b, c (a.Mathematics&Information Science College,b.Hebei KeyLaboratoryofComputational Mathematics&Applications,c. Institute of Mobile Internet of Things Hebei Normal University,Shijiazhuang 05o024,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The research of multi-scale data mining mainlyappied to spaceremote sensing image data sets,and conduct scale division basedontheresolution orregional segmentationofthe images,then analysis knowledgeoneach scalelayer.Recently, thereare quiteafew learners applied themulti-scaledata mining to generaldatasets,andconductscale division basedon the leveltheory,concepthierarchyandinclusiondegreeetc,studythedistributionruleondiferentscalelayers,andthen found significantfacts.For example,multi-scaleassociationrules,multi-scaleclustering.Butithas notbeeninvolvedinthefieldof theclassificationmining.This paper defines theconceptof generalized fractal interpolationtheory,break the situation that limitedtotheuseoftheiterationfunctionsystem(IFS),andextendtheaplicationofthefractalinterpolation.Then,amultiscaleclassificationscaling-down algorithmbasedonthe generalized fractal interpolation theorynamed MSCSDA(Multi-Scale Clasification Scaling-Down Algorithm)is proposed.This paper performs experiments on four UCI benchmarkdata sets,and onereal data set (H province part ofthe population).Then analysis the experimental results compare MSCSDA with KNN, Decision TreeandLIBSVMalgorithms on diferent data sets.The experimentalresults show thathe MSCSDAalgorithm gives better results in terms of classification than the others. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:multi-scale data mining;classification; fractal interpolation; scale-down ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现象所发生的范围或频率。研究表明，客观世界中普遍存在尺度现象[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尺度的定义来源于地学科学，一般指在学习分析中所涉及的空间或时间单位，也可以指在空间或时间上，某一个过程或",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多尺度数据挖掘多应用于空间遥感图像数据，以图像的分辨率或者区域分割为依据进行尺度划分，然后在每个尺度层进行分析。近期，有不少学者将多尺度数据挖掘应用于一般数据集上，以等级理论、概念分层以及包含度理论等为尺度划分依据，研究不同尺度层的分布规律，进而发现有意义的事实，如多尺度关联规则以及多尺度聚类[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是在一般数据集下，很少将多尺度数据挖掘应用于分类算法领域。目前有学者提出基于分形理论的多尺度分类挖掘研究方法，其详细论述了多尺度数据挖掘与分类算法相结合的有效性与可行性，介绍了多尺度分类的基本概念以及基本任务；并从多方面阐述了多尺度数据集具有分形特性，即自相似性、标度不变性、自仿射性以及层次性。进而将衡量分形自相似结构的指标即分形维数作为尺度转换算法的方法论，提出基于分形理论的多尺度分类尺度上推算法；尺度转换算法作为多尺度分类数据挖掘的核心研究内容，本质上是一个知识推演的过程，即由一个指定尺度上学习得到的知识或者信息推演归算到另一个尺度上，包括两部分即尺度上推算法和尺度下推算法，两个算法的使用由实际应用中目标尺度相对于基准尺度的定性大小决定的。因而两个算法相应而生，相辅相成。在传统的遥感图像数据下，对尺度下推算法的研究已经具备了较为成熟的理论和方法，然而在一般数据集下，尺度下推算法作为尺度转换算法中不可或缺的一部分，目前相关研究较少，理论与方法均有待完善。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尺度下推就是根据大尺度上得到的知识，结合小尺度固有的信息，推演出小尺度上的知识。本质上讲，是一个由模糊到精确、弱化整体特征，加强局部特征、忽略宏观特征，保留微观特征以及信息由少变多的过程。尺度下推的关键在于如何增加小尺度细节信息，插值是最常用的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最近邻插值法也称为零阶插值，以距离待估样本最近的样本值作为插入值，是最简单的插值方法，但是精确度不高，尤其当数据的细微差距较大时。反距离权重插值的本质在于以多个已知样本的线性组合作为待估样本值，在尺度下推的应用中，将大尺度上学习到的知识作为已知样本，但是并未考虑小尺度上的数据所固有的分布细节特征。样条插值法加强了紧邻的两个数据点间的细节，可以学习到分布光滑的模型，但是在处理复杂的数据时，可能会遗漏局部细节结构的信息。克里格插值法以及双线性插值法都是应用十分广泛的插值法，都是基于待插点四周的已知样本点的信息，但并未考虑整体分布的趋势所决定的待估样本应具有的独特差异[3.4,5]。分形插值根据自相似这一特性，既考虑了整体的分布趋势，又加强了局部分布独有的特征，为处理非线性且分布复杂的数据提供了新的思路[。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文借助分形插值的理论，定义了广义分形插值理论的概念，打破了局限于迭代函数系统IFS（iterative function systems）的缺憾，拓展了分形插值的应用；进而提出了基于广义分形插值理论的多尺度分类尺度下推算法MSCSDA。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 分形插值 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分形插值为处理大量分布离散且不光滑的数据提供了新思路，是解决非线性数据的有效工具。传统分形插值的核心在于根据自相似性，构造迭代函数系统IFS[7]，由已知的样本迭代出新样本。目前多应用于具有自相似性结构的事物的建模、仿真以及数据可视化。但是仅局限于三维以下的数据，大大限制了分形插值在一般多维数据下的应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从广义上讲，就是根据自相似性，从不同尺度层面衡量已知样本对待估样本的贡献，既要考虑整体分布的趋势，又要考虑待估样本附近的局部已知样本的分布特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1广义分形插值尺度划分。设 $f : ( X ) \\to Y$ ，其中X为已知样本点，经过函数 $f$ 映射，得到待估样本 $x _ { 0 }$ 的候选样本集 $\\mathrm { \\Delta Y }$ 。函数 $f$ 用一个三元组表示 $( L , X , W )$ 。其中，$L = ( l _ { 1 } , l _ { 2 } , \\cdots , l _ { n } )$ ，表示根据某种条件定义 $\\mathfrak { n }$ 个尺度层；$X = ( x _ { 1 } , x _ { 2 } , \\cdots , x _ { n } )$ ，表示 $\\mathfrak { n }$ 个尺度层下包含的已知样本的子集;$W = ( w _ { 1 } , w _ { 2 } , \\cdots , w _ { n } )$ ，表示 $\\mathfrak { n }$ 个尺度层下包含的已知样本的子集对待估样本 $x _ { 0 }$ 的贡献，其中 $w _ { i } = \\varphi ( x _ { i } )$ ；在每个尺度层下，由已知样本的子集，根据其对待估样本的贡献，得到一个待估样本$x _ { 0 }$ 的候选样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2广义分形插值。设 $\\Gamma \\colon ( Y ) \\to x _ { 0 }$ ，其中，待估样本$x _ { 0 }$ 的候选样本集Y，经过机制 $\\Gamma$ 得到最终的待估样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 多尺度分类",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多尺度分类作为一个跨学科研究课题，其实质是将多尺度科学与分类相结合，多尺度、全方面地研究数据特征，从而得到不同层面的分类模型，进而研究尺度转换机制以及尺度转换引起的尺度效应问题。构造多尺度数据集是进行多尺度数据挖掘的第一步，进而在不同尺度层上对数据进行多角度的分析学习。尺度转换作为研究的核心，其实质是由某一尺度层数据集上学习得到的知识推演得到其他尺度层上的知识，目的在于一次学习多次利用，避免繁琐的学习过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1构造多尺度数据集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "构造多尺度数据集是一个由整变零的过程。将原始数据集划分为具有一定偏序关系的多个子数据集，且同层数据集互不相交。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "包含度理论以及等级理论一般用于处理模糊、不确定性关系，将连续的问题离散化为具有一定偏序关系的问题，逐层深化解决[8]。这也正是构造多尺度数据集的思路。因此，本文引入包含度理论以及等级理论，将数据集的某一个或多个特征属性值离散化为具有偏序关系的范围，由此构造多尺度数据集。如图1所示，是一个四层多尺度数据集，其结构类似于树，根节点代表原始数据集，节点中的 $f$ 标志，代表在该数据集下训练得到的分类模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ad7502e2233ec86dca119243e7ceca5c6549eaa7808e765673388903434c8ae.jpg",
+        "img_caption": [
+            "图1四层多尺度数据集"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所提到的偏序关系是绝对的偏序关系，即图1中每个节点仅与它的孩子节点和双亲节点有关系，兄弟节点之间关系并不紧密。如图1所示，选择第三尺度层为基准尺度，若选择第二尺度层为目标尺度，则尺度上推发生在第二尺度层的每一个节点以及与它有关系的第三尺度层的节点上，如图1Up 部分，是一个由多变少的过程；若选择第四尺度层为目标尺度，则尺度下推发生在第三尺度层的每一个节点以及与它有关系的第四尺度层的节点上，如图1Down 部分，是一个由一变多的过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 多尺度分类",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多尺度数据挖掘的核心在于尺度转换，即由基准尺度层得到的知识推演出目标尺度层上的知识。通过以上分析，定义在一般数据集下多尺度分类的概念：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义3多尺度分类。由原始数据集，根据包含度理论以及等级理论，构造出多尺度数据集；由某些评价指标确定基准尺度层数据集；采用传统分类方法在基准尺度层数据集上来训练分类模型；确定尺度转换机制，由基准尺度层数据集上训练的分类模型推演出目标尺度层数据集的分类模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 多尺度分类尺度下推算法MSCSDA",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于多尺度分类而言，每层尺度上学习到的知识是分类模型。那么尺度下推就是由整体数据集上训练的分类模型推演出划分后的各个局部数据集上的分类模型，是一个由少变多的过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以SVM一对一多类别分类算法作为基准分类方法，那么，基准尺度层上学习得到的知识即分类模型，包含的信息有支持向量、权重系数以及常数b。本文将大尺度上学习到的分类模型作为小尺度上的基本分类模型，其中的权重信息以及常数b保持不变，不同的是支持向量。因此本文将支持向量作为尺度转换的对象，根据包含度理论、等级理论进行尺度划分后，大尺度上学习得到的支持向量，会被划分到小尺度上的各个局部划分中去，本文将某一局部划分中保留的一部分大尺度上学习到的支持向量作为已知样本，而缺失的另一部分作为待估样本，小尺度上的划分后的数据信息以及紧邻待估样本的已知样本作为局部细节结构。已知样本也就是模糊的分类边界信息，代表中宏观的整体趋势，局部细节结构代表着微观细节信息，那么多尺度分类尺度下推的目的就是使得模糊的分类边界",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精确化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1MSCSDA实现思想 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多尺度分类尺度下推的思想如下。首先，构建多尺度数据集，本文依据包含度理论与等级理论，构造出具有树结构的多尺度数据集，每一个局部划分节点都仅和它的双亲、孩子节点有直接关系。其次，选择基准尺度，并在基准尺度层采用一对一 SVM分类算法训练得到基准分类模型，记录有效知识，权重W以及常数b,还有作为尺度转换对象的支持向量X。然后，根据多尺度分类尺度下推实现机制推演出目标尺度层每个局部划分的分类模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2MSCSDA理论基础 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1广义分形插值理论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据第1章定义的广义分型差值理论，从不同尺度层面衡量已知样本对待估样本的贡献，既要考虑整体分布的趋势，又要考虑待估样本附近的局部已知样本的分布特点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2反距离加权[9]",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据已知样本与待估样本间的距离衡量已知样本对估计待估样本的贡献，距离越近，贡献越大，反之越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最常用的权重定义公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\frac { { d _ { o i } } ^ { - p } } { \\displaystyle \\sum _ { j = 1 } ^ { n } { d _ { o j } } ^ { - p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $d _ { o i }$ 表示待估样本与已知样本的距离； $\\mathsf { p }$ 为任意正实数，一般取 $\\scriptstyle { \\mathfrak { p } } = 1$ 或 $\\scriptstyle { \\mathsf { p } } = 2$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 MSCSDA实现机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据以上分析可以看出，对于目标尺度层的每一个局部划分会产生多个待估样本，对于每个待估样本 $\\vert x _ { o } ^ { \\dagger }$ 都需要进估计，其中$x _ { o }$ 代表局部划分中缺失的已知样本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "详细步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)筛选出与待估样本 $x _ { o } ^ { ' }$ 类别一致的已知样本集A 和局部划分中除已知样本外的其他样本集B。支持向量从本质上讲是类别边界样本，所以要选类别一致的数据进行分析插值。b)根据广义分形插值尺度划分，结合已知样本A的数据值特点，确定Nc个尺度，求出每个尺度下覆盖的已知样本集 $A _ { i }$ ，每个尺度下都会求得一个待估样本的候选样本 $y _ { i }$ ；然后根据广义分形插值 $\\Gamma \\colon ( Y ) \\to x _ { 0 }$ ，求得最终待估样本值，其中机制 $\\Gamma$ 表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { o } ^ { \\prime } = \\frac { 1 } { N _ { c } } \\sum _ { i = 1 } ^ { N _ { c } } y _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)求待估样本 $x _ { o } ^ { ' }$ 的候选样本y其中，Ai记作 $C = ( c _ { 1 } , c _ { 2 } , \\cdots , c _ { n } )$ ，包含 $\\mathfrak { n }$ 个已知样本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a)为C的每个已知样本加权重值。根据理论基础的反距离加权法得到权重的最终形式，这里 $\\mathsf { p }$ 取值为1。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\frac { { d _ { o i } } ^ { - 1 } } { \\displaystyle \\sum _ { j = 1 } ^ { n } { d _ { o j } } ^ { - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\frac { { d _ { o i } } ^ { - 1 } } { \\displaystyle \\sum _ { j = 1 } ^ { n } { d _ { o j } } ^ { - 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $d _ { o i }$ 为待估样本与已知样本的欧式距离。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b)求候选样本 $\\textbf { x }$ 。y即为局部划分中除已知样本外的其他样本集B中，与已知样本C相似性最高的样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\underset { b \\subseteq B } { \\arg \\operatorname* { m a x } } S ( C , b )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中相似性度量方法",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( C , b ) = \\sum _ { i = 1 } ^ { n } { \\frac { w _ { i } } { \\left\\| c _ { i } - b \\right\\| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与具有较大权重的已知样本越近的样本，越有可能成为候选样本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4MSCSDA伪代码",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Algorithm:MSCSDA算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input：Original Datasets ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Output：The Classification Model of Target Scale ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)Data Preprocessing ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2) Data Scaling; //尺度划分；   \n(3) Build multi-scale datasets; //构建多尺度数据集； (4)Get knowledge on the basic scale   \n(5）Choose te basic cale of $B S ( d _ { B S } ^ { 1 } , d _ { B S } ^ { 2 } , . . . , d _ { B S } ^ { m } )$ /选择基准尺度；   \n(6) foreach $d _ { B S } ^ { i }$ do begin   \n(7) Classifing on sub datasets;   \n(8) Get weight matrix;   \n(9) Get constant b;   \n(10) Get support vector A;   \n(11) end for   \n(12)Scale transformation   \n(13) foreach sub datasetB do begin   \n(14) Get Nc scale layers;   \n//根据分形插值理论确定Nc个尺度层;   \n(15) foreach scale layer do begin   \n(16) Get the known sample set C; //确定已知样本； (17) Get the weight of each known samp based the inverse distance weighting formula; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Getsimilarity of each sample in local division ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( C , b ) = \\sum _ { i = 1 } ^ { n } { \\frac { w _ { i } } { \\left\\| c _ { i } - b \\right\\| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "V/衡量局部划分中样本与已知样本的相似性 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Get candidate of the estimated sample y; ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(23) end for ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "24) Get final value of the estimated sample $x _ { o }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$x _ { o } ^ { ' } = \\frac { 1 } { N _ { c } } \\sum _ { i = 1 } ^ { N _ { c } } y _ { i }$ y//确定最终的待估样本值 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(26) end for ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(27)return The Classification Model of Target Scale ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SVM算法是解决分类问题最常用的算法，针对多类别分类问题，常用的算法有一对一和一对多形式。本文采用的基本分类算法是SVM一对一形式多类别分类算法，其中核函数采用RBF。本文使用MATLAB实现MSCSDA算法，借助LIBSVM库，其默认的便是一对一形式，因此本文后续称 SVM一对一多类别分类算法为LIBSVM算法。MSCSDA算法是建立在LIBSVM算法之上的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在四个UCI公共数据集以及一个真实数据集上进行实验，并与DecisionTree、KNN以及LIBSVM算法进行实验对比，验证本文MSCSDA算法的有效性与可行性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1数据集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用的四个UCI公共数据集包括Ionosphere 数据集、PimaIndiansDiabetes（PID）数据集、Spambase 数据集以及wine数据集，真实数据集采用H省部分人口数据，这五个数据集的样本数量、特征属性以及类别标签数量都不尽相同。详细信息见表1数据集的详细信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f48e7beeb04dfa4012c9229e57ec289666bc0b94c9495b5c45d9f2d40369080.jpg",
+        "table_caption": [
+            "表1数据集的详细信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>样本数</td><td>特征数</td><td>类别数</td></tr><tr><td>Ionosphere</td><td>351</td><td>34</td><td>2</td></tr><tr><td>PID</td><td>768</td><td>8</td><td>2</td></tr><tr><td>Spambase</td><td>4601</td><td>57</td><td>2</td></tr><tr><td>wine</td><td>178</td><td>13</td><td>3</td></tr><tr><td>H省部分人口数</td><td>6311</td><td>7</td><td>3</td></tr><tr><td>据</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2评价指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文实验中，采用最常用的四个评价指标（正确率",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（Accuracy）[10]、标准化互信息（NMI）[Il]、F1-Measure以及运行时间（RunTime)）来衡量MSCSDA算法的分类性能以及体现多尺度分类的优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 Accuracy (Acc) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分类的正确率表示两者之间的一一对应关系，即正确对应的样本个数占全部样本的比例，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA c c = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\delta ( C _ { i } , m a p ( P _ { i } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathfrak { n }$ 为样本总数量， $c _ { i }$ 为第i个样本数据的真实类别标签，$m a p ( P _ { i } )$ 表示第i个样本的实验结果 $p _ { i }$ 到真实类别标签的最优映射， $\\delta ( x , y )$ 是一个匹配函数，当 $\\scriptstyle \\mathbf { x } = \\mathbf { y }$ 时， $\\delta ( x , y ) = 1$ ，否则$\\delta ( x , y ) = 0$ 。Acc 值越高，表示分类效果越好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$4 . 2 . 2 \\ \\mathrm { N M I }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "标准化互信息（NMI）一般借助混淆矩阵计算求得，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN M I = \\frac { \\sum _ { i j } \\frac { n _ { i j } } { n } \\cdot \\log \\frac { n \\cdot n _ { i j } } { n _ { i } \\cdot n _ { j } } } { \\sqrt { ( \\sum _ { i } n _ { i } \\cdot \\log \\frac { n _ { i } } { n } ) ( \\sum _ { j } n _ { j } \\cdot \\log \\frac { n _ { j } } { n } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $n _ { i }$ 为真实标签为i的样本数量， $n _ { j }$ 为在实验中预测的标签为j的样本数量， $n _ { i j }$ 标识号真实标签为i，但在实验中预测的标签为j的样本数量。NMI的值越高，表示分类效果越好。NMI与Acc有一定的关系，当Acc 值缓慢下降时，NMI值会迅速下降，当两个Acc值很近似时，其NMI值会更近似，因此，NMI不仅放大了Acc 差异，还增强了Acc 的相似度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$4 . 2 . 3 ~ \\mathrm { F } ^ { 1 }$ -measure ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F } _ { 1 }$ -measure作为一个重要评价指标，其值越大，说明分类性能越好。对于多类分类问题，F1-Measure计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { 1 } } \\mathbf { \\cdot m } e a s u r e = \\frac { 1 } { c } \\sum _ { i = 1 } ^ { c } F _ { \\mathrm { 1 } } \\mathbf { \\cdot m } e a s u r e _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中 $F _ { 1 }$ -measure采用一对多的方法，即将第i类样本作为正类，其余类样本作为负类，产生的c个 $\\mathrm { F } _ { 1 }$ -measure值，求和取均值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 实验结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文首先根据包含度理论以及等级理论，将数据集的一个特征值离散化为不同的范围，将数据集划分为二层尺度的多尺度数据集，第一层为原始数据集，第二层划分为二到五部分不等，如H省部分人口数据，是按照区域代码划分为两部分数据集，如图1所示Down 部分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文首先在不同尺度层数据集上比较分类算法（KNN、decisiontree和LIBSVM）的各评价指标，体现多尺度分类的优势；其次对比分析本文提出的MSCSDA算法的性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7edcf26c14f1d0a73d33cd4a41b553ac989eb3d7d9afa6403f82d393d7a4a138.jpg",
+        "table_caption": [
+            "表2各分类算法的Acc值结果 $1 \\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"2\">KNN</td><td colspan=\"2\">decision tree</td><td colspan=\"2\">LIBSVM</td><td rowspan=\"2\">MSCSDA</td></tr><tr><td>第一层</td><td>第二层</td><td>第一层</td><td>第二层</td><td>第一层</td><td>第二层</td></tr><tr><td>Ionosphere</td><td>73.50</td><td>75.21</td><td>75.21</td><td>76.92</td><td>74.36</td><td>75.21</td><td>77.78</td></tr><tr><td>PID</td><td>72.90</td><td>74.07</td><td>71.35</td><td>73.10</td><td>74.27</td><td>74.46</td><td>75.05</td></tr><tr><td>Spambase</td><td>81.83</td><td>82.43</td><td>79.35</td><td>81.00</td><td>77.04</td><td>79.96</td><td>84.04</td></tr><tr><td>wine</td><td>90.91</td><td>93.18</td><td>84.09</td><td>86.36</td><td>93.18</td><td>93.18</td><td>95.45</td></tr><tr><td>H省部分人口数据</td><td>92.42</td><td>93.99</td><td>94.01</td><td>96.39</td><td>94.82</td><td>96.93</td><td>98.08</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/41b2d9996b3a9344bd8ddd0ed0346c02feb9f6b450f720dc465edd82d18a71cb.jpg",
+        "img_caption": [
+            "图2各分类算法在第一层数据集上的Acc值"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2展示的是各分类算法在两个尺度层数据集上的Acc值。从表2的结果中可以明显看出，各分类算法在第二尺度层数据集上的Acc值较第一层有显著提升，平均提升大约 $2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "主要原因可能在于，整个数据集的分布呈现为无规律状态，训练的分类模型复杂多样，即使分类的Acc值很高，也极有可能出现过拟合的问题。但是数据集经过多尺度的划分后，降低了各子数据集的分布复杂性，同时也就降低了学习到的分类模型的复杂性。而且本文提出的多尺度划分是建立在经验的包含度和等级理论之上的，目标性更强。文献[12]提出了基于聚类的Boosting方法（CBB)，其主要思想是先聚类再分类，但是应用的数据集仅局限于球形分布的数据集，而本文提出的多尺度分类思想对数据集的类型不做限制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出的MSCSDA方法，以LIBSVM算法为基准分类算法，选择LIBSVM算法下第一层即原始数据集为基准尺度数据集，经过MSCSDA算法，得到下推后的第二尺度层的分类模型。从表2中看到，MSCSDA算法的Acc 值较LIBSVM的第一层具有显著的提升，平均大约提升了 $3 \\%$ ，并且经过MSCSDA算法得到的第二尺度层的Acc与在第二尺度层数据集上直接训练的分类模型的Acc值相比较，平均大约提升了$2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3呈现的是各分类算法在第一尺度层数据集上的Acc值对比，从图中也可以明显看出MSCSDA算法较其他单一分 类算法有明显的优势；",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f590ef6c00302c392e33b865c4ea1758a4a94dad056665ddf325b4d9bf65108.jpg",
+        "table_caption": [
+            "表3各分类算法的NMI值结果 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"2\">KNN</td><td colspan=\"2\">Decision Tree</td><td colspan=\"2\">LIBSVM</td><td rowspan=\"2\">MSCSDA</td></tr><tr><td>第一层</td><td>第二层</td><td>第一层</td><td>第二层</td><td>第一层</td><td>第二层</td></tr><tr><td>Ionosphere</td><td>0.1900</td><td>0.2690</td><td>0.2690</td><td>0.1820</td><td>0.2532</td><td>0.2690</td><td>0.3172</td></tr><tr><td>PID</td><td>0.1053</td><td>0.1237</td><td>0.1040</td><td>0.1130</td><td>0.1301</td><td>0.1303</td><td>0.1394</td></tr><tr><td>Spambase</td><td>0.3071</td><td>0.3130</td><td>0.2692</td><td>0.2959</td><td>0.2261</td><td>0.2941</td><td>0.3874</td></tr><tr><td>wine</td><td>0.7384</td><td>0.7854</td><td>0.5898</td><td>0.6229</td><td>0.7897</td><td>0.7897</td><td>0.8709</td></tr><tr><td>H省部分人口数据</td><td>0.7574</td><td>0.7893</td><td>0.8160</td><td>0.8806</td><td>0.7828</td><td>0.8804</td><td>0.9014</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/78ed589ec14d834bdc4ef8b5df98c0377171b996bc1e9a901204df1371cd5187.jpg",
+        "img_caption": [
+            "图3各分类算法在第一层数据集上的NMI值"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "标准互信息NMI与Acc有一定的关系，当Acc值缓慢下降时，NMI值会迅速下降，当两个Acc值很近似时，其NMI值会更近似，因此，NMI不仅放大了Acc差异，还增强了Acc 的相似度。从表3中可以看出，经过多尺度划分后，各分类算法在第二尺度层数据集上的NMI值较第一层有显著提升，平均提升大约0.03。而Libsvm算法在H省部分人口数据的第二层数据集上较第一层数据集上的NMI值大约提升了0.1。MSCSDA算法的NMI值较LIBSVM算法在第一层数据集上的NMI均有显著提升，尤其是在H省部分人口数据数据集上，提高了大约",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.1。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图3展示的是各分类算法在第一层数据集上的NMI值，从中可以看出，MSCSDA算法的NMI值均高于其他算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是在Ionosphere 数据集上，DecisionTree 算法，第二层的NMI值较第一层略有下降，可以看出看不同尺度下详细的混淆矩阵分布情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/df42bfa0c4971dd1b1a62c4fa3336853f886388fd755be08d5eaecf355e95997.jpg",
+        "table_caption": [
+            "表4不同尺度层下的混淆矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">第一层混淆矩阵</td><td colspan=\"2\">第二层混淆矩阵</td></tr><tr><td>73</td><td>0</td><td>64</td><td>9</td></tr><tr><td>29</td><td>15</td><td>18</td><td>26</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表4中可以看出，第一层很明显将全部的第一类数据正确分类，而有29条错误均是将第二类数据误判为第一类；而第二层很明显的两类均有错分数据，但是总的错分数量较少些，也就是Acc值较高。根据NMI的计算公式可知，越是能将更多的类别数据全部正确分类的模型，NMI值越高。但是很明显，在Ionosphere 这个数据集上，分类边界是个模糊复杂边界，第一层将模糊边界的数据全部划分给第一类，而第二层则是取的中间界，尽管第一层的NMI值高一些，但是以一概全的方式并不可取。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef418a756d9295c248eed52f5690c104c3cf30887c04608b25dd40039a8e1f87.jpg",
+        "table_caption": [
+            "表5各分类算法的F值结果 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td colspan=\"2\">KNN</td><td colspan=\"2\">decision tree</td><td colspan=\"2\">LIBSVM</td><td rowspan=\"2\">MSCSDA</td></tr><tr><td>第一层</td><td>第二层</td><td>第一层</td><td>第二层</td><td>第一层</td><td>第二层</td></tr><tr><td>Ionosphere</td><td>0.6487</td><td>0.6714</td><td>0.6714</td><td>0.7420</td><td>0.6562</td><td>0.6714</td><td>0.7147</td></tr><tr><td>PID</td><td>0.6515</td><td>0.6873</td><td>0.6843</td><td>0.6866</td><td>0.6944</td><td>0.6973</td><td>0.7003</td></tr><tr><td>Spambase</td><td>0.8014</td><td>0.8132</td><td>0.7662</td><td>0.7892</td><td>0.7359</td><td>0.7706</td><td>0.8215</td></tr><tr><td>wine</td><td>0.9095</td><td>0.9343</td><td>0.8390</td><td>0.8629</td><td>0.9299</td><td>0.9299</td><td>0.9508</td></tr><tr><td>H省部分人口数据</td><td>0.9103</td><td>0.9229</td><td>0.9310</td><td>0.9553</td><td>0.9345</td><td>0.9579</td><td>0.9714</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0db4e81da4196d8073b016204f754067528bc55270baa20f8961ae9fd1e77d0b.jpg",
+        "img_caption": [
+            "图4各分类算法在第一层数据集上F1值"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { F } _ { 1 }$ -measure作为一个重要评价指标，其值越大，说明分类性能越好。如表5所示，经过多尺度划分后，各分类算法在第二尺度层数据集上的 $\\mathrm { F } _ { 1 }$ 值较第一层有显著提升，并且第二层较第一层的F1平均提升大约0.02，尤其是Ionosphere 数据下decisiontree 算法，提升了约0.07；而本文提出的MSCSDA算法，在多数数据集下，其 $\\mathrm { F } _ { 1 }$ -measure也是最高的，虽然在第二层Ionosphere 数据集下，仅次于decision tree 算法，但是相对于LIBSVM第一层数据集下的F1-Measure值，已经提高了平均约0.06。如图4所示，是各分类算法在第一层数据集上的F1-Measure值，本文提出的MSCSDA算法的 $\\mathrm { F } _ { 1 }$ -measure值均高于其他算法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/863d7caac22c361d81d3f74ae04827fd74f70e752bbd85c6177c1ba7c0d60c0f.jpg",
+        "table_caption": [
+            "表6各分类算法在第二层数据集上的运行时间（runtime）/s"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>KNN</td><td>decision tree</td><td>LIBSVM</td><td>MSCSDA</td></tr><tr><td>wine</td><td>0.007</td><td>0.018</td><td>0.004</td><td>0.002</td></tr><tr><td>Ionosphere</td><td>0.009</td><td>0.027</td><td>0.008</td><td>0.005</td></tr><tr><td>PID</td><td>0.011</td><td>0.031</td><td>0.006</td><td>0.004</td></tr><tr><td>Spambase</td><td>0.079</td><td>0.149</td><td>0.2340</td><td>0.003</td></tr><tr><td>H省部分人口数据</td><td>0.111</td><td>0.028</td><td>0.118</td><td>0.008</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbbc6864d39871117433d4d90032b50ada89be4b63e00f802336d10c7c44095c.jpg",
+        "img_caption": [
+            "图6各分类算法的运行时间（run time）/s"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "运行时间是评价一个算法是否高效可行的一个关键指标。从表6与图6中可以明显看出，KNN、decisiontree以及LIBSVM算法的runtime值随着各数据集的样本数量、特征属性以及类别标签的增加呈现出上升趋势，特别是在Spambase数据集上，LIBSVM算法和decisiontree 算法的runtime发生了较大的波动。而本文提出的MSCSDA算法，由于省去了训练学习过程，仅需要由基准尺度层得到的分类模型经过上推机制得到，因此run time值始终处于较低的水平，且波动不大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合而言，通过对以上实验结果的对比分析，本文提出的多尺度分类思想以及尺度下推MSCSDA算法相对于其他单一的分类算法具有显著的优势，同时验证了该算法的有效性与可行性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文针对目前基于分形理论的多尺度分类挖掘研究中尚未解决的尺度下推算法，借助分形插值的理论，定义了广义分形插值理论的概念，打破了局限于迭代函数系统IFS的缺憾，拓展了分形插值的应用；进而提出了以LIBSVM为基准分类模型的基于广义分形插值理论的多尺度分类尺度下推算法MSCSDA。以不同粗细程度的尺度衡量已知样本对未知样本的估计所作出的贡献，既考虑了已知样本整体分布的趋势，又考虑了待估样本附近的局部已知样本的分布特点，使得模糊的分类边界更精确。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在接下来的研究工作中，将致力于研究多尺度分类挖掘的理论支撑，拓展其他分类方法(决策树、贝叶斯、神经网络等)的转换对象，寻求更优的尺度转换机制，衡量基准尺度选择的评价指标，从而完善多尺度分类挖掘的理论和方法。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] 韩玉辉，赵书良，柳萌萌，等．多尺度聚类挖掘算法[J].计算机科学, 2016,43 (8): 244-248.   \n[2] 苏东海，赵书良，柳萌萌，等．基于加权向量提升的多尺度聚类挖掘算 法[J].计算机科学,2015,42(4):263-267.   \n[3]李正泉，吴尧祥．顾及方向遮蔽性的反距离权重插值法[J].测绘学报, 2015,44 (1): 91-98.   \n[4]梁永忠，葛咏，王江浩．基于地统计学的尺度下推方法综述[J].遥感 技术与应用,2015,30(1):1-7.   \n[5]Wang Qunming,Shi Wenzhong,Atkinson P M,et al. A new geostatistical solution to remote sensing image downscaling [J]. IEEE Trans on Geoscience and Remote Sensing,2015,1-11.   \n[6]Liu Liqiang,Wang Xiangguo,Ren Huili.3D seabed terrain establishment based on moving fractal interpolation [C]//Proc of the 7th International Joint Conference on Computational Sciences and Optimization. Washington DC: IEEE Computer Society,2014: 6-10   \n[7] 刘红艳，陈宇坤，李信富．地震道重建和重采样的分形插值方法研究 [J]．地球物理学进展,2014,29(2):518-522.   \n[8]赵泉华，刘冬，李晓丽，等．利用包含度和隶属度的遥感影像模糊分割 [J].中国图象图形学报,2017,22(7):988-995.   \n[9] 李晓晖，袁峰，贾蔡，等．基于反距离加权和克里格插值的 S-A多重分 形滤波对比研究[J]．测绘科学,2012,37(3):87-89+46.   \n[10] Chen Wenyen, Song Yangqiu,Bai Hongjie,et al. Parallel spectral clustering in distributed systems [J].IEEE Trans on Pattern Analysis & Machine Intelligence,2011,33 (3): 568-586.   \n[11] Allab K,LabiodL,NadifM.A semi-NMF-PCA unified framework for data clustering [J]. IEEE Trans on Knowledge and Data Engineering,2017,29 (1): 2-16.   \n[12] Dee Miller,Leen-Kiat Soh.Cluster-Based Boosting [J]. IEEE Trans on Knowledge and Data Engineering,2015,27(6): 1491-1504. ",
+        "page_idx": 6
+    }
+]

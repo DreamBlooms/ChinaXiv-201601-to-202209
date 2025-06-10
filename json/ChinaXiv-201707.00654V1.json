@@ -1,0 +1,453 @@
+[
+    {
+        "type": "text",
+        "text": "卤地菊乙醇提取物W40单体诱导GLC-82细胞凋亡的分子机制研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "代立婷」 吴忠南² 黄翔」 杨杰」王国才² 蒋建伟 1\\*\\*（1暨南大学医学院广州5106322暨南大学药学院中药及天然产物研究所广州",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "510632) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的:探讨卤地菊 Wedelia prostrate(Hook.et Arn.)Hemsl.的乙醇提取物W40 单体对非小细胞肺癌GLC-82细胞的抗肿瘤作用分子机制。方法：通过MTT和克隆形成抑制实验检测W40对非小细胞肺癌GLC-82细胞增殖的影响；通过细胞划痕实验检测W40 对细胞迁移的影响；通过AnnexinV-FITC /PI 双染法检测W40 对细胞凋亡的诱导；通过Westerm blotting分析细胞增殖和凋亡相关蛋白的水平。结果:MTT实验表明，W40 对GLC-82细胞有较为明显的细胞毒作用；克隆形成抑制实验表明，W40可以显著抑制GLC-82细胞增殖，且抑制程度呈现浓度依赖效应；细胞划痕实验表明，W40 能够一定程度上抑制GLC-82细胞的迁移能力;AnnexinV-FITC/PI双染的结果显示，随着药物浓度的增加，细胞凋亡率逐渐增加;Western blotting 结果表明,随着药物浓度的增加,p-Stat3 蛋白的表达水平下降,Stat3下游蛋白Bcl-2、Mcl-1的表达减少。同时，促凋亡蛋白Bax 的表达增多，并伴随Caspase-9、Caspase-3 活化及多聚 ADP-核糖聚合酶PARP 酶切失活；p-BRAF 蛋白的表达水平下降,p-BRAF下游蛋白p-MEK、p-ERK表达减少。结论:W40 通过抑制BRAF／MAPK/ERK及 Stat3信号通路来诱导细胞凋亡。关键词卤地菊肺癌 细胞调亡Stat3BRAF／MAPK/ERK 信号通路",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Molecular mechanism of inducing GLC - 82 cells apoptosis by ethanol extract from Wedelia prostrate(Hook.et Arn.)Hemsl. ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DAI Li-ting1 WU Zhong-nan² HUANG Xiang1YANG Jie1 WANG ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Guo-cai ² JIANG Jian-wei1\\*\\* ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1 Department of Biochemistry,Medical College,Jinan University, Guangzhou 510632, China (2 Institute of Traditional Chinese Medicine and Nature Products,Jinan University, Guangzhou 510630,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AbstractObjective: To study the antitumor mechanism of W40, a monomer purified from Wedelia prostrate (Hook.et Arn.) Hemsl. Methods: The effects of W40 on the cell proliferative of GLC-82 cells were detected by MTT assay and colony formation assay. The migratory abilities of GLC-82 cells s were observed by wound healing assay. Cell apoptosis was evaluated by Annexin V-FITC/PI staining analysis . The levels of apoptosis-relative proteins and cell proliferation-related proteins, such as Caspase-3, PARP, Stat3 and ERK, were detected by Western blotting. Results: MTT assay showed that W40 had a significant cytotoxic effect on non-small cell lung cancer GLC-82 cells. Colony formation assays showed that W40 significantly inhibited GLC-82 cells proliferation. The migration of GLC-82 cells was inhibited by W4O in a dose-dependent manner. Flow cytometry showed that the apoptotic rate increased gradually in a concentration-dependent manner. W40 down-regulated Stat3 as decreasing p-Stat3 and downstream proteins of Bcl-2 and Mcl-1. At the same time, W40 up-regulated the expression of pro-apoptotic protein Bax, and increased the cleavaged Caspase-9 ， Caspase-3 and PARP. W40 also down-regulated BRAF / MAPK / ERK signal pathway as decreasing p-BRAF, p-MEK and p-ERK. Conclusions: W40 induced apoptosis by inhibiting BRAF / MAPK / ERK and Stat3 signaling pathways. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words Wedelia prostrate Lung cancer Apoptosis Stat3 BRAF / MAPK/ERK signaling pathways ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肺癌是最常见的恶性肿瘤之一，全球由肺癌造成死亡人数高达160万，约19.4 $0 \\%$ ，位居第一[1,2]。肺癌通常分为两类，非小细胞肺癌（NSCLC）和小细胞肺癌（SCLC），其中非小细胞肺癌占肺癌所有发病率的 $80 \\%$ 左右[3]。由于肺癌缺乏有效的早期筛查手段，大多数肺癌患者确诊时已为晚期。NSCLC 的常见治疗方法有手术、放疗和化疗，然而，我国肺癌的5年生存率仅为 $1 8 \\%$ 左右[4]。近年来，多项研究表明 EGFR、ALK、c-MET、K-RAS、BRAF 可作为NSCLC 分子靶向治疗的相关靶点[5,6]。分子靶向治疗作为一种新型肿瘤治疗方案，通过研究特定基因的变化有助于开发个性化治疗，改善预后情况，延长患者生存率[7]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "卤地菊Wedelia prostrate(Hook.etArn.)Hemsl.为菊科嘭菊属植物，一年生草本，适合生长于海岸干燥沙土地区[8]。在《福建民间草药》中，其别名为黄花龙舌草，具有清热解毒，祛痰止咳等功效，可用于治疗急性扁桃腺炎、喉蛾、喉痹、百日咳、肺热喘咳、鼻、痈疗疗疮等症状[9]。其化学成分研究表明，卤地菊含主要含有黄酮类、萜类、有机酸类以及甾体类等化学活性成分[10]。有研究表明，卤地菊的醇提物显示具有良好的细胞毒作用，且其在结肠癌 SW480 细胞中诱导典型的凋亡细胞死亡[11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本课题组从卤地菊中分离纯化出7种单体，利用MTT法从中筛选出了具有明显抗肿瘤效果的活性单体W40化合物，根据化学上的系统命名法则命名为$1 \\beta , 9 a$ -diacetoxy- $. 4 \\alpha$ -hydroxy- $\\cdot 6 \\beta$ -isobutyroxyprostatolide[12]，其结构式见图1(a)。经文献检索，尚未有W40单体抗肿瘤作用机制的报道。本文进一步探究W40 对肺癌GLC-82细胞的抗肿瘤作用机制，并为W40的临床应用提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "卤地菊W40（ $\\mathrm { C } _ { 2 6 } \\mathrm { H } _ { 3 6 } \\mathrm { O } _ { 9 } \\mathrm { , }$ ）为本课题组库存分子。HepG2细胞、MDA-MB-231细胞、GLC-82细胞、PC-9细胞和A549细胞由中山大学附属肿瘤医院提供,Caspase3、Caspase 9、PARP、Bax、Bcl-2、Mcl-1、Stat3、p-Stat3、BRAF、p-BRAF、MEK、ERK、p-MEK和GAPDH等一抗均购自美国Cell Signaling Technology，MTT和结晶紫购自美国Sigma公司，AnnexinV-FITC /PI 双染试剂盒购自上海罗氏生物科技有限公司。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1细胞培养 用DMEM/F12培养液(含有 $10 \\%$ FBS)培养HepG2细胞、MDA-MB-231细胞、GLC-82细胞、PC-9细胞和A549细胞，置于 $3 7 \\mathrm { ~ \\textdegree C }$ 、含 $5 \\% \\mathrm { C O } _ { 2 }$ 的恒温培养箱中常规培养。每两天更换新鲜培养液，细胞融合度达到 $80 \\%$ 左右时，用 $0 . 2 5 \\%$ 胰酶消化传代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2MTT法测定细胞增殖 收集对数生长期的细胞接种在96孔板中，1000个/孔，设置3个复孔，每孔含有培养液 $1 0 0 \\mu \\mathrm { l }$ 。待细胞贴壁后加入 $1 0 0 ~ \\mu \\mathrm { l }$ 含有不同浓度药物的培养液，继续培养细胞24、48、72h，实验终止前4h每孔加入$1 0 \\mu \\mathrm { l } 5 \\mathrm { m g / m L }$ 的 MTT 试剂并孵育 $\\boldsymbol { 4 } \\mathrm { h }$ ，弃去培养液，加入 $1 0 0 \\mu \\mathrm { l }$ DMSO 溶解结晶，待结晶全部溶解后，在酶标仪上检测 $5 7 0 \\mathrm { n m }$ 波长下每孔的吸光度 （OD值）并记录下结果，计算细胞存活率。存活率 $( \\% ) =$ (A实验组/A对照组) $\\times 1 0 0 \\%$ 实验重复3次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3克隆形成抑制实验 取对数生长期的GLC-82细胞，胰酶消化后处理为细胞悬液，接种于6孔板中（800个/孔），连续培养14天后弃去上清液，用PBS洗涤细胞3次，用 $4 \\%$ 多聚甲醛固定细胞 $3 0 \\mathrm { m i n }$ ，弃去固定液后，用 $0 . 1 \\%$ 结晶紫染色 $3 0 \\mathrm { m i n }$ 。轻轻冲洗后干燥，最后拍照记录结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4细胞划痕实验 取对数生长期的GLC-82细胞接种于6孔板中，培养24h 后细胞密度达到 $90 \\%$ 左右，用 $2 0 0 ~ \\mu \\mathrm { l }$ 的无菌枪头在铺满单层细胞的上面迅速划2道痕(呈\"十\"字划痕)。PBS 洗去脱落细胞后,换为无血清培养液,设置DMSO对照组和加药组，每组3个复孔，置于 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、含 $5 \\% \\mathrm { C O } _ { 2 }$ 的恒温培养箱，分别取 $0 \\mathrm { h }$ 、 $2 4 \\mathrm { h }$ 和 $4 8 \\mathrm { { h } }$ 作为观察时间点并拍照记录，比较细胞划痕修复速度及方式的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.5流式细胞术检测细胞凋亡 取对数生长期的GLC-82细胞接种于6孔板，加入不同浓度的药物以及DMSO作为对照组。 $2 4 \\mathrm { h }$ 后收集细胞， $1 2 0 0 \\mathrm { r / m i n }$ ，离心 $3 \\mathrm { m i n }$ ，弃去上清液，PBS 洗涤细胞2遍，加入 $5 0 0 ~ \\mu \\mathrm { l }$ Binding Buffer 悬浮细胞，再加入 ${ 5 \\mu \\mathrm { l } }$ Annexin V-FITC、 ${ \\displaystyle 5 \\mu \\mathrm { l } \\mathrm { P I } }$ ，混匀后于室温避光染色 $1 5 \\mathrm { m i n }$ ，最后在流式细胞仪上检测细胞凋亡。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.6Western blotting 检测相关信号通路蛋白 用不同浓度的W40处理GLC-82细胞 $2 4 \\mathrm { h }$ ，用预冷的PBS洗细胞2遍，加入细胞裂解液（含蛋白酶抑制剂和磷酸酶抑制剂)冰上裂解 $1 5 \\mathrm { m i n }$ ， $1 2 0 0 0 \\mathrm { r / m i n }$ ， $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 离心 $1 5 \\mathrm { m i n }$ ，吸取上清液转移到新的EP管中，用BCA 法测定蛋白质浓度。取适量蛋白质上样至SDS-PAGE 聚丙烯酰胺凝胶电泳，转膜，封闭。 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 一抗孵育过夜，TBST洗膜10 min/次，共3次；二抗室温孵育 $2 \\mathrm { h }$ ，TBST洗膜 $1 0 \\mathrm { m i n } /$ 次，共3次；于暗室发光显影洗片，扫描机扫描。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 W40对肺癌GLC-82细胞的细胞毒作用",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用MTT 法检测W40对肝癌HepG2 细胞、乳腺癌MDA-MB-231细胞以及3 种肺癌细胞株GLC-82、PC-9 和 A549 细胞的细胞毒作用，见图1(b-f)。结果显示，W40 作用于乳腺癌MDA-MB-231、肺癌GLC-82和PC-9 细胞的 $\\mathrm { I C } _ { 5 0 }$ 分别为47.13±1.60、 $1 5 . 8 1 \\pm 0 . 4 7$ 和 $6 9 . 8 6 \\pm 1 . 3 1 ~ \\mathrm { \\mu m o l / L }$ ；而W40作用于肝癌HepG2和肺癌A549 细胞的 $\\mathrm { I C } _ { 5 0 }$ 均大于 $8 0 \\mathrm { \\textmu m o l / L }$ 。其中W40 对肺癌GLC-82 细胞有较为明显的细胞毒作用，且呈现出剂量依赖关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dca71d1020b038894aea2f76e01e3f146b523f0ecf4d8eed904d2018cbf45f44.jpg",
+        "img_caption": [
+            "图1W40的化学结构及其对肿瘤细胞的影响",
+            "Fig.1 Chemical structure of W4O and its effect on different cancer cells "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a) The chemical structure of W40 (b-f) HepG2, MDA-MB-231, PC-9, GLC-82 and A549 cells were treated with W4O at various concentrations for $4 8 \\mathrm { h }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2W40抑制肺癌GLC-82 细胞的细胞迁移和细胞增殖 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用细胞划痕实验检测W40对GLC-82细胞迁移能力的影响。与对照组比较，不同浓度W $4 0 ( 2 0 \\mu \\mathrm { m o l }$ /L、 $4 0 \\mu \\mathrm { m o l / L }$ ）处理GLC-82细胞 $2 4 \\mathrm { h }$ 和 $4 8 \\mathrm { ~ h ~ }$ ，细胞迁移能力受到抑制，并呈现浓度依赖性，见图2(a)。同时，W40作用GLC-82",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "细胞14天，与对照组相比，随着药物浓度增加，细胞克隆数显著减少，并且克隆体积显著变小。当药物浓度为 $5 \\mathrm { \\mu m o l }$ /L 时，GLC-82 细胞克隆几乎完全被抑制，见图2(b)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b90f564237387b353d3549b1a2670758f3bac1170bd19235edb0ccd473487d3e.jpg",
+        "img_caption": [
+            "图2W40对肺癌GLC-82细胞迁移和增殖能力的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Effects of W40 on migration and colon formation on GLC-82 cells ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) GLC-82 cells migration was inhibited by W40 in does-dependent manner (b) W40 reduced colon formation of GLC-82 cells ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 W40诱导GLC-82肺癌细胞凋亡 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用AnnexinV-FITC/PI双染流式细胞术检测细胞凋亡，结果显示，W40诱导GLC-82 细胞凋亡，且随着W40 浓度的增加，GLC-82 细胞的凋亡率逐渐升高。用不同浓度的W40（ $\\ : 0 , \\ 1 0 , \\ 2 0 , \\ 4 0 \\ \\mu \\mathrm { m o l / L } \\ :$ ）处理GLC-82 细胞 24h，GLC-82细胞中早晚期细胞凋亡率分别为 $1 . 5 \\%$ 、 $3 . 4 \\%$ 、 $3 . 8 \\%$ 和 $31 . 1 \\%$ ，见图3(a)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f93d8b94dd3921a2edd41cb00b2fcc3af6126ccaf5b3f0663a54c893d6382c7.jpg",
+        "img_caption": [
+            "图3W40对肺癌GLC-82细胞凋亡的影响",
+            "Fig.3Effects of W40 on apoptosis of GLC-82 cells "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) GLC-82 cells apoptosis detected by Annexin V-FITC/PI double staining(b) $* * P \\mathrm { \\ } { < } 0 . 0 1$ ， compared with control ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4W40对MAPK/ERK信号通路的影响MAPK信号通路的异常活化会影响肿瘤的发生发展。ERK作为MAPK家族的成员之一，广泛存在于各种组织，参与细胞的增殖、凋亡、分化的调控。为了研究W40是否通过MAPK/ERK信号通路来影响细胞凋亡，我们检测了涉及MAPK/ERK信号通路的相关蛋白的活化情况。当W40 作用于GLC-82 细胞 $2 4 \\mathrm { h }$ 随着W40 作用浓度的增加，p-BRAF，p-MEK和p-ERK均表达下降，而BRAF,MEK和ERK的表达无明显变化，见图4。这说明W40抑制了MAPK/ERK信号通路的活化，导致细胞凋亡发生。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/40c4bdbab87135f0cbf90c79372541f61c9ef2919e34b059e6ba0b377548f7cb.jpg",
+        "img_caption": [
+            "图4Westernblotting检测MAPK/ERK信号通路相关蛋白 Fig.4 The expression level of MAPK/ERK signaling pathway "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5 Westernblotting检测细胞凋亡相关蛋白的表达",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "细胞凋亡是由基因控制的自主、有序的死亡过程，它对于维持内环境的稳定具有十分重要的意义。细胞凋亡的基本过程是细胞感受到凋亡刺激信号后，调控凋亡的分子进行相互作用，促进蛋白水解酶(Caspase)的活化，最后启动细胞发生凋亡。结果显示，当W40处理GLC-82 细胞 $2 4 \\mathrm { ~ h ~ }$ 后，随着药物浓度的增加，Caspase-9、Caspase-3 活化，且PARP被切割，见图5。Caspase-3 剪切PARP后，破坏了其结构的完整性，使PARP失去其酶活力，加速细胞的不稳定，从而促进细胞凋亡。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6491185c40df003bb8de4b6f6ba34584c16540331a148cc90a7d6e52898df59b.jpg",
+        "img_caption": [
+            "图5检测细胞凋亡相关蛋白的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The expression of apotosis-related proteins detected by the Western blotting ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6 Westernblotting 检测 Stat3 信号通路相关蛋白",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在肿瘤发生中，异常激活的STAT蛋白能够调控某些与细胞增殖和存活相关基因的表达，因此我们检测了STAT信号通路。结果显示，当W40处理GLC-82细胞 $2 4 \\mathrm { h }$ 后，随着药物浓度的增加,p-Stat3表达水平逐渐下降，其下游蛋白Mcl-1、Bcl-2 表达下降，Stat3 信号通路被抑制。此外，抗凋亡蛋白Bcl-2 表达减少，促凋亡蛋白Bax 表达增加，二者比值下降，促进了细胞凋亡。表明W40 通过抑制Stat3信号通路而诱导肿瘤细胞发生凋亡凋亡，见图6。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/789681c5814dfc60b9a03d7ec98d1db69bf3e92c74179959689623f10f83cf5e.jpg",
+        "img_caption": [
+            "图6Western blotting 检测 Stat3 信号通路相关蛋白 Fig.6 The expression level of Stat3 signaling pathway "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "卤地菊Wedelia prostrate(Hook.etArn.)Hemsl.为菊科嘭菊属植物，在我国主要分布于广东、福建、台湾、浙江等地[13]。在《福建民间草药》的记载中，卤地菊可用于治疗急性扁桃腺炎、喉蛾、喉痹、百日咳、肺热喘咳、鼻蛆、痈疗疗疮等症状。可发挥治喉蛾，喉痹，白喉，百日咳，肺热喘咳，鼻蛆，痈肿，疗疮等功效[14]。实验研究表明，卤地菊提取物对白血病（K562)，肝癌（HepG2）和胃癌（SGC-7901）均有一定的细胞毒作用，但其作用机制尚不明确[11]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "W40 是本课题组从卤地菊乙醇提取物中提取的一种单体成分，同时三裂叶蚶菊中也存在[12]，但关于W40化合物的抗肿瘤机制研究尚缺乏相关报道。结果表明，我们通过MTT实验发现W40 对肺癌GLC-82细胞有较为明显的细胞毒作用；克隆形成实验以及细胞划痕实验发现W40抑制肺癌GLC-82细胞增殖以及细胞迁移能力；AnnexinV-FITC/PI双染实验发现W40 诱导肺癌GLC-82细胞",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "凋亡。 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "MAPKs 家族由细胞外信号调节激酶(ERK),p38 和c-Jun 氨基末端激酶(JNK)组成。MAPK通过磷酸化核转录因子、细胞骨架蛋白及酶类等参与细胞增殖、分化、转化及凋亡的调节，并与炎症、肿瘤等多种疾病的发生密切相关[15,16]。MAPK/ERK信号通路是研究得比较清楚的一条通路。在外界因子的刺激下Ras激活，将Raf从胞浆转移到胞膜并激活，活化的Raf 通过磷酸化MEK环上的丝氨酸残基而将其激活。MEK 再将ERK激活，进而磷酸化许多与胞质和胞膜相连的底物[17]。ERK 还可被快速地转位到细胞核激活 AP-1、ELK-1、SAP 等涉及增殖的转录分子，发挥促进细胞增殖、抑制细胞凋亡的作用[18]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "STAT蛋白作为转录因子，主要是调控宿主的应激反应，可广泛地调控细胞各种生理活动，包括细胞增殖，侵袭和凋亡[19]。特别是 STAT3，通常在肿瘤处于持续激活状态，可诱导肿瘤恶性增殖和凋亡抑制[20]。在我们的研究中，W40抑制了STAT3的磷酸化，导致 STAT3的下游靶基因的转录产物Bcl-2、Mcl-1 等表达降低，Bcl-2不能与Bax 结合，促进了Bax释放形成同源二聚体，抑制Bcl-2的抗凋亡作用。同时，Bax形成同源二聚体可引起线粒体内、外膜之间的通透性转换孔开放，线粒体体膜电位下降，释放CytochromeC，导致下游Caspase 家族级联活化反应，引起内源性细胞调亡；活化的Caspase 还可以切割PARP，加速细胞的不稳定，共同促进细胞凋亡[21]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文发现W40 能抑制肺癌GLC-82 细胞的增殖和迁移能力，并且对其分子机制做了初步探讨。W40 能在一定程度上抑制肺癌GLC-82细胞迁移能力，W40还能促进肺癌GLC-82 细胞凋亡，细胞内抗凋亡蛋白Bcl-2表达降低而促凋亡蛋白Bax表达增加，同时W40能抑制STAT信号通路的靶基因的蛋白表达，促进细胞凋亡。此外，本实验显示W40 还可以通过抑制MAPK/ERK 信号通路发挥诱导细胞凋亡、抑制肺癌细胞增殖的作用，在治疗肺癌方面表现出良好的应用前景，这为卤地菊的临床应用提供了更多的理论依据。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "致谢本研究受到暨南大学科研培育与创新基金跃升计划（11615424）资助",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] Cheng T Y, Cramb S M, Baade P D, et al. The International Epidemiology of Lung Cancer: Latest Trends，Disparities，and Tumor Characteristics. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer, 2016,11(10):1653-1671. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[2] Ferlay J, Soerjomataram I, Dikshit R，et al. Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012. International journal of cancer Journal international du cancer, 2015,136(5):359-386. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[3] Kenfield S A, Wei E K, Stampfer M J, et al. Comparison of aspects of smoking among the fourhistological types of lung cancer. Tobacco control, 2008,17(3):198-204. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[4] Mao Y, Yang D, He J, et al. Epidemiology of Lung Cancer. Surgical oncology clinics of North America, 2016,25(3):439-445. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[5] Hsu H C, Thiam T K, Lu Y J, et al. Mutations of KRAS/NRAS/BRAF predict cetuximabresistance in metastaticcolorectal cancer patients. Oncotarget. 2016,7(16):22257-22270. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[6] Califano R,Abidin A，Tariq N U,et al.Beyond EGFR and ALK inhibition: unravelling and exploiting novel genetic alterations in advanced non small-cell lung cancer. Cancer Treat Rev.2015,41(5):401-411. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[7] Mok T S ，Wu Y L, Thongprasert S, et al. Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma. The New Englandjournal ofmedicine, 2009,361(10):947-957. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8] Vieira H S, Takahashi J A, Boaventura M A. Constituents from aerial parts of Wedelia paludosa, Fitoterapia, 2001,72(7):854-856. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9] Dai J, Zhu L, Yang L, et al. Chemical composition, antioxidant and antimicrobial activities of essential oil from Wedelia prostrata. EXCLI journal, 2013,12:479-490. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[10] Ragasa C Y, Padolina W G， Bowden B F, et al. New Eudesmanolide Sesquiterpenes from a Philippines Collection of Wedelia prostata. Journal of Natural Products, 1993,56(3):386-393. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[11] Ma X H, Wang Z B, Zhang L, et al. Diterpenoids from Wedelia prostrata and TheirDerivatives and CytotoxicActivities.Chemistry&biodiversity, 2017,14(5) :1-8. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[12] Li Y, Hao X, Li S, et al. Eudesmanolides from Wedelia trilobata (L.) Hitchc. as potential inducers of plant systemic acquired resistance. Journal of agricultural and food chemistry, 2013,61(16):3884-3890. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[13] Li X, Dong M, Liu Y, et al. Structures and biological properties of the chemical constituents from the genus Wedelia. Chemistry & biodiversity, 2007,4(5):823-836. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[14] Miles D H, Chittawong V, Payne A M, et al. Cotton boll weevil antifeedant activity and antifungal activity (Rhizoctonia solani and Pythium ultimum) of extracts of the stems of Wedelia biflora. Jagricfood Chem, 1990,38(7):1591-1594. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[15] Pullikuth A K, Catling A D. Scaffold mediated regulation of MAPK signaling and cytoskeletal dynamics: a perspective. Cellular signalling, 2007,19(8):1621-1632. [16] Huang C, Jacobson K, Schaller M D. MAP kinases and cell migration. Journal of cell science, 2004,117(Pt 20):4619-4628. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[17] Steelman L S, Chappell WH,Abrams SL, et al. Roles of the Raf/MEK/ERK and PI3K/PTEN/Akt/mTORpathwaysincontrollinggrowthandsensitivityto therapy-implications for cancer and aging. Aging (Albany NY), 2011,3(3):192-222. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[18] Boilly B, Vercoutter-Edouart A S, Hondermarck H, et al. FGF signals for cell proliferation and migration through different pathways. Cytokine & growth factor reviews, 2000,11(4):295-302. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[19] Meyer T, Vinkemeier U. STAT nucleartranslocation:potential for pharmacological intervention. Expert opinion on therapeutic targets, 2007,11(10):1355-1365. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20] Malemud C J. Negative Regulators of JAK/STAT Signaling in Rheumatoid Arthritis and Osteoarthritis. Int J Mol Sci, 2017,18(3) :484-493. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[21] Yao K, Xing H C, Wu B, et al. Effect of TIEG1 on apoptosis and expression of Bcl-2/Bax and Pten in leukemic cell lines. Genetics and molecular research : GMR, 2015,14(1):1968-1974. ",
+        "page_idx": 14
+    }
+]

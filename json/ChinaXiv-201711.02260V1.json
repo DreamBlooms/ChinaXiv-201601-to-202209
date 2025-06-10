@@ -1,0 +1,779 @@
+[
+    {
+        "type": "text",
+        "text": "Optimizing Higgs factories by modifying the recoil mass ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jiayin $\\mathbf { G u } ^ { a , b }$ and Ying-Ying Li $c$ （204号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $a$ DESY, Notkestraβe 85, D-22607 Hamburg, Germany （204号 $b$ Center for Future High Energy Physics, Institute of High Energy Physics, 19B YuquanLu, Chinese Academy of Sciences, Beijing 10o049, China （20 $c$ Department of Physics， The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong S.A.R., P.R.C ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "jiayin.gu@desy.de，ylict@connect.ust.hk ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is difficult to measure the WW-fusion Higgs production process ( $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ at a lepton collider with a center of mass energy of $2 4 0 – 2 5 0 \\mathrm { G e V }$ due to its small rate and the large background from the Higgsstrahlung process with an invisible $Z$ 0 $e ^ { + } e ^ { - } \\to h Z , Z \\to \\nu \\bar { \\nu }$ ).We construct a modified recoil mass variable, $m _ { \\mathrm { r e c o i l } } ^ { p }$ defined using only the 3-momentum of the reconstructed Higgs particle,and show that it can better separate the WW-fusion and Higgsstrahlung events than the original recoil mass variable $m _ { \\mathrm { r e c o i l } }$ .Consequently， the $m _ { \\mathrm { r e c o i l } } ^ { p }$ variable can be used to improve the overall precisions of the extracted Higgs couplings,in both the conventional framework and the effective-field-theory framework.We also explore the application of the $m _ { \\mathrm { r e c o i l } } ^ { p }$ variable in the inclusive cross section measurements of the Higgsstrahlung process,while a quantitive analysis is left for future studies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction 2   \n2The modified recoil mass of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h , h \\to b \\bar { b }$ （20 4   \n3Improving Higgs coupling constraints in the EFT framework 11   \n4 Applications on the inclusive $h Z$ measurements 15   \n5 Conclusions 18   \nA The “12 (or 11)-parameter” effective-field-theory framework 19   \nB EFT expressions for the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ cross sections 21 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A lepton collider running at a center of mass energy of around 240 to 250 GeV is ideal for studying the properties of the Higgs boson. It can collect a large amount of Higgsstrahlung ( $e ^ { + } e ^ { - } \\to h Z '$ ）events, which has a cross section maximized at around $2 5 0 \\mathrm { G e V }$ ： At higher energies, the $W W$ -fusion process of Higgs production ( $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ ）can be better measured as its cross section increases with energy. It is important to have good measurements of the $W W$ -fusion process,which provides information complementary to the one from the Higgsstrahlung process. In the conventional kappa framework, the WWfusion process can constrain the $h W W$ coupling and is also an important input for the determination of the Higgs total width.1 In the effective-field-theory (EFT) framework, the $W W$ -fusion and the Higgsstrahlung processes probe different combinations of EFT parameters. The inclusion of both processes,as well as the diboson one ( $e ^ { + } e ^ { - } \\to W W$ ) is crucial for discriminating different EFT parameters and obtaining robust constraints on all of them [2-4]. However, it is not guaranteed that the runs at energies higher than 240-250 GeV will be available. The proposed Circular Electron Positron Collider (CEPC) in China does not have plans for the 350 GeV run at the current moment [5]. For the Future Circular Collider (FCC)-ee at CERN [6] and the International Linear Collider (ILC) in Japan [7],a significant amount of time may also be spent at the 240 GeV/250 GeV run before moving on to higher energies. The measurements of the WW-fusion process at 240-250 GeV is therefore of great relevance to the study of Higgs physics. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/576c8307e2a21ad2d4c39a471efe8a5524a8b8ede68620d4f6e8750299bedf09.jpg",
+        "img_caption": [
+            "Figure 1: The two processes that contributes to the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ channel. Left:The （204号 $W W$ -fusion process of Higgs production. Right: The Higgsstrahlung process with $Z$ （20 decaying to a pair of neutrinos. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is difficult to measure the $W W$ -fusion process at 240-250 GeV for the following two reasons. First， it has a small rate at lower energy， with a cross section of 6.72fb at 250 GeV assuming unpolarized beams, while the total cross section of the Higgsstrahlung process is 212fb at the same energy [5]. Second, the Higgsstrahlung process with $Z$ （20 decaying invisibly ( $e ^ { + } e ^ { - } \\to h Z$ ， $Z \\to \\nu \\bar { \\nu }$ ） is the dominate background of $W W$ fusion. Both contributing to the channel $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ as shown in Fig.1, the cross section of the former is more than six times of the latter one. With longitudinal beam polarizations, the situation is slightly better. If the signs of the polarizations are $\\operatorname { s g n } ( P ( e ^ { - } ) , P ( e ^ { + } ) ) =$ $( - , + )$ ，the $W W$ -fusion cross section is enhanced, and by a larger factor than the one of $e ^ { + } e ^ { - } \\to h Z$ . The method of recoil mass can also be used to separate the $W W$ -fusion and $h Z$ events, as the reconstructed mass of the neutrino pair should center around the $Z$ mass for $h Z$ events. However， the discriminating power is limited by the detector resolutions (especially for hadronic Higgs decays) and other effects [5, 8, 9]. A consistent treatment of the $h Z Z$ and $h W W$ couplings is also required since they are related by gauge invariance. In the EFT framework, the relation is complicated by the inclusion of Dimension-6 operators which generate anomalous couplings with Lorentz structures different from the standard model (SM) ones. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we try to address the issues mentioned above and further optimize the measurements in $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ at 240-250 GeV. We first perform a collider study in Section 2 with a comparison of the recoil mass variable and its variations. We try to validate our study by following closely Ref.[9]. We point out that the variable $m _ { \\mathrm { r e c o i l } } ^ { p }$ , defined using only the 3-momentum of the reconstructed Higgs particle, could provide a discriminating power better than the original recoil mass variable $m _ { \\mathrm { r e c o i l } }$ does. We then implement the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions in the EFT global analysis in Section 3,using the framework in Ref. [3]. We point out the importance of fitting the EFT parameters directly to the binned $m _ { \\mathrm { r e c o i l } }$ or $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution instead of fitting them to the extracted cross sections of the $W W$ -fusion process. We also apply $m _ { \\mathrm { r e c o i l } } ^ { p }$ to the inclusive $e ^ { + } e ^ { - } \\to h Z$ （204号 process in Section 4 and comment on its potential use in the inclusive $h Z$ cross section measurements. Finally， we conclude in Section 5. We provide a short summary of the EFT framework used in our analysis in Appendix A and the numerical expressions of the EFT dependence of the (modified) recoil mass distributions in Appendix B. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The following collider scenarios are considered in our study: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "· CEPC with $5 \\mathrm { a b } ^ { - 1 }$ data collected at 240 GeV, with unpolarized beams [5]. This scenario can also be thought as the earlier stage of the FCC-ee, which also plans to collect $5 \\mathrm { a b } ^ { - 1 }$ at 240 GeV and eventually $1 . 5 \\mathrm { a b } ^ { - 1 }$ data at 350 GeV as well [6] · ILC with $2 \\mathrm { a b } ^ { - 1 }$ data collected at 25o GeV and beam polarizations of $P ( e ^ { - } , e ^ { + } ) =$ （204号 $( \\pm 0 . 8 , \\pm 0 . 3 )$ ，which could be considered as the first stage of a full program with center of mass energies up to 500 GeV [10]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the WW-fusion measurements, we focus on the channel with the Higgs decaying to a pair of bottom quarks ( $( e ^ { + } e ^ { - }  \\nu \\bar { \\nu } h , h  b b )$ ),which has the largest branching ratio. The measurements of $W W$ fusion at 240-250 GeV with other Higgs decay channels are not reported in the offcial documents due to the poor constraints (see e.g., Refs.[5,10,11]) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 The modified recoil mass of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h , h \\to b b$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At lepton colliders, the method of recoil mass can be used to reconstruct the mass of a particle without measuring its decay products. One of its most important applications is the measurement of the inclusive rate of the Higgsstrahlung process, $e ^ { + } e ^ { - } \\to h Z$ ： Assuming both the Higgs and $Z$ are on mass shell, one could write the relation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { h } ^ { 2 } = E _ { h } ^ { 2 } - | \\vec { p } _ { h } | ^ { 2 } = ( \\sqrt { s } - E _ { Z } ) ^ { 2 } - | \\vec { p } _ { Z } | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the total center of mass energy $\\sqrt { s }$ is fixed up to corrections from beam energy spread and initial state radiations. By measuring the energies and momenta of the $Z$ decaying products one could reconstruct the mass of the Higgs particle. This can be used to select $e ^ { + } e ^ { - } \\to h Z$ signal events without tagging the Higgs decay products, which makes it possible to measure the inclusive cross section of this channel. It also provides the best Higgs mass measurement. For example, a precision of 5.9 MeV can be achieved with the leptonic $Z$ decay channels of the inclusive $h Z$ measurements at the CEPC [5]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If the Higgs decay products are measured, the recoil mass can be turned around to reconstruct the $Z$ mass, since the following relation also holds for an $e ^ { + } e ^ { - } \\to h Z$ event, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { Z } ^ { 2 } = ( \\sqrt { s } - E _ { h } ) ^ { 2 } - | \\vec { p } _ { h } | ^ { 2 } = s - 2 \\sqrt { s } E _ { h } + m _ { h } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The recoil mass can then be defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { \\mathrm { r e c o i l } } ^ { 2 } = s - 2 \\sqrt { s } E _ { h } ^ { \\mathrm { r e c } } + ( m _ { h } ^ { \\mathrm { r e c } } ) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { h } ^ { \\mathrm { r e c } }$ and $m _ { h } ^ { \\mathrm { r e c } }$ are the reconstructed Higgs energy and mass. For Higgs decaying to a pair of bottom quarks, they are the total energy and the invariant mass of the two $b$ -jets. This offers a way to separate the Higgsstrahlung events with an invisible $Z$ C $e ^ { + } e ^ { - } \\to h Z , Z \\to \\nu \\bar { \\nu }$ ）from the $W W$ -fusion events,both contributing to the channel $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ ， as shown in Fig.1. However， due to finite jet resolutions,beam energy spread and other effects, the recoil mass distribution of the $h Z$ events has a rather large spread. This limits it discriminating power especially at the energy 240-250GeV， for which the recoil mass distribution of the WW-fusion events spreads around the same region. We also find that for Higgs decaying to a pair of $b$ -jets $( h  b \\bar { b }$ ）the uncertainty on the recoil mass is dominated by the energy and momentum resolutions of the $b$ -jets. This is also obvious from the observation that the recoil mass distribution for the Higgs mass reconstruction in Eq.(2.1) is much narrower for the leptonic $Z$ decay channel than for the hadronic one (see e.g. Ref. [5]). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "While the recoil mass defined in Eq.(2.3) makes use of all the kinematic information, it does not make any assumption on the value of the Higgs mass. Both the Higgs width and the projected uncertainty of its mass are at the MeV level and can be neglected compared with the efects of jet resolution. Using the information of the Higgs mass, two modifications of the recoil mass can be constructed. The first,using only the reconstructed Higgs energy as the measurement input, is defined as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( m _ { \\mathrm { r e c o i l } } ^ { E } ) ^ { 2 } = s - 2 \\sqrt s E _ { h } ^ { \\mathrm { r e c } } + m _ { h } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { h }$ is fixed to be the Higgs mass, $1 2 5 . 0 9 \\mathrm { G e V }$ . The other, using only the reconstructed 3-momentum $( \\vec { p } _ { h } ^ { \\mathrm { r e c } } )$ of the Higgs, is defined as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( m _ { \\mathrm { r e c o i l } } ^ { p } ) ^ { 2 } = s - 2 \\sqrt s \\sqrt { m _ { h } ^ { 2 } + | \\vec { p } _ { h } ^ { \\mathrm { r e c } } | ^ { 2 } } + m _ { h } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { h }$ is $m _ { \\mathrm { r e c o i l } }$ ， $m _ { \\mathrm { r e c o i l } } ^ { E }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ are all equivalent. However, the uncertainties in the energy and momentum measurements certainty have different impacts on the three variables. To illustrate this impact， we define, for a given event, a set of five parameters $\\{ \\delta _ { m } , \\ : \\delta _ { m } ^ { E } , \\ : \\delta _ { m } ^ { p } , \\ : \\delta _ { E } , \\ : \\delta _ { p } \\}$ which parameterize the differences between the reconstructed quantities and the true ones, with ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l } & { \\mathrm { ~ \\gamma ~ } _ { \\mathrm { r e c o i l } } = } & { m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } ( 1 + \\delta _ { m } ) , } & & { m _ { \\mathrm { r e c o i l } } ^ { E } = m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } ( 1 + \\delta _ { m } ^ { E } ) , } & & { m _ { \\mathrm { r e c o i l } } ^ { p } = m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } ( 1 + \\delta _ { m } ^ { p } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { h } ^ { \\mathrm { r e c } } = \\ E _ { h } ( 1 + \\delta _ { E } ) , \\qquad | \\vec { p } _ { h } ^ { \\mathrm { r e c } } | = | \\vec { p } _ { h } | ( 1 + \\delta _ { p } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } }$ is the true parton level recoil mass, $E _ { h }$ and $\\vec { p _ { h } }$ are the true energy and 3- momentum of the Higgs.For $h Z$ events, $m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } = m _ { Z }$ (assuming it isoshell)，ndthe three parameters $\\delta _ { m }$ ， $\\delta _ { m } ^ { E }$ and $\\delta _ { m } ^ { p }$ can be written in terms of $\\delta _ { E }$ and $\\dot { \\delta _ { p } }$ . At leading order, they are given (for $h Z$ events） by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\delta _ { m } \\approx \\displaystyle - \\frac { 1 } { m _ { Z } ^ { 2 } } \\left[ \\left( \\sqrt { s } - E _ { h } \\right) E _ { h } \\delta _ { E } + \\left| \\vec { p } _ { h } \\right| ^ { 2 } \\delta _ { p } \\right] , } } \\\\ { { \\delta _ { m } ^ { E } \\approx \\displaystyle - \\frac { \\sqrt { s } } { m _ { Z } ^ { 2 } } E _ { h } \\delta _ { E } , } } \\\\ { { \\delta _ { m } ^ { p } \\approx \\displaystyle - \\frac { \\sqrt { s } } { m _ { Z } ^ { 2 } } \\frac { \\left| \\vec { p } _ { h } \\right| ^ { 2 } } { E _ { h } } \\delta _ { p } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fa6d61ba13447beca563bce399bbb932840cb02040d171155b1b3fe779f696b.jpg",
+        "img_caption": [
+            "Figure 2: Left: The distributions of $\\delta _ { E }$ and $\\dot { \\delta _ { p } }$ (defined in Eq. (2.7)) for $e ^ { + } e ^ { - } \\to h Z$ ， $Z $ $\\nu \\bar { \\nu } , h  b \\bar { b }$ at CEPC $2 4 0 \\mathrm { G e V }$ ， after applying a Higgs-mass-window cut of $1 0 5 \\mathrm { G e V } <$ $m _ { h } ^ { \\mathrm { r e c } } < 1 3 5 \\mathrm { G e V }$ Right:Thecorresponding distributionsof $m _ { \\mathrm { r e c o i l } }$ ，‘ $m _ { \\mathrm { r e c o i l } } ^ { E }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ 、， defined in Eqs.(2.3-2.5). A radius of $R = 1 . 5$ is used in the jet clustering algorithm. The details on the simulations and selection cuts are stated later in this section. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note that $\\delta _ { E }$ and $\\dot { \\delta _ { p } }$ can be either positive or negative. The overal negative coefficients in Eq.(2.8) indicates that if the measured energy or 3-momentum of the Higgs is larger than its actual value, the recoil mass variables will be smaller than the $Z$ mass, and vice versa. For a fixed center of mass energy ( $\\sqrt { s } = 2 4 0 \\mathrm { G e V }$ or $2 5 0 \\mathrm { G e V }$ )， the values of $E _ { h }$ and $\\left| \\vec { p _ { h } } \\right|$ are fixed. In particular, near the $h Z$ threshold $\\left| \\vec { p _ { h } } \\right|$ is significantly smaller than $E _ { h }$ .With $| \\vec { p _ { h } } | \\approx 5 1 \\mathrm { G e V }$ and $E _ { h } \\approx 1 3 5 \\mathrm { G e V }$ at $\\sqrt { s } = 2 4 0 \\mathrm { G e V }$ ，and $| \\vec { p } _ { h } | \\approx 6 2 \\mathrm { G e V }$ and $E _ { h } \\approx 1 4 0 \\mathrm { G e V }$ at $\\sqrt { s } = 2 5 0 \\mathrm { G e V }$ , Eq.(2.8) thus becomes ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { m } / \\delta _ { m } ^ { E } / \\delta _ { m } ^ { p } \\approx \\{ - 1 . 7 \\delta _ { E } - 0 . 3 2 \\delta _ { p } / - 3 . 9 \\delta _ { E } / - 0 . 5 7 \\delta _ { p } \\qquad \\mathrm { a t ~ 2 4 0 G e V } \\ , \\nonumber  \\\\  - 1 . 9 \\delta _ { E } - 0 . 4 6 \\delta _ { p } / - 4 . 2 \\delta _ { E } / - 0 . 8 3 \\delta _ { p } \\qquad \\mathrm { a t ~ 2 5 0 G e V } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the small coefficients of $\\dot { \\delta _ { p } }$ come from a suppression factor of $\\sim | \\vec { p } _ { h } | ^ { 2 } / E _ { h } ^ { 2 }$ relative to the ones of $\\delta _ { E }$ ， shown in Eq.(2.8). The distributions of $\\delta _ { E }$ and $\\delta _ { p }$ for $e ^ { + } e ^ { - } \\to h Z$ ， $Z $ $\\nu \\bar { \\nu } , h  b \\bar { b }$ at CEPC $2 4 0 \\mathrm { G e V }$ are shown on the left panel of Fig.2, after applying the selection cuts which include a Higgs-mass-window cut of $1 0 5 \\mathrm { G e V } < m _ { h } ^ { \\mathrm { r e c } } < 1 3 5 \\mathrm { G e V }$ on the $b$ -jet pair. While $\\dot { \\delta _ { p } }$ has a slightly larger spread than $\\delta _ { E }$ , its coefficients in Eq. (2.9) are much smaller. We therefore expect the distribution $m _ { \\mathrm { r e c o i l } } ^ { p }$ to have the smallest spread, and the one of $m _ { \\mathrm { r e c o i l } } ^ { E }$ to have the largest.This is verified on the right panel of Fig.2 where the distributions of $m _ { \\mathrm { r e c o i l } }$ ， $m _ { \\mathrm { r e c o i l } } ^ { E }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ areshown.FortheWW-fusioneventswe expect a less significant difference among the distributions of the three variables (which are shown later in Fig.3 & 4), since they do not have a $Z$ in the event. The corresponding distributions for ILC 250 GeV are very similar to the ones in Fig. 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that the distribution of $\\delta _ { E }$ in Fig.2 is asymmetric, suggesting that on average the measured energy of the $b$ -jet pair is smaller than its actual value. This is due to the fact that in our simulation we do not apply any jet energy corrections that are widely used in the LHC experiments [12,13]. As a result, the central values of the $m$ recoil and $m _ { \\mathrm { r e c o i l } } ^ { E }$ distributions arealso shifted tobe larger than $m _ { Z }$ . Assuming a jet energy correction mechanism will be implemented in the future lepton collider(s)，one would expect a corrected central value and also some improvements on the energy measurement, and the $m _ { \\mathrm { r e c o i l } }$ (and $m _ { \\mathrm { r e c o i l } } ^ { E }$ ） distribution will have a peak value around $m _ { Z }$ and a slightly smaller spread. We do not expect the lack of jet energy correction to have a significant impact onour resultssince the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributionstillhasamuchsmallerspread due to the parametric suppression of it uncertainty near the $h Z$ threshold as discussed above. ² ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Having found that the variable $m _ { \\mathrm { r e c o i l } } ^ { p }$ could better reconstruct the $Z$ mass than $m _ { \\mathrm { r e c o i l } }$ ， we perform an analysis based on a fast simulation to explicitly exam their discriminating powers on the WW-fusion and $h Z$ events at the CEPC $2 4 0 \\mathrm { G e V }$ (with unpolarized beams) and ILC $2 5 0 \\mathrm { G e V }$ (assuming $P ( e ^ { - } , e ^ { + } ) = ( - 0 . 8 , + 0 . 3 ) )$ . We generate events for both processes using Madgraph5 [14], which are showered with Pythia [15] before passing to Delphes [16] with ILD cards (using the detector geometry and flavor tagging efficiencies given in Ref. [17]) for detector simulations. The interference term between the $W W$ -fusion and $h Z$ processes are ignored. It should be noted that the effects of ISR photons are not considered in the simulation with Madgraph5. However, we expect their effects to be much smaller compared with the ones of jet resolutions. We use the ILC analysis in Ref. [9] as a guide to validate our results from the simple simulation. While the Durham jet clustering algorithm is used in Ref.[9], it pointed out that the anti- $k _ { t }$ jet algorithm with jet radius $R = 1 . 5$ has a similar performance in the Higgs invariant mass reconstruction, which is used in our simulation. We also follow closely the selection cuts in Ref.[9]. In particular, each event is required to have exactly two $b$ -jets and a cut on the invariant mass of the $b$ -jet pair, $1 0 5 \\mathrm { G e V } < m _ { h } ^ { \\mathrm { r e c } } < 1 3 5 \\mathrm { G e V }$ , is applied to reduce the backgrounds. The cuts related to variables in the Durham jet clustering algorithm are replaced by the simple requirement on jet number ( $= 2$ ）in each event.After event selections,we scale the number of signal events of ILC 250 GeV to the ones in Ref. [9] (normalized to $2 \\mathrm { a b } ^ { - 1 }$ ).A similar scaling is also applied for CEPC, taking count of the differences in cross sections and selection efficiencies between CEPC and ILC. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The composition of the background in the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ channel is also listed in Ref. [9]. The major ones are $\\nu \\bar { \\nu } b \\bar { b }$ and $q q$ ，which contributes to $4 2 \\%$ and $3 4 \\%$ of the total background after selection cuts. The $q \\bar { q }$ background is diffcult to simulate due to its huge cross section and tiny selection eficiency. For simplicity, we simulate only the $\\nu \\bar { \\nu } b \\bar { b }$ background, apply the selection cuts and scale it up to match the total background number， given in Ref.[9] and normalized to our run scenarios. We expect this simple treatment to provide a reasonable estimation on the effects of the backgrounds. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After selection cuts, the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions of $h Z$ ( $Z \\to \\nu \\bar { \\nu }$ ）， $W W$ -fusion and background events are shown in Fig.3 for ILC 250 GeV ( $2 \\mathrm { a b } ^ { - 1 }$ data with $P ( e ^ { - } , e ^ { + } ) =$ （204号 $( - 0 . 8 , + 0 . 3 ) ,$ ）and Fig.4 for CEPC $2 4 0 \\mathrm { G e V }$ ( $\\mathrm { 5 a b ^ { - 1 } }$ data,unpolarized beams). In Fig.3 and Fig.4, the $m _ { \\mathrm { r e c o i l } }$ 0 $( m _ { \\mathrm { r e c o i l } } ^ { p } )$ distribution is shown on the left (right） panel, while the distributions in the bottom panels are simply the amplified versions of the ones in the top panel. To check the validity of our results,we compared our $m _ { \\mathrm { r e c o i l } }$ distributions to the ones in Refs. [9, 5] and found a reasonable agreement in terms of spread ranges and distribution shapes. Comparing the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions in Fig.3 and 4, it is clear that $m _ { \\mathrm { r e c o i l } } ^ { p }$ provides a better discrimination between $h Z$ and $W W$ fusion events, with the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution of $h Z$ having a much sharper peak around the $Z$ mass than the $m _ { \\mathrm { r e c o i l } }$ one. On the other hand, the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution of the $\\nu \\bar { \\nu } b \\bar { b }$ background has a more even spread than the $m _ { \\mathrm { r e c o i l } }$ one. This is because that for the $\\nu \\bar { \\nu } b \\bar { b }$ background the $b \\bar { b }$ pair does not come from the Higgs decay. Using the wrong mass assumption therefore makes the reconstruction of $Z$ mass worse. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/181a93f3968b6a2d288556f9e2200a0a9f4ed71e9dbe0ac59fb71d7e133836ec.jpg",
+        "img_caption": [
+            "Figure 3: The $m _ { \\mathrm { r e c o i l } }$ (left panel） and $m _ { \\mathrm { r e c o i l } } ^ { p }$ (right panel) distributions of $h Z$ 0 $Z \\to \\nu \\bar { \\nu }$ ) $W W$ -fusion and background events after selection cuts for ILC $2 5 0 \\mathrm { G e V }$ with a luminosity of $2 \\mathrm { a b } ^ { - 1 }$ and beam polarization $P ( e ^ { - } , e ^ { + } ) ~ = ~ ( - 0 . 8 , + 0 . 3 )$ . The distributions in the bottom panels are the amplified versions of the ones in the top panels (and also with a different bin size). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Following Ref. [9], we apply a $\\chi ^ { 2 }$ fit to the binned $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions to extract the precisions (one-sigma uncertainties) of the $h Z$ and $W W$ cross sections, denoted as $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ . This is done by treating the overall rates, $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ as free parameters while assuming a perfect knowledge on the the shapes of the distributions. Ref. [9] also treats the overall cross section of the background $( \\sigma _ { \\mathrm { b g } } )$ as a free parameter. We consider two cases with $\\sigma _ { \\mathrm { b g } }$ treated as a free parameter as well as fixing it to the predicted value. The total $\\chi ^ { 2 }$ of the $m _ { \\mathrm { r e c o i l } }$ or $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution is given by ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/886a4407fe9ec6cb41e6abb71bfbafc7e679fd8fb315bf2f256d9354739900dc.jpg",
+        "img_caption": [
+            "Figure 4: Same as Fig.3 but for CEPC $2 4 0 \\mathrm { G e V }$ with $\\mathrm { 5 a b ^ { - 1 } }$ data and unpolarized beams. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\sum _ { i } \\frac { ( n _ { \\mathrm { t h e o r y } } ^ { i } - n _ { \\mathrm { e x p } } ^ { i } ) ^ { 2 } } { n _ { \\mathrm { e x p } } ^ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where for each bin $i$ ， $n _ { \\mathrm { e x p } } ^ { i }$ is the expected number of events from simulation and $n _ { \\mathrm { t h e o r y } } ^ { i }$ is a function of $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ (and $\\sigma _ { \\mathrm { b g } }$ ). To ensure enough statistics in each bin, we choose a bin size of 5 GeV except for the first and last bin, which are chosen to include allthe events below 65 GeV (60 GeV) and above 130 GeV (115 GeV) for the $m _ { \\mathrm { r e c o i l } }$ $( m _ { \\mathrm { r e c o i l } } ^ { p } )$ distribution at ILC,and all the events below 65 GeV (60 GeV) and above 120 GeV (110 GeV) for the $m _ { \\mathrm { r e c o i l } }$ $( m _ { \\mathrm { r e c o i l } } ^ { p } )$ distribution at CEPC. The results of the $\\chi ^ { 2 }$ fits are presented in Table 1 for ILC 250 GeV ( $2 \\mathrm { a b } ^ { - 1 }$ data with $P ( e ^ { - } , e ^ { + } ) = ( - 0 . 8 , + 0 . 3 ) )$ and Table 2 for CEPC 240 GeV （ $\\mathrm { 5 a b ^ { - 1 } }$ data,unpolarized beams). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Overall, our results on the precision of the $W W$ -fusion cross section is slightly worse than the ones in Ref. [9] (if normalized to the same luminosity) and the CEPC preCDR [5]. This is not surprising, since the results could depend on details of the simulation,for which we only performed a simplified study. In what follows, we shall focus on the relative difference between theresultsfrom $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ While the distributions of $m _ { \\mathrm { r e c o i l } } ^ { p }$ clearly better separates the $h Z$ and $W W$ -fusion events as shown in Fig.3 and Fig.4, in the 3-parameter fit (shown on the left panels of Table 1 and Table 2) the precision ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/26a8de210ded3c7ac17294c40f0a25f64bbcaf25d9fd8800e36f843ee699fadc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">ILC 250 GeV, 2 ab-1,uncertainties normalized to SM predictions</td></tr><tr><td rowspan=\"2\">mrecoil</td><td colspan=\"3\">3-parameter fit</td><td colspan=\"2\">fixing Obg</td></tr><tr><td>uncertainty</td><td>correlation matrix</td><td></td><td>uncertainty</td><td>correlationmatrix</td></tr><tr><td rowspan=\"2\">OhZ OWW→h</td><td>0.049</td><td>OhZ OWW→h</td><td>-0.97 Obg</td><td>0.011</td><td>OhZ OWW→h</td></tr><tr><td>0.063 0.31</td><td>1 0.47 1</td><td>-0.63 1</td><td>0.045</td><td>1 -0.69 1</td></tr><tr><td rowspan=\"2\">Obg mrecoil</td><td>3-parameter fit</td><td></td><td></td><td>fixing Obg</td><td></td></tr><tr><td>uncertainty</td><td>correlation matrix</td><td></td><td>uncertainty</td><td>correlation matrix</td></tr><tr><td rowspan=\"2\">OhZ OwW→h Obg</td><td></td><td>OhZ OWW→h</td><td>Obg</td><td></td><td>OhZ 0WW→h</td></tr><tr><td>0.010 0.059</td><td>1 0.21 1</td><td>-0.51 -0.83</td><td>0.0088 0.033</td><td>1 -0.46 1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 1: The one sigma uncertainties and correlations of the cross sections of the Higgsstrahlung process with an invisible $\\textit { Z } \\left( \\sigma _ { h Z } \\right)$ and the $W W$ -fusion process $( \\sigma _ { W W  h } )$ at ILC $2 5 0 \\mathrm { G e V }$ from a fit to the $m _ { \\mathrm { r e c o i l } }$ (top panel) and $m _ { \\mathrm { r e c o i l } } ^ { p }$ (bottom panel) distributions. A total luminosity of $2 \\mathrm { a b } ^ { - 1 }$ with beam polarization of $P ( e ^ { - } , e ^ { + } ) = ( - 0 . 8 , + 0 . 3 )$ is assumed. In the 3-parameter fit on the left panel, the overall normalization of the background is treated as a free parameter in the fit. In the 2-parameter fit on the left panel, the total number of background events is fixed to the predicted value. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "of $\\sigma _ { W W  h }$ from the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution is similar to (or even worse than) the one of $m _ { \\mathrm { r e c o i l } }$ , due to the fact that $W W$ -fusion and background events have a larger overlap in the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution than in the $m _ { \\mathrm { r e c o i l } }$ one. $m _ { \\mathrm { r e c o i l } } ^ { p }$ nevertheless significantly improves the precisions of $\\sigma _ { h Z }$ and $\\sigma _ { \\mathrm { b g } }$ in the 3-parameter fit. Assuming a good knowledge of the background, one may also fix the background cross section to the predicted value. In the 2-parameter fit with $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ ，the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution indeed provide a significantly better constraint on $\\sigma _ { W W  h }$ , with an improvement of about 30% at ILC and 20% at CEPC,compared with the constraint from the $m _ { \\mathrm { r e c o i l } }$ distribution. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the kappa framework with the $h Z Z$ and $h W W$ couplings treated as independent parameters, the $W W$ -fusion measurement is an important input for constraining the $h W W$ coupling (with the other being the Higgs decay, $h \\to W W ^ { * }$ ).With a $2 0 \\mathrm { - } 3 0 \\%$ improvement on the precision of the $W W$ -fusion cross section，a sizable improvement for the constraint on the $h W W$ coupling is expected. The $W W$ -fusion cross section is also an important input for the determination of the Higgs total width,following the relation [5]3 ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { h } \\propto \\frac { \\Gamma ( h  b \\bar { b } ) } { \\mathrm { B R } ( h  b \\bar { b } ) } \\propto \\frac { \\sigma ( \\nu \\bar { \\nu } h , h  b \\bar { b } ) } { \\mathrm { B R } ( h  b \\bar { b } ) \\cdot \\mathrm { B R } ( h  W W ^ { \\ast } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where, following the usual convention, $\\sigma ( \\nu \\bar { \\nu } h )$ denotes only the $W W$ -fusion contribution to it. With a $2 0 \\mathrm { - } 3 0 \\%$ improvement on the precision of $\\underline { { \\sigma } } ( \\nu \\bar { \\nu } h , h  b b )$ ，as well as some possible improvement on the determination of l $\\mathrm { { 3 R } } ( h  b b )$ from a better measurement of $\\sigma ( h Z , Z \\to \\nu \\bar { \\nu }$ ， $h  b b$ ), the precision of the Higgs total width obtained using Eq.(2.11) could be improved by at least 20-30% using the $m _ { \\mathrm { r e c o i l } } ^ { p }$ variable. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/60a3520b9a22c637801235e788b21f5b36fc46374a5af0325a8c018e22875078.jpg",
+        "table_caption": [
+            "Iable 2: Same as Table 1 but for CEPC 240 GeV with $5 \\mathrm { a b } ^ { - 1 }$ data and unpolarized beams "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">CEPC 240 GeV, 5ab-1，uncertainties normalized to SM predictions</td></tr><tr><td rowspan=\"2\">mrecoil</td><td colspan=\"3\">3-parameter fit</td><td colspan=\"2\">fixing Obg</td></tr><tr><td>uncertainty</td><td>correlation matrix</td><td></td><td>uncertainty</td><td>correlationmatrix</td></tr><tr><td rowspan=\"2\">OhZ OWW→h</td><td>0.024</td><td>OhZ OWW→h 1 0.28</td><td>Obg -0.95</td><td>0.0077</td><td>OhZ OWW→h 1 -0.61</td></tr><tr><td>0.058 0.20</td><td>1</td><td>-0.47 1</td><td>0.051</td><td>1</td></tr><tr><td rowspan=\"2\">Obg mrecoil</td><td>3-parameter fit</td><td></td><td></td><td></td><td>fixing Obg</td></tr><tr><td>uncertainty</td><td>correlation matrix</td><td></td><td>uncertainty</td><td>correlation matrix</td></tr><tr><td rowspan=\"3\">OWW→h Obg OhZ</td><td></td><td>OhZ OWW→h</td><td>Obg</td><td></td><td>OhZ OWW→h</td></tr><tr><td>0.0071 0.083</td><td>1 0.098</td><td>-0.35</td><td>0.0066</td><td>1 -0.45</td></tr><tr><td>0.082</td><td>1</td><td>-0.87 1</td><td>0.041</td><td>1</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To conclude this section， we would like to emphasize that, while we try our best to validate our results, they do rely on simple simulations and should be explicitly tested by experimental groups with proper simulation tools. The fits performed in obtaining the results in Table 1 and 2 also assume a perfect knowledge of the distribution shapes for each process, which may not be a good assumption in an actual experiment. We also include only the $\\nu \\bar { \\nu } b \\bar { b }$ background, while other backgrounds may have different kinematic features. Nevertheless, we expect our results to still hold qualitatively due to the simple reasoning that $m _ { \\mathrm { r e c o i l } } ^ { p }$ has a smaller uncertainty and better reconstruct the $Z$ mass. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 Improving Higgs coupling constraints in the EFT framework ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Having explored the capability of the $m _ { \\mathrm { r e c o i l } } ^ { p }$ variable in improving the measurement of the WW-fusion process, we are now ready to exam its impact on the determination of the Higgs couplings. We choose to study the Higgs coupling constraints in a global effectivefield-theory (EFT） framework with dimension six (D6) operators.4 Such a framework has several advantages. First, assuming the scale of new physics is high, the EFT with D6 operators gives a good parameterization of the effcts of new physics and the results can be mapped to any specific model that satisfies the assumptions of the framework. Second, it takes count of the connections among different measurements. For instance, some operators contribute to both Higgs processes and the dibson process, and the triple gauge coupling (TGC) measurements from the diboson process can thus help the overall constraints on the Higgs couplings [24]. Gauge invariance is also imposed by construction in the EFT framework. We focus on the CEPC 240 GeV and follow Ref. [3] in terms of the basis choice and measurement inputs. In particular, focusing on the Higgs and diboson measurements at 240 GeV, and making reasonable assumptions,a total number of 11 parameters are suffcient to describe the contributions from the D6 operators. A short summary of the framework in Ref. [3] is provided in Appendix A. The methods we propose should nevertheless be applicable to other collider scenarios and frameworks. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A few important differences between the cross-section fit in Section 2 and the EFT analysis should be noted. While not specifically mentioned, the cross-section fit does make assumptions on the new physics,in particular that it only modifies the overall rates, not the differential distributions, of the $h Z$ and $W W$ -fusion processes. In the cross-section fit,the $h W W$ and $h Z Z$ couplings are also assumed to be independent， regardless of their relation from gauge invariance. The EFT analysis, while imposing gauge invariance, contain anomalous couplings of the form $h Z _ { \\mu \\nu } Z ^ { \\mu \\nu }$ and $h Z _ { \\mu } \\partial _ { \\nu } Z ^ { \\mu \\nu }$ (and the same for $W$ ）） which have diferent momentum dependences from the SM couplings due to the extra derivatives. The potential new physics contribution to the $h Z \\gamma$ vertex is also included in the EFT analysis,which could contribute to $e ^ { + } e ^ { - } \\to h Z$ via an $s$ -channel photon. It is thus beter to directly fit the EFT parameters to the $m _ { \\mathrm { r e c o i l } }$ or $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution of the inclusive $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ process instead of fitting them to the extracted precisions of cross sections from Section 2. By fitting to the inclusive $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ process we also include the interference term of $W W$ -fusion and $h Z$ processes,which is usually ignored in crosssection fits. The expressions for the total cross section of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ and the (binned) differential ones of the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions in terms of the EFT parameters are listed in Appendix B. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The measurement inputs of the Higgsstrahlung ( $e ^ { + } e ^ { - } \\to h Z )$ and diboson ( $e ^ { + } e ^ { - } \\to$ WW） processes at CEPC 240GeV are listed in Table 3. The estimations of $h Z$ measurements are taken from Ref. [25]， which updates the ones in the CEPC preCDR [5]. In addition, The angular observables of $e ^ { + } e ^ { - } \\to h Z$ in Ref. [19] are included, for which we use only the channel $e ^ { + } e ^ { - } \\to h Z$ ， $h  b b$ ， $Z  \\ell ^ { + } \\ell ^ { - }$ and assume a fixed 60% signal selection efficiency, following Refs. [21, 3]. For the TGC measurements，we follow the treatment in Ref. [3] which adopts the one in Ref. [26] with the addition of a universal $1 \\%$ systematical uncertainty in each bin of all differential distributions. We directly list the resultant one-sigma constraints of the anomalous TGC parameters and their correlations in Table 3. We construct the total $\\chi ^ { 2 }$ by summing over the $\\chi ^ { 2 }$ s of all measurements and perform global fits to obtain the precision reaches (one-sigma bounds) of the relevant EFT parameters. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We consider three scenarios in the global analysis. All three use the inputs on Higgsstrahlung and TGC measurements in Table 3, but different information on the measurement of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ . The first one uses only the total rate of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ . The second (third) uses the information in the $m _ { \\mathrm { r e c o i l } }$ ( $m _ { \\mathrm { r e c o i l } } ^ { p } )$ distribution, with the EFT parameters ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4f606c86b2bcb128d7c6d81e43ce4a4c08e706653f4542606cf7caa51197391.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">CEPC 240 GeV, 5ab-1,unpolarized beams</td></tr><tr><td colspan=\"2\">e+e−→hZ</td><td colspan=\"4\">e+e-→WW</td></tr><tr><td>σ(e+e-→hZ)</td><td>0.50%</td><td></td><td>uncertainty</td><td>correlation matrix</td></tr><tr><td></td><td>σ(hZ) × BR 0.24%★</td><td>8g1,z</td><td>6.4 × 10-3</td><td>8g1,z SKy 入z 0.068</td></tr><tr><td>h→bb h→cc h→gg h→TT h →WW* h→ZZ* h→γγ</td><td>2.5% 1.2% 1.0% 1.0% 4.3% 9.0% 12%</td><td>入z Angular observables in</td><td>3.5 × 10-3 6.3 × 10-3</td><td>1 -0.93 1 -0.40 1</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Table 3: A summary of the measurement inputs from $e ^ { + } e ^ { - } \\to h Z$ and $e ^ { + } e ^ { - } \\to W W$ at CEPC $2 4 0 \\mathrm { G e V }$ used in the EFT fit,assuming a total luminosity of $5 \\mathrm { a b } ^ { - 1 }$ and unpolarized beams. Inputs on rate measurements of $e ^ { + } e ^ { - } \\to h Z$ are from Ref. [25] which updates the estimations in the preCDR [5]. For the precision of $\\sigma ( h Z ) \\times \\mathrm { B R } ( h \\to b \\bar { b } )$ (marked by a star $\\star$ )，we have excluded the contribution from $e ^ { + } e ^ { - } \\to h Z , Z \\to \\nu \\bar { \\nu } , h \\to b b$ to avoid double counting with $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h , h \\to b b$ . The angular observables in $e ^ { + } e ^ { - } \\to h Z$ ， $h $ $b \\bar { b }$ ， $Z \\to \\ell ^ { + } \\ell ^ { - }$ are included, assuming a $6 0 \\%$ signal selection effciency. The constraints on aTGC parameters from measurements of $e ^ { + } e ^ { - } \\to W W$ are obtained following the treatments in Ref. [3]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "directly fitted to the binned distributions. We also compare the reach with the more conventional method of fitting the EFT parameters to the extracted precisions of $h Z$ and WW-fusion cross sections in Section 2, ignoring the correlation between the two cross sections (which is often not reported). Since the background is assumed to be SM-like in the EFT analysis,5 for the extracted precision of cross sections we also use the results of the two-parameter fit with fixed background, shown on the right panel of Table 2. The results of the 11-parameter fit are presented in Fig.5. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Comparing the reaches of the three scenarios (shown by the orange, blue and cyan columns in Fig.5)，we indeed observe a non-negligible improvement on the overall reach if theinformation inthe $m _ { \\mathrm { r e c o i l } }$ $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribtiedIta on the parameter $\\delta c _ { Z }$ (corresponding to a shift in the SM $h Z Z$ and $h W W$ couplings） is improved by more than $1 0 \\%$ Consequently,thereachon $\\bar { c } _ { g g } ^ { \\mathrm { e f f } }$ ， $\\delta y _ { c }$ ， $\\delta y _ { b }$ and $\\delta y _ { \\tau }$ ，which contribute to the Higgs decay to $g y$ ， $c c$ ， $b \\bar { b }$ and $\\tau \\bar { \\tau }$ , have also been improved by a similar (or slightly less) factor. The reach with the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution is better than the one with $m _ { \\mathrm { r e c o i l } }$ as we expected. However, the relative improvement from $m _ { \\mathrm { r e c o i l } }$ to $m _ { \\mathrm { r e c o i l } } ^ { p }$ turns out to be very marginal. We also find that, if fitting the EFT parameters to the extracted cross sections $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ without taking count of their correlation (the results are shown with light shades for the 2nd and 3rd columns)， the reaches are worse than the ones from direct fitting the EFT parameters to the distributions,in particular for the $m _ { \\mathrm { r e c o i l } }$ distribution. This is because, as shown in Section 2, the uncertainties of $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ have a large correlation between them due to the diffculty in separating the two, in particular for the $m _ { \\mathrm { r e c o i l } }$ distrubiton. This correlation is usually not reported in official documents,and the omission of it could lead to a considerable impact on the overall reach. It should be noted that, our results using only the total rate of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ is worse than the corresponding ones in Ref.[3]. This is because our estimations on the rate measurement of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ is more conservative than the one in Ref. [3], which is derived from the CEPC preCDR [5]. If the overall cross section measurement of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ （20 can be improved (e.g. by optimizing the selection cuts)，we expect the use of $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions would also bring a more significant improvement on the overall reach of the EFT fit. We have also chosen very conservative bin sizes to control the uncertainties in each bin from simulation. Further optimizations of the analysis may also provide substantial improvements on the reach with the $I I l _ { \\mathrm { T e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/92a762211e1bc0acf076d684e7dbb25f90602331ba25d76c5bd47912f91ec17e.jpg",
+        "img_caption": [
+            "Figure 5: The one-sigma precision reach of the 11-parameter ft in the EFT framework at CEPC $2 4 0 \\mathrm { G e V }$ with $\\mathrm { 5 a b ^ { - 1 } }$ data and unpolarized beams. See Appendix A for the definitions of parameters. Three scenarios are shown which difer on the information used for the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ measurement. The first one uses only the total rate of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ The second (third) one uses the $m _ { \\mathrm { r e c o i l } }$ $( m _ { \\mathrm { r e c o i l } } ^ { p } )$ distribution, and contain two sub-scenarios. The one shown by the light shaded columns uses the extracted precisions of $\\sigma _ { h Z }$ and $\\sigma _ { W W  h }$ in Section 2 (the two-parameter ft on the right panel of Table 2, correlation ignored). The one shown by the solid columns is obtained from a direct fit to the binned $m _ { \\mathrm { r e c o i l } }$ $( m _ { \\mathrm { r e c o i l } } ^ { p } )$ distribution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We also find that, if the TGCs can be measured with much better precisions such as the ones in Ref. [4] for ILC 250 GeV (which are one order of magnitude better than the ones in Table 3),or if multiple runs with different beam polarizations are available (also likely to be the case for ILC),the improvement from the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions with respect to using only the total rate of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ becomes rather insignificant. This is not surprising, since very precise TGC measurements can effctively remove two degrees of freedom in the fit so that there is less need for additional handles to discriminate the parameters. The interference term of the $e ^ { + } e ^ { - } \\to h Z$ diagram with an $s$ -channel $Z$ （20 and the one with an $s$ -channel photon is also sensitive to the beam polarization，which can help probe the operators that contribute to this interference [3, 4]. In general, once a sufficient number of constraints are included in a global analysis, the overall precision reach is expected to be less sensitive to the impact of a single measurement, such as the one of $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ . It is nevertheless important to optimize the measurements in order to maximize the sensitivity to new physics. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4Applications on the inclusive $h Z$ measurements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "While we have focused on the $W W$ -fusion measurements in the previous two sections,a question of great interest is whether the variable $m _ { \\mathrm { r e c o i l } } ^ { p }$ could be applied to improve the inclusive measurement of $e ^ { + } e ^ { - } \\to h Z$ ， where the decay product of $Z$ are tagged instead. While suffering from the jet resolution, the hadronic $Z$ decay channel provides a slightly better measurement on $\\sigma ( Z h )$ than the leptonic one, thanks to its large branching ratio.6 An improved measurement of the hadronic $Z$ channel could thus have a significant impact on the overall precision reach of $\\sigma ( h Z )$ . It is straightforward to write down the recoil mass and its two variations for the reconstruction of the Higgs mass in $e ^ { + } e ^ { - } \\to h Z$ ，which are ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { m _ { \\mathrm { r e c o i l } } ^ { 2 } = s - 2 \\sqrt s E _ { Z } ^ { \\mathrm { r e c } } + ( m _ { Z } ^ { \\mathrm { r e c } } ) ^ { 2 } , } } \\\\ { { } } & { { } } & { { ( m _ { \\mathrm { r e c o i l } } ^ { E } ) ^ { 2 } = s - 2 \\sqrt s E _ { Z } ^ { \\mathrm { r e c } } + m _ { Z } ^ { 2 } , } } \\\\ { { } } & { { } } & { { ( m _ { \\mathrm { r e c o i l } } ^ { p } ) ^ { 2 } = s - 2 \\sqrt s \\sqrt { m _ { Z } ^ { 2 } + | \\vec { p } _ { Z } ^ { \\mathrm { r e c } } | ^ { 2 } } + m _ { Z } ^ { 2 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { Z } ^ { \\mathrm { r e c } }$ ， $\\vec { p } _ { Z } ^ { \\mathrm { r e c } }$ and $m _ { Z } ^ { \\mathrm { r e c } }$ are the reconstructed energy, 3-momentum and invariant mass of the $Z$ from the two jets, while $m _ { Z }$ is the true $Z$ mass, fixed to be 91.19 GeV. Similar to Eq. (2.9),wederive thedeviations inthemeasured $m _ { \\mathrm { r e c o i l } }$ ， $m _ { \\mathrm { r e c o i l } } ^ { E }$ ， $m _ { \\mathrm { r e c o i l } } ^ { p }$ as a function of the deviations in the measured $Z$ energy and 3-momentum to be ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\delta _ { m } \\ / \\ \\delta _ { m } ^ { E } \\ / \\ \\delta _ { m } ^ { p } \\approx \\left\\{ - 0 . 9 1 \\delta _ { E } - 0 . 1 7 \\delta _ { p } \\ / \\ - 1 . 6 \\delta _ { E } \\ / \\ - 0 . 3 9 \\delta _ { p } \\qquad \\mathrm { a t ~ 2 4 0 G e V }  \\\\ { - 0 . 9 9 \\delta _ { E } - 0 . 2 5 \\delta _ { p } \\ / \\ - 1 . 8 \\delta _ { E } \\ / \\ - 0 . 5 6 \\delta _ { p } \\qquad \\mathrm { a t ~ 2 5 0 G e V } } \\end{array} \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { m }$ ， $\\delta _ { m } ^ { E }$ and $\\delta _ { m } ^ { p }$ are defined as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l } & { \\imath _ { \\mathrm { r e c o i l } } = } & { m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } ( 1 + \\delta _ { m } ) , } & & { m _ { \\mathrm { r e c o i l } } ^ { E } = m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } ( 1 + \\delta _ { m } ^ { E } ) , } & & { m _ { \\mathrm { r e c o i l } } ^ { p } = m _ { \\mathrm { r e c o i l } } ^ { \\mathrm { t r u e } } ( 1 + \\delta _ { m } ^ { p } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbf4040aabe57402ac7617e2730770286f7203526d5d66c0cfeb2f005e441361.jpg",
+        "img_caption": [
+            "Figure 6: The distributions of $\\delta _ { E }$ and $\\delta _ { p }$ of the reconstructed $Z$ (defined in Eq.(4.4)） in $e ^ { + } e ^ { - } \\to h Z , Z \\to q \\bar { q }$ at CEPC $2 4 0 \\mathrm { G e V }$ after applying a $Z$ -mass-window cut of $7 0 \\mathrm { G e V } <$ $m _ { q \\bar { q } } < 1 1 0 \\mathrm { G e V }$ (left）or $8 0 \\mathrm { G e V } < m _ { q \\bar { q } } < 9 5 \\mathrm { G e V \\ ( r i g h t ) }$ . The Higgs is forced to decay invisibly in the simulation to ensure the correct reconstruction of $Z$ . A radius of $R = 0 . 5$ （204号 is used in the jet clustering algorithm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "with mtrue trcoil = mh. For δE and δp, the definitions are ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { Z } ^ { \\mathrm { r e c } } = \\ E _ { Z } \\big ( 1 + \\delta _ { E } \\big ) , \\qquad | \\vec { p } _ { Z } ^ { \\mathrm { r e c } } | = | \\vec { p } _ { Z } | \\big ( 1 + \\delta _ { p } \\big ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { Z }$ and ${ \\vec { p } } _ { Z }$ are the true energy and 3-momentum of the $Z$ . Similar to Eq. (2.9), in Eq.(4.2) the coefficients of $\\dot { \\delta _ { p } }$ is also smaller than the ones of $\\delta _ { E }$ ， but with a suppression factor of $\\sim | \\vec { p } _ { Z } | ^ { 2 } / E _ { Z } ^ { 2 }$ instead. The distributions of $\\delta _ { E }$ and $\\dot { \\delta _ { p } }$ for the reconstructed $Z$ are shown in Fig.6,with the details of simulation stated later in this section. Note that the cut on the $Z$ -mass window has a strong impact on the distributions of $\\delta _ { E }$ and $\\dot { \\delta _ { p } }$ .For larger deviations of the measured energy and momentum from the true ones, the invariant mass also tends to be further away from its true value. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "To compare the reconstruction power of $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ on the Higgs mass， we perform a simple analysis using the simulation tools listed in Section 2. One important difference here is that for Higgs inclusive measurement with $Z \\to q { \\bar { q } }$ ， the final states could contain additional jets from Higgs decay, making it more diffcult to reconstruct the $Z$ . Due to the additional jets, we set the jet radius to $R = 0 . 5$ in order to reduce the contamination among the jets. For an event with more than two jets,we choose the pair of jets with an invariant mass that is closest to the value of $Z$ mass. We then apply a $Z$ -mass-window cut on the invariant mass of the jet pair, $m _ { q \\bar { q } }$ ，intended for removing backgrounds. The difference between $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ is strongly correlated with the size of the $Z$ window - in the limit that the invariant mass equals the actual $Z$ mass, $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ become equivalent. We therefore consider both a larger window, $7 0 \\mathrm { G e V } < m _ { q \\bar { q } } < 1 1 0 \\mathrm { G e V }$ , and a smaller one, $8 0 \\mathrm { G e V } <  { m _ { q \\bar { q } } } < 9 5 \\mathrm { G e V }$ 7. The distributions of $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ for $e ^ { + } e ^ { - } \\to h Z , Z \\to q \\bar { q }$ after the selection cuts are shown in Fig.7 for CEPC 240 GeV.To estimate the impact of the combinatorial problem in the reconstruction of $Z$ ，we first consider a case in which the Higgs is forced to decay invisibly in the simulation. The only purpose of the invisible decay is to avoid having additional jets from the Higgs decay and ensure a clear identification of the $Z$ jet-pair. The results are shown on the top panels of Fig.7 for the two choices of $Z$ -mass-window cuts. For this ideal case, it is clearly that $m _ { \\mathrm { r e c o i l } } ^ { p }$ has a significantly narrower spread and provides a much better reconstruction of the Higgs mass than $m _ { \\mathrm { r e c o i l } }$ does. The improvement with $m _ { \\mathrm { r e c o i l } } ^ { p }$ is more significant if a large $Z$ -mass window cut is applied as we expected. For the realistic case with Higgs inclusive decays, the distributions are shown in the bottom panels of Fig.7. The reconstruction of the Higgs mass is worse for both $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions due to the wrong jet-pairing. However, $m _ { \\mathrm { r e c o i l } } ^ { p }$ still has a better performance than $m _ { \\mathrm { r e c o i l } }$ ， so its usefulness is not washed out by the combinatorial problem. We also note that, due to the lack of jet energy correction mentioned in Section 2， our distributions of $m _ { \\mathrm { r e c o i l } }$ （204号 peak around $1 3 0 \\mathrm { G e V }$ rather than 125 GeV. While the central values of the distributions can be corrected， we expect $m _ { \\mathrm { r e c o i l } } ^ { p }$ to still have a better performance than $m _ { \\mathrm { r e c o i l } }$ after the implementation of jet energy corrections due to the parametric suppression on the ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc550d3980f3049fe0e92ace0f47c90519dde7aa284811fdd0a13ec938b4b44f.jpg",
+        "img_caption": [
+            "Figure 7: Top row: The distributions of $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ for $e ^ { + } e ^ { - } \\to h Z , Z \\to q \\bar { q }$ at CEPC $2 4 0 \\mathrm { G e V }$ . The Higgs is forced to decay invisibly in the simulation to avoid the combinatorial problem. Bottom row: The same distributions with Higgs inclusive decay. The left and right panels differ on the $Z$ -mass-window cut,which is $7 0 \\mathrm { G e V } <$ $m _ { q \\bar { q } } < 1 1 0 \\mathrm { G e V }$ $\\mathrm { ^ { \\prime } 8 0 G e V } < m _ { q \\bar { q } } < 9 5 \\mathrm { G e V } ,$ ）for the left (right）panels. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "CEPC 240GeV,70GeV<mqq<110GeV CEPC240GeV,80GeV<mqq<95GeV   \n0.030 0.035   \n0.025 0.030   \n0.020 0.025   \n0.015 0.020   \n0.010 WW→qqqq, mPecoil 0.015 WW→qq可,mPecoil · WW→qqq, mrecoil 0.010 WW→qqqq, mrecoil   \n0.005 0.005   \n0.000 0.000 100 110 120 130 140 150 100 110 120 130 140 150 Mrecoil & mPecoil [GeV] mrecoil & mPecoi [GeV] ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "uncertainties of $m _ { \\mathrm { r e c o i l } } ^ { p }$ near the $h Z$ threshold. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Sincethebackgoevetsdotveigsintedootette $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution of them to accumulate around the Higgs mass. As a simple estimation， we show the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions for one of the main backgrounds, $W ^ { + } W ^ { - }  q \\bar { q } q \\bar { q }$ （20 in Fig 8, also for both choices of the $Z$ -mass-window cuts. It is interesting to notice that for the larger $Z$ mass window, $m _ { \\mathrm { r e c o i l } } ^ { p }$ actually reduces the background events in the region of ${ \\sim } 1 0 0 \\mathrm { - } 1 2 0 \\mathrm { G e V }$ ，while for the smaller window, the $m _ { \\mathrm { r e c o i l } }$ and $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions are very similar. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Our study shows that the $m _ { \\mathrm { r e c o i l } } ^ { p }$ variable could better reconstruct the Higgs mass for the signal and does not have the same efect on backgrounds. As such,we expect it to provide a significant improvement on the inclusive cross section measurements of the Higgsstrahlung process compared with the conventional recoil mass variable $m _ { \\mathrm { r e c o i l } }$ ： Needless to say, such an improvement is crucially relevant to the studies of the Higgs boson properties. We also find a similar behavior of the signal and background distributions at the ILC 250 GeV, the results of which are not specifically shown. Since we have only performed a simplified simulation analysis and have not considered some of the important backgrounds, we will restrain ourselves from doing any quantitative analysis on the inclusive $\\sigma ( h Z )$ measurements and leave it for the experimental groups who have better tools for such an analysis. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we explore the use of the recoil mass and its variations in the measurements of the $W W$ -fusion process at a lepton collider with a center of mass energy of 240-250 GeV. We found the variable $m _ { \\mathrm { r e c o i l } } ^ { p }$ ,constructed using onlythe 3-momenta of the Higgs decay products, can better separate Higgsstrahlung events with an invisible $Z$ from the WWfusion events than the original recoil mass $m _ { \\mathrm { r e c o i l } }$ does,with an improvement up to 20- $3 0 \\%$ on the precision of the $W W$ -fusion cross section. We study its impact in both the conventional framework and the efective-field-theory one. In the conventional framework, a better precision on the $W W$ -fusion cross section leads to a significant improvement on the constraints of the $h W W$ coupling and the total Higgs width. In a global analysis under the effective-field-theory framework, using the information in the $m _ { \\mathrm { r e c o i l } }$ or $m _ { \\mathrm { r e c o i l } } ^ { p }$ distributions could improve the reach on some of the EFT parameters by more than $1 0 \\%$ compared with just using the total rate of the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ channel. We find that fitting the EFT parameters directly to the binned distributions gives the best precision reach. On the other hand, if the EFT parameters are fitted to the precisions of the WWfusion and $h Z , Z \\to \\nu \\bar { \\nu }$ cross sections extracted from the $m _ { \\mathrm { r e c o i l } }$ distribution, the precision reach could suffer from the large correlation between the two cross sections if it is not taken count of.Wealso explorethe useof $m _ { \\mathrm { r e c o i l } } ^ { p }$ in_the inclusive measurements of the Higgsstrahlung process ( $e ^ { + } e ^ { - } \\to h Z ;$ ）with hadronic $Z$ s and find that it can significantly improve the reconstruction of the Higgs at a center of mass energy of 240-250 GeV. The use of $m _ { \\mathrm { r e c o i l } } ^ { p }$ could therefore potentially lead to an improvement on the overall precision of the inclusive $h Z$ cross section measurements. The construction of $m _ { \\mathrm { r e c o i l } } ^ { p }$ is also extremely simple and does not require any additional measurements. It should be straightforward to implement $m _ { \\mathrm { r e c o i l } } ^ { p }$ in any studies that make use of the recoil mass distribution. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We thank Tao Liu, Zhen Liu and Yan Wang for useful discussons and valuable comments on the manuscript. JG is supported by an International Postdoctoral Exchange Fellowship Program between the Office of the National Administrative Committee of Postdoctoral Researchers of China (ONACPR) and DESY. YYL is supported by Hong Kong PhD Fellowship (HKPFS) and the Collaborative Research Fund (CRF） under Grant No HUKST4/CRF/13G. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A The“12 (or 11)-parameter” effective-field-theory framework ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We follow the framework in Ref. [3] which uses the Higgs basis,proposed in Ref. [27] and applied also in the studies of LHC Higgs measurements in Refs. [28, 24]. We focus on CP-even dimension-6 (D6) operators and omit the ones that induce fermion dipole interactions. We also assume the $Z$ -pole observables and $W$ mass to be SM-like,given that they are already very well constrained by LEP and can be further constrained with a $Z$ -pole run at the future lepton colliders. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The relevant parts in the Lagrangian of the SM and D6 operators are ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } \\supset \\mathcal { L } _ { h V V } + \\mathcal { L } _ { h f f } + \\mathcal { L } _ { \\mathrm { t g c } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where the Higgs boson couplings to a pair of SM gauge bosons are given by ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } } _ { h V V } = \\frac { h } { v } \\biggl [ ( 1 + \\delta c _ { W } ) \\frac { g ^ { 2 } v ^ { 2 } } { 2 } W _ { \\mu } ^ { + } W ^ { - \\mu } + ( 1 + \\delta c _ { Z } ) \\frac { ( g ^ { 2 } + g ^ { 2 } ) v ^ { 2 } } { 4 } Z _ { \\mu } Z ^ { \\mu } } } \\\\ { { \\displaystyle ~ + c _ { W W } \\frac { g ^ { 2 } } { 2 } W _ { \\mu \\nu } ^ { + } W ^ { - \\mu \\nu } + c _ { W \\perp } g ^ { 2 } ( W _ { \\mu } ^ { - } \\partial _ { \\nu } W ^ { + \\mu \\nu } + \\mathrm { h . c . } ) } } \\\\ { { \\displaystyle ~ + c _ { g g } \\frac { g _ { s } ^ { 2 } } { 4 } G _ { \\mu \\nu } ^ { a } G ^ { a \\mu \\nu } + c _ { \\gamma \\gamma } \\frac { e ^ { 2 } } { 4 } A _ { \\mu \\nu } A ^ { \\mu \\nu } + c _ { Z \\gamma } \\frac { e \\sqrt { g ^ { 2 } + g ^ { \\prime 2 } } } { 2 } Z _ { \\mu \\nu } A ^ { \\mu \\nu } } } \\\\ { { \\displaystyle ~ + c _ { Z Z } \\frac { g ^ { 2 } + g ^ { \\prime 2 } } { 4 } Z _ { \\mu \\nu } Z ^ { \\mu \\nu } + c _ { Z \\perp } g ^ { 2 } Z _ { \\mu } \\partial _ { \\nu } Z ^ { \\mu \\nu } + c _ { \\gamma \\perp } g g ^ { \\prime } Z _ { \\mu } \\partial _ { \\nu } A ^ { \\mu \\nu } \\biggr ] ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The parameters in Eq.(A.2) are not all independent. Four constraints can be written down by imposing gauge invariances, which we choose to rewrite $\\delta c _ { W }$ ， $c _ { W W }$ ， $c _ { W \\sqcup }$ and $c _ { \\gamma \\boxminus }$ （20 as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { \\delta c _ { W } = \\delta c _ { Z } + 4 \\delta m , } } \\\\ { { } } & { { } } & { { c _ { W W } = c _ { Z Z } + 2 s _ { \\theta _ { W } } ^ { 2 } c _ { Z \\gamma } + s _ { \\theta _ { W } } ^ { 4 } c _ { \\gamma \\gamma } , } } \\\\ { { } } & { { } } & { { c _ { W \\perp } = \\displaystyle { \\frac { 1 } { g ^ { 2 } - g ^ { \\prime 2 } } \\left[ g ^ { 2 } c _ { Z \\perp } + g ^ { \\prime 2 } c _ { Z Z } - e ^ { 2 } s _ { \\theta _ { W } } ^ { 2 } c _ { \\gamma \\gamma } - ( g ^ { 2 } - g ^ { \\prime 2 } ) s _ { \\theta _ { W } } ^ { 2 } c _ { Z \\gamma } \\right] } , } } \\\\ { { } } & { { } } & { { c _ { \\gamma \\perp } = \\displaystyle { \\frac { 1 } { g ^ { 2 } - g ^ { \\prime 2 } } \\left[ 2 g ^ { 2 } c _ { Z \\perp } + ( g ^ { 2 } + g ^ { \\prime 2 } ) c _ { Z Z } - e ^ { 2 } c _ { \\gamma \\gamma } - ( g ^ { 2 } - g ^ { \\prime 2 } ) c _ { Z \\gamma } \\right] } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta m$ can only be induced by custodial symmetry breaking effects and is set to zero in our framework. For the Yukawa couplings, we focus on the ones of $t , c , b , \\tau , \\mu$ parameterized as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { h f f } = - \\frac { h } { v } \\sum _ { f = t , c , b , \\tau , \\mu } m _ { f } ( 1 + \\delta y _ { f } ) \\bar { f } _ { R } f _ { L } + \\mathrm { h . c . } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The possble flavor violating Yukawa couplings from new physics are not considered. The anomalous triple gauge couplings (aTGCs) are parameterized as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { L } _ { \\mathrm { t g c } } = \\ } & { \\ i g s _ { \\theta _ { W } } A ^ { \\mu } ( W ^ { - \\nu } W _ { \\mu \\nu } ^ { + } - W ^ { + \\nu } W _ { \\mu \\nu } ^ { - } ) } \\\\ & { + i g ( 1 + \\delta g _ { 1 } ^ { Z } ) c _ { \\theta _ { W } } Z ^ { \\mu } ( W ^ { - \\nu } W _ { \\mu \\nu } ^ { + } - W ^ { + \\nu } W _ { \\mu \\nu } ^ { - } ) } \\\\ & { + i g \\left[ ( 1 + \\delta \\kappa _ { Z } ) c _ { \\theta _ { W } } Z ^ { \\mu \\nu } + ( 1 + \\delta \\kappa _ { \\gamma } ) s _ { \\theta _ { W } } A ^ { \\mu \\nu } \\right] W _ { \\mu } ^ { - } W _ { \\nu } ^ { + } } \\\\ & { + \\frac { i g } { m _ { W } ^ { 2 } } ( \\lambda _ { Z } c _ { \\theta _ { W } } Z ^ { \\mu \\nu } + \\lambda _ { \\gamma } s _ { \\theta _ { W } } A ^ { \\mu \\nu } ) W _ { \\nu } ^ { - \\rho } W _ { \\rho \\mu } ^ { + } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where $V _ { \\mu \\nu } \\equiv \\partial _ { \\mu } V _ { \\nu } - \\partial _ { \\nu } V _ { \\mu }$ for $V ~ = ~ W ^ { \\pm }$ ， $Z$ ， $A$ . Gauge invariance further imposes the relations $\\delta \\kappa _ { Z } = \\delta g _ { 1 , Z } - t _ { \\theta _ { W } } ^ { 2 } \\delta \\kappa _ { \\gamma }$ and $\\lambda _ { Z } = \\lambda _ { \\gamma }$ .This leaves three independent aTGC parameters, which we choose to be $\\delta g _ { 1 , Z }$ ， $\\delta \\kappa _ { \\gamma }$ and $\\lambda _ { Z }$ . Two of them, $\\delta g _ { 1 , Z }$ and $\\delta \\kappa _ { \\gamma }$ ，are related to the Higgs parameters and can be written as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\eta _ { 1 , Z } = \\displaystyle \\frac { 1 } { 2 ( g ^ { 2 } - g ^ { \\prime 2 } ) } \\left[ - g ^ { 2 } ( g ^ { 2 } + g ^ { \\prime 2 } ) c _ { Z \\perp } - g ^ { \\prime 2 } ( g ^ { 2 } + g ^ { \\prime 2 } ) c _ { Z Z } + e ^ { 2 } g ^ { \\prime 2 } c _ { \\gamma \\gamma } + g ^ { \\prime 2 } ( g ^ { 2 } - g ^ { \\prime 2 } ) \\right] , } } \\\\ { { \\delta \\kappa _ { \\gamma } = { { \\bf \\kappa } \\displaystyle - \\frac { g ^ { 2 } } { 2 } \\left( c _ { \\gamma \\gamma } \\displaystyle \\frac { e ^ { 2 } } { g ^ { 2 } + g ^ { \\prime 2 } } + c _ { Z \\gamma } \\displaystyle \\frac { g ^ { 2 } - g ^ { \\prime 2 } } { g ^ { 2 } + g ^ { \\prime 2 } } - c _ { Z Z } \\right) . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "To summarize, in our framework the contribution from D6 operators to the Lagrangian in Eq.(A.1) can be parametrized by the following l2 parameters: ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta c _ { Z } , c _ { Z Z } , c _ { Z \\perp } , c _ { \\gamma \\gamma } , c _ { Z \\gamma } , c _ { g g } , \\delta y _ { t } , \\delta y _ { c } , \\delta y _ { b } , \\delta y _ { \\tau } , \\delta y _ { \\mu } , \\lambda _ { Z } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Also following Ref. [3, 28, 24],we consider the EFT contribution to the $h \\gamma \\gamma$ and $h Z \\gamma$ vertices at the tree level, in which case the only EFT parameter that contributes to the decay rate of $h  \\gamma \\gamma$ 0 $\\mathit { \\Delta } h \\to \\mathit { Z } \\gamma )$ is $c _ { \\gamma \\gamma }$ $\\left( c _ { Z \\gamma } \\right)$ .For the decay $h  g g$ ， we include, in addition to $c _ { g g }$ , the contributions of $\\delta { y } _ { t }$ and $\\delta y _ { b }$ , which enter the hgg vertex by modifying the Yukawa couplings in the fermion loops. It is also convenient to normalize $c _ { \\gamma \\gamma }$ ， $c _ { Z \\gamma }$ （204号 and $c _ { g g }$ with respect to the SM 1-loop contributions. We follow Ref. [3] and define the following parameters ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\Gamma _ { \\gamma \\gamma } } { \\Gamma _ { \\gamma \\gamma } ^ { \\mathrm { S M } } } \\simeq 1 - 2 \\bar { c } _ { \\gamma \\gamma } , \\qquad \\frac { \\Gamma _ { Z \\gamma } } { \\Gamma _ { Z \\gamma } ^ { \\mathrm { S M } } } \\simeq 1 - 2 \\bar { c } _ { Z \\gamma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\Gamma _ { g g } } { \\Gamma _ { g g } ^ { \\mathrm { S M } } } \\simeq 1 + 2 \\bar { c } _ { g g } ^ { \\mathrm { e f f } } \\simeq 1 + 2 \\bar { c } _ { g g } + 2 . 1 0 \\delta y _ { t } - 0 . 1 0 \\delta y _ { b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "where $\\bar { c } _ { \\gamma \\gamma }$ ， $c _ { Z \\gamma }$ and $c _ { g g }$ are related to the original parameters by ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { c } _ { \\gamma \\gamma } \\simeq \\frac { c _ { \\gamma \\gamma } } { 8 . 3 \\times 1 0 ^ { - 2 } } , \\qquad \\bar { c } _ { Z \\gamma } \\simeq \\frac { c _ { Z \\gamma } } { 5 . 9 \\times 1 0 ^ { - 2 } } , \\qquad \\bar { c } _ { g g } \\simeq \\frac { c _ { g g } } { 8 . 3 \\times 1 0 ^ { - 3 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, without measuring the $t { \\bar { t } } h$ process at high energies ( $\\sqrt { s } \\gtrsim 5 0 0 \\mathrm { G e V } )$ or at the LHC, the parameters $c _ { g g }$ and $\\delta { y } _ { t }$ can not be independently constrained. Since we focus on the240-250GeVrunatleptoncolliders,wreplae $c _ { g g }$ and $\\delta { y } _ { t }$ by $\\bar { c } _ { g g } ^ { \\mathrm { e f f } }$ in Eq (A.9) which parametrize the total contribution to the $h g g$ vertex. The number of parameters is thus reduced to 11,and the parameters are ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta c _ { Z } , c _ { Z Z } , c _ { Z \\perp } , \\bar { c } _ { \\gamma \\gamma } , \\bar { c } _ { Z \\gamma } , \\bar { c } _ { g g } ^ { \\mathrm { e f f } } , \\delta y _ { c } , \\delta y _ { b } , \\delta y _ { \\tau } , \\delta y _ { \\mu } , \\lambda _ { Z } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "which are used in our EFT global analysis in Section 3. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "B EFT expressions for the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ cross sections ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "We obtain the cross section of $e ^ { + } e ^ { - } ~ \\to ~ \\nu \\bar { \\nu } h$ as a function of the EFT parameters by generating events using Madgraph5 [14] with the BSMC package [29, 30]. The events are showered in Pythia [15] and passed to Delphes [16] with the ILD card for detector simulations， after which the selection cuts in Section 2 are applied. The interference between $h Z$ and $W W$ fusion are also included. The results for CEPC 240 GeV with unpolarized beams are listed as follows. For the total rate, we have ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\sigma _ { \\nu \\bar { \\nu } h } } { \\sigma _ { \\nu \\bar { \\nu } h } ^ { \\mathrm { S B } } } \\bigg | _ { 2 4 0 \\mathrm { G e V } } ^ { \\mathrm { u n p o l a r i z e d } } = 1 + 1 . 7 \\delta c _ { Z } + 1 . 3 c _ { Z Z } + 2 . 9 c _ { Z \\perp } + 0 . 0 5 1 c _ { Z \\gamma } + 0 . 1 4 c _ { \\gamma \\perp } } \\\\ { \\frac { \\sigma _ { \\nu \\bar { \\nu } h } } { \\sigma _ { \\nu \\bar { \\nu } h } ^ { \\mathrm { S B } } } \\bigg | _ { 2 4 0 \\mathrm { G e V } } ^ { \\mathrm { 1 u n p o l a r i z e d } } } \\\\ { + 0 . 2 3 \\delta c _ { W } - 0 . 0 0 2 6 c _ { W W } - 0 . 0 6 5 c _ { W \\perp } . \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Here we do not impose the gauge invariance condition from Eq.(A.3) in order to show the different dependences on the $Z$ and $W$ parameters.For the binned differential distributions of $m _ { \\mathrm { r e c o i l } }$ $( m _ { \\mathrm { r e c o i l } } ^ { p } )$ ,the numerical coefficients in Eq. (B.1) are replaced by the ones in Table 4 (Table 5). We have also checked that the statistical uncertainties from sim",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbe404940ce92226986e464fe84af71077e61bf2f299e2071ab70658d56e9c4b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">CEPC 240 GeV (with unpolarized beams) mrecoil</td></tr><tr><td></td><td colspan=\"9\"></td></tr><tr><td></td><td>75</td><td></td><td>85</td><td>90</td><td>95</td><td>100</td><td>105</td><td>110</td><td>115</td><td>130</td></tr><tr><td>gsM[fb]</td><td>0.15</td><td>0.18</td><td>0.38</td><td>0.78</td><td>1.2</td><td>1.3</td><td>1.1</td><td>0.74</td><td>0.47</td><td>0.34</td></tr><tr><td>cz</td><td>0.97</td><td>1.4</td><td>1.6</td><td>1.7</td><td>1.8</td><td>1.9</td><td>1.9</td><td>1.9</td><td>1.8</td><td>1.9</td></tr><tr><td>Czz</td><td>0.50</td><td>0.95</td><td>1.1</td><td>1.3</td><td>1.3</td><td>1.4</td><td>1.4</td><td>1.4</td><td>1.4</td><td>1.4</td></tr><tr><td>Cz</td><td>1.5</td><td>2.2</td><td>2.6</td><td>2.9</td><td>3.0</td><td>3.0</td><td>3.2</td><td>3.1</td><td>3.1</td><td>3.0</td></tr><tr><td>czq</td><td>0.021</td><td>0.035</td><td>0.044</td><td>0.051</td><td>0.052</td><td>0.054</td><td>0.056</td><td>0.056</td><td>0.055</td><td>0.055</td></tr><tr><td>Cy□</td><td>0.075</td><td>0.11</td><td>0.13</td><td>0.14</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>dcw</td><td>0.93</td><td>0.62</td><td>0.37</td><td>0.22</td><td>0.15</td><td>0.13</td><td>0.14</td><td>0.17</td><td>0.20</td><td>0.29</td></tr><tr><td>CWW</td><td>-0.011</td><td>-0.0066</td><td>-0.0038</td><td>-0.0023</td><td>-0.0016</td><td>-0.0013</td><td>-0.0013</td><td>-0.0016</td><td>-0.0019</td><td>-0.0023</td></tr><tr><td>Cw</td><td>-0.30</td><td>-0.18</td><td>-0.11</td><td>-0.060</td><td>-0.038</td><td>-0.032</td><td>-0.033</td><td>-0.036</td><td>-0.037</td><td>-0.049</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Table 4: The coefficients of the EFT parameters for the expression of $\\sigma / \\sigma _ { \\mathrm { S M } }$ of each bin of the $m _ { \\mathrm { r e c o i l } }$ distribution. The upper bound of each bin is listed in the first row. The first bin include all the events below 75 GeV. ",
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/89996a33aee3d3399e36be9fe35d5c1078396f082df52ebb15b080e2a97575ee.jpg",
+        "table_caption": [
+            "Table 5: Same as Table 4 but for the $m _ { \\mathrm { r e c o i l } } ^ { p }$ distribution. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">CEPC 240 GeV (with unpolarized beams) recoil mp</td></tr><tr><td></td><td colspan=\"9\">bin index [GeV]</td></tr><tr><td></td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>100</td><td>105</td><td>115</td></tr><tr><td>σsM[fb]</td><td>0.22</td><td>0.24</td><td>0.59</td><td>1.7</td><td>2.4</td><td>0.99</td><td>0.32</td><td>0.11</td></tr><tr><td>Scz</td><td>0.95</td><td>1.4</td><td>1.7</td><td>1.8</td><td>1.9</td><td>2.0</td><td>1.8</td><td>1.4</td></tr><tr><td>CzZ</td><td>0.54</td><td>0.99</td><td>1.2</td><td>1.3</td><td>1.4</td><td>1.4</td><td>1.4</td><td>1.0</td></tr><tr><td>Cz□</td><td>1.6</td><td>2.3</td><td>2.6</td><td>3.0</td><td>3.2</td><td>3.3</td><td>3.1</td><td>2.0</td></tr><tr><td>Czq</td><td>0.021</td><td>0.035</td><td>0.045</td><td>0.053</td><td>0.056</td><td>0.059</td><td>0.054</td><td>0.044</td></tr><tr><td>cq□</td><td>0.075</td><td>0.11</td><td>0.13</td><td>0.15</td><td>0.16</td><td>0.16</td><td>0.15</td><td>0.11</td></tr><tr><td>Scw</td><td>0.92</td><td>0.61</td><td>0.33</td><td>0.14</td><td>0.075</td><td>0.11</td><td>0.33</td><td>0.99</td></tr><tr><td>CwW</td><td>-0.0095</td><td>-0.0062</td><td>-0.0034</td><td>-0.0014</td><td>-0.00082</td><td>-0.0012</td><td>-0.0025</td><td>-0.0075</td></tr><tr><td>cw</td><td>-0.28</td><td>-0.17</td><td>-0.092</td><td>-0.037</td><td>-0.019</td><td>-0.025</td><td>-0.056</td><td>-0.13</td></tr></table></body></html>",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "ulation are under control.7 We then impose the gauge invariance condition in Eq.(A.3) and construct $\\chi ^ { 2 }$ of the $e ^ { + } e ^ { - } \\to \\nu \\bar { \\nu } h$ measurement, assuming the events follow a poisson distribution. For the total rate, we have ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\frac { N _ { \\mathrm { s i g } } ^ { 2 } \\left( 1 - \\frac { \\sigma _ { \\nu \\bar { \\nu } h } } { \\sigma _ { \\nu \\bar { \\nu } h } ^ { \\mathrm { S M } } } \\right) ^ { 2 } } { N _ { \\mathrm { s i g } } + N _ { \\mathrm { b g } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { \\mathrm { s i g } }$ and $N _ { \\mathrm { b g } }$ are the number of signal and backgrounds after cuts, normalized to $5 \\mathrm { a b } ^ { - 1 }$ for CEPC. For the binned distributions,we use Eq.(B.2) to construct the $\\chi ^ { 2 }$ of each bin where $N _ { \\mathrm { s i g } }$ and $N _ { \\mathrm { b g } }$ are the number of signal and backgrounds in the bin. We then sum over the $\\chi ^ { 2 }$ of all the bins,assuming no correlation among them. The $\\chi ^ { 2 }$ is then combined with the ones of other measurements for the global analysis in Section 3. We refer the readers to Ref. [3] for a complete set of expressions for the other relevant observables. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "[1] R. Lafaye, T. Plehn, M. Rauch, and D. Zerwas, Higgs Factories: Higgs-Strahlung versus W-Fusi0n, arXiv:1706.02174.   \n[2] J. Ellis and T. You, Sensitivities of Prospective Future e+e- Colliders to Decoupled New Physics, JHEP03 (2016) 089,[arXiv:1510.04561].   \n[3] G. Durieux, C. Grojean, J. Gu, and K. Wang, The leptonic future of the Higgs, JHEP 09 (2017) 014, [arXiv:1704.02333].   \n[4] T.Barklow,K. Fujii, S. Jung, R. Karl, J. List, T. Ogawa, M. E. Peskin, and J. Tian, Improved Formalism for Precision Higgs Coupling Fits, arXiv:1708.08912.   \n[5] CEPC-SPPC Study Group， CEPC-SPPC Preliminary Conceptual Design Report. 1. Physics and Detector (2015).   \n[6] A. Blondel, “Summary FCC-ee experiments.\" https://indico.cern.ch/event/556692/contributions/2487579/ attachments/1469993/2274251/99-Blondel-FCC-ee-summary-Berlin.pdf, 2017.   \n[7] H. Baer, T. Barklow, K. Fujii, Y. Gao,A. Hoang, S. Kanemura, J. List, H.E. Logan, A. Nomerotski, M. Perelstein, et al.， The International Linear Collider Technical Design Report - Volume 2: Physics, arXiv:1306.6352.   \n[8] D.M. Asner et al., ILC Higgs White Paper, in Proceedings, Community Summer Study 2013: Snowmass on the Mississippi (CSS2013): Minneapolis, MN, USA, July 29-August 6, 2013, 2013. arXiv:1310.0763.   \n[9] C. Dürig, K. Fujii, J. List,and J. Tian, Model Independent Determination of HWW coupling and Higgs total width at ILC, in International Workshop on Future Linear Colliders (LCWS13) Tokyo， Japan， November 11-15， 2013, 2014. arXiv:1403.7734.   \n[10] T. Barklow, J. Brau, K. Fujii, J. Gao, J. List, N. Walker, and K. Yokoya, ILC Operating Scenarios, arXiv:1506.07830.   \n[11] TLEP Design Study Working Group Collaboration, M. Bicer et al., First Look at the Physics Case of TLEP, JHEP 01 (2014) 164,[arXiv:1308.6176].   \n[12] CMS Collaboration, V. Khachatryan et al., Jet energy scale and resolution in the CMS experiment in pp collisions at 8 TeV, JINST 12 (2017), no. 02 P02014, [arXiv:1607.03663].   \n[13] ATLAS Collaboration, M. Aaboud et al., Jet energy scale measurements and their systematic uncertainties in proton-proton collisions at $\\sqrt { s } = 1 3$ TeV with the ATLAS detector, arXiv:1703.09665.   \n[14] J. Alwall, R. Frederix, S. Frixione,V. Hirschi, F. Maltoni, O. Mattelaer, H. S. Shao, T. Stelzer, P. Torrielli, and M. Zaro, The automated computation of tree-level and next-to-leading order differential cross sections, and their matching to parton shower simulations, JHEP 07 (2014) 079, [arXiv:1405.0301].   \n[15] T. Sjostrand, S. Mrenna, and P. Z. Skands, PYTHIA 6.4 Physics and Manual, JHEP05 (2006) 026,[hep-ph/0603175].   \n[16] DELPHES 3 Collaboration, J. de Favereau, C. Delaere, P. Demin, A. Giammanco, V. Lemaitre,A. Mertens,and M. Selvaggi, DELPHES 3，A modular framework for fast simulation of a generic collider experiment, JHEP 02 (2014) 057, [arXiv:1307.6346].   \n[17] H. Abramowicz et al.， The International Linear Collider Technical Design Report - Volume 4: Detectors, arXiv:1306.6329.   \n[18] N. Craig, M. Farina, M. McCullough, and M. Perelstein, Precision Higgsstrahlung as a Probe of New Physics, JHEP 03 (2015) 146, [arXiv:1411.0676].   \n[19] M. Beneke, D. Boito, and Y.-M. Wang, Anomalous Higgs couplings in angular asymmetries of $H  Z \\ell ^ { + } \\ell ^ { - }$ and $e ^ { + }$ $e ^ { - } \\to H Z$ , JHEP11（2014) 028, [arXiv:1406.1361].   \n[20] B. Henning, X. Lu, and H. Murayama, What do precision Higgs measurements buy us?, arXiv:1404.1058.   \n[21] N. Craig, J. Gu, Z. Liu, and K. Wang, Beyond Higgs Couplings: Probing the Higgs with Angular Observables at Future $e ^ { + }$ $e ^ { - }$ Colliders, JHEP 03 (2016) 050, [arXiv:1512.06877].   \n[22] J. Ells, P. Roloff, V. Sanz, and T. You, Dimension-6 Operator Analysis of the CLIC Sensitivity to New Physics, JHEP 05 (2017) 096, [arXiv:1701.04804].   \n[23] T.Barklow, K. Fuji, S. Jung, M. E. Peskin, and J. Tian， Model-Independent Determination of the Triple Higgs Coupling at e+e- Colliders, arXiv:1708.09079.   \n[24] A. Falkowski, M. Gonzalez-Alonso, A. Greljo,and D.Marzocca, Global constraints on anomalous triple gauge couplings in effective field theory approach, Phys. Rev. Lett. 116 (2016), no. 1 011801, [arXiv:1508.00581].   \n[25] M. Ruan,“Status & Updates from CEPC Simulation -Detector optimization.\" http://ias.ust.hk/program/shared_doc/2017/201701hep/HEP_20170124_ Manqi_Ruan.pdf, 2017.   \n[26] L. Bian, J. Shu, and Y. Zhang, Prospects for Triple Gauge Coupling Measurements at Future Lepton Colliders and the 14 TeV LHC, JHEP O9 (2015) 206, [arXiv:1507.02238].   \n[27] A. Falkowski, Higgs Basis: Proposal for an EFT basis choice for LHC HXSWG, LHCHXSWG-INT-2015-001 (March, 2015).   \n[28] A. Falkowski, Effective field theory approach to LHC Higgs data, Pramana 87 (2016), no. 3 39, [arXiv:1505.00046].   \n[29] B. Fuks and K. Mawatari,“The BSM Characterisation model\" http://feynrules.irmp.ucl.ac.be/wiki/BSMCharacterisation, 2015.   \n[30] A. Falkowski, B. Fuks, K. Mawatari, K. Mimasu, F. Riva, and V. sanz, Rosetta: an operator basis translator for Standard Model effective field theory, Eur. Phys. J. C75 (2015), no. 12 583, [arXiv:1508.05895]. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    }
+]

@@ -1,0 +1,153 @@
+# 光质及种子大小对普洱地区14种植物
+
+# 种子萌发的影响
+
+罗娅婷，邱其伟，崔现亮
+
+(云南省高校亚热带药用食用生物资源开发与利用重点实验室，普洱学院生物与化学学院，云南 普
+
+洱665000)
+
+摘要：以普洱地区14种常见植物种子为材料，在实验室条件下研究了其在白光、黑暗、红光和蓝光条件下的萌发特性，并分析了种子大小与萌发率、萌发速率、萌发开始时间的关系，拟为当地植物被保护提供一定的科学依据。结果表明：光质对四方蒿、沙针、尖子木、藿香蓟种子萌发率和萌发速率均有显著影响（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。光质对大叶斑鸠菊、云南山枇花、臭灵丹、车桑子、光萼猪屎豆、葫芦茶、云南地桃花、西南宿苞豆、岗柃、中国宿苞豆10个物种的种子萌发率和萌发速率均没有显著影响（ $_ { . P > 0 . 0 5 }$ ），以上物种中除中国宿苞豆外，其他物种种子萌发率均在 $20 \%$ 以下，处于休眠状态。四方蒿种子在白光（ $89 . 9 \%$ ）和红光（ $84 . 7 \%$ ）下萌发率最高，红光下种子萌发最快（4.93），蓝光下种子萌发开始时间最晚（11.3d）；沙针种子在白光下萌发率最高（ $80 . 4 \%$ ）、萌发速率最快（2.71），在黑暗和蓝光下萌发率较低（ $4 3 . 9 \%$ 和 $3 8 \%$ ）、萌发速率最慢（0.73和0.85），白光、红光下萌发开始最早（11d），黑暗条件下萌发开始最晚（21.7d）；尖子木种子萌发率在白光、黑暗、蓝光下均在 $86 \%$ 以上，而红光下仅 $32 \%$ 且萌发速率最慢（1.29），在蓝光下萌发开始时间最晚（13d）；藿香蓟种子萌发率和萌发速率在红光下最高（分别为 $71 . 3 \%$ 和6.46），黑暗条件下最低（分别为 $42 . 5 \%$ 和2.62）；大叶斑鸠菊萌发开始时间在黑暗条件下最早（6d），然后是白光下（7d），蓝光和红光下较晚，分别为8d和 $7 . 7 \mathrm { d }$ 。14个物种种子的萌发率与种子大小间均有显著负相关关系；种子萌发速率、萌发开始时间与种子大小间也有负相关关系，但不显著；种子大小与萌发率、萌发速率和萌发开始时间的关系不会随着光质的变化而发生变化。
+
+关键词：光质，蓝光，红光，萌发，种子大小 中图分类号：Q945 文献标识码：A DOI: 10.11931/guihaia.gxzw201806009
+
+# Effect of light qualities and seed size on 14 species of plants in Pu'er region
+
+LUO Yating，QIUQiwei，CUI Xianliang\* (Key Laboratory of Subtropical Medicinal Edible Resources Development and Utilization in Yunnan Province,Co llege ofBiology and Chemistry,PuerUniversity,Puer, Yunnan 665ooo,China）
+
+Abstract：Inorder to provideascientific basis for the protection of local plants,the germination characteristics o f 14 common plant seeds in Puer were studied under the conditions of white light,dark,red light and blue light,a nd the relationships between seed size and germination percentage and germination rate were analyzed. The result s showed that light qualities had significant efects on seed germination percentage and germination rate on Elsholt zia blanda,Osyris quadripartita,Oxyspora paniculata,Ageratum conyzoides $( p { < } 0 . 0 5 )$ .The quality of light had n oeffct on the germination percentage and germination rate of1O species,Vernonia volkamerifolia,Gordonia chr ysandra,Laggerapterodonta,Dodonaeaviscosa,Crotalariazanzibarica,Tadehagi triquetrum,Urena lobata,huter ia vestita,Eurya groffi $( p { > } 0 . 0 5 )$ .Among the 10 species,only the seeds of Shuteria involucrata had germinat ion rate $> 2 0 \%$ ，allothers ${ < } 2 0 \%$ .The Elsholtzia blanda seeds had the highest percentage in white $( 8 9 . 9 \% )$ ）and red light $( 8 4 . 7 \% )$ ,germinated fastest in red light(4.93)and at the latest in blue light(11.3d).The germination per centage of Osyris quadripartita seeds was the highest $( 8 0 . 4 \% )$ and their germination rate was the fastest in whit e light(2.71),the case was opposite under dark and blue light.The seeds of $O .$ quadripartitagerminated firstl y under white and red light(11d) and lastly under dark light(21.7d). The $o$ paniculata seeds had germination rate $58 6 \%$ under white and blue light and dark condition,had germination rate of $32 \%$ and germinated sl owest in red light(1.29),and germinated lastly in blue light(13d).The Ageratum conyzoides seeds had hig hest germination percentage $( 7 1 . 3 \% )$ and germination rate(6.46) in red light,lowest in dark condtion $( 4 2 . 5 \%$ （202 and2.62).The germination initiation time of Vernonia volkamerifolia was first in dark condition(6d),th en iswhite light(7d),and the last is in blue(8d)andred light(7.7d).There was a significant negative cor relation between seed germination rateand seed size in 14 species.There wasalso a negative correlation between seed germination rate,germination initiation time and seed size,but it was not significant. The relationship between seed size and germination percentage，germination rate and initiation time did not ch ange with the change of light quality.
+
+KeyWords:light quality,blue light,red light, germination,seed size
+
+种子在植物一生中具有非常重要的意义，它是一种潜在的植物群落，而且种子萌发对自身种群更新和物种延续具有非常重要的作用（张敏，2012）。种子萌发需要合适的条件，如光照、温度和水分等(闰兴富,2006；Baskin & Baskin，1998；Bewley & Black,1982;Roberts,1986），还受植物的生境（阳坡、阴坡、海拔等）和贮藏条件（冷藏、常温贮藏等）等的影响（崔现亮,2015）。
+
+光对植物非常重要，它不仅是一种能源，也是一种环境信号（Godo,2011）。光信号/质量（波长）的变化可以影响植物的各种生理过程（如细胞内和细胞间分化、种子萌发和幼苗生长、光合作用、开花等），而这种影响取决于物种、发育阶段和器官(He,2017)。在拟南芥种子萌发过程中，绿光能促进茎的早期伸长，拮抗光对生长的抑制作用，而在白光和红光下，蕨类植物可延缓由于叶绿素损失而引起的衰老(Burescu,2015)。Jala(2011)发现，白光和红光下芒草（Nepenthes mirabilis）种子最早发芽，绿光下种子最后发芽，红光下幼苗的平均出苗速度也最高。赵停等（2018）对远志种子研究发现红光能够促进其种子萌发，而种子萌发不受光照强度的影响；刘卫成等(2016)发现红光对黄瓜种子的发芽有利，蓝光则抑制种子的发芽；韦峰等(2015)研究表明红光、蓝光均能够明显促进辣椒种子的萌发，以红光效果最好；崔现亮等（2014a）研究表明红光下山梅花、南川绣线菊、高山绣线菊红光种子萌发速率最快，蓝光下萌发速率最慢，三种植物种子萌发率对光质的需求也是不一样的。而关于光质（红光、蓝光、白光、黑暗）对普洱地区大叶斑鸠菊(Vernonia volkamerifolia)、云南山枇花(Gordonia chrysandra)、臭灵丹(Laggera pterodonta)、车桑子(Dodonaea viscosa）、光萼猪屎豆(Crotalaria zanzibarica)、葫芦茶(Tadehagi triquetrum)、云南地桃花(Urena lobata)、西南宿苞豆(Shuteria vestita)、岗柃(Eurya grofii)、四方蒿(Elsholtzia blanda)、沙针(Osyrisquadripartita)、尖子木(Oxyspora paniculata)、藿香蓟(Ageratum conyzoides)、中国宿苞豆（Shuteriainvolucrata）这14种植物种子萌发影响的研究还没有报道。
+
+种子大小是种子植物很重要的特征之一。作为谱系进化并形成物种，扩散和建植生物的可能性必须以种子大小为条件，相反，种子大小的自然选择又必须以一个物种的扩散和建植生物来塑造。种子萌发是植物生活史的开始，对后续的生活史阶段有很重要的影响。处于植物生活史核心地位的种子大小势必影响植物的萌发对策(王晨阳,2011)。种子大小与萌发的关系激发了很多生态学者极大的兴趣，这种关系在整个区系内、科内、属内、种内均有研究。Haiyan Bu（2007）研究了青藏高原东缘570个物种，发现种子越大（重）萌发率越低，且种子越大（重）萌发开始时间越早；崔现亮等（2008）对青藏高原东缘43种灌木种子进行了研究，发现种子越大萌发率越低、萌发速率越慢，它们之间具有显著的负相关关系；王桔红等（2007）对中生植物和旱生植物做了比较，中生植物的种子大小与萌发率、萌发速率有显著的负相关关系，而旱生植物的种子大小与萌发率、萌发速率无关；宗文杰等（2006）发现青藏高原51种菊科植物的种子越大萌发速率越慢，且关系显著，但种子大小与种子萌发率没有关系；崔现亮等（2010）对小檗属内11种植物研究发现，种子大小与萌发率、萌发速率、萌发持续时间均显著负相关，且种子越大（重）萌发开始时间越早。这些研究都是在某个区系中进行的。而关于普洱地区区系中种子大小与萌发能力的关系还未见报道。
+
+本文对普洱地区14种常见植物种子进行研究，这14种植物均为该地区乔木层、灌木层和草本层的常见植物。拟解决问题：（1）不同光质对种子萌发特性有无影响？（2）种子大小对种子萌发有无关系，且种子大小与萌发的关系能否随着光质的变化而变化？并能够通过本研究以期对普洱地区种质资源保护提供一定的数据支持。
+
+# 1.材料与方法
+
+# 1.1研究地概况
+
+研究地位于普洱市思茅区，地处在 $2 2 ^ { \circ } 2 7 ^ { \prime }$ 一 $2 3 ^ { \circ } 0 6 ^ { \prime } \mathrm { N }$ ， $1 0 0 ^ { \circ } 1 9 ^ { \prime }$ 一 $1 0 1 ^ { \circ } 2 7 ^ { \prime } \mathrm { E }$ ，海拔578\~2154m。年均温 $1 7 . 9 ^ { \circ } \mathrm { C }$ ，年无霜期315d，年均降雨量 $1 \ : 5 1 7 . 8 \ : \mathrm { m m }$ ，属亚热带高原季风气候，具有低纬、高温、多雨、静风的特点。境内冬无严寒，夏无酷暑，山势缓和，地形较丰富(崔现亮,2014b)。
+
+# 1.2种子采集及处理
+
+种子于2016年9—12月分别采集于普洱市思茅区佛莲山和那贺水库附近山林。所研究植物种子采集海拔在 $1 2 3 8 { \sim } 1 7 0 5 \mathrm { m }$ 之间，每个物种的种子成熟后采自至少20株植物，充分混合后，自然风干，在室温条件下干燥储藏(崔现亮,2014b)。
+
+# 1.3 种子大小测定
+
+每个物种选取干燥种子1000粒3份，分别进行称重，取其平均值作为种子千粒重(崔现亮，2014a)。
+
+# 1.4 实验方法
+
+种子自然干燥储藏 $6 0 \mathrm { d }$ 后进行萌发实验。萌发温度设置为变温 $1 0 ^ { \circ } \mathrm { C } / 2 5 ^ { \circ } \mathrm { C }$ ；萌发光照条件为：白光（ $2 4 \mathrm { h }$ ）、黑暗（ $\cdot 2 4 \mathrm { h } \dot { }$ ）、红光（ $2 4 \mathrm { h }$ ，波长 $6 6 0 \mathrm { n m }$ ）、蓝光（ $2 4 \mathrm { h }$ ，波长$4 4 7 \mathrm { n m }$ ）。每个物种每一处理选取50粒饱满种子，3次重复，放入铺有2层滤纸、直径为 90mm 的培养皿中，在培养箱内进行萌发实验，期间每天加少量蒸馏水保证滤纸浸湿（崔现亮,2014a，2014c）。每 $2 4 \mathrm { h }$ 进行萌发检测，黑暗中种子萌发检测在绿光下进行，统计萌发个数，以胚芽出现视为种子发芽，并将其移走，实验持续 $4 0 \mathrm { d }$ 。实验结束后，对未萌发的种子进行活性检测（TTC 法）。在萌发期间萌发率低于 $20 \%$ ，认定该物种休眠（Jurado&Flores2005;崔现亮2014a）。
+
+# 1.5分析方法
+
+采用one-way ANOVA检验光质对萌发率、萌发速率的影响程度；各处理之间的差异情况采用最小显著差异法（LSD）进行检验；种子萌发率、萌发速率、萌发开始时间与种子大小的关系用Pearson相关分析（萌发率、萌发速率、萌发开始时间和种子大小进行反正切转换）（崔现亮，2008，2014a，2014b，2014c，2015)。主要萌发指数：萌发率，即种子萌发总数占实验末期活力种子总数的百分率 $( \% )$ ；萌发速率指数 $\langle { \mathrm { G R } } \rangle = { \mathrm { G } } _ { 1 } / { \mathrm { T } } _ { 1 } { + } { \mathrm { G } } _ { 2 } / { \mathrm { T } } _ { 2 } + . . . { + } { \mathrm { G t } } / { \mathrm { T t } } ,$ （20Tt为相应的萌发天数,Gt为t时间的萌发百分数(崔现亮，2008,2014a,2014b,2014c,2015)。统计分析使用 SPSS17.0。
+
+# 2.结果
+
+# 2.1不同光质对种子萌发的影响
+
+表114种植物种子大小及不同光质下萌发率、萌发速率和萌发开始时间Tablel Seed size and germination characteristics of 14 species under different light quality
+
+<html><body><table><tr><td></td><td></td><td colspan="10"></td><td colspan="3"></td></tr><tr><td>物种 Species</td><td>千粒重(g)</td><td colspan="4">白光 White ligt</td><td colspan="2">黑暗 Dark</td><td colspan="5">蓝光 Blue light</td><td colspan="2">红光 Red light</td></tr><tr><td>LΛ6</td><td>Seed size(g)</td><td>萌发率% Germination percentage</td><td>萌发速率 Germination rate</td><td>萌发开始时间 Days to first</td><td>萌发率% Germination</td><td>萌发速率 Germination</td><td>萌发开始时间 Days to first</td><td>萌发率% Germination</td><td>萌发速率 Germination rate</td><td>萌发开始时间 Days to first</td><td>萌发率% Germination</td><td>萌发速率 Germination rate</td><td></td><td>萌发开始时间 Days to first</td></tr><tr><td></td><td>0.52±0.02</td><td></td><td>6.0±1.6a 0.39±0.11a</td><td></td><td>7.0±0ab</td><td>17.3±7.4b</td><td>0.97±0.21b</td><td>6±0a</td><td>16.0±0ab</td><td>0.77±0.99ab</td><td>8±1b</td><td></td><td>13.3±5.7ab 0.68±0.29ab 7.7±0.6b</td><td></td></tr><tr><td>云南山枇花 ■ Gordonia chrysandra</td><td>24.25±0.69</td><td></td><td>5.3±5.0a 0.07±0.11a 35.6±14ab</td><td></td><td></td><td>4.0±5.7a</td><td>0.04±0.06a</td><td>49±1.7b</td><td>4.2±0a</td><td>0.07±0.02a</td><td>31±12.7a</td><td>20.0±8.6b</td><td>0.37±0.16b</td><td>20.3±5.8a</td></tr><tr><td>8 臭灵丹 Laggera pterodonta</td><td>0.03±0.001</td><td>3.3±2.5a</td><td>0.10±0.09a</td><td></td><td>30.7±17ab</td><td>1.3±1.9a</td><td>0.06±0.09a</td><td>39±19.1b</td><td>1.3±0a</td><td>0.02±0.02a</td><td>47.5±3.5b</td><td>4.0±1.6a</td><td>0.17±0.67a</td><td>14.7±3.2a</td></tr><tr><td>20 车桑子 Dodonaea viscosa</td><td>7.56±0.32</td><td>0a</td><td>0a</td><td></td><td></td><td>0a</td><td>0a</td><td></td><td>0.1±0.3a</td><td>0.23±0.17b</td><td>14.7±3.2</td><td>0a</td><td>0b</td><td></td></tr><tr><td></td><td>3.76±0.09</td><td>18.4±5.4a 2.99±1.41a</td><td></td><td>2±0a</td><td></td><td>12.7±2.5a</td><td>2.58±0.38a</td><td>1.7±0.6a</td><td>11.2±2.9a</td><td>2.58±0.65a</td><td>2±0a</td><td>14.0±2.8a</td><td>2.29±0.59a</td><td>2±0a</td></tr><tr><td>aanzibarica n 藿香蓟</td><td></td><td>0.09±0.003 68.8±8.7b 6.39±1.11a</td><td></td><td>3.7±0.6a</td><td>42.5±9.0a</td><td></td><td>2.62±0.55b</td><td>4±1a</td><td>62.8±5.4b</td><td>5.66±0.28b</td><td>3.3±0.6a</td><td>71.3±3.4b</td><td>6.46±0.09a</td><td>4±0a</td></tr><tr><td>Ageratum conyzoides C 葫芦茶</td><td>10.31±0.06</td><td>9.3±7.5a</td><td>1.67±1.73a</td><td>2.7±0.6a</td><td>6.7±1.9a</td><td></td><td>1.11±0.31a</td><td>3±0a</td><td>12.0±4.0a</td><td>1.42±0.47a</td><td>3±0a</td><td>12.0±3.3a</td><td>1.85±0.71a</td><td>2.3±0.6a</td></tr><tr><td>Tadehagi triquetrum 云南地桃花</td><td>1.46±0.06</td><td></td><td></td><td>2.0±1.6a 0.15±0.22a 25.3±22.8a</td><td>0a</td><td></td><td>0a</td><td></td><td>2.0±1.6a</td><td>0.11±0.09a</td><td>22.7±24a</td><td>0a</td><td>0a</td><td></td></tr><tr><td>Urena lobata 西南宿苞豆 Shuteria vestita</td><td></td><td>4.07±0.09 8.0±4.3a</td><td></td><td>0.71±0.37a 3.3±0.6a</td><td>9.3±3.4a</td><td>0.69±0.12a</td><td>4±0a</td><td></td><td>4.0±3.7a</td><td>0.47±0.38a</td><td>3±0a</td><td>4.7±0.9a</td><td>0.53±0.09a</td><td>3.7±1.2a</td></tr><tr><td>中国宿苞豆 Shuteria involucrata</td><td></td><td>39.0±20.8 6.49±0.74</td><td></td><td>2.83±1.82a 4±0a</td><td>24.8±9.8a</td><td>1.33±0.83a</td><td></td><td>13±15.6a</td><td>33.8±13.8a</td><td>1.24±0.69a</td><td>8.5±6.4a</td><td>12.0±8.6a</td><td>1.03±0.74a</td><td>7.3±5.8a</td></tr><tr><td>四方蒿 Elsholtzia blanda</td><td></td><td>a 0.08±0.002 89.9±9.3a 3.83±1.06a</td><td></td><td>5±0a</td><td>44.3±2.9b</td><td></td><td>2.87±0.58a</td><td>5±0a</td><td>61.6±7.3b</td><td>1.36±0.13b 11.3±0.6b 84.7±9.4a</td><td></td><td></td><td>4.93±0.77b</td><td>5±0a</td></tr><tr><td>沙针</td><td></td><td>0.02±0.005 80.4±5.8a 2.71±0.28a</td><td></td><td>11±0a</td><td>43.9±1.4b</td><td></td><td>0.73±0.06b</td><td>21.7±4.6b</td><td>38.0±2.0b</td><td>0.85±0.02b</td><td>16±0c</td><td>70.8±4.7a</td><td>2.43±0.10b</td><td>11±0a</td></tr><tr><td>Osyris quadripartita 尖子木</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Oxyspora paniculata</td><td>0.09±0.002 89.3±8.2b 3.52±0.34b</td><td></td><td></td><td>11.7±0.6a</td><td>87.5±3.4b</td><td></td><td>3.53±0.13b</td><td>11±0a</td><td>86.5±10.8b</td><td>2.88±0.39c</td><td>13±0b</td><td>32.0±4.3a</td><td>1.29±0.12a</td><td>11.7±1.2a</td></tr></table></body></html>
+
+<html><body><table><tr><td>岗柃 Eurya groffi</td><td>0.77±0.01</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注：同种同一类别中，同一指标字母相同表示差异不显著 $( P { > } 0 . 0 5 )$ ，字母不同表示差异显著（ $_ { \cdot } P { < } 0 . 0 5 )$ ）。
+
+Note：In the same category,the same index letter indicates that the diffrence was not significant $( P { > } 0 . 0 5 )$ ,while the difference in letters indicates that the difference was significant $( P < 0 . 0 5 )$ ！
+
+# 2.1.1光质对种子萌发率的影响
+
+14 种植物中，大叶斑鸠菊、云南山枇花、臭灵丹、车桑子、光萼猪屎豆、葫芦茶、云南地桃花、西南宿苞豆、岗柃9个物种的种子在红光、蓝光、白光和黑暗条件下的萌发率均小于 $20 \%$ （表1）。
+
+单因素方差分析显示，光质对四方蒿、沙针、尖子木种子萌发率有极显著的影响（ $_ { _ { P < 0 . 0 0 1 } }$ ），对藿香蓟种子萌发率有显著影响（ $\scriptstyle P < 0 . 0 5 ,$ ）；光质对大叶斑鸠菊、云南山枇花、臭灵丹、车桑子、光萼猪屎豆、葫芦茶、云南地桃花、西南宿苞豆、岗柃、中国宿苞豆10 个物种的种子萌发率均没有显著影响（表2）。
+
+四方蒿种子在白光（ $89 . 9 \%$ ）和红光下（ $84 . 7 \%$ ）的萌发率均在 $84 \%$ 以上，显著高于黑暗（ $44 . 3 \%$ ）、蓝光下（ $6 1 . 6 \%$ ）的萌发率；沙针种子在白光下（ $80 . 4 \%$ ）和红光下（ $70 . 7 \%$ ）的萌发率，显著高于黑暗（ $43 . 9 \%$ ）和蓝光（ $3 8 \%$ ）下的萌发率；尖子木种子萌发率在白光、黑暗、蓝光下均在 $86 \%$ 以上，均显著高于红光下 $( 3 2 \%$ )。藿香蓟种子萌发率在红光下 $( 7 1 . 3 \% )$ ）最高，略高于白光（ $6 8 . 8 \%$ ）和蓝光（ $6 2 . 8 \%$ ），黑暗（ $42 . 5 \%$ ）条件下萌发率最低，显著低于其他三个水平。
+
+# 2.1.2光质对种子萌发速率的影响
+
+光质对藿香蓟、沙针、尖子木种子萌发速率有极显著影响（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 0 1$ ），对四方蒿萌发速率有显著影响（ $_ { . } { \scriptstyle { P < 0 . 0 5 } }$ ）。光质对大叶斑鸠菊、云南山枇花、臭灵丹、车桑子、光萼猪屎豆、葫芦茶、云南地桃花、西南宿苞豆、岗柃、中国宿苞豆10个物种的种子萌发速率均没有显著影响（表2）。
+
+四方蒿种子在红光下萌发速率最快（4.93），显著高于其他条件下的萌发速率，蓝光条件下萌发速率最慢（1.36）；沙针种子萌发速率在白光下最快（2.73），显著高于其他三个条件，黑暗条件下最慢（0.71）；尖子木种子萌发速率在白光和黑暗下最快（3.52 和3.53），红光下最慢（1.29）；藿香蓟种子萌发速率在红光下最快（6.46），略高于白光下（6.39），显著高于其他条件下的萌发速率。
+
+# 2.1.3光质对种子萌发开始时间影响
+
+光质对大叶斑鸠菊、云南地桃花、四方蒿、沙针、尖子木5种植物的种子萌发开始时间有显著影响（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ），对研究的其他物种没有显著影响。
+
+四方蒿种子在白光、红光、黑暗条件下均在第5天开始萌发，而蓝光下在第11天才开始萌发；沙针种子在红光（11d）和白光（11d）下萌发开始时间最早，黑暗（21.67d）条件下发芽开始时间最晚；尖子木种子在蓝光下萌发开始时间最晚（13d），显著低于其他三个条件，白光、红光、黑暗下开始时间没有显著差异；大叶斑鸠菊萌发开始时间在黑暗条件下最早，然后是白光下，蓝光和红光下较晚。
+
+表2光质对14种植物种子萌发率和萌发速率影响(单因素方差分析)  
+Tablel Effect of light quality on seed germination characteristics of 14 plants（one- way ANOVA   
+
+<html><body><table><tr><td rowspan="3">物种Species</td><td colspan="3">萌发率 Germination percentage</td><td colspan="3">萌发速率</td></tr><tr><td colspan="3"></td><td colspan="3">Germination rate</td></tr><tr><td>df</td><td>F</td><td>p</td><td>df</td><td>F</td><td>p</td></tr><tr><td>大叶斑鸠菊 Vernonia volkameriifolia</td><td>3</td><td>2.281</td><td>ns</td><td>3</td><td>3.193</td><td>ns</td></tr><tr><td>云南山枇花Gordonia chrysandra</td><td>3</td><td>3.674</td><td>ns</td><td>3</td><td>5.467</td><td>ns</td></tr></table></body></html>
+
+<html><body><table><tr><td>臭灵丹Laggera pterodonta</td><td>3</td><td>0.944</td><td>ns</td><td>3</td><td>1.512</td><td>ns</td></tr><tr><td>车桑子Dodonaea viscosa</td><td>3</td><td>3.000</td><td>ns</td><td>3</td><td>3.692</td><td>ns</td></tr><tr><td>光萼猪屎豆Crotalaria zanzibarica</td><td>3</td><td>1.479</td><td>ns</td><td>3</td><td>0.297</td><td>ns</td></tr><tr><td>藿香蓟Ageratum conyzoides</td><td>3</td><td>6.910</td><td>*</td><td>3</td><td>21.392</td><td>***</td></tr><tr><td>葫芦茶Tadehagi triquetrum</td><td>3</td><td>0.638</td><td>ns</td><td>3</td><td>0.300</td><td>ns</td></tr><tr><td>云南地桃花Urena lobata</td><td>3</td><td>2.000</td><td>ns</td><td>3</td><td>0.353</td><td>ns</td></tr><tr><td>西南宿苞豆 Shuteria vestita</td><td>3</td><td>1.270</td><td>ns</td><td>3</td><td>1.270</td><td>ns</td></tr><tr><td>中国宿苞豆 Shuteria involucrata</td><td>3</td><td>1.533</td><td>ns</td><td>3</td><td>1.441</td><td>ns</td></tr><tr><td>四方蒿 Elsholtzia blanda</td><td>3</td><td>15.112</td><td>***</td><td>3</td><td>10.808</td><td>**</td></tr><tr><td>沙针 Osyris quadripartita</td><td>3</td><td>42.988</td><td>***</td><td>3</td><td>101.612</td><td>***</td></tr><tr><td>尖子木 Oxyspora paniculata</td><td>3</td><td>29.163</td><td>***</td><td>3</td><td>34.054</td><td>***</td></tr><tr><td>岗柃Eurya groffi</td><td>3</td><td>1.000</td><td>ns</td><td>3</td><td>1.000</td><td>ns</td></tr></table></body></html>
+
+# 2.2种子大小对种子萌发的影响
+
+本研究所用的14个物种中，种子大小变异较大，平均种子重 $4 . 2 4 9 \mathrm { m g / }$ 粒，最大种子为云南山枇花 $2 4 . 2 5 \mathrm { m g / }$ 粒，最小种子为沙针 $0 . 0 2 \mathrm { m g / }$ 粒。 (表1)
+
+相关分析显示：在白光、黑暗、蓝光、红光条件下14种植物种子的萌发率与种子大小间均有显著负相关关系（图1）；种子萌发速率、萌发开始时间与种子大小间也有负相关关系，但不显著。
+
+分别取4种菊科植物、4种蝶形花科植物种子分析，在白光、黑暗、蓝光、红光条件下，萌发率、萌发速率与种子大小间均没有显著相关关系。
+
+![](images/bb20697254c801c301796f7f6404c719cd6975076c69d51c54281ab6afc52ad6.jpg)
+
+e □ 蓝光Blue light 红光Redlight   
+/=-0.589\* P=0.027 □ $r = - \square . 5 \bot \square ^ { \star }$ $F = 0 . 0 1 E$ 0.6 。   
+中 0.4  中 0.2 0 O O □   
+□ 0 Q 00 0.0 0 0 0 □ 。 1 T T   
+0.0 0.5 1.0 1.5 2.0 0.0 0.5 1.0 1.5 2.0   
+种子大小Seed size（g） 种子大小Seed size（g） 注：萌发率和种子大小进行反正切转换。   
+Note: The germination percentage and seed size were arctangent transformed.
+
+# 3.结论与讨论
+
+14 种植物中，大叶斑鸠菊、云南山枇花、臭灵丹、车桑子、光萼猪屎豆、葫芦茶、云南地桃花、西南宿苞豆、岗柃的种子在实验的4光照条件下均处于休眠状态(Jurado &Flores,2005)，也就是说本实验条件一变温、不同光照均不能打破这些种子的休眠，还需要进一步开展打破其休眠的研究。
+
+研究中发现四方蒿、沙针对光照的需求相似，均为白光、红光有利于其萌发，黑暗、蓝光对萌发有抑制作用。主要原因可能是红光，以及白光中的红橙区域（ $6 6 0 \mathrm { n m }$ 波长）的光波对种子萌发具有促进作用，可以解除休眠，这和Borthwick（1954）对生菜的研究结果类似。红光（ $6 6 0 \mathrm { n m } \cdot$ ）可以增加种内光敏色素的活性，促进叶绿素的形成，对种子萌发、胚轴伸长进行调节，从而解除种子的休眠（崔现亮,2014a）。蓝光和黑暗条件下，光条件不能达到以上种子萌发需求，所以萌发率有很显著的降低，这和崔现亮等（2015）对山梅花种子、姜勇等（2012）对紫茎泽兰种子的萌发研究结果一致。四方蒿、沙针、藿香蓟总体上来看属于需光种子，但是对光的波长需求有所差异，即萌发需要不同波长的光照，在黑暗下萌发率降低。尖子木种子对光、暗没有需求，但红光却抑制种子的萌发，这种结果还没有报道出现，可能与红光照射时间有关，有些报道显示只需要照射短时间的光照就可以解除种子休眠。红光的长时间照射可能诱导尖子木种子进入次生休眠。红光（11d）和白光（11d）下沙针种子发芽开始时间最早，和Jala（2011）对芒草（Nepenthes mirabilis）种子研究结果一致；另外，大叶斑鸠菊、尖子木黑暗下萌发最早，云南地桃花红光下萌发最早，四方蒿白光、红光、黑暗下萌发开始时间最早，其他的物种萌发开始时间对光质没有要求，可见不同的物种种子萌发开始时间对光质的需求是有一定差异的。这些差异可能与高等植物生活型有关，高位芽植物的生活型的幼苗有能力从土壤深处冒出来（在黑暗中），因为他们的种子有更多的资源(Rojas,1997)。
+
+在白光、黑暗、蓝光、红光条件下种子的萌发率与种子大小间均有显著负相关关系；种子萌发速率、萌发开始时间与种子大小关系不明显。研究的14种植物种子萌发率与种子大小间关系与崔现亮等（2008）、卜海燕等（2007）、王桔红等（2007）、宗文杰等（2006）
+
+的研究结果一致。但本研究发现不同光质间种子萌发率和种子大小的关系没有差异。较大种子产生的植株具有较高的存活和繁殖力，大种子不易受密度压力影响，在幼苗期大种子比小种子更有优势，大种子具有较高的养分从而使幼苗能更好的度过一些恶劣的环境；而小种子由于数量多、个体小、传播能力强，且萌发率高而具有竞争优势，因而更易定植入现存植被（Wulff,1986；崔现亮,2008），但在后期发展中不利，需要更多地萌发来补偿。种子大小实际上是由产生种子的亲本决定，从亲本的角度看种子大小的选择可能更有进化意义。
+
+# 参考文献：
+
+BASKIN CC,BASKIN JM,1998. Seeds ecology, biogeography,and evolution of dormancy and germination [M]. San Diego:Academic Press: 16-17.   
+BEWLEY JD, BLACK M,1982. Physiology and biochemistry of seeds [M]. Berlin: Springer-Verlag: 1-5.   
+BORTHWICK HA,HENDRICKS SB,TOOLE EH,1954. Action spectrum for breaking of dormancy in lettuce [J]. Bot Gaz,115: 205-225.   
+BURESCU L, CACHITA D,RACIUN C,2015. The Effect of different wavelengths LED lighting on the growth of Spruce (Picea abies L) plantlets [J].Rom Biotech Lett,20(6): 11025-11034.   
+BU HY,RENQJ, XU XL,et al, 2006. Seed germinating characteristicsof 54 gramineous species in the alpine meadow on the eastern Qinghai-Tibetan planteau [J].Acta Phytoecol Sin,30 (4)624-632.[卜海燕，任青吉，徐 秀丽，等,2006．青藏高原东部高寒草甸 54 种禾本科植物种子萌发特性[J].植物生态学报,30(4):624-632.]   
+CUI XL,LUO YT,SU ZL,et al,2015.Effects of diferent light conditions on seed germination of Spiraea rosthorni and Berberis aggregata at different altitudes [J].ChinJEcol,34(3): 642-647.[崔现亮，罗娅婷，苏志 龙，等，2015．光照对不同海拔的南川绣线菊和锥花小檗种子萌发的影响[J].生态学杂志，34(03): 642-647.]   
+CUI XL,LUO YT,JIANG ZL,et al,2014a.Effects of light and cold storage on seed germination of three shrub species from the eastern Qinghai-Tibet Plateau[J].Chin JEcol,33(09):2330-2335.[崔现亮,罗娅婷,蒋智林, 等，2014a.光照和冷藏时间对青藏高原东缘三种灌木种子萌发的影响[J].生态学杂志，33(09):2330-2335.]   
+CUI XL,LUOYT, QIUQW, et al,2014b. Variationsof achyranthes bidentata germination at differentregions [J]. N Hortic,38(19):150-153.[崔现亮，罗娅婷，邱其伟，等，2014b．不同地区牛膝种子的萌发变异[J].北方 园艺，38(19)：150-153.]   
+CUI XL,LUOYT,BITJ,et al,2014c.Effect of storage and temperature on seed germination of 12 shrub species from the eastemn Qinghai-Tibet Plateau[J].ChinJEcol,33(1):23-32.[崔现亮，罗娅婷，毕廷菊，等，2014c．储 藏和萌发温度对青藏高原东缘12 种灌木种子萌发的影响[J].生态学杂志，33(01)：23-32.]   
+CUI XL, CHEN W,TAO C,et al,2010.Seed germination characteristics of 11 Berberis species from eastern Qinghai-Tibet Plateau.Chin JEcol,29（8):1505-1510.[崔现亮，陈文，陶川，等，2010.青藏高原东缘11种 小檗属(Berberis)植物种子萌发特性[J].生态学杂志，29(8)：1505-1510.]   
+CUI XL,WANG JH, QI W,et al,2008. Seed germination characteristics of shrub species from the eastern Qinghai-Tibet Plateau[J].Acta Ecol Sin,28(11): 5294-5302.[崔现亮，王桔红，齐威，等，2008.青藏高原东 缘灌木种子的萌发特性[J].生态学报，28(11)：5294-5302.]   
+GODO T,FUJIWARA K, GUAN K,2011. Effects of wavelength of LED-light on in vitro asymbiotic germination and seedling growth of Bletilla ochracea Schltr.(Orchidaceae)[J]. Plant Biotechnol, 28(4): 397-400.   
+HE J, QIN L,CHONG ELC,et al,2017.Plant growth and photosynthetic characteristics of mesembryanthemum crystallinum grown aeroponically under diferent blue- and red-LEDs [J]. Front Plant Sci, 8: 361.   
+JALA A,2011.Effects of different light treatments on the germination of Nepenthes mirabilis [J]. Int Trans JEng Manage Appl Sci Technol, 2(1): 83-91.
+
+JURADO E,FLORES J,2O05.Is seed dormancyunder environmental control or bound to plant traits[J].JVeg Sci,
+
+16(5): 559-564.
+
+LIU WC,WEIF,HAN Z Y,etal,2016.Effectsof diferent Light qualities on theseed germination,Seedlinggrowth and cold tolerance of cucumber[J].NHortic,40(19): 59-62.[刘卫成，韦峰，韩泽宇，等，2016.不同光质对黄瓜种子发芽、幼苗生长及抗寒性的影响[J].北方园艺，40(19)：59-62.]  
+ZHANG M, ZHUJJ,YANQL,et al,2012. Review on influence mechanisms of light inseed germination[J].ActaPhytoecol Sin,36(8):899-908.[张敏，朱教君，闫巧玲，等，2012.光对种子萌发的影响机理研究进展[J].植物生态学报，36(8)：899-908.]  
+YAN XF,CAO M, 2006.Influence of Light and Temperature on the Germination of Shorea wantianshuea(Dipterocarpaceae) Seeds [J].Chin BullBot, 23(6): 642-650.[闺兴富，曹敏.2006.光照和温度对望天树种子萌发的影响[J].植物学通讯，23(6)：642-650.]  
+ROBERTS HA,HEITHAUS ER,1986 .Ants rearrange the vertebrate-generated seed shadow of a neotropical figtree [J]. Ecol, 67(4): 1046-1051.  
+ROJAS AM, OROZCO SA, VAZQUEZ YC,1997. Effect of light on germination of seven species of cacti fromthe Zapotitlan Valley in Puebla,México [J]. JArid Environ,36(4): 571-578.  
+WEI F,QI JX,LIJM,etal,2015.Effects of differentLightqualitiesonthe seed germination,Seedling growthandcold tolerance of Pepper[J].Acta Agric Zhejiangensis,27(11):1932-1938.[韦峰，祁娟霞，李佳梅，等，2015.不同光质对辣椒种子萌发、幼苗生长及抗寒性的影响[J].浙江农业学报，27(11)：1932-1938.]  
+WANG CY, ZHANG CH,LIU W, et al, 2011. Efects of seed mass on germination ofLamiaceae species in theEastern Qinghai-Tibetan Plateau [J].Acta Agrestia Sin,19(4):601-606.[王晨阳，张春辉，刘文，等，2011.青藏高原东缘唇形科植物种子大小对萌发的影响研究[J].草地学报，19(4)：601-606.]  
+WANG JH, CUI XL, CHEN XL,et al, 2007. Comparative study of seed germination,seed size and theirrelationships in mesad and siccoclous [J].Acta Phytoecol Sin,31(6):1037-1045.[王桔红，崔现亮，陈学林，等，2007.中、旱生植物萌发特性及其与种子大小关系的比较研究[J].植物生态学报，31(6)：1037-1045.]  
+WULFF RD,1986.Seed size variation in Desmodium paniculatum:effects on seedling growth and physiologicalperformance [J]. JEcol,74(1): 99-114.  
+ZHAO T,LI J,AN YR.et al, 2018.Effect of light qualityand intensityon seed germination and seedlingphysiological characteristics of Polygala tenuifolia[J]. Chin JExp Tradit Med Form,24(10): 66-71.[赵停，李静，安衍茹，等，2018．光质、光强对远志种子萌发和幼苗生理特性的影响[J].中国实验方剂学杂志，24(10): 66-71.]  
+ZONG WJ,LIUK,BUHY,et al,2006.The mode of seed size variation and the effects of seed size on 51 speciesof Compositae plants in Alpine Meadow [J].JLanzhou Univ(Natural Sciences),42(5): 52-55.[宗文杰，刘坤,卜海燕,等，2006.高寒草甸 51种菊科植物种子大小变异及其对种子萌发的影响研究[J].兰州大学学报(自然科学版)，42(5)：52-55.]

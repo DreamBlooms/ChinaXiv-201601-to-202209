@@ -1,0 +1,173 @@
+# Crystal structure of Cry51Aa1: A potential novel insecticidal aerolysin-type $\beta$ -pore-forming toxin from Bacillus thuringiensis
+
+Chengchen Xu a,b, Unmesh Chinte b.c, Lirong Chen b, Qingqing Yao d, Ying Meng a, Dayong Zhoub, Li-Jun Bi e, John Rose b.c, Michael J. Adang b.f, Bi-Cheng Wang b.c \* Ziniu $\mathrm { Y u } ^ { \mathrm { ~ a , * } }$ ， Ming Sun a,\*
+
+StateKeybatofalofedolesib PR China
+
+b Departmentof Biochemistry and Molecular Biology,University ofGeorgia,Athens,GA,0602,USA C SER-CAT,UniversityofGeorgiaandthedvancedPhoton Source,Argonne NationalLaboratory,Argonne,I,60439,UA d Department of Biochemistry,School ofLife Sciences,Fudan University,Shanghai,2Oo438,PR China eNationalLboratoryofomacromolecules,stituteofosicsinscdemyofiences,Beijigd f Departmentof Entomology, University ofGeorgia,Athens,GA,30602,USA
+
+J:17531:111311:5155111
+
+# ARTICLEINFO
+
+Article history: Received 6 April 2015 Availableonline7May2015
+
+Keywords:   
+Bacillus thuringiensis   
+Crystal structure   
+Insecticidal   
+Pore-forming toxin
+
+# ABSTRACT
+
+The structures of several Bacillus thuringiensis (Bt) insecticidal crystal proteins have been determined by crystallographic methods and a close relationship has been explicated between specific toxicities and conserved three-dimensional architectures.In this study,as a representative of the coleopteran- and hemipteran-specific Cry51A group,the complete structure of Cry51Aa1 protoxin has ben determined by X-ray crystallographyat1.65Aresolution.This is the firstreportofacoleopteran-active Bt insecticidal toxin with high structural similarity to the aerolysin-type $\beta$ -pore formingtoxins( $_ { \mathrm { ~ B ~ } }$ -PFTs).Moreover,study of featured residues and structural elements reveal their possible roles in receptor binding and pore formation events.This study provides new insights into the action of aerolysin-type $\beta$ -PFTs froma structural perspective,and could be useful for the control of coleopteranand hemipteran insect pests in agricultures.
+
+$\circledcirc$ 2015 Elsevier Inc.All rights reserved.
+
+# 1.Introduction
+
+Bacillus thuringiensis (Bt),a species of Gram-positive soil bacterium，produces parasporal crystal toxins having insecticidal properties during sporulation [1].By functional and structural comparisons,Bt toxins can be categorized into two major families, Crystal (Cry)and Cytolytic (Cyt) toxins [2].The structures of nine Cry and three Cyt toxins have been determined and show a conserved structural architectures based on their class (Cry or Cyt) and their distinct insecticidal mechanisms [3,4].
+
+Recently,a new group of Bt toxins,called parasporins,has been identified with the unique features of being non-insecticidal, but having cytocidal activity against human cancer cells [5]. Structures of parasporin-2(PDB ID 2ZTB）and a 26-kDa nontoxic protein 26NPT(PDB ID 2D42) have been determined.Distinct from Cry and Cyt toxins,parasporin-2 and 26NPT exhibit striking structural similarity to the aerolysin-type $\beta$ -pore-forming toxins (aerolysintype $\beta$ -PFTs）[6,7].Despite aerolysin-type $\beta$ -PFTs coming from diverse species and the limited sequence identities within the family，their structural similarities,especiallythe conserved $\beta \cdot$ -strands topology, suggest a common mode of action.
+
+While the three-dimensional structures of many Bt parasporal crystal toxins can be grouped into categories of specific toxicities, there are exceptions.Some parasporins with strong cytotoxicities against cancercells(e.g. parasporin-1， parasporin-3，and parasporin-6）are structurally similar to the insecticidal threedomain type Cry toxins.In contrast,the newlyreleased Cry34Ab1 (PDBID 4JOX）and Cry35Ab1（PDB ID 4JPO）structures have respective similarities to aegerolysinand aerolysin-like toxins;yet the Cry34/35 toxin complex has insecticidal toxicity against corn rootworms [8].
+
+The Cry51A toxins are examples of Cry toxins with unusual insecticidal specificities and structures distinct from the threedomain type architectures commonly observed.In this study,we present the precise X-ray crystallographic structure of Cry51Aa1 at 1.65 A resolution and establish its toxicity to coleopteran larvae. Structural features not only demonstrate that this coleopteranactive insecticidal toxin has significant structural similarity to the aerolysin-type $\beta$ -PFTs,but reveal its possible mode of action in midgutmembrane.
+
+# 2.Materials and methods
+
+# 2.1.Expression,solubilization and purification
+
+Cry51Aa1(GeneBank QD836184.1）was identified in Bt strain F14-1,which was isolated from a soil sample collected in northern China (unpublished data) and mentioned in review[9]. Full length protoxin was expressed in Bt acrystalliferous host strain BMB171, using E.coli-Bacillus shuttle vectorpHT3o4[1O].The recombinant Bt strain was cultured at $3 0 ~ ^ { \circ } \mathsf { C }$ in tryptic soy broth medium for $^ \textrm { \scriptsize 4 d }$ Aftersporulation,cells were harvested and washed with $1 \mathrm { ~ M ~ N a C l }$ and distilled water respectively.Then,the protoxin was solubilized in $2 0 ~ \mathrm { m M }$ $\mathsf { N a } _ { 2 } \mathsf { C O } _ { 3 }$ buffer,pH10 containing $2 0 ~ \mathrm { m M }$ EDTA at room temperature for $^ { 3 \mathrm { ~ h ~ } }$
+
+SolubilizedCry51Aa1wasfiltered bya $0 . 2 \mu \mathrm { m }$ filter (Millipore), and purified by ion-exchange chromatography on a $5 ~ \mathrm { m L }$ HiTrap Q HP column (GE Healthcare),pre-equilibrated with 2O mM ${ \tt N a } _ { 2 } { \tt C O } _ { 3 }$ buffer,pH10.Cry51Aa1was eluted usinga $_ { \mathsf { N a C l } }$ gradient from O to $5 0 0 ~ \mathrm { m M }$ in the same buffer. The eluted protoxin was concentrated in an Amicon Ultra-15 10,ooo MWCO centrifugal filter (Millipore) and further purified by gel filtration chromatographyapplied with Superdex 2oo 16/6O column(GE Healthcare),pre-equilibrated with $2 0 ~ \mathrm { m M }$ Glycine-NaOH, $\mathsf { p H } 1 0$ ，The fractions containing Cry51Aa1 were collected and concentrated to $3 \mathrm { m g / m l }$ for crystallization.
+
+# 2.2. Crystallization and data collection
+
+Crystallization trials were carried out with the sitting-drop vapor diffusion method. The $2 0 ~ \mu \mathrm { l }$ drops were prepared bya 3:1 mixture of $0 . 5 ~ \mathrm { m g / m l }$ protein solution and the reservoir solution containing $0 . 1 4 \mathrm { M ( N H _ { 4 } ) _ { 2 } S O _ { 4 } } , 0 . 1 \mathrm { M C H _ { 3 } C O O N a ( p H 3 ) }$ and $1 6 \%$ w/vpolyethylene glycol 2ooo.Setups were then incubated at $1 8 ^ { \circ } \mathsf { C } .$ Diamond shaped crystals formed and grew to a maximum dimension of $0 . 4 \times 0 . 2 \times 0 . 1 ~ \mathrm { m m } ^ { 3 }$ in three weeks.To obtain derivative diffraction data,native crystals were incubated for 1 h at $1 8 ^ { \circ } C$ ina $1 2 5 \mathrm { m M K } _ { 2 } 0 _ { 5 } \mathrm { C l } _ { 6 }$ solution prepared using the equilibrated reservoir solution that produced the crystal. Crystals were flash-frozenin liquid nitrogenafter cryoprotection,with $2 0 \% \mathrm { v / v }$ glycerol. Data for both native and derivative crystals were collected on beamline 22-BM,SER-CAT, Advanced Photon Source,Argonne National Laboratory. Diffraction images were indexed,integrated and scaled using HKL2ooo [11].
+
+# 2.3.Structure determination
+
+The structure of Cry51Aa1 was determined by the singlewavelength anomalous diffraction（SAD）method using $2 . 8 \mathrm { ~ \AA ~ }$ resolution data set collected from an osmium soaked crystal.Initial calculations were carried out using Phenix [12].The Phenix.Autosol solution fit ${ \sim } 6 5 \%$ of the amino acid chain.Molecular replacement was then used to orientate the partial model in the high-resolution (1.65 A）native cell.Auto-Richshaw [13]，followed by manual correction using COOT[14] was then used to complete the model. The final $1 . 6 5 \mathring { \mathsf { A } }$ Phenix refined model contains residues 5-3o9,443 solvent molecules modeled as water.Residues 1-4 are lacking of supporting electron density and presumed to be disordered.
+
+Cry51Aa1 crystallized asa monomer in the asymmetric unit correspondingtoa calculated[15] solvent content of ${ \sim } 4 7 \%$ .Detailsfor data collection,structure solution and refinement are summarized in Table S1.The coordinatesand structure factors for Cry51Aa1 have been deposited in the Protein Data Bank with the PDB ID 4PKM.
+
+# 2.4.Insecticidal assays
+
+Beetle insecticidal assays were carried out against Leptinotarsa decemlineata (Colorado potato beetle,CPB） neonates.As the control,Cry3Aa from B.thuringiensis subsp.tenebrionis was expressed and solubilized as described for Cry51Aa1. CPB eggs were purchased from French Agricultural Research,Inc.Red Pontiac potato seedswere obtained froma local farmers'market.CPB bioassays wereperformed according to a Cry3Aa bioassay described previously; the exception being that toxin materials were applied by a leaf-dipping method [16]. Toxin solubilization buffer ( $2 0 \mathrm { \ m M }$ $\mathsf { N a } _ { 2 } \mathsf { C O } _ { 3 }$ ,pH10)was used as the negative control.Potato leaves were dipped for 3O s with concentrations of Cry51Aa1 and Cry3Aa ranging from $\mathrm { 5 - 1 0 0 m g / m l }$ and $0 . 0 5 { - } 1 0 0 \mathrm { m g / m l }$ ,respectively.Each concentrationwas treated in triplicatewith3O CPB larvae(5 larvae per1 oz.plastic cup).After incubating at $2 8 ^ { \circ } C$ for $5 { \textrm { d } }$ ,concentrations of Cry51Aa1 and Cry3Aa that resulted in $50 \%$ mortality were calculated by Probit analysis using SPSS software[17].
+
+# 3.Results and discussion
+
+# 3.1.Crystal structure of Cry51Aa1 monomer
+
+The structure of Cry51Aa1 (Fig.1) is elongated at dimensions of approximately 9 $1 6 \mathrm { ~ \AA ~ } \times 3 0 \mathrm { ~ \AA ~ } \times 2 5 \mathrm { ~ \AA ~ }$ .with a total surface area of 15,418 $\mathrm { \AA } ^ { 2 }$ [18]. Secondary structure components include five helices and fifteen $\beta$ -strands.Helices $a 1 - a 4$ are located in the Nterminal domain of the molecule while helix $a 5$ is located close to the C-terminus of the protein.The long $\beta \mathrm { . }$ -strands observed in the structure are apparently the most striking features of the molecule with some strands (strands β5,β9 and $\beta 1 2$ )having lengthsofover $6 8 \mathrm { ~ \AA } .$ The molecule has a similar topology to other $\beta$ -PFTs structures described previously and share their three-domain architecture [6].
+
+![](images/5227e913fac01f2d24f8e082554fde7783f3964f97ca7b62917d6c8648562177.jpg)  
+Fig.1.Ribbon representation of Cry51Aa1 monomer. Secondary structure of helices and $\beta$ -strands are presented in yellow and cyan,respectively.The amphipathic $\beta$ hairpin is shown in magenta.(For interpretation of the references to color in this figure legend,the reader is referred to the web version of thisarticle.)
+
+DomainI(residues 5-46 and 198-236) consists of two discontinuous parts.Part one begins with strand $\beta 1$ (6-8)(note residues in parentheses)which is closely followed by $\mathfrak { a }$ -helix α1(9-27)and two short $3 _ { 1 0 }$ -helices,α2 (39-41) and α3 (44-46).The largest $\boldsymbol { \mathfrak { a } }$ -helix, $\boldsymbol { \mathfrak { a } } 1$ ,extendsapproximately $2 2 \mathring { \mathsf { A } }$ from N-terminus to the center of Domain I.Part two is made up of a short $3 _ { 1 0 }$ -helice $\not {simeq } \alpha 4 ( 2 2 3 - 2 2 6 )$ and an anti-parallel $\beta 1 0 \left( 2 0 5 { - } 2 1 0 \right)$ $\beta 1 1$ (217-221) $\beta$ -hairpin.Byslightly distorted ina counterclockwise direction,a large hydrophobic core of 24 residues is buried within these two part.
+
+Domain I (residues 47-65,94-156,181-197,and 237-258) formsa $\beta$ -sandwich composed of one anti-parallel five-stranded $\beta$ sheet (β2 (47-50)/β3 (53-55)，β5 (94-106)，β8 (151-156)，β9 (181-196),and $\beta 1 2$ (244-258))and one antiparallel $\beta$ -hairpin（β6 (115-126)and β7(132-143)).Strands $\beta 2$ and β3 are connected by a two-residue bridge to form an extended $\beta$ strand.Adjacent and running parallel to the extended strand $\beta 2 / \beta 3$ ,theantiparallel $\beta \mathrm { . }$ hairpin twists at least $8 0 ^ { \circ }$ and runs diagonally for about $5 2 \mathring { \mathsf { A } }$ across the five-stranded $\beta \mathrm { . }$ -sheets.The $\{ 3 6 \substack { - \beta 7 }$ hairpin is amphipathic with its hydrophobic side facing towards the molecule and its hydrophilicside facing solvent.
+
+Domain III (residues 66-93,157-180,and 259-309)is the Cterminal domain. It also contains a $\beta$ -sandwich comprised of a three-stranded $( \beta 4 ( 6 6 - 7 7 ) , \beta 9 ( 1 7 1 - 1 7 9 )$ ,and $\beta 1 2$ (259-268))and a two-stranded(β5(83-93) and $\beta 8$ (157-167)) $\beta$ -sheet,with an extra pair of strands $\beta 1 3$ (275-280)/β14(283-285) that are joined bya short 2-residue bridge.Strands $\beta 1 4$ and $\beta 1 5$ (291-293) form a $\beta$ -hairpin,followed bya short $3 _ { 1 0 }$ -helix α5 (294-296),and a long
+
+13-residue unstructured ‘tail' composed at the C-terminus that is involved in dimer stabilization.
+
+To determine the structural similarity between Cry51Aa1 and otheraerolysin-type $\beta$ -PFTs,a DALI search [19] for structural homologues was carried out. The closest DALI homologues having Z scores ${ > } 1 0$ are:（1） the nontoxic 26NPT （PDB ID 2D42，Z score $= 1 7 . 9$ ,RMSD 2.4 A); (2) the pathogenic epsilon (PDB ID 1UYJ, Z score $= 1 2 . 5$ ,RMSD 4.6 A).For comparison,the hemolytic LSL (PDBID1W3F) gaveaZ score $= 8 . 9$ and an RMSD $4 . 0 \mathring \mathrm { A }$ ; thecytolytic aerolysin(PDB ID1PRE) gave a $Z s c o r e = 7 . 6$ and an RMSD of $6 . 8 \mathring { \mathsf { A } }$ and the anti-cancer parasporin-2(PDB ID 2ZTB) gave a Z score $= 7 . 2$ with an RMSD of ${ \bar { 5 } } . 4 \ { \bar { \mathsf { A } } } .$ Although sequence identities between Cry51Aa1 and these proteinsare relatively low $( 8 \% - 1 8 \% )$ ，the ${ \mathfrak { \beta } }$ 1 stranded domain structure presents a strikingly conserved structural homology (Fig. 2A).
+
+# 3.2.Intramolecular interactions at domain boundary
+
+The Domain I-Domain II interface is stabilized bya salt bridge formed between Asp195（β9）and His 199( $_ { . \mathrm { \tiny { ~ \beta 9 - \beta 1 0 } } }$ loop）and extensive hydrogen bonding.Hydrogen bonds connect strand $\beta 1$ and helix α1 to strand β5;also connect helix $a 4$ and the C-terminal end of strand $\beta 1 0$ to strands $\beta 1 2$ ，β2 and $\beta 9$ ,with the $_ { \beta 9 - \beta 1 0 }$ loop serving as a ‘bridge'between Domain Iand Domain II (Fig.S1).At Domain II-Domain III interface, the amphipathic $\beta 6 \mathrm { - } \beta 7$ hairpin interacts with both the $_ { \beta 3 - \beta 4 }$ loop of Domain II and helix α5 and the C-terminal tail of Domain II,and the surrounding hydrogen bonds of the elongated $\{ 3 6 \substack { - \beta 7 }$ loop could reinforce intramolecular interactions at this boundaryand contribute to the molecule stabilization(Fig.3E).The observations of intramolecular interactions are consistent with crystallographic B-factors (Fig.3C).Distribution of B-factors reveals that inter-domain boundaries have the lowest B values,while high B-factorsare observed foratomsassociated with the flexible loops.
+
+![](images/f833046d94fda759cb2e313d78cedeb6a3c0c908c0ab5dcb0b0403eb748da0f1.jpg)  
+Fig.2.Structure comparison of Cry51Aa1 and its structural homologs of aerolysin-type proteins with theamphipathic $\beta$ -hairpin. (A) Structural conservation of aerolysin-type proteins,fromlefttight:yaN(DB42)silon(DBIUYJ)ndparasori-(DBI).Ucoseedlid $\beta$ -strand are colored in grey. (B) P indicate helical and $\beta \cdot$ strandfadi geo referred to the web version of this article.)
+
+![](images/ec15ff6f392a1c9ee8a7bacca36feb791fa73dab2a231eee6c7fd40d1bc19e09.jpg)  
+viewof the dimer.(C)Calculated B-factorsof Cry51Aal monomer.Lowest B-factorareas locatedatdomain boundariesare resented in purple blue.(D) Monomer nonomer iter ite
+
+# 3.3.Cry51Aa1 dimerin the crystal
+
+Cry51Aa1 crystal structure has one molecule in the asymmetric unit but two-fold crystal symmetry generates a crystallographic head-to-tail dimer (Fig.3A),with DomainIof monomer 1 interacting with Domain IIl and the C-terminal tail of monomer2.When viewed perpendicular to the dimer's two-fold axis,the two monomer across each other at ${ \sim } 3 0 ^ { \circ }$ angle(Fig.3B). The dimer is slightly longer than the Cry51Aa1 monomer with dimensions of approximately $1 0 0 \mathrm { ~ \AA ~ } \times 5 5 \mathrm { ~ \AA ~ } \times 5 2 \mathrm { ~ \AA ~ } .$ The PISA[18] analysis shows that the monomer-monomer interface is extensive with an estimated buried surface area of 1972 $\mathrm { \AA } ^ { 2 }$ per molecule, or ${ \sim } 1 2 . 7 \%$ of the monomer surface.There is a solvent-accessible channel at the center of the dimer with solvent-exposed area covering about $2 0 0 0 \mathrm { \AA } ^ { 2 }$ ,orapproximately $7 \%$ of the total solvent-accessible area of the dimer. The dimer interface is stabilized by over 3O pairs of hydrogen bonds (Fig.3D and Table S2).
+
+# 3.4.Cry51A is an insecticidal toxin group with coleopteran specificity
+
+Cry51Aa1 and Cry51Aa2 toxins share $9 7 . 7 \%$ sequence identity (Fig.2B).By sequence alignment,Cry51Aa1 has extra three residues of $^ { 1 } \mathrm { M I F } ^ { 3 }$ at its N terminus.Meanwhile,Cry51Aa2 has an additional ‘HYS' fragment between residues Glu198 and His199 (Cry51Aa1 numbering)inasolventexposedareaof the β9- $\boldsymbol { \beta } \boldsymbol { 1 0 }$ loop located at the interface of Domain Iand Domain II.
+
+Cry51Aa2has insecticidal toxicityagainst CPB,Lygus hesperus, andLygus lineolaris,and has been successfullyexpressed in transgenic cotton plants conferring anti-hemipteran activity [2O]. It was reported that the mortalityagainst CPB neonates wasabout $6 8 . 4 5 \%$ when the concentration of Cry51Aa2 was at $0 . 5 ~ \mathrm { m g / m l }$ ina diet incorporation bioassay[21].To establish the toxicity of Cry51Aa1, CPB neonates were fed with Cry51Aa1 protoxin by leaf-dipping method，using the Cry3Aa protoxin as control.The $\mathsf { L C } _ { 5 0 }$ of Cry51Aa1 against CPB was $1 9 . 5 \mu \mathrm { g } / \mathrm { m l }$ ,which was less than the $\mathsf { L C } _ { 5 0 }$ of Cry3Aa at $0 . 6 6 9 ~ \mathrm { \mu g / m l }$ (Table S3).The insecticidal assays of Cry51Aa1 against CPB support the toxicity preferences of the
+
+Cry51A group for coleopteran larvae.Moreover,although Cry51A toxins and the three-domain type Cry3 toxins both have toxicities to coleopteran larvae,based on their structural dissimilarity,itis likely that they recognize different midgut receptors in larvae and have distinct modes of action.
+
+# 3.5.Putative roles of aromatic residues in domain I
+
+Inaerolysin-type PFTs,aromatic residuesare abundantin Domain Iof parasporin-2,epsilon and LSL,and in DomainIand Iof aerolysin.It has been reported that Domain II of aerolysin can recognize the GPIanchor backbone (ethanolamine- ${ \mathrm { \cdot H P O } } _ { 4 }$ -6Manα1-2Manα1-6Manα1- $4 \mathrm { G l c N H } _ { 2 } \alpha 1$ -6-myo-inositol- $\cdot 1 \mathrm { H P O } _ { 4 } ,$ )，whileDomainIisinvolved in binding to an N-linked glycan complex on the GPI-anchored receptor [22].Mutations to residues Trp34,Trp45,and Tyr61 in Domain I, Tyr162,Trp324,and His332 in Domain II demonstrated that the aromatic residues play an important role in GPI-anchored receptor Tyr1 binding [23]. Similarly,aromatic residues(Tyr42,Tyr43,Tyr49, Tyr209,and Phe212）of epsilon have been explicated as putative binding determinantswith itsreceptors [24]. In Cry51Aa1,Domain I hasalarge cluster of solvent-accessible aromatic residues in the region spanning Tyr200 to Phe235:Tyr200,Tyr203,Tyr216,Trp228, and Phe235 are located in loops regions while Tyr19,Trp20,Trp208, Trp223,and Tyr224are locatedinhelices or $\beta$ -strands.Asaromatic rings often stack against the planar faces of sugar pyranose rings, tryptophan and tyrosine rings are considered to provide hydrophobic driving forces towards carbohydrate moieties of the receptors [25]. These aromatic clusters may be potential sources of carbohydrate-protein interactions such as ligand binding or receptor recognition.Additionally,aromatic residues may contribute to the stability of Domain Iby forming intramolecular hydrogen bonds to the side chains of neighboring residues (Fig. S2).
+
+# 3.6.Abundant serine and threonine residues
+
+Almost of a quarter $( 2 3 . 3 \% )$ of the Cry51Aa1 amino acid composition is either serine or threonine.Interestingly, these residues are dominant in three regions of the structure.(1)A Ser/Thr patch located in the middle of amphipathic $\beta$ -hairpin,close to the Domain II-III interface;(2) Ser/Thr clusters that flanked the $\{ 3 6 \mathrm { - } \beta 7$ hairpin located in strand $\beta 5$ and $\beta 5$ ，and also in the loops connecting to the $\beta 6 \mathrm { - } \beta 7$ hairpin;(3)A Ser/Thr cluster associated with strands β2,β9and $\beta 1 2$ atthe DomainI-II interface.The hydroxyl groups of Ser/Thr residues are capable of forming intramolecular hydrogen bonds (in addition to the inter-strand main chain hydrogen bonding)to theadjacent strands orhelices,and provide specific but strong forces to build up a hydrogen bond network as to further stabilize the molecule (Fig. 4).
+
+![](images/a3480f613575e62281561049c03c996ceff85b0adc15f655b1f2d51606b7a28f.jpg)  
+Fig.4.Ser/rresiduesinvolvedstabilizinginteractions.HydrogenbondsgeneratedbySerrresiduesadjacentotheamipathic $\beta \cdot$ -hairpin (A)and at the boundary of Domain I ad referred to the web version of this article.)
+
+With respect to other function of Ser/Thr clusters,three possible roles have been suggested,(1)allowing the molecule to move freely and closely to the membrane when N-terminal domain binding to thereceptor [6];(2）guiding the amphipathic loop towards the membrane [26]; and (3) promoting oligomerization [24].As lacking experimental evidence of Cry51Aa1 interacting with receptors on the membrane,itis difficult to ascertain which kind of interaction is involved between the Ser/Thr track and membrane during the transmembrane procedure.However,based on the expectation of abundant Ser/Thr residues that could be exposed to the solvent aftertheamphipathic $\{ 3 6 \mathrm { - } \beta 7$ hairpin stretching out,it seems more possible for these Ser/Thr residues to drive the molecule towards neighboring monomer by forming intermolecular hydrogen bonds between the $\beta \cdot$ -strands thatflankedamphipathic $\beta$ -hairpins.So that the Ser/Thr related interactions could promote oligomerization and also help to stabilize the complex.
+
+# 3.7.Glycine-rich loop on the amphipathic $\beta$ -hairpin
+
+Theamphipathic $\beta$ -hairpin is one the most remarkable features in the aerolysin-type $\beta$ -PFTs.Although this amphipathic region shows varied architecture within the family,it would finallyundergo a conformational change into a transmembrane ${ \mathfrak { \beta } }$ -hairpin when penetrating the membrane.In Cry51Aa1,an amphipathic $\beta \mathrm { . }$ # hairpin formed by strands $\beta 6$ and $\boldsymbol { \beta 7 }$ is also observed.The loop connecting the two strands is glycine rich $^ { 1 2 7 } \mathrm { G E G G G } ^ { 1 3 1 }$ and shows little sequence conservation to other aerolysin-type $\beta$ -PFTs.The glycine-rich loop is anchored to helix $a 5$ and the C-terminal tail via hydrogen bonding between $\mathrm { G l u 1 2 8 ~ N }$ and Val297 O and ASN133 ND2 and ASN296 O (Fig.3E). Based on the current thinking that the $\beta$ -hairpin is involved in membrane insertion,itis envisioned that upon proteinase activation, the C-terminal tail would be removed and the strong interactions it provided in stabilizing the dimer would be lost,which would disrupt the dimer and untether the glycine-rich loop.Once the glycine-rich loop acquires adequate flexibility,this frontend ismostlikelyto leadtheamphipathic ${ \mathfrak { \beta } }$ hairpin to stretch out.As the smallest amino acid,glycine has greater conformational freedom than other amino acids due to its unique dihedral angles [27].So that,in the membrane binding or transmembrane process,it can provide flexible conformational change on the backbone and favor hydrophobic or hydrophilic environment. Particularly,during oligomerization,the aggregated glycine-rich loops from each monomers may gain enhanced conformational flexibility than other amino acids,which will subsequently contribute to the overall hydrophobic features of transmembrane $\beta$ -barrel and guides the amphipathic ${ \mathfrak { \beta } }$ -hairpins penetrating through the lipid bilayer.
+
+Interestingly,a glycine-rich loop located at the amphipathic ${ \mathfrak { \beta } }$ hairpin was found in Staphylococcus aureus $\beta$ -PFTsfamily.As described in $a$ -haemolysin (PDB ID 7AHL)，a glycine-rich loop $( \mathrm { { G l y } ^ { 1 1 9 } - \mathrm { { G l y } ^ { 1 4 3 } } } )$ was considered to be exposed to the solvent in a monomer and pre-pore oligomer state,but project into lumen during transmembrane insertion of the heptamer [28].While the pore-forming mechanisms of $a$ -haemolysinand aerolysin-type ${ \mathfrak { \beta } }$ PFTsare dissimilar,evidence of the glycine-rich loop from $\mathfrak { a }$ -haemolysin oligomers presents similar characteristics with Cry51Aa1 $\beta 6 \mathrm { - } \beta 7$ loop,and provides a good comparative reference for future studies on the transmembrane process.
+
+In addition,next to the glycine-rich loop,there is an aromatic residue Phe141 and a hydrophobic region $( ^ { \bar { 1 } 2 3 } \mathrm { I P F I ^ { 1 2 6 } } )$ at strand $\beta 7$ and $\boldsymbol { \beta 6 }$ ，respectively.Aromatic residuesare considered to anchor the transmembrane $\beta$ -barrel to the lipidbilayer,suchasthearomatic belt of the swirling membrane-insertion model [26].Moreover,in the rivet-like model ofaerolysin,the hydrophobic tipwas demonstrated with the capability of directing membrane insertion [29].It could be speculated that the hydrophobic region of Cry51Aa1 could effectively enhance the leadingactivity of the glycine-rich loop when penetrating the lipid bilayer,while the aromaticringat the $\beta \cdot$ -barrelplaysaroleinoligomerstabilization.
+
+In summary,we present a 1.65 A resolution crystal structure of Cry51Aa1 toxin.With the significant structural similarity, Cry51Aa1, or more broadly the Cry51A toxins,would be a new insecticidal toxins group belonging to the aerolysin-type $\beta$ -PFTs.Astoitsmode of toxic action,Cry51Aa1 shares several important features with other aerolysin-type $\beta$ -PFTs,a three domain architecture,a long amphipathic $\beta$ -hairpinwith a glycine-rich loop,which suggest a possible mode of membrane intercalation that warrants further study.
+
+# Conflictofinterest
+
+None.
+
+# Acknowledgments
+
+This project was supported by the State Key Program of National Natural Science of China (Grant No.30930004 and 31170047), the National High Technology Research and Development Program (863)of China (2011AA10A203),the China 948 Program of Ministry of Agriculture (2O11-G25),the Georgia Research Alliance and the University of Georgia Research Foundation.Use of the Advanced Photon Source was supported by the U. S. Department of Energy, Office of Science, Office of Basic Energy Sciences,under Contract No. W-31-109-Eng-38."
+
+Datawere collected at Southeast Regional Collaborative Access Team(SER-CAT)22-BM beamline at the Advanced Photon Source, Argonne National Laboratory.
+
+Supporting institutions may be found at www.ser-cat.org/ members.html.
+
+# Appendix A.Supplementarydata
+
+Supplementary data related to this article can be found athttp:// dx.doi.0rg/10.1016/j.bbrc.2015.04.068.
+
+# Transparencydocument
+
+Transparency document related to this article can be found online at http://dx.doi.0rg/10.1016/j.bbrc.2015.04.068.
+
+# References
+
+[1]A.I. Aronson,W. Beckman,P. Dunn, Bacillus thuringiensis and related insect pathogens,Microbiol. Rev. 50(1986) 1-24.   
+[2]E.Schnepf,N. Crickmore,J.Van Rie,D.Lereclus，B. Baum,J. Feitelson, D.R. Zeigler,D.H.Dean, Bacillus thuringiensisand its pesticidal crystal proteins, Microbiol. Mol. Biol. Rev. 62(1998) 775-806.   
+[3]M.J. Adang, N. Crickmore, J.L. Jurat-Fuentes,Diversity of Bacillus thuringiensis crystal toxins and mechanism of action,in: S.D. Tarlochan, S.G. Sarjeet (Eds.), Adv.Insect. Physiol., Academic Press, Oxford,2014, pp. 39-87.   
+[4] C. Xu, B.C. Wang, Z. Yu,M. Sun, Structural insights into Bacillus thuringiensis Cry, Cyt and parasporin toxins, Toxins 6 (2014) 2732-2770.   
+[5]E.Mizuki, Y.S. Park,H. Saitoh, S. Yamashita, T. Akao,K. Higuchi,M. Ohba, Parasporin,a human leukemic cell-recognizing parasporal protein of Bacillus thuringiensis, Clin. Diagn. Lab. Immunol. 7 (200O) 625-634.   
+[6] T.Akiba, Y. Abe, S. Kitada, Y. Kusaka, A. Ito,T. Ichimatsu,H. Katayama, T. Akao, K.Higuchi, E.Mizuki,M. Ohba,R. Kanai,K.Harata, Crystal structure of the parasporin-2 Bacillus thuringiensis toxin that recognizes cancer cells, J. Mol. Biol. 386 (2009) 121-133.   
+[7]T.Akiba, K. Higuchi, E. Mizuki, K. Ekino,T. Shin,M. Ohba, R. Kanai, K. Harata, Nontoxic crystal protein from Bacillus thuringiensis demonstrates a remarkable structural similarity to pore-forming toxins,Proteins: Struct. Funct. Bioinf 63(2006)243-248.   
+[8]M.S. Kelker, C. Berry, S.L. Evans, R. Pai, D.G. McCaskill, N.X. Wang, J.C. Russell, M.D. Baker, C. Yang, J.W. Pflugrath,M. Wade,T.J. Wess, K.E. Narva, Structural and biophysical characterization of Bacillus thuringiensis insecticidal proteins Cry34Ab1 and Cry35Ab1, PLoS One 9 (2014) e112555.   
+[9]D.F. Huang, J. Zhang, F.P. Song, Z.H. Lang, Microbial control and biotechnology research on Bacillus thuringiensis in China, J. Invertebr. Pathol. 95 (2007) 175-180.   
+[10] D. Peng, Y. Luo, S. Guo, H. Zeng, S. Ju, Z. Yu, M. Sun, Elaboration of an electroporation protocol for large plasmids and wild-type strains of Bacillus thuringiensis, J. Appl. Microbiol. i06 (2009) 1849-1858.   
+[11] Z. Otwinowski,W.Minor, Processing of X-ray diffraction data collected in oscillation mode, Methods Enzymol. 276 (1997) 307-326.   
+[12]P.D. Adams,P.V.Afonine,G. Bunkoczi，V.B.Chen，I.W. Davis,N. Echols, JJ.Headd, L.W. Hung，G.J. Kapral，R.W. Grosse-Kunstleve，A.J. McCoy, N.W.Moriarty，R. Oeffner，R.J. Read，D.C. Richardson，J.S. Richardson, T.C. Terwilliger, P.H. Zwart, PHENIX:a comprehensive Python-based system for macromolecular structure solution, Acta. Crystallogr. D. Biol. Crystallogr. 66 (2010) 213-221.   
+[13] S. Panjikar, V. Parthasarathy, V.S. Lamzin,M.S. Weiss,P.A. Tucker, AutoRickshaw: an automated crystal structure determination platform as an efficient tool for the validation of an X-ray diffraction experiment, Acta. Crystallogr. D. Biol. Crystallogr. 61 (2005) 449-457.   
+[14] P. Emsley, B. Lohkamp,W.G. Scott, K. Cowtan, Features and development of Coot, Acta. Crystallogr. D. Biol. Crystallogr. 66(2010) 486-501.   
+[15] B.W. Matthews, Solvent content of protein crystals,J. Mol. Biol. 33 (1968) 491-497.   
+[16] Y. Park, G. Hua,M.A.F. Abdullah, K. Rahman, M.J. Adang, Cadherin fragments from Anopheles gambiae synergize Bacillus thuringiensis Cry4Ba's_ toxicity against Aedes aegypti Larvae, Appl. Environ. Microbiol. 75 (2009) 7280-7282.   
+[17] 1. Corp, IBM SPSS Statistics for Windows, Version 22.0, IBM Corp.,Amonk, NY, 2013.   
+[18] E. Krissinel, K. Henrick, Inference of macromolecular assemblies from crystalline state,J. Mol. Biol. 372 (2007) 774-797.   
+[19] L. Holm, P. Rosenstrom, Dali server: conservation mapping in 3D, Nucl. Acids Res. 38 (2010) W545-W549.   
+[20] JA. Baum, U.R. Sukuru, S.R. Penn, S.E. Meyer, S. Subbarao, X. Shi, S. Flasinski, G.R. Heck, R.S. Brown, T.L. Clark, Cotton plants expressing a hemipteran-active Bacillus thuringiensis crystal protein impact the development and survival of Lygus hesperus (Hemiptera:Miridae） nymphs, J. Econ. Entomol. 105 (2012) 616-624.   
+[21] J.Baum,S.R. Penn,S. Flasinski, X. Shi, G.R.Heck, S.U. Rao,Hemipteran-and coleopteran- active toxin proteins from Bacillus thuringiensis U.S.Patent 8 513 493,issued date Aug 20,2013.   
+[22] L.Abrami，M.C. Velluz,Y. Hong，K. Ohishi，A. Mehlert，M. Ferguson, T. Kinoshita,F.G.van der Goot, The glycan core of GPI-anchored proteins modulates aerolysin binding but is not sufficient: the polypeptide moiety is required for the toxin-receptor interaction, FEBS Let. 512 (2002) 249-254.   
+[23] C.R. MacKenzie, T. Hirama, J.T. Buckley, Analysis of receptor binding by_the channel-forming toxin aerolysin using surface plasmon resonance, J. Biol. Chem. 274(1999) 22604-22609.   
+[24] A.R. Cole,M. Gibert, M. Popoff, D.S. Moss,R.W. Titball, A.K. Basak, Clostridium perfringens epsilon-toxin shows structural similarity to the pore-forming toxin aerolysin, Nat. Struct. Mol. Biol. 11 (2004) 797-798.   
+[25] JL. Asensio, A. Arda, F.J. Canada, J. Jiménez-Barbero, Carbohydrate-aromatic interactions, Acc. Chem. Res. 46 (2013) 946-954.   
+[26] M.T. Degiacomi, Lacovache, Pernot,M. Chami, M. Kudryashev, H. Stahlberg,F.G. van der Goot,M. Dal Peraro,Molecular assembly of the aerolysin pore reveals a swirling membrane-insertion mechanism, Nat. Chem. Biol. 9 (2013) 623-629.   
+[27] A.R. Fersht,L. Serrano,Principles of protein stability derived from protein engineering experiments, Curr. Opin. Struct. Biol. 3(1993) 75-83.   
+[28] B. Walker, O. Braha,S. Cheley,H. Bayley, An intermediate in the assembly of a pore-forming protein trapped with a genetically-engineered switch, Chem. Biol. 2 (1995) 99-105.   
+[29] I. Iacovache,P.Paumard, H. Scheib, C. Lesieur, N. Sakai, S. Matile,M.W. Parker, F.G.van der Goot, A rivet model for channel formation by aerolysin-like poreforming toxins, EMBO J. 25 (2006) 457-466.

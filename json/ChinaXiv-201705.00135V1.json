@@ -1,0 +1,318 @@
+[
+    {
+        "type": "text",
+        "text": "Insights into Changes of Lattice and Electronic Structure Associated with Electrochemistry of $\\mathsf { L i } _ { 2 } \\mathsf { C o S i O } _ { 4 }$ Polymorphs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Caixia Zhang,\\* Zhenlian Chen, Yongzhi Zeng Zhifeng Zhangand Jun Li\\*# +College of Physics and Information Engineering, Fuzhou University,Fuzhou 350l16, PR China Ningbo Institute of Material Technology and Engineering, Chinese Academyof Sciences,Ningbo 315201,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: First-principles calculations combined with XRD simulations are performed to systematically study crystal structures， bonding characteristics and electronic structures of ${ \\mathrm { L i } } _ { x } { \\mathrm { C o S i O } } _ { 4 }$ 0 $\\mathit { \\check { x } } \\ : = \\ : 2 . 0 ,$ ，1.5，1.0） polymorphs with symmetries $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ and $P b n 2 _ { 1 }$ .The calculated average voltages by lithium extraction agree well with available experiments. $\\mathrm { C o O } _ { 4 }$ tetrahedron is the key structural unit to track the process of delithiation. The oxidation of $\\mathrm { C o O } _ { 4 }$ tetrahedron results in a special pattern of bonding characteristic, which corresponds to spin ordering and may be observable in XRD spectra according to simulation. We find delithiated phases are intrinsic Mott insulators, electronic band gaps change from MottHubbard-type to charge-transfer-type during lithium removing. The swapping of near-gap states is associated with the contraction of the oxidized $\\mathrm { C o O } _ { 4 }$ units， indicating Peierls distortions that may be the physical origin of capacity degrading of $\\scriptstyle \\mathbf { C o - }$ silicate chemistry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/49b551185c9d03e0c08f4bdd42f224799c2eaaacafd2696268df13c176a804ed.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The urgent need to double energy density from the current state-of-the-art lithium-ion batteries has drawn intense interest in finding or designing a new chemistry beyond oxide cathode materials such as $\\mathrm { L i C o O } _ { 2 }$ and $\\mathrm { L i M n } _ { 2 } \\dot { \\mathrm { O } } _ { 4 }$ 1-3 High capacity in the desired voltage range of electrolytes with better safety and longer cycle life is continuously the preliminary requirement of the new chemistry for application to scalable energy storage in electric transportation and power-grid.4-6 Polyoxyanion compounds，typically, ${ \\mathrm { L i F e P O } } _ { 4 }$ proposed by Goodenough，et al,have received wide recognition as safe cathode materials.7 Extensive studies on olivine phosphate chemistry have been carried out in order to understand the physical origin of electrochemical performance of polyoxyanion frameworks.8-11 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Transition metal silicates $\\mathrm { L i } _ { 2 } \\mathrm { M S i O } _ { 4 }$ 0 $\\mathbf { \\dot { M } } = \\mathbf { F e }$ ，Mn, Co,Ni) have attracted significant attention_as_a new type of polyoxyanion cathodes since $2 0 0 5 . ^ { 1 2 - 1 9 }$ \"All cations in $\\mathrm { L i } _ { 2 } \\mathrm { M S i O } _ { 4 }$ form tetrahedral units $( \\mathrm { X O } _ { 4 } ) ^ { m - }$ $\\mathrm { ( X ~ = ~ L i , ~ M , ~ S i ) }$ very different from octahedral units in olivine phosphate chemistry.All silicate formulas indicate high theoretical capacities over $3 0 0 \\ \\mathrm { m A h / g }$ if two lithium ions extracted.Feand Mn-silicates have achieved nearly $2 ~ \\mathrm { L i ^ { + } }$ extraction in recent works,20,21 thanks to continuing advances in synthesis of nanostructure and carbon-coating.22 22,23oto ical performance of $\\mathrm { F e - }$ and Mn-silicates seems unstable and their working voltages are low,under $3 \\mathrm { \\ : V } .$ ，not preferred with current electrolytes for high energy density.Recent calculations have carefully analyzed the bonding characteristic of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ in order to determine the critical structural units that impact electrochemistry of tetrahedral framework.14 It has been proposed to modify silicate chemistry through synergy effects as did the transition metal ternary oxides.16 Such an attempt in silicates was mostly limited to the mixing of Fe and Mn,and no improvement was reported in literature so far.24 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is worth pointing out that Co also play a key role in the solid solution ternary oxides, $\\mathrm { L i } ( \\mathrm { N i C o M n } ) _ { 1 / 3 } \\mathrm { O } _ { 2 }$ and Li$\\left( \\mathrm { N i } _ { 0 . 8 } { \\bf C o } _ { 0 . 1 5 } \\mathrm { A l } _ { 0 . 0 5 } \\right) { \\bf O } _ { 2 }$ . We notice that Co-silicate could discharge at around $4 \\mathrm { ~ V } ,$ almost $_ { \\mathrm { ~ 1 ~ V ~ } }$ higher than both $\\mathrm { F e - }$ and Mn-silicates and as-prepared $\\scriptstyle { \\mathrm { C o - } }$ silicatepolymorphs did not present voltage degradation as always did $\\mathrm { F e - }$ and Mn-silicates.23,25However，Co-silicatechemistryisstill struggling to deliver high capacity.Therefore,it is important to understand the intrinsic electrochemistry of Co-silicate and its difference from other silicate chemistry. Previous firstprinciples calculation indicated a high average voltage at $5 . 0 \\mathrm { V }$ would be required to extract fully two lithium ions and average voltages for partially delithiated phases distributed in a wide range for Co-silicate.26-28 Those predictions disagreed with recent experiments on carefully characterized Co-silicates with symmetries $\\beta _ { \\mathrm { H } ^ { - } } P m n 2 _ { 1 } , \\ \\beta _ { \\mathrm { I } ^ { - } } P b n 2 _ { 1 } ,$ and $\\gamma _ { 0 } \\mathrm { { - } } P 2 _ { 1 } / n$ 16,22,23 In our recent work,we identifed all the three synthesized polymorphs were in 3D framework lattices,containing no 2D layers existing in Fe- and Mn-silicates,whose crystal structures have been used as the starting template in previous Co-silicate calculations.And the difference of lattice dimensions in $\\scriptstyle \\mathbf { C o - }$ silicate polymorphs can be well distinguished by their $\\mathrm { \\Delta X }$ -ray diffraction (XRD） spectra.29 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This work, mainly by using first-principles calculations and XRD simulations,aims to offer further details on the effect of the crystal structure and electronic structure of Co-silicate $\\mathrm { L i } _ { x } \\mathrm { C o S i O } _ { 4 } ( x = 2 ,$ 1.5,1.0) polymorphs on their electrochemical properties. The average voltages are calculated to compare with the available experiment.We find that $\\mathrm { C o O } _ { 4 }$ tetrahedral arrays are a critical structure unit in the process of lithium intercalation/extraction.Both atom magnetic moments and local lattice structures of $\\mathrm { C o O } _ { 4 }$ units are investigated for delithiated $\\mathrm { L i } _ { x } \\mathrm { C o S i O } _ { 4 } ( x ~ = ~ 1 . 5 , ~ 1 . 0 )$ ．The electronic band structures of delithiated phases are found to be intrinsic Mott insulators，changing from Mott-Hubbard-type to chargetransfer-type during delithiation. This may provide physical insights on the limited capacity of Co-silicates.We believe that it is essential to identify the key structural unit thatis important to polymorph structure and redox potential for silicate chemistry in general. The understanding of $\\mathrm { C o - }$ silicatemay benefit not only its own electrochemistry but also its use as a potential component in solid solution silicates. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ff1efc1c1ae5c5ee7ba064a5f83c1483490147dfddca60fd80399023e4ace03.jpg",
+        "table_caption": [
+            "Table 1.Equilibrium Volumes,Total Energies,Magnetic Moments per Co,and Average Voltages for $\\mathbf { L i _ { 2 } C o S i O _ { 4 } }$ and Delithiated $\\mathbf { L i } _ { x } \\mathbf { C o S i O } _ { 4 }$ $( x = 1 . 5 , 1 . 0 ) ^ { a }$ （204号 ",
+            "\"Average voltages for the first $0 . 5 \\mathrm { L i }$ (per formula unit) extraction are from ${ \\mathrm { L i } } _ { 2 } { \\mathrm { C o S i O } } _ { 4 }$ to $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ and the second $0 . 5 \\mathrm { L i }$ (per formula unit) from $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } }$ to ${ \\mathrm { L i C o S i O } } _ { 4 } ,$ respectively.All calculations are in FM configurations by full $\\mathrm { G G A { + } U }$ calculation including structural relaxing.Estimated from ref 23.Reference 26.Reference 24.Reference 28.fReference 42.Allother calculations were based on layered $P m n 2 _ { 1 }$ structures for one lithium extraction from $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ to ${ \\mathrm { L i C o S i O } } _ { 4 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Li2CoSiO4</td><td colspan=\"2\">Li1.5CoSiO4</td><td colspan=\"2\">LiCoSiO4</td></tr><tr><td>Pmn2-DP</td><td>Pbn21</td><td>Pmn2[-DP</td><td>Pbn21</td><td>Pmn21-DP</td><td>Pbn21</td></tr><tr><td>Ω(A)/formula unit</td><td>85.095</td><td>85.071</td><td>86.452</td><td>85.093</td><td>87.302</td><td>87.378</td></tr><tr><td>Energy(eV) /formula unit</td><td>-51.545</td><td>-51.547</td><td>-48.564</td><td>-48.650</td><td>-45.559</td><td>-45.539</td></tr><tr><td>m (μB)/Co ion</td><td>2.759</td><td>2.761</td><td>2.747, 3.103</td><td>2.748, 3.112</td><td>3.166</td><td>3.166</td></tr><tr><td>Voltage-Cal.(V)</td><td></td><td></td><td>4.062</td><td>3.896</td><td>4.110</td><td>4.320</td></tr><tr><td>Exp. (V)b</td><td></td><td></td><td>3.7-4.0</td><td>3.5-4.3</td><td>4.0-4.3</td><td>4.3-4.6</td></tr><tr><td>Others-Cal.(V)</td><td></td><td></td><td></td><td></td><td>4.4, 3.4d, 4.13, 4.1f</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.COMPUTATIONALDETAILS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have determined the key crystal structures of polymorphs: $\\beta _ { \\mathrm { I I } } – P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ = $\\beta _ { \\mathrm { r } } P b n 2 _ { \\mathrm { l } } ,$ and $\\gamma _ { 0 } { - } P 2 _ { 1 } / n$ in our recent work via a detailed comparison with the carefully characterized experimental structures230Wehaveattached DP to $\\beta _ { \\mathrm { I I } } { - } P m n 2 _ { 1 }$ to explicitly indicate its XRD feature and its difference from layered $P m n 2 _ { 1 }$ structures.The primary cell contains 2 formula units for $P m n 2 _ { 1 }$ -DP symmetry and 4 formula units for both $P b n \\boldsymbol { 2 } _ { 1 }$ and $P 2 _ { \\mathrm { 1 } } / n$ symmetries.All the three polymorphs are 3D framework lattices，with no 1D lithium ion channel as in ${ \\mathrm { L i F e P O } } _ { 4 }$ or 2D lithium ion layers as in $\\operatorname { L i C o O } _ { 2 }$ or $\\mathrm { F e - }$ and Mn-silicates.All of them can be distinguished by characters in XRD, $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ structure shows a double peak around $2 5 ^ { \\circ }$ in $2 \\theta$ while both $\\beta _ { \\mathrm { I } ^ { - } } P b n 2 _ { 1 } ,$ and $\\gamma _ { 0 } { - } P 2 _ { 1 } / n$ show similar one-triple peak patterns in similar angle ranges. Detailed structure information and comparison with experiment spectra for the fully lithiated $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ has been reported in our recent work.29 Therefore,this work will focus on partially delithiated $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ and $\\beta _ { \\mathrm { I } } { \\cdot } P b n 2 _ { \\mathrm { 1 } }$ to address the key relationship between polymorphic structure and electrochemical properties. All the calculations were performed using the Vienna ab initio simulation package $( \\mathrm { V } \\mathrm { A } \\mathrm { S P } ) ^ { 3 1 }$ within the framework of density functional theory (DFT)，employing the projectoraugmented wave (PAW） method with the spin-polarized generalized gradient approximation （GGA） of PerdewBurke-Ernzerhof (PBE),32-34 and adding the Hubbard parameter correction $\\mathbf { \\Pi } ( \\mathrm { G G A + U } )$ to address the strong onsite Coulomb interaction for transition metals. $\\tt D F T + U$ method and hybrid functional method are two popular schemes treating the self-interaction error in the conventional DFT framework.But $\\mathrm { \\Delta D F T + U }$ method is superior to hybrid functional method in predicting Li intercalation potentials,magnetic moments,and charge localization for all the positive electrode materials containing 3d electrons in transition metals,due to hybrid functional method being sensitive to the bonding environment of the oxygen,in a way not found in $\\mathrm { G G A + \\bar { U } }$ .35Extensive calculations have showed that $\\mathbf { G } \\mathbf { G } \\mathbf { A } \\mathbf { + } \\mathbf { U }$ corrections can give quantitatively good agreement with experimental average voltages only through careful adjustment of values of U, which strongly depend on the elements and the valence states in materials. For $\\mathbf { G } \\mathbf { G } \\mathbf { A } \\mathbf { + } \\mathbf { U }$ calculations，the “effective”value $\\left( \\mathrm { U - J } \\right)$ was set to be $5 . 0 \\ \\mathrm { e V }$ for ${ \\mathrm { L i } } _ { x } { \\mathrm { C o S i O } } _ { 4 }$ 0 $\\mathbf { \\chi } _ { x } = 2 . 0$ ，1.0), such parameters setting has been considered suitable in previous frst-principlesstudie867lefor $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } } ,$ we found an effective value of $4 . 5 \\ \\mathrm { e V }$ better for describing the formal charge separation between ${ \\mathrm { C o } } ^ { 2 + }$ and ${ \\mathrm { C o } } ^ { 3 + } .$ ，due to the slight difference of localized $\\textrm { d }$ -electrons associated with ${ \\mathrm { C o } } ^ { 2 + }$ and ${ \\mathrm { C o } } ^ { 3 + }$ ions. A ${ 5 0 0 } ~ \\mathrm { e V }$ cut off for the plane-wave basis set was used.Integrations in the first Brillouin zone were performed using Monkhorst-Pack special $k$ point mesh of $1 0 \\times 1 2 \\times 1 2$ and $1 0 \\times 6 \\times 1 2$ for the primary unit cells of $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ polymorphs with symmetries $P m n 2 _ { 1 }$ and $P b n 2 _ { 1 } ,$ respectively. Structural relaxations were performed with the total energy converged to $1 0 ^ { - 5 } ~ \\mathrm { e V }$ or better and all forces acting on ions found to be $0 . 0 0 5 \\ \\mathrm { e V } / { \\hat { \\mathrm { A } } }$ ，The same FM configurations were used to calculate delithiated ${ \\mathrm { L i } } _ { x } { \\mathrm { C o S i O } } _ { 4 }$ asin $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 } .$ （204号 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We used the standard first-principles voltage calculation,38 which is derived from the calculated total energies of host compounds ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { V } = - \\frac { E \\big ( \\mathrm { L i } _ { x } \\mathrm { C o S i O } _ { 4 } \\big ) - E \\big ( \\mathrm { L i } _ { y } \\mathrm { C o S i O } _ { 4 } \\big ) - ( x - y ) \\mu ( \\mathrm { L i } ) } { ( x - y ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E } \\big ( \\mathrm { L i } _ { x } \\mathrm { C o S i O } _ { 4 } \\big )$ is the total energy of the initial phase ${ \\mathrm { L i } } _ { x } C { \\mathrm { o S i O } } _ { 4 } ,$ $\\mathrm { E } ( \\mathrm { L i } _ { y } \\mathrm { C o S i O } _ { 4 } )$ is the total energy of the following delithiated phase $\\mathrm { L i } _ { y } \\mathrm { C o S i O } _ { 4 } , \\mu ( \\mathrm { L i } )$ is the total energy of BCC lithium metal, $( x - y )$ is the fraction of extracted lithium ions per formula unit, and $\\overline { { V } }$ is the theoretical average voltage for lithium concentration between $x$ and $y ,$ generally used as the intrinsic voltage of electrode materials of Li-ion batteries and compared to experimental voltage measurements in literature. Abundant first-principles calculations over past decade have showed the accuracy and predictive power of this voltage expression (1),often within $0 . 1 { - } 0 . 2 \\mathrm { ~ V ~ }$ of experimental voltage profiles for many cathode materials.39-41 For $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } } ,$ we compared two nonequivalent lithium-vacancy configurations for $P m n 2 _ { 1 }  – \\mathrm { D P } .$ ，and nine nonequivalent configurations for $P b n 2 _ { 1 }$ For ${ \\mathrm { L i C o S i O } } _ { 4 } ,$ we considered three nonequivalent distributions for $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ and 35 representative patterns for $P b n 2 _ { 1 }$ .The lithium-vacancy configuration having the lowest energy is used to calculate the voltage profile by eq l,and then corresponding delithiated structure is further analyzed to offer insights on the physical origin of electrochemical properties of Co-silicates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTSAND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Voltage Profile of $\\mathsf { L i } _ { 2 } \\mathsf { C o S i O } _ { 4 }$ Polymorphs.Table1 shows that the voltage of $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ gently increases from 4.062 to $4 . 1 1 0 \\mathrm { ~ V ~ }$ when extracting one full lithium ion per formula unit. On the other hand, the $P b n 2 _ { 1 }$ structure,while starting from a slightly lower voltage at $3 . 8 9 6 \\mathrm { V }$ for the first half $\\mathrm { L i } ^ { + }$ extraction， jumps to $4 . 3 2 0 \\mathrm { ~ V ~ }$ during the second half $\\mathrm { L i } ^ { + }$ extracting from $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ to ${ \\mathrm { L i C o S i O } } _ { 4 }$ ，This notable difference of voltage platform changes agrees with the experimental observation.23 Up to cutoff $4 . 3 \\ \\mathrm { V } ,$ about one lithium per formula unit was extracted from $P m n 2 _ { \\mathrm { 1 } } { \\mathrm { - D P } }$ but only about 0.5 lithium extraction per formula unit for $P b n 2 _ { 1 }$ .23 To remove one lithium ion from $P b n 2 _ { 1 } ,$ cutoff voltage had to be increased to $4 . 6 ~ \\mathrm { V } .$ ，This confirms a higher voltage platform needed to extract the second half lithium ion from $P b n 2 _ { 1 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1 also shows previous voltage calculations of partially delithiated phases are distributed in a wide range for $\\scriptstyle { \\mathrm { C o - } }$ silicates, $^ { 2 4 , 2 6 , 2 8 , 4 2 }$ ranging from 3.4 to $4 . 4 \\mathrm { V }$ and disagreeing with experimental trends. We notice that previous Co-silicate calculations were often using $\\mathrm { F e - }$ and Mn-silicates as the starting template, which contains Dlithium layers.24,26-28,42 As we have pointed out that there exists no such lithium layers in synthesized Co-silicate polymorphs according to XRD analysis.30 Voltage calculations indicate that the electrochemical properties of silicates also strongly depend on detailed tetrahedral networks.43 The dimension of tetrahedral networks is the basic structural difference between Co-silicates and other silicates in synthesized polymorphs.We have found that $\\mathrm { C o O } _ { 4 }$ arrays are a suitable indicator of cationic ordering to track polymorphic structures of Co-silicates in XRD.29 Our calculations of voltage profiles indicate cationic orderings also remarkably affect details of voltage platforms.And our calculation suggests that $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ is within the fair voltage window of current electrolytes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Spin Ordering Formation with Oxidation of ${ \\mathsf { C o O } } _ { 4 }$ Arrays. Table 1 gives magnetic moments of 2.759 and $2 . 7 6 1 \\mu _ { \\mathrm { B } }$ per Co in $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ for $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ and $P b n 2 _ { \\mathrm { 1 } } ,$ respectively.A clear pattern shows up in magnetic moments with the change of valencestatesof $\\scriptstyle { \\mathrm { C o } }$ ions during delithiation.All polymorphs confirm the formal valence ${ \\mathrm { C o } } ^ { 2 + }$ with electronic configuration of $3 \\mathrm { d } ^ { 7 }$ at a high-spin state, close to $2 . 7 8 ~ \\mu _ { \\mathrm { B } }$ per Co in the same valence ${ \\mathrm { C o } } ^ { 2 + }$ at the high-spin state of the olivine structure $\\mathrm { L i C o P O } _ { 4 }$ 39However，the ${ \\mathrm { C o } } ^ { 2 + }$ ionin $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ isin tetrahedral coordination with surrounding weak oxygen ligand field.The quasi-tetrahedral crystal field in ${ \\mathrm { L i } } _ { 2 } { \\mathrm { C o S i O } } _ { 4 }$ splits the 5-fold degenerated states of the $C _ { 0 }$ ion into two subsets, two low-lying e states and three high-lying $\\mathbf { t } _ { 2 }$ states,different from the order $( \\mathbf { t } _ { 2 \\mathrm { g } } , \\ \\mathbf { e } _ { \\mathrm { g } } )$ in the strong octahedral ligand field of the olivine structures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The redox pair ${ \\mathrm { C o } } ^ { 2 + } / { \\mathrm { C o } } ^ { 3 + }$ is conceptually believed important to electrochemistry of Co-silicates.As pointed out in a recent work,44 magnetic orders are measurably preferred to the concept of charge-on-ions for the formal valences in the solid state.Table 1 confirms such a clear correlation between the spin states and the formal valences of Co ions in the course of oxidation.It is of interest that the magnetic moment $3 . 1 6 6 ~ \\mu _ { \\mathrm { B } }$ of the tetrahedral ${ \\mathrm { C o } } ^ { 3 + }$ in ${ \\mathrm { L i C o S i O } } _ { 4 }$ is again comparable to 3.27 $\\mu _ { \\mathrm { { B } } }$ of the octahedral ${ \\mathrm { C o } } ^ { 3 + }$ in olivine phosphate.9 Delithiated $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ consists of half Co in the formal double and triple valences,respectively，as manifested by two types of magnetic moments,or formally called the charge separation of Co ions on the $\\mathrm { C o O } _ { 4 }$ arrays.Parts a and b of Figure 1 showa detail pattern of the spin ordering(or magnetic ordering） for $\\beta _ { \\mathrm { I I } }$ and $\\beta _ { \\mathrm { I } } \\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 } ,$ respectively.In Figure la, different spin Co ions settle on different layers;in Figure 1b,both lay on the same layers.We find that the formal valence agrees with the local oxidation situation of $\\mathrm { C o O } _ { 4 }$ arrays. The ${ \\dot { \\mathrm { C o } } } ^ { 3 + }$ ions with $3 . 1 ~ \\mu _ { \\mathrm { B } }$ are nearby the Li-vacancy while the ${ \\mathrm { C o } } ^ { 2 + }$ ions with $2 . 7 \\mu _ { \\mathrm { B } }$ locate distant from the Li-vacancy, confirming the formal charge of Co ions. Correspondingly, the magnetic moments of $\\mathrm { ~ O ~ }$ ions split according to the oxidation states of nearby $\\scriptstyle { \\mathrm { C o } }$ ions:in the range of $0 . 0 3 { - } 0 . 0 7 \\mu _ { \\mathrm { B } }$ if near ${ \\mathrm { C o } } ^ { 2 + }$ ions and increasing to $0 . 1 0 -$ $0 . 2 0 ~ \\mu _ { \\mathrm { B } }$ if near ${ \\mathrm { C o } } ^ { 3 + }$ ions. Thus, tetrahedral $\\mathrm { C o O } _ { 4 }$ as a group is better to track the oxidation/reduction process than does single Co ion. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/79d42aae97615db56ee27f39a785ebe172496352a86383e2caffb0d561491e40.jpg",
+        "img_caption": [
+            "Figure 1.Layout of the spin ordering in delithiated $\\operatorname { L i } _ { 1 . 5 } { \\operatorname { C o S i O } } _ { 4 } { \\mathrm { ; } }$ (a) $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P } ;$ ：(b) $P b n 2 _ { 1 }$ .Green,blue,gray,and red balls correspond to Li, Co, Si, and $\\mathrm { ~ o ~ }$ atoms with big balls on top layer and small balls on low layer for comparison,with not all ions shown.Magnetic moments are showed in units of $\\mu _ { \\mathrm { { B } } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows that the volume difference between $\\beta _ { \\mathrm { I I } }$ and $\\beta _ { \\mathrm { I } }$ become large at $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ but become small at ${ \\mathrm { L i C o S i O } } _ { 4 }$ $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ presents a smooth volume expansion over the entire extraction while $P b n 2 _ { 1 }$ shows a steep expansion from $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ to ${ \\mathrm { L i C o S i O } } _ { 4 } ,$ which also accompanies the voltage jump.This is correlating to the different pattern of charge separation that increases Coulomb repulsions among ionic tetrahedrons by the oxidation of ${ \\mathrm { C o } } ^ { 2 + }$ to ${ \\mathrm { C o } } ^ { 3 + }$ ions.Table 2 reveals a clear evolution of bonding characteristic over the entire oxidation from $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ to ${ \\mathrm { L i C o S i O } } _ { 4 }$ ，Overall，the average $\\mathrm { { \\ s i - O } }$ bond lengths and $\\mathrm { S i O } _ { 4 }$ tetrahedral volumes remain almost unchanged, indicating a strong covalent bonding between Si and O atoms that plays a central role to keep the structural skeleton stable during lithium extraction. The average $_ \\mathrm { L i - O }$ bond lengths show a slight change of about $1 \\%$ and $\\mathrm { L i O } _ { 4 }$ tetrahedral volumes change less than $2 . 5 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows a $20 \\%$ volume difference between $\\mathrm { C o } ^ { 3 + } \\mathrm { O } _ { 4 }$ and $\\mathrm { C o } ^ { 2 + } \\mathrm { O } _ { 4 } ,$ in according with about $7 \\%$ difference in average $\\scriptstyle \\mathbf { C o - }$ O bond lengths.The oxidation of $\\mathrm { C o } ^ { 2 + } \\mathrm { O } _ { 4 }$ to $\\mathrm { C o } ^ { 3 + } \\mathrm { O } _ { 4 } ^ { - }$ units, however,decreases electronic repulsions between Co and the surrounding O ions,mostly due to the transfer of electrons on one e orbitals;consequently, the bond length between Co and O sites becomes reduced.The Co ions in the $\\mathrm { C o O } _ { 4 }$ units with shorter average $\\scriptstyle \\mathbf { C o - O }$ bond lengths have higher magnetic moments at about $3 . 1 ~ \\mu _ { \\mathrm { B } } ,$ while those in the $\\mathrm { C o O } _ { 4 }$ units with longer average $\\scriptstyle \\mathbf { C o - O }$ bond lengths have lower magnetic moments at about $2 . 7 \\mu _ { \\mathrm { B } }$ (cf.Figure 1),in compliance with the inverse dependence of valence states of transitional metal M on average M-O bond lengths.45 I $\\nmid P m n 2 _ { 1 } \\mathrm { - D P }$ ,the $\\mathrm { C o } ^ { 2 + } \\mathrm { O } _ { 4 }$ unit in $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ contract slightly from that of $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ while it is a slight expansion in $P b n 2 _ { 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/36c5620346e21da571f33f64615b0811ef472da1fed9c2b2142d86ec415772c4.jpg",
+        "table_caption": [
+            "Table 2.Variations of Average Bond Lengths $( \\mathbf { L i - O } , \\mathbf { C o - O } ,$ Si-O）and Tetrahedral Volumes $\\left( \\mathbf { L i O } _ { 4 } , \\mathbf { C o O } _ { 4 } , \\mathbf { S i O } _ { 4 } \\right)$ upon One Lithium Extraction from $\\mathbf { L i _ { 2 } C o S i O _ { 4 } } ,$ through （204号 $\\mathbf { L i _ { 1 . 5 } C o S i O _ { 4 } } ,$ to $\\mathbf { L i C o S i O _ { 4 } }$ for $P m n 2 _ { 1 } – \\mathbf { D P }$ and $P b n 2 _ { 1 }$ Structures "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">LixCoSiO4</td><td colspan=\"3\">Pmn2_-DP</td><td colspan=\"3\">Pbn21</td></tr><tr><td>x=2</td><td>x = 1.5</td><td>x =1</td><td>x= 2</td><td>x = 1.5</td><td>x=1</td></tr><tr><td>dco-o (A)</td><td>1.995</td><td>1.993 1.870</td><td>1.870</td><td>1.997</td><td>2.006 1.872</td><td>1.871</td></tr><tr><td>dsi-o (A)</td><td>1.657</td><td>1.655</td><td>1.648</td><td>1.657</td><td>1.654</td><td>1.649</td></tr><tr><td>dLi-o (A)</td><td>2.004</td><td>2.026</td><td>2.023</td><td>2.003</td><td>2.005</td><td>2.023</td></tr><tr><td>Vcoo (A3)</td><td>4.064</td><td>4.022</td><td>3.296</td><td>4.075</td><td>4.127</td><td>3.328</td></tr><tr><td></td><td></td><td>3.294</td><td></td><td></td><td>3.302</td><td></td></tr><tr><td>VsiO4 (A³)</td><td>2.332</td><td>2.320</td><td>2.295</td><td>2.332</td><td>2.321</td><td>2.296</td></tr><tr><td>VLiO4 (A3)</td><td>4.094</td><td>4.190</td><td>4.116</td><td>4.086</td><td>4.064</td><td>4.034</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There is a concern on whether or not such a theoretical picture of spin ordering (or charge separation） of $\\mathrm { C o O } _ { 4 }$ arrays can be observed.38 Figure 2 predicts the bonding characteristic associated with the oxidation indeed produces visible features in simulated XRD spectra.An obvious spliting of the main peaks shows up in the spectra of $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } } ,$ and due to the significant contraction of tetrahedral $\\mathrm { C o } ^ { 3 + } \\mathrm { O } _ { 4 }$ units，a set of peaks between $2 5 ^ { \\circ }$ and $3 0 ^ { \\circ }$ in Figure 2 disappear or combine into a new one around $2 7 ^ { \\circ }$ at ${ \\mathrm { L i C o S i O } } _ { 4 }$ .Such a spectral observance should confirm the fine effect of oxidation on the $\\mathrm { C o O } _ { 4 }$ tetrahedral bonding network. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Effects of Electronic Localization. Expanding lattices with shrinking $\\mathrm { C o O } _ { 4 }$ units would prompt one to expect a large space for lithium ion movement, which might suggest a better rate capability and easy discharging for lithium move-in. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However,all synthesized polymorphs of $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ presented awkward_discharging capacity even right after the first charging.23 Hard electron transport has been blamed for the bad discharging. However， the nature of the electronic structuresat delithiated phases( $\\stackrel { \\prime } { x } = 1 . 5 .$ ，1.0)and the influence of the lattice change on the electron configuration upon the $\\mathrm { C o O } _ { 4 }$ oxidation have not been addressed in details so far. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our $\\mathbf { G } \\mathbf { G } \\mathbf { A } \\mathbf { + } \\mathbf { U }$ calculations find both delithiated phases $\\mathbf { \\boldsymbol { x } } =$ 1.5,1.0）are Mott insulators for both $\\beta _ { \\mathrm { I I } ^ { - } }$ and $\\beta _ { \\mathrm { I } }$ -polymorphs and the nature of insulating gaps strongly depends on the oxidation states of Co ions.Parts a and b of Figure 3 show that gap states are similar for $\\beta _ { \\mathrm { H } ^ { - } }$ and $\\beta _ { \\mathrm { I } } { \\mathrm { - } } \\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ $P b n 2 _ { 1 }$ has a slightly bigger gap than $P m n 2 _ { 1 }$ . The density of states (DOS) of ${ \\bar { \\mathbf { \\mathbf { C } } } } \\bar { \\mathbf { \\mathbf { o } } } ^ { 2 + }$ in the upper panel of Figure 3 indicates a Mott-Hubbardtype insulating gap between sharp e- and $\\mathbf { t } _ { 2 }$ -bands for the electronic configuration $\\mathrm { e } ^ { 4 } \\mathrm { t } _ { 2 } { } ^ { 3 }$ .The occupied spin-up bands of ${ \\mathrm { C o } } ^ { 3 + }$ ions move $- 5 \\mathrm { { e V } }$ below Fermi levels,showed in the lower panel of Figure 3.Because of the strong hybridization，a remarkable change in the $\\mathrm { C o } ( 3 \\mathrm { d } ) { \\cdot } \\mathrm { O } ( 2 \\mathrm { p } )$ orbital overlap (socalled rebonding shift) enhances the covalent bonding between the Co ions and the surrounding oxygen ligands.No obvious sharp occupied spin-down e-bands near the gap presents in the DOS of $\\bar { \\mathrm { C o } ^ { 3 + } }$ ，thus，it is a charge-transfer-type insulating. In $\\mathrm { L i C o S i O } _ { 4 } ,$ all the formal triple valence ${ \\bf C o } ^ { 3 + }$ ions are in the configuration $ { \\mathbf { e } } ^ { 3 }  { \\mathbf { t } } _ { 2 } ^ { 3 }$ and the insulating gap becomes a complete charge transfer-type. The swapping of the interaction between $3 \\mathrm { d } ( \\check { \\mathrm { C o } } ) - 2 \\mathrm { p ( O ) }$ orbitals changes the nature of the insulating gap from Mott-Hubbard-type to charge-transfer-type,a similar phenomenon has been observed in other systems.46 This swapping is an evident proof of the band structure change by lithium intercalation/extraction,which is different from simple energy level shift in rigid-band model or redox couple pinning. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a7d669d8359dae86dcf369bbed1fb5bb9494b9d31c2c08a01d004b3a1417a1f.jpg",
+        "img_caption": [
+            "Figure 3.The partial density of states of $C _ { 0 }$ ions on different tetrahedral $\\mathrm { C o O } _ { 4 }$ sites(c.f.Figure 1) in delithiated $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } }$ ：(a) $P m n 2 _ { \\mathrm { 1 } } { \\mathrm { - D P } } .$ (b) $P b n 2 _ { 1 }$ .Fermi levels are at zero. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c522aa46fc1e818ef988cf56852b774da1f12bf1f1cdef4c56352a7fa9d470a.jpg",
+        "img_caption": [
+            "Figure 2.Simulated X-ray diffraction for $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ and ${ \\mathrm { L i C o S i O } } _ { 4 }$ $P m n 2 _ { \\mathrm { 1 } } { \\mathrm { - D P } }$ and $P b n 2 _ { 1 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The swapping of near-gap states correlates with the contraction of the oxidized $\\mathrm { C o O } _ { 4 }$ units，establishing the cationic electrostatic polarization.13 The correlation can be elucidated through a process of tracking how the electronic structure changes along the structural relaxation after removing the lithium ions. Figure 4a shows that $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ DOS is a ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15 10 Pmn2-DP-LiCoSiO Pmn2,-DP-LiCoSiO 5 AAMw not-relaxed MwWnot-relaxed loe ntrtte/ssiettstttr 0 wMw Ww -5 -10 15 15 10 Pmn2,-DP-LiCoSiO4 Pmn2,-DP-LiCoSiO4 relaxed relaxed 5 M 0- -5 WW -10 -15 --4-20246-8--4-20 246 Energy/eV (a) (b) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "metal-like before lattice relaxation,a clear gap-opening occurs after relaxing the structure of $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } } ,$ along with the building-up of spin ordering by the oxidation of $\\mathrm { C o O } _ { 4 }$ arrays. Figure 4b also shows the gap increasing after relaxing ${ \\mathrm { L i C o S i O } } _ { 4 }$ . Similar gap increasing presents in $P b n 2 _ { 1 } ,$ too.For $\\mathrm { L i _ { 1 . 5 } C o S i O _ { 4 } } ,$ the gap of $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ opens from 0 to $1 . 3 \\ \\mathrm { e V } ,$ larger than the gap increase of $P b n 2 _ { 1 }$ from 0.6 to $1 . 5 \\ \\mathrm { e V } ;$ for ${ \\mathrm { L i C o S i O } } _ { 4 } ,$ the gap increase of $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ from 0.6 to $1 . 5 \\ \\mathrm { e V }$ is smaller than that of $P b n 2 _ { 1 }$ from 0.2 to $1 . 6 ~ \\mathrm { e V }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The coexistence of both latice distortion and band gap opening/increases demonstrates the occurring of Peierls distortions in both delithiated $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ and ${ \\mathrm { L i C o S i O } } _ { 4 } ,$ which are intrinsic Mott insulators.The resulting electronic localization with gap increases is the physical origin of difficult electronic transport during charging and discharging，which may account for the significant loss in discharging capacity of Co-silicates. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this work, we combine first-principles calculations with XRD simulations to systematically study the crystal structures, bonding characteristics and local electronic structures of $\\mathrm { L i } _ { x } \\mathrm { C o S i O } _ { 4 }$ 0 $\\mathbf { \\chi } _ { x } ^ { \\prime } = 2 . 0 \\$ ，1.5,1.0） polymorphs with space groups $P m n 2 _ { \\mathrm { 1 } } – \\mathrm { D P }$ and $P b n 2 _ { 1 }$ .Average voltages by lithium extraction from ${ \\mathrm { L i } } _ { 2 } { \\mathrm { C o S i O } } _ { 4 } ,$ through $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ to ${ \\mathrm { L i C o S i O } } _ { 4 }$ are calculated，agreeing well with available experiment. The tetrahedron bonding network forms a special pattern in the latticesof $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 } ,$ indicating the formation of spin ordering of $\\mathrm { C o O } _ { 4 }$ arrays，and may be observable in XRD spectra according to simulation. Ordering of $\\mathrm { C o O } _ { 4 }$ arrays can be used to characterize the redox process during lithium ions extraction/intercalation.Both delithiated $\\mathrm { L i } _ { 1 . 5 } \\mathrm { C o S i O } _ { 4 }$ and $\\mathrm { L i C o S i O _ { 4 } }$ are intrinsic Mott insulators.The swapping of the interaction between $3 \\mathrm { d } ( \\mathrm { C o } ) - 2 \\mathrm { p ( O ) }$ orbitals changes electronic band structures from Mott-Hubbard-type to charge-transfertype，which correlates with the contraction of the oxidized $\\mathrm { C o O } _ { 4 }$ units,demonstrating the occurring of Peierls distortions that may be responsible for the significant loss in discharging capacity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } ( \\mathrm { J . L . } )$ Telephone:086-0574-86688074.E-mail: lijun@nimte.   \nac.cn. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interest. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge programs supported by the Ningbo Key Innovation Team (2011B82005), the Ningbo postdoctoral Foundation， the National Research program of China (2012CB722700 and SS2013AA050901） and the National Natural Science Foundation of China (11174301,21303235). Shanghai Supercomputer Center is thanked for providing computation resources. We gratefully acknowledge Guoqiang Liu, Xiaobo Chen, Aicui Wang, Yong Liu, Xianhui Zhang, and Deepak Srivastava for helpful discussions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1） Thackeray,M.M.; Wolverton, C.; Isaacs,E.D.Electrical Energy Storage for Transportation-Approaching the Limits of, and Going beyond,Lithium-Ion Batteries.Energy Environ. Sci. 2012,5, $7 8 5 4 -$ 7863.   \n(2）Chebiam，R.V.；Prado，F.；Manthiram，A. Soft Chemistry Synthesis and Characterization of Layered $\\mathrm { L i } _ { 1 - \\alpha } \\mathrm { N i } _ { 1 - y } \\mathrm { C o } _ { y } \\mathrm { O } _ { 2 - \\delta }$ （ $\\left[ 0 \\leqslant x \\leqslant 1 \\right]$ and $0 \\leqslant y \\leqslant 1$ ).Chem.Mater.2001,13,2951-2957.   \n(3)Arunkumar, T.A.; Wu, Y.; Manthiram,A.Factors Influencing the Irreversible Oxygen Loss and Reversible Capacity in Layered $\\mathrm { L i } \\big [ \\mathrm { L i } _ { 1 / 3 } \\mathrm { M n } _ { 2 / 3 } \\big ] \\mathrm { O } _ { 2 } \\mathrm { - L i } \\big [ \\mathrm { M } \\big ] \\mathrm { O } _ { 2 }$ $\\begin{array} { r } { \\big ( \\mathbf { M } \\ = \\ \\mathbf { M } \\mathbf { n } _ { 0 . 5 - y } \\mathbf { N i } _ { 0 . 5 - y } \\mathbf { C o } _ { 2 y } } \\end{array}$ and $\\mathrm { N i } _ { { \\mathrm { 1 } } - y } \\mathrm { C o } _ { y } )$ （204号 Solid Solutions. Chem.Mater. 2007,19,3067-3073.   \n(4)Kang,B.; Ceder,G.Battery Materials for Ultrafast Charging and Discharging.Nature 2009,458,190-193.   \n(5） Simon,P.;Gogotsi, Y.Materials for Electrochemical Capacitors. Nat.Mater.2008,7,845-854.   \n(6) Sun, Y.-K.; Myung, S.-T.; Park, B.-C.;Prakash,J.; Belharouak, I.; Amine，K. High-energy Cathode Material for Long-Life and Safe Lithium Batteries.Nat.Mater.2009,8,320-324.   \n(7) Padhi,A.K.; Nanjundaswamy,K.S.; Goodenough,J.B.PhosphoOlivines as Positive-Electrode Materials for Rechargeable Lithium Batteries.J.Electrochem. Soc.1997,144,1188-1194.   \n(8）Goodenough，J.B.；Kim，Y.Challenges for Rechargeable Li Batteries.Chem.Mater.2010,22,587-603. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(9)Lee, S.W.； Carlton, C.； Risch,M.； Surendranath, Y.; Chen， S.; Furutsuki, S.; Yamada,A.; Nocera,D.G.; Shao-Horn, Y.The Nature of Lithium Battery Materials under Oxygen Evolution Reaction Conditions.J.Am. Chem. Soc.2012,134,16959-16962. (10）Johannes，M.D.；Hoang，K；Allen, J.L.；Gaskell，K.Hole Polaron Formation and Migration in Olivine Phosphate Materials. Phys. Rev. B 2012,85,115106-115111. (11）Markevich,E.； Sharabi,R；Haik,O.；Borgel,V.； Salitra,G.; Aurbach,D.； Semrau，G.；Schmidt，M.A.； Schall，N.； Stinner,C. Raman Spectroscopy of Carbon-coated ${ \\mathrm { L i C o P O } } _ { 4 }$ and LiFe $\\mathrm { P O } _ { 4 }$ Olivines.J. Power Sources 2011,196, 6433-6439. (12）Nyten，A.；Abouimrane，A.；Armand,M.；Gustafsson，T.; Thomas,J.O.Electrochemical Performance of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ as a New LiBattery Cathode Material.Electrochem. Commun.2005,7,156-160. (13）Saracibar，A.；Van der Ven,A.； Arroyo-de Dompablo,M.E. Crystal Structure，Energetics，And Electrochemistry of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ Polymorphs from First Principles Calculations. Chem.Mater.2012, 24,495-503. (14) Eames, C.; Armstrong, A. $\\mathrm { ~ \\text R ~ }$ ; Bruce,P.G.; Islam, M.S.Insights into Changes in Voltage and Structure of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ Polymorphs for Lithium-Ion Batteries.Chem. Mater.2012,24,2155-2161. (15） Santamaria-Perez, D.；Amador,U.； Tortajada,J.; Dominko,R; Arroyo- de Dompablo，M.E.High-Pressure Investigationof $\\mathrm { L i } _ { 2 } \\mathrm { M n S i O } _ { 4 }$ and ${ \\mathrm { L i } } _ { 2 } { \\mathrm { C o S i O } } _ { 4 }$ Electrode Materials for Lithium-Ion Batteries.Inorg.Chem.2012,51, 5779-5786. (16) Islam, M. S.; Dominko, $\\mathrm { R } . $ Masquelier, C.； Sirisopanaporn, C.; Armstrong, A. ${ \\mathrm { R } } ,$ Bruce,P.G.Silicate Cathodes for Lithium Batteries: Alternatives to Phosphates?J.Mater. Chem.2011,21,9811-9818. (17）Arroyo-deDompablo,M.E.; Dominko,R； Gallardo-Amores, J. M.; Dupont,L.; Mali, G.; Ehrenberg,H.; Jamnik,J.; Moran,E.On the Energetic Stability and Electrochemistry of $\\mathrm { L i _ { 2 } M n S i O _ { 4 } }$ Polymorphs. Chem.Mater.2008,20,5574-5584. (18）Meng Y. S.; Arroyo-de Dompablo, M. E. Recent Advances in First Principles Computational Research of Cathode Materials for Lithium-Ion Batteries.Acc.Chem.Res.2013,46,1171-1180. (19)Duncan,H.； Kondamreddy,A.； Mercier,P.H.J.; Le Page,Y.; Abu-Lebdeh,Y.; Couillard,M.;Whitfield,P.S.; Davidson,I.J.Novel Pn Polymorph for $\\mathrm { L i _ { 2 } M n S i O _ { 4 } }$ and Its Electrochemical Activity As a Cathode Material in Li-Ion Batteries. Chem.Mater.2011,23,5446- 5456. (20）Rangappa,D.; Murukanahally,K. D.； Tomai, T.； Unemoto,A.; Honma, L Ultrathin Nanoshets of $\\mathrm { L i } _ { 2 } \\mathrm { M S i O } _ { 4 }$ 0 $\\mathbf { \\dot { M } } = \\mathbf { F e }$ Mn)as HighCapacity Li-Ion Battery Electrode.Nano Lett. 2012,12,1146-1151. (21）Kempaiah，D.M.；Rangappa，D.；Honma， I. Controlled Synthesis of Nanocrystalline $\\mathrm { L i } _ { 2 } \\mathrm { M n S i O } _ { 4 }$ Particles for High Capacity Cathode Application in Lithium-Ion Batteries. Chem. Commun. 2012, 48,2698-2700. (22） Gong, Z.L.; Li, Y.X.; Yang, Y. Synthesis and Electrochemical Performance of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { C o S i O } } _ { 4 }$ as Cathode Material for Lithium ion Batteries.J.Power Sources 2007,174, 524-527. (23）Lyness,C.； Delobel, B.；Armstrong，A. $\\mathrm { ~ \\text R ~ }$ ；Bruce,P.G.The Lithium Intercalation Compound $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ and Its Behaviour as a Positive Electrode for Lithium Batteries.Chem. Commun.2007，46, 4890-4892. (24）Longo，R. C.； Xiong,K.；Cho，K.Multicomponent Silicate Cathode Materials for Rechargeable Li-Ion Bateries:An Ab Initio Study. J. Electrochem. Soc. 2013,160,A60-A65. (25） Boulineau, A.； Sirisopanaporn, C.; Dominko, ${ \\mathrm { R } } ;$ Armstrong, A. R; Bruce, P. G.; Masquelier, C. Polymorphism and structural defects in ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ 、Dalton Trans.2010,39,6310-6316. (26)Arroyo-de Dompablo,M. E.；Armand,M.； Tarascon, J.M.; Amador,U. On-Demand Design of Polyoxianionic Cathode Materials Based on Electronegativity Correlations:An Exploration of the $\\mathrm { L i } _ { 2 } \\mathrm { M S i O } _ { 4 }$ System $\\mathbf { \\dot { M } } \\ = \\ \\mathbf { F e } ,$ Mn，Co，Ni).Electrochem. Commun. 2006,8,1292-1298. (27) Wu, S. $\\mathrm { Q . ; }$ Zhu, Z. Z.; Yang, Y.; Hou, Z.F. Structural Stabilities, Electronic Structures and Lithium Deintercalation in $\\mathrm { L i _ { x } M S i O _ { 4 } }$ （ $\\mathbf { \\dot { M } = }$ Mn,Fe, Co,Ni): A GGA and $\\mathbf { G G A + U }$ Study. Comput. Mater. Sci. 2009,44, 1243-1251. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(28)Zhong, G.; Li, Y.; Yan,P.; Liu, Z.; Xie,M.; Lin,H. Structural, Electronic,and Electrochemical Properties of Cathode Materials $\\mathrm { L i } _ { 2 } \\mathrm { M S i O } _ { 4 }$ 0 $\\mathbf { \\dot { M } } = \\mathbf { M } \\mathbf { n }$ ,Fe,and $\\scriptstyle { \\mathrm { C o } }$ ):Density Functional Calculations.J. Phys. Chem.C 2010,114,3693-3700.   \n(29) Zhang,C.；Chen， Z.；Li， J. Ordering Determination of $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ Polymorphs by First-Principles Calculations.Chem. Phys. Lett. 2013, 580,115-119.   \n(30）Armstrong，A.R； Lyness C.；Menetrier，M.； Bruce, P.G. Structural Polymorphism in $\\mathrm { L i } _ { 2 } \\mathrm { C o S i O } _ { 4 }$ Intercalation Electrodes:A Combined Diffraction and NMR Study. Chem. Mater.2010, 22,1892- 1900.   \n(31）Kresse,G.； Furthmuller, J.Efficient Iterative Schemes for Ab Initio Total-Energy Calculations Using a Plane-Wave Basis Set.Phys. Rev.B 1996,54,11169-11186.   \n(32） Blochl, P.E. Projector Augmented-Wave Method.Phys. Rev.B 1994, 50, 17953-17979.   \n(33） Kresse, G.; Joubert,D.From Ultrasoft Pseudopotentials to the Projector Augmented-Wave Method. Phys. Rev. B 1999, 59,1758- 1775.   \n(34）Perdew,J.P.；Burke,K.；Ernzerhof, M. Generalized Gradient Approximation Made Simple.Phys.Rev.Lett. 1996,77,3865-3868. (35) Chevrier,V.L.; Ong, S.P.; Armiento,R; Chan, M.K.Y.; Ceder, G.Hybrid Density Functional Calculations of Redox Potentials and Formation Energies of Transition Metal Compounds.Phys. Rev.B 2010,82, 075122-1-075122-11.   \n(36) Zhou,F.; Cococcioni, M.; Marianeti, C.A; Morgan,D.; Ceder, G.First-Principles Prediction of Redox Potentials in Transition-Metal Compounds with $\\mathrm { L D A } { + } \\mathrm { U } .$ Phys.Rev.B 2004,70,235121-235128. (37) $\\mathrm { X u , }$ B.；Meng，S.Factors Affecting Li Mobility in Spinel $\\mathrm { L i M n } _ { 2 } \\mathrm { O } _ { 4 }$ -A First-Principles Study by GGA and $\\mathbf { \\Pi } _ { \\mathrm { G G A + U } }$ Methods. J. Power Sources 2010,195,4971-4976.   \n(38） Ceder,G.；Aydinol,M. ${ \\mathrm { K } } . { \\mathrm { } }$ Kohan,A.F.Application of FirstPrinciples Calculations to the Design of Rechargeable Li-Batteries. Comput. Mater. Sci.1997,8,161-169.   \n(39) Zhou， F.；Cococcioni, M.；Kang,K.； Ceder，G.The Li Intercalation Potential of ${ \\mathrm { L i M P O } } _ { 4 }$ and ${ \\mathrm { L i M S i O } } _ { 4 }$ Olivines with $\\scriptstyle \\mathrm { { \\cal M } = F e } ,$ Mn, Co, Ni. Electrochem. Commun.2004,6, 1144-1148.   \n(40）Meng,Y. S.；Arroyo-de Dompablo，M.E.First Principles Computational Materials Design for Energy Storage Materials in Lithium Ion Batteries.Energy Environ.Sci. 2009,2,589-609.   \n(41） Chen,Z.； Li,J.； Zhang, Z. First Principles Investigation of Electronic Structure Change and Energy Transfer by Redox in Inverse Spinel Cathodes $\\mathrm { L i N i V O } _ { 4 }$ and $\\mathrm { L i C o V O } _ { 4 }$ 、J.Mater. Chem. 2012,22, 18968-18974.   \n(42) Wu, S. $\\mathrm { Q . ; }$ Zhang, J. H.； Zhu, Z. Z.； Yang, Y. Structural and Electronic Properties of the Li-Ion Battery Cathode Material $\\mathrm { L i _ { x } C o S i O _ { 4 } }$ Curr. Appl. Phys. 2007,7, 611-616.   \n(43） Sirisopanaporn, C.; Masquelier, C.; Bruce, P. G.; Armstrong, A. R；Dominko， R. Dependence of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ Electrochemistry on Structure.J.Am. Chem. Soc.2010,133,1263-1265.   \n(44) Olalde-Velasco,P.; Jimenez-Mier, J.; Denlinger, J. D.; Hussin, Z.； Yang,W.L. Direct Probe of Mott-Hubbard to Charge-Transfer Insulator Transition and Electronic Structure Evolution in TransitionMetal systems.Phys.Rev.B 2011,83,241102-241105.   \n(45）Armand,M.；Tarascon,J.M.；Arroyo-de Dompablo，M.E. Comparative Computational Investigation of $\\mathrm { ~ \\bf ~ N ~ }$ and $\\mathrm { ~ F ~ } { }$ Substituted Polyoxoanionic Compounds: The Case of ${ \\mathrm { L i } } _ { 2 } { \\mathrm { F e S i O } } _ { 4 }$ Electrode Material.Electrochem. Commun.2011,13,1047-1050.   \n(46)Kinyanjui, M.K; Axmann,P.; Wohlfahrt-Mehrens, M.; Moreau, P.； Boucher,F.; Kaiser,U. Origin of Valence and Core Excitations in ${ \\mathrm { L i F e P O } } _ { 4 }$ and ${ \\mathrm { F e P O } } _ { 4 }$ ：J.Phys.: Condens.Matter 2010，22，275501- 375500 ",
+        "page_idx": 5
+    }
+]

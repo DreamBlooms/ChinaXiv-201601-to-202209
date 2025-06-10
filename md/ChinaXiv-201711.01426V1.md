@@ -1,0 +1,201 @@
+（1.安徽农业大学动物科技学院，合肥 230061；2.江苏优仕生物科技发展有限公司，宿迁 223831；3.安徽科技学院动物科学学院，凤阳 233100)
+
+摘要：本试验旨在利用分子生物学方法鉴定分离得到1株产 $\gamma$ -氨基丁酸（GABA）粪肠球菌，并定量测定所产GABA的量。从泡菜、酸奶、土壤、新鲜牛奶样品中筛选出一目标菌株F6，进行形态学特征与革兰氏染色鉴定；再扩增F6菌株的16S rDNA基因，然后测定该基因序列和构建系统发育树；同时采用高效液相色谱(HPLC)法定量测定菌株F6 发酵液中的GABA 含量。结果表明：菌株F6 菌落大而光滑、圆形、直径 $1 { \sim } 2 \mathrm { m m }$ ，边缘整齐、乳白色；在分离培养基上菌落周围形成透明圈，使分离培养基呈黄色；在MRS 固体培养基上菌落不透明，周围有透明圈。革兰氏染色鉴定F6为阳性菌。分子生物学鉴定分析显示，菌株F6的16S rDNA 基因序列与GenBank 数据库中粪肠球菌（Enterococcus faecium）的相似性大于 $9 9 \%$ 。HPLC 法测定得到GABA标准曲线线性方程为Y=7080733.1395X-4511.6927（ $R ^ { 2 } { = } 0 . 9 9 9 4$ ），通过方程得出F6菌株发酵液中的GABA含量为 $7 . 1 \ \mathrm { g / L }$ ，保留时间为 $7 { \sim } 1 0 \mathrm { m i n }$ 。结果提示，本试验筛选得到1株高产GABA的粪肠球菌 F6。
+
+关键词：粪肠球菌； $\gamma \cdot$ -氨基丁酸；16SrDNA基因序列；高效液相色谱法定量；筛选中图分类号：S816.7 文献标识码：A 文章编号：
+
+乳酸菌具有调节机体胃肠道微生态平衡、有益于畜禽健康、改善畜禽生产性能、减少环境污染、替代饲用抗生素等重要作用，在动物生产中的应用日益广泛。然而，乳酸杆菌为厌氧菌，抗逆性差、不耐氧、易失活，应用效果不稳定，而球菌较杆菌具有更强的抗逆性，菌株活性损失较低，未来球菌尤其是肠球菌的应用将更普遍。
+
+$\gamma$ -氨基丁酸（GABA）又称氨酪酸[I]，分子式为 $\mathrm { C } _ { 4 } \mathrm { H } _ { 9 } \mathrm { N O } _ { 2 }$ ，是哺乳动物中枢神经系统一种主要的抑制性神经递质，介导 $40 \%$ 以上的抑制性神经传导[2-3]。GABA 对人具有调节血压、改善脑部机能、增强记忆力、抗
+
+焦虑、镇痛等生理活性，对畜禽具有促进采食、抗应激、镇静、改善生产性能等功效[4]，尤其是抗热应激作用显著。GABA合成制备的方法主要有化学合成、微生物发酵等，目前畜禽生产上应用的GABA多为化学合成品，是提纯品，成本昂贵，颇少见应用微生物发酵产生的GABA[5]。  
+长期以来，学者致力于研究乳酸菌等单一功能的微生态制剂与化学合成提纯的GABA，已清楚乳酸菌和GABA均是重要的功能性添加剂[。但有关能分泌GABA的乳酸菌的研究较少。粪肠球菌属肠球菌属，又称粪链球菌，可分成许多群，粪链球菌属于D群，D群链球菌中的肠球菌包括粪链球菌、屎链球菌和坚忍链球菌。粪肠球菌分布广泛，主要栖居在动物肠道、粪便及土壤等厌氧基质中。自然界存在的肠球菌所能分泌的GABA 量很少或不能分泌，需要摸索满足适宜生长条件以提高其GABA 产量，目前对产GABA 粪肠球菌的研究颇少。为此，本试验开展高产GABA粪肠球菌的筛选与鉴定，既能应用绿色微生态和微生物发酵所产天然 GABA，降低GABA 添加成本，又能叠加发挥GABA 抗应激与乳酸菌微生态平衡调控的双重功效，旨在为开发功能性微生态制剂及其在养殖中的应用提供理论基础。
+
+# 1材料与方法
+
+1.1菌株及培养基菌株来自制泡菜、酸奶（蚌埠市双华乳品有限公司）、土壤(取自安徽科技学院西校区）、新鲜牛奶。MRS 固体培养基制备[7]：蛋白膝 $1 0 \mathrm { { g } }$ 、牛肉膏 $1 0 \mathrm { g }$ 、酵母提取物 $5 \mathrm { g }$ 、葡萄糖 $2 0 \mathrm { g }$ 、三水合醋酸钠 $5 \mathrm { g }$   
+柠檬酸二胺 $\boldsymbol { 2 } \textrm { g }$ 、吐温 $8 0 . 1 \ \mathrm { g }$ 、磷酸氢二钾 $\boldsymbol { 2 } \mathrm { \Delta g }$ 、七水硫酸镁 $0 . 5 8 { \mathrm { ~ g ~ } }$ 、四水硫酸锰 $0 . 2 5 \ \mathrm { g }$ 、碳酸钙 $7 . 5 \ \mathrm { g }$ 、琼脂  
+22.5g，用去离子水定容至 $1 0 0 0 { \mathrm { m L } }$ ， $\mathrm { p H } 6 . 5$ ， $1 2 1 ^ { \circ } \mathrm { C }$ 灭菌 $4 0 \mathrm { m i n }$ 。MRS 液体培养基：除不含碳酸钙、琼脂外，其他成分与MRS 固体培养基相同，再用蒸馏水定容至1000  
+mL，pH6.5。分离培养基：牛肉膏 $1 0 \mathrm { { g } }$ 、酵母膏 $1 0 \mathrm { { g } }$ 、蛋白肺 $1 0 \mathrm { g }$ 、葡萄糖 $5 \mathrm { g }$ 、吐温 $8 0 . 5 \ \mathrm { g }$ 、番茄汁 $2 0 0 \ \mathrm { g }$ 、溴甲酚  
+绿 $0 . 1 \ \mathrm { g }$ 、碳酸钙 $2 0 \mathrm { g }$ 、琼脂 $2 0 \mathrm { g }$ ，蒸馏水定容至 $1 0 0 0 \mathrm { m L }$ ， $\mathrm { p H } 6 . 5$ 。  
+1.2目的菌株的分离、纯培养与活化传代
+
+取泡菜、酸奶、土壤、新鲜牛奶样品各 $_ { \textrm { 1 g } }$ ，分别接种于装有MRS液体培养基的 $1 5 0 ~ \mathrm { m L }$ 三角烧瓶中，
+
+$3 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 静止培养 $^ { 4 8 \mathrm { ~ h ~ } }$ ；无菌操作将培养液接种于分离培养基中， $3 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 条件下静止培养 $^ { 4 8 \mathrm { ~ h ~ } }$ ；无菌操作挑取分离培养基中周围呈现黄色的疑似单个菌落，接种于MRS 液体培养基中， $3 7 \ \mathrm { { ^ circ C } }$ 静止培养。
+
+取1mLMRS 液体培养液与无菌生理盐水10 倍梯度稀释成 $1 0 ^ { - 6 }$ 、 $1 0 ^ { - 7 }$ 、 $1 0 ^ { - 8 } 3$ 个浓度梯度，取 $1 0 0 ~ \mu \mathrm { L }$ 均匀涂布MRS固体培养基平板， $3 7 \ \mathrm { { ^ circ C } }$ 培养 $^ { 4 8 \mathrm { ~ h ~ } }$ 。无菌操作挑取出现圆形乳白色并有溶钙圈的单个菌落，进行分离纯化。
+
+将所筛菌株接种于MRS 斜面培养基上， $3 5 \ \mathrm { { ^ \circ C } }$ 培养 $4 8 \mathrm { { h } }$ ， $4 \mathrm { { ^ \circ C } }$ 保存，菌株每 $2 0 \mathrm { d }$ 传代1次。将保藏菌株接种于MRS 固体培养基中， $3 5 \ \mathrm { { ^ \circ C } }$ 培养 $4 8 \mathrm { h }$ ，再转接至MRS 液体培养基中培养 $2 2 \mathrm { h }$ 用作发酵种子菌株。
+
+1.3目的菌株的革兰氏染色鉴定对目的菌株进行革兰氏染色，观察菌株的形态特征。
+
+# 1.4目的菌株的分子生物学鉴定
+
+取 $1 0 ~ \mathrm { m L }$ 菌株培养液，低速离心获得菌体。用细菌基因组DNA 提取试剂盒（DP302，上海生工生物工程有限公司）提取细菌总DNA。以 $1 0 ~ \mathrm { { n g } }$ 纯化的细菌总DNA作为模板，扩增16SrDNA基因。所用引物为原核生物16SrDNA 基因的通用引物：上游引物为 ${ \boldsymbol { 5 } } ^ { \prime }$ -AGAGTTTGATCCTGGCTCAG-3’，下游引物为51-CTACGGCTACCTTGTTACGA-3’，引物由上海生工生物工程有限公司合成。PCR扩增体系为 ${ 5 0 \mu \mathrm { L } }$ ，包括：$1 . 0 ~ \mu \mathrm { L }$ DNA 模板， $1 0 \times$ Buffer, $2 . 0 ~ \mu \mathrm { L }$ dNTP, $1 . 0 \mu \mathrm { L }$ 上游引物(10 pmol)， $1 . 0 ~ \mu \mathrm { L }$ 下游引物(10 pmol)， $1 . 0 ~ \mu \mathrm { L }$ TaqDNA聚合酶， $1 . 4 \mu \mathrm { L } \mathrm { M g } ^ { 2 + }$ ，补重蒸水（ $\mathrm { \ d d H _ { 2 } O }$ ）至 ${ 5 0 \mu \mathrm { L } }$ 。扩增条件： $9 4 ~ \mathrm { ^ { \circ } C }$ ， $5 \mathrm { m i n }$ ; $9 4 ~ \mathrm { ^ { \circ } C }$ ， $1 \mathrm { m i n }$ ; $5 6 ~ \mathrm { ^ { \circ } C }$ ，1 min; $7 2 \ \mathrm { { ^ \circ C } }$ ， $2 \mathrm { m i n }$ ，30个循环； $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $5 \mathrm { m i n }$ ， $4 \mathrm { { ^ \circ C } }$ 终止反应。PCR产物全序列由上海生工生物工程有限公司测定。
+
+1.5序列分析及系统发育树的构建
+
+根据16S rDNA 基因测序结果，使用核算序列对比检索（nucleotide basic local alignment search tool,N-BLAST）比对初步确定菌种。结合GenBank 中乳酸菌属（Lactobacillus）中其他菌种的16S rDNA 基因序列，利用MEGA3.0软件绘制系统发育树。
+
+# 1.6 目的菌株所产GABA的定性测定
+
+将上述所得种子液以 $3 . 5 \%$ 接种量无菌操作接种于发酵培养基中， $3 7 \ \mathrm { { ^ circ C } }$ 恒温培养 $^ { 4 8 \mathrm { { h } } }$ ，取发酵液 $5 \mathrm { m L }$ ，
+
+$4 5 0 0 \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，取上清采用改良纸层析法检测发酵液中是否含有GABA。改良纸层析的测定方法是：按 $0 . 5 5 \%$ 的比例将显色剂芘三酮加入展开剂中，展开剂组成为正丁醇：冰醋酸：水 $_ { . = 5 }$ ：3：1（体积比），取待测液 $1 0 ~ \mu \mathrm { L }$ 进行点样，GABA配成浓度 $5 \ \mathrm { g / L }$ 做参比，展开后 $8 5 \ \mathrm { ^ \circ C }$ 显色 $8 ~ \mathrm { m i n }$ 。若纸层析反应体系中存在与GABA 标准品相对迁移率一致的芘三酮显色斑点，说明样品中含有GABA，则该菌即为筛选到的产GABA的菌株，将筛选得到的产GABA目的菌株进行保藏。  
+1.7目的菌株所产 $\gamma$ -氨基丁酸的定量测定  
+高效液相色谱（HPLC）法定量测定菌液中GABA含量的原理：在菌液中加 ${ \beta }$ -巯基乙醇，使GABA与邻苯二甲醛迅速反应，生成邻苯二甲醛(OPA)衍生物；在紫外区 $3 3 8 \ \mathrm { n m }$ 处，根据OPA衍生物的吸收峰，通过测定其吸光度值精确测定样品中的GABA含量。  
+GABA 标准溶液的配制：用电子天平准确称量GABA 标准品，配制浓度分别为0、0.05、0.10、0.15、0.20、$0 . 2 5 \mathrm { m g / m L }$ 的标准GABA 溶液。  
+HPLC 检测条件如下：仪器型号为Waters-1525；色谱柱为HypersilODS-2C18（ $1 5 0 \mathrm { m m } { \times } 4 . 0 \mathrm { m m }$ ， $5 \mu \mathrm { m }$ 及相应的保护柱）；检测器为紫外检测器；进样量为 $2 0 ~ \mu \mathrm { L }$ ；流动相A为 $2 0 \mathrm { m m o l } / \mathrm { L }$ 醋酸钠缓冲液（醋酸钠2.72 g，三乙胺 $2 0 0 ~ \mu \mathrm { L }$ ，加超纯水至1L，调节 $\mathsf { p H }$ 为7.3）， $0 . 2 2 \mu \mathrm { m }$ 滤膜过滤，脱气；流动相B为乙腈，A:B=4：1；流速为 $1 \mathrm { m L } / \mathrm { m i n }$ ；柱温为 $4 0 \ \mathrm { ^ \circ C }$ ；衍生试剂为OPA $2 0 \mathrm { m g }$ ，加 $\beta$ -巯基乙醇 $2 0 { \mu \mathrm { L } }$ 、乙腈 $5 \mathrm { m L }$ 混匀即可。衍生反应：取硼酸缓冲液 $1 0 0 ~ \mu \mathrm { L }$ （硼酸 $2 4 . 7 ~ \mathrm { g }$ ，加超纯水1L，调节 $\mathsf { p H }$ 至10.4），OPA衍生剂 $2 0 ~ \mu \mathrm { L }$ ，样品 $2 0 ~ \mu \mathrm { L }$ ，混合均匀后室温反应 $5 \mathrm { m i n }$ 后开始测定。
+
+# 2结果与分析
+
+# 2.1目的菌株的菌落特征
+
+从泡菜、酸奶、土壤、新鲜牛奶中分离得到多个菌株，选取其中的1个菌株F6 进行形态学观察鉴定。F6 菌落光滑、圆形、直径 $1 { \sim } 2 ~ \mathrm { m m }$ 、边缘整齐、乳白色，表面细腻（图1）。在分离培养基上培养生长的F6菌落使其周边的培养基变成黄色，菌落周围形成透明圈（图1-A），这是由于乳酸菌生长过程中产生乳酸，能使含有溴甲酚绿的分离培养基变成黄色，推测 F6 是一株乳酸菌。在 MRS 固体培养基上培养生长的 F6 菌
+
+1 落不透明，周围有透明圈（图1-B）。
+
+![](images/090cfc3b2ce4bd05fd28e429089e9775f29a019709db3601cf52eaa221c13800.jpg)  
+图1菌株F6的菌落形态
+
+# 2.2 目的菌株所产GABA的定性测定
+
+改良纸层析法分析结果显示，目的株菌F6具有与GABA标准品相同 ${ \bf R } _ { \mathrm { f } }$ 值（即指比移值，斑点中心距原点的距离与溶剂展开前沿距原点距离的比值）的斑点，层析斑点较深，表明GABA产量较高，图2为目的株菌的改良纸层析图。
+
+![](images/39ea63ff8a580dae9859733f242d5976aaa3d43c83eae7c4fbe71a5392508b9c.jpg)  
+Fig.1Colony morphology of the bacterial strain F6   
+图2菌株F6的发酵液改良纸层析图谱
+
+Fig.2The improved paper chromatography map of the bacterial strain F6's fermentation broth
+
+1 菌株F6的染色结果如图3所示，菌体形态呈圆或椭圆形，直径 $0 . 5 { \sim } 1 . 0 ~ \mu \mathrm { m }$ ，大多数呈双或短链状排列，  
+2通常不运动，革兰氏染色呈阳性。
+
+![](images/8804a8336cf8f725c44089675b50b826f7b12853fe493978c7e039d662b1ff9a.jpg)  
+图3菌株F6 的显微结构图  
+Fig.3Microscopic structure of bacterial strain F6 ( $1 6 0 0 \times \_$
+
+# 2.416SrDNA基因序列分析与系统发育树构建
+
+菌株F6 的16S rDNA 基因测序后，提交到 DNA序列数据库GenBank。将测得的菌株F6 的 16S rDNA序列在美国国家生物技术信息中心(National Center of Biotechnology Information，NCBI)主页上进行 N-BLAST分析比对，结果如图4所示。菌株F6的16SrDNA基因序列与GenBank 数据库中粪肠球菌（Enterococcusfaecium）的相似性大于 $9 9 \%$ ，表明两者均为粪肠球菌的不同菌株。
+
+10 2 30 40 50   
+AGAGTTTGATCCTGGCTCAGCCCGGGCGGGTGCTATACATGCAGTCGTAC 50   
+GCTTCTTTTTCCACCGGAGCTTGCTCCACCGGAAAAAGAGGAGTGGCGAA 100   
+CGGGTGAGTAACACGTGGGTAAC ATCAGAAGGGGATAACACTTG 150   
+GAAACAGGTGCTAATAC GTATAACAATCGAAA CATGGTTTTGATTT 200   
+GAAAGGCGCTTTCGGGTGT GATGGATGGA CGCGGTGCATTAGCT 250   
+AGTTGGTGAGGTAACGGC ACCAAGG CAL GATGCATAGCCGACCTGAG 300   
+AGGGTGATCGGCCACATTGGGA TGAGACAC CAAACTCCTACGGGA 350   
+GGCAGCAGTAGGGAAT AATG GA GAAAG TGACCGAGCAACG 400   
+CCGCGTGAGTGAAGAAC A1 AAAA TGTTGTTAGAGAA 450   
+GAACAAGGATGAGAGTAA TG AT TTGAC GTATCTAACCAGAAA 500   
+GCCACGGCTAACTACGTGCCAG AG GGTAATACGTAGGTGGCAAGC 550   
+GTTGTCCGGATTTATTGGG GTAAAGO GAG AGGCGGTTTCTTAAGTC 600   
+TGATGTGAAAGCCC AAC GG GAG GTCATTGGAAACTGGGAG 650   
+ACTTGAGTGCAGAAGAGGAGAGTGGAATT CATGTGTAGCGGTGAAATGC 700   
+GTAGATATATGGAGGAACAC AGTGGCGAAGGCGGCTCTCTGGTCTGTAA 750   
+CTGACGCTGAGGCTCGAAAGC GTG GGAG AAA AGGATTAGATACCCTG 800   
+GTAGTCCACGCCGTAAAC GATGAGTG TAAGTGTTGGAGGGTTTCCGCCC 850   
+TTCAGTGCTGCAGCTAACGCATTAAGCACTC GC TGGGGAGTACGACCG 900   
+CAAGGTTGAAACTCAAAGGAATTGACGGGGGCCCGCACAAGCGGTGGAGC 950   
+ATGTGGTTTAATTCGAAGCAACGCGAAGAACCTTACCAGGTCTTGACATC 1000   
+CTTTGACCACTCTAGAGATAGAGCTTCCCCTTCGGGGGCAAAGTGACAGG 1050   
+TGGTGCATGGTTGTCGTCAGCTCGTGTCGTGAGATGTTGGGTTAAGTCCC 1100   
+GCAACGAGCGCAACCCTTATTGTTAGTTGCCATCATTCAGTTGGGCACTC 1150   
+TAGCAAGACTGCCGGTGACAAACCGGAGGAAGGTGGGGATGACGTCAAAT 1200   
+CATCATGCCCCTTATGACCTGGGCTACACACGTGCTACAATGGGAAGTAC 1250   
+AACGAGTTGCGAAGTCGCGAGGCTAAGCTAATCTCTTAAAGCTTCTCTCA 1300   
+GTTCGGATTGCAGGCTGCAACTCGCCTGCATGAAGCCGGAATCGCTAGTA 1350   
+ATCGCGGATCAGCACGCCGCGGTGAATACGTTCCCGGGCCTTGTACACAC 1400   
+CGCCCGTCACACCACGAGAGTTTGTAACACCCGAAGTCGGTGAGGTAACC 1450   
+TTTTTGGAGCCAGCCGCCTAAGGTGCATAGGAATGGGAAGTCGTAACAAG 1500   
+GTAGCCGT 1508
+
+菌株F6的16SrDNA基因序列与NCBI主页GenBank数据库中部分细菌的16SrDNA基因序列进行同源性比对，为显示菌株F6与相似菌种之间的亲缘关系及其系统地位，用MEGA3.0软件构建系统发育树（图5）。结果显示，菌株F6与粪肠球菌的亲缘关系最近，其次是屎肠球菌（Enterococcus durans）。由此确定菌株F6为粪肠球菌。
+
+9 Bacillus sp.LS-002 16S   
+4 Enterococcus faecium strain079 Enterococcus faecium strain 080 Bacterium MRG-216S 6 Enterococcus faecium strain 028 Bacterium MRG-IFC-2 9 Enterococcus faecium strain 024 Bacterium Te58R 9 Enterococcus durans strain 082 E.faecium F6   
+2 Enterococcus faecium strain 042 B Enterococcus faecium strain 083 Enterococcus durans strain IMAU32419 Enterococcus durans strain IMAU32419 Enterococcus deaustrin U2421 Enterococcus faecium strain 041 g Enterococcus faecium strain 086 L Enterococcus faecium strain 080 8 Enterococcus faecium strain 091 Leuconostoc mesenteroides strain 54
+
+2.5 目的菌株所产GABA的定量测定
+
+2.5.1标准曲线绘制
+
+采用 HPLC 法精确测定标准液中GABA 含量[8-9]，GABA标准液中的GABA峰形如图6所示。以峰面积对GABA含量作图，准确绘制出标准曲线（图7）。结果显示，峰面积和GABA含量呈强相关的线性关系，线性方程为：Y=7080 733.139 5X-4 511.6927（ $R ^ { 2 } { = } 0 . 9 9 9 4$ ）。
+
+![](images/0a74812978fbe5909f128ab6084a41a2fbb86bf25b0f8027c8392c462d2033dc.jpg)  
+图6标准液中GABA的HPLC 检测图
+
+![](images/4a539ba32c77aa1f24bd55d0734f559fc70d0cb906b284fab3421eaba60df7ee.jpg)  
+Fig 6GABA detection map in the standard solution by HPLC   
+图7 HPLC法建立的GABA的标准曲线  
+Fig.7Standard cure of GABA standed by HPLC method
+
+2.5.2目的菌株所产GABA的定量
+
+采用 HPLC 法精确测定菌株F6 发酵液的色谱图峰面积，如图8所示。根据上述得到的标准曲线线性方程Y=7080 733.139 5X-4511.6927，计算出菌株 F6 发酵液中GABA含量为 ${ 7 . 1 \ \mathrm { g / L } }$ ，保留时间为 $7 { \sim } 1 0 \ \mathrm { m i n }$ 峰面积为50268693.6，吸光度值为0.12。
+
+![](images/a958ac9a1831ce0951fc5b75119ab1364a5cd46505765e5e965a800c8fcc7d8f.jpg)  
+图8菌株F6发酵液中GABA的HPLC检测图   
+Fig 8GABA detection map in the bacterial strain F6 fermented solution by HPLC
+
+3讨论
+
+3.1产GABA粪肠球菌的筛选
+
+从酸奶、土壤、牛奶、泡菜中均分离得到产GABA 的菌株，其中自酸奶样品中筛选得到的一菌株产GABA量相对较高，命名F6，表明从自然界中筛选高产GABA目的菌株是可行的。本试验在对目的菌株传统表型特征、生物学特性等进行快速筛选的基础上，采用改良纸层析法对目的菌株代谢产物GABA进行定性检测，准确、快速确定了菌株产GABA的能力。改良后纸层析法为按 $0 . 5 5 \%$ 的比例将显色剂芘三酮加入展开剂中，展开剂组成为正丁醇：冰醋酸：水=5：3：1（体积比），展开后 $8 5 \ \mathrm { ^ \circ C }$ 显色 $8 ~ \mathrm { m i n }$ ，相比一般纸层析法显色时间$1 5 { \sim } 2 0 \ \mathrm { m i n }$ 有明显优势[10]，对快速筛选高产GABA目的菌株有一定参考价值。本试验通过分子生物学方法，将菌株F6的16S rDNA基因序列与GenBank 数据库中部分细菌的16S rDNA基因序列进行同源性比对，其与粪肠球菌的相似性大于 $9 9 \%$ ，确定目的菌株F6为粪肠球菌，这为通过基因工程菌大量制备GABA提供了目的菌株。
+
+# 3.2GABA 的制备方法
+
+GABA 的制备方法有化学合成法和生物合成法2种[10]。化学合成法成本较高，得率较低，并且在生产工艺中使用危险溶剂，甚至是有毒溶剂，因此化学合成法制备的GABA不能用于食品和饲料，也不能认为是一种天然的食品或饲料添加剂[1-12]。生物合成 GABA 是应用纯的微生物技术，通过筛选优良高产的安全菌种，发酵生产得到，是天然食品与饲料添加剂，公认使用的安全菌为乳酸菌，如短小乳杆菌[10]，而筛选的产GABA粪肠球菌颇少。生物合成法获得的GABA 虽然纯度不高，但动物的吸收率比高纯度化学合成法的GABA 有较大提高，并且产GABA乳酸菌可不经提纯,直接添加到动物饲粮中。本试验以粪肠球菌为目标菌株，较乳酸杆菌的抗逆性更强，因此可发挥乳酸菌的微生态平衡调控和GABA抗应激的双重作用，功效叠加。
+
+# 3.3 乳酸菌的GABA产量
+
+自然界中直接筛选的乳酸菌合成GABA 产量一般都不高，为 $5 { \sim } 7 ~ \mathrm { g } / \mathrm { L } ^ { [ 1 3 - 1 4 ] }$ ，所用菌株多为乳酸杆菌类。  
+冯志彬等[15]研究短小乳杆菌A8 菌株后发现，初始 $\mathrm { p H } 4 . 5$ 、温度 $3 3 ^ { \circ } \mathrm { C }$ 、接种量 $20 \%$ 、发酵时间3d为该菌株  
+的最佳发酵条件，GABA产量最高可达 $1 9 . 2 ~ \mathrm { g / L }$ ，并发现培养基的 $\mathsf { p H }$ 是影响GABA产量的主要因素。本试  
+验目的菌株为粪肠球菌，发酵液中GABA含量为 ${ 7 . 1 \ \mathrm { g / L } }$ ；最佳发酵条件为发酵温度 $3 6 ~ \mathrm { ^ { \circ } C }$ 、原始 $\mathrm { p H } 6 . 4$ 、接  
+种量 $4 . 5 \%$ 、种龄 $2 0 { \sim } 2 3 \mathrm { ~ h ~ }$ 、发酵时间 $6 0 \mathrm { ~ h ~ }$ ，在最佳培养、发酵条件下，粪肠球菌F6发酵液中GABA的含量  
+可提高到 $9 . 5 \ \mathrm { g / L }$ ，这可能与不同培养条件影响目的菌株谷氨酸脱羧酶（glutamate decarboxylase，GAD）的活  
+性有关。利用传统诱变技术筛选能够提高乳酸菌的GABA 产量。夏江等[16先后使用紫外线和 $\gamma \cdot$ 射线对产GABA  
+的短乳杆菌进行诱变处理，使GABA平均产量提高 $1 4 2 . 9 \%$ ，经诱变处理的短乳杆菌虽然GABA产量提高，  
+但乳酸菌的固有功能作用降低，并且因不确定性、盲目性和遗传不稳定性，利用诱变乳酸菌所产GABA 尚有  
+潜在安全风险。近几年，有文献报道利用重组大肠杆菌表达提取GAD，以固定化酶的方式生产GABA，但是转化效率普
+
+遍不高[17]。已清楚GABA的生物合成途径是谷氨酸脱羧酶将 $L$ -谷氨酸转化为GABA。本后续试验拟通过增加现有菌株 F6 中GAD 基因表达盒的数量，提高菌株细胞内 $\_ G A D$ 的表达，进而提高GABA 的合成量[18-20]，这尚在研究中。
+
+3.4粪肠球菌所产GABA的定量测定
+
+本试验首先对发酵液中GABA进行定性测定，即采用改良纸层析法检测发酵液中是否含有GABA。按$0 . 5 5 \%$ 的比例将显色剂芘三酮加入到展开剂中，展开后 $8 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 显色 $8 ~ \mathrm { m i n }$ ，通过观察斑点快速定性确定GABA的存在。
+
+本试验采用HPLC法测定发酵液中GABA的含量，GABA在 $\beta$ -巯基乙醇存在条件下能与邻苯二甲醛迅速反应，生成OPA衍生物，而OPA不会干扰检测，色谱图基线较稳定，标准曲线的 $R ^ { 2 }$ 为0.9994，因此本试验采用的HPLC法简单、快速、灵敏，得到的结果可靠。
+
+4结论   
+本试验筛选得到的菌株F6为粪肠球菌，是一株功能性乳酸菌，具有高产GABA的能力。   
+参考文献:   
+[1]张传贵.增塑剂污染及其对人体的影响[J].生物学通报,1999,34(2):20.   
+[2]堀江典子,菅美奈子,金武祚.GABA(γ-氨基丁酸)的功能性[J].中国食品添加剂,2010(6):169-173.   
+[3] 梁恒宇,邓立康,林海龙,等.新资源食品—γ-氨基丁酸(GABA)的研究进展[J].食品研究与开 发,2013,34(15):119-123.   
+[4] MORTEZA Z,VAHHAB B,HOSSEIN J.Effects of central histamine receptors blockade on GABAA Agonist-induced food intake inbroiler cockerels[J].Pakistan Journal of Biological Sciences,208,11(3):416-421. [5]白松,林向阳,阮榕生,等.γ-氨基丁酸的分布和制备[J].现代食品科技,2005,21(2):202-205.   
+[6]耿敬章.γ-氨基丁酸(GABA)在食品工业中的应用研究[J].饮料工业,2012,15(1):11-14.   
+[7]李丽微,谷新晰,卢海强,等.发酵山药酸奶益生乳酸菌菌株的筛选[J].中国食品学报,2015(11):78-82. [8]BUCK K,VOEHRINGER P,FERGER B.Rapid analysis of GABA and glutamate in microdialysis samples using highperformance liquid chromatographyand tandemmassspectrometry[J].Journal ofNeuroscience
+
+一 Methods,2009,182(1):78-84.
+
+[9]JAMBOR A,MOLNAR-PERL IAmino acid analysis by high-performance liquid chromatography after derivatization with 9-fluorenylmethyloxycarbonyl chloride:literature overview and further study[J].Journalof Chromatography A,2009,1216(15):3064-307.
+
+[10]汪祥燕,徐海燕,辛国芹,等.γ-氨基丁酸产生菌的分离及发酵条件优化[J].中国饲料,2016(4):27-31. [11]杨晶晶,曲媛,崔秀明 $. \gamma \cdot$ 氨基丁酸的制备方法与含量测定研究进展[J].食品工业科技,2014,35(3):351-356. [12]CHOI S I,LEE J W,PARK S M.et a1.Improvement of $\gamma$ -aminobutyric acid (GABA） production using cell entrapment of Lactobacilus brevis GABA 057[J].Journal of Microbiology and Biotechnology,2006,16(4):562-568. [13] 缪存影,蒋冬花,徐晓波,等.酸菜中高产 $\gamma -$ 氨基丁酸乳酸菌的筛选和鉴定[J].微生物学杂 志,2010,30(2):28-32.   
+[14] 王超凯,刘绪,张磊,等.产γ-氨基丁酸乳酸菌的筛选及发酵条件初步优化[J.食品与发酵科 技,2012,48(1):36-39.   
+[15] 冯志彬,吴思颖,张玉香,等.短乳杆菌产 γ-氨基丁酸发酵条件的优化[J.鲁东大学学报:自然科学 版,2012,28(3):248-251.   
+[16]夏江,梅乐和,黄俊,等.产 $\gamma$ -氨基丁酸的乳酸菌株筛选及诱变[J].核农学报,2006,20(5):379-382.   
+[17] 田灵芝,徐美娟,饶志明.一株重组大肠杆菌/pET-28a-lpgad 的构建及其高效生产 $\gamma \cdot$ -氨基丁酸转化条件的优 化[J].生物工程学报,2012,28(1):65-75.   
+[18]KOOK M C,SEO M J,CHEIGH C I,et al.Enhancement of $\gamma$ -amminobutyric acid production by Lactobacillus sakei B2-16expressing glutamate decarboxylase from Lactobacilus plantarum ATCC14917[J]J.Journal of the Korean Society for Applied Biological Chemistry,2010,53(6):816-820.   
+[19]KOMATSUZAKI N,SHIMA J,KAWAMOTO S,et al.Production of $\gamma$ -aminobutyric acid （GABA） by Lactobacillus paracasei isolated from traditional fermented foods[J].Food Microbiology,20o5,22(6):497-504. [20]LIU T T,YANG T W,ZhANG S C.et al.Screening,identification and primary optimizing of a strain producing $\gamma$ -aminobutyric acid from $L$ -glutamic acid[J].Journal of Food Science and Biotechnology,2010,29(5):742-747.
+
+（204 $\gamma$ -Amminobutyric Acid ZHU Quan1CHENG Jinlong²ZHU Yuanzhao3\*YIN Long²NI Jindong1CHENG Maojili (1. College ofAnimal Science,Anhui Agricultural University, Hefei23o61,China; 2. Jiangsu Unison Biotechnology Development Co.,Ltd. Suqian 223831, China; 3. College of Animal Science, Anhui Science and Technology University, Fengyang 233100, China.）
+
+Abstract: This study was aimed to isolate and identifyan Enterococcus faecium by molecular biological methods which produce $\gamma$ -aminobutyric acid (GABA), moreover, the amount of GABA was also quantitatively determined. One target strain of Enterococcus faecium F6 was screened out from the samples of pickles, yogurt,soil and fresh milk,and was identified according the morphological characters and Gram stain methods.After the 16S rDNA gene of bacterial strain F6 was amplified,the gene sequence and phylogenetic tree were analyzed. Meanwhile,the GABA content in the fermented solution of bacterial strain F6 was quantitatively determined by high performance liquid chromatography(HPLC) method.The results showed that the bacterial strain F6 took a large,smooth,round and a neat edge of shape with a diameter of 1 to $2 \ : \mathrm { m m }$ and in a milky white color. A transparent circle was formed around the colony on the separating medium which changed to be yellow. On the MRS solid medium, the colony was opaque with a transparent circle around. Gram stain was used to identify F6 as a positive strain. The 16S rDNA gene sequence of bacterial strain F6 was more than $9 9 \%$ similarity to that of Enterococcus faecium in GenBank showed by molecular biological analysis. HPLC method was used to draw out the GABA standard curve linear equation as follows: Y=7 080 733.139 5X-4 511.692 7 ( $R ^ { 2 } { = } 0 . 9 9 9 4 _ { . }$ ), and the content of $7 . 1 \ \mathrm { g / L }$ of GABA with 7 to 10 minutes of retention time was determined in the fermented solution of F6 according to linear equation.The results indicate thata high yield GABA of Enterococcus faecium F6 is finally obtained.
+
+Key words: Enterococcus faecium; $\gamma$ -aminobutyric acid; 16S rDNA sequence analysis; quantitative detection by high performance liquid chromatography method; screening

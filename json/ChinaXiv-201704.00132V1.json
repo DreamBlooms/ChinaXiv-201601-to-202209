@@ -1,0 +1,356 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201511122292 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩丽丽，于丹婷，贺纪正.土壤病毒生态学研究方法.生态学报,2017,37(6)：1749-1756.  \nHanLL,YuDT,HeJZ.Research methods for soil viral ecology.Acta Ecologica Sinica,2017,37(6):1749-1756.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤病毒生态学研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩丽丽¹，于丹婷1,²，贺纪正1，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院生态环境研究中心，城市与区域生态国家重点实验室，北京100085  \n2中国科学院大学，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:病毒是地球上最丰富的生物实体,每克土壤中可包含数以亿计的病毒,它不仅影响土壤中其它微生物的群落组成、土壤元素的生物地球化学循环,还会影响土壤微生物的物种进化,甚至影响植物、动物和人体健康。目前人们对土壤中病毒的种类及丰度、分布特征以及功能引起的生态环境效应还知之甚少。在概述病毒生态学研究方法的基础上,对土壤病毒的提取、纯化、定量及分子生态学方法等基本流程进行了比较分析,以期建立一套快速简便、高效稳定的适用于土壤病毒研究的方法,并用于研究土壤病毒的多样性及分布特征,探讨病毒在环境中的生存和传播机制,为土壤病毒的防控及开发利用提供支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤病毒;病毒生态学;宏病毒组学；分子生物学方法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research methods for soil viral ecology ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HAN Lili'， YU Danting $^ { 1 , 2 }$ ，HE Jizheng'",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1StateKeyLaboratoryofUrbanandRegonalEcology，ReserchCenterforEco-EniroentalSciences，ChineseAcdemyofSciences，eiing 100085，China   \n2 University of Chinese Academy of Sciences，Beijing 10oo49,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Viruses are the most abundant biological entities on the planet，and can reach $1 0 ^ { 1 0 }$ viral particles per gram of soil.Virusesafectthecompositionof microbial communities，mediatesoil biogeochemical cycles，regulatesoil microbial evolution，and threatenthe health of plantsandanimals，including humans.However，thereis limited knowledgeon the abundanceanddistribution patterns ofvirusesand the manner in whichthey afect ecologicalprocesses.This study focuses onthecomparativeapproaches to studysoil viruses，including their extraction，purification，quantification，andmethods pertaining tomolecular ecology.Thedevelopmentofreliableand highly eficientmethods toevaluatesoil viralparticlesis desirable，because it aidsthe studyof soil virusdiversityand distribution.Therefore，these methodswillimproveour understandingof viral propagation mechanisms insoils，and willprovideinformationonhow tocontrolviruses toensure adequate public health and safety. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:soil virus；viral ecology；metaviromics；molecular biological methods ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "病毒是地球上最丰富的生物实体,对土壤中营养元素的生物地球化学循环、微生物群落组成以及土壤基因资源的多样性发挥着重要作用。首先,病毒能够侵染细菌、真菌、蓝细菌等微生物,影响它们的生理代谢及死亡率,从而影响生态系统中微生物的群落结构及多样性;其次,由于病毒侵染导致的细胞裂解释放的有机物影响环境中其它生物的养分利用,从而影响环境中元素的生物地球化学循环;第三,噬菌体引起宿主细胞裂解",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "并释放出DNA,释放到环境中的DNA被其它微生物通过转录方式吸收、整合,引起微生物的遗传变异,推动微生物种群的进化。同时,土壤的高度异质性及其多样的生物环境为病毒提供了丰富而多样的寄生环境,更利于病毒长期生存和繁殖。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管病毒在土壤环境中发挥着重要的作用,但由于其个体微小、基因组含量低、缺乏通用基因、进化速度快生命周期短等特点，使得土壤病毒生态学的研究进展缓慢。病毒生态学研究方法经历了表型分析、单基因分析、基因组分析及宏基因组分析等几个重要阶段。如20世纪90年代,科学家们利用显微技术对病毒和细菌丰度的地域差异进行过大量研究,发现在撒哈拉及纳米布沙漠这类极端环境中均存在着非常独特的噬菌体类群[-2]。随着技术的发展,更多的研究结合了表型和分子生物学方法,如将透射电子显微镜（TEM:Transmission Electron Microscope）和脉冲场凝胶电泳（PFGE:Pulse Field Gel Electrophoresis）、随机扩增多态性DNA（RAPD:Random Amplified Polymorphic DNA analysis）方法相结合。这类方法可有效地用于研究单个分离的噬菌体,也可对噬菌体的群体组成进行研究。这类基于基因组水平的研究方法还可用于评价不同噬菌体在环境中的分布,如研究发现某些海洋噬菌体基因组只在特定的地点出现,而其它一些噬菌体分布却很广[3]。有研究利用RAPD技术研究还发现弧菌噬菌体的丰度和地理分布没有直接关系，而是受生境类型所驱动，如与海水、沉积物以及无脊椎动物等生境相关[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测序技术的出现和日益广泛的应用,突破了探寻环境微生物黑箱的瓶颈。关于病毒基因组的测序始于1977 年,第1株被测序的病毒是侵染大肠杆菌的ΦX174。2002年,Brcitbart等[5」首次通过鸟枪测序法研究海洋病毒的宏基因组。2005年,Edwards 等[6提出了病毒宏基因组的概念。Hurwitz等[7]采用比较基因组学和网络分析方法分析了海洋病毒群落的生态驱动模型。Bolduc等[8]通过网络分析方法揭示了黄石酸性热泉中病毒的群体组成及相互关系。截止至2015年10月 NCBI数据库中已收录了4885 株病毒的全基因组序列。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与海水及热泉样品相比，土壤样品具有异质性高、成份复杂等特点，从土壤中分离提取高纯病毒面临更多的困难，本文在对病毒生态学研究进展综述的基础上[9],进一步对病毒生态学研究方法作一简要概述。在对海洋及其它环境病毒的提取、纯化、定量及分子生态学方法进行比较优化的基础上，重点建立一套快速简便、高效稳定的适用于土壤病毒生态学研究的方法（图1)，主要包括病毒样品的富集、定量、核酸提取、指纹图谱分析及宏基因组测序等几个部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1土壤中病毒的提取及富集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1土壤病毒的提取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "病毒对土壤的吸附与病毒种类、土壤pH值、温度、含水量、土壤结构等环境因子密切相关。土壤病毒学研究的第一步是选择合适、高效的提取方法高效地提取出吸附于土壤颗粒表面的病毒粒子。最常用的土壤病毒浸提液有4种[10],包括 $10 \\%$ 的牛肉膏 $2 5 0 \\ \\mathrm { m m o l / L }$ 甘氨酸溶液、 $1 0 \\ \\mathrm { m m o l / L }$ 焦磷酸钠和 $1 \\%$ 的柠檬酸钾溶液。比较几种浸提液对土壤病毒的提取效果,发现 $2 5 0 \\ \\mathrm { m m o l / L }$ 甘氨酸溶液[和 $7 \\%$ 的牛肉膏提取液[12]最适用于提取污泥中的多种噬菌体,但是浸提出的病毒溶液难以过滤及进行后续处理,浸提的病毒溶液粘稠,无法制片染色，也不可用荧光显微镜进行计数； $1 \\%$ 的柠檬酸钾溶液提取农田土壤病毒效率最高，并且可通过荧光显微镜直接计数； $1 0 \\ \\mathrm { m m o l / L }$ 焦磷酸钠浸提效率略次于柠檬酸钾浸提液,缺点是浸提液使用荧光显微镜观察时易形成团块,无法计数。综上，对于土壤病毒浸提液以 $2 5 0 \\ \\mathrm { m m o l / L }$ 甘氨酸和 $1 \\%$ 的柠檬酸钾溶液最为适用,具体选择还要依据待提取病毒类型、土壤的理化性质而定。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9addcbefc84acf904185c9cf4c2f95e1fb889098c498ffcdb77b07523431e29b.jpg",
+        "img_caption": [
+            "图1土壤病毒生态学研究方法流程",
+            "Fig.1Research method process of soil viral ecology "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤病毒溶液的分离、纯化及浓缩",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 切向流过滤法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "切向流过滤(TFF:Tangential-flow filtration)是指液体流动方向与过滤方向垂直的过滤形式,这种方法与常规过滤相比，具有液体流动在过滤介质表面产生剪切力,减小滤饼层颗粒物的堆积,不易堵塞，可保证稳定的过滤速度等优点。TFF主要用于从大量环境样品中分离、浓缩病毒颗粒,设备及流程见图2。TFF系统使用中空纤维膜滤柱，本文以孔径 $0 . 2 ~ { \\mu \\mathrm { m } }$ 的微滤柱和孔径为 $1 0 0 \\ \\mathrm { k D a }$ 的超滤柱为例（图2），介绍TFF系统过滤的原理及流程。孔径 $0 . 2 ~ { \\mu \\mathrm { m } }$ 的微滤柱主要用于过滤去除直径大于 $0 . 2 ~ { \\mu \\mathrm { m } }$ 的细菌及原生生物等,而直径小于$0 . 2 ~ { \\mu \\mathrm { m } }$ 的病毒则能通过滤柱滤出（图2）,通过收集过滤液即可得到较纯的病毒溶液。但此时的病毒溶液浓度很低,无法用于下一步研究,因此需要再通过 $1 0 0 ~ \\mathrm { { k D a } }$ 的超滤柱浓缩。更换滤柱后，直径大于 $1 0 0 \\ \\mathrm { k D a }$ 的病毒被滤柱拦截,返回到回流端,而水溶液则能通过滤柱滤出（图2）,通过不断回流过滤,减小病毒溶液体积,直至残余液体体积小于 $1 0 0 ~ \\mathrm { { m L } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a372f02240479ed9938a52f2bcce66ba50b59348278a28f21d949a4df8ff142.jpg",
+        "img_caption": [
+            "图2TFF过滤系统及流程[13]",
+            "Fig.2TFF filtration system and procedure[13] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 聚乙二醇沉淀法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "聚乙二醇沉淀法(PEG:Polyethylene glycol)主要是利用PEG 破坏病毒外壳蛋白质分子表面的水化层而使病毒发生沉淀的方法，常用于病毒的提纯浓缩，它可将TFF浓缩的病毒溶液（50— $1 0 0 ~ \\mathrm { { m L } }$ )中的病毒沉淀。首先向浓缩的病毒溶液中加入终浓度为 $0 . 5 ~ \\mathrm { m o l / L }$ 的 NaCl溶液,再加入等量的 $10 \\%$ PEG6 000, $4 ^ { \\circ } \\mathrm { C }$ 过夜放置后,$8 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $3 0 ~ \\mathrm { m i n }$ ,即可获得病毒沉淀，再用缓冲液将病毒溶解成1一 $2 ~ \\mathrm { m L }$ ,用于下一步病毒的CsCl密度梯度离心或 DNA 的提取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3CsCl密度梯度离心法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于环境中病毒的大小、质量不一，密度也不一样,密度梯度离心法既可用于病毒的浓缩,也可用于病毒颗粒的分离纯化。每种病毒的大小不变,对应不同介质的密度层,Thurber 等[13]在 2009 年的综述文献中作了较全面的归纳。该方法主要适用于纯病毒的分离,缺点是仪器设备价格昂贵,一般实验室难以配备。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2定量技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 荧光显微计数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "病毒定量目前最常用的方法就是荧光显微（EFM:Epifluorescence microscope）计数法,该方法利用真空抽滤法将稀释的病毒溶液中的病毒颗粒加载在滤膜上,通过高效的荧光染料染色后,将荧光信号分子和病毒DNA 双链结合,在荧光显微镜下可观察到发出荧光的病毒DNA,利用目镜网格尺计数后推算出每克土壤样品中病毒颗粒的数量。常用的荧光标记物有Yo-Pro-1、SYBR GreenI和 SYBRGold 等嵌入性染料[14],该方法与透射电镜相比,价格较低、操作简便且重复性强,适用于土壤样品中未知病毒颗粒的定量研究。利用EFM直接计数有一点值得注意的是,由于可能对一些非病毒粒子染色,会高估病毒的丰度[15]。另外,与海水病毒样品相比,土壤中有较高含量的腐殖酸,易导致较高的荧光背景干扰,这也是目前土壤病毒 EFM计数方法无法避免的缺陷。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2透射电镜分类计数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在分子生物学技术发展以前,透射电子显微镜(TEM)技术是作为病毒生态学研究的最主要手段,它不仅可应用于病毒定量,还可对病毒进行分类。具体方法：取 $5 0 \\textrm { g }$ 土壤样品经浸提、过滤纯化后，取 $1 ~ \\mathrm { m L }$ 的纯化提取物加入 $9 ~ \\mathrm { m L }$ 的灭菌去离子水,在Formvar-coated 650铜丝网网格上旋转,夹起铜网用滤纸吸取边上多余液体,立刻将铜网倒扣在 $1 \\%$ 醋酸双氧铀负染液滴上,静置1- $- 2 ~ \\mathrm { m i n }$ ,再夹起铜网吸去多余染液，自然晾干。在透射电镜下先放大4000倍观察全貌,再逐步放大到40000—85000 倍观察病毒形态,对病毒进行分类计数。这种方法直接准确,在荧光显微镜下不能观察到的病毒可以通过透射电镜观察到，且结果精确度高,但是操作复杂,对仪器要求较高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 流式细胞仪计数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "流式细胞仪(Flow Cytometer，FCM)是以激光为光源、检测生物学颗粒的仪器。流式细胞术是一种能够对单个细胞、分子、生物颗粒进行多参数快速检测的新型分析和分选技术。将待测细胞或微粒进行荧光染色后制成悬液标本,在一定气体压力下将待测样品压入流动室,用不含细胞或微粒的缓冲液(鞘液)在高压下从鞘液管喷出,鞘液管入口方向与待测细胞或微粒流呈一定角度,使鞘液包绕这细胞或微粒高速流动,形成一个圆形的流速(鞘流),待测细胞在鞘液的包裹下单行排列，一次通过流式细胞仪的检测区域。这种方法测定灵敏度高,对病毒浓度较高的样品测试结果目前是最准确的,但无法测试浓度较低的病毒样品[16]。同荧光显微计数方法一样,流式细胞仪也只能检测被荧光标记的双链 DNA 病毒,对单链 DNA 病毒和 RNA 病毒仍无法检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4病毒计数仪计数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "病毒计数仪是为了检测病毒粒子而重新组装的利用特殊液体控制、双重染色标记的流式细胞分析仪。对病毒的定量可以在 $5 ~ \\mathrm { m i n }$ 内完成,且可以转变成全自动分析平台。主要原理是通过联合染色系统，利用荧光染料对病毒基因组和包膜蛋白染色,通过流动室时被激光激发后,标记的蛋白和核酸分别产生黄色和红色的荧光信号同时通过不同荧光通道被捕捉，只有同时产生这2种信号才计算为一个完整的病毒颗粒。这种方法相对于噬斑滴度计数法、荧光显微计数法等具有分析速度快、成本低、样品制备简单、灵敏度高等特点,缺点在于仪器成本高、检测的病毒种类有限，只能检测人体及动物体内的20多种病毒,检测结果不能代表环境中所有的病毒。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3病毒核酸的提取及分子生态学方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1核酸提取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对富集的病毒浓缩液通过EFM或TEM方法检测病毒纯度,看是否有其他微生物细胞污染，对纯化后的病毒提取核酸。裂解病毒前,使用DNaseI降解土壤溶液中游离的DNA,并使用16S rRNA引物PCR 检测无细菌 DNA 污染后,进行病毒核酸的提取。病毒核酸提取过程中最重要的是每一步操作都要做到不受病毒及其他微生物的污染。病毒核酸提取有多种试剂盒,如 Mobio 公司的 PowerViralTM Environmental RNA/DNAIsolation Kit Sample、Qiagen 公司的QIAamp Viral RNA Mini Kit、QIAampViral RNA Mini Kit等,或者使用甲酰胺或 CTAB 结合酚仿抽提法[13.17]大量提取,不同类型土壤适用的方法也不一样,提取效率也不尽相同。提取的DNA 如果浓度较低可通过Phi29DNA聚合酶扩增,RNA样品则需通过反转录酶反转成cDNA后进行后续实验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 目的基因多样性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "病毒生态学研究之所以远远滞后于细菌和真核生物,最重要的原因之一就是病毒之间缺乏通用的标记基因,但对于特定种类的病毒,科学家们还是发现了它们之间存在一些相对保守的标记基因[18],并通过这些标记基因序列研究特定病毒群体的多样性。常用的标记基因有编码外壳蛋白基因,壳组装蛋白基因,尾鞘蛋白基因,辅助代谢基因以及几种聚合酶基因等。目前研究较多的是T4型噬菌体中编码主要壳体蛋白的 $^ { g 2 3 }$ 基因。2005年Filée等[19]比较了16 株T4 型噬菌体单以 $^ { g 2 3 }$ 基因与以基因组中23个基因组合绘制的多基因系统发育树，发现这2种方法构建的结果非常相似，证明 $^ { g 2 3 }$ 基因可以作为T4 型噬菌体类群划分的分子基础，可以较好地表征复杂环境中T4 型噬菌体基因多样性。 $g 2 0$ 基因编码噬藻体壳组装蛋白,也已被广泛用于Myoviridae 家族病毒多样性的研究,研究覆盖了稻田土壤,稻田水体,海洋及其它多种淡水环境[20-24]。针对不同环境的 $g 2 0$ 基因多样性研究也发现,不同环境都有其独特的类群，说明 $^ { g 2 0 }$ 基因的分布与其存在的环境有一定的关系[25]。蓝藻噬菌体中的光合作用相关基因 $p s b A$ 和 $p s b D$ 也被广泛应用于蓝藻噬菌体多样性的研究[26-28] $p s b A$ 基因的系统发育研究表明它能分辨不同环境不同宿主菌,但却和地理位置没有相关性[29]。其它标记基因如主要的壳粒蛋白基因 $m c p ^ { [ 3 0 - 3 3 ] }$ 以及磷酸盐饥饿状态相关的phoH基因[34-35]在海洋噬菌体的研究中也有应用,它们在噬菌体家族中的分布并没有严格的限制。在噬菌体的核质中也有一些和DNA合成相关的基因被作为标记基因,如Podoviridae 家族中T7 型噬菌体中的 DNA 聚合酶基因 $p o l A ^ { [ 3 6 - 3 7 ] }$ ,Myoviridae 家族中的 T4 型噬菌体的DNA 聚合酶基因 $g 4 3 ^ { [ 3 8 ] }$ ,FamilyB家族中核质大DNA（NCLDVs）中的DNA聚合酶基因$p o l B ^ { [ 3 8 - 3 9 ] }$ ,以及一些 RNA 病毒中的 RNA 聚合酶基因[40-52]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3指纹图谱技术",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着分子生物学技术的快速发展,更多的病毒学研究引人了指纹图谱技术,如脉冲场凝胶电泳、随机扩增多态性DNA等,并将其与TEM方法相结合,可对噬菌体的群体组成进行研究。这种基于基因组水平的研究方法不仅显示病毒的多样性,还可结合表型横向比较不同噬菌体在环境中的分布,如利用TEM和PFGE 结合研究海洋中蓝藻噬菌体的基因组,虽然发现大部分分离的蓝藻噬菌体和长尾噬菌体表型很相似，但它们的基因组大小则分布在 45— $1 2 5 ~ \\mathrm { k b }$ 之间[43]；利用TEM和RAPD方法研究海洋弧菌噬菌体的时空分布;利用RAPD 技术研究还发现弧菌噬菌体的丰度和地理分布没有直接关系,而是受生境类型所驱动等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4宏病毒组测序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "宏病毒组测序(Viromics)是利用宏基因组学研究环境中病毒多样性的高通量测序方法。目前宏基因组测序采用的方法有传统的 Sanger/鸟枪法和二代测序技术。应用最为广泛的莫过于第二代测序的三大测试平台,即罗氏公司的 454 GS FLX 测序平台、ABI 公司的 SOLiD 测序平台和 Ilumina 公司的 Solexa GenomeAnalyzer 测序平台。测序的过程大致如下：提取的病毒DNA（或RNA反转成cDNA）,经质检合格后,利用超声将 DNA 打断,片段化的DNA经过胶回收后,在两端加接头,再通过不同的方式将每个片段结合到微珠或芯片上,形成几百万个同时反应的微型反应池，每个微型反应池中的DNA片段通过PCR扩增产生的多拷贝作为测序的模板[44];随后通过酶延伸或寡核苷酸连接反应同时对这些模板进行测序。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "获得海量的序列数据后,最困难的问题在于数据分析处理。原始序列经过质检和优化后,获得的 Reads拼接组装后，利用MetaGene进行基因预测;在此基础上，可以获得序列组成、物种组成、功能组成和群落特征等重要的宏基因组信息;数据分析的下一个关键步骤是根据相似度或序列组成对序列进行归类,基于相似度的方法将序列与KEGG、COG、SEED 和ACLAME 等功能数据库比对,获得病毒基因的功能注释结果及丰度信息。通过病毒分类或功能基因的丰度差异比较分析、显著性差异特征分析,为后续研究提供方向。这种方法的局限性在于价格相对昂贵,较依赖现有数据库,而病毒的未知序列及开放阅读框数据库比例很高,大部分的参考序列不能被鉴定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "和传统的病毒研究方法如电子显微镜技术,基因指纹图谱或靶基因测序等相比,宏病毒组是唯一一个能反映样点病毒群体多样性和功能的方法[45]。利用宏基因组学技术研究环境中病毒群落的多样性,避免了病毒中没有通用的标记基因的缺点,可以用来作为系统发育的指标,评估环境中病毒的多样性[46]。但环境病毒学的研究还处于起步阶段,病毒宏基因组学研究目前面临的最大问题是序列注释困难,大约只有 $10 \\%$ 的序列",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "能从已知数据库中比对上[47] C",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文对已发表的土壤病毒研究文献进行了归纳整理,表1列出了不同地区土壤中优势病毒的分布及使用的研究方法。对土壤病毒的研究还是以宏病毒组学方法为主,比较不同地区的病毒分布,发现方法对病毒分类的影响尤为重要,同一实验室研究不同土壤中的病毒分布得出的结果可能相似,而不同实验室研究同种类型的土壤病毒分布其结果差异则较大,这可能是由于地理分布的影响,也可能是方法的选择及操作对提取的病毒存在偏好性。有研究指出Phi29DNA聚合酶对扩增环状DNA具有偏好性，可能导致具有环状结构的sSDNA 被选择性的放大,这也许是多数土壤中 ssDNA病毒占主导优势的一个重要原因[48]。另外,在已发表的土壤病毒宏基因组研究中,还未见有RNA病毒的相关报道,这可能是由于病毒的基因组核酸含量低,对病毒RNA 的提取更为困难，导致RNA病毒的研究仍存在很多困难,问题的解决还有待全基因组扩增技术和测序技术的发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/77f623232b7427b8be4800ca39e5347f65471bb4a346de240a98c3caa476644b.jpg",
+        "table_caption": [
+            "表1不同地区土壤中的优势病毒及研究方法",
+            "Table 1 Dominant viruses in different areas and research methods "
+        ],
+        "table_footnote": [
+            "MDAH：DNA聚合酶加热处理；MDAX：DNA聚合酶不加热处理"
+        ],
+        "table_body": "<html><body><table><tr><td>土壤类型 Soil type</td><td>地区 Area</td><td>代表性病毒 Typical viruses</td><td>基因组类型 Genome type</td><td>研究方法 Method</td><td>参考文献 References</td></tr><tr><td>特华拉州土壤</td><td>美国</td><td>有尾噬菌体</td><td>双链DNA</td><td>电镜</td><td>[49]</td></tr><tr><td>Delaware Soils 沙漠土壤</td><td>USA 美国</td><td>Caudovirales 浮游放线菌噬菌体</td><td>dsDNA 双链DNA</td><td>TEM 病毒基因克隆文库</td><td></td></tr><tr><td>Desert</td><td>USA</td><td>Actinoplanes ΦAsp2</td><td>dsDNA</td><td>Viral clone libraries</td><td>[50]</td></tr><tr><td>草原土壤</td><td>美国</td><td>肌尾噬菌体</td><td></td><td></td><td></td></tr><tr><td>Prairie</td><td>USA</td><td>Myoviridae</td><td></td><td></td><td></td></tr><tr><td>热带雨林土壤</td><td>秘鲁</td><td>长尾噬菌体</td><td></td><td></td><td></td></tr><tr><td>Rainforest</td><td>Peru</td><td>入-like siphophage</td><td></td><td></td><td></td></tr><tr><td>水稻土 Paddy soil</td><td>韩国</td><td>微小噬菌体 Microviridae</td><td>单链DNA</td><td>宏病毒组学 iromics (MDAH)</td><td>[48]</td></tr><tr><td></td><td>Korea</td><td>环状病毒</td><td>ssDNA 单链DNA</td><td>宏病毒组学</td><td></td></tr><tr><td></td><td></td><td>Circoviridae</td><td>ssSDNA</td><td>iromics（MDAX)</td><td></td></tr><tr><td>表层土</td><td>南极</td><td>长尾噬菌体</td><td>双链DNA</td><td>宏病毒组学</td><td>[51]</td></tr><tr><td>Surface soil</td><td>Antarctica</td><td>Siphoviridae</td><td>dsDNA</td><td>iromics</td><td></td></tr><tr><td>石下土</td><td></td><td>长尾噬菌体</td><td>双链DNA</td><td></td><td></td></tr><tr><td>Hypolith</td><td></td><td>Siphoviridae</td><td>dsDNA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>纳米布沙漠土</td><td>南非</td><td>长尾噬菌体</td><td>双链DNA</td><td>宏病毒组学</td><td></td></tr><tr><td>Namib desert</td><td>Southern Africa</td><td>Siphoviridae</td><td>dsDNA</td><td>iromics</td><td>[17]</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>沿海沙地土</td><td>苏格兰</td><td>微小噬菌体</td><td>单链DNA</td><td>宏病毒组学</td><td></td></tr><tr><td>Machair</td><td></td><td>Microviridae</td><td></td><td>iromics</td><td>[52]</td></tr><tr><td></td><td>Scotland</td><td></td><td>ssDNA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>微小噬菌体</td><td></td><td></td><td></td></tr><tr><td>棕壤土</td><td></td><td></td><td>单链DNA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Microviridae</td><td>ssDNA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Brown earth</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "病毒组学方法无疑是病毒生态学研究中最全面、最直接、获得数据量最多的方法。面对如此庞大的信息量,仅分析病毒基因组信息和病毒基因多样性信息是远远不够的,在生物信息学水平上，人们还需要开发更多的分析软件进一步挖掘病毒群体的多样性及其与环境因子之间的相互关系;在进化水平上,病毒引起基因水平转移及其它转座子的作用机制还有待研究，微生物基因组和病毒基因组之间的相互作用关系仍存在多种可能性;从技术的发展水平上,生物信息学和多学科交叉技术的发展,有助于推动病毒群体动力学和宏病毒组数据数学模型的建立,这也将是未来病毒生态学研究的重要发展趋势。另外,目前的研究主要集中在双链 DNA病毒,对于单链DNA病毒及RNA病毒的研究还需依赖方法的发展。最后,有针对性地开展土壤病毒群体的生态分析,建立相关技术体系及土壤病毒资源库,将有助于对有益病毒开发利用及对关键有害病毒进行控制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4): 364-372.  \n[2] PrigentM,LeroyMCofaloeriF,Dutertre,uBowMS.Adiversityfacterioagefosdgomscabeolatedfrothefacesands of the Sahara Desert. Extremophiles，2005,9(4)：289-296.  \n[3]StewardGF,MntielJAaFGoeizistibtiosindatevabilitdsiilariomavialeblagefroieeenvironments.Limnology and Oceanography，2000，45（8）：1697-1706.  \n[4]ComeaAaAuteticsofviosolaedislitEviotalrobl(7): 1164-1176.  \n[5] BreitbartM,Salamon,AndresenB,MahaffJM,SegallAM,MeadD,AzamF,RohwerF.Genomicanalysisofunculturedmarieviralcommunities.Proceeingsof the National AcademyofSciences of the United Statesof America,2002,99(22）:14250-14255.  \n[6] Edwards RA，Rohwer F.Viral metagenomics.Nature Reviews Microbiology，2005,3(6）：504-510.  \n[7] HurwitzBL，WesteduJuliMdeligolicalisaiialoitisingpatieeasnetworkanalyses.ProcedingsoftheationalAcademyofSciencesof theUnited StatesofAmerica,2014,11（29）：10714-10719.  \n[8] BolducB,WirthJaueongJVraleblageositoinelowstocidicotsessdyetoalsISME Journal,2015,9（10)：2162-2177.  \n[9] 韩丽丽，贺纪正.病毒生态学研究进展.生态学报，2016，（16），doi：10.5846/stxb201501210170.  \n[10] WiliamsonKE，WommackKE，RadosevichM.Samplingnaturalviralcomunitiesfrosoilforulture-independentanalysesApledandEnvironmental Microbiology，2013,69（11）：6628-6633.  \n[11] AraujoRMsobasJunaFJofrJetodicaliproveentsfocoeryfcterdesfrgilissipfroenvironmental samples.Water Science & Technology，1993,27(3/4）：119-122.  \n[12] MonpoehoS，Maul，Migoe-CaderuesB,chwartzbodLludel,Fere Vestirallutiometodvalableforuantafenterovirusesidgbyothellueadvesetrasciptio-C.ApledndEnviotalcobolog，o6）：448.  \n[13] ThurberRV,aesretartWegleyoer.Lboratoyprcedurestgatealetageosaturerotocols,（4)470-583.  \n[14] Sule CA，FuanJ.Eumeratioofviusparticesiaqaticodientsaplesbyepforesecicos/WielSWiberM G,ed. Manual of Aquatic Viral Ecology. Suttle CA: ASLO,2010,15:145-153.  \n[15] Sutle CA.Marine viruses-major players in the global ecosystem.Nature Reviews Microbiology，2007,5(10)：801-812.  \n[16] BrusaardCPD,MarieD,BratbakG.Flowcytometricdetectionofviruses.JoumalofVirologicalMethods,20o,85(1/2）：175-182.  \n[17] AdriaenssensE,VanZylL,DeMaayerP,RubagotiE,RybickiE,uffn,CowanDA.MetagenomicanalysisoftheviralcoutinNamib Desert hypoliths.Environmental Microbiology，2015,17(2）：480-595.  \n[18] AdriaenssensECowanD.UsingsigaturegnesasolstessevroentalviraleoloanddiversitAliedndEvitalMicrobiology，2014，80（15）：4470-5480.  \n[19] FileJ,TetartutlisHctegs，ousofaefof the National Academy of Sciences of the United States of America,2005，102(35）：12471-12476.  \n[20]FulerNJ,Wilson WH,JointIR,Mann NH.Occurrence ofasequence inmarine cyanophages similartothatof T4 $g 2 0$ and its application toPCR-based detection and quantification techniques.Applied and Environmental Microbiology，1998,64（6）：2051-2060.  \n[21]ZongY，enF,Si,HdsoREylgeeticdiversifieyaogesolatedatualirevealedbysequencesofviralcapsidassemblyproteingeneg2.ApliedandEnvironmental Microbiology，2O02，68（4）:1576-1584.  \n[22]Dorigo U,Jacquet S,Humbert JF. Cyanophage diversity，inferred from $g 2 0$ gene analyses，in the largest natural lake in France，Lake Bourget.Applied and Environmental Microbiology，2004,70(2）：1017-1022.  \n[23] MatesonAR,LoarSourboereA，ielSWolecuareumeratioofcologicallimprtantcyaoageinaLeGeatLake.Applied and Environmental Microbiology，2011，77(19）：6772-6779.  \n[24] McDanielLD,elosaaulJmpeateadlyticopagesfrotGulffico.JoualofeaieologicalAotifUnited Kingdom，2006，86(3）：517-527.  \n[25] 荆瑞勇，Kimura M，王光华.不同自然环境下噬藻体 $^ { g 2 0 }$ 基因多样性研究进展.微生物学报，2013，53（11)：1149-1157.  \n[26] MannNH,CookA,MillrdA,BaileyS，lokieM.Marineecosystes：bacterialpotosyhesisgenesinavirus.Nture，,44（695)：741-741.  \n[27] MillrdA，ClokieMRJ，ShubDA，MannNH.GeneticorganzationofthepsbDregioninphagesinfectingmarineSyechococustrains.Proceedings of the National Academy of Sciences of the United Statesof America,2004，101(30)：11007-11012.  \n[28] ZeidnerG，elawskiJshalaDbeiGejaotetialoosthsisecobatioetwnrooSynechococcus via viral intermediates.Environmental Microbiology，2005,7（10）：1505-1513.  \n[29]henardC，SutleCAPhylgeneicdversityofsequencsofyaopagepotostheticgenepAinarinendfreshaterApliedndEnvironmental Microbiology，2008，74（17）：5317-5324.  \n[30]BakerAC,rdDaveerDdasG,ientfatofdostarkerefresateCof filamentous Cyanobacteria.Applied and Environmental Microbiology，2006,72(9）：5713-5719.  \n[31]LasenJeAratbakG,ndR.ylogealyssfbesfhoaviusfilyusingplifrtsfthe major capsid protein gene.Applied and Environmental Microbiology，2008,74（10）： 3048-3057.  \n[32]RoweJFabreF,obnaD,iloWHielSAlcatiofthajorapsidproteiarkerfthlgentstfEmiliania huxleyi viruses.FEMS Microbiology Ecology，2011,76(2）：373-380.  \n[33]Hopkins,KlsanS,onA,ouS,uckerK,heveell,gbandje-KeaBreitbartMDiversitfvioagestranded DNAphagesrevealedbyPCRamplificationofthepartialmajorcapsidprotein.TheISMEJournal，2O14，8（1O）：2093-2103.  \n[34]GoldsmithDBrostiG,DivediB,cDanielLD,VarsanA,SutleC,WeuerMG,SdaRA,retbartDevelopefHa novel signaturegeneforassesing marinephagediversity.AppliedandEnvironmentalMicrobiology，2O11,77（21）:7730-7739.  \n[35]SulvanMB,HuangKH,Igaci-EspinozaJC,BerlinAMKellL,WeigelePR,DerancesoASKernSE,TopsonLR,ougS,Yandava C,FuR,Krastins B,Chase $\\mathrm { M }$ ， Sarracino D,Osburne M S,Henn M R,Chisholm S W.Genomic analysis of oceanic cyanobacterialmyovirusescompardwit4-likeoviusesfrodvseostsndviroetsEnvioentalcobilog，l（11）：0-05.  \n[36]Bretart,akeJHrFoblstrfarlyenticalgeedcsFEcbees(2): 249-256.  \n[37]Lavige,t,aeaceHosUalelaocsalsPodoviridae using BLASTP-based tools.Research in Microbiology，2008，159(5）：406-514.  \n[38] MarstonMF,TaylorS，meN,ParsonsRJ，NoyesTJE，MartinyJBH.Marinecyanophagesexhibitlocalandregionalbiogeogaphy.Environmental Microbiology，2013，15(5）：1452-1463.  \n39CenFutCutaeobedosDNA polymerase genes.Virology，1996,219(1）：170-178.  \n[40]CulleyAI,LangAS,SutleCA.Highdiversityofunknownpicoa-likevirusesinthesea.Nature,2O,424（6952）：1054-057.  \n[41] CuleyAI,LangAS,SutleCA.MetagenomicanalysisofcoastalRNAviruscommunities.Science,2006,312(5781):1795-1798.  \n[42]CuleeadGFgenaofuseiubroicalawateferdleasequeleddtalMicrobiology，2007，73（18）：5937-5944.  \n[43]HamblyE,TetartF,DsplasC,WonWH,KrischH,aNHAcoseredgenicoduletatecodesthajorioontsinboththecoliphageT4ndthemariecyanoag-.ProceedingsofteNtioalAcadeyofSiencesofeUitedStatesofmeica,98(20):11411-11416.  \n[44] 贺纪正，袁超磊，沈菊培，张丽梅.土壤宏基因组学研究方法与进展.土壤学报，2012，49(1)：155-164.  \n[45] ThurberRV.Curentinsightsintophagebiodiversityandbiogeogaphy.Currnt OpinioninMicrobiology，2O09,12（5）：58-587.  \n[46] RohwerF，EdwardsR.epageproteomicree:agenoe-basedtaxooyforagJualofBacteriolg84（6)：49-535.  \n[47] MokiliJL，RrFutilEeageoicsdfuturespeivesiniusoerytOpoinVrolg）7.  \n[48]KimKH,ChangHW,NamYD,RohSW,KimMS,SungY,JeonCO,OHM,BaeJW.Amplficatiofunculturedingle-strdedDAviruses from rice paddy soil.Applied and Environmental Microbiology，2008,74(19）：5975-5985.  \n[49]WilliamsonKE，RadosevichM，WommackKE.AbundanceanddiversityofirusesinsixDlawaresilsApliedandEnviontalMicrobiology，2005，71(6)：3119-3125.  \n[50]FiererN,BreitbartM,NultonJ,SalamonP,LozuponeC,JonesR，RobesonM,EdwardRA,FeltsB,Rayhawk S,KnightR，ohwerF,JacksonRBeaocalitalealeicifcteundsiilland Environmental Microbiology，2007,73（21）：7059-7066.  \n[51]ZablociO,VanZyl，AdriensensubgotiE，fn，CaryS，owanD.igleveldiveritoftailedpagesatasociatedviusesndviroaglkeeementsintetaviosfAtactlApliddEviotalcrobiolog，）：6888-6897.  \n[52]ReavyB,SwansonMM,CockPJ,DawsonL，FreitagTE，SinghBK,TorrnceL，MushegianAR,TalianskyM.Distinctireularsingle-stranded DNAviruses existin diferent soil types.Appliedand Environmental Microbiology,2015,81（12）：3934-3945.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

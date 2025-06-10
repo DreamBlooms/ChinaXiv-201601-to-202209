@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "Large scale sand saltation over hard surface: a controlled experiment in still air ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Benli1,2\\*, WANG Zhaoyun1,3, NIU Baicheng4, QU Jianjun1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryof Desertand Desertfication,Northwest InstituteofEco-Environmentand Resources,ChineseAcademyof   \nSciences,Lanzhou 730000,China;   \n2 Research StationofGobi Desert Ecology and Environment in Dunhuang ofGansu Province,Lanzhou 730oo, China;   \n3 University of Chinese Academy ofSciences,Beijing 100049,China;   \n4 Qinghai Normal University,Xining 810004,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Saltation is the major particle movement type in wind erosion proces. Saltating sand grains can rebound up to tens of times larger in length and height over hard surface (such as gravel surface) than over loose sand surface. Gravels usually have different faces,causing distinct response of the impacting grains, but the effects of the grain and gravel-surface contact angle on grain rebound are not yet well quantified. We performed ful-ange controlled experiments of grain saltation using different contact angles, grain sizes and impact speeds in stillair,to show that contact angle increases the height of representative saltation path but decreases particle travel length.The results were compared with outputs from the COMprehensive numerical model of SALTation (COMSALT).Large saltation height of $4 . 8 \\mathrm { ~ m ~ }$ and length of $9 . 0 \\mathrm { ~ m ~ }$ were recorded.The maximum and representative saltation height over the gravel surface were found to be about 4.9 times and 12.8 times those over the loose sandy surface,respectively. The maximum saltation length may be reduced by $58 \\%$ and the representative saltation height may be increased by $7 7 \\%$ as contact angle increases from $2 0 ^ { \\circ }$ to $4 0 ^ { \\circ }$ . We further showed that the collision inertia contributes $60 \\%$ of the saltation length,and wind contributes to the other $40 \\%$ . These quantitative findings have important implications for modeling saltation trajectory over gravel surface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: sand saltation; trajectory; gravel surface; contact angle; ful-scale experiment ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Saltation is the main mode of aeolian sand transport during wind erosion process in planetary environments (Shao et al.,1993; Ayoub et al.,2014; Burr et al.,2015). Saltation trajectory may be one of the main factors influencing the initial size of aeolian dune (Pähtz et al.,2O15; Lämmel and Kroy,2017) and deserves the most research consideration (Li et al.，202O). The characteristic length and height of saltation trajectories over loose sand surfaces are at magnitude order of $1 0 ^ { - 3 }$ to $1 0 ^ { - \\bar { 2 } } \\mathrm { m }$ (Williams and Leer, 1995; Hagen et al., 2010),and the rebound of particles over massive particles in a heterogeneous surface travels higher than that in a homogeneous surface with the same grain size (Bagnold,1973). In the blown sand condition, smaller particles saltate higher or suspend in air,because the drag from wind varies as the square of particle diameter but the weight varies as the cube of it (Lorenz and Zimbelman, 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, over immobile hard surfaces, such as gravel (stony) Gobi desert that covers an area of $1 . 3 { \\times } 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ in Central Asia, saltation can be remarkably different, with much longer and higher trajectories, indicating the effect of particle rebound with hard surface. This fact was known long ago,as Bagnold(1941) noted that \"the sand movement over a rough immobile or partially immobile surface differs in this important respect from that over a surface of dune sand..\", because in this case grains impact the surface in bouncing rather than splashing and more saltation kinetic energy is retained. Over a granular sandy surface, most of the grains are ejected with low energy (Ammi et al.,20o9), but the majority particles can be rebounded by the rigid gravel surface.As a result, sand flux over the gravel surface under extremely strong wind conditions (gust wind speed exceeding $4 0 \\mathrm { m / s }$ ) may be the largest in the layer tens of centimeters above the ground surface (Fig. 1), and sand grains jumping up to $1 0 ~ \\mathrm { m }$ high have been observed (Yin, 1989; Cheng et al., 2016; Tan et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3407c839d7d9759c32b84be877a30d263cd9cf165f76a8a485f33f8adfb36013.jpg",
+        "img_caption": [
+            "Fig.1Evidence oflarge scale saltation over gravel surface.(a),serious sand abrasion ofa wood pole on windward side from about $0 . 1 \\mathrm { m }$ to more than $1 . 5 \\mathrm { m }$ in a Gobi area of Xinjiang,but the bottom part below $0 . 1 \\mathrm { m }$ is less damaged; (b),abrasion ofa concrete bridge pier (indicated by the ellipse) shows the strongest abrasion at about $0 . 8 \\mathrm { m }$ high; (c), sand deposited behind a $3 . 3 \\mathrm { ~ m ~ }$ high wall as wind breaker at a section of the Lanzhou-Xinjiang high-speed railway; and (d),grain-size distributionoffive samples fromthe site shown in (c).At the thre sitesof(a)-(c),wind is almost unidirectional, with sand blowing toward the abrasion side in (a) and (b)but another side of the walin (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most studies on sand movement over gravel surfaces use the same approach as that over sandy surfaces, e.g., examining aerodynamic roughness length and wind velocity profile (Dong et al., 2002a,b; Zhang et al., 2Oo8). A turning point was observed in sand concentration profile due to sand-gravel colision, which difers from the concentration profiles over sand surfaces (Zhang et al.,2008).Particles with different sizes may also respond diversely during the colision with surface. Although Bagnold (1941) noted that the size and spacing of the pebbles affect particle movement, few studies focused on how pebble characteristics influence grain movement. Hardly any such studies were carried out at large scale conditions due to practical dificulties; for example, saltation height could exceed the wind tunnel upper boundary, so that the actual height cannot be measured. In field conditions, grain size and gravel characteristics are stillhard to be measured and parameterized, because it is not feasible to separate the effects of gravels with different shapes, sizes and surface angles on saltation particles.As a result, new experimental method needs to be developed to study the effect of gravel surface on particle saltation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Suppose a group of grains with the same properties and same trajectory (i.e., with the same impact velocity and angle) impact a gravel surface.Then,the rebound would substantially affect the following trajectory of the grains.A natural gravel surface can be considered to be composed of many surfaces with different reflection angles.If the effect of the contact angle between the impacting grain and the gravel surface is known, the complicated trajectories of sand grains observed in wind-tunnel and/or field experiments can be decoded by considering the probability distribution of the reflection angles of the gravel surface. We can then beter predict grain trajectories and sand transport flux. This can increase our knowledge of wavelength of incipient ripples or dunes in areas of hard surfaces, which is of great importance for our understanding of gravel surface formation and evolution. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To obtain the trajectory of saltation sand that may not be able to get through traditional wind tunnel experiment and field measurement, we designed a set of equipment to obtain the full-scale saltation range of sand particles， and performed controlled experiments to measure the concentration of saltation particles and the length of grain saltation at sequential locations. We obtained details of saltation trajectories in still air to show how contact angle of gravel surface influences sand saltation trajectories for different grain sizes and impact speeds.By analyzing the characteristics of the trajectories,we distinguished the contributions of grain inertia and fluid momentum to sand saltation. The results were then compared with simulation for sandy surface from the COMprehensive numerical model of SALTation (COMSALT),a physically based saltation model. which is able to switch off the effect of turbulent air and generate comparable results against our tests (Kok and Renno, 2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Blasting equipment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We designed an equipment that can control the blasting speed of air and contacting angle, and collect the impacted particles at various horizontal and vertical locations (Fig.2a). An air-compressor was used as the power section to create high-speed air flow; a pressure valve, to control air pressure; an electromagnetic valve with a timer, to control blasting time; a sand-blasting gun with a round opening of $0 . 5 \\mathrm { c m }$ in diameter, to feed and eject sand particles; a hard smooth slate with adjustable angles on a platform,to simulate the gravel surface; a series of square plastic bins ( $1 0 . 0 \\mathrm { c m }$ in length and $3 0 . 0 \\mathrm { c m }$ in depth) along the blasting center,to collect the horizontally settled particles (Fig. 2b); and a stack of removable steel bins (each $5 . 5 \\ \\mathrm { c m }$ in height, $5 . 0 \\mathrm { c m }$ in width, $2 0 . 0 \\ \\mathrm { c m }$ in length, $2 5 ^ { \\circ }$ uptilt, with a polyporous air outlet at the end) on a portable frame,to collect the saltation sand profiles at different distances (Fig. 2c). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The air speed was calibrated at $1 5 . 0 ~ \\mathrm { c m }$ (the location of proposed contacting center） from the opening of the sand-blasting gun. A pilot tube was used to measure the wind speed change with controlled air pressure and build their relationship. The pressure was increased from $1 . 0 { \\times } 1 0 ^ { 5 }$ Pa at $0 . 5 { \\times } 1 0 ^ { 5 }$ Pa interval with three replications. A good linear relationship was determined (Fig. 2d); but above $3 . 5 { \\times } 1 0 ^ { 5 }$ Pa pressure with about $5 6 . 0 \\mathrm { m / s }$ air speed, the relationship tended to degrade.In fact, the pilot tube failed to reflect any air speed change with higher than $4 . 0 { \\times } 1 0 ^ { 5 }$ Pa pressure, because the measured static pressure also increased in the violent airflow.So, only four reference air speeds from 20.0 to $5 0 . 0 \\mathrm { m / s }$ with interval of $1 0 . 0 \\mathrm { m / s }$ were used. The selected speeds may be apparently higher than those in blown sand experiment, especially in wind tunnel,but can be frequently visited at Gobi areas.The particles travelled a short distance $( 1 5 . 0 \\mathrm { c m } )$ in the same direction together with the highpressure jet air stream, so we can assume they followed the speed of the air before collision, with little damping during the transient travelling period $_ { ( < 0 . 0 0 7 5 \\mathrm { ~ s ~ } }$ at $2 0 . 0 \\mathrm { m / s }$ air speed). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The vertical bins were arranged with their openings on a vertical plane,and the lower edge of the lowest bin was set at the same height with the contact center. The dimension of the contacting slate was decided to make sure that no particles can directly fly over but have to collide with the slate at the three angle conditions (Section 2.3). Trial tests were carried out before each speed, angle and particle size experiment to decide the number of needed bins at the two directions.For each scenario with a certain contact angle, speed and particle size,the horizontal test was performed first, and then the vertical one with the frame stood from the margin of the slate $( 0 . 0 \\mathrm { c m } )$ and every $3 0 . 0 \\mathrm { c m }$ moving back to obtain the trajectories.The bins were taken out starting from the top ones,and sand particles in each bin were weighted by a ten thousandth balance. If particles were found less than the maximum resolution of the balance,their numbers were counted and their weights were estimated according to the density of quartz and average volume (assume sphere shape) of the size group.Three replications were performed for each test scenario. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All the tests and weighting works were carried out in indoor environment with still air. During each test,a sheet of cloth was laid on the floor to recycle the rest of blasted sands and also to prevent secondary saltation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Contact angle at gravel surface ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the Gobi area, gravels on the underlying surface have different coverage,sizes,orientation, and roundness.The shapes of the gravels can be very irregular, and each gravel may have several faces. The inclination angle (O for horizontal) of each face that may encounter a saltation sand defines the contact angle $\\theta$ ； then, the rebound liftoff angle $( a )$ will be the sum of $2 \\theta$ and $\\beta$ ，where $\\beta$ is the blasting angle of particle (downward is positive). In the used equipment, $\\beta$ is set to O (horizontal stream of sand) for simplification,so $\\scriptstyle a = 2 \\theta$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We randomly picked over 300 gravels from the Gobi in eastern Kumtag Desert, Northwest China and manually measured their faces.Beside the underside face that touches the ground, each gravel usually has 3-4 faces that may encounter saltation sands.The face inclination angles ( $1 0 ^ { \\circ }$ is at level with ground, and $9 0 ^ { \\circ }$ is vertical) distribute over a large range from almost $0 ^ { \\circ }$ to even over $9 0 ^ { \\circ }$ (Fig. 2e). But for all the steep gravel face angles that are larger than $5 0 ^ { \\circ }$ ， the grains would rebound vertically or even backwardly upwards so that their forward velocity and next travelling paths cannot be measured. For the gentle angles smaller than $1 0 ^ { \\circ }$ , the saltation condition would be similar to that over a level surface,and the grains may not be able to develop a full trajectory before hitting the ground. As a result, we only considered gravel inclination angle of $2 0 ^ { \\circ }$ ， $3 0 ^ { \\circ }$ and $4 0 ^ { \\circ }$ ，which were also the most distributed measured angles and resulted in the $\\scriptstyle a$ of $4 0 ^ { \\circ }$ ， $6 0 ^ { \\circ }$ and $8 0 ^ { \\circ }$ respectively,assuming elastic collision. The air out of the nozzle may diffuse at a degree about $1 3 ^ { \\circ }$ and cause errors (Reichardt, 1941), but sand particles have much larger inertia and result in less dispersed $\\boldsymbol { a }$ than the air. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bf0c96c47f64f04bdefa7da89158afdebcb1c7a6e3026a5e572b844facf14a6.jpg",
+        "img_caption": [
+            "Fig.2Equipments used in the experiments.(a),a sketch of the test equipment with the power section,control panel, contact slate with its contact angle $\\mathbf { \\eta } \\left( \\theta \\right)$ ,a horizontal nozzle to simulate an impact angle $( \\beta )$ , the liftoff angle $( a )$ （204号 ofrebound particles,and the horizontal and vertical sand-catch bins (the inset shows the relationships of $\\theta$ $\\scriptstyle a$ and $\\beta$ in details);(b),horizontal bins tocolect sandsonthe floor;and(c),removingof verticalbins;(d),tested relationship between used pressure and air speed,in which $\\nu$ is impact speed and $p$ is air pressure;(e),distribution of counted gravel inclination angles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Sand ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aeolian sands were taken from the Mingsha Megadune to the east of the Kumtag Desert, Northwest China. These quartz sands were screened to form three size groups: 0.10-0.25,0.25-0.50 and 0.50- $1 . 0 0 \\mathrm { m m }$ as fine, medium and coarse sand, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In total,36 groups of experiments were carried out. Each involved removal and reload of tens of horizontal bins for one time and vertical bins for 6 (the shortest measured distance, $1 . 8 ~ \\mathrm { m }$ to 27 (the longest measured distance, $8 . 1 \\mathrm { m }$ )times. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 COMSALTsimulation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experimental results on saltation with different $\\theta$ were compared with simulations from COMSALT (Kok and Renno,2009). This model simulates particle saltation due to gravity, fluid drag,fluid shear, turbulent air, and a wide range of other processes.It does not consider the collision of saltation particles with each other; and it can turn off the effect of turbulent air, which makes it similar to our experiments in still air. Many fluid forces like the Saffman force from the shearing flow and the Magnus force from particle rotation were experienced in both the experiments and COMSALT. The model reports two-dimensional steady-state results, meaning that interactions of particles with surface and wind are averaged over many iterations so that a dynamic balance is reached. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COMSALT assumes a flat surface and estimates a mean rebound angle $\\scriptstyle a$ of $4 0 ^ { \\circ }$ ,which fits our $\\scriptstyle \\theta = 2 0 ^ { \\circ }$ experiments. As a result, the comparison will show the difference of saltation from gravel surface (our test) against flat surface (COMSALT simulation). However, it is worth noting that other ejection angle ranges were also recommended, for example $6 0 ^ { \\circ }$ (Ammi et al., 2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "COMSALT uses the log-law of wind profile to estimate the shear velocity of clear wind using ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = \\frac { u ^ { * } } { k } \\ln \\frac { z } { z _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $u$ is air speed $\\mathrm { ( m / s ) }$ ： $\\boldsymbol { u } ^ { * }$ is shear velocity; $z$ is height (m); $z _ { 0 } { \\approx } \\mathrm { D } / 3 0$ is surface roughness based on particle size D (m); and $k$ is van-Karman constant and set to 0.4. Details about particle trajectory, colision process and readjustment of wind profile can be found in the document of this model(Kok and Renno,2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Distribution of saltation sands ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since sand flux was continuously measured, we can plot the concentration contours of the saltation sands, which also represent the probability density of sand grains for given size, impact speed and $\\theta$ conditions. For all $\\theta$ conditions, sand grains tend to concentrate in a narrow range of trajectories, indicating that there exists a dominant saltation trajectory where particle concentration can be hundreds of times larger than those at the margin area, but the scater range of particle saltation (light gray areas in Figs. 3-5) is obviously large. This is because saltation process is highly stochastic,and the particles are unlikely to transport in one path even with the same internal and environmental factors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As $\\theta$ increases, particles move more upward but setle at shorter distances,resulting in larger saltation range after collision and more upright (higher) but narrow (shorter) profiles, as in Figure 3a at $2 0 ^ { \\circ }$ Vs Figure 3c at $4 0 ^ { \\circ }$ , for example.Also, the peak concentration of particle cloud is reduced more quickly with $\\theta$ although the total flux remains the same with the same air speed (same inject speed and time duration), e.g., from $8 8 . 2 ~ \\mathrm { g / m i n }$ in Figure $3 \\mathrm { g }$ at $2 0 ^ { \\circ }$ to $7 . 1 \\ \\mathrm { g / m i n }$ in Figure 3i at $4 0 ^ { \\circ }$ ： This is because a shallow horizontal $\\theta$ gives small $\\alpha$ , so that particle streams tend to concentrate in a narrow path with small $\\theta$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As the impact speed increases, both saltation height and length increase. The maximum saltation height $( H _ { m } )$ and maximum saltation length $( L _ { m } )$ at $5 0 \\mathrm { m / s }$ impact speed for the three size groups are 2.8 and 2.7 times that at $2 0 ~ \\mathrm { m / s }$ wind. Larger particle sizes rebound higher and saltate longer, so that the saltation space follows the sequence of coarse sand (Fig. 5) $\\mid >$ medium sand (Fig. 4)>fine sand (Fig. 3). We find that coarse sands with $0 . 5 0 { - } 1 . 0 0 ~ \\mathrm { m m }$ in size rebound the farthest when $\\scriptstyle \\theta = 2 0 ^ { \\circ }$ , while the highest is at $\\scriptstyle { \\theta = 4 0 ^ { \\circ } }$ under impact speed of $5 0 ~ \\mathrm { m / s }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cfa2c9a3c3c3fc094b2f015da66ae5f88e11d6b7661cf58671818d97d0947e3.jpg",
+        "img_caption": [
+            "Fig.3Concentration contour maps of the saltation space for fine sand.Each column shows diferent impact speed $( \\nu )$ with the same contact angle $\\theta$ ,and each row shows the effect of $\\theta$ under the same impact speed.Large light gray areas ineach penal indicate low posibility to encounter particles,and most ofthe particlesconcentrateat asmall range (therepresentative trajectory).Log scale is used to show the changes ofregion withlow concentrations.Some isolated light patches exist, because zero concentration was measured below or before the patches. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaf6617caf3e206487404989491da6d227c25bca10f4d66f5b37c438d0d16466.jpg",
+        "img_caption": [
+            "Fig.4Concentration contour maps of the saltation space for medium sand "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e472f23cb9564af2b16358f42eac1299277fbdff6b90f22e2ba98e50967f3ae.jpg",
+        "img_caption": [
+            "Fig.5Concentration contour maps of the saltation space for coarse sand "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Representative trajectory and maximum height profile ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The height of maximum saltation sand concentration $( H _ { c } )$ at each horizontal location was extracted to form the representative trajectory (characteristic grain path) of sand particle with different size, contact angle and impact speed (Fig.6).The outer boundaries of Figures 3-5 were extracted to create a group of $H _ { m }$ profiles that represent the upper limit positions of grains along the travelling paths. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f15bd5d4f4bd1cbfa86c1200b91e66d9076fef241597cd24d48a7eee3c9d0d9.jpg",
+        "img_caption": [
+            "Fig. 6Profiles of maximum concentration $( H _ { c } )$ and maximum position $( H _ { m } )$ . Each column shows different $\\theta$ ,and each row shows different particle sizes. $H _ { m }$ is apparently higher than $H _ { c } ,$ ,meaning that particles may rise to a much higher location. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $H _ { m }$ profiles bounded by the highest particles are remarkably larger than the $H _ { c }$ profiles that represent the average particle features.Peak heights on the $H _ { m }$ profiles are about 3.5, 2.7 and 2.3 times of those on the $H _ { c }$ profiles when $\\theta$ equals to $2 0 ^ { \\circ }$ ， $3 0 ^ { \\circ }$ and $4 0 ^ { \\circ }$ , respectively. So,if we only consider a representative height on the theoretical trajectory, we may largely underestimate the potentials of sand saltation height. The results also show that representative saltation paths have elliptic shape and long tails with the downward settling angle smaller than the liftoff angle (Bagnold,1941; Ho et al.,2014),and the increase of $H _ { c }$ height with wind speed (Zheng et al., 2004). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Characteristic values of the trajectories ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The peak $L _ { m }$ ， $H _ { c }$ and $H _ { m }$ values in the saltation spaces were extracted to show their relationships with $\\theta$ (Fig. 7). On average, $L _ { m }$ increases with particle size and decreases with $\\theta$ for a given flow speed (Fig. 7a-c),reduced by $12 \\%$ as $\\theta$ increases from $2 0 ^ { \\mathrm { { o } } }$ to $3 0 ^ { \\circ }$ and by another $24 \\%$ as $\\theta$ increases from $3 0 ^ { \\mathrm { o } }$ to $4 0 ^ { \\circ }$ ： $H _ { c }$ increases with particle size as well as with $\\theta$ ，except for the case of impact speed $5 0 ~ \\mathrm { m / s }$ with $\\scriptstyle \\theta = 3 0 ^ { \\circ }$ (Fig. 7d-f). $H _ { m }$ also increases with particle size and speed; however, its relationship with $\\theta$ is not strong (Fig. $7 \\mathrm { g - i }$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Within a size and impact speed group, $\\theta$ leads to $58 \\%$ $( 4 0 \\% - 9 8 \\% )$ variance of $L _ { m }$ $7 7 \\%$ 1 $2 9 \\text{‰}$ $9 7 \\%$ ）variance of $H _ { c }$ , but only $21 \\%$ （204号 $( 8 \\% - 3 9 \\% )$ change of $H _ { m }$ . This indicates that $H _ { m }$ is less impact by contact angle, so that particles in all size groups can reach high places after collision. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/770c1dd5893c17e7b30ded75af70ef46151c3c7f5778540705a654848cd55313.jpg",
+        "img_caption": [
+            "Fig.7Characteristic trajectory values for three grain sizes (one column for each size) under diferent impact speeds and contact angles. $L _ { m }$ ,maximum saltation length. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The changes of $L _ { m }$ $H _ { c }$ and $H _ { m }$ values with impact speed are generally monotonic for any particle size and $\\alpha$ , so that linear relationships can be established with $\\nu$ .The regression coefficients, $a$ and $b$ , together with their $R ^ { 2 }$ are given in Table 1 to show these changes quantitatively. For instance, the reduced values of coefficient $a$ with increasing $\\boldsymbol { a }$ for $L _ { m }$ indicate that trajectory length is reduced at a higher contact surface angle. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcb110005f6851b606cddee1d3870997759b8d6e45268aa1a3aafa12decfb0f6.jpg",
+        "table_caption": [
+            "Table1Linear regression coeficients for $L _ { m } , H _ { c }$ and $H _ { m }$ with impact speed $\\nu$ at different particle size and contact angle "
+        ],
+        "table_footnote": [
+            "Note: $\\theta$ ,contact angle; $a$ ,regression coefficient; $\\nu$ ,impact speed; b,regression constant; $L _ { m }$ ,maximum saltation length; $H _ { c }$ ,maximum saltation sand concentration; $H _ { m }$ ,maximum saltation height. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Particle size</td><td rowspan=\"2\">0</td><td colspan=\"10\">y=axv+b</td></tr><tr><td colspan=\"3\">Lm</td><td></td><td colspan=\"3\">H</td><td colspan=\"3\">Hm</td></tr><tr><td></td><td></td><td>a</td><td>b</td><td>R</td><td>P</td><td>a b</td><td>R²</td><td>P</td><td>a</td><td>b</td><td>R²</td><td>P</td></tr><tr><td rowspan=\"3\">Fine</td><td>20°</td><td>13.40</td><td>-74.00</td><td>0.92</td><td>0.04</td><td>1.87</td><td>-13.20 0.93</td><td>0.03</td><td>4.84</td><td>1.10</td><td>0.85</td><td>0.07</td></tr><tr><td>30°</td><td>9.90</td><td>-24.00</td><td>0.77</td><td>0.12</td><td>3.14</td><td>-34.10 0.83</td><td>0.09</td><td>6.05</td><td>-24.75</td><td>0.69</td><td>0.17</td></tr><tr><td>40°</td><td>8.10</td><td>-36.00</td><td>0.88</td><td>0.06</td><td>1.38</td><td>24.75</td><td>0.95 0.02</td><td>6.88</td><td>-49.50</td><td>0.87</td><td>0.07</td></tr><tr><td rowspan=\"3\">Medium</td><td>20°</td><td>17.90</td><td>-124.00</td><td>0.98</td><td>0.01</td><td>2.26</td><td>-17.05</td><td>0.99 0.00</td><td>10.34</td><td>-100.65</td><td>0.98</td><td>0.01</td></tr><tr><td>30°</td><td>11.80</td><td>-3.00</td><td>0.84</td><td>0.08</td><td>2.37</td><td>-1.65 0.98</td><td>0.01</td><td>6.99</td><td>7.15</td><td>0.91</td><td>0.04</td></tr><tr><td>40°</td><td>13.40</td><td>-134.00</td><td>0.97</td><td>0.01</td><td>4.24</td><td>-34.10</td><td>1.00 0.00</td><td>9.19</td><td>-50.60</td><td>0.98</td><td>0.01</td></tr><tr><td rowspan=\"2\">Coarse</td><td>20°</td><td>16.50</td><td>85.00</td><td>0.99</td><td>0.00</td><td>2.08</td><td>15.50</td><td>0.94</td><td>0.03 8.75</td><td>-32.45</td><td>0.97</td><td>0.01</td></tr><tr><td>30°</td><td>14.40</td><td>111.00</td><td>0.96</td><td>0.02</td><td>2.20</td><td>57.75</td><td>0.56 0.25</td><td>9.19</td><td>9.90</td><td>1.00</td><td>0.00</td></tr><tr><td></td><td>40°</td><td>12.90</td><td>-14.00</td><td>0.99</td><td>0.00</td><td>3.57</td><td>35.75</td><td>0.83 0.09</td><td>10.01</td><td>-28.60</td><td>1.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Relationships of $\\pmb { a }$ with $\\scriptstyle { L _ { m } } / H _ { c }$ and ${ { L } _ { m } } / { { H } _ { m } }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A good linear relationship between $L _ { m } / H _ { c }$ and $\\alpha$ was found in a previous test of blown sand in wind tunnel experiments, which showed that the representative saltation length can be 10.O times of the height (Ling and Wu, 1980), at least when $3 0 ^ { \\circ } < a < 9 0 ^ { \\circ }$ (Zou et al.,1999), which covers the current $\\alpha$ range.The average $L _ { m } / H _ { c }$ value of four speeds at three $\\scriptstyle a$ conditions in the experiments is $40 \\% \\pm 5 \\%$ less than their blown sand counterpart, but they also follow a linear pattern (Fig. 8). This indicates $L _ { m }$ under a blown-sand condition in the field may be 1.7 times (1.0/0.6) larger than the current measured value. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Because $H _ { m }$ is clearly larger than $H _ { c }$ , the ratio of $L _ { m } / H _ { m }$ is smaller compared to the ratio of $L _ { m } / H _ { c }$ even after adjusting $L _ { m }$ by 1.7 times.The scatters of $L _ { m } / H _ { c }$ and $L _ { m } / H _ { m }$ generally distribute in separate areas (Fig.8). However, due to the fact that $H _ { m }$ was hard to obtain in field measurement or wind tunnel experiment, this $L _ { m } / H _ { m }$ VS $\\alpha$ relationship is less valuable compared to the one of $L _ { m } / H _ { c }$ VS $\\alpha$ ,but $L _ { m } / H _ { m }$ also follows a linear changing pattern with $\\alpha$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This relationships of $\\boldsymbol { a }$ with $L _ { m } / H _ { c }$ and $L _ { m } / H _ { m }$ are generally independent from wind as shown in Table l and Figure 8,which indicates that at least in the tested liftofangle range,the shapes of the grain trajectories under different winds remain similar. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/be7aea5a336ed7647475f07b03b27160217cb5c4c74f8a9c8261d935fddac373.jpg",
+        "img_caption": [
+            "Fig.8Relationship between saltation length/height ( ${ { L } _ { m } } / { { H } _ { c } }$ and $L _ { m } / H _ { m } $ )andliftoffangle $( a )$ of the test results in still air.Unfilled symbolsare those adjustedby1.7times to match blownsand results in wind tunnel experiments by Ling and Wu (1980). "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5Comparison with COMSALT-simulated saltation over flat sandy surface ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The simulation results of COMSALT agree well with the $\\scriptstyle \\theta = 2 0 ^ { \\circ }$ tests on $L _ { m }$ for fine sand at lower impact speeds $( < 4 0 ~ \\mathrm { m / s } )$ ,but the agreement is reduced for larger particle sizes (discrepancy about $60 \\%$ for medium sand and $100 \\%$ for coarse sand) although the same changing trends exist (Fig. 9a). A possible explanation for the discrepancy is that COMSALT may overestimate $L _ { m }$ for large particles with large shear velocity ( $\\stackrel { \\cdot } { u } ^ { * }$ is from 0.63 to $1 . 7 8 ~ \\mathrm { m / s } \\mathrm { \\dot { \\Omega } }$ ),but may also due to the fact that our tests failed to collect all the saltation particles at the downstream ends where mass flux was very low. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "However, COMSALT clearly underestimates the saltation height over hard surface for both the maximum one $( H _ { m } )$ (Fig. 9b) and the representative one $( H _ { c } )$ (Fig. 9c).Here,we use the height of $z _ { 5 0 }$ (the saltation layer height below which half of the horizontal mass flux occurs,and the typical height of majority saltation particles) from COMSALT output as counterpart of our $H _ { c }$ . The $H _ { m }$ test results are 4.9 times of the COMSALT simulation results,and the $H _ { c }$ results are 12.8 times. The differences are similar to those between the experiments referenced by COMSALT over flat sandy surface with centimeter-level saltation height and the hyper saltation over Gobi areas with meterlevel height as shown in Figure 1.This indicates that the saltation height over the gravel surface is clearly higher than that over the sandy surface despite similar rebound angle,and additional parameters are needed to reflect the saltation over the gravel surface. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab47b576b59d1bf2ea3d1785e16a0617fa0ba6a355cad356ecb5dbeacb583853.jpg",
+        "img_caption": [
+            "Fig.9Comparison between the test and COMSALT-simulated $L _ { m }$ (a), $H _ { m }$ (b)and $H _ { c }$ (c) in still air for three particle size groups.The test is found to beconservative in reflecting saltation length (a),but clearly shows that curent saltation model for flatsurface conditions underestimate the saltation height over hard contact surface like the Gobi. The differences can be 4.9 times for $H _ { m }$ and 12.8 times for $H _ { c }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The previous section clearly showed that the effect of grain size and impact speed on saltation, and that the height and length of trajectory profile enlarge with the size and speed variables. In this section we focus on the effect of contact angle and the contribution of particle inertia on saltation, which are not usually available through common saltation research method. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1 Effect of contact angle on saltation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Direct measurement of full-scale grain trajectory over gravel surface has not been performed before. Sand transport above a certain height, i.e., at $0 . 6 \\mathrm { ~ m ~ }$ ,is usually suggested to be neglected due to its trace rate (Dong and Qian, 2Oo7). The average saltation height is often expressed by grain size and wind velocity. It is true that saltation density reduces quickly with height at the space above the representative trajectory,as shown in Figures 3-5.Both $L _ { m }$ and $H _ { c }$ are affected by the contact angle and rebound angle.For example,here $L _ { m }$ decreases byabout $58 \\%$ when contact angle changes from $2 0 ^ { \\circ }$ to $4 0 ^ { \\circ }$ ，while $H _ { c }$ increases by about $7 7 \\%$ with similar contact angle changes. They all increase with impact speed in the quiescent air tests as those in windy conditions (Ho et al., 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The decrease of $L$ with $\\theta$ in the still air condition can be easily imaged, and the results prove the reliability of the used equipment and method. Then, the results reveal that $H _ { m }$ is less sensitive to contact angle, so almost all the particle size groups can reach a high space under the same wind condition (more than 2 or 3 times of $H _ { c }$ ),although the density or possibility is hundreds of times lower. The fine sand can saltate over $3 . 0 \\mathrm { m }$ high,and the coarse sand, almost $5 . 0 \\mathrm { m }$ high in the test scenarios,which are more than 10.O times of the usually obtained saltation heights over flat surfaces. Given that wind may be more violent than the test condition and the area is large with unlimited sediment source,it is not surprising that aeolian sand can deposit on the trails after a 3.3- m high windbreak wall in the Gobi area in Northwest China,and that all the size groups were found as other normal aeolian sands (Fig. ld). This explains why the sand control measure that usually works for sandy desert fails in some Gobi areas with strong wind. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "These findings are different from the common trajectories of blown sands, where those rebound with larger angles may rise higher and travel longer due to the more transferred momentum. So, the contribution to the whole particle trajectory can be divided into two parts,that from the inertia after collision and that from the wind energy. Now, we are able to separate these two contributions quantitatively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2 Contribution of particle inertia to trajectory ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The blown sands are supported by both the inertia after collision with surface and the energy from wind.To date,the available models on saltation usually adopted forces at the horizontal and vertical directions to solve the trajectory, and the effects of inertia and wind energy were mixed together. In the current test, allthe momentum of sands was from the inertia, and the horizontal velocity increase by wind was not included in the test under the still air condition, so we can identify the influences of inertia and wind energy in shaping the saltation trajectory. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The linear relationships of $L _ { m } / H _ { c }$ and $\\scriptstyle a$ in Figure 8 are independent from impact speed, which reflect the saltation mechanism. The gap of travel distance between blown sand and still-air sand is due to the momentum transfer from the wind.There was no wind force to create any acceleration in the still-air case,but particles still travelled long distances due to the inertia and followed the linear relationship between trajectory characteristic value and $\\boldsymbol { a }$ .Based on the offset of $L _ { m } / H _ { c }$ values in Figure 8,we can deduce that during the hyper saltation process after collision with a hard surface, $60 \\%$ of the travelling path is accomplished by the inertia after the collision, and the wind energy contributes to the other $40 \\%$ . The total $L _ { m }$ for the tested sands in nature wind would be about 1.7 times of the measured size. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The find that inertia contribute to $60 \\%$ of the saltation trajectory can be used to validate the available trajectory models in the literature,like the distribution of lift grains and the contribution of the inertia. The models can consider the linear relationship of $L _ { m } / H _ { c }$ and $\\scriptstyle a$ by first reflecting the inertia after collision,and then adding the effect of wind.In this way, the models can simulate the saltation process in quiescent air (when wind cases) or strong wind over hard surfaces, as well as the dynamic change of saltation trajectory when wind speed changes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The additional increase of saltation height and length of sand grains by Magnus force from the spin of a particle could range from $10 \\%$ to about $50 \\%$ (Zou et al., 2007).As a result, the test result may still be conservative in projecting the saltation length of sand grains over the gravel surface. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Full-scale indoor experiments are performed on the saltation of sand particles over hard surface with different contact angles in stillair. We showed that all the size groups of sands can rebound to several meters high, which lead to the surprisingly strong abrasion at high positions and deposition after high sand barrers in the Gobi area,and larger particles tend to rebound higher over longer distance.When the contact angles $\\mathbf { \\eta } ^ { ( \\theta ) }$ are $4 0 ^ { \\circ }$ and $2 0 ^ { \\circ }$ , the measured saltation height and length reached to 4.8 and $9 . 0 \\mathrm { ~ m ~ }$ ,respectively, with coarse sand at $5 0 ~ \\mathrm { m / s }$ test impact speed (Fig. 7). The maximum saltation length $( L _ { m } )$ may reduce by $58 \\%$ and the representative saltation height $( H _ { c } )$ （204号 increase by $7 7 \\%$ when contact angle of surface changes from $2 0 ^ { \\circ }$ to $4 0 ^ { \\circ }$ . The collision inertia with hard surface contributes $60 \\%$ of the saltation length,and wind contributes $40 \\%$ ，so the actual saltation length and height in the field condition are about 1.7 times larger than the measured values. Linear relationships are built for estimating the trajectory characteristics of saltating sands with different impact speed and contact angles over gravels in still air (Table 1). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The results were compared with simulations from COMSALT, which showed that the saltation over hard surface is clearly different from that over a sandy surface, given all other similar factors. The maximum saltation height $( H _ { m } )$ and $H _ { c }$ over the hard surface might be 4.9 times and 12.8 times of those over the sandy surface. These findings are not feasible to get in current wind tunnel experiments or field measurements, and can be used as the first step to understand the effect of surface element (gravel shape, orientation and shape, etc.) on sand saltation. New parameters and modules can be added to current saltation models based on the findings in this paper, and a physically based parameterization of particle movement over different surfaces (sandy and gravel) can be developed. Also, some advanced testing technology, such as particle tracking velocimetry (Jiang et al.,2017), might be able to work together with the sand-blasting method and measure the velocity field of saltation sand. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XD23060201), the Key Special Project for Introduced Talents Team of Southern Marine Science and Engineering Guangdong Laboratory （Guangzhou）(GML2019ZDo601),the National Natural Science Foundation of China (42071014),and the Excellent Youth Innovation Promotion Association of the Chinese Academy of Sciences (Y202085). We thank Professor Ralph LORENZ from Johns Hopkins University's Applied Physics Laboratory and Professor SHAO Yaping from University of Cologne for useful discussions and comments. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ammi M,OgerL,BeladjineD,etal.2o9.Three-dimensionalanalysisofthecollsionprocessofabadona granularpacking. Physical Review,E79:021305,doi:10.1103/PhysRevE.79.021305.   \nAyoubF,AvouacJP,NewmanCE,etal.2O14.Thresholdforsand mobilityon Mars calibrated fromseasonalvariationsofsand flux.Nature Communications,5(1): 5096,doi: 10.1038/ncomms6096.   \nBagnold RA.1941.The Physics of Blown Sand and Desert Dunes.London: Chapman & Hall,72.   \nBagnoldRA.1973.Thenatureofsaltationandof bed-load'transport inwater.ProcedingsoftheRoyal SocietyofLondon. Mathematical and Physical Sciences,332:473-504.   \nBurrDM,BridgesNT,MarshallJR,etal.2015.Higher-than-predictedsaltationthresholdwindspeedsonTitan.Nature,517: 60-63.   \nCheng J,LeiJ,LiS,etal.2016.Disturbanceof theinclinedinserting-typesandfenetowind-sandflowfieldsand itssand control characteristics.Aeolian Research,21:139-150.   \nDong Z,Liu XP, Wang XM.2002a.Aerodynamic roughness of gravel surfaces.Geomorphology,43(1-2):17-31.   \nDong Z,Wang HT,LiuXP,etal.2Oo2b.Velocityprofileofasandcloudblowing overagravelsurface.Geomorphology,45(3- 4): 277-289.   \nDong Z,Qian G Q.20o7.Characterizing the height profileof the fluxof wind-eroded sediment.Environmental Geology,51: 835-845.   \nHagenLJ,vanPelt S,SharrattB.2O10.Estimating thesaltationandsuspensioncomponents fromfield winderosion.Aeolian Research,1(3-4): 147-153.   \nHoTD,ValanceA,upontP,etal20l1.Scalinglawsineoliansandtransport.PhysicalRevieLeters,06(9):941,doi: 10.1103/PhysRevLett.106.094501.   \nHoTD,ValanceA,upontPetal.4Aeolanandtransport:Lngthdightdistrbuiosfltatiotrajector.olan Research,12: 65-74.   \nJiang C,Dong Z,Wang X.2017.Animproved particle trackingvelocimetry(PTV)technique to evaluate the velocity field of saltating particles.Journal of AridLand, 9(5):727-742.   \nKok JF,Renno NO.29.Acomprehensive numerical model of steady state saltation (COMSALT).Journal of Geophysical Research-Atmospheres,114(17),doi: 10.1029/2009jd011702.   \nLammelM,Kroy K.2017.Analytical mesoscale modeling of aeolian sand transport.Physical Review,E96:052906,doi: 10.1103/PhysRevE.96.052906.   \nLiS,LiC,YaoD,etal.2O20.Wind tunnelexperimentsfordynamic modelingandanalysisofmotiontrajectoriesofwind-blown sands.The European Physical Journal,E43:22,doi: 10.1140/epje/i2020-11945-0.   \nLing Y,Wu Z.1980.Experimentiononthedynamic photographyofthe movementof sand-driving wind.Acta Geographica Sinica,35:174-181.(in Chinese)   \nLorenzRD,Zimbelman JR.2014.Mechanicsofsand transport.In:LorenzRD,ZimbelmanJR.Dune Worlds How Windblown Sand ShapesPlanetary Landscapes.Berlin: Springer,39-54.   \nPahtzT,OmeradicA,CareiroMV,etal.2015.DiscreteElementMethodsimulationsofthesaturationofeoliansandtrasport. Physics,42(6): 2063-2070.   \nReichardt H.1941.About anew theoryoffreeturbulence.Journal of Applied Mathematics &Mechanics,21:257-264.(in German)   \nShao Y,Raupach MR,FindlaterPA.1993.Efectofsaltation bombardmentonthe entrainmentofdustbywind.Journalof Geophysical Research: Atmospheres,98(7):12719-12726.   \nTanL,AnZ,ZhangK,etal.O20.Intermitenteoliansaltationoveragobisurfacethreshold,saltationlayerheight,adig frequencyvariability.JournalofGeophysical Research:Earth Surface,125(1):e2019JFo05329,doi:10.1029/2019jf005329.   \nWilliams SH,LeerJA.1995.Aeolian saltationtransport rate:anexampleoftheefect of sedimentsupply.Journalof Arid Environments,30(2):153-160.   \nYinY.1989.Studyonsanddrift in strong windregion in gravel desert.Journalof DesertResearch,9:27-36.(in Chinese)   \nZhang KC,QuJ,ZuRP,etal.2008.Characteristicsofwind-blownsandon Gobi/mobile sandsurface.Environmental Geology, 54: 411-416.   \nZheng X,HeL,WuJ.204.Verticalprofilesof massfluxfor windblownsand movementatteadystate.JournalofGeophysical Research: Solid Earth,109(1),doi: 10.1029/2003jb002656.   \nZouX,HaoQ,ZhangC,etal.1999.Parameteranalysisonthesaltationtrajectoryofwindblownsand.ChineseScienceBulletin, 44:1084-1088.(in Chinese)   \nZouX,Cheng H,Zhang C,etal.2oo7.Efectsofthe Magnusand Saffmanforcesonthesaltation trajectoriesofsandgrain. Geomorphology, 90(1-2): 11-22. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

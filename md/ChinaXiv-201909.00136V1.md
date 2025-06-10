@@ -1,0 +1,114 @@
+# 青藏高原高寒荒漠地带与寒冷干旱核心区域
+
+郑度²，赵东升'(1．中国科学院地理科学与资源研究所,中国北京100101；2．中国科学院大学资源与环境学院，中国北京100190)
+
+摘要：青藏高原高寒荒漠地带位于高原主体西北部地势最高的部分。该区域气候极其寒冷干燥,属于高原亚寒带,高山高原地貌多被横向断陷盆地所切割;多年冻土发育,冰缘作用普遍;自然过程年青,高山寒漠土壤浅薄;生物区系成分交错,高寒荒漠景观突出;生态环境脆弱,需加大自然保护建设与管理。高寒荒漠地带腹地为寒冷干旱核心区域，是全球高原高山区域，具有独特地位的地生态格局。
+
+关键词：青藏高原；高寒荒漠地带；寒冷干旱核心区域；垂直自然带谱；自然保护
+
+青藏高原高寒荒漠地带位于高原主体西北部地势最高的区域，包括羌塘高原北部、喀喇昆仑山区、昆仑山南翼和可可西里山地西段，行政上隶属于西藏那曲、阿里的北部区域，小部分则属于新疆南部。主要由高山、高原面、宽谷和盆地组成。该区气候极其寒冷干燥，属高原亚寒带，主要的植被类型为高寒荒漠和高寒垫状植被。
+
+从宏观区域尺度看，青藏高原上的主要山脉自帕米尔山结向东呈扇形展开，经羌塘高原、青南高原至东南部转为南北向平行骈走的横断山脉，呈西北高、东南低的地势特点。由于高原冬半年高空西风带起支配作用、夏半年受湿润季风气流的影响，形成了从东南部温暖湿润向西北部寒冷干旱递变的趋势,表现出由山地森林一高山草甸一山地/高山草原一山地/高山荒漠的带状更迭，具有明显的水平地带分异特点(1-2}。西北部的喀喇昆仑山—昆仑山地区毗连着亚洲中部极端干旱的荒漠，来自各方位的可降水汽甚微，使这种分异更为突出。
+
+根据实地考察成果，可以将帕米尔高原东缘，西、中昆仑山的北翼划归高原温带山地荒漠/半荒漠地带，其南界西起红其拉甫山口，经西昆仑山的主脊东延，沿麻札一康西瓦纵谷南侧山地，经慕士山及中昆仑山主脊至阿其克库勒湖北侧分水岭，转由布喀达坂峰接中昆仑山南支主脉。此线以南的昆仑山南翼和喀喇昆仑山以及羌塘高原的西北部则划归青藏高原亚寒带的高寒荒漠地带。高寒荒漠地带和高寒草原地带之间的界线,则大体上沿着阿里喀喇昆仑山的熊彩岗日向东经窝尔巴错南山一胜利达坂一土则岗日折东南至七沟山一长梁山折向东北与查多岗日一强日玛查相连。此线以南高山草原类型占优势，属高寒草原地带；此线以北则广布着高山荒漠和高山荒漠草原类型,属高寒荒漠地带[3]。
+
+# 1基本自然环境特征
+
+青藏高原北部高寒荒漠地带的主体在高原面上，昆仑山地极不对称，北坡陡峭，降落至海拔低于$1 0 0 0 \mathrm { ~ m ~ }$ 的塔里木盆地，高差达 $4 0 0 0 \mathrm { ~ m ~ }$ （图1），山势极为壮观。昆仑山南侧与高原湖盆之间的相对高差仅 $\mathrm { ~ 1 ~ 0 0 0 ~ m ~ }$ 上下，较为平缓。南部是喀喇昆仑山的东延部分，高峰多在 $6 0 0 0 \mathrm { ~ m ~ }$ 以上，因被横向断陷盆地所分割，山势显得断断续续。可可西里山位于上述两山脉之间的东部，是昆仑山的一条支脉，也呈东西向延伸。山脉形势相当清楚，但山势不高。山峰多在 $5 ~ 5 0 0 ~ \mathrm { ~ m ~ }$ 左右，只有少数山峰在 $6 \ 0 0 0 \ \mathrm { ~ m ~ }$ 以上[4] 。
+
+# 1.1构造抬升运动强烈，自然过程年青
+
+与整个青藏高原基本一致，研究地区强烈隆起的时代始于上新世末一更新世初，其主要标志是该区上新统和下更新统在岩性和岩相上的巨大变化[5];根据在中昆仑山发现的上新世—早更新世树叶化石和上新世地层的孢粉资料分析，这一地区的上升幅度总计约 $3 ~ 0 0 0 ~ \mathrm { m } ^ { [ 6 ] }$ 。喀喇昆仑山呈西北—东南走向平行排列，主体平均海拔 $6 0 0 0 \mathrm { ~ m ~ }$ 。它是地球上海拔最高、切割深、地势陡，相对起伏最大的少数地区之一。喀喇昆仑山口以东，山势略降，自空喀山口起，为喀喇昆仑山东延部分，受若干横向断陷盆地所分割，山势断续，散布在羌塘高原上。由于隆升山体阻挡南来湿润气流进入，高山区降水减少，雪冰补给受影响。羌塘高原西北部湖泊退缩十分明显，以古湖岸线等地貌标志推测，高湖面时古湖泊面积占本区总面积的 $1 0 . 6 \%$ ，为现代湖泊面积的3.06倍[7]。该区的成土风化壳普遍具有薄层、多砾、粗骨性强，矿物风化程度弱等特点。土壤的主要特征为：土层浅、颗粒粗、粉粒表聚;矿物化学分解程度低。
+
+![](images/09280628061c5e7590688631fa182b1cfe05079183bc7fea39804421a1741fc8.jpg)  
+图1青藏高原高寒荒漠地带与寒旱核心区位置  
+Fig.1Location of high-cold desert zone and the cold-arid core area of the Tibetan Plateau
+
+# 1.2气候寒冷，多年冻土发育冰缘作用普遍
+
+位于阿里喀喇昆仑山和昆仑山之间的羌塘高原为海拔 $4 \ 7 0 0 \sim 5 \ 2 0 0 \ \mathrm { m }$ 的湖盆和高原面，气候寒冷干旱，太阳辐射强、气温低、日较差大。最暖月平均气温 $3 \sim 7 ~ \mathrm { { ^ { \circ } C } }$ ，最冷月平均气温 $- 2 0 \ \mathrm { ^ { \circ } C }$ ,羌塘高原西北部年降水量仅 $2 0 \sim 4 0 ~ \mathrm { m m }$ 。这里干燥剥蚀强烈，风力侵蚀、堆积作用普遍。根据冰川成冰作用、冰层温度、冰川物质平衡及冰川运动等分析，昆仑山中西段及帕米尔冰川属极大陆性冰川，而喀喇昆仑山冰川则属大陆性冰川。高原上夏季盛行的局部环流给山区带来的降水是现代冰川发育的重要补给来源，喀喇昆仑山冰川积累区降水在 $6 0 0 ~ \mathrm { { m m } }$ 左右，位于喀喇昆仑山北翼的音苏盖提冰川长 $4 2 . 0 ~ \mathrm { k m }$ ，是我国最大的冰川。中昆仑山木孜塔格冰川积累区降水量为 $3 0 0 \sim 4 0 0 ~ \mathrm { \ m m }$ ,其周围的冰川106条，面积近$7 0 0 ~ \mathrm { k m } ^ { 2 }$ 。据新藏公路沿线甜水海湖盆区的勘探资料表明，这里是连绵高山多年冻土最发育的区域，多年冻土的平均地温为 $- 3 . 2 \mathrm { ~ \textdegree C }$ ,年变化深度在 $1 3 \sim$ $1 5 \mathrm { ~ m ~ }$ 。用直流电法测得多年冻土厚度 $7 7 . 0 \mathrm { ~ m ~ }$ ,与青藏线风火山地区相当。该区融冻的冰缘作用强烈而广泛，如土质性冻胀丘、石质性冻胀丘，泉冰椎、冰幔以及热融洼地等[8]
+
+# 1.3生物区系成分交错，高寒荒漠景观突出
+
+自然历史发育的寒旱化使本地区成为北方型和青藏型生物区系成分汇合的过渡地区。总体上看，种类相对贫乏，种群数量较大。在中昆仑以南的可可西里地区兽类区系组成以青藏高原特有种为主，如藏羚羊（Pantholops hodgsoni）、藏野驴（Asinus ki-ang）野牦牛（Poephagusmutus）雪豹(Pantheraun-cia)等;古北界成分只占1/4左右[9。本区植物区系组成比较贫乏，在昆仑山南部高原及昆仑山东段以青藏高原成分为主。根据对比分析，在研究地区随海拔高度的变化，由中亚成分占优势过渡到青藏高原成分占优势的转折点应该在海拔 $4 \ 0 0 0 \sim 5 \ 0 0 0$ $\mathbf { m }$ 。在本地区的高寒荒漠优势种有垫状驼绒藜（Ceratoidescompacta）藏亚菊（Ajaniatibetica）青藏臺草（Carexmoorcroftii），还有垫状的黄芪（Astragalussp.）和轮叶棘豆（Oxytropischiliophilla）等。在高原湖盆周围低地的伏沙地段，由于水盐状况比较适宜，垫状驼绒藜生长较好、覆盖度较大;在石砾质的广阔高原面、宽谷、盆地和低山上垫状驼绒藜也常占优势，但通常生长低矮、覆盖稀疏，盖度在 $5 \%$ 上下，并间有大片砾质裸地[3] C
+
+# 1.4生态环境脆弱，加大自然保护建设与管理
+
+高寒荒漠地带海拔高，气候严酷寒冷十旱，生态环境极为脆弱。受放牧活动和全球变暖的影响，本区出现的生态环境退化问题日趋凸显，表现为土地沙化面积扩大、草地生物量和生产力下降、病虫害和冻融滑塌及气象灾害增多。来自人类的侵扰日益广泛和频繁，严重威胁高寒特有物种的生存。特别是对高原一些特有动物的捕杀，使其种群生存面临威胁。因此，要禁止捕杀野生动物，防止偷猎行为。要停止导致生态继续恶化的人为破坏活动，在生态极度脆弱区实施生态移民工程，草地退化严重区域应退牧还草。加大资源开发的生态保护监管力度，限制矿山开发项目。应重视和加大自然保护区建设与管理的力度，为研究本地带提供自然生态系统的天然“本底”，需要监测人类开发活动对高原生态系统的影响[10]
+
+# 2 自然地域分异的特点
+
+青藏高原高寒荒漠地带主要包括喀喇昆仑山北翼山地高原、西昆仑山东段南翼高原和中昆仑山南翼高原。根据地区山地垂直自然带谱结构类型的差异，可以将高寒荒漠地带内的垂直自然带划分为3种结构类型带谱：极干旱结构类型、高寒干旱结构类型和高寒极干旱结构类型(11-12) ○
+
+# 2.1喀喇昆仑山北翼山地高原
+
+喀喇昆仑山中、东段的南北翼也有较大的差别。如东段熊彩岗日南翼垂直带谱基带是以驼绒藜（Ceratoideslatens）为主的山地荒漠带，其上为高山草原或荒漠草原带。北翼则为高寒干旱型垂直带谱,这与南北两翼山体的地势差异变化有密切的关系。喀喇昆仑山不同山段间的差异变化也很显著。以北翼山地为例，山地荒漠带的上界从西段的海拔 $3 ~ 7 0 0 \sim 3 ~ 9 0 0 ~ \mathrm { ~ m ~ }$ 升至中段的 $4 ~ 5 0 0 ~ \sim$ $4 ~ 6 0 0 ~ \mathrm { { m } }$ ,垂直带谱类型由干旱型转变为极干旱型;再向东为高原面，以垫状驼绒藜占优势的高山荒漠带为基带，其上径与亚雪冰带相连，属高寒极干旱型带谱。
+
+因此，喀喇昆仑山大体上具有自西段向中段逐渐变干，又由中段向东段渐趋半干旱的分异特点。这和西段山体受西来湿润气流的作用，东段又受青藏高原主体从东南向西北由湿润向干旱变化的规律所制约有关，从而形成了中段喀喇昆仑山为整个山系最干旱的山段。由于喀喇昆仑山主脉的屏障作用和雨影效应，从喀喇昆仑山口至空喀山口的中段北翼高原山地非常干旱，年降水量仅 $2 0 \sim 5 0 ~ \mathrm { m m }$ ，有大片地域为光裸荒漠[3]
+
+# 2.2 西昆仑山和中昆仑山南翼高原
+
+气候上西昆仑山主要受阿拉伯海水汽和西风带的影响，降水自西向东减少，自然环境自西向东干旱化增强。中昆仑山则主要受来自孟加拉湾水汽的影响，但由于此路水汽到达中昆仑山区已为强弩之末，即使在极高山区降水也不多。中昆仑山除部分河流外，主要为山脉内部或高原内部水系，河流多以高山湖泊为归宿，每一个湖盆都形成独立的水系。与整个青藏高原总体上自东南向西北逐渐变干相一致，中昆仑山自东向西变干，与西昆仑山干湿变化方向正好相反。而昆仑山中间地段，即西昆仑东段和中昆仑山西段则为高寒极干旱气候，发育了高寒极干旱荒漠[13]
+
+西昆仑山东段南翼，由于主脊线附近地形比较平坦，雪冰容易积累，冰川相当发育。多为面积广阔的冰帽冰川，冰川集中连片分布，占到山地总面积的$40 \%$ 左右，最大的平顶冰川一古里雅冰帽面积达$3 0 0 ~ \mathrm { k m } ^ { 2 }$ 以上。中昆仑山仅在某些高峰四周有冰川零星出现，第四纪冰川遗迹少见。冰川坡降小，多具宽尾形态，冰舌完整，冰面洁净。冰川侵蚀地貌角峰、刃脊发育不良，多呈浑圆状，冰槽谷与冰斗大多开阔平缓。这些反映出中昆仑山的冰川作用远比西昆仑山弱[3]
+
+# 3寒冷干旱核心区域
+
+位于青藏高原西北部寒冷干旱的高寒荒漠地带，有一个突出的地生态现象，在全球高原山地区域也占有独特的地位，这就是寒冷干旱核心区域。青藏高原西北部的喀喇昆仑山一昆仑山属于高山/山地荒漠、半荒漠地区，与亚洲腹地极端干旱的暖温带低地荒漠相连。在高原主体地域分异的空间格局
+
+中，与高原东南部湿润的水汽通道形成鲜明的对照[14-17]
+
+在全球有两个非常干旱的高海拔区域，一是位于玻利维亚西南，智利北部和阿根廷西北部的南美安第斯山脉中段，即所谓普那荒漠（PunadeAtaca-ma);另一是位于帕米尔东部和青藏高原西北部的亚洲高地(18] 。
+
+普那荒漠处于反气旋高压的气流下沉区域，由于南北向山脉对水汽的阻障作用明显，加上洪堡寒流干旱效应的相互作用，在安第斯山脉西翼形成极其干旱的环境条件。这里降水罕少，大部分地区年降水量在 $5 0 ~ \mathrm { m m }$ 以下,其中年降水量 $< 2 0 ~ \mathrm { m m }$ 的区域所占面积更大。海拔 $3 ~ 1 0 0 \sim 4 ~ 8 0 0 ~ \mathrm { m }$ 的高度上植被极其稀疏，以致未能发育形成任何土壤。位于海拔 $5 6 0 0 \mathrm { ~ m ~ }$ 以上永久冻土带内的Liullaillaco 火山的最高峰(海拔 $6 7 3 9 \mathrm { ~ m }$ )上也没有冰川发育，可见其干旱上限为全球之最[17]
+
+亚洲高地位于欧亚大陆的腹地，远离各方位的水汽源地，且恰好座落在从西亚向东方向延伸，经过中亚、青藏高原、塔里木盆地至蒙古高原的亚非干旱地带上。Wissmann(19]指出,海拔 $4 \ 0 0 0 \sim 5 \ 0 0 0 \ \mathrm { m }$ 的青藏高原是干旱的，只有3～5个湿润月，而位于昆仑山和喀喇昆仑山之间的高原腹地全年12个月都极干旱，干旱上限很高。高原西部昂龙岗日的雪线海拔高达 $6 \ : 2 0 0 \mathrm { ~ m ~ }$ ,是北半球的最高值。
+
+在干旱的低海拔荒漠区，干旱上限的生态效应是山地森林的下界，如在土耳其东部，山地森林下界海拔可达 $2 ~ 1 0 0 \mathrm { ~ m ~ }$ ，在西昆仑山，山地森林下界海拔$2 7 0 0 \sim 3 0 0 0 \mathrm { ~ m }$ 。在高海拔区域，山地森林上限或树限和雪线之间的相对高度反映了高山带和亚冰雪带的垂直幅度。在半湿润、半干旱的藏南或高原东南部,这一垂直幅度为 $8 5 0 \sim 1 ~ 2 0 0 ~ \mathrm { m }$ ,而在干旱的高原北部昆仑山区，森林上限和雪线之间的差距可高达$1 ~ 8 0 0 \sim 2 ~ 0 0 0 ~ \mathrm { m }$ ，表明干旱所占据三维空间的广袤。更何况大部分地区没有山地森林分布，干旱的山地荒漠与高山荒漠相连，雪线以下干旱的垂直幅度则远超过 $2 \ 0 0 0 \ \mathrm { m }$ 。
+
+受西来湿润气流的影响，喀喇昆仑山一昆仑山地区具有自西而东逐渐变干的趋势。两个山系的外侧两翼，即西昆仑山北翼及喀喇昆仑山南翼较湿润,有山地暗针叶林带或斑块状山地针叶林分布，而两个山系之间的宽谷、盆地和高原面则极为干旱。如在中西部的喀拉喀什河纵向谷地以山地荒漠占优势，上界自海拔 $3 ~ 7 0 0 \mathrm { ~ m ~ }$ 上升至4500m。高原面上河尾滩—阿克赛钦一带处于阿里喀喇昆仑山与西昆仑山之间，为中喀喇昆仑山北翼的雨影地带，年降水量仅 $2 0 \sim 5 0 ~ \mathrm { m m }$ ,气候十分干旱，垫状驼绒藜高寒荒漠占统治地位，还有大片无植被的光裸荒漠分布。
+
+中昆仑山内部腹地及南翼的高原面，大致从土则岗日至乌斯腾塔格一线以东，如黑石北湖、羊湖、白戈壁和昂歌库勤一带，海拔 $4 7 0 0 \sim 5 ~ 2 0 0 \mathrm { ~ m }$ ,最暖月平均气温 $3 \sim 6 ~ \mathrm { { ‰ } }$ ,年降水量 $2 0 \sim 4 0 ~ \mathrm { m m }$ 。这里地势平坦，干燥剥蚀及寒冻冰缘作用发达，湖泊干涸退缩,湖水矿化度增大,如羊湖的矿化度为 $9 6 . 1 0 5 \mathrm { ~ g ~ } \cdot$ （204${ \mathrm { ~ L ~ } } ^ { - 1 }$ ,属氯化物类钠组水。以垫状驼绒藜为代表的高山荒漠植被占优势，部分地段因强烈风蚀作用，导致植丛干枯死亡，植被盖度极为稀疏，仅 $1 \% \sim 5 \%$ 。土壤为高山荒漠土，甚至出现高山石膏荒漠王。由于气候严寒、干旱缺水，草场质量极差，为不宜季节游牧的无人区。恶劣的自然条件使藏羚羊、藏野驴等野生动物也多在毗邻的外围区域活动。目前，寒旱化趋势仍在继续发展，如湖水咸化，湖滨眼子菜(Potamogeton spp.）群落衰退,匍匐水柏枝(Myricariaprostrata）灌丛向高山荒漠演替过渡等[17]
+
+对青藏高原水汽输送路径的研究[13]表明,东线来自孟加拉湾，从雅鲁藏布江下游及横断山区西部自南而北进入高原，翻越念青唐古拉山形成海洋性冰川发育中心，经青南高原可达高原北缘柴达木盆地一带。西线来自阿拉伯海，夏季可越过喜马拉雅山进入阿里地区，冬季湿润气流从阿富汗及巴基斯坦经帕米尔高原进入这一地区，形成喀喇昆仑山及西昆仑山的另一冰川发育中心。中昆仑山内部腹地及南翼高原恰好远离上述两条水汽输送路径，从而形成了极端寒冷干旱的区域。从中昆仑山主脊的垂直自然带谱看，属于高寒极干旱结构类型组，如黑石北湖北缘的昆仑山主脊极其干旱，垫状驼绒藜高寒荒漠上界为海拔 $5 ~ 3 0 0 ~ \mathrm { m }$ ，直接与亚冰雪带相连；昂歌库勒一带有大面积的光裸地段，未见到有花植物生长。这些和毗邻高山上发育的极大陆型冰川相吻合，且互为佐证。
+
+在亚洲中部和南美干旱上限的比较研究中，Troll[20]引入亚洲高地的干旱核心一词,泛指这一地区的干旱以及完全缺失森林植被的高地。与此相对照,中昆仑山腹地及南翼高原具有极高的干旱上限和寒冷的气候，可以和极端干旱的南美安第斯山中部的普那荒漠遥相呼应。应当指出，由于所处纬度位置的不同和高原海拔高度的差异，上述两个非常干旱的高海拔区域温度条件差别悬殊。普那荒漠位于热带南缘，大多在海拔 $3 ~ 6 0 0 \sim 4 ~ 2 0 0 ~ \mathrm { ~ m ~ }$ ,最暖月平均气温可达 $9 \sim 1 3 \ \mathrm { { ~ ‰ ~ } }$ ,最冷月平均气温 $2 \sim 7 ~ \mathrm { { ^ { c } C } }$ ，年平均气温 $6 \sim 9 ~ \mathrm { \textdegree C }$ ;而地处高原温带南缘的昆仑山南翼一羌塘高原北部,最暖月平均气温为 $3 \sim 6 ~ \mathrm { { ^ { c } C } }$ ，最冷月平均气温 $< \mathrm { ~ - ~ } 2 0 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ }$ ,年平均气温 $- 7 \sim - 1 1$ $\mathcal { \mathrm { C } }$ 。因此，将这一地区称之为青藏高原寒冷干旱核心区域是名副其实的，也是全球高海拔唯一的寒冷干旱核心区域[3]。
+
+关于亚洲高地的干旱核心区域, $\mathrm { T r o l l } ^ { [ 2 0 ] }$ 是指帕米尔东部和青藏高原西部的亚洲高地，而Wiss-$\mathrm { m a n n } ^ { [ 1 9 ] }$ 所阐明的极干旱区域则位于昆仑山和喀喇昆仑山之间。笔者所称的寒冷干旱核心区域比他们所指的更向东扩展，大体上从喀喇昆仑山最干旱的中段北翼向东延伸至中昆仑山南翼的黑石北湖、羊湖、白戈壁、昂歌库勒及其以东的干旱区域。在阿尔金山金雁山山口附近降水罕少，山地荒漠占优势，也出现由垫状驼绒藜组成的高山荒漠类型植被，属极干旱型垂直带结构类型组。由此向东北，可与新疆东部嘎顺戈壁一带亚洲腹地的干旱核心区域相连。
+
+# 参考文献(References）：
+
+[1]郑度,张荣祖,杨勤业.试论青藏高原的自然地带[J].地理学 报,1979,34(1）:1-11.[Zheng Du,Zhang Rongzu,Yang Qinye. On the natural zonation in the Qinghai-Xizang Plateau[J].Acta Geographica Sinica,1979,34(1):1-11.]   
+[2] 郑度.青藏高原自然地域系统研究[J].中国科学（D辑）， 1996,26(4）:336-341.[Zheng Du. The system of physico geographical regions of Qinghai-Xizang(Tibet)Plateau[J].Science in China(SeriesD),1996,26(4):336-341.]   
+[3] 郑度.喀喇昆仑山一昆仑山地区自然地理[M].北京：科学出 版社,1999:153-190.[Zheng Du.Physic-Geography of the Karakorum-Kunlun Mountains[M].Beijing:Science Press,1999:153 -190.]   
+[4]张青松,李炳元.喀喇昆仑山一昆仑山地区晚新生代环境变化 [M].北京：科学出版社,1999：1-243.［ZhangQingsong,Li Bingyuan.Environmental Changes of Karakorum-Kunlun Mountains in Late Cenzoic Era[M].Beijing:Science Press,1999:1-243.]   
+[5]Zhang Qingsong,Li Bingyuan,Wang Fubao.The uplift of Karako rum-Kunlun Mountains and its impacts on environmental changes [J].The Journal of Chinese Geography,1991,2(1）:16-28.
+
+[6]张青松,陶君容，黄赐璇,等.中昆仑山晚新生代植物化石的发 现[J].科学通报,1990,35（1）：51-53.[Zhang Qingson,Tao Junrong,Huang Cixuan,et al.Discovery of fossil plants of late Cenozoic Era in middle Kunlun Mountains[J].Chinese Science Bulletin,1990,35(1) :51-53.]
+
+[7]李炳元,张青松,王富葆.喀喇昆仑山一西昆仑山地区的湖泊 演化〔J].第四纪研究,1991,1（1）:64－71.［LiBingyuan, Zhang Qingsong,Wang Fubao.Evolution of the lakes in the Karakorum-west Kunlun Mountains[J].Quaternary Science,1991,1 (1) :64 -71.]   
+[8］苏珍.喀喇昆仑山一昆仑山地区冰川与环境[M].北京：科学 出版社,1998:1-215.[Su Zhen.Glaciers and Environment of the Karakorum-Kunlun Mountains[M]. Beijing:Science Press,1998:1 -215.]   
+[9］武素功,冯祚建.青藏高原生物资源的特点及其开发利用与保 护[C]//中国青藏高原研会第一届学术讨论会论文选.北京： 科学出版社,1992:163－169.［Wu Sugong,Feng Zuojian.The general characteristics conservation and utilization of biological resources in the Qinghai-Xizang Plateau[ C]//CSTP. Proceedings of the First Symposium on the Qinghai-Xizang Plateau.Beijing:Science Press,1992:163-169.]   
+[10]郑度,杨勤业,吴绍洪.中国自然地理总论[M].北京;科学出 版社,2015:693-767.[Zheng Du,Yang Qinye,Wu Shaohong. Physical Geography of China-General Survey[M]. Beijing：Science Press,2015:693 -767.]   
+[11］郑度,张百平.喀喇昆仑山—西昆仑山地区的垂直自然带、环 境和自然保护问题[J].自然资源学报,1989,4（3）：254-266. [Zheng Du,Zhang Baiping.A study on the altitudinal belts and environmental problems of the Karakorum and West Kunlun Mountains[J]. Journal of Natural Resources,1989,4（3）:254- 266.]   
+[12]郑度,李炳元.青藏高原自然环境的演化与分异[J].地理研 究,1990,9（2）:1-10.[Zheng Du,Li Bingyuan.Evolution and diferentation of the physic-geographical environgment of QinghaiXizang plateau[J]. Geographical Research,1990,9(2）:1-10.]   
+[13]Lin Zhenyao,Chen Xiaolin.Proceedings of International Symposium on the Karakorum and Kunlun Mountains[M]. Beijing: China Meteorological Press,1994:319 -327.   
+[14]Zheng Du.A preliminary study of geoecological problems on the Kunlun Mountains[J].Chinese Journal of Arid Land Research, 1991,4(1) :49 -58.   
+[15]Zheng Du.A Study on geoecological problems in the Karakorum and Kunlun mountains areas[C]//Proceedings of International Symposium on the Karakorum and Kunlun Mountains. Beijing : China Meteorological Press,1994:368 -376.   
+[16]郑度.青藏高原的形成演化[M].上海：上海科学技术出版社, 1996:262-323.[Zheng Du.Formation and Evolution of QinghaiXizang Plateau[M]. Shanghai: Shanghai Science and Technology Press,1996:262 -323.]   
+[17］郑度.青藏高原形成演化与发展[M].广州:广东科技出版社,
+
+1998:280-295.［Zheng Du.Formation,Evolution and Development of Qinghai-Xizang（Tibetan）Plateau［M].Guangzhou： Guangdong Science & Technology Press,1998:280 -295.] [18］Zheng Du,Zhang Qingsong,Wu Shaohong.Mountain Geoecology and Sustainable Development of the Tibetan Plateau[M].Dordrecht/Boston/London:Kluwer Academic Publishers,2OoO:47-
+
+69.]
+
+[19]Wissmann H v. Stufen and cirtel der vegetation und des klimas in hochasien und seinen randgebieten[J].Erdkunde,196O/1961, XIV:249 -272,XV:19 -44.   
+[20]Troll C.Landschaftsokologie der Hochgebirge Eurasiens.Erdwiss [M].Wiesbaden:Forschg,1972:237-243.]
+
+# The High Cold Desert Zone and a Cold-Arid Core Area of the Tibetan Plateau
+
+ZHENG Du1'²， ZHAO Dong-sheng1 (1．Institute of Geographic Sciences& Natural Resources Research,CAS,Beijing 100101,China ; 2.College of Resources and Environment,Chinese Academy of Sciences,Beijing 1Ooo49,China)
+
+Abstract：The high cold desert zone，lcated onthe northwestern region，is the highest partof the Tibetan Plateau.This region with extremelycold and arid climatebelongs to plateausubcold zone，which is characterized with high mountains and plateau landforms tranversed by lake basins，widespread permafrost and periglacial process, young natural process with shallow cold desert soil，and landscapeof high-cold desert with interfused compositionof biota.Due to the vulnerable eco-environment，construction and administration of natural conservation should be strengthened in thisregion.Thecold-arid core，existed inthe hinterlandof high cold desert zone，isaunique geoeco feature in the plateau and alpine region on the Earth.
+
+Key words：Tibetan Plateau；high cold desert zone；high-cold arid corearea；structure-type of altitudinal belt; construction and administration of natural conservation

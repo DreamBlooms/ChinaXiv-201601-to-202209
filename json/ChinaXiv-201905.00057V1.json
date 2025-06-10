@@ -1,0 +1,392 @@
+[
+    {
+        "type": "text",
+        "text": "儿童期逆境与基因对男性服刑人员攻击性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张洁婷」张境锋」高楷东²文超²崔汉卿²刘金婷1（1深圳大学心理与社会学院，深圳518060）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（²广东省深圳监狱，深圳518118)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要暴力再犯危险性评估是当今再犯危险性评估工作中的重点，其中，攻击性是服刑人员暴力再犯行为稳定的个体因素。对攻击性进行研究，有助于预防和降低服刑人员在假释或出狱后的暴力再犯行为风险，关系社会的长治久安。研究表明，遭受儿童期逆境和携带易感基因（如MAOA-uVNTR低活性等位基因）是导致攻击行为的重要因素。但在现有的研究中，儿童期逆境的计分方式局限于简单的线性加总，或所依据的统计模型忽略逆境各维度之间的交互作用和非线性关系；在服刑人员攻击性的评估中未考虑攻击性的亚类，而且多使用自报告的量表测评，这些问题制约了评估的有效预测力。本研究拟通过建立潜在类别模型，分析男性服刑人员和普通成年人群在儿童期逆境上的亚类；以实验与问卷测量结果、司法行为记录作为攻击性指标，揭示儿童期逆境如何影响个体的主动性攻击、反应性攻击及暴力犯罪行为,重点探讨儿童期逆境潜在类别对主动性攻击和反应性攻击的影响，以及MAOA-uVNTR、COMTVal158Met、5-HTTLPR基因多态性在其中的调节作用。研究结果有助于找出高攻击性个体的生物遗传指标，从而发现受儿童期逆境经历影响的易感人群，为暴力行为的风险预测以及针对暴力攻击行为的行为矫正和相关药物设计提供理论和实证参考，提高相关工作的效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 儿童期逆境；基因；攻击性；潜在类别分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849:D90",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "攻击性（Aggression）是指个体进行攻击行为的内部心理特征（叶茂林,2003），也有学者将攻击性看作是攻击行为，即有目的、有意图地伤害或试图伤害另一个体的心理或身体状况，或破坏其他目标（物体或社会规范）的行为（Crick＆Grotpeter,1995）。暴力行为是指运用暴力手段或者以暴力相威胁，给他人造成危害后果或者损害危险的攻击行为（张明楷，2011)，是攻击行为的极端形式。暴力犯罪行为是指以实施暴力行为为基本特征的犯罪行为，如伤害、杀人、抢劫等犯罪行为（张维,2014）。攻击行为、暴力行为、暴力犯罪行为均可反映个体的攻击性。暴力攻击行为在人类社会中是一种复杂的社会行为，它是许多精神疾病的共同特征，属于严重的社会适应不良。在文明大背景下，各种暴力事件依然频频见诸报端，引起了极为广泛的社会关注。如 2018年10月，山东省平度市发生的非法聚集事件，一些有违法犯罪前科人员实施暴力袭警、打砸车辆等严重违法犯罪行为，造成严重的人身伤害和重大的经济损失，对社会公共秩序造成重大危害。可见，探讨个体的暴力攻击行为成因有助于预防和干预类似的暴力事件的发生，具有重要的社会经济意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "个体的攻击性成因可分为环境因素和遗传因素。儿童期逆境是攻击性的重要环境成因。大量研究表明童年期遭受虐待的个体会存在较高的攻击行为(Connor,Steingard,CunninghamMelloni,&Anderson,2004；李宝花等,2010）。另一方面，分子遗传学研究显示，MAOA、COMT、5-HTT基因与暴力攻击行为的发生发展具有密切的联系（Singh,Volavka,Czobor,&Van Dorn,2012;Ficks&Waldman,2014）。近年来，越来越多的研究关注基因与环境（ $\\mathbf { \\bar { G } } \\times \\mathbf { \\partial }$ E）对攻击行为的交互作用（Byrd&Manuck,2014; Tielbeek et al.,2016）。然而，这些研究还存在如下不足：（1）儿童期逆境包含虐待、忽视和家庭功能不良等类型，不同类型的逆境可能会对攻击行为产生不同影响。但是已有的研究通常仅对各类儿童期逆境的分数或数量进行简单的加总（崔乃雪等,2013;Auslander etal.,2016），从而忽略了儿童期逆境的质性差异，掩盖了个体在各类逆境经历的叠加组合特点；（2）按照攻击实施者的情绪唤醒程度和攻击的诱因，可将攻击分为主动性攻击和反应性攻击。这些攻击类型与其影响机制及其行为结果有密切的关系，但目前未得到大部分研究的关注；（3）攻击行为属于不被社会赞许的行为，先前研究中大多采用自报告的问卷法来测量个体的攻击性，这可能难以避免个体的作答掩饰性（孙连荣，杨治良,2010）。鉴于此，本研究拟采用探索性的潜在类别分析对男性服刑人员和普通成年人群的儿童期逆境进行研究，揭示服刑人员和普通成年人群儿童期逆境的异质性；并选取MAOA-uVNTR、COMTVal158Met、5-HTTLPR 基因多态性，结合实验法、问卷法和行为指标，考察上述基因多态性与儿童期逆境对主动性攻击、反应性攻击及暴力犯罪行为的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2国内外研究现状述评",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1儿童期逆境和基因对攻击性的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "儿童期逆境（Adverse Childhood Experiences,ACE）是18 岁以前所遭受的健康、生存、发育、心理或生理方面的实际或潜在的各种损害统称（Felitti etal.,1998）。研究表明影响个体产生暴力攻击行为的儿童期逆境经历包括：虐待（Lansford etal.,2007;Ford,Fraleigh,&Connor,2009; Shackman & Pollak,2014）、忽视（Van Wert,Mishna, Trocme,& Fallon,2017；李宝花等,2010）和家庭功能不良（Stermberg,Lamb,Guterman,& Abbott,2006; Connor et al.,2004;Raine etal.,2006)。个体经历的儿童期逆境越多，其攻击行为也越频繁（崔乃雪等,2013;Auslander et al.,2016）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在遗传因素上，前人的综述和元分析的研究总结了影响攻击性的三种重要的候选基因：MAOA（Monoamine Oxidase A，单胺氧化酶 A）、COMT（catechol-O-methyltransferase，儿茶酚氧位甲基转移酶）和5-HTT（serotonin transporter，五羟色胺转运体）。其中，低活性MAOA-uVNTR 等位基因（以下简称 MAOA基因）与攻击（Veroude etal.,2016）、暴力犯罪（Tiihonen et al.,2015; Stetler et al.,2014）以及反社会行为（Ficks&Waldman,2014）相关。COMTVal158Met 多态性的低活性Met等位基因与暴力攻击行为存在关联（王永柏，王嘉凯,刚清伟，刘婧一，王静,2014; Singh et al.,2012；王美萍，张文新,2010）。5-HTTLPR多态性的 S 等位基因与攻击性和反社会行为存在正相关（Vassos et al.,2014; Ficks &Waldman,2014）。然而，也有一些中国样本的研究未发现MAOA 低活性等位基因（聂爱婷,2017）、COMTVal158Met（黄雄等,2010）和5-HTTLPR（曹玉萍，李龙飞，赵幸福，张亚林,2011）与暴力攻击行为的显著关系。王永柏等（2014）的元分析发现，COMTVal158Met多态性与亚洲人群精神分裂症患者暴力行为存在关联，而在欧美人群则无明显的相关性。因此，这些研究结果的差异提示，来自欧美国家的研究结论可能无法直接适用于中国人群，因此有必要开展中国样本的研究。此外，矛盾的研究结果可能源于各个样本的环境因素的系统性差异，基因和攻击行为的关联可能只在某种环境中存在，因此有必要研究环境与基因对攻击行为的交互作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2儿童期逆境和基因对攻击性的交互作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年，研究发现基因与环境（ $\\langle \\mathbf { G } \\times \\mathbf { E } \\rangle$ ）在攻击性上存在交互作用（Weeland,Overbeek,deCastro,&Mattys,2015），尤其是MAOA基因与童年期虐待在攻击或反社会行为（包含攻击、暴力、违法犯罪行为、品行障碍等）存在交互影响（Buades-Rotger &Gallardo-Pujol,2014;刘立敏，田相娟，张文新，王美萍,2017）。Caspi 等人（2002）在长达 26年的追踪研究中发现，MAOA 基因的主效应不显著，而MAOA 基因与童年期虐待的交互作用显著：在经历童年期虐待的条件下，携带 MAOA 低活性等位基因的男性个体，相较于携带高活性等位基因的个体在成年时更可能表现出反社会行为甚至犯罪行为。此后，许多研究也重复了该结论（Reti et al.,2011; Frazzetto et al.,2007），并得到元分析的验证（Byrd & Manuck,2014）。但也有少部分研究未发现MAOA基因与儿童逆境的 $\\mathbf { G } \\times \\mathbf { E }$ 交互作用（Reif et al.,2007）。甚至有研究（Tikkanen et al.,2010）得出相反的结果：经历童年期虐待的男性中，携带高活性MAOA 等位基因的个体比携带低活性MAOA 等位基因的个体更可能发生暴力犯罪。对于COMTVal158Met基因多态性，研究发现，在经历童年压力事件、忽视、性虐待的个体中，Val/Val基因型或Val 等位基因携带者表现出更高的攻击性（Hygen et al.,2015; Perroud et al.,2010），产生暴力行为的概率更高（Andersson,2014）。然而，Wagner 等人（2010）发现在女性边缘型人格障碍患者Val/Val基因型携带者中，儿童期性虐待、严重生活事件累积与较低的冲动性攻击有关。Tuvblad等人（2016）也发现当遭受家庭暴力，但同时体验到积极的亲子关系时，Val/Val基因型携带者的躯体攻击更低。此外，Met 等位基因携带者在父母离婚或较低的积极教养行为下表现出更高的攻击性（Zhang,Cao,Wang,Ji,&Cao,2016;Nederhof,Belsky,Ormel,&Oldehinkel,2012）。总的来说，这些研究提示COMTVal158Met基因多态性与儿童期逆境相互作用影响个体的攻击性,但未能明确哪种基因型更容易受到环境的影响。此外，研究还发现，携带 5-HTTLPR基因多态性S等位基因的男性在遭受高逆境或性虐待后更容易出现暴力攻击行为（Reif etal.,2007；张芸，明庆森，姚树桥，陈旺盛，2012）。元分析的结果显示，5-HTTLPR基因多态性与儿童期逆境对反社会行为（包含暴力攻击行为)存在交互作用，但未说明哪种等位基因的攻击行为风险更高(Tielbeek etal.,2016)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3对现有研究的反思",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1区分攻击和儿童逆境类型的必要性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据攻击实施者的情绪唤醒程度和攻击的诱因，有研究者进一步将攻击分为主动性攻击和反应性攻击（Dodge&Coie,1987;Wrangham,2018）。主动性攻击以社会学习理论为基础，是指个体在未受挑衅的情况下所实施的故意的、有目的的攻击行为；反应性攻击则以挫折理论为基础，是指个体面对挑衅或挫折时愤怒的防御性反应（Dodge＆Coie,1987）。实证研究表明，主动性攻击者和反应性攻击者在社会认知、行为、情绪、人格、家庭、同伴关系等方面都存在明显的差异（Fite,Raine,Stouthamer-Loeber,Loeber,&Pardini,201O; Dodge&Coie,1987；周广东，冯丽姝,2014；曹丛，王美萍，张文新，陈光辉,2012）。如，在社会认知方面，主动性攻击与个体对攻击结果的积极期待有关（Xu& Zhang,2008），而反应性攻击与敌意归因偏差有关（Dodge＆Coie,1987）；在同伴关系方面，主动性攻击个体的同伴地位较高，具有领导力和幽默感（Dodge&Coie,1987;Price&Dodge,1989），而反应性攻击个体的同伴地位较低，容易在同伴交往中受到伤害（Xu& Zhang,2008）。区分两类攻击对法律裁定、不良行为模式的预测、预防和干预有着重要的意义（Ramirez,2010）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同的儿童期逆境类型对两类攻击的影响也有所不同。总体上看，个体的反应性攻击与虐待经历有关，如躯体虐待（Dodge,Lochman,Harnish,Bates,&Pettit,1997; Kolla et al,2013;Ford etal.,2009）和性虐待（Connor et al.,2004）。而主动性攻击与家庭功能不良有关，如父母物质滥用（Connor,et al.,2004; Raine et al.,2006）、家庭暴力（Connor,et al.,2004）与父母离异（Raine etal.,2006）。然而，许多研究只关注逆境数量对攻击性的影响，对各类逆境作简单的加总而忽略逆境类型（崔乃雪等,2013;Auslander etal.,2016），这种简单的加总或求均方法掩盖了个体在各类逆境经历的叠加组合特点。也有研究只分析各类逆境对攻击性的主效应，忽略逆境之间的交互作用（Connor,etal.,2004；李宝花等,2010）。研究逆境的典型组合能更具体地探讨各类逆境如何交互影响两种攻击类型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 $\\mathbf { G } \\times \\mathbf { E }$ 交互作用的分析方法探讨",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如上所述，在探讨逆境与攻击性的关系时，需要考虑逆境的类型及其交互作用。若要进一步探讨基因对二者之间的调节作用，则会产生更高阶的交互作用，也会使统计分析变得十分繁琐且计算困难。因此，许多研究通常将逆境作为单维的变量以探讨其与基因的交互作用，但这样会大大减少统计模型可解释的变异。在本研究中，若要探讨儿童逆境的十个维度与基因的交互作用，则需探讨1024（210）种有无逆境经历的组合与各基因的交互，这大大增加了计算量和统计检验次数，从而削弱了统计功效(Lanza&Rhoades,2013;Merz&Roesch,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2011）。可见，有必要引入新的方法来处理儿童期逆境各类型及其与基因繁杂的交互作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "潜在类别分析（latent class analysis,LCA；张洁婷，焦璨，张敏强,2010）可以由少数互斥的潜在类别来解释各外显变量之间的关联，从而简化外显变量之间繁杂的交互作用（Lanza& Rhoades,2013）。在实际研究中，并非每种组合都有实质性意义，因此有必要先通过LCA基于逆境经历对个体分成若干种逆境类型，以更好地解释个体在各种逆境上的质性差异（Marsh,Ludtke,Trautwein,&Morin,2009），并简化其与基因的交互作用。此外，相比于传统的聚类分析，LCA有更客观的类别数目的选择指标，并且能估计分类误差，有助于后续分析统计模型的准确性（张洁婷，张敏强，黎光明,2017）。目前，已有研究将儿童期虐待经历进行潜在类别分析，并探讨各类别在犯罪行为的差异。例如，在男性青少年或成年罪犯中，情感躯体虐待类、多重侵害类的再犯和暴力发生率高于无或低虐待类（Aebietal.,2015;Debowska＆Boduszek,2017）。Zhang 和 Zheng（2018）在中国罪犯人群有类似的结果，并发现了高忽视类逆境，该类个体的A型人格障碍症状比低虐待类更严重，但其再犯和暴力发生率低于情感躯体虐待类。这再次说明，儿童逆境经历对个体行为的影响存在类型和质性的差异，不能对各类逆境的分数或数量进行简单的加总，否则会掩盖各类逆境的影响特点。此外，这些LCA实证研究并未考虑家庭功能不良这一影响攻击性的重要因素，也未对攻击性的类型予以区分。因此，需要进一步完善分类指标和细化因变量指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3攻击性测量方法的探讨",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "先前的研究大多采用自报告的量表法来测量攻击性（如Kolla etal.,2013;Connor et al,2004）。该方法实证效度存在不足，而且具有较高的作答掩饰性（孙连荣，杨治良,2010）。仅有少数研究采用竞争反应时任务和辣椒酱范式探讨基因与反应性攻击的关系（McDermottet al.,2009; Kuepper,Grant,Wielpuetz,&Hennig,2013）。其中，改编后的竞争反应时任务还可有效测量主动性攻击（范磊,2017）。这些实验范式更贴近真实场景，更容易诱发反应性攻击行为（如愤怒表达或敌意报复）和主动性攻击行为（恐吓、控制、危险举动）（孙连荣，杨治良,2010)。目前尚未见研究采用实验范式探讨儿童期逆境与基因对攻击性的交互影响。此外，采用司法行为数据作为攻击性的指标，具有重要的理论意义和现实意义。研究显示，躯体虐待、情感虐待和性虐待是暴力犯罪的风险因素(Brewer-Smyth,Cormelius,&Pickelsimer,2015；王丽芳等,2014）。儿童期虐待可能会通过影响个体的反应性攻击，进而导致其暴力犯罪。司法记录作为重要的行为指标具有较高的生态效度，有利于对攻击行为进行交叉验证，进一步找出暴力犯罪的影响因素，为预防暴力犯罪提供重要的实证依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3研究构想",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究将探索不同儿童期逆境类型与基因对攻击性和暴力犯罪行为的影响与交互作用，研究目标分为三点：（1）分析男性服刑人员和普通人群在儿童期逆境上的共同和不同潜在类型；（2）探讨不同儿童期逆境类型对主动性攻击和反应性攻击的影响，以及基因在影响路径中所起的调节作用；（3）验证儿童期逆境类型与基因对暴力犯罪行为的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1研究一男性服刑人员和普通人群儿童期逆境的潜在类别分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究一拟采用潜在类别分析对男性服刑人员和普通人群的儿童期逆境进行分类。在广东省内选取普通成年男性1000人和某监狱新入监的成年男性服刑人员600人作为被试，采用问卷调查的形式测量两个群体的儿童期逆境。普通成年男性采样1000人是为了保证研究二的每一种逆境类型均能达到 50人以上，如果普通人群仍有某一种逆境类型少于50人，那么我们将继续扩大普通成年男性的样本量。基于儿童期逆境的十个维度的得分建立多组潜在类别模型。儿童期逆境的潜在类别分析实证研究在两个群体中均发现低虐待、高情感躯体虐待、高忽视、性虐待、多重侵害型等亚类，且服刑人员群体在遭受严重逆境类型的比例更高（Debowska,Willmot,Boduszek,&Jones,2017）。此外，家庭功能不良会影响主动性攻击，因此，本研究将在逆境分类中纳入家庭功能不良。综上，我们提出如下假设：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假设1：本研究中，男性服刑人员和普通成年人群的儿童期逆境均可能存在不同的亚类，例如低虐待、高忽视、多重侵害型等潜在类型；相比普通成年人群，服刑人员群体遭受严重逆境类型的比例更高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2研究二儿童期逆境类型与基因对攻击性的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究二在研究一的分类基础上，考察儿童期逆境潜在类型和基因对攻击性的影响。首先，由被试填写主动性攻击和反应性攻击问卷（Reactive-Proactive Aggression Questionnaire, RPQRaine etal.,2006）以及人口统计学问卷，同时抽取其血液样本，对 MAOA-uVNTR、COMTVal158Met、5-HTTLPR基因多态性进行分型。鉴于前人的研究中发现服刑人员群体的攻击性水平显著高于普通人群（张洁婷等,2019；李娟,2008)，数据很可能存在混合分布，因此将两个水平不一的样本放在一起进行分析（如方差分析、回归分析）时，很可能违反正态分布的前提假设（张敏强,2010)。因此，本研究将分别在服刑人员和普通成人群体两个群体中检验基因多态性与儿童期逆境对两类攻击的主效应与交互效应。然后，通过行为实验，进一步验证该主效应和交互效应。在行为实验中，抽取每种儿童期逆境类型的被试50名，选用改编的竞争反应时任务测量主动性攻击和反应性攻击。在主动性攻击实验中，被试要与另一位伪对手（被试不知情)随机配对完成听觉反应时竞赛，获胜方将得到金钱奖励。在竞赛中，其中一名参与者（干扰者）会拥有特权，可以在反应竞速阶段干扰对方，且自己不会受到对方的任何干扰；而另一方（被干扰者）没有干扰的特权，且会受到对方的干扰。在竞赛开始前，参与者会被随机分配角色。干扰者在每轮反应竞速前需要为被干扰者选择干扰的等级，然后进行反应竞速，任务过程中不给予参与者任何反馈。实际上，所有被试均会被分配为干扰者的角色。通过被试在高、低金钱奖励的条件下所选择的噪音等级作为指标考察其主动性攻击（范磊,2017)。在反应性攻击的实验中，被试与另两位伪对手进行反应时竞速比赛，每一轮只会出现一个对手。要求双方在看到规定的信号出来的时候，立即按键。每次比赛中按键速度较慢者将接受速度较快者的噪音惩罚。在每轮比赛前，事先让被试和对手选择本轮的噪音惩罚等级。事实上，实验中游戏的输赢比率、顺序及对手选择的噪音强度均由研究者在实验程序中预先设定好。通过被试在高、低两个不同挑衅程度下所选择的噪音等级作为指标考察其反应性攻击（Krämer, Jansma,Tempelmann,& Muinte,2007）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不少研究证实虐待经历与个体的反应性攻击有关，而家庭功能不良与个体的主动性攻击有关（Dodge et al.,1997; Kolla et al.,2013; Connor et al.,2004; Raine et al.,2006)，且携带MAOA低活性等位基因或5-HTTLPR多态性S等位基因的个体在儿童期遭受虐待后表现出更高的攻击性（Byrd& Manuck,2014; Hygen et al.,2015; Tielbeek et al.,2016)。鉴于COMTVal158Met多态性与儿童期逆境交互作用的矛盾结果，本研究在此作为探索，不作假设。基于前人的研究结果，本文提出如下假设：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设2：儿童期逆境经历对攻击性有正向预测作用，并且存在逆境类型上的差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设3：基因多态性在儿童期逆境类型对攻击性的影响中起调节作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3研究三儿童期逆境类型与基因对暴力犯罪行为的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究三在前两项研究的基础上，借助司法记录，采用犯罪及其类型作为攻击性客观的行为结果指标。将普通人群编码为0，非暴力型罪犯编码为1，暴力型罪犯编码为2，建立多项式Logistic回归模型，检验儿童期逆境潜在类型与基因对犯罪行为的主效应与交互效应。先前的研究显示有逆境经历的个体更容易产生暴力犯罪行为（Debowska&Boduszek,2017;Zhang＆ Zheng,2018)，且大多数研究发现携带MAOA低活性等位基因或 5-HTTLPR多态性S等位基因的个体在儿童期遭受虐待后更容易产生暴力犯罪行为(Byrd&Manuck,2014; Reifet al.,2007)。基于此，本文提出如下假设：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设4：儿童期逆境经历对暴力犯罪行为有正向预测作用，并且存在逆境类型上的差异。  \n假设5：基因多态性在儿童期逆境类型对暴力犯罪行为的影响中起调节作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4理论建构与创新 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "半个多世纪以来，研究者提出了许多不同的理论来解释攻击的来源。反应性攻击的理论基础是挫折攻击理论（Dollard,Doob,Miller,Mowrer,& Sears,1939)，其核心观点是，挫折增加了个体做出愤怒和攻击性反应的可能性，攻击是对所感知到的挫折、威胁或挑衅产生的愤怒或防御性反应；而个体最终是否做出攻击行为也依赖于他对事件的理解以及个人对挫折的反应方式（Berkowitz,1989)。在遭受父母冷漠或虐待的生长环境下，个体倾向于注意情境中的负性信息（Pollak & Tolley-Schell,2003; Shackman& Pollak,2014)，遗漏相关的社会性线索，从而产生敌意归因偏差（Dodge,2006)，更容易产生反应性攻击（Dodge＆ Coie,1987;Vitaro,Brendgen,& Baker, 2006)。主动性攻击的理论基础是社会学习理论（Bandura,1973)，其核心观点是，攻击可以通过操作性条件反射或榜样的替代性学习的方式习得，是一种受预期结果控制的工具性行为。诱发攻击的因素是对行为结果的积极预期，主动性攻击的个体通常预期实施攻击后可实现自己的目的或愿望，而不是惩罚。个体的攻击行为是一种习得的社会行为，是个体从父母榜样行为、家庭环境等途径不断观察到攻击行为而习得的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "现阶段，越来越多的研究表明，个体的攻击性不仅仅由环境因素决定，而是由环境因素与基因相互作用的结果。基于素质-压力模型（Rosenthal,1963;Bleuler,1966)，携带某种“风险\"或者“易感\"基因的个体更加容易受到不良环境因素的影响而产生心理或行为问题，即问题行为的产生是由个体的风险素质和消极环境经历共同作用的结果。在儿童期遭受过虐待或其他家庭功能不良的群体中，若携带这类“易感”基因，则更可能表现出攻击行为。攻击行为是一种复杂的社会行为，遗传与环境因素以何种方式影响个体的攻击性是一项重要的论题。本文整合社会学习理论、挫折攻击理论、素质-压力模型以及主动性和反应性攻击的影响因素，探讨儿童期逆境类型和基因对两类攻击的影响机制，构建出理论框架(如下图)。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/75fd8f471c5a3670b86197d1cf5dd9600140845580c864c1772f091ec3b213ae.jpg",
+        "img_caption": [
+            "图1本研究的理论构建框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注：实线表示基于前人研究结果对该关系提出的假设；虚线表示该关系未被前人研究所发现，故本研究对此提出探索性的假设。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一，儿童期逆境类型主要为虐待型（躯体虐待、情感虐待、性虐待）的个体，若其携带低活性等位基因，其反应性攻击水平比较高。前人的研究发现儿童期虐待与个体的反应性攻击相关，与主动性攻击无关（Dodge et al.,1997;Kolla et al.,2013)。那么，携带风险基因的个体在遭受儿童期虐待后，更加容易产生敌意归因偏差，在成人后更容易由于挫折而产生攻击行为，其反应性攻击的水平可能也会更高。第二，儿童期逆境类型主要为家庭功能不良类型（家庭暴力、家庭成员物质滥用、父母离异、家庭成员有精神异常或有犯罪记录）的个体，若其携带低活性等位基因，其主动性攻击水平较高。前人的研究发现主动性攻击的影响因素更多来自于家庭因素，如父母物质滥用（Connor et al.,2004;Raine et al.,2006）、家庭暴力（Connor etal.,2014）与父母离异（Raine et al.,2006），这说明家庭在个体的成长发展中起到了一定的“榜样”作用，个体发展受到了家庭环境的影响。携带风险基因的个体在受不良的家庭环境影响后，可能会表现出更高的主动性攻击行为。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "总而言之，本研究将攻击性的生物遗传因素和环境因素整合到同一个理论框架中，并借助问卷调查、行为实验、客观的行为指标来探讨和验证基因与儿童期逆境的类型分别对两种攻击性的影响，以期获得不同类型攻击性的逆境成因与遗传学上的易感人群。验证本研究的理论构想，将有助于从不同角度揭示两类攻击的形成机制。在理论意义上，本研究为基因与环境的交互作用对服刑人员攻击性的预测提供实证支持，为将来的攻击行为理论研究提供交叉学科的新视角。在方法上，本研究结合了新近的统计模型，为攻击性的预测提供更有效的计算模型。在实践价值上，本研究旨在找出高攻击性个体的生物遗传指标，从而发现有儿童期逆境经历的易感人群，为暴力行为的风险预测以及针对暴力攻击行为的行为矫正和相关药物设计提供理论和实证参考，提高相关工作的效率，具有重要的社会经济意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "曹丛，王美萍，张文新，陈光辉.(2012).主动性攻击和反应性攻击的遗传基础研究述评．心理科学进展,20(12),2001-2010.曹玉萍，李龙飞，赵幸福，张亚林.(2011).儿童攻击行为与COMTVal158Met及5-HTTLPR",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "基因多态性关联分析．中国当代儿科杂志,13(5),361-364.崔乃雪，曹枫林，李阳，龙周婷，李洁，董方虹.(2013).医学新生的儿童期不良经历的累积",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "效应与攻击行为．中国心理卫生杂志,27(3),213-214.范磊.(2017).值不值得去攻击?攻击结果考量与主动性攻击的关系及其fMRI证据(硕士学位",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "论文)．西南大学，重庆.黄雄，姜南，林振强，邓河晃，陈瑞珍，曹莉萍,..李佑辉.(2010).COMT基因多态性与精神",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "分裂症暴力攻击行为的关联性．广东医学,(1),82-83.李宝花，王彬，张金响，张增，刘贵献，胡峻梅.(2010)．男性暴力罪犯的冲动、攻击性人格特",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "点及其与童年期受虐待的关系．精神医学杂志,23(2),119-122.  \n李娟.(2008)．犯罪青少年的道德情绪及其与社会行为的关系(硕士学位论文).山东师范大学.济南.  \n刘立敏，田相娟，张文新，王美萍.(2017).MAOA基因与环境对反社会行为的交互作用及其",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "可能的脑机制．心理科学进展,25(6),970-979.聂爱婷.(2017).MAOA-uVNTR多态性与云南汉族、彝族躯体攻击行为相关性研究(硕士学位",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "论文)昆明医科大学.  \n孙连荣，杨治良.(2010).攻击性的实验研究范式．心理科学(6),1436-1438.  \n王美萍，张文新.(2010).COMT基因多态性与攻击行为的关系．心理科学进展,18(08),1256-1262.  \n王丽芳，杨建中，杨智斌，左丽春，郝艳红，曹云，徐健.(2014).暴力犯罪，财产犯罪人员的",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "社会心理因素初步调查．中国心理卫生杂志,28(9),713-717.王永柏，王嘉凯，刚清伟，刘婧一，王静.(2014).COMT基因Val158Met 多态性与精神分裂症",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "患者暴力行为关联的meta分析．中国心理卫生杂志,28(7),492-498.叶茂林.(2003).攻击性研究方法．心理科学,26(2),334-336.张洁婷，焦璨，张敏强.(2010)．潜在类别分析技术在心理学研究中的应用.心理科学进展，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "18(12), 1991-1998.张洁婷，张境锋，邱伟雄，文超，崔汉卿，焦璨.(2019).男性服刑人员正念水平与攻击性的",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "关系．中国心理卫生杂志,33(3),238-240.张洁婷，张敏强，黎光明.(2017).潜在剖面模型的后续分析——比较分类分析法改进后的偏",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "差．心理学探新,37(5),434-440.   \n张明楷.(2011)．刑法原理.北京：商务印书馆.   \n张敏强.(2010)．教育与心理统计学．第三版（pp.181-182）．北京：人民教育出版社.   \n张维.(2014)．刑法中的暴力行为研究(硕士学位论文).西南政法大学，重庆.   \n张芸，明庆森，姚树桥，陈旺盛.(2012).5-羟色胺转运体基因多态性对儿童期虐待与青少年 攻击行为的调节作用．神经疾病与精神卫生,12(6),541-545.   \n周广东，冯丽姝.(2014).区分两类攻击行为:反应性与主动性攻击．心理发展与教育,30(1), 105-111.   \nAebi,M., Linhart, S.,Thunhohenstein,L.,Bessler, C., Steinhausen, H. C.,& Platner,B. (2015). Detained male adolescent offender's emotional, physical and sexual maltreatment profiles and their associations to psychiatric disorders and criminal behaviors. Journal of Abnormal Child Psychology, 43(5), 999-1009.   \nAndersson,A. (2014). Catechol-o-Methyltransferase (COMT), Earlier Abuse, Gene-Environment Interaction in the Prediction of Violence(Unpublished master’s thesis). Orebro University.   \nAuslander, W., Sterzing,P.,Threlfal, J., Gerke, D.,& Edmond, T. (2016). Childhood abuse and aggression in adolescent girls involved in child welfare: The role of depression and posttraumatic stress. Journal of Child & Adolescent Trauma, 9(4),1.   \nBandura, A. (1973). Aggression: A social learning analysis. American Journal of Sociology, 26(5), 1101-1109.   \nBerkowitz, L. (1989). Frustration-aggression hypothesis: Examination and reformulation. Psychological Bulletin, 106(1), 59.   \nBleuler, M. (1966). Conception of schizophrenia within the last fifty years and today. Proceedings of the Royal Society of Medicine, 56(10), 945-952.   \nBrewer-Smyth,K., Cormelius,M.E.,& Pickelsimer,E.E. (2015).Childhood adversity,mental health,and violent crime. Journal of Forensic Nursing, $I I ( 1 ) , 4 - 1 4$ ：   \nBuades-Rotger, M., & Gallrdo-Pujol, D. (2014). The role of the monoamine oxidase A gene in moderating the response to adversity and associated antisocial behavior: A review. Psychology Research and Behavior Management, 7,185.   \nByrd,A.L.,& Manuck, S.B. (2014). MAOA, childhood maltreatment, and antisocial behavior: Meta-analysis of a gene-environment interaction. Biological Psychiatry,，75(1), 9-17.   \nCaspi,A., Mcclay, J., Moffitt, T. E., Mill,J., Martin, J.,& Craig,I. W., et al. (2002). Role of genotype in the cycle of violence in maltreated children. Science, 297(5582), 851-854.   \nConnor, D.F., Steingard,R.J., Cunningham, J.A., Melloni Jr,R.H.,& Anderson,J.J. (2004). Proactive and reactive aggression in referred children and adolescents. American Journal of Orthopsychiatry， 74(2), 129-136.   \nCrick,N. R., & Grotpeter, J. K. (1995). Relational aggression, gender, and social-psychological adjustment. Child Development, 66(3), 710-722.   \nDebowska, A., & Boduszek,D. (2017). Child abuse and neglect profiles and their psychosocial consequences in a large sample of incarcerated males. Child Abuse & Neglect, 65,266-277.   \nDebowska, A., Willmott, D., Boduszek, D., & Jones,A. D. (2017). What do we know about child abuse and neglect patterns of co-occurrence? A systematic review of profiling studies and recommendations for future research. Child Abuse & Neglect, 70,100-111.   \nDollard, John, Miller, Neal E, Doob,Leonard W, Mowrer, O.H, & Sears,Robert R. (1939). Frustration and aggression. American Journal of Sociology, 92(7),1654-1667.   \nDodge, K. A.. (2oo6). Translational science in action: Hostile atributional style and the development of aggressive behavior problems. Development and Psychopathology, 18(3), 791-814.   \nDodge,K.A.,& Coie, J.D.(1987). Social-information-processing factors in reactive and proactive aggression in children's peer groups. Journal of Personality & Social Psychology, 53(6), 1146.   \nDodge, K.A.,Lochman, J.E., Harnish, J.D., Bates, J.E., & Petit, G. S. (1997). Reactive and proactive aggression in school children and psychiatrically impaired chronically assaultive youth. Journal of Abnormal Psychology, 106(1),37.   \nFelitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D.F., Spitz, A. M., Edwards, V.,.. & Marks, J. S.(1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. American Journal of Preventive Medicine, 14(4), 245- 258.   \nFicks, C.A., & Waldman, I. D. (2014). Candidate genes for aggresion and antisocial behavior: A meta-analysis of association studies of the 5HTTLPR and MAOA-uVNTR. Behavior Genetics, 44(5), 427-444.   \nFite,P.J.,Raine,A., Stouthamer-Loeber, M.,Loeber, R.,& Pardini, D.A. (2010). Reactive and proactive aggression in adolescent males: Examining differential outcomes 10 years later in early adulthood. Criminal Justice and Behavior, 37(2),141-157.   \nFord, J.D., Fraleigh,L.A.,& Connor, D.F. (2oo9). Child abuse and aggression among seriously emotionally disturbed children. Journal of Clinical Child & Adolescent Psychology, 39(1), 25-34.   \nFrazzetto, G., Lorenzo, G. D., Carola, V., Proietti,L., Sokolowska,E., & Siracusano,A., et al. (2007). Early trauma and increased risk for physical aggression during adulthood: The moderating role of MAOA genotype. Plos One, 2(5), e486.   \nHygen, B. W., Belsky, J., Stenseng,F., Lydersen, S., Guzey, I. C.,& Wichstrom,L. (2015). Child exposure to serious life events, COMT, and aggression: Testing differential susceptibility theory. Developmental Psychology, 51(8), 1098.   \nKolla,N.J.,Malcolm, C.,Attard, S.,Arenovich, T.,Blackwood, N.,& Hodgins, S. (2013). Childhood maltreatment and aggressive behaviour in violent offenders with psychopathy. The Canadian Journal of Psychiatry, 58(9), 487-494.   \nKuepper, Y., Grant, P., Wielpuetz, C., & Hennig, J. (2013). MAOA-uVNTR genotype predicts interindividual differences in experimental aggressiveness as a function of the degree of provocation. Behavioural Brain Research, 247(12),73-78.   \nKrämer, U.M., Jansma,H., Tempelmann, C.,& Munte,T.F. (20o7). Tit-for-tat: The neural basis of reactive aggression. Neuroimage, 38(1), 203-211.   \nLansford, J.E., Millerjohnson, S., Berlin,L.J.,Dodge, K.A.,Bates,J.E.,& Petit, G.S.(2007). Early physical abuse and later violent delinquency: A prospective longitudinal study. Child Maltreatment, 12(3),233-245.   \nLanza, S. T., & Rhoades, B.L. (2013). Latent class analysis: An alternative perspective on subgroup analysis in prevention and treatment. Prevention Science, 14(2), 157-168.   \nMarsh,H. W., Ludtke, O., Trautwein, U., & Morin,A. J. (2009). Classical latent profile analysis of academic self-concept dimensions: Synergy of person-and variable-centered approaches to theoretical models of self-concept. Structural Equation Modeling, 16(2),191-225.   \nMcDermott, R., Tingley, D., Cowden, J., Frazzetto, G., & Johnson, D.D. (2009). Monoamine oxidase A gene (MAOA) predicts behavioral aggression following provocation. Proceedings of the National Academy of Sciences, 106(7),2118-2123.   \nMerz,E.L., & Roesch, S. C.(2011). A latent profile analysis of the Five Factor Model of personality: Modeling trait interactions. Personality and Individual Differences, 51(8), 915- 919.   \nNederhof,E., Belsky, J., Ormel, J.,& Oldehinkel, A.J. (2012). Effects of divorce on Dutch boys' and girls' externalizing behavior in Gene× Environment perspective: Diathesis stress or differential susceptibility in the Dutch Tracking Adolescents' Individual Lives Survey study?. Development and Psychopathology， 24(3), 929-939.   \nPerroud, N., Jaussent, I., Guillaume,S.,Bellivier,F.,Baud,P.,Jollant,F.,..& Courtet, P. (2010). COMT but not serotonin-related genes modulates the influence of childhood abuse on anger traits. Genes, Brain and Behavior; 9(2),193-202.   \nPollak,S.D.,& Toley-Schell, S.A. (2003). Selective atention to facial emotion in physically abused children. Journal of Abnormal Psychology, 112(3),323-338.   \nPrice, J. M., & Dodge, K. A. (1989). Reactive and proactive aggression in childhood: Relations to peer status and social context dimensions. Journal of Abnormal Child Psychology, 17(4), 455-471.   \nRaine,A., Dodge, K., Loeber, R., Gatzke-Kopp,L., Lynam, D., Reynolds, C.,..& Liu, J. (2006). The reactive-proactive aggression questionnaire: Differential correlates of reactive and proactive aggression in adolescent boys. Aggressive Behavior; 32(2), 159.   \nRamirez, J. M. (2010). The usefulness of distinguishing types of aggression by function. International Social Science Journal, 61(200-201),263-272.   \nReif, A., Rosler, M., Freitag, C. M., Schneider, M., EujenA., Kissling C.,.. & Retz W. (2007). Nature and nurture predispose to violent behaviour: Serotonergic genes and adverse childhood environment. Neuropsychopharmacology, 32, 2375-2383.   \nReti, I. M., Xu, J. Z., Yanofski, J., McKibben, J.,Uhart, M., Cheng, Y.J.,.. & Kasch-Semenza,L. (2011). Monoamine oxidase A regulates antisocial personality in whites with no history of physical abuse. Comprehensive Psychiatry, 52(2),188-194.   \nRosenthal, D. (1963). Theoretical overview: A suggested conceptual framework. In D. Rosenthal (Ed.), The Genain quadruplets: A case study and theoretical analysis of heredity and environment in schizophrenia (pp. 505-516). New York: Basic Books Inc.   \nShackman, J. E.,& Pollk, S.D. (2014). Impact of physical maltreatment on the regulation of negative affect and aggression. Development & Psychopathology, 26(1),1021-1033.   \nSingh,J.P., Volavka, J., Czobor,P.,& Van Dorn,R.A. (2012). A meta-analysis of the Val158Met COMT polymorphism and violent behavior in schizophrenia. Plos One, 7(8), e43423.   \nSternberg,K.J.,Lamb, M. E., Guterman, E., & Abbot, C.B. (2006). Effects of early and later family violence on children's behavior problems and depression: A longitudinal, multi-informant perspective. Child Abuse & Neglect, 30(3),283-306.   \nStetler, D.A.,Davis, C.,Leavitt, K., Schriger,I., Benson,K.,& Bhakta, S., et al. (2014). Association of low-activity MAOA alelic variants with violent crime in incarcerated offenders. Journal of Psychiatric Research, 58, 69-75.   \nTielbeek, J. J., Karlsson, L. R., Beers,K., Posthuma,D.,Popma,A., & Polderman, T. J. (2016). Meta-analysis of the serotonin transporter promoter variant (5-HTTLPR) in relation to adverse environment and antisocial behavior. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 171(5),748-760.   \nTikkanen, R., Ducci, F., Goldman,D., Holi, M., Lindberg, N., Tiihonen, J.,& Virkkunen, M. (2010). MAOA alters the effects of heavy drinking and childhood physical abuse on risk for severe impulsive acts of violence among alcoholic violent offenders. Alcoholism: Clinical and Experimental research, 34(5), 853-860.   \nTihonen, J., Rautiainen, M.R., Olila,H.M.,Repo-Tiihonen,E., Virkkunen, M.,Palotie,A.,...& Saarela, J. (2O15). Genetic background of extreme violent behavior. Molecular Psychiatry, 20(6), 786.   \nTuvblad, C., Narusyte, J., Comasco,E., Andershed,H., Andershed,A. K., Colins, O.F.,.. & Nilsson, K. W. (2016). Physical and verbal aggressive behavior and COMT genotype: Sensitivity to the environment. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 171(5),708-718.   \nVassos,E., Collier, D.A.,& Fazel, S.(2014). Systematic meta-analyses and field synopsis of genetic association studies of violence and aggression. Molecular Psychiatry, 19(4), 471.   \nVan Wert, M.,Mishna, F., Trocme,N.,& Fallon,B. (2017). Which maltreated children are at greatest risk of aggressive and criminal behavior? An examination of maltreatment dimensions and cumulative risk. Child Abuse & Neglect, 69,49.   \nVeroude,K., Zhang-James, Y., Fernandez -Castillo, N., Bakker, M.J., Cormand, B.,& Faraone, S. V. (2016). Genetics of aggressive behavior: An overview. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics, 171(1), 3-43.   \nVitaro,F., Brendgen, M.,& Barker, E.D. (2006). Subtypes of aggressive behaviors: A developmental perspective. International Journal of Behavioral Development, 30(1),12-19.   \nWagner, S., Baskaya, O., Anicker, N.J.,Dahmen, N.,Lieb, K.,& Tadic,A. (201O). The catechol 0-methyltransferase(COMT) val(158)met polymorphism modulates the association of serious life events (SLE) and impulsive aggresson in female patients with borderline personality disorder (BPD). Acta Psychiatrica Scandinavica, 122(2), 110-117.   \nWeeland, J., Overbeek, G., de Castro, B. O., & Matthys, W. (2015). Underlying mechanisms of gene-environment interactions in externalizing behavior: A systematic review and search for theoretical mechanisms. Clinical Child and Family Psychology Review, 18(4), 413-442.   \nWrangham, R. W. (2018). Two types of aggression in human evolution. Proceedings of the National Academy ofSciences of the United States of America, 115(2),245.   \nXu, Y.,& Zhang, Z. (2oo8). Distinguishing proactive and reactive aggression in Chinese children. Journal of Abnormal Child Psychology, 36(4), 539-552.   \nZhang, J., & Zheng, Y. (2018). Childhood maltreatment profiles among incarcerated Chinese males and their associations with personality disorder symptoms and criminal behaviors. Psychiatry Research, 268,272-278.   \nZhang, W., Cao, C., Wang, M., Ji,L.,& Cao, Y. (2016). Monoamine oxidase a (MAOA) and catechol-o-methyltransferase (COMT) gene polymorphisms interact with maternal parenting in association with adolescent reactive aggresson but not proactive aggression: Evidence of differential susceptibility. Journal of Youth and Adolescence, 45(4), 812-829. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The effect of childhood adversity and genetic factors on male prisoners' aggression ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Jieting1; ZHANG Jingfeng1; GAO Kaidong²; WEN Chao²; CUI Hanqing²; LIU Jingting1 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1 College of Psychology and Sociology, Shenzhen University, Shenzhen 518060, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(² Shenzhen Prison, Guangdong Province, Shenzhen 518118, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The risk assessment of violent recidivism is especially important for the evaluation of risk among prisoners. As aggression is a stable factor of prisoners’ violent recidivism, investigating their aggressive behavior can prevent and reduce risk of violent recidivism after parole or release,and contribute to social security and stable development. Studies have shown that aggressive behavior is influenced by childhood adversities and genetic susceptibility (such as MAOA-uVNTR low activity allele). However, most of the studies only focus on linear association, neglecting the interaction between factors and non-linear relationships.Moreover, the assessment of prisoners’ aggression ignored the subtypes of aggression, and was often conducted by questionnaires. These problems constrain effective prediction of aggression. In the current study, latent class model is applied to identify the classfication of childhood adversities among male prisoners and ordinary adults. Using an experiment paradigm and questionnaires, as well as behavioral data as aggressive indicators,we further analyze the relationship between childhood adversity and aggression, and the moderation by MAOA-uVNTR, COMT Val158Met, and 5-HTTLPR polymorphism. The findings would help identifying the genetic indicators of highly aggressive individuals and detect susceptible individuals affected by childhood adverse experiences. Moreover, they provide theoretical and empirical reference for predicting violent behavior and building related intervention through training or medication. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: childhood adversity; gene; aggression; latent class analysis ",
+        "page_idx": 15
+    }
+]

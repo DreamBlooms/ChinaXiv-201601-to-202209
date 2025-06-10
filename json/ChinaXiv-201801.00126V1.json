@@ -1,0 +1,477 @@
+[
+    {
+        "type": "text",
+        "text": "异源表达AtCYSa基因烟草的耐盐和抗虫特 性分析 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姚民，朱淑华，李佛生，张士彦，唐琳\\*\\*(四川大学生命科学学院生物资源与生态环境教育部重点实验室，成都610064)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 植物半胱氨酸蛋白酶抑制剂在植物防御生物与非生物胁迫过程中发挥着重要的作用。拟南芥中的半胱氨酸蛋白酶抑制剂AtCYSa基因的表达能够受到多种胁迫的诱导，且在拟南芥中过量表达AtCYSa 基因可以增强转基因拟南芥抵御盐、干旱和氧化等非生物胁迫的能力。为了进一步探究AtCYSa 基因的功能以及在烟草中的应用，构建了植物表达载体pCAMBIA1302-AtCYSa。通过PCR以及RT-PCR 验证共获得4株阳性转基因烟草，选择其中3株转基因烟草进行盐胁迫处理和抗虫活性实验。在盐胁迫处理中， $1 0 0 \\mathrm { m M N a C l }$ 和 $2 0 0 \\mathrm { m M N a C l }$ 处理组的内二醛含量显著低于野生型对照组。伊文思蓝染色和细胞相对活性结果表明，转基因烟草的细胞活性比野生型烟草明显偏高。这说明在盐胁迫处理下，AtCYSa 基因的表达能够起到保护转基因烟草的作用。抗虫活性研究发现，实验组的幼虫总重均呈明显的下降趋势，且幼虫死亡率显著高于对照组。这些结果表明，AtCYSa基因在烟草中的过量表达能够增强转基因烟草的耐盐以及抗虫的能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词转基因烟草AtCYSa 耐盐 抗虫 中图分类号Q789 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of Salt Tolerance and Insect Resistance of Transgenic Tobacco Expressing AtCYSa from Arabidopsis\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YAO Min, ZHU Shu-hua,LI Fo-sheng, ZHANG Shi-yan, TANG Lin \\*\\* (MinistryofEducationKeyLaboratoryforBioesoureandEcoEnvironment,CollegeofLifeciene,SicuanUniversityChengdu 610064, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Plant cysteine protease inhibitors play an important role in defense of biotic and abiotic stresses. The expression of the AtCYSa gene in Arabidopsis thaliana can be induced by a variety of stresses, and the over-expresson of AtCYSa in Arabidopsis thaliana can enhance the ability to resist abiotic stress like salt, drought and oxidation. In order to further explore the function of AtCYSa and its application in tobacco，the plant expresson vector pCAMBIA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1302-AtCYSa was constructed. Four positive transgenic tobacco lines were obtained by PCR and RT-PCR confirmation. Three transgenic tobacco lines were selected for salt stress treatment and insect resistance.In the salt stress treatment, the content of malondialdehyde in $1 0 0 \\mathrm { m M } \\mathrm { N a C l }$ and $2 0 0 \\mathrm { m M } \\mathrm { N a C l }$ treatment group was significantly lower than that in wild type. Evans blue staining and cell relative activity results showed that the cell activity of transgenic ltobacco was significantly higher than that of wild type. This indicated that the expression of AtCYSa gene could protect the transgenic tobacco under salt stress. Insect activity studies showed that the total weight of the larvae in the experimental group showed a significant decrease,and the larvae mortality was significantly higher than the control. These results indicate that over-expression of the AtCYSa gene in tobacco can enhance the salt tolerance and insect resistance of transgenic tobacco. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words Transgenic tobacco AtCYSa Salt tolerance Insect resistance ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "半胱氨酸蛋白酶抑制剂(cystatins)，也称之为巯基蛋白酶抑制剂，是具有抑制半胱氨酸蛋白水解酶类的催化活性且广泛存在于真核生物细胞中的一大类蛋白超家族[1,2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物半胱氨酸蛋白酶抑制剂(phytocystatins，PhyCYSs）是半胱氨酸蛋白酶抑制剂超家族中独立的一个亚科[2]。植物中半胱氨酸蛋白酶抑制剂的发现，最早来自于1987年Abe等从水稻种子中分离克隆到的蛋白质[3]。研究表明大部分PhyCYSs参与了多种生理进程包括程序性细胞死亡[4]，果实发育[5]，种子发育和萌发[6-7]等。另外，PhyCYSs 在植物非生物胁迫及防御病虫害方面也发挥着十分重要的作用[8-9]。玉米中PhyCYS 基因的表达调控能够使植物有效应对冷胁迫以及干旱胁迫[1o]。异源表达水稻oryzacystatinI基因，能够增强转基因大豆及转基因拟南芥对干旱的耐受性[1]。Ninkovic等[12]首次报道异源表达水稻oryzacystatinII 的转基因苜蓿能使 Phytodecta fornicate Bruggemann 的死亡率明显增加。大量研究表明PhyCYSs对植食性昆虫有广谱的抗虫效果[13-14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "迄今为止，拟南芥中发现存在7个PhyCYS 基因(AtCYS1\\~AtCYS7)[15]。在拟南芥悬浮培养细胞和转基因烟草中，AtCYS1的过量表达能抑制由病原体或氧化及 NO 胁迫所造成的细胞死亡[16]。过量表达AtCYSa 和 AtCYSb(也称之为AtCYS3和 AtCYS6)基因的酵母和拟南芥都表现出在高盐、干旱、氧化和冷胁迫的耐受性[17]。Hwang 等[18]发现AtCYS1和 AtCYS2在拟南芥正常生长和非生物胁迫（高温及损伤）下都表现出不同的表达模式，继而推测AtCYS1和AtCYS2在植物发育以及胁迫响应方面参与不同的作用机制。最近研究发现，拟南芥受到甜菜孢囊线虫侵害时，AtCYS1、AtCYS5及AtCYS6基因的表达水平明显上调[19]。AtCYS5和AtCYS4的过量表达，都能增强拟南芥对热胁迫的耐受性。除此之外，AtCYS5的过量表达也能促进拟南芥种子的萌发以及幼苗的生长[20-21]。而 AtCYS6的过量表达对拟南芥的种子萌发及幼苗生长起抑制作用[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上研究仅验证部分AtCYS基因参与了植物生长发育及各种胁迫响应下植物复杂的防御体系，而AtCYSa基因的功能解析特别是抗虫方面目前还不清楚。另外鉴于大部分研究是建立在拟南芥本体（细胞或组织）上且与功能及表达模式解析相关，而对于AtCYS作为植物抗逆性候选基因的应用方面报道甚少。因此，本研究选取AtCYSa基因，以AtCYSa基因在烟草耐盐及抗虫的应用为目的，构建了拟南芥AtCYSa基因过表达载体并转化野生型烟草，对转基因烟草进行了盐胁迫及抗虫活性实验。结果表明AtCYSa基因的过量表达能够增强转基因烟草的耐盐及抗虫的能力，为AtCYSa基因功能的解析以及在其他植物抗逆性方面的应用提供一定的参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "野生型拟南芥（Arabidopsis thaliana，ecotype columbia）及烟草（Nicotianabenthamiana）由本实验室保存。供试虫源购于成都市青石桥花鸟鱼虫市场，黄粉虫（Tenebrio molitor）[22]属鞘翅目拟步行虫科。大肠杆菌（Escherichia coli）Topl0、根癌农杆菌（Agrobacterium tumefaciens）GV3101为本实验室保存。所用载体有克隆载体pEASY-Tlsimple（北京，全式金生物技术有限公司）及植物表达载体pCAMBIA1302（本实验室保存）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2拟南芥总RNA提取及AtCYSa基因的克隆",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $0 . 1 \\mathrm { g }$ 拟南芥幼嫩叶片，加液氮研磨成粉末，植物总RNA提取试剂盒DP432（天根，北京）提取拟南芥总RNA，超微量分光光度计测定浓度后用 $1 \\%$ 的琼脂糖凝胶电泳检测RNA的完整性。以提取的总RNA为模板，Oligo（dT）18为反转录引物，M-MLVRTase（（TaKaRa，中国大连））进行反转录，获得cDNA。根据 GenBank 公布的 AtCYSa 基因序列(GenBank No.AY084769,original name",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FL3-27)，设计特异性引物AtCYSa-F( $5 ^ { \\circ }$ -ATGGAATCAAAGACGTTCTGGA-3')和AtCYSa-R ( $5 ^ { \\circ }$ -TCAAGAAGATGATTCCTTGAACTCC-3’)。然后以1ulcDNA为模板，进行PCR扩增。PCR反应条件： $9 4 ^ { \\circ } \\mathrm { C }$ 5 min，30个循环（ $9 4 ^ { \\circ } \\mathrm { C }$ 30 s, $5 8 ^ { \\circ } \\mathrm { C }$ $3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 30 s)， $7 2 ^ { \\circ } \\mathrm { C } 8 \\mathrm { m i n }$ 业",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3植物表达载体的构建及烟草的遗传转化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "回收PCR扩增片段（天根DNA柱式胶回收试剂盒）并连接pEASY-T1simple载体，反应体系：pEASY-Tlsimple载体lul，胶回收产物4ul。混匀后 $2 5 \\mathrm { { ^ \\circ C } }$ 连接$1 0 \\mathrm { m i n }$ 。随后连接载体转化大肠杆菌Top10 感受态，挑菌测序成功后菌液保存并用于后续实验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "提取上述菌液质粒。根据植物表达载体pCAMBIA1302的多克隆位点，设计并利用含 BamHI 酶切位点的引物AtCYSa-BF( $5 ^ { \\circ }$ -CGGGATCCATGGAATCAAAGACGTTCTGGA-3'） 和含 SacI 酶切位点的AtCYSa-SR（ $5 ^ { \\circ }$ -CCCAAGCTT AGAAGATGATTCCTTGAACTCC-3\")进行第二次PCR扩增。随后用BamHI和 SacI内切酶对扩增片段和pCAMBIA1302载体分别进行双酶切并回收，T4连接酶 $1 6 ^ { \\circ } \\mathrm { C }$ 连接过夜。连接产物转化大肠杆菌 Top10，过夜培养后挑选菌落进行PCR 鉴定，并将阳性菌落进行测序。验证正确的载体菌落扩大培养并提取质粒，转化农杆菌，挑选单克隆并进行PCR鉴定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用根瘤农杆菌介导法进行烟草的遗传转化。首先无菌烟草叶片（大小为2$\\mathrm { m m } \\times 2 \\mathrm { m m }$ ）在MS固体培养基预培养3天。然后预培养叶片在含有农杆菌(OD约为0.2)的1/2MS 液体培养基中侵染 $1 0 { \\sim } 1 5 \\ \\mathrm { m i n }$ 后取出，灭菌滤纸吸干；将侵染过的叶片放到MS基本培养基上暗培养 $2 { \\mathrm { ~ d ~ } }$ ，随后经过共培养、分化培养$\\mathrm { ( M S + 2 . 2 5 m g / L 6 - B A + 0 . 3 m g / L \\ N A A + 4 0 0 \\ m g / L }$ 头孢霉素 $+ 8 0 \\mathrm { m g / L }$ 卡那霉素）和生根培养（ $1 / 2 \\mathrm { M S } { + } 4 0 0 \\mathrm { m g / L }$ 头孢霉素 $+ 8 0 \\mathrm { m g / L }$ 卡那霉素）获得幼苗，大概两周后移栽至温室。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4转基因烟草的鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1转基因烟草基因组PCR及RT-PCR检测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为检测 AtCYSa 基因是否成功整合到烟草基因组中，提取转基因烟草叶片DNA 进行PCR 检测，野生型烟草基因组DNA为阴性对照。PCR反应条件为$9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $5 \\mathrm { m i n }$ ， $9 4 ^ { \\circ } \\mathrm { C }$ 变性 $3 0 \\mathrm { \\ s } , \\ 6 0 ^ { \\circ } \\mathrm { C }$ 退火 $3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $3 0 ~ \\mathrm { s }$ ，共30个循环，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $7 \\mathrm { m i n }$ ，用 $1 \\%$ 琼脂糖凝胶电泳作分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提取转基因烟草总RNA，反转录合成cDNA，以野生型烟草为阴性对照进行RT-PCR 扩增。PCR反应条件为 $9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $5 \\mathrm { m i n }$ ， $9 4 ^ { \\circ } \\mathrm { C }$ 变性30 s， $6 0 ^ { \\circ } \\mathrm { C }$ 退火$3 0 ~ \\mathrm { s }$ ， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $3 0 ~ \\mathrm { s }$ ，共30个循环， $7 2 ^ { \\circ } \\mathrm { C }$ 延伸 $7 \\mathrm { m i n }$ ，最后用 $1 \\%$ 琼脂糖凝胶电泳作分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后选取3个转基因烟草株系作cystatins活性检测。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 转基因烟草cystatins 活性检测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取生长1个月的转基因烟草叶片 $0 . 5 \\mathrm { ~ g ~ }$ ，按酚/SDS 法提取叶片总蛋白[23]。根据半胱氨酸蛋白酶抑制剂与木瓜蛋白酶的作用特点，偶氮酪蛋白水解法对总蛋白中cystatins 活性进行木瓜蛋白酶抑制活性的检测。具体步骤：首先总蛋白 $( 1 { \\sim } 3 0$ $ { \\mu \\mathrm { g } } )$ 加入 $2 0 \\mu \\mathrm { l }$ 的木瓜蛋白酶（ $\\mathrm { { 1 \\ m g / m l } }$ ）溶液至终体积 $1 0 0 \\mu \\mathrm { l }$ ，用漩涡混合器充分混匀并在 $3 7 \\mathrm { { ^ \\circ C } }$ 下孵育 $1 5 \\mathrm { m i n }$ ，使抑制剂蛋白与木瓜蛋白酶溶液充分作用。之后加入 $5 0 0 ~ \\mu \\mathrm { l }$ 底物偶氮酪蛋白溶液于 $3 7 ^ { \\circ } \\mathrm { C }$ 下孵育1小时， $2 5 0 ~ \\mu \\mathrm { l } ~ 1 0 \\%$ 的三氯醋酸（TCA）终止反应，冰浴 $3 0 \\mathrm { m i n }$ ， $1 5 , 0 0 0 \\mathrm { r p m }$ 离心 $5 \\mathrm { m i n }$ ，未水解的偶氮酪蛋白被沉淀，最后取 $8 5 0 ~ \\mu \\mathrm { l }$ 于 $4 2 0 \\mathrm { n m }$ 下测定反应管的吸光度值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5转基因烟草盐胁迫处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "野生型烟草和转基因烟草（T1代）在正常生长条件下培养6周，分别浇灌0mM、 $1 0 0 \\mathrm { m M }$ 、 $2 0 0 \\mathrm { m M }$ 的NaC1溶液。每3天浇灌一次，处理2周，观察其生长状况。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6盐胁迫处理的转基因烟草丙二醛含量及细胞活性的检测",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "丙二醛（MDA）是膜脂过氧化的最终产物之一，其含量可以判断植物的受损害程度。丙二醛含量的测定采用张志良等[24]的方法。采用伊文思蓝(Evans blue)作为细胞活性染料，检测盐胁迫处理后转基因烟草叶片的细胞活性，具体步骤参照刘楠[25]的实验方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7转基因烟草的抗虫活性检测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "挑选生长发育大体一致的 $8 { \\sim } 1 0$ 龄幼虫(迅速生长期且生命力旺盛)，每头均重约 $0 . 0 3 8 \\mathrm { g }$ ，均长约 $1 . 4 \\mathrm { c m }$ 。幼虫分为4组（用于野生型烟草和转基因烟草虫试实验)，每组20头，分别培养在垫有三层滤纸的塑料碗中。控制光照条件及室内温度及湿度（光暗比12:12，室内温度 $2 6 ^ { \\circ } \\mathrm { C } { \\sim } 2 9 ^ { \\circ } \\mathrm { C }$ ，空气湿度 $6 5 \\% { \\sim } 8 0 \\%$ )，饥饿培养12h 后进行抗虫活性实验。每天早晚喂食一次，每次喂食 $\\mathrm { 1 g }$ 剪至细条状的烟草叶（植株第4展叶）和 $0 . 3 \\mathrm { g }$ 的麦麸，并每天定时清理出每组中多余的食物及粪便。观察为期10天的幼虫生长情况并每隔一天称重，野生型烟草作为对照，并统计15天的黄粉虫死亡率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1拟南芥AtCYSa基因的克隆",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "提取野生型拟南芥叶片总RNA并进行 $1 \\%$ 琼脂糖凝胶电泳检测。结果显示，提取的总RNA完整性较好，28S与18S亮度比约为2:1，条带清晰，无明显降解的杂带存在（图1a）。总RNA紫外扫描结果 $\\mathrm { A } 2 6 0 / \\mathrm { A } 2 3 0 > 2 . 0 0$ ，A260/A280在$1 . 8 { \\sim } 2 . 0 0$ 之间，表明RNA纯度较高，不存在多糖、酚类及蛋白质的污染。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据GenBank中AtCYSa基因的ORF序列设计引物，以野生型拟南芥叶片cDNA为模板，扩增出378bp的单一条带（图1b），和预测片段一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/850a0dddf7cc3af5c9c4a34f081f589addbce9d67e6207c4caf54c7a2a23da8c.jpg",
+        "img_caption": [
+            "图1拟南芥AtCYSa基因的克隆",
+            "Fig.1Cloningof AtCYSagenefrom Arabidopsisthaliana "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(a)Extraction of total RNA from Arabidopsis thaliana,M: DL20oo (b) PCR of AtCYSa gene ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2植物表达载体的构建",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分别用限制性内切酶BamHI和SacI对第二次PCR扩增的AtCYSa基因（带酶切位点）和pCAMBIA1302载体质粒进行双酶切， $1 \\%$ 琼脂糖凝胶电泳检测(图2a 和图 2b)。分别回收目的片段，T4DNA ligase 进行连接反应后转化大肠杆菌TOP10 感受态，菌液PCR检测后测序，结果表明基因未发生突变。提取质粒转化农杆菌GV3101，挑取单克隆并进行PCR检测(图2c)。结果显示所选2个单菌落为阳性克隆，表明植物表达载体构建成功。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0a97b59fcd827c0097727d67822c53e0341d31db52a709f069dbc658c92fbc4.jpg",
+        "img_caption": [
+            "图2pCAMBIA1302-AtCYSa表达载体的构建与鉴定"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 The construction and identification of pCAMBIA1302-AtCYSa recombinant vector (a)RestrictionenzymedigestionofAtCYSagene withrestrictionenzymesite（b）RestrictionenzymedigestionofpCAMBIA1302,-3: plasmid,4-5:plasiddgesion,6:ositiotrol()Cdetectiofrecobinantvctor,gatieotrol,-cteal samples,5: Positive control ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4AtCYSa转基因烟草的鉴定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随机挑选6株具有卡那霉素抗性的转基因烟草和野生型烟草基因组的DNA，进行PCR 鉴定（图3a）。实验结果表明，除5为假阳性植株外，其余转基因植株基因组中均有外源蛋白酶抑制剂基因AtCYSa的插入。为进一步探究AtCYSa基因在转基因烟草中是否表达，对这6株转基因烟草进行RT-PCR分析（图3b)。结果显示AtCYSa在4株转基因烟草中能够进行正常的表达。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/323c62dfd4384ad9679525eaf90fb45c440933da11551b4877414277a96bef2b.jpg",
+        "img_caption": [
+            "图3AtCYSa转基因烟草的鉴定",
+            "Fig.3Identificationof AtCYSa gene in transgenic tobacoo "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a)PCR identification of AtCYSa gene in transgenic tobacoo lines (b)RT-PCR identification of AtCYSa ger ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明AtCYSa在转基因烟草中能够进行正常的表达，但并不能代表AtCYSa所表达蛋白在转基因烟草中具有正常的活性。因此，对转基因烟草（AtCYSa-2，AtCYSa-4，AtCYSa-6）cystatins 的活性进行了测定（图4）。结果表明，转基因烟草都具有抑制木瓜蛋白酶的活性，并且随着转基因烟草叶片蛋白质提取量的增加，转基因烟草植株cystatins 的活性也在增强，呈浓度依赖效应。而在野生型烟草中，尽管也存在着木瓜蛋白酶抑制剂但活性很低。因此推测，AtCYSa基因在转基因烟草中能够正常表达出蛋白酶抑制剂。所以选择AtCYSa-2，AtCYSa-4，AtCYSa-6三个株系作后续的实验。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c29a72e33cf423864337765c6ffb301a35e4c04a76335ffc0bdb3754c7dc3b3.jpg",
+        "img_caption": [
+            "图4AtCYSa转基因烟草cystatins活性检测",
+            "Fig.4Assays ofcystatins activityin AtCYSa transgenic tobacoo lines "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5转基因烟草耐盐性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "野生型烟草和转基因烟草在盐胁迫处理两周后，观察其生长状况。实验结果表明， $0 \\mathrm { m M }$ 和 $1 0 0 \\ : \\mathrm { m M N a C l }$ 处理组野生型及转基因烟草植株生长良好。 $2 0 0 ~ \\mathrm { m M }$ NaCl处理组野生型及转基因烟草植株都发生了一定程度的萎蔫并且开花时间提前，但这两种植株并没有显著差异。为探究AtCYSa基因的过量表达能否增强转基因烟草的耐盐能力，对盐胁迫处理下野生型和转基因烟草相关生理指标进行了测定。结果表明处理前野生型烟草和转基因烟草的MDA含量相差不大；随着盐浓度的不断增加，野生型及转基因烟草的MDA含量都有所提高，但野生型烟草MDA含量及上升幅度都明显高于转基因烟草（图5）。这说明AtCYSa基因的过量表达在一定程度上降低了转基因烟草的膜脂过氧化程度。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba51690ddffc0829ef23b97127662b77d18e4a920feb04bb586f63c88b44d30b.jpg",
+        "img_caption": [
+            "图5盐胁迫下野生型烟草与AtCYSa转基因烟草MDA含量的测定"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The determination of MDA content of wild-type and AtCYSa transgenic tobacco lines under salt stres Different number shows significant difference at O.O5 level ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了进一步探究AtCYSa基因的过量表达对转基因烟草耐盐能力的影响，检测了 $2 0 0 \\ : \\mathrm { m M N a C l }$ 胁迫处理下野生型及转基因烟草叶片的细胞活性。叶片染色结果如图6a所示，经盐胁迫处理的烟草叶片蓝色染色区域（即细胞失去活性的区域）差异明显，转基因烟草的叶片染色面积较野生型而言相对较少。将染色后的烟草叶片剪碎用 SDS水溶液萃取，叶片细胞相对活性如图6b所示，所得结果与染色结果基本一致。这说明在盐胁迫下AtCYSa基因的过量表达能够增强转基因烟草的细胞活性，也进一步验证了过量表达AtCYSa基因能够提高转基因烟草的耐盐能力。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/26e55a0d1d7664ad291b186432bca2cc70cbb4a450b8d97a914197e14c7d74e8.jpg",
+        "img_caption": [
+            "图6野生型烟草与AtCYSa转基因烟草在 $\\mathbf { 2 0 0 m M N a C l }$ 处理下的伊文思蓝染色和细胞活性检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Evans blue dyeing and cell activitydetection of wild-type and AtCYSa transgenic tobacco lines under200mMNaCl ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(a)Evans bluedyeingof wild-typeandAtCYSatransgenic tobacco lines under 20omMNaCl，Control: Wildtype dispose with $2 0 0 \\mathrm { m M }$ NaCl(b) Cell activity detection of wild-type and AtCYSa transgenic tobacco lines under $2 0 0 \\mathrm { m M }$ NaCl, different number shows significant difference at O.05 level ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6转基因烟草的抗虫分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分别取转基因烟草和野生型烟草的叶片，进行抗虫活性测定。发现清理出的细条状烟草叶边缘均有虫子咬噬的痕迹，且粪便中有许多绿色颗粒（正常粪便为淡黄色颗粒状），这说明黄粉虫能正常取食烟草叶片。由于黄粉虫是杂食性动物，因此添加 $0 . 3 \\mathrm { g }$ 麦麸来降低因营养不均所导致的黄粉虫死亡率。实验组中黄粉虫随天数的增加其总体重呈明显的下降趋势，且相当一部分幼虫躯体呈现黑褐色直至死亡（正常为黄色）（图7），这与黄粉虫死亡率统计结果一致（表1）。因此，AtCYSa基因的表达提高了转基因烟草的抗虫能力。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0ed4446b2092a6435d43b9d5ad008bb6cac69b09d54a807d0fad966b654c527.jpg",
+        "img_caption": [
+            "图7喂食野生型及转基因烟草叶片后黄粉虫体重的变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Insect weight changes after feeding leaf of wild-type and transgenic tobacco lines 表1喂食野生型及转基因烟草叶片后黄粉虫死亡率统计 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table1Insect mortality statistics after feeding leaf of wild-type and transgenic tobacco lines ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e9068f481dad377f87d82b06f60c98e84042733ba7de95a31f30059b013f768.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>第5天死亡率</td><td>第10天死亡率</td><td>第15天死亡率</td></tr><tr><td>WT</td><td>0</td><td>5%</td><td>5%</td></tr><tr><td>AtCYSa-2</td><td>5%</td><td>10%</td><td>25%</td></tr><tr><td>AtCYSa-4</td><td>10%</td><td>30%</td><td>40%</td></tr><tr><td>AtCYSa-6</td><td>5%</td><td>15%</td><td>20%</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PhyCYSs是一类能够通过抑制半胱氨酸蛋白酶的活性，在植物的生长与发育进程中起重要保护作用的蛋白。本文对拟南芥AtCYSa的功能进行了探讨，为进一步研究AtCYSa 的功能与应用提供相应的理论依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "木瓜蛋白酶作为一种半胱氨酸蛋白酶，其酶活的抑制效果常被用来表示半胱氨酸蛋白酶抑制剂的活性[16,26]。研究发现，AtCYSa 基因在烟草中的表达，能够抑制木瓜蛋白酶的活性，整体上呈浓度依赖效应。这一结果与AtCYSa融合蛋白在大肠杆菌中的表达效果相一致[17]，进一步证实AtCYSa基因能够作用于木瓜蛋白酶，同时也表明AtCYSa基因在烟草中能够正常表达出活性蛋白。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在正常生长条件下，野生型和转基因烟草都能够进行正常的萌发和生长，没有明显的差异，类似于转基因拟南芥的萌发[17]。在受到100MmNaCl 和 $2 0 0 \\mathrm { m M }$ NaCI胁迫时，野生型烟草幼苗和转基因烟草幼苗表型上没有明显差异；而在100mMNaC1胁迫处理下，转基因拟南芥幼苗的根和叶的生长明显比野生型拟南芥幼苗受到的抑制作用弱[17]。这可能是盐胁迫处理的浓度和时间跨度窄，没有展现出转基因烟草的抗盐表征效果。进一步研究发现，转基因烟草在受到盐胁迫后膜酯过氧化程度明显低于对照组。这可能是由于AtCYSa 的过量表达，提高了抗氧化酶的活性，降低了活性氧对转基因烟草的伤害。Li等[2报道，过量表达麻风树JcCPI基因的烟草在受到 $1 0 0 \\mathrm { m M N a C l }$ 胁迫后，抗氧化酶（谷胱甘肽还原酶，过氧化氢酶和抗坏血酸过氧化物酶）的活性能够显著增加。同时，转基因烟草在盐胁迫下能够增强细胞的活性，降低细胞的死亡程度。程序性细胞死亡在一定程度上依赖于半胱氨酸蛋白酶对特异蛋白降解的调控，而PhyCYSs能够通过抑制半胱氨酸蛋白酶的活性，减缓或抑制植物的程序性细胞死亡进程[27]。因此推测盐胁迫下转基因烟草细胞活性的增强，是由于AtCYSa 阻止了相应半胱氨酸蛋白酶（如木瓜蛋白酶）降解特异蛋白的进程，降低了细胞死亡的程度，从而增强转基因烟草的耐盐性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PhyCYSs不仅参与植物防御非生物胁迫的进程，而且在生物胁迫防御尤其是抗虫方面发挥着重要的作用。这种重要性主要体现在：（1）PhyCYSs来源于植物，对哺乳动物无副作用且在异源植物中不存在因密码子偏爱性所导致的表达水平较低的问题；（2）PhyCYSs的抗虫谱广泛。而对于可能出现的反目标效应，可以采取加强生态安全性研究和合理利用转基因植物等策略，避免破坏生态环境及生态安全性[28]；（3）PhyCYSs作用于昆虫消化酶活性中心，极大程度上降低了害虫通过突变产生抗性的可能性；（4）PhyCYSs能够严重地阻碍害虫的生长和发育进程，使其在自然条件下生存能力下降[29.30]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了探究AtCYSa在生物胁迫防御上的功能，对AtCYSa的转基因烟草进行了抗虫研究。抗虫结果表明，在喂食转基因烟草后，幼虫的体重呈现降低的趋势，并且幼虫的死亡率明显高于对照组。这说明转基因烟草能够阻碍幼虫的生长与发育，其抗虫机制可能与大豆的半胱氨酸蛋白酶的抗虫机制相类似[31]，是通过AtCYSa对半胱氨酸蛋白酶活性的抑制，从而起到抗虫的效果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总的来说，AtCYSa基因在烟草中的过量表达，能够增强转基因烟草耐盐和抗虫的效果，都可能是通过对半胱氨酸蛋白酶活性的抑制发挥作用，但其具体的作用机制有待进一步的研究与分析。本研究在一定程度上完善了AtCYSa基因的功能，为AtCYSa基因在植物遗传改良方面的应用提供了相应的参考。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] Turk V, Bode W.The cystatins: Protein inhibitors of cysteine proteinases. FEBS Leters,1991, 285(2): 213-9.   \n[2] Margis R, Reis E M, Villeret V. Structural and phylogenetic relationships among plant and animal cystatins.Archives of Biochemistry & Biophysics,1998,359(1): 24-30.   \n[3] Abe K, Emori Y, Kondo H, et al. Molecular cloning of a cysteine proteinase inhibitor of rice (oryzacystatin). Homology with animal cystatins and transient expression in the ripening process of rice seeds. Journal of Biological Chemistry, 1987,262(35): 16793-7.   \n[4] Belenghi B,Acconcia F, Trovato M, et al. AtCYS1,a cystatin from Arabidopsis thaliana, suppresses hypersensitive cell death. European Journal of Biochemistry，2003，270(12): 2593-2604.   \n[5] Neuteboom L W, Matsumoto K O, Christopher D A. An extended AE-rich N-terminal trunk in secreted pineapple cystatin enhances inhibition of fruit bromelain and is postranslationally removed during ripening. Plant Physiology, 2009,151(151): 515-27.   \n[6] Hong JK, Hwang JE, et al. Over-expression of Chinese cabbage phytocystatin 1 retards seed germination in Arabidopsis.Plant Science, 2007, 172(3): 556-563.   \n[7] Hwang JE, Hong JK, Je JH, et al. Regulation of seed germination and seedling growth by an Arabidopsis phytocystatin isoform,AtCYS6. Plant Cell Reports, 2009,28(11): 1623-32.   \n[8] Benchabane M， Schluter U, Vorster J，et al. Plant cystatins.Biochimie，2010,92(11): 1657-1666.   \n[9] Martinez M, Santamaria M E,Diazmendoza M, et al. Phytocystatins: Defense Proteins against Phytophagous Insects and Acari. International Journal of Molecular Sciences,2016,17(10): 1747. [10] Massonneau A，Condamine P，Wisniewski J P,et al. Maize cystatins respond to developmental cues,cold stress and drought. Biochimica Et Biophysica Acta, 2005,1729(3): 186-199.   \n[11] Quain M D, Makgopa M E, Marquez-Garcia B, et al. Ectopic phytocystatin expression leads to enhanced drought stress tolerance in soybean (Glycine max) and Arabidopsis thaliana through effects on strigolactone pathways and can also result in improved seed traits. Plant Biotechnology Journal, 2014, 12: 903-913.   \n[12] Ninkovic S, Miljus-Dukic J, Radovic S,et al. Phytodecta fornicata, Brüggemann resistance mediated by oryzacystatin II proteinase inhibitor transgene. Plant Cell, Tissue and Organ Culture (PCTOC), 2007, 91(3): 289-294.   \n[13] Haq S K,Atif S M, Khan R H. Protein proteinase inhibitor genes in combat against insects, pests，and pathogens: natural and engineered phytoprotection. Archives of Biochemistry & Biophysics,2004, 431(1): 145-159.   \n[14] Goulet M C, Michaud D. Tailoring the specificity of a plant cystatin toward herbivorous insect digestive cysteine proteases by single mutations at positively selected amino acid sites. Plant Physiology,2008,146(3): 1010-1019.   \n[15] Martinez M, Abraham Z, Carbonero P, et al. Comparative phylogenetic analysis of cystatin gene families from arabidopsis, rice and barley. Molecular Genetics and Genomics, 20o5, 273(5): 423-432.   \n[16] Belenghi B, Acconcia F, Trovato M, et al. AtCYS1, a cystatin from Arabidopsis thaliana, suppresses hypersensitive cell death. European Journal of Biochemistry， 2003，270(12): 2593-2604.   \n[17] Zhang X, Liu S, Takano T. Two cysteine proteinase inhibitors from Arabidopsis thaliana, AtCYSa and AtCYSb, increasing the salt, drought, oxidation and cold tolerance. Plant Molecular Biology,2008, 68(1): 131-143.   \n[18] Hwang J E, Hong J K, Chan JL, et al. Distinct expression patterns of two Arabidopsis phytocystatin genes,AtCYS1 and AtCYS2, during development and abiotic stresses. Plant Cell Reports, 2010, 29(8): 905-15.   \n[19] Labudda M, Rozahska E, Szewinska J, et al. Protease activity and phytocystatin expression in Arabidopsis thaliana,upon Heterodera schachti, infection. Plant Physiology & Biochemistry, 2016,109: 416-429.   \n[20] Song C, Kim T, Chung W S, et al. The Arabidopsis Phytocystatin AtCYS5 Enhances Seed Germination and Seedling Growth under Heat Stress Conditions. Molecules and Cells, 2017, 40(8): 577-586.   \n[21] Je J, Song C, Hwang JE, et al. DREB2C acts as a transcriptional activator of the thermo tolerance-related phytocystatin 4 (AtCYS4) gene. Transgenic Research, 2014, 23(1): 109-123. [22] 杜开书，柴立英．黄粉虫饲养条件的研究现状与利用前景．安徽农业科学,2006,34(18): 4646-4647.   \nDu K S, Chai L Y. Study on Condition of Tenebrio molitor L.Rearing and its Application Prospect. Journal 0f Anhui. Sci. 2006,34(18): 4646-4647.   \n[23] 韦玉梅，李佳素，周杰，等．烟草叶片蛋白3 种提取方法的比较研究．湖北农业科学, 2011, 50(23): 4968-4970.   \nWei Y M,Li J S, Zhou J, et al. Comparison Study on Three Methods for Tobacco Leaf Protein Extraction. Hubei Agricultural Sciences,2011, 50(23): 4968-4970.   \n[24] 张志良，瞿伟菁，李小方．植物生理学实验指导．高等教育出版社，1990.   \nZhang Z L, Qu W J, Li X F. Plant Physiology Experiment Guidance. Higher education press, 1990.   \n[25] 刘楠，林植芳．用伊文思蓝染色法检测植物整体叶片的细胞活性．植物生理学报, 2011,6: 570-574.   \nLiu N,Lin Z F. Use of Evans Blue for Testing Cell Viability of Intact Leaves of Plant. Plant Physiology Journal, 2011, 6: 570-574.   \n[26] LI R, WANG W J, WANG W G, et al. Overexpression of a cysteine proteinase inhibitor gene from Jatropha curcas confers enhanced tolerance to salinity stress. Electronic Journal of Biotechnol0gy, 2015,18: 368-375.   \n[27] Solomon M, Belenghi B, Delledonne M, et al. The Involvement of Cysteine Proteases and Protease Inhibitor Genes in the Regulation of Programmed Cell Death in Plants.The Plant Cell, 1999, 11: 431-443.   \n[28] 高宝嘉，李川，刘军侠.转抗虫基因林木在害虫控制中的作用与合理利用途径．河北农 业大学学报，2003，26(4):25-28.   \nGao B J, Li C, Liu J X. The effect of transgenic insect-resistant forst plant on the insect pest control and its approach of reasonable utilization. Journal of Agricultural University of Hebei, 2003, 26(4): 25-28.   \n[29] Shah D M, Rommens C M T, Beachy R N. Resistance to diseases and insects in transgenic plants: progress and applications to agriculture. Trends in Biotechnology,1995,13(9): 362-368. [30] 谢先芝，黄美娟，吴乃虎．转番茄蛋白酶抑制剂Ⅱ基因烟草植株的培育及其抗虫特性分 析．自然科学进展,2002,12(2):145-150.   \nXie X Z, Huang M J, Wu N H. Cultivation and Insect-resistant Characteristics Analysis of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Transgenic Tomato Protease InhibitorsII Gene in Tobacco Plants. Prog Nat Sci, 2002,12(2): 145-150. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[31] Koiwa H, Shade R E, Zhu-Salzman K, et al.A plant defensive cystatin (soyacystatin) targets cathepsin L-like digestivecysteine proteinases (DvCALs） in the larval midgut of western cornrootworm (Diabrotica virgifera virgifera). FEBS Letters,20o0, 471: 67-70. ",
+        "page_idx": 13
+    }
+]

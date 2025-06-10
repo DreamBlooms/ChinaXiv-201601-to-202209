@@ -1,0 +1,191 @@
+饲粮减少矿物元素对育肥猪生长性能、肉品质、血清生化指标以及骨骼肌矿物元素含量的影响
+
+文超越1,2李 勇3\* 邢伟刚³段叶辉1,4 李颖慧1,4 张宇喆」 李凤娜 1,5\*
+
+（1.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，长沙 410125；2.湖南师范大学生命科学学院，动物营养与人类健康实验室，长沙 410006；3.新希望六和股份有限公司，北京100102；4.中国科学院大学研究生院，北京100049；5.湖南畜禽安全生产协同创新中心，长沙 410128)
+
+摘要：本试验旨在研究饲粮中减少铁、锰、锌、镁和铜5种矿物元素添加量对育肥猪后期生长性能、肉品质、血清生化指标以及骨骼肌矿物元素含量的影响。选用体况良好、体重接近[ $7 6 . 1 7 { \scriptstyle \pm 1 . 5 8 }$ ） $\mathbf { k g } ]$ 的“杜 $\times$ 长 $\times$ 大"三元杂交育肥猪 300头，随机分成3个组，每组10 个重复，每个重复10 头猪，公母各占1/2。对照组饲喂基础饲粮，试验组分别饲喂基础饲粮减少 $30 \%$ 和 $60 \%$ 矿物元素的饲粮。预试期3d，正试期 $3 0 \mathrm { d }$ 。结果表明：与对照组相比，1）饲粮减少 $30 \%$ 和 $60 \%$ 矿物元素对育肥猪的生长性能和肉品质无显著影响（ ${ \cdot } P { > } 0 . 0 5 { \mathrm { : } }$ )；2）饲粮减少 $30 \%$ 和 $60 \%$ 矿物元素，育肥猪血清氨含量显著升高（ $P { < } 0 . 0 5 )$ ；减少 $60 \%$ 矿物元素显著降低血清中总胆固醇的含量（ $_ { , P < 0 . 0 5 ) }$ ，同时有降低血清总蛋白含量的趋势（ $\scriptstyle \cdot { \cal P } = 0 . 0 9$ )；3）饲粮减少 $30 \%$ 矿物元素对育肥猪骨骼肌中各矿物元素含量并无显著影响（ $_ { . \tiny { P > 0 . 0 5 } }$ )，而减少 $60 \%$ 矿物元素使得骨骼肌铜、铁和锰元素含量显著降低（ $( P { < } 0 . 0 5 )$ 。由此得知，育肥猪饲粮中铁、锰、锌、镁和铜元素的含量可减少 NRC(2012)推荐量的 $30 \%$ ，而不会影响育肥猪后期的生长性能和肉品质。
+
+关键词：矿物元素；生长性能；肉品质；血清生化指标；育肥猪中图分类号：S828 文献标识码：A 文献编号：
+
+饲粮中添加高剂量的矿物元素，如铜和锌，能显著提高猪的平均日增重（average dailygain,ADG）和平均日采食量（average daily feed intake,ADFI)[1]，但其中 $8 0 \% { \sim } 9 5 \%$ 被排泄掉，这导致土壤中铜和锌的含量增加，植物与微生物中毒[2]，并通过食物链危害人体健康，成为动物产品贸易技术性壁垒的主要表现形式。在国内，育肥猪阶段减少饲粮中矿物元素添加量的效果未见报道。因此，本试验以育肥猪为研究对象，对比饲粮矿物元素铁、锰、锌、镁和铜减少 $30 \%$ 或 $60 \%$ 的饲喂效果，并对其生长性能、肉品质、血清生化指标及骨骼肌矿物元素含量进行初步考察，以此探索矿物元素减排措施，并为减少环境压力，降低饲养成本，提升社会效益，保障我国生猪养殖行业的可持续发展提供示范。
+
+1 材料与方法
+
+1.1 试验材料BS-190 全自动生化分析仪（深圳迈瑞)；pH计：Matthaus pH Star；色差计：美能达  
+CR-410。
+
+# 1.2 试验动物与分组
+
+试验选用体况良好、体重接近[ $( 7 6 . 1 7 { \pm } 1 . 5 8 \$ ）kg]的“杜 $\times$ 长 $\times$ 大"三元杂交育肥猪300头，采用单因子试验设计，按体重及遗传背景基本一致的原则随机分成3个组，每组10个重复，每个重复10头猪，公母各占1/2。
+
+# 1.3 饲粮及饲养管理
+
+试验采用玉米－豆粕型饲粮，参考NRC（2012）以及猪理想氨基酸模型、应用标准回肠可消化氨基酸体系设计基础饲粮（对照组)，试验组分别在基础饲粮的基础上减少 $30 \%$ 或 $60 \%$ 的铁、锰、锌、镁和铜5种矿物元素的用量，饲粮组成及营养水平见表1。
+
+饲养采用漏缝塑料地板，不锈钢可调式料槽，鸭嘴式饮水器。每天清洗代谢笼及地面，猪舍每周喷雾消毒1次。每天观察并记录猪只的健康状况。试验全程采用颗粒料饲喂，自由采食和饮水。试验预试期3d，正试期 $3 0 \mathrm { d } .$
+
+表1饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the diets (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验1组 Test group 1</td><td>试验2组 Test group 2</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>豆粕 Soybean meal</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>玉米Corn</td><td>37.03</td><td>37.03</td><td>37.03</td></tr><tr><td>白小麦 White wheat</td><td>31.00</td><td>31.00</td><td>31.00</td></tr><tr><td>麸皮Wheat bran</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>米糠粕 Rice bran meal</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>猪油 Lard oil</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>石粉CaCO3</td><td>1.05</td><td>1.05</td><td>1.05</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>小苏打 NaHCO3</td><td>0.80</td><td>0.80</td><td>0.80</td></tr></table></body></html>
+
+<html><body><table><tr><td>氯化胆碱 Choline chloride（50%）</td><td>0.06</td><td>0.06</td><td>0.06</td></tr><tr><td>防霉剂 Antimildew agent</td><td>0.06</td><td>0.06</td><td>0.06</td></tr><tr><td>预混料 Premixl</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient level2</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>12.96</td><td>12.96</td><td>12.96</td></tr><tr><td>粗蛋白质 CP</td><td>13.51</td><td>13.46</td><td>13.57</td></tr><tr><td>碘I</td><td>0.000 02</td><td>0.000 02</td><td>0.000 02</td></tr><tr><td>硒Se</td><td>0.000 02</td><td>0.000 02</td><td>0.000 02</td></tr><tr><td>铁Fe</td><td>0.003 90</td><td>0.002 73</td><td>0.00156</td></tr><tr><td>锰Mn</td><td>0.000 21</td><td>0.000 14</td><td>0.000 08</td></tr><tr><td>锌Zn</td><td>0.004 97</td><td>0.003 48</td><td>0.001 99</td></tr><tr><td>镁Mg</td><td>0.040 50</td><td>0.028 35</td><td>0.016 20</td></tr><tr><td>铜Cu</td><td>0.000 30</td><td>0.000 21</td><td>0.000 12</td></tr><tr><td>标准回肠可消化氨基酸 SID amino acids</td><td></td><td></td><td></td></tr><tr><td>精氨酸Arg</td><td>0.73</td><td>0.73</td><td>0.73</td></tr><tr><td>组氨酸His</td><td>0.29</td><td>0.29</td><td>0.29</td></tr><tr><td>异亮氨酸 Ile</td><td>0.43</td><td>0.43</td><td>0.43</td></tr><tr><td>亮氨酸 Leu</td><td>0.92</td><td>0.92</td><td>0.92</td></tr><tr><td>赖氨酸 Lys</td><td>0.73</td><td>0.73</td><td>0.73</td></tr><tr><td>蛋氨酸 Met</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>半胱氨酸Cys</td><td>0.23</td><td>0.23</td><td>0.23</td></tr><tr><td>蛋氨酸+半胱氨酸Met+Cys</td><td>0.42</td><td>0.42</td><td>0.42</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.53</td><td>0.53</td><td>0.53</td></tr><tr><td>苏氨酸 Thr</td><td>0.46</td><td>0.46</td><td>0.46</td></tr><tr><td>色氨酸Try</td><td>0.13</td><td>0.13</td><td>0.13</td></tr><tr><td>氨酸Val</td><td>0.52</td><td>0.52</td><td>0.52</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provided the following per kg of diets：VA10 400 000 IU，VD 300000IU，VE2 800 IU，VK3400 mg, $\mathrm { V B } _ { 1 } 4 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 8 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 8 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 3 \mathrm { m g }$ ，烟酸niacina $2 \mathrm { g }$ 叶酸 folic acid $1 6 0 ~ \mathrm { m g }$ ，泛酸钙 calcium pantothenate $ { 2 } \mathrm { ~ g ~ }$ ，生物素biotin $1 6 ~ \mathrm { m g }$ ， $\mathrm { C a ( I O _ { 3 } ) _ { 2 } \ 1 5 \ m g }$ ，FeSO4 130mg， $\mathrm { M n S O 4 6 . 5 \ m g }$ ， $Z _ { \mathrm { n O } } ~ 6 2 ~ \mathrm { m g }$ ，Na2SeO3 15 mg， $\mathrm { C u S O 4 } \ 1 2 \ \mathrm { m g }$ ， $\mathrm { M g S O 4 0 . 2 7 ~ m g }$ ，抗氧化剂 antioxidants$5 0 0 ~ \mathrm { m g }$ 。
+
+2)计算值 Calculated values。
+
+# 1.4样品的采集与处理
+
+试验结束时，每组随机选取10头猪进行采血，并运往当地屠宰场（山东银宝）进行屠宰和样品采集。
+
+# 1.5 指标测定及其方法
+
+# 1.5.1 生长性能
+
+试验猪分别于正试期开始、结束当天08：00空腹称重，前1天晚上20：00断料，回收剩料，计算ADG、ADFI和料重比（F/G）。
+
+# 1.5.2 肉品质
+
+试验猪屠宰后，首先测定胴体平均背膘厚，之后取右侧胴体第6\~7肋骨处背最长肌检测肉品质。测定 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ 时肌肉的 $\mathsf { p H }$ ( $\mathrm { \ p H } _ { 4 5 \operatorname* { m i n } }$ 和 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ )；测定肉色[亮度 $( \mathrm { L } ^ { * } )$ 、红度(a\*)和黄度 $( { \mathfrak { b } } ^ { * } ) ]$ ；测定蒸煮损失，先用电子天平将肉样称重 $( W _ { 0 }$ )，再将肉样放入陶瓷碗容器内，待蒸锅水沸腾后将肉样放入，蒸煮 $4 5 \mathrm { m i n }$ ，取出肉样吊挂于室内无风阴凉处， $3 0 \mathrm { m i n }$ 后再次对肉样称重（ $W _ { 1 } ^ { \mathrm { ~ \small ~ . ~ } }$ )，计算公式如下：
+
+蒸煮损失 $( \% ) \ { = } 1 0 0 { \times } W _ { 1 } / W _ { 0 } .$ 0
+
+# 1.5.3 血清生化指标
+
+试验动物在试验结束当天每组随机选择6头猪，于08：00空腹前腔静脉采血 ${ 5 } \mathrm { m L }$ ，倾斜放置，血清析出后经 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ ，收集血清并分装于EP 管中， $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 低温冻存。使用深圳迈瑞BS-190 全自动生化分析仪测定血清生化指标，试剂盒均购自南京建成生物工程研究所。
+
+# 1.5.4骨骼肌矿物元素含量
+
+取背肌 $\boldsymbol { 5 } \mathrm { g }$ 左右，经烘干、炭化处理后在马弗炉中 $5 5 0 \ \mathrm { ~ \textdegree ~ }$ 灰化5h，用稀酸溶解并用双蒸水定容，使用电感耦合等离子体发射光谱仪（ICP-OES）测定铁、锰、锌、镁和铜元素含量。
+
+# 1.6 数据统计与分析
+
+试验数据采用 SAS9.1统计软件进行单因子方差分析（one-wayANOVA）和Duncan氏多重比较，以 $P { < } 0 . 0 5$ 为差异显著性标准， $\scriptstyle P < 0 . 1 0$ 为具有差异显著性趋势。
+
+# 2 结果与分析
+
+2.1 饲粮减少矿物元素对育肥猪生长性能和肉品质的影响
+
+由表2、表3可知，与对照组相比，饲粮减少 $30 \%$ 或 $60 \%$ 铁、锰、锌、镁和铜5种矿物元素对育肥猪的生长性能和肉品质无显著影响（ $( P { > } 0 . 0 5 )$ 。
+
+# 表2饲粮减少矿物元素对育肥猪生长性能的影响
+
+Table 2Effects of reducing dietary trace mineral elements on growth performance of the finishing pigs   
+
+<html><body><table><tr><td>项目Items</td><td>对照组</td><td>试验1组</td><td>试验2组</td><td>SEM</td><td>P值 P-value</td></tr><tr><td></td><td>Control group</td><td>Test group 1</td><td>Test group 2</td><td></td><td></td></tr></table></body></html>
+
+表3饲粮减少矿物元素对育肥猪肉品质的影响  
+
+<html><body><table><tr><td>始重Initial</td><td>76.58</td><td>76.16</td><td>75.79</td><td>0.67</td><td>0.71</td></tr><tr><td>weight/kg 末重Final</td><td>106.09</td><td>104.52</td><td>105.23</td><td>1.14</td><td>0.63</td></tr><tr><td>weight/kg 平均日增重</td><td>776.73</td><td>747.07</td><td>774.58</td><td>25.80</td><td>0.67</td></tr><tr><td>ADG/(g/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td>2 610.54</td><td>2 563.88</td><td>2 611.21</td><td>45.35</td><td>0.70</td></tr><tr><td>ADFI/(g/d)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td>3.37</td><td>3.43</td><td>3.38</td><td>0.07</td><td>0.76</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ),不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+Table 3Effects of reducing dietary trace mineral elements on meat quality of the finishing pigs   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>试验1组 Test group 1</td><td>试验2组 Test group 2</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>72.94</td><td>71.90</td><td>69.14</td><td>0.89</td><td>0.14</td></tr><tr><td>背膘厚Backfat thickness/mm</td><td>19.94</td><td>18.93</td><td>17.33</td><td>1.03</td><td>0.29</td></tr><tr><td>眼肌面积Loin</td><td>30.73</td><td>30.75</td><td>30.01</td><td>1.54</td><td>0.94</td></tr><tr><td>muscle area/cm² pH45 min</td><td>6.61</td><td>6.66</td><td>6.42</td><td>0.11</td><td>0.32</td></tr><tr><td>pH24 h</td><td>5.56</td><td>5.53</td><td>5.48</td><td>0.04</td><td>0.36</td></tr><tr><td>亮度L*</td><td>46.42</td><td>47.63</td><td>46.46</td><td>0.65</td><td>0.35</td></tr><tr><td>红度a*</td><td>14.71</td><td>14.15</td><td>13.91</td><td>0.36</td><td>0.30</td></tr><tr><td>黄度b*</td><td>4.69</td><td>5.05</td><td>4.88</td><td>0.31</td><td>0.72</td></tr><tr><td>蒸煮损失 Cooking loss/%</td><td>46.23</td><td>46.04</td><td>47.40</td><td>0.67</td><td>0.34</td></tr></table></body></html>
+
+2.2 饲粮减少矿物元素对育肥猪血清生化指标的影响
+
+由表4可知，与对照组相比，饲粮减少 $30 \%$ 或 $60 \%$ 铁、锰、锌、镁和铜5种矿物元素，育肥猪血清氨含量显著升高（ $. P { < } 0 . 0 5 )$ ；减少 $60 \%$ 矿物元素显著降低血清中总胆固醇的含量（ $_ { . P < 0 . 0 5 ) }$ ，同时有降低血清总蛋白含量的趋势（ $\scriptstyle P = 0 . 0 9 { \mathrm { . } }$ )。由表5可知，与其他组相比，减少 $60 \%$ 矿物元素有降低血清总抗氧化能力(total antioxidant capacity,T-AOC)的趋势( $\scriptstyle P = 0 . 0 7 .$ ）°饲粮减少矿物元素对育肥猪其他血清生化指标无显著影响（ $\cdot P { > } 0 . 0 5 )$ ）
+
+# 表4饲粮减少矿物元素对育肥猪血清生化指标的影响
+
+Table 4Effects of reducing dietary trace mineral elements on serum biochemical indices of the
+
+finishing pigs   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验1组 Test group 1</td><td>试验2组 Test group 2</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>尿素氮 BUN/(mmol/L)</td><td>3.48</td><td>3.65</td><td>3.15</td><td>0.35</td><td>0.66</td></tr><tr><td>氨AMM/</td><td>45.43b</td><td>69.20a</td><td>63.40a</td><td>6.00</td><td>0.05</td></tr><tr><td>（μmol/L) 总蛋白 TP/(g/L)</td><td>83.52ab</td><td>88.34a</td><td>72.55b</td><td>4.61</td><td>0.09</td></tr><tr><td>高密度脂蛋白 HDL-C/(mmol/L)</td><td>1.25</td><td>1.21</td><td>1.11</td><td>0.07</td><td>0.41</td></tr><tr><td>低密度脂蛋白 LDL-C/(mmol/L)</td><td>1.49</td><td>1.40</td><td>1.30</td><td>0.07</td><td>0.20</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>3.29a</td><td>2.90ab</td><td>2.67b</td><td>0.15</td><td>0.03</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.51</td><td>0.91</td><td>1.02</td><td>0.17</td><td>0.11</td></tr><tr><td>葡萄糖</td><td>5.64</td><td>4.91</td><td>5.54</td><td>0.30</td><td>0.21</td></tr><tr><td>GLU/(mmol/L) 铁 Fe/(μmol/L)</td><td>36.32</td><td>32.33</td><td>32.10</td><td>2.82</td><td>0.51</td></tr><tr><td>高铁血红蛋白</td><td>237.64</td><td>269.92</td><td>269.30</td><td>40.36</td><td>0.86</td></tr><tr><td>MetHb/(g/L) 碱性磷酸酶</td><td>156.32</td><td>161.17</td><td>171.73</td><td>10.32</td><td>0.57</td></tr></table></body></html>
+
+表5饲粮减少矿物元素对育肥猪血清抗氧化能力的影响
+
+Table 5Effects of reducing dietary trace mineral elements on serum antioxidant ability of the finishing pigs   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>试验1组 Test group 1</td><td>试验2组 Test group 2</td><td>SEM</td><td>P值 P-value</td></tr><tr><td>总抗氧化能力 T- AOC/(U/mL)</td><td>1.70</td><td>1.69</td><td>0.58</td><td>0.36</td><td>0.07</td></tr><tr><td>谷胱甘肽 GSH/(μmol/L)</td><td>229.46</td><td>244.71</td><td>158.61</td><td>47.87</td><td>0.59</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>66.70</td><td>79.01</td><td>70.58</td><td>5.94</td><td>0.38</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>7.80</td><td>7.83</td><td>7.30</td><td>0.17</td><td>0.11</td></tr></table></body></html>
+
+2.3 饲粮减少矿物元素对育肥猪骨骼肌矿物元素含量的影响
+
+由表6可知，与对照组相比，试验1组育肥猪骨骼肌中各矿物元素含量差异不显著（ $_ { \cdot P > 0 . 0 5 } )$ ，而试验2组育肥猪骨骼肌铜、铁和锰元素含量显著降低（ $_ { . } { P \mathrm { < } 0 . 0 5 } )$ 。
+
+# 表6饲粮减少矿物元素对育肥猪骨骼肌矿物元素含量的影响
+
+Table 6Effects of reducing dietary trace mineral elements on mineral content in skeletal   
+
+<html><body><table><tr><td colspan="3">muscle tissue of the finishing pigs</td><td colspan="3">mg/kg</td></tr><tr><td>项目</td><td>对照组</td><td>试验1组</td><td>试验2组</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>Test group 1</td><td>Test group 2</td><td></td><td>P-value</td></tr><tr><td>铁Fe</td><td>4.75a</td><td>3.00ab</td><td>1.90b</td><td>0.84</td><td>0.07</td></tr><tr><td>锰Mn</td><td>0.06a</td><td>0.03ab</td><td>0.02b</td><td>0.01</td><td>0.08</td></tr><tr><td>锌Zn</td><td>11.95</td><td>10.02</td><td>9.24</td><td>1.14</td><td>0.25</td></tr><tr><td>镁Mg</td><td>105.23</td><td>97.65</td><td>88.74</td><td>22.19</td><td>0.73</td></tr><tr><td>铜Cu</td><td>0.34a</td><td>0.30a</td><td>0.08b</td><td>0.07</td><td>0.04</td></tr></table></body></html>
+
+3讨论
+
+有调查表明，铜和锌总量的 $9 5 \%$ 以上随畜禽粪便排出体外[3],猪粪中铜的平均含量为830$\mathrm { m g / k g }$ ，锌的平均含量为 $1 0 6 4 \mathrm { m g / k g ^ { [ 4 - 5 ] } }$ ，这危及农产品安全和人体健康，同时也表明饲粮中微量元素可能过量添加。在猪的生长育肥阶段不添加矿物元素预混料，对猪的影响并不一致。部分研究显示，不添加矿物元素预混料能显著降低育肥猪胴体长度和后腿重量，显著增加第10 肋背膘厚[]，而对肌间脂肪和硬度却没有影响[7]，有降低a\*的趋势[8]；而在 NRC（2012)标准上减少 $50 \%$ 的矿物元素添加量对猪的生长性能和肉品质均没有影响[9]。因此，本研究选择在NRC（2012）的标准上分别降低 $30 \%$ 和 $60 \%$ 的矿物元素添加量，考察其对生长性能和肉品质的影响，以期对畜禽废弃物污染治理提供数据支持。
+
+3.1 饲粮减少矿物元素对育肥猪生长性能和肉品质的影响
+
+长期应用矿物元素的商业推荐量，对肝脏的结构和代谢功能造成损伤[10]。在育肥后期，屠宰前30 天左右，在玉米-豆粕型饲粮中不添加矿物元素，对猪的生长性能没有显著影响[67]，这与本试验结果相符合，且使用高梁-豆粕型饲粮也有相似的结果[1]。但随着停止添加矿物元素时间的延长，有降低 ADG 的趋势[12]，并显著增加ADFI[8]。其他的研究则显示，在育肥猪饲粮中停止添加矿物元素对背膘厚的影响并不一致，部分研究表明对背膘厚没有影响[7-9,13]，也有研究表明可增加背膘厚[5]，推测与试验动物的初始体重差异较大有关。减少或不添加矿物元素对猪背最长肌的颜色没有影响[9]，减少[9]或停饲矿物元素[13]对猪眼肌面积没有影响，这与本试验结果一致，这提示我们在育肥后期可减少矿物元素的添加量，节约饲养成本，提高饲养效率，并减少育肥猪后期排泄物对环境的压力。
+
+# 3.2 饲粮减少矿物元素对育肥猪血清生化指标的影响
+
+铁、锰、锌、镁和铜作为体内酶的组成成分或者活化因子而发挥营养生理作用[14]。研究表明，锌的水平（0、40、80、 $1 2 0 ~ \mathrm { m g / k g }$ ）对育肥猪血清中T-AOC 没有显著影响[15]，推测锌不是影响血清T-AOC 的关键元素；低铜添加水平对血清T-AOC 产生显著不良影响[16]；随着铁元素添加量的减少，血清 T-AOC 水平显著降低，但与周龄有关[17]；锰的添加量影响超氧化物歧化酶（superoxide dismutase，SOD)的活性[18-19]；镁是红细胞中谷胱甘肽（glutathione,GSH）合成及其生物合成所需 ATP的必需辅助因子，对 SOD、过氧化氢酶活性和GSH含量都有显著影响[20]。上述结果与本试验试验组血清 T-AOC 有降低的趋势结果一致，说明各矿物元素之间相互关联、共同作用，与血清生化指标联系密切。有研究显示，随着铜添加量的减少，血清中总胆固醇的含量显著升高[21]，而随着锰水平的降低，总胆固醇含量有降低的趋势[22]，这表明锰和铜在调节总胆固醇含量上具有拮抗作用。精氨酸酶参与尿素的形成，每分子的精氨酸酶含有4分子的锰离子（ $\mathbf { M } \mathbf { n } ^ { 2 + }$ )，锰缺乏可引起精氨酸酶活性降低，从而导致血氨含量升高[23]。本研究结果显示，饲粮减少 $60 \%$ 矿物元素用量，血清氨含量显著升高，血清总蛋白含量也有降低的趋势，说明蛋白质的合成代谢下降，可能与缺乏微量元素，从而影响代谢途径中关键酶的活性有关。因此，在育肥猪后期饲粮矿物元素减少 $60 \%$ 是否可行仍有待进一步证实。
+
+3.3 饲粮减少矿物元素对育肥猪骨骼肌矿物元素含量的影响
+
+饲粮中不添加矿物元素，有降低锌在肌肉中积累的趋势；不添加矿物元素，导致肝脏中铁、铜、锰、锌富集[14]，这可能是由于机体的保护机制导致。而本试验中减少矿物元素的添加对骨骼肌中锌含量没有影响，可能与减少矿物元素添加量不同有关；随着铜添加量的减少，在体内的留存也显著减少[21]，而随着停止添加矿物元素时间的延长，铜在大腿肌肉中的含量也显著降低[12]，粪便中铜、锌、锰和铁的含量显著降低[24-25]，推测粪便中矿物元素的含量在一定程度上也能反映骨骼肌中矿物元素的含量情况，这与本试验结果基本一致。
+
+# 4结论
+
+育肥猪后期饲粮减少推荐量 $30 \%$ 的铁、锰、锌、镁和铜等矿物元素并不影响其生长性能、肉品质和血清生化指标；减少推荐量的 $60 \%$ ，育肥猪的生长性能和肉品质不受影响。原因是减少矿物元素添加量后，其在肠道中的吸收率提高，肝脏中富集的矿物元素部分释放。饲粮矿物元素的高效低排问题，需要我们进一步探讨其最佳营养添加模式。
+
+参考文献：
+
+[1]刘晓波,罗绪刚,张荣强.高剂量铜对猪促生长作用机理的研究进展[J].动物营养学报,1997,9(3):1-6.
+
+[2] JONDREVILLE C,REVY P S,DOURMAD J Y.Dietary means to beter control the environmental impact of copper and zinc by pigs from weaning to slaughter[J].Livestock
+
+Production Science,2003,84(2):147-156.
+
+[3] CANG L,WANG Y J,ZHOU D M,et al.Heavy metals pollution in poultry and livestock feeds and manures under intensive farming in Jiangsu province,China[J].Journal of Environmental Sciences,2004,16(3):371-374.
+
+[4] 程海翔,贾秀英,朱维琴,等.杭州地区猪粪重金属含量及形态分布的初步研究[J].杭州师范大学学报:自然科学版,2008,7(4):294-297.
+
+[5] 董占荣,陈一定,林咸永,等.杭州市郊规模化养殖场猪粪的重金属含量及其形态[J].浙江农业学报,2008,20(1):35-39.
+
+[6] SHELTON JL,SOUTHERN LL,LEMIEUX F M,et al.Effects of microbial phytase,low calcium and phosphorus,and removing the dietary trace mineral premix on carcass traits,pork quality,plasma metabolites,and tissue mineral content in growing-finishing pigs[J].Journal of Animal Science,2004,82(9):2630-2639.
+
+[7] MAVROMICHALIS I,HANCOCK J D,KIM I H,et al.Effects of omitting vitamin and trace mineral premixes and (or） reducing inorganic phosphorus additions on growth performance,carcass characteristics,and musclequality in finishingpigs[J].Journal of Animal Science,1999,77(10):2700-2708.
+
+[8] MA Y L,LINDEMANN M D,CROMWELL G L,et al.Evaluation of trace mineral source and preharvest deletion of trace minerals from finishing diets for pigs on growth performance,carcass characteristics,and pork quality[J].Journal of Animal Science,2012,90(11):3833-3841.
+
+[9] GOWANLOCK D W,MAHAN D C,JOLLIFF J S,et al.Evaluating the NRC levels of Cu,Fe,Mn,and Zn using organic minerals for grower-finisher swine[J].Journal of Animal Science,2013,91(12):5680-5686.
+
+[10] PU J N,TIAN G,LI B,et al.Trace mineral overload induced hepatic oxidative damage and apoptosis in pigs with long-term high-level dietary mineral exposure[J].Journal of Agricultural and Food Chemistry,2016,64(8):1841-1849.
+
+[11] MCGLONE JJ.Deletion of supplemental minerals and vitamins during the late finishing period doesnotaffectpigweightgain and feed intake[J].JournalofAnimal Science,2000,78(11):2797-2800.
+
+[12] EDMONDS M S,ARENTSON B E.Effect of supplemental vitamins and trace minerals on performance and carcassqualityinfinishingpigs[J].JournalofAnimal
+
+Science,2001,79(1):141-147.
+
+[13] BURKETT JL,STALDER K J,POWERS W J,et al.Effect of inorganic and organic trace mineral supplementation on the performance,carcass characteristics,and fecal mineral excretion of phasefed,grow-finish swine[J].Asian-Australasian Journal of Animal Sciences,2009,22(9):1279-1287.   
+[14]杨凤.动物营养学[M].2版.北京:中国农业出版社,1999:108-117.   
+[15]刘婉盈.不同锌源及水平对肥育猪生长性能、血液指标、组织沉积及胰脏MTmRNA 表 达的影响[D].硕士学位论文.杭州:浙江师范大学,2013:1-2.   
+[16] 滑静,王晓霞,杨佐君,等.硫酸铜对产蛋鸡抗氧化能力的影响[J].中国畜牧杂 志,2003,39(1):17-18.   
+[17] 张利环,张春善,王博,等.铁和维生素A及其互作效应对产蛋鸡生产性能和血清抗氧化指 标的影响[J].农学学报,2011,1(5):32-39.   
+[18] 王宝维,张雪君,葛文华,等.锰对 1\~4 周龄五龙鹅生长性能、屠宰性能、胫骨发育及酶活 性的影响[J].动物营养学报,2014,26(4):877-884.   
+[19] 张雪君,王宝维,葛文华,等.锰对 5\~16 周龄五龙鹅生长性能、屠宰性能、营养物质利用率 及酶活性的影响[J].动物营养学报,2014,26(1):106-114.   
+[20] 李宗付,陈代文,余冰.镁的抗氧化功能及其作用机制[J].饲料工业,2006,27(6):42-46.   
+[21] WU X Z,LIU Z,GUO J G,et al.Influence of dietary zinc and copper on apparent mineral retention and serum biochemical indicators in young male mink (Mustela vison)[J].Biological Trace Element Research,2015,165(1):59-66.   
+[22] 任海英.饲粮不同锰水平对蛋雏鸭生产性能及生化指标的影响[D].硕士学位论文.哈尔滨: 东北农业大学,2004:37-38.   
+[23] BROCK A A,CHAPMAN S A,ULMAN E A,et al.Dietary manganese deficiency decreases rat hepatic arginase activity[J].Journal of Nutrition,1994,124(3):340-344.   
+[24] CREECHB L,SPEARS JW,FLOWERS WL,et al.Effect of dietary trace mineral concentration and source (inorganic vs.chelated) on performance,mineral status,and fecal mineral excretion in pigs from weaning through finishing[J].Journal of Animal Science,2004,82(8):2140-2147.   
+[25] LIU B,XIONG P W,CHEN N N,et al.Effects of replacing of inorganic trace minerals by organically bound trace minerals on growth performance,tissue mineral status,and fecal mineral excretion in commercial grower-finisher pigs[J].Biological Trace Element Research,2016,173(2):316-324.
+
+Effects of Reducing Dietary Trace Mineral Elements on Growth Performance, Meat Quality, Serum Biochemical Indices and Mineral Content in Skeletal Muscle Tissue of Finishing Pigs WEN Chaoyue1,2LI Yong3\*XING Weigang³DUAN Yehui1,4LI Yinghui1.4ZHANG YuzhelLI Fengnal1,5\*
+
+(1. Key Laboratory of Agro-Ecological Processes in Subtropical Region, Institute of Subtropical Agriculture, Chinese Academy of Science, Changsha 410125, China; 2. Laboratory of Animal Nutrition and Human Health, School ofLife Sciences,Hunan Normal University, Changsha 410006, China; 3. New Hope Liuhe Company Limited, Beijing 100102, China; 4. University of Chinese Academy of Science, Beijing 100049, China; 5. Hunan Co-Innovation Center of Animal Production Safety, CICAPS, Changsha 410128, China)
+
+Abstract: This study was conducted to determine the effects of reducing dietary trace mineral elements such as Fe, Mn, Zn， Mg and Cu on growth performance,meat quality and serum biochemical indices and mineral content in skeletal muscle tissue of finishing pigs.A total of 300 crossbred (Duroc×LandracexLarge White) finishing pigs with initial body weight of $( 7 6 . 1 7 { \pm } 1 . 5 8 )$ （20 kg were allotted to 3 groups with 1O replicates and 10 pigs in each replicate (half male and half female). Pigs in the control group were fed a basal diet, and in experimental groups were fed basal diets with $30 \%$ and $60 \%$ reduction of the trace mineral elements.The trial lasted for 3O days after 3 days of adaption. The results showed as follows: compared with control group,1) no significant differences were observed in growth performance or meat quality of pigs by reducing $30 \%$ and $60 \%$ （204号 trace mineral elements $( P { > } 0 . 0 5 )$ . 2) $30 \%$ and $60 \%$ reduction of the mineral elements significantly increased serum ammonia content $( P { < } 0 . 0 5 )$ ，while $60 \%$ reduction significantly decreased serum total cholesterol content $( P { < } 0 . 0 5 )$ and tended to decrease serum total protein content $\scriptstyle ( P = 0 . 0 9$ of pigs. 3） Meanwhile, the $30 \%$ reduction did not significantly affect the contents of trace mineral elements in skeletal muscle tissue of finishing pigs $( P { > } 0 . 0 5 )$ , but for the $60 \%$ reduction, the contents of Cu, Fe and Mn were decreased significantly $( P { < } 0 . 0 5 )$ . In conclusion, it is available that a dietary level of Fe, Mn, Zn, Mg and Cu can be reduced by $30 \%$ based on the NRC (2012) requirement with no negative effects on the growth performance or meat quality of finishing pigs.
+
+Key words: trace mineral elements; growth performance; meat quality; blood biochemical indices; finishing pig
+
+# C hinaXiv合作期刊

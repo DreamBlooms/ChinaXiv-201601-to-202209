@@ -1,0 +1,342 @@
+# 基于视觉感知的快速雾天图像清晰度复原
+
+付辉，吴斌，张红英(西南科技大学 信息工程学院，四川 绵阳 621000)
+
+摘要：针对雾霾恶劣天气状况下获取的图像视觉效果差,提出了一种基于视觉感知的快速雾天图像清晰度复原方法，测算大气光学物理模型的两个重要参量。首先采用阈值分割结合二叉树分割的方法拟合较为精准的大气光值，进而采用自适应各向异性型高斯滤波与色调调整方法优化透射率。与算法[1，3，5，8]实验结果表明，所提算法的去雾效果图效果饱和清晰，能够保留清晰的边缘细节和较高的对比度，算法的处理效率高，能满足实际应用需求。
+
+关键词：视觉感知；阈值分割；二叉树；高斯；色调调整 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.03.0191
+
+# Fast fog image restoration based on visual perception
+
+Fu Hui, Wu Bin, Zhang Hongying (SchoolofInformationEngineeing,SouthwestUniversityofScience&Technology,Mianyang Sichuan61,China)
+
+Abstract: Underbad weatherconditions,suchas heavy haze,the visualeffectofobtained images ispoor.This paperproposeda fastrestoration methodof haze images based on visual perception,and measured two important parameters of atmospheric opticalphysicalmodel.Firstlyinordertofitelativelyaccurateatmosphericlightvalue,thispaperusedthresholdsgtation combined withbinarytreesegmentationmethod,andthenadoptedadaptiveGausianfilteringandtoneadjustmentmethods to optimizethetransmitance.TheexperimentalresultsshowthatIncomparisonwiththealgorithm[1,3,5,8],thefectiveess of the dehazingresultsofouralgorithmissaturatedandclear.Besides,italsocanretainclearedge details,highcontrast,high processing efficiency and can meet the actual application requirements.
+
+Key words: visual perception; threshold segmentation; binary tree; Gaussian; tone adjustment
+
+# 0 引言
+
+智能视觉图像处理系统被广泛地运用于视频监测、智能化驾驶与城市交通等领域。但雾天状态下所获取的图像往往严重降质，清晰度效果和对比度差，并很难避免失真和色偏等状况，对智能视觉图像处理系统的户外应用产生不利影响。因此，本文给出一种能适用于大多数实际图像应用设备，并具有显著运用价值的图像处理技术。
+
+近年来，图像去雾取得了明显的进展。He等人[1提出著名的基于暗通道先验的假定，并根据观察去雾后图像的像素值存在至少一个颜色通道接近于零的结果估测透射率。暗通道先验方法能够取得好的去雾效果，但该方法不能够很好地处理和大气光相近的过亮区域。很多在暗原色方法基础上改进的方法被提出[2.3]，采用暗原色模型处理后的透射率并不平滑，并存在大量的图像噪声。姜德晶等人[4]在研究Tarel[5]方法的颜色衰减先验条件基础上构建了一维模型，并给出景深估计的方程；然而谢方法的形式并不固定，而且其散射指标并不适用于全部图像。郭璠等人[结合白平衡策略与监督式机器学习方法导出透射率。此外，Rizzi等人7提出了一种适应于单幅图像处理的方法，然而该去雾结果被限定在存在问题的模式中。这是基于物理模型的绝大多数去雾方法普遍存在的缺陷，即非均匀光照下的图像往往整体对比度低。Galdran 等人[8提供了一种基于Finlayson等人[9]的常规和低级特征基础下的灰色调算法。上述算法的常见缺点是不能够消除给定参量的缺陷。在Roomi等人[10]的方法中，采用人工神经网络处理其图像集。实验表明，该方法对浓雾区失效。
+
+本文受到上述方法的启示，提出了一种大气光学物理模型的新型去雾方法，并将其划分为两个板块。在第一个板块中，本文采用阈值分割结合二叉树分割的方法得到大气光值。该方法可提高在大气光学物理模型中求取参数的精准度。在第二个板块中，本文利用自适应各向异性型高斯滤波和色调调整处理透射率，改进方法的效率高，图像去雾效果好，与现有的主流去雾方法对比，改进方法能够得到更优质的视觉效果和颜色保真度。
+
+# 1传统的暗原色先验方法
+
+与那些仅考虑视觉效果的方法对比，物理模型的应用能够提升结果精准度。因而在计算机图像和视觉应用系统中，大气光学物理模型[被广泛地运用在描述雾天图像特征中，并被进一步划分为衰减和散射模型，如图1和2所示，并用式（1）表示。
+
+$$
+V ( x , y ) = R ( x , y ) t ( x , y ) + A ( 1 - t ( x , y ) )
+$$
+
+其中： $( \mathbf { \boldsymbol { x } } , \mathbf { \boldsymbol { y } } )$ 代表一个像素的位置； $V ( \mathbf { x } , \mathbf { y } )$ 则表述观察得到的雾天图像像素值； $R ( \mathbf { x } , \mathbf { y } )$ 表示无雾图像的场景光值，表明场景点在观察者视角的反射率； $A$ 表述大气光值，通常指图像中像素值最大的点。
+
+在式(1)中，图像降质的本质因素能够分成两个板块，即：a)衰减模块 $R ( x , y ) t ( x , y )$ ，该板块的衰减程度随景深变化而变化；b)散射模块 $H ( x , y ) = A ( 1 - t ( x , y ) )$ ，该板块可对图像对比度产生影响，并由此带来图像模糊的情况。
+
+8 多距离镜头 景物
+
+透射比率 $t ( x , y )$ 能采用式(2)进一步表示，并假定大气的气体介质是固定的。 $d ( x , y )$ 能表示取景点距成像设备之间的距离，即景深值。
+
+$$
+t ( x , y ) = e ^ { - \beta d ( x , y ) }
+$$
+
+Tarel提出散射板块应实现的两个基准：a)假定图像全部像素点的散射模块取值都高于零；b)假定散射模块的取值均小于或等于有雾图像的RGB三通道最小值。综合式子(1)与(2)可知，大气散射板块和全球大气光值及景深模块相关。此外，Tarel研究表明大气散射部分存在大量边缘，若对图像整体完成平滑处理，处理之后的效果图将产生“晕轮效应”，因此，大气光学物理模型中的散射模块特点能利用以下下列三点详细描述：
+
+a)大气光模型中的散射部分整体呈现为光滑状态，但在景深突变部分的边缘越发明显；
+
+b)大气光模型中的散射部分的像素点，应高于零并低于RGB三通道的最小结果；
+
+c)散射模块和大气环境中的介质状态与景深直接相关。
+
+# 2 阈值分割获取大气光值A
+
+在很多去雾算法中，对大气光值 $A$ 的估计往往很难避免强视觉区域所带来的镜面反射作用。例如，反射物常被错误地应用在估测大气光值 $\mathbf { \nabla } _ { A }$ 。He等人[1]采用整幅图像中 $1 \%$ 最大像素值作为大气光值A，但该方法得到的A值精准度低。本文采用阈值分割获取大气光值A的大致区域，进而大气光值 $\textbf {  { A } }$ 则通过二叉树方法获得。此外，本文方法的效率也可通过自适应维纳滤波和图像形态学方法估计。
+
+# 2.1 锁定天空区域
+
+阈值分割[12]方法的目标是把前景物从背景中分离，从而得到大气光值的大致区域。因此阈值分割方法的重要步骤即阈值的选择。从先验信息可得，天空模块的像素结果逼近于210左右，因而本文采用简单阈值分割方法能节约处理时间，并能够避免大部分阈值分割策略常见的处理效率问题。本文采用灰度阈值分割策略，即采用给定阈值把图像分割为前景与背景两个板块。即将图像转换为灰度图像，再利用单个灰度级产生的概率制作直方图。将初始图像设定为 $V ( x , y )$ ，分割图像设定为$V _ { 1 } ( x , y )$ ， $T$ 为设置阈值，基本计算式可表达如下：
+
+$$
+V _ { 1 } ( x , y ) = \{ { 1 \atop 0 } V _ { 1 } ( x , y ) < T
+$$
+
+设置阈值为150、200和210，如图2给出，可将天空部分s 和前景完成分离。
+
+![](images/5240ab34d649459f286d88e834047c38267f6104f575b83ccca1efff1b3d780f.jpg)  
+图1大气光散射模型  
+图2阈值分割模型
+
+# 2.2精准地估测大气光值A
+
+为精准地获取大气光值 $A$ ，本文进一步采用二叉树[13]模型分割。该方法的基本操作是将天空区域 $s _ { 1 }$ 分割为两个相等的部分，设定为 $^ { s _ { 2 1 } }$ 和 $s _ { 2 2 }$ ，进而测算这两个部分的灰度平均值、对比灰度平均值，将灰度平均值较大的部分设定为 $\overset { - } { s } _ { 2 1 }$ ，另一个部分则设定为 $\overset { - } { s } _ { 2 2 }$ ，选择区域 $^ { s _ { 2 1 } }$ 进一步采用相同的过程分割为两个子部分。对比最大灰度平均值 $\overset { - } { S } _ { n 1 }$ 和255的差值 $d$ ，重复上述步骤，直到 $d$ 值满足小于给定的阈值t，因而 $\overset { - } { s } _ { n 1 }$ 即为大气光值，如式（11）和（12）所示，二叉树分割过程如图3给出。
+
+$$
+d = \left| 2 5 5 - ^ { ^ { - } } s _ { n 1 } \right|
+$$
+
+$$
+\left\{ \begin{array} { l l } { { \bf { \Phi } } _ { A = s _ { n 1 } } } & { d < t } \\ { { \bf { \Phi } } _ { A \ne s _ { n 1 } } } & { d \geq t } \end{array} \right.
+$$
+
+![](images/6b1eb1fc2a310c45c9413e081fca42beb432851a1eb3e87cdb9dcf7a22857dc3.jpg)  
+图3阈值分割模型
+
+# 3 各向异性型高斯滤波优化大气光值A
+
+伴随景物和观测者间的距离不断增加，大气光值 $A$ 对图像的影响也随之增加，而从人眼视觉的角度来说，表现为图像随雾气浓度增加而亮度增大。结合上述雾天图像的先验知识与大气光值 $A$ ，带入式(8)所示的数学模型，则能完成 $t ( { \bf x } , { \bf y } )$ 的粗估计。由于透射率 $t ( { \bf x } , { \bf y } )$ 随景深的变化而呈迅速变化的状态，并在边缘处迅速变化，所以在后续的去雾过程中边缘处易出现晕轮效应。对此，He等人[I采用软抠图算法结合大型矩阵处理透射率，但整个处理过程开销大并且消耗大量处理时间。本文采用各向异性型高斯滤波算法结合色调调整方法优化透射率。
+
+# 3.1原始透射率求解
+
+基于机器图学的视角而言，表明大气光值 $A$ 和 $V ( { \bf x } , { \bf y } )$ 与$R ( \mathbf { x } , \mathbf { y } )$ 具有几何相关性，透射率 $t ( { \bf x } , { \bf y } )$ 代表两条矢量线的比率。
+
+$$
+t ( x , y ) = { \frac { \parallel A - V ( x , y ) \parallel } { \parallel A - R ( x , y ) \parallel } } = { \frac { A ^ { c } - V ( x , y ) } { A ^ { c } - R ( x , y ) } } C \in [ R , G , B ]
+$$
+
+暗通道先验(DCP)的提出是基于对大量户外无雾图像的持续观察，发现三组颜色通道存在至少一组的颜色通道像素值极低。基于DCP的定义，本文假定 $R ( \mathbf { x } , \mathbf { y } )$ 是不包含天空区域的无雾图像，因而其暗通道像素值很低并接近于0。
+
+$$
+R ^ { \mathrm { d a r k } } ( x , y )  0
+$$
+
+研究表明图像中呈现出暗通道像素值低的现象主要包括以下三点：阴影（如城市中建筑物或移动车辆的影像）；彩色目标或目标物表面(如绿色植物、红色、黄色或者蓝色目标物);暗物体，这些因素都会使得暗通道的像素值变小。
+
+假定大气光值 $A ^ { \mathrm { { c } } }$ 的三通道已经给定，那么式(1)可通过变量 $A ^ { \mathrm { { c } } }$ 得到式(8)。
+
+$$
+\frac { V ^ { c } ( x , y ) } { A ^ { c } } = t ( x , y ) \frac { R ^ { c } ( x , y ) } { A ^ { c } } + 1 - t ( x , y )
+$$
+
+基于像素的各个颜色通道是相互独立的，因而假定透射率在 $\varOmega ( \mathrm { x } , \mathrm { y } )$ 区间内保持不变，将透射率表述为 $t ( \mathbf { x } , \mathbf { y } )$ ，对暗通道等式两端进行计算。
+
+$$
+\begin{array} { l } { \displaystyle \underset { Z \in \Omega ( x , y ) } { \mathrm { m i n } } ( \operatorname* { m i n } _ { C \in [ r , g , b ] } ( \frac { V ^ { C } ( x , y ) } { A ^ { C } } ) ) = t ( x , y ) } \\ { \displaystyle \underset { Z \in \Omega ( x , y ) } { \mathrm { m i n } } ( \operatorname* { m i n } _ { C \in [ r , g , b ] } ( \frac { R ^ { C } ( x , y ) } { A ^ { C } } ) ) + 1 - t ( x , y ) } \end{array}
+$$
+
+由于 $A ^ { \mathrm { c } }$ 值为正，所以式(10)可推导如下：
+
+$$
+\mathrm { R } ^ { \mathrm { d a r k } } ( x , y ) = \operatorname* { m i n } _ { c \in [ r , g , b ] } ( \operatorname* { m i n } _ { Z \in \Omega ( x , y ) } ( \frac { R ^ { C } ( x , y ) } { A ^ { c } } ) ) = 0
+$$
+
+实际上，透射率 $t ( { \bf x } , { \bf y } )$ 可被计算如下，结合式(5)和(6)，因而可以消除其中的一项， $t ( { \bf x } , { \bf y } )$ 可以表述为
+
+$$
+t ( x , y ) = 1 - \operatorname* { m i n } _ { Z \in \Omega ( x , y ) } { \big ( } \operatorname* { m i n } _ { C \in [ r , g , b ] } ( \frac { V ^ { c } ( x , y ) } { A ^ { c } } ) { \big ) }
+$$
+
+为使去雾结果更加自然并且在景深变化处保留好的效果，本文对远距离目标仍然保留了少量雾气，对式(11)引入 $w _ { 0 }$ 参数进行修正，并将 $w _ { 0 }$ 参量设置为0.95，由此可得
+
+$$
+t ( x , y ) = 1 - w _ { 0 } \operatorname* { m i n } _ { Z \in \Omega ( x , y ) } ( \operatorname* { m i n } _ { C \in [ r , g , b ] } ( \frac { V ^ { C } ( x , y ) } { A ^ { C } } ) ) 0 \leq w _ { 0 } \leq 1
+$$
+
+采用软抠图方法得到优化之后的透射率 $t _ { 1 } ( { \bf x } , { \bf y } )$ $\pmb { U }$ 和 $\textbf { \em L }$ 是具有相同大小的矩阵，将 $\lambda$ 作为修正项，如式(13)所示。
+
+$$
+( L + \lambda U ) t ( x , y ) = \lambda t _ { 1 } ( x , y )
+$$
+
+# 3.2各向异性型高斯滤波算法数学模型
+
+双边滤波与基于各向异性的高斯滤波都能保持图像中的边缘与角点。双边滤波装置需完成加权与均值运算，算法所占用的处理资源过多，算法的处理效率较低。各向异性型高斯滤波存在较好的适应性和鲁棒性，并可保留大量角点与边缘。
+
+现有的高斯滤波模板将原点视为核心，并对 $x$ 与 $y$ 平面完成投影，其投影为圆，式（14）中 $\sigma$ 为尺度， $\theta$ 为方向。传统高斯滤波的数学模型可表示为
+
+$$
+G ( x , y , \delta ) = \frac { 1 } { 2 \pi \delta ^ { 2 } } \exp ( - \frac { 1 } { 2 } ( \frac { x ^ { 2 } + y ^ { 2 } } { \delta ^ { 2 } } ) )
+$$
+
+如果针对 $x , y$ 设置不同的比值，可得各向异性型高斯滤波的数学模型，投影在坐标平面上的形成一个椭圆，可用式(15)表达为
+
+$$
+G ( x , y , \delta _ { x } , \delta _ { y } ) = \frac { 1 } { 2 \pi \delta _ { x } \delta _ { y } } \exp ( - \frac { 1 } { 2 } ( \frac { x ^ { 2 } } { \delta _ { x } ^ { 2 } } + \frac { y ^ { 2 } } { \delta _ { y } ^ { 2 } } ) )
+$$
+
+图4(c)为图4(b)中的椭圆沿 $\mathbf { x }$ 轴和 $\mathbf { y }$ 轴顺时针旋转 $\theta$ 角的状态，可将图像从时域转换到频域之上，其坐标转换模式如式(16)给出。
+
+$$
+{ \left[ \begin{array} { l } { u } \\ { \nu } \end{array} \right] } = { \left[ \begin{array} { l l } { \cos \theta } & { \sin \theta } \\ { - \sin \theta } & { \cos \theta } \end{array} \right] } { \left[ \begin{array} { l } { x } \\ { y } \end{array} \right] }
+$$
+
+将式(16)代入到式(15)完成 $\theta$ 角旋转的数学模型转换，则各向异性型高斯滤波算子如式子（17）给出：
+
+$$
+\begin{array} { c } { { G ( x , y , \delta _ { x } , \delta _ { y } ) = \displaystyle \frac { 1 } { 2 \pi \delta _ { x } \delta _ { y } } \exp \{ - \frac { 1 } { 2 } } }  \\  { { \Bigg [ \displaystyle \frac { ( x \cos \theta + y \sin \theta ) ^ { 2 } } { \delta _ { u } ^ { 2 } } + \frac { \left( - x \sin \theta + y \cos \theta \right) ^ { 2 } } { \delta _ { \nu } ^ { 2 } } \Bigg ] \} } } \end{array}
+$$
+
+![](images/f5ff1be8cdb5193aaae6e738f5349112b2aaf8fbb58c3ecf1d70817bd276cacf.jpg)  
+图4高斯滤波模型
+
+针对图像的各个板块，若各向异性型高斯滤波滤波利用确定比值的尺度因子 $\delta$ 与方向因子 $\theta$ ，若边缘和短轴相一致时，图像被模糊的状态趋向于极大值。因而利用滤波尺度与方向则依据图像的不同特征改变而改变，即本文所应用的滤波方法。
+
+# 3.3自适应各向异性型高斯滤波优化透射率
+
+本文利用自适应各向异性型高斯滤波[14]处理优化透射率时，可完成平滑图像操作的同时，并有效地保留边缘细节。图4(c)中长轴尺度 $\delta _ { \mathrm { u } }$ 可利用式子(18)确定。
+
+$$
+\delta _ { u } { } ^ { 2 } ( x , y ) = 1 / t _ { 1 } ( x , y )
+$$
+
+式(16)中， $x$ 与 $y$ 是雾天图像中的某点像素值的横纵坐标；$t _ { 1 } ( \mathbf { x } , \mathbf { y } )$ 为透射图 $t ( { \bf x } , { \bf y } )$ 的灰度值按灰度级压缩在0\~1间。
+
+本文利用下述规则判定短轴尺寸 ${ \delta _ { \mathrm { v } } }$ ，平滑区域短轴、长轴比值接趋近于1；而边缘区域的短轴、长轴比值趋近于0。因而效果图的平滑度为获取比值的关键点，式(19)给出的灰度方差能够表明透射图的平滑程度。
+
+$$
+\hat { D C } = 1 / M N { \sum } _ { i = 1 } ^ { M } { \sum } _ { j = 1 } ^ { N } ( t _ { 1 } ( i , j ) - \bar { t _ { 1 } } ( i , j ) ) ^ { 2 }
+$$
+
+式(17)的 $M { \times } N$ 是选择的小区域区间， $\bar { t _ { 1 } } ( i _ { 0 } , j _ { 0 } )$ 是该区间的灰度均值。因而此式中的 $\bar { t _ { \scriptscriptstyle 1 } } ( \dot { i } _ { \scriptscriptstyle 0 } , \dot { j } _ { \scriptscriptstyle 0 } )$ 与 $t ( i _ { 0 } , j _ { 0 } )$ 可在 0\~255间求取。 $D C$ 为小区域间方差。由式(20)可获取短轴和长轴间的比值R:
+
+$$
+R = K + D C
+$$
+
+在式(20)中，设定 $K$ 作为比例参数，则短轴尺寸 ${ \delta _ { \mathrm { v } } }$ 可表达为
+
+$$
+\mathcal { S } _ { \nu } = R \bullet \mathcal { S } _ { u }
+$$
+
+自适应高斯型滤波需判定方向 $\theta$ 与比值 $K$ 的结果，即通过转换获取方向角度 $\theta$ 的垂直角 $\theta ^ { \bot }$ 。即利用Guass 函数获取水平与垂直方向上的导数并和雾气图像完成卷积，得到雾气图像位于 $( \mathrm { x } , \mathrm { y } )$ 点的垂直梯度角 $\theta ^ { \bot }$ 。
+
+$$
+E _ { x } = \frac { \partial G ( x , y , \delta ) } { \partial x } * _ { t _ { 1 } ( x , y ) }
+$$
+
+$$
+E _ { y } = \frac { \partial G ( x , y , \delta ) } { \partial y } * _ { t _ { 1 } } ( x , y )
+$$
+
+$$
+\theta ^ { \perp } ( x , y ) = a r c t g \Big [ E _ { y } ( x , y ) / E _ { x } ( x , y ) \Big ]
+$$
+
+而方向角 $\theta$ 和垂直角 $\theta ^ { \bot }$ 间可形成式(25)所给定的关联：
+
+$$
+\theta = \theta ^ { \bot } + 9 0
+$$
+
+把式子(25)代入到式(15)可得
+
+$$
+\begin{array} { l } { { G ( x , y , \delta _ { u } , \delta _ { \nu } , \theta ^ { \bot } ) = \displaystyle \frac { 1 } { 2 \pi \delta _ { u } \delta _ { \nu } } \exp \{ - \displaystyle \frac { 1 } { 2 } } }  \\ { { \displaystyle \left[ \frac { ( x \cos \theta ^ { \bot } + y \sin \theta ^ { \bot } ) ^ { 2 } } { \delta _ { u } ^ { 2 } } + \frac { ( - x \sin \theta ^ { \bot } - y \cos \theta ^ { \bot } ) ^ { 2 } } { \delta _ { \nu } ^ { 2 } } \right] \} } } \end{array}
+$$
+
+式(24)中， $\delta _ { \mathrm { u } } , \delta _ { \mathrm { v } }$ 和垂直梯度角度 $\theta ^ { \bot }$ 能够在上式中获取到，并通过反复实验可知，若 $K$ 值设定为20，则自适应各向异性型高斯滤波能够对透射率的处理效果实现最优，获得最优解的透射率 $t _ { 1 } ( { \bf x } , { \bf y } )$ 。
+
+![](images/5000edfc0f3600b43f7d9bd3f57a5e03b64c6b2eba29a4de23e6ee2e056fb0dc.jpg)  
+图5透射率
+
+![](images/4653c682610da2a6f791751e6a8550f054408526c6c562be9973a33881479d53.jpg)  
+图6透射率
+
+# 3.4清晰化图像复原
+
+在大气光值 $A$ 与透射率已知的情况下，基于式(1)，无雾图 $R ( \mathrm { x } , \mathrm { y } )$ 能够利用式(27)求取。
+
+$$
+R ^ { C } ( x , y ) = \frac { V ^ { C } ( x , y ) - A ^ { C } } { \operatorname* { m a x } \{ t _ { 1 } ( x , y ) , t _ { 0 } \} } + A ^ { C }
+$$
+
+在式（27）中，将 $t _ { 0 }$ 设定为下限值，本文利用经验结果将其设置为0.1。
+
+# 3.5实验结果的色调调整
+
+在雾气环境下，由于大气光的存在和影响，使雾天所拍摄的图像，其整体色彩往往趋近于灰白色，此外，其像素结果和实际状态下的结果对比，往往像素值更高，因而通过去雾清晰化操作后的效果图，其整体亮度结果不高，如图7(b)所示的效果。对实验所得的结果图像完成色调调整可使处理后的结果图，其色度与对比度更加接近于真实结果。
+
+![](images/296c923031b555ea8a485682c6932bed1d794900f0054ec86326ea9ca7d482c0.jpg)  
+图7色调调整
+
+色调调整[15]常常应用于高动态图像处理，该方法首先将高动态图像进行压缩，使之可在低动态的显示屏幕上展现出来。本文应用Drago对数方法完成色调调整，可提高整体图像的明度、细节完整和对比度。在该方法中，映射关系能够展现显示器亮度和场景亮度的关系。
+
+$$
+L _ { d } = \frac { L _ { d \operatorname* { m a x } } \times 0 . 0 1 } { \lg ( L _ { \nu \operatorname* { m a x } } + 1 ) } \bullet \frac { \ln ( L _ { w } + 1 ) } { \ln \{ 2 + [ ( \frac { L _ { w } } { L _ { w } ^ { \operatorname* { m a x } } } ) ^ { \frac { \ln b } { \ln 0 . 5 } } ] \times 8 \} }
+$$
+
+式（26）中， $L _ { \mathrm { d } }$ 为显示器亮度， $L _ { \mathrm { d m a x } }$ 则为显示器的最大亮度，设定 $L _ { \mathrm { d m a x } }$ 为100。参量 $b$ 的设定能够体现亮度高区域像素值的压缩度与该区域细节可见度。若 $b$ 的结果越大，则压缩亮度的情况越严重。本文根据清晰化处理后的去雾效果较暗的状况，在尽可能避免细节丢失的情况下，提升结果图暗区域亮度与对比度。反复实验的结果可知， $b$ 的区间介于 $1 . 3 { \sim } 1 . 6$ ，处理之后的效果达到最佳。根基图7(b)可得，单纯利用算法处理后的结果图整体亮度不高，完成色调调整后如图7(c)所示，亮度值增大，其细节区间更为突出，与真实环境下的无雾清晰化图像效果接近。
+
+# 4 实验结果对比和分析
+
+本文设置了大量实验验证文中方法的有效性。本文方法和对比算法均在MATLAB12a软件上验证。该软件在奔腾(R)D,E6700 GHzCPU8GB内存的电脑上搭建实验环境，其中对比算法[1,3,5]基于物理模型，算法[8]是增强算法。上述方法均有好的去雾效果，实验结果主要通过对比本文方法和以上方法完成。
+
+本文创建图像数据集，其中包括512幅通过网络和设备采集的方法得到的户外图像，包含了丰富的场景，如自然景观、建筑、树、湖、航拍照片，远景和近景。
+
+# 4.1 主观视觉评价
+
+本文选取测试集中不同的雾天图像并将其运用在实验中。图8\~12中的天空区域在各个雾天图像中所占据的比例不同，即从图8的小比例天空区域到图12的大比例天空区域，下文展示了不同场景的去雾效果，场景包括亭台（对比度： $3 2 0 ^ { * } 4 8 0 \$ ),树木（对比度： $4 2 0 ^ { * } 5 5 0$ ），建筑群（对比度： $5 5 0 ^ { * } 6 2 0$ ），楼宇（对比度： $4 8 0 ^ { * } 6 0 0$ ），水巷（对比度： $6 0 0 ^ { * } 7 2 0$ ）。给出本文方法和其他四种去雾方法[1,3,5.8]的结果对比，并分析不同比例天空区域的雾天图像处理效果，其中，(a)是初始有雾图，(b)(c)(d)(e)(f)则是去雾效果。
+
+算法[1的图像效果较暗，并存在不同程度的图像噪声；算法[3]结果泛白，存在光晕状况；算法[5]处理后的图像边缘细节模糊，局部降质状况严重。出现上述问题的原因是由于获得的透射率不够准确，从而在很大程度上扩大了图像噪声和颜色饱和度，而通过算法[8处理后，色偏现象往往出现在天空和非天空交界处产生。本文方法处理后前景颜色鲜亮，并保留了很小比例的雾气使得图像更加真实，同时强调了图像细节。
+
+图8中的天空区域在五幅测试图像中占据的比例最小，各文献方法的处理结果均较为满足人眼视觉感知效果，尤其是本文方法与文献[5]的处理效果更接近于自然状态。但本文方法采用了色调调整，图像整体亮度较优，更好地展示了图像细节。而从图9\~12随着雾天图像的天空比例增大，本文方法的处理效果与各文献方法的处理效果相比，更接近于真实状态，图像细节更加丰满。
+
+![](images/7010bed85b2873cfd69385928c00149d8f6da8999418bc15aae7915e3e8011ee.jpg)  
+图8改进算法和文献算法对比
+
+![](images/2d9eebd658c301c90a6f1684146cacb55f108594afbfd1c90bb7c3a6b5f36274.jpg)  
+图9改进算法和文献算法对比
+
+![](images/090592f28a6182ffba3607a7d3b2b4d57953b13bd6c4efec14c18a26ce6dfbf3.jpg)  
+图10改进算法和文献算法对比
+
+![](images/e990226e58a57052d9344955865b398a115c47d1d7409162bbf6ec9a9b4fb4fd.jpg)  
+图11改进算法和文献算法对比
+
+![](images/2349f8ce6f4d27c88905a20ae9b57671df666cfbfbf9b126313af9d09484e8d0.jpg)  
+图12改进算法和文献算法对比
+
+# 4.2客观评价
+
+本文采用信息熵[16完成本文方法和其他两种方法评价，上诉指标可以用式（29）给出。
+
+$$
+I I E = - { \sum _ { w = 0 } ^ { I - 1 } } \frac { F _ { w } } { M \times N } \mathrm { l o g } \frac { F _ { w } } { M \times N }
+$$
+
+通常而言，图像的信息熵表示一幅图像的信息丰富程度，IIE 结果越大，则表明去雾后的效果更加饱和清晰。从表1、图8\~12可知，本文方法的IIE 效果优于其他两种方法，该现象是由于本文方法带来天空区域的过饱和程度低，并且没有太多不需要的信息。从表1中可知，与其他两种方法对比，本文方法得到较好的IIE指标，并且能够保留清晰的边缘细节和较高的对比度[17]。
+
+表1各方法信息熵对比  
+
+<html><body><table><tr><td>信息熵</td><td>雾天图像</td><td>方法[1]</td><td>方法[3]</td><td>方法[5]</td><td>方法[8]</td><td>本文方法</td></tr><tr><td>Fig.8</td><td>7.23</td><td>7.49</td><td>7.78</td><td>7.32</td><td>7.81</td><td>8.01</td></tr><tr><td>Fig.9</td><td>7.09</td><td>7.35</td><td>7.25</td><td>7.19</td><td>7.56</td><td>7.69</td></tr><tr><td>Fig.10</td><td>6.93</td><td>7.03</td><td>7.13</td><td>7.23</td><td>7.42</td><td>7.59</td></tr><tr><td>Fig.11</td><td>6.15</td><td>6.63</td><td>6.28</td><td>6.93</td><td>6.75</td><td>6.98</td></tr><tr><td>Fig.12</td><td>7.31</td><td>7.85</td><td>7.08</td><td>8.02</td><td>8.15</td><td>8.37</td></tr></table></body></html>
+
+![](images/cdd050361f17139addfc84723f0dc770577a2a91a86fb43970b5b89d1e26ef14.jpg)
+
+# 4.3 时间复杂度
+
+为了检验本文方法在处理时间上的优越性，本文采用多种尺寸的图像进行实验。本文方法和方法[1,3,5,8]对比速率较快，能够满足应用需求，方法[1]效率很差，这是由于该方法采用软抠图处理大型稀疏矩阵，会占用大量计算资源。算法[8]采用ICA方法，该方法执行效率高。
+
+表2各方法效率对比  
+
+<html><body><table><tr><td>分辨率</td><td>方法[1]/ms 方法[3]/ms</td><td></td><td>方法[5]/ms</td><td>方法[8]/ms</td><td>本文方法</td></tr><tr><td>320*480</td><td>15312</td><td>2958</td><td>2548</td><td>1031</td><td>1095</td></tr><tr><td>420*550</td><td>17263</td><td>3126</td><td>2837</td><td>1153</td><td>1209</td></tr><tr><td>480*600</td><td>18963</td><td>3352</td><td>3198</td><td>1298</td><td>1265</td></tr><tr><td>550*620</td><td>20642</td><td>3576</td><td>3352</td><td>1329</td><td>1311</td></tr><tr><td>600*720</td><td>21752</td><td>3723</td><td>3518</td><td>1412</td><td>1438</td></tr></table></body></html>
+
+![](images/c43587f01c9fdc3d97e410391b97fae11dceaf1d73ad8257d08456683e7b0fc9.jpg)  
+图11IIE结果对比  
+各算法处理效率对比  
+图12算法效率对比
+
+# 5 结束语
+
+本文基于大气光学物理模型对未知参量进行估计，包括大气光值 $A$ 和透射率 $t ( x , y )$ ,通过阈值分割方法得到天空区域，进而采用二叉树搜索该区域得到较为精准的大气光值。采用自适应高斯型滤波取代软抠图处理透射率。与方法[1,3,5,8]对比，本文方法更加清晰、自然、有效，但结果存在很小的图像噪声和色偏现象。本文方法尤其适用于天空区域占据较大的图像。在之后的工作中，本文计划将方法应用在动态视频图像处理中。
+
+# 参考文献：
+
+[1]He K, Sun J, Tang X.Guided image filtering [J].IEEE Trans on Software Engineering,2013,35 (6):1397-1409.   
+[2]陈良琴，王卫星.结合暗原色图像参考的单幅图像去雾[J].计算机应 用研究，2017，34(6）:1871-1875.(Chen Liangqin,Wang Weixing. Single image dehazing based on dark colors image reference [J].Application Research ofComputers,2017,34 (6) :1871-1875.)   
+[3]肖进胜，高威，邹白昱，等．基于天空约束暗通道先验的图像去雾[J]. 电子学报,2017,45(2): 98-105.(Xiao Jinsheng,Gao Wei,Zou Baiyu,et al. Image dehazing based on sky-constrained dark channel prior [J]. ACTA Electronica Sinica,2017,45 (2): 98-105.   
+[4]姜德晶，王树臣，曾勇，等．分割映射的单幅彩色图像去雾方法[J]. 光电子·激光,2017,8(7):780-787.(Jiang Dejing,Wang Shuchen, Zeng Yong，et al. Single color image dehazing method based on image segmentation [J]. Journal of Optoelectronics $\cdot$ Laser,2017,8(7):780-787.)   
+[5]Tarel J-P, Hautiere N.Fast visibility restoration from a single color or gray level image [C]//Proc of IEEE International Conference on Computer vision. 2009: 2201-2208.   
+[6] 郭璠，唐珙，蔡自兴．基于融合策略的单幅图像去雾算法[J].通信学 报,2014,35（7） :199-207.(Guo Fan,Tang Jin,Cai Zixing.Single image defogging based on fusion strategy [J]. Journal on Communications,2014, 35 (7） : 199-207.)   
+[7]A.Rizzi,C.Gatta,and D.Marini,“From Retinex to automatic color equalization issues in developing a new algorithm for unsupervised color equation [J]. Journal of Electronic Imaging,2004,1(13): 75-84.   
+[8]A Galdran,J Vazquez-Corral,D Pardo，et al.Fusion-based variational image dehazing[J].IEEE Signal Processing Letters,2017，24 (2）:151- 155.   
+[9]Finlayson G D,Drew M S,Lu C.Entropy minimization for shadow removal [J].International Journal of Computer Vision,20o9,1(85): 35-37.   
+[10]M Roomi,R Bhargavi,S Bhumesh.Visual model based single image dehazing using artificial bee colony optimization [J]. International Journal of Information Sciences & Techniques,2012,8 (2): 68-75.   
+[11] Narasimhan S G,Nayar S K. Chromatic framework for vision in bad weather [C]// Proc of IEEE CVPR00.Washington: IEEE Computer Society,2000: 598-605.   
+[12]申铉京，刘翔，陈海鹏．基于多阈值Otsu准则的阈值分割快速计算[J]. 电子与信息学报,2016,10(3):108-113.(Shen Xuanjing,Liu Xiang,Chen Haipeng.Fast computation of threshold based on multi-threshold otsu criterion[J].Journal of Electronics & Information Technology,20l6,10 (3): 108-113.)   
+[13]卜丽静，张过，陈亚欣．二叉树分层和稀疏约束的 SAR 图像伪彩色编 码[J].遥感信息,2017,4(3):25-32.(Bu Lijing,Zhang Guo,Chen Yaxin. SAR image pseudo-color coding based on binary tree hierarchy and sparse constraints [J]. Remote Sensing Information,2017,4(3): 25-32.)   
+[14]高银，云利军，石俊生，等．基于各向异性高斯滤波的暗原色理论雾天 彩色图像增强算法[J].计算机辅助设计与图形学学报,2015,27（9）： 1701-1706.(Gao Yin, Yun Lijun,Shi Junsheng,et al. Enhancement dark channel algorithm of color fog image based on the anisotropic Gaussian filtering[J]. Journal ofComputer-Aided Design & Computer Graphics,2015, 27 (9) : 1701-1706.)   
+[15]芦碧波，李玉静，王玉琨，等．亮度分区自适应对数色调映射算法[J]. 计算机应用研究,35(9):1-10.(Lu Bibo,Li Yujing,Wang Yukun,et al. Adaptivelogarithmictonemappingarithmeticwithluminance regionalization [J].Application Research of Computers,35 (9): 1-10.)   
+[16]唐利明，谭艳婷，方壮，等．基于结构分量和信息熵的Criminisi 图像修 复算法[J]．光电子·激光，2017,1(2):108-113.(Tang Liming,Tan Yanting Fang Zhuang,et al. An improved Criminisi image inpainting algorithm based on structure component and information entropy [J]. Journal of Optoelectronics:Laser,2017,1(2):108-113.)   
+[17]李毅，张云峰，张强，等．基于去雾模型的红外图像对比度增强[J]. 中国激光,2015,42（1） :298-306.(LiYi,Zhang Yunfeng,Zhang Qiang, et al.Infrared image contrast enhancement based on haze remove method [J].Chinese Journal of Lasers,2017,1(2): 108-113.)

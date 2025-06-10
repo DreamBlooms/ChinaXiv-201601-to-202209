@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "饲料中添加龙须菜对草鱼生长性能、血清生化指标及肌肉脂肪酸组成的影响陈明 刘永坚 李雅婷 陈先权 曾帅霖 田丽霞\\*（中山大学生命科学大学院水生经济动物研究所，广州510275）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:为考察饲料中添加龙须菜对草鱼生长性能、血清生化指标及肌肉脂肪酸组成的影响，试验共配制了6种龙须菜添加比例分别为0（对照组）、 $1 \\%$ 、 $2 \\%$ 、 $3 \\%$ 、 $4 \\%$ 和 $5 \\%$ 的等氮等脂饲料，投喂平均体重为 $( 1 5 . 9 4 \\pm 0 . 1 0 ) \\mathrm { g }$ 的草鱼8周。每种饲料投喂4个水箱（重复），每箱 30 尾。结果显示：1）饲料中不同添加比例龙须菜对草鱼的增重率(WGR)、特定生长率(SGR)、存活率(SR)及饲料效率(FE)没有显著影响（ $. P { > } 0 . 0 5$ ）。2）各试验组的肝体指数(HSI)均高于对照组，对照组与除 $5 \\%$ 添加组外的其他试验组的差异均达到显著水平 ( $. P { < } 0 . 0 5$ ）。3)全鱼、肝脏及肌肉的粗蛋白质含量各组间皆无显著差异（ $. P { > } 0 . 0 5 \\$ ），而饲料中不同添加比例龙须菜对全鱼粗灰分与粗脂肪、肝脏粗脂肪及肌肉水分含量有显著差异（ $_ { \\cdot \\cdot P < 0 . 0 5 }$ ）。4）血清总蛋白（TP)、总胆固醇（TCHO)、甘油三酯（TG）以及低密度脂蛋白（LDL）含量以$5 \\%$ 添加组最低，显著低于对照组（ $( P { < } 0 . 0 5 )$ ），其他试验组与对照组没有显著差异（ ${ \\cdot } P { > } 0 . 0 5 { : }$ 。5）饲料中龙须菜的添加比例影响了草鱼肌肉脂肪酸的组成，除C14:1、C20:0、C20:2 外，其他肌肉脂肪酸的含量均受到饲料中龙须菜的添加比例的显著影响（ $( P { < } 0 . 0 5 )$ ），其中肌肉多不饱和脂肪酸（PUFA）含量及 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA 均在 $3 \\%$ 添加组获得最高值。 $1 \\%$ 、 $2 \\%$ 、 $3 \\%$ 、$4 \\%$ 和 $5 \\%$ 添加组肌肉C20:5(EPA)、C22:5(DPA)、C22:6(DHA)以及 $\\mathrm { E P A + D H A }$ 的含量都显著高于对照组（ $( P { < } 0 . 0 5 )$ ）。由此得出，饲料中添加一定比例的龙须菜对草鱼的生长性能没有显著影响，但能降低血脂含量，影响草鱼肌肉脂肪酸的组成，并能提高功能脂肪酸DHA、EPA及PUFA的含量；饲料中添加 $3 \\%$ 的龙须菜能更好的增加肌肉功能性脂肪酸含量，而添加 $5 \\%$ 的龙须菜则草鱼生长相对较好，降低血脂效果更加明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：龙须菜；草鱼；生长性能；血清生化指标；肌肉脂肪酸中图分类号：S963 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大型海藻种类繁多、形式多样，包括红藻、褐藻、绿藻和蓝藻4大门类，和海洋浮游藻类一起构成海洋的主要初级生产者[Il。海藻富含多糖、矿物质、维生素、游离氨基酸、脂肪酸、天然色素及未知生长因子（UGF）等营养成分[2-3]，是较为理想的水产动物配合饲料原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海藻作为饲料很早就有应用，而进行海藻饲料添加剂的研究和开发则始于 20 世纪 50年代[4]。目前海藻粉作为畜禽饲料添加剂在英国、法国、美国等一些发达国家得到了广泛应用，相关的机构和生产厂家也都已建立。在我国，海藻粉作为水产动物饲料添加剂的应用才刚刚开始，且研究报道非常有限[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究显示，大型海藻可以用作动物的饲料添加剂，以 $1 \\% \\sim 5 \\%$ 比例添加到饲料中可以起到促进动物生长，改善体色，提高抗疾病、应激能力的作用[6-8]。龙须菜是一种大型红藻，具有适温范围[（ $1 2 { \\sim } 2 3$ ） $\\mathrm { ^ \\circ C ] }$ 较广、生长快、适应环境能力强和经济价值高等优点9。我国龙须菜资源极其丰富，开发为鱼类的饲料原料可使其得到更加科学、有效地利用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验旨在通过将不同比例龙须菜干粉分别添加到草鱼的配合饲料中，通过生长试验，比较不同饲料组草鱼的生长性能和鱼体营养成分，特别是肌肉脂肪酸组成的差异，从而评估龙须菜作为草鱼配合饲料原料的可行性及探究其适宜添加比例，为龙须菜资源的利用开辟有效途径，并为研发高效、低成本草鱼配合饲料提供指导与依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验饲料制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以面粉为糖源，以进口鱼粉、去皮豆粕、花生麸为主要蛋白质源，以鱼油、豆油、大豆卵磷脂为主要脂肪源，梯度（0、 $1 \\%$ 、 $2 \\%$ 、 $3 \\%$ 、 $4 \\%$ 和 $5 \\%$ ）添加龙须菜（干粉形式，主要营养成分含量见表1），配制成6种粗蛋白质含量约为 $32 \\%$ 、粗脂肪含量约为 $5 \\%$ 的试验饲料，分别命名为D-1（对照）、D-2、D-3、D-4、D-5、D-6组，其组成及营养水平见表2。原料粉碎后过60目筛，按配方准确称量各种组分，逐级混匀，搅拌约 $1 0 \\mathrm { m i n }$ ，依次加入豆油及大豆卵磷脂，继续搅拌，最后加 $4 0 \\%$ 水搅拌至均匀，经过双螺杆挤条机（F-26型双螺杆挤条机，华南理工大学科技实业总厂）以及制粒机加工，最终制成直径为 $1 . 5 \\mathrm { m m }$ 的颗粒料，置于 $9 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘箱中熟化 $6 0 \\mathrm { m i n }$ ，然后室温风干（空调抽湿）至水分小于 $10 \\%$ ，于 ${ } ^ { - 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C } }$ 冰箱密封储存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/54abe269a00277073348fb1f1635fb8620e8ade5f7ef58b2bacc90a3a0e1f5fb.jpg",
+        "table_caption": [
+            "表1龙须菜的主要营养成分含量(干物质基础)",
+            "Table 1 Contents of main nutritional components in Gracilaria lemaneiformis（DM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">basis) %</td></tr><tr><td>项目</td><td>粗蛋白质</td><td>粗脂肪酸</td><td>总糖</td><td>多糖</td><td>粗纤维</td><td>粗灰分</td></tr><tr><td>Item</td><td>Crude protein</td><td>Crude lipid</td><td>Total sugar</td><td>Polysaccharide</td><td>Crude fiber</td><td>Ash</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/73d2fb18a7a22e76e01cd06be7d43796b7cdb4d8e52cdaff5e6ca71153c8a28d.jpg",
+        "table_caption": [
+            "表2试验饲料组成及营养水平"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>含量Content</td><td>18.96</td><td>0.84</td><td>43.76</td><td>3.05</td><td>4.80</td><td>28.77</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/351436f6e17b1ef43918d8133d414cef86750b5dd6f5f7fefecb425b4aea4a80.jpg",
+        "table_caption": [
+            "Table 2Composition and nutrient levels of experimental diets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">组别 Groups</td></tr><tr><td>D-1</td><td>D-2</td><td>D-3</td><td>D-4</td><td>D-5</td><td>D-6</td></tr><tr><td>原料 (风干基础) Ingredients（air-dry basis）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>鱼粉Fish meal</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>去皮豆粕 Dehulled soybean meal</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td></tr><tr><td>花生麸 Peanut bran</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>菜籽粕Rapeseed meal</td><td>33.00</td><td>33.00</td><td>33.00</td><td>33.00</td><td>33.00</td><td>33.00</td></tr><tr><td>面粉 Wheat flour</td><td>18.49</td><td>18.49</td><td>18.49</td><td>18.49</td><td>18.49</td><td>18.49</td></tr><tr><td>米糠粕 Rice bran meal</td><td>5.00</td><td>4.00</td><td>3.00</td><td>2.00</td><td>1.00</td><td>0.00</td></tr><tr><td>α-淀粉 Alpha starch</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>大豆卵磷脂 Soybean lecithin</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>龙须菜 Gracilaria lemaneiformis</td><td></td><td>1.00</td><td>2.00</td><td>3.00</td><td>4.00</td><td>5.00</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>氧化钇Y2O3</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>维生素C 磷酸酯 Vitamin C phosphate</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>氯化胆碱 Choline chiorlde（50%）</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>L-赖氨酸 L-Lys</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平（干物质基础）Nutrient levels</td><td>（DM basis）2)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>32.02</td><td>32.06</td><td>32.10</td><td>32.14</td><td>32.18</td><td>32.22</td></tr><tr><td>粗脂肪 Crude lipid</td><td>4.93</td><td>4.98</td><td>4.97</td><td>4.96</td><td>4.95</td><td>4.94</td></tr><tr><td>粗纤维 Crude fiber</td><td>6.46</td><td>6.41</td><td>6.37</td><td>6.32</td><td>6.28</td><td>6.23</td></tr><tr><td>水分 Moisture</td><td>9.74</td><td>9.66</td><td>9.40</td><td>8.56</td><td>8.94</td><td>9.32</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1预混料为每千克饲粮提供 The premix provided the following per kg of diets:VA 300 000 IU， $\\mathrm { V B } _ { 1 } 3 0 0 \\mathrm { m g }$ ， $\\mathbf { V B } _ { 2 } 6 0 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 4 0 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } \\thinspace 2 \\thinspace \\mathrm { m g }$ ，VC 14 000 IU, $\\mathrm { V D } _ { 3 } 1 0 5 0 0 0 \\mathrm { I U }$ VE $6 \\textrm { g }$ ， $\\mathrm { V K } _ { 3 } ~ 3 0 0 ~ \\mathrm { m g }$ ，生物素biotin $4 ~ \\mathrm { m g }$ ，叶酸 folic acid $1 6 0 ~ \\mathrm { m g }$ ， $D _ { \\mathbf { \\alpha } }$ -泛酸钙 $D$ -calcium pantothenate $1 2 0 0 \\mathrm { m g }$ ，烟酰胺nicotinamide $2 5 0 0 \\mathrm { m g }$ ，肌醇inositol $2 5 0 0 \\mathrm { m g }$ ， $\\mathbf { M g } 5 0 0 0 \\mathrm { m g }$ ， Cu (as copper sulfate) $3 9 4 \\mathrm { m g }$ ，Fe(as ferrous sulfate) $6 3 0 0 \\mathrm { m g }$ ，Mn (as manganese sulfate) 840 mg，Zn (as zinc sulfate) $2 6 2 5 \\mathrm { m g }$ ，I(as potassium iodide) $1 3 1 . 2 5 \\mathrm { m g }$ ，Se(as sodium selenite) 13 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mg， Co (as Cobalt sulfate) $1 3 1 . 2 5 \\mathrm { m g }$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2’粗蛋白质、粗脂肪及水分均为实测值，粗纤维为各成分相加得出的理论值。Crude protein, crude lipid and moisture were all measured values,and crude fiber were theoretical values obtained by the sum of all parts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验用鱼及饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验用鱼取自同一批当年孵化的草鱼幼苗。正式试验前将草鱼暂养于 $2 0 0 \\mathrm { L }$ 水族箱1周，期间用实验室现存草鱼饲料(粗蛋白质含量为 $2 8 . 8 0 \\%$ ，粗脂肪含量为 $3 . 4 1 \\%$ )每天定时投喂3次，使之逐渐适应试验饲料和养殖环境。驯化结束后，从中随机选取规格一致[平均体重$( 1 5 . 9 4 \\pm 0 . 1 0 ) \\$ ）g]、体格健壮的草鱼分配到24个水箱中，每种饲料投喂4个水箱（重复），每箱 30尾，共计720尾。试验中，分别于每天09:00、13：00和17：00进行投喂，每2周逐箱称量草鱼总体重，并按其体重比例进行定量投喂，共计8周。养殖系统采取循环水过滤系统，定时换水，保证清洁，试验期间定期进行水质测定，水温为 $2 6 { \\sim } 3 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，溶解氧浓度为 $6 { \\sim } 7 ~ \\mathrm { m g / L } , \\mathrm { p H }$ 为 $7 . 0 { \\sim } 7 . 4$ ,硫酸物浓度为 $\\mathrm { 0 { \\sim } 0 . 0 5 \\ m g / L }$ ,亚硝酸氮浓度为 $0 . 0 5 { \\sim } 0 . 1 0 \\mathrm { m g / L }$ 氨氮浓度为 $0 . 2 0 { \\sim } 0 . 4 0 \\ \\mathrm { m g / L }$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验结束后进行样品采集。样品采集前禁食 $2 4 \\mathrm { h }$ ，将鱼麻醉后记录每箱鱼尾数及终末体重。每箱随机取3尾鱼， $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存用以全鱼体成分分析。每箱另随机取5尾鱼，记录体重，并对这5尾鱼进行静脉窦采血，采集血样经 $5 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 后取血清，液氮冻存，-80℃冰箱保存备用；采血后分离肝脏并记录其重，随后取背部肌肉置，于-20℃冰箱保存待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4计算公式",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增重率（weight gain rate,WGR. $\\%$ )=[(终末体重-初始体重）/初始体重] $\\lvert \\times 1 0 0$   \n特定生长率(specific growth ratio,SGR $\\%$ /d) $\\scriptstyle 1 = 1$ [(ln终末均重-ln初始均重)/试验天数] $\\times 1 0 0$ 存活率(survival rate,SR, $\\%$ )=(存活尾数/初始尾数） $\\times 1 0 0$   \n饲料效率(feed efficiency,FE) $\\scriptstyle 1 = ($ (终末体重-初始体重)/投喂饲料干重;   \n肝体指数(hepato-somatic index ${ \\mathrm { . H S I } } , \\%$ )=（肝脏重/体重） $\\times 1 0 0$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析及计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据用“平均值 $\\pm$ 标准差”表示，数据分析和统计借助软件SPSS11.5，对数据先进",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "行单因素方差分析（one-wayANOVA），若组间有显著性差异，再用Duncan 氏法进行多重比较，显著性水平为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1生长及形态学结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲料中添加不同比例的龙须菜对生长指标（增重率、特定生长、存活率以及饲料系数）没有显著影响 $( P { > } 0 . 0 5 )$ 。而形态学指标上看，各试验组的肝体指数均高于对照组（D-1组），且除D-6组外差异均达到显著水平（ $\\scriptstyle \\cdot { \\cal P } < 0 . 0 5 .$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/db8da3c11f234f660102e013abf743cf76d1042ce3fbe28f10492e7fade8ca1a.jpg",
+        "table_caption": [
+            "表3饲料中添加龙须菜对草鱼生长及形态学的影响",
+            "Table 3Effects of dietary Gracilaria lemaneiformis on growth and morphology of grass carp（Ctenopharyngodon idellus）"
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ）。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">组别 Groups</td></tr><tr><td>D-1</td><td>D-2</td><td>D-3</td><td>D-4</td><td>D-5</td><td>D-6</td></tr><tr><td>初始体重 Initial body weight/g</td><td>15.94±0.02</td><td>15.96±0.08</td><td>15.93±0.09</td><td>15.99±0.05</td><td>15.96±0.02</td><td>15.93±0.05</td></tr><tr><td>终末体重 Final body weight/g</td><td>110.54±11.94</td><td>106.39±7.62</td><td>104.96±5.62</td><td>102.20±11.69</td><td>100.41±10.82</td><td>116.30±12.65</td></tr><tr><td>增重率WGR/%</td><td>593.64±74.23</td><td>566.50±46.45</td><td>559.01±32.80</td><td>539.23±73.38</td><td>529.14±68.30</td><td>630.04±79.02</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>3.45±0.16</td><td>3.38±0.10</td><td>3.37±0.06</td><td>3.30±0.18</td><td>3.28±0.16</td><td>3.54±0.15</td></tr><tr><td>存活率 SR/%</td><td>98.33±3.33</td><td>95.00±4.30</td><td>99.17±1.67</td><td>97.50±3.19</td><td>98.33±3.33</td><td>100.00±0.00</td></tr><tr><td>饲料效率 FE</td><td>0.85±0.08</td><td>0.79±0.06</td><td>0.84±0.06</td><td>0.80±0.09</td><td>0.79±0.08</td><td>0.90±0.07</td></tr><tr><td>肝体指数 HSI/%</td><td>2.24±0.12a</td><td>2.46±0.04c</td><td>2.32±0.14b</td><td>2.49±0.12°</td><td>2.43±0.14bc</td><td>2.26±0.13ab</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Values with different small letter superscripts in the same row indicated significant difference （号 $( P { < } 0 . 0 5 )$ .Thesameasbelow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 体成分结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表 4 可知，饲料中添加不同比例的龙须菜对全鱼粗灰分与粗脂肪含量有显著影响（ $_ { \\cdot \\cdot P < 0 . 0 5 }$ ），而对水分和粗蛋白质含量没有显著影响（ $. P { > } 0 . 0 5$ ）。其中，D-6组全鱼粗灰分含量最高，显著高于其他各组（ $. P { < } 0 . 0 5 .$ ）；D-6组全鱼粗脂肪含量最低，显著低于除对照组外的其他各组（ $_ { . } P { < } 0 . 0 5$ ）。饲料中添加不同比例的龙须菜对肝脏水分、粗灰分及粗蛋白质含量均无显著影响（ $. P { > } 0 . 0 5$ ），但对肝脏粗脂肪含量有显著影响（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ ）。随着龙须菜添加比例的增加，肝脏粗脂肪含量呈递减的趋势，各试验组肝脏粗脂肪含量均低于对照组，其中D-6 组与对照组的差异达到显著水平（ ${ \\cdot } P { < } 0 . 0 5$ ）。饲料中添加不同比例的龙须菜对肌肉粗灰分、粗脂肪及粗蛋白质含量均无显著影响( $( P { > } 0 . 0 5 )$ ，但对肌肉水分含量有显著影响( $_ { . } P { < } 0 . 0 5 )$ 。肌肉水分含量以D-6 组最高，并与其他组有显著差异（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4饲料中添加龙须菜对草鱼体成分的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 4Effects of dietary Gracilaria lemaneiformis on body composition of grass carp ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ecbc58098c649e7ceb4515de8101395859740bd0f89ca36be042d754da5f719.jpg",
+        "table_caption": [
+            "(Ctenopharyngodon idellus) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">组别 Groups</td></tr><tr><td>D-1</td><td>D-2</td><td>D-3</td><td>D-4</td><td>D-5</td><td>D-6</td></tr><tr><td colspan=\"7\">全鱼 Whole body</td></tr><tr><td>水分 Moisture</td><td>73.19±1.38</td><td>72.87±0.57</td><td>73.69±1.09</td><td>73.50±0.83</td><td>73.00±0.40</td><td>74.27±0.75</td></tr><tr><td>粗灰分 Crude ash</td><td>2.71±0.13a</td><td>2.82±0.07a</td><td>2.68±0.12a</td><td>2.78±0.14a</td><td>2.79±0.06a</td><td>3.20±0.04b</td></tr><tr><td>粗脂肪 Crude lipid</td><td>8.06±0.96a</td><td>8.26±0.44b</td><td>8.32±0.57b</td><td>8.39±0.83b</td><td>8.20±0.11b</td><td>7.12±0.69a</td></tr><tr><td>粗蛋白质 Crude protein</td><td>14.35±0.58</td><td>14.89±0.70</td><td>14.61±1.17</td><td>14.55±0.96</td><td>14.29±0.98</td><td>14.65±1.23</td></tr><tr><td colspan=\"7\">肝脏Liver</td></tr><tr><td>水分 Moisture</td><td>56.04±3.27</td><td>55.41±0.96</td><td>58.01±2.24</td><td>59.23±3.06</td><td>59.78±4.08</td><td>63.64±3.68</td></tr><tr><td>粗灰分 Crude ash</td><td>1.12±0.15</td><td>0.96±0.21</td><td>0.98±0.06</td><td>1.01±0.07</td><td>0.87±0.13</td><td>1.04±0.09</td></tr><tr><td>粗脂肪Crude lipid</td><td>25.88±3.03b</td><td>25.08±1.56b</td><td>22.72±2.62b</td><td>22.59±1.88b</td><td>22.57±3.40b</td><td>18.06±2.38a</td></tr><tr><td>粗蛋白质 Crude protein</td><td>12.80±0.50</td><td>12.04±2.71</td><td>12.87±0.24</td><td>12.88±0.84</td><td>12.10±1.18</td><td>12.40±0.44</td></tr><tr><td colspan=\"7\">肌肉 Muscle</td></tr><tr><td>水分 Moisture</td><td>79.34±0.28b</td><td>79.34±0.45b</td><td>79.60±0.11b</td><td>79.54±0.54b</td><td>79.43±0.34b</td><td>80.19±0.13a</td></tr><tr><td>粗灰分 Crude ash</td><td>1.14±0.05</td><td>1.14±0.04</td><td>1.15±0.07</td><td>1.15±0.02</td><td>1.13±0.02</td><td>1.13±0.02</td></tr><tr><td>粗脂肪Crude lipid</td><td>1.08±0.08</td><td>1.17±0.15</td><td>1.20±0.24</td><td>1.17±0.30</td><td>1.11±0.15</td><td>1.08±0.07</td></tr><tr><td>粗蛋白质 Crude protein</td><td>17.89±0.28</td><td>18.34±0.18</td><td>20.59±4.47</td><td>17.87±0.58</td><td>18.20±0.49</td><td>17.97±0.58</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 血清生化指标结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，各试验组血清总蛋白(TP)、总胆固醇（TCHO）、甘油三酯(TG)及低密度脂蛋白(LDL)含量都要小于对照组，且最小值都出现在D-6组，且D-6 组与对照组的差异达显著水平（ $P { < } 0 . 0 5$ ），其他试验组与对照组没有显著差异（ $. P { > } 0 . 0 5 ^ { \\cdot }$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f876b03565201684bb2ec484bc57546f65ec81a8db637cb651acede9e9b310ac.jpg",
+        "table_caption": [
+            "表5饲料中添加龙须菜对草鱼血清生化指标的影响",
+            "Table 5Effects of dietary Gracilaria lemaneiformis on serum biochemical indices of grass carp （Ctenopharyngodon idellus) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"6\">组别 Groups</td></tr><tr><td>D-1</td><td>D-2</td><td>D-3</td><td>D-4</td><td>D-5</td><td>D-6</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>23.93±2.06b</td><td>23.83±1.03b</td><td>22.85±1.10b</td><td>22.47±2.37b</td><td>23.13±1.86b</td><td>19.43±1.96a</td></tr><tr><td>总胆固醇 TCHO/(mmol/L)</td><td>3.91±0.53b</td><td>3.78±0.13b</td><td>3.71±0.16b</td><td>3.64±0.29b</td><td>3.88±0.19b</td><td>3.06±0.21a</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>1.27±0.08b</td><td>1.18±0.11b</td><td>1.14±0.05b</td><td>1.19±0.06b</td><td>1.23±0.04b</td><td>0.91±0.11a</td></tr><tr><td>低密度脂蛋白 LDL/(mmol/L)</td><td>0.65±0.16b</td><td>0.59±0.05b</td><td>0.58±0.06ab</td><td>0.60±0.08b</td><td>0.63±0.12b</td><td>0.41±0.06a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4肌肉脂肪酸组成结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，饲料中龙须菜的添加比例影响了草鱼肌肉脂肪酸的组成，除C14:1（豆蔻一烯酸)、C20:0(花生酸)、C20:2(花生二烯酸)外，其他肌肉脂肪酸的含量均受到饲料中龙须菜的添加比例的显著影响( $P { < } 0 . 0 5$ )。D-2、D-3、D-4、D-5、D-6 组肌肉 C20:5(EPA)、C22:5(DPA)、C22:6(DHA)以及 $\\mathrm { E P A + D H A }$ 的含量都显著高于对照组（ $. P { < } 0 . 0 5$ ），并且均以D-4组含量最高，分别达到（ $0 . 3 6 { \\pm } 0 . 0 3$ ） $\\%$ 、 $\\phantom { 0 } { 2 . 8 2 \\pm 0 . 6 2 }$ ） $\\%$ 、（3.24±0.70） $\\%$ 、 $\\phantom { 0 } { 3 . 6 0 \\pm 0 . 7 2 }$ ）%。肌肉饱和脂肪酸(SFA)和不饱和脂肪酸(UFA)含量分别在D-3 和D-5 有最高值，单不饱和脂肪酸（MUFA）含量在D-4组有最低值，而多不饱和脂肪酸（PUFA）含量在D-4 组有最高值。饲料中龙须菜的添加比例对肌肉n-3PUFA、n-6PUFA含量及 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA也有显著影响（ $. P { < } 0 . 0 5$ ），其中 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA 在D-4 组获得最高值，显著高于除D-3 组外的其他各组（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 )$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c9477a266af79fcd20044a29c4df8f7686f9ca84300614944d2024f0f354f46.jpg",
+        "table_caption": [
+            "表6饲料中添加龙须菜对草鱼肌肉脂肪酸组成的影响（占总脂肪酸的百分比）Table 6Effects of dietary Gracilaria lemaneiformis on muscle fatty acid composition of grasscarp（Ctenopharyngodon idellus）（percentage of total fatty acids） $\\%$ （20"
+        ],
+        "table_footnote": [
+            "SFA:饱和脂肪酸 saturated fatty acids；UFA:不饱和脂肪酸unsaturated fatty acids；MUFA:单不饱和脂肪酸monounsaturated fatty acids；PUFA:多不饱和脂肪酸 polyunsaturated faty acids。“—\"表示未检测出 meansno detected。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Carp 脂肪酸</td><td colspan=\"6\">(Cienophdryngoaontaetds) (pereelnageOrtotarfattyaeras) 7</td></tr><tr><td></td><td></td><td>组别Groups</td><td></td><td></td><td></td></tr><tr><td>Fatty acids</td><td>D-1</td><td>D-2</td><td>D-3</td><td>D-4</td><td>D-5</td><td>D-6</td></tr><tr><td>C14:0</td><td>1.14±0.04b</td><td>1.05±0.05ab</td><td>1.01±0.02a</td><td>1.00±0.12a</td><td>1.11±0.06ab</td><td>1.07±0.01ab</td></tr><tr><td>C14:1</td><td>0.07±0.00</td><td>0.06±0.00</td><td></td><td></td><td>0.07±0.01</td><td>0.06±0.00</td></tr><tr><td>C15:0</td><td>0.19±0.00a</td><td>0.21±0.01ab</td><td>0.23±0.02ab</td><td>0.24±0.04b</td><td>0.22±0.03ab</td><td>0.23±0.02ab</td></tr><tr><td>C16:0</td><td>17.06±0.40ab</td><td>16.73±0.41a</td><td>17.72±0.72b</td><td>17.21±0.76ab</td><td>16.44±0.08a</td><td>16.56±0.31a</td></tr><tr><td>C16:1</td><td>6.18±0.41c</td><td>5.62±0.26abc</td><td>5.38±0.27ab</td><td>4.96±0.69a</td><td>5.80±0.20bc</td><td>5.52±0.27abc</td></tr><tr><td>C17:0</td><td>0.18±0.01a</td><td>0.39±0.02c</td><td>0.22±0.03bc</td><td>0.24±0.02bc</td><td>0.17±0.00a</td><td>0.20±0.04abc</td></tr><tr><td>C17:1</td><td>0.27±0.02bc</td><td>0.28±0.03bc</td><td>0.21±0.02a</td><td>0.22±0.05ab</td><td>0.27±0.03bc</td><td>0.30±0.01c</td></tr><tr><td>C18:0</td><td>3.69±0.26a</td><td>3.94±0.41a</td><td>4.85±0.76b</td><td>5.13±0.67b</td><td>3.40±0.10a</td><td>3.54±0.48a</td></tr><tr><td>C18:1</td><td>41.44±0.25c</td><td>39.18±2.58bc</td><td>35.98±2.18ab</td><td>35.27±1.58a</td><td>39.25±0.68bc</td><td>38.94±2.01bc</td></tr><tr><td>C18:2</td><td>20.04±0.73b</td><td>20.78±0.65bc</td><td>18.70±1.03a</td><td>18.47±0.48a</td><td>21.56±0.39c</td><td>21.57±0.65c</td></tr><tr><td>C18:3</td><td>2.10±0.07b</td><td>2.18±0.08bc</td><td>1.91±0.08a</td><td>1.86±0.07a</td><td>2.28±0.04c</td><td>2.25±0.08c</td></tr><tr><td>C20:0</td><td>0.19±0.02</td><td>0.23±0.02</td><td>0.21±0.04</td><td>0.21±0.03</td><td>0.20±0.01</td><td>0.22±0.01</td></tr><tr><td>C20:1</td><td>1.04±0.05b</td><td>1.05±0.05b</td><td>0.88±0.05a</td><td>0.93±0.06ab</td><td>0.99±0.10ab</td><td>1.00±0.06ab</td></tr><tr><td>C21:0</td><td>0.28±0.01b</td><td>0.26±0.01ab</td><td>0.26±0.00ab</td><td>0.26±0.00ab</td><td>0.25±0.02a</td><td>0.25±0.03ab</td></tr><tr><td>C20:2</td><td>0.79±0.05</td><td>0.82±0.06</td><td>0.85±0.05</td><td>0.80±0.03</td><td>0.80±0.04</td><td>0.79±0.05</td></tr><tr><td>C22:0</td><td>0.82±0.05a</td><td>0.98±0.17ab</td><td>1.16±0.12bc</td><td>1.23±0.16c</td><td>0.91±0.08a</td><td>0.87±0.04a</td></tr><tr><td>C20:3</td><td>1.81±0.09a</td><td>2.50±0.99a</td><td>3.97±0.84b</td><td>4.57±0.90b</td><td>2.33±0.31a</td><td>2.56±0.56a</td></tr><tr><td>C23:0</td><td>0.15±0.08a</td><td>0.25±0.09ab</td><td>0.41±0.05b</td><td>0.45±0.02ab</td><td>0.22±0.13ab</td><td>0.19±0.05ab</td></tr><tr><td>C20:5 (EPA)</td><td>0.17±0.01a</td><td>0.22±0.05a</td><td>0.30±0.03bc</td><td>0.36±0.03c</td><td>0.22±0.03a</td><td>0.24±0.05ab</td></tr><tr><td>C24:1 C22:5</td><td>0.18±0.02a</td><td>0.22±0.08ab</td><td>0.35±0.09bc</td><td>0.39±0.11c</td><td>0.21±0.02a</td><td>0.25±0.05ab</td></tr><tr><td></td><td>0.95±0.10a</td><td>1.46±0.66a</td><td>2.56±0.73b</td><td>2.82±0.62b</td><td>1.41±0.24a</td><td>1.49±0.40a</td></tr><tr><td>C22:6 (DHA) EPA+DHA</td><td>1.04±0.08a</td><td>1.55±0.65a</td><td>2.79±0.72b</td><td>3.24±0.70b</td><td>1.56±0.20a</td><td>1.61±0.53a</td></tr><tr><td>SFA</td><td>1.21±0.08a</td><td>1.77±0.70a</td><td>3.09±0.75b</td><td>3.60±0.72b</td><td>1.78±0.20a</td><td>1.85±0.59a</td></tr><tr><td>UFA</td><td>23.65±0.58a</td><td>23.84±0.96a</td><td>26.06±1.41b</td><td>25.84±0.30b</td><td>22.93±0.23a</td><td>23.13±0.87a</td></tr><tr><td>MUFA</td><td>76.35±0.58b</td><td>76.16±0.96b</td><td>73.94±1.41a</td><td>74.16±0.30a</td><td>77.07±0.23b</td><td>76.87±0.87b</td></tr><tr><td>PUFA</td><td>48.87±0.66c</td><td>46.11±2.79bc</td><td>42.60±2.40ab</td><td>41.57±2.24a</td><td>46.30±0.84bc</td><td>45.75±2.27bc</td></tr><tr><td>n-3 PUFA</td><td>26.90±0.69a</td><td>29.50±2.24ab</td><td>31.07±1.71b</td><td>32.12±2.61b</td><td>30.17±0.82b</td><td>30.52±1.44b</td></tr><tr><td>n-6 PUFA</td><td>6.07±0.21a 20.83±0.77b</td><td>7.91±2.28a 21.60±0.64bc</td><td>11.52±2.26b 19.55±1.00a</td><td>12.86±2.26b 19.26±0.51a</td><td>7.80±0.69a 22.37±0.39c</td><td>8.15±1.51a</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>22.36±0.64c</td></tr><tr><td>n-3/n-6 PUFA</td><td>0.29±0.02a</td><td>0.37±0.11a</td><td>0.59±0.14b</td><td>0.67±0.11b</td><td>0.35±0.03a</td><td>0.37±0.07a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1饲料中添加龙须菜对草鱼生长、形态学及体成分的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从本试验结果可知，饲料中添加龙须菜对草鱼的生长没有显著性影响。有关龙须菜用作水产饲料添加剂的试验报道很少，但添加其他大型海藻对鱼类生长影响的报道却屡见不鲜。周胜强等[0]发现，与对照组相比，添加 $5 \\%$ 浒苔（Enteromorpha）组黄斑蓝子鱼（Siganusoramin）的生长性能未发生显著变化，但添加 $10 \\%$ 和 $1 5 \\%$ 浒苔组黄斑蓝子鱼的生长性能却显著降低；用添加 $3 \\%$ 麒麟菜(Eucheumamuricatum)的配合饲料喂养牙鲆（Paralichthysolivaceus),其生长能达到最佳[11];饲料中添加 $4 \\%$ 的石莼（Ulva lactuca)能够改善海鲷(Sparusaurata）的生长[2]。正如上面所列举，饲料中添加低浓度的海藻能促进鱼类的生长，而高浓度则不利于生长，原因在于：一方面，大型海藻中富含碳水化合物、多糖以及纤维素，在一定程度上影响了鱼类机体对蛋白质及干物质的吸收利用[11.13]；另一方面，海藻中存在抗营养因子，添加比例过高后抗营养因子则阻碍了生长[14]。本试验中各组间草鱼的生长并没有显著差异，龙须菜添加比例在 $0 \\sim 4 \\%$ 时草鱼的生长有减小的趋势，然而添加比例在 $5 \\%$ 时增重率及特定生长率确有最高值，与上述研究结果不一致，其可能是因为饲料中添加海藻饲料对生长的影响与物种、海藻类型及添加比例有关[15]，有必要进一步进行研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验中可以看出，龙须菜添加比例为 $1 \\% \\sim 5 \\%$ 的试验组草鱼的肝体指数要大于对照组，且D-4 组有最大值，而最小值出现在D-6 组。Guroy 等[16]发现，含有 $10 \\%$ 石莼的膨化饲料能够使虹鳟（Oncorhy nchusmykiss）的肝体指数减小；Azaza等[17]也发现，添加不同比例浒苔的试验组能使尼罗罗非鱼（Tilapianilotica）的肝体指数减小，原因在于大型海藻能减少肝脏脂肪的沉积。本试验中，各试验组草鱼的肝脏粗脂肪含量均低于对照组（表4），但是肝体指数却大于对照组，与上述发现不一致，原因可能是肝脏不仅是重要的储能器官，同时也是鱼类中间代谢的主要器官，在营养变动时肝脏重量也可能发生显著的变化[18]，而杨奇慧等[19]认为肝脏作为一种重要的免疫器官，免疫器官指数（免疫器官与动物体重之比)高为该器官成熟快的表现，指数低则是成熟慢的表现，本试验中各试验组肝体指数较对照组大，可能与添加一定比例的龙须菜能加快草鱼肝脏器官的成熟有关，而 D-6 组肝体指数较之前有所降低可能是添加比例为 $5 \\%$ 的海藻对于消除肝脏沉积脂肪的作用占主导，且D-6 组鱼的体重相对较大所致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2饲料中添加龙须菜对草鱼血清生化指标的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验中，饲料质龙须菜的添加比例对草鱼血清生化指标有显著影响。血液中TP 含量的变化能够反映生物肝脏合成功能异常和肾脏病变而造成蛋白质丢失的情况，被用作鱼体对环境应激因子反应的指示物[20]；血液中的 TCHO 含量可以反映鱼体全身脂类代谢状况，一般认为血液中 $70 \\% \\sim 8 0 \\%$ 的胆固醇来源于肝脏，少量来源于消化道，当发生肝细胞功能障碍或者损伤时，血清的胆固醇含量会发生变化[21]；LDL 在血液中起转运内源性胆固醇及胆固醇酯的作用，主要功能是把胆固醇与运输到全身各处细胞，血液中的TG 含量是反映鱼类体内脂肪代谢水平的重要生理指标，其含量过高表明鱼类肝脏中堆积的脂肪较多，容易导致脂肪肝、肝肥大等症状。Matanjun 等[22]发现，用添加比例为 $5 \\%$ 的3种海藻混合物饲养小鼠会降低小鼠血清中 TG及TCHO 的含量;孙建凤等[23]饲喂肉鸡浒苔添加比例分别为0(对照组)、$2 \\%$ 、 $3 \\%$ 和 $4 \\%$ 的饲粮，6周后发现 $4 \\%$ 组能显著降低肉鸡血清中TG及TCHO的含量。上述结果与本试验结果一致。海藻能降低血糖血脂含量，其一在于海藻中富含能降糖降脂的天然活性物质，Nakajima[24]发现饲料中添加 S-二甲基- $\\beta$ -溴代丙酸噻亭（海藻中含有的一种活性物质）能降低血液中的胆固醇及TG的含量；其二在于海藻中的高含量的n-3PUFA 也具有降脂的作用[25]。本试验中，各试验组的血清 TP、TCHO、TG 及LDL 含量较对照组要低，以 D-6 组的值最小，并与其他组差异显著。综合来看，配合饲料中添加一定比例的龙须菜能够降低草鱼血脂含量，且使肝脏更为健康。从上述几个指标来看，D-6组的表现较为优异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3饲料中添加龙须菜对草鱼肌肉脂肪酸组成的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本试验中，添加龙须菜的各试验组草鱼的肌肉DHA、EPA、DHA $. +$ EPA、PUFA、n-3PUFA含量以及 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ 均要显著高于对照组。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "人体不能合成 C20:4[花生四烯酸(AA)]（草鱼肌肉中未检出）、EPA、C18:3[亚麻酸(ALA)]以及DHA，内陆人群摄取EPA 和DHA 的主要食物来源为鱼和虾[26]。有关海藻的添加对肌肉脂肪酸组成影响研究的主要集中在畜禽上，在水产动物上的相关研究很少。唐秀敏[27]研究发现，添加富含 PUFA 的深海野生海藻能改变乳汁中脂肪酸的组成，使 EPA、DHA 等功能性脂肪酸的含量明显增加。Franklin等[28]饲喂奶牛约 $4 \\%$ 添加比例的裂壶藻(Sehizoehytrium)，发现乳脂中DHA的含量要远远的高于对照组，映证了本试验的结果。易新文等[29]研究发现，大黄鱼（Larimichthyscrocea）肌肉中DHA和EPA的含量会因配合饲料中 DHA 和EPA含量的减少而减少，但其减少的速率要小于饲料中减少的速率，即速率小于1，表明了DHA 和 EPA在大黄鱼体内倾向于积累，从而维持鱼体的正常生理功能；在大西洋鲑(Salmo salar)[30]和虹鳟[31]试验中也得到了一致的结论。Dawczynski 等[32]发现大型海藻富含 n-3 PUFA、n-6PUFA、EPA、ALA 等，海藻饲料可提供鱼类肌肉中的必需脂肪酸；同时，Dantagnan 等[33发现海藻中含有能够影响脂肪酸代谢的天然活性物质，两者的协同作用能够使鱼类的肌肉中富集这些脂肪酸。本试验中各试验组草鱼肌肉DHA 和EPA的含量要均高于对照组,可能是因为龙须菜中DHA和 EPA的含量较高，进而影响了肌肉中DHA和EPA的含量。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "高含量的UFA，特别是PUFA，有助于防治心脑血管方面的疾病[34]。有记录表明格陵兰岛上的爱斯基摩人大量摄食海产动植物产品，血液中n-3 PUFA 含量显著升高[35]。徐树德等[36]分别用浒苔和龙须菜以及冰鲜鱼、配合饲料共 4 种饲料投喂黄斑篮子鱼，发现海藻组全鱼粗脂肪含量显著低于配合饲料组和冰鲜鱼组，而肌肉PUFA含量高于配合饲料组和冰鲜鱼组。本试验中各试验组肌肉PUFA含量均要高于对照组，与上述研究结果一致。同时， $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA 也很重要。Simopoulos[37-38l认为，尽管 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA 会随健康状况而调整，但较高的比值对于降低许多慢性疾病的效果可能会更好；Gogus 等[39]研究发现，膳食中 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA与各种疾病呈负相关。本试验中添加龙须菜的各试验组肌肉中 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA要高于对照组，且最大值出现在D-4组，说明食用添加海藻的配合饲料喂养的草鱼对人体更健康。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲料中添加 $1 \\% \\sim 5 \\%$ 的龙须菜对草鱼的生长没有显著影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 饲料中添加 $3 \\%$ 的龙须菜能改善草鱼肌肉脂肪酸组成，使有益脂肪酸含量增加，而添加 $5 \\%$ 的龙须菜则生长与血清生化指标都有较好表现。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 总的来看，饲料中添加龙须菜能够降低草鱼的血脂含量，改善其脂肪酸组成，更能满足人类需要。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]丁兰平,王展,黄冰心.北部湾大型海藻资源研究及应用展望[J].广西科学,2014,21(6):561-568.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] KUMAR M,KUMARI P,TRIVEDI N.Minerals,PUFAs and antioxidant properties of some tropical seaweeds from Saurashtra coast of India[J].Journal of Applied Phycology,2011,23(5):797-810. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3] HASAN M R,CHAKRABARTI R.Use of algae and aquatic macrophytes as feed in small-scale aquaculture:a review[J].FAO Fisheries and Aquaculture Technical Paper,2009,5(31):1-123. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[4]杨小强.新一代活性饲料—大型海藻饲料[J].饲料研究,2000(1):22-25.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[5]周歧存,赵华超.海藻在罗氏沼虾饲料中的应用研究[J].饲料研究,2001(8):5-6.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6]常巧玲,孙建义.海藻饲料资源及其在水产养殖中的应用研究[J].饲料工业,2006,27(2):62-64.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[7]李人光,姜永新,姜瑞勇,等.大型海藻作为饲料的综合利用技术[J].科学养鱼,2009(10):64-65.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8]李晓,王颖,吴志宏,等.浒苔对刺参幼参生长影响的初步研究[J].中国水产科 学,2013,20(5):1092-1099.   \n[9]刘朝阳,孙晓庆.龙须菜的生物学作用及应用前景[J].养殖与饲料,2007(5):55-58.   \n[10] 周胜强,游翠红,王树启,等.饲料中添加浒苔对黄斑蓝子鱼生长性能与生理生化指标的 影响[J].中国水产科学,2013,20(6):1257-1265.   \n[11]RAGAZA J A,KOSHIO S,MAMAUAG R E,et al.Dietary supplemental effects of red seaweed Eucheuma denticulatum on growth performance,carcass composition and blood chemistryofjuvenileJapaneseflounder,Paralichthysolivaceus[J].Aquaculture Research,2015,46(3):647-657.   \n[12]GUROY B,ERGUN S,MERRIFIELD D L,et al.Effect of autoclaved Ulva meal on growth performance,nutrient utilization and fattyacid profile of rainbowtrout,Oncorhynchus mykissJ].Aquaculture International,2013,21(3):605-615.   \n[13]APPLER H N.Evaluation of Hydrodictyon reticulatum as protein source in feeds for Oreochromis (Tilapia) niloticus and Tilapia zili[J].Journal of Fish Biology,1985,27(3):327-334. [14]NAKAGAWA H,KASAHARA S.Effect of Ulva meal supplement to diet on the lipid metabolism of red sea bream[J].Nippon Suisan Gakkaishi,1986,52(11):1887-1893.   \n[15]NIU J,CHEN X,LU X,et al.Effects of different levels of dietary wakame (Undaria pinnatifida)ongrowth,immunityandintestinalstructureofjuvenilePenaeus monodon[J].Aquaculture,2015,435:78-85.   \n[16]GUROY B K,CiRiK \\$,GUROY D,et al.Efects of Ulva rigida and Cystoseira barbata meals as a feed additive on growth performance,feed utilization,and body composition of Nile tilapia,Oreochromis niloticus[J].Turkish Journal of Veterinary & Animalences,2OO7,31(2):91-97. [17]AZAZA M S,MENSI F,KSOURI J,et al.Growth of Nile tilapia (Oreochromis niloticus L.) fed with diets containing graded levels of green algae ulva meal (Ulva rigida) reared in geothermal waters of southern Tunisia[J].Journal of Applied Ichthyology,2008,24(2):202-207. [18]区又君,柳琪,刘泽伟.3 种笛鲷的含肉率、肥满度、比肝重和肌肉营养成分的分析[J].大 连水产学院学报,2006,21(3):287-289.   \n[19]杨奇慧,周歧存,谭北平,等.谷氨酰胺对杂交罗非鱼生长、饲料利用及抗病力的影响[J]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "中国水产科学,2008,15(6):1016-1023.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20]BANAEE M,SUREDA A,MIRVAGHEFI A R,et al.Effects of diazinon on biochemical parameters of blood in rainbow trout (Oncorhynchus mykiss)[J].Pesticide Biochemistry and Physiology,2011,99(1):1-6. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[21]马利,黄峰,吴建开,等.不同菜粕水平对草鱼生长、血清生化指标和毒素残留的影响[J].水产学报,2006,29(6):798-803.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22]MATANJUN P,MOHAMED S,MUHAMMAD K,et al.Comparison of cardiovascular protective effects of tropical seaweeds,Kappaphycus alvarezii,Caulerpa lentilifera,and Sargassum polycystum,on high-cholesterol/high-fat diet in rats[J].Journal of Medicinal Food,2010,13(4):792-800. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[23]孙建凤,赵军,祁茹,等.日粮中浒苔添加水平对肉鸡免疫功能和血清生化指标的影响[J].  \n动物营养学报,2010,22(3):682-688.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[24]NAKAJIMA K.Effects of diet-supplemented dimethy1- $\\cdot \\beta$ -propiothetin on growth and thrust power of goldfish,carp,and red sea bream[J].Nippon Suisan Gakkaishi,1991,57(4):673-679. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[25] SKULAS-RAY A CWEST S G,DAVIDSON M H,et al.Omega-3 fatty acid concentrates in the treatment of moderate hypertriglyceridemia[J].Expert Opinion on Pharmacotherapy,2008,9(7):1237-1248. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26]金庆华,李桂玲,何世文.中国淡水鱼油的研究——I.淡水生物中n-3不饱和脂肪酸含量的研究[J].中国海洋药物,1997(2):36-39.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27]唐秀敏.海藻日粮对奶牛生产性能及乳脂中功能性脂肪酸含量的影响[D].硕士学位论文.太谷：山西农业大学，2005",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[28]FRANKLIN S T,MARTIN K R,BAER R J,et al.Dietary marine algae (Schizochytrium sp.) increases concentrations of conjugated linoleic,docosahexaenoic and transvaccenic acids in milk of dairy cows[J].The Journal of Nutrition,1999,129(11):2048-2054. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29]易新文,张文兵,麦康森,等.饲料中菜籽油替代鱼油对大黄鱼生长、肌肉脂肪酸组成和体色的影响[J].水产学报,2013,37(5):751-760.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30]BELL JG,MCEVOY J,TOCHER D R,et al.Replacement of fish oil with rapeseed oil in diets of Atlantic salmon (Salmo salar) affects tissue lipid compositions and hepatocyte fatty acid metabolism [J].The Journal of Nutrition ,2001,131(5):1535-1543. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31] PETTERSSON A,JOHNSSON L,BRANNAS E,et al.Effects of rapeseed oil replacement in fish feed on lipid composition and self-selection by rainbow trout (Oncorhynchus mykiss)[J].Aquaculture Nutrition,2009,15(6):577-586. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[32]DAWCZYNSKI C,SCHUBERT R,JAHREIS G.Amino acids,fatty acids,and dietary fibre in edible seaweed products[J].Food Chemistry,2007,103(3):891-899. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[33]DANTAGNAN P,HERNANDEZ A,BORQUEZ A,et al.Inclusion of macroalgae meal (Macrocystis pyrifera) as feed ingredient for rainbow trout(Oncorhynchus mykiss):effect on flesh fatty acid composition[J].Aquaculture Research,2009,41(1):87-94. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[34]张竹青,杨兴,周路,等.鱼肌肉脂肪酸组成分析[J].水产科技情报,2013,40(1):32-36.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35]DYERBERG J,BANG H O,STOFFERSEN E,et al.Eicosapentaenoic acid and prevention of thrombosis and atherosclerosis?[J].The Lancet,1978,312(8081):117-119. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[36]徐树德,刘雪兵,王树启,等.不同类型饲料对黄斑篮子鱼幼鱼生长及肌肉蛋白质和脂肪酸组成的影响[J].海洋渔业,2014,36(6):529-535.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[37]SIMOPOULOS A P.The importance of the ratio of omega-6/omega-3 essential fatty acids[J].Biomedical & Pharmacotherapy,2002,56(8):365-379. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[38] SIMOPOULOS A P.The importance of the omega-6/omega-3 fatty acid ratio in cardiovascular disease and other chronic diseases[J].Experimental Biology and Medicine,2008,233(6):674-688. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[39]GOGUS U,SMITH C.n-3 Omega fatty acids:a review of current knowledge[J].International Journal of Food Science & Technology,2010,45(3):417-436. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Gracilaria lemaneiformis on Growth Performance, Serum Biochemical Indices and Muscle Fatty Acid Composition of Grass Carp (Ctenopharyngodon idellus) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CHEN Ming LIU Yongjian LI YatingCHEN Xianquan ZENG ShuailinTIAN Lixia\\* (Institute of Aquatic Economic Animals, School of Life Sciences, Sun Yat-Sen University, Guangzhou 510275,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to evaluate the effects of dietary Gracilaria lemaneiformis on growth performance， serum biochemical indices and muscle fatty acid composition of grass carp (Ctenopharyngodon idellus), juvenile fish at the average body weight of $( 1 5 . 9 4 \\pm 0 . 1 0 ) \\$ $\\mathbf { g }$ were fed with six isonitrogenous and isolipid diets containing graded levels of Gracilaria lemaneiformis [0 (control group), $1 \\%$ ， $2 \\%$ ， $3 \\%$ ， $4 \\%$ and $5 \\%$ ，respectively] for 8 weeks.Each diet fed four water tanks and each tank had 3O fish. The results showed as follows: 1） there were no significant differences in weight gain rate (WGR),specific growth ratio (SGR), survival rate (SR) and feed efficiency (FE） of fish fed diets supplemented with different proportions of Gracilaria lemaneiformis $\\scriptstyle \\cdot { \\cal P } \\scriptstyle > 0 . 0 5 ,$ ). 2) Hepato-somatic index (HSI) of fish in experimental groups was higher than that in control group, and the differences were significant except $5 \\%$ supplementation group （2号 $( P { < } 0 . 0 5 )$ . 3) Crude protein content in whole body, liver and muscle was not significantly affected by diets supplemented with different levels of Gracilaria lemaneiformis $( P { > } 0 . 0 5 )$ ,however, there were significant differences in the contents of ash and crude lipid in whole body,crude lipid in liver and moisture in muscle $( P { < } 0 . 0 5 )$ ．4）Total protein (TP)，total cholesterol (TCHO), triglycerides (TG) and low density lipoprotein (LDL） contents in serum in $5 \\%$ supplementation group had the lowest values, and significantly higher than those in control group $( P { < } 0 . 0 5 )$ , but no significant differences were found between control group and other experimental groups $( P { > } 0 . 0 5 )$ 5) Fatty acid composition in muscle of grass carp was affected by diets with different proportions of Gracilaria lemaneiformis. Diets supplemented with different proportions of Gracilaria lemaneiformis could significantly affect the contents of fatty acids except C14:1, C2O:0 and C20:2 in muscle( $P { < } 0 . 0 5$ ）,and the highest values of polyunsaturated fatty acids (PUFA) content and （204号 $\\mathrm { n } { - } 3 / \\mathrm { n } { - } 6$ PUFA were found in $3 \\%$ supplementation group. The contents of C20:5(EPA), C22:5(DPA)，C22:6(DHA) and E) $\\mathrm { P A + D H A }$ in musclein $1 \\%$ ， $2 \\%$ ， $3 \\%$ ， $4 \\%$ and $5 \\%$ （204 supplementation group were significantly higher than those in control group $( P { < } 0 . 0 5 )$ . The present results indicate that diets supplemented with a certain proportion of Gracilaria lemaneiformis have no significant effect on the growth of grass carp, but can reduce the blood lipid contents. It can also influence the fatty acid composition in muscle,improve the functional fatty acid contents, such as DHA and EPA,and increase the content of PUFA.The fish fed with $3 \\%$ Gracilaria lemaneiformis can better increase the functional fatty acid contents was,and the fish fed with $5 \\%$ Gracilaria lemaneiformis have a relatively beter growth performance as well as an obviously lower blood lipid. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: Gracilaria lemaneiformison; grass carp (Ctenopharyngodon idellus)； growth performance; serum biochemical indices; muscle fatty acids ",
+        "page_idx": 13
+    }
+]

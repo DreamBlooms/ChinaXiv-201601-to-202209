@@ -1,0 +1,190 @@
+# 暗管排水对南疆高水位膜下滴灌棉田盐分管控及淋洗效果分析
+
+杨玉辉¹²，周新国¹，李东伟¹（1.中国农业科学院农田灌溉研究所,河南 新乡453000;2.塔里木大学水利与建筑工程学院,新疆 阿拉尔843300)
+
+摘要：膜下滴灌植棉易发生年内土壤积盐与年际间盐分持续累积，因此，为探索全生育期棉田土壤盐分对暗管不同布设参数的响应,在本地区多年膜下滴灌高水位盐渍化棉田开展暗管改良试验,分析膜下滴灌-暗管排水模式对新疆南部特质盐渍土管控及淋洗效果。结果表明：利用暗管对棉田进行盐分管控时,棉花可在适宜的土壤盐分环境中生长,并在生育期末使盐渍化棉田由年内积盐转变为脱盐，同时可在理论上减免冬春灌用水量,而土壤盐分平衡点的范围值与域值随暗管间距增加而升高,对土壤盐分管控效果随之降低;未铺设暗管时,生育期灌水后土壤会发生返盐现象，而铺设暗管后灌水会具有不同程度的淋洗效果，且淋洗效果随间距增加而降低;根据土壤脱盐率差异性及回归分析得知，W1与W2、W3存在显著差异( $\scriptstyle P < 0 . 1 { \big . }$ ,暗管间距对土壤脱盐率的影响相比埋深更为明显；确定了W1D1、W1D2为试验设计中较优方案；由于间距 $2 0 ~ \mathrm { m }$ 亦具有较好的排盐、控盐效果，基于经济性考虑，若非重盐渍化棉田，建议采用 $2 0 \mathrm { m }$ 作为合理间距。本研究能为干旱区盐渍土改良和暗管排水技术在新疆南部的推广应用提供理论依据。
+
+关键词：暗管；盐渍化；膜下滴灌；棉花；高水位；脱盐；南疆
+
+盐分是限制干旱与半干旱地区作物生产力的主要因素。灌溉土壤特别容易受到土壤盐渍害的威胁，目前，世界范围内 $2 . 3 { \times } 1 0 ^ { 8 } \mathrm { h m } ^ { 2 }$ 的灌溉土地,有$4 . 5 { \times } 1 0 ^ { 7 } \ : \mathrm { h m } ^ { 2 }$ 受盐分胁迫的影响( $1 9 . 5 \%$ )，在 $1 . 5 { \times } 1 0 ^ { 8 }$ $\mathbf { h } \mathbf { m } ^ { 2 }$ 的旱地农业土地上，有 $3 . 2 \times 1 0 ^ { 7 } \mathrm { h m } ^ { 2 }$ 受不同程度盐分的影响[。世界农业面临的一个重要挑战是，到2050年，全球粮食产量需增加 $7 0 \%$ 用以满足 $2 . 3 \times$ $1 0 ^ { 8 }$ 人口增长的生活需要，而盐度是阻碍了全球农作物增产的最恶劣环境压力之一。
+
+中国新疆地处西北干旱内陆，极端干旱的气候条件使其成为中国土壤盐碱化、次生盐渍化的主要分布区[3]。膜下滴灌技术由于其对盐碱地适应性强并具有根区土壤脱盐、节水、增产作用[46，目前，推广面积已突破 $2 \times 1 0 ^ { 6 } \mathrm { { h m } ^ { 2 [ 7 ] } }$ ,但随着膜下滴灌技术使用年限的增加，不合理的灌溉制度和高矿化度的灌溉水质，导致土壤次生盐碱化问题较为突出[8]。刘洪亮等[9研究按照新疆现行的灌溉方式、灌水定额及种植方式,耕层土壤年均积盐约 $0 . 3 6 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ,年内土壤积盐与年际间盐分持续累积[10-13]是制约现行膜下滴灌种植模式作物出苗、高产[[14-16]的关键问题,严重威胁到当地农业生产及生态环境。
+
+棉花是新疆膜下滴灌应用最多的经济作物，将近半数的当地农民种植棉花，占农民纯收入的 $3 8 \%$ 以上[17]。新疆南部(简称南疆)地区受到高矿化度的浅层地下水蒸腾作用的影响，膜下滴灌棉田 $0 \sim$ $1 0 0 \mathrm { c m }$ 土层积盐现象严重3,地下水埋深较浅时更甚[18],虽然棉花是属于耐盐能力较强的一类作物[19],但是盐分同样对棉花种子萌发[20]和苗期生长[21-22]造成严重的影响，这就迫使农户采取非生育期漫灌压盐[的方式进行盐分淋洗以确保膜下滴灌技术可持续发展[23]。而暗管排水是一种高度有效解决涝渍、盐碱化危害问题的技术[24，被认为是盐碱土改良的根本措施，具有排水和控制地下水位的双重功效，且比传统排水更节水节地[25，众多学者对其盐分淋洗效果、模型模拟和排水性能参数优化以及作物生殖生长影响等方面进行了大量研究[26-28],但目前对于南疆高地温、强蒸发盐渍化棉田且暗管埋设于饱和带的土壤盐分状况研究鲜有报道。因此，基于目前已获得研究成果，在南疆多年膜下滴灌高水位盐渍化棉田开展暗管排水改良试验，探索全生育期棉田土壤盐分对暗管不同布设参数的响应以及膜下滴灌-暗管排水模式下灌溉淋洗对南疆特质环境的效益。基于此，本文对南疆盐渍化棉田布设暗管后生育期土壤盐分状况及灌溉淋洗效果进行分析，探讨了暗管排水技术对盐渍化棉田控盐、排盐关键作用并确定了适宜南疆高水位盐渍棉田的暗管布设参数，以期为干旱区盐渍土改良和暗管排水技术在南疆的推广应用提供依据。
+
+# 1材料与方法
+
+# 1.1试验区概况
+
+试验区选在新疆第一师阿拉尔市第十六团L $\mathrm { 8 0 ^ { \circ } 3 0 ^ { \prime } \sim 8 1 ^ { \circ } 5 8 ^ { \prime } E }$ ， $4 0 ^ { \circ } 2 2 ^ { \prime } \sim 4 0 ^ { \circ } 5 7 ^ { \prime } \mathrm { N } )$ 进行，试验田位于16团5连多年膜下滴灌棉田！ $( 8 0 ^ { \circ } 5 0 ^ { \prime } 5 0 ^ { \prime \prime } \mathrm { E }$ $4 0 ^ { \circ } 2 6 ^ { \prime } 3 4 ^ { \prime \prime } \mathrm { N } \rrangle$ ,北邻阿克苏河绕流，东邻胜利水库，西邻上游水库(图1);海拔高度 $1 0 2 5 \mathrm { ~ m ~ }$ ,年均降水量$4 0 . 1 \sim 8 2 . 5 ~ \mathrm { m m }$ ,年均蒸发量 $1 9 7 6 . 6 \sim 2 5 5 8 . 9 ~ \mathrm { m m }$ ，生育期平均气温 $2 2 . 3 ~ \mathrm { \textbar { C } }$ 、平均日照时数 $8 . 3 \mathrm { h } \cdot \mathrm { d } ^ { - 1 }$ ,为干旱气候区，地下水埋深在 $0 . 6 \sim 1 . 0 \mathrm { ~ m ~ }$ 。试验田 $0 \sim 6 0$ cm土壤以沙壤土为主， $6 0 \sim 1 0 0 \ \mathrm { c m }$ 土壤以砂性土为主,透水性较强, $0 \sim 6 0 \mathrm { c m }$ 土层干容重 $1 . 6 6 \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ，田间持水量为 $3 4 . 9 5 \%$ （体积比)，饱和含水率 $4 2 . 5 5 \%$ 。
+
+![](images/72a7b7418cfce518c7ece869d3d4d2b67d410d00c56b6c8db4b8a5b22d92b8f0.jpg)  
+图1试验田地理位置示意图  
+Fig.1Geographical location of test field
+
+# 1.2暗管试验设计及农艺管理
+
+2017年在冬春灌（ $3 0 0 0 \mathrm { ~ m } ^ { 3 } \cdot \mathrm { h m } ^ { - 2 }$ )一致的条件下，选取暗管间距、埋深两个因子，设置3个间距水平与两个埋深水平，并设置对照处理(CK)，试验共计7个处理(表1)。
+
+2017年棉花籽棉收获后，在试验田进行暗管排水工程施工。暗管采用D110(管内径 $1 1 0 ~ \mathrm { m m }$ PVC
+
+# 表1试验方案
+
+Tab.1 Test scheme   
+
+<html><body><table><tr><td>处理</td><td>W1D1</td><td>W1D2</td><td>W2D1</td><td>W2D2</td><td>W3D1</td><td>W3D2</td><td>CK</td></tr><tr><td>间距/m</td><td>10</td><td>10</td><td>20</td><td>20</td><td>30</td><td>30</td><td rowspan="2">无排水</td></tr><tr><td>埋深/m</td><td>0.8</td><td>1.1</td><td>0.8</td><td>1.1</td><td>0.8</td><td>1.1</td></tr></table></body></html>
+
+波纹聚氯乙烯(polyvinylchloride,PVC)管,波纹管表面打孔，开孔面积 $\cdot { > } 2 5 0 \ \mathrm { c m } ^ { 2 } \cdot \mathrm { m } ^ { - 2 }$ ，外包两层无纺布，波纹管末端均连接至集水管，集水管管径为200$\mathbf { m } \mathbf { m }$ ，采用小型挖掘机按设计深度开挖管沟，沟底宽$3 0 ~ \mathrm { c m }$ ，底部铺设裹料、滤料，铺设带有无纺布的暗管，填两侧与顶部滤料，回填埋管，除紧靠裹滤料$2 0 \sim 3 0 ~ \mathrm { c m }$ 土料不需夯实外，其他均要分层夯实。吸水管设计坡降比 $2 \text{‰}$ ,集水管设计坡降比 $3 \text{‰}$ ，集水管伸入蓄水池，蓄水池利用小型泵站按照“有水即排"的原则排水。生育期土样采集点位于中间暗管1/2W处（W为暗管间距），重复取样3次(图2)。
+
+试验供试棉花品种为“塔棉2号”，滴灌带布设方式为1膜2带6行，行距为 $1 1 ~ \mathrm { c m } { + } 6 6 ~ \mathrm { c m } { + } 1 1 { + } 6 6$ $\mathrm { c m } { + } 1 1 ~ \mathrm { c m }$ 的宽、窄行配置，平均株距为 $1 1 \ \mathrm { c m }$ ;滴灌铺设在膜下宽行中间，灌水前后土壤剖面土样采集重复3次(图3)。
+
+![](images/f93af20ff70ace2b0324d21233c2d61e98e7a5cbae860049602afaaba4e2cadd.jpg)  
+图2暗管布置示意图  
+Fig.2Subsurface pipes arrangement
+
+![](images/28d124fceb8488fc5481ef668690b0d78840baefc43ed24422197bc9c4a8497c.jpg)  
+图3棉花种植模式  
+Fig.3Cotton planting patterns
+
+灌溉制度以苗期不灌水，蕾期灌水1次(6月28日）和花铃期灌水2次(7月11日、7月25日）的计划实施，灌水定额为蕾期 $3 7 5 \mathrm { ~ m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 、花铃期 $4 5 0 ~ \mathrm { m } ^ { 3 }$ ：$\mathrm { h m } ^ { - 2 }$ ,每个小区的支管上均安装水表和球阀以测量和控制灌水量。棉花生育期内共施尿素 $8 0 0 \mathrm { k g \bullet h m } ^ { - 2 }$ 、磷酸二氢钾 $3 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ,采用随水施肥方式施入。
+
+# 1.3数据测定与分析
+
+采用Guelph1800K入渗仪测量土壤渗透性；田间持水率采用室内测定法测定；采用环刀取原状土测定土壤容重；土壤粒径分布采用LSI3320激光粒度仪测定。其他指标采用常规分析方法测定。
+
+于2018年4月15日（播前）、5月6日（出苗期）6月11日（苗期)6月26日(蕾期)、7月9日（盛花期）、7月23日（盛铃期）9月13日（吐絮期）6月29日（第1次灌水后）、7月12日(第2次灌水后)采集土样，每次分层取地表、 $\cdot 0 \sim 1 0 \ \mathrm { c m } \ . 1 0 \sim 2 0 \ \mathrm { c m } \ . 2 0 \sim 4 0 \ \mathrm { c m } \$ $4 0 \sim 6 0 \ : \mathrm { c m } \ : . 6 0 \sim 8 0 \ : \mathrm { c m } \ : . 8 0 \sim 1 0 0 \ : \mathrm { c m }$ 土样，共计7层。
+
+将土样经粉碎后过 $1 \mathrm { m m }$ 筛，称取 $2 0 \ \mathrm { g }$ 放入三角瓶中，加入 $1 0 0 ~ \mathrm { { m L } }$ 蒸馏水，使用振荡机振荡三角瓶$3 0 ~ \mathrm { m i n }$ ,静置 $1 0 \mathrm { m i n }$ 后进行过滤，得到水土比为1：5的浸提液，通过DDSJ-308A电导率仪测定浸提液电导率。用干燥残渣法标定出土壤含盐量与电导率关系：
+
+$$
+Y = 0 . 0 0 4 4 E C + 0 . 5 4 3 8 , R ^ { 2 } = 0 . 9 9 2 4
+$$
+
+式中： $Y$ 为土壤含盐量, $\mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 } { \ ; } E C$ 为电导率, $\mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 }$ 。土壤脱盐率计算公式为：
+
+式中： $Y _ { 0 }$ 为淋洗前土壤含盐量， $\mathbf { g } \cdot \mathbf { \mathrm { k g } } ^ { - 1 } \mathbf { ; } Y _ { 1 }$ 为淋洗后土壤含盐量， $\mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ 。
+
+利用MicrosoftExcel 2003、SPSS23.0进行数据处理及分析，Origin2017、AutoCAD2014完成制图。
+
+# 2结果与分析
+
+# 2.1 棉田生育期土壤盐分分布
+
+由图4可知，该地区高水位棉田，由于蒸发强烈，使得土壤盐分表聚严重。播前表层土壤含盐量高,达 $8 \sim 1 6 ~ \mathrm { g \cdot k g } ^ { - 1 }$ ,其中CK含盐量最高,为 $1 6 . 0 1 \ \mathrm { g }$ $\mathbf { k g } ^ { - 1 }$ ,达到重盐渍化水平;各处理土壤含盐量随深度增加变化的幅度较小,其中，W1D1、W1D2盐分趋于稳定;CK、W2D1、W3D1含盐量较其余处理高。出苗期及苗期土壤盐分均随深度增加而减小;随着生育期进程(出苗期到苗期)，CK含盐量上升 $2 8 \%$ ,其余处理土壤盐分有所降低，下降幅度为 $4 \% \sim 3 6 \%$ ，铺设暗管后排水下行成为土壤水分减少的重要渠道，而蒸发水量随之降低，返盐现象也得到抑制，土壤盐分均有所下降。蕾期、盛花期、盛铃期各处理表层土壤含盐量仍较高，其中，CK含盐量最大，为
+
+![](images/1922714ef91d96f158d62463617401de06454a29ec1d2b5f043b8d6135d9cb7c.jpg)  
+图4生育期土壤盐分分布  
+Fig.4Soil salt distribution in growth period
+
+$2 3 . 2 3 \sim 2 7 . 0 5 ~ \mathrm { g \cdot k g } ^ { - 1 }$ ,W1D1最小,为 $5 . 5 7 \sim 8 . 7 3 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，其余处理含盐量分布在 $6 . 0 0 \sim 1 3 . 6 1 ~ \mathrm { g \cdot k g } ^ { - 1 }$ 范围；根系活动层( $0 \sim 6 0 ~ \mathrm { c m } )$ 中除CK、W2D1、W3D1以外，其余处理含盐量均控制在 $5 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 以内,其中W1D1含盐量最小,为 $1 . 4 3 \sim 3 . 8 9 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ，虽然W2D1含盐量均处在较高水平，但可以发现随生育期进程，其根系活动层土壤含盐量呈下降趋势；深层土壤中 $( 6 0 \sim 1 0 0 \mathrm { c m } )$ 由于埋深较大、蒸腾拉力较小[28],使得含盐量变化较小且均处于较低水平，为 $1 . 2 2 \sim 3 . 9 5$ $\mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ ，显著低于根系活动层土壤含盐量（ $( P { < } 0 . 0 5 )$ 0与播前相比较，吐絮期CK根系活动层土壤含盐量均值上升 $1 1 . 6 3 \%$ ,其余处理均有所下降，降幅为$1 6 \% \sim 4 3 \%$ ,其中，W3D1、W3D2下降幅度较小，为$2 4 \%$ 与 $1 6 \%$ ，W2D1土壤含盐量下降 $4 3 \%$ ,显著优于W3D1、W3D2( $P { < } 0 . 0 5 )$ ；与CK相比，布设暗管经过全生育期植棉后土壤盐分状况均有所改善。
+
+暗管排水条件下盐渍化棉田由于土壤水分的运动，其盐分一直处于积盐-排盐动态变化过程，当排盐速度大于积盐速度时表现为脱盐，反之亦然，若将积盐-排盐速度达到平衡时的点称作平衡点，则到达平衡点时土壤盐分会保持在某一范围内，此过程可称之为暗管对土壤盐分的管控，而平衡点受气象、灌水、暗管铺设参数、土壤盐渍化程度等多个因素影响;在假设其余影响因素一致而只考虑暗管布设参数影响时，生育期土壤盐分分布结果表明：W1D1、W3D1、W1D2、W2D2、W3D2、CK达到平衡点后土壤含盐量变化范围分别是 $1 . 8 4 \sim 2 . 8 5 ~ \mathrm { g \cdot k g ^ { - 1 } }$ $5 . 3 7 \sim 6 . 7 2 \ { \mathrm { g } } \cdot { \mathrm { k g } } ^ { - 1 } \ 2 . 0 3 \sim 3 . 1 9 \ { \mathrm { g } } \cdot { \mathrm { k g } } ^ { - 1 } \ 2 . 4 3 \sim 4 . 1 3 \ { \mathrm { g } } \cdot$ （20$\mathbf { k g } ^ { - 1 } \ : , \ : 3 . 6 7 \sim 5 . 1 5 \ : \mathrm { ~ g } \cdot \mathbf { k g } ^ { - 1 } \ : , \ : 5 . 7 2 \sim 8 . 3 1 \ : \mathrm { ~ g } \cdot \mathrm { k g } ^ { - 1 }$ ；由于W2D1土壤初始盐渍化程度较高，使得全生育期土壤一直处于脱盐状态，所以不认为W2D1到达平衡点；观察平衡点含盐量变化范围可以发现，暗管间距增大时范围值增加，范围域也在增大，各间距处理之间范围值均值与范围域均存在显著差异( $\scriptstyle ( P <$ 0.05),说明增大暗管间距后土壤盐分平衡点会处于较高值且在较大范围内浮动，对土壤盐分管控效果
+
+也会下降。
+
+# 2.2生育期灌水后土壤盐分分布规律
+
+生育期内灌水主要目的是满足作物生长所需水分及养分。通过灌水前、后取土测试，分析生育期膜下滴灌-暗管排水模式灌水后土壤盐分分布规律。选取蕾期灌水(第1次灌水)与花铃期灌水(第2次灌水)土壤盐分含量数据制作灌后棉田根系活动层盐分半剖面分布图5。棉田灌水前盐分分布差异较大，各处理总体呈竖向表聚状态，其中W2D1、W3D1含盐量 $( \mathrm { b } 1 \mathrm { . c } 1 )$ 明显高于其余处理。经第1次灌水后，土壤盐分横向分布除W3D1以外均呈中间（距膜间 $5 0 ~ \mathrm { c m }$ 处)低、两端(距膜间 $0 \mathrm { c m }$ 与 $1 0 0 ~ \mathrm { c m }$ 处)高的分布规律，是由于距膜间 $5 0 \mathrm { c m }$ 处为滴灌带铺设位置，滴头附近土体处于脱盐状态，湿润锋附近土体盐分随入渗时间延长而不断增加[29],膜间含盐量在 $5 . 1 6 \sim 1 1 . 3 6 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ，中间土壤含盐量均值在$1 . 3 9 \sim 4 . 0 5 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ,右端在 $1 . 6 8 \sim 6 . 2 8 ~ \mathrm { g \cdot k g ^ { - 1 } }$ 范围。第2次灌水后盐分含量较第1次明显升高，除W2D1外,平均含盐量上升 $0 . 0 3 \sim 1 . 9 3 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ,主要是因为南疆7、8月地温高且干燥,致使蒸腾拉力较其他月份大，加之地下水位高且含盐量大，使得第1次灌水与第2次灌水期间返盐现象严重而导致；盐分分布特征与第1次灌水后基本一致，膜间表层为重盐区，含盐量在 $5 . 8 7 \sim 1 4 . 8 4 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ,是由于膜间为水分蒸发的主要通道，致使盐分聚集严重，中间土壤含盐量均值在 $2 . 0 0 \sim 4 . 7 5 \mathrm { ~ g ~ } \cdot \mathrm { k g } ^ { - 1 }$ ,右端在 $2 . 2 1 \sim$ （20 $7 . 6 7 ~ \mathrm { g \cdot k g ^ { - 1 } }$ 。
+
+由图5可知，各处理灌水后土壤盐分剖面分布存在一定差异，表现为W1D1、W1D2灌水后土壤均发生脱盐现象，且脱盐效果较好(a2、d2)，第2次灌水后土壤平均含盐量显著低于其余处理 $_ { ( P < 0 . 0 5 ) }$ W2D1、W3D1初始含盐量高，W2D1经第1次灌水后盐分分布已呈现中间低、两端高的分布规律(b2)，W3D1经过第1次灌水后仍表现为盐分表聚且无明显规律(c2)，而经过第2次灌水后，呈现出中间低、两端高的分布规律(c3），W2D1能够较W3D1先形成一致的盐分分布规律,使滴头处土壤处于淋洗脱盐区，可认定为其脱盐效果优于W3D1;W2D2灌后脱盐效果(e3)优于W3D2(f3)，W2D2两次灌水均表现为脱盐，而W3D2第1次为脱盐、第2次为积盐，且淋洗结束后土壤平均含盐量差异明显（ $( P { < } 0 . 0 5 )$ ；说明膜下滴灌-暗管排水模式在生育期内灌水可达到淋洗排盐目的，且排盐效果随暗管间距的减小而增加。
+
+由以上分析可知：暗管间距减小时排盐效果增加，为进一步对暗管生育期内灌水洗盐效果进行定量分析，根据各土层半剖面含盐量算数平均值，计算出了各次灌水淋洗脱盐率(表2)。由表2可知，除CK、W3D2以外，其余处理脱盐率均为正，表现为脱盐，W3D2处理第1次淋洗脱盐率为正，第2次淋洗脱盐率为负，表现为积盐，CK2次淋洗脱盐率均为负；各处理第2次淋洗总体较第1次淋洗脱盐率下降。第1次淋洗平均脱盐率与暗管间距呈负相关关系，表现为平均脱盐率 $\mathrm { W 1 D 1 > W 2 D 1 > W 3 D 1 }$ ，W1D2>（W2D2、W3D2），且达到极显著关系（ $\scriptstyle P <$ 0.01)；第2次淋洗平均脱盐率除W2D1发生变异（暗管对高盐渍化土壤具有更好的淋洗效果[28])以外，其余均与暗管间距呈负相关关系，表现为平均脱盐率 $\mathrm { W 2 D 1 { > } W 1 D 1 { > } W 3 D 1 }$ ， $\mathrm { W } 1 \mathrm { D } 2 { > } \mathrm { W } 2 \mathrm { D } 2 { > } \mathrm { W } 3 \mathrm { D } 2$ ，除W2D2、W3D2之间没有显著性外，其余处理间均存在显著关系（ $( P { < } 0 . 0 5 )$ ；平均脱盐率与暗管埋深无明显相关关系；铺设暗管淋洗脱盐率均大于不铺设暗管时(CK)。说明南疆高水位盐渍化棉田生育期内灌水，在不铺设暗管时会发生积盐，而铺设暗管后会有不同程度的脱盐，并且脱盐效果随间距减小而增加。
+
+# 2.3暗管布设参数数值分析
+
+表3为暗管不同间距及埋深对土壤脱盐率差异性及回归分析，由于样本量较少，采用 $P { < } 0 . 1$ 作为显著水平,极显著水平采用 $P { < } 0 . 0 1$ 。由差异性分析可知，主集为埋深 $0 . 8 ~ \mathrm { m ( D 1 ) }$ 时，平均值差值均为正，说明暗管间距变大时脱盐率下降;间距 $1 0 \mathrm { m }$ 与间距$2 0 \mathrm { m } \cdot 3 0 \mathrm { m }$ 的脱盐率差异性均达到显著水平，其中，$1 0 \mathrm { m }$ 与 $2 0 ~ \mathrm { m }$ 差异显著( $\scriptstyle P < 0 . 1 { \mathrm { ~ } }$ ）， $1 0 \mathrm { ~ m ~ }$ 与 $3 0 \mathrm { m }$ 差异性极显著( $\scriptstyle { \phantom { - } } P < 0 . 0 1$ )，间距 $2 0 ~ \mathrm { m }$ 与 $3 0 \mathrm { ~ m ~ }$ 差异性不显著;埋深 $1 . 1 \mathrm { ~ m ~ }$ 具有同样结论。埋深 $0 . 8 \mathrm { ~ m ~ }$ 与 $1 . 1 \mathrm { ~ m ~ }$ 时脱盐率差异不显著，且平均值差值表现为无规律性。由以上分析可知，试验区域的较优暗管布设方案为W1D1、W1D2。回归分析显示（表4)，拟合优度为0.735；由间距 $( X _ { 1 } )$ 标准化系数显著水平高于埋深$\left( { { X } _ { 2 } } \right)$ 标准化系数显著水平可知，暗管间距对土壤脱盐率的影响相比埋深更为明显。
+
+# 3讨论
+
+南疆长期膜下滴灌棉田在生育期结束后会出
+
+距膜间水平距离/cm 距膜间水平距离/cm 距膜间水平距离/cm 含盐量20 40 60 80 100 2040 60 80 100 20 40 60 80 100 /(g·kg1)0t 28 Y.93 15.00  
+中 2 10020 872.8730 2.403.33 40 1.47 1.00 /65450 50 1.9360 60W1D1 (a1)灌水前 (a2)第1次灌水 (a3)第2次灌水距膜间水平距离/cm 距膜间水平距离/cm 距膜间水平距离/cm 含盐量2040 60 80 100 20 40 60 80 100 20 40 60 80 100/（gkg）012613.44 14.22 0.311.19.56/74899.5 448.007.2 15:8810 10 1020 12.67 14.22 20 2756 332.5630 30 30 S40 40 894.11 4.89 40-50 50 50 5660 4.89 50 13.33 LW2D1 (b1)灌水前 (b2)第1次灌水 (b3)第2次灌水距膜间水平距离/cm 距膜间水平距离/cm 距膜间水平距离/cm 含盐量20 40 60 80 100 20 40 60 80 100 20 40 60 80 100/（g.kg-1)0 .56 12.67 14.22 4.22 10 13.44 11.8910.3311.89 11.11 .00 10 0.3 11.8.78 15:88 46782013.33 2030 30 3040 40 5.67 405060 333 50 4.11 5060 3.33/6.44 6012.563.33 4 F1:68W3D1 (c1）灌水前 (c2)第1次灌水 (c3)第2次灌溉距膜间水平距离/cm 距膜间水平距离/cm 距膜间水平距离/cm 含盐量  
+聘 2040 60 80 100 10 20 40 1.93 60 80 100 019.40847 6.60 20 40 60 80 7.53 100/（gkg 15.003.33 103.80B3 20 20 .87 19330 30178 401.73 4050 50 .73 5033601 256 60W1D2 (d1)灌水前 (d2)第1次灌水 (d3)第2次灌水距膜间水平距离/cm 距膜间水平距离/cm 距膜间水平距离/cm 含盐量20 40 60 80 100 20 40 60 80 100 20 40 60 80 100/（gkg67473 2020 .67 2.8710- 10-2.87173 20 2.40 2030 30- 193 308 7.540 L 40 80 40 2.87050 50 501193601247 60 1.931.47 60 1.93W2D2 (e1)灌水前 (e2)第1次灌水 (e3)第2次灌水距膜间水平距离/cm 距膜间水平距离/cm 距膜间水平距离/cm 含盐量20 40 60 80 100 20 40 60 80 100 20 40 60 80 100/(g·kg-1)6448.088.11103320 18.78 32 5:02  
+E 10 A2.56 10 20 2.56 2.56 20 1030 3040 405033 3/33 5033 2.56 5060.56 2.56 60 60W3D2 (f1)灌水前 (f2)第1次灌水 (f3)第2次灌水
+
+# 表2灌溉淋洗脱盐率
+
+Tab.2 Irrigation leaching desalinationrate   
+
+<html><body><table><tr><td rowspan="2">处理</td><td rowspan="2">灌溉次序</td><td colspan="6">脱盐率/%</td></tr><tr><td>地表</td><td>0~10cm</td><td>10~20cm</td><td>20~40 cm</td><td>40~60cm</td><td>平均</td></tr><tr><td rowspan="2">W1D1</td><td>1</td><td>44.68</td><td>45.26</td><td>37.46</td><td>54.47</td><td>47.39</td><td>45.85</td></tr><tr><td>2</td><td>23.43</td><td>7.30</td><td>32.64</td><td>19.17</td><td>26.43</td><td>21.79</td></tr><tr><td rowspan="2">W2D1</td><td>1</td><td>19.30</td><td>25.11</td><td>49.50</td><td>26.47</td><td>41.26</td><td>32.33</td></tr><tr><td>2</td><td>38.28</td><td>52.14</td><td>39.93</td><td>47.29</td><td>59.47</td><td>47.42</td></tr><tr><td rowspan="2">W3D1</td><td>1</td><td>17.87</td><td>34.61</td><td>21.27</td><td>20.42</td><td>35.48</td><td>25.93</td></tr><tr><td>2</td><td>11.80</td><td>27.67</td><td>10.52</td><td>17.85</td><td>27.39</td><td>19.05</td></tr><tr><td rowspan="2">W1D2</td><td>1</td><td>63.87</td><td>47.08</td><td>59.94</td><td>49.91</td><td>24.84</td><td>49.13</td></tr><tr><td>2</td><td>5.97</td><td>20.50</td><td>35.46</td><td>32.26</td><td>45.24</td><td>27.88</td></tr><tr><td rowspan="2">W2D2</td><td>1</td><td>24.89</td><td>30.44</td><td>15.34</td><td>21.38</td><td>29.35</td><td>24.28</td></tr><tr><td>2</td><td>41.63</td><td>39.65</td><td>16.70</td><td>20.58</td><td>19.69</td><td>27.65</td></tr><tr><td rowspan="2">W3D2</td><td>1</td><td>29.33</td><td>15.04</td><td>30.92</td><td>18.98</td><td>33.36</td><td></td></tr><tr><td>2</td><td>-0.54</td><td>-3.61</td><td>-10.89</td><td>-3.85</td><td>-2.60</td><td>25.53 -4.30</td></tr><tr><td rowspan="2">CK</td><td>1</td><td>-96.88</td><td>-3.25</td><td>1.14</td><td>-5.94</td><td>-0.52</td><td>-21.09</td></tr><tr><td>2</td><td>-116.36</td><td>-11.71</td><td>-24.36</td><td>-8.19</td><td>-6.33</td><td>-33.39</td></tr></table></body></html>
+
+注：1表示第1次灌水；2表示第2次灌水。
+
+表3暗管不同间距、埋深对土壤脱盐率差异性分析  
+Tab.3Difference analysis of soil desalination rate with different width and depth of subsurface pii   
+
+<html><body><table><tr><td rowspan="2">主集</td><td rowspan="2">子集</td><td rowspan="2">显著性(t)</td><td rowspan="2">平均值差值</td><td rowspan="2"></td><td colspan="2">95%置信区间</td></tr><tr><td>下限</td><td>上限</td></tr><tr><td>埋深/m</td><td>间距/m</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">D1(0.8)</td><td>W2(20) W1(10)</td><td>0.062*</td><td></td><td>13.506</td><td>-0.889</td><td>27.901</td></tr><tr><td></td><td>W3(30)</td><td>0.003**</td><td>19.904</td><td>9.185</td><td>30.623</td></tr><tr><td>W2(20)</td><td>W3(30)</td><td>0.372</td><td>6.398</td><td>-9.194</td><td>21.990</td></tr><tr><td rowspan="3">D2(1.1)</td><td>W1(10)</td><td>W2(20)</td><td>0.010**</td><td>24.848</td><td>7.892</td><td>41.804</td></tr><tr><td></td><td>W3(30)</td><td>0.015*</td><td>23.602</td><td>5.839</td><td>41.365</td></tr><tr><td>W2(20)</td><td>W3(30)</td><td>0.790</td><td>-1.246</td><td>-11.688</td><td>9.196</td></tr><tr><td>间距/m</td><td>埋深/m</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>W1(10)</td><td></td><td></td><td>0.667</td><td>-3.276</td><td>-20.204</td><td>13.652</td></tr><tr><td>W2(20)</td><td>0.8</td><td>1.1</td><td>0.234</td><td>8.048</td><td>-6.382</td><td>22.478</td></tr><tr><td>W3(30)</td><td></td><td></td><td>0.940</td><td>0.404</td><td>-11.593</td><td>12.401</td></tr></table></body></html>
+
+注：\*\*表示在0.05水平上差异显著；\*表示在0.1水平上差异显著。
+
+表4暗管不同间距、埋深对土壤脱盐率回归分析  
+Tab.4 Regression analysis of soil desalination rate with different width and depth of subsurface pipes   
+
+<html><body><table><tr><td>变量</td><td>未标准化系数</td><td>标准误差</td><td>标准化系数</td><td>t值</td><td>sig.值</td><td>R</td></tr><tr><td>间距(Xi)</td><td>-0.947</td><td>0.348</td><td>-0.807</td><td>-2.718</td><td>0.073</td><td rowspan="2"></td></tr><tr><td>埋深(X2)</td><td>-18.422</td><td>18.959</td><td>-0.289</td><td>-0.972</td><td>0.403</td></tr><tr><td>常数项</td><td>70.751</td><td>19.519</td><td></td><td>3.625</td><td>0.036</td><td>0.735</td></tr><tr><td>回归方程</td><td colspan="6">Z= -0.807X-0.289X+ 70.751</td></tr></table></body></html>
+
+现不同程度积盐[12],为降低土壤盐分含量以备次年更优出苗[30]，在次年播前进行冬春灌用以保压盐。本研究结果表明，CK吐絮期相比播前积盐明显，含盐量均值上升 $1 1 . 6 3 \%$ ，这与苏里坦等[13的研究结果一致，而铺设暗管吐絮期土壤盐分含量则比播前下降 $1 6 \% \sim 4 3 \%$ ;铺设暗管使盐渍化棉田由年内积盐转变为脱盐，此结果可作为降低冬春灌水量或免冬春灌的依据。
+
+当进入生育阶段后，棉花生长表现为低盐促进、高盐抑制[31],所以盐分胁迫是抑制作物生长、降低作物产量关键原因[32],因此，需要控制棉田土壤盐分以保证作物正常生长。朱延凯等[15]通过室内模拟试验研究发现,当含盐量高于 $5 . 3 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ 时，棉花产量、单株铃数及单铃质量均开始显著下降，而<$5 . 3 ~ \mathrm { g \cdot k g ^ { - 1 } }$ 时，则与低含盐量土壤无显著差别。本研究结果显示,铺设暗管后，棉田出苗期及苗期土壤盐分下降 $4 \% \sim 3 6 \%$ ，这与刘玉国等28研究结果相似，而CK处理土壤含盐量上升 $2 8 \%$ ，布设暗管能为棉花出苗及苗期生长提供适宜的环境；CK全生育期内土壤盐分含量较高，根系活动层平均含盐量在$5 . 7 2 \sim 8 . 3 1 \ \mathrm { g \cdot k g } ^ { - 1 }$ 范围，大于棉花减产阈值 $( 5 . 3 \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } )$ ：铺设暗管后，蕾期、盛花期、盛铃期除W2D1（初始含盐量较高）、W3D1（排水性能较差)以外，其余处理根系活动层土壤含盐量均小于棉花减产阈值$( 5 . 3 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } )$ 。综上所述，采用暗管对棉田盐分进行管控，棉花可在适宜的土壤盐分环境中生长。
+
+棉花作为一年生植物，其各生育阶段长势对最终产量的影响明显。目前，暗管铺设于饱和带时灌水淋洗排盐效果已有较多研究成果[33-34],也有试验对铺设暗管后各生育期土壤盐分变化状况进行了分析研究[26-28.34-36],但尚未出现统一的表述作为饱和带暗管对作物各生育期土壤盐分管控作用的定量分析依据。本研究通过观察、分析试验数据，提出平衡点范围值与范围域值的理念，以此作为定量评判饱和带暗管对各生育期土壤盐分管控效果的依据，并通过数据分析得出结论：增大暗管间距，土壤盐分平衡点会处于较高值且在较大范围内浮动，对土壤盐分管控效果也会下降。
+
+生育期内未布设暗管时(CK)灌水后会发生返盐现象，铺设暗管后灌水可达到淋洗排盐目的，分析灌后盐分剖面与灌水淋洗脱盐率可以发现，排盐效果均随暗管间距的减小而增加，并在差异性分析中得出 $1 0 \mathrm { m }$ 为暗管较优布设间距,这与王振华等[35]的研究结果一致;试验结果还表明，埋深 $0 . 8 \mathrm { ~ m ~ }$ 与$1 . 1 \mathrm { m }$ 脱盐率差异不显著，暗管间距对土壤脱盐率的影响相比埋深更为明显，这与衡通等[36研究结果相似。 $2 0 ~ \mathrm { m }$ 间距暗管在全生育期仍能达到良好盐分管控效果,Singh等[37研究指出，暗管使用年限的增加可以弥补排盐能力的不足，Bahceci等[25]研究发现，铺设暗管排水系统3a后，表层土壤平均脱盐率高达 $8 0 \%$ ,基于实际工程中减小暗管间距将增加工程造价的原因，建议若非重盐渍化棉田，可采用20$\mathrm { ~ m ~ }$ 作为合理间距。
+
+# 4结论
+
+（1）利用暗管对南疆高水位盐渍化棉田进行盐分管控时，棉花可在适宜的土壤盐分环境中生长，并在生育期末使盐渍化棉田由年内积盐转变为脱盐，同时可在理论上减免冬春灌用水量;而土壤盐分平衡点范围值与范围域随暗管间距减小而降低，对土壤盐分管控效果随之提升。
+
+(2）未铺设暗管时，生育期灌水后土壤会发生返盐现象，而铺设暗管后灌水会具有不同程度的盐分淋洗效果，并且随着暗管间距的减小，对土壤盐分淋洗的效果也会提升。
+
+（3）根据土壤脱盐率差异性及回归分析得知，W1脱盐率显著优于 $\mathbb { W } 2 , \mathbb { W } 3 \left( P \mathrm { < } 0 . 1 \right)$ ,确定W1D1、W1D2为试验设计中较优方案；暗管间距对土壤脱盐率的影响相比埋深更为明显。
+
+(4）由于间距 $2 0 ~ \mathrm { m }$ 亦具有较好的排盐、控盐效果，基于经济性考虑，若非重度盐渍化棉田，建议采用 $2 0 \mathrm { m }$ 作为合理间距。
+
+# 参考文献(References):
+
+[1] Hefny MM,MetwaliRM,MohamedAI.Assessment of genetic diversity of sorghum(Sorghum bicolor L.Moench) genotypes under saline irigation water based on some selection indices [J].Australian Journal Crop Science(AJCS),2013,7(12): 1935-1945.   
+[2] FAO(20O9) Global Agriculture towards 2050.Briefing Paper FAO High level expert forum on“how to feed the world 205O",Rome, 21-23.   
+[3] 田长彦,周宏飞,刘国庆.21世纪新疆土壤盐渍化调控与农业 持续发展研究建议[J].干旱区地理,2000,22(2):177-181. [Tian Changyan, Zhou Hongfei,Liu Guoqing. The proposal on control of soil salinizing and agricultural sustaining development in 21's Century in Xinjiang[J].Arid Land Geography, 20o0,22(2): 177-181.]   
+[4] 李朝阳,王振华,郑旭荣,等.膜下滴灌应用年限对盐碱荒地土 壤盐分的调控[J].武汉大学学报(工学版),2013,46(6):696- 701.[Li Zhaoyang,Wang Zhenhua, Zheng Xurong,et al. Different years of drip irrigation under film application in saline and uncultivated land to control soil salt[J]. Engineering Journal of Wuhan University,2013,46(6): 696-701.]   
+[5]李文昊,王振华,郑旭荣,等.新疆绿洲盐碱地滴灌条件下地下 水局部动态对荒地盐分的影响[J].干旱区研究,2016,33(5): 1110-1118.[Li Wenhao,Wang Zhenhua, Zheng Xurong,et al.Effectsof local dynamic change of groundwater on soil salinityin wasteland under drip irrigation in saline or alkaline land of oasis in Xinjiang [J]. Arid Zone Research,2016,33(5): 1110-1118.]   
+[6]孙池涛,张俊鹏,张谦,等.起垄沟播和常规平播下滴灌棉田土 壤水盐的运移[J].干旱区研究,2019,36(2):307-313.[Sun Chitao, Zhang Junpeng,Zhang Qian,et al. Soil water and salt migration in cotton fields under drip irrigation under furrow sowing and regular horizontal sowing[J]. Arid Zone Research, 2019,36(2): 307-313.]   
+[7]王振华,杨培岭,郑旭荣,等.新疆现行灌溉制度下膜下滴灌棉 田土壤盐分分布变化[J].农业机械学报,2014,45(8):149-159. [Wang Zhenhua, Yang Peilin, Zheng Xurong,et al. Soil salt dynamics in cotton fields with mulched drip irrigation under the existing irrigation system in Xinjiang[J]. Transactions of the Chinese Society for Agricultural Machinery,2014,45(8): 149-159.]   
+[8]李明思,刘洪光,郑旭荣.长期膜下滴灌农田土壤盐分时空变 化[J].农业工程学报,2012,28(22):82-87.[Li Mingsi,Liu Hongguang, Zheng Xurong. Spatiotemporal variation for soil salinity of field land under long-term mulched drip irrigation[J]. Transactions of the Chinese Society of Agricultural Engineering,2012,28 (22): 82-87.]   
+[9] 刘洪亮,褚贵新,赵风梅,等.北疆棉区长期膜下滴灌棉田土壤 盐分时空变化与次生盐渍化趋势分析[J].中国土壤与肥料, 2010(4): 12-17.[Liu Hongliang,Chu Guixin, Zhao Fenmei, et al. Spatial and temporal changes of soil salinity and secondary salinization in cotton fields under long-term drip irrigation in Northern Xinjiang cotonregion[J].SoilandFertilizer Sciences in China, 2010(4): 12-17.]   
+[10] 马富裕,周治国,郑重,等.新疆棉花膜下滴灌技术的发展与完 善[J].干旱地区农业研究,2004,22(3):202-208.[Ma Fuyu, Zhou Zhiguo, Zheng Zhong,et al. The development and improvement of drip irigationunder plastic film on cotton[J].Agricultural Research in the Arid Areas,2004,2(3): 202-208.]   
+[11] 弋鹏飞,虎胆·吐马尔白,吴争光,等.棉田膜下滴灌年限对土壤 盐分累积的影响研究[J].水土保持研究,2010,17(5):118-122. [Yi Pengfei, Tidan Tuomalbai, Wu Zhengguang,et al. Research on soil salt accumulation influence by the years of covered coton under drip irrigation[J].Research of Soil and Water Conservation, 2010, 17(5): 118-122. ]   
+[12] 赵成义,闫映宇,李菊艳,等.塔里木灌区膜下滴灌的棉田土壤 水盐分布特征[J].干旱区地理,2009,32(6):892-898.[Zhao Chengyi, Yan Yingyu,Li Juyan, etal.Distributed characteristics of soil water-salt of cotton field under drip irrigation under mulching in Tarim Irrigated Area[J].Arid Land Geography,2009,32(6): 892-898.]   
+[13] 苏里坦,阿不都·沙拉木,宋郁东.膜下滴灌水量对土壤水盐运 移及再分布的影响[J].干旱区研究,2011,28(1):79-84.[Su Litan,Abudu Salamu,Song Yudong.Effects of drip irrigation volume on soil water-salt transfer and its redistribution[J].Arid Zone Research,2011,28(1): 79-84.]   
+[14] 王伟,傅臣家,李光永,等.土壤盐分与灌溉水质对滴灌棉花出 苗率的影响[J].灌溉排水学报,2011,30(1):20-23.[Wang Wei, Fu Chenjia,LiGuangyong,etal.Effectsofdiffrentsaltstrson physiological growth and yield of cotton under drip irrigation[J]. Journal of Irrigation and Drainage,2011,30(1): 20-23.]   
+[15] 朱延凯,王振华,李文昊.不同盐胁迫对滴灌棉花生理生长及产 量的影响[J].水土保持学报,2018,32(2):298-305.[Zhu Yankai,Wang Zhenhua,Li Wenhao.Efects of diferentsalt stresses on physiological growth and yield of drip irrigation cotton[J]. Journal of Soil and Water Conservation,2018,32(2): 298-305.]   
+[16]孙肇君,李鲁华,张伟,等.膜下滴灌棉花耐盐预警值的研究[J]. 干旱地区农业研究,2009,27(4):140-145.[Sun Zhaojun,Li Luhua,Zhang Wei,et al. Research on early warning value of salt tolerance of cotton with drip irrigation under mulch[J].Agricultural Research in the Arid Areas,2009,27(4): 140-145.]   
+[17] 宁松瑞,左强,石建初,等.新疆典型膜下滴灌棉花种植模式的 用水效率与效益[J].农业工程学报,2013,29(22):90-99.[Ning Songrui, Zuo Qiang,Shi Jianchu,et al. Water use efficiency and benefit for typical planting modes of drip-irrigated cotton under film in Xinjiang[J].Transactions of the Chinese Society of Agricultural Engineering,2013,29(22): 90-99.]   
+[18] 杨鹏年,吴彬,王水献,等.干旱区不同地下水埋深膜下滴灌灌 溉制度模拟研究[J].干旱地区农业研究,2014,32(3):76-82. [Yang Pengnian,Wu Bin,Wang Shuixian,et al.Research on irrigation schedule of cotton drip irigation under plastic film based on the different ground water table in arid areas[J].Agricultural Research in the Arid Areas,2014,32(3): 76-82.]   
+[19] 杨淑萍,危常州,梁永超.新疆主要棉花品种耐盐性筛选与鉴定 [J].干旱区研究,2013,30(6):1129-1135.[Yang Shuping,Wei Changzhou,Liang Yongchao.Identification and screening of salt tolerance of main cotton varieties in Xinjiang[J].Arid Zone Research, 2013,30(6): 1129-1135.]   
+[20] 王俊娟,叶武威,周大云,等.盐胁迫下不同耐盐类型棉花的萌 发特性[J].棉花学报,2007,19(4):315-317.[Wang Junjuan,Ye Wuwei, Zhou Dayun,et al. Studies on germination characteristics of different salinity resistant cotton under salt stress[J]. Cotton Science,2007,19(4): 315-317.]   
+[21] Munis MF S,Tu L L, Ziaf K,et al. Critical osmotic,ionic and physiological indicators of salinity tolerance in cotton(Gossypium hirsutum L.）for cultivar seletion[J].PakistanJournalof Botany, 2010, 42(3): 1685-1694.   
+[22] 王立红,李星星,孙影影,等.NaCl胁迫下外源水杨酸对棉花幼 苗叶片光合特性的影响[J].干旱区研究,2017,34(3):655-662. [Wang Lihong,Li Xingxing, Sun Yingying,et al.Effects of exogenous salicylic acid on photosynt-hetic characteristics of cotton sedlings leaves under salt stress [J]. Arid Zone Research,2017, 34(3): 655-662.]   
+[23] 虎胆·吐马尔白,弋鹏飞,王一民,等.干旱区膜下滴灌棉田土壤 盐分运移及累积特征研究[J].干旱地区农业研究,2011,29(5): 144-150.[Tidan Tuomalbai, Yi Pengfei,Wang Yimin,et al.Research on transport and accumulation characteristics of soil salinityof cotton field under film mulched drip irrigation inarid areas[J]. Agricultural Research in the Arid Areas,2011,29(5): 144-150.]   
+[24]Kladivko E J,Frankenberger JR,Jaynes D B,et al.Nitrate leaching to subsurface drains as affected by drain spacing and changes in crop production system[J]. Journal of Environment Quality,2004, 33(5): 1803.   
+[25]Bahceci I, Nacar A S. Subsurface drainage and saltleaching in irrigated land in South-east Turkey[J]. Irrigation and Drainage,2009, 58(3): 346-356.   
+[26] 李显激,左强,石建初,等.新疆膜下滴灌棉田暗管排盐的数值 模拟与分析Ⅱ:模型应用[J].水利学报,2016,47(5):616-625. [Li Xianwei, Zuo Qiang, Shi Jianchu, et al. Evaluation of salt discharge by subsurface pipes in the cotton field with film mulched dripirrigation in Xinjiang,China I :Application of the calibrated models and parameters[J]. Journal of Hydraulic Engineering,2016, 47(5) : 616-625.]   
+[27]李显激,左强,石建初,等.新疆膜下滴灌棉田暗管排盐的数值 模拟与分析I：模型与参数验证[J].水利学报,2016,47(4): 537-544.[Li Xianwei, Zuo Qiang,Shi Jianchu,et al.Evaluation of salt discharge by subsurface pipes in the coton field with film mulched drip irrigation in Xinjiang,China I.Calibration to models and parameters[J]. Journal of Hydraulic Engineering,2016,47 (4) : 537-544.]   
+[28] 刘玉国,杨海昌,王开勇,等.新疆浅层暗管排水降低土壤盐分 提高棉花产量[J].农业工程学报,2014,30(16):84-90.[Liu Yuguo,Yang Haichang,Wang Kaiyong,et al. Shallow subsurface pipe drainage in Xinjiang lowers soil salinity and improves cotton seed yield[J]. Transactions of the Chinese Society of Agricultural Engineering,2014,30 (16) : 84-90.]   
+[29] 李毅,王文焰,王全九,等.非充分供水条件下滴灌入渗的水盐 运移特征研究[J].水土保持学报,2003,17(1):1-4.[Li Yi, Wang Wenyan,Wang Quanjiu,et al. Experimental study on water and salt transport characteristics under infiltration of non- suffcient trickle irrigation[J]. Journal of Soil and Water Conservation,2003, 17(1): 1-4.]   
+[30]曹峰,徐勋,何玉梅.棉田秋冬灌洗盐压碱技术调查[J].中国棉 花,2002(5): 31-32.[Cao Feng,Xu Xun,He Yumei. investigation on salt and alkali technology of irrigation in cotton field in autumn and winter[J]. China Coton,2002(5): 31-32.]   
+[31] 冯棣,张俊鹏,孙池涛,等.不同生育阶段盐分胁迫对棉花生长 和水分生理指标的影响[J].生态学杂志,2014,33(5):1195- 1199. [Feng Di, Zhang Junpeng, Sun Chitao,et al. Responses of cotton growth and water physiological indices to salt stress at different growing stages[J]. Chinese Journal of Ecology,2O14,33(5): 1195-1199.]   
+[32] 孙娟娟,张英俊.植物对盐分空间不均匀分布的形态和生理响 应研究进展[J].生态学报,2017,37(23):7791-7798.[Sun Juanjuan, Zhang Yinjun.A review of plant morphology and physiological response to spatially heterogeneous salinity[J].Acta Ecologica Sinica,2017,37(23): 7791-7798.]   
+[33] 于淑会,韩立朴,高会,等.高水位区暗管埋设下土壤盐分适时 立体调控的生态效应[J].应用生态学报,2016,27(4):1061- 1068.[Yu Shuhui, Han Lipu,Gao Hui,et al. Ecological effects of soil salinity regulation through saline water irrigation and subsurface drainage in high water table level area[J]. Chinese Journal of Applied Ecology,2016,27(4): 1061-1068.]   
+[34] 石培君,刘洪光,何新林,等.基于HYDRUS模型的暗管排水水 盐运移模拟[J].干旱地区农业研究,2019,37(3):224-231.[Shi Peijun,Liu Honguang,He Xinlin,et al. The simulation of water and salt transportation undersubsurface drainage by HYDRUS model[J].Agricultural Research in the Arid Areas,2019,37(3): 224-231.]   
+[35] 王振华,衡通,李文昊,等.滴灌条件下排水暗管间距对土壤盐 分淋洗的影响[J].农业机械学报,2017,48(8):253-261.[Wang Zhenhua,Heng Tong,Li Wenhao,etal.Efects of drainage pipe spacing on soil salinity leaching under drip irigation condition[J]. Transactions of the Chinese Society for Agricultural Machinery, 2017, 48(8): 253-261.]   
+[36] 衡通,王振华,李文昊,等.滴灌条件下排水暗管埋深及管径对 土壤盐分的影响[J].土壤学报,2018,55(1):111-121.[Heng Tong,Wang Zhenhua,Li Wenhao,et al. Impacts of diameter and depth of drainage pipes in fields under drip irrigation on soil salt [J].Acta Pedologica Sinica,2008,55(1): 111-121.]   
+[37] Singh M,Bhattacharya A K,Singh A K,etal.Application of SALTMOD in coastal claysoil in India[J]. Irrigationand Drainage Systems,2002,16(3): 213-231.]
+
+# Analysis of the effect of subsurface pipes on salt control and leaching in drip irrigation under a mulch cotton field at high groundwater level in Southern Xinjiang by subsurface pipes
+
+YANG Yu-hui'²， ZHOU Xin-guo'， LI Dong-wei' (1.Farmland Irrigation Research Institute,Chinese Academy ofAgricultural Sciences, Xinxiang 453ooo,Henan,China;2.CollegeofWaterResource andArchitectural Engineering,Tarim University,Alaer 8433oo,Xinjiang,China)
+
+Abstract: Cotton planting under mulch drip irrigation in Southern Xinjiang contributes to the accumulation of salt in the soil through the years,and thereare few reports on the studyof soil salinity in the high-temperature and strong evaporating salinized coton fields in South Xinjiang,which are buried in the saturated zone with subsurface pipes.Therefore,to explore the response of soil salinity in cotton fields to layout parameters of subsurface pipes during the whole growth period,soil salinity environment tests in cotton fields with high groundwaterand salt content level bydrip irigation under mulch for many years were carried out.The width and depth as the influence factors of subsurface pipes drainage performance were set to three width levels(10,20,and 30 m),two depth levels (0.8 and $1 . 1 \mathrm { m } \dot { }$ ),and ck(no drainage).The effects of drip irrigation under mulch and drainage by subsurface pipes on the management and leachingof saline soil in Southern Xinjiang were analyzed.The results show thatsoil salinity in coton fields with high groundwater and salt content levels in Southern Xinjiang was ata high level during the whole growth period in CK; atthe end of the growth period,salt acumulation occurred compared with that before sowing. However,thesalt content obviouslydecreased when the soil salinity in the coton field wascontrolled bysubsurface pipes( $1 6 \% - 4 3 \%$ decrease),and the salinized cotton field changed from salt accumulation to desalination.The water consumption during winter and spring irigationcan be reduced in theory at the same time.The equilibrium point is in alower range value and scope field.The efect of subsurface pipes on soil salinity management decreases with the increase of width.Salt returns after irrigation without subsurface pipes during the growth period; however,the purpose of leaching and desalination after irigation can be achieved with subsurface pipes,and the leaching and desalination effct decreases with the increase of width.According to the difference and regresson analysis of the soil desalination rate,there were significant differences between W1 ( $1 0 ~ \mathrm { m } )$ andW2 ( $2 0 ~ \mathrm { m }$ ),W3 (30m) ( $P$ <0.1). The average difference of soil desalination rates between W1 and W2,W3 was 13. $5 \%$ and $1 9 . 9 \%$ ,respectively,at D1 depth,while that between W1 and $\mathbb { W } 2$ ，W3 was $2 4 . 8 \%$ and $2 3 . 6 \%$ at D2 depth.The influence of the width is more obvious than thatof depthonsoil desalination rate.Itis determined that W1D1and W1D2 are the best schemes in the experimental design.Because the width of $2 0 \mathrm { ~ m ~ }$ also has a good effect on salt discharge and control, based on economic considerations,if thecotton field is notheavilysalinized,2Omisrecommendedasareasonable width. The results can provide a basis for improving saline soil in arid areas and the popularization and application of subsurface pipes drainage technology in Southern Xinjiang.
+
+Keywords: subsurface pipes；soil salinization；drip irigation under mulch;cottn;high groundwaterlevel;desalination; Southern Xinjiang

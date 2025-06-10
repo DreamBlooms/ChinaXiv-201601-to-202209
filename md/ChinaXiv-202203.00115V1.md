@@ -1,0 +1,308 @@
+# 新疆葱属植物区系地理特征
+
+张巧关1²，张道远13，刘会良14
+
+(1.中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆乌鲁木齐830011；2.中国科学院大学,北京101408；3.中国科学院吐鲁番沙漠植物园,新疆 吐鲁番838000；4.中国科学院新疆生态与地理研究所伊犁植物园，新疆 新源835815)
+
+摘要：葱属(Alium Linnaeus )植物是具有重要价值的植物资源。中国新疆地区位于亚欧大陆腹地，地处亚洲中部,且具有丰富的葱属植物多样性。查证葱属植物相关书著、文献资料及标本信息记录,探讨新疆葱属植物资源及其区系地理特征,为该属植物的系统分类、生物多样性保育以及资源合理开发利用等方面提供参考。依据已有的葱属相关记录和资料,新疆葱属植物有58种、1亚种、2变种、6栽培种。新疆分布的葱属植物的区系地理特征：(1)新疆葱属植物的分布地域主要集中在天山、伊犁塔城、阿勒泰、喀什地区,新疆葱属植物多生长于荒漠、草原、干旱坡地、砾石地、山地、高山、林下(森林)生境;(2）在地理成分的分布区类型中,新疆葱属植物主要分布在ⅡIC5b准噶尔亚地区,IIC5b的区系属于温带荒漠性质；IA2阿尔泰地区、ⅡIC5a塔城伊犁亚地区、IA3天山地区、ⅡIC6c 喀什亚地区也相对较多；(3）在新疆植被区划的系统单位类型中,新疆葱属植物分布在IB1(阿尔泰山-北塔山草原省）、IIA2（东天山北坡草原云杉林及高山草甸植被省）、IA1（准噶尔盆地半灌木荒漠植被省）、IB3（天山南坡荒漠及山地草原植被省)植被省的种类较多，其次是ⅡIB1(东疆砾质戈壁灌木荒漠植被省）、IA1（准噶尔盆地西部山地草原省）、IB2(塔里木盆地灌木荒漠植被省)植被省,分布在ⅡIB4(帕米尔-昆仑-阿尔金山地荒漠与高山草原植被省）、IC1（新疆南部高寒草原省)植被省的种类相对较少;(4)新疆葱属植物的水平分布和垂直分布均存在分异;(5）新疆葱属植物与哈萨克斯坦、俄罗斯的共有种较多,中国新疆地区与哈萨克斯坦、俄罗斯之间的葱属植物共有种数无太大差异且共有种的相似度较高。今后还应综合分子系统发育（植物系统发育区系地理学）、演化历史（历史植物地理学）分子生物地理学等方面进行纵深研究。
+
+关键词：葱属(AliumLinnaeus)；物种多样性；植物区系；区系地理特征；区系联系；新疆
+
+AlbrechtvonHaller于1745年对葱属（AlliumLinnaeus)植物进行了较早的描述，将其描述为“Mo-ly foliis caulinis lanceolatis floribus umbellatis,ex alabulbiferum”[1]。1753年,林奈（Carolus Linnaeus）建立葱属（AlliumL.）,并将AlliumL.发表于《SpeciesPlantarum》(ed.1)[2],该属的后选模式标本(lectoty-pus)为AlliumsativumL.（蒜)。葱属是花瓣状单子叶植物类群(the petaloid monocotyledons）中最大的属之—[3-4],为北半球广布属。林奈用双名法命名葱属时,描述记录了葱属植物30种[5],继Don[6]、Regel[7]后，葱属植物种数记录不断增加，目前约有1000多种[8]。该属植物主要分布于北半球的泛北区以及季节性的干旱地区(主要分布在亚欧和北美地区)[9-18]，少数种类分布在南半球［分布于南非(Allium syn-notii G.Don.,常见异名:Allium dregeanumKunth)以及中南美洲][12.19-24]。传统上，因其子房上位等特征，葱属被置于广义百合科Liliaceae(s.l.)，而在早期的被子植物分类系统中，基于其伞形花序结构和总苞结构(总苞由苞片构成)等特征，葱属也被划分至狭义石蒜科Amaryllidaceae(s.s.）。随着植物分子系统学的发展,Fay[25]、Takhtajan[26]、APG(The Angio-spermPhylogenyGroup）[27]等根据分子系统学证据，将葱属置于葱科AlliaceaeBatschexBorkh.中，该属也被写录人APG系统，并且已被多数学者所接受。
+
+距目前时间最近的APGV系统则将其划归至石蒜科（Amaryllidaceae)[28]。《中国植物志》29]共载录葱属110种(包括变种和引进的外来种),《Floraof China》[23]共载录该属138种1亚种13变种，其中有50个特有种、5个引进的外来种，《中国高等植物》30共载录115种、11变种，《新疆植物志》31和《新疆植物志·简本》32]分别载录了该属47种（其中包含41种、2变种、4栽培种）73种(其中包含64种、1亚种、3变种、5栽培种)。我国葱属(AlliumL.)植物分布广泛，主要分布于西北、西南、华北和东北地区[29]。
+
+鉴于该属植物多数种类具有特殊气味，含黄酮、甾体皂苷及大蒜衍生化合物（有机硫化合物，OSC)等成分和活性物质[33-37]，花冠形态、颜色、花序大小的多样性[38-39],且具克隆生长、须根系等特点[40,以及久远的利用历史,其食用、药用、观赏、生态、美学及人文等重要价值越来越被关注和重视，常作为蔬菜、调料、香料、饲料、药用药材、观赏景观、环境防护等方面的资源植物而被利用[41-45]。此外，葱属植物多生活在季节性的干旱地区，由于具有耐旱性以及调节和改善生态系统等方面的生态功能[14],该属植物在干旱地区的草地固沙、草场退化防治、改善和环境防护等方面也发挥着重要作用，其所体现的重要经济价值及生态价值备受关注。因此，在研究和开发利用葱属植物资源的过程中，了解新疆地区该属植物的种类及地理分布是很有必要的。
+
+葱属植物是一类重要的植物种质与遗传资源，也是中亚及新疆地区物种多样性极为丰富、且具有食用、药用、观赏价值及生态功能的重要资源植物。葱属除了人们熟悉的洋葱（AlliumcepaL.）、葱(AlliumfistulosumL.)大蒜(AlliumsativumL.）韭菜(Allium tuberosum Rottl.ex Spreng.）、头（AlliumchinenseG.Don)等人工栽培的种类外，还有许多野生种类，具有较高的资源价值，是一类极具研究价值和开发利用潜力的植物资源。中亚地区及我国的中西部包括帕米尔高原地区被认为是葱属栽培植物的主要起源中心之一[38.46]。因此,研究新疆地区葱属植物资源、其种类及地理分布，具有一定意义。
+
+通过查阅《新疆植物志》31《新疆植物志·简本》[32]《FloraofChina》[23]《中国植物志》[29]《中国沙漠植物志》[47]《中国高等植物》[30]及其他相关书著、文献资料和相关标本，结合《新疆葱属植物资源研究》[38]、运用在线数据库及相关标本平台，对新疆葱属植物的多样性、种类、地理分布及其区系特征进行初步总结和分析，以期为该属植物的分类工作、生物多样性保育以及资源合理开发利用等方面积累基础资料和提供参考。
+
+# 1研究区概况
+
+新疆地处亚欧大陆中部腹地，位于中国西北边陲，地理位置 $3 4 ^ { \circ } 1 5 ^ { \prime } { \sim } 4 9 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } \mathrm { , } 7 3 ^ { \circ } 2 0 ^ { \prime } { \sim } 9 6 ^ { \circ } 2 5 ^ { \prime } \mathrm { E }$ ，总面积约 $1 . 6 6 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ，约占中国陆地总面积的六分之一，周边与印度、巴基斯坦、阿富汗、塔吉克斯坦、吉尔吉斯斯坦、哈萨克斯坦、俄罗斯、蒙古8个国家接壤，毗邻国内甘肃、青海、西藏省区。
+
+新疆地区地表结构的基本轮廓为“三山夹两盆"格局，地形地貌特征复杂，相对高差巨大，地势由北向南逐层抬高且高低差异大[48],地质条件复杂[49]。该区气候属于典型的温带大陆性干旱荒漠气候,存在从北疆温带到南疆暖温带的分异[50]。气温变化大，日照时间长，降水量少，多风，空气干燥，干旱少雨[51]。新疆地区的主要土壤类型有荒漠土、平原荒漠土、“吐加依"土、草甸土、沼泽土、草原土、森林土、盐渍土、荒漠草原土(北部为棕钙土，向南过渡为淡棕钙土）、冲洪积土、高寒荒漠土、沙漠沙、风沙土和冰沼泽土等[52]。该区土地利用和土地覆盖及植被类型多样，山脉、山系分布有森林和草地植被，盆地分布有典型温带荒漠植被，河谷平原区有绿洲和城市的分布，具有广布的沙漠戈壁景观，但植被覆盖率总体较低，生态系统和环境较为敏感、脆弱[53],其植被类型主要有荒漠、草原、森林、灌丛、山地草甸、高寒草甸、沼泽及冰雪带等，荒漠、草原、森林是其主要的地带性植被类型[48.54-55]
+
+新疆复杂的景观与地形，变化明显的气候以及特殊的植物种质资源等，孕育了特异的植物资源，反映出在特殊地理环境中生存的植物的区域特殊性和生物学多样化的特点[56]
+
+# 2 研究方法
+
+根据《FloraofChina》[23]《中国植物志》[29]《中国沙漠植物志》47]《新疆植物志》31]《新疆葱属植物资源研究》[38]《新疆植物志·简本》[32],基于相关标本信息（来源于中国国家标本资源共享平台NSII[57、中国数字植物标本馆 $\mathrm { C V H } ^ { [ 5 8 ] }$ )和文献资料[44.59],确定新疆地区葱属植物的种类、海拔、生境及分布地域(分布的县或市）。运用植物区系地理学的基本原理和方法以及OfficeExcel等软件，按照不同分布地域所包含的葱属植物种数进行整理和统计，并结合吴征镒等的中国植物区系分区系统及张佃民等的新疆植被区划示意图，进行地理成分和植被区划类型分析，确定新疆葱属植物的分布区类型（即植物区系分区类型)及其分布的植被区划系统单位类型。依据相关书著和文献资料(各邻近地区的植物资料、国内邻近省区及国外邻近地区的植物志)[23,29.62-72]以及相关数据库网站[57,73-74],确定新疆地区与国内外邻近地区的葱属植物共有种，并对新疆葱属植物区系与国内外邻近地区该属植物区系进行比较和分析。其中，区系相似性系数(coefficientof similarityof flora)的计算采用 Sorenson［75]提出、Moore［76]和张镜锂建议的统一计算公式：
+
+$$
+S = [ 2 c / \left( A + B \right) ] \times 1 0 0 \%
+$$
+
+式中：S为相似性系数； $A$ 为甲地的全部种数(不含栽培种、世界广布成分和引进的外来成分); $B$ 为乙地的全部种数(不含栽培种、世界广布成分和引进的外来成分）； $\mid c \mid$ 为两地的非世界广布共有种数
+
+此外，补充收集已出版的相关植物区系文献资料，所涉及的葱属植物名称登录中国国家标本资源共享平 台（NSII,http://www.nsii.org.cn/2017/home.php）、中国数字植物标本馆(CVH,http://www.cvh.ac.$\mathrm { c n / }$ ）、中文名称按照《FloraofChina》及拉丁学名均按照国际 TPL(The Plant List,http://www.theplantlist.org/)进行查询核校，没有凭证标本记录的种暂不予接受。
+
+# 3结果与分析
+
+# 3.1新疆葱属(AlliumL.)植物的种类及分布
+
+新疆葱属植物有58种(表1)，且新疆地区分布有该属植物1亚种、2变种、6栽培种(表2)，另有8个未见标本的存疑种类(表2)，较1996年版的《新疆植物志》新增17种,分别为：直立韭AlliumamphibolumLedeb.、白韭AlliumblandumWall.、知母薤AlliumcaesiumSchrenk细叶北韭AlliumclathratumLedeb.、迷人薤Allium delicatulum Siev.ex Schult.&Schult.f.贺兰韭Allium eduardi Stearn ex Airy Shaw 条叶长喙非AlliumkurssanoviiPopov 硬皮葱Alliumledebourianum Schult.& Schult.f.大鳞韭Allium megalobulbonRegel、高地蒜AlliumoreophilumC.A.Mey.昆仑韭Al-liumpevtzovii Prokh.、健蒜Allium robustum Kar.&Kir.红花韭Alliumrubens Schrad.exWilld.赛里木薤Allium sairamense Regel、单丝辉韭Allium schren-kiiRegel、荒漠韭AlliumtekesicolaRegel、细叶韭Alli-um tenuissimumL.;新增1亚种即钝叶韭(宽苞韭亚种）Allium platyspathum subsp.amblyophyllum (Kar.&Kir.)N.Friesen。
+
+此外，本文中整理出的新疆葱属植物，较《新疆葱属植物资源研究》新增12种，分别为：直立韭、白韭、细叶北韭、星花蒜AlliumdecipiensFisch.exSchult.&Schult.f.贺兰韭、草地韭Alliumkaschia-numRegel、条叶长喙韭、硬皮葱、大鳞韭、高地蒜、昆仑韭、红花韭;新增1亚种即钝叶韭(宽苞韭亚种);新增1变种即糙葶北葱(北葱变种)AlliumkareliniiPoljak.(Allium schoenoprasum var. scaberrimum Regel）
+
+新疆地区葱属植物的分布地域主要集中在天山、伊犁塔城、阿勒泰、喀什地区，该属的分布地区与新疆地区主要山系“三山"(阿尔泰山-天山-昆仑山)分布相吻合。从表1可见，新疆葱属植物分布的生境较为多样，主要分布在荒漠、草原、干旱坡地、砾石地、山地、高山、林下(森林),海拔在 $0 { \sim } 5 4 0 0 \mathrm { m }$ 。
+
+# 3.2新疆葱属植物地理成分及植被区划类型分析
+
+3.2.1新疆葱属植物区系分区类型（即地理成分的分布区类型）从表3可见， $\mathbb { I } \operatorname { C } 5 \mathrm { b }$ 准噶尔亚地区是新疆葱属植物区系中最丰富的，有49种，占新疆分布葱属植物种总数的 $8 4 . 4 8 \%$ ;其次，IA2阿尔泰地区(38种， $6 5 . 5 2 \%$ ）、 $\mathbb { I } \operatorname { C } 5 \mathrm { a }$ 塔城伊犁亚地区（38种，$6 5 . 5 2 \%$ ）、IA3天山地区(37种， $6 3 . 7 9 \%$ ）、 $ { \mathbb { I } } \operatorname { C } 6 \mathrm { c }$ 喀什亚地区（34种， $5 8 . 6 2 \%$ )相对较多，ⅢF17c帕米尔-喀喇昆仑-昆仑亚地区最少(有18种)，但也占有一定比例 $( 3 1 . 0 3 \%$ ）。
+
+3.2.2新疆葱属植物分布的植被区划系统单位类型由表4可知，新疆葱属植物分布在IB1(阿尔泰山-北塔山草原省）、ⅡA2(东天山北坡草原云杉林及高山草甸植被省）、ⅡA1(准噶尔盆地半灌木荒漠植被省）、ⅡB3(天山南坡荒漠及山地草原植被省)植被省的种类较多，其次是ⅡB1（东疆砾质戈壁灌木荒漠植被省）、IA1（准噶尔盆地西部山地草原省）、ⅡB2(塔里木盆地灌木荒漠植被省)植被省，分
+
+表1新疆葱属植物种类及分布  
+Tab.1 A list of the species and distribution from Allium L.in Xinjiang Province,China   
+
+<html><body><table><tr><td>种类*</td><td>海拔/m</td><td>生境</td><td>分布地域</td></tr><tr><td>阿尔泰葱 Allium altaicum</td><td>0~2400</td><td>缝、落叶松林下</td><td>山地草原带、砾石质山坡或草地、石 和布克赛尔、哈巴河、布尔津、阿勒泰、福海、青 河、塔城、巴里坤、富蕴</td></tr><tr><td>直立韭 Allium amphibolum</td><td>2500~3000</td><td>坡地</td><td>伊吾、和布克赛尔、阿勒泰、布尔津</td></tr><tr><td>矮韭 Allium anisopodium</td><td>0~2200</td><td>坡地、山地草原带或荒漠沙土地、粗沙 和静、哈巴河、吉木乃、布尔津、阿勒泰、福海、青 地、盐化土</td><td>河、克拉玛依</td></tr><tr><td>蓝苞葱(原变种) Allium atrosanguineum</td><td>2400~5400</td><td>高山草甸、沼泽地、河谷、溪边、湿地、阿克苏、昭苏、温泉、阿勒泰、和静、新源、特克斯、 山地草原带及林间空地、向阳山坡</td><td>塔城、额敏、和布克赛尔、裕民、托里、博乐、巩留、 沙湾、石河子、玛纳斯、呼图壁、昌吉、乌鲁木齐、 阜康、吉木萨尔、奇台、木垒、巴里坤、霍城、伊宁、 和硕、库车、塔什库尔干</td></tr><tr><td>砂韭 Allium bidentatum</td><td>600~2000</td><td>砾石质坡地</td><td>草地、草甸、盐碱地、山地草原带阳坡 和静、富蕴、哈密、和布克赛尔、木垒、巴里坤、伊 吾</td></tr><tr><td>白韭 Allium blandum</td><td>3500~5000</td><td>高山湿地陡坡</td><td>乌鲁木齐</td></tr><tr><td>棱叶薤Allium caeruleum</td><td>1100~2300</td><td>山地草原灌木丛、山地草甸、干旱坡 塔城、和布克赛尔、察布查尔、裕民、托里、博乐、 地、平原、山坡、云杉林</td><td>精河、沙湾、玛纳斯、额敏、昌吉、阜康、乌鲁木齐、 奇台、木垒、温泉、霍城、福海、乌恰、巩留、新源、</td></tr><tr><td>知母薤 Allium caesium</td><td>700~2000</td><td>荒漠、干旱草地</td><td>昭苏、特克斯、和静、和硕、库车 乌鲁木齐、和布克赛尔、昌吉</td></tr><tr><td>疏生韭 Allium caespitosum</td><td>640~2800</td><td>荒漠低地或沙丘附近</td><td>和布克赛尔、阿勒泰、布尔津、和静、巴音郭楞、乌 鲁木齐、阿克陶、阜康、博乐</td></tr><tr><td>镰叶韭 Allium carolinianum</td><td>2500~5000</td><td>森林至高山草甸、林下及山坡草甸、砾 阿勒泰、青河、沙湾、玛纳斯、乌鲁木齐、哈密、昭 石质山坡及林下草地</td><td>苏、新源、巴里坤、若羌、塔什库尔干、和静、阿克 陶、喀什、温宿、奇台、吐鲁番、库车、温泉、莎车、 乌恰、叶城</td></tr><tr><td>细叶北韭 Allium clathratum</td><td>400~2000</td><td>干旱坡地、石坡、悬崖</td><td>布尔津</td></tr><tr><td>星花蒜(星花韭) Allium decipiens</td><td>2000</td><td>山地石质坡地、砾质戈壁</td><td>策勒、青河、和布克赛尔、奇台、木垒、阜康</td></tr><tr><td>迷人薤 Allium delicatulum</td><td>0~2900</td><td>草原、干旱坡地、荒漠、沙地、石地、盐 托里、乌恰 碱地</td><td></td></tr><tr><td>贺兰韭 Allium eduardi</td><td>0~1750</td><td>干旱坡地、平原</td><td>和静、伊吾、阿勒泰、乌鲁木齐、和布克赛尔</td></tr><tr><td>多籽蒜 Allium fetisowii</td><td>800~1500</td><td></td><td>草地灌丛、空旷之地、山坡及山麓荒地塔城、裕民、巩留、新源、特克斯、福海</td></tr><tr><td>新疆韭 Allium flavidum</td><td>1500~2600</td><td>山地草原、林中岩石裂缝、向阳坡地</td><td>若羌、哈密、和布克赛尔、塔城、托里、哈巴河、布 尔津、青河、福海、巴里坤、阿勒泰</td></tr><tr><td>实葶葱 Allium galanthum</td><td>500~2070</td><td>地、陡坡、山坡或河谷</td><td>山地草原、草甸、干旱石质和砾质坡 托里、裕民、青河、乌鲁木齐、阿勒泰、玛纳斯 坡地、河谷、山地草原带及高山草甸带塔城、裕民、和布克赛尔、博乐、温泉、沙湾、玛纳</td></tr><tr><td>头花 Allium glomeratum</td><td>511~3000</td><td></td><td>斯、昌吉、乌鲁木齐、阿勒泰、巴里坤、阿克陶、新 和、温宿、焉耆、阜康、托里、奇台、木垒、霍城、巩 留、新源、昭苏、特克斯、和静、和硕、库车、塔什库</td></tr><tr><td>灰皮薤</td><td>0~2900</td><td>草甸、沼泽地</td><td>尔干 和布克赛尔、阿克陶、巴里坤、托克逊</td></tr></table></body></html>
+
+注：\*表示不含亚种、变种、变型及栽培种；“（"为常见的别名或异名。
+
+<html><body><table><tr><td>种类</td><td>海拔/m</td><td>生境</td><td>分布地域</td></tr><tr><td>北疆韭(原变种)</td><td>1100~2700</td><td>低地、山地草甸带</td><td>草甸、干旱草地、高原、山坡、湿润 布尔津、富蕴、阿克陶、青河、喀什、霍城、拜城、塔城、额 敏、托里、精河、乌鲁木齐、温泉、伊宁、昭苏、特克斯、巩</td></tr><tr><td>Allium hymenorhizum 草地韭</td><td>2400~3800</td><td></td><td>留、新源、和静、和硕、乌恰 草地、砾石平原、山坡、山地草原带昭苏、青河、和静、于田、策勒、皮山、塔什库尔干、阿克陶、</td></tr><tr><td>Allium kaschianum 石生韭 Allium kokanicum</td><td>1800~3600</td><td>高山草甸</td><td>乌苏 砾石质坡地、岩石裂缝、高山和亚和布克赛尔、塔城、额敏、托里、温泉、沙湾、玛纳斯、乌鲁 木齐、吐鲁番、和静、和硕、轮台、库车、莎车、乌恰、阿克</td></tr><tr><td>褐皮韭</td><td></td><td>盆地、砾石质滩地及干旱坡地</td><td>陶、塔什库尔干、叶城、阿克苏、昭苏、策勒、皮山、鄯善、哈 密、博乐、阿合奇、特克斯、木垒、精河、且末 昭苏、和布克赛尔、特克斯、新源、巩留、和静、库车、喀什</td></tr><tr><td>Allium korolkowii 条叶长喙韭</td><td>2200~2700</td><td>石坡、石缝、悬崖</td><td>霍城</td></tr><tr><td>Allium kurssanovii 硬皮葱</td><td>100~1800</td><td>山地、湿地、河床、砾质沙地</td><td>哈巴河</td></tr><tr><td>Allium ledebourianum 北韭</td><td>760~2400</td><td>荒漠草原至森林、丘陵和碎石山 伊吾、富蕴、青河、塔城、裕民、额敏、阿勒泰、布尔津、福 坡、石质坡地、平原荒漠或山地草 海、乌鲁木齐、巴里坤</td><td></td></tr><tr><td>Allium lineare 大鳞韭</td><td>1216</td><td>原带;多生于灌丛 砾石坡、石坡</td><td>博乐;天山西部</td></tr><tr><td>Allium megalobulbon 蒙古韭</td><td>800~2800</td><td></td><td>荒漠、沙地、荒地、干旱山坡、干旱 阿勒泰、青河、富蕴、阜康、吉木萨尔、奇台、沙湾、博乐、布</td></tr><tr><td>Allium mongolicum 齿丝山韭</td><td>1500</td><td>坡地</td><td>尔津、和布克赛尔、木垒、伊吾、乌鲁木齐、霍城、哈巴河 山地草原、山坡草丛、草甸、湿地、和布克赛尔、哈巴河、布尔津、阿勒泰、青河、乌鲁木齐</td></tr><tr><td>Allium nutans 高葶韭</td><td>1200~2000</td><td>草原带</td><td>草原至草甸、山坡、河谷、山地草原 和布克赛尔、鄯善、塔城、裕民、沙湾、玛纳斯、乌鲁木齐、</td></tr><tr><td>Allium obliquum 高地蒜</td><td>2500~3000</td><td>和草甸带 砾石质坡地</td><td>布尔津、奇台、伊宁、昭苏 和布克赛尔;天山</td></tr><tr><td>Allium oreophilum 滩地韭 Allium oreoprasum</td><td>1200~3937</td><td>阳坡、流石滩、砾石戈壁及山地石 塔城、和布克赛尔、裕民、托里、昭苏、温泉、博乐、乌苏、沙 质坡</td><td>湾、玛纳斯、昌吉、乌鲁木齐、阿克苏、阜康、奇台、霍城、伊 宁、尼勒克、特克斯、伊吾、吉木乃、布尔津、和静、鄯善、拜</td></tr><tr><td>小山薤</td><td>569~2300</td><td>荒漠及干旱坡地</td><td>城、阿合奇、阿图什、阿勒泰、乌恰、温宿、和硕、喀什、疏 附、阿克陶、吐鲁番市高昌区、塔什库尔干、叶城、民丰、皮 山、和田、策勒、若羌、于田、且末 哈巴河、布尔津、阿勒泰、福海、富蕴、青河、塔城、额敏、裕 民、托里、沙湾、玛纳斯、石河子、昌吉、乌鲁木齐、奎屯、阜</td></tr><tr><td>石坡韭</td><td></td><td></td><td>康、吉木萨尔、奇台、巴里坤、温泉、伊宁、巩留、新源、昭 苏、吉木乃、拜城、特克斯、和静、察布查尔、和硕、库车、莎 车、塔什库尔干、克拉玛依市(独山子区)、和田、乌苏 和布克赛尔、裕民、额敏、哈密、沙湾、玛纳斯、乌鲁木齐、</td></tr><tr><td>Allium petraeum 昆仑韭</td><td>1300~1400</td><td>低山石质坡地 坡地</td><td>霍城、塔什库尔干 叶城</td></tr><tr><td>Allium pevtzovii 宽苞韭(原亚种)</td><td>2700~3700</td><td></td><td>高山草甸、石质坡地、山地草原带哈巴河、吉木乃、布尔津、阿勒泰、青河、塔城、和布克赛 尔、裕民、托里、温泉、博乐、沙湾、玛纳斯、昌吉、乌鲁木</td></tr><tr><td></td><td></td><td></td><td>齐、阜康、吉木萨尔、奇台、木垒、巴里坤、伊吾、霍城、昭 苏、特克斯、巩留、新源、尼勒克、和静、和硕、拜城、库车、 温宿、莎车、乌恰、福海、鄯善、哈密、阿克陶、塔什库尔干、 吐鲁番、若羌</td></tr><tr><td>碱韭 Allium polyrhizum</td><td>820~4144</td><td>草原</td><td>平原荒漠、阳坡、草地、盐碱地、石 富蕴、和布克赛尔、博乐、拜城、布尔津、吉木乃、叶城、阿 质残丘、干旱山坡、砾石地、荒漠 勒泰、温泉、塔城、额敏、裕民、托里、且末、沙湾、玛纳斯、 昌吉、乌鲁木齐、阜康、吉木萨尔、巴里坤、伊吾、霍城、哈 密、石河子、若羌、和静、阿克陶、乌苏、皮山、福海</td></tr><tr><td>蒙古野韭</td><td>1500</td><td>石坡、草原、准噶尔西部山地草 塔城、额敏、和布克赛尔、托里 原带</td><td></td></tr></table></body></html>
+
+续表1
+
+<html><body><table><tr><td>种类"</td><td>海拔/m</td><td>生境</td><td>分布地域</td></tr><tr><td>青甘韭 Allium przewalskianum</td><td>2000~4800</td><td>山干旱山坡石缝、灌木丛下</td><td>山地灌丛至高山草地、山沟、平原、高 乌鲁木齐(后峡)、和静、塔什库尔干、策勒、和田、皮山、伊 吾、叶城</td></tr><tr><td>野韭 Allium ramosum</td><td>500~2394</td><td>润的草甸草原、草原化草甸等群落、向齐、温宿、巩留、新源、和静、吉木乃 阳山丘、草地、山地草原带</td><td>荒漠草原至草原、砾石质山坡及较湿 和布克赛尔、库车、哈巴河、哈密、阿勒泰、尼勒克、乌鲁木</td></tr><tr><td>新疆蒜 Allium roborowskianum</td><td>1000~1500</td><td>云杉林下、沙滩、沙泥地、林地阴坡</td><td>霍城、乌恰、和静、塔城、察布查尔、阿勒泰</td></tr><tr><td>健蒜 Allium robustum</td><td>600~1000</td><td>山地草原、灌丛、干旱石坡、草地</td><td>青河、塔城、新和</td></tr><tr><td>红花韭 Allium rubens</td><td>1800~2200</td><td>草原、灌丛、石坡、陡地</td><td>鄯善、和布克赛尔、哈密、布尔津、乌鲁木齐</td></tr><tr><td>赛里木 Allium sairamense</td><td>2400~3400</td><td>和亚高山草甸</td><td>云杉林坡地、亚高山至高山坡地、高山 和布克赛尔、温泉、沙湾、玛纳斯、尼勒克、新源</td></tr><tr><td>长喙韭 Allium saxatile</td><td>1000~3100</td><td>山地草原、干旱坡地、向阳石灰质山 青河、阿勒泰、布尔津、富蕴、塔城、托里、博乐、精河、玛纳 坡、砾石戈壁、多石山坡</td><td>斯、呼图壁、石河子、乌鲁木齐、奇台、木垒、霍城、昭苏、新 源、阜康、温泉、和布克赛尔、尼勒克、福海、塔什库尔干、 乌什、沙湾、裕民、哈巴河、额敏、吉木萨尔、巴里坤、伊吾、</td></tr><tr><td>类北薤 Allium schoenoprasoides</td><td>2390~3000</td><td>山地草甸带或山谷河滩地、坡地、草地和布克赛尔、博乐、沙湾、塔城、托里、昌吉、乌鲁木齐、石</td><td>伊宁、巩留、特克斯、和静、和硕、库车;阿尔泰山、天山 河子、木垒、霍城、昭苏、特克斯、巩留、新源、和静、和硕、</td></tr><tr><td>北葱(原变种) Allium schoenoprasum</td><td>2000~3000</td><td>坡、山谷、溪边</td><td>库车、乌恰、乌苏、巴里坤 河边至山地草甸、高山草甸、河谷、湿 托里、和静、新源、布尔津、阿勒泰、乌鲁木齐市(达坂城 区）福海</td></tr><tr><td>单丝辉韭 Allium schrenkii</td><td>2400~2800</td><td>高山石坡</td><td>阿勒泰、塔什库尔干</td></tr><tr><td>管丝葱 Allium semenovi</td><td>2000~3500</td><td>林缘、湿坡、草甸、阴湿草地</td><td>裕民、塔城、托里、温泉、精河、博乐、沙湾、玛纳斯、奇台、 乌鲁木齐、木垒、昭苏、新源、吐鲁番、巩留、特克斯、和静、</td></tr><tr><td>山韭 Allium senescens</td><td>500~2500</td><td>草原至森林、干旱石坡、盐碱草甸、砾 哈密、和布克赛尔、塔城、富蕴、温泉、阿勒泰、布尔津、木 石质坡地</td><td>尼勒克、乌苏、奎屯、和硕、库车 垒、乌鲁木齐、巴里坤、青河、沙湾、伊宁、昭苏、特克斯、巩</td></tr><tr><td>丝叶韭 Allium setifolium</td><td>400~1000</td><td>钙质坡地、荒漠、干旱砾石质坡地及戈 额敏、塔城、托里、和布克赛尔、温泉、裕民、博乐、石河子、 壁滩</td><td>留、吐鲁番 沙湾、呼图壁、木垒、吉木萨尔、乌鲁木齐、奇台、伊宁、新</td></tr><tr><td>辉韭 Allium strictum</td><td>400~2500</td><td>石质坡地、悬崖、山地草甸及云杉林 富蕴、福海、托里、鄯善、和布克赛尔、木垒、哈密、吉木萨 空地</td><td>源、巩留、特克斯、昭苏、和硕、和静 尔、塔城、玛纳斯、阿勒泰、乌鲁木齐、哈巴河、布尔津、温</td></tr><tr><td>蜜囊韭 Allium subtilissimum</td><td>700~1713</td><td>地、前山干山坡及砾石戈壁滩</td><td>泉、精河、阜康 干旱石质坡地、悬崖、河边砾石质盐碱 和布克赛尔、策勒、鄯善、哈密、奇台、木垒、富蕴、托克逊、 玛纳斯、吉木乃、阿勒泰、哈巴河、阜康、乌鲁木齐县、乌鲁</td></tr><tr><td>荒漠韭 Allium tekesicola</td><td>1900</td><td>前山荒漠和干旱山坡</td><td>木齐市(达坂城区);阿尔泰山 和静、昭苏、新源、特克斯</td></tr><tr><td>细叶韭 Allium tenuissimum</td><td>0~2000</td><td>坡地、草地、沙地</td><td>阿勒泰;阿尔泰山</td></tr><tr><td>西疆韭 Allium teretifolium</td><td>1200~2000</td><td>干旱的砾石质山坡</td><td>精河、特克斯、乌鲁木齐、哈密、昭苏、霍城、尼勒克、伊宁、 新源、巩留</td></tr><tr><td>天山韭 Allium tianschanicum</td><td>1200~3400</td><td>亚高山灌木丛、草甸、山地砾石坡地</td><td>拜城、青河、喀什、霍城、乌恰、阿克陶、布尔津、哈巴河、阿 勒泰、塔城、和布克赛尔、额敏、托里、裕民、乌鲁木齐、沙 湾、奇台、吉木萨尔、伊吾、巴里坤、伊宁、巩留、尼勒克、昭</td></tr><tr><td>坛丝韭 Allium weschniakowii</td><td>1900</td><td>干旱的砾石质坡地、砾石质山坡地及 精河、博乐、温泉 砾石滩地</td><td>苏、新源、特克斯、库车、和静</td></tr></table></body></html>
+
+# 表2新疆葱属植物组成
+
+Tab.2 The composition of AlliumL.in XinjiangProvince,China   
+
+<html><body><table><tr><td>分类群/类别</td><td>数量/种</td><td>种类及名称</td></tr><tr><td>种</td><td>58</td><td>见表1</td></tr><tr><td>亚种</td><td>1</td><td>钝叶韭(宽苞非亚种)Allium platyspathum subsp.amblyophyllum</td></tr><tr><td>变种</td><td>2</td><td>旱生韭(北疆韭变种)Allium hymenorhizumvar.dentatum</td></tr><tr><td rowspan="9">栽培种</td><td rowspan="9">6</td><td>糙葶北葱(北葱变种)Allium karelinii(Allium schoenoprasum var.scaberrimum)</td></tr><tr><td>非葱Allium ampeloprasum (Allium porrum)</td></tr><tr><td>洋葱(皮牙孜)Allium cepa</td></tr><tr><td>葱(大葱)Allium fistulosum</td></tr><tr><td>蒜(大蒜)Allium sativum</td></tr><tr><td>韭(非菜)Allium tuberosum</td></tr><tr><td>薤白Allium macrostemon</td></tr><tr><td>费葱(蓝苞葱变种)Allum atrosanguineum var.fedschenkoanum</td></tr><tr><td>高原薤Allium jacquemontii</td></tr><tr><td rowspan="8"></td><td rowspan="8"></td><td>尤尔都斯薤Allium juldusicola</td></tr><tr><td>网球韭(宽叶葱)Allium karataviense</td></tr><tr><td>少花葱Allium oliganthum</td></tr><tr><td>沙地薤Allium sabulosum</td></tr><tr><td>郁金叶蒜Allium tulipifolium</td></tr><tr><td></td></tr><tr><td>伊型蒜Allium winklerianum</td></tr></table></body></html>
+
+注："（"为常见的异名或别名。
+
+表3新疆葱属植物区系分区类型[60]  
+Tab.3 Areal-types of floristics from AlliumL.in Xinjiang   
+
+<html><body><table><tr><td rowspan="2">区</td><td rowspan="2">亚区</td><td rowspan="2">地区</td><td rowspan="2">亚地区</td><td rowspan="2">葱属植物 种数①</td><td rowspan="2">占新疆分布葱属植物种 总数的比例/%</td></tr><tr><td></td></tr><tr><td>I泛北极植物区</td><td>IA欧亚森林亚区IA2阿尔泰地区</td><td></td><td></td><td>38</td><td>65.52</td></tr><tr><td rowspan="3">Ⅱ古地中海植物区</td><td></td><td>IA3天山地区</td><td></td><td>37</td><td>63.79</td></tr><tr><td>ⅡC 中亚荒漠亚区ⅡC5准噶尔地区</td><td></td><td>ⅡC5a塔城伊型亚地区</td><td>38</td><td>65.52</td></tr><tr><td></td><td></td><td>ⅡC5b 准噶尔亚地区</td><td>49</td><td>84.48</td></tr><tr><td rowspan="2">Ⅲ东亚植物区</td><td>ⅢF青藏高原亚区ⅢF17西藏、帕米尔、昆仑地区</td><td>ⅡC6 喀什噶尔地区</td><td>ⅡC6c 喀什亚地区 II F17c 帕米尔-喀喇昆仑-</td><td>34</td><td>58.62</td></tr><tr><td></td><td></td><td>昆仑亚地区</td><td>18</td><td>31.03</td></tr></table></body></html>
+
+注： $\textcircled{1}$ 不含亚种、变种; $\textcircled{2}$ 百分数总和大于 $100 \%$ 。
+
+布在ⅡB4(帕米尔-昆仑-阿尔金山地荒漠与高山草原植被省）、IC1(新疆南部高寒草原省)植被省的种类相对较少。
+
+# 3.3新疆葱属植物与邻近地区的联系
+
+3.3.1与国内邻近省区葱属植物共有种比较及区系相似性分析新疆地区葱属植物共有58种，国内与其相邻的省区甘肃、青海、西藏分别有51种、39种和30种(均不含亚种、变种、栽培种)。新疆地区与国内邻近省区甘肃、青海、西藏地区葱属植物的共有种及区系相似性比较分析结果(表5)表明：(1）新疆葱属植物区系与国内邻近省区甘肃、青海、西藏地区具有一定联系，其中新疆地区与甘肃地区的葱属植物共有种为19种，相似性系数为 $3 4 . 8 6 \%$ ,共有种数占新疆分布葱属植物种总数的 $3 2 . 7 6 \%$ ,与青海地区的葱属植物共有种为14种，相似性系数为$2 8 . 8 6 \%$ ，共有种数占新疆分布葱属植物种总数的比例为 $2 4 . 1 4 \%$ ，与西藏地区的葱属植物共有种为8种，相似性系数为 $1 8 . 1 8 \%$ ,共有种数占新疆分布葱属植物种总数的 $1 3 . 7 9 \%$ ;(2)新疆、甘肃、青海、西藏四省区共有的葱属植物为：蓝苞葱、镰叶韭、滩地韭、碱韭、青甘韭、野韭；(3)共有种多为花丝基部合生并与花被片贴生、内轮花丝基部扩大且比外轮宽
+
+# 表4新疆葱属植物分布的植被区划系统单位类型
+
+Tab.4 Distribution of the vegetation regionalization from Allium L. in Xinjiang   
+
+<html><body><table><tr><td>新疆植被分区①</td><td>种数②</td><td>占新疆分布种总数的比例%</td></tr><tr><td>IIA IA</td><td>28</td><td>48.28</td></tr><tr><td>IB I B</td><td>49</td><td>84.48</td></tr><tr><td>IC IC</td><td>16</td><td>27.59</td></tr><tr><td>ⅡⅡA ⅡIA</td><td>46</td><td>79.31</td></tr><tr><td>I A2</td><td>47</td><td>81.03</td></tr><tr><td>ⅡB ⅡI B</td><td>31</td><td>53.45</td></tr><tr><td>IB</td><td>27</td><td>46.55</td></tr><tr><td>ⅡI B3</td><td>44</td><td>75.86</td></tr><tr><td>I B4</td><td>20</td><td>34.48</td></tr></table></body></html>
+
+注： $\textcircled{1}$ 参考张佃民等， $1 9 9 0 _ { \circ }$ 新疆植被省：IA1准噶尔盆地西部山地草原省，IB1阿尔泰山-北塔山草原省，IC1新疆南部高寒草原省，ⅡA1准噶尔盆地半灌木荒漠植被省，ⅡA2东天山北坡草原云杉林及高山草甸植被省，ⅡB1东疆砾质戈壁灌木荒漠植被省，ⅡB2塔里木盆地灌木荒漠植被省，ⅡB3天山南坡荒漠及山地草原植被省，ⅡB4帕米尔-昆仑-阿尔金山地荒漠与高山草原植被省； $\textcircled{2}$ 不含亚种、变种； $\textcircled{3}$ 百分数总和大于 $100 \%$ 。
+
+的种类。
+
+3.3.2与国外邻近地区葱属植物共有种比较及区系相似性分析通过表6可以看出：(1）新疆葱属植物与邻国蒙古、俄罗斯、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦均有一定的联系，其中与哈萨克斯坦、俄罗斯的共有种较多，分别有45种、47种，区系相似性系数分别为 $5 9 . 6 0 \% . 3 5 . 7 4 \%$ ，共有种数占新疆分布葱属植物种总数的比例分别为 $7 7 . 5 9 \%$ ！
+
+$8 1 . 0 3 \%$ ;其次是蒙古和吉尔吉斯斯坦，与中国新疆地区的葱属植物共有种为25种、24种，区系相似性系数分别为 $4 8 . 0 8 \% , 3 8 . 4 0 \%$ ,共有种数在新疆分布葱属植物种总数中所占的比例分别为 $4 3 . 1 0 \%$ 、$4 1 . 3 8 \%$ ;塔吉克斯坦与中国新疆地区葱属植物共有种相对较少，有14种，区系相似性系数为 $1 9 . 7 2 \%$ ，共有种数占新疆分布葱属植物种总数的比例为$2 4 . 1 4 \%$ 。(2）中国新疆地区与邻国哈萨克斯坦、俄罗斯、蒙古和吉尔吉斯斯坦四国的葱属植物共有种数均超过了与新疆邻近的国内省区(甘肃、青海、西藏省区），以上结果说明新疆葱属植物区系与中亚地区的(葱属)植物区系联系紧密。(3）中国新疆地区与哈萨克斯坦、俄罗斯之间的葱属植物共有种数无太大差异且共有种的相似度较高(除条叶长喙韭、荒漠韭、细叶北韭、头花薤、蒙古野韭、北葱(原变种)相异之外，其余43个共有种均相同)，与吉尔吉斯斯坦、蒙古之间的葱属植物共有种数无太大差异，但共有种的相似度没有新疆与哈萨克斯坦、俄罗斯的共有种相似度高。因此，笔者认为，在研究葱属植物区系时，可将中国新疆地区、俄罗斯、哈萨克斯坦作为一个整体。(4）中国新疆地区、哈萨克斯坦、俄罗斯、蒙古、吉尔吉斯斯坦、塔吉克斯坦均共有的葱属植物有：蓝苞葱（原变种）、北疆韭（原变种）小山薤、野韭。(5）中国新疆地区与国外邻近地区的葱属植物共有种多数种类在子房基部沿腹缝
+
+表5新疆葱属植物与国内邻近省区的比较  
+Tab.5 Comparison of Allium species between Xinjiang and other neighboring provinces in Chi   
+表6新疆葱属植物与国外邻近地区的比较  
+
+<html><body><table><tr><td>省区</td><td>各省区总种数</td><td>与新疆共有种数</td><td>新疆分布种总数</td><td>相似性系数/%</td><td>共有种数占新疆分布种总数的比例/%</td></tr><tr><td>甘肃</td><td>51</td><td>19</td><td rowspan="6">58</td><td>34.86</td><td>32.76</td></tr><tr><td>青海</td><td>39</td><td>14</td><td>28.86</td><td>24.14</td></tr><tr><td>西藏</td><td>30</td><td>8</td><td></td><td>13.79</td></tr></table></body></html>
+
+Tab.6 Comparison of common Alium species between Xinjiang and adjacent countrie:   
+
+<html><body><table><tr><td>邻近国家</td><td>各邻国总种数</td><td>与新疆共有种数</td><td>新疆分布种总数</td><td>相似性系数/%</td><td>共有种数占新疆分布种总数的比例/%</td></tr><tr><td>蒙古</td><td>46</td><td>25</td><td rowspan="6">58</td><td>48.08</td><td>43.10</td></tr><tr><td>俄罗斯</td><td>205</td><td>47</td><td>35.74</td><td>81.03</td></tr><tr><td>哈萨克斯坦</td><td>93</td><td>45</td><td>59.60</td><td>77.59</td></tr><tr><td>吉尔吉斯斯坦</td><td>67</td><td>24</td><td>38.40</td><td>41.38</td></tr><tr><td>塔吉克斯坦</td><td>84</td><td>14</td><td>19.72</td><td>24.14</td></tr></table></body></html>
+
+线基部具蜜腺。
+
+# 4讨论
+
+# 4.1葱属植物的种类、分布生境及特有现象
+
+4.1.1种类数目虽然 Shigyo等[8]指出葱属野生植物有超过1000种（其中约有50个亚种），但其文中并未列出具体的葱属植物种类名录。李锡文的中国种子植物区系统计分析结果表明，葱属是中国种子植物含40种以上的大属，中国约有110种、全世界约有450\~500种，属于北温带分布型，
+
+关于新疆地区的葱属植物资源，已有学者对其进行了相关调查。《新疆植被及其利用》54中载录了新疆地区的葱属植物33种，且文中列出了新疆葱属植物种类名录。林德佩等[44]在其《新疆葱属（Aui-um)植物种质资源》中指出，新疆葱属植物种质资源有韭类20种、葱类28种、蒜类15种，其中 $9 0 \%$ 以上的种类是野生种，该文载录了韭类5种、蒜类5种、葱类5种。陆峻59在《新疆葱属野生植物资源》中载录了新疆葱属野生植物资源韭类41种、1变种，葱类5种、1变种，蒜类13种，共59种、2变种。林辰壹38认为，新疆地区的葱属植物有50种、1变种，文中较为详细地载录了新疆葱属植物的种类与分布等信息。
+
+4.1.2分布地域与生境葱属植物大多数种类生长在气候干旱和湿度适中的空旷、阳光充足、较为干燥之地，不同森林类型、欧洲亚高山草地、喜马拉雅湿润的亚高山和高山草地以及中亚的高山地区、河岸边的砾石地均有葱属植物分布，有些类群甚至可以耐受盐碱环境[12]。此外，该属植物的生境多样，从干燥和排水良好的土壤到潮湿土壤和有机土壤，甚至在沼泽、湿地或水中,均有生长和分布[18.79]。
+
+4.1.3特有现象根据冯缨等[80]的《新疆植物特有种及其分布》以及《新疆植物志·简本》32],新疆地区葱属植物特有种有2种，分别是灰皮薤（Auliumgrisellum）新疆蒜(Alliumroborowskianum）。因此,新疆葱属植物的特有现象不明显，表明葱属在新疆地区的分化不活跃。
+
+虽然干旱区和半干旱区植物区系的种类相对贫乏，但就新疆葱属植物的种类和数目而言，新疆地区的葱属植物占全国葱属植物23的比例达$4 4 . 2 7 \%$ 。此外，随着植物区系调查的深人和信息数据资料的全面、精细积累，葱属植物的新物种、新分布记录也将会有发现、发表(如：在大别山发现的新种英山韭8。因此，在研究葱属植物时，应加强对新疆这一独特、重要区域的关注。
+
+# 4.2多样性分布、地理成分分析及植被区划的系统单位类型
+
+4.2.1多样性和分布中心陆峻等[82]认为，新疆天山山脉是我国葱属野生植物的多样性中心和分布中心之一，有葱属野生植物40种，且新疆天山山脉西部的伊犁地区是新疆天山山脉葱属野生植物种类的多样性中心[82]
+
+4.2.2地理成分分析（分布区类型）葱属是全温带、北温带和南温带间断分布(泛温带分布)的属，因此新疆地区葱属植物区系具有明显温带性质。葱属植物在中亚植物区系中的种类较多，其中，喀喇昆仑山-昆仑山植物区系(葱属是组成喀喇昆仑山-昆仑山植被的优势属）新疆帕米尔地区和塔吉克斯坦帕米尔地区、中天山(是该区野生种子植物中的优势属，有25种野生葱属植物）新疆昆仑山中段北坡植物区系(葱属是该区系的常见成分和建群种)中分布广泛[83-86]
+
+从新疆葱属植物的分布区类型分析结果可以看出，新疆地区葱属植物主要分布在IIC5b准噶尔亚地区，IIC5b的区系属于温带荒漠性质。这种区系分布格局与闻志彬等[87]研究的新疆猪毛菜属植物的地理分布特征的研究结果相似。IA3天山地区分布有葱属植物37种，这一结果与吴征镒先生等[60]《中国种子植物区系地理》中的IA3天山地区有百合科的葱属40种且是含种最多的属相近。刘彬等[88]认为，温带区系植物具有较强的生态适应性，耐低温,适合生长在高海拔地区，温带地理成分中的北温带地理成分在海拔梯度分布格局中贡献最大，荒漠是地中海成分中的常见生境(植被型组或植被类型),旱生植物是中亚成分中的主要水分生态型，中亚成分中的旱生植物很多是组成荒漠植被类型的建群种或优势种，有些是组成草原植被类型的主要成分(如碱韭)。因此，说明水分、热量(温度）、水热条件是影响葱属植物生存的重要因子。依据新疆葱属植物区系分区类型，本文初步认为IA2阿尔泰地区、1A3天山地区、ⅡC5准噶尔地区以及ⅡC6喀什噶尔地区是新疆葱属植物的分布中心。
+
+此外，新疆葱属植物的分布与新疆的主要山系分布具有一致性，并呈现出明显的温带荒漠(草原)性质，整体上反映出新疆地区“三山夹两盆"的地形地貌特征及典型温带大陆性干旱荒漠气候的基本气候特征。新疆天山、伊犁塔城、阿勒泰、喀什地区间的葱属植物区系组成与分布差异，揭示出新疆地区在(葱属)植物区系形成、分布和演化过程中产生了一定分异。
+
+然而，需要说明的是，目前的中国植物区系分区系统(即中国植物区系地理成分的分布区类型系统)是基于种子植物的分类学单位科（特有科）、属(特有属）组成植被(或群落)的建群种和优势种或是特有种而建立的，若将该分区系统直接用于或是代表所有种水平的区系地理成分分析可能会存在一定的误差，且这个误差从未得到评估[89]。此外，定性的和区系关系简化的区划原则、区系界限不明确、不完整和不精细的区系调查信息数据及资料（如：标本采集记录缺乏GPS信息、缺乏DNA样品等资料），以及广泛使用粗放的方法来进行简易的定性分析，可能会使人们无法对植物区系进行深入分析和精细划分，进而导致植物区系定量研究工作的开展受到制约[90]。
+
+4.2.3植被区划的系统单位类型新疆葱属植物的分布主要集中在"三山"地区、与新疆的主要山系分布相吻合，这一特点、分布特征与李文军等的(新疆马先蒿属植物的分布特征)研究结果相似。新疆天山山脉葱属植物的分布特点与陆峻[82]的研究结果一致，即新疆天山山脉分布的葱属植物种类数目不均衡，分布于北天山和中天山及其山间盆地的葱属植物种类较多，而分布于南天山的葱属植物种类较少[82]。新疆葱属植物主要分布在草原和荒漠(“干温"生境)，分布在ⅡB4(帕米尔-昆仑-阿尔金山地荒漠与高山草原植被省）、IC1（新疆南部高寒草原省)植被省的种类相对较少，但分布在其他植被省的种类比ⅡB4和IC1植被省多，这2个植被省(ⅡB4和IC1)的海拔相对较高，随着海拔升高，温度降低、水分增加(相对于干旱半干旱地区低海拔的"干热"生境，为"湿冷"生境），但这2个植被省分布的葱属植物种类却相对较少，这表明温度（热量）、水分和海拔(水热条件)是影响新疆葱属植物生存和分布的重要因子，这也说明了适度的“干温”生境适合于葱属植物的生存，而“湿冷”、“湿热”、“干热"生境均不利于葱属植物的生存。
+
+# 4.3共有种及区系联系
+
+葱属是世界级大属（种数达660\~700种），在中国主要分布在干旱区[6]。新疆处于ⅡC中亚荒漠亚区的核心位置，并且与西藏、青海、甘肃相邻省份相比，新疆分布的葱属植物种类最多。新疆地区与国内外邻近地区的区系联系中，与国外邻近地区、中亚地区的植物区系联系比国内邻近省区较紧密。新疆葱属植物的地理分布、共有种及区系联系的分析结果与新疆马先蒿属、新疆猪毛菜属的分析结果相似。葱属虽与马先蒿属、猪毛菜属为不同植物类群，但从新疆地区与国外邻近地区哈萨克斯坦、俄罗斯的共有种比较分析中，发现其联系较为紧密，且共有种数均超过了国内邻近省区，该结果说明新疆与中亚地区植物区系联系紧密，且不同地区的植物区系间均具有一定联系。此外，新疆地区与哈萨克斯坦、俄罗斯的葱属植物共有种的种类相似度较高，笔者认为，在研究中国新疆地区植物区系时，可将三者(中国新疆地区、哈萨克斯坦、俄罗斯)视作一个整体。闻志彬[87]、李文军[91]、曹秋梅[92]等的相关研究以及本文的研究结果，都不同程度地揭示了新疆地区在植物区系形成、演化等过程中作为中国西北干旱-半干旱区、中亚地区植物区系的关键区域，在与邻近地区区系的交流中发挥着重要作用，或具有过渡作用。
+
+中国新疆地区与国内外邻近地区的葱属植物共有种类中，管状叶和扁平叶的类型均有分化，而与国外邻近地区的葱属植物共有种类中，多数种类具蜜腺。中国新疆地区与国外邻近地区的葱属植物共有种多数种类具蜜腺，笔者认为具蜜腺这一特征以及共有种多数种类具蜜腺这一特点可能与传播媒介(如传粉昆虫)对不同区域(不同地理分布区)葱属(AuiumL.)植物(花粉)的传播、扩散、遗传(基因)交流及其协同进化有关，但这一推测有待进一步研证。
+
+需要说明的是，依据现有植物区系的记录和资料，甘肃省区无较为系统完整的葱属植物书著记录和文献资料,因此本文通过查证《中国植物志》[29]、《FloraofChina》[23],结合中国植物志分省名录网站(http://www.iplant.cn/frps/prov)[73」、NSI平台[57],将其中载录的葱属植物进行整理、查证及核校，最终整理统计确定甘肃省区的葱属(AuiumL.)植物，总结出的甘肃葱属植物名录见附表，青海、西藏省区的葱属植物种类名录亦通过查证《青海植物志》《西藏植物志》63]以及上述方法获得葱属植物种类名录详见附录。
+
+此外，在判定不同地区区系的联系（相似性和相异性)以及亲缘关系时，不能过分强调或仅强调数量统计的重要性，还应结合系统发育、起源、演化历史等方面进行分析[60]
+
+# 4.4怱属植物区系的起源、演化及迁移扩散
+
+4.4.1 葱属植物的起源、演化及迁移扩散相关分子数据、系统发育及地理分布格局等方面的研究和分析结果[10.12.22,93-94]表明,葱属植物起源古老,其演化以三条独立的进化线路进行,该属具有单系性及三支演化谱系，但部分亚属为非单系群。其中，第一支进化谱系(最古老的支系)包括Nectaroscordum亚属（中国无分布）、Microscordum亚属和Ameralli-um亚属的鳞茎植物,很少形成显著的根茎,Nectar-oscordum亚属局域分布于地中海地区，中国无分布;Microscordum亚属局域分布于东亚地区;Amerallium亚属是第一进化线路中最大的亚属,存在旧世界分支和新世界分支,由三个隔离的地理群组成：北美(新世界)的所有葱属本地种以及地中海地区(旧世界)和东亚地区(旧世界)的两个较小的群体。第二支进化谱系包括Caloscordum亚属、Anguinum亚属、Vvedenskya亚属（中国无分布）、Porphyroprason亚属和Melanocrommyum亚属,包含根茎类群和鳞茎类群,Caloscordum亚属局域分布于东亚;Anguinum亚属主要分布于东亚，在欧洲西南部至东亚以及北美东北部的高山中间断分布(即欧亚美洲分布),其余一些种类局域分布于横断山脉及邻近地区;Vveden-skya亚属在中国无分布;Porphyroprason亚属分布于中亚、西亚及毗邻地区;Melanocrommyum亚属是第二进化线路中最大的亚属,分布于中亚、西亚、地中海至近东和中东地区，东至中国西北部和巴基斯坦,北至西伯利亚南部;Vvedenskya亚属、Porphyro-prason 亚属、Melanocrommyum亚属为晚分枝群，Caloscordum亚属、Anguinum亚属为早分枝群。第三支进化谱系包括Butomissa亚属、Cyathophora亚属、Rhizirideum亚属、Allium亚属、Cepa亚属、Reticu-latobulbosa亚属和Polyprason亚属,包含根茎类群和鳞茎类群，该线路的进化历史较为复杂,其种类广泛分布于欧亚地区;Butomissa亚属是第三进化线路中的第一分枝群，也可能是第三进化线路中最早的分枝群,现分布于西伯利亚、东亚、中亚和东地中海地区；Cyathophora亚属是唯一的亚洲（西藏和喜马拉雅)类群，主要分布于西藏和喜马拉雅地区；Rhi-zirideum亚属是西伯利亚南部和蒙古地区多样性最高的欧亚草原类群；Rhizirideum亚属、Allium亚属、Cepa亚属、Polyprason亚属、Reticulatobulbosa亚属是Cyathophora亚属的姊妹群，分布于欧亚并延伸至地中海、美国东北部的温带和亚北极地区；AIlium亚属、Cepa亚属、Reticulatobulbosa亚属和Polyprason亚属形成了第三进化路线中最大的分支且这些亚属不是单系的，其中一些种的系统位置仍值得商榷。
+
+4.4.2中国新疆地区葱属植物的起源、演化及迁移扩散中国新疆地区在葱属植物演化和适应过程中有其自身特殊的地理成分和历史成分，在葱属植物迁移扩散的过程中属于过渡区域，也可能为起源地域(起源中心）。新疆葱属植物种类可能是地中海、西亚、中亚地区的葱属植物类群发生分化、演化，并向东迁移、传播扩散形成的;或是东亚地区的葱属植物类群发生分化、演化并向西迁移、传播扩散形成的；也可能是起源于中国新疆地区的葱属植物类群"就地"在新疆地区发生分化、演化，经历相关“事件"（如：快速成种、适应辐射等)后形成的。但以上论述仍需相关研究进一步证实。
+
+虽然本文未进行新疆葱属植物的属下类群划分，但若按照Friesen等[10]、Li等[22]的葱属属下分类系统方案以及Fritsch等[12]、Li等[95]、Xie等[18]的研究，则可将新疆葱属植物(属下类群)划分为表7。
+
+若按照上述葱属属下类群划分(表7)，则可以看出，新疆葱属植物没有第一演化谱系中的种类，在第二演化谱系中有5个种类，而第三演化谱系中包含62个种类。结合Friesen等[10]、Li等[22]、Fritsch等[12]、Li等[95]、Xie等[18]的研究以及表7的新疆葱属植物属下类群划分，笔者认为，新疆葱属植物很可能起源于东亚和中亚地区，并且新疆葱属植物区系与中亚(葱属)植物区系联系紧密。新疆葱属植物在鳞茎、叶、花等方面具有一定分化且具有显著的多态性以及较大的形态变异。由表7可大致推测，新疆葱属植物的演化以两条主要的进化线路（第二、第三演化谱系)进行。新疆葱属植物中的部分亚属(Porphyroprason亚属)的祖先可能起源于东亚，然后沿Tethys海(特提斯海)北岸（即Cayan-Alai 山脉区域)传播扩散至中亚，在中亚地区演化、分化并发生迁移扩散,如：Porphyroprason亚属在中亚地区演化并分化成高地蒜，然后高地蒜发生扩散事件，从中亚扩散至西亚及毗邻地区[22]。此外,新疆葱属植物的部分亚属(Melanocrommyum亚属)可能在中亚地区经历复制事件，在特提斯海(古地中海)区域迅速拓殖，并在中亚地区适应辐射，由此产生的类群通过扩散至其他地区（如西亚、地中海地区以及这些地区的分化区），从而扩大了其地理分布范围，这些类群接着从西亚扩散至中亚地区以及从西亚扩散至地中海地区,如：Melanocrommyum亚属,该亚属（Melanocrommyum亚属)的种类分布于地中海至近东和中东地区，东至中国西北部和巴基斯坦，北至西伯利亚南部，中亚是Melanocrommyum亚属的重要演化中心[22]。Rhizirideum亚属、Allium亚属、Cepa亚属、Polyprason亚属、Reticulatobulbosa亚属经历一系列的传播扩散事件和快速成种事件，最终从亚洲传播扩散至欧亚并延伸至地中海、美国东北部的温带和亚北极地区[]。周春景等[97]认为,Rhiziri-deum亚属的齿丝山韭(AlliumnutansL.)从中亚（中国新疆地区)向西北迁移扩散并延伸至欧洲，并推测中国新疆哈巴河林场的齿丝山韭可能是该种的祖先居群。Rhizirideum亚属的齿丝山韭可能起源于中亚（中国新疆地区），其中一条迁移扩散路线为：从中亚(中国新疆地区)向东北方向传播扩散，并延伸至中国东北地区以及蒙古、俄罗斯地区[97-98]。综上所述，中国新疆地区在葱属植物迁移、传播扩散的过程中可能属于过渡区域，也可能为葱属植物部分种类的起源地域或起源中心。
+
+<html><body><table><tr><td>2期</td><td colspan="2">张巧关等：新疆葱属植物区系地理特征</td></tr><tr><td colspan="4">表7新疆葱属(AlliumL.)植物属下类群划分</td></tr><tr><td colspan="4">Tab.7 Taxonomic conspectus of the genus Allium L. in Xinjiang</td></tr><tr><td>第一演化线路</td><td></td><td></td><td></td></tr><tr><td>亚属</td><td>组</td><td>种</td><td></td></tr><tr><td>1</td><td>二</td><td></td><td>一</td></tr><tr><td>第二演化线路</td><td></td><td></td><td></td></tr><tr><td>亚属</td><td>组</td><td></td><td>种</td></tr><tr><td>Porphyroprason</td><td>Porphyroprason</td><td>高地蒜Allium oreophilum C.A.Mey.</td><td></td></tr><tr><td>Melanocrommyum</td><td>Melanocrommyum</td><td></td><td>新疆蒜Allium roborowskianum Regel (Allum sinkiangense F.T.Wang & Y.C.Tang)</td></tr><tr><td>Melanocrommyum</td><td>Melanocrommyum</td><td>健蒜 Allium robustum Kar.& Kir.</td><td></td></tr><tr><td>Melanocrommyum</td><td>Decipientia</td><td>星花蒜(星花韭)Allium decipiens Fisch.ex Schult.& Schult.f.</td><td></td></tr><tr><td>Melanocrommyum</td><td>Acmopetala</td><td>多籽蒜Allium fetisowii Regel</td><td></td></tr><tr><td>第三演化线路</td><td></td><td></td><td></td></tr><tr><td>亚属</td><td>组</td><td></td><td>种</td></tr><tr><td>Butomissa</td><td>Butomissa</td><td>韭(韭菜)Allium tuberosum Rottler ex Spreng.</td><td></td></tr><tr><td>Butomissa</td><td>Butomissa</td><td>野韭 Allium ramosum L.</td><td></td></tr><tr><td>Butomissa</td><td>Austromontana</td><td>滩地韭Allium oreoprasum Schrenk</td><td></td></tr><tr><td>Rhizirideum</td><td>Rhizirideum</td><td>蒙古野韭Allium prostratum Trevir.</td><td></td></tr><tr><td>Rhizirideum</td><td>Rhizirideum</td><td>红花韭Allium rubens Schrad.ex Willd.</td><td></td></tr><tr><td>Rhizirideum</td><td>Rhizirideum</td><td>山非Allium senescens L.</td><td></td></tr><tr><td>Rhizirideum</td><td>Rhizirideum</td><td>齿丝山非Allium nutans L.</td><td></td></tr><tr><td>Rhizirideum</td><td>Caespitosoprason</td><td>蒙古韭Allium mongolicum Regel</td><td></td></tr><tr><td>Rhizirideum</td><td>Caespitosoprason</td><td>碱韭 Allium polyrhizum Turcz. ex Regel</td><td></td></tr><tr><td>Rhizirideum</td><td>Caespitosoprason</td><td>砂韭 Allium bidentatum Fisch.ex Prokh.& Ikonn.-Gal.</td><td></td></tr><tr><td>Rhizirideum</td><td>Rhizomatosa</td><td></td><td>疏生韭Allium caespitosum Siev.ex Bong.& C.A.Mey.</td></tr><tr><td>Rhizirideum</td><td>Tenuissima</td><td>细叶韭Allium tenuissimum L.</td><td></td></tr><tr><td>Rhizirideum</td><td> Tenuissima</td><td>矮韭 Allium anisopodium Ledeb.</td><td></td></tr><tr><td>Rhizirideum</td><td>Eduardia</td><td></td><td>贺兰非Allium eduardi Stearn ex Airy Shaw (Allium eduardii Stearn)</td></tr><tr><td>Rhizirideum</td><td>Eduardia</td><td>青甘韭 Allium przewalskianum Regel</td><td></td></tr><tr><td>Allium</td><td> Allium</td><td>韭葱 Allium ampeloprasum L. (Allium porrum L.)</td><td></td></tr><tr><td>Allium</td><td>Allium</td><td>蒜(大蒜)Allium sativum L.</td><td></td></tr><tr><td>Allum</td><td>Allium</td><td>薤白 Allium macrostemon Bunge</td><td></td></tr><tr><td>Allium</td><td>Caerulea</td><td>棱叶薤Allium caeruleum Pall.</td><td></td></tr><tr><td>Allium</td><td>Caerulea</td><td>知母薤Allium caesium Schrenk</td><td></td></tr><tr><td>Allium</td><td>Caerulea</td><td>赛里木薤Allium sairamense Regel ?</td><td></td></tr><tr><td>Allium</td><td>Pallasia</td><td>迷人薤Alium delicatulum Siev.ex Schult.& Schult.f.</td><td></td></tr><tr><td>Allium</td><td>Pallasia </td><td>小山薤（小山蒜) Allium pllsii Murray</td><td></td></tr><tr><td>Allium</td><td>Pallasia</td><td>头花薤Allium glomeratum Prokh.</td><td></td></tr><tr><td>Allium</td><td>Pallasia</td><td>类北薤Allium schoenoprasoides Regel</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Cepa</td><td>Cepa</td><td>阿尔泰葱 Allium altacum Pall.</td><td></td></tr><tr><td>Cepa</td><td>Cepa</td><td>葱(大葱)Allium fistulosum L.</td><td></td></tr><tr><td>Cepa</td><td>Cepa</td><td>洋葱(皮牙孜)Allium cepa L.</td><td></td></tr><tr><td>Cepa Cepa</td><td>Cepa Annuloprason</td><td>实葶葱Allium galanthum Kar.&Kir. 管丝葱 Allium semenovi Regel</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>第三演化线路</td><td colspan="2">种</td></tr><tr><td>亚属</td><td colspan="2">组</td></tr><tr><td>Cepa</td><td>Annuloprason</td><td>蓝苞葱(原变种)Alliumatrosanguineum Schrenk</td></tr><tr><td>Cepa</td><td>Annuloprason</td><td>坛丝非Allium weschniakowi Regel</td></tr><tr><td>Cepa</td><td>Sacculiferum</td><td>灰皮薤Allium grisellum J.M.Xu</td></tr><tr><td>Cepa</td><td> Schoenoprasum</td><td>北葱(原变种)Allium schoenoprasum L.</td></tr><tr><td>Cepa</td><td>Schoenoprasum</td><td>糙葶北葱(北葱变种)Allum kareliniiPoljak. (Allium schoenoprasum var.scaberrimum Regel)</td></tr><tr><td>Cepa</td><td> Schoenoprasum</td><td>硬皮葱Allum ledebourianum Schult.&Schult.f.</td></tr><tr><td>Reticulatobulbosa</td><td>Reticulatobulbosa</td><td>北非Allium lineare L.</td></tr><tr><td>Reticulatobulbosa</td><td>Reticulatobulbosa</td><td>单丝辉非Allium schrenkii Regel ?</td></tr><tr><td>Reticulatobulbosa</td><td>Reticulatobulbosa</td><td>直立非Allium amphibolum Ledeb.</td></tr><tr><td>Reticulatobulbosa</td><td>Reticulatobulbosa</td><td>辉韭 Allium strictum Schrad.</td></tr><tr><td>Reticulatobulbosa</td><td>Reticulatobulbosa</td><td>细叶北非Allium clathratum Ledeb.</td></tr><tr><td>Reticulatobulbosa</td><td>Reticulatobulbosa</td><td>新疆非Allium flavidum Ledeb.</td></tr><tr><td>Reticulatobulbosa</td><td>Campanulata</td><td>西疆韭Allium teretifolium Regel</td></tr><tr><td>Reticulatobulbosa</td><td>Campanulata</td><td>荒漠韭Allum tekesicola Regel ?</td></tr><tr><td>Reticulatobulbosa</td><td>Campanulata</td><td>褐皮韭Allium korolkowii Regel ?</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>高葶韭Allium obliquum L.</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>长喙韭Allium saxatile M.Bieb.</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>石坡韭Allium petraeum Kar.&Kir.</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>天山非Allium tianschanicum Rupr.?</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>大鳞韭Allium megalobulbon Regel ?</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>昆仑韭Allium pevtzovii Prokh. ?</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>石生韭Allium kokanicum Regel (Allium caricoides Regel) ?</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>条叶长喙韭Allium kurssanovi Popov</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>丝叶非Allium setifolium Schrenk</td></tr><tr><td>Polyprason</td><td>Oreiprason</td><td>蜜囊韭Allium subtilissimum Ledeb.</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>北疆韭(原变种)Allium hymenorhizum Ledeb.</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>旱生韭(北疆韭变种)Allium hymenorhizum var.dentatum J.M.Xu</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>草地韭Allium kaschianum Regel</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>镰叶韭Allium carolinianum DC.</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>白非Allium blandum Wall. ?</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>宽苞韭(原亚种)Allium platyspathum Schrenk</td></tr><tr><td>Polyprason</td><td>Falcatifolia</td><td>钝叶韭(宽苞韭亚种)Allium platyspathum subsp.amblyophyllum(Kar.&Kir.) N.Friesen</td></tr></table></body></html>
+
+注：“\*"表示含种、亚种、变种及栽培种；“?"表示系统位置尚不明确；"（)"括号内为常见的别名或异名。
+
+根据书著、文献资料以及相关标本信息，本文是新疆葱属植物资源、区系地理特征的初步整理总结，可以从宏观上反映新疆葱属植物的区系地理特征。但另一方面，仅从分类群组成、地理分布、与邻近地区的区系联系及比较（即区系联系）地理成分分析(分布区类型、植物区系区划）、植被区划方面的分析，尚难以对系统发育多样性、系统发育关系、系统发育的构成及其相似性、迁移扩散、演化历史过程、植物区系的时空格局等方面进行阐释。要想完全、真正反映葱属植物的区系地理特征(区系特征)及其迁移扩散、起源与演化，应综合区系地理、生态学、系统发育、分子系统学(分子系统进化）、演化、化石、孢粉、细胞学(染色体）、地质历史、古环境、分子生物地理学等方面的资料数据、原理和方法进行全面分析（如：全面分析生态过程、演化历史）。因此，还需要对新疆葱属植物的形态学、解剖学、细胞学(染色体特征）、地理学、生态学和分子系统学等方面作进一步的综合研究，以便为探讨新疆葱属植物乃至中亚地区葱属植物的系统分类、区系地理、亲缘关系(系统发育）、迁移扩散、起源与演化的机制、过程、历史及时空格局与特征等提供全面综合、更加精确可靠的依据和资料。
+
+# 5结论
+
+（1）本文通过查阅新疆地区葱属相关植物志书专著、文献资料，并查证相关标本信息记录，初步整理得到新疆葱属植物58种、1亚种、2变种、6栽
+
+培种。
+
+(2）新疆地区葱属植物的分布地域主要集中在“三山"(阿尔泰山-天山-昆仑山)地区，新疆葱属(AlliumL.)植物分布的生境较为多样，多生长于荒漠、草原、干旱坡地、砾石地、山地、高山、林下(森林)生境。
+
+(3）新疆葱属植物主要分布在具温带荒漠性质的IC5b准噶尔亚地区；IA2阿尔泰地区、ⅡC5a塔城伊犁亚地区、IA3天山地区、ⅡC6c喀什亚地区也相对较多。
+
+(4）新疆葱属植物的水平分布和垂直分布均存在分异。新疆葱属植物分布在IB1(阿尔泰山-北塔山草原省）、ⅡA2(东天山北坡草原云杉林及高山草甸植被省）、ⅡA1（准噶尔盆地半灌木荒漠植被省）、ⅡB3(天山南坡荒漠及山地草原植被省)植被省的种类较多，其次是ⅡB1（东疆砾质戈壁灌木荒漠植被省）、IA1（准噶尔盆地西部山地草原省）、ⅡB2(塔里木盆地灌木荒漠植被省)植被省，分布在ⅡB4(帕米尔-昆仑-阿尔金山地荒漠与高山草原植被省）、IC1(新疆南部高寒草原省)植被省的种类相对较少。
+
+（5）新疆葱属植物区系与国内邻近省区甘肃、青海、西藏地区以及邻国蒙古、俄罗斯、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦具有一定联系；新疆葱属植物区系与中亚地区的(葱属)植物区系联系紧密。在与邻近地区的区系联系（即共有种及区系相似性分析)中，新疆葱属植物与哈萨克斯坦、俄罗斯的共有种较多，共有种数无太大差异且共有种的相似度较高。在研究葱属植物区系时，可将中国新疆地区、俄罗斯、哈萨克斯坦作为一个整体。
+
+致谢：在查阅和获取相关书著和资料时，笔者得到了中国科学院大学金光照博士和闫晋升博士的帮助，在此表示衷心的感谢！
+
+# 参考文献(References):
+
+[1] Fondo Albrecht von Haller,Alberti Halleri D.De Allii Genere Naturali Libellus[M].Gottingae: Typis A.Vandenhoeck,1745.   
+[2] Carolus Linnaeus,Lars Salvius.Species Plantarum(ed.1,Vol.1) [M].Holmiae:Impensis Laurentii Salvii, 1753:294-302.   
+[3] Alexey P Seregin,Goran Anackov,Nikolai Friesen.Molecular and morphological revision of the Allium saxatile group(Amaryllidaceae): Geographical isolation as the driving force of underestimated speciation[J]. Botanical Journal of the Linnean Society,2015,178 (1): 67-101.   
+[4] Gregory M,FritschRM,Friesen N,etal.Nomenclator Alliorum: Allium Names and Synonyms-A World Guide[M]. Richmond: Royal Botanic Gardens, Kew,1998.   
+[5] Stearn W T. How many species of Allium are known?[J]. Curtis'S Botanical Magazine,1992,9(4): 180-182.   
+[6] Don G.A Monographof the Genus Allium(Vol. 6)[M]. Edinburgh: Memoirs of the Wernerian Natural History Society,1827.   
+[7] Regel E.Alliorum Adhuc Cognitorum Monographia[M]. St.Petersburg: Trudy Imperatorskago S-Peterburgskago Botaniceskago Sada.Acta Horti Petropolitani,1875.   
+[8] Shigyo M,Khar A,Abdelrahman M.The Allum Genomes[M]. Cham: Springer: 2018: 11.   
+[9] Van Raamsdonk L WD,De Vries T.Biosystematic studies in Allium L.section Cepa[J]. Botanical Journal of the Linean Society, 1992, 109(1): 131-143.   
+[10]Friesen N,Fritsch R M, Blatter FR.Phylogeny and new intrageneric classification of Allium (Alliaceae) based on nuclear ribosomal DNA ITS sequences [J]. Aliso,2006,22(1): 37-395.   
+[11] Ricroch A, Yockteng R,Brown S C,et al. Evolution of genome size across some cultivated Allium species[J].Genome,2005,48(3): 511-520.   
+[12]Fritsch R M,Friesen N.Evolution,domestication and taxonomy [C]//Rabinowitch H D, Currah L.Allium Crop Science: Recent Advances.Oxfordshire: CABI Publishing,2002.   
+[13] Fritsch R M, Blattner FR, Gurushidze M.New classification of $A l$ lium L.subg.melanocrommyum (Webb & Berthel) Rouy (Alliaceae) based on molecular and morphological characters[J].Phyton, 2010,49(2): 145-220.   
+[14]Wheeler EJ, Mashayekhi S,McNeal DW,etal. Molecular systematics of Allium subgenus Amerallium (Amaryllidaceae) in North America[J].American Journal of Botany,2013,100(4): 701-711.   
+[15] Huang D Q, Yang JT, Zhou C J, et al. Phylogenetic reappraisal of Allium subgenus Cyathophora (Amaryllidaceae) and related taxa, with a proposal of two new sections[J]. Journal of Plant Research, 2014,127(2): 275-286.   
+[16] Nguyen N H, Driscoll HE, Specht C D.A molecular phylogeny of the wild onions (Allium;Alliaceae) with a focus on the western North American center of diversity[J].Molecular Phylogenetics and Evolution,2008,47(3): 1157-1172.   
+[17]Bogdanovic S, Brullo S,Galdo G G del,et al.A new autumn-flowering species of Allium (Alliaceae) from Croatia[J].Folia Geobotanica, 2009,44(1): 83-93.   
+[18] Xie DF,Tan JB, Yu Y,et al. Insights into phylogeny,age and evolution of Allium (Amaryllidaceae) based on the whole plastome sequences[J].Annals of Botany,2020,125(7): 1039-1055.   
+[19] Choi HJ, Oh B U.A partial revision of Alium (Amaryllidaceae) in Korea and north-eastern China[J].Botanical Journal of the Linnean Society,2011,167(2): 153-211.   
+[20]De Wilde-Duyfjes BEE.A Revision of the Genus Alium L. (Liliaceae) in Africa[M].Wageningen: Mededelingen Landbouwhogeschool Wageningen,1976.   
+[21] Mathew B.A Review of Allium Section Allium[M]. Richmond: Royal Botanic Gardens,Kew,1996.   
+[22] Li QQ,Zhou SD,He X J,et al.Phylogeny and biogeographyof $A l$ lium (Amaryllidaceae: Allieae) based on nuclear ribosomal internal transcribed spacer and chloroplast rps16 sequences,focusing on the inclusion of species endemic to China[J]. Annals of Botany, 2010,106(5): 709-733.   
+[23] Xu JM, Kamelin RV.Allum L. In:Wu ZY,& Raven P H. (Eds.),Flora of China(Vol.24)[M].Beijing: Science Press; St.Louis: Missouri Botanical Garden Press,2000: 165-202.   
+[24]De Sarker D, Johnson M A T,Reynolds A,et al. Cytology of the highly polyploidy disjunct species,Allium dregeanum (Alliaceae), and of some Eurasian relatives[J].Botanical Journal of the Linnean Society,1997,124(4): 361-373.   
+[25]Fay MF, Chase M W.Resurrection of Themidaceae for the Brodiaea alliance,and recircumscription of Alliaceae,Amaryllidaceae and Agapanthoideae[J]. Taxon,1996,45(3): 441-451.   
+[26]Takhtajan A L.Diversity and Classification of Flowering Plants [M].New York: Columbia University Press,1997.   
+[27]Angiosperm Phylogeny Group.An update of the Angiosperm Phylogeny Group clasification for the orders and families offlowering plants: APG I[J]. Botanical Journal of the Linnean Society,2003, 141(4): 399-436.   
+[28]Angiosperm Phylogeny Group.An update of the Angiosperm Phylogeny Groupclassficationfortheordersandfamiliesofflowering plants:APG IV[J]. Botanical Journal of the Linnean Society,2016, 181(1): 1-20.   
+[29]中国植物志编辑委员会.中国植物志:第十四卷[M].北京:科学 出版社,1980:170-272.[Flora of China Editorial Committee.Flora Reipublicae Popularis Sinicae: Volume 14[M]. Beijing: Science Press,1980: 170-272.]   
+[30] 傅立国,陈潭清,郎楷永,等.中国高等植物:第十三卷[M].青 岛：青岛出版社,2002:139-173.[Fu Liguo, Chen Tanqing, Lang Kaiyong,et al. Higher Plants of China: Volume 13[M]. Qingdao: Qingdao Press,2002: 139-173.]   
+[31] 新疆植物志编辑委员会.新疆植物志:第六卷[M].乌鲁木齐：新 疆科技卫生出版社,1996:519-554.Commissione Redactorum Florae Xinjiangensis.Flora Xinjiangensis: Tomus 6[M]. Urumqi: Xinjiang Science,Technology and Hygiene Publishing House, 1996: 519-554. ]   
+[32] 新疆植物志编辑委员会.新疆植物志·简本[M].乌鲁木齐:新疆 人民出版总社&新疆科学技术出版社,2014:774-783.[Commissione Redactorum Florae Xinjiangensis.Flora Xinjiangensis (the Brief Edition)[M]. Urumqi: Xinjiang People’s Publishing House & Xinjiang Science and Technology Press,，2014: 774- 783.]   
+[33] 刘建涛,王杉,张维民,等.葱属植物生物活性物质的研究进展 [J].食品科学,2007,28(4): 348-350.[Liu Jiantao,Wang Shan, Zhang Weimin,et al. Review on research progress of bioactive constituents in Alium Species[J].Food Science,2007,28(4): 348- 350.]   
+[34] 徐翠翠,朱云峰,金少瑾,等.葱属植物功能性成分免疫调节作 用研究进展[J].食品科学,2020,41(9):332-337.[Xu Cuicui, Zhu Yunfeng,JinShaojinetal.Recentprogressiimmuorgatory ffectsoffunctional ingredients inAlliumspecies[J].Fod Science,2020,41(9): 332-337.]   
+[35]于晶,温荣欣,闫庆鑫,等.葱属植物活性物质及其生理功能研 究进展[J].食品科学,2020,41(7):255-265.[Yu Jing,Wen Rongxin,Yan Qingxin,et al.Bioactive constituents of Allium and their physiological functions: A review[J]. Food Science,2020,41 (7): 255-265.]   
+[36] 朱云峰,徐翠翠,金少瑾,等.葱属植物中的生物活性物质及功 效研究进展[J].食品工业科技，2019,40(13):270-276,282. [Zhu Yunfeng,Xu Cuicui, Jin Shaojin, et al.Research progress on bioactive substances and efficacy of Allium plants[J]. Science and Technology of Food Industry,2019,40(13): 270-276,282.]   
+[37]Kamenetsky R,London Shafir I, Khassanov F,et al. Diversity in fertility potential and organo- sulphur compounds among garlics from Central Asia[J].Biodiversity and Conservation, 2OO5,14(2): 281-295.   
+[38]林辰壹.新疆葱属植物资源研究[D].乌鲁木齐:新疆农业大学, 2010.[Lin Chenyi, Plant Resource of Allum L. from Xinjiang[D]. Urumqi: Xinjiang Agricultural University,2010.]   
+[39]龙雅宜.初赏葱属观赏花卉[J].中国花卉盆景,2006(1):2-4. [Long Yayi.Primary Appreciation of Ornamental Alium Flowers [J]. China Flower and Penjing,2006(1): 2-4.]   
+[40] 潘晓玲,党荣理,伍光和.西北干旱荒漠区植物区系地理与资源 利用[M].北京:科学出版社,2001:235.[Pan Xiaoling,Dang Rongli,Wu Guanghe.Floristic Geography and Resource Utilization in West- North Desert of China[M].Beijing: Science Press, 2001: 235.]   
+[41] 胡长青,邓颖莲,樊磊虎.内蒙古野生葱属植物资源的开发利用 与保护[J].中国野生植物资源,2007,26(6):30-31.[Hu Changqing,Deng Yinglian,Fan Leihu.Utilization and conservation of wild plant resources from Allium L.in Inner Mongolia[J] Chinese Wild Plant Resources,2007,26(6): 30-31.]   
+[42] 包萨如拉.内蒙古野生葱属(AlliumL.)植物的民族植物学研究 [D].呼和浩特:内蒙古师范大学,20O7.[Pausaru Ra.Ethnobotanical Study on Wild Plants of Allium L.in Inner Mongolia[D]. Hohhot: Inner Mongolia Normal University,2007.]   
+[43]哈斯巴根,裴盛基.内蒙古草地葱属植物的民族植物学研究[J]. 中国草地,199(5):42-47.[Hasi Bagen,Pei Shengji. Ethnobotanical study on Allium L. in Grassland of Inner Mongolia[J]. Grassland of China, 1999(5): 42-47. ]
+
+[44]林德佩,崔乃然.新疆葱属(AlliumL.)植物种质资源[J].八一农学院学报,1984(1): 52-54.[Lin Depei,Cui Nairan.Germplasm
+
+resources of Allium L.in Xinjiang,China[J]. Journal of Xinjiang Agricultural University,1984(1): 52-54.]   
+[45] 李琴琴.中国葱属(Allium L.)食用植物资源种类的调查研究[J]. 安徽农业科学,2015,43(13):7-11.[Li Qinqin.Study on edible plant resources species of Allium L.in China[J]. Journal of Anhui Agricultural Sciences,2015,43(13): 7-11.]   
+[46]瓦维洛夫.主要栽培植物的世界起源中心[M].董玉琛译.许运 天校.北京:农业出版社,1982.[Vavilov N I. World Origin Center of Main Cultivated Plants[M]. Translated by Dong Yuchen. Calibrated by Xu Yuntian.Beijing: China Agriculture Press,1982.]   
+[47] 刘瑛心,杨喜林,姚育英,等.中国沙漠植物志:第一卷[M].北 京:科学出版社,1985:204-215.[Liu Yingxin,Yang Xilin,Yao Yuying,et al.Flora in Desertis Reipublicae Populorum Sinarum: Tomus 1 [M]. Beijing: Science Press,1985: 204-215.]   
+[48] 李小明.新疆植被分布规律与水热关系初探[J].干旱区研究, 1988,5(2): 41-46.[Li Xiaoming. Preliminary studies of the relationship between vegetation distributional pattern and water-heat conditions in Xinjiang, China[J].Arid Zone Research,1988,5(2): 41-46.]   
+[49] 关颖,朱翊.基于空间分析的区域地质灾害点的分布特征研究 以新疆为例[J].测绘工程,2016,25(9):15-19.[Guan Ying, Zhu Yi.A study of the distribution characteristics of regional geological hazards based on spatial analysis:A case of Xinjiang[J]. Engineering of Surveying and Mapping,2016,25(9):15-19.]   
+[50]安尼瓦尔·买买提,杨元合,郭兆迪,等.新疆草地植被的地上生 物量[J].北京大学学报(自然科学版),2006,42(4):521-526. [Mohammat Anwar,Yang Yuanhe,Guo Zhaodi, et al.Grassland aboveground biomass in Xinjiang[J].Acta Scientiarum Naturalium Universitatis Pekinensis,2006,42(4): 521-526.]   
+[51] 李超,刘怀,郭文超,等.降水对新疆马铃薯甲虫分布的影响[J]. 生态学报,2016,36(8): 2348-2354.[Li Chao,Liu Huai,Guo Wenchao,et al.Efects of precipitation on the distribution of colorado potato beetle,Leptinotarsa decemlineata,in Xinjiang[J].Acta Ecologica Sinica,2016,36(8): 2348-2354.]   
+[52]中国科学院新疆综合考察队,中国科学院植物研究所.新疆植 被及其利用[M].北京:科学出版社,1978:23-24.[The Comprehensive Expedition to Xinjiang,Academia Sinica & Institute of Botany, Chinese Academy of Science.The Vegetation and its Utilization in Xinjiang, China[M]. Beijing: Science Press,1978: 23-24.]   
+[53]杜加强,贾尔恒·阿哈提,赵晨曦,等.1982—2012年新疆植被 NDVI的动态变化及其对气候变化和人类活动的响应[J].应用 生态学报,2015,26(12):3567-3578.[Du Jiaqiang,Jiaerheng Ahati,Zhao Chenxi,et al.Dynamic changes in vegetation NDVI from 1982 to 2Ol2 and its responses to climate change and human activities in Xinjiang, China[J]. Chinese Journal of Applied Ecology, 2015,26(12): 3567-3578.]   
+[54]中国科学院新疆综合考察队,中国科学院植物研究所.新疆植 被及其利用[M].北京:科学出版社,1978:75.[The Comprehensive Expedition to Xinjiang,Academia Sinica & Institute of Botany, Chinese Academy of Science. The Vegetation and its Utilization in Xinjiang, China[M]. Beijing: Science Press,1978: 75.]   
+[55] 尹林克,张娟.新疆植物种质资源多样性及其迁地保护[C]/中 国植物学会七十周年年会论文摘要汇编(1933-2003).2003: 265-266.[Yin Linke, Zhang Juan. Biodiversity and ex situ conservation of plant resources in Xinjiang[Cl/Summary Compilation of the Seventieth Anniversary Meeting of the Chinese Botanical Society(from 1933 to 2003).2003: 265-266.]   
+[56]冯缨,潘伯荣.新疆特有种植物区系及生态学研究[J].云南植物 研究,2004,26(2): 183-188.[Feng Ying,Pan Borong.Study on floristic and ecology of species endemic to Xinjiang[J].Acta Botanica Yunnanica,2004,26(2): 183-188.]   
+[57]国家科技基础条件平台.中国国家标本资源共享平台(NSII) [DB/OL]. htp:/nsii.org.cn/2017/query.php?.[National Science & Technology Infrastructure.Chinese National Specimen Information Infrastructure(NSI)[DB/OL].http: /nsii.org.cn/2017/query. php?.]   
+[58]国家科技基础条件平台.中国数字植物标本馆(CVH)[DB/OL]. https://www.cvh.ac.cn/spms/list.php?taxonName $\ast =$ Allium/&https: //www.cvh.ac.cn/spms/list.php?taxonName $\approxeq$ Allium&family=&genus=&country=&stateProvince% 5B% 5D=% E6% $9 6 \%$ B0% E7% 96% 86% E7% BB% B4% E5% 90% BE% E5% B0% 94% E8% 87% AA%E6%B2%BB%E5%8C%BA%21&county=&locality=&minimumElevation=&maximumElevation=&recordedBy=&recordNumber=&year=&collectionCode=&identifiedBy=&dateIdentified=. [National Science & Technology Infrastructure.Chinese Virtual Herbarium(CVH)[DB/OL].https://ww.cvh.ac.cn/spms/list.php? taxonName=Allium/& htps://www.cvh.ac.cn/spms/list.h?aon Name=Allium&family=&genus=&country=&stateProvince% 5B $\%$ （20 5D=%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE% E5% B0% 94%E8% 87% AA%E6% B2%BB% E5% 8C% BA% 21&county=&locality=&minimumElevation=&maximumElevation= &recordedBy $\scriptstyle { \tau = }$ &recordNumber=&year=&collectionCode=&identifiedBy=&dateldentified=. ]   
+[59]陆峻.新疆葱属野生植物资源[J].新疆农业科学,1995(6): 264-267.[Lu Junqun. Wild Allium Plant Resources in Xinjiang, China[J]. Xinjiang Agricultural Sciences,1995(6): 264-267.]   
+[60] 吴征镒,孙航,周浙昆,等.中国种子植物区系地理[M].北京:科 学出版社,2011: 52-108.[Wu Zhengyi,Sun Hang, Zhou Zhekun, et al.Floristics of Seed Plants from China[M].Beijing: Science Press, 2011: 52-108.]   
+[61]张佃民,刘晓云,刘速.新疆植被区划的新方案[J].干旱区研究, 1990,7(1):1-10.[Zhang Dianmin, Liu Xiaoyun, Liu Su.A new scheme of the vegetation regionalisation of Xinjiang[J].Arid Zone Research,1990,7(1): 1-10.]   
+[62]青海植物志编辑委员会.青海植物志:第四卷[M].西宁:青海人 民出版社,1999:266-276.[Editorial Commitee of Flora Qinghaiica.Flora Qinghaiica: Volume 4[M]. Xining:Qinghai People's Publishing House,1999: 266-276.]   
+[63] 中国科学院青藏高原综合科学考察队&吴征镒.西藏植物志: 第五卷[M].北京:科学出版社,1987:550-562.[The Comprehensive Scientific Expedition to the Qinghai- Xizang Plateau,Academia Sinica & Wu Chengyi,.Flora Xizangica: Volume 5[M]. Beijing: Science Press,1987: 550-562.]   
+[64]Vvedensky A I. Sem. Amaryllidaceae[M]. Moskva-Leningrad: Izd. Akad.Nauk SSSR,1963:290-370.   
+[65]Fritsch R. Dopolneniek T.I[M]. Leningrad: Nauka,1991: 476- 480.   
+[66]Nikitina E V,Kashchenko L I. Alium L.- Luk[M].Frunze: Izd. KirgizFAN SSSR,1951: 50-96.   
+[67]Nikitina E V,Aidarova R S,Arbaeva Z S,et al.Flora Kirgizskoj SSR.Dopolnenie,vyp.1[M]. Frunze: Izd. ILIM,1967: 149.   
+[68] Pavlov N V,Polyakov PP. Genus Allium L. [M].Alma-Ata: Izdat. Akad. Nauk Kazakhsk.SSR,1958: 134-193.   
+[69]Vvedensky A I. Luk-Alium L.[M]. Leningrad: Izd. Akad. Nauk SSSR, 1935: 112-280.   
+[70]Bobrov E G,Tzvelev N N.Flora of the USSR (Alphabetical Indexes to Volumes I-X X X)[M]. Enfield,NH: Science Publishers Inc.,2004: 11-14.   
+[71]Grubov VI. Key to the Vascular Plants of Mongolia[M]. Leningrad: Leningrad Branch.Nauka SSR,1982: 61-65,429.   
+[72]Friesen N.The genus Allium L. in the Flora of Mongolia[J].Feddes Repertorium,1995,106(1-2): 59-81.   
+[73]中国科学院植物研究所.中国植物志分省名录FRPS《中国植物 志》全文电子版(iPlant)[DB/OL].http: //www.iplant.cn/frps/ prov.[Institute of Botany.the Chinese Academy of Sciences. Flora Reipublicae Popularis Sinicae(iPlant)[DB/OL]. htp://www. iplant. cn/frps/prov.]   
+[74]Computer Centre of University of Greifswald,D- 17487 Greifswald,Germany.FloraGREIF:Allium- Virtual Flora of Mongolia [DB/OL].https: /floragreif.uni-greifswald.de/taxon/?flora_ search=taxon&action=species&gr1=angiosperms&ord=Asparag ales&fam=Alliaceae&gen=Allium.   
+[75] Sorenson T.A method of establishing groups of equal amplitude in plant sociology based on similarity of species content and its application to analyses of the vegetation on danish commons[J]. Kongelige Danske Videnskabernes Selskab,Biologiske Skrifter,1948, 5(4): 1-34.   
+[76] Moore JJ.An outline of computer-based methods for the analysis of phytosociological data[C]//Tuxen R&van der Maarel E.Grundfragen und Methoden in der Pflanzensoziologie.Vegetio,1972,20: 1-20.   
+[77] 张镜锂.植物区系地理研究中的重要参数-相似性系数[J].地理 研究,1998,17(4): 429-434.[Zhang Yili. Coefficient of similarityan importantparameter infloristicgeography[J].Geographical Research,1998,17(4): 429-434.]   
+[78] 李锡文.中国种子植物区系统计分析[J].云南植物研究,1996,
+
+18(4):363-384.[Li Xiwen.Floristic statistics and analyses of seed plants from China[J].Acta Botanica Yunnanica,1996,18(4): 363-384.]
+
+[79]Block E. Garlic and Other Allums: The Lore and the Sciene[M]. Cambridge: Royal Society of Chemistry,2010.   
+[80] 冯缨,严成,尹林克.新疆植物特有种及其分布[J].西北植物学 报,2003,23(2):263-273.[Feng Ying,Yan Cheng,Yin Linke. The endemic species and distribution in Xinjiang[J].Acta Botanica Boreali-Occidentalia Sinica,2003,23(2): 263-273.]   
+[81] Huang DQ, Zhen A G, Zhu X X.Allum yingshanense,a new species from the Dabie Mountains (east-central China),and taxonomic remarks ontherelated species[J].Phytotaxa,2021,498(4): 227-241.   
+[82] 陆峻,白玉亭,马盾,等.新疆天山葱属野生植物多样性的研 究[C]//国际生物多样性计划中国委员会.面向21世纪的中国 生物多样性保护-第三届全国生物多样性保护与持续利用研 讨会论文集.北京:气象出版社,1998:192-197.[Lu Junqun, Bai Yuting,Ma Dun,et al. The diversity of wild plant of Allium In Tian- Shan Mountains,Xinjiang[C]//CNCDIVERSITAS.For Chinese Biodiversity Conservation in the $2 1 ^ { \mathrm { s t } }$ Century- Symposium Books of the Third Seminar on Chinese Biodiversity Conservation and Sustainable Utilization. Beijing: Meteorological Press,1998: 192-197.]   
+[83] 武素功,费勇,夏榆,等.喀喇昆仑山-昆仑山植物区系的一般 特征及植物资源的保护与开发利用[J].自然资源学报,1990,5 (4): 376-382.[Wu Sugong,Fei Yong,Xia Yu,et al. The general characteristics of the flora of the Karakorum- Kunlun mountains and the conservation,exploitation and utilization of the plant resources[J]. Journal of Natural Resources,1990,5(4): 376-382.]   
+[84] 梁娜,安沙舟,吐尔逊娜依·热依木.新疆与塔吉克斯坦帕米尔 高原植物区系的对比分析[J].新疆农业科学,2015,52(10): 1909-1916.[Liang Na,An Shazhou, Tuerxunnayi Reyimu. Comparative analysis of floristic phytogeography of seed plants between Pamirs plateau of Xinjiang and Tajikistan[J]. Xinjiang Agricultural Sciences,2015,52(10): 1909-1916.]   
+[85] 张高.新疆中天山野生种子植物区系及植被研究[D].乌鲁木 齐:新疆师范大学,2013.[Zhang Gao.Study of The Flora of Wild Seed Plants and Vegetatio in the Middle Tianshan Mountains of Xinjiang[D]. Urumqi: Xinjiang Normal University,2013.]   
+[86]海鹰.新疆昆仑山中段北坡植物区系研究[J].新疆师范大学学 报(自然科学版),2009,28(4):7-12.[Hai Ying.A study of the flora on the middle part of the northern slope of the Kunlun Mountains[J].Journal of Xinjiang Normal University(Natural Sciences Edition),2009,28(4): 7-12.]   
+[87] 闻志彬,冯缨.新疆猪毛菜属植物多样性及其地理分布特征[J] 干旱区研究,2020,37(1):188-190.[Wen Zhibin,Feng Ying.Biodiversity and geographical distribution of the genus Salsola L. in Xinjiang[J].Arid Zone Research,2020,37(1): 188-190.]   
+[Q91 刘彬 布买丽娅木·叶加汗 节比拜姆·古执木 笔 新疆干山南
+
+坡中段种子植物区系垂直分布格局分析[J].植物科学学报，2018,36(2):191-202.[Liu Bin,Bumaryam Turuhan,AibibaimuKeremu, et al.Vertical dstribution patterns ol the seed plant tlorain the middle section on the southern slopes of the Tianshan Moun-tains in Xinjiang,China[J].Plant Science Journal,2O18,36(2):191-202.1
+
+[89] 沈泽昊,杨明正,冯建孟,等.中国高山植物区系地理格局与环 境和空间因素的关系[J].生物多样性,2017,25(2):182-194. [Shen Zehao, Yang Mingzheng,Feng Jianmeng,et al. Geographic paterns of alpine flora in China in relation to environmental and spatial factors[J]. Biodiversity Science,2017,25(2): 182-194.]   
+[90]孙航,邓涛,陈永生,等.植物区系地理研究现状及发展趋势[J] 生物多样性,2017,25(2):111-122.[Sun Hang,Deng Tao, Chen Yongsheng,et al. Current research anddevelopment trends in flo ristic geography[J]. Biodiversity Science,2017,25(2): 11-1.]   
+[91] 李文军,管开云,段士民,等.新疆马先蒿属植物区系特征[J].干 旱区研究,2014,31(3): 536-541.[Li Wenjun,Guan Kaiyun, Duan Shimin,et al. Species diversity and geographical distribution of Pedicularis (Orobanchaceae) in Xinjiang[J].Arid Zone Research,2014,31(3): 536-541.]   
+[92] 曹秋梅,尹林克,陈艳锋,等.阿尔泰山南坡种子植物区系特点 分析[J].西北植物学报,2015,35(7):1460-1469.[Cao Qiumei, Yin Linke,Chen Yanfeng,et al.Analysis on characteristics of flora in south slope of Altai Mountain[J].Acta Botanica Boreali-Occidentalia Sinica,2015,35(7): 1460-1469.]   
+[93]Fritsch R M. Taxonomy of the genus Allium:Contribution from IPK Gatersleben[J]. Herbertia,2001,56:19-50.   
+[94] Choi HJ,GiussaniL M,Jang C G,et al. Systematics of disjunct northeastern Asian and northern North American Alium (Amaryllidaceae)[J]. Botany,2012,90:491-508.   
+[95]LiQQ, Zhou SD,Huang D Q,et al. Molecular phylogeny, divergence time estimates and historical biogeography within one of the world 's largest monocot genera[J]. AoB Plants,2O16,8: 1-17.   
+[96]Hanelt P,Schulze-MotelJ,Fritsch R M,etal.Infragenericgrouping of Allium-the Gatersleben approach,1992[C/ Hanelt P,Hammer K,Knupffer oder Knuepffer H. The Genus Allium: Taxonomic Problems and Genetic Resources.Proceedings of An International Symposium Held at Gatersleben,Germany,Gatersleben.Germa ny: Institut fir Pfanzengenetik und Kulturpflanzenforschung(IPK), 1991: 107-123.   
+[97] 周春景,周颂东,黄德青,等.中国葱属根茎组植物15种25居群 的核型研究[J].植物分类与资源学报,2012,34(2):120-136 [Zhou Chunjing, Zhou Songdong, Huang Deqing,et al. Karyotypes of 25 populations of 15 species in Allium section rhiziridium from China[J]. Plant Diversity and Resources,2012,34(2):120-136.]   
+[98]Shopova M. The nature and behaviour of supernumerary chromosomes in the Rhiziridium group of the genus Allium[J]. Chromosoma(Berl.),1966,19(2): 149-158.
+
+# Floristic characteristics of the genus Allium Linnaeus in Xinjiang, China
+
+ZHANG Qiaoguan'²， ZHANG Daoyuant³， LIU Huiliang1.4
+
+(1.StateKeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyand Geography,ChineseAcademy of Sciences, Urumqi 830o11,Xinjiang, China; 2. Universityof Chinese Academy of Sciences,Beijing 101408,   
+China;3.Turpan Eremophytes Botanical Garden, Chinese Academy ofSciences,Turpan 8380o,Xinjiang, China; 4.Ili Botanical Garden, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences, Xinyuan 835815, Xinjiang, China)
+
+Abstract: The Alium Linnaeus is an important plant resource of great value with many species.It is situated in Central Asia and the hinterland of the Eurasian continent.Xinjiangof China harbors a wide plant diversity of Allium Linnaeus.To probe into the plant resources and the floristic characteristics of Allium Linnaeus in Xinjiang Province,combining and verifying monographs,literature,bibliographies with specimens from this genus can provide some profound support and outline for taxonomy,classification,biodiversity conservation as well as proper and sound utilization of Alium plants. We hope this study can help further research into this genus (Allium Linnaeus). Based on previous and present references,studies,records,and information about Alium Linaeus, Allium plants from Xinjiang Province comprise about 58 species,1 subspecies,2 varieties,and 6 cultivated species.The floristic characteristics of Alium Linnaeus in Xinjiang Province are summarized as follows: (1) Allum plants of Xinjiang Province are mainly distributed in the Tianshan Mountains,Ii,Tacheng,Altay,and Kashgar,with mostof them inhabiting the deserts,steppes,the dry slopes,gravel grounds,mountains,alps,and forest floor(or forests). (2) In terms of the areal-types of geographical elements,the II C5b elements (the Junggar subregion,of the temperate desert) has the largest percentage composition,followed by the IA2 (the Altay region),II C5a(the Tacheng-Ii subregion),IA3 (the Tianshanregion), IIC6c (the Kashgar subregion). (3)From the perspective of the vegetation regionalization of Xinjiang,the Alium plant species in the vegetation provinces with the IB1,IIA2,IIA1,IB3 make up most vegetation regionalization types in Xinjiang; the IB1,IA1, IIB2 follow this;and with a relatively few occurrences in the vegetation province I B4,IC1.(4) Both horizontal distribution and vertical distribution of Allium Linnaeus in Xinjiang are differentiated.(5)The common Allum species in Xinjiang and the adjacent countries (especially in Kazakhstan and Rusia) were significantly more than other neighbouring regions. Also,the number of the common Alium species presented a slight distinction. It indicated a higher similarity in the common Allum species among Kazakhstan,Rusia,and Xinjiang of China, reflecting the distinctive connection，exchange，interelation，and affnity with other neighboring floristic components.Henceforth，holistic，comprehensive，multidisciplinary，and sufficient research integrating with molecular phylogeny (phylofloristics),phylogenetic,evolutionary processes,history,and information (historical floristic phytogeography), phylogenetics, and molecular biogeography are proposed.
+
+Keywords: Allum Linnaeus；species biodiversity； flora；floristic characteristics； floristic ainity； Xinjiang ofChina

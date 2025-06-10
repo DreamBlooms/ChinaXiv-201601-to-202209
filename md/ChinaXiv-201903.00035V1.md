@@ -1,0 +1,268 @@
+# 基于工频同步信号的三相共筒式GIS局部放电识别方法
+
+郭旭 牧继清 王庆军² 雍明超 王伟杰毛丽娜1（1.许继集团有限公司许昌 4610002.国网安徽省电力公司科学研究院合肥230000）
+
+![](images/04d2a5c75aec791ce6e735ff17442519fec0461cf54b369090a2f554a2aac6ae.jpg)
+
+郭旭男1983年生，工程师，主要从事高压设备状态监测与故障诊断工作。
+
+摘要：工频相位是局部放电监测进行模式识别的重要基础。目前GIS 局部放电监测设备中局部放电类型识别率较低，在三相共筒式GIS 中问题更加突出。针对此现象，提出一种基于工频同步信号的三相共筒式GIS局部放电识别方法。在不改变现有工频同步信号接入的前提下，通过工频同步信号触发局部放电信号的采集，并将其通过移相因子转换为其他相局部放电数据，分别与系统中局部放电类型数据库比对，将识别率最高的类型输出，从而达到模式识别的目的。所述方案实现简单，具有应用灵活和故障类型识别率高的特点。
+
+关键词：局部放电监测工频同步 模式识别 三相共筒GIS 高压设备中图分类号：TM855
+
+# Power Phase Based on PD Detection Method in the Three-Phase Cylindrical GIS
+
+Guo $X u ^ { 1 }$ （204 Mu Jiqing1Wang Qingjun2 Yong Mingchao1 Wang Weijiel Mao Lina1 (1.XJGroup Co., Ltd. Xuchang461000 China 2.State Grid Anhui Electric Power Research Institute Hefei 230000 China）
+
+![](images/16b7eb6b4ee4a0aa761df958f06217bb8bc8745c9d102c9138199ad9e805e08e.jpg)
+
+牧继清男 1986年生，工程师，主要从事高压设备状态监测与故障诊断工作。
+
+Abstract: The power phase plays an important role in the partial discharge (PD) monitoring device for pattern recognition. The rate of recognition to discharge types in the current PD monitoring devices is low, especially in the three-phase barrel GIS.Based on the synchronization signal, a PD recognition method in the three-phase common GIS is presented for the above problem in this paper. Firstly,the existing synchronization signal is used,and then it is converted to be the other two-phase PD data by the phaseshift factors.Furthermore,it is compared with date base of PD features,the PD type of the highest recognition rate will be output. This scheme is very simple to implement and has the flexibility and high PD type determination in engineering applications.
+
+Keywords: PD monitoring,power frequency synchronization, pattern recognition, three-phase barrel GIS,high voltage equipment
+
+# 1 引言
+
+型识别率不高的问题。
+
+局部放电监测作为高压设备智能化和状态监测的重要技术领域之一，能够及时发现设备运行中的绝缘问题，为电力系统优化运行和状态检修提供数据和参考，从而减少事故停电和检修停电带来的损失。高压开关设备发生局部放电时，局部放电信号和设备运行的工频相位具有高度的相关性[1]。这种特征是识别不同放电类型（如GIS设备中可能发生的悬浮放电、气隙放电、沿面放电或金属尖端放电、颗粒放电等）的基础[2-3]。
+
+目前，局部放电监测装置依据工频同步相位识别方法存在以下问题：
+
+(1）从电压互感器二次端接入电压信号，并通过该电压产生标准方波信号，触发采集卡的所有采集通道同时采样[4]。该方法在实验室中取得了很好的效果，但在实际应用中，工频同步相位和传感器采集相位可能不一致，从而造成局部放电信号相位出现偏差，导致识别率低。
+
+(2）从装置的交流电源处引入220V工频电压信号，经过变送器输出交流小信号送到局部放电装置的高速采集卡[5]。该方法对于单相单筒GIS 可以判断出放电类型，但对于三相共筒GIS，只有当同步相和监测相一致时，装置才能准确识别放电类型，但其他两相如果发生放电，就会出现判断不准确的情况。
+
+(3）装置内同步触发采集，即装置自身产生一个 ${ 5 0 } \mathrm { { H z } }$ 固定频率的同步信号，但装置晶振的固有偏差会随时间导致同步信号发生偏移[。该方法对于局部放电的识别率更低。
+
+国家电网公司的统计及实际运行经验表明，现投入的局部放电在线监测设备故障类型识别正确率较低。针对现有技术的不足，本文提出一种基于工频同步信号的三相共筒式GIS局部放电识别方法，以解决目前局部放电监测装置在实际工程中放电类
+
+# 2基于同步信号的数据采集及处理
+
+通过外围电路生成同步信号[]，依据此信号进行触发采集。其中，同步信号的产生过程为：通过电压互感器TV二次接线端接入电路并转换成标准方波[8]，如图1所示。
+
+![](images/ebf9362fefa0c0de159ed6336060a4ac7605037795efa266a2cee9cc6084fa57.jpg)  
+图1同步信号接入及数据采集
+
+数据处理模块接收采集的原始局部放电数据，如参考相为A相，将原始数据存放到标定相对应内存中，即
+
+$$
+P _ { \mathrm { a } } = \{ D _ { \mathrm { a 1 } } , D _ { \mathrm { a 2 } } , D _ { \mathrm { a 3 } } , \cdots , D _ { \mathrm { a n } } \}
+$$
+
+根据相位修正因子对数据进行等比例移相操作，并将数据存到相应相的内存中。
+
+B、C相修正因子为
+
+$$
+\varDelta \phi = \pm \frac { \varPhi _ { \mathrm { b c } } } { 2 \pi } n
+$$
+
+其中， $\phi _ { \mathrm { b c } }$ 为B或C相对A相的位移； $n$ 为每周波局部放电采集卡采集的数据量。
+
+根据修正因子，可求得三相原始数据为
+
+$$
+\left\{ \begin{array} { l l } { P _ { \mathrm { a } } = \{ D _ { \mathrm { a 1 } } , D _ { \mathrm { a 2 } } , D _ { \mathrm { a 3 } } , \cdots , D _ { \mathrm { a n } } \} } \\ { P _ { \mathrm { b } } = \{ D _ { \mathrm { b 1 } } , D _ { \mathrm { b 2 } } , D _ { \mathrm { b 3 } } , \cdots , D _ { \mathrm { b n } } \} } \\ { P _ { \mathrm { c } } = \{ D _ { \mathrm { c 1 } } , D _ { \mathrm { c 2 } } , D _ { \mathrm { c 3 } } , \cdots , D _ { \mathrm { c n } } \} } \end{array} \right.
+$$
+
+具体生成过程如图2所示。
+
+![](images/510e5fb7d2a3d30f3389e1eafa02c2987a07aa8971b833627f8a7aa940df3c85.jpg)  
+Fig.1Synchronous signal access and data acquisition   
+图2生成局部放电采样数据  
+Fig.2Generation of partial discharge sampling data
+
+统计50个周波的数据并进行幅值归一化，每个周波为640个数据，生成一个 $5 0 \times 6 4 0$ 的二维数组。分别统计50周波的放电次数，根据相位、幅值和放电次数，分别得到A、B、C三相放电信号对应的PRPS三维图谱，再将PRPS三维图谱生成PRPD图谱、N-P图谱和Q-P图谱。对每个图谱进行特征向量提取，经过优化处理后提取了22个特征向量[9-10]，见表1。将提取的A、B、C三相放电信号对应的特征向量逐一与样本库中的特征向量进行Pearson相关计算，识别出A、B、C三相对应的放电类型，并将相关性最强的作为结果输出。
+
+表1基于PRPD 图谱、N-P 图谱和Q-P 图谱提取的特征向量  
+
+<html><body><table><tr><td>序号</td><td>特征名称</td></tr><tr><td>fi</td><td>工频正半波局放图像二阶广义维数归一化值</td></tr><tr><td>f</td><td>工频负半波局放图像分维数归一化值</td></tr><tr><td>f</td><td>工频负半波局放图像二阶广义维数归一化值</td></tr><tr><td>f4</td><td>工频正半波局放图像灰度重心横坐标</td></tr><tr><td>fs</td><td>工频正半波局放图像灰度重心纵坐标</td></tr><tr><td>f</td><td>工频正半波局放图像主轴方向特征参数</td></tr><tr><td>f</td><td>工频负半波局放图像灰度重心横坐标</td></tr><tr><td>f</td><td>工频负半波局放图像灰度重心纵坐标</td></tr><tr><td>f</td><td>工频负半波局放图像主轴方向特征参数</td></tr><tr><td>f10</td><td>工频正、负半波放电图像的相关系数</td></tr><tr><td>fi</td><td>第I象限的放电集中度</td></tr><tr><td>f12</td><td>第I、Ⅱ象限不对称度</td></tr><tr><td>f13</td><td>负半周放电总次数峰度</td></tr><tr><td>f14</td><td>负半周放电总次数偏度</td></tr><tr><td>f15</td><td>相位区域平均值</td></tr><tr><td>f16</td><td>正半周放电总次数峰度</td></tr><tr><td>f17</td><td>正半周放电总次数偏度</td></tr><tr><td>f18</td><td>第Ⅲ象限的放电集中度</td></tr><tr><td>f19</td><td>负半周放电强度峰度</td></tr><tr><td>f20</td><td>负半周放电强度偏度</td></tr><tr><td>f1</td><td>正半周放电强度峰度</td></tr><tr><td>f22</td><td>正半周放电强度偏度</td></tr></table></body></html>
+
+# 3局部放电信号特征提取及识别
+
+针对GIS内常见的几种缺陷，在实验室设计了尖端、悬浮、气隙和颗粒四种放电类型。在工频周期下，定义每个周期的采样数据为一个数据样本。在单一放电类型下，统计50周波样本数据存放在数组 $p r p s [ i ] [ j ] [ k ]$ 中，其中 $i$ 为样本序号； $j$ 为放电强度； $k$ 为放电相位。
+
+将统计样本中每个数据样本的放电次数累加即可得到局部放电的PRPD图谱，以下特征图谱提取均来源于此数组，即
+
+$$
+p r p d [ j ] [ k ] = \sum _ { i = 1 } ^ { 5 0 } p r p s [ i ] [ j ] [ k ]
+$$
+
+模型中提取了图谱的22个主要特征向量。针对局部放电特征向量维度太高的问题，使用基于Bayes的特征优选方法将原始特征向量识别率进行排序，并优化组合。通过对200个放电样本进行测试，得到表2三种识别率最高的组合，下面对识别率最高的特征量来源进行逐一说明。
+
+Tab.1Feature vector extraction based on PRPD、N-P and Q-P   
+表2基于Bayes 的特征量选择  
+Tab.2 Feature voctor extraction based on Bayes   
+
+<html><body><table><tr><td>等宽离散化程度</td><td>特征组合</td><td>识别率(%)</td></tr><tr><td>4</td><td>1,5,6,10，13，21</td><td>95.745</td></tr><tr><td>5</td><td>1,2,5,6,12,21</td><td>97.872</td></tr><tr><td>6</td><td>1,5,6,13,17,21</td><td>94.681</td></tr></table></body></html>
+
+# 3.1灰度图特征量
+
+为提取相关特征量，将PRPD图谱转化为像素为 $6 4 \times 1 0 0$ 的灰度图，其中64表示幅值范围；100表示相位范围，图像每一点的灰度值表示放电次数。
+
+局放灰度图的分形特征分别为原始图像和高值灰度图像的分纬数以及原始图像的二阶广义维数。高值灰度图像可按以下方法得到，即
+
+$$
+I _ { 2 } ( i , j ) = \left\{ \begin{array} { c c } { I _ { 1 } ( i , j ) - L _ { 1 } } & { I _ { 1 } ( i , j ) > L _ { 1 } } \\ { 0 } & { \mathrm { ~ \sharp ~ \sharp ~ \sharp ~ \qquad ~ } } \end{array} \right.
+$$
+
+式中， $I _ { 1 } ( i , j )$ 为局放原始图像； $I _ { 2 } ( i , j )$ 称为 $I _ { 1 } ( i , j )$ 的灰度图像； $L _ { 1 } = g _ { \mathrm { m i n } } + \overline { { g } } / 2$ ，其中 $g _ { \mathrm { m i n } }$ 和g分别为 $I _ { 1 } ( i , j )$ 的灰度最小值和平均值。
+
+$I _ { 1 } ( i , j )$ 和 $I _ { 2 } ( i , j )$ 分维数为 $F D _ { 1 , 2 }$ ? $\langle 2 \leqslant F D \leqslant 3$ ），其归一化值为
+
+$$
+f _ { 1 , 2 } = F D _ { 1 , 2 } - 2
+$$
+
+图像某区域 $R$ 的 $p + q$ 阶原点矩为
+
+$$
+m _ { p q } = \sum _ { x } \sum _ { y } x ^ { p } y ^ { q } f ( x , y ) x , y \in R
+$$
+
+将离散函数 $f ( x , y )$ 看成一幅灰度图像，那么0阶矩为分母对1阶矩进行归一化处理，从而可以得
+
+到图像的灰度重心纵坐标为
+
+$$
+f _ { 5 } = \frac { m _ { 0 1 } } { m _ { 0 0 } }
+$$
+
+数字图像某区域 $R$ 的 $p + q$ 阶中心矩表示为
+
+$$
+u _ { p q } = \sum _ { x } \sum _ { y } ( x - \overline { { x } } ) ^ { p } ( y - \overline { { y } } ) ^ { q } f ( x , y )
+$$
+
+中心矩 $u _ { p q }$ 是反映图像灰度相对于灰度重心是如何分布的度量。二阶中心矩 $u _ { 0 2 }$ 和 $u _ { 2 0 }$ 具有显著的物理性质，能够反映局部放电图像主轴方向，即
+
+$$
+f _ { 6 } = u _ { 2 0 } / \left( u _ { 2 0 } + u _ { 0 2 } \right)
+$$
+
+# 3.2 N-P特征量
+
+N-P特征量反映了局部放电的频带，而不关心放电强度。其特征量的提取首先是将三维放电数据进行累加并作归一化处理，以更好地反映局部放电规律及模型识别。
+
+将prpd数组中每个 $j$ 坐标值累加，得到N-P图谱为
+
+$$
+N P [ k ] = \sum _ { j = 1 } ^ { m } p r p d [ k ]
+$$
+
+其中， $m$ 为放电强度归一化值。
+
+放电集中度为统计相位域内放电脉冲的比率，即
+
+$$
+f _ { 1 2 } = \frac { \displaystyle \sum _ { k = 0 } ^ { 2 4 } N [ k ] } { \displaystyle \sum _ { k = 0 } ^ { 2 9 } N [ k ] } - \frac { \displaystyle \sum _ { k = 2 5 } ^ { 4 9 } N [ k ] } { \displaystyle \sum _ { k = 0 } ^ { 9 9 } N [ k ] }
+$$
+
+本文为方便统计，将放电相位进行了100份等间隔处理。
+
+# 3.3 Q-P特征量
+
+Q-P图谱数据来源于prpd数组，只关注放电强度，而不关心放电的频度。Q-P数组的每个元素为统计式（4）prpd[][k]每个相位坐标的最大值，即
+
+$$
+Q P [ k ] = \operatorname* { m a x } \left( j \right)
+$$
+
+基于Q-P数组可以统计得特征量正半周放电强度峰度为
+
+$$
+f _ { 2 1 } = \frac { \displaystyle \frac { 1 } { 5 0 } \sum _ { k = 5 0 } ^ { 9 9 } ( Q P [ K ] - f _ { m } ^ { + } ) ^ { 4 } } { \displaystyle ( s _ { m } ^ { + } ) ^ { 4 } } - 3
+$$
+
+# 3.4模式识别
+
+本文采用Pearson相关系数法对局部放电信号进行模式识别。Pearson相关计算本质上是对局部放电图谱特征量与样本库中的特征量进行相关计算，故相关系数可表示为
+
+$$
+\rho _ { X , Y } = { \frac { E ( X , Y ) - E ( X ) E ( Y ) } { { \sqrt { E ( X ^ { 2 } ) - E ^ { 2 } ( X ) } } { \sqrt { E ( Y ^ { 2 } ) - E ^ { 2 } ( Y ) } } } }
+$$
+
+式中， $X$ 为待识别放电信号对应的特征向量； $Y$ 为样本库中的特征向量。两个变量 $X .$ 、Y的标准差均不为零的情况下越接近于1，相关度越强，相关系数绝对值越接近于0，相关度越弱。
+
+# 4局部放电信号采集及仿真
+
+为验证上述方法的识别率，利用GIS放电模型实验装置搭建了测试环境，GIS放电模型实验装置如图3所示。通过GIS放电模型实验装置，收集不同类型的局部放电样本如图4～图7所示，提取放电样本的特征量保存至装置。
+
+通过样本可以看出，尖端放电主要集中在电压相位的负峰（高压尖端）附近，放电比较明显，强度大；颗粒放电的放电时间和放电间隔都不固定，其极性效应也不明显，整个工频周期相位均有放电信号分布；气隙放电分为两簇，且分布在第I、第Ⅲ象限，放电幅值也相对均匀；悬浮放电的放电幅值比较大，且比较集中，上下会偶尔出现一些小信
+
+![](images/626296b60bde30aba7f253a23991a29719aa573db948cf23eff095c8a2d53328.jpg)  
+图3GIS放电模型实验装置
+
+![](images/96e494c4ac8ec23407b966c05b51800b8c1bbafd7cf2cb1179e364224e2535f8.jpg)  
+Fig.3The discharge experimental device of GIS   
+图4尖端放电样本  
+Fig.4Sample of spike discharge
+
+![](images/5215595edf98400b7abe596ba9cc51401e369bb34d1f291fabbc3c954c6b72e2.jpg)  
+图5颗粒放电图谱
+
+![](images/416a587d04ec42d74b01ef5460ec3ca191607e21879d55b375c86b8fefa473e2.jpg)  
+Fig.5Sample of metal particles discharge
+
+![](images/48a7f3eb2d3351ace6839899f9417a055ef4b8eb0d0cb10564ccea00154c4291.jpg)  
+图6气隙放电图谱  
+图7悬浮放电图谱  
+Fig.7Sample of suspension discharge
+
+号，但是比较稀松。
+
+为验证放电相与同步信号不一致的情况，假设将放电模型试验装置采集同步信号与A相电源同步，用C相电源对放电模型试验装置进行升压。通过实验装置收集不同放电类型原始数据。借助Matlab仿真工具，将收集到的原始数据和样本库中标准图谱特征量进行Pearson相关计算，结果表明即使在数据采集过程中同步相和局部放电相不一致，通过相关系数依然可以识别出局部放电类型，如图8所示。
+
+![](images/370092c739383366132ca238806b6d3a0484bd6c2174660ba1cf5e54c0809168.jpg)  
+Fig.6Sample of internal defect discharge   
+图8Matlab 仿真结果  
+Fig.8 Simulation results on Matlab
+
+# 5 系统应用
+
+本文提出的局部放电监测系统主要由传感器、数据采集单元、数据处理单元、通信模块等组成，如图9所示。通过安装在设备上的局部放电传感器UHF天线感知高压开关设备内部缺陷或故障产生局部放电信号，高速采集卡模块采用带通滤波、低噪放大和包络检波等处理，进行AD采样和数字去噪[11]。处理后的数字信号送至数据分析模块完成局部放电信号的放电特征量提取、放电模式识别和预警处理，局部放电信号特征和评估结果通过DL/T 860规约上送至站端网络[12-13]。
+
+上述方法的局部放电监测系统和现有局部放电监测设备的硬件构架一致，包括安装在三相共筒GIS 设备上的传感器（采集器），产生工频同步信号的外围电路、局部放电处理单元。其中，数据处理模块用于对三相局部放电数据进行幅值归一化，放电次数计算，PRPD图谱、N-P图谱和Q-P图谱生成，特征向量提取及放电类型识别，具体识别过程见上述识别方法。通过实验室测试，本文分别统计了100组不同放电类型的识别率，具体识别效果见表3。
+
+图9局部放电监测系统结构图  
+![](images/29fee150bbcc2548a728a6db17f32ba1e342f7eb87527256df2578bb61065f75.jpg)  
+Fig.9The structure chart of partial discharge monitoring
+
+表3不同放电类型识别率  
+Tab.3The recognition rate of different discharge   
+
+<html><body><table><tr><td>放电类型</td><td>识别率(%)</td></tr><tr><td>尖端放电</td><td>96</td></tr><tr><td>颗粒放电</td><td>94</td></tr><tr><td>气隙放电</td><td>91</td></tr><tr><td>悬浮放电</td><td>90</td></tr></table></body></html>
+
+厦门某高压开关公司在 $1 1 0 ~ \mathrm { k V }$ 智能GIS入网实验中，采用了具备此识别算法的局部放电监测系统，通过了西安高压电器研究院的入网认证。实验本体为 $1 1 0 ~ \mathrm { k V }$ 三相共筒式GIS，内部布置了尖端放电模型，通过测试，装置很好地捕捉到尖端放电，放电相位和尖端放电样本一致，如图10所示。
+
+![](images/76b5879315fddb0f6e75897f3cd22be4e46c074fcd662af3b5a748cd518dc534.jpg)  
+图10 尖端放电图谱  
+Fig.10Spectrum of spike discharge
+
+# 6 结论
+
+在高压开关局部放电监测中，尤其是在 $1 1 0 \mathrm { k V }$ 以上电压等级的三相共筒式GIS局部放电监测中，局部放电信号的模式识别一直是工程应用中的难点。本文所提出的一种基于工频同步相位信号的三相共筒式GIS局部放电类型的识别方法，不改变现有局部放电监测系统构架模式，通过将原始采样数据根据相位因子进行数据修正，分别提取不同谱图下的特征量，通过Pearson相关计算将相关系数最大的类型输出，从而达到模式识别的目的。该方法不仅在三相共筒式GIS中实用，在三相分离的GIS中也可以通过此方法将采样数据根据不同传感器安装位置进行针对性相位修正，从而达到和同步信号一致的目的。实际的工程应用也表明，基于工频同步相位信号的三相共筒式GIS局部放电类型的识别方法具有应用灵活、方法简单、识别率高的特点，采用该方法可有效地提高局部放电类型的识别率。
+
+# 参考文献
+
+[1] 路光辉，雍明超，王新刚，等．一种基于SV采样 信号的局部放电监测内同步基准修正方法[J]．电 测与仪表，2016，17：118-123. Lu Guanghui, Yong Mingchao, Wang Xingang,et al. A synchronous reference correction method based on SV sampling in partial discharge monitoring[J]. Electrical Measurement& Instrumentation,2016,17: 118-123.   
+[2] 齐波，李成榕，耿弼博，等．GIS设备绝缘子高压 电极故障局部放电严重程度的诊断与评估[J]．高 电压技术．2011，37(7)：1719-1727. Qi Bo,Li Chengrong,Geng Bibo,et al. Severity diagnosis and assessment of the partial discharge provoked by high-voltage wlectrode defect on GIS insulator surface[J].High Voltage Engineering,2011, 37(7):1719-1727.   
+[3] 尚海昆．电力变压器局部放电信号的特征提取与模 式识别方法研究[D]．北京：华北电力大学，2014.   
+[4] 夏云永，徐涛，徐剑．基于超高频法的GIS局部 放电在线检测系统[J]．华东电力，2014，42(8)： 1729-1732. Xia Yunyong,Xu Tao, Xu jian. UHF-based online monitoring system for GIS partial discharge[J]. East China Electric Power,2014,42(8): 1729-1732.   
+[5] 张天辰，胡岳，李清，等．基于虚拟器的GIS局 部放电声光联合检测系统[J]．高压电器，2012, 48(11): 43-49. Zhang Tianchen,Hu Yue,Li Qing,et al. Combined ultrasonic and electrical detection system for GIS partial discharge based on virtual instrument[J]. High Voltage Apparatus, 2012, 48(11): 43-49.   
+[6] 陈玉，成永红，徐霄伟，等． $1 0 0 ~ \mathrm { { M H z } }$ 采样速率 局放在线监测智能单元的开发[J]．高电压技术， 2008，34(11): 2368-2373. Chen Yu, Cheng Yonghong,Xu Xiaowei,et al. Development of $1 0 0 ~ \mathrm { M H z }$ intelligent unit for partial discharge on-line monitoring[J]. High Voltage Engineering,2008,34(11): 2368-2373.   
+[7] 李信，李成榕，丁立健，等．基于超高频信号检 测GIS局放模式识别[J]．高电压技术，2003, 29(11): 26-30. Li Xin,Li Chengrong,Ding Lijian,et al. Identification of PD patterns in gas insulated switchgear(GIS)based on UHF signals[J]. High Voltage Engineering,2003,29(11): 26-30.   
+[8] 周沙，景亮．基于矩特征与概率神经网络的局部 放电模式识别[J]．电力系统保护与控制，2016, 44(3):98-102. Zhou Sha, Jing Liang.Pattern recognition of partial discharge based on moment features and probabilistic neural network[J].Power System Protection and Control,2016,44(3): 98-102.   
+[9] 苑津莎，尚海昆，王瑜，等．基于相关系数矩阵 和概率神经网络的局部放电模式识别[J]．电力系 统保护与控制，2013，41(13)：110-115. Yuan Jinsha,Shang Haikun,Wang Yu,et al. Pattern recognition for partial discharge based on correlation coefficient matrix and probabilistic neural networks[J].Power System Protection and Control, 2013,41(13): 110-115.   
+[10] 谭向宇，黄然，刘红文，等．局部放电PRPD图 谱的相位同步影响分析[C]．2012年中国电机工程 学会年会论文集，2012：1-5.   
+[11] 杨建国，刘振伟．高压设备强电局部放电在线监 测技术研究[J]．科技向导，2011(30)：199-251. Yang Jianguo, Liu Zhenwei. Strong high-voltage electrical equipment partial discharge on-line monitoring technology research[J]. Guide of Sci-tech Magazine,2011(30): 199-251.   
+[12]王彩雄，唐志国，常文治，等．一种多源局部放 电信号分离方法[J]．中国电机工程学报，2013, 33(13): 212-219. Wang Caixiong,Tang Zhiguo,Chang Wenzhi,et al. A method for multi-source partial discharge signals separation[J].Proceedings of the CSEE,2013, 33(13): 212-219.   
+[13]郭小霞，吴广宁，周凯，等．高压方波脉冲下 局部放电的相位分布特征[J]．高压电器，2008, 44(6): 505-508. Guo Xiaoxia, Wu Guangning, Zhou Kai, et al. Phase distribution characteristic of partial discharge under square pulse voltage[J]. High Voltage Apparatus, 2008,44(6): 505-508.
+
+# （上接第37页）
+
+Ge Chengyu,Zhu Songyi,Han Xianhe,et al.A voltage sag time detection method with anti-noise feature[J]. Smart Grid,2017,5(5): 417-420. [15] 雷何，高山，林新春，等．基于包含谐波模型的加 权最小二乘估计算法的电压暂降检测方法[J]．电 力自动化设备，2013，33(9)：36-40. Lei He, Gao Shan,Lin Xinchun, et al. Voltage sag detection based on weighted least-squares estimation
+
+algorithm with harmonic models[J].Electric Power Automation Equipment, 2013,33(9): 36-40. [16] 石敏，吴正国，尹为民．基于双小波的短时电压波 动信号检测[J]．电网技术，2005，29(6)：17-21. Shi Min,Wu Zhengguo,Yin Weimin.Detection of short duration voltage variation signal based on double wavelet[J]. Power System Technology,2005, 29(6): 17-21.

@@ -1,0 +1,174 @@
+# 饲粮核黄素水平对 $1 5 { \sim } 4 2$ 日龄北京鸭生长性能和血浆生化指标的影响
+
+唐静胡健江勇谢明侯水生\*(中国农业科学院北京畜牧兽医研究所，北京100193)
+
+摘要：本试验旨在研究饲粮核黄素水平对15\~42日龄北京鸭生长性能和血浆生化指标的影响。采用单因子完全随机试验设计，选取288只体重相近的15日龄雄性北京鸭，随机分为6个组，每组6各重复，每个重复8只鸭。对照组饲喂基础饲粮（核黄素含量为 $1 . 3 8 \mathrm { m g / k g } )$ ，试验组分别饲喂在基础饲粮中添加 $1 . 0 0 , \ 2 . 0 0 , \ 3 . 0 0 , \ 4 . 0 0$ 和 $5 . 0 0 \mathrm { m g / k g }$ 核黄素的试验饲粮。试验期为28d。结果表明，与对照组相比，饲粮中添加核黄素显著提高了15\~42日龄北京鸭平均日增重和平均日采食量（ $_ { ( P < 0 . 0 5 ) }$ ，显著提高了血浆核黄素含量（ $. P { < } 0 . 0 5 )$ ，显著降低了血浆谷丙转氨酶活性和甘油三酯含量（ $. P { < } 0 . 0 5 )$ 。由此可见，饲粮中添加核黄素可显著提高$1 5 { \sim } 4 2$ 日龄雄性北京鸭生长性能和血浆核黄素含量。以平均日增重、平均日采食量、料重比和血浆核黄素含量为评价指标，采用折线模型估测 $1 5 { \sim } 4 2$ 日龄雄性北京鸭核黄素需要量为$2 . 2 4 { \sim } 2 . 6 6 ~ \mathrm { m g / k g }$
+
+关键词：北京鸭；核黄素；维生素 $\mathbf { B } _ { 2 }$ ；生长性能；血浆生化指标
+
+中图分类号：S834
+
+核黄素是合成黄素单核苷酸(FMN)和黄素腺嘌呤二核苷酸(FAD)的重要前体物质。作为很多黄素蛋白的辅酶，FMN 和FAD参与生物体内多个代谢过程，如脂肪酸氧化、三羧酸循环、线粒体呼吸链电子传递和氨基酸降解等[1-2]。NRC(1994)肉鸭饲养标准中， $1 { \sim } 3$ 周龄肉鸭核黄素的推荐量为 $4 \ \mathrm { m g / k g }$ ，但该推荐量仅参考了20 世纪早期的2 篇文献[3-4]。唐静等[5]研究了生长前期（1\~21 日龄）北京鸭的核黄素需要量，结果表明，以平均日增重、平均日采食量、料重比、血浆核黄素含量、肝脏核黄素含量为衡量指标，采用折线模型估测 $_ { 1 \sim 2 1 }$ 日龄北京鸭核黄素需要量为 $3 . 1 9 \sim 5 . 2 0 \mathrm { m g / k g } .$ 。然而生长后期（22\~42 日龄）北京鸭核黄素的需要量目前还没有文献报道，有待进一步研究。因此，本试验拟研究饲粮核黄素水平对$1 5 { \sim } 4 2$ 日龄雄性北京鸭生长性能和血浆生化指标的影响，以确定其核黄素的需要量，旨在为肉鸭生产实践和饲养标准的制定提供一定的理论依据。
+
+# 1材料与方法
+
+# 1.1 基础饲粮
+
+基础饲粮参考NRC（1994）肉鸭饲养标准配制，其组成及营养水平见表1。采用高效液相色谱法测得试验鸭基础饲粮中核黄素含量为 $1 . 3 8 ~ \mathrm { m g / k g }$
+
+表1基础饲粮组成及营养水平(风干基础)   
+Table 1 Composition and nutrient levels of basal diets（air-dry basis） %   
+
+<html><body><table><tr><td>项目Items</td><td>1~14日龄</td><td>15~42日龄</td></tr><tr><td></td><td>1 to 14 days of age</td><td>15 to 42 days of age</td></tr><tr><td>原料Ingredients 玉米Corn</td><td>62.95</td><td></td></tr><tr><td>豆粕 Soybean</td><td></td><td>70.69</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>33.30</td><td>15.00</td></tr><tr><td>石粉 Limestone</td><td></td><td>10.00</td></tr><tr><td></td><td>0.80</td><td>1.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.50</td><td>1.60</td></tr><tr><td>预混料 Premixl) 食盐 NaCl</td><td>1.00</td><td>1.00</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.30</td><td>0.30</td></tr><tr><td></td><td>0.15</td><td>0.08</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCI</td><td></td><td>0.27</td></tr><tr><td>L-色氨酸L-Trp</td><td></td><td>0.06</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.22</td><td>12.64</td></tr><tr><td>粗蛋白质 CP</td><td>20.02</td><td>17.59</td></tr><tr><td>钙Ca</td><td>0.93</td><td>0.99</td></tr><tr><td>非植酸磷 NPP</td><td>0.36</td><td>0.42</td></tr><tr><td>赖氨酸Lys</td><td>1.11</td><td>0.91</td></tr><tr><td>蛋氨酸 Met</td><td>0.45</td><td>0.40</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.79</td><td>0.71</td></tr></table></body></html>
+
+<html><body><table><tr><td>苏氨酸Thr 0.83</td></tr><tr><td>0.64 色氨酸Trp 0.22 0.20</td></tr><tr><td>精氨酸Arg 1.38 0.89</td></tr><tr><td></td></tr><tr><td>核黄素Riboflavin/（mg/kg） 1.69 1.38</td></tr></table></body></html>
+
+1预混料为每千克饲料提供 The premix provided the following per $\mathrm { k g }$ of diets: 1\~14 日龄 1 to 14 days of age,Cu $\mathrm { ( C u S O _ { 4 } { \cdot } 5 H _ { 2 } O }$ ， $1 0 ~ \mathrm { m g }$ ，Fe( $\mathrm { F e S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ 0 $6 0 ~ \mathrm { m g }$ ， $Z \mathrm { n }$ $\mathrm { { \it Z n O } }$ ） $6 0 ~ \mathrm { m g }$ ，Mn $\mathrm { ( M n S O _ { 4 } { \cdot } H _ { 2 } O }$ ） $8 0 ~ \mathrm { m g }$ ，Se $\left( \mathrm { N a S e O } _ { 3 } \right)$ 0.3mg， I(KI) $0 . 2 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 0 0 0 \mathrm { m g }$ ，VA $1 0 0 0 0 \mathrm { I U }$ ， $\mathrm { V D } _ { 3 }$ 3 000 IU, VE 20 IU, $\mathrm { V K } _ { 3 } 2 \mathrm { m g }$ 硫胺素 thiamin $2 \ : \mathrm { m g }$ ，核黄素riboflavin $4 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 \log$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $2 0 \mathrm { m g }$ 烟酸 nicotinc acid $5 0 ~ \mathrm { m g }$ ，叶酸folic acid $1 \mathrm { m g }$ ，生物素biotin $0 . 2 \mathrm { m g }$ ；14\~42 日龄 14 to 42 days of age，Cu$\mathrm { ( C u S O _ { 4 } { \cdot } 5 H _ { 2 } O }$ ） $1 0 ~ \mathrm { m g }$ ，Fe $\mathrm { ( F e S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ ） $6 0 ~ \mathrm { m g }$ ，Zn (ZnO) $6 0 ~ \mathrm { m g }$ ，Mn $\mathrm { M n S O } _ { 4 } { \cdot } \mathrm { H } _ { 2 } \mathrm { O } \rangle$ $8 0 ~ \mathrm { m g }$ ，Se $\mathrm { ( N a S e O } _ { 3 } \mathrm { ) }$ 0.3mg，I(KI) $0 . 2 ~ \mathrm { m g }$ ，氯化胆碱choline chloride $7 5 0 ~ \mathrm { m g }$ ，VA 8 000 IU, $\mathrm { V D } _ { 3 } 3 0 0 0 \mathrm { I U }$ ，VE 20 IU, $\mathrm { V K } _ { 3 } 2 \mathrm { m g }$ ，硫胺素 thiamin $1 . 5 \mathrm { m g }$ $\mathrm { V B } _ { 6 }$ 3 mg, $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g } , D$ 泛酸 $D$ -pantothenic acid $2 0 ~ \mathrm { m g }$ ，烟酸 nicotinc acid $5 0 \mathrm { m g }$ 叶酸 folic acid $1 \mathrm { m g }$ ，生物素biotin $0 . 2 ~ \mathrm { m g }$ 。
+
+2核黄素为实测值,其他营养水平均为计算值。Riboflavin was a measured value,while other nutrient levels were calculatedvalues.
+
+# 1.2试验设计及饲养管理
+
+试验采用单因子完全随机试验设计，选取300只1日龄健康的雄性北京鸭，采用基础饲粮饲养至14日龄。于15日龄时选取其中的288只试验鸭，按照体重一致的原则随机分为6个组，每组6个重复，每个重复8只鸭。对照组饲喂基础饲粮（核黄素含量为 $1 . 3 8 \mathrm { m g / k g } )$ ，试验组分别饲喂在基础饲粮中添加1.00、2.00、3.00、4.00 和 $5 . 0 0 \mathrm { m g / k g }$ 核黄素的试验饲粮（核黄素含量分别为2.38、3.38、4.38、5.38、 $6 . 3 8 ~ \mathrm { { m g / k g } } \cdot$ )。试验期为 $2 8 { \mathrm { ~ d } } .$
+
+采用网上平养，自由采食和饮水，试验期间鸭舍温度由 $3 3 \mathrm { ~ \textdegree ~ }$ 按阶段逐步降为 $2 2 \ \mathrm { { ^ \circ C } }$ ，采用人工补光制度， $2 4 \mathrm { h }$ 光照，其他按常规饲养管理进行。
+
+# 1.3 测定指标
+
+# 1.3.1 生长性能
+
+试验鸭在42日龄时，进行个体空腹称重，以重复为单位记录耗料量，然后计算平均日
+
+增重、平均日采食量和料重比。
+
+# 1.3.2 血浆生化指标
+
+试验鸭在42日龄时，以重复为单位抽取接近平均体重的试验鸭2只，活体进行心脏采血 $1 0 ~ \mathrm { m L }$ ，放置于经抗凝处理的采血管中， $4 \%$ $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 制备血浆， $- 2 0 \mathrm { { ^ { \circ } C } }$ 冷冻保存备用。血浆中的核黄素含量采用高效液相色谱法测定。采用日立721型全自动生化仪测定血浆中谷丙转氨酶（ALT）、谷草转氨酶（AST）活性和甘油三酯、总胆固醇含量。
+
+# 1.4 数据分析
+
+全部试验数据用“平均值±标准差”的形式表示，采用SAS9.0统计软件进行方差分析和回归分析，运用Duncan氏法进行多重比较，显著水平为 $P { < } 0 . 0 5$ 。采用折线模型拟合北京鸭对核黄素梯度水平的反应。折线模型：
+
+$$
+\begin{array} { l l } { { y = l + u ~ \left( \begin{array} { l } { r - x } \end{array} \right) } } & { { \quad x < r ; } } \\ { { \quad y = l } } & { { \quad x \geqslant r , } } \end{array}
+$$
+
+式中： $y$ 为平均日增重、平均日采食量、料重比或血浆中核黄素含量； $x$ 为各组饲粮中对应的核黄素水平 $( \mathrm { m g / k g } )$ ； $\boldsymbol { r }$ 为核黄素需要量；l为北京鸭对饲粮的反应（当 $\scriptstyle x = r$ 时，即拐点时）； $u$ 为曲线的陡度。
+
+# 2结果
+
+# 2.1饲粮核黄素水平对 $\mathbf { 1 5 } { \sim } 4 2$ 日龄北京鸭生长性能的影响
+
+由表2可以看出，饲粮核黄素水平对 $1 5 { \sim } 4 2$ 日龄北京鸭体重、平均日增重、平均日采食量和料重比均有显著的影响 $( P { < } 0 . 0 5 )$ 。与对照组相比，饲粮中添加核黄素显著提高了 $1 5 \sim$ 42 日龄北京鸭的平均日增重和平均日采食量（ $_ { . P < 0 . 0 5 ) }$ 。
+
+表2核黄素对15\~42日龄北京鸭生长性能的影响  
+Table 2Efects of dietary riboflavin level on growth performance of Pekin ducks from 15 to 42 days of ag/   
+
+<html><body><table><tr><td>饲粮核黄素水平 Dietary riboflavin level/(mg/kg)</td><td>体重 BW/g</td><td>平均日增重 ADG/g</td><td>平均日采食量 ADFI/g</td><td>料重比 F/G</td></tr><tr><td>1.38</td><td>2 024.40±208.17b</td><td>59.71±8.01b</td><td>150.86±16.43b</td><td>2.53±0.08a</td></tr><tr><td>2.38</td><td>2 709.93±78.52a</td><td>86.08±3.09a</td><td>202.35±5.71a</td><td>2.35±0.13b</td></tr></table></body></html>
+
+<html><body><table><tr><td>3.38</td><td>2 656.77±43.21a</td><td>84.06±1.73a</td><td>201.92±9.61a</td><td>2.40±0.13ab</td></tr><tr><td>4.38</td><td>2 679.28±141.86a</td><td>84.91±5.41a</td><td>205.82±19.87a</td><td>2.42±0.13ab</td></tr><tr><td>5.38</td><td>2 688.97±89.32a</td><td>85.18±3.42a</td><td>199.72±10.28a</td><td>2.35±0.10b</td></tr><tr><td>6.38</td><td>2 639.37±52.36a</td><td>83.32±2.01a</td><td>196.13±3.99a</td><td>2.35±0.06b</td></tr><tr><td>P值 P-value</td><td><0.000 1</td><td><0.000 1</td><td><0.000 1</td><td>0.048 0</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。下表同。In the same column, values with different smalletter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,whilewiththe same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+# 2.2饲粮核黄素水平对 ${ \mathbf { 1 5 } } \sim { \mathbf { 4 } } 2$ 日龄北京鸭血浆生化指标的影响
+
+由表3可以看出，饲粮核黄素水平对北京鸭血浆AST 活性和总胆固醇含量没有显著的影响（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ )，但对血浆 ALT 活性和核黄素、甘油三酯含量有显著的影响（ $\cdot P { < } 0 . 0 5 \$ 。与对照组相比，饲粮中添加核黄素显著提高了北京鸭血浆核黄素含量（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，随着饲粮核黄素水平的提高，血浆核黄素含量逐渐提高，当饲粮核黄素水平提高至 $4 . 3 8 ~ \mathrm { m g / k g }$ 时，血浆核黄素含量趋于稳定。与对照组相比，饲粮中添加核黄素显著降低了北京鸭血浆 ALT 活性和甘油三酯含量（ $P { < } 0 . 0 5 )$ ）
+
+表3饲粮核黄素水平对42日龄北京鸭血浆生化指标的影响  
+Table 3Effects of dietary riboflavin levels on plasma biochemical indices of 42-day-old Pekin ducks   
+
+<html><body><table><tr><td rowspan="2">饲粮核黄素 水平 Dietary</td><td rowspan="2">Riboflavin/(nmol/L</td><td rowspan="2">ALT/(U/L)</td><td>酶 Triglyceride/(mmol/L</td><td></td><td rowspan="2">Total</td></tr><tr><td>AST/(U/L) ）</td></tr><tr><td></td><td>15.28±3.56</td><td>13.15±2.79</td><td>18.10±4.6</td><td>1.06±0.33a</td><td>5.23±0.46</td></tr><tr><td>2.38</td><td>78.33±19.37b</td><td>7.20±2.94b</td><td>16.00±4.7 4</td><td>0.84±0.16b</td><td>5.18±0.34</td></tr><tr><td>3.38</td><td>87.47±15.56ab</td><td>7.27±2.15b</td><td>13.89±4.3 1</td><td>0.76±0.12b</td><td>5.47±0.71</td></tr><tr><td>4.38</td><td>97.16±17.06a</td><td>8.18±2.09b</td><td>15.00±4.9 0</td><td>0.77±0.13b</td><td>5.20±0.70</td></tr><tr><td>5.38</td><td>100.01±12.95a</td><td>7.75±3.61b</td><td>12.00±3.2 4</td><td>0.76±0.10b</td><td>5.54±0.64</td></tr></table></body></html>
+
+<html><body><table><tr><td>P值 P-value</td><td><0.000 1</td><td><0.000 1</td><td>0.155 9</td><td>0.005 0</td><td>0.671 2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2.3 ${ \mathbf { 1 5 } } \sim { \mathbf { 4 } } 2$ 日龄北京鸭核黄素需要量的估测
+
+采用折线模型估测 $1 5 { \sim } 4 2$ 日龄雄性北京鸭核黄素的需要量见表4，分别以平均日增重、平均日采食量、料重比和血浆核黄素含量为评价指标， $1 5 { \sim } 4 2$ 日龄雄性北京鸭核黄素的需要量分别为2.33、2.36、2.24 和 $2 . 6 6 \mathrm { m g / k g }$ 。
+
+表4利用折线模型估测 $1 5 { \sim } 4 2$ 日龄北京鸭核黄素需要量  
+Table 4Evaluation of riboflavin requirement ofPekin ducks from15 to 42 days ofage by brokenline models   
+
+<html><body><table><tr><td>项目Items</td><td>拟合方程 Regression</td><td>需要量 Requirement/(mg/kg)</td><td>P值 P-value</td><td>相关系数 R²</td></tr><tr><td>平均日增重 ADG</td><td>y=84.71-26.36×(2.32-x)</td><td>2.33</td><td><0.000 1</td><td>0.99</td></tr><tr><td>平均日采食量 ADFI</td><td>y=201.2-51.25×(2.36-x)</td><td>2.36</td><td>0.000 2</td><td>0.98</td></tr><tr><td>料重比F/G</td><td>y=2.37+0.18×(2.24-x)</td><td>2.24</td><td>0.013 3</td><td>0.82</td></tr><tr><td>血浆核黄素含量 Plasma riboflavin content</td><td>y=96.19-63.05×(2.66-x)</td><td>2.66</td><td>0.002 8</td><td>0.98</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1饲粮核黄素水平对北京鸭生长性能的影响
+
+核黄素是合成FMN和FAD 的重要前体物质。作为很多黄素蛋白的辅酶，FMN 和FAD参与生物体内多个代谢过程，如脂肪酸氧化、三羧酸循环、线粒体呼吸链电子传递和氨基酸降解等[1-2]。国内外多数研究表明，饲粮中缺乏核黄素，家禽生长受阻、饲料利用率降低，饲粮添加核黄素可显著提高家禽生长性能[-]。本试验中，核黄素缺乏（ $1 . 3 8 \mathrm { \ m g / k g }$ ）显著抑制了生长后期北京鸭生长性能，显著了降低平均日增重和平均日采食量，增加了料重比。而饲粮中添加核黄素能显著提高平均日增重和平均日采食量，并降低料重比，这与前人在生长前期北京鸭上的试验结果是一致的。在生长前期北京鸭试验中，唐静等报道饲喂基础饲粮（核黄素含量为 $1 . 2 0 ~ \mathrm { m g / k g }$ ）的试验鸭表现为死亡率高、脖子紧缩、部分瘫痪在地、羽毛粗乱、腹泻，而本试验中并没有观察到这些现象，这可能是由于生长后期北京鸭核黄素需要量低于生长前期。
+
+# 3.2饲粮核黄素水平对北京鸭血浆生化指标的影响
+
+血浆核黄素含量是反映机体核黄素营养状况的敏感指标[5,12-15]。徐琪寿等[12]的研究表明，饲喂核黄素缺乏的饲粮4周后，大鼠血浆核黄素含量仅为对照组的 $8 . 1 \%$ 。饲喂核黄素缺乏的饲粮3周后，21日龄北京鸭核黄素含量仅为对照组的 $1 5 \% ^ { [ 1 6 ] }$ 。本试验中，15 日龄北京鸭饲喂核黄素缺乏的饲粮4 周后，42 日龄北京鸭血浆核黄素含量降为对照组的 $1 5 . 3 \%$ 说明血浆核黄素含量能够敏感地反映北京鸭核黄素的营养状况，这与前人的研究结果[12,16]一致。饲粮中核黄素水平达到 $4 . 3 8 ~ \mathrm { m g / k g }$ 时，血浆中核黄素含量达到稳定水平，不再随饲粮核黄素水平升高而升高，这与前人的研究结果[5,10]一致。
+
+国内外很多研究证实了核黄素具有抗氧化功能[10-1,17-18]。核黄素缺乏时细胞膜功能和流动性改变，抗氧化能力降低[18]。血浆中 ALT和 AST 活性是反映肝功能的敏感指标，其活性与肝脏受损程度呈正相关[19]。本试验表明，饲粮中不添加核黄素导致生长后期北京鸭血浆ALT 活性显著提高，表明细胞膜受到损伤，可能是由于饲粮中核黄素不足导致机体细胞膜发生脂质过氧化，进而导致细胞膜通透性增强。
+
+大鼠上的研究显示，饲粮核黄素缺乏可导致脂肪肝[20]。本试验中，饲粮核黄素缺乏导致生长后期北京鸭血浆甘油三酯含量显著提高，原因可能与脂酰辅酶A脱氢酶（依赖 FAD）活性降低进而阻碍脂肪酸 $\beta$ 氧化有关[21]。
+
+# 3.3 ${ \mathbf { 1 5 } } \sim { \mathbf { 4 } } 2$ 日龄北京鸭核黄素需要量的确定
+
+NRC(1994)肉鸭饲养标准中， $1 { \sim } 3$ 周龄肉鸭核黄素的推荐量为 $4 ~ \mathrm { m g / k g }$ ，但该推荐量仅参考了20 世纪早期的 2篇文献[3-4]，而生长后期肉鸭核黄素的需要量还没有文献报道。因此，本试验旨在探究生长后期北京鸭核黄素的需要量，为肉鸭核黄素饲养标准的制定提供参考。目前折线模型已普遍用于估测动物核黄素的需要量[5,2-24]。唐静等[5]研究了生长前期北京鸭核黄素的需要量，以平均日增重、平均日采食量、料重比、血浆核黄素含量及肝脏核黄素含量为评价指标，采用折线模型估测生长前期雄性北京鸭核黄素需要量分别为3.31、3.24、5.20、3.82和 $3 . 9 1 ~ \mathrm { m g / k g }$ 。故本试验也采用折线模型估测了生长后期雄性北京鸭核黄素需要量，分别以平均日增重、平均日采食量、料重比和血浆核黄素含量为评价指标，估测核黄素的需要量分别为2.33、2.36、2.24 和 $2 . 6 6 \mathrm { m g / k g }$ 。由此可见，生长后期北京鸭核黄素需要量低于生长前期。这与Heuser 等[25]的研究结果是一致的，该研究发现2\~8 周龄白来航鸡核黄素需要量随着日龄的增加逐渐降低。本试验用折线模型估测的需要量低于NRC（1994）对 2\~7周龄北京鸭核黄素的推荐量（ $4 \ : \mathrm { m g / k g } \mathrm { ) }$ 。
+
+# 4结论
+
+本试验条件下，饲粮中添加核黄素可显著提高 $1 5 { \sim } 4 2$ 日龄北京鸭生长性能和血浆核黄素含量。以平均日增重、平均日采食量、料重比和血浆核黄素含量为评价指标，采用折线模型估测 $1 5 { \sim } 4 2$ 日龄雄性北京鸭核黄素需要量为 $2 . 2 4 { \sim } 2 . 6 6 ~ \mathrm { m g / k g } .$ （20
+
+# 参考文献：
+
+[1]POWERS H J.Riboflavin (vitamin $\mathbf { B } _ { 2 }$ ） and health[J].The American Journal of ClinicalNutrition,2003,77(6):1352-1360.
+
+[2] LIENHART W D,GUDIPATI V,MACHEROUX P.The human flavoproteome[J].Archives of Biochemistry and Biophysics,2013,535(2):150-162.
+
+[3]FRITZ J C,ARCHER W,BAKER D.Riboflavin requirements of ducklings[J].Poultry Science,1939,18(6):449-454.
+
+[4] HEGSTED D M.The determination of minimum vitamin requirement for growth[J].Journal of Nutrition,1948,35(4):399-409.
+
+[5]唐静,谢明,侯水生,等 $. 1 \sim 2 1$ 日龄不同性别北京鸭核黄素需要量的估测[J].动物营养学报,2012,24(4):661-668.
+
+[6] BRITTON N L,RITER K E N L,SMALLIDGE R L,et al.Reversed-phase liquid chromatographic determination of riboflavin in feeds[J].Journal of AOAC International,2003,86(2):197-201.
+
+[7] 韦京豫,郭长江,徐静,等.测定外周血核黄素及其衍生物含量的HPLC方法研究[J].营养学报,2006,28(1):79-82.
+
+[8] DEYHIM F,BELAY T,TEETER R G.An evaluation of dietary riboflavin supplementation on growth rate,feed effciency,ration metabolizable energy content,and glutathione reductase activity of broilers[J].Nutrition Research,1992,12(9):1123-1130.
+
+[9] 张建海,原广华,庞全海,等.不同核黄素水平对肉仔鸡外周血细胞、免疫器官及生产性能的影响[J].山东家禽,2003(2):9-11.
+
+[10]蒋守群,林映才,周桂莲,等.饲粮维生素E水平对 $_ { 1 \sim 2 1 }$ 日龄黄羽肉鸡生长性能、免疫功能和抗氧化状况的影响[C]//第十四届全国家禽科学学术讨论会论文集.哈尔滨:中国畜牧兽医学会,2009.
+
+[11]王艳辉,王安,谢富.维生素 ${ \bf B } _ { 2 }$ 对笼养蛋雏鸭生长性能、内分泌及抗氧化能力的影响[J].动物营养学报,2009,21(1):31-35.
+
+[12] 徐琪寿,韦京豫,杨继军,等.核黄素缺乏大鼠血浆与红细胞核黄素及衍生物浓度的变化[J].  
+营养学报,2005,27(5):386-389.
+
+[13] JACQUES P F,BOSTOM A G,WILSON P W,et al.Determinants of plasma total homocysteine concentration in the framingham ofspring cohort[J].The American Journal of Clinical Nutrition,2001,73(3):613-621.
+
+[14] HUSTAD S,MCKINLEY M C,MCNULTY H,et al.Riboflavin,flavin mononucleotide,and flavin adenine dinucleotide in human plasma and erythrocytes at baseline and after low-dose riboflavin supplementation[J].Clinical Chemistry,2002,48(9):1571-1577.
+
+[15] MOAT S J,ASHFIELD-WATT P A,POWERS H J,et al.Effect of riboflavin status on the homocysteine-lowering effect of folate in relation to the MTHFR (C677T） genotype[J].Clinical chemistry,2003,49(2):295-302.
+
+[16] 唐静,谢明,闻治国,等.核黄素对北京鸭生长性能和抗氧化机能的影响[J].动物营养学报,2013,25(12):2883-2887.
+
+[17] CHRISTENSEN H N.Riboflavin can protect tissues from oxidative injury[J].Nutrition Reviews,1993,51(5):149-150.
+
+[18] LEVIN G,COGAN U,LEVY Y,et al.Riboflavin deficiency and the function and fluidity of rat erythrocyte membranes[J].Journal of Nutrition,1990,120(8):857-861.
+
+[19]麻晓林,陈伟,金榕兵.肝损伤后检测肝功能指标的实验研究[J].创伤外科杂志,2003,5(1):20-22.
+
+[20] TANIGUCHI M,YAMAMOTO T,NAKAMURA M.Effects of riboflavin deficiency on the lipidsof rat liver mitochondria and microsomes[J].Journal of Nutritional Scienceand Vitaminology,1978,24(4):363-381.
+
+[21] GIANAZZA E,VERGANI L,WAIT R,et al.Coordinated and reversible reduction of enzymes involved in terminal oxidative metabolism in skeletal muscle mitochondria froma riboflavin-responsive,multiple acyl-CoA dehydrogenase deficiency patient[J].Electrophoresis,2006,27(5/6):1182-1198.
+
+[22] DENG D F,WILSON R P.Dietary riboflavin requirement of juvenile sunshine bass (Morone chrysops $ { \mathcal { G } } \times$ Morone saxatilis $8$ D[J].Aquaculture,2003,218(1/2/3/4):695-701.
+
+[23] RUIZ N,HARMS R H.Riboflavin requirement of broiler chicks fed a corn-soybeandiet[J].Poultry Science,1988,67(5):794-799.
+
+[24] CHUNG T K,BAKER D H.Riboflavin requirement of chicks fed purified amino acid and conventional corn-soybean meal diets[J].Poultry Science,1990,69(8):1357-1363.
+
+[25] HEUSER G F,WILGUS H S,NORRIS L C.The quantitative vitamin-G requirement of chicks[J].Poultry Science,1938,17(2):105-108.
+
+Effects of Dietary Riboflavin Level on Growth Performance and Plasma Biochemical Indices of Pekin Ducks from 15 to 42 Days of Age
+
+TANG Jing HU Jian JIANG Yong XIE Ming HOU Shuisheng (InstituteofAnimalSciences,ChineseAcademy ofAgricultural Sciences,Beijing10o193,China)
+
+Abstract: This experiment was conducted to investigate the efects of dietary riboflavin level on growth performance and plasma biochemical indices of Pekin ducks from 15 to 42 days of age. Using a one-factor completely randomize design, a total of 288 fifteen-day-old male ducks were randomly allotted to 6 groups with 6 replicates per group and 8 ducks per replicate. Ducks in the control group were fed a basal diet (riboflavin content was $1 . 3 8 ~ \mathrm { \ m g / k g } )$ ，and others in the experimental groups were fed the basal diets supplemented with 1.00,2.00,3.00,4.00 and 5.00 $\mathrm { m g / k g }$ riboflavin，respectively. The experiment lasted for 28 days.The results showed that compared with the control group,dietary riboflavin supplementation significantly increased the average daily weight gain and average daily feed intake $( P { < } 0 . 0 5 )$ ,significantly increased plasma riboflavin content $( P { < } 0 . 0 5 )$ ，significantly decreased plasma glutamic-pyruvic transaminase activity and triglyceride content $( P { < } 0 . 0 5 )$ . In conclusion, dietary riboflavin supplementation can improve growth performance and plasma riboflavin content of male Pekin ducks from 15 to 42 days of age.According to the broken-line model, the riboflavin requirements of Pekin ducks from 15 to 42 days of age for average daily weight gain, average daily feed intake, feed to gain ratio, and plasma riboflavin content are 2.24 to $2 . 6 6 \mathrm { m g / k g }$
+
+Key words: Pekin ducks; riboflavin; vitamin ${ \bf B } _ { 2 }$ ；growth performance； plasma biochemicalindices

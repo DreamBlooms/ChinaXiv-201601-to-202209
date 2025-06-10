@@ -1,0 +1,553 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160780 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晓荣，高会，韩立朴，刘金铜．太行山区植被 NPP时空变化特征及其驱动力分析[J].中国生态农业学报，2017，25(4):498-508  \nLi XR,Gao H,HanLP,LiuJT.Spatio-temporal variations invegetationNPPandthe driving factors in Taihang MountainArea[J]. Chinese Journal of Eco-Agriculture,2017,25(4): 498-508",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太行山区植被NPP时空变化特征及其驱动力分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晓荣,²，高会1,²，韩立朴¹，刘金铜(1．中国科学院遗传与发育生物学研究所农业资源研究中心石家庄050022;2.中国科学院大学北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文基于2000—2014年MODIS NPP数据，结合同期土地利用变化、气温、降水和DEM数据，运用趋势分析法、相关系数法及分区统计法等方法，研究了太行山区2000—2014年植被 NPP时空变化特征，分析了气温、降水等气候因素和人为因素对植被NPP变化的影响，为太行山区植被资源管理及生态环境调控提供参考。研究结果表明：(1)太行山区植被 NPP多年平均值为 $2 8 4 . 0 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，耕地、林地和草地的 NPP 均值分别为 $3 0 2 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $2 5 8 . 1 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $2 8 6 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。(2)2000—2014 年太行山区植被 NPP整体呈上升趋势，但大部分植被NPP变化未达到显著水平； $1 6 . 1 7 \\%$ 的植被NPP显著或极显著升高，主要分布在太行山区西侧； $0 . 8 8 \\%$ 的植被 NPP 显著或极显著降低，零散分布在研究区内。(3)不同植被类型NPP 变化速率为草地 $. >$ 耕地 $_ { \\cdot > }$ 林地。(4)基于区域平均计算，太行山区植被NPP与降水显著正相关 $( P { < } 0 . 0 5 )$ ，与气温负相关 $( P { > } 0 . 0 5 )$ 。基于像元计算，植被NPP与降水显著或极显著正相关区面积比例为 $23 . 8 2 \\%$ ，主要分布在太行山区北段，几乎没有显著负相关区；植被NPP与气温显著或极显著负相关区面积比例为 $8 . 4 2 \\%$ ，主要分布在太行山区西侧，显著或极显著正相关区面积比例为 $0 . 8 1 \\%$ ，主要分布在太行山区最北端。 (5)研究期内气候因子对植被NPP 的升高整体上表现为促进作用，而人为因素主要表现为抑制作用。太行山区生态环境保护仍应以减少人为干扰为主。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：太行山区；净初级生产力(NPP)；土地利用类型；植被变化;MODIS；驱动力中图分类号：Q149 文献标识码：A 文章编号:1671-3990(2017)04-0498-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal variations in vegetation NPP and the driving factors in Taihang Mountain Area ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Xiaorong12,GAO Hui',2, HAN Lipu’,LIU Jintong1\\* (1.Center forAgriculturalResources Research,InstituteofGeneticsandDevelopmental Biology,ChineseAcademyofSciences, Shijiazhuang 050022,China; 2. University of Chinese Academy of Sciences, Beijing 100049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Netprimaryproductivity(NPP)isanimportant indicatorfortheconditionofvegetationinagivenregionResearchon NPPis notonly importantforthe managementof vegetationresources,but alsoakey elementof global change.Technological development (suchas remote sensing,geographic information system and global positioningsystem)had createdtheconditins for theestablishmentofcomplex processbasedNPPmodels.Onthisbasis,globalNPPproducts todaythatcontinuouslyreleasedatafor long periodsof ime (e.g.,MODISNPPdataappeared)greatlynhanceresearchonNPPofregional vegetation.Theobjectiveof this studywas toanalyze thespatio-temporal variations inNPPofvegetationinTaihang MountainArea fortheperiod2Oo-2014using MODIS NPPdata.Atthesame time,thestudy investigated theeffects ofclimaticfactors (e.g.,temperature and precipitationandof human factors (.g.,farming)onthechangeinNPofvegetation intheregion.Alsotredanalysis,corelationcoeffcientand Zonal statistics wereused inthestudy toanalyzethe various dataset (e.g.,LUCC,temperature,precipitationandDEM).Results showed that the average NPP values of the study area was $2 8 4 . 0 ~ \\mathrm { g ( C ) { \\cdot } m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ ,while those of farmland, forest and grassand were $3 0 2 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $2 5 8 . 1 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ and $2 8 6 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ,respectively. Geographical location, topography, development history and human managementinfluencedthedistributionoftheNPPofvegetation inthestudyarea.Poorgeographicalenvironment was themainreasonforthesmallNPPofforestvegetationintheregion.TheNPPofvegetationgenerallyshowedanupwardtrend,but was not significant for most of study area. About $1 6 . 1 7 \\%$ area had significantly or extremely significantly increased vegetation NPP, which was mainly in the west of study area. In another $0 . 8 8 \\%$ area,NPP significantly or extremely significantly dropped. The order of the NPP change rate of different vegetation types was — grassland $>$ farmland $>$ forest. Grassland vegetation was more effective forenvironmentalrehabilitationbecauseitadabeteradaptabilttothelocalconditions.Basedoncalculatedregionalaverages,the vegetation NPP was significantly positively correlated with precipitation $( P < 0 . 0 5 )$ ),but negatively correlated with temperature $( P >$ 0.05). About $23 . 8 2 \\%$ of the study area had a significantly or extremely significantly positive correlation between NPP of vegetation and precipitation,which mainlydistributed inthe northernsectionofTihangMountain.Nosignificantlynegativecorelationwas observed. Furthermore,about $8 . 4 2 \\%$ of the study area had a significantly or extremely significantly negative correlation between vegetation NPP and temperature,and this was mainly in the west side of Taihang Mountain. In another $0 . 8 1 \\%$ area, the vegetation NPP was significantlyorextremelysignificantly positivelycorelated with temperature,whichwasmainlydistributed intheextreme northofthe studyarea.AsotherateofNPPchangeandthecorelationcoefficientbetweenNPandclimatic factors waspositively correlated withalitudeandslope gradients—bothrelativelysmaleratlowaltitudeandsmallsope,wherehumanactivityintesity was relatively higher.Thearea with significantlyorextremelysignificantlyreduced vegetation NPPwasacross thestudyarea, especiallyaroundconstructionlands,which was notasaresultofclimaticfactors.It wastherefore suggested that whileclimatic factors generallyenhancedvegetationNPP,humanfactorsmainlyinibitedvegetationNPPinthestudyareaduringthestudyperiod. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Taihang Mountain; NPP; Land use type; Vegetation change; MODIS; Driving factor ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被净初级生产力(net primary productivity,NPP)是指植被在单位时间、单位面积上由光合作用产生的有机物质总量扣除自养呼吸后的部分[1]，是反映植被生长变化的重要指标。植被NPP作为生态系统物质循环和能量流动的关键环节，是生物圈的功能基础[2]。当前，气候和环境问题日益突出，及时准确了解区域或全球植被NPP，并分析其时空变化特征,理解其与各种影响因素之间的关系对于全球变化及可持续发展研究有重要意义，同时也能为区域合理开发利用自然资源提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从20世纪80年代中后期开始，学者们针对NPP经验统计模型的不足，在考虑植物生理生态特征的基础上，提出了植被 NPP过程模型；遥感(RS)、地理信息系统(GIS)和全球定位系统(GPS)技术的发展则为NPP过程模型的广泛应用提供了重要的技术平台[3]。20 世纪末期以来，NOAA/AVHRR、EOS/MODIS等遥感数据的引入，有力推动了我国植被NPP遥感模型的研究和相关数据产品的应用。孙睿等[4]、朴世龙等[5]、陈利军等[6]、朱文泉等[7]先后对我国植被NPP时空变化特征进行了研究；并且随着相关遥感数据的积累，长时间序列遥感产品在区域植被变化研究中发挥的作用越来越大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太行山区是京津冀地区的重要生态屏障，又是生态敏感区，生态环境极易受到各种因素的干扰;历朝历代的开发对太行山天然植被造成了严重破坏，使该区域水土流失严重，旱涝灾害频繁，影响了当地社会的可持续发展[8]。解放后，对太行山区多半个世纪的生态恢复绿化了荒山秃岭，产生了显著的综合效益[9]。当前气候变化和市场经济背景下，中国陆地植被波动增大，影响了区域生态系统服务功能的正常发挥。目前，有很多植被变化方面的研究涉及太行山地区，但相关研究中以NPP为中心的还很少，且这些研究都只涉及了太行山区的部分区域。如刘征等[10]对河北省山区植被NPP空间格局进行研究，发现NPP在河北省太行山区呈带状分布；张莎[11]对河北省植被NPP时空变化特征的研究中发现太行山迎风坡在生长季降水较多，形成NPP高值带；王新闯等[12]对河南省NPP的研究中发现太行山河南部分为相对NPP低值区。自前，将整个太行山区的植被作为研究对象的还鲜见报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太行山地处我国第二阶梯的东沿，是平原到山地高原的过渡带，同时，它又是东部经济发达地区到中西部经济欠发达地区的过渡带。在太行山整体尺度上研究植被NPP变化，可以增进人们对全球变化背景下生态敏感地区植被反馈特征的认识，这对于典型山区自然资源的合理开发利用、社会的可持续发展有重要的现实意义。本研究借助3S技术对太行山区植被变化进行研究，了解植被变化趋势，并对导致植被变化的驱动力进行分析，可以帮助管理者改进现有的植被资源管理策略，更有效地调控太行山区的生态环境。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于太行山区范围的说法有很多，本文参考范晓[13]的说法，将太行山区作为和西部吕梁山区、东部华北平原对等的地理单元；同时参考古代“太行八陉\"的说法[14]，确定太行山南北界。这样，太行山自然区域北起永定河，南止黄河，西自汾河谷地，东至华北平原，跨越北京、山西、河南、河北4省(市),115个县级行政区。本文研究范围 $\\mathrm { 1 1 0 ^ { \\circ } 1 4 ^ { \\prime } E { \\sim } 1 1 6 ^ { \\circ } 3 5 ^ { \\prime } E }$ $3 4 ^ { \\circ } 3 4 ^ { \\prime } \\mathrm { N } { \\sim } 4 0 ^ { \\circ } 4 7 \\mathrm { N } )$ 特指太行山过境的所有县级行政区，总面积约 $1 3 . 7 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，平均海拔 $8 6 1 ~ \\mathrm { ~ m ~ }$ ，地势西北高东南低。区内气候属温带大陆性季风气候，四季分明，年均温 $1 1 . 1 \\ \\mathrm { { ^ \\circ C } }$ ，年均降水 $5 1 1 . 7 \\ \\mathrm { m m }$ ，全年一半以上的降水集中在夏季。研究区内植被状况随海拔、经度、纬度的变化而呈现出显著差异，沟谷、盆地内平坦地区多为农田或建设用地，崎岖陡坡地段多为林地或草地(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DEM数据来源于中国科学院计算机网络信息中心地理空间数据云平台(http://www.gscloud.cn),为日本 METI和美国NASA 联合研制的ASTERGDEMV2数据，基于“先进星载热发射和反辐射计(ASTER)\"数据计算生成，空间分辨率 $3 0 ~ \\mathrm { m } _ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被NPP数据为美国蒙大拿大学发布的2000—2014 年的 MOD17A3 数据(https://ipdaac.usgs. gov),空间分辨率为 $1 \\mathrm { k m }$ ，时间分辨率为 $\\mathrm { ~ 1 ~ a _ { \\circ } ~ }$ 该产品基于MODIS/TERRA卫星遥感数据，通过参考BIOME-BGC模型计算得到植被NPP数据。BIOME-BGC模型通过模拟植被生理过程来估算NPP，估算精度相对较高[15],MODIS NPP 数据的相关检验已有很多[16-17]。用MRT (MODIS reprojection tools)软件对图像进行拼接、转投影、重采样等操作。用ArcGIS10.2软件进行有效值提取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土地利用数据基于 2010 年 TM 影像、 $3 0 ~ \\mathrm { ~ m ~ }$ DEM、Google高分影像，进行自视解译生成，数据来源于中国科学院山地灾害与环境研究所。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "气象数据为 2000—2014 年太行山区及周边北京、山西、河南、河北4省(市)58个气象站点逐年的降水、气温数据，数据来源于中国气象科学数据共享服务网(http://cdc.cma.gov.cn)。气象数据采用反距离加权插值法(inverse distance weighted,IDW)进行空间插值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所有图像数据均采用WGS84/AlbersEqualArea投影，由ArcGIS10.2软件进行进一步的处理分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 植被NPP变化趋势分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用一元线性回归分析法，基于像元分析太行山区2000—2014年植被NPP变化，线性回归的趋势斜率即为 NPP 变化速率[16,18]，公式为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\frac { \\sum _ { i = 1 } ^ { N } x _ { i } t _ { i } - \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } x _ { i } \\sum _ { i = 1 } ^ { N } t _ { i } } { \\sum _ { i = 1 } ^ { N } t _ { i } ^ { 2 } - \\frac { 1 } { N } ( \\sum _ { i = 1 } ^ { N } t _ { i } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $s$ 为NPP变化速率, $N { = } 1 5$ 为年数, $x _ { i }$ 为第 $i$ 年的NPP值, $t$ 为年份。基于ArcGIS的栅格计算功能，可得到植被NPP在2000—2014年间的变化趋势图。当$S { > } 0$ ，说明植被NPP呈增加趋势，反之为减少趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用 $F$ 检验法检验NPP变化趋势的显著性，该检验结果仅代表趋势变化可置信程度的高低，与变化速率大小无关[16,19]。检验公式为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = { \\frac { \\sum _ { i = 1 } ^ { N } ( { \\hat { x } } _ { i } - { \\overline { { x } } } ) ^ { 2 } / 1 } { \\sum _ { i = 1 } ^ { N } ( x _ { i } - { \\hat { x } } _ { i } ) ^ { 2 } / ( N - 2 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\hat { x } _ { i }$ 为第 $i$ 年 NPP的回归值， $\\overline { { x } }$ 为15年NPP平均值, $x _ { i }$ 为第 $i$ 年的NPP值, $N { = } 1 5$ 。查 $F$ 分布临界值表检验显著性，结合NPP变化趋势，可将NPP变化分为5个等级：极显著减少 $( S ^ { < } 0 , P { < } 0 . 0 1 \\$ 、显著减少$( S { < } 0 , 0 . 0 1 { < } P { < } 0 . 0 5 )$ 、变化不显著 $( P { > } 0 . 0 5 )$ 、显著增加$( S { > } 0 , 0 . 0 1 { < } P { < } 0 . 0 5 )$ 和极显著增加 $( S { > } 0 , P { < } 0 . 0 1 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2植被NPP变化与气候因素的相关分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用基于像元计算的偏相关系数分析NPP与降水或气温的相关性[16]。先计算简单相关系数，进而计算偏相关系数。简单相关系数计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { x y } = { \\frac { \\sum _ { i = 1 } ^ { N } ( x _ { i } - { \\overline { { x } } } ) ( y _ { i } - { \\overline { { y } } } ) } { { \\sqrt { \\sum _ { i = 1 } ^ { N } ( x _ { i } - { \\overline { { x } } } ) ^ { 2 } } } { \\sqrt { \\sum _ { i = 1 } ^ { N } ( y _ { i } - { \\overline { { y } } } ) ^ { 2 } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { x y }$ 为 $x , y$ 两变量的相关系数; $x _ { i }$ 和 $y _ { i }$ 分别表示第 $i$ 年NPP和气候因子值； $\\overline { { x } }$ 和 $\\overline { { y } }$ 分别表示多年平均 NPP和多年平均气候因子值; $N { = } 1 5$ ，为年数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "偏相关系数计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { 1 2 , 3 } = \\frac { r _ { 1 2 } - r _ { 1 3 } r _ { 2 3 } } { \\sqrt { ( 1 - r _ { 1 3 } ^ { 2 } ) + ( 1 - r _ { 2 3 } ^ { 2 } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { 1 2 , 3 }$ 是将变量3固定后变量1与变量2的偏相关系数, $r _ { 1 2 } 、 \\ r _ { 2 3 } 、$ $r _ { 1 3 }$ 分别表示变量1与变量2、变量",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d684db7d3942bf1cac458bb59b5de976e82fcbef34fba6daaf23d3ac8cd16466.jpg",
+        "img_caption": [
+            "图1太行山区土地利用图 Fig.1Land cover map of Taihang Mountain Area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2与变量3、变量1与变量3的简单相关系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用 $\\mathbf { \\chi } _ { t }$ 检验法对偏相关系数进行显著性检验[20],公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt = \\sqrt { N - 2 } \\frac { r } { \\sqrt { 1 - r ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { r }$ 为偏相关系数， $N { = } 1 5$ 为年数。查询 $t$ 分布表可判断偏相关系数的显著性，结合偏相关系数正负情况，可将其分为5个等级：极显著负相关 $( r { < } 0$ $\\scriptstyle P < 0 . 0 1 { \\\\mathrm { ~ , ~ } }$ ）、显著负相关 $( r < 0 , 0 . 0 1 < P < 0 . 0 5 )$ 、相关性不显著 $( P { > } 0 . 0 5 )$ 、显著正相关 $( r > 0 , 0 . 0 1 < P < 0 . 0 5$ 和极显著正相关 $( r { > } 0 , P { < } 0 . 0 1 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 区域统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将研究区分别按海拔梯度和坡度梯度分区，结合土地利用数据、多年平均NPP、NPP变化分析结果、NPP与降水或气温的相关分析结果，采用ArcGIS分区统计的方法，研究不同区域植被NPP变化特征，分析人为因素和气候因素对植被NPP变化的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 植被NPP的空间格局",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "太行山大体呈东北-西南走向，跨越6个纬度，山体东西两侧受季风影响差异较大，且太行山区局部地形复杂多变，因此区域内生态环境条件差异较大，植被NPP空间分布异质性较高。太行山区植被NPP多年平均值为 $2 8 4 . 0 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。其中，耕地、林地和草地的 NPP 均值分别为 $3 0 2 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } .$ 、$2 5 8 . 1 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $2 8 6 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。从整个区域来看(图2)，太行山区植被NPP空间分布呈现出北段低值、南段高值、中段大部分区域高低值交叉分布的特征。这一方面与研究区整体尺度上水热条件自北向南变好有关，另一方面也与不同地理区域的水分条件差异有关。受季风气候和地形影响，太行山区一般迎风坡和中高山区降水多、沟谷盆地降水少;且地形对太阳辐射的分配使得阳坡比阴坡的蒸散量高，植被干旱胁迫更严重，因此，当地人工造林多植于阴坡。耕地条件较高，植被长势一般可以比同生长型自然植被更好。部分中高山NPP红色低值区分布突出，对比土地利用图可发现，NPP低值区主要为林地。对比其他研究中林地NPP 值为 $5 0 0 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 [ 1 6 ] }$ 甚至更高的生产水平[21]，太行山区林地的生产力较差。结合太行山区林地NPP整体较低的特点，太行山区林地植被生长受到很大的环境胁迫。主要由于太行山区林地分布的平均海拔为 $1 \\ 1 2 7 \\ \\mathrm { m }$ ，平均坡度达 $2 1 . 4 ^ { \\circ }$ ，年均降水 $5 0 7 . 7 \\mathrm { m m }$ ，自然条件比农田和草地的差；另一方面，山地生态系统比平原区更脆弱,历史开发引起的水土流失使山体土层瘠薄，很多地方土层厚度小于 $1 5 ~ \\mathrm { c m } ^ { [ 2 2 ] }$ ，不少地方岩石大面积裸露，只适合生长杂草，这严重限制了植被的发育。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a356f7c4a313da023a67a7ff7a24b12e61fb59d30906ea1698aef91b2dc34ee.jpg",
+        "img_caption": [
+            "图22000—2014年太行山区植被年均 NPP空间分布Fig.2Spatial distribution of annual vegetation NPP inTaihang Mountain Area from 20oo to 2014"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 植被NPP年际变化分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2000—2014年，太行山区植被NPP整体呈波动上升的趋势，不同植被类型NPP年际波动与研究区NPP整体波动基本一致(图3)。这说明影响太行山区植被NPP整体变化的因素是一种能作用于大尺度区域的全局性因素。2001年，中国北方地区遭遇干旱,研究区NPP值较低；2003年，研究区降水丰沛，形成 NPP高值，并改善了来年植被长势。2000 年左右,“退耕还林工程”启动，封山禁牧等生态保护措施，以及农村人口向城市转移等进程，对植被改善产生了积极影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c03f4170324963df6b083bc281bae629ccd979ed6518db94b10826ddcf2f32ca.jpg",
+        "img_caption": [
+            "图32000—2014年太行山区全部植被(a)及不同植被类型(b)年均 NPP变化趋势 Fig.3Changes trend ofaverage annual NPPofallvegetation(a)and diferent vegetation types (b)in Taihang Mountai Area from 2000 to 2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在植被NPP变化速率空间分布图中可看出(图 4a),NPP 变化速率大部分介于 $- 5 { \\sim } 5 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 正值区面积远大于负值区；NPP增长较快的区域主要位于太行山西侧，NPP降低区除部分在太行山区南段林地成片分布外，大多零散分布在各地。不同植被类型NPP变化速率有较大差别，草地、耕地和林地的 NPP变化速率平均值分别为 $2 . 7 7 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } .$ $2 . 1 9 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 、 $0 . 8 3 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 } ,$ 。从 NPP 变化显著性检验结果(图 4b)中可知，研究区内大部分植被NPP变化不显著，NPP显著或极显著升高区面积比例为 $1 6 . 1 7 \\%$ ，主要分布在太行山区西侧；NPP显著或极显著降低区面积比例只有 $0 . 8 8 \\%$ ，零散分布在整个研究区域内。不同植被类型NPP显著或极显著升高的比例：草地 $, >$ 耕地 $, >$ 林地，不同植被NPP显著或极显著降低的比例：林地 $\\downharpoonright$ 耕地 $\\downharpoonright$ 草地(表1)。这除了与林地生境较差有关外，也与不同植被类型的生态学特征有关。林地生态系统结构复杂，稳定性相对较高，在环境变化中植被波动往往较小；而草地和耕地以草本植物为主，对环境变化敏感，尤其草地植物适应性强，在环境改善后更容易有高的NPP变化速率值。林地植被NPP显著降低则可能与人类活动有较大关联。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从植被NPP变化显著性检验结果的空间分布来看，NPP显著或极显著升高区和NPP变化速率高值区分布一致，说明该区植被在研究时段内有明显改善；NPP显著或极显著降低区面积占全区面积的比例极小，呈零星分布，说明NPP变化速率负值区植被大部分并未明显恶化。NPP显著或极显著升高区主要为草地和耕地；NPP显著或极显著降低区主要为建设用地、耕地和林地。其中，建设用地植被NPP降低是因为城市化过程中占用了原有植被用地；耕地NPP降低部分多分布在建设用地周边，说明人为因素是耕地区植被恶化的主要影响因素；林地NPP降低部分多位于太行山区南段，大多与NPP低值区、NPP变化速率低值区重合，说明这部分林地中存在长期作用的负面影响因素或机制。气候因素作用范围大，但林地植被显著恶化区孤立分布，说明这些区域的植被恶化不是气候因素导致的，结合近些年太行山区南段旅游业快速发展的事实，推测这可能是人为破坏的结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3植被NPP与气候因素的相关分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于空间平均计算，2000—2014年，研究区降水与NPP显著正相关，相关系数为0.530；气温与NPP负相关，相关系数为-0.280。由偏相关系数显著性检验结果(图5)可知，降水与植被NPP主要表现为正相关关系，降水与NPP显著或极显著相关区的面积比例为 $23 . 8 2 \\%$ ，几乎全部表现为正相关，主要分布在太行山北段；气温与植被NPP的关系主要为负相关关系，其显著或极显著负相关区面积比例为 $8 . 4 2 \\%$ ，主要分布在太行山区西侧；气温与NPP显著或极显著正相关区面积比例只有 $0 . 8 1 \\%$ ，这部分植被主要是分布在受热量限制的太行山区最北端的耕地和林地。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fd45db998a5ea21624c12a1e4d537734544325cc1cd62d427ddee9b31075bd2.jpg",
+        "img_caption": [
+            "图42000—2014 年太行山区植被 NPP变化速率(a)及其显著性(b)的空间分布 Fig.4Spatial distributionofannualchangerateofNPP(a)andits’significancetestresult (b)inTaihang Mountain Area from 2000 to 2014 图b中,A为变化不显著,B为显著降低,C为显著升高,D为极显著降低,E为极显著升高。In figureb,A means not significant change,1 neanssignificanteduction,Cmanssigniicantirease,Dmeansetreelysigniicanteduction,Eansetremelysigniicanteas "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6060aa0974e193fba13ad095c827c38900972f61253c3b0ba2fc3366f911552b.jpg",
+        "img_caption": [
+            "图52000—2014年太行山区植被 NPP与年降水量(a)和年均温(b)的偏相关系数的显著性检验结果 Fig.5Resultsof significance testofpartial correlation coeffcient between vegetation NPPand annual precipitation(a), vegetation NPP and average annual temperature (b) in Taihang Mountain Area from 2Ooo to 2014 A:极显著负相关;B:显著负相关;C:相关性不显著;D:显著正相关;E：极显著正相关。A:extremely significant negativecorelation;B: ignificatCE "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a37eea28e3f64686bb5d1d6edf96d20f0a2fd2ce17f5e4d5f61d278cdd3c931a.jpg",
+        "table_caption": [
+            "表12000—2014年太行山区不同植被类型NPP变化显著性检验结果面积百分比Table1Area percentages of the results of significance test of NPP changes of diferent vegetation types inTaihang Mountain Area from 20oO to 2014"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>植被类型 Vegetation type</td><td>变化不显著 significant change</td><td>显著降低 Signifucently</td><td>显著升高 Signifianty</td><td>极显著降低 significatlyreducing</td><td>极显著升高 signiatly iereasing</td></tr><tr><td>耕地Farmland</td><td>78.76</td><td>0.46</td><td>12.13</td><td>0.16</td><td>8.50</td></tr><tr><td>林地Forest</td><td>91.36</td><td>0.87</td><td>5.47</td><td>0.09</td><td>2.22</td></tr><tr><td>草地Grassland</td><td>78.50</td><td>0.16</td><td>12.65</td><td>0.03</td><td>8.66</td></tr><tr><td>全部植被 All vegetation</td><td>82.95</td><td>0.65</td><td>9.85</td><td>0.23</td><td>6.32</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "不同植被类型NPP与年降水量、年均温的相关性检验结果与全区平均状况基本一致(图6)。对比NPP变化显著性检验结果可发现，NPP显著变化区与NPP-降水显著相关区、NPP-气温显著相关区有较多重叠部分，说明一部分植被NPP的显著变化与气候因素有较强关联。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上分析中，降水对植被NPP的增加主要表现为促进作用，气温对植被NPP的增加主要表现为抑制作用，这两种作用形式正是干旱胁迫的表现，说明干旱是限制太行山区植被NPP增长的重要原因。一些学者也认为太行山区植被面对的干旱胁迫较为严重[8.22-23]。但降水只在全区平均水平上显著影响NPP变化，在像元尺度的分析中，其显著影响区的面积比例很小，温度对植被NPP的影响力相对更小。这说明太行山区植被NPP的变化原因是复杂的，降水和气温只是多种影响因素中的两种。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/016127f6453970c6fb2269503f37e153acfc1d83b90944021cd66e6037fbf29f.jpg",
+        "img_caption": [
+            "图62000—2014 年太行山区不同植被类型 NPP与年降水量(a)和年均温(b)的偏相关系数显著性检验结果面积百分比 Fig.6Areapercentagesoftheresultsofsignificance testofpartialcorelationcoefficientbetweenvegetationNPPandannual precipitation (a),vegetation NPP and average annual temperature (b) in Taihang Mountain Area from 2Oo0 to 2014 A：极显著负相关;B:显著负相关;C:相关性不显著;D:显著正相关;E:极显著正相关。A:extremely significant negative corelation; B: significantnegtiecorelation;Cotgniicant;D:signicantposiiecoelatin;Extremelysigicantpoiieaio "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4地理梯度上植被特征的变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于海拔梯度和坡度梯度进行分区统计，太行山区不同植被类型的面积百分比、年均NPP、NPP变化速率、NPP-降水偏相关系数和NPP-气温偏相关系数均产生变化。面积百分比表现为：随着海拔上升、坡度增大，耕地面积比例下降，草地和林地面积比例上升，且林地在中、高海拔和大坡度地区所占比例较大(图7a，b)。说明林地和草地的地理条件一般比耕地差。NPP的变化表现为：随着海拔上升、坡度增大，林地和耕地NPP趋于下降，且林地下降幅度更大；草地 NPP 则变化不大(图 7c，d)，表现出了对不同地理环境的适应性。NPP变化速率方面，随海拔和坡度增加，耕地和草地均呈现出了先升高后降低的趋势，而林地波动下降(图7e,f)。这表明林地植被长势受地形影响更大。降水与NPP的相关性表现为：随林地在海拔梯度上波动下降(图 $\\mathrm { 7 g }$ ，h)，表明随着海拔上升降水对林地植被生长的影响减小;草地在坡度梯度上波动下降，表明随着坡度增大，降水对草地植被生长的影响减小；但其中又有很多不规则的变化情况，表明地理梯度上降水对植被生长的影响是复杂的。气温与NPP的相关性表现为，不同植被类型NPP与气温的相关系数在地理梯度上均表现出了先降低后升高的趋势(图7i,j)。说明在不同地理梯度上，气温所起的作用不同，其中可能发生了主导因子的转变。除林地外，气候因素与NPP的相关系数曲线大多在中等海拔、中等坡度部位表现凸出，这与NPP变化速率曲线表现相似。一般而言，低海拔、小坡度地区，人类生产活动强烈，人为因素是植被变化的主导因素，气候因子作用相对较弱；高海拔、大坡度地区，植被NPP变化可能更多受到土壤等生态系统内部因素的影响。这反映出气候因素作用相对强烈的地方，植被生长得更好。而人为因素作用强烈的低海拔、小坡度地区，人为因素降低了耕地和草地的改善幅度，尽管人类重视林地植被建设，但这些地区林地比例较小，人为因素主要表现为抑制植被改善。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/923ef82abb49d02ced6563a1c9cc8872c5a15dbae0f8780dde3bc5afd26ff8cd.jpg",
+        "img_caption": [
+            "图7海拔梯度和坡度梯度上不同植被类型的面积百分比(a,b)、年均 $\\mathbf { N P P ( c , d ) }$ 、NPP变化速率(e,f)、NPP-降水偏相关系数 $( \\mathbf { g } , \\mathbf { h } )$ 和 NPP-气温偏相关系数(i,j)的分布Fig.7Distrutiofreaperetge(b),veragealNc,d),gerate(e,f),-preipitatipartialecoefficient $( \\mathrm { g } , \\mathrm { h } )$ ,and NPP-temperature partial correlation coefcient (i,j)of different vegetation types along altitude gradient andslope gradient"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论和讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文基于2000—2014年MODISNPP数据，结合土地利用、气温、降水和DEM数据，运用趋势分析、相关系数及分区统计等方法，研究了太行山区2000—2014年植被NPP时空变化特征，并对影响植被NPP变化的因素进行了分析，结论如下：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)2000—2014年，太行山区植被NPP多年平均值为 $2 8 4 . 0 ~ \\mathrm { g ( C ) { \\cdot } m ^ { - 2 } { \\cdot } a ^ { - 1 } }$ 。其中，耕地、林地和草地的NPP 均值分别为 $3 0 2 . 5 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $2 5 8 . 1 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ $2 8 6 . 5 ~ \\mathrm { g ( C ) { \\cdot m } ^ { - 2 } { \\cdot a } ^ { - 1 } } .$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)2000—2014年，太行山区植被NPP整体有上升趋势，但大部分植被NPP变化达不到显著水平，$1 6 . 1 7 \\%$ 的植被NPP显著或极显著升高， $0 . 8 8 \\%$ 的植被NPP显著或极显著降低；植被NPP显著或极显著升高区主要分布在太行山区西侧，植被NPP显著或极显著降低区零散分布在研究区内。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)不同植被类型NPP变化速率为草地 $\\mid >$ 耕地 $>$ 林地。草地适应性相对较强，更多利用了环境变化的机会；林地大部分分布区生境较差，制约了NPP的升高。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4)基于区域平均计算，太行山区植被NPP与降水显著正相关 $( P { < } 0 . 0 5 )$ ，与气温负相关 $( P { > } 0 . 0 5 )$ 。基于像元计算，植被NPP与降水显著或极显著正相关区面积比例为 $23 . 8 2 \\%$ ，主要分布在太行山区北段，几乎没有显著负相关区；植被NPP与气温显著或极显著负相关区面积比例为 $8 . 4 2 \\%$ ，主要分布在太行山区西侧，显著或极显著正相关区面积比例为$0 . 8 1 \\%$ ，主要分布在太行山区最北端。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(5)研究期内气候因子对植被NPP的升高整体上表现为促进作用，而人为因素主要表现为抑制作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究中，地理位置、地形、开发历史和人为管理等通过水、热、土壤等因子影响太行山区植被NPP的空间分布，但水分条件是NPP增长的主要限制因子。太行山区受季风气候影响，雨热同期，但潜在蒸发量多在 $1 \\ 6 0 0 \\ \\mathrm { m m }$ 左右(根据MODIS蒸散数据计算多年平均得到)，远大于实际降水，易形成干旱胁迫；长期水土流失使土层瘠薄，水源涵养功能降低，植被水分状况进一步恶化。耕地植被受人类照料，生长较好；草地植被NPP低于耕地，但因其适应性较强，NPP高于林地。本研究中太行山区林地NPP较低，这与林地生境较差有关，但也与不适宜的造林活动有一定关系。自20世纪80年代开始，太行山区相继实施了“太行山绿化工程”、“退耕还林工程\"等多项生态工程。但各地大规模造林过程中，除在宜林地造林外，因为指标问题，难免会在不适宜造林的地方造林。这一方面增加了造林成本，另一方面也违背了“因地制宜\"的原则，影响了林木生长,使林分成为低质低效林[24-25]。张莎[11]对河北省2001—2010年NPP的研究中发现，河北省NPP绝大部分集中在 $2 0 0 { \\sim } 4 0 0 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，且耕地 NPP大于林地和草地，与本研究一致。王新闯等[12对2000—2010年河南省NPP的研究中，河南省年NPP变化范围为 $3 0 8 { \\sim } 4 3 0 ~ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，耕地 NPP 在$3 0 0 { \\sim } 5 0 0 \\ \\mathrm { g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ ，豫西和豫东南林区 NPP多在$5 0 0 \\ \\mathrm { \\ g } ( \\mathrm { C } ) { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 以上，其植被长势整体上优于太行山区植被。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究中，太行山区植被大体呈好转趋势，这与国内很多学者的研究结果一致。杜加强等[26对新疆植被NDVI的研究中，发现植被在1982—2012年间呈极显著增加趋势；李辉霞等[27]基于 NDVI 对三江源地区的研究，发现植被在2000—2014年间呈好转趋势；王新闯等[12对河南的研究也发现植被NPP在2000—2010年间以增加为主。但在其他区域的研究中，也有一些区域植被未改善，甚至恶化。张莎[]对河北植被NPP的研究中发现，2000—2014年间河北大部分地区植被呈减少趋势。有学者指出，植被变化有明显的区域差异性，与气候因子关系的空间异质性也较强[20]。因此，即便在大的环境变化背景下，不同地区植被的响应也可能有很大差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对于太行山区植被的变化，不同学者的研究结果也有所不同。孙雷刚等[28]对太行山中部滹沱河流域植被的研究中发现，1984—2014年植被覆盖度总体呈增加趋势，但海拔相对较低的区域表现为植被退化。本文中该区域虽然也存在植被退化，但显著退化区比例较小。考虑到孙雷刚等[28]的研究中包括了石家庄平原区(本文研究范围未包含)，且研究时段更长，而该区域又是城市化较快的地区，这种差异是很可能出现的。贾宝全[2基于1987年和2009年两期TM卫星影像对北京植被覆盖变化进行研究，发现植被质量以改善为主，且认为植被变化的驱动力主要是人为生态工程因素。本文也认为封育禁牧等生态措施对植被改善有利，在低海拔区植被变化受人为因素主导，但本文中低海拔区人类行为多表现为负面影响，而非正面影响；本研究缺乏林业相关数据分析及对2000年之前植被状况的认识，贾宝全[29]的研究中北京造林绿化在2000 年后已趋于饱和，且MODISNPP数据在建设用地缺失，这些都会导致结果的差异。Chen等[30]基于AVHRR/NDVI数据对海河流域植被的研究中发现，1981—2000 年，北京NDVI显著减少；这与贾宝全[29]的研究结果有一定冲突，但两者时空尺度和研究方法有较大差别，这可能影响了最终的结果。从学者们的研究中可看到，方法差异、时空差异都可能导致研究结果的不同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前，本研究还基本停留在对 MODIS NPP数据的应用分析上，缺乏对实地状况的认识，与社会经济数据的结合还很少。而对人类行为只是定性分析，其实际应用意义将大打折扣，这是后续研究需要改进的。MODIS数据本身存在一定的精度问题，本土化过程中需要多方考虑。当前，各种植被生产力模型精度和准度均有较大差别，模型应用结果可比性差；有研究认为基于多种算法的集合预估方法能有效提高模拟精度，产生显著优于单个算法的模拟结果[31]，这可能是今后的一个发展方向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Lieth H,Whittaker R H.Primary Productivity of the Biosphere[M.Berlin Heidelberg:Springer,1975   \n[2]周广胜，张新时．自然植被净第一性生产力模型初探[J]. 植物生态学报,1995,19(3):193-200 Zhou G S,Zhang X S.A natural vegetation NPP model[J]. Acta Phytoecologica Sinica,1995,19(3):193-200   \n[3]孙力炜．祁连山区植被净第一性生产力的时空分布特征及 气候变化和人类活动的影响[D].兰州：西北师范大学, 2013 Sun L W.Temporal and spatial variation of vegetable net primary productivity and influence of climate change and human activity in Qilian Mountains[D].Lanzhou: Northwest Normal University,2013   \n[4]孙睿，朱启疆．气候变化对中国陆地植被净第一性生产力 影响的初步研究[J]．遥感学报,2001,5(1):58-61 Sun R,Zhu QJ.Effect of climate change of terrestrial net primary productivity in China[J]. Journal of Remote Sensing, 2001,5(1): 58-61   \n[5]朴世龙，方精云，郭庆华．利用CASA 模型估算我国植被 净第一性生产力[J]．植物生态学报,2001,25(5):603-608 Piao SL,Fang JY,Guo QH.Application of CASA model to the estimation of Chinese terrestrial net primary productivity[J]. Acta Phytoecologica Sinica,2001,25(5): 603-608   \n[6]陈利军，刘高焕，励惠国．中国植被净第一性生产力遥感 动态监测[J].遥感学报,2002,6(2):129-135 Chen L J,Liu G H,Li H G. Estimating net primary productivity of terrestrial vegetation in China using remote sensing[J]. Journal of Remote Sensing,2002,6(2):129-135   \n[7]朱文泉，潘耀忠，张锦水．中国陆地植被净初级生产力遥 感估算[J].植物生态学报，2007,31(3):413-424   \n[8] 刘欣，葛京凤，冯现辉．河北太行山区土地资源生态安全 研究[J].干旱区资源与环境,2007,21(5):68-74 Liu X, Ge JF,Feng X H. Study on ecological security of land resources in Taihang Mountain Hebei[J]. Journal of Arid Land Resources and Environment, 2007,21(5): 68-74   \n[9] 曾宪芷，杨跃军，张国红，等．对太行山绿化工程建设的思 考[J]．林业经济,2010,(7):52-54 Zeng X Z, Yang Y J, Zhang G H, et al. On the greening project of Taihang mountains[J]. Forestry Economics,2010, (7): 52-54   \n[10] 刘征，赵旭阳，米林迪．基于3S 技术的河北省山区植被净 初级生产力估算及空间格局研究[J]．水土保持研究，2014, 21(4): 143-147 Liu Z,Zhao X Y,Mi L D. Study on estimation and spatial pattern of vegetation net primary productivity in mountainous area of Hebei Province based on 3S[J]. Research of Soil and Water Conservation,2014,21(4): 143-147   \n[11］ 张莎．基于长时间序列多源遥感数据的河北省植被 NPP 时 空分布研究[D].石家庄：河北师范大学,2015 Zhang S. Research on spatio-temporal distribution of vegetation net primary productivity in Hebei Province based on long time-series multi-source remote sensing data[D]. Shijiazhuang: Hebei Normal University,2015   \n[12]王新闯，王世东，张合兵．基于 MOD17A3 的河南省 NPP 时空格局[J]．生态学杂志,2013,32(10):2797-2805 Wang X C, Wang S D, Zhang H B. Spatiotemporal pattern of vegetation net primary productivity in Henan Province of China based on MOD17A3[J]. Chinese Journal of Ecology, 2013,32(10): 2797-2805   \n[13]范晓．太行山—高原向平原的转折很壮丽[J]．中国国家 地理,2011, (5): 15-25 Fan X. Taihang Mountain — The turning from the plateau to the plain is very magnificent[J]. Chinese National Geography, 2011, (5): 15-25   \n[14]王尚义．当议太行八陉及其历史变迁[J]．地理研究，1997, 16(1): 68-76 Wang S Y. A brief discussion on the eight Taihang passages and their vicissitudes in the history[J]. Geographical Research, 1997, 16(1): 68-76   \n[15] 李登科，范建忠，王娟．基于MOD17A3的陕西省植被 NPP 变化特征[J]．生态学杂志,2011,30(12):2776-2782 Li D K,Fan J Z,Wang J. Variation characteristics of vegetation net primary productivity in Shaanxi Province based on MOD17A3[J]. Chinese Journal of Ecology， 2011, 30(12): 2776-2782   \n[16]穆少杰，李建龙，周伟，等.2001—2010 年内蒙古植被净初 级生产力的时空格局及其与气候的关系[J]．生态学报, 2013,33(12): 3752-3764 Mu S J,Li JL, Zhou W,et al. Spatial-temporal distribution of net primary productivity and itsrelationship with climate factors in Inner Mongolia from 2001 to 2010[J].Acta Ecologica Sinica,2013,33(12): 3752-3764   \n[17]朱锋，刘志明，王宗明，等．东北地区农田净初级生产力时 空特征及其影响因素分析[J]．资源科学，2010,32(11): 2079-2084 Zhu F，Liu Z M,Wang Z M,et al. Temporal-spatial characteristics and factors influencing crop NPP across northeastern China[J]. Resources Science,2010,32(11): 2079-2084   \n[18] 吴珊珊，姚治君，姜丽光，等．基于 MODIS 的长江源植被 NPP 时空变化特征及其水文效应[J]．自然资源学报，2016, 31(1): 39-51 Wu S S,Yao Z J, Jiang L G, et al. The spatial-temporal variations and hydrological effects of vegetation NPP based on MODIS in the source region of the Yangtze River[J]. Journal of Natural Resources,2016,31(1): 39-51   \n[19]阿斯姆古丽·阿纳耶提，师庆东，刘曼，等．长时间序列遥 感数据回归分析支持下的植被变化分析[J]．新疆大学学报: 自然科学版,2014,31(3):341-344 Anayeti A,Shi Q D,Liu M,et al.The vegetation cover changes of regress analysis on using time-serial images of remote sensing[J]. Journal of Xinjiang University:Natural Science Edition,2014,31(3): 341-344   \n[20] 阿多，赵文吉，宫兆宁，等.1981—2013华北平原气候时空 变化及其对植被覆盖度的影响[J]．生态学报，2017,37(2): 576-592 A D,Zhao WJ,Gong Z N,et al. Temporal analysis of climate change and its relationship with vegetation cover on the north china plain from 1981 to 2013[J].Acta Ecologica Sinica, 2017,37(2): 576-592   \n[21]陈福军，沈彦俊，李倩，等．中国陆地生态系统近 30 年 NPP 时空变化研究[J]．地理科学,2011,31(11):1409-1414 Chen F J,Shen Y J,Li Q,et al． Spatio-temporal variation analysis of ecological systems NPP in China in past 30 years[J]. Scientia Geographica Sinica, 2011，31(11): 1409-1414   \n[22]李保国.生态经济沟建设理论与技术—以太行山为例[M]. 北京：科学出版社,2015 Li B G.Theory and Technology of Ecological Economic Ditch Construction A case of Taihang Mountain[M]. Beijing: Science Press,2015   \n[23]邓伟，戴尔阜，贾仰文，等．山地水土要素时空耦合特征、 效应及其调控[J]．山地学报,2015,33(5):513-520 Deng W,Dai E F,Jia Y W,et al. Spatiotemporal coupling characteristics,effects and their regulation of water and soil elements in mountainous area[J]. Mountain Research,2015, 33(5): 513-520   \n[24]杨海青．南太行山低山丘陵区主要灌木林生态服务功能及 可持续经营研究[D]．郑州：河南农业大学,2013:5 Yang H Q.The ecological services and sustainable management of the main shrubs in the hill areas of south Taihang Mountains[D]. Zhengzhou:Henan Agricultural University,2013:5   \n[25]罗晓华，何成元，刘兴良，等．国内低效林研究综述[J]．四 川林业科技,2004,25(2):31-36 Luo X H,He C Y,Liu XL,et al.A study of the domestic low-benefit stand[J]. Journal of Sichuan Forestry Science and Technology,2004,25(2): 31-36   \n[26] 杜加强，贾尔恒·阿哈提，赵晨曦，等．1982—2012 年新疆植 被 NDVI的动态变化及其对气候变化和人类活动的响应[J]. 应用生态学报,2015,26(12):3567-3578 Du JQ,Ahati J, Zhao C X,et al.Dynamic changes in vegetation NDVI from 1982 to 2012 and its responses to climate change and human activities in Xinjiang,China[J]. Chinese Journal of Applied Ecology,2015,26(12): 3567-3578   \n[27] 李辉霞，刘国华，傅伯杰．基于NDVI的三江源地区植被生 长对气候变化和人类活动的响应研究[J]．生态学报，2011, 31(19): 5495-5504 Li HX,Liu G H,Fu B J.Response of vegetation to climate change and human activity based on NDVI in the Three-River Headwaters region[J]. Acta Ecologica Sinica,2011,31(19): 5495-5504   \n[28] 孙雷刚，郑振华.基于 RS 的近 30 年滹沱河流域植被覆盖 度动态变化研究[J]．地理与地理信息科学，2014，30(6): 36-40 Sun L G, Zheng Z H. RS-based study on dynamic change of vegetation coverage in Hutuo River Watershed in the past 30 years[J].Geography and Geo-Information Science, 2014, 30(6): 36-40   \n[29]贾宝全.基于 TM卫星影像数据的北京市植被变化及其原 因分析[J]．生态学报,2013,33(5):1654-1666 Jia B Q.Driving factor analysis on the vegetation changes derived from the Landsat TM images in Beijing[J].Acta Ecologica Sinica,2013,33(5): 1654-1666   \n[30] Chen F J, Shen Y J,Hu Q L,et al.Responses of NDVI to climate change in the Hai Basin[J].Journal of Remote Sensing,2011,15(2): 401-414   \n[31]袁文平，蔡文文，刘丹，等．陆地生态系统植被生产力遥感 模型研究进展[J]．地球科学进展,2014,29(5):541-550 Yuan WP,Cai WW,Liu D,etal. Satellite-based vegetation production models of terrestrial ecosystem: An overview[J]. Advances in Earth Science,2014,29(5): 541-550 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

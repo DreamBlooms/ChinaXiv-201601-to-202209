@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "Aging accelerates memory extinction and impairs memory restoration in Drosophila ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nannan Chen a,b, Aike Guo a,c,\\*, Yan Li a,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKybodiccu   \nb Universityof Chinese AcademyofSciences,No.19 Yuquan Road,Beijing1ooo49,China   \nIstituteroeb   \nRoad,Shanghai 200031, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Received10March2015 Available online 2 April 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Aging Extinction Stable memory Restoration Drosophila ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Age-related memory impairment (AMI) is a phenomenon observed from invertebrates to human. Memory extinction is proposed to be an active inhibitory modification of memory,however,whether extinction isaffected inaging animals remains to be elucidated.Employing amodified paradigm for studying memory extinction in fruit flies,we found that only the stable,but not the labile memory component was suppressed by extinction,thus effectively resulting in higher memory loss in aging flies. Strikingly, young flies were able to fully restore the stable memory component $^ { 3 \\mathrm { h } }$ post extinction,while aging flies failed to do so.In conclusion,our findings reveal that both accelerated extinction and impaired restoration contribute to memory impairment in aging animals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the process of aging,brain functions of learning and memory, gradually deteriorate[1-3], presenting substantial challenges to an ever-growing number of people,especially in aging societies. Studies in mammalian species,including human [4],monkeys [5] as well as mice [6],show that,upon aging,spatial memory is impaired.Intriguingly,a previous study reported that aging rats showed faster contextual-dependent memory extinction than young rats [7].However, how memory processing is affected upon agingremainsto be elucidated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drosophila is a well-established model organism to study olfactory learning and memory,and the short lifespan makes it an ideal system to study AMI. In aversive olfactory learning, simultaneous presentation of odor and electric shock leads to learned avoidance behavior[8].The middle term memory (MTM), which is measured $^ \\textrm { \\scriptsize 3 h }$ after conditioning，consists of a stable component named anesthesia-resistant memory (ARM）and a labile component named anesthesia-sensitive memory (ASM), according to their different sensitivities to cold shock [9].Two mutant flies, radish1 $( r s h ^ { 1 } )$ and amnesiac $( a m n ^ { X 8 } )$ , were previously reported to be deficient in either ARM or ASM [10,11]. Upon aging, flies showed great impairment of ASM,whilst ARM remained intact,an observation similar to that in amnX8 mutant flies [12]. Furthermore,aging severely impaired long-term memory[13,14], which was proposed to rely on ASM[15]. Therefore,aging appears to specifically impair ASM,whilst leaving ARMintact. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Extinction,a procedure performed as repeated presentation of conditioned stimulus without the unconditioned stimulus,is recognized as an active inhibition of memory[16]. In Drosophila, the extinction paradigm was established earlier usinga T-maze approach [8]. Using this experimental tool,it was found that cycles of repeated presentation of conditioned odor without electric shock (ES）after conditioning attenuated aversive olfactory memory [8].Moreover,extinction was shown to require the output of projection neurons which mediated odor transmission [17],and long term memory was suppressed by cycles of extinction procedures [18].However,little is knownabout the effects of aging on memory extinction.Here we report that,upon aging,flies exhibit higher ratios of memory extinction due to the specific suppression of ARM,and recovery from this memory loss is absent. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Flystrains ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Flies were cultured on standard food [19] at $2 5 ~ ^ { \\circ } C$ and $6 0 \\%$ relative humiditywitha $^ { 1 2 \\mathrm { ~ h ~ } }$ light/dark cycle.Flies were collected at eclosion and aged for different daysas required prior to start of experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The wild-type strain used was Canton-S.The mutant lines $r s h ^ { 1 }$ and $a m n ^ { X 8 }$ were generously gifted from Gregg Roman (University of Houston）and Scott Waddell(University of Oxford),respectively. The c739-Gal4 was provided by Ronald L. Davis (The Scripps Research Institute Florida),UAS-Brp-RNAi by Hiromu Tanimoto (Max Planck Institut fur Neurobiologie). The OK107-Gal4 and c305a-Gal4 were obtained from the Bloomington Stock Center. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To generate UAS-rsh transgenic flies,we extracted total RNA from wild-type Canton-S fly heads and obtained total cDNA by reverse transcription PCR(RT-PCR).The rsh cDNA wasamplified by PCR using the primers $5 ^ { \\prime }$ -ATGTCAAAACTGCGGCATTAC- ${ \\cdot } 3 ^ { \\prime }$ and $5 ^ { \\prime } \\mathrm { . }$ AAAATCAAAGTGCTCACCTGTCT- $3 ^ { \\prime }$ ，and cloned into pUAST vector. The transgenic flieswere raised and screened according to standard procedures. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Behavioral assays ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Olfactory aversive learning and memory experiments were performed according to the standard T-maze apparatus [8].Briefly, a group of approximately 1oo flies with mixed sexes were used in all experiments except only male flies in rsh rescue experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In extinction paradigm,flies were simultaneously exposed to odorA and electric shock for1 min for conditioning.After 45s,one to nine cycles ofodorAwith1min-durationand 45s-interval were performed as post-conditioning odor presentation (PCOP).After 45s interval,flies were exposed to odor B for $1 \\mathrm { m i n }$ ,and allowed to choose between the two odors (Fig.1A).In comparison,control flies were exposed to air instead of odor A in the PCOP steps (Fig.1A). The electric shock mode consisted of a series of $1 2 \\times 1 . 2 5 s \\ 6 0 \\mathrm { v }$ pulses with3.75s intervals session.Immediate memoryand MTM wereexamined immediatelyafter training as well as $^ \\textrm { \\scriptsize 3 h }$ after training.A 2-mins cold shock at $^ { 2 \\mathrm { ~ h ~ } }$ after training was used to examine ARM [20]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Odors used were 3-octanol(OCT,1:10oo，Aldrich）and 4- methylcyclohexanol(MCH,2.6:1ooo,Fluka) diluted in mineral oil (Thermo Fisher Scientific).The Performance Index(PI）was measured by averaging the preference index of two reciprocally trained groups.Memoryreduction was calculated as the PI in the PCOP group (PIpcop) minus the PI in the control group $\\left( \\mathrm { P I } _ { \\mathrm { C t r l } } \\right)$ . The ratio of memory reduction was calculated as memory reduction divided by $\\mathsf { P I } _ { \\mathsf { C o l n } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Datawere analyzed with SPSS (SPSS Inc.).For comparisons among multiple groups,one-way ANOvA was performed,followed by comparisons between the relevant groups witha Bonferroni post hoc test. For comparisons between two groups,independentsample t tests were used. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Higher proportion of memory loss in aging flies ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Simultaneously exposing the flies with one odor (conditioned odor)and electric shock,then another odor (unconditioned odor) ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2a4a07b3a626db9374a709993e361fb92d7ca6b2fe96d75704e80f83e96fff6.jpg",
+        "img_caption": [
+            "Fign go presatioOlt euctio groups,and one-way ANOVA folowed by Bonferroni post hoc test among multiple groups.Data are shown as means $\\pm$ standard error of the mean (s.e.m.). $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ $^ { * * * } P < 0 . 0 0 1$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "without electric shock sequentially make them learn to avoid the conditioned odor [8]. Cycles of extinction procedures,which are performed as the presentation of conditioned odor without electric shock,impair aversive olfactory memory [8,17,18].In a previous report,memory was reduced about $1 0 \\%$ following10 cycles of odor presentation [8].To improve extinction efficiency,we modified the original paradigm by performing the extinction procedures between the presentation of the conditioned odor and unconditioned odor,and named this treatment PCOP(see Materialsand methods). Toavoid odor sensoryadaptation,the PCOPs were performed in 60s-odor presentation/45s-interval,and the same cycles of air ventilation were used for the control group (Fig.1A).We found that theperformance index decreased gradually with the increase of extinction cycle numbers.Furthermore,when equal or more than fourcycles of PCOP was performed, the ratio of memoryreduction (see Materials and methods)was more than $3 0 \\%$ (Fig.1B),which wasa more significant decrease than previous paradigm. These findings suggested that the presenting time of PCOP and the unconditioned odor affected extinction efficiency.We thus adjusted the sequence of 4 cycles of PCOP and the unconditioned odor,and found that the earlier presentation of PCOP, the more significant memory extinction induced (Supplementary Fig.1). Therefore,we used four cycles of PCOP before the unconditioned odor in all subsequent experiments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the effect of aging on extinction，we next measured the memory indexupon extinction procedures in fliesat 2,10,20,30 and 50 days of age.We found that the aversive olfactory memory was reduced significantly by PCOP among these flies (Fig.1C). Strikingly, the memory reduction ratio in flies at 20,3O and 50 days of age was statistically higher than the younger flies (Fig.1C). These results indicate that memory extinction in aging flies is more severe than in younger flies,in accordance with the faster extinction performance in aging rats [7]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Memoryreductionwasrestored in young flies,while restorationwas absent in aging flies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Several earlier reports showed that extinguished memory can be restored,in the presence of an unconditioned stimulus [21,22]. To test whether the extinction effect changed over time in flies,we evaluated the memory $^ { 3 \\mathrm { h } }$ post conditioning.We found that PCOPinduced memory reduction was spontaneously recovered within $^ { 3 \\mathrm { ~ h ~ } }$ in flies at 2 days or 1O days of age(Fig.1D). Strikingly, this memory restoration was not observed in fliesat 20,30 and 50 days of age (Fig.1D),suggesting more severe memory deficiencies in aging flies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.PCOP specifically suppressed ARM,but not ASM ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It was reported that aging specifically impaired ASM while leaving ARM intact [12].Given our findings that aging flies exhibited higher ratios of memory extinction (Fig.1C),we then examined whether extinction affected ARM and ASM differently, using amnX8 and $r s h ^ { 1 }$ mutant flies.We found that amnX8 mutant flies exhibited significant memory extinction,with a reduction comparable to that in wild-type flies (Fig.2A). Unexpectedly, little memory extinction was observed in $r s h ^ { 1 }$ mutant flies (Fig. 2A). These results suggested that PCOP specifically suppressed ARM, whereas ASMwasunaffected. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Radish was reported to be strongly expressed in both the mushroom body(MB) and ellipsoid body in the adult fly brain [23]. We therefore tested if expression ofRadishwasable to re-establish memory extinction that was absent in the $r s h ^ { 1 }$ mutant flies. Firstly, we generated UAS-radish transgenic flies (see Materials and methods),and expressed this protein in the $r s h ^ { 1 }$ mutant background.Our results showed that expression of radish with c739-Gal4 in the MB $\\alpha / \\beta$ lobes [24] rescued the ARM formation (Supplementary Fig.2),and re-established PCOP-induced memory extinction (Fig.2B). In contrast,expressing Radish in the MB $\\alpha ^ { \\prime } / \\beta ^ { \\prime }$ lobes and ellipsoid body with c305a-Gal4 [25] failed to do so (Fig.2B). Together, these findings suggested that Radish expression in MB $\\alpha / \\beta$ lobes was required for memory extinction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bruchpilot (Brp),a ubiquitous presynaptic active zone protein, has been reported to be specifically required in the MB for ARM formation [26]. Similar to $r s h ^ { 1 }$ mutant flies,MB-specific brpknocking down flies exhibited no significant memory extinction in the PCOP assay (Fig.2C). Taken together, these results suggest that prolonged odor presentation specifically impairs ARM,but not ASM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4.Extinction-induced ARM impairment was not recovered in aging flies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our findings showed that in young wild-type flies,extinctioninduced memory impairment was recovered within $^ { 3 \\mathrm { ~ h ~ } }$ (Fig. 1D), and extinction procedures specifically suppressed ARM(Fig.2). To testif the impaired ARMwasrestored,orwhether ASMwas elevated after $3  { \\mathrm { h } }$ ,we introduced a 2-min cold shock $^ { 2 \\mathrm { h } }$ after the conditioning ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Actrl PCOP PCOP-Ctrl B ctrl PCOP PCOP -Ctrl Cctrl PCOP PCOP-Ctrl \\*\\*\\* 0.0 I H \\*\\*\\* 0.0 \\*\\*\\* 0.0 -0.2 -0.2 -0.2   \n10 n.s.L-0.4 xrpe ereined 6 -0.4 108 -0.4 \\*\\*\\* n.s. n.s. \\*\\*\\* \\*\\* n.s. 工 0.4- \\*\\*\\* T T 工 \\*\\*\\* 0.2- 0.0 0.0 wt amnx8 rsh1 rsh1;UAS-rsh + + + brp-RNAi + = + ASM √ √ c305a = + 1 OK107 = + + ARM √ √ c739 = 一 + ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9918208ae902d5f4b7b47cac389ac7157c2bfae2df16a82f9e06b704a7067473.jpg",
+        "img_caption": [
+            "Fig.3.Impaired ARM was recovered in young wild-typ flies,but remained un-restored inagingflies and $a m n ^ { x 8 }$ mutant flies.(A)Paradigm for testing ARM upon extinction.Following f impaired in amnx8 mutant flies. In $r s h ^ { 1 }$ mutantflies,liteasserdinotteOdiotrolgoup.(COdcedmpimenasotstordi days of age.Data were quantified using independent sample t-test between two groups,and shown as means $\\pm$ standard error of the mean (s.e.m.). $^ { * * } P < 0 . 0 1$ $^ { * * * } P < 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "step [2O] to examine ARM (Fig. 3A). In young wild-type flies,the PCOP group showed comparable ARM to that in the air control group (Fig.3B),indicating that the extinction-induced impairment of ARM was restored.In contrast, amnX mutant flies still exhibited signifcant PCOP-induced reduction of ARM,and showed almost no detectable ARM in the PCOP group (Fig.3B). Since amnX8 mutant flies are deficient in ASM[11],we propose that recovery of the suppressed ARM requires the presence of ASM.In comparison, the $r s h ^ { 1 }$ mutant flies showed little ARM in both the PCOP and air control group,which is in agreement with earlier reports [10]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next,we tested ARM recovery inaged wild-type fliesat3O days of age. Similar to $a m n ^ { X 8 }$ mutant flies,no recovery from impairment of ARM upon PCOP was observed,as in their younger siblings (Fig.3C). Taken together, these results suggest that inaging flies,ARM is suppressed by extinction,and once impaired,ARM cannot be restored. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Simultaneous presentation of odor and electric shock results in the acquisition of aversive olfactory memory in flies [8]. In aging flies,the formationof ASMisimpaired whereas ARMis left intact. Here we find that the ARMis more sensitive to extinction,resulting insevere memory reduction inaging flies.Moreover, the impaired ARMis recovered after $3 \\mathrm { h }$ in young wild-type flies,while it remains impaired in amnX8 mutant flies and aging WT flies. On the basis of these findings,we propose that both the severity of memory extinction and inability of memory restoration contribute to memory decline in aging flies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In a previous study,extinction exerts suppressive effects on $2 4 \\mathrm { h }$ memory in $r s h ^ { 1 }$ mutant flies [18]. In contrast,we showed that $r s h ^ { 1 }$ mutant flies were resistant to the extinction procedure in our experiments.We propose that this disparity is due to the fact that extinction was performed at different time points,and different memory components were examined in the two studies.In $r s h ^ { 1 }$ mutant flies,memory tested at $2 4 \\mathrm { ~ h ~ }$ post spaced training is long term memory,which is defined as a type of consolidated memory [20]. However, the memory we tested in $r s h ^ { 1 }$ mutant, either right after or $_ { 3 \\mathrm { h } }$ after one cycle of conditioning,is a labile memory [10]. Further studies show that our extinction procedure selectively affects ARM,which is a type of consolidated memory[2O]. Thus, the two studies both support the hypothesis that extinction inhibits consolidated memory components. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The formation of ASM and ARM was reported to be mediated by two separate molecular mechanisms [10,11,23,26,27],and based on distinguished neural circuits [28,29], suggesting that these two types of memory are processed individually. Our findings that a PCOPapproach specifically interrupts ARM,without affecting ASM, provide additional evidence to support this model.Different studies showed that extinction involves either an active learning process [3O],or a reversion of the previous conditioning process [16,31]. In our study,the specific interruption of ARM upon extinction suggests a modification of the previous conditioning process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,we observed a restoration of ARM after extinction, and more interestingly, this restoration required the presence of ASM.These results suggest a crosstalk between these two types of memory ina later stage of memory processing,which allows efficient memory formation under interferences.The underlying reason for this crosstalk might be the oscillation in the activity among the MB neurons. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overall,our findings reveal that upon aging,memory extinction is becoming more and more severe,and once in place,this reduction cannot be restored.Our work should facilitate future investigation on the processes underlying memory decline in aging animals and human. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "None. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thankR.L.Davis,G.Roman,H.Tanimoto,S.Waddell,aswell as the Bloomington Stock center for fly stocks.We are grateful to Z. Zhang and W.Yi for manuscript discussion.We thank Dr.T. Juelich for linguistic assistance during the preparation of this manuscript. This work was supported by grants from the National Science Foundation of China (91132709,31130027,and 31070956), the 973 Program(2011CBAo040O), One Hundred Talent Project of Chinese Academyof Science (CAS) (KSCX2-YW-R-156),and the“Strategic Priority Research Program\"of CAS (XDB02040100). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementarydata ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data related to this article can be found at http:// dx.doi.0rg/10.1016/j.bbrc.2015.03.131. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transparency document ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transparency document related to this article can be found online at http://dx.doi.org/10.1016/j.bbrc.2015.03.131. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] E.S. Rosenzweig, C.A. Barnes,Impact of aging on hippocampal function: plasticity，network dynamics,and cognition，Prog. Neurobiol. 69 (2003) 143-179.   \n[2] N.A. Bishop, T. Lu, B.A. Yankner, Neural mechanisms of ageing and cognitive decline,Nature 464(2010) 529-535.   \n[3] J.Horiuchi, M. Saitoe, Can flies shed light on our own age-related memory impairment? Ageing Res. Rev. 4(2005) 83-101.   \n[4]I.Gazova,J.Laczo，E. Rubinova,I. Mokrisova，E. Hyncicova,R.Andel, M. Vyhnalek, K. Sheardova, E.J. Coulson, J. Hort, Spatial navigation in young versus older adults, Front. Aging Neurosci. 5 (2013) 1-8.   \n[5] P.R. Rapp,M.T. Kansky,J.A. Roberts, Impaired spatial information processing in aged monkeys with preserved recognition memory, Neuroreport 8 (1997) 1923-1928.   \n[6]M.E.Bach,M. Barad,H. Son,M. Zhuo, Y.F.Lu, R. Shih,I. Mansuy,R.D.Hawkins, E.R.Kandel, Age-related defects in spatial memory are correlated with defects in the late phase of hippocampal long-term potentiation in vitro and are attenuated by drugs that enhance the cAMP signaling pathway, Proc. Natl. Acad. Sci. U. S. A. 96 (1999) 5280-5285.   \n[7]V.Wiescholleck,M.A. Emma Andre，D. Manahan-Vaughan，Early agedependent impairments of context-dependent extinction learning, object recognition,and object-place learning occur in rats, Hippocampus 24 (2014) 270-279.   \n[8] T. Tully，W.G. Quinn, Classical conditioning and retention in normal and mutant Drosophila melanogaster, J. Comp. Physiol. A 157(1985) 263-277.   \n[9] W.G. Quinn,Y. Dudai, Memory phases in Drosophila,Nature 262 (1976) 576-577.   \n[10] E.Folkers,P.Drain,W.G. Quinn,Radish,a Drosophila mutant deficient in consolidated memory, Proc. Natl. Acad. Sci. U. S. A. 90 (1993) 8123-8127.   \n11] S. Waddel, J.D. Armstrong, T. Kitamoto, K. Kaiser,W.G. Quinn, The amnesiac gene product is expressed in two neurons in the Drosophila brain that are critical for memory, Cell 103(2000) 805-813.   \n12] T. Tamura, A.S. Chiang, N. Ito, H.P. Liu, J. Horiuchi, T. Tully, M. Saitoe, Aging specifically impairs amnesiac dependent memory in Drosophila, Neuron 40 (2003)1003-1011.   \n[13]F. Mery, Aging and its differential effects on consolidated memory forms in Drosophila, Exp. Gerontol. 42(2007) 99-101.   \n[14] A. Tonoki, R.L. Davis, Aging impairs protein-synthesis-dependent long-term memory in Drosophila,J. Neurosci. 35 (2015) 1173-1180.   \n[15]G. Isabel,A. Pascual,T. Preat， Exclusive consolidated memory phases in Drosophila, Science 304 (2004) 1024-1027.   \n[16] G.J. Quirk, D.Pare,R. Richardson, C. Herry,M.H. Monfils,D.Schiller, A. Vicentic, Erasing fear memories with extinction training, J. Neurosci. 30 (2010) 14993-14997.   \n[17] M. Schwaerzel，M. Heisenberg，T. Zars，Extinction antagonizes olfactory memory at the subcellular level, Neuron 35 (2002) 951-960.   \n[18]H. Qin, J. Dubnau, Genetic disruptions of Drosophila pavlovian learning leave extinction learning intact, Genes. Brain Behav. 9 (2010) 203-212.   \n[19] A. Guo, L. Li, S.Z. Xia, C.H. Feng,R. Wolf,M. Heisenberg, Conditioned visual flight orientation in Drosophila: dependence on age, practice,and diet, Learn Mem. 3 (1996) 49-59.   \n[20] T. Tully, T. Preat, S.C. Boynton,M.D. Vecchio, Genetic dissection of consolidated memory in Drosophila, Cell 79 (1994) 35-47.   \n[21] R.A. Rescorla, C.D. Heth, Reinstatement of fear to an extinguished conditioned stimulus, J. Exp. Psychol. 104(1975) 88-96.   \n[22] M.E. Bouton,R.C. Bolles,Role of conditioned contextual stimuli in reinstatement of extinguished fear,J. Exp.Psychol. Anim.Behav. Process.5 (1979) 368-378.   \n[23] E. Folkers, S. Waddell,W.G. Quinn,The Drosophila radish gene encodes a protein required for anesthesia-resistant memory, Proc. Natl. Acad. Sci. U. S. A. 103 (2006) 17496-17500.   \n[24] S.E. McGuire,P.T. Le,R.L. Davis,The role of Drosophila mushroom body signaling in olfactory memory, Science 293(2001) 1330-1333.   \n[25] M.J. Krashes, A.C. Keene, B. Leung, J.D. Armstrong, S. Waddell Sequential use of mushroom body neuron subsets during drosophila odor memory processing,Neur0n 53 (2007) 103-115.   \n[26] S. Knapek, S. Sigrist, H. Tanimoto, Bruchpilot, a synaptic active zone protein for anesthesia-resistant memory, J. Neurosci. 31 (2011) 3453-3458.   \n[27] S.Knapek,B. Gerber，H. Tanimoto，Synapsin is selectively required for anesthesia-sensitive memory, Learn Mem. 17 (2010) 76-79.   \n[28] P.T. Lee, H.W. Lin, Y.H. Chang, T.F. Fu, J. Dubnau, J. Hirsh,T. Lee, A.S. Chiang, Serotonin-mushroom body circuit modulating the formation of anesthesiaresistant memory in Drosophila, Proc. Natl. Acad. Sci. U. S. A. 108 (2011) 13794-13799.   \n[29]Y. Aso,I. Siwanowicz,L. Bracker,K. Ito,T. Kitamoto,H. Tanimoto,Specific dopaminergic neurons for the formation of labile aversive memory, Curr. Biol. 20 (2010) 1445-1451.   \n[30] M.E. Bouton, Context,ambiguity，and unlearning: sources of relapse after behavioral extinction, Biol. Psychiat 52 (2002) 976-986.   \n[31] C.H. Lin, S.H. Yeh, H.Y.Lu, P.W. Gean, The similarities and diversities of signal pathways leading to consolidation of conditioning and consolidation of extinction of fear memory, J. Neurosci. 23 (2003) 8310-8317. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

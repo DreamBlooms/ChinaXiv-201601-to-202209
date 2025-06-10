@@ -1,0 +1,165 @@
+# 1986—2015年鄂尔多斯高原沙漠化及其驱动因素研究
+
+白壮壮，崔建新，丁晓辉（陕西师范大学西北历史环境与经济社会发展研究院，陕西 西安710119)
+
+摘要：本文以1986—2015年Landsat卫星影像为基础,利用多元线性逐步回归分析法,综合气候数据、人类活动数据建立模型,探讨30a来鄂尔多斯高原沙漠化过程及其驱动因素。研究结果表明： $\textcircled{1}$ 1986—2015 年鄂尔多斯高原沙漠化总体呈逆转趋势,并以2000年为转折点分为两个发展阶段：1986—2000年鄂尔多斯高原沙漠化面积维持在较高水平,尤其是高原西部、南部沙漠化较为严重;2001—2015 年沙漠化面积在波动中逐渐减少,减少区域集中在高原东部、南部，但2012年以后高原西部沙漠化面积又有轻微增长趋势。 $\textcircled{2}$ 年降水量与乡村人口数量是影响鄂尔多斯高原沙漠化过程最主要的驱动因素,其中降水量又与沙漠化关系最为密切,其他因素与沙漠化关系并不显著。
+
+关键词：沙漠化；驱动因素；多元线性回归；鄂尔多斯高原
+
+鄂尔多斯高原地处干旱、半干旱过渡区的农牧交错带，是沙漠化的典型区域之一。近几十年来，高原植被覆盖率提高，生态环境逐渐改善，其内部毛乌素沙漠被媒体称为即将“消灭”的沙漠。有学者认为，近几十年沙漠化逆转与人类一系列活动,如退耕还林还草等治沙工程有紧密联系[1-2];也有学者认为,沙漠化逆转主要原因是气候变化[3-4]。丰富的研究成果推进了鄂尔多斯高原沙漠化过程及机制的认识,但目前沙漠化研究成果中,30a以上的时间序列以5a或 $1 0 \mathrm { ~ a ~ }$ 为间隔,未能展示沙漠化具体细节；逐年时间序列能较好反映沙漠化详细过程，目前只有近15a 的沙漠化时间序列[5-7],所以,长时段沙漠化具体过程有待进一步研究。并且，已有研究运用的定量分析方法在沙漠化驱动力机制的解释方面存在不足[8],也影响了对沙漠化驱动机制的认识。因此，以时间序列较长、分辨率较高的Landsat卫星系列影像为基础，提取1986一2015年鄂尔多斯高原逐年沙漠化面积信息，可以在更长时段了解历年沙漠化的具体过程;同时，综合气候以及人类活动数据，利用多元线性逐步回归分析法,进一步探讨气候变化、人类活动在鄂尔多斯高原沙漠化过程中的相对作用，也为将来深入研究干旱区生态环境变化提
+
+供基础数据。
+
+# 1 研究区概况
+
+鄂尔多斯高原处于内蒙古、陕西省和宁夏的交界地带，主体部分位于鄂尔多斯市（图1）。为保持沙漠化区域的整体性，方便定量化处理与分析，本文的研究区域包括内蒙古鄂尔多斯市及陕西省榆林市$( 3 6 ^ { \circ } 4 9 ^ { \prime } \sim 4 0 ^ { \circ } 5 3 ^ { \prime } \mathrm { N }$ $1 0 6 ^ { \circ } 2 7 ^ { \prime } \sim 1 1 1 ^ { \circ } 2 7 ^ { \prime } \mathrm { E } { } ^ { \prime }$ ，总面积$1 . 3 \times 1 0 ^ { 5 } ~ \mathrm { k m } ^ { 2 }$ ,2018 年底常住人口为 $5 . 4 6 \times 1 0 ^ { 6 }$ 人。研究区分布有毛乌素沙地和库布齐沙漠，20世纪80年代以来，两片沙漠在乌审召与白音布拉格之间逐渐汇拢连成一片[9]。目前,沙漠总面积约 $6 \times 1 0 ^ { 4 }$ $ { \mathrm { k m } } ^ { 2 }$ 。鄂尔多斯高原属于温带大陆性季风气候，年平均气温由北部 $5 . 5 ~ \mathrm { ^ { \circ } C }$ 向南递增至 $9 . 6 ~ \mathrm { { ^ { 9 C } } }$ ,年平均降水量由东南 $4 9 0 ~ \mathrm { m m }$ 向西北递减到 $1 7 0 ~ \mathrm { m m }$ ,年蒸发量为 $2 ~ 0 0 0 \sim 3 ~ 0 0 0 ~ \mathrm { m m } ^ { [ 4 ] }$ ,主风向为偏西北风,平均风速 $2 . 1 \sim 3 . 3 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 [ 1 0 ] }$ 。研究区处于温带草原向荒漠草原过渡区域,是畜牧业向农业的过渡区和干旱、半干旱的气候过渡带[4],对气候变化与人类活动的响应较为敏感。
+
+![](images/039397eee4ad4fb0f4bfd95dfca6ee454f006118d249aea0ce0509c668adf479.jpg)  
+图1研究区示意图  
+Fig.1Schematic of the research region
+
+# 2 数据与方法
+
+# 2.1 数据来源与处理
+
+以Landsat系列卫星遥感影像（https://earthex-plorer.usgs.gov）作为鄂尔多斯高原沙漠化数据来源，包括1986—2011年TM影像、2012年ETM影像、2013—2015年0LI影像，影像空间分辨率为30m。选取影像时，主要选取每年植物生长较为茂盛的夏秋季节(6—9月)且云量小于 $10 \%$ 的影像,30a共240景。经过校正、镶嵌、裁剪等处理后，依据王涛等[1]划分的沙漠化土地分类系统,植被覆盖度 $\leqslant$ $2 5 \%$ 为沙漠化区域，植被覆盖度 $> 2 5 \%$ 为非沙漠化区域。首先利用遥感影像红光、近红外波段对鄂尔多斯高原逐年归一化植被指数(NDVI)进行计算。由于鄂尔多斯内部 $\mathrm { N D V I } _ { \mathrm { v e g } } \setminus \mathrm { N D V I } _ { \mathrm { s o i l } }$ 分别为0.91、$0 . 0 4 ^ { [ 5 ] }$ ,将其与研究区逐年NDVI代人植被覆盖度公式，即 $Y = \mathrm { ( N D V I - N D V I _ { s o i l } ) } / ( \mathrm { N D V I _ { v e g } - N D V I _ { s o i l } ) }$ ，提取植被覆盖度;最后依据植被覆盖度 $\leqslant 2 5 \%$ 的标准，提取鄂尔多斯高原沙漠化信息。
+
+研究区气候数据来源于中国气象数据网（http://data.cma.cn）,包括鄂托克旗、东胜、包头、临河、榆林、横山、定边、绥德等8个气象站点1986—2015年的年降水量、年平均气温和年平均风速等指标；相同时段的人类活动数据来源于榆林市、鄂尔多斯市的统计年鉴[11-12]及国民经济和社会发展统计公报（tjj.yl.gov.cn、tjj.ordos.gov.cn），包括鄂尔多斯市与榆林市历年乡村人口数量（榆林市2000—2012年乡村人口数量未进行统计，依据榆林市农业人口增长率换算）、耕地面积、牲畜数量（马、牛、驴、骡、羊)等指标。
+
+# 2.2 研究方法
+
+气候变化与人类活动作为现代沙漠化过程的两大驱动力已经得到公认，但在沙漠化过程中二者的相对作用问题仍然存在争议，其关键之一在于量化方法[13]。目前,沙漠化研究中较常用的定量分析方法有因子分析法、主成分分析法、线性回归分析法[8]。因子分析法、主成分分析法能以较少的因子或成分来反映原资料的大部分信息，但由于因变量不参与模型运算，容易割裂自变量与因变量的内在联系;线性回归分析法将自变量与因变量的复杂关系简化为线性关系，尽管该方法存在忽略非线性与空间差异的问题，但其坚实的数学基础与简便的特征使该方法在沙漠化研究中得到广泛应用。其中，多元线性逐步回归分析法可以观察自变量进入回归模型的顺序，并且可以排除相关性小的自变量，有助于观察每个自变量对因变量的贡献程度[14],可以较好地分析自变量与因变量的内在联系。因此，本文采用多元线性逐步回归的方法，利用气候数据、人类活动数据以及提取的沙漠化面积数据建立驱动力模型，对沙漠化驱动力机制进行分析。多元线性回归模型的一般形式如下：
+
+$$
+Y = a _ { 0 } + a _ { 1 } x _ { 1 } + a _ { 2 } x _ { 2 } + \cdots + a _ { n } x _ { n }
+$$
+
+式中：因变量 $Y$ 为鄂尔多斯高原沙漠化面积; $a _ { 0 }$ 是常数， $a _ { 1 } , a _ { 2 } , \cdots \ , a _ { n }$ 是指标变量 $X _ { 1 } , X _ { 2 } , \cdots , X _ { n }$ 的系数； $X$ 是自变量，即影响沙漠化的各个驱动因素，包括年平均气温 $\mathit { \Omega } ( T )$ 、年降水量 $( M )$ 、年平均风速$( \boldsymbol { W } )$ 、乡村人口数量 $( Q )$ 、耕地面积 $( S )$ 、牲畜量$( I ) { \mathfrak { ; } } n$ 表示进入回归模型的变量个数，文中变量个数为6个，其中年平均气温、年降水量、年平均风速为所有气象站平均值，而乡村人口数量、耕地面积、牲畜量为榆林、鄂尔多斯两市数值相加之和。利用$P < 0 . 0 5$ 的概率进入准则和 $P > 0 . 1$ 的概率退出准则，对自变量指标采用逐步进入的方法，建立沙漠化驱动力模型，结果分析使用IBMSPSS22执行。
+
+# 3结果与分析
+
+# 3.1 1986—2015 年鄂尔多斯高原沙漠化演变过程
+
+利用ENVI5.3对Landsat系列卫星影像进行处理，并且提取沙漠化面积数据，整理后得到1986—2015年鄂尔多斯高原沙漠化面积变化曲线（图2)及以5a为间隔的沙漠化土地空间分布图（图3）。
+
+![](images/c21a3d3b1f0aa501d8ad8417fcbbd7d82c2735d05bcd2ff07734e7cc8f76f8b1.jpg)  
+图2 1986—2015 年鄂尔多斯高原沙漠化面积变化Fig. 2 Trend pattern of desertification area in the OrdosPlateau from 1986 to 2015
+
+1986—2015年鄂尔多斯高原沙漠化面积总体趋势不断下降，表明沙漠化面积在波动中减少，这与Wang 等[3]对中国过去50a沙漠化趋势的研究结果相一致，说明近几十年来沙漠化逐渐逆转，环境得到改善。30a来鄂尔多斯高原沙漠化面积以2000 年为界，整体呈现先增加后减少的趋势。1986一2000年沙漠化面积平均值为 $9 . 2 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,沙漠化面积呈现缓慢增大趋势，平均增长率为 $6 1 0 . 5 9 ~ \mathrm { { k m } } ^ { 2 }$ ·$\mathrm { ~ a ~ } ^ { - 1 }$ ,1997 年沙漠化面积达到顶峰 $1 . \ 1 5 \times 1 0 ^ { 5 } \ \mathrm { k m } ^ { 2 }$ 。具体而言，1986—1994 年沙漠化面积处于波动状态，不同年份沙漠化面积增减不一，但沙漠化面积总体维持在较高水平；1994—2000年沙漠化面积又急剧发展,沙漠化面积最大增加了约 $1 . 9 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ，集中分布在库布齐沙漠西部与毛乌素沙漠南缘。有研究表明，1980年后土地联产承包责任制的实行扩大了耕地面积,增加了用水需求，促使鄂尔多斯沙漠化面积的增加[4]。2000 年以后鄂尔多斯高原沙漠化趋势开始发生明显逆转。2001—2015年鄂尔多斯高原沙漠化面积在波动中减少，减少的沙漠化土地主要分布在高原东部与南部。
+
+近15a沙漠化面积平均值为 $6 . 3 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,平均减少率为 $2 ~ 2 8 0 . 8 4 ~ \mathrm { k m } ^ { 2 } \cdot \mathrm { a } ^ { - 1 }$ ,2012 年为30a来沙漠化面积最低值 $4 . 2 7 \times 1 0 ^ { 4 } \ \mathrm { k m } ^ { 2 }$ 。其中,2000—2010 年为沙漠化大幅度逆转时期，与20 世纪90 年代相比沙漠化面积减少了近一半，但2004—2005年、2009—2010 年沙漠化面积有所增加。2010—2015年鄂尔多斯高原沙漠化面积平均值为 $5 . 4 1 \times$ $1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,处于30a来最低阶段，但2012年以后鄂尔多斯高原西部区域的沙漠化面积又出现增长趋势。总体来看，从1986年以来鄂尔多斯高原沙漠化土地面积呈现长期逆转的趋势。
+
+![](images/a2c2a870c133078958ad900e297a9b5807bb2f7422044620c582455ff4ca2ffe.jpg)  
+图31986—2015 年鄂尔多斯高原沙漠化土地空间分布
+
+Fig.3Spatial distribution map of desertification land in Ordos Plateau from 1986 to 2015
+
+![](images/a43d297778920362dae78ad8a01afab95eec10b2aae01a638b0ac83fe1fee8c9.jpg)  
+图41986—2015年鄂尔多斯高原沙漠化影响因子  
+Fig.4Desertification impact factors of the Ordos Plateau from 1986 to 2015
+
+# 3.2 沙漠化驱动因素
+
+3.2.1影响因子研究表明,在影响沙漠化的气候条件中，气温、降水和风力状况与沙漠化的关系最为密切[15],人口、土地承载力与沙漠化的关系研究也是沙漠化发生、发展研究的主要内容[16],气候变化与人类活动的双重作用对沙漠化产生了深远影响。因此，本文选择1986—2015年鄂尔多斯高原年平均气温、年降水量、年平均风速、乡村人口数量、耕地面积、牲畜量等因子作为沙漠化驱动力因素进行分析（图4）。
+
+1986—2015年，鄂尔多斯高原年平均气温为$8 . 6 5 ~ \mathrm { { ^ { \circ } C } }$ ,且在波动中呈逐渐上升趋势，增温速率为$0 . 2 4 \mathrm { ~ \textcircled { C } ~ } \cdot \mathrm { ~ ( ~ 1 0 a ~ ) ~ } ^ { - 1 }$ ,高于中国北方平均 $0 . 2 2 \mathrm { ~ \textdegree C }$ ·(10a) $^ { - 1 }$ 的增温速率[17]。气候变暖一方面有利于鄂尔多斯高原农业土地扩大，但也增加了农业生产的成本与风险[18],农业用水需求的增加可能会引发部分地区土地沙漠化。高原年降水量由东南向西北递减,平均值为 $3 2 5 . 4 6 \ \mathrm { \ m m }$ ,近30a内年降水量变化与沙漠化面积变化趋势具有较高的相似性。并且，降水年际变化波动剧烈，如2001年与2000 年相比，年降水量增加了 $1 7 4 . 9 5 ~ \mathrm { m m }$ 。研究区年平均风速为$2 . 4 1 \mathrm { ~ m ~ } \cdot \mathrm { ~  ~ s ~ } ^ { - 1 }$ ,其中1987 年平均风速为 $2 . 8 6 \mathrm { ~ m ~ }$ ：$\mathbf { s } ^ { - 1 }$ ,是30a来风速最大的年份。1988—2007年，年平均风速有明显的减弱趋势，同时期高原内大风日数、沙尘暴日数也呈减少趋势[19]。2007 年后,风速在波动中逐渐增强，但研究区大风日数、沙尘暴日数继续减少，原因可能是植被覆盖度的提高[20]
+
+30a来，鄂尔多斯高原乡村人口数量处于先增长后减少的状态，与沙漠化趋势相一致。1986—1990年为乡村人口增长阶段，平均增加 $1 . 1 6 \times 1 0 ^ { 4 }$ 人 $\cdot \mathrm { ~ a ~ } ^ { - 1 }$ ,1991—2015年，乡村人口处于减少阶段，人口平均减少 $5 . 3 1 \times 1 0 ^ { 4 }$ 人·a-',这是由于改革开放后城市化进程加快，乡村人口不断向城市涌入的结果。1986—2015年鄂尔多斯高原耕地面积经历了3个阶段，1985—1996年增加阶段，1997—2002年减少阶段,2003—2015 年再次增加阶段，平均耕地面积为 $9 \ 6 0 0 \ \mathrm { k m } ^ { 2 }$ 。2015 年耕地面积为30a来最大值,达到 $1 . 1 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ 。近年来研究区耕地面积不断增加，但由于新增面积大部分位于沙地、盐碱地,质量较差,使省内粮食产量出现净损失状况[21],对粮食安全产生一定影响。鄂尔多斯高原30a来平均每年牲畜数量有 $9 . 8 8 \times 1 0 ^ { 6 }$ 头,2000 年以前牲畜数量在波动中缓慢增长，2000一2009年急剧增长,2010 年后平稳增长,2014年达到 $1 . 4 2 \times 1 0 ^ { 7 }$ 头，数量为历年最多。
+
+3.2.2　驱动因素　利用鄂尔多斯高原1986—2015年的年平均气温 $( T )$ 、年降水量 $( M )$ 、年平均风速$( \boldsymbol { W } )$ 、乡村人口数量 $( Q )$ 、耕地面积（S）牲畜量 $( I )$ 等6个指标为驱动力因素，结合1986—2015年鄂尔多斯高原沙漠化面积 $( Y )$ ，通过多元线性逐步回归法建立数学模型，探讨鄂尔多斯高原沙漠化的驱动机制。经计算，逐步线性回归模型结果如下：
+
+$$
+Y = \mathrm { ~ - 0 . ~ } 2 M \mathrm { ~ + 0 . ~ } 2 3 Q \mathrm { ~ + 7 9 . ~ } 6 7
+$$
+
+$$
+R ^ { 2 } = 0 . 7 2 2 , P < 0 . 0 0 1
+$$
+
+模型的 $F$ 统计值为34.986（ $\textstyle P < 0 . \ 0 0 1 \ .$ ，说明多元线性逐步回归模型的结果令人满意。模型中输入了年降水量 $( M )$ 、乡村人口数量 $( Q )$ 两个指标变量，说明年降水量与乡村人口数量是影响鄂尔多斯高原沙漠化面积 $( Y )$ 的重要因素;其他指标变量，包括年平均气温 $( T )$ 、年平均风速 ${ \bf \Xi } ( \bf { \Lambda } \ )$ 、耕地面积 $( S )$ 、牲畜量 $( I )$ ,在模型分析中被排除，因为它们没有显示出与鄂尔多斯高原沙漠化面积(Y)显著的相关性，相关系数见表1。
+
+在模型中，年降水量 $( M )$ 的系数为-0.20，对鄂尔多斯高原沙漠化面积（Y)具有显著的负向影响，是沙漠化的抑制条件;而乡村人口数量(Q)的系数为0.23，它对沙漠化面积(Y)的影响是积极的，表明乡村人口数量是影响沙漠化面积的重要驱动因素。模型中影响沙漠化面积的两个重要因素，年降水量$( \ M )$ 的 $R ^ { 2 }$ 为0.427，乡村人口数量 $( Q )$ 的 $R ^ { 2 }$ 为
+
+# 表1模型相关系数表
+
+Tab.1Model correlation coefficient   
+
+<html><body><table><tr><td></td><td>系数</td><td>标准错误</td><td>统计T值</td></tr><tr><td>T</td><td>n</td><td>n</td><td>n</td></tr><tr><td>M</td><td>-0.20</td><td>0.03</td><td>-5.71</td></tr><tr><td>W</td><td>n</td><td>n</td><td>n</td></tr><tr><td>Q</td><td>0.23</td><td>0.04</td><td>5.34</td></tr><tr><td>S</td><td>n</td><td>n</td><td>n</td></tr><tr><td>1</td><td>n</td><td>n</td><td>n</td></tr><tr><td>常数</td><td>79.67</td><td>17.51</td><td>4.55</td></tr></table></body></html>
+
+注：n表示指标变量在模型中相关性不显著。
+
+0.295，说明年降水量与沙漠化面积变化的关系更紧紧密，乡村人口数量是沙漠化过程第二重要的因素。年降水量与乡村人口数量 $R ^ { 2 }$ 共为0.722，模型可以解释鄂尔多斯高原沙漠化面积变化的 $7 2 . 2 \%$ 。模型结果表明，降水量与乡村人口数量是影响1986—2015年鄂尔多斯高原沙漠化过程最主要的驱动力。前人研究认为1975—2000年人口数量对鄂尔多斯沙漠化的贡献率最大[4]，从年降水量与乡村人口数量曲线变化可以看出，乡村人口数量带来的压力是该时段沙漠化的重要因素；2000年以后沙漠化面积在波动中逐渐减少，除了城市化发展使乡村人口减少之外，降水量的波动增加也对沙漠化逆转有积极作用，如2001—2004年、2006—2008 年、2011—2015年，沙漠化面积较少时期也是降水量相对较多时期。2012年后年降水量逐年减少，鄂尔多斯高原地下水位也呈现逐年下降趋势[22],对沙漠化面积增加有一定影响。
+
+3.2.3讨论降水量对全球干旱区植被变化影响较大[23],也是影响鄂尔多斯高原沙漠化面积的主要气候因素。这一发现与蒙古高原、呼伦贝尔地区年际植被覆盖变化的驱动力因素相一致[24-25],说明降水量对干旱、半干旱气候过渡带的土地覆被影响都比较显著。冯坤等[4]认为，1975—2000 年鄂尔多斯高原内部毛乌素沙地的年平均气温、年平均风速也是沙漠化的重要驱动力，但本文研究发现，1986—2015 年鄂尔多斯高原沙漠化过程中年平均气温、年平均风速与沙漠化的相关性并不显著，原因可能是研究时段不一致，以及冯坤等利用的主成分分析未能考虑因变量的影响。
+
+人口数量、耕地面积、牲畜量被认为是影响沙漠化的人为因素。有研究表明，人口增长是牲畜数量、耕地面积变化的根本原因，也是沙漠化人为活动强度的内驱力[26]。在历史时期,人口数量就对鄂尔多斯高原沙漠化产生了重要影响[27]。近30a来鄂尔多斯高原乡村人口数量呈现先轻微增加后减少的趋势，整体与沙漠化面积呈现正相关的关系，说明乡村人口数量是引起沙漠化的重要因素，因此，保持乡村人口数量与生态环境协调发展是防治沙漠化的重要途径之一。除了人口数量外，过度开垦、过度放牧等人类活动也被认为是影响沙漠化的重要因素[28]但在本文的模型中，耕地面积与牲畜量并没有显示出与沙漠化的紧密关系，可能原因在于两个方面，一是近30a耕地面积变化中，2005年以前耕地面积减少以榆林市南部的黄土高原退耕还林还草为主体[29],与鄂尔多斯高原沙漠化关系不大,影响了模型中耕地面积与沙漠化的相关性;另一方面是由于现代牲畜的饲养有很大一部分是圈养方式，对草场影响较轻，并且市场销售价格、饲养成本等因素也对牲畜存栏数量有重要影响[30]
+
+此外，政策导向也对植被覆盖与沙漠化有较大影响[31-32]。1980 年开始实行的土地联产承包责任制及2000年开始实施的围封禁牧、退耕还林还草政策，使鄂尔多斯高原沙漠化面积经历了先轻微增加后减少的过程；近年来，国家和地方耕地占补平衡政策及中央连续多年发布关于“三农”的“一号文件”等[33],鄂尔多斯高原地区耕地面积开始扩大,林地和草地面积显著减少[34],也间接导致了近年来鄂尔多斯高原沙漠化面积有所增加，所以，政策导向对沙漠化的影响不容忽视。
+
+# 4结论
+
+（1）1986—2015年鄂尔多斯高原沙漠化总体呈逆转趋势，并以2000年为转折点分为两个发展阶段：1986—2000 年鄂尔多斯高原沙漠化面积在波动中维持较高水平，尤其是高原西部、南部沙漠化较为严重;2001一2015年沙漠化面积呈现逐渐减少趋势，减少区域集中在高原东部、南部，2010年后沙漠化面积处于30a中最低水平，但2012年以后高原西部沙漠化面积又出现一定增长趋势，所以，未来还需要继续关注鄂尔多斯高原环境变化。
+
+（2）通过逐步线性回归分析，年降水量与乡村人口数量是影响鄂尔多斯高原沙漠化过程最主要的驱动因素。在1986一2015年，年降水量对鄂尔多斯高原沙漠化过程具有抑制作用，而乡村人口数量对沙漠化过程起加速作用，其中降水量又与沙漠化关系最为密切，乡村人口数量次之，其他因素与沙漠化大系升不亚者。
+
+参考文献（References）:   
+[1］罗君,许端阳,任红艳.2000—2010 年鄂尔多斯地区沙漠化动 态及其气候变化和人类活动驱动影响的辨识[J].冰川冻土， 2013,35(1）:48-56.[Luo Jun,Xu Duanyang,Ren Hongyan. The desertification dynamics in Ordos from 20oO to 201O and the relationship with climate change and human activities[J].Journal of Glaciology and Geocryology,2013,35（1）:48 -56.]   
+[2］李晓岚.毛乌素沙地沙漠化逆转过程及成因分析［D].西安： 陕西师范大学,2O17.［Li Xiaolan.Analysis of Reverse Process and Cause of Desertification in Mu Us Sandy land[D]. Xi'an: Shaanxi Normal University,2017.]   
+[3]Wang Xunming,Yang Yi,Dong Zhibao,et al. Responses of dune activityand desertification in China to global warming in the twenty first century[J]. Global and Planetary Change,20o9,67:167 - 185.   
+[4］冯坤,颜长珍,谢家丽,等.1975—2015 年鄂尔多斯市沙漠化的 时空演变过程[J].中国沙漠,2018,38（2）:233-242.[Feng Kun,Yan Changzhen,Xie Jiali,et al.Spatial temporal evolution of aeolian desertification process in Ordos City during 1975- 2015 [J]. Journal of Desert Research,2018,38(2）:233 -242.]   
+[5］黄永诚.2000—2010 年毛乌素沙地植被覆盖度和土地利用的 变化研究［D].兰州：兰州交通大学,2014.［Huang Yongcheng. Research on the Variation of Vegetation Coverage and Land Utilization of Mu Us Sand land in 200o-201O[D].Lanzhou: Lanzhou Jiaotong University,2014.]   
+[6］张希彪,张多勇,上官周平,等.1949—2013 年甘肃省环县土地 沙漠化驱动因素研究［J].干旱区资源与环境,2016,30（1）： 130-135.[Zhang Xibiao,Zhang Duoyong,Shangguan Zhouping, et al.Temporal variation of driving factors for land desertification in Huan county of gansu province from 1949 to 2O13[J]. Journal of Arid Land Resources and Environment,2016,30(1):130-135.]   
+[7］马静宇.基于 MODIS 植被丰度的沙漠化遥感界线提取方法研 究[D].杭州:浙江大学,2018.[Ma Jingyu.Estimating the Desertification Boundary of Remote Sensing Using Vegetation Abundance Derived from MODIS data Based on Pixel Unmixing[D].Hangzhou : Zhejiang University,2018.]   
+[8］许端阳.气候变化和人类活动在沙漠化过程中相对作用的定 量研究——以鄂尔多斯高原为例[D].南京：南京农业大学， 2009.[ Xu Duanyang. Quantitative Assessment of the Relative Role of Climate Change and Human Activities in Sandy Desertification : A case Study in Ordos Plateau,China[D].Nanjing:Nanjing Agricultural University,2009.]   
+[9］方修琦.陕北及鄂尔多斯地区降水变化与沙漠化[J].北京师 范大学学报（自然科学版）,1987（1）:90－95.［Fang Xiuqi. Precipitation change and desertification in the region of Northern
+
+Shaanxi and Ordos[J]. Journal of Beijing Normal University(Natural Science Edition）,1987(1) :90-95.]
+
+[10］王涛,杨梅焕,徐澜.陕西榆林地区植被退化与沙漠化趋势分析[J].西北师范大学学报（自然科学版），2017，53（2）：104-111.［Wang Tao,Yang Meihuan,Xu Lan.Vegetation degradationand desertification in Yulin area of Shaanxi Province[J]. JournalofNorthwest Normal University（Natural Science Edition）,2017,53(2):104-111.]
+
+[11］鄂尔多斯市统计局.鄂尔多斯统计年鉴2015［M].北京：中国 统计出版社,2016:78-87.［Ordos City Statistics Bureau.Ordos Statistical Yearbook 2O15[M].Beijing:China Statistics Press, 2016:78-87.]
+
+[12］榆林市统计局.榆林统计年鉴2015[M].北京：中国统计出版 社,2016:59-65.［Yulin City Statistics Bureau.Yulin Statistical Yearbook 2015[M].Beijing:China Statistics Press,2016:59- 65.]
+
+[13］王涛.我国沙漠化研究的若干问题2.沙漠化的研究内容［J].中国沙漠,2003,23（5）:477-482.[Wang Tao.Study on sandydesertification in China:2.Contents of desertification research[J].Journal of Desert Research,2003,23(5):477-482.]
+
+[14]Tang Xia,Zhao Yan,Zhang Zhiqiang,et al.Cultivated oasis evolution in the Heihe River Basin over the past 2,OOO years[J].Land Degradation and Development,2018,29（8）:2254-2263.
+
+[15］董光荣，申建友，金炯.试论全球气候变化与沙漠化的关系 [J].第四纪研究,1990,10（1）:91-98.［DongGuangrong,Shen Jianyou,Jin Jiong.On the relationship between the global climate change and desertification[J].Quaternary Sciences,199o,10(1）： 91-98.]
+
+[16］朱震达，王涛.从若干典型地区的研究对近十余年来中国土地沙漠化演变趋势的分析［J].地理学报，1990，45（4）：430-440.［Zhu Zhenda,Wang Tao.An analysis on the trend of land de-sertification inNorthern Chinaduring thelast decadebased on ex-amples from some typical areas[J].Acta Geographica Sinica,1990,45(4) :430 -440.]
+
+[17］杜华明，延军平，王鹏涛.北方农牧交错带干旱灾害及其对暖 干气候的响应[J].干旱区资源与环境，2015，29（1)：124- 128.［Du Huaming,Yan Junping,Wang Pengtao.The drought disaster and its response to the warming-drying climate in the farmingpastoral ecotones in northern China[J]. Journal of Arid Land Resources and Environment,2015,29（1):124-128.]
+
+[18］张翼超.鄂尔多斯地区气候变暖的现状分析及其对农作物种植的影响[J].内蒙古气象,2017（1）：28-31.［ZhangYichao.Analysis of the current situation of Ordos climate warming and itseffects on crop planting[J].Meteorology Journal of Inner Mongo-lia,2017(1):28-31.]
+
+[19］张彩云.鄂尔多斯市近46年大风沙尘变化特征研究[J].内蒙古科技与经济,2017(20）：46-47.［Zhang Caiyun.Study on thecharacteristics of gale and dust change in Ordos City in recent 46years[J].Inner Mongolia Science Technology and Economy,2017(20):46-47.]
+
+[20］贺文丽，李星敏，王卫民，等.陕西大风时空分布及变化特征 [C]//中国气象学会.第29届中国气象学会年会论文集.北 京：中国气象学会,2012:326-332.［He Wenli,Li Xingmin, WangWeimin,et al.Temporal spatial distribution and variation characteristics of strong winds in Shaanxi[C]//Chinese Meteorological Society.Proceedings of the 29th Annual Meeting of Chinese Meteorological Society.Beijing:Chinese Meteorological Society, 2012:326 -332.]
+
+[21］唐亚平.陕西省耕地数量质量时空变化与粮食生产保障研究 [D].西安:西北大学,2014.[Tang Yaping.Research on Temporal and Spatial Change of Arable Land and Grain Production Security in Shaanxi Province[D].Xi'an:Northwest University,2014.]   
+[22］石辉,刘秀花,陈占飞,等.陕北榆林毛乌素沙地大规模土地整 治开发的生态环境问题及其对策［J].生态学杂志,2019,38 (7）:2228-2235.[Shi Hui,Liu Xiuhua,Chen Zhanfei,et al. Eco-environmental problemsand their solution strategy forlargescale land consolidation and development in Mu Us Sandy Land of Yulin in North Shaanxi[J].Chinese Journal of Ecology,2019,8 (7) :2228 -2235. ]   
+[23］郑艺,张丽,周宇,等.1982—2012年全球干旱区植被变化及驱 动因子分析[J].干旱区研究,2017,34（1）：59-66.[Zheng Yi,ZhangLi,Zhou Yu,etal.Vegetation change and its driving factors in global drylands during the period of 1982—2012[J].Arid Zone Research,2017,34(1) :59 -66.]   
+[24］包刚,覃志豪,包玉海,等.1982—2006 年蒙古高原植被覆盖时 空变化分析[J].中国沙漠,2013,33（3）：918-927.［Bao Gang,Qin Zhihao,Bao Yuhai,et al.Spatial-temporal changes of vegetation cover in Mongolian Plateau during 1982- 2006[J]. Journal of Desert Research,2013,33(3）:918-927.]   
+[25] Zhang Geli,Xu Xingliang,Zhou Caiping,et al. Responsesof grassland vegetation to climatic variations on diferent temporal scales in Hulun Buir Grassland in the past 3O years[J].Journal of Geo graphical Sciences,2011,21(4） :634 -650.   
+[26］杨永梅,郭志林,杨改河.人类活动对现代毛乌素沙地沙漠化 的驱动作用[J].安徽农业科学,2010,38（31）：17688－17690. [Yang Yongmei,Guo Zhilin,Yang Gaihe.Driving action of human activities on desertification of present Mu Us Sandy Land[J]. Journal of Anhui Agricultural Sciences,2010,38（31）：17688- 17690.]   
+[27］何彤慧.毛乌素沙地历史时期环境变化研究［D].兰州：兰州 大学,2008.［He Tonghui.The Environment Change of Mu Us Desert in Historical Period[D].Lanzhou: Lanzhou University, 2008.]   
+[28］朱震达.中国的沙漠化及其治理[M].北京：科学出版社, 1989:60.［Zhu Zhenda.Desertification and Its Control in China [M]. Beijing:Science Press,1989:60.]   
+[29］杨述河,闫海利,胡业翠.陕北榆林市耕地变化的驱动机制及 其情景分析[J].地域研究与开发,2005,24(6）:72-75.［Yang Shuhe,Yan Haili,Hu Yecui.Driving forces of farmland change and its scenario analysisof Yulin City in Northern Shaanxi Province
+
+[J].Areal Research and Development,2005,24(6）:72-75.][30］马梅,乔光华,周杰,等.牧区羊年末存栏规模的影响因素分析——以锡林郭勒盟为例[J].农林经济管理学报，2015，14(5）:50O-5O7.[Ma Mei,Qiao Guanghua,Zhou Jie,et al.Influen-cing factors on sheep inventory in pastoral areas：A case study ofXilinguole[J]. Journal of Agro-Forestry Economics and Manage-ment,2015,14(5):500-507.]
+
+[31］牟乐，芦奕晓,杨慧敏，等.1981—2015年中国中国西北牧区植被覆盖的时空变化[J].干旱区研究，2018,35（3)：615-623.[MouLe,Lu Yixiao,YangHuimin,et al.Spatiotemporal variationof vegetation cover in the pastoral area in Northwestern China dur-ing the period of 1981-2015[J].Arid Zone Research,2018,35(3):615-623.]
+
+[32］李建飞,李小兵，周义.2000—2015年乌兰察布市生长季 NDVI时空变化及其影响因素[J].干旱区研究，2019,36(5)：1238-1249.［Li Jianfei,Li Xiaobing,Zhou Yi. Spatiotemporal variation ofNDVI and its affecting factors in Ulanqab City in growing seasonfrom 2000 to 2015[J].Arid Zone Research,2019,36(5）:1238-1249.]
+
+[33］赵永华，刘晓静，奥勇.陕西省耕地资源变化及耕地压力指数 分析与预测[J].农业工程学报，2013，29（11）：217－223. [Zhao Yonghua,Liu Xiaojing,Ao Yong.Analysis of cultivated land change,pressure index and its prediction in Shaanxi province[J]. Transactions of the Chinese Society of Agricultural Engineering, 2013,29(11) :217 -223.]   
+[34]Li Sen,Wang Tao,Yan Changzhen.Assessing the role of policies on land use/cover change from 1965 to 2015 in the Mu Us Sandy Land,Northern China[J].Sustainability,2017,9:1-18.
+
+# Desertification and its driving factors in the Ordos Plateau,from 1986 to 2015
+
+BAI Zhuang-zhuang， CUI Jian-xin， DING Xiao-hui (Northwest Institute of Historical Environment and Socio-Economic Development,Shaanxi Normal University, Xi'an 710119,Shaanxi,China)
+
+Abstract：The Ordos Plateau is a typical area undergoing desertification in China.The desert areas of the Ordos Plateau between 1986 and 2015 were derived fromremote sensing analysisand relationships between desertification area and potential driving factors,including climate and human activity,were analyzed using multivariate linear stepwise regresion analysis.The results showthat:（1）The year 2OOO was the turning point at which the desertification of the Ordos Plateau first increased and then decreased.From 1986 to 2OO0,the Ordos Plateaushowed general desertification expansion,especialyinthe west and south；during 2O0l-2O15,the desertification area gradually decreased,with reduction mostlyoccurring intheeasternand southem parts of the plateau.After2O12,desertareas increasingly developed in the western partof the plateau.（2）Among the driving factors influencing the desertification of the Ordos Plateau,precipitation and populationare the most significant,with precipitation being most closelyrelated todesertification.Other factorsshowno significant relation to desertification.From1986 to 2015,increased precipitation contributedtothereversal of desertification,whiletheriseofrural populationacceleratedthedesertification process.
+
+Key words:desertification; driving factors ；multiple linear regression； Ordos Plateau

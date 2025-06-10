@@ -1,0 +1,341 @@
+# 一种基于秘密分享的高质量(k,n)可视加密算法
+
+丁海洋1,2
+
+(1．北京印刷学院 信息工程学院，北京 102600;2.北京邮电大学 信息安全中心，北京 100876)
+
+摘要：(k，n)可视加密算法是一种重要的信息隐藏算法。应用 Shamir秘密分享的概念，将一幅二进制秘密图像隐藏在n幅分享图像中，通过在分享过程中增加随机性控制，保证生成的分享图像是接近噪声图像的无意义图像。从n幅无意义分享图像中，任意选取k幅分享图像，使用拉格朗日插值可提取秘密图像。该算法应用Shamir秘密分享来实现(k，n)可视加密，不需要码书，不会造成无限制的像素扩展。实验结果显示，该算法能实现(k，n)可视加密，提取秘密图像的提取正确率能保证 $100 \%$ 。
+
+关键词：Shamir秘密分享；(k，n)可视加密；拉格朗日插值 中图分类号：TP309.2 doi:10.3969/j.issn.1001-3695.2017.12.1044
+
+# High quality $( \mathrm { k , n } )$ visual cryptography based on secret sharing
+
+Ding Haiyang1, 2 (1.CollegeofIformationEngineeing,BijingInstituteofGraphicCommunication,Beijing260,China;2.Infortion Security Center,Beijing University ofPosts& Telecommunications,Beijing10o876,China)
+
+Abstract: $( \mathsf { K } , \mathsf { n } )$ visual ryptography is an important data hiding algorithm. Using Shamir's secret sharing,a binary secret image can be shared inton meaninglesshares,inordertomake the generated shares mor like noise images,ading therandomess within the processof sharing.Picking any k shares from n meaninglesshares,the secret image can be revealed by using Lagrange interpolation. This paper applied Shamir's secret sharing to realize a $( \mathbf { k } , \mathtt { n } )$ visual cryptography, and this method neither required code book nor sufers from pixel expansion.Experimental results show the proposed method can realize a $( \mathbf { k } , \mathbf { n } )$ visual cryptography, and correct decoding rate (CDR) of revealed secret image can be guaranteed.
+
+ey words:Shamir's secret sharing; $( \mathbf { k } , \mathbf { n } )$ visual cryptography; Lagrange interpolation
+
+# 0 引言
+
+可视加密(VC)的概念最早出现在Naor 和 Shamir 的文献[1]中。这里提出一个 $( \mathbf { k , n } )$ VC 的概念，即将一幅秘密图像隐藏在n 幅图像中，任意取得k幅图像，则可提取出秘密图像。在文献[2,3]中提出扩展可视加密的算法；Hou等人[4提出一种友好的可视加密，将秘密图像隐藏在两幅图像中；Yan等人[5提出一种基于纠错码的信息隐藏算法。以上算法[1\~5]都属于基于像素扩展的可视加密，这类算法实现简单，并可产生无意义的分享图像，但是它的主要缺点是像素扩展和需要码书，随着用户数的增加，分享图像的分辨率将会被扩大很多倍。
+
+基于随机网格的可视加密，即采用随机网格技术产生无意义分享图像，不会造成像素扩展。Kafri等人[给出随机网格的最初概念，并提出三种信息隐藏的方法。Chen 等人[7提出(2,n)情况下的基于随机网格的可视加密；Chen 等人在文献[8]中提出(k,n)情况下的基于随机网格的可视加密。文献[9,10]则描述基于随机网格的可视加密的通用形式。Ou等人[1提出一种基于随机网格的标签可视加密。Yan等人[12]提出一种基于随机网格的可视秘密分享算法，该算法采用通用接口结构和多重解密。Rabari等人[13]提出扩展的 $( 2 , \mathrm { m , n } )$ 随机网格可视加密算法，该算法可以应用到灰度和彩色图像。基于随机网格的可视加密[6\~13],主要优点是不需要码书，不会造成像素扩展，可以生成无意义分享图像；但是这类算法的主要缺点是提取的秘密图像对比度太低，很多情况下对比度低于1/10，很难提取出一幅清晰的秘密图像。
+
+近年来，基于图像分块的可视加密逐渐称为一个新的研究方向。Hou等人[14]提出一种基于图像分块的 $( 2 , \mathfrak { n } )$ 可视加密算法，一幅秘密图像可以被分解为n个不相重叠的图像块，基于这些图像块生成n幅分享图像，只要获取任意 $\mathbf { k } ( 2 \leq \mathbf { k } \leq \mathbf { n } )$ 个分享，则可提取出部分图像块。但是Hou等人的算法[14]可能会发生欺骗问题。Hou 等人[15]提出一种欺骗免疫的基于图像分块的 $( 2 , \mathfrak { n } )$ 可视加密算法。另外，Roy等人[1提出一种(3,4)秘密图像分享，将秘密图像中每个 $2 { \times } 2$ 的图像块，分解为4种组合，分享到4个分享图像中，只要获取任意3个分享，则可恢复出秘密图像。
+
+基于图像分块的可视加密[14\~16]，主要优点是不需要码书和计算复杂度低，并能产生无意义分享图像；但是其主要缺点是，k个分享只能恢复秘密图像的一部分，假如n的数目发生变化，需要对秘密图像进行重新分块。
+
+通过表1列出各类可视加密算法的比较。
+
+表1不同可视加密(VC)算法的对比  
+
+<html><body><table><tr><td>算法名称和参 优点 (+) 考文献</td><td>缺点(-)</td></tr><tr><td>基于像素扩展 + 低计算复杂度</td><td>-像素扩展</td></tr><tr><td>的VC [1-5]</td><td>-需要码书</td></tr><tr><td>基于随机网格＋没有像素扩展 的VC[6-13]+ 不需要码书</td><td>-提取秘密图像的对比度太低</td></tr><tr><td></td><td>-很难提取清晰的秘密图像</td></tr><tr><td>基于图像分块＋不需要码书</td><td>-k 个分享只能恢复部分秘密图 像</td></tr><tr><td>的 VC[14-16]＋低计算复杂度</td><td></td></tr><tr><td></td><td>-假如n的数目发生变化，需要 对秘密图像进行重新分块。</td></tr></table></body></html>
+
+本文的目标是研究一种高质量 $( \mathbf { k , n } )$ 可视加密算法，该算法不需要码书，不会造成无限制的像素扩展。本文使用Shamir秘密分享的概念为基础，一个秘密数据D可分享为n块数据，任意选取n块数据，则可以恢复数据D。
+
+本文提出一种基于 Shamir 秘密分享的高质量 $( \mathbf { k , n } )$ 可视加密算法。使用该算法，将一幅二进制秘密图像隐藏在n幅分享图像中，通过在分享过程中增加随机性控制，保证生成的分享图像是接近噪声图像的无意义图像。从n幅无意义分享图像中，任意选取k幅分享图像，使用拉格朗日插值可提取秘密图像。
+
+# 1 Shamir秘密分享
+
+在 Shamir的文献[17]中，提出一种 $( \mathbf { k , n } )$ 门限秘密分享算法。将一个秘密信息D，生成 $\mathfrak { n }$ 个分享数据 $\mathbf { D } _ { 1 } , . . . , \mathbf { D } _ { \mathrm { n } }$ ，从这 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 个分享中，任意取得 $\mathbf { k }$ 个数据，可计算得到原始数据 $\mathrm { ~ D ~ }$ 。具体过程：
+
+定义一个k-1次多项式 $q ( x )$ ，如式（1）所示。另 $\mathrm { \ a _ { 0 } = D _ { \ell } }$ ，任意选取系数 $\mathbf { a } _ { 1 } , . . . , \mathbf { a } _ { \mathrm { k - l } }$ ，对 $\mathfrak { n }$ 个输入值 $\mathbf { \sigma } _ { \mathbf { X } 1 , \ldots , \mathbf { X } _ { \mathrm { n } } }$ ，分别计算$\mathrm { D _ { 1 } { = } q ( x _ { 1 } ) , . . . , D _ { n } { = } q ( x _ { n } ) }$ ，可产生 $\mathfrak { n }$ 组分享数据 $( \mathrm { x } _ { 1 } , \mathrm { D } _ { 1 } ) , . . . , ( \mathrm { x } _ { \mathrm { n } } , \mathrm { D } _ { \mathrm { n } } )$ ，只要获取 $\mathbf { k }$ 组分享数据，可通过计算拉格朗日插值得到秘密数据D。
+
+$$
+q ( x ) = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + a _ { 3 } x ^ { 3 } + \ldots + a _ { k - 1 } x ^ { k - 1 }
+$$
+
+需要注意四个问题：
+
+a)选择一个素数 $\mathfrak { p }$ ， $\mathrm { D } , \mathrm { a } _ { 1 } , . . . , \mathrm { a } _ { \mathrm { k } - 1 }$ 和 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 的数据范围都是[0,p);
+
+b)分享数据 $\mathbf { X } \mathrm { i }$ 和 $\mathrm { \ y _ { i } }$ 的数据范围也在 $[ 0 , \mathfrak { p } )$ ，所以计算 $\mathrm { \ y _ { i } }$ 时需要modp;
+
+c)如果秘密数据D很大，可将数据D分为多个mbit构成的分块数据；
+
+d)对不同的秘密数据D，可使用不同多项式生成分享数据。
+
+# 2使用Shamir秘密分享实现秘密图像分享
+
+参考 Shamir 秘密分享[17]，一幅秘密图像不能直接作为一个秘密数据，必须先被分解为多个mbit分块。每个mbit的分块作为一个秘密数据D,使用一个 $\mathbf { k } { - } 1$ 次的多项式 $\operatorname { f } ( \mathbf { x } )$ ，另 $\mathrm { \ a _ { 0 } = D }$ 分别计算 $\scriptstyle \operatorname { y  i } = \operatorname { f } ( \mathbf { x } _ { \mathrm { i } } )$ ，产生 $\mathfrak { n }$ 组分享数据 $( \mathbf { x } _ { 1 } , \mathbf { y } _ { 1 } ) , . . . , ( \mathbf { x } _ { \mathrm { n } } , \mathbf { y } _ { \mathrm { n } } )$ ，将 $\mathfrak { n }$ 组分享数据分别存到 $\mathfrak { n }$ 幅分享图像的对应位置。在整幅秘密图像上完成以上分享过程后，可生成 $\mathfrak { n }$ 幅分享图像。
+
+但是，实现这个分享过程中，需要注意以下三个问题：
+
+a）数据位数 $\mathbf { m }$ 的选择;  
+b）主要数据的范围;  
+c）增加随机性控制。
+
+# 2.1数据位数m的选择
+
+将 mbit数据作为一个秘密数据D,则D的范围是 $[ 0 , 2 ^ { m } \cdot I ]$ 用户数目n需要小于等于 $2 ^ { m _ { - } } I$ 。那么，如何选择数据位数 $\mathbf { m }$ 呢？
+
+从安全角度，数据位数越大越安全，但由于半色调信息隐藏中，存在一定误码，如果数据位数 $\mathbf { m }$ 太大，会造成整体秘密图像的误码率太高；如果数据位数 $\mathbf { m }$ 太小，则可容纳的用户数$\mathbf { n }$ 会很小。所以，在本文中，选择数据位数 $\mathrm { m } { = } 4$ ，即每4bit数据为一个秘密数据D，则D的范围是 $[ 0 , I 5 ]$ 。
+
+# 2.2 主要数据的范围
+
+a）因为 $\mathrm { m } { = } 4$ ，所以ao范围为[0,15];b）p是一个素数，而且 $\mathsf { p } { > } 2 ^ { \mathrm { m } _ { - } } \mathsf { l }$ ，所以 $\mathsf { p } { = } 1 7$ c） $\mathbf { X } _ { \mathrm { i } }$ 的范围是[0,15]，但是 $\mathbf { \delta x } _ { \mathrm { i } } { = } 0$ 时， $\mathtt { y } _ { \mathrm { i } } { = } \mathtt { a } _ { 0 }$ ，表示ao没有被隐藏，因此 $\mathbf { \boldsymbol { x } } _ { \mathrm { i } } \neq \mathbf { \boldsymbol { 0 } }$ ，所以 $\mathbf { X } _ { \mathrm { i } } ^ { \mathrm { { } } }$ 范围为[1,15];d）yi的范围是[0,15];e）用户数目 $\mathfrak { n }$ 小于等于15， $\mathbf { k }$ 则小于 $\mathfrak { n }$
+
+# 2.3无随机性控制下的秘密图像分享
+
+2.3.1无随机性控制下的秘密图像分享过程
+
+结合2.1和2.2节给出无随机性控制下的秘密图像分享流程，如图1所示，通过分享过程，可将一幅秘密图像S分享为$\mathfrak { n }$ 幅无意义分享图像。具体流程如下：
+
+a）生成一个k-1次多项式 $\operatorname { f } ( \mathbf { x } )$ 。
+
+b）使用多项式 $\operatorname { f } ( \mathbf { x } )$ 生成多组可选数据，并选择可用数据。
+
+(a)由2.2节已知， $\mathbf { a } _ { 0 }$ 范围为 $[ 0 , I 5 ]$ ， $\mathbf { X } _ { \mathrm { i } }$ 的范围为[1,15]，yi的范围为[0,15]，且 $\mathsf { p } { = } 1 7$ 。
+
+(b)使用式(2)，分别带入 $\mathbf { \sigma } _ { \mathbf { X } _ { i } }$ 的15个值，计算生成15组数据 $\mathrm { ( x _ { i } , y _ { i } ) }$ 。
+
+$$
+y = ( a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + a _ { 3 } x ^ { 3 } + . . . + a _ { k - 1 } x ^ { k - 1 } ) { \bmod { p } }
+$$
+
+(c)因为数据位数 $\mathrm { m } { = } 4$ ，需要使用式(3)去除 $\scriptstyle \mathbf { y } _ { \mathrm { i } } = 1 6$ 的数据：
+
+$$
+\left\{ \begin{array} { l l } { ( x _ { i } , y _ { i } ) \ { \overline { { \mathbb { H } } } } \mathbb { H } } & { y _ { i } \neq 1 6 } \\ { ( x _ { i } , y _ { i } ) \ { \overline { { \operatorname { H } } } } \mathbb { H } } & { y _ { i } = 1 6 } \end{array} \right.
+$$
+
+(d)对可用数据，使用式（4）计算NumofOnei。NumofOnei表示第i组数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ 中比特值为1的数目，将可用数据根据NumofOnei-4的数值从小到大排序，选择前n组数据，作为分享数据。排序的目的：在可用数据中优先选择0和1数目相等的数据，这样生成的分享图像更接近于无意义图像。
+
+(e)通过以上过程，得到的数据结构形式： $a r r a y ( a _ { 0 } , x _ { i } , y _ { i } )$ ，其中 $\mathrm { i } { = } 1 { : } \mathrm { n }$ ，表示对每个ao值对应的 $\mathfrak { n }$ 组分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ 。
+
+$$
+N u m o f O n e _ { i } = \sum _ { b = 0 } ^ { 3 } g e t b i t ( x _ { i } , b ) + \sum _ { b = 0 } ^ { 3 } g e t b i t ( y _ { i } , b )
+$$
+
+c）秘密图像S分辨率为 $W { \times } H$ ，将S分解为 $W / 4 { \times } H$ 组4bit数据，每组4bit数据 $\operatorname { B } _ { \mathrm { i , j } }$ 作为一个秘密数据D，其中 $\scriptstyle \mathrm { i = } 0 \colon ( \mathrm { W } / 4 -$ 1)， $\mathrm { j = 0 } { : } ( \mathrm { H - 1 } )$ ，使用式（5）计算 $\mathrm { \Delta B _ { i , j } }$ 对应的秘密数据值 $\mathrm { S _ { i , j } }$ 。
+
+$$
+S _ { i , j } = \sum _ { b = 0 } ^ { 3 } B _ { i , j } ( b ) \times 2 ^ { b }
+$$
+
+d）另 $\mathrm { \ a _ { 0 } { = } S _ { i , j } }$ ，从b）中的 $a r r a y ( a _ { 0 } , x _ { i } , y _ { i } )$ 数组中找到当前ao值对应的 $\mathfrak { n }$ 组数据 $\mathrm { ( x _ { i } , y _ { i } ) }$ ，将 $\mathfrak { n }$ 组数据分享到 $\mathfrak { n }$ 个分享图像对应位置，即将 $\left( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } \right)$ 分解为8bit二进制数，生成第i个分享图像对应位置的像素。
+
+e)通过上述过程，将一幅秘密图像S分享为 $\mathfrak { n }$ 幅无意义分享图像，每幅分享图像分辨率为 $2 W \times H _ { \circ }$
+
+![](images/c3122d8e25d41fe7f855951f6ecd11e16134d8a38a6600726cf362778db001f7.jpg)
+
+# 2.3.2秘密图像分享的实现效果
+
+图2为秘密图像S，图像分辨率均为 $2 5 6 \times 2 5 6$ 。
+
+使用 2.3.1节中的方法，以图2(a)为秘密图像 S，实现(3,4)分享模型，即将秘密图像S分享到4幅分享图像中，获取任意3幅分享图像，则可恢复秘密图像S。具体过程如下：
+
+BUPT BIGC BUPT BIGC (a) BUPT (b) BIGC
+
+a）生成一个二次多项式，设 $\mathtt { a } _ { 1 } = 1 , \mathtt { a } _ { 2 } = 2$ ，则多项式$\scriptstyle \mathbf { f } ( \mathbf { x } ) = \mathbf { a } _ { 0 } + 1 \ast \mathbf { x } + 2 ^ { * } \mathbf { x } ^ { 2 }$
+
+b）使用 $\operatorname { f } ( \mathbf { x } )$ 生成可用数据数组：array $( a _ { 0 } , x _ { i } , y _ { i } )$ c）将秘密图像S分解为 $6 4 \times 2 5 6$ 组4bit数据，使用式（5）  
+计算 $\mathrm { S _ { i , j } }$ d）另 $\mathrm { \ a _ { 0 } { = } S _ { i , j } }$ ，从b）中的array数组中找到当前ao值对应  
+的4组数据 $\mathrm { ( x _ { i } , y _ { i } ) }$ ，将4组数据分享到4个分享图像对应位置。
+
+![](images/30cf1588e55d1bf5e1900dbe66007f5d77f3ac7f1a96d8cbcfbb58fdb3fd7cb8.jpg)  
+图1无随机性控制下的秘密分享过程  
+图2秘密图像S   
+图3无随机控制下4幅分享图像
+
+由于秘密图像S是 $2 5 6 \times 2 5 6$ ，每组4bit数据 $\mathrm { B } _ { \mathrm { i , j } }$ 生成4组分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ ，每组 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ 共8bit，所以分享后的图像分辨率为 $5 1 2 \times 2 5 6$ 。
+
+通过上述过程，生成4幅分享图见图3。从图3可看出，分享效果不好，能看出秘密图像，达不到秘密隐藏的要求。
+
+# 2.3.3原因分析
+
+在上面的分享过程中存在三方面的规律性：
+
+a）如果秘密图像S中数据变化较少，且有规律，会造成很  
+多连续相同的 $\mathbf { a } _ { 0 }$ ，例如：连续的 $\mathrm { a } _ { 0 } { = } 1 5$ ，连续的 $\scriptstyle { \mathrm { a } } _ { 0 } = 0$ ，且ao的  
+变化会反映秘密图像的变化;b）用相同 $\operatorname { f } ( \mathbf { x } )$ 和相同ao值，生成的4个分享数据必然相  
+同；c）4组分享数据存放到4幅分享图像的顺序固定。
+
+由于这三方面的规律性，造成图3中分享图像的问题。a)中的规律性由秘密图像S造成，不能进行人为控制；b）和c)
+
+中的规律性都是由算法设计造成，可通过增加随机性控制来改进。
+
+# 2.4秘密分享过程中增加随机性控制
+
+# 2.4.1随机性控制的选择
+
+根据2.3.3节中的分析，可通过三方面增加随机性控制：
+
+a）使用多个生成多项式，不同的秘密数据使用不同多项式；
+
+b）每个多项式针对每个 $\mathbf { a } _ { 0 }$ ，生成超过n组的可用数据，从中任选 $\mathfrak { n }$ 组数据作为分享数据；
+
+c）增加分享数据存放的随机性，使得分享数据存放顺序不固定。
+
+# 2.4.2增加随机性控制
+
+在分享过程中增加随机性控制，包括三个方面：
+
+a)使用多个多项式。初始化 $p m$ 个 $k { - } I$ 次多项式 $f _ { I } ( x ) , . . . , f _ { p m } ( x )$ 每组4bit秘密数据D，可随机选择多项式 $f _ { r } ( x )$ ，另 $a _ { 0 } = D$ 生成分享数据；
+
+b）生成多组分享数据。使用多项式 $f _ { r } ( x )$ 生成 $^ { n + }$ expnum组分享数据，从 $^ { n + }$ expnum组分享数据中选择 $\mathfrak { n }$ 组分享数据，可有 $C _ { n + \mathrm { e x p n u m } ^ { n } }$ 种组合;
+
+c）增加分享数据存放的随机性。在将 $n$ 组数据存放到分享图像前，生成一个 $[ 0 , ( n - I ) ]$ 的随机数cshift，计算$c _ { i } { = } ( i { + } c s h i f t ) m o d n$ ，将第i组分享数据 $( x _ { i } , y _ { i } )$ 存放到第 $c _ { i }$ 幅分享图像的对应位置。
+
+增加上述随机性后，通过多项式生成的数据结构形式为：array(pnum,ao,xi,yi)，表示第pnum个多项式，与ao值对应的$^ { n + }$ expnum组分享数据 $\mathrm { ( x _ { i } , y _ { i } ) }$ 。
+
+# 2.4.3实验效果
+
+以图2(a)为秘密图像S，实现(3,4)分享模型，为对比实验效果，分别使用不同的随机性控制，生成的分享图像见图4\~6。
+
+![](images/23a30df9b77cdd4735bfde14fa5b4b0ff131c390f206a03cfa92cff1abb6c122.jpg)  
+图4一个多项式和 $\mathrm { { n + } }$ expnum组实验数据生成的分享图像
+
+图4中，仍采用一个多项式，生成 $^ { n + }$ expnum组实验数据，其中 $\scriptstyle n = 4$ ，expnum $_ { ! = 2 }$ ，从中选择 $\mathfrak { n }$ 组实验数据生成分享图像。从图4可看出，增加实验数据的随机性，效果好一些，但仍能看出秘密图像的轮廓。
+
+![](images/20e95684d998665bec7cc07294f02da4fad551a7627e3b4488c398cbdeffab6b.jpg)  
+图5pm个多项式和 $\mathfrak { n } { + }$ expnum 组实验数据生成的分享图像
+
+图5中，采用pm个多项式，生成 $^ { n + }$ expnum组实验数据，其中 $p m { = } 6$ ， $\scriptstyle n = 4$ ，expnum $_ { ; = 2 }$ ，从中选择n组实验数据生成分享图像。从图5可看出，增加多项式随机性，分享图像中无法看出秘密图像，但4幅分享图像分布明显不均匀。
+
+![](images/33c4b8b840af5ddc702ef1c6b11ece3d3bebe05eb90e86c5be8704d3b77e1e51.jpg)  
+图6三种随机控制下生成的分享图像
+
+图6中，采用pm个多项式，生成 $n +$ expnum组实验数据，其中 $p m { = } 6$ ， $\scriptstyle n = 4$ ，expnum $_ { ! = 2 }$ ，增加分享数据存放顺序随机性。图6可看出，增加分享数据存放顺序随机性，分享图像中不仅无法看出秘密图像，且4幅分享图像分布均匀。
+
+通过上面的实验可以看出，通过上述三种随机性控制组合使用，实现分享图像效果最好。本文将在第3章给出将秘密图像生成n个分享图像的完整过程。
+
+# 3 本文提出的算法
+
+本文提出一种基于 Shamir 秘密分享的高质量 $( \mathbf { k , n } )$ 可视加密算法。使用该算法，将一幅二进制秘密图像分享为n幅无意义图像，从n幅分享图像中任意选取k幅分享图像，使用拉格朗日插值可提取秘密图像。
+
+# 3.1一幅秘密图像被分享为n幅无意义分享图像
+
+基于第2章的内容，使用Shamir秘密分享，将一幅秘密图像S分享为n幅无意义分享图像，实现流程见图7。主要包括：
+
+a）生成pm个k-1次多项式 $f _ { I } ( x ) , . . . , f _ { p m } ( x )$ 。
+
+b）使用每个多项式 $f _ { r } ( x )$ $( \mathbf { r } { = } 1 { : } \mathrm { p m }$ )针对每个ao值生成并选择可用分享数据。
+
+(a)由2.2已知，ao范围为[0,15]， $\mathbf { X } _ { \mathrm { i } }$ 的范围为[1,15]，yi的范围为[0,15]，且 $\mathsf { p } { = } 1 7$ 。
+
+(b)使用式（2)，分别带入xi的15个值，计算生成15组数据 $\mathrm { ( x _ { i } , y _ { i } ) }$ 。
+
+(c)数据位数 $\mathrm { m } { = } 4$ ，使用式（3）去除 $\mathrm { y } _ { \mathrm { i } } { = } 1 6$ 的数据。
+
+(d)对可用数据，使用式（4）计算NumofOnei，将有效数据根据|NumofOnei-4|的数值从小到大排序，选择前 $^ { n + }$ expnum 组数据，作为分享数据。
+
+(e)通过以上过程，得到的数据结构形式：array(pnum,ao,xi,yi)，其中 $p n u m = I { : } p m , a _ { 0 } { = } 0 { : } I 5 , i { = } I { : } ( n { + } e x p n u m ) \circ$ 图7中简写为 $i { = } I ; ( n { + } p )$ ，表示第pnum个多项式对应当前ao 值有 $n + e x p n u m$ 组分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ 。
+
+c）秘密图像S分辨率为 $W { \times } H$ ，将S分解为 $W / 4 { \times } H$ 组4bit数据，每组4bit数据 $\operatorname { B } _ { \mathrm { i , j } }$ 作为一个秘密数据D，使用式（5）计算 $\mathrm { \Delta B _ { i , j } }$ 对应的秘密数据值 $\mathrm { S _ { i , j } }$ 。
+
+d）另 $\mathrm { \ a _ { 0 } { = } S _ { i , j } }$ ，从b）中的array(pnum, $a _ { 0 } , x _ { i } , y _ { i } )$ 数组中选择某个多项式下当前ao 值对应的 $\mathfrak { n }$ 组数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ ，将 $\mathfrak { n }$ 组数据分享到 $\mathfrak { n }$ 个分享图像对应位置，并增加随机性控制，包括三个部分：
+
+(a)生成一个[1,pm]的随机整数r，分享数据将从数组array $( r , a _ { 0 } , x _ { i } , y _ { i } )$ 中选择，这时 $i$ 的范围是 $I I , n + e x p n u m ]$
+
+(b)从 $n ^ { + }$ expnum组可选数据中，任意选择 $\mathfrak { n }$ 组数据作为分享数据，分享数据数组仍然是ar ${ \bf \ddot { \it a y } } ( r , a _ { 0 } , x _ { i } , y _ { i } )$ ，但 $i$ 的范围是[1,n]；
+
+(c)生成一个 $[ 0 , ( n - I ) ]$ 的随机整数cshift，计算$c _ { i } = ( i + c s h i f t ) m o d n$ ，将第i组分享数据 $( x _ { i } , y _ { i } )$ 存放到第 $c _ { i }$ 幅分享图像的对应位置。
+
+e)通过上述过程，将一幅秘密图像S分享为 $\mathbf { n }$ 幅无意义分享图像，称为分享图像 $\left. 1 - \mathtt { n } \right.$ ，每幅分享图像分辨率为 $2 W \times H _ { \circ }$
+
+![](images/3f1bb3aa1c03f381533665e44eb2b38ffecb67c2f32c13ae0a30992904528f08.jpg)  
+图7秘密图像S分享为n幅分享图像
+
+# 3.2从n幅分享图像中提取Cnk幅秘密图像
+
+从n幅分享图像中，任选k幅图像，使用拉格朗日插值提取秘密图像。从 $\mathfrak { n }$ 幅图像中选择 $\mathbf { k }$ 幅图像，会有 $\mathbf { C } _ { \mathrm { n } } ^ { \mathrm { ~ k ~ } }$ 种情况，一共可提取 $\mathbf { C _ { n } ^ { \mathrm { ~ k ~ } } }$ 幅秘密图像，称为提取的秘密图像 $\mathbf { l { - } C _ { n } ^ { \ k } }$ 。提取过程见图8。具体流程包括：
+
+a）K幅被选取的分享图像，称为被选取的分享图像 $\left. 1 - \mathbf { k } \right.$ 。
+
+b）设每幅分享图像分辨率为 $2 W { \times } H$ ，将每幅图像分解为$W / 4 { \times } H$ 组8bit数据，每组数据生成分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ ，从 $\mathbf { k }$ 幅被选取的分享图像的对应位置共得到k组分享数据 $( \mathrm { x _ { i } , y _ { i } , i = 1 - k } )$ 。
+
+c)将 $\mathbf { k }$ 组分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ ，使用式(6)计算拉格朗日插值，得到ao。
+
+$$
+a _ { 0 } = ( \sum _ { i = 1 } ^ { k } y _ { i } \times \prod _ { j = 1 , j \ne i } ^ { k } \frac { - x _ { j } } { x _ { i } - x _ { j } } ) { \bmod { p } }
+$$
+
+d）另 $\mathrm { S i , j = a 0 }$ ，用式（7）计算得到4bit的 $\operatorname { B i , j }$ ， $\operatorname { B i , j }$ 为提取秘密图像对应位置的数据。
+
+$$
+B _ { i , j } ( b ) = ( { \frac { S _ { i , j } } { 2 ^ { b } } } ) { \bmod { 2 } } b = 0 , 1 , 2 , 3
+$$
+
+e）当上述过程在整个 $\mathbf { k }$ 幅被选取的分享图像上实施后，可
+
+提取一幅秘密图像 $\mathrm { R } _ { \mathrm { m } }$ ， $\mathrm { { m } = 1 - C _ { n } ^ { \mathrm { ~ k ~ } } }$ 。由于 $\mathbf { k }$ 组8bit数据，能生成提取的秘密数据为4bit，而且被选取的分享图像为 $2 W { \times } H$ ，所以提取的秘密图像R分辨率为 $W { \times } H _ { \odot }$
+
+f）使用式（8)，可计算提取的秘密图像 $\scriptstyle \mathrm { R } _ { \mathrm { m } }$ 与原始秘密图像S的CDR， $\mathrm { R } _ { \mathrm { m } }$ 和S的分辨率都是 $\mathbb { W } \times \mathbb { H }$ 。
+
+$$
+C D R = \sum _ { i = 1 } ^ { H } \sum _ { j = 1 } ^ { W } [ s ( i , j ) \overline { { \oplus } } r ( i , j ) ] / ( W \times H )
+$$
+
+# 4 算法分析与实验结果
+
+# 4.1 正确性
+
+4.1.1由秘密图像生成n幅分享图像
+
+a）按照3.1节中的a）b）生成数据array(pnum,ao,xi,yi)，表  
+示 pm个多项式对应每个ao值有 $n ^ { + }$ expnum组分享数据 $\mathbf { \Gamma } ( \mathbf { { x } } _ { \mathrm { { i } } } , \mathbf { { y } } _ { \mathrm { { i } } } )$ ·b）将秘密图像S中每组4bit数据构成秘密数据值 $\mathrm { S _ { i , j } }$ ，另  
+$\mathrm { \ a _ { 0 } { = } S _ { i , j } }$ ，得到一个确定的ao;c）通过随机性控制，获得 $\mathfrak { n }$ 组分享数据array( $r ; a _ { 0 } , x _ { i } , y _ { i } )$ d）将 $\mathfrak { n }$ 组分享数据存放到第 $c _ { i }$ 幅分享图像的对应位置。
+
+此过程的关键：保证 $\mathfrak { n }$ 组分享数据来自第 $\mathrm { ~ \bf ~ r ~ }$ 个多项式和确定的ao值，即来自于同一个多项式和相同ao值。
+
+![](images/2d6ea1dc8955e5016899fa2eea46cbac9a5e3c6583e125185a296bc1d8e6c431.jpg)  
+图8从分享图像中提取秘密图像  
+图10图2(b)做为秘密图像S，提取 ${ \mathrm { C } } _ { 4 } ^ { 3 }$ 幅秘密图像
+
+<html><body><table><tr><td>算法名称和参考文献</td><td>任意(k,n) VC (+)</td><td>无像素扩展 (+)／存在像素扩展 (-)</td><td>提取图像的对比度</td></tr><tr><td>基于像素扩展的VC[1-5]</td><td>+任意(k,n) VC</td><td>-存在像素扩展，随着用户数n增 加，分享图像会扩展很多倍</td><td>提取秘密图像的对比度较好</td></tr><tr><td>基于随机网格的VC[6- 13]</td><td>+ 任意(k,n) VC</td><td>+无像素扩展</td><td>提取秘密图像的对比度太低</td></tr><tr><td>基于图像分块的VC[14- 16]</td><td>-当n变化时，图像需 要重新划分</td><td>+无像素扩展</td><td>K个分享图像只能提取出部分秘密 图像</td></tr><tr><td>本文提出的 可视加密算法</td><td>+任意(k,n) VC</td><td>+分享图像固定为2W×H, 不随用户数n增加而变化</td><td>所有提取分享图像的CDR 为 100%</td></tr></table></body></html>
+
+# 4.1.2由分享图像提取秘密图像
+
+a）从n幅分享图像中任意选取 $\mathbf { k }$ 幅分享图像;b）从每幅分享图像对应位置获取8bit数据，生成分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } )$ ，共得到k组分享数据 $( \mathrm { x } _ { \mathrm { i } } , \mathrm { y } _ { \mathrm { i } } , \mathrm { i } { = } 1 - \mathrm { k } )$ ：c）使用将k组分享数据，使用式（6）计算拉格朗日插值，得到ao;d）将ao转换为4bit数据作为提取的秘密数据，构成提取的秘密图像。
+
+提取ao正确性：k组分享数据来自于同一多项式和相同的ao值，通过拉格朗日计算，必然得到正确的 $\mathbf { a } _ { 0 }$ 。
+
+由于提取的每个ao都正确，提取的秘密图像必然正确。
+
+# 4.2 实验结果
+
+BUPT BUPTBUPT BUPT(a)提取秘密图像1 (b)提取秘密图像 2BUPT BUPTBUPT BUPT(c）提取秘密图像3 (d)提取秘密图像4图9图2(a)做为秘密图像S，提取 ${ \mathrm { C } } _ { 4 } ^ { 3 }$ 幅秘密图像
+
+另图2(a)为秘密图像S，采用3.1节中的算法生成4幅分享图像（图6)，从4幅分享图像中任选3幅图像，可有4种组合，对每种组合采用3.2节中的算法可提取1幅秘密图像，共可提取4幅秘密图像，如图9所示。
+
+BIGC BIGC BIGC BIGC (a)提取秘密图像1 (b)提取秘密图像 2 BIGC BIGC BIGC BIGC (c）提取秘密图像3 (d)提取秘密图像4
+
+其中，使用分享图像1,2,3提取图9(a)；使用分享图像1,2.,4提取图9(b)；使用分享图像1,3,4提取图9(c)；使用分享图像2.3.4提取图(d)。使用式（8，计算4幅提取的秘密图像CDR分别为：1,1,1,1。)
+
+另图2(b)为秘密图像S，采用3.1中的算法生成4幅分享图像，从4幅分享图像中任选3幅图像，可有4种组合，对每种组合采用3.2节中的算法可提取1幅秘密图像，共可提取4幅秘密图像，如图10所示。使用式（8)，计算4幅提取的秘密图像 CDR 分别为：1,1,1,1。
+
+从图9、10和CDR结果可看出，对生成的分享图像，使用拉格朗日插值提取秘密图像，不会产生任何误码，提取正确率均为 $100 \%$ 。
+
+# 4.3本算法与已有算法的对比
+
+表2列出本文提出的可视加密算法与已有可视加密(VC)算法的对比。
+
+从表2可看出，本节提出的可视加密算法可实现任意 $( \mathbf { k , n } )$ 可视加密(VC)，并且当原始秘密图像为 ${ \sf W } ^ { \times } { \sf H }$ 时，生成的分享图像分辨率固定为 $2 \mathrm { W } { \times } \mathrm { H }$ ，分享图像分辨率不随用户数n增加而变化。所以，在所有算法中，本文提出的可视加密算法拥有最好的性能。
+
+# 5 结束语
+
+本文提出一种基于 Shamir 秘密分享的高质量 $( \mathbf { k , n } )$ 可视加密算法。使用该算法，将一幅二进制秘密图像隐藏在n幅无意义分享图像中。从n幅无意义分享图像中，任意选取k幅分享图像，使用拉格朗日插值可提取秘密图像。
+
+本算法的主要优点是应用 Shamir 秘密分享来实现 $( \mathbf { k , n } )$ 可视加密，该算法不需要码书，不会造成无限制的像素扩展。实验结果显示，该算法能实现 $( \mathbf { k , n } )$ 可视加密，提取秘密图像的提取正确率能保证 $100 \%$ 。
+
+# 参考文献：
+
+[1]Naor M, Shamir A.Visual cryptography [C]// Proc of Workshop on the Theory and Application of Cryptographic Techniques.Italy: Springer,1995: 1-12.   
+[2]Ateniese G,Blundo C,Santis A,et al. Extended capabilities for visual cryptography[J].Theoretical Computer Science,2001,250 (1-2):143-161.   
+[3]Liu Feng，Wu Chuankun，Lin Xijun． Step construction of visual cryptography schemes [J].IEEE Trans on Information Forensics and Security,2010,5(1): 27-38.   
+[4]Hou Y C,Quan Zenyu,Liao H Y. New designs for friendly visual cryptography scheme [J]. International Journal of Information and Electronics Engineering,2015,5(1):15-20.   
+[5]Yan Xuehu,Lu Yuliang,Chen Yuxin,etal. Secret image sharing based on error-correcting codes [C]//Proc of the 3rd IEEE International Conference on Big Data Security on Cloud.[S.1.] : Institute of Electrical and Electronics Engineers Inc,2017: 86-89.   
+[6]Kafri O, Keren E.Encryption of pictures and shapes by random grids [J]. Optics Letters.1987,12 (6): 377-379.   
+[7] Chen T H, Tsao K H. Visual secret sharing by random grids revisited [J]. Pattern Recognition. 2009,42 (9): 2203-2217.   
+[8] Chen TH, Tsao K H. Threshold visual secret sharing by random grids [J]. Jourmal of Systems and Software,2011,84(7): 1197-1208.   
+[9]Wu Xiaotian,Sun Wei. Random grid-based visual secret sharing for general access structures with cheat-preventing ability [J]. Journal of Systems and Software,2011,85 (5): 1119-1134.   
+[10] Wu X, Sun W. Visual secret sharing for general access structures by random grids [J].Iet Information Security,2012,6(4): 299-309.   
+[11] Ou Duanhao，Wu Xiaotian,Dai Lu，et al.Improved tagged visual cryptograms by using random grids [J]. Lecture Notes in Computer Science, 2014,8389: 79-94.   
+[12] Yan Xuehu,Lu Yuliang,LiuLintao,et al. Progressive visual secret sharing for general access structure with multiple decryptions [C]//Proc of the 8th International Conference on Information Technology in Medicine and Education.[S.1.]:Institute of Electrical and Electronics Engineers Inc, 2016: 668-673.   
+[13]Rabari DK,Meghrajani YK.Lock and key share-based random grid visual secret sharing scheme for grayscale and color images with two decoding options [C]// Proc of ISEA Asia Security and Privacy Conference. India: Institute of Electrical and Electronics Engineers Inc,2017: 1-5.   
+[14] Hou YC, Quan Zenyu,Tsai CF,et al. Block-based progressive visual secret sharing[J]. Information Sciences,2013,233 (2): 290-304.   
+[15] Hou Y C, Quan Zenyu,Tsai C F,et al. Cheating immune block-based progressive visual cryptography [J]. Lecture Notes in Computer Science, 2014, 8389: 95-108.   
+[16] Roy R,Bandyopadhyay S,Kandar S,et al.Anovel 3-4 image secret sharing scheme [Cl//Proc of International Conference on Advances in Computing, Communications and Informatics.India:Institute of Electrical and Electronics Engineers Inc,2015: 2072-2075.   
+[17] Shamir A.How to share a secret [J]. Communications of the ACM,1979,22 (11): 612-613.

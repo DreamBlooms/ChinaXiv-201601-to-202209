@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "级环境下某1.5级压气机动叶气动优化设计研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈焕龙　刘华坪　李林熹(哈尔滨工业大学 能源科学与工程学院，哈尔滨150001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对跨音速压气机通道内部由于激波以及叶片角区内低能流体聚集产生附面层分离导致的流动失稳问题，本文基于叶列间流动匹配与控制叶型中弧线曲率的优化设计思想，以 $\\mathrm { E ^ { 3 } }$ 高压压气机的前1.5 级为蓝本，在级环境下对其转子叶片开展气动优化设计研究。研究结果表明，基于叶型中弧线曲率控制技术的叶片气动优化设计技术能够有效减少优化变量的数目，有效地改善压气机叶片设计点与非设计点的气动性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词压气机；优化设计；附面层；激波；失速裕度中图分类号：TK474.8+11 文献标识码：A 文章编号：0253-231X(2017)04-0740-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aerodynamic Optimization Design Investigation for Rotor Blade in a 1.5-stage Compressor/ ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHEN Huan-LongLIU Hua Ping LI Lin-Xi 公木 (Harbin Institute of Technology,School of Energy Sience and Engineering，Harbin 150001,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract On the flow instability caused bythe boundary-layer flow separation due to the shock wave and the low-energy fluid accumulatiohinthe corner area for the transonic compressor passage, based on the optimization design coneptsof matching flow between blade rows and control the camber line curvature, a rotor bladeis optimized for a 1.5-stage compressr in the $\\mathrm { E ^ { 3 } }$ . The results indicates that the aerodynamieTeptimization design technique based on the curvature control method for camber line cakitifully reduce the number of optimization variables and efectively improve the aerodynamic performance of the compressor blade passage at design and off-design points. Key wordscompressor; optimized design; boundary-layer; shock wave, stall margin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代航空动力系统高推重比的发展需求对其主要气动部件——风扇/压气机提出了极高的要求。这就要求风扇/压气机不仅具有较大的流量、较高的级压比和效率，而且必须在全工况条件下具备较为宽广的稳定工作范围。风扇/压气机单元负荷水平的显著提高，势必会导致转子叶尖马赫数增加，同时由于激波和叶片吸力面角区低能流体聚集产生胀压与强剪切作用而导致附面层大尺度分离。这样，不仅压气机非设工况气动性能得不到保证，甚至在设计转速下的失速裕度也受到严重影响。很显然，传统的气动设计技术已经无法胜任这项艰巨的设计任务。急需探索可同时考虑气体黏性、三维、激波与旋涡控制等复杂多因素耦合条件下的先进压气机气动优化设计技术，实现压气机在高负荷高通流条件下仍然具有较高的气动效率水平与可实际利用的失速裕度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于这一想法，许多先进的气动设计理念与设计体系应运而生。由王仲奇教授等[1-4]于上世纪60年代初提出以附面层迁移理论为基础的弯曲叶片概念与设计方法，弯曲叶片技术以其极具个性化的控制附面层低能流体径向迁移的端壁效应特性一直受到广泛关注，目前已经在先进压缩系统静子甚至转子叶片的设计中获得广泛应用。早在1974年至1977年期间，NASA-Lewis 研究中心采用当时比较先进的掠形叶片技术，研制了高速静音风扇 QF-12[5,6]。Wennerstrom 首次将掠叶片技术引入到高负荷高通流跨音风扇的气动设计中[7,8]。美国Wright实验室为了研究叶片掠的气动设计概念与效果，开展了一系列掠形转子的设计与实验研究工作[9,10]。Denton 等[11] 也开展了与弯/掠形叶片相关的气动性能与流场结构的数值研究，其研究结果表明，弯/掠形叶片对风扇的失速裕度有着十分重要的影响。近年来，北京航空航天大学设计并测试了压比分别高达2.2和2.3的单级后掠跨音高负荷风扇ATS-2[12]与J285[13]。随着风扇/压气机级负荷水平的逐渐提高，在扩压叶栅近似轴向出气的设计要求下，势必导致静子呈现大折转角的个性化特征，由此引发了静子端区较强的附面层三维流动分离，其严重影响了风扇/压气机负荷水平与失速裕度的拓展。Breugelmans [14]与 Shang[15]的研究结果表明，弯、掠静子叶片技术的合理应用能够有效减少角区失速。Weingold等[16针对一个三级压气机的研究结果表明，在堵塞流量与失速裕度的限制条件下，弓形静子能够增加该三级压气机的压比和效率。Gummer 等[17]针对弯、掠跨音速静子的数值与实验研究结果也表明，前掠和正弯压气机静子能够有效降低端区流动损失，拓展静子的有效工作范围。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，这些研究工作由于受到当时技术条件的限制，很多研究成果仅仅在某些方面甚至是某项单一技术上取得了部分突破，更有甚者仅仅局限于该项技术的机理研究。但是，有一点是非常明确的那就是人们都意识到了叶片几何特征对气动性能影响的重要性。在气动设计需求多元化的今天急需一套能够解决工程实际问题、高效且具有强大容错能力的气动优化设计与叶片三维几何气动成型系统，以便适应当今叶轮机械设计技述发展的需求。为此，许多研究机构与学者相继为之付出了努力。Benini[18]与JANG[19] 等分别针对NASARotor 37转子开展气动优化设计研究，将叶栅内部复杂三维黏性流动特征纳入所考虑的范畴，通过叶片几何的改变以达到控制叶片吸力面的激波结构以及分离区域大小的目的，并取得了良好的效果。Lian 等[20]以 NASARotor 67转子为蓝本，采用包括多目标遗传算法在内的多种优化算法对跨音动叶进行气动优化设计研究。其研究结果表明，转子的压比和绝热效率均获得了不同程度的提升。此外，研究结果还表明，跨音速转子表面的附面层流动对叶片几何参数的变化十分敏感，尤其是处于较高来流马赫数的叶尖截面，截面几何的微小变化会带来近壁压力分布的巨大改观。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对目前的高负荷风扇/压气机气动设计技术，在较高的负荷水平与通流能力的限制条件下，如何满足最低的失速裕度需求 $( \\mathrm { S M { > } 1 0 \\% { \\sim } 1 5 \\% } )$ ）已经成为这项技术的一个瓶颈。Ellbrant 等[21,22] 开展了权衡气动效率与失速裕度的优化设计研究工作。以总压损失系数(2D)/多变效率(3D)和静压升系数为目标函数，并结合了求解准三维与全三维NS方程的ParetoFront优化方法。研究结果表明，气动效率与失速裕度是一对矛盾。如果气动效率要求太高，那么必然不能获得所希望的失速裕度。因此，在实际压气机的工程设计过程中，必须在气动效率与失速裕度两个技术指标之间折衷考虑。Oyama 等[23] 耦合三维NS方程求解器，建立了一个高精度的优化设计系统，并运用该系统对NASARotor67转子进行优化设计研究。研究结果表明，在流量与压比不变的条件下，绝热效率增加了 $1 . 7 8 3 \\%$ 。最后，值得一提的是，近年来美国辛辛那提大学的MarkTurner领导的课题组，建立耦合三维CFD 的基于叶片几何曲率控制的叶轮机械气动优化设计系统。这一优化设计系统的显著特征是将对通道流场影响的叶片关键几何参数？曲率与叶栅气动性能联系起来，探索构建叶片几何特征与流场参数之间的联系[24-29]。上述提到的优化设计系统有三个重要特征，其一是，耦合CFD 求解系统。其二是，注重其工程实用性而非仅仅是单项技术的突破。其三是，越来越凸显叶片通道几何的重要性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本文基于叶列间流动匹配与控制叶型中弧线曲率的优化设计思想，以 $\\mathrm { E ^ { 3 } }$ 发动机的高压压气机前1.5级为蓝本，在级环境下对其转子叶片开展优化设计研究工作，以期获得通流能力、气动效率、压比以及失速裕度等综合气动性能指标的整体提升。 ×·",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1气动优化设计方法/系统介绍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所采用的叶轮机械气动优化设计系统基于Lunix系统下的Shell脚本以及面向对象的Python语言脚本模式，其主要由用户定义模块、优化脚本模块以及基于优化平台Dakota 的优化模块三个部分组成，如图1所示。用户定义模块主要是为了完成定义优化变量、叶型参数化以及与三维CFD黏性求解器相关的网格生成与边界条件设定等任务，这些工作仅仅需要用户在气动优化设计开始前执行一次即可。优化脚本模块是为了解决如何自动执行三维叶片构建平台3DBGB，如何自动产生网格输入文件\\*.geomTurbo，如何自动执行Autogrid网格生成平台与三维CFD 黏性求解器FineTurbo，以及在每个优化样本计算结束后，如何自动获取目标函数值。基于Dakota优化平台模块是为了完成优化变量参数值传递、优化样本产生以及目标函数寻优工作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Userdetined Dakota   \nDenitone ase Inpr rars Post Prs bjetive Optimum Design Parameters fumction based onGenetic √ or Gradient algorithm New set of variables are generated 3dbgbinput.1.dat 3dbgbinput.2.dat until optimized solution 3dbgbinput.3.dat Input file for 3DBGB is obtained   \nInput file for 3DBGB Optimization script Baseline case Run 3dbgb   \nPerform CFD run for Generates 3D blade Output “mf”   \nbaseline case (defaulrt gcomctry Search for the obiective   \ngeometry).Run it for √ function and constraints   \nentire speed line.This Run gcomturbo In mf flle and output   \nwill detine the mesh Generates input them to Dakota and parameters for geometry file for ↑   \noptimization script. Autogrid Run Fine Turbo √ “.trb” Run Autogrid Perfotm CED analysis Gcncratcs igg mcsh byusingthe eonditions “.iec” file by using trb from defined by iec from the the baseline run basclinc run 图1气动优化平台 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这一气动优化系统不仅囊括了基于直接控制叶型几何曲线曲率/二阶导数的三维叶片凡荷气动成型功能，保证叶型曲线充分光滑，而且还可以很方便地实现进出口气流角匹配优化、冲角与落后匹配优化、叶片三维弯掠积叠优化、叶型光滑处理等现代先进叶轮机械气动设计技术。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2优化前后压气机气动性能对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了充分体现本文研究工作的重要意义与挑战性，同时也为了说明本文优化设计与流场分析方法的优势，本文选取GE 公司的 $\\mathrm { E ^ { 3 } }$ 高压压气机前1.5级为蓝本，对其第一列动叶开展气动优化设计研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1给出了本文所研究的原型机 ${ \\mathrm { E } } ^ { 3 }$ 高压压气机前1.5级的主要几何参数与气动设计参数。图2给出了 ${ \\mathrm { E } } ^ { 3 }$ 高压压气机前1.5级几何结构、网格划分以及壁面 $y ^ { + }$ 分布。本文的气动优化设计过程采用 S-A湍流模型，总网格数为155万，并且保证叶片表面的 $y ^ { + } < 1$ ，以便能够比较详细地捕捉边界层的内部详细流动结构。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1动叶进出口几何角匹配 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于本文采用的 $\\mathrm { E ^ { 3 } }$ 压气机叶片来源于准三维气动设计，其叶片几何数据的准确与否很大程度上取决于准三维程序的设计精度。然而，总所周知，所有的准三维程序几乎都采用诸如损失模型、不考虑气体黏性等多方面的近似，而且很多时候还引入设计人员的个人经验与实验数据的修正。因此，通过准三维程序所获得的叶片数据在实际三维黏性流环境中往往会存在气流角的匹配偏差。基于这一认识，本文首先采用优化设计方法，对初始 $\\mathrm { E ^ { 3 } }$ 压气机动叶的进出口几何角进行匹配优化设计，为后续的可控曲率优化提供气动性能良好的基础叶片数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1E高压压气机前1.5级主要设计参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1861cd498e99a9a497be88881c5de5c9aae803e7d74ab7f6e53ec1156b2f449.jpg",
+        "table_caption": [
+            "Pable 1 Design parameters for 1.5-stagecompressor in E3"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设计参数</td><td>值</td></tr><tr><td>叶尖切线速度/(m/s)</td><td>451.700</td></tr><tr><td>设计转速/r·min-1</td><td>12300</td></tr><tr><td>第一级转子进口单位迎面流量/(kg/(s·m2))</td><td>189.423</td></tr><tr><td>第一级叶尖流量系数</td><td>0.417</td></tr><tr><td>第一级叶尖负荷系数</td><td>0.307</td></tr><tr><td>第一级转子叶尖进口相对马赫数</td><td>1.356</td></tr><tr><td>第一级转子轮毂比</td><td>0.507</td></tr><tr><td>叶片数：进口导叶，转子1，静子1 第一级转子叶尖间隙/mm</td><td>32,28,50</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了实现动叶的进出口几何角优化匹配，本文基于前面所述的气动优化设计平台，将级绝热效率作为目标函数，在动叶的进出口沿展向各取五个控制截面的几何角偏差 $\\nabla \\beta$ 作为优化变量。表2给出了优化匹配动叶进出口气流角后的压气机特对比。研究结果表明，通过匹配进出口几何角后，压气机叶片在级环境空间内组织气流的能力得到了加强，气动性能获得了提升。在绝热效率基本不变的条件下，压气机的压比与堵塞流量均得到了不同程度的增加。在优化设计工况下，压比增加 $0 . 4 3 4 \\%$ ，流量增加了$0 . 7 9 4 \\%$ 。在堵塞工况下，堵塞流量增加 $1 . 7 0 4 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86d93d233c80990935f4278c1d328d84844ba88b0ec294823694789b298532ca.jpg",
+        "img_caption": [
+            "图2压气机几何结构、网格及叶片表面分 Fig.2 Geometry,mesh and $y +$ of blade surface for compressor ",
+            "表2匹配前后压气机特性对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/24cf5924ac24d12c0bc4dbdf68c8a15d7fb360bae37b00dcb714f68402c54c88.jpg",
+        "table_caption": [
+            "Table 2 Comparison performance of baseline case and matching flow optimization case "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能 参数</td><td>匹配几何 角方案</td><td>原型</td><td>差值</td><td>百分比</td></tr><tr><td>绝热效率 (n)</td><td>0.8663</td><td>0.8663</td><td>0</td><td>0</td></tr><tr><td>总压比 (π)</td><td>1.8046</td><td>1.7968</td><td>+0.0078</td><td>+0.434%</td></tr><tr><td>质量流量/(kg/s)</td><td>54.077</td><td>53.651</td><td>+0.426</td><td>+0.794%</td></tr><tr><td>堵塞流量/(kg/s)</td><td>54.895</td><td>53.975</td><td>+0.920</td><td>+1.704%</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3给出了进行匹配气流角优化设计后，动叶进出口几何角的偏差量 $\\Delta \\beta$ 沿叶高分布。研究结果表明，准三维程序对于落后角的预测比较准确，但对于冲角的预测则存在较大的偏差，尤其是对于动叶根部冲角的预测偏差较大，由此导致在三维黏性流级环境下进口几何角的偏差量沿叶高变化较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2叶型截面中弧线可控曲率优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节将在进出口叶片几何优化匹配的基础上,采用叶型截面中弧线可控曲率优化的方法，针对转子开展更深层次的叶片气动优化设计研究。在优化的过程中，以最高效率点的绝热效率为目标函数，同时保证流量和压比大于原型方案。正如之前所述，该优化设计方法直接控制叶型截面中弧线的二阶导数，在展向选取4个截面进行曲率优化控制，每个叶型截面选取4个优化变量，其中一个为截面弦向位置几何参数，其余3个为中弧线的二阶导数，并采用遗传算法进行寻优。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2369ddfdd8cfb174067145adff5894e4aba9df4039b11ee65a6daf6db2485619.jpg",
+        "img_caption": [
+            "图3转子进出口几何角变化量 Fig.3 Metal angle adders at rotor L.E. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4给出了可控曲率优化前后叶型截面形线对比分析。研究结果表明，优化后的叶片几何表现为$4 0 \\%$ 叶展以下的叶型折转角有所减小，这有利于降低叶片下半叶展的气动负荷，改善动叶吸力面角区的流动，从而减少流动损失，提高气动效率。而在$4 0 \\% \\sim 9 0 \\%$ 叶展区域，叶型折转角有所增加，这充分利用了叶片跨音速流动区域气流切线速度高、叶片对气流做功能力强的特征，增加上半叶展的气动负荷，在一定程度上弥补了下半叶展的气动负荷的亏损。而在这一区域，控制曲率优化设计的流体动力学机理即为通过对截面几何型线曲率的合理控制，从而调整跨音速流动的逆压力梯度，重组叶片表面压力分布，降低激波强度。在叶尖部分，为了降低激波损失，叶型呈现预压缩特征，且叶型中弧线的最大挠度位置位于 $5 0 \\%$ 叶片弦长之后，这与现有跨音速高负荷动叶设计理论的核心思想相吻合。图5给出的叶片三维几何气动布局也说明了这一典型特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析优化前后叶型截面的几何特征以及本文气动优化技术的优点，图6给出了典型截面的中弧线及其一、二阶导数在基本叶型平面内的变化特征。研究结果表明，叶型中弧线斜率以及曲率均沿弦向呈现光滑分布，而且均得到了有效的控制，实现了预期的可控曲率目标。由于根部马赫数较低，要实现较大的加功量，所以动叶根部叶型折转角较大。而叶尖部分马赫数较高，部分气流的增压效果主要来自于激波，同时为了控制激波后的可能引发的流动分离，所以动叶尖部叶型折转角较小。甚至为了有效减小波前马赫数从而降低激波强度，出现了反曲率叶型 (预压缩叶型)设计，即进口附近中弧线存在局部负曲率。同时，在跨音速截面附近，由于流动物理特征存在质的改变，所以叶型中弧线的斜率以及曲率沿弦向均发生较大变化，如 $7 5 \\%$ 展向截面。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e9c8f3197232dd382f1a889c9004d5c3927bf2039865952b65f0dc4a99ccb2d.jpg",
+        "img_caption": [
+            "Fig.4 Comparison airfoil of the matching flow caseand-control curvature optimization case "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/acf7d3666a39ad308053032bce0a702d0b2ad14498059d794a25ef4be77f1857.jpg",
+        "img_caption": [
+            "图4优化前后叶型截面对比",
+            "Fig.5 Comparison geometry features of the matching flow case and control curvature optimization case "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbe25dfb73866e02c5a1471724f8785b73d92975fa11d5714cde5534bf77e036.jpg",
+        "img_caption": [
+            "图5控制曲率前后动叶三维几何特性",
+            "图6典型截面的中弧线及其一、二阶导数特性 Fig.6 Camber line and its first and second order derivative for airfoils "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7以及表3给出了控制曲率优化前后的压气机特性。研究结果表明，通过控制叶片截面几何曲线的曲率，有效地控制了叶片表面扩压流场参数的梯度，压气机整体气动性能获得了显著的提升。相对于原型方案，在优化设计工况下，压气机的绝热效率与压比分别增加了 $1 . 6 7 \\%$ 和 $0 . 2 2 3 \\%$ 。堵塞流量增加了$0 . 5 3 7 \\%$ 。失速流量降低了 $1 . 5 4 \\%$ ，从而压气机的失速裕度也得到了增加，有效拓展了压气机的稳定工作范围。此外，对比之前的进出口几何角匹配方案，堵塞流量有所减少，但取而代之的是气动效率、压比以及失速裕度的大幅度提升，验证了之前分析的正确性。值得注意的是，作为 $\\mathrm { E ^ { 3 } }$ 压气机的原型方案，其本身的综合气动性能已经较优。在此基础上进行级环境的气动优化设计，能取得本文这样的优秀叶片气动布局方案，很大程度上归因于所采用的控制曲率优化设计方法以及优越的气动优化设计平台。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.00p 2.0 0.90 1.8 m0.80 π1.6 0.70 baseline 1.4 baseline optinc&dev opt inc&dev optcurvature optcurvature 0.60 50 51 52 535455 1.2 50 51 52.53、54 55 m/(kg/s) m/(kg/s) (a)效率-流量特性 (b)压比-流量特性 (a)Efficiency vs.mass flux (b) Pressure ratio vs.mass/flux ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8给出了绝热效率、总压比沿展向分布特性。研究结果表明，控制曲率优化方案的压比特性表现为： $4 0 \\%$ 叶展以下有所减低，而其余叶展范围则增加。其原因主要是通过优化设计后， $4 0 \\%$ 叶展以下气流折转角减小，其它展向位置不仅气流折转角有所增加，而且激波强度以及激波后的流场品质均得到了合理的改善。此外，通过型面几何曲率的调整，不仅有效地控制扩压流场参数的梯度，而且对于叶尖区域激波胀压流场特性的控制也比较理想。因此，最终导致了控制曲率优化方案基本上全叶展范围内绝热效率均获得提升，而且平均增幅大于 $1 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8ed20be8e758e2916b7bc54b6a55c9b5555e6f4fdf4e7c627a13d5e3f02f43c.jpg",
+        "table_caption": [
+            "表3优化前后压气机最高效率点特性对比",
+            "Table 3 Comparison performance of baseline case and optimum case at peak efficiency point "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气动参数</td><td>原型方案</td><td>控制曲率 优化方案</td><td>百分比/%</td></tr><tr><td>效率 (n) 考虑3列</td><td>86.63</td><td>88.08</td><td>+1.67</td></tr><tr><td>总压比 (π)</td><td>1.797</td><td>1.800</td><td>+0.223</td></tr><tr><td>叶片 流量/(kg/s)</td><td>53.65</td><td>53.97</td><td>+0.596</td></tr><tr><td>转子 效率 (m)</td><td>89.39</td><td>90.66</td><td>+1.42</td></tr><tr><td>性能 总压比 (π)</td><td>1.832</td><td>1.834</td><td>+0.109</td></tr><tr><td>堵塞流量/(kg/s)</td><td>53.98</td><td>54.27</td><td>+0.537</td></tr><tr><td>失速流量/(kg/s)</td><td>51.19</td><td>50.40</td><td>-1.54</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了说明通过控制曲率优化设计后，流场参数变化与叶片几何特征的关联，下面给出典型流场参数的对比分析。图9给出了 $9 5 \\%$ 叶展位置转子马赫数分布。研究结果表明，控制曲率的优化设计方案不仅降低了激波前的来流相对马赫数，而且激波面与来流方向的夹角减小，激波强度降低。由此带来的气动优势是激波损失减小，激波后诱导的叶片吸力面附面层分离被减弱。因此，压气机的综合气动性能获得了提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef8187cda2b81371737ed70496c8e651b8759783c2d606e4c3f9853d62e93cf9.jpg",
+        "img_caption": [
+            "Fig.7 Performance map for the baseline and ptimized cases ",
+            "图8优化前后压气机特性沿叶高分布"
+        ],
+        "img_footnote": [
+            "Fig.8 Performance parameters vs.relative blade height "
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6400ffb162e61b133858e3b3e38d3aaf44eb50ad04be32b915e30e8abbcd8c80.jpg",
+        "img_caption": [
+            "图7控制曲率优化前后压气机特性",
+            "图9 $9 5 \\%$ 叶展位置转子马赫数分布Fig.9 Mach Number for rotor blade at $9 5 \\%$ span"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于跨音速压气机转子的气动设计，叶尖截面的气动性能至关重要，它不仅在一定程度上决定了转子的加功增压能力，而且该区域的激波结构对于整个压气机的失速裕度有重要影响。图10给出了可控曲率优化前后型面等熵马赫数对比分析。研究结果表明，通过控制曲率优化后的转子，自 $5 0 \\%$ 至叶尖区域，其吸力面的最大马赫数得到了不同程度的降低。这说明激波强度减弱，有利于降低激波损失，推迟或抑制激波后吸力面的附面层分离。同时激波后吸力面的压力梯度降低，有利于进一步控制波后吸力面附面层的发展。此外，优化后的方案最低压力点的位置向下游推移，这说明通过优化后的转子具有更强的节流特性，能够在更高的背压条件下工作直至前缘产生脱体激波为止。因此，优化后的压气机具有更加宽广的稳定工作范围与更大的失速裕度，而这些性能特征在图7中已经得到充分的体现。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e38c46da84d24ffb63f6b63399deb5bfdd4a52411e9c0e03986d929539682396.jpg",
+        "img_caption": [
+            "图10优化前后型面等熵马赫数对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.10 Isentropic Mach Number on the rotor bladefor the baseline and optimized cases y ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11出了控制曲率优化前后动叶吸力面摩擦力线矢量与径向涡量分布对比分析。研究结果表明，通过中弧线的控制曲率优化设计后，动叶吸力面流场的分离区与分离区附近径向涡量显著减小，这说明基于控制曲率优化设计手段能够有效地减弱激波强度与激波后的附面层分离，并且在一定程度上控制了吸力面角区内的二次流动。此外，跨音速动叶吸力面上激波附近的分离区内外径向涡量符号相反，而分离区正好起止径向涡量的符号改变的位置，并分离区具有较大径向负涡量值。 1",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef164364c1d9e75377c68b218c6ca3166862508dd5ee7d7c31495342f7f66e56.jpg",
+        "img_caption": [
+            "图11吸力面摩擦力线与径向涡量",
+            "Fig.11 Skin-friction lines and radial vorticity on the rotor blade suction surface "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本论文基于进出口气流角匹配与控制叶型中弧线曲率的气动优化设计方法，完成了以 $\\mathrm { E ^ { 3 } }$ 高压压气机前1.5级为基础的动叶气动优化设计研究工作，获得了1.5级跨音速压气机的主要气动性能参数与流场图谱的详细数据，并对该压气机叶栅内部流场进行了深入分析，探讨了基于可控曲率优化设计思想与压气机气动性能、流场结构之间的关联，得到如下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1）通过对动叶进、出口气流角匹配与叶型中弧线二阶导数进行合理的优化比配，保证了叶型截面中弧线的曲率连续，由此重组叶片气动负荷，有效控制动叶通道内部激波结构与激波后的分离流动以及叶片吸力面角区二次流，降低了扩压叶栅气动损失，拓展压气机的稳定工作范围；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2相对于原型压气机，通过本文的优化设计压气机综合气动性能获得了全面拓展。其中，优化设计工况下绝热效率增加了 $1 . 6 7 \\%$ ，总压比增加了$0 . 2 2 3 \\%$ 。此外，压气机的堵塞流量增加了 $0 . 5 3 7 \\%$ ，失速流量减小了 $1 . 5 4 \\%$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)对于跨音速动叶控制曲率优化设计的流体动力学机理可以表述为：通过对截面几何型线曲率的合理控制，从而调整近壁跨音速流动的逆压力梯度，重组叶片气动负荷分布规律，并降低激波强度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Shang EB,Wang Z Q,et al.A Perspective and Effective Way to Improve the Compressor Cascade Performance Rl.IGTC-13, Yokohama Int. Gas Turbine Congress, 1991   \n[2] M E Deich,A B Gubalev,G A Filippov,Z Q.Wang.A New Method of Profiling the Guide Vane Cascade of Stage with SmallRatios Diameter to Length [J].Teplienergetika, 1962,8:42-46   \n[3] Filippov G A,Wang Zhongqi. The calculation of axial symmetric flow in a turbine stage with small ratio of diameter to blade length [J].Journal of Moscow Power Institute,1963,47:63-78   \n[4]Wang Z Q，Su JX，Zhong J.The Effect of the Pressure Distribution in a Three-Dimensional Flow Field of a Cascade on the Type of Curved Blade [R].ASME Paper,No.94-GT-400,1994   \n[5]Bliss D B,Hayden R P,Murry B S.Design Considerations for Novel Low Source Noise Transonic Fan Stage [R].AIAA Paper 1976-577,1976   \n[6] Lucas R G.,Woodard R P,Mackinnon，M J.Acoustic Evaluation ofa Novel Swept Rotor Fan [R].AIAA Paper 1978-1121,1978   \n[7]Wennerstrom A J,Frost,G R.Design of a 1500ft/sec, Transonic,High-Through-Flow，Single-Stage Axial-Flow Compressor with Low Hub/Tip Ratio [R].Ohio:Air Force Aero-propulsion Lab,1976:1-289 [8]Wennerstrom AJ,Derose,RD,Law,CW.Investigation ofa 150oft/sec,Transonic,High-Through-Flow，SingleStage Axial-Flow Compressor with Low Hub/Tip Ratio [R].Ohio:Air Force Aero-Propulsion Lab,1976:1-372   \n[9] Frank,B J,King,PI.Effects of Leading Edge Sweep on Stall Inception in a High-Speed Single-Stage Compressor [R].AIAA Paper 1994-2696,1994   \n[10]Boger,KM,King,PI,Copenhaver,WW.Stall Inception in Single Stage High-Speed Compressor with Straight and Swept Leading Edges [R].AIAA Paper 1993-1870,1993   \n[11]Denton J D,Xu L.The Effects of Lean and Sweep on Transonic Fan Performance [R].ASME Paper GT-2002- 30327   \n[12]Peng Shan,Xingmin Gui.Final Report for the Design and Experiment Study of a High Loading Single-Stage Model Fan ATS-2 with a Backward Swept Rotor [R].Beijing: Beijing University of Aeronautics and Astronautics,GFA0041935,2000   \n[13]Guorong Hu,Yafeng Zhou,Baoshi Chen,et al.Design and Test for Single Stage Transonic Fan withHigh Speed,High Load [J].Journal of Engineering Thermophysics,2001, 22(1):40-43   \n[14]Breugelmans F A H,Carels Y,Demuth M.Influence of Dihedral on the Secondary Flow in a Two-Dimensional Compressor Cascade [J].ASME Journal of Engineeri for Gas Turbines and Power,1984,106(3): 578-584   \n[15] Shang E,Wang Z Q,Su J X. The Experimental Investigations on the Compressor Cascades with Leaned and Curved Blade [R]. ASME Paper, No.93-GT-50,1993   \n[16]Weingold HD,Neubert RJ,Behlke RF,et al.Reduction of Compressor Stator EndwallLosses Through the Use of Bowed Stators [R].ASME Paper No.95-GT-380,1995   \n[17]Gummer V,Wenger U,Kau H P.Using Sweep and Dihedral to Control Three-Dimensional Flow in Transonic Stators of Axial Compressors [J].ASME Journal of Turbomachinery, 2001,123(1):40-48   \n[18] Benini E.Three-Dimensional Multi-Objective Design Optimization of a Transonic Compressor Rotor[J].Journal of Propulsion and Power,2004,20(3):559-565   \n[19] JANGC M,LIP,KIMKY.Optimization of Blade Sweep ina transonic Axial Compressor Rotor [J].JSME International Journal,2005,48(4):793-801   \n[20]Lian Y,Liou M S.Multi-Objective Optimization of Transonic Compressor Blade Using Evolutionary Algorithm [J].Journal of Propulsion and Power,2005,21(6):979- 987   \n[21] Ellbrant L,Eriksson L E,Martensson H.Design of CompressorBlades considering Efficiency and Stability usingFD based Optimization [R].ASME Paper,GT2012- 69272, 2012 Ellbrant L,Eriksson L E,Martensson H.Balancing efficiency and stability in the design of transonic compressor stages [R].ASME Paper GT2013-94838,2013   \n[23]Oyama A，Liou M S,Obayashi S.Transonic Axial FlowBlade Optimization EvolutionaryAlgorithms ThreeDimensional Navier Stokes Solver [J].Journal of Propulsion and Power,2004,20(4):612-619 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1d9d8e5aae87ea41b594c22270273dbee0288fe3bb36463a6e9f75dc42d6abb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    }
+]

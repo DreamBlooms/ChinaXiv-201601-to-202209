@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "莪术醇诱导人肝癌HepG2细胞衰老及其机制研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄岚珍1²，杨飞城，阳 晶1²，蒋晓山1,4\\*  \n（1.桂林医学院信号转导实验室，广西桂林 541004；2桂林医学院科学实验中心，  \n广西 桂林 541004；3桂林医学院附属医院病理科，广西 桂林 541004；4桂林医学院研究生学院，广西 桂林 541004）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：细胞衰老是指细胞从活跃增殖进入生长停滞状态的不可逆转的过程，寻找诱导肿瘤细胞衰老的药物或分子靶点可以为肿瘤治疗提供新策略。莪术醇(Curcumol)是自中药莪术中分离得到的单体化合物，对多种人肿瘤细胞增殖具有抑制作用。我们曾经报道，莪术醇抑制人肝癌HepG2细胞增殖。本研究进一步发现，莪术醇能够诱导HepG2细胞发生衰老表型改变，伴G0/G1期周期阻滞。采用荧光定量PCR 技术对莪术醇处理后细胞中 81个细胞衰老相关基因差异表达谱进行分析，发现 TP53及其下游基因p16Ink4a、p21Waf1/Cip1和p27Kip1 等的表达水平显著升高，伴随 ABL1、ALDH1A3、CHEK2、HRAS、PTEN等多个衰老信号通路启动与效应关联基因的转录显著增强，而Cyclin A2、IGFBP3、SIRT1以及TERT等细胞周期进程与衰老信号通路的负性调控基因的表达水平则显著降低。Western印迹检测结果显示p53及其下游周期素依赖性蛋白激酶抑制物（CKI）分子p21WAF1和p16INK4水平升高，CyclinA2水平降低，与PCR结果一致，并伴野生型p53-诱导的蛋白磷酸酶1（Wip1）水平显著增高，提示莪术醇可能通过激活p53信号通路诱导HepG2细胞衰老。本研究为进一步探讨莪术醇的抗肿瘤作用机制及其潜在的临床应用提供了有价值的信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 收稿日期：2018-02-28",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金项目（31660327）；广西医学科学实验中心开放基金项目（KFJJ2011-13） [Supported by the National Natural Science Foundation ofChina (31660327) ； Medical Science Research Center Open Fund (KFJJ2011-13)]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：黄岚珍（1968-），女，广西桂林人，实验师；主要从事细胞与分子生物学细胞信号转导领域研究，（E-mail）953323744@qq.com。  \n通信作者：蒋晓山,医学博士，研究员,教授，博士研究生导师，主要从事细胞衰老及相关疾病的分子机制与干预研究，（E-mail）jiangxs@glmc.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：莪术醇，肿瘤细胞早衰，HepG2 细胞，肝癌，细胞周期阻滞",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201802029 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Human hepatocarcinoma HepG2 cell senescence induced by curcumol and underlying mechanisms ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HUANG Lanzhen12， YANG Feicheng³，YANG Jing12， JIANG Xiaoshan1,4\\* ( 1.Cell Signaling Laboratory,Guilin 541004， Guangxi, China; 2. Center for Science Research, Guilin 5410O4， Guangxi , China; 3. Department of Pathology, Affiliated Hospital, Guilin 541004， Guangxi,China; 4. Graduate College， Guilin Medical University, Guilin 541004， Guangxi, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Senescent cells have lost their capacity for proliferation and manifest as irreversibly in cell cycle arrest. Induction of senescence in tumor cels would provide a new therapeutic strategy for cancer treatment. Curcumol is a monomer composition isolated from the ethanol extracts of Curcuma wenyujin, a Chinese medicinal herb traditionally used as a cancer remedy. Studies over past a decade have revealed that curcumol is able to block proliferation of a variety of human tumor cells. We have previously reported that curcumol inhibits the proliferation of human hepatocarcinoma HepG2 cells. The present study further demonstrates that curcumol is capable of inducing cellular senescent phenotype in HepG2, accompanying with cell cycle G0 /G1 phase arrest. A Sybe Green real-time polymerase chain reaction (RT-PCR) method was used to analyze the differential expression profiles of 81 human senescence-related genes in cells treated with curcumol. The results showed that the expression of TP53 and its downstream genes p16Ink4a, p21Waf1 /Cip1 and p27Kip1 were significantly up-regulated, accompanied by transactivation of other senescence signaling pathway related genes or senescence response genes such as ABL1, ALDH1A3, CHEK2, HRAS,PTEN, etc., while the expression of Cyclin A2, IGFBP3, SIRT1 and TERT, the genes which negatively regulate cell cycle progression and senescence signaling, were significantly down-regulated. Western blotting verified that protein levels of p53 and its downstream CKIs, p21WAF1 and p16INK4, were increased while Cyclin A2 decreased, consistent with the findings in PCR results.The level of wildtype p53-induced protein phosphatase 1 (Wip1) was also found significantly increased, suggesting that the induction of senescence in HepG2 cells by curcumol might be through activation of p53 signaling pathway. This work provides valuable information for further study on the antitumor mechanism of curcumol and its potential clinical application. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Key Words: curcumol, premature senescence of tumor cells, HepG2 cels, liver cancer, cell cycle arrest ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞衰老是指细胞从活跃增殖进入生长停滞状态的不可逆转过程。衰老的细胞仍具有基本的代谢活动，但失去了DNA合成能力和对有丝分裂原刺激反应，细胞脂褐素沉积增加、体积变大扁平、细胞器变形、膜脆性增加、核膜内陷、表达在pH6.0 时有高酶活性的 $\\beta$ 半乳糖苷酶。过去，因其无限制增殖的特性，肿瘤细胞被认为失去了衰老的能力。近十多年来，研究发现肿瘤细胞在小剂量的化疗药物处理或射线照射等一定条件下可以被诱导进入衰老状态，这种诱导性衰老有别于复制性衰老，被称为早熟衰老(早衰）（premature/acceleratedsenescence）（Nardellaet al，2011）。寻找诱导肿瘤细胞进入衰老状态的药物或分子靶点以恢复与激活肿瘤细胞的衰老通路作为肿瘤治疗新策略的研究日益受到重视（Nardella etal， 2011； Schosserer et al, 2017）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "莪术醇 $( \\mathrm { C } _ { 1 5 } \\mathrm { H } _ { 2 4 } \\mathrm { O } _ { 2 }$ ，Curcumol)，又名姜黄环奥醇，是自中药莪术中分离得到的单体化合物，对多种人肿瘤细胞增殖具有抑制作用（Wang etal，2009;Lu etal,2012;Huang eta，2017）。我们曾经报道，莪术醇能够抑制人肝癌HepG2细胞增殖，并显著影响细胞周期及其相关调控基因的表达（Huangetal，2013）。本研究进一步发现，较低剂量莪术醇能够诱导 HepG2细胞发生衰老表型改变，并对 81个细胞衰老相关基因差异表达谱及主要启动调控分子表达水平进行了初步观察，为进一步探讨莪术醇抗肿瘤作用机制及其潜在的临床应用提供了有价值的信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1．材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 主要试剂与仪器莪术醇（纯度 ${ \\geqslant } 9 8 \\%$ ，上海艾汇生物科技公司，生产批号P02-03）50$\\mathbf { m g \\cdot m l } ^ { - 1 }$ 溶于无水乙醇贮存；碘化丙啶(PI）（Sigma)；二甲基亚砜(DMSO）（美国Sigma)；四氮唑蓝(MTT）（美国Amresco)；兔抗人p53 多抗及鼠抗人p16、Wip1、p21",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "及 $\\beta$ -actin 单抗（美国 Santa Cruz）。FACSAriaII流式细胞仪(美国BD）；iMark 型酶标仪（美国Bio-Rad）； $\\mathrm { C O } _ { 2 }$ 细胞培养箱（美国NBS）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 细胞株与细胞培养人肝癌细胞株HepG2购自中国科学院细胞所（上海）细胞库,常规培养于 $1 0 \\%$ 胎牛血清（美国HyClone）的DMEM培养基（美国HyClone）含 $5 \\% C O _ { 2 }$ 的 $3 7 \\mathrm { ~ \\textdegree ~ }$ 培养箱中，每 $3 { \\sim } 4 \\mathrm { ~ d ~ }$ 换液传代。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2．方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1MTT 比色法检测细胞增殖将人肝癌HepG2 细胞以 $4 \\times 1 0 ^ { 3 }$ 个/孔接种于96 孔板，培养过夜。更换成含不同浓度莪术醇的培养液（均含等体积乙醇（vehicle）） $1 0 0 \\mu \\mathrm { l }$ /孔，于预定时间加入MTT $1 0 ~ \\mu \\mathrm { L }$ /孔， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 孵育 $^ \\textrm { \\scriptsize 4 h }$ ，弃上清液，加入DMSO ${ 2 0 0 } ~ \\mu \\mathrm { L } .$ /孔，避光振荡 $2 0 \\mathrm { \\ m i n }$ ，酶标仪测定0D490值（A），实验重复3次。细胞生长抑制率计算：抑制率 ${ \\mathit { \\Omega } } ( \\% ) = [ 1 \\$ (A 实验组/A对照组)]x100。IC50 值由 SPSS（version 20.0）软件计算得出。2.2 流式细胞术检测细胞周期HepG2细胞于无血清DMEM培养基培养 5 天，使大部分细胞停留在G1期。取经细胞周期同步化的细胞，以 $5 \\times 1 0 ^ { 5 }$ 个/皿接种于 $\\Phi 6 0 \\ \\mathrm { m m }$ 培养皿, $2 0 \\mathrm { ~ h ~ }$ 后更换成含不同浓度莪术醇的培养液（均含等体积乙醇）；分别于 $^ { 1 6 \\mathrm { ~ h ~ } }$ 、 $2 4 \\mathrm { h }$ 、32h 常规消化收集细胞， $7 0 \\%$ 乙醇固定， $1 \\%$ RNA酶处理、PI染色，流式细胞仪检测细胞周期分布（DNA含量）情况。实验重复3次。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 细胞衰老相关的 $\\beta$ 半乳糖苷酶（S $\\beta \\mathbf { A } { - } \\beta { - } \\mathbf { g }$ al）活性检测细胞种于6孔板，莪术醇处理 24h，分别于第7、10天弃培养液，PBS洗1次， $0 . 2 \\%$ 戊二醛固定 $5 \\mathrm { m i n }$ ，PBS洗3次，加入X-gal染液（ $\\cdot 1 5 0 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 } \\mathrm { N a C l }$ ， $1 \\mathrm { m g \\cdot m l ^ { - 1 } \\mathrm { X - g a l } }$ 1，5 mmol·L−1 K3Fe(CN)6，2n $\\mathrm { \\mathrm { ~ \\ a m o l \\bullet \\ L ^ { - 1 } M g C l { 2 } , } ~ } ~ \\ 4 0 ~ \\mathrm { { m m o l } \\bullet \\ L ^ { - 1 } N a P i , p H 6 . 0 , ~ 5 ~ \\mathrm { { m m o l } \\bullet \\ L ^ { - 1 } K 4 F e ( C N ) 6 ) } ~ } ~ ,$ （204号 $3 7 ^ { \\circ } \\mathsf { C } \\sharp$ 呼育6${ \\sim } 2 4 \\mathrm { h }$ 。显微镜下随机视野计数蓝染的阳性细胞。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4实时荧光定量 PCR 检测细胞周期调控相关基因的表达委托美国 Invitrogen（上海）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公司参照 SABiosciences 公司人类细胞衰老相关基因的PCR 阵列中的 84个基因名录(http://www.sabiosciences.com/rt_pcr_product/HTML/PAHS-050Z.html），设计、合成基因特异的定量PCR引物。实时荧光定量 PCR(SybeGreen染料法)检测基因表达水平，方法见先前报道（Yang etal,2015）结果根据标准曲线由软件自动计算后得出，共 82个基因获得有效扩增（基因名称与引物序列见表1），GAPDH和ACTB基因用于扩增内参及定量标化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1．qRT-PCR检测的基因名称及引物序列",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/de839deaadf918a6b968aa45880c791bfa814202841037a10b757464ba2bd12f.jpg",
+        "table_caption": [
+            "Table 1.The gene names and primer sequences used for qRT-PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>号</td><td>Funclonaene</td><td>Forar序3)</td><td>Re下游序列 3)</td></tr><tr><td></td><td>NM_001101</td><td></td><td>CTCCATCCTGGCCTCGCTGT</td><td>GCTGTCACCTCCACCGTTCC</td></tr><tr><td>1 2</td><td>NM_005157</td><td>Sl/p53-pRb signaling</td><td>AAGCCGCTCGTTGGAACTC</td><td>AGACCCGGAGCTTTTCACCT</td></tr><tr><td>3</td><td>NM_001014</td><td>Sl/p53-pRb signaling</td><td>TCCTCCTCAAGAATGATGGCA</td><td>GTGCGTTCGATGACAGTGGT</td></tr><tr><td></td><td>431 NM_000693</td><td></td><td></td><td></td></tr><tr><td>4</td><td>NM_000051</td><td>Sl/p53-pRb signaling,</td><td>TGAATGGCACGAATCCAAGAG ATCTGCTGCCGTCAACTAGAA</td><td>CACGTCGGGCTTATCTCCT GATCTCGAATCAGGCGCTTAAA</td></tr><tr><td>5</td><td>NM_004048</td><td>Senescence pathway Other</td><td>GCTACATGTCCATGTTTGACC</td><td>TCGGTAGGAAGTTGTTTCATC</td></tr><tr><td>6 7</td><td>NM_005180</td><td>Senescence pathway</td><td>CCACCTGATGTGTGTGCTTTG</td><td>TTCAGTAGTGGTCTGGTCTTGT</td></tr><tr><td>8</td><td>NM_004343</td><td>SR/p21 effectors</td><td>CCTGCCGTCTACTTCAAGGAG</td><td>GAACTTGCCGGAACTGAGAAC</td></tr><tr><td>9</td><td>NM_001237</td><td>Sl/p53-pRb signaling</td><td>CGCTGGCGGTACTGAAGTC</td><td>GAGGAACGGTGACATGCTCAT</td></tr><tr><td>10</td><td>NM_031966</td><td>Sl/p53-pRb signaling</td><td>AATAAGGCGAAGATCAACATGGC</td><td>TTTGTTACCAATGTCCCCAAGAG</td></tr><tr><td>11</td><td>NM_053056</td><td>Senescence pathway</td><td>GCTGCGAAGTGGAAACCATC</td><td>CCTCCTTCTGCACACATTTGAA</td></tr><tr><td>12</td><td>NM_001238</td><td>Senescence pathway</td><td>AAGGAGCGGGACACCATGA</td><td>ACGGTCACGTTTGCCTTCC</td></tr><tr><td>13</td><td>NM_001001</td><td>SR/Cell adhesion</td><td>CTGCCGCTTTGCAGGTGTA</td><td>CATTGTGGGCAAGGTGCTATT</td></tr><tr><td>14</td><td>392 NM_022809</td><td>Sl/p53-pRb signaling</td><td>TCTACGGAACTCTTCTCATCCAC</td><td>TCCAGGAGCAGGTTTAACATTTT</td></tr><tr><td>15</td><td>NM_001798</td><td>Senescence pathway</td><td>CCAGGAGTTACTTCTATGCCTGA</td><td>TTCATCCAGGGGAGGTACAAC</td></tr><tr><td>16</td><td>NM_000075</td><td> Senescence pathway</td><td>ATGGCTACCTCTCGATATGAGC</td><td>CATTGGGGACTCTCACACTCT</td></tr><tr><td>17</td><td>NM_001145 306</td><td>Senescence pathway</td><td>GCTGACCAGCAGTACGAATG</td><td>GCACACATCAAACAACCTGACC</td></tr><tr><td>18</td><td>NM_078467</td><td>Senescence pathway</td><td>TGTCCGTCAGAACCCATGC</td><td>AAAGTCGAAGTTCCATCGCTC</td></tr><tr><td>19</td><td>NM_004064</td><td>SI/INF related</td><td>AACGTGCGAGTGTCTAACGG</td><td>CCCTCTAGGGGTTTGTGATTCT</td></tr><tr><td>20</td><td>NM_001122 630</td><td>Sl/p53-pRb signaling</td><td>GCGGCGATCAAGAAGCTGT</td><td>GCTTGGCGAAGAAATCGGAGA</td></tr><tr><td>21</td><td>NM_000077</td><td>Senescence pathway</td><td>ATGGAGCCTTCGGCTGACT</td><td>GTAACTATTCGGTGCGTTGGG</td></tr><tr><td>22</td><td>NM_004936</td><td>Sl/p53-pRb signaling</td><td>CGAGGAGAAGAAGGGCAT</td><td>CATCATTACCTGGATCGC</td></tr><tr><td>23</td><td>NM_001262</td><td>Sl/p53-pRb signaling</td><td>GGGGACCTAGAGCAACTTACT</td><td>CAGCGCAGTCCTTCCAAAT</td></tr><tr><td>24</td><td>NM_079421</td><td>Senescence pathway</td><td>AGTCCAGTCCATGACGCAG</td><td>ATCAGGCACGTTGACATCAGC</td></tr><tr><td>25</td><td>NM_001274</td><td>Senescence pathway</td><td>ATATGAAGCGTGCCGTAGACT</td><td>TGCCTATGTCTGGCTCTATTCTG</td></tr><tr><td>26</td><td>NM_001005 735</td><td>Senescence pathway</td><td>TCTCGGGAGTCGGATGTTGAG</td><td>CCTGAGTGGACACTGTCTCTAA</td></tr><tr><td>27</td><td>NM_006079</td><td>Sl/p53-pRb signaling</td><td>CCTAATGGGCGAGCACATACA</td><td>GGGGTAGGGGTGATGGTTGA</td></tr><tr><td>28</td><td>NM_000088</td><td>SR/Cell adhesion</td><td>GAGGGCCAAGACGAAGACATC</td><td>CAGATCACGTCATCGCACAAC</td></tr><tr><td>29</td><td>NM_000090</td><td>SR/Cell adhesion</td><td>GGAGCTGGCTACTTCTCGC</td><td>GGGAACATCCTCCTTCAACAG</td></tr><tr><td>30</td><td>NM_003851</td><td>Sl/p53-pRb signaling</td><td>GGCGTGCCCTATTTCTACCTG</td><td>CAAAGTCATGGTCAGTGTAGCAT</td></tr><tr><td>31</td><td>NM_005225</td><td> Senescence pathway</td><td>ACGCTATGAGACCTCACTGAA</td><td>TCCTGGGTCAACCCCTCAAG</td></tr><tr><td>32</td><td>NM_001949</td><td> Senescence pathway</td><td>AGAAAGCGGTCATCAGTACCT</td><td>TGGACTTCGTAGTGCAGCTCT</td></tr><tr><td>33</td><td>NM_001964</td><td>SI/INF related</td><td>GGTCAGTGGCCTAGTGAGC</td><td>GTGCCGCTGAGTAAATGGGA</td></tr><tr><td>34</td><td>NM_001143</td><td>Senescence pathway</td><td>GATAGTTGTGATCGCCTCACC</td><td>GTCCTCTGAGTCGAAGCTGTC</td></tr><tr><td>35</td><td>820 NM_001256</td><td>Senescence pathway</td><td>CAGTCTGGTGAACGTGAATCTG</td><td>CGGAGGTGAGGTGTGAATTTT</td></tr><tr><td>36</td><td>295 NM_212482</td><td>SR/Cytoskeleton</td><td>CGGTGGCTGTCAGTCAAAG</td><td>AAACCTCGGCTTCCTCCATAA</td></tr><tr><td>37</td><td>NM_001924</td><td> SI/DNA damage</td><td>GAGAGCAGAAGACCGAAAGGA</td><td>CACAACACCACGTTATCGGG</td></tr><tr><td>38</td><td>NM_000404</td><td>SR/Other</td><td>TATACTGGCTGGCTAGATCACTG</td><td>GGCAAAATTGGTCCCACCTATAA</td></tr><tr><td>39</td><td>NM_002093</td><td>Sl/p53-pRb signaling</td><td>GGCAGCATGAAAGTTAGCAGA</td><td>GGCGACCAGTTCTCCTGAATC</td></tr><tr><td>40</td><td>NM_000194</td><td>Senescence pathway</td><td>GGACTTGAATCATGTTTGTG</td><td>CAGATGTTTCCAAACTCAAC</td></tr><tr><td>41</td><td>NM_005343</td><td>SI/MAPK signaling</td><td>ATGACGGAATATAAGCTGGTGGT</td><td>GGCACGTCTCCCCATCAATG</td></tr><tr><td>42</td><td>NM_181353</td><td>Sl/p53-pRb signaling</td><td>CTGCTCTACGACATGAACGG</td><td>GAAGGTCCCTGATGTAGTCGAT</td></tr><tr><td>43</td><td>NM_000619</td><td>SI/INF related</td><td>TCGGTAACTGACTTGAATGTCCA</td><td>TCGCTTCCCTGTTTTAGCTGC</td></tr><tr><td>44</td><td>NM_000875</td><td>Sl/p53-pRb signaling</td><td>TCGACATCCGCAACGACTATC</td><td>CCAGGGCGTAGTTGTAGAAGAG</td></tr><tr><td>45</td><td>NM_001013</td><td>Sl/p53-pRb signaling</td><td>AGAGCACAGATACCCAGAACT</td><td>GGTGATTCAGTGTGTCTTCCATT</td></tr><tr><td>46</td><td>398 NM_001253</td><td>SI/INF related</td><td>CGAGCAAGGTCCTTCCATAGT</td><td>GGTGTCGGGATTCCGATGAC</td></tr><tr><td>47</td><td>835 NM_005537</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Sl/p53-pRb signaling</td><td>AACAACGAGAACCGTGAGAAC</td><td>TGGTTGCACAGACAGTACGTG</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0a442590b0c8b1a80a13d1c9f2f2eeee5b4e49717de0bfd343e29bf715cab95.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "SI: 衰老引发因子 senescence initiators; SR:衰老信号反应 senescence responses。"
+        ],
+        "table_body": "<html><body><table><tr><td>48</td><td>NM_002755</td><td>SI/MAPK signaling</td><td>CAATGGCGGTGTGGTGTTC</td><td>GATTGCGGGTTTGATCTCCAG</td></tr><tr><td>49</td><td>NM_002756</td><td>SI/MAPK signaling</td><td>GACTCCCGGACCTTCATCAC</td><td>GGCCCAGTTCTGAGATGGT</td></tr><tr><td>50</td><td>NM_002758</td><td>Sl/p53-pRb signaling</td><td>GAAGCATTTGAACAACCTCAGAC</td><td>CCTGGCTATTTACTGTGGCTC</td></tr><tr><td>51</td><td>NM_139013</td><td>SI/MAPK signaling</td><td>CCCGAGCGTTACCAGAACC</td><td>TCGCATGAATGATGGACTGAAAT</td></tr><tr><td>52</td><td>NM_002392</td><td>Senescence pathway</td><td>GAATCATCGGACTCAGGTACATC</td><td>TCTGTCTCACTAATTGCTCTCCT</td></tr><tr><td>53</td><td>NM_015358</td><td>Sl/p53-pRb signaling</td><td>TCCTGATGTGAACGCTAAACAAA</td><td>GAACCCGACTTGAAGCCATTC</td></tr><tr><td>54</td><td>NM_002467</td><td>Sl/p53-pRb signaling</td><td>GGCTCCTGGCAAAAGGTCA</td><td>CTGCGTAGTTGTGCTGATGT</td></tr><tr><td>55</td><td>NM_002485</td><td>SI/DNA damage</td><td>GACTGGCGTTGAGTACGTTGT</td><td>TGATTTCGGCTGATCGACTGA</td></tr><tr><td>56</td><td>NM_003998</td><td>SI/INF related</td><td>AACAGAGAGGATTTCGTTTCCG</td><td>TTTGACCTGAGGGTAAGACTTCT</td></tr><tr><td>57</td><td>NM_002592</td><td>Sl/p53-pRb signaling</td><td>CCTGCTGGGATATTAGCTCCA</td><td>CAGCGGTAGGTGTCGAAGC</td></tr><tr><td>58</td><td>NM_006218</td><td>Sl/p53-pRb signaling</td><td>CCACGACCATCATCAGGTGAA</td><td>CCTCACGGAGGCATTCTAAAGT</td></tr><tr><td>59</td><td>NM_001145</td><td>Sl/p53-pRb signaling</td><td>GCTTGTCCAAGAGTGCATGGT</td><td>CAGGGCTGGTTCTCGATGG</td></tr><tr><td>60</td><td>031 NM_001002</td><td>Senescence pathway</td><td>CTTCCCACGAAGCTAAGGCCGC</td><td>AGAGGTTTAGTCAAAAAGACCA</td></tr><tr><td>61</td><td>NM_000314</td><td>SR/Other</td><td>TGGATTCGACTTAGACTTGACCT</td><td>GGTGGGTTATGGTCTTCAAAAGG</td></tr><tr><td>62</td><td>NM_000321</td><td>Senescence pathway</td><td>TTGGATCACAGCGATACAAACTT</td><td>AGCGCACGCCAATAAAGACAT</td></tr><tr><td>63</td><td>NM_002895</td><td>Sl/p53-pRb signaling</td><td>CTGGACGACTTTACTGCCATC</td><td>TCCAACCGTGGGAATAATGCT</td></tr><tr><td>64</td><td>NM_005611</td><td>Senescence pathway</td><td>CCACCCCTCAGATCCAGCA</td><td>CGTGTAGCTTTCGCTCATGC</td></tr><tr><td>65</td><td>NM_001143</td><td>Sl/p53-pRb signaling</td><td>CAGCACCGAAGACCAGATGG</td><td>CCTGCAAAATCGCATCAGGATAA</td></tr><tr><td>66</td><td>818 NM_001165</td><td>Sl/p53-pRb signaling</td><td>ACCGCAACGTGGTTTTCTCA</td><td>TTGAATCCCATAGCTGCTTGAAT</td></tr><tr><td>67</td><td>413 NM_001142</td><td>Sl/p53-pRb signaling</td><td>TAGCCTTGTCAGATAAGGAAGGA</td><td>ACAGCTTCACAGTCAACTTTGT</td></tr><tr><td>68</td><td>498 NM_003118</td><td>Sl/p53-pRb signaling</td><td>TGAGGTATCTGTGGGAGCTAATC</td><td>CCTTGCCGTGTTTGCAGTG</td></tr><tr><td>69</td><td>NM_005994</td><td>SR/p16 effectors</td><td>GCTGACGATTGCCGCTATAAG</td><td>CCCCTTCAAGGTGCGAGTC</td></tr><tr><td>70</td><td>NM_005996</td><td>SR/p16 effectors</td><td>GGACCTCTGATGAGTCCTCCA</td><td>TCGCTGGGACATAAATCTTTGAG</td></tr><tr><td>71</td><td>NM_005652</td><td>SI/DNA damage</td><td>CAGTGTCTGTCGCGGATTGAA</td><td>CATTGATAGCTGATTCCAGTGGT</td></tr><tr><td>72</td><td>NM_001193</td><td>SI/DNA damage</td><td>CCGATTGTGAACATGGACTACG</td><td>CACGCTGAACAGTGCCTTC</td></tr><tr><td>73</td><td>NM_000660</td><td>Sl/p53-pRb signaling</td><td>GGCCAGATCCTGTCCAAGC</td><td>GTGGGTTTCCACCATTAGCAC</td></tr><tr><td>74</td><td>NM_015927</td><td>SR/Cell adhesion</td><td>TACAGCACGGTATGCAAGCC</td><td>GCAACCGATCTAGCTCACAGAG</td></tr><tr><td>75</td><td>NM_003246</td><td>SR/Cell adhesion</td><td>AGACTCCGCATCGCAAAGG</td><td>TCACCACGTTGTTGTCAAGGG</td></tr><tr><td>76</td><td>NM_001126</td><td>Senescence pathway</td><td>CAGCACATGACGGAGGTTGT</td><td>TCATCCAAATACTCCACACGC</td></tr><tr><td>77</td><td>118 NM_001141</td><td>SI/DNA damage</td><td>ATGGACCCTACTGGAAGTCAG</td><td>TTTCTTTGTGCGTCTGGAGATT</td></tr><tr><td>78</td><td>980 NM_001114</td><td>Senescence pathway</td><td>GGACCAGCAGATTCAGAACGG</td><td>AGGACACGTCGAAACTGTGC</td></tr><tr><td>79</td><td>978 NM_001204</td><td>Senescence pathway</td><td>GACGAGGACACGTACTACCTT</td><td>CTGCCGATAGGAGTCCACCA</td></tr><tr><td>80</td><td>187 NM_000474</td><td>Senescence pathway</td><td>GTCCGCAGTCTTACGAGGAG</td><td>GCTTGAGGGTCTGAATCTTGCT</td></tr><tr><td>81</td><td>NM_003380</td><td>SR/Cytoskeleton</td><td>AGTCCACTGAGTACCGGAGAC</td><td>CATTTCACGCATCTGGCGTTC</td></tr><tr><td>82</td><td>NM_001256</td><td></td><td>GGAGCGAGATCCCTCCAAAAT</td><td>GGCTGTTGTCATACTTCTCATGG</td></tr><tr><td></td><td>799</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5Western 印迹收集细胞，RIPA裂解缓冲液（ $( 0 . 5 \\%$ 脱氧胆酸钠， $1 . 0 \\%$ NP-40，150$\\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 氯化纳， $0 . 1 \\%$ SDS， $5 0 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ Tris-pH8.0,0.2 mg·L-1 抑肽酶，1$\\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 苯甲基磺酰氟, $0 . 5 \\mathrm { m g \\cdot L ^ { - 1 } }$ 亮抑蛋白肽酶)冰上裂解,离心取上清；加入上样缓冲液,煮沸 $5 \\mathrm { m i n } ,$ ，经SDS-PAGE 电泳后半干电转法转移至PVDF膜； $5 \\%$ 脱脂奶粉室温封闭 $^ { 1 \\mathrm { h } }$ 一抗 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 过夜孵育，TBS-T 洗3次，HRP标记的相应二抗室温孵育 $^ \\mathrm { ~ 1 ~ h ~ }$ ，ECL化学发光法检测特异蛋白条带。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6 统计学分析 应用 SPSS 20.0统计软件，重复测量资料方差分析，样本两两比较进行",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LSD-t 检验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3．结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1莪术醇对HepG2细胞增殖及细胞周期的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用不同浓度（ $\\mathopen { } \\mathclose \\bgroup \\left( 0 \\sim 1 0 0 0 . 0 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 } \\aftergroup \\egroup \\right)$ ）的莪术醇分别处理人肝癌HepG2细胞 $4 8 \\mathrm { h }$ 及72h，MTT法检测细胞活力并计算莪术醇的IC50。如图1A示，莪术醇对HepG2细胞增殖活性具有显著抑制作用，呈时间和剂量依赖性， $4 8 \\mathrm { h }$ 及 $7 2 \\mathrm { { h } }$ 的 IC50分别为 $5 2 9 . 5 \\mathrm { m g \\cdot L ^ { - 1 } }$ 和$1 7 3 . 5 \\mathrm { m g \\cdot L ^ { - 1 } }$ 。为进一步观察莪术醇对HepG2 细胞增殖的长时间影响，先以无血清培养液同步化HepG2细胞，继之采用 $2 5 \\mathrm { m g \\cdot L ^ { - 1 } }$ 莪术醇处理 $2 4 \\mathrm { h }$ ，更换不含莪术醇的培养基并于第 3天细胞长至 $8 0 \\%$ 融合时稀释（1：4）传代。分别收集经莪术醇处理 $2 4 \\mathrm { h }$ ， $7 2 \\mathrm { { h } }$ 及120h的细胞，乙醇固定、碘化丙啶（PI）染色上流式细胞仪检测细胞周期分布情况，结果见图1B、1C。与对照组相比，莪术醇处理 $2 4 \\mathrm { ~ h ~ }$ 和 $7 2 \\mathrm { ~ h ~ }$ 后G0/G1期细胞分别由（ $( 6 2 . 8 8 ~ \\pm \\$ 4.71) $\\%$ 和 $\\mathit { \\check { ( 6 6 . 1 3 \\pm 0 . 8 3 ) } } \\ \\%$ 增加到 $( 6 9 . 1 7 ~ \\pm ~ 4 . 4 4 ) ~ \\%$ 和 $( 8 4 . 3 1 \\ \\pm \\ 2 . 1 5 ) \\ \\%$ ，而S 期和G2 期细胞相应减少，在处理后 $^ { 1 2 0 \\mathrm { ~ h ~ } }$ 时G1/G0 期细胞仍高达 $( 8 5 . 7 4 \\pm 5 . 3 0 ) \\%$ 对照组为 $( 6 5 . 7 6 ~ \\pm ~ 1 . 5 2 ) ~ \\%$ ，差异有统计学意义，提示较低剂量莪术醇能够诱导HepG2细胞长时间的GO/G1期阻滞。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/91c37ba34086f36b8e938438ccf19c258963104d4e696cb3c0ceea1d4cd3a6b6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：A.MTT法检测莪术醇对 HepG2 细胞增殖的抑制作用。B.流式细胞术检测莪术醇阻滞HepG2 细胞于G0/G1期。C.三次独立流式细胞术检测的G0/G1期细胞百分数的均值±标准差的统计学分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: A. Inhibitory efect of curcumol on HepG2 cell proliferation detected by MTT assay. B. Curcumol-induced G0/G1 phase cell cycle arrest determined by flow cytometry. C. The percentage of G0/G1 phase cells was represented as the mean $\\pm$ SD of three independent experiments. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图1莪术醇对HepG2细胞增殖及细胞周期的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effects of curcumol on cell proliferation and cell cycle progression in HepG2 cells ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2莪术醇对HepG2细胞的衰老诱导作用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "长时间细胞周期阻滞可能是细胞的衰老反应。衰老细胞体积变大扁平，核膜内陷，细胞器变形，衰老相关的 $\\beta$ -半乳糖苷酶 (SA $\\cdot \\{ \\beta$ -gal)染色阳性。为检测莪术醇处理后HepG2细胞是否发生衰老表型改变，我们在前述3.1细胞周期实验的基础上，对莪术醇（ $2 5 \\mathrm { m g \\cdot L ^ { - 1 } } .$ ）处理后的HepG2细胞分别于第7、10天进行 SA $\\cdot \\beta$ -gal染色,。光镜下观察细胞形态并计数蓝染阳性细胞，见莪术醇处理后细胞呈现大而扁平的改变，7d 和 $1 0 \\mathrm { d }$ 组蓝染细胞数分别为( $7 0 . 0 3 \\pm$ $8 . 3 7 \\ : ) \\%$ 和 $( 8 7 . 2 3 \\pm 6 . 8 9 ) \\%$ ；vehicle 对照组细胞形态无明显变化，细胞SA- $\\cdot \\beta - \\tt g a l$ 检测蓝染率为 $( 2 . 2 8 \\pm 0 . 7 3 ) \\% \\sim ( 4 . 4 0 \\pm 1 . 2 6 ) \\ \\% ,$ 二组间差异检验有统计学意义 $( P { < } 0 . 0 1 ,$ 图2)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/63f16a72046a8e0bef251f0c19f36d4f393102c362c82562bb54902ce9bf21d4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：A.莪术醇处理HepG2细胞后第7、第10天分别行衰老相关- $\\cdot \\beta$ 半乳糖苷酶（SA $\\cdot \\beta$ gal)   \n染色，光镜下观察细胞形态变化及胞浆蓝染 $( \\times 4 0 0 )$ ；B.三次独立SA $\\cdot \\beta$ -gal染色实验蓝染阳性 细胞百分数的均值±标准差的统计学分析， $^ { * * } P { < } 0 . 0 0 1$ (与空白对照组比较)。   \nNote: A. Morphology of control cells (vehicle) and curcumol-treated cells were examined following SA- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ gal staining under microscopy $( \\times 2 0 0 )$ ; B. The percentage of positively   \nstaining cells was represented as the x ± s of three independent experiments. ( $^ { \\prime * * } P { < } 0 . 0 0 1$ VS. vehicle control). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图2 衰老相关 $\\cdot \\beta$ -半乳糖苷酶染色检测莪术醇对HepG2细胞衰老的诱导作用 Fig.2 Determination of cellular senescence by SA- $\\boldsymbol { \\cdot } \\beta$ gal staining in curcumol-treated HepG2 cells. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3莪术醇对HepG2细胞衰老相关基因表达谱的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为进一步探讨莪术醇诱导细胞衰老的机制，我们采用 SybeGreen实时荧光定量RT-PCR方法筛查莪术醇处理后HepG2细胞中 81个衰老相关基因差异表达情况并以ACTB基因标化定量分析。结果示：与对照组（vehicle处理）比较， $2 5 \\mathrm { m g \\cdot L ^ { - 1 } }$ 莪术醇处理 $2 4 \\mathrm { h }$ 后，HepG2 细胞中 20个基因 一— ABL1、ALDH1A3、ATM、B2M、CALR、CyclinD1、CD44、CDK2、p21-Cip1、p27-Kip1、p16-Ink4A、p19-Ink4D、TP53、COL3A1、ETS1、HRAS、IFNG、PRLP0、PTEN－-表达水平显著上调；8个基因—— Cyclin",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A2、GADD45A、HPRT1、IGFBP3、MORC3、SIRT1、TERT、THBS1－-表达水平显著下调（图3、表2）。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5f4c58b9781200b2a2f3922ac22668e7a90969d287b9413fc0a557e35a04dcf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注：莪术醇处理24h，HepG2细胞81个衰老相关基因差异表达谱分析：以ATCB基因标化，红色圆点分别代表20个表达上调大于2倍且 $\\mathrm { p } { < } 0 . 0 5$ 的基因，绿色圆点分别为8个表达下调2倍以上且 $\\mathrm { p } { < } 0 . 0 5$ 的基因。FC：相差倍数。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note:Analysis of 81 senescence-related gene differential expression profile in HepG2 cells $2 4 \\mathrm { h }$ after curcumol treatment: based normalization with ACTB gene, the red dots represent 20 genes whose expression were up-regulated over 2-fold and $\\mathtt { p } { < } 0 . 0 5 ,$ ,and the green dots are 8 genes whose expression were down-regulated more than 2-fold and p $< 0 . 0 5$ , respectively. FC: fold change. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Volcano plot of 81 senescence-related gene expression in HepG2 cells (curcumoltreated versus -untreated) ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/09dd6d5572cfadc23835e093c0b00cdc5bfec9c451b921b40d7d32c5a6a85988.jpg",
+        "table_caption": [
+            "表2.莪术醇处理后HepG2细胞中衰老相关基因的差异表达",
+            "Table 2. Differentially expressed senescence-related genes in curcumol-treated HepG2 cells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">基因 Genes</td><td colspan=\"2\">相差倍数 Fold-change</td><td colspan=\"2\">P值 P-value</td><td colspan=\"2\">相差倍数 Fold-change</td><td colspan=\"2\">P值 P-value</td></tr><tr><td>1</td><td>ACTB</td><td>2.04±0.6</td><td></td><td></td><td>Genes</td><td></td><td></td><td></td></tr><tr><td>2</td><td>ABL1</td><td>6 4.51±0.38</td><td>0.0122</td><td></td><td>16</td><td>COL3A1</td><td>7.58±0.70</td><td>P=0.0194</td></tr><tr><td>3</td><td>ALDH1A</td><td>10.60±0.8</td><td>0.0098</td><td></td><td>17</td><td>ETS1</td><td>6.74±0.67</td><td>P=0.0468</td></tr><tr><td>4</td><td>ATM</td><td>6.54±0.91</td><td>0.0360</td><td></td><td>18</td><td>HRAS</td><td>5.53±0.14</td><td>P=0.0134</td></tr><tr><td>5</td><td>B2M</td><td>6.93±0.65</td><td>0.0230</td><td></td><td>19</td><td>IFNG</td><td>6.89±0.41</td><td>P=0.0140</td></tr><tr><td>6</td><td>CALR</td><td>5.49±0.18</td><td>0.0148</td><td></td><td>20</td><td>PRLPO</td><td>4.94±0.10</td><td>P=0.0250</td></tr><tr><td>7</td><td>Cyclin D1</td><td>8.82±0.80</td><td>0.0148</td><td></td><td>21</td><td>PTEN</td><td>3.79±0.11</td><td>P=0.0472</td></tr><tr><td>8</td><td>CD44</td><td>8.53±0.96</td><td>0.0186</td><td></td><td>22</td><td>Cyclin A2</td><td>1.02±0.12</td><td>P=0.0166</td></tr><tr><td>9</td><td>CDK2</td><td>5.57±0.27</td><td>0.0176</td><td></td><td>23</td><td>GADD45</td><td>2.13±0.31</td><td>P=0.0020</td></tr><tr><td>10</td><td>N14A</td><td>5.17±0.14</td><td>0.0164</td><td></td><td>24</td><td>HPRT1</td><td>2.83±0.31</td><td>P=0.0240</td></tr><tr><td>11</td><td>INK4D</td><td>5.32±0.45</td><td>0.0332</td><td></td><td>25</td><td>IGFBP3</td><td>1.67±0.54</td><td>P=0.0322</td></tr><tr><td>12</td><td>P21</td><td>6.01±0.97</td><td>0.0476</td><td></td><td>26</td><td>MORC3</td><td>0.64±0.32</td><td>P=0.0322</td></tr><tr><td>13</td><td>p27,KIP1</td><td>9.97±0.80</td><td>0.0108</td><td></td><td>27</td><td>SIRT1</td><td>、</td><td>P=0.0448</td></tr><tr><td>14</td><td>TP53</td><td>4.07±0.24</td><td>0.0160</td><td></td><td>28</td><td>TERT</td><td>1.04±0.53</td><td>P=0.0056</td></tr><tr><td>15</td><td>CHEK2</td><td>4.07±0.24</td><td>0.0468</td><td></td><td>29</td><td>THBS1</td><td>4.50±0.29 1.02±0.34</td><td>P=0.0056</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Western 印迹检测p53蛋白功能",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "最后，我们采用Western 印迹技术对p53及其下游主要周期素依赖性蛋白激酶抑制物",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（CKIs）分子的表达水平进行验证。结果显示，经莪术醇处理,HepG2细胞的p53、p21WAF1和p16INK4蛋白水平较对照组显著升高，CyclinA2水平显著降低，与前述PCR实验检测该基因 mRNA水平下调的结果一致。此外，检测发现野生型p53-诱导的蛋白磷酸酶1（Wip1）水平显著增高，结合p21WAF1的转录激活，表明p53功能被激活，（图4）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/4070e7b09097a46f046e950e5df8ed7193593248d356de64a4939ec0b2a1a406.jpg",
+        "img_caption": [
+            "图4Western印迹检测p53蛋白及其调控基因的表达"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "注：A.莪术醇处理 $2 4 \\mathrm { h }$ ，Western 印迹检测 HepG2 细胞中 p53,p21, p16,WIP1 和 Cyclin A2   \n蛋白水平, $\\beta$ -actin为对照。B.三次独立Western 印迹蛋白信号条带灰度定量的均值±标准差的 统计学分析， ${ \\beta }$ -actin标化。 $^ { * } \\mathrm { P } { < } 0 . 0 5 , ^ { * * } \\mathrm { P } { < } 0 . 0 1$ (与对照组比较)。 Note: A. Twenty-four hours after curcumol treatment, protein levels of p53, p21, p16,   \nWIP1 and Cyclin A2 were determined by Western bloting with correspondent antibodies.   \n${ \\beta }$ -actin is shown as a loading control. B. Quantitative data of the protein levels of interest.   \nEach bar represents the mean±SD of three independent experiments. $( ^ { * } \\mathrm { P } { < } 0 . 0 5 , ^ { * * } \\mathrm { P } { < } 0 . 0 1$ vs. control). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Detection of the expression of p53 protein and its regulatory genes in Western blot ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "莪术醇是从中药莪术中分离得到的单体化合物，广西是我国莪术的主产区之一。体外细胞培养和动物实验表明，莪术醇能够抑制肝癌、肺癌、胃癌、卵巢癌、鼻咽癌等多种肿瘤细胞的增殖与生长，其作用机理可能涉及诱导细胞周期阻滞与凋亡、抑制细胞核酸代谢、抑制肿瘤血管生成、促进细胞分化等诸多方面（Wang et al,2009;Tang et al,2015;)，目前对于莪术醇抗肿瘤的作用机理还缺乏深入研究。我们曾经报道，莪术醇对人肝癌HepG2细胞的增殖具有明显的抑制作用，该效应呈时间和剂量依赖性，与激活 $\\mathsf { p } 5 3 / \\mathsf { p R B }$ 通路，抑制Cyclin A基因表达和上调p21WAF1、p27KIP1、CDK8等基因水平有关（Huang etal,2013）。此外，莪术醇还能够通过激活p73-PUMA信号通路，诱导p53突变型三阴性乳腺癌MDA-MB 231细胞凋亡（Huangetal,2017）。在本研究中，我们发现较低剂量（ $2 5 \\mathrm { m g \\cdot L ^ { - 1 } }$ ）莪术醇处理HepG2 细胞，诱导G0/G1期周期阻滞，伴细胞体积变大扁平、表达在 $\\mathrm { p H } 6 . 0$ 时有高酶活性的 $\\beta \\cdot$ -半乳糖苷酶等细胞衰老表型改变，表明莪术醇具有诱导HepG2细胞早衰的生物学效应。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "衰老细胞表现为不可逆地细胞周期停滞特征。在哺乳动物中，细胞周期进程存在G1/S期、 ${ \\bf G } 2 / { \\bf M }$ 期及纺锤体装配期3个检查点(checkpoint)，受到周期素（Cyclins）、周期素依赖性蛋白激酶（CDK）和周期素依赖性蛋白激酶抑制物（CKI）的严格调控。CDK通过与相应Cyclin形成复合物而被激活，驱动细胞周期进程。如CyclinA1可与CDK2结合形成复合物，敲除CyclinA1基因导致G1期细胞周期阻滞，CyclinA2则可以在S期结合CDK1或CDK2参与G2/M期转换的调控（Pagano et al,1992）。Wu等报道，植物娃儿藤提取物Tylophorine 通过抑制 CyclinA2基因水平诱导HepG2细胞G0/G1期周期阻滞，而CyclinA2基因过表达则能够逆转 Tylophorine 诱导的的这一周期阻滞效应（Wuet al,2009）。另一方面，Cyclin-CDK复合物的作用受CKI直接控制。CKI分为INK4和CIP/KIP家族两类。前者主要通过隔离CDK，阻止CDK与Cyclin形成复合物；后者则可以直接与Cyclin-CDK复合物结合，通过抑制CDK的活性对细胞周期进程负向调节。本研究采用高通量荧光定量PCR 技术对莪术醇处理后的HepG2细胞中81个衰老相关基因进行了差异表达谱分析，结果表明 TP53及其下游基因p16 Ink4a、p21Waf1/Cip1和p27 Kip1等的表达水平显著升高，伴随ABL1、ALDH1A3、CHEK2、HRAS、PTEN等衰老信号通路启动与效应关联基因的转录显著增强，而CyclinA2、IGFBP3、SIRT1以及TERT等细胞周期进程与衰老信号通路的负性调控基因的表达水平则显著降低。通常认为，当细胞内DNA受损时，p53即被激活，通过p21或/和p27抑制CDK2 和CDK3 活性，或激活p16以阻断CDK4 和CDK6与Cyclin 的结合，抑制RB信号通路，阻滞细胞周期于G1/G0 期或G2/M期（Terzi et al,2016;Gire and",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dulic，2015）。衰老相关基因表达谱筛查结果发现共计20个基因mRNA水平上调、8个基因水平下调，提示莪术醇诱导细胞衰老涉及复杂的信号转导机制。本研究中Western blot检测结果除证实细胞p16水平升高和CyclinA2水平降低以外，还显示p53蛋白及其转录激活靶分子p21WAF1和野生型p53-诱导的蛋白磷酸酶1（Wip1）的水平显著增高，提示p53 激活可能是莪术醇诱导HepG2细胞衰老的重要原因，值得探讨。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本研究表明，莪术醇能够在体外诱导肝癌HepG2细胞早衰,其机制可能是通过活化抑癌基因 p53、上调p21WAF1、p16INK4等CKI分子及PTEN的表达水平，一系列涉及衰老通路关联分子参与，从而诱导细胞周期G0/G1期阻滞来实现的。本研究为进一步探讨莪术醇的抗肿瘤作用机制及其潜在的临床应用提供了有价值的信息。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GIRE V& DULIC V， 2015. Senescence from G2 arrest, revisited [J]. Cell Cycle, 14(3):297- 304.   \nHUANG L，WANGJ,LU F， et al, 2013.Mechanism study on anti-proliferative effects of curcumol in human hepatocarcinoma HepG2 cells[J]. China J Chin Mat Med, 38(11): 1812-1815.[黄岚珍，王娟，卢菲婷，等，2013.莪术醇抑制人肝癌细胞HepG2增殖的 机制[J].中国中药杂志，38(11): 1812-1815.]   \nHUANG L,LI A, LIAO G, et al, 2017. Curcumol triggers apoptosis of p53 mutant triple-negative human breast cancer MDA-MB 231 cells via activation of p73 and PUMA[J]. Oncol Lett, 14(1):1080-1088.   \nLU JJ,DANG YY, HUANG M, et al, 2012. Anti-cancer properties of terpenoids isolated from Rhizoma Curcumae--a review[J]. J Ethnopharmacol, 143(2):406-411.   \nNARDELLA C, CLOHESSY JG, ALIMONTI A, et al, 2011. Pro-senescence therapy for cancer treatment[J]. Nat Rev Cancer, 11(7):503-511.   \nPAGANO M, PEPPERKOK R, VERDE F, et al, 1992. Cyclin A is required at two points in the human cell cycle[J]. Embo J, 11(3):961-971.   \nRUFINI A, TUCCI P, CELARDO I, et al, 2013. Senescence and aging: the critical roles of p53[J]. Oncogene, 32(43):5129-5143.   \nSCHOSSERER M, GRILLARI J, BREITENBACH M, 2017. The dual role of celular senescence in developing tumors and their response to cancer therapy[J]. Front Oncol, 7:278.   \nTANG QL, GUO JQ, WANG QY, et al, 2015. Curcumol induces apoptosis in SPCA1 human lung adenocarcinoma cells and displays antineoplastic effects in tumor bearing mice [J]. Asian Pac JCancer Prev, 16 (6): 23072312.   \nTERZI MY, IZMIRLI M, GOGEBAKAN B,2016. The cellfate: senescence or quiescence[J]. Mol Biol Rep, 43(11):1213-1220.   \nWANG Y， XU L,2009. Advances in the Researches of Curcumol Against Tumor[J]. MedRecapit,15(22):3483-3486.[王耀霞，徐立春,2009.莪术醇抗肿瘤研究进展[J].医学 综述，2009，15(22):3483-3486.]   \nWU CM, YANG CW,LEE YZ, et al, 2009. Tylophorine arrests carcinoma cells at G1 phase by downregulating cyclin A2 expression[J]. Biochem Biophys Res Comm, 386(1):140-145.   \nYANG F, HUANG L, YANG J, et al, 2O15. Cisplatin-induced senescence and senescence-related gene expression profiles in human nasopharyngeal carcinoma cels CNE2[J]. Cancer Res Prev Treat,42(1):4-8.[杨飞城，黄岚珍，阳晶，等，2015.顺铂诱导人鼻咽癌CNE2细胞衰老 及其相关基因表达谱的研究[J].肿瘤防治研究，42(1):4-8.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

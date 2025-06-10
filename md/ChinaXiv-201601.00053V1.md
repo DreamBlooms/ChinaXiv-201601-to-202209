@@ -1,0 +1,202 @@
+# 科技知识组织体系开放引擎系统的设计与实现
+
+王　颖」张智雄」李传席²刘毅汤怡洁³周子健³钱力14付鸿鹄」  
+1(中国科学院文献情报中心 北京 100190)  
+2(中国长城资产管理公司北京 100045)  
+3(中国科学院武汉文献情报中心 武汉 430071)  
+4(中国科学院大学北京 100049)
+
+摘要：【目的】为实现科技知识组织体系(STKOS)的共享和利用。【应用背景】构建知识组织体系有机存储与访问的引擎系统是实现知识组织体系有效利用的前提条件。【方法】构建支持STKOS各类元素检索、浏览、关联、导航的语义存储与索引体系、语义查询与推理内核以及STKOSAPI，并对外提供开放查询与推理接口。【结果】该引擎系统支持STKOS 发布服务平台建设以及STKOS在第三方检索服务系统的应用。【结论】通过STKOS开放引擎系统，科技文献信息机构和研究人员能够方便有效地利用STKOS。
+
+关键词：知识组织引擎系统查询接口分类号：TP393
+
+# 1引言
+
+目前，叙词表、主题词表、分类表、术语表、本体等知识组织体系在信息资源组织、揭示、检索、发现等方面发挥着巨大的作用。由国家科技文献信息中心牵头，组织实施了国家科技支撑计划项目“面向外文科技文献信息的知识组织体系建设和示范应用”通过构建我国面向外文科技文献的知识组织体系(Scientific & Technological Knowledge OrganizationSystems,STKOS)，为我国海量外文科技文献信息的组织和利用提供支撑[1]。作为该项目的重要组成部分,“科技知识组织体系共享服务平台建设"课题的建设目标是构建支持我国科技界、科技信息服务机构和信息处理领域实现STKOS有效利用的开放式服务环境。而实现STKOS开放共享的前提是构建STKOS有机存储与访问的开放引擎系统。
+
+为此，本文在充分调研国内外相关研究和系统建设经验的基础上，提出STKOS开放引擎系统的总体框架，进行各功能的设计与实现，并介绍引擎系统的应用情况。STKOS开放引擎系统采用先进的语义仓储、索引、查询、推理、接口技术，构建STKOS的存储索引体系、语义查询与推理内核以及支持STKOS各类元素检索、浏览、关联、导航的STKOSAPI，并通过上层封装开发基于标准协议的开放接口，供国内各机构和第三方系统使用，让STKOS在我国科技界、科技信息服务机构和信息处理领域的科技创新中充分发挥作用。
+
+# 2 国内外相关研究
+
+为实现知识组织体系的有效利用，国内外许多机构已经开展了知识组织体系发布与共享服务的相关研究和系统建设，通过在线检索与浏览服务、API接口、Web服务等方式支持用户以及机器对知识组织体系的访问和调用。
+
+UMLS术语服务提供在线的检索和浏览界面以及远程访问的Web服务API，并且在每个UMLS完整下载版本中都包含了本地安装和定制超级词表的MetamorphoSys工具。UMLS超级词表的数据采用RRF文件或ORF文件存储，这两类文件都遵循实体关系(ER)模型，通过一系列类似ER 模型的"查询图"实现多个文件的联合查询[2]。MetamorphoSys 工具通过构建索引文件提高其RRF 浏览器的检索效率[3]。此外,MetamorphoSys工具可以创建SQL脚本将定制的UMLS超级词表和语义网络加载到Oracle、MySQL等关系数据库中，方便用户进一步利用UMLS[3]。
+
+NCI企业级词表服务(EVS)通过开源的LexEVS术语服务器提供NCI叙词表、NCI超级词表以及NCI与其他术语表的集成检索与浏览服务[4]。LexEVS底层基于LexGrid模型实现如OBO格式、NCI叙词表的OWL语言、UMLS的RRF格式等多种词表格式的形式化表示与存储，利用JavaAPI和分布式LexBIGAPI实现LexGrid模型词表数据的查询与访问，并创建Lucene索引增强词表数据查询性能，此外提供SOAP和REST两种方式的服务接口[5]。
+
+OCLC 术语服务提供FAST、GSAFD、LCSH、MeSH等词表的检索与浏览服务，支持HTML、MARCXML、SKOS和Zthes等多种数据格式，以及SRUCQL语法的检索功能，通过Web服务接口向第三方提供XML、RDF以及JSON 编码的输出，支持REST和SRU/SRW两类访问方式[6]
+
+AIMS 网站提供AGROVOC多语种农业主题词表的在线搜索、浏览和下载服务，AGROVOCWeb服务采用SOAP技术允许访问RDF版本的AGROVOC数据。AIMS开发的VocBench编辑工具实现了基于万维网的AGROVOC开源协作式编辑，以此编辑和维护的AGROVOC采用SKOS-XL 概念框架，已作为一个关联开放数据(LOD)发布，与农业方面的其他多语种知识组织系统相关联，其关联数据版本采用AllegroGraph数据库存储，提供机器可访问的SPARQL终端，通过Pubby工具生成人类可读的HTML页面。
+
+国内方面，中国科学技术信息研究所建设汉语科技词系统，通过vocgrid 网络平台①对外提供服务，用户可以通过该平台访问获取词条的全部知识[8]。汉语科技词系统使用MySQL数据库存储词系统,API接口分为数据层(DataAccess)和逻辑层(BusinessLogic)，采用Web服务技术将系统各模块的应用服务接口进行了封装处理和发布实现[9]。
+
+欧石燕[10]在对国外术语注册与数据服务系统深入调研后，提出我国术语注册与术语服务系统的开发与构建的建议：采用新兴的语义网和关联数据技术开发兼具术语注册与术语服务功能的完整系统，提供人与机器对注册词表元数据和词表内容的访问，采用RESTfulWeb服务构建术语服务，支持以关联数据方式发布词表内容。
+
+通过上述国内外相关研究可以发现：目前知识组织体系逐渐向SKOS/RDF、OWL等数据格式转变，其存储机制也从关系型数据库存储向 RDF 语义仓储转换，同样对外访问方式也在基于SOAP协议的Web服务方式基础上增加REST方式和SPARQL终端访问方式。为此，针对STKOS实际情况，本项目采用先进的语义仓储、索引、查询、推理、接口技术开发了STKOS开放引擎系统。
+
+# 3系统设计与实现
+
+# 3.1 总体框架
+
+STKOS开放引擎系统是以科技知识组织体系(STKOS)为内容，开发实现的一个开放式知识组织引擎，它根据STKOS数据特性构建高性能的、可靠的知识存储索引体系和 STKOS 检索查询与语义推理内核引擎，支持STKOS发布服务平台建设，并提供可供外部调用的STKOSAPI接口，通过标准的开放查询和推理服务接口协议供国内各机构和第三方系统使用。STKOS开放引擎系统的总体框架，如图1所示，共分4个层次：存储与索引层、查询与推理功能层、STKOSAPI层以及开放查询和推理接口层
+
+(1）存储与索引层：采用Virtuoso 作为底层RDF数据库，存储STKOS 超级科技词表和本体的所有RDF三元组，在其基础上构建RDF索引和SoIr多维索引，支持基于知识存储索引系统的查询、推理及应用服务。
+
+(2）查询与推理功能层：在存储与索引层的基础上，进一步实现对SPARQL查询的优化，同时进行相应的索引调度和分析处理。采用索引前推理和检索中实时推理相结合的方式，实现针对 STKOS 的语义推理功能。
+
+![](images/f2e64ab0357ac0f0763e8ed91cda7c8053c1b16510b4e4291b93cb741352f531.jpg)  
+图1STKOS开放引擎系统总体框架
+
+(3）STKOSAPI层：根据STKOS超级词表元数据和本体结构特点设计实现STKOSAPI接口，支持上层访问与应用。STKOSAPI层由三个子层构成：STKOS基本API、STKOS上层API以及STKOS SolrAPI,实现对STKOS数据的基本访问以及面向应用的API接口。(4)开放查询和推理接口层：通过接口管理器控制 STKOS开放查询和推理接口的对外服务，基于Web服务体系架构，分别利用基于SOAP协议和REST协议的Web服务实现STKOS引擎系统的功能封装，并提供SPARQL终端支持外部直接输入SPARQL查询语句对RDF进行查询。
+
+# 3.2 数据存储
+
+科技知识组织体系(STKOS)由规范词表系统和本体库组成，STKOS超级科技词表中预计收录科技术语不少于500万条，科技概念规范名称80万条，领域本体概念达到6万条，属性20万条[1]。为支持 STKOS的开放与关联，将STKOS 超级科技词表与本体都以RDF 三元组形式进行存储和利用。在对语义仓储[1I]充分调研基础上，选用高性能的Virtuoso 数据库作为RDF仓储，实现STKOS超级科技词表和领域本体超大规模RDF三元组的有效存储，支持查询、推理及应用服务。
+
+Virtuoso是一个通用的RDF数据库，所有的三元组连同命名图信息存放在四元组表RDF_QUAD中，表中4列(G,S,P,O)分别表示 Graph、Subject、Predicate和Object。为存储STKOS的超级科技词表和领域本体，分别创建命名图，根据STKOS超级科技词表元数据规范定义数据转换规则，编写自动转换程序通过Virtuoso 的JDBC连接数据库将超级科技词表转换为RDF三元组后直接存入数据库中，并利用Virtuoso自带工具直接导入领域本体OWL文件。
+
+# 3.3 索引设计
+
+为支持快速检索和全文检索功能，分别面向底层存储和上层应用设计Virtuoso索引和Solr索引。通过深入分析 STKOS 超级科技词表和领域本体数据特点发现其RDF三元组Predicate的数量相对于Subject和Object 而言规模最小，从查询需求上考虑，RDF仓储更适合选择Predicate作为主索引项，为此采用PSOG和POGS的RDF索引模式对Virtuoso 数据库的RDFQUAD表构建RDF索引。
+
+尽管Virtuoso 数据库本身提供全文检索功能，但其通用性比较强，数据规模较大的检索性能并不理想。因此利用Solr在全文和分面检索上的突出性能和灵活的组织方式，对STKOS超级科技词表和领域本体建立索引，并通过HTTP协议提供全文检索服务。针对超级词表的主要元素如术语、概念、范畴类等分别依据元数据描述信息以及需要进行全文检索的数据确定索引字段，而领域本体中分别对类、实例的RDF三元组集合建立索引，以此支持对于STKOS基本元素的索引构建，满足全文检索快速响应的需求。
+
+# 3.4查询优化与推理策略
+
+在STKOS底层仓储和索引构建的基础上，进一步优化查询性能，制定推理策略，支撑面向STKOS的查询和推理功能。查询优化主要从查询性能优化和查询处理过程优化展开。对Virtuoso的SPARQL查询执行效率进行优化，利用Virtuoso数据库本身的缓存机制等优化策略，并优化NumberOfBuffers、MaxDirtyBuffers 等数据库配置参数，提高STKOS物理存储的查询性能。此外，针对STKOS超级科技词表和领域本体中基本元素制定不同查询优化策略，例如针对字符串匹配等检索需求，通过Solr索引执行查询，弥补Virtuoso的SPARQL查询在模糊匹配方面的速度问题。而针对SPARQL语句COUNT查询速度较慢的问题，在数据批量导入后，对STKOS不同元素类型分别进行统计，写人Solr索引中，将COUNT查询重写为直接获取统计数据的查询操作。
+
+为实现STKOS 的广泛使用和深入挖掘，制定语义推理策略。一方面，结合STKOS的数据特点对一些常用的推理结果进行离线推理，并进行物理存储或创建索引。例如，针对层级关系，如超级科技词表中概念之间的上下位关系以及本体的子类关系等在物理存储中分别以三元组形式存储，而STKOS应用过程中往往应用这类关系的传递性推理功能，针对这类推理采用查询遍历的方法，将顶层概念或类到当前概念或类的路径作为层级结构存储下来，使用时直接查询，以此节省推理时间。另一方面，利用Virtuoso 本身的后向推理引擎和预定义的SPARQL查询模板支持在线推理需求。如 rdfs:subClassOf、rdfs:subProperty Of、owl:sameAs等传递性关系以及逆关系推理功能。
+
+# 3.5 STKOSAPI
+
+为实现STKOS基本元素的访问，采用Java语言开发 STKOS API,实现对于Virtuoso 的 SPARQL 查询以及 Solr 查询的封装，根据数据处理和应用层级将API分为：STKOS 基本 API、STKOS上层 API和
+
+STKOSSolrAPI。
+
+(1）STKOS 基本 API
+
+针对物理存储的STKOS，根据各类基本元素，实现基础数据的封装，定义相应的基本接口。超级科技词表的基本接口定义包括：获取术语的名称、同义词ID、上位术语ID、连接概念ID 等；获取规范概念的释义、优选术语ID、连接范畴类ID 等；获取范畴类的优选名称、非优选名称、范畴号、上位范畴类ID等;获取词表的题名、交替题名、类型等。领域本体的基本接口定义包括：获取类的名称、父类URI；获取数值属性、对象属性的名称、定义域、值域列表、父属性;获取实例的名称、所属类URI等。
+
+# (2）STKOS上层 API
+
+在STKOS基本API的基础上，提供获取STKOS详细信息的接口定义，包括：获取术语的上位术语名称、下位术语ID及名称、同义词名称、顶层术语、术语扩展属性和属性值、通过推理获得的上下位术语等;概念的优选名称、非优选名称、范畴类名称等；范畴类的上位范畴类名称、下位范畴类ID及名称等。领域本体的上层接口定义包括：获取类的子类URI和名称、通过推理获得的层级结构类等，获取顶层类、指定层级类列表，获取指定类的实例URI和名称以及通过推理获得的实例，获取实例指定属性的取值等。此外，针对STKOS各类元素的类型查询、字符串查询等定义相应接口。
+
+# (3)STKOS Solr API
+
+STKOSSolrAPI进一步实现STKOS面向实际应用的查询需求，如模糊匹配、相似度排序等，主要包括：术语、概念、范畴类、类、实例等相关信息查询接口以及离线信息查询接口等，实现基于字符串的全文检索、模糊匹配、STKOS的相关统计获取等功能。
+
+# 3.6开放查询和推理接口
+
+开放查询和推理接口实现开放引擎系统的对外服务。STKOS开放查询和推理接口基于Web服务体系架构，分别利用基于SOAP协议和REST协议的WebService 实现 STKOS 引擎的功能封装[12]。在 STKOS存储与索引层、查询与推理功能层和核心STKOSAPI层之上，通过接口管理器控制STKOSAPI的对外服务[12]。
+
+通过对第三方的应用需求分析，将STKOS对外服务接口具体划分为4大功能，采用SOAP协议实现：
+
+浏览服务接口，针对超级词表中的范畴表和范畴类实现接口方法，包括获取顶层范畴类、指定范畴类的上下位范畴类以及范畴类的层级结构等；检索服务接口，针对超级词表中的概念和术语、实现底层利用Solr索引查询的方法封装，包括获取上位、下位、相关等不同属性的概念和术语等；关联推理服务接口，实现关联查询的接口，用于发现超级词表中概念或术语之间的关联关系，包括指定术语的相关术语、术语所属范畴类、指定概念的语义相关术语等；通用服务接口，实现接口运行的状态、版本变更信息等以及STKOS 超级词表的统计信息(范畴类、概念、术语等统计信息)等[12]
+
+通过对STKOS超级词表的元数据规范进行分析，将STKOS接口具体划分为三大类，采用RESTful协议实现：概念服务接口，与STKOS超级词表中概念相关的获取方法集合，包括浏览、检索、关联推理等；范畴服务接口，基于STKOS超级词表中范畴类、范畴表实现的接口方法；通用服务接口，与SOAP接口中的通用服务接口类似，实现了接口运行状态、统计信息等方法[12]
+
+此外，借助底层Virtuoso数据库自带的工具实现了STKOS的SPARQL终端(如图2所示)，用户可以通过 SPARQL查询语言对 STKOS超级词表和领域本体不同命名图的RDF数据进行查询操作。
+
+![](images/0ed311011614dd7cee5b1a8df7fa271628a0b062a9a6d9b489c264935abe77be.jpg)  
+图2 STKOSSPARQL终端
+
+# 4应用效果
+
+STKOS开放引擎系统能有效支持科技知识组织体系发布服务平台的建设，并提供可供外部调用的STKOS开放查询和推理服务接口，通过标准的接口协
+
+议供第三方系统使用。
+
+# 4.1支持 STKOS发布服务平台建设
+
+目前，STKOS开放引擎系统已经实现STKOS初始版本数据的有效存储。在Virtuoso 数据库中存储STKOS超级科技词表约54万个概念、142万个术语、1万个范畴类，包括名称、释义、属性、关系等数据共计约7257万个三元组，以及三个领域本体中1千多个类和1万多个实例，约15万个三元组。为支持上层应用对底层数据的快速访问，引擎系统提供259个接口，其统计情况如表1所示：
+
+表1STKOSAPI接口统计情况  
+
+<html><body><table><tr><td>Level</td><td>类型</td><td>数量</td></tr><tr><td rowspan="7">STKOS基本API</td><td>术语</td><td>18</td></tr><tr><td>概念</td><td>12</td></tr><tr><td>范畴类</td><td>16</td></tr><tr><td>范畴表</td><td>8</td></tr><tr><td>来源词表</td><td>14</td></tr><tr><td>本体元素</td><td>12</td></tr><tr><td>术语</td><td>44</td></tr><tr><td></td><td>概念</td><td>49</td></tr><tr><td>STKOS上层API</td><td>范畴类</td><td>16</td></tr><tr><td rowspan="8">STKOSSolrAPI</td><td>范畴表</td><td>8</td></tr><tr><td>本体元素</td><td>9</td></tr><tr><td>基本信息</td><td>13</td></tr><tr><td>术语</td><td>20</td></tr><tr><td>概念</td><td>14</td></tr><tr><td>本体元素</td><td>6</td></tr><tr><td></td><td>259</td></tr><tr><td>15</td><td></td></tr></table></body></html>
+
+基于STKOS开放引擎系统，项目组构建STKOS的发布服务平台(如图3所示)，根据应用需求设计索引体系和系统架构，在线提供STKOS的检索查询、浏览导航、展示服务，让用户可以方便地获取、查阅和利用科技知识组织体系。此外，该平台提供STKOS的定制与下载等功能，以满足不同机构、不同用户对领域知识组织体系的需求，最大程度地共享和重用STKOS科技知识组织体系成果。
+
+STKOS发布服务平台主要系统功能包括：
+
+(1）STKOS 检索功能：通过关键词或 ID 检索STKOS超级科技词表中术语和概念;(2）STKOS 浏览功能：建立范畴表的树形导航，实现概念的分类浏览；提供领域本体的树形浏览;
+
+(3）STKOS定制功能：允许授权用户通过检索和浏览功能选择STKOS超级词表的概念或术语实现STKOS子集的定制与下载;
+
+(4）统计功能：统计 STKOS 当前版本的数据情况。
+
+NS (STKOS)科技知识组织体系共享服务系统  
+TL ScientificTechnology KnowledgeOrganizationSystemSharing System  
+首页检索浏览定制统计开放接口插件工具本体揭示帮助三公告信息 更多科技知识组织体系(STKOS）共享服务平台收录538,165个概念，1,421,744个 ，《用户帮助手册》术语。三最新定制 更多请输入术语、概念或概金ID Q 开发测试（2015-5-5)定制下载（2015-4-24)  
+科技知识组织体系(STKOS) 我的检索（2015-4-24)  
+要日的是为了促进科共服务平（STKs）识组，STKOS中的设的知 本体个性化定制（2015-4-24)  
+系为基础，通过语义检索和知识推理按口，帮助我国科技信息服务行业实现语义标注、语义检索、 三领域STKOSE况  
+知识浏党，知识推理和关联发现等服务，让“科技知识组织休系”在我国科技界、科技信息服务  
+机构和我国信息处理领娅的科技创新发挥作用。 ，理共有128,012个术语,80,013个概念，工共有384,458个术道，153,392个概念IGFALSgeng 药学 水产、渔业、羽 农共有143,908个术语，84，923个概念160 区学 学 医共有65.14个选，21979分热点检索术语 术酒分布 ，STKOS在农业科技文摘数据检索系统示范
+
+# 4.2 支持第三方检索服务系统应用
+
+为支持第三方系统利用STKOS超级科技词表，引擎系统对外提供基于SOAP协议和REST协议的开放查询与推理接口①，其调用地址和使用方式如图4所示。基于STKOS开放引擎系统，项目组以中国科学院文献集成检索系统为依托，通过开放查询与推理接口访问STKOS超级科技词表的数据，搭建了基于STKOS的检索服务实验系统。
+
+Available SOAP ervices   
+BrowseService Endpointaddress:http://stkos.las.ac,cn/mebservice/services/BrowseService getNarrowerCategoryClasaListByURI WSDL：http://deaign. rvice.atkos.lag.ac.cn/lBrouzeServiceService listRootSubject Target namespace: http://design.webservice. stkos.las.ac. cn/ getCategoryClassListByURI • - ·   
+ConceptsearcatServicpt queryConceptExactltatch WSDL：http://deaign.eh rvice.atkos.las.ac.cn/lConceptSearchServiceService querySaneConcept Target namespace: http://design. webservice. stkos. las. ac. cn/ •·   
+GeneralService Endpoint address: http://stkos.las. ac.cn/mebservice/services/GeneralService :aeas e   
+RelatedSearchtLervicCuI getTernTopByURI rchServiceService ·getTernSemanticRelatedList Target namespace: http://design, webservice. stkos.las.ac. cn/ ··   
+TeraSearchService Endpoint_address: http://stkos.las.ac, cn/webservice/services/TernSearchService queryBroaderTern WSDL：ttp://design.eh rvice.stkog.lag.ac.sn/lTernSearchServiceService queryTernCount Target namespace: http://design. webservice. stkos. las. ac. cn/ •  ·   
+Available RESTful services:   
+Endpoint address:http://stkos,las,ac, cn/webservice/services/rest/v1   
+WADL:http://etkos.las.ac.cn/uebservice/services/rest/vl?wadl&tvoexml
+
+该检索服务实验系统实现基于STKOS超级词表的智能检索功能。图5展示了用户输人关键词“GENE"后，检索系统利用开放查询与推理接口实现的检索效果。检索系统利用SOAP协议的getStandardWord接口检索关键词"GENE"返回STKOS中对应的概念，帮助用户实现规范术语的检索。利用 getConceptNarrowerList 接口和getConceptBroaderList接口获取对应概念的上下位概念，为用户推荐检索词的语义相关词汇,并提示这些词汇在当前检索结果集的命中数(如图5标识1所示)。其次，通过 getConceptSemanticRelatedList接口获取概念的语义相关词汇，如果检索结果文献中出现了这些词汇则将其在结果列表中提示出来(如图5标识2所示)。此外，利用queryConcept接口获取模糊匹配的相关概念，给出检索推荐，丰富原有文献检索结果(如图5标识3所示)。
+
+国 中国科学院国家科学图书馆首页查式资料服务项目使用南 最新决息联系独们关于图们院邮件系统  
+意自能的位黑是：检实结果剑宽搜索结果 3 18 检索 高后按营  
+GENE[ 272,5 ene NOs(33), Gene substance(1)获取方式 福关 0001000 文根关词汇  
+时得（1（00 Te.213 lenes in Vertebrates with Large Genomes + Ge 265)  
+天内.6 者：Sclar,ia Herrik, John • Gene 220通信息 网图书图员 \* Raplcon (902)  
+P载体类型 X相关询C： • Regulen (712)• CpG Islands (680)  
+·电子资源(211,566) Ning in a selt-regvtating gene 客国1 • GJ82 gene (47)  
+印本资源(60,499） Year:2013 • Sequence Tagged Sites责任者： Assaf, tljah sthey-Sch denfeld, Nigel (44)  
+文（(36. A图书员 FR： 13
+
+# 5结语
+
+STKOS开放引擎系统的开发与建设，是对知识组织体系存储与访问机制的一种研究与探索。系统采用先进的语义仓储、索引、查询、推理、接口技术，构建一个能够有效对外服务的开放知识组织引擎，支持STKOS发布服务平台建设以及基于STKOS的检索应用，使得公众能够查询和浏览STKOS，同时支持第三方系统对STKOS的深度开发和利用。在未来的工作中将进一步提高系统的成熟度和服务能力，扩展应用范围，使其成为支持国内各类信息机构和科研机构有效利用STKOS的信息基础设施。
+
+# 参考文献：
+
+[1] 孙坦，刘峥．面向外文科技文献信息的知识组织体系建设 思路[J].图书与情报,2013(1):2-7.(Sun Tan,Liu Zheng. Methodology Framework of Knowledge Organization System for Scientific & Technological Literature [J].Library& Information,2013(1): 2-7.)   
+[2] UMLS Database Query Diagrams [EB/OL].[2014-03-20]. http://www.nlm.nih.gov/research/umls/implementation_resou rces/query_diagrams/index.html.   
+[3] MetamorphoSys Help [EB/OL].[2014-03-20].http://www. nlm.nih.gov/research/umls/implementation_resources/metam orphosys/help.html.   
+[4] NCI Enterprise Vocabulary Services [EB/OL].[2015-03-24]. http://evs.nci.nih.gov/.   
+[5] LexEVS 6.x Architecture [EB/OL]. [2012-05-20].https:// wiki.nci.nih.gov/display/LexEVS/LexEVS $\mathrm { 5 + 6 . x + }$ Architecture.   
+[6] Vizine-Goetz D.Terminology Services [EB/OL]. [2013- 06-08].http://tspilot.oclc.org/resources/overview.pdf.   
+[7] Caracciolo C,Stellato A,Morshed A,etal.The AGROVOC Linked Dataset[J]. Semantic Web,2013,4(3):341-348.   
+[8] 张运良，徐硕，朱礼军，等．汉语科技词系统一 -一种可用 于科技信息资源深度内容分析的语义资源[J].图书情报工 作,2010,55(4):100-105.(Zhang Yunliang,Xu Shuo,Zhu Lijun,et al.Chinese Scientific and Technical Vocabulary Systems-Semantic Resource for Deep Content Analysis S&T Information Resources [J].Library and Information Service,2010,55(4):100-105.)   
+[9] 史新，乔晓东，张志平，等.汉语科技词系统的Web 服务 研究与实现[J].现代图书情报技术，2008(12):37-42.(Shi Xin，Qiao Xiaodong,Zhang Zhiping，et al.Research and Implementation of the Web Service of Chinese Technological Vocabulary System [J].New Technology of Library and Information Service,2008 (12):37-42.)
+
+[10]欧石燕．国外术语注册与术语服务综述[J]．中国图书馆学
+
+报,2014,40(5):110-126.(Ou Shiyan.A Review of Foreign Terminology Registries and Terminology Services [J].Journal ofLibrary Science in China,2014,40(5):110-126.)   
+[11]邹益民，张智雄，钱力，等．语义仓储构建技术研究进展 [J]．情报学报，2013，32(1):13-21.(Zou Yimin，Zhang Zhixiong,Qian Li,et al.Technical Analysis and Application of Semantic Repository-Virtuoso [J].Journal of the China Society for Scientific and Technical Information,2013,32(1): 13-21.)   
+[12]刘毅，汤怡洁，周子健，等．科技知识组织体系共享服务 平台服务接口建设研究[J].现代图书情报技术，2014(7-8): 9-16.(Liu Yi, Tang Yijie,Zhou Zijian,et al. Research and Construct of the Service Interface in STKOS Sharing Infrastructure[J].NewTechnologyofLibraryand Information Service,2014(7-8): 9-16.)
+
+# 作者贡献声明：
+
+张智雄：提出研究思路，论文最终版本修订;  
+王颖：论文起草;  
+王颖，李传席：设计研究方案，进行实验和方案实现;  
+李传席：第三方检索服务系统应用实验;  
+刘毅，汤怡洁，周子健：提出对外服务接口方案和接口实现;  
+钱力，付鸿鹄：STKOS发布服务平台建设。
+
+收稿日期:2015-04-27   
+收修改稿日期:2015-05-08
+
+# The Design and Implementation of Open Engine System for Scientific & Technological Knowledge Organization Systems
+
+Wang Ying1 Zhang Zhixiong1LiChuanxi²Liu $\mathrm { Y i } ^ { 3 }$ Tang Yijie³Zhou Zijian³Qian Li14Fu Honghul 1(National Science Library, Chinese Academy of Sciences, Beijing 100190, China) 2(China Great Wall Asset Management Corporation, Beijing 10o045, China) 3(Wuhan Library, Chinese Academy of Sciences, Wuhan 430071, China) 4(University of Chinese Academy of Sciences, Beijing 100049, China)
+
+Abstract:[Objective]This paper aims torealize the sharingand utilizationof the Scientific& Technological Knowledge Organization System(STKOS).[Context] An effctive storage and access engine system is the prerequisite for knowledge organization system to realize itsutilization.[Methods]The open engine system for STKOS is designed and implemented,which includes the semantic storage and index system,the semantic queryand reasoning kernel, STKOS APIs for search, browse,association and navigation of STKOS elements,and the open query and reasoning interface for external applications.[Results]This engine system is used for theconstructions of the STKOS publishing service platform and a third-party retrieval system based on STKOS.[Conclusions] The open STKOS engine system can bring convenience for science and technology literature information agencies and researchers to use STKOS.
+
+Keywords: Knowledge organizationEngine system Query interface

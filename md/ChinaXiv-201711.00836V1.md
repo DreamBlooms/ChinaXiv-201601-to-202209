@@ -1,0 +1,244 @@
+棘腹蛙生长激素/类胰岛素样生长因子轴关键基因的克隆与序列特征分析
+
+2 罗　洁 姜玉松　杨帆　樊汶樵\* 李晓英
+
+3 （重庆文理学院林学与生命科学学院，重庆珍稀濒危水产资源保护与开发研究中心，重庆  
+4 402168)  
+5 摘要：机体的生长激素（GH）/类胰岛素样生长因子（IGFs）轴由GH系统和 IGFs系统  
+6 构成，可促进细胞增殖、调节生长发育、调控生理代谢，在机体生长发育调控方面有着重要  
+7 作用。为明确棘腹蛙GH/IGFs 轴的功能结构和进化特征，为棘腹蛙生长发育调控方面的研  
+8 究提供理论依据，本试验对棘腹蛙GH、类胰岛素生长因子-I（IGF-I）和类胰岛素生长因  
+9 子-II(IGF-II)进行克隆并对其序列特征进行分析。结果发现：1）与两栖类模式动物的多重  
+10 序列比对发现棘腹蛙GH、IGF-I和IGF-II的功能结构域严格保守，具有一定的遗传多态性;  
+11 IGF-II的N端呈简缩进化趋势。2）遗传进化聚类分析发现棘腹蛙IGFs与两栖动物聚为一  
+12 支，并与硬骨鱼相对近缘，说明 IGF-I和 IGF-ⅡI进化地位相对原始；棘腹蛙GH 则与蛙类、  
+13 鱼类等水生动物相对近缘，暗示该基因具有趋同进化趋势。3）为进一步明确上述基因的特  
+14 异性功能位点，利用 SWISS 软件解析其蛋白质结构，最终确定IGF-I的 THR52、LEU53、  
+15 PHE72、PHE73、SER74 为潜在的功能分化位点，IGF-II的 TYR81、LYS82、LYS83为潜在  
+16 的功能分化位点，GH的PHE208 为潜在的功能分化位点。由此可知，棘腹蛙GH/IGFs 轴的  
+17 主要基因相对保守，但与已知模式物种相比，存在潜在的功能分化位点，可作为后期棘腹蛙  
+18 GH/IGF轴功能研究和遗传进化特征分析的分子靶标。
+
+关键词：棘腹蛙；类胰岛素生长因子；生长激素；序列分析；结构特征中图分类号： 文献标识码：A 文章编号：
+
+生长激素（GH）是腺垂体细胞分泌的肽类激素，是影响动物生长和发育的主要内源因素。类胰岛素生长因子（IGFs）分为类胰岛素生长因子-I（IGF-I）和类胰岛素生长因子-II(IGF-II)2 种类型，是存在于血浆内的一类既有促生长作用又有胰岛素样作用的多肽。目前已阐明机体的生长是由GH/IGFs 轴所控制，GH从垂体分泌后，通过GH受体的介导进而刺激肝脏和其他组织合成并分泌IGFs，后者通过IGFs受体的介导发挥生物学功能[1]。
+
+棘腹蛙（Paaboulengeri）又名石坑、石蛙等，隶属于无尾目，蛙科，棘蛙属，是我国西部中高海拔区域特有的珍稀两栖动物[2-3]。由于环境污染、生态破坏等原因，野生棘腹蛙的规模日趋萎缩，现已被《中国濒危物种红皮书》[4]、《中国物种红色目录》[5]等收录。棘腹蛙目前市场需求旺盛，人工饲养的子二代出栏价达到 $4 5 \sim 7 0$ 元/kg，其人工养殖已经成为山区农民脱贫致富的重要途径。为更好的保护野生资源，同时满足经济需求，棘腹蛙的人工养殖热度逐年上升。
+
+本课题组前期对棘腹蛙的人工饲养条件进行探索时发现，温度过高或过低都会影响其生长发育，而温度对GH/IGFs轴的影响尤为明显。对棘腹蛙的遗传特性研究发现棘腹蛙种群属于一个单系分支[6-7]，在进化过程中相对独立[8-9]，并无其他模式物种的相关数据可以参考。本研究拟从转录组测序获得的信息入手，克隆GH/IGFs 轴的关键基因（IGF-I、IGF-ⅡI和GH）并对其进行生物信息学分析，深入了解其基因特性，发掘物种特异性的潜在功能作用位点，为探索以棘腹蛙为代表的两栖动物的生理反应和生长发育调节机制奠定理论基础。
+
+1材料与方法
+
+1.1试剂与耗材
+
+2 罗龄健康棘腹蛙，饲养于重庆珍稀濒危水产资源保护与开发研究中心两栖动物流水养殖系统。Trizol、焦碳酸二乙酯（DEPC）购自上海生工生物工程有限公司，cDNA合成试剂盒、Taq酶、PCR 纯化试剂盒购自Promega 公司，凝胶回收试剂盒购自OMEGA 公司,DL2000DNAMarker购自宝生物工程(大连)有限公司。
+
+# 1.2引物设计与合成
+
+基因序列主要基于前期本实验室建立的棘腹蛙蝌蚪的Illumina solexa第二高通量转录组数据库，利用实时荧光定量 PCR(RT-qPCR)分别获取了棘腹蛙GH、IGF-I、IGF-II的全长基因序列，并经过比对验证其序列与转录组数据结果一致。最后，利用Primer5.0软件设计基因的特异性引物，由苏州金唯智生物科技有限公司合成。
+
+<html><body><table><tr><td>基因名</td><td>引物序列 Primer sequences</td><td>Amplification</td></tr><tr><td>Gene names</td><td></td><td>length/bp</td></tr><tr><td>类胰岛素生</td><td>F:5’-ATCCTTCTTCTGTTTGCTAAATCTG-3'</td><td></td></tr><tr><td>长因子-I IGF- I</td><td>R:5’-CTCTAGGGGACACAGGCTATTA-3'</td><td>904</td></tr><tr><td></td><td></td><td></td></tr><tr><td>类胰岛素生</td><td>F:5'-GCAACATCCAGCAATACCACAGCGA-3 '</td><td></td></tr><tr><td>长因子-I IGF- I</td><td>R:5'-CTTTGGTGTCTCAGTTTGCTCGTTT-3'</td><td>944</td></tr><tr><td></td><td></td><td></td></tr><tr><td>生长激素</td><td></td><td></td></tr><tr><td>GH</td><td>F:5' -TGGAACCCGAACATACATCAGGAAC-3 ' R:5’-AGACACAAAAAGCACAAAGCAAAAT-3'</td><td>862</td></tr><tr><td></td><td></td><td></td></tr><tr><td>50 1.3cDNA 制备</td><td></td><td></td></tr><tr><td>51</td><td>取双毁髓法处死的棘腹蛙肝脏，立即放入液氮中。随后总RNA 按照试剂盒说明书进行</td><td></td></tr><tr><td>52</td><td>提取，并利用 Promega 公司的cDNA合成试剂盒说明书完成单链cDNA（ss cDNA）的制备。</td><td></td></tr><tr><td>53</td><td>1.4序列克隆与测定 利用高保真 DNA Taq 酶进行 PCR 扩增,RT-qPCR 反应体系为：cDNA 模板1μL、10xEx</td><td></td></tr><tr><td>54</td><td>Taq PCR buffer 2.5 μL、Ex Taq 0.65 U、dNTP（100 μmol/L）1 μL、MgCl 1 μL、上游引物1</td><td></td></tr><tr><td>55</td><td></td><td></td></tr><tr><td>56</td><td>μL、下游引物1μL，加ddHO 至总体积 25μL。采用 PCR 反应程序：1)94C预变性4 min;</td><td></td></tr><tr><td>57</td><td>2）94℃变性90 s；3）58℃退火90s；4）72℃延伸90s；5）将步骤2～4重复循环30次;</td><td></td></tr><tr><td>58</td><td>6)72℃终延伸10min；7）12℃保存。最后，PCR产物经1%琼脂糖凝胶电泳进行检测后切</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>
+
+取与基因长度一致的片段，经TaKaRa凝胶回收试剂盒纯化后连接pMD19-T载体，并转化至大肠杆菌（E.coli）JM109 感受态细胞中，利用蓝白斑筛选阳性质粒，经双酶切验证后送苏州金唯智生物科技有限公司测序。
+
+# 1.5生物信息学分析
+
+# 1.5.1 遗传多态性分析方法
+
+在 NCBI数据库中检索GH、IGF-I、IGF-II的同源序列，利用ClustalX1.83软件进行多重序列比对和Boxshade Server序列对齐，最后结果由Photoshop CS6 进行处理。
+
+# 1.5.2遗传进化分析
+
+在GenBank 数据库中检索近缘物种序列，利用ClustaIW对齐后，利用MEGA5.0 软件对GH、IGF-I、IGF-II同源基因进行邻近（neighbor-joining）法构建系统进化树，取1000次重复检验以估算各分支的置信值。
+
+# 1.5.2 蛋白质结构分析
+
+首先利用Phyre2 软件（http://www.sbg.bio.ic.ac.uk/）检索蛋白质模型，然后使用Swiss-model server 软件（https://swissmodel.expasy.org/）预测目的蛋白质的三维结构，最后采用 Swiss-Pdb-viewer 软件进行图像处理和蛋白质结构还原。
+
+2 结果与分析
+
+2.1IGF-I的序列特征分析
+
+以2岁龄棘腹蛙肝脏组织cDNA为模板进行IGF-I的基因扩增（图1-A）及测序（图1-B)，并将棘腹蛙IGF-I与已发布的2种蟾蜍的近缘基因进行比较，发现前者保守的功能结构域存在较多的氨基酸位点突变（图1-C)。
+
+![](images/333481ee981dd4fedbfdccbb6363359549b3da3f9ad1f4d0f4aaf16e68c884d3.jpg)
+
+t tcttc tgtttgctaaatc tgactgtcac tgc taaa& tcagagcaga tcc tacg caa tgg agtaaag tcc tcaa tt tca.aa tgtgaca tagc tccg± a tatc tc tg t gga tt tcc t t tt t t ttt ct tg t tatctcagctaacaa tc tca tt tgcaga ccctg tac t taaagaag cc atggaaaaaaacaactgtccctcaacacaattatttaagtgctacttttgtgatatctta M E 区 N M C P S T Q 1 L K C Y F C D 1 L aaggttaggatgcacacaa tgacctaca tgcatctcttt tact tgggcttatg tctactc K Y 区 M H T M T Y 目 H L F Y L G L C L L actctaacccactcggcagctgctggccaagaaaccctctgtggtgctgagttagtggat T L T H S A A A G Q E T L C G A E L V D gctctgcagtttgtatgtggagacagaggcttctttttcagcaagccagtagggtatgga A L Q F V C G D R G F F F 5 K P T G Y G tacagcagtcgacgttctcatcacaaaggaatagtggatgaatgctgctttcaaagctgt Y \$ 5 R R 5 H H K G 1 V D E C C F 0 S C gatctaaggaggctagagatgtactgtgctcctgccasgccsgcaaagtctgcacgatct D L R R L E M Y C A P A K P A K S A R S gtacgtgctcagcg tcaca ctga tatgccaaaagcccagaaggaagtacatcacaagaat V I A Q R 1 T D M P K A Q K E V 1 目 K N gcaagtagaggaaacacagggagtcgaag cttcaggatgtag A 5 R G N T G 5 R i F R M 责
+
+atgctgatgccgctcaaagtcttgaagaatgaatgtggcatgtgcaggatgtattactga aaag taaa gtcaaaca gggaaaga ca tcac t tctc tcaaccaa tgggcat t ca tcc tc tg aacaa tgcaaatccacgtgccgctga tgtgca ttccaaccagaagcataacaa ttcacat aac tga tcta t tgctc tg taa tc t t tca cc tgt ta
+
+A
+
+XP_002936875.1 METNNNLSTQLFKCYFCDILKLKMHKM IHLLYLVLCFLTLTHSAAAGPEAECGAELVD   
+NP_001156865.1 MEKNNSLSTQLFKCYFCDFLKLKMHKN HLLYLALCFLTLTHSAAAGPEEPCGAELVD   
+IGF__I-1ike-Pb MEKNNCPSTQLFKCYFCDILKVRMHTMTYMHLFYLGLCLLTLTHSAAAGQETLCGAELVD \*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*:\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*   
+XP_002936875.1 TLQFVCGDRGFYLTYPTGYGSNNRRSHHRGIVDECCFQSCDFRRLEMYCAPAKPAKSARS   
+NP_001156865.1 TLQFVCGDRGFYLPTGYGSSNRRRRSHHRGIVDECCFQSCDFRRLEMYCAPAKPAKSARS   
+IGF__I-1ike-Pb ALQFVCGDRGFFFSKPVGYGYSSRRSHHKGIVDECCFQSCDLRRLEMYCAPAKPAKSARS ：\*\*\*\*\*\*\*\*\*\* \*\*\*\* \*\*\*\*\*：\*\*\*\*\*\*\*\*\*\*火\*，\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*   
+XP_002936875.1 VRAQRHTDMPKAQKEVHPKNTSRGNTGSRGFRM   
+NP_001156865.1 VRAQRHTDMPKAQKEVHLKNASRGNTGSRGFRM   
+IGF_I-like-Pb VRAQRHTDMPKAQKEVHHKNASRGNTGSRSFRM \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* C
+
+A:棘腹蛙IGF-I的基因扩增;B:棘腹蛙 IGF-I的序列分析;C:已知两栖动物的IGF-I遗传多态性分析。 NP_001156865.1注释为非洲爪蟾 IGF-I；XP_002936875.1注释为热带爪蟾 IGF-I。黄色表示棘腹蛙 IGFI潜在功能分化位点。 A: the gene amplification of IGF-I from Paa boulengeri; B: the sequence analysis of IGF-I from Paa boulengeri; C:the genetic polymorphism analysis of IGF-Ifrom known amphibians.NP_001156865.1 represents for IGF-I from Xenopus laevis; XP_002936875.1 represents for IGF-I from Xenopus tropicalis. The potential differentiation amino acid sites of IGF-I from Paa boulengeri are shadowed in yellow.
+
+Fig.1The sequence characteristic analysis of IGF-I form Paa boulengeri
+
+取不同代表物种IGF-I进行聚类分析并构建系统进化树（图2)，发现IGF-I主要分为两大支，一支为高等哺乳动物，一支为爬行动物、鸟类和两栖动物；其中，棘腹蛙 IGF-I与无尾目两栖动物、部分水栖性爬行动物聚为一支，与其他陆生脊椎动物近缘，说明棘腹蛙IGF-I与两栖类模式动物爪蟾IGF-I存在较大程度的遗传分化。值得注意的是，扬子鳄 IGF-I有3个拷贝，其中2个拷贝与鸟纲近缘，另1个拷贝与中华鳖单独聚为一支，与缅甸蟒蛇和龟壳花蛇近缘，推测脊椎动物的IGF-I可能是由原始的爬行两栖动物起源而来。
+
+79原鸡 Gallus galluslNP 001004384.1 85仓鸮 Tyto alba IXP O09961122.11 97 原鸡 Gallus gallus AGG38005.1l 扬子鳄 Alligator sinensis |NP 001273775.1l 99美洲短吻鳄 Alligator sinensis IALQ12262.1l 北美变色蜥 Anolis carolinensis |XP O08108777.1l 59 90 -原矛头腹 Protobothrops mucrosquamatus |XP 015673713.1l 牛 Bos taurus |XP 005206554.1| 98 人Homo sapiens INP 000609.1| 55L马Equus caballus INP 001075967.2l 47 -大西洋鲑 Oncorhynchus mykiss |AGl75371.1l 87 斑马鱼 Danio rerio |AAl14263.1] 100丨草鱼 Ctenopharyngodon idella IAGW17294.1l $\blacktriangle$ 棘腹蛙 IGF-1.aa.seq -热带爪蟾 Xenopus tropicalis |XP 002936875.1l 75 -非洲爪蟾 Xenopus Iaevis INP 001156865.1l 0.1
+
+![](images/5b276c0c1dc1653372430271f9e3b27f930015e2ac76bc25d56ac4d4eb70cace.jpg)  
+图2棘腹蛙IGF-I的聚类分析  
+Fig.2The clustering analysis of IGF-I form Paa boulengeri
+
+为深入分析棘腹蛙IGF-I的蛋白质结构，我们利用 Swiss-model server 软件进行结构预测，如图3所示。相较于人类IGFs 蛋白质结构 3lri.1A[10而言，两者序列相似度达 $8 4 . 6 \%$ 。其氨基酸序列中，氨基酸 $3 1 { \sim } 4 8$ 处存在1个跨膜域，氨基酸 ${ 5 1 \sim 1 0 9 }$ 处为IGF-I-likesuperfamily 功能结构域。IGF-I的蛋白质结构成分主要由2个 $\beta$ 折叠和4个 $\mathbf {  { a } }$ 螺旋构成，且两端存在未知功能区域，其中 THR52、LEU53、PHE72、PHE73、SER74 为物种特异的氨基酸突变位点，暗示该蛋白质存在一定功能分化。
+
+Model_01MEKNNCPSTQLFKCYFCDILKVRMHTMTYMHLFYLGLCLLTLTHSAAAGQETLCGAELVDALQFVCGDRGFFFSK 75 3lri .1.A MPLSSLFVNGPRTLCGAELVDALQFVCGDRGFYFNK 40 Model_01PVGYGYSSRRSHHKGIVDECCFQSCDLRRLEMYCAPAKPAKSARSVRAQRHTDMPKAQKEVHHKNASRGNTGSRS 150 3lri.1.APTGYGSSSRRACQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA- 83 Model_01 FRM 153 3lri.1.A−   
+C
+
+A：棘腹蛙 IGF-I的蛋白质三维结构分析；B：棘腹蛙 IGF-I的特异功能结合位点预测；C：棘腹蛙 IGF-I 与人类IGFs 模板3lri.1.A[10]的蛋白质构象差异分析。 A: the 3D protein structure analysis of IGF-I from Paa boulengeri; B: the specific functional target prediction of IGF-Ifrom Paa boulenger; C:the protein conformation difference analysis between IGF-Ifrom Paa boulengeri and the IGFs template 3lri.1.A from human beings[10].
+
+图3棘腹蛙IGF-I的蛋白质结构分析
+
+Fig.3The protein structure analysis of IGF-I from Paa boulengeri
+
+2.2IGF-II的序列特征分析
+
+扩增棘腹蛙的IGF-II基因并测序，利用ClustalX1.83软件对其遗传多态性进行分析，结果如图4所示。其氨基酸序列中，氨基酸 ${ 5 4 } \sim 1 1 4$ 处为 $I G F .$ -ⅡI的功能结构域，氨基酸 $1 4 7 \sim$ 204 处为IGF-II_的C端功能结构域，暗示该基因可能主要参与棘腹蛙的免疫防御。与非洲爪蟾和热带爪蟾2种已知的两栖模式动物相比，棘腹蛙IGF-II的拷贝数明显减少，并且该基因的 N 端呈简缩进化趋势，且其功能结构域呈现插入突变，说明棘腹蛙IGF-II的功能分化较为明显。
+
+gcaca tccagcaataccacagcgatcctttcactgcca tcaccag tacagaggaaccgca agaaaacttgacattcccagtcctgtcggagctgatcacaccagtgcaaa atggagcaactaagatgcaaaaccaggagctgcagcagcacagcccagtcatgcaggagg M E Q L R C K T R S C S S T A Q S C R R a tacagctgccaggagtgccagtcccccgaca tgcccttc tactcttatacaccttcata b p I Q L P G V P V P R H A L L L L Y TFⅠ gcatacacagcagagtcatctaaagtatttatcctgggtgagaccctctgtggtggagaa A Y T A E S S K V F 1 L G E T L C GGE ctggtagacacgttgcaatttgtgtgtggcgaccgaggcttctacttcggtaagtcaacc L V D T L Q F V C G D R G F Y F G K ST tacaaaaagaatacggggcgctccaatcgcagagttagcagaggaattgtggaggaatgc   
+5000 Y K K N T G R S N R R V S R G I V E EC   
+3000 tgcttcggagttgtgacctagatattagagacatactgtgcgagccggtcagaat   
+2000 gaaagagacctttccaccgcaccagccactgcattgccatctctgaataaggatgagtac   
+1000 catagcatgctcataccagcactctaaatatgacatctgcaagagcactcag   
+500 H K H A H T K H S K Y D W Q R K ？ T Q agtcaccgcttacgaagaggggtcccagccattgtccgagcacgccagtatcggaaatgg   
+200 S H R L R R G V P A 1 V R A R Q Y R K W 100 gtgaggcagatagaagaatcccagcagtttttatcacatcggccattaacaacctcacca V R Q I E E S Q Q F L S H R P L T T S P atgacacgacctcgctccaatcagcaagactcagagtcctcccataat MT R P R \$ N Q Q D S E S S H N tgagctgggaa tcattac taagcaggattccactgccttcaatttctgtttctatgttct gtttgtttttcttctgtcttctctgaactggagagagaccaagccaagcaacagagttga agcctgaaaagctcaatgtgacacttcacagaagagtaaaacgagcaaactgagacacca &a g NP_001085129. MEQLSCKHRS SSMEAEAQLCRQTESRSTQLPRMSVMRHLFLLSITFLVYTLDSAKAYRPT AAH72153.1| MEAEAQLCRQTESRSTQLPRMSVMRHLFLLSITFLVYTLDSAKAYRPT NP_001082128. MEQLSCKHRS SSVEAEAQLCRQTESRSTQLPRMSVMRHLFLLSITFLVYTLDSAKAYRAT AAH70545.1| MSVMRHLF1 TFLVYTLDSAKAYRAT XP_012816009. MEQLSCKHRSSSVDAEGQLCRQAESRSTQLPRMSVMRHLLLLS1 TFLVYTLDSAKAYGAT XP_012816008. MEQLSCKHRS SSVDAEGQLCRQAESRSTQLPRMSVMRHLLLLSITFLVYTLDSAKAYGAT NP_001107144. MRHLL ITFLVYTLDSAKAYGAT OCA36474.1 MEQLSCKH- QAESRSTQL VMRHLLLLSITFLVYTLDSAKAYGAT IGF-2-Pb.aa MEQLRCKTR--SCSSTAQSCRR IQLPGVPVPRHALI LLYTFIAYTAESSKVFILG \*\* ：\*\* \*. \*\* \*：\* NP_001085129. ETLCGGELVDTLQFVCGDRGFYFST NNGRSNRRSNRGIVEECCFRSCDLELLETY AAH72153.1| ETLCGGELVDTLQFVCGDRGFYFST NNGRSNRRSNRGIVEECCFRSCDLELLETY NP_001082128. ETLCGGELVDTLQFVCGDRGFYFST NNGRSNRRPNRGIVDVCCFKSCDLELLETY AAH70545.1I ETLCGGELVDTLQFVCGDRGFYFST NNGRSNRRPNRGIVDVCCFKSCDLELLETY XP_012816009. ETLCGGELVDTLQFVCGDRGFYFSR -NNGRSNRRANRGIVEECCFRSCDLELLETY XP_012816008. ETLCGGELVDTLQFVCGDRGFYFSR NNGR SNRRANRGIVEECCFRSCDLELLETY NP_001107144. ETLCGGELVDTLQFVCGDRGFYFSR NNGRSNRRANRGIVEECCFRSCDLELLETY OCA36474.1 ETLCGGELVDTLQFVCGDRGFYFSR -NNGRSNRRANRGIVEECCFRSCDLELLETY IGF-2-Pb.aa ETLCGGELVDTLQFVCGDRGFYFGKSTYKKNTGRSNRRVSRGIVEECCFRSCD LDL LETY \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\* \*\*\*\*： \*\*\*：\*\*\*\*：\*\*\*\*\* NP_001085129. CAKPSKNERDVSTAPATAIPPMNKQDLYHKHHHTKSSKYDIWQRK- SIHRLRRGVPAIV AAH72153.1| CAKPSKNERDVSTAPATAIPPMNKQDLYHKHHHTKSSKYDIWQRK SIHRLRRGVPAIV NP_001082128. CAKPTKNERDV KQDLYHKHHHTKSSKYDIWQRK SIHRLRRGVPAIV AAH70545.11 CAKPTKNER LYHKHHHTKSSKYDIWQRK- SIHRLRRGVPAIV XP_012816009. CAKPAKNERI HKHHHTKSSKYDIWQRK- SIHRLRRGVPAIV XP_012816008. CAKPAKNERI HKHHHTKSSKYDIWQRK SIHRLRRGVPAIV NP_001107144. CAKPAKNERDVSTAPSTAIPPLNKQDLYHKHHHTKSSKYDIWQRK- SIHRLRRGVPAIV OCA36474.1 CAKPAKNERDVSTAPSTAIPPLNKQDLYHKHHHTKSSKYDIWQRK- SIHRLRRGVPAIV IGF-2-Pb.aa CAKPVKNERD LSTAPATALPS LNK-DVYHKHAHTKHSKYD IWQRKPTQS HRLRRGVPAIV \*\*\*\* 欢水大火火 \*\* \*\*\* \*\*\* 水水火火火\*火火 水大水火火火大大火火 NP_001085129. RARQYRLLMQKAEESEQALLHRP TLP ITRPLHLQQTSEPSHN   
+AAH72153.1| RARQYRLLMQKAEESEQALI ITRPLHLQQTSEPSHN   
+NP_001082128. RARQYRLLMEKAEEAEQA ITRPLRLQQASEPSHN   
+AAH70545.1| RARQYRLLMEKAEEA TRPLRLQQASEPSHN   
+XP_012816009. RARQYRLLMQQAEES RPLHLQQTSEPSLN   
+XP_012816008. RARQYRLL QTSEPSLN   
+NP_001107144. RARQYR SEPSLN   
+OCA36474.1 RARQYR MQQA 01 PSLN   
+IGF-2-Pb.aa RARQYRKWVRQIEESQQ RPRSNQQDSESSHN   
+\*\*\*火火火 \*\*： ：\* 大 大火火大大火 A \*火 \*\*\*\* 大 大   
+C
+
+A：棘腹蛙 IGF-II的基因扩增；B：棘腹蛙 IGF-II的序列分析；C：已知两栖动物的IGF-II遗传多态性分析。XP_012816009、XP_012816008、NP_001107144、OCA36474.1 注释为热带爪蟾IGF-II;NP_001085129、AAH72153.1、NP_001082128、AAH70545.1注释为非洲爪蟾 IGF-II。黄色表示棘腹蛙 IGF-ⅡI潜在功能分化位点，红色下划线表示N端功能分化区域。
+
+A: the gene amplification of IGF-II from Paa boulengeri; B:the sequence analysis of IGF-II from Paa boulengeri;C:the genetic polymorphism analysis of IGF-I from known amphibians.NP_001085129, AAH72153.1,NP_001082128 and AAH70545.1 are stand for IGF-II from Xenopus laevis；XP_012816009, XP_012816008,NP_001107144 and OCA36474.1 are stand for IGF-II from Xenopus tropicalis.The potential differentiation amino acid sites of IGF-II from Paa boulengeri are shadowed in yellow,and the N terminal differentiation region is underline in red.
+
+Fig.4The sequence characteristic analysis of IGF-II form Paa boulengeri
+
+棘腹蛙IGF-II同源序列的系统进化分析结果（图5）显示，整个进化树分为三大支，一支为高等哺乳动物类，一支为两栖动物类，另一支则包括硬骨鱼、陆生动物及部分鸟类，说
+
+85|原鸡 Gallus gallus |XP 015142011.1|44 原鸡 Gallus gallus INP 001025513.1|欧洲家鹅 Anser cygnoides domesticus XP_013047014.1l7398 -原矛头腹 Protobothropsmucrosquamatus |XP 015683865.1l-缅甸蟒蛇 Python bivittatus |XP 007424293.1l64100 -北美绿蜥蜴 Anolis carolinensis XP 008106134.1|100 北美绿蜥蜴 Anolis carolinensis XP 003214806.1l-西洋鲑 Salmo salar INP 001117119.1100 -斑马鱼Danio rerio INP 001001815.1l▲棘腹蛙 IGF-2.Pb.seq99热带爪蟾 Xenopus tropicalis |XP 012816009.1|63 热带爪蟾 Xenopus tropicalis |XP 012816008.1100 82 热带爪蟾 Xenopus tropicalis |OCA36474.1l热带爪蟾 Xenopus tropicalis INP 001107144.199 100非洲爪蟾 Xenopus laevis INP 001085129.2l非洲爪蟾 Xenopus laevis |AAH72153.1|:3-20592 [非洲爪蟾 Xenopus laevis INP 001082128.1|99非洲爪蟾 Xenopus laevis |AAH70545.1l小家鼠Mus musculus INP 001104746.1l人Homo sapiens |NP 001104754.1l10081 人Homo sapiens |NP 001104753.1|96人Homo sapiens INP 000609.10.1
+
+图5棘腹蛙IGF-II的聚类分析
+
+利用 Swiss-model server 软件模拟IGF-II蛋白质的三维结构,结果显示,其与棘腹蛙IGF-I蛋白质的结构类似，主要由6个 $\mathfrak { a }$ 螺旋构成，其中TYR81、LYS82、LYS83存在特异的氨基酸位点突变，暗示该蛋白质在物种进化过程中存在一定的功能分化。
+
+![](images/18f445efe90c797102d6e906507ff3a7ccb4a1706891ece73adb242aa6a2c7ed.jpg)  
+Fig.5The clustering analysis of IGF-I from Paa boulengeri
+
+Model_O1MEQLRCK TRSCSS TAQSCRRIQLPGVPVPRHALLLLYTFIAYTAESSKVFILG- ETLCGGELVDTLQFVCGDRGF 743lri.1.A SSLFVNGPRTLCGAELVDALQFVCGDRGF 36Model_01YFGKSTYKKNTGRSNRRVSR-GIVEECCFRSCDLDLLETYCA--KPVKNERDLSTAPATALPSLNKDVYHKHAHT 1463lri.1.AYFNKP T---GYGS S SRRACQ TGIVDECCFRS CDLRRLEMYCAP LKP AKS 82Model_O1KHSKYDIWQRKPTQSHRLRRGVPAIVRARQYRKWVRQIEESQQFLSHRPLTTSPMTRPRSNQQDSESSHN 2163lri.1.A  
+C
+
+A：棘腹蛙IGF-II的蛋白质三维结构分析；B：棘腹蛙IGF-II的特异功能结合位点预测；C：棘腹蛙 IGF-II与人类IGFs模板3lri.1.A[10的蛋白质构象差异分析。
+
+A: the 3D protein structure analysis of IGF-I from Paa boulengeri; B: the specific functional target prediction of IGF-I fromPaa boulenger; C: the protein conformation difference analysis between IGF-I from Paa boulengeri and the IGFs template 3lri.1.A from human beings[10].
+
+Fig.6The protein structure analysis of IGF-I from Paa boulengeri
+
+对比IGF-I和IGF-II作用位点和结合方式差异的预测，我们利用PDB-Viewer还原了这2种蛋白质的蛋白质骨架，如图3-A 和图6-A所示，黄色部分为IGF-I和IGF-II作用位点相同的区域，结果二者仅有3处区域有明显差异，其蛋白质修饰方式的对比显示所有差异位点均位于功能结合区域（图3-B 和图6-B)，随后对二者功能差异位点的比对结果显示二者差异部分有2处为IGFs保守的功能结构域,其中一处为棘腹蛙IGF-I特异的功能区域。由此可知，深入挖掘IGFs 的功能对于研究棘腹蛙生理代谢的物种特异性具有重大意义。
+
+![](images/9ff99a46de87e1ed1f7da23c8f6a8f97bdb3452af6827800881562af3e18d6d4.jpg)  
+图6棘腹蛙IGF-II的蛋白质结构分析
+
+# $2 . 3 G H$ 的序列特征分析
+
+通过克隆测序（图7-A)，获得了棘腹蛙GH基因序列（图7-B)。遗传多态性分析结果发现棘腹蛙 $G H$ 与已知的两栖动物同源基因存在较少的氨基酸位点突变，并且其中大多数为同义氨基酸突变，对其功能结构影响不大 (图7-C)。
+
+tggaacccgaa c& taca tcaggaacgccgc taaa ctcaagca atggcttcagggttgtgctcatctctcatactcttggtcataatgtgtcttcaaagcccg M A S G L C 5 L I L L V I N C L Q S P ccagggttcaa tgccttcccgcaaa tgtctctttccaacctctttacaaacgctgtcatc P G F N A F P Q M S 1 S N L F T N A V I cgagctcagcaccttcaccagatggttgcagacacctacagagactatgaaaaaacatat R A Q E L H Q M V A D T Y 3. D Y E K T Y a tacccgaaga tcagaga ttt t ccaacaaa cactca tac tcagtg ta ttgctactca gaa 1 P E D Q 3 F S N K H S Y S v Y C Y S E accatcccggcaccaac&gaca&ggacaatactcaccagaa& tcaga tatggacc tcctc T I P A B T D K D N T H Q K S D M D L L cgcttctcac tcacgctca tgcagtcatggatgaccccagtccaaa tcctcaacagagtc R F \$ L T L M Q S W M T P V Q 1 L N R V ttcggaaccaaccaggtgtttgggaatattgacagagtgtacgacagactgagggacctc F G T N Q Y F G N I D R V Y D R L R D L g&ggaaggag ta caca ttctcataagagagctgga tga tgg&aa tgtccg ta&ctatggt E E G V 目 I L 1 R E L D D G N V R N Y G ctgctgacttttacatatgataagtttgatgtcaacctgcgcagcgaagaaggccgcgcg L L T F T Y D K F D V N L 3 S E G R A aagaattacggtcttctgtcctgcttcaagaaagacatgcataaagtagagacctacctg K N Y G L L S C F K K D M 目 K V E T Y L aaggtcatgaagtgccggagatttgtggagagcaactgcaccttttaa K V M K C 3 R F V E S N C T F \*
+
+c ta&g&atcaggaaa ttgaaat tccc tacc tct tgcaga c& c ccgc tgcaa t t t tacattcct g& cca& t gca LL gtacct t c t
+
+A B  
+AAP04356.1 MASGLGSSLVLLVVICLQSH AFPRVSLSNLFTNAVIRAQHLHQMVADTYRDYERTY  
+CAA31038.1 MASGLGSSLVLLVVICLQSP AFPQMSLSNLFTNAVIRAQHLHQMVADTYRDYERTY  
+GHpre_Pb MASGLCS SLILLVIMCLQSPPGFNAFPQMS LSNLFTNAVIRAQHLHQMVADTYRDYEKTY  
+XP_002933088.2 MATGFCSSFGLLVILLLKNV AGAFPSVPLFSLFTNAVSRAQYLHMLAADTYRDYERTY\*\*：\* \*\*\*\*\*\*\*\*\*.\*\*\* \*\*\*\*\*\*\*\* \*\*  
+AAP04356.1 IPEDQRLSNKHSYSVYCYSET APTDKDNTHQKSDIDLLRFSLTLLQSWMTPIQIVNRV  
+CAA31038.1 IPEDQRFKQTLLISVYC SDIDLLRFSLTLLQSWMTPIQIVNRV  
+GHprePb IPEDQRFSNKHSYSVYCY SE PTDKDNTHO SDMDLLRFSLTLMQSWMTPVQILNRV  
+XP_002933088.2 I S EDQRHSNKNSHVVSCYSETIPYPTDKDNTHQKTDMELLRFS LNLIQSWLNPVQALSKV\*\*\*\*\* \*\*\*\*\*\*\* \*\*\*火 \*\*\*\*\* \*.\*\*\*：\*.\* .：\*  
+AAP04356.1 FGNNQVFGNIDRVYDRLRDLDEGLHILIRELDDGNVRNYGVLTFTYDKFDVNLRS EEGRA  
+CAA31038.1 FGNNQVFGNIDRVYDRLRDLDEGLHILIRELDDGNVRNYGVLTFTYDKFDVNLRS EEGRA  
+GHpre_Pb FGTNQVFGNIDRVYDRLRDLEEGVHILIRELDDGNVRNYGLLTFTYDKFDVNLRSEEGRA  
+XP_002933088.2 FSNNLVFGSSD-VYERLKYLEEGI LEDGSFR PPYERFEINLRSDDALV\*．\* \*\*\*． \*\*\*.\*\*  
+AAP04356.1 KNYGLLSCLKKDMHKVETYLKVVKCRRLVESNCTF  
+CAA31038.1 KNYGLLSCFKKDMHKVETYLKVMKCRRLVESNCTF  
+GHpre_Pb KNYGLLSCFKKDMHKVETYLKVMKCRRFVESNCTF  
+XP_002933088.2 KVYGLLSCFKKDMHKVETYLKVMKCRRSVEGNCTI\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*：C
+
+A：棘腹蛙GH 的扩增；B：棘腹蛙 GH 的序列分析；C：已知两栖动物的GH 遗传多态性分析。 XP_002933088.2注释为热带爪蟾 $G H$ ；AAP4356.1和CAA31038.1注释为牛蛙GH。黄色表示棘腹蛙GH潜 在功能分化区域。 A: the gene amplification of GH from Paa boulengeri; B: the sequence analysis of GH from P. boulengeri; C: the genetic polymorphism analysis of $G H$ from known amphibians.AAP4356.1 and CAA31038.1 are both stand for GH from Rana catesbeiana; XP_012816009 and XP_002933088.2 are both stand for GH from Xenopus tropicalis.The potential differentiationaminoacid sites ofGH fromPaa boulengeri are shadowed in yellow.
+
+Fig.7The sequence characteristic analysis ofGH form Paa boulengeri
+
+与GH同源基因进行系统进化树聚类分析，结果如图8所示。棘腹蛙的 $G H$ 与牛蛙近缘，并与草鱼、斑马鱼和淡水蝗等水生动物单独聚为一支，暗示水生动物 $G H$ 具有共同的祖先，鸟类与陆生动物聚为一支，高等哺乳动物单独聚为一支，证实了棘腹蛙 $G H$ 基因的进化相对保守。
+
+![](images/06514ca961800803769141118c236923f587ce2a42f9412c6229cc85c5b95e7a.jpg)  
+图8棘腹蛙GH的聚类分析
+
+对棘腹蛙GH蛋白质结构进行分析，结果如图9所示。棘腹蛙GH具有典型的Hormone_1结构域（图9-C)，属于典型的 4-螺旋细胞因子（4-helix cytokines）（图9-A）。其中，PHE208与模式脊椎动物相比为突变位点（图9-B和图9-C)，而与两栖模式动物相比则相对保守，说明棘腹蛙GH功能结构域相对保守。
+
+![](images/1fa85e77d4aeb2ed4ed47af85f7e24301fd1e6dec0e3e84e2996d8949d874b26.jpg)  
+Fig.8The clustering analysis of GH from Paa boulengeri   
+图9棘腹蛙GH的蛋白质结构分析
+
+A：棘腹蛙GH的蛋白质三维结构分析；B：棘腹蛙GH的特异功能结合位点预测；C：棘腹蛙GH与 人类GH模板1bp3.1.A[1]的蛋白质构象差异分析。 A: the 3D protein structure analysis of GH from Paa boulengeri; B:the specific functional target prediction of IGF-I from Paa boulenger; C: the protein conformation difference analysis between GHfrom Paa boulengeri and the GH template 1bp3.1.A from human beings[1].
+
+Fig.9The protein structure analysis of GH from P.boulengeri
+
+3讨论
+
+在GH-IGFs 轴中，GH处于上游位置，而IGFs 则处于下游位置[12]。GH-IGFs 轴的作用并不单一，是由多种因子和多种调控模式组成了GH 合成与分泌的调控网络[13]。GH/IGF-I轴作为调控机体生长发育的主线[14]，其信号转递通路主要是通过启动2条信号传递链，即磷酯酰肌醇-3 激酶(PI3-K)激活途径和丝裂原活化蛋白激酶(MAPK)激酶激活途径，把有丝分裂和代谢信号传递到细胞核内，从而启动IGFs分泌，促进细胞增殖、分化以及抑制细胞的凋亡。IGF-I与其受体结合后，首先导致胰岛素底物-1(IRS-1)磷酸化,IRS-1被磷酸化后,PI3-K和生长因子结合蛋白2(Grb2)才能够与其结合，由此启动2条信号传递链。一条途径是PI3-K被激活并形成磷酸化磷酸肌醇(PIP3)，PIP3就是细胞生长的信号，且PIP3 途径是抑制细胞凋亡的最经典途径。另一条途径是激活细胞外信号调节激酶(ERK)，ERK把信号传递到细胞核内启动有丝分裂[15]。也就是说，IGF-I一方面通过增加细胞的有丝分裂来促进机体的生长，另一方面则通过抑制细胞的凋亡来促进机体的生长。
+
+目前针对两栖动物GH功能的报道较少，在仅有的部分早期研究中发现，两栖动物变态前外源GH可刺激其幼体——蝌蚪的生长且在幼体的生长发育(尤其是肢的生长)中发挥特殊的作用[16]。外源性GH 能促进蟾蜍幼体的生长，也能促进牛蛙幼体下肢的生长[17]。在蝌蚪发育的后期，血液中内源性GH水平会不断升高[16]。但内源性GH在两栖动物幼体生长、发育和变态中的确切作用仍然没有相应的报道。本研究针对棘腹蛙内源GH、IGF-I和 IGF-II进行分析，结果发现三者与已知两栖模式生物相比均存在较多氨基酸突变位点，说明其存在一定程度的功能分化。遗传进化树聚类分析显示，与已知两栖模式动物相比，棘腹蛙 IGF-I和 IGF-II均存在特异的物种分化趋势，而GH的进化则相对保守。蛋白质结构分析显示，与人类IGFs相比，棘腹蛙IGF-I存在5处功能作用位点的分化区域，IGF-II存在3处功能作用位点的分化区域；而棘腹蛙GH与模式脊椎动物GH相比，则仅有PHE208 处存在氨基酸突变，说明该氨基酸位点对于棘腹蛙的功能分化具有重要研究价值。值得注意的是，该位点在两栖动物中则相对保守，暗示PHE208 是两栖动物与高等哺乳动物功能分化的氨基酸位点。综上所述,尽管功能结构域和遗传进化特征相对保守，但棘腹蛙IGF-I的THR52、LEU53、PHE72、PHE73、SER74，IGF-II的 TYR81、LYS82、LYS83 以及GH 的 PHE208 为潜在的功能作用位点和结合位点。鉴于本课题组前期研究发现GH/IGFs轴易受到温度影响，导致棘腹蛙蝌蚪无法变态甚至死亡，成蛙生长异常。因此，本研究为揭示温度如何介导GH/IGFs轴代谢机制进而调控棘腹蛙生长发育筛选了分子靶标，并为今后棘腹蛙优质品种选育提供理论依据。
+
+4结论
+
+棘腹蛙GH/IGFs 轴的主要基因相对保守，但与已知模式物种相比，存在潜在的功能分化位点，可作为后期棘腹蛙GH/IGFs轴功能研究和遗传进化特征分析的分子靶标。
+
+# 参考文献：
+
+[1]POLLAK M.The insulin and insulin-like growth factor receptor family in neoplasia:an update[J].Nature Reviews Cancer,2012,12(3):159-169. [2] 费梁,叶昌媛,黄永昭,等.中国两栖动物检索及图解[M].成都:四川科学技术出版 社,2005:137-139. [3] YAN F,ZHOU W W,ZHAO H T,et al.Geological events play a larger role than Pleistocene climatic fluctuationsindrivingthegeneticstructureofQuasipaaboulengeri(Anura: Dicroglossidae)[J].Molecular Ecology,2013,22(4):1120-1133. [4] 汪松,赵尔宓.中国濒危动物红皮书(两栖类和爬行类)[M].北京:科学出版社,1998:80-83. [5] 汪松,解焱.中国物种红色名录:第1卷:红色目录[M].北京:高等教育出版社,2004:1-224. [6] SHAN X,XIA Y,ZHENG YC,et al.The complete mitochondrial genome of Quasipaa boulengeri   
+261 (Anura:Dicroglossidae)[J].Mitochondrial DNA,2014,25(2):83-84.   
+262 [7] XIA Y,HU L J,SHAN X,et al.Isolation and characterization of eleven polymorphic tetranucleotide   
+263 microsatellite loci for Quasipaa boulengeri (Anura:Dicroglossidae)[J].Conservation Genetics   
+264 Resources,2013,5(1):5-7.   
+265 [8] YUAN S Q,XIA Y,ZHENG Y C.et al.Development of microsatellite markers for the spiny-bellied   
+266 frog Quasipaa boulengeri(Anura:Dicroglossidae) through transcriptome   
+267 sequencing[J].Conservation Genetics Resources,2014,7(1):229-231.   
+268 [9] QING L Y,XIA Y,ZHENG Y C,et al.A de novo case of floating chromosomal polymorphisms by   
+269 translocation in Quasipaa boulengeri (Anura,Dicroglossidae)[J].PLoS One,2012,7(10):e46163.   
+270 [10] LAAJOKI L G,FRANCIS G L,WALLACE J C,et al.Solution structure and backbone dynamics of   
+271 long-[Arg(3)]insulin-like growth factor- 1 [J].The Journal of Biological   
+272 Chemistry,2000,275(14):10009-10015.   
+273 [11] SOMERS W,ULTSCH M,DE VOS A M,et al.The X-ray structure of a growth hormone-prolactin receptor complex[J].Nature,1994,372(6505):478-481.   
+[12] PERRINI S,LAVIOLA L,CARREIRAM M C,et al.The GH/IGF1 axis and signaling pathways in the muscle and bone:mechanisms underlying age-related skeletal muscle wasting and osteoporosis[J].Journal of Endocrinology,2010,205(3):201-210.   
+[13] Canosa L F,Chang JP,Peter R E.Neuroendocrine control of growth hormone in fish[J].General and Comparative Endocrinology,2007,151(1):1-26.   
+[14] BARTKE A.Impact of reduced insulin-like growth factor-l/insulin signaling on aging in mammals:novel findings[J].Aging Cell,2008,7(3):285-290.   
+[15] JONES J I,CLEMMONS D R.Insulin-like growth factors and their binding proteins:biological actions[J].Endocrine Reviews,2002,16(1):3-34.   
+[16] MCLEAN E,DONALDSON E M.The role of growth hormone in the growth of poikilotherms[M]/SCHREIBMAN M.The endocrinology of growth,development,and metabolism in vertebrates.Amsterdam:Elsevier,1993:43-71.   
+[17] KIKUYAMA S,KAWAMURA K,TANAKA S,et al.Aspects of amphibian metamorphosis: hormonal control[J].International Review of Cytology,1993,145:105-148. Cloning and Sequence Characteristic Analysis of Growth Hormone/Insulin-Like Growth Factors AxisKey Genes fromPaa boulengeri   
+LUO JieJIANG Yusong YANGFan FAN Wenqiao\* LI Xiaoying   
+(Chongqing Research Centers of Conservation and Development on Rare & Endangered Aquatic Resources, College of Life Science & Forestry, Chongqing University ofArt & Science, Chongqing 402168, China)   
+Abstract: Growth hormone (GH)/insulin-like growth factors (IGFs） axis was composed of GH system and IGFs system, which can promote cell proliferation, regulate growth and development, regulate physiological metabolism,as wel as played an important role in the regulation of growth and development. In order to clear the functional structure and evolution characteristics of GH/IGFs axis from Paa boulengeri and to provide the theoretical basis for regulation study of growth and development for Paa boulengeri, the GH, insulin-like growth factor- I $( I G F \mathrm { - } \mathrm { ~ I ~ } )$ and insulin-like growth factor-II (IGF-II） from Paa boulengeri were cloned and the sequence characteristics of them were analysed. The results showed as follows: 1） multiple sequence alignment with amphibian model animals revealed that GH,IGF-I and IGF-II displayed respective genetic polymorphisms within conserved functional domains,and the N-terminal domain of IGF-II showed a abbreviated evolution trend.2) The phylogenic clustering analysis found that IGFs from Paa boulengeri and amphibians were clasified to one cluster, and they had a near relationship with bony fish,which indicated IGF-I and IGF-II were comparatively ancient genes. IGFs from Paa boulengeri had a near relationship with aquatic animals such as frogs and fishes,which implied GH had a trend of convergent evolution.3) To further define the specific functional sites of above genes,the protein structure of them were analysed by SWISS software,and some potential functional diferentiation sites were found including THR52,LEU53, PHE72, PHE73 and SER74 from IGF- I,TYR81,LYS82 and LYS83 from IGF-II,and PHE208 from GH. The results indicate that the major genes of GH/IGFs axis from Paa boulengeri are
+
+316 relatively conserved, but their exist some potential functional differentiation sites compared with   
+317 known model species,which can be as molecular targets for the functional study and genetic   
+318 characteristics analysis of GH/IGFs axis from Paa boulengeri in future.   
+319 Key words: Paa boulengeri; IGFs; GH; sequence analysis; structure characteristics   
+320   
+321

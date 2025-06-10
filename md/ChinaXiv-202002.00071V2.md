@@ -1,0 +1,116 @@
+# Potential treatment of Chinese and Western Medicine targeting nsp14 of 2019-nCoV
+
+Chao Liu ’, Xiaoxiao Zhu ', Yiyao Lu 1,Xu Jia1\*,Tai Yang 2\*
+
+1 Non-coding RNA and Drug Discovery Key Laboratory of Sichuan Province, Chengdu   
+Medical College, Chengdu, Sichuan, China   
+² School of Pharmacy, Chengdu Medical College, Chengdu, Sichuan, China   
+\*Correspondence to: Xu Jia: jiaxu@cmc.edu.cn Tai Yang: taiyang@cmc.edu.cn
+
+# Abstract
+
+2019 novel coronavirus (2019-nCoV) caused severe, large-scale acute respiratory disease outbreak in Wuhan, China. The 2019-nCoV has spread to other regions and countries around the world, which is seriously threatening human health. There is an urgent need to develop drugs for the prevention and treatment of 2019-nCoV. 2019- nCoV nonstructural protein 14 (NSP14） carrying RNA cap guanine N7- methyltransferase and $3 ^ { \prime }  – 5 ^ { \prime }$ exoribonuclease activities could be a potential drug target for intervention. NSP14 of 2019-nCoV shared $9 8 . 7 \%$ similarity with the one (PDB ID: 5nfy） of acute respiratory syndrome (SARS) Coronavirus. Then， the 2019-nCoV NSP14 structures were modelled by using SARS NSP14 (PDB ID: 5nfy) as template for virtual screening. Based on the docking score， 18 small molecule drugs were selected for further evaluation. The compounds, including Saquinavir, Hypericin, Baicalein and Bromocriptine, could bind the N-terminus and C-terminus of the homology model of the 2019-nCoV Nsp14, thus providing as a candidate drug against 2019-nCoV for further study.
+
+# 1. Introduction
+
+In December 2O19,a large scale, severe acute respiratory disease named as “2019 novel coronavirus (2O19-nCoV)’ occurred in Wuhan, China, and has already spread to other regions of China and other countries around the world in the following one month, seriously threatening human health. There is an urgent demand to develop drugs for the prevention and treatment of 2019-nCoV. Coronavirus NSP plays an important role in the virus’ genome replication and transcription 1.2, and it is generally conserved as an important functional protein in the coronavirus family. Among the family, NSP14 protein has both exonuclease and methyltransferase functions, which is important for replication and transcription of SARS and other coronavirus, thus providing attractive target for drug designs 3-5.
+
+The amino acid sequence alignment revealed that the NSP14 of 2019-nCoV shared $9 8 . 7 \%$ similarity with the one (PDB ID: 5nfy) of SARS (Figure 1). Thus, the 2019- nCoV NSP14 structures were modelled by using SARS NSP14 (PDB ID: 5nfy) as template. The N-terminus and C-terminus of 2019-nCoV NSP14 were designated as active sites for screening drugs.A total of 7496 drugs obtained in the ZINC database were subjected to the binding screening. Among them, 2100 drugs were approved by FDA, 4264 drugs were approved by other regulatory agencies besides FDA(world-notFDA） and 1132 drugs are undergoing clinical trials but not yet approved (investigational-only). The docking was carried out using AutoDock Vinal.1.2. Ten top compounds showed the lowest negative vina score in a range of -8.6 to -9.7 kcal/mol were selected from the N-terminal domain of homology model (Table.1),and eight top compounds with lowest negative vina score in a range of -8.7 to -9.7 kcal/mol were achieved from the C-terminal domain of homology model (Table. 2). More importantly, the compounds, including Saquinavir, Hypericin, Baicalein and Bromocriptine, not only could bind the N-terminus and C-terminus of the homology model (Figure 1. A, B), but also could bind the N- terminal and C-terminal active pockets of the 2019-nCoV Nsp14 (Figure 1. C, D).
+
+# 2.Materials and Methods
+
+# 2.1 Docking method
+
+The SARS NSP14 amino acid sequence was downloaded from the PDB protein structure database (PDB ID: 5nfy). The 2019-nCoV amino acid sequence (Accession number: MN908947） was obtained from database of the National Center for Biotechnology Information (NCBI). The homology of above amino acid sequence was aligned using ClustalW. Homology model of the target protein was constructed and optimized by Modeller9.18 using crystal structure of SARS NSP14 (PDB ID: 5nfy) as template.A total of 1O0 independent structures were constructed, and the one with best DOPE score was selected for further energy minimization by Amber.
+
+The ligands were downloaded from the ZINC database (FDA, world-not-FDA, investigational-only, http://zinc.docking.org/substances/subsets/). The 2D structure of the compound was then converted into the corresponding 3D coordinates using the Babel server (http://openbabel.sf.net). Then the model was converted to pdbqt format by prepare_receptor4.py script with assigning atom type and partial charge. All rotatable bonds in the ligand were set as flexible for flexible docking. Vinal.1.2 was used for molecular docking. The docking boxes were selected at the N-terminal exonuclease domain (aa: 62-290) and C-termimal transmethylase domain (aa: 291-527) of 2019-nCoV NSP14 respectively
+
+# 2.2 Binding free energy calculation
+
+Each simulation system was immersed in a cubic box of TIP3P water with 10 A distance from the solute. The $\mathrm { { N a } ^ { + } }$ or Cl was applied to neutralize the system. General Amber force field (GAFF)15 and Amber ff14SB force field were used to parameterize the ligand and protein respectively. 10,Ooo steps of minimization with constraints (10 $\mathrm { k c a l / m o l / \AA } 2 )$ ）on heavy atoms of complex, including 5,0o0 steps of steepest descent minimization and 5,0o0 steps ofconjugate gradient minimization, was used to optimize each system. Then each system was heated to $3 0 0 \mathrm { K }$ within 0.2 ns followed by 0.1 ns equilibration in NPT ensemble. Finally, 5 ns MD simulation on each system at $3 0 0 \mathrm { K }$ was performed. The minimization, heating and equilibrium are performed with sander program in Amberl8. The 5 ns production run was performed with pmemd.cuda. Based on the 5 ns MD simulation trajectory, binding free energy $( \Delta \mathrm { G } )$ was calculated with MM/GBSAmethodaccordingtothefollowingequation: $\Delta G _ { \mathrm { c a l } = } \Delta \mathrm { H } .$ $\mathrm { T \Delta \Delta S { = } \Delta E _ { v d w } + \Delta E _ { e l e } + \Delta G _ { g b } + \Delta G _ { n p } - T \Delta S }$ ,where $\Delta \mathrm { E } _ { \mathrm { e l e } }$ and $\Delta$ EVDw refer to electrostatic and van der Waals energy terms respectively. $\Delta \mathrm { G } _ { \mathrm { g b } }$ and $\Delta \mathrm { G } _ { \mathrm { n p } }$ refer to polar and non-polar solvation free energies respectively. Conformational entropy (T△S) was not calculated for saving time. Besides, the ligands were compared based on the same target, so it is reasonable to ignore the entropy.
+
+# 3. Results and Discussion
+
+# 3.1 Docking results of Saquinavir against 2019-nCoV NSP14 model
+
+Saquinavir, as the first FDA-approved HIV protease inhibitor, has been used in the treatment of patients with human immunodeficiency virus (HIV) infection since 1995 6. Our docking results showed that five of the hydrogen bonds involving ASP-273, ASN-252, ASP-90, and LEU-253 were maintained upon the binding of Saquinavir and N terminus of 2019-nCoV NSP14 (Fig. 1A). Meanwhile hydrogen bonds involving ASN-386,GLN-313，GLY-333 and THR-428 maintained upon the binding of Saquinavir and C terminus of 2019-nCoV NSP14 (Fig. 1C). Saquinavir could bind to the N- and C-terminal active pockets of the 2019-nCoV NSP14 (Fig.1B,D). The recent study from a drug-target interaction deep learning model showed that Saquinavir can bind to 2019-nCoV RNA-dependent RNA polymerase to inhibit the enzyme activity7. Our simulation results showed that Saquinavir can bind two active sites of NSP14, thus Saquinavir could be as a candidate drug against 2O19-nCoV for further research.
+
+# 3.2 Docking results of Hypericin against 2019-nCoV NSP14 model
+
+Hypericin as a main ingredient in traditional Chinese medicine- Hypericum perforatum $L .$ (St. John's wort) has been demonstrated activity against RNA viruses in vitro by inhibiting viral replication 8. The present docking results showe that three of the hydrogen bonds involving ASN-252, GLY-93,and HIS-268 are maintained upon the binding of Hypericin and N-terminus of 2019-nCoV NSP14 (Fig. 2A). The six hydrogen bonds involving ASN-306, ARG-310, ASN-422 and LY-336 are maintained upon the binding of Hypericin and C-terminus of it (Fig. 2C). Hypericin can bind to the N- and C-terminal active pockets of the 2019-nCoV Nsp14 (Fig. 2B,D). Hypericin has been proven to have inhibitory effects on human hepatitis C virus (HCV) and human immunodeficiency virus (HIV)9. Combined the present study, Hypericin may have potential antiviral effect against 2O19-NcoV. The traditional Chinese medicineHypericum perforatum $L$ as main composition of Shuanghuanglian oral liquid has been widely used for the treatment of viral influenza. However, Shuanghuanglian oral solution has been suggested for the treatment of 2019-nCoV, triggering a huge crisis of public trust in Chinese scientists. We suggested that anti-2019-nCoV effects of Hypericin should be detected in cell culture models of 2019-nCoV infection. This will help us have a good understanding whether it is a good method to use Chinese medicines for the treatment of 2019-nCoV or not.
+
+# 3.3Docking results of Baicalein against 2019-nCoV NSP14 model
+
+Baicalein, a flavonoid compound isolated from the root of Scutellaria baicalensis Georgi (Huang Qin in Chinese), inhibit viral replication of parainfluenza, influenza A, hepatitis B, HIV-1, and SARS coronavirus 10-12. The present docking results showed that six of the hydrogen bonds involving ASN-266,ASP-273, GLY-93, GLU-92, and HIS-268 were maintained upon the binding of Hypericin and N-terminus of 2019-nCoV NSP14 (Fig. 2A). Four hydrogen bonds involving ASN-386, ASP-331, and GLN-313 are maintained upon the binding of Hypericin and C-terminus of it (Fig. 2C). Baicalein can also bind to the N- and C-terminal active pockets of the 2019-nCoV NSP14 (Fig. 2B,D). The previous study showed that Baicalein as a novel chemical inhibitor could inhibit ATPase activity of NSP13 protein of SARS coronavirus 13. The present data suggests that Baicalin may bind to NSP14 protein to exert anti-2019-nCoV activity.
+
+Therefore, we suspect that the anti-2O19-nCoV activity induced by the Baicalein could be valuable for further study.
+
+# 3.4 Docking results of Bromocriptine against 2019-nCoV NSP14 model
+
+Bromocriptine, a specific dopamine receptor agonist for the hypothalamus and pituitary, has inhibitory effect on replication the Dengue virus with low cytotoxicity (half maximal effective concentration, $\mathrm { E C } 5 0 { = } 0 . 8 { \cdot } 1 . 6 \mathrm { ~ \sharp ~ } \mathrm { \sharp M } _ { \cdot }$ ；and half maximal cytotoxicity concentration, $\mathrm { C C 5 0 { = } 5 3 . 6 ~ \mu M ) }$ ，14.Moreover，Bromocriptine inhibited Zika virus protease activities and exhibited synergistic effects with interferon-α2b against Zika virus replications15. It is interesting to find that Bromocriptine can bind to the $\Nu _ { - }$ and C-terminal active pockets of the 2019-nCoV NSP14 from our molecular docking results (Fig. 4B, D). The present results showed that three of the hydrogen bonds involving ASN-104,ASP-273 and GLN-145 were maintained upon the binding of hypericin and N terminus of 2019-nCoV NSP14 (Fig. 4A). There was one bond involving THR-428 maintained upon the binding ofhypericin and C terminus of it (Fig. 4C).
+
+# 3.5 The calculation of binding free energy
+
+Based on the 5 ns MD simulation trajectory, binding free energy (△G) was calculated by MM/GBSA method. The calculated binding free energies of Saquinavir, Hypericin, Baicalein and Bromocriptine for the N-terminus of the homology model were -37.2711±3.2160， -30.1746±3.1914，-23.8953±4.4800，-34.1350±4.3683 kcal/mol, respectively (Table 3),while the calculated binding free energies were - 60.2757±4.7708,-30.9955±2.9975,-46.3099±3.5689, -59.8104±3.5389 respectively, when binding to the C-terminus (Table 4). Taken together, the results demonstrated that Saquinavir had the strong binding free energy.
+
+# 4. Conclusion
+
+2019-nCoV NSP14,a bifunctional enzyme carrying RNA cap guanine N7- methyltransferase and $3 ^ { \prime }  – 5 ^ { \prime }$ exoribonuclease activities could be a potential drug target for intervention. 2019-nCoV NSP 14 shares $9 8 . 7 \%$ sequence similarity with the corresponding one in SARS. Thus, the homology models of 2019-nCoV NSP14 was structured for virtual screening. Based on the docking score,18 drugs were selected for further evaluations. Four drugs (Saquinavir, Hypericin, Baicalein and Bromocriptine) could bind to the N-terminal and C-terminal domains of 2019-nCoV NSP 14. Combined the anti-viral function of above four drugs reported by the published literatures, we suggest the anti-2019-nCoV effects of above four drugs should be evaluated in the cell culture models of 2019-nCoV infection.
+
+# Acknowledgments
+
+This work was supported by grants from the National Natural Science Foundation of China (NO.31870135,31600116) and the “1000 Talent Plan” of Sichuan Province (NO. 980).
+
+# References
+
+1.Snijder EJ,Decroly E, Ziebuhr J.The Nonstructural Proteins Directing Coronavirus RNA Synthesis and Processing.Adv Virus Res 2016; 96: 59-126.   
+2. Sawicki SG,Sawicki DL, SiddellSG.A contemporary view of coronavirus transcription.JVirol 2007; 81(1): 20-9.   
+3. Chen Y, Tao J, Sun Y,et al. Structure-function analysis of severe acute respiratory syndrome coronavirus RNA cap guanine-N7-methyltransferase.J Virol 2013;87(11): 6296-305.   
+4. Eckerle LD,Lu X,Sperry SM,Choi L, Denison MR.High fidelityof murine hepatitis virus replication is decreased in nsp14 exoribonuclease mutants.JVirol 2007;81(22): 12135-44.   
+5. Chen Y, Cai H,Pan J,et al.Functional screen reveals SARS coronavirus nonstructural protein nsp14 as a novel cap N7 methyltransferase. Proc Natl Acad Sci U S A 2009;106(9): 3484-9.   
+6. Kitchen VS, Skinner C, Ariyoshi K,et al. Safety and activity of saquinavir in HIV infection. Lancet 1995;345(8955): 952-5.   
+7. Beck BR,Shin B, Choi Y, Park S, Kang K. Predicting commercially available antiviral drugs that may act on the novel coronavirus (2O19-nCoV)，Wuhan, China through a drug-target interaction deep learning model. bioRxiv 2020.   
+8. KariotiA, Bilia AR. Hypericins as potential leads for new therapeutics.Int JMol Sci 2010;11(2): 562-94.   
+9. Lenard J， Rabson A， Vanderoef R. Photodynamic inactivation of infectivity of human immunodeficiency virus and other enveloped viruses using hypericin and rose bengal: inhibition of fusion and syncytia formation. Proc Natl Acad Sci USA 1993; 9o(1): 158-62.   
+10．Zhang G-H,Wang Q, Chen J-J,Zhang X-M,Tam S-C, Zheng Y-T.The anti-HIV-1 effect of scutellarin. Biochem Biophys Res Commun 2005;334(3):812-6.   
+11.Sithisarn P, Michaelis M,Schubert-Zsilavecz M,CinatlJ. Differentialantiviral and anti-inflammatory mechanisms of the flavonoids biochanin A and baicalein in H5N1 influenza A virus-infected cells. Antiviral Res 2013; 97(1): 41-8.   
+12．HourMJ,Huang SH,Chang CY,etal.Baicalein,EthylAcetate,and Chloroform Extractsof Scutellaria baicalensis Inhibit the Neuraminidase Activityof Pandemic 2Oo9 H1N1and SeasonalInfluenza A Viruses. Evid Based Complement Alternat Med 2013;2013:750803.   
+13. Keum Y-S,Lee JM,Yu M-S, Chin Y-W, Jeong Y-JJBotKCS.Inhibition of SARS Coronavirus Helicase by Baicalein. 2013;34(11): 3187-8.   
+14.Kato F， Ishida Y, Oishi S,et al. Novel antiviral activity of bromocriptine against dengue virus replication. Antiviral Res 2016;131:141-7.   
+15. Chan JF, Chik KK, Yuan S,et al. Novel antiviral activity and mechanism of bromocriptineas a Zika virus NS2B-NS3 protease inhibitor. Antiviral Res 2017;141: 29-37.
+
+![](images/24762592e5eff4e7dbc44f0b102eb8b97a66480e46de08ca866a32a84bb37bf6.jpg)  
+Figure and Table legends
+
+Figure 1. The binding model of Saquinavir against 2019-nCoV NSPl4.(A) Interactions between Saquinavir (cyan) and associated residues (off-white) in the N-terminus of the homology model for 2019-nCoV; (B) Binding models of Saquinavir (cyan) in the 2019-nCoV NSP14 protein N-terminus pocket (white surface); (C) Interactions between Saquinavir (cyan) and associated residues (offwhite) in the C-terminus of the homology model for 2019-nCoV; (D) Binding models of Saquinavir (cyan) in the 2019-nCoV NSP14 protein C-terminus pocket (white surface). Numbers accompanying dashed yellow lines represents the interaction distance (A).
+
+![](images/a2f98a063ebb7a5de4a450a15fe46b6d4ca63baf6c6c673814a18b4dcdb8aedc.jpg)
+
+Figure 2. The binding model of Hypericin against 2019-nCoV NSP14.(A) Interactions between Hypericin (cyan) and associated residues (off-white) in the N-terminus of the homology model for 2019-nCoV; (B) Binding models of Hypericin (cyan) in the 2019-nCoV NSP14 protein N-terminus pocket (white surface); (C) Interactions between Hypericin (cyan) and associated residues (offwhite) in the C-terminus of the homology model for 2019-nCoV; (D) Binding models of Hypericin (cyan） in the 2019-nCoV NSPl4 protein C-terminus pocket (white surface). Numbers accompanying dashed yellow lines represents the interaction distance (A).
+
+![](images/09176b3ee98f1778fc3e852f67a72eada38f7b3b0e5a37880e7f1829df0ca1cb.jpg)  
+Figure 3.The binding model of Baicalein against 2019-nCoV NSP14.(A) Interactions between Baicalein (cyan) and associated residues (off-white) in the N-terminus of the homology model for 2019-nCoV; (B) Binding models of Baicalein (cyan) in the 2019-nCoV NSP14 protein N-terminus pocket (white surface); (C) Interactions between Baicalein (cyan) and associated residues (off-white) in the C-terminus of the homology model for 2019-nCoV; (D) Binding models of Baicalein (cyan) in the 2019-nCoV NSP14 protein C-terminus pocket (white surface). Numbers accompanying dashed yellow lines represents the interaction distance (A).
+
+![](images/7977261768f555c41336bce3fec05b8b79c71334c85253976855af4c53e831eb.jpg)
+
+Figure 4.The binding model of Bromocriptine against 2019-nCoVNSP14. (A) Interactions between Bromocriptine (cyan) and associated residues (off-white) in the N-terminus of the homology model for 2019-nCoV; (B) Binding models of Bromocriptine (cyan) in the 2019-nCoV NSP14 protein Nterminus pocket (white surface); (C) Interactions between Bromocriptine (cyan) and associated residues (off-white) in the C-terminus of the homology model for 2019-nCoV; (D) Binding models of Bromocriptine (cyan) in the 2019-nCoV NSP14 protein C-terminus pocket (white surface). Numbers accompanying dashed yellow lines represents the interaction distance (A).
+
+Table 1 -Ten drugs selected from the N-terminal domain of homology model   
+
+<html><body><table><tr><td colspan="4">Table 1 -Ten drugs selected from the N-terminal domain of homology model</td></tr><tr><td>Drug name</td><td>ID</td><td>Data</td><td>Affinity (kcal/mol)</td></tr><tr><td> Hypericin</td><td>ZINC000003780340</td><td>Investigational-only</td><td>-9.7</td></tr><tr><td>Bromocriptine</td><td>ZINC000053683151</td><td>FDA</td><td>-9.4</td></tr><tr><td>Tanespimycin</td><td>ZINC000100014666</td><td> Investigational-only</td><td>-9.1</td></tr><tr><td>Idarubicin</td><td>ZINC000003920266</td><td>FDA</td><td>-9.1</td></tr><tr><td>Emend</td><td>ZINC000027428713</td><td>FDA</td><td>-8.9</td></tr><tr><td>Baicalein</td><td>ZINC000034114798</td><td>World-not- FDA</td><td>-8.8</td></tr><tr><td>Saquinavir</td><td>ZINC000029416466</td><td>FDA</td><td>-8.7</td></tr><tr><td>Delavirdine</td><td>ZINC000018516586</td><td>FDA</td><td>-8.7</td></tr><tr><td>Silibinin</td><td>ZINC000001530850</td><td> Investigational-only</td><td>-8.6</td></tr><tr><td>Golvatinib</td><td>ZINC000043195317</td><td>Investigational-only</td><td>-8.6</td></tr></table></body></html>
+
+Table 2 -Eight drugs selected from the C-terminal domain of homology model   
+
+<html><body><table><tr><td colspan="4">Table 2 -Eight drugs selected from the C-terminal domain of homology model</td></tr><tr><td>Drug name</td><td>ID</td><td>Data</td><td>Affinity (kcal/mol)</td></tr><tr><td> Hypericin</td><td>ZINC000003780340</td><td> Investigational-only</td><td>-9.7</td></tr><tr><td>Olysio</td><td>ZINC000164760756</td><td>FDA</td><td>-9.4</td></tr><tr><td>Sovaprevir</td><td>ZINC000085537149</td><td>Investigational-only</td><td>-9.1</td></tr><tr><td>Celsentri</td><td>ZINC000003817234</td><td>FDA</td><td>-9.1</td></tr><tr><td>Saquinavir</td><td>ZINC000003914596</td><td>FDA</td><td>-8.9</td></tr><tr><td>Maraviroc</td><td>ZINC000101160855</td><td>World-not-FDA</td><td>-8.8</td></tr><tr><td>Baicalein</td><td>ZINC000034114798</td><td>World-not- FDA</td><td>-8.7</td></tr><tr><td>Bromocriptine</td><td>ZINC000053683151</td><td>FDA</td><td>-8.7</td></tr></table></body></html>
+
+Table 3 -The calculated binding energies of ligand to the N-terminus of 2O19-nCoV NSP14   
+
+<html><body><table><tr><td>Energy*</td><td>Saquinavir</td><td>Hypericin</td><td>Baicalein</td><td>Bromocriptine</td></tr><tr><td>△Evdw</td><td>-52.9602±2.9999</td><td>-36.4737±4.0922</td><td>-36.8721±3.4155</td><td>-45.8461±3.1764</td></tr><tr><td>△Eele</td><td>-128.6886±21.2732</td><td>-78.5578 ±10.7496</td><td>-47.8615±12.4900</td><td>-119.9028±8.3707</td></tr><tr><td>△Ggb</td><td>151.4060±21.5835</td><td>90.4227±7.8130</td><td>66.0255±11.0420</td><td>137.397±6.4239</td></tr><tr><td>△Gnp</td><td>-7.0283±0.3128</td><td>-5.5659±0.2085</td><td>-5.1872±0.2001</td><td>-5.7839±0.2553</td></tr><tr><td>△Gcal</td><td>-37.2711±3.2160</td><td>-30.1746±3.1914</td><td>-23.8953±4.4800</td><td>-34.1350±4.3683</td></tr></table></body></html>
+
+\* $\Delta \mathrm { E } _ { \mathrm { v d w } } =$ van der Waals energy terms; $\Delta \mathrm { E } _ { \mathrm { e l e } } =$ electrostatic energy; $\Delta \mathrm { G } _ { \mathrm { g b } } =$ polar solvation free energy; $\Delta { \mathrm { G n p } } =$ nonpolar solvation free energy; △Gcal $\mathbf { \Sigma } = \mathbf { \Sigma }$ final estimated binding free energy calculated from the above terms $\mathrm { ( k C a l / m o l ) } \mathrm { \Omega }$ ！：
+
+Table 3 -The calculated binding energies of ligand to the N-terminus of 2019-nCoV NSP14   
+Table 4 -The calculated binding energies of ligand to the C-terminus of 2O19-nCoV NSP14   
+Table 4 -The calculated binding energies of ligand to the C-terminus of 2019-nCoV NSP14   
+
+<html><body><table><tr><td>Energy*</td><td> Saquinavir</td><td>Hypericin</td><td>Baicalein</td><td>Bromocriptine</td></tr><tr><td>△Evdw</td><td>-70.4383±4.1035</td><td>-45.729±2.4822</td><td>-48.6473±3.5522</td><td>-61.4659±2.9431</td></tr><tr><td>△Eele</td><td>-38.8487±7.5603</td><td>-58.4555±12.1238</td><td>-192.8463±18.1708</td><td>-62.3583±7.0875</td></tr><tr><td>△Ggb</td><td>57.7780±6.3018</td><td>78.5444±10.3832</td><td>202.1598 ±16.7035</td><td>70.6739±5.6693</td></tr><tr><td>△Gnp</td><td>-8.7666±0.3476</td><td>-5.3546±0.2317</td><td>-6.9761± 0.1614</td><td>-6.6602±0.2480</td></tr><tr><td>△Gcal</td><td>-60.2757±4.7708</td><td>-30.9955±2.9975</td><td>-46.3099±3.5689</td><td>-59.8104±3.5389</td></tr></table></body></html>

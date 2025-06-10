@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "Short communication ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Identification of candidate antimicrobial peptides derived from abalone hemocyanin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jun Zhuang ab, Christopher J. Coates C\\*, Hongtao Zhu d.e, Ping Zhud, Zujian Wu ab,\\*\\*, Lianhui Xie a,b,\\*\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aFujianProvcalybofntVttVojuedtrUesity bKeLaboratorfidedcaloojuredstrsitstryfucatio BiologicaldiometaliecesoolfturalecesUversityfilig,iligotd9Uiddo dNationalLbotooooleclesittefoicsedecstud e Universityofthe Chinese Academy ofSciences,Beijing 10oo39,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ".RTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived11 July 2014   \nRevised 6 November 2014   \nAccepted 8 November 2014   \nAvailable online 13November 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nHemocyanin   \nAntimicrobial peptide   \nMollusc   \nHaliotisin   \nInnate immunity   \nIn silico ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jr17131.117311:7111111 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hemocyanins present in invertebrate hemolymph are multifunctional proteins,responsible for oxygen transport and contributing to innate immunity through phenoloxidase-like activity.In arthropods,hemocyanin has been identified as a source of broad-spectrum antimicrobial peptides during infection. Conversely,no hemocyanin-derived antimicrobial peptides have ben reported for moluscs.The present study describes a putative antimicrobial region,termed haliotisin,located within the linking sequence between the $\\alpha$ -helical domainand $\\beta \\mathrm { . }$ -sheet domain of abalone(Haliotis tuberculata) hemocyanin functional unit E.A series of synthetic peptides based on overlapping fragments of the haliotisin region were tested for their bactericidal potential. Incubating Gram-positive and Gram-negative bacteria in the presence of certain haliotisin peptides，notably peptides 3-4-5 （DTFDYKKFGYRYDSLELEGRS ISRIDELIQQRQEKDRTFAGFLLKGFGTSAS) led to reductions in microbial growth.Furthermore,transmission electron micrographs of haliotisin-treated bacteria revealed damages to the microbial cell walData discussed here provides the first evidence to suggest that molluscan hemocyanin may act as a source of anti-infective peptides. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2014 Elsevier Ltd.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the absence of acquired immunity and the ability to produce clonallyderived immunoglobulins,marine invertebratesrelysolelyon innate immunity to survive the microbiologically challenging and varied environment (reviewed by Elis et al.,2O11). Invertebrate immunity can be categorised broadly into three lines of defence:physical (exoskeleton),cellular and humoral.While cellular immunity (phagocytosis and encapsulation) is facilitated bya heterogeneous population of immune cells (hemocytes;reviewed by Smith,201O),humoral immunity involves a battery of hemolymph-based bioactive compounds,includingantimicrobial peptides (AMPs;reviewed by Zänker,2O1O).AMPs are produced by certain organs (hepatopancreas,digestive tract and gills) and circulating hemocytes in response to infection,wounding or abiotic stressors such as temperature (De Zoysa etal.,2O1O; Tassanakajon et al., 2014). Conventional AMPs are ${ \\sim } 1 5$ to 60 amino acids in length, ranging from 1.5 to $8  { \\mathrm { k D a } }$ in size,positively charged (cationic),amphipathic and containing $23 0 \\%$ hydrophobic residues (reviewed by Brogden,2005; Smith et al.,201O). The majority of known AMPs come from the processing of larger inactive proteins,however,some studies suggest that biologicallyactive proteins,such as hemocyanin (Lee etal.,2oo3) and hemoglobin (Ullal et al., 2oo8),can be altered to produce microbicidal cryptides. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hemocyanins (Hcs)are large,multi-subunit oxygen carrier proteins found in the hemolymph of numerous arthropods and molluscs (Decker et al.,2O07; Markl,2013). Data gathered over the last decade has established Hcs as versatile macromolecules,contributing to development,homeostasis,hemostasisand immune defenseswithin marine invertebrates (reviewed by Coatesand Nairn,2O14).Hcderived peptides with anti-microbial properties have been recorded previously in shrimp (Destoumieux-Garzón et al.,20O1; Qiu et al.,2014), crayfish (Lee etal.,2OO3) anda spider(Riciluca etal.,2012). To date, no Hc-derived AMPs have been observed for molluscs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite the increasing number of mollusc species being brought into mariculture, particularlyabalones (Hooper et al.,2OO7;De Zoysa et al., 2010;Zhuang et al.,2O1O), few studies have focused on molluscan immune defenses.In contrast, significant investment has been made in characterising shrimp and crab immunity, thereby establishing several groups of crustacean AMPs (Smith et al.,201O). In this study,we have identified a putative antimicrobial region (termed haliotisin) within the conserved loop sequence of functional unit (FU)-E of Haliotis tuberculata hemocyanin type 1(HtH1).Synthetic peptides based on the amino acid composition of this region inhibited the growth/replication of Grampositive (Bacillus subtilis) and Gram-negative (Erwinia carotovora) bacteria.Furthermore,in silico structural modelling of the most effective haliotisin peptides(3-4-5) revealeda linear $\\alpha$ -helical structure.Data described here advocate a role for molluscan Hc in AMP production, and in doing so,enhances our understanding of respiratory protein function in innate immunity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Peptide synthesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Peptides were purchased from Genescript Inc.(Nanjing,China). Peptides were purified by HPLC,with homogeneity described as $5 8 0 \\%$ from the accompanying MALDI-ToF mass spectrometry data.Peptides were dissolved in sterile phosphate buffered saline(PBS), $5 0 ~ \\mathrm { m M }$ NaPi and $1 0 0 \\mathrm { m M } \\mathrm { N a C l }$ ， $\\mathrm { p H } 7 . 6$ Solubility issues encountered with peptides 3and6 were overcome by theaddition of $0 . 1 \\%$ $n$ -dodecyl $\\beta$ -D-maltoside (DDM). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.In silico identification of putative AMPs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Antimicrobial Peptide Database(Wang et al.,2Oo9)was used initially to identify/locate potential anti-microbial regions within all eight abalone Hc FUs (a-h).HtH1 was chosen because itis more abundant than isoform HtH2(3:1） within abalone hemolymph (Keller etal.,1999),and due to the availability of the complete cDNA sequence (GenBank:Y13219.2, Lieb et al., 2000). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Antimicrobial assays ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.1. Radial diffusion assay (RDA) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The antimicrobial activity of the haliotisin peptides against Grampositiveand Gram-negative bacteria,B.subtilis and E.carotovara respectively,was performed as described previously (Banas et al., 2013). Briefly, bacteria were grown in Luria-Bertani (LB) media to mid-logarithmic phase and used for subsequent experiments at $1 0 ^ { 5 }$ or $1 0 ^ { 4 }$ colony-forming units $( \\mathrm { C F U } ) / \\mathrm { m L }$ .The bacterial suspension was appliedto LBagar $( 2 \\% )$ to produce microbial lawns. Sterile 4-mmdiameter filter discs were then placed onto the agar,with $1 0 -$ $2 0 \\mu \\mathrm { L } \\left( 0 { - } 5 0 \\mu \\mathrm { M } \\right)$ of peptide added to each disc.Plates were incubated at $3 0 ~ ^ { \\circ } \\mathrm { C }$ for 16-24 hours and monitored closely for zones of inhibition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.2.Minimal inhibitory concentration (MIC) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacteria were grown in LB at $3 0 ^ { \\circ } \\mathrm { C }$ and diluted to $1 0 ^ { 6 } \\mathrm { C F U / m L }$ in PBS, $\\mathrm { p H } 7 . 6$ .Peptideswerediluted in PBSalso.The bacteriaand diluted peptides were mixed in equal-volume,followed by incubationat $3 0 ^ { \\circ } C$ for2-3 hours.At the end of incubation,bacteria were placed on LB agar and incubated at $3 0 ^ { \\circ } \\mathrm { C }$ overnight for measurements of minimal inhibitory concentration (MiC).The lowest concentration of peptide that resulted in the highest level of inhibition was used to define the MIC.All experiments were carried out in triplicate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Transmission electron microscopy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the effect(s) of synthetic haliotisin-peptides on bacterialcell morphology,B.subtilisandE.carotovora were treated with higher concentrations $( 2 \\times \\mathsf { M I C } )$ of P3 $( 2 \\mu \\mathrm { M } )$ and P4 $( \\mathord { \\sim } 5 \\mu \\mathrm { M } )$ for30 minutes at $3 0 ^ { \\circ } \\mathrm { C } .$ Approximately $1 0 \\mu \\mathrm { L }$ of the bacterial/peptide suspension was loaded subsequently onto Parafilm.Next, formvarmembrane-coated copper grids were placed onto the bacteria for $5 \\mathrm { { m i n } }$ ,covered in $2 \\%$ phosphotungstic acid (PTA;negative staining) for $3 0 s$ and dried at room temperature.Samples were observed using a HITACHI H-765O transmission electron microscope (TEM). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Sequence alignments and structural models of FU-E ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sequences of Hc FU-E from various mollusc species were aligned using Clustal Omega(Goujon et al.,201O; Sievers et al.,2011) and edited furtherin ESPript2.2(Gouet etal.,1999,2003):Haliotistuberculata (gi:7159826,gi:27368649),Haliotis diversicolor (gi:255046234), Megathura crenulata (gi:560177105,gi:94013939),Rapana venosa (gi:31076723),Nucula nucleus (gi:57335438,gi:57335436),Helix lucorum(gi:346987844), Melanoides tuberculata(gi:549438767),Sepia officinalis subunit1(gi:88657467),Aplysia californica (gi:62679967), Sepiella maindroni (gi:543869159),Euprymna scolopes (gi:674268754) and Nautilus pompilius (gi:56710669). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Structures of abalone Hc FU-E were predicted initially using the online server I-TASSER(Zhang,2Oo8),and then flexibly fitted to the corresponding density map (EMDB ID:2503) that had been segmented in UCSF Chimera using MDFF(Pattersen et al.,2OO4; Trabuco et al.,2oo8), to build the pseudoatomic model of FU-E from isomeric HdH1 (Zhu et al.,2O14). The crystal structures of Rapana thomasiana (PDB-1LNL) and Megathura crenulata(PDB-4BED) were used as templates to construct the haliotisin region of HtH1 FU-E. Potential peptide cleavage sitesand carbohydrate binding sites werepredicted using the ExPASy Bioinformatics Resource Portal (Gasteiger et al.,2005).A 3D model of haliotisin peptides 3-4-5 (DTFDYKKFGYRYDSLELEGRSISRIDELIQQRQEKDRTFAGFLLKGFGTSAS) was assembled using the QUARK algorithm (Xu and Zhang,2012) and edited in UCSF Chimera. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The complete amino acid sequence of HtH1 (GenBank,Y13219.2) wasused conveniently for in silico analysesand the identification of candidate AMPs.Multiple peptide sequence alignments (Clustal $\\Omega$ )revealed that the putative antimicrobial region of HtH1 FU-E, termed haliotisin,is highly conserved amongst molluscs (Fig.1A): $84 \\%$ identity with HdH1, $71 \\%$ with Haliotis asinina Hc(partial),70- $71 \\%$ with Hcs 1 and 2 from M.crenulata and $2 5 8 \\%$ similarity to Hcs from N.nucleus,N. pompilius,E.scolopes,S.maindroni,A.californica, S.officinalis,H.lucorum,R.venosaandM.tuberculata. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Byemploying the recently published cryo-EM structure of HdH1 (Zhu et al.,2014) and the crystal structures of R. thomasiana (PDB1LNL;Perbandt et al.,20O3）and M. crenulata (PDB-4BED; Gatsogiannis and Markl, 2oo9) Hcs,a homology-based model representative of HtH1 was constructed successfully(Fig.1B). The conformational model detailed the location of FU-E (containing haliotisin) to the centre of the asymmetric unit of the Hc decamer (in agreement with Meissner et al.,2ooO). The haliotisin-region (C1002-L11o28) is visible ina loop arrangement,between the four $\\alpha$ -helix(core)-domainand the $\\beta$ -sheet(sandwich)-domain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Eight synthetic overlapping peptides (Fig.1C) were designed to representa variety of net chargesand $\\%$ hydrophobicity (see supplementary Table S1). Each peptide (P1-P8),ranging in size from $2 . 2 \\mathrm { k D a }$ to $3 . 2 \\mathrm { k D a }$ ,was tested for their ability to inhibit/prevent growth ofB.subtilis( $\\left. \\mathsf { G r a m } + \\right.$ and E.carotovora (Gram-) using radial diffusion assays (Fig.2,supplementary Fig.S1). Peptide3 (P3) corresponding to the internal region D1034-R1053 of Hc FU-E ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二 20 30 4 5 60 7 211 TELMSOP TKY NY KD LE MN MSIAOLE FSAHESNCA IELMSOP LKP FGP YNL NPMTTKY PSDVFNYKEH HYEYDMLEMN SMSIAOLE PAYESNC. IELMSOP KPF FG YNI P M TK YK DMLEMN SMSIAOLE ELMNEP KP FGS EM RK YKDH EYDMLEESGMTIPOLE N] CI EOLREP 《P FGP FVe MNIPTLD LNGDEANCALEOMRVP KPF FGA NYDNLEEY MSV LSGSEANO VOMKPP KP FG NKR OF G FA CA EHMRT KPF FG D RSI CA ELMRT KE QE E RSVAHID CA EMMRE G INVORLH EIMHEP dls EYDSLEVL MSPAQLE CA EVMHE FGS HYEYDSLEIG SMSIAOIN EVMKEE ISAAQLD 80 90 100 110 120 130 140 1 2 OKDRV AGFLIEGEGSSAYATEEVCP .DEGDCHEGSE SVLGG LYKME DIEHTMNNED QKDRV AGF FGS SA YATFQ CS.DAGECHDGS sV LGG MP 2W YRIE KDMGLOED OKDRVE EGFGSSA YATF CN.DAGECHDGS sv LGG MP AE LYRTE IT DIIKDMGLOED HHERI FAGF: GIGQSA NVD EV D.NONHCEDAG SI MP N YRYD T TM HINYD N] EHDRV KG IGQ SVKEEICIDATGVCFDG SI G MP Q YKYE DOESVYD EEDRV L1 GS FVNE DIV. SNGK FEG MP FKY IAANI RED ENDRV FGG s CR ADST QDA TV YKYD ET EKMHLRYD EADRV GQ VSE D PDQS QEA ME Y KYD KDM KLRYD EHSRV E GT TVD VCR TAGD EDA TV MP YKYD ET DKMNLRHD EKDRT L1 K GT VDHT KDA T MP YKYD T HDMNLRHE EHDGT K GT TlV K CR DDYT ENAG TV MP AF YKYDIT DEMNERHE ERDRV IGT H IDGE HA DV TP YKYE ov ESKGLDVH EKDRV GT SA HVEF CN EAGVC AYKYD V EKKGLEAT EHDRV GR H .DHHS SA FKYD EDNHMRYD ERDRV SFKMSA TVKE EDGT YKYE DVLDKMDIRYD B FU-E Haliotistuberculata P3: DTFDYKKFGYRYDSLELEGR P4: LEGRSISRIDELIQQRQEKD → 1800 Surface view Megathuracrenulata P3 equivalent: DTFDYQKFGYIYDTLEFAGW P4: FAGWSIRGIDHIVRNRQEHS C CAIEHMRTPLKPFSFGPPYNLNSHTQEYSKPEDTFDYKKFGYRYDSLELEGRSISRIDELIQQRQEKD P1 P3 P2 P4 P6 RTFAGFLLKGFGTSASVSLQVCRVDHTCKDAGYFTILGGSAEMPWAFDRLYKYDITKTL P5 P8 P7 Figel ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c16fd76b16606b3f10efbcd42c9db63ad700ee466dcb4ed477200207a2a09bc.jpg",
+        "img_caption": [
+            "igt resented by MIC $( \\mu \\mathrm { M } )$ values.Bshotreatedtoloasdictotbedidestreatdt Idl in numbers of flagella/pili can be seen in treated bacteria.Each scale bar represents $0 . 5 \\mu \\mathrm { m }$ .Images are representative of experiments carried out on three independent occasions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "demonstrated the strongest anti-proliferative activity against B.subtilis.After incubating B.subtilis lawns with flter discs containing P3 or P6(K1040-R1065) for $2 4 \\mathrm { h }$ ,clear zones of inhibition were recorded (supplementary Fig.S1).P3 was the more effective peptide with an MIC value in the range of $0 . 3 \\mathrm { - } 1 \\mu \\mathrm { M }$ P6,lacking the N-terminal amino acids of P3,was twofold less effective at killing bacteria (Fig.2A). This suggests that the N-terminal proportion of P3 may interact with a particular epitope present on B.subtilis. Peptides1,2,4,5 and 6 displayed anti-microbial activity against E.carotovora(Fig.2A).P6 was the only peptide to inhibit both Gram $^ +$ and Gram-bacteria;possibly due to the fact that its composition is made up of sequence motifs representative of P3 and P4 (Fig.1C). Transmission electron micrographs of $E _ { \\ast }$ .carotovora incubated in the presence of P4(Fig.2C-E) and B.subtilis incubated in the presence of P3 (Fig.2G and H) depicted morphological abnormalities compared to control samples,absent peptides (Fig.2B and F).Alterations visible in treated bacteria included reduced numbers of flagella $( \\geq 7 5 \\% )$ ,fragmentation of pilli and the appearance of blebs/ blisters on the cell surface.The cell wall of P4-treated E.carotovora appeared damaged and irregular, in contrast to the uniform nature of untreated bacteria (Fig.2B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Upon exposing B.subtilis to an equi-molar concentration ( $1 0 \\mu \\mathrm { M } )$ of P3 and P4,bactericidal activity was enhanced (supplementary Fig.S1).A P3/P4 combination did not lead to higher activity against E.carotovora,however,P5 in combination with P4 were more effectiveat killing E.carotovora.Collectively,P3-P4-P5（Fig.1C) likely constitutes a continuous peptide ( $2 9 \\%$ hydrophobic content; $6 . 7 5 \\mathrm { k D a }$ Fig.3A) with strong antimicrobial properties.An in silico model of P3-P4-P5 (D1034-S1085) illustratesa linear $\\alpha$ -helical polypeptide with clearly defined hydrophobic and hydrophilic regions (Fig.3B). While P3 and P4 transverse the wall of the hollow Hc cylinder(Fig.1B), a proportion of haliotisin (V1o86-T1o96) is located at the external surface of the protein (Fig.4),therebyproviding proteaseswith access to predicted cleavage sites that immediately follow P3-P4-P5.The serine proteases trypsin,chymotrypsinand protease Kwere identified as the most promising ( $8 2 - 1 0 0 \\%$ likelihood) enzymes to detach P3-P4-P5 from Hc (Figs.3 and 4). Trypsin and chymotrypsin directed proteolysis of P3-P4-P5 could generate cationic peptides that are between $4 . 7 \\mathrm { k D a }$ and 5 kDa in size,containing $31 \\%$ hydrophobic residues and adopting mainly $\\alpha$ -helical structures (Fig.3). Although HtH1 FU-E contains a number of putative $N \\mathrm { . }$ -linkedand O-linked carbohydrate binding sites,none are located within/near the haliotisin region (supplementary Fig.S2). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/85ec8f487faecda7a757b62c42edca9176b9724bf3e9907c0ff5e74657ccb674.jpg",
+        "img_caption": [
+            "ig3Iile ribbons) of the 52 amino acid stretch forms a large linear $\\alpha$ -helix.The underlined section of the sequence indicates haliotisin peptide 6.Potential cleavage sites of serine prote highlighted (red) residues is $100 \\%$ and $91 \\%$ ,respectively.(B)Surface hydrophobicityofthepeptidemodelwaspredicted inUCSFChimerabyadopting the Kyte-Dolitle scale.Blue represents hydrophilic residues (Arg,-4.5)and red represents hydrophobic residues (Ile, $+ 4 . 5$ 0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ad85413cc3d838a16f4983b103de603e1d6bfa22426c65de46f29f6ea0c5510.jpg",
+        "img_caption": [
+            "Figca catifo oti sit reader is referred to the web version of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Few AMPs have been described previously in molluscs,especially gastropods (Li et al., 2011). De Zoysa et al. (2009) identified a novel antimicrobial region,named abhisin,on histone H2A from theabalone Haliotis discus discus.Syntheticabhisin peptides were able to prevent the replication of yeast and bacteria.Incubation of yeast (Pityrosporum ovale) in the presence of abhisin peptides led to gross perturbations in the microbial cell wall and cytoplasmic membrane;symptoms similar to those observed here for haliotisintreated bacteria (Fig.2).In another study, De Zoysa et al. (2010) monitored nucleotide expression patterns of a defensin-like AMP in H.discus discus challenged with pathogenic microorganisms.Although transcripts of defensin were expressed constitutively in all tissues sampled, transcript abundance in hemocytes,gills and the digestive tract escalated during sepsis by Vibrio species.Anti-viral bioactives have also been isolated from the hemolymph of abalone (Haliotis laevigata) infected with herpes simplex virus (Dang et al., 2011).The present study examines a previously uncharacterised region of abalone Hc FU-E,designated haliotisin,which appears to perform an anti-infective function.Haliotisin is highly conserved amongst molluscan Hcs(Fig.1A) and synthetic peptides designed on the amino acid composition of this region targets both Gram-positive and Gram-negative bacteria.The variation in bacteriostatic performance of each peptide is likely conferred by their individual epitopes,e.g. P3 against B subtilis (Figs.1C and 2 and supplementary Fig.S1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inarthropods,Hc-derived peptides ranging in size from $1 . 2 \\mathrm { k D a }$ to $^ { < 8 }$ kDaand displaying broad-spectrum microbicidal properties have been recorded in a number of species. Strict fungicidal peptides originating from Hc were isolated from Penaeus stylirostris (LVVAVTDGDADSAVPNLHENTEYNHYGSHGVY，VTDGDADSAV PNLHENTEYNHYGSHGVYPDK)and Litopenaeus vannamei (FEDLPN FGHIQVKVFNHGEHIHH) hemolymph (DestoumieuX-Garzón et al.. 2001). More recently，,Qiu et al.(2014）cloned cDNA from FenneropenaeuschinensisHcand expressed two fragments that displayed up to $91 \\%$ sequence identity with the aforementioned shrimp Hc-derived AMPs.These synthetic anionic peptides performed both fungicidal and bactericidal activities.Lee et al. (2oo3)purified an Hc-derived peptide,astacidin1(FKVQNQHGQVVKIFHH),from the hemolymph of crayfish Pacifastacus leniusculus.The concentration ofastacidin1within crayfish hemolymph increased dramatically upon exposure to microbial ligands,indicating a distinct role for Hc-derived peptides in immune defence.Riciluca et al.(2012) isolated a $1 . 2 \\mathrm { k D a }$ anti-fungal peptide, termed rondonin (IIIQYEGHKH), from the tarantula Acanthoscurria rondoniae.Rondonin showed almost complete sequence identity to a number of spider Hc subunits.In all cases,these AMPs are found within the C-terminal domain (II) of arthropod Hc subunits(Coates and Nairn,2014). Domains II and II of arthropod Hc subunits are functionally equivalent to the $\\alpha$ -helicaland $\\beta$ -sheet domains of molluscan FUs, respectively.Hence,it is unsurprising that the haliotisin region characterised here occupies the C-terminal domain of abalone Hc FU-E (Fig.1B).As all known Hc-derived AMPs are positioned away from the dicopper centres,their anti-septic properties are unlikelydue to metal binding sites.FU-E is situated centrally on the hollow ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hc cylinder ina D5 symmetric pattern (Figs.1Band 4),and within this FU,the haliotisin-region exists in a looped configuration that spans a number of structural motifs(helices,sheets and turns) (Fig.1B). Interestingly,in silico modelling of the continuous peptide DTFDYKKFGYRYDSLELEGRSISRIDELIQQRQEKDRTFAGFLLKGFGTSAS (P3-P4-P5) detached from the Hc oligomer yields a linear $\\mathfrak { a }$ -helical arrangement (Fig.3A),stereotypical of the class of linear cationic $\\alpha$ -helicalAMPs.Akey feature of thisparticularclassofAMPsis thedistinct lack of cysteine residues.Although every Hc-derived peptide documented to date lack cysteine residues (Coates and Nairn, 2014),it does not necessarily indicate helix formation,as astacidin 1 forms a $\\beta$ -sheet structure in solution (resolved by CD and NMR spectroscopy）(Lee et al.，2oo3).Collectively,the discernible amphipathicity of the P3-P4-P5 model(Fig.3B)and the cell wall deformities observed for bacteria exposed to these peptides (Fig.2) allude to pore formationas the mode/mechanism of microbe killing. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The flexibility of the haliotisin loop structure would permit some movement between the two structural domains ( $\\alpha$ and $\\beta$ .The removal or relocation of the $\\beta$ -domainawayfromthe $\\alpha$ -domainis considered widely to be the mode of activation of Hc-d PO in molluscs,with similar structural alterations associated with the conversion of Hc into an immune-enzyme in crustaceans and chelicerates(Baird etal.,2oO7; Coatesand Nairn,2013; Coates et al.,2011,2013；Cong et al., 2009；Decker and Rimke，1998; Dolashki et al., 2011; Hristova et al., 2008; Lee et al., 2004; Siddiqui et al.,2005,20o6).It is postulated that inactive arthropod Hc is processed viaa yet uncharacterised proteolytic cleavage,resulting in a loosening of the tertiary structure thereby enabling Hc-derived PO activity and the release/generation of bioactive peptides. Supporting this theory, Jiang et al.(2oo7) documented the induction of PO activity and subsequent synthesis of reactive oxygen species in horseshoe crab Hc induced by microbial extracellular proteases,while Lee et al. (2oo3)proposed that a cysteine protease was responsible for cleaving crayfish Hc to produce astacidin 1.Througha similar combination of host-and microbedirected mechanisms,haliotisin peptides of HtH1 FU-E may be liberated by serine protease-like enzymes (Figs.3 and 4),and in the process could disturb the structural elements surrounding the dicopper (catalytic) centre of Hc,ultimately providing phenols with a mode of entry to the copper-bound $0 _ { 2 }$ .It should be noted that serine proteases are crucial for the activation of invertebrate prophenoloxidase(zymogen) into fully functional PO(Cerenius et al., 2010),and have also been confirmed as inducers of Hc-derived PO,in vitro. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The presence of haliotisin within HtH1 FU-E(Fig.1B) is intriguing,as FU-Es of molluscan Hcs are known to possess immunefunctionality. Dolashka et al.(201O) reported on the ability of glycosylated Hc FU-E from whelk(R.venosa) to interact with herpes simplex virus type 1 and prevent viral replication.More recently, Zhu et al.(2014) discovered an isomeric form of Hc from virusinfected abalone (H. diversicolor).The authors noted conformational changes in the isomeric Hc (in contrast to native Hc) leading to partial loss of FU-FU interactions between neighbouring asymmetric units, and strikingly,an enhanced ability of isomeric Hc FU-E to oxidise diphenols.Presently,our data describe anadditional role for molluscan Hc that entails the formation of anti-infective peptides. It is possible that Hc is targeted by proteases during infection so that AMPs can be cut-out and disseminated into the surrounding hemolymph. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Further work is needed in order to clarify the precise mechanism(s) involved,and physiological conditions necessary for AMP release from invertebrate Hcs.Enhancing our understanding of molluscan innate immunity is essential for circumventing microbial outbreaks in cultured stocks and helping to identify novel bioactive compounds that addressantibioticresistant bacteria. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Dr. Xueqing Cai and Cong Zhao for providing B.subtilis and E.carotovora,and to Qianzhuo Mao and Haitao Lin for their assistance with electron microscopy.This work was funded in-part by grants issued to Lianhui Xie(Taiwan Strait West Coast; K8812oO7) and Jun Zhuang(Natural Science Foundation Fujian; 2010J01o73). The University of Stirling provided some financial support (C. J. Coates). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Appendix: Supplementarymaterial ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at doi:10.1016/j.dci.2014.11.008. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Baird,S., Kelly, S.M., Price,N.C., Jaenicke,E., Meesters, C., Nillius,D., et al., 2007 Hemocyanin conformational changes associated with SDS-induced phenol oxidase activation. Biochim. Biophys. Acta 1774, 1380-1394.   \nBanas,M., Zabieglo,K., Kasetty, G., etal.,2013. Chemerin isan antimicrobial agent in human epidermis. PLOs One 8, e58709.   \nBrogden, K., 20o5. Antimicrobial peptides: pore-formers or metabolic inhibitors in bacteria?Nat. Rev. Microbiol.3,238-250.   \nCerenius, L., Kawabata, S.-I., Lee, B.L., Nonaka, M., Soderhall, K., 2010. Proteolytic cascades and their involvement in invertebrate immunity. Trends Biochem.Sci. 35,575-583.   \nCoates,C.J.,Nairn,J.,2013. Hemocyanin-derived phenoloxidase activity: a contributing factor to hyperpigmentation in Nephrops norvegicus. Food Chem.140,361- 369.   \nCoates, C.J., Nairn,J.,2014. Diverse immune functions of hemocyanins. Dev. Comp. Immunol. 45, 43-55.   \nCoates, C.J.,Kelly,S.M., Nairn,J.,2011.Possible role of phosphatidylserine-hemocyanin interaction in the innate immune response of Limulus polyphemus. Dev. Comp. Immunol. 35, 155-163.   \nCoates, C.J., Whalley, T.,Wyman,M., Nairn, J., 2013. A putative link between phagocytosis-induced apoptosis and hemocyanin-derived phenoloxidase activity. Apoptosis18,1319-1331   \nCong,Y.,Zhang, Q.,Woolford,D., Schweikardt,T.,et al.,20o9. Structural mechanism of SDS-induced enzyme activity of scorpion hemocyanin revealed by electron cryomicroscopy. Structure 17, 749-758.   \nDang,V.T., Benkendorff, K., Speck,P.,2011. In vitro antiviral activity against herpes simplex virusin the abalone Haliotis laevigata.J. Gen. Virol. 92,627-637.   \nDe Zoysa, M., Nikapitiya, C., Whang, I., Lee, J.-S., Lee, J., 20o9. Abhisin: a potential antimicrobial peptide derived from H2A of disk abalone (Haliotis discus discus). Fish Shellfish Immunol. 27, 639-646.   \nDe Zoysa, M., Whang, I., Lee, Y.,Lee, S., Lee, J.-S., Lee,J.,2010. Defensin from disk abalone Haliotis discus discus: molecular cloning,sequence characterization and immune response against bacteria. Fish Shellfish Immunol.28,261-266.   \nDecker, H., Rimke,T.,1998. Tarantula hemocyanin shows phenoloxidase activity. J. Biol. Chem.273,25889-25892.   \nDecker, H., Hellmann, N., Jaenicke,E., Lieb,B., Meissner,U., Markl, J.,2oo7. Recent progress in hemocyanin research. Integr. Comp. Biol. 47, 631-644.   \nDestoumieux-Garzón, D., Saulnier, D., Garnier, J., Jouffrey, C., Bulet, P., Bachére,E., 2001. Crustacean immunity-antifungal peptides are generated from the C-terminus of shrimp hemocyanin in response to microbial challenge. J. Biol. Chem.276,47070-47077.   \nDolashka,P., Velkova,L., Shishkov,S., Kostova,K., et al.,201o. Glycan structures and antiviral effect of the structural subunit RvH2 of Rapana hemocyanin. Carbohydr. Res.345,2361-2367.   \nDolashki, A., Voelter,W., Dolashka,P., 2011. Phenoloxidase activity of intact and chemically modified functional unit RvH1-A from molluscan Rapana venosa hemocyanin. Comp. Biochem.Physiol.B Biochem Mol. Biol. 160,1-7.   \nEllis,R.P., Parry, H., Spicer, J.I.,Hutchinson, T.H., Pipe,R.K.,Widdicombe, S., 2011. Immunological function in marine invertebrates: response to environmental perturbation. Fish Shellfish Immunol.30,1209-1222.   \nGasteiger,E., Hoogland, C., Gattiker,A., etal.,2Oo5.Protein identification and analysis tools on the ExPASy server. In: Walker, J.M. (Ed.), The Proteomics Protocols Handbook.Humana Press.   \nGatsogiannis, C., Markl,J., 2Oo9. Keyhole limpet hemocyanin: 9-A CryoEm structure and molecular model of the KLH1 didecamer reveal the interfaces and intricate topology of the 160 functional units.J. Mol. Biol. 385, 963-983.   \nGouet,P., Courcelle, E., Stuart, D.I., Metoz,F., 1999. ESPript: analysis of multiple sequence alignments in PostScript. Bioinformatics 15,305-308.   \nGouet,P., Robert, X.,Courcelle, E.,2003. ESPript/ENDscript: extracting and rendering sequence and 3D information from atomic structures of proteins. Nucleic Acids Res. 31,3320-3323.   \nGoujon, M., McWiliam, H., Li, W.Z., Valentin,F.,Squizzato,S. et al.,2010. A new bioinformatics analysis tools framework at EMBL-EBI. Nucleic Acids Res.38, W695-W699.   \nHooper, C., Day, R.,Slocombe,R., Handlinger, J., Benkendorff, K.,2Oo7. Stress and immune responses in abalone: Limitations in current knowledge and investigative methods based on other models. Fish Shelfish Immunol. 22,363-379.   \nHristova,R.,Dolashki, A., Voelter, W., Stevanovic, S.,Dolashka-Angelova,P., 2008. $\\phantom { - } o$ -Diphenol oxidase activity of molluscan hemocyanins. Comp. Biochem. Physiol. B Biochem Mol. Biol. 149, 439-446.   \nJiang,N., Tan, N.S., Ho, B., Ding, J.L., 2Oo7. Respiratory protein generated reactive oxygen species as an antimicrobial strategy. Nat. Immunol. 8, 1114-1122.   \nKeller,H.,Lieb,B.,Altenhein,B,etal,999.Abalone (Haliotis tuberculata)hemain type 1(HtH1): organization of the \\~400 kDa subunit and amino acid sequence of its functional units f, g and h. Eur. J. Biochem. 264, 27-38.   \nLee,S.Y., Lee, B.L.,Soderhäll, K.,2oo3.Processing of an antimicrobial peptide from hemocyanin of the freshwater crayfish Pacifastacus leniusculus.J. Biol. Chem.278, 7927-7933.   \nLee, S.Y., Lee, B.L., Soderhäll, K., 2oo4. Processing of crayfish hemocyanin subunits into phenoloxidase. Biochem. Biophys. Res. Commun. 322, 490-496.   \nLi, H.,Parisi, M.G., Parrinello, N., Roch, P.,2O11. Molluscan antimicrobial peptides,a review from activity-based evidences to computer-assisted sequences. Invertebrate Surviv. J. 8, 85-97.   \nLieb,B., Altenhein,B., Markl,J.,2ooo. The sequence of a Gastropod hemocyanin (HtH1 from Haliotis tuberculata). J. Biol. Chem.275,5675-5681.   \nMarkl, J., 2013. Evolution of moluscan hemocyanin structures. Biochim. Biphys. Acta 1834, 1840-1852.   \nMeissner, U., Dube,P., Harris,J.R., Stark,H., Markl,J.,2Ooo. Structure of a Molluscan Hemocyanin Didecamer (HtH1 from Haliotis tuberculata) at 12 a resolution by cryoelectron microscopy.J. Mol. Biol. 298,21-34.   \nPattersen, E.F., Goddard,T.D., Huang, C.C., Couch, G.S., Greenblatt, D.M., et al.,2004. UCSF chimera - a visualization system for exploratory research and analysis. J. Comput. Chem.25,1605-1612.   \nPerbandt, M., Guthoehrlein, E.W.,Rypniewski, W., et al., 2003. The structure of a gastropod hemocyanin offers a possible mechanism for cooperativity. Biochemistry 42, 6341-6346.   \nQiu,C.,Sun,J.,Liu,M., Wang,B.,Jjiang, K., Sun,S., etal.,2014. Molecular cloning of hemocyanin cDNA from Fenneropenaeus chinensis and antimicrobial analysis of two c-terminal fragments. Mar. Biotechnol.16, 46-53.   \nRiciluca, K.C.T.,Sayegh,RS.R, Melo,R.L,Silva,PI,Jr,22.Rondoninanantifungal peptide from spider (Acanthoscurria rondoniae) haemolymph. Results Immunol. 2,66-71.   \nSiddiqui,N., Preaux, G., Gielens, C.,20o5. Induction of phenoloxidase activity in the beta-hemocyanin of the gastropod Helix pomatia by limited proteolysis. FEBS J. 272, 159.   \nSiddiqui, N.,Akosung,R., Gielens,C.,2oo6. Location of intrinsic and inducible phenoloxidase activity in molluscan hemocyanin. Biochem. Biophys. Res. Commun. 348,1138-1144.   \nSievers,F.,Wilm,A.,Dineen,D., Gibson,T.J., Karplus,K.,et al.,2011. Fast, scalable generation of high-quality protein multiple sequence alignments using Clustal Omega. Mol. Syst. Biol. 7,539.   \nSmith,V.J.,2010. Immunology of Invertebrates: Cellular. Encyclopedia of Life Sciences (ELS). Wiley, Chichester. doi:10.1002/9780470015902.a0002344.pub2.   \nSmith,V.J., Desbois, A.P., Dyrynda,E.A., 201o. Conventional and unconventional antimicrobials from fish,marine invertebrates and micro-algae.Mar. Drugs 8, 1213-1262.   \nTassanakajon, A., Somboonwiwat, K., Amparyup,P., 2014. Sequence diversity and evolution of antimicrobial peptides in invertebrates. Dev. Comp. Immunol. http://dx.doi.0rg/10.1016/j.dci.2014.05.020.   \nTrabuco,L.G.,Villa,E.,Mitra,K.,Frank,J.,Schulten,K.,20o8.Flexible fiting of atomic structures into electron microscopy maps using molecular dynamics. Structure 16,673-683.   \nUlll, A.J., Litaker, R.W., Noga, E.J., 2008. Antimicrobial peptides derived from haemoglobin are expressed in epithelium of channel catfish (Ictalurus punctatus, Rafinesque). Dev. Comp. Immunol. 1301-1312.   \nWang,G., Li, X., Wang, Z.,2009. APD2: the updated antimicrobial peptide database and its application in peptide design. Nucleic Acids Res.37, D933-D937.   \nXu, D., Zhang, Y.,2012. Ab initio protein structure assembly using continuous structure fragments and optimized knowledge-based force field. Proteins 80,1715-1735.   \nZänker, K.S., 2010. Immunology of Invertebrates: Humoral. Encyclopedia of Life Sciences (ELS).Wiley, Chichester. doi:10.1002/9780470015902.a0000522.pub2.   \nZhang, Y., 2008.I-TASSER server for protein 3D structure prediction. BMC Bioinformatics 9, 40.   \nZhu, H,Zhuang,J.,Feng,H.,Liang, R., Wang,J., Xie,L,et al.,2014. Cryo-EMstructure of isomeric molluscan hemocyanin triggered by viral infection. PLoS ONE 9, e98766.   \nZhuang, J., Cai, G., Lin, Q., Wu, Z., Xie, L.,2010. A bacteriophage-related chimeric marine virus infecting abalone. PLoS ONE 5,e13850. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

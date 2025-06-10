@@ -1,0 +1,3599 @@
+[
+    {
+        "type": "text",
+        "text": "UDC: 621 学校代码： 10005中文图书分类号： TP24 学号：S201301169密级：公开",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "北京工业大学硕士专业学位论文",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（全日制）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "题 目：互动式数字天象厅的研究与集成设计英文题 目:RESEARCH AND INTEGRATED DESIGN OFINTERACTIVE DIGITALPLANETARIUM",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "论文作者：徐鹏飞  \n领 域：机械工程  \n研究方向：现代机械系统设计  \n申　请学位：工程硕士专业学位  \n指导教师：苏丽颖副教授崔辰州研究员  \n所在单位：机械工程与应用电子技术学院  \n答辩日期：2016年5月  \n授予学位单位：北京工业大学",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "独创性声明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本人声明所呈交的论文是我个人在导师指导下进行的研究工作及取得的研究成果。尽我所知，除了文中特别加以标注和致谢的地方外，论文中不包含其他人已经发表或撰写过的研究成果，也不包含为获得北京工业大学或其它教育机构的学位或证书而使用过的材料。与我一同工作的同志对本研究所做的任何贡献均已在论文中作了明确的说明并表示了谢意。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "签名:日期: 年月日",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "关于论文使用授权的说明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本人完全了解北京工业大学有关保留、使用学位论文的规定，即：学校有权保留送交论文的复印件，允许论文被查阅和借阅；学校可以公布论文的全部或部分内容，可以采用影印、缩印或其他复制手段保存论文。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（保密的论文在解密后应遵守此规定）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "签名: 日期: 年月日",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "导师签名： 日期: 年月日",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "天象厅是一种演示天象的场所，多用于天文科普和教育，一般建设于天文馆、科技馆及各中小学校内。国内天象厅数量众多，达到世界领先水平，然而整体呈现两极分化，大部分天象厅还在使用第一代哑铃式样光学天象仪，而少数天象厅已安装昂贵的第三代的数字天象系统。国内的数字天象厅成本昂贵，而且缺乏互动环节。国内天象厅整体有待数字化普及、提高互动性。本文的主要内容如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，对比各类天文软件选择了WWT作为构建数字天象系统的基础，并对其进行分析和完善，实现了多类终端互动支持及各项性能的解析，对比分析集中式与分布式特点，最终构建了一个基于天文软件WWT的具有互动性的数字天象系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次，对比选择了DLP技术作为天象厅中投影仪技术类型，给出了天象厅特殊环境中投影仪各类参数的选择原则。提出了天象厅中多投影设计的方法，该方法主要包括计算和仿真模拟两部分，基于ProjDesign开发的投影辅助设计工具程序完成了仿真模拟与修正，并基于该方法提出了多种天象厅中的投影方案设计及分析。最终通过实验手段验证了投影设计方法及多投影拼接的实现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第三，提出了一种天象厅环境下的座席区设计方法，该方法将天象厅中的观众体验感分为五类，将感官体验量化，分别进行数学建模，然后将五个模型根据比重综合，得到天象厅中体验感的数学模型，对其进行分析得出较优的座席区范围，并引入偏转角变量设计了固定座席区与旋转座席区。并针对天象厅超大垂直面视野设计了一种座椅，该座椅能舒适地为观众提供较大的仰角观看节目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第四，设计了一种互动式数字天象厅中的天象实时再现系统。该系统包含天文数据采集、数据传输、天文望远镜控制及同步，充分利用天文台资源实现了真实星空数据在互动式数字天象厅中的实时同步。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最后，针对方案设计及工程实践中遇到的相关问题，给出了各类实际解决方案，包括了球幕校正、投影仪固定、声学处理、兼容方案设计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关键词：万维望远镜；投影；座席；天象直播",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Planetarium is one kind of astronomical phenomena demonstrate place for astronomical science and education, usually built in the planetarium, museum of science and technology and the primary and secondary schools. Planetariums in domestic reach the leading level in the worldwith large number ，but overall showed polarization, most of the planetariums is still using the first generation of dumbbell style optical planetarium, and a few planetariums installed expensive digital planetarium systems. The digital planetarium is expensive,and lack of interaction. The whole digital planetarium needs to popularize and improve the interaction. The main contents of this paper are as follows: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Firstly， WWT is chosed for the base of building a digital planetarium systemcompare after comparing all kinds of astronomical software,and the analysis and improvement are made for WWT ,the hanization ,supporting of multi kinds of interactiveterminalsandtheanalyticalofperformanceisachieved， Finally theinteractive digital planetarium system based in astronomical software WWT is built after makinga comparison and analysis of centralized and distribute characteristics. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Secondly， the DLP technology is selected as planetariumprojector technology type after compare, the selection principle of kinds of projector parameters in the special environment of planetarium is gaved.A method of planetarium multi projection design is proposed, the method mainly includes calculation and simulation parts， projection aided designtool based onprogram ProjDesign completed the simulation and correction, and put forward a variety of planetarium projection scheme design and analysis based on the method. Finally, the method of projection design and the realization of multi projector mosaic are verified by experiments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thirdly, a method of the seating area design in planetarium is proposed, this method madethe experience of audience into five categories，make mathematical models,and then arrange the five models based on the proportion to a comprehensive model.Some analyses are done for better range of seating based on the model anda partial angle is introduced for designing the fixed seating area and the rotation seating area. A seat is designed for planetarium with providing a large vertical view, the seat can provide the audience a greater elevation to watch the showcomfortably. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fourthly, a real-time rendering system of sky in interactive digital planetarium is designed. The system contains astronomical data acquisition， data transmission, astronomical telescope control and synchronization， and make full use of the observatory resources to achieve the real sky data in real-time synchronization for interactive digital planetarium. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Finally, according to the related problems encountered in the project design and engineering practice,kinds of practical solutions is proposed, including the screen correction, projector fixed, acoustic processing, compatible design. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: World-Wide telescope, projection, seating,astronomical live ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目录  \n摘要.  \nAbstract... .II  \n第1章绪论  \n1.1 互动式数字天象厅研究背景..  \n1.2天象厅现状  \n1.3 相关技术研究现状.  \n1.4互动式数字天象厅特点与应用前景. .9  \n1.5 论文研究内容.. 11  \n第2章数字系统的构建.. 13  \n2.1引言.. .13  \n2.2 天文软件对比与选择.. ..13  \n2.2.1 天文软件在内容上对于天象仪的可替代性.. .13  \n2.2.2 天文软件在天象厅中的可应用性. .15  \n2.2.3 天文软件. .15  \n2.3 WWT性能探究及改善. ...8  \n2.4数字系统（软硬件）架构.. ..23  \n2.5小结 ..26  \n第3章球幕投影设计与实现... ...27  \n3.1引言.. ....27  \n3.2投影仪选择.. ..27  \n3.2.1 投影技术类型选择.. ..27  \n3.2.2投影参数选择.. .29  \n3.3投影设计.. ..30  \n3.3.1 投影分层和数量安排计算. ..31  \n3.3.2 投影模拟仿真——投影光路辅助设计. ..34  \n3.4互动式数字天象厅中的数种典型方案设计对比分析与实验 .37  \n3.4.1单台投影仪投影方案设计... ...37  \n3.4.2 超高分辨率方案设计.. ....39  \n3.4.3大直径方案设计.. ..40  \n3.4.4典型方案设计... .41  \n3.4.5投影实验. 43",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5小结 45 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第4章天象厅中座席研究与设计.. ..47  \n4.1 引言. .....47  \n4.2 座席区设计.. .47  \n4.2.1座席区设计原则. ..47  \n4.2.2基于体验感座席设计. ..49  \n4.3天象厅中的座椅设计.. ....61  \n4.4 小结. ...65  \n第5章天象厅内的天象实时再现系统. ..67  \n5.1引言. ..67  \n5.2 天象实时再现系统的概述. .67  \n5.2.1原理.. ..67  \n5.2.2再现系统的对象. ...68  \n5.2.3天象实时再现系统应用基础. .69  \n5.3 方案设计与对比及硬件组成、选型. ..70  \n5.3.1方案设计与对比... ..71  \n5.3.2硬件组成与选型. .73  \n5.3.3天象实时再现实验. 75  \n5.4小结.. .....6  \n第6章互动式数字天象厅相关技术及实现. ....79  \n6.1引言 79  \n6.2球幕. ….79  \n6.3 互动式数字天象厅内的声学设计与处理. ..81  \n6.3.1互动式数字天象厅的声学设计. ...82  \n6.3.2 声学处理.. ..82  \n6.4 投影仪固定装置.. ......83  \n6.5与现有数字天象系统的兼容方案设计.. .85  \n6.6互动式数字天象系统应用成功案例. .88  \n6.6.1小型厅案例设计—北师大天象厅.. ...88  \n6.6.2 中型厅案例设计—石新路小学互动式数字天象厅... ....89  \n6.6.3展厅案例设计—“互动式数字天象厅原型展示” .90  \n6.7小结 .90  \n结论. .91  \n参考文献.. 93  \n攻读硕士学位期间发表的学术论文 .97  \n致谢.. .99",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第1章绪论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.1互动式数字天象厅研究背景",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本论文的研究背景是中科院国家天文台、华中师范大学及梧台科技有限公司成立互动式数字天象厅联合实验室并研发新一代数字天象厅系统与内容，三方结合市场需求和国内外现有的研究成果，发挥各自的技术优势和特长，集成设计一套基于天文软件的互动式数字天象厅系统方案。同时，以“互动式数字天象厅的研究与集成设计\"课题（与本文同名）申请获得北京市科技委员会2015年度北京科普社会征集项目资助（24.5万元）。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "能够通过光学投影仪或者数字投影仪在半球形球幕上演示人造星空的场所被称为天文馆/天象厅。天文馆/天象厅和天象仪在英文中是同一个单词\"planetarium”。这个单词最初用来称呼一种能展示行星运动的机械模型——行星仪，现在则指一种光学投影仪器，它把恒星、行星、太阳、月亮以及其他天文现象投影到半球状天幕，演示人造星空；安置天象仪的屋子，甚至整个建筑和机构，也被称为planetarium。随着科技的发展，天文馆和天象仪都在不断地发生变化。天象仪和天文馆大概分为“机械模拟·光学投影式天象仪—天象厅”，“太空型天象仪—太空剧场\"和“数字天象仪—数字宇宙剧场”，也可以以此分为三个阶段。天象厅发展大致分三个阶段，三个发展阶段对应的是三种天象仪技术，分别是双球哑铃式天象仪技术、单球天象仪技术及数字天象仪技术。就国内看来，并没有因为技术的更新换代，导致上一代天象仪产品的淘汰，目前它们三类天象仪都有着各自的份额。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1925 年第一台天象仪蔡司I型天象仪[1诞生至今九十年中，占据时间最久的便是双球哑铃天象仪。它依据哥白尼日心说和开普勒行星运动三大定律的天文原理，使用光学、电子和机械的技术，真实地反映出肉眼看到的任何时间，发生在地球任何地方的天文现象。这一阶段的天象仪以蔡司天象仪为代表，并且它也占领了全球绝对的市场份额。蔡司天象仪可以表演的功能主要包括：大约9000 颗恒星、太阳、月亮、五大行星、彗星、人造卫星、星座，部分亮星、变星、星云和星团，以及岁差环、地平圈、子午圈、赤道坐标、黄道坐标、天极指示箭头、时角刻度等。天象仪的运动方式有周日运动（天体的东升西落）、周年运动（日、月、行星的运动）、岁差运动（春分点的西退）、极高运动（不同地理纬度造成的星空位置不同)、天狼星的视差运动等。如图1-1便是哑铃式天象仪。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "这一阶段的天象厅保持着从地球仰望星空的初衷。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/99f81e7bb9a46c2672a28a5004caa3bfb5cb87cf41a73af9b56afbfa7dc27997.jpg",
+        "img_caption": [
+            "图1-1哑铃式天象仪"
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "第二类天象仪2是由美国的SPITZ公司开发的，目前该公司依旧活跃在国际天象厅市场。1973年，美国加州圣迭戈科学中心出现了一个全新的太空剧场。美国 SPITZ公司第一个将圆顶剧场改成倾斜的以利于观众看的形式，并将天文馆座椅朝向前方，第一个利用计算机对仪器和剧场进行控制。哑铃型的天象仪消失了，取而带之的是SPITZ公司制作的单球太空天象仪，它与OMNIMAX球幕电影和音响结合，使观众在倾斜的太空剧场中体验了太空漫游的感受。SPITZ 公司的天象仪多采用针孔成像技术，能放映亮于7.16等的恒星1万颗左右，亮于5.7等的恒星用单独透镜放映。太阳、行星或人造天体放映器由6个单独的放映器组成，另有两个放映地球和月亮。通过计算机的控制可以表演太阳系空间任意视点的天象。图1-2是北京天文馆旧馆中的蔡司单球天象仪。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/2090eddb752770f238ae681045f856b8cf0d820b5098a26e756811477e312843.jpg",
+        "img_caption": [
+            "Fig.1-1DumbbellPlanetarium ",
+            "图1-2单球式天象仪",
+            "Fig.1-2 Single globe Planetarium "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "这一阶段，与第一阶段有着一些颠覆的改革。从外观上看单球替代了双球;地面不再仅仅是地平式，出现了倾斜式；内容上观众的视点不再仅仅是从地球看星星，而是能超脱地球飞到太阳系其他地方；而且还配合画面引入了音响。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "第三类天象仪3也诞生在美国。1983年美国益世（E&S）电脑公司推出的数字天象仪系统Digistar，标志着数字天象厅的诞生。它完全抛弃了传统光学投影模式，采用图形发生器、计算机和配备鱼眼镜头的CRT投影器，制作出电脑绘图的数字天象仪。它可以表现200 秒差距（1秒差距3.26光年）范围内的恒星、行星、彗星、星云和其他任何天体，还可以演示恒星的动态自行和在三维太空旅行的许多特殊效果。这种天象仪为天文馆带来新的选择，也给天象仪带来一次更新。它以低廉的价格和灵活的表现形式赢得市场。但是由于黑白CRT投影出单色的星空，星象的质量不如光学天象仪。此后益世公司增加了CRT的亮度，提高了星空质量，推出Digistar2型。并在1999 年1月在芝加哥阿德勒天文馆建立了有Digistar2和 StarRider交互式控制系统、全天域视频投影系统组成的数字宇宙剧场。新建的剧场使用一个16.5米、15度倾斜的圆顶剧场。StarRider通过6个高分辨率的视频投影器，将计算机生成的各种图像投影在整个天幕上，图像为无缝拼接。在阿德勒剧场内193个座位扶手上，都装有控制按钮，观众可以根据剧情发展，实时地通过按钮参与节目的表演。StarRider可以使观众置身于一个虚拟的环境，沉浸在栩栩如生的三维彩色图像和令人震撼的高保真音响效果里，加上它特有的观众参与功能，这种体验是无语伦比的。图1-3是北京天文馆新馆中的数字天象厅。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "如果说第二类天象厅是将人们能的视点从地球解放到太阳系中，那么数字天象仪则是将人们的视点带到全宇宙，这得益于日渐发展的计算机数字技术。天象厅所能展示的内容不再仅仅依赖于机械、光学及电子等硬件。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/f267d70efa841f2f48059c05342f4b6cbb5cffb86c5bef6665c2d53d54dfef22.jpg",
+        "img_caption": [
+            "图1-3数字天象厅",
+            "Fig.1-3 Digital Planetarium "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1.2天象厅现状 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本文研究与集成设计的互动式数字天象厅属于数字天象厅，为便于分析，将第一类和第二类天象仪统一归位机械光学天象厅。本文根据 $\\mathrm { W P D ^ { [ 4 ] } }$ （WorldwidePlanetariums Database）和 $\\mathrm { I P S } ^ { [ 5 ] }$ （International Planetarium Society）的数据进行了相关的统计与分析。如图1-4所示：在全球范围内，美国天象厅以1452座的数量占据着世界天象厅拥有数第一；其次便是中国，包括台湾在内中国一共拥有415座天象厅，仅是中国大陆就拥有342座；然后是日本389座；法国166座；意大利146座；德国106座；俄罗斯98座；英国82座；韩国64座；印度 55座；西班牙42座,其他国家各自拥有少量。可以说，中国是全球除了美国以外最大的天象厅市场。",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2d52f138c4acaf2c2b83e6e5cbece10cde8da33b31bd6e44e1a2e7ccb248d78.jpg",
+        "img_caption": [
+            "图1-4各国天象厅数量分布",
+            "Fig.1-4 National planetarium number distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "图表1-5显示的是我国几十年来天象厅的建设情况，从中可以看出，我国的天象厅建设始于1957年，北京天文馆引进蔡司天象仪。发展于1985年到1995年，期间天象仪的品牌、型号也较为多样，如图1-6，包括日本的GOTO、德国的蔡司 SKP2、国内Jin-Du S系列、FangfeiTX 系列、HangzhouII系列，从数量上分析，各品牌竞争激烈，所占的份额差距并不太大。1995年到2005年，可以说是我国天象厅事业发展的高潮阶段。一共约有123座天象厅建成。这一阶段，国内安装的天象仪品牌种类发生了较大变化，日本的GOTO产品退出国内市场，美国、德国的份额也下降，国内品牌异军突起，最为突出的变化便是国内品牌JinDu的产品，约占 $80 \\%$ ，占领了绝对主要的市场份额。其次便是还有便是国内开始建设数字天象厅，数量并不大，7座。2006到2014年是我国天象厅事业迎来的新阶段。这一阶段，我国天象厅的数量没有显著的增加，天象厅建成的增长速度较前一阶段明显放缓。这一阶段图1-7、1-8看出,最为突出的便是数字天象厅的建成数量明显超过了光学·机械天象厅。光学·机械天象厅的建成逐步减少，而数字天象厅的建设则迎来了发展阶段。并且数字天象厅的品牌几乎来自国外，美国益世的份额最大,如图1-9。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a67311c4cc8251fff960432da3be66cee0a56c71ff224f578caa79fff4bde05.jpg",
+        "img_caption": [
+            "图1-51957-2014中国天象厅发展"
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cf5b10bfca553bee40a73f6de24c14cf6efe3a8ff2c565e92f311c39af09073.jpg",
+        "img_caption": [
+            "Fig.1-5 Development of planetarium in China(1957-2014) "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.1-6 The proportion of each brand Planetarium in China(1996-2005) ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/6179fbd24ac6235e46a89cd4118b57d4d32c829263afe3d5fb01e294c4d0af0c.jpg",
+        "img_caption": [
+            "图1-61996-2005年中国各品牌天象仪所占比例",
+            "图1-7中国光学·机械天象厅与数字天象厅发展对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Fig.1-7 China mechanical optical and digital planetarium development contrast ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/146eccdce5d6def5563e1f15cbdd67e19d91e4e121a8ea446e0d6c27d6295df4.jpg",
+        "img_caption": [
+            "Fig.1-8China digital planetarium development "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/583a31fec15d254ae9a09da6be86842a27a22b3575be789727261704f2fbba4d.jpg",
+        "img_caption": [
+            "图1-8中国数字天象厅发展",
+            "图1-9中国数字天象厅各品牌所占比例"
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/64d56ed3737950e507bcab54993f5ce1f1ae0ec021b07b54e732a74101267873.jpg",
+        "img_caption": [
+            "Fig.1-9 The proportion of brand of digital planetarium in China ",
+            "图1-10中国天象厅各直径数量分布",
+            "Fig.1-1O Distribution of the number of different diameter of Chinese planetarium "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "图表1-10 显示的是中国天象厅直径分布，从中看出，占据主要比例的是8米到12米直径天象厅。经调研绝大部分是由中小学1996年到2005年所建设的，国产品牌为主，主要是金都，并且大部分还是双球哑铃式天象仪，技术落后。近年来，国内建设的数字天象厅一共27座，几乎为国外产品，以美国益世为主，建设的天象厅直径较大，平均直径达到18米，最大的达到30米。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "300个天象厅的数字看似不少，但通过对这些数字背后的信息进行分析发现，这其中除北京天文馆、天津科技馆、上海科技馆、深圳市少年宫、河北科技馆、香港太空馆（1980 年开馆，直径23米）、台北市立天文科学教育馆（1980年开馆，25米）、台中自然科学馆（1986年开馆，23米）等几座大型场馆外，其余都是中小型天象厅，而且10米及以下的小天象厅占到 $80 \\%$ 以上。它们，分布在儿童中心、少年宫、学校等机构。这些天文馆真正发挥作用做到日常开放的大约有 $30 \\%$ ，学校的天象厅只针对学生教学，基本不对公众开放，目前有的场馆已经停止开放。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "纵观我国天文馆的现状，可以发现我国的天文馆现在已经有了相当的规模，但我国正规天文馆的数量和规模与发达国家的水平相差甚远。其次，即使是现有的天文馆，两极分化严重。一边是几个最好的大型天文馆，另一边是许多小馆无人问津。天文馆存在发展不平衡，地区差异大，软硬件不配套，人才匮乏，资金短缺等问题。我国目前的许多天文馆没有真正发挥作用]。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1.3相关技术研究现状",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "抽象的天文概念对于普通学生来生来说也是非常难以把握的，未来天文教育会越来越依靠数字技术，使用三维虚拟现实技术模拟真实星空来向学生授课[8]。数字天象厅中数字与投影系统中最为关键的是fulldome技术[9]。Fulldome指的是使用数字投影手段在球幕上实现全景投影的技术。目前，实现fulldome主要有三种技术手段：球面镜反射、鱼眼镜头实现超广角投射、多通道拼接[10]。文章[11-12]使用球面镜实现fulldome投影，基于球面镜的fulldome投影，投影仪以合适的入射角度投射到球面镜，经过球面镜的反射，投射画面到达球幕形成目标图像，为避免畸变，在投射之前图像经过一定的算法变换。该种fulldome技术所占空间小，而且不占中央位置，成本也较低，然而其有着分辨率分布不均匀的问题，光线反射角越大，表现在球幕上的分辨率分布越疏；文章[13]提到使用鱼眼镜头实现半球投影，要想使用单台投影仪不经过反射直接投影覆盖整个球幕实现fulldome效果，投影仪的投射比至少要在0.25以下，而这个值在市场是不可得的，使用鱼眼镜头进行转换图像，使得有效投射比大幅下降实现全球幕投影。文章[14]详细描述多通道fulldome投影技术，多通道投影fulldome技术不再依赖单台投影仪，而是采取投影仪阵列共同覆盖球幕的方式，该方法需要依靠球面多投影校正及多通道同步技术。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "目前，数字球幕系统（fulldome）方面，技术成熟并规模商业化的数字天象系统主要有四个:E&S 的DigiStar 系统、Sky-Skan 的Digital-Sky 系统、SGI 的Digital Universe系统、Sciss 的DigitalUnivers 系统。前两种系统在全世界安装的数量都比较多，都在60 套～ 80套之间。SGI 公司的DigitalUniverse 系统目前全世界只有北京天文馆在使用;Sciss 的Digital Univers系统有三家天文馆在使用:美国丹佛科技馆、美国海登天文馆、美国阿德勒天文馆;天津科技馆是国内第一家引进DIGISTAR系统的科普场馆，后来的上海科技馆和深圳少年宫先后采购了该系统[15]。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "投影系统方面，fulldome三种技术手段中，多投影仪拼接是实现高分辨率显示的理想方案。高分辨率,高亮度的大屏幕显示系统[16-17]越来越广泛地应用于数据可视化。目前有大量的文章[18-21]提出了各种各样的方法解决多投影仪拼接中的投影仪校正问题，他们通常采用对相邻投影仪进行点匹配或线匹配达到多投影仪校正。其中一些实验实现了自动校正，主要依靠摄像头采集投影重叠区域图像以确定投影相对位置关系，以此取代繁重的手动校正过程。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "在多通道技术中，为了提高执行的速度和之间的协同性、一致性,广泛采用计算机集群[22-23]进行控制和处理。使用计算机集群，可以将单个繁重的计算与处理任务由多个计算机共同完成，大大提高效率。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "目前用于fulldome技术中的投影仪技术主要包括LCD、DLP、LCOS以及个别厂商专有的基于激光的技术,例如蔡司的二维扫描技术、益世的GLV技术等。如何在如此众多的投影技术中选择，为了给每个天象厅、数字球幕影院等fulldome剧场挑选合适的投影仪，需要对fulldome中的一些画质表现参数化，甚至标准化。Lantz E在文章[24]对fulldome中的亮度、亮度均匀性、混合均匀度、色域、颜色均匀性等方面做了规范性标准。例如提出fulldome中的整体显示亮度 $\\vdots =$ 屏幕反射率\\*投影总流明/屏幕总面积；亮度均匀度：Bpp $( \\% ) = ( \\mathrm { B m a x - B m i n } ) / \\mathrm { B a v g } \\ast 1 0 0$ 等。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "在观众厅研究上，文章[25-26]对于观众厅内视线设计做了研究，并提出了一些设计规范，1、设计视点：一般取投影的中点位佳，以保证观众看到演出的完整性；2、圆弧形排布时第一排座位曲率半径大于等于观众厅长度；3、设计最远视距：控制在 $3 3 \\mathrm { m }$ 以内。以此可控制观众厅的规模，以保证最远座观众可以清楚内容。4、水平视角：最前排观众水平视角不宜超过120度，以此控制银幕与观众席的距离关系，并提出水平视角30度-60度为好座位区。5、垂直视角：通常俯角小于等于30度，以此控制观众厅最大升起高度。6、水平偏座控制角：41-48度之间取值。文章[27]中利用数学建模的手段基于视线对观众席进行分区，根据目标值分类为优良差，以此进行观众席C值及座席区的设计。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "在天象直播方面，从文章[28-30]可以看出，由于其时间的限制，天象直播是一种非常规的直播主题，到目前为止，国内乃至国际上尚未有任何一个机构从事常规性天文现象网上直播。而国内，成功进行天文网上直播的案例也是凤毛麟角。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "目前上海天文台余山站已经成为国内少数掌握这一手段和技术的机构之一，也是国内拥有天文直播成套技术体系并成功运用于实际转播应用的天文台站。上海天文台汤海明描述了一套天文直播系统，对系统架构和硬件组成及选型作了详细介绍[31]。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "互动式数字天象厅是影院的一种，其中的声学设计可以借鉴现有的影院声学设计。影院的声学设计不同于其它各类厅堂，它要求观众厅的声音能真实反映影片录音的效果。一些学者对影院的声学设计进行了研究。杨宝鸿(2005)[32]、Bistafa(2001)[33]和周兆驹等（2008）[34指出在电影院的平剖面上应提供尽可能大的声场覆盖面积，应当重视电影院侧墙、后墙的吸声处理，效果扬声器的合理配置，以及电影院扬声器的选择等问题，电影院的声环境设计主要有混响时间设计、声缺陷防止、声场分布、背景噪声控制等方面。在影院设计中，装修材料的选取是否得当同样会影响影院的声学效果。王军刚(2009)[35]、Assimakopoulos（2001)[36]、Jian Kang（2002）[37]、雷宁秋（2010）[38]、黄盼盼(2012)[39]认为在影院设计过程中，应对影院的墙面、天花、地面进行不同的声学处理，必须充分保证得到一个完好的听觉效果，营造一个混响时间、频率特性合理的试听环境。声音的传递方式直接关系到了影厅的结构、侧视形状以及影厅的占地面积，而且关乎到整个影院的外在形态、墙体装饰物的选择、纹理、质地和声音反射的墙体、样式以及材料的应用等等。为了保证电影院电影的放映效果，影院设计中面临的一个最为紧迫的问题就是噪声控制问题。针对噪声现象，学者对于怎样尽可能有效地降低噪音、进行隔声处理设计进行了研究。刘元春(2001)[40]、王春华（2009）[411)、耿松涛（2010）[42]认为数字立体声电影院的内部噪声主要来源于放映机房、电影还音系统、空调系统等。影厅噪声控制就是降低噪声源的强度，增加减震、吸声、隔声措施，合理布置空调主机、风机、外界噪声与影厅的位置关系，提高相邻厅间隔墙的隔声量，特别是低频隔声量，是隔声设计的重点。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1.4互动式数字天象厅特点与应用前景",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1)节目丰富:互动式数字系统已内含天文数据库，可随时举行天文教育讲座招待各中小学校学生。数字投影系统不但能投影所有传统光学天象，更能展示所有已知的天象星图数据。随着科技的发展,内藏天文数据库可不断更新，令学生们可观看最新的天象。数字投影的核心是计算机技术,可让操作员实时随意加插各种淡入、淡出、时间变化、观看角度变化等技巧令观众和学生对各种天体运动更能一目了然。这些功能是光学天象仪和胶片球幕放映机无可比拟的。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2)实时互动性:先进的数字投影系统不单是放映系统，更是一个供讲师或学者运用来表达知识的工具。系统操作简单易用，用来辅助科普讲座是非常方便的。高档数字投影系统内置的节目控制系统更可大大简化操作的复杂性，又能提供出色的视觉效果，观众及学生深刻印象。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(3)节省场地空间:在同一剧场节省座位空间,胶片球幕放映和光学星象仪由于它们所应用的投影技术的限制，都要占用剧场正中的位置，绝不可能妥协的。但数字投影系统是由二台或二台以上投影仪做无缝拼接投影，置于银幕下方而不需占用剧场正中的位置,正中的位置便可空出来用于其它用途。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(4)可扩展性高:数字投影系统是软件推动，配合先进电子技术系统，不含机械动作部分。随着科技的发展和应用技术的开发，可通过软件的更新，甚至部分硬件的替换，不断加强和增添新的功能。这方面胶片球幕放映是无法做到的。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(5)运作费用低:数字投影系统的节目都只是数字数据，相对胶片投影，节目的价格较低。在可见的将来，随着数字投术的发展，国内制作人员的参与，节目的价格只会向下调，令用户得益。另一方面，由于数字投影系统并无机械移动部份，损耗低,所以维护费用合理。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "互动式数字天象厅系统未来可以广泛应用于中小学、大学类教育为主的天象厅中，也可以应用于科技馆、天文馆类以科普及观赏为主的场馆中。在国内已建设天象厅的学校中，绝大部分是第一代机械·光学天象仪为核心的厅，这类厅急需改造，而互动式数字天象厅系统是这类厅的改造首选。已有的建筑设施及天幕不必改造，仅需腾出一个控制台的空间便可。改造成本低，周期短。中小学中的天文台也是可以改造的对象，如今天文观测条件每况日下，一年中能进行天文观测的时间并不多，全国范围内中小学天文台闲置的占大多数。而天文台也拥有着建设天象厅的基本建筑结构——圆顶结构。改造闲置中小学闲置天文台为小型互动式数字天象厅可能会成为互动式天象厅发展的一个重要方向。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "天文馆、科技馆类大型天象厅兼容互动式数字天象厅系统也是互动式数字天象厅发展的另一个途径。互动式数字天象厅系统所具备的互动性是如今国内天文馆及科技馆中大型数字天象厅所欠缺的。单独应用于这些厅或许还有一段时间，但兼容双系统可以是一个很好的解决方法。能让这些厅发挥本来作用的同时能够运行互动式数字天象厅系统。科技馆中除了应用于大型天象厅中外，还可以应用于科普馆中的展示台，以互动式数字天象厅原型展示台的形式给予对于观众进行天文科普类。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1.5论文研究内容",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "本文共六个章节。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第一章为绪论，主要介绍该选题的研究背景与意义，国内外研究情况，研究内容。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第二章从数字系统构成出发，对比国内外已有的天文软件，选取WWT作为构建基础，对其各项功能及性能做了分析与测验，并对其做了一定的改善。最后基于WWT结合硬件搭建互动式数字天象厅数字系统。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第三章研究了数字天象厅环境中的投影仪技术类型及参数选型原则，进行了数字天象厅中的投影设计及对比分析，利用实验手段验证投影设计方案。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第四章基于观众体验感建立了一种观众综合体验感与坐标的数学模型，利用Matlab 软件模拟仿真，设计座席区；并针对目前天象厅中座椅的不足，提出新的适合天象厅环境下座椅的原型设计。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第五章基于天文直播技术及天文望远镜控制技术设计一种天象厅中的天象实时再现系统设计并通过实验实践。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第六章针对方案设计及工程实践中遇到的相关问题，给出了各类实际解决方案，包括了球幕校正、投影仪固定、声学处理、兼容方案设计等。",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "第2章数字系统的构建",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.1引言",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "互动式数字天象厅中数字系统决定了播放的内容，因此其重要性不言而喻。第一代及第二代天象厅中，以天象仪为核心，通过其精密的机械、光学元器件为观众展示浩瀚的星空。而在数字天象厅中，内容更多地依赖软件完成。然而要想从零编写数字天象厅软件工作量相对本文过于庞大。为了更有效地实现天象厅数字系统，本文转而对比选择已有的天文软件，以此作为基础构建数字系统。为了能够使选择的天文软件更好地应用在天象厅环境中，还需要对其做各类性能测试及完善。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.2天文软件对比与选择",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "本文拟采用天文软件取代传统天象厅中的天象仪或者现有数字天象厅中的数字播放系统[43]。正如绪论章节中提到的传统的基于天象仪的天象厅虽然向另一个方向——超精密发展，试图展示接近现实的星空。但另一方面现今世界仅有的数家提供数字天象厅服务的公司的数字产品价格昂贵，这方面传统高端精密天象仪同样如此。这就是我们要采用天文软件用以替代的原因。当然这样做需要一定的基础。首先天文软件在内容上能够替代天象仪，做到天象仪能演示的所有节目甚至超越；第二，也是很重要的一点它必须能够应用到天象厅的特殊环境中。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "2.2.1天文软件在内容上对于天象仪的可替代性",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "传统天象厅中能演示的节目和内容。首先是演示天球坐标系统；第二是演示各星座；三是展示各种星系、星云；四是演示太阳系天体运动；五是演示太阳、行星及卫星细节特征；六还能演示一些天象节目如日食、月食。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "在过去二十年内，随着计算机3D建模技术以及数据可视化技术的不断发展，能展示浩瀚宇宙和星空的天文软件也随之诞生和不断完善。人们只需在电脑前，动动鼠标键盘便可以浏览浩瀚的宇宙，探索肉眼无法到达的太空深处。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "这类软件大多以3D建模的形式构建太阳系，太阳系中的太阳、八大行星及其卫星都有各自的3D模型，而且它们的相对位置也按照真实数据设置并能随时间真实地变化。而其他大部分恒星则用亮点可视化，并保证它们的位置精确。除了太阳系外，它们还能表现银河系，以及星空中的各星座图案区域连线等。并且它们大部分在内容上都包含了传统天象仪所能表现的功能和效果。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "事实上，这些软件的开发一定程度上就是参照天象厅的功能需求。并且随着图形学和数据可视化技术的不断深入，这些天文软件的表现能力已远远超出普通天象仪所能表达的范围，如图2-1所示。因此它们在功能上能达到并超越传统天象仪。",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/f66bbf4e1e9099cacb7b109247b66fa5359265fee0f62a06fafdbd7877cb3e91.jpg",
+        "img_caption": [
+            "图2-1天文软件截图",
+            "Fig.2-1 Astronomy software screenshots "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "2.2.2天文软件在天象厅中的可应用性",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "在内容上，各类天文软件基本都符合了要求，然而要应用在天象厅中还必须满足特定的要求。在天象厅中，让人印象最为深刻的或许是位于中心的显眼的大型天象仪，其次便是头顶那片巨大的半球形幕。这个半球形的幕是天象厅中的“显示器”，它的形状绝大部分是标准的半球形，直径有大有小，小到4米，大到30米。由于其特殊的结构，要求采用的天文软件能支持Dome[44输出，这也是球幕影片[45]的输出要求，如图2-2所示。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "支持Dome输出的天文软件应用于天象厅的基本应用形式是单投影仪鱼眼输出。基本要求：一台主机（对应软件要求配置）和一台投影仪（通常采用激光",
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/09ed702e5c5317c67e404d0b8972bf03366e07f73a48bd4ead650d233fed42c5.jpg",
+        "img_caption": [
+            "图2-2某天文软件Dome模式下的显示画面"
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Fig.2-2 Display screen under the Dome mode of an astronomical software投影仪），投影仪通常置于球心位置或正下方。画面在桌面看起来有些扭曲，这是在投影前软件自动做了几何校正，因为球形的幕会扭曲画面，可以理解为预先做了逆变化，然后在球面上变化一次，从而得到正常的画面。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "当然除了这类基本形式外还有多投影仪拼接形式，在后续章节具体叙述。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2.2.3天文软件",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "正如上节所述，现在世界范围内应用比较流的天文软件有很多，它们功能各异，各自有各自的特色，比较主流的有 Stellarium[46]、Google earth、Celestia、WWT、Mitaka、WinStars等。然而并不是所有的软件都能应用在天象厅环境中，它们必须支持Dome 模式（全景模式或鱼眼模式)。因为正常的画面如果直接投影在半球这种曲率较大的幕上，画面会呈现明显的扭曲和畸变。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "经过调查研究和测试、实践，以上天文软件中能够支持Dome 模式的有Stellarium、WWT、Mitaka。下面从中选取Stellarium、WWT、Mitaka这三款天文软件着重研究其特色并最终选取一款作为本文的天象仪软件以构建互动式数字天象厅的数字系统。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "2.2.3.1 Mitaka ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Mitaka由日本天文台携手其他机构共同开发的一款天文软件，如图2-3,它最开始是为日本天文台总部的 4D2U(Four-Dimensional Digital Universe)剧场开发的。",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c074ee3570582fa8de5e27a75e29b80ab93fd137ad60dc012031e65144e3aec.jpg",
+        "img_caption": [
+            "图2-3Mitaka软件截图",
+            "Fig.2-3Mitakascreenshot "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "当然它也能在个人PC上运行起来。Mitaka支持Windows操作系统，官方推荐使用Win7。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "优点与特色：",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 底部显示时间等其他信息，可直接支持dome模式  \n$\\bullet$ 罗列了一些典型的观测物的3D 模型，大约50个，分类罗列，人性化。$\\bullet$ 放大缩小可显示距离（光年为单位）使观众有距离上的直观印象$\\bullet$ 支持3D眼镜，在圆顶模式下也能工作  \n$\\bullet$ 时间可从公元元年到数千年后。  \n$\\bullet$ Dome模式下，底边会标注八个方向WESN，方向相对稳定  \n$\\bullet$ 星空中的目标标注有特点：大小、颜色以示区别",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "不足：",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 地球上的观演地点不可选，固定在Mitaka（日本天文台总部所在城市）",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 显示半球，地平线以下不能显示。",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 没有开源，也不支持插件$\\bullet$ 资源相对缺乏，缺乏各类望远镜的拍摄数据",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "2.2.3.2 Stellarium ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd7112335319355bf1b6ec25a0fce47c54bdd0e75996d0982377be17d3741eaa.jpg",
+        "img_caption": [
+            "图2-4Stellarium软件截图Fig.2-4 Stellarium screenshot"
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "如图2-4为Stellarium软件截图",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "其优点与特色：",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 多平台支持Linux/Unix、Windows95/98/2000/NT/XP/7、Mac OS  \n$\\bullet$ 开源，支持插件  \n$\\bullet$ 界面比较有特色，一般的软件都是选项在顶部，而它却在左方和下方，比较方便  \n$\\bullet$ 地点的选择会给于当地的一些实景  \n不足：  \n$\\bullet$ 资源相对缺乏，缺乏各类望远镜的拍摄数据",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "2.2.3.3万维望远镜 ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "如图2-5为万维望远镜（World-Wide Telescope），简称WWT。优点与特色：",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 开源$\\bullet$ 支持超高分辨率显示$\\bullet$ 资源丰富，在线数据量巨大",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 多波段显示$\\bullet$ 自身支持Dome多拼接$\\bullet$ 支持球幕的节目制作和播放$\\bullet$ 支持MIDI控制器、Occulas相对缺点：稳定性有待改善",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca0095a06c6d4e74d7f2a6f321e7e129acec471d1a8f3d1ae99935a4d0031686.jpg",
+        "img_caption": [
+            "图2-5WWT软件截图Fig.2-5 WWT screenshot"
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "综合对比三款天文软件，本文最终选择了WWT。首先WWT是款免费开源的软件，能够在其基础上进行二次开发满足本文需求；其次具有的自身制作节目功能非常吸引人，现在的天象厅存在的主要问题之一便是节目源，天象厅支持了该功能意味着不再为节目源发愁；还有其支持的多种设备终端与之互动，极大增强天象厅内的互动性和趣味性；当然还有许多其他的原因例如其支持超高分辨率、支持自身多拼接、支持数据实时下载与可视化等。",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "2.3WWT性能探究及改善 ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "资源极度丰富：虽然软件本身只有一百多兆，然而其在线数据库却是PB 级别的，里面包含了各大著名望远镜的数据资源。自身包含了各类模型，还能导入各类数据：星表、图片、音乐、3D模型，该点为内容扩展的无限可能性。",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "WWT一共有四种模式，分别是：星空模式、行星模式、太阳系模式、全景图模式 (地球模式归入到行星模式）",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "其中星空模式是最接近传统光学天象厅的一种模式，在这种模式下，球幕显示的是从地球上特定地点、特点时间所看到的星空(地点和时间可以自由设置)。星座名称、连线、象形图展示这些传统天象厅所有功能在WWT的星空模式下都能体现。行星模式对应的是第二代天象厅，充分展示太阳系内各行星及其卫星。太阳系模式对应第三代天象厅表现的内容。全景图模式：WWT支持全景图[47]输出，探测器拍摄的各类全景图，除了自带的，还可以导入其他全景图，中国虚拟天文台目前完成了玉兔月球图、FAST望远镜现场数套全景图。",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "WWT所呈现的星空采取各天文望远镜真实观测数据进行可视化所得。本文经过对WWT的研究分析，WWT自身数据可视化方式大体分为两大类：贴图和建模。太阳系类各行星及其卫星的表面都是采取这种方式实现的，在星空模式下，全球360度 $\\times 3 6 0$ 度范围也是通过将大量的拍摄图片贴图并拼接而成；太阳系内的星体大多采取3D建模，很多星体表面甚至包含高度差，每个星体都具有各自的真实直径，太阳系外的大多采取亮点模型，这些亮点包含了恒星的位置及星等信息。其中太阳系内的数据可视化做的最为精细，各星体的表面特征、运行轨迹都得到了具体的体现。",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "如图2-6是由SCUSS望远镜采集的FITS文件，通过手段导入到WWT中进行对比，如图，可以看出由真实天文望远镜SCUSS采集的数据与WWT可视化的数据几乎相同。",
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c825b4f01c881b34030901d07a5d9f889daafee5972a8be3671f0c3f08b8f05.jpg",
+        "img_caption": [
+            "图2-6Fits文件贴图WWT",
+            "Fig.2-6 Fits file map in WWT "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "不仅WWT模型本身的数据是来自真实天文数据，并且WWT还允许导入其他观测数据进行可视化演示。如图2-7是做的关于脉冲星可视化展示，WWT本身是不具备这些数据的，而是通过数据导入接口进行添加。",
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cfc7022baed9d4d9411ccf40e3dfd78923f030d7d2d672d2f26cf1cb5862f09.jpg",
+        "img_caption": [
+            "图2-7脉冲星的可视化",
+            "Fig.2-7 Visualization of pulsar "
+        ],
+        "img_footnote": [],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "WWT支持超高分辨率显示，WWT采取的是多分辨率显示技术[48]；类似于HTM和HealPix技术。例如在地球表面数据中采取了十几层图层存储和显示方式。通过金字塔模型，在不断放大的过程中，逐一显示下一图层的数据，充分保证了各硬件条件下的分辨率。这点类似于电子地图的显示方式。在天象厅环境中，WWT在行星模式、全景图等模式下能够充分的展示其支持超高分辨率的特性。经过粗略估计，在硬件条件允许的情况下，在天象厅中WWT至少支持8K分辨率的显示。现如今，数字天象厅中，8K的节目源制作所需专业人员多、成本大，周期长[49]。而WWT自身很好地满足了超高分辨率的显示。",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "为了估算星空模式下WWT所能提供的分辨率极限，即最底层图像像素和，进行了实验，将一张FIT图像文件通过技术手段导入到WWT的虚拟星空的相应位置。如图，将视野进行缩放到合适大小，作为实验用的电脑分辨率为 $1 2 8 0 \\times 8 0 0$ 根据 FITS文件在桌面占据的面积比例及清晰程度粗略估计FITS文件所占面积的分辨率约为 $1 0 ^ { 6 } \\mathrm { p i x l s }$ ，根据FITS文件的宽高所占角分以及半球所占空间为 $3 6 0 ^ { 0 }$ $^ { * } 1 8 0 ^ { 0 }$ ，从而计算出最底层图像像素和约为 $1 0 ^ { 1 1 }$ pixls（该方法误差较大，然而数量级上相差不大)。目前球幕影院或数字天象厅最高分辨率 8K，约为 $7 { \\times } 1 0 ^ { 7 } \\mathrm { p i x s }$ 对比可知，WWT所能表现的分辨率远超过如今全球范围内数字电影分辨率的最高水平。",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "WWT是一款基于桌面系统的软件，因此支持基本的鼠标键盘操作，可以通过鼠标键盘对视图进行一定的转换，支持各种互动方式。在国内现有的天象厅中，教学与科普的主要方式便是观看节目，这种方式显得枯燥无味，效果不显著。然而在本文所述互动式数字天象厅中，观众与节目可以进行一定的互动。实现到达任意指定位置、放大缩小对象、甚至旋转对象。这些可以在纯互动环节中实现，还可以在节目播放中实现。",
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/452e86d00b89be90b01874bd0338ac6c165eede51f4a7c0c2e0efddc1e9b5e3c.jpg",
+        "img_caption": [
+            "图2-8Fits文件在WWT中显示 Fig.2-8 Fits file displaysin WWT "
+        ],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e138c5388fd5d11e6c3d0e1b3613ec5af03d840e561cce261123b8e31aa1aed.jpg",
+        "img_caption": [
+            "图2-9WWT太阳系模式下的互动",
+            "Fig.2-9Interaction in WWT solar system model "
+        ],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "如图2-9，是行星模式下，相机所具有的四个自由度，分别是：绕着中心左右方向旋转、绕着中心上下方向选装、沿着中心方向靠近和远离、相机本身一定程度的俯仰；在太阳系模式下，拥有除了相机的俯仰之外的三个自由度；而在星空模式下，相机的方向与以上两张相反。通过这些自由度，基本能使得观众得到在虚拟的星空中遨游的体验感。",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "为了更丰富互动式数字天象厅中的互动方式，可开发其与其他设备终端进行互动的软件工具。WWT是一款开源的软件，通过阅读源代码获得其互动相关的接口，基于这些信息进行互动式程序开发。本文已完成 Xbox、Kinect、Leap Motion等设备对WWT的互动支持，如图2-10。",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "本文认为漫游功能是WWT的最大的特色功能，也是本文选择WWT作为数字系统构建基础的重要原因。WWT天象厅的互动性概念并不局限于各个天象厅场内的各种互动终端设备和手段，在厅外线下有着同样重要的互动方式，这也是解决天象厅中天文球幕影片来源的重要途径。这种场外的互动方式便是基于",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd1e88e8af29982d3fbedcdf92c7c9fff7cdd8aaba307df8257a49767cb63740.jpg",
+        "img_caption": [
+            "图2-10WWT互动设备终端",
+            "Fig.1-1O Interactive device terminal "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "WWT制作WWT漫游。WWT漫游是一种基于WWT内置的整个宇宙3D 模型场景，通过添加各类图片、音乐甚至3D模型等素材并加以编辑制作而成的专属于WWT格式的天文球幕影片。基于WWT制作完成的球幕漫游可以在互动式数字天象厅中播放，精心制作的漫游作品效果与现在的天文球幕影片相当。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "在如今数字球幕电影制作过程中，其中有一种方式便是基于虚拟场景进行节目制作，首先便是要利用3D建模技术大量绘制各类场景和人物模型。WWT软件本身便是一个浩瀚的虚拟天文场景，而其3D 场景中的各类模型都是基于真实遥感和观测数据绘制而成。基于WWT制作漫游的原理：在WWT的3D场景中，依靠移动“相机\"和模型自身运动达到“拍摄\"效果。具体操作时，“相机\"移动和模型的运动只需要指定初始状态和结束状态，它的移动和运动过程由WWT自身进行平滑处理，因此，一个漫游只需要设置数十个场景。为了丰富节目的观赏性，可以导入各类图片、音乐甚至3D模型等素材进行编辑制作。这种天文球幕电影的制作技术门槛低、受众面广、周期短、成本低。经过实践，一个普通学生只需要一台能流畅运行WWT的个人电脑，对照使用指南操作步骤，数天内便可以完成一个数分钟内容简单的球幕电影节目。如图2-11为WWT漫游制作的截图。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "漫游制作功能很好地解决了天文球幕影片制作周期长、成本高的问题，预计会改变天文类球幕影片节目源单一、匮乏的现状。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "WWT在天文教育和科普方面有着巨大的潜力，是一款非常适合引入到天象厅中的软件，尤其适合学校类以天文教育为主的天象厅。",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "除已经在天象厅完成的实验之外，WWT现在可以投影的全天观测数据超过30 个，涵盖了几乎所有可观测的电磁波段，甚至还可以从一个数据集交叉切换到另外一个数据集。",
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/55f13879bf2d58a35cd667e345c45643cc9c49a952796d5147f3ddf49e773ce6.jpg",
+        "img_caption": [
+            "图2-11 WWT漫游制作的截图",
+            "Fig.2-11 Screenshot of tour production in WWT "
+        ],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "WWT还可以对依巴谷星表及斯隆星系星表进行3D的交互可视化。通过点击鼠标或者转动XBOX的控制杆，演示人或者身处家中的学生就可以“飞越\"我们现在所能观测到的宇宙：从冥王星的位置观察太阳系内所有行星的轨迹，观察一个离太阳很远的恒星所处的星空，查看数百万小行星围绕太阳的路线，以及定位并放大后发星系团。相对于以地球为中心的球形投影仪，这是可视化内容方面的一个飞跃。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "对于高年级本科生的学习，WWT可以实时地从各种数据库如ADS、Simbad、SEDS、NED 等获取到天文研究数据。它可以下载现有的FITS或JPEG图像文件，甚至可以将学生在天文观测课程上所拍摄生成的FITS文件准确地导入并显示到相应的天区。不久的将来，将可以在天象厅对望远镜进行远程控制，直接把原始的观测数据投影到圆顶上。学生们还可以（通过WWT）在虚拟天文台的注册系统中搜索天文数据，然后把数据保存为.xml格式的文件，或者用多种方法来分析、展示数据。更简单地，他们还可以通过右键点击某个天体获得它的基本信息，并直接在维斯百科上查看对它的描述。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "通过WWT数字天象厅，天文系所有年级的学生都可以在这里开始他们的课堂实验，还可以在家里用他们的电脑完成课后作业。研究生或高年级本科生借此还能为公众创建基于真实数据的可交互漫游。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "2.4数字系统架构",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "对于小型天象厅采取的单通道鱼眼输出的系统架构相对简单。图形工作站连接投影输出，再加上鱼眼镜头，便可以实现单通道系统。",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "对于较大直径的天象厅本文建议采取多通道融合的方式实现数字系统。因为单通道系统的输出分辨率有限，在较大直径的天象厅，分辨率不足会给观众“模糊\"的感觉。在多通道系统中，可以选择分布式架构和集中式架构。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "所谓的集中式系统就是指由一台计算机作为中心节点，数据集中存储于这个中心节点中，并且整个系统的所有业务单元都集中部署在这个中心节点上，系统的所有功能均由其集中处理。也就是说，在集中式系统中，每个终端或客户端机器仅仅负责数据的录入和输出，而数据的存储与控制处理完全交由主机来完成。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "集中式系统最大的特点就是部署结构简单。由于集中式系统往往基于底层性能卓越的大型主机，因此无须考虑如何对服务进行多个节点的部署，也就不用考虑多个节点之间的分布式协作问题。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "分布式系统[50是一个硬件或软件组件分布在不同的网络计算机上，彼此之间仅仅通过消息传递进行通信和协调的系统。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "为了组建一个既经济又高效的多通道图像发生器,本论文采用计算机集群技术,经实际使用表明基于计算机集群技术组建的多通道图像发生器能仅增加1倍的成本便提高3倍的处理效率。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "集群是一组独立的计算机（节点）的集合体网,节点间通过高性能的互联网络连接,各节点除了可以作为单一的计算资源供交互式用户使用外,还可以协同工作并表现为一个单一的、集中的计算资源供并行计算任务使用。集群是一种造价低廉、易于构筑并且具有较好可扩展性的并行机体系结构。集群的各节点是一个完整的系统,节点可以是工作站,也可以是PC 机或者 SMP 机(对称多处理机)；它的互联网络通常是商品化网络或专用互联网络;集群的各个节点有自己完整的操作系统。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "本文提出的是6台普通图形工作站作为节点，一台高性能 server作为主控负责数据分发和指令分发的方案。",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "由于购买实验设备的资金有限，本文的目标是在尽量减少开支的条件下将视频显示能力最大化。我们选择使用七台计算机，其中六台通过客户端方式与投影仪相连，第七台是主控节点。显卡方面，我们选择NVIDIAGTX275。七台计算机都运行Windows7操作系统，还分别带有1TB硬盘及6GB内存。为了便于计算机间的联系（进行投影仪调校，软件安装及运行WWT)，还需要一台网络交换机，连接如图2-12所示。",
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/c295c22ac592a1fb0cdeb3a30c21339242f54a4695aa43c82bbaa0beb09a74d7.jpg",
+        "img_caption": [
+            "图2-12多通道系统硬件构成"
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "本文在这推荐使用VNC虚拟网络计算机技术。Windows7的远程桌面功能，可以轻松地在主控节点将软件安装到其他客户机上。但是当有人在操作客户机的时候，主控节点将会被强制断开（远程桌面)，导致无法看到客户机上正在进行的操作（比如正在投影)，而 VNC 没有这个问题。在采购计算机的时候，还可以考虑购买主板带有\"WakeonLAN\"功能的计算机。此功能将允许主控节点通过网络启动其他客户机，而无须手工将它们一台一台分别启动,如图2-13",
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/9975f1d6fee21185da5e2311a1fdd938a4e00c94e91f781fd2ed401e777e7bb3.jpg",
+        "img_caption": [
+            "Fig.2-12 Mutil-channel system hardware structure ",
+            "a)控制台"
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/d23b5569ba761f98901e24e00fdac8ad0766482cfa6a1588af43b92f5aa60942.jpg",
+        "img_caption": [
+            "图2-13数字系统实验硬件设备",
+            "Fig.2-13 Digital system experiment hardware "
+        ],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "2.5小结 ",
+        "text_level": 1,
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "本章首先在理论上论证了天文软件在内容上替代天象仪及天文软件在天象厅中的可应用性。然后对比各类天文软件选择了WWT作为构建数字天象系统的基础。并对其进行分析和完善，实现了多类终端互动支持及各项性能的解析，对比分析集中式与分布式特点，通过实验最终构建了一个基于天文软件WWT的分布式数字天象系统。",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "第3章球幕投影设计与实现",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "3.1引言",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "视觉感受在互动式数字天象厅中占有重要的位置，而投影与画面表现密切相关。天象厅独特的环境对于投影仪选择有着特定的要求。同时也需要特定的投影设计，因为天象厅的银幕与普通影院不同，是半球形式。并且不同直径及建设目的的天象厅对于投影系统设计也有着不同的要求。本章就投影仪选型及投影设计进行了研究，并结合实际对比分析，最后以实验验证。",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "3.2投影仪选择 ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "数字天象厅中硬件设备中最为重要的便是投影仪，投影仪的适合与否直接关系到观影效果，因此本节主要为互动式数字天象厅中投影仪的选择作详细阐述，主要包括投影技术类型和具体投影参数的选择。",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "3.2.1投影技术类型选择",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "投影技术类型的选择在投影仪选择中很重要。不同投影技术类型间有着各自的优点和特色，当然价格档次也不同。合理地选择适合的技术类型投影仪很关键。目前市场上主要分为LCD、DLP和LCoS三种主要类型。",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "(1)LCD 投影技术LCD 投影仪的技术是透射式投影技术，是液晶、照明和电子融合在一起的高科技产品。LCD 投影仪是利用液晶的光较单板投影方式具有颜色还原性好、性能稳定、对比率高、图像层次感好等优势。电效应，也就是液晶分子的排列在电场作用下会发生变化，从而改变了液晶单元的光学性质，形成了色彩丰富的图像。LCD投影仪体积小巧，重量轻，便于携带使得投影仪的发展进入了一个快速期。LCD 投影仪发展到现在已经具有高亮度、高保真、高分辨率的特点，可以接驳各种视频信号，除了传统的AV和S端子接口外，还有色差、RGB、VGA、DVI、HDMI等接口。它的缺点是黑色层次表现不好，对比度低，投影画面的像素结构太明显。随着技术的革新,LCD从单板式逐渐发展成两片式、三片式光阀的结构,目前被广泛使用的三片式投影技术3LCD，其较单板投影方式具有颜色还原性好、性能稳定、对比率高、图像层次感好等优势。",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "(2)DLP投影技DLP技术是由美国德州仪器公司（TI）独家开发的一种全数字化的显示解决方案，是目前数字电视领域最先进和最成熟的显示技术之一，DLP技术在整个投影显示领域的市场份额已经超过了 $30 \\%$ 。DLP技术的核心是数字微镜器件（DMD)，它是一个拇指指甲大小的半导体器件。DMD由120 万（适合标清电视)或 200万个(适合高清电视)甚至更多（用于数字电影放映机）的精微镜面组成，起着光开关的作用。每一个镜面都能前后翻动(开启或关闭)，每秒可达5000次。输入的影像或图形信号被转换成数字代码，即由0和1组成的二进制数据。这些代码再被用来推动DMD镜面。当DMD座板和投影灯、色轮和投影镜头协同工作时，这些翻动的镜面就能将一幅天衣无缝的数字图像反射到电视机屏幕上。",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "DLP技术具有如下几点优势：1、DLP固有的数字化性质，是真正的数字化显示设备；2、DLP 可以获得具有精确灰度等级的图像质量以及颜色再现。和透射式的LCD 相比，因为它以反射式DMD为基础，不需要偏振光，效率更高；3、作为反射器件，它有超过 $6 0 \\%$ 的光效率，使得DMD系统比LCD投影显示更有效率。这一效率是反射率、填充因子、衍射效率和实际镜片“开\"时间产生的结果；4、由于每个微镜每秒钟可以翻转 5000 次以上，因此没有LCD存在的响应滞后的问题，因此更适合电视和电影；5、无缝图像优势，DMD上的微镜面积为 $1 3 1 \\mu \\mathrm { m } ^ { 2 }$ 甚至更小，每个间隔只有 $1 \\mu \\mathrm { m }$ ，不像LCD 和PDP 那样存在较大的像素结构，再现的图像更加完美；6、可靠性高，DLP系统结构坚固可靠，使用寿命远远超过显像管、LCD、PDP 等各种电视，DMD 的使用寿命可以达到 20年。",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "(3)LCOS 技术LCOS——硅基液晶 LCOS，为Liquid Crystal on Silicon 的缩写，即硅基液晶，是一种全新的数码成像技术，其成像方式类似于三片式的LCD液晶技术，不过采用LCOS技术的投影机其光线不是透过LCD 面板，而是采用反射方式形成彩色图像。它采用涂有液晶硅的CMOS集成电路芯片作为反射式LCD 的基片，用先进工艺磨平后镀上铝当作反射镜，形成CMOS基板，然后将CMOS基板与含有透明电极之上的玻璃基板相贴合，再注入液晶封装而成。LCOS将控制电路放置于显示装置的后面，可以提高透光率，从而达到更大的光输出和更高的分辨率。LCOS投影芯片的色域是非常宽广的，其色域范围要远远大于CRT及DLP芯片所能表现的范围。LCOS投影芯片的色域是非常宽广的，其色域范围要远远大于CRT及DLP芯片所能表现的范围。从技术角度讲，最有发展前途的当属DLP 和LCOS。就目前的技术发展而言，LCOS 尚不如DLP成熟。首先，LCOS 显示技术涉及到多个高技术前沿领域，主要有VLSI设计和工艺相关技术、液晶相关技术、光学引擎技术、新型光碟技术、图像处理相关技术等，没有哪一个公司可以掌握所有的关键技术。其次，LCOS高分辨率带来的大屏幕高清晰画质还不能表现出来，和DLP成熟的技术比确实相差太远。在LCOS 投影系统中，光学引擎、机械结构、系统电路和LCOS芯片本身的任何缺陷都会影响图像显示效果。第三，LCOS微显示器的开发和生产还没有一个统一的标准，产业链还没有完全形成，新技术的产业化、联合加工、技术方案的改变等，使得LCOS系统的低成本优势还没有体现出来。",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "总的来说，从目前市场调研情况而言，综合考虑成本、技术成熟度、技术特点、画质各方面因素，本文认为目前在互动式数字天象厅中DLP技术投影仪是理想的选择。",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "3.2.2投影参数选择 ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "投影仪选择的标准是要尽量能提供一个分辨率高、细节丰富的环境。由于在互动式数字天象厅中投影仪是最大的一笔开销之一，需要选择寿命长、动态范围佳、黑色反馈良好，更重要的是不会在几年内就被淘汰的设备。本文所设计的互动式数字天象厅主要为中小学校中小型厅设计，因此投影仪的预算不能太高，搜索受到限制。基本要求：使图像充满整个天象厅四周还能使图像有重叠区域。",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "(1)分辨率投影仪分辨率的选择主要和天象厅整体分辨率需求有关。关于天象厅这类球幕的分辨率并没有严格的分辨率计算公式，它与传统矩形银幕不同，因此天象厅的分辨率算法有多种。在本文中，采用折合成矩形影院分辨率的方法。例如4K分辨率为 $4 0 9 6 \\times 2 1 6 0$ 像素，约885万个像素点，达到这个数值即可称为4K。在具体投影仪分辨率选择的时候要结合整体分辨率需求、投影设计及预算进行综合选择。假设要建设一个整体分辨率4K的天象厅，采用 $^ { 4 + 2 }$ 的投影设计。",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "总像素：4K约为885万像素；投影仪数目：6；投影仪分辨率平均使用率粗略估计：0.7（重叠导致使用率下降）。",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "经过计算与比较，选择1080P投影仪及以上能满足要求。‘ $( 1 9 2 0 { \\times } 1 0 8 0 { \\times } 6 { \\times } 0 . 7 \\$ 约合870万像素)。在互动式数字天象厅建设中，本文推荐投影仪分辨率为 $1 0 8 0 \\mathrm { P }$ 。",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "(2)投射比投射比的选择与实际投影设计相关，在此假设采取 $^ { 4 + 2 }$ 或 $^ { 4 + 1 }$ 投影设计。对于一个直径为d的圆顶，每个投影仪需要覆盖的宽度要大于周长的四分之一，即 $\\mathsf { W } > \\pi \\mathsf { d } / 4$ 。在投影仪的工业术语中，家庭影院式投影仪有一个投射比例（到屏幕的距离D与图像宽度之比)，其数值约为1.8-3。因此，预估在圆顶环境所需的投射比例，我们将需要把投影仪放置到离图像有直径d那么长的距离。在这种情况下，投射比例 $\\mathrm { D } / \\mathrm { W } < D / ( \\pi d / 4 ) \\approx 1 . 2 7 D / d$ ，按我们的近似方法则为 $\\mathsf { D } / \\mathsf { d } \\approx 1$ 。这意味着，如果没有重叠区域，投射比需要达到1.27，而想要有重叠区域则必须使投射比小于1.27。",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "市场上满足这一要求的投影仪并不多，可以通过增加镜头来扩大选择范围。通过一个0.65转换透镜，投影出来的图像的宽度将被拉长为原来的约1.5倍，因而我们可以将投影仪放置到离屏幕更近的位置，拉近约 $3 3 \\%$ 。换句话说，投射比例变为 $\\mathrm { D ^ { \\prime } / W ^ { \\prime } } = 0 . 6 5 \\mathrm { D } / 1 . 5 \\mathrm { W } = 0 . 4 3 \\mathrm { D } / \\mathrm { W }$ 。我们的需求是投射比例 $\\mathrm { D / W } < 1 . 2 7$ ，因而我们需要找到一种投射比小于 $1 . 2 7 / 0 . 4 3 \\approx 2 . 9$ 的投影仪，这极大地扩大了投影仪的选择范围。",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(3)宽高比如今投影仪宽高比主要有4：3和16：9两种格式。在球幕多拼接方案中，大致可以将宽总和覆盖底部圆周 $\\mathrm { L } _ { 1 }$ ，高总和覆盖垂直剖面半圆周 $\\mathbf { L } _ { 2 }$ 。直径相同， $\\mathrm { L } _ { 1 } { = } 2 \\mathrm { L } _ { 2 }$ 。在4：3中，设为4投影打底，宽设为4W，高为3W， $\\mathbf { L } _ { 1 }$ 由 $4 { \\times } 4 \\mathrm { W } { = } 1 6 \\mathrm { W }$ ，那么 $1 6 \\mathrm { W } / 2 { = } 8 \\mathrm { W } ,$ 而实际 L2 由 $3 { \\times } 3 \\mathrm { { W } } { = } 9 \\mathrm { { W } }$ ，相差 $1 2 . 5 \\%$ ；在16:9中，设为16W宽，9W高， $\\mathbf { L } _ { 1 }$ 由 $1 6 { \\times } 4 \\mathrm { W } { = } 6 4 \\mathrm { W }$ ， $\\mathrm { L } / 2 { = } 3 2 \\mathrm { W } , \\mathrm { L } _ { 2 }$ 由 $3 { \\times } 9 \\mathrm { W } { = } 2 7 \\mathrm { W }$ ，相差 $1 8 . 5 \\%$ 。因此4：3更适合四投影打底拼接，同理得出4：3适合五投影打底拼接，更能充分利用分辨率，将有效分辨率做到最大。因此本文推荐使用4：3的宽高比。",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "(4)对比度与亮度对比度与本文的需求并不是很相关。对比度用于对比最亮与最暗的像素，可通过此数据了解到投影仪投影图像中的“黑色\"到底有多黑。由于部分投影仪可自动调整其虹膜（或称为动态虹膜，即挡住光线以表示“黑”)，此参数在投影仪的比较中不具可比性。投影仪更令人心烦意乱的是它可能会在我们控制之外地使图像过于暗淡或明亮。既然我们并不需要使用动态虹膜，我们要寻找在黑色端表现优秀的低流明的投影仪。这基于一个假设，观众的眼睛可以自动调整以适应暗室的环境，从而不需要太亮的投影设备。",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "本文始终认为，某种投影仪是否符合要求，要视天象厅的具体情况而定。",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "3.3投影设计",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "投影设计与投影仪的选型、天象厅整体分辨率等息息相关。投影设计输入值有很多，影响投影设计的因素很多，例如投影仪各参数、设备预算、预期球幕整体分辨率等。",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "3.3.1投影分层和数量安排计算",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/95ba9dbd9c7d40f9f0868180bfc62f09bf91bbfaefbf5ec0af32a1de2b0286a7.jpg",
+        "img_caption": [
+            "图3-2投影俯视示意图图"
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0ed6386b84b0a098f99a379f9fc6524200fc8c0e8ed086c5406c8dc10c036a0.jpg",
+        "img_caption": [
+            "3-3投影侧视示意图",
+            "Fig.3-3 Projected side view sketch map "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "如图3-2、3-3 所示，投射比指的是 ${ \\mathrm { D B / E F = x } } ($ （为方便计算假设投影仪offset=0）；宽高比 $\\mathrm { E F / A C = y }$ ；天象厅直径为D；半径为R；上下相邻投影区域叠加最小系数z，左右投影叠加最小系数为w。投影仪的上下张角为∠ADC=2arctan(1/2xy)；投影仪的左右张角 $\\angle E \\mathrm { D F } = 2$ arctan(1/2x)；则底边与DC的关系为：",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "cos(arctan( 底边 $\\ c =$ 2X \\*DC X ",
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/11e9cf8208a36da8b335d4001eababecf6c845512f0bd1f36e8abc51cd0b339c.jpg",
+        "img_caption": [
+            "Fig.3-2 Projected top down sketch map ",
+            "图3-4分层投影",
+            "Fig.3-4 Layered projection "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "如图3-4(a)中∠XPC为第一层投影仪上下张角， $\\angle \\mathrm { D P A }$ 为第二层投影仪上下张角，AC为叠加区域，取中间为B为分界点。则如图3-3(b)中，实际有效张角为∠BPX、∠DPB（B、D为分界点） $\\mathtt { \\Pi = z ^ { * } 2 }$ arctan(1/2xy）（因为$\\mathrm { X B = R ^ { * } \\angle X O B = 0 . 5 R ^ { * } \\angle B P X }$ ，投影区域与角度成正比。)",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "层数m:[∠ZPX/∠BPX]=[- π 8\\*(1- z)\\*arctan( ",
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6522cffdcc0fae0d7a0709ac7da08212a0b1ce516a3c1a6f1610bfde28ad8c0.jpg",
+        "img_caption": [
+            "图3-5投影区域与投影宽的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "如图3-5，AB为投影区域底边，弧长EF为实际投影区域宽度，在这里为方便计算将弧长EF 约等于线段 AB。图为第一层中的对比关系，在其他层，情况稍有不同，投影仪在斜下方，也作相同近似处理。",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "则第i层的投影仪数量 ${ \\tt = } 3 . 1 4 \\times \\tt R$ （i）／（AB\\*（1-w)）.",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "如图其中第i层半径 $\\textbf { R } \\left( \\mathbf { i } \\right) = \\mathbf { D } \\mathbf { Y }$ ；第i层底边投射距离PD",
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8d4e997cd3564b3f6c0e81389bef9b2f6aa3de663f4dc78f3277f1b3afda012.jpg",
+        "img_caption": [
+            "Fig.3-5 Relationship between projection area and projection width ",
+            "Fig.3-6 Radius of the ilayer in the sphere "
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ebbf0834b4ece8d2f58baa01e147312f30b687529f1a2161b0a844201e3d5be.jpg",
+        "img_caption": [
+            "图3-6球幕中第i层半径DY",
+            "图3-7球幕中第i层底边投射距离PD"
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Fig.3-7 Projection distance PD of bottom in the i layer ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "如图3-6， $\\mathrm { D Y } { = } 2 \\mathrm { D } \\mathrm { Z } { = } 2 \\mathrm { c o s }$ （204号 （∠ZD0） $\\scriptstyle 1 = 2 \\cos$ （∠DOX）R $= 2 \\mathrm { R c o s } ( 4 ^ { * } ( \\mathrm { i } - 1 ) ^ { * } ( 1 \\mathrm { - } \\mathrm { z } ) ^ { * } \\mathrm { a r c t a n } ( 1 / 2 \\mathrm { x y } ) )$ ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "如图3-7， $\\mathrm { D P = D }$ \\*cos(∠DPX) $\\vDash$ D\\*cos(i-1)\\*(1-z)\\*2arctan(1/2xy))。",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "R(i)=2Rcos(4\\*(i-1)\\*(1-z)\\*arctan(1/2xy)); ",
+        "page_idx": 43
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A B } { = } \\frac { \\mathrm { D } ^ { * } { \\cos } ( { \\arctan } ( \\frac { 1 } { 2 x y } ) ) ^ { * } { \\cos } ( 2 ^ { * } ( \\mathrm { i } { - } 1 ) ^ { * } ( 1 { - } z ) ^ { * } { \\arctan } ( 1 / 2 \\mathrm { x y } ) ) } { x } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "代入得到：第i层的投影仪数量",
+        "page_idx": 44
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { ~ n ~ ( ~ i ~ ) ~ } = [ \\frac { \\pi ^ { * } x ^ { * } \\cos ( 4 ( i - 1 ) ^ { * } ( 1 - z ) ^ { * } \\arctan ( 1 / 2 \\ x y ) ) } { ( 1 - \\mathrm { w } ) ^ { * } \\cos ( \\arctan ( \\frac { 1 } { 2 x y } ) ) ^ { * } \\cos ( 2 ^ { * } ( i - 1 ) ^ { * } ( 1 - z ) ^ { * } \\arctan ( 1 / 2 \\ x y ) ) } ] + 1 \\mathrm { ~ o ~ r ~ } ( - 1 / 2 \\ x ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "第 $\\mathbf { m }$ 层（顶层)计算较其他层复杂，之前的计算方法不完全适用，如图3-8。",
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a84bb2d0bd008e17c487fad254f372d39243bdaa1eb9e144c46d80d479885bc.jpg",
+        "img_caption": [
+            "图3-8顶层投影"
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/a387c98845c148d9f0d724ab29f0e449e8f3ff1fc7a2f4d0d03c65be83f40670.jpg",
+        "img_caption": [
+            "Fig.3-8 Top level projection ",
+            "图3-9顶层投影覆盖",
+            "Fig.3-9 Top projection coverage "
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "（1）当 $\\angle C \\mathrm { { Z P D } }$ 小于 $\\mathbf { z } ^ { * } \\mathrm { a r c t a n } ( 1 / 2 \\mathrm { x y } )$ ，则顶层可以使用一台投影仪覆盖，如图3-9(a)， $\\textbf { n } ( \\mathbf { m } ) \\mathbf { \\Lambda } = 1$ ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "(2）当 $\\angle C \\mathrm { { Z P D } }$ 大于 $\\mathbf { z } ^ { * } \\mathrm { a r c t a n } ( 1 / 2 \\mathrm { x y } )$ ，而小于 $\\beta$ 时，可以使用两台投影仪覆盖，如图3-9(b)， ${ \\textbf { n } } ( { \\bf m } ) = 2$ ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "（3）当 $\\angle C \\mathrm { { Z P D } }$ 大于 $\\beta$ 小于2z\\*arctan(1/2xy)时，继续使用前面所述公式计算",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "顶层的投影数量。",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\beta { = } \\angle \\mathrm { D P X } { - } 2$ （ $\\mathrm { m } { - } 1$ ）\\* z\\*arctan(1/2xy）（∠DPX为2R（i） $\\scriptstyle = \\mathbf { A } \\mathbf { B }$ 时求得）。",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "投影仪总和： Mn",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "3.3.2投影模拟仿真 投影光路辅助设计将投影仪假想成一点，参数（a，b，c）确定位置，fov、Aspect、俯仰角、摆角P（a，b，c）点引出四条直线，构成四个平面：",
+        "page_idx": 45
+    },
+    {
+        "type": "image",
+        "img_path": "images/22d3eaffaf2d0f80af8e21d8763731bc6e645f1ecba3cf7b599d4cd80aa597b3.jpg",
+        "img_caption": [
+            "图3-10工具设计原理Fig.3-1O Tool design principle",
+            "图3-11工具设计流程Fig.3-11 Tool design process"
+        ],
+        "img_footnote": [],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r l } & { { \\bf A } _ { 1 } { ^ \\ast } \\mathrm { x } + { \\bf B } _ { 1 } { ^ \\ast } \\mathrm { y } + { \\bf C } _ { 1 } { ^ \\ast } \\mathrm { z } + { \\bf D } _ { 1 } = 0 } \\\\ & { { \\bf A } _ { 2 } { ^ \\ast } \\mathrm { x } + { \\bf B } _ { 2 } { ^ \\ast } \\mathrm { y } + { \\bf C } _ { 2 } { ^ \\ast } \\mathrm { z } + { \\bf D } _ { 2 } = 0 } \\\\ & { { \\bf A } _ { 3 } { ^ \\ast } \\mathrm { x } + { \\bf B } _ { 3 } { ^ \\ast } \\mathrm { y } + { \\bf C } _ { 3 } { ^ \\ast } \\mathrm { z } + { \\bf D } _ { 3 } = 0 } \\\\ & { { \\bf A } _ { 4 } { ^ \\ast } \\mathrm { x } + { \\bf B } _ { 4 } { ^ \\ast } \\mathrm { y } + { \\bf C } _ { 4 } { ^ \\ast } \\mathrm { z } + { \\bf D } _ { 4 } = 0 } \\end{array}$ (顶面) (底面) (左侧面) (右侧面) ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "如图3-10(a)、(b)，左侧面与右侧面分别与 XOY 面相交于 PA $( \\mathrm { { A _ { 4 } } ^ { * } \\mathrm { { x + B _ { 4 } } ^ { * } \\mathrm { { y + } } } }$ ${ \\bf D } _ { 4 } { = } 0$ ）及PB $( \\mathbf { A _ { 3 } } ^ { * } \\mathbf { X } + \\mathbf { B _ { 3 } } ^ { * } \\mathbf { y } + \\mathbf { D } _ { 3 } { = } 0$ ）",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "，） 淀义域判断> Z值判断 + 标识颜色 = 有区域遍历",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "遍历圆周中的 $( \\mathbf { \\boldsymbol { x } } , \\mathbf { \\boldsymbol { y } } )$ ，判断:当 $\\mathrm { A _ { 4 } \\mathrm { ^ { * } x + B _ { 4 } \\mathrm { ^ { * } y + D _ { 4 } > 0 } } }$ 或者 $_ { \\mathrm { A } 3 ^ { * } \\mathrm { X } + \\mathrm { B } 3 ^ { * } \\mathrm { y } + \\mathrm { D } 3 < 0 . }$ 舍弃.当 $\\mathbf { A } _ { 4 } { ^ { * } \\mathbf { x } } + \\mathbf { B } _ { 4 } { ^ { * } \\mathbf { y } } + \\mathbf { D } _ { 4 } { \\le } 0$ 并且 ${ \\bf A } _ { 3 } ^ { * } { \\bf X } + { \\bf B } _ { 3 } ^ { * } { \\bf y } + { \\bf D } _ { 3 } ^ { } \\geq 0$ 时,保留 $( \\mathrm { x } , \\mathrm { y } )$ 进入下一步判断.",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "将 $( \\mathbf { x } , \\mathbf { y } )$ 分别带入  \n$\\mathbf { A } _ { 2 } ^ { * } \\mathbf { + } \\mathbf { B } _ { 2 } ^ { * } \\mathbf { y } \\mathbf { + } \\mathbf { C } _ { 2 } ^ { * } \\mathbf { z } \\mathbf { + } \\mathbf { D } _ { 2 } \\mathbf { = } 0$ （底面）$x ^ { 2 } + y ^ { 2 } + z ^ { 2 } = 1$ （球面）  \n$\\mathbf { A _ { 1 } } ^ { * } \\mathbf { x } + \\mathbf { B _ { 1 } } ^ { * } \\mathbf { y } + \\mathbf { C _ { 1 } } ^ { * } \\mathbf { z } + \\mathbf { D _ { 1 } } = 0$ （顶面）分别解得：Z、Z2、Z3.",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "判断：当且仅当 $\\mathbf { Z } _ { 1 } \\leq \\mathbf { Z } _ { 2 } \\leq \\mathbf { Z } _ { 3 }$ 时候，保留 $\\scriptstyle \\mathbf { z } _ { 2 }$ 值。得到 $( \\mathbf { \\boldsymbol { x } } , \\mathbf { \\boldsymbol { y } } , \\mathbf { \\boldsymbol { z } } _ { 2 } )$ ，并标识蓝色。遍历定义域内所有点后，标识蓝色的部分显示的便是投影仪在球幕上投影区域。",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "基于以上算法，基于开源项目ProjDesigner开发出天象厅用投影光路辅助设计工具，如图3-12。",
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e1fab48ce4c3fb41d87a191179e0288ec32c2229fbdf25c9f6432fc56b2bd69.jpg",
+        "img_caption": [
+            "图3-12投影光路辅助设计工具截图",
+            "Fig.3-12 Projection light path aided design tool screenshot "
+        ],
+        "img_footnote": [],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "投影光路辅助设计工具利用OpenGL编程，为方便查看，设计成四分之球显示，水平面分成 $1 0 { \\times } 1 0$ 格，四分之一球面分成 $1 6 \\times 1 6$ 格显示。基本参数包括投影仪Fov、Aspect、X、Y、Z、俯仰角、摆角、旋转角。对投影仪投影区域在球幕上进行可视化，重叠区域亮度倍增。拖动鼠标左键可以变换不同的视角，滚轮可以对视野进行放大和缩小。",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "在球幕多投影拼接前期设计过程中，投影光路辅助设计工具作用明显，一方面对设计进行模拟验证，反馈不足，修正参数。经过仿真模拟并修正后的投影基本参数对于投影仪选型、投影仪位置选择、投影仪安装固定有着一定的作用。",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "3.3.1中以投射比为切入点，以此为输入值，进行投影设计与计算，设计与计算以覆盖全球幕为基本原则，在后续投影拼接过程中，为了顺利实现拼接，一定的重叠区域是必要的，引入叠加系数，以投影光线边界、上下张角及左右张角为计算手段粗略计算出投影分布和投影仪参数。",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "3.3.2：由于在设计与计算中，做了多种假设和近似，得出的结果会有误差，为了进一步验证，需要进行仿真模拟。为了进行可视化的投影仿真模拟，本文编写了投影光路辅助设计工具。除了可以对设计及计算结果进行验证外，还可以对投影仪各参数进行准确修正。因为在上一步的设计与计算中，假设投影仪在球幕边缘点上，各位置参数都做了理想化的假设，实际工程中，各投影仪安装位置会在球幕下方和内部延伸处。位置参数的修正，投影仪各角度的参数也必须随之加以修正。在工具可视化界面中最终确定各投影仪达到预期效果后，输出各投影仪的安装位置参数x、y、z（以球幕球心为原点的坐标系）及各投影仪安装角度俯仰角和摆角。这些参数对于后续的安装固定及投影拼接的顺利完成意义重大。",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "整个设计流程如图3-1所示。",
+        "page_idx": 47
+    },
+    {
+        "type": "image",
+        "img_path": "images/c87bde4b4a9906aa63dc879c62ae47700788c0550ed4c3fb655725404a6bb726.jpg",
+        "img_caption": [
+            "图3-1投影设计流程图",
+            "Fig.3-1 Projection design process "
+        ],
+        "img_footnote": [],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "3.4互动式数字天象厅中的数种典型方案设计对比分析与实验",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "根据上一节的计算与模拟设计，不同的投射比可以得到多种方案，投射比从低到高，投影仪数量整体呈上升，整体分辨率也随之增大。因此会产生很多种球幕投影设计。本节对这些投影设计进行对比分析。",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "3.4.1单台投影仪投影方案设计",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "在单台投影仪投影球幕的设计中，根据鱼眼投影原理，本文选择将投影仪固定于球幕中央。投影仪直接投影一般是不可能覆盖整个球幕的，如图3-13(a)，投影仪投射俯视图，一般投影仪左右张角约为70度；如图3-13(b)侧视图中一般投影仪上下张角约为50度。实际投影画面如图3-14，中间空白为有效画面，其余黑色部分在实际投影时不显示。则有效张角比50度略小，约为47度。",
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/a31c320145e1be9752d9f722dd45ad39ea5f31c8afdbd703ea4c04f637b7a340.jpg",
+        "img_caption": [
+            "图3-13普通投影仪投射"
+        ],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/d38e2e71a5900125e11e544559e02ee3fb4752553203b82d02130adfd30b5606.jpg",
+        "img_caption": [
+            "Fig.3-13 General projector projection ",
+            "图3-14投影仪有效投影区域",
+            "Fig.3-14 Effective projection area of projector "
+        ],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "要想在天象厅中使用单台投影仪覆盖整个球幕，则这个角度很大，超过了投影仪自身范围。为了达到这个目的，则必须要定制一个转换透镜——鱼眼镜头。",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "鱼眼镜头[51]有个特点，焦距短，视角大，因光学原理产生的变形也就越强烈。为了达到超大视角，鱼眼镜头的设计者不得不作出牺牲，即允许这种变形（桶形畸变）的合理存在。其结果是除了画面中心的景物保持不变，其他本应水平或垂直的景物都发生了相应的变化。这种现象视角越大，越明显。在镜头视角的设计指标上，主要受三个方面因素影响：边缘畸变；光线遮挡；观众视野遮挡。具体影响如下：角度越大，球幕上画面边缘畸变越明显；角度越大意味着投影仪和离球幕底边的距离越小，投影光线被遮挡的可能性越小；同时投影仪本身遮挡画面的可能性越大。综合三个因素和实践，本文推荐转160-165度范围。",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "该方案中的投影仪选型中增加一个特殊条件——允许垂直投影。因为并不是所有投影仪都可以这样进行投影，垂直投影对于投影仪内部光学、电子器件的使用寿命、精度都有着一定的影响，因此需使用这种投影方式设计的投影仪型号。在实际选型时，推荐选择激光投影仪大部分激光投影仪能实现垂直投影，否则投影仪故障率会很高。",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "单投影方案的缺点很明显：分辨率相对低，由于使用单台投影仪，单台投影仪若采用1080P分辨率，根据图中的面积比例大致计算得到1/2投影仪自身的分辨率。但优点是成本低廉，而且还能播放其他球幕电影。因此仅适合小直径的天象厅中使用。",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "图 3-15是单投影方案的示意图，图3-16是方案中的一体化机柜。单投影方案适合较小直径的天象厅（直径小于6米)，为了进一步节约空间，将控制台、讲台、机柜一体化设计。",
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/108ca65561a0817f5572147006315365b0075956b714e79e4c0f214f1f4ff31f.jpg",
+        "img_caption": [
+            "图3-15单投影仪鱼眼方案设计",
+            "图3-16一体化设计",
+            "Fig.3-15The design scheme of single projectorwith fisheye ",
+            "Fig.3-16 Integrated design "
+        ],
+        "img_footnote": [],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "3.4.2超高分辨率方案设计",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "在单台投影仪分辨率上限固定的情况下，要想达到更高的分辨率，最基本的方法就是增加投影仪的数量。如今超高分辨率是数字天象厅中的一个发展方向，国内外数字天象厅的分辨率都超过4K。越来越多的机构追求更高的分辨率以满足观众对于超清内容及真实感的追求，出现了许多8K分辨率的数字天象厅。北京天文馆旧馆改造，利用6台4K投影机拼接融合而成的8K球幕便是一例。在本文所涉及的中小成本天象厅，采购4K投影机成本太高。为了达到同等的分辨率（8K及以上），可采取更多投影仪拼接，以降低成本。（一台4K投影机的价格是1080P投影仪的10倍甚至以上）",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "1080P投影仪的分辨率为 $1 9 2 0 { \\times } 1 0 8 0 { = } 2 0 7 3 6 0 0$ （pixls）,在球幕投影拼接中，为保证拼接完整，需要叠加面积，根据结论—投影仪数量越多，分辨率利用率越高，叠加系数越低，暂定叠加系数为0.95进行计算，则每台投影仪实际使用只有0.95。每台投影仪有效分辨率 $2 0 7 3 6 0 0 \\times 0 . 9 5 = 1 9 6 9 9 2 0 ( \\$ pixls)；要想达到整体8K的分辨率，通过计算，预计至少需要：17台",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "设计如图3-17,3-18。",
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/79daf40fc7bd7ab592dd92bcdfb4a2a289facef830420bc2553006d0b37ad12d.jpg",
+        "img_caption": [
+            "图3-17超高分辨率投影方案设计",
+            "Fig.3-17 Super high resolution projection scheme design "
+        ],
+        "img_footnote": [],
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/26c8c4d9c20a268730dc63b091e79e10ecc6c136a1f633038c249149c9c5e532.jpg",
+        "img_caption": [
+            "图3-18辅助工具展示超高分辨率投影方案设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Fig.3-18 Super high resolution projection scheme design in aided design tool ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "3.4.3大直径方案设计",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "在直径较大的天象厅中（15米直径以上)，那就不能继续使用边缘投影方式进行方案设计。因为在球幕边缘安装投影仪，向对面球幕上投影的距离大约为球幕直径，市场上能投射这个距离还能保证良好的画面的投影仪只有高端的专业工程投影机，价格昂贵。该方案中，本文推荐采取中心投影方式，如图3-19，这样就可以将投射距离缩短到半径左右，可选的投影仪范围增大，投影仪成本降低。",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "中心投影方式缺点：如图3-20，占据中央空间，过于集中的机器散热需要额外的冷却装置，因此带来额外的噪音。优点：便于安装、移动。",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "该方案中，经过粗略计算，所需投射比为0.5，市场上很难获得这个值投射比的投影仪，因此需要额外增加转换透镜以获得足够大的画面覆盖整个球幕。",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a702db43147f83f0cd319f3b8c57fae3e8f84dad713157cf6300978b687c960.jpg",
+        "img_caption": [
+            "图 $3 - 1 9 4 + 1$ 中央投影示意图",
+            "Fig.3-19 $^ { 4 + 1 }$ Schematic diagram of the central projection "
+        ],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc7f1fcfa0aa29ae1514cb1f1f13664458661524667aff63e4d0eccc02be653a.jpg",
+        "img_caption": [
+            "图 $3 { - } 2 0 4 { + } 1$ 投影一体化机柜设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "同3.2.3.1中一样，投影仪的选型也需要支持大角度倾斜和垂直投影方式的机型，本文同样推荐激光投影仪。",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "由于其一体化设计，方便移动、运输、安装的特点也可以成为移动式数字天象厅，解决以往移动天象厅画质低下的问题。移动式（便携式）天象厅也是天象厅的一个重要发展方向，因为由于其良好的流动性可以为全国各地带去天文科普教育活动，观看人次数量巨大。 $^ { 4 + 1 }$ 中央投影式若能应用到实际中，将给流动天文科普带来很大的助力。",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "3.4.4典型方案设计",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "在国内进行天象厅调研统计，由图可以看出国内天象厅直径主要集中在 7到12米之间。因此进行7-12米直径天象厅中的投影方案设计显得尤为重要。",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/62928782faa0c70d839402d020ec324b91af6c3b5f5850f4dcce18e525da8cf2.jpg",
+        "img_caption": [
+            "Fig. $3 - 2 0 \\ 4 + 1$ Projection integrated cabinet design ",
+            "图3-21我国天象厅直径数量分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Fig.3-21 Planetarium diameter distribution in our country ",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/98fed01d51fa2dcb944c5446e736c4153409925f556b39d6ae54fd3d6875cdfa.jpg",
+        "img_caption": [
+            "图3-22中型天象厅数种典型投影设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Fig.3-22Several typical medium-sized planetarium projection design "
+        ],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "根据3.3.1及3.3.2中的计算和仿真模拟，投影仪数量增加，重叠率一定程度上是减小的。2-4台的投影方案一方面分辨率利用率低下，而且整体分辨率达不到如今主流的4K；另一方面，2-4台投影方案所对应的超低投射比根据调研几乎没有，外加透镜所带来的安装、调试及后期维护的难度增大，复数的透镜同时也会增加成本。而7台以上，例如8、9、10等方案经过实际模拟仿真及计算，虽然增加了投影仪数量，然而整体分辨率并没有明显的增加，降低了分辨率利用率，本文认为是不经济的。只有投影仪数量达到足够三层覆盖时候才有意义，即超高清方案设计。如图上述三种投影设计3-22(a)、(b)、(c)，若采取1080P 投影仪，基本达到4K分辨率及以上，本文该三种方案设计是适合7-12米直径天象厅的经济、效益高的设计。",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "3.4.5投影实验 ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "根据章节3.2及3.3选择投影仪及球幕投影方案。",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "投影仪选择明基MX620ST，具体参见表3-1，其他实验设备本文不作详细介绍。实验设备如图3-23。",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "表3-1投影仪具体参数",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "images/db4e3f55e888e021dea718863cc7329dc755a0e71ecdfdce63118ad3a40c0be9.jpg",
+        "table_caption": [
+            "Tab.3-1 Parameters of projector "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>亮度</td><td>3000 流明</td></tr><tr><td>对比度</td><td>11000:1</td></tr><tr><td>分辨率</td><td>1024x768</td></tr><tr><td>宽高比</td><td>4:3</td></tr><tr><td>投射比</td><td>0.9-1.08</td></tr></table></body></html>",
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/3927f5bfcd506bad140f75a84e0c51183a29d7194c7a3a11ddc01fe56e7ef8c3.jpg",
+        "img_caption": [
+            "图3-23实验设备",
+            "Fig.3-23 Experimental equipment "
+        ],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "实验中，本文采取了网格校正技术。该技术是一种基于人眼反馈校正信息的手动拼接方法，可靠性、稳定性强。校正时，首先完成顶部投影与底边一台的融合校正，然后依次完成与相邻投影及顶部投影的双边校正，最后完成一次三边校正（左右相邻及顶部投影)，拼接完成，如图3-24。",
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/77d0fbcba8590841db6dae1d916139eef4025ccab3f142ddc9beaaa643d10ec6.jpg",
+        "img_caption": [
+            "图3-24校正过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 55
+    },
+    {
+        "type": "image",
+        "img_path": "images/b83f519a83cd10c8178f3144d30b78881135f952cbadd449f61617fca4a569aa.jpg",
+        "img_caption": [
+            "Fig.3-24 Correction procedure ",
+            "图3-25互动式数字天象厅原型展示",
+            "Fig.3-25 Interactive digital planetarium prototypedisplay "
+        ],
+        "img_footnote": [],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "实验证明基于章节3.3中的投影计算与模拟仿真的设计结果基本正确。（该网格校正技术要求底边左右相邻投影仪区域最小叠加率为 $w = 1 2 \\%$ ）",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "同时还实验验证了第二章中分互动式数字天象厅中分布式数字系统整体运行良好，各通道协调性、同步性达到要求。第二章中互动终端 Kinect（图红色部分）、Xbox等与节目的互动交流也得到实验。",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "该实验原型（如图3-25）作为北京市科技委员会2015年度北京科普社会征集项目“互动式数字天象厅的研究与集成设计\"成果于2016年3月25日顺利通过",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "验收。",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "3.5小结 ",
+        "text_level": 1,
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "本章首先对比各类技术类型选择了DLP作为天象厅中投影仪技术类型，给出了天象厅特殊环境中投影仪各类参数的选择原则。提出了天象厅中多投影设计的方法，该方法主要包括计算和仿真模拟两部分。基于ProjDesigner开发投影辅助设计工具程序完成仿真模拟与修正，并基于该方法提出了多种天象厅中的投影方案设计与分析。最终通过实验手段验证了投影设计方法并实现多投影拼接。",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "第4章天象厅中座席研究与设计",
+        "text_level": 1,
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "4.1 引言",
+        "text_level": 1,
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "天象厅中的体验感包括：视觉感受、环绕立体声感、互动性、舒适度、真实性感受五个方面。在本章中，座席的设计将涉及到视觉感受、环绕立体声感、舒适度及真实感四个方面的体验感，因此其在设计过程中有着重要的地位。然而在过去的设计理念中，座席的设计往往被忽略。",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "(1)座席的设计决定了每个观众视野的区域，因为整个球幕的区域对于人眼的视野范围而言是过大的，因此人眼不可能将整个球幕纳入视野范围，在设计时候座椅的设计决定了人眼的仰角，座席的摆放决定了人眼的摆角；(2)座席的设计决定了有无明显的环绕立体声感，环绕立体声对于座席的摆放有着一定的要求，座席的设计直接影响着效果； (3)座席设计决定了观众的舒适度，如果一个20 分钟的节目全场都得仰着脖子或歪着脖子，舒适度将是很低的； (4)座席的设计也决定了真实感受，因为虚拟星空中的星体与真实星空中的星体的位置相差不能太大，否则起不到虚拟现实和教育与科普的目的。",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "因此，影响着体验感中的四个方面的座席设计在天象厅设计中与前三章节同样重要。",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "4.2座席区设计",
+        "text_level": 1,
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "在天象厅特殊的环境使得它的座席区安排与其他影院、戏剧院等不同，因此有必要对其座席区进行研究，利用数学建模手段、Matlab 模拟仿真解析出厅中座席区范围。",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "4.2.1座席区设计原则",
+        "text_level": 1,
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "我国观演建筑设计规范规定的座席设计的基本原则[2]为:",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "1.根据观看演出及银幕的视觉质量要求,正确控制席位界限,力求获取优良席  \n位的百分比达到最高限；2.通过对席位质量的分级原则,掌握优良席位区的范围(图),把纵横过道配置  \n在视觉质量较差的席位里；3.纵横走道要与出入口有机结合,通常情况下出口对应横向过道,入口对应纵",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "向过道,这样的流线组织使通行更加顺畅明晰,同时为人流提供疏散缓冲面积；",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "4.保证观众厅内的通道符合防火规范的有关规定,有足够的疏散宽度。",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "在天象厅中，根据调研座席设计，按照地面倾斜程度可以划分为地平式和倾斜式，按照座椅朝向可以分为圆周式和单朝向式。倾斜单朝向这种设计最初出现在1973年美国加州圣迭戈科学中心。美国SPITZ公司第一个将圆顶剧场改成倾斜的以利于观众看得形式，并将天文馆座椅朝向前方，如图4-1，也就是第二代天象厅。在此之前的将近50年的时间里，天象厅中的座席安排基本是地平式，座椅朝向大部分都是同心圆摆放，如图4-2。",
+        "page_idx": 59
+    },
+    {
+        "type": "image",
+        "img_path": "images/034ee20ea2848925452ec3d1ceeb4f5ee7e01503b6efa4e53f6fe6fb60ac1f70.jpg",
+        "img_caption": [
+            "图4-1倾斜单向天象厅 ",
+            "Fig.4-1 The one-way tilt planetary ",
+            "图4-2地平圆周向天象厅俯视示意图 Fig.4-2 Top view of horizontal planetarium "
+        ],
+        "img_footnote": [],
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "办 ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "这种转变和天象厅播放的内容的转变有着很大的关系。在第一代天象厅中，演示的内容基本是以地球上的某位置为视野出发点，观看漫天繁星。因此这种地平式是最符合真实情况的，某种意义上称的上是最初的虚拟现实。这种观看模式可被称为星空模式，在星空模式下，座椅的摆放原则为以中心为原点圆周摆放。这样的设计方式能使得整体观众的体验感最大化。后来随着天文及航天技术的发展，人们的视野脱离地球表面，到达更远处的太空，因此在天象厅中也出现了相应的太空模式。太空模式与星空模式相对应，在该模式下，人们看到的不再是从地球表面看到的景象，而是能够飞跃到太空深处观看宇宙。因此在该模式下不再拘泥于地平式，而与影院类似，有着主画面方向，因此座椅的摆放也按照朝向主画面方向设计。球幕电影院多采取这种设计，实际上数字天象厅基本兼具着球幕电影院的功能。该模式使得观众观演仰角与星空模式相比大幅减小，增大了观众的舒适度，而且为环绕立体声引入提供可能，然而该类设计对于星空模式的兼容并不理想。调研结果表明，全球天象厅数字化程度并不高，就国内而言，不到$10 \\%$ ，因此目前绝大部分依然采取地平圆周设计。",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "WWT主要有天空模式、行星模式、太阳系模式、全景图模式。按照视野范围作为分类依据，其中，天空模式及全景图模式对应着天象厅环境中的星空模式；而行星模式及太阳系模式对应着天象厅环境中的太空模式。基于WWT的互动式数字天象厅兼具着传统天象厅及球幕影院的观影特色，因此在座席设计时得兼顾两者的设计要求。",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "为了满足兼具两种模式下观演的要求，本文提出一种部分座椅可旋转设计方案。在该方案中，太空模式下，观众座椅按照主画面中心点在水平面的垂足为圆心圆弧摆放；星空模式下，观众座椅按照中心点为圆心圆周摆放。为满足两种模式的切换，座椅设计为可旋转式，综合考虑成本、容积比等因素，将切换过程中旋转角度小于一定角度的座椅设计为固定式，其他大角度设计为可旋转式。",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "4.2.2基于体验感座席设计",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "在这种特殊座席设计中，显然位置的不同对于所带来的观演效果的差异是很大的。因此，某些区域适合作为座席区，而有些地方不宜作为座席区。为探究在这种方案下座席区的最优化设计，将针对该设计方案下的体验感进行数学建模。其中天象厅总区域为原型，作为xoy面，y轴正方向为太空模式观影方向，z轴正向垂直地面向上。",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "根据相关咨询及实际体验，本文将体验感分为：太空模式下的环绕立体声感、太空模式下的画面感、太空模式下的舒适度、星空模式下的画面真实感、星空模式下的舒适度，分别简记为SV、QE、QC、TE、TC。",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "太空模式下记D点为主画面中心点。∠DOC为0，经过咨询及相关研究，本文认为太空模式下 $\\mathfrak { a }$ 大于60度，不宜安放座椅。因此环绕立体的主声道安装角度主要覆盖 $\\angle A \\mathrm { D B }$ ，角ADP为 $\\angle A \\mathbf { D } \\mathbf { B }$ 的一半，DP为主声道安装角度。如图4-4， $\\angle \\mathrm { D P C }$ 记为 $\\mathfrak { a }$ ，当 $\\mathrm { ~ \\bf ~ P ~ }$ 点处于主声道扬声器安装角度时，∠DPC记作α1，此时本文认为，是环绕立体声感最强的点。经过计算",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "$\\mathtt { a } _ { 1 } = 0 . 5 2 \\substack { + 0 . 2 5 ^ { * } \\mathtt { b } }$ ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "θ 的取值，在WWT中，θ调节与选项中的dometitle有关，如图4-3。",
+        "page_idx": 61
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6cbf4c39c76e2057573c88273adaf6be17c7ef34e37c2cb34c0b201e7e66e3d.jpg",
+        "img_caption": [
+            "图4-3WWT中dome title的设置 Fig.4-3 Setting of dome title in WWT "
+        ],
+        "img_footnote": [],
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "结合实践，本文认为0取40度到55度之间效果较好。本文以 $\\scriptstyle { \\Theta = 4 5 }$ 度进行建模， $\\mathtt { a } _ { 1 } = 4 1 . 2 5$ 度。关系如图4-4。",
+        "page_idx": 61
+    },
+    {
+        "type": "image",
+        "img_path": "images/90c494b770f0a25e5e4b56bb35fcdafc52421b8d8b9e6c2c1d1c76e6c9fb4848.jpg",
+        "img_caption": [
+            "图4-40与 ${ \\bf { a } } _ { 1 }$ 关系",
+            "Fig.4-4 Relationship between 0 and ${ \\bf { a } } _ { 1 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "(1)太空模式下的环绕立体声模型太空模式下的环绕立体声感记作SV，经过相关调研，本文认为，SV和人头部与M声道连线与水平面所成夹角 ${ \\bf \\alpha } _ { \\mathrm { ~ \\tiny ~ d ( \\alpha ) ~ } }$ 如图4-6)",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "以及人头部与M声道连线与中间剖面所成夹角β(如图4-5)有关。",
+        "page_idx": 62
+    },
+    {
+        "type": "image",
+        "img_path": "images/3682abe4defd0d355991f9fb7b26101080f6ca39ae46ac7022bb4156ddee2f37.jpg",
+        "img_caption": [
+            "图4-5模型1中的 $\\beta$ Fig. $4 { - } 5 \\ \\beta$ in model 1"
+        ],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "image",
+        "img_path": "images/61e774ad596032245b08beff0934e3e1be013906976554aa0c1f0c189a212358.jpg",
+        "img_caption": [
+            "图4-6模型1中的 $\\mathfrak { a }$ ",
+            "Fig. $4 { - } 6 \\mu$ in model 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { x } { > } 0$ 时，记 $\\beta$ 为正， $\\mathbf { x } { < } 0$ 时， $\\beta$ 为负。",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "SV与 $\\mathfrak { a }$ 及 $\\beta$ 关系基本如下：当 $\\scriptstyle { \\mathtt { a } } = 0 . 7 2$ （41.25度）， $\\scriptstyle { \\beta = 0 }$ ，SV达到最大值，记为A1。",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { \\beta = 0 }$ 时候，SV与 $\\mathfrak { a }$ 的关系如下：",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { \\mathfrak { a } } = 0 . 3 9$ ， $\\mathrm { S V { = } 0 . 7 5 A _ { 1 } }$ ；当 $\\scriptstyle \\mathtt { a } = 0 . 7 2$ ， $\\mathbf { S V } { = } \\mathbf { A } _ { 1 }$ ；当 $\\scriptstyle { \\mathfrak { a } } = 1 . 0 5$ ， $\\mathrm { S V { = } 0 . 7 5 A _ { 1 } }$ 。解得：",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S V } { = } ~ ( 0 . 7 6 \\alpha { + } 0 . 4 5 ) ~ \\mathrm { A } _ { 1 } ; \\quad ( \\mathrm { x } ^ { 2 } { + } ( \\mathrm { y } { - } 0 . 7 1 ) ^ { 2 } { > } 0 . 6 6 ~ )\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { S V } = \\left( - 0 . 7 6 \\alpha + 1 . 5 5 \\right) \\mathrm { A } _ { 1 } \\qquad ( 0 . 1 7 \\leq \\mathrm { ~ \\ x } ^ { 2 } + ( \\mathrm { y } - 0 . 7 1 ) ^ { 2 } \\leq 0 . 6 6 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "当 $\\mathrm { \\Delta } \\mathrm { a } { = } 0 . 7 2$ 时，SV与 $\\beta$ 的关系如下：当 $\\beta { = } 1 . 5 7$ 或-1.57， $\\operatorname { S V } { = } 0$ ， $\\mathrm { \\beta { = } 0 , S V { = } A _ { 1 } }$ 解得:",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { l } { \\mathrm { S V } { = } ( - 0 . 6 4 ^ { \\ast } { \\beta } { + } 1 ) \\mathrm { A } _ { 1 } ; \\mathrm { ~ ( ~ x \\geq 0 ; ~ y \\leq 0 . 7 1 ~ ) ~ } } \\\\ { \\mathrm { S V } { = } ( 0 . 6 4 ^ { \\ast } { \\beta } { + } 1 ) \\mathrm { A } _ { 1 ^ { \\circ } } \\mathrm { ~ ( ~ x < 0 ; ~ y \\leq 0 . 7 1 ~ ) ~ } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "综合式（4-1）、（4-2）、（4-3）、（4-4）并带入 $a , \\beta$ 得到如下：",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S V = \\Phi \\left( \\it { \\Omega } \\mathrm { - 0 . 7 6 \\ a r c t a n } \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - \\frac { \\sqrt { 2 } } { 2 } } ) ^ { 2 } } + 0 . 6 4 \\ a r c t a n \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } - y } + 1 . 5 5 \\right) \\mathrm { \\Large ~ A _ 1 ~ \\thinspace ~ } \\left( x < 0 \\mathrm { ~ ; ~ } x \\right) = \\mathrm { \\Large ~ A _ 2 ~ } \\left( x < \\mathrm { ~ \\frac { \\sqrt { 2 } } { 2 } - y ~ } \\right) , }\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S V = ~ ( - 0 . 7 6 ~ } a r c t a n \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - \\frac { \\sqrt { 2 } } { 2 } } ) ^ { 2 } } - 0 . 6 4 ~ a r c t a n \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } - y } + 1 . 5 5 ) ~ \\mathrm { ~ { \\Large ~ A _ 1 } ~ } \\mathrm { ~ } ( { \\mathrm {  ~ x > 0 } } ) ;\n$$",
+        "text_format": "latex",
+        "page_idx": 63
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S V = ( 0 . 7 6 ~ } a r c t a n \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - \\frac { \\sqrt { 2 } } { 2 } } ) ^ { 2 } } + 0 . 6 4 ~ a r c t a n \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } - y } + 0 . 4 5 ) \\mathrm { A } _ { 1 } ( \\mathrm { x } < 0 ; \\mathrm { y } < = 0 . 7 1 ; \\mathrm { a n d } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 63
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S V = ~ ( 0 . 7 6 ~ 8 = } a r c t a n \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } \\cdot y } - 0 . 6 4 a r c t a n \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } \\cdot y } + 0 . 4 5 ) ~ \\mathrm { A } _ { 1 } ~ \\mathrm { ( x > 0 ) } ; ~ \\mathrm { y } { < } = 0 . 7 1 ;\n$$",
+        "text_format": "latex",
+        "page_idx": 63
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b089b0cd3139553519d0b4e60da0134c4ff2f81ea49f34072886eee6c36803f.jpg",
+        "img_caption": [
+            "图4-7显示的便是matab软件模拟仿真的SV与(x,y)的关系。",
+            "图4-7SV模型",
+            "Fig.4-7Model SV "
+        ],
+        "img_footnote": [],
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "(2)太空模式下的画面感模型太空模式下的画面感记作QE，如图4-8垂直于视点所在切面的OD视线为理想观影视线，因此O点被认为为QE值最高点。经过咨询及相关研究，QE与人头部与视点连线与水平面所成夹角 $\\mathfrak { a }$ （如图4-10）",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "以及人头部与视点连线与中间剖面所成夹角 $\\beta$ （如图4-9）有关。",
+        "page_idx": 64
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac62877c1416ed6ee6aa1c7a749e42482b8e150d9fb58b344e218ba1e824bcc9.jpg",
+        "img_caption": [
+            "图4-8最佳观影角度"
+        ],
+        "img_footnote": [],
+        "page_idx": 64
+    },
+    {
+        "type": "image",
+        "img_path": "images/4978509bd7f2fe7e4b94ef353eabc33164defc535f38592aecfcaa8cdef48dad.jpg",
+        "img_caption": [
+            "Fig.4-8 The best viewingangle "
+        ],
+        "img_footnote": [],
+        "page_idx": 64
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a84041284eda76a26cd38514fa39c76aab4de41c0fe07efc246d17d4dcf9a85.jpg",
+        "img_caption": [
+            "图4-9模型2中的 $\\beta$ Fig.4-9 $\\beta$ in model 2",
+            "图4-10 模型2中的 $\\mathfrak { a }$ Fig.4-10 α in model 2"
+        ],
+        "img_footnote": [],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "同样 $\\mathbf { x } { > } 0$ 时，记 $\\beta$ 为正， $\\mathbf { x } { < } 0$ 时， $\\beta$ 为负。",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "QE与 $\\mathfrak { a }$ 及 $\\beta$ 关系基本如下：当 $\\scriptstyle { \\mathfrak { a } } = 0 . 7 9$ （45度）， $\\scriptstyle { \\{ \\beta = 0 \\} }$ ，QE达到最大值，记为A2。 $\\mathfrak { a }$ 的值和 $\\beta$ 的值越靠近0.79、0，QE 值越大。",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { \\beta = 0 }$ 时：",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { \\mathfrak { a } } = 0 . 7 9$ ， $\\mathrm { Q E } { = } \\mathbf { A } _ { 2 }$ ；当 $\\scriptstyle { \\mathfrak { a } } = 0 . 3 9$ ， $\\scriptstyle \\mathrm { Q E = 0 } . 8 \\mathrm { A } _ { 2 }$ ；当 $\\scriptstyle { \\mathrm { a = 1 } } . 5 7$ ， $\\mathrm { Q E = } 0 . 5 \\mathbf { A } _ { 2 }$ 。解得：",
+        "page_idx": 64
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { Q E } = \\mathrm { \\Lambda } ( 0 . 5 \\alpha { + } 0 . 6 1 ) \\mathrm { \\bf ~ A } _ { 2 } ; x ^ { 2 } + ( y { - } 0 . 7 { \\cal I } ) ^ { 2 } > 0 . 5 } \\\\ & { } \\\\ & { \\mathrm { Q E } = \\mathrm { \\Lambda } ( - 0 . 6 4 \\alpha { + } 1 . 5 1 ) \\mathrm { \\bf ~ A } _ { 2 } ; x ^ { 2 } + ( y { - } 0 . 7 { \\cal I } ) ^ { 2 } \\le 0 . 5 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "当 $\\scriptstyle { \\mathfrak { a } } = 0 . 7 9$ 时，QE与 $\\beta$ 的关系如下：当 $\\beta { = } 1 . 5 7$ 或-1.57， $\\mathrm { Q E = 0 }$ ， $\\scriptstyle { \\beta = 0 }$ ， $\\mathrm { Q E = A } _ { 2 }$ 解得：",
+        "page_idx": 65
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q E = ( - 0 . 6 4 ^ { * } \\beta + 1 ) \\ A _ { 2 } ; ( x > 0 ; y \\leq 0 . 7 1 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q E } { = } ( 0 . 6 4 ^ { \\ast } \\beta { + } 1 ) \\mathrm { A } _ { 2 } \\circ ( \\mathrm { x } { \\leq } 0 ; \\mathrm { y } { \\leq } 0 . 7 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "综合式（4-5）、（4-6）、（4-7）、（4-8）并带入α、 $\\beta$ 得到如下：",
+        "page_idx": 65
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q E = ~ ( - 0 . 6 4 ~ a r c t a n ~ { \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - { \\frac { \\sqrt { 2 } } { 2 } } } ) ^ { 2 } } } } - 0 . 6 4 ~ a r c t a n { \\frac { x } { { \\frac { \\sqrt { 2 } } { 2 } } \\cdot y } } + 1 . 5 1 ) ~ { \\bf A } _ { 2 } ~ \\mathrm { ( x > 0 ; ~ y \\leq ~ \\frac { \\sqrt { 2 } } { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "0.71； $\\mathbf { x } ^ { 2 } + \\mathbf { \\delta } ( \\mathbf { y } { - } 0 . 7 1 ) ^ { 2 } \\leq 0 . 5 )$ ",
+        "page_idx": 65
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q E } ~ = ~ ( - 0 . 6 4 ~ a r c t a n { \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } - y } } + 0 . 6 4 ~ a r c t a n { \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } - y } } + 1 . 5 1 ) ~ { \\bf A } _ { 2 } ~ ( x \\leq 0 ; ~ \\mathrm { y } \\leq 0 . 7 1 ; \\mathrm { a n h e r e a n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q E } = ( 0 . 5 a r c t a n \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - \\frac { \\sqrt { 2 } } { 2 } } ) ^ { 2 } } - 0 . 6 4 a r c t a n \\frac { x } { \\frac { \\sqrt { 2 } } { 2 } - y } + 0 . 6 1 ) \\mathrm { A } _ { 2 } \\mathrm { ( x s 0 ; y \\leq 0 . 7 1 ; \\frac { \\sqrt { 2 } } { 2 } - y } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q E } = ( 0 . 5 \\arctan { \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - { \\frac { \\sqrt { 2 } } { 2 } } ) ^ { 2 } } } } + 0 . 6 4 \\arctan { \\frac { \\sqrt { 2 } } { 2 \\sqrt { x ^ { 2 } + ( y - { \\frac { \\sqrt { 2 } } { 2 } } ) ^ { 2 } } } } + 0 . 6 1 ) { \\textrm { A } } _ { 2 } \\mathrm { ~ ( ~ x ~ + ~ y ~ ) ~ } .\n$$",
+        "text_format": "latex",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "$\\leq 0$ ； $\\mathrm { y } { \\le } 0 . 7 1$ ； $\\bf { x } ^ { 2 } + \\ ( \\bf { y } { - } 0 . 7 1 ) ^ { 2 } { > } 0 . 5 )$ ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle \\mathrm { Q E = 0 }$ （其他）",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "图 4-11 显示的便是matlab 软件模拟仿真的QE与(x，y)的关系。",
+        "page_idx": 65
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaac42a9b0326808296eb2e6c89ffb57dd33afb9c634fa900e5fdd228fcc5aa2.jpg",
+        "img_caption": [
+            "图4-11QE 模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "(3)太空模式下的舒适度模型太空模式下的舒适度记为QC。经过咨询和调研，本文认为，QC和人头部与视点连线与水平面所成夹角 $\\mathfrak { a }$ （如图4-12）关。具体$\\mathfrak { a }$ 越小，即人头部仰角越小，观众越舒适，即QC值越大。",
+        "page_idx": 66
+    },
+    {
+        "type": "image",
+        "img_path": "images/5737238fac02465f92b819e262c177288a0f13b152e7d9dbe6fac078cd06adfe.jpg",
+        "img_caption": [
+            "Fig.4-11 Model QE ",
+            "图4-12模型3中的 $\\mathfrak { a }$ Fig.4-12 α in model 3"
+        ],
+        "img_footnote": [],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "设 $\\mathrm { Q { = } b _ { 4 } { } ^ { * } a { + } \\mathbf { B } _ { 4 } }$   \n当 $\\scriptstyle { \\mathfrak { a } } = 0 . 3 9$ ， $\\mathrm { Q C } { = } \\mathrm { A } ^ { 3 }$ ；当 $\\scriptstyle { \\mathfrak { a } } = 1 . 5 7$ ， $\\mathrm { Q C = 0 } . 2 5 \\mathrm { A } _ { 3 }$   \n解得： $\\mathbf { b } _ { 4 } { = } { - } 0 . 6 4 \\mathrm { A } _ { 3 }$ ， $\\mathrm { B } 4 { = } 1 . 2 5 \\mathrm { \\ A } _ { 3 }$ ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle \\mathrm { Q C = 0 }$ ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "代入 $\\mathfrak { a }$ 得：",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { Q C } = ( \\mathrm { - 0 . 6 4 ~ a r c t a n } \\frac { \\sqrt { 2 } } { 2 \\sqrt { { x } ^ { 2 } + ( { y } - \\displaystyle \\frac { \\sqrt { 2 } } { 2 } ) ^ { 2 } } } { + 1 . 2 5 } ) \\mathrm { ~ \\bf ~ A } _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "$\\scriptstyle \\mathrm { Q C = 0 }$ （20",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "图4-13 显示的便是 matlab 软件模拟仿真的QE与(x，y)的关系。",
+        "page_idx": 67
+    },
+    {
+        "type": "image",
+        "img_path": "images/337685ef113977213f30c1f9d2d6a943de571fad63723080c24466d59c4b3ce1.jpg",
+        "img_caption": [
+            "图 $4 { \\cdot } 1 3 \\mathrm { Q C }$ 模型",
+            "Fig.4-13ModelQC "
+        ],
+        "img_footnote": [],
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "(4)星空模式下的画面真实感模型星空模式下的画面真实感记为TE。经过咨询和调研，本文认为，TE和观众所在地点与中心点距离D有关。由于球心为整个球幕映射点，球心处为理想点，具体D越小，画面真实感越强，即QC值越大；当D大于0.6，本文认为画面真实感差别不大。",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D } { = } \\sqrt { x ^ { 2 } + y ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T E } { = } { \\bf { b } } 5 ^ { * } \\mathrm { D } { + } { \\bf { B } } _ { 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "当 $\\mathrm { D } { = } 0 , \\mathrm { T E } { = } \\mathbf { A } _ { 4 }$ ;当 ${ \\mathrm { D } } { = } 0 . 6$ ， $\\mathrm { T E = } 0 . 4 \\mathrm { A } _ { 4 }$ ，求得 $\\mathbf { b } 5 = - \\mathbf { A } _ { 4 } \\ ; \\quad \\mathbf { B } _ { 5 } = \\mathbf { A } _ { 4 }$ ",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T E } { = \\ \\left( { - \\sqrt { x ^ { 2 } + y ^ { 2 } } + 1 } \\right) \\ \\mathbf { A } _ { 4 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T E = } 0 . 4 \\ : \\mathbf { A } _ { 4 }$ ",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ( \\sqrt { { \\bf x } ^ { 2 } + { \\bf y } ^ { 2 } } \\leq 0 . 6 \\mathrm { \\Omega } ) } } \\\\ { { ( \\sqrt { { \\bf x } ^ { 2 } + { \\bf y } ^ { 2 } } > 0 . 6 \\mathrm { \\Omega } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "图4-14 显示的便是matlab 软件模拟仿真的QE与(x，y)的关系。",
+        "page_idx": 68
+    },
+    {
+        "type": "image",
+        "img_path": "images/02b8632f918204f62f616556c50e2fc3d4b1ae7e5eb0957e937c22f6325db6bb.jpg",
+        "img_caption": [
+            "图4-14TE模型Fig.4-14Model TE"
+        ],
+        "img_footnote": [],
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "(5)星空模式下的舒适度模型星空模式下的舒适度记为TC。经过咨询和调研，本文认为，TC和人头部与视点连线与水平面所成夹角γ（如图4-15）有关。具体 $\\gamma$ 越小，即人头部",
+        "page_idx": 68
+    },
+    {
+        "type": "image",
+        "img_path": "images/a089aa994e49aaa4172215e2447bc46b8d8fbc7c8f12411dc6452873144a7522.jpg",
+        "img_caption": [
+            "图4-15 模型5中的γFig.4-15 $\\gamma$ in model 5"
+        ],
+        "img_footnote": [],
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "仰角越小，观众越舒适，即 TC值越大，记为 ${ \\bf A } _ { 5 }$ 。",
+        "page_idx": 68
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma { = } a r c t a n { \\frac { I } { \\sqrt { x ^ { 2 } + y ^ { 2 } } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 68
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T C } { = } \\mathsf { b } _ { 6 } { \\overset { * } { \\underset {  } {  } } } { + } \\mathsf { B } _ { 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "TC 中舒适度随角度递减程度与QC 中相同，因此 $\\mathbf { b } _ { 6 } { = } { - } 0 . 6 4 \\mathbf { A } _ { 5 }$ ， ${ \\bf B } _ { 6 } { = } { \\bf A } _ { 5 }$ QC= （-0.64y+1） A5;  \n$\\mathrm { Q C } = \\ ( \\mathrm { _ { - 0 . 6 4 } } a r c t a n \\frac { I } { \\sqrt { x ^ { 2 } + y ^ { 2 } } } + 1 ) \\mathrm { _ { ~ \\bf ~ A ~ } } _ { 5 } ,$ ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "模型如图4-16",
+        "page_idx": 69
+    },
+    {
+        "type": "image",
+        "img_path": "images/48d6d5c87712194fa7d93febaadd25cc2faa7841ce1cca7711e2b20c72f25383.jpg",
+        "img_caption": [
+            "图4-16TC模型Fig.4-16Model TC"
+        ],
+        "img_footnote": [],
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "(6)综合体验感模型综合体验感记为S，为了做出综合体验感S与（x，y）的关系，引入A系列参数，将以上五个模型按照一定比例加权。",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { A } _ { 1 } = 0 . 1 5 \\mathrm { A }$ ； $\\mathbf { A } _ { 2 } = 0 . 3 \\mathrm { A }$ ； $\\mathbf { A } _ { 3 } { = } 0 . 1 \\mathrm { A }$ ； $\\mathbf { A } _ { 4 } = 0 . 3 5 \\mathrm { A }$ ； $\\mathrm { A } _ { 5 } { = } 0 . 1 \\mathrm { A }$ ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "图4-17表示的是互动式数字天象厅中观众综合体验感关于坐标（x，y）的三维可视图。为了进一步根据模型进行座席区设计，将该模型进行更加形象化处理：取该模型中综合体验感最大值为 $\\mathbf { A } _ { \\mathrm { m a x } } ,$ 将大于 $\\mathrm { \\ n ^ { * } A } _ { \\operatorname* { m a x } }$ 的值提取出来利用matlab进行可视化展示，导出正俯视图，其中 $\\mathbf { \\bar { n } }$ 为系数。如图4-18表征的是体验感达到一定值以上坐标点的集合，本文认为这个集合是适合作为座席区的区域。",
+        "page_idx": 69
+    },
+    {
+        "type": "image",
+        "img_path": "images/781ec50646bdc6dee0f82c29a77327b3ed1e40d2021296316e1f9c428b580326.jpg",
+        "img_caption": [
+            "Fig.4-17 Model of comprehensive sense of experience "
+        ],
+        "img_footnote": [],
+        "page_idx": 70
+    },
+    {
+        "type": "image",
+        "img_path": "images/a103d59e20aae86c9fb2a909552a8a55dddb10e9e953e84de1967d9daeacc13a.jpg",
+        "img_caption": [
+            "图4-17综合体验感模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 70
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfee8454f859f0ff72801b3f573c497069362365f49f8573a670a59ffd50e629.jpg",
+        "img_caption": [
+            "图4-18n系数下的座席区"
+        ],
+        "img_footnote": [],
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "(7)旋转-固定座席区模型以上模型理论中，只有 $\\scriptstyle \\mathbf { \\underline { { x } } = 0 }$ 并且 $\\mathrm { y } { < } 0 . 7 1$ 上的坐标点，在两种模式下不需要进行偏转进行切换观看角度。旋转座椅与固定座椅相比，首先平均单个座椅所占空间较大，第二成本、安装难度也稍高。因此在互动式数字天象厅中应尽量避免。为此建立数学模型，将两种模式下水平偏转角差值小于某一固定值m的区域，设置为固定座椅，其他偏转角较大的区域设置旋转座席区。",
+        "page_idx": 71
+    },
+    {
+        "type": "image",
+        "img_path": "images/58bbe12e37b9875b4e8a17e9ec13a0e37f9be2562e7e6ed57d1ec053e2c83fe9.jpg",
+        "img_caption": [
+            "Fig.4-18 The seating area with different n ",
+            "图 $4 { \\cdot } 1 9 \\mathrm { m }$ 为0.5下的固定座席区",
+            "Fig.4-19Fixed seatingareaunder $\\mathrm { m } { = } 0 . 5$ ",
+            "图 $4 { - } 2 0 \\mathrm { n }$ 为0.6下的座席区 Fig.4-20 Seating area under $\\mathrm { n } { = } 0 . 6$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 71
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c3913b3b71fa51a543d42ff976ea915bf11849a89b2c895de1506a1ac0e1e60.jpg",
+        "img_caption": [
+            "图4-21叠加图Fig.4-21 Overlay"
+        ],
+        "img_footnote": [],
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "将图4-19和图4-20利用绘图软件进行重合叠加得到图4-21，其中浅红色区域设置为固定座席区；棕色区域设置为旋转座席区；蓝色区域不设置任何座席。固定座席区的座椅摆放圆心可以设置在两点之间，这样可以减少模式切换下的偏转角。",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "4.3天象厅中的座椅设计",
+        "text_level": 1,
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "在天象厅环境中，座椅的设计与其他影院设计有着很大的不同。",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "在天象厅中，人们的视野是在头顶的半球上。在普通电影院中，银幕是垂直放置，观众座席呈阶梯形，绝大部分观众保持水平视线，基本能达到观影目的。而天象厅采用半球式银幕“盖”在观众头顶的形式，为观众营造真实星空的氛围。这种表现形式同时也要求观众在观影时必须\"仰\"望银幕。因此天象厅中座椅设计应注重观众的视野设计。",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "视野是指人眼能观察到的范围，一般以角度表示。视野按眼球的工作状态可分为：静视野、注视野和动视野三类：",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "$\\bullet$ 静视野 —在头部固定、眼球静止不动的状态下自然可见的范围，如图所示。  \n$\\bullet$ 注视野 一在头部固定，而转动眼球注视某一中心点时所见的范围;  \n$\\bullet$ 动视野—头部固定而自由转动眼球时的可见范围。",
+        "page_idx": 72
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb52077322ca11623da931e203107bfe2c2c01cc2a1eca2231f7601da32cb936.jpg",
+        "img_caption": [
+            "图4-22人类视野范围",
+            "Fig.4-22Human field of vision "
+        ],
+        "img_footnote": [],
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "如图4-22，在人的三种视野中，注视范围最小，动视野范围最大。",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "人机工程中，一般以静视野为以据设计视觉显示器等有关部件，以减少人眼的疲劳。图4-22(a)为人眼上下静视野的最大范围，以视水平线为准，最大仰角为50度，最大俯角为75度，在该垂直面内的静视野最大范围角度为125度。图4-22(b)为人眼左右静视野的最大范围。就单眼而言，以视中心线为准，向内侧为60 度，向外侧为100度，在该水平面内双眼总的最大视野是200度。",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "因此在天象厅环境中人眼的水平面内动视野范围足够，而在垂直面内的动视野范围为125度，在座椅设计中应该将侧重点放在垂直面内的视野设计。本文认为天象厅中座椅设计的关键在于实现垂直面内动视野范围的效益最大化。在上文提到动视野垂直面内最大俯角为75度，最大仰角为50度。因此在天象厅中人眼的水平视线与水平面夹角至少75度，最大不超过130度为宜。在视线与水平面夹角超过90度时，人的舒适度大幅下降。结合舒适度，在互动式数字天象厅的星空模式下视线与水平面的夹角在75度至90度为合适范围。",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "根据以上理论，就会得出躺着看的躺椅是最合适的。在本文所述互动式数字天象厅除了星空模式外，还有太阳系模式，在太阳系模式中，躺着看并不能达到观影的效果。即便在星空模式下，这种方式使得人数/容积比小，空间利用率低。如今只有国外少数天象厅和车载天象厅采用这种方式。",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "在调研中发现，其他天象厅中，天象厅的建设方将注意力主要集中在画面上，座椅的设计往往被忽视。通常采取的做法，是采取座椅靠背一定程度倾斜。然而实际体验发现这种做法不能很好地解决视线角度问题，必须不时地变换方向放松颈椎，往往脖子酸疼，使得体验感大打折扣。在类似天象厅环境的球幕电影院中，设计方对于座椅本身往往更注重互动，不过球幕电影院采取大角度阶梯式座椅摆放，甚至有的球幕影院采取将球幕竖起来，观众悬在空中的观演手段，目的就是最大限度上避免“仰\"望的问题。然而在天象厅中，这种大角度倾斜阶梯和悬挂式观演的方式都不符合要求。",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "本文采用贴合后脑轮廓及高度可调节的方法解决这个问题",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "具体实施，观众头部红线部分与座椅精密贴合，蓝色部分主要受力。在普通座椅中头部的黄色部分与座椅接触与受力，导致人的水平视线与座椅靠背的夹角大致在90度左右。而在该实例中，观众的水平视线与座椅靠背呈大钝角。",
+        "page_idx": 74
+    },
+    {
+        "type": "image",
+        "img_path": "images/a12e09645b018c1d77ebbea98bd0fef5727a3ec7e064e6cbdf265c62bffe2c7d.jpg",
+        "img_caption": [
+            "图4-23新方法"
+        ],
+        "img_footnote": [],
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "如图4-23，在颈部不动的情况下，轮廓贴合座椅的设计与普通座椅设计不同。图4-23左边为普通座椅，右边为所设计座椅，普通座椅依靠座椅靠背支撑头部，而在设计座椅中依靠座椅顶部支撑头部，贴合面为颈部弧形。从图中可以看出设计座椅能提供更大的仰角，约多出45度。",
+        "page_idx": 74
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ff939a83988d21f5e9dbd2a2f2bc6634aee0cc625dbd661d1fed55a19898315.jpg",
+        "img_caption": [
+            "Fig.4-23Newmethod ",
+            "图4-24座椅原型设计Fig.4-24Seat prototype design"
+        ],
+        "img_footnote": [],
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "由于各人身高差异，颈部到臀部的距离不同，要想保证上述效果，要保证座椅坐垫部分与靠背顶部头靠部分的距离是可调节的，如图4-24。",
+        "page_idx": 75
+    },
+    {
+        "type": "image",
+        "img_path": "images/43130e6f5867c86b503a5254511a62dc1a807cafa94fbf399ef1a20022be65fb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "基于以上的对比分析，如图4-1，选择方案三，方案三中，由于坐垫垂直上下，导致坐垫后端与靠背水平距离的变化，因此座椅靠背接近坐垫的部分空出来，防止其阻挡坐垫的上下运动。实际表明靠近坐垫的靠背部分几乎甚少受力，因此这种设计不影响观众舒适度。",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "为了进一步优化原型，将坐垫进行一定的倾斜；坐垫支撑点（移动副）向后端移动，如图4-25(a)。水平的坐垫，一定角度倾斜的靠背，使得观众身体有一定向前滑的趋势，致使头部后脑处不能充分受力，颈部肌肉负担增加，因此坐垫向后倾斜设计更加符合设计初衷。倾斜的坐垫使得人身体的重心向后移动，为避免过大弯矩损害支撑与移动装置，因此坐垫支撑点（移动副）应向后端移动一定距离。在座椅靠背的负责支撑头部的部分设计成如图4-25(b)，可以很好地起到稳固头部的作用。",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 76
+    },
+    {
+        "type": "image",
+        "img_path": "images/bab7688a0552848302e862e8bdb8a3f98b6a3e6bdb7e987346bf4f97b0531214.jpg",
+        "img_caption": [
+            "图4-25改进后的座椅原型设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "在上述设计中，关键要素为：座椅靠背顶部弧度、座椅靠倾斜角；其他要素为：靠背高度、靠背长度、支撑点在坐垫中的位置、坐垫与靠背水平距离等。如图头部接触部分的曲面近似为圆弧面，在设计其中座椅靠背顶部与头部接触部分的曲面近似为圆弧面，圆弧半径略大于人头部轮廓圆弧半径。如图4-26，头部轮廓圆弧半径约在7-11厘米，座椅顶部接触面圆弧半径取值12厘米，采取软体材质，能更好地实现贴合。座椅靠背的倾角选择65度。",
+        "page_idx": 76
+    },
+    {
+        "type": "image",
+        "img_path": "images/129e087b8683aee9975e660332b4b4553acabb47b8d47425db45ff5990ba0b26.jpg",
+        "img_caption": [
+            "Fig.4-25Improved seat prototype design ",
+            "图4-26贴合轮廓半径",
+            "Fig.4-26 Fitting contour radius "
+        ],
+        "img_footnote": [],
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "4.4小结 ",
+        "text_level": 1,
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "本章首先分析了互动式天象厅中座席要求，并与传统天象厅与数字球幕电影院对比分析。然后基于分析提出了一种天象厅环境下的座席区设计方法，该方法能够兼容天象厅中的两种观演模式，以观众体验感为设计要素。将天象厅中的观众体验感分为五类，使感官体验量化，分别进行数学建模，然后将五个模型根据比重叠加，得到天象厅中体验感的综合数学模型，对其进行分析得出较优的座席区范围，以此进行座席区设计；并针对天象厅超大垂直面视野设计了一种座椅，该座椅能舒适地为观众提供较大的仰角以观看节目。",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "第5章天象厅内的天象实时再现系统",
+        "text_level": 1,
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "5.1引言",
+        "text_level": 1,
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "天文教育与科普最为有效的途径是天象厅演示和天文观测。天象厅能让观众形象地了解我们所在的太阳系甚至宇宙是什么样子，如何运转的，能够让观众接触和学习到基础的天文知识。天文观测则能可以让观众对星体进行直观地观测，所见到的景象是真实存在的，让观众能充分体验到天文之美。然而天文观测受自身硬件的限制，每次只能一个人观看，人数多的情况下，每个人观看的时间也有限。",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "若是能够将天文观测融入到天象厅中，将两者有机结合，对于天文科普与教育将是一件意义重大的事情。在天象厅这种封闭的环境中，是不可能进行直接观测的。事实上有人尝试设计将天象厅球形结构做成活动结构以方便打开进行天文观测，实用性很小，因为对球幕的完整性带来巨大的破坏。",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于互联网模式的天象实时再现系统设计，将天文观测有效地嵌入到互动式数字天象厅中，成为它另一个突出的互动特色—真实与虚拟的互动。在本章中，将阐述天象实时再现系统的原理、架构及数种可行性方案设计。",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "5.2天象实时再现系统的概述 ",
+        "text_level": 1,
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "天象实时再现系统虽然是一个全新的概念，然而所用技术并非新技术，是利用现有技术实现一个新的目标。这一节主要讲述天象实时再现系统原理、目标对象及应用基础。",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "5.2.1原理",
+        "text_level": 1,
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "如图5-1所示：",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "天象实时再现系统可分三个模块：信号采集与处理、信号控制与传输、信号输出。",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "信号采集：由望远镜、CCD、电脑组成，信号处理由连接CCD电脑完成；",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "信号传输：在局域网下完成；",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "信号输出：由另一台电脑及投影仪完成。",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "天象厅中由互动式数字天象厅中的WWT系统投影出虚拟的星空，并调节好",
+        "page_idx": 78
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba265b7c1c3a26b843d9e32ff220c93e8738f81c95b2e716bfc77153bf994d02.jpg",
+        "img_caption": [
+            "图5-1天象实时在线系统原理示意图",
+            "Fig.5-1Principle of the astronomical real-time online system "
+        ],
+        "img_footnote": [],
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "虚拟星空地平面与球幕底边的对齐。",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "两台赤道仪分别校准北极点，采集端赤道仪校准真实星空的北极点，而输出端的赤道仪校准天象厅内虚拟星空的北极点。并保证两台赤道仪在过程中，同步运转。这样，望远镜所指星空视场与投影仪所指区域相同（投影仪所投射会适当放大)，为观众营造真实的方位，真实的移动，真实的图像。",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "真实数据经由望远镜及CCD采集到电脑A中并进行一定处理，电脑A将处理后的数据由局域网传输给天象厅中的电脑B,投影仪中将电脑B中的信号投射到球幕上相对应的位置。这样，天象厅中的投影仪就成功扮演了一个虚拟望远镜的角色，成功地将天文观结果测融入到数字天象厅中。",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "5.2.2再现系统的对象",
+        "text_level": 1,
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "由于一般的天文摄影所需的曝光时间很长，所以一般的暗星不适合做实时同步直播，勉强可以几十秒一曝光传输一张图片。一般可以找些明亮的星体作为实时观测的对象，例如月球、木星、土星、金星等。这些也是观众所熟悉的一些星体。我们都知道在白天，几乎是看不到任何星星的，然而还是有可以观测和直播的对象的，那就是太阳,如图5-2。只要远程连接太阳望远镜，并设置跟踪，我们便可以在天象厅中看到放大的更加清晰的太阳了。",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "到了夜晚，可以用来观测跟踪并同步到天象厅的星体更多了。这里主要介绍可以用来实时同步的亮星。主要目标为月球、木星、土星、金星和一百多个梅西",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "耶天体，如图5-3。",
+        "page_idx": 80
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cbdf5ce8f8b0ac0ed3e7386b0fd2e8b0b485d8e4bc6fe7ed946c63911843814.jpg",
+        "img_caption": [
+            "图5-2天文观测中的太阳"
+        ],
+        "img_footnote": [],
+        "page_idx": 80
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d258625dbe299df57bcac71d1163b4128b5bd8c2782a0bf67733ce0ac047212.jpg",
+        "img_caption": [
+            "Fig.5-2The sun in astronomical observation ",
+            "图5-3适合作为实时再现的目标",
+            "Fig.5-3 The targets suitable as a real time representation "
+        ],
+        "img_footnote": [],
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "5.2.3天象实时再现系统应用基础 ",
+        "text_level": 1,
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "建设天象厅的学校或天文馆等机构，一般都会拥有一座自己的天文台。本文以此为前提提出数字天象厅中的天象实时再现系统设计。这是天象实时再现系统的设计初衷，也是灵感触发点。这类机构通常都会有自己的大型局域网，这样提供了良好的信号传输硬件条件。",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "在已有天文台的前提条件下，要想建设或者改造搭载天象实时再现系统的数字天象厅，仅需要一定配置的电脑、赤道仪、投影仪、视频采集卡等硬件即可，这部分造价相对低廉，几万元就可以解决。它就可以将天文台中天文望远镜中的观测数据实时地在天象厅中的虚拟星空中再现出来，再现的天象在虚拟星空的相对位置和移动都基本正确。",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "首先，建设或改造搭载天象实时再现系统的天象厅必须是中央位置闲置的天象厅。要想在天象厅中实时再现天文望远镜观测的数据，那么负责投影数据的投影仪必须放置于天象厅中央，只有这样才能保证投射的天象的位置和移动与真实保持一致。当然如果想在其他位置固定投影仪，理论上是可行的，不过需要计算位置差导致的投影变化，然后写进程序以矫正投影中心位置及其运动，完成后还得对投影画面进行矫正，因为只有从中央投影的画面才没有扭曲。实际操作起来，可能有更多的未知问题。因此在本文中，天象实时再现系统中的安装有投影仪的赤道仪放置于天象厅的正中央。而实际中，所有的机械·光学天象厅都是采取中央天象仪式，因此传统的天象厅几乎不能改造搭载该系统；在数字天象厅中，基于中央投影方案的天象厅也是不能融合该系统模块的。",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "第二，对于适合该系统模块的天象厅直径也有着一定的要求。过小直径的天象厅中融合该系统模块，突出问题突显在两点：投射效果和观演效果。在实际实施中投影仪中心与天象厅球幕中心完全重合是很难做到的，因此会有一定的误差，天象厅直径越小，这种误差反映在球幕上的错位也就也明显。在传统机械·光学天象厅中，天象仪放于中央，天象仪中的球心与球幕球心重合，因此部分观众会因为天象仪的存在而影响部分视野，这种现象距离天象仪越近越明显。在这里同样的道理，距离中心投影仪较近的观众会感到投影仪遮挡了部分视野，而在小直径的天象厅里，座位只有2到3排座，因此大部分观众都受到影响。当然，投影仪体积与光学·机械天象仪相比要小得多，因此遮挡的影响与传统天象厅相比要少的多。本文建议，融合该系统模块的天象厅直径最好大于10 米。",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "第三，为了更好的效果，该系统模块引入望远镜控制。如今，大部分的望远镜赤道仪或者地平仪都自带着控制功能。这为本文望远镜与投影仪的运转与同步带来便利。有了望远镜控制功能，不仅可以保证同步性能，而且还可以进行“星空扫描”。同步性能可保证被测星体始终在投射画面中；而\"星空扫描\"则可以让投影仪在虚拟星空中循着一定的轨迹划过，所到之处便会显现真实星空。让观众体验到寻星的乐趣。",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "5.3方案设计与对比及硬件组成、选型",
+        "text_level": 1,
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "基于上节中对于原理的分析，本节作出三种实现天象厅中的实时再现方案，",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "并进行对比分析选择一种；提出方案中对于硬件的基本要求；并通过实验证明方案可行性。",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "5.3.1方案设计与对比",
+        "text_level": 1,
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "方案一：远程登录",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "要想将一台电脑上的画面传输到另一台电脑上进行投影，可选的技术之一便是远程登录，使自己的计算机暂时成为远程主机的一个仿真终端。仿真终端等效于一个非智能的机器，它只负责把用户输入的每个字符传递给主机，再将主机输出的每个信息回显在屏幕上。远程登录为用户提供了在本地计算机上完成远程主机工作的能力。",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "在该方案中，如图5-4，电脑A负责接收来自CCD的数据和控制赤道仪A的运转；电脑B远程登录电脑A，将电脑A的实时桌面映射到投影仪中。由于电脑B仅作为电脑A远程登录的伪终端，不具备控制赤道仪B的能力。因此在该方案中，赤道仪B的控制由其设备终端设置完成，两台赤道仪的同步由赤道仪控制精度保证。",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "K 久 ",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "方案二：局域网传输",
+        "text_level": 1,
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "在该方案中，如图5-5，电脑A负责接收来自CCD的数据和控制赤道仪A的运转；电脑B负责投影仪的图像源和控制赤道仪B。电脑A、B分别运行赤道仪控制客户端，在电脑B进行两台赤道仪的控制，具体实施：为了达到同时控制两台赤道仪的目的，设置不同端口，实现电脑A、B上客户端的通信，最终实现赤道仪的同步控制。编写一个小程序将电脑A的数据通过局域网实时传输给电脑B，然后投影到球幕上。",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "万 人",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "方案三：软件升级",
+        "text_level": 1,
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "上述是该系统模块的硬件方案设计，下面详述天象实时再现系统的软件方案设计。本文所述互动式数字天象厅数字系统是基于WWT完成的，本文提出一种基于WWT的天象实时再现系统设计，将该系统模块直接融入到数字系统和投影系统中去。",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "赤道仪反馈位置信号、连接望远镜的CCD反馈图像数据信号。该部分与上述硬件方案相同，这两类信号传输给WWT数字系统中的主控子节点。根据赤道仪反馈的赤经赤纬然后与WWT的坐标系统进行变换，然后将图像信号经由纹理贴图贴到正确的位置。然后再由投影仪系统投影到球幕。",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "WWT是一款开源的软件，可以对其进行二次开发。WWT中的深空图像来自哈勃等著名望远镜真实拍摄，这些图像在WWT中的展示，便是根据真实的位置信息，将它们纹理映射到虚拟星空的对应位置与角度，适当的尺寸进行展示。而且WWT刷新的速度最高能达到60帧／秒，满足帧率要求。甚至可以将视频流窗口嵌入到系统场景中，实现实时再现，这样仅需要对图像窗口进行位置和角度变化，而无需对图形信号进行处理。",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "以上三种方案进行对比分析表5-1:",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "方案三各方面优势明显，然而实现难度偏高，需要对WWT进行一定程度的二次开发，方案一是门槛最低的方案，然而同步性能和稳定性一般，而且在网络远程时，安全性能低。综合分析，方案二是",
+        "page_idx": 83
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ce1d059109023b2b00164086203f8d9c6bc0ae84d7bd0aa6717068b13224beb.jpg",
+        "table_caption": [
+            "表 5-1三种方案综合对比",
+            "Tab.5-1 Comprehensive comparison of the three schemes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方案</td><td>实现难 度</td><td>同步性能</td><td>稳定性</td><td>远程</td><td>占据空间</td></tr><tr><td>方案一</td><td>低</td><td>较低</td><td>一般</td><td>安全性能低</td><td>占据厅中央</td></tr><tr><td>方案二</td><td>中</td><td>高</td><td>高</td><td>中</td><td>占据厅中央</td></tr><tr><td>方案三</td><td>高</td><td>高</td><td>高</td><td>中</td><td>完全不占据天象厅额外 空间</td></tr></table></body></html>",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "目前较好的方案，选择方案二。",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "5.3.2硬件组成与选型",
+        "text_level": 1,
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "就方案二的设计进行硬件组成和选型的分析。",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "天象实时再现系统硬件组成主要包括两台电脑、一架望远镜、CCD（带有USB 接口）、两台赤道仪（或地平仪）、一台投影仪、视频采集卡、另外具备良好的网络环境。",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "由于过程中对计算机的计算能力、数据吞吐能力有较高的要求，所以在条件允许的情况下尽量选择配置较高的CPU、2G以上内存的配置。如在编码过程中希望保存所采集的数据，还要保持有相当容量的硬盘空间。",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "本系统对天文望远镜的基本要求为：具有相当分辨率和良好光学性能，能够进行高精度跟踪，并能配置不同滤光片以适应不同观测目的。根据观测目标的不同特点，还需对望远镜与终端进行不同的搭配。作为参考，已经试验成功的一套系统中，望远镜为一台米德LX90折反射望远镜（或一台威信ED103折射望远镜）。",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "对采集终端CCD的要求是：较高的灵敏度，较低的噪声，较大的CCD芯片幅面，以及尽可能小的自重，最好带有USB输出，便于连接电脑。CCD是一种能够把光学影像转化为数字信号的半导体器件。CCD上植入着很多的微小光敏物质像素(Pixel)。一块CCD上包含的像素数量越大，那么它能提供的画面分辨率就越大。CCD上有许多排列整齐的光电二极管，能够感应光线，并将光信号转变为电信号，然后再经过外部的采样放大及模数转换电路转换为最终的数字图像信号。改装的监控用彩色摄像头一定程度上也可以替代专业CCD，效果稍差。用于本文的CCD及与望远镜连接如图5-6、图5-7。",
+        "page_idx": 84
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d0d1cc8ef753a2392d2a544d5c09a54609dca996fa00cb931654688464e8f02.jpg",
+        "img_caption": [
+            "图5-6带有USB接头的CCDFig.5-6 CCD with USB connector"
+        ],
+        "img_footnote": [],
+        "page_idx": 85
+    },
+    {
+        "type": "image",
+        "img_path": "images/52c371f108f887f47d6fd33c996e75e80dd922a747a097eccff010d69bba0c36.jpg",
+        "img_caption": [
+            "图5-7CCD与望远镜的连接 Fig.5-7 CCD connection to the telescope "
+        ],
+        "img_footnote": [],
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "赤道仪(如图5-8)是为了改进地平式装置的缺点而诞生的。使用它的主要目的就是克服地球自转对观星的影响。由于地球自转，星星才产生东升西落的现象。地球不断自转，24小时转360 度，设计出一个装置，让望远镜转动的角速度和地球一样，而方向正好相反，就可以消除地球自转的影响了，这就是赤道仪。目前带有导星系统的地平仪也可以实现实时追踪目标，而赤道仪结构复杂，同样规格的赤道仪价格是地平仪的数倍。除了方案一中的厅内的推荐使用赤道仪外，其他在该方案中采取使用带有导星的地平仪。在赤道仪或者地平仪选择上选择支持ASCOM通信协议的型号。ASCOM是Windows平台下一个免费开源的天文接口标准，为第三方设备驱动开发提供丰富的模板和技术支持，很多天文软件如MaxImDL、CCDSoft、SkyMap、WWT 等都支持该标准。通过在软件和硬件之间引入ASCOM 驱动，一方面任一应用程序都可以通过ASCOM 的标准调用对应设备的驱动，同时对于新研制的设备，只要按照ASCOM的标准要求开发适合自己设备的ASCOM驱动就可以供其他应用程序调用。所选赤道仪或地平仪应支持ASCOM通讯协议。",
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "投影仪的选择与天象厅中球幕投影系统的投影仪的选择标准稍有不同。首先是亮度要求，要想在已有虚拟星空画面的球幕上突出显示实测天体，好的办法便是提高亮度，因此在投影仪选型上选择亮度相对投影系统中机器更高的。第二，要尽量选择投射比大的，因为在球幕半径的距离上，投影的画面是相对大的，太大的目标显示在球幕上会让观众不舒服，因此选择投射比较大的。第三，尽量选择镜头偏移小的，最好是0度镜头偏移。这样在投影仪与地平仪或者赤道仪连接时就就不用做特殊设计。最后在该系统中投影仪固定在赤道仪上跟随移动的，因此应选用允许该情况的投影仪，经过相关咨询，激光投影仪适合该类情况，可选择激光投影仪。此外，投影仪中心所在方向与虚拟望远镜所指方向相同。要求连接装置具有高度角可调，这是为了调节投影仪中心投影方向与赤道仪所指方向相同。",
+        "page_idx": 85
+    },
+    {
+        "type": "image",
+        "img_path": "images/1317663fd804010d3adaca299c6932a75ceec3ef39d564f800af58d5d59f92b9.jpg",
+        "img_caption": [
+            "图5-8赤道仪Fig.5-8Equatorial"
+        ],
+        "img_footnote": [],
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "5.3.3天象实时再现实验 ",
+        "text_level": 1,
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "本小节主要通过实验验证方案二中的可行性，主要应用视频实时传输技术及望远镜实时控制技术，这两项技术现已经较为成熟。本实验采取的设备均采用手头已有设备作为实验使用，与上述推荐的实际应用设备型号不完全相同。",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "实验目的：",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "(1)局域网内，计算机与计算机之间摄像头所采集视频实时传输；(2)局域网内，由一台计算机同时控制所连赤道仪及局域网内另一台计算机所连地平仪，并联动。",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "实验设备连接如图5-9：",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "实验结果如图5-10,实现了计算机与计算机之间摄像头所采集视频实时传输，以及由一台计算机同时控制所连赤道仪及局域网内另一台计算机所连地平仪并联动的目标。",
+        "page_idx": 86
+    },
+    {
+        "type": "image",
+        "img_path": "images/48f08ebd2950044c41d7f00ced820aac6c968af6d19f4aeb30d050680809e614.jpg",
+        "img_caption": [
+            "Fig.5-9 Experiment equipment connection "
+        ],
+        "img_footnote": [],
+        "page_idx": 87
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb9cfa143313482ae93ba7f4e51fc5b050ab7333dae872554fcdda3558e7f66a.jpg",
+        "img_caption": [
+            "图5-9实验设备连接",
+            "图5-10实验Fig.5-10Experiment"
+        ],
+        "img_footnote": [],
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "分析：实验中，使用显示器代替投影仪，效果相同。望远镜控制精度由赤道仪（或地平仪）自身精度及控制软件算法相关，能自身保证要求；传输和控制的实时性一定程度上取决于局域网的网络情况，本系统面向科普教育，一般情况下局域网的网络能保证要求。本实验的成功证明了方案二在实际天象厅与天文台中的可行性。",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "5.4小结 ",
+        "text_level": 1,
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "本章设计了一种互动式数字天象厅中的天象实时再现系统。该系统包含天文",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "数据采集、数据传输、天文望远镜控制及同步，充分利用天文台资源实现了真实星空数据在互动式数字天象厅中的实时同步。",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "第6章互动式数字天象厅相关技术及实现",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "6.1引言",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "在前几个章节中讲述了互动式数字天象厅设计的各个主要部分，在这个章节中主要阐述在互动式数字天象厅集成设计与工程实践中遇到的技术问题及解决方案。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "6.2球幕 ",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "天象仪球幕的尺寸可以从3米到30米，容纳的人数从1个人至500人不等。它们可以是永久固定式的，也可以是可携带的，取决于当初的设计。运用于天象厅的球幕种类繁多，主要有以下各类。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "(1)便携式充气球幕的结构可以在几分钟内展开，这种球幕的构造通常用于行动式的参观，例如学校和社区中心的天象仪。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "(2)负压充气的穹顶结构适用于半永久性的场所。它们使用风扇从球幕后面的表面抽取空气，利用大气压力使它保持正确的型状。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "(3)较小的永久性天象馆球幕经常是使用玻璃纤维强化塑胶建造。这是种价格便宜，但是做为投影表面时不仅会反射光线也会反射声音，这种型式球幕内部的声学会减损它的实用性。因为空气不能通过，对有着大量观众的天象馆，这种固态的球幕也存在着散热和通风的问题。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "(4)最现代的天象馆使用背后有骨架结构支撑的铝板，做为球幕的铝板很容易就可以在上面打出数千个小孔。这就减少了反射至观众的声音（提供了较佳的声音特性），让声音可以透过球幕后面的音响系统投射（使声音似乎来自与其相关的方向），并且允许空调系统的气流能经由投影表面的小孔流通。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "在天象厅观看体验的现实性取决于影像的动态范围，也就是黑暗和光亮的对比。这对任何一个半球形的投影环境都可说是一种挑战，因为在球幕的一侧投射出明亮的影像，会将光线反射至另外一侧，\"提升\"黑暗水准使整个的影像看起来失去真实感。因为传统天象仪的演示主要是在黑暗的背景上显示出小光点（也就是恒星），这还不是一个重要的问题，但是数字投影系统开始用明亮的物件填充了球幕的大部分，这就成了一个大问题（例如，在出现太阳的巨大影像前后）。因为这样，现代的天象厅球幕通常不会绘画成白色，而宁愿使用中灰色，使反射率降到只有 $3 5 - 5 0 \\%$ 。这会增加对比度和感知的水准。",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "球幕的另一个挑战是要使接缝尽可能的消失于无形。本文所述接缝主要是指铝板拼接所产生的缝隙。天象厅半球大的银幕在目前的技术水平很难实现整个铝板一次成型运输及安装。因此在铝板充当银幕的设计中，通常是很多块铝板现场拼接而成。",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "在球幕中的每块微孔铝板理论上应该是曲率一致的球面，这样才能完美地拼接出所要设计直径的球幕。国外知名企业Spitz公司所提供的球幕通过木质球面模具轧制而成。这也是国内外大型球幕生产商主流的工艺。这样能够保证球幕整体的完整性及良好的视觉效果。然而这样的生产工艺成本极高。客户对球幕直径的大小一般都是根据自己建筑专门定制，所带来的问题便是模具的可重用性。定制客户所需的直径大小的球幕，便意味着一次开模，价格自然昂贵，国内只有大型的天文馆、科技馆才有这样的购买力。为了迎合低成本球幕市场，国内大多企业的做法是直接制作平面的微孔铝板进行拼接。这样做虽然降低了成本，然而带来的便是节目播出中由于平面拼接所带来的画面违和感，这种问题在中小直径球幕中尤为突出。",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "针对现有的微孔铝板加工成本与所带来的视觉效果问题，本文提供了一种多曲率球幕微孔铝板预校正装置设计，该装置通过步进电机装置及控制系统的作用实现对微孔铝薄板进行一定程度的球面预校正。",
+        "page_idx": 91
+    },
+    {
+        "type": "image",
+        "img_path": "images/2362d703de70376b08a56a4fa1dbc65040f0db92eff229023796c6b2796923f2.jpg",
+        "img_caption": [
+            "图6-1多曲率球幕微孔铝板预校正装置"
+        ],
+        "img_footnote": [],
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "1、下支撑结构，2、下方电动推杆，3、目标微孔铝薄板4、上支撑结构，5、上方电动推杆",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Fig.6-1 Multi curvature spherical screen micro hole aluminum plate pre correcting device ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "6、定制橡胶头，7、橡胶头固定结构，8、球面副结构，9、推杆，10、推杆外壳，11、光轴导轨，12、直线位移传感器，13、行星减速器，14、步进电机，15、石墨润滑铜轴套，16、丝杠，17、丝杠螺母，18、角接触轴承。",
+        "page_idx": 92
+    },
+    {
+        "type": "image",
+        "img_path": "images/196e94423340de82341cab81f2e420b867f06a4663bec32ef22eb9ea021959ed.jpg",
+        "img_caption": [
+            "图6-2预校正装置中主要零部件",
+            "Fig.6-2 Main parts in pre calibration device "
+        ],
+        "img_footnote": [],
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "在具体实施例中，输入需要校正的球幕的直径，控制系统会根据输入分别计算出上下共200个电动推杆所需移动的垂直高度（在直径较大时，选择由电动推杆直接形成球形弧面，如图6-1；在直径较小时，选择形成锥形弧面，避免明显的局部变形)。通过每个电动推杆(如图6-2)上的直线位移传感器对所走的高度进行反馈形成闭环控制，严格控制误差。每个电动推杆完成动作后，上下各形成细微的凸、凹状。将要进行预校正的微孔薄铝板3放置在下方装置上。然后通过控制系统使得上方装置缓缓下降到一定高度对薄板校正，一定时间后，上升上方装置，取出薄板，完成。控制系统默认一次预校正，可设置为多次，对薄板进行渐进变形，步骤相同。",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "6.3互动式数字天象厅内的声学设计与处理",
+        "text_level": 1,
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "传统的天象厅是不需要声学系统的，仅可能会因为扩声需要，安装几个扬声器和话筒。在本文中的互动式数字天象厅在星空模式下对声学系统也并无太大依赖；不过在漫游节目中为了达到理想的效果则需要一定的立体声效果；此外互动式天象厅兼具播放普通球幕影片的功能，也需要立体声进行渲染。",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "互动式数字天象厅内的强烈沉浸感不仅来自球幕画面的立体感，还需要良好的环绕立体声系统加以渲染才能使互动式数字天象厅的沉浸效果更加突出。",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "6.3.1互动式数字天象厅的声学设计",
+        "text_level": 1,
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "球幕影院的声学条件与音乐厅或剧院声学条件具有同等重要的地位。影院的声学条件越靠近环绕声录音机房的声学条件越好。好的声学条件首先要具有最佳混响时间。混响时间是录音室内声学最重要的物理量,也是表示声源在房间内响亮程度的量。混响时间是房间内声压级衰变60dB所需的时间,单位是秒。混响时间对音质有很大的影响。混响时间短,有利于听音的清晰度,但过短则会感到声音干涩和响度变弱;混响时间长,有利于声音的丰满度,但过长则会感到声音分辨不清,降低了听音的清晰度。因此,恰当的选择和确定混响时间是十分重要的。对于互动式数字天象厅,它的混响时间的长短应当根据球幕影院的大小来决定,通常23米级立体声球幕影院混响时间为0.6-1.2秒,10米级立体声球幕影院室内混响时间的理想设计值为0.4秒。球幕影院声场的分布是声学设计极为重要的一项指标,它要求观众厅的声级覆盖面要均匀,尽量避免声聚焦现象的出现,以免造成前几排声音大,后几排声音小,或者是某个区域大,某个区域小。其次,在穹顶银幕后墙壁也要进行声学处理,防止声反射来干扰直达声,降低声音的清晰度。特别是银幕后面的几组扬声器,必须放置在牢固地方,避免微小的晃动,并且在扬声器下面也要放些减震材料,防止产生共振损坏扬声器。千万不要用铁架子放置扬声器,这样在声压级大时,铁架子也会动起来,.会产生一种金属声来影响扬声器的音质。为了配合电影画面的需要有时得把音箱的音量开的足够大,这是一个关键的问题。在播放5.1声道或其它频率范围在 $2 0 { \\cdot } 1 2 0 \\mathrm { H z }$ 的5声道作品时,每一段的增益应大约掌握:在 $+ 1 0 \\mathrm { d B }$ 。在球幕电影数字立体声系统中,以很大的音量重放重低音的声音只可能在安装了大监听音箱的录音间才能实现。相应的,除了要有良好的环绕声环境外，隔声处理也就不可忽视了。采用\"房中房\"结构,隔声效果令人满意。观众厅的响度、清晰度、自然度、丰满度是衡量电影院音质效果的主要技术指标。一般响度要求声压级要达到80-85dB。85dB 时频响比较平直,声音听起来较为悦耳舒服,也是观众最理想的听觉响度。",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "6.3.2声学处理",
+        "text_level": 1,
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "弧形、弯形、球形等较大曲率的面都存在着明显的声学缺陷,在天象厅这种半球和圆柱形的环境中，这种声学缺陷尤为明显。因此必需采用一些特殊声学处理,要重量轻、吸声强、具有散射特性等以减少圆柱形墙面和半球圆顶的聚焦和爬行效应,同时还要控制天象厅的混响时间。",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "如果天象厅中不做任何声学处理，那么这类厅中的空场混响时间相当之长，其低频100-200 赫兹长达20s,中频 500-1000Hz也有8-10s。如果搭载的是5.1声道及以上环绕立体声系统,则最佳的混响时间要比一般电影院要更短。我们的天象厅应选择0.55s左右为宜,以保证声音清晰,而又达到立体声效果。鉴于厅的混响时间要求高,我们需要增添大量吸声装置或材料。球顶是厅内最大可处理的表面。壳体一般由足够数量的小块铝板拼接而成。为保证观影质量，铝板表面是不允许做普通的吸声喷涂。",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "可采用以下措施，将铝板均匀打小孔，在铝板的背面粘贴2cm厚的灰黑色阻燃泡沫塑料,以取其质轻和可粘性。为了观影质量,半球的银幕区,必须喷涂特定的涂料使其呈现灰白。这种泡沫塑料的吸声性能是随频率而增加的。半球内表面的涂料凝固后会形成一层结膜,,其对低频吸声则有较大增加,而在 1000 赫兹以上则大幅下降。透过半球上微孔铝板小孔后的高频会被其背面粘贴的泡沫塑料大幅吸收，低频则直接会被结膜大幅削弱，两者的吸声特性有了全频率的互补效果。",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "地面吸声分为两部分处理。站立的观众席采用约 $1 1 0 \\mathrm { m m }$ 阻燃地毯,下面加铺泡塑料垫层,行走舒适,吸声效果也略有提高。",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "6.4投影仪固定装置",
+        "text_level": 1,
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "在第三章节中提到球幕环境需要多台投影仪共同覆盖整个标准半球，相邻投影仪投射画面之间的关系应力求精确，这由投影仪的安装固定提供保障。因此天象厅环境中投影仪的安装固定在投影拼接中显得重要。不稳定的固定方式即便投影拼接时达到预期效果，随着时间流逝，投影仪的位置和角度也会发生微小的变化，使得整个画面出现缝隙、重影等不完整现象。根据第三章第二节中投影仪安装角度参数主要包括摆角和俯仰角。本文调研了市场上各类投影仪固定装置，经过理论分析或者实际测试，绝大部分在承重、精度、稳定性、可调节性等综合方面不能很好地满足要求。在调研其他大型数字天象厅时，这些厅中的投影仪体型较普通投影仪大，投影仪固定装置也较为复杂。基于以上调研和需求分析，本文设计了一种天象厅中的投影仪固定装置。其主要任务是在安装时，结合投影设计的参数，能在垂直和水平面实现投影仪的一定程度的转动，并能稳固地固定，安装后长时间保持其姿态。",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "如图6-3，投影仪在底部都会有四个螺纹孔，一般为6mm直径，投影仪与钢板1通过四个 $6 \\mathrm { m m }$ 螺栓及垫片螺母固定；钢板1与钢板2通过侧边的铰链相连，实现投影仪俯仰角的调节；钢板1与钢板2如图分别有两个螺纹孔，在调整完毕后通过两个螺栓及垫片、四个螺母固定钢板1与钢板2之间的夹角从而固定俯仰角；钢板2与钢板3中央靠后位置分别有1个螺纹孔，通过螺栓连接钢板 2和钢板3，实现投影仪摆角的调节；钢板2前端有弧形槽，摆角调整完毕后通过螺栓固定钢板2与钢板3；钢板3的前端与侧边分别装有水平仪；钢板3与2cm厚橡皮垫通过四个螺栓连接到底座。",
+        "page_idx": 94
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5ff4ddc0d4fc058b20dcd64e9d4b54602c7f9d155f6e5530b7d39e4e22e35b9.jpg",
+        "img_caption": [
+            "图6-3用于天象厅投影仪调节及固定装置",
+            "Fig.6-3 Device for the projector adjusting and fixing in planetarium "
+        ],
+        "img_footnote": [],
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "其中，采取 $2 \\mathrm { c m }$ 橡皮垫，一方面是为了减震。据分析投影仪位置、角度的移动和改变主要来自外界震动和自身固定装置由于受力导致的微小变形。橡皮垫材质一定程度上能起到减小来自底座的震动。另一方面底座一般不能实现水平放置，为了实现钢板3的水平，在安装钢板3时，通过分别拧紧位于四个角落的四个螺栓的方式，依据钢板3上的两个水平仪来实现钢板3基本处于水平位置。为了减少螺栓的受力，投影仪与钢板1的固定时，尽量将投影仪重心处于铰链上方，以减少因受力变形带来投影仪仰角减少的可能性。钢板2的弧形槽以另一个螺纹",
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "孔为圆心。",
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "6.5与现有数字天象系统的兼容方案设计",
+        "text_level": 1,
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "互动式数字天象厅除了可以在学校此类低成本的中小型厅中建设外，还可以对天文馆、科技馆此类高大上的数字天象厅进行改造或者兼容。为了实现互动式数字天象厅更好的可推广性，更强的实用性，基于对国内数字天象厅调研的基础上，本文提出一种可扩展的技术方案，实现现有数字系统与互动式天象数字系统的无缝融合。这种融合方案对现有的硬件无需大的改造，仅需加入一个新的模块。",
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "以某天文馆六通道投影为例，如图6-4是服务器与投影仪阵列的连接关系，一共6台服务器和6台投影仪，各自分别连接。以此为兼容前提条件，为了兼容互动式数字天象系统，我们需要6台图形工作站和一个12进6出的切换器及12根信号连接线，如图6-5。将原有的6根信号连接线接在切换器的输出端；将服务器组6路输出和切换器输入端的A组6个端口依次连接；将图形工作站的6路输出与切换器输入端的B组6个端口依次连接。",
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "如图6-6中标识方框中便是新增加的部分，其他便是原有的部分。从中可以看出兼容方案对现有的硬件几乎无改造。",
+        "page_idx": 96
+    },
+    {
+        "type": "image",
+        "img_path": "images/60af7c4566cab59de0cee6c565923ca941828169aa642ec9c45da5e346a5d86b.jpg",
+        "img_caption": [
+            "图6-4数字天象厅中投影系统设备连接示意图 Fig.6-4 Device connection of projection system in digital planetarium "
+        ],
+        "img_footnote": [],
+        "page_idx": 96
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a0108d3812f44f7bcad971409a4522057bc1e29a24f0ae7067ff845ea55d5e6.jpg",
+        "img_caption": [
+            "图6-5数字天象厅兼容方案示意图Fig.6-5Digital planetariumcompatible solution"
+        ],
+        "img_footnote": [],
+        "page_idx": 97
+    },
+    {
+        "type": "image",
+        "img_path": "images/a15ac3d8f6224a9241ea2ed28414bf6c591d90d8f1adffe73462707d1b4f5774.jpg",
+        "img_caption": [
+            "图6-6用于六通道数字天象厅改造的切换器示意图 Fig.6-6 KVMfor the six channel digital planetarium transformation "
+        ],
+        "img_footnote": [],
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "如图6-6便是切换器，切换器是一种控制输出的信号或者数据的设备。",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "在方案中，使用现有数字系统时，接入A组输入，即服务器组输入；要想切换到互动式天象数字系统，将接入B 组输入，即图形工作站组输入。两套系统画面的切换，只需要切换器的一个按钮便可实现。",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "在第三章中涉及互动式数字天象厅中的投影系统，详细叙述了各类投影方案设计与投影拼接。现今其他类数字天象厅中的投影方案基本满足互动式数字天象厅中的投影拼接基本要求。因此在输入切换顺利完成后，无需对投影仪位置进行任何变动，我们要做的就是基于现有投影仪投射画面进行投影拼接。该方案中，两套数字系统运行于不同的硬件——服务器组和图像工作站组，因此无需担心其互相干扰的可能性，从根本上保证了原有数字系统的稳定性能。",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "该兼容方案设计为互动式数字天象厅走进高端市场开辟了一条新的途径。",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "除了以上增加硬件模块的方案外，本文基于对WWT的分析及目前球幕电影的制作过程的咨询，实现了一种基于WWT漫游制作视频格式的球幕节目的方法，达到了WWT漫游节目在其他数字天象厅及数字球幕电影院中的播放。",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "同数字电影类似，WWT漫游是一种方便交流的片源。通常在交流WWT漫游时，一种是拷贝.wtt文件，然后在连接互联网的情况下反复播放该文件，使得节目中资源得到充分加载。因为WWT的资源绝大部分来自线上的后台数据文件，拷贝的.wtt并不包含播放漫游所有的数据文件，根据其中的索引去互联网下载相应数据并加载。另一种方法便是拷贝.wtt 漫游文件的同时拷贝一份离线数据包，内包含该漫游所需的数据文件，该方式所交流的数据量较大。WWT漫游在WWT平台中的表现形式与普通的电影类似，然而其格式并不是普通的视频格式，是一种后缀名为.wtt的文件，只能在WWT软件中运行。",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "为了实现漫游格式的转换，可以在一台PC上运行WWT并全屏播放漫游文件，同时使用录屏软件进行桌面录屏。录屏是最为直接的方式。该方法中，目标整体分辨率与PC的显示器件直接相关。据调研，目前市场上最高分辨率显示器为4K 显示器，尽管部分厂商发布8K甚至10K的产品，然而暂时并没有上市。若选择4K显示器件录屏。经过计算，这种方案所得球幕影片分辨率与1080P 相当。",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "除此之外，WWT漫游播放有着自己的帧率，而且可以调节，一般为30，最高可设为60。WWT具有漫游帧图像导出功能，导出每帧的图像，原理上同录屏类似，然而这种方式在流畅度和清晰度上超过一般的录屏方式，在分辨率上能达到8K级，如图6-7。该方法需要后期渲染及配音。",
+        "page_idx": 98
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf07703ffff7f7ba14592ff15c1b2639f7df571352bd7c47250400b815182931.jpg",
+        "img_caption": [
+            "图6-7WWT漫游导出功能 Fig.6-7 WWT tour export function "
+        ],
+        "img_footnote": [],
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "通过该方法，最终使得仅能运行在WWT中的漫游能够在其他数字天象厅及数字球幕影院中放映，虽然不能进行互动式演示，然而为节目源问题得到一定的缓解。不仅如此，由于其稳定性，该方案在互动式天象厅中也有着一定的应用价",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "值。",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "6.6互动式数字天象系统应用成功案例",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "目前，互动式数字天象厅系统不仅仅停留在研究设计的阶段，已成功应用于两处学校天象厅及一处展厅。",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "6.6.1小型厅案例设计 北师大天象厅",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "北京师范大学互动式数字天象厅原本为天文台，因设备老旧，再加上近年来北京适合天文观测的时间并不太多，因此进行了天象厅改造。根据预算、室内空间大小等综合因素，最终确定采取单通道系统设计方案。如图6-8，整个空间采取密闭措施，防止室外的光线影响节目效果。采取将控制台、讲台、机柜一体化的设计，将图像工作站、显示器、投影仪、功放等设备集中安装固定在机柜中，如图中央位置黑色机柜。采取沙发圆周布置，定制的沙发能提供给观众大的仰角。采取2.1立体声技术，左右扬声器分别悬挂于球幕下方相对位置，略微向下倾斜，使得声场尽可能覆盖均匀。投影仪采用的是索尼F420HZ，3LCD投影仪，激光光源技术， $1 9 2 0 \\times 1 2 0 0$ 分辨率，3000流明，3000：1对比度（该投影仪在当时是激光投影仪中为数不多的选择)，另定制180度鱼眼镜头。球幕直径4米。目前系统及各类设备均运行良好。",
+        "page_idx": 99
+    },
+    {
+        "type": "image",
+        "img_path": "images/1321d8e2c84baf38f524e27847b60b03993c309cfa428e9aa27de36c6a239f97.jpg",
+        "img_caption": [
+            "图6-8北京师范大学互动式数字天象厅"
+        ],
+        "img_footnote": [],
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Fig.6-8 BeijingNormal University interactive digital Planetarium ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "这种单通道的系统成本低廉，然而却有着互动式数字天象厅应有的功能，尤其适合小型厅建设及该类天文圆顶改造天象厅。",
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "由于精力有限，并未对全国天文台数量进行详细统计，全国拥有天文台的中学数量是巨大的，其中相当部分天文台处于荒废状态。若是能改造为互动式数字天象厅，天文教育与科普的质量和程度将提升一个阶层。因此，该案例的成功实施意义重大，为天象厅的建设开创了新的方向。",
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "6.6.2中型厅案例设计——石新路小学互动式数字天象厅",
+        "text_level": 1,
+        "page_idx": 100
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c38b2bd9c543fbca820660ed0d0ceb350dff6fb055753d7b7b6f7345e4a85be.jpg",
+        "img_caption": [
+            "图6-9重庆石新路小学互动式数字天象厅"
+        ],
+        "img_footnote": [],
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "Fig.6-9 Chongqing Shixin Road Primary School of interactive digital Planetarium ",
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "图6-9(a)、(b)为重庆石新路小学互动式数字天象厅，该厅拥有8米直径球幕，采用六通道WWT数字系统，具体底边采取四台投影仪均匀分布，顶上使用两台投影仪相对的位置，共用了6台投影仪，每台投影仪4500 流明亮度， $1 9 2 0 { \\times } 1 0 8 0$ 像素，整体分辨率达到4K。整体采取圆周向座椅摆放，两圈不完整的同心圆，缺口处设置过道，同样采取沙发作为座椅，该沙发能为观众提供较大的仰角，增加舒适度。",
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "6.6.3展厅案例设计 “互动式数字天象厅原型展示”",
+        "text_level": 1,
+        "page_idx": 101
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c85d21fa471202ac5032b7d9d1c1d767bff6f770cbaf19c1a89466ea18b96d0.jpg",
+        "img_caption": [
+            "图6-10互动式数字天象厅原型展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "Fig.6-1O Prototype demonstration of interactive digital planetarium ",
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "图6-10为2016年北京科技周（5.14-5-20）国家天文台展出的\"互动式数字天象厅原型展示\"展品。该原型拥有3米直径球幕，采用六通道WWT数字系统，具体底边采取五台投影仪均匀分布，顶上使用一台投影仪投射，共用了6台投影仪，每台投影仪3000 流明亮度， $1 0 2 4 \\times 7 6 8$ 像素，整体分辨率达到 $2 0 0 0 { \\times } 2 0 0 0$ 。该原型具备互动式数字天象厅系统的播放漫游、播放球幕影片、互动交流等功能。",
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "6.7小结 ",
+        "text_level": 1,
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "本章针对在方案设计过程及工程实践过程中遇到的问题提出了相应的解决方案。主要包括球幕加工、声学设计、投影固定、兼容方案几个方面。最后展示了本文中“互动式数字天象厅\"应用的成功案例。",
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "结论",
+        "text_level": 1,
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "本文针对互动式数字天象厅建设相关各部分开展了研究及设计，侧重于数字天象系统、投影、座席、天象实时再现系统、相关技术五个方面，具体内容如下：",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(1)对比各类天文软件，选择了WWT作为构建数字天象系统的基础，并对其进行分析和完善，实现了多类终端互动支持及各项性能的解析，对比分析集中式与分布式特点，最终构建了一个基于天文软件WWT的数字天象系统。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(2)对比选择了DLP技术作为天象厅中投影仪技术类型，给出了天象厅特殊环境中投影仪各类参数的选择原则。提出了天象厅中多投影设计的方法，该方法主要包括计算和仿真模拟两部分，基于ProjDesingner开发的了投影辅助设计工具程序完成了仿真模拟与修正，并基于该方法提出了多种天象厅中的投影方案设计与分析。最终通过实验手段验证了投影设计方法及多投影拼接的实现。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(3)提出了一种天象厅环境下的座席区设计方法。该方法将天象厅中的观众体验感分为五类，将感官体验量化，分别进行数学建模。然后将五个模型根据比重叠加，得到天象厅中体验感的数学模型，对其进行分析得出较优的座席区范围，以此作出座席区设计；并针对天象厅超大垂直面视野设计了一种座椅，该座椅能舒适地为观众提供较大的仰角观看节目。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(4)设计了一种互动式数字天象厅中的天象实时再现系统。该系统包含天文数据采集、数据传输、天文望远镜控制及同步，充分利用天文台资源实现了真实星空数据在互动式数字天象厅中的实时同步。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(5)针对方案设计及工程实践中遇到的相关问题，给出了各类实际解决方案，包括球幕加工、声学设计、投影固定、兼容方案几个方面。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "本文虽然在互动式数字天象厅各部分数字天象系统、投影、座席、天象实时再现系统及相关技术做了一定的研究与设计，并取得一定的成果，但由于精力和知识有限，仍存在许多不足之处，有待进一步深入研究，比如：",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(1)投影设计中，可以将市面上各类型号、参数的投影仪进行收录，并为此专门建立数据库，数据文件包括投影仪的投射比、宽高比、分辨率、价格，并结合第三章中的投影设计计算，输入整体分辨率及预算，便能根据设计计算机数据库中的数据文件自动推荐合适的投影仪型号。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(2)基于体验感进行座席区设计中，模型有待进一步改善，例如进一步引入心理学对于座席设计的影响的变量加以改进。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "(3)天象实时再现系统虽然做了实验进行验证，然而并未在天象厅中进行实地安装测试，有待进一步实践。",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 104
+    },
+    {
+        "type": "text",
+        "text": "[1] Chartrand MR. The History of the Planetarium[J]. 1973.  \n[2] 秦非.单球式天象仪电控系统的设计研究[D].南京:南京理工大学,2006.  \n[3] 李元,中国天文馆事业的回顾和展望[J].科普研究,2008,(4).  \n[4] WPD. http://www.aplf-planetariums.info/en/  \n[5] IPS.http://www.ips-planetarium.org/  \n[6] Lantz E,Route U S. The digital planetarium[C]//Proceedings of the 2OO2 IntermationalPlanetarium Society Conference.2002.  \n[7]郭霞,中国天文馆的发展与探索[J].科普研究,2009,3(4)：83-84.  \n[8] Yu K C. Digital full-domes: The future of virtual astronomy education[J]. Planetarian, 2005,34(3): 6-11.  \n[9] Neafus D. The language of Immersive Cinema-Designing for Fuldome[J]. Fulldome UK,2011, 2011.  \n[10] Kasahara M. Video projector for dome screen: U.S. Patent 7,293,881[P]. 2007-11-13.  \n[11]BourkeP.Sphericalmirror:anewapproachtohemisphericaldomeprojection[C]//Proceedings of the 3rd international conference on Computer graphics andinteractive techniques in Australasia and South East Asia. ACM, 20o5: 281-284.  \n[12] Bourke P. Using a spherical mirror for projection into immersive environments[J]. Graphite,ACM Siggraph, Dunedin, 2005.  \n[13] Kasahara M. Video projector for dome screen: U.S.Patent 7,293,881[P]. 2007-11-13.  \n[14] Lantz E. A survey of large-scale immersive displays[C]//Proceedings of the 2OO7 workshopon Emerging displays technologies: images and beyond: the future of displays and interacton.ACM, 2007: 1.  \n[15]袁惠明,天象厅中的数字革命[J].现代电影技术,2011,(3)：26-29.  \n[16] Hereld M, Judson IR, Stevens R L. Introduction to building projection-based tiled displaysystems[J]. Computer Graphics and Applications, IEEE, 2000, 20(4): 22-28.  \n[17] Li K, Chen H, Chen Y, et al. Building and using a scalable display wall system[J]. ComputerGraphics and Applications, IEEE,2000, 20(4): 29-37.  \n[18] Chen Y, Clark D W, Finkelstein A，et al. Automatic alignment of high-resolutionmulti-projector display using an un-calibrated camera[C]//Proceedings of the conference onVisualization'00. IEEE Computer Society Press,2000: 125-130.  \n[19] Raskar R, Van Baar J, Beardsley P, et al. iLamps: geometrically aware and self-configuringprojectors[C]//ACM SIGGRAPH 2006 Courses. ACM, 2006: 7.  \n[20] Wallace G, Chen H,Li K. Color gamut matching for tiled display wals[C]//Proceedings ofthe workshop on Virtual environments 2003. ACM, 2003: 293-302.  \n[21] Raskar R, Van Baar J, Chai J X. A low-cost projector mosaic with fast registration[C]//AsianConference on Computer Vision (ACCV).2002,3(3).  \n[22] Lantz E. Fulldome display specifications: A proposal[J]. IPS Fulldome Standards Summit,  \n[22] 温小飞，朱宗柏，胡春枝，等．高性能计算机集群的性能评价[J]．武汉理工大学学报：信息与管理工程版,2005,27(4):19-22.  \n[23] 张磊，姜弘道，潘海琳．计算机集群的搭建，测试与应用[J]．水利水电科技进展，2006,26(2): 65-69.  \n[25]华山．计算机模拟剧场观众厅视线分析的研究[J].2011.  \n[26] 徐绍辉，卢向东．剧场观众厅参数化视线设计研究初探[J]．演艺科技,2011(5):35-40.  \n[27] 魏兴华．基于视线仿真的座席排布及优化方法研究与实现[D].北京工业大学,2014.  \n[28] 刘雁翎.2009 国际天文年中国日全食多路联合直播研讨会在重庆大学召开[J]．科协论坛,2009 (6): 30-30.  \n[29] 郭霞．世界各地网上直播金星凌日[J].天文爱好者,2012(7):62-62.  \n[30] 张超，陈海滢，杨勇，等．天边，圆月正在升起—记“2014 中秋月升”网络直播[J].中国国家天文,2014(10): 52-65.  \n[31]汤海明.天象网络直播系统的原理及构建.中国科学院上海天文台年刊,2009(30)：183-189  \n[32] 杨宝鸿.电影院的声学设计[J].声频工程,2005,(8):15-17.  \n[33] Bistafa, Bradely. Predicting Speech Metrics in a Simulated Classroom With Varied SoundAbsorption.J.Acoust.Soe.Am.,2001,109(4):1474-1482.  \n[34] 周兆驹,王春华,赵桂贞.商业建筑中多厅式电影院视听环境设计探讨[R].城市化进程中的建筑与城市物理环境:第十届全国建筑物理学术会议论文集,2008.  \n[35] 王军刚.参照数字立体声影院建声标准改善部队多功能礼堂的声学环境—浅述礼堂观众厅声学环境改造设计、装修施工与工艺要点[J]．影院建设,2009,(7):35-41.  \n[36] Assimakopoulos，ApSimon，Moussiopoulos.A numerical study of atmospheric polltantdispersion in diferent two-dimensional street canyon configuration[J]. AtmosphericEnvironment,2001:421-425.  \n[37] Jian Kang, Mei Zhang. Semantic differential analysis on the soundscape of open urban publicspaces[C].First Pan-American/Iberian Meetingon Acoustics,2002.  \n[38] 雷宁秋,任红雷,顾克明.上海世博会太空家园馆 3D 数字影院声学设计[JJ.电声技术,2010,(11):15-21.  \n[39] 黄盼盼.体验空间—现代电影院室内空间设计与研究[D].长春工业大学硕士学位论文,2012.  \n[40] 刘元春.数字立体声电影院的噪声及其控制[J].电声技术,2001,(4):13-16.  \n[41]王春华.多厅式电影院视听环境设计与研究 [D]．山东建筑大学硕士学位论文,2009.  \n[42]耿松涛,滕礼栎.现代综合性多厅电影院设计与实践 [J]．低温建筑设计,2010,(4):25-26.  \n[43] 朱毅.数字球幕电影技术体系及关键技术研究[J].南京理工大学,2007,(7):142-143  \n[44] Lukas Hosek, Alexander Wilkie.An analytic model for full spectral sky-dome radiance.Proceedings of ACM SIGGRAPH 2012 TOG Homepage vol.31,no.4(July.2012).  \n[45] 刘茜.科普场馆中球幕影片的发展前景[J].科技智囊,2013,19(7)：84-87.  \n[46]贺志康.浅谈 Stellarium 在高中地理天文教学中的运用[J].地理教育,2015,S2:41-42.  \n[47] 李孟奇．基于全景图的虚拟现实的研究与实现[D].中山大学,2014.  \n[48] Han Zhen-Dong, Jiang Tao. Research on multi-resolution terrain modeling method based on",
+        "page_idx": 104
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "direct 3D. Cehui Kexue / Science of Surveying and Mapping vol. 31, no. 6 (Nov. 2006), p.143-145.[49] 邹大斌.北京天文馆：建数字天象节目的强大后台[N]．计算机世界,2008-08-18036.[50] 陈晓江.分布式系统软件体系结构建模与开发方法研究[D].西北大学,2010.[51] 陈琛,胡春海.球幕投影通用性变焦鱼眼镜头设计[J].光学精密工程,2013,21(21):323-335.[52]李月.当代我国大中型剧场座席设计研究[D].四川：西南交通大学,2014.",
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "攻读硕士学位期间发表的学术论文",
+        "text_level": 1,
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "1苏丽颖，徐鹏飞，张亚，崔辰州，樊东卫.一种多曲率球幕微孔铝板预校正装置发明专利.专利号：201510432227.8.  \n2崔辰州，徐鹏飞.互动式数字天象厅的研究与集成设计.北京市科技委员会 2015年度北京科普社会征集项目.项目编号：Z151100003015149.",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "首先我要感谢我的导师苏丽颖老师和校外指导老师崔辰州老师。本文的完成离不开两位导师的热心关怀与悉心指导。导师以扎实的理论基础知识、严谨的治学态度、创新性的思维、敏锐的洞察力、和蔼可亲的态度指导着我，使我受益匪浅。在论文的编写过程中，由于本人研究的水平和时间的限制，初期遇到了很多困难。两位导师在百忙之中多次对我提出具有方向性和指导性的意见，并在后期亲自对我的论文进行修改，给我提出许多宝贵意见，使我的论文终于得以完成。在此，我衷心地感谢苏老师和崔老师，两位老师对我的帮助我毕生难忘。",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "衷心地感谢余跃庆、刘婧芳、丁华锋等老师在我完成课题过程中给予我的帮助，他们为我提出了许多宝贵的意见。",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "特别感谢国家天文台的樊东卫老师，在我论文课题开展过程中多次提供指导意见，使得课题能够按时按质按量完成。在课题遇到难题时，樊老师总能给予我鼓励与支持，并协助解决问题。",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "感谢国家天文台的李正、李珊珊、杨丝丝、韩旭等在课题实验中给予的支持",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "感谢实验室的高慧芳、杜锋、张亚、宋文明、戴莹、吴方朋、李向军、张海晓、朱舜坤、吴秋丽、李清清等，以及室友王军鹏、宋明阳、张海萌，他们在论文的开题到完成过程，给予了我很大的帮助与支持，感谢各位给我提供的论文相关资料信息以及关心与支持。",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "感谢北京市科技委员会对于与本文同名的课题\"互动式数字天象厅的研究和集成设计\"的资金支持，使得本文得以顺利进行实验",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "最后，我还要特别感谢我的父母及女朋友徐小燕，是他们的爱与支持使我走过了这段漫漫的求学之路，感谢他们多年来始终如一的无私奉献与支持。衷心感谢所有帮助和关心过我的老师、朋友和家人！",
+        "page_idx": 110
+    }
+]

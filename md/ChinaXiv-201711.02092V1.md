@@ -1,0 +1,119 @@
+香菇多糖对大肠杆菌攻毒大鼠空肠形态结构、上皮细胞数量和紧密连接蛋白表达的影响江昌盛 周彤张倩靳二辉 车传燕 任曼\*（安徽科技学院动物科学学院，凤阳233100）
+
+摘要：本研究旨在探讨香菇多糖对大肠杆菌攻毒大鼠空肠形态结构、上皮细胞数量和紧密连接蛋白表达的影响。将 24只SD大鼠随机分成4个组（A、B、C、D组），每组6个重复，每个重复1只。A、B组饮用蒸馏水，C、D组饮用蒸馏水中添加 $2 0 \mu \mathrm { g / m L }$ 的香菇多糖;试验第15天B、D组灌服 $1 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / m L }$ 大肠杆菌 K88，A、C 组灌服等量生理盐水。试验第18天心脏采血处死，取空肠固定和冻存，制作石蜡切片，苏木精-伊红（HE）染色和高碘酸雪夫氏（PAS）染色，测定绒毛高度、隐窝深度、绒毛宽度、上皮内淋巴细胞（IEL）数量和上皮杯状细胞（GC）数量，计算绒毛高度与隐窝深度的比值（V/C）；并采用蛋白质印迹法（Westem-blot）测定空肠紧密连接蛋白Occludin 的表达水平。结果表明：各组绒毛高度和绒毛宽度无显著差异（ $P { > } 0 . 0 5$ ）。C组隐窝深度极显著低于A、B组（ $P { < } 0 . 0 1$ ），显著低于D组（ $\cdot P { < } 0 . 0 5 .$ ）。C组 $\mathrm { v / C }$ 极显著高于A、B、D组（ $P { < } 0 . 0 1$ ）。C组IEL数量极显著低于B、D组（ $_ { . } { P } { < } 0 . 0 1$ ），显著低于A组（ $P { < } 0 . 0 5$ ）。C组上皮GC数量极显著高于A、D组0 $_ { \cdot } P { < } 0 . 0 1$ ），与B组差异不显著（ $P { > } 0 . 0 5 \$ ）。D组Occludin表达水平明显高于A、B和C组，B组Occludin表达水平高于A组。综上，大鼠饮用水中添加香菇多糖可改善大鼠空肠形态结构，并提高其抵抗大肠杆菌感染能力，促进Occludin的表达。
+
+关键词：香菇多糖；大肠杆菌；空肠；紧密连接蛋白；大鼠
+
+中图分类号： ${ \mathrm { S } } 8 6 5 . 1 ^ { + } 2$
+
+香菇多糖（lentinan）是从香菇子实中提取的一种1,3-β-葡聚糖，为黄色或棕黄色粉末。研究表明，香菇多糖可通过调节淋巴细胞功能和刺激免疫因子产生而显著改善机体免疫能力，在抗病毒、抗肿瘤和抗感染等方面具有一定作用[1-2]，此外，香菇多糖还可显著降低血糖含量、改善糖耐量和降低血清中总胆固醇含量[3-4]。目前，香菇多糖已作为免疫促进剂和抗肿瘤药物在临床上使用。近年研究发现，香菇多糖可通过调节肿瘤坏死因子和干扰素的分泌以及功能性淋巴细胞的活性影响肠道功能，对肠炎有一定的治疗作用[5。但关于香菇多糖对肠道上皮和屏障功能的影响鲜有报道。幼龄动物肠道功能发育尚未完善，对外界抵抗能力较低，病原微生物易通过肠道进入体内，造成多发感染。因此，肠道健康对幼龄动物的生长发育至关重要，直接影响动物的生产性能和经济效益，鉴于抗生素滥用问题的多发，开发绿色安全的提高肠道功能药物成为必然。本研究以断奶SD大鼠为动物模型，通过香菇多糖对大肠杆菌攻毒大鼠空肠形态结构、上皮细胞数量和紧密连接蛋白表达的影响，研究香菇多糖对动物肠道屏障功能的影响，为香菇多糖在动物生产中的应用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验设计
+
+试验选用清洁级健康断奶SD 雄性大鼠24只，平均体重 $5 0 . 5 2 \ \mathrm { g }$ ，购自浙江实验动物中心。根据体重相近原则将大鼠随机分为4个组（A、B、C、D组），每组6个重复，每个重复1只。A、B组饮用蒸馏水，C、D组饮用蒸馏水中添加 $2 0 \mu \mathrm { g / m L }$ 的香菇多糖（香菇多糖注射液， $0 . 5 ~ \mathrm { m g / m L }$ ，金陵药业股份有限公司，福州）；试验第15天B、D组灌服 $2 ~ \mathrm { m L }$ 浓度为 $1 \times 1 0 ^ { 1 0 } \mathrm { C F U / m L }$ 的大肠杆菌K88，A、C 组灌服等量的生理盐水。试验期间，大鼠分笼饲养于独立通气笼具系统(IVC)中，单笼饲养，自由采食和饮水，保证环境温度和湿度控制在（ $2 5 { \pm } 2$ ） $\mathrm { { } ^ { \circ } C }$ 和（ $5 0 { \pm } 5 ) \%$ 。
+
+# 1.2 测定指标及其方法
+
+试验第18天乙醚麻醉，打开腹腔，取空肠中部2段肠段各 $3 { \sim } 4 \mathrm { c m }$ ，生理盐水冲洗肠腔，一段放入 $4 \%$ 多聚甲醛固定 $2 4 \mathrm { h }$ 用于肠道形态结构的测定；另一段放入液氮冻存，然后移入$\boldsymbol { - 8 0 } ^ { \mathrm { ~ \circ ~ } } \mathrm { ~ C ~ }$ 冰箱中保存。
+
+# 1.2.1 组织切片制作
+
+取经过 $2 4 \mathrm { ~ h ~ }$ 、 $4 \%$ 多聚甲醛固定后的空肠，修整后梯度酒精脱水，经二甲苯至透明，石蜡包埋，切片，分别进行苏木精-伊红（HE）染色和高碘酸雪夫氏（PAS）染色，中性树胶封片。
+
+# 1.2.2 肠绒毛的形态观察和测量
+
+光学显微镜下观察并用 Motic 2.0软件进行拍照，利用软件（Image-Pro Plus 6.0）测量绒毛高度、绒毛宽度、隐窝深度，并计算绒毛高度与隐窝深度的比值（V/C）。每个肠道选取6张染色切片（绒毛完整、走向平直）进行拍照，每张切片随机选取6根完整的绒毛进行测量。
+
+# 1.2.3 上皮杯状细胞计数
+
+每只大鼠选择3张PAS染色切片，在 $1 0 { \times } 2 0$ 倍的光镜下进行拍照观察并计数，每张切片随机抽取6根完整绒毛记每一百个柱状细胞内的上皮杯状细胞数量，取平均值。
+
+# 1.2.4 上皮内淋巴细胞计数
+
+每只大鼠选择3张HE染色切片，在 $1 0 { \times } 2 0$ 倍的光镜下进行拍照观察并计数，每张切片随机抽取6根完整绒毛记每一百个柱状细胞内的上皮内淋巴细胞数量，取平均值。
+
+# 1.2.5 蛋白质印迹法（Western-blot）
+
+将空肠组织样品加入含蛋白酶抑制剂和磷酸酶抑制剂的预冷蛋白质抽提试剂，提取组织蛋白质，采用二辛可宁酸（BCA）蛋白质定量试剂盒（Thermo，美国）测定蛋白质浓度，按照 $5 \times$ 上样缓冲液制备蛋白质样品。配制十二烷基硫酸钠聚丙烯酰胺凝胶电泳（SDS-PAGE）胶，每孔上样 $3 0 \mu \mathrm { g }$ 总蛋白质，将样品在 $9 0 \mathrm { V }$ 恒压下电泳至分离胶，需要 $4 0 { \sim } 6 0 \mathrm { m i n }$ ，然后再在 $1 2 0 { \mathrm { ~ V ~ } }$ 恒压下电泳至溴酚蓝刚跑出分离胶底部。电泳完毕后，聚偏氟乙烯(PVDF)膜转膜，封闭和抗体孵育，将 PVDF 膜放入AlphaImager 2200（Alpha Innotech，美国）系统中进行曝光、摄像。
+
+# 1.3 数据分析与处理
+
+试验数据用SAS9.4统计软件分析，对2个因素的主效应以及两者的互作采用SAS 中PROCMIXED模型进行分析。试验结果以平均值和SEM表示， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2 结果与分析
+
+# 2.1香菇多糖对大肠杆菌攻毒大鼠空肠形态结构的影响
+
+由表1和图1可见，各组大鼠空肠绒毛高度和绒毛宽度均无显著差异( $( P { > } 0 . 0 5 )$ 。可见，香菇多糖对大肠杆菌攻毒的各组大鼠空肠绒毛高度和绒毛宽度无显著影响。香菇多糖、大肠杆菌对隐窝深度和V/C均有极显著影响（ $\scriptstyle P < 0 . 0 1 .$ ），香菇多糖和大肠杆菌对隐窝深度和V/C的影响无显著交互作用（ $\scriptstyle P = 0 . 6 4$ ， $\scriptstyle P = 0 . 0 7$ ）。 $\mathrm { ~ \cal ~ C ~ }$ 组隐窝深度极显著低于A、B组（ $_ { \cdot  { \mathit { P } } < 0 . 0 1 }$ ），显著低于D组（ $_ { . P < 0 . 0 5 ) }$ ）；C组 $\mathrm { v / C }$ 极显著高于A、B、D组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。可见，大肠杆菌攻毒增加了大鼠空肠隐窝深度并降低V/C，而香菇多糖可降低隐窝深度并提高V/C。
+
+2.2香菇多糖对大肠杆菌攻毒大鼠空肠上皮内淋巴细胞和上皮杯状细胞数量的影响
+
+由表1和图2可见，大肠杆菌对大鼠空肠上皮内淋巴细胞数量有极显著影响 $( P { < } 0 . 0 1 )$ ，香菇多糖对其影响不显著（ $\scriptstyle \cdot { P = 0 . 5 6 } .$ ），香菇多糖和大肠杆菌对空肠上皮内淋巴细胞数量的影响存在极显著交互作用( $\cdot P { < } 0 . 0 1$ )。C 组空肠上皮内淋巴细胞数量极显著低于B、D组( $_ { \cdot P < 0 . 0 1 } )$ ，显著低于A组（ $P { < } 0 . 0 5$ ）。可见，正常生理状态下香菇多糖降低了空肠上皮内淋巴细胞数量，大肠杆菌攻毒时香菇多糖增加了空肠上皮细胞淋巴数量。
+
+由表1和图3可见，香菇多糖、大肠杆菌对空肠上皮杯状细胞数量均有极显著影响（ $_ { . P < 0 . 0 1 } )$ ，香菇多糖和大肠杆菌空肠上皮杯状细胞数量的影响无显著交互作用（ $\scriptstyle \cdot P = 0 . 1 3 )$ 。C 组杯状细胞数量极显著高于A、D组（ $\cdot  { P } { < } 0 . 0 1$ ），与B组差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。可见，香菇多糖可提高大鼠空肠上皮杯状细胞数量，大肠杆菌攻毒可提高大鼠空肠上皮杯状细胞数量。
+
+VOn B 福 R
+
+![](images/4ad8967bac9e76c20a801524a90ac1011aa9821797c7913b9641d52e2f3a837d.jpg)  
+图1香菇多糖对大肠杆菌攻毒大鼠空肠形态结构的影响（ $1 0 0 \times$ ，HE 染色）  
+Fig.1Effects of lentinan on jejunal morphology structure of rats against $E$ coli( $1 0 0 \times$ ,HE stain)   
+图2香菇多糖对大肠杆菌攻毒大鼠空肠上皮内淋巴细胞数量的影响（ $2 0 0 \times$ ，HE 染色）  
+Fig.2Effects of lentinan on jejunal intraepithelial lymphocyte number of rats against $E$ coli 0 $2 0 0 \times$ ,HE stain)
+
+表1香菇多糖对大肠杆菌攻毒大鼠空肠形态结构和上皮细胞数量的影响  
+Table 1Effects of lentinan on jejunal morphology structure and epithelial cellnumber of rats against $E$ .coli   
+
+<html><body><table><tr><td colspan="6">组别Groups</td><td colspan="3">P值 P-value</td></tr><tr><td>项目</td><td>A</td><td>B</td><td>C</td><td>D</td><td>SEM</td><td>香菇多糖</td><td></td><td>香幼多大肠杆</td></tr><tr><td>绒毛高度 Villus height/μm</td><td>529.86±58.59</td><td>537.29±58.59</td><td>586.04±161.64</td><td>545.57±99.68</td><td>18.20</td><td>0.44</td><td>0.69</td><td>0.56</td></tr><tr><td>y深度th/um</td><td>234.07±20.69Bb</td><td>293.56±42.00Aa</td><td>176.30±40.68Cc</td><td>222.05±35.71BCb</td><td>15.46</td><td><0.01</td><td><0.01</td><td>0.64</td></tr><tr><td>绒毛宽度 Villus width/μm</td><td>138.74±21.85</td><td>133.98±22.28</td><td>117.54±16.85</td><td>135.72±11.04</td><td>14.12</td><td>0.21</td><td>0.39</td><td>0.15</td></tr><tr><td>绒毛高度/隐窝深度 V/C</td><td>2.27±0.10BCb</td><td>1.85±0.20Cc</td><td>3.33±0.50Aa</td><td>2.46±0.22Bb</td><td>11.91</td><td><0.01</td><td><0.01</td><td>0.07</td></tr><tr><td>上皮pitela lympocyt/%)</td><td>21.67±4.66ABa</td><td>25.81±2.70Aa</td><td>15.11±4.33Bb</td><td>30.39±4.34Aa</td><td>17.55</td><td>0.56</td><td><0.01</td><td><0.01</td></tr><tr><td>杯状iee/</td><td>15.70±1.47Cc</td><td>23.84±1.35Bb</td><td>25.47±3.02Bb</td><td>30.78±2.57Aa</td><td>9.26</td><td><0.01</td><td><0.01</td><td>0.13</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5 .$ ），不同大写字母表示差异极显著（ $_ { . } { \cal P } { < } 0 . 0 1$ ），相同或无字母表示差异不显著（ $_ { \cdot \textcircled { P > } 0 . 0 5 }$ ）。下表同。In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while withthe same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+![](images/7bba905d6b5bc478f9b2cb221227ed19bb55a97b507f26287ccf06397c54db2b.jpg)  
+图3香菇多糖对大肠杆菌攻毒大鼠空肠上皮杯状细胞数量的影响（ $2 0 0 \times$ ，PAS 染色） Fig.3Effects of lentinan on jejunal goblet cell number of rats against $E$ coli( $2 0 0 \times$ ,PAS stain)
+
+2.3菇多糖对大肠杆菌攻毒大鼠空肠上皮紧密连接蛋白Occludin表达水平的影响
+
+由图4可见，B、D组大鼠空肠上皮紧密连接蛋白Occludin表达水平分别高于A、C组，说明大肠杆菌攻毒刺激了空肠上皮Occludin的表达;C、D组空肠上皮紧密连接蛋白Occludin表达水平分别高于A、B组，说明香菇多糖促进空肠上皮Occludin的表达。
+
+![](images/918631f2ae03a9bbb07fb0e8cb628b45d1b332a26e8867e0943525f079aa965b.jpg)  
+图4菇多糖对大肠杆菌攻毒大鼠空肠紧密连接蛋白Occludin表达水平的影响 Fig.4Effects of lentinan on expression of tight junction protein Occluding in jejunum of rats against E. coli
+
+# 3讨论
+
+本研究结果表明，香菇多糖能够显著或极显著降低小肠隐窝深度。肠道是机体消化、吸收营养物质的重要场所，而绒毛和隐窝是小肠的重要组成部分，在吸收营养物质上起到了极其重要的作用，此外绒毛形态的变化也直接影响绒毛的表面积和肠道对营养物质的吸收[]。Caspary[7研究表明，绒毛长度增加会使小肠与营养物质的接触面积大大增加，加强小肠对营养物质的吸收，所以绒毛的形态直接和机体的生长发育密切相关。本研究结果表明，香菇多糖能够显著或极显著的提高V/C。绒毛高度、隐窝深度以及V/C是衡量小肠消化功能的重要指标，特别是V/C可以综合反映小肠的功能状况，V/C降低表示黏膜受损，消化吸收功能降低，动物生长发育受阻。小肠隐窝是绒毛根部上皮陷入固有层形成的管状腺。隐窝深度主要是反映上皮细胞的生成率，上皮细胞不断从隐窝基部向绒毛端部迁移、分化，形成具有吸收能力的绒毛细胞，以补充正常的脱落。如果此过程减慢，则基部的细胞生成率降低，使隐窝变浅[8-9]。综上，香菇多糖能够显著或极显著降低大鼠小肠隐窝深度并且能够显著或极显著提高V/C，说明香菇多糖能够改善空肠形态，促进肠道的消化吸收功能。
+
+肠黏膜免疫屏障是机体抵御病原体入侵的第1道防线，对于保护肠道黏膜完整性以及肠道屏障功能的发挥有极其重要的作用。小肠上皮内淋巴细胞和杯状细胞是肠道发挥免疫屏障功能的主要免疫活性细胞，在抗感染、调节上皮的完整性以及对外来抗原的免疫应答方面发挥着极其重要的作用，这些细胞的数量变化在一定程度上反映了消化道的局部免疫情况[10-1]。杯状细胞是形态相似、功能各异的一种细胞，主要分布在消化道等的上皮细胞内，主要以分泌黏蛋白的形式来保护肠道上皮，使肠道上皮不被胃酸、胃蛋白酶和其他消化酶的自体溶解[12-13]。此外 Masuda等[14]、Ikeda 等[15]还发现杯状细胞还参与了肠道损伤后的修复过程。在肠道免疫黏膜系统中，上皮内淋巴细胞是首先与抗原接触的免疫活性细胞，在肠道局部免疫中发挥重要作用[16]。本研究结果表明，病原微生物感染后刺激肠道内淋巴细胞向上皮迁移并增加黏液的分泌，增加肠道黏膜的防御能力，表现为上皮内淋巴细胞和上皮杯状细胞数量的增加，而香菇多糖可以进一步增加上皮内淋巴细胞和上皮杯状细胞数量，有助于提高肠道屏障的免疫能力，增强肠道的局部免疫，发挥特异性和非特异性免疫功能。紧密连接蛋白是上皮细胞之间的重要连接体，与肠道营养物质的吸收和微生物的黏附关系密切，参与多种信号通路，调控细胞增殖、分化等[17]。Occludin 是第一个被确认的紧密连接特异性跨膜蛋白，是上皮细胞紧密连接中主要表达的蛋白[18]。本试验结果表明，香菇多糖可促进大鼠空肠Occludin的表达，增加肠道紧密连接蛋白，与结构形态结果相一致，提高了肠道的屏障功能。
+
+# 4结论
+
+大肠杆菌感染影响了大鼠的空肠形态结构并激发了空肠免疫反应，而香菇多糖可以改善大肠杆菌感染引发的空肠形态结构变化，并促进肠道免疫功能，提高紧密连接蛋白Occludin表达，对肠道健康起到明显保护作用。
+
+# 参考文献：
+
+[1] 王国佳,曹红.香菇多糖的研究进展[J].解放军药学学报,2011,27(5):451-455.   
+[2] 林楠,钟耀广,王淑琴,等.香菇多糖的研究进展[J].食品研究与开发,2007,28(5):174-176.   
+[3] 王慧铭,项伟岚,潘宏铭,等.香菇多糖对高血糖大鼠降血糖作用及其机理的研究[J].浙江中 医学院学报,2005,29(5):68-70.   
+[4] 王慧铭,夏道宗,夏明,等.香菇多糖降血脂作用及其机制的研究[J].浙江中西医结合杂 志,2005,15(10):599-602.   
+[5]NISHITANI Y,ZHANG L,YOSHIDA M,et al.Intestinal anti-inflammatory activity of lentinan:influence on IL-8 and TNFR1 expresson in intestinal epithelial cells[J].PLoS One,2013,8(4):e62441.   
+[6]马仲华.家畜解剖学及组织胚胎学[M].3版.北京:中国农业出版社,2002．   
+[7]CASPARY W F.Physiology and pathophysiology ofintestinal absorption[J].American Journal of Clinical Nutrition,1992,55(1):2995-3085.   
+[8]王子旭,余锐萍,陈越,等.日粮锌硒水平对肉鸡小肠黏膜结构的影响[J].中国兽医科 技,2003,33(7):18-21.   
+[9]韩正康.家畜营养生理学[M].北京:农业出版社,1991..   
+[10] KELLY D,COUTTS A G P.Development of digestive and immunological function in neonates :role of early nutrition[J].Livestock Production Science,2000,66(2):161-167.   
+[11] GASKINS HR.The intestinal immune system:gut reaction and growth of the pig[J].Animal Science,1996,74(S1) :169.   
+[12]史玉兰,段相林.杯状细胞的研究进展[J].解剖科学进展,2001,7(4):358-361.   
+[13]刘环,余锐萍,宋俊霞,等.兔圆小囊免疫功能及其与肠道黏膜局部免疫关系的研究IV．实 验性感染肠球虫兔的圆小囊上皮间淋巴细胞及杯状细胞定量观察[J].畜牧兽医学 报,1997,28(5):448-452.   
+[14] MASUDA K,IKEDA H,KASAI K,et al.Diversity of restitution after deoxycholic acid-induced smallintestinal mucosal injury in the rat[J].Digestive Diseases and Science,20o3,48(10):2108- 2115.   
+[15] IKEDA H,YANG C L,TONG J,et al.Rat small intestinal goblet cell kinetics in the process of restitution surface epithelium subjected to ischemia-reperfusion injury[J].Digestive Diseases and Science,2002,47(3):590-600.   
+[16]朱海颖,谢弘.胃肠道黏膜免疫的一些研究进展[J].细胞生物学杂志,2002,24(1):8-10.   
+[17] CHIBAH,OSANAIM,MURATAM,etal.Transmembraneproteinsoftight junctions[J].Biochimca et Biophysica Acta (BBA)-Biomembranes,2008,1778(3):588-600.   
+[18] MITIC L,VAN TIALLIE C M,ANDERSON JM.Molecular physiology and pathophysiology of tight junctions I .Tight junction structure and function:lessons from mutant animals and proteins[J].AmericanJournalofPhysiology-Gastrointestinal and Liver Physiology,2000,279(2):G250-G254.
+
+Effects of Lentinan on Morphology Structure,Epithelial Cell Number and Tight Junction Protein Expression in Jejunum of Rats against E. coli\*
+
+JIANG Changsheng ZHOU Tong ZHANG Qian JIN Erhui CHE Chuanyan REN Man\* (College of Animal Science, Anhui Science and Technology University, Anhui 23310o, China)
+
+Abstract: The study was conducted to investigate the lentinan on morphology structure, epithelial cell number and tight junction protein expression in jejunum of rats against Escherichia coli ( $E$ coli). Twenty-four SD rats were randomly divided into 4 groups (groups A, B, C and D) with 6 replicates per group and 1 rat per replicate. Rats in groups A and B were drank distilled water and rats in groups C and D were drank distilled water supplemented with $2 0 ~ \mu \mathrm { g / m L }$ lentinan. In the $1 5 ^ { \mathrm { t h } }$ days of experiment, rats in groups B and D were administered orally with $1 \times 1 0 ^ { 1 0 } \mathrm { C F U / m L } .$ E.coli K88, meanwhile,rats in groups A and C were given the same amount of normal saline. In the $1 { 8 } ^ { \mathrm { t h } }$ （204 days of experiment, heart blood sampling,collected jejunum fixed and frozen,made paraffin sections and hematoxylin-eosin (HE) staining and periodic acid-schiff (PAS) staining. The villus height,crypt depth, villus width,number of intraepithelial lymphocytes (IEL) and epithelial goblet cells (GC) were measured and the ratio of villus height to crypt depth (V/C) was calculated. The expression of tight junction protein Occludin in jejunum was determined using Western-blot. The results showed that no significant diference was observed in villus height and villus width among all groups $( P { > } 0 . 0 5 )$ ). The crypt depth of group C was significantly lower than that of group A and B $( P { < } 0 . 0 1 )$ ，and significantly lower than that of group C $( P { < } 0 . 0 5 )$ . The $\mathrm { v / C }$ of C group was significantly higher than that of groups A,B and D $( P { < } 0 . 0 1 )$ ). The IEL number of group C was significantly lower than that of groups B,D $( P { < } 0 . 0 1 )$ ,and significantly lower than that of group A （204号 $( \mathrm { P } { < } 0 . 0 5 )$ . The epithelial GC number of group C was significantly higher than that of groups A and D $( P { < } 0 . 0 1 )$ ,and no significant difference compared with that of group B ( $\mathrm { ( } P \mathrm { > } 0 . 0 5 \mathrm { ) }$ . The Occludin expression of group D was obvious higher than that of groups A, B and C,and the Occludin expression of group B was higher than that of group A. In conclusion, the drinking water of rats supplemented with lentinan can improve the jejunum morphology and enhance the ability of resisting E.coli and promote the expression of Occludin.
+
+Key word: lentinan; Escherichia coli; jejunum; tight junction protein; rats

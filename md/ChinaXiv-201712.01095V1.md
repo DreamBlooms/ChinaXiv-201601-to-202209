@@ -1,0 +1,138 @@
+# 临床研究
+
+# 围手术期免疫调节治疗对直肠癌术后复发的影响
+
+甘志明¹,汪晓东¹，吕东昊³,刘 丹²,李 立¹  
+四川大学'华西医院胃肠外科中心，2华西临床医学院MCQ团队,四川 成都 610041;瑞典斯德哥尔摩卡罗林  
+斯卡学院医学流行病学和生物统计学系，瑞典 斯德哥尔摩 SE-17177
+
+摘要：目的本研究旨在探讨免疫调节治疗对直肠癌患者术后复发的影响。方法 本研究前瞻性纳人2010年1月\~2011年1月期间,在四川大学华西医院胃肠外科中心结直肠外科专业组接受直肠癌根治术并符合本研究条件直肠癌患者共150例，最终完成本项研究病例数为150例，分成3组A(塞来西布组)、B(甲强龙组）、C（对照组)。比较3组术后复发情况。结果A、B、C3组术后3dCRP差异有统计学意义( $\scriptstyle P = 0 . 0 2 2$ ),均较术后1d明显下降,且B组下降最明显。同时,A、B、C3组术后3dIL-6差异有统计学意义( $P { = } 0 . 0 4 6 \$ ,均较术后1d明显下降，且B组下降最明显。3组直肠癌中COX-2表达差异有统计学意义( $_ { \scriptstyle P = 0 . 0 1 7 }$ ，且A组肿瘤组织COX-2表达受抑制最明显。3组术后复发率差异无统计学意义( $\scriptstyle P = 0 . 5 4 9 .$ )。结论COX-2选择性抑制剂塞来昔布虽然在抑制直肠癌患者术后炎症反应方面弱于糖皮质激素甲强龙,但是，其在抑制直肠癌中COX-2表达方面更优于甲强龙，同时，COX-2选择性抑制剂塞来昔布并没有明显降低直肠癌术后复发率
+
+关键词：塞来西布；直肠癌；预后；免疫调节；复发
+
+# Perioperative immunomodulatory therapy does not decrease postoperative recurrence rate of rectal cancer
+
+GAN Zhiming,WANGXiaodong',LU Donghao,LIUDan²,LIi WestChinadicalholoupfWestinaospitalurgerynteroftroenterologicannesitydu 610041,;ertemetfdclidedaisroaeestood
+
+Abstract: Objective To studythe efect of perioperative immunomodulatory therapy on postoperative recurrence of rectal cancer.Methods This prospective study was conducted among 238rectal/anal cancer patients undergoing intersphincteric resectionatourcenterbetweenJanuary2010andJanuary2011,mong whom150wereeligibletobeincludedandcopleted thestudy.The150patients wererandomizedinadouble-blinded fashioninto3equal groupstoreceiveimmunomodulatory therapy with $8 ~ \mathrm { m g / k g }$ celecoxib (group A), $0 . 4 ~ \mathrm { m g / k g }$ Sou-Medrol (group B), or placebo (group C), given daily from 5 days before surgery to 5days after surgery,and the postoperativecancer recurence were compared. Results At 3 days after the operation, the3 groupsshowed significantlydiferentC-reactive protein (CRP)levels, whichdecreased obviouslyinallthe 3 groups compared with those at 1 day following the operation $( P { = } 0 . 0 2 2 )$ , especially in group B. The levels of interleukin-6 (IL-6) at3daysafterthe operation alsodifered significantlybtween the3groups but werelower inallthe3 groups thanthose at1 day after the operation ( $\scriptstyle { \mathrm { : } } P = 0 . 0 4 6 )$ , and this reduction was the most obvious in group A. COX-2 expression differed significantly between the 3 groups $_ { ( P = 0 . 0 1 7 ) }$ , among which group A showed the most obvious suppression of COX-2 expression. During the follow-up forameanof45 months,nosignificant difference inthe recurrence rate was found between the3 groups $( P { = } 0 . 5 4 9 )$ ： Conclusion With alower eficacythan Sou-Medrol in decreasing postoperative inflammation, celecoxib produces abeter effect in inhibiting COX-2 expression, but it does not lower postoperative recurrence rate of rectal cancer. Key words: celecoxib; rectal cancer; prognosis; immunomodulatory therapy; recurrence
+
+直肠癌是我国常见的十种恶性肿瘤之一，发病率仅次于胃癌,在大肠癌中,直肠癌的发生率占 $6 0 \% { \sim } 7 5 \% ^ { [ 1 ] }$ ，现今，由于手术技术以及辅助放化疗的长足发展，使得直肠癌患者术后的复发率以及死亡率显著降低[2-7]。然而，如何进一步减少直肠癌患者术后的复发率仍是结直肠外科医师努力的方向，免疫调节治疗被认为可以通过抑制COX-2表达，实现对于结直肠癌等恶性肿瘤进展的抑制[8，新的观点认为机体炎症功能的改变与结直肠癌的预后有密切关系。术前结直肠肿瘤COX-2过度表达造成机体免疫反应的转变对预后有一定的影响[9]。同时术中外科操作带来的应激反应加剧了机体免疫功能的紊乱,可能进一步增加了肿瘤复发的风险[10]。虽然炎症反应在肿瘤复发中的病理生理机制尚未阐明，但是通过术前降调COX-2的表达，术中和术后控制外科应激的综合手段，可能成为预防结直肠癌术后复发从而改善预后的新手段[11-13],但是类似研究更多停留在实验室阶段，是否实际临床效果能达到预期仍备受质疑，因此，本研究为进一步分析免疫调节药物对于直肠癌术后复发可能存在的临床效果进行探讨。
+
+# 1资料与方法
+
+# 1.1 临床资料
+
+本研究前瞻性纳入2010年1月\~2011年1月期间，在四川大学华西医院胃肠外科中心结直肠外科专业组接受直肠癌根治术并符合本研究条件直肠癌患者共150例，最终完成本项研究病例数为150例。本研究获得所在医院的伦理学委员会审核通过，所有参与研究的患者均需要签署研究同意书。
+
+# 1.2研究标准
+
+1.2.1 患者纳入标准 (1)肠镜活检诊断为直肠癌患者;(2)需要并同意接受手术者
+
+1.2.2患者排除标准 (1)患有急性炎症疾病者；(2)患有感染性疾病者；(3)有肠梗阻、肠穿孔、发热等现象的患者；(4)肿瘤复发者或术前判断为IV期者；(5)不愿参与本项研究者
+
+1.2.3剔除标准 (1)失去手术指证者;(2)拒绝接受相关检查者；(3)多查或漏查相关检查。
+
+# 1.3干预措施
+
+所有150名符合研究条件被纳入直肠癌患者随机分配为3组，每组各50例。(a)A组(塞来昔布组， $\scriptstyle n = 5 0$ )：从术前5d到术后5d□服塞来昔布 $8 \mathrm { \ m g / ( k g \cdot d ) }$ ;(b)B组(甲基强的松龙组， $\scriptstyle n = 5 0$ )：从术前5d到术后5d连续口服强的松$0 . 4 ~ \mathrm { m g / ( k g \cdot d ) }$ ；(c）C组(对照组， $\scriptstyle n = 5 0$ )：从术前5d到术后5d口服空白制剂。
+
+# 1.4 盲法
+
+本次研究过程中由专人对纳入患者进行分组，随机数字表用电脑生成，并用密封信封进行分配隐藏，对医生及患者采用盲法。数据的分析时，直接用A组、B组、C组代表3个不同分组，对随访人员及研究数据分析者采用盲法。
+
+# 1.5 偏倚控制
+
+本研究中为同一医疗组，所有手术操作由固定的手术团队进行，保证手术操作的规程是一致的。术前和术后临床管理模式采用统一的流程进行管理，避免由于不同管理流程带来的临床效果差异。由统一人员对本研究纳入患者进行随访，随访前进行统一随访培训。统计学数据处理由独立研究人员进行，避免由于对研究程序的了解导致误差。
+
+# 1.6 观察指标
+
+(a)围手术期CRP的检测：所有患者于术前5d、术后1d、术后3d、术后7d取血检测CRP水平。CRP（单位 $\mathrm { m g / L }$ )采用免疫速率散射比浊法测定，仪器和试剂均由Beckman公司提供。
+
+(b)围手术期IL-6的检测：所有患者于术前5d、术后1d、术后3d、术后7d取血检测IL-6水平。IL-6(单位mg/L)采用免疫定时散射比浊法测定，仪器和试剂均由德灵公司提供。
+
+(c）肿瘤组织COX-2表达的测定：所有患者手术切下肿瘤组织均测定COX-2表达。采用SP法，按剂盒说明书操作。以已知阳性片作阳性对照，以PBS代替一抗作阴性对照。COX-2染色阳性部位主要在细胞浆，染色成棕黄或棕褐色，选择5个以上高倍视野，计数不少于500个直肠癌细胞中的阳性细胞。用半定量法即肿瘤细胞阳性率与染色强度评分的乘积来表示整个肿瘤组织COX-2表达情况，分别按以下比例记分：肿瘤细胞染色阳性率 ${ \leqslant } 4 \%$ 为0分、 ${ \sim } 2 4 \%$ 为1分、 ${ \sim } 4 9 \%$ 为2分、 ${ \sim } 7 4 \%$ 为3分、 $\sim 1 0 0 \%$ 为4分，染色强度用0分（阴性）1分(弱阳性）2分(阳性)来表示。
+
+(d)术后复发率及生存率的随访：由统一人员对本研究纳入患者进行随访，且随访前进行统一随访培训。
+
+# 1.7统计学处理
+
+采用SPSS17.0统计学软件，计量资料用均数 $\cdot \underline { { \underline { { \mathbf { \Pi } } } } } ,$ 标准差表示，计数资料用 $( n , \% )$ 表示。两组间计量资料比较采用t检验，计数资料之间比较采用卡方检验。检验水准 $\mathrm { \dot { \alpha } = 0 . 0 5 }$ 。
+
+# 1.8手术方法
+
+所有患者入院后由同一结直肠外科专业组医师对其病情进行初步评估后进行手术治疗，具体手术方法见《结直肠癌外科应用技术的规范与创新》系列文献[14]。
+
+# 2结果
+
+# 2.1病例入组情况
+
+本研究前瞻性纳入2010年1月\~2011年1月期间，按照顺序纳入在四川大学华西医院胃肠外科中心结直肠外科专业组接受直肠癌术并符合本研究条件直肠癌患者共150例，无患者中途退组，随访数据完整。
+
+# 2.23组基本临床资料
+
+从患者一般情况来看，3组性别、年龄、BMI差异无统计学意义 $( P { > } 0 . 0 5 )$ ,从病理资料来看，3组TNM分期、肿瘤直径、分化程度、组织学类型、距肛门距离差异无统计学意义（ $( P { > } 0 . 0 5 )$ ，从手术指标来看，3组手术方式、术中出血量、手术时间差异无统计学意义 $( P { > } 0 . 0 5 )$ 。3组基线一致具有可比性。具体详见表1。
+
+# 2.33组CRP及IL-6检测结果
+
+A、B、C3组术前5dCRP值差异无统计学意义（ $P =$ 0.365)，A、B、C3组术后1dCRP值差异有统计学意义中 $\scriptstyle P = 0 . 0 0 5 ,$ ,均较术前5d明显升高，且C组升高最明显。A、B、C3组术后3dCRP差异有统计学意义（ $P =$ 0.022)，均较术后1d明显下降，且B组下降最明显。
+
+表13组基本临床资料Tab.1 Basic clinical data of the 3 groups  
+
+<html><body><table><tr><td></td><td>Group A(n=50)</td><td>Group B(n=50)</td><td>Group C(n=50)</td><td>P</td></tr><tr><td>Sex[n(%)]</td><td></td><td></td><td></td><td>0.706</td></tr><tr><td>Male</td><td>27(54.0%)</td><td>24(48.0%)</td><td>28(56.0%)</td><td></td></tr><tr><td>Female</td><td>23(46.0%)</td><td>26(52.0%)</td><td>22(44.0%)</td><td></td></tr><tr><td>Age(year, Mean±SD)</td><td>51.11±10.213</td><td>53.19±8.149</td><td>50.14±1.101</td><td>0.563</td></tr><tr><td>BMI(kg/m²,Mean±SD)</td><td>23.111±1.821</td><td>24.111±0.998</td><td>24.232±3.127</td><td>0.231</td></tr><tr><td>Tumor diameter[cm,Mean±SD]</td><td>5.478±1.193</td><td>6.129±1.537</td><td>4.982±1.170</td><td>0.376</td></tr><tr><td>TNM stage[n(%)]</td><td></td><td></td><td></td><td>0.651</td></tr><tr><td>I</td><td>4(8.0%)</td><td>6(12.0%)</td><td>2(4.0%)</td><td></td></tr><tr><td>ⅡI</td><td>27(54.0%)</td><td>26(52.0%)</td><td>26(52.0%)</td><td></td></tr><tr><td>ⅢI</td><td>19(38.0%)</td><td>18(36.0%)</td><td>22(44.0%)</td><td></td></tr><tr><td>Differentiation[n(%)]</td><td></td><td></td><td></td><td>0.967</td></tr><tr><td>Well</td><td>3(6.0%)</td><td>2(4.0%)</td><td>3(6.0%)</td><td></td></tr><tr><td>Moderate</td><td>30(60.0%)</td><td>33(66.0%)</td><td>32(64.0%)</td><td></td></tr><tr><td>Poor</td><td>17(34.0%)</td><td>15(30.0%)</td><td>15(30.0%)</td><td></td></tr><tr><td>Histological type[n(%)]</td><td></td><td></td><td></td><td>0.883</td></tr><tr><td>Adenocarcinoma</td><td>43(86.0%)</td><td>45(90.0%)</td><td>44(88.0%)</td><td></td></tr><tr><td>Mucinous adenocarcinoma</td><td>6(12.0%)</td><td>5(10.0%)</td><td>5(10.0%)</td><td></td></tr><tr><td>Others</td><td>1(2.0%)</td><td>0(0%)</td><td>1(2.0%)</td><td></td></tr><tr><td>Distance from the anal[cm, Mean±SD]</td><td>6.367±1.119</td><td>5.692±1.091</td><td>5.998±1.328</td><td>0.519</td></tr><tr><td>Surgical approach[n(%)]</td><td></td><td></td><td></td><td>0.943</td></tr><tr><td>Intersphincteric Resection</td><td>21(42.0%)</td><td>20(40.0%)</td><td>19(38.0%)</td><td></td></tr><tr><td>Anterior resection</td><td>24(48.0%)</td><td>23(46.0%)</td><td>26(52.0%)</td><td></td></tr><tr><td>Miles</td><td>5(10.0%)</td><td>7(14.0%)</td><td>5(10.0%)</td><td></td></tr><tr><td>Blood loss(ml, Mean±SD)</td><td>35.91±11.104</td><td>37.43±5.011</td><td>35.49±9.019</td><td>0.781</td></tr><tr><td>Operation time(min,Mean±SD)</td><td>101.22±10.831</td><td>110.12±11.293</td><td>107.17±9.223</td><td>0.304</td></tr></table></body></html>
+
+A、B、C3组术后7dCRP差异无统计学意义（ $P =$ 0.059,表2)。
+
+表23组术前及术后CRP值 [ab.2 Preoperative and postoperative CRP level of the 3 groups $( \mathrm { m g / m l } ,$ Mean±SD)   
+
+<html><body><table><tr><td></td><td>Group A(n=50)</td><td>Group B(n=50)</td><td>Group C(n=50)</td><td>P</td></tr><tr><td>5 days Before operation</td><td>6.21±3.17</td><td>5.71±1.88</td><td>6.66±2.71</td><td>0.365</td></tr><tr><td>1 days after operation</td><td>18.11±11.90</td><td>11.22±7.22</td><td>26.11±19.31</td><td>0.005</td></tr><tr><td>3 days after operation</td><td>10.63±6.53</td><td>3.40±1.09</td><td>19.01±16.28</td><td>0.022</td></tr><tr><td>7 days after operation</td><td>3.99±1.98</td><td>3.33±1.43</td><td>7.46±3.19</td><td>0.059</td></tr></table></body></html>
+
+A、B、C3组术前5dIL-6值差异无统计学意义( $P =$ 0.569)，A、B、C3组术后1dIL-6值差异有统计学意义中 $scriptstyle \overbrace { P = 0 . 0 0 9 } ^ { }$ )，均较术前5d明显升高，且C组升高最明显。A、B、C3组术后3dIL-6差异有统计学意义（ $P =$ 0.046),均较术后1d明显下降，且B组下降最明显。A、B、C3组术后7dIL-6差异无统计学意义( ${ \it P } { = } 0 . 0 7 8$ ，表3)。
+
+2.43组肿瘤组织COX-2表达的测定结果
+
+A组肿瘤组织COX-2表达测定评分 $1 . 9 2 { \scriptstyle \pm 0 . 2 7 }$ B组肿瘤组织COX-2表达测定评分 $5 . 1 1 { \pm } 0 . 2 1 , \mathrm { B }$ 组肿瘤组织COX-2表达测定评分 $6 . 1 4 { \scriptstyle \pm 0 . 2 7 , 3 }$ 组肿瘤组织COX-2表达测定评分差异有统计学意义（ $_ { \scriptstyle P = 0 . 0 1 7 ) }$ 1且A组肿瘤组织COX-2表达受抑制最明显，
+
+表33组术前及术后IL-6值 Tab.3 Preoperative and postoperative IL-6 level of the 3 groups (pg/ml, Mean±SD)   
+
+<html><body><table><tr><td></td><td>Group A(n=50)</td><td>Group B(n=50)</td><td>Group C(n=50)</td><td>P</td></tr><tr><td>5 days Before operation</td><td>2.67±1.01</td><td>2.19±0.97</td><td>2.58±1.06</td><td>0.569</td></tr><tr><td>1 days after operation</td><td>12.22±10.90</td><td>7.11±4.17</td><td>18.29±11.25</td><td>0.009</td></tr><tr><td>3 days after operation</td><td>7.21±5.14</td><td>2.01±0.83</td><td>13.97±10.69</td><td>0.046</td></tr><tr><td>7 days after operation</td><td>2.17±1.31</td><td>1.35±0.67</td><td>5.13±2.24</td><td>0.078</td></tr></table></body></html>
+
+# 2.53组随访结果
+
+纳人本研究的150例患者均获随访，平均随访45月，随访率为 $100 \%$ 。随访结果中出现复发的患者共7例，占总研究病例数的 $4 . 7 \%$ ,其中A组 $1 ( 2 . 0 \% )$ 例，B组$3 ( 6 . 0 \% )$ 例，C组 $3 ( 6 . 0 \% )$ 例，3组差异无统计学意义（ $P =$ 0.549)。复发均为发生在盆腔内的局部复发，均采用放化疗进一步控制病情后行经骶尾部复发癌根治术，其中有6例癌性进展复发转移后出现死亡，1例尚生存。随访获得的死亡患者总数为8例，死亡率为 $5 . 3 \%$ ,其中A组死亡患者 $1 ( 2 . 0 \% )$ 例，B死亡患者 $3 ( 6 . 0 \% )$ 例，B死亡患者 $4 ( 8 . 0 \% )$ )例，两组差异无统计学意义( $\scriptstyle P = 0 . 3 9 7 )$ 。随访到的死亡原因包括，癌性进展者为6例，脑出血1例，多器官衰竭1例。
+
+# 3讨论
+
+如何降低直肠癌手术治疗术后复发，结直肠外科医师一直为此进行着不懈努力，新的观点认为机体炎症功能的改变与结直肠癌的预后有密切关系。术前结直肠肿瘤COX-2过度表达造成机体免疫反应的转变对预后有一定的影响。同时术中外科操作带来的应激反应加剧了机体免疫功能的紊乱，可能进一步增加了肿瘤复发的风险[10]。虽然炎症反应在肿瘤复发中的病理生理机制尚未阐明,但是通过术前降调COX-2的表达，术中和术后控制外科应激的综合手段，可能成为预防结直肠癌术后复发从而改善预后的新手段[11-13]。因此基于结直肠癌免疫功能紊乱的病理生理改变，应用临床药物双重调节围手术期(术前和术后)免疫反应，减少外科手术对机体的应激刺激，为预防结直肠癌术后复发提供了新思路。
+
+肿瘤以及手术的创伤打击均能激活炎症反应系统，从而使CRP以及IL-6等炎症反应因子升高。而甲强龙为糖皮质激素，主要通过抑制炎症介质的产生及释放、调节细胞因子的生成、抑制一氧化氮合酶，对机体的炎症反应有着强大的抑制作用，而塞来西布为COX-2选择性抑制剂,其抗炎效果远不及甲强龙等糖皮质激素[15]。本研究结果显示A、B、C3组术后3dCRP差异有统计学意义（ $\scriptstyle P = 0 . 0 2 2 ,$ ),均较术后1d明显下降，且B组下降最明显。同时，A、B、C3组术后3dIL-6差异有统计学意义 $P { = } 0 . 0 4 6 )$ ,均较术后1d明显下降，且B组下降最明
+
+显。也验证了上述观点。
+
+目前,结直肠癌发生早期出现COX-2的转录激活已被大家公认[8-9],但是,COX-2的转录调控依赖于多个信号转导通路，由于遗传改变和炎症信号在肿瘤发生微环境中错综复杂，目前，仍无法证实是哪一条转录途径对促进结直肠癌表达COX-2起着决定性作用[1]。有研究表明COX-2催化产生PGE2能引起Beta-catenin通路的激活,Beta-catenin进一步激活cyclinD和c-myc,从而促进结直肠癌细胞的增殖。而本研究结果显示3组肿瘤组织COX-2表达测定评分差异有统计学意义0 $P { = } 0 . 0 1 7 \rangle$ ,且A组肿瘤组织COX-2表达受抑制最明显，表明塞来西布等COX-2选择性抑制剂能明显抑制COX-2的表达，从而可能抑制结直肠癌的细胞增殖，防止直肠癌复发。且选择性COX-2抑制剂可以通过降低细胞周期蛋白cyclinAcyclinB1和CDK21,使结肠癌细胞停滞在 $\mathbf { G } _ { 0 } { \sim } \mathbf { G } _ { 1 }$ 期[18]。同时,有研究表明在结肠癌细胞株HCA7中观察到COX-2与死亡相关蛋白激酶DAPK2的表达呈负相关,因此,抑制COX-2可以增加DAPK2表达进而诱导细胞凋亡[19]。以上研究均预示着选择性COX-2抑制剂在预防直肠癌术后复发方面存在着巨大潜力。有研究[20表明选择性COX-2抑制剂能够降低局部复发率( $scriptstyle { \overbrace { P { = } 0 . 0 1 } }$ ),提高无病及总体生存率( $P =$ 0.04、0.03)。然而本研究结果显示随访结果中出现复发的患者共7例，占总研究病例数的 $4 . 7 \%$ ,其中A组1$( 2 . 0 \% )$ 例，B组 $3 ( 6 . 0 \% )$ 例，C组 $3 ( 6 . 0 \% )$ 例，3组差异无统计学意义( $\scriptstyle P = 0 . 5 4 9 ,$ )。且死亡患者总数为8例,死亡率为 $5 . 3 \%$ ,其中A组死亡患者 $1 ( 2 . 0 \%$ 例，B死亡患者3$( 6 . 0 \% )$ 例，B死亡患者 $4 ( 8 . 0 \% )$ 例，两组差异无统计学意义 $\scriptstyle ( P = 0 . 3 9 7 )$ 。但是，本研究纳入样本数量相对较小，该结论尚需多中心大样本随机对照研究数据支持。
+
+COX-2选择性抑制剂塞来昔布虽然在抑制直肠癌患者术后炎症反应方面弱于糖皮质激素甲强龙，但是，其在抑制直肠癌中COX-2表达方面更优于甲强龙，同时，COX-2选择性抑制剂塞来昔布并没有明显降低直肠癌术后复发率。
+
+# 参考文献：
+
+[1]Hermann B,Matthias K.Christian PP.Colorectal Cancer[J].The
+
+Lancet,2013,31(3):221-7.   
+[2] Stipa F,Picchio M,Burza A,et al. Long-term outcome of local excision after preoperative chemoradiation for ypTO rectal cancer [J].Dis Colon Rectum,2014,57(11): 1245-52.   
+[3]Ulyett S,Patel N,Mcdermott F,et al.Decision making in the management of low rectal cancer[J].Int J Surg，2013,11(8): 627-31.   
+[4]Quirke P, Steele R, Monson J, et al. MRC CR07/NCIC-CTG CO16 trial investigators;NCRI colorectal cancer study group.effect of the plane of surgery achieved on local recurrence in patients with operable rectal cancer:a prospective study using data from the MRC CR07 and NCIC-CTG CO16 randomised clinical trial[J].Lancet, 2009,373(3): 821-8.   
+[5]Sauer R,Liersch T, Merkel S,et al. Preoperative versus postoperative chemoradiotherapy for locally advanced rectal cancer:Results of the German CAO/ARO/AIO-94 randomized phase III trial after a median follow-up of 11 years[J].J Clin Oncol,2011,29(15,S): 1926-33.   
+[6]Boland PM,Fakih M. The emerging role of neoadjuvant chemotherapy for rectal cancer[J].JGastrointest Oncol,2014,5(5): 362-73.   
+[7] Gerard JP,Azria D, Gourgou-Bourgade S,et al. Comparison of two neoadjuvant regimens for locally advanced rectal cancer:results of the phase III trial ACCORD12/O405-Prodige[J].J Clin Oncol, 2010,28(10): 1638-44.   
+[8]Richter M,Weiss M,Weinberger I,et al.Growth inhibition and induction o f apoptosis in colorectal tumor cells by cyclooxygen ase inhibitors[J]. Carcinogenesis,2001,22(1):17-25.   
+[9]Tomozawa S,Tsuno NH,Sunami E,et al．Cyclooxygenase-2 overexpression correlateswith tumour recurrence,especially haematogenous metastasis,of colorectal cancer[J].Br J Cancer, 2000,83(3):324-8.   
+[10]Diaz JA，Slomka T. State of the art review:colorectal cancer screening[J].AmJLifestyle Med,2012,6(3):196-203.   
+[11]Rizzo MT. Cyclooxygenase-2 in oncogenesis[J]. Clin Chim Acta, 2011,412(9/10):671-87.   
+[12] Khan Z,Khan N,Tiwari RP,et al. Biology of Cox-2:an application in cancer therapeutics[J].Curr Drug Targets,2011,12(7):1082-93.   
+[13] Wasilewicz MP,Kolodziej B,Bojulko TA,et al. Expression of cyclooxygenase-2 in colonic polyps[J].Pol Arch Med Wewn,2010, 120(9): 313-20.   
+[14]李立.结直肠癌外科应用技术的规范与创新(一)[J].中国普外基础 与临床杂志,2006,13(1):106-9.   
+[15]杨宝峰.药理学[M].8版.北京:人民卫生出版社,2013:326-30.   
+[16]Dixon DA. Regulation of COX-2 expression in human cancers[J]. Prog Exp Tumor Res,2003,37(5): 52-71.   
+[17]Tetsu O,Mccormick F. Beta-catenin regulates expression of cyclin D1 in colon carcinoma cells[J].Nature,1999,398(6726): 422-6.   
+[18] Grosch S,Tegeder I,Niederberger E,et al. COX-2 Independent induction of cell cycle arrest and apoptosis in colon Cancer cells by the selective COX-2 inhibitor celecoxib[J].FASEB J,2001,15(12): 2742.   
+[19]Doherty GA,Byrne SM,Austin SC,et al. Regulation of the apoptosis-inducing kinase DRAK2 by cyclooxygenase-2in colorectal Cancer[J].Br JCancer,2009,101(3): 483-91.   
+[20]Wang LW,Hsiao CF,Chen WT,et al.Celecoxib plus chemoradiotherapy for locally advanced rectal Cancer:A phase II TCOG study[J]. J Surg Oncol, 2014,109(6): 580-5. (编辑：孙昌朋)

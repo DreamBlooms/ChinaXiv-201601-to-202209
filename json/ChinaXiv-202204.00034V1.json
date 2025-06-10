@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "居住流动性与消费：基于调节定向理论的阐释",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柳武妹1 肖海谊 王雪枫 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1兰州大学管理学院，兰州730000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要居住流动性是指人们改变居住地（即搬家）的频率。作为关键的社会生态因素之一，其会对个体的认知、情绪以及行为产生重要影响。已有学者从健康福祉、社会关系以及教育结果等方面对居住流动性的后因结果进行了综述。居住流动性对消费者的心理和行为也会产生重要影响，但目前未发现有综述研究对居住流动性引发的消费者行为反应进行总结，也未见研究从理论层面对这一影响机制进行归纳解释。在梳理了居住流动性导致的消费者心理与行为反应的研究之后，借用调节定向理论对相关研究结论进行了归类论述，指出居住流动性会导致消费者分别采取促进型反应策略或预防型反应策略。进一步地，提出居住流动的自主性（主动vs.被动）以及方向性（向上vs.向下)能够解释经历了居住流动的消费者何时会选择促进型策略或预防型策略。最后，针对所搭建的居住流动性的促进和预防策略框架，提出几个潜在的研究议题，以供进一步研究讨论。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 居住流动性，消费者行为，调节定向",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "《世界移民报告》显示，截止2015年，全世界有超过2.32亿的国际移民以及7.4亿国内移民（International Organization for Migration,2015）。第七次人口普查结果也显示中国现有流动人口3.7582亿，相比于2010年增长了 $6 9 . 7 3 \\%$ ，并且流动人口规模还会进一步扩大（宁吉喆,2021）。鉴于居住流动的普遍性和多发性，近年来社会学、流行病学、人口学以及心理学等领域的学者们对居住流动性进行了广泛关注（Oishi,2010）。居住流动性（residential mobility）是指人们改变居住地的频率（Choi&Oishi,2020）。心理学研究发现，由于生活空间频繁发生转变以及社交网络出现多次破裂，高居住流动性一般会导致个体所处的社会环境发生负性改变（Fomby& Sennott,2013；戴逸茹，李岩梅,2018），从而对个体的身心健康（如，Adams＆Plaut,2003;Jelleyman& Spencer,2008; Moket al.,2016）、认知发展（如，Coley&Kull,2016）、教育结果（如，Benner et al.,2021）等方面产生直接且显著的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "居住流动性除了会影响个体认知和行为之外，还会对消费者行为产生重要影响。首先，居住流动性会影响个体的消费模式与偏好。高居住流动性不仅会增加人们对与搬家相关的物品和服务的消费，还会提升人们在娱乐、饮食（李明，刘维,2017）以及非耐用品（Chen,Lu,& Zhong,2015）上的消费。同时，高居住流动性会让消费者感到焦虑和不确定，进而促使其在消费时进行熟悉寻求（Oishi,Miao,&Koo,2012）、独特性寻求（Koo et al.,2016）以及偏好怀旧产品（何柳,2020）。其次，高居住流动性会显著扩大消费者的活动范围、增加消费者的行动轨迹（贾建民等,2021）。而这种基于轨迹的移动推荐策略已经被证明可以带来更高的赎回概率、更快的赎回行为和更高的交易金额（Ghose et al.,2019；贾建民等,2021）。最后，高居住流动性还会促使消费者依赖互联网联系旧友或者通过在线平台拓展社交网络规模（Oishi etal.,2013）。该过程中消费者的社交网络结构转变会促使她们为了获得社会认同而避免发表极端性的评论（施婷,2021），并且会降低她们从以前强社交关系方获得信息的有效性（Brown&Reingen,1987）。鉴于高居住流动性是当前多数消费者的一种生活模式，对居住流动性如何影响消费者心理和行为的探究和综述可以帮助企业和营销者更好地针对居住流动性人群开展精准营销，从而获得财务回报。然而，目前还尚未见有营销学者对这一主题进行梳理和综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，已有研究多就居住流动性对个体健康福祉和心理过程的影响机制进行综述和解释。Scanlon 等用压力应对理论、流动经历理论、社会资本理论、课堂更替理论以及向上流动理论等五种理论分别解释了居住流动性对青年人福祉的影响（Scanlon&Devine,2001）。Fowler 和 McGrath 等学者（2015）也提出了一个住宅稳定性生态发展模型以解释居住稳定性促进儿童认知能力发展的过程。Oishi则通过对跨文化以及进化史的分析，提出了自我及社区认同的社会生态模型，以此来解释居住流动性作为生态因素如何影响个人自我以及社区认同感的发展（Oishi,2010;Oishi etal.,2007）。整体而言，这些模型大多是从社会、环境、群体等较宏观的层面来解释居住流动的影响（且其中并未形成共识性的解释机制）。由于居住流动，无论主动还是被动流动，向上流动还是向下流动都非常普遍，罕有研究关注居住流动性的不同特征维度是否会对个体行为产生差异性影响以及其中的内在影响机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，本文将围绕营销领域中的居住流动性这一主题进行文献回顾，并梳理出居住流动性所导致的消费者行为反应及其差异。在此基础上，本文将引入调节定向理论（regulatory focus theory，Higgins,1997）来解释居住流动性的不同特征维度（自主性和方向性）对消费者心理和行为的影响差异。具体而言，本文将基于居住流动性的自主性（主动流动vs.被动流动）与方向性（向上流动vs.向下流动）和调节定向理论间的匹配性，解释为何向上流动和主动流动会促使消费者选择促进型反应策略，以及为何向下流动和被动流动会促使消费者选择预防型反应策略。需要说明的是，本文的主线是将居住流动性看作原因，将促进型消费反应和预防型消费反应看作结果。但我们也认为还存在另一种可能：个体的促进型特质和预防型特质是原因，而居住流动性是结果。因此，在论文末尾未来研究方向部分对这一种可能进行了讨论。希望本文能为国内学者围绕居住流动性开展实证研究提供新的理论视角和解释框架，也能为营销管理实践者和政策制定者提供实践启示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2居住流动性的概念、特征及测量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1居住流动性的概念",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "居住流动（residentialmobility）是指因工作、生活、学习、家庭等原因导致个体离开原有居住地并迁移至新居住地的行为(Oishi,2010)。其主要特点是物理生活空间以及人际环境发生转变（Oishi,2010）。在实际的使用场景中，居住流动也能被表述为“搬家”、“人口迁移”等。而居住流动性（residentialmobility）则是在居住流动的基础上衍生出的一个构念，该构念可被定义为人们改变居住地的频率（Oishi,2010）。Choi 和Oishi(2020）认为，居住流动性在个体层面指某一时期个体搬迁或打算搬迁的次数，在社会层面指某社会、城市、社区等范围内居民搬迁或打算搬迁的比率（Choi&Oishi,2020）。本文从个体层面探讨居住流动性影响个体心理和行为的内在机制，故采用前者定义。需要说明的是，在已有研究中除了启动个体的流动或者稳定思维外，学者们大多会用居住流动的次数（即居住流动性）作为反映自变量的指标，以更好地探究居住流动这一变量对个体产生的持续性以及长久性的影响（如，Oishi et al.,2013;Mok et al.,2016; Wang et al.,2021）。因此，消费者行为领域的实证研究更多地探究居住流动性而非居住流动对消费者的影响（如，Yuetal.,2020）。鉴于此，本文也将围绕居住流动性进行综述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2居住流动性的特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "居住流动自主性与居住流动方向性是居住流动性的两个特征。首先，居住流动自主性是指个体可以自主决定是否进行居住流动以及流动到何地居住，而居住流动也可以根据流动者的自主性分为主动流动和被动流动。这两种流动者在居住流动时的心理状态显著不同（何柳,2020）。其中，个体主动流动多以追求更大利益为目的，他们会为了更好的生活条件而更换居住地，如获得更多的教育资源与工作资源、更高的幸福感或更高质量的退休生活等(Oishi&Kisling,2009)。而被动流动者则是因为外界条件变化进行流动而非主观期望，如儿童跟随父母更换居住地。此类被动流动常发生于个体的未成年阶段，成年个体进行被动流动的原因可能是工作变动、校区搬迁、自然灾害等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，文中所提到的居住流动方向其实就是在强调居住流动的空间特征（程晗蓓等,2020）。根据搬迁地的转变可以将中国现有的居住流动现象分为以下四种类型：城镇-城镇；农村-城镇；城镇-农村；农村-农村，其中主要的流动模式为农村到城市和城市到城市的流动(Zheng&Yang,2016)。有学者将这两种流动模式视为“向上的社会流动”（Xuetal.,2019）。但是与城镇到农村和农村到农村这两种流动模式相关的文献却较少。有学者提出，在中国农村地区进行流动的个体往往是因为婚姻而选择流动(Zheng&Yang,2016)。此外，城镇到农村的流动可能是由政策（如知青下乡等）或生病、家人需要照料等原因诱发的(Chen,2011;Dou&Liu,2015; Hu et al.,2008)。综上可以看出，向上流动多是为了寻求更佳的资源以及更好的生活状况，从而达成对积极目标的追求；而向下流动多会降低生活水平以及打破现有状态，这可能会使得个体在经历居住流动后体验到更多的压力及负面情绪。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3居住流动性的测量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总的来说，上文介绍的三个变量的测量方式大同小异。已有研究大多使用二手数据以及调查法对居住流动性进行测量，之后学者们还开发了一系列范式来操纵被试的居住流动思维(residentialmobility mindset)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在二手数据研究中，学者们一般会利用大范围普查数据中的相关指标来衡量居住流动性，例如有研究者利用各地对汶川地震捐款额这一数据来探究居住流动性与远距离捐赠之间的关系（Wang etal.,2021）。在调查研究中，研究者们大多通过让被试报告居住流动历史来测量居住流动性。例如，让被试回忆自己不同阶段（如学前，小学，初高中，大学等阶段）经历的居住流动，并汇报流动的次数和原因（Oishi etal.,2013）。该方式也能获得与流动自主性以及流动方向相关的信息。也有学者以过去五年的流动次数为标准来测量居住流动性对青少年抑郁的影响（Susukidaet al.,2016）。除了要求被试回忆居住流动次数外，研究者们还开发了单个或多个条目的居住流动性测量量表。例如，Zuo 等人（2018）采用“我从出生到现在多次改变住所”、“我在现在的住所住了很长的时间”和“搬到其他地区是一种好主意”等18个条目的量表，从历史、状态、意图三个维度对居住流动性进行了测量。而在实验研究中，学者们则使用造句任务（Oishi& Schimmack,2010）、调查法和实验法均得到了广泛应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为清晰起见，我们将居住流动性、居住流动自主性、居住流动方向性等概念的定义、测量方式和代表性研究等信息归纳总结于表1中。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/db2e008286b2d5a0a469850b7bf53139637919d258bc651e43b1048a6aa57b2e.jpg",
+        "table_caption": [
+            "表1居主流动性相关变量的概念、测量及代表性研究"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">变量</td><td>测量</td><td>代表性研究</td></tr><tr><td rowspan=\"5\">居住流动性</td><td></td><td>二手数据分析</td><td>Wang et al., 2021</td></tr><tr><td>人们改变居住地的频率；可在个体与社会层面分</td><td>自我报告</td><td>Oishi et al.,2013</td></tr><tr><td>别进行定义</td><td>量表测量</td><td>Zuo,2018</td></tr><tr><td></td><td>造句任务</td><td>Oishi& Schimmack,2010</td></tr><tr><td></td><td>情景想象任务</td><td>Yu et al., 2020</td></tr><tr><td>居住流动自主性</td><td>个体可以自主决定是否进行居住流动、流动到何</td><td>自我报告</td><td>Oishi et al.,2013</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/09944185d90972c7548e9b00196565c048e9226d89a6b6f23084a1d1b1a36974.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "资料来源：作者整理"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>地居住；根据自主性分为主动流动与被动流动</td><td>情景想象任务</td><td>何柳,2020</td></tr><tr><td>居住流动方向</td><td>居住流动的空间特征，即个体改变居住地的方向</td><td>自我报告</td><td>Zheng & Yang,2016</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3调节定向视角下的居住流动性与消费者行为",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过梳理居住流动性相关的消费者行为研究，我们发现：居住流动性影响消费者行为的研究呈现出两种行为反应路径。一方面，居住流动个体会通过扩大社交网络获得社会资源以克服社会关系的脆弱性（Oishi etal.,2013），也会通过独特性寻求（Koo et al.,2016）增强个人自我，这些行为的本质就是关注资源的获得、合理选择以及优化，也就是通过各种行为促进收益的最大化。另一方面，在居住流动性的研究中，也出现了高流动个体进行熟悉寻求（Oishi,Miao,&Koo,2012）以及增加风险厌恶、损失厌恶（Yuetal.,2020）等行为偏好。这类行为结果的本质是缓解不良情绪、降低不确定性以及规避更大的健康与人际交往风险，此时消费者更关注损失的有无。可以看出，虽然个体面对的都是居住流动这一压力情境，但他们采取的行为反应却存在显著差异—一会做出为获得更多资源、机会及收益的促进型反应，也会做出为了降低风险、减少损失的预防型反应。这就和调节定向理论（Higgins,1997）提出的个体行为反应可以分为促进型反应和预防型反应不谋而合。也说明，基于调节定向理论阐释居住流动性与消费者行为间的关系是存在合理逻辑的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，这一部分将先介绍调节定向理论以及调节定向理论下促进型反应和预防型反应的分类依据，之后介绍与居住流动性相关的消费者行为分别属于哪类行为反应。最后解释消费者在何种情况下（本文主要关注居住流动性的自主性和方向性）会表现出不同的调节定向，继而促使个体采取不同的行为反应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1调节定向理论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "追求快乐避免痛苦的享乐原则一直是人类行为动机的基本假设，但该原则只是指出了个体趋利避害的天性，揭示了人类行为动机的来源与本质，却未就人们如何进行趋利避害进行阐述。因此，Higgins（1997）提出了调节定向理论（RegulatoryFocus Theory）以进一步解释人们实现趋利避害的方式和途径。调节定向就是指个体在实现目标的自我调节过程中表现出的特定方式或倾向，而调节定向的两种类型分别为促进定向（promotion focus）和预防定向（prevention focus），两者的本质区别体现在心理需求、期望状态以及结果反应这三方面，继而影响个体的行为策略倾向、情绪体验等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "具体来说，不同的调节定向所服务的需求类型不同，促进定向与提高需求（advancement，即，成长、发展和培养等）有关；而预防定向与安全需求（security，即，保护、预防风险等）有关。其次，不同调节定向的个体所期望的终极状态不同，促进定向的人追求成就、希望与抱负，努力趋近理想自我，即采取追求成功的策略；而预防定向的人关注安全、责任与义务，防止自己不能成为应该自我。此外，他们关注的结果不同以及对不同结果事件的敏感性也存在区别。促进定向个体在目标追求过程中更关注积极结果的有无，并对积极结果的出现或缺失敏感，继而体验更多的快乐-沮丧（dejection/cheerfulness-related）情绪，如失望、悲伤以及快乐满意等；而预防定向个体则关注消极结果的有无，并对消极结果的出现或缺失敏感，继而体验更多的平静-激动（agitation/quiescence-related）情绪，如焦虑、不安以及放松等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，调节定向既可以是一种长期特质，也可以是一种即时状态(Higgins,1997;Manczak et al.,2014)。其中，特质性调节定向，即长期调节定向是儿童在成长过程中受看护人及个体成败经验影响而形成的个性倾向。而情境性调节定向，即短期调节定向，是由环境和任务框架等信息线索所诱发的，是一种状态性情境变量。需要强调的是，本文这部分主要考虑情境性调节定向，即居住流动的相关特征（方向性以及自主性）如何影响个体的调节定向。但是我们在未来研究方向部分也考虑了特质性调节定向与居住流动性之间的关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据下文表2归纳的调节定向特征，我们将促进型反应以及预防型反应的评判标准总结如下：以理想自我为导向，追求成就、愿望与抱负并满足个体成长需求的行为即为促进型行为反应；而以应该自我为导向，注重履行安全、责任与义务并满足个体安全需求的行为即为预防型行为反应。至于不同调节定向个体的行为结果差异则可作为评判的辅助标准，用以佐证笔者的分类。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/91d17e57f8226ba8593703dbb86eb3a3d0c0af2d44de8773c8f906cb5b50a8a0.jpg",
+        "table_caption": [
+            "表2调节定向的定义、特征以及引发的行为结果特征"
+        ],
+        "table_footnote": [
+            "资料来源：Higgins,1997"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">类别</td><td>促进定向（promotion focus）</td><td>预防定向（prevention focus）</td></tr><tr><td>定义</td><td colspan=\"3\">调节定向就是指个体在实现目标的自我调节过程中表现出的特定方式或倾向，而调节定向 的两种类型分别为促进定向和预防定向</td></tr><tr><td rowspan=\"3\">特征</td><td>需求导向</td><td>成长需求</td><td>安全需求</td></tr><tr><td>期望状态</td><td>注重追求成就、愿望与抱负</td><td>注重履行安全、责任与义务</td></tr><tr><td>自我导向</td><td>强烈的理想自我</td><td>强烈的应该自我</td></tr><tr><td rowspan=\"5\">行为结果差异</td><td>情绪体验</td><td>体验与喜悦-沮丧有关的情绪</td><td>体验与平静-激动有关的情绪</td></tr><tr><td>结果反应</td><td>对积极结果的出现与缺失敏感</td><td>对消极结果的出现与缺失敏感</td></tr><tr><td>决策战略</td><td>追求成就的渴望接近策略</td><td>避免损失的警惕规避策略</td></tr><tr><td>风险偏好</td><td></td><td></td></tr><tr><td></td><td>偏好冒险</td><td>规避风险</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2与居住流动性相关的两类消费者行为反应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1居住流动性与消费者行为的促进型反应路径",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "获取社会资源。资源保存理论（COR）指出在资源耗损的背景下，个体会更加关注资源的获得和保存（Hobfoll,2001）。以往文献就表明高居住流动性对个体的潜在负面影响包括获得社会资本的机会减少（Coleman,1988）以及缺乏社会支持与融合（Myers,1999），因此高流动个体正处于一种资源损失的状况下，所以他们有动机采取行动保存资源或者重新获取资源。而扩大社交网络规模（Oishiet al.,2013;Oishi et al.,2007），构建广泛、宽松以及多样（Lun&Roth,2013）的社会关系就是高居住流动个体为获得社交机会、社会资源以及更多的社会支持所采取的适应性策略。同时，另一项调查研究也验证了该策略的合理性，研究发现在居住流动性更高的区域，那些拥有更大社交网络的个体收入更多，同时也会经历更多的升迁（Li,2017）。类似地，高居住流动性还会增加18至 25 岁成年人对社交环境的探索意图，为应对居住流动这一压力事件，处于频繁移动生活方式下的年轻人会对社会资源更加敏感，于是他们会抓住认识陌生人的机会，寻求更多的社会交往（Heetal.,2021）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "强化个人自我。个人和群体除了通过努力获取和维护他们的资源储备应对负性事件外，还可以通过选择重新定位自己，强化个人自我，使得其在资源受限时处于较优势的环境（Baltes,1997）。在重新建立人际关系的过程中，相对于集体属性信息（如，家庭血统、团体成员身份和社会组织从属关系）来说，其个人属性信息（如，独特的技能、能力和潜力）会更容易获得也更稳定（Baumeister,1987），所以高居住流动性会促使消费者强化其个人自我（Oishietal.,2007），同时这一过程也是消费者主动改变自身资源配置促使利益最大化的过程。而该倾向也会进一步地影响个体对具有自我身份象征的产品的购买、独特信息分享意愿以及群体偏见行为。比如，有研究发现高居住流动性促使个体进行独特性寻求（Ko0 et al.,2016）并增加独特性信息分享的意愿（钟佳玲,2018）。同时，高居住流动性导致的个人自我增强还能最大限度地减少个体对内部群体和外部群体的区别对待（Simon,2000），也就表明高居住流动性能够降低群体偏见（Liet al.,2019;Lun＆Oishi,2012; De etal.,2015）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "追求身份认同。高居住流动性还能培养个体的全球身份认同，根据共同内群认同模型（thecommon in-group identity model）的观点，该倾向也是具有适应性优势的。具体来说，该模型指出当不同群体的成员将自己更多地想象成同一个上级群体而不是两个独立群体时，他们会对原外群体成员的态度更加积极（Dovidio etal.,1998），因此为了获得更大的社交平台、促使个体被更高级群体接纳、在未来获得更多陌生人的帮助以及更多的跨群体合作（Buchan et al.,2011; Buchan et al.,2009），高居住流动个体会表现出更广泛的群体认同，继而增加其远距离捐赠（Wang etal.,2021）。相反，由于高居住流动会促使个体产生更广泛的身份认同，所以该经历反而会降低个体对邻近社区的认同感，从而表现出更少的亲社区行为，但是如果该社区有助于个体提升自我（如，提高自尊、社会地位等），那么个体还是会表现出较强的群体认同（Oishi etal.,2007）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据上文表2列举的促进型行为反应的判断标准，获取社会资源、强化个人自我、追求身份认同属于促进型反应路径。这些路径可以解释为何已有的居住流动性相关的消费者行为研究会发现，高居住流动（vs.低居住流动)的个体会增加自己的社交网络规模(Oishi etal.,2013;Oishi etal.,2007）、增加社交环境探索意图（He etal.,2021）、进行独特性寻求（Koo etal.,2016）、以及进行远距离捐赠（Wang et al.,2021）等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.2居住流动性与消费者行为的预防型行为反应路径",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "缓解焦虑。高居住流动会导致消费者的生活空间频繁发生转变以及社交网络出现多次破裂，这种不可预测性会使个体感知到更多的不确定性，从而产生更多的焦虑情绪（Oishi,Miao,& Koo,2012）。消费者为缓解焦虑带来的不舒适感以及避免更多的健康问题，他们会更偏好于熟悉寻求以及怀旧消费等策略。例如高居住流动个体会消费更多国际连锁品牌的产品，这一效应被焦虑所中介（Oishi,Miao,&Koo,2012）。此外，何柳（2020）还发现高居住流动性会使被试产生焦虑从而削弱其个人控制感，最终提高了个体对怀旧产品与品牌的消费倾向，其中居住流动自主性起调节作用。以上的行为结果也为焦虑个体倾向于避免负面结果这一论点（Gormanet al.,2012）提供了实证支持。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "降低不确定感和增强控制感。在高不确定性和低控制感的情景下，个体会产生更多的控制倾向与行为，规避未知与风险，由此减少不确定感给自身带来的恐惧和威胁（Bos,2001）。因此高居住流动性会降低消费者对陌生人的普遍信任（Yuan et al.,2021）。背后的原因是，陌生人对于他们来说更未知，信任他们将存在更大的风险，所以个体在流动后会降低社会普遍信任以预防资源损失。另外，高居住流动性还会导致决策偏差（Yuetal.,2020），因为高流动个体对不确定性的规避会直接增加个体的风险厌恶、损失厌恶和时间折扣。而最近的一项研究也拓展了上述结论，该研究表明居住流动性越高，未来收入的不确定性会降低个体的投资风险容忍度，从而偏好期限较短的风险资产投资，但是如果个体是为了提高生活质量而选择主动流动，旨在通过承受流动所带来的风险来获得更大收益时，这些个体的风险容忍度会有一个回升（周佳雯，李岩梅,2021）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由上可见，缓解焦虑、降低不确定感、和提升控制感会促使高居住流动性的消费者为了避免更多的损失而走预防型反应路径。这些路径可以解释为何已有居住流动性的消费者行为研究发现，高居住流动性的消费者会进行熟悉寻求（Oishi,Miao,&Koo,2012）、怀旧消费（何柳,2020）以及偏好短期风险投资产品（周佳雯，李岩梅,2021）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上，居住流动性会促使个体做出促进型或预防型这两种行为反应路径，并与调节定向理论提出的促进定向和预防定向正好契合。但是，什么时候消费者会做出促进型反应，什么时候消费者会做出预防型反应呢？我们接下来将基于居住流动性的两个核心特征（自主性和方向性）回答这一问题，并提出研究居住流动性和消费者行为的理论框架。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3调节定向视角下的居住流动性与消费者行为",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.1当个体采取主动流动（vs.被动流动）时会表现出促进型（vs.预防型）调节定向",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "主动流动时个体会表现出促进型调节定向。虽然频繁流动的个体需要应对不稳定的生活状态，但并非所有的流动都会导致社会环境的恶化（Hansen,2014），也并不是说负面环境对所有个体的影响都一致。例如，居住流动自主性（主动vs.被动)的差异就会导致消费者显著不同的心理状态（何柳,2020）。首先，个体主动流动多以追求更大利益为目的，他们会为了更好的生活条件自主决定更换居住地，如获得更好的教育资源与工作资源、更高的幸福感，或高质量的退休生活等(Oishi&Kisling,2009)。这类流动者一般会提前了解新住所的基本情况，对流动后的生活有一定的心理预期和准备，因此他们往往具备更高的个人控制感，从而会促使消费者采取更积极的行为策略（何柳，2020）。显然，这种关注收益以及主动获取资源的心理和行为特征与调节定向理论中提及的促进定向特征，尤其是关注提升需求、追求成就和积极结果等特征是一致的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "被动流动时个体会表现出预防型调节定向。与此同时，由于被动流动者并不能掌握变化的主动权，所以他们会对环境缺乏控制感。因此，他们往往表现出避免资源进一步损失、规避风险的动机，不再花费更多的现有资源去拓展社交网络，流动去生活成本更小的地区，儿童随迁避免亲子分离，为了不失去工作而流动等特征，这与预防调节定向的特征，如以应该自我为导向，关注安全、责任与义务，在意损失或者消极结果的有无等特征是一致的。基于这种匹配性，我们预测主动流动会促使消费者选择促进型行为反应路径。反之，被动流动的消费者会采取预防型反应策略。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.2当个体采取向上流动（vs.向下流动）时会表现出促进型（vs.预防型）调节定向",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "向上流动时个体会表现出促进型调节定向。Xu等人（2019)考察了中国背景下的四种居住流动，即城镇-城镇、农村-城镇、城镇-农村、农村-农村，对个体认知功能的影响。其中，城镇-城镇、农村-城镇属于向上的居住流动，研究表明从农村地区搬到城市地区可能与生活和工作环境的改善有关，如减少接触农药和室内污染（Bruce et al.,2000; Kim et al.,2015），或为了在成年早期获得更好的教育和就业机会（Chen,2011），这种向上的居住流动能够提高个体的社会经济地位并增强他们向上的社会流动性（Alcantara etal.,2014）。这种向上流动的动机和特征与促进定向的特征（关注提升需求；与理想自我相关；期望成就、抱负相关的目标状态）是一致的。与主动流动类似，向上的居住流动会促使个体采取促进型反应策略，也即会通过各种行为来获得资源，追求成就。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "向下流动时个体会表现出预防型调节定向。城镇-农村、农村-农村，属于向下的居住流动。在中国农村，人们往往为了结婚而迁移（Zheng＆Yang,2016）。在这种情况下，流动个体可能会因为生活在一个不熟悉的环境中而经历更高水平的压力、失去社会支持，随着时间的推移，这可能会对其认知功能产生不利影响（DiNapoli et al.,2014）。城市到农村的流动（一般是因为生病或其他家庭需求）也使个体表现出相对较差的认知功能（Chen,2011;Dou&Liu,2017; Hu et al.,2008）。可以看出，向下流动的个体往往具有资源较少、有避免损失的动机、高压力等特征，这与预防调节定向的特征（如，关注安全需求；与应该自我相关；采取警惕-规避策略解决问题）是一致的。因此，我们认为，向下流动的消费者会选择预防型反应策略，即做出与避免损失相关的行为反应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上，基于调节定向理论以及居住流动性的自主性特征和方向性特征和两类调节定向特征之间的匹配，本文认为，当个体经历主动流动以及向上流动时会表现出促进型调节定向。而当个体经历被动流动和向下流动时则表现出预防型调节定向。这一推理的内在依据是，主动流动和向上流动时，个体会走上文提及的三类促进型反应路径（即获取社会资源、强化个人自我、追求身份认同）；而被动流动和向下流动时，个体会走上文提及的两类预防型反应路径（即缓解焦虑、降低不确定感）。建立了这一逻辑链条后，我们接下来将这一逻辑链条应用到消费者行为情境下，提出调节定向视角下的居住流动性与消费者行为的研究框架。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.3调节定向视角下的居住流动性与消费者行为的研究框架",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过居住流动性的自主性特征和方向性特征解释居住流动性和消费者行为的已有研究。前人关于居住流动性的消费者行为相关研究发现，高居住流动（vs.低居住流动）的个体会增加自己的社交网络规模（Oishi et al.,2013;Oishi etal.,2007）、增加社交环境探索意图（He et al.,2021）、进行独特性寻求（Koo et al.,2016）、以及进行远距离捐赠（Wang et al.,2021）等。本文认为，这些居住流动性导致的消费者行为反应在主动流动和向上流动时会更加明显。这是因为，在主动流动或向上流动的情形下，消费者会努力地追求更多的资源和机会，因此他们极有可能扩大社交网络规模、增强对社会环境的探索，以便获得更多的社交资源。当然，主动流动或向上流动时，消费者还可能会进行远距离捐赠（Wang etal.,2021），以确保未来可以获得更多陌生人的帮助和社交资源。此外，主动流动和向上流动时，消费者也会通过独特性寻求来强化个人自我。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "相反，前人居住流动性和消费者行为的相关研究发现，高居住流动（vs.低居住流动）的个体会增加对熟悉产品和怀旧产品的购买，以避免焦虑带来的不舒适感（Oishi,Miao,&Koo,2012；何柳,2020）。前人研究还发现，高居住流动（vs.低居住流动）的个体会尽可能地降低不确定性风险（Yuet al.,2020），并偏好稳健的短期风险投资产品而非有风险的高收益风险投资产品（周佳雯，李岩梅，2021）。我们认为这些居住流动性导致的消费者行为反应在被动流动和向下流动时会更加明显。这是因为，在被动流动和向下流动的情形下，消费者会走上文论证的预防型反应路径。总而言之，居住流动性的自主性特征和方向性特征可以在已有居住流动性和消费者行为相关研究中扮演重要的调节作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过居住流动性的自主性特征和方向性特征预测居住流动性导致的未被探究的消费者行为反应。本文推测，主动流动和向上流动会促使消费者做出稀缺产品购买、偏好和采纳创新产品等促进型行为反应。本文还推测，被动流动和向下流动会促使消费者做出降低超前消费、选择功能型产品、降低多样化寻求、偏好有边框设计的产品、以及进行冲动性购买等预防型行为反应。接下来，详细阐述我们的推理依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，研究表明高居住流动性会使个体处于一种资源损失的状态，这会促使他们采取行动获取资源（Hobfoll,2001）。因此，我们认为，当消费者经历主动流动或向上流动时，高居住流动会促使其采取资源竞争策略，进而倾向于购买稀缺产品以获得稀缺资源。我们猜测，追求社会资源仍然是该效应的内在中介。而在被动流动或向下流动条件下，为避免已有资源的进一步损失，消费者会降低超前消费以应对未来的收入不确定性（避免增加未来还款的压力与风险）。我们猜测此时不确定感是内在中介。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，频繁的居住流动，尤其是被动的、向下的流动，会使个体产生孤独感（Oishi et al.,2013）以及焦虑（Oishi,Miao,&Koo,2012）等消极情绪，而消极情绪的强化会促使消费者产生更多的冲动购买行为（如，李蓉,2015）。因此，我们推测，被动、向下的流动会促使消费者做出更多的冲动购买行为；消极情绪将是内在中介。与此相反，主动的、向上的居住流动会使个体产生兴奋、期待、好奇等积极情绪（Oishi&Talhelm,2012）。而这种积极情绪的强化能够增强个体的认知灵活性，从而提高消费者对新产品以及创新行为的采纳意愿（参见，Isen,2001）。因此，我们认为，主动、向上的居住流动会增加消费者的创新采纳，积极情绪将是内在中介。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "最后，研究发现相对于主动流动，被动流动往往会使个体感知到较弱的个人控制感（何柳，2020）。由于低控制感时，消费者会为了提升控制感而选择功能型产品而非享乐品（Chen,Lee,& Yap,2017）、会倾向于多样化寻求而非单一化寻求（Yoon&Kim,2018）、会喜欢有边框的产品设计而非无边框的产品设计（Cutright,2012）。因此，本文推测，与向上流动和主动流动相比，向下流动和被动流动会增强消费者对功能品而非享乐品的偏好、会增加他们的多样化寻求倾向、以及增强他们对带有边框的产品的偏好。我们猜测，控制感寻求将是内在中介。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为清晰起见，下文图1描述了调节定向视角下居住流动性与消费者行为间关系的理论框架。需要说明的是，考虑到居住流动的自主性特征和方向性特征，我们预测主动居住流动或向上的居住流动会促使个体产生促进型反应，而被动居住流动或向下的居住流动会促使个体采取预防型反应策略。当然，这一研究框架更多是依据调节定向特征与居住流动特征的匹配而作出的逻辑推导，尚需进一步实证研究证据的支持。因此，我们用虚线而非实线勾勒“居住流动特征”以及其他推测得来的未来行为结果。我们用实线标注已有居住流动性研究揭示和报告的研究结论。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "还需要说明的是，居住流动性指的是居住流动的频率，那么在多次居住流动中，很有可能存在自主性或方向性不一致的情况（不是每一次流动都是主动或向上的）。这使得我们的理论框架在解释复杂的居住流动现象时面临着很大的挑战。但为了逻辑清晰和简洁起见，本文图1没有关注向上流动和向下流动在同一个个体上都存在的情况，而是关注对于同一个体，其频繁流动大多数属于向上流动，或向下流动的情况。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cd405613642d3ef54876914fc6b4b81b67380401a1acae94bcc88608cde1d6d.jpg",
+        "img_caption": [
+            "图1调节定向视角下的居住流动性与消费者行为的研究框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4调节定向视角下居住流动性与消费者行为研究展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第一，以居住流动性为前因，探究居住流动性和调节定向（特质性vs.状态性）对消费者行为反应的交互影响。调节定向既可以作为一种长期的、相对稳定的人格特质，也可以是一种随情境改变的状态（如，姚琦，乐国安,2009）。那么，特质性调节定向与状态性（即情境启动的）调节定向的关系如何？有关调节性匹配的研究表明，目标相容效应有赖于情境启动的调节定向与特质性调节定向是否匹配（如，Aaker&Lee,2001）。也就是说，当情境启动的调节定向与特质性调节定向匹配一致时，目标相容效应最大。但当二者不匹配时，如促进定向的个体处于预防定向的情景中，此时哪一方占主导地位尚不清楚。现有研究中，既有证据支持情境启动的调节定向占主导（如，Lee etal,2010），也有证据表明特质性调节定向占主导（如，Aaker＆Lee,2001）。因此，未来研究可以关注不同调节定向的差异以及二者之间的交互作用关系，比如将促进定向特质的个体置于被动流动或向卜居住流动的情境启动下，被试会采取何种行为反应策略？其消费行为又会发生何种变化呢？本文在第三部分论述图1中论述的一系列消费反应可以被未来研究作为因变量加以探究。这将是一个有趣且重要的议题，对这一问题的探究不仅有助于我们更深入地理解和探索调节定向理论，还会在营销实践方面收获有益的启示。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二，将居住流动性作为结果，探究特质性调节定向和状态性调节定向对居住流动性以及相关消费行为反应的交互影响。需要注意的是，本文基于文献回顾所提出的研究变量框架（图1）是将居住流动性作为前因变量，从而得出消费者会出于不同的调节定向而做出促进型(vs.预防型)消费反应。这忽视了另一种可能，即居住流动性可能是不同调节定向模式所导致的潜在后果。如促进定向的个体由于具有关注成就、对成长和发展需求高等特征而会选择向上流动或主动流动。而预防定向个体会基于避免损失等特征而表现出向下流动和被动流动，以节省生活成本或者避免冲突。针对这一局限，未来研究可以进一步探究特质性调节定向与情境启动的调节定向如何交互在一起，影响个体的居住流动决策，以及为做出这一居住流动决策而采取的消费反应。我们的一种推测是，促进型调节定向者会在启动情境性的促进型调节定向后，而增加向上流动和主动流动的信心，进而选择向上流动和主动流动。为了使这一向上流动和主动流动顺利开展，他们会选择高收益的理财产品、会增加教育产品和自我提升类产品的预算支出。与此相反，预防型调节定向者会在启动情境性的预防型调节定向后，而增加向下流动和被动流动的可能性。为了应对可能采取的向下流动和被动流动（以及缓解由此而来的低控制感和不确定感），他们会选择有边框设计的产品、会进行多样化寻求等。当然，当促进型调节定向者被启动预防型调节定向后，以及当预防型调节定向者被启动促进型调节定向后，他们的流动决策会变得复杂，并且依赖于具体的研究情境。总之，探究上述命题有助于研究者厘清居住流动性和调节定向之间的关系。当然，作为个体特质的调节定向很难被营销者识别，如何解决这一问题，也成为未来研究面临的管理实践层面的挑战之一。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第三，探究居住流动性影响后果的边界条件。除居住流动性的自主性和方向性特征外，其他可以区分消费者调节定向特质或状态的因素都可以作为调节变量开展研究。比如，年龄(Renner,2006)、受教育程度、社会经济地位（Morrs et al.,2016）、文化差异（Yuan et al.,2021）、内隐人格（钟佳玲,2018）等因素。这些变量已得到调节定向理论相关研究的证据支持，那么在关于居住流动性的研究中是否可以重复验证已有结论，以及是否会产生不同以往的发现，目前尚未可知。此外，除了这些与居主流动本身相关以及与个体调节定向相关的因素，还有哪些与外部环境相关的因素有可能触发消费者独特的应对反应呢？例如，由于国家鼓励政策而导致的流动行为（如吊庄移民政策），在衡量方面又会不同于简单的居住流动，其对消费者产生的潜在影响也不得而知。因为这种整体流动会导致外部居住环境改变较大而社交网络改变较小的情况出现，对这一问题的研究可能涉及到更宏观层面的政策实施效果的讨论，对于营销学者而言也具有一定的挑战。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "第四，在更为真实的背景下讨论居住流动的自主性和方向性对消费行为的影响。由于居住流动性指的是居住流动的频率，那么在多次居住流动中，很有可能存在自主性或方向性不一致的情况（不是每一次流动都是主动或向上的）。为了逻辑清晰和简洁起见，本文仅关注对于同一个体，其频繁流动大多数属于向上流动，或向下流动的情况。未来研究可以考虑通过操纵这种不一致的情况（自主性或方向性不一致），来探究更真实背景下的消费者应对反应。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "程晗蓓，邹游，林赛南，李志刚．（2020）．居住迁移对居民健康的影响研究进展述评.地理科学进展,39（7）， 1210-1223.   \n戴逸茹，李岩梅．（2018）．居住流动性对心理行为的影响．心理科学,41（5），1185-1191.   \n何柳．（2020）．居住流动性对怀旧消费倾向的影响：控制感的中介作用和自主性的调节作用（硕士学位论文）．南 京大学.   \n贾建民，杨扬，钟宇豪.(2021).大数据营销的“时空关”．营销科学学报,1（1）,97-113.   \n李明，刘维.(2017).流动儿童的心理特点及消费行为研究．经营与管理，3（9）,131-133.   \n李蓉．（2015）．不同情绪诱发下调节定向对冲动性购买行为的影响（硕士学位论文）．苏州大学.   \n宁吉喆．（2021）．第七次全国人口普查主要数据情况.2021-09-01取自 htp://www.gov.cn/xinwen/2021-05/11/content   \n_5605760.htm   \n施婷，陈洁，钟佳玲.(2021).居住流动性、语言极端性与信息分享意愿．管理评论,33（08）,139-147+159.   \n姚琦，乐国安．（2009）．动机理论的新发展:调节定向理论．心理科学进展,17（6）,1264-1273.   \n钟佳玲．（2018）．居住流动性对独特性信息分享意愿的影响研究（硕士学位论文）．上海交通大学.   \n周佳雯，李岩梅．（2021)．成年居住流动性对风险资产投资期限偏好的影响.中国社会心理学评论，（1)， $4 4 - 6 2 + 2 6 8$   \nAaker, J.L.,&Le,A.Y. (2Ool).“T\"seek pleasuresand“we”avoid pains: The role ofself-regulatory goals in information processing and persuasion. Journal of Consumer Research,28(1),33-49.   \nAdams,G.,&Plaut,V.C.(2Oo3).The cultural grounding of personal relationship: Friendship in North American and West African worlds.Personal Relationships,10(3),333-347.   \nAlcantara,C.,Chen,C.N.,& Alegria,M.(2014).Do post-migration perceptions of social mobility materfor Latino immigrant health?.Social Science & Medicine,1O1,94-106.   \nBaltes,P.B.(1997).On the incompletearchitecture of human ontogeny. Selection，optimization,and compensation as foundation of developmental theory. The American Psychologist, 52(4),366-380.   \nBaumeister,R.F. (1987).How theself becamea problem-A psychological review of historical research.Journal of Personality and Social Psychology,52(1),163-176.   \nBenner,A.D.,Chen,S.,Mistry,R.S.,& Shen,Y.(2O21).Lifecourse transitionsandeducational trajectories: Examining adolescents who fall offtrack academically. Journal of Youth and Adolescence, 50(6),1068-1080.   \nBos,V.D.K. (2oo1). Uncertainty management: The influence of uncertainty salience on reactions to perceived procedural fairness.Journal of Personality and Social Psychology, 80(6),931-941.   \nBrown,J.J.,&Reingen,P.H. (1987).Socialtiesand word-of-mouth referalbehavior.JournalofConsumerResearch,14(3), 350-362.   \nBruce,N.,Perez-Padilla,R.,&Albalak,R.(ooo).Indoorairpolutionindeveloping countries:amajorenvironmentaland public health challenge. Bulletin of the World Health organization,78(9),1078-1092.   \nBuchan,N.R.,Grimalda,G,Wilson,R.,Brewer,M.,Fatas,E.,&Foddy,M.(2o9).Globalizationand humancooperation. Proceedings of the National Academy of Sciences of the United States of America,106(11),4138-4142.   \nBuchan,N.R.,Brewer,M.B.,Grimalda,G.,Wilson,R.K.,Fatas,E.,&Foddy,M.（2011）.Global socialidentityand global cooperation. Psychological Science, 22(6), 821-828.   \nChen, J. (2011). Internal migration and health: re-examining the healthy migrant phenomenon in China. Social Science& Medicine,72(8),1294-1301.   \nChen,B.,Lu,M.,& Zhong,N. (2015).Howurban segregationdistorts Chinese migrants’consumption?WorldDevelopment, 70(C), 133-146.   \nChen, C.Y.,Lee,L.,& Yap,A.J. (2O17). Control deprivation motivatesacquisitionof utilitarian products. Journal of Consumer Research,43(6),1031-1047.   \nChoi,H.，& Oishi，S. (2020). The psychology of residential mobility:a decadeof progres.Current Opinionin Psychology,32,72-75.   \nColeman,J.S.(1988).Socialcapital inthecreationofhumancapital.AmericanJournal ofSociology,94,S95-S120.   \nColey,R.L.,&Kul,M. (016).Cumulative, timing-specific,and interactive modelsofresidential mobilityandchildrens cognitive and psychosocial skills. Child Development, 87(4),1204-1220.   \nCutright,K.M. (2012).The beautyof boundaries: Whenand why we seek structure inconsumption. Journal of Consumer Research, 38(5),775-790.   \nDe,S.,Gelfand,.J,au,D,oos,P.(l5).Theinevitabilityfthocentrimrevisited:Enocentrismd mobility increases. Scientific Reports,5(1),1-7.   \nDiNapoli,E.A.,Wu,B.,&Scogin,F. (2O14).Social isolationandcognitive functioninappalachianolderadults.Research on Aging, 36(2), 161-179.   \nDou,X.,&Liu,Y.(O17).ElderlymigrationinChina: types,paterns,anddeterminants.JournalofAppliedGerontology 36(6), 751-771.   \nDovidio,J.F.,Gaertner,S.L.，&Validzic,A.(1998).Intergroupbias:status,diferentiation,andacommon in-group identity. Journal of Personality and Social Psychology,75(1),109-120.   \nFomby,P.,& Sennot,C.A. (20l3).Familystructure instabilityand mobility:Theconsequences foradolescents’problem behavior. Social Science Research,42(1),186-201.   \nFowler,P.J.,McGrath,L.M.,Henry,D.B.,Schoeny,M.,Chavira,D,Taylor,J.J.,&Day,O.（2O1）.Housingmobility and cognitive development: Change in verbal and nonverbal abilities. Child Abuse & Neglect, 48,104-118.   \nGhose,A.,Li,B.，& Liu,S.(2019). Mobile targeting using customer trajectory paterns.Management Science,65(11), 5027-5049.   \nGorman,C.A.,Meriac,J.P.，Overstreet,B.L.，Apodaca,S.,McIntyre,A.L.,Park,P.，& Godbey，J.N. (2012).A meta-analysis of the regulatory focus nomological network: Work-related antecedents and consequences.Journal of Vocational Behavior, 80(1),160-172.   \nHansen,K. (2O14). Moving housefor education in the pre-school years.British Educational Research Journal,40(3), 483-500.   \nHe,W.,Qiu,J.,Fu,A.,&Zheng,D.(2O21).Theeffectofresidential mobilityontheintentionof social environment exploration for emerging adults. Current Psychology,1-6.   \nHiggins,E. T. (1997). Beyond pleasure and pain. American Psychologist, 52(12),1280-1300.   \nHobfoll,S.E.(ool).The infuenceofclture,community,andthenested-selfinthe stress proces: Advancingconsation of resources theory. Applied Psychology, 50(3),337-421.   \nHu,X.,Cook,S.,&Salazar,M.A.(2Oo8).Internal migration and health inChina.The Lancet,372(9651),1717-1719.   \nInternational Organization for Migration. (2Ol5).World migration report 20l5. Migrants and cities: new partnerships to manage mobility.   \nIsen,A.M.(2Ool).Aninfluence of positiveafecton decision making incomplex situations:Theoretical issueswith practical implications. Journal of Consumer Psychology,11(2),75-85. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Jelleyman,T.,& Spencer,N.(Oo8).Residential mobilityinchildhoodandhealthoutcomes:asystematicreview.Journalof Epidemiology & Community Health,62(7),584-592. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Kim,K.S.,Lee,Y.M.,Lee,H.W.JacobsJr,D.R.,&Lee,D.H. (215).Associations betweenorganochlorine pesticides and cognition in USelders:National healthand nutritionexamination survey1999-20o2.Environment international,75,87-92.   \nKoo,M.,Ng,A.,& Oishi,S.(2O16).Residential mobilityand uniquenessseeking.Advances inConsumer Research,44, 514-515.   \nLee,A.Y.,Keler,P.A.,&Sternthal,B. (2Ol0).Value fromregulatoryconstrualfit:The persuasive impactoffitbetwen consumer goals and message concreteness. Journal of Consumer Research,36(5),735-747.   \nLi,L.M.W.(2O17).Social class,socialcapitalandresidential mobilityinChina.Social Indicators Research,132(3), 1117-1129.   \nLi,W. Q.,Li,L.M.W.,&Li,M. (2019).Residential mobilityreduces ingroup favouritism inprosocialbehaviour.Asian Journal of Social Psychology,22(1),3-17.   \nLun,J.,Oishi，S.，&Tenney，E.R.(2Ol2).Residential mobility moderatespreferencesforegalitarianversus loyal helpers. Journal of Experimental Social Psychology,48(1),291-297.   \nLun,J.,Roth,D.,Oishi,S.，& Kesebir,S.(2O13).Residentialmobilitysocialsupportconcerns,andfriendshiptrategy. Social Psychological and Personality Science, 4(3),332-339.   \nManczak,E.M.,Zapata-Gietl,C.,& McAdams,D.P. (2O14).Regulatoryfocus inthe life story: Prevention and promotion as expressed in three layers of personality. Journal of Personality and Social Psychology,106(1),169-181.   \nMok,P.L., Webb,R.T.,Appleby,L.,&Pedersen,C.B.(2016).Fullspectrum of mental disorders linked with childood residential mobility. Journal of Psychiatric Research,78,57-64.   \nMoris,T.T.,Northstone,K.,&Howe,L.D.(O16).Examining the association betweenearlylife social adversityand BMI changes in childhood: A life course trajectory analysis. Pediatric Obesity,1l(4),306-312.   \nMyers,S.M. (1999).Residential mobilityas awayoflife:Evidenceof intergenerational similarities.Journalof Marriage and the Family, 61(4), 871-880.   \nOishi,S.,&Kisling,J.(2o9).The mutual constitutionofresidential mobilityand indiviualism.InR.S.Wyer,C.-y.Chiu, & Y.-y. Hong (Eds.), Understanding culture: Theory,research,andapplication (pp.223-238). New York,NY:Taylor& Francis.   \nOishi,S.,Kesebir,S.,Miao,F.F.,Talhelm,T.,Endo,Y,Uchida,Y.,.&Norasakkunkit,V. (2O13).Residentialmobility increases motivation toexpand social network:But why?. Journalof Experimental Social Psychology,49(2),27-23.   \nOishi,S.,Miao,F.Foo,ng,J,ati,K.A. ().eidentiamoblitybeesflritseekigoul of Personality and Social Psychology,102(1),149-162.   \nOishi，S.，&Talhelm,T.(2O12).Residential mobility:What psychological research reveals.Current Directions in Psychological Science,21(6), 425-430.   \nOishi,S.(2010).The psychologyof residential mobility:implications fortheself,social relationships,and wel-being. Perspectives on Psychological Science,5(1),5-21.   \nOishi,S.，& Schimmack， U. (2010). Residential mobility， wel-being,and mortality. Journal of personalityand social psychology, 98(6), 980-994.   \nOishi,S.,Lun,J.,&Sherman,GD.. (Oo7).Residentialmobilityself-concept,andpositiveect insocialinteractios. Journal ofpersonality and social psychology, 93(1),131-141.   \nRenner,B.(2Oo6). Curiosityabout people: The developmentof asocial curiosity measure in adults.Journal of personality assessment, 87(3),305-316.   \nSusukida,R.,Mojtabai,R.,Murcia,G,& Mendelson,T.(20l6).Residential mobilityandriskof majordepressiveepisode among adolescents in the national survey on drug use and health. Journal of Public Health,38(3), 432-440.   \nScanlon,E.,&Devine,K.(ool).Residential mobilityand youth well-Being: Research,policy,and practiceisues.Jounal of Sociology and Social Welfare,28(1),119-138.   \nSimon,B.,Stuirmer,S.,& Stefens,K. (2oo). Helping individualsorgroup members?Theroleofindividualandcollective identification in AIDS volunteerism. Personality and Social Psychology Bulletin,26(4),497-506.   \nWang,Y.,Kirmani,A.,&Li,X. (2O21).Nottoofartohelp:residential mobilityglobalidentity,anddonations toistant beneficiaries. Journal of Consumer Research,47(6),878-889.   \nXu,H.,Dupre,M.E.,Ostbye,T.,Vorderstrasse,A.A,& Wu,B. (2O19).Residential mobilityandcognitive functionamong middle-aged and older adults in China. Research on aging, 41(1),3-30.   \nYoon,S.,& Kim,H.C.(2018).Feeling economically stuck: The effect of perceived economic mobilityand socioeconomic status on variety seeking. Journal of Consumer Research, 44(5),1141-1156.   \nYu,M.,Wu,X.,Huang,L.，& Luo,S.(2O2O).Residential mobilitymindset enhances temporal discounting inthe los framework.Physiology & Behavior,225,113107.   \nYuan,B.,Yang,C.,Sun,X.,Yin,J.,&LiW. (2O21).Howdoesresidential mobilityinfluencegeneralized trust?.Jouralof Social and Personal Relationships,38(3), 995-1014. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Zheng,Z.,& Yang,G (2O16).Internal migration in China:Changesand trends.In Guilmoto,C.Z.,Jones,G W.(Eds.), Contemporary demographic transformations in China,Indiaand Indonesia (pp.223-238).New York,NY: Springer International. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Zuo,S.,Huang,N.Cai,P.,& Wang,F.(2O18).The lure of antagonisticsocial strategy inunstable socioecological environment:Residential mobility facilitates individuals'antisocial behavior.Evolution and Human Behavior;39(3), 364-371. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Residential mobility and consumption: explanation based on regulatory focus theory ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LIU Wumei1, XIAO Haiyi, WANG Xuefeng (' School of Management,Lanzhou University,Lanzhou 73oooo,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Residential mobility refers to the frequency with which people change their place of residence (i.e.,move).As one of the key social-ecological factors,it has a significant impact on individual's cognition, emotions and behavior. The aftereffects of residential mobility have been reviewed by scholars in terms of health and wel-being,social relationships,and educational outcomes.Residential mobility also has important effects on consumer psychology and behavior, but no review studies have been found that summarize the behavioral responses of consumers triggered by residential mobility or that explain this influence mechanism in a theoretical way. This paper presents a review of studies on consumer psychological and behavioral responses to residential mobility，and categorizes the relevant research findings based on the regulatory focus theory,indicating that residential mobility leads consumers to adopt either a facilitative or a preventive response strategy. Further, it is proposed that the autonomy (active vs. passive)as well as the directionality (upward vs.downward) of residential mobility can explain when consumers who experience residential mobility choose either facilitative or preventive strategies. Finally, several potential research topics are proposed for further research discusson with respect to the constructed framework of facilitative and preventive strategies of residential mobility. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words:residential mobility, consumer behavior, regulatory focus ",
+        "page_idx": 18
+    }
+]

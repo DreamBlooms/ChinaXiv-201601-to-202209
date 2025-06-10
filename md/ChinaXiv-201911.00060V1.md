@@ -1,0 +1,191 @@
+# 新疆地面太阳辐射及其CERES/SSF卫星资料适用性研究
+
+杨凤娟¹，亢燕铭¹，刘琼¹，胡俊'，秦榕²，陈勇航¹³，史文浩'，李瑾泽'，展秋仪'(1．东华大学环境科学与工程学院，上海201620；2．新疆气象局,新疆 乌鲁木齐830002；3．中国气象局乌鲁木齐沙漠气象研究所,新疆 乌鲁木齐830002)
+
+摘要：采用2017年辐射数据,研究新疆11个地面观测站点的太阳总辐射时空分布特征,发现总辐射辐照度日变化呈单峰分布，日照时数夏季最高，约 $^ { 1 7 \mathrm { ~ h ~ } }$ ,春秋季次之，分别为 $1 4 \mathrm { ~ h ~ } , 1 5 \mathrm { ~ h ~ }$ ,冬季最小，仅为 $^ { 1 2 \mathrm { ~ h ~ } }$ ;季节平均最大值出现在和田站的春季,为 $5 8 9 . 6 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,最小约为 $1 0 2 . 2 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,出现在乌鲁木齐站的冬季。卫星反演辐射空间分布特征显示：春季南疆辐照度明显高于北疆，夏季平均辐照度分布与全年最为相似，冬季次之，秋季南北疆差异不大,季节差异在阿克苏最小。从卫星和地面辐射数据的拟合分析可见,方差分析中南疆 $F$ 值均较高,最高达6215.53,即晴空条件下,CERES/SSF(Clouds and the Earth's Radiant Energy System/Single Satelite Footprine)卫星资料在南疆的反演效果优于北疆及吐一哈盆地。
+
+关键词：CERES/SSF；辐照度；向下短波辐射；误差；新疆
+
+新疆地域辽阔，属于干旱半干旱区，蕴藏着丰富的太阳能资源。太阳能的开发利用一直是我国改善能源结构及生态文明建设工作中的重点，2006年1月1日，我国《可再生能源法》正式生效，对太阳能光伏发电产业给予了财政、金融等政策支持[1]。发改委能源局在《太阳能发展“十三五”规划》中指出，稳步推进“三北”地区光伏电站建设，到2020年，太阳能发电规模达到 $1 . 1 0 \times 1 0 ^ { 8 } \mathrm { k W }$ 以上。
+
+目前，我国气象部门的2500多个气象站点中只有约110个站点对太阳辐射相关参数的数据进行观测记录[2]，地基观测数据不足。尤其是新疆存在大量区域无地面观测数据，极大地限制了对地表太阳辐射的研究。国内外学者利用卫星遥感资料对地表太阳辐射进行了大量研究[3-10]。其中一些学者将卫星与地面观测资料结合研究卫星反演辐射数据的区域适用性，如 Yan 等[1]采用 Terra/AquaFLASHFluxSSF卫星资料，针对无云和有云、白天和夜晚不同条件下的短波辐射，与兰州大学半干旱气候环境观测站（SACOL）的观测数据进行了对比分析，证实了在无云条件下卫星反演数据的标准差更小,即反演效果更好。Kratz等[12]针对卫星资料CE-RESEdition2B数据集，在全球范围内对地表辐射通量算法进行了验证，认为卫星和地面数据的时间匹配由地面数据的最高时间分辨率决定，时间匹配方面的误差主要由太阳高度角导致，而太阳高度角的变化对辐射影响很大。云是影响地面总辐射的一大影响因素，不仅使直接辐射减小，还使散射辐射增大[13]。本文采用分钟分辨率辐射资料,对新疆地区晴空条件下卫星反演辐射资料的误差进行了分析，以期进一步认识CERES/SSF卫星资料在新疆地区的适用性，为新疆太阳能的开发利用以及气候变化预报提供有益的参考和科学数据。
+
+# 1 研究区概况
+
+新疆总面积 $1 . 6 7 \times 1 0 ^ { 6 } \ \mathrm { k m } ^ { 2 }$ ,是我国地域面积最大的省区。日照充足，太阳能资源丰富，“三山夹两盆”是其地形特点。本文以新疆地区11个辐射观测站点为例，包括阿尔泰山脉附近的阿勒泰站，北疆西边界的塔城站，天山山脉西部的伊宁站，中部附近的乌鲁木齐站、吐鲁番站、焉耆站，东部的哈密站，南疆西部的阿克苏站，昆仑山脉西部的喀什站，中部的和田站，东部的若羌站，研究卫星反演辐射资料在新疆的适用性。
+
+# 2 数据与方法
+
+# 2.1 数据获取与处理
+
+卫星数据选用2017年1—12月最新版本CE-RES/SSFEdition4A数据，该数据主要用于研究辐射、云、气溶胶在气候中的作用。其算法改进了成像仪云属性算法，更新了地表辐射通量模型。该数据集由 NASA发布的太阳同步极轨遥感卫星 Aqua（EOS-PM1)获取，该卫星搭载2个服务于CERES项目的传感器，2个传感器分别通过横向扫描和 $3 6 0 ^ { \circ }$ 旋转扫描的采样方式，使用3个通道（短波通道$0 . 3 0 \sim 5 . 0 0 ~ \mu \mathrm { m }$ ,全通道 $0 . 3 0 \sim 2 0 0 . 0 0 ~ \mu \mathrm { m }$ ,红外窗区通道 $8 . 0 0 \sim 1 2 . 0 0 ~ \mu \mathrm { m } )$ 采集大气层顶辐射通量的瞬时观测值、算法反演的地表辐射通量、宽带地表反照率和太阳天顶角等。空间分辨率取决于视场，观测视场又由卫星的高度、扫描的高度和方位角决定。Aqua卫星在天顶时的地面视场为 $1 6 \ \mathrm { k m } \times 3 2 \ \mathrm { k m }$ 的椭圆，其空间分辨率为星下点 $2 0 ~ \mathrm { k m }$ 。本文选取晴空条件下CERESdownwardSWsurfaceflux-ModelB作为研究对象，晴空条件由云量不大于 $5 \%$ 筛选判定。
+
+地面辐射数据集包含新疆11个辐射观测站点2017年总辐射辐照度、净全辐射辐照度、直接辐射辐照度、散射辐射辐照度、反射辐射辐照度等。本文针对卫星观测短波辐射通量，采用以站点为中心30$\mathrm { k m } \times 3 0 ~ \mathrm { k m }$ 范围内的格点平均值，地面观测辐射值选用北京时间进行匹配，以卫星过境时间为基准，前后 $1 0 ~ \mathrm { m i n }$ 内的平均值。
+
+# 2.2 CERES算法介绍
+
+ModelB地表短波辐射通量通过兰利参数化短波算法(LPSA)获得，该算法是一种将太阳辐射衰减参量考虑在内，估算晴空和有云条件下短波辐射通量的物理关系[14]。地表向下短波辐射通量 $F _ { \mathrm { s d } }$ 由式(1)定义：
+
+$$
+F _ { \mathrm { { s d } } } = F _ { \mathrm { { t o a } } } T _ { \mathrm { { a } } } T _ { \mathrm { { c } } }
+$$
+
+式中： $F _ { \mathrm { t o a } }$ 表示相应大气层顶辐射通量，适用于CE-
+
+RES项目； $T _ { \mathrm { a } }$ 表示晴空条件下大气透射率； $T$ 表示有云条件下大气透射率。
+
+向下短波辐射通量 $\boldsymbol { F } _ { \mathrm { d s w } }$ 可由式(2)得出：
+
+$$
+F _ { \mathrm { d s w } } = F _ { \mathrm { s d } } \big ( 1 - A _ { \mathrm { s } } \big )
+$$
+
+式中： $A _ { \mathrm { s } }$ 为地表反照率,Staylor 等[14]曾对不同天气条件下不同地形的反照率做了较为详细的介绍！
+
+$$
+T _ { \mathrm { a } } = \left( 1 + B \right) \exp \left( \mathbf { \Sigma } - \pmb { \tau _ { z } } \right)
+$$
+
+式中： $B$ 为大气(气体和气溶胶)对地表反射辐射的散射值； $\boldsymbol { \tau } _ { z }$ 为太阳天顶角 $z$ 下的宽带消光光学厚度，太阳高度角影响晴空时辐射的吸收和散射。
+
+云透射率由式(4)给出[15]：
+
+$$
+T _ { \mathrm { c } } = 0 . 0 5 + 0 . 9 5 \frac { \left( R _ { \mathrm { o v c } } - R _ { \mathrm { m e a s } } \right) } { \left( R _ { \mathrm { o v c } } - R _ { \mathrm { c l r } } \right) }
+$$
+
+式中： $R _ { \mathrm { o v c } } \setminus R _ { \mathrm { m e a s } } \setminus R _ { \mathrm { c l r } }$ 分别代表CERES视场中，叠云条件下、晴空条件下和瞬时测量的大气层顶反射率。
+
+# 3 结果与分析
+
+# 3.1 基于地面数据的太阳辐射时空分布特征
+
+3.1.1季节辐照度日变化分布本文采用气象学划分方法划分四季，即3—5月为春季，6—8月为夏季，9—11月为秋季，12月至次年2月为冬季，通过对每个季节地面观测的辐射数据进行小时平均处理，分别得到新疆地区春、夏、秋、冬季11个站点的总辐射辐照度季节日变化分布规律（图1）。由图1可见，无论在哪个站点，哪个季节，辐照度日变化都近似呈现单峰分布特点，这是由地球自转决定的，并且应遵循纬度越高，辐照度越小;纬度越低，辐照度越大的规律[16]。但由于天气变化和地形差异的影响，辐射峰值大小以及峰值出现时间在不同观测站点、不同季节呈现的分布规律仍存在差异。
+
+从春季11个站点辐照度日变化分布中(图1a)可以看出，各个典型站点日出时间通常为07：00，日落时间一般为21：00。峰值分布较为离散，高值点出现在和田站、乌鲁木齐站和哈密站，峰值依次为$1 ~ 1 0 2 ~ { \mathrm { ~ W ~ } } \cdot { \mathrm { ~ m ~ } } ^ { - 2 } { \mathrm { ~ , ~ 1 ~ } } 0 4 2 ~ { \mathrm { ~ W ~ } } \cdot { \mathrm { ~ m ~ } } ^ { - 2 } { \mathrm { ~ , ~ } } 9 4 8 ~ { \mathrm { ~ W ~ } } \cdot { \mathrm { ~ m ~ } } ^ { - 2 }$ ,低值点出现在喀什站和塔城站，峰值分别为624W·$\mathrm { ~ m ~ } ^ { - 2 } \ 、 5 8 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。其他各站峰值相对集中,范围为 $7 0 0 \sim 7 5 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,可见,春季辐照度由东南向西北明显降低,这与陈志华等[17]的研究结果相一致。春季峰值出现时间为13：00，但塔城站差异明显，约在13：30出现峰值。
+
+夏季辐照度日变化区域分布差异明显（图1b），主要体现在峰值大小和峰值出现时间2个参量。日出时间通常在06：00左右，日落时间一般出现在23：00左右，日照时间明显比春季长。高值点仍然出现在和田站、乌鲁木齐站和哈密站，分布较春季略低,但更集中，峰值分别为 $1 0 1 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 、994$\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ 和 $9 8 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。低值点出现在若羌站与喀什站,且离散程度很高,分别为 ${ 7 1 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } } ,$ 662$\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ 。其他各站峰值较集中,范围为 $7 6 5 \ \sim 8 3 0$ $\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ ,相比春季,明显较为离散。吐鲁番站、哈密站和若羌站于13：00出现峰值，阿克苏站于15：00出现峰值，其余各站峰值出现时间均为14：00。
+
+11站点秋季日辐照度变化如图1c所示，06：00日出，21：00日落，峰值变化呈现明显的梯度特征。高值点出现在若羌站，为 $6 7 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,低值点有2个，分别为喀什站与阿勒泰站，峰值分别为：409$\mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \ 、 3 9 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。其余各站峰值呈现不同的差值下降，峰值由高至低对应站点依次为：和田站、哈密站、阿克苏站、焉耆站、吐鲁番站、伊宁站、塔城站、乌鲁木齐站,峰值间差值依次为： $: 2 4 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } , 2$ 7$\textrm { W } \cdot \textrm { m } ^ { - 2 } \cdot 4 2 \textrm { W } \cdot \textrm { m } ^ { - 2 } \cdot 4 0 \textrm { W } \cdot \textrm { m } ^ { - 2 } \cdot 1 1 \textrm { W } \cdot \textrm { m } ^ { - 2 } \cdot 3 3$ $\mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \ 、 2 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。与春夏两季相比,秋季辐照度骤降,高值减少量大于 $3 4 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,低值减少量约 $2 0 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,由南至北峰值下降的纬向分布特征明显。除哈密站峰值于13：00 出现外，其余各站峰值出现时间均为14：00。
+
+冬季（图1d）日出集中在08：00，日落出现在20：00，与其他季节相比，辐照度明显降低，高值点出现在和田站,为 $4 8 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,低值点出现在乌鲁木齐站,仅为 $1 7 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。其余各站峰值变化与秋季相似，呈现差值不等的梯度分布。其余各站峰值由高至低依次为： $4 5 1 \mathrm { { W } \cdot { \ m } ^ { - 2 } \ 、 4 1 8 \mathrm { { W } \cdot { \ m } ^ { - 2 } \setminus 4 0 7 } }  .$ W（ $\cdot \textrm { m } ^ { - 2 } \textrm { , } 3 9 0 \textrm { \textrm { W } } \cdot \textrm { m } ^ { - 2 } \textrm { , } 3 8 2 \textrm { \textrm { W } } \cdot \textrm { m } ^ { - 2 } \textrm { , } 3 4 7 \textrm { \textrm { W } } \cdot \textrm { m } ^ { - 2 }$ $3 3 4 \textrm { W } \cdot \textrm { m } ^ { - 2 } \cdot 2 9 3 \textrm { W } \cdot \textrm { m } ^ { - 2 } \cdot 2 9 1 \textrm { W } \cdot \textrm { m } ^ { - 2 }$ ,对应站点依次为哈密站、若羌站、阿克苏站、伊宁站、阿勒泰站、焉耆站、喀什站、塔城站、吐鲁番站，无明显的分布规律。峰值出现时间除乌鲁木齐站与哈密站为13：00外，其余各站峰值出现时间均为14：00。
+
+3.1.2基于地面数据的季节平均日辐照度空间分布采取相同的季节划分原则,分别对四季日辐照度求平均值，结果如图2所示。从图2可以明显看出，11站点辐照度变化明显受季节影响，且辐照度由高至低依次为夏季、春季、秋季、冬季,仅和田站、乌鲁木齐站和若羌站出现了春季值大于夏季值的情况。最大值出现在和田站的春季，为589.61W·$\mathrm { ~ m ~ } ^ { - 2 }$ ,最小值出现在乌鲁木齐站的冬季,为102.29$\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ 。乌鲁木齐站冬夏两季辐照度差异最为明显,差值为 $4 6 8 . 6 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。春季日辐照度波动明显，低值点出现在塔城站，波动幅度为246.91W·$\mathrm { ~ m ~ } ^ { - 2 }$ ,日辐照度由南向北降低明显,阿勒泰地区又有所回升。夏季11站点的日辐照度较高，高值点出现在乌鲁木齐站附近，低值点出现在喀什站，波动幅度为 $2 0 2 . 4 2 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,相比春季降低,整体上天山山脉附近辐照度较高，分别呈现向南北减少的趋势，但和田站例外,其日辐照度仅次于乌鲁木齐站与哈密站。秋季波动幅度低于夏季，为 $1 8 1 . 6 7 \textrm { W } \cdot \textrm { m } ^ { - 2 }$ ，高值点出现在若羌站，为 $4 0 2 . 3 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,总体呈现出较为微弱的经向分布特征。冬季辐照度与波动幅度都明显降低，高值点出现在和田站，为266.36$\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ ,不足和田站春季辐照度的1/2。低值点出现在乌鲁木齐站,波动幅度仅为 $1 6 4 . 0 7 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 但无明显的空间分布规律。吐鲁番站总辐照度夏季最高、春秋次之，冬季最低的特征与已有研究成果结论一致[18-19],这在一定程度上表明本文结论的科学性。
+
+![](images/34b801fb53c237e6676fa004f5d4497f1cbb2b6bc7f6e54e85e10da5e249d402.jpg)  
+图1新疆四季11个辐射观测站点辐照度日变化分布  
+Fig.1Daily variation of irradiance values observed by11 stations in Xinjiang in different seasons
+
+![](images/5551442bce84d50d3113872c057b52327c19afe040165b397b65abd0e5579400.jpg)  
+图2新疆11站点季节平均辐照度 Fig.2Seasonal average irradiance values at 11 stations in Xinjiang
+
+# 3.2基于卫星观测的新疆地表向下短波辐射通量空间分布特征
+
+采取 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 步长对全年CERES/SSF卫星观测短波辐射通量数据进行格点平均（图3）。新疆全年辐照度变化区间为 $5 5 6 \sim 9 4 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,高值区出现在昆仑山区，其次是天山山区西部，阿尔泰山区附近全年最低，塔里木盆地以及准噶尔盆地也出现低值中心。
+
+![](images/4f89972645b7b6b4ba642fc766d903e64db8be74722054c2cf5a14d5236f96ea.jpg)  
+新疆维吾尔自治区测绘地理信息局新S(2018)041号  
+图32017年新疆地区卫星反演向下短波辐射通量空间分布 Fig.3Spatial distribution of shortwave solar radiation flux from satellite retrieval in Xinjiang in 2017
+
+分别采用像素点数据研究四季卫星观测辐射空间分布特征（图4），春季辐照度区间为 $4 0 3 \sim 1 ~ 0 8 0$ $\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ ,南疆辐照度明显高于北疆;夏季辐照度变化区间为 $8 2 1 \sim 1 ~ 0 8 0 ~ \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,纬向特征明显,整体上由南至北逐渐降低；秋季辐照度区间为 $2 7 2 \sim 7 8 0$ $\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ ,南北疆辐照度差异较小;冬季辐照度变化区间为 $2 1 6 \sim 6 9 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,昆仑山区、塔克拉玛干沙漠以及准噶尔盆地较附近区域辐照度均较高。夏季辐射空间分布与全年最为相似，冬季次之。相比春夏季，秋冬季北疆东北部辐射相比附近区域更高。
+
+表1分季节讨论了11个辐射观测站卫星反演辐射与地面观测辐射辐照度季节平均值的差值，发现：春季阿克苏站差值最小,仅为 $4 . 5 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,和田站差异最大,差值高达 $- 3 0 4 . 1 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,其次是乌鲁木齐站,差值可达 $- 2 3 5 . 6 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;夏季焉耆站、阿克苏站、伊宁站和吐鲁番站的差值均较小，依次为 $- 1 . 7 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \ 、 6 . 8 4 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 、- 12.40 W·$\mathrm { ~ m ~ } ^ { - 2 }$ 和 $1 6 . 6 7 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,最大差值仍出现在和田站,高达 $- 2 7 1 . 1 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,其次仍是乌鲁木齐站,为$- 2 3 3 . 1 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,喀什站相应差值接近乌鲁木齐站,可达 $2 2 9 . 3 5 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;秋季差值塔城站最小，仅为 $- 1 . 2 2 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,阿克苏站差值略高于塔城站,为$1 0 . 6 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,喀什站差值远高于其他各站,为$2 4 2 . 3 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ;冬季乌鲁木齐站无样本点,受乌鲁
+
+![](images/7d5e5e85d4b4fe7227f49089a4c01191fe6b0aab07a1d2c806e63edb3832bbde.jpg)  
+图42017年新疆地区四季卫星反演短波辐射空间分布
+
+Fig.4Spatial distributionofshortwavesolarradiationflux fromsateliteretrievalinXinjiang indiferentseasons 201木齐地面观测设备维护较差的影响，冬季差值最小，为 $- 3 . 1 4 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,发生在春、夏、秋三季差值均很高的是喀什站，阿克苏站差值仍较小，但相比春、夏、秋三季,差值由正转负，为 $- 9 . 5 4 \textrm { W } \cdot \textrm { m } ^ { - 2 }$ ,吐鲁番站差值最大,为128.35W·m−²。 。
+
+表111站四季卫星反演和地面观测辐射辐照度季节均值差  
+Tab.1Compared results of seasonal difference of average shortwave irradiance between the values from satellite retrieval and the data observed by 11 stations /(W·m   
+
+<html><body><table><tr><td rowspan="2">站名</td><td rowspan="2">观测类型</td><td colspan="2">春季</td><td colspan="2">夏季</td><td colspan="2">秋季</td><td colspan="2">冬季</td></tr><tr><td>辐照度</td><td>差值</td><td>辐照度</td><td>差值</td><td>辐照度</td><td>差值</td><td>辐照度</td><td>差值</td></tr><tr><td>乌鲁木齐站</td><td>卫星</td><td>940.04</td><td>- 235.65</td><td>917.31</td><td>- 233.13</td><td>662. 65</td><td>63.23</td><td>1</td><td>1</td></tr><tr><td></td><td>地面</td><td>1 175.69</td><td></td><td>1 150.44</td><td></td><td>599.42</td><td></td><td>1</td><td></td></tr><tr><td>焉耆站</td><td>卫星</td><td>908.20</td><td>26.42</td><td>933.90</td><td>-1.71</td><td>580.01</td><td>48.81</td><td>459.73</td><td>38.14</td></tr><tr><td></td><td>地面</td><td>881.78</td><td></td><td>935.61</td><td></td><td>531.20</td><td></td><td>421.59</td><td></td></tr><tr><td>哈密站</td><td>卫星</td><td>846.08</td><td>-174.94</td><td>896.75</td><td>-188.46</td><td>582.69</td><td>-20.81</td><td>622.34</td><td>-92.66</td></tr><tr><td></td><td>地面</td><td>1 021.02</td><td></td><td>1 085.21</td><td></td><td>603.50</td><td></td><td>715.00</td><td></td></tr><tr><td>喀什站</td><td>卫星</td><td>962.18</td><td>154.14</td><td>952.72</td><td>229.35</td><td>639.89</td><td>242.38</td><td>517.16</td><td>-3.14</td></tr><tr><td></td><td>地面</td><td>808.04</td><td></td><td>723.37</td><td></td><td>397.51</td><td></td><td>520.30</td><td></td></tr><tr><td>塔城站</td><td>卫星</td><td>806.77</td><td>89.11</td><td>877.92</td><td>45.52</td><td>559.82</td><td>-1.22</td><td>400.10</td><td>76.65</td></tr><tr><td></td><td>地面</td><td>717.66</td><td></td><td>832.40</td><td></td><td>561.04</td><td></td><td>323.45</td><td></td></tr><tr><td>伊宁站</td><td>卫星</td><td>906.99</td><td>-39.67</td><td>898.86</td><td>-12.40</td><td>629.02</td><td>23.69</td><td>497.57</td><td>- 24.20</td></tr><tr><td></td><td>地面</td><td>949.66</td><td></td><td>911.26</td><td></td><td>605.33</td><td></td><td>521.77</td><td></td></tr><tr><td>阿勒泰站</td><td>卫星</td><td>774.94</td><td>-49.83</td><td>879.79</td><td>40.39</td><td>623.34</td><td>82.82</td><td>440.44</td><td>-52.87</td></tr><tr><td>若羌站</td><td>地面</td><td>824.77</td><td></td><td>839.40</td><td></td><td>540.52</td><td></td><td>493.31</td><td></td></tr><tr><td></td><td>卫星</td><td>917.54</td><td>97.57</td><td>962.94</td><td>93.44</td><td>633.26</td><td>113.39</td><td>530.12</td><td>71.00</td></tr><tr><td>吐鲁番站</td><td>地面</td><td>819.97</td><td></td><td>869.50</td><td></td><td>519.87</td><td></td><td>459.12</td><td></td></tr><tr><td></td><td>卫星</td><td>837.87</td><td>32.12</td><td>906.50</td><td>16.67</td><td>578.81</td><td>77.25</td><td>455.62</td><td>128.35</td></tr><tr><td>阿克苏站</td><td>地面</td><td>805.75</td><td></td><td>889.83</td><td></td><td>501.56</td><td></td><td>327.27</td><td></td></tr><tr><td></td><td>卫星</td><td>868.03</td><td>4.53</td><td>913.55</td><td>6.84</td><td>613.88</td><td>10.69</td><td>657.55</td><td>-9.54</td></tr><tr><td>和田站</td><td>地面 卫星</td><td>863.50</td><td></td><td>906.71</td><td></td><td>603.19</td><td></td><td>667.09</td><td></td></tr><tr><td></td><td></td><td>924.94</td><td>-304.10</td><td>961.82</td><td>-271.10</td><td>639.45</td><td>54.38</td><td>543.39</td><td>20.34</td></tr><tr><td></td><td>地面</td><td>1 229.04</td><td></td><td>1 232.92</td><td></td><td>585.07</td><td></td><td>523.05</td><td></td></tr></table></body></html>
+
+综上所述，冬季差值波动最弱，阿克苏站反演误差最小，但喀什站、和田站、乌鲁木齐站和哈密站的误差均较大；从均值差来看，吐鲁番站四季卫星观测的辐照度均高于地面数据，差值夏季最小，春秋季次之，冬季最大，夏、秋、冬三季变化较大，变化幅度分别为： $6 0 . 5 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \ 、 5 1 . 1 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。其他各站的误差均比较小且稳定。
+
+# 3.3基于卫星与地面观测的新疆地表向下短波辐射通量对比分析
+
+对11个典型站点的经纬度与距离换算，以站点为中心，运用交互式数据语言（interactivedatalan-guage，IDL)分别对每个站点附近 $3 0 \ \mathrm { k m } \times 3 0 \ \mathrm { k m }$ 的矩形研究区域进行地理位置匹配，并以晴空率不小于 $9 5 \%$ 的标准筛选晴空条件下的日辐射值，然后将世界时记录的卫星资料换算成北京时，最后将卫星观测的日向下短波辐射通量与基于地面观测的前后各 $5 ~ \mathrm { m i n }$ 的日辐照度平均值进行匹配，从而得到同一时刻2种产品匹配出的辐射信息。由于11个站点所处地理位置的地形地貌差异，本文按照地理位置将11个站点划分为南疆站点与北疆及吐一哈盆地站点2类，分别进行分析。其中南疆站点是：阿克苏站、和田站、喀什站、若羌站、焉耆站;北疆及吐一哈盆地站点是：阿勒泰站、哈密站、塔城站、吐鲁番站、乌鲁木齐站、伊宁站。
+
+对南疆5个站点和北疆及吐—哈盆地6个站点晴空条件下CERES/SSF卫星反演的日向下短波辐射通量与地面观测的总辐射辐照度进行对比拟合分析（图5和图6），表2和表3分别统计了其均值、均值差、标准差以及线性拟合的相关系数，其中均值差为卫星反演数据均值与地面数据均值的差。
+
+从图5可见，南疆地区阿克苏站与若羌站拟合效果较好，但若羌站辐照度离散程度明显较高，线性拟合相关系数也小于阿克苏站。和田站辐照度拟合就斜率与截距来分析，拟合效果也较好，但线性拟合相关系数明显较低，并且散点图中数据点明显离散。虽然焉耆站有很高的线性拟合系数0.99，但散点明显在不同区间存在差异，在辐照度为 $9 0 0 \sim 1 \ 0 0 0$ $\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ 时,拟合效果较好,辐照度低于900 W·$\mathrm { ~ m ~ } ^ { - 2 }$ 时,存在斜率偏低、截距偏高,离散程度偏高等缺陷。喀什站在辐照度为 $7 0 0 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 时,春夏季节交换时辐照度骤降，使得该站拟合效果最差，喀什
+
+1200 1200 1200 (a)阿克苏站 (b)和田站 (c)喀什站 ? 000 800 M/香 800 800 + 600 Y 卫 600 卫 600 Y y=0.928x+62.993 度 y=0.957x+68.945 理 3 y=0.87x+286.46 400 2 城 r=0.99 照 400 2 r=0.94 400 / r=0.91 N=107 辐 N=73 辐 ▲ N=88 200 / 200 200 200 400 600 800 10001200 200 400 600 800 1000 1200 200 400 600 800 10001200 辐照度_地面/ $\mathrm { ( W \cdot \mathbf { m } ^ { - 2 } ) }$ 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$ 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$ 1200 (d)若羌站 1200 (e)焉耆站 800 800 4 海 P 600 卫 600 舞 y=1.055x+32.901 7 y=0.89x+109.429 400 r=0.97 400 生 r=0.99 200 / N=119 辐 200 / N=85 200 400 600 80010001200 200 400 600 800 10001200 辐照度_地面 $\mathrm { ( W \cdot \mathbf { m } ^ { - 2 } ) }$ 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$
+
+注 $: r \ :$ 为皮尔逊相关系数； $N$ 为样本数。
+
+位于塔里木盆地西边界，春季多风会导致大气中沙尘气溶胶骤增。胡波等[20]的研究也表明，沙尘粒子会导致辐射大幅度减少，在反演算法中可能会对此考虑不足而导致卫星数据产生误差。由表2可见，南疆地区，均值差仅在和田站大于0，且均值高估达$1 5 6 . 3 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,从均值差可见,南疆地区卫星反演多存在低估现象。
+
+北疆6个站点的向下短波辐照度线性拟合（图6），虽然拟合相关系数都较高，除阿勒泰站为0.91外，其他各站均不低于0.96，伊宁站高达0.99，但从方差分析（analysisofvariance，ANOVA）的 $F$ 值（概率分布大小)来看，南疆5站 $F$ 值5000以上的有2站，占 $40 \%$ ,而北疆6站中， $F$ 值无一超过5000，因此认为卫星观测在南疆的反演效果明显优于北疆。从辐射值的大小分析，北疆6个站点的反演明显受季节变化的影响。
+
+基于新疆四季辐射辐照度夏季最高，春秋季次之，冬季最低的研究结论，从图6可以看出，乌鲁木齐站冬季反演最差，夏季次之，春秋两季较好，夏季反演产品明显遵循不同于春秋两季的线性拟合方
+
+表2晴空条件下南疆卫星反演的太阳辐射的误差  
+Tab.2The errors of solar radiation from satelite retrieval under clear-sky over south Xinjiang   
+
+<html><body><table><tr><td rowspan="2">站名</td><td rowspan="2">观测类型</td><td rowspan="2">样本数</td><td>均值 /(W·m-²)</td><td>均值差 /(W·m-²)</td><td rowspan="2">F值</td><td rowspan="2">P值</td><td rowspan="2">相关系数</td></tr><tr><td></td><td></td></tr><tr><td>阿克苏站</td><td>卫星</td><td>107</td><td>763.89</td><td>-7.28</td><td>5 009.83</td><td>0</td><td>0.99</td></tr><tr><td rowspan="2">和田站</td><td>地面</td><td></td><td>771. 17</td><td></td><td></td><td></td><td></td></tr><tr><td>卫星</td><td>73</td><td>798.04</td><td>156.33</td><td>585.76</td><td>0</td><td>0.94</td></tr><tr><td rowspan="2">喀什站</td><td>地面</td><td></td><td>641.74</td><td></td><td></td><td></td><td></td></tr><tr><td>卫星</td><td>88</td><td>592.53</td><td>-210.58</td><td>427.03</td><td>0</td><td>0.91</td></tr><tr><td rowspan="2">若羌站</td><td>地面</td><td>119</td><td>803.11</td><td>-72.35</td><td></td><td></td><td></td></tr><tr><td>卫星</td><td></td><td>710.93 783.28</td><td></td><td>1 900.34</td><td>0</td><td>0.97</td></tr><tr><td rowspan="2">焉耆站</td><td>地面 卫星</td><td>85</td><td>710.67</td><td>-31.29</td><td>6 215.53</td><td>0</td><td>0.99</td></tr><tr><td>地面</td><td></td><td>741.96</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注 $: r$ 为皮尔逊相关系数； $N$ 为样本数。
+
+1200 (a)阿勒泰站 1400 (b)哈密站 1200 (c)塔城站 1200 _u. 1000 100 ·M)/雪 800 800 600   
+出 600 工 600 工 400 A A y=0.63x+204.025 起 y=X+46.8451 400 Y=-085x+1205 400 r=.98 游 200 N=.97 200 200 0 200 400 600 800 1000 1200 200 400600 800100012001400 0 200400 60080010001200 辐照度_地面/ $\mathrm { ( W \cdot \mathbf { m } ^ { - 2 } ) }$ 1 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$ （20 辐照度_地面/ $\mathrm { ( W \cdot \mathbf { m } ^ { - 2 } ) }$ 1200 (d)吐鲁番站 1200 (e)乌鲁木齐站 1200 (f)伊宁站 1000 1000 专 _u. / u 800 · M/雪 800 1 M/雪 800 业 600 女 600 ： 工 600 400 4 y=0.48x+370.968 y=0.899x+73.975 y=0.724x+237.589 / 400 金 r=0.96 照 400 ▲ r=0.99   
+辐 200 0 r=.46 辐 200 = N=73 辐 200 / N=109 0 200400 600 80010001200 200 400 600 800100012001400 200 400 600 800 1000 1200 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$ 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$ 辐照度_地面/ $( \mathbf { W } \cdot \mathbf { m } ^ { - 2 } )$
+
+Fig.6Comparedresultsof irradianceobservedbysateliteand6stations innorth Xinjiangandthe Turpan-HamiBasin程；哈密站秋冬两季与春夏两季反演较为接近；塔城站反演季节性特征最弱，四季有一半数据反演良好，一半数据反演偏高;伊宁站春、秋、冬三季反演良好，略偏高，夏季出现轻微低估现象；阿勒泰站从拟合方程来看拟合效果良好，但从散点图来看，仅夏季拟合效果较好，春、秋、冬季明显离散程度过高；吐鲁番站春夏两季反演效果相对较好，且夏季优于春季，秋、冬两季反演效果较差，离散程度颇高。从表3均值差可以看出，阿勒泰站与伊宁站卫星反演的值最为接近地面观测值，阿勒泰站略低估，伊宁站略高估。冬季反演效果最差可能与可利用样本数较少有关，后者与“亮背景”下卫星遥感产品反演效果差有关[21],张显峰等[22]在2014 年改进遥感数据对太阳能的估算研究工作中也验证了这一结论。
+
+由表3可见，乌鲁木齐站与哈密站出现严重高估，均值差分别为 $1 2 3 . 8 7 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 和107.79W·$\mathrm { ~ m ~ } ^ { - 2 }$ ,推测主要原因是气溶胶反演在乌鲁木齐站的适用性略差。考虑相对湿度、水平能见度因素后，乌鲁木齐站反演得出的夏季气溶胶参数仍不能反映当地空气质量[21]。塔城站与吐鲁番站出现较为明显的低估，2站地形均具备地势低，周围环山的特点，多山地形易产生降水，间接影响太阳辐射到达地面的总量[23] O
+
+以上研究表明，CERES/SSF卫星资料在新疆的反演精度有待进一步提高，晴空条件下，影响卫星反演太阳总辐射的因素主要有太阳高度角、地表反照率和大气透明度。对于单一站点来讲,太阳高度角趋于稳定。但地表反照率在有积雪和有云时会明显影响地表短波辐射反演的准确性。另外，大气透明度取决于大气中水汽、凝结核和尘埃杂质，这些因素也会影响反演的准确性。而不同的站点上述影响因子的贡献不同，导致的误差程度也不同。
+
+表3晴空条件下北疆及吐一哈盆地卫星反演的太阳辐射的误差  
+Tab.3The errors of the solar radiation from satelite retrieval under clear-sky over north Xinjiang and the Turpan-Hami Basin   
+
+<html><body><table><tr><td rowspan="2">站名</td><td rowspan="2">观测类型</td><td rowspan="2">样本数</td><td>均值 /(W·m-²)</td><td>均值差</td><td rowspan="2">F值</td><td rowspan="2">P值</td><td rowspan="2">相关系数</td></tr><tr><td></td><td>/(W·m-²)</td></tr><tr><td>阿勒泰站</td><td>卫星</td><td>132</td><td>680.58</td><td>-2.10</td><td>655.28</td><td>0</td><td>0.91</td></tr><tr><td rowspan="2">哈密站</td><td>地面</td><td></td><td>682.68</td><td></td><td></td><td></td><td></td></tr><tr><td>卫星</td><td>126</td><td>845.00</td><td>107.79</td><td>3 410.80</td><td>0</td><td>0.98</td></tr><tr><td rowspan="2">塔城站</td><td>地面</td><td></td><td>737.21</td><td></td><td></td><td></td><td></td></tr><tr><td>卫星</td><td>159</td><td>613.86</td><td>-47.52</td><td>2 270.70</td><td>0</td><td>0.97</td></tr><tr><td rowspan="2">吐鲁番站</td><td>地面</td><td></td><td>661.38</td><td></td><td></td><td></td><td></td></tr><tr><td>卫星</td><td>146</td><td>656.22</td><td>-56.38</td><td>1 597.14</td><td>0</td><td>0.96</td></tr><tr><td rowspan="2">乌鲁木齐站</td><td>地面</td><td>73</td><td>712.60</td><td></td><td></td><td></td><td></td></tr><tr><td>卫星</td><td></td><td>950.10 826.23</td><td>123.87</td><td>864.80</td><td>0</td><td>0.96</td></tr><tr><td rowspan="2">伊宁站</td><td>地面</td><td>109</td><td>759.55</td><td>2.75</td><td>3 874.74</td><td>0</td><td></td></tr><tr><td>卫星 地面</td><td></td><td>756.80</td><td></td><td></td><td></td><td>0.99</td></tr></table></body></html>
+
+# 4结论
+
+（1）新疆地面辐射数据的四季辐照度日变化呈单峰分布，11个站点峰值除春季于13：00出现外，其他季节出现时间约为14：00，日照时数春、夏、秋、冬依次为： $1 4 \mathrm { ~ h ~ } , 1 7 \mathrm { ~ h ~ } , 1 5 \mathrm { ~ h ~ } , 1 2 \mathrm { ~ h ~ }$ 。春、夏、冬季日辐照度峰值最大值均出现在和田站，数值依次为：$1 \ 1 0 2 \ \mathrm { W } \cdot \mathrm { m } ^ { - 2 } \ 、 1 \ 0 1 5 \ \mathrm { W } \cdot \mathrm { m } ^ { - 2 }$ 和 $4 8 3 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,秋季峰值最高为 $6 7 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,发生在若羌站。峰值最小值在春季为 $5 8 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,出现在塔城站;在夏季出现在喀什站,为 $6 6 2 \textrm { W } \cdot \textrm { m } ^ { - 2 }$ ;在秋季阿勒泰站峰值为 $3 9 8 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,喀什站峰值略高,为409 W·$\mathrm { ~ m ~ } ^ { - 2 }$ ;在冬季,乌鲁木齐站峰值最小,仅为179 W·$\mathrm { m } ^ { - 2 }$ 。
+
+（2）新疆地面辐射数据日辐照度季节平均值的分布呈现明显的季节特征，辐照度由高至低依次为夏季、春季、秋季、冬季，最大值出现在和田站的春季,为 $5 8 9 . 6 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ,最小值出现在乌鲁木齐站的冬季，为 $1 0 2 . 2 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 。
+
+（3）新疆卫星反演辐射数据全年平均的空间分布，高值中心出现在昆仑山区大部和天山山区西部；低值中心有3个，分别是准噶尔盆地、吐一哈盆地和塔里木盆地的附近区域。季节像素点数据空间分布中,四季辐射区间依次为： $4 0 3 \sim 1 ~ 0 8 0 ~ \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ 、$8 2 1 \sim 1 \ 0 8 0 \ \textrm { W } \cdot \textrm { m } ^ { - 2 } \ , 2 7 2 \sim 7 8 0 \ \textrm { W } \cdot \textrm { m } ^ { - 2 } \ , 2 1 6 \sim 6 9 0$ （20$\mathbb { W } \cdot \textrm { m } ^ { - 2 }$ 。且春季南疆辐照度的值明显高于北疆,夏季纬向特征明显，整体由南至北逐渐降低;秋季南北疆辐照度差异较小;冬季昆仑山区、塔克拉玛十沙漠以及准噶尔盆地较附近区域辐照度均较高。夏季辐射空间分布与全年最为相似，冬季次之。相比春、夏季，秋、冬季北疆东北部辐射相比附近区域更高。季节平均值在阿克苏站差异最小,喀什站、和田站、乌鲁木齐站、哈密站差异均较大。
+
+（4）晴空条件下，CERES/SSF卫星反演的辐射数据与地面观测站的数据相关系数多在0.94以上，仅喀什站与阿勒泰站低于0.94，均为0.91。11站显著性检验 $P$ 值均为 $^ { 0 , F }$ 值南疆站点明显要高，即卫星反演效果在南疆地区更优。卫星反演地表短波辐射在阿克苏站和伊宁站适用性均较好，喀什站最差。
+
+# 参考文献（References）:
+
+[1]于晓燕,崔爱红.我国太阳能利用的现状、问题与对策[J].科 技信息,2011（3）:53,417.[Yu Xiaoyan,Cui Aihong.The current situation,problems and countermeasures of solar energy utilization in China[J].Science & Technology Information,2011（3）:53, 417.]   
+[2] 童成立，张文菊，汤阳，等.逐日太阳辐射的模拟计算[J].中国 农业气象,2005,26（3）:165-169.[Tong Chengli,Zhang Wenju,Tang Yang,et al.Estimation of daily solar radiation in China [J].Chinese Journal of Agrometeorology,2005,26（3）：165- 169.]   
+[3] Niemela S,Raisänen P,Savijarvi H.Comparison of surface radiative flux parameterizations：Part I.Longwave radiation[J].Atmospheric Research,2001,58(1）:1-18.   
+[4] Wang T,Yan G,Chen L.Consistent retrieval methods to estimate land surface shortwave and longwave radiative flux components under clear-sky conditions[J].Remote Sensing of Environment, 2012,124:61 - 71.   
+[5] Chen L,Yan G,Wang T,et al.Estimation of surface shortwave radiation components under all sky conditions:Modeling and sensitivity analysis[J].Remote Sensing of Environment,2012,123:457 - 469.   
+[6] 武永利,相栋.FY2号气象卫星估算地面太阳辐射研究[J].自 然资源学报,2013,28（12）:2117-2126.[Wu Yongli,Xiang Dong.Research on estimation of solar radiation via FY-2 weather satellite data[J]. Journal of Natural Resources,2013,28（12）： 2 117-2 126.]   
+[7］张春桂,文明章.利用卫星资料估算福建晴空太阳辐射[J].自 然资源学报,2014,29(9）:1 496-1507.[Zhang Chungui,Wen
+
+Mingzhang.Using satellite data to estimate solar radiation of clear
+
+sKy over rujian[J」. Journal oI Natural Kesources,∠Ui4,∠y（y）：   
+1 496 -1 507.] [8］卿文武,孙卫民,陈仁升.利用卫星资料估算我国西北地区直 接辐射[J].自然资源学报,2012,27（10）:1758-1765.[Qing Wenwu,Sun Weimin,Chen Rensheng.Estimation direct irradiance based on several satellite data in Northwest China[J]. Journal of Natural Resources,2012,27(10):1 758 -1 765.] [9]黄家敏,杨洪海,陈勇航,等.基于GEWEX-SRB 资料的新疆地 区太阳辐射时空分布特征[J].太阳能学报,2017,38（2）：516 -523.[Huang Jiamin,Yang Honghai,Chen Yonghang,et al.Spatialand temporal distribution of solar radiation in Xinjiang area based on GEWEX-SRB data[J]. Acta Energiae Solaris Sinica,   
+2017,38(2) :516 -523.] [10]庞明珠,周黛怡,陈勇航,等.基于CERES/Aqua卫星资料的新 疆地面向下短波辐射时空分布特征〔J].沙漠与绿洲气象，   
+2017,11（5）:9-15.[Pang Mingzhu,Zhou Daiyi,Chen Yonghang,et al.Spatial and temporal distribution of downward surface shortwave in Xinjiang based on CERES/Aqua data[J].Desert and Oasis Meteorology,2017,11（5）:9-15.] [11]Yan H,Huang J,Minnis P,et al. Comparison of CERES surface radiation fluxes with surface observations over Loess Plateau[J].Remote Sensing of Environment,2011,115:1 489-1 500. [12]Kratz DP,Gupta S K,Wilber A C,et al.Validation of the CERES edition 2B surface-only flux algorithms[J].Journal of Applied Meteorology and Climatology,2010,49(1）:164-180. [13］李帅,何清,周立平,等.塔克拉玛干沙漠腹地净辐射变化特征 [J].干旱区研究,2009,26(5）:644-648.[Li Shuai,He Qing, Zhou Liping,et al.Research on net-radiation characteristics at the hinter land of the Taklimakan Desert[J].Arid Zone Research,   
+2009,26(5) :644 -648.] [14]Staylor WF,Wilber A C.Global surface albedos estimated from ERBE data[C]/Seventh Conference on Atmospheric Radiation. San Francisco:CA.Amer.Meteor.Soc,1990;231-236. [15]Darnell WL,Staylor W F,Gupta S K,et al. Seasonal variation of surface radiation budget derived from International Satelite Cloud Climatology Project C1 data[J]. Journal of Geophysical Research,   
+1992,97:15 741 - 15 760. [16］王建刚,王盛韬,徐建春,等．新疆阿勒泰地区太阳能资源分析 与评估[J]．干旱区研究,2012,29(5）:820-825.[Wang Jiangang,Wang Shengtao,Xu Jianchun,et al. Analysis and assessment on solar energy resources in Altay Prefecture,Xinjiang[J].Arid Zone Research,2012,29(5）:820 -825.] [17］陈志华,石广玉,车慧正.近40a来新疆地区太阳辐射状况研 究[J].干旱区地理,2005,28(6）:734-739.[Chen Zhihua,Shi Guangyu,Che Huizheng.Analysis of the solar radiation of Xinjiang Uygur Autonomous Region in recent 4O years[J].Arid Land Geography,2005,28（6):734-739.] [18］胡小韦.太阳辐射气象站实测数据与 NASA 数据对比分 析——以吐鲁番地区光资源为例[J].西北水电,2016（3）：75 -78.[Hu Xiaowei.Comparison and analysis on data of solar radiation from meteorological station and NASA: With solar resource in Turpan region[J].Northwest Hydropower,2016(3）:75-78.]
+
+[19]申彦波，常蕊，杜江，等.吐鲁番地区可利用太阳能资源分析[J].高原气象,2015,34（2）：470－477.[Shen Yanbo,ChangRui,Du Jiang,etal.Analysis of the available solar energy resourcesin Turpan[J].Plateau Meteorology,2015,34(2）:470-477.]
+
+[20]胡波，王跃思，何新星，等.北京2004年一次强沙尘暴过程的辐射特征研究[J].气候与环境研究，2005，10（2）：265-274.[HuBo,Wang Yuesi,He Xinxing,et al.Variation properties ofearth's surface solar radiation during a strong dust storm in Beijing2004[J].Climatic and Environmental Reaearch,20o5,10（2）：265 -274. ]
+
+[21］陈鹏,张青,李悦.乌鲁木齐市 MODIS气溶胶光学厚度与空气质量指数相关性分析[J].沙漠与绿洲气象，2018，12（2）：71-77.[Chen Peng,Zhang Qing,Li Yue.Analysis on correlation be-tween MODIS aerosol optical depth values and air quality indicesinUrumqi[J].Desert and Oasis Meteorology,2018,12（2):71-77.]
+
+[22]张显峰，刘羽，LiJonathan，等.利用多源遥感数据改进地面太阳直射辐射估算[J].太阳能学报，2014,35（8)：1473-1479.[Zhang Xianfeng,Liu Yu,Li Jonathan,etal.Multi-remote sensingdata for improving estimation of ground solar direct normal radia-tion[J].Acta Energiae Solaris Sinica,2014,35（8）:1 473 -1 479.]
+
+[23]吴其重，王自发，崔应杰.我国近20年太阳辐射时空分布状况模式评估[J].应用气象学报，2010,21（3）：343-351.［WuQizhong,Wang Zifa,Cui Yingjie.Evaluating the solar radiation re-sources of China in recent 2O years by meteorological model[J].Journal of Applied Meteorological Science,2010,21（3）:343 -351.]
+
+# Surface Solar Radiation in Xinjiang and the Applicability of CERES/SSF Satellite Data
+
+YANG Feng-juan’， KANG Yan-ming'，LIU Qiong'，HU Jun’，QIN Rong²， CHEN Yong-hang1,3, SHI Wen-hao¹，LI Jin-ze’， ZHANQiu-yi1 (1.College of Environmental Science and Engineering,Donghua University,Shanghai 201620,China; 2. Xinjiang Meteorological Bureau,Urumqi 830002,Xinjiang,China; 3.Urumqi InstituteofDesert Meteorology,China MeteorologicalAdministration,Urumqi 83oo02,Xinjiang,China)
+
+Abstract：The spatiotemporal distribution of total solarradiation at1l meteorological stations in Xinjiang was studies based on analyzing the data of solar radiation recorded in 2O17at minute scale.Theresults showed that the curve of dailyvariation of total solarradiation was unimodal,andthedailysunshineduration wasthe highest（about 17 hours）in summer,then thatin spring and autumn（about 14and15 hours respectively）,and it was the lowest (about 12 hours only）in winter.Regionally and seasonally,the maximum value ( $\left( 5 8 9 . 6 1 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } \right.$ ）occurred in Hotan in spring,and the minimum one ( $1 0 2 . 2 9 \mathrm { ~ W ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ only）in Urumqi in winter.The spatial distribution of satelite retrieval radiation showed thatthe irradiation in south Xinjiang was obviously higherthan that in north Xinjiang,theaverage irrdiation in summer was the most similar to theannual average irradiance,then in winter,the difference between north Xinjiang and south Xinjiang was not significant,and the seasonal diffrence was the lowest in Aksu.The fittng analysis of satellite and surface radiation data revealed that the $F$ value in south Xinjiang was as highas 6215.53,that is,under thecondition of clear sky,theretrievalof CERES/SSFsatelitedata in south Xinjiang was better than that in north Xinjiang and the Turpan-Hami Basin.
+
+Key words:CERES/SSF； irradiance；downward shortwave radiation;error； Xinjiang

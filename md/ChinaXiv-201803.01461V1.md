@@ -1,0 +1,157 @@
+# 碱蓬浮床对海水养殖尾水中氮磷修复效果研究
+
+王趁义'，赵欣园'，滕丽华 $^ { 1 * }$ ，郭炜超（1.浙江万里学院 生物与环境学院，宁波315100）
+
+摘要：海水养殖尾水中总氮、总磷超标是引起沿海水体富营养化的主要原因，为研究碱蓬浮床对模拟海水养殖尾水中氮磷的去除效果，设计了加入碱蓬(Suaeda sala)浮床和不加浮床的2组对比实验，通过比较修复前后碱蓬株高、生物量、含水率、根长以及各部位氮、磷的含量变化，以及水体中总氮和总磷的去除效果，探究浮床中碱蓬对总氮和总磷的吸收及其生长特性，验证碱蓬浮床对海水养殖废水中氮、磷等的去除能力。结果表明，浮床中碱蓬株高、鲜重、干重、含水率、根长较修复前均有显著增加，说明浮床中碱蓬能够适应含海水养殖尾水水培环境。经碱蓬浮床修复，水体中总氮、总磷均明显下降，其中碱蓬对海水养殖尾水中的氮磷去除贡献率分别为 $1 6 . 1 0 \%$ 和 $7 8 . 1 5 \%$ ，浮床中碱蓬会在叶片和根系中积累氮磷。本研究能为研究碱蓬在海水养殖尾水原位修复提供一定基础。
+
+关键词：碱蓬浮床，海水池塘养殖尾水，氮磷积累效应，生长特性，水体修复
+
+DOI: 10.11931/guihaia.gxzw201711040
+
+# Removal of nitrogen and phosphorus in marine-culture tail water by Suaeda Salsa floating bed
+
+WANGChenyi',ZHAO Xinyuan',TENGLihual\*,GUOWeichao1 (1.College of Biology and Environment, University of Zhejiang Wanli,Ningbo 31510o,China)
+
+Abstract: The main cause of eutrophication of seawater is the excessive nitrogen and phosphorus in the tail water of mariculture. Two groups of contrast experiment were designed: adding Suaeda Salsa floating bed and without floating bed. By compare the changes of Plant height, biomass, moisture content, root length and content of nitrogen and phosphorus in different parts of plan at the beginning and the end of experiment. Aim for explore removal effect of nitrogen and phosphorus in marine-culture tail water by Suaeda Salsa floating bed. Removal effect of N and $\mathrm { \bf ~ P }$ （20 in water are also measured to verify the removal ability of Suaeda to nitrogen and phosphorus in marine aquaculture tail water as well as to explore the eects of Suaeda on accumulation of nitrogen and phosphorus and their growth characteristics.The result shows that Suaeda can adapt well to the floating bed culture environment of saline aquaculture tail water and there was a significant increase in plant height, biomass,water content, root length.The accumulation of $\mathrm { \Delta N }$ and $\mathrm { \bf ~ P }$ were mainly in leaves and roots of Suaeda. The $\mathrm { \Delta N }$ and $\mathrm { \bf ~ P }$ accumulation effect of Suaeda account for $1 6 . 1 0 \%$ and $78 . 1 5 \%$ on TN and TP removal in water.This results can provide a basis for further study of the role of Suaeda in the purification of tail water in seawater pond and the use of floating bed to repair the tail water of mariculture.
+
+Keywords: Suaeda salsa floating bed; tail water in seawater pond; accumulation effect of nitrogen and phosphorus;growth characteristics; water remediation
+
+近年来，随着我国海水池塘养殖业的快速发展，工厂化养殖规模与密度不断增加，而不规范的人工投喂方式以及目前海水养殖废水排放标准尚未颁布，海水养殖尾水直接排放导致日益严峻的海湾及近岸海域水质恶化，生态系统失衡、赤潮频发、病害滋生，严重制约了海水养殖业的发展（陈进斌等,2016）。由于海水养殖尾水具有水量大、盐度高和治理难等特点（Sfezetal,2015），普通陆生植物无法适应并达到修复的目的，碱蓬(Suaeda sala)是一种喜盐耐碱的盐生经济作物，根据以往的研究，其既有优良的重金属耐受能力（杨佳等,2015;于晓磊,2017），又有明显的改良土壤（王立艳等,2014；孟庆峰等,2012）和修复含盐水体的能力（陈友媛等,2017），同时，盐生植物碱蓬在食品、医药和农业饲料等领域均具有较好的经济价值（李梅梅等,2017；Rozema et al,2013;Oueslati et al,2012），而利用碱蓬浮床修复海水池塘养殖尾水及其氮磷的积累效应和生长特性等研究则鲜有报道，因此研究碱蓬浮床栽培对海水养殖尾水中氮磷去除具有深远的意义。
+
+本研究选用本地经济盐生植物碱蓬为浮床植物，摸索其在海水养殖尾水修复中对氮磷积累效应及生长特性，通过对比碱蓬修复前后的生长状况、生物量、及碱蓬各部位的氮磷含量以及积累状况，结合水体中总氮、总磷的去除情况，确定碱蓬对氮磷的吸收能力和各部位氮磷积累效应，以期为深入研究碱蓬在海水池塘养殖尾水净化中所起的作用和利用浮床修复海水养殖尾水提供依据。
+
+# 1材料与方法
+
+# 1.1试验材料与装置
+
+实验用的海水养殖尾水是通过自来水投加养殖用海水晶，海水晶为保嘉速溶海水晶，其成分主要模拟自然海水，成分为钠、镁、钾、钙、硫酸根、氯离子等，并再此基础上投加氯化铵、硝酸钾、磷酸二氢钾及葡萄糖以模拟海水养殖尾水，上述试剂均为分析纯。配制之后的海水养殖尾水水质情况如下： $\mathfrak { p H }$ 值为 $7 . 5 { \sim } 8 . 5$ ，盐度为 $1 5 . 0 \% { \sim } 2 0 . 0 \% _ { 0 0 }$ ，总氮 $3 5 { \sim } 4 0 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ，总磷 $5 . 5 { \sim } 6 . 2 \ \mathrm { m g { \cdot } L ^ { - 1 } }$ ；实验过程中不换水，只补充因蒸发和采样而损失的水分。
+
+所用碱蓬成苗采集于象山县涂茨镇滩涂湿地，所选植株初始平均株高（ $1 0 . 4 { \pm } 0 . 5 \$ ）cm，根系平均长度（ $5 . 1 { \pm } 0 . 5 \$ ）cm。实验前清水洗去泥土，并用模拟海水养殖尾水驯化2天，待根系恢复后选取长势一致的碱蓬进行实验。生态浮床购自淘宝，材料为高密度聚乙烯，呈圆饼状，其直径 $3 4 \mathrm { c m }$ ，厚 $5 \mathrm { c m }$ 。
+
+# 1.2 实验设计
+
+实验采用6个长宽高分别为 $6 7 ~ { \mathrm { c m } } { \times } { 4 7 } ~ { \mathrm { c m } } { \times } { 4 8 } ~ { \mathrm { c m } }$ 的塑料水箱，每个水箱分别注入 $6 0 \mathrm { L }$ 海水养殖尾水，均在室外防雨塑料棚中进行。
+
+为模拟现场处理条件，并保证浮床中碱蓬的生长，对水体作不间断进行曝气处理，曝气量为 $3 ~ \mathrm { L } { \cdot } \mathrm { m i n } ^ { \cdot } $ 。为研究碱蓬生态浮床整体对海水养殖尾水中氮、磷的修复效果，设计两组对比实验，1组在水箱内装海水养殖尾水但不设浮床的水箱作为对照组，另外1组水箱为实验组，每个水箱中放置2只浮床，按照每组生物量一致每个浮床栽培10株碱蓬，并利用
+
+高密度海绵固定，如图1所示。
+
+![](images/ff960db8a5660152335aaeeb6fe8d37d9c644922906d3fe82c9df334e6f3a34d.jpg)  
+图1实验装置  
+Fig.1 Experiment device
+
+实验于2017年5月3日-7月2日进行，修复周期为 $6 0 \mathrm { d }$ ，每次于采集日的上午8:00采集水样，每次 $1 0 0 ~ \mathrm { { m L } }$ ，并根据水箱水量蒸发情况，用含盐的蒸馏水进行补充，以维持水体总体积和盐度条件不变。每7天采集一次水样，共4次，后期植物生长稳定后，每10天采集一次，共3次。植物样品分别于修复前和修复后采集。
+
+比较实验组和对照组的总氮、总磷变化情况，并比较修复前后植物鲜重、干重、株高、根系长度、含水率、含氮量和含磷量变化。
+
+# 1.3实验方法与数据处理
+
+实验前后随机采集浮床中碱蓬5-8株，利用分析天平称量鲜重，用皮尺测定株高和根长，在烘箱烘干水分后称量干重并计算含水率，以上指标取平均值。水样采集利用水样采集器在水面下 $5 { \cdot } 1 0 \ \mathrm { c m }$ 处进行，水质检测参照国标（HJ636-2012;GB/T11893-1989），将采集后的水样迅速在实验室内分别测定TN和TP；植物中含氮量含磷量采用文献（黄丽芬等,2014）方法测定。实验数据利用Origin9.0作图，利用 SPSS17.0软件分析。污染物去除率及植物吸收对氮磷去除的贡献率依据李涛（李涛等,2009）等人研究进行估算，计算公式如下：
+
+式中 $\mathbf { c } _ { 0 }$ 和 $\mathbf { c } _ { 1 }$ 表示初始污染物浓度和取样后污染物浓度 $( \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ ， $m _ { 0 } , \ m _ { I }$ 表示植物初始及实验结束平均含氮(磷)量 $( \mathbf { m g \cdot g ^ { - 1 } } )$ ， $\Delta \mathrm { m } _ { \mathrm { D W } }$ 表示修复前后碱蓬干重 $( \mathrm { m g } )$ 的变化量， $V$ 为水箱体积60L， $N$ 为植物密度本实验中 $N { = } 2 0$ 。
+
+# 2结果与分析
+
+# 2.1水质变化分析
+
+碱蓬对水中总氮、总磷的去除效果如图2所示，随着时间的延长，实验组和对照组总氮
+
+注：A表示总氮浓度变化；B表示总氮去除率变化；C表示总磷浓度变化；D表示总磷去除率变化。Note:A indicate the contentof TN;B indicate theTNremoval rate;C indicate thecontent ofTP;D indicate the TPremoval rate.
+
+![](images/4353ca0135609c3c3f751b6ff2a9a0a40ccc24f50ba5d28a39e127d170df6505.jpg)  
+图2各组总氮、总磷变化及去除率   
+Fig.2 TN and TP variation and removal rate in each group
+
+总磷浓度呈下降趋势且氮、磷去除率均随时间变化而提高，其中实验组和对照组总氮去除率分别为 $34 . 7 4 \%$ 和 $1 1 . 8 3 \%$ ，总磷去除率分别为 $5 3 . 5 1 \%$ 和 $34 . 6 0 \%$ ，实验组去除率显著高于对照组，证明碱蓬浮床的存在对水体总氮、总磷去除有明显效果。
+
+# 2.2碱蓬生长特性及对氮磷积累效果
+
+# 2.2.1碱蓬生长状况
+
+修复前后不同处理组碱蓬生物量及含水率的变化如表1。可以看出碱蓬在修复后比修复前的鲜干重、株高及含水率均有显著增加 $( P { < } 0 . 0 5 )$ ，碱蓬根系生长状态良好，这为水体中氮磷的去除提供了有利条件。
+
+表1修复前后碱蓬生物量及含水率变化  
+Table.1 Changes of biomass and water content of Suaeda salsa after remediation   
+
+<html><body><table><tr><td></td><td>鲜重 FW(g)</td><td>干重 GW (g)</td><td>株高 Height（cm)</td><td>根系长度 Root</td><td>含水率 Moisture</td></tr><tr><td>处理前</td><td>0.71±0.20b</td><td>0.20±0.10b</td><td>10.40±0.10b</td><td>length（cm） 5.10±0.10b</td><td>content(%) 63.52±3.52b</td></tr><tr><td>Before treatment 处理后 Aftertreatment</td><td>8.33±0.30a</td><td>1.34±0.25a</td><td>36.6±0.50a</td><td>17.50±0.5a</td><td>84.00±2.43a</td></tr></table></body></html>
+
+<html><body><table><tr><td>增长量 Increment</td><td>7.62±0.10</td><td>1.14±0.15</td><td>26.20±0.40</td><td>12.40±0.40</td><td>20.48±1.09</td></tr></table></body></html>
+
+注：同列中不同的小写字母表示在 $\overline { { { \mathrm { \ p } } { = } 0 . 0 5 } }$ 水平上差异显著。Note:Different smalletters in the same column indicate the significant difference at O.O5 level.
+
+# 2.2.2碱蓬各部位氮磷积累效应
+
+由表2所示，浮床中碱蓬各个部位对氮的积累效应均高于磷，这是因为氮是合成蛋白质的主要成分，且蛋白质在植物干物质中占有很大比例，而磷主要参与生物体磷脂、核酸等物质的构成，其比例较氮要小，且由于不稳定容易损失（王镜岩等,2002）。
+
+碱蓬对氮的积累表现为叶 $>$ 根 $>$ 茎，碱蓬叶片中氮含量由 $1 5 . 6 5 { \pm } 0 . 1 3 ~ \mathrm { m g ^ { . } g ^ { - 1 } }$ 显著增加至$1 9 . 1 0 { \pm } 0 . 4 2 \ \mathrm { m g cdot g ^ { - 1 } } ( P { < } 0 . 0 5 )$ ，而茎含氮量则较处理前有显著下降 $( P { < } 0 . 0 5 )$ ；对磷的积累表现为
+
+表2修复前后碱蓬各部分N、P变化  
+Table.2 Changes ofNand P content in plant tissues   
+
+<html><body><table><tr><td>植物不同部位氮 磷量</td><td>叶含氮量 N content in</td><td>茎含氮量 N content in</td><td>根含氮量 N content in</td><td>叶含磷量 P content in</td><td>茎含磷量 P content</td><td>根含磷量 P content in</td></tr><tr><td>N&P content in different part of plant</td><td>frond</td><td>stem</td><td>root</td><td>frond</td><td>in stem</td><td>root</td></tr><tr><td>处理前 Before treatment</td><td>15.65±0.13b</td><td>12.07±0.09a</td><td>12.10±0.21b</td><td>2.94±0.87a</td><td>2.46±0.20b</td><td>3.22±0.34b</td></tr><tr><td>处理后 After treatment</td><td>19.10±0.42a</td><td>10.65±0.07b</td><td>17.30±0.14a</td><td>3.54±0.53a</td><td>4.63±0.16a</td><td>7.34±0.82a</td></tr></table></body></html>
+
+注：同列中不同的小写字母表示在 $\scriptstyle P = 0 . 0 5$ 水平上差异显著Note: Different small lettrs in the same column indicate the significant difference at O. O5 level.根 $>$ 茎 $>$ 叶，除叶片外各部位磷含量均有显著增加 $( P { < } 0 . 0 5 )$ ，叶片中的磷由最初的（ $2 . 9 4 { \scriptstyle \pm 0 . 8 7 }$ ）mg'g1增加至 $( 3 . 5 4 \pm 0 . 5 3 ) \ : \ : \mathrm { m g } \cdot \mathrm { g } ^ { - 1 } ( P { > } 0 . 0 5 )$ 。碱蓬在叶片和根系部分对氮的积累较高，根和茎部分对磷的积累较高，这与碱蓬在生长期对营养元素的分配有关。
+
+# 2.2.3碱蓬各组织中N/P比变化
+
+N/P 比体现了碱蓬对N、P的利用及分配情况(李海英等,2007)。修复前后，碱蓬各组织中N/P变化如图3所示。经 $6 0 \mathrm { d }$ ，碱蓬N/P比由修复前的 $4 . 3 5 { \scriptstyle \pm 0 . 5 0 }$ 变为修复后的 $3 . 0 3 { \scriptstyle \pm 0 . 2 6 }$ ，显著下降，这是由于碱蓬对磷元素的积累增加导致。碱蓬各部分N/P比随时间变化存在显著差异。初始期碱蓬各部位N/P 比从大到小依次为叶 $( 5 . 3 2 { \pm } 0 . 2 8 ) ^ { > }$ 茎 $( 4 . 9 1 \pm 0 . 3 5 ) >$ 根 $( 3 . 7 6 { \scriptstyle \pm 0 . 4 0 } )$ ；60d后则为叶 $( 5 . 3 9 { \pm } 0 . 7 0 ) ^ { > }$ 根 $( 2 . 3 6 { \pm } 0 . 2 5 ) ^ { > }$ 茎 $( 2 . 3 0 { \pm } 0 . 0 6 ) \$ ，修复前后碱蓬叶片N/P比值虽上升，但差异不显著 $( P { > } 0 . 0 5 )$ 。而茎、根N/P比值则显著下降。
+
+![](images/8b2c991793241d6cc7de66f244ceaee8d52c77bd063e7eae38faaba44d25320a.jpg)
+
+注：A表示植物整体N/P比；B表示植物不同部位N/P比。Note:Aindicate plantN/P ratio; B indicate $\mathrm { { N / P } }$ ratio in different part of plant
+
+Fig.3N/Pchanges in the whole and various parts of Suaeda Sala after the experiment
+
+2.2.4碱蓬对水体中氮磷去除的贡献
+
+碱蓬吸收作用对水体总氮、总磷去除关系如表3所示。碱蓬经吸收及同化作用，去除约$1 4 4 . 6 \mathrm { m g }$ 总氮和 $1 3 7 . 8 \mathrm { m g }$ 总磷。水体总氮和总磷分别下降 $1 0 2 3 . 6 \mathrm { m g }$ 和 $2 0 1 . 0 \mathrm { m g }$ ，碱蓬对总氮、总磷去除贡献率分别为 $1 6 . 1 0 \%$ 和 $7 8 . 1 5 \%$ 。尽管碱蓬对水体中氮去除有一定贡献，但
+
+表3植物积累与尾水中N、P去除关系  
+Table.3 Relationship between Nitrogen and Phosphorus Accumulation and N,PRemoval in Wastewater   
+
+<html><body><table><tr><td></td><td>污染物去除 率 Removing rate (n,</td><td>水体氮磷削减 量Total removal （△mw/ m，g)</td><td>植物氮磷积累 量 Plant absorption （△mp /m，g)</td><td>植物去除贡献 Plant removal contribution rate (γ1，%)</td><td>非植物去除贡献 Other removal contribution rate(γ，%)</td></tr><tr><td>总氮TN/mg</td><td>%) 34.74</td><td>1023.60</td><td>164.84</td><td>16.10b</td><td>83.90a</td></tr><tr><td>总磷TP/mg</td><td>53.52</td><td>201.00</td><td>157.09</td><td>78.15a</td><td>21.85b</td></tr></table></body></html>
+
+注：同行中不同的小写字母表示在 $\scriptstyle P = 0 . 0 5$ 水平上差异显著。Note:Different small letters in the same line indicate the significant difference at 0.O5 level.
+
+碱蓬浮床中的非植物因素对总氮去除的贡献高于碱蓬对氮的吸收作用(非植物因素对总氮的贡献为 $8 3 . 9 0 \%$ ）。这可能是碱蓬根系的生长，为微生物硝化作用(Shengetal,2013)、微生物的富集（黄永芳等,2014）提供了基础，而挥发和物理吸附沉淀等也会导致水体氮磷含量下降，因此优化浮床的结构以及强化微生物作用可以促进对总氮及总磷的修复效果。
+
+# 3结论与讨论
+
+由于海水养殖尾水盐度较大，许多水体修复能力较好的植物无法适应而导致水体修复能力较差，而碱蓬因其良好的耐盐性及生存能力，且具有较高的经济价值，因此对海水养殖尾水修复上具有较好的应用前景。在浮床系统中，碱蓬的生长状况会影响浮床系统对总氮和总磷的去除效果。修复过程中，碱蓬生长旺盛，株高、生物量、含水率均显著增加，其中碱蓬在浮床中根系生长旺盛，证明碱蓬对盐度为 $1 5 \text{‰}$ 的海水养殖尾水环境适应良好，这为水体中氮磷去除提供了有利的条件。研究结果发现，碱蓬在浮床栽培时，会优先将氮、磷等元素积累至叶片以及根系中，这与其生长过程中对营养的分配有关，植物生长过程中会优先将生物量及营养分配到其竞争部位，以适应其生长的环境。由于光照充足且碱蓬处于生长期，为满足光合作用的需求，叶片是主要的营养竞争部位，营养元素会优先满足叶片供给，以进行更多的光合作用（赵婉婉等,2013），促进有机物质的合成。而根系中对营养元素的积累则是由于碱蓬对水生环境的适应，以及增加对营养的吸收。碱蓬通过增加根部营养分配，促进根系的生长以扩大根系表面积来满足对更多营养的吸收以维持碱蓬自身的生长及调节机能需要（Bloometal,2004；胡星云等,2017）。根据测定的植株整体以及各部位N/P变化可知，碱蓬在浮床生长过程中，磷是主要的限制营养元素，有研究指出多种水生植物在磷限制的水生条件中，对磷的摄取速度大于氮，这可能与水生植物对营养盐的选择压力造成（Liao etal,2017）。证明碱蓬生长期对磷元素的积累速率较氮快，碱蓬吸收作用是水体中磷去除的主要因素。经过修复处理，浮床中碱蓬对氮、磷的积累量分别为 $1 6 4 . 8 4 ~ \mathrm { m g }$ 和$1 5 7 . 0 9 \mathrm { m g }$ ，分别占水体中总氮、总磷去除贡献的 $1 6 . 1 0 \%$ 和 $7 8 . 1 5 \%$ ，碱蓬吸收作用在本实验条件下是磷去除的主要原因，而对氮的去除作用有限。
+
+浮床系统对总氮去除途径主要有植物的吸收作用（Bartucca etal,2016;Guo et al,2014;Ravnjak et al,2013），微生物硝化-反硝化作用(陈重军等,2013)等。由于在室外条件下，曝气使得水体中溶氧条件良好，且碱蓬由于根系的生长及根表面积的扩大，能为微生物提供良好的吸附位点，并促进微生物的富集（黄永芳等,2014），一方面有利于碱蓬对水体中氮的吸收，另一方面有利于硝化细菌的生长，促进了对氨氮的转化，因此水体中总氮的去除依靠碱蓬对氨氮和硝态氮的吸收作用和根系微生物的富集对氮的吸收同化。而水体的溶解氧含量较高，导致水体中微生物厌氧反硝化过程受限，因此浮床系统对硝态氮的去除能力有限。水体总磷的去除途径可归纳为植物吸收、沉淀、吸附作用和微生物固定（周小平等，2015）。碱蓬由于自身生长的需要，会增加对磷的吸收，因此在本实验中碱蓬吸收作用是磷去除的重要原因。富集在碱蓬根系的微生物生长对水体中的磷酸盐吸收同化同样也促进了总磷的去除。而由于加入的海水晶中含有钙、镁等元素，在一定条件下会与磷酸盐产生沉淀导致了空白组总磷的下降。
+
+综上所述，浮床栽培碱蓬对海水养殖尾水中总氮、总磷具有一定的去除效果，而由于碱蓬特殊的氮磷积累特性，需通过采收的方式，降低海水养殖尾水中总氮和总磷的污染水平而强化微生物富集以及反硝化进程将有利于促进碱蓬浮床对总氮的去除效果。
+
+# 参考文献
+
+CHEN JB，MIAO YX，QIU JQ， et al， 2016.Development of marine aquaculture wastewatertreatment technology[J].JSalt Chem Ind，2016，45(5):1-5.[陈进斌，苗英霞，邱金泉，等，2016.海水养殖废水处理技术研究进展[J].盐业与化工，45(5):1-5.]  
+Sfez S，Hende SVD， Taelman SE， et al， 2015.Environmental sustainability assessment of amicroalgae raceway pond treating aquaculture wastewater:from up-scaling to systemintegration[J]. Bioresour Technol，190(1): 321-331.  
+YANG J，WANG CY， CHEN Q，et al， 2016. Responses and accumulation characteristics ofSuaeda salsa under combined and single stress of $\mathrm { P b } ^ { 2 + }$ and $\mathrm { C d ^ { 2 + } [ J ] }$ .J Soil WaterConserv，30(2):323-327.[杨佳,王趁义,陈翟,等，2016.碱蓬对 $\mathrm { P b } ^ { 2 + }$ 、 $\mathrm { C d ^ { 2 + } }$ 单一及复合胁迫的反应及其吸收累积特征[J].水土保持学报,30(2):323-327.]  
+YU XL，Wang LY， Zhao XY， et al， 2017. Physiological and biochemical responses of Suaedasalsa to $\mathrm { P b } ^ { 2 + }$ ， $\mathrm { C d } ^ { 2 + }$ in single and combined stress at different growth stages[J].Hans J AgricSci，7(2):120-127.[于晓磊，王璐瑶，赵欣园，等，2017.不同生长时期碱蓬在$\mathrm { P b } ^ { 2 + }$ 、 $\mathrm { C d ^ { 2 + } }$ 单一及复合胁迫下的生理生化响应[J].农业科学，7(2):120-127.]  
+WANG LY， PAN J， YANG Y， et al， 2014. The fertility effects of salt-tolerant herbaceousplants on coastal saline soil[J].Pratac Sci，31(10):1833-1839.[王立艳，潘洁，杨勇，等，2014.滨海盐碱地种植耐盐草本植物的肥土效果[J].草业科学，31(10):1833-1839.]  
+MENG QF， ANG JS， YAO RJ， et al， 2012. Improvement of saline soil by planting Suaedasalsa and adding nitrogenous and phosphate fertilizers in the northern Jiangsu Province[J].Pratac Sci，29(1):1-8.[孟庆峰，杨劲松，姚荣江，等，2012.碱蓬施肥对苏北滩涂盐渍土的改良效果[J].草业科学，,29(1):1-8.]
+
+CHEN YY，WU YD， SUN P， et al， 2017.Purification of slightly salt-alkaline water bodies bymicroorganism enhanced combined floating bed[J]. Environm Sci， 38(7):2850-2858.[陈友媛，吴亚东，孙萍，等，2017.微生物强化组合浮床净化微盐碱水体的效果[J].环境科学，38(7):2850-2858.
+
+LI MM，WU GH， ZHAO ZY，et al， 2017.Feeding value evaluation of Xinjiang five chenopodhalophytes[J].Pratac Sci，34(2):361-368.[李梅梅，吴国华，赵振勇，等，2017.新疆5种藜科盐生植物的饲用价值[J].草业科学，34(2):361-368.]  
+ROZEMA J，SCHAT H，2013. Salt tolerance of halophytes， research questions reviewed inthe perspective of saline agriculture[J]. Environ Exp Bot， 92(92): 83-95.  
+OUESLATI S， TRABELSI N，BOULAABA M， et al， 2012.Evaluation of antioxidantactivitiesof the edible and medicinal Suaeda species and related phenolic compounds[J].Ind Crops Prod， 36(1): 513.  
+ZHANG Q， ACHAL V， XU Y， et al， 2014. Aquaculture wastewater quality improvement bywater spinach (Ipomoea aquatica Forsskal) floating bed and ecological benefit assessment inecological agriculture district[J]. Aquac Eng， 60(3):48-55.  
+HJ 636-20l2 Determination of total nitrogen in water by alkaline potassium persulfate digestionUV spectrophotometry[S].  
+GB/T 11893-1989 Determination of total phosphorus in water by ammonium molybdatespectrophotometry[S].  
+HUANG LF， ZHANG R，YU J， et al， 2014.Effects of nitrogen application on NPK uptakeand distribution in hybrid rice under weak light[J]. J Nucl Agric Sci， 28(12):2261-2268.[黄丽芬，张蓉，余俊，等，2014.弱光下氮素配施对杂交水稻氮磷钾吸收分配的效应研究[J].核农学报，28(12):2261-2268.]  
+LI T， ZHOU L， 2009. Characteristics of several plants for removing nitrogen and phosphorusfrom wastewater in constructed wetland[J]. Environm engineer，27(4):25-28.[李涛，周律,2009.湿地植物对污水中氮、磷去除效果的试验研究[J].环境工程，27(4):25-28.]  
+BARTUCCA ML， MIMMO T， CESCO S， et al， 2016. Nitrate removal from polluted waterby using a vegetated floating system[J]. Sci Total Environ， 542:803.  
+GUO YM，LIU YG， ZENG GM， et al， 2014. A restoration-promoting integrated floating bedanditsexperimental performancein eutrophication remediation[J].J EnvironmSci，26(5):1090-1098.  
+RAVNJAK M， VRTOVSEK J， PINTAR A， 2013. Denitrification of drinking water in a two-stagemembranebioreactorbyusingimmobilizedbiomass[J].BioresourTechnol, 128(1):804-808.  
+CHEN C， ZHANG R， WANG L， et al， 2013. Suitable substrates to improve efficiency ofbiological aerated filter for greenhouse turtle breeding wastewater treatment[J]. TransactionsChin Soc Agric Engineer，29(11):173-179.[陈重军，张蕊，王亮，等，2013.适宜填料提高温室甲鱼养殖废水曝气生物滤池处理效能[J].农业工程学报，29(11):173-179.]  
+ZHOU XP，WANGJG， XUE LH， et al， 2005.N and P removal characters of eutrophicwater body under planted float[J]. Chin JAppl Ecol，16(11):2199-2203.[周小平，王建国薛利红，等，2005.浮床植物系统对富营养化水体中氮、磷净化特征的初步研究[J].应用生态学报，16(11):2199-2203.]  
+HUANG YF， YANG QY， ZHANG TP，et al， 2014. Secretion characteristics of two plantsunder hydroponic culture and its relationships with pollutant removal[J]. Chin JEcol，33(2):373-379.[黄永芳，杨秋艳，张太平，等，2014.水培条件下两种植物根系分泌特征及其与污染物去除的关系[J].生态学杂志，,33(2):373-379.]  
+WANG JY， ZHU SG，XU CF，2002.Biochemistry[M]. 3rd ed.Beijing:Higher EducationPress:133-500.[王镜岩，朱圣庚，徐长法，2002.生物化学(上)[M].3版.北京:高等教育出版社:133-500.]  
+ZHAO WW，GUO LY， ZHOU GQ， et al， 2017. The Ecological characteristics of Oenanthejavanica floating mats and its feedback to pond water quality[J]. JEcol RuralEnvironm，33(5):433-439.[赵婉婉，郭丽芸，周国勤，等，2017.浮床水芹(Oenanthejavanica)的生态特性及对池塘水体环境的反馈与响应[J].生态与农村环境学报，33(5):433-439.]  
+BLOOM RG，MALLIK AU， 2004.Indirect effects of black spruce (Picea mariana) cover oncommunity structure and function in sheep laurel (Kalmia angustifolia) dominated heath ofeastern Canada[J]. Plant Soil， 265(1/2):279-293.  
+HU XY， SUN ZG， SUN WG， et al， 2017. Biomass and nitrogen accumulation and allocationin Suaeda salsa in response to exogenous nitrogen enrichment in the newly created marshesof the Yellow River Estuary[J].Acta Ecol Sin，37(1):226-237.[胡星云，孙志高，孙文广，等，2017.黄河口新生湿地碱蓬生物量及氮累积与分配对外源氮输入的响应[J].生态学报，,37(1):226-237.]  
+LI HY，LI WC， FENG M， et al， 2009.Characteristics and contribution of Oenanthe javanicauptake to nitrogen and phosphorus removal based on a micro-aerated ecological floatingbed[J].JAgro-Environm Sci，28(9):1908-1913.[李海英，李文朝，冯慕，等，2009.微曝气生态浮床水芹吸收N、P的特性及其对系统去除N、P贡献的研究[J]J.农业环境科学学报，28(9):1908-1913.]  
+LIAO JX， ZHANG DENAN， MALLIK AZIM， et al， 2017. Growth and nutrient removal ofthree macrophytes in response to concentrations and ratios of $\mathrm { \Delta N }$ and P[J].Internat JPhytoremed，1(13) :651-656.  
+SHENG BH， JIAN WG， XUE CC， et al， 2013. Nitrogen removal in micro-polluted surfacewater by the combined process of bio-filter and ecological gravel bed[J].Water SciTechnol, 67(10):2356-2362.

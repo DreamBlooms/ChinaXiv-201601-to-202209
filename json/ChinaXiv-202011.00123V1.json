@@ -1,0 +1,696 @@
+[
+    {
+        "type": "text",
+        "text": "2000—2014年青藏高原植被净初级生产力时空变化及对气候变化的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许洁¹，陈惠玲'，商沙沙¹，杨欢²，朱高峰¹，刘晓文}1兰州大学资源环境学院,甘肃兰州 730000；2 江西省水利规划设计研究院,江西南昌330029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：青藏高原是全球气候变化最敏感的地区之一。计算青藏高原生态系统净初级生产力（NetPrimaryProductivity,NPP)对精确估算全球碳循环具有着重要意义。基于CEVSA模型,利用M-K趋势检验法、Sen's斜率估计法及Pearson相关系数法,分析了2000—2014年青藏高原生态系统的净初级生产力时空变化特征。结果表明：(1）青藏高原高寒生态系统净初级生产力在空间分布上表现出由东南向西北减小的趋势,在东部及东南部的森林区NPP在 $6 0 0 \\sim 1 ~ 2 0 0 ~ \\mathrm { g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 } \\dot { z }$ （204号间，中部草原和草甸区NPP在 $2 0 0 \\sim 4 0 0 ~ \\mathrm { g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 之间，西部和北部荒漠区，受水热条件的限制NPP很小，该趋势与水热分布趋势基本一致。（2）NPP年际变化与多年平均气温呈正相关，与降水量呈负相关。NPP与气温呈正相关的地区面积占研究区总面积的 $8 2 . 2 4 \\%$ ，与降水量呈负相关的地区面积占 $4 9 . 3 1 \\%$ ，表明气温是影响植被 $N P P$ 空间分布的主要因子。（3）近15a来，青藏高原NPP整体呈增加趋势，与气温趋势变化一致，降水量表现出微弱的减少趋势，气温的增加伴随降水量的减少是青藏高原NPP缓慢增加的主要原因。因此，准确描述NPP对气候变化响应的能力将使我们能够深入理解陆地生态系统应对全球变化做出的反应。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：CEVSA模型；净初级生产力；气候变化；青藏高原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自20世纪30年代以来，随着经济的发展，人类加大了对自然的开发力度，煤炭、石油等能源的广泛使用，导致许多地区的生态系统都受到不同程度的干扰,青藏高原是全球最敏感的区域之一[1]。高山生态系统在全球碳循环中具有重要作用2，在一定程度上具有减缓大气 $\\mathrm { C O } _ { 2 }$ 浓度增加和气候变化的作用[3]。许多研究表明,青藏高原对北半球的当地天气和气候以及大气环流都产生了深远的热力和动力学影响[4]。气候变化是影响碳循环的因素之一,鉴于高山生态系统生产力对生长季节变暖的响应，监测和量化青藏高原高山生态系统中积累的碳量具有十分重要的意义[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "净初级生产力（NetPrimaryProductivity,NPP)是指速率过程，即每天，每周或每年产生的植物物质的量（净初级生产量），是陆地生态系统碳通量的关键组成部分。估算NPP并评估其对气候变化的响应是我们了解陆地生态系统碳吸收能力和相关生物地球化学过程的基础[5]。ZHAO 等[6]的研究揭示了，年际NPP的变化与大气中 $\\mathrm { C O } _ { 2 }$ 浓度有明显的负相关关系，表明 $N P P$ 在调节大气 $\\mathrm { C O } _ { 2 }$ 浓度中起着举足轻重的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "因此，NPP对于生态系统碳通量的汇集、调节全球气候变化扮演着重要角色[7]。青藏高原(QTP)是地球上海拔最高且最大的高原，被称为世界“第三极”，是东亚地区重要的水库，在调节气候变化和水资源分配方面具有重要作用[8]。近年来,随着数据资源易获取和多种研究方法的改进，国内外学者应用各种算法和模型对青藏高原植被NPP进行了估算。PIAO等[9]等利用遥感数据,通过CASA模型模拟得到了青藏高原NPP的时空变化特征。LI等[]基于CASA 模型模了青藏高原 NPP，并以净初级生产力为基础定量评估了气候变化和人类活动在青藏高原荒漠化过程中的相对作用。以上研究时段主要集中在1980年以后的 $2 0 \\mathrm { ~ a ~ }$ ,近十几年来，对NPP变化趋势及特征分析往往集中在全国尺度上，对青藏高原研究较少。因此，对这方面的研究有必要进行补充和完善。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CEVSA过程模型基于生理和生态过程构建，结合光合作用、蒸散发、呼吸作用和干物质分配来估算NPP能够在理论上详细解释净初级生产力[11]。基于此,本文应用CEVSA 模型、M-K 趋势检验法、Sen's斜率估计法及计算Pearson相关系数法分析其时空分布格局和多年变化趋势。模拟青藏高原植被NPP时空变化及其对气温和降水量的响应，能够准确监测和量化青藏高原高山生态系统积累的碳量，估算出青藏高原植被NPP在气候变化的影响下对全球碳循环的贡献。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青藏高原的面积为 $2 . 6 \\times 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ ,由于地形多样，气候非常复杂。东南部植被类型以森林为主，气候温暖湿润;西北部多为戈壁气候寒冷干燥。在整个地区，年平均气温范围为 $- 5 . 6 \\sim 1 7 . 6 ~ \\mathrm { ^ { \\circ } C }$ ，日温差为 $1 4 \\sim 1 7 ~ \\mathrm { { ^ circ C } }$ ，降水量分布不均匀。东南部地区和西北部地区的年降水量分别超过 $4 ~ 0 0 0 ~ \\mathrm { { m m } }$ 和17.6$\\mathbf { m } \\mathbf { m }$ 。在西风环流和高原地形的影响下，年平均风速$> 3 . 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,大风（即风速高于 $1 7 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ )每年发生> 50d[10]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 CEVSA模型及原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于过程的生态系统模型CEVSA（CarbonEx-change between Vegetation,Soil and Atomasphere）模型，用于模拟植被、土壤、大气三者之间水碳氮耦合循环及对环境变化的响应[11-13]。它由3个子模型构成,分别为：生物物理子模型用于估计植物一土壤一大气之间水热交换、土壤含水量和气孔传导等过程;植物生理生长子模型计算植物光合作用、呼吸作用、氮吸收速率以及碳氮在植物各器官之间分配、积累、周转和调落的量;土壤碳氮转化子模型用于估计土壤有机质分解与转化和有机氮矿化等过程。CEVSA模型中使用的生物学和生态学原理，方程和参数来自许多实验室和现场实验和观察。本文介绍了CEVSA模型的主要过程及其原理，关于模型的详",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细结构示意图如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 光合作用和气孔导度 FARQUHR等[14]介绍了一个生物化学过程控制光合作用的模型。该模型考虑了 $\\mathrm { C O } _ { 2 }$ 浓度、辐照度及光呼吸速率对净光合的影响。光合速率 $A _ { \\mathrm { b } }$ 取决于三个过程最小速率：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）羧化速率， $\\boldsymbol { W } _ { \\mathrm { c } }$ ：依赖于Rubisco 酶的量、动力学性质及活性等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）电子传输速率限制， $W _ { \\mathrm { j } }$ 受限于卡尔文循环二磷酸核酮糖的再生速率，而该过程受限于电子传递速率。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b72c77e48bd7a30b773c446ae0660e3bc6b92b92e38675907cad8309540c3f15.jpg",
+        "img_caption": [
+            "图1 CEVSA模型结构示意图",
+            "Fig.1Schematic diagram of the CEVSA model structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）磷酸丙糖（triosephosphate）利用率对光合速率的影响，该限制主要发生在高 $\\mathrm { C O } _ { 2 }$ 浓度或高辐照度时。相应羧化速率用 $W _ { \\mathrm { p } }$ 表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每层叶片的光合作用通过考虑土壤水分对气孔导度的调节作用将Farquhar模型及改进的Ball-Ber-ry 模型相结合模拟得到， $N P P$ 在叶、茎、根中按比例分配。利用辐射分配方法，将叶片的光合作用上升到冠层尺度，对叶面积进行分层，层数等于冠层叶面积指数。基于Beer'sLaw可以计算得到每一层叶面积指数 $L a$ 的平均辐照度(Irradiance, $I$ [15]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = I _ { 0 } \\mathrm { e } ^ { - k L _ { a } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { 0 }$ 为冠层入射辐照度； $K$ 为消光系数（设置为0.5）;辐照度 $I$ 用于计算电子传输速率。分配到冠层每一层叶片的氮与叶片平均辐照度成比例：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = N _ { \\mathit { r } } { \\frac { I } { I _ { 0 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 为叶片氮吸收速率； ${ \\boldsymbol { N } } _ { \\boldsymbol { T } }$ 为总氮吸收速率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2氮吸收和自养呼吸碳氮之间的耦合作用包括氮对呼吸作用的限制及土壤碳氮分解等过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物的氮含量与植物的最大光合速率有明显的正相关性,氮吸收对气温的依赖性 $( N _ { T } )$ 可表达为[16]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\mathrm { m a x } } = { \\frac { 1 9 0 N } { 3 0 6 + N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { T } = \\frac { \\mathrm { e } ^ { ( u _ { 1 } - \\frac { u _ { 3 } } { 0 . 0 0 8 3 1 T _ { k } } ) } } { 1 + \\mathrm { e } ^ { ( \\frac { u _ { 1 } T _ { k } - 2 0 5 . 9 } { 0 . 0 0 8 3 1 T _ { k } } ) } } k _ { T } ( T )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： ${ \\mathrm { \\Omega } } _ { : A _ { \\mathrm { m a x } } }$ 为最大光饱和的光合速率； $N$ 为某一层叶片的氮含量; ${ \\cal N } _ { \\tau }$ 则为植物的总氮量吸收量; $u _ { 1 } \\setminus u _ { 2 }$ 、$u _ { 3 }$ 和 $k _ { T } ( T )$ 均为气温的响应函数; $T _ { \\mathit { k } }$ 为绝对气温。叶片的氮含量 $( N )$ 还决定了叶片的维持呼吸（204号 $( R _ { \\mathrm { m l } } ) ^ { [ 1 7 ] }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { m l } } = { \\frac { N } { 5 0 } } \\mathrm { e } ^ { r _ { 1 } ( T ) - { \\frac { r _ { 2 } ( T ) } { 8 . 3 1 4 4 T _ { k } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { 1 } ( T )$ 和 $r _ { 2 } ( T )$ 分别是气温的响应函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 土壤碳氮动态 CEVSA 模型参考CENTU-RY模型来模拟土壤碳氮分解过程。CENTURY模型模拟了土壤系统 $\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } , \\mathrm { { S } } } }$ 的有机和无机动态变化,CEVSA模型仅采用了土壤碳部分。土壤有机质可分为地表凋落物碳库、地下凋落物碳库、微生物碳库、慢性碳库及惰性碳库，通过一级反应速率模拟各碳库的碳分解[18]。CEVSA 模型通过以下几个函数模拟氮对土壤有效碳分解的限制：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "微生物可利用的潜在碳（Ca)及潜在氮（Na）：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { C a } = \\ \\sum _ { i } O M _ { i } K _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { N a } = \\sum _ { i } O M _ { i } K _ { i } ( { \\cal C } N _ { i } ) ^ { - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $i = 1 \\sim 8 ; O M$ 为碳库； $K$ 为潜在周转速率（考虑了气温、土壤水分等限制因素）； $C N$ 为 $C / N$ 比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤异养呼吸 $\\left( H R \\right)$ 可用下式表达：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { H R = \\sum _ { i } O M _ { i } K _ { \\mathrm { a g } ( i ) } \\left( 1 - \\varepsilon \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $K _ { \\mathrm { a g } ( i ) }$ 是实际各个土壤有机碳库的衰变率; $\\varepsilon$ 为同化速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4土壤水分和蒸散发土壤含水量及蒸散通过蒸散的需求函数和供应函数得到[19]。土壤水分依赖于降水输入及蒸散损失：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS M O S _ { m } = \\operatorname* { m i n } \\left\\{ \\left[ S M O S _ { m - 1 } + W A T I - A E T \\right] , S M O S _ { s a t } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { m }$ 表示时间步长（月）； $W A T I ( \\mathrm { \\ m m } \\cdot \\mathrm { \\ m o n t h } ^ { - 1 }$ ））为总的水分输入;包括降水和降雪融化； $S M O S _ { \\mathrm { s a t } }$ 为饱和土壤水分。当土壤水分高于 $S M O S _ { \\mathrm { s a t } }$ 时，水分作为径流损失。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "降雪与降水之间的分配被描述为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { 0 . ~ 0 } & { T E M \\geqslant 2 \\mathrm { \\textnormal { \\fontfamily { q } C } } } \\\\ & { } & { \\qquad \\quad 1 . 0 } \\\\ & { S N F C = \\mathrm { \\small ~ \\frac { T E M - 2 . 0 } { - 7 . 0 } ~ } 2 \\mathrm { \\Large ~ \\{ ~ C ~ > ~ } ~ } T E M > - 5 \\mathrm { \\Large ~ \\{ ~ C ~ }   \\\\ & { } & { \\qquad \\quad 1 . 0 } \\\\ & { } & { T E M \\leqslant - 5 \\mathrm { \\Large ~ \\mathfrak { C } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：SNFC是融雪作为降水的部分；TEM是每个月平均气温。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于ABER 等[20]理论,当月均温高于 $1 \\ \\mathrm { { ^ { \\circ } C } }$ 时，积雪开始融化（SNME），最大融雪量为当前积雪量最大值：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS N M E = 4 5 T E M\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此,土壤水分输入为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW A T I = P R C P ( 1 - S N F C ) + S N M E\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Federer研究，水分损失 $( A E T )$ 为供应函数 $s$ 及需求函数 $D$ 的较小值[21]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = E T _ { \\mathrm { m a x } } { \\frac { S M O S } { S M O S _ { \\mathrm { s a t } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA E T = M I N ( S , D )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E T _ { \\mathrm { m a x } }$ 为最大蒸散速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蒸发需求函数 $D$ ,有能量供应决定：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\left[ \\frac { s } { s + \\gamma } \\right] \\frac { R _ { n } } { L }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { n }$ 为净辐射； $s$ 为饱和水气压随气温变化斜率 $ { \\mathrm { ( P a \\ \\cdot \\ K ^ { - 1 } } }$ ）； $\\gamma$ 为干湿指数； $L$ 为水分蒸发潜热。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3输入数据来源、参数获取和模型运行",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CEVSA模型输入数据中 $1 0 \\mathrm { ~ d ~ }$ 时间步长的平均气温和降水量(旬内数据累加)数据来自中国气象数据网CN05.1数据，云量数据和相对湿度数据来自于欧洲中期天气预报中心的ERA-Interim再分析资料，后运用MATLAB软件重采样到 $0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ 分辨率。大气 $\\mathrm { C O } _ { 2 }$ 浓度数据来自地球二氧化碳网站（https://www.co2.earth/）。土壤类型和质地数据取自世界土壤数据库HWSD中国数据库,对其进行数字化并重采样到 $0 . 1 ^ { \\circ }$ 。植被类型分布数据来自1$\\mathrm { k m }$ 分辨率的全球土地覆盖数据集（EuropeanCommission，Joint Research Centre 2OO3.http://biova.Jrc.Ec.europa.eu/products/glc2000/glc2000.php）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CEVSA模型包含43个参数和11个初始的状态变量[16]。在CEVSA模型应用于区域和全球的模拟时，初始的状态变量，如植被碳、土壤碳、土壤碳氮比、初始的土壤含水量等来源于静态模型的输出。与土壤质地有关的参数包含田间持水量、饱和含水量、萎蔫系数、土壤分解的最佳持水量等参数，这些土壤水分参数由土壤颗粒组成确定，依据RAICH等[2]、MCGUIRE等[23]、CAO等[19]文献中提供的数据进行估算。CEVSA包含13种土地覆盖类型，与植被类型相关的参数主要是根、茎、叶的周转时间，根、茎、叶的分配比例和比叶面积等，主要来源于已发表文献的估计。本研究选取青藏高原的土地覆盖类型，如与最初模型中已有土地覆盖类型直接对应的，就使用原有参数,不直接对应的植被类型，本研究通过查阅文献和模型调试的方法获取相对应植被类型的相关参数。详细的参数列表和取值方法可以参考已发表的文章,如CAO 等[19]和 ZHANG等[24]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究中，模型的空间分辨率为 $0 . 1 ^ { \\circ }$ 。首先，我们使用54a平均气候(1961—2000年）和固定的1960年大气 $\\mathrm { C O } _ { 2 }$ 浓度值来运行模型，直到碳库达到平衡，即NPP、调落物产生量 $( L T )$ 与异氧呼吸(RH)相等，然后使用1961一2014年期间的气象数据和大气二氧化碳浓度数据进行模拟。为了消除使用不同初始值对模拟的NPP不确定性的影响，模型利用1961—2000 年的数据模拟来确定 2000—2014 年期间的实际初始值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 时空变化及对影响因素的分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1检验序列变化超势本文应用Manner-Kendall(M-K)非参数检验法来计算 $N P P$ 、降水量和气温等随时间变化的趋势。假设有 $n$ 个样本 $( x _ { 1 } , \\cdots$ $\\textstyle { \\mathfrak { x } } _ { n }$ )的时间序列,对于所有的 $k , j \\leqslant n$ ，且 $k \\neq j , x _ { j }$ 和 $\\boldsymbol { x } _ { k }$ 的分布是不同的,计算检验统计量 $s$ ,公式如下[25]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\sum _ { k = 1 } ^ { n - 1 } \\sum _ { j = k + 1 } ^ { n } S g n \\big ( x _ { j } - x _ { k } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { + 1 } & { { } \\left( x _ { j } - x _ { k } \\right) > 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$s$ 为正态分布,均值为0,方差 $\\operatorname { V a r } ( s ) = n ( n -$ 1) $( 2 n + 5 ) / 1 8$ 。当 $n > 1 0$ 时，标准的正态统计变量通过下式计算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\begin{array} { c c } { { \\displaystyle \\frac { S - 1 } { \\sqrt { V a r ( s ) } } } } & { { S > 0 } } \\\\ { { } } & { { } } \\\\ { { \\displaystyle \\frac { S + 1 } { \\sqrt { V a r ( s ) } } } } & { { S < 0 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于统计值 $Z$ 来说， $> 0$ 时，表示序列增加；反之则减少[25] O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sen's斜率估计法是选择通过成对点的所有线的斜率的中值来稳健地将线拟合到平面中的采样点（简单线性回归)的方法，该方法能很好的反应序列趋势的变化程度,Sen's 斜率 $K$ 的公式如下[26]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = m e d i a n ( Q _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { i } = { \\frac { x _ { j } - x _ { k } } { j - k } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $i$ 为常数取值为 $( 1 , 2 , \\cdots , N ) ; N$ $N$ 为时间序列长度； $x _ { j }$ 和 $\\boldsymbol { x } _ { k }$ 则分别是 $j$ 和 $k$ 的序列;且满足 $j > k$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2计算相关系数由于本文 $N P P$ 是通过驱动气象因子在CEVSA模型中模拟得到的，因此， $N P P$ 与气温和降水量之间有一定的相关性。为深入分析NPP对降水量和气温的响应，本文采用皮尔逊相关系数的方法，计算气温和降水量与NPP的相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 研究结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1基于观测数据的CEVSA模型估算结果验证",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CEVSA模型已经从站点到区域范围进行了验证。在站点尺度,顾峰雪等[27]使用不同植被功能类型的涡动协方差通量观测数据来验证模型性能。本文中由于缺乏研究区内植被NPP的观测值，加之研究区内观测站点数量少，对于模型估算进行验证是很困难的。本文仅从FLUXDATA上获取了研究区内当雄（2004—2005 年）、海北草甸（2002—2004年）、海北湿地(2003—2005 年)3个观测站点进行模拟并验证。表1是3个站点观测与模拟的年总净初级生产力(NPP)的对比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2004一2005年当雄模拟值与观测值的相关性分别为0.77和0.82；2002—2004年海北草甸模拟值与观测值的相关性分别为0.87、0.94和0.84；2003一2005年海北湿地模拟值与观测值的相关性分别为0.83、0.85和0.87。图2分别为当雄、海北草甸、海北湿地总体观测值与模拟值的线性拟合散点图。总体来看，3个站点中模型估算的植被NPP与观测NPP值有较好的一致性，且均在合理范围之内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2区域多年平均气温、年降水量和年NPP的时空分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1近15a青藏高原年均气温、年均降水量及植被年均NPP的时间变化近15a来青藏高原NPP总量的平均为 $0 . 5 6 \\ \\mathrm { G t } \\cdot \\mathrm { a } ^ { - 1 } ( \\mathrm { C } )$ ，是全国NPP总量 $3 . 4 4 5 ~ \\mathrm { G t } \\cdot \\mathrm { ~ a ~ } ^ { - 1 } ( \\mathrm { ~ C ~ } )$ [28]的 $1 6 . 3 \\%$ 。全国总面积为 $9 . 5 9 \\times 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ ，而研究区总的面积为 $2 . 6 \\times 1 0 ^ { 6 }$ $ { \\mathrm { k m } } ^ { 2 }$ ，占全国总面积的 $2 6 . 9 \\%$ ，因此估算的青藏高原植被NPP低于全国平均水平。图3为青藏高原年平均气温、年均降水量和植被 $N P P$ 的时间变化,由图3a可知，青藏高原气温起伏变化较大，在2000 年和2008年是气温最低时期，但整体呈略微增加的趋势。图3b显示，近15a来青藏高原降水量整体呈下降趋势，尤其在2006 年、2013 年和2014年经历了干旱和较干旱时期。在降水和气温的共同作用下，近15a来青藏高原植被NPP整体呈上升趋势，取值范围在 $1 9 7 . 5 7 \\sim 2 3 4 . 4 6 ~ \\mathrm { g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。其中最小值在2003年，最大值在2010年（图3c）。但在2012一2014年有明显的下降趋势，为此，我们进一步分析气象要素对青藏高原植被NPP的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表13个站点年总NPP观测值与模拟值的对比 $/ \\mathbf { g } \\mathbf { C } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { a } ^ { - 1 }$ ",
+            "Tab.1Comparison of total NPP observations and simulated values of three stations $/ \\mathbf { \\nabla g C } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { a } ^ { - 1 }$ "
+        ],
+        "table_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/532c19f01f8e3e187389841f85ef58bb8f3f3b91b2a149f21f3b439db72684bc.jpg",
+        "img_caption": [
+            "图22004—2005 年当雄、2002—2004 年海北草甸 、2003—2005 年海北湿地观测 NPP 与模拟NPP 的线性拟合散点图Fig.2Linear fiting scatter plotof Dangxiong 2004 to 2005,Haibei Meadow 2002 to 2004,Haibei Wetland2003 to 2Oo5 overall observations and simulated values"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2区域多年平均气温、年降水量和年NPP的空间分布青藏高原生态区NPP对气温变暖和降水量有一定的响应，生态区内不同区域的NPP受气候的影响而不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为2000—2014年青藏高原多年平均气温、降水量和净初级生产力（NPP）的空间分布格局。由图可以看出，青藏高原的净初级生产力空间分布(图4c)表现出由东南部森林区向西北沙漠地带递减的分布趋势，该趋势与研究区水（图4b）热（图4a)分布趋势基本一致，与前人研究结果也是一致的[28]。在研究区内达旺一察隅区的森林区植被NPP最高在 $1 \\ 0 0 0 \\ \\mathrm { g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 以上,由于该区水热条件较好，气温最高达 $2 2 ~ \\mathrm { ^ { \\circ } C }$ ，降水量最大为1300$\\mathbf { m } \\mathbf { m }$ ,且以森林植被为主，植被覆盖度高。在青藏高原东部和东南部的河谷地区由于海拔低、水热条件好,植被 NPP 较大,在 $6 0 0 \\mathrm { \\ g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 以上。青藏高原东部和中部大部分地区广泛分布着草原和草甸,这些地区的植被 $N P P$ 为 $2 0 0 \\sim 4 0 0 ~ \\mathrm { g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ·$\\mathbf { a } ^ { - 1 }$ ,在青藏高原西部藏北草甸区和西南部灌木区,由于受到水热条件的限制，其NPP值在 $1 0 0 \\sim 2 0 0$ $\\mathrm { g C } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 }$ 之间。青藏高原藏北部多为荒漠,植被稀少其NPP值较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/30f4cdd672bda18ec4fa92cf2f6d1ea17886ad52987cb4ae9444646ea033a091.jpg",
+        "img_caption": [
+            "图32000—2014年青藏高原年均气温、年均降水量和年均NPP的时间变化",
+            "Fig.3Time variation of annual average temperature,precipitation and vegetation $N P P$ in the Qinghai-Tibet Plateau from 2OO0 to 20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d835fd97f4f6aad7e82df10f4636a01c0513da36b3b828d909cb7ed99b18371.jpg",
+        "img_caption": [
+            "图4青藏高原多年均气温、降水量和的NPP空间分布",
+            "Fig.4SpatialdisributionoftheaverageanaltemperaturepreipiationndnetprimaryproductivityofteQinghai-ibetPlateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3区域年均气温、年降水量和年NPP的变化趋势 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植被净生产力NPP的变化对气候的响应主要考虑了降水量和气温的影响。为了明确近15a青藏高原年均气温、年降水量和年NPP的变化趋势，本文运用了Manner-Kendall（M-K)非参数检验法和Sen's 斜率估计法计算了青藏高原年平均气温、年降水量和年NPP的变化值。图5是年均气温、年降水量和年NPP的变化趋势。由图5a可知，近15a青藏高原大部分地区的气温是呈增加趋势的，尤其是在中部的草甸区和东南部的森林区，气温上升最高。图5b显示降水量在中部的草原区和东部的达旺一察隅区以及波密一川西南部地区减少，在青藏高原东部及东北部增加。在青藏高原的西部，降水量和气温都是减少的。在气温和降水的共同作用下，青藏高原植被NPP整体呈增加趋势，尤其在青藏高原东部及东南部的森林区增加趋势比较大（图5c）。然而，在达旺一察隅的森林区，气温略有增加，降水量急剧减少，使得该区的植被NPP也呈减少趋势。青藏高原中部平原草原区，植被NPP随气温的上升而增加。东部的草甸区，由于气温和降水量共同增加的趋势，植被NPP也逐渐增加。青藏高原北部多为荒漠，植被稀少，加之气温不断升高，水分蒸发量远远大于降水量，导致柴达木盆地区的植被NPP呈减少趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4区域植被NPP与气温、降水量的相关性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为进一步探讨 2000—2014 年青藏高原植被NPP与年均气温及年均降水量的关系，利用Pearson相关系数法逐象元的2个时间序列（NPP与气温、NPP与降水量），计算了近15a青藏高原年NPP与年均气温和年降水量的线性相关系数的空间分布。根据相关系数的显著性数据表，当样本量为15时，相关系数的绝对值大于0.641为极相关，大于0.514为显著相关,其余为一般相关。因此对相关系数进行了显著分类，如图6。由图可知，通过显著性检验的像元相对较少，且相关系数的空间分布与前人的研究基本一致[29]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "青藏高原地势呈西高东低的特点。相对于高原边缘区的起伏不平，高原内部反而存在一个起伏度较低的区域。因其独特的地形地貌使得高原区域气温分布不均匀，高原西北部的羌唐高原为极寒区，藏北高原可可西里一带是高原的寒冷区。同海拔高度上来看，青藏高原南部和中部是高原的温暖区，高原东南部的气温也比较高。图6a显示，近15a来青藏高原地区基于像元的NPP与年均温以正相关为主，尤其在青藏高原中部的草原区表现为极显著相关，在东部的草甸区表现为显著相关。在青藏高原地区，正相关的地区占整个青藏高原面积的$8 2 . 2 4 \\%$ ,其中 $5 8 . 3 \\%$ 为一般正相关, $2 3 . 9 4 \\%$ 为显著或极显著正相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于海拔的升高和地形的变化，高原区域分布上降水量差异很大，从高原东南部的森林区到中部",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/48a303bb4b004767d4e9411b9334da4c344b679ed2e6c16135b615ed04bf82ca.jpg",
+        "img_caption": [
+            "图5青藏高原近15a来年均气温、年降水量、NPP空间变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Qinghai-TibetPlateauinthepast15yearsannual averagetemperature,annual precipitation,spatialvariationof NPl ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/470a7ebe3ecb715d7afff744e032c61974afa92b725fb2a04b01d0631ded0e3c.jpg",
+        "img_caption": [
+            "图6逐像元NPP与年均气温、年降水量的相关性分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6 Correlation distribution of pixel-by-pixel NPP with annual mean temperatureand annual precipitation的草原区、高寒草甸区直至西北的戈壁沙漠地带，降水量随地形变化依次减少，最多的地区达 $1 ~ 0 0 0 ~ \\mathrm { m m }$ 以上，而最少的地区还不到 $5 0 ~ \\mathrm { m m }$ 。近 $1 5 \\mathrm { ~ a ~ }$ 来高原降水量呈现多元变化特征，表现为东部地区降水增加最明显，而中部及东南部降水量呈减少趋势。基于象元的NPP与降水量呈正相关的地区主要分布在青藏高原西部草原区、东部和南部的森林区及西北部分草甸区，其中显著或极显著相关区域零星分布在西部、东部及柴达木盆地南部。负相关集中分布在中部的草原区、柴达木盆地区和东南部森林区，且中部的草原区和东南部森林区表现为极显著的负相关（图6b）。青藏高原地区， $N P P$ 与降水量相关性大于零的地区占 $30 \\%$ ， $0 . 8 \\%$ 为显著或极显著正相关，负相关的面积占 $4 9 . 3 1 \\%$ ,其中 $1 5 . 9 5 \\%$ 为显著或极显著负相关。在中部的草原区气温对植被NPP的响应大于降水量，而达旺一察隅森林区量对植被NPP的影响大于气温。总体而言，气温对于植被NPP的影响在青藏高原大部分地区为正效应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近年来，植被NPP对气候变化的响应是研究热点之一，不同的学者表明了不同观点。陶波等[30 通过对中国陆地净初级生产力时空模拟分析表明全国植被NPP受厄尔尼诺现象影响较大。姚玉璧等[31]研究结果表明长江源地区近50a由“冷干型”过度到“暖湿型”，植被NPP也表现为明显的上升趋势。本文研究结果表明，青藏高原地区气温逐年增加、降水量逐年减少的趋势，同时青藏高原的植被年NPP呈逐年增加的趋势,这与众多研究结果一致[32]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "经分析表明，在年均温和降水量两个因素中，降水量主要影响了东南部森林区而气温是影响植被NPP 的主要因子,这与前人研究结果一致[32]。在研究时段内，青藏高原单位面积平均NPP为217.56$\\mathrm { g C } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 }$ ,高于德吉央宗等[32]的研究结果。这可能由于研究时段不同，研究区面积不同，且植被NPP受多种因素综合影响，除极端的气候条件外，还会受到人类放牧、砍伐的影响，使得土地退化，植被减少[30]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文基于CEVSA模型估算了青藏高原植被净初级生产力(NPP)并探讨了其时空变化特征、多年变化趋势及与两个主要气象因子的关系，通过分析主要得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）CEVSA模型通过模拟当雄、海北草甸、海 北湿地的植被NPP进行验证，当雄模拟值与观测值 的相关性为0.71，海北草甸的相关性为0.70，海北 湿地的相关性达0.81，总体来看，3个站点模拟效 果较好，均在合理范围内。验证表明，CEVSA模型 在青藏高原模拟植被NPP中具有一定的适用性。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）时间分布上，气温和降水量呈现出不同幅度的变化，2000—2014年间气温整体略微增加，而降水量呈下降趋势。青藏高原年均NPP整体呈上升趋势,取值范围在 $1 9 7 . 5 7 \\sim 2 3 4 . 4 6 \\mathrm { ~ g C ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ：$\\mathrm { ~ a ~ } ^ { - 1 }$ ;NPP 随气温和降水量的变化呈现出区域异质性，由东南森林区向西北沙漠地带递减的趋势，与水热分布趋势基本一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）近15a来，青藏高原西部和北部气温减少；与气温变化不同，青藏高原中部、西部以及东南部地区的降水量是减少的，在东部和东北部明显增加。中部地区植被NPP受气温的影响较大，而东南部森林区对降水量的响应较大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）青藏高原地区气温、降水量与NPP的关系不同。青藏高原年NPP与多年平均气温之间呈正相关的面积占整个青藏高原的 $8 2 . 2 4 \\%$ ,年平均气温升高对植被NPP有显著的正向影响;相反，NPP与降水量呈正相关的地区占 $30 \\%$ ，年降水量的减少对植被NPP产生微弱负面影响。因此，气温是决定NPP增加的主导因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］刘晓东,张敏锋,惠晓英,等.青藏高原当代气候变化特征及其 对温室效应的响应[J].地理科学，1998，（2)：18-26.［LIU Xiaodong,ZHANG Minfeng,HUI Xiaoying,et al. Contemporary climatic change of Qinghai-Xizang（Tibetan）Plateau and its response to greenhouse effect[J]. Chinese Geographical Science, 1998，(2):18-26.]   \n[2] CANADELL JG,MOONEYHA,BALDOCCHIDD,et al.Carbon metabolism of the terrestrial biosphere：A multitechnique approach for improved understanding[J].Ecosystems,20oo,3（2）:115- 130.   \n[3] SCHIMEL D S,HOUSE IJ,HIBBARD KA,et al.Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems[J]. Nature,2001,414(6860):169-172.   \n[4] MANABE S,TERPSTRA TB.The effects of mountains on the general circulation of the atmosphere as identified by numerical experiments[J]. Journal of Atmospheric Science,1974,31:3 -42.   \n[5]GAO Y,ZHOU X,WANG Q,et al. Vegetation net primary productivity and its response to climate change during 20o1-2008 in the Tibetan Plateau[J].Science of the Total Environment,2013,444: 356 - 362.   \n[6] ZHAO M,RUNNING S W. Drought-induced reduction in global terrestrial net primary production from 2000 through 20o9[J].Science,2010.329(5994) :940.   \n[7］王李娟,牛铮,旷达.基于 MODIS 数据的 2002—2006 年中国陆 地NPP分析［J].国土资源遥感，2010,（4）：113－116. [WANG Lijuan,NIU Zheng,KUANG Da. Based on MODIS data Chinese Land $N P P$ analysis from 2002 to 2006[J]. Remote Sensing for Land and Resources,2010,(4):113 -116.]   \n[8]CHEN B,ZHANG X,TAO J,et al. The impactof climate change and anthropogenic activities on alpine grassland over the QinghaiTibet Plateau[J].Agricultural and Forest Meteorology,2014,189 - 190:11 - 18.   \n[9]PIAO Shilong,FANG Jingyun,HE Jinsheng. Variation sin vegetationnet primary production in the Qinghai-Xizang Plateau,China, from 1982 to 199[J]. Climatic Change,2006,74:253-267.   \n[10]LI Q,ZHANG C,SHEN Y,et al. Quantitative assssment of the relative roles of climate change and human activities in desertification processes on the Qinghai-Tibet Plateau based on net primary productivity[J]. Catena,2016,147:789-796.   \n[11] CAO M K,WOODWARD F. Dynamic responses of terrestrial ecosystem carbon cycling to global climate change[J].Nature,1998, 393:349 - 252.   \n[12] CAO M K,WOODWARD F I. Net primary and ecosystem production and carbon stocks of terrestrial ecosystem and their responses to climate change[J]. Global Change Biology,1998,42（2）:185 -198.   \n[13］邱文君.干旱对西南地区植被净初级生产力的影响研究[D]. 济南：山东师范大学,2013.[QIUWenjun.Impact of drought on the net primary productivity of vegetation in southwest China[D]. Jinan :Shandong Normal University,2013.]   \n[14]FARQUHR G D,CAEMMERER S V,BERRY JA.A biochemical model of photosynthetic $\\mathrm { C O } _ { 2 }$ assimilation in leaves of $\\mathrm { C } _ { 3 }$ species [J].Planta,1980,149(1）:78 -90.   \n[15]WOODWARD FI. Stomatal numbers are sensitive to increases in $\\mathrm { C O } _ { 2 }$ from pre-industrial levels[J].Nature,1987,327(6123）:617 -618.   \n[16］李洁,张远东,顾峰雪,等.中国东北地区近50a净生态系统生 产力的时空动态[J].生态学报,2014,34（6）：1490-1502.［LI Jie,ZHASNG Yuandong,GU Fengxue,et al. Temporal and spatial dynamics of net ecosystem productivity in northeast China in the past 50 years[J].Acta Ecologica Sinica,2014,34（6）:1490 - 1502.]   \n[17]HARLEY P C,THOMASRB,REYNOLDS JF,et al. Modelling photosynthesis of cotton grown in elevated CO2[J].Plant,Cell & Environment,1992,15(3）:271-282.   \n[18] PARTON W J,STEWART J W B,COLE C V. Dynamics of C,N,P and S in grassland soils:A model[J]. Biogeochemistry,1988,5 (1):109 -131.   \n[19]CAO M K,WOODWARD FI. Net primary and ecosystem production and carbon stocks of terrestrial ecosystems and their responses to climate change[J].Global Change Biology,1998,4(2）:185-198.   \n[20]ABER JD C,ANTHONY Federer.A generalized,lumped-parameter model of photosynthesis,evapotranspiration and net primary production in temperate and boreal forest ecosystems[J]. Oecologia, 1992,92(4) :463 -474.   \n[21]FEDERER C A. Transpirational supply and demand: Plant,soil, and atmospheric effcts evaluated by simulation[J].Water Resources Research,1982,18(2):355 -362.   \n[22]RAICH JW,RASTETTER E B,MELILLO JM,et al. Potential net primary productivity in south America:Application of a global model[J].Ecological Applications,1991,1(4） :399-429.   \n23]MCGUIRE AD,MELILLO JM,JOYCELA,et al.Interactions between carbon and nitrogen dynamics in estimating net primary productivity for potential vegetation in north America[J].Global Biogeochemical Cycles,1992,6(2）:101-124.   \n[24]ZHANG L,YU G R,GUF X,et al. Uncertainty analysis of modeled carbon fluxes for a broad-leaved Korean pine mixed forest using a process-based ecosystem model[J]. Journal of Forest Research,2012,17(3):268-282.   \n[25］钟军.中国降水的时空和概率分布特征[D].南京:南京信息 工程大学,2013.[ZHONG Jun.Temporal and spatial and probability distribution characteristics of precipitation in China[D]. Nanjing:Nanjing University of Information Science and Technology,2013.]   \n[26］易湘生,尹衍雨,李国胜,等.青海三江源地区近50 a来的气温 变化[J].地理学报,2011,66（11）:1451-1465.[YI Xiangsheng,YIN Yanyu,LI Guosheng et al. Temperature changes in the Sanjiangyuan area of Qinghai in the past 5O years[J].Acta Geographica Sinica,2011,66(11）:1451-1465.]   \n[27］顾峰雪,曹明奎,于贵瑞,等.典型森林生态系统碳交换的机理 模拟及其与观测的比较研究[J].地球科学进展,2007,22（3）： 313-321.[GU Fengxue,CAO Mingkui,YU Guirui,et al. Modeling carbon exchange in different forest ecosystems by CEVSA model:Comparison with eddy covariance measurements[J].Advances in Earth Science:2007,22(3）:313-321.]   \n[28］周才平,欧阳华,王勤学,等.青藏高原主要生态系统净初级生 产力的估算[J].地理学报,2004,59(1):74－79.[ZHOU Caiping,OUYANG Hua,WANG Qinxue,et al.Estimation of net primary productivity of main ecosystems in the Qinghai-Tibet Plateau [J].Acta Geographica Sinica,2004,59(1）:74-79.]   \n[29］刘刚,孙睿,肖志强,等.2001—2014 年中国植被净初级生产力 时空变化及其与气象因素的关系［J].生态学报,2017,37 (15）:4936-4945.[LIU Gang,SUN Rui,XIAO Zhiqiang,et al. The Temporal-spatial changes of net primary productivity in China from 2001 to 2O14 and its relationship with meteorological factors [J].Acta Ecologica Sinica,2017,37(15）:4936 -4945.]   \n[30］陶波,李克让,邵雪梅,等.中国陆地净初级生产力时空特征模 拟[J].地理学报,2003,（3）:372-380.[TAO Bo,LI Kerang, SHAO Xuemei,et al. Temporal and spatial characteristics simulation of net primary productivity in China[J].Acta Geographica Sinica,2003,(3):372-380.]   \n[31］姚玉璧,杨金虎,王润元,等.1959—2008 长江源被净初级生产 力对气候变化的响应[J].冰川冻土,2011,33（6)：1286- ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1293.[YAO Yubi,YANG Jinhu,WANG Runyuan,et al.Responses of net primary productivity of natural vegetation to climatic change over source regions of Yangtze River in 1959-2Oo8[J]. Journal of Glaciology and Geocryology，2011,33（6）：1286- 1293.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[32］德吉央宗,鲁旭阳.青藏高原植被净初级生产力及其对气候变 化的响应[J].绿色科技,2013,（10）：4-6.［DEJIYangzong， LU Xuyang.Net primary productivity of Tibetan Plateau vegetation and its response to climate change ［J].Green Technology,2013, (10):4-6.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Response of net primary productivity of Tibetan Plateau vegetation to climate change based on CEVSA model ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "XU Jie’，CHEN Hui-ling¹， SHANG Sha-sha¹，YANG Huan²，ZHU Gao-feng'，LIU Xiao-wen (1College of Earth and Environmental Science,Lanzhou University,Lanzhou 73oooo,Gansu,China; 2Jiangxi Provincial Water Conservancy Planning Design And Research Institute,Nanchang 30029,Jingxi,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：As the“Third Pole”of the world,the Qinghai-Tibetan Plateau,China is located at $7 4 - 1 0 4 ~ ^ { \\circ } \\mathrm { E }$ and 25 - $4 0 \\ { } ^ { \\circ } \\mathrm { N } .$ It is known for its high altitude,complex terrin,and harsh climate.The Qinghai-Tibetan Plateau isoneof the most sensitive regions to global climate change.Increases in temperature and changes in precipitation can ffect the productivityof plateau'secosystem.Calculating the netprimary productivityof the Qinghai-Tibetan Plateauecosystem is very important for accurately estimating the global carbon cycle.As NEPcannot be measured directlyona regional or global scale,model-based estimation is theonlywayto proceed.Inthisstudy,we analyzed the temporospatial patterns and trends of $N P P$ in the Tibetan Plateau between 2O0O and 2O14 using the process-based ecosystem model CEVSA（Carbon Exchange between Vegetation,Soil and Atmosphere）,M-K trend test method,the Sen's slope estimation method,and the Pearson correlation coefficient method.The model was based on a $0 . 1 ^ { \\circ } \\times 0 . 1 ^ { \\circ }$ resolution map of egetation types,soil texture data,anddaily meteorological data.Theresults indicatedas folows:(1）the netprimary productivityfortheQinghai-Tibetan Plateaudecreased fromsoutheast to northwestand was consistentwith the trend of water-heat distribution.Theresults were similar to those obtained by ZHOU Caiping etal,who appliedacombinationof terrestrial ecosystem model and MODIS data to estimate thenet primaryproductivityof the Qinghai-Tibetan Plateau.In the spatial distribution,the $N P P$ of the forests in the east and southeast was between 6OO and $1 2 0 0 ~ \\mathrm { g C }$ ： $\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { a } ^ { - 1 }$ ,the $N P P$ of the central grassland and meadows was from 200 to $4 0 0 \\mathrm { \\ g C } \\cdot \\mathrm { ~ m ~ } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,and in the western and northern deserts,the NPP was limited by the moisture and temperature.（2）theannual average temperature increase had a significant positive efect,while the precipitation decrease had asignificant negative efectonthe Qinghai-Tibetan Plateau's NPP.The annual $N P P$ was positively correlated with annual mean temperature over $8 2 . 2 4 \\%$ of the region,while negatively correlated with annual precipitation over $4 9 . 3 1 \\%$ of the region.Therefore,temperature is considered to be the dominant factor determining spatial variations in $N P P$ .The predecessors also obtained similar result.For example,LIU Gang et al.analyzed the spatiotemporalvariation of net primaryproductivityandclimate controls in China from 2OOl to 2O14.Based on their results,the correlation analysis between $N P P$ and meteorological elements indicated that NPP was positively corelated with temperature in the Changbai Mountain area,Qinghai-Tibetan Plateau,and southern areas.（3） from 2OOO to 2014,the trend of increasing $N P P$ was consistent with the changes in temperature.The precipitation showed a slight decrease change.A period of warming accompanied bya decrease in precipitation contributed to the trend of a gradual increase of $N P P$ in Qinghai-Tibetan Plateau. Therefore,improving our ability to accurately describe the response of $N P P$ to climate changes will provide a better understanding of terrestrial ecosystemresponses toglobalchanges.However,therearestillsome issues thatneedtobeaddressed,suchasthe uncertainty of $N P P$ prediction.These uncertainties mainly include the driving variables and parameters in the model. Overall,in order topredictthe impactof climatechangeonecosystemsattheregional level,modelinguncertaintycan bereduced byincreasing the spatial resolution of the driving variables.In addition,optimizing the model parameters can also reduce the uncertainty in the model simulation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: CEVSA model；net primary productivity；climate change；Tibetan Plateau ",
+        "page_idx": 9
+    }
+]

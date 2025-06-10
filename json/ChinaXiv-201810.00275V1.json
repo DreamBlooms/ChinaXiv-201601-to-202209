@@ -1,0 +1,342 @@
+[
+    {
+        "type": "text",
+        "text": "目标预知对路径整合的影响1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "过继成思 黄建平 宛小昂(清华大学心理学系，北京 100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本研究采用头盔式虚拟现实与返回起点或路标的路径完成任务，通过指导语来调控被试对于返回位置的预知，检验目标预知对人类路径整合的影响。实验结果表明，对于返回起点这一目标的预知可以使被试有效地忽略由于路标出现或路标数量增加而导致的干扰，而对于返回路标这一目标的预知越多可以促使被试做出更准确的反应。这样的结果体现了目标预知作为一种非感知觉因素对于人类路径整合的影响，也体现了人类路径整合的策略性和灵活性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词路径整合；目标预知；路标；虚拟现实；空间巡航 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "路径整合指巡航者通过整合自身运动信息而更新自身与周围环境之间空间关系的巡航方式。路径整合研究最初主要关注的是动物觅食行为，尤其是沙漠蚁找到食物后依赖自身运动信息直线返回巢穴的现象，之后又对鹅、狗、大鼠等多种动物的路径整合能力进行了测量(宛小昂,2016)。对于人类来说，使用自身运动信息进行路径整合是更新自身与周围环境之间空间关系的重要能力，特别是当人处于环境信息缺乏的环境之中时。人类路径整合所依赖的自身运动产生的信息又可以具体分为内源性信息和外源性信息。其中内源性信息指前庭觉、本体觉等体感信息，外源性信息则包括光流等。人类路径整合可以仅以内源性信息为基础,也可以仅以外源性信息为基础，还可以综合内源性和外源性信息(过继成思，宛小昂,2015;Kearns,Warren, Duchon,& Tarr, 2002; Loomis, Klatzky, Golledge, Cicinelli, Pellegrino,& Fry1993；周佳树，张侃,2005)。人类路径整合研究主要使用的实验范式是路径完成任务，也称为返回起点任务。该任务要求被试从包含多个路段的外出路径的起点出发并行进，经过所有路段后到达外出路径的终点，再从终点直接返回起点。在虚拟现实中进行的路径整合研究表明，即使对于非常复杂的外出路径(例如包含12个路段)，人们仍然可以在一定程度上更新自身与起点之间的空间关系(Wan,Wang,&Crowell,2013)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当然，无论是其他动物还是人类的空间巡航(navigation)，也能够借助路标信息进行(Collett& Graham,2004; Foo,Warren,Duchon,& Tarr,2005；李丹，杨昭宁,2015)。尽管路径整合从定义上而言是排除了路标的影响而只依赖自身运动信息，但如果研究者在路径整合实验中设置路标，路标信息会对人的路径整合表现产生影响。例如，如果在实验开始前预览过路径中的路标或事先记住路径中的路标信息，被试在之后进行的路径完成任务中的成绩会提高(Philbeck, Klatzky, Behrmann, Loomis,& Goodridge,2001; Philbeck & O'Leary, 2005)。当路径整合和路标提供的信息之间互相矛盾时，二者之间存在着竞争(Zhang& Mou,2017),而且路标的稳定性(stability)影响着人们对于路标信息和路径整合的权衡使用(Zhao&Warren,2015)。当路标信息明确而稳定时，人在空间巡航中可能会更依赖于路标信息(Foo,Duchon,Warren,& Tarr,2007)，而在只能依赖自身运动信息的环境中才会进行路径整合(如 Poucet,Sargolini,Song,Hangya,Fox,&Muller,2014)。当路标信息不明确时，人们会通过路径整合获得关于环境的结构知识(survey knowledge,Foo,Warren,Duchon,& Tarr,2005)。Cheng,Shettleworth,Huttenlocher 和Riese (2007)提出，路径整合在动物的空间巡航中是作为\"备用与参考的系统”(back-up and reference system)。具体而言，动物在条件允许时更倾向使用路标等其它线索，但是当其它线索失效时也可以使用路径整合，而且路径整合可以帮助动物探测路标等其它线索是否可靠、是否可以使用。而对于人类的路径整合,Wang (2016)则提出了路径整合——认知地图假说，即人可以通过多个独立的路径整合而对环境中的多个位置进行空间更新，获得环境的动态认知地图。在这个过程之中，路标信息可以被巡航者用来重置或校正路径整合系统(Sjolund,Kelly,& McNamara,2018; Zhang&Mou,2017)。总而言之，路径整合和路标学习既相互依赖、共同作用，令巡航者拥有一致的空间表征(spatialrepresentation)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "那么，路标与路径整合之间的关系又会受到哪些认知因素的影响呢？对于目标的预知可能是一种重要的影响因素。Wan,Wang 和Crowell(2012)研究了路标的存在对于路径整合的影响。他们对典型的返回起点任务进行了改进，采用返回起点或路标的实验任务，即在外出路径中的特殊位置(即两个路段的交叉点)上分别放置两个路标，并在不同的实验条件下要求被试在到达外出路径的终点后直线返回起点或某一个路标位置。在这个研究中，被试被分为两组，即\"知情组\"与“不知情组”。知情组的被试在实验开始前已经知道外出路径中是否会有路标，也知道任务会要求他们返回哪个地点，因此他们在行进的过程中可以只注意需要返回的那个目标，而忽略其它不需要返回的地点。不知情组被试在实验开始前不知道他们将会返回哪个地点，但是他们会被告知外出路径中是否会有路标，因此当外出路径中有路标时,他们需要注意起点和所有的路标位置。这个研究的结果表明，无论是被要求返回起点还是返回路标位置，不知情组被试的反应时都比知情组更长；而且不知情组在有路标时的反应时比没有路标时更长，但知情组就没有出现这种效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "无论被试是建立以自身为参照系的表征(egocentric representation)并以此为基础进行连续式更新，还是建立以环境为参照系的表征(allocentric representation)并以此为基础进行结构式更新(configural updating)，其实都可以支持他们进行路径整合(He& McNamara,2018;Wiener,Berthoz,&Wolbers,2011)。但是，对返回地点的预知可能允许被试允许采用灵活的策略，当他们知道具体的返回目标时，他们只需要更新这个这一个目标(无论是采用连续式还是结构式更新)；而当他们不知道返回目标时，他们需要更新所有可能的目标地点。但是，由于不知情组也事先知道了试次中是否包括路标，因此他们对于返回的目标其实也会产生一定的预期。尤其是当他们事先已经知道试次中不包含路标时，其实已经可以推断出任务是要求返回起点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了系统地检验目标预知如何影响路径整合，本研究采用了Wan等(2012)研究中的返回起点或路标任务，借鉴Wang 等(2006)操纵物体个数来研究组量效应(effect size effect)的方法在本实验中操纵路标的个数，并通过指导语系统地操纵被试对于返回地点(目标)的预知，探究其对路径整合的影响。本研究既包括没有路标的试次，也包括有1个或2个路标的试次。因此，这样的实验设计使我们将目标预知具体区分为三个水平:(1)在试次开始前对是否存在路标和返回的地点都不知情，即\"完全不知情\";(2)在试次开始前知道是否存在路标，以及会返回起点还是路标，但如果是要返回路标则不知道具体返回哪一个路标的地点，即\"返回类型知情\";(3)在试次开始前知道是否有路标，以及会返回具体哪个地点，即\"返回地点知情”。从完全不知情、返回类型知情到返回地点知情，被试对目标的预知程度依次增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们对于结果的预期是，当被要求返回起点时，完全不知情组返回起点的表现会受到路标(出现与否及出现的个数)的影响；而另两组被试由于在一开始就知道自己将被要求返回起点，因此他们返回起点的表现不会受到路标的影响。而当被要求返回路标时，三组被试的表现随着对目标的预知程度增加而会越来越好，即完全不知情组返回起点的表现最差，返回类型知情组的表现居中，返回地点知情组的表现最佳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "清华大学的本科生48 名(24男 24女)，年龄在18至22 岁之间，平均 $1 9 . 6 { \\pm } 1 . 0 \\$ 岁，裸眼或矫正视力正常，无色盲或色弱。被试完成实验后会收到心理学公选课程的实验学分或 30元人民币现金作为报酬。采用Gpower 3.1.9.3软件对实验样本量进行估计，预期效应量为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.25，统计效力 $1 - \\beta$ 为0.9，得到预计总样本为45人。计划样本量与实际样本量较为一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 仪器和材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究使用美国Worldviz公司nVisor SX60头盔式虚拟现实设备，显示屏刷新频率为60赫兹，屏幕视场为 $4 4 ^ { \\circ }$ (水平方向） $\\lvert \\times 3 4 ^ { \\circ }$ (垂直方向)。反应设备为罗技F710无线游戏手柄，共使用3个按键作为反应键，分别用于行走、旋转反应和距离反应。虚拟现实场景的建立通过3DMax软件生成，实验程序的控制和数据记录通过Vizard4.0软件完成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "路径完成任务中的外出路径包含有5段虚拟走廊(如图1所示)，每段走廊的长度为 $3 \\mathrm { m }$ 或 $5 \\mathrm { m }$ ，高为 $2 . 2 \\mathrm { m }$ ，宽为 $\\mathrm { ~ 1 ~ m ~ }$ ，墙面、地面、天花板的材质均为灰色岩壁。任意两段走廊之间的夹角为 $6 0 ^ { \\circ }$ 或 $1 2 0 ^ { \\circ }$ 。每段走廊的长度、任意两段走廊之间夹角的大小和方向(顺时针或逆时针)在保证不连续的两个路段之间不出现交叉点的前提下随机确定。外出路径中可能没有出现路标，也可能出现1个或2个路标。可能出现的路标为红色三角形或蓝色正方形。由于不能令被试在位于外出路径终点时看到路标，所以路标只可能出现在第1、2、3段走廊的终点。当外出路径中只有1个路标时，呈现哪个路标及其位置由计算机随机决定；当外出路径中有2个路标时，每个路标的摆放位置也由计算机随机决定。当被试到达外出路径的终点时，他们将置身于一个圆形房间中，房间半径为 $0 . 5 \\mathrm { m }$ ，高为 $2 . 2 \\mathrm { m }$ ，表面材质变为黄色岩壁，提醒被试已经到达终点。这时会出现从被试身体指向圆形房间墙壁、与地面平行的蓝色指示杆，指示杆随着被试身体的转动而转动，指出被试身体的朝向。同时在被试的面前出现一个图形，指示被试应返回哪个地点。具体而言，紫色圆形代表返回起点，红色三角形或蓝色正方形代表返回相应的路标位置。被试做出方向反应之后，会有一条长为 $1 0 0 0 \\mathrm { m }$ 的走廊出现在被试选择的方向中以供他们做出距离反应，这条走廊高为 $2 . 2 \\mathrm { m }$ ，宽为 $1 \\mathrm { m }$ ，表面材质为黄色岩壁。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/45c810a0fd420d8cdbfb41f5968c917a730ebeb57e1a8aa1a3f0f27c05ce2c50.jpg",
+        "img_caption": [
+            "图1本研究的虚拟场景和任务流程示意图。A图中，被试面向一条走廊。B图中，被试到达外出路径中的某个路标位置，面前出现红色箭头提示被试应向左转。C 图中，被试到达外出路径的终点，目标出现并提示被试应该返回这个目标位置。D 图中，被试做出方向反应，指出目标位置的方向，一条长走廊出现在被试选择的方向。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本研究的虚拟场景中，被试的直线行走是在保持身体不动的情况下、通过按键进行“虚拟\"的行走，只通过光流信息感知运动的距离，而且运动的速度被设置为恒定的 $1 . 5 ~ \\mathrm { m / s }$ 0而在走廊拐角或做出方向反应时，却需要确实转动身体，因此同时通过光流信息和体感信息感知旋转。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究采用3(目标预知) $\\times 3 ($ (路标数量：0、1、2个)的混合设计，其中目标预知为组间变量，路标数量为组内变量。实验开始前，我们将被试随机分成3组，每组16人，并在每个试次开始前给予不同的指导语，使他们在实验中的目标预知逐渐增加。第一组被试在每个试次开始前不知道这次的外出路径中是否有路标，也不知道会返回哪个地点，称为完全不知情组。第二组被试在每个试次开始前被告知这次的外出路径中是否有路标，以及他们会被要求返回起点还是路标，称为返回类型知情组。第三组被试在每个试次开始前被告知这次的外出路径中是否有路标，以及他们会被要求返回起点还是具体哪个路标，称为返回地点知情组。值得注意的是，即使被试被告知接下来开始的试次有路标，他们也并不知道是有1个还是2个路标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每位被试均完成24试次的路径完成任务，其中包括8个没有路标的试次、8个有1个路标的试次、以及8个有2个路标的试次。不包含路标的试次中，被试均需要返回起点；包含路标的试次中，有一半的试次需要返回起点，另一半的试次需要返回路标位置，而且当包含2个路标时，返回每个路标位置的机率各占一半。因此，实验中一共有五种不同的任务条件：(1)没有路标，被试返回起点(如图 2A所示);(2)外出路径中有一个路标，被试返回起点(如图2B 所示);(3)外出路径中有一个路标，要求被试返回路标(如图2C所示);(4)外出路径中有两个路标，要求被试返回起点(如图 2D 所示);(5)外出路径中有两个路标，要求被试返回其中一个路标(如图 2E 所示)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7385b5cd90a20c8d5e060e1e99cc985079ab1880558186a1806b520d984e4737.jpg",
+        "img_caption": [
+            "图2本研究中路径完成任务中返回起点或路标的平面俯瞰图示例"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 实验流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，被试阅读预先准备好的指导语，并完成4至8个练习试次，直到被试认为自己已经理解了实验任务。之后，被试进行含24个试次的正式实验。在每个试次开始之前，不同组的被试接受不同类型的指导语。不知情组接受的指导语为：“新的一次测试开始。\"返回类型知情组接受的指导语为：“新的一次测试开始，这次测试需要返回起点/路标。\"返回地点知情组接受的指导语为：“新的一次测试开始，这次测试需要返回起点/三角形路标/正方形路标。”",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每个试次一开始，被试出现在外出路径的第一段走廊的起点位置，并且正对着这段走廊的终点(见图1A)。这时，被试需要按行走键，“虚拟地\"走到走廊的终点。当被试走到走廊的终点时，下一段走廊出现，但由于走廊之间存在夹角，因此被试需要先旋转身体，使自己正对着下一段走廊的终点，然后再继续行走(见图1B)。当被试走完5段走廊后，会进入到一个黄色岩壁的圆形房间，同时代表被试身体朝向的指示杆和代表返回地点的图形出现(见图1C)，提示被试这个试次需要返回哪个地点。这时被试需要转动身体面向需要返回的地点，并按下方向确定键，他的反应角度和反应时被计算机记录下来。在被试选择的这个方向上会出现长走廊(见图1D)，被试需要通过按行走键走一段距离，到觉得自己走到返回地点的位置时，再按下位置确定键。这时，被试的距离反应也被计算机记录下来，这个试次结束，下一个试次开始。整个实验过程中(包括练习试次)，被试不接受任何反馈信息。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究中48位被试之中有47人完成了全部24个试次的实验,1名被试因技术故障完成了21个试次的试验，也纳入了数据分析之中。但是，由于个别被试在个别试次中按键操作失误，因此没有对方向或距离进行反应。因此，我们在数据分析中剔除了反应距离为0或方向反应在 $0 ^ { \\circ }$ 到 $3 ^ { \\circ }$ 之间的试次，这些试次占总试次的 $4 . 1 \\%$ 。被试的路径整合表现，通过位置误差和反应时这两个指标来衡量。本研究中的反应时测量的是被试做出方向反应的反应时，而位置误差指被试回到的位置和该地点实际位置之间的距离。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，我们对图3所示中的返回起点试次的位置误差和反应时数据进行3(组别：完全不知情组、返回类型知情组、返回地点知情组) $| \\times 3 |$ (路标数量：0、1、2个)的混合因素方差分析，其中组别为组间变量，而路标数量为组内变量。结果表明，除了组别与路标数量在反应时上的交互作用显著, $F ( 4 , 9 0 ) = 2 . 5 4 , p = 0 . 0 4 5 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 0 ,$ ，其它任何主效应或交互作用均不显著，all $F s < 1 . 9 6$ $p \\mathrm { s } > 0 . 1 3$ 。为了解释这个交互作用的意义，我们对每一组被试在不同路标数量下的反应时进行了成对比较\\*，结果表明，完全不知情组在有2个路标时返回起点的反应时(10.63 s)显著长于没有路标时(8.48 s), $t ( 1 5 ) = 3 . 4 9$ $p < 0 . 0 1$ , Cohen's $d = 0 . 9 7$ ；但是这两个条件下的反应时与有1个路标时的反应时(11.19 s)的差别均没有达到显著水平,both $t \\mathrm { s } < 1 . 5 2$ $p \\mathbf { s } > 0 . 4 5$ 。另外两组被试在反应时上则没有表现出这样的效应,all $t \\mathrm { s } < 1 . 7 6 , p \\mathrm { s } > 0 . 3 0$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/21e8061d733229a240df5c157a6fa49b83863e8234609889efecd986f0c9649b.jpg",
+        "img_caption": [
+            "图 三组被试在返回起点时的平均位置误差和反应时。误差线表示标准误。"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然后，我们对图4所示中的返回路标试次的位置误差和反应时数据进行了3(组别：完全不知情组、返回类型知情组、返回地点知情组) $_ { | \\times 2 | }$ (路标数量：1、2个)的混合因素方差分析，其中组别为组间变量，而路标数量为组内变量。这里需要指出的是，当外出路径中没有路标时，也就不存在返回路标的情况了，因此这里的路标数量只可能是1或2个。方差分析的结果表明，组别的主效应在位置误差上显著, $F ( 2 , 4 5 ) = 4 . 4 9 , p = 0 . 0 1 7 , \\eta _ { \\mathrm { p } } ^ { 2 } = 0 . 1 7$ 。多重比较的结果表明，完全不知情组的位置误差 $( 1 3 . 4 8 \\mathrm { m } )$ 要显著大于返回类型知情组 $( 1 0 . 6 6 ~ \\mathrm { m } )$ _， $t ( 3 0 ) =$ 2.24, $p = 0 . 0 4 9$ ,Cohen's $d = 0 . 5 8$ ，也显著大于返回地点知情组 $( 1 0 . 4 4 ~ \\mathrm { m } )$ ， $t ( 3 0 ) = 2 . 4 6$ ， $p =$ （204号0.043, Cohen's $d = 0 . 9 1$ ，而返回类型知情组与返回地点知情组在位置误差上的差异则不显著,$t ( 3 0 ) = 0 . 2 6 , p > 0 . 9 9$ 。此外，组别与路标数量在反应时上交互作用显著, $F ( 2 , 4 5 ) = 5 . 2 3 , p =$ 0.009, $\\eta _ { \\mathrm { p } } { } ^ { 2 } = 0 . 1 9$ 。对每组被试反应时数据进行的单因素方差分析表明，完全不知情组和返回类型知情组的反应时不受到路标数量的影响,both $F \\mathrm { s } < 2 . 3 0 , p > 0 . 1 4$ ；而返回地点知情组在有 2 个路标时返回起点的反应时(7.71 s)甚至短于有1个路标时(8.48 s), $F ( 1 , 1 5 ) = 8 . 1 3 , p =$ （204号0.012, $\\mathfrak { \\eta } _ { \\mathrm { p } } { } ^ { 2 } = 0 . 3 5$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fa540a31c00789108aee9c7bf6985a4acfff396d5f30b9e458007add2dac11b.jpg",
+        "img_caption": [
+            "图4三组被试在返回路标时的平均位置误差和反应时。误差线表示标准误。"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1目标预知对路径整合的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究的结果表明，目标预知对返回起点和返回路标这两种反应均有促进作用，但是具体的作用方式又存在差异。一方面，目标预知对于返回起点反应的影响主要表现在和路标个数之间的交互作用上。具体而言，当任务要求被试返回起点时，完全不知情组在外出路径中有两个路标时比没有路标时的反应时更长，而返回类型知情组和返回地点知情组这两组被试的表现则不受路标的影响。这样的研究结果符合我们的预期，而且表明对于返回起点这一目标的预知可以使被试有效地忽略由于路标出现或路标数量增加而导致的干扰。另一方面,当任务要求被试返回路标时，返回类型知情组与返回地点知情组的位置误差均小于完全不知情组，说明对返回路标这一目标的预知越多可能会促使被试做出更准确的反应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目标预知对路径整合的促进作用，可能是对于返回地点的知识使被试采取了更为具有适应性的策略。例如完全不知情组则需要从外出路径一开始就进行空间更新，因而最后产生的错误也更多。返回类型知情组被试可以只从路标出现才开始进行空间更新，返回地点知情组被试甚至可以只从自己知道要返回的那个地点出现后才开始进行空间更新。这两组被试可以忽略目标之前经过的路径，降低任务导致的工作记忆负荷，也使自己对外出路径的加工得以简化。如本文方法部分所述，由于路标只会出现在第一、二、三段走廊的末尾，因此，这两组被试可以将需要认知加工的外出路径简化为只包含二、三、或四段走廊。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究也通过揭示被试为了降低工作记忆负荷所做出的努力而从侧面说明了工作记忆对于路径整合的重要性。无论是返回起点还是路标位置，进行路径整合需要同时对距离信息和方向信息进行加工，而路径完成的位置误差也同时受到方向误差和距离误差二者的影响。Chrastil等(2016)发现海马体、压部后皮层、海马旁回负责工作记忆中对于路径整合信息的编码和保持，其中海马体、压部后皮层、海马旁回对路径整合中距离信息的加工非常关键，而压部后皮层对路径整合中的方向信息加工也很重要，神经层面的证据说明工作记忆对于路径整合中距离信息和方向信息的加工可能出现分离。而工作记忆在路径整合中发挥的作用可能存在较大的个体差异(Amold,Burles,Bray,Levy,& Iaria,2014)。本研究从行为的层面反映了工作记忆对于路径整合的影响，并揭示了个体在路径整合过程中为降低工作记忆负载而可能采用的灵活策略。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 目标预知对于空间巡航的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究关于目标预知的研究结果进一步表明了基于路标的空间巡航与基于内部线索的路径整合这两种空间巡航方式之间的关系。从操作定义上而言，路径整合只依赖于自身运动信息，而路标的影响是被严格排除的。但是，除了严格控制下的实验条件以外，一般条件下的空间巡航既可以获得路标等外部线索，也可以采用自身运动信息这些内部线索。当两种信息都可获得时，人们会更依赖于清楚、可靠的路标信息(Foo etal.,2007)，或对两种策略提供的信息进行整合(Zhao&Warren,2015)。本研究采用Wan 等(2012)返回起点或路标的的路径完成任务范式，更是提高了路标对于路径整合的任务相关性。尽管外出路径的起点本身可能就比路途中遇到的路标位置更鲜明、显著，但是被要求返回路标的可能性使这些路标不再仅仅是帮助被试进行空间巡航的线索，而成为返回的目标之一。因此，目标预知也可能以自上而下地方式(Theeuwes,2010)引导被试在空间巡航中对于不同类型的空间线索的注意。路径整合和路标学习之间相互竞争又相互依赖，令人们拥有一致的空间表征。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究的结果也有助于我们进一步理解目标预知对于空间巡航的影响。尽管本研究与Wan 等(2012)的研究采用的虚拟现实设备类型不同，这两个研究的结果一致表明，对目标的预知会有助于被试更好地进行路径完成任务。但是，如果综合考虑本研究的结果与空间学习文献的结果，就会发现目标预知对路径整合与基于环境信息的结构知识获得产生了不同的影响。Rossano 和 Reardon(1999)在研究中让被试完成虚拟现实中校园的空间学习任务，结果发现当他们在空间学习过程中有一个具体目标时(即在游览虚拟校园时始终努力记忆一个特定建筑的方位)，比空间学习过程中没有具体目标时获得的环境结构知识更少。他们的研究结果可以用认知负荷理论来解释(Sweller,1994; Sweler& Chandler,1994)。当被试清楚明确地知道任务的目标时(例如，始终记住校园内一个特定的方位)，被试有可能采用方法——目标策略(means-end strategy)，在进行任务的每一步中都尽力减少当前状态与目标之间的差距，而这样的过程占据了大量的认知资源，就使他们没有足够的认知资源去进行其它认知活动(如获得环境的结构知识、建立自己的认知地图)，而导致具体的目标反而阻碍了被试获得环境结构知识。值得注意的是，在进行那些空间学习时，环境中包含丰富的视觉与路标信息。相比之下，本研究中的路径整合是基于自身运动信息估计和整合，因此当被试关于目标的预知增加时，被试可以采用更适应任务要求的策略，降低自己的工作记忆负荷，简化对于外出路径的认知加工。考虑到人们在进行路径整合时遇到的困难与不适应(宛小昂,2016)，目标预知的促进作用就显得格外宝贵。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "当然，本研究也存在一定的不足。首先，由于本研究的任务之中最多只出现了两个路标,路标数量的增加对认知负荷的影响可能并不足够显著；而且由于路标都放置在一个路段的尽头，这种特殊的放置位置和路径本身节点等的空间信息相重合。第二，本研究中采用的虚拟现实头盔比Wan 等(2012)采用的虚拟立方体沉浸感更低一些、视角也更小，客观因素的限制使得被试在本研究中进行路径整合的难度较大。因此，将本研究的结论推广到其他情境时",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "需要更外谨慎。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总而言之，本研究的结果表明了目标预知对路径整合的促进作用。当外出路径中可能出现路标时，无论被试被要求返回起点还是路标，都会受到任务开始前目标预知的影响。本研究的结果也体现了期望对人类路径整合的影响。未来研究可以探索关于任务目标的了解和期望如何影响了被试所采用的空间表征和空间更新类型、如何进行认知加工资源的分配。这样的研究结果有助于我们进一步理解非感知觉因素对于人类路径整合的贡献，也揭示了人类路径整合的策略性和灵活性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Arnold,A.E.,Burles,F.,Bray,S.,Levy,R.M.,& Iaria,G.(2O14).Diferential neural network configuration during human path integration.Frontiers in Human Neuroscience,8,263: doi:10.3389/fnhum.2014.00263.   \nCheng,K.,Shettleworth,S.J.,Hutenlocher,J.,&Rieser,J.(2O07).Bayesian integrationof spatialintegration. Psychological Bulletin,133,625-637.   \nChrastil,E.R.,Sherrill,K.R.,Hasselmo,M.E.,& Stern,C.E.(2016).Which way and how far? Trackingof translation and rotation information for human path integration. Human Brain Mapping,37,3636-3655.   \nCollett,T. S.,& Graham,P.(2004). Animal navigation: path integration,visual landmarks and cognitive maps. Current Biology,14(12),R475-R477.   \nFoo,P.,Duchon,A.，Warren,W.H.,& Tarr,M.J. (2007). Humans do not switch between path knowledge and landmarks when learning a new environment. Psychological Research, 71(3),240-251.   \nFoo,P.,Warren,W.H.,Duchon,A.,& Tarr,M.J. (2O05).Do humans integrate routes into a cognitive map? Map-versus landmark-based navigation of novel shortcuts. Journal of Experimental Psychology: Learning, Memory, and Cognition,31(2),195-215.   \nGuo, J.,& Wan, X. (2015). The effect of learning in virtual path integration.Acta Psychologica Sinica, 47(6), 711-720.   \n[过继成思，宛小昂.(2015)．虚拟路径整合的学习效应．心理学报,47(6),711-720.]   \nHe,Q.，& McNamara,T.P. (2O18). Spatial updating strategy afects the reference frame in path integration. Psychonomic Bulletin & Review,25(3),1073-1079.   \nKearns,M.J.,Warren, W.H.,Duchon,A.P.,& Tar,M.J. (2002).Path integration from optic flow and body senses in a homing task. Perception, 31,349-374.   \nKlatzky,R.L.,Beall,A.C.,Loomis,J.M., Goedge,R.G.,&Philbeck, J. W.(1999).Human navigation ability: Tests of the encoding-error model of path integration. Spatial Cognition and Computation,1(1),31-65.   \nLi,D.,& Yang,Z. (20l5). Spatial navigation:The relationship between landmark learning and path integration. Advances in Psychological Science,23(10),1755-1762.   \n[李丹，杨昭宁.(2015).空间导航：路标学习和路径整合的关系．心理科学进展,23(10),1755-1762.]   \nLoomis,J.M.,Klatzky,R.L.,Golledge,R.G.,Cicinelli,J.G.,Pellegrino,J.W.,&Fry,P.A.(1993).Nonvisual navigation by blind and sighted: assessment of path integration ability. Journal of Experimental Psychology: General,122(1),73-91.   \nPhilbeck,J.W.，& O'Leary，S.(2005).Remembered landmarks enhance the precision of path integration. Psicologica,26,7-24.   \nPhilbeck,J.W.， Klatzky,R.L.，Behrmann，M.,Loomis,J. M.，& Goodridge,J. (2001). Active control of locomotion facilitates nonvisual navigation. Journal of Experimental Psychology: Human Perception and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Performance,27(1),141-153. Poucet,B.,Sargolini,F.,Song,E.Y.,Hangya,B.,Fox,S.,& Muler,R. U. (2014).Independence of landmark and self-motion-guided navigation: Adiffrent role for grid cells.Philosophical Transactions of the Royal Society B: Biological Sciences, 369(1635),20130370. Rossano,M.J.,& Reardon, W.P.(1999). Goal specificity and the acquisition of survey knowledge.Environment and Behavior, 31(3),395-412. Sjolund,L.A.,Kelly,J. W.,& McNamara,T.P.(2018). Optimal combination of environmental cues and path integration during navigation. Memory & Cognition, 46, 89-99. Sweller,J. (1994). Cognitive load theory,learning diffculty,and instructional design.Learning and Instruction, 4(4), 295-312. Sweller,J.,& Chandler,P.(1994). Why some material is diffcult to learn. Cognition and Instruction,12(3), 185-233. Theeuwes, J. (2010). Top-down and bottom-up control of visual selection. Acta Psychologica,135(2),77-99. Wan,X.,Wang,R.F.，& Crowell J.A.(2012). The efect of landmarks in human path integration.Acta Psychologica,140(1),7-12. Wan, X. (2016). The phenomenon and mechanisms ofpath integration in humans. Hangzhou: Zhejiang University Press. [宛小昂.(2016).人类路径整合的现象与机制.杭州：浙江大学出版社.] Wan,X.,Wang,R.F.，& Crowell J.A.(2012). The efect of landmarks in human path integration. Acta Psychologica,140,7-12. Wan,X., Wang,R.F.,& Crowell,J.A. (2013).Effects of basic path properties on human path integration.Spatial Cognition& Computation,13,79-101. Wang,R.F. (2016). Building a cognitive map by assmbling multiple path integration. Psychonomic Bulletin & Review,23,692-702. Wang,R.F.,Crowel,J.A.,Simons,D.J.,Irwin,D.E.,Kramer,A.F.,& Ambinder,M.S. et al. (2006). Spatial updating relies on an egocentric representation of space: Eects of the number of objects.Psychonomic Bulletin & Review, 13(2),281-286. Wiener,J.M.,Berthoz,A.,& Wolbers,T.(2011).Dissociable cognitive mechanismsunderlying human path integration. Experimental Brain Research,208,61-71. Zhang,L.,& Mou, W. (20l7). Piloting systems reset path integration systems during position estimation. Journal of Experimental Psychology: Learning, Memory, and Cognition, 43(3), 472-491. Zhao,M.,& Warren,W.H. (2O15b). How you get there from here: Integration of visual landmarks and path integration in human navigation.Psychological Science,26,915-924. Zhou, J.S.,& Zhang,K. (2Oo5). Kinestheic,Irrelevant Motionand Path Integration. Psychological Science,28(6), 1306-1308. [周佳树，张侃.(2005).运动觉，布局无关运动与路径整合．心理科学,28(6),1306-1308.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The influence of target knowledge on path integration ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GUO Jichengsi; HUANG Jianping; WAN Xiaoang ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(DepartmentofPsychology,TsinghuaUniversity,Beijinglooo84,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Navigation can be classified into piloting and path integration based on the types of information used. Piloting alows navigators to use direction sensory cues regarding the environment and landmarks, but in path integration, navigators rely on self-motion information. Previous research has revealed that the presence of landmarks might influence human path integration, but it remains unclear how this process might be influenced by the participants’ knowledge about which target location to which they would be asked to return. Here,we report a study designed to investigate the effect of target knowledge in human path integration. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In the present study， we used Head-Mounted-Display Virtual Reality to present hallway-mazes,and employed a modified return-to-origin task used by Wan,Wang, and Crowell (2012). That is,the participants first traveled along 5-segment pathways where 0,1，or 2 landmarks were present at the intersections. When arriving at the end of the outbound pathways, they were asked to return directly to the origin or one of the landmark locations. In order to manipulate target knowledge, we gave different instructions to three groups of participants at the beginning of each trail: the first group was not given any information about where to return; the second group was told about whether they would be asked to return to the origin or one of the landmark locations (without knowing which landmark exactly); and the third group was told about which specific location they would be asked to return to. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The results showed the effects of target knowledge on both the return-to-origin and return-to-landmark responses.When attempting to return to the origin, the uninformed group showed longer RTs when there were two landmarks than when there was no landmark; whereas the other two groups showed no such paterns. For another, when atempting to return to the specified landmarks,the uninformed group showed greater position errors than the other two groups.That is to say, target knowledge might diminish interference from the presence or increase of the landmarks on the return-to-origin responses,and lead to more accurate return-to-landmark responses. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Taken together, these results revealed that more knowledge about where to return might facilitate human path integration. One possibility is that more knowledge about the target might allow the participants to use a more adaptive strategy to reduce their working memory load and to simplify the structure of the outbound paths they need to proces. These findings highlight the influence of non-perceptual factors on human path integration, and they indicate that path integration in humans might be an adaptive and strategic process. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: path integration; target knowledge; landmark; virtual reality; spatial navigation ",
+        "page_idx": 12
+    }
+]

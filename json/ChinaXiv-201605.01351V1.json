@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "$\\mathbf { C D 1 6 3 + C D 1 4 } +$ macrophages, a potential immune biomarker for malignant pleural effusion ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fei Wang1,2 $\\cdot \\cdot$ Li Yang1 $\\cdot \\cdot$ Qun Gao1,3 $\\cdot \\cdot$ Lan Huang1 $\\cdot \\cdot$ Liping Wang3 $\\cdot \\cdot$ Jing Wang4 \\* Shengdian Wang5 $\\cdot \\cdot$ Bin Zhang6 $\\cdot \\cdot$ Yi Zhang1,2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:31August 2014/Accepted:15 April 2015 /Published online: 6 May 2015   \n$\\circledcirc$ Springer-Verlag Berlin Heidelberg 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BackgroundMalignant pleural effusion(MPE) is a common complication caused by malignant diseases.However,subjectivity，poor sensitivity,and substantial falsenegative rates of cytology assay hamper accurate MPE diagnosis.The aim of this study was to assess whether $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ tumor-associated macrophages (TAMs) could be used as a biomarker for enabling sensitive and specific MPE diagnosis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MethodsPleural effusion samples and peripheral blood samples were collected from $5 0 ~ \\mathrm { M P E }$ patients and 50 non-malignant pleural effusion(NMPE）patients,respectively. Flow cytometry was performed to analyze cell phenotypes，and RT-qPCR was used to detect cytokine expression in these monocytes and macrophages.A blinded validation study $( n = 4 0 )$ ）was subsequentlyperformed to confirm the significance of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TAMs in MPE diagnosis.Student's $t$ test,rank sum test, and receiver operating characteristic curve analysis were used for statistical analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ResultsNotably, $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cell frequency in MPE Wasremarkablyhigher than thatinNMPE $( P < 0 . 0 0 1 ) \\$ .Ina blinded validation study, a sensitivity of $78 . 9 \\%$ and a specificity of $100 \\%$ were obtained with $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ TAMs asaMPE biomarker.In total( $( n = 1 4 0 )$ ,byusinga cutoff level of $3 . 6 5 ~ \\%$ ， $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cells had a sensitivity of $8 1 . 2 \\ \\%$ and a specificity of $100 \\%$ for MPE diagnosis. Notably，MPE diagnosis by estimating $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells in pleural effusion could be obtained one week earlier than that obtained by cytological examination. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusions $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages could be potentially used as an immune diagnostic marker for MPE and has better assay sensitivity than that of cytological analysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeywordsMalignant pleural effusion $\\cdot \\cdot$ Tumor-associated macrophage $\\cdot \\cdot$ CD163 $\\cdot \\cdot$ Biomarker $\\mathbf { \\nabla } \\cdot \\mathbf { \\varepsilon }$ Diagnosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AUC Area under curve   \nCI Confidence interval   \nFACS Fluorescence-activating cell sorter   \nMACS Magnetic cell sorting   \nMDSC Myeloid-derived suppressor cells   \nMPE Malignant pleural effusion   \nNMPE Non-malignant pleural effusion   \nNS Normal saline   \nRCC Renal cell carcinoma   \nROC Receiver operating characteristic curve   \nSPSS Statistical program for social sciences   \nTAMs Tumor-associated macrophages ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pleural effusion is a common clinical condition caused by malignant tumors,as well as some non-malignant diseases [1-3].Malignant pleural effusion (MPE) is associated with high cancer-related mortality and morbidityrates and confers a reduced quality of life for patients [4,5].A method for accurate MPE diagnosis is required to overcome the limitations of the current diagnostic methods and to determine the best treatment course.Currently,subjectivity in diagnostic methods,poor assay sensitivity,and substantial false-negative rates in cytological examinations hamper early diagnosis of MPE [6].Hyperplasia of benign mesothelial cells in pleural effusion makes it difficult to distinguish the mesothelial cells from malignant cells and can lead to false-positive results for MPE.Currently，pleural fluid biomarkers cannot be efficiently used to diagnose MPE[7].Therefore,a novel biomarker is required for an accurate and objectivediagnosisofMPE. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The cellular microenvironment of MPE is crucial for the metastasis of malignant tumors [8,9]. Tumor-infiltratingmacrophages are referred to astumor-associated macrophages (TAMs).Macrophage can differentiate into a classically activated phenotype (M1) or an alternatively activated phenotype (M2) in tumor tissues [1O-12]. M1 macrophages are characterized by the expression of pro-inflammatory cytokines,whereas factors produced by alternatively activated M2 macrophages act in favor of tumor progression [13].Although increased frequency of ${ \\mathrm { C D } } 6 8 +$ macrophages has been correlated with increased tumor size,lymph node metastasis,and TNM stage in lung carcinomas [14], CD68 is not a specific marker for M2 macrophages [10, 15]. Our present study has confirmed this as well (Supplementary Figure S1).Cell frequencies of $\\mathrm { C D 6 8 + C D 1 6 3 + }$ cells and $\\mathrm { C D } 1 4 \\mathrm { + } \\mathrm { C D } 1 6 3 +$ cells were assessed,and the data showed that the frequencies were similar $\\mathit { P } = 0 . 1 0$ ，Supplementary Figure S1).Neither CD68 nor CD14 was determined to be a specific marker for M2 macrophages. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CD163 is a surface receptor on cells of the monocytic lineage,and $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs have been shown to bea hallmark of the tumor microenvironment and have been associated with poor prognosis in different types of cancer[15,16].In ovarian cancer, the expression of CD163 on TAMs in the ascites was inversely associated with relapse-free survival [15]. Additionally, $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs were closely involved in the progression of adult T cell leukemia/lymphoma [16]. However, the significance of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in MPE has not been reported. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we analyzed the phenotype and function of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in both MPE and non-malignant pleural effusion (NMPE). The purpose of this study was to determine whether $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs could be used as an effective and objective biomarker for the identification of MPE ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Patient demographics and sample collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One hundred patients with pleural effusion were recruited at The First Afliated Hospital of Zhengzhou University from May 2011 to December 2O13.All samples were obtained with the approval from the ethics committee of the hospital (No.2011-17).For the MPE group,patients aged 18 years or older that had MPE and were diagnosed with lung cancer proven by histopathological examination of lung biopsy material,and those that did not have diseases of the immune system were included.For the NMPE group, patients with pneumonia, tuberculosis,or heart failure/hypoproteinemia were included. In addition,patients with a history of malignant disease within the last five years and patients with solid organ or bone marrow transplantation were not recruited for the NMPE group. The pleural effusions from all patients were confirmed by cytological analysis in the Department of Pathology (Supplementary Figure S2).Pleural effusion and peripheral blood were collected from 5O patients with lung cancer (Supplementary Table S1). The other 5O patients were previously diagnosed with NMPE (Supplementary Table S2). Additional 40 pleural effusion samples were collected for the blinded validation study (see below).The correlation between clinicopathological characteristics of MPE patients and NMPE patients is shown in Table1.The results showed that there was no relationship with clinicopathological characteristics between MPE and NMPE (Table 1).We excluded the effects of gender, age,and smoking on the percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in MPE. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Isolation of mononuclear cells from pleural effusion and peripheral blood ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mononuclear cells were isolated using Ficoll-Hypaque (HuajingBiology Co.， Shanghai） densitygradient centrifugation.Briefly, $5 0 { - } 3 0 0 ~ \\mathrm { m l }$ of pleural effusion collected from each patient was centrifuged at $1 5 0 0 ~ \\mathrm { r p m }$ for $1 0 ~ \\mathrm { { m i n } }$ . After the removal of supernatant, the cells were resuspended in $3 0 ~ \\mathrm { m l }$ of normal saline (NS).Each sample ofperipheral blood $\\{ 5 ~ \\mathrm { m l } \\}$ ）wasmixed with $2 5 ~ \\mathrm { m l }$ of NS. Next, $3 0 ~ \\mathrm { m l }$ of resuspended cells from pleural effusion or $3 0 ~ \\mathrm { m l }$ of diluted blood was carefully added to $1 5 ~ \\mathrm { m l }$ of lymphocyte separation medium,and the tubes were then centrifuged at $2 5 0 0 ~ \\mathrm { r p m }$ for $2 5 ~ \\mathrm { m i n }$ at room temperature. After centrifugation，the interphase containing mononuclear cells was carefully aspirated,washed twice,and finally resuspended with NS for flow cytometry analysis or for isolation of monocytes using magnetic cell sortingsystem (MACS system,Miltenyi Biotec) as described below. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bf774c9e7e29efb416f96545307f9626299bbd28b224f76b4d340730f3e761f.jpg",
+        "table_caption": [
+            "Table1 Correlation with clinical characteristics between MPE and NMPE $( n = 1 4 0 )$ "
+        ],
+        "table_footnote": [
+            "（20 $^ { * } P = 0 . 9 9 > 0 . 0 5$ for the comparison of gender in patients with MPE and NMPE; # $P = 0 . 2 3 > 0 . 0 5$ for the comparison of age in patients with MPE and NMPE；& $P = 0 . 2 4 > 0 . 0 5$ for the comparison of smokinginpatientswithMPEandNMPE "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Pleural effusion</td><td rowspan=\"2\">Chi-square values</td></tr><tr><td>Malignant</td><td>Non-malignant</td></tr><tr><td>Gender</td><td></td><td></td><td></td></tr><tr><td>Male</td><td>38</td><td>39</td><td>0.0003*</td></tr><tr><td>Female</td><td>31</td><td>32</td><td></td></tr><tr><td>Age</td><td></td><td></td><td></td></tr><tr><td>≤60 years</td><td>28</td><td>37</td><td>1.436#</td></tr><tr><td>>60 years</td><td>41</td><td>34</td><td></td></tr><tr><td>Smoking</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>33</td><td>26</td><td>1.372&</td></tr><tr><td>No</td><td>36</td><td>45</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Isolated mononuclear cells $( 1 ~ \\times ~ 1 0 ^ { 5 }$ cells）were stained withAPC-Cy7-labeledantihumanCD14antibody, PE-Cy7-labeled antihuman CD3 antibody,and PE-labeled antihuman CD163 antibody (Biolegend). Dead cells were stained using 7-AAD(BD Biosciences).After incubation on ice in the dark for $1 5 \\mathrm { m i n }$ , the cells were analyzed using FACSCanton II (BD). CD14 was used as a specific monocyte/macrophage marker [17,18].Previously,de Vos van Steenwijk et al.[17] isolated CD14 monocytes by using MACS cell separation to induce M2 macrophages,which were shown to belong to the $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ population. In this study,we used antihuman CD163 antibody and antihuman CD14 antibody to label M2 macrophages. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine whether CD163 staining enables specific labeling and whether tumor cell autofluorescence influenced the findings,mononuclear cells from pleural effusion and from peripheral blood were stained with human antiCD45antibodyandhuman anti-CD163antibody (Biolegend). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Monocyte isolation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D 1 4 + }$ cell-enriched population was purified from mononuclear cells by using MACS system. Mononuclear cells were passed through $3 0 \\mathrm { - } \\mu \\mathrm { m }$ nylon mesh to remove cell clumps,which may clog the MACS column. Next, $1 \\times 1 0 ^ { 7 }$ cells were centrifuged at $3 0 0 \\times g$ for $1 0 ~ \\mathrm { \\ m i n }$ ，and then，the supernatant was aspirated completely. Cells were resuspended in $8 0 ~ \\mu \\mathrm { l }$ of MACS buffer (Miltenyi Biotec)，added with $2 0 ~ \\mu \\mathrm { l }$ of CD14 MicroBeads (Miltenyi Biotec)，and then incubated in the dark for $1 5 ~ \\mathrm { m i n }$ at $4 ~ ^ { \\circ } \\mathrm { C }$ .Cell suspension was applied onto the column,and unlabeled cells passed through the column (Supplementary Figure S3A). The percentage of the isolated cells was evaluated using fluorescenceactivating cell sorter(FACS） analysis (Supplementary Figure S3B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ and $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ populations were enriched from mononuclearcells derived from MPE byFACS (Beckman,Moflo XDP; $n = 6$ ).Themononuclear cells $( 1 \\times 1 0 ^ { 8 } )$ ）wereaddedwith $2 0 ~ \\mu \\mathrm { l }$ of one of the following antibodies:antihuman CD163 antibody,antihuman CD14 antibody，antihuman CD3 antibody，or antihuman 7-AAD antibody.Next, cells were incubated in the dark for $1 5 ~ \\mathrm { m i n }$ at $4 ~ ^ { \\circ } \\mathrm { C }$ .Cells were resuspended with $1 ~ \\mathrm { m l }$ of NS for sorting.The purities of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ and $\\mathrm { C D } 1 6 3 -$ $\\mathrm { C D 1 4 + }$ cells were analyzed using FACS. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RNAisolation and real-time quantitative PCR ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Total RNA extracted from purified $\\mathrm { C D 1 4 + }$ macrophages by using Trizol reagent(Sigma-Aldrich）was used as the template for performing reverse transcription using cDNA synthesis kit（TaKaRa) according to the manufacturer's instructions.Primers for real-time PCR were purchased and had the following sequences: human TGF $\\cdot \\beta$ ，forward, $5 ^ { \\prime } \\mathrm { G C C A }$ GAGTGGTTATCTTTTGATG3'andreverse，5'AGTGT GTTATCCCTGCTGTCAC3'；humanTNF- $\\cdot \\alpha$ ，forward, 5'CTGTAGCCCATGTTGTAGCAAAC3' and reverse, 5'GCTGGTTATCTCTCAGCTCCAC3'；and human iNOS, forward，5'GCCAAGCTGAAATTGAATGAGGA3' and reverse, ${ 5 } ^ { \\prime }$ TTCTGTGCCGGCAGCTTTAAC3'.Real-time PCR was performed using cDNA as the template and using SYBR Premix ExTaq II(TaKaRa) on ABI PRISM 7300 Sequence Detection System (Applied Biosystems). Samples were amplified using the following cycling conditions: 40 cycles of $9 5 ~ ^ { \\circ } \\mathrm { C }$ for 30 s, $9 5 ~ ^ { \\circ } \\mathrm { C }$ for $5 \\mathrm { ~ s ~ }$ ，and $6 0 ~ ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { s }$ Expression of each gene was normalized to GAPDH expression,and the data were expressed as relative expression in the form of fold increase $( [ 2 ^ { - \\Delta \\mathrm { C T } } ] )$ ，where $\\Delta \\mathrm { C T } = \\mathrm { C T }$ (targe1 gene)- CT (GAPDH) [19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mRNA expression of iNOS,TNF- $\\mathbf { \\nabla } \\cdot \\mathtt { \\alpha } _ { \\mathrm { ~ \\normalfont ~  ~ } }$ ,arginase-1,IL-10, and TGF- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ in the isolated $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells and $\\mathrm { C D } 1 6 3 -$ $\\mathrm { C D 1 4 + }$ cells was analyzed using real-time PCR described above. The primer sequences used were as follows:arginase-1，forWard,5'TCCCTGTATATCTGCCAAGGATATT3' andreVerse，5'TTCCTAGTCTGTCCACTTCAGTCAT3'; IL-10，forward, $5 ^ { \\prime \\prime }$ TTTAAGGGTTACCTGGGTTGC3'and reverse,5'TTGATGTCTGGGTCTTGGTTC3'. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mRNA expression of CD14 and CD163 was used as control for the cell phenotypes in both experiments involving cell sorting.Primer sequences used for real-time PCR were as follows:human CD14,forward, $5 ^ { \\prime } \\mathrm { A C G C }$ CAGAACCTTGTGAGC3' andreverse, （204号 ${ 5 ^ { \\prime } } \\mathrm { G C A T G }$ GATCTCCACCTCTACTG3'；human CD163， forward, 5'ACTTGAAGACTCTGGATCTGCT3' and reverse, 5'CTGGTGACAAAACAGGCACTG3'. In addition， the negative and positive controls for assessing mRNA expression were used in the PCR analysis.Water wasused as the template for the negative control, and DNA from human peripheral blood mononuclear cells was used as a positive control for performing RT-PCR for TNF- $\\mathbf { \\nabla } \\cdot \\mathtt { Q }$ , IL-10,and TGF- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ ； DNA from human tumor-infiltrating lymphocytes Was used as a positive control for both iNOS and arginase-1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Blinded validation study ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The blinded validation study was performed as previously described by Pass etal.[2O].In the validation study,additional 4O pleural effusion samples were obtained from 19 cancer patients with MPE and 21 cancer-free controls with NMPE with the approval of the ethics committee of our hospital.All of the 4O patients provided signed informed consent.All samples were specially numbered by one investigator. The frequency of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in pleural effusions was measured using flow cytometry, which was performed by another investigator who was not provided the MPE/NMPE patient status for the samples.The results were unblinded and analyzed by a third investigator. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results were analyzed for determining statistical significance by using Chi-squared test and Students $t$ test for normal distributions or by using rank sum test for non-normal distributions.The Statistical Program for Social Sciences (SPSS）17.O software was used to conduct the analyses. Data were expressed as mean $\\pm \\thinspace \\mathrm { S D }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Receiver operating characteristic curve (ROC) analysis, sensitivity,and specificity were also calculated using SPSS 17.0 software. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Characterization of $\\bf { C D 1 4 + }$ monocytes obtained fromMPEandNMPE ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mononuclear cells harvested from MPE and NMPE patient groups were assessed for characterizing the phenotypes of $\\mathrm { C D 1 4 + }$ cell populations by using flow cytometry (Fig. 1a, b). The $\\mathrm { C D 1 4 + }$ cell frequency of the MPE group was significantly higher than that of the NMPE group (MPE: $2 2 . 5 9 \\pm 2 1 . 3 5 \\ \\%$ ； NMPE: $1 3 . 3 7 \\pm 2 0 . 2 7 \\ \\%$ $P = 0 . 0 2 9$ Fig.lc).The considerable difference of $\\mathrm { C D 1 4 + }$ cell frequency between MPE and NMPE groups indicated that $\\mathrm { C D 1 4 + }$ monocytes might serve as a diagnostic biomarker for MPE. Next, ROC analysis was used to evaluate the diagnostic value of $\\mathrm { C D 1 4 + }$ monocytes for MPE.The predictive ability of $\\mathrm { C D 1 4 + }$ cells was expressed as area under curve (AUC).For AUC values that ranged between O.5 and O.7, the accuracy of diagnosis was considered poor.For AUC value of 0.685, the increased percentage of $\\mathrm { C D 1 4 + }$ cells could not be identified as a specific marker for MPE (Fig. 1d). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the pro- and anti-inflammatory cytokines produced by $\\mathrm { C D 1 4 + }$ monocytes,we purified $\\mathrm { C D 1 4 + }$ cells from mononuclear cells using MACS system (Supplementary Figure S3A). The purity of $\\mathrm { C D 1 4 + }$ cells was higher than $9 5 \\ \\%$ after cell sorting (Supplementary Figure S3B). The high cell purity enabled functional assessment of pleural effusion-derived $\\mathrm { C D 1 4 + }$ monocytes.The relative expression levels of TGF $\\cdot \\beta$ ，TNF- $\\mathbf { \\nabla } \\cdot \\mathtt { Q }$ ,iNOS,and CD14 in purified $\\mathrm { C D 1 4 + }$ monocytes from MPE and NMPE were analyzed using real-time quantitative PCR.The CD14 expression in purified $\\mathrm { C D 1 4 + }$ cells obtained from MPE was significantlyhigher thanthatin $\\mathrm { C D 1 4 + }$ cells obtained fromNMPE $\\mathit { P } = 0 . 0 0 3 4$ ; Fig.le). There was also a significant difference in the relative expression of TGF- $\\cdot \\beta$ in $\\mathrm { C D 1 4 + }$ monocytes obtained from MPE as compared to that in $\\mathrm { C D 1 4 + }$ monocytes obtained from NMPE(MPE: $0 . 1 0 9 \\pm 0 . 1 2 8$ ；NMPE: $0 . 0 1 3 \\pm 0 . 0 1 7$ $P = 0 . 0 1$ ; Fig.1e). In addition,the relative expression of TNF- $\\boldsymbol { \\cdot } \\boldsymbol { \\alpha }$ and iNOS in $\\mathrm { C D 1 4 + }$ cells from MPE (TNF- $\\mathbf { \\nabla } \\cdot \\mathtt { a }$ ： $0 . 0 1 1 \\pm 0 . 0 1 0$ ; iNOS: $0 . 0 0 3 \\pm 0 . 0 0 4 \\$ was significantly lower than that in $\\mathrm { C D 1 4 + }$ monocytes from NMPE (TNF- $\\mathbf { \\nabla } \\cdot \\mathtt { a }$ ： $0 . 0 7 4 \\pm 0 . 0 9 9$ ， $P = 0 . 0 3$ ; iNOS: $0 . 0 2 4 \\pm 0 . 0 3 0$ $P = 0 . 0 2$ ; Fig.1e). These data indicate that expression of anti-inflammatory factors in $\\mathrm { C D 1 4 + }$ monocytes from MPE is elevated,whereas the pro-inflammatory factors expression is elevated in $\\mathrm { C D 1 4 + }$ monocytes from NMPE. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { C D 1 6 3 + C D 1 4 } +$ TAMsexhibitastable anti-inflammatoryphenotype ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The different expression levels of pro- and anti-inflammatory cytokines in $\\mathrm { C D 1 4 + }$ monocytes obtained from ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/efa60239cf28e441010f96eb13aa3ca5a2e8e70b63c7e5355d59033011d389c6.jpg",
+        "img_caption": [
+            "Fig.1 Characterization of $\\scriptstyle \\mathrm { C D 1 4 + }$ monocytes derived from MPE frequency in MPE and NMPE.Results presented as a scatter diaand NMPE.a Representative phenotypic analysis of ${ 7 { \\mathrm { - } } \\mathrm { A A D { \\mathrm { - } } C D } } 3 -$ gram. d ROC analysis of $\\mathrm { C D 1 4 + }$ cell frequency in MPE with AUC $\\mathrm { C D } 1 4 { + } \\mathrm { C D } 1 6 3 +$ cells in pleural effusion by using flow cytometry. of 0.685.e RT-PCR was performed to assess the relative expression b Comparison of $\\mathrm { C D } 1 4 { + } \\mathrm { C D } 3 { - }$ monocyte frequency in MPE and of TGF- $\\cdot \\beta$ ,TNF- $\\cdot \\alpha$ ,and iNOS in purified $\\mathrm { C D 1 4 + }$ cells derived from NMPE by using flow cytometry. One representative analysis from MPE versus NMPE, normalized by $[ 2 ^ { - \\Delta C _ { t } } ]$ .Results presented as hisMPE and NMPE cases is shown.c Comparison of $\\mathrm { C D 1 4 + }$ monocyte togram. $^ { * } P < 0 . 0 5$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MPE and NMPE indicate M2-type polarization of $\\scriptstyle \\mathrm { C D 1 4 + }$ macrophages obtained from MPE. CD163 has been reported as a specific marker for M2 macrophages [17].Therefore，we next assessed the pro- and antiinflammatory cytokines expression in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To determine the specificity of CD163 labeling,mononuclear cells were double-stained with human anti-CD45 antibody and anti-CD163 antibody. CD45 expression was used to distinguish leukocytes from tumor cells.The data showed that only $\\mathrm { C D 4 5 + }$ cells expressed CD163 and that $\\mathrm { C D 4 5 - }$ cells did not show CD163 expression (Supplementary Figure S4). The results indicate that CD163 staining is specific for host-derived immune cells and is not indicative of autofluorescence in tumor cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ and $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ TAMsis0- lated from MPE were enriched using FACS (Fig.2a).We then used RT-qPCR to determine the relative expression levelsof iNOS，TNF- $\\boldsymbol { \\cdot } \\boldsymbol { \\alpha }$ ，arginase-1，IL-10，TGF- $\\cdot \\beta$ ，and CD163 in these purified cells.The expression of CD163 in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells from MPE was significantly higher than that in $\\mathrm { C D 1 6 3 - C D 1 4 + }$ cells $\\langle P = 0 . 0 0 2 2$ Fig.2b).The expression of both iNOS and TNF- $\\alpha$ in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs (iNOS: $0 . 0 0 1 7 \\pm \\ : 0 . 0 0 4 1$ ； TNFα： $0 . 0 3 1 4 \\ \\pm \\ 0 . 0 2 5 9$ ）was significantly lower than that in $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ TAMs (iNOS: $0 . 0 5 3 5 ~ \\pm ~ 0 . 0 4 3 3$ $P = 0 . 0 4$ ; TNF- $\\mathfrak { a }$ ：： $0 . 1 3 1 9 \\pm 0 . 1 0 2 1$ ， $P = 0 . 0 4$ ; Fig. 2b). We also found significant differences in the relative expression of arginase-1,IL-1O,and TGF- $\\cdot \\beta$ in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ TAMs as compared to that in $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ TAMs (arginase-1: $0 . 0 3 1 5 \\pm 0 . 0 2 8 8$ VS. $0 . 0 0 4 3 \\pm 0 . 0 0 8 8$ ， $P = 0 . 0 3$ ； IL-10: $0 . 3 3 8 2 \\pm 0 . 2 3 0 0$ vs. $0 . 0 8 1 1 \\pm 0 . 1 0 3 3$ ， $P = 0 . 0 1$ ； TGF- $\\cdot \\beta$ $0 . 0 6 6 7 \\pm 0 . 0 5 4 1$ Vs. $0 . 0 0 9 2 \\pm 0 . 0 0 8 5$ $P = 0 . 0 4$ ; Fig. 2b). The results indicate that $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ TAMs (M2 type) from MPE show a suppressor or anti-inflammation phenotype,whereas pro-inflammation cytokines are mainly produced by $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ TAMs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Percentage of $\\mathbf { C D 1 6 3 + C D 1 4 } +$ TAMsiselevated in MPE ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry was used to determine percentages of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in pleural effusion and peripheral blood obtained from patients with or without cancer. The results showed that $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cell frequency of the MPE group was significantly higher than that of the NMPE group(MPE: $1 9 . 0 8 \\pm 1 3 . 9 6 \\%$ ; NMPE: $0 . 9 2 \\pm 0 . 9 4 \\%$ $P < 0 . 0 0 1$ , Fig. 3a-c). In contrast, CD163 expression was barely detectable in peripheral blood mononuclear cells obtained frompatients with or without cancer (Fig.3a, c). These data demonstrate that the percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs is increased in MPE. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ROC analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The high level of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in MPE suggests that $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs could serve as a diagnostic marker for MPE.To evaluate the feasibility of using $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells as a diagnostic marker for MPE, ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c820f6da222ab50d3e94b33f122a8c5d92832542384b2876d175de372a7ff23d.jpg",
+        "img_caption": [
+            "Fig.2 Expression of inflammatory cytokines in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ and $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ cells.a $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ and $\\mathrm { C D } 1 6 3 { \\scriptstyle - \\mathrm { C D } 1 4 + }$ cellswere purified from MPE using FACS.One representative analysisis shown.b Relative expression ofiNOS,TNF- $\\cdot \\alpha$ ，arginase-1, IL-10,and TGF- $\\cdot \\beta$ in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells and $\\mathrm { C D 1 6 3 - C D 1 4 + }$ cells derived from MPE, normalized by $[ 2 ^ { - \\Delta C _ { t } } ]$ Results presented as histogram. $^ { * } P < 0 . 0 5$ （20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ROC analysis was performed. The predictive ability of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs was expressed as AUC,with an AUCof0.941[95 $\\%$ confidence interval (CI), 0.895-0.987; $P < 0 . 0 0 1$ ; Fig. 3d]. The optimal cutoff points used were the peaks of the curve,where the sum of sensitivity and specificity is at maximum.Using a cutoff level of $3 . 6 5 ~ \\%$ a specificity of $100 \\%$ and a sensitivity of $86 \\%$ were achieved forusing $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages as a bio marker for MPE (Fig. 3e). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Blinded validation study ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the sensitivity and specificity of using $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages as a diagnostic marker for MPE,we performed a blinded validation study c The percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells in pleural effusion or peripheral blood from malignant or non-malignant patients.Results presented as histogram.dROC analysis of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cell frequency in MPE with an AUC of 0.941( $( P < 0 . 0 0 1 )$ ).eUsingacutoff level of $3 . 6 5 ~ \\%$ ， $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cell frequency-based MPE diagnosis for cancer patients had a sensitivity of $86 \\%$ and a specificity of $100 \\%$ （20 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e68e1730608be47ed2670f8af221802f4c1725fa8ec9ae9068d45627feb86904.jpg",
+        "img_caption": [
+            "Fig.3 $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cells in pleural effusion or peripheral blood from malignant or non-malignant patients.a $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells derived from pleural effusion and peripheral blood were detected in lung cancer patients and non-malignant patients by using flow cytometry.One representative analysis from MPE and NMPE cases is shown.b Comparison of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cell frequency in MPE and NMPE was performed.Results are presented as a scatter diagram. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "using pleural effusion samples collected from our hospital. The $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophage frequencyin MPE was significantly higher than that in NMPE (MPE: $1 1 . 3 5 7 \\pm 1 1 . 8 7 5 \\%$ NMPE: $0 . 3 5 2 \\pm 0 . 3 8 7 \\ \\%$ $P < 0 . 0 0 1$ · Fig. 4a,b).ROC analysis was performed,and AUC of 0.862 was obtained( $9 5 \\ \\%$ CI,0.721-1.000; $P < 0 . 0 0 1$ · Fig. 4c). At a specificity of $100 \\%$ ,a sensitivity of $78 . 9 \\%$ Was achieved under a cutoff level of $1 . 7 0 \\%$ (Fig. 4d). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { C D 1 6 3 + C D 1 4 } +$ TAMs as a potential diagnostic marker forMPE ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells was tested in a total of 14O pleural effusion samples,which included 69 MPE and 71 NMPE.Of the 140，100 were nonblinded pleural effusions,and 4O were blinded pleural effusions. These samples were analyzed together. We found that the $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cell frequency in MPE $( 1 6 . 9 5 9 \\pm 1 3 . 7 8 2 \\% )$ was significantly higher than that in NMPE $( 0 . 7 5 1 \\pm 0 . 8 5 1 \\%$ $P < 0 . 0 0 1$ ; Fig. 5a, b). High percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells was identified as a spe cific marker for MPE in patients with lung cancer to distinguish the subjects from NMPE,with an AUC of 0.916 中 $9 5 \\ \\%$ CI, 0.895-0.987; $P < 0 . 0 0 1$ ; Fig. 5c). Using a cutoff level of $3 . 6 5 ~ \\%$ ， $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cells had a sensitivity of $8 1 . 2 \\%$ and a specificity of $100 \\%$ in the diagnosis of cancer patients with MPE (Fig. 5d). These results indicate that $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages could be used as a highly sensitive and specific marker for MPE diagnosis in clinic. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccd0e4853ceb84423c4cbde0119c3569d88d7f074811af9050d4e22191ba26fa.jpg",
+        "img_caption": [
+            "Fig.4 Blinded validation study of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ macrophages in MPE.a Phenotype analysis of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ macrophages obtained from MPE and NMPE was performed.One representa tive analysis from MPE and NMPE cases is shown.b Comparison of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cell frequency in MPE and NMPE was per"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pleural effusions with high percentage of $\\mathbf { C D 1 6 3 + C D 1 4 } +$ cells are confirmed to be MPE bycytological analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, first-visit patients with pleural effusion were analyzed using both cytological examination and flow cytometry concurrently. Twenty pleural effusions,of 140 cases,were determined to be primarily negative for malignancy by using cytological analysis (Supplementary Figure formed.Results presented as a scatter diagram.c ROC analysis of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cell frequency was performed with an AUC of 0.862 $( P < 0 . 0 0 1 )$ .dUsingacutofflevel of $1 . 7 0 \\%$ ,aspecificity of $100 \\%$ and a sensitivity of $78 . 9 \\%$ wereachieved ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "S5A).However, high-level expression of CD163 in $\\mathrm { C D 1 4 + }$ cells was detected by flow cytometry in pleural effusion from 20 cases (Supplementary Figure S5B).Next, these patients were further tested by performing cytological examination fora second time.A third cytological analysis was performed if the second examination yielded negative results.A sample Was determined to be negative after three separate tests without the presence of malignant cells in the pleural effusion. The interval between consecutive cytological analyses was more than 3 days for patients with pleural effusion. Finally, malignant cell assessment for pleural effusion samples was conducted by performing cytological examination in our DepartmentofPathology(Supplementary Table S3, Supplementary Figure S5C).The data indicate that the sensitivity of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophage frequency assessment for diagnosis of MPE is better than that of cytological analysis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It has been well documented that various immune cells, including macrophages,infiltrate tumor tissue.With the emerging novel concept of macrophage differentiation into M1 and M2 phenotypes,the role of TAMs in cancer development and progression is gradually becoming clearer. Specifically,in human malignant tumors,M2 macrophages can act as“protumoral macrophages\"and become involved in angiogenesis,immunosuppression，and activation of tumor cells [21-24]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/79b23ba5eadf9c9a9784652a6e947b115cfaaa9442c9ea276f43b01f2cfaea67.jpg",
+        "img_caption": [
+            "Fig.5 $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cell frequencyinMPE andNMPE from total 14O cases.Histogram (a)and scatter diagram ${ \\bf ( b ) }$ of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cell frequency in MPE $( n = 6 9 )$ )andNMPE 1 ${ \\bf { \\dot { \\ell } } } _ { n } = 7 1 \\$ ).cROCanalysiswas performed with an AUCof 0.916 $( P < 0 . 0 0 1 ) ,$ . d Using a cutoff level of $3 . 6 5 \\%$ ,the percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ cells was used to predict MPE prevalence,and the assay had a sensitivity of $8 1 . 2 \\%$ and a specificity of $100 \\%$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CD163 is a surface receptor expressed on cells of monocytic lineage and has been shown to have sparse expression on peripheral blood monocytes,but is abundantly expressed on a majority of tumor-derived macrophages [25-27]. $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs are considered as“protumoral”macrophages.In lung tumor sections,the number of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells is higher in malignant lesions than in benign lesions and correlates with histological grading of malignancy [28,29]. Behnes et al. [30,31] found that nearly all macrophages in papillary renal cell carcinoma (RCC) type II expressed CD163,whereas less than $30 \\%$ of macrophages expressed CD163 in type I papillary RCC.This may help explain the poor prognosis of papillaryRCC type II as compared to that of type I.However, Komohara et al. [21] showed that $\\mathrm { C D } 1 6 3 +$ cells were in fact ${ \\mathrm { C D } } 6 8 +$ TAMs by performing double immunostaining and also showed that CD68 is not a specific marker for M2 macrophages.Helm et al.[32]also confirmed these findings.Consistent with these results,we showed that neither CD68 nor CD14 is a specific marker for M2 macrophages (Supplementary Figure S1).Furthermore,high levels of anti-inflammatory cytokines and low levels of pro-inflam matory cytokines in $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells indicate that $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells are M2 macrophages. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Accurate and early diagnosis of MPE is important and critical for immediate intervention and better prognosis [33,34]. Current methods of MPE diagnosis include imaging,cytological analysis,biomarker detection,needle pleural biopsy，and thoracoscopy[35，36].However, the false-negative rate is substantially high for these MPE diagnosis methods [37,38].Even though pleural effusion plays a crucial role in the spread of lung cancer, the contribution of cellular components in MPE is poorly understood. The role of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages in the diagnosis of MPE is poorly characterized [39]. Therefore,in this study,we assessed the sensitivity and specificity of using $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages for diagnosis of MPE. The pleural effusions used in this study were derived from lung cancer patients.MPE induced by other types of cancer will be evaluated in ourfuture studies. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Previously,Mundt et al. [4O] found that soluble syndecan-1 was a promising candidate biomarker with a sensitivity of $74 . 9 \\ \\%$ and a specificity of $6 1 . 1 \\ \\%$ for the cytopathological diagnosisandprognosticationofMPE, using enzyme-linked immunosorbent assays. Xu et al. [41] reported that measurement of IL-17 levels by using enzyme-linked immunosorbent assays might be a useful diagnostic test for MPE with a sensitivity of $7 9 . 5 ~ \\%$ and a specificity of $91 . 1 \\ \\%$ .Our study showed that flow cytometry-based detection of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cell frequency in pleural effusion samples had a sensitivity of $8 1 . 2 \\ \\%$ and a specificity of $100 \\%$ .Thus,our assay has a higher sensitivity and specificity，and $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ TAMs may serve as a reliable marker for diagnosis of MPE. The correlation of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAM frequency with soluble syndecan-1 or IL-17 for MPE diagnosis Was not assessed in this study. Further investigations are required to determine whether assessment of a combination of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs and soluble syndecan-1 or IL-17 for MPE diagnosis may have higher assay sensitivity, specificity,and reliability. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study,we found that 2O patients that were primarily diagnosed with NMPE showed high frequency of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells in pleural effusion.Notably, these 20 patients were later diagnosed with MPE after performing second or third tumor cytological analysis.In support of using $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cells as marker for MPE diagnosis,there have beenanumberofclinical cases that although had undetectable tumor cells,showed prevalence of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages in pleural effusion,and were then diagnosed with lung cancer through bronchoscopy orlungbiopsyassessment.Moreover, MPE patients presented high percentage of MPE-derived $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophagesin thisstudy. Taken together,our data indicate that the diagnosis of MPE by performing tumor cytological analysis has low sensitivity and that the sensitivity of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ cell detection appears to be superior to tumor cytological analysis for definitive diagnosis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, there were six MPE cases which the per centage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ TAMs in MPE was lower than the cutoff value of $3 . 6 5 ~ \\%$ . Furthermore,we analyzed the relationship between $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs percentage and patient survival. The results showed that high percentage of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs in MPE was closely correlated with poor progression-free survival rates (unpublished data).In the follow-up,all six cases with low level of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 +$ TAMsexhibited higher survival rates and better prognosis.Therefore,we propose that $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs could serve as a potential prognostic biomarker for MPE. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We also found that the percentage of $\\mathrm { C D } 3 +$ cells in MPE was higher than that in NMPE.Gong et al. showed that Tc17 cells may have a protective role in patients with MPE [42]. The higher frequency of Tc17 cells may serve as a biomarker for the prognosis of patients with MPE.We speculate that the higher numbers of $\\mathrm { C D } 3 +$ cells may be attributed to increased Tc17 infiltration.However,we did not focus on $\\mathrm { C D } 3 +$ cells in this study,and the relationship between Tc17cellsand $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMsin MPEis unclear.We plan to further dissect this potential relationship in our future studies. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Recently， increasing research interest has developed for studying other myeloid populations in peripheral blood derived from MPE patients.Gonda et al.[43] reported that myeloid-derived suppressor cell (MDSC) numbers in malignant effusions altered with the number of MDSCs in peripheral blood and also changed in patients with clinical responses.Romano et al.[44] demonstrated that circulating MDSC numbers correlated with clinical outcome of Hodgkin lymphoma patients treated up front with a risk-adapted strategy.In this study，we have not focused on this cell population； however,it appears that MDSC numbers might provide valuable diagnostic information. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ourresults indicate that MPE is indicative of an immunosuppressive state.Thus,treatments that involve“re-education”of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ TAMs could be considered for palliative management of malignant effusion.Animal studies have shown that specific inhibition of ${ \\mathrm { N F } } { \\mathrm { - } } { \\mathrm { \\ltimes B } }$ activity in TAMs was able to reverse their tumor-polarized phenotype and tumoricidal activity through IL-12-dependent NK cell recruitment [45]. Taken together, TAMs may be apromising therapeutic target for cancer treatment,and $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages might serve as a molecular target for treating MPE patients. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Taken together,a comparative analysis of phenotype and inflammatory gene expression of $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages obtained from MPE and NMPE can beused for distinguishing MPE from NMPE.Thus, $\\mathrm { C D } 1 6 3 { + } \\mathrm { C D } 1 4 { + }$ macrophages in pleural effusion is likely a promising immune diagnostic marker for lung cancer-associated MPE. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgmentsThis study was supported by grants from the National Natural Science Foundation of China (Grant Nos.81171986, 81271815,812111102),Research grant from the Ministry of Public Health(Grant No.20110110oO1),the Basic and Advanced TechnologyResearch Foundation from Science and Technology Department of Henan Province (Grant Nos.112300410153，122300410155), Funds for Creative Research Team ofHenan Province,Creative Research TeamofHigherEducation ofHenanProvince,and the Innovation Teamof The FirstAffiliated Hospital of Zhengzhou University. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest All authors declare that they have no conflict ofinterest. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1．Heffner JE,Klein JS(2OO8)Recent advances in the diagnosis and management of malignant pleural effusions.Mayo Clin Proc 83:235-250. doi:10.4065/83.2.235   \n2．Stathopoulos GT(2O11) Translational advances in pleural malignancies.Respirology 16:53-63.doi:10.1111/j.1440-1843.2010.01890.x   \n3.Mishra EK，Davies RJ (2010) Advances in_the investigation and treatment of pleural effusions.Expert Rev Respir Med 4:123-133   \n4．Morgensztern D,Waqar S,Subramanian J, Trinkaus K,Govindan R (2012） Prognostic impact of malignant pleural effusion at presentation in patients with metastatic non-smallcell lung cancer.J Thorac Oncol 7:1485-1489.doi:10.1097/ JTO.0b013e318267223a   \n5．Salah S,Tanvetyanon T,Abbasi S (2O12) Metastatectomy for extra-cranial extra-adrenal non-small cell lung cancer solitary metastases: systematic review and analysis of reported cases. Lung Cancer 75:9-14. doi:10.1016/j.lungcan.2011.07.014   \n6．Rakha EA，Patil S,Abdulla K,Abdulkader M,Chaudry Z, Soomro IN(2O10） The sensitivity of cytologic evaluation of pleural fluid in the diagnosis of malignant mesothelioma.Diagn Cytopathol 38:874-879. doi:10.1002/dc.21303   \n7．Rodriguez-Panadero F,Romero-Romero B(2O13) Current and future options for the diagnosis of malignant pleural effusion. Expert Opin Med Diagn 7:275-287. doi:10.1517/17530059.201 3.786038   \n8. Basak SK, Veena MS,Oh S, Huang G, Srivatsan E, Huang M, Sharma S,Batra RK (2OO9) The malignant pleural efusion as a model to investigate intratumoral heterogeneity in lung cancer. PLoS ONE 4:e5884. doi:10.1371/journal.pone.0005884   \n9.Stathopoulos GT, Kalomenidis I(2012) Malignant pleural effusion: tumor-host interactions unleashed.Am JRespir Crit Care Med 186:487-492.doi:10.1164/rccm.201203-0465PP   \n10．Ruffell B,Affara NI,Coussens LM（2012）Differential macrophage programming in the tumor microenvironment. Trends Immunol 33:119-126. doi:10.1016/j.it.2011.12.001   \n11．Coffelt SB,Hughes R,Lewis CE (2009) Tumor-associated macrophages:effectors of angiogenesis and tumor progression.Biochim Biophys Acta 1796:11-18. doi:10.1016/j.bbcan.2009.02.004   \n12.Rogers TL，Holen I (2011） Tumour macrophages as potentialtargets of bisphosphonates.J Transl Med 9:177. doi:10.1186/1479-5876-9-177   \n13．Edin S,Wikberg ML,Dahlin AM,Rutegard J, Oberg A, Oldenborg PA,Palmqvist R (2012) The distribution of macrophages with a M1 or M2 phenotype in relation to prognosis and the molecular characteristics of colorectal cancer. PLoS ONE 7:e47045. doi:10.1371/journal.pone.0047045   \n14.Chen C,Zhu YB, Shen Y,Zhu YH, Zhang XG,Huang JA (2012) Increase of circulating B7-H4-expressing ${ \\mathrm { C D } } 6 8 +$ macrophage correlated with clinical stage of lung carcinomas.J Immunother 35:354-358. doi:10.1097/CJI.0b013e31824212c4   \n15．Komohara Y,Niino D, Saito Y, Ohnishi K,Horlad H,Ohshima K,Takeya M(2013) Clinical significance of $\\mathrm { C D } 1 6 3 ( + )$ tumorassociated macrophages in patients with adult T-cell leukemia/ lymphoma. Cancer Sci 104:945-951. doi:10.1111/cas.12167   \n16.Reinartz S, Schumann T, Finkernagel F, Wortmann A, Jansen JM,Meissner W,Krause M, Schworer AM,Wagner U,MullerBrusselbach S,Muller R(2014)Mixed-polarization phenotype of ascites-associated macrophages in human ovarian carcinoma: correlation of CD163 expression，cytokine levels and early relapse.Int JCancer 134:32-42. doi:10.1002/ijc.28335   \n17．de Vos van Steenwijk PJ，Ramwadhdoebe TH,Goedemans R,Doorduijn EM,van Ham JJ,Gorter A,van Hall T,Kuijjer ML,van Poelgeest MI,van der Burg SH, Jordanova ES (2013) Tumor-infiltrating CD14-positive myeloid cells and CD8-positive T-cells prolong survival in patients with cervical carcinoma. Int J Cancer133:2884-2894. doi:10.1002/ijc.28309   \n18．Barros MH,Hassan R,Niedobitek G (2O12) Tumor-associated macrophages in pediatric classical Hodgkin lymphoma: association with Epstein-Barr virus,lymphocyte subsets,and prognostic impact. Clin Cancer Res 18:3762-3771. doi:10.1158/1078- N432 crr-12-0120   \n19．Obermajer N,Wong JL,Edwards RP, Chen K, Scott M, Khader S,Kolls JK,Odunsi K,Billiar TR,Kalinski P (2013) Induction and stability of human Th17 cells require endogenous NOS2 and cGMP-dependent NO signaling.J Exp Med 210:1433-1445. doi:10.1084/jem.20121277   \n20.Pass HI, Levin SM, Harbut MR,Melamed J, Chiriboga L,Donington J, Huflejt M, Carbone M, Chia D,Goodglick L,Goodman GE,Thornquist MD,Liu G,de Perrot M, Tsao MS,Goparaju C (2012) Fibulin-3 as a blood and effusion biomarker for pleural mesothelioma.N Engl J Med 367:1417-1427.doi:10.1056/ NEJMoa1115050   \n21．Komohara Y, Jinushi M, Takeya M (2014) Clinical significance of macrophage heterogeneity in human malignant tumors. Cancer Sci 105:1-8.doi:10.1111/cas.12314   \n22．Shirabe K,Mano Y,Muto J,Matono R,Motomura T, Toshima T, Takeishi K, Uchiyama H, Yoshizumi T, Taketomi A,Mrita M,Tsujitani S,SakaguchiY,Maehara Y(2O12) Role of tumorassociated macrophages in the progression of hepatocellular carcinoma. Surg Today 42:1-7. doi:10.1007/s00595-011-0058-8   \n23．Pettersen JS,Fuentes-Duculan J, Suarez-Farinas M, Pierson KC, Pits-Kiefer A, Fan L,Belkin DA,Wang CQ, Bhuvanendran S, Johnson-Huang LM, Bluth MJ, Krueger JG,Lowes MA,Carucci JA (2011) Tumor-associated macrophages in the cutaneous SCC microenvironment are heterogeneously activated.J Invest Dermatol 131:1322-1330. doi:10.103/jid.2011.9   \n24.Capece D,Fischietti M,Verzella D,Gaggiano A,Cicciarelli G, Tessitore A, Zazzeroni F,Alesse E (2013） The inflammatory microenvironment in hepatocellular carcinoma:a pivotal role for tumor-associated macrophages.Biomed Res Int 2013:187204. doi:10.1155/2013/187204   \n25．Walter RB,Bachli EB, Schaer DJ,Ruegg R, Schoedon G (2003) Expression of the hemoglobin scavenger receptor (CD163/ HbSR）as immunophenotypic marker of monocytic lineage in acute myeloid leukemia. Blood 101:3755-3756.doi:10.1182/ blood-2002-11-3414   \n26.Garcia C,Gardner D,Reichard KK (2008) CD163:a specific immunohistochemical marker for acute myeloid leukemia with monocytic differentiation.Appl Immunohistochem Mol Morphol 16:417-421. doi:10.1097/PA1.0b013e31815db477   \n27.Lau SK, Chu PG, Weiss LM (2004) CD163: a specific marker of macrophages in parafin-embedded tissue samples.Am J Clin Pathol 122:794-801. doi:10.1309/qhd6-yfn8-1kqx-uuh6   \n28． Chung FT,Lee KY,Wang CW,Heh CC,Chan YF,Chen HW, Kuo CH,Feng PH,Lin TY,Wang CH, Chou CL,Chen HC, Lin SM, Kuo HP (2012) Tumor-associated macrophages correlate with response to epidermal growth factor receptor-tyrosine kinase inhibitors in advanced non-small cell lung cancer. Int J Cancer 131:E227-E235.doi:10.1002/ijc.27403   \n29.Ma J,Liu L,Che G, Yu N,Dai F, You Z (201O) The M1 form of tumor-associated macrophages in non-small cell lung cancer is positively associated with survival time.BMC Cancer 10:112. doi:10.1186/1471-2407-10-112   \n30．Behnes CL,Bremmer F,Hemmerlein B,Strauss A,Strobel P, Radzun HJ (2O14) Tumor-associated macrophages are involved in tumor progression in papillary renal cell carcinoma. Virchows Arch 464:191-196.doi:10.1007/s00428-013-1523-0   \n31.Santoni M,Massari F,Amantini C,Nabissi M,Maines F,BurattiniL,BerardiR, Santoni G,Montironi R,Tortora G,Cascinu S (2013) Emerging role of tumor-associated macrophages as therapeutic targets in patients with metastatic renal cell carcinoma. Cancer Immunol Immunother 62:1757-1768.doi:10.1007/ s00262-013-1487-6   \n32．Helm O,Held-Feindt J,Grage-Griebenow E,Reiling N, Ungefroren H,Vogel I,Kruger U,Becker T,Ebsen M,Rocken C, Kabelitz D, Schafer H, Sebens S (2O14) Tumor-associated macrophages exhibit pro- and anti-inflammatorv properties bv which theyimpact on pancreatic tumorigenesis.IntJ Cancer 135:843- 861. doi:10.1002/ijc.28736   \n33．Lim MH,Garrettc J,Mowlem L,Yap E(2013) Diagnosing malignant pleural effusions:how do we compare?N Z Med J 126:42-48   \n34.Gorgun D, Secik F,Midilli K,Akkaya V, Yildiz P (2013) Diagnostic and prognostic significance of survivin levels in malignant pleural effusion.Respir Med 107:1260-1265．doi:10.1016/j. rmed.2013.04.011   \n35．NeumannV,Loseke S,NowakD,HerthFJ,TannapfelA(2013) Malignant pleural mesothelioma:incidence,etiology,diagnosis, treatment,and occupational health.Dtsch Arztebl Int 11O:319- 326. doi:10.3238/arztebl.2013.0319   \n36．RieuxC,Boisdron-CelleM,MorelA,FeyL,UrbanT,Hureaux J(2013）Biological diagnosis of resistance to erlotinib in amalignant pleural effusion. Rev Mal Respir 3O:572-575. doi:10.1016/j.rmr.2013.02.010   \n37．Johnston WW(1985) The malignant pleural effusion.A review of cytopathologic diagnoses of 584 specimens from 472 consecutive patients.Cancer 56:905-909   \n38.SriramKB,RelanV,ClarkeBE,DuhigEE,WindsorMN,Matar KS,Naidoo R,Passmore L,McCaul E,Courtney D,Yang IA, Bowman RV,Fong KM (2O12）Pleural fluid cell-free DNA integrityindex to identifycytologicallynegativemalignant pleural effusions including mesotheliomas.BMC Cancer 12:428. doi:10.1186/1471-2407-12-428   \n39．Kaczmarek M,SikoraJ(2O12) Macrophages in malignant pleural effusions -alternatively activated tumor associated macrophages.Contemp Oncol (Pozn）16:279-284．doi:10.5114/ wo.2012.30054   \n40.Mundt F,Heidari-Hamedani G,Nilsonne G,Metintas M, Hjerpe A,Dobra K(2O14) Diagnostic and prognostic value of soluble syndecan-1 in pleural malignancies.Biomed Res Int 2014:419853. doi:10.1155/2014/419853   \n41．Xu C,YuL,Zhan P,ZhangY(2O14) Elevated pleural effusion IL-17 is a diagnostic marker and outcome predictor in lung cancerpatients.EurJMedRes 19:23.doi:10.1186/2047-783x-19-23   \n42. Gong Y,Chen SX,Gao BA,Yao RC,GuanL (2014) Cell origins and significance of IL-17 in malignant pleural effusion. Clin Transl Oncol 16:807-813. doi:10.1007/s12094-013-1152-8   \n43．GondaK,Shibata M,Shimura T,Abe N,Suzuki S,Yasuda M, NakamuraI,Ohtake T,OhkiS,Watanabe T,FujimoriK,Ohto H,Takenoshita S(2O12) Changes in myeloid-derived suppressor cells in malignant effusions of cancer patients following cancer chemotherapy.Gan To Kagaku Ryoho 39:2088-2091   \n44．Romano A，Parrinello NL，Vetro C，Forte S,Chiarenza A, FigueraA,Motta G,Palumbo GA,Ippolito M,ConsoliU,Raimondo FD(2015) Circulating myeloid-derived suppressor cells correlate with clinical outcome in Hodgkin lymphoma patients treated up-front with a risk-adapted strategy.Br JHaematol 168:689-700.doi:10.1111/bjh.13198   \n45．Hagemann T,Lawrence T,McNeish I, Charles KA,Kulbe H, Thompson RG,Robinson SC,Balkwill FR(2Oo8)“Re-educating”tumor-associated macrophages by targeting NF-kappaB.J Exp Med 205:1261-1268. doi:10.1084/jem.20080108 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

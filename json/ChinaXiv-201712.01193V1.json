@@ -1,0 +1,288 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "癌源性免疫球蛋白G全分子相互作用蛋白质的质谱鉴定及其功能分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王居平}，陈韩英²，彭慧'  \n1广东省感染病与分子免疫病理重点实验室/汕头大学医学院病理系,广东 汕头 515041;石河子大学药学院中  \n药系，新疆 石河子 832002",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 鉴定与癌源性免疫球蛋白G(IgG)全分子相互作用的蛋白质，为研究其生物功能提供重要的线索。方法 分别用兔抗人IgG全分子抗体和兔IgG在宫颈癌细胞系HeLa中进行免疫共沉淀，将得到的免疫复合物经电泳分离后进行银染。经比较分析后3条差异条带切下来做质谱鉴定，质谱数据经Swiss-Prot数据库分析。最后对所得的蛋白质进行筛选和功能注释分析。结果最终得到6个可能与癌源性IgG全分子相互作用的蛋白质。结论 通过免疫共沉淀结合质谱分析的方法最终得到了6个可能与癌源性IgG全分子相互作用的蛋白质，为其功能研究提供了重要线索。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：癌；免疫球蛋白G；质谱分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Functional analysis of cancer-derived immunoglobulin G whole molecule-interacting proteins identified by LC-MS/MS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Juping', CHENHanying²,PENG Hui   \n1ProvincialKeyoatoffectiosseselaroatooeartetfatologtoeiydicl Colegeta;epantfdilieicinolacyieity China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To identifycancer-derived immunoglobulin G (IgG) whole molecule-interacting proteins to provide important clues for studying IgG biological functions.Methods HeLa cellysate was immunoprecipitated withrabit antihuman IgG whole molecule antibody and normal rabbit IgG.The immunocomplex underwent sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE)and was detected with silver staining.Three prominently enhanced bands were subjected toproteinidentication withliquidchromatography-tandemmassspectrometry (LC-MS/MS)andtheMS data wereanalyzed with Swis-Prot database.Cancer-derived IgG wholemolecule-interacting proteins were screenedand functionall annotated.Resultsand Conclusion We identified 6potential cancer-derived IgG whole molecule-interacting proteins with co-immunoprecipitation combined withLC-MS/MS,which provides valuable clues for studying thefunctionof cancer-derived IgG. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: cancer; immunoglobulin ${ \\bf G } ;$ liquid chromatography-tandem mass spectrometr ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经典的理论认为仅仅B淋巴细胞和浆细胞能产生Ig,但这种理论目前正在受到挑战。大量研究已经证实许多非淋巴细胞系能够产生Ig,这些细胞包括癌细胞如乳腺癌[1-3]结肠癌[45]前列腺癌、乳头状甲状腺癌[]、软组织瘤[8]、人脐带内皮细胞9] 睾丸精原细胞[10 附睾上皮细胞[10]、人和鼠的神经细胞[11-12]及眼睛内的细胞[13]等。据报道人癌细胞分泌的IgG能够促进肿瘤细胞的生长和存活[1。此外,研究人员发现各种肿瘤产生的IgG与细胞的增殖marker以及肿瘤的分级密切相关[1.3.5]。然而，有关癌源性IgG功能方面的报道则相对较少。本研究旨在鉴定癌细胞中与IgG的相互作用的蛋白质并对其功能进行分析以期对癌源性IgG功能研究提供方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人宫颈癌细胞系HeLa由汕头大学医学院病理系分子病理实验室提供；DMEM培养基购自美国Gibco公司；胎牛血清购自上海微科生化试剂有限公司；PBS粉剂和兔IgG购自北京中杉金桥生物技术有限公司；$0 . 2 5 \\%$ 胰酶购自美国Gibco公司；青链霉素购自上海碧云天生物技术有限公司； $1 0 { \\times } \\mathrm { P I P A }$ 裂解缓冲液购自美国Upstate公司；兔抗人IgG全分子抗体购自美国Sigma-Aldrich公司;IRDye800CW羊抗鼠二抗购自美国LI-COR公司；Argrose ProteinG购自美国 Santa",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cruze公司；银染试剂包括乙醇、乙酸、无水乙酸钠、硫代硫酸钠、硝酸银、碳酸钠、甲醛、 $\\mathrm { E D T A N a } 2 . 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ 购自上海生工生物工程(上海)股份有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人宫颈癌细胞系HeLa贴壁生长于含 $10 \\%$ 胎牛血清 $. 0 . 0 3 \\%$ L-谷氨酰胺及青、链霉素(各为 $1 0 0 0 0 0 \\mathrm { U / L } )$ 4号的DMEM高糖的培养液中，于 $3 7 \\ \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 湿化培养箱中培养，隔天传代1次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3免疫共沉淀 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将HeLa细胞培养基去除后，用冷的PBS洗2次。在每个孔中加 $5 0 0 ~ \\mu \\mu \\mu$ 冷的 $1 \\times$ RIPA裂解液，用细胞刮刀将以上细胞转移到 $1 . 5 ~ \\mathrm { m l }$ 管中。将以上细胞裂解液在垂直翻转摇床上， $4 \\mathrm { { ^ { \\circ } C } }$ 旋转1h,使细胞充分裂解。 $4 \\%$ ，$1 4 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $2 0 ~ \\mathrm { m i n }$ ，将上清转移到一个新的 $1 . 5 ~ \\mathrm { m l }$ 管中。在每管中加入 ${ 5 \\mu \\mathrm { l } }$ （即 $1 \\mu \\ g$ 兔抗人IgG全分子抗体或相同质量的兔 $\\mathrm { I g G } , 4 ^ { \\circ } \\mathrm { C }$ 旋转过夜。第2天在每管细胞裂解液中加入 $2 0 ~ \\mu \\mathrm { l }$ Argrose protein $\\mathrm { { G } , 4 \\mathrm { { } ^ { \\circ } C } }$ 摇床旋转1h或过夜。 $4 \\mathrm { \\ : ^ { \\circ } C } { \\ : } , 3 0 0 0 \\mathrm { \\ : r / m i n }$ 离心 $1 \\mathrm { m i n }$ ，去除上清留下沉淀。用冷的 $1 \\times$ RIPA裂解液洗上面的沉淀3次，最后一次吸干上清,加入 $2 0 \\mu \\nu$ loadingbuffer $1 0 0 \\ \\mathrm { { ^ \\circ C } }$ 煮 $5 \\mathrm { m i n }$ 以上蛋白样品可直接上样做免疫印迹，也可以冻于 $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 冰箱以后再上样。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4免疫印迹 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蛋白样品加入相应体积 $2 \\times$ loadingbuffer后， $1 0 0 \\mathrm { { ^ { \\circ } C } }$ 煮 $5 \\mathrm { m i n }$ ，经SDSPAGE胶电泳分离后，转移到硝酸纤维素膜上。膜用 $5 \\%$ BSA封闭后 $2 \\mathrm { h }$ 后，鼠抗人IgG(y链特异)抗体 $( 1 : 5 0 0 ) 4 ~ \\mathrm { { ^ { \\circ } C } }$ 旋转孵育过夜，第2天早上室温孵育IRDye800CW羊抗鼠二抗 $( 1 : 1 5 0 0 0 ) 1 \\mathrm { ~ h ~ }$ ,TBST洗膜 $1 0 \\mathrm { m i n } \\times 3$ 次,Odyssey远红外扫描仪扫描，分析结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5银染 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "银染步骤：(1)固定： $4 0 \\%$ 乙醇、 $10 \\%$ $\\mathbf { C H _ { 3 } C O O H }$ ，固 定 $3 0 ~ \\mathrm { m i n }$ ;(2)敏化： $6 . 8 \\% \\mathrm { C H _ { 3 } C O O N a . 0 . 2 \\% N a _ { 2 } S _ { 2 } O _ { 3 } } ,$ （204号 $30 \\%$ 乙醇, $3 0 \\mathrm { m i n }$ ;(3)漂洗：去离子水漂洗 $5 \\mathrm { m i n } , 3$ 次； (4)银染： $0 . 2 5 \\% \\mathrm { A g N O _ { 3 } }$ $2 0 \\mathrm { m i n }$ ;(5)漂洗：去离子水漂洗 $1 \\mathrm { m i n } , 2$ 次；(6)显色: $2 . 5 \\% \\mathrm { N a _ { 2 } C O _ { 3 } } , 0 . 0 1 4 8 \\%$ 甲醛显色， 至蛋白斑点清晰可见;(7)终止： $1 . 4 6 \\%$ EDTA, $1 0 ~ \\mathrm { { m i n } }$ (8)漂洗：去离子水漂洗 $5 \\mathrm { m i n } , 3$ 次。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6质谱鉴定 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过免疫共沉淀后获得的对照组和实验组蛋白样品经 $10 \\%$ SDSPAGE胶分离后进行银染,将差异的条带切割后送香港浸会大学进行质谱鉴定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7蛋白质功能注释",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将质谱鉴定的蛋白质用软件theDatabase forAnnotation，Visualization and Integrated Discovery(DAVID,http://david.abcc.ncifcrf.gov/)进行功能注释和分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1免疫共沉淀复合物经电泳分离后银染 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分别用兔抗人IgG全分子抗体和兔IgG在HeLa细胞中进行免疫共沉淀，得到的免疫复合物经 $10 \\%$ SDSPAGE胶分离后进行银染，从图中可以清晰的看到3条差异条带,小心切下条带后送香港浸会大学进行质谱鉴定（图1)。质谱数据经Swiss-Prot数据库分析和筛选后，最终得到了6个可能与癌源性IgG全分子相互作用的蛋白质(表1)。用以上同样的免疫复合物样品做免疫印迹，检测到用抗体沉淀得到的癌源性IgG全分子重链(y链）（图1B)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f1ab57c7fa3273dd47bf4d95dbbeef59783a05b144623af9e6adfd4f1110079.jpg",
+        "img_caption": [
+            "图1质谱鉴定与癌源性IgG全分子相互作用的蛋白质",
+            "Fig.1 Identification of cancer-derived IgG whole molecule-associatedproteins. $A$ ：Schematic illustration ofthe strategyused toscreen cancer-derived IgG whole molecule-associated proteins;B:Proteins immunoprecipitated with rabbit anti-human IgG whole molecule antibody or normal rabbit IgG from the total lysates of HeLa cells were fractionated with $1 0 \\%$ SDS-PAGE gel.The gels were either visualized with silver staining (upper panel) or blotted with anti-IgG (Y chain specific) antibodies(lower panel).The differential bands (marked a-c) were subjected to trypsin digestion and LC-MS/MS analysis.The identified proteins were listed along with the corresponding bands. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/74714e35f914f95f454d81ef5ac2436ab8a9581e388ee03de8f141c77e236618.jpg",
+        "table_caption": [
+            "表1质谱鉴定的潜在与癌源性IgG全分子相互作用蛋白质列表).1List of potential cancer-derived $\\mathrm { I g G }$ whole molecule-interacting proteins identified by LC-MS/MS analy!"
+        ],
+        "table_footnote": [
+            "\\*: Significance threshold of enumerated proteins was set at $P { < } 0 . 0 5$ .#: a-c correspond to those in Fig.1B. "
+        ],
+        "table_body": "<html><body><table><tr><td>Accession no.</td><td>Protein name</td><td>Official symbol</td><td>Mascot score*</td><td>Queries matched</td><td>In-gel digestion*</td></tr><tr><td>gil47678583</td><td>Myosin, heavy chain 9</td><td>MYH9</td><td>1183</td><td>52</td><td>a</td></tr><tr><td>gil40737482</td><td>Complement component 4A</td><td>C4A</td><td>66</td><td>1</td><td>b</td></tr><tr><td>gil40737329</td><td>Complement component 4B</td><td>C4B</td><td>66</td><td>1</td><td></td></tr><tr><td>gi|40226145</td><td>Acyl-CoA synthetase long-chain family member 3</td><td>ACSL3</td><td>39</td><td>1</td><td></td></tr><tr><td>gi|4506609</td><td>Ribosomal protein L19</td><td>RPL19</td><td>99</td><td>3</td><td>c</td></tr><tr><td>gil46575618</td><td>Dermcidin</td><td>DCD</td><td>56</td><td>2</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2癌源性IgG全分子相互作用蛋白质功能注释",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用DAVID软件对质谱所鉴定的蛋白质进行功能注释。结果表明，这些蛋白质涉及细胞形态发生、细胞迁移、细胞周期、免疫反应、脂肪酸生物合成、蛋白质生物合成、细胞抗菌作用(表2)。对分子功能分析表明，MYH9是马达蛋白如肌浆球蛋白，C4A和C4B是血型抗原，ACSL3具有乙酰基辅酶A合成酶活性，RPL19是核糖核蛋白，DCD具有抗菌功能(表3)。由于免疫共沉淀在细胞内进行，因此得到的IgG可能相互作用的蛋白质都为胞内蛋白，有的位于胞浆(以上6个蛋白)，有的位于胞核(MYH9)，其中C4A、C4B和DCD也可分泌到胞外行使功能。DAVID注释的结果表明,癌源性IgG全分子相互作用蛋白质处在细胞多个部位，功能多样，提示IgG可能在细胞不同位置行使不同功能",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4509ca6cc0be808a1b06fcc24304cec3e0e947b03f70fe9c6487df76a50ca32.jpg",
+        "table_caption": [
+            "表2癌源性IgG全分子相互作用蛋白质参与机体生物过程列表 Tab.2 Biological process annotations of the 6 putative cancer-derived IgG whole molecule-binding proteins by DAVID "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Candidate proteins</td><td>Biological process</td></tr><tr><td>MYH9</td><td>Cell morphogenesis,Cell migration, Cell cycle process</td></tr><tr><td>C4A, C4B</td><td>Immunoglobulin mediated immune response</td></tr><tr><td>ACSL3</td><td>Fatty acid biosynthetic process</td></tr><tr><td>RPL19</td><td>Protein biosynthesis</td></tr><tr><td>DCD</td><td>Antimicrobial(virus,bacterium,fungus)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4e98ea5e83ebca288843335c000a6ab2b3cb71a0a8e953fd6d6d5574194bc24.jpg",
+        "table_caption": [
+            "表3癌源性IgG全分子相互作用蛋白质分子功能注释 Tab.3 Molecular function annotations of the 6 putative IgG whole molecule-binding proteins by DAVID "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Candidate proteins</td><td>Molecular function</td></tr><tr><td>MYH9</td><td>Motor protein,Myosin</td></tr><tr><td>C4A, C4B</td><td>Blood group antigen</td></tr><tr><td>ACSL3</td><td>Catalytic activity</td></tr><tr><td>RPL19</td><td>Ribonucleoprotein, Ribosomal protein</td></tr><tr><td>DCD</td><td>Antibiotic;Antimicrobial;Fungicide</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作用机制提供了线索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蛋白质是有机体的主要组成原料，是细胞功能的主要执行者，而蛋白质一蛋白质相互作用在生命活动中扮演着重要的角色。本研究用免疫共沉淀结合质谱的方法筛选了6个可能与癌源性IgG全分子相互作用蛋白质，并对这些蛋白质进行功能分析，为阐明癌源性IgG",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究蛋白质间相互作用的方法有很多种，如酵母双杂交系统、GSTpull-down、FRET等。但是酵母双杂交系统并不能反映癌源性IgG全分子在其靶细胞内的真实情况，而只是提示了癌源性IgG全分子和其它蛋白质在结构上相互作用的可能性，假阳性率较高。GSTpull-down为体外系统。FRET虽在细胞内进行,但所研究的两种蛋白均处于高表达状态，也不能代表体内的真实情况。因此，本研究选取了免疫共沉淀技术，在宫颈癌细胞系HeLa中，以较柔和的方式裂解后，直接使用兔抗人IgG全分子抗体下拉细胞内源性IgG全分子及其相互作用蛋白质。这种方法较真实的反映了IgG在细胞内的情况。用免疫共沉淀的方法筛选相互作用蛋白质对抗体的质量和抗原蛋白的含量要求较高，较高的抗体特异性和抗原蛋白浓度能够提高信噪比，是保证筛选顺利进行的条件。免疫共沉淀产物经电泳分离、银染后，试验组显示出不同于对照组的条带，将差异条带切下并进行质谱鉴定。由于下拉产物只用一维电泳分离，一条条带中应含有多种蛋白,因此,本研究选择了高压液相色谱与质谱联用的技术，将蛋白酶解后的肽段混合物先以高压液相色谱分离，再以质谱鉴定。因质谱鉴定结果包含了大量冗余信息，本研究对结果进行了整理。在整理分析过程中，有3种蛋白被去除：(1)角蛋白；(2)在对照组和实验组中都存在的蛋白质；(3)分子量与胶上切副示币怕川力灰里的虫口灰",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在6个与癌源性IgG全分子可能相互作用的蛋白质中，非肌型肌球蛋白重链(MYH9)属于肌动蛋白骨架系统,参与细胞的一些重要功能,包括胞质分裂、细胞运动(如迁移、侵袭等)和维持细胞形态,可直接介导细胞突触的形成14。最新研究表明,癌源性IgG参与肿瘤细胞侵袭。Niu等[15]用抗体封闭细胞或用IGHG1 siRNA下调内源性IgG表达后,直肠癌细胞侵袭明显受到抑制,提示IgG能促进结直肠癌细胞的侵袭。癌源性IgG全分子与MYH9的相互作用表明其可能通过调控细胞骨架系统而促进肿瘤细胞的侵袭。补体C4A具有弱的过敏毒素作用,而补体C4B除主要参与经典激活途径中C3转化酶(C4b2a)和C5转化酶(C4b2a3b)的形成进一步介导补体后续成分的级联反应外，还能促进吞噬、调节补体活化、防止免疫复合物沉积、中和病毒、免疫识别及维持自身稳定等[16-18]。癌源性IgG全分子与以上两个蛋白质相互作用表明其与Ig介导的免疫反应密切相关，我们推测IgG可能通过激活细胞的补体系统或天然免疫通路如Tol样受体信号通路参与免疫反应。乙酰辅酶A合成酶长链家族成员3(ACSL3)作为长链脂酰辅酶A合成酶家族的成员，在细胞内的主要生理功能是调节细胞内脂质代谢,催化长链脂肪酸激活的第一步[19]。细胞膜脂质的组成和新陈代谢调节的改变与包括癌症在内的许多疾病有关。研究表明，长时间抑制ACSL3表达会对细胞产生毒性[20]。通过RNA干扰技术下调鼠肝细胞中ACSL3基因的表达，导致很多与脂肪生成相关转录因子报告基因活性的降低,如过氧化物酶体增殖激活受体γ、糖类反应元件结合蛋白、固醇调节元件结合蛋白-1C等[21]。癌源性IgG全分子与ACSL3相互作用表明其可能通过调控细胞的脂肪酸代谢而参与癌症的发生和发展。60S核糖体蛋白L19(RPL19)是一类重要的蛋白质，参与细胞内蛋白质的生物合成和大分子的代谢[22-23]。最新研究表明,RPL19能够促进前列腺癌细胞的恶性表型24。癌源性IgG全分子与RPL19的相互作用表明IgG或许通过调控与代谢相关蛋白质或核糖体蛋白并激活增殖信号通路促进癌细胞生长和增殖。事实上，已有报道指出癌源性IgG能够促进细胞存活和生长[15]。我们最新研究表明癌源性IgG可通过诱导产生低浓度的活性氧促进肿瘤细胞的生长和增殖[25]。皮离蛋白(DCD)是一种具有抗菌活性的肽类物质。它是宿主产生的抵抗外界病原体感染的小分子阳离子肽[26-27]，具有非特异性抗细菌、真菌、病毒等病原体作用[28-29],是机体非特异性免疫的重要组成部分。DCD作为一种抗菌肽与传统抗生素作用机制不同，不会导致抗药菌株的产生，因此有希望开发成一种新型多肽抗生素。据报道，DCD可与经典的成熟B淋巴细胞和浆细胞产生的IgG相互作用30-31]。癌源性IgG全分子与DCD相互作用表明IgG或许通过DCD抵抗细菌等微生物对细胞的入侵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我们通过免疫共沉淀与质谱联用得到了6个与癌源性IgG全分子潜在相互作用的蛋白质，这些蛋白质参与细胞多种生物过程，预示着癌源性IgG可能在细胞中扮演着多种重要角色,也为进一步研究其功能指明了方向。进一步的证实癌源性IgG全分子与以上蛋白质的相互作用还需用以上蛋白质的抗体重新进行独立的免疫共沉淀再次验证。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Qiu XY, Zhu XH, Zhang L,et al. Human epithelial cancers secrete immunoglobulin G with unidentified specificity to promote growth and survival of tumor cells[J].Cancer Res,2003,63(19): 6488-95.   \n[2] Zhang S,Mao Y,Huang J,et al. Immunoglobulin gene locus events in epithelial cells of lactating mouse mammary glands[J]. Cell Mol Life Sci,2010,67: 985-94.   \n[3]Ma C,Wang Y, Zhang G,et al. IgG expression and its potential role inprimary and metastatic breast cancers [J].Curr Mol Med,2013, 13: 429-37.   \n[4]Chen ZS,Qiu XY,Gu J. Immunoglobulin expresson in NonLymphoid lineage and neoplastic cells[J].Am JPathol,2O09,174 (4): 1139-48.   \n[5]Niu N,Zhang J, Huang T,et al.IgG expression in human colorectal cancer and its relationship to cancer cell behaviors[J].PLoS One, 2012, 7: e47362.   \n[6]Liu YX,Chen ZS,Niu N,et al.IgG gene expression and its possible significance in prostate cancers[J].Prostate,2012,72(6): 690-701.   \n[7]Qiu YM,Korteweg C,Chen ZS,et al.Immunoglobulin G expression and its colocalization with complement proteins in papillary thyroid cancer[J].Mod Pathol,2012,25(1):36-45.   \n[8] Chen ZS,Huang XR,Ye JX,et al.Immunoglobulin G is present in a wide variety of Soft tissue tumors and correlates well with proliferation markers and tumor grades[J]. Cancer, 2O1o,116(8): 1953-63.   \n[9]Zhao YY,Liu YX,Chen ZS,et al.Immunoglobulin G(IgG) expression in human umbilical cord endothelial cells[J].J Histochem Cytochem,2011,59(5): 474-88.   \n[10]Huang J, Zhang L,Ma T,et al. Expression of immunoglobulin gene with classicalV-(D)-J rearrangement in mouse testis and epididymis [J].JHistochem Cytochem,2009,57: 339-49.   \n[11]Niu N,Zhang J,Guo Y,et al. Expression and distribution of immunoglobulin G and its receptors in the human nervous system [J].Int JBiochem Cell Biol,2011,43(4): 556-63.   \n[12]Huang J,Sun X,Mao YT,et al.Expression of immunoglobulin gene with classical V-(D)-J rearrangement in mouse brain neurons [J].Int JBiochem Cell Biol, 2008,40(8):1604-15.   \n[13]Niu N,Zhang J,Sun Y,et al. Expression and distribution of immunoglobulin G and its receptors in an immune privileged site: the eye[J].Cell Mol Life Sci,2011,68(14): 2481-92.   \n[14]Pollard TD,Cooper JA.Actin,a central player in cell shape and movement[J]. Science,2009,326(5957):1208-12.   \n[15] Niu N, Zhang J,Huang T,et al. IgG expression in human colorectal cancer and its relationship to cancer cell behaviors[J].PLoS One, 2012, 7(11): e47362.   \n[16]Ruddy S,Gigli I,Austen KF. The complement system of man[J].N Engl J Med,1972,287(10): 489-95.   \n[17]Complement WM.First of two parts[J]. N Engl J Med,2001, 344 (14): 1058-66.   \n[18]Sarma JV,Ward PA. The complement system[J]. Cell Tissue Res, 2011,343(1): 227-35.   \n[19]Fujimoto Y, Itabe H, Sakai J,et al. Identification of major proteins in the lipid droplet-enriched fraction isolated from the human hepatocyte cell line HuH7[J].Biochim Biophys Acta:Mol Cell Res,2004,1644(1): 47-59.   \n[20]Yao H, Ye J. Long chain acyl-CoA synthetase 3-mediated phosphatidylcholine synthesis is required for assembly of very low density lipoproteins in human hepatoma Huh7 cells[J].J Biol Chem,2008, 283: 849-54.   \n[21]Syl B.Mashek MT,Mashek DG. Suppression of long chain acyl-CoA synthetase 3 decreases hepatic de novo fatty acid synthesis through decreased transcriptional activity [J].J Biol Chem,2009,284(44): 30474-83.   \n[22]Warner JR，McIntosh KB．How common are extraribosomal functions of ribosomal proteins[J].Mol Cell, 20o9,34: 3-11.   \n[23]Weisberg RA. Transcription by moonlight: structural basis of an extraribosomal activity of ribosomal protein S1o[J].Mol Cell, 2008,32(6): 747-8.   \n[24]Bee A,Brewer D,Beesley C,et al. siRNA knockdown of ribosomal protein gene RPL19 abrogates the aggressive phenotype of human prostate cancer[J].PLoS One,2011,6(7): 0022672.   \n[25]Wang J,Lin D,Peng H,et al. Cancer-derived immunoglobulin G promotes tumor cell growth and proliferation through inducing production of reactive Oxygen species[J].Cell Death Dis,2013,4: 474.   \n[26]Milner SM, Ortega MR.Reduced antimicrobial peptide expression in human burn wounds[J].Burns,1999,25(5): 411-3.   \n[27]Bals R,Wang X,Meegalla RL,et al. Mouse beta-defensin 3 is an inducible antimicrobial peptide expressed in the epithelia of multiple organs[J]. Infect Immun,1999,67(7): 3542-7.   \n[28]Bellm L,Lehrer RI,Ganz T. Protegrins:new antibiotics of mammalian origin[J].Expert Opin Investig Drugs,2Ooo,9(8): 1731-42.   \n[29]Hancock RE.Cationic antimicrobial peptides: towards clinical applications[J].Expert Opin Invest Drugs,2000,9(8): 1723-9.   \n[30]Terry WD,Fahey JL. Subclasses of human gamma globulin based on differences in the heavy polypeptide chains[J]. Science,1964, 146(3642):400-1.   \n[31]Motoyama J-,Kim-Motoyama H,Kim P,et al. Identification of dermcidin in human gestational tissue and characterization of its proteolytic activity[J].Biochem Biophys Res Commun,2O07,357 (4): 828-33. (编辑：黄开颜) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

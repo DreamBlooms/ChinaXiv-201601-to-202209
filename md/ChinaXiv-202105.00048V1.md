@@ -1,0 +1,286 @@
+# 技术信任和领导信任对企业员工新技术接受的影响
+
+The impact of trust in technology and trust in leadership on the adoption of new technology
+
+from employee's perspective 徐禕 刘艺璇
+
+XU Yi, LIU Yixuan
+
+(上海交通大学上海交大-南加州大学文化创意产业学院，上海 200241)
+
+(USC-SJTUInstituteofCulturalandCreativeIndustryShanghai JiaoTong Universityhanghai2Oo241,China)
+
+摘要在当今知识经济时代，新技术的采用对于企业提高核心竞争力至关重要。如何使员工面对新技术带来的风险和不确定性，信任并接受新技术是企业新技术推广的重要问题。现今学界虽已关注到信任在新技术采用这一过程中的积极作用，但仍缺乏相关的理论和实证研究，特别是对于其内在心理机制的解释。为弥补这一研究的不足，本研究通过分析企业新技术推广情境下，技术信任和领导信任对员工新技术接受的影响，并引入了感知风险性与技术自我效能感作为中介变量，探寻信任影响的内在机制。此外，还进一步探讨企业文化的调节作用，从而建构信任与企业员工新技术接受的理论模型，为企业新技术的推广提出合理建议。
+
+关键词技术接受，技术扩散，技术信任，领导信任，技术自我效能感
+
+Abstract: In today's knowledge economy, new technology adoption is critical for increasing the core competitiveness of companies. How to make employees trust and adopt the new technologies when facing the risks and uncertainties brought by such technologies is an important issue. Although many scholars recognize the positive role of trust in new technology adoption, it still lacks theoretical and empirical research,and in particular, in explaining the underlying mechanism. To fill in the gap, the current research aims to explore how trust in technology and trust in leadership affect employees'decisions to adopt new technologies, identify the underlying psychological mechanism, examine the moderating effect of organizational culture; and to construct the theoretical framework of trust and employees'new technology adoption, and finally provide practical implications for management.
+
+Keywords: new technology adoption, technology diffusion, trust in technology, trust in leadership, technological self-efficacy
+
+# 1问题提出
+
+现代社会是创新型社会，高新技术推动经济发展和产业升级，是知识经济时代的重要支柱和社会发展的重要内在推动力。对于企业来说，采用新技术不仅能够实现经济与技术的结合，使科学技术由潜在的知识形态转化为现实的生产力，也能打造核心竞争力，缩小与领先企业之间的技术差距(张伟 等,2018)。但是，新兴技术带来的不仅有巨大的机遇，新技术的另一特征——高度的不确定性——也带来了对企业管理的全方位挑战。如果企业未能良好地应对这一挑战，就会导致新技术不能有效实施。
+
+目前国内对于企业新技术采用的研究，大多以企业整体作为研究对象，考虑新技术采用的时机(孙浩，周浩,2008)或市场需求(杨伟娜，刘西林,2011)等因素对于企业新技术采用的影响，较少探究企业员工对于新技术的接受。企业新技术的推行，最终的落脚点必然在企业员工身上。在新技术推广的过程中，需要员工克服由于新技术带来的风险和不确定性，同时还需要员工相信新技术能给企业带来效益；更需要员工信任企业的领导层，相信他们能带领团队完成新技术带来的变革，这样企业新技术的采用才能取得最终成功。那么，哪些层面上的信任会对员工新技术接受产生影响？信任又是如何影响员工的新技术接受的呢？
+
+研究证据表明，在企业内部领导信任能有效促进企业的创新与改革(Cheong etal.,2018)。企业环境中，企业文化、管理制度、行业差别等都可能对信任造成影响(Chong etal.,2009)，从而进一步影响企业新技术采用。另一方面，McKnight 等人(2002)提出了基于技术本体的信任，当个人认为技术具有益处和优点，就会愿意依靠技术完成任务。这些前期研究证据显示出，信任对于新技术在企业内部的推广的重要性。因此，本项目试图深入研究领导信任和技术信任对于企业员工新技术接受的影响及其内在机制，分析不同类型的企业文化的调节作用，从而建构信任与企业员工新技术接受的理论模型。
+
+# 2国内外研究现状
+
+# 2.1个人新技术接受和企业新技术采用的理论模型
+
+新技术接受的理论模型发展了近半个世纪，其出发点在于如何让个人接受并采用新技术，从而推动整个社会的新技术的应用。学者 Everett Rogers 在1962 年提出的创新扩散理论(Innovation Diffusion Theory,IDT)中，指出个人技术接受是创新扩散的基础。他将个人技术接受分为五个阶段，从最初的意识创新、说服(通过获取相关知识)、判断(是否采用创新意见)实施(采用新技术)和最后的确认阶段(对创新采用的再评估)。基于个体层面的新技术接受，随着时间和规模的变化，最终可以形成集体层面的创新扩散(Rogers,1962)。这个过程会受到四种因素的影响：创新本身、沟通渠道、社会环境体系和时间。其中，社会环境体系的影响更着重于探讨环境层面的影响因素：例如，个人所在的社会文化环境、组织机构的文化和社会规范对个人层面的新技术接受的影响。这一理论框架可适用于各类技术接受的场景，奠定了新技术接受的理论基础。
+
+在信息技术的高速发展下，新技术接受模型的理论也不断更新，模型从个人角度出发，纳入了个人主观变量来解释新技术接受的意愿和行为。例如，建立在理性行为理论(Theoryof Reasoned Behavior)基础上的技术接受模型(Technology Acceptance Model, TAM) (Davis,1985)。在这个模型中，强调了对于技术易用性和有用性的觉察会影响个人对于新技术的态度，并进一步影响其新技术接受的行为。Venkates 等人(2003)在回顾了数十年计算机技术应用的研究后，提出了整合型科技接受模型(Unified Theory of Acceptance and Use of Technology,UTAUT)。在这个模型中有四个核心维度，包括绩效期望(个人感觉使用系统对工作有所帮助的程度)、付出期望(个人使用系统所需付出努力的程度)、社群影响(主观规范、社会因素和对外展示的公众形象)和配合情况(个人所感受到的组织在相关技术、设备方面对系统使用的支持程度)。这个模型被广泛地应用于不同场景下个人新技术的使用，例如，个人手机银行的使用(Zhou et al.,2010)，学生课程管理软件的使用(Marchewka& Kostiwa,2007)，电子政务系统的应用(AlAwadhi& Morris,2008)等。
+
+这一系列的新技术接受理论通过分析新技术本身的特点、个人因素和环境因素及其之间的相互作用来解释个人的新技术接受。与此不同的是 Tomatzky 等人(1990)提出的技术机构环境理论(Technology,Organization,and Environment Context,TOE)，以企业为主体，分析科技、组织和环境三方面因素对企业新技术采用的影响。例如，在高科技企业云存储技术的采用中，技术的相对优势、企业层面的高层支持、企业规模、环境层面的竞争压力和合作压力都能有效影响云存储技术的采用(Low et al.,2011)。Awa 等人(2016)研究了中小企业 ERP系统的采用，发现相对组织架构和业务范围，技术本身对中小企业的技术采用具有更大的影响力。具体而言，在技术方面，新技术所能带来的期望收益以及竞争力的提升是企业新技术采用的重要刺激变量(Aboelmaged,2014)。冯磊东和顾孟迪(2015)的研究建立了技术采用概率模型,发现技术得益能有效预测企业采用新技术的概率。在组织方面，领导层的支持与决策、企业的规模以及企业持有的相关资源都能够影响企业的新技术采用(Ifinedo,2005;Yan et al,2009)。还有些学者从企业自身的组织结构的角度出发，探讨企业组织管理对新技术采用的影响。例如，王永伟等人(2012)通过对比诺基亚和苹果两家公司从 2G 时代向 3G 时代转变过程中，研究组织惯例更新与企业竞争力的关系，指出了组织惯例更新在新技术与企业竞争力提升之间起着中介的作用。在环境方面，外部环境的市场竞争和政府法规都会对企业新技术采用产生影响。来自市场竞争者的压力会促进技术创新(Yang etal.,2015)，政府法规的指引也能推动企业采用新技术(Li,2008)。
+
+然而，在这个框架下，企业往往作为一个整体研究对象，忽视了企业中的员工对新技术接受的重要性。在近期的研究中，员工新技术接受逐渐受到关注。Doe 等人(2019，2020）的研究提出基于企业层面的新技术接受模型 (F-TAM)，在这一模型中加入员工层面的因素，研究证实员工新技术接受可以直接影响企业的新技术采用，并且还可以中介企业层面的因素来促进企业新技术采用。
+
+# 2.2企业员工的新技术接受
+
+过往研究证实创新的企业组织环境可以促进员工的创新行为(Kang etal.,2015)，帮助员工积极接受变革(Metwalley etal.,2019)。创新的企业环境可以通过鼓励员工的创新热情最终影响员工的创新行为，有预见性和敢于冒险的企业氛围更能培养员工的创新热情(Kang et al,2016)。Khasawneh(2018)的研究指出有激励体系，给予员工更多关怀的企业能够帮助对接受新技术存疑和有恐惧感的员工更好地克服困难采用新技术。企业文化也是企业环境中的一个重要特征。诸多研究显示文化因素对新技术接受具有显著影响力(Beretta et al.,2018)。例如，文化因素可以直接影响对新技术的态度 (e.g.,Abbasi et al.,2015; Hung& Chou,2014);通过调节技术的感知有效性和感知易用性，进而对使用意愿和使用行为产生影响(Schepers&Wetzels,2007;McCoy etal.,2007)。不同的文化维度对新技术的接受也会起到不同影响。例如，权威式的企业文化会降低员工由于自动化技术带来的不安全感(Lingmont& Alexiou2020)；集体主义文化和长期导向能正面影响技术感知(Sun etal.,2019)。
+
+在企业中，领导的新技术支持对员工的新技术接受也非常重要。例如，Weng 和 Tang(2014)的研究表明，技术驱动型领导能激发员工个人创造力来使用技术，从而更有效地为客户服务。此外，Chen 和 Tseng(2012)的研究也证明，当员工能感受到领导的支持时，他们使用技术的能力会提高。一些研究表明，领导给予的技术方面的帮助可以有效提高员工使用技术的信心和使用网络进行自我学习的行为(Mosley et al.,2008;Ngai et al.,2008)。
+
+企业所在的行业也会影响企业员工的新技术接受。Doe 等人(2019)认为技术型和非技术型的中小企业的员工技术接受会存在差别。针对不同行业员工新技术接受的研究，例如，航空业(Tan & Sundarakani,2020)，旅游业(Matikiti et al.,2018)，餐饮业(Park et al.,2018)，发现行业特点会对新技术接受产生不同影响。Sun 等人(2019)关于酒店管理行业新技术接受的研究认为，酒店管理行业基层从业人员大多为中年女性，员工缺乏对技术的理解力，因此员工的新技术接受程度较低。
+
+总体而言，企业情境中的组织文化、领导支持和行业类型等因素都会对员工的新技术接受产生影响。现有的研究在新技术接受模型中采纳部分企业情景下的变量，探索企业情景下不同环境因素对于员工新技术接受的效用，积累了这方面的相关研究证据。相对而言，这方面的研究还较为零散，缺乏系统性的理论框架和深入的内在机制的解释(Molinillo&Japutra,2017; Tseng, 2017)。
+
+# 2.3信任对企业员工新技术接受的影响
+
+信任是关系的重要组成部分，体现了人们如何积极互动和建立关系(Lewicki&Wiethoff,2000)。在经济交换过程中，消费者信任至关重要，它可以被描述为交换过程中所涉及的风险程度的函数(Koller,1988)，信任能促进交易并减少消费者承担的风险(Fukuyama,1995)。与传统交易相比，应用新技术的电子商务可能存在着更高的不确定性，因此信任在电子商务的应用中尤为重要。Pavlou (2003)在研究消费者电子商务的使用行为中，将TAM模型与信任因素相结合。研究发现信任可以有效提高对人们对电子商务的易用性和有用性的感知，同时有效降低消费者对于风险的感知，从而促进人们接受和使用电子商务。还有类似的研究显示信任能有效提高网络购物的满意度，从而预测消费者的忠诚度(Chiu et al.,2009)。Gefen 等人(2003)同样采用TAM 模型与信任因素结合的方式来研究人们网络购物的行为，研究指出信任不仅能直接影响人们网络购物的意愿，还能通过影响人们对网络购物的感知有用性来增加购物行为。同时，研究还指出以机构为基础的信任(如购物平台的安全稳定性)能有效提高人们对网络购物的信任。国内关于信任对于个人新技术采用的研究也主要集中于个人对于各类电子商务技术的接受。例如，闵庆飞等人(2008)为了研究中国的手机端电子商务的用户接受度，结合手机端电子商务的独特性、用户满意度的相关理论和中国的社会文化背景提出了一个修正的UTAUT 模型。他们建议将信任、隐私保护和使用成本包括在修订后的模型中，这样更适合于中国本土用户新技术接受的分析。
+
+同时，在企业技术创新领域，有不少研究提供了关于信任影响员工新技术接受的间接证据。 $\mathrm { Y u }$ 等人(2018)的研究指出在组织中，组织信任是组织关系与员工创新性行为之间的中介变量。Lee(2009)探究了韩国员工对于射频识别技术的态度和接受行为，认为对于安全和服务提供方的信任能够影响员工对技术的感知有用性和感知易用性。Yue 等人(2019)的研究证实了，组织信任对员工的变革开放度能产生积极影响。虽然已有研究都在一定程度上支持信任有利于员工创新行为，但是对于信任是否可以影响员工的新技术接受这一议题尚缺乏具体理论和实证研究的支持。
+
+综上所述，信任对于个人新技术接受的影响逐渐进入研究者的视野，特别是应用于信息技术领域电子商务相关的研究中。研究表明，信任能增强个人对于新技术的接受。但同时，研究中所涉及的信任概念覆盖范围较广，包括人际、技术等各方面；不同研究中所讨论的信任的界定与测量存在较大差异。主要研究集中于个人的新技术接受，较少关注到企业内部的信任及其对员工新技术接受的影响。
+
+# 2.4技术信任和领导信任
+
+随着电子商务领域技术应用的不断发展，越来越多的研究者引入对于电子平台及信息技术平台(终端)的信任。在此基础上，McKnight 等人(2002,2011)提出了区别于人际信任的、对于技术本体的信任。技术信任指的是个人对技术的态度，能影响个人依靠技术完成相应任务的意愿。Muir 和 Moray(1996)关于技术信任的定义主要从用户对于技术作用的感知出发，建立在用户的技术得益之上。考虑到技术可能存在的不稳定性，用户在依靠技术时处于劣势地位(Martin,1996)，因而需要技术信任来降低用户的感知风险，从而促进技术的接受和使用行为(Meng et al.,2008;McKnight& Chervany,2001)。相关研究进一步探究了感知风险、自我效能感等因素与信任以及新技术接受之间的关系(Faqih,2013)。例如，个人的计算机技术自我效能感能够显著影响组织中的计算机及相关技术系统的使用(Madhavan& Phillips,2010)
+
+需要指出的是，现有研究中对于技术信任的定义和测量并不统一。在Pavlou(2003)的研究中采用了对网络零售商的总体信任，也有研究通过测量被信任方的正直、善意来研究信任对网络购物的影响(Lee& Turban,2001)，还有一些研究指出网站的熟悉程度(Bhattacherjee,2002)、网站的质量(Yoon,2002)均与信任相关；在这些研究中，信任主体通常并不一致(Chang et al., 2005)。
+
+不同于技术信任，领导信任在组织机构管理中已被广泛地研究。在企业变革与创新中，领导信任是一个显著的影响因素(Cheong et al.,2018)。领导信任能引导员工的积极情绪(Agote et al.,2015)，提高员工的工作表现(Byun etal.,2017)，尤其是创新实施行为(Michaelisetal.,2009)。不同的企业文化下，从企业内问题解决方式到领导与下属间关系等因素都会影响领导信任，进一步影响创新性行为(Scot& Bruce,1994)。
+
+总结现有研究，我们认为想要探究企业内部员工新技术接受，必须把技术信任和领导信任一起纳入企业员工新技术接受研究的框架内，并考虑不同企业文化的影响。
+
+# 3研究构想
+
+本研究的总体目标是将企业文化、信任和员工新技术接受整合在一个框架内，分析技术信任和领导信任如何影响企业员工对于新技术接受的决策和行为，探讨不同企业文化的调节作用，以实证研究的方式探讨信任对企业员工新技术接受的影响及其内在机制。在这个过程中，我们需要解决以下几个问题：
+
+(1）什么样的信任会影响企业员工新技术接受的决策和行为？结合现有文献资料，我们认为在企业员工新技术接受场景下的信任包括：技术信任和领导信任。我们将通过实验的方法分别检验技术信任和领导信任对企业员工新技术接受的影响，为下一步建立信任与企业员工新技术接受之间的关系做好基础工作。
+
+(2）建立信任与企业员工新技术接受之间的关系模型。区别于前人关于企业员工新技术接受的研究，我们将侧重于考量信任对员工新技术接受过程中的风险因素的影响作用。在现有众多新技术采用模型中，强调了需要基于以往新技术认知和使用的经验对易用性和有用性的进行判断，导致模型无法适用于新技术接受的决策前期即尚未有新技术使用经验的阶段。信任与风险因素的关系模型可以适用于员工新技术接受的各个阶段，更好地对新技术接受做出预测。
+
+(3）技术信任通过什么内在心理机制对企业员工新技术接受的产生影响？目前学界对于技术信任的研究尚不完整，我们将在计算机自我效能感(Compeau& Higgins,1995)的基础上，形成技术自我效能感来探究技术信任对员工新技术接受的内在心理机制。以实证研究检验技术自我效能感的中介作用，从而夯实技术信任对员工新技术接受研究的理论基础。
+
+(4）哪些文化因素会对信任与员工新技术接受的关系产生调节作用？我们关注中国企业文化对员工新技术接受的调节作用。通过验证不同行业和不同企业文化如何调节信任对员工新技术接受的影响，融入环境层面的影响因素完善现有理论框架。从应用角度而言，企业可以结合自身企业文化特点了解如何建设信任环境，从而促进员工新技术接受。
+
+# 3.1研究一：确立企业员工新技术接受与信任之间的关系
+
+我们认为在企业新技术应用场景下技术信任和领导信任都将对员工新技术接受产生显著的作用。由于对于信任的测量一直有诸多争议(Burke et al.,2007; Mayer et al.,1995)，我们将通过比较分析国内外的研究方法进行借鉴和调整，设计技术信任和领导信任的测量方法。
+
+针对技术信任，研究认为其具有三个前置影响因素：功能性(functionality)、可靠性(reliability）和有用性(helpfulness)(McKnight etal.,2011)。对于领导信任，我们将依据Mayer等人(1995)和 Mishra(1996)的理论依据，从三个方面能力(ability)，善意(benevolence)，正直性(integrity)进行测量(如图1所示)。相关理论研究也提出，在企业新技术推广过程中，管理人员的投入会影响到员工对技术的信心(Alsheibanir et al.,2018)。最后，我们将通过实验操纵来验证信任和企业员工新技术接受之间的因果关系，在实验中采用2(高低领导信任) $\times 2$ （高低技术信任)的组间设计，并探索领导信任和技术信任之间的交互关系。实验操纵，由于其具有高生态效度，能更准确地检验理论假设，为研究变量的因果关系提供有力的证据，在心理学、管理学和决策科学研究中被广泛使用(e.g.,Dineen&Noe,2009; Tost et al.,2013)。
+
+假设1：技术信任的正面启动可以显著提高员工新技术接受，负面启动会降低员工新技术接受。
+
+假设2：领导信任的正面启动可以显著提高员工新技术接受，负面启动会降低员工新技术接受。
+
+假设3：领导信任和技术信任交互影响员工新技术接受。
+
+![](images/186371ac09870dbcb64b65cf6469f8b9ce85d31d26a6eb05dbff24a885f7fc3a.jpg)  
+图1研究一研究内容示意图
+
+# 3.2研究二：建立信任与企业员工新技术接受之间的关系模型与内在机制
+
+在研究一的基础上，我们将通过问卷调研方法，采样企业员工数据，研究在技术信任和领导信任两种信任共同作用下对企业员工新技术接受的影响。TAM模型中认为感知风险性和感知有用性是影响个体使用意愿的关键因素(Davis,1985)。Pavlou (2003)的研究证实风险和不确定性因素在企业员工新技术接受的过程中也会起到重要影响。以往研究证实技术信任能够显著降低用户对于技术的感知风险(Mayer et al.,1995;McKnight&Chervany,2001)。因此，我们在模型中加入新技术得益性(benefits of technology)变量，并用感知风险性(perceived risk oftechnology)作为中介变量，检验预测模型的有效性。其中，感知风险性能够进一步解释技术信任与领导信任对于企业员工新技术接受影响的内在机制(如图2所示)。
+
+假设4：技术信任和领导信任均能显著预测企业员工新技术接受。  
+假设5：技术得益性会正向显著预测企业员工新技术接受。  
+假设6：感知风险性会负向显著预测企业员工新技术接受。  
+假设7：技术信任和领导信任可以通过降低感知风险性来提高企业员工新技术接受。
+
+![](images/d34c10a38b5c99ee5b50bb032f477094849b7b5011b1d78fc652f00e3e990762.jpg)  
+图2研究二研究内容示意图
+
+5.5研九二：孜不信任通过孜小双能慾(lecoiogical sel-eicacy)影啊正亚贝上新仪术接文自我效能感(self-efficacy)指的是个人对自己完成某方面工作能力的主观评估(Bandura,1986)，这一理论得到了大量实证研究的支持。自我效能感对于企业内组织公民行为，员工创新行为都有着显著的作用(Gueskey,1988;Lin,2007)。计算机效能感(computer self-efficacy)将自我效能感应用到计算机和相关系统的使用中。例如，Madhavan 和Phillips (2010)认为个人的计算机技术自我效能感能够正向影响组织中的计算机及其相关系统的使用行为。我们在此基础上定义技术效能感(technological self-efficacy)为一种对广泛技术使用的能力的自我主观评价。已有的研究在 TAM 模型的基础上加入了网络自我效能感的概念(Intemet self-efficacy)，研究结论发现网络自我效能感虽然不能直接影响消费者网络购物的意愿，但是能作为感知有用性和感知易用性的中介变量起到间接影响作用(Faqih,2013;Yuan et al.,2017)。
+
+目前以技术自我效能感来解释信任内在影响机制的研究相对较少。Tam 等人的研究(2018)验证了技术信任对于持续使用行为的影响，并指出了计算机自我效能感在其中起到的中介作用。基于此，我们认为技术信任可以提高个人对技术能力的自我评估(技术自我效能感)，从而提高员工的新技术接受(如图3所示)。我们提出下列假设：
+
+假设8：正面技术信任的启动可以在新技术使用不同阶段显著提高企业员工新技术接受。
+
+假设9：技术信任通过技术自我效能感的中介来影响企业员工新技术接受。
+
+![](images/1aacad70abea473220d747944a77b5296437328cac460399c4a0f48a1fc3ae60.jpg)  
+图3研究三研究内容示意图
+
+3.4研究四：企业行业和文化对信任与企业员工新技术接受关系的调节作用
+
+科技环境(Tornatzky et al.,1990)、机构环境(Khasawneh,2018;Lingmont & Alexiou,2020)和行业因素(Doe et al.,2019)对企业员工的新技术采用都会产生影响 (Oliveira& Martins,2010；杨建君 等,2013)。因此，研究四将探索行业和企业文化对信任与企业员工新技术接受的关系的调节作用。
+
+从行业角度来看，我们将区分高科技行业和非高科技行业；从企业文化角度，我们将研究企业中个人主义和集体主义文化的区别(如图 4 所示)。借鉴 Hofstede 等人(1990)和Ramamoorthy 等人(2007)的测量方式，建立相应的测量量表。基于此，我们提出以下假设：
+
+假设10：高科技行业与非高科技行业相比较，在高科技行业，技术信任对员工新技术接受会产生更大的影响，在非高科技行业，领导信任对员工新技术接受会产生更大影响。
+
+假设11：不同行业中，集体主义文化会对领导信任产生调节作用而个人主义文化会对技术信任产生调节作用。
+
+![](images/ccb6ff27e0473a364403f8a270d92a6baa1d99d9bece9866588505358df4ca80.jpg)  
+图4研究四研究内容示意图
+
+# 4理论建构
+
+![](images/203ccccc5be73c5f6039c316ead441a1c67771744f661f957bad047e17e7baea.jpg)  
+图5理论建构框架图
+
+对于企业而言，新技术的推广和采用能够有效提高企业的效率。然而，现有企业新技术采用的研究更多集中在企业层面，或从企业决策角度分析新技术的采用时机(张伟 等，2018;Qin et al.,2020)，或从外部环境的市场竞争角度分析促进新技术采用的影响因素(Yang et al.,
+
+2015;Aguila-Obra&Padilla-Melendez,2006）。即使有部分学者关注到企业组织的影响，也更多集中于企业领导的作用(Bagheri et al.,2020)，忽视了企业内部的员工在企业新技术采用中的关键作用。员工能否接受和运用新技术是企业新技术推行成功的关键。
+
+本研究提出了新的理论视角(如图 5)，以企业内部员工新技术接受角度出发来分析企业新技术采用这一问题，有助于弥补现有研究不足。无论是技术接受模型(TAM)还是整合型科技接受模式(UTAUT)，现有新技术采用的理论模型多侧重个人认知因素对新技术接受的影响效应，因而广泛应用于各类个人技术使用。在这一系列理论发展的过程中环境因素被逐步纳入其中，例如，人际网络、主观规范和组织内技术使用的配合情况(Taherdoost,2018)。但现有模型不能很好解释企业环境对员工新技术接受的影响，例如，领导对下属的影响或是企业文化对员工决策的影响。正如Orlikowski(1992)提出社会环境对人和技术的交互产生极大的影响，我们认为在员工技术接受过程中企业环境因素的分析至关重要。另一方面，技术机构环境理论(TOE)从企业角度分析环境因素对企业新技术采用的影响，更多关注于企业机构规模，内部管理架构和领导层的作用，并未将员工的主观态度和技术认知纳入到这一体系中(Molinillo&Japutra,2017)。因此，本研究从企业员工角度出发，分析信任对员工新技术接受的影响及其内在机制，并且结合企业行业和文化背景进行多层次的分析研究，从而丰富企业新技术采用的理论研究。
+
+首先，本研究提出围绕信任这一核心概念来解释员工新技术接受的理论模型。根据企业内部新技术推广情景特点，我们采用领导信任和技术信任来解释员工新技术接受过程中的信任。关于领导信任，众多组织机构的研究(Cheong et al.,2018; Agote et al.,2015; Byun et al.,2017)都证实领导信任对于组织机构内员工的行为决策具有重要的积极作用。同时，随着技术与人的交互愈加广泛，技术信任的重要性将会不断提高，对于技术信任的研究将有助于理解人与技术之间关系的发展(Glikson&Wooley,2020)。在研究一中，通过对技术信任和领导信任的内涵描述和测量方式的梳理，可以确定技术信任和领导信任的结构与测量，有助于弥补现有研究中信任定义不清造成的不足。在此基础上，本研究将分别检验领导信任和技术信任对于员工新技术接受的积极影响(假设1、假设 2)并探索两者的交互影响(假设 3)。
+
+其次，我们针对信任影响员工新技术接受的机制进行了探究(假设 4-7)。在研究二中，我们通过结合技术接受模型和技术结构环境理论框架，从新技术感知风险性和技术得益性认知来解释技术信任和领导信任提高企业员工新技术接受的机制(Davis,1985;Orlikowski,1992)。在已有研究的基础上，我们认为员工如果感知到使用新技术所得的益处，将会有更高的新技术接受意愿(假设5)；而技术的不稳定性带来的感知风险，会使得员工降低新技术接受(假设6)。过往的研究指出技术信任可以显著降低用户的技术感知风险(McKnight &Chervany,2001)，服务提供引导方的信任也能够影响员工对于技术的感知风险性(Lee,2009)。所以，我们提出技术信任和领导信任可以降低员工对于新技术的感知风险，从而提高他们的新技术接受(假设7)。通过引入技术得益性和感知风险性两个因素，以及分别研究它们各自与技术信任、领导信任、员工新技术接受之间的关系，将进一步丰富完整以信任为中心的员工新技术接受影响模型。
+
+本研究进一步探究了技术信任的影响机制，提出了技术自我效能感的中介机制(假设8、假设9)。关于技术信任的现有研究还较为薄弱，近期研究中逐渐纳入对技术信任影响的测量，但缺乏对于其内在机制的实证研究(Rupp et al.,2016; Salanitri et al.,2016)。企业员工的技术自我效能较低，认为自己使用新技术的能力不足，必然会降低新技术的接受。反之，技术信任的建立可以提高自我对于技术能力的主观评价，进而提高新技术接受。Zhang 等人(2017)的研究证实了技术自我效能会影响用户对手机健康系统的感知易用性和感知有效性。类似关于员工手机信息系统使用意愿的研究也表明，技术自我效能感是影响感知易用性的重要因素(Yuan et al.,2017)。Tams 等人(2018)的研究也引入了计算机自我效能作为技术信任对后续技术使用行为的中介变量。在此基础上，本研究提出技术自我效能能中介技术信任对员工新技术接受的影响。未来相关研究也可以此为抓手进一步分析影响技术自我效能感的因素，以及影响中介效应的边界条件。本理论框架有助于理解信任对企业员工新技术接受的影响及其内在机制，并且丰富了技术信任的研究。
+
+最后，本研究将考察不同企业行业及文化对于信任影响员工新技术接受机制的作用。企业的行业属性往往会对人员背景形成不同要求(Bagheri,2017)。高科技行业的从业人员对技术本身会有更多了解，因此在决策时可能会更依赖于技术信任。而非高科技行业则更倾向于人际关系间的信任，在企业变革中更可能依靠领导信任(Doe etal.,2019)。在研究四中，我们认为在高科技行业，技术信任会对员工新技术接受产生更大影响；而在非高科技行业中，领导信任将会起到更大作用。本研究通过对比行业的不同，将信任影响员工新技术接受的过程细致化，提出了行业文化的调节作用，有助于深化现有研究对企业环境情景因素在新技术接受这一问题下的研究(假设10)。同时，集体主义与个人主义导向的企业文化背景会对员工的新技术接受产生影响(Sun etal.,2020; Tarhini et al.,2017)。在此基础上，我们进一步探究其内在机制，在研究四中我们提出假设认为企业文化背景通过对领导信任和技术信任起到不同的影响作用，最终影响员工新技术接受(假设11)。集体主义文化更强调组织整体和组织规范，因此科层制的作用在集体主义文化的背景下更加明显，对领导信任起到调节作用(杨建君 等，
+
+2013)。而个人主义文化主导下的企业，更强调个体概念和个人的能动性，从而对技术信任起到调节作用。因此，本研究提出的模型认为企业的行业和文化背景都会对信任的深层作用机制产生不同的调节作用。
+
+总体而言，本研究构建的理论模型能够扩展和深化企业新技术采用过程中员工新技术接受机制的认识，其理论贡献表现在三个方面。第一，从企业组织内员工个人角度出发，结合个人认知层面和环境层面的因素，解释员工新技术接受的影响因素；第二，通过清晰界定和测量领导信任和技术信任，分析并解释这两种信任对于员工新技术接受的影响机制，有助于加深现有新技术接受研究中信任的理解；第三，提出了技术信任的内在机制，为将来技术信任的研究建立基础。最后，本研究具有实践意义，企业可以结合本研究的相关结论，使用合理有效的管理策略，推进新技术在企业内部的采用。例如，在新技术采用的前期，通过技术培训增进员工对于新技术的了解和掌握，提升员工的技术自我效能感和技术信任，从而有助于员工对于新技术的接受。同时，不同行业和文化背景的企业也可以根据企业自身特点展开新技术内部推行的策略。例如，在非高科技的集体主义导向的企业，可以充分发挥领导信任的作用，借助领导信任帮助员工降低对于新技术的感知风险。在科技行业中，企业则应该发挥员工自我能动性，鼓励员工积极创新，探索和采用新技术。
+
+# 参考文献
+
+冯磊东，顾孟迪.(2015).基于概率模型的新技术采用和扩散研究．科学进步与对策,32(5),1-4.   
+闵庆飞，季绍波，孟德.(2008).移动商务采纳的信任因素研究．管理世界,(12),184-185.   
+孙浩，周浩.(2008).吸收能力对新技术采纳时机的影响．中南财经政法大学学报,(5),98-103,143-144.   
+王永伟，马洁，吴湘繁，刘胜春.(2012)．新技术导入、组织惯例更新、企业竞争力研究——基于诺基亚、苹 果案例对比研究．科学学与科学技术管理,33(11),150-159.   
+杨建君，杨慧军，马婷.(2013).集体主义文化和个人主义文化对技术创新方式的影响—一信任的调节．管理 科学,26(6),1-11. https://oi.org/10.3969/j.issn.1672-0334.2013.06.001   
+杨伟娜，刘西林.(2011).政府推动下企业新技术采纳博弈分析．管理学报,8(4),621-627.   
+张伟，仲伟俊，梅姝娥.(2018).创新回报不确定性下的新技术采纳研究．系统工程理论与实践,38(2),390- 400.   
+Abbasi,M.S.，Tarhini,A.，Elyas,T.,& Shah,F.(2015).Impact of individualism and colectivism over the individual's technology acceptance behaviour: A multi-group analysis between Pakistan and Turkey. Journal of Enterprise Information Management, 28(6),747-768. https://doi.org/10.1108/JEIM-12-2014-0124   
+Aboelmaged, M. (2014). Predicting E-Readinessat firm-level: An analysis of technological organizational and environmental (TOE) effects on E-maintenance readiness in manufacturing firms. International Journal of Information Management, 34(5), 639-651. https://doi.org/10.1016/j.ijinfomgt.2014.05.002   
+Agote,L.,Aramburu,N.,&Lines,R. (2Ol6).Authentic leadership perception,trust in the leader,and followers' emotions in organizational change processes.The Journal of Applied Behavioral Science,52(1),35- 63. https://doi.0rg/10.1177/0021886315617531   
+Aguila-Obra,A.,& Padill-Melendez,A. (2o06). Organizational factors affecting Internet technology adoption. Internet Research,16(1),94-110. https://doi.0rg/10.1108/10662240610642569   
+AlAwadhi,S.,& Morris,A.(2008).The use of the UTAUT model in the adoption of E-government services in Kuwait. Proceedings of the 41st Annual Hawaii International Conference on System Sciences， 1-11. http://doi.0rg/10.1109/HICSS.2008.452   
+Alsheibani,S., Cheung,Y.,& Messom, C. (2018).Artificial Intellgence adoption: AI-readiness atfirm-level.PACIS 2018 Proceedings. 26-32. https://aisel.aisnet.org/pacis2018/37   
+Awa,H.,& Ojiabo,O. (2016).A model of adoption determinants of ERP within T-O-E framework. Information Technology & People,29(4),901-930.http://doi.0rg/10.1108/ITP-03-2015-0068   
+Bagheri,A. (2Ol7). The impact of entrepreneurial leadership on innovation work behavior and opportunity
+
+recognition in high-technology SMEs. Journal of High Technology Management，28(2)，159-166. https://doi.org/10.1016/j.hitech.2017.10.003
+
+Bagheri,A.，Newman,A.,& Eva,N.(2O20).Entrepreneurial leadership of CEOs and employees’inovative behaviorinhigh-technologynewventures.Journal ofSmall Business Management. https://doi.0rg/10.1080/00472778.2020.1737094
+
+Bandura,A. (1986).Social foundationsof thought and action: A socialcognitive theory.Englewood Cliffs,NJ: Prentice-Hall.   
+Beretta,E.,Fontana,M., Guerzoni,M.,& Jordan,A. (2018). Cultural dissmilarity: Boon or bane for technology diffusion? Technological Forecasting and Social Change, 133, 95-103. https://doi.org/10.1016/j.techfore.2019.119768   
+Bhattacherjee,A. (2o02). Individualtrust in online firms: scale development and initial test.JournalofManagement Information Systems,19(1),211-241. https://doi.0rg/10.1080/07421222.2002.11045715   
+Braganza,A., Chen, W., Canhoto,A.,& Sap,S.(2020). Productive employment and decent work: The impact ofAI adoption on psychological contracts, job engagement and employee trust. Journal of Business Research, S014829632030518X. htps://doi.org/10.1016/j.jbusres.2020.08.018   
+Burke,C.S.，Sims,D.E., Lazzara,E.H.，& Salas,E.(2007). Trust in leadership: A multi-level review and integration. The Leadership Quarterly,18(6), 606-632. https://doi.org/10.1016/j.leaqua.2007.09.006   
+Byun, G., Dai, Y.,Lee, S.,& Kang, S. (2017). Leader trust, competence,LMX,and member performance: A moderated mediation framework. Psychological Reports,120(6), 1139- 1159. https://doi.org/10.1177/0033294117716465   
+Chang,M.K., Cheung,W.,& Lai, V.S.(20o5).Literature derived reference models for the adoption of online shopping.Information & Management, 42(4),543-559. https://doi.org/10.1016/j.im.2004.02.006   
+Chen, H.R.,& Tseng,H.F. (2012).Factors that influence acceptance of web-based e-learming systems for the inservice education of junior high school teachers in Taiwan.Evaluation and Program Planning,35(3),398-406. https://doi.org/10.1016/j.evalprogplan.2011.11.007   
+Cheong,M., Yammarino,F.,Dionne,S.,Spain,S.,& Tsai, C. (2018). Areview of the effectiveness ofempowering leadership. The Leadership Quarterly, 9(8),1-25. htps:/doi.org/10.1016/j.leaqua.2018.08.005   
+Chiu, C.M.,Lin,H.Y.,Sun,S.Y.,& Hsu.,M.H.(2oo9). Understanding customers' loyalty intentions towards online shopping: an integration of technology acceptance model and fairness theory. Behaviour & Information Technology,28(4),347-360. https://doi.0rg/10.1080/01449290801892492   
+Chong,A.,Ooi,K.,Lin,B.,& Raman,M.(20o9).Factors affecting the adoption level ofc-commerce: An empirical study. Journal of Computer Information Systems, 50(2),13-22.
+
+Compeau,D.R.,& Higgins, C.A.(1995). Computer self-eficacy: Development of a measure and initial test.MIS Quarterly,19(2),189-211.
+
+Davis,F. (1985). A technology acceptance model for empiricaly testing new end-user information systems: Theory andresults (Unpublisddoctaldiseration.Massacusets Ituteofclogy   
+Dineen，B.R.，& Noe,R.A. (2009). Effects of customization on application decisions and applicant pool characteristics in a web-based recruitment context.Journal of Applied Psychology， 94(1)， 224-34. https://doi.0rg/10.1037/a0012832   
+Doe,J.K. (2020). The Eco-system of firm technology adoption.In S.H. Park,M.A. Gonzalez-Perez,& D.E. Floriani (Eds.),The Palgrave Handbook of Corporate Sustainability in the Digital Era (pp.3-27). Springer International Publishing. https://doi.org/10.1007/978-3-030-42412-1_1   
+Doe,J.K., Vande Wetering,R.,Honyenuga,B.,& Versendal,J.(2O19). Validating the firm technology adoption model (F-TAM). In M.Nunes,P.Isaias,P.Powell,P.Ravesteijn,& G.Ongena (Eds.),Proceedings of the12th IADISInternational Conference Information Systems2019: Utrecht (pp. 205-215). IADIS Press. https://doi.0rg/10.33965/is2019_201905L026   
+Faqih, K. M. S. (20l3). Exploring the influence of perceived risk and Intermet self-efficacy on consumer online shopping intentions: Perspective of Technology Acceptance Model. International Management Review, 9(1), 68-78.   
+Fukuyama,F.(1995). Trust: The Social Virtues and the Creation of Prosperity. New York,NY: Free Press.   
+Gefen,D., Karahanna,E.，& Straub,D. (20o3). Trust and TAM in online shopping: An integrated model. MIS Quarterly,27(1), 51-90.   
+Glikson,E., & Woolley,A. W. (2O20). Human trust inartificial intellgence: Review ofempirical research.Academy of Management Annals,14(2), 627-660. https://doi.org/10.5465/annals.2018.0057   
+Guskey,T.R. (1988). Teacher eficacy，self-concept,and atitudes toward the implementation of instructional innovation. Teaching and Teacher Education,4(1),63-69.htps://doi.org/10.1016/0742-051X(88)90025-X   
+Hofstede, G., Neuijen,B., Ohav,D.D.,& Sanders,G. (199o). Measuring organizational cultures: A qualitative and quantitativestudyacrosstwentycases. Administrative Science Quarterly， 35(2)， 286-316. https://doi.0rg/10.2307/2393392   
+Hung, C.L.,& Chou, J. L. (2014). Examining the cultural moderation on the acceptance of mobile commerce. International Journal of Innovation and Technology Management, 11(2)， 1-19. htps://doi.org/10. 1142/S0219877014500102   
+Ifinedo,P. (2oo5). Measuring Africa's e-readinessin the global networked economy: A nine-country data analysis. International Journal of Education and Development Using Information and Communication Technology, $I ( 1 )$
+
+53-71.
+
+Kang,J.H.,Matusik,J.G.,Kim,T.Y.,ips,J.M.(6).Interactiveefectsofmultipleorganzationalcliates on employee inovative behavior in entrepreneurial firms: A cross- level investigation. Journal of Business Venturing,31(6), 628-642. htps://doi.org/10.1016/j.jbusvent.2016.08.002
+
+Kang,J. H.,Solomon, G.T.,& Choi, D. Y. (2015). CEOs' leadership styles and managers’innovative behavior: investigationof intervening effects inan entrepreneurial context.Journal of Management Studies,52(4),531- 554. https://doi.org/10.1111/joms.12125   
+Khasawneh,O.Y.(2018).Technophobia without boarders: The influence of technophobia and emotional intellgence on technology acceptance and the moderating influence of organizational climate. Computers in Human Behavior,88,210-218.https://doi.org/10.1016/j.chb.2018.07.007   
+Koller,M. (1988). Risk as a determinant of trust. Basic and Applied Social Psychology,16(3),265-276.   
+Lee,M. S. (2009). An empirical study about RFID acceptance—Focus on the employees in Korea. World Academy of Science, Engineering and Technology,31,1044-1053. https://doi.org/10.5281/zenodo.1078811   
+Lee,M.,& Turban,E. (20o1). A trust model for consumer internet shopping. International Journal of Electronic Commerce,6(1),75-91. https://oi.0rg/10.1080/10864415.2001.11044227   
+Lewicki,R.J.,& Wiethof, C. (2oo). Trust,trust development,and trustrepair.InM. Deutsch,&P.Coleman (Eds.), The Handbook of Conflict Resolution: Theory and Practice (pp. 86-107). San Francisco, CA: Jossey-Bass.   
+Li,Y. (2008). An empirical investigation on the determinants of e-procurement adoption in Chinese manufacturing enterprises.International Conference on Management Science and Engineering 15th Annual Conference Proceedings,32-37. https://doi.0rg/10.1109/ICMSE.2008.4668890.   
+Lin,H.F. (2Oo7). Knowledge sharing and firm innovation capability: An empirical study. International Journal of Manpower,28(3/4),315-332. https://doi.org/10.1108/01437720710755272   
+Lingmont, D.,& Alexiou,A. (2020).The contingent effct of job automating technology awarenesson perceived job insecurity: Exploring the moderating role of organizational culture.Technological Forecasting and Social Change,161,120302. htps:/doi.org/10.1016/j.techfore.2020.120302   
+Low, C., Chen, Y.,& Wu, M. (2011). Understanding the determinants of cloud computing adoption.Industrial Management & Data Systems,111(7),1006-1023. htp://oi.0rg/10.1108/02635571111161262   
+Madhavan,P.,& Philips,R.R. (2010). Efects ofcomputer self-efficacy and system reliability onuser interaction withdecisionsupportsystems.ComputersinHumanBehavior;26(2),199-204. https://doi.0rg/10.1016/j.chb.2009.10.005   
+Marchewka, J.,& Kostiwa, K. (2007). Anapplication of the UTAUT model for understanding student perceptions
+
+using course management software. Communications of the IMA,7(2),92-104.
+
+Martin，B.(1996).Technological vulnerability. Technology in Society, 18(4), 511-523. https://doi.0rg/10.1016/S0160-791X(96)00029-2
+
+Matikiti,R.,Mpinganjira,M.,&Roberts-Lombard,M.(2018).Applicationof the Technology Acceptance Model and the Technology-Organization-Environment Model to examine social media marketing use in the South African tourism industry. South Africa Journal of Information Management, 20(1)， a790. https://doi.org/10.4102/sajim.v20i1.790
+
+Mayer,R.,Davis,J.，& Schoorman,F. (1995).An integrative model of organizational trust.The Academy of Management Review,20(3),709-734. https://doi.org/10.5465/amr.1995.9508080335
+
+McCoy,S., Galetta,D.,& King, W. (2oo7).Applying TAMacrosscultures: the need for caution.European Journal ofInformation Systems,16(1),81-90.https://doi.org/10.1057/palgrave.ejis.3000659
+
+McKnight,D.H.,& Chervany,N.L.(200l).What trust means in e-commerce customer relationships: An interdisplinary conceptual typology. International Journal of Electronic Commerce， 6(2)，35-60. https://doi.0rg/10.1080/10864415.2001.11044235
+
+McKnight,D.H.,Carter,M.,Thatcher,J.B,&Clay,P.L. (2O11).Trust ina specific technology: Aninvestigation of its components and measures. ACM Transactions on Management Information Systems,2(2),12-31. https://doi.0rg/10.1145/1985347.1985353
+
+McKnight,D.,Choudhury,V.,& Kacmar,C.(2Oo2).Developing and validating trust measures for e-commerce: An integrative typology. Information System Research,13(3),334-359.
+
+Meng,D.,Min, Q.,& Li,Y.(2008). Study on trust in mobile commerce adoption: A conceptual framework. Proceedings of the 2008 International Symposium on Electronic Commerce and Security, 246-249. https://doi.ieeecomputersociety.org/10.1109/ISECS.2008.54
+
+Metwally,D.,Ruiz-Palomino,P.,Metwaly,M.,& Gartzia,L.(2019).How ethical leadership shapes employees’ readiness to change: the mediating role of an organizational culture of effectivenessFrontier in Psychology, 10,1-18.https://doi.org/10.3389/fpsyg.2019.02493
+
+Michaelis,B.,Stegmaier,R.& Sonntag,K. (20l0).Shedding light on follwers'innovation implementation behavior: The role of transformational leadership,commitment to change,and climate for initiative.Journal ofManagerial Psychology,25(4), 408-429. https://doi.org/10.1108/02683941011035304
+
+Mishra,A.(1996).Organizationalresponses tocrisis:Thecentralityof trust.InKramer,Roderick,M.,&ThomasT. (Eds.), Trust in Organizations (pp.261-287). Newbury Park, CA: Sage.
+
+Molinillo,S.,&Japutra,A. (2O17).Organizational adoption of digital informationand technology: A theoretical review. The Bottom Line,30(1),33-46.https://doi.org/10.1108/BL-01-2017-0002
+
+Mosley,D.C.,Boyar,S.L., Carson, C.M.,&Pearson,A. W. (2oo).Aproduction self-eficacy scale: An exploratory study.JournalofManagerial Issues,20(2),272-285.
+
+Muir,B.M.,& Moray,N. (1996). Trust in automation: PartII-Experimental studies of trust and human intervention in a process control simulation. Ergonomics,39(3), 429-460. htps://doi.org/10.1080/00140139608964474   
+Ngai,E. W.,Law, C.C., Chan,S.C.,& Wat,F.K. (208).Importance ofthe intermet to human resource practitioners in Hong Kong. Personnel Review,37(1),66-84. htp://dx.doi.org/10.1108/00483480810839978   
+Oliveira,T.，& Martins M.(201o). Understanding e-businessadoption across industries in European countries. Industrial Management & Data System, 110(9),1337-1354.   
+Orlikowski, W.J. (1992). The duality of technology: Rethinking the concept of technology in organizations. Organization Science,3(3), 398-427.   
+Park,K.,Park,N.,& Heo,W. (2O18). Factors influencing intranet acceptance in restaurant industry: Use of TechnologyAcceptanceModel.ConsumerSciencesFacultyPublications，1(10)，15. https://openprairie.sdstate.edu/consumer-sci_pubs/15   
+Pavlou,P.A.(2oo3).Consumeracceptanceofelectroniccommerce: Integrating trustandrisk with thetechology acceptance model. International Journal of Electronic Commerce, 7(3), 101-134. https://doi.0rg/10.1080/10864415.2003.11044275   
+Qin, X.,Shi,Y.,Lyu, K.,& Mo,Y.(2020). Using a TAM-TOE model to explore factors of Building Information Modeling (BIM) adoption in the construction industry. Journal of Civil Engineering and Management, 26(3), 259-277. htps://doi.org/10.3846/jcem.2020.12176   
+Ramamoorthy,N.,Kulkarni, S.P., Gupta,A.,& Flood,P. C.(207).Individualism-collectivism orientation and employee atitudes: Acomparison of employees from the high-technology sector in India and Ireland. Journal of International Management,13(2),187-203. https://doi.org/10.2139/ssrn.2147356   
+Rogers,E. M. (1962). Diffusion of Innovations.New York, NY: Free Press of Glencoe.   
+Rupp,M.A.,Michaelis,J.R.,McConnell,D.S.,& Smither,J.A.(2016).The impactoftechnological trustandselfDetermined Motivation on Intentions to use Wearable Fitness Technology. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 60(1),1434-1438. https://doi.org/10.1177/1541931213601329   
+Salanitri,D.,Lawson,G.,& Waterfield,B.(2016).The relationship between presenceand trust in virtual reality. ProceedingsoftheEuropean Conference on Cognitive Ergonomics, 1-4. https://doi.0rg/10.1145/2970930.2970947   
+Schepers, J.,& Wetzels, M. (2007). A meta-analysis of the technology acceptance model: Investigating subjective norm and moderation effects. Information & Management, 44(1), 90-103. https://doi.0rg/10.1016/j.im.2006.10.007
+
+Scott，S.,& Bruce,R.(1994).Determinantsof innovative behavior:A path model of individual innovation in the workplace.The Academy ofManagement Journal,37(3),580-607. htps://doi.org/10.5465/256701
+
+Sun, S.,Lee,P.,& Law,R. (2o19). Impact of cultural values on technology acceptance and technology readiness. International Journal of Hospitality Management,77,89-96. htps://doi.org/10.1016/j.ijhm.2018.06.017   
+Sun,S.,Lee,P.C.,LawR,&Zong,L. ().eimpactofclturalvuesontheaeptanceofoteltechnology adoption from the perspective of hotel employees. Journal of Hospitality and Tourism Management, 44,61- 69.https://doi.0rg/10.1016/j.jhtm.2020.04.012   
+Taherdoost， H. (2018).A review of technology acceptance and adoption models and theories. Procedia Manufacturing,22, 960-967. htps://doi.org/10.1016/j.promfg.2018.03.137   
+Tams,S., Thatcher, J.B.,& Craig, K. (2O18). How and why trust matters in post-adoptive usage: The mediating roles of internal and external self-eficacy. The Journal of Strategic Information Systems,27(2),170-190. https://doi.org/10.1016/j.jsis.2017.07.004   
+Tan,W.K.A.,& Sundarakani,B. (2020).Asessing Blockchain Technology application for freightbooking business: A case study from Technology Acceptance Model perspective.Journal of Global Operations and Strategic Sourcing. Advance online publication. https:/doi.org/10.1108/JGOSS-04-2020-0018   
+Tarhini,A.,Hone,K.,Liu, X.,&Tarhini,T. (2o17).Examining the moderating efectof individual-level cultural values on users'acceptance ofE-learning in developing countries: a structural equation modeling ofan extended technology acceptance model.InteractiveLearningEnvironments，25(3),306-328. https://doi.0rg/10.1080/10494820.2015.1122635   
+Tornatzky,L.,Fleischer,M.,& Chakrabarti,A. (1990).ProcessesofTechnological Innovation.Lexington,MA: D.C. Heath & Company.   
+Tost,L.P., Gino,F.,& Larrck,R.L.(2013). When power makes others speechless: The negative impact of leader poweronteamperformance.AcademyofManagementJournal，56,1465-1486. https://doi.0rg/10.5465/amj.2011.0180   
+Tseng,S.M.(2O17). Investigating the moderating efects of organizational culture and leadership style on ITadoption and knowledge-sharing intention.Journal of Enterprise Information Management,30(4),583-604. https://doi.0rg/10.1108/JEIM-04-2016-0081   
+Venkatesh, V., Morris,M.,Davis,G.,& Davis,F.(2o03). User acceptance of information technology: Toward a unified view. MIS Quarterly,27(3), 425-478. https://doi.org/10.2307/30036540   
+Weng,C.H.,& Tang,Y. (2014).The relationship between technology leadership strategies and effectiveness of schooladministration:Anempiricalstudy.Computers&Education,76, 91-107. http://dx.doi.org/10.1016/j.compedu.2014.03.010.   
+Yan,J.,Zhai, C.,& Zhao,F.(2oo9).An empirical studyon influence factors of organizations to adopt B2BEmarketplace in China. Proceedings - International Conference on Management and Service Science. https://doi.0rg/10.1109/ICMSS.2009.5302980.   
+Yang,Z.， Sun, J.，Zhang, Y.，& Wang, Y. (2015). Understanding SaaS adoption from the perspective of organizational users:a tripod readinessmodel.Computersin Human Behavior, 45(4)， 254-264. https://doi.org/10.1016/j.chb.2014.12.022   
+Yoon,S.J. (2o02).The antecedents and consequences of trust in online-purchase decisions.Journal of Interactive Marketing,16 (2),47-63.https://doi.org/10.1002/dir.10008   
+Yu,M.C.,Mai,Q.,Tsai, S.B.,Dai,Y.(2Ol8).Anempirical studyontheorganizational trust,employee-organization relationship and innovative behavior from the integrated perspective of social exchange and organizational sustainability. Sustainability,10(3),864. htps://doi.org/10.3390/su10030864   
+Yuan,Y.H.,Tsai,S.B.,Dai,C.Y.,Chen,H.M.,Chen,W.F.,Wu, C.H.,..Wang,J. (2017).An empiricalresearch on relationships between subjective judgement, technology acceptance tendency and knowledge transfer. PLoS ONE,12(9), e0183994. https://doi.org/10.1371/journal.pone.0183994   
+Yue,C.A.,Men,L.R.,&Ferguson,M.A. (20l9).Bridging transformational leadership,transparent communication, and employee openness to change: The mediating role of trust. Public Relations Review,45(3),101779. https://doi.org/10.1016/j.pubrev.2019.04.012   
+Zhang,X., Han,X.,Dang,Y.,Meng,F., Guo,X.,&Lin,J. (2O17). Useracceptance of mobile health services from users'perspectives: The role of self-efficacy and response-efficacy in technology acceptance.Informatics for Health and Social Care,42(2),194-206.https://doi.org/10.1080/17538157.2016.1200053   
+Zhou,T.,Lu, Y.,& Wang,B.(2010). Integrating TTF and UTAUT to explain mobile banking user adoption. Computers in Human Behavior,26(4),760-767.https://doi.org/10.1016/j.chb.2010.01.013 （通讯作者：徐禕，E-mail:xyphoebe@sjtu.edu.cn）   
+作者贡献声明\*：   
+徐禕：提出研究思路，设计研究方案，论文起草修订。
+
+刘艺璇：文献综述，论文起草修订。

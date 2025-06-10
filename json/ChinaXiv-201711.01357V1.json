@@ -1,0 +1,652 @@
+[
+    {
+        "type": "text",
+        "text": "小麦秸与非常规饲料组合效应的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孟梅娟 涂远璐 白云峰\\* 严少华高立鹏 刘萍刘建(江苏省农业科学院动物科学基地，南京210014)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在探讨小麦秸与非常规饲料间的组合效应。利用体外产气法，评价了小麦秸与喷浆玉米皮、大豆皮、橘子皮和苹果渣分别按0:100、25:75、50:50、75:25、100:0 比例进行组合的 $4 8 \\mathrm { { h } }$ 体外发酵总挥发性脂肪酸（TVFA）浓度和干物质降解率（DMD）、酸性洗涤纤维降解率（ADFD）、中性洗涤纤维降解率（NDFD）以及其组合效应。结果表明：1)在小麦秸与喷浆玉米皮、大豆皮、橘子皮、苹果渣的各组合中，当小麦秸比例为 $2 5 \\%$ 时，TVFA浓度均大于小麦秸比例为 $5 0 \\%$ 、 $7 5 \\%$ 、 $100 \\%$ 时。2）随着小麦秸比例的增大，小麦秸与喷浆玉米皮、大豆皮、橘子皮、苹果渣组合的DMD逐渐降低，小麦秸与喷浆玉米皮、大豆皮组合各比例之间的DMD差异显著（ $. P { < } 0 . 0 5 \\$ )。3）随着小麦秸比例的增大，小麦秸与大豆皮组合的NDFD和ADFD逐渐降低，各比例之间差异显著（ $( P { < } 0 . 0 5 )$ 。在小麦秸与橘子皮的组合中，当小麦秸比例为 $5 0 \\%$ 时，NDFD和ADFD最大。4）当小麦秸比例为 $5 0 \\%$ 时，小麦秸与橘子皮、苹果渣的组合对 NDFD 和ADFD 的组合效应值最大，显著高于其他各比例（ $P { < } 0 . 0 5 \\$ ；当小麦秸比例为 $7 5 \\%$ 时，小麦秸与喷浆玉米皮的组合对NDFD和ADFD的组合效应值最大，显著高于其他各比例（ $_ { ( P < 0 . 0 5 ) }$ 。综上所述，小麦秸与大豆皮、喷浆玉米皮的最优组合是75:25。小麦秸与橘子皮、苹果渣的最优组合是50:50。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：小麦秸；非常规饲料；挥发性脂肪酸；降解率；组合效应中图分类号：S816.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "饲料间组合效应是指不同饲料来源的营养物质、非营养物质以及抗营养物质间互作的整体效应[]。饲粮中饲料间的不同搭配以及饲料中易发酵碳水化合物、易降解纤维含量和脂肪的添加等均会对饲粮中单个饲料的消化率和利用率产生影响。我国是一个农业大国，每年产生大量的农作物秸秆，但是大部分秸秆被丢弃、浪费，用作饲料的还不足 $10 \\%$ 。农作物秸秆由于含有较高的纤维素以及较低的粗蛋白质（CP)，当其作为反刍动物粗饲料时，易受到细胞壁木质化程度的影响，从而导致动物对其消化利用率较低[2]。因此，利用饲料间的组合效应，使小麦秸（wheat straw，WS）与其他粗饲料合理搭配，可有效提高反刍动物对饲料尤其是低质粗饲料（农作物秸秆、低质牧草等）的采食量和利用率。这不仅可以保障养羊生产饲粮中足够且优质的纤维素营养，还可以缓解当前我国快速发展的肉羊产业与饲料资源紧张的矛盾。Abduirazak 等[3研究表明，在玉米秸秆基础饲粮中，补饲豆科牧草可以提高玉米秸秆的消化率。Makkar等[4]研究发现，花生干草对低质牧草的采食量有促进作用。Caton 等[5]认为低质粗饲料补饲蛋白质饲料后，能提高饲料的消化率。Silva等[研究发现，在大麦秸秆饲粮中补充甜菜渣，能显著提高秸秆的消化率和采食量。张吉鹃等[7研究表明，在以稻草为基础饲粮中补饲首蓿可提高体外消化率，其中以添加 $40 \\% \\sim 6 0 \\%$ 的首蓿效果较好。虽然对劣质牧草补充少量易发酵碳水化合物能促进纤维物质的消化，在消化率上可产生正组合效应，但若大量补饲易发酵碳水化合物，会使饲粮纤维物质消化率下降[8]。Qrskov 等[9研究发现，当饲粮含 $70 \\%$ 的压扁大麦时，氨化秸秆的消化率从 $5 3 \\%$ 下降到 $2 2 \\%$ 。因此，利用不同饲料间的正组合效应改善反刍动物体内的营养平衡，促进营养物质在瘤胃内发酵，可有效提高秸秆饲料的利用率[10]。利用秸秆与其他高纤维非常规原料组合效应是提高秸秆饲喂效果又一途径。因此，本研究旨在以体外消化率为指标，探讨低质的小麦秸与其他优质的非常规饲料的组合效应，来研究小麦秸与非常规饲料的组合搭配，为小麦秸在实际生产中应用提供科学依据，进而为反刍动物对非常规饲料的消化利用提供理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来南方农区常用的粗饲料小麦秸（宁麦13)；农产品加工副产物：大豆皮（soybeanhull，SH）、喷浆玉米皮（spouting corn bran，SCB)；果渣类：橘子皮（orange peel，OP）、苹果渣（apple pomace，AP)。大豆皮是大豆制油工艺的副产品，来自南京市某加工厂，喷浆玉米皮是用玉米加湿后生产淀粉及胚芽后的副产品，购自宿迁市述阳县某加工厂，橘子皮、苹果渣是新鲜水果经粉碎、压榨提汁后的剩余物经过晾晒或烘干后的产品，购自江苏丰县。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 化学成分分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将采集的饲料原料粉碎过40 目筛，75℃烘干至恒重备用，按常规方法（AOAC，2000）[1测定试验样品的干物质（DM)、粗蛋白质、粗灰分（Ash)含量及总能(GE)，采用Van Soest等[12]方法测定中性洗涤纤维（NDF）及酸性洗涤纤维（ADF）含量。经测定小麦秸与非常规饲料的营养成分见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f86efc1801588d54b9ce1de36157bee27250473318cc9dc76f47abb83c5e695c.jpg",
+        "table_caption": [
+            "表1小麦秸与非常规饲料的营养成分 (干物质基础)",
+            "Table 1Nutrient composition of wheat straw and non-conventional feed (DM basis) $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>干物质</td><td>粗蛋白质</td><td>中性洗涤纤维</td><td>酸性洗涤纤维</td><td>粗灰分</td><td>有机物</td></tr><tr><td>Items</td><td>DM</td><td>CP</td><td>NDF</td><td>ADF</td><td>Ash</td><td>OM</td></tr><tr><td>小麦秸WS</td><td>90.94</td><td>4.92</td><td>67.08</td><td>42.06</td><td>9.04</td><td>81.90</td></tr><tr><td>大豆皮 SH</td><td>90.58</td><td>8.09 19.58</td><td>62.56 40.27</td><td>46.64 10.26</td><td>4.21 6.16</td><td>86.37 85.66</td></tr><tr><td>喷浆玉米皮 SCB 苹果渣 AP</td><td>91.82 90.12</td><td>7.96</td><td>45.85</td><td>32.62</td><td>1.76</td><td>88.36</td></tr><tr><td>橘子皮OP</td><td>90.19</td><td>9.05</td><td>50.33</td><td>28.03</td><td>1.93</td><td>88.26</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 体外培养试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 发酵底物与试验分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将小麦秸分别与大豆皮、喷浆玉米皮、橘子皮、苹果渣在干物质基础上以0:100、25:75、",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "50:50、75:25、100:0的比例进行组合。每个比例3个重复，同一批次中设定空白对照组，即为没有发酵底物，仅有瘤胃液和培养液。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 瘤胃液的收集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "瘤胃液来自3头装有永久性瘘管的波尔山羊，单独饲喂，每天07:00 和17:00饲喂。收集足够的瘤胃液，置于经39℃预热并充满二氧化碳的塑料瓶内，混合均匀后用4层纱布过滤，整个操作过程在厌氧条件下完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 培养基的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人工唾液的配制参考Menke等[13]的方法，培养基由A、B、C、D和E共5部分溶液组成，各部分组成如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "溶液A:微量元素溶液，配制方法为每 $1 0 0 ~ \\mathrm { { m L } }$ 蒸馏水加 $\\mathrm { C a C l _ { 2 } \\bullet 2 H _ { 2 } O \\ 1 3 . 2 \\ g , M n C l _ { 2 } \\bullet 4 H _ { 2 } O }$ $1 0 . 0 \\ \\mathrm { g }$ ， $\\mathrm { C o C l _ { 2 } { \\bullet 6 6 H _ { 2 } O \\ 1 . 0 \\ g } }$ ， $\\mathrm { F e C l _ { 3 } } { \\bullet } 6 \\mathrm { H _ { 2 } O } 8 . 0 \\ \\mathrm { g } _ { \\mathrm { c } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "溶液B：缓冲液，配制方法为每 $1 0 0 0 { \\mathrm { m L } }$ 蒸馏水加 $\\mathrm { N H _ { 4 } H C O _ { 3 } 4 . 0 \\ : g }$ ， $\\mathrm { N a H C O } _ { 3 } 3 5 . 0 \\mathrm { g }$ 现用现配。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "溶液C：常量元素溶液，配制方法为每 $1 0 0 0 { \\mathrm { m L } }$ 蒸馏水加 $\\mathrm { N a _ { 2 } H P O _ { 4 } } { \\bullet 1 2 } \\mathrm { H _ { 2 } O } 9 . 4 5 \\ \\mathrm { g }$ $\\mathrm { K H _ { 2 } P O _ { 4 } 6 . 2 g }$ ， $\\mathrm { M g S O _ { 4 } } { \\bullet 7 } \\mathrm { H _ { 2 } O } \\left( \\mathrm { 0 } . 6 \\ \\mathrm { g } \\right.$ ，现用现配。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "溶液D： $0 . 1 \\%$ 刃天青溶液，配制方法为每 $1 0 0 ~ \\mathrm { { m L } }$ 蒸馏水加 $1 0 0 \\mathrm { m g }$ 刃天青。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "溶液E：还原剂溶液，配制方法为每 $1 0 0 ~ \\mathrm { { m L } }$ 蒸馏水加1mol/LNaOH4.0 mL, $\\mathrm { N a _ { 2 } S { \\bullet 9 } H _ { 2 } O }$ $6 2 5 ~ \\mathrm { { m g } }$ ，现用现配。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "瘤胃微生物培养液以人工唾液与瘤胃液以9:1的比例混合配制，并按表2顺序和比例配制瘤胃微生物培养液。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed1cf640d953faa86da3d8ca90b075d8449096e55349df6d50559caf289f41b9.jpg",
+        "table_caption": [
+            "表2人工唾液配制",
+            "Table 2The compound of artificial saliva mL "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>顺序Order</td><td>微生物培养液 Microbial culture</td><td>体积 Volume</td></tr><tr><td>1</td><td>蒸馏水 Distilled water</td><td>520.2</td></tr><tr><td>2</td><td>溶液ASolution A</td><td>0.1</td></tr><tr><td>3</td><td>溶液B Solution B</td><td>208.1</td></tr><tr><td>4</td><td>溶液C Solution C</td><td>208.1</td></tr><tr><td>5</td><td>溶液 D Solution D</td><td>1.0</td></tr><tr><td>6</td><td>溶液 E Solution E</td><td>62.4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4体外发酵和发酵时间",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将处理好的样品称1g于相应的发酵瓶（ $1 6 0 ~ \\mathrm { m L }$ ）中。向发酵瓶中加入 $9 0 ~ \\mathrm { m L }$ 人工唾液和 $1 0 ~ \\mathrm { m L }$ 瘤胃液。将发酵瓶置于恒温水浴箱（ $3 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ）中恒温培养 $4 8 \\mathrm { h }$ 。为了消除操作顺序和恒温水 浴摇床条件的差异，将空白对照组和标准对照组平均分布于试验前期、中期和后期，放置于水浴摇床的不同位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4发酵液 pH的测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "终点时冰浴终止发酵，于每个发酵瓶取 $5 \\mathrm { m L }$ 发酵液，测 $\\mathrm { \\ p H }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5发酵液中总挥发性脂肪酸（TVFA）浓度的测定 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照Zhang等[14]的方法。发酵至终点后收集发酵液 $3 \\mathrm { m L }$ 于加有 $0 . 6 \\mathrm { m L } 2 5 \\%$ 的偏磷酸(按照5:1的比例混合）的 $5 \\mathrm { m L }$ 的离心管中，冻存于 $- 2 0 \\mathrm { ~ \\textdegree C }$ 冰箱内，备测TVFA浓度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TVFA浓度测定中仪器色谱条件如下：色谱柱为中科安泰毛细管柱（ $3 0 \\mathrm { m } { \\times } 0 . 3 2 \\mathrm { m m } { \\times } 0 . 5$ $\\mu \\mathrm { m } .$ ），进样口 $1 9 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，检测器 $2 2 0 \\mathrm { ~ \\textdegree ~ }$ 。柱温升温程序：初始温度 $1 4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，保持 $1 \\mathrm { m i n }$ ，然后以 $1 0 \\ \\mathrm { ^ { \\circ } C / m i n }$ 升温速率升到 $1 9 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，保持 $2 \\mathrm { m i n }$ 。进样口压力 $8 2 . 7 4 \\mathrm { { k p a } }$ ；气体流速：载气氮气 $4 5 ~ \\mathrm { m L / m i n }$ ，氢气 $4 0 \\mathrm { m L / m i m }$ ，空气 $1 5 0 ~ \\mathrm { m L / m i n }$ ，进样量 $1 ~ \\mu \\mathrm { L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6发酵底物干物质以及纤维降解率的测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "把全部发酵液转移到 $5 0 ~ \\mathrm { m L }$ 离心管中，经 $2 0 ~ 0 0 0 \\times g$ 离心 $1 0 ~ \\mathrm { { m i n } }$ 后，弃去上清液，将  \n沉淀物无损转移到钳锅中，于烘箱中 $7 5 \\ \\mathrm { ~ \\textdegree C }$ ，烘 $1 2 \\mathrm { ~ h ~ }$ 后称重记录，并测定沉淀物的NDF及  \nADF的含量。降解率计算公式如下：  \n干物质降解率（DMD， $\\%$ ） $\\scriptstyle = [$ （底物质量-残渣质量）/底物质量 $] { \\times } 1 0 0$   \n中性洗涤纤维降解率（NDFD， $\\%$ ） $\\boldsymbol { \\mathbf { \\rho } } = \\boldsymbol { \\mathbf { \\rho } } [ \\$ （底物质量 $\\times$ 底物NDF含量-残渣质量 $\\times$ 残渣NDF含量）  \n/（底物质量 $\\times _ { \\cdot }$ 底物NDF含量） $] \\times 1 0 0$   \n酸性洗涤纤维降解率（ADFD， $\\%$ ） $\\boldsymbol { \\mathbf { \\rho } } = \\boldsymbol { \\mathbf { \\rho } } [ \\$ （底物质量 $\\times$ 底物ADF含量-残渣质量 $\\times$ 残渣ADF含量）  \n/（底物质量 $\\times .$ 底物ADF含量） $] { \\times } 1 0 0$   \n1.7中性洗涤可溶物（NDS）和半纤维素（HC）的计算NDS=1-NDF;HC=NDF-ADF。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8 组合效应指数计算",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "小麦秸与非常规饲料组合效应的计算参考Zhang等[14]的方法。  \n组合效应值 $\\scriptstyle = [$ （实测值-加权估算值）/加权估算值 $] { \\times } 1 0 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：实测值为实际测定的样品消化率；加权估算值 $\\mathbf { \\tau = A }$ 饲料实测值 $\\mathbf { \\times A }$ 饲料配比 $+ \\mathbf { B }$ 饲料实测值 $\\mathbf { \\nabla } \\times \\mathbf { B }$ 饲料配比。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.9 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用 SAS8.0软件包对试验数据进行单因素方差分析和显著性检验，多重比较采用单因素方差分析（one-wayANOVA）中的Duncan氏法进行统计分析， $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同比例小麦秸与非常规饲料组合的营养成分",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1和表3可知，小麦秸的NDF、ADF 含量均高于喷浆玉米皮、大豆皮、苹果渣和橘子皮，粗蛋白质含量低于喷浆玉米皮、大豆皮、苹果渣和橘子皮，小麦秸分别与喷浆玉米皮、大豆皮、苹果渣和橘子皮组合后 NDF、ADF含量均随着小麦秸比例的增加而增加，粗蛋白质含量随着小麦秸比例的增加而降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3小麦秸与非常规饲料组合营养成分(干物质基础)",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/00203ac203113421d01caeb9a9147c1952ba6da7a68fd9a5f1d7c38f90989fcc.jpg",
+        "table_caption": [
+            "Table 3Nutrient composition of combination of wheat straw with non-conventional feed (DM "
+        ],
+        "table_footnote": [
+            "2.2不同比例小麦秸与非常规饲料组合对体外发酵pH的影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">basis) %</td></tr><tr><td></td><td></td><td></td><td>粗蛋白</td><td>中性洗涤纤</td><td>酸性洗涤纤</td><td>粗灰分</td><td></td><td>中性洗涤可溶</td><td>半纤维</td></tr><tr><td>项目 Items</td><td>比例 Proportion</td><td>干物质 DM</td><td>质</td><td>维</td><td>维</td><td>Ash</td><td>有机物 OM</td><td>物</td><td>素</td></tr><tr><td></td><td></td><td></td><td>CP</td><td>NDF</td><td>ADF</td><td></td><td></td><td>NDS</td><td>HC</td></tr><tr><td></td><td>0:100</td><td>91.82</td><td>19.58</td><td>40.27</td><td>10.26</td><td>6.16</td><td>85.66</td><td>59.73</td><td>30.01</td></tr><tr><td>小麦秸：喷</td><td>25:75</td><td>91.60</td><td>15.92</td><td>46.97</td><td>18.21</td><td>6.88</td><td>84.72</td><td>53.03</td><td>28.76</td></tr><tr><td>浆玉米皮</td><td>50:50</td><td>91.38</td><td>12.25</td><td>53.68</td><td>26.16</td><td>7.60</td><td>83.78</td><td>46.33</td><td>27.52</td></tr><tr><td>WS:SCB</td><td>75:25</td><td>91.16</td><td>8.59</td><td>60.38</td><td>34.11</td><td>8.32</td><td>82.84</td><td>39.62</td><td>26.27</td></tr><tr><td></td><td>100:0</td><td>90.94</td><td>4.92</td><td>67.08</td><td>42.06</td><td>9.04</td><td>81.90</td><td>32.92</td><td>25.02</td></tr><tr><td></td><td>0:100</td><td>90.58</td><td>8.09</td><td>62.56</td><td>46.64</td><td>4.21</td><td>86.37</td><td>37.44</td><td>15.92</td></tr><tr><td>小麦秸：大</td><td>25:75</td><td>90.73</td><td>7.30</td><td>63.69</td><td>45.50</td><td>5.42</td><td>85.31</td><td>36.31</td><td>18.19</td></tr><tr><td>豆皮</td><td>50:50</td><td>90.87</td><td>6.51</td><td>64.82</td><td>44.35</td><td>6.63</td><td>84.25</td><td>35.18</td><td>20.47</td></tr><tr><td>WS:SH</td><td>75:25</td><td>91.02</td><td>5.71</td><td>65.95</td><td>43.21</td><td>7.83</td><td>83.18</td><td>34.05</td><td>22.74</td></tr><tr><td></td><td>100:0</td><td>90.94</td><td>4.92</td><td>67.08</td><td>42.06</td><td>9.04</td><td>81.90</td><td>32.92</td><td>25.02</td></tr><tr><td></td><td>0:100</td><td>90.12</td><td>7.96</td><td>45.85</td><td>32.62</td><td>1.76</td><td>88.36</td><td>54.15</td><td>13.23</td></tr><tr><td>小麦秸：苹</td><td>25:75</td><td>90.33</td><td>6.35</td><td>51.16</td><td>34.98</td><td>3.58</td><td>86.75</td><td>48.84</td><td>16.18</td></tr><tr><td>果渣</td><td>50:50</td><td>90.53</td><td>5.88</td><td>56.47</td><td>37.34</td><td>5.40</td><td>85.13</td><td>43.53</td><td>19.13</td></tr><tr><td>WS:AP</td><td>75:25</td><td>90.74</td><td>5.40</td><td>61.77</td><td>39.70</td><td>7.22</td><td>83.52</td><td>38.23</td><td>22.07</td></tr><tr><td></td><td>100:0</td><td>90.94</td><td>4.92</td><td>67.08</td><td>42.06</td><td>9.04</td><td>81.90</td><td>32.92</td><td>25.02</td></tr><tr><td></td><td>0:100</td><td>90.19</td><td>9.05</td><td>50.33</td><td>28.03</td><td>1.93</td><td>88.26</td><td>49.67</td><td>22.30</td></tr><tr><td>小麦秸：橘</td><td>25:75</td><td>90.38</td><td>8.02</td><td>54.52</td><td>31.54</td><td>3.71</td><td>86.67</td><td>45.48</td><td>22.98</td></tr><tr><td>子皮</td><td>50:50</td><td>90.57</td><td>6.99</td><td>58.71</td><td>35.05</td><td>5.49</td><td>85.08</td><td>41.30</td><td>23.66</td></tr><tr><td>WS:OP</td><td>75:25</td><td>90.75</td><td>5.95</td><td>62.89</td><td>38.55</td><td>7.26</td><td>83.49</td><td>37.11</td><td>24.34</td></tr><tr><td></td><td>100:0</td><td>90.94</td><td>4.92</td><td>67.08</td><td>42.06</td><td>9.04</td><td>81.90</td><td>32.92</td><td>25.02</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，在小麦秸与4种非常规饲料组合的5个比例中，体外发酵 $4 8 \\mathrm { { h } }$ 的 $\\mathsf { p H }$ 都有一定程度的降低，这是由于在发酵过程中酸的产生和累积造成的；小麦秸与大豆皮、小麦秸与喷浆玉米皮、小麦秸与橘子皮组合的5个比例pH与空白对照组差异显著（ $P { < } 0 . 0 5 )$ ，不同比例间 $\\mathsf { p H }$ 的变化无规律可循。在小麦秸与喷浆玉米皮100:0 的组合中， $\\mathrm { \\ p H }$ 最小为6.33。不同饲料组合、比例之间的 $\\mathsf { p H }$ 在瘤胃微生物特别是纤维分解菌生长所需的 $\\mathrm { p H }$ 范围(6.2\\~7.0)内[15-16]，表明体外模拟瘤胃发酵是正常的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4各组合体外发酵 $4 8 \\mathrm { h }$ 的pH",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d38131add2b2642c2a1c492579e9a89fa26843c49edbd1af1fd1c32ab063796a.jpg",
+        "table_caption": [
+            "Table 4pH of each combination of 48h in vitro fermentation $\\scriptstyle ( n = 3 )$ 0 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>比例</td><td>小麦秸：大豆皮</td><td>小麦秸：喷浆玉米皮</td><td>小麦秸：苹果渣</td><td>小麦秸：橘子皮</td></tr><tr><td>Proportion</td><td>WS:SH</td><td>WS:SCB</td><td>WS:AP</td><td>WS:OP</td></tr><tr><td>0:100</td><td>6.40±0.00c</td><td>6.63±0.12b</td><td>6.63±0.12b</td><td>6.50±0.01d</td></tr><tr><td>25:75</td><td>6.43±0.06c</td><td>6.63±0.06b</td><td>6.63±0.12b</td><td>6.50±0.00d</td></tr><tr><td>50:50</td><td>6.43±0.12c</td><td>6.63±0.12b</td><td>6.80±0.01ab</td><td>6.50±0.00d</td></tr><tr><td>75:25</td><td>6.73±0.06b</td><td>6.70±0.00b</td><td>6.43±0.06c</td><td>6.63±0.06c</td></tr><tr><td>100:0</td><td>6.63±0.12b</td><td>6.33±0.06c</td><td>6.80±0.01ab</td><td>6.80±0.01b</td></tr><tr><td>空白对照组</td><td></td><td></td><td></td><td></td></tr><tr><td>Blank control</td><td>6.93±0.01a</td><td>6.93±0.01a</td><td>6.93±0.01a</td><td>6.93±0.01a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "group ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著（ $_ { . } P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )。In the same column, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while withthe same or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同比例小麦秸与非常规饲料组合对体外发酵TVFA浓度的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，在小麦秸与喷浆玉米皮、小麦秸与苹果渣的组合中，TVFA浓度均随着小麦秸比例的增加而逐渐降低。在小麦秸与大豆皮、小麦秸与橘子皮的组合中，TVFA浓度均随着小麦秸比例的增加先降低后升高，并且各组合均在小麦秸比例为 $7 5 \\%$ 时达到最低。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fe3a2e84cb60e1800f894bace763b0c02b644fd969e5b73ae459976ae086d7c.jpg",
+        "table_caption": [
+            "表5各组合体外发酵 $4 8 \\mathrm { h }$ 的总挥发性脂肪酸浓度",
+            "Table 5Total volatile fatty acid concentration of each combination at $4 8 \\mathrm { { h } }$ in vitro fermentation (n=3) mmoL/L "
+        ],
+        "table_footnote": [
+            "同行数据肩标不同小写字母表示差异显著（ $_ { _ { P < 0 . 0 5 } }$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 \\$ )。下表同。In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with th("
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">比例 Proportion</td></tr><tr><td>0:25</td><td>25:75</td><td>50:50</td><td>75:25</td><td>100:0</td></tr><tr><td>小麦秸：大豆皮</td><td>77.15±0.00a</td><td>55.48±0.48b</td><td>46.84±1.39c</td><td>26.05±0.00e</td><td>29.68±1.22d</td></tr><tr><td>WS:SH 小麦秸：喷浆玉米皮</td><td>60.07±0.00a</td><td>55.66±0.26a</td><td>38.17±0.60b</td><td>33.59±4.79b</td><td>29.68±1.22b</td></tr><tr><td>WS:SCB 小麦秸：苹果渣</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WS:AP</td><td>42.63±0.00a</td><td>38.91±5.12b</td><td>35.91±0.00bc</td><td>32.89±2.83b</td><td>29.68±1.22b</td></tr><tr><td>小麦秸：橘子皮</td><td>67.85±13.45a</td><td>45.70±4.07b</td><td>39.79±1.83bc</td><td>27.76±2.95c</td><td>29.68±1.22bc</td></tr><tr><td>WS:OP</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "same orno letter superscripts meanno significant difference $( P { > } 0 . 0 5 )$ .Thesameasbelow. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4不同比例小麦秸与非常规饲料组合对体外发酵DMD 的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，在小麦秸与大豆皮、小麦秸与喷浆玉米皮组合中，随着小麦秸比例的增加，DMD 逐渐降低，各比例之间差异显著（ $_ { . } { \\cdot } _ { } ^ { } ( P { < } 0 . 0 5 )$ 。在小麦秸与苹果渣组合中，随着小麦秸比例的增加，DMD逐渐降低，除小麦秸比例为 $2 5 \\%$ 和 $5 0 \\%$ 之间差异不显著（ $\\cdot P { > } 0 . 0 5$ ）外，其余各比例之间差异显著( $( P { < } 0 . 0 5 )$ )。在小麦秸与橘子皮组合中，随着小麦秸比例的增加，DMD逐渐降低，除小麦秸比例为0和 $2 5 \\%$ 之间差异不显著（ $( P { > } 0 . 0 5 )$ ）外，其余各比例之间差异显著（ $_ { , P < 0 . 0 5 ) }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ea3dc2a91178a7230b4adde970499a761d8088db8f83781d0cc152a00f65a90.jpg",
+        "table_caption": [
+            "Table 6The DMD of each combination in vitro fermentation $( n { = } 3 )$ $\\%$ "
+        ],
+        "table_footnote": [
+            "2.5小麦秸与非常规饲料组合对体外发酵DMD 的组合效应"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">比例Proportion</td></tr><tr><td>0:100</td><td>25:75</td><td>50:50</td><td>75:25</td><td>100:0</td></tr><tr><td>小麦秸：大豆皮WS:SH</td><td>86.68±0.47a</td><td>78.30±0.06b</td><td>68.24±0.47c</td><td>59.43±1.03d</td><td>49.34±1.19e</td></tr><tr><td>小麦秸：喷浆玉米皮WS:SCB</td><td>86.67±0.35a</td><td>78.42±0.28b</td><td>70.59±0.64c</td><td>63.47±0.58d</td><td>49.34±1.19e</td></tr><tr><td>小麦秸：苹果渣 WS:AP</td><td>65.12±0.64a</td><td>62.18±1.37b</td><td>60.58±0.53b</td><td>53.60±0.49c</td><td>49.34±1.19d</td></tr><tr><td>小麦秸：橘子皮 WS:OP</td><td>65.39±0.46a</td><td>63.81±1.16a</td><td>60.92±0.69b</td><td>56.34±1.29c</td><td>49.34±1.19d</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，在小麦秸与大豆皮的组合中，随着小麦秸比例的增加，组合效应值先减小后增大，各比例之间差异显著（ $. P { < } 0 . 0 5 )$ ，当小麦秸比例为 $7 5 \\%$ 时，组合效应值达到最大。在小麦秸与喷浆玉米皮的组合中，随着小麦秸比例的增加，组合效应值逐渐增大，各比例之间差异显著（ $\\cdot P { < } 0 . 0 5 )$ ，当小麦秸比例为 $7 5 \\%$ 时，组合效应值达到最大。在小麦秸与橘子皮和小麦秸与苹果渣的组合中，随着小麦秸比例的增加，组合效应值先增大后减小，当小麦秸比例为 $5 0 \\%$ 时，组合效应值达到最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表7小麦秸与非常规饲料组合对体外发酵干物质降解率的组合效应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b10be7b01de94098c64ceb084a60ad8fa1c1983328c5141ef77b338e4635050.jpg",
+        "table_caption": [
+            "表6各组合体外发酵的干物质降解率",
+            "Table 7 Combination effects of combination of wheat straw with non-conventional feed on ",
+            "DMD in vitro fermentation $\\scriptstyle ( n = 3 )$ % "
+        ],
+        "table_footnote": [
+            "2.6不同比例小麦秸与非常规饲料组合对体外发酵 NDFD 和ADFD 影响"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td colspan=\"3\">比例 Proportion</td></tr><tr><td></td><td>25:75</td><td>50:50</td><td>75:25</td></tr><tr><td>小麦秸：大豆皮WS:SH</td><td>1.23±0.53b</td><td>0.35±1.24c</td><td>2.95±0.86a</td></tr><tr><td>小麦秸：喷浆玉米皮WS:SCB</td><td>1.39±0.96c</td><td>4.77±1.12b</td><td>8.19±0.81a</td></tr><tr><td>小麦秸：苹果渣WS:AP</td><td>1.64±2.03b</td><td>5.87±1.90a</td><td>0.62±2.53c</td></tr><tr><td>小麦秸：橘子皮WS:OP</td><td>4.73±0.23b</td><td>7.34±1.45a</td><td>5.63±3.54ab</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表8和表9可知，在小麦秸与大豆皮、小麦秸与喷浆玉米皮的组合中，随着小麦秸比例的增加，NDFD逐渐降低，小麦秸与大豆皮组合中各比例之间差异显著（ $P { < } 0 . 0 5 )$ ；在小麦秸与大豆皮组合中随着小麦秸比例的增加，ADFD逐渐降低，各比例之间差异显著（ $. P { < } 0 . 0 5 )$ ；在小麦秸与喷浆玉米皮的组合中，当小麦秸比例为0时，NDFD、ADFD 显著高于其他比例( $( P { < } 0 . 0 5 )$ ；在小麦秸与橘子皮组合中，当小麦秸比例为 $50 \\%$ 时，NDFD、ADFD显著高于小麦秸比例为 $2 5 \\%$ 、 $7 5 \\%$ 、 $100 \\%$ 时（ $P { < } 0 . 0 5 \\$ )，与小麦秸比例为0时差异不显著（ $. P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表8各组合的体外发酵中性洗涤纤维降解率",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/72891108074ec213253003642f4864108f8eb60786d18a67bea8ff573e779356.jpg",
+        "table_caption": [
+            "Table 8The NDFD of each combination in vitro fermentation $\\scriptstyle ( n = 3 )$ % "
+        ],
+        "table_footnote": [
+            "表9各组合的体外发酵酸性洗涤纤维降解率"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">比例 Proportion</td></tr><tr><td>0:100</td><td>25:75</td><td>50:50</td><td>75:25</td><td>100:0</td></tr><tr><td>小麦秸：大豆皮 WS:SH</td><td>92.38±0.04a</td><td>83.52±0.17b</td><td>73.40±0.42c</td><td>63.52±0.75d</td><td>52.54±1.12e</td></tr><tr><td>小麦秸：喷浆玉米皮WS:SCB</td><td>89.42±0.10a</td><td>72.87±0.42b</td><td>70.40±0.58b</td><td>65.91±0.78c</td><td>52.54±1.12d</td></tr><tr><td>小麦秸：苹果渣 WS:AP</td><td>58.08±0.02a</td><td>55.98±0.38a</td><td>57.58±0.65a</td><td>52.56±0.99b</td><td>52.54±1.12b</td></tr><tr><td>小麦秸：橘子皮 WS:OP</td><td>67.23±1.35a</td><td>60.47±0.66b</td><td>68.21±0.04a</td><td>58.50±0.61b</td><td>52.54±1.12c</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/920f8d303c0f0d04950473cff29cc2b20f1353c6b32ed7d1eb1a90e73707fc5f.jpg",
+        "table_caption": [
+            "Table 9The ADFD of each combination in vitro fermentation $\\scriptstyle ( n = 3 )$ % "
+        ],
+        "table_footnote": [
+            "2.7小麦秸与非常规饲料组合对体外发酵NDFD 和 ADFD 的组合效应"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"5\">比例Proportion</td></tr><tr><td>0:100</td><td>25:75</td><td>50:50</td><td>75:25</td><td>100:0</td></tr><tr><td>小麦秸：大豆皮 WS:SH</td><td>94.61±0.06a</td><td>88.07±0.04b</td><td>78.74±0.10c</td><td>69.95±0.39d</td><td>56.94±0.94e</td></tr><tr><td>小麦秸：喷浆玉米皮WS:SCB</td><td>89.13±0.69a</td><td>61.24±0.57d</td><td>70.82±0.14b</td><td>67.86±0.49c</td><td>56.94±0.94d</td></tr><tr><td>小麦秸：苹果渣WS:AP</td><td>57.69±0.25b</td><td>54.95±0.49c</td><td>60.56±0.59a</td><td>57.01±0.80bc</td><td>56.94±0.94bc</td></tr><tr><td>小麦秸：橘子皮WS:OP</td><td>74.17±1.46a</td><td>67.93±1.00b</td><td>77.44±0.83a</td><td>64.52±1.02b</td><td>56.94±0.94c</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表10 和表11可知，在小麦秸与大豆皮的组合中，各比例之间的NDFD 组合效应值差异不显著（ $( P { > } 0 . 0 5 )$ ，而 ADFD 的组合效应值随着小麦秸比例的增加而增大。在小麦秸与喷浆玉米皮的组合中，NDFD、ADFD 的组合效应值随着小麦秸比例的增加而增大，各比例之间差异显著（ $P { < } 0 . 0 5 )$ 。在小麦秸与苹果渣、小麦秸与橘子皮的组合中，NDFD、ADFD的组合效应值随着小麦秸比例的增加先增大后降低。当小麦秸比例为 $7 5 \\%$ 时，小麦秸与大豆皮、小麦秸与喷浆玉米NDFD、ADFD 的组合效应值达到最大；当小麦秸比例为 $5 0 \\%$ 时，小麦秸与苹果渣、小麦秸与橘子皮NDFD、ADFD 的组合效应值达到最大，显著高于其他比例（ $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/03b8bbabf7cedbd7a2d67ede470a04b4d7f59927a899e645ffaccc491396b6a8.jpg",
+        "table_caption": [
+            "表10麦秸与非常规饲料组合对体外发酵中性洗涤纤维降解率的组合效应",
+            "Table 10Combination effects of combination of wheat straw with non-conventional feed on NDFD in vitro fermentation $\\scriptstyle ( n = 3 )$ ） $\\%$ （204号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">D 项目Items</td><td colspan=\"3\">70 比例Proportion</td></tr><tr><td>25:75</td><td>50:50</td><td>75:25</td></tr><tr><td>小麦秸：大豆皮WS:SH</td><td>1.34±0.20</td><td>1.29±0.30</td><td>1.63±0.28</td></tr><tr><td>小麦秸：喷浆玉米皮WS:SCB</td><td>-9.14±0.09c</td><td>-0.81±0.10b</td><td>6.73±0.35a</td></tr><tr><td>小麦秸：苹果渣 WS:AP</td><td>-1.26±0.12b</td><td>4.10±0.02a</td><td>-2.54±0.19c</td></tr><tr><td>小麦秸：橘子皮WS:OP</td><td>-4.86±0.02c</td><td>13.90±0.19a</td><td>4.07±0.03b</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表11麦秸与非常规饲料组合对体外发酵酸性洗涤纤维降解率的组合效应",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/038a4ba7da411e544ecd9883cc624278b05967a85a912892fbc6facd80459c50.jpg",
+        "table_caption": [
+            "Table 11 Combination effects of combination of wheat straw with non-conventional feed on "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">ADFD in vitro fermentation (n=3) %</td></tr><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">比例 Proportion</td></tr><tr><td>25:75</td><td>50:50</td><td>75:25</td></tr><tr><td>小麦秸：大豆皮WS:SH</td><td>3.38±0.28b</td><td>3.91±0.48b</td><td>5.42±0.51a</td></tr><tr><td>小麦秸：喷浆玉米皮WS:SCB</td><td>-24.48±0.44c</td><td>-3.04±0.03b</td><td>4.42±0.10a</td></tr><tr><td>小麦秸：苹果渣WS:AP</td><td>-4.44±0.14c</td><td>5.66±0.07a</td><td>-0.21±0.06b</td></tr><tr><td>小麦秸：橘子皮WS:OP</td><td>-2.78±0.26c</td><td>18.13±0.90a</td><td>5.35±0.17b</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1小麦秸与非常规饲料组合对pH和TVFA 浓度的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "瘤胃内稳定的pH对保证瘤胃内的正常发酵具有重要的作用。因为它一方面可以影响微生物蛋白质的合成效率，另一方面还可以影响瘤胃微生物区系的稳定。当底物加入发酵瓶后，体外发酵 $4 8 \\mathrm { { h } }$ 后的pH都有一定程度的降低，这是由于底物被瘤胃液分解生成挥发性脂肪酸（VFA）和二氧化碳，这与Sileshi等[17]的研究结果一致。体外发酵产气 $4 8 \\mathrm { h }$ 后的pH均在6.2\\~7.0正常范围内，这表明体外模拟瘤胃发酵是正常的。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "瘤胃VFA主要来源于饲粮中碳水化合物的发酵，小麦秸与大豆皮、喷浆玉米皮、橘子皮和苹果渣以不同的比例混合，各混合发酵基所含有的不同类型的碳水化合物的比例也就不同，进而影响了瘤胃发酵内环境，不同的瘤胃pH影响瘤胃内微生物的数量以及生长速度，从而影响瘤胃内VFA的产生量。在反刍动物的前段消化道中微生物的发酵作用可以降解$8 0 \\% \\sim 9 0 \\%$ 的具有消化潜力的纤维成分，而其中2/3的可消化碳水化合物将转化为VFA。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2小麦秸与非常规饲料组合对DMD 的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "粗饲料体外发酵特性与采食量、体内降解速率、微生物蛋白质合成存在很高的相关性[18-20]。因此，本试验通过将小麦秸与大豆皮、喷浆玉米皮、苹果渣和橘子皮组合，利用其组合体外发酵特性，来推测其体内发酵状态。在小麦秸中无论以何种比例添加大豆皮、喷浆玉米皮、橘子皮和苹果渣均能提高小麦秸的DMD，并且DMD无论在何比例均呈现正组合效应。这与通过体外产气法以产气量或其他体外发酵指标的评定结果有相似的趋势[21-27]。这表明在以小麦秸为主要粗饲料的饲粮中添加非常规饲料大豆皮、喷浆玉米皮、橘子皮和苹果渣可以改善饲粮的营养不平衡，提高饲粮利用率。小麦秸与大豆皮、喷浆玉米皮、橘子皮和苹果渣组合后，营养成分要比单一大豆皮、喷浆玉米皮、橘子皮、苹果渣以及秸秆的营养组成更合理，其营养物质的供给趋于平衡，有利于微生物的生长和提高微生物的活力，提高其营养物质消化率。或者是在小麦秸中添加非常规饲料大豆皮、喷浆玉米皮、橘子皮和苹果渣可为瘤胃微生物提供可消化纤维，并且大豆皮、喷浆玉米皮、橘子皮和苹果渣的蛋白质含量较高，这为瘤胃微生物生长提供了生长所必需的氨氮、肽与氨基酸及支链脂肪酸。研究表明，将支链脂肪酸添加到低蛋白质饲粮中可以增加瘤胃细菌总数[29]与微生物蛋白质总量[30-31],进而改善纤维的消化[26]。本试验的结果中，在小麦秸与大豆皮、喷浆玉米皮、苹果渣、橘子皮的组合中，在各个比例中出现不同程度的正组合效应，这表明，添加一定比例的非常规饲料对于瘤胃微生物的繁殖是有利的，瘤胃微生物的增殖促进了干物质和有机物的消化降解。本试验中，当小麦秸比例为 $5 0 \\%$ 时，小麦秸与果渣类饲料橘子皮和苹果渣的DMD出现最大正组合效应。当小麦秸比例为 $7 5 \\%$ 时，小麦秸与农产品加工副产物类大豆皮和喷浆玉米皮的DMD出现最大正组合效应。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2小麦秸与非常规饲料组合对体外发酵纤维物质降解的影响 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究表明，供给瘤胃微生物足够的氮源，可以促进动物对纤维物质的消化[19,27]。因此，合适的氮源比例不仅保证了反刍动物的营养需要，还能维持瘤胃内正常的微生物环境[28]。在小麦秸中以任意比例添加大豆皮、喷浆玉米皮、橘子皮和苹果渣均能提高小麦秸的体外纤维物质降解率（除了小麦秸以 $2 5 \\%$ 比例与苹果渣组合外)，这可能是大豆皮、喷浆玉米皮、橘子皮和苹果渣的蛋白质含量较高，为瘤胃微生物生长提供了生长所必需的氨氮、肽与氨基酸及支链脂肪酸有关。研究表明，将支链脂肪酸添加到低蛋白质饲粮中可以增加瘤胃细菌总数与微生物蛋白质总量，进而改善纤维的消化[29-32]。由本试验结果可知，在小麦秸与大豆皮和小麦秸喷浆玉米皮的组合中，随着小麦秸比例的增加，体外纤维物质降解率的组合效应值逐渐增大，在小麦秸与橘子皮和小麦秸与苹果渣的组合中，随着小麦秸比例的增加，体外纤维物质降解率的组合效应值先增大后降低。当小麦秸以 $2 5 \\%$ 、 $7 5 \\%$ 的比例与苹果渣混合、小麦秸以 $2 5 \\%$ 的比例与橘子皮混合，其组合体外NDFD 和ADFD出现不同程度的负组合效应值。虽然在小麦秸中添加一定比例的非常规饲料可以提高小麦秸的体外纤维物质降解率，但是不适宜的添加比例可能出现负组合效应，降低营养物质消化率。因此，在实践生产中，应对饲料进行合理的组合搭配，尽量避免出现负组合效应。由本试验结果可知，当小麦秸比例为 $5 0 \\%$ 时，小麦秸与果渣类饲料橘子皮和苹果渣的体外NDFD 和ADFD 出现最大正组合效应。当小麦秸比例为 $7 5 \\%$ 时，小麦秸与农产品加工副产物类大豆皮和喷浆玉米皮的体外NDFD 和 ADFD 出现最大正组合效应。这可能是由于小麦秸与喷浆玉米皮、大豆皮、苹果渣和橘子皮组合后，不同程度地提高了底物的可发酵物质，从而加快了微生物对可发酵物质的降解速度，产生正组合效应[32]。因此，生产实践中应针对粗饲料（尤其作物秸秆、低质牧草等）营养特性，适当添补高蛋白质粗饲料或可发酵碳水化合物，以发挥其正组合效应，提高低质粗饲料的利用效率，科学利用农作物秸秆饲料资源。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 从TVFA浓度和体外降解率方面考虑，小麦秸与农产品加工副产物类大豆皮、喷浆玉米皮和果渣类橘子皮、苹果渣最优比例搭配为25：75。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 从体外降解率的组合效应方面考虑，小麦秸与农产品加工副产物类大豆皮、喷浆玉米皮最优比例搭配为75:25，小麦秸与果渣类橘子皮、苹果渣最优比例搭配为50:50。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 以小麦秸为主要粗饲料的饲粮，添加非常规饲料喷浆玉米皮、大豆皮、苹果渣和橘子皮可有效改善饲粮营养水平，改善小麦秸的营养不平衡，并且可以有效的提高小麦秸的利用率。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]卢德勋.饲料的组合效应[M].北京:中国农业出版社,2000:289-294.   \n[2]金文刚,张晶,向绍信,等.秸秆焚烧对玉溪市大气 $\\mathbf { P M } _ { 1 0 }$ 的影响解析研究[J].云南环境科 学,2003,22(增刊):83-85.   \n[3]ABDULRAZAK S A,MUINGA R W,THORPE W,et al.Supplementation with Gliricidia sepium and Leucaena leucocephala on voluntary food intake,digestibility,rumen fermentation and liveweightofcrossbredsteersoffered Zeamaysstover[J].Livestock Production Science,1997,49(1):53-62.   \n[4]MAKKAR H P S,BLUMMEL M,BECKER K.In vitro rumen apparent and true digestibilities of tannin-rich forages[J].Animal Feed Science and Technology,1997,67(2/3):245-251.   \n[5] CATON J S,DHUYVETTER D V.Influence of energy supplementation on grazing ruminants: requirements and responses[J].Journal of Animal Science,1997,75(2):533-42.   \n[6]SILVA A T,ORSKOV E R.Fibre degradation in the rumens of animals receiving hay untreated or ammonia-treated straw[J].Animal Feed Science and Technology,1988,19(3):277-287. [7]张吉鹃,刘建新.反刍动物稻草基础日粮补饲苜蓿组合效应的综合评定研究[J].中国奶 牛,2007(7):13-16.   \n[8]MOULD F L,ORSKOV E R,MANN S O.Associative effects of mixed feeds.I.Effects of type and level of supplementation and the influence of the rumen fluid pH on cellulolysis in vivo and dry matter digestionof variousroughages[J].AnimalFeedScience and Technology,1983,10(1):15-30.   \n[9]ORSKOV E R,MACDEARMID A.Utilization of alkali-treated grain by cattle[J].Animal Production,1978,26:401-402.   \n[10]张吉鹃,邹庆华,钟小军.稻草添补矮象草体外发酵组合效应的综合评定研究[J].中国畜 牧杂志,2008,44(21):38-41.   \n[11] HORWITZW,LATIMERGW.OfficialmethodsofanalysisofAOAC international[M].USA:AOAC International Suite,2000:481.   \n[12]VAN SOESTP J,ROBERTSON JB,LEWIS B A.Methods for dietary fiber,neutral detergent fiber and nonstarch polysaccharides in relation to animal nutrition[J].Journal of Dairy Science,1991,74(10):3583-3597.   \n[13]MENKE K H,RAAB L,SALEWSKI A,et al.The estimation of the digestibility and metabolizable energy content of ruminant feedingstuffs from the gas production when they are incubated with rumen liquor in vitro[J].The Journal of Agricultural Science,1979,93(1):217-222. [14]ZHANG J K,LIU J X.Use of in vitro gas production to evaluate associative effects on gas ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "production of rice straw supplemented with lucerne[J].Journal of Animal and Feed Sciences,2007,16(2):156-160. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[15]张吉鹃,包赛娜,李龙瑞.稻草与不同饲料混合在体外消化率上的组合效应研究[J].饲料工业,2010,31(18):35-40.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[16]BLUMMEL M,ORSKOV E R.Comparison of in vitro gas production and nylon bag degradability of roughages in predicting feed intake in catte[J].Animal Feed Science and Technol0gy,1993,40(2/3):109-119. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[17]SILESHI Z,OWEN E,DHANOA M S,et al.Prediction of in situ rumen dry matter disappearance of Ethiopian forages from an in vitro gas production technique using a pressure transducer,chemicalanalysesorinvitrodigestibility[J].AnimalFeedScienceand Technol0gy,1996,61(1/2/3/4):73-87. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[18]KRISHNAMOORTHY U,STEINGASS H,MENKE K H,et al.Preliminary observations on the relationship between gas production and microbial protein synthesis in vitro[J].Archiv Fur Tierernährung,1991,41(5):521-526. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[19]阳伏林,丁学智,史海山,等.苜蓿干草和秸秆组合体外发酵营养特性及其利用研究[J].草业科学,2008,25(3):61-67.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[20]张吉鹃,刘建新.玉米秸秆与苜蓿之间组合效应的综合评定研究[J].饲料博览,2007(5):5-10.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[21]张昌吉,刘哲,郝正里,等.含不同秸秆的全饲粮颗粒料对绵羊瘤胃代谢参数的影响[J].草业科学,2008,25(1):82-86.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[22]刁波,崔占鸿,张晓卫,等.体外产气法评价青海高原小麦秸秆与天然牧草组合效应[J].中 国饲料,2013(8):10-14. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[23]张桂杰,罗海玲,张英俊,等.应用体外产气与活体外消化率法评定盛花期白三叶牧草营养价值[J].中国农业大学学报，2010,15(2):53-58.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[24]孙国强,吕永艳,张杰杰.利用体外瘤胃发酵法研究全株玉米青贮与花生蔓和羊草间的组合效应[J].草业学报，2014,23(3):224-231.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[25]姜旭明,齐智利,齐德生,等.不同蛋白质来源的日粮对瘤胃发酵特性及蛋白质消化的影响[J].草业科学,2009,26(1):74-80.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[26]VAN GYLSWYK N O.The effect of supplementing a low-protein hay on the cellulolytic bacteria in the rumen of sheep and on the digestibility of cellulose and hemicelllose[J].The Journal of Agricultural Science,1970,74(1):169-180. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[27]HEMSLEY JA,MOIR R J.The influence of higher volatile fatty acids on the intake of urea-supplemented low quality cereal hay by sheep[J].Australian Journal of Agricultural ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Research,1963,14(4):509-517. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[28]HUME I D.Synthesis of microbial protein in the rumen.I .A response to higher volatile fatty acids[J].Australian Journal of Agricultural Research,1970,21(2):297-304. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[29]BENTLEY O G,JOHNSON R R,HERSHBERGER T V,et al.Cellulolytic-factor activity of certainshort-chainfattyacidsforrumen microorganismsinvitro[J].Journalof Nutrition,1955,57(3):389-400. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[30]WOOD C D,MANYUCHI B.Use of an in vitro gas production method to investigate interactions between veld hay and Napier hay or groundnut hay supplements[J].Animal Feed Science and Technology,1997,67(4):265-278. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[31] LENG R A,NOLAN J V.Nitrogen metabolism in the rumen[J].Journal of Dairy Science,1984,67(5):1072-1089. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[32]黄定洲,吴秋珏,邵帅,等.不同来源粗蛋白-中性洗涤纤维的体外组合效应[J].江苏农业科学,2010(6):355-358.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Combination Effects on Wheat Straw and Non-Conventional Feeds ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MENG Meijuan TU Yunlu BAI Yunfeng\\* YAN Shaohua GAO Lipeng LIU Ping ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "LIU Jian ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(Animal Science Base of Jiangsu Academy of Agricultural Science, Nanjing 21oo14, China) Abstract: This experiment was conducted to investigate the combination effects of wheat straw (WS) and non-conventional feeds. Combinations of WS with spouting corn bran (SCB), soybean huls (SH), orange peel (OP) and apple pomace (AP) were mixed in the proportion of O:100, 25:75, 50:50,75:25，100:O,respectively，and rumen fermentation in vitro was adopted to evaluate combination effects by analysis of total volatile fatty acids (TVFA） concentration, dry matter degradation rate (DMD), neutral detergent fiber degradation rate (NDFD) and acid detergent fiber degradation rate(ADFD) after $4 8 \\mathrm { ~ h ~ }$ . The results showed as follows: 1) in the combinations of WS with SCB, SH, OP and AP,when the proportion of WS was $2 5 \\%$ , the TVFA concentration was higher than that of the WS proportions of $50 \\%$ ， $7 5 \\%$ and $100 \\%$ . 2）With the increasing of the proportion of WS,the DMD of combinations of WS with SCB， SH, OP and AP gradually decreased; the DMD of combinations of WS with SCB and SH had significant difference in each proportion $( P { < } 0 . 0 5 )$ . 3）With the increasing of the proportion of WS,the NDFD and ADFD of combinations of WS with SCB and SH gradually decreased,and had significant difference in each proportion $( P { < } 0 . 0 5 )$ . In the combination of WS with OP, the NDFD and ADFD were the highest when the proportion of WS was $50 \\%$ . 4) In the combinations of WS with OP and AP,when the proportion of WS was $50 \\%$ , the combination effect values of NDFD and ADFD were the highest, which was significantly higher than the other proportions $( P { < } 0 . 0 5 )$ ； in the combination of WS with SCB,when the proportion of WS was $7 5 \\%$ ，the combination effect values of NDFD and ADFD were the highest, which were significantly higher than the other proportions $( P { < } 0 . 0 5 )$ . It is concluded that the combinations of WS with SH and SCB in proportion of 75:25,and the combination of WS with AP and OP in proportion of 50:50 have the best combination e effects in this experiment. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: wheat straw； non-conventional feeds; volatile fatty acids； degradation rate;combination effects",
+        "page_idx": 15
+    }
+]

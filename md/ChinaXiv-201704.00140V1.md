@@ -1,0 +1,123 @@
+# DOI:10.5846/stxb201511132306
+
+郭佳妮,李保平,孟玲.三种瓢虫集团内捕食卵对初龄幼虫生长发育的影响.生态学报,2017,37(6):1826-1831. GuoJN,eot Ecologica Sinica,2017,37(6) :1826-1831.
+
+# 三种瓢虫集团内捕食卵对初龄幼虫生长发育的影响
+
+郭佳妮,李保平，孟玲\*
+
+南京农业大学植物保护学院/农作物生物灾害综合治理教育部重点实验室，南京210095摘要：种内和种间捕食卵现象常见于对食蚜瓢虫的研究报道中。源自亚洲、入侵北美和欧洲的异色瓢虫（Harmonia axyridis）由于卵含有生物碱而被认为可能是威胁本土瓢虫生存的原因,但该推测只有在明确异色瓢虫在原产地是否对本土瓢虫具有类似负面影响后,才能确证。通过饲喂实验,旨在明确异色瓢虫在原产地是否对本土七星瓢虫（Cocinella septempunctata）和龟纹瓢虫(Propylea japonica)具有食卵负面作用,为揭示异色瓢虫入侵机理提供依据。实验中用蚜虫(对照)和3种瓢虫卵对瓢虫初孵1龄幼虫进行饲喂处理,观察幼虫生长发育指标。对瓢虫初龄幼虫存活表现的分析结果表明：(1)龟纹瓢虫初孵幼虫取食同种卵和七星瓢虫卵后存活至2龄的比率均高于取食异色瓢虫卵的近7倍;(2)七星瓢虫幼虫取食异色瓢虫卵未存活到2龄,但取食其他瓢虫卵和蚜虫后 $8 5 \%$ 以上个体存活至2龄;(3)异色瓢虫初孵幼虫取食同种和其他2种瓢虫卵后有 $9 0 \%$ 以上存活至2龄。龟纹瓢虫和七星瓢虫1龄幼虫取食异种卵比同种卵后的发育历期显著延长，但异色瓢虫并未表现出差异。龟纹瓢虫和异色瓢虫1龄幼虫取食同种和异种卵后的体增重相同，但七星瓢虫取食龟纹瓢虫卵后体增重比取食同种卵减小。研究结果说明，异色瓢虫卵对七星瓢虫和龟纹瓢虫初孵幼虫的生存具有负面影响，反之不然。所以，取食异色瓢虫卵本身并非是导致北美和欧洲本土瓢虫数量减少的原因。
+
+关键词：营养生态学；捕食性瓢虫；种间互作;集团内捕食；自残
+
+# Effects of intra-guild egg predation on neonate larva development in three ladybird beetles（Coleoptera: Coccinellidae）
+
+GUO Jiani，LI Baoping，MENG Ling\*   
+ColegeoftofttsstaUi   
+Nanjing 210095,China
+
+Abstract：Intra-and inter-specificpredationof eggsiswelldocumented inaphidophagous ladybirdbeetles.Chemical defenses of eggsofAsia-originated invasive Harmonia axyridis is theposiblereason for population declinesof native ladybirds in North Americaand Europe.However，this supposition cannot be confirmed without determining whether $H$ ： axyridis eggs are toxic to native ladybirds in itsoriginal areas.To investigate mechanisms responsible for $H$ .axyridis invasion，we conducted a feeding experimenttoexamine neonate developmental performance of three sympatric ladybird beetles，Propylea japonica， Coccinella septempunctata ，and $H$ ，axyridis，which fed on aphids（control），conspecific or heterospecific eggs.The results indicated that $H$ 、axyridis eggs were lethal or sub-lethal to $P$ japonica and $\boldsymbol { c }$ .septempunctata neonate larvae，whereas the reverse was not the case.Survival from the $1 ^ { \mathrm { s t } }$ to the $2 ^ { \mathrm { n d } }$ instar stage in $P$ . japonica was almost seven-fold higher when feeding on conspecific and $C$ ， septempunctata eggs than on $H$ axyridis eggs. $C$ septempunctata neonates did not survive to the next instar when feeding on $H .$ axyridis eggs，whereas over $8 5 \%$ survived when feeding on other types of food.In contrast，survival of $H$ 、axyridis neonates to the next instar was over $90 \%$ when feeding on either conspecific or heterospecific eggs.Although $P$ ，japonica and $C$ ， septempunctata neonate developmental duration to the next instar was prolonged when feeding on heterospecific as opposed to conspecific eggs, $H .$ axyridis neonates did not exhibit the difference between feeding heterospecific and conspecific eggs.Both $P$ . japonica and $H$ ， axyridis neonate larvae ended up with body weight gain at molting into the $2 ^ { \mathrm { n d } }$ instar as same when feeding on conspecific eggs as when feeding on heterospecific eggs， whereas $\boldsymbol { c }$ . septempunctata neonate larvae decreased body weight gain when feeding on $P$ . japonica eggs as compared to feeding on conspecific eggs. Our study results suggest that $H$ axyridis eggs are toxic to both （204 $\boldsymbol { c }$ . septempunctata and $P$ . japonica neonate larvae，but the reverse is not true，thereby not confirming the supposition that chemical defense of $H$ .axyridis eggs is a potential factor for population declines of native ladybirds in North America and Europe.
+
+Key Words:nutrition ecology；predatory ladybirds；interspecific interaction；intraguild predation；cannibalism
+
+龟纹瓢虫（Propylea japonica）、七星瓢虫（Coccinella septempunctata）和异色瓢虫（Harmonia axyridis）是广泛分布于我国的优势捕食性天敌,常出现于同一生境。异色瓢虫和七星瓢虫作为多种蚜虫和其它害虫的天敌，被引入到美洲和欧洲等地用于生物防治[1]。在引入地,异色瓢虫由于对同一生态位的本土捕食性瓢虫种群构成威胁,而常被定性成为入侵种[2-5]。但在原产地亚洲,异色瓢虫虽常为优势种[5-7],但并未发现对本土其他瓢虫生存构成威胁[8]。
+
+瓢虫作为卵生动物的一种,其卵经常会面临强大的捕食压力,因为它们包含了足够的营养物质以完成胚胎发育[9]。应对捕食风险的一个基本策略是所产卵中含有毒化学物质（如:生物碱),通常有明显的着色（警戒色）[9-11]。瓢虫卵色彩鲜艳且含生物碱,分别从视觉信号和化学防御两方面阻止捕食者[12]。即便如此,自残现象和集团内捕食仍存在于捕食性瓢虫中[5.13-14]。在瓢虫的整个发育阶段,卵期最容易被捕食,其次是幼虫期,然后是成虫期[15-16]。有研究发现,瓢虫长期摄食异种瓢虫卵会对其存活率和繁殖力有不利的影响[17];在入侵地,七星瓢虫捕食异色瓢虫卵后存活率很低,甚至死亡,但是异色瓢虫捕食七星瓢虫卵后的存活率不受影响[15,18-19]。Sato 和Dixon[15]在英国的研究发现,二斑瓢虫（Adalia bipunctata）捕食异色瓢虫卵后也会全部死亡。因此,有猜测认为异色瓢虫卵的生物碱毒性可能是导致当地本土瓢虫数量降低的原因之一[20-24]。但在不清楚异色瓢虫在原产地与其他瓢虫之间捕食卵后是否存在非对称反应之前，尚无法证明该推测是否成立。迄今,异色瓢虫在原产地是否也对本土瓢虫具有食卵毒性,却知之甚少。在我国,有关异色瓢虫捕食其他瓢虫卵的研究仅见1篇报道[25],发现异色瓢虫取食同种和异种卵均可完成生长发育,与取食蚜虫相比,1龄幼虫发育历期明显缩短,存活率明显提高。但该研究未观察其他瓢虫捕食异色瓢虫卵后的反应。
+
+对此,本研究以龟纹瓢虫、七星瓢虫和异色瓢虫为材料,采用饲喂实验观察初孵幼虫取食蚜虫（对照）、同种和异种瓢虫卵等处理后发育至2龄期的生存和发育指标,以探究以下问题：(1)异色瓢虫卵对其他瓢虫是否具有毒性作用?（2)其他瓢虫卵对异色瓢虫是否具有毒性作用？对该问题的回答将为探究异色瓢虫的入侵性提供参考。
+
+# 1材料和方法
+
+# 1.1 供试虫源
+
+龟纹瓢虫、七星瓢虫、异色瓢虫成虫和豌豆修尾蚜（Megoura japonica）于2014年3—5月采自南京市郊的蚕豆（Viciafaba）田中。在养虫室内 $( 2 5 { \ - } 2 8 ^ { \circ } \mathrm { C } \cdot 1 6 \mathrm { L } : 8 \mathrm { D } )$ 用盆栽蚕豆苗饲养豌豆修尾蚜，作为对照食物。用圆形食品塑料盒（直径 $= 1 5 ~ \mathrm { c m }$ ，高 $= 7 . 5 ~ \mathrm { c m }$ )饲养瓢虫,每盒8一9头，每天喂食充足的豌豆修尾蚜，提供一张折皱的牛皮纸( $3 \ \mathrm { c m } \times 5 \ \mathrm { c m }$ )供其产卵,每天更换新的饲养盒以减少对卵的自相残杀。当雌虫产卵后,收集卵保存于冰箱内供试。
+
+http ://www.ecologica.cn
+
+# 1.2 试验方法
+
+取孵化后 $^ { 4 \mathrm { ~ h ~ } }$ 内的1龄幼虫,以避免初孵幼虫取食尚未孵化的卵或营养卵[26],因为1龄幼虫对食物品质非常敏感,常作为测定昆虫食物选择性的理想虫期[27]。首先,称取每头试虫的鲜重（Mettler Toledo 电子天平XS105DU,精确至 $0 . 0 0 0 0 1 \ \mathrm { g } { \cdot }$ ),单独饲养于玻璃试管（直径 $= 2 0 ~ \mathrm { m m }$ ，高 $\mathrm { \Omega } = 3 0 \ \mathrm { m m }$ )中,并在底部放一片湿润的滤纸以保证管内湿度。设4种食物处理:2种其他种瓢虫的卵、同种卵和蚜虫（对照),足量提供卵和2—3龄若蚜。每 $^ { 2 \mathrm { ~ h ~ } }$ 观察1次，记录死亡或发育到2龄的时间,发育到2龄后于 $^ { 2 \mathrm { ~ h ~ } }$ 内称体重;由于供试七星瓢虫取食异色瓢虫卵后无一存活至2龄,故试验观察到2龄为止。每处理重复30次以上。
+
+# 1.3 数据分析
+
+将瓢虫种类作为一个因素与食物因素一起进行分析,通过检验两个因素是否存在互作来推断食物处理是否在3种瓢虫间具有相同的影响。由于1龄幼虫存活至2龄的观测数据为二进制变量(是或否),符合二项分布型,故采用logistic 回归模型拟合1龄到2龄的存活率;当发现食物类型和瓢虫种类因素之间有显著互作时,单独比较每种瓢虫内不同食物处理间的差异[28]。用双因素方差分析比较成功发育到2龄的幼虫发育时间和体增重,当发现显著互作后，用单因素方差分析每种瓢虫内不同食物处理的差异,若有显著差异,再用TukeyHSD 测验进行多重比较。采样Wilson 置信域方法( $9 5 \%$ )计算存活率的 $9 5 \%$ 置信域,因为该方法在样本量 $< 4 0$ 的情况下可更准确地估计二进制数据的置信域[29]。数据分析使用 $R$ 统计软件[30]。
+
+# 2结果
+
+# 2.1摄食同种或异种卵对初龄幼虫存活的影响
+
+食物处理与瓢虫种类互作显著影响1龄幼虫发育到2龄的存活率(logistic 回归模型,Wald 似然比测验;食物处理 $\cdot \chi ^ { 2 } = 1 2 5 . 3 6$ ， $P { < } 0 . 0 0 1$ ；瓢虫 $\langle \mathcal { X } ^ { 2 } = 3 8 . 8 7$ ， $P { < } 0 . 0 0 1$ ;互作： $\chi ^ { 2 } = 9 6 . 5 6$ ， $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ ）。对不同瓢虫种下取食处理间的比较结果表明,龟纹瓢虫1龄幼虫取食同种卵的存活率是取食异色瓢虫卵的6.97倍,与取食蚜虫处理之间有显著差异,与取食七星瓢虫卵之间没有显著差异(图1)。七星瓢虫1龄幼虫取食异色瓢虫卵后均未存活到2龄,但取食其他食物后存活率均在 $8 5 \%$ 以上（图1)。异色瓢虫1龄幼虫取食同种和其他种瓢虫的卵后的存活率均在 $9 0 \%$ 以上,之间没有显著差异,但均高于取食蚜虫的存活率(图1)。总之,异色瓢虫卵对另2种瓢虫1龄幼虫具有几乎致死作用，反之不然。
+
+![](images/a34ea01ecfbc6454f83f9277fbe24ce901df389bd03b584e6ae29baf3e427fb1.jpg)  
+图1食物处理对龟纹瓢虫(A)、七星瓢虫(B)和异色瓢虫(C)1龄幼虫存活至2龄比率的影响Fig.1Survival of P. japonica（A）,C.septempunctata（B）and H.axyridis（C) $\mathbf { 1 ^ { s t } }$ instar larvae to the $2 ^ { \mathrm { n d } }$ as affected by food treatments短柄代表 $9 5 \%$ Wilson 置信域；图中从左至右食物处理的样本量分别为：A图,39、31、33和36;B图,38、38和35;C图,35、35、35和48;图柱上的不同小写字母代表不同食物处理间差异显著( $\scriptstyle P < 0 . 0 5$ ）
+
+# 2.2摄食同种或异种卵对初龄幼虫发育历期的影响
+
+食物处理与瓢虫种类互作显著影响1龄幼虫的历期（双因素方差分析;食物处理： $F _ { 3 , 4 3 3 } = 2 . 5 7$ ， $P = 0 . 0 5$ ;瓢虫种类： $F _ { _ { 2 , 4 3 3 } } = 9 . 1 0$ ， $P { < } 0 . 0 0 1$ ；互作： $F _ { 6 , 4 3 3 } = 2 3 . 7 6$ ， $P { < } 0 . 0 0 1$ )。龟纹瓢虫1龄幼虫取食七星瓢虫卵后发育至2龄的历期显著延长,比取食同种卵延长近1.6倍,比取食蚜虫的历期延长1.4倍,但与取食异色瓢虫卵的历期没有显著差异(图2)。七星瓢虫1龄幼虫取食龟纹瓢虫卵的发育历期比取食同种卵的显著延长近1.3倍,与取食蚜虫的发育历期相同;取食异色瓢虫卵未完成1龄期生长（图2)。异色瓢虫1龄幼虫取食同种卵的发育历期与取食异种卵的相同,比取食蚜虫的历期显著缩短近1/3（图2)。总之,龟纹瓢虫和七星瓢虫1龄幼虫取食异种卵比同种卵的发育历期显著延长,但异色瓢虫并未表现出差异。
+
+ge gerreerr 90 [ A a 90 B 90 C   
+80706050402 f 807060 807060 at   
+回国具 b b 1 bI a中 a中 品 士 b T 1 1 50 b 50 1 40 40   
+3020 30 30 20 20   
+10 10 NA 10   
+0 0 0 oord nades rd sd 者 武 ord ds 食物Food
+
+Fig.2Developmental duration of P. japonica（A），C. septempunctata（B）and $\pmb { H }$ ，axyridis（C） ${ \bf 1 ^ { s t } }$ instar larvae as affected byfood treatments
+
+2.3摄食同种或异种卵对初龄幼虫体增重的影响
+
+食物处理与瓢虫种类因素之间互作显著影响1龄幼虫发育至2龄的体增重（双因素方差分析;食物种类：$F _ { 3 }$ $_ { 3 , 3 1 9 } = 1 7 . 1 0$ ， $P { < } 0 . 0 0 1$ ;瓢虫种类： $F _ { 2 }$ $_ { 2 , 3 1 9 } = 8 3 . 6 7$ ， $P { < } 0 . 0 0 1$ ;互作： $F _ { 5 , \ 3 1 9 } = 9 . 5 1$ ， $P { < } 0 . 0 0 1$ ）。龟纹瓢虫1龄幼虫发育至2龄的体增重在食物处理间没有显著差异( $\stackrel { \prime } { F } _ { 3 , \ 8 8 } = 1 . 8 8$ ， $P { = } 0 . 1 4 { \overset { \cdot } { _ { \cdot } } }$ ）（图3);七星瓢虫1龄到2龄的体增重在不同食物处理间存在显著差异( $F _ { _ { 2 , ~ 1 0 0 } } { = } 1 9 . 7$ ， $P { < } 0 . 0 0 1$ ),取食异色瓢虫卵均未成功发育到2龄,取食同种卵的体增重与取食蚜虫的相同,均大于取食龟纹瓢虫卵的1.4倍（图3）。异色瓢虫1龄到2龄的体增重
+
+A B C ar a士 a+ a 88070054 a中 a- 8807060544 a 1 b+ b b b+   
+0.15 0.3 0.3 T X   
+0.10 0.2 0.2   
+0.05 0.1 NA 0.1 0 0 0 rd ods 市者 d odord rdes 者 福 odd as
+
+在食物处理间存在显著差异( $F _ { 3 , 1 2 9 } = 1 4 . 0 7$ ， $P { < } 0 . 0 0 1$ ),异色瓢虫取食同种和其他2种瓢虫卵的体增重相同,但均小于取食蚜虫的体增重（图3)。总之,龟纹瓢虫和异色瓢虫1龄幼虫取食同种和异种卵后的体增重没有差异，但七星瓢虫取食龟纹瓢虫卵后体增重比取食同种卵的减小。
+
+# 3讨论
+
+对龟纹瓢虫、七星瓢虫和异色瓢虫1龄幼虫取食同种或异种卵后的存活和生长表现进行的观察表明，异色瓢虫取食其他种瓢虫卵后对存活没有明显负面影响,但七星瓢虫和龟纹瓢虫1龄幼虫取食异色瓢虫卵后的存活率大幅降低。该结果与在美国的研究类似,Sato和Dixon[15]在异色瓢虫入侵地英国的研究表明,二斑瓢虫和七星瓢虫取食异色瓢虫卵后全部死亡;Rieder等[18]的研究也表明,七星瓢虫取食异色瓢虫卵后,与取食同种卵相比死亡率更高、发育速度更慢、卵的摄食量和增重都有所减少，尤其是摄食来自日本的异色瓢虫卵后不利影响最为严重;Kajita 等[19]的研究也获得类似的结果：七星瓢虫摄食异色瓢虫卵后全部死亡,只是存活时间 $( < 3 \mathrm { \ d } )$ )较短于本研究(平均3.7d)。这些研究说明,无论在原产地还是入侵地，异色瓢虫卵对其他瓢虫均具有负面作用。
+
+取食同种卵有利于瓢虫1龄幼虫的生长发育：3种瓢虫取食同种卵后存活率在 $9 0 \%$ 以上，龟纹瓢虫和异色瓢虫1龄幼虫取食同种卵后的存活率甚至大于取食蚜虫;七星瓢虫和异色瓢虫取食同种卵后,发育历期显著缩短。这与 Sato 和 Dixon[15]在美国的研究结果类似,他们发现,异色瓢虫、七星瓢虫和二斑瓢虫摄食同种卵后全部存活。杜迎刚等[25]在异色瓢虫原产地的研究也表明,自然条件下高死亡率的异色瓢虫1龄幼虫取食同种卵后,存活率明显提高、发育历期明显缩短。这些研究结果从一个侧面解释了捕食性瓢虫产营养卵的适应意义。许多捕食性瓢虫在一个卵块中产几粒胚胎不发育的卵即营养卵,供初孵幼虫取食,对于后者生存具有至关重要的促进作用[31]。
+
+当异色瓢虫1龄幼虫取食七星瓢虫和龟纹瓢虫卵后，虽然存活率很高( $9 0 \%$ 以上），但体增重却减小。类似表现也出现于杜迎刚等[25]和Rieder 等[18]的研究。其原因可能是：其他瓢虫卵也含有生物碱毒素,虽不能对异色瓢虫1龄幼虫的存活造成明显负面影响,但对其生长发育仍有少许的不利影响。
+
+异色瓢虫与同域其他瓢虫之间互为捕食卵后出现的非对称反应,可以解释它们在时间和空间分布上的分异。研究发现,在七星瓢虫和异色瓢虫出现于同一生境的情况下，七星瓢虫离开越冬地的时间和产卵时间都早于异色瓢虫,并且七星瓢虫会迁移到其他地方以避开异色瓢虫的捕食[5-6]。在野外,七星瓢虫幼虫和异色瓢虫卵之间的时间重叠要比异色瓢虫幼虫和七星瓢虫卵之间的时间重叠更多[18]。今后,有必要在异色瓢虫原产地开展研究，明确其他瓢虫是否具有应对异色瓢虫的产卵选择对策。
+
+# 参考文献（References）:
+
+[1]BrownPMJ，ThomasCE，LombaertE，JefriesDL，EstoupA，HandleyLJL.TheglobalspreadofHarmoniaaxyridis（Coleoptera;Coccinellidae）：distribution，dispersal and routes of invasion.BioControl,2011,56(4）：623-641.  
+[2]RoyHEalefralledddseol(1): 1-5.  
+[3]CardinaleBaK,esstdoletctsoliebcrop yield in an agroecosystem.Ecology Letters，2003,6(9)：857-865.  
+[4]FaconB,CrespinLLoiseauA,ombaertE，MagroA,EstoupA.Canthingsgetworsehnaninvasivespecieshybridizeseqinladybird Harmonia axyridis in France as a case study.Evolutionary Applications,2O11,4(1)：71-88.  
+[5]HironoriY，KatsuhiroSCabalismandinterspecfcpredationintwpredatoyladybirdsinrelationtpreyabundanceinheeld.Entomophaga，1997,42(1/2）：153-163.  
+[6]SatoS,FGsuaHtfgratiabaidtragldprdatioidogouldolcalt2003，28(5):628-633.  
+[7]SatoS,ioR,sdaH,ixonAFGstofeingitraguldpredatorpreaoyldbdsApliedEtoologndZl08,，4
+
+http://www.ecologica.cn
+
+[8]YasudaH，OuaNfetofabalisndpredatioontelarvalpeformanceoftoldybirdbetesntomologiaExpetalisetApplicata,1999,93(1): 63-67.  
+[9]Twitty VC.Of Scientists and Salamanders.New York：W.H.Freeman and Company，1966.  
+[0]Herasartoesie（GsiBiochemistry and Physiology Part C：Toxicology& Pharmacology，2007,146(1/2）：158-167.  
+11]DreonMarteerasHolefhproteasioubilesebesplatbessdaioPLoS One，2010,5(12）：e15059.  
+[12WintesEsilltJDteadalstdfspgoladybird beetle.Functional Ecology，2014，28(5）：1187-1196.  
+[13]TkaiKtdtesepaofdsisnffesJoaofo98,）  
+[14] AgarwalaBK,ionAFG.aboratorystudyofcabalismandinterspecificpredationinldbirdsEcologicalEntomolog，99，（4）：303-309.  
+[5]SatoSioAFtfraldpredatioouialdvelotfhssofdogolddscforinvasive species.Agricultural and Forest Entomology，2004,6(1）： 21-24.  
+[16]CttrelEraduldalladees（oleoptCoelle）oiialoactidetalEntomology，2007,36(2）:390-501.  
+[17]Aisealsesadstraatsdolcalfd334-334.  
+[18]RiederJP,ebldAS，atoSsudHEvansEWrgldpredatoandvriatioigfesebetwespatricdparpopulations of two species of ladybird beetles.Ecological Entomology，2008,33（1）：53-58.  
+[19]KajtaOciJlgettJasKFtraspefclalodvratioinldbdsfectsoodespeifcintraguild predators.Oecologia，2010,163(2）：313-322.  
+[2]PhoofolWOcotetialforldpredationdmpetioogpredatoocelldendsoEtolExperimentalis et Applicata，1998，89(1）: 47-55.  
+2Cotreliailoiel）eotl2004，31(3):362-371.  
+[22]CotrellTE.PredationandcanibalismofladybetleeggsbyadultladybetlesBiologicalControl，005,34（2）：159-164.  
+[23]FlowersSpeiteacealistdatodelprdatofeAdelges tsugae（Homoptera：Adelgidae）,in the laboratory.Environmental Entomology，2005,34(3）：664-675.  
+[24]WareRLRamon-PortgalF，Magro，ucampC，HemptieJL，MajerusMENheicalprotectonofCaliaquatuordcigutatgsagainst intraguild predation by the invasive ladybird Harmonia axyridis.BioControl,2Oo8,53(1）：189-200.  
+[25］杜迎刚，季清娥，陈家骅，赖钟雄.异色瓢虫幼虫对卵的种内自残和种间捕食.环境昆虫学报，2014，36(6)：874-878.  
+[26] MichaudJP.OeessmntfpysitabilitydogouCocciele.EroanJoualoftool,）90.  
+[27]EigenbdeSeas.Eaooffcostigostpteetoitmpsisoiga/entD,eds.Methods in Agricultural and Ecological Entomology.London：CAB International,1997：147-170.  
+[28]Bretz F,Hothorn T,WestfallP.Multiple Comparisons Using R.Boca Raton,FL:CRC Press,2011.  
+[29]BrowDaiuptaceteafoalpoportidptotexpialsoftatit(1)：160-201.  
+[30]RCoreTeam.R：Alangagendeviroentforstatiticalcomputing.VaAustriaRFoundationforStatisticalComputing，014.  
+31]PegBddositespgaatsroalEold(6): 578-586.

@@ -1,0 +1,337 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201910037 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于叶绿体基因证据的民族药滇白珠复合群系统发育关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李依容，唐丽萍，杨淑达，陆露\\*（昆明医科大学 药学院暨云南省天然药物药理重点实验室昆明650500）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：滇白珠是我国重要的民族药用植物，广泛分布于长江以南地区，是一个分类困难的复合群，为了探讨其种下分类关系，我们对滇白珠复合群（包括毛滇白珠，秃果白珠和滇白珠等三个变种）进行网罗式采样，基本覆盖了该复合群在中国的分布范围，同时包括菲律宾和马来西亚的各1个居群，共计81个居群 241个个体，通过联合两个变异位点适中的叶绿体片段rpl33-psaJ和trnL-rpl32，构建基于最大似然法（MaximumLikelihood）和贝叶斯法（Bayesian Inference）的系统发育树，以及Neighbor-Net法构建系统发育网络。研究表明：滇白珠复合群内具有明显的遗传差异，这种差异性相比形态，与地域分布相关性更大。系统发育分析显示：滇白珠复合群分为三个支系，一支包括台湾和菲律宾的居群，为变种秃果白珠，符合前人分类结果；一支包括分布于横断山脉区域的居群，由变种毛滇白珠和滇白珠组成；剩余一支包括分布于华东南区域的居群，同样由变种毛滇白珠和滇白珠组成。分子证据支持基于形态分类的秃果白珠作为变种，而不支持毛滇白珠作为变种的处理。这样的遗传分化式样可能是由地理隔离导致，这一结果为民族药滇白珠的种质资源评价和保护利用奠定了分类学框架。然而，本研究变种滇白珠居群间的谱系发生关系尚未得到很好地解决，特别是无法明晰华东南大部分居群间的遗传分化格局，需要进一步补充样本通过谱系地理学手段，并寻找分辨率更高的核基因分子标记进行更深入的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：滇白珠复合群，叶绿体DNA，系统发育，种内遗传差异，种内界定，地理隔离中图分类号： 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phylogeny of an ethnical medicinal plant, Gaultheria leucocarpa var. yunnanensis complex based on chloroplast ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA data ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yirong, TANG Liping, YANG Shuda, LU Lu\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(School of Pharmaceutical Sciences and Yunnan Key Laboratory of Pharmacology for Natural   \nProducts, Kunming Medical University, Kunming, 650500, China)   \n1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As an important ethnical medicinal plant in China, Gaultheria leucocarpa var. yunnanensis is a taxonomically difficult complex and widely distributed throughout south of the Yangtze River. In order to understand its intraspecific relationship, we sampled 241 individuals in 81 populations of $G$ leucocarpa var. yunnanensis complex (i.e., G. leucocarpa var. crenulata, $G$ leucocarpa var. psilocarpa and G. leucocarpa var. yunnanensis) representing al Chinese varieties and covering almost recorded distribution ranges in China (Mainland and Taiwan). One population of $G$ . leucocarpa var. psilocarpa from the Philippines and one population of $G$ leucocarpa var. leucocarpa from Malaysia were also included. Based on the data from two plastid DNA loci with variable sites in appropriate number， i.e.， rpl33-psaJ and trnL-rpl32，we reconstructed phylogenetic trees using both Maximum Likelihood and Bayesian Inference methods,and phylogenetic network using Neighbor-Net method. Our results showed that there was a distinct genetic differentiation in the G. leucocarpa var. yunnanensis complex,and this diferentiation was more correlated with geographical distribution rather than morphology. This complex is mainly divided into three clades: one clade is composed of populations from Taiwan and the Philippines that are previously categorized as $G .$ leucocarpa var. psilocarpa; one clade includes populations of the $G$ leucocarpa var. yunnanensis and G. leucocarpa var. crenulata with a distribution in the Hengduan Mountains region; and the remaining clade includes the populations mainly distributed in the southeastern range of China,which is composed of $G$ leucocarpa var. yunnanensis and $G$ leucocarpa var. crenulata as well. Molecular evidence therefore supports $G$ leucocarpa var. psilocarpa was treated as a variety but does not support $G$ leucocarpa var. crenulata as a variety. Such genetic diferentiation pattern may be caused by geographical isolation. This result lays a basic taxonomic framework for the evaluation and protection of germplasm resources for this ethnical medicinal plant. However, the relationships among most mainland populations of $G$ leucocarpa var. yunnanensis has not been wel resolved in this study. In particular, it is still unable to clarify genetic diferentiation pattern among most populations in southeastern China.Therefore, it is necessary to further carry out phylogeographic study at population level using higher variable nuclear markers in future. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Gaultheria leucocarpa Bl. var. yunnanensis complex, cpDNA, phylogeny, intraspecific genetic difference,intraspecific delimitation, geographic isolation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "滇白珠 Gaultheria leucocarpa Bl.var.yunnanensis (Franch.) T.Z.Hsu & R.C.Fang 是白果白珠G.leucocarpa 的变种，隶属于杜鹃花科 Ericaceae 越桔亚科 Vaccinioideae 白珠树族Gaultherieae 白珠树属 Gaultheria Kalm&L.（Kron et al.,2002）。在国内广泛分布于长江流域以南各省区、包括台湾和海南岛，生长在海拔3500米以下的针阔混交林下。滇白珠是我国重要的民族药用植物，为很多地区（特别是西南地区）的白族、彝族、侗族、傈僳族、苗族、纳西族、水族、瑶族、壮族、布依族等10个民族习用（马小军等，2001）。也是我国医药界的战略性资源，市场需求广泛，该植物含多种化学成分，目前被开发的相关药物有主治眩晕症的‘滇白珠糖浆’（批准文号：国药准字Z20040088），治疗风湿肿痛的‘金骨莲片（批准文号：国药准字 Z20080203），具有活血祛瘀、消肿止痛功效的‘复方透骨香软膏（批准文号：国药准字Z20026850）等；并且其枝、叶富含芳香油（水杨酸甲酯，达 $0 . 5 \\substack { - 0 . 8 \\% }$ ），是工业化提取精油的良好原料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与滇白珠同属于白珠树属的芳香白珠G.fragrantissima Wall.、五雄白珠 $G$ semi-infera (C.B.Clarke)Airy Shaw、红粉白珠G.hookeri C.B.Clarke、尾叶白珠 $G .$ griffithiana Wight等,因其不同程度地含有水样酸甲酯而被混作滇白珠的基原使用（乔文林，2013），但是这些植物均不含重要抗炎活性成分一滇白珠树苷（Gaultherin）（Liu etal.,2013）。上述四种植物与滇白珠在形态上具有明显差异，容易辨识，药源鉴定不会造成较大困难。然而，滇白珠基原本身的次生代谢产物种类及含量差异性较大，赵玉娟等（2002）、马小军等（2002）、乔文林（2013）、Liuetal.（2015）等对不同基原/产地的滇白珠开展了化学成分相关研究，发现化合物及其含量具有显著地域性差异，为该植物的资源开发利用提供了一定的理论参考。但是，这些工作主要聚焦在药物化学成分含量的研究上，往往忽略了基原调查，以及生物学（包括遗传学）特性与地理分布关系的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "就滇白珠本身而言，该植物形态变异不大但遗传分化显著（陆露，2009），是一个分类困难的复合群，是水平和垂直空间分布最广的国产白珠树属植物，其余的种均集中分布于喜马拉雅-横断山区（Fang＆ Stevens，2005）。除滇白珠外，白果白珠还包括其它5个变种，我国境内有毛滇白珠G.leucocarpa var.crenulata (Kurz) T.Z.Hsu 和秃果白珠 G.leucocarpavar.psilocarpa(Copeland)R.C.Fang（分布于台湾）2个变种（Fang& Stevens，2005）。这3个国产变种果实均为黑紫色，构成了滇白珠复合群，均可入药，且均为民族药滇白珠的基原。滇白珠复合群的叶型、毛被、花部结构和果实形态有一定程度变异但不显著，其分类处理一直以来倍受争议（Copeland，1932；Sleumer，1967；Ying，1976；徐廷志，1991；Fang& Stevens，2005；Fritsch etal.，2008）。除毛滇白珠明显被毛外，其余2个国产变种，即滇白珠、秃果白珠在形态上较难相互辨别，仅依靠蒴果是否被毛所区别。同时，滇白珠变种内形态变异有时大于变种间变异，为其分类学处理增加了难度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "滇白珠复合群具有明显的遗传分化，广域分布的滇白珠和中国植物志英文版（Fang&Stevens，2005）中作为滇白珠异名处理的屏边白珠G.leucocarpa var.pingbienensis C.Y.Wuex T.Z.Hsu（狭域分布于云南省屏边县）形态相近。近年来，利用分子手段对滇白珠复合群展开的研究揭示了复合群内部分变种的系统关系：叶绿体基因trnL-trnF 和rpl16序列中的一些插入/缺失对谱系界定起到了重要作用，联合分析高度支持了变种屏边白珠与白果白珠原变种构成一支，而变种滇白珠却与形态有别的变种毛滇白珠聚成另一支，这两个分支构成姐妹群关系（陆露，2009）。这些结果显示出滇白珠复合群形态和遗传的不一致，基于传统的形态分类无法明晰滇白珠复合群的种内分类问题。经野外调查发现，滇白珠和毛滇白珠虽然在形态上以毛被区分，但两者分布范围和生长环境相似，常常混生，而且一些滇白珠的幼株茎叶也常常被毛。因此，了解滇白珠复合群的遗传分化格局对重新认识基于形态划分的变种具有重要意义，亟需对该类群开展遗传分化格局与地域、形态的相关性研究。本研究首次对滇白珠复合群在中国境内进行了大范围取样，几乎涵盖了中国境内滇白珠复合群的分布区域，同时包括东南半岛的菲律宾和马来西亚各1个居群，共计81个居群 (表1，图1)。其中，在云南武定（WD）和贵州印江（YHA）分别采集各1个毛滇白珠居群，台湾（HXQ）和菲律宾（F）分别采集各1个秃果白珠居群，以及马来西亚（WH）的1个白果白珠原变种居群。选用进化速率相对快的叶绿体DNA非编码区序列rpl33-psaJ和 trnL-rpl32，首次开展滇白珠复合群的遗传分化和种下系统发育关系研究，进而为滇白珠基原界定和之后化学活性成分的地域性研究提供遗传学理论框架。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究共收集了滇白珠复合群81个居群和1个芳香白珠居群（作为外类群）的分子材料，分别采自云南（17，其中WD居群为毛滇白珠）、贵州（20，其中YHA居群为毛滇白珠）、四川（3）、重庆（2）、湖北（3）、湖南（11）、江西（4）、福建（4）、广东（9）、广西（5）、台湾（1，秃果白珠）、菲律宾（1，秃果白珠）、马来西亚（1，白果白珠原变种），有76个滇白珠居群；芳香白珠（FX)采自云南大理。每个居群随机挑选3个个体（注：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "峨眉山（EMS）仅发现一个个体），包括外类群共计244个个体（表1）。采集材料时，居群内每个个体至少相隔10米以上。新鲜叶片立即用变色硅胶干燥，凭证标本储存于昆明医科大学药学院标本储藏室。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e819db0f1bb65da89c55b0a3208cda94727f8c5e0a064e183c5c3b7b424d07f1.jpg",
+        "table_caption": [
+            "表1滇白珠复合群及相关类群实验材料和凭证标本信息",
+            "Table 1 Sampling and voucher information of populations of the Gaultheria leucocarpa var. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">yunnanensiscomplexandrelated taxa</td></tr><tr><td>变种名称 Name of varieties</td><td>居群编号 Population</td><td>采集地 Location</td><td>采集号 Collection</td><td>个体数 Samples</td></tr><tr><td rowspan=\"10\">滇白珠 Gaultheria var. yunnanensis</td><td>code</td><td>中国云南安宁</td><td>number</td><td>（n）</td></tr><tr><td>AN</td><td>Anning, Yunnan, China 中国云南保山昌宁</td><td>LRF-LU1001</td><td>3</td></tr><tr><td>BS</td><td>Changning, Baoshan, Yunnan, China 中国四川布托</td><td>LJ-Liu1001</td><td>3</td></tr><tr><td>BT</td><td>Butuo, Sichuan, China 中国贵州长顺</td><td>LL-2017-02</td><td>3</td></tr><tr><td>CS DL</td><td>Changshun, Guizhou, China 中国云南大理苍山</td><td>LL-2017-19</td><td>3</td></tr><tr><td>DWS</td><td>Cangshan, Dali, Yunnan, China 中国云南屏边大围山</td><td>LL-2019-03</td><td>3</td></tr><tr><td></td><td>Daweishan, Pingbian, Yunnan, China 中国贵州都匀</td><td>LRF, LU002</td><td>3 3</td></tr><tr><td>DY13 DY14</td><td>Duyun, Guizhou, China 中国贵州都匀</td><td>LL-2017-13</td><td>3</td></tr><tr><td>DYS</td><td>Duyun, Guizhou, China 中国广西大瑶山</td><td>LL-2017-14</td><td>3</td></tr><tr><td>leucocarpa</td><td>Dayaoshan, Guangxi, China 中国四川峨眉山</td><td>LL-2012-03</td><td></td></tr><tr><td rowspan=\"10\"></td><td>EMS</td><td>Emeishan, Sichuan, China</td><td>LL-2017-05</td><td>1</td></tr><tr><td>FY</td><td>中国云南富源 Fuyuan, Yunnan, China</td><td>LL-2016-23</td><td>3</td></tr><tr><td>GDH</td><td>中国贵州兴仁 Xingren, Guizhou, China</td><td>LL-2017-21</td><td>3</td></tr><tr><td>GD</td><td>中国贵州贵定 Guiding, Guizhou, China 中国贵州龙里</td><td>LL-2017-16</td><td>3</td></tr><tr><td>GLL</td><td>Longli, Guizhou, China 中国贵州贵阳</td><td>LL-2017-17</td><td>3</td></tr><tr><td>GY</td><td>Guiyang, Guizhou, China 中国贵州珠市</td><td>LL-2017-18</td><td>3</td></tr><tr><td>GZS</td><td> Zhushi, Guizhou, China</td><td>LL-2016-20</td><td>3</td></tr><tr><td>HZ</td><td>中国贵州赫章 Hezhang, Guizhou, China</td><td>LL-2016-14</td><td>3</td></tr><tr><td>JD</td><td>中国云南景东 Jingdong, Yunnan, China</td><td>LL-0609</td><td>3</td></tr><tr><td>JWS</td><td>中国广西柳州九万山</td><td>LL-2012-01</td><td>3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/95151f7f0f0e9cb66ad5a8a4323b9043f4b5b9272143b59f40dd6486c4825cf2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Jiuwanshan,Liuzhou, Guangxi, China</td></tr><tr><td>LG</td><td>中国广西临桂 Lingui, Guangxi, China</td><td>LL-2012-02</td><td>3</td></tr><tr><td>LPS</td><td>中国贵州六盘水 Liupanshui, Guizhou, China</td><td>LL-2016-21</td><td>3</td></tr><tr><td>LSD</td><td>中国贵州雷山 Leishan, Guizhou, China</td><td>LL-2017-12</td><td>3</td></tr><tr><td>MG</td><td>中国云南马关 Maguan, Yunnan, China</td><td>LRF-09556</td><td>3</td></tr><tr><td>PB</td><td>中国云南屏边 Pingbian, Yunnan, China</td><td>LRF, 08017</td><td>3</td></tr><tr><td>PT15</td><td>中国贵州平塘 Pingtang, Guizhou, China 中国贵州平塘</td><td>LL-2017-15</td><td>3</td></tr><tr><td>PT</td><td>Pingtang, Guizhou, China 中国云南巧家药山</td><td>LTX001</td><td>3</td></tr><tr><td>QJ</td><td>Yaoshan, Qiaojia, Yunnan, China 中国云南楚雄双柏</td><td>LL-031607</td><td>3</td></tr><tr><td>SB</td><td>Shuangbai, Chuxiong, Yunnan, China 中国贵州石阡</td><td>LL-2019-05</td><td>3</td></tr><tr><td>SWT</td><td>Shiqian, Guizhou, China 中国云南腾冲鸦乌山</td><td>LL-2017-09</td><td>3</td></tr><tr><td>TC</td><td>Yawushan, Tengchong, Yunnan, China 中国贵州雷山</td><td>LL-07011</td><td>3</td></tr><tr><td>WXC</td><td>Leishan, Guizhou, China</td><td>LL-2017-11</td><td>3</td></tr><tr><td>WX</td><td>中国云南维西 Weixi, Yunnan, China 中国四川西昌</td><td>LL-2014-62</td><td>3</td></tr><tr><td>XC</td><td>Xichang, Sichuan, China</td><td>LL-2017-01</td><td>3</td></tr><tr><td>XR</td><td>中国贵州兴仁 Xingren, Guizhou, China</td><td>LL-2017-20</td><td>3</td></tr><tr><td>XS</td><td>中国云南昆明西山 Xishan, Kunming, Yunnan, China</td><td>LL-2011-46</td><td>3</td></tr><tr><td>YBS</td><td>中国广西元宝山 Yuanbaoshan, Guangxi, China 中国贵州印江</td><td>LL-2012-04</td><td>3</td></tr><tr><td>YJ07</td><td>Yingjiang, Guizhou, China 中国云南元江</td><td>LL-2017-07</td><td>3</td></tr><tr><td>YJ</td><td>Yuanjiang, Yunnan, China 中国贵州石阡</td><td>LL-0610</td><td>3</td></tr><tr><td>YS</td><td>Shiqian, Guizhou, China 中国贵州印江</td><td>LL-2017-10</td><td>3</td></tr><tr><td>YW ZX</td><td>Yingjiang, Guizhou, China 中国云南镇雄</td><td>LL-2017-08 LL-2016-09</td><td>3 3</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b81ed64c85147b9a62966b139c9e9d4d07e79c730e4b17cf79e9d060775e305d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"> Zhenxiong, Yunnan, China</td></tr><tr><td>ZY</td><td>中国云南沾益 Zhanyi, Yunnan, China</td><td>LL-2019-02</td><td>3</td></tr><tr><td rowspan=\"2\">JFS</td><td>中国重庆金佛山</td><td>LL-2019-06</td><td>3</td></tr><tr><td>Jingfoshan, Chongqing, China 中国湖北利川毛坝</td><td></td><td></td></tr><tr><td>HMB</td><td>Maoba, Lichuan, Hubei, China 中国湖北利川谋道</td><td>LL-2019-07</td><td>3</td></tr><tr><td>HMD</td><td>Moudao, Lichuan, Hubei, China 中国重庆奉节</td><td>LL-2019-08</td><td>3</td></tr><tr><td>QFJ</td><td>Fengji, Chongqing, China 中国湖北来凤</td><td>LL-2019-09</td><td>3</td></tr><tr><td>HLF</td><td>Laifeng, Hubei, China 中国湖南湘西花垣</td><td>LL-2019-15</td><td>3</td></tr><tr><td>NXX</td><td>Huayuan, Xiangxi, Hunan, China 中国湖南怀化芷江</td><td>LL-2019-17</td><td>3</td></tr><tr><td>NZJ</td><td>Zhijiang, Huaihua, Hunan, China 中国湖南怀化洪江</td><td>LL-2019-20</td><td>3</td></tr><tr><td>NHJ</td><td>Hongjiang, Huaihua, Hunan, China 中国湖南怀化靖州</td><td>LL-2019-28</td><td>3</td></tr><tr><td>NJZ</td><td>Jingzhou, Huaihua, Hunan, China 中国湖南怀化通道</td><td>LL-2019-29</td><td>3</td></tr><tr><td>NTD</td><td>Tongdao, Huaihua, Hunan, China 中国湖南邵阳城步</td><td>LL-2019-30</td><td>3</td></tr><tr><td>NCB</td><td>Chengbu, Shaoyang, Hunan, China 中国湖南邵阳武冈云山</td><td>LL-2019-31</td><td>3</td></tr><tr><td>NWG</td><td>Yunshan, Wugang, Shaoyang, Hunan, China 中国湖南永州阳明山</td><td>LL-2019-32</td><td>3</td></tr><tr><td>YMS DPL</td><td>Yangmingshan, Yongzhou, Hunan, China 中国湖南永州都庞岭</td><td>LL-2019-34</td><td>3</td></tr><tr><td></td><td>Dupangling, Yongzhou, Hunan, China 中国湖南郴州莽山</td><td>LL-2019-35</td><td>3</td></tr><tr><td>NMS</td><td>Mangshan, Chenzhou, Hunan, China 中国湖南郴州桂东</td><td>LL-2019-36</td><td>3</td></tr><tr><td>NGD</td><td>Guidong, Chenzhou, Hunan, China 中国江西吉安遂川</td><td>LL-2019-37</td><td>3</td></tr><tr><td>JSC</td><td>Suichuan, Jian, Jiangxi, China 中国江西吉安井冈山</td><td>LL-2019-38</td><td>3</td></tr><tr><td>JGS</td><td>Jinggangshan, Jian, Jiangxi, China 中国江西赣州龙南</td><td>LL-2019-39</td><td>3</td></tr><tr><td>JLN</td><td>Longnan, Ganzhou, Jiangxi, China 中国江西赣州寻乌</td><td>LL-2019-40</td><td>3</td></tr><tr><td>JXW</td><td> Xunwu, Ganzhou, Jiangxi, China</td><td>LL-2019-41</td><td>3</td></tr><tr><td>FGT</td><td>中国福建龙岩古田</td><td>LL-2019-42</td><td>3</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0eefca02822829d1209b4baf6815785da6f2a78a388f6d5f6e5df4d9bfedb265.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Gutian, Longyan, Fujian, China</td></tr><tr><td>FMHS</td><td>中国福建龙岩梅花山 Meihuashan, Longyan, Fujian, China</td><td>LL-2019-45</td><td>3</td></tr><tr><td>FHJS</td><td>中国福建龙岩红尖山 Hongjianshan, Longyan, Fujian, China</td><td>LL-2019-47</td><td>3</td></tr><tr><td>FDQS</td><td>中国福建漳州大芹山 Daqinshan, Zhangzhou, Fujian, China</td><td>LL-2019-51</td><td>3</td></tr><tr><td>DHY</td><td>中国广东河源 Heyuan, Guangdong, China</td><td>LL-2019-52</td><td>3</td></tr><tr><td>DWY</td><td>中国广东韶关翁源 Wengyuan, Shaoguan, Guangdong, China 中国广东韶关南雄</td><td>LL-2019-53</td><td>3</td></tr><tr><td>DNX DLC</td><td>Nanxiong, Shaoguan, Guangdong, China 中国广东韶关乐昌</td><td>LL-2019-54</td><td>3</td></tr><tr><td>NL</td><td>Lechang, Shaoguan, Guangdong, China 中国广东韶关乳源南岭</td><td>LL-2019-55</td><td>3</td></tr><tr><td>TJS</td><td>Nanling， Ruyuan， Shaoguan， Guangdong， LL-2019-57 China 中国广东韶关天井山</td><td></td><td>3</td></tr><tr><td>DLN</td><td>Tianjingshan, Shoguan, Guangdong, China 中国广东连州连南</td><td>LL-2019-58</td><td>3</td></tr><tr><td>DLS</td><td>Liannan, Lianzhou, Guangdong, China 中国广东连州连山</td><td>LL-2019-59</td><td>3</td></tr><tr><td></td><td>Lianshan, Lianzhou, Guangdong, China 中国广东云浮鸭兜山</td><td>LL-2019-60</td><td>3</td></tr><tr><td>DYDS</td><td>Yadoushan, Yunfu, Guangdong, China 中国广西百色乐业</td><td>LL-2019-64</td><td>3</td></tr><tr><td>GBS</td><td>Leye, Baise, Guangxi, China 中国云南武定</td><td>LL-2019-65</td><td>3</td></tr><tr><td rowspan=\"2\">毛滇白珠 G. leucocarpa var. crenulata</td><td>WD</td><td>Wuding, Yunnan, China 中国贵州印江</td><td>HJ-HE001 3</td></tr><tr><td>YHA Yingjiang, Guizhou, China 中国台湾玉山</td><td>LL-2017-07</td><td>3</td></tr><tr><td rowspan=\"2\">秃果白珠G.leucocarpa var. psilocarpa 白果白珠原变种G.</td><td>HXQ</td><td>Yushan, Taiwan, China</td><td>HXQ-1001 3 Penneys 235</td></tr><tr><td>菲律宾南达沃棉兰老岛 F Mindanao, Davao del Sur, Philippines</td><td>5</td><td>3</td></tr><tr><td>leucocarpa var. leucocarpa</td><td>WH</td><td>马来西亚鼓亭云顶高原 GentingHighlands,Pahang,Malaysia</td><td>WH-2011 3</td></tr><tr><td>芳香白珠（外类群） FX G. fragrantissima</td><td>中国云南大理苍山 Cangshan, Dali, Yunnan, China</td><td>LL-2019-04</td><td>3</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1.2引物的筛选 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在引物筛选阶段，我们从白果白珠变种已有各居群中根据地理相对距离较远原则挑选出云南腾冲（滇白珠）、云南武定（毛滇白珠）、贵州平塘（滇白珠）、广西大瑶山（滇白珠）、台湾玉山（秃果白珠）、马来西亚云顶（白果白珠原变种）共6个居群，每个居群随机选取2 个个体，共12个个体。从杜鹃花科近缘的山茶科 Theaceae中，选取了进化速率较快的10个叶绿体基因片段（P37、P45、P57、P58、P60、P61、P64、P69、P70（即：rpl33-psaJ）、P72，Yanget al.，2013）进行分析，最终选出rpl33-psaJ（F:5'TCCGGATGCGTTAACATTCCCCTT 3'; R: 5' CCTTGGAAGGGTAACACACAGGTGC 3'）和在杜鹃花科中拥有较高分辨率的 trnL-rpl32（trmL:5’CTGCTTCCTAAGAGCAGCGT3';rpL32:5'CAGTTCCAAAAAAACGTACTTC3'，ShaW et al.，2007）作为开展系统发育研究的分子片段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.3DNA提取与PCR扩增 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "植物总DNA 的提取使用改进的 $4 { \\times } \\mathrm { C T A B }$ 法，之后用 $1 \\%$ 的琼脂糖凝胶电泳检测，根据DNA主带的整齐度和亮度判断DNA的质量，继而用紫外分光光度计（NanoDrop $\\textsuperscript { \\textregistered }$ ND-1000,Thermo Fisher Scientific,Delaware,USA)测定DNA的浓度和纯度，后用 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 稀释至30-50$\\mathrm { n g } \\cdot \\mathrm { \\mu L } ^ { - 1 }$ 以备后续PCR扩增使用。扩增体系为： $1 0 ~ \\mu \\mathrm { L }$ PCR Master Mix（ $2 \\times )$ （ThermoScientific）， $9 ~ { \\mu \\mathrm { L } } ~ \\mathrm { d d H } _ { 2 } \\mathrm { O }$ ，正反向引物（ $1 0 \\mathrm { \\ n g ^ { \\bullet } \\mu L ^ { - 1 } }$ ）各 $0 . 4 ~ \\mu \\mathrm { L }$ ， $1 ~ \\mu \\mathrm { L }$ 模板DNA。PCR扩增反应程序为： $9 4 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $4 \\mathrm { m i n }$ ； $9 4 ~ \\mathrm { ^ { \\circ } C }$ 变性 $4 5 ~ \\mathrm { s } , ~ 5 2 ~ \\mathrm { ^ c } ~ ( { \\it t r n L - r p l { 3 2 } } ) / { 6 0 } ~ \\mathrm { ^ c } ~ ( { \\it r p l { 3 3 - p s a J } } )$ （20退火 $1 \\mathrm { m i n }$ ， $7 2 \\ \\mathrm { ^ { \\circ } C }$ 延伸 $4 5 \\mathrm { ~ s ~ }$ ，循环35次； $7 2 \\ \\mathrm { ^ { \\circ } C }$ 延伸 $1 0 \\mathrm { m i n }$ 。取 $2 ~ \\mu \\mathrm { L }$ 扩增产物进行 $1 . 5 \\%$ 琼脂糖凝胶电泳，检测扩增产物的产量和质量。剩余的 PCR 扩增产物纯化后，采用 ${ 5 . 5 \\mu \\mathrm { L } }$ 的反应体积，包括 $1 . 5 \\mu \\mathrm { L }$ 的测序混合物（BigDye）， $1 ~ \\mu \\mathrm { L }$ 的测序引物， $1 ~ \\mu \\mathrm { L }$ 的纯化PCR产物和 $2 \\mu \\mathrm { L }$ 的双蒸水。反应程序为： $9 5 \\ \\mathrm { ^ \\circ C }$ 预变性 $4 0 \\mathrm { s } ; 9 5 ^ { \\circ } \\mathrm { C } 2 0 \\mathrm { s } , 5 0 ^ { \\circ } \\mathrm { C } 1 0 \\mathrm { s } ,$ ： $6 0 \\mathrm { ~ \\textdegree ~ } 1 \\operatorname* { m i n } { 3 0 }$ s，共35个循环进行测序反应。反应产物经过 $7 5 \\%$ 乙醇、无水乙醇纯化后，加入 $1 0 ~ \\mu \\mathrm { L }$ 的双蒸水充分溶解，用ABI3730 xl 自动测序仪（Applied Biosystems，Foster City，California,USA）进行测序。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所得序列用 Sequencher 软件进行拼接。拼接好的序列首先逐一对每一个变异位点的原始峰图进行校对，确认无误后用Se-al软件进行比对构建矩阵，根据头尾的缺失情况对序列做适当调整。矩阵中的插入/缺失（indel）处理为单次进化事件。为解析目前所获各居群间的系统进化关系，我们对两个叶绿体片段rpl33-psaJ和trnL-rpl32进行了联合分析。本研究用最大似然法（Maximum Likelihood，ML）和贝叶斯法（Bayesian inference，BI）构建系统树，以比较不同拓扑结构的异同，并计算支持率（Stamatakis etal,2008)。利用软件 jmodeltest2.110（Darriba，2012)，分别检测到两个叶绿体基因片段的最佳碱基替代模型都为GTR。最大似然法依据DNA序列突变是随机的这种假设，将构建系统树所用到的分枝长度与推断肯定发生的额外突变结合起来，利用特定突变概率的所有假设共同组成一个演化模型（modelof evolution)，选取具有最大可能性的树作为引证，分析其系统进化关系，并计算支持率（Bootstrap，BP)。贝叶斯法构建系统进化关系树时，需对4个平行进化链进行1000万代运算，每10000 代保存一棵进化树，分别去掉最初和最后的 $25 \\%$ 系统进化树作为\"burn-in”。每个分支的支持率由保存的进化树中出现的后验概率（Posterior probability，PP）表示。后验概率值 $\\mathrm { P P } < 0 . 9 5$ 视为低或较弱的支持， $0 . 9 5 \\sim 1 . 0 0$ 视为高或好的支持。两种建树方法都通过CIPRES 网上建树平台（https://www.phylo.org/）实现，最后得到的基于ML 和BI 法的严格一致树用Figtree 1.43 软件（http://tree.bio.ed.ac.uk/software/figtree/）查看。为了直观地判断滇白珠复合群的系统演化关系，用 Splitstree4 软件运用邻接网法（Neighbor-Net）构建系统发育网络（Bryant，2003），Bootstrapping 通过1000 次重复，支持率大于 $50 \\%$ 的显示在支上。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究成功地从滇白珠复合群 241个样本和外类群芳香白珠3个样本获得了rpl33-psaJ和trnL-rpl32片段。rpl33-psaJ片段比对矩阵长 $6 7 8 { \\mathrm { ~ b p } }$ ，共有241条序列，一致位点（conservedsite）有665个，变异位点（variable site）有13个，含简约信息位点（parsimony informativesite）有12个；trnL-rpl32片段比对矩阵长 $5 9 9 \\mathrm { b p }$ ，共有241条序列，一致位点有592个，变异位点有7个，含简约信息位点有5个。基于两个叶绿体片段rpl33-psaJ和trnL-rpl32的联合分析矩阵长度为1277bp，一致位点有1257个，变异位点有20个，含简约信息位点有17个。滇白珠复合群联合矩阵的 $\\mathrm { G + C }$ 含量为 $3 0 . 7 0 \\% { \\sim } 3 0 . 9 0 \\%$ ，其中包括一段在 trnL-rpl32序列上的、长度为31bp 的插入/缺失序列 AATTGAATTTCATATTGATTAGTCCAAAACA;该插入/缺失序列为台湾居群（HXQ）所特有。另外，3条长1215bp 的芳香白珠序列， $\\mathrm { G + C }$ 含量为 $3 1 . 1 1 \\%$ ，该序列亦存在一段31bp的插入／缺失序列AATTGAATTTCATATTGATTAGTCCAAAACA（与HXQ居群的插入/缺失序列一致但位置不同)。图1显示了贝叶斯法（BI）构建的系统发育树，该树与通过最大似然法（ML）构建的树拓扑结构一致，在BI树上标注了ML树的支持率，Neighbor-Net构建的滇白珠复合群系统发育网络关系见图2。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于ML和BI分析可得到以下结果：（1）广域分布的滇白珠复合群存在丰富的遗传变异。ML和BI系统树的拓扑结构基本一致，滇白珠复合群大致可以分为三个大的支系（BP$= 1 0 0 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0$ ，图1)。台湾（HXQ）和菲律宾（F）的秃果白珠居群在较基部的位置聚为第一分支（A）（ $B P = 9 1 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\dot { ) }$ ，是较早分化出来的类群，与其它所有居群相区别，随后两个居群内的个体又各自聚为一支（HXQ： $B P = 1 0 0 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0$ ；F: $B P = 9 8 \\%$ $\\mathrm { P P } { = } 1 . 0 0 \\rangle$ ；剩余居群可以分为两个主要分支，第二分支为分布在横断山脉的云南和四川、华东南的广西、广东、福建的部分个体以及马来西亚（WH）居群聚为的一支，具有较高支持率（ $B P = 9 0 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\rangle$ 。这一分支进而分为4个小的亚分支：马来西亚的白果白珠原变种（WH)位于较基部的位置，单独形成一支(B1)与其他居群分开（ $B P = 9 6 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\rangle$ )，广西大瑶山（DYS-1）和广东鸭兜山（DYDS-1，DYDS-2）聚为一支(B2）（ $B P = 9 7 \\%$ ，PP$= 1 . 0 0 \\rangle$ ，福建龙岩（FDQS-1）和福建漳州（FMHS-1）聚为一支(B3）（ $B P = 9 9 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\$ ，剩下的个体分别来自云南和四川的AN（2）、DL（1）、QJ（1）、WD（3）、EMS（1）、XC（3）、SB（3）居群，为该大支的主要成分(B4)。其它剩余的居群聚为第三分支（BP$= 8 9 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\dot { }$ )，这一分支进而分为3个小的亚分支，第一支(C1)是位于较基部的屏边大围山的两个个体（DWS-1，DWS-2)，得到了较高的支持率（ $B P = 9 8 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\rangle$ ，福建龙岩两个居群的两个个体（FGT-3和FHJS-3）聚为一支（C2）（ $B P = 9 5 \\%$ ， $\\mathrm { P P } { = } 1 . 0 0 \\dot { ) }$ ，剩下的居群个体构成一个大的分支(C3)，序列占总数的 $80 \\%$ 以上（201条序列)，这些居群个体之间的关系尚未得到很好地解决，只有贵州石阡（SWT-1）和云南曲靖的（ZY-2）聚为一支(C4)而与其他序列分开（ $B P = 9 5 \\%$ ， $\\mathrm { P P } { = } 0 . 9 7$ )。Neighbor-Net的网状结构显示滇白珠复合群也可以大致分为三个支系（图2)。台湾、菲律宾和马来西亚的居群以及分布在横断山脉区域的居群聚为一支（红色圈注)，支持率较低；与ML 和BI系统发育分析结果一致，台湾的秃果白珠居群和地理上相距更近的福建滇白珠居群未聚在一支。大多数来自华东南地区的居群聚为一支（蓝色圈注)。滇东南地区来自屏边大围山的居群（DWS）单独构成一支（紫色圈注）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）滇白珠复合群的遗传式样和毛被这一表型式样不相符。ML和BI分析均显示采自云南武定（WD）和贵州印江（YHA）的毛滇白珠居群并没有聚为一支而是分别和采自相同区域的滇白珠居群构成一支（图1)，Neighbor-Net 结果也显示毛滇白珠与大部分相同区域的滇白珠居群聚在一起（图2）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/8345dc07be422694681c6e0f19309bbf83677343a1df847fcfd960d17e12271d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图1基于贝叶斯法（BI）构建的滇白珠复合群系统发育树，外类群为芳香白珠。系统发育树上标注了基于ML分析的支持率与BI分析的后验率：大于或等于 $50 \\%$ 的支持率（BP，分枝上左侧）和大于或等于 $50 \\%$ 的后验率（PP，分枝上右侧）标注在分支上，支持率和后验率用逗号隔开。滇白珠复合群相关变种及外类群系统位置通过不同颜色标识：FX为外类群芳香白珠（蓝色)，WD 和YHA为毛滇白珠（红色)，HXQ和F为秃果白珠（绿色)，WH为白果白珠原变种（黄色)，其余为滇白珠（黑色)。分支A包括HXQ和F居群所有个体;分支B1包括WH居群所有个体，分支B2包括DYS 和DYD 居群部分个体,分支B3包括FDQS和FMHS 居群部分个体，分支B4包括云南和四川的AN、DL、QJ、WD、EMS、XC、SB 居群的全部或部分个体；分支C1包括DWS的部分个体，分支C2包括FGT和FHJS居群的部分个体，分支C4包括 SWT和 ZY 的部分个体，剩下的居群构成一个大的分支C3。系统树下部展示了白果白珠原变种和滇白珠复合群3个国产变种的植株照片。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Phylogenetic tre of the Gaultheria leucocarpa var.yunnanensis complex based on the Bayesian inference (BI),with the population of $G$ fragrantissima as outgroup.The Bootstraps from the ML analysis (tree not shown) and the posterior probabilities are both shown on the branches.Numerals on the left side of branches indicate the bootstrap value $( \\geq 5 0 \\%$ ）and those on the right side indicate the posterior probability value $( \\geq 5 0 \\%$ ),and the BP and PP values are separated with comma.The placements of populations of varieties within the complex and outgroup are indicated by branches in various color: FX (G. fragrantissma) in blue, WD and YHA ( $G$ leucocarpa var.crenulata ) inred,HXQandF(G. leucocarpa var.psilocarpa) in green, WH(G. leucocarpa var. leucocarpa) in yellow,and all the rest ( $G .$ leucocarpa var.yunnanensis) in black.Clade A includes all individuals of the HXQ andFpopulations;clade B1 includes allindividuals of the WH population;clade B2 includes partial individuals of the DYS and DYD populations; clade B3 includes partial individuals of the FDQS and FMHS populations; clade B4 includes allor partial individuals of the AN,DL,QJ, WD,EMS,XC,and SB populations; clade C1 includes partial individuals of the DWS population,clade C2 includes partial individuals ofthe FGTandFHJS populations, and clade C4 includes partial individuals of the SWTand ZY populations,and the remaining individuals form a large clade C3.Images beneath the phylogenetic tree show the close-up of plants offour varieties (three of them from China) within the G. leucocarpa var. yunnanensis complex. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/046ed5dcb21054cf14fbd7f8431b1386a993c96ec4a2b46346702bf2c6221205.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "图2滇白珠复合群的系统发育网络图，外类群为芳香白珠。大于或等于 $50 \\%$ 的支持率显示在分支上。主要分为三个支系，即：横断山脉 $^ +$ 台湾 $^ +$ 菲律宾 $^ { \\circ } +$ 马来西亚支系（红色圈注，右侧）、华东南支系（蓝色圈注，左侧）、大围山支系（紫色圈注，中央)。其中横断山脉分支居群包括：云南的AN、WD（毛滇白珠）、QJ、SB、DL，四川的XC、EMS 居群；华东南支系包括：云南的PB、XS、ZY、TC、BS、MG、JD、YJ、WX、FY，贵州（包括毛滇白珠YHA 居群）、广西、广东、湖南、湖北、重庆、江西、福建的所有居群；大围山支系仅包括云南的DWS 居群。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 The Neighbor-Net Network of populations of the Gaultheria leucocarpa var.yunnanensis complex and related taxa, with the population of $G$ fragrantissima as outgroup. Bootstrap values $\\geq 5 0 \\%$ ）based on1000 replicatesareindicated above branches.Three majorclades are divided,i.e.，theclade from Taiwan，the Philippines，Malaysiaplus the Hengduan Mountains (colored in red,on the right)，the clade from the Southeastern China (colored in blue,on the left),and the clade from Dawei Mountain with only one population DWS included (colored in purple,in the middle). Populations from the Hengduan Mountains clade include AN, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "WD(G. leucocarpa var.crenulata), QJ,SB,and DL from Yunnan and XC and EMS from Sichuan.The clade from the Southeastern Chinais composed ofpopulations from Yunnan (PB,XS,ZY,TC,BS,MG,JD,YJ,WX,andFY) and all the populations from Guizhou (include YHA of $G$ leucocarpa var. crenulata), Guangxi, Guangdong, Hunan, Hubei, Chongqing, Jiangxi, and Fujian provinces. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1滇白珠复合群的遗传变异",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "物种的形成和分化通常源于群体间建立的基因流屏障，主要有：遗传分化造成的生殖隔离、地质及气候历史变迁造成的地理隔离、繁育系统的复杂性等（Levin，2003；Mallet，2007;Rieseberg&Wilis，2007)。滇白珠复合群分布广泛，遗传差异相对形态来说，与地理分布相关性更大。从地形上来看，它横跨了二、三级阶梯，从横断山脉南端一直沿长江流域分布到东南沿海地区，海拔上达2500米，下至390米。野外调查发现，该植物大多生长在空旷的土坡或岩壁上，呈带状局限分布于较高海拔地带。相关研究也发现滇白珠主要以根茎进行无性繁殖，由根延伸出芽形成新植株（马小军等，2001)，且马来西亚的白果白珠原变种为雄蕊先熟和自花授粉（Sleumer，1967)。所以滇白珠复合群呈现出的遗传分化可能是地形的阻隔导致了地理隔离，处于横断山脉的居群受高大山脉如哀牢山、点苍山、无量山、怒山、大凉山等阻隔，而处于东南地区的滇白珠居群分布在海拔相对较低的大起伏中山如南岭、大瑶山、十万大山、云开大山等，地势较横断山脉相对为平坦和连绵（尤联元等，2013)，滇白珠复合群可能因此没有产生较大的遗传变异。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2滇白珠复合群的系统演化关系",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的两个叶绿体片段rpl33-psaJ和trnL-rpl32在滇白珠复合群中变异位点较少，虽然有多个地区的序列没有形成分支，但解决了部分群体的系统演化关系。台湾（HXQ)和菲律宾（F）的秃果白珠居群得到了分子系统学较好的支持（图1)，从遗传上支持了该变种的成立，也支持了子房壁及蒴果不被毛是划分该变种重要的共衍征（分类性状)，果实形态特征被认为在白珠树属中具有重要的分类学意义（Luetal，2010）。系统发育分析显示秃果白珠是滇白珠复合群中较早分化出来的变种，但和具有地理隔离的横断山脉居群更近缘的关系并没有得到较好的支持（支持率低)，因此，与横断山脉区域居群之间的系统发育关系还需要进一步的研究。在1991年中文版《中国植物志》中，屏边白珠因其叶片形态和质地的差异被作为白果白果的一个变种处理，后中国植物志英文版（Fang＆ Stevens，2005）将其作为滇白珠的异名处理；但分子系统发育显示屏边大围山的两个个体DWS-1和DWS-2与其他滇白珠居群分属于两个分支，并且位于较基部而较早地分化出来（图1)；从网状进化关系看，屏边大围山的居群被单独划分为一支（图2)，一定程度上支持了该变种遗传学上的独立性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "基于传统形态分类，毛滇白珠因其枝、花梗密被均匀分布的硬毛，叶边缘被缘毛而被单独作为一个变种，区别于滇白珠（Fang&Stevens，2005)，但分子系统发育显示采自云南武定的毛滇白珠和采自云南安宁的滇白珠聚为一支，同时采自贵州印江的毛滇白珠和同地区的滇白珠聚为一支（图1)。环境因素对植物的生长发育会产生一定的影响，表现出丰富的形态、生理和发育等表型（Sultan，2000)。根据我们野外观察发现生活在背阴环境的滇白珠居群被毛情况多于向阳环境，且叶片较小，植株较纤细。本研究分子证据表明同域分布的有毛被及无毛被滇白珠在遗传上没有明显差异，说明被毛这一性状与遗传分化的相关性不大。形态与遗传的不一致性在许多植物中也有报道，例如：在蔷薇科金露梅属植物中，金露梅Dasiphora floribunda (Pursh) Raf.和银露梅 $D$ glabra(G.Lodd.)Sojk因为花瓣颜色的不同而被分为两个物种，但研究发现基于花瓣颜色对金露梅属植物进行物种划分界定没有得到遗传数据的支持（Maetal.，2014）。另外，还有生活在保加利亚的苦苣苔科植Haberleaferdinandi-coburgi Urum 和H.rhodopensisFriv 也出现了形态变异和遗传分化不一致的现象（Petrova etal，2014)。对于滇白珠复合群这样的遗传和形态不一致性，我们推测可能的原因是：（1）滇白珠毛被的生长发育容易受到环境的影响，这种变异不稳定，与谱系遗传无关，毛滇白珠只能作为滇白珠的一种生态类型；（2）叶绿体片段没有足够的分辨率且仅为母系遗传，无法检测是否存在杂交和网状进化，需要筛选合适的核基因片段或开展简化基因组分析进行更深入的研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.3滇白珠复合群的种质资源保护和利用",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "尽管滇白珠复合群分布广泛而资源丰富，在一定时期内可以承受一定规模的开发利用。但是，该植物并非栖生地的优势种，竞争性差、生长相对缓慢（灌木）、生物量有限、气候变化敏感性高，连年的工业化采挖会导致区域性资源很快枯竭。根据野外调查发现，云南中部、东北部和四川大凉山的居群正处于严重的人为干扰中，该区域的滇白珠复合群经历了当地一些药材公司连续性整株（包括地下根部）收购，并伴有民间药用采挖，这些居群的生物量正面临不同程度的减少，对该复合群进行保护生物学的研究极其重要，需要在本研究的基础上，进行居群式取样开展生态地理学及谱系地理学研究，更深层次阐明遗传变异格局的形成机制，确定保护单元，才能制订有效的保护策略。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢中国科学院昆明植物研究所的王红研究员和刘杰副研究员、台湾国立海洋生物博物馆何宣庆博士、美国德克萨斯州植物研究所的PeterWFritsch馆长研究员为本研究提供分别来自马来西亚、云南保山昌宁、台湾、菲律宾的实验材料。感谢杨涛参与部分实验，感谢陆仁福、刘廷勋、张明英、王银环、陈彦权、李国红、高亮新参与中国境内实验材料的采集。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BRYANT D, 2003.Neighbor-Net: An agglomerative method for the construction of phylogenetic networks [J]. Mol Biol Evol, 21 (2): 255-265.   \nCOPELAND HF,1932. Philippine Ericaceae,II: a taxonomic revision (concluded) [J]. Philipp J Sci, 47: 57-118.   \nDARRIBA D， TABOADA GL，DOALLO R,et al.，2012.Jmodeltest 2: more models,new heuristics and parallel computing [J]. Nat Methods, 9 (8): 772-772.   \nFANG RZ, STEVENS PF,2005. Gaultheria. In: Wu ZY,Raven PH, Hong DY,eds. Flora of China, vol.14.Apiaceae through Ericaceae [M]. Beijing: Science Press, St. Louis: Missouri Botanical Garden Press: 464-475.   \nFRITSCH PW, KELLY LM， WANG Y, et al.， 2008. Revised infrafamilial classfication of Symplocaceae based on phylogenetic data from DNA sequences and morphology [J]. Taxon, 57 (3): 823-852.   \nKRON KA, JUDD WS, STEVENS PF, et al.， 2002. Phylogenetic classification of Ericaceae: molecular and morphological evidence [J]. Bot Rev, 68 (3): 335-423.   \nLEVIN DA, 2003. Cytoplasmic factor in plant speciation [J]. Syst Bot, 28 (1): 5-11.   \nLIU ZZ, TIAN YX, WANG Y, et al., 2015. Ultra-performance liquid chromatography fingerprint combined with chemometrics as an effective strategy for Dianbaizhu species discrimination [J]. Biochem Syst Ecol, 63: 90-97.   \nLU L,FRITSCH PW, CRUZ BC, et al., 2010. Reticulate evolution, cryptic species,and character convergence in the core East Asian clade of Gaultheria (Ericaceae)[J]. Mol Phylogenet Evol, 57: 364-379.   \nLU L，2009. Phylogeny and biogeography of the Gaultherieae (Ericaceae: Vaccinioideae) [D]. Kunming:Kunming Institute of Botany.[陆露,2009．杜鹃花科白珠树族的系统发育与生物 地理学[D]．昆明：中国科学院昆明植物研究所.]   \nLIU WR,QIAO WL,LIU ZZ,et al.， 2013. Gaultheria: phytochemical and pharmacological characteristics [J]. Molecules,18 (10): 12071-12108.   \nMALLET J, 2007. Hybrid speciation [J]. Nature, 446 (7133): 279.   \nMA YZ, LI ZH, WANG X, et al., 2014. Phylogeography of the genus, Dasiphora, (Rosaceae) in the Qinghai-Tibetan Plateau: divergence blurred by expansion [J]. Biol J Linn Soc,111 (4): 777-788.   \nMA XJ， ZHENG JH, CHEN XZ, 2001. Studies on resources of ethnomedicine Gaultheria leucocarpa var. yunnanensis [J]. Chin JChin Mat Med,26 (2),85-89.[马小军，郑俊华，陈新 滋.2001．民族药滇白珠资源研究[J]．中国中药杂志,26(2):85-89.]   \nMA XJ, ZHAO L, ZHAO YJ, et al.， 2002.Determination of lignan glycosides in Gaultheria leucocarpa var. yunnanensis by RP-HPLC[J]. China J Chinese Mater Med, 27(1): 25-27.[马小 军，赵玲，赵玉娟，等,2002．不同来源滇白珠中木脂素苷的含量测定[J]．中国中药杂志, 27(1): 25-27.]   \nPETROVA G, DZHAMBAZOVA T, MOYANKOVA D, et al.， 2014. Morphological variation, genetic diversity and genome size of critically endangered Haberlea (Gesneriaceae) populations in Bulgaria do not support the recognition of two different species [J]. Plant Syst Evol, 300 (1): 29-41.   \nQIAO WL, 2013. Studies on the chemical constituents and antirheumatic activity of Dianbaizhu [D].Beijing.Beijing University of Chinese Medicine.[乔文林,2013．滇白珠化学成分和抗风 湿活性研究[D]．北京：北京中医药大学.]   \nRIESEBERG LH, WILLIS JH, 2007. Plant speciation [J]. Science (Washington DC),317 (5840): 910-914.   \nSHAW J, LICKEY EB, SCHILLING EE et al., 2007. Comparison of whole chloroplast genome sequences to choose noncoding regions for phylogenetic studies in angiosperms: the tortoise and the hare III [J]. Am JBot, 94 (3): 275-288.   \nSLEUMER H, 1967. Ericaceae (in part). In: van Steenis C.G.G.J., ed. Flora Malesiana [M]. Ser.1, vol. 6, part 5. Hoitsema, Groningen: Dijkstra's Drukkerij V/H Boekdrukkerij Gebr: 669-914.   \nSTAMATAKIS A, HOOVER P, ROUGEMONT J， 2008. A rapid bootstrap algorithm for the RaxML web servers [J]. Syst Biol, 57: 758-771.   \nSULTAN SE,2Ooo. Phenotypic plasticity for plant development, function and life history [J]. Trends Plant Sci, 5 (12): 537-542.   \nYANG JB, YANG SX, LI HT, et al., 2013. Comparative chloroplast genomes of Camellia species [J]. PLoS ONE,8 (8): e73053.   \nYING SS,1976. The Ericales of Taiwan [J]. Quart JChinese Forest, 9: 107-137.   \nYOU LY, YANG JC，2013. Geomorphology in China [M]. Beijing: Science Press: 645-660.[尤联 元，杨景春,2013．中国地貌[M]．北京，科学出版:645-660.]   \nXU YZ,1991. Gaultheria [M] // WU ZY, RAVEN PH, HONG DY. Flora of China: Vol. 57, part III. Apiaceae through Ericaceae .Beijing: Science Press: 60.[徐廷志.1991．白珠树属，杜鹃 花科．中国植物志：第57卷第3分册[M]．北京：科学出版社:60.]   \nZHAO YJ, HAN ZT, WANG WZ, et al., 2002. Determination of Gaulthersides (d_1,d_2 and d_3) in Yunnan wintergreen (Gaultheria Yunnansis） by reversed phase high performance liquid chromatography[J].Chin JAnal Chem,30 (9):1109-11.[赵玉娟，韩振泰，王文芝，等, ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2002．高效液相色谱法测定滇白珠植物中滇白珠甙[J]．分析化学,30(9):1109-1111.]",
+        "page_idx": 15
+    }
+]

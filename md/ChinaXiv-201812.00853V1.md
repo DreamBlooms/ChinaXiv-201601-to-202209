@@ -1,0 +1,103 @@
+1 赖氨酸对奶牛乳腺上皮细胞内乳糖合成相关基因表达的影响
+
+2 陈璐赵艳丽 郭晓宇史彬林 闫素梅\*（内蒙古农业大学动物科学学院，呼和浩特010018）
+
+摘要：本试验旨在研究赖氨酸（Lys）对奶牛乳腺上皮细胞（BMECs）内乳糖合成相关基因表达的影响，深入探讨Lys 对乳糖合成的影响机理。将第3代 BMECs随机分为6个组，每组6个重复，各组细胞培养液中Lys的添加浓度分别为0.5（对照）、1.0、2.0、4.0、8.0 和 $1 6 . 0 \ \mathrm { m m o l / L }$ ，细胞在 $3 7 ^ { \circ } \mathrm { C }$ 、5% $\mathrm { C O } _ { 2 }$ 条件下培养48h。结果表明：适宜浓度Lys 对乳糖含量和葡萄糖转运载体蛋白1（GLUT1）、已糖激酶I（HKI)和已糖激酶II（HKII）基因表达量的影响呈显著的剂量依赖关系（ $\scriptstyle P < 0 . 0 5 .$ ）；方差分析结果显示，添加Lys显著或趋于显著影响乳糖含量及乳糖合成相关基因表达。与对照组相比， $2 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组乳糖含量较高（ $_ { . P = 0 . 0 5 5 }$ ）， $4 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组GLUT1基因表达量显著升高（ $. P { < } 0 . 0 0 1$ ）， $2 . 0 { \sim } 8 . 0 \ \mathrm { m m o l / L }$ 组 $\mathfrak { a }$ 乳清白蛋白（LALBA）和β-1,4-半乳糖基转移酶-1（ $\beta \mathrm { . }$ -4GALT1）基因表达量显著升高（ $P { = } 0 . 0 0 6$ 和 $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ i ~ } }$ )，8.0\~16.0mmol/L 组HKI基因表达量显著升高（ $P { < } 0 . 0 0 1 \ \cdot$ ；但 $1 . 0 { \sim } 2 . 0 \ \mathrm { m m o l / L }$ 组HKI基因表达量显著下降（ $_ { . } { \cal P } { < } 0 . 0 0 1$ )， $4 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组HKI基因表达量下降，尤以 $1 6 . 0 \ \mathrm { m m o l / L }$ Lys 显著低于对照组（ $P { = } 0 . 0 0 2 )$ 。综上所述，Lys 对乳糖含量和GLUT1、HKI和 HKII基因表达量的影响存在显著的剂量依赖，Lys 浓度为2.0\~8.0 mmol/L时，对BMECs 内乳糖合成促进效果较好。
+
+关键词：奶牛；乳腺上皮细胞；赖氨酸；乳糖；基因表达中图分类号：S823 文献标识码：A 文章编号：
+
+乳糖是牛奶的主要成分，是限制牛奶产奶量的关键因素之一，在一定范围内产奶量随着乳糖合成的增加而增加[1-3]。氨基酸（AA）是合成乳蛋白的主要前体物，在影响乳蛋白合成的同时，也对乳糖合成产生影响[4]。赖氨酸（Lys）是乳蛋白合成主要的必需氨基酸（EAA），也是奶牛的限制性氨基酸[5]。因此，深入研究Lys 对乳糖合成的影响及机理，对调节乳腺内乳成分的合成和增加产奶量具有重要意义。王丽娜[]
+
+收稿日期：2018-02-14
+
+作者简介：陈璐(1990—),女，山西襄汾人,硕士研究生，从事奶牛营养研究。E-mail:1510560671@qq.com\*通信作者：闫素梅，教授，博士生导师，E-mail：yansmimau@163.com
+
+发现以奶牛乳腺上皮细胞（BMECs）为模型，在培养基中添加EAA可同时促进了乳蛋白和乳糖的合成。云伏雨[7]研究表明，在奶牛饲粮中添加适宜水平的Lys 可以提高产奶量、乳蛋白率和乳糖率。可见，Lys在一定程度上影响了乳糖的合成，但前人的研究多集中在向奶牛体内灌注Lys 及体外培养添加Lys 影响乳蛋白合成的方面，对体外添加Lys 影响乳糖合成及其机理方面的探索研究甚少，有必要对此进行深入研究。鉴于此，本研究以 BMECs 为模型，研究不同浓度Lys 对乳糖合成相关基因表达的影响，为进一步探讨 Lys对BMECs内乳糖合成的影响机理提供理论基础。
+
+# 1试验材料与方法
+
+# 1.1主要试剂与仪器
+
+试验主要试剂：ⅡI型胶原酶、DMEM/F12 培养基、胰岛素转铁蛋白硒钠、胎牛血清（FBS）、 $0 . 2 5 \%$ 胰蛋白酶/乙二胺四乙酸（EDTA），购自Gibco 公司；赖氨酸（Lys，L8662）、氢化可的松、表皮生长因子、催乳素、琼脂糖，购自 Sigma 公司；RNAiso PLUS、PrimeScript RT Master Mix 和 SYBR Premix ExTaqIM II,购自TaKaRa 公司；牛D乳糖酶联免疫吸附试剂盒（EHJ-90716h)，购自厦门慧嘉生物技术有限公司。试验主要仪器：二氧化碳恒温培养（Forma-311，Thermo）、倒置显微镜（Olympuse，日本）、全自动酶标仪（SynergyH4BioTek，美国）及荧光定量PCR仪（ABI-7500，美国）。
+
+# 1.2原代BMECs体外培养与试验设计
+
+在内蒙古呼和浩特市北亚清真屠宰场选取3头3\~5岁经产的健康泌乳中期的高产荷斯坦奶牛乳腺组织，参考 Sheng 等[8的胶原酶消化法获得和培养BMECs，当原代细胞贴壁率达到 $8 0 \% { \sim } 9 0 \%$ 后，用 $0 . 2 5 \%$ 胰蛋白酶/EDTA对细胞进行纯化和传代。将第3代的BMECs按照试验要求的细胞密度接种于6孔培养板上（ ${ 5 } { \times } { 1 0 } ^ { 5 }$ 个/孔)，以含 $10 \%$ FBS 的DMEM/F12 培养基，在 $3 7 ^ { \circ } \mathrm { C }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 条件下培养 $2 4 \mathrm { h }$ 。采用单因子随机试验设计，当细胞贴壁率达到 $8 0 \% { \sim } 9 0 \%$ 时，换为无血清的DMEM/F12饥饿培养基，继续培养 $1 2 \mathrm { h }$ 后，将细胞分为6个组，在每组中加入不同浓度的Lys工作液，使反应体系中Lys 终浓度分别为0.5（对照）、1.0、2.0、4.0、8.0 和 $1 6 . 0 \ \mathrm { m m o l / L }$ ，每组6个重复，在 $3 7 ^ { \circ } \mathrm { C }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 条件下培养 $4 8 \mathrm { { h } }$ 。各组DMEM/F12培养基中亮氨酸、蛋氨酸、甘氨酸、精氨酸、异亮氨酸、苯丙氨酸、苏氨酸、色氨酸和氨酸浓度分别为0.45、0.13、0.25、0.70、0.42、0.22、0.45、0.04 和 $0 . 4 5 \mathrm { m m o l / L }$ ，Lys 的浓度参考高海娜等[9]和李喜艳[10]的研究结果并通过测定细胞增殖率[RGR（%） $\scriptstyle =$ 试验组 $\mathrm { O D } _ { 4 9 0 } /$ 对照组 $\mathrm { O D } _ { 4 9 0 } { \times } 1 0 0 ]$ 确定。
+
+# 1.3 测试指标与方法
+
+BMECs内乳糖的含量采用双抗体夹心法测定。将细胞以 ${ 5 } { \times } { 1 0 } ^ { 5 }$ 个/孔的密度接种于6孔培养板上，按试验设计培养结束后，收集细胞培养液，按照牛D乳糖 ELISA 试剂盒说明书的方法步骤测定细胞培养液中乳糖含量，即根据梯度稀释法用标准品稀释液将 $1 . 8 ~ \mathrm { m g / L }$ 标准品稀释成 $1 2 0 0 , 8 0 0 , 4 0 0 , 2 0 0$ 和 $1 0 0 \mu \mathrm { g / L }$ 5个浓度，每个浓度分别在酶标包被板上加2个孔（ $5 0 ~ \mu \mathrm { L } /$ 孔)，再向待测样品孔中加入 $4 0 ~ \mu \mathrm { L }$ 样品稀释液，之后加入 $1 0 ~ \mu \mathrm { L }$ 待测样品，用封板膜封板置于 $3 7 ^ { \circ } \mathrm { C }$ 培养箱温育 $3 0 \mathrm { m i n }$ ；温育结束后，弃液体甩干，用洗涤液清洗5次，在每孔中加入 ${ 5 0 \mu \mathrm { L } }$ 酶标试剂，温育 $3 0 \mathrm { m i n }$ ，再洗涤；每孔加入 ${ 5 0 \mu \mathrm { L } }$ 显色剂A，之后加入 ${ 5 0 \mu \mathrm { L } }$ 显色剂B， $3 7 ^ { \circ } \mathrm { C }$ 避光显色 $1 5 \mathrm { m i n }$ ，每孔再加入 ${ 5 0 \mu \mathrm { L } }$ 终止液，以空白孔调零，用全自动酶标仪测定 $\mathrm { O D } _ { 4 5 0 }$ ，根据标准曲线计算样品中乳糖的含量。
+
+BMECs内总RNA按照Trizol法提取。将细胞以 $5 \times 1 0 ^ { 5 }$ 个/孔的密度接种于6孔培养板，按试验设计培养结束后，用酶标仪检测 RNA 的纯度与浓度， $\mathrm { O D } _ { 2 6 0 } / \mathrm { O D } _ { 2 8 0 }$ 在 $1 . 8 { \sim } 2 . 2$ 范围内表示RNA 纯度较好。RNA完整性用 $2 \%$ 琼脂糖凝胶电泳检测。将RNA反转录成cDNA采用PrimeScriptRTMasterMix试剂盒的方法进行，反转录体系为 $1 0 \mu \mathrm { L }$ 。基因表达量采用 SYBRPremixEx TaqTMII试剂盒的方法进行测定，反应体系为 $2 0 ~ \mu \mathrm { L }$ 。以磷酸甘油醛脱氢酶（GAPDH)、 $\beta$ -肌动蛋白（ $\beta$ -actin）和18S 核糖体RNA（18S rRNA）为管家基因，对乳糖合成相关基因 $\mathfrak { a } .$ 乳清白蛋白(LALBA)、 $\beta \mathrm { - } 1 , 4 \mathrm { - }$ 半乳糖基转移酶-1(β-4GALT1)、葡萄糖转运载体蛋白1(GLUT1)、已糖激酶I(HKI)和已糖激酶I(HKI)的相对表达量进行测定，其引物序列见表1。实时荧光定量PCR的反应程序为： $9 5 . 0 ^ { \circ } \mathrm { C }$ 预变性 $3 0 ~ \mathrm { s }$ ： $9 5 . 0 ^ { \circ } \mathrm { C }$ 变性 $5 \mathrm { ~ s ~ }$ ， $6 0 ^ { \circ } \mathrm { C }$ 退火 $3 4 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸 $2 0 ~ \mathrm { s }$ ，进行40个循环反应； $9 5 ^ { \circ } \mathrm { C }$ 、5s， $6 0 ~ ^ { \circ } \mathrm { C }$ 、 $3 0 ~ \mathrm { s }$ ， $9 5 ~ ^ { \circ } \mathrm { C }$ 、 $1 5 \mathrm { ~ s ~ }$ ，51个循环，绘制熔解曲线。实时荧光定量PCR结果用GAPDH、 $\beta$ -actin 和18SrRNA这3个管家基因的几何平均数进行分析，基因的相对表达量采用 $2 ^ { - \triangle \triangle \mathrm { C t } }$ 法计算得出。
+
+# 表1乳糖合成相关基因的引物序列
+
+Table 1Primer sequences of genes related to lactose synthesis   
+
+<html><body><table><tr><td>基因 GenBank 登录号 引物序列 长度 参考文献</td></tr></table></body></html>
+
+<html><body><table><tr><td>Genes</td><td>GenBank accession No.</td><td>Primer sequences (5'-3')</td><td>Length/bp</td><td>Reference</td></tr><tr><td>磷酸甘油醛脱氢酶</td><td>XM_001252479</td><td>F:GGGTCATCATCTCTGCACCT</td><td>177</td><td>Sheng 等[8]</td></tr><tr><td>GAPDH</td><td></td><td>R:GGTCATAAGTCCCTCCACGA</td><td></td><td></td></tr><tr><td>β-肌动蛋白</td><td>NM_173979.3</td><td>F:AACTCCATCATGAAGTGTGACG</td><td>234</td><td>张航[]</td></tr><tr><td>β-actin</td><td></td><td>R:GATCCACATCTGCTGGAAGG</td><td>152</td><td>Varshney 等[12]</td></tr><tr><td>18S 核糖体RNA</td><td>Robinson et al., 2007</td><td>F:GTAACCCGTTGAACCCCATT</td><td></td><td></td></tr><tr><td>18S rRNA</td><td></td><td>R:CCATCCAATCGGTAGTAGCG F:AGTTTGCCTGAATGGGTCTG</td><td>144</td><td>宗灿华[13]</td></tr><tr><td>α-乳清白蛋白 LALBA</td><td>NM_174378.2</td><td>R:TGAGTGAGGGTTCTGGTCGT</td><td></td><td></td></tr><tr><td>β-1,4-半乳糖基转移酶-1</td><td></td><td>F:GAAGTTGGGTGGTCGCTACA</td><td>133</td><td>自行设计</td></tr><tr><td>β-4GALT1</td><td>NM_177512.2</td><td>R:CTGACGCTGTACCATTGGGT</td><td></td><td></td></tr><tr><td>葡萄糖转运载体蛋白1</td><td></td><td>F:GTGCTCCTGGTTCTGTTTCTTCA</td><td>84</td><td>O'Boyle 等[14]</td></tr><tr><td>GLUT1</td><td>NM_174602.2</td><td>R:GCCAGAAGCAATCTCATCGAA</td><td></td><td></td></tr><tr><td>已糖激酶I</td><td></td><td>F:TGATGGGACTGAGAACGG</td><td>135</td><td>自行设计</td></tr><tr><td>HKI</td><td>NM_001012668.1</td><td>R:TCAATGGGAATGGCGTAG</td><td></td><td></td></tr><tr><td>已糖激酶II</td><td></td><td></td><td>123</td><td></td></tr><tr><td>HKII</td><td>XM_00125583</td><td>F:AAGATGCTGCCCACCTACG R:TCGCTTCCCATTCCTCACA</td><td></td><td>自行设计</td></tr></table></body></html>
+
+# 1.4 数据统计
+
+所有数据通过Excel2010进行计算整理，采用SAS9.0软件的方差分析（ANOVA）程序进行显著性检验，同时用回归统计程序进行一次线性与二次曲线回归分析， $P { < } 0 . 0 5$ 表示组间的差异或回归关系显著，$0 . 0 5 { < } P { < } 0 . 1 0$ 表示组间的差异或回归关系趋于显著， ${ P > } 0 . 1 0$ 表示组间的差异或回归关系不显著。
+
+2结果
+
+表2的结果表明，BMECs 内乳糖含量随着Lys 浓度的增加呈显著的二次曲线升高（ $_ { \cdot } P { = } 0 . 0 1 6 ^ { \cdot }$ ，回归方程为y=102.481 83+15.765 10x-0.885 $8 7 x ^ { 2 }$ （ $R ^ { 2 } { = } 0 . 7 7 7 0 ^ { \cdot }$ )’ $x$ 为Lys浓度， $y$ 为乳糖含量，其中以 $2 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组乳糖含量较高，趋于显著高于对照组（ $\scriptstyle P = 0 . 0 5 5 ,$ ，以 $4 . 0 \ : \mathrm { m m o l / L }$ 组最高，之后随着Lys 浓度的升高促进效果减弱。随着Lys 浓度的增加，GLUT1和HKII基因表达量呈显著的一次线性升高( $\scriptstyle \cdot { \cal P } = 0 . 0 0 2$ 和 $P { = } 0 . 0 1 8 \$ )，回归方程为 $y = 0 . 9 0 8 \ 2 1 + 0 . 0 7 7 \ 4 8 x$ （ $R ^ { 2 } { = } 0 . 9 3 6 0$ ， $x$ 为Lys 浓度， $y$ 为GLUT1基因表达量； $y = 0 . 7 4 1 \ 2 9 \substack { + 0 . 0 5 2 }$ $4 5 x$ （ $R ^ { 2 } { = } 0 . 7 8 7 9$ ， $x$ 为Lys 浓度， $y$ 为 HKII基因表达量；其中GLUT1基因表达量以 $4 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组较高，显著高于对照组（ $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ )，HKI基因表达量以 $8 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组较高,显著高于其他组（ $P { < } 0 . 0 0 1 \ \cdot$ )，但1.0\~2.0 mmol/LLys 显著抑制了其表达，表现出先降低后升高的变化趋势。随着Lys 浓度的增加，HKI基因表达量呈显著的一次线性降低（ $\scriptstyle P = 0 . 0 3 1 .$ )，回归方程为 $y = 1 . 0 8 6 8 7 - 0 . 0 4 3 2 1 x$ ( $R ^ { 2 } { = } 0 . 7 2 7 2$ ， $x$ 为Lys浓度， $y$ 为HKI基因表达量；其中以 $2 . 0 \mathrm { m m o l / L }$ 组最高，高于对照组，而 $4 . 0 { \sim } 1 6 . 0 \ \mathrm { m m o l / L }$ 组低于对照组，尤以16.0 mmol/LLys 显著抑制其表达（ $P { = } 0 . 0 0 2 \rangle$ ；LALBA和 $\beta .$ -4GALT1基因表达量均以 $2 . 0 { \sim } 8 . 0 \ \mathrm { m m o l / L }$ 组较高（ $\scriptstyle \cdot - 0 . 0 0 6$ 和 $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ ， $1 6 . 0 \mathrm { m m o l / L }$ 组高于对照组，但差异不显著（ $P { > } 0 . 0 5 )$ ）°
+
+# 表2Lys 对BMECs 内乳糖合成及相关基因表达量的影响
+
+Table 2Effect of Lys on lactose content and the expression levels of genes related to lactose synthesis in   
+BMECs   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="6">Lys 浓度 Lys concentration/(mmol/L)</td><td rowspan="2">均值 标准 误 SEM</td><td rowspan="2">P值</td><td colspan="2">P值P-value</td></tr><tr><td>0.5</td><td>1.0</td><td>2.0</td><td>4.0</td><td>8.0</td><td>16.0</td><td>P-value</td><td>一次 二次 Linear Quadratic</td></tr><tr><td>相对增值率RGR/%</td><td>100.0a</td><td>103.9a</td><td>102.3a</td><td>95.3b</td><td>83.7℃</td><td>69.3d</td><td>1.270</td><td><0.001</td><td><0.001</td><td>0.004</td></tr><tr><td>乳糖Lactose/(ng/mL)</td><td>97.60</td><td>115.39</td><td>141.13</td><td>167.40</td><td>157.20</td><td>130.47</td><td>13.766</td><td>0.055</td><td>0.397</td><td>0.016</td></tr><tr><td>葡萄糖转运载体蛋白1 GLUT1</td><td>1.00d</td><td>1.11cd</td><td>1.00d</td><td>1.20bc</td><td>1.33b</td><td>2.25a</td><td>0.061</td><td><0.001</td><td>0.002</td><td>0.002</td></tr><tr><td>已糖激酶I HKI</td><td>1.00ab</td><td>1.05ab</td><td>1.26a</td><td>0.71bc</td><td>0.75bc</td><td>0.44c</td><td>0.147</td><td>0.002</td><td>0.031</td><td>0.123</td></tr><tr><td>已糖激酶ⅡI HKII</td><td>1.00c</td><td>0.67d</td><td>0.64d</td><td>0.96c</td><td>1.29b</td><td>1.54a</td><td>0.047</td><td><0.001</td><td>0.018</td><td>0.095</td></tr><tr><td>α-乳清白蛋白 LALBA</td><td>1.00</td><td>1.36bc</td><td>1.60abc</td><td>2.19a</td><td>1.80ab</td><td>1.58abc</td><td>0.355</td><td>0.006</td><td>0.737</td><td>0.345</td></tr><tr><td>β-1,4-半乳糖基转移酶-1 β-4GALT1</td><td>1.00c</td><td>1.91ab</td><td>2.00ab</td><td>2.43a</td><td>2.30a</td><td>1.51bc</td><td>0.209</td><td><0.001</td><td>0.985</td><td>0.177</td></tr></table></body></html>
+
+同行无字母或数据肩标相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。$P { < } 0 . 0 5$ 表示回归关系显著； $0 . 0 5 { < } P { < } 0 . 1 0$ 表示回归关系趋于显著； ${ P \mathrm { > } } 0 . 1 0$ 表示回归关系不显著。In the same row, values with no letter or the same lettr superscripts mean no significant difference ( $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ ，while with different small letter superscripts mean significant difference ( $P < 0 . 0 5 )$ ： $P { < } 0 . 0 5$ means significantregression; $0 . 0 5 < P { < } 0 . 1 0$ means regression tend to be significant; ${ P \mathrm { { > } } } 0 . 1 0$ means not significant regression.
+
+3讨论
+
+在体外研究中，乳腺组织不能通过糖异生合成葡萄糖[15]，只能从血液吸收获得，因此，添加 Lys 对BMECs 内乳糖合成的影响仅能通过调控作用来完成。本研究发现，添加Lys对乳糖含量的促进效果呈显著的二次曲线升高（回归方程中 $R ^ { 2 } { = } 0 . 7 7 7 0 ^ { \cdot }$ )，方差分析结果显示，不同浓度Lys趋于显著地提高乳糖含量，即在适宜浓度范围内，乳糖含量随着Lys 浓度的增加而增加，在4.0mmol/L时促进效果最好，再随着浓度的进一步增加，其促进效果减弱，说明Lys 对乳糖合成的促进作用呈显著的剂量依赖关系。  
+乳腺对葡萄糖的摄取是调控乳产量的限速步骤，GLUT1是葡萄糖转运蛋白，已糖激酶（HKs）是利用葡萄糖的限速酶，可以催化葡萄糖磷酸化生成 6-磷酸葡萄糖，HKI和 HKII是HKs 在乳腺组织中发现的 2种基因表达[16]，并且HKII的基因表达与葡萄糖摄取密切相关[17]。Fueger 等[18]研究发现，HKII基因过表达后促进葡萄糖吸收。本研究结果发现，Lys 浓度对GLUT1与HKII基因表达的促进作用呈显著的一次线性升高，8.0\~16.0 mmol/LLys 显著促进 GLUT1与 HKII基因表达，而1.0\~2.0 mmol/LLys 抑制 HKII基因表达;Lys 对 HKI基因表达的影响呈显著的一次线性降低，2.0 mmol/LLys 促进其表达，高剂量具有抑制作用，与赵艳丽[9]的研究结果相似，即亮氨酸可促进 HKI基因表达，但高剂量抑制其表达；这些结果说明，Lys 可能促进葡萄糖摄取和磷酸化。结果也得出，添加Lys 可趋于显著增加乳糖含量，但高剂量的促进效果减弱，可能与适宜浓度Lys 促进葡萄糖摄取与磷酸化，而高剂量抑制HKI基因表达有关，这进一步解释了Lys 对乳糖合成的作用效果呈剂量依赖关系的原因。  
+乳糖合成酶由 $\beta$ -4GALT1及LALBA 组成,LALBA是乳糖合成酶中的调节亚基,调控乳糖合成与分泌；β-4GALT1 是催化亚基，只有在LALBA 存在的条件下，才能发挥作用，催化 UDP-半乳糖与葡糖糖以β-1,4糖苷键形成乳糖，控制着乳糖合成效率，进而调节乳产量[20]。本研究发现，2.0\~8.0 mmol/LLys 显著促进LALBA 和β-4GALT1基因表达，而 16.0 mmol/LLys 的促进作用减弱，与Lys 促进乳糖含量的结果相吻合，因此进一步解释了BMECs内乳糖含量的增加可能与Lys 促进LALBA 和 $\beta \mathrm { . }$ 4GALT1基因表达有关。综上所述，Lys 对乳糖含量和GLUT1、HKI和 HKII基因表达的促进作用存在剂量依赖关系，并且乳糖含量以 2.0\~16.0 mmol/L Lys、GLUT1基因表达量以 4.0\~16.0 mmol/L Lys、HKI基因表达量以8.0\~16.0mmol/L Lys、LALBA 和β-4GALT1 基因表达量以 2.0\~8.0 mmol/L Lys 的促进效果较好，但 16.0 mmol/L Lys对LALBA和 $\beta$ -4GALT1基因表达的促进作用减弱，1.0\~2.0 mmol/LLys 显著抑制 HKII基因表达，4.0\~16.0
+
+mmol/LLys 抑制HKI基因表达。因此，Lys 浓度为 $2 . 0 { \sim } 8 . 0 \ \mathrm { m m o l / L }$ 时，对BMECs内乳糖合成促进效果较好。
+
+4结论
+
+Lys 对乳糖含量和GLUT1、HKI和 HKII基因表达量的影响呈剂量依赖关系，以浓度为2.0\~8.0 mmol/L时促进效果较好，浓度为16.0 mmol/L时抑制了HKI基因表达，且减弱了对乳糖合成的促进作用。
+
+参考文献：   
+[1]BRODBECK U,DENTON WL,TANAHASHI N,et al.The isolation and identification of the B protein of lactose synthetase as $\mathfrak { a }$ -lactalbumin[J].Journal of Biological Chemistry,1967,242(7):1391-1397.   
+[2]VILOTTE J.Lowering the milk lactose content in vivo:potential interests,strategies and physiological consequences[J].Reproduction,Nutrition,Development,2002,42(2):127-132.   
+[3]WICKRAMASINGHE S,RINCON G,ISLAS-TREJO A,et al.Transcriptional profiling of bovine milk using RNA sequencing[J].BMC Genomics,2012,13:45.   
+[4]MAXIN G,RULQUIN H,GLASSER F,et al.Response of milk fat concentration and yield to nutrient supply in dairy cows[J].Animal,2011,5(8):1299-1310.   
+[5]ALLAUDDIN,BABAR M E,BHATTI JA,et al.Efect of methionine supplementation on milk production and composition in nili-ravi buffaloes[J].Pakistan Journal of Zoology Supplementry Series,20o9,9:413-416. [6]王立娜.氨基酸与 STAT5A 基因互作对奶牛乳腺上皮细胞泌乳的调节作用及机理[D].博士学位论文.哈 尔滨:东北农业大学,2014.   
+[7]云伏雨.瘤胃保护赖氨酸对泌乳中期奶牛生产性能和血液生化指标的影响[D].硕士学位论文.呼和浩特: 内蒙古农业大学,2011.   
+[8]SHENG R,YAN S M,QI L Z,et al.Effect of the ratios of acetate and $\beta$ -hydroxybutyrate on the expression of milk fat- and protein-related genes in bovine mammary epithelial cels[J].Czech Journal of Animal Science,2015,60(12):531-541.   
+[9]高海娜.亮氨酸、组氨酸、赖氨酸和蛋氨酸对奶牛乳腺上皮细胞中酪蛋白合成的影响及调控机理研究[D].
+
+硕士学位论文.兰州：甘肃农业大学,2016
+
+[10]李喜艳.奶牛乳腺上皮细胞中赖氨酸蛋氨酸配比模式对酪蛋白合成的影响及机理研究[D].硕士学位论文.北京:中国农业科学院,2011.
+
+[11]张航.不同日粮模式及长链脂肪酸对奶牛乳腺乳脂合成的影响及其机理研究[D].博士学位论文.呼和浩特:内蒙古农业大学,2014.
+
+[12]VARSHNEY N,MOHANTY A K,KUMAR S,et al.Selection of suitable reference genes for quantitative gene expression studies in milk somatic cells of lactating cows (Bos indicus)[J].Journal of Dairy Science,2012,95(6):2935-2945.   
+[13]宗灿华.奶牛乳腺主要乳成分合成代谢的转录组学研究[D].博士学位论文.哈尔滨:东北农业大学,2013.   
+[14]O'BOYLE N J,CONTRERAS G A,MATTMILLER S A,et al.Changes in glucose transporter expression in monocytes of periparturient dairy cows[J].Journal of Dairy Science,2012,95(10):5709-5719.   
+[15]THREADGOLD L C,KUHN N J.Glucose-6-phosphate hydrolysis by lactating rat mammary gland[J].International Journal of Biochemistry,1979,10(8):683-685.   
+[16]赵柯.奶牛乳腺上皮细胞葡萄糖摄取的调控及其对乳成分合成的影响研究[D].博士学位论文.杭州::浙 江大学,2011.   
+[17]ONG L,JIN Y,SONG I C,et al.2-( $^ { \prime 1 8 } \mathrm { F } )$ -2-deoxy-D-glucose (FDG) uptake in human tumor cells is related to the expression of GLUT-1 and hexokinase I[J].Acta Radiologica,2008,49(10):1145-1153.   
+[18]FUEGER P T,BRACY D P,MALABANAN C M,et al.Hexokinase II overexpression improves exercise-stimulated but not insulin-stimulated muscle glucose uptake in high-fat-fed C57BL/6J mice[J].Diabetes,2004,53(2):306-314.   
+[19] 赵艳丽.乙酸与亮氨酸、乙酸与蛋氨酸互作效应对奶牛乳腺上皮细胞内乳成分合成的影响及其机理研 究[D].博士学位论文.呼和浩特:内蒙古农业大学,2016. RAMAKRISHNAN B,QASBA P K.Structure-based design of beta 1,4-galactosyltransferase I (β 4GAL-T1
+
+with equally efficient N-acetylgalactosaminyltransferase activity:point mutation broadens $\beta$ 4GAL-T1 donor
+
+# Effects ofLysine on Expression of Genes Related to Lactose Synthesis in Bovine Mammary Epithelial Cells
+
+CHEN Lu ZHAO Yanli GUO Xiaoyu SHI Binlin YAN Sumei\* (CollegeofAnimal Science,Inner Mongolia Agricultural University,Hohhot O1oo18,China)
+
+Abstract: The objective of this study was to determine the effct of lysine (Lys)on the expression of genes elated to lactose synthesis in bovine mammary epithelial cells (BMECs),and to discussthe mechanism of the effect of Lys on lactose synthesis.The third generation BMECs were divided into 6 groups with 6 repetitions,and were cultured in the medium added with 0.5 (control),1.0,2.0, 4.0,8.0 and 16.0 mmol/L Lys,respectively, for $4 8 \mathrm { ~ h ~ }$ cultivation at $3 7 ^ { \circ } \mathrm { C }$ and $5 \%$ （20 $\mathrm { C O } _ { 2 }$ . The results showed as follows: the proper concentration of Lys had a significant dose-dependent effect on the content of lactose and the expression levels of glucose transporter 1 (GLUT1), hexokinase I (HKI) and hexokinase II (HKII) genes $( P { < } 0 . 0 5 )$ ; the variance analysis results showed that increasing Lys concentration had a significant or tend to significant efect on the content of lactose and the expression of genes related to lactose synthesis. Compared with the control, the content of lactose in 2.0 to $1 6 . 0 \ \mathrm { m m o l / L }$ Lys groups was higher $\scriptstyle { \overbrace { P { = } 0 . 0 5 5 } }$ ), the expression level of GLUTl gene in 4.0 to $1 6 . 0 \ \mathrm { m m o l / L }$ Lys groups increased significantly $( P { < } 0 . 0 0 1 )$ ，the expression levels of $\mathfrak { a }$ -lactalbumin (LALBA） and $\beta$ -1,4-galactosyltransferase1 (β-4GALT1） genes in 2.0 to $8 . 0 \ \mathrm { m m o l / L }$ Lys groups increased significantly $P { = } 0 . 0 0 6$ and $P { < } 0 . 0 0 1$ )，and the expression level of HKII gene in 8.0 to $1 6 . 0 \ \mathrm { m m o l / L }$ Lys groups increased significantly $\scriptstyle ( P < 0 . 0 0 1 )$ ); the expression level of HKI gene in 1.0 to $2 . 0 \ \mathrm { m m o l / L }$ Lys groups was inhibited significantly $( P { < } 0 . 0 0 1 )$ ； the expression of HKI gene in 4.0 to 16.0 mmol/L Lys groups was inhibited, especially for that in $1 6 . 0 \ \mathrm { m m o l / L }$ Lys group, which was significantly lower than that in the control ( $\scriptstyle P = 0 . 0 0 2 ,$ . In conclusion, it shows that the Lys significantly improves the content of lactose, GLUT1,HKI and HKI genes expresson in dose-dependent manner and the optimal Lys concentrations for lactose synthesis is 2.0 to $8 . 0 \mathrm { m m o l / L }$
+
+Key words: dairy cow; bovine mammary epithelial cells; lysine; lactose; gene expression

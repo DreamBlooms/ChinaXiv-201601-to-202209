@@ -1,0 +1,452 @@
+[
+    {
+        "type": "text",
+        "text": "Organic& Biomolecular Chemistry ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "www.rsc.org/obc ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/49629cf986538694eecab83b88ccf066998fd543e8c2a77d20f7d9ad73fbf9fd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D-Isonucleotide (isoNA) incorporation around cleavage site of passenger strand promotes the vibration of Ago2-PAZ domain and enhances in vitro potency of siRNA ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ye Huang,tae Miao Tian,ta Yichao Zhang,b Gang Sheng. Zhuo Chen,ä Yuan Ma,a Yue Chen,ä Yihong Peng,d Yi-Lei Zhao,\\*b Yanli Wang,° Lihe Zhanga and Zhenjun Yang\\*a ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been demonstrated that passenger strand cleavage is important for the activation of RNA-induced silencing complex (RISC),which is a crucial step for siRNA-mediated gene silencing.Herein,we report that isonucleotide (isoNA) modification around the cleavage site of the passenger strand would affect the in vitro potency of modified siRNAs by altering the motion patern of the Ago2-PAZ domain.According to western blotting,q-PCR and antiviral test results,we proved that D-isonucleotide (isoNA) modification at the position 8 of the passenger strand (siMek1-S08D),which is adjacent to the cleavage site,markedly improved the in vitro potency of the modified siRNA, whereas siRNAs with D-isoNA incorporation at position9(siMek1-S09D)orL-isoNA incorporationatpositions 8and 9(siMek1-S08L,siMek1-SO9L) displayed lower activity compared to native siRNA. Kinetics evaluation of passenger strand cleavage induced by T.thermophilus Ago (Tt-Ago) showed that D-isoNA modification at position 8of the passenger strand had no significant influence on the cleavage rate,but L-isoNA modification at position 8 slowed the cleavage rate markedly. Moreover,the results of molecular dynamics simulations showed that D-isoNA modification at position 8 affcted the open-close motion of the PAZ domain in the Ago/siRNA complex,which may promote the loading of RISC and release of a passenger strand cleavage product,and consequently accelerate the activation of RISC and enhance silencing activity.However，D-isoNA modification at position 9 orL-isoNA modification at position 8or 9 exerted opposite influences on the motion of the Ago-PAZ domain. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the discovery of the RNA interference (RNAi) effect in Caenorhabditis elegans,1 double-stranded small interfering RNA (siRNA) molecules have been proved to be able to exert a potent gene knockdown effect in mammalian cells² and other eukaryotes $^ { 3 - 5 }$ Assembly of the RNA-induced silencing complex (RISC) is the pivotal step in the RNAi pathway. In humans,a siRNA duplex with both guide strand and passenger strand is first recognized by the RLC complex,which contains Dicer and the RNA-binding protein TRBP,to form an immature RISC complex. Then,the passenger strand is nicked between positions 9 and 10,counted from the $5 ^ { \\prime }$ -terminal,by the Argonaute 2 (Ago2) protein in the same way as target mRNA is cleaved,8,9 followed by being degraded by C3PO to finally activate the RISC.10 Active RISC recognizes and cleaves complementary target RNA to execute the silencing process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A dramatic reduction in the cleavage efficiency of target RNA was found when chemical modification occurred around the nicked site of the passenger strand. These chemical modifications may limit the formation of RIsC and then impair the silencing activity of siRNA by blocking the cleavage of the passenger strand.8,11 For example,replacing the phosphodiester linkage between position 9 and position 10 with phos phorothioate，modifying position 9 with $2 ^ { \\prime } { \\cdot }$ O-methylribose, and introducing 4-nt mismatches from position 9 to position 11,all caused a great reduction in the cleavage efficiency of complementary target RNA.However,the same modifications that were positioned 1-or 2-nt downstream of the cleavage site oraway from the central position did not affect the cleavage of target RNA.11 On the other hand,when thermally destabilizing modifications were placed around the cleavage site of the passenger strand,an obvious enhancement in silencing activity was found.1² This unusual phenomenon may be due to the fact that thermally destabilizing modifications change the regional conformation around the active site and assist thecleavage-related residues of Ago2 protein to interact with the phosphodiester bond between position 9 and position 10 of the passenger strand.All these reports indicate that alteration of the conformation around the cleavage site of the passenger strand may affect the silencing activity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Isonucleotide (isoNA) (Fig.1A) is a novel type of nucleotide analogue in which the nucleobase is moved to another position of ribose other than $\\mathbf { C } { - } \\mathbf { 1 } ^ { \\prime }$ 13,14 In our previous study， we found that isonucleotide modification could alter the regional conformation around the incorporation site when modified DNA or RNA oligonucleotides were hybridized with a complementary DNA/RNA strand.For example,L-isoNA modification at the $3 ^ { \\prime }$ -terminus of DNA oligonucleotides created a conformation that blocked exonuclease recognition and then increased their exonuclease-resistant ability,whereas L-isoNA modification in the middle of oligonucleotides altered the regional conformation into a form that is more suitable for RNase H recognition and then promoted the degradation of complementary RNA.15-17 Then, we reported that D-isoNA and L-isoNA incorporation could introduce regional conformation alteration into a siRNA duplex and affect the physicochemical and biological properties at varying degrees.18 Therefore, $\\mathrm { { { D } ^ { - } } / \\mathrm { { { L } } } }$ -isoNA could be applied as a pair of chemical tools to investigate the systematic relationship between conformational alteration around every single nucleotide of siRNA and their biological potency. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Through thermal denaturation and dynamic simulation studies,we have demonstrated that D-isoNAand L-isoNA modification at positions 8 and 9 of the passenger strand would affect the original compact duplex by introducing flexible conformations of different degrees.18 Therefore,in this study, further silencing activity,antivirus activity and dynamic simulation studies were applied to thoroughly explore the influence ofregional conformationalteration caused by $\\mathrm { { { D } ^ { - } } / \\mathrm { { { L } } } }$ -isoNAmodification on the process of passenger strand cleavage and the silencing potency of modified siRNAs.The siRNA sequence that targets the MEK1 kinase mRNA,which is crucial for the replication process of various common viruses，was chosen for the further evaluation of silencing activity and antivirus activity in vitro (Fig. 1B).19,20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9300d3c495bbb865c72ddea6c41c82eedfefc6dfa323bdda22ee3b9d35097970.jpg",
+        "img_caption": [
+            "Fig.1Silencing activity affected by D- $\\cdot / \\iota$ -isoNA modification at positions 8 and9of passenger strand. (A) Structures of D-isonucleotide (D-isoNA, leftandisoceotidot.Besfesoidioooineeeaded representthepredictedcleavagesites.(C)QuantiatvePCRresultsofmek1mRNA.HEK293celswereCo-transfectedwithsiMek1andsiMek1s modified with D-isoNA or $\\mathsf { L }$ -isoNA in the passenger strand at $3 0 ~ \\mathsf { n M }$ of each.Mek1 mRNA was measured $2 4 \\ h$ laterby quantitative PCR.Mek1 mRNA levelswere normalized to $\\beta$ -actin mRNA,which was used asa loading control.The uninhibited normalized mek1 mRNA level was set to $100 \\%$ The dataaretheaveagoftreeindepedntexpermentsdoarsdnoteteandarddvatios.Destetigaalysisofpotein HEK293 cells were co-transfected with siMek1 and siMek1s modified with D-isoNA or $\\mathsf { L }$ -isoNA in the passenger strand at $3 0 ~ \\mathsf { n } M$ of each. Protein lysates were prepared for $3 6 \\mathsf { h }$ and blotted with MEK1 antibodies. Quantification of mek1 bands was normalized bydensitometric scanning of actin using the Band Leader software (version 3.O).The relative intensity of MEK1 on the $y$ -axis is represented by the percentage of the intensity of mock transfection $( 1 0 0 \\% )$ .Thedataaretheaverageof threeindependent experimentsanderrorbarsdenote thestandarddeviations.(E)Westernbloting analysis of MEK1 protein when HEK293 cells were co-transfected with siRNAs at $5 n M$ $1 0 \\mathsf { n } M$ and $3 0 ~ \\mathsf { n } M$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Silencing activity affected by $\\mathbf { D } { - } / \\mathbf { L }$ -isoNA incorporation at positions 8 and 9 of passenger strand ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Quantitative PCR and western blotting were utilized to investigate the silencing activity of the synthesized siRNAs with D-/L-isoNA modification at passenger strand at RNA level and protein level,respectively, in a HEK293 cell line.According to the results of qPCR evaluation,when position 8 on the passenger strand was replaced with D-isoNA (siMek1-So8D)，greater silencing potency than the native sequence was found;on the contrary，L-isoNA at the same position 8 (siMek1-S08L) impaired the silencing potency.However,at the position 9, both D-isoNA and L-isoNA exhibited decreased silencing activity，although the degree of decreasement was not as obvious as siMek1-So8L (Fig.1C).This same phenomenon was also found at protein level,namely,So8D exhibited the strongest knockdown effect,whereas So8L exhibited worse effect than the native sequence.D-/L-isoU modification at the position 9 showed decreased silencing activity compared to the native sequences and the difference was more obvious at protein level (Fig.1D). The difference between the silencing activities of siMek1-So8D,siMek1-So8L and native siMek1were nearly the same at three different concentrations of siRNA, namely,5 nM, $1 0 ~ \\mathrm { { n M } }$ ，and $3 0 ~ \\mathrm { n M }$ .This indicated that siMek1- S08D provided the best silencing activity regardless of the concentration，although the degree of enhancement was not obvious when the concentration of siRNA was too low, such as $5 ~ \\mathrm { n M }$ (Fig.1E). In a word,D-isoNA modification at the position 8 of the passenger strand was able to enhance the in vitro potency of siRNA. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Influence of modification with isoNA on the kinetics of passenger strand cleavage induced by T. thermophilus Ago (Tt-Ago) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the results of the evaluation of silencing activity, modification with D-isoNA at the position 8 of the passenger strand may improve the silencing effect of siRNA.Conversely, other modification strategies around this area,such as the incorporation of L-isoNA at the same position or $\\mathrm { { \\Delta D ^ { - } } / \\mathrm { { L } } }$ -isoNAat the adjacent position 9,would impair the activity.In previous reports,the chemical modifications that disturb cleavage of the passenger strand were found to be able to impair the silencing activity of siRNA by limiting the formation of RISC.11 This reminds us that modification with isoNA around the cleavage site of the passenger strand may also modulate silencing activity by directly affecting the efficiency of the cleavage process or other steps.Therefore,the influence of modification with isoNA on the kinetics of passenger strand cleavage induced by $T .$ thermophilus Ago (Tt-Ago) was evaluated.Previous reports studied the cleavage kinetics of the passenger strand with a $5 ^ { \\prime } { } ^ { 3 2 } \\mathrm { P }$ -radiolabeled RNA oligonucleotide.11 They detected the cleavage fragment of the passenger strand via autoradiography imaging of $^ { 3 2 } \\mathrm { P } .$ However, the labelling process using $^ { 3 2 } \\mathbf { P }$ is complicated， time-consuming and dangerous. Herein,we detected the cleavage fragment with $3 ^ { \\prime } { \\cdot }$ -terminal-Cy3- labelled passenger RNA instead of a $5 ^ { \\prime } { } _ { - } { } ^ { 3 2 } \\mathrm { P } .$ radiolabeled RNA oligonucleotide.To avoid the influence caused by the steric hindrance of the Cy3 group on RIsC activation， four extra uridine nucleotides were added at the $3 ^ { \\prime } \\mathrm { . }$ -terminus (Fig.2A). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to the results of cleavage kinetics (Fig.2B),when D-isoNA and L-isoNA were incorporated at positions 8 and 9 of the passenger strand,neither of them disturbed the cleavage process dramatically. The cleavage of all five $3 ^ { \\prime }$ Cy3-labelled RNA strands，Cy3-MKS-23，Cy3-MKS-2308D，Cy3-MKS-2308L, Cy3-MKS-2309D,and Cy3-MKS-2309L,started after $3 0 ~ \\mathrm { m i n }$ and finished after $1 2 0 ~ \\mathrm { m i n }$ .However,according to the fluorescence intensity at $6 0 \\ \\mathrm { m i n }$ ,we found that modification with D-isoNA affected the cleavage process lesser than modification with L-isoNA.Cy3-MKS-2308D and Cy3-MKS-2309D had nearly the same cleavage rate as Cy3-MKS-23，but the cleavage of Cy3-MKS-2308L and Cy3-MKS-2309L was slower. This indicated that the low silencing activity of So8L and So9L may be due to the disturbance caused by L-isoNA incorporation to the interaction between the PIWI domain of Ago and the cleavage site of passenger RNA.In addition，the stronger silencing activity of So8D could not be simply explained through the cleavage kinetics experiment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stability of the Ago/siRNA complexes and change in motion of Ago functional domains ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then,the mechanism of this difference was investigated by molecular dynamics simulations.RMSF of five simulated models of a complex of Ago2 and siRNAs are shown in Fig. 3A. In the Ago_Native model with no modifications,there are two loops that are obviously flexible.As shown in Fig.3B,the two loops belong to two different functional domains,PAZ and PIWI,and the PAZ loop is more flexible than the PIWI loop. After isoNA modifications，the flexibility of the two loops decreased，especially for the PAZ loop.Ago_So8D model exhibited the smallest decrease,whereas Ago_So8L displayed thelargest decrease.For the siRNApart,there was no detectable change in flexibility. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The four different domains of the Ago protein have crucial functions in the cleavage process.We found that the flexibility of the PAZ and PIWI domains changed after isoNA modification,but there is no information regarding how the motions of the domains vary. Principle component analysis (PCA) was performed on the Ago/siRNA models to reveal the significant transformations of the functional domains.From the PC1 in Ago_Native model (Fig.3D),we found an obvious open-close motion for the PAZ loop，which is in accordance with the RMSF result and is also found in other molecular dynamics ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A PredictedCleavageSite ↓ Cy3-MekS-23 SS:5'-GCAACUCAUGGUUCAUGC UUUUU-3'-Cy3 Cy3-MekS-2308D SS:5'-GCAACUCADUGGUUCAUGC UUUUU-3'-Cy3 Cy3-MekS-2308L SS: 5'-GCAACUCALUGGUUCAUGC UUUUU-3'-Cy3 Cy3-MekS-2309D SS:5'-GCAACUCAUDGGUUCAUGC UUUUU-3'-Cy3 Cy3-MekS-2309L SS:5'-GCAACUCAU[GGUUCAUGCUUUUU-3'-Cy3   \nB Cleavage time (min) 0 15 30 60 120 180 $$ RNA substrate Cy3-MKS-23 $ s ^ { . }$ cleavage product Cy3-MKS-2308D Cy3-MKS-2308L Cy3-MKS-2309D Cy3-MKS-2309L ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "simulations.The open-close motion of the PAZ loop is thought to be important for the propagation of the guide and target strand and tends to be significantly different,depending on whether the target strand participates or not.It is conceivable that the open-close motion of the PAZ loop is essential for the uptake of siRNA duplex, and the propagation of the guide and target strand may also determine the release of passenger strand cleavage products.For the Ago_So8D model,similar motions were found in PC2 and PC3,which means that the PAZloop moves with smaller eigenvalues and thereby higher frequencies.To confirm the open-close motion,we determined the distance between the most flexible residue in the PAZ loop and the active site.The open-close ranges vary from $3 0 \\mathring { \\textbf { A } }$ to $5 7 \\mathring { \\mathbf { A } }$ along this indicator (Fig.3C) for the Ago_Native model.A similar motion was also observed for the Ago_So8D model but with a slightly smaller cycle.The other three models do not exhibit similar motions and the distances change little.On the other hand,there is no obvious motion for the PIWI loop around 49o,which has high RMSF;this means that it behaves randomly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Change in binding affinityafter isoNA modifications ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The binding free energy of RISC/ssRNA indicates the release obstacle of the product after cleavage of the passenger strand. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After isoNA modifications,the binding free energy decreases forAgo_So8D,whereas those of the other three modifications (Ago_S08L,Ago_S09D and Ago_S09L) increase (Table 1).The activation of RISC may become easier for Ago_So8D due to the easier discarding of the passenger strand,whereas the other three isoNA modification strategies prevent the formation of active RIsC.The difference may be related to the motion of the PAZ loop，where the channel with So8D involved closed complex more than the native complex (Fig. 3) and then inhibited the interaction between So8D and Ago2 protein. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Antiviral effects of D-/L-isoNA incorporation at position 8 of passengerstrand ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then, the difference between the silencing activities of 8D and 8Lwas further investigatedvia the downstreamantiviral effect. Human herpes simplex virus type 2 (Hsv2) belongs to the alpha herpesvirus subfamily and infection with HsV2 produces high morbidity and exhibits broad prevalence,long latency,and dificult curability.To date,no preventive vaccines oreffective therapeutic drugs for recurrent infections are available.21 Enterovirus 71 (EV71) is a positive single-stranded RNA virus belonging to the family of Picornaviridae，which is known to cause hand,foot and mouth disease (HFMD） in young children and can lead to the development of severe neurological diseases in some patients,especially children. To date,the treatment and control of EV71 infection are only symptomatic due to the lack of effective medications and unavailability of a prophylactic vaccine.²² The inhibition of MEK has been studied as the most effective way of investigating the importance of the MAPK cascade in various cellular physiological and pathological processes,including HsV2 and EV71 infection.Herein，we studied the anti-HsV2 and anti-EV71 effects of siMek1 with modification by $\\mathrm { { D / L } }$ -isoA at position 8 of the passenger strand by western blotting,virus titration and morphological analysis.To further determine the anti-viral effect of modified siMek1s on the activation of ERK by HSV2 or EV71，HEK293 cells or RD cells were transfected with siRNAs and then infected with HSV2 or EV71,respectively.As shown in Fig.4A and B，siMek1s effectively silenced the expression of MEK1 and viral $\\mathrm { g B }$ protein.And, So8D had a better antiviral effect than either the native sequence or So8L, which is in accordance with the former results of silencing activityevaluation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a562b93f83dbf46b2d87cbeac535e0024c92c9d6ddccd92219e2f3f8d7d0f90.jpg",
+        "img_caption": [
+            "Fig.3StabitoftheAgo/siRNAcomplexes.(A)RMSFfeachresidueintheAg/siRcomplexesforthelast20ns;(B)Ago/siNAomplexf Ago_NativemodelTeedlooeferstoteirstFpeatatapparsaroundesidue2ndthebeopefestteecdFpeak thatappearsaroundresidue490;(C)distancesbetweenthemostflexibleresidueandtheactivesiteofachmodelduringthesimulation;(D)the firstthree principal components (PCs)of Ago_Native and Ago_S08D models during the simulation period. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d037abf596a14b894515172475c22062ff5ddba270b147fbac9bc76678d1532f.jpg",
+        "table_caption": [
+            "Table1 The binding free energies of Ago/siRNA and RISC/ssRNA for each of the models $( \\mathsf { k c a l m o l ^ { - 1 } } )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Ago/siRNA</td><td></td><td>RISC/ssRNA</td></tr><tr><td>Ago_Native</td><td>-587.7944 ± 25.5832</td><td>-254.2087 ± 20.9272</td></tr><tr><td>Ago_S08D</td><td>-567.7166 ± 24.0868</td><td>-246.0320 ± 17.8012</td></tr><tr><td>Ago_S08L</td><td>-603.6906 ± 32.4930</td><td>-282.1824 ± 24.5516</td></tr><tr><td>Ago_S09D</td><td>-610.9651 ± 22.4295</td><td>-277.2535 ± 15.9013</td></tr><tr><td>Ago_S09L</td><td>-598.7532 ± 25.6560</td><td>-278.9986 ± 19.8106</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As one of the most important indices of viral replication, viral titer reflects the release of the live virus in the super natant of cells infected with the virus.To investigate the influ ence of D-/L-isoNA-modified siRNAs in HSV2 replication, ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9c6f7e8f5e2172676f6727ce8db43d4adf3ecc99b4c45ff45fbe30576a19bce.jpg",
+        "img_caption": [
+            "Fig.4Antiviral effects of D- $/ \\iota$ -isoNA incorporation at position 8 of passenger strand.(A)and (B) Anti-HSV2 and anti-EV71 results of D- $\\mu$ -modified siMeks.TheexperientswerepefodssibedinigexceptfousifetioianfCellysatestatwereoledt $2 4 \\mathsf { h }$ p.iwereassdfalpoteexpesioyestelotitoocalantiboseifictpoteopotenut cationofthegBbandandVPbandasnormalidbydensitometricscaningofactiusingtheBandLeadersoftware(version3.0).erelative intensity of gBand VP1on they-axis is represented by the percentage of the intensity of mock transfection $( 1 0 0 \\% )$ .The data are the average of three independentexperimentsanderorbarsdenotethestandarddeviations.(C)ViraltiterofHSV2andEV71afterincubationwithD- $\\boldsymbol { / \\iota }$ -isoNA-modified siMek1s.HEK2cellsfeditVataof.CelldediumeoledparateltitieptsVusiersin the medium were measured by plaque assay.Data shown are means $\\pm$ standard deviations $( n = 3 )$ .The titers on the $y$ -axisrepresent logarithmic values. (D) CPE results with HSV2 and EV71 infection after incubation with D- $\\mu$ -isoNA-modified siMek1s.Cels were transfected with modified siRNAs (30 nmol of each) and infected at $4 4 \\ h$ post-transfection with $1 . 5 \\mathsf { M O l }$ of HSV2.The effects of modified siRNAs on CPE were examined from 8 h p.i. and images were obtained at $2 4 \\ h$ p.i. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HEK293 cells transfected with siMek1s were infected with HSV2,whereas RD cells were infected with EV71 and compared with control cells that were infected with HSV2 or EV71 alone,and then the virus production was examined.As shown in Fig.4C，in the cells that were transfected with $3 0 ~ \\mathrm { \\ n M }$ siRNAs,HSV2 titers were markedly inhibited as compared to control cells that were infected with HsV2 or EV71 alone. Although not as obviously as HsV2，EV71 titers were also inhibited by siMek1s.Moreover,an enhanced anti-viral effect can be seen in So8D compared with unmodified siRNA and S08L. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine the effects of siMek1s on the cytopathic effect (CPE) of HSV2 and EV71,HEK293 cells or RD cells that were transfected with siMek1s were infected with HSV2 and EV71 and then monitored by phase-contrast microscopy every $^ { 1 2 \\mathrm { ~ h ~ } }$ for 3 days p.i. In this experiment,mock infection and viral infection were used as controls.As shown in Fig.4D,at $2 4 \\mathrm { ~ h ~ }$ p.i. cells that were transfected with $3 0 ~ \\mathrm { n M }$ siMek1s manifested considerably less CPE as compared to virus and siMut1 controls.Notably,So8D also exhibited less CPE than the others. The virus titer that was observed in the supernatant further confirmed that modification with D-isoNA displayed some potency-enhancing effect at passenger strand position 8, which could be applied in anti-HsV2 and EV71 therapy. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Generally, during the process of RNA interference,the cleavage of the passenger strand caused by Ago2 protein occurs between nucleotide 9 and nucleotide 1o.Chemical modificationsand mismatches located at these two sites are able to interfere with the cleavage process by disturbing the approach of and interaction between cleavage-related residues in the Ago2-PAZ domain and the phosphodiester bond between nucleotide 9 and nucleotide 10.As a result, the silencing activity of modified siRNA would also be reduced.11 In this report,we also found that irrespective of the incorporation of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D-isoNA or L-isoNA at position 9,the silencing efficiency of modified siRNA was reduced markedly,which is in consistency with other modification strategies.However,chemical modifications at other positions usually have no obvious influence on the cleavage process of the passenger strand.11 However, we found that D-isoNA and L-isoNA modification next to the cleavage-related site could also affect the cleavage process. Interestingly,D-isoNA and L-isoNA modification introduce considerably opposite influences on the silencing efficiency when the modification occurs at position 8 of the passenger strand. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "According to the cleavage kinetics experiment, the passenger RNA strand with modification by L-isoNA was cleaved considerably slower than the unmodified passenger strand at the same position. Based on our previous reports,18 L-isoNA modification may introduce dramatic alterations in regional conformation not only at the incorporation site,but also around the incorporation site.Therefore,when L-isoNA modification was placed next to the nucleotide 9,it also disturbed the tight interaction between the cleavage-related residues and the corresponding phosphodiester bond.Although in the direct cleavage kinetics test, the passenger RNA strand with D-isoNA modification at position 8 exhibited no difference from the unmodified passenger strand; they exerted quite different influences on the vibration frequency of the Ago2-PAZ domain in the molecular dynamics simulation.This may also be due to the slight alteration in regional conformation around the insertion site caused by modification with D-isoNA.However, study on the precise mechanism of the enhanced vibration frequency of the Ago2-PAZ domain is still ongoing,and to the best of our knowledge,no modification strategy has enhanced the silencing activity by increasing the movement frequency of the PAZ domain.Although the degree of activity enhancement was not quite dramatic,it provided us with more accurate knowledge about the RNA interference process.Our studyalso reminds us that D-isoNA and L-isoNA,as a pair of chemical tools,could exert quite opposite influences on the interaction between proteins and nucleotides,and they can be applied widely in mechanism studies in the future. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Solid-phase synthesis of RNA oligonucleotides ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of RNA oligonucleotides was carried out at the $1 \\mu \\mathrm { m o l }$ scaleusing an Applied Biosystems 394DNA synthesizer according to regular phosphoramidite chemistry. $2 ^ { \\prime }$ OTBDMSprotected D- and L-isoNA phosphoramidite monomers were synthesized as previously reported18 and then the D-/L-isoNA phosphoramidite monomers were inserted singly into the siRNA sequence at the modified position targeting MEK1 (Fig.1B).Furthermore,an extended coupling time of 900 seconds was used for $\\mathrm { { D } ^ { - } / \\mathrm { { L } ^ { + } } }$ -isoNA phosphoramidites instead of the standard coupling time of 6oo seconds that is used for the four standard $2 ^ { \\prime }$ -OTBDMS-protected RNA phosphoramidites $\\mathbf { ( A ^ { \\mathrm { B z } } , C ^ { \\mathrm { A c } } }$ $\\mathbf { G } ^ { \\mathrm { A c } }$ and U) due to the steric effect of isoNA phosphoramidites.Cleavage and deprotection of the oligomers were performed in concentrated ammonia at $5 5 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ and the TBDMS group was removed by treatment with $\\mathrm { E t } _ { 3 } \\mathrm { N / H F }$ in anhydrous DMsO.The crude product was purified by anion exchange high-performance liquid chromatography (Dionex DNAPac PA200, $9 \\times 2 5 0 ~ \\mathrm { m m }$ ）usinga linear gradient of $1 2 . 5 \\% -$ $4 0 \\%$ eluent A for $4 0 \\ \\mathrm { m i n }$ .A solution of $_ { 0 . 0 2 \\textbf { M } }$ Tris- $\\mathrm { { H C l O } _ { 4 } }$ in $1 0 \\%$ （20 $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ P $\\mathrm { \\ p H } = 8$ ,wasused as eluentB,and $0 . 4 \\mathrm { ~ M ~ N a C l O _ { 4 } }$ in eluent B was used as eluent A.Then,the purified oligonucleotides were desalted by a Sephadex G25 column.The purity and identity of the oligonucleotides were confirmed by ionexchange chromatography and MALDI-TOF MS,respectively, and all single strands were purified by HPLC to ${ > } 9 0 \\%$ purity. Finally, the pure oligonucleotides were lyophilized and stored at $- 4 0 { } ^ { \\circ } \\mathbf { C }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Antibodies ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Antibodies were purchased from Cell Signaling Technology (anti-MEK1)， EastCoastBio(anti-HSVgBmonoclonal antibody),Abcam (polyclonal anti-EV71 VP1) and Santa Cruz Biotechnology (anti- $\\cdot \\beta$ actin). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cell culture ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rhabdomyosarcoma (RD) cells and human embryonic kidney (HEK) 293 cells were grown in Dulbecco's modified Eagle's medium (DMEM,GIBCO) supplemented with $2 \\%$ or $1 0 \\%$ heatinactivated fetal bovine serum (FBS,GIBCO) at $3 7 ~ ^ { \\circ } \\mathbf { C }$ ina $5 \\%$ $\\mathrm { C O } _ { 2 }$ atmosphere ina humidified incubator. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Virus infection ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Monolayers of RD or HEK293 cells at $7 0 \\% - 8 0 \\%$ confluency were starved and infected with strain 333 of HsV2 and wildtype EV71 (EV71-BCo8 strain) at various multiplicities of infection (MOI).After $^ { 1 \\mathrm { ~ h ~ } }$ at $3 7 ~ ^ { \\circ } \\mathrm { C }$ ,theinoculum was removed and incubation was continued in DMEM containing $2 \\%$ FBS at $3 7 \\ ^ { \\circ } \\mathrm { C }$ for viral growth.Supernatants that were collected at different time points post-infection (p.i.) were clarified by centrifugation (2ooog).Virus titers were determined by plaque assays carried out in triplicate.Viruses were inactivated by UV-irradiation for $3 0 ~ \\mathrm { m i n }$ using a Phillips TUV 30 W bulb at a distance of $1 7 \\ \\mathrm { c m }$ with occasional agitation,and then blindpassaged for three generations to confirm the loss of replicative capacity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "siRNAandtransienttransfection ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For siRNA transfection, the INTERFER in reagent (Polyplus transfection） was used according to the manufacturer's instructions.RD cells or HEK293 cells were grown in 12-well plates to $4 0 \\%$ confluency.Cells were then transfected with $3 0 ~ \\mathrm { \\ n M }$ specific siRNAs and incubated for the indicated number of hours.The medium was then replaced by DMEM containing $1 \\%$ FBSand the cells were starved for $^ { 8 \\mathrm { ~ h ~ } }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Morphological analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HEK293 cells were examined following infection by HSV2 and EV71 at $^ { 1 2 \\mathrm { ~ h ~ } }$ intervals post-infection for cytopathic effects (CPE) using phase-contrast microscopy. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Western blotting analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cells were lysed in a buffer containing $2 0 ~ \\mathrm { m M }$ Hepes ( $\\mathrm { \\cdot p H } 7 . 4 \\mathrm { \\cdot }$ ， $1 0 0 \\ \\mathrm { m M }$ NaCl, $\\mathrm { ~ 5 ~ m M }$ EDTA $\\mathrm { ( p H ~ 7 . 4 ) }$ ，1 mM ${ \\bf N a } _ { 3 } { \\bf V O } _ { 4 }$ ， $3 0 \\mathrm { \\ m M }$ NaF, $5 \\%$ glycerol, $0 . 1 \\%$ SDS, $1 \\%$ Triton X-100, $1 0 \\ \\mathrm { m M }$ （204号 $p$ -nitro phenyl phosphate,and $1 \\mathrm { m M }$ glycerophosphate, supplemented with complete protease inhibitors (Roche).Cell lysates were obtained by centrifugation at $4 \\ ^ { \\circ } \\mathbf { C }$ and $1 3 0 0 0 ~ \\mathrm { r p m }$ and protein concentrations were determined using the Bicinchoninic Acid Protein Assay Kit (Pierce).Proteins were resolved onto sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDs-PAGE) gels and transferred to PVDF membranes (Millipore).The membrane was blotted with specific primary antibodies，as indicated in the figure legends,followed by incubation with secondary antibodies conjugated with horseradish peroxidase and developed with an enhanced chemiluminescence substrate (ECL) or SuperSignal West Femto Maximum Sensitivity Substrate (Pierce). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Real-time quantitative PCR (qPCR) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Viral RNAs from supernatants were prepared using Trizol reagent (Invitrogen). Then, $1 ~ \\mu \\mathrm { g }$ total RNA was reverse transcribed into cDNA using the RevertAid First Strand cDNA syn thesis kit (Thermo Scientific).A quantitation standard curve was obtained using seven 1O-fold serial dilutions of recombinant plasmid standard DNA,which contained sequences derived from the gB gene of HSV2 and the VP1 gene of EV71, varying from $1 \\times { 1 0 } ^ { 3 }$ to $1 \\times 1 0 ^ { 9 }$ copies.Real-time quantitative PCR (qPCR) was performed by targeting the gB gene and VP1 gene in 96-well plates using the Roche LightCycler 480 system.Each $2 0 ~ \\mu \\mathrm { L }$ reaction mixture contained $1 0 { \\mu \\mathrm { L } } 2 \\times$ SYBR Green Supermix, $2 0 ~ \\mathrm { n M }$ target gene primer mix,and $2 0 { - } 5 0 ~ \\mathrm { n g }$ cDNA template.The PCR reaction was set up as follows:initial denaturation step at $9 5 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 \\ \\mathrm { m i n }$ ,followedby40 cyclesof $3 0 ~ \\mathrm { s }$ at $9 4 ~ ^ { \\circ } \\mathbf { C }$ ,at $5 5 ~ ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { s }$ and at $7 2 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { s }$ .Quantified results for the experimental samples were extrapolated from the standard curve,with all experimental samples being run in triplicate. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Molecular structures of Ago/siRNA complex ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Eukaryotic Ago2 protein crystal structures were as reported,4,5 whereas siRNA double helixes are not involved in the structures.Owing to the high structural similarity of the Ago family, Ago protein from T. thermophilus was used as a substitute. There are many T. thermophilus Ago proteins in the Protein Data Bank such as 3HJF,3HK2,3HM9,3HVR, $3 \\mathrm { H O } 1 ^ { 2 3 }$ and 3F73.24 Ago protein from 3HVR was used because there are no mutations and mismatches and there are two $\\mathbf { M g } ^ { 2 + }$ ions in the active site.The total nucleotide part from 3HK2 was used after the overlap of the Ago proteins in 3HVR and 3HK2,in which the RMSD of the same guide and target nucleotides (27 nt) between 3HVR and 3HK2 is $1 . 5 4 \\mathrm { ~ \\AA ~ }$ ，Finally， some processes were carried out to make the siRNA available for the following molecular simulation，which included changing the DNA guide strand to an RNA guide strand, mutating the nucleotide sequence and modifying a specific nucleotide to an isonucleotide according to Fig.1B.All the operation was performed in Discovery Studio 3.0. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Molecular dynamics simulation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All the molecular dynamics simulations were carried out with Amber 11,and the Amber 10 force field was used.Structures were solvated in a periodic truncated octahedral water box. The minimum distance between the complex and the box wall was $1 0 { \\mathring { \\mathbf { A } } } .$ ，The TIP3P water model was applied and sodium ions were placed to neutralize the system. Bonds linking hydrogen atoms were restrained by the SHAKE algorithm.The particle mesh Ewald (PME) method was used to calculate the electrostatic interaction.Minimization of the systems consisted of two stages:at first,5ooo steps of steepest descent and conjugate gradient，respectively，were performed to avoid contact between water molecules by constraining the Ago/ siRNA complex. Then， the whole system was minimized under 5ooo steps of steepest descent and conjugate gradient. After minimization of the solvated system, the general heating equilibrium-production pipeline was performed on each structure.The heating process was carried out for 2O ps from $_ { 0 \\mathrm { ~ K ~ } }$ to $3 0 0 \\mathrm { ~ K ~ }$ with $1 0 \\ \\mathrm { k c a l \\ m o l ^ { - 1 } \\mathring { A } ^ { - 2 } }$ harmonic constraint under the NVT ensemble.The following equilibrium process lasted for 1oo ps when the harmonic constraint was reduced to O gradually under the NPT ensemble.Finally, 24 ns production was conducted under the NPT ensemble and the final 20 ns trajectory was used for analysis.The integration time step was 1 fs and the coordinate was saved every 10 ps. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Principal component analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To observe the dominant motions of functional domains of Ago protein,principal component analysis $\\left( \\mathrm { P C A } \\right) ^ { 2 5 }$ was carried out using AmberTools 1.5.First,the coordinate covariance matrix of Ago protein was built up for each complex. Then, the eigenvectors and eigenvalues of the covariance matrix were calculated by diagonalizing the matrix. The eigenvectors represent the collective motions of the Ago domains,whereas the corresponding eigenvalues suggest the importance of the motions.In this study, the three most important motions were selected and projected onto the trajectory. The extreme projec tion of each motion was used to indicate the directions of the functional domains. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MM/PBSA binding free energy calculation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The binding free energy between a ligand and a receptor is calculated by the following equation: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta G _ { \\mathrm { b , } s } = \\Delta G _ { \\mathrm { b , v } } + \\Delta G _ { \\mathrm { s , c } } - \\left( \\Delta G _ { \\mathrm { s , l } } + \\Delta G _ { \\mathrm { s , r } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta G _ { \\mathrm { b , s } }$ and $\\Delta G _ { \\mathrm { b , v } }$ are the binding free energies in solution and vacuum,whereas $\\Delta G _ { \\mathrm { s , c } } , \\ \\Delta G _ { \\mathrm { s , l } }$ and $\\Delta G _ { \\mathrm { s , r } }$ are the solvation free energies for the complex,ligand and receptor. $\\Delta G _ { \\mathrm { b , v } }$ consists of interaction energy between the ligand and the receptor,whereas sometimes an entropy contribution is also taken into consideration. Solvation free energy is composed of an electrostatic part and a hydrophobic part.In this study,the binding free energies ofRIsC/ssRNA for Ago/siRNA complexes were calculated using the MM/PBSA method by the MMPBSA.py module in AmberTools 1.5.Because the differences between complexes are only the isonucleotides，the entropy contribution is neglected. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Ministry of Science and Technology of China (Grant No． 2012AA022501， 2012CB720604, 2013CB966800， 2013CB966802） and the National Natural Science Foundation of China (Grant No.20932001,21377085). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Notesandreferences ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1 A.Fire, S.Xu,M.K.Montgomery, S.A.Kostas,S.E.Driver and C.C.Mello,Nature,1998,391,806-811.   \n2 S．M.Elbashir，J.Harborth，W.Lendeckel，A.Yalcin, K.Weberand T.Tuschl,Nature,2001,411,494-498.   \n3 A.J.Hamilton and D.C.Baulcombe,Science,1999,286, 950-952.   \n4 S.M.Elbashir,W. Lendeckel and T. Tuschl,Genes Dev., 2001,15,188-200.   \n5P.D. Zamore,T.Tuschl,P.A. Sharp and D.P.Bartel,Cell, 2000,101,25-33.   \n6 W.Filipowicz,Cell, 2005,122,17-20.   \n7H.W.Wang,C. Noland,B. Siridechadilok,D.W. Taylor, E.Ma,K.Felderer,J.A.Doudna andE.Nogales,Nat. Struct. Mol. Biol.,2009,16,1148-1153.   \n8 K.Miyoshi，H.Tsukumo，T.Nagami，H.Siomiand M. C. Siomi, Genes Dev.,2005,19,2837-2848.   \n9K.Kim,Y. S.Lee and R.W. Carthew,RNA,2007,13,22-29.   \nlO X.Ye,N.Huang, Y.Liu, Z. Paroo,C.Huerta,P.Li, S. Chen, Q.Liu and H. Zhang,Nat. Struct. Mol. Biol.,2001,18,650- 657.   \nl1 P.J.Leuschner,S.L.Ameres,S. Kueng and J.Martinez, EMBO Rep.,2006,7,314-320.   \n12 H．Addepalli，Meena，C.G.Peng，G.Wang，Y.Fan, K.Charisse,K.N. Jayaprakash,K.G. Rajeev,R.K. Pandey, G.Lavine,L. Zhang，K. Jahn-Hofmann，P. Hadwiger, M.Manoharan and M.A.Maier,Nucleic Acids Res.,2010, 38,7320-7231.   \n13 H.W.Yu，L.R.Zhang，J.C.Zhou，L.T.Ma and L.H. Zhang,Bioorg.Med. Chem.,1996,4,609-614.   \n14 H. Y. Zhang, X. J. Wu, H. W. Yu, L. T. Ma and L. H. Zhang, Chin. Chem.Lett.,1996,12,1089-1090.   \n15 F.Wang,Y. Chen,Y. Huang,H. W. Jin，L. R. Zhang, Z. J. Yang and L. H. Zhang,Sci. China Chem.,2012,55, 1-10.   \n16 Z.L.Wang, J. F. Shi, H.W. Jin, L. R. Zhang, J. F. Lu and L.H. Zhang,Bioconjugate. Chem., 2005,16,1081-1087.   \n17 (a) J. Zhang, Y. Chen, Y. Huang, H. W. Jin,R. P. Qiao, L. Xing,L. R. Zhang, Z. J. Yang and L. H. Zhang,Org. Biomol.Chem.,2012,10,7566-7577; (b) Z. S.Li,R.P. Qiao, Q. Du, Z. J. Yang, L. R. Zhang, P. Z. Zhang, Z. C. Liang and L. H. Zhang,Bioconjugate. Chem., 2007,18(4),1017-1024.   \n18 Y.Huang，Z. Chen，Y. Chen，H. Zhang，Y. C. Zhang, Y. L. Zhao, Z. J. Yang and L. H. Zhang, Bioconjugate. Chem., 2013,24, 951-959.   \n19 L. Z. Yu, B. Xiong,W. X. Gao, C. M. Wang, Z. S. Zhong, L. J. Huo, Q. Wang, Y. Hou, K. Liu, X. J. Liu, H. Schatten, D.Y. Chen and Q.Y. Sun,Cell Cycle,2007,6,330-338.   \n20 H. Zhang,H. Feng,L. Luo,Q. Zhou, Z. Luo and Y. Peng, Virus Res.,2010,150,22-27.   \n21J. M. Steinbach，C.E.Weller，C.J.Booth and W.M.Saltzman,J.Controlled Release,2012,162,102-110.   \n22 B.Premanand,T.K.Kiener,T.Meng,Y.R.Tan,Q.Jia, V. T. Chow and J. Kwang,Antiviral Res., 2012,95,311-315.   \n23 Y.Wang，S.Juranek，H. Li，G.Sheng，G．S.Wardle, T.Tuschl and D.J. Patel, Nature,2009,461,754-761.   \n24 Y.Wang，S. Juranek，H.Li，G.Sheng，T. Tuschl and D.J.Patel,Nature,2008,456,921-926.   \n25 A.Amadei,A.B. Linssen and H. J. Berendsen, Proteins, 1993,17, 412-425. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

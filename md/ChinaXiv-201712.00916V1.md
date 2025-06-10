@@ -1,0 +1,125 @@
+# 基础研究
+
+# DHA可抑制黄曲霉素B1诱导的肝癌细胞迁移及侵袭
+
+陈可和'，高 婷}，潘金飞}，韦海明'，贾春宏²,蓝 娇'，陈振祥'，潘 登'，白晓春²  
+1广西壮族自治区人民医院化疗二区,广西 南宁 530021;南方医科大学基础医学院,广东广州 510515
+
+摘要：目的 分析二十二碳六烯酸(DHA)对黄曲霉素B1(AFB1)诱导的肝癌细胞侵袭能力影响。方法 不同浓度的AFB1、DHA/AFB1分别干预肝癌 $\mathrm { H e p G 2 . 2 . 1 5 }$ 细胞,通过细胞划痕、迁移及侵袭实验检测细胞迁移及侵袭能力变化，流式细胞仪分析细胞周期比例，透射电镜观察细胞超微结构的改变。结果 $2 \mu \mathrm { m o l } / \mathrm { L }$ AFB1与空白组相比，细胞划痕修复率增高，细胞穿膜细胞数目均增多， $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期细胞比例明显下降， $\mathbf { G } _ { 2 } / \mathbf { M }$ 期细胞比例明显升高，S期细胞比例变化不明显;细胞多核仁，细胞内出现线粒体、高尔基体增多等。DHA/AFB1与单独AFB1处理组的相比，细胞划痕修复率降低;细胞穿膜细胞数目均减少， $\mathrm { G } _ { 0 } / \mathrm { G } _ { 1 }$ 期细胞比例明显升高， $\mathbf { G } _ { 2 } / \mathbf { M }$ 期细胞比例明显降低,S期细胞比例变化不明显;细胞单核仁，细胞内核质减少,细胞内线粒体减少，出现空泡化超微结构。结论DHA可以明显抑制AFB1诱导增强的HepG2.2.15细胞迁移及侵袭能力。
+
+关键词：肝癌细胞；黄曲霉素B1;DHA
+
+# Docosahexaenoic acid inhibits aflatoxin B1-induced migration and invasion in hepatocellular carcinoma cells in vitro
+
+CHENKehe',GAOing,Aife,WEimng',Jhuong,AJiao,Heniang',Aeng, Departmentofoaitgile'sspitalaClic Southern Medical University, Guangzhou 510515,China
+
+Abstract: ObjectiveToinvestigate theeffectofdocosahexaenoicacid (DHA)oninvasivenessof aflatoxinB1(AFBl)-induced hepatocellarcarcinomacelsinvitro.MethodsHepG2.2.15cellswereexposed todiffrentconcentrationsofAFB1andDHA plus AFB1.The cellmigrationand invasion were aessed using wound-healingand Transwellssayandflowcytometry was used toanalyze thecellcyclechanges.The ultrastructural changesof thecelswere observedby transmision electron microscopy. Results Compared with the control group, the cells exposed to2 $\mu \mathrm { m o l / L }$ AFB1 showed obviously enhanced migration and invasion with decreased cell ratio in $\mathrm { \Delta G _ { 0 } / G _ { 1 } }$ phase and increased cell ratio in $\mathrm { ~ G _ { 2 } / M }$ phase but no changes in S phasecells;transmision electronmicroscopyrevealed the presence of multiple nucleoli and significantly increased mitochondria and Golgi apparatus in the exposed cels. Compared with AFB1-exposed cels, thecellstreated with DHAand AFB1 showed decreased migration and invasion abilities, and the $\mathrm { { \cal G } _ { 0 } / { \cal G } _ { 1 } }$ phase cells increased and $\mathrm { ~ G _ { 2 } / M }$ phase cells decreased significantly; ultrastructurall,thecellscontainedsingle nucleoli withdecreased mitochondriaand vacuolizationocurrdin thecytoplasm.Conclusion DHA can significantly inhibit AFB1-induced enhancement of cellmigrationand invasion in hepatocellular carcinoma cells in vitro.
+
+Key words: hepatocellular carcinoma; aflatoxin B1; docosahexaenoic acid
+
+肝癌是我国最常见的恶性肿瘤之一，其死亡率仅次与肺癌排第2位[1]。乙肝病毒(HBV）、黄曲霉素(AFB1)作为肝癌最主要及最强的两个主要致癌因素已得到广泛共识[2-3],但是HBV和AFB1协同诱发肝癌的分子机制尚未完善阐明，而两者协同作用下诱发肝癌的信号传导通路也甚少。在肿瘤防治研究方面，已发现多不饱和脂肪酸如二十二碳六烯酸(DHA)可能具有较好的预防及治疗效果，但作用的分子机制尚未完全阐明，已有的研究认为可能与DHA影响肿瘤细胞的增殖、凋亡及肿瘤细胞的侵袭转移有关[45],但是DHA对抑制肝癌细胞的生长、增殖的报道甚少，而且DHA是否可抑制HBV和AFB1协同发展的肝癌细胞的增长目前没有报道。因此，本研究特别选用以携带HBV基因人肝癌HepG2（204号 $( \mathrm { H e p G 2 . 2 . 1 5 }$ 肝癌)细胞为研究对象，通过AFB1、AFB1/DHA两种方式培养肝癌细胞，观察细胞在不同微环境下其细胞特征的变化，探讨DHA对AFB1促进 $\mathrm { H e p G 2 . 2 . 1 5 }$ 肝癌细胞增殖效应的影响，此模型模拟我国广西肝癌高发区的黄曲霉素暴露环境下携带乙肝病毒人群发展为肝癌的体外内环境，本研究为肝癌的防治提供新的策略及理论依据
+
+# 1 材料和方法
+
+# 1.1 材料
+
+人肝癌HepG2.2.15(携带HBV基因)细胞株购自武汉大学细胞保藏中心;DMEM培养基、胎牛血清购自Gibco;细胞周期检测试剂盒购自南京凯基生物公司；Transwell小室购自Corning;基底膜胶(Matrigel)购自B&D;黄曲霉毒素B1（AFBI）、DHA、DMSO购自Sigmao
+
+# 1.2细胞培养及分组
+
+人 $\mathrm { H e p G 2 . 2 . 1 5 }$ 细胞株常规培养于DMEM培养基,置 $3 7 \ \mathrm { { ^ { \circ } C } }$ 、饱和湿度 $5 \%$ $\mathrm { C O } _ { 2 }$ 培养箱中孵育。将处于对数生长期的 $\mathrm { H e p G 2 . 2 . 1 5 }$ 细胞用 $0 . 5 \%$ 的胰蛋白酶消化，用含血清的培养基制成 $1 0 ^ { 5 } / \mathrm { m L }$ 的细胞悬液，接种于6孔板中。实验分3组：空白组 $\scriptstyle . 2 { \mathrm { ~ } } \mu { \mathrm { m o l } } / { \mathrm { L } }$ AFB1处理组、2μmol/LAFB1+DHA处理组。
+
+# 1.3细胞划痕修复率检测
+
+将上述细胞重悬液接种于6孔板中，细胞贴壁培养过夜后，用 $2 0 0 ~ \mu \mathrm { L }$ 无菌枪头在孔内轻轻地划1\~3道痕，PBS冲洗去掉脱落的细胞,倒置显微镜下拍照。然后孵育 $2 \ \mathrm { \textmu m o l { } / L }$ AFB1,同时添加或不添加 $5 0 \ \mathrm { \textmu m o l { } / L }$ DHA,继续培养24、48h后， $9 5 \%$ 酒精固定，Giemsa染色流水冲洗，光镜下(放大50倍)观察刮痕并拍照记录，每组实验重复3次。在照片选取3个不同位置，测量划痕宽度，计算平均值，细胞修复率 $\scriptstyle \dot { = } 1$ -实际迁徙距离/原始距离。
+
+# 1.4细胞能力检测
+
+侵袭实验中应用基质胶包被Transwell小室的微孔膜，而迁移实验不用基质胶包被。Transwell上室直接加入上述 $2 0 0 ~ \mu \mathrm { L }$ 的 $\mathrm { H e p G 2 . 2 . 1 5 }$ 细胞重悬液,Transwell下室内分别加入含 $2 \mu \mathrm { m o l } / \mathrm { L }$ AFB1，同时添加或不添加$5 0 ~ \mathrm { \textmu m o l / L }$ DHA,用含 $10 \%$ 血清DMEM完全培养液继续培养 $2 4 . 4 8 \mathrm { ~ h ~ }$ 后； $9 5 \%$ 酒精固定，Giemsa染色流水冲洗。用棉签去除上层小室未穿透的细胞，观察已穿过微孔膜到达迁移小室杯底下面的细胞。镜下随机取5个视野拍照，计数每个视野的细胞数量。
+
+# 1.5流式细胞仪分析细胞周期
+
+将上述细胞重悬液接种于6孔板中，分别用含$2 \ \mu \mathrm { m o l / L }$ 浓度的AFB1,添加或不添加 $5 0 ~ \mathrm { \textmu m o l / L }$ 浓度的DHA处理细胞，含 $1 0 \%$ 血清DMEM完全培养液继续孵育24、48h后，收集各组细胞 $1 \times 1 0 ^ { 6 }$ $70 \%$ 乙醇固定过夜,RNaseA $3 7 ~ \mathrm { ^ { \circ } C }$ 水浴 $3 0 \mathrm { m i n }$ ,碘化丙锭(PI)染液染色，$4 \mathrm { { ^ { \circ } C } }$ 避光孵育 $3 0 ~ \mathrm { m i n }$ ，流式细胞仪进行细胞周期分析，得出细胞周期各时相的比例，实验重复3次。
+
+# 1.6透视电镜检测细胞超微结构
+
+上述细胞重悬液接种于6孔板中,分别用含 $2 \mu \mathrm { m o l / L }$ 浓度的AFB1处理细胞，添加或不添加 $5 0 ~ \mathrm { \textmu m o l / L }$ 浓度的DHA，含 $10 \%$ 血清DMEM完全培养基继续孵育24、$4 8 \mathrm { ~ h ~ }$ 后，以 $2 \%$ 戊二醛及 $1 \%$ 四氧化固定，乙醇梯度脱水，环氧树脂包埋，制备超薄切片，醋酸双氧铀染色后，置透射电镜下观察细胞的超微结构。
+
+# 1.7统计学分析
+
+采用SPSS13.0软件进行统计学分析。计量资料以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，不同处理组比较采用单向方差分析，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1 细胞划痕修复率
+
+$2 \mu \mathrm { m o l } / \mathrm { L }$ AFB1处理24、48h后细胞划痕修复率均明显高于空白组，同时DHA/AFB1处理组与单独AFB1处理相比较,细胞的划痕修复率均明显降低,差异均有统计学意义( $\scriptstyle \phantom { + } ( P < 0 . 0 5$ ，表1)。
+
+表1各组细胞划痕修复率比较 Tab.1 Comparison of wound healing rates at 24 and $^ { 4 8 \mathrm { ~ h ~ } }$ in each group (%,Mean±SD, $\scriptstyle n = 3 ^ { \cdot }$ 1   
+
+<html><body><table><tr><td>Group</td><td>24 h</td><td>48 h</td></tr><tr><td>Control group</td><td>15.6±5.5</td><td>30.9±2.0</td></tr><tr><td>2 μmol/L AFB1</td><td>34.2±1.3 a</td><td>45.3±1.7b</td></tr><tr><td>2 μmol/LAFB1+DHA</td><td>28.6±1.7</td><td>25.3±2.1d</td></tr></table></body></html>
+
+$^ { \mathrm { a } } P { < } 0 . 0 5$ Us $2 4 \mathrm { ~ h ~ }$ control group; $^ { \mathrm { { b } } } P { < } 0 . 0 5$ Us 48 h control group; $^ { \mathrm { c } } P { < } 0 . 0 5$ vs 24 h AFB1 group; $^ { \mathrm { d } } P { < } 0 . 0 5$ us 48 h AFB1 group.
+
+# 2.2 细胞穿膜数目
+
+$2 \mu \mathrm { m o l } / \mathrm { L }$ AFB1处理组迁移、侵袭细胞划穿膜细胞数目明显高于空白组，同时DHA/AFB1处理组与单独AFB1处理相比较，细胞的穿膜数目均明显减少，差异均有统计学意义（ $\scriptstyle \sum ( 0 . 0 5$ ，表2)。
+
+# 2.3 细胞周期比例
+
+$2 \mu \mathrm { m o l } / \mathrm { L }$ AFB1处理 $2 4 . 4 8 \mathrm { h }$ 后与空白组比较， ${ \bf G } _ { 0 } /$ $\mathbf { G } _ { 1 }$ 期细胞比例明显下降 $( P { < } 0 . 0 5 )$ ： $\mathbf { G } _ { 2 } / \mathbf { M }$ 期细胞比例明显升高 $( P { < } 0 . 0 5 )$ ;而S期细胞比例均无明显改变( $P >$ 0.05)。同时添加DHA/AFB1处理组与单独AFB1处理的相比较， $\mathrm { { G } _ { 0 } / \mathrm { { G } _ { 1 } } }$ 期细胞比例明显升高( $P { < } 0 . 0 5 \$ ） $\mathbf { G } _ { 2 } / \mathbf { M }$ 期细胞比例明显下降 $( P { < } 0 . 0 5 )$ ;而S期细胞比例均无明显改变( $\mathrm { \ P { > } 0 . 0 5 }$ ,表2,3)。
+
+# 2.4细胞超微结构
+
+透射电镜下观察，2μmol/LAFB1处理 $2 4 . 4 8 \mathrm { ~ h ~ }$ 后 与空白组相比较,细胞出现多核仁,细胞内核仁边集、核 质比增高，线粒体增生、数目增多、基质密度增加，内质 网增生、扩张、数目增多，高尔基体基氏区增大、数目增 多，细胞微绒毛、伪足增多。DHA/AFB1处理组与单独
+
+表2各组细胞穿膜细胞数目比较 Tab.2 Number of cells penetrating the chamber membrane in Transwell assay in each group (Mean±SD,n=3)   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="2">Migration Assay</td><td colspan="2">Invasion Assay</td></tr><tr><td>24 h</td><td>48 h</td><td>24 h</td><td>48 h</td></tr><tr><td>Control group</td><td>407.20±25.91</td><td>462.80±26.99</td><td>336.87±24.92</td><td>387.87±21.29</td></tr><tr><td>2 μmol/L AFB1</td><td>605.80±26.72*</td><td>630.27±26.99</td><td>465.27±21.82a²</td><td>536.60±20.83b2</td></tr><tr><td>2 μmol/L AFB1+DHA</td><td>442.27±24.83</td><td>358.20±18.56d</td><td>347.13±15.12²</td><td>244.60±16.96d2</td></tr></table></body></html>
+
+$^ { 1 2 } P { < } 0 . 0 5$ us 24 h control group; bl $^ { . \mathrm { b 2 } } P { < } 0 . 0 5$ us 48 h control group; $^ { 1 , \mathrm { c 2 } } P { < } 0 . 0 5$ us 24 h AFB1 group; $^ { 1 1 , 0 2 } P { < } 0 . 0 5$ us 4 h AFB1 group.
+
+表3各组细胞的细胞周期比例的比较 ab.3Proportion of the cells in different cellcycle phases in each group (%,Mean±SD, $n { = } 3 )$   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="2">Go/Gi phase</td><td colspan="2">G2/M phase</td><td colspan="2">S phase</td></tr><tr><td>24 h</td><td>48 h</td><td>24 h</td><td>48 h</td><td>24 h</td><td>48 h</td></tr><tr><td>Control group</td><td>60.92±0.68</td><td>74.88±0.87</td><td>2.96±0.73</td><td>3.60±1.37</td><td>36.11±1.19</td><td>19.63±2.22</td></tr><tr><td>2 μmol/L AFB1</td><td>42.49±1.09al</td><td>57.15±2.22b</td><td>20.75±0.58a2</td><td>23.09±0.98b2</td><td>36.76±1.52a3</td><td>23.82±0.95b3</td></tr><tr><td>2 μmol/L AFB1+DHA</td><td>52.25±1.69e</td><td>68.36±1.44d</td><td>16.64±1.462</td><td>10.08±0.69d2</td><td>21.52±0.943</td><td>22.56±0.68d3</td></tr></table></body></html>
+
+山 $^ { \mathrm { a 2 } } P { < } 0 . 0 5$ vs 24 h control group; $^ { \mathrm { \scriptsize ~ b 1 , ~ b 2 } } P { \ < } 0 . 0 5$ vs 48 h control group; $^ { \mathrm { c 1 , c 2 } } P { < } 0 . 0 5$ vs 24 h AFB1 group; $^ { \mathrm { d 1 , d 2 } } P { < } 0 . 0 5$ vs 48 h AFB1 group; （204号 $^ { \mathrm { a 3 } } P { > } 0 . 0 5$ us 24 h control group; $^ { \mathrm { 6 3 } } P { > } 0 . 0 5$ vs 48 h control group; $^ { \mathrm { c 3 } } P \mathrm { > } 0 . 0 5$ us 24 h AFB1 group; $^ { \mathrm { d 3 } } P { > } 0 . 0 5$ ss $4 8 \mathrm { h }$ AFB1 group.
+
+AFB1处理组相比较，细胞单核仁且核仁皱缩、细胞内核质减少，细胞内线粒体出现絮状物、数目也减少，内质网结构松散，高尔基体数目减少，细胞内空泡化形成(图1)。
+
+![](images/e434d80809903ccea8921ae4e779749fb34d555e12f77f208a4bae0fc8672d29.jpg)  
+图1透射电镜下观察各组细胞的超微结构 Fig.1 Ultrastructure of cels under transmission electron microscopy (Original magnification: $\times 1 0 0 0 0 ^ { \cdot }$ ). A: Control group; $B \colon 2 \ \mathrm { \mu m o l / L }$ AFB1 $2 4 \mathrm { h }$ group; $C : 2 \mu \mathrm { m o l } / \mathrm { L }$ AFB1 $4 8 \mathrm { h }$ group; $D$ DHA/AFB1 $2 4 \mathrm { h }$ group; E: DHA/AFB1 $4 8 \mathrm { h }$ group.
+
+# 3讨论
+
+在我国，大约 $80 \%$ 以上的肝癌与慢性乙型肝炎病毒的高感染率密切相关，此外，以AFB1为代表的环境致癌物高暴露也是我国肝癌高发病率的重要因素，而这两种危险因素在肝癌发病过程中具有强烈的协同致癌效应，二者同时存在则肝癌的发生风险要比单纯的HBV感染者高30\~60倍，但AFB1/HBV协同致肝癌发生的具体机制仍然是不明确[。AFB1浓度在 $4 0 ~ \mathrm { { m g / L } }$ 时可以导致人胚肝细胞DNA损伤，但不足以造成显著的细胞损害及肝功能异常，但当AFB1浓度在 $8 0 ~ \mathrm { { m g / L } }$ 时会造成人胚肝细胞损伤及细胞凋亡的发生。AFB1在培养液中浓度达到 $0 . 5 \ \mathrm { \mu m o l / L }$ 时，微量持续的AFB1刺激肝癌细胞会使得细胞增殖能力大大增强，但是AFB1浓度达到 $1 0 \mathrm { \ : \mu m o l / L }$ 时，过高浓度的AFB1的药物毒性会导致细胞增殖能力的下降,甚至会导致细胞发生凋亡[8]。本研究探索低浓度的AFB1刺激携带乙肝病毒的HepG2细胞，建立AFB1/HBV协同作用下的体外细胞模型，体外模拟AFB1、HBV两种因素协同下的肝癌侵袭转移的微环境，此模型体外模拟我国肝癌广西肝癌高发区在长期AFB1暴露下携带HBV人群生长的微环境，可以深入研究AFB1/HBV协同诱发肝癌的分子机制，探讨干预这些信号通路的有效手段更可为这一高发地区肝癌的防治提供有力证据。
+
+本结果发现，AFB1/HBV协同作用下的$\mathrm { H e p G 2 . 2 . 1 5 }$ 细胞随着时间的延长细胞划痕愈合能力、侵袭迁移能力均增强，细胞 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期增高，这与近年来学者研究发现线粒体的氧化应激9、内质网应激反应 $1 0 ^ { [ 8 ] }$ 、高尔基体相关蛋白的改变参与肝癌细胞的侵袭及转移[10-13]相一致。提示AFB1/HBV可能改变$\mathrm { H e p G 2 . 2 . 1 5 }$ 细胞的生长的微环境，可能导致氧化应激、内质网应激连锁反应的发生，从而可能激活细胞内的激活子-3、环氧化酶-2、血管生成因子等因子，这些因子相关的信号通路参与可能导致肝癌细胞发生增殖、侵袭及转移。本研究中电镜检测发现HepG2.2.15细胞超微结构中的线粒体、高尔基体、内质网也相应的增多，提示AFB1/HBV协同作用可激活高尔基体相关的高尔基体膜蛋白导致上皮间质转化现象产生新的细胞-基质黏附分子，新的黏附分子黏附于细胞外基质，与激活的内质网相关的钙网蛋白产生的基质金属蛋白酶降解了细胞外基质，从而使得肝癌细胞侵袭转移能力增强。电镜检测中观察到DHA/AFB1处理组与单独AFB1处理组比较，肝癌细胞呈单核仁且核仁皱缩、细胞内核质减少，细胞内线粒体出现絮状物、数目也减少，内质网结构松散，高尔基体数目减少，细胞内空泡化形成，提示DHA能够抑制及拮抗AFB1/HBV的协同作用下的诱导肝癌细胞增殖、侵袭转移。
+
+DHA可诱导乳腺癌、肝癌、胰腺癌、结直肠癌等肿瘤细胞发生凋亡，并在一定程度上降低细胞侵袭力，但具体作用机制尚不明确[14-15]。DHA的这种作用可能与DHA诱导细胞凋亡，抑制肿瘤细胞停滞在 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期干扰肿瘤细胞周期有关[16]。同时,DHA还可以通过肿瘤抑制因子LKB1抑制mTOR信号通路减少肿瘤细胞的转移[17]，或刺激产生线粒体ROS并且抑制AKT-mTOR信号通路诱导p53突变的癌细胞凋亡[18]这些研究结果也提示DHA对肿瘤细胞有直接的抑制效应可能是通过对mTOR通路的抑制有关。在肝癌的已有研究中发现，mTOR信号通路激活在肝癌发生发展中可能具有重要促进作用。本研究结果发现，DHA/AFB1/HBV共同作用的细胞愈合能力、侵袭迁移能力，细胞 $\mathbf { G } _ { 2 } / \mathbf { M }$ 期明显低于AFB1/HBV协同作用后的细胞，而且DHA/AFB1/HBV下的细胞超微结构中的线粒体数目减少，内质网结构松散、细胞内空泡化形成。这些结果提示DHA对AFB1/HBV协同作用下肝癌的增殖、侵袭能力的抑制，也可能与DHA改变肿瘤细胞生长的微环境、细胞内线粒体、内质网结构功能及抑制mTOR信号通路有关。
+
+本研究建立AFB1/HBV协同作用下的体外肝癌细胞模型，将肝癌发生的两个单因素AFB1与HBV的结合起来研究肝癌细胞的生物学行为的变化情况。本研究发现AFB1/HBV协同作用下 $\mathrm { H e p G 2 . 2 . 1 5 }$ 的细胞侵袭迁移能力增强，细胞超微结构中线粒体、高尔基体、内质网也相应的增多，这些研究的结果验证了AFB1与HBV双因素作用下肝癌发生的几率比任何一个单因素肝癌发生的几率高很多，而且为进一步探讨AFB1与HBV协同诱导肝癌发生的分子机制提供依据。本研究也发现DHA可以抑制肝癌细胞的增长，同时也可以抑制AFB1与HBV协同诱导下侵袭迁移能力增强的肝癌细胞，这为DHA抑制肝癌的发生提供了依据，为进一步探讨DHA如何阻断AFB1与HBV协同诱导肝癌发生的分子机制提供依据。因此，通过体外细胞模型利用基因分子水平与蛋白组学技术进一步研究细胞内质网、高尔基体及mTOR信号通路相关的蛋白，为研究细胞内质网、高尔基体、线粒体及mTOR信号通路是否介导AFB1/HBV促进肝癌发生、发展提供依据。
+
+# 参考文献：
+
+[1]叶胜龙.2013年肝癌领域新进展[J].中华肝脏病杂志,2014,22(1):2-4.[2]马 健.黄曲霉毒素及其致病机制简述[J].中国牛业科学,2012,38
+
+(1): 43-5.   
+[3]Liu Y,Wu F.Global burden of aflatoxin-induced hepatocellular carcinoma:a risk assessment[J].Environ Health Perspect,2O10,118 (6): 818-24.   
+[4]Jing K,Wu T,K Lim. Omega-3 polyunsaturated fatty acids and cancer[J].Anti Cancer Agents Med Chem,2013,13(8):1162-77.   
+[5]M.L.D'Eliseo D,Merendino N,Velotti F. Docosahexaenoic acid inhibits invasion of human RT112 urinary bladder and PT45 pancreatic carcinoma cells via down-modulation of granzyme B expression[J].JNutr Biochem,1994,23(5): 51-2.   
+[6]Wang JS,Huang T, Su J,et al. Hepatocellular carcinoma and aflatoxin exposure in Zhuqing Village,Fusui County,People's Republic of China[J].Cancer Epidemiol Biomarkers Prev,2O01,10 (2): 143-6.   
+[7］方宁烨.黄曲霉素B1致体外人胚肝细胞损伤的研究[J].广西医学, 2015,37(3):300-16.   
+[8］刘 洋.黄曲霉素B1与杂色曲霉素对HepG2细胞的联合毒性[J].食 品与生物技术学报,2014,33(12):1300-6.   
+[9]Gentric G,Maillet V,Paradis V,et al. Oxidative stress promotes pathologic polyploidization in nonalcoholic fatty liver disease[J].J Clin Invest,2015,125(3): 981-92.   
+[10]Wang WA,Groenendyk J,Michalak M.Endoplasmic reticulum stress associated responses in cancer[J].Biochim Biophys Acta, 2014,1843(10, SI): 2143-9.   
+[11] Wang C,Jiang K,Gao D,et al. Clusterin protects hepatocellular carcinoma cells from endoplasmic reticulum stress induced apoptosis through GRP78[J].PLoS One,2013,8(2): e55981.   
+[12]翟文龙,叶健文,梁志伟,等.内质网应激诱导钙网蛋白膜转位促进肝 癌细胞转移和侵袭[J].中华普通外科杂志,2015,30(10):804-7.   
+[13]Blanckaert V,Ulmann L,Mimouni V,et al.Docosahexaenoic acid intake decreases proliferation,increases apoptosis and decreases the invasive potential of the human breast carcinoma cell line MDA-MB-231[J]. Int JOncol, 2010,36(3): 737-42.   
+[14]Hagi A,Nakayama M,Miura Y,etal.Effects ofa fish oil-based emulsion on rat hepatoma cell invasion in culture[J].Nutrition, 2007,23(11/12): 871-7.   
+[15]D'eliseo D,Manzi L,Merendino N,et al.Docosahexaenoic acid inhibits invasion of human RT1l2 urinary bladder and PT45 pancreatic carcinoma cells via down-modulation of granzyme B expression[J].JNutr Biochem,2012,23(5): 452-7.   
+[16]Barascu A,Besson P,Le Floch O,et al. CDK1-cyclin B1 mediates the inhibition of proliferation induced by omega-3 fatty acids in MDA-MB-231 breast cancer cells[J].Int J Biochem Cell Biol, 2006,38(2):196-208.   
+[17]El-Deiry WS,Finnberg N,Liu Y,et al. Omega-3 polyunsaturated fatty acid promotes the inhibition of glycolytic enzymes and mTOR signaling by regulating the tumor suppressor LKB1[J]. Cancer Biol Ther,2013,14(7): 329-41.   
+[18] Shin S, Jing K, Jeong S,et al. The omega-3 polyunsaturated fatty acid DHA induces simultaneous apoptosis and autophagy via mitochondrial ROS-mediated Akt-mTOR signaling in prostate cancer cells expressing mutant p53[J].Biomed Res Int,2013: 568671.
+
+(编辑：孙昌朋)

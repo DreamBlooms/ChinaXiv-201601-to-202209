@@ -1,0 +1,447 @@
+[
+    {
+        "type": "text",
+        "text": "Dorsoventral patterning of the Xenopus eye involves differential temporal changes in the response of optic stalk and retinal progenitors to Hh signalling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiumei Wang1+,Giuseppe Lupo2,3t, Rongqiao Hel,Giuseppina Barsacchi4,Wiliam A Haris² and Ying Liu1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: Hedgehog $( H \\mathsf { h } )$ signals are instrumental to the dorsoventral patterning of the vertebrate eye, promoting optic stalk and ventral retinal fates and repressing dorsal retinal identity.There has been limited analysis,however,of the critical window during which Hh molecules control eye polarityand of the temporal changes in the responsiveness of eye cells to these signals. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results:In this study,we used pharmacological and molecular tools to perform stage-specific manipulations of Hh signaling in the developing Xenopus eye.In gain-of-function experiments,most of the eye was sensitive to ventralization when the Hh pathway was activated starting from gastrula/neurula stages.During optic vesicle stages, the dorsal eye became resistant to Hh-dependent ventralization,butthis pathway could partially upregulate optic stalk markers within theretina.In loss-of-functionassays,inhibitionof Hh signalling starting from neurula stages caused expansionof the dorsal retinaat theexpense of theventral retinaand the optic stalk,while the effects of Hh inhibition during optic vesicle stages were limited to the reduction of optic stalk size. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusins: Our results suggest the existence of two competence windows during which the Hh pathway diferentially controls paterning of the eye region.In the first window,between the neural plate and the optic vesiclestages,Hhsignalingexertsaglobalinfluenceoneyedorsoventralpolarity,contributing tothe specification of opticstalk,ventral retina and dorsal retinal domains.In the second window,between optic vesicle and optic cup stages,this pathway plays a more limited role in the maintenance of the optic stalk domain.We speculate that this temporal regulation is important tocoordinate dorsoventralpaterning with morphogenesisand diferentiation processes during eye development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Optic vesicle, Optic stalk, Ventral retina, Dorsal retina, Hedgehog, Xenopus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vertebrate eye development begins during gastrulation, when the eye-forming region,known as the eye field,is induced within the anterior neural plate by signals produced by the underlying mesendoderm and other surrounding tissues [1-3].During neurulation, the initially continuous eye field is split in two bilateral domains that evaginate from the lateral forebrain walls to form the optic vesicles [4,5]．Subsequently，invagination of the optic vesicles gives rise to the optic cups,which differentiate into the retinal pigmented epithelium (RPE),the neural retina and the optic nerve [6-8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "During these morphogenetic processes,the ventral part of the optic vesicle forms the optic stalk (OS),which connects the eye with the forebrain and later differentiates into the glial cells of the optic nerve,while the dorsolateral regions of the optic vesicle form the neural and pigmented retina [6,7,9]. This dorsoventral (DV） regionalization involves the differential expression of transcription factor encoding genes that subdivide the eye primordium in at least three domains: the ventrally located OS,expressing Pax2,Vax1 and Vax2; the presumptive ventral retina (VR), expressing Vax2 and the presumptive dorsal retina (DR), expressing Tbx3 and Tbx5 [10-12]. Similar to the spinal cord, regulation of gene expression along the eye DV axis depends on the ventralizing influence of hedgehog (Hh) ligands secreted from midline tissues (rostral mesendoderm and ventral forebrain) and the dorsalizing activity of bone morphogenetic protein (BMP)-like signals (GDF6 and BMP4) secreted from the dorsal pole of the eye bud and adjacent non-neural ectoderm [13-16]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "While studies in zebrafish,Xenopus,chick and mouse embryos have all shown a role for Hh signalling in the ventralization of the eye [12,17-19],the developmental window during which the Hh pathway controls eye DV patterning and the temporal changes in the response of eye cells to Hh signals have been only partially investigated.In particular, there isa lack of information on the function of Hh signalling during the transition between eye field and optic vesicle stages,which is likely to be a critical window in the establishment of DVpolarity,based on the dynamic expression patterns shown by relevant transcription factors [11].In this study,we therefore used various molecular tools to activate or inhibit Hh signalling during specific stages of Xenopus eye development and we assessed the consequences of these manipulations on the DVpolarity of the eye.All the employed experimental approaches suggest that the Hh pathway controls global DV patterning of the eye region,contributing to the specification of OS,VR and DR domains,as early as gastrula/ neurula embryonic stages. Concomitantly with the emergence of the optic vesicle,the influence of Hh signalling on DR and VR fates decreases,as shown by increased resistance of the DR to Hh-dependent ventralization and by Hh-independent maintenance of VR fates.In contrast, Hh signalling continues to support OS gene expression during optic vesicle stages and this prolonged regulatory input is required for themaintenanceof proper OS size. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Upregulation of smoothened-dependent signalling in the developing Xenopus eye causes stage-dependent effects on ocular DV patterning ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several studies have shown that Hh signalling plays a crucial role in the specification of ventral ocular fates and that overexpression of this pathway in the developing eye causes ventralization of the dorsal eye region [10,12,13,17,18,20]. To gain insight into the developmental window during which upregulation ofHh signalling can affect eye DV polarity,we took advantage of purmorphamine (PMP),a small molecule agonist of smoothened (Smo)，which was previously shown to activate the Hh pathway in the developing Xenopus eye [21].Xenopus embryos were treated with 300 to $6 0 0 ~ \\mu \\mathrm { M }$ PMP starting from different stages,and the effects on eye DV patterning were scored at early optic cup stages (st.33) by whole mount in situ hybridization. The following molecular markers were used as a readout for changes in the eye DV organization of treated embryos:Pax2 and Vax1b,which are markers of the OS，the most ventral eye structure;Vax2,which is expressed both in the OS and in the overlying VR and Tbx3,a DR marker[11,12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These experiments showed that activation of Hh signalling caused two different,temporally distinct,effects on the DV patterning of the eye.The stronger,and earlier, effect was the ventralization of the dorsal eye region, with upregulation of ventral eye markers throughout the eye and downregulation of DR markers.The weaker, and later,effect was the expansion of OS marker expression within the ventral,nasal and central retina,while expression of DR markers remained relatively unaffected. To quantify these different effects,we assigned an increasing score to PMP-treated embryos hybridized with probes for the OS markers Pax2 and Vax1b depending on the extent of their ectopic expression into the dorsal half of the eye.Embryos in which transcription of OS markers remained confined within the ventral eye were given a 0 score. Embryos with limited, discontinuous upregulation of these genes into the dorsal eye,usually restricted to the dorsal marginal zone or to small groups of cells scattered in the dorsal eye,were scored as 1. Score 2 was assigned to embryos where expression of OS markers continuously spread from the ventral to the dorsal eye,but a substantial $P a x 2 / V a x I b$ -negative dorsal domain persisted.Finally,embryos with a 3 score were those where Pax2 or Vaxlb expression covered most of the eye.This analysis was finished off by quantifying the fractions of embryos where expression of the VR marker Vax2 spread through most of the eye and that of Tbx3 was strongly reduced，while the rest of the embryos retained substantial Vax2-negative and Tbx3-positive domains within the dorsal eye. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PMP treatments started from late blastula/early gastrula stages (st.8/10.5,Figure 1A,B,C) reproduced the effects of Hh ligand mRNA injections in early embryos [12]，as they could cause upregulation of Pax2,Vax1b and Vax2 throughout the eye and downregulation of Tbx3.In these conditions,the majority of treated embryos upregulated Vax2 through most of the eye $( 7 3 \\% )$ and a similar situation was found also for Pax2 (score 3, $9 2 \\%$ .Significant numbers of embryos also expressed Vaxlb in a broad DV domain (score 3, $4 7 \\%$ ）orshowed severely reduced expression of Tbx3 $( 2 2 \\% )$ . The percentage of embryos with strong downregulation of $T b x 3$ increased when PMP treatments were started from early cleavage stages (st.4,Additional file1:Figure S1).When PMP was delivered from early neurula stages (st.12.5 to following treatments with PMP from late neurula/early optic vesicle stages (st.18 to 22,Figure 1A,B,C),and a substantial DR domain was specified in these conditions. Pax2,however, was still markedly upregulated by these later treatments. Although Pax2 expression seldom spread through most of the eye (score 3, $6 \\%$ ),almost all the embryos showed a partial dorsal expansion (score 1 or2, $8 9 \\%$ ).Vax1b expression domain was also expanded, albeit only within the ventral half of the eye.Finally,no evidenteffects on Vax2,Vax1b or Tbx3wereobserved when PMP was applied from mid optic vesicle stages (st. 25 to 27，Figure 1A,B,C).In contrast，most of the embryos stained with $P a x 2$ probes showed restricted ectopic transcription at the level of the dorsal marginal zone (score 1, $9 0 \\%$ ).Double staining with Tbx3 probes and an anti-Pax2 antibody confirmed that within the most dorsal retina,PMP treatments started during optic vesicle stages caused localized Pax2 protein expression in the dorsal marginal zone,which partially overlapped with Tbx3 expression (Additional file 2: Figure S2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d23549c83a1f0c6b71de6705bc21dfe13a1bd46660cbf990bd1ce09e9cac76b4.jpg",
+        "img_caption": [
+            "Figure1PMPtreatmentscausestagedependentefectsoeyeDVpolarity.(A)Lateralviesofheadsof t.33embryostreatedwith DMSO (mock) or 300 to $6 0 0 ~ \\mu \\mu$ PMP from the indicated stages and hybridized with probes for Pax2,Vax1b,Vax2 or ${ \\tau } b { x } 3 .$ In mock-treated embryos,wild-type expression patterns of these genes are detectable: $P a x 2$ and Vax1b staining is restricted to the OS,Vax2-positive region covers the OS and VR, ${ \\tau } b { x } 3$ expresion identifies the DR.PMP treatmentsafect geneexpression domains to various degrees depending onthestage of delivery(ts;tsautteurulaid vesicle). For $P a x 2$ andVax1b,embryos were groupedintoOto3scores (numbersatthe botomrightcorerofeachimage)asexplainedin the ResutssectionandepresetatieeyfoachsoegroupeshoSetextfodetailsebrokenyllicshglightteeyio Scale bar, $2 0 0 ~ { \\mu \\mathrm { m } }$ (B)Quantificationof thepercentagesof embryos stainedfor Pa2or Vax1bwith0to3scores ineach treatmentcondition. Embryos stained for Vax2 or $\\tau b \\times 3$ were grouped according to the DV extent of $V a \\times 2 / T b \\times 3$ expression domain (more or less than $9 0 \\%$ of the eye for Vax2; more or less than $10 \\%$ of the eye for ${ 7 6 \\times 3 } ,$ .The percentages of embryos with strong eye reductionsare also indicated (S,small eyes). Thenumberofexperimentsperformedforeachproeandtreatmentconditionisindicatedontopofthecorespondinghistogrambar.At least0eys/mbwreaalyedfachexprint.)stolocaltiosofsofstmbtreatedsind)d hybridizedwithteidicatedprobsofiingstagedepedentteratiosintexpresiodominsofPaVaxbd $\\tau b \\times 3$ as detected in whole mount views. Scale bar, $1 0 0 ~ { \\mu \\mathrm { m } }$ ",
+            "14,Figure 1A,B,C)，considerable numbers of embryos with strong expansion of the Pax2 domain were still detectable (score 3, $5 9 \\%$ ),but the fractionsof embryoswith a broad spread of Vax2 $( 2 4 \\% )$ or Vaxlb (score 3, $1 4 \\%$ 1 werereduced and those with severe Tbx3 reduction were nearly absent $( 3 \\% )$ . These conditions also resulted in significant numbers of embryos with partial (score 2) dorsal expansionofPax2andVaxlb,sothatnearlyallof the Pax2-stained embryos $( 9 7 \\% )$ and roughly half of the $V a x I b$ -stained embryos $( 4 5 \\% )$ were scored as 2 or 3. No embryos with Vax2 expression covering most of the eye or strongly reduced Tbx3 domain were found "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These temporallydependent effects were further characterized by real-time PCR analysis ondissected heads from control and PMP-treated embryos.The Hh pathwaydirect target genes Ptcl,Ptc2 and Glil were significantly upregulated following any PMP treatment condition, suggesting that the different effects of early and late treatments were not due to decreased efficiency of Hh signalling activation (Figure 2).In contrast,Pax2,Vax1b and $V a x 2$ were significantly upregulated by treatments started at st.8 or st.13, but not later (Figure 2),confirming that strong ventralization of the dorsal eye requires increased Hh signalling as earlyas gastrula/neurula stages. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This temporal analysis was validated by upregulating Hh signalling in the eye region by means of grafts of beads soaked in sonic hedgehog (C25II） N-terminus (ShhC25II)，a bioactive form of the sonic hedgehog (Shh)protein [22]. ShhC25II beads grafted during early (st.20 to 24) or mid (st.25 to 27) optic vesicle stages reproduced the effects of PMP treatments during corresponding developmental windows (Figure 3A,B,C).In either case,a significant part of the dorsal eye remained devoid of expression of the VR marker Vax2 in most of the embryos.Following early optic vesicle grafts,however,partial dorsal upregulation of OS markers was clearly detectable， especially along the nasal region (Pax2,score 2 to 3, $7 0 \\%$ ；Vaxlb，score2, $2 5 \\%$ .Compared to PMP,ShhC25II beads resulted in some embryos expressing Pax2 within a broad DV domain (score 3, $23 \\%$ and Vax1b was also more strongly upregulated by ShhC25II at these stages of treatment (compare Pax2 and Vax1b charts in Figures 1B and 2B),suggesting that PMP treatments cause somewhat slower upregulation of the Hh pathway compared to grafts of ShhC25Il beads. Grafts performed at mid optic vesicle stages (st.25 to 27) yielded similar results to PMP treatments,as Vax2and Vaxlb expression domains remained confined to the ventral eye region，while Pax2 was ectopically expressed in the dorsal marginal zone. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ptc1 Pax2   \n3 7 火   \n2 iii 65 \\* 4 3 ns 2 ns 1 ? 1   \n0 0 st.8 st.13 st.19 st.26 st.8 st.13 st.19 st.26 Ptc2 Vax1b   \n5 7   \n4 i 65 \\*   \n3 4 \\*\\*   \n2 3 ns 2 ns   \n1 1   \n0 0 st.8 st.13 st.19 st.26 st.8 st.13 st.19 st.26 Gli1 Vax2   \n5 7 \\*\\*   \n4 \\* 6 \\*\\* \\*\\* \\* 5   \n3 4 大   \n2 32 ns ns   \n1 1 T   \n0 0 st.8 st.13 st.19 st.26 st.8 st.13 st.19 st.26 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0351ac96516ea2b8c180d0ef85bf04d7d7189bd21b37aa62d80e3721fa519d1.jpg",
+        "img_caption": [
+            "Figure 3 Grafts of ShhC25ll-soaked beads reproduce the stage-dependent effects of PMP treatments on eye DV patterning.(A) Lateral views of heads of st.33 embryos that received a graft of control or ShhC25ll-soaked beads next to the opticvesicle at the indicated stages and hybridized with probes for Pax2,Vax1b or Vax2. Compared to controls,embryos grafted with ShhC25ll beads show stage-dependent increase in the expression domains of ventral eye genes.Scale bar, $1 0 0 \\mu \\mathrm { m }$ (B) Quantification of the percentages of embryos with different effects on gene expression domains or eye reductions (S) in each treatment condition.The number of experiments performed for each probe and treatment condition is indicated on top of the corresponding histogram bar. (C) Histological sections of eyes of st.33 embryos treated as in (A) and (B) and hybridized with the indicated probes, confirming stage dependent effects on DV eye patterning as detected in whole mount views. Triangles point to ectopic Pax2 expression in the dorsal marginal zone and arrows to expanded ventral expression domains of $P \\bar { a } \\times \\bar { 2 } ,$ （204 Vax1b and Vax2,in embryos grafted ShhC25ll beads.Stars indicate the position of the beads.Scale bar, $1 0 0 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Taken together, these results suggest that the Hh pathway plays temporally distinct functions during the specification of the DV polarity of the eye.During gastrula/ neurula stages,Hh signalling may influence DV patterning throughout the eye region,as both the ventral and the dorsal eye are sensitive to ventralization by this pathway.By early optic vesicle stages,the competence of the DR to ventralization by Hh signalling appears to be markedly reduced, but this pathway can still increase OS marker expression in the ventral/central retina and in selected areas of the dorsal/nasal retina.Thus,at these later stages,Hh signalling may play a more restricted role in promoting OS fates within the ventral eye region. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Temporally controlled overexpression of active Gli constructs reveals prolonged sensitivity of OS genes to Gli-dependent signalling While both PMP treatments and grafts of ShhC25IIsoaked beads caused effective activation of the Hh pathway in the eye, these reagents are likely to affect eye gene expression with some delay after the start of treatment，due to the time needed to build up sufficient amounts of ligands in the ocular extra-cellular space and to activate signal transduction within eye cells. Therefore,to dissect more precisely the time-dependent functions of Hh signalling in eye DV patterning，we employed a previously described Glil chimeric construct,encoding for a fusion protein of the Glil DNA binding domain with the strong transcriptional activator domain of VP16 and the dexamethasone (dex)-inducible glucocorticoid receptor domain (VP16-Gli1-GR) [23]. In this case, VP16-Gli1-GR mRNA microinjections in early embryos allow accumulation of the fusion protein in eye cells,which can be promptly activated by exposing embryos to dex, leading to rapid transcription of target genes [23,24].VP16-Gli1-GR mRNA was unilaterally injected into one dorsal animal blastomere at the eight-cell stage, and injected embryos were raised to the desired stage for dex treatment. No effects on eye development or molecular marker expression were seen in injected embryos in the absence of dex, while dex delivery during gastrula or early neurula stages caused strong eye reduction phenotypes (data not shown). Dex treatments from late neurula/ early optic vesicle stages (st. 19 to 25, Figure 4A,B,C) did not decrease eye size, but caused partial ventralization of the dorsal eye (Figure 4A,B,C)，as shown by significant fractions of embryos where most of the eye expressed Vax2 $( 3 0 \\% )$ or OS markers (Pax2, score 3, $4 4 \\%$ ；Vax1b, score 3, $3 3 \\%$ ）and by moderate reduction of Tbx3 expression domain. Double staining for $\\mathrm { P a x } 2$ protein and Tbx3 mRNA expression showed a partial overlap between Pax2 and Tbx3 staining，indicating that the ectopic Pax2- positive domain extended within the remaining Tbx3-expressing region (Additional file 3: Figure S3). When dex was added starting from mid optic vesicle stages (st.26 to 27,Figure 4A,B,C),few embryos were found where most of the eye was positive for Vax2 $( 2 \\% )$ or for OS markers (Pax2, score 3, $12 \\%$ $V a x I b ,$ score 3, $2 0 \\%$ )，while the expression domain of Tbx3 was largely unaffected, thus indicating that DR specification was mostly refractory to ventralization by Gli-mediated signalling by these stages. OS markers, however, were still significantly upregulated by these later treatments,and their expression domains were expanded in the ventral and central retina and, more dorsally,along the nasal part of the retina and/or in smal groups of cels scattered in the dorsal half of the eye (Pax2, score 1 to 2, $6 3 \\%$ ; Vax1b,score 1 to 2, $4 5 \\%$ ). Finally, when dex treatments were started at the late optic vesicle/ early optic cup stage (st.30 to 32,Figure 4A,B,C),activation of Gli-mediated signalling could still promote ectopic expression of Pax2 and Vax1b in scattered groups of cells within the central/dorsal retina $( P a x 2 ,$ score 1 to 2, $40 \\%$ Vaxlb,score 1 to 2, $3 1 \\%$ ).Overall,the effects of VP16- Glil-GR overexpression were similar to those of PMP treatments and ShhC25II bead grafts，but eye cells remained sensitive to ventralization by VPi6-Glil-GR for longer time windows compared to PMP or ShhC25II treatments.In particular, VPi6-Glil-GR overexpression from late neurula/early optic vesicle stages caused similar effects to PMP treatments from early neurula stages.Likewise，the effects of VP16-Glil-GR overexpression from mid or late optic vesicle stages were similar to those of PMP/ShhC25II treatments from early or mid optic vesicle stages,respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45eba840f70b1c9fccc324fb19fd9f66594acdefa7d1f91b282c0fea6f80fcc8.jpg",
+        "img_caption": [
+            "Figure4OverexpresinofVP16-Gli-GRcausesstagedependenteffectsoneyeDVpolarity(A)Lateralviewsfheadsofstbos that were unilaterally injected with $2 5 0 ~ \\mathsf { p g }$ of VP16-Gli1-GR mRNA at the eight-cellstage, treated with dex from the indicated stages and hybridized with probes for Pax2,Vax1b,Vax2 and ${ \\mathrm { 7 } } b \\times 3 .$ Compared to the control side (uninj.),stage-dependent alterations in gene expression domains are detectable on the injected side.Light-blue $\\beta$ -gal staining identifies the injected side.Scale bar, $2 0 0 ~ { \\mu \\mathrm { m } }$ (B) Quantification of the percentages ofembryoswithdiferentefectsongeneexpressondomainsoreyereductions(S)inachtreatmentcondition.Theumberofexperiments performedforachproeandtreatmentconiisindiatedontooftecorespondinghistogambar.C)Histoloicalstiosofeysf st.33mbrtreatedsid)ddithtatedfiapedtepeio detected in whole mount views. Scale bar, $1 0 0 ~ { \\mu \\mathrm { m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In these experiments,real-time PCR analysis of gene expression showed that the Hh pathway direct target genes Ptcl,Ptc2 and Glil were significantly upregulated by VP16-Glil-GR overexpression independently of the stage of dex treatment (Figure 5).In contrast, Vax2 was significantly upregulated by dex treatments started from late neurula/early optic vesicle stages,but not later (Figure 5).Notably,we detected a significant increase in the expression levels of the OS markers Pax2 and $V a x I b$ in all treatment conditions,although the extent of their upregulation decreased in embryos treated from mid or late optic vesicle stages (Figure 5). Taken together, these results suggest that DR cells remain competent to ventralization by Gli-mediated signalling throughout neurula stages,while activation of this pathway can influence expression of OS genes within a more restricted eye region up to the initial stages of optic cup formation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hh signalling is required for proper OS and VR specification during neurula stages and for maintenance of OS size during optic vesicle stages ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wenext investigated the requirement of functional Hh pathway during neurula and optic vesicle stages for proper eye DV patterning by loss-of-function experiments.To this aim，we downregulated Hh signalling during different time windows by treating embryos with the Smo antagonist cyclopamine (CPM) starting from progressively later developmental stages.Control and CPMtreated embryos were then harvested at st.33,and the effects on the expression pattern of ventral and dorsal eye markers were assessed by in situ hybridization.We previously showed that CPM can effectively inhibit the Hh pathway in the developing Xenopus eye [12,25].Moreover, real-time PCR analysis demonstrated that the Hh responsive genes Ptc1,Ptc2 and Glil were strongly downregulated by CPM irrespectively of the initial stage of treatment (data not shown). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2be2b30907bbf67b295fc04ab5f50e9de34f5c28b266f6f23d7267ebc77057f.jpg",
+        "img_caption": [
+            "Figure 5 Quantification of gene expression changes following VP16-Gli1-GR overexpression. Real-time PCR quantification of gene expression in st.33 heads dissected from controls or from embryos injected with VP16-Gli1-GR mRNA and treated with dex from the indicated stages. Results are shown as the mean ratio between VP16-Gli1-GR-injected and control embryos in six independent experiments. Error bars show standard deviations. $^ { * } P < 0 . 0 5$ $\\ast \\ast P < 0 . 0 1$ ： ns, non-significant $( P \\ge 0 . 0 5 )$ according to two-tailed Student's t-test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When embryos were treated with CPM starting from late gastrula/early neurula stages (st.12.5 to 13 Figure 6A, B,C),changes to the overall DV organization of the eye were detectable.Vax2 expression domain in the VR was reduced along the eye DVaxis,while Tbx3 domain in the DR was expanded ventrally (Figure 6A,B). In addition, the ventrallylocated OS,markedbyPax2 andVax1b expression，was shortened (Figure 6A,B).Furthermore,transverse sections of embryos following whole-mount in situ hybridization revealed a proximo-distal reduction of Pax2, Vaxlb and Vax2 expression domains in the ventral eye region of CPM-treated embryos (Figure 6C). CPM delivery from late neurula/early optic vesicle stages (st.19 to 20)did not affect the expression domains of Vax2 and Tbx3in the VR and the DR,respectively (Figure 6A,B). Notably,OS size was still reduced by these later treatments (Figure 6A,B).Finally,no changes on eye DV patterning were detected when CPM was applied starting from mid optic vesicle stages (stage 26,Figure 6A,B). These results are consistent with those from overexpression assays and, together, they support a model where Hh signalling controls the specification of both the VR and OS during neurula stages and supports maintenance of OS size during optic vesicle stages. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hh signalling has a pivotal role in the specification of ventral positional identities in the eye.Overexpression experiments in zebrafish, Xenopus and chick embryos all caused expansion of OS and/or VR at the expense of DR [12,17,18,20]，while zebrafish and mouse mutants for the Hh ligand Shh or the Hh pahway component Smo showed loss of ventral eye structures [13,18,19]. Here,we show that Hh signalling differentially controls eye DV patterning during two distinct temporal windows,one from the neurula to the optic vesicle stages and the other from the optic vesicle to the optic cup stages,respectively (Figure 7).During the earlier window,most of the eye field region was competent to ventralization by the Hedgehog pathway. We noticed, however, that Hh signalling could upregulate ventral eye genes more eficiently than it could downregulate dorsal eye genes.For example,effective repression of dorsal genes required stronger treatment conditions than those sufficient to expand ventral gene expression domains. Moreover, ventralization of dorsal eye tissue in response to increased Hh signalling was often incomplete,as indicated by partial overlap of ectopic ventral gene expression with areas retaining expression of dorsal genes. These observations suggest that Hh signalling may regulate ventral and dorsal eye genes independently of each other. While ventral genes appear to be highly responsive to Hh pathway activation,repression of dorsal genes may involve additional mechanisms,such as interactions between Hh and other ventralizing signals [12] and/or inhibition of BMP signalling [14-16,26].Following this earlier window，our results suggest that during formation of the optic vesicle, DR,VR and OS progenitors differentially modify their responsiveness to Hh signalling. In particular, the presumptive DR loses competence to Hh-dependent ventralization, VR progenitors maintain their fates in spite of reduced Hh signalling, but they retain competence to acquire OS fates in response to increased Hh signalling，and OS progenitors continue to rely on active Hh signalling to maintain their identity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5422249ff6d0f7ff5af702f8394786de53a6f4d6eb713e77b8cd91ee2c2ec16b.jpg",
+        "img_caption": [
+            "Figure6CPMtreatmentscausestagedependentefectsoneyeDVpolarity.(A)Lateralviewsofheadsofst.33embryostreatedwith ethanol (mock) or $1 0 0 ~ \\mu \\mathrm { M }$ CPM from the indicated stages and hybridized with probes for Pax2, Vax1b, Vax2 or $\\tau b \\times 3$ Compared to controls, CPM-treatedessotadpedntgsieepresiisotteroosteioA;a1bota ${ \\it T b } \\times 3 )$ axes of the eye. Scale bar, $2 0 0 ~ { \\mu \\mathrm { m } }$ (B) Quantification of the mean AP (Pax2,Vax1b) or DV (Vax2, ${ \\it T b } \\times 3 { \\it ) }$ width/height of gene expression domains,normlzdtototalwidtheightofteeye,intheeyesofembryotreatedasin(A).Tenumberofeyesanalysedforachpobe andtreatment condition is indicated within the corresponding histogram bar.Errorbars show standard deviations. $^ { * } P < 0 . 0 5 ;$ ns, non-significant （204号 $( P \\ge 0 . 0 5 )$ according totwo-tailedStudent'st-test.(C)Histologicalsectionsofeyesofst.33embryostreatedwithethanolorCPMfromst.13 and hybridized with the indicated probes. CPM-treated eyes show a reduction of Pax2,Vax1b and $V \\lambda \\times 2$ expression domains along the eye proximodistal axis.Yelow brackets highlightthe proximodistal extent of the whole ventral eye region.Scale bar, $1 0 0 ~ { \\mu \\mathrm { m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study,we compared the effects of manipulation of Hh signalling with different pharmacological and molecular tools. In particular, we took advantage of small molecule Smo agonists (PMP) or antagonists (CPM) to activate/inhibit Smo-mediated signal transduction during specific time windows. ShhC25II-soaked beads were used to confirm the specificity of these pharmacological approaches.Finally,previouslydescribedhormone-inducible Glil constructs [23] were employed for controlled activation of Hh signalling downstream of Smo.Similar results were obtained following PMP treatments or grafts of ShhC25Il-soaked beads close to the optic vesicle.However, the rate of diffusion of these reagents within the extra-cellular space,and the time needed for intra-cellular transduction of Smo activation，may potentially delay the window of effective upregulation of the Hh pathway compared to the onset of treatment. The previously characterized dex-inducible Gli1 fusion construct (VP16- Gli1-GR),which directly activates Hh target genes following induction [23]，appeared to act more rapidly.Yet, experiments with PMP, ShhC25II beads and VP16-Gli1- GR all led to congruent results,which were mirrored by loss-of-function experiments with CPM. The partial reduction of VR and/or OS gene expression that we observed following Smo antagonism is consistent with previous studies [12,25],where it was explained with the partially redundant roles of $\\mathrm { H h } ,$ retinoic acid(RA）and fibroblast growth factor (FGF)pathways in the DV patterning of the Xenopus eye [12]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These results,showing differential temporal changes in eye cell competence based on DV position, suggest a possible mechanism to avoid that retinal DV patterning is perturbed by the later release of Hh signals by differentiating retinal ganglion cells (RGCs） and the RPE, which regulate the retinal differentiation programme by activating the Hh pathway within the inner retinal layers, in the marginal zone and in the RPE,at the level of both the dorsal and the ventral optic cup,as previously described [25,27,28].On the other hand,prolonged reliance of OS gene expression on Hh signalling during optic vesicle stages may be associated with the dynamic expression patterns of OS genes during the transition from the eye field to the optic cup and to the relatively late emergence of a well-defined boundary between the ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbd4890f8b45806ba3a674cb5d375f3d4f5885ae1c04156b7143d0ae60db28b9.jpg",
+        "img_caption": [
+            "Figure 7 Proposed model of the stage dependent effects of Hh signalling in the DV patterning of the Xenopus eye. (A) During gastrula/neurula stages of development, Hh signalling controls the specification of both the OS and VR domains by promoting expression of OS (Pax2, Vax1b) and VR $( V a x 2 )$ genes and repressing expression of DR genes $( 1 6 \\times 3 , 7 6 \\times 5 )$ (B) During optic vesicle stages, the expression domains of $V \\lambda x \\lambda$ and $T b \\times 3 / 5$ become less dependent on Hh signalling (dashed lines),which is required to maintain $P a x 2$ and Vax1b expression and proper OS development.At both stages, activation of Hh signalling is likely to depend on the Shh ligand, acting through inhibition of Gli repressor proteins (Gli-R) and increase of Gli activator proteins (Gli-A) [40]. $V a \\times 2$ was previously shown to self-activate its own expression at optic vesicle stages [29]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "OS and the retinal territories.During Xenopus eye development，for example,Pax2 expression domain in the neural plate eye field largely overlaps with that of Vax2, extending well within the prospective ventral retina.The Pax2-positive eye region then progressively recedes towards the ventral midline,but it still embraces Vax2- positive presumptive ventral retina at early optic vesicle stages and only during optic cup formation its lateral limit becomes coincident with the boundary between the OS and the retina [11]. This dynamic,Hh-dependent regulation of OS gene expression may be important to coordinate positioning of the OS/retinal boundary with the complex morphogenetic processes forging eye field cells into the optic vesicle and eventually into the optic cup and stalk. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "What could be the molecular mechanisms controlling the temporal changes in the response of retinal cells to Hh signalling? The fact that forced expression of active Gli constructs cannot ventralize the DR during mid/late optic vesicle stages，reproducing the effects of treatments with PMP/ShhC25I-soaked beads,rules out the possibility that these changes simply depend on DR cells becoming unable to transduce Smo-mediated signalling at later stages of eye development. This would also be inconsistent with the later roles of RGC-and RPE-derived Hh signals in retinal differentiation.Instead,we suggest that eye cells remain responsive to Hh signalling but modify the ability of this pathway to regulate DV patterning genes using both intrinsic and extrinsic mechanisms.For example,epigenetic mechanisms may modify access of Gli factors to VR and DR gene chromatin during optic vesicle stages.In addition, $\\mathrm { V a x } 2$ ability to self-activate its own expression [29] could contribute to make ventral retinal identity independentofHh signallingafter its initial establishment. Furthermore,collaboration with RA and FGF pathways may increase sensitivity of eye field cells to Hh signalling during neurula stages [12],while increased expression of BMP-like molecules (GDF6,BMP4, and so on) within the dorsal optic vesicle is likely to provide an effective barrier against Hh-dependent ventralization at later stages [16].Clearly,more work is needed to unravel the interplay between intrinsic and extrinsic mechanisms in regulating the response of eye cells to Hh signalling. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Temporal changes in the competence of the responding tissues have been shown to play keyroles in Hh-dependent DV patterning in other neural tube locations,such as the spinal cord and telencephalon [3o-33]. In these regions, however, Hh-dependent specification of the most ventral domain is restricted to an early temporal window,whereas, in the developing eye, the most ventral ocular fates (OS) show prolonged reliance on Hh signalling.In future work, it will be interesting to investigate whether eye cells carry out stage-dependent modifications in the responsiveness to Hh signalling using similar or distinct mechanisms to those actingatdifferentlevelsof theneural tube. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In Xenopus,Hh signalling controls the establishment of the DV polarity of the eye and the specification of OS,VR and DR domains during a developmental window mainly limited to gastrula/neurula stages.This window is defined by temporal changes in the competence of presumptive DR cells,which become refractory to Hh-dependent ventralization during optic vesicle stages.At these stages, however, Hh signalling continues to be required in the ventral eye region for the maintenance of the OS domain. Inline with previous studies in the telencephalon and the spinal cord [30-33], these results suggest that coordination of neural tube patterning and morphogenesis relies on stage-dependent regulation of morphogen signalling. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Xenopus embryos and treatments with PMP,CPM or ShhC25ll-soaked beads ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Embryos were obtained from Xenopus laevis frogs (Nasco, Atlanta,GA,USA) by in vitro fertilization at facilities at the Institute of Biophysics (Beijing, China) and the University of Cambridge (Cambridge,UK),raised and staged as previously described [34].For PMP treatments,a $6 0 ~ \\mathrm { m M }$ stock solution of PMP(Calbiochem, San Diego, CA, USA) in DMSO was diluted to 300 to $6 0 0 ~ { \\mu \\mathrm { m } }$ in $0 . 1 \\times$ Marc's modified Ringer's (MMR).For CPM treatments,a $1 0 ~ \\mathrm { m M }$ stock solution of CPM (Sigma-Aldrich,St. Louis,MO, USA）in $100 \\%$ ethanol was diluted to $1 0 0 ~ { \\mu \\mathrm { M } }$ in $0 . 1 \\times$ MMR.Embryos were incubated in these solutions at $2 2 ^ { \\circ } \\mathrm { C }$ in the dark and allowed to grow to the desired stage. Control sibling embryos were cultured in parallel to PMP- or CPM-treated embryos in $0 . 1 \\times \\mathrm { M M R }$ containing equivalent concentrations of DMSO or ethanol. ShhC25II-soaked beads were prepared using heparin-coated acrylic beads (diameter $< 1 0 0 ~ \\mu \\mathrm { M }$ ；Sigma-Aldrich,St.Louis,MO,USA), which were washed in phosphate buffer saline (PBS) and soaked overnight at $4 ^ { \\circ } \\mathrm { C }$ in a $0 . 5 ~ \\mu \\ g / \\mu \\mathrm { l }$ solution of recombinant mouse Sonic hedgehog (C25II)，N-terminus (ShhC25II; R&D Systems,Minneapolis，MN,USA） and $1 ~ { \\mu \\ g } / { \\mu \\mathrm { l } }$ bovine serum albumin (BSA) in sterile PBS.Control beads were soaked in a $1 . 5 ~ \\mu \\ g / \\mu \\mathrm { l }$ solution of BSA in PBS.Embryoswere anaesthetized in $0 . 1 5 \\%$ MS222 (Sigma-Aldrich, St.Louis,MO,USA) in $0 . 1 \\times \\mathrm { M M R }$ ,transferred to $0 . 1 \\times \\mathrm { M M R }$ and grafted with ShhC25II or control beads through a small slit made on one side of the optical vesicle by sharp forceps.After healing，embryos were cultured in $0 . 1 \\times \\mathrm { \\sf ~ M M R }$ to the desired stage.All animal work was approved by the Animal Welfare and Biological Research Ethics Committee at the Institute of Biophysics, Chinese Academy of Sciences (reference number SYXK2014- 30) and performed in accordance with the Guide for the Care and Use of Laboratory Animals of the National Institute of Health (China). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RNA methods and microinjections ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The VP16-Glil-GR plasmid,encoding for a fusion protein of Gli1 DNA binding domain with the VP16 transcriptional activation domain and the glucocorticoid receptor (GR) ligand binding domain, was previously described [23]. Capped mRNAs were synthesized and microinjected into one dorsal animal blastomere of eight-cell stage embryos as previouslydescribed[35].Foridentificationof the injected side, embryos were co-injected with $\\beta$ -galactosidase mRNA and stained as previously described [12]. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Whole mount in situ hybridization and real-time PCR ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Forin situ hybridization,embryoswere fixed in MEMFA and processed following previously published protocols [36].Sectioning of whole mount hybridized embryos was carried out as previously described [11]. Double staining for Pax2 protein and Tbx3 mRNA expression was performed on sections $( 1 0 ~ \\mu \\mathrm { m } )$ from paraffin embedded embryos by fluorescent in situ hybridization with Tbx3 probes,followed by immunohistochemistry with an anti",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pax2 antibody(Abcam, Cambridge,UK) as second antibody，as previously described [37]. For real-time PCR analysis,totalRNA wasextracted from dissected heads of st.33 embryos,retro-transcribed and amplified on a Rotor-Gene Q(Qiagen,Hilden,Germany) using Qiagen kits as previously described [38].Relative gene expression levels in different samples were determined with the Relative Standard Curve Quantification method [39] using $H 4$ [1] as a normalizer.Primers for real-time PCR were designed using Primer3 (http://bioinfo.ut.ee/primer3/)and are available on request. Statistical analysis of experimental data was performed with Microsoft Excel software. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional files ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional file1:FigureS1.PMP treatments from early cleavage stages repress ${ \\tau } b { x } 3$ expression. (A-D) Lateral views of the whole embryos (Aand B) and eyes (C and D) of representative st.33 embryos that were treated with DMSO (mock) or $3 0 0 \\mu \\mathrm { M }$ PMP from the 8-cell stage (st. 4) and hybridized with probes for Tbx3,showing that early PMP treatments can strongly downregulate ${ \\it T b } \\times \\boldsymbol { 3 }$ expression in the DR. Scale bars, $1 \\ : \\mathsf { m m }$ for (A) and $( \\mathsf { C } )$ and $0 . 1 ~ \\mathsf { m m }$ for (B) and (D). (E) Quantification of the percentages of embryos grouped according to the DV extent of Tbx3 expression domain (more or less than $1 0 \\%$ of the eye). S, small eyes. The number of embryos analysed for each treatment condition is indicated on top of the corresponding histogram bar. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional file 2:Figure S2. Ectopic $\\mathsf { P a x 2 }$ protein expression in the dorsal marginal zone of PMP-treated embryos. Histological sections of eyes of st.33 embryos that were treated with DMSO (mock) (A and D) or $3 0 0 ~ \\mu \\mathrm { M }$ PMP (E-H, E'-H) from stage 20,and double-stained by fluorescent in situ hybridization with Tbx3 probes (red signal), followed by immunohistochemistry with an anti- $\\mathsf { P a x 2 }$ antibody (green signal). Cell nuclei were stained with Hoechst (blue signal). PMP treatments started from optic vesicle stages cause localized ectopic expression of Pax2 protein at the level of the dorsal marginal zone, which partially overlaps with Tbx3-expression. Enlarged pictures (E'-H) are higher magnification images of boxed areas in (E-H),corresponding to the dorsal eye. Scale bars, $1 0 0 \\ \\mu \\mathrm { m }$ for (A-H), and $5 0 ~ { \\mu \\mathrm { m } }$ for (E'-H'). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional file 3:Figure S3. Ectopic $\\mathsf { P a x 2 }$ expression within Tbx3-positive dorsal eye regions following VP16-Gli1-GR overexpression. Histological sections of control (A-D) or injected (E-H, E'-H') eyes of st.33 embryos that were unilaterally injected with 250 pg of VP16-Gli1-GR mRNA at the eight-cell stage, treated with dex from st. 22,and double-stained for $\\mathsf { P a x 2 }$ protein (green signal) and Tbx3 mRNA expression (red signal). Cell nuclei were stained with Hoechst (blue signal). Following VP16-Gli1-GR overexpression,ectopic $\\mathsf { P a x 2 }$ protein expression is detectable in the dorsal eye, where it partially overlaps with ${ \\tau } b { x } 3$ expression. Enlarged pictures (E'-H) are higher magnification images of boxed areas in (E-H),corresponding to the dorsal eye. Scale bar, $1 0 0 \\mu \\mathrm { m }$ for (A-H),and $2 0 \\mu \\mathrm { m }$ for (E'-H'). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AP:anteroposterior; BMP: bone morphogenetic protein; BSA: bovine serum albumin; CPM: cyclopamine; dex: dexamethasone; DR: dorsal retina; DV: dorsoventral; FGF: fibroblast growth factor; GR: glucocorticoid receptor; Hh: hedgehog; MMR: Marc's modified Ringer's; OS: optic stalk; PBS: phosphate buffer saline; PMP: purmorphamine; RA: retinoic acid; RGC: retinal ganglion cell; RPE: retinal pigmented epithelium; Shh: sonic hedgehog; ShhC25l: sonic hedgehog (C25l) N-terminus; Smo: smoothened; st.: stage; VR: ventral retina. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no competing interests. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Authors'contributions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "XW, GL, RH, GB, WAH and LY conceived the study and designed the experiments.XW and YL performed manipulation of Hh signalling in ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Xenopus embryosand in situ hybridizationassays.GLperformed real-time PCR assays.XW, GL and YL analysed the data. XW and YL performed statistical analyses. GL,WAH and YL wrote the paper. All authors read and approved the final manuscript. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank Prof. Kazuhito Takeshima for the kind gift of the VP16-G/1-GR plasmid and members of our laboratories for support and advice.This work was supported by grants from the National Nature Science Foundation of China (No.31271387 and 30771129,YL), the External Cooperation Program of BIC, Chinese Academy of Sciences (No. GJHZ201302, RH), the Wellcome Trust (WAH) and by a Royal Society grant for China-UK Science Networks (GL, YL). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Author details ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1The State Key Laboratory of Brain and Cognitive Science, Institute of Biophysics, Chinese Academy of Sciences,15 Datun Road, Chaoyang District, Beijing 100101, China. ²Department of Physiology, Development and Neuroscience, University of Cambridge, Downing Street, Cambridge CB2 3DY,UK. ³Department of Chemistry, Sapienza University of Rome, Piazzale A. Moro 5,O0185 Rome, Italy.4Dipartimento di Biologia, Unita di Biologia Cellulare e dello Sviluppo, Universita di Pisa,SS 12 Abetone e Brennero 4, 56127 Pisa, Italy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Received:3 December 2014 Accepted:4 March 2015 Published online:20 March 2015 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. Zuber ME, Gestri G, Viczian AS, Barsacchi G, Harris WA. Specification of the vertebrate eye by a network of eye field transcription factors. Dev Camb Engl. 2003;130:5155-67.   \n2. Cavodeassi F, Carreira-Barbosa F,Young RM, Concha ML, Allende ML, Houart C, et al. Early stages of zebrafish eye formation require the coordinated activity of Wnt11,Fz5,and the Wnt/beta-catenin pathway.Neuron.2005;47:43-56.   \n3. Sinn R,Wittbrodt J.An eye on eye development. Mech Dev.2013;130:347-58.   \n4. England SJ, Blanchard GB, Mahadevan L, Adams RJ.A dynamic fate map of the forebrain shows how vertebrate eyes form and explains two causes of cyclopia. Dev Camb Engl.2006;133:4613-7.   \n5. Rembold M, Loosli F,Adams RJ,Wittbrodt J. Individual cell migrationserves as the driving force for optic vesicle evagination. Science. 2006;313:1130-4.   \n6. Fuhrmann S.Eye morphogenesis and patterning of the optic vesicle. Curr Top Dev Biol. 2010;93:61-84.   \n7. Kim H-T, Kim JW. Compartmentalization of vertebrate optic neuroephithelium: external cues and transcription factors. Mol Cells.2012;33:317-24.   \n8. Kwan KM, Otsuna H, Kidokoro H, Carney KR, Saijoh Y, Chien C-B. A complex choreography of cell movements shapes the vertebrate eye. Dev Camb Engl. 2012;139:359-72.   \n9. Adler R, Canto-Soler MV.Molecular mechanisms of optic vesicle development: complexities,ambiguities and controversies. Dev Biol.2007;305:1-13.   \n10.Lupo G,Andreazzoli M, Gestri G,Liu Y, He RQ, Barsacchi G. Homeobox genes in the genetic control of eye development. Int J Dev Biol.2000;44:627-36.   \n11.Liu Y, Lupo G, Marchitiello A, Gestri $\\mathsf { G } ,$ He RQ, Banfi S, et al. Expression of the Xvax2 gene demarcates presumptive ventral telencephalon and specific visual structures in Xenopus laevis. Mech Dev.2001;100:115-8.   \n12.Lupo G, Liu Y, Qiu R, Chandraratna RAS, Barsacchi $\\mathsf { G } ,$ He R-Q, et al. Dorsoventral patterning of the Xenopus eye: a collaboration of Retinoid, Hedgehog and FGF receptor signaling. Dev Camb Engl.2005;132:1737-48.   \n13.Lupo G, Harris WA, Lewis KE. Mechanisms of ventral patterning in the vertebrate nervous system. Nat Rev Neurosci. 2006;7:103-14.   \n14.French CR, Erickson T,French DV,Pilgrim DB,Waskiewicz AJ. Gdf6a is required for the initiation of dorsal-ventral retinal patterning and lens development. Dev Biol. 2009;333:37-47.   \n15.Gosse NJ, Baier H.An essential role for Radar (Gdf6a) in inducing dorsal fate inthe zebrafish retina.Proc Natl Acad Sci U S A.2009;106:2236-41   \n16.Kruse-Bend R, Rosenthal J, Quist TS, Veien ES, Fuhrmann S, Dorsky Rl, et al. Extraocular ectoderm triggers dorsal retinal fate during optic vesicle evagination in zebrafish. Dev Biol. 2012;371:57-65.   \n17.Zhang XM, Yang XJ.Temporal and spatial effects of Sonic hedgehog signaling in chick eye morphogenesis. Dev Biol. 2001;233:271-90.   \n18.Take-uchi M, Clarke JDW,Wilson SW. Hedgehog signalling maintains the optic stalk-retinal interface through the regulation of Vax gene activity. Dev Camb Engl.2003;130:955-68.   \n19.Zhao L, Saitsu H, Sun X, Shiota K,Ishibashi M.Sonic hedgehog is involved in formation of the ventral optic cup by limiting Bmp4 expression to the dorsal domain. Mech Dev.2010;127:62-72.   \n20.Sasagawa S,Takabatake T,Takabatake Y, Muramatsu T,Takeshima K. Axes establishment during eye morphogenesis in Xenopus by coordinate and antagonistic actions of BMP4, Shh,and RA. Genes N Y N 2000.2002;33:86-96.   \n21.Borday C, Cabochette P,Parain K, Mazurier N,Janssens S,Tran HT,et al. Antagonistic cross-regulation between Wnt and Hedgehog signalling pathways controls post-embryonic retinal proliferation. Dev Camb Engl. 2012;139:3499-509.   \n22.Fasano CA, Chambers SM,Lee G,Tomishima MJ,Studer L.Efficient derivation of functional floor plate tissue from human embryonic stem cels.Cell Stem Cell. 2010;6:336-47.   \n23.TakabatakeY,TakabatakeT,Sasagawa S,Takeshima K.Conservedexprsion control and shared activity between cognate T-box genes Tbx2 and Tbx3 in connection with Sonic hedgehog signaling during Xenopus eye development. Dev Growth Differ.2002;44:257-71.   \n24.Kolm PJ,Sive HL.Eficient hormone-inducible protein function in Xenopus laevis. Dev Biol.1995;171:267-72.   \n25．Perron M, Boy S,Amato MA, Viczian A, Koebernick K,Pieler T,et al.A novel function for Hedgehog signalling in retinal pigment epithelium differentiation. Dev Camb Engl.2003;130:1565-77.   \n26.Murali D, Yoshikawa S, Corrigan RR,Plas DJ, Crair MC, Oliver G,et al. Distinct developmental programs require diferent levels of Bmp signaling during mouse retinal development. Dev Camb Engl. 2005;132:913-23.   \n27．Wang YP, Dakubo G, Howley P, Campsall KD,Mazarolle CJ,Shiga SA, et al. Development of normal retinal organization depends on Sonic hedgehog signaling from ganglion cels. Nat Neurosci. 2002;5:831-2.   \n28.Wallace VA.Proliferativeand cellfate effectsof Hedgehog signaling in the vertebrate retina. Brain Res. 2008;1192:61-75.   \n29.Barbieri AM,Lupo G, Bulfone A,Andreazzoli M, Mariani M,Fougerousse F, et al. A homeobox gene,vax2,controls the patterning of the eye dorsoventral axis. Proc Natl Acad Sci U S A. 1999;96:10729-34.   \n30.Ribes V, Balaskas N,Sasai N,Cruz C, Dessaud E, Cayuso J,etal. Distinct Sonic Hedgehog signaling dynamics specify floor plate and ventral neuronal progenitors in the vertebrate neural tube. Genes Dev.2010;24:1186-200.   \n31.Sasai N, Kutejova E, Briscoe J.Integration of signals along orthogonal axes of the vertebrate neural tube controls progenitor competence and increases cell diversity.PLoS Biol.2014;12:e1001907.   \n32.Kohtz JD, Baker DP, Corte G, Fishell G. Regionalization within the mammalian telencephalon is mediated by changes in responsiveness to Sonic Hedgehog. Dev Camb Engl.1998;125:5079-89.   \n33.Sousa VH, Fishell G. Sonic hedgehog functions through dynamic changes in temporal competence in the developing forebrain. Curr Opin Genet Dev. 2010;20:391-9.   \n34.Pannese M, Lupo G, Kablar B, Boncinelli E, Barsacchi G, Vignali R. The Xenopus Emx genes identify presumptive dorsal telencephalon and are induced by head organizer signals. Mech Dev.1998;73:73-83.   \n35.Vignali R, Colombeti S,Lupo G, Zhang W,Stachel S, Harland RM,et al. Xotx5b,a new member of the Otx gene family,may be involved in anterior and eye development in Xenopus laevis. Mech Dev.2000;96:3-13.   \n36.Harland RM.In situ hybridization: an improved whole-mount method for Xenopus embryos.Methods Cell Biol.1991;36:685-95.   \n37.Lee C, Kieserman E,Gray RS, Park TJ, Wallingford J.Whole-mount fluorescence immunocytochemistry on Xenopus embryos. CSH Protoc.2008;2008:pdb.prot4957.   \n38.Lupo G,Gestri G,O'Brien M, Denton RM, Chandraratna RAS,Ley SV,et al. Retinoic acid receptor signaling regulates choroid fissure closure through independent mechanisms in the ventral optic cup and periocular mesenchyme. Proc Natl Acad Sci U S A. 2011;108:8698-703.   \n39.Cikos S, Bukovska A, Koppel J. Relative quantification of mRNA: comparison of methods currently used for real-time PCR data analysis. BMC Mol Biol. 2007;8:113.   \n40.Briscoe J,Thérond PP.The mechanisms of Hedgehog signaling and its roles in development and disease. Nat Rev Mol Cell Biol.2013;14:416-29. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

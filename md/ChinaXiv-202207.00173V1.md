@@ -1,0 +1,114 @@
+# 家庭医生签约服务背景下某市基层医疗机构服务连续性现状研究
+
+柳松艺　孟文奇　彭海波　姜晓利　李子鑫　于倩倩\*　尹文强　陈钟鸣　孙葵　郭洪伟
+
+10.12114/j.issn.1007-9572.2022.0519基金项目：国家自然科学基金（71804130）261053山东省潍坊市潍坊医学院管理学院\*通信作者：于倩倩，教授；Email：yqq_7921 $@$ 163.com
+
+【摘要】背景基层医疗机构的连续性服务能够有效促进医疗资源合理利用，降低医疗费用，但当前对其研究仍有待加强目的评价家庭医生签约服务背景下某市基层医疗机构服务连续性现状，探讨影响因素并提出改进策略。方法 利用汉化版的基本医疗质量评估量表（Primary Care Assessment Tools,PCAT）的连续性维度，于 2021年1月对某市9所社区卫生服务中心和9所乡镇卫生院的1193名签约居民进行入户调查，了解基层医疗机构的服务连续性。运用描述性统计、单因素方差分析及多元线性回归进行数据分析。结果 共回收有效问卷1098份，有效回收率为 $92 \%$ 。该市基层医疗机构服务连续性得分为3.38分。签约机构、年龄、教育程度、婚姻状况、职业、是否确诊慢性病是基层医疗机构服务连续性得分的影响因素。结论 该市基层医疗机构服务连续性总体较好，但仍有提升空间，建议进一步强化基层医疗机构人才队伍建设、加强医患沟通、引导居民形成“基层首诊”观念、开发利用移动端预约和咨询平台、合理扩大家庭医生签约服务规模，以期为居民提供长期、连续、稳定的基本医疗服务。
+
+【关键词】家庭医生签约服务；基层医疗机构；服务连续性；基本医疗质量评估量表；现状研究
+
+# Study on the current situation of service continuity of primary medical institutions in a city under the background of family doctor contracted service LIU Songyi,
+
+MENG Wenqi，PENG Haibo， JIANG Xiaoli，LI Zixin，YU Qianqian，YIN Wenqiang，CHEN Zhongming，SUNKui，GUO Hongwei School of Management, Weifang Medical University, Weifang 26l053, China \*Corresponding author: Yu Qianqian， professor; Email: yqq_7921@163.com
+
+[Abstract] Background The continuous service of primary medical institutions can effectively promote the rational utilization of medical resources and reduce medical costs, but the current research on it still needs to be strengthened Objective To evaluate the current situation of service continuity of primary medical institutions in a city under the background of family doctor contract service, explore the influencing factors and put forward improvement strategies Methods Using the Chinese version of the Primary Care Assessment Tools (PCAT),a household survey was conducted on 1193 contracted residents in 9 community health service centers and 9 township health centers in a city in January 2O21 to understand the service continuity of primary medical institutions. Descriptive statistics, one-way ANOVA and multiple linear regression were used for data analysis. Results 1O98 valid questionnaires were collected, and the effective recovery rate was $92 \%$ . The service continuity score of primary medical institutions in the city was 3.38. Contracted institution, age,education level,marital status, occupation，whether to diagnose chronic diseases are the influencing factors of service continuity score of primary medical institutions. Conclusions The service continuity of primary medical institutions in the city is generally good, but there is still room for improvement. It is suggested to further strengthen the talent team construction of primary medical institutions,strengthen doctor-patient communication, guide residents to form the concept of "first diagnosis at primary level", develop and utilize mobile reservation and consultation platform and reasonably expand the scale of family doctor contracted service, so as to provide residents with long-term, continuous and stable basic medical services.
+
+[Key words] Family doctor contracted service； Primary medical institutions; Service continuity; Primary Care Assessment Tools; Current situation research
+
+连续性是全科医疗的一个十分重要而独特的特征，与首诊、可及性、协调性，综合性、以病人为中心共同组成了全科医疗的核心特征功能[1]。全科医疗核心特征功能也是全科医疗的核心价值，是全科医生在提供基本医疗服务时应遵循的行为价值[2]。连续性是指全科医生与居民在建立契约关系的基础上，无论居民是否存在疾病或伤痛，都对其实施持续、不间断的照顾。通过提供连续性健康照顾和疾病诊疗等服务，全科医生能够在最大程度上了解居民的疾病和身体健康状况，更好地为其解决相关疾病问题和制定个性化的治疗方案[3]，从而逐渐形成长期的、相互信任的合作医患关系。
+
+全科医生与专科医生二者在与患者关系上的一个重要区别就在于，专科医生仅在就诊时和住院期间与患者保持短暂的服务关系，而全科医疗的连续性则强调一种长期、持续而稳定的医患关系[4]。基层医疗机构为居民提供良好的连续性服务，有利于促进医疗资源的合理配置，提高卫生资源利用率，为患者提供更加合理的医疗服务，降低医疗费用[5-6]，推进"基层首诊，双向转诊，急慢分治，上下联动"的分级诊疗模式。
+
+2016 年，国务院医改办等部门联合发布《关于推进家庭医生签约服务的指导意见》，标志着我国正式开始在全国范围内推行家庭医生签约服务。本研究旨在调查家庭医生与居民形成正式的契约关系后，基层医疗机构和家庭医生为居民提供连续性服务的现状如何，探讨当前连续性服务存在的问题及影响因素，进而提出改善基层医疗机构服务连续性的对策建议。
+
+# 1.对象与方法
+
+1.1调查对象 本研究以山东省某市为样本市展开调查与研究。采用分层随机抽样的方法，于  
+2021年1月在该市随机抽取3个县（市、区)，每个县（市、区）抽取乡镇卫生院和社区卫
+
+生服务中心各3所，从每所机构抽取60 名签约居民进行入户调查。共调查3个县（市、区）、乡镇卫生院和社区卫生服务中心共18所、1080 名居民。本次调查的样本量是根据调查问卷条目的10-20倍、结果稳定性等统计学要求确定的。同时，按照信息饱和原则，对机构管理人员、家庭医生团队及签约居民进行访谈。在收集样本数据之前，已获得了签约居民的知情同意。调查员为课题组中从事基层卫生科研的教师以及经过专门培训的卫生管理专业的本科生和硕士研究生，为控制调查质量，问卷条目及选项由调查员向调查对象口述，根据调查对象的回答逐题进行填答；数据收集完毕后由4名研究生录入并进行二次核对。
+
+1.2调查工具 本研究利用 PCAT量表的连续性维度进行调查。PCAT(PrimaryCare AssessmentTools）量表由约翰霍普金斯大学开发，是从WHO 提出的基本医疗服务特征出发，基于居民就诊体验评价基层卫生服务质量的量表，包括首诊性、连续性、协调性及综合性4个核心维度，以及以家庭为中心、以社区为导向和文化胜任力3个衍生维度。该量表与我国的家庭医生签约服务为居民提供可及、连续、协调、综合服务的目标相契合，因此，通过借鉴该量表，结合我国实际情况进行本土化修订[7]，最终形成本研究的调查问卷。本研究聚焦于连续性维度进行分析。
+
+量表赋分标准：采用李克特四级计分法，选项“一定会”“可能会”“可能不会”“一定不会”依次计4分、3分、2分、1分，选项“不确定/不知道"作为中立选项计2分。其中，条目“您是否愿意换一个家庭医生？”和“如果很容易给您换一个家庭医生，您是否愿意？”为反向计分。基层医疗机构服务连续性得分为连续性维度所有条目得分的均值。
+
+1.3统计学方法 对问卷进行统一编码，使用 SPSS21.0和AMOS24.0 软件进行数据整理和分析。利用Cronbach's $\mathfrak { a }$ 系数对问卷进行信度检验，利用验证性因子分析进行效度检验；使用描述性统计对调查对象的基本情况进行统计；使用单因素方差分析对不同人口学特征的调查对象服务连续性得分差异进行分析；使用多元线性回归分析基层医疗机构服务连续性得分的影响因素。以 $\mathrm { P } { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2.结果
+
+本次调查共发放问卷1193份，回收有效问卷1098份，有效回收率 $9 2 \%$
+
+2.1问卷信效度检验信度检验结果显示，问卷的Cronbach's $\mathfrak { a }$ 系数为0.954，大于0.7，表明问卷信度较好；验证性因子分析结果显示，问卷的 $\chi 2$ /df( $< 5$ 适合， $< 3$ 良好）、GFI( $_ { \cdot > 0 . 9 }$ 适合）、NFI（ ${ > } 0 . 9$ 适合）、CFI（ ${ > } 0 . 9$ 适合）和RMSEA（ ${ < } 0 . 0 5$ 优良； ${ < } 0 . 0 8$ 良好）值分别为4.738、0.959、0.980、0.984、0.058，均达到适配标准，问卷具有良好的效度。
+
+2.2 调查对象基本情况 在本次调查的1098人中，签约社区卫生服务中心的居民541人，签约乡镇卫生院的居民557人；女性人数多于男性，占比 $5 9 . 5 \%$ ；年龄方面，60岁及以上的老年人最多( $4 8 . 2 \% \cdot$ ；有 $5 8 . 4 \%$ 的调查对象教育程度在小学及以下；已婚832人，占比 $7 5 . 8 \%$ 超过一半的人为在职人员（ $5 9 . 0 \%$ )；大多数调查对象的收入在2000元以下（ $7 0 . 1 \%$ )。在调查对象健康状况及卫生服务利用情况方面， $6 0 . 0 \%$ 的调查对象自评健康状况为"非常好"或"比较好”； $4 5 . 8 \%$ 的调查对象患有慢性病。
+
+2.3基层医疗机构服务连续性得分情况该市基层医疗机构服务连续性得分为 $3 . 3 8 \pm 0 . 5 1$ 分。其中，得分最高的条目是D5“您的家庭医生是否耐心地听您叙述病情”，得分为 $3 . 6 4 \pm 0 . 5 9$ 分；得分最低的条目是D15“如果很容易给您换一个家庭医生，您是否愿意”，得分为2.98$\pm 0 . 9 2$ 分。基层医疗机构服务连续性的各条目具体得分见表1。
+
+表1基层医疗机构服务连续性得分  
+
+<html><body><table><tr><td>条目</td><td>x</td><td>s</td><td>Min</td><td>Max</td></tr><tr><td>D1每次来签约机构看病时，是您的家庭医生负责吗</td><td>3.37</td><td>0.81</td><td>1</td><td>4</td></tr><tr><td>D2 您的家庭医生理解您咨询的问题吗</td><td>3.62</td><td>0.61</td><td>1</td><td>4</td></tr><tr><td>D3您的家庭医生给您的解释容易理解吗</td><td>3.61</td><td>0.61</td><td>1</td><td>4</td></tr><tr><td>D4您有健康问题会和家庭医生（团队成员）进行交流吗</td><td>3.57</td><td>0.63</td><td>1</td><td>4</td></tr><tr><td>D5 您的家庭医生是否耐心地听您叙述病情</td><td>3.64</td><td>0.59</td><td>1</td><td>4</td></tr><tr><td>D6 您在和家庭医生（团队成员）交谈问题时，会感到轻松吗</td><td>3.57</td><td>0.63</td><td>1</td><td>4</td></tr><tr><td>D7您的家庭医生不仅了解您的病情，还了解您的其他情况吗</td><td>3.33</td><td>0.84</td><td>1</td><td>4</td></tr><tr><td>D8 您的家庭医生知道您和谁居住在一起吗</td><td>3.31</td><td>0.87</td><td>1</td><td>4</td></tr><tr><td>D9 您的家庭医生知道您最重要的健康问题吗</td><td>3.50</td><td>0.69</td><td>1</td><td>4</td></tr><tr><td>D10 您的家庭医生知道您完整的疾病史吗</td><td>3.34</td><td>0.75</td><td>1</td><td>4</td></tr><tr><td>D11您的家庭医生了解您的工作或就业情况吗</td><td>3.22</td><td>0.83</td><td>1</td><td>4</td></tr><tr><td>D12 您的家庭医生在开价格较高的药品时，会征求您的意见吗</td><td>3.19</td><td>0.82</td><td>1</td><td>4</td></tr><tr><td>D13 您的家庭医生了解您正在服用的所有药物吗</td><td>3.45</td><td>0.70</td><td>1</td><td>4</td></tr><tr><td>D14 您是否愿意换一个家庭医生</td><td>3.04</td><td>0.90</td><td>1</td><td>4</td></tr><tr><td>D15 如果很容易给您换一个家庭医生，您是否愿意</td><td>2.98</td><td>0.92</td><td>1</td><td>4</td></tr><tr><td>总分</td><td>3.38</td><td>0.51</td><td>1</td><td>4</td></tr></table></body></html>
+
+2.4不同人口学特征签约居民服务连续性得分差异性分析 如表2所示，对不同签约机构、性别、年龄、教育程度、婚姻状况、职业、个人月收入、自评健康状况、是否确诊慢性病等人□学特征的居民进行服务连续性得分的差异性分析，结果显示，签约机构、年龄、教育程度、婚姻状况、职业、是否确诊慢性病等不同人口学特征的签约居民服务连续性得分差异有统计学意义（ $\mathrm { \cdot } \mathrm { \textP } { < } 0 . 0 5 \mathrm { \cdot }$ ）
+
+表2不同人口学特征签约居民服务连续性得分差异性  
+
+<html><body><table><tr><td>变量</td><td>n (%)</td><td>x</td><td>F</td><td>P</td></tr><tr><td>签约机构</td><td></td><td></td><td></td><td></td></tr><tr><td>乡镇卫生院</td><td>557 (50.7)</td><td>3.51</td><td>68.888</td><td><0.001</td></tr></table></body></html>
+
+<html><body><table><tr><td>社区卫生服务中心</td><td>541 (49.3)</td><td></td><td>3.26</td><td></td><td></td></tr><tr><td>性别</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>男</td><td></td><td>445（40.5)</td><td>3.37</td><td rowspan="2">0.800</td><td rowspan="2">0.371</td></tr><tr><td>女</td><td></td><td>653 (59.5)</td><td>3.39</td></tr><tr><td>年龄</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18 岁以下</td><td></td><td>11 (1.0)</td><td>3.12</td><td rowspan="5"></td><td rowspan="5"></td></tr><tr><td>18-29 岁</td><td></td><td>136 (12.4)</td><td>2.93</td></tr><tr><td>30-39 岁</td><td></td><td>61 (5.5)</td><td>3.31</td></tr><tr><td>40-49 岁</td><td></td><td>156 (14.2)</td><td>3.29</td></tr><tr><td>50-59 岁</td><td></td><td>205(18.7)</td><td>3.46</td></tr><tr><td>60 岁及以上</td><td></td><td>529（48.2)</td><td>3.51</td><td rowspan="5"></td></tr><tr><td>教育程度 小学及以下</td><td></td><td>641 (58.4)</td><td>3.49</td><td></td></tr><tr><td>初中</td><td></td><td>233 (21.2)</td><td>3.38</td><td rowspan="3">42.925</td></tr><tr><td>高中（中专）</td><td></td><td>77 (7.0)</td><td>3.30</td></tr><tr><td>大专</td><td></td><td>54 (4.9)</td><td>3.13</td></tr><tr><td>本科及以上</td><td></td><td>93 (8.5)</td><td>2.84</td><td rowspan="3"></td><td rowspan="3"></td></tr><tr><td>婚姻状况</td><td></td><td></td><td></td></tr><tr><td>未婚</td><td></td><td>141(12.8)</td><td>2.91</td></tr><tr><td>已婚</td><td></td><td>832 (75.8)</td><td>3.45</td><td rowspan="4">52.538</td><td rowspan="4"><0.001</td></tr><tr><td>离异</td><td></td><td>5(0.5)</td><td>3.11</td></tr><tr><td>丧偶</td><td></td><td></td><td>3.47</td></tr><tr><td>职业</td><td></td><td>120（10.9)</td><td></td></tr><tr><td>在职人员</td><td></td><td>649(59.0)</td><td>3.47</td><td rowspan="4">22.251</td><td rowspan="4"><0.001</td></tr><tr><td>在校学生</td><td></td><td>106 (9.7)</td><td>2.88</td></tr><tr><td>离退休人员</td><td></td><td>37 (3.4)</td><td>3.19</td></tr><tr><td>无固定职业</td><td></td><td>306 (27.9)</td><td>3.39</td></tr><tr><td>个人月收入</td><td></td><td></td><td></td><td rowspan="5"></td><td rowspan="5"></td></tr><tr><td>2000元以下</td><td></td><td>770 (70.1)</td><td>3.42</td></tr><tr><td>2000-2999元</td><td></td><td>112 (10.2)</td><td>3.33</td></tr><tr><td>3000-3999元</td><td></td><td>82 (7.5)</td><td>3.27</td></tr><tr><td>4000-4999元</td><td></td><td>51 (4.6)</td><td>3.35</td></tr><tr><td>5000元及以上</td><td></td><td>83(7.6)</td><td>3.22</td><td rowspan="5"></td></tr><tr><td>自评健康状况</td><td></td><td></td><td></td><td rowspan="4"></td></tr><tr><td>非常好</td><td></td><td>219 (19.9)</td><td>3.40</td></tr><tr><td>比较好</td><td></td><td>440(40.1)</td><td>3.36</td></tr><tr><td>一般</td><td></td><td>297 (27.0)</td><td>3.42</td></tr><tr><td>比较差</td><td></td><td>132 (12.0)</td><td>3.38</td><td rowspan="4"></td><td rowspan="4"></td></tr><tr><td>非常差</td><td></td><td>10 (0.9)</td><td>3.13</td></tr><tr><td>是否确诊慢性病</td><td></td><td></td><td></td></tr><tr><td>是</td><td></td><td>503(45.8)</td><td>3.47</td></tr><tr><td>香</td><td></td><td>595(54.2)</td><td></td><td rowspan="2">27.889</td><td rowspan="2"><0.001</td></tr><tr><td></td><td></td><td></td><td>3.31</td></tr></table></body></html>
+
+2.5 基层医疗机构服务连续性得分影响因素的多元线性回归分析以服务连续性总得分为因变量，签约机构、性别、年龄、教育程度、婚姻状况、职业、个人月收入、自评健康状况、是否确诊慢性病为自变量，对签约机构、性别、教育程度、婚姻状况、职业、自评健康状况等分类变量设置哑变量，进行多元线性回归分析。结果显示，签约机构、年龄、教育程度、婚姻状况、职业、是否确诊慢性病是基层医疗机构服务连续性得分的影响因素。
+
+表3基层医疗机构服务连续性得分多元线性回归分析  
+
+<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>SB</td><td>t</td><td>P</td><td>95%C1</td></tr><tr><td>常量</td><td>3.515</td><td>0.099</td><td></td><td>35.645</td><td><0.001</td><td>3.321~3.708</td></tr><tr><td>签约机构（ref：乡镇卫生院）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>社区卫生服务中心 性别（ref：男）</td><td>-0.250</td><td>0.030</td><td>-0.243</td><td>-8.300</td><td><0.001</td><td>-0.309~-0.191</td></tr><tr><td>女</td><td>0.028</td><td>0.032</td><td>0.027</td><td>0.895</td><td>0.371</td><td>-0.034~0.090</td></tr><tr><td>年龄</td><td>0.009</td><td>0.001</td><td>0.332</td><td>11.649</td><td><0.001</td><td>0.008~0.011</td></tr><tr><td>教育程度（ref：小学及以下）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初中</td><td>-0.112</td><td>0.037</td><td>-0.089</td><td>-3.059</td><td></td><td>-0.184~0.040</td></tr><tr><td>高中（中专）</td><td>-0.193</td><td>0.058</td><td>-0.096</td><td></td><td>0.002</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>-3.341</td><td>0.001</td><td>-0.306~-0.080</td></tr><tr><td>大专</td><td>-0.363</td><td>0.068</td><td>-0.153</td><td>-5.342</td><td><0.001</td><td>-0.496~-0.229</td></tr><tr><td>本科及以上</td><td>-0.656</td><td>0.053</td><td>-0.355</td><td>-12.331</td><td><0.001</td><td>-0.760~-0.551</td></tr><tr><td>婚姻状况（ref：未婚）</td><td>0.540</td><td>0.044</td><td>0.450</td><td></td><td></td><td></td></tr><tr><td>已婚</td><td></td><td></td><td></td><td>12.320</td><td>0.000</td><td>0.454~0.626</td></tr><tr><td>离异</td><td>0.195</td><td>0.219</td><td>0.026</td><td>0.890</td><td>0.374</td><td>-0.235~0.625</td></tr><tr><td>丧偶</td><td>0.557</td><td>0.060</td><td>0.338</td><td>9.318</td><td>0.000</td><td>0.440~0.675</td></tr><tr><td>职业（ref：在职人员）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>在校学生</td><td>-0.587</td><td>0.051</td><td>-0.337</td><td>-11.558</td><td><0.001</td><td>-0.687~-0.448</td></tr><tr><td>离退休人员</td><td>-0.282</td><td>0.082</td><td>-0.099</td><td>-3.437</td><td>0.001</td><td>-0.443~-0.121</td></tr><tr><td>无固定职业</td><td>-0.079</td><td>0.034</td><td>-0.069</td><td>-2.343</td><td>0.019</td><td></td></tr><tr><td>个人月收入</td><td>-0.009</td><td>0.005</td><td>-0.047</td><td>-1.935</td><td>0.053</td><td>-0.019~0.000</td></tr><tr><td>自评健康状况（ref：非常好）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>比较好</td><td>-0.043</td><td>0.043</td><td>-0.041</td><td>-1.001</td><td>0.317</td><td>-0.126~0.041</td></tr><tr><td>一般</td><td>0.016</td><td>0.046</td><td>0.014</td><td>0.343</td><td>0.732</td><td>-0.074~0.106</td></tr><tr><td>比较差</td><td>-0.024</td><td>0.057</td><td>-0.015</td><td>-0.417</td><td>0.677</td><td>-0.135~0.088</td></tr><tr><td>非常差</td><td>-0.268</td><td>0.166</td><td>-0.049</td><td>-1.609</td><td>0.108</td><td>-0.594~0.059</td></tr><tr><td>是否确诊慢性病（ref：是）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>否</td><td>-0.163</td><td>0.031</td><td>-0.158</td><td>-5.281</td><td><0.001</td><td>-0.223~0.102</td></tr></table></body></html>
+
+# 3.讨论与建议
+
+3.1该市基层医疗机构服务连续性总体较好本研究结果显示，该市基层医疗机构服务连续性得分为 $3 . 3 8 \pm 0 . 5 1$ 分，提示该市基层医疗机构服务连续性总体较好，表明家庭医生制度能够有效提高基层医疗机构的服务连续性，与相关研究结果一致[8.9]。2012年，山东省在全国率先启动城市家庭医生签约服务和乡村医生签约服务试点工作[10]，因此，许多居民，特别是在农村地区的老年人、慢性病患者等重点人群，与家庭医生/乡村医生较早地建立了稳定、紧密、持续的契约关系，家庭医生对居民的身体健康状况较为了解，有利于为其提供连续、不间断的照顾。同时，除了提供基本医疗服务以外，该市要求家庭医生负责签约居民的保健、预防、随访等工作，很大程度上使得医患之间的联系得以加强。条目D3“您的家庭医生给您的解释容易理解吗”、D4“您有健康问题会和家庭医生（团队成员）进行交流吗”、D5“您的家庭医生是否耐心地听您叙述病情”、D6“您在和家庭医生（团队成员）交谈问题时，会感到轻松吗”以上条目得分较高，同样可以证实，由于家庭医生与签约居民之间建立了长期、稳定的关系，居民对家庭医生的较为信任，在遇到健康问题时会向其求助，同时双方在长期交流的过程中形成了较为固定的沟通方式，使对方便于理解
+
+3.2 家庭医生服务能力有待提升本研究发现，D14“您是否愿意换一个家庭医生”、D15“如果很容易给您换一个家庭医生，您是否愿意"以上两个条目得分最低。有居民在访谈中表示，虽然与家庭医生建立了良好的关系，但受限于自身技术水平和基层医疗机构的条件，家庭医生难以满足居民针对性、个性化的服务需求，一些研究同样表明，当前基层医疗机构诊疗能力和家庭医生服务能力未达到居民心理预期，签约重视数量忽视质量，居民获得感不强[1,12]。此外，据机构管理人员介绍，当前该市家庭医生实施“分片包户”制，根据居民所在区域安排家庭医生及团队开展签约服务，居民没有自己选择家庭医生的余地，家庭医生之间缺乏竞争，也导致了服务质量不高。因此，居民希望更换家庭医生以获得更加优质的服务。在长期稳定的契约关系中，家庭医生能够对居民进行持续的健康监测与照顾，对居民的身体健康状况得到较为全面的了解，在居民发生疾病后，家庭医生能够根据其身体状况、过往就诊记录和治疗方案等信息，给予其相对准确的诊断和治疗，这种连续性服务的重要性决定了“熟人模式”在家庭医生签约服务中的基础作用[13]。若中途更换家庭医生，面对新的“陌生”的家庭医生，可能会造成连续性服务的中断，不利于居民对居民的健康管理和照顾，同时可能面临重复诊疗和医疗资源的浪费。针对上述问题，建议以居民的实际服务需求为导向，加强对家庭医生的培训工作，基层医疗人员轮流去大医院培训深造，并与三级医院合作，采取讲学、兼职、短期聘用、技术合作等方式，强化基层医疗队伍的建设，以进一步获得居民认可和信任；开展多种形式的健康教育活动，提高居民的健康素养，使其认识到接受同一位家庭医生连续性服务的重要性。D12“您的家庭医生在开价格较高的药品时，会征求您的意见吗”得分也较低。据了解，基层医疗机构在实施基本药物制度后，加强了对药品的价格管理工作，全面实行基本药物零差率销售，因此居民认为基层医疗机构药品价格总体可接受。
+
+3.3 家庭医生对居民需要有更深入的了解D7“您的家庭医生不仅了解您的病情，还了解您的其他情况吗”、D8“您的家庭医生知道您和谁居住在一起吗”、D10“您的家庭医生知道您完整的疾病史吗”D11“您的家庭医生了解您的工作或就业情况吗”以上条目得分次低。居民的身体健康状况不仅与自身有关，同样也受到其家庭成员、既往病史及工作岗位和环境的影响，因此，对上述信息的了解是保证家庭医生能够提供连续性服务的重要前提，医患之间应该加强沟通与接触，除了当前的身体状况，更应增进对居民社会关系、疾病史、工作情况等各方面的了解，将上述信息纳入居民健康档案，有利于在诊疗中更加全面地了解病因，促进服务连续性。
+
+3.4家庭医生与居民的联系需加强条目D1“每次来签约机构看病时，是您的家庭医生负责吗”得分同样略低于平均分。目前，居民前往基层医疗机构就诊时，通常由值班医生负责接诊，并不一定的自己的家庭医生，这可能导致接诊医生对居民的病情没有系统的了解，不利于全面、准确地开具治疗方案。建议完善居民电子健康档案管理系统，使其他医生也能了解居民基本的身体情况；同时，开发并充分利用手机端平台，对居民公开医院的值班情况，居民在非急症时可以提前预约或线上咨询自己的家庭医生。
+
+3.5签约机构、年龄、教育程度等因素影响基层医疗机构服务连续性得分研究发现，在乡镇卫生院签约的居民连续性得分高于在社区卫生服务中心签约的居民，分析原因，由于乡镇卫生院位于农村，在对农村居民的地理可及性上更具优势，因此农村居民通常会选择在乡镇卫生院或村卫生室就诊，能够与家庭医生维持更加稳定的联系，获得连续性更好的服务，而城镇居民与社区卫生服务中心和大医院的距离相近，由于居民的医疗行为存在“趋高性”，以及我国未实行强制基层首诊的制度，居民更倾向于前往医疗资源更丰富的大医院就诊，影响了城镇居民在基层医疗机构获得连续性的服务。建议继续提升基层医疗机构的服务能力，引导社区居民逐步形成“基层首诊”的就医观念；完善绩效考核评价制度，进一步做实家庭医生签约服务[14]，充分发挥家庭医生的健康“守门人”作用，提高居民在基层获得医疗服务的连续性。
+
+年龄在18-29 岁、未婚、本科及以上学历、在校学生的服务连续性得分相较其他分组更低，由于上述特征人群存在高度重合，较高学历的居民相比较低学历的居民，其健康素养通常更高，对基层医疗机构的服务质量有更高的期望值，因此其连续性得分低于其他分组的居民；此外，上述特征居民大多处于青壮年阶段，身体健康状况较好，在医疗机构的就诊次数少，故与基层医疗机构联系较少，该因素同样影响其连续性得分。
+
+60 岁及以上的老年人连续性得分高于其他年龄段居民，确诊慢性病的居民连续性得分高于未确诊慢性病的居民。作为家庭医生签约服务的重点人群，老年人及慢性病患者需要接受家庭医生长期的监测与治疗，因此在基层医疗机构的就诊次数更多，家庭医生对其进行健康管理、随访的频率也更高，医患双方的联系更加紧密，家庭医生对其身体状况的了解程度更高，故老年人和慢性病患者的连续性得分更高。建议基层医疗机构根据自身能力，合理扩大家庭医生服务规模，学习先进地区的典型经验做法，在保证老年人、残疾人、慢性病患者等重点人群服务连续、可及的前提下，逐步提高全人群在基层医疗机构获得服务的连续性[15]。
+
+综上，自家庭医生签约服务在该市推行以来，基层医疗机构所提供服务的连续性总体较好。同时，对于研究中发现的居民对连续性服务的重要性认知不足、社区卫生服务中心的签约居民及非重点人群的签约居民连续性得分较低等问题，提出强化基层医疗机构人才队伍建设、加强医患沟通、引导居民形成“基层首诊”观念、开发利用移动端预约和咨询平台及合理扩大家庭医生签约服务规模等建议，以期为居民提供长期、连续、稳定的基本医疗服务。
+
+作者贡献：柳松艺、于倩倩负责文章构思与整体框架设计；柳松艺、孟文奇、李子鑫负责数据收集、整理和录入；柳松艺、孟文奇、彭海波、姜晓利负责结果的分析与解释；于倩倩、尹文强、陈钟鸣、孙葵、郭洪伟负责论文的修订；柳松艺、彭海波、姜晓利负责英文的修订；于倩倩负责文章的质量控制及审校，并对文章整体负责，监督管理。
+
+本文无利益冲突。
+
+# 参考文献
+
+1.匡莉,LiLi,梅洁.全科医疗核心特征功能、高绩效作用机制及其政策涵义[J].中 国卫生政策研究,2016,9(01):2-10.DOI: 10.3969/j.issn.1674-2982.2016.01.001 KUANG L,LI L, MEI J. Core attributes,high-performance functional mechanism and policy implications of general practice [J]. Chinese Journal of Health Policy, 2O16,9 (O1): 2-10. DOI: 10.3969/j.issn.1674-2982.2016.01.001   
+2.丁欣欣,张曦,周梦萍,等.全科医疗核心特征功能对糖尿病患者自我管理效能影响[J].中国社 会医学杂志,2022,39(01):76-80.   
+DING XX, ZHANG X, ZHOU MP, et al.The Influence of Primary Care on Self-efficacy of Diabetic Patients [J]. Chinese Journal of Social Medicine,2022,39 (01): 76-80   
+3.欧文森．社区多重慢病人群的健康现况及其社康服务管理评价[D].广州医科大学,2018. OU WS. Prevalence of Multimorbidity among People with Chronic Diseases and Evaluation of Community Health Services in a District of Shenzhen City [D]. Guangzhou Medical University, 2018   
+4.赵婧革,匡莉,汪雨潭.全科医疗核心特征功能定义与内涵界定研究——连续性[J].中国卫生 政策研究,2017,10(05):13-19.DOI: 10.3969 /j.issn.1674-2982.2017.05.003   
+ZHAO JG, KUANG L, WANG YT. Study on defining and conceptualizing of general practice: The continuity of primary care [J] Chinese Journal of Health Policy, 2017,10 (05): 13-19 DOI: 10.3969 /j.issn.1674-2982.2017.05.003   
+5. BAZEMORE A， PETTERSON S， PETERSON L E， et al． Higher primary care physician continuity is associated with lower costs and hospitalizations[J]. Ann Fam Med,2018,16(6): 492- 497.DOI:10.1370/afm.2308.   
+6.乔静怡,陈王心悦,杨君洁,等.基于感知质量评价的农村家庭医生签约服务连续性研究[J].中 国全科医学,2021,24(19):2440-2444.DOI: 10.12114/j.issn.1007-9572.2021.00.182   
+QIAO JY, CHEN WXY, YANG J, et al. Continuity evaluation of contracted family doctor services in rural areas using perceived quality framework[J]. Chinese General Practice, 2021, 24(19): 2440- 2444. DOI: 10.12114/j.issn. 1007-9572.2021.00.182   
+7.柳松艺,孟文奇,彭海波,等.某市家庭医生服务签约居民的就诊体验研究[J].中华医院管理杂 志,2021,37(09):766-771. DOI: 10.3760/cma.j.cn111325-20210325-00265   
+LIU SY, MENG WQ, PENG HB, et al. Study on patient experiences of residents contracted with family doctor services in a city[J]. Chinese Journal of Hospital Administration,2021,37(09):766- 771. DOI: 10.3760/cma.j.cn111325-20210325-00265   
+8.张涛．患者视角下的全科医师服务连续性测评与影响因素研究[D].杭州师范大学,2018. ZHANG T. Study on the continuity of general practitioner services and its factors from the perspective of patients[D]. Hangzhou Normal University, 2018   
+9.邱宝华,黄蛟灵,梁鸿,等.家庭医生签约服务利用与满意度的比较研究[J].中国卫生政策研 究,2016,9(08):31-36. DO1: 10.3969/j.issn.1674-2982.2016.08.006   
+QIU BH, HUANG JL,LIANG H, et al. A comparative study on the health services utilization and satisfaction of the family doctor service[J]. Chinese Journal of Health Policy, 2016,9(08):31-36. DOI: 10.3969/j.issn.1674-2982.2016.08.006   
+10.山东省卫生与计划生育委员会．关于做实家庭医生签约服务工作的通知[EB/OL].(2018-5- 26)[2022-04-25]. htp://www.shandong.gov.cn/art/2018/5/26/art_116200_332744.html   
+Health and Family Planning Commission of Shandong Province. Notice on contracting services for family doctors. [EB/OL] (2018-5-26) [2022-04-25]. http://www.shandong.gov.cn/art/2018/5/26/art_116200_332744.html   
+11.汤晓．健康中国背景下家庭医生服务能力建设研究[D].上海工程技术大 学,2020.DOI:10.27715/d.cnki.gshgj.2020.000094.   
+TANG X. RESEARCH ON THE CONSTRUCTION OF FAMILY DOCTOR'S SERVICE ABILITY UNDER THE BACKGROUND OF HEALTHY CHINA[D]. Shanghai University Of Engineering Science. 2020.DO1:10.27715/d.cnki.gshgj.2020.000094.   
+12.付英杰,王健,俞乐欣,等.健康中国背景下家庭医生签约服务发展中的问题与对策研究[J].中 国全科医学,2019,22(19):2296-2300.DOI: 10.12114/j.issn.1007-9572.2019.00.352   
+FU YJ, WANG J, YU LX, et al. Problems and countermeasures in the development of contracted family doctor services in achieving Healthy China goals[J]． Chinese General Practice， 2019, 22(19):2296-2300. DOI: 10.12114/j.issn.1007-9572.2019.00.352   
+13.宁艳阳.家庭医生：居民身边的医生朋友[J].中国卫生,2021(06):13- 15.DOI:10.15973/j.cnki.cn11-3708/d.2021.06.002.   
+NING YY. Family doctor: doctor friends around residents[J]. China health，2021(06):13- 15.DOI:10.15973/j.cnki.cn11-3708/d.2021.06.002.   
+14.肖蕾,张太慧,张雅莉,等.分级诊疗视角下家庭医生签约服务"签而不约"的原因及对策研究 [J].中国全科医学,2018,21(25):3063-3068.DOI: 10.12114/j.issn.1007-9572.2018.25.007 XIAO L, ZHANG TH, ZHANG YL, et al. Reasons and countermeasures of residents signing the contract with the family doctor but not making appointments during the implementation of hierarchical medical system[J]． Chinese General Practice, 2018,21(25): 3063-3068.DOI: 10.12114/j.issn.1007-9572.2018.25.007   
+15.吴慧芳,王吉平.家庭医生责任制下全人群健康管理的运行模式探索与实践[J].中国全科医 学,2014,17(01):25-27. DOI: 10.3969/j.issn.1007-9572.2014.01.009   
+WU HF, WANG JP. A Model of Whole-population Health Management within Family Doctor System[J]. Chinese General Practice, 2014,17(01):25-27. DOI: 10.3969/j.issn.1007- 9572.2014.01.009

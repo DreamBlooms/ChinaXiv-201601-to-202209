@@ -1,0 +1,179 @@
+# DOI: 10.5846/stxb201705160904
+
+高静,Said Muhanmmad,岳琳艳,何永涛,斯确多吉,张宪州,孔维栋.藏北高原草甸土壤固碳微生物群落特征随海拔和季节的变化.生态学报， 2018,38(11):3816-3824. Gao J,Muhanmmad Said,YueL Y,HeYT,Tsechoe Dorji,Zhang X Z,Kong W D.Changes in $\mathrm { C O } _ { 2 }$ -fixing microbial community characteristics with elevationandseason inalpinemeadowsoilsonthenorthern TibetanPlateau.ActaEcologica Sinica,2018,38(11):3816-3824.
+
+# 藏北高原草甸土壤固碳微生物群落特征随海拔和季节的变化 C
+
+高静1,²,Said Muhanmmad¹，岳琳艳1,²,何永涛³,斯确多吉¹,张宪州³,孔维栋1,2,\*
+
+1中国科学院青藏高原研究所，高寒生态学与生物多样性重点实验室,北京100101  
+2中国科学院大学资源与环境学院，北京100049  
+3中国科学院地理与资源科学研究所，生态系统网络观测与模拟重点实验室,北京100101
+
+摘要;研究土壤固碳微生物丰度、群落结构、多样性差异及其影响因子对了解青藏高原土壤碳循环和固碳潜力具有重要意义。采用定量PCR（qPCR）、末端限制性片段分析（T-RFLP）、克隆文库和测序方法,研究了青藏高原草甸土壤固碳微生物丰度与群落结构随海拔和季节的变化,主要结果如下:1）随海拔升高高寒草甸土壤固碳微生物丰度显著升高,但季节变化不明显,不同类别微生物固碳基因cbbL丰度依次为：FormIC $>$ FormIAI $\mathrm { 3 > F }$ ormID，其中FormIC类固碳微生物可达 $1 0 ^ { 8 }$ 拷贝数 $\mathbf { \chi } _ { \mathbf { g } }$ 土壤,cbbL基因丰度与海拔、土壤含水量和铵态氮含量( $\mathrm { N H } _ { 4 } ^ { + }$ -N)呈正相关关系，与土壤温度和 $\mathrm { \Delta \ p H }$ 值负相关;2）固碳微生物多样性和丰富度随海拔升高而升高,在 $4 8 0 0 \mathrm { m }$ 达到最大,且二者受季节影响较小,其群落结构随海拔升高而逐渐变化,主要受土壤 $\mathrm { \ p H }$ 值、海拔和土壤水分影响;3）FormIC 类固碳微生物主要包括放线菌门和和变形菌门,其中 $\propto$ 变形菌门是高寒草甸土壤优势固碳微生物类群。本研究有助于理解土壤微生物群落功能及其在土壤碳循环过程中的作用,为更准确评估高寒草甸土壤碳循环过程提供了科学依据。
+
+关键词：高寒草甸;固碳微生物;RubisCO酶;海拔梯度；青藏高原
+
+# Changes in $\mathbf { C O } _ { 2 }$ -fixing microbial community characteristics with elevation and season in alpine meadow soils on the northern Tibetan Plateau
+
+GAO Jing1,²，MUHANMMAD Said，YUE Linyan1²,HE Yongtao³，TSECHOE Dorji¹，ZHANG Xianzhou, KONG Weidong1,2, \*
+
+1KeyLaboratooeoddeststuteofenPteuseachsecadefecsei   
+2 College of Resources and Environment， University of Chinese Academy of Sciences，Beijing 10o049，China   
+3KeyLboratofoekerddelnsteofaccdualRsoeh，f Sciences，Beijing 100101,China
+
+Abstract: Soil microbial autotrophs play an important role in $\mathrm { C O } _ { 2 }$ fixation in terrestrial ecosystems，particularly in vegetation-constrained ecosystems with environmental stresses，such asthe Tibetan Plateau，which ischaracterized bylow temperature，drought，and high UV.However，soil microbial autotrophic communitiesandtheirdriving factors remain les appreciated in theseterestrial ecosystems.Tounderstandcarbonsequestrationbysoil microbialautotrophsandthecarbon cycleinalpine meadow soilsonthe Tibetan Plateau，autotrophic microbial abundance,communitystructure,diversity，and their driving environmental factors were explored along an elevation gradient from $4 4 0 0 \mathrm { m }$ to $5 2 0 0 \mathrm { m }$ on the Tibetan Plateau.
+
+Aditionall,the seasonal change insoil microbialautotrophswasexploredateach elevation.Theautotrophicmicrobial communities were characterized byquantitative PCR,T-RFLP,and cloning/sequencing methods targetingfour typesof cbbL gene，encoding the large subunit for the $\mathrm { C O } _ { 2 }$ -fixing protein ribulose 1，5-bisphosphate carboxylase/oxygenase（RubisCO）, FormIA/B,IC,and ID.HighcbbL gene abundance was observed,，which significantly increased with increasing elevations, with minimum seasonal change.Among the four types of microbial autotrophs,Form IC gene abundance was the highest at the level of ${ 1 0 } ^ { \mathrm { { s } } }$ copies/ $\mathbf { g }$ soil, followed by Form IA/B and Form ID.Form IC cbbL gene abundance was positively correlated with elevation，soil water content（SWC），and $\mathrm { N H } _ { 4 } ^ { + }$ content，and negatively correlated with soil temperature and pH （P< 0.01).Form IC Shannon diversityand richness significantly increased with increasing elevation，peaking at 4800m，but showed litleefectofseason.FormICcommunitystructure exhibiteda gradualshift along the elevation gradient，and was mainly driven by SWC，soil $\mathrm { \ p H }$ ，and elevation. Form IC cbbL genes were identified to be Actinobacteria and Proteobacteria (including $\alpha$ -proteobacteria and $\beta$ -proteobacteria） using clone library and sequencing，and the dominant phyla were α- proteobacteria in alpine meadow soils，including Bradyrhizobium，Rhizobium，and Mesorhizobium.Ourresults demonstrated high abundance of microbial autotrophs and high CO $^ 2$ fixation potential in alpine grassand soils ，and provide a novel model to identifydominantdriversof soil microbialcommunitiesand their ecological functions.Thesefindings have important implications forunderstandingthefunctionalroleof microrganisms in thesoil carboncycleandcouldbe helpful tomore accurately assess carbon storage in alpine grassland soils on the Tibetan Plateau.
+
+Key Words:alpine meadow；cbbL；RubisCO；elevation； the Tibetan Plateau
+
+卡尔文循环是自然界中最主要的生物固碳途径[1]。核酮糖-1,5-二磷酸羧化酶/加氧酶(RubisCO)是卡尔文循环的限速酶和关键酶[2]。目前自然界存在4种类型 RubisCO（I,II,III,IV）,其中 RubisCOI是广泛存在于光合和化能自养生物体中[3]。RubisCOI又可细分为四类,分别是Form IA,IB,IC,ID。RubisCO 酶大亚基由cbbL基因编码, $9 5 \%$ 以上的固碳生物含有该基因[4]。cbbL基因可作为固碳微生物标记物,已在海洋[5]、湖泊[6]和土壤[7固碳微生物群落结构和生物多样性研究中广泛应用。海洋和湖泊中固碳微生物群落及其固碳能力已经得到很多研究,但在土壤固碳微生物群落特征研究很少[7]。
+
+青藏高原因海拔高、年均温低、干旱和强紫外等等恶劣环境,导致植物生长受到极大限制,是典型生态脆弱区[8]和气候变化敏感区[9]。高寒草甸是青藏高原典型地带性植被生态系统[10],该生态系统土壤中碳储量巨大[11]。近年来高寒草甸土壤微生物研究主要集中在土壤微生物量、土壤微生物活性[12]、土壤微生物群落结构变化[13]和土壤微生物多样性[14]等方面,但土壤固碳微生物特征及其对高寒草甸土壤碳储量的贡献尚未得到深入研究。与低海拔地区相比,青藏高原植被生长受到极大限制,因此,开展土壤微生物固碳研究对我们理解青藏高原土壤固碳微生物功能及土壤碳循环过程具有重要意义。
+
+海拔梯度变化综合了多种环境因子的梯度效应[15]。随着海拔梯度的上升,土壤和气候等环境因子均发生改变,从而引起土壤微生物群落多样性的变化[16]。因此,海拔梯度变化是研究土壤固碳微生物群落特征及其驱动因子的理想自然实验室。本文采用分子生物学方法（分别为定量PCR、T-RFLP、克隆文库和测序等方法）,研究了青藏高原不同海拔草甸土壤固碳微生物群落结构和多样性变化规律,旨在探讨不同海拔梯度土壤固碳微生物群落特征及其环境影响因子。该研究可为深入理解高寒草甸土壤固碳微生物群落特征及土壤碳循环过程提供理论依据。
+
+# 1研究区域与方法
+
+# 1.1 研究地区概况
+
+本研究区域位于拉萨市北部当雄县辖区,距离拉萨市区约 $1 7 0 \mathrm { k m }$ ,坐标为 $9 1 ^ { \circ } 0 5 ^ { \prime } \mathrm { E }$ ， $3 0 ^ { \circ } 5 1 ^ { \prime } \mathrm { N }$ ,平均海拔约4300— $4 7 0 0 \mathrm { m }$ ,背靠念青唐古拉山脉[17]。该地区属于高原性季风气候,水热同期,夏季短暂多雨;冬季寒冷干
+
+燥,昼夜温差大。年均温 $1 . 5 \mathrm { ^ { \circ } C }$ （1960—2000）[18],年降水量 $4 7 6 . 8 \mathrm { m m }$ ,其中约 $8 0 \%$ 的降水都集中在3月份至8月份,降水季节性十分明显[19]。土壤类型为高寒草甸土,生态系统为典型高山草甸,植被主要包括建群种矮嵩草,夹杂委陵菜、垫状点地梅等,随海拔升高植被类型变化不大,仅地上部生物量增加[20]。
+
+# 1.2样品采集与处理
+
+在念青唐古拉山南坡采样,在2014年4个季节采样,时间分别为2014年3月26日、6月21日、8月26日和10月23日,样点分布在 $4 4 0 0 \ 、 4 6 5 0 \ 、 4 8 0 0 \mathrm { m }$ 和 $5 2 0 0 \mathrm { m }$ 的4个海拔,每个海拔在取样点周围 $9 \mathrm { m } ^ { 2 }$ 内取3个重复,每个重复土壤由直径 $2 . 5 \mathrm { c m }$ 的土钻取3钻混合而成,取样深度为 $_ { 0 - 1 0 \mathrm { c m } }$ 。土样采集后装塑封袋,过$2 . 0 \mathrm { m m }$ 孔径筛子后一部分用无菌袋封装并迅速冷冻,用于微生物群落实验,于 $- 8 0 \mathrm { { ^ circ C } }$ 冷冻保存;另一部分风干后用于土壤理化因子测定。
+
+# 1.3土壤理化因子测定
+
+测定土壤的碳氮相关理化因子,主要为土壤总有机碳(TOC)和铵态氮( $\mathrm { N H } _ { 4 } ^ { + } { - } \mathrm { N }$ )和硝态氮 $( \mathrm { N O } _ { 3 } ^ { - } ) – \mathrm { N }$ ）。TOC采用总有机碳分析仪测定（TOC-L，SHIMADZU，Japan）,铵态氮和硝态氮采用流动分析仪测定（AQ2，SEALAnalytical Inc.，UK）。土壤含水量采用烘干法（24h)测定,土壤 $\mathrm { \ p H }$ 值（土水比1:2.5）采用酸度计（SartoriusPB-10，德国)测定,每个海拔土壤温度由 HOBO 自动气象站测定（Onset Inc.，Bourme,MA，USA）。
+
+# 1.4土壤DNA 提取
+
+所有 DNA 样品均采用 Powersoil@ DNA Isolation Kit(MOBIO,USA)试剂盒提取,土壤称取冷冻土样 $0 . 2 5 \mathrm { g }$ 。操作流程按照试剂盒说明书进行。DNA 提取完毕后取 $2 \mu \mathrm { L }$ DNA 溶液检测 DNA 浓度和纯度（Nanodrop@ ND-1000,USA）,并用琼脂糖凝胶电泳检测 DNA完整性。 20
+
+# 1.5 基因丰度测定
+
+采用定量PCR（简称qPCR)方法检测样品中和固碳微生物cbbL 基因丰度,PCR扩增引物均为特异性引物,其序列见表1。基因丰度检测使用罗氏定量PCR 仪（Roche LightCycler480 II,Roche，USA)进行,标线采用含目的片段的已知数量质粒10倍系列稀释液 $\begin{array} { r l } { \lbrack 6 \rbrack } & { { } _ { \circ } \quad \mathrm { q P C R } } \end{array}$ 扩增酶使用 SYBR green kit（TaKaRa,大连）,反应体系为 $1 0 \mu \mathrm { L }$ ,包括 $3 \mu \mathrm { L }$ 缓冲液， ${ 5 \mu \mathrm { L } }$ 的酶，引物各 $0 . 5 \mu \mathrm { L } , \mathrm { 1 } \mu \mathrm { L }$ DNA 模板。qPCR反应条件为预变性 $9 5 / 9 4 ^ { \circ } \mathrm { C }$ 2min, $9 4 ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ，退火温度分别是：FormIA/B基因 $6 1 \mathrm { { ^ \circ C } }$ ,Form IC 基因 $6 3 ^ { \circ } \mathrm { C }$ ,Form ID 基因 $5 3 ^ { \circ } \mathrm { C } \ 3 5 \$ 个循环。在 $7 2 \%$ 收集荧光信号。
+
+表1本研究采用的引物  
+Table 1 Primer sets used in the study   
+
+<html><body><table><tr><td>引物名称 Primer</td><td>引物序列 Sequence(5'-3')</td><td>引物名称Primer</td><td>引物序列 Sequence(5'-3')</td></tr><tr><td>Form IC-F</td><td>GAA CAT CAA YTC KCA GCC CTT[21]</td><td>Form ID-R</td><td>ATT TGD CCA CAG TGD ATA CCA[22]</td></tr><tr><td>Form IC-R</td><td>TGG TGC ATC TGV CCG GCR TG[21]</td><td>Form IA/B-F</td><td>TCI GCI TGR AAC TAY GGT CG[23]</td></tr><tr><td>Form ID-F</td><td>GAT GAT GAR AAY ATT AAC TC[22]</td><td>Form IA/B-R</td><td>GGC ATR TGC CAI ACR TGR AT[23]</td></tr></table></body></html>
+
+1.6固碳微生物群落结构分析
+
+（草甸土壤中Form IC 类固碳微生物丰度最高,代表主要土壤固碳微生物类群,远高于Form IAB 和ID 类固碳微生物。因此,本研究采用末端限制性片段长度多态性（Terminal Restriction Fragment Length Polymorphism,简称T-RFLP)技术深入分析了FormIC类固碳微生物群落结构和多样性。利用 $5 ^ { \prime }$ 端标记有荧光的引物对功能基因进行扩增,而后用 Axygen 公司生产的胶回收试剂盒对PCR 产后进行切胶纯化,将纯化产物进行限制性酶切,本研究中采用MspI酶切Form IC 目的基因片段,酶切产物片段大小和相对量采用ABI3730xlDNA 测序仪（Applied Biosystems,CA,USA)测定,不同末端限制片段(T-RFs)相对量用来计算固碳微生物群落结构和多样性指数。
+
+1.7固碳微生物克隆文库、测序与DNA序列系统发育分析我们对 $4 8 0 0 \mathrm { m }$ 海拔处3月和6月土样各建立了FormIC类固碳微生物克隆文库,并测序和进行系统发育分析。IC 固碳基因PCR 扩增采用与qPCR 相同的引物,PCR 反应体系与T-RFLP 相同。将每个克隆文库的PCR 样品按照的胶回收试剂盒说明书进行目的片段的回收纯化,纯化产物用Promage 公司生产的PEGM-T（Promega，USA)连接载体试剂盒进行连接反应并转化到感受态细胞中,感受态细胞采用康为世纪公司生产的 $\mathrm { D H - } 5 \alpha$ 菌株;通过LB平板蓝白斑筛选随机挑取白斑(40—45个)；对随机挑选的白斑进行阳性克隆鉴定和测序,鉴定结果为阳性、片段长度符合目标片段要求的克隆子进行 Sanger 测序（ABI3730xlDNA 测序仪，Applied Biosystems,CA,USA）;采用MEGA6.0 对获得的目的基因 DNA序列进行系统发育分析。
+
+# 1.8 数据分析
+
+克隆文库测序所得结果使用Mothurv.1.33.3选取相似性大于 $9 7 \%$ 的DNA序列进行OTU划分，使用邻接法（neighbor-joining)在 MEGA 6.0软件中构建系统发育树。群落结构分析主要利用Canoco 5软件进行,群落多样性利用R3.1.3中的“vegan"软件包进行计算。相关性和差异显著性分析采用 SPSS.23 软件,作图采用Sigmaplot 10.0 和 Excel 软件。 Cy
+
+# 2结果与分析
+
+# 2.1cbbL 基因丰度随海拔和季节变化
+
+土壤中各月份FormIAB 基因丰度在 $1 0 ^ { 6 }$ 拷贝数/ $\mathbf { \check { g } }$ 到 $1 0 ^ { 8 }$ 拷贝数/g之间(图1)。随海拔升高，FormIAB的基因丰度逐渐增加,且由 $4 4 0 0 \mathrm { m }$ 至 $4 8 0 0 \mathrm { m }$ Form 增加幅度较大,4800m以上基本持平或稍下降。3月份FormIAB 的基因丰度随海拔变化幅度最小。对海拔和季节进行双因素分析可知,季节及其与海拔的交互作用对Form IAB 基因丰度无显著影响( $P { > } 0 . 6 3 1 )$ 。 >
+
+Form IC基因丰度各月份在 $1 0 ^ { 8 }$ 拷贝数 $\mathbf { \nabla } \cdot / \mathbf { g }$ 到 $1 0 ^ { 9 }$ 拷贝数/g之间(图2)。随海拔升高,各月份FormIC 基因丰度显著增加，自 $4 4 0 0 \mathrm { m }$ 至 $4 8 0 0 \mathrm { m }$ 增加幅度较快, $4 8 0 0 \mathrm { m }$ 以上基本持平或有所下降。与其他月份相比,3月份Form IC 基因丰度随海拔升高变化最小。对海拔和季节进行双因素分析可知,海拔升高和季节均显著影响Form IC 基因丰度( $P { < } 0 . 0 5 )$ ,且二者交互作用也显著影响 FormIC 基因丰度( $_ { _ { P < 0 . 0 1 ) } }$ 。
+
+![](images/2fcd361981c39976d49900c99acc5ffa403e6be98691b4b74134aafa39347913.jpg)  
+图1FormIAB基因丰度随海拔的变化图
+
+![](images/68a4ee12619c862c22c69e5e11a7d94739a740609fb63d30096aa3f501a1d8a1.jpg)  
+Fig.1Changes in the abundance of Form IA/B with altitude   
+图2FormIC基因丰度随海拔的变化图 Fig.2Changes in the abundance of Form IC with altitude
+
+Form ID基因丰度各月份在 $1 0 ^ { 5 }$ 拷贝数/ $\mathbf { \check { g } }$ 到 ${ 1 0 } ^ { 6 }$ 拷贝数/g之间（图3）。随海拔升高，各月份FormID基因丰度无明显变化,且10月份FormID 基因丰度随海拔升高变化最小。
+
+综上所述,随海拔升高不同类型固碳微生物丰度变化趋势不同,Form IC 和Form IAB 基因丰度随海拔升高而逐渐增加,Form ID 随海拔变化趋势不明显。其中Form IC类固碳微生物丰度在各个海拔均远高于其他两类固碳微生物。对比不同季节间基因丰度的变化情况,在生长季(6月和8月)cbbL基因丰度变化较大,而冬季(3月)变化幅度较小。
+
+http://www.ecologica.cn
+
+Pearson相关分析表明，土壤FormIC基因丰度与海拔呈正相关关系，即海拔越高，FormIC基因丰度越大（表2)，说明高海拔土壤条件有利于IC类固碳微生物生长。FormIAB和FormIC类固碳微生物丰度与土壤温度和 $\mathrm { \ p H }$ 值呈负相关关系,与土壤含水量和 $\mathrm { N H } _ { 4 } ^ { + }$ -N呈正相关关系。FormIC 基因丰度与土壤 TOC含量呈正相关关系。FormID类固碳微生物丰度与海拔呈负相关关系，即随海拔升高而降低，与土壤温度呈正相关关系。
+
+# 2.2cbbL基因多样性指数随海拔和季节变化
+
+随海拔升高各月份FormICcbbL基因香农多样性指数均显著升高， $4 8 0 0 \mathrm { m }$ 出达到最高，之后稍下降（图4)。与香农多样性指数变化趋势相似，随海拔显著升高各月份FormIC基因群落丰富度显著升高，在 $4 8 0 0 \mathrm { m }$ 达到最大,之后有所下降（图5）。与其他月份相比,3月份香农多样性指数和丰富度变化均最小,可能是由于3 月份土壤还在冻融期,土壤温度与土壤水含量相对较低,故对海拔变化不敏感。
+
+![](images/36fc49c3623ebf732f8e93f172d6551114a51f7baba27c84c2ae0303fd4b7cdb.jpg)  
+图3FormID基因丰度随海拔的变化图 Fig.3Changes in the abundance of Form ID with altitude
+
+表2cbbL基因丰度与环境因子的相关性  
+Table 2Pearson correlations between cbbL gene abundance and environmental factors   
+
+<html><body><table><tr><td>环境因子</td><td rowspan="3">Form IC</td><td rowspan="3">Form ID</td><td rowspan="3">Form IAB</td><td rowspan="3">环境因子 Form IC Environmental factors</td><td rowspan="3">Form ID</td><td rowspan="3">Form IAB</td></tr><tr><td>Environmental factors</td></tr><tr><td>土壤含水量(SWC)</td></tr><tr><td></td><td rowspan="2">0.484**</td><td rowspan="2">-0.064</td><td rowspan="2">0.341**</td><td rowspan="2">海拔 Altitude 0.327 *</td><td rowspan="2">-0.275 *</td><td rowspan="2">0.133</td></tr><tr><td>Soil water content</td></tr><tr><td>NH4-N</td><td>0.316 *</td><td>-0.053</td><td>0.336 **</td><td>土壤温度 Soil temperature</td><td>-0.371** 0.308 *</td><td>-0.289 *</td></tr><tr><td>NO3-N</td><td>-0.027</td><td>0.050</td><td>-0.129</td><td>总有机碳TOC 0.312 *</td><td>-0.175</td><td>0.120</td></tr><tr><td>pH</td><td>-0.529 **</td><td>0.157</td><td>-0.370 **</td><td>Total organic carbon</td><td></td><td></td></tr></table></body></html>
+
+$\ast$ 和 $* *$ 分别表示显著性达到0.05和 $0 . 0 1$ 水平，单尾检验
+
+![](images/6db00482254ccec7e3355ae2af410ca99bc65f275d9be53d496eacc41e7943e1.jpg)  
+图4FormIC基因香农多样性指数随海拔的变化 Fig.4Changes in the Shannon diversity of FormIC with altitude
+
+![](images/cf2d76e689bb654922e8a4127b9bcdde26cf4857a22cf0b1da990f026121b86a.jpg)  
+图5FormIC基因群落丰富度随海拔的变化 Fig.5Changes in the richness of Form IC with altitude
+
+# 2.3草甸土壤固碳微生物群落结构随海拔和季节变化
+
+Form IC 类土壤固碳微生物群落结构随海拔升高而发生明显变化,但随季节变化不明显（图6)。根据海拔变化,固碳微生物群落结构主要分为两个类群，海拔 $4 4 0 0 \mathrm { m }$ 和 $4 6 5 0 \mathrm { m }$ 聚合为一类, $4 8 0 0 \mathrm { m }$ 和 $5 2 0 0 \mathrm { m }$ 聚合一类。RDA1和RDA2两个分量可解释 $3 0 . 3 6 \%$ 群落结构变异，RDA1可单独解释变异的 $2 3 . 6 5 \%$ ,说明海拔升高导致的土壤水分、有机质含量 $\mathrm { \nabla \cdot \ p H }$ 和土壤温度等土壤理化因子是驱动固碳微生物群落结构变化的主要因子。RDA2仅解释固碳微生物群落结构变异的 $6 . 7 1 \%$ ,其中季节是驱动RDA2的主要因子，说明群落结构在一定程度存在明显季节差异。
+
+# 2.4固碳微生物群落组成及其系统发育分析
+
+本研究对 $4 8 0 0 \mathrm { m }$ 海拔处3月和6月土壤进行克隆文库构建和cbbL基因片段序列分析，共得到52个OTUs。本研究土壤中FormIC类固碳微生物属于3个门（图7），分别是放线菌（Actinobacteria） $\cdot ^ { \alpha }$ 变形菌( $a -$ proteobacteria）和 $\beta$ 变形菌( $\beta$ -proteobacteria）。放线菌主要Pseudomocardia和Nocardia等微生物，与之前发现的一些青藏高原草地土壤克隆序列比较相似。 $\propto$ 变形菌主要包括一些典型根瘤菌，如Bradyrhizobium,Mesorhizobium和Rhizobium等， $\beta$ 变形菌主要包括一些化能自养型微生物，如Rubrivivax和Variovorvax等固碳微生物。
+
+![](images/1e598fa6a77e867cafc825695eb716c43a22426d603a63aa4b6209844d4959b7.jpg)
+
+![](images/39d9f1a6a35543ff9d4b437aef8cb48be5f0c26ff574c95f556fd7a3aa95ea6a.jpg)  
+图6FormIC基因群落结构RDA分析图Fig.6Redundancy analysis of T-RFLP of Form IC genesE:海拔,altitude;SWC:土壤含水量,soil water content;TOC:总有机碳,total organic carbon;T_5:5cm土壤温度， $5 \mathrm { c m }$ soil temperature;Season:季节,season;NH4 :铵态氮,ammonium nitrogen; $\mathrm { N O } _ { 3 } ^ { - }$ ：硝态氮,nitrate nitrogen
+
+56 Alphaproteobacteria Agricultureal soil clone (AY572158) 93 M39 (120bp) Pelomonas saccharophila(AM501465) 62 J3 (84bp) 80 62 iVariovoraxparadoxus(CPo01635) J15(36bp) Betaproteobacterid 99 Grasslandi(e TibetaPlateau (KM433983) 84 68 Rubrivivax gelatinosus (HQ877082) J5 (84bp) Polyangium brachysporum (CP011371) Mycobacterium sp.(EU026272) M19 (84bp) Pseudonocardia sp.(CP012184) 63 M13 (84bp) M37(401bp) 60 -Nocardia cyriacigeorgica (FOo82843) M20(84bp) 91 J32 (84bp)   
+62 J33 (273bp) M2(84bp) 98 77 M1(84bp) 66 99 M26(84bp) M15(84bp) Actinobacteria 67 M29 (84bp) M3 (273bp) 99 Grassland soil in the Tibetan Plateau (KM433946) 99 Grassland soil in high emssion dioxide springs (EU450696) 96 J39 (273bp) 98 J30 (36bp) J10 (36bp) 95 J14 (84bp) 99 M374p 0.02 J26(120bp)
+
+$\alpha$ 变形菌占总克隆文库的比例最高( $4 8 . 1 \%$ ),放线菌占 $3 8 . 4 \%$ ， $\beta$ 变形菌比例最低为 $1 3 . 5 \%$ 。对比不同月份3种类群所占比例，3月份 $\alpha$ 变形菌与放线菌所占比例相当分别占 $45 \%$ ;6月份 $\propto$ 变形菌比例从 $45 \%$ 升高至$5 2 \%$ ,而放线菌比例从 $45 \%$ 降低至 $3 0 \%$ ,说明主要包括根瘤菌的 $\propto$ 变形菌在生长季比例稍高于非生长季,固碳微生物群落组成随季节变化。
+
+# 3讨论与结论
+
+海拔梯度变化综合了多种环境因子的梯度效应[15]。在高寒草甸生态系统中,随海拔梯度变化,植物指数对气候的敏感性[24]、微生物的群落组成及多样性都会发生改变[25]。本研究发现,随海拔升高,草甸土壤温度与pH值逐渐降低，土壤含水率与铵态氮( $\mathrm { N H _ { 4 } ^ { + } { - } N }$ )含量逐渐升高,这些结果与我们之前的发现一致[2」。草甸土壤中类型FormI固碳微生物中， $\mathrm { F o r m ~ I C }$ 基因丰度最高,可达 $1 0 ^ { 8 }$ 拷贝数/L以上,且随海拔升高而增加。cbbL基因丰度与土壤温度和 $\mathrm { \ p H }$ 值呈负相关关系,与土壤含水量、 $\mathrm { N H } _ { 4 } ^ { + }$ -N 和 TOC 呈正相关关系,表明高海拔土壤中丰富的养分（包括TOC 和 $\mathrm { N H _ { 4 } ^ { + }  – N }$ )刺激了固碳微生物生长，同时这些固碳微生物可忍受或适应较低温度。因此,适应低温可能是青藏高原草甸土壤固碳微生物关键生存策略之一。丛静等[27]发现神农架自然保护区土壤微生物生物量随海拔升高而显著增加,随海拔变化的土壤温度、土壤湿度、 $\mathrm { \Phi _ { \cdot } p H }$ 值和有机碳是重要的影响因子,与本文研究结果相似。对比不同季节的cbbL基因丰度可发现,生长季(6月和8月)cbbL基因丰度随海拔变化较大,而非生长季(3月和10月)随海拔变化幅度较小。3月份各类固碳微生物丰度在各海拔梯度丰度基本不变,说明3月份土壤处仍处于冷冻或冻融交替阶段,土壤微生物还没有生长,故各海拔梯度固碳微生物丰度基本相似。这些研究结果与王琴等[28]的发现一致,即土壤微生物类群的海拔梯度效应存在季节变化
+
+特征。
+
+海拔及其导致的土壤理化因子变化和季节均影响固碳微生物结构多样性。土壤 $\mathrm { \ p H }$ 值、海拔和水分是驱动群落结构变化的关键环境因子,季节在一定程度上也会影响固碳微生物群落结构,但其影响程度稍弱于土壤理化因子。不同海拔和季节均使土壤理化和养分发生改变,从而影响固碳微生物生长和代谢活动,最终导致固碳微生物种群结构的变化。肖可青等研究发现在稻田土壤中,土壤有机碳和 $\mathrm { \ p H }$ 值对固碳微生物群落结构具有显著影响[29]。本文研究表明,随海拔升高草甸土壤固碳微生物多样性和丰富度逐渐升高,在 $4 8 0 0 \mathrm { { m } }$ 达到最高,说明海拔梯度会影响固碳微生物丰度和多样性变化,这与我们之前的研究结果一致[26]。宋贤冲等人[16]认为土壤含水量可能是造成不同海拔土壤微生物群落功能多样性差异的主要原因。土壤克隆文库和测序结果表明,在生长季(3月)和非生长季(6月)草甸土壤Form IC 类固碳微生物主要包括3个菌门,分别是放线菌、 $\propto$ 和 $\beta$ 变形菌。其中 $\propto$ 变形菌为优势菌门,主要包括根瘤菌,这与我们之前的研究发现相似[26]。刘琼等人[30]也发现稻田土壤中固碳微生物主要为变形菌和放线菌。有研究表明,β变形菌可以耐受各种环境压力,尤其对于酸性土壤中低 $\mathrm { \ p H }$ 值具有良好的耐受性[31]。 \~y
+
+综上所述,在本研究海拔梯度内,草甸土壤固碳微生物丰度和群落结构主要受海拔变化影响,而受季节变化影响较小,其中,随海拔梯度变化的土壤温度、土壤含水量、pH值和有机碳是重要的影响因子。固碳微生物多样性主要受土壤 $\mathrm { \ p H }$ 值和土壤含水量影响。该研究揭示了高寒草甸土壤固碳微生物丰度、群落结构特征及其环境驱动因子，为深人理解高寒草地土壤微生物功能和土壤碳循环过程及其动态变化提供理论依据。
+
+# 参考文献（References）:
+
+[1]TabitaFeulaellatoftotocidatiosoblalvs：155- 189.  
+[2］陈为钩，赵贵文，顾月华.RubisCO的研究进展.生物化学与生物物理进展，1999，26(5）：433-436.  
+[3]TabitaFRatagop,HasE,reeNEottSDisticIIIndVubisOproteinsfrhetegdoflieprovidecluesaboutubisCOevolutionandstructure/functionrelationships.JoualofExperimental Botany，o8,59（7）：51-1524.  
+[4]UchinYotaA.“Grenike”and“red-likRubisObenesinodobacteroforansleularolgdEvolutio0，(5):821-830.  
+[5]John DE，Wang ZA,LiuXW,BymeRH,CoredorJE,LópezJM,CabreraA，BronkDA,TabitaFR,PaulJH.Phytoplanktoncarbonfixation gene（RuBisCO）transcriptsandair-seaCOfluxintheMisissipi Riverplue.TheISMEJournal,2O7,1（6)：517-531.  
+[6]KongWDeaDC,risJC,o-KssRDiversitexpresifbgsipealloeredtarcicigthe polar night transition.Applied and Environmental Microbiology，2012,78(12）：4358-4366.  
+[7］陈晓娟，吴小红，简燕，袁红朝，周萍，葛体达，童成立，邹冬生，吴金水.农田土壤自养微生物碳同化潜力及其功能基因数量、关键酶活性分析.环境科学，2014，35（3）：144-1150.  
+[8］孙鸿烈，郑度，姚檀栋，张镜锂.青藏高原国家生态安全屏障保护与建设.地理学报，2012,67(1)：3-12.  
+[9］姚檀栋，朱立平.青藏高原环境变化对全球变化的响应及其适应对策.地球科学进展，2006,21（5)：459-464.  
+[10]Shen ZX,FuG，uCQ，Sn W,ZangXZRelatioshietnthegowgseasonmaximeancedvegetatiodexandclictoon the Tibetan Plateau. Remote Sensing,2014,6(8）: 6765-6789.  
+[11 王根绪，程国栋，沈永平.青藏高原草地土壤有机碳库及其全球意义.冰川冻土，2002，24(6):693-700.  
+[12] 任佐华，张于光，李迪强，肖启明，蔡重阳.三江源地区高寒草原土壤微生物活性和微生物量.生态学报，2011,31（11)：3232-3238.  
+[13] 斯贵才，王光鹏，雷天柱，张更新，夏燕青，陈芳荣.青藏高原东北缘土壤微生物群落结构变化.干旱区研究，2015,32（5）：849-855.  
+[14] 周宁一.青藏高原微生物多样性研究.微生物学通报，2014，41（11)：2378-2378.  
+[15] DjukicIZeherFtercrbalipoidtiiyfteatland Biochemistry，2010,42(2）：155-161.  
+[16］宋贤冲，郭丽梅，田红灯，邓小军，赵连生，曹继钊.猫儿山不同海拔植被带土壤微生物群落功能多样性.生态学报,2017,37（16)：1-8.  
+[17］付刚，沈振西.藏北高原不同海拔高度高寒草甸蒸散与环境温湿度的关系.中国草地学报，2015，37（3）：67-73.  
+[18]Ohtsuka T,Hirota M, Zhang X Z, Shimono A, Senga Y,Du $\mathrm { ~ M ~ G ~ }$ ,Yonemura S,Kawashima S,Tang Y H. Soil organic carbon pols in alpine tonival zones along an altitudinal gradient $( 4 4 0 0 - 5 3 0 0 \mathrm { m }$ ）on the Tibetan Plateau.Polar Science，2008，2(4)：277-285.  
+[19]FuG,ShenZX,ZhangXZ,ShiPL,HeYT,ZhangYJ,Sun W,WuJS,ZhouYT,PanX.CalbrationofMODIS-basedgrossprimaryproduction over an alpine meadow on the Tibetan Plateau.Canadian Jounal of Remote Sensing,2O12,38(2)：157-168.  
+[20］周启龙.西藏藏北地区不同草原类型区土壤理化性质特征研究.安徽农业科学，2016,44（20)：124-125，142-142.  
+2]AlfreioteistotctaeRubisCO genotypes.Systematic and Applied Microbiology，2009,32(2）：140-150.  
+22]PaulJH,freder，awikcdacodesityeecsinntplaopuatiosouteastffMexico.Marine Ecology Progress Series，2000,198：9-18.  
+[23]CorredorJE，wrik,PaulJH,ranH,KkofLpeJiepaA,rdasO.GhicalatRintegatiosdlo15-bisphospatecarboxylase/xygenasegnetranscriptionandptosytheticcapacityofplanktoicpotoautotrophs.AppliedandEnvitalMicrobiology，2004，70(9）: 5459-5468.  
+[24］沈振西，孙维，李少伟，何永涛，付刚，张宪洲，王江伟.藏北高原不同海拔高度高寒草甸植被指数与环境温湿度的关系.生态环境学报，2015，24(10)：1591-1598.  
+[25］彭岳林，蔡晓布.丛枝菌根真菌群落沿高寒草原海拔梯度的变化特征.生态学报，2015，35(22）：7475-7484.  
+[26]GuoGX,KongWD,LuJB,ZaoJX,DuHD,ZangXZ,XiaPHDverityanditributionofutotropicmicrobialoitlogenvironmentalgradientsingraslandsoilsontheTibetanPlatea.Aplied MicrobiologyandBiotechnology，2015，99（2）：876-87.  
+[27］丛静，刘晓，卢慧，薛亚东，刘学端，尹华群，李迪强，张于光.神农架自然保护区土壤微生物生物量碳、氮沿海拔梯度的变化及其影响因素.生态学杂志，2014，33（12)：3381-3387.  
+[28］王琴,李菊，孙辉.海拔梯度上西南亚高山-高山土壤微生物生物量碳季节动态.四川农业大学学报,2013,31(4)：386-392.  
+[29]XiaoKQ,BaoP,BaoQLJiaY,HuangFY,SuJQ，ZuYG.Quantativeanalysesofribulose-1,5-bisphospatecarboxylaseye(RubisCO）large-subunit genes（cbbL） in typical paddy soils.Fems Microbiology Ecology，2014,87(1)：89-101.  
+[30］刘琼，魏晓梦，吴小红，袁红朝，王久荣,李裕元，葛体达，吴金水.稻田土壤固碳功能微生物群落结构和数量特征.环境科学,2017，38(2): 760-768.  
+31]Stopsostssoil Burkholderia populations.Environmental Microbiology，2014,16(6）：1503-1512.

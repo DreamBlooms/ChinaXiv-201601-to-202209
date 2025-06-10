@@ -1,0 +1,519 @@
+[
+    {
+        "type": "text",
+        "text": "Reanalysis of the Four-Quark Operators Relevant to $\\Lambda _ { b }$ Lifetime from QCD Sum Rule ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao-Shang Huang $\\boldsymbol { a }$ , Chun Liu $\\boldsymbol { b }$ and Shi-Lin Zhu $a$ （204号 （204号 $a$ Institute of Theoretical Physics, Academia Sinica, P.O. Box 2735, Beijing 100080, China $\\boldsymbol { b }$ Korea Institute for Advanced Study, 207-43 Cheongryangri-dong, Dongdaemun-gu, Seoul 130-012,Korea ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\Lambda _ { b }$ matrix element of four-quark operator relevant to its lifetime is reanalyzed by QCD sum rule. The new ingredients introduced are that (1) more vacuum condensates are considered; (2） different quark-hadron duality is adopted; and (3) the possible deviation from the vacuum saturation assumption for the four quark condensates is considered. With $\\kappa _ { 1 } = 4$ the related hadronic parameter $r$ is calculated to be $( 3 . 6 \\pm 0 . 9 ) \\$ ,and the lifetime ratio $\\tau ( \\Lambda _ { b } ) / \\tau ( B ^ { 0 } ) = ( 0 . 8 3 \\pm 0 . 0 4 )$ ，which is consistent with the experimental data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers: 12.39.Hg, 14.20.Mr ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Heavy baryon lifetimes provide testing ground for the standard model, especially for QCD in some aspects, because they can be calculated systematically by heavy quark expansion [1]. Theoretically, if we do not assume the failure of the local duality assumption, the heavy hadron lifetime differences appear, at most,at the order of $1 / m _ { Q } ^ { 2 }$ [2].Recent experimental result on the lifetime ratio of the $\\Lambda _ { b }$ baryon and $B$ meson is [3] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\tau ( \\Lambda _ { b } ) } { \\tau ( B ^ { 0 } ) } = 0 . 7 9 \\pm 0 . 0 6 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which has shown some deviation from the theoretical expectation. This is one of issues concerned with the tests of the heavy quark expansions and has drawn a lot of theoretical attention [4-8],and may imply the potential importance of the $O ( 1 / m _ { b } ^ { 3 } )$ effect for the above heavy baryon and heavy meson lifetime difference [4,9,10]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is at the order $1 / m _ { b } ^ { 3 }$ that appear four-quark operators,whose contributions to decay widths are enhanced by a phase-space factor of $\\mathcal { O } ( 1 6 \\pi ^ { 2 } )$ with respect to the leading terms in the operator product expansion. Consequently one should include them in the prediction for non-leptonic decay rates [11], To the order of $1 / m _ { b } ^ { 3 }$ , the lifetime ratio was calculated as follows [4], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\frac { \\tau ( \\Lambda _ { b } ) } { \\tau ( B ^ { 0 } ) } = 1 + \\frac { \\mu _ { \\pi } ^ { 2 } ( \\Lambda _ { b } ) - \\mu _ { \\pi } ^ { 2 } ( B ) } { 2 m _ { b } ^ { 2 } } - c _ { G } \\frac { \\mu _ { G } ^ { 2 } ( B ) } { m _ { b } ^ { 2 } } } } \\\\ { { { } } } \\\\ { { { \\displaystyle ~ + \\xi \\{ p _ { 1 } B _ { 1 } ( m _ { b } ) + p _ { 2 } B _ { 2 } ( m _ { b } ) + p _ { 3 } \\epsilon _ { 1 } ( m _ { b } ) + p _ { 4 } \\epsilon _ { 2 } ( m _ { b } ) + [ p _ { 5 } + p _ { 6 } \\tilde { B } ( m _ { b } ) ] r ( m _ { b } ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the term proportional to $\\xi \\equiv ( f _ { B } / 2 0 0 \\mathrm { M e V } ) ^ { 2 }$ arises from the contributions of fourquark operators. The numerical values of the coefficients $c _ { G }$ and $p _ { i }$ 's ( $\\mathit { i } \\ = \\ 1 - \\ 6$ ）have been calculated in Ref. [4]. $\\mu _ { \\pi } ^ { 2 } ( H _ { b } )$ and $\\mu _ { G } ^ { 2 } ( B )$ are the averages of $b$ -quark kinetic and chromomagnetic energy, respectively. To the order of $1 / m _ { b } ^ { 2 }$ ， the lifetime ratio is 0.98. At the scale $m _ { b }$ ， the values of $p _ { i }$ 's are $p _ { 1 } = - 0 . 0 0 3$ ? $p _ { 2 } = 0 . 0 0 4$ ， $p _ { 3 } = - 0 . 1 7 3$ ， $p _ { 4 } = - 0 . 1 9 5$ ， $p _ { 5 } = - 0 . 0 1 2$ ， $p _ { 6 } = - 0 . 0 2 1$ ： $B _ { 1 }$ ， $B _ { 2 }$ ， $\\epsilon _ { 1 }$ ， $\\epsilon _ { 2 }$ ， $r$ and $\\tilde { B }$ are the parameterization of the hadronic matrix elements of the following four-quark operators, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\langle \\bar { B } | \\bar { b } \\gamma _ { \\mu } ( 1 - \\gamma _ { 5 } ) q \\bar { q } \\gamma ^ { \\mu } ( 1 - \\gamma _ { 5 } ) b | \\bar { B } \\rangle \\equiv B _ { 1 } f _ { B } ^ { 2 } m _ { B } ^ { 2 } , } & { { } } & { } \\\\ { \\langle \\bar { B } | \\bar { b } ( 1 - \\gamma _ { 5 } ) q \\bar { q } ( 1 + \\gamma _ { 5 } ) b | \\bar { B } \\rangle \\equiv B _ { 2 } f _ { B } ^ { 2 } m _ { B } ^ { 2 } , } & { { } } & { } \\\\ { \\langle \\bar { B } | \\bar { b } \\gamma _ { \\mu } ( 1 - \\gamma _ { 5 } ) t _ { a } q \\bar { q } \\gamma ^ { \\mu } ( 1 - \\gamma _ { 5 } ) t _ { a } b | \\bar { B } \\rangle \\equiv \\epsilon _ { 1 } f _ { B } ^ { 2 } m _ { B } ^ { 2 } , } & { { } } & { } \\\\ { \\langle \\bar { B } | \\bar { b } ( 1 - \\gamma _ { 5 } ) t _ { a } q \\bar { q } ( 1 + \\gamma _ { 5 } ) t _ { a } b | \\bar { B } \\rangle \\equiv \\epsilon _ { 2 } f _ { B } ^ { 2 } m _ { B } ^ { 2 } , } & { { } } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { 2 m _ { \\Lambda _ { b } } } } \\langle \\Lambda _ { b } \\vert \\bar { b } \\gamma _ { \\mu } ( 1 - \\gamma _ { 5 } ) q \\bar { q } \\gamma ^ { \\mu } ( 1 - \\gamma _ { 5 } ) b \\vert \\Lambda _ { b } \\rangle \\equiv - { \\frac { f _ { B } ^ { 2 } m _ { B } } { 1 2 } } r \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { 1 } { 2 m _ { \\Lambda _ { b } } } } \\langle \\Lambda _ { b } | \\bar { b } ( 1 - \\gamma _ { 5 } ) q \\bar { q } ( 1 + \\gamma _ { 5 } ) b | \\Lambda _ { b } \\rangle \\equiv - \\tilde { B } { \\frac { f _ { B } ^ { 2 } m _ { B } } { 2 4 } } r \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Eq. (2), the energy scale for the parameters is at $m _ { b }$ . In Eq. (3),generally the renormalization scale is arbitrary, and the parameters depend on it. It can be taken naturally at the low hadronic scale to apply the heavy quark expansion. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These parameters should be calculated by some nonperturbative QCD method. The QCD sum rule [12], which is regarded as a nonperturbative method rooted in QCD itself, has been used successfully to calculate the properties of various hadrons. In Refs. [5] and [6], the mesonic parameters $B _ { i }$ and $\\epsilon _ { i }$ have been calculated by the QCD sum rules within the framework of heavy quark effective theory (HQET) [13]. The baryonic parameters $r$ （204号 and $\\tilde { B }$ have been calculated in Ref.[7]. As a result, to the order of $1 / m _ { b } ^ { 3 }$ ， the theoretical calculation still cannot explain the experiment result (1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.THEORETICALCONSIDERATION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we try to match the experimental data by considering more subtleties in the theoretical analysis. As analyzed in Ref. [14], the lifetime ratio (1） depends crucially on the value of the baryonic parameter $r$ . Therefore,we shall carry out a reanalysis for baryonic parameter $r$ by the QCD sum rule. We note that in the analysis of Ref.[7], more condensates could be included in. They are gluon condensate and six-quark condensate. It may be important because the dimension of the gluon condensate is four. In spite of being dimension nine, the six-quark condensate may also have significant contribution， because the diagram is not suppressed by any loop factor. Experience from the heavy baryon masses tells us that the pure tree diagram is important [15-18]. Therefore in our calculation, these two kinds of condensates will be considered, in addition to those considered in Ref. [7]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The conclusion of $\\tilde { B } = 1$ does not change. It follows from the valence quark approxima;ion which is used both in Ref. [7] and in our QCD sum rule analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To calculate $r$ , the following three-point Green's function is constructed, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Pi ( \\omega , \\omega ^ { \\prime } ) = i ^ { 2 } \\int d x d y e ^ { i k ^ { \\prime } \\cdot x - i k \\cdot y } \\langle 0 | T \\tilde { j } ^ { v } ( x ) \\tilde { O } ( 0 ) \\tilde { j } ^ { v } ( y ) | 0 \\rangle \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\omega = v \\cdot k$ and $\\omega ^ { \\prime } = v \\cdot k ^ { \\prime }$ . The $\\Lambda _ { Q }$ baryonic current $\\tilde { j } ^ { v }$ was given in Refs. [15-18]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widetilde { j } } ^ { v } = \\epsilon ^ { a b c } q _ { 1 } ^ { T a } C \\gamma _ { 5 } ( a + b \\ A ) \\tau q _ { 2 } ^ { b } h _ { v } ^ { c } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $a$ and $b$ are certain constants which will be discussed later, $h _ { v }$ is the heavy quark field in the HQET with velocity $\\boldsymbol { v }$ ， $C$ is the charge conjugate matrix, $\\tau$ is the favor matrix for NQ, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\frac { 1 } { \\sqrt { 2 } } \\left( \\begin{array} { c c } { { 0 } } & { { 1 } } \\\\ { { - 1 } } & { { 0 } } \\end{array} \\right) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Eq. (5), $\\tilde { O }$ denotes the four-quark operator ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\cal O } = \\bar { h _ { v } } \\gamma _ { \\mu } \\frac { 1 - \\gamma _ { 5 } } { 2 } h _ { v } \\bar { q } \\gamma ^ { \\mu } \\frac { 1 - \\gamma _ { 5 } } { 2 } q \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note $< \\Lambda _ { b } | { \\tilde { O } } | \\Lambda _ { b } > = - < \\Lambda _ { b } | O | \\Lambda _ { b } >$ in the valence quark approximation [7],where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO = \\bar { h _ { v } } \\gamma _ { \\mu } \\frac { 1 - \\gamma _ { 5 } } { 2 } q \\bar { q } \\gamma ^ { \\mu } \\frac { 1 - \\gamma _ { 5 } } { 2 } h _ { v } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In terms of the hadronic expression, the parameter $r$ appears in the ground state contribution of $\\Pi ( \\omega , \\omega ^ { \\prime } )$ ， ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Pi ( \\omega , \\omega ^ { \\prime } ) = \\frac { 1 } { 2 } \\frac { f _ { \\Lambda } ^ { 2 } \\langle \\Lambda _ { Q } | O | \\Lambda _ { Q } \\rangle } { ( \\bar { \\Lambda } - \\omega ) ( \\bar { \\Lambda } - \\omega ^ { \\prime } ) } \\frac { 1 + \\not { N } } { 2 } + \\mathrm { h i g h e r ~ s t a t e s } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where the \"higher states” denotes the contribution of resonances and continuum. $ { \\langle \\Lambda _ { Q } \\vert } O  { \\vert \\Lambda _ { Q } \\rangle }$ has appeared in Eq. (4), $\\Lambda = m _ { \\Lambda _ { Q } } - m _ { Q }$ and the quantity $f _ { \\Lambda }$ is defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle 0 | \\tilde { j } ^ { v } | \\Lambda _ { Q } \\rangle \\equiv f _ { \\Lambda } u ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $u$ being the unit spinor in the HQET. The QCD sum rule calculations for $f _ { \\Lambda }$ were given in Refs.[15-18]. On the other hand, this Green's function $\\Pi ( \\omega , \\omega ^ { \\prime } )$ can be calculated in terms of quark and gluon language with vacuum condensates. This establishes the sum rule. For the resonance part of Eq. (10), we adopt the assumption of quark-hadron duality. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The calculation of $\\Pi ( \\omega , \\omega ^ { \\prime } )$ in HQET is straightforward. The fixed point gauge [19] is used.The tadpole diagrams in which the light quark lines from the four-quark vertex are contracted have been subtracted. The following values of the condensates are used, ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\langle \\bar { q } q \\rangle \\simeq - ( 0 . 2 3 ~ \\mathrm { G e V } ) ^ { 3 } ~ , } } \\\\ { { \\langle \\alpha _ { s } G G \\rangle \\simeq ( 0 . 0 7 5 \\pm 0 . 0 1 5 ) ~ \\mathrm { G e V } ^ { 4 } ~ , } } \\\\ { { \\langle g \\bar { q } \\sigma _ { \\mu \\nu } G ^ { \\mu \\nu } q \\rangle \\equiv m _ { 0 } ^ { 2 } \\langle \\bar { q } q \\rangle ~ , ~ m _ { 0 } ^ { 2 } \\simeq 0 . 8 ~ \\mathrm { G e V } ^ { 2 } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note we have adopted the new value for the gluon condensate from the recent analysis of the heavy quarkonium spectrum [20]. However, our final results are not very sensitive to the gluon condensate since its contribution is only about $6 \\%$ of the whole sum rule as shall see later. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Except for the quark gluon mixed condensate, our calculation would be consistent with that of Ref.[7] if the gluon and six-quark condensates were omitted. While the calculation can be justified if $\\left( - \\omega \\right)$ and $\\left( - \\omega ^ { \\prime } \\right)$ are large, however the hadron ground state property should be obtained at small $\\left( - \\omega \\right)$ and $\\left( - \\omega ^ { \\prime } \\right)$ . These contradictory requirements are achieved by introducing double Borel transformation for $\\omega$ and $\\omega ^ { \\prime }$ . It is defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\hat { B } = } & { \\underset { - \\omega \\to \\infty } { \\operatorname* { l i m } } \\underset { - \\omega ^ { \\prime } \\to \\infty } { \\operatorname* { l i m } } \\ \\frac { ( - \\omega ) ^ { n + 1 } } { n ! } ( \\frac { d } { d \\omega } ) ^ { n } \\frac { ( - \\omega ^ { \\prime } ) ^ { m + 1 } } { m ! } ( \\frac { d } { d \\omega ^ { \\prime } } ) ^ { m } . } \\\\ & { \\quad n  \\infty \\underset { \\tilde { \\tau } \\equiv \\frac { - \\omega } { n } \\mathrm { f i x e d } } { \\operatorname* { l i m } } \\ \\frac { m \\to \\infty } { \\tilde { \\tau } ^ { \\prime } } \\equiv \\frac { - \\omega ^ { \\prime } } { m } \\mathrm { f i x e d } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are two Borel parameters $\\tilde { \\tau }$ and $\\tilde { \\tau } ^ { \\prime }$ . They appear symmetrically, so $\\tilde { \\tau } = \\tilde { \\tau } ^ { \\prime } = 2 T$ is taken in the following analysis. The reason for the factor 2 is similar to that explained in the Ref. [21]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.DUALITY ASSUMPTION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generally the duality is to simulate the higher states by the whole quark and gluon contribution above some threshold energy $\\omega _ { c }$ . The whole contribution of the three-point correlator $\\Pi ( \\omega , \\omega ^ { \\prime } )$ can be expressed by the dispersion relation, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Pi ( \\omega , \\omega ^ { \\prime } ) = \\frac { 1 } { \\pi } \\int _ { 0 } ^ { \\infty } d \\nu \\int _ { 0 } ^ { \\infty } d \\nu ^ { \\prime } \\frac { \\mathrm { I m } \\Pi ( \\nu , \\nu ^ { \\prime } ) } { ( \\nu - \\omega ) ( \\nu ^ { \\prime } - \\omega ^ { \\prime } ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the redefinition of the integral variables ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\nu _ { + } = \\displaystyle \\frac { \\nu + \\nu ^ { \\prime } } { 2 } \\ : , } } \\\\ { { \\nu _ { - } = \\displaystyle \\frac { \\nu - \\nu ^ { \\prime } } { 2 } \\ : , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the integration becomes ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { 0 } ^ { \\infty } d \\nu \\int _ { 0 } ^ { \\infty } d \\nu ^ { \\prime } . . . = 2 \\int _ { 0 } ^ { \\infty } d \\nu _ { + } \\int _ { - \\nu _ { + } } ^ { \\nu _ { + } } d \\nu _ { - } . . . \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is in $\\nu _ { + }$ that the quark-hadron duality is assumed [13]; ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { h i g h e r ~ s t a t e s } = { \\frac { 2 } { \\pi } } \\int _ { \\omega _ { c } } ^ { \\infty } d \\nu _ { + } \\int _ { - \\nu _ { + } } ^ { \\nu _ { + } } d \\nu _ { - } { \\frac { \\mathrm { I m } \\Pi ( \\nu , \\nu ^ { \\prime } ) } { ( \\nu - \\omega ) ( \\nu ^ { \\prime } - \\omega ^ { \\prime } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This kind of assumption was suggested in calculating the Isgur-Wise function in Ref. [21] and was argued for in Ref. [22]. As pointed out in [22,13], in calculating three-point functions the duality is valid after integrating the spectral density over the ”off-diagonal” variable $\\begin{array} { r } { \\nu _ { - } = \\frac { 1 } { 2 } ( \\nu - \\nu ^ { \\prime } ) } \\end{array}$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sum rule for $\\langle \\Lambda _ { Q } | \\tilde { O } | \\Lambda _ { Q } \\rangle$ after the integration with the variable $\\nu _ { - }$ is obtained as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\frac { ( a + b ) ^ { 2 } } { 2 } f _ { \\Lambda } ^ { 2 } \\mathrm { e x p } \\left( - \\displaystyle \\frac { \\bar { \\Lambda } } { T } \\right) \\langle \\Lambda _ { Q } | \\tilde { O } | \\Lambda _ { Q } \\rangle = \\int _ { 0 } ^ { \\omega _ { c } } d \\nu \\mathrm { e x p } \\left( - \\displaystyle \\frac { \\nu } { T } \\right) \\{ \\frac { a ^ { 2 } + b ^ { 2 } } { 8 4 0 \\pi ^ { 6 } } \\nu ^ { 8 } - \\frac { a b } { 6 \\pi ^ { 4 } } \\nu ^ { 5 } \\langle \\bar { q } q \\rangle } \\\\ & { } & { \\qquad + \\frac { 3 ( a ^ { 2 } + b ^ { 2 } ) } { 2 0 4 8 \\pi ^ { 6 } } \\nu ^ { 4 } \\langle g _ { s } ^ { 2 } G ^ { 2 } \\rangle + \\frac { 5 a b } { 4 8 \\pi ^ { 4 } } m _ { 0 } ^ { 2 } \\langle \\bar { q } q \\rangle \\nu ^ { 3 } } \\\\ & { } & { \\qquad + \\kappa _ { 1 } \\displaystyle \\frac { 1 7 ( a ^ { 2 } + b ^ { 2 } ) } { 9 6 \\pi ^ { 2 } } \\langle \\bar { q } q \\rangle ^ { 2 } \\nu ^ { 2 } \\rangle - \\kappa _ { 2 } \\frac { a b } { 1 4 4 } \\langle \\bar { q } q \\rangle ^ { 3 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa _ { 1 }$ ， $\\kappa _ { 2 }$ are the scale parameters used to indicate the possible deviation from the factorization assumption for the four- and six-quark condensates. $\\kappa _ { 1 , 2 } = 1$ corresponds to the vacuum saturation approximation. $\\kappa _ { 1 } = ( 3 \\sim 8 )$ is often introduced in order to include the nonfactorizable contribution and to fit the data [23]. There is no discussion of $\\kappa _ { 2 }$ in literature so we use $\\kappa _ { 2 } = 1$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As argued in [17], the choice $a = b = 1$ tends to yield the optimal interpolating current for the $\\Lambda _ { b }$ baryon in HQET. We shall adopt $a = b = 1$ in our numerical analysis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The parameters $f _ { \\Lambda } , \\bar { \\Lambda }$ etc were obtained by the HQET sum rule analysis of two-point correlator [15-18], ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( a + b ) ^ { 2 } } 2 f _ { \\Lambda } ^ { 2 } e ^ { - \\bar { \\Lambda } / T } = \\int _ { 0 } ^ { \\omega _ { c } } d \\nu e ^ { - \\nu / T } [ \\frac { a ^ { 2 } + b ^ { 2 } } { 2 0 \\pi ^ { 4 } } \\nu ^ { 5 } - \\frac { 2 a b \\langle \\bar { q } q \\rangle } { \\pi ^ { 2 } } ( \\nu ^ { 2 } - \\frac { m _ { 0 } ^ { 2 } } { 1 6 } ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have not included $\\alpha _ { s }$ corrections in Eq. (19)， because they are also neglected in the sum rule for $r$ (18). The values of the parameters are $f _ { \\Lambda } ^ { 2 } = ( 2 . 9 \\pm 0 . 5 ) \\times 1 0 ^ { - 2 } ~ \\mathrm { G e V } ^ { ; }$ 3， $\\bar { \\Lambda } = ( 0 . 9 \\pm 0 . 1 ) \\mathrm { G e V }$ with the threshold $\\omega _ { c }$ to be $( 1 . 2 \\pm 0 . 2 ) \\mathrm { G e V }$ V and the Borel parameter $T$ in the window $( 0 . 2 - 0 . 4 )$ GeV. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to minimize the dependence of the parameters we divide Eq. (18) by Eq. (19) to extract $\\langle \\Lambda _ { Q } | \\tilde { O } | \\Lambda _ { Q } \\rangle$ . The variation of the matrix element with $\\omega _ { c }$ for two values of $\\kappa _ { 1 } = 1 , 4$ is given in Fig. 1. The value of $\\omega _ { c }$ is $( 1 . 2 \\pm 0 . 1 ) \\$ GeV. The sum rule window is $T = ( 0 . 1 5 - 0 . 3 5 )$ （20 GeV,which is almost the same as that in the two-point correlator sum rule. We obtain for K1=4 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\Lambda _ { Q } | \\tilde { O } | \\Lambda _ { Q } \\rangle = ( 1 . 6 \\pm 0 . 4 ) \\times 1 0 ^ { - 2 } \\mathrm { G e V ^ { 3 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By taking $f _ { B } = 2 0 0$ MeV, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = ( 3 . 6 \\pm 0 . 9 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If we use $\\kappa _ { 1 } = 1$ ，we get ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\Lambda _ { Q } | \\tilde { O } | \\Lambda _ { Q } \\rangle = ( 5 . 5 \\pm 1 . 0 ) \\times 1 0 ^ { - 3 } \\mathrm { G e V } ^ { 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = ( 1 . 3 \\pm 0 . 3 ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In our numerical calculation, the contribution of the perturbative term is smaller than those of the condensates due to small $T$ in the duality window and high dimensionality of the spectral function （ $\\nu ^ { 8 }$ in eq. (18) ). There are several known examples where the perturbative part has small contribution in the sum rule [16,17,24], without afecting the reliability of the results. Nevertheless, a hierarchical structure among various condensate terms exists in those cases and the present case. In the present case,because of the cancellation between the contributions of the quark condensate and the mixed condensate, as well as the smallness of the contributions of the gluon and the six-quark condensates, the influence of the fourquark condensate is significant and is enhanced by assuming the deviation from the vacuum saturation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Ref. [7] the authors used the following duality assumption, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { h i g h e r ~ s t a t e s } = { \\frac { 1 } { \\pi } } \\int _ { \\omega _ { c } } ^ { \\infty } d \\nu \\int _ { \\omega _ { c } } ^ { \\infty } d \\nu ^ { \\prime } { \\frac { \\mathrm { I m } \\Pi ( \\nu , \\nu ^ { \\prime } ) } { ( \\nu - \\omega ) ( \\nu ^ { \\prime } - \\omega ^ { \\prime } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In their calculation the matrix element $\\langle \\Lambda _ { Q } | \\tilde { O } | \\Lambda _ { Q } \\rangle$ increases from $0 . 4 \\times 1 0 ^ { - 3 } \\mathrm { G e V ^ { 3 } }$ to $1 . 2 \\times$ $1 0 ^ { - 3 } \\mathrm { G e V ^ { 3 } }$ in the working region of the Borel parameter when $\\omega _ { c }$ varies from 1.1 GeV to 1.3 GeV. In other words, their analysis is very sensitive to the continuum threshold, which might imply the above duality assumption is not good. In contrast, the dependence on $\\omega _ { c }$ （20 is not so strong in our approach. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $1 / m _ { b }$ corrections to the above results can be analyzed in principle. While having little influence on our above calculation, they formally belong to the $O ( 1 / m _ { b } ^ { 4 } )$ effects to the $\\Lambda _ { b }$ lifetime. It should be noted that the value of $r$ we have obtained above is at some hadronic scale, other than the scale $m _ { b }$ , because we have been working in the framework of the HQET, in which the natural scale is $\\mu _ { h a d } \\ll m _ { b }$ . The renormalization group evolution of the relevant operators was calculated in Ref. [25,4]. Information on parameters $\\tilde { B }$ and $r$ （20 at scale $m _ { b }$ is necessary to obtain the lifetime ratio of Eq. (2). By choosing $\\alpha _ { s } ( \\mu _ { h a d } ) = 0 . 5$ （204号 (corresponding to $\\mu _ { h a d } \\sim 0 . 6 7 ~ ( \\$ GeV)，Ref. [4] gives ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { r ( m _ { b } ) \\simeq [ 1 . 5 4 + 0 . 1 8 \\tilde { B } ( \\mu _ { h a d } ) ] r ( \\mu _ { h a d } ) , } } \\\\ { { { } } } \\\\ { { \\tilde { B } ( m _ { b } ) \\simeq \\displaystyle \\frac { \\tilde { B } ( \\mu _ { h a d } ) } { 1 . 5 4 + 0 . 1 8 \\tilde { B } ( \\mu _ { h a d } ) } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "That is ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { B } ( m _ { b } ) \\simeq 0 . 5 8 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( m _ { b } ) \\simeq ( 6 . 2 \\pm 1 . 6 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for $\\kappa _ { 1 } = 4$ or ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( m _ { b } ) \\simeq ( 2 . 3 \\pm 0 . 6 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for $\\kappa _ { 1 } = 1$ from Eqs. (21) and (23). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $\\Lambda _ { b }$ and $B ^ { 0 }$ lifetime ratio given in Eq. (2) is expressed specifically as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle \\frac { \\tau ( \\Lambda _ { b } ) } { \\tau ( B ^ { 0 } ) } = 0 . 9 8 - 0 . 1 7 \\epsilon _ { 1 } ( m _ { b } ) + 0 . 2 0 \\epsilon _ { 2 } ( m _ { b } ) - ( 0 . 0 1 3 + 0 . 0 2 2 \\tilde { B } ( m _ { b } ) ) r ( m _ { b } )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for $\\kappa _ { 1 } = 4$ or ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\tau ( \\Lambda _ { b } ) } { \\tau ( B ^ { 0 } ) } = ( 0 . 9 3 \\pm 0 . 0 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for $\\kappa _ { 1 } = 1$ . Where the values $\\epsilon _ { 1 } ( m _ { b } ) = - 0 . 0 8$ and $\\epsilon _ { 2 } ( m _ { b } ) = - 0 . 0 1$ have been taken from the QCD sum rules [5]. From Eq. (30),we see that with the vacuum saturation ( $\\kappa _ { 1 } = 1$ ) although $r$ is enhanced by about six times compared to that in Ref. [7], it is still not large enough to account for the data Eq. (1). The life time ratio between $\\Lambda _ { b }$ and $B$ mesons can be explained if we also take into account the nonfactorizable contribution of the four-quark condensate,as can be seen from Eq. (29). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV.SUMMARY AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have reanalyzed the QCD sum rule for the $\\Lambda _ { b }$ matrix element of the fourquark operator relevant to the lifetime of $\\Lambda _ { b }$ . Compared to the previous analysis [7], the new ingredients we have introduced are that (i) more condensates are considered; (ii) different quark-hadron duality is adopted and (i) the possible deviation from the vacuum saturation assumption for the four quark condensates is considered. Of these ingredients, the last two points have more important influence on numerical results than the first point by noting the effect due to more condensates is small ( $\\sim 1 0 \\%$ ). The second point is more essential than the third point. Note that due to the second point, $r$ is about six times enhanced by comparing the result of Eq. (23) with that in Ref.[7]. And due to the third point, $r$ is about three times enhanced by comparing the results of Eqs. (23) and (21). With fixed duality assumption for the sum rule, our result shows that the baryonic parameter $r$ is significantly dependent on the nonfactorizable effect of the four-quark condensate and $r ( m _ { b } ) = ( 2 . 3 \\pm 0 . 6 )$ for $\\kappa _ { 1 } = 1$ and $r ( m _ { b } ) = ( 6 . 2 \\pm 1 . 6 )$ for $\\kappa _ { 1 } = 4$ . With this latter value the $\\Lambda _ { b }$ baryon and $B ^ { 0 }$ （204号 meson lifetime ratio has been calculated to be $\\tau ( \\Lambda _ { b } ) / \\tau ( B ^ { 0 } ) = ( 0 . 8 3 \\pm 0 . 0 4 )$ ，which is close to the experimental data $\\tau ( \\Lambda _ { b } ) / \\tau ( B ^ { 0 } ) = ( 0 . 7 9 \\pm 0 . 0 6 )$ . From the above results we draw the conclusion that under the local duality assumption it is possible to resolve the issue of the （204号 $\\Lambda _ { b }$ baryon and $B ^ { 0 }$ meson lifetime ratio in the framework of heavy quark expansion. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "C.-S.H. and S.-L.Z. were supported in part by the Natural Science Foundation of China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] For reviews，see I. Bigi， B. Blok,M. Shifman，N.Uraltsev,and A. Vainshtein， in $B$ （204号 Decays, 2nd ed, edited by S. Stone (World Scientific, Singapore, 1994), p.132; M. Neubert,Int. J. Mod. Phys. A 11, 4173 (1996); G. Bellini, I.I. Bigi and P.J. Dornan, Phys.Rep. 289,1 (1997).   \n[2] J. Chay, H. Georgi and B. Grinstein, Phys. Lett. B247, 399 (1990); I.I. Bigi, N.G. Uraltsev and A.I. Vainshtein, Phys. Lett. B293, 430 (1992), E: 297, 477 (1993); I.I. Bigi, M.A. Shifman, N.G. Uraltsev and A.I. Vainshtein, Phys. Rev. Lett. 71, 496 (1993); A.V. Manohar and M.B. Wise, Phys. Rev. D49, 1310 (1994); For a review, see I. Bigi, M. Shifman, N. Uraltsev, Annu. Rev. Nucl. Part. Sci. 47, 591 (1997).   \n[3]B Lifetime Workng Group, J. Alcaraz etal., http://wwwcn.cern.ch/\\~claires/lepblife.html   \n[4] M. Neubert and C.T. Sachrajda, Nucl. Phys. B483, 339 (1997); M. Neubert, in Honolulu 1997 (B physics and CP violation) p94.   \n[5] M.S.Baek, J. Lee, C. Liu,and H.S. Song, Phys. Rev. D57, 4091 (1998).   \n[6] V. Chernyak, Nucl. Phys. B457, 96 (1995); H.-Y. Cheng and K.-C. Yang, Phys. Rev. D59, 014011 (1999).   \n[7] P. Colangelo and F. De Fazio, Phys. Lett B387, 371 (1996).   \n[8] I.I. Bigi and N.G. Uraltsev, Nucl. Phys. B423,33 (1994); Z. Phys. C 62, 623 (1994); N.G. Uraltsev, Phys. Lett. B376, 303 (1996); J.L. Rosner, ibid. B379, 267 (1996); G. Altarelli, G. Martinelli, S. Petraca,and F. Rapuano, ibid. B382, 409 (1996); H.J. Lipkin and P.J. O'Donnell, ibid. B409, 412 (1997); N. Isgur, ibid. B448,111 (1999); A. Datta, H.J. Lipkin and P.J. O'Donnell, ibid. B450, 250 (1999); W.-F. Chang, H.-N. Li and H.- L. Yu, ibid. B457, 341 (1999); H.-Y. Cheng, Phys. Rev. D56, 2783 (1997); Y.Y. Keum and U. Nierste, ibid. D57, 4282 (1998); D. Pirjol and N. Uraltsev, ibid. D59, 034012 (1999); W.-S. Dai et al., ibid. D60, 034005 (1999); UKQCD Colla., Nucl. Phys. B534, 373 (1998); V. Giménez and J. Reyes, ibid. B545, 576 (1999); T. Ito, M. Matsuda and Y. Matsui, Prog. Theor.Phys. 99, 271 (1998)； M.B. Voloshin, hep-ph/9901445; S. Arunagiri, hep-ph/9903293; A.F. Falk and A.A. Petrov, hep-ph/9903518; H.-N. Li, hep-ph/9904449; B. Guberina, B. Melic and H. Stefancic, hep-ph/9907468.   \n[9] I.I. Bigi and N.G. Uraltsev, Phys. Lett. B280,271 (1992); B. Blok and M. Shifman, Nucl. Phys. B399, 441 (1993); I. Bigi, et al., Proc.1992 DPF Meeting of APS, FermiLab (1992).   \n10] For earlier discussions, see B. Guberina, S. Nussinov, R. Peccei, and R. Rückl, Phys. Lett. 89B,111 (1979); N. Bilic, B. Guberina and J. Trampetic, Nucl. Phys.B248, 261 (1984); B. Guberina, R. Rückl and J. Trampetic, Z. Phys. C 33, 297 (1986); M.A. Shifman and M. Voloshin, Sov. J. Nucl. Phys. 41, 120 (1985); Sov. Phys. JETP 64, 698 (1986).   \n11] M. Neubert,in: Proceedings of the 17th International Symposium on Lepton-Photon Interactions, Beijing, China, August 1995,edited by Z.-P. Zheng and H.-S. Chen (world Scientific, Singapore, 1996), P298.   \n[12] M.A. Shifman, A.I. Vainshtein and V.I. Zakharov, Nucl. Phys. B147, 385 (1979); B147, 488 (1979).   \n[13] For a review, see M. Neubert, Phys. Rep. 245, 259 (1994).   \n[14] M. Neubert，CERN-TH/97-24，hep-ph/9702375,to appear in the Second Edition of Heavy Flavours, edited by A. J. Buras and M. Lindner, (World Scientific, Singapore).   \n[15] E.V. Shuryak, Nucl. Phys. B198, 83 (1982); A.G. Grozin and O.I. Yakovlev, Phys. Lett. B291, 441 (1992); E. Bagan,M. Chabab, H.G. Dosch and S. Narison, ibid. B301, 243 (1993).   \n[16] Y.-B. Dai, C.-S. Huang, C. Liu and C.-D. Lü, Phys. Lett. B371, 99 (1996); Y.-B. Dai, C.-S. Huang, M.-Q. Huang and C. Liu, ibid. B387, 379 (1996).   \n[17] P. Colangelo, C.A. Dominguez, G. Nardulli and N. Paver, Phys. Rev. D54, 4622 (1996).   \n[18] S. Groote, J.G. Korner and O.I. Yakovlev, Phys. Rev. D55, 3016 (1997); D56, 3943 (1997).   \n[19] For a review, see V.A. Novikov, M.A. Shifman, A.I. Vainshtein and V.I. Zakharov, Fortschr. Phys.32, 585 (1984).   \n20]S.Narison，Phys.Lett.B 387,162 (1996)   \n21] M. Neubert, Phys.Rev. D 45,2451 (1992).   \n22] B. Blok and M. Shifman,Phys. Rev. D47, 2949 (1993).   \n[23] G.Launer, S. Narison and R. Tarrach, Z. Phys. C 26, 433 (1984); Y. Chung et al., ibid. C 25,151 (1984); M. Kremer, N.A. Papadopoulos and K. Schilcher, Phys. Lett. 143B, 476 (1984); R.A. Bertlmann et al., Z. Phys. C 39, 231 (1988); H.G. Dosch et al., ibid. C 42,167 (1989); S.-Q. Nie et al., Phys. Rev. D 56, 1489 (1997).   \n[24] S.Narison，Phys. Lett. B327,354 (1994)； ibid. B345,166 (1995)； H.G. Dosch，E. Ferreira, M. Nielson and R. Rosenfeld, ibid. B431, 173 (1998); C.-S. Huang, C.-F. Qiao and H.-G. Yan, ibid. B437,403 (1998).   \n[25] Shifman and Voloshin, in Ref. [10]; Sov. J. Nucl. Phys. 45, 292 (1987); H.D. Politzer and M.B. Wise, Phys. Lett. B206, 681 (1988); B208, 504 (1988); I.I. Bigi and N.G. Uraltsev, ibid. B280, 271 (1992). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure captions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1. Sum rule for $\\langle \\Lambda _ { \\cal Q } | { \\tilde { \\cal O } } | \\Lambda _ { \\cal Q } \\rangle$ ，where $\\tilde { O }$ has been given in Eq. (8). From top to bottom these curves correspond to ωc = 1.3,1.2,1.1 GeV respectively. The sum rule window is $T = ( 0 . 1 5 - 0 . 3 5 )$ GeV. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/df7e930fc1abf1abb7efdd0f4e94ce749383aeafa141fd808a70d2d6caa0a3e1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    }
+]

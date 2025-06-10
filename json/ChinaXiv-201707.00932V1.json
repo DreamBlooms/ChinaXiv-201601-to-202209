@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "Non-Gaussian Fluctuation and Non-Markovian Effect in the Nuclear Fusion Process: Langevin Dynamics Emerging from Quantum Molecular Dynamics Simulations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kai Wen,1 Fumihiko Sakata, $^ { 2 , 1 }$ Zhu-Xia Li,3 Xi-Zhen Wu,3 Ying-Xun Zhang, and Shan-Gui Zhou $^ { 1 , 4 }$ ， $^ *$ （20 （204号 $^ { 1 }$ State Key Laboratory of Theoretical Physics， Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 100190，China （20 $^ 2$ InstituteofApplied BeamScience,Graduate ScholofSienceandTechologyaraki Uniersity，Mito10-851Japan （20 $^ 3$ China Institute of Atomic Energy，Beijing 102413，China （20 $^ 4$ Center of Theoretical Nuclear Physics，National Laboratory of Heauy Ion Accelerator,Lanzhou 73ooChina (Dated: July 30,2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Macroscopic parameters as well as precise information on the random force characterizing the Langevin type description of the nuclear fusion process around the Coulomb barrier are extracted from the microscopic dynamics of individual nucleons by exploiting the numerical simulation of the improved quantum molecular dynamics. It turns out that the disipation dynamics of the relative motion between two fusing nuclei is caused by a non-Gaussian distribution of the random force.We find that the friction coefficient as well as the time correlation function of the random force takes particularly large values in a region a litle bit inside of the Coulomb barrier.A clear non-Markovian effect is observed in the time correlation function of the random force.It is further shown that an emergent dynamics of the fusion process can be described by the generalized Langevin equation with memory efects by appropriately incorporating the microscopic information of individual nucleons through the random force and its time correlation function. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:24.60.-k, 24.10.Lx,25.60.Pj,25.70.Lm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The fusion of two nuclei is one of the major nonequilibrium processes in low energy nuclear reactions where the fluctuation and dissipation play important roles. It is rather difficult to describe the fusion process without significant simplifications.Under various assumptions,several macroscopic transport models have been introduced to evaluate the formation ofa compound nucleus in heavy-ion fusion reactions [1,2]. However, the microscopic mechanism on how two colliding nuclei fuse, especially how the relevant kinetic energy dissipates into the intrinsic degrees of freedom (DoF),remains a subject requiring further research. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, it is becoming feasible to get various information out of microscopic numerical simulations，like time-dependent Hartree-Fock(TDHF）theories [3-7], the many-body correlation transport (MBCT) theory [8], the quantum molecular dynamics (QMD)[9], the antisymmetrized molecular dynamics [1O],and the fermion molecular dynamics [11]. The TDHF theory is mainly based on the mean-field concept; in TDHF,fluctuations of collective variables are considerablyunderestimated. Much effort has been made to give a beyondmean-field description of fluctuations [12l. The $n$ -body correlations are incorporated in the MBCT theory [8] which has only been used in very light systems [13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The QMD is a microscopic dynamical $n$ -body theory which was successfully used in intermediate-energy heavy-ion collisions (HIC) [9].An improved QMD (ImQMD) has been developed in order to extend the application of QMD to low-energy HICs near the Coulomb barrier [14].A series of improvements were made in the ImQMD; in particular,by using the phase space occupation constraint method [15],the fermionic properties of nucleons is remedied, which is important for low-energy collisions. Making full use of the microscopic information provided by ImQMD simulations,in this Letter,we try to understand how the macroscopic fusion dynamics emerges out of the microscopic one. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We focus on a simplest case of symmetric fusion process with the impact parameter equal to zero. In this case,the system can be divided into the left- and righthalf parts instead of a projectile and a target [16]. The relative motion between two centers of mass (CoM) of the left and right parts is chosen as the relevant DoF to be described by the Langevin equation. Our analysis is limited in a stage where the relative distance $R$ is much larger than its width. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The one-dimensional generalized Langevin equation with memory effects reads [17-19] ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d u ( t ) } { d t } = - \\int _ { - \\infty } ^ { t } \\gamma ( t - t ^ { \\prime } ) u ( t ^ { \\prime } ) d t ^ { \\prime } + \\frac { 1 } { \\mu } \\delta F ( t ) - \\frac { 1 } { \\mu } \\frac { d V ( R ) } { d R } ( , 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $u ( t )$ is the relative velocity between the two parts, $\\delta F ( t )$ the random force felt by either part, $\\mu$ the reduced mass of the system, $\\gamma ( t - t ^ { \\prime } )$ the friction kernel, and $V ( R )$ the potential for the relative motion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the ImQMD model [14],a trial wave function is restricted within a parameter space $\\{ \\mathbf { r } _ { j } , \\mathbf { p } _ { j } \\}$ ，where $\\mathbf { r } _ { j }$ and $\\mathbf { p } _ { j }$ are mean values of position and momentum operators of the $j$ th nucleon which is expressed by a Gaussian wave packet.The time evolution of the trial wave func tion under an effective potential is governed by the time dependent variational principle [9-11]. An expectation value of the Hamiltonian is given by using an improved Skyrme potential energy density functional. In this Letter,we concentrate on head-on collisions of $^ { 9 0 } \\mathrm { Z r } + ^ { 9 0 } \\mathrm { Z r }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tenthousand collision events were simulated.Each simulation is started at $R = R _ { 0 } = 3 0$ fm and with an incident energy $E = 1 9 5$ MeV.Numerical details can be found in Refs. [20]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The potential for the relative motion is defined as, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( R ) = E _ { \\mathrm { t o t } } ( R ) - E _ { \\mathrm { l e f t } } ( R ) - E _ { \\mathrm { r i g h t } } ( R ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { \\mathrm { t o t } }$ ， $E _ { \\mathrm { l e f t } }$ ，and $E _ { \\mathrm { r i g h t } }$ represent the energy of the system and those of the left and right parts, respectively; each of which consists of the kinetic energy, the nuclear and the Coulomb potential energies.The potential $V ( R )$ is shown in Figs.1 and 3. The TDHF has also been used to extract microscopic interaction potentials between two nuclei [5,21] which show similar features as those from the ImQMD simulations presented here and in Refs. [22] ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The random force or the fluctuation of force in the $\\textit { \\textbf { \\ i } }$ th event is defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta F ( x ) _ { i } \\equiv F _ { i } ( x ) - \\langle F ( x ) \\rangle , x = t \\mathrm { o r } R ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { F _ { i } ( x ) \\equiv \\sum _ { j = 1 } ^ { A } f _ { i } ^ { j } ( x ) } \\end{array}$ denotes the total force acting on the left (right)part of the system in the $i$ th event, $\\begin{array} { r } { \\langle F ( x ) \\rangle \\equiv \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } F _ { i } ( x ) } \\end{array}$ the mean value, and $f _ { i } ^ { \\mathcal { I } } ( x )$ the force on the $j$ th nucleon in the left (right） part.Here $A$ means the number of nucleons contained in the left (right)part and $n$ denotes the total number of events. In Eq.(3）and hereafter, $\\langle Q \\rangle$ denotes an average of $Q$ over all events. For low-energy collisions,the fluctuation mainly stems from the initialization of each event in which the position and the momentum of each particle are chosen randomly under certain conditions.With time this initial fluctuation propagates and is not smoothed out because in QMD a many-body rather than a mean field problem is solved [9]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Distributions of $\\delta F ( R )$ at several distances are shown in Fig. 1. The random force at $R ( t = 0 ) = R _ { 0 }$ shows a Gaussian distribution with the full width at half maximum (FWHM) $\\Gamma \\approx 0 . 1$ MeV/fm which could be understood analytically as only the Coulomb field is felt by the particles.In a region far away from the barrier, e.g., $R \\approx 1 8$ fm， $\\delta F$ has a Gaussian distribution with $\\Gamma \\approx 0 . 5$ MeV/fm.From a certain distance, $R \\approx 1 3 . 5$ fm,there appears a non-Gaussian shape,as is observed in Fig.1. According to the shape of the distribution of $\\delta F ( R )$ ，one may divide the whole process into three regions.Region 1 represents an approaching phase up to the touching point: The distribution has a Gaussian form with a rather narrow width. Region 2 is from the touching point to the barrier top: A non-Gaussian shape appears.Region 3 is from just inside the barrier top to the fusing phase: The distribution of $\\delta F ( R )$ has again a Gaussian shape with $\\Gamma \\approx 1 5$ MeV/fm which is almost two orders of magnitude larger than that in Region 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To make clear what happens in Region 2,we divide the distribution of $\\delta F ( R )$ into a symmetric Gaussian and an asymmetric tail parts as is shown in Fig 2. The width of the Gaussian part is of the same order of magnitude as that in Region 1. The detailed structure of the random force can be studied by examining the strength and direc tion of the force felt by each nucleon.One typical event in the symmetric part is shown in Fig.2(a): All nucleons are well divided into two separated groups expressing the projectile and the target,respectively. Moreover,each nucleon locating in the left side of each nucleus feels a force toward the right (positive value),and that in the right side feels a force toward the left (negative value), so as to keep a stable mean-field. The resultant force made by all nucleons in each nucleus is almost zero.Namely, the intrinsic structure of two fusing nuclei is kept almost unchanged,so is the width of the random force. This situation persists in events which belong to the symmetric Gaussian part in Region 2 and in all those in Region 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f06f1453b9d87947cadf370b915dbfc2c73b872b20c2e7c15daf1944637514c8.jpg",
+        "img_caption": [
+            "FIG.1.(color online）Distributions of the random force $\\delta F ( R )$ ．Each inset shows the potential $V ( R )$ with the blue dot representing the position where the system locates.The contour plots display the nucleon density distribution of the system. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/96e07662db77729c913253bc273f0d5317e4a5207f607d490d09d458d5071375.jpg",
+        "img_caption": [
+            "FIG.2.(color online) Distribution of the random force $\\delta F ( R )$ at $R = 1 3 . 5$ fm which is divided into the symmetric Gaussian (dark blue) and asymmetric tail (light blue) parts. Two typical events are shown in the inset:The abscissa and the ordinate express relative position $z$ of each nucleon and the force it feels in the $z$ direction. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A typical event in the asymmetric tail is shown in Fig. 2(b). Nucleons are roughly divided into two groups surrounded by solid lines.However, there appears a small third group within the dashed line. Since a few points in the negative (positive) force region express a set of nucleons which escape from the left (right) nucleus,and are being absorbed by the right (left）nucleus,a resultant force made by these nucleons gives a large right(left)- directed component to the random force. These transferred nucleons move in an average potential formed by both the projectile and the target； they play a role to open a window. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the two nuclei come much closer,there occur more events which have more nucleons in the third group. Meanwhile, the other two groups,originating from the projectile and target,become closer to each other.Consequently, the asymmetric tail in the distribution of $\\delta F ( R )$ becomes larger. At the border between Regions 2 and 3,it becomes very difficult to distinguish an event in the center part of the distribution from that in the tail part and all events are absorbed into a widely spreading Gaussian distribution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From above discussions,it is concluded that the main microscopic origin of the random force,i.e.,a two orders of magnitude enhancement of the random force is generated by individual nucleons in the third group.These nucleons also result in the abnormal behavior in the distribution of $\\delta F ( R )$ ,i.e., the long tail in Region 2 and a much larger width in Region 3 compared to Region 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next let us extract information for the macroscopic dynamics out of microscopic simulations.Assuming that the work done by the friction force is completely converted into the intrinsic energy $E _ { \\mathrm { i n t r } } ( R )$ ，one gets the friction coefficient $\\gamma _ { 0 } ( R )$ from the Rayleigh formula [6, 16, 19], ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { 0 } ( R ) \\equiv \\frac { \\langle F _ { \\mathrm { f r i c } } ( R ) \\rangle } { \\langle P \\rangle _ { R } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with ${ \\cal F } _ { \\mathrm { f r i c } } ( R ) \\equiv d { \\cal E } _ { \\mathrm { i n t r } } ( R ) / d R$ ， $E _ { \\mathrm { i n t r } } ( R ) \\ \\equiv \\ E _ { \\mathrm { t o t } } ( R ) \\ - \\ $ $E _ { \\mathrm { c o l l } } ( R )$ ，and $E _ { \\mathrm { c o l l } } ( R ) ~ = ~ P ^ { 2 } / 2 \\mu + V ( R )$ ： $P$ denotes the relative momentum between two CoMs and its mean value $\\langle { P } \\rangle _ { R }$ at a given $R$ is defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle P \\rangle _ { R } \\equiv \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } P _ { i } ( t _ { i } ) | _ { \\{ t _ { i } | R _ { i } ( t _ { i } ) = R \\} } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { i } ( t )$ and $R _ { i } ( t )$ are the momentum and coordinate of the $i$ -th event at time $t$ and the following correspondence is used: For each event $i$ ，a time $t _ { i }$ is chosen in ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec9a148c9ebc942d54bc946803f1d397777edb56f905add657d657625002e92a.jpg",
+        "img_caption": [
+            "FIG.3. (coloronline） Thecorrelation function $\\langle \\delta F ( R ) \\delta F ( R ) \\rangle ^ { \\mathrm { t o t } }$ [red dots,in (MeV/fm)²] and the friction coefficient $\\gamma _ { 0 } ( R )$ (blue squares,in $0 . 0 0 1 ~ c / \\mathrm { f m }$ ).The grey line shows the potential $V ( R )$ .Pink diamonds represent $\\langle \\delta F ( R ) \\delta F ( R ) \\rangle ^ { \\mathrm { s y m } }$ calculated by eliminating events in the asymmetrictail. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "such a way that the relative distance takes a given value $R$ ，i.e., $R _ { i } ( t _ { i } ) = R$ .A $R$ -dependent correlation function is defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\delta F ( R ) \\delta F ( R ) \\rangle \\equiv \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\delta F _ { i } ( t _ { i } ) \\delta F _ { i } ( t _ { i } ) | _ { \\{ t _ { i } | R _ { i } ( t _ { i } ) = R \\} } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the correlation function $\\langle \\delta F ( R ) \\delta F ( R ) \\rangle$ and the friction coefficient $\\gamma _ { 0 } ( R )$ which play decisive roles in the macroscopic description of dissipation phenomena.As is seen from Fig. 3, $\\langle \\delta F ( R ) \\delta F ( R ) \\rangle$ and $\\gamma _ { 0 } ( R )$ have similar shapes and their peaks locate at similar $R$ The friction coefficient of the fusion process induced by a head-on collision extracted from TDHF calculations shows similar strong peak structure.As the incident energy $E$ increases,the shape of the curve $\\gamma _ { 0 } ( R ) \\sim R$ may change.When $E$ is high enough, $\\gamma _ { 0 } ( R )$ increases gradually with decreasing $R$ [6,16, 23]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To explore more deeply the dynamical relation between the microscopic motion of individual nucleons and the macroscopic dissipative motion，in Fig.4 we show the time correlation function of the random force $\\sigma ( R , \\tau )$ which is defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( R , \\tau ) \\equiv \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\delta F _ { i } ( t _ { i } ) \\delta F _ { i } ( t _ { i } - \\tau ) | _ { \\{ t _ { i } | R ( t _ { i } ) = R \\} } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 4 one clearly finds the non-Markovian effect. Especially when $R = 1 2 \\sim 1 0$ fm,it is important to take account of memory effects generated by the microscopic motion of nucleons when one tries to properly evaluates macroscopic effects of the dissipation.Starting from the generalized Langevin equation(1） with memory effects, one gets a generalized fluctuation-dissipation (GFD) relation $\\langle \\delta F ( t ) \\delta F ( t - t ^ { \\prime } ) \\rangle = \\mu T \\gamma ( t - t ^ { \\prime } )$ which properly takes account of the time correlation of the random force. There are many ways to define the temperature for compound nuclei (see,e.g.,Ref. [24]). Here we define an effective temperature for colliding systems by applying the GFD relation, ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b81c5ab8200ead24380503b8fad864e287e95d92a953c069163e854ff4ba7fdc.jpg",
+        "img_caption": [
+            "FIG.4.(color online） Time correlation function $\\sigma ( r , \\tau )$ (7)."
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbaeb159cb5cbed3b1b1161a7cd17cd613017274c9df299ca131a67f9ba24bb3.jpg",
+        "img_caption": [
+            "FIG.5.(color online) Effective temperature in the Markovian limit (a) and the Non-Markovian one (b).The blue line shows $\\sqrt { E _ { \\mathrm { i n t r } } / a }$ with $a = A _ { \\mathrm { t o t a l } } / 4$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { n o n - M a r k o v } } ( R ) = \\frac { 1 } { \\mu \\gamma _ { 0 } ( R ) } \\int _ { 0 } ^ { \\infty } d \\tau \\sigma ( R , \\tau ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effective temperature non-Markov as well as the onefrom_theMarkovianapproximation $T _ { \\mathrm { M a r k o v } } ^ { \\mathrm { t o t } }$ are shown in Fig. 5. $\\sqrt { E _ { \\mathrm { i n t r } } / a }$ representing the temperature of a compound nucleus in the Fermi gas model is also shownasareference.Although $T _ { \\mathrm { n o n - M a r k o v } } ^ { \\mathrm { t o t } }$ and $T _ { \\mathrm { M a r k o v } } ^ { \\mathrm { t o t } }$ differ by one order of magnitude, they both show a peak around the range where the asymmetric tail appears in the distribution of $\\delta F ( R )$ . These peaks are related to the fact that the relative motion for events in the asymmetric tail part of the $\\delta F ( R )$ distribution is strongly affected by a few transferred nucleons between two fusing nuclei, i.e.,by those in the third group of Fig.2(b). The macroscopic dynamics of the relative motion described by the one-dimensional Langevin equation（1） is not appropriate in Region 2. In other words,the appearance of the non-Gaussian distributed random force indicates a necessity of introducing a new macroscopic DoF.Whether or not this new DoF may be related to the formation of a neck is an open question [1, 25]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After eliminating the events in the asymmetric tail in the distribution of $\\delta F ( R )$ , one gets effective temperatures $T _ { \\mathrm { n o n - M a r k o v } } ^ { \\mathrm { s y m } }$ and $T _ { \\mathrm { M a r k o v } } ^ { \\mathrm { s y m } }$ which are depicted in Fig.5. The correlation function $\\langle \\delta F ( R ) \\delta F ( R ) \\rangle$ after eliminating theasymmetrictailissosoig. $T _ { \\mathrm { n o n - } } ^ { \\mathrm { s y m } }$ Markoy shows a consistent feature with $\\sqrt { E _ { \\mathrm { i n t r } } / a }$ in Region 3. While Tsymkor TMarkov is by an order of magnitude smaler than Tnon-Markov:That is, the amount of energy dissipated from the relative motion into the intrinsic DoFs could be more properly described by the generalized Langevin equation with memory effects. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When the incident energy $E$ is far above the Coulomb barrier, the non-Gaussian fluctuation and the nonMarkovian effect become less pronounced [23].It will be interesting to study the dependence of the non-Gaussian fluctuation and the non-Markovian effect on $E$ as well as the impact parameter and the reaction system.The spin-orbit coupling is important to properly reproduce the dissipation in heavy-ion fusion reactions [26]； e.g., the so-called “fusion-window” problem was solved in the first quantitative TDHF calculations with the inclusion of the spin-orbit interaction [26]. One may expect more dissipations if the spin-orbit coupling effects are included in the ImQMD simulations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Insummary， wehave discussed thegeneralized Langevin dynamics with memory effects by using both the macroscopic and microscopic information extracted from ImQMD simulations for the fusion process around the Coulomb barrier.It is found that the dissipation dynamics of the relative motion between two fusing nuclei is associated with non-Gaussian distributions of the random force.In addition to the macroscopic information like the friction coeffcient and the potential for the relative motion, the microscopic information of the randomforce as well as of its time correlation function and a proper treatment of the non-Markovian (memory) effect in the Langevin dynamics are decisive for the dynamics of emergence in the nuclear dissipative fusion motion. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank G.Adamian,P.Danielewicz,Q.F.Li,B. N. Lu,R. Shi, S. J. Wang,Y. T. Wang, Z. H. Zhang, E.G.Zhao,K.Zhao,and Y.Z. Zhuo for helpful discussions.F.S.appreciates the support by Chinese Academy of Sciences (CAS) Visiting Professorship for Senior International Scientists (Grant No. 2011T1J27).This work has been partly supported by MOST of China (973 Program with Grant No. 2013CB834400)，NSF of China (Grants No.11005155，No.11075215，No. 11121403, No. 11120101005，No． 11275052,and No． 11275248), andKnowledge Innovation Project of CAS (Grant No. KJCX2-EW-N01). The results described in this paper are obtained on the ScGrid of Supercomputing Center, Computer Network Information Center of CAS. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\* sgzhou@itp.ac.cn   \n[1] C. Shen,G.Kosenko， and Y. Abe, Phys. Rev.C 66, 061602(R)(2002)；V.I. Zagrebaev，A.V.Karpov，and W. Greiner, Phys.Rev. C85, 014608 (2012)； Y.Aritomo, K.Hagino,K. Nishio， and S.Chiba, Phys.Rev.C 85, 044614 (2012)；K. Siwek-Wilczynska, T. Cap,M. Kowal, A.Sobiczewski， and J. Wilczynski，Phys. Rev.C86 014611 (2012)； Z.-H. Liu and J.-D. Bao,Phys. Rev. C 87, 034616 (2013).   \n[2]G.G.Adamian，N.V.Antonenko，W.Scheid， and V.V. Volkov， Nucl. Phys. A 633，409 (1998)； J.-Q. Li,Z.-Q. Feng, Z.-G. Gan, X.-H. Zhou, H.-F. Zhang, and W. Scheid, Nucl. Phys. A 834，353c (2010)；Z.- G.Gan,X.-H. Zhou, M.-H. Huang,Z.-Q. Feng，and J.-Q. Li， Sci. China-Phys. Mech. Astron. 54 (Supp. 1)，s61 (2011)； A.K.Nasirov，G.Mandaglio，G.Giardina,A.Sobiczewski，and A.I.Muminov,Phys.Rev. C 84, 044612 (2011)； N. Wang,E.-G. Zhao, W. Scheid, and S.-G. Zhou,Phys. Rev. C 85，041601(R) (2012), arXiv:1203.4864 [nucl-th].   \n[3] P.Bonche,S.Koonin，and J.W.Negele,Phys.Rev.C 13,1226 (1976).   \n[4]L.Guo,J.A.Maruhn，and P.-G.Reinhard, Phys.Rev. C 76,014601 (2007)；L.Guo, J.A. Maruhn,P.-G.Reinhard， and Y. Hashimoto, Phys.Rev. C 77, 041301(R) (2008).   \n[5] K. Washiyama and D. Lacroix, Phys. Rev. C 78, 024610 (2008).   \n[6] K.Washiyama,D.Lacroix， and S.Ayik,Phys.Rev. C 79,024609 (2009).   \n[7] C.Simenel, Eur. Phys. J. A 48,152 (2012).   \n[8] S.-J. Wang and W. Cassing, Ann. Phys. 159, 328 (1985).   \n[9] J.Aichelin, Phys.Rep.202, 233 (1991).   \n[10] A. Ono,Phys.Rev.C 59,853 (1999).   \n[11] H. Feldmeier and J. Schnack, Rev. Mod. Phys. 72,655 (2000).   \n[12] S.Ayik, Phys.Lett.B 658,174 (2008).   \n[13] J.-Y.Liu, S.-J. Wang, M. Di Toro, H. Liu, X.-G. Lee, and W. Zuo, Nucl. Phys. A 604, 341 (1996).   \n[14] N.Wang, Z.Li, and X. Wu, Phys. Rev. C 65,064608 (2002)；N. Wang, Z. Li, X.Wu, J. Tian, Y. Zhang，and M. Liu, Phys. Rev. C 69, 034608 (2004).   \n[15] M.Papa, T.Maruyama, and A.Bonasera,Phys.Rev.C 64,024612 (2001).   \n[16] S.Ayik,K.Washiyama,and D.Lacroix,Phys.Rev.C 79,054606 (2009).   \n[17]H. Mori, Prog. Theor.Phys.33, 423 (1965)   \n[18] F. Sakata, S. Yan, E.-G. Zhao,Y. Zhuo,and S.-G. Zhou, Prog. Theor. Phys.125,359 (2011).   \n[19]P.Frobrich and I.Gontchar,Phys.Rep.292,131 (1998).   \n[20] J. Tian, X. Wu, K. Zhao, Y. Zhang, and Z. Li, Phys. Rev.C 77,064603(2008)； K. Zhao, Z.Li, X.Wu，and Z. Zhao, Phys. Rev. C 79, 024614 (2009).   \n[21]A.S.Umar and V.E.Oberacker，Phys. Rev.C 74, 061601(R) (2006).   \n[22] Y. Jiang, N. Wang, Z. Li, and W. Scheid, Phys. Rev. C 81,044602 (2010)； V. Zanganeh,N. Wang， and O. N. Ghodsi, Phys. Rev. C 85, 034601 (2012).   \n[23] K.Wen et al.,in preparation.   \n[24] J.Su, L. Zhu, W.-J. Xie, and F.-S. Zhang,Phys. Rev. C 85,017604 (2012).   \n[25]G.G.Adamian，N.V.Antonenko,R.V.Jolos, and W. Scheid,Nucl. Phys. A 619，241 (1997); G.G. Adamian，N.V.Antonenko，A.Diaz-Torres, and W. Scheid,Nucl. Phys.A 671， 233 (2000); A.DiazTorres，G.G.Adamian，N.V.Antonenko, and W. Scheid, Phys.Lett.B 481, 228 (2000).   \n[26]A.S.Umar,M.R.Strayer，and P.G.Reinhard,Phys. Rev. Lett. 56, 2793 (1986). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

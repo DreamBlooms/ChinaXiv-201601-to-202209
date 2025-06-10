@@ -1,0 +1,422 @@
+[
+    {
+        "type": "text",
+        "text": "基于噬菌体展示技术抗黄曲霉毒素B1单链抗体的筛选及其蛋白结构分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "庞倩，陈晶，王小红，王佳(华中农业大学食品科技学院，武汉 430070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：黄曲霉毒素B1（AflatoxinB1，AFB1）是一种毒性强、污染广的真菌毒素，建立高效、准确、快速的AFB1检测方法具有重要意义。利用噬菌粒-辅助噬菌体展示系统构建单链抗体(singlechainvariable fragment，scFv)文库，应用\"淘选-洗脱”的策略，是筛选高亲和配体的常用方法之一。同时结合同源建模和分子对接等计算机辅助手段，分析得到抗体与抗原的结合位点与关键氨基酸，为在基因水平改造抗体提供基础。本研究从AFB1-BSA免疫小鼠的脾细胞内扩增重链可变区和轻链可变区,将组合成的 scFv片段插入噬菌粒pCANTAB5e中，构建了噬菌体展示单链抗体文库，以不同浓度的AFB1-OVA作为抗原，从文库中筛选到一株亲和力较好的抗AFB1单链抗体scFv，其亲和常数为 $8 \\times 1 0 ^ { 5 } \\mathrm { L } / \\mathrm { m o l }$ ；根据同源建模和分子对接发现，与抗原AFB1结合时，scFv中Tyr33、Ser52和Tyr102起关键作用，分别以$\\pi { - } \\pi$ 共轭键、氢键和范德华力与AFB1结合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄曲霉毒素B1；单链抗体；噬菌粒-辅助噬菌体展示；同源建模；分子对接 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄曲霉毒素B1（AflatoxinB1，AFB1）是一种毒性强、污染广的真菌毒素，主要由黄曲霉菌（A.flavus）、寄生曲霉（A.parasiticus）产生，常污染于大麦、花生、玉米、高梁、大豆等农作物[1]，已被国际癌症研究机构（Intermational AgencyforResearchCenter，IARC）列为I类致癌物质[2]（IARC1993）。AFB1稳定性好，普通的烹饪加工难以使其降解，因此建立高效、准确、快速的AFB1检测方法尤为重要。免疫分析方法是一类基于抗原抗体特异性反应快速检测方法，具有检测通量高、灵敏度高、操作简单快速等优点，已经广泛应用在食品和环境中AFB1的检测中。抗体作为免疫分析的核心试剂，其理化性质和亲和性直接影响着免疫分析方法的灵敏度。其中，单克隆抗体和多克隆抗体作为经典的抗体类型，已经成功的用于AFB1的检测[3-5]。但是这些抗体分子量大、免疫原制备复杂、受动物个体的影响大等[67]，导致研发成本高、批次间差异大等问题。而以单链抗体(single chain antibody fragment，scFv)为代表的基因工程抗体，其分子量小$( 2 8 \\mathrm { { k D } }$ ）、对试验动物的依赖小，可以利用基因工程的方法体外改造提高亲和力，从而降低了抗体制备的难度，是一类有应用前景的抗体[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，制备scFv一般有两种途径，1）提取阳性单克隆杂交瘤细胞的RNA，体外利用柔性接头将其重链可变区VH和轻链可变区VL连接，虽然避免了文库构建和筛选等繁琐的步骤，但此法制备的scFv亲和力与原单克隆细胞株相比明显降低[9]；2）制备免疫原免疫小鼠，从免疫小鼠的脾细胞中提取RNA，通过特异性引物扩增其VH和VL片段,构建基于噬菌体展示技术的单链抗体文库[10.,I],通过\"淘选-特异性洗脱\"的方式，从文库中淘选得到高亲和力的scFv抗体。基于噬菌粒-辅助噬菌体展示系统是近年来应用最广泛的噬菌体展示体系之一，噬菌粒载体基因组较小、易于操作，有利于较大蛋白的表达，避免了较大的外源DNA插入噬菌体基因组而影响噬菌体自身的生命活动；噬菌粒载体和辅助噬菌体抗性不同，有利于筛选出同时含有噬菌粒载体和辅助噬菌体的细胞[12]；噬菌粒-辅助噬菌体系统依然可以将DNA序列与外源蛋白联系起来，便于进行后续基因改造和体外亲和力成熟等研究。Daly 等[13]通过特异性扩增VH和VL片段，构建了基于噬菌粒-辅助噬菌体展示系统的抗AFB1scFv文库，库容量为 $1 0 ^ { 9 } \\mathrm { c f u / \\mu g }$ 。同时结合计算机模拟和分子对接的方法，可以得到与 scFv同源的三维空间结构，并找出与抗原结合的关键氨基酸，为抗体体外亲和力成熟提供基础。 $\\mathrm { H u }$ 等[14]发现其以噬菌体展示获得的一株高亲和力抗伏马菌素B1 scFv，伏马菌素B1嵌入抗体形成的空腔中；借助同源建模和分子对接手段，在抗AFB1scFv的H44 和L100之间加入二硫键增加了 scFv 稳定性而不影响其亲和力[15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以AFB1为研究对象，选择抗血清效价高的免疫小鼠，通过设计特异性引物扩增VH和VL区域，构建基于噬菌粒-辅助噬菌体系统的抗AFB1单链抗体文库，利用\"结合-洗脱\"的淘选策略从文库中筛选抗AFB1单链抗体，并分析该 scFv基本性质，同时辅助同源建模和分子对接的手段，构建了AFB1与 scFv结合模型，找出关键结合位点氨基酸，为后续scFv的性质优化、体外亲和力成熟等提供实验指导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1主要仪器和试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6 周龄雌性Balb/c小鼠（湖北省实验动物研究中心）；E.coli TG1、载体pCANTAB5e（北京宝科维食安生物技术有限公司）；辅助噬菌体M13KO7、HRP标记anti-M13 抗体（美国GE 公司）；Easy Taq 酶、DNAMarker、限制性内切酶 SfiI、NotI、NdeI 和 XhoI(美国 New England Biolab 公司); TRIzol?Reagent RNA提取试剂盒（美国 Thermo 公司）、QIAGENPlasmid MiniKit、QIAquick GelExtractionKit（美国QIAGEN公司）；AFB1标准品（美国 sigma 公司）；RevertAidTMcDNA单链合成试剂盒（美国Roche公司）；其它有关试剂均为国产分析纯。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "T100TMThermalCyclerPCR仪、凝胶成像系统分析仪（美国Bio-Rad 公司）；Biorad 5810R冷冻高速离心机（德国 Eppendorf 公司）；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1动物免疫",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "初免时，将AFBi-BSA与等量的弗氏完全佐剂乳化，采用背部皮下多点注射的方式免疫小鼠，间隔 $3 0 \\mathrm { d }$ 后，以同等剂量的免疫原与等量弗氏不完全佐剂乳化，免疫剂量均为 $5 0 ~ { \\mu \\mathrm { g / } }$ 只。每次免疫后的第10d，断尾取血，参考文献[16测定抗血清效价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2scFv的扩增与拼接 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取效价最高的小鼠，利用TRIzolReagent提取其脾脏的RNA，用液氮将脾脏磨成粉状后，加入 $1 \\mathrm { m L }$ 的 Trizol试剂混合均匀，于室温下静止 $3 0 \\mathrm { m i n }$ ，待粉末完全溶解后加入 $3 0 0 ~  { \\mu \\mathrm { L } }$ 的三氯甲烷，混合均匀后静止 $1 0 \\mathrm { m i n }$ ， $1 4 0 0 0 \\mathrm { r p m }$ 离心 $1 5 \\mathrm { m i n }$ ，将 ${ 5 0 0 \\mu \\mathrm { L } }$ 上清转移至无菌离心管，再加入 ${ 8 0 0 \\mu \\mathrm { L } }$ 的异丙醇，静止10min， $1 4 0 0 0 \\mathrm { r p m }$ 离心 $1 5 \\mathrm { m i n }$ ，用 $70 \\%$ 乙醇悬浮沉淀两次，离心后加入 ${ 5 0 \\mu \\mathrm { L } }$ 的DEPC 处理过的无菌水溶解RNA，取少量RNA测定浓度和琼脂糖凝胶电泳检测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以mRNA为模板，反转录生成cDNA，以 $1 \\mu \\mathrm { L }$ cDNA为模板，参照沈倍奋[17]设计特异性引物扩增VH和VL基因，以等量的VH和VL基因片段互为模板，进行第一轮融合PCR，使其随机拼接为 scFv 基因，PCR反应条件参考文献[17],反应完成后，于体系中加入带 SfI酶切位点（识别序列GGCCCAGCCGGCC）的VH5'端引物以及带NotI酶切位点（识别序列GCGGCCGC）的VL3'端引物，进行第二步PCR 扩增。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3噬菌体抗体库的构建、鉴定与淘选 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用限制性内切酶 SfiI和NotI对 scFv 基因与质粒pCANTAB5e进行双酶切，经T4DNA连接后转化至感受态 $E .$ coli TG1细胞中，取 $1 0 0 ~ \\mu \\mathrm { L }$ 培养液涂布于$2 { \\times } \\mathrm { Y T }$ 固体培养基（氨苄青霉素 $1 0 0 ~ \\mathrm { \\mu g / m L }$ ）。根据平板上的菌落数，推算抗体",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "库的库容，随机挑取单克隆测序鉴定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阳性噬菌体的淘选和扩增参考文献[18]，以 $1 0 0 \\mu \\mathrm { L } 2 0 \\mu \\mathrm { g / m L }$ AFB1-OVA 包被96孔酶标板， $4 ^ { \\circ } \\mathrm { C }$ 过夜，次日弃包被液，PBST洗板3次。用 $2 \\%$ 脱脂牛奶封闭，PBST洗板3次。加入 $1 0 0 ~ \\mu \\mathrm { L }$ 噬菌体抗体库， $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $2 \\mathrm { h }$ ，PBST洗板10次，甩干。加入 $2 0 0 ~ \\mu \\mathrm { L }$ Gly-HCl 缓冲液， $3 7 ^ { \\circ } \\mathrm { C }$ 轻柔振荡洗脱 $6 \\mathrm { m i n }$ ，立即加入 $2 5 \\mu \\mathrm { L }$ Tris-HCl 缓冲液 $\\mathrm { ( p H 8 . 9 ) }$ 中和洗脱液。收集洗脱液感染 $E .$ coli TG1( $\\mathrm { O D } _ { 6 0 0 \\mathrm { n m } } { = } 0 . 4 \\dot { . }$ )，一部分用来测定滴度，其余的噬菌体用PEG/NaCl溶液沉淀扩增噬菌体，进行下一轮淘选。重复上述“淘选-富集\"4次，包被抗原AFB1-OVA浓度分别为 20$\\mu \\mathrm { g / m L }$ 、 $2 0 ~ \\mu \\mathrm { g / m L }$ 、 $1 0 ~ \\mu \\mathrm { g / m L }$ 、 $1 0 ~ \\mu \\mathrm { g / m L }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 . 4 \\ \\mathrm { s c F v }$ 噬菌体克隆的初步鉴定与序列分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从第5轮测定洗脱噬菌体浓度的抗性平板上分别挑取46个单克隆，用 phageELISA检测：AFB1-OVA(包被缓冲液稀释) $4 ^ { \\circ } \\mathrm { C }$ 包被过夜， $3 \\%$ 脱脂牛奶封闭2h，PBST洗板三次，甩干，加入噬菌体单克隆上清液，PBST洗板3次后加入HRP标记的anti-M13二抗，孵育1h后加入TMB底物显色，读取 $4 5 0 \\mathrm { n m }$ 处吸光值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据参考文献[19]定义待测样品的 $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } }$ 值为P,阴性对照的 $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } }$ 值为 $\\mathrm { \\Delta N }$ 新当 $\\mathrm { P } / \\mathrm { N } { \\geq } 2 . 1$ 时判定为阳性克隆， $\\mathrm { P / N } { < } 1 . 5$ 为阴性克隆。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "提取阳性噬菌体克隆的质粒，以pCANTAB5e的通用引物S1和S6测定其DNA序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5阳性scFv原核表达与纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设计带有NdeI和XhoI酶切位点及His-Tag的PCR引物扩增阳性scFv，与pET-30a 质粒连接构建pET-30a-scFv 重组质粒，验证后转入感受态E.coli BL21（DE3）中诱导表达。待菌液 $\\mathrm { O D } _ { 6 0 0 \\mathrm { n m } }$ 在0.6-1.0之间时，加入终浓度为 $\\boldsymbol { \\mathbf { \\ell } } _ { 1 \\ : \\mathrm { m M } }$ 的IPTG，于 $1 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 进行诱导表达 $1 6 \\mathrm { h }$ 。收集菌体进行超声波破碎，菌液离心后沉淀中加入PBS 缓冲液混匀，冰浴环境下超声破碎，条件为2son、2soff、功率100W、时间 $3 0 \\mathrm { m i n }$ 。离心后，上清液用Ni-NTA进行纯化，采用SDS-PAGE分析蛋白表达情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6scFv性质表征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过 ExPASy 网站的 Protparam tool 软件(https://web.expasy.org/cgi-bin/protparam/protparam）在线预测抗 AFB1 scFv 的理论分子量、等电点、热稳定指数、消光系数及平均亲水性等性质参数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测定抗体亲和常数的方法有很多，不同方法测定的亲和常数值也有一定的差异。本研究在测定单链抗体滴度的基础上，参考Beatty[20l测定抗体亲和力常数的方法，对单链抗体的亲和常数进行了计算，其原理为：在酶标抗原浓度不变的情况下对抗体进行梯度稀释，设定抗体浓度很高时与酶标抗原的结合率为 $100 \\%$ 则结合率为 $50 \\%$ 所对应的抗体浓度的倒数值即为亲和力。抗体亲和常数计算公式：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "抗体分子量亲和常数 $\\mathbf { K } =$ （其中抗体浓度单位为mg/mL)滴度 $\\times$ 抗体浓度",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.6同源建模与分子对接 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在分子建模服务系统 SWISS-MODEL（http://swissmodel.expasy.org/）中输入scFv 的氨基酸序列，通过序列比对，找到与目标蛋白相似性较高并具有已知结构的序列作为模板。使用DS 软件中的Align Structures（MODELER）命令，对模板进行结构比对。使用Align Multiple Sequences 命令将推定的 scFv 的氨基酸序列与比对后的模板进行对比。使用Build Homology Models 命令进行同源建模。选择PDF Total Energy数值最小的模型作为初始模型，使用Model Antibody Loops命令对抗体的可变区进行优化得到最终模型。使用Ramachandran Plot命令绘制拉氏图，对最终模型进行评价。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过PubChem(http://pubchem.ncbi.nlm.nih.gov/#opennewwindow）下载 $\\mathrm { A F B } _ { 1 }$ 的 3D 结构。使用DockLigands 命令将 scFv 与 $\\mathrm { A F B } _ { 1 }$ 进行分子对接。使用Receptor-Ligand Hydrogen Bonds 和 Receptor-Ligand Bumps 命令预测分子间的作用力。使用Draw Ligand Interaction Diagram 命令绘制 2D 分子间作用力图。分析scFv与AFB1的结合作用和关键结合位点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.结果与分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1VH和VL基因的扩增及scFv的组装",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "小鼠五免后血清效价为 $2 \\times 1 0 ^ { 6 }$ ，提取其脾细胞总RNA，以该RNA为模板，反转录后特异性扩增VH和VL基因片段，均扩增得到单一特异性条带，回收VH 和VL 基因片段后,定向扩增VH-linker-VL 构建单链抗体基因,大小为750bp左右，结果如图1，基因片段大小与理论值相符。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/90fd03142fd4c40ded650c90cdd769aca783dd60bf24b106882c14c4ea3c877d.jpg",
+        "img_caption": [
+            "图1可变区VH与VL基因扩增与scFv构建",
+            "Fig.1 Amplifying VH and VL gene and construction of scFv "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2抗AFB1噬菌体展示抗体文库的构建与淘选 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "噬菌粒转化大肠杆菌后，平板计数推算出噬菌体 scFv抗体库容约为 $5 { \\times } 1 0 ^ { 6 }$ cfu/mL，辅助噬菌体超感染后得到噬菌体展示 scFv文库库容量为 $2 { \\times } 1 0 ^ { 1 3 } \\mathrm { p f u / m L }$ 0本研究得到的抗体文库库容比报道的文献低了2-3个数量级[15,16]，库容量是评价文库质量的重要指标之一，也是能否淘选到阳性克隆的重要条件之一。5轮淘选后，测定每轮投入和洗脱的噬菌体的滴度，如表1所示，随着筛选次数的增加，第五轮筛选后捕获的噬菌体与第一轮相比，富集了6.96倍。从5轮筛选后的平板上随机挑取92个单菌落，用phage ELISA测定培养后上清液与抗原的结合能力，以P/N值(阳性孔OD 值/阴性孔OD 值 $) { \\geq } 2 . 1$ 判定为阳性克隆。经测定后，共得到13株阳性克隆。提取质粒后测序，13株阳性克隆均为同一DNA序列，翻译成氨基酸序列（图2），黑色划线部分为VH与VL的Linker，将该阳性序列命名为scFv。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2df0f0ba9027b77d7c71c712d7a60d86537e0a4ca25d5583c4880a583d5db4bd.jpg",
+        "table_caption": [
+            "表1免疫亲和筛选对抗 $\\mathrm { A F B } _ { 1 }$ 噬菌体单链抗体的富集 Table 1.The enrichment of phage display anti $\\mathrm { A F B } _ { 1 }$ scFv by immunoaffinity panning "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>筛选次数</td><td>AFBi-OVA 浓度 （μg/mL）</td><td>噬菌体投入量 (cfu/mL)</td><td>噬菌体捕获量 (cfu/mL)</td><td>富集度</td></tr><tr><td>1</td><td>20</td><td>2.1×1013</td><td>5×10²</td><td></td></tr><tr><td>2</td><td>20</td><td>1.3×1013</td><td>9×102</td><td>2.875</td></tr><tr><td>3</td><td>20</td><td>1.5×1013</td><td>1.2×10³</td><td>1.153</td></tr><tr><td>4</td><td>10</td><td>2.5×1013</td><td>1.6×10³</td><td>0.8</td></tr><tr><td>5</td><td>10</td><td>1.8×1013</td><td>3×103</td><td>2.61</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10 20 30 40 50 60 70 80 90 (VH) MAEVKVESGGLVKLGGSLKLSCAASGFTSNYYMSWVRQTPEKRLEWVATISNSGGNTYYPDSVRDRFTISRDNAKNTLYLRMSSLNS 100 110 120 130 140 150 160 170 180 福 ： ：： EDTAVYYCVRSLPYYFDYWGQGTILTVSSGGGGSGGGGSGGGGSDIELTQSPALMSASPGEKVTMTCSASSSLSYIHWYQOKSGTSPKRW 190 200 210 220 230 240 .1.. . ：1 IYDTSKLASGVPVRFSGSGSGTSYSLTITSMEAEDAATYYCQQWNSNPPTFGAGTKLEIKR (VL) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Amino acid sequences of anti-AFBl scFv (underlined part was the Linker sequence) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3抗AFB1scFv的重组表达性质分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "重组表达载体pET-30a-scFv 构建后，转入E.coliBL21（DE3）中诱导表达，采用 SDS-PAGE分析脱盐纯化后的重组蛋白scFv的表达情况。结果如图3，scFv表达的分子量约为 $2 8 \\mathrm { { k D a } }$ ，是可溶性表达。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2b8f2a7a7dbf016661b5e04e3b372ca27a6e2aba2a0dd1b7b16c1cff92fca52.jpg",
+        "img_caption": [
+            "图2抗AFB1scFv的氨基酸序列（划线处为linker)",
+            "图3 scFv-A/B 纯化后的 SDS-PAGE分析Fig.3 SDS-PAGE analysis for expression of scFv-A/BM：蛋白Marker 1：纯化后的 scFv"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用 Protparam tool软件在线预测抗AFB1 scFv 的理论分子量、等电点、热稳定指数、消光系数及平均亲水性等性质参数。结果表明：抗AFB1scFv理论分子量为 $2 5 . 8 \\mathrm { { k D a } }$ ，理论等电点为8.56，亲水系数（GRAVY）为-0.366，负值表示具有亲水属性。不稳定系数为54.93，稳定性欠佳，这也是scFv应用受到限制的主要原因之一[13]。通过亲和力测定，按照其计算公式计算,scFv 的亲和常数为 $8 \\times 1 0 ^ { 5 }$ L/mol。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4 scFv的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.1scFv的同源建模与分子对接 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过同源建模及抗体Loop 环优化，获得了scFv的3D 结构模型，如图4A。蓝色标识的部分为重链区，红色标识的部分为轻链区。重链区和轻链区共同形成了一个口袋区，推测其具有与抗体高度结合的可能性。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b14aae20df5017ea4ef577d587a38942aabcfeff07f106bd69cd0c371c186df1.jpg",
+        "img_caption": [
+            "图4scFv-AFBi三维模型图（A）及与AFB1的分子对接结构图（B） Fig.4 3D model of anti-AFB1 scFv(A) and its molecular docking model with $\\mathrm { A F B } _ { 1 }$ (B) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同时，拉氏图结果表明，scFv的3D结构模型中氨基酸空间取向不合理的频率为13/226（ $5 . 7 \\%$ ），处在优秀模型的区间 $\\leq 1 0 \\%$ ，判断为高质量拉氏图，因此所建三维模型合理。且空间取向不合理的氨基酸大部分为连接重链与轻链的链接肽上，此类氨基酸的空间取向对分子对接结果的影响甚微。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据构建的3D结构及下载的小分子模型，模拟了两者结合时的空间构象。scFv 与AFB1的结合位点为重链上的Tyr33、Ser52和Tyr102，与Tyr33的结合方式为 $\\scriptstyle \\pi - \\pi$ 共轭键，与Ser52的结合方式为氢键，与Tyr102的结合方式为 $\\pi - \\pi$ 共轭键及范德华力，如图4B和图5。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d48d968c0fea44210e4974507fbe22289db094cb595a6e5968103d29be38f536.jpg",
+        "img_caption": [
+            "图5scFv-AFBi分子对接2D图",
+            "Fig.5 2D molecular docking model scFv and $\\mathrm { A F B } _ { 1 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "噬菌体抗体库是制备抗体常用的技术之一，本实验通过免疫小鼠，扩增其抗体可变区基因，构建抗 $\\mathrm { A F B } _ { 1 }$ 单链抗体基因文库，库容为 $1 0 ^ { 6 }$ 数量级，库容较小，可能是由于采用 $\\mathrm { C a C l } _ { 2 }$ 化学转化，因此后续可尝试采用电穿孔法进行转化，减少建库过程中单链抗体基因的损失，以提高转化效率和库容量[2I]；同时利用Cre-LoxP体内重组体系统构建噬菌体抗体库也是提高库容的有效方法之一，孙巍等[22]通过在初级库中引入Cre-LoxP同源重组系统，使得不同抗体基因之间互相自由组合，库容和多样性翻倍，获得了 $1 0 ^ { 1 1 }$ 数量级的噬菌体抗体库。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "单链抗体的优势在于分子量较小，只有普通抗体的1/4，溶解性和组织渗透性也更好。在本研究中，从噬菌体展示抗体文库中经过五轮筛选得到一株亲和力较高的单链抗体 scFv，亲和常数为 $8 { \\times } 1 0 ^ { 5 } \\mathrm { L } / \\mathrm { m o l }$ ，与参考文献[23,24]比对略低，可能是由于将抗体VH和VL 通过短肽连接形成，亲和力往往比原始抗体差[25]。体外改造抗体亲和成熟是一种非常高效的提高抗体亲和力的方法[26]，体外亲和成熟通常有以下几种方式：错误倾向PCR（error-prone PCR）引进点突变[27]；重组改造与抗原结合起主要作用的CDR区域，对抗体的CDR3区域进行重组可极大提高抗体亲和力[28]，对CDR3区氨基酸序列的随机化，也在一定程度上也提高了抗体合成文库的多样性及容量，经过CDR3改造的文库库容可达 $1 0 ^ { 9 }$ 以上[29]；链替换技术，孙丽娜等[30]通过置换轻链可变区，构建重链置换抗体库筛选得到特异性结合狂犬病毒糖蛋白人源抗体的亲和力达到 $1 0 ^ { 9 }$ 数量级；DNA改组，有研究者[31]联合采用 error prone-PCR 和DNA改组技术随机突变抗肝癌单链抗体的重链和轻链可变区,得到的抗体不仅保持了原始抗体的特异性，同时亲和力提高了2倍以上。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "同时，文库来源、构建方法及抗体类型等均会在一定程度上影响抗体与AFB1的结合方式和结合能力（表2）[32-35]。利用同源建模对 scFv 的三级结构进行预测，再将 scFv的3D结构与AFBi模型进行分子对接，优化后得到最为稳定的对接结构，根据对接的3D 和2D图可以清楚地找出 scFv在与抗原AFBi结合过程中起关键作用的氨基酸，以及抗原抗体的结合方式。本研究后续可以利用定点饱和突变技术对该scFv进行体外亲和力优化，通过对关键氨基酸进行定点突变以获得分别被其他19 种天然氨基酸所代替的突变子，构建抗AFB1单链抗体定点饱和突变库，同时对CDR3区氨基酸序列进行随机化，以期筛选得到亲和力较好的scFv，为生物信息学在抗AFB1抗体筛选领域的发展提供有利支撑。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/502f04eb8e8a40b7bdbeb9a0a5c703c509c0852ab0558eb5b1a611c4ece2c20e.jpg",
+        "table_caption": [
+            "表2不同类型的抗体与AFB1结合方式的比较",
+            "Table 2 Comparison of the binding mode of different antibodies to AFB1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>抗体名称</td><td>抗体类型</td><td>构建方法</td><td>与 AFB1的结合方式</td><td>参考文献</td></tr><tr><td>Nb-G8</td><td>纳米抗体</td><td>噬菌体展示纳米 抗体免疫文库</td><td>Thr32、Ile33、Phe49、Typ54、Tyr106和Val112 等氨基酸残 基可能直接参与抗原识别表位的形成</td><td>[32]</td></tr><tr><td>scFv-H4</td><td>单链抗体</td><td>Tomlinson I+J 文 库</td><td>AFB1主要被轻链上的Ala91、Pro95、Phe98和重链上的Lys96、 Thr97、His95 构成疏水腔包裹，双呋喃环与Asp之间形成氢键</td><td>[33]</td></tr><tr><td>1C11</td><td>单克隆抗体</td><td>杂交瘤细胞株</td><td>1C11 重链上的 Ser49 和Phe103以氢键与疏水作用与AFB1结合</td><td>[34]</td></tr><tr><td>scFv</td><td>单链抗体</td><td>抗AFB1单克隆抗 体杂交瘤细胞株</td><td>在三级结构中连接肽将VH和VL区域牵拉而相互靠近，形成典 型沟槽结构，是 scFv 的抗原结合区域</td><td>[35]</td></tr><tr><td>scFv</td><td>单链抗体</td><td>噬菌粒-辅助噬菌 体展示系统构建 的单链抗体文库</td><td>与抗原 AFB1结合时，scFv 中Tyr33、Ser52 和 Tyr102 起关键作 用，分别以π-π共轭键、氢键和范德华力与AFB1结合</td><td>本研究</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] 刘爱平，李诚，刘书亮，等．抗黄曲霉毒素B1单链抗体在 Sf9 昆虫细胞中的表达与性质 分析[J]．中国生物工程杂志,2016,36(5):40-45.   \nLiu A.,Li C, Liu S L, et al. Expression and Characterization of Anti-AFBl scFv Expressed in Sf9 Cell. China Biotechnology,2016, 36(5): 40-45.   \n[2] IARC. Some naturally occurring substances: food items and constituents，heterocyclic aromatic amines and mycotoxins. [M]. Geneva: World Health Organization,1993, 489-521.. [3] Liu JW, Lu C C, Liu B H, et al. Development of novel monoclonal antibodies-based ultrasensitive enzyme-linked immunosorbent assay and rapid immunochromatographic strip for aflatoxin B1 detection[J]. Food Control, 2016, 59: 700-707.   \n[4] Shen X, Chen J, Li X, et al. Monoclonal antibody-based homogeneous immunoassay for three banned agonists and molecular modeling insight[J]. Food & Agricultural Immunology, 2017(7): 1-12.   \n[5] Marla D, Swain a, George P, et al. Immunodiagnostic reagents using llma single domain antibody-alkaline phosphatase fusion proteins. Analytical Biochemistry, 2011,417(2) : 188-194. [6] Kijanka M, Dorresteijn B, Oliveira S, et al. Nanobody-based cancer therapy of solid tumors[J]. Nanomedicine,2015,10(1): 161-174.   \n[7] Chen J, He Q H, Xu Y, et al. Nanobody medicated immunoassay for ultrasensitive detection of cancer biomarker alpha-fetoprotein[J]. Talanta, 2016,147:523-530.   \n[8] 温杰，宋琳琳，张莹等．稳定表达Aβ特异性单链抗体的哺乳动物细胞株构建和功能研究 [J]．中国生物工程杂志,2017,37(2):1-7.   \nWen J, Song L L, Zhang Y, et al. Construction and Function of Stable Mammalian Cell Lines Expressing the $\\mathsf { A } \\beta$ -specific Single Chain Fragment Variants. China Biotechnology, 2017, 37(2): 1-7.   \n[9] Hu Z Q, Li H P, Liu JL, et al. Production of a phage-displayed mouse scFv antibody against fumonisin B1 and molecular docking analysis of their interactions[J]. Biotechnology & Bioprocess Engineering, 2016,21(1): 134-143.   \n[10] Edupuganti S R， Edupuganti O P, O'Kennedy R. Biological and synthetic binders for immunoassay and sensor-based detection: generation and characterisation of an anti-AFB(2) single-chain variable fragment (scFv)[J]. World Mycotoxin Journal, 2013, 6(3): 273-280.   \n[11] Wang R, Gu X, Zhuang Z, et al. Screening and molecular evolution of a single chain variable fragment antibody (scFv) against Citreoviridin toxin[J]. J Agric Food Chem, 2016, 64(40): 7640. [12] Ridgeway I. Vectors: A survey of molecular cloning vectors and their uses. Stoneham: Butterw0rfh 1988: 467-492.   \n[13] Daly S., Dillon P. Manning B. et al. Production and Characterization of Murine Single Chain Fv Antibodies to Aflatoxin B 1 Derived From a Pre-immunized Antibody Phage Display Library System[J]. Food and Agricultural Immunology, 2002,14: 255-274.   \n[14] Hu Z Q, Li HP, Liu JL, et al. Production of a phage-displayed mouse scFv antibody against fumonisin B1 and molecular docking analysis of their interactions[J]. Biotechnology & Bioprocess Engineering, 2016,21(1): 134-143.   \n[15] Zhao J., Yang L., Gu Z. et al. Stabilization of the Single-Chain Fragment Variable by an Interdomain Disulfide Bond and Its Effect on Antibody Affinity[J]. International Journal of Molecular Sciences,2010,12(1): 1-11.   \n[16] Wang J，Li H， Shelver W L，et al. Development of a monoclonal antibody-based, congener-specific and solvent-tolerable direct enzyme-linked immunosorbent assay for the detection of 2,2',4,4'-tetrabromodiphenyl ether in environmental samples.[J]. Analytical & Bioanalytical Chemistry, 2011, 401(7): 2249-58.   \n[17]沈倍奋，陈志南，刘民培．重组抗体[M]．科学出版社,2005.   \nShen B., Chen Z.,Liu M., Recombinant Antibody. Science Press, Beijing, 2005.   \n[18]庞倩，马榆，李诚，等．基于CDR2 和CDR3 区随机突变筛选抗黄曲霉毒素 B1单域重 链抗体的研究[J]．中国生物工程杂志,2016,36(7):21-26.   \nPang Q, Ma Y,Li C,et al. Screening of anti-Aflatoxin B1 single domain heavy chain antibody based on random mutation of CDR2 and CDR3 regions. China Biotechnology,2016,36(7):21-26. [19] Ebel G.D., Dupuis A.P., Nicholas D. Detection by Enzyme-Linked Immunosorbent Assay of Antibodies to West Nile virus in Birds. Emerging Infectious Diseases.2002, 8(9): 979-982 [20] Beatty J D,Beatty B G, Vlahos W G. Measurement of monoclonal antibody affinity by non-competitiveenzymeimmunoassay. Journal ofImmunologicalMethods, 1987, 100(1):173-179.   \n[21] 陈英，庄延．活体电穿孔法基因导入技术[J]．中国生物工程杂志,2003,23(5):104-108. Chen Y, Zhuang Y. In Vivo Transfer with Electroporation. China Biotechnology, 2003,23(5): 104-108.   \n[22] 孙巍，林珩，花芳，等．优化宿主菌在重组系统中构建大容量天然噬菌体抗体库[J]．药 学学报,2013,48(1): 66-70.   \nSun W,Lin H, Hua F,et al. Optimizing the host bacteria to make a large naive phageantibody library in the recombination system. Acta Pharmaceutica Sinica,2013, 48 (1): 66-70.   \n[23] 蒋家豪，孙福谋，韩月,等．噬菌体展示全人源抗GPC3的单链抗体的筛选及鉴定[J].药 学学报,2017,52(12):1877-1883.   \nJiang J., Sun F., Han Y, et al. Screening and characterization of human anti-GPC3 single chain Fv antibody fragment selected by phage display. Acta Pharmaceutica Sinica， 2017,52 (12): 1877-1883.   \n[24] 佟振华，钱尼良，张晶，等．人源抗转铁蛋白受体单链抗体的筛选及其构建与表达[J]. 生物技术通讯,2016,27(3):358-361.   \nTong Z., Qian N., Zhang J, et al. Screening, Construction and Expression of Human Anti-TfR scFv Antibody. Letters In Biotechnology. 2016,27(3): 358-361.   \n[25] Liu A， Yang Y, Chen W,et al. Expression of V H -linker-V L,orientation-dependent single-chain Fv antibody fragment derived from hybridoma 2E6 against aflatoxin B 1，in Escherichia coli[J]. Journal of Industrial Microbiology & Biotechnology,2015, 42(2): 255-262. [26] Nossal G J V. The molecular and cellular basis of affinity maturation in the antibody response[J]. Cell, 1992, 68(1):1-2.   \n[27] Unkauf T, Hust M, Frenzel A. Antibody Affinity and Stability Maturation by Error-Prone PCR[J]. Methods Mol Biol, 2018: 393-407.   \n[28] D'Angelo S, Ferrara F, Naranjo L, et al. Many Routes to an Antibody Heavy-Chain CDR3: Necessary, Yet Insuficient, for Specific Binding.Frontiers in Immunology,2018, 9: 395-408. [29] Yan J, Li G, Hu Y, et al. Construction of a synthetic phage-displayed Nanobody library with CDR3 regions randomized by trinucleotide cassetes for diagnostic applications. Journal of Translational Medicine, 2014,12(1): 343.   \n[30] 孙丽娜，刘洋，李川，等．人源抗狂犬病毒糖蛋白ⅢI号表位链置换基因工程抗体研究[J]. 病毒学报,2016,32(4):393-398.   \nSun L.,Liu Y,Li C, et al. Generation of Human ScFv Antibodies for Antigenic Site II of Rabies Virus Glycoprotein from Antibody Libraries by Chain Shufling. Chinese Journal of Virology, 2016,32(4): 393-398.   \n[31]卢筱华，杨冬华，周旻，等．抗肝癌单链抗体体外亲和力成熟的改造及意义[J]．中华肝 脏病杂志,2006,14(3):192-195.   \nLu X.，Yang D.， Zhou M， et al. Affinity maturation of a single-chain antibody against hepatocellular carcinoma. Chin J Hepatol, 2006,14(3):192-195.   \n[32] 曹冬梅．抗黄曲霉毒素 B1纳米抗体的免疫学性能分析及其体外定点改造[D].江西：南 昌大学，食品学院，2016.   \nCao D. Immunoassay of Nanobody against Aflatoxin Bl and Its Modification by Site-directed Mutagenesis in Vitro. Jiangxi: Nanchang University, school of food science &technology,2016. [33]杨炼．抗黄曲霉毒素B1的单链抗体的筛选、表达与改造[D].江苏：江南大学，食品学 院，2010.   \nYang L. Improvement of anti-aflatoxin B1 Single Chain Variable Fragment. Jiangsu: Jiangnan University, school of food science &technology, 2010.   \n[34] Li X, Li P W, Zhang Q, et al. Molecular Characterization of Monoclonal Antibodies against Aflatoxins: A Possble Explanation for the Highest Sensitivity. Analytical Chemistry, 2012,84: 5229-5235.   \n[35]马兰，刘爱平，王佳，等．抗黄曲霉毒素B1单链抗体基因克隆及其结构分析[J]．南方 农业学报，2017，48(11):2064-2070.   \nMa L,Liu A., Wang J, et al. Anti-aflatoxin Blsingle chain antibody: Gene cloning and structure analyzing. Journal of Southern Agriculture, 2017, 48(11): 2064-2070. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Screening of Anti-Aflatoxin B1 ScFv Based on Phage Display Technology and Analysis of Its Protein Structure ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PANG Qian CHEN Jing WANG Xiao-hong WANG Jia\\* ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "College of Food Science and technology,Huazhong Agricultural University,43oo7o,Wuhan,Hubei ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aflatoxin B1 (AFB1) is a mycotoxin which has highly toxic and highly poluted. It is of great significance for AFBl to establish an efcient， accurate and rapid detection method. Phagemid/helper phage system is one of the most common used system for single-chain antibody fragment(scFv) libraries construction. The \"panning-elution\" strategy is an effective method for screening ligands with high affinity. Combined with homology modeling and molecular docking, the key amino acid binding sites between antibody and antigen were analyzed to provide the basis for genetically modifying antibodies. In this study, we amplified the heavy chain variable regions and light chain variable regions from the spleen cells of AFB1-BSA immunized mice. Then assembled scFv fragment was inserted into the phagemid pCANTAB5e to construct a phage display single-chain antibody library. Using different concentrations of AFB1-OVA as a coating antigen,anti-AFB1 scFv was isolated from this library, which affinity constant is $8 { \\times } 1 0 ^ { 5 } ~ \\mathrm { L / m o l }$ According to homology modeling and molecular docking, Tyr33, Ser52,and Tyr102 play a key role in binding with AFB1 under $\\pi { - } \\pi$ conjugated bonds, hydrogen bonds, and van der Waals forces, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "respectively. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: AFB1; single-chain antibody fragment; phagemid/helper phage display; homology modeling; molecular docking ",
+        "page_idx": 13
+    }
+]

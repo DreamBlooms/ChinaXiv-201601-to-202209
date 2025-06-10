@@ -1,0 +1,193 @@
+饲粮不同油脂比例对冬毛期雄性银黑狐生长性能、血清生化指标及肠道形态结构的影响钟伟 罗婧 张 婷 孙旭阳 李光玉\*
+
+（中国农业科学院特产研究所，吉林省特种经济动物分子生物学省部共建实验室，长春130112)
+
+摘要：本试验旨在研究饲粮不同油脂比例对冬毛期雄性银黑狐生长性能、血清生化指标及肠道形态结构的影响。试验选取48只157日龄、平均体重为 $( 5 4 5 0 { \pm } 1 4 0 \$ ） $\mathbf { g }$ 的健康雄性银黑狐，随机分成4组，每组12个重复，每个重复1只。4种试验饲粮中油脂比例不同，但添加量均为 $14 \%$ ，其中I组试验饲粮中油脂由 $1 2 . 0 0 \%$ 的鱼油和 $2 . 0 0 \%$ 的豆油组成，Ⅱ组试验饲粮中油脂由 $9 . 3 8 \%$ 的玉米油和 $4 . 6 2 \%$ 的豆油，IⅢ组试验饲粮中油脂由 $1 2 . 0 0 \%$ 的玉米油和$2 . 0 0 \%$ 的豆油组成，IV组试验饲粮中油脂由 $1 . 5 0 \%$ 的鱼油和 $12 . 5 0 \%$ 的玉米油。预试期 $\mathrm { ~ 7 ~ d ~ }$ 正试期 $4 0 \mathrm { d }$ 。结果表明：1）饲粮不同油脂比例对银黑狐的体长有显著影响（ $_ { ( P < 0 . 0 5 ) }$ ，对末重、平均日增重、平均日采食量、料重比和鲜皮长均无显著影响（ $_ { , P > 0 . 0 5 ) }$ 。Ⅱ组体长显著高于V组（ $. P { < } 0 . 0 5 )$ ，与I和II组差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。2）饲粮不同油脂比例对血清甘油三酯（TG）和低密度脂蛋白胆固醇（LDL-C）含量有显著或极显著影响( $_ { \it P < 0 . 0 5 }$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ ）对血清胆固醇（CHO)、高密度脂蛋白胆固醇（HDL-C)和葡萄糖（GLU）含量均无显著影响0 $\scriptstyle \cdot P > 0 . 0 5 .$ )。II组血清TG显著低于I、III和IV组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \rangle$ ，I组血清LDL-C含量极显著高于 $\mathrm { I I }$ 、II和IV组（ $_ { . } { \cal P } { < } 0 . 0 1$ )。3）饲粮不同油脂比例对血清球蛋白(GLOB)含量有显著影响（ $P { < } 0 . 0 5 )$ ，对血清总蛋白(TP)、白蛋白(ALB)和尿素氮(UN)含量均无显著影响（ $P { > } 0 . 0 5 )$ 。ⅡI组血清GLOB含量显著高于II和IV组（ $_ { . P < 0 . 0 5 ) }$ ，与I组差异不显著（ $_ { .  { P > } 0 . 0 5 ) }$ 。4）饲粮不同油脂比例对血清补体4(C4)含量有显著影响（ $_ { . P < 0 . 0 5 ) }$ ，对血清免疫球蛋白 $\operatorname { A } ( \operatorname { I g A } )$ 、免疫球蛋白 $\mathbf { M } ( \mathrm { { I g } \mathbf { M } ) }$ 、免疫球蛋白 $\mathrm { G } ( \mathrm { I g G } )$ 、补体3(C3)、白介素-2(IL-2)和肿瘤坏死因子(TNF)含量均无显著影响（ $\cdot P { > } 0 . 0 5 )$ 。II组血清C4含量显著低于I、Ⅱ和IV组 $( P { < } 0 . 0 5 )$ ，I、Ⅱ和IV组间差异不显著（ $\scriptstyle \cdot P > 0 . 0 5 ,$ 。5）饲粮不同油脂比例极显著影响了肠道绒毛高度、隐窝深度和绒毛高度/隐窝深度（ $( P { < } 0 . 0 1 )$ 。Ⅱ组绒毛高度极显著高于I、IⅢ和IV组（ $_ { . } { P } { < } 0 . 0 1 \$ ，I和IV组极显著高于I组 $( P { < } 0 . 0 1 )$ ；I组隐窝深度极显著高于ⅡI、IⅢ和IV组（ $P { \mathrm { < } } 0 . 0 1 { \mathrm { ~ } }$ ，I、I和IV组间差异不显著（ $( P { > } 0 . 0 5 )$ ；ⅡI组绒毛高度/隐窝深度极显著高于I组（ $( P { < } 0 . 0 1 )$ ，显著高于Ⅳ组（ $. P { < } 0 . 0 5 )$ ，与IⅢ组差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ )。综合本试验结果可知，饲粮油脂来源为$9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油时，降低了血清中TG 和LDL-C的含量，升高了血清中GLOB的含量，改善了肠道形态结构，从而促进了冬毛期雄性银黑狐体长的增加。
+
+关键词：油脂比例；银黑狐；生长性能；血清生化指标；肠道形态中图分类号：S816 文献标识码：A 文章编号：
+
+饲粮中不同油脂按一定比例混合使用，可发挥脂肪酸互补效应，并满足动物对多种脂肪酸特别是必需脂肪酸的需要，从而提高动物生产性能。多不饱和脂肪酸(polyunsaturated fattyacids，PUFA)尤其是 $\mathrm { n } { - } 3$ 和 $\mathtt { n } { - } 6$ PUFA是动物机体的必需脂肪酸，在调节机体血脂代谢、免疫性能及改善肠道菌群，提高肠道黏膜屏障功能等方面具有重要作用[1-5]。由于机体内缺乏n-3 脱饱和酶， $\mathrm { n } { - } 3$ 和n-6 PUFA在机体内不能相互转化，必须通过饲粮摄取[6-7]。在畜禽养殖生产中一般通过油脂配比来调节脂肪酸的比例。研究表明，适宜 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值的饲粮能调节冬毛期北极狐的血脂代谢，提高北极狐的生长性能[8-9]。研究报道，不同 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值的饲粮显著影响扬州鹅的血脂代谢和免疫性能[10]，适宜 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值的饲粮对鸡的血糖和血脂健康均有一定改善作用，且能使动物机体保持良好的免疫状态[1I-12]。也有研究表明，摄入含n-3PUFA的油脂可以提高大鼠肠道内一些益生菌的数量，通过改善肠道菌群、增加黏膜厚度来提高肠道黏膜屏障功能[4]。银黑狐(Vulpes vulpes)又称银狐，原产于北美洲的北部和西伯利亚的东部，属于食肉目犬科动物，是世界珍贵的毛皮动物之一。银黑狐与北极狐虽同属于犬科，但不同属，研究表明2个狐属在脂肪沉积与代谢形式上存在明显差异[13],目前关于饲粮不同油脂比例对银黑狐脂肪酸利用、血脂代谢及免疫性能、肠道形态结构影响方面尚未见研究报道。因此，本试验拟研究饲粮不同油脂比例对冬毛期雄性银黑狐生长性能、血清生化指标和肠道形态结构的影响，以期为银黑狐生产及脂肪酸代谢研究提供理论依据。
+
+# 1材料与方法
+
+1.1试验动物试验用银黑狐为地产芬系银狐，为芬兰种狐经过多年繁育所形成的地方品种。
+
+# 1.2 试验设计与试验饲粮
+
+选取157日龄、平均体重为 $( 5 4 5 0 { \pm } 1 4 0 )$ ） $\mathbf { g }$ 的健康生长期雄性银黑狐48只，随机分成4组，每组12个重复，每个重复1只银黑狐。4组银黑狐分别饲喂4种不同油脂组成的试验饲粮。4种试验饲粮中油脂添加量均为 $14 \%$ ，其中I组试验饲粮中油脂由 $1 2 . 0 0 \%$ 的鱼油和$2 . 0 0 \%$ 的豆油组成，ⅡI组试验饲粮中油脂由 $9 . 3 8 \%$ 的玉米油和 $4 . 6 2 \%$ 的豆油，IⅢ组试验饲粮中油脂由 $12 . 0 0 \%$ 的玉米油和 $2 . 0 0 \%$ 的豆油组成，IV组试验饲粮中油脂由 $1 . 5 0 \%$ 的鱼油和$1 2 . 5 0 \%$ 的玉米油。试验饲粮组成及营养水平见表1，脂肪酸组成见表2。
+
+表1试验饲粮组成及营养水平 (风干基础)  
+Table1 Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>膨化玉米 Extrusion cor</td><td>32.75</td><td>32.75</td><td>32.75</td><td>32.75</td></tr><tr><td>豆粕 Soybean meal</td><td>12.00</td><td>12.00</td><td>12.00</td><td>12.00</td></tr><tr><td>玉米蛋白粉 Corn protein meal</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>1.55</td><td>1.55</td><td>1.55</td><td>1.55</td></tr><tr><td>鱼粉Fish meal</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>肉粉 Meat meal</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>赖氨酸 Lys</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>蛋氨酸 Met</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>预混料 Premix1</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>鱼油Fish oil</td><td>12.00</td><td></td><td></td><td>1.50</td></tr><tr><td>玉米油 Corn oil</td><td></td><td>9.38</td><td>12.00</td><td>12.50</td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>4.62</td><td>2.00</td><td></td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²</td><td></td><td></td><td></td><td></td></tr><tr><td>总能 GE/(MJ/kg)</td><td>19.04</td><td>19.03</td><td>19.14</td><td>19.05</td></tr><tr><td>粗蛋白质 CP</td><td>29.76</td><td>29.39</td><td>29.82</td><td>29.76</td></tr><tr><td>粗脂肪 EE</td><td>15.50</td><td>15.13</td><td>15.77</td><td>15.09</td></tr><tr><td>粗灰分 Ash</td><td>9.31</td><td>8.82</td><td>9.05</td><td>8.71</td></tr></table></body></html>
+
+<html><body><table><tr><td>碳水化合物Carbohydrate</td><td>41.43</td><td>42.66</td><td>41.36</td><td>42.44</td></tr><tr><td>赖氨酸Lys</td><td>2.36</td><td>2.36</td><td>2.36</td><td>2.36</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>1.43</td><td>1.43</td><td>1.43</td><td>1.43</td></tr><tr><td>钙Ca</td><td>1.61</td><td>1.54</td><td>1.50</td><td>1.40</td></tr><tr><td>磷P</td><td>1.14</td><td>1.03</td><td>1.10</td><td>0.98</td></tr></table></body></html>
+
+1 每千克预混料含有 One kilogram of premix contained the following: VA 30o 000 IU, $\mathrm { V D } _ { 3 }$ 200 000 IU，VE 4 000 IU, $\mathrm { V K } _ { 3 } 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 4 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 0 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 0 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 4 . 2 \ : \mathrm { m g }$ 叶酸 folic acid $5 0 \mathrm { m g }$ ，泛酸 pantothenic acid $2 2 0 0 \mathrm { m g }$ ，生物素biotin $1 6 0 0 \mathrm { m g }$ ，氯化胆碱choline chloride $1 2 0 \mathrm { m g }$ ，VC $1 2 0 0 0 \mathrm { m g }$ ，Fe $4 0 0 0 \mathrm { { m g } }$ ， $Z _ { \textnormal { n } 3 } ~ 2 0 0 ~ \mathrm { m g }$ ， $\mathrm { M n } \ 1 \ 6 0 0 \ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 8 0 \mathrm { m g }$ Se $1 2 \mathrm { m g }$ ， $\mathrm { C u } 5 0 0 \mathrm { m g }$ 。
+
+2'粗蛋白质、粗脂肪、粗灰分、赖氨酸、蛋氨酸、钙、磷均为测定值，其他为计算值。 CP,EE,Ash,Lys,Met, Ca and $\mathrm { \bf P }$ were calculated values,while the others were measured values.
+
+表2试验饲粮脂肪酸组成  
+Table 2Fatty acid composition of experimental diets $\mathrm { m g / g }$   
+
+<html><body><table><tr><td rowspan="2">脂肪酸</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Fatty acids</td><td>I</td><td>II</td><td>IⅢI</td><td>IV</td></tr><tr><td>C12:0</td><td></td><td></td><td>一</td><td></td></tr><tr><td>C14:0</td><td>1.46</td><td>0.01</td><td></td><td>0.18</td></tr><tr><td>C14:1</td><td></td><td></td><td></td><td></td></tr><tr><td>C15:0</td><td></td><td>0.00</td><td></td><td>1</td></tr><tr><td>C15:1</td><td></td><td>0.00</td><td>一</td><td></td></tr><tr><td>C16:0</td><td>8.56</td><td>4.12</td><td>3.37</td><td>3.45</td></tr><tr><td>C16:1</td><td>4.15</td><td>0.01</td><td></td><td>0.51</td></tr><tr><td>C17:0</td><td></td><td></td><td></td><td>1</td></tr><tr><td>C17:1</td><td></td><td></td><td></td><td></td></tr><tr><td>C18:0</td><td>1.79</td><td>1.10</td><td>0.76</td><td>0.63</td></tr><tr><td>C18:1n-9t</td><td></td><td></td><td></td><td></td></tr><tr><td>C18:1n-9c</td><td>30.80</td><td>22.86</td><td>21.80</td><td>22.12</td></tr><tr><td>C18:2n-6t</td><td></td><td>一</td><td></td><td></td></tr><tr><td>C18:2n-6c</td><td>13.35</td><td>73.21</td><td>76.36</td><td>70.89</td></tr><tr><td>C20:0</td><td>0.06</td><td>0.14</td><td>0.14</td><td>0.12</td></tr><tr><td>C18:3n6</td><td></td><td></td><td></td><td></td></tr><tr><td>C20:1</td><td>0.17</td><td>一 0.08</td><td>0.09</td><td>0.10</td></tr><tr><td>C18:3n-3</td><td>1.93</td><td></td><td>1.86</td><td>0.19</td></tr><tr><td>C21:0</td><td></td><td>4.06</td><td>1</td><td></td></tr><tr><td>C20:2n-6</td><td></td><td>0.01</td><td></td><td></td></tr><tr><td>C22:0</td><td>0.02</td><td>0.05</td><td>0.02</td><td></td></tr><tr><td>C22:1n-9</td><td></td><td></td><td></td><td></td></tr><tr><td>C20:3n-3</td><td></td><td>1</td><td></td><td>一</td></tr><tr><td>C23:0</td><td></td><td>一</td><td></td><td>一</td></tr><tr><td>C20:4n-6</td><td>0.09</td><td></td><td></td><td>0.01</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C22:2n-6</td><td></td><td>一</td><td>一</td><td>一</td></tr></table></body></html>
+
+<html><body><table><tr><td>C24:0</td><td>0.01 0.01</td><td>0.01</td><td></td></tr><tr><td>C20:5n-3</td><td>1.92</td><td>1</td><td>1 0.24</td></tr><tr><td>C24:1</td><td>0.02</td><td>1 一</td><td>1</td></tr><tr><td>C22:6n-3</td><td>0.63</td><td></td><td>0.08</td></tr><tr><td>SFA</td><td>11.90</td><td>5.43 4.30</td><td>4.38</td></tr><tr><td>MUFA</td><td>35.14</td><td>22.95 21.89</td><td>22.73</td></tr><tr><td>PUFA</td><td>17.92</td><td>77.28 78.23</td><td>71.41</td></tr><tr><td>n-6 PUFA</td><td>13.44</td><td>73.22 76.36</td><td>70.90</td></tr><tr><td>n-3 PUFA</td><td>4.48</td><td>4.06 1.87</td><td>0.52</td></tr><tr><td>n-6/n-3 PUFA</td><td>3</td><td>18 41</td><td>136</td></tr></table></body></html>
+
+SFA：饱和脂肪酸 saturated fatty acids；MUFA：单不饱和脂肪酸 monounsaturated fattyicids；PUFA：多不饱和脂肪酸 polyunsaturated fatty acids。
+
+# 1.3 饲养管理
+
+本试验在中国农业科学院特产研究所毛皮动物试验基地完成。试验动物单笼饲养，从2014年10月13日开始，至2014年12月1日结束，预试期7d，正试期 $4 0 \mathrm { d }$ ，每天08：00和15：00各饲喂1次，自由饮水。
+
+# 1.4指标测定及方法
+
+# 1.4.1 饲粮中营养成分检测
+
+饲料中粗蛋白质含量参照GB/T6432—1994，采用凯氏定氮法测定；粗脂肪含量参照GB/T 6433—1994，采用索氏抽提法测定；粗灰分含量参照GB/T6438—1992，采用 $5 5 0 \mathrm { ~ \textdegree C }$ 灼烧法测定；钙含量参照GB/T6436—1992，采用乙二胺四乙酸(EDTA)络合滴定法测定；磷含量参照GB/T6437—1992中方法测定，赖氨酸和蛋氨酸含量参照GB/T18246-2000，采用酸提取法，使用全自动氨基酸分析仪（HITACHI，L-8900，日本）测定。饲粮脂肪酸采用甲酯化法进行前处理后，参照GB/T21514-2008，采用外标法，使用气质联用仪（Agilent,7890A-7000B）测定组成及各组分含量，具体测定条件参考陈小燕等[14]的方法。
+
+# 1.4.2 生长性能测定
+
+正式试验开始后，每天记录采食量，计算平均日采食量；称量初始体重和终末体重，计算平均日增重；根据平均日增重和平均日采食量计算料重比。
+
+试验结束后，将每组12只银黑狐全部屠宰，对每只银黑狐体长和鲜皮长进行测量。体长测定是将银黑狐放于水平地面上，用皮尺测量从鼻尖至尾根的距离。鲜皮长测定是将皮张上楦后，适量拉伸使皮张完全在楦板上展开。测量从鼻尖至尾根的距离。
+
+# 1.4.4血清样本采集及血清生化指标测定
+
+饲养试验结束后，每组随机选取8只健康银黑狐，称重后心脏采血 ${ \mathfrak { s } } _ { \mathrm { m L } }$ ，置于促凝采血管中，经在 $4 \mathrm { ~ \textdegree ~ . ~ } 4 0 0 0 \mathrm { r / m i n }$ 离心 $8 \mathrm { { m i n } }$ ，分离出血清至 $1 . 5 ~ \mathrm { m L }$ Eppendorf管中，置于 $. 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存备用。血清总蛋白（TP)、白蛋白(ALB)、甘油三酯(TG)、胆固醇(CHO)、高密度脂蛋白胆固醇(HDL-C)、低密度脂蛋白胆固醇(LDL-C)和葡萄糖(GLU）含量采用全自动生化分析仪（Selectra E，荷兰）测定，试剂盒均购自中生北控生物科技有限公司。血清尿素氮（UN)含量采用脲酶法通过紫外分光光度计测定，试剂盒购自南京建成生物工程研究所。血清免疫球蛋白 $\mathrm { A ( I g A ) }$ 、免疫球蛋白 $\mathrm { G } ( \mathrm { I g G } )$ 和免疫球蛋白 $\mathbf { M } ( \mathrm { { I g } \mathbf { M } ) }$ 含量采用酶联免疫吸附试验法测定，补体3(C3)、补体4(C4)含量采用免疫透射比浊法测定，白介素-2(IL-2)和肿瘤坏死因子(TNF)含量采用化学发光法测定。血清中免疫生化指标的检测均通过罗氏试剂盒检测。血清球蛋白
+
+(GLOB)含量是血清TG与ALB含量的差值。
+
+# 1.4.4肠道组织采集及肠道形态结构分析
+
+饲养试验结束后，每组12只银黑狐全部屠宰后，将每只银黑狐的空肠肠管纵向剖开，取上表面为 $1 \mathrm { { c m } \times 1 \mathrm { { c m } } }$ 的空肠组织1块，生理盐水冲洗后，放入 $10 \%$ 甲醛溶液中固定，然后将固定的标本经脱水、透明、浸蜡、包埋、修块、切片、展片、常规苏木精-伊红（HE）染色等步骤处理后，制成 $4 { \sim } 6 \mu \mathrm { m }$ 厚的石蜡切片[15]。挑选制作合格的切片，在显微镜(Leica DM1000，德国）100倍下随机选择多个非连续性视野观察切片，并挑选典型视野拍摄成图片，使用软件Toupview 测定绒毛高度、隐窝深度，并计算绒毛高度／隐窝深度（V/C)。每只动物取不相邻的6张切片，每个切片读取5个数据。
+
+# 1.5 数据整理与统计分析
+
+试验数据采用Excel2010进行整理，采用SAS8.0软件中一般线性模型（GLM）程序进行统计分析，多重比较采用Duncan氏法进行，其中 $P { < } 0 . 0 1$ 为差异极显著， $P { < } 0 . 0 5$ 为差异显著， $P { > } 0 . 0 5$ 为差异不显著。结果以"平均值 $\pm$ 标准差"表示。
+
+# 2结果
+
+2.1饲粮不同油脂比例对冬毛期雄性银黑狐生长性能的影响
+
+由表3可知，饲粮不同油脂比例对冬毛期银黑狐末重、平均日采食量、平均日增重、料重比和鲜皮长均无显著影响（ $P { > } 0 . 0 5 )$ ，但对银黑狐体长有显著影响（ $_ { . P < 0 . 0 5 ) }$ 。银黑狐体长表现为ⅡI组显著高于Ⅳ组（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ，其他组间差异不显著（ $P { > } 0 . 0 5 \$ )。
+
+表3饲粮不同油脂比例对冬毛期雄性银黑狐生长性能的影响  
+Table 3Effects of dietary different oil ratios on growth performance of male silver fox during winter-furring period   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>1</td><td>I</td><td>II</td><td>IV</td></tr><tr><td>始重 IBW/kg</td><td>5.48±0.78</td><td>5.58±0.87</td><td>5.49±0.37</td><td>5.25±0.69</td><td>0.836</td></tr><tr><td>末重 FBW/kg</td><td>6.32±0.73</td><td>6.36±0.78</td><td>6.15±0.29</td><td>5.93±0.58</td><td>0.559</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>275.68±19.80</td><td>298.17±17.09</td><td>282.45±23.68</td><td>271.12±36.24</td><td>0.445</td></tr><tr><td>平均日增重</td><td>23.13±4.97</td><td>21.57±3.79</td><td>18.42±4.34</td><td>18.89±5.83</td><td>0.150</td></tr><tr><td>ADG/(g/d) 料重比F/G</td><td>11.56±2.11</td><td>13.15±1.49</td><td>15.07±3.05</td><td>14.56±2.73</td><td>0.142</td></tr><tr><td>体长Body length/cm</td><td>71.67±1.54ab</td><td>72.40±1.67a</td><td>70.58±2.18ab</td><td>69.58±0.92b</td><td>0.048</td></tr><tr><td>鲜皮长 Fresh fur length/cm</td><td>106.60±2.97</td><td>107.33±2.80</td><td>105.00±2.65</td><td>104.00±1.00</td><td>0.219</td></tr></table></body></html>
+
+同行数据肩标不同大写字母表示差异极显著（ $_ { \cdot } P { < } 0 . 0 1 \rangle$ ，不同小写字母表示差异显著$( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $_ { ( P > 0 . 0 5 ) }$ 。下表同。
+
+In the same row, values with different capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ，and whit different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while with no letter or the same letter superscripts mean no significant difference
+
+$( P { > } 0 . 0 5 )$ . The same as below.
+
+2.2饲粮不同油脂比例对冬毛期雄性银黑狐血清糖脂代谢指标的影响
+
+由表4可知，饲粮不同油脂比例对冬毛期雄性银黑狐血清LDL-C含量有极显著影响中 $_ { . P < 0 . 0 1 }$ )，对血清TG含量有显著影响（ $\scriptstyle P < 0 . 0 5 ,$ ，对血清CHO、HDL-C、GIU含量均无显著影响（ $. P { > } 0 . 0 5 )$ 。其中，Ⅱ组血清TG含量显著低于I、II和IV组（ $. P { < } 0 . 0 5 )$ ，I、I和IV组间差异不显著（ $. P { > } 0 . 0 5 )$ ；I组血清LDL-C含量极显著高于II、III和IV组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）， $\mathrm { I I }$ 、IⅢ和IV组间差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+# 表4饲粮不同油脂比例对冬毛期雄性银黑狐血清糖脂代谢指标的影响
+
+Table 4Efects of dietary diferent oil ratios on serum glucose and lipid metabolism parameters of male silver fox during winter-furring period mmol/L   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>I</td><td>II</td><td>IV</td></tr><tr><td>甘油三酯 TG</td><td>1.11±0.27a</td><td>0.72±0.23b</td><td>1.36±0.26a</td><td>1.10±0.31a</td><td>0.012</td></tr><tr><td>胆固醇 CHO 高密度脂蛋白胆固</td><td>3.33±0.40</td><td>2.79±0.62</td><td>3.25±0.53</td><td>2.95±0.49</td><td>0.216</td></tr><tr><td>醇</td><td>2.94±0.40</td><td>2.51±0.41</td><td>2.71±0.45</td><td>2.62±0.44</td><td>0.341</td></tr><tr><td>HDL-C 低密度脂蛋白胆固</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>醇</td><td>0.06±0.02Aa</td><td>0.03±0.01Bb</td><td>0.02±0.01Bb</td><td>0.02±0.01Bb</td><td><0.001</td></tr><tr><td>LDL-C 葡萄糖 GLU</td><td>11.00±2.31</td><td>8.18±2.16</td><td>7.58±0.31</td><td>6.98±0.86</td><td>0.053</td></tr></table></body></html>
+
+2.3饲粮不同油脂比例对冬毛期雄性银黑狐血清蛋白质代谢指标的影响
+
+由表5可知，饲粮不同油脂比例对冬毛期雄性银黑狐血清GLOB含量有显著影响中 $( P { < } 0 . 0 5 )$ ，对血清TP、ALB和UN含量均无显著影响（ $. P { > } 0 . 0 5 )$ 。银黑狐血清GLOB含量表现为Ⅱ组显著高于IⅢI和IV组（ $_ { . P < 0 . 0 5 ) }$ ，其他组间差异不显著（ $\cdot P { > } 0 . 0 5 \$ )。
+
+表5饲粮不同油脂比例对冬毛期雄性银黑狐血清蛋白质代谢指标的影响
+
+Table 5Effects of dietary different oil ratios on serum protein metabolism parameters of male silver fox during winter-furring period   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>II</td><td>IⅢI</td><td>IV</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>57.61±4.32</td><td>62.30±3.79</td><td>58.43±3.45</td><td>57.57±3.43</td><td>0.152</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>36.30±2.41</td><td>39.44±3.34</td><td>38.71±2.82</td><td>38.80±2.37</td><td>0.197</td></tr><tr><td>球蛋白 GLOB/(g/L)</td><td>21.31±2.24ab</td><td>22.86±2.43a</td><td>19.71±1.98b</td><td>18.77±2.00b</td><td>0.018</td></tr><tr><td>尿素氮 UN/ (mmol/L)</td><td>8.01±1.41</td><td>8.88±0.54</td><td>7.44±1.30</td><td>7.96±0.59</td><td>0.186</td></tr></table></body></html>
+
+2.4饲粮不同油脂比例对冬毛期雄性银黑狐血清免疫指标的影响
+
+由表6可知，饲粮不同油脂比例对冬毛期雄性银黑狐血清C4含量有显著影响( $_ { . P < 0 . 0 5 ) }$ ，对血清IgA、IgM、IgG、C3、IL-2和TNF 含量均无显著影响（ $\scriptstyle P > 0 . 0 5 { \mathrm { . } }$ )。银黑狐血清C4含
+
+量表现为IⅢ组显著低于I、ⅡI和IV组（ $_ { , P < 0 . 0 5 ) }$ ，其他组间差异不显著（ $\cdot P { > } 0 . 0 5 )$ 。
+
+# 表6饲粮不同油脂比例对冬毛期雄性银黑狐血清免疫指标的影响
+
+Table 6Effects of dietary different oil ratios on serum immune parameters of male silver fox during winter-furring period   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>II</td><td>ⅢI</td><td>IV</td></tr><tr><td>免疫球蛋白A</td><td>3.76±0.12</td><td>3.83±0.56</td><td>3.67±0.19</td><td>3.87±0.22</td><td>0.814</td></tr><tr><td>IgA/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白M IgM/(ng/mL)</td><td>8.18±0.40</td><td>8.15±0.29</td><td>7.94±0.27</td><td>8.29±0.21</td><td>0.500</td></tr><tr><td>免疫球蛋白G</td><td>8.91±0.56</td><td>10.11±0.99</td><td>8.34±0.78</td><td>8.75±1.07</td><td>0.051</td></tr><tr><td>IgG/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>补体 3 C3/(ng/mL)</td><td>14.75±0.46</td><td>15.67±0.82</td><td>14.28±0.61</td><td>14.74±1.02</td><td>0.092</td></tr><tr><td>补体 4 C4/(ng/mL)</td><td>37.60±0.99a</td><td>37.98±1.06a</td><td>35.78±0.57b</td><td>37.71±1.41a</td><td>0.036</td></tr><tr><td>肿瘤坏死因子 TNF/(fmol/mL)</td><td>16.65±1.65</td><td>17.69±0.87</td><td>17.09±2.08</td><td>16.93±2.79</td><td>0.774</td></tr><tr><td>白介素-2</td><td>2.82±0.34</td><td>2.95±0.34</td><td>2.98±0.36</td><td>3.21±0.63</td><td>0.451</td></tr></table></body></html>
+
+2.5饲粮不同油脂比例对冬毛期雄性银黑狐肠道形态结构的影响
+
+由表7可知，饲粮不同油脂比例对冬毛期雄性银黑狐肠道绒毛高度、隐窝深度和绒毛高度/隐窝深度均产生了极显著影响（ $( P { < } 0 . 0 1 )$ 。其中，绒毛高度表现为Ⅱ组极显著高于I、ⅢI和IⅣ组（ $. P { < } 0 . 0 1 \ \cdot$ )，II和IV组极显著高于I组（ $_ { . } { \cal P } { < } 0 . 0 1 \$ )，II和IV组间差异不显著（ $. P { > } 0 . 0 5 )$ ：隐窝深度表现为I组极显著高于ⅡI、IⅢ和IV组 $( P { \ < } 0 . 0 1 )$ )，I、IⅢ和IV组间差异不显著 ${ ( P { > } 0 . 0 5 ) }$ 绒毛高度/隐窝深度表现为I组极显著低于 $\mathrm { I I }$ 、IⅢ和IⅣ组（ $_ { \cdot  { P } < 0 . 0 1 }$ )，IV组显著低于Ⅱ组中 $( P { < } 0 . 0 5 )$ ，其他组间差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。
+
+表7饲粮不同油脂比例对冬毛期雄性银黑狐肠道形态结构的影响  
+Table 7Effects of dietary different oil ratios on intestinal morphology of male silver fox during winter-furring period   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>I</td><td>I</td><td>ⅢI</td><td>IV</td></tr><tr><td>绒毛高度 Villous height/mm</td><td>6.70±0.11Cc</td><td>7.95±0.62Aa</td><td>7.42±0.75Bb</td><td>7.22±0.19Bb</td><td><0.001</td></tr><tr><td>隐窝深度 Cryptdepth/mm</td><td>4.43±0.24Aa</td><td>2.69±0.21Bb</td><td>2.99±0.69Bb</td><td>2.79±0.14Bb</td><td><0.001</td></tr><tr><td>绒毛高度/隐窝深度 V/C</td><td>1.52±0.08Bc</td><td>2.97±0.26Aa</td><td>2.66±0.83Aab</td><td>2.60±0.14Ab</td><td><0.001</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮不同油脂比例对冬毛期雄性银黑狐生长性能的影响
+
+研究表明，饲粮不同油脂比例通过影响动物机体代谢、改善饲粮消化水平从而对动物生产性能产生影响[16]。研究报道，不同油脂配比的饲粮对扬州鹅生产性能无显著影响[17]。蛋鸡饲粮中添加脂肪酸饱和程度和双键位置不同的油脂，对蛋鸡的采食量、产蛋率、蛋重和体重等均无显著影响[18]。不同油脂比例的饲粮极显著影响冬毛期北极狐的生长性能，且饲喂$1 . 5 \%$ 鱼油和 $12 . 5 \%$ 玉米油组合的饲粮时北极狐的生长性能较好[9]。本试验结果显示，饲粮不同油脂比例对冬毛期雄性银黑狐体重、鲜皮长均无显著影响，但对银黑狐的体长有显著影响，与上述研究结果报道不尽相同，可能是由于银黑狐和北极狐虽同是犬科，但为不同属，进入冬毛生长期的狐主要是促进皮毛生长及囤积脂肪以抵御严寒，由于2种狐属在脂肪酸利用与沉积上存在差异[13]，可能是导致生长性能结果出现不同的主要原因，具体机制还有待于进一步研究。
+
+# 3.2饲粮不同油脂比例对冬毛期雄性银黑狐血清糖脂代谢指标的影响
+
+油脂的类型和配比能决定 $\mathtt { n } { - } 6$ 和n-3PUFA的摄入量，由于n-6和n-3PUFA均是类二十烷酸的有效前体，故而磷脂中PUFA的组成情况与慢性疾病(如冠状动脉心脏病、高血压、癌症等)有一定关联[19-20]，因此人类已逐渐关注摄入的油脂类型。在畜禽养殖生产中为了获取优质的畜禽产品，研究人员在油脂来源选用和配比应用上已开展了大量研究。研究表明，摄入含n-3 PUFA的油脂能有效降低血浆中CHO、TG 和LDL-C 的含量，升高HDL-C 的含量[21-23]。一些研究报道，不同油脂配比能调配出适宜的 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值，并坚持长期饲喂能降低动物血脂水平[8,10,24]。本试验结果显示， $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油组合的饲粮组（饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为18）血清中TG含量较其他油脂配比组极显著降低，该组血清中LDL-C 含量也相对较低，但各组之间血清TC、HDL-C和GLU含量无显著差异，这与上述研究结果相一致，说明适宜的油脂配比（平衡的 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值)更有利于机体保持正常的血脂代谢[25]。本试验中， $12 . 0 0 \%$ 鱼油和 $2 . 0 0 \%$ 豆油组合的饲粮组（I组）血清TG、TC、LDL-C和GLU含量均略高于其他组，与钟伟等8在北极狐上的研究结果相一致，由于该组饲粮中鱼油含量较高，导致所含的饱和脂肪酸（SFA）含量相对较高，这可能是引起银黑狐血脂水平较高的主要原因。
+
+3.3饲粮不同油脂比例对冬毛期雄性银黑狐血清蛋白质代谢指标的影响
+
+正常情况下，机体能够保证血液中血清蛋白质的平衡，从而维持机体的正常生理功能。血清 TP 是机体蛋白质的一个来源，用于修补组织和提供能量，在一定程度上也代表了饲粮的蛋白质水平以及动物对蛋白质的消化吸收程度。余红心等[26]研究表明，血清TP、ALB 含量随着饲粮蛋白质水平的升高而增加。本试验中各组饲粮的蛋白质水平基本一致，这可能是导致各组血清TP、ALb、UN含量无显著变化的主要原因，但 $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油组合的饲粮组（ⅡI组)血清GLOB含量显著高于 $12 . 0 0 \%$ 玉米油和 $2 . 0 0 \%$ 豆油组合（Ⅲ组） $1 . 5 \%$ 鱼油和 $12 . 5 \%$ 玉米油组合的饲粮（IV组)，与 $12 . 0 0 \%$ 鱼油和 $2 . 0 0 \%$ 豆油组合的饲粮（I组）差异不显著。血清GLOB含量的高低与动物机体免疫强弱相关，上述结果说明，在本试验条件下， $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值相对较低的饲粮有利于银黑狐保持较好的免疫状态，这与喻礼怀[10]研究结果相一致，表明较低 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA 比值的饲粮会使机体处于较好的免疫状态。
+
+3.4饲粮不同油脂比例对冬毛期雄性银黑狐血清免疫指标的影响
+
+研究发现，适当摄入n-3PUFA含量高的油脂，,如鱼油，能提高机体的免疫机能。n-3PUFA是细胞膜磷脂的主要结构成分，能够调节细胞膜上免疫受体和分子表达，从而影响细胞的免疫反应[3]。 $\mathrm { n } { - } 3$ 与n-6PUFA在影响机体免疫机制方面发生竞争效应， $\mathtt { n } { - } 3$ PUFA对动物机体的免疫性能具有促进作用； $\mathtt { n } { - } 6$ PUFA在体内代谢合成类二十烷酸，具有较强的促血管收缩、血小板聚集和细胞趋化等作用，进而产生一定的免疫抑制作用[27-29]。饲粮不同油脂配比能够调节 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值，从而影响机体免疫反应[7]，饲粮 $\mathrm { n } { - } 6$ 与 $\mathtt { n } { - } 3$ PUFA供应不平衡则可能成为机体免疫抑制剂[30]。研究表明，饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值对北极狐血清C4含量有显著影响，对血清 IgA、IgM、IgG、C3、IL-2 和 TNF 含量均无显著影响[8]。本试验结果与此研究结果相一致，从 $\displaystyle { \mathrm { ~ I ~ } \sim \mathrm { I V } }$ 组，饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值逐渐升高，n-3PUFA含量呈逐渐降低趋势、 $\mathtt { n } { - } 6$ PUFA含量呈逐渐升高趋势，由于 $\mathtt { n } { - } 3$ 和 $\mathtt { n } { - } 6$ PUFA在脱饱和酶上存在竞争，这种免疫机制竞争效应可能是导致银黑狐血清免疫指标未发生显著变化的主要原因，但当饲喂$12 . 0 0 \%$ 玉米油和 $2 . 0 0 \%$ 豆油组合的饲粮（饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值为41）时，银黑狐血清C4含量显著低于饲喂其他饲粮时，说明 $12 . 0 0 \%$ 玉米油和 $2 . 0 0 \%$ 豆油配出的高含量 $\mathrm { n } { - } 6$ PUFA与较低含量n-3PUFA产生的免疫抑制作用明显高于其他油脂组合对血清C4含量的影响，具体机理还有待于进一步的研究。
+
+3.5饲粮不同油脂比例对冬毛期雄性银黑狐肠道形态结构的影响
+
+银黑狐属于食肉目犬科动物，肠道较短，其长度仅为体长的 $3 { \sim } 4$ 倍，饲粮在肠道内消化时间短，小肠作为饲粮营养物质消化吸收的主要部位，其绒毛高度、隐窝深度及绒毛高度/隐窝深度是反映肠道消化功能状态的主要指标[31]。绒毛高度与细胞数呈显著相关，只有成熟细胞才具有吸收养分的功能，绒毛高时，成熟细胞多，养分吸收能力强。隐窝深度反映细胞生成率，隐窝变浅，表明细胞成熟率上升，分泌功能增强[32]。绒毛高度/隐窝深度能综合反映小肠的功能状态，较高的绒毛高度/隐窝深度反映了较高的养分吸收能力[15]。研究表明，n-3 PUFA可以增加肠道内一些益生菌的数量，通过改善肠道菌群、增加黏膜厚度，来提高肠道黏膜屏障功能[4]。研究报道，降低小鼠体内 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ PUFA比值，影响了其下丘脑饮食相关基因的表达及小肠组织中自噬的情况，有利于益生菌数量的增加[33]。本试验结果显示，饲喂由 $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油组合的饲粮（n-6/n-3PUFA比例为18）时，银黑狐肠道绒毛高度最高，隐窝深度最浅，绒毛高度/隐窝深度最大，说明由 $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油组合的饲粮改善了银黑狐的肠道形态结构，提高了肠道对营养物质的消化吸收能力。
+
+# 4结论
+
+综合本试验结果可知，饲粮油脂来源为 $9 . 3 8 \%$ 玉米油和 $4 . 6 2 \%$ 豆油时，降低了血清中TG和 LDL-C 的含量，升高了血清中GLOB的含量，改善了肠道形态结构，从而促进了冬毛期雄性银黑狐体长的增加。
+
+# 参考文献:
+
+[1]COHUET G,STRUIJKER-BOUDIER H.Mechanisms of target organ damage caused byhypertension:therapeutic potential[J].Pharmacology & Therapeutics,2006,111(1):81-98.  
+[2]HULVER M W,BERGGREN JR,CORTRIGHT R N,et al.Skeletal muscle lipid metabolismwith obesity[J].AmericanJournalofPhysiology： Endocrinology andMetabolism,2003,284(4):E741-E747.  
+[3]王新颖,黎介寿.o-3多不饱和脂肪酸在不同疾病中的应用研究[J].肠外与肠内营养,2007,14(3):177-182.  
+[4]乔立君,郑征,马文慧,等.多不饱和脂肪酸对大鼠肠道菌群及脂肪代谢相关基因的影响[J].食品科学,2014,35(17):231-235.  
+[5]郭艳,苏宜香.不同脂肪酸构成比对小鼠血脂影响的实验研究[J].营养学报,2004,26(1):5-8.  
+[6]SHEARER G C,HARRIS W S,PEDERSEN T L,et al.Detection of omega-3 oxylipins inhuman plasma and response to treatment with omega-3 acid ethyl esters[J].Journal of LipidResearch,2010,51(8):2074-2081.  
+[7]段叶辉,李凤娜,李丽立,等 $. \mathrm { n - } 6 / \mathrm { n - } 3$ 多不饱和脂肪酸比例对机体生理功能的调节[J].天然产物研究与开发,2014,26(4):626-631,479.  
+[8]钟伟,张婷,罗婧,等.饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 多不饱和脂肪酸配比对北极狐冬毛期体脂沉积、体脂肪酸组成及血液生化指标的影响[J].畜牧兽医学报,2017,48(6):1054-1065.  
+[9]钟伟,张婷,罗婧,等.饲粮 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 多不饱和脂肪酸比值对冬毛期北极狐生长性能及肝脏脂肪酸代谢相关蛋白基因表达的影响[J].动物营养学报,2017,29(3):906-915.  
+[10]喻礼怀.饲粮脂肪酸 $\mathrm { \omega } { \cdot } 6 / \mathrm { \omega } { - 3 }$ 对鹅脂肪代谢影响及其分子机制的研究[D].博士学位论文.
+
+扬州：扬州大学,2012:34-43.   
+[11]英永.不同比例 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 不饱和脂肪酸对鸡免疫功能的影响[D].硕士学位论文.兰州:甘肃 农业大学,2008:20-32.   
+[12]夏兆刚,呙于明,陈士勇,等.不同 $\mathrm { n } { - } 3 / \mathrm { n } { - } 6$ 多不饱和脂肪酸对产蛋鸡免疫功能的影响[J].中 国兽医杂志,2004,40(7):6-9.   
+[13] ROUVINEN K.Dietary Effects of omega-3 polyunsaturated fatty acids on body fat composition and health status of farm-raised blue and silver foxes[J].Acta Agriculturae Scandinavica,1991,41(4):401-414.   
+[14]陈小燕,王友升,李丽萍.3种色谱柱对37种脂肪酸的分离性能比较及鱼油脂肪酸检测[J]. 食品科学,2011,32(22):156-162.   
+[15]WU Y B,RAVINDRAN V,THOMAS D G,et al.Influence of method of whole wheat inclusionandxylanasesupplementationontheperformance,apparentmetabolisable energy,digestive tract measurementsand gut morphology of broilers[J].British Poultry Science,2004,45(3):385-394.   
+[16]沈曼曼.@-6、@-3多不饱和脂肪酸及其比值对畜禽影响的研究进展[J].广东饲 料,2012,21(12):32-35.   
+[17]喻礼怀,王剑飞,王梦芝,等 $. \mathrm { n - } 6 / \mathrm { n - } 3$ 多不饱和脂肪酸不同比例对扬州鹅生产性能和屠宰 性能的影响[J].中国家禽,2012,34(23):18-22.   
+[18]夏中生,陈继新,谢梅冬,等.饲粮油脂对蛋鸡生产性能、血清脂质含量和蛋黄脂肪酸组成 的影响[J].广西农业生物科学,2003,22(3):171-177.   
+[19]SIMOPOULOS A P.Evolutionary aspects of diet,the omega-6/omega-3 ratio and genetic variation:nutritional implicationsforchronic diseases[J].Biomedicine& Pharmacotherapy,2006,60(9):502-507.   
+[20]SIMOPOULOS A P.Evolutionary aspects of diet:the omega-6/omega-3 ratio and the brain[J].Molecular Neurobiology,2011,44(2):203-215.   
+[21]PIRILLO A,CATAPANO A L.Omega-3 polyunsaturated fatty acids in the treatment of atherogenic dyslipidemia[J].Atherosclerosis Supplements,2013,14(2):237-242.   
+[22]ISHIDA T,OHTA M,NAKAKUKI M,et al.Distinct regulation of plasma LDL cholesterol by eicosapentaenoic acid and docosahexaenoic acid in high fat diet-fed hamsters:participation of cholesterol ester transfer protein and LDL receptor[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,2013,88(4):281-288.   
+[23]SCHUCHARDT J P,NEUBRONNER J,BLOCK R C,et al.Associations between omega-3 index increase and triacylglyceride decrease in subjects with hypertriglyceridemia in response to six month of EPA and DHA supplementation[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,2014,91(4):129-134.   
+[24]LEE S P S,DART A M,WALKER K Z,et al.Effect of altering dietary n-6:n-3 PUFA ratio on cardiovascular risk measures in patients treated with statins:a pilot study[J].British Journal of Nutrition,2012,108(7):1280-1285.   
+[25]舒晓亮,蔡东联.膳食脂肪酸及 $\mathrm { n } { - } 6 / \mathrm { n } { - } 3$ 比与血脂及脂质过氧化关系的研究进展[J].肠外 与肠内营养,2007,14(4):246-249.   
+[26]余红心,贾俊静,李琦华,等.不同蛋白质水平日粮对云南武定鸡生长性能及血液生化指 标的影响[J].中国饲料,2008(5):24-26.   
+[27]高士争,雷风.日粮脂肪来源对肉鸡免疫功能的影响[J].中国家禽,1999,21(3):4-6. [28]陈士勇,呙于明,夏兆刚,等.不同类型多不饱和脂肪酸对产蛋鸡免疫功能及肝脏脂质过 氧化的影响[J].营养学报,2003,25(4):383-388.   
+[29]汪鲲,高占峰,齐广海,等.富含n-3PUFA蛋黄保健作用的研究[J].饲料工 业,2000,21(8):1-4.   
+[30] GRIMM H,TIBELL A,NORRLIND B,et al.Immunoregulation by parenteral lipids:impact of the n-3 to n-6 fatty acid ratio[J].Journal of Parenteral & Enteral Nutrition,1994,18(5):417-421. [31]WINZELL M S,SVENSSON H,ARNER P,et al.The expression of hormone-sensitive lipase inclonal $\beta \mathrm { . }$ -cellsandratisletsisinducedbylong-termexposuretohigh glucose[J].Diabetes,2001,50(10):2225-2230.   
+[32]韩正康.家畜营养生理学[M].北京:农业出版社,1993:16-17.   
+[33]马爽爽.内源性ω-3PUFAs增加对小鼠体重及肠道益生菌的影响[D].硕士学位论文.青岛: 青岛大学,2016:30-33.   
+Effects of Dietary Different Oil Ratios on Growth Performance, Serum Biochemical Parameters and Intestinal Morphology of Male Silver Foxes during Winter-Furring Period ZHONG WeiLUO JingZHANG TingSUN Xuyang LI Guangyu\*   
+(State Key Laboratory of Special Economic Animal Molecular Biology,Institute of Special Animal and Plant Science, Chinese Academy of Agriculture Sciences, Changchun 130112, China)
+
+Abstract: This experiment was conducted to study the effects of dietary different oil ratios on growth performance， serum biochemical parameters and intestinal morphology of male silver foxes during winter-furring period. Forty-eight 157-day-old male silver foxes with an average body weight of $\langle 5 4 5 0 { \pm } 1 4 0 \rangle$ ） $\mathbf { g }$ were randomly divided into 4 groups with 12 replicates per group and 1 fox per replicate,and they were fed experimental diets containing $14 \%$ oil but with different oil ratios. In the four experimental diets,the composition and proportion of oils were $12 . 0 \%$ fish oil and $2 . 0 0 \%$ soybean oil (group I), $9 . 3 8 \%$ corn oil and $4 . 6 2 \%$ soybean oil (group II), $12 . 0 \%$ corn oil and $2 . 0 0 \%$ soybean oil (group III), $1 . 5 0 \%$ fish oil and $12 . 5 0 \%$ corn oil (group IV), respectively. The experiment was 7 days for adaption and 4O days for trial period. The results showed as follows: 1） dietary different oil ratios significantly affected body length $( P { < } 0 . 0 5 )$ ,but did not significantly affect final weight, average daily gain, average daily feed intake, fed/gain and fresh fur length $( P { > } 0 . 0 5 )$ . The body length of group II was significantly higher than that of group IV $( P { < } 0 . 0 5 )$ ,but had no significant difference compared with groups I and III $( P { > } 0 . 0 5 )$ .2) Dietary different oil ratios significantly or extremely significantly afected serum triglyceride (TG) and low density lipoprotein cholesterol (LDL-C） contents $_ { ( P < 0 . 0 5 }$ or $P { \ < } 0 . 0 1$ )，but did not significantly affect serum high density lipoprotein cholesterol (HDL-C), cholesterol (CHO) and glucose (GLU) contents（ $P { > } 0 . 0 5 \$ ）.The serum TG content of group II was significantly lower than that of groups I,III and IV ( $( P { < } 0 . 0 5 )$ ). The serum LDL-C content of group I was extremely significantly higher than that of groups II, III and IV $( P { < } 0 . 0 1 )$ . 3）Dietary different oil ratios significantly affected serum globulin (GLOB） content $( P { < } 0 . 0 5 )$ ， but did not significantly affect serum total protein(TP),albumin(ALB) and urea nitrogen (UN) contents $( P { > } 0 . 0 5 )$ . The serum GLOB content of group II was significantly higher than that of groups II and IV $( P { < } 0 . 0 5 )$ , but no significant difference was found between groups I and II $_ { ( P > 0 . 0 5 ) }$ . 4) Dietary different oil ratios significantly affected serum complement 4 (C4) content $( P { < } 0 . 0 5 )$ , but did not significantly affect serum immunoglobulin A (IgA)， immunoglobulin M (IgM)， immunoglobulin G (IgG), complement 3(C3), tumor necrosis factor(TNF） and interleukin-2 (IL-2) contents $( P { > } 0 . 0 5 )$ . The serum C4 content of group III was significantly lower than that of group I， II and IV $_ { ( P < 0 . 0 5 ) }$ ， and there was no significant difference among groups I， II and IV $( P { > } 0 . 0 5 )$ . 5) Dietary different oil ratios extremely significantly affected intestinal villous height crypt depth and villous height/crypt depth $( P { < } 0 . 0 1 )$ . The villous height of group I was extremely significantly higher than that of groups I，III and IV $( P { < } 0 . 0 1 )$ ，and the villous height of groups IIl and $\mathrm { I V }$ was extremely significantly higher than that of group I $( P { < } 0 . 0 1 )$ . The crypt depth of group I was extremely significantly higher than that of groups $\mathrm { I I }$ , III and IV $( P { < } 0 . 0 1 )$ ，while no significant difference among groups II , III and IV $( P { > } 0 . 0 5 )$ . The villous height/crypt depth in group II was extremely significantly higher than that of group I $( P { < } 0 . 0 1 )$ ,and significantly higher than that of group IV $( P { < } 0 . 0 5 )$ ， but had no significant difference compared with group III $( P { > } 0 . 0 5 )$ . The results of this experiment indicate that diet containing $9 . 3 8 \%$ corn $0 \dot { 1 } 1 + 4 . 6 2 \%$ soybean oil as oil source can reduce serum TG and LDL-C contents,enhance serum GLOB content, improve intestinal morphology, which is beneficial to promote the body length of male silver foxes during winter-furring period.
+
+Key words: oil ratio; silver fox; growth performance; serum biochemical parameters; intestinal morphology

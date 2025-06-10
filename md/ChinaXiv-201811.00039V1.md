@@ -1,0 +1,197 @@
+# 新疆克里雅河径流量变化的气候响应
+
+王大伟},²，师庆东}²，董弟文'²，陈朝军3(1．新疆大学资源与环境科学学院,新疆 乌鲁木齐830046；2．新疆大学绿洲生态教育部重点实验室，新疆乌鲁木齐830046；3．西南大学地理科学学院，重庆400715)
+
+摘要：基于1957—2013年克里雅河源流区兰干水文站径流、气温、降水观测数据,运用小波分析、M-K突变等方法，以时间序列进行非线性、多尺度响应分析。结果表明： $\textcircled{1}$ 克里雅河径流量和气温呈非线性显著上升，降水量和蒸发量略有上升。 $\textcircled{2}$ 在年际尺度上,源流区径流存在8a周期,气温、降水存在12a周期;在年代际尺度上,径流存在22a周期，气温、降水、蒸发量存在 $2 8 \mathrm { ~ a ~ }$ 周期，同时蒸发量还存有22a周期。 $\textcircled{3}$ 在年际尺度上，径流与降水成正相关,而与气温、蒸发量成负相关;在年代际尺度上，径流与气温相关性更高，受气温影响更显著。 $\textcircled{4}$ 在周期振荡上,气温与蒸发量具有一致性;在对气候变化响应上,径流对气温、降水、蒸发变化呈交错滞后响应,该模式对克里雅河径流有削丰补枯的调节作用。 $\textcircled{5}$ 与乌鲁木齐河相比,克里雅河径流较乌鲁木齐河在突变时间上存在近 $1 0 \mathrm { ~ a ~ }$ 滞后,20 世纪90年代克里雅河流域气温的异常偏低是引起突变滞后的主要原因。
+
+关键词：径流量；气候变化；多尺度响应；小波分析；克里雅河；新疆
+
+水是人类社会生存与发展不可或缺的自然资源，也是影响我国干旱、半干旱地区社会经济和生态环境可持续发展的重大瓶颈[1]。在IPCC 第五次气候变化评估报告中，全球变暖加剧成为无法改变的趋势[2],特别是北半球中纬度地区变暖趋势更加明显[3]。气候变化会对水循环产生影响,使得水资源在时间和空间上重新分配，进而造成部分地区水资源问题更加突出(4-5]。近几十年,我国西北地区气候趋向“暖湿”6],气温、降水等气候要素发生明显变化[7-8],这些要素的变化必将对区域径流带来影响。径流作为区域水资源管理、供水规划、生态恢复等的决策依据，对其变化规律的认识和未来流量估算是区域决策的重要前提。同时，径流作为气候变化的敏感响应因子，掌握其与气候变化响应关系，对认识区域水文规律，科学应对气候变化具有重要意义。
+
+目前，针对我国西北干旱区径流与气候变化响应已有较多研究[9-13]。蓝永超等[9-10]通过对天山、祁连山径流分析得出，山区径流对气候变化响应存在明显的地域差异;折远洋等["对乌鲁木齐河径流分析表明，20 世纪90 年代后乌鲁木齐河源径流量的减少与气温升高、蒸散能力增强、地下冰结构变化及冰川融水补给能力下降有关;张强等[1-13]通过对祁连山内陆河流域大气水循环特征研究，得出祁连山区降水除与海拔有关外，还受大气环流系统活动影响;王维霞等[14]通过对开都河径流量变化分析得出，前期冬季降水量与当年春季增温均对春季径流量有极显著影响。纵观这些研究，多集中于祁连山区和天山山区，但对我国南疆昆仑山区径流变化缺乏研究。与天山、祁连山区域内陆河相比[9,12],因受地形及塔克拉玛干沙漠影响，昆仑山北缘的南疆内陆河流域降水极少，蒸发量极高，气候异常干旱。因此，径流是昆仑山北缘诸绿洲存活的关键，径流对流域绿洲发展及生态稳定极具意义。克里雅河发源于昆仑山区，是维系于田绿洲和尾闾达里雅博依绿洲的关键水源，历史上曾是圆沙、喀拉墩等古绿洲的水源。研究克里雅河径流与气候变化响应关系，不仅对现有绿洲稳定和昆仑山区径流评估具有重要意义，而且对理解古绿洲消亡与变迁也极具意义。因此，本文以克里雅河为研究对象，采用小波分析等方法，就克里雅河径流特征与气候变化响应关系进行分析，以期为克里雅河流域水资源管理及流域生态稳定提供科学指导。同时为昆仑山区河川径流量的准确评估和预测提供科学参考。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+克里雅河发源于昆仑山北缘，向北流向塔克拉玛干沙漠腹地，河流全长 $4 3 8 ~ \mathrm { k m }$ ，是中游于田绿洲和尾闾达里雅博依绿洲存活的关键水源（图1）。今因人口及耕地面积剧增，中游过量引水，使下游输水逐年减少,造成尾闾绿洲日渐萎缩[15]。克里雅河源流出山口兰干水文站以上集水面积 $7 ~ 3 5 8 ~ \mathrm { k m } ^ { 2 }$ ,多年平均径流量 $7 . 2 2 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。流域内干旱少雨,蒸发量大，其多年平均降水 $1 2 2 . 6 ~ \mathrm { m m }$ ，年平均气温9.53$\mathcal { \mathrm { C } }$ ,年平均蒸发量 $1 ~ 8 3 9 . 9 ~ \mathrm { m m }$ 。兰干水文站以上地表径流均形成于出山口上游（库拉甫河和喀什塔什河两大支流交汇点以上）山区流域，人类活动对径流量的干扰少，可视为天然径流。
+
+# 1.2 数据来源
+
+克里雅河1957—2013年径流数据为河流出山□兰干水文站实测数据。1957—2013年气温、降水、蒸发量数据来自中国气象数据网（http://data.cma.cn）。其中，蒸发量因2002年后改用大型器测，与原来小型器测值存在差异，为数据统一，2002年后蒸发量是在原有实测数据基础上，加了1999 年和2000年大型器测与小型器测年差异平均值。乌鲁木齐河1959—2010 年径流、气温、降水数据来自中国天山冰川观测试验站。
+
+![](images/0a571efa8bf3d50cd2554e04973c25f6739803504d881ba75f7862dd9d5f9488.jpg)  
+图1克里雅河流域Landsat8(RGB-752)影像 Fig.1Landsat8（RGB-752）image of the Keriya River Basin
+
+# 1.3 研究方法
+
+1.3.1累积距平累积距平是一种判断变化趋势的常用方法。对于序列 $x$ ,其某一时刻 $\mathbf { \chi } _ { t }$ 的累积距平表示为：
+
+$$
+X _ { t } \ = \ \sum _ { i = 1 } ^ { t } \left( x _ { i } - { \bar { x } } \right) , \ t \ = \ 1 , 2 , \cdots , n
+$$
+
+其中，
+
+$$
+\bar { x } \ = \ \frac 1 { n } \sum _ { i \ = 1 } ^ { n } x _ { i }
+$$
+
+计算出 $n$ 个时刻的累积距平值，然后绘制累积距平曲线进行趋势分析。曲线上升表示要素值增大,曲线下降表示要素值减小(16)
+
+1.3.2 M-K突变检验M-K突变检验是一种非参数统计检验方法，其不仅可以看出突变发生的区域，而且可以确定突变发生的具体年份，被广泛应用于水文序列和气候参数的分析。本文主要利用M-K方法对气候水文要素进行突变性检验。方法详述参见文献[17]。
+
+1.3.3小波分析小波分析的基本原理是通过增加或减小伸缩尺度 $\mathbf { \Delta } _ { a }$ 来得到信号的低频或高频信息（即小波系数），然后分析信号的概貌或细节，实现对信号不同时间尺度和空间局部特征的分析。本文采用离散正交小波和Morlet连续复小波对气候水文要素进行非线性多尺度变化分析，具体算法详见文献[17]。离散正交小波变换对信号有一种能量“集中"能力,能使信号的能量集中于小波变换域的少数系数上[18-19]。基于这一特性,对时间序列进行非线性的去噪比传统的设定阈值去噪更能突出序列的真实变化。Morlet连续复小波变换的时-频多分辨功能，能清晰揭示隐藏在序列中的多尺度周期变化和多层次演变规律[17]
+
+# 2径流变化趋势及多尺度特征
+
+# 2.1 总趋势和突变性
+
+为了清晰表示序列在年际和年代际两种尺度上的变化趋势，笔者在离散正交小波进行滤波处理时对时间序列设置了3、4两种滤波参数（图2）。时间序列突变性采用M-K突变检验法，置信水平 $\alpha =$ 0.05，置信区间为 $\pm 1 . 9 6$ 。
+
+![](images/8e7866eca6c3ab54164396ae27b16d7a656fd4bb936c30d35e9b2de2d9cc4bc7.jpg)  
+注：“虚线"滤波参数为4,反映序列总趋势；“黑线”滤波参数为3,反映序列在不同年代下的趋势。  
+图2克里雅河源流区径流的离散正交小波变换和M-K突变检验
+
+经滤波(图2a)看出：过去 $5 7 \mathrm { ~ a ~ }$ ,克里雅河径流量在年代际尺度上呈显著非线性增加（虚线）；在年际尺度上则经历了“增一减一增一减一增”波动过程（黑线），具体为1957—1966年增、1967—1976年减、1977—1984 年增、1985—1993 年减、1994—2013年增，非线性趋势明显。M-K检验(图2b)得出，克里雅河径流于2002年发生突变，由原来的波动变化转为明显上升，且这种趋势显著,通过了 $\alpha = 0 . \ 0 5$ 显著性检验（UF值大于0，表明序列呈上升趋势，小于0则呈下降趋势。当 $U F$ 曲线超过临界直线时,表明上升或下降趋势显著。如果 $U F , U B$ 两条曲线存在交点，且交点在临界线之间，则交点对应的年份便是突变开始的时间）。经计算，2000年后径流量均值比1957—1999 年均值高 $2 . 4 5 \times 1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ，净增加 $3 5 . 3 \%$ 。
+
+# 2.2 多尺度周期特征
+
+为进一步揭示克里雅河径流变化规律，对径流量进行Morlet连续复小波变换。其中小波方差随尺度 $\mathbf { \Delta } _ { a }$ 的变化过程，可被用来确定信号中不同种尺度扰动的相对强度和存在的主要时间尺度,即主周期;小波系数实部等值线图可通过系数大小变化判别序列在时间域内不同尺度下的丰枯变化，趋正代表丰水期，趋负代表枯水期。在计算小波系数过程中，对边界处理采用了对称延伸。
+
+从图3小波方差曲线看出，其存在3个明显峰值，分别为3a、8a和 $2 2 \mathrm { ~ a ~ }$ 。其中最大峰值对应22a,说明22a周期性振荡最强，为径流量变化第一主周期； $8 \mathrm { ~ a ~ } , 3$ a分别对应第二、三周期。这也说明上述3个周期波动控制径流在整个时间域内的多尺度变化特征。结合图3中小波系数等值线图，径流在整个时间域交替出现5个高值和4个低值中心（依次为1957、1963、1967、1979、1989、1997、2003、2009、2013年），说明过去57a，克里雅河经历了“丰—枯—丰—枯—丰—枯—丰—枯—丰"交替变
+
+![](images/05217f21699ef4fe68d07f9c509129cfb668338a2e7ddf455cdeab6eb8d006d8.jpg)  
+Fig.2Discrete Orthogonal Transformand M-K mutation testof runoff volume in the headwaters of the Keriya Rivi   
+图3克里雅河径流小波方差和小波系数等值线图
+
+Fig.3Contour map of wavelet variances and wavelet coefficients of runof volume of the Keriya River化。2013年处于等值线未闭合高值区，表明克里雅河目前处于丰水期。但从提取的径流22a和8a振荡周期看出（图4，小波系数 $> 0$ 为丰水期;小波系数 $< 0$ 为枯水期)，在8a周期内径流呈现出由枯向丰转变趋势，但在22a周期内径流已越过丰水期波峰，由丰向枯转变。由此表明,短期内，克里雅河将处于丰水期，但长期来说，克里雅河已处于由丰向枯的主周期转变。
+
+![](images/0cca631d9e19176380e41450e9f0bf96077421fc7ff09bbecb6ccf2f2c16704b.jpg)  
+图4 克里雅河径流在8a和22a周期下的小波系数Fig. 4 Wavelet coefficients of runoff volume of the KeriyaRiver in8aand 22a periods  
+图5克里雅河流域气温、降水、蒸发量的离散正交小波变换、M-K突变检验和小波方差 Fig.5Discrete Orthogonal Transform，M-K mutation test and wavelet variances of air temperature,precipitation, and evaporation in the Keriya River Basin
+
+# 3径流对气候变化的多尺度响应
+
+# 3.1 气候变化特征
+
+3.1.1气温变化由图5a看出，气温在1957—2013年总体呈非线性增加，具体经过了1957一1995年下降、1996—2005年上升、2006—2013年下降的波动变化。经M-K突变检验（图5d），气温在2002年发生突变，并通过 $\alpha = 0 . 0 5$ 显著检验，说明克里雅河流域气温是在2002年开始显著升高。在多尺度周期变化上，气温存在28a主周期和12a次周期（图 $5 \mathrm { g }$ )。值得提出的是，克里雅河流域20世纪80年代末，90年代初的气温下降异于新疆其他地
+
+13.5 13 气温 4次滤波 (a) 200 －4次滤波 降水 (b) 8 蒸发 (c)  
+12.5  
+1125 2  
+11 V W皖年份 年份 年份UF -1.96 UF 1.96 UF -1.96  
+54 1.96 UB 25251 1.96 UB 4 1.96 UB  
+士 101 321 N (d) 7522 (e) 士 012 321 (f)  
+23 3年份 年份 年份  
+450 (g)气温 45 (h)降水 16 (i)蒸发  
+400 40 14  
+350 35 12差 10  
+250 200 业 8  
+150 15 6  
+100 10 4  
+50 5 2  
+0 0 05 10 15 20 25 30 5 10 15 20 25 30 5 10 15 20 25 30周期/a 周期/a 周期/a
+
+区[6-7]。
+
+3.1.2降水变化降水变化在年际和年代际尺度均相对平稳，呈近似线性略微增加趋势（图5b）。其中 2010 年的 $1 8 6 . 9 \ \mathrm { m m }$ 降水为异常降水，属极端降水事件。在2001年和1995年前后，降水发生突变（图5e），但未通过 $\alpha = 0 . 0 5$ 显著性检验,突变不显著。在周期变化上，降水呈现多周期振荡叠加的复杂变化（图5h），不仅有 $2 8 \mathrm { ~ a ~ }$ 主周期和12a次周期，还有 $7 \mathrm { ~ a ~ } , 4 \mathrm { ~ a ~ } , 1 8$ a第三、第四、第五周期。
+
+3.1.3蒸发量变化受气温影响,蒸发在整体趋势上与气温相近，非线性增加（图5c）。但在具体年际尺度下，却经历了1957—1973年增加、1974—1993年减少、1994—2005 年增加、2006—2013年减少的波动变化（图5c）。突变性上（图5f)，蒸发量在1978 年突变减少，并通过 $\alpha = 0 . 0 5$ 显著性检验。其在1958年和2002年前后也发生了突变，但未通过显著性检验，所以突变不显著。从周期性来看（图5i)，蒸发量存在28a主周期和22a次周期，同时在 $1 5 \mathrm { ~ a ~ }$ 附近有不显著第三周期。
+
+# 3.2径流对气候变化的多尺度响应
+
+3.2.1径流与气候要素相关性分析径流对气候变化响应十分敏感，尤以冰雪融水补给为主的内陆河[20]。经计算,克里雅河径流的年平均气温、年降水量、年蒸发量的相关系数分别为0.3140、$0 . 2 8 0 5 . 0 . 1 9 5 3$ 。径流对气温、降水的相关系数通过了 $\alpha = 0 . 0 5$ 显著性检验（表1），表明克里雅河径流受气温和降水影响明显,但a径流-气温>a径流-降水且径流与气温在突变时间上的一致性（均发生于2002年)说明气温影响更显著。这主要与克里雅河以冰雪融水补给（约 $71 \%$ )为主有关[21]。在具体年际尺度下（表1），径流与气温基本为负相关，而与降水为正相关。在20世纪90年代后显示出不对称相关性：90年代径流与气温、蒸发为显著正相关，而与降水为显著负相关;到2000年以后，径流与降水为显著正相关，而与气温、蒸发为负相关。其原因，本文推测是径流对气温、降水变化存在响应时间不同造成的。
+
+3.2.2径流与气候要素趋势一致性分析在趋势上，克里雅河径流变化与气温变化趋同(图6），这也说明气温对克里雅河的影响要更显著。同时，在20世纪80年代末90年代初气温明显下降，降水反向上升，对径流起到一定的调节作用。到2000年后，径流与气温、降水、蒸发均呈上升或增加趋势，综合影响之下使2000年后克里雅河径流显著增加。这一方面得益于气温升高带来雪冰融水的增多，另一方面气温上升使蒸发量增大，进而也使区域降水增多。
+
+# -降水- 蒸发—径流－-－气温
+
+![](images/d0b5c1855c0851cf916186f4a36f87ddb172a6c400714f4d59ceca469613c73c.jpg)
+
+注：累积距平曲线上升表示要素值增加，曲线下降表示要素值减小[16]。为便于对比,将蒸发量缩小了100 个单位。图6克里雅河流域气象水文要素累积距平曲线Fig.6Cumulative anomalous of meteorological andhydrological factorsin the Keriya River Basin
+
+# 表1克里雅河径流与气温、降水、蒸发在不同时间段的相关系数
+
+Tab.1 Correlation coefficients between runoff volume and air temperature，precipitation and evaporation intheKeriya RiverBasin in different timeperiods   
+
+<html><body><table><tr><td>时段</td><td>样本数</td><td>径流-气温</td><td>径流-降水</td><td>径流-蒸发</td></tr><tr><td>1957 - 1969</td><td>13</td><td>-0.275 0</td><td>0.190 3</td><td>0.0253</td></tr><tr><td>1970 -1979</td><td>10</td><td>-0.191 6</td><td>0.6315 *</td><td>-0.656 5 *</td></tr><tr><td>1980 -1989</td><td>10</td><td>-0.241 2</td><td>0.1213</td><td>-0.483 1</td></tr><tr><td>1990 -1999</td><td>10</td><td>0.7441* *</td><td>-0.6738**</td><td>0.6719 **</td></tr><tr><td>2000 -2013</td><td>14</td><td>-0.5232 *</td><td>0.6615***</td><td>-0.8247***</td></tr><tr><td>1957 -2013</td><td>57</td><td>0.3140**</td><td>0.2805**</td><td>0.1952</td></tr></table></body></html>
+
+注： $* \ll * * * * * * *$ 分别表示通过了 $0 . 1 , 0 . 0 5 , 0 . 0 1$ 的显著性检验。
+
+3.2.3径流与气候要素周期一致性分析为说明径流对气候要素存在滞后响应，在综合要素周期特征之后，提取四要素在8a和28a振荡周期进行分析。周期振荡变化能直观反应原始序列在时间域内的变化及具体年份在丰枯周期变化上的具体位置。
+
+通过对比径流、气温、降水及蒸发8a周期波动发现(图7），径流对气温变化存在1a滞后响应（径流波峰与气温波峰相差1a），而径流对降水变化不存在滞后，这在一个完整周期内恰好表现出径流与降水为正相关，而径流与气温为负相关。这也说明年际尺度下径流与气温为负相关，而与降水成正相关主要是因为径流对气温变化存在1a滞后响应。对比28a周期谷峰变化，径流与气温存在4a滞后，与降水存在6a滞后。这种不同时间的滞后响应在前期可以弥补因气温下降引起的径流减少，在后期可以抑制因气温升高而引起的径流增加，对径流有削丰补枯的调节作用。这对克里雅河水流量稳定及河水资源利用十分有益。在8a和28a周期下，蒸发量的周期振荡与气温周期振荡高度一致，因此，蒸发在振荡周期上对径流的影响与气温相同。这也说明气温是影响蒸发的直接因素。
+
+![](images/6005d5f340e4c337c2fafd433c4108b4cbfecc369dd37bbd580c738f53e948c5.jpg)  
+图7克里雅河流域气象水文要素在8a、28a周期下的小波系数
+
+影响雪冰消融对河流的补给，同时也会引起蒸发、冻土层深度、高空及近地面等温线等的变化。近 $3 0 \mathrm { ~ a ~ }$ ，克里雅河流域冰川总面积萎缩 $2 . 8 6 \%$ ，总冰储量减少 $3 . 1 0 \%$ [23],同时因冻土消融带来的径流响应增幅达 $6 \% \sim 8 \%$ [24]。根据蓝永超等[9]通过不同区域径流分析，径流对气候变化响应存在区域差异。与全疆诸河相比，克里雅河有趋同性，也有差异性9,25]。对比克里雅河与乌鲁木齐河,两河近几十年都呈非线性增加。但在不同时段，两河存在差异。如,1990—1999年乌鲁木齐河径流显著增加时，克里雅河径流却处于减少阶段;2000 年后乌鲁木齐河
+
+![](images/ca285392d8a7d7065058bcb2bfb897b727830ff9d6e758c197d736f42e656cf8.jpg)  
+Fig.7Wavelet coeffcients of meteorological and hydrological factors in the Keriya River Basin in8 a and 22 a periods   
+图8乌鲁木齐河源流区径流、气温变化及径流M-K突变检验  
+Fig.8Changes of runoff volume and air temperature and M-K mutation test of runoff volume in the headwaters of the Urumqi River
+
+# 4讨论
+
+气候系统各要素之间的响应，以及径流与气候变化响应是一个复杂过程，是内部动力过程和外部强迫共同作用下的复杂系统[22]。如,气温不仅直接径流开始减少时，克里雅河径流却异常地处于显著上升阶段。通过对比两河径流突变时间（图8和图2)，克里雅河突变时间要比乌鲁木齐河滞后近10a(克里雅河2002年，乌鲁木齐河1990年）。克里雅河流域20世纪80年代末的气温下降异于新疆其他地区,根据Wang等[26]对马兰冰芯记录分析发现,20世纪80年代青藏高原北部气温存在一个低值区，克里雅河源流区临近该低值区，因此，推测克里雅河流域在该阶段气温与径流异常可能与藏北气温低值区有关。通过比较克里雅河和乌鲁木齐河流域气温(图8与图5)发现，90年代克里雅河流域气温的明显下降与乌鲁木齐河流域气温的显著上升明显相异。因此，克里雅河径流在突变时间上的滞后主要与气温异常有关。在径流与气候要素相关性上，乌鲁木齐河径流与气温、降水的相关系数分别为0.54和0.32，对比克里雅河，乌鲁木齐河对于气温、降水的敏感程度要强于克里雅河。
+
+# 5结论
+
+（1）过去57a,克里雅河径流呈非线性显著增加趋势，并在2002年发生显著突变。在多尺度周期变化上，克里雅河存在3a和8a的年际周期和22a的年代际周期;源流区气温也呈非线性显著升高，其突变发生在2002年，并存在8a和28a周期变化；降水呈近似线性实际非线性的不显著增加，并存在4a $\cdot ^ { 7 }$ a、12a、18a和28a多周期变化;蒸发量变化整体与气温趋同，且存在22a和28a周期。
+
+（2）克里雅河径流受气温、降水等共同作用，但气温的影响更加显著。在对气候变化的响应上，研究区径流对气温的变化在不同时间尺度存在不同滞后性，对降水变化在小尺度上不存在滞后性，但在大尺度上，受气温、蒸发等综合影响，径流在峰谷周期变化上对降水变化表现出了较长时间滞后。这种不同步的交错滞后响应对克里雅河径流具有削丰补枯的调节作用，有益于克里雅河水资源的利用。
+
+（3）与乌鲁木齐河相比，过去57a克里雅河和乌鲁木齐河径流均呈非线性增加，与新疆径流变化总趋势趋同。但在径流突变时间上，克里雅河径流较乌鲁木齐河存在近10a滞后。乌鲁木齐河1990年发生突变，径流显著增加，到2000年已趋于下降；而克里雅河于2002年发生突变，径流显著增加，在
+
+2000年已处于高位变化。两河的这种差异主要与20世纪80年代青藏高原北缘存在气温低值区的大环境及克里雅河邻近该区域有关。
+
+# 参考文献(References）：
+
+[1]Chen Y,Li B,Li Z,et al.Water resource formation and conversion and water security in arid region of Northwest China[J]. Journal of Geographical Sciences,2016,26(7） :939 -952.   
+[2]IPCC. Climate Change 2013:The Physical Science Basis[M]. Cambridge:Cambridge University Press,2013.   
+[3]Liu X,Zhang M, Wang S,et al. Assessment of diurnal variation of summer precipitation over the Qilian Mountains based on an hourly merged dataset from 2008 to 2014[J].Journal of Geographical Sciences,2017,27(3):326-336.   
+[4］张强,赵映东,张存杰,等.西北干旱区水循环与水资源问题 [J].干旱气象,2008,26（2）:1-8.[Zhang Qiang,Zhao Yingdong,Zhang Cunjie,et al.Issues about hydrological cycle and water resource in arid region of Northwest China[J].Arid Meteorology, 2008,26(2):1 -8.)   
+[5］李峰平,章光新,董李勤.气候变化对水循环与水资源的影响 研究综述[J].地理科学,2013,33（4）：457－464.[LiFengping,Zhang Guangxin,Dong Liqin. Studies for impact of climate change on hydrology and water resources[J].Scientia Geographica Sinica,2013,33(4) :457 -464.]   
+[6]施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23（2）：152－164. [Shi Yafeng,Shen Yongping,Li Dongliang,et al. Discussionon the present climate change from warm-dry to warm-wet in Northwest China[J]. Quaternary Sciences,2003,23(2）:152-164.]   
+[7］商沙沙,廉丽姝,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35（1）:68－76.[Shang Shasha,Lian Lishu,Ma Ting,et al.Spatiotemporal variation of temperature and precipitation in Northwest China in recent 54 years [J].Arid Zone Research,2018,35(1）:68 -76.]   
+[8]任国玉,袁玉江,柳艳菊,等.我国西北干燥区降水变化规律 [J].干旱区研究,2016,33（1）:1-19.[Ren Guoyu,Yuan Yujiang,Liu Yanju,et al.Changes inprecipitation over Northwest China[J].Arid Zone Research,2016,33(1):1 -19.]   
+[9]蓝永超,钟英君,吴素芬,等.天山南、北坡典型河流出山径流 对气候变化响应的分析对比[J].中国沙漠,2011,31（1）： 254 -260.[Lan Yongchao,Zhong Yingjun,Wu Sufen,et al.Response of mountain runoff to climate change in representative rivers originated from the Tianshan Mountain[J].Journal of Desert Research,2011,31（1) :254 -260.]   
+[10]蓝永超,忤彦卿,康尔泗,等.祁连山北麓出山径流对气候变化 的响应[J].兰州大学学报,2001,37（4）：125－132.［Lan Yongchao,Wu Yanqing,Kang Ersi,et al.Response of runoff from the northern slope of the Qilian Mountain to global climaticchanges [J].Journal of Lanzhou University,2001,37(4）:125-132.]
+
+[11]折远洋,李忠勤,张明军,等.近51a来乌鲁木齐河源区径流特 征及对气候变化的响应[J].干旱区资源与环境，2012，26 (12）:113-118.[She Yuanyang,Li Zhongqin,Zhang Mingjun,et al.Response of stream flow to climate change at the headwaters of Urumqi River in the Tianshan mountains over the recent 51 years [J].Journal of Arid Land Resources and Environment,2O12,26 (12):113 -118.]
+
+[12］张强,俞亚勋,张杰.祁连山与河西内陆河流域绿洲的大气水 循环特征研究[J].冰川冻土,2008,30（6）:907－913.[Zhang Qiang,Yu Yaxun,Zhang Jie.Characteristics of water cycle in the Qilian Mountain sand the Oases in Hexi inland river basins[J]. Journal of Glaciology and Geocryology,2008,30(6）:907-913.]   
+[13］张强,张杰,孙国武,等.祁连山区空中水汽分布特征研究[J]. 气象学报,2007,65（4）:633-643.[Zhang Qiang,Zhang Jie, Sun Guowu,et al.Research atmospheric water-vapor distribution over Qilian Mountain[J].Acta Meteorologica Sinica,2007,65 (4):633 -643.]   
+[14］王维霞,王秀君,姜逢清,等.近30a来开都河上游径流量变化 的气候响应[J].干旱区研究,2013,30(4）:743－748.[Wang Weixia,Wang Xiujun,Jiang Fengqing,etal.Response of runoff volume to climate change in the Kaidu River basin in recent 30 years[J].Arid Zone Research,2013,30(4) :743-748.]   
+[15］胡文康,张立运.克里雅河下游荒漠河岸植被的历史、现状和 前景[J].干旱区地理,1990,13（1）:46-51.[Hu Wenkang, Zhang Liyun. History present condition and prospects of desert vegetation in the lower reaches of Keliya River[J].Arid Land Geography,1990,13(1) :46 -51.]   
+[16］于延胜,陈兴伟.水文序列变异的差积曲线－秩检验联合识别 法在闽江流域的应用——以竹岐站年径流序列为例[J].资源 科学,2009,31（10):1717-1721.[Yu Yansheng,Chen Xingwei.Difference curve-rank test method for detecting the change point in hydrological time series[J]. Resources Science,2009,31 (10):1 717 -1 721.]   
+[17］魏凤英.现代气候统计诊断预测技术[M].北京:气象出版社, 1999 :70-76.[Wei Fengying.Modern Climatic Statistical Diagnosis and Prediction Technology[M].Beijing:China Meteorological Press,1999:70-76.]   
+[18］张长江,付梦印,金梅.基于离散正交小波变换的红外图像去 噪方法[J].红外与激光工程,2003,32（4）：401-406.［Zhang
+
+Changjiang,Fu Mengyin,JinMei.Methodof infrared image denois
+
+ing based on discrete orthogonal wavelet transform[J].Infrared and Laser Engineering,2003,32（4）:401-406.]   
+[19]Donoho D L,Johnstone IM,Kerkyacharian G,et al.Wavelet shrinkage:Asymptopia?[J]. Journal of the Royal Statistical Society: Series B（Methodological）,1995:301-369.   
+[20]Dyurgerov MB,Meier MF.Twentieth century climate change:Evidence from small glaciers[J].Proceedings of the National Academy of Sciences of the United States of America,200o,97（4）： 1 406 -1 411.   
+[21］陈荷生.水在克里雅河流域生态地理环境中的作用[J].中国 沙漠,1988,8（2）:38-53.[Chen Hesheng.Effect of water in Eco-geographic environment of the Keriya River valley[J]. Journal of Desert Research,1988,3(2) :38-53.]   
+[22]张强,胡隐樵,曹晓彦,等.论西北干旱气候的若干问题[J].中 国沙漠,2000,20(4）:357-362.[Zhang Qiang,Hu Yinqiao,Cao Xiaoyan,et al.On some problems of arid climate system of Northwest China[J]. Journal of Desert Research,2000,20（4）:357 - 362.]   
+[23］许君利,刘时银,张世强,等.塔里木盆地南缘喀拉米兰河克里 雅河流内流区近30a来的冰川变化研究[J].冰川冻土,2006， 28(3）:312-318.[Xu Junli,Liu Shiyin,Zhang Shiqiang,et al. Glaciers fluctuations in the Karamilan Keriya River watershed in the past30years[J]. Journal of Glaciologyand Geocryology， 2006,28(3):312-318.]   
+[24]黄玉英,刘景时,商思臣,等.昆仑山克里雅河冬季径流及冻土 与气候变化[J].干旱区研究,2008,25（2）：174-178.[Huang Yuying,Liu Jingshi,Shang Sichen,et al.Study on monthly runoff volume in winter,frozen earth and climate change in the Keriya River basin in the Kunlun Mountains[J].Arid Zone Research, 2008,25(2) :174 -178.]   
+[25］叶柏生,丁永建,杨大庆,等.近50a西北地区年径流变化反映 的区域气候差异[J].冰川冻土,2006,28（3）:307-311.[Ye Baisheng,Ding Yongjian,Yang Daqing,et al.Regional partensof climate change in Northwest China during the last 5O years viewed from annual discharge change[J]. Journal of Glaciology and Geocryology,2006,28（3）:307 -311.]   
+[26]Wang N,Yao T,Pu J,et al. Variations in air temperature during the last 100 years revealed by $\textup { \ r { 8 } } ^ { 1 8 } \mathrm { O }$ in the Malan ice core from the Tibetan Plateau[J].Chinese Science Bulltin,2003,48（19）： 2 134 -2 138.
+
+# Response of Runoff Volume Change to Climate in the Keriya River in Xinjiang
+
+WANG Da-wei1,2，SHI Qing-dong1,2，DONG Di-wen1,²， CHEN Chao-jun³ (1. College of Resources and Environmental Sciences，Xinjiang University， Urumqi 830046，Xinjiang,China; 2. Key Laboratory of Oasis Ecologyof Ministryof Education， Xinjiang University，Urumqi 830046，Xinjiang,China; 3.School of Geographical Science，Southwest University，Chongqing 400715，China)
+
+Abstract：The characteristics of runoff are crucial for water resoures management，water supply planning，environmental protection and ecological regeneration，and the temperature change caused by climate change decreases the stabilityof surface flow.Inthis study，thedata of runoff volume，air temperature，precipitation and evaporation fromLangan Hydrological Station，a management agency of the Keriya River Basin were used to analyze the sources of runoff with the wavelet analysis and M-K mutation test，and the response of runoff volume to temperature and precipitation change was also analyzed. The results showed that : $\textcircled{1}$ In the past 57 years，the runoff volume and air temperature in the Keriya River Basin was in a significant non-linear upward trend，while the increase of precipitation and evaporation was not obvious ; $\textcircled{2}$ On the interannual scale,there was an 8 a period of runoff volume in the headwaters，and alsoa12 a periodof temperature and precipitation change.On the interdecadal scale,there was a 22 year period of runoff volume change，and alsoa 28 year period of the change of temperature，precipitation and evaporation． Moreover，there was a 22 a period of evaporation change ; $\textcircled{3}$ Runoff volume was affected by both temperature and precipitation.On the interannual scale,runof volume was positively correlated with precipitation，but negatively with temperature and evaporation.However，on the interdecadal scale，the correlation between runoff volume and air temperature was higher,and the efect of temperature on runoff volume was more significant; $\textcircled{4}$ In the periodic oscilltion，temperature was in accordance with evaporation.The response of runoff volume change to the changes of temperature，precipitation and evaporation was time-lagged，such mode could regulate runoff volume of the Keriya River ; $\textcircled{5}$ Compared with the Urumqi River, the mutation of runoff volume of the Keriya River lagged for about 1O years，which was caused by the low temperature in the Keriya River Basin in the 1990s.
+
+Key words:runoffvolume；climate change；multi-scale response；wavelet analysis； Keriya River； Xinjiang
+
+# 声明
+
+经核实，本刊2007年第1期发表的李旭东、张善余“贵州喀斯特高原人口分布的自然环境因素Ⅰ.主要影响因素研究”和2007年第2期发表的李旭东“贵州喀斯特高原人口分布的自然环境因素Ⅱ.多元回归分析与地带性研究”两篇文章分别与西华师范大学学报（自然科学版）2006年第3期和2007年第1期发表的两篇文章其内容基本一致，构成一稿多投。为维护科研诚信,营造良好学风,编辑部决定撤销这两篇文章，并决定无限期停止受理该作者的所有投稿,特此声明。
+
+《干旱区研究》编辑部2018年10月31日

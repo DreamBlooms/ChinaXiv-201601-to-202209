@@ -1,0 +1,228 @@
+[
+    {
+        "type": "text",
+        "text": "Significant Expansion of Fluorescent Protein Sensing Ability through the Genetic Incorporation of Superior Photo-lnduced ElectronTransfer Quenchers ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XiaohongLiuLijiangJiasong LiLiWangYang YuQingZhouXiaoxuan L Weimin Gong, Yi Lu,\" and Jiangyun Wang\\*,† ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+LaboratoryofRA iology,Instituteofiophysics,Chinese cademyof iences,ChaoyangDistrictBeijing,00China \\$Center of Biophysicsand Computational BiologyandDepartment of ChemistryUniversityof Ilinoisat Urbana-Champaign, Urbana, Illinois 61801, United States \\*Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin 300308,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Photo-induced electron transfer (PET) is ubiquitous for photosynthesis and fluorescent sensor design. However， genetically coded PET sensors are underdeveloped， due to the lack of methods to sitespecifically install PET probes onproteins. Here we describe a family of acid and $\\mathbf { M } \\mathbf { n } ( \\mathrm { I I I } )$ turn-on fluorescent protein (FP) sensors，named iLovU, based on PET and the genetic incorporation of superior PET quenchers in the fluorescent flavoprotein iLov. Using the iLovU PET sensors， we monitored the cytoplasmic acidification process，and achieved $\\mathbf { M } \\mathbf { n } ( \\mathrm { I I I } )$ fluorescence sensing for the first time. The iLovU sensors should be applicable for studying $\\mathrm { \\tt { p H } }$ changes in living cells, monitoring biogentic $\\mathbf { M n } ( \\mathrm { I I I } )$ in the environment, and screening for efficient manganese peroxidase, which is highly desirable for lignin degradationand biomass conversion. Our work establishes a platform for many more protein PET sensors, facilitates the de novo design of metalloenzymes harboring redox active residues，and expands our ability to probe protein conformational dynamics. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "analogues as environmental sensitive PET probes (Figure 1): 3-chlorotyrosine (ClY)，3,5-dichlorotyrosine (Cl2Y)，3,5-fluoetia box for biological studies.1-7 PET is the most widely employed mechanism for the design of small molecule fluorescent sensorsduetothelargeflorescenceenancement $( 1 0 -$ 100-fold are typical) upon analyte binding.However,such PET sensors can be difficult to synthesize and are not easily targetable to specific locations of cells or animal tissues. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/42dd8dc216e7f38abdd8d595436cba8918e4f9bdde696363e8918113a4d58b94.jpg",
+        "img_caption": [
+            "Figure 1.Schematic design of the iLovU PET sensors.(a) The chargeneutral $\\mathrm { F n Y / C l n Y }$ are not efficient PET donors,and iLovU protein is in fluorescence ON state.Deprotonation renders the $\\mathrm { { F n Y / C l n Y } }$ UAAs much better PET donors and quench the flavin fluorescence.(b) Oxidation of the $\\mathrm { F n Y / C l n Y }$ UAAs blocks the PET quenching pathway and results in iLov fluorescence enhancement.(c) Structure and $\\mathsf { p } K _ { \\mathrm { a } }$ of UAAs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The modular fluorophore-spacer-receptor format is highly successful for designing PET fluorescent sensors (Figure S1). In ligand-free and $^ { \\mathrm { \\tiny { s } } } \\mathrm { O F F } ^ { \\mathrm { \\tiny { p } } }$ state,photoexcitation of the fluorophore results in electron transfer(ET) between the receptor and the fluorophore，dissipating the light energy and quenching the fluorescence signal. In $^ { \\mathrm { { \\sc ~ \\alpha } } } { \\mathrm { { O N } } } ^ { \\prime \\prime }$ state,ligand binding to receptor significantly decreases the HOMO energy of the receptor, arresting the PET process and allowing the fluorophore to emit photons. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To design genetically encoded PET sensors, here we report the efficient genetic incorporation of five UAA tyrosine rotyrosine (F2Y),2,3,S-trifluorotyrosine (F3Y), $^ { 2 , 3 , 5 , 6 }$ -trifluorotyrosine (F4Y) $\\left( \\mathrm { C l n Y / F n Y } \\right)$ . They are site-specifically incorporated into the fluorescent flavoprotein iLov8(Lov2 domain of Arabidopsis thaliana phototropin 2,optimized for fluorescence properties).Critical to the success of the design is the significantly lower $\\mathrm { p } K _ { \\mathrm { a } }$ of these genetically encoded $\\mathrm { F n Y }$ and ClnY (from 5.6 to 8.3,Figure 1c) comparing to that of tyrosine (10.2).As a result，these genetically coded UAAs can be selectively deprotonated without deprotonating other tyrosine residues at physiologically relevant pH (4.5-8).We further demonstrate that in anionic state,the phenolate groups of UAAs can donate an electron hundreds of times faster to the photoexcited flavin $\\left( \\mathrm { F M N ^ { * } } \\right)$ than the charge neutral UAA or tyrosine,resulting in large fluorescence enhancement (FE) when UAAs are selectively deprotonated or oxidized.In comparison to previously reported FP sensors,1,5 our sensors exhibit much larger FE,and more diverse $\\mathsf { p } K _ { \\mathrm { a } }$ values matching for the $\\mathrm { \\tt p H }$ of various organelles.Such iLovUPET sensors are also well-suited for investigating the geomicrobiological process of $\\mathbf { M n } ( \\mathrm { I I } )$ oxidation.9-11 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The challenge of designing protein PET sensors lies in the sitespecific introduction of environmentally sensitive PET probes on suitable fluorescent proteins. We chose to genetically incorporate UAA tyrosine analogues12-14 as PET probes15-17 because it has previously been demonstrated that PET rate between a tyrosinate anion and luminophore is hundreds times faster than that of a charge-neutral tyrosine.16,17 This result can be attributed in part to the fact that while one-electron oxidation of the tyrosine anion is relatively easy ( $\\cdot \\Delta E ^ { 0 } = 0 . 7 1 \\mathrm { V } ,$ ,one-electron oxidation of the charge-neutral tyrosine is much more difficult $( \\Delta E ^ { 0 } = 1 . 4 \\ : \\mathrm { V } ) ^ { 1 7 }$ since the $\\mathrm { T y r O H ^ { \\bullet + } }$ cation radical $\\left( \\mathsf { p } K _ { \\mathrm { a } } = - 2 \\right)$ is highly unstable.17 Therefore， efficient ET involving tyrosine residues often requires the coupling of the proton and electron, through proton-coupled electron transfer (PCET).Because a large $\\mathsf { \\bar { \\Delta } } E ^ { 0 }$ difference $( 0 . 7 \\mathrm { V } )$ exists between the TyrOH/TyrO\\*+ and $\\mathrm { T y r O ^ { - } / T y r O ^ { \\bullet } }$ redox couples,it should be possible to design a fluorophore-spacer-receptor system where ET between the $\\mathrm { { T y r O ^ { - } } }$ donor and the fluorophore acceptor occurs much faster than fluorescence emission.Protonation or oxidation of $\\mathrm { { T y r O ^ { - } } }$ results in significant decrease in PET rate, turning on fluorescence.Through this approach， sensors for charged analytes，electro-static field in neurons，and tyrosine posttranslational modifications (PTM) may also be designed (Figure S2).18-20 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To accomplish these goals,we need to choose a fluorescent protein (FP) fluorophore whose excited state is a good electron acceptor for the $\\mathrm { C l n Y / F n Y }$ donor. It was shown previously that a tyrosine residue located $4 . 5 \\mathrm { ~ \\AA ~ }$ away from the flavin in the Fre protein efficiently quenches fluorescence through PET.15 However, no tyrosine or tryptophan side chain is situated within $7 \\mathring { \\mathrm { A } }$ distance to the flavin cofactor in iLov.We therefore chose to install $\\mathrm { C l n Y / F n Y }$ on iLov to construct protein PET sensors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "While we and others have previously demonstrated the efficient genetic incorporation of F2Y ( $\\ \\cdot \\mathrm { p } K _ { \\mathrm { a } } = 7 . 2 \\rangle$ andF3Y $( \\mathsf { p } K _ { \\mathrm { a } }$ $= 6 . 4$ ),21 UAAs which have lower and higher $\\mathsf { p } K _ { \\mathrm { a } }$ are needed for PET sensor and enzyme design. To genetically encode ClY, Cl2Y (which are commerciallyavailable),and F4Y in Escherichia coli, a mutant Methanococcus jannaschii tyrosyl amber suppressor tRNA $\\mathrm { ( M j t R N A ^ { T y r } } _ { \\mathrm { C U A } } \\mathrm { ) / }$ (tyrosyl-tRNA synthetase (MjTyrRS) pair was evolved in response to the TAG codon. One MjTyrRS clone emerged for eachUAA after three rounds of positive selections and two rounds of negative selections (Table S1)and was named ClYRS，Cl2YRS，and F4YRS，respectively.To unravel the structural basis for the selective recognition of Cl2Y by Cl2YRS, we solved the crystal structures of Cl2YRS,in the presence of Cl2Y (Figure S3). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether CIYRS，Cl2YRS，and F4YRS can facilitate the incorporation of each UAA into proteins with high efficiencyand fidelity, ClYRS,Cl2YRS,and F4YRS were cloned into the pEVOL plasmid²² for enhanced expression of proteins. An amber stop codon was substituted in the place corresponding to residue Ile486 in the fluorescent protein iLov.Analysis of the purified iLov-486-ClY，iLov-486-Cl2Y，and iLov-486-F4Y by SDS-PAGE showed that full-length iLov proteins were expressed only in the presence of CIY,Cl2Y，or F4Y (Figures S4-5), indicating that CIYRS,Cl2YRS,and F4YRS were specifically active for CIY, Cl2Y,or F4Y,respectively,but inactive for any natural amino acids.ESI-MS analysisof the iLov-486-CIY,iLov486-Cl2Y，and iLov-486-F4Y mutants gave observed average mass of 13915,13947,and $1 3 9 5 2 \\mathrm { D a } ,$ ,respectively,inagreement with the calculated masses (Figure S6). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The UV-vis spectra of both iLov and iLov-486-Cl2Y (hereafter named iLovU2）are characteristic of that of the flavoproteins (Figure S8).8,23 As pH decreases from 9.0 to 5.0, the iLov and iLovU2 UV-vis spectra have essentially no change in the visible region. While iLov fluorescence ( $\\mathit { \\lambda } _ { \\mathrm { { i } _ { e x } } } = 4 5 0 \\ : \\mathrm { { n m } }$ $\\lambda _ { \\mathrm { e m } }$ $= 4 9 5 \\ \\mathrm { n m } ,$ ）remains unchanged from $\\mathrm { \\ p H \\ 9 . 0 }$ to 5.0,iLovU2 fluorescence increases more than 2O-fold (Figures S11-13). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because $\\mathrm { \\tt { p H } }$ sensors can only be used to accurately measure $\\mathrm { \\tt p H }$ values close to their $\\mathrm { p } K _ { \\mathrm { a } } ,$ we then designed FP variants with $\\mathsf { p } K _ { \\mathrm { a } }$ valuesmatching closely to the $\\mathrm { \\tt p H }$ of different organelles.The apparent $\\mathsf { p } K _ { \\mathrm { a } }$ values of the iLovU fluorescence are acutely dependent on specific UAA substitutions at the 486th position and can range from 5.3 to 9.2 (Figure S11).In general, lower $\\mathsf { p } K _ { \\mathrm { a } }$ of the UAA in the 486th position corresponds to lower $\\mathsf { p } K _ { \\mathrm { a } }$ of the iLovU mutant fluorescence. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We then tested whether iLovU fluorescence can be modulated by mutations around UAA486.Indeed，introduction of the Arg388 mutation(Figure SiO) results in a decrease of the $\\mathrm { p } K _ { \\mathrm { a } }$ from 6.3 to 5.9,and the $\\mathrm { A r g 3 8 8 / A r g 3 9 3 }$ mutation further decreases the $\\mathsf { p } K _ { \\mathrm { a } }$ to S.7,consistent with previous reports that electric field can significantly influence $\\mathsf { p } K _ { \\mathrm { a } }$ of nearby tyrosine residues.18 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If there is photo-induced ET from Cl2Y to flavin in iLovU2, thenthe Cl2Yradical shouldbedetected.Wedetected theCl2Y radical using a tyrosyl radical trapping method (Figure S15).24 We then investigated the redox property of iLovU2.We added ${ \\mathrm { K } } _ { 2 } { \\mathrm { I r } } { \\mathrm { C l } } _ { 6 } ^ { 2 5 }$ an one-electron oxidant $\\bar { \\cdot } \\varpi ^ { 0 } = 0 . 8 9 2 \\mathrm { ~ V ~ }$ vs NHE), to iLovU2 and iLov and recorded EPR spectra.As Figure S16 shows,addition of $\\mathrm { K } _ { 2 } \\mathrm { I r } { \\mathrm { C l } _ { 6 } }$ results in a signal at $g \\sim 2$ in iLovU2, but not in iLov.Moreover,addition of $\\mathrm { K } _ { 2 } \\mathrm { I r } { \\mathrm { C l } _ { 6 } }$ results in a new peak around $4 0 0 \\mathrm { n m }$ in the UV-vis spectra in iLovU2,but not in iLov (Figure S17).These results indicate that $\\mathrm { K } _ { 2 } \\mathrm { I r } { \\mathrm { C l } _ { 6 } }$ can selectively oxidize Cl2Y in iLovU2,but not the natural amino acids.Indeed the oxidative peak potential of Cl2Y is $0 . 8 3 \\mathrm { ~ V ~ }$ VS NHE at $\\tt { p H 7 }$ (Figure S14)，significantly less than that of tyrosine.26 The ability to introduce a radical site-specifically in proteins with such great ease should be useful for probing ET mechanism and dynamic conformation changes in proteins.15,27 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To resolve the $\\mathrm { \\tt p H }$ and distance dependence of PET between Cl2Y and flavin, the fluorescence lifetime was measured. The fluorescence decay of iLovU2 at $\\mathrm { \\ p H } \\ s$ and 9 fit well to a singleexponential decay.The fluorescence lifetime of iLovU2 mutants, but not iLov, decreased significantly when $\\mathrm { \\tt p H }$ increased from 5 to 9 (Figure 2 and Table S4),which allowed the calculation of $k _ { \\mathrm { E T } }$ 23 Remarkably, $\\mathrm { \\tt { p H } }$ increas from5 to9causedasubstantial reduction of iLovU2 fluorescence lifetime from S.0 to O.2 ns,and the latter corresponds to an ET rate of $4 . 8 \\times 1 0 ^ { 9 } \\ \\mathrm { s ^ { - 1 } }$ . We also measured PET rate from Tyr486 to flavin in the iLov-486Tyr mutant and found that the ET rate is more than 10o times slower, at $3 . 5 \\times 1 0 ^ { 7 } \\ \\mathrm { s ^ { - 1 } }$ .The ET rates of iLov-393Cl2Y,iLov-391Cl2Y, and iLov-488Cl2Y were slower than iLov-486Cl2Y at $3 . 8 \\times 1 0 ^ { 8 } .$ $1 . 1 \\times 1 0 ^ { 8 } .$ and $0 . 5 8 \\times 1 0 ^ { 8 } \\ \\mathrm { s ^ { - 1 } } ,$ ， respectively. Importantly, PET between Cl2Y and flavin can compete with fluorescence when theyare separated by relativelylong distance ( $9 . 6 \\mathring { \\mathrm { A } }$ in the case of iLov-488Cl2Y,Figure S7).By contrast,efficient PET between Tyr and flavin requires very short distance $( < 4 . 5 \\mathring \\mathrm { A } )$ ,and its utility as molecular ruler is limited.15 The genetically encoded superior PET quenchers are sensitive to subtle distance changes in the angstrom scale and are complementary to the widely adopted FRET technique,1-4 for the studies on protein conformation dynamics through single-molecule ET.15 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ddb64e5e851dc674b7bf4f7248660535fe8c35353602ae4c507a8c6b3254dfe.jpg",
+        "img_caption": [
+            "Figure 2.iLov mutant fluorescence: dependence on $\\mathrm { \\tt { p H } }$ and fluorphore-quencher distance.(a） Fluorescence decay curves of 5 $\\mu \\mathbf { M }$ iLovU2 in $\\mathrm { \\ p H } \\boldsymbol { 5 }$ or $\\mathsf { p H } 9$ buffer,recorded on a streak camera setup, using $\\lambda _ { \\mathrm { e x } } = 4 5 0 \\mathrm { n m }$ and $\\lambda _ { \\mathrm { e m } } = 5 0 0 \\mathrm { n m }$ (b)Plot of $k _ { \\mathrm { E T } }$ vs distance: iLov (open squares);iLovU2 (filled squares).Lines are the best linear fits with a distance-decay constant $( \\beta )$ of $1 . 4 \\mathring \\mathrm { A } ^ { - 1 }$ .Fluorescence decay curves of $5 \\mu \\mathrm { M }$ iLov mutants bearing a Cl2Y mutation $( \\mathrm { c } )$ or tyrosine mutation (d)，carried out on a time correlated single photon counting spectrofluorometer using $\\lambda _ { \\mathrm { e x } } = 4 5 0 ~ \\mathrm { n m }$ and $\\lambda _ { \\mathrm { e m } } = 5 0 0 ~ \\mathrm { n m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bacteria rely on elaborate acid resistance system (AR） to survive acidic environment.28,29 To prevent and treat enteropathogenic bacterial infection,itis important to develop acid turn-on fluorescent sensors to understand bacterial acid resistance mechanism.We tested if the iLov-486Cl2Y388R mutant ( $\\left( \\mathsf { p } K _ { \\mathrm { a } } = 5 . 9 , \\right.$ termed iLovU3) could be used for $\\mathrm { p H }$ sensing in vivo.BL21(DE3）E.coli cells overexpressing iLovU3 were imaged using a confocal fluorescence microscope at $\\mathrm { p H } 7$ and 5. As Figure 3a shows, the cells showed little fluorescence at $\\mathrm { p H } 7$ Only3safter the $\\mathrm { \\tt { p H } }$ in the media was dropped to 5 by HCl addition，cellular fluorescence started to increase，reaching maximum in $ { 5 }  { \\mathrm { { m i n } } }$ .Theseresults indicates thatin theabsence AR systems,E.coli cytoplasmic $\\mathrm { \\ p H }$ decreases rapidly even in mildly acidic conditions.The acid turn-on iLovU sensors may facilitate the discovery of new genes responsible for AR and screening for inhibitors of AR pathways. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We then tested iLovU3's ability to visualize bacteria phagocytosis in macrophage.28,29 As Figure 3c shows, E.coli cells expressing iLov are fluorescent both before and after phagocytosis inside macrophage.By contrast，E. coli cells expressing iLovU3 are fluorescent only when they are phagocytosed, but not when they are still moving freely in the medium. Since cytoplasmic acidification is implied as a major killing mechanism of macrophage,our new method may provide the essential tool to identify the key factors required for bacterial engulfment and phagosome maturation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition to imaging $\\mathrm { \\tt p H }$ changes and bacteria phagocytosis, we explored versatility of iLovU as redox sensors.Lignin is the second most abundant biopolymer on Earth，encompassing around $3 0 \\%$ of all biomass.f1 However, it is among the most difficult polymers to degrade due to its highly recalcitrant nature. To fully exploit the potentials of biomass as an energy source, we need to design efficient catalysts which can degrade lignin under ambient conditions and convert it into fuels or commodity chemicals. While manganese peroxidase from white rod fungus11,30 $\\left( \\mathrm { M n P } \\right)$ is known to oxidized $\\mathbf { M } \\mathbf { n } ( \\mathrm { I I } )$ to $\\mathbf { M n } ( \\mathrm { I I I } )$ ， which then degrades lignin efficiently，the mechanism of biological $\\mathrm { { M n } ( \\mathrm { { I I } ) } }$ oxidation remains poorly understood, due to the lack of selective, genetically encoded fluorescent probes for $\\mathbf { M n } ( \\mathrm { I I I } )$ .As Figure 4 shows,addition of $1 0 ~ \\mu \\mathrm { M } ~ \\mathrm { M n ( I I I ) }$ to iLovU2 resulted in more than 8-fold fluorescence enhancement within $1 \\mathrm { m i n }$ ,whereas the addition of other transitional metals at $1 ~ \\mathrm { m M }$ concentration resulted in no fluorescence intensity change.Alinear relationship between fluorescence enhancement and $\\bar { \\bf M n } ( \\mathrm { I I I } )$ concentration was observed (Figure $\\mathsf { 4 c } \\mathbf { \\bmod { \\delta } }$ ,and $5 0 \\mathrm { n M }$ $\\mathbf { M } \\mathbf { n } ( \\mathrm { I I I } )$ can be reliably detected.These results indicate that $\\mathbf { M } \\mathbf { n } ( \\mathrm { I I I } )$ can selectively oxidize Cl2Y into Cl2Y radical, therefore blocking the PET quenching pathway provided by the Cl2Y anion (Figure 1b). Since MnP is difficult to express in E.coli, we have previously engineered a $\\mathbf { M n } ( \\mathrm { I I } )$ binding site into cytochrome c peroxidase $\\left( \\mathrm { C c P } \\right) ^ { 3 0 }$ and show that the resulting mutant $( \\mathrm { M n C c P } )$ can be expressed in high yield and exhibit manganese peroxidase activity (Figure 4a).As Figure 4b shows, iLovU2 can also detect MnCcP activity，with a 1.8-fold fluorescence enhancement.To the best of our knowledge, this is the first report on a turn-on fluorescence probe for Mn(III). While the $\\mathrm { { M n } ( I I ) }$ oxidation activity of ${ \\bf M } { \\bf n } { \\bf C } { \\bf c } { \\bf P }$ is relativelyweak, the $\\mathbf { M n } ( \\mathrm { I I I } )$ turn-on iLovU2 sensor should be greatly useful for designing high-throughput screening assays to obtain highly active MnCcP mutants which can be recombinant expressed in high yield. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/010b78cfaeb7491cfe746e7cfc255e2d3c0ec83a95762191af9226134143ce65.jpg",
+        "img_caption": [
+            "Figure 3.Visualization of $\\mathrm { \\tt p H }$ changes in E.coli cells expressing iLovU3. (a)BL21(DE3）E.coli cells expressing iLovU3 were visualized by a fluorescence confocal microscope in the fluorescein isothiocyanate (FITC) channel (top) and DIC channel (bottom） at $\\mathrm { p H } 7$ and 5. (b) Normalized fluorescence intensity of BL21(DE3) E.coli cels expressing iLovU3 were measured by fluorescence plate reader $\\left( \\lambda _ { \\mathrm { e x } } = 4 5 0 \\mathrm { n m } ; \\lambda _ { \\mathrm { e m } } = \\right.$ $4 9 5 \\ \\mathrm { n m }$ ),after incubation in buffers with different $\\mathrm { \\ p H }$ for indicative times.(c) Visualizing of the E.coli phagocytosis.BL21(DE3) E.coli cells expressing iLov (left）or iLovU3 (right）were incubated with macrophage cells and then visualized by a fluorescence confocal microscope in the FITC channel.Red arrowheads indicate fluorescent $E _ { ☉ }$ coli cells after they are phagocytosed by macrophage cells.Yellow arrowheads indicate E.coli cells which are not phagocytosed by macrophage cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It was found very recently that $\\mathbf { M } \\mathbf { n } ( \\mathrm { I I I } )$ is a major component of the sediment redox system.9A spectrophotometric protocol was used for the determination of soluble $\\mathbf { M n } ( \\mathrm { I I I } )$ .However, $\\mathrm { { M n } ( I I ) }$ and Mn(III) gave rise to the same peak, so toxic cadmium metal ion was needed,and a lengthy procedure was required.By contrast，our method allows for the selective detection of $\\mathbf { M n } ( \\mathrm { I I I } )$ within $1 \\mathrm { m i n }$ ，without using toxic metal ions or having interference from other metal ions.Our method is potentially useful for the rapid determination of soluble $\\mathbf { M n } ( \\mathrm { I I I } ) \\$ in diverse environmental niches.10 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d44345254ff3b31f42e6d0ba0dc24d6e31cbc3339a595df2cc0e0902207ec255.jpg",
+        "img_caption": [
+            "Figure 4.Fluorescence response of iLovU2 to $\\mathbf { M n } ( \\mathrm { I I I } )$ .(a）Left: structural overlay of MnP(green, pdb code:1MNP) and $\\mathrm { C c P }$ (pink, pdb code:1CYP)；right:structural overlay of $\\mathbf { M n P }$ (green，pdb code: 1MNP) and MnCcP(pink,pdb code:2IA8).(b) Fluorescence intensity of iLovU2 ${ \\bf \\Xi } ( { \\cal S } { \\bf \\Lambda } \\mu { \\bf M } { \\bf \\Lambda } )$ was recorded on a Thermo Varioskan Flash fluorescent plate reader,in the presence or absence of $2 \\mathrm { m M }$ transitionmetal ions or oxidants ( ${ \\bf \\dot { \\Omega } } _ { 1 0 \\mu \\bf M }$ in the case of $\\mathbf { M n } ( \\mathrm { I I I } )$ $1 0 0 \\mu \\mathrm { M }$ in the case of $\\mathrm { I r C l } _ { 6 } { } ^ { 2 - }$ ， $\\mathrm { C l O ^ { - } }$ and $\\mathrm { H O ^ { \\bullet } }$ ),by exciting the sample at $4 5 0 \\ \\mathrm { n m }$ and recording the emission at $4 9 5 ~ \\mathrm { { n m } }$ .HO‘was generated by reaction of ${ \\mathrm { F e } } ( \\mathrm { I I } )$ with $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ .Fluorescent intensity in the absence of transitionmetal ions was normalized to 1.The oxidation of $\\mathrm { { M n } ( I I ) }$ by ${ \\bf M } { \\bf n } { \\bf C } { \\bf c } { \\bf P }$ was also monitored byiLovU2.(c) Fluorescence intensity of iLovU2 $( 5 \\mu \\mathbf { M } )$ in the presence of various concentrations of $\\mathbf { M n } ( \\mathrm { I I I } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have developed a novel class of genetically coded PET sensors through the genetic incorporation of UAA Tyranalogs as superior PET quenchers.Our work establishes a platform for many more protein PET sensors which can be rapidly optimized through fluorescence-activated cell sorting, facilitates the de novo design of metalloenzymes harboring redox activeresidues,332andexpandsourabilitytoprobeprotein conformational dynamics through single-molecule ET.15P ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experiment details,crystal structure of iLovU2 at different pH, UV-vis and fluorescence spectra, CV,EPR spectra. This material is available free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author   \njwang@ibp.ac.cn   \nAuthor Contributions   \n\"These authors contributed equally.   \nNotes   \nThe authors declare no competing financial interest. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We gratefully acknowledge the Major State Basic Research Program of China (2010CB912301,2011CBA00800),National ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Science Foundation of China (91313301,21325211),CAS grant (KJZD-EW-L01) to J.Y.W. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES (1)Newman, R H.; Fosbrink, M.D.; Zhang,J. Chem. Rev.2011,111, 3614. (2） Chudakov, D. M.； Matz, M. V.; Lukyanov, S.; Lukyanov, K.A. Physiol. Rev.2010,90,1103. (3)Frommer, W.B.; Davidson, M.W.; Campbell,R E. Chem. Soc. Rev. 2009,38,2833. (4) Lam,A.J.; St-Pierre,F.;Gong,Y.; Marshall,J.D.; Cranfill,P.J; Baird,M.A.；McKeown,M.R；Wiedenmann,J.;Davidson,M.W.; Schnitzer,M.J.; Tsien,R.Y.; Lin,M.Z.Nat.Methods 2012,9,1005. (5)Miesenbock, G.De Angelis,D.A.;Rothman,J.E.Nature1998, 394,192. (6) de Silva,A.P.; Moody,T.S.; Wright,G.D.Analyst 2009,134,2385. (7) Que,E.L.; Domaille,D.W.; Chang, C.J. Chem.Rev.2008,108, 1517. (8) Chapman,S.; Faulkner, C.; Kaiserli,E.; Garcia-Mata,C.; Savenkov, E.I.; Roberts,A.G.; Oparka,K.J.; Christie,J.M.Proc.Natl.Acad.Sci. U. S.A.2008,105,20038. (9) Madison,A S.; Tebo,B.M.; Mucci, A.; Sundby,B.; Luther,G.W., III Science 2013,341, 875. (10) Tebo,B.M.; Johnson, H. A.; McCarthy,J. K; Templeton, A. S. TrendsMicrobiol.2005,13,421. (11) Harms,H.; Schlosser,D.; Wick,L.Y.Nat.Rev.Microbiol.2011,9, 177. (12) Chin,J.W. Science 2012,336,428. (13) Liu, C. C.; Schultz, P. G.Annu. Rev. Biochem. 2010,79,413. (14) Wang,L.; Xie,J.; Schultz,P.G.Annu.Rev. Biophys.Biomol. Struct. 2006,35,225. (15） Yang, H.; Luo, G. B.; Karnchanaphanurach, P.; Louie, T. M.; Rech,I.; Cova,S.; Xun,L.Y.; Xie,X. S.Science 2003,302,262. (16) Sjodin, M.; Styring, S.; Akermark, B.; Sun, L. C.; Hammarstrom, L.J.Am. Chem. Soc.2000,122,3932. (17)Warren,J.J.; Winkler,J.R; Gray,H.B.FEBSLet.2012,586,596. (18)Fafarman,A. T.； Sigala,P.A.；Schwans, J.P.；Fenn, T.D.; Herschlag,D.; Boxer,S.G.Proc.Natl.Acad.Sci.U.S.A.2012,109,E299. (19)Mille,E.W.;Lin,J.Y.;Frady,E.P.;Steinbach,P.A.;Kristan,W. B.,Jr.; Tsien,RY.Proc.Natl.Acad. Sci.U.S.A.2012,109,2114. (20) Lacey,V. K.; Parrish,AR; Han,S.; Shen,Z.; Briggs,S.P.; Ma, Y; Wang,L.Angew.Chem., Int.Ed.2011,S0,8692. (21)Minnihan,E. C.; Young, D. D.; Schultz, P. G.; Stubbe,J. J. Am. Chem.Soc.2011,133,15942. (22) Young,T.S.; Ahmad,L; Yin,J.A.; Schultz,P.G.J.Mol. Biol.2010, 395,361. (23) Liu,Z.; Tan, C.; Guo, X.; Li,J.; Wang,L.; Sancar,A; Zhong, D. Proc.Natl.Acad. Sci.U. S.A.2013,110,12966. (24) Bhattacharjee,S.; Deterding,L.J.; Jiang,J.; Bonini,M.G.; Tomer, K B.; Ramirez,D.C.; Mason,R P.J.Am.Chem.Soc.207,129,13493. (25)Whittaker,M.M.; Kersten,P.J.; Nakamura,N.; Sanders-Loehr,J; Schweizer,E.S.; Whitaker,J.W.J.Bio.Chem.1996,217,681. (26) Harriman,A.J. Phys.Chem.1987,91,6102. (27) Fleissner,M.R; Brustad,E.M.; Kalai,T.;Altenbach, C.; Cascio, D.; Peters,F.B.; Hideg,K.; Peuker,S.; Schultz, P.G.; Hubbell W.L. Proc.Natl.Acad.Sci.U.S.A.2010,107,5693. (28) Masuda,N.; Church, G. M. Mol. Microbiol.2003,48,699. (29) Lu,P.; Ma,D.; Chen,Y.; Guo, Y.; Chen,G.-Q; Deng, H.; Shi,Y. Cell Res.2013,23,635. (30)Pfister，T.D.；Mirarefi，A.Y.；Gengenbach，A_J.； Zhao,X; Danstrom, C.; Conatser,N.; Gao,Y.-G.; Robinson,H.; Zukoski, C.F.; Wang,A. H.J.; Lu,Y. J.Biol.Inorg.Chem.2007,12,126. (31) Winkler,J.R.;Gray,H.B.Chem.Rev.2014,114,3369. (32)Hu,C;ChanS.;awerE.B.Yu,Y;WangJ.he.oc.Rev 2014,DOI: 10.1039/C4CS00018H. ",
+        "page_idx": 3
+    }
+]

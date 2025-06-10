@@ -1,0 +1,177 @@
+# 基于改进遗传算法的VMS选址研究与分析
+
+余雷，马生涛，杨杰，康缘(长安大学 电子与控制工程学院，西安 710054)
+
+摘要：随着城市交通的高速发展，交通拥堵和交通事故频繁发生，城市交通诱导作为智能交通系统的重要组成部分，其产生和发展刻不容缓，可变信息板(VMS)是交通诱导系统中实现交通信息传递的重要工具。针对智能交通诱导系统在国内应用的不成熟，采用改进型遗传算法对VMS 在路网中的布点位置进行了全局索优，对基本遗传算法中的编码方式，选择方法进行了改进，同时采用动态衰减变异概率进行变异操作，并运用多目标优化算法将多目标函数单一化，针对某一路段上的 VMS 对该路段下游不同位置的影响程度的不同，引入衰减影响因子；然后以复杂虚拟路网为仿真实例进行了VMS 布局仿真检验，结果表明，该方法以VMS 效用和经济成本为评价指标，较好地实现了交通路网中VMS 选址的最优分布，同时达到了节约资源的目的，具有一定的科学性和实用性。
+
+关键词：智能交通；VMS最优布局；遗传算法；路网；交通诱导 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.06.0645
+
+# Research and analysis of VMS location based on improved genetic algorithm
+
+Yu Lei, Ma Shengtao†, Yang Jie, Kang Yuan (CollegeofElectronics& Control Engineering,ChangAn University,Xian 71oo54,China)
+
+Abstract:Withtherapiddevelopmentofurbantraffc,trafficcongestionand traffcaccidentsoccur frequentlyurbantraffic inductionisanimportantpartof intellgenttransportationsystem,anditsproductionanddevelopment withoutdelay.Variable informationboard(VMS)isanimportanttoolfortraffic informationtransmissionintraficguidancesystem.Fortheintellgent trafic guidance systemin the domestic application of immature,the improved genetic algorithm wasused tooptimize the locationofVMSintheroad network,andthecodingmethodandselectionmethodinthebasic geneticalgorithmwereimproved. Atthe sametime,the dynamic decay mutation probabilitywasused to perform the mutation operation,the multi-objective optimizationwasusedtosingulatethemulti-objectivefunction,andintroducedtheatenuationinfluencefactorforthedifferent degree ofVMSonthe downstream oftheroad segment.Then,the VMS layout simulationtest wascariedout withthecomplex virtualroad network as thesimulationexample.Itisshownthatthe methodusesVMSutiltyandeconomiccostas theevaluation index,itcanachievetheoptimaldistributionofVMSsiteinthetraffic networkandthe purposeofsavingresources,which has certain scientificity and practicability.
+
+Key Words: intelligent transportation; VMS optimal layout; genetic algorithm; road network; traffic induction
+
+# 0 引言
+
+纵观国内外交通发展趋势，传统的控制机动车数量和加大交通基础设施的基础建设等措施能够有效的解决交通问题，但是经济发展和自然资源的有限性，决定了解决交通拥挤问题的局限性。因此合理优化资源配置，已经成为社会解决交通问题的一个新的手段。新型的交通诱导系统则是缓解交通压力，改善交通条件的重要手段。
+
+交通诱导系统是智能交通系统重要的组成部分，可以很大程度的提高城市交通效率，而VMS是交通诱导系统中实现公众信息服务的重要手段和工具，作为一种群体式诱导信息发布系统，其布局和信息发布对出行质量起着关键性的影响。因此如何确定VMS的最优分布地点，使VMS发挥最大的效用，已经成为城市交通的重要研究课题。在城市交通路网中合理配置VMS并使其对驾驶员路径最优选择提供最佳信息是设置VMS的最终目标，然而在实际实现的过程中，会受到一系列主客观因素的影响，如驾驶员对VMS的反映、交通事故和非交通事故下VMS所起作用的不同程度、VMS安装在路口的具体位置等。
+
+目前，VMS在国内外一些发达城市已经得到了广泛的应用，但大多数凭借交通管理者的经验进行布局；而对VMS的研究主要集中在逻辑控制、显示内容以及驾驶员路径选择方面，就其布点方法及具体实例方案分析的研究较少。VMS地址优化问题的研究中 Abbas[1]是最早的研究学者之一，当驾驶员收到VMS 提供的交通事件后，其转移行驶路线至绕行路段，从而使车辆的延误达到最小；Gan 等人[2]采用双层规划方法研究了VMS最优的布点位置，针对道路中交通事故常发点并考虑驾驶员对VMS信息的反映，从而使VMS的效益达到最大；Chiu等人[3]采用双层次随机的整数规划模型描述VMS选址问题，上层模型描述最优选址问题，下层模型描述驾驶员路径选择分配问题；Boyles等人[4从VMS布设成本和诱导效益出发，采用自适应路径搜索方法研究了高速公路的VMS选址优化问题；Fu等人[5]计算了路网中所有车辆的延误减少量，提出了动态交通排队延误模型并评价了VMS 布设方案的效果；国内倪福建、刘志超针对整数规划模型的复杂性，采用遗传算法进行VMS选址方法分析；尚华艳等人[7]应用元胞传输模型确定 VMS 的位置，通过在不同元胞设置VMS，观察交通系统中所有车辆行驶时间的变化进而找到VMS的最优布点；戢晓峰等人[8以交通流与VMS影响区域产生的信息量作为衡量诱导效果的标准，并使用行程时间的期望和标准差量化不确定决策中的风险，从而建立VMS选址方法；四兵峰等人[提出了一种考虑交通的动静态特征的VMS选址算法，运用回溯法的基本思想，针对交通诱导的四个基本特征：道路等级、交通流、布设效果以及信息叠加度，对路段进行多层次筛选；高贺等人[10]把路网改造和信息路径结合起来，提出了单向交通微循环的诱导选址方法，并利用VISSIM仿真软件进行了比较。
+
+现有关于VMS选址的研究仅仅是考虑其布置地点的优化，并未涉及VMS的经济成本，针对到VMS的布局位置优化的效用最大化与经济成本最小化、双层规划模型的复杂性以及对VMS的布局是一个系统优化过程，宜进行全局快速最优索引。本文以基本遗传算法为基础，利用改进的遗传算法进行VMS全局优化；以VMS效用最大和成本最低为双重目标函数，运用改进遗传算法解决这一非线性优化问题，从而发布最优布局地点。
+
+# 1 VMS选址数学优化模型的建立
+
+# 1.1路网有效路径规划
+
+城市交通的网络密度大，交叉口多且间距小，平行路段多，在该路网中进行VMS选址首先要确定路网中的起迄对子(OD对)，即路网车辆的入口和出口，一个路网中的出入口数量较多，需要设定有效的规划路径对路网车流量进行均衡分配。定义有效的规划路径 $r$ 是OD两地之间的距离最短且在平行路段中相对畅通(交通流量相对较少)，这样的有效路径交通流量较少，道路负荷低，运行效率高，可以有效的对拥堵路段进行分流，从而缓解整个路网的交通压力。
+
+# 1.2优化数学模型的建立
+
+交通路网中的有效路径路段所组成，VMS布设的原则是在成本最低的条件下达到最大的诱导效用，因此本文作以下假设：(1)只对看到VMS的驾驶员产生有效影响；(2)只在路段上布设VMS。故一个在 $a$ 路段上的VMS对路径 $r$ 上出行者的影响程度 $\beta _ { r a }$ 可建立如下模型：
+
+$$
+\beta _ { r a } = \sum _ { i \in S _ { r a } } q _ { i }
+$$
+
+其中： $s _ { r a }$ 为路段a上VMS 的有效影响路段的集合； $q _ { i }$ 为路段i上一段时间内事件发生的频率， $0 \leq q _ { i } \leq 1$ 。
+
+因此路网中路段 $a$ 上的VMS在有效路径 $r$ 上效益 $f$ 如下：
+
+$$
+f = f _ { r } * \beta _ { r a }
+$$
+
+$f _ { r }$ 为有效路径 $r$ 上的交通流量。
+
+有效路径 $\boldsymbol { r }$ 上的VMS的总效用 $F _ { 1 }$ 是该路径上每个VMS在它的独立的有效影响路段集合上的效用之和。表示如下模型：
+
+$$
+F _ { 1 } = \sum _ { a \in r } ( \beta _ { r a } ^ { * } f _ { r } )
+$$
+
+这个路网中所有有效路径的总效用 $F$ 如下：
+
+$$
+F = \sum _ { r \in R } f _ { r } \ast ( \sum _ { a \in A _ { r } } Z _ { a } \ast ( \sum _ { k \in B _ { a } ^ { r } } q _ { k } ) )
+$$
+
+其中： $R$ 表示所有路径的集合； $A _ { r }$ 为所有路径 $\boldsymbol { r }$ 上的路段集合；$A$ 所有路段集合； $B _ { a } ^ { r }$ 是路径 $r$ 上路段 $a$ 上的VMS的有效影响路段去掉该路径上的下一个VMS 的有效影响路段的剩余路段的集合。
+
+假设 $U$ 为VMS 总成本， $c$ 为建造一个VMS的经济成本，$Z _ { a }$ 为约束条件， $Z _ { a } = 1$ 表示路段上有VMS， $Z _ { a } = 0$ 表示路段上没有VMS；故建造成本如下：
+
+$$
+U = \sum _ { a \in A } Z _ { a } C
+$$
+
+$$
+Z _ { { \scriptscriptstyle a } } = 0 , o r , Z _ { { \scriptscriptstyle a } } = 1 ; a \in A
+$$
+
+$$
+m \leq \sum _ { a = 1 } ^ { A } Z _ { a } \leq M
+$$
+
+其中： $M \ , \ m$ 是设置VMS 的上下限。
+
+# 1.3 多目标函数优化
+
+VMS 选址既要求其效益最大，还要求VMS的制造成本最低，而对于这两个目标的改善是相互抵触的，需要找到满足这些目标的最佳设计方案，本文进行多目标优化，由于模型本身的特殊性，因此将多目标函数转换为单目标函数 $H$ ，如下：
+
+$$
+H = F / U = \sum _ { r \in R } f _ { r } \ast ( \sum _ { a \in A _ { r } } Z _ { a } \ast ( \sum _ { k \in B _ { a } ^ { r } } q _ { k } ) ) / \sum _ { a \in A } Z _ { a } C
+$$
+
+# 1.4VMS衰减影响因子的改进
+
+上述模型中假设某一路段上的VMS在其下有路段的影响相等且不发生变化，实际过程中，产生交通信息的地点离VMS远近不同，信息的有效性亦不同，可能在离VMS 较远的路段上的交通事件，在车辆到达此处时交通信息已经发生变化，故采用衰减影响因子 $e _ { a , k } ^ { r }$ 表示路径 $r$ 上、路段 $k$ 上的交通信息在路段 $a$ 上VMS显示的衰减影响因子。本文以指数函数$y = x ^ { n } , n = 0 , 1 , 2 . . . x \in ( 0 , 1 ) , x \sharp \chi 0 . 8$ 来衡量衰减程度，表示每远离VMS 一个路段（假设路段长度一致)，其影响程度便随着指数函数衰减。因此最终目标函数模型如下：
+
+$$
+H = F / U = \sum _ { r \in R } f _ { r } \ast ( \sum _ { a \in A _ { r } } Z _ { a } \ast ( \sum _ { k \in B _ { a } ^ { r } } q _ { k } e _ { a , k } ^ { r } ) ) / \sum _ { a \in A } Z _ { a } C
+$$
+
+# 2 改进的遗传算法
+
+根据所建模型，对于VMS选址的优化是一个非线性问题，综合VMS选址是针对全局索优。双层规划模型[II可以很好的进行VMS优化布局，但其实现起来比较复杂；免疫优化算法本身具有寻到全局最优点的能力，但是效率较低，且主要以搜索多峰值函数为目标[12]；故采用改进的遗传算法进行随机优化搜索，它是从一个点集到另一个点集的搜索，有能力跳出局部最优解，从而快速的找到全局最优解，本文以一复杂虚拟路网为例进行仿真实例分析，并且在改进遗传算法的过程中设定了参数。
+
+a）由于最终目标函数模型 $H$ 非负、单值、连续且最大化、计算量相对较小以及通用性强，故直接以待解的目标函数 $H$ 转换为适应度 $F i t ( H )$ 。
+
+$$
+F i t ( H ) = H
+$$
+
+给定种群规模 $N = 1 0 0$ 、交叉概率 $\textit { P } _ { c } { = } 0 . 5$ 、变异概率 $\boldsymbol { P _ { m } }$ ，由于 $\boldsymbol { P _ { m } }$ 很小时，群体稳定性好，但陷入局部最优解时很难再跳出来，当 $\boldsymbol { P _ { m } }$ 较大时，可能破坏解群体的同化，使得遗传性能近似于随机搜索算法的性能，故本文采用动态指数衰减变异概率$P _ { m } = 1 0 ^ { x } , x \in ( - 3 , - 1 . 5 )$ ，并设置迭代数 $G = 1 0 0$ 。
+
+b）路网由各个路段 $Z _ { a } , i = 1 , 2 , 3 \dots$ 组成， $Z _ { a } = 0$ 表示该路段上设置没有VMS， $Z _ { a } = 1$ 表示该路段布局有VMS，因此采用所有路段上有无VMS所组成的0-1串来表示一个个体，如此随机产生 20个个体组成种群 $s$ ，且满足式(7): $m \leq \sum _ { a = 1 } ^ { A } Z _ { a } \leq M$ ，令$m = 3 , M = 6$ ，设置迭代计数器 $t = 1$ 。
+
+c）计算S中每个个体的适应度 $F i t ( H )$ 。
+
+d）选择。采用轮盘选择和最佳保留选择结合的方法，根据个体的适应度值，将群体中适应度最高的个体结构完整地复制到下一代群体中，使得在该改进遗传算法终止时得到历代出现过的最高适应度的个体，产生种群 $S _ { 1 }$ 。
+
+e)交叉。对选择所得种群 $S _ { 1 }$ 中的个体进行两两配对交叉，交叉采用两点交叉，即随机设置两个交叉点，配对的两个体在交叉点之间变换，进而产生种群 $S _ { 2 }$ □
+
+f）变异。基于个体本身为二进制编码的表现形式，以$P _ { m } = 1 0 ^ { x } , x \in ( - 3 , - 1 . 5 )$ 的动态衰减变异概率进行基本位变换，得
+
+到种群 $S _ { 3 }$ 。
+
+g）将种群 $S _ { 3 }$ 作为新一代种群S，判断若满足 $t \geq G$ ，则终正，否则 $t = t + 1$ ，转向c)。
+
+# 3 实例仿真分析
+
+如图1为一复杂虚拟路网，路网具有18个节点36条路段，假设VMS布设在路段上，且路段上的VMS在其下游各路段的影响程度均随指数函数衰减，与路段长度无关，设路段1、5、8、13为入口，路段4、8、13、18为吸引源，入口和吸引源组成OD对，OD对间各路径流量如下表1所示。根据比例配流法得出各路段交通流量及影响因子[13]，如表2所示。
+
+![](images/d590c25b54370d54eb8ab3e85ed530f3e4458a090e298e656d313c63483e7d37.jpg)  
+图1复杂虚拟路网
+
+表1路径间的流量 (千辆/时)  
+
+<html><body><table><tr><td>起迄</td><td>路径</td><td>起迄</td><td>路径</td><td>起迄</td><td>路径</td><td>起迄</td><td>路径</td></tr><tr><td>对子</td><td>流量</td><td>对子</td><td>流量</td><td>对子</td><td>流量</td><td>对子</td><td>流量</td></tr><tr><td>1-4</td><td>1.4</td><td>5-4</td><td>1.0</td><td>8-4</td><td>1.2</td><td>13-4</td><td>1.0</td></tr><tr><td>1-7</td><td>1.2</td><td>5-7</td><td>1.2</td><td>8-7</td><td>1.2</td><td>13-7</td><td>0.8</td></tr><tr><td>1-12</td><td>1.6</td><td>5-12</td><td>1.3</td><td>8-12</td><td>1.8</td><td>13—12</td><td>1.4</td></tr><tr><td>1-17</td><td>1.2</td><td>5-17</td><td>1.2</td><td>8-17</td><td>1.0</td><td>13—17</td><td>1.2</td></tr></table></body></html>
+
+根据比例配流法：
+
+$$
+x _ { a } = \sum _ { r } \sum _ { s } \sum _ { k } f _ { k } ^ { r s } \delta _ { a . k } ^ { r s } , \forall a \in A
+$$
+
+$\boldsymbol { r }$ 表示路网的起始节点， $s$ 表示路网的终迄节点， $k$ 表示某一路径， $f _ { k } ^ { r s }$ 为OD对 $r - s$ 之间路径 $k$ 上的流量， $\delta _ { a . k } ^ { r s }$ 表示如何路段 $a$ 在连接OD对 $r - s$ 的路径 $k$ 上，其值为1，否则为0,$x _ { a }$ 是路段 $a$ 上的流量，得出各路段交通流量及影响因子[13]，如表2。
+
+由于本文研究的是双目标优化问题，既考虑VMS最大功效，又涉及VMS的经济成本问题，本文设置VMS的个数是3\~6个，为方便计算假设单个VMS成本为100，利用MATLAB进行上述改进遗传算法的编程，设定VMS数目为3，在算法迭代50次之后的适应度函数值如图2所示。
+
+又分别对VMS数目为4、5、6时的适应度函数进行了迭代计算，并得出了其最优布设路段，如下表3所示。
+
+表2路段流量（千辆/时）及其影响因子  
+
+<html><body><table><tr><td rowspan="2">路段</td><td rowspan="2">交通 流量</td><td rowspan="2">影响 因子</td><td rowspan="2">路段</td><td rowspan="2">交通 流量</td><td rowspan="2">影响 因子</td><td rowspan="2">路段</td><td rowspan="2">交通 流量</td><td rowspan="2">影响 因子</td></tr><tr><td></td></tr><tr><td>1</td><td>5.4</td><td>0.3</td><td>13</td><td>4.4</td><td>0.2</td><td>25</td><td>1.3</td><td>0.2</td></tr><tr><td>2</td><td>5.4</td><td>0.1</td><td>14</td><td>5.6</td><td>0.15</td><td>26</td><td>2.1</td><td>0.4</td></tr><tr><td>3</td><td>4.4</td><td>0.35</td><td>15</td><td>5.1</td><td>0.3</td><td>27</td><td>3.3</td><td>0.55</td></tr><tr><td>4</td><td>4.6</td><td>0.4</td><td>16</td><td>3.4</td><td>0.25</td><td>28</td><td>0.4</td><td>0.1</td></tr><tr><td>5</td><td>4.7</td><td>0.2</td><td>17</td><td>4.6</td><td>0.2</td><td>29</td><td>1.8</td><td>0.3</td></tr><tr><td>6</td><td>2.2</td><td>0.15</td><td>18</td><td>1.0</td><td>0.1</td><td>30</td><td>1.2</td><td>0.2</td></tr><tr><td>7</td><td>4.4</td><td>0.1</td><td>19</td><td>1.0</td><td>0.1</td><td>31</td><td>0.9</td><td>0.15</td></tr><tr><td>8</td><td>5.2</td><td>0.2</td><td>20</td><td>2.2</td><td>0.3</td><td>32</td><td>1.4</td><td>0.3</td></tr><tr><td>9</td><td>4.0</td><td>0.15</td><td>21</td><td>1.2</td><td>0.15</td><td>33</td><td>0.6</td><td>0.1</td></tr><tr><td>10</td><td>8.2</td><td>0.5</td><td>22</td><td>0.8</td><td>0.1</td><td>34</td><td>2.3</td><td>0.35</td></tr><tr><td>11</td><td>8.7</td><td>0.6</td><td>23</td><td>1.0</td><td>0.15</td><td>35</td><td>2.4</td><td>0.5</td></tr><tr><td>12</td><td>6.1</td><td>0.55</td><td>24</td><td>1.3</td><td>0.2</td><td>36</td><td>1.2</td><td>0.25</td></tr></table></body></html>
+
+![](images/99bdc50c9c07922450f255202a5ff8151bd8ac13f6dd66961ba045d06f23ea97.jpg)  
+图2VMS数目为3时的适应度函数
+
+表3不同数目VMS的函数适应度值及其布设路段  
+
+<html><body><table><tr><td>VMS数目</td><td>函数适应度值</td><td>最优布设路段</td></tr><tr><td>3</td><td>13.27</td><td>5,8,13</td></tr><tr><td>4</td><td>14.85</td><td>1,5,8,13</td></tr><tr><td>5</td><td>14.33</td><td>1,5,8,10,13</td></tr><tr><td>6</td><td>14.01</td><td>1,5,8,10,13,20</td></tr></table></body></html>
+
+从表中可以看出，当路段中VMS 数目为4时，函数的适应度值最大；当VMS数目为5和6时，其函数适应度值反而减小，这是因为本文将双目标问题转换为单目标求最大值问题，导致随着VMS数目的增多，适应度函数减小；根据改进遗传算法所得最优布设路段得知，当VMS 数目为3时，由于路段5,8,13均距离交通流量大的道路较近，在这些路段布置VMS 能起到很好的交通诱导作用，当VMS数目为4时，除了上述路段，在路段1安装一个VMS，可以有效诱导经过路段1的车辆；当VMS为5和6时，由于VMS显示的信息在其下游路段具有衰减效应，故有必要再次布置VMS，从而重新诱导车流。
+
+# 4 结束语
+
+本文以VMS效用最大和成本最低位双目标函数，结合虚拟复杂路网，采用改进遗传算法对VMS选址进行了研究和实例仿真分析，得出首先VMS应布设在交通流量大的路段，并且设在各个路径的上游路段，考虑到VMS信息随着距离的增加其作用呈衰减状态，故有必要在路网中某些信息量大的路段重新布设VMS，从而得到最优布局点。结果表明，基于改进的遗传算法能快速且全局性的索引路网中VMS的最优路段，避免了局部布局最优的局限性，具有一定的实际应用价值。
+
+# 参考文献：
+
+[1]Abbas M,McCoy P.Optimizing variable message sign locations onfreeways using genetic algorithms [C]// Proc of Transportation ResearchBoard 78th Annual Meeting.1999.  
+[2]GAN Hongcheng,HE Shengxue,Donu J.A model for determining optimalVariable message sign locations [C]//Proc of International Conference onBusiness Management and Electronic Information. 2011:15-19.  
+[3]Chiu Y C, Huynh N.Location configuration dynamic message signs understochastic incident scenarios [J]. Transportation Research Part C; EmergingTechnologies,2007,15(1):33-50.  
+[4]Boyles S D,Waller S T. Optimal information location for adaptive routing[J].Networks and Spatial Economics,2011,1(2): 233-254.  
+[5]Fu Liping,Li Shuo,Henderson J.A model for determining optimal CMSlocationsona freeway-arterial network [J].CommunicationandTransportation Systems Engineering and Information,2005,5(5):101-120.  
+[6] 倪富健，刘志超．可变交通信息牌的最优分布模型[J].信息与控制,2003,32 (5): 385-398.  
+[7] 尚华艳，黄海军，高自友．基于元胞传输模型的可变信息标志选址问题研究[J].物理学报,2007,56(8):4342-4347.  
+[8] 戢晓峰，覃文文．考虑局部排队延误的VMS选址双层规划模型[J].交通运输系统工程与信息,2014,14(6):194-212.  
+[9]四兵峰，陈伯阳．城市可变信息标识选址算法[J].交通运输工程学报,2015,15 (6): 110-117.  
+[10]高贺，张勃．基于单向交通组织的VMS选址模型及仿真[J].交通运输系统工程与信息,2016,16(6):54-59.  
+[11]覃文文．基于部分随机用户均衡的可变信息版双层规划模型[J].公路交通科技,2016,33(11):126-133.  
+[12]周芳，邓乐斌．免疫算法与遗传算法的比较[J]．郧阳师范高等专科学校学报,2004,24 (3):8-10.  
+[13]黄海军．城市交通网络平衡分析：理论与实践[M].北京：人民交通出版社,1994.

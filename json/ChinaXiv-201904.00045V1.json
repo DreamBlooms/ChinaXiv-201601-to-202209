@@ -1,0 +1,716 @@
+[
+    {
+        "type": "text",
+        "text": "基于金字塔结构的群智能演化策略求解混合整数规划问题",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐荷花，彭斯俊，王占占(武汉理工大学 理学院，武汉 430070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：混合整数非线性规划问题（mixed-integer nonlinearprogramming,MINLP）广泛应用于科学及工程系统设计，传统的群智能算法在求解混合整数规划问题时，未能很好地解决种群内部个体或者种群之间开采与探索、竞争与协作的矛盾。为了解决这两个矛盾及更高效率地寻优，提出一种基于金字塔结构的群智能演化策略（swarm intelligentevolution strategy based on pyramid structure）的PES 算法来求解混合整数规划问题。PES 算法中明确的分工机制能够平衡全局与局部搜索的能力，晋升机制解决了种群间竞争与协作的矛盾。利用标准测试函数进行仿真，对比改进的粒子群算法（CLSPSO、CLSPSO2）及改进的差分进化算法（ridDE、ridDE2）的结果，发现PES 算法在成功率与精度方面具有优势，也体现了PES算法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：非线性混合整数规划；竞争；协作；智能算法 中图分类号：TP18 doi:10.19734/j.issn.1001-3695.2018.11.0805 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Swarm intelligent evolution strategy based on pyramid structure for solving mixed integer programming problems ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tang Hehua, Peng Sijun†,Wang Zhanzhan (SchoolofScience,Wuhan University of Technology,Wuhan 43oo70,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mixed integer nonlinear programming(MINLP)is widely used in scientific and engineering system designs.The traditional swarm intelligent algorithm fails to solve thecontradiction between mining and exploration,competitionand cooperation among individuals or populations in the population when solving mixed integer programming problems.In order to solve these two contradictions andoptimize more efficiently,this paper proposeda PES algorithm dueto swarm inteligent evolution strategy based on pyramid structure to solve the mixed integer programming problems.PES algorithm hada clear division oflabor mechanism and promotion mechanism.Aclear division of labor could balance global and local search capabilities.The promotion mechanism resolved the contradictions between competition and collaboration among populations.Standard test functions were used to simulate,and the experimental results showed that successrate and accuracyof the PESalgorithmare beter and verify effectiveness of the PES algorithm bycomparing theresultsof the improved particle swarm optimizationalgorithm(CLSPSO,CLSPSO2)and the improved diferential evolutionalgorithm (ridDE, ridDE2). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: nonlinear mixed integer programming; competition; collaboration; intelligent algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在投资组合优化、运输问题、稀布天线阵列的优化设计、人工神经网络等实际工程中，存在着许多同时包含整数变量和连续变量的非线性优化问题，这类问题称为混合整数非线性规划问题（MINLP）。由于该问题同时含有整数变量和连续变量，以及目标函数和约束条件的非线性，使得结果通常存在局部最优解[I]，所以MINLP问题是一类NP完全问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "求解MINLP的传统方法有分支定界法、扩展割平面法、外逼近法[2.3]等，但随着变量维数的增加，计算量会急剧增加，从而使这些方法存在很大的局限性。目前群智能演化算法广泛用于解决约束优化问题，且被证明很有效。近年来有许多学者将群智能演化算法，如遗传算法 (GA)、蚁群算法 (ACO)粒子群优化算法 (PSO)和差分进化算法 (DE)等[4-用于求解 MINLP问题。这些方法一般都取得了满意的效果。但这些群智能演化算法(ACO、PSO、GA、DE 等)研究的核心是解决种群内部粒子开采与探索的矛盾。将研究的重心放在了竞争上，忽略了平衡种群内部个体或者种群之间竞争与协作的矛盾。以PSO算法为例，个体更新依赖于历史最优个体与当前最优个体对该个体产生的吸引力，这种吸引力主要表现为竞争，有少部分个体间的协作，并且这种协作是有偏好的协作，对协作的目的性不明确，使得个体间的信息交流和传递存在缺陷。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2014年，Tan等人[7提出混沌粒子群优化与混沌搜索相结合来求解整数和混合整数规划问题；2011年，张莉等人[8]提出一种嵌入正交杂交的差分进化算法，基于两水平正交表和因素分析的正交实验设计法所构成的正交杂交算子和差分进化的杂交算子相结合来增强差分进化的搜索性能；2017年，赵乃刚等人[9]提出一种改进的蝙蝠算法，给出了一种自适应变化扰动步长，使算法能够更好地找出局部精确解，同时采用自然选择策略更新最差的部分解，提高种群的多样性；2017年，赵佳鑫等人[10提出一种基于随机游走的粒子群优化算法，通过构造出自适应的惯性权重，平衡了算法的全局和局部搜索能力。在这些改进算法中，文献[7\\~9]侧重于改进粒子的探索能力，文献[10侧重于改进粒子的开采能力。对于种群中的个体，开采能力的增强伴随着探索能力的减弱。以上改进的算法对开采与探索之间的矛盾进行了一定程度的研究，但这些方法依旧是一些独立行为，没有将两者有机地统一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，当前群智能演化算法的信息传递交换方法存在目的性不明确的弊端，未充分研究子种群之间的差异性，需要探寻一种合适的种群演化机制，使得种群个体之间在竞争与协作、开采与探索方面的需求达到平衡。2018年，谈庆[11]提出的一种基于金字塔结构的群智能演化策略PES（swarmintelligence evolution strategy based on pyramid structure），并基于这个策略设计了PES算法。PES算法已成功应用于求解无约束的连续函数优化问题[11]，与其他的五种群智能算法（ACO、DE、ES、GA、PSO）相比，提高了算法的收敛速度且能有效避免早熟收敛。PES算法简单，收敛速度快，有明确的分层机制和晋升机制，能够兼顾好种群内部与种群之间竞争与协作，平衡开采与探索的矛盾。鉴于PES算法的优点，本文利用PES算法来求解非线性混合整数规划这一实际问题，从而将PES算法的应用扩展到非线性混合整数规划问题的求解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 非线性混合整数规划问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的非线性混合整数规划问题的一般模型如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\displaystyle \\operatorname* { m i n } _ { x , y } z = f \\left( X , Y \\right) } \\\\ { \\displaystyle \\int _ { i _ { \\cal A } } \\left( X , Y \\right) = 0 , i = 1 , 2 , . . . , r _ { h } } \\\\ { \\displaystyle \\int _ { g _ { j } } \\left( X , Y \\right) \\le 0 , j = 1 , 2 , . . . , r _ { g } } \\\\ { \\displaystyle \\boldsymbol { s } t \\left| _ { X _ { i } \\in { \\cal R } ^ { m } } \\right. } \\\\ { \\displaystyle \\left. \\begin{array} { l } { y _ { j } \\in { \\cal Z } ^ { n } } \\\\ { \\displaystyle \\left| \\boldsymbol { \\zeta } _ { i } \\le \\boldsymbol { u } _ { i } \\le \\boldsymbol { u } _ { i } \\right. } \\\\ { \\displaystyle \\left| \\boldsymbol { \\zeta } _ { j } \\le \\boldsymbol { x } _ { j } \\le \\boldsymbol { u } _ { j } \\right. } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $X = \\left( { { x } _ { 1 } } , { { x } _ { 2 } } , . . . , { { x } _ { m } } \\right)$ 是 $m$ 维的连续向量； $Y = \\left( { { y } _ { 1 } } , { { y } _ { 2 } } , . . . , { { y } _ { n } } \\right)$ 是 $n$ 维的整数向量； $l _ { i }$ 和 $u _ { i }$ 分别为变量 $x _ { i }$ 取值的上下界； $l _ { j }$ 和 $u _ { j }$ 分别为变量 $x _ { j }$ 取值的上下界； $f \\left( X , Y \\right)$ 为目标函数； $h _ { i } \\left( X , Y \\right)$ 为等式约束条件， $g _ { j } \\left( X , Y \\right)$ 为不等式约束条件； $f ( X , Y ) \\ , \\ h _ { i } ( X , Y )$ ，$g _ { j } \\left( X , Y \\right)$ 至少有一个为非线性函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 PES算法求解非线性混合整数规划问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1PES 算法原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PES 算法[1]是一种基于金字塔结构的群智能演化算法。该算法按照适应度函数值对种群进行分类得到子种群，根据分类的具体情况确定子种群开采、探索、传递三种不同的任务分工，进而构建出金字塔模型对函数优化问题进行建模求解的算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PES算法有明确的分工机制。适应度最好的个体侧重于开采工作，适应度中等的个体负责开采、探索与传递工作,适应度较差的个体侧重于探索工作。明确的分工机制确保了在整个演化过程中，PES算法能同时兼顾到开采与探索,起到平衡开采与探索矛盾的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PES算法提出了明确的晋升机制。底层经过随机搜索选出优秀个体传递给中间层，中间层对传上来的个体和自身的个体进行孵化操作，并将优秀的个体传递给顶层。这种层次递进的演化晋升操作不仅考虑了子种群内部个体存在的竞争关系，而且考虑子种群之间优秀个体存在的协作关系。明确的晋升机制确保了在整个演化过程中，PES算法能同时兼顾竞争与协作,起到平衡竞争与协作矛盾的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2PES 算法步骤 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)参数设置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设种群规模为 $N$ ，分层比例 $D$ ，传递比例 $T$ ，各层的搜索半径 $R$ ，加速步长λ，控制收敛因子 $\\alpha$ ，初始可行解 $x _ { 0 }$ ，最大迭代次数 $\\operatorname* { m a x } g$ ，并设置初始种群中可行解的比例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)初始化种群，并计算其适应度函数值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用实数和整数混合编码来表示个体，向量$\\left( x _ { t } , y _ { t } \\right) = \\left( x _ { t 1 } , x _ { t 2 } , . . . , x _ { t m } , y _ { t 1 } , y _ { t 2 } , . . . , y _ { t n } \\right)$ ，表示种群中第 $t$ 个个体，代表问题式(1)的一个解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按式(2)(3)随机产生包含 $N$ 个个体的初始种群，令$g = 1 , t = 1 , 2 , . . . , N$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { t i } = l _ { i } + r a n d \\times ( u _ { i } - l _ { i } ) , ( i = 1 , 2 , . . . , m )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { t j } = l _ { j } + \\mathrm { r a n d p e r m } ( 0 , u _ { j } - l _ { j } ) , ( j = 1 , 2 , . . . , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：rand 为区间[0,1]均匀分布的随机数；randperm $( 0 , u _ { j } - l _ { j } )$ 表示 $[ 0 , { u } _ { j } - l _ { j } ]$ 内取得的随机整数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c根据适应度值进行分层操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随机产生的种群中的个体是杂乱无序的，分层操作使得个体间的分工更加明确，继而加快寻优的速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将初始种群中的个体 $\\left( x _ { t } , y _ { t } \\right)$ 按照适应度值进行升序排列后，按照设置的分层比例 $D$ 对个体进行分层：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ F , I \\right] = s o r t ( F _ { 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = P _ { 0 } \\left( I \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $F$ 是 $F _ { 0 }$ 经过升序操作后的适应度函数集； $\\textit { I }$ 是升序时原初始种群适应度 $F _ { 0 }$ 对应的索引； $P$ 是原初始种群 $P _ { 0 }$ 按照适应度 $F _ { 0 }$ 升序排列之后得到的种群。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "下面对排序后的种群进行划分：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\{ P _ { 1 } , P _ { 2 } , P _ { 3 } , P _ { 4 } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $P _ { k } \\left( k = 1 , 2 , 3 , 4 \\right)$ 分别表示开采层、两个传递层、探索层的子种群。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据式(7)确定每层的个体数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { k } = N \\times D _ { k } , ( k = 1 , 2 , 3 , 4 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $p _ { k }$ 为第 $k$ 层的个体数； $D _ { k }$ 为第 $k$ 层的分层比率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)层内探索规则。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一层(顶层)称为开采层。主要负责深入挖掘已存在的优秀个体所在区域；第二层和第三层称为传递层，它们的职责有三个：(a)兼并开采与探索的工作，由下至上开采能力逐步增强，探索能力逐步减弱；(b)通过传递操作建立开采层与探索层之间的桥梁；(c)对于传递上去的新的潜在优秀个体，需要进行保护培养，充分挖掘其潜力，不直接与该层中的其他个体竞争。第四层(最底层)称为探索层，探索层的搜索半径要大于开采层的搜索半径，因为探索层主要负责探索发现未知的潜在优秀个体及其所在区域，而开采层则着重于从已找到的优秀个体中找到更优秀的个体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每层的随机探索规则为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left\\{ d = \\operatorname* { m i n } \\big \\{ \\big | x _ { i i } - l _ { i } \\big | , \\big | x _ { i i } - u _ { i } \\big | , r _ { k } \\big \\} , \\big ( k = 1 \\big ) \\right. } \\\\ & { \\left. \\begin{array} { l } { r _ { i } ^ { * } = \\delta \\times d } \\\\ { x _ { i i } ^ { * } = x _ { i i } \\pm r _ { \\mathrm { i } } ^ { * } , \\big ( k = 1 , i = 1 , 2 , . . . , m \\big ) } \\end{array} \\right. } \\\\ & { \\left. \\begin{array} { l } { y _ { i j } ^ { * } = y _ { i j } \\pm R _ { k } , \\big ( k = 1 , j = 1 , 2 , . . . , n \\big ) } \\\\ { x _ { i i } ^ { * } = x _ { i i } + \\big ( 2 \\times \\delta - 1 \\big ) r _ { k } , \\big ( k = 2 , 3 , 4 \\big ) } \\\\ { \\big | y _ { i j } ^ { * } = y _ { i j } + r a n d p e r m \\big ( 2 R _ { k } + 1 , 1 \\big ) - R _ { k } - 1 , \\big ( k = 2 , 3 , 4 \\big ) } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta$ 为[0,1)均匀分布的随机数；$\\left( \\boldsymbol { x } _ { t } ^ { * } , \\boldsymbol { y } _ { t } ^ { * } \\right) = \\left( \\boldsymbol { x } _ { t 1 } ^ { * } , \\boldsymbol { x } _ { t 2 } ^ { * } , . . . , \\boldsymbol { x } _ { t m } ^ { * } , \\boldsymbol { y } _ { t 1 } ^ { * } , \\boldsymbol { y } _ { t 2 } ^ { * } , . . . , \\boldsymbol { y } _ { t n } ^ { * } \\right)$ 是第 $k$ 层产生的新个体， $\\left( x _ { t } , y _ { t } \\right)$ 为第 $k$ 层已存在的个体；randperm 表示随机产生在上下界范围内的整数。在开采层中，个体已处于适应度值较好的区域，个体探索的随机性减弱，因此减小搜索半径，处理后的半径为r。 $r _ { k }$ 是第 $k$ 层的连续变量搜索半径， $R _ { k }$ 是第 $k$ 层的整数变量搜索半径。整数变量的搜索半径为单位步长，式(8)其中对第 $t$ 个个体整数变量的搜索策略为前进一步、后退一步或者原地不动。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "连续变量的初始半径越往顶层越小，侧重于增强个体的开采能力，半径随着迭代次数增加而减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { k } = r _ { 0 } \\times \\alpha ^ { g } \\left( k = 1 , 2 , 3 , 4 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $r _ { 0 }$ 为连续变量的初始半径； $\\alpha$ 为控制收敛因子；g为迭代次数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于新个体的向量 $\\left( x _ { t } ^ { * } , y _ { t } ^ { * } \\right)$ 各分量 $x _ { t i } ^ { \\prime } \\left( i = 1 , 2 , . . . , m \\right)$ ，$y _ { t j } ^ { \\prime } \\left( j = 1 , 2 , . . . , n \\right)$ 可能落在搜索区间 $[ l _ { i } , u _ { i } ]$ 和 $[ l _ { j } , u _ { j } ]$ 外，所以对各分量进行检查并作修正，表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\Dot { x _ { t i } } = \\left\\{ \\begin{array} { l l } { \\left( - x _ { t i } ^ { ' } + l _ { i } \\right) / 2 + l _ { i } , \\ x _ { t i } ^ { ' } < l _ { i } } \\\\ { \\qquad x _ { t i } ^ { ' } , \\qquad l _ { i } \\leq x _ { t i } ^ { ' } \\leq u _ { i } } \\\\ { - \\big ( x _ { t i } ^ { ' } - u _ { i } \\big ) / 2 + u _ { i } , x _ { t i } ^ { ' } > u _ { i } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { y _ { t j } ^ { \\cdot } = \\left\\{ \\begin{array} { l l } { c e i l \\left( \\left( l _ { j } - y _ { t j } ^ { \\cdot } \\right) / 2 \\right) + l _ { j } , } & { y _ { t j } ^ { \\cdot } < l _ { j } } \\\\ { y _ { t j } ^ { \\cdot } , } & { l _ { j } \\leq y _ { t j } ^ { \\cdot } \\leq u _ { j } } \\\\ { - c e i l \\left( \\left( y _ { t j } ^ { \\cdot } - u _ { j } \\right) / 2 \\right) + u _ { j } , y _ { t j } ^ { \\cdot } > u _ { j } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)层内加速。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产生新点后，为了更好地实现初步筛选的目的，对新产生的个体进行加速操作：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c} \\begin{array} { r } { \\left\\{ \\big ( x _ { t } ^ { s } , y _ { t } ^ { s } \\big ) = \\big ( x _ { t } ^ { \\cdot } , y _ { t } ^ { \\cdot } \\big ) + \\lambda \\big ( \\big ( x _ { t } ^ { \\cdot } , y _ { t } ^ { \\cdot } \\big ) - \\big ( x _ { t } , y _ { t } \\big ) \\big ) , i f \\ f \\big ( x _ { t } ^ { \\cdot } , y _ { t } ^ { \\cdot } \\big ) \\leq f \\big ( x _ { t } , y _ { t } \\big ) \\right.} \\\\ { \\big ( x _ { t } ^ { s } , y _ { t } ^ { s } \\big ) = \\big ( x _ { t } ^ { \\cdot } , y _ { t } ^ { \\cdot } \\big ) - \\lambda \\big ( \\big ( x _ { t } ^ { \\cdot } , y _ { t } ^ { \\cdot } \\big ) - \\big ( x _ { t } , y _ { t } \\big ) \\big ) , i f \\ f \\big ( x _ { t } ^ { \\cdot } , y _ { t } ^ { \\cdot } \\big ) > f \\big ( x _ { t } , y _ { t } \\big ) } \\end{array}   \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\lambda$ 为加速步长； $\\left( \\boldsymbol { x } _ { t } ^ { s } , \\boldsymbol { y } _ { t } ^ { s } \\right)$ 为加速后新产生的个体； $f \\left( x _ { t } , y _ { t } \\right)$ 为第 $t$ 个个体的适应度函数值，超出边界的加速点的处理方法同式(10)(11)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)层间传递。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在输送层产生新的个体后，从传输层确定的子种群中根据传递比率 $T$ 按照规模为2的联赛机制向上层进行个体传输。接收层将传递上来的个体和自身已有个体一起进行孵化培养，充分挖掘优秀个体的潜力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)确定新种群。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将每层产生的新个体、加速个体、传递个体及培养过的个体，根据适应度值的优劣进行排序，并形成整合种群。从该种群中选择 $p _ { k }$ 个个体作为第 $k$ 层的子种群，每个个体按照保留精英策略的单精度轮盘赌机制进行选择。先保留一个适应度值最好的个体，其他个个体根据式(13)[1计算其被选择的概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\left( x _ { t } , y _ { t } \\right) = \\left\\{ \\begin{array} { l l } { \\displaystyle { 2 } } & { \\quad t = p _ { k } - 1 } \\\\ { \\quad P \\left( x _ { t + 1 } , y _ { t + 1 } \\right) + P \\left( x _ { p _ { k } - 1 } , y _ { p _ { k } - 1 } \\right) t = 1 , . . . , p _ { k } - 2 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $P ( x _ { t } , y _ { t } )$ 表示排序后的第 $\\textit { t }$ 个个体被选择的概率。设$\\left( x _ { t } , y _ { t } \\right)$ 是第：代种群依据式(6)得到的第 $k$ 层的任意个体，按照层内探索、层内加速、层间传递、选择子种群四个步骤进行更新，将更新后的四个子种群整合在一起作为新种群。由于新种群中可能出现相同的个体，为了更好地实现种群多样性以及更有效率的寻优，只保留一个，其他个体用式(2)(3)随机产生的个体进行替代。找出当前种群中的最佳个体bestX及其目标函数值bestobjv。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "h)停止条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果达到最大迭代次数 $\\operatorname* { m a x } g$ ，则输出最优解bestX 及最优值bestobjv；否则令 $g = g + 1$ ，转步骤c)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验工具：MATLAB(R2016a)。实验环境:Windows7操作系统，Intel处理器 $2 . 6 0 \\ : \\mathrm { G H Z }$ ，4GB 内存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了评估PES算法求解非线性混合整数规划问题的性能和有效性，本文对七个带约束的非线性混合整数规划问题的常用标准测试函数进行仿真[78]（见3.1节），该类函数是由实际的工程问题抽象而成，并且选取的函数具有很强的检验性。第一种测试函数连续性的变量多于离散性的变量，而第二种测试函数则相反，这样可以综合检验算法的性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将测试结果与改进的粒子群算法[7]和改进的差分进化算法[8,12]在最优值、最差值、平均值、方差和成功率多个方面进行分析比较。其中，改进的粒子群算法是从六个粒子群优化算法与混沌搜索相结合的其他六种混合算法（CLSPSO、CLSPSO1、CLSPSO2、CLSPSO3、CLSPSO4、CLSPSO5)中，选择每个问题测试效果最好的两种改进粒子群算法的结果，从而体现出PES算法在稳定性、成功率、最优解的精度等方面比改进的粒子群算法及改进的差分进化算法更具有优势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1测试函数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）测试问题1",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\operatorname* { m i n } f \\left( x _ { 1 } , x _ { 2 } , y \\right) = - y + 2 x _ { 1 } + x _ { 2 } } \\\\ { s . t \\Bigg \\{ \\begin{array} { l } { x _ { 1 } - 2 \\exp \\left( - x _ { 2 } \\right) = 0 } \\\\ { - x _ { 1 } + x _ { 2 } + y \\leq 0 } \\\\ { 0 . 5 \\leq x _ { 1 } \\leq 1 . 4 } \\\\ { y \\in \\{ 0 . 1 \\} } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为 $( x _ { 1 } , x _ { 2 } , y ; f ) = ( 1 . 3 7 5 , 0 . 3 7 5 , 1 ; 2 . 1 2 4 )$ 。2）测试问题2",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\operatorname* { m i n } f ( x _ { 1 } , x _ { 2 } , y ) = - 0 . 7 y + 5 ( x _ { 1 } - 0 . 5 ) ^ { 2 } + 0 . 8 } \\\\ & { \\qquad \\quad  - \\exp ( x _ { 1 } - 0 . 2 ) - x _ { 2 } \\leq 0 } \\\\ & { \\qquad \\quad x _ { 2 } + 1 . 1 y \\leq - 1 } \\\\ & { \\qquad \\quad s t  _ { 1 } - y \\leq 0 . 2 } \\\\ & { \\qquad \\quad 0 . 2 \\leq x _ { 1 } \\leq 1 } \\\\ & { \\qquad \\quad - 2 . 2 2 5 5 4 \\leq x _ { 2 } \\leq - 1 } \\\\ & { \\qquad \\quad y \\in \\{ 0 , 1 \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为 $( x _ { 1 } , x _ { 2 } , y ; f ) = ( 0 . 9 4 1 9 4 , - 2 . 1 , 1 ; 1 . 0 7 6 5 4 )$ 。3）测试问题3",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\operatorname* { m i n } f \\left( x _ { 1 } , x _ { 2 } \\right) = \\left( x _ { 1 } - 1 0 \\right) ^ { 3 } + \\left( x _ { 2 } - 2 0 \\right) ^ { 3 } } \\\\ { \\displaystyle \\quad } \\\\ { s . t \\left\\{ - \\left( x _ { 1 } - 5 \\right) ^ { 2 } + \\left( x _ { 2 } - 5 \\right) ^ { 2 } - 1 0 0 \\geq 0 \\right. } \\\\ { \\displaystyle - \\left( x _ { 1 } - 6 \\right) ^ { 2 } - \\left( x _ { 2 } - 5 \\right) ^ { 2 } + 8 2 . 8 1 \\geq 0 } \\\\ { \\displaystyle \\left. 1 3 \\leq x _ { 1 } \\leq 1 0 0 , \\mathrm { i n t e g e r } \\right. } \\\\ { \\displaystyle 0 \\leq x _ { 2 } \\leq 1 0 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为 $( x _ { 1 } , x _ { 2 } ; f ) = ( 1 5 , 3 . 6 5 4 6 4 ; - 4 2 4 2 . 0 0 4 7 3 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4）测试问题4",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\operatorname* { m a x } f \\left( x _ { 1 } , x _ { 2 } , x _ { 3 } , y _ { 1 } , y _ { 2 } \\right) } \\\\ { = - 5 . 3 5 7 8 5 4 x _ { 1 } ^ { 2 } - 0 . 8 3 5 6 8 9 y _ { 1 } x _ { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns t \\left\\{ \\begin{array} { l l } { a _ { 1 } + a _ { 2 } y _ { 2 } x _ { 3 } + a _ { 3 } y _ { 1 } x _ { 2 } - a _ { 4 } x _ { 1 } x _ { 3 } \\leq 9 2 } \\\\ { a _ { 5 } + a _ { 6 } y _ { 2 } x _ { 3 } + a _ { 7 } y _ { 1 } y _ { 2 } + a _ { 8 } x _ { 1 } ^ { 2 } - 9 0 \\leq 2 0 } \\\\ { a _ { 9 } + a _ { 1 0 } x _ { 1 } x _ { 3 } + a _ { 1 1 } y _ { 1 } x _ { 1 } - a _ { 1 2 } x _ { 1 } x _ { 2 } - 2 0 \\leq 5 } \\\\ { 2 7 \\leq x _ { 1 } , x _ { 2 } , x _ { 3 } \\leq 4 5 } \\\\ { y _ { 1 } \\in \\{ 7 8 , 7 9 , . . . , 1 0 2 \\} , \\mathrm { i n t e g e r } } \\\\ { y _ { 2 } \\in \\{ 3 3 , 3 4 , . . . , 4 5 \\} , \\mathrm { i n t e g e r } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为 $( x _ { 1 } , x _ { 3 } , y _ { 1 } ; f ) = ( 2 7 , 2 7 , 7 8 ; 3 2 2 1 7 . 4 )$ ， $\\left( x _ { 2 } , y _ { 2 } \\right)$ 可以是各种不同的可行组合。问题4中各参数的取值如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/50c3d9442ad868df5ef764cdb276c92c37a401cdd8e7ed6b1ef11fec0d014d1e.jpg",
+        "table_caption": [
+            "表1问题4中各参数的取值",
+            "Table1 Value of each parameter in question 4 "
+        ],
+        "table_footnote": [
+            "5）测试问题5"
+        ],
+        "table_body": "<html><body><table><tr><td>Table1</td><td>vaiueoreacnparanieternlquestion4 a5 =80.51249</td><td>a,=9.300961</td></tr><tr><td>a=85.334407 a =0.0056858</td><td>a6 =0.0071317</td><td>a10=0.0047026</td></tr><tr><td>a=0.0006262</td><td>a=0.0029955</td><td>a=0.0012547</td></tr><tr><td></td><td>ag=0.0021813</td><td></td></tr><tr><td>a4 =0.0022053</td><td></td><td>al =0.0019085</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } { f \\left( x \\right) } = \\sum _ { i = 1 } ^ { 9 } \\left[ \\exp { \\left( - \\frac { \\left( u _ { i } - x _ { 2 } \\right) ^ { x _ { 3 } } } { x _ { 1 } } \\right) } - 0 . 0 1 i \\right] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns . t \\left\\{ \\begin{array} { l } { 0 . 1 \\leq x _ { 1 } \\leq 1 0 0 } \\\\ { 0 \\leq x _ { 2 } \\leq 2 5 . 6 } \\\\ { 0 \\leq x _ { 3 } \\leq 5 , } \\\\ { x _ { 1 } , x _ { 2 } \\mathrm { ~ i n t e g e r s } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为 $( x _ { 1 } , x _ { 2 } , x _ { 3 } ; f ) = ( 5 0 , 2 5 , 1 . 5 ; 0 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6)测试问题6",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { ~ \\operatorname* { d i m } _ { f } ~ } ( x , y ) = ( y _ { 1 } - 1 ) ^ { 2 } + ( y _ { 2 } - 1 ) ^ { 2 } - ( y _ { 3 } - 1 ) ^ { 3 } - } \\\\ &  \\mathrm { ~ \\operatorname* { d i m } _ { ( ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ + ~ ( x _ { \\varepsilon } - 1 ) ^ { 2 } ~ + ~ ( x _ { \\varepsilon } - 2 ) ^ { 2 } ~ + ~ ( x _ { \\varepsilon } - 3 ) ^ { 2 } ~ } } \\\\ & { \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ + ~ y _ { 2 } + ~ y _ { 3 } + ~ x _ { \\varepsilon } ~ + ~ x _ { \\varepsilon } ~ + ~ y _ { 3 } ~ } ~ } } \\\\ & { \\qquad [ \\begin{array} { l } { y _ { 1 } ^ { 2 } + x _ { \\varepsilon } ^ { 2 } + x _ { \\varepsilon } + x _ { \\varepsilon } + x _ { \\varepsilon } \\leq 5 } \\\\ { y _ { 2 } ^ { 2 } + x _ { \\varepsilon } + 1 ^ { 2 } + x _ { \\varepsilon } ^ { 2 } \\leq 5 . 5 } \\\\ { y _ { 3 } ^ { 2 } + x _ { \\varepsilon } \\leq 1 . 8 } \\\\ { y _ { 2 } ^ { 2 } + x _ { \\varepsilon } \\leq 1 . 8 } \\end{array} ] } \\\\ & { \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ } } y _ { + } x _ { \\varepsilon } + 2 . 5 } \\\\ & { \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ } } y _ { + } + x _ { \\varepsilon } \\leq 1 . 2 } \\\\ & { \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ } } y _ { + } + x _ { \\varepsilon } \\leq 4 . 2 5 } \\\\ & { \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ } } y _ { + } + x _ { \\varepsilon } \\leq 4 . 2 5 } \\\\ & { \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } ~ } } y _ { - } ^ { 2 } + x _ { \\varepsilon } ^ { 2 } \\leq 4 . 4 5 } \\\\ &  \\mathrm { ~ \\operatorname* { d i m } _ { ( ( \\frac { 1 } { 3 } ) ) ^ { 2 } + ( \\frac { 1 } { 3 } ) ^ { 2 } + ( \\frac { 1 } { 3 } ) ^ { 2 } + ( \\frac { 1 } { 3 } ) ^ { 3 } - } \\mathrm { ~ f o r ~ } 1 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { ( x _ { 1 } , x _ { 2 } , x _ { 3 } , y _ { 1 } , y _ { 2 } , y _ { 3 } ) = \\left( 0 . 2 , 1 . 2 8 0 6 2 4 , 1 . 9 5 4 4 8 3 , 1 , 0 , 0 , 1 \\right) } } \\\\ { { f = 3 . 5 5 7 4 6 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7）测试问题7",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\operatorname* { m i n } f \\left( x _ { 1 } , x _ { 2 } , x _ { 3 } , y \\right) = x _ { 1 } x _ { 2 } x _ { 3 } \\left( y _ { 1 } ^ { 2 } - y _ { 1 } y _ { 2 } + y _ { 2 } ^ { 2 } \\right) + x _ { 1 } y _ { 2 } ^ { 0 . 5 } + x _ { 2 } } \\\\ & { ~ \\quad \\left( \\begin{array} { l } { 3 x _ { 1 } + x _ { 2 } y _ { 2 } = 5 } \\\\ { 5 x _ { 2 } + y _ { 1 } \\geq 6 } \\\\ { s _ { 3 } + x _ { 1 } \\geq 1 } \\\\ { 0 \\leq y _ { 1 } , y _ { 2 } \\leq 2 } \\\\ { x _ { 1 } , x _ { 2 } , x _ { 3 } \\in \\{ 0 , 1 \\} } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最优解和最优值为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( x _ { 1 } , x _ { 2 } , x _ { 3 } , y _ { 1 } , y _ { 2 } ; f ) = ( 1 , 1 , 0 , 1 , 2 ; 1 - { \\sqrt { 2 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验中各个问题求解时，PES算法的参数设置见表2。其中问题6的最大迭代次数 $\\operatorname* { m a x } g$ 设为70000代，运行次数为10次，其他问题的最大迭代次数均为1000代，对每个问题独立运行50次。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e47624ac2fb63c9245ef2ee3ffec5375279dea4f12f6348d9fc74318892a90e8.jpg",
+        "table_caption": [
+            "表2求解问题的参数",
+            "Table 2Parameters for solving proble "
+        ],
+        "table_footnote": [
+            "表中各参数的含义与2.2中各符号的定义相同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">问题</td><td colspan=\"6\">参数</td></tr><tr><td>N</td><td>D</td><td>T</td><td>R</td><td>1</td><td>α</td></tr><tr><td>P01</td><td>40</td><td></td><td></td><td>[0.1,0,2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1][0.1,1]</td><td></td><td>0.99</td></tr><tr><td>P02</td><td>40</td><td></td><td></td><td>[0.1,0.2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1][0.1,1]</td><td></td><td>0.99</td></tr><tr><td>P03</td><td>40</td><td></td><td></td><td>[0.1,0.2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1] [0.1,1]</td><td></td><td>0.9999</td></tr><tr><td>P04</td><td>40</td><td></td><td></td><td>[0.1,0.2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1] [0.1,1]</td><td></td><td>0.99</td></tr><tr><td>P05</td><td>40</td><td></td><td></td><td>[0.1,0,2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1][0.1,1]</td><td></td><td>0.99</td></tr><tr><td>P06</td><td>40</td><td></td><td></td><td>[0.1,0,2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1][0.1,1]</td><td></td><td>0.9999</td></tr><tr><td>P07</td><td>40</td><td></td><td></td><td>[0.1,0,2,0.3,0.4][0.2,0.4,0.6][0.01,0.05,0.1,0.2,1,1,1,1][.1,1]</td><td></td><td>0.99</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "记录运行50次后问题的最优解、对应的目标函数值、成功率(算法的成功率是指50次运行结果中目标函数值与已知目标函数值的差小于 $0 . 1 \\%$ 的次数占比)，其中，问题6的运行次数设置为10次，统计结果见表3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3本文算法的统计结果",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/26bc8f4502991f8bf3c44bc574f1f050ab4d49ebc89f6f831a3994cf9dba9d68.jpg",
+        "table_caption": [
+            "Table 3Statistical results ofPES algorithm "
+        ],
+        "table_footnote": [
+            "注：\\*在[1,2]之间任取 "
+        ],
+        "table_body": "<html><body><table><tr><td>问题</td><td>成功率/%</td><td>最优值</td><td>最优解</td></tr><tr><td>P01(min)</td><td>100</td><td>2.1245</td><td>(1.3748,0.3748,1)</td></tr><tr><td>P02(min)</td><td>100</td><td>1.0765</td><td>(0.94194,-2.1,1)</td></tr><tr><td>P03(min)</td><td>100</td><td>-4242.0047</td><td>(15,3.65464)</td></tr><tr><td>P04(max)</td><td>100</td><td>32217.4278</td><td>(27,36.9427,27,78,39)</td></tr><tr><td>P05(min)</td><td>100</td><td>2.1622e-32</td><td>(50,25,1.5)</td></tr><tr><td>P06(min)</td><td>90</td><td>3.557463</td><td>(0.2,1,28061258,1.95448954,1,0,0,1)</td></tr><tr><td>P07(min)</td><td>100</td><td>-0.43444</td><td>(1,1,0,*,1.6667)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图 $1 { \\sim } 7$ 是问题 $1 \\sim$ 问题7最佳迭代次数运行结果的收敛曲线图。从所有问题的收敛曲线可以看到，大部分问题均能在200代找到最优解，并且前几代的收敛速度很快，这与种群之间的明确分工有密切关系。各算法运行结果如表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，对于问题 $\\mathrm { P 0 1 } { \\sim } \\mathrm { P } 0 5$ 和P07，PES算法均能在1000 代的进化过程中求出最优解；其中最小值问题P07和最大值问题P04，本文求得的结果好于已知最优解，P07目前已知最优解是[1,1,0,\\*,2]，其中\\*代表变量 $y _ { 1 }$ 的结果不唯一，在[1,2]取值。DE 算法求得的最优值和已知的最优值均为 $\\sqrt { 2 } - 1$ ，即-0.414214。而本文算法求得的最优解为[1,1,0,\\*,1.6667]，最小值为-0.43444，所求解优于目前所知最优解，表明了PES算法跳出局部最优的能力很强；从解的精度、最差值、平均值这三个指标来讲，对于问题P01\\~P05，PES算法求解的精度在一定程度上比CLSPSO算法和CLSPSO2算法所更高；从标准差的角度来看，标准差能够体现了算法的稳定性，方差越小，算法越稳定。PES算法对问题P01、P02、P04、P05、P06、P07以最小的方差展现出算法的性能优势。在成功率这个指标来看，除问题P06的成功率为 $90 \\%$ 外，稍逊于ridDE算法的成功率，其他测试问题均能达到 $100 \\%$ 的成功率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于问题P06，已知的最优值为3.557463，最优解为(0.2,1.280624,1.954483,1,0.0,1)。对于此最优解，九个约束条件的值 $g _ { j } \\left( j = 1 , 2 , . . . , 9 \\right)$ 分别为[-5.64893，0.00000126665，0,-0.51936，-0.545517，0，-0.000002170624，-0.429996202711,-0.819996202711]，显然，该最优解违反了第二个约束条件，因此，此解是近似可行解，而非真正的最优解。本文算法通过增加迭代次数到七万代，得到最优值为3.55746365455661，各变量的值为(0.199999697952902，1.28061258695081,1.954489549651701,1,0.0,1)，此时约束条件的值为[-0.5649,-0.2123e-07， -0.3020e-08,-0.5194， -0.5455， -0.3020e-08,-0.3140e-06,-0.4300,-0.8200]。本文算法找到了一个真正可行的最优解。对于其他问题，本文算法均能有效地求解出最优解。PES算法与改进的粒子群算法及改进的差分进化算法相比，对大部分测试函数，都能够有效提高解的精度、稳定性和成功率，具有明显的竞争优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a83ac7193197a2e58e00574c3e862f99649c9d9f3a05746a8ebaa87be58d2f60.jpg",
+        "img_caption": [
+            "图1P01的收敛曲线 Fig.1Convergence curve of P01 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fef3be8e836ef1d9208b85a8bde2419be37474b715d2cdf4d48d92931a654258.jpg",
+        "img_caption": [
+            "图2P02的收敛曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f539bdab8c81cd2b7274b551e5f29cf1de35c4c7818e14f372202032aa496c3.jpg",
+        "img_caption": [
+            "图3P03的收敛曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c09d6c79d235a584ad0573a0bf4f26294f1e107336b00c64e6944c91ca8101c.jpg",
+        "img_caption": [
+            "Fig.2Convergence curve of P02 ",
+            "Fig.5Convergence curve of P05 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aab94c84d99b1ef7ecce709a98bd9d05f92eb356b57801fc10c82bbd95069e13.jpg",
+        "img_caption": [
+            "图4P04的收敛曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/23918aa564a666df5a5043c18d5fd198e325bfec1fa1d31a87b9122c7a553708.jpg",
+        "img_caption": [
+            "Fig.3Convergence curve of P03 ",
+            "图6P06的收敛曲线",
+            "Fig.6Convergence curve of P06 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6ce1186b75f9233aec059ab791ff824fc8c82a549158cb3111820be0f471798.jpg",
+        "img_caption": [
+            "Fig.4Convergence curve of P04 ",
+            "图5P05的收敛曲线",
+            "图7P07的收敛曲线",
+            "Fig.7Convergence curve of P07 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a855b2155b276b338c7e225a6008c2bbe614fbc7f7aa8da3ab7435950ba323fb.jpg",
+        "table_caption": [
+            "表4各算法运行结果",
+            "Table 4Results of each algorithm operation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试问题 （已知最优解）</td><td>算法</td><td>最优值</td><td>最差值</td><td>平均值</td><td>标准差</td><td>成功率（%)</td></tr><tr><td rowspan=\"3\">P01 (2.124)</td><td>PES</td><td>2.1245</td><td>2.1245</td><td>2.1245</td><td>2.5591e-09</td><td>100</td></tr><tr><td>CLSPSO</td><td>2.1245</td><td>2.1245</td><td>2.1245</td><td>1.71e-07</td><td>100</td></tr><tr><td>CLSPSO2</td><td>2.1245</td><td>2.1245</td><td>2.1245</td><td>1.3756e-05</td><td>100</td></tr><tr><td rowspan=\"4\">P02 (1.07654)</td><td>PES</td><td>1.0765</td><td>1.0765</td><td>1.0765</td><td>1.8335e-07</td><td>100</td></tr><tr><td>CLSPSO</td><td>1.0765</td><td>1.0894</td><td>1.0771</td><td>0.0020</td><td>86</td></tr><tr><td>CLSPSO2</td><td>1.0766</td><td>1.0828</td><td>1.0790</td><td>0.0017</td><td>28</td></tr><tr><td>PES</td><td>-4242.0047</td><td>-4241.9754</td><td>-4241.9993</td><td>0.00547</td><td>100</td></tr><tr><td rowspan=\"3\">P03(-4242.00473)</td><td>CLSPSO</td><td>-4242</td><td>-4242</td><td>-4242</td><td>3.67e-12</td><td>100</td></tr><tr><td>CLSPSO2</td><td>-4242</td><td>-4241.8</td><td>-4242</td><td>0.0557</td><td>100</td></tr><tr><td>PES</td><td>32217.4278</td><td>32217.4278</td><td>32217.4278</td><td>1.819e-11</td><td>100</td></tr><tr><td rowspan=\"3\">P04(32217.42)</td><td>CLSPSO</td><td>32217</td><td>32217</td><td>32217</td><td>2.20e-11</td><td>100</td></tr><tr><td>CLSPSO2</td><td>32217</td><td>32158</td><td>32210</td><td>19.6487</td><td>88</td></tr><tr><td>PES</td><td>2.1622e-32</td><td>2.3646e-06</td><td>3.3177e-07</td><td>4.0997e-07</td><td>100</td></tr><tr><td rowspan=\"3\">P05(0) P06(3.557463)</td><td>CLSPSO</td><td>3.7871e-08</td><td>3.4151e-04</td><td>1.1893e-05</td><td>5.2502e-05</td><td>100</td></tr><tr><td>CLSPSO2</td><td>4.6253e-08</td><td>3.5139e-04</td><td>1.8628e-05</td><td>5.4402e-05</td><td>100</td></tr><tr><td>PES</td><td>3.557463</td><td>3.560098</td><td>3.579559</td><td>0.0065611</td><td>90</td></tr><tr><td rowspan=\"2\"></td><td>ridDE</td><td>3.557465</td><td></td><td>3.557513</td><td>0.007497</td><td>100</td></tr><tr><td>PES</td><td>-0.43444</td><td>-0.43444</td><td>-0.43444</td><td>1.3801e-14</td><td>100</td></tr><tr><td>P07（1-√2）</td><td>ridDE2</td><td>-0.414214</td><td>-0.414214</td><td>-0.414214</td><td>-</td><td>100</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对非线性混合整数规划问题，本文利用一种基于金字塔结构的群智能演化策略的PES算法进行求解，通过解决种群或个体之间的开采与探索、竞争与协作的两个矛盾，使得它比传统的一些群智能演化算法有着更好的跳出局部最优的寻优性能。数值结果表明，PES算法不仅是有效的，而且是稳定的，该算法为求解MINLP问题提供了全新的思路。但它仍有许多方面需要进行改进，比如PES算法的参数较多，能否通过找到一组最优参数来提高算法效率。下一步可以延拓到PES算法是否能够应用于求解组合优化问题，如TSP问题、0-1背包问题等混合整数规划问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]黄玉兰，夏璞，夏岩，等.物联网射频识别(RFID)核心技术详解 [M].北京：人民邮电出版社，2012:22-25.(Huang Yulan,Xia Wei, Xia Yan,et al.Detailed explanation of the core technology of internet of things radio frequency identification (RFID) [M].Beijing:People's Postsand Telecommunications Press,2012:22-25.)   \n[2]马艳利．混合整数非线性规划问题的分支定界算法研究[D].宁夏： 宁夏大学,2014.(Ma Yanli.Research on branch and bound algorithm for mixed integer nonlinear programming problems [D]. Ningxia: Ningxia University,2014.)   \n[3]仝哲，张炳江，李慧．关于存在多组最优解的整数线性规划问题的 割平面法的研究[J].数学的实践与认识，2017，47(5)：158-164. (Tong Zhe,Zhang Bingjiang,Li Hui. Study on the cutting plane method forinteger linear programming problems with multiple optimal solutions [J].Mathematics in Practice and Theory，2017,47 (5): 158-164.)   \n[4]张章，汪亚明，郑俊褒，等．混沌遗传算法用于求解混合整数规划问 题[J].工业控制计算机，2015(4):123-124.(Zhang Zhang，Wang Yaming,Zheng Junbao,et al.Chaos genetic algorithm for solving mixed integer programming problems [J].Industrial Control Computer, 2015 (4): 123-124.)   \n[5] 谭跃，谭冠政，邓曙光．基于遗传交叉和多混沌策略改进的粒子群 优化算法[J].计算机应用研究,2016,33(12):3643-3647.(Tan Yue, TanGuanzheng， DengShuguang. Improvedparticleswarm optimization algorithm basedon genetic crossover and multichaos strategy [J].Application Researchof Computers，2016，33(12): 3643-3647.)   \n[6]Wu Jun,Gao Yuelin,Yan Lina．An improved differential evolution algorithm for mixed integer programming problems [C]// Proc of the 9th International Conference on Computational Intelligence & Security. Washington DC:IEEE Computer Society,2013:31-35.   \n[7]Tan Yue,Tan Guanzheng,Deng Shuguang.Hybrid particle swarm optim-ization with chaotic search for solving integer and mixed integer pro-gramming problems [J]. Journal of Central South University, 2014, 21 (7): 2731-2742.   \n[8]张莉，李宏，冯大政．求解混合整数规划的嵌入正交杂交的差分进 化算法[J]．系统工程与电子技术，2011,33(9):2126-2132.(Zhang Li,Li Hong,Feng Dazheng.Differential evolutionary algorithm for embeddedorthogonalhybridizationbasedonmixedinteger programming [J]. System Engineering and Electronics,2011,33 (9): 2126-2132.)   \n[9]赵乃刚，李勇．基于改进蝙蝠算法的混合整数规划问题[J].微电子 学与计算机，2017,34(6):94-98.(Zhao Naigang,Li Yong.Hybrid integer program-ming problem based on improved bat algorithm [J]. Microelectronics & Computer,2017,34(6):94-98.)   \n[10]赵佳鑫，高岳林，陈群林．一种求解非线性规划问题的粒子群算法 [J]．宁夏大学学报：自然科学版,2017,38(1):15-18,22.(Zhao Jiaxin, Gao Yuelin,Chen Qunlin.A particle swarm optimization algorithm for solving no-nlinear programming problems [J].Journal of Ningxia University: Nat-ural Science,2017,38(1):15-18,22.)   \n[11]谈庆．基于金字塔结构的群智能演化策略[D].武汉：武汉理工大 学,2018.(Tan Qing.A swarm intelligent evolution strategy based on pyramid structure [D].Wuhan: Wuhan University of Technology,2018.)   \n[12] Datta D,Figueira,José Rui.A real-integer-discrete-coded differential evolution [J].Applied Soft Computing,2013,13 (9): 3884-3893. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,191 @@
+# 青藏高原东部高寒草甸区放牧家畜粪花粉组合特征及其环境指示意义
+
+段荣蕾¹²，侯光良¹，魏海成²，许清海³，高靖易1(1.青海师范大学地理科学学院,青海省自然地理与环境过程重点实验室,青海 西宁810008;2.中国科学院青海盐湖研究所,盐湖地质与环境重点实验室,青海 西宁810008;3.河北师范大学资源与环境科学学院,河北 石家庄050016)
+
+摘要：青藏高原是我国重要的高寒草甸分布区和畜牧区，畜牧活动对区域植被和生态的影响作用受到众多学者的广泛关注。通过采集青藏高原东部高寒草甸区共49个放牧家畜粪样品(牦牛粪样品30个、马粪样品11个、羊粪样品8个),并在区域植被调查的基础上，对粪样品开展了花粉分析。结果表明：这3种类型的粪样品花粉组合以莎草科(Cyperaceae）、禾本科(Poaceae）、龙胆科(Gentianaceae）、毛茛科(Ranunculaceae)花粉为主，可较好地反映区域植被群落特征,食草动物粪花粉中有少量谷物类禾本科花粉出现反映了当地居民少量耕种燕麦用来饲养牲畜。3种放牧家畜在采食习性上存在一定差异，牦牛采食的植物种类比羊和马略多，牦牛和马对杂草类禾本科和唐松草属植物的采食率低于羊,对龙胆科、菊科和蒿属植物的采食率明显高于羊。放牧家畜通过选择性采食适口性好的莎草科和禾本科优势植物种类直接影响高寒草甸区植被群落结构和功能。研究区粪花粉组合与表土花粉组合对比发现，乔木花粉和紫菀属花粉含量在表土样品中显著高于粪样品，而禾本科和龙胆科花粉含量在粪样品中高于表土样品，上述差异指示粪花粉更能反映区域植被群落特征，放牧家畜选择性采食导致粪花粉与表土花粉组合有所区别。本研究为评估青藏高原放牧家畜采食习性以及畜牧活动对区域植被的影响提供了新的研究思路和手段，也为今后在青藏高原开展考古遗址中保存的粪样品花粉分析，据此重建古植被群落和古人类生产活动信息，提供了重要的现代过程依据和借鉴资料。
+
+关键词：粪花粉组合；主成分分析；放牧家畜；古植被；青藏高原文章编号：
+
+青藏高原平均海拔在 $4 0 0 0 \mathrm { ~ m ~ }$ 以上，是世界上平均海拔最高的自然地理单元，被称为“地球第三极”，其高寒、独特的自然地理环境和脆弱的生态系统对全球气候变化十分敏感[1-4]。同时，青藏高原是亚洲大陆重要的生态安全屏障，对区域乃至全球的气候系统都有着重要的调节作用，直接影响地球近$3 0 \times 1 0 ^ { 8 }$ 人口的生存与发展环境[5]。其也是我国面积最大的高寒草地，约占全国草地总面积的1/3，是我国主要的畜牧区之一[6]。近年来，随着畜牧规模和强度不断增加，畜牧活动对青藏高原脆弱的生态植被产生了严重的影响，相关研究表明过度放牧对土壤[7-8]、植被群落结构[9-1]、总生物量和物种多样性[12]等产生显著影响,从而导致草场退化[13-14]。
+
+放牧家畜采食行为是影响区域植被的最直接方式，牲畜通过选择性采食，导致其喜食的优势植物种类不断减少，而其厌食的杂草和毒草种类比例显著增加,从而直接影响植被群落结构和组成[15-18]。因此，评估和分析放牧家畜采食习性对于草场资源的
+
+# 干吴区地理
+
+保护和科学利用至关重要。目前对有蹄动物采食习性的研究主要基于植物群落样方调查与观察法[19-23]以及胃分析法和粪便显微组织分析法[24-26]。应用植物群落样方调查与观察法研究有蹄动物采食习性虽然能较为直观地反映动物啃食习性，但研究过程容易受到诸多因素的影响，如动物的采食范围与设置的样方之间存在较大差异、样本量偏少、啃食痕迹较难辨识等[27]。此外，因有蹄动物对不同生长阶段植物及其不同部位的消化率不同，而且每种植物表皮碎片可辨认率存在较大差别[28],因此在胃分析法和粪便显微组织分析法中易被遗漏或错认，导致研究结果存在一定的差异性和不确定性。花粉是植物繁殖器官的重要组成部分，有蹄动物在采食过程中，将大量的植物花粉摄入并通过消化系统随粪便排泄于周围环境中。花粉因其外壁中含有孢粉素 $\left( \mathrm { C } _ { 9 6 } \mathrm { H } _ { 2 2 } \mathrm { O } _ { 2 4 } \right) ^ { [ 2 9 ] }$ ,极难被动物胃酸和消化系统分解或破坏,在动物粪便中可以完整保存[30-31],加之花粉具有产量大、可计数的特点[29],因此通过食草动物粪便中的花粉种属及百分含量可以定量分析有蹄动物的采食习性。
+
+此外，食草动物所摄人的花粉与周围植被直接相关，分析食草动物粪便中的花粉组合特征，可以直接推测周围的植被状况，因此，在古环境重建和环境考古学中具有很好的应用前景。通过对地层中保存的动物粪便样品花粉分析，可以研究动物采食习性和周围植被群落特征[32]，推测人类对动物的管理和饲料结构，有助于对古人类的生业模式开展环境考古分析。如国内外学者对地獭[33]、山羊[34-35]、鬣狗[32.36-38]、骆驼[39]等动物的粪化石进行了花粉分析，重建了动物的食谱特征和古环境背景，发现食草动物粪便中花粉种类比沉积层中的花粉种类多，表明粪化石孢粉学研究在古环境重建中起着重要作用[40]。近年来,Qiu等[41]对青铜时代早期新疆小河墓地中保存的牛粪开展了孢粉分析，推测当时古人生活环境为典型的绿洲,牛采食的植物主要有芦苇（Phragmitesaustralis）、画眉草属（Eragrostis）、紫菀属（Aster-T）、藜科(Chenopodiaceae）和蒿属（Arte-misia)等种类;Zhang等[42]对长江下游田螺山新石器时代遗址中保存的粪化石开展了孢粉分析，重建了当时古植被组成和人类活动环境背景。
+
+因此，开展放牧家畜粪花粉组合特征研究，结合区域植被调查分析，不仅可以定量化分析牲畜的采食习性，评估畜牧活动对区域植被群落结构的影响作用，而且应用粪化石孢粉组合开展环境考古研究具有重要的借鉴意义。然而，目前国内关于粪花粉的研究鲜有报道，仅有吴慧贤等43开展了北疆地区牦牛粪花粉组合与区域植被的关系研究，其研究结果表明牦牛粪样品中的花粉种属类型少于表土样品，对现代植被组成具有较好的指示性。青藏高原是我国重要的畜牧区和生态环境保护区，目前该区域关于放牧家畜粪花粉研究尚未涉及。本文对青藏高原东部典型高寒草甸区3种放牧家畜(牦牛、羊、马)粪样品开展花粉组合研究，分析不同类型放牧家畜粪便中的花粉组合特征及其差异，通过粪花粉与研究区表土花粉组合特征对比分析，讨论不同放牧家畜对区域植被的选择性采食特征。本研究也为青藏高原地区开展考古遗址地层中动物粪花粉分析，重建古植被和环境背景，解译古人类生产方式和生业模式提供重要的借鉴依据。
+
+# 1研究区概况
+
+研究区位于青藏高原东部，采样点分布于青海省黄南藏族自治州泽库县和河南县境内，经纬度介于3 $3 4 ^ { \circ } 3 0 ^ { \prime } 0 8 ^ { \prime \prime } { \sim } 3 5 ^ { \circ } 0 6 ^ { \prime } 2 8 ^ { \prime \prime } \mathrm { N } , 1 0 1 ^ { \circ } 3 0 ^ { \prime } 5 7 ^ { \prime \prime } { \sim } 1 0 1 ^ { \circ } 4 2 ^ { \prime } 0 4 ^ { \prime \prime } \mathrm { E }$ 海拔 $3 4 5 6 { \sim } 3 8 1 5 \mathrm { ~ m }$ (图1)。研究区气候属于高原大陆性气候，气温较低、无霜期短，降水多集中在5\~9月，蒸发量远大于降水量[44-45];泽库县年均气温$- 1 . 4 1 \mathrm { ~ \textdegree C }$ ,年降水量为 $4 8 0 ~ \mathrm { m m }$ ,年蒸发量 $1 2 4 0 ~ \mathrm { m m }$ 河南县年均气温 $- 0 . 1 4 ~ \mathrm { ^ { \circ } C }$ ,年降水量为 $5 6 0 \mathrm { m m }$ ,年蒸发量 $1 2 5 0 \ \mathrm { m m } ^ { [ 4 6 ] }$ 。年均风速为 $3 . 8 ~ \mathrm { m \cdot s ^ { - 1 } }$ ,平均风速为23 m·s-1[47]
+
+研究区植被主要为高寒草甸和高山灌丛。主要植物类型有：嵩草属(Kobresia），包括高山嵩草( $\mathrm { \Delta } K .$ pygmaea）、矮嵩草（ $\mathrm { \Delta } K .$ humilis）线叶嵩草( $\operatorname { \overline { { K } } }$ capilli-folia）、藏嵩草( $\operatorname { \bar { \rho } } _ { K }$ tibetica）、短轴嵩草( $K .$ vidua）、甘肃嵩草( $K .$ kansuensis）,此外还有甘松（Nardostachyschinensis）、高山绣线菊(Spiraeaalpina）珠芽蓼( $P o$ lygonum viviparum）、圆穗蓼（Polygonum macrophyl-lum）酸模(Rumexacetosa）蓼属(Polygonum）龙胆科（Gentianaceae）、早熟禾属 $( P o a )$ 、披碱草属(Ely-mus）葶苈（Drabanemorosa）委陵菜属（Potentilla）、风毛菊属（Saussurea）蒲公英属(Taraxacum）、紫菀属（Aster）橐吾属(Ligularia）火绒草属(Leontopodi-um）马先蒿属（Pedicularis）、棘豆属（Oxytropis）唐松草属（Thalictrum）、草属（Carex）、毛茛属（Ranunculus）、虎耳草属（Saxifraga）、老鹳草属（Gerani-um）大戟属(Euphorbia）和黄耆属(Astragalus)等;高寒灌丛主要以金露梅灌丛为主，建群种主要包括：金露梅（Potentillafruticosa）、沙棘属（Hip-pophae)等[48-49] O
+
+![](images/2c48fa3042bcafd21654aa44b268cebbdc5e3aaf2aef355b6d055d0ba1c9d168.jpg)  
+图1青藏高原东部放牧家畜粪样点地理分布示意图 Fig.1 Location of modern domesticated herbivores dung samples in eastern Qinghai-Tibetan Plateau
+
+# 2材料与方法
+
+# 2.1 野外工作
+
+2017年7月，本课题组在河南县和泽库县开展了野外植被样方调查和放牧家畜粪便样品采集工作。随机采集 $1 0 0 \mathrm { m } { \times } 1 0 0 \mathrm { m }$ 区域内的同一种放牧家畜未风化的粪便5\~10块，并混合为一个样品密封保存。共采集放牧家畜粪便样品49个，其中牦牛( $\textcircled { B o s }$ grunniens)粪样品30个,马(Equus feruscaballus)粪样品11个，羊(Ouisaries)粪样品8个，对每个样点进行GPS定位，并记录取样点范围内植被群落和主要植被类型。
+
+# 2.2实验方法和数据分析
+
+实验室孢粉提取采用常规酸碱处理的方法，每个样品取干重 $2 { \mathrm { ~ g ~ } }$ ，样品处理前，每个样品加入1粒石松孢子片 $( 2 7 6 3 7 \pm 5 6 3$ 粒·片-)用以计算孢粉浓度。用 $1 0 \%$ 的HCI除去钙质胶结，过 $2 0 0 ~ \mu \mathrm { m }$ 筛网除去较大粒径的植物残体，加入 $1 0 \%$ 的KOH在 $7 0 \ \%$ 下水浴除去有机质；再加入适量 $4 0 \%$ 的HF除去硅酸盐，最后在超声波振荡器中用 $7 ~ \mu \mathrm { m }$ 的尼龙筛网富集孢粉，洗净后加甘油保存、制片。孢粉鉴定统计在400倍光学生物显微镜下进行，花粉的鉴定主要参考已发表的孢粉形态图谱和文献[50-52],以及实验室前期收集、制作和保存的青藏高原现代花粉标准玻片。每个样品一般统计鉴定孢粉300粒以上。应用Tilia软件绘制孢粉百分含量图[53]。应用Canoco5.0软件对孢粉数据进行了主成分分析（Principalcomponent analysis,PCA )[54-55]
+
+# 3结果与分析
+
+# 3.1孢粉组合特征
+
+从49个放牧家畜粪便样品中共鉴定出27种花粉类型，包括5种乔木，22种灌木和草本。乔木花粉包括桦木属（Betula）、榛属（Corylus）松属（Pinus）、云杉属(Picea)和柏科(Cupressaceae）;灌木和草本花粉包括蔷薇科（Rosaceae）、蓼属（Polygonum）、沙棘属（Hippophae）、胡颓子科（Elaeagnaceae）、莎草科（Cyperaceae）、龙胆科（Gentianaceae）、毛茛科（Ra-nunculaceae）、谷物类禾本科（CerealPoaceae, ${ > } 3 5$ $\mu \mathrm { m }$ ）、杂草类禾本科（Poaceae， $< 3 5 ~ \mu \mathrm { m }$ ）、蒿属(Artemisia）、豆科(Fabaceae）紫菀属(Aster-T)、蒲公英属（Taraxacum-T)、风毛菊属（Saussurea-T)、藜科（Chenopodiaceae）、唐松草属（Thalictrum）、委陵菜属( $P o$ tentilla）葎草属(Humulus）牛儿苗科(Geraniaceae）、百合科(Liliaceae）、十字花科（Brassicaceae）唇形科(Lamiaceae)和车前属(Plantago）。根据不同的样品类型制成孢粉百分含量图(图2)，3种放牧家畜粪样品中草本和灌木花粉占绝对优势，平均含量为$9 8 . 5 \%$ ,乔木花粉很少出现,平均含量仅为 $1 . 5 \%$ 。
+
+牦牛粪样品中莎草科含量最高 $( 2 . 6 \% \sim 7 7 . 6 \%$ ，平均 $1 9 . 8 \%$ ),其他主要花粉类型包括龙胆科( $0 . 6 \% \sim$ $3 8 . 8 \%$ ,平均 $1 8 . 3 \%$ ）、毛茛科 $( 1 . 5 \% \sim 3 3 . 8 \%$ ，平均
+
+# 干吴区地理
+
+![](images/15f1789cbfe3d35249138c7ddc29d910b40829908cc34269906840d93de554bb.jpg)  
+图2青藏高原东部放牧家畜粪便花粉种属百分含量
+
+Fig.2Pollenassemblages in dung samples of differentdomesticated herbivores in eastern Qinghai-Tibetan Plateau
+
+$1 0 . 3 \%$ ）、杂草类禾本科 $( 1 . 2 \% { \sim } 2 7 . 1 \%$ ,平均 $8 . 8 \%$ ）、谷物类禾本科（ $0 { \sim } 4 3 . 6 \%$ ，平均 $6 . 5 \%$ ）、豆科( $( 0 \sim$ $3 0 . 0 \%$ ,平均 $4 . 7 \%$ ）、蒿属（ $0 . 3 \% { \sim } 1 9 . 7 \%$ ,平均 $5 . 1 \%$ ）、紫菀属 $( 0 . 4 \% \sim 1 4 . 3 \%$ ,平均 $4 . 1 \%$ ）、蓼属（ $( 0 { \sim } 3 5 . 8 \%$ ，平均 $3 . 8 \%$ ）、风毛菊属( $0 { \sim } 1 2 . 7 \%$ ,平均 $3 . 5 \%$ ）、蒲公英属( $0 { \sim } 1 3 . 8 \%$ ，平均 $3 . 5 \%$ ）、唐松草属( $( 0 { \sim } 2 1 . 1 \%$ ，平均 $2 . 0 \%$ ）、委陵菜属( $0 { \sim } 5 . 9 \%$ ,平均 $1 . 5 \%$ )和蔷薇科1 $( 0 { \sim } 2 . 5 \%$ ,平均 $0 . 9 \%$ )。此外，牛儿苗科、十字花科、藜科、百合科、车前属、沙棘属、葎草属、胡颓子科等花粉含量低于 $1 \%$ 。乔木花粉中桦木属( $( 0 \sim$ $5 . 3 \%$ ,平均 $1 . 3 \%$ ),其余种属包括榛属、云杉属、松属和柏科含量均不足 $1 \%$ 。
+
+马粪样品中莎草科花粉含量最高( $5 . 3 \%$ 2
+
+$6 5 . 4 \%$ ，平均 $2 6 . 4 \%$ )，其他主要花粉类型包括杂草类禾本科( $3 . 9 \% { \sim } 8 3 . 7 \%$ ,平均 $1 4 . 0 \%$ ）、谷物类禾本科1 $0 . 2 \% { \sim } 1 5 . 6 \%$ ,平均 $3 . 9 \%$ ）、毛茛科 $( 3 . 3 \% \sim 2 7 . 2 \%$ ，平均 $1 1 . 3 \%$ ）、龙胆科 $( 0 . 2 \% { \sim } 2 6 . 3 \%$ ,平均 $1 0 . 9 \%$ ）、豆科1 $0 { \sim } 1 1 . 3 \%$ ,平均 $3 . 5 \%$ ）、蒿属（ $( 0 { \sim } 1 7 . 1 \%$ ,平均 $5 . 7 \%$ ）、紫菀属 $( 1 . 0 \% \sim 6 . 4 \%$ ,平均 $2 . 7 \%$ ）、风毛菊属( $\left. 0 \sim \right.$ $1 0 . 0 \%$ ,平均 $3 . 3 \%$ ）、蒲公英属 $( 0 { \sim } 3 . 7 \%$ ,平均 $1 . 9 \%$ ）、唐松草属( $0 { \sim } 1 2 . 4 \%$ ,平均 $2 . 1 \%$ ）、蓼属 $( 0 . 3 \% { \sim } 4 . 8 \%$ ，平均 $1 . 5 \%$ ）、委陵菜属( $( 0 \sim 2 . 8 \%$ ,平均 $1 . 2 \%$ ）、沙棘属（ $0 { \sim } 4 . 1 \%$ ，平均 $1 . 0 \%$ ）和蔷薇科（ $( 0 { \sim } 3 . 7 \%$ ，平均$1 . 0 \%$ )。牛儿苗科、十字花科、百合科、藜科、葎草属等花粉少量出现，平均含量不足 $1 \%$ ;乔木花粉中桦木属 $( 0 . 2 \% { \sim } 1 0 . 6 \%$ ,平均 $2 . 9 \%$ ),其榛属、云杉属和松属少量出现,平均含量均低于 $1 \%$ 。
+
+羊粪样品中莎草科花粉含量最高( $( 0 \sim 7 2 . 5 \%$ ,平均 $1 9 . 4 \%$ ），其他主要花粉类型有毛茛科( $0 . 5 \%$ 2$3 8 . 7 \%$ ,平均 $1 8 . 7 \%$ ）、杂草类禾本科 $( 1 . 4 \% \sim 6 2 . 5 \%$ ，平均 $1 7 . 5 \%$ ）、龙胆科( $1 . 3 \% \sim 9 2 . 5 \%$ ,平均 $1 4 . 3 \%$ ）、唐松草属( $( 0 { \sim } 3 4 . 7 \%$ ,平均 $8 . 2 \%$ ）、蓼属（ $( 0 { \sim } 1 4 . 1 \%$ ,平均$5 . 4 \%$ ）、委陵菜属 $( 0 . 2 \% { \sim } 9 . 8 \%$ ,平均 $4 . 0 \%$ ）、紫菀属L $0 . 5 \% { \sim } 3 . 0 \%$ ,平均 $1 . 5 \%$ ）、谷物类禾本科 $( 0 \sim 7 . 5 \%$ ，平均 $1 . 5 \%$ ）、蒲公英属( $0 { \sim } 8 . 0 \%$ ,平均 $1 . 5 \%$ ）、蒿属$( 0 . 2 \% { \sim } 2 . 8 \%$ ,平均 $1 . 1 \%$ )。此外，蔷薇科、豆科、藜科、风毛菊属、十字花科、牛儿苗科、百合科、葎草属、沙棘属等花粉平均含量不足 $1 \%$ 。乔木花粉主要为桦木属( $0 { \sim } 5 . 3 \%$ ,平均 $1 . 0 \%$ ),云杉属和松属花粉零星出现，平均含量不足 $1 \%$ ○
+
+# 3.2PCA分析结果
+
+在49个样品中鉴定出27种孢粉科（属），除去百分含量小于 $2 \%$ 的科属类型，对其余24种孢粉种属百分含量进行主成分分析(图3)。前4轴的特征值分别为 $0 . 2 3 7 \ 、 0 . 1 7 1 、 0 . 0 9 8 \ 、 0 . 0 8 5$ ，第1轴累积贡献率 $2 3 . 7 \%$ ,其中前2轴累积贡献率为 $4 0 . 8 \%$ (表1)。
+
+![](images/cfc905014dda32ae9b3a03fa1f0cafc05a6acee5aa00c73dd04df18421ca7f46.jpg)  
+图3食草动物粪花粉百分含量的主成分分析  
+Fig.3Principal component analysis for pollen assemblages of herbivore dung samples
+
+# 表1食草动物PCA分析结果
+
+Tab.1 PCAanalysisresultsofherbivores   
+
+<html><body><table><tr><td>分析结果</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>特征值</td><td>0.237</td><td>0.171</td><td>0.098</td><td>0.085</td></tr><tr><td>累积贡献率/%</td><td>23.7</td><td>40.8</td><td>50.6</td><td>59.1</td></tr></table></body></html>
+
+样品类型PCA分析图(图3a)显示，3种放牧家畜粪样品交织分布于排序图中，其中牦牛粪样品和马粪样品大部分重叠，较多集中在第1因子轴和第2因子轴的负半轴，这两种类型的样品基本无法区分。而羊粪样品除了S-08外，其余分布于第一因子轴的正半轴，与牦牛粪和马粪样品有一定的区别。
+
+从样品孢粉种属PCA分析图(图3b)可以看出，第1因子轴主要分布草本花粉类型，其中紫菀属、蒲公英属、风毛菊属、藜科、十字花科、豆科、龙胆科、谷物类禾本科花粉集中在第1因子轴的负半轴，而唐松草属位于第1因子轴的正半轴;杂草类禾本科、蓼属、蔷薇科、石竹科、唐松草属等集中于第2因子轴的正半轴，而莎草科显著偏向第2因子轴的负半轴;乔木和灌木类花粉主要集中在第2因子轴，其中松属、云杉属、柏科位于第2因子轴的正半轴，桦木属、榛属、沙棘属位于第2因子轴的负半轴。
+
+# 4讨论
+
+# 4.1不同食草动物粪花粉组合特征对比分析
+
+牦牛、马和羊3种放牧家畜粪便中的花粉组合以莎草科、禾本科、龙胆科和毛茛科为主，合计占比达 $6 8 . 3 \%$ (图4)。其次为唐松草属、谷物类禾本科 $\mathit { \Omega } > \mathit { \Omega }$ $3 5 ~ { \mu \mathrm { m } }$ ）、蓼属、蒿属、蒲公英属、紫菀属和风毛菊属，合计占比 $2 0 . 6 \%$ 。3种放牧家畜粪样品花粉组合中部分类型百分含量有所差异，其中龙胆科、菊科和蒿属花粉在牦牛和马粪样品中平均含量显著高于羊粪样品，指示牦牛和马对上述植物喜食程度显著高于羊。而杂草类禾本科和唐松草属花粉含量在羊粪样品中显著高于牦牛和马粪样品。此外，同一
+
+# 干旱区地理
+
+![](images/9d0e410125662152b93985eab77bb28816afdafca2f400d84a867a007adf2838.jpg)  
+图4耗牛、羊、马3种食草动物典型花粉类型箱形图 Fig.4 Box plots of the dominant pollen taxa from domesticated herbivore dung samples
+
+种放牧家畜粪样品中主要花粉含量变化幅度较大（图4)，可能与研究区牧场面积大、家畜活动范围广、牲畜所采食的植物群落类型多和随机性有关。尽管我们在采样过程中调查了粪样品周围( $1 0 0 ~ \mathrm { { m } } \times \mathrm { { \Omega } }$ $1 0 0 \mathrm { m }$ )植被群落组成，但粪样品花粉组合可能并不准确对应采样点周围 $1 0 0 ~ \mathrm { m } { \times } 1 0 0 ~ \mathrm { m }$ 内的植物群落，而是代表放牧家畜所活动的牧场范围内植物群落的整体面貌。因此，植被群落和采食范围会直接影响家畜的采食习性，从而导致家畜粪花粉组合产生差异。
+
+3种放牧家畜粪样品中最主要的花粉类型为莎草科和禾本科（平均含量合计 $3 7 . 7 \%$ ），指示3种牲畜对莎草科和禾本科植物的采食程度高，是牲畜喜食的植物。前人通过粪便植物组织显微分析法对可可西里地区的蹄类动物、天山地区放牧家畜、甘南地区主要食草动物和西藏地区放牧家畜等食草动物食性研究表明莎草科和禾本科植物为家畜喜食的植物[56-59],这与本研究粪花粉分析结果较为一致。牲畜选择性采食行为会直接影响区域植被群落结构和群落生物多样性,从而导致区域植被群落变化[60-61]。在青藏高原高寒草甸区,放牧牲畜通过选择性采食适口性好的莎草科和禾本科植物，导致主要的优势植物种类因过度采食而出现退化，而一些牲畜不喜食的毒杂草，如橐吾属(Ligularia）、火绒草（Leontopodium leontopodioides）委陵菜属（Poten-tilla）、狼毒属(Stellera)等植物在高寒草甸群落中不断增加。由图4可知，放牧家畜粪花粉组合中龙胆科和毛茛科含量较高，这一方面是因为本研究野外采样时间在7月中旬，正值高寒草甸区主要的毛茛科和龙胆科植物的花期，动物的采食过程中主动或被动摄入上述两种植物的花粉;另一方面也反映了该区域由于长期持续的放牧活动，导致毛茛科和龙胆科植物比例增加[8.50]。虽然牲畜的采食行为具有一定的选择性，当区域植被种类和数量丰富时，一般会选择适口性好、喜食和易消化的植物为食，但是当区域的植被丰富度降低时，家畜就会选择较喜食或不喜食的植物为食[21-2]。因此,区域的植被类型也影响放牧家畜的采食行为。
+
+# 4.2放牧家畜粪花粉组合与区域表土花粉组合对比分析
+
+李怡雯等[对本研究区的表土花粉组合特征和花粉源范围进行了研究，其表土花粉组合与粪样品花粉组合对比显示表土样品和粪样品中莎草科、蓼属、毛茛科、蒲公英属和蒿属花粉百分含量较为相似。但表土花粉中禾本科(平均 $4 . 6 \%$ )和龙胆科（平均 $2 . 5 \%$ )花粉含量显著低于放牧家畜粪样品中禾本科(平均 $1 1 . 4 \%$ )和龙胆科(平均 $1 6 . 0 \%$ )花粉含量，而表土中紫菀属花粉(平均 $2 0 . 0 \%$ )含量显著高于粪样品中紫菀属花粉含量(平均 $3 . 4 \%$ )，这可能与放牧家畜采食习性和采样期不同植物花期及其花粉产量差异有关。表土样点中桦木属(平均 $5 . 9 \%$ ）、松属(平均 $1 . 7 \%$ ）、云杉属(平均 $1 . 0 \%$ )和沙棘属（平均 $1 . 8 \%$ )含量高于粪样品中桦木属(平均 $1 . 6 \%$ ）、松属（平均 $0 . 1 \%$ ）、云杉属（平均 $0 . 2 \%$ )和沙棘属1 $0 . 5 \%$ )含量，说明表土中这些乔/灌木花粉从周围山地受风力作用远距离传播而来，而牲畜在采食过程中很难将这些花粉摄入。因此，表土花粉在反映区域植被类型时，容易受到不同花粉源区外力搬运作用的影响，而粪花粉组合能更好的反映小区域内的植被状况。
+
+# 4.3放牧家畜粪花粉组合在古环境研究中的指示意义
+
+粪化石花粉分析是研究过去动物采食习性和古植被、古环境背景的有效手段，通过地层中保存的粪样品花粉组合分析动物采食的植物类型进而推断过去植被群落类型,在古植被重建研究中得到广泛应用。例如,学者通过分析沉积地层中食草动物的粪化石孢粉组合来重建过去的植被群落[33-36.40]以及采食植物季节性变化特征[63]。因此，现代放牧家畜粪花粉组合与植被群落关系研究可为地层中保存的粪化石花粉研究重建古植被提供重要借鉴依据。此外，通过放牧家畜粪花粉组合分析可以推断人类生产经济模式,本研究发现粪花粉组合中谷物类禾本科花粉含量相对较高(平均 $5 . 1 \%$ )，指示研究区周围有谷物类作物。在野外调查过程中发现近年来当地牧民小面积种植燕麦用作牲畜的补充饲料，因此家养牲畜粪花粉中谷物类花粉指示了当地居民用燕麦秸秆饲养牲畜的过程。青海湖流域表土和粪花粉研究也发现，粪花粉组合中谷物类禾本科花粉平均含量达 $4 . 3 \%$ ,可能与当地居民用谷物类作物饲养家畜有关[64]，这些发现说明粪化石花粉分析在青藏高原环境考古学研究中具有重大潜力。前人研究表明青藏高原分布有大量的史前考古遗址[65-67],部分遗址地层中保存了大量的动物粪便,这些粪样品花粉谱中包含了人类驯化、饲养动物和畜牧活动等多种信息，并且遗址中粪样品花粉组合中谷物类作物花粉可以判断当时古人类生产方式属于游牧经济或农牧混合经济等重要信息。综上所述,考古遗址中保存的粪样品花粉分析对于研究史前人类在青藏高原生存的古环境背景和周围植被群落特征、生业模式等方面具有重要的研究价值。因此，本文开展的现代放牧家畜的粪花粉研究，为今后在青藏高原开展考古遗址中粪化石花粉研究提供重要对比资料和借鉴依据。
+
+# 5结论
+
+（1）青藏高原东部高寒草甸区牦牛、马和羊3种放牧家畜粪样品中花粉组合以草本和灌木类花粉为主，主要包括莎草科、禾本科、毛茛科、龙胆科、蓼属、豆科、蒿属、紫菀属、蒲公英属、风毛菊属、唐松草属。牦牛、马和羊3种食草动物的采食植物类型大致相似，主要以莎草科、禾本科、毛茛科、龙胆科植物为主，反映了研究区高寒草甸群落特征。但采食的植物比例存在一定的差异，牦牛和马对龙胆科、菊科和蒿属植物喜食程度显著高于羊，而羊对杂草类禾本科和唐松草属植物喜食程度显著高于牦牛和马。
+
+(2)莎草科、蓼属、毛茛科、蒲公英属和蒿属花粉在研究区放牧家畜粪样品和表土样品中的百分含量较为相似;粪样品中禾本科和龙胆科花粉含量高于表土样点中的含量;表土样点中紫菀属花粉含量显著高于粪样品中的含量;粪样品中桦木属、松属、云杉属和沙棘属花粉含量低于表土样点中的含量，说明粪花粉能更好地反映小区域范围内的植被群落特征。
+
+(3）食草动物粪花粉组合特征能清晰地反映区域植被群落特征，花粉组合中谷物类花粉能很好地指示人类畜牧、种植、饲养等多种生产活动信息，这为今后开展青藏高原考古遗址中粪样品花粉分析，研究古植被群落特征和古人类生业模式提供重要的对比资料和借鉴依据
+
+致谢：本研究在野外植被调查过程中，得到河北师范大学李月丛教授，河北省科学院地理科学研究所阳小兰和张茹春两位老师的指导和帮助，两位匿名审稿人对本论文提出了宝贵的修改意见，在此一并致谢！
+
+# 参考文献(References)
+
+[1]姚檀栋,陈发虎,崔鹏,等.从青藏高原到第三极和泛第三极[J]. 中国科学院院刊,2017,32(9):924-931.[Yao Tandong,Chen Fahu,Cui Peng,et al.From TibetanPlateau to Third Pole and PanThird Pole[J].Bulletin of Chinese Academy of Sciences,2017,32 (9): 924-931.]   
+[2] 孙鸿烈,郑度，姚檀栋,等.青藏高原国家生态安全屏障保护与 建设[J].地理学报,2012,67(1):3-12.[Sun Honglie,Zheng Du, Yao Tandong,et al. Protection and construction of the national ecological security shelter zone on Tibetan Plateau[J].Acta Geographica Sinica,2012,67(1): 3-12.]   
+[3] Yao TD,Thompson LG,Mosbrugger V,et al. Third pole environment (TPE)[J].Environmental Development,2012(3): 52-64.   
+[4] Schwalb A, Schutt B,Fang X.Climate evolution and environmental response on the Tibetan Plateau[J]. Quaternary International, 2010(218): 1-2.   
+[5] Qiu J.China:The third pole[J].Nature News,20O8,454(7203): 393-396.   
+[6] 谢高地,鲁春霞，肖玉，等.青藏高原高寒草地生态系统服务价 值评估[J].山地学报,2003(1):50-55.[Xie Gaodi,Lu Chunxia, Xiao Yu,et al. The economic evaluation of grassland ecosystem
+
+# 干吴区地理 也理
+
+services in Qinghai-Tibet Plateau[J]. Mountain Research,2003(1): 50-55.]   
+[7]车宗玺,闫明,何同弟,等.祁连山西段草地土壤氮矿化及影响 因子的关系研究[J].干旱区地理,2018,41(1):92-98.[Che Zongxi,Yan Ming,He Tongdi,et al. Soil nitrogen mineralization and its influence factors in grassland in western Qilian Mountains [J]. Arid Land Geography,2018,41(1): 92-98.]   
+[8]Li G, Zhang Z,Shi LL,et al. Effcts of different grazing intensities on soil C,N,and P in an alpine meadow on the Qinghai-Tibetan Plateau, China[J]. International Journal of Environmental Research and Public Health,2018,15(11):2584,doi: 10.3390/ ijerph15112584.   
+[9]杨晶晶,吐尔逊娜依·热依木,张青青,等.放牧强度对天山北坡 中段山地草甸植被群落特征的影响[J].草业科学,2019,36(8): 1953-1961.[Yang Jingjing,Tuerxunnayi Reyimu,ZhangQingqing,et al. Effcts of grazing intensityon plant community characteristics in mountain meadows in the middle section of the northern slope of the Tianshan Mountains[J]. Pratacultural Science, 2019,36(8): 1953-1961.]   
+[10]Gao Y,LuoP, Wu N,et al.Biomass and nitrogen responses to grazing intensity in an alpine meadow on the eastern Tibetan Plateau [J].Polish Journal of Ecology,2007,55(3): 469.   
+[11] 乌云娜,张凤杰,盐见正卫.放牧梯度上群落物种数与物种组成 结构异质性的数量分析[J].干旱区地理,2011,34(6): 904-911. [Wu Yunna, Zhang Fengjie,Shiyomi Masae. Quantitative analysis of spatial heterogeneity in species richness and composition in grassland vegetation with different grazing intensities in the northeast Inner Mongolian steppe[J].Arid Land Geography,2011,34 (6): 904-911.]   
+[12] 刘伟,王溪,刘季科,等.家畜实验放牧强度对啮齿动物群落多 样性作用的研究[J].青海畜牧兽医杂志,1990(5):3-6.[Liu Wei,Wang Xi,Liu Jike,etal.Effects of experimental grazing intensity on rodent community diversity[J]. Chinese Qinghai Journal of Animal and Veterinary Sciences,1990(5): 3-6.]   
+[13]周立华,侯彩霞.北方农牧交错区草原利用与禁牧政策的关键 问题研究[J].干旱区地理,2019,42(2):354-362.[Zhuo Lihua, Hou Caixia.Key problems of grassand utilization and the graze ban policy in farming-pastoral ecotone of northern China[J].Arid Land Geography,2019,42(2): 354-362.   
+[14] 秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming, Zhang Ying,etal. Effctsof climate change and human activitiesonvegetation productivity in aridareas[J]. Arid Land Geography,2020,43(1): 117-125.]   
+[15]Diaz S,Lavorel S, Mcintyre S,et al. Plant trait responses to grazing:A global synthesis[J].Global Change Biology,2007,13(2): 313-341.   
+[16]Marcelo S,Mario G,Avi P,et al. Vegetation response to grazing management in a Mediterranean herbaceous community: A functional group approach[J]. Journal of Applied Ecology,2000,37(2): 224-237.   
+[17] 李金花,李镇清,任继周.放牧对草原植物的影响[J].草业学报, 2002,11(1): 4-11.[Li Jinhua,Li Zhenqing,Ren Jizhou. The effects of grazing on grassand plants[J]. Acta Prataculturae Sinica, 2002, 11(1): 4-11.]   
+[18] 杜岩功,梁东营,曹广民,等.放牧强度对嵩草草甸草毡表层及 草地营养和水分利用的影响[J].草业学报,2008,17(3):146- 150.[Du Yangong,Liang Dongying,Cao Guangmin,et al. Effect on incrassation of mattic epipedon and pasture nutrient-moisture using by grazing in alpine Kobresia meadow[J]. Acta Prataculturae Sinica,2008,17(3): 146-150.]   
+[19] 李永宏,汪诗平.内蒙古细毛羊日食量及对典型草原牧草的食 性测定[J].草业学报,1998,7(1):50-53.[Li Yonghong,Wang Shiping.Grazing intake of inner Mongolian fine-wool shep and their preference for grassland forage species[J]. Acta Prataculturae Sinica, 1998,7(1): 50-53.]   
+[20] 汪诗平.不同放牧率下绵羊的食性及食物多样性与草地植物多 样性间的关系[J].生态学报,2001,21(2):237-243.[Wang Shiping.The dietary composition of fine wool sheep under different stocking rates and relationship between dietary diversity and plant diversity in Inner Mongolia steppe[J].Acta Ecologica Sinica, 2001,21(2): 237-243.]   
+[21] 王旭,王德利,刘颖,等.不同放牧率下绵羊的采食量与食性选 择研究[J].东北师大学报(自然科学版),2002,34(1):36-40. [Wang Xu,Wang Deli,Liu Ying,etal. The studyon the intake and dietary composition of sheep under different stocking rates[J]. Journal of Northeast Normal University,2002,34(1): 36-40.]   
+[22] 宋仁德,长谷川信美,李国梅,等.天然草地放牧牦牛采食行为 及食性选择的研究[J].家畜生态学报,2008,29(5):31-35. [Song Rende,Hasagawa Nobumi, Li Guomei,et al. Botanical composition and grazing behaviour of Qinghai yaks of plateau type in the natural rangeland[J].Journal of Domestic Animal Ecology, 2008,29(5): 31-35.]   
+[23]Kamler J, Homolka M. Needles in faeces: An index of quality of wild ungulate winterdiet[J].Folia Zoologica,2011,60(1): 63-69.   
+[24]Marti C.Accuracy of fecal analysis for identifying foods of black grouse[J]. The Journal of Wildlife Management,1982,46(3): 773- 777.   
+[25] Norbury G. Microscopic analysis of herbivore diets: A problem and a solution[J]. Wildlife Research,1988,15(1): 51-7.   
+[26] 高中信,陈化鹏,王筱平.粪便分析法测定植食动物食性的评价 [J].兽类学报,1991,11(3):186-193.[Gao Zhongxin, Chen Huapeng,Wang Xiaoping.Evaluation of fecal analysis fordetermining food habits of herbivores[J].Acta Theriologica Sinica,1991,11(3): 186-193.]   
+[27]郑荣泉,鲍毅新.有蹄类食性研究方法及研究进展[J].生态学 报,2004,24(7):1532-1539.[Zheng Rongquan, Bao Yixin.Study methods and procedures for ungulate food habits[J].Acta Ecologica Sinica,2004,24(7): 1532-1539.]   
+[28] 单继红,吴建平.食草动物食性研究的主要方法及其评价[J].野 生动物杂志,2005,26(3): 47-49.[Shan Jihong,Wu Jianping.The review and evaluation on the study methods for herbivore food habit[J]. Chinese Journal of Wildlife,2005,26(3): 47-49.]   
+[29] 王开发,王宪曾.孢粉学概论[M].北京:北京大学出版社,1983: 1-205.[Wang Kaifa, Wang Xianzeng.Introduction to spore-pollen study[M]. Beijing: Peking University Press,1993: 1-205.]   
+[30]Carrion J S.A taphonomic study of modern pollen assemblages from dung and surface sediments in arid environments of Spain[J]. Review of Palaeobotanyandalynology2002,120(3):2.   
+[31]Basumatary S K,Mcdonald H G,Gogoi R,et al.Pollen and nonpollen palynomorph preservation in the dung of the greater onehorned rhino (Rhinoceros unicornis),and its implication to palaeoecology and palaeodietary analysis:A case study from India[J].Review of Palaeobotany and Palynology,2017,244: 153-162.   
+[32] 郝瑞辉,萧家仪,房迎三,等.南京汤山驼子洞鬣狗粪化石的孢 粉分析[J].古生物学报,2008,47(1):123-128.[He Ruihui, Xiao Jiayi,Fang Yinsan,et al.Polln analysis of Hyaena coprolites from the Tuozi Cave at Tangshan Nanjing[J].Acta Palaeontologica Sinica,2008,47(1): 123-128.]   
+[33]Thompson R S,Van Devender T R,Martin P S,et al.Shasta ground sloth (Nothrotheriops shastense Hoffstettr) at shelter cave, New Mexico: Environent,diet,andextinction[J].Quatearye search,1980,14(3): 360-376.   
+[34]Alcover JA,Perez-Obiol R,Yll E I, et al. The dietof Myotragus balearicus Bate 1909 (Artiodactyla: Caprinae),an extinct bovid from the Balearic Islands:Evidence from coprolites[J]. Biological Journal of the Linnean Society,1999,66(1): 57-74.   
+[35]Welker F,Duijm E,Der Gaag K J,et al.Analysis of coprolites from the extinct mountain goat Myotragus balearicus[J]. Quaternary Research,2014,81(1): 106-116.   
+[36]Yll R,Carrion JS,Marra A C,et al. Vegetation reconstruction on the basis of pollen in Late Pleistocene hyena coprolites from San Teodoro Cave (Sicily,Italy)[J].Palaeogeography,Palaeoclimatolo gy,Palaeoecology,2006,237(1):32-39.   
+[37]杜乃秋,于浅黎.周口店鬣狗(Hyaena)粪化石的孢粉分析[J].古 脊椎动物学报,1980,18(3): 83.[Du Naiqiu,Yu Qianli.Sporopoly analysis of coprolites of Hyaena in Zhoukoudian[J].Vertebrata Palasiatica,1980,18(3): 83.]   
+[38] 王文娟,吴妍,宋国定,等.灵井许昌人遗址鬣狗粪化石的孢粉 和真菌孢子研究[J].科学通报,2013,58(增刊1):51-56.[Wang Wenjuan,Wu Yan, Song Guoding,et al.Pollen and fungi spore analysis on Hyaenid coprolite from the Xuchang Man Site,central China[J]. Chinese Science Bulletin,2014,58(Suppl.1): 51-56.].   
+[39]Marcolino CP,IsaiasRM,Cozzuol MA,et al.Diet ofPalaeolama major(Camelidae) of Bahia,Brazil,inferred from coprolites[J]. Quaternary International, 2012,278: 81-86.   
+[40]Veläzquez N J,Burry L S,Mancini M V,et al. Coprolitos de camélidos del Holoceno como indicadores paleoambientales[J]. Magallania (Punta Arenas),2010,38(2): 213-229.   
+[41]Qiu Z, Yang Y, Shang X,et al. Paleo-environment and paleo-diet infered from Early Bronze Age cowdungat XiaoheCemetery, Xinjiang,NW China[J]. Quaternary International,2014,349:167- 177.   
+[42]Zhang Y,Van Geel B,Gosling W D,et al.Local vegetation patterns of a Neolithic environment at the site of Tianluoshan, China, based on coprolite analysis[J]. Review of Palaeobotany and Palynology,2019,271,doi: 10.1016/j.revpalbo.2019.104101.   
+[43] 吴慧贤,徐海,蓝江湖,等.北疆表土花粉组合及其与植被和气 候的关系[J].生态学杂志,2018,37(12):3499-3507.[Wu Huixian, Xu Hai, Lan Jianghu,et al.Pollen assemblages in surface soil and their relationships with vegetation and climate in northern Xinjiang[J].Chinese Journal of Ecology，2018,37(12):3499- 3507.]   
+[44] 周华坤,王启基,赵亮,等.青海省泽库县草地现状与畜牧业可 持续发展对策[J].草业科学,2007,24(3):87-93.[Zhou Huakun, Wang Qiji, Zhao Liang,et al. The present situation of grassland and the strategies of sustainable development of animal husbandry in Zeku County,Qinghai Province[J].Acta Prataculturae Sinica, 2007,24(3): 87-93.]   
+[45] 徐开宇,纳得秀,侯琳.黄南地区降水分布特征及人工增雨的最 佳气象条件分析[J].青海气象,2009(2):25-28.[Xu Kaiyu,Na Dexiu,Hou Lin.The characteristics of precipitation distribution and the optimum meteorological conditions of artificial precipitation in Huangnan area[J]. Journal of Qinghai Meteorology,2009 (2): 25-28.]   
+[46] 杜加强,舒俭民,张林波.基于NPP的黄南州自然植被对气候 变化的响应[J].生态学杂志,2010,29(6):1094-1102.[Du Jiaqiang, Shu Jianmin, Zhang Linbo. Responses of natural vegetation in Huangnan Prefecture of Qinghai to climate change:A study based on NPP[J]. Chinese Journal of Ecology,2010,29(6): 1094- 1102.]   
+[47] 张国胜,马元仓,董立新,等.青海省柴达木盆地若干风速特征 分析[J].青海气象,2002(1):27-31.[Zhang Guosheng,Ma Yuancang,Dong Lixin, et al. Analysis of wind speed characteristics in Qaidam Basin, Qinghai Province[J]. Journal of Qinghai Meteorology,2002(1): 27-31.]   
+[48]周兴明.青海植被[M].西宁:青海人民出版社,1986:1-199. [Zhou Xingmin. Vegetation of Qinghai Province[M]. Xining: Qinghai People's Press,1986: 1-199.]   
+[49]侯学煜.中国植被图集(1:1000000)[M].北京:科学出版社, 2001:1-260.[Hou Xueyu.Vegetation atlas of China: (1:1000000) [M].Beijing: Science Press,2001: 1-260.]   
+[50] 王涛,许清海,卢静瑶,等.青藏高原东北部高寒草甸夏季开花 植物花粉形态研究[J].古生物学报,2018,57(4):524-542. [Wang Tao, Xu Qinghai,Lu Jingyao,et al.Pollen morphol of sum
+
+# 干吴区地理
+
+mer-plowering species of alpine meadows in northeastern Qinghai Tibetan Plateau[J].Acta Palaeontologica Sinica,2018,57(4): 524-   
+542.] [51]王伏雄,钱南芬,张玉龙,等.中国植物花粉形态[M].2版.北京: 科学出版社,1997: 1-461.[Wang Fuxiong,Qian Nanfen, Zhang Yulong,etal.Pollen floraof China[M]. $2 ^ { \mathrm { n d } }$ ed. Beijing: Science Press,1997: 1-461.] [52] 唐领余,毛礼米,舒军武,等.中国第四纪孢粉图鉴[M].北京:科 学出版社,2016:1-621.[Tang Lingyu,Mao Limi,Shu Junwu, et al.An illustrated handbook of Quaternary pollen and spores in China[M]. Beijing: Science Press,2016: 1-621.] [53] Grimm E C.TILIA software version 1.7.16[M]. Springfield USA: - linois State Museum,Research and Collection Center, 2011. [54]Herzschuh U, Kürschner H, Battarbee R,et al. Desert plant pollen production and a l6O-year record of vegetation and climate change on the Alashan Plateau,NW China[J]. Vegetation History and Archaeobotany,2006,15(3): 181-190. [55] Ter Braak C, Smilauer PN. CANOCO reference manual and CanoDraw for Windows user's guide: Software for canonical community ordination (Version 4.5)[M].Microcomputer Power: Ithaca,   
+2002. [56]Bhattacharya T,Kittur S, Sathyakumar S,et al. Diet overlap between wild ungulates and domestic livestock in the greater Himalaya: Implications for management of grazing practices[J]. Proceedings of the Zoological Society,2012, 65(1): 11-21. [57] 苏军虎,JiWeihong,徐长林,等.甘南草原主要草食动物的食性 及其生态位特征[J].动物学杂志,2017,52(3):381-389.[Su Junhu,Ji Weihong,Xu Changlin,et al. The ecological characteristics of food habits for four herbivores in Gannan meadow[J].Chinese Journal of Zoology,2017,52(3): 381-389.] [58] 李叶,王兵,黄永丽,等.天山地区三种自由放牧家畜食性和营 养生态位的显微组织分析[J].家畜生态学报，2013,34(9):65-   
+68.[Li Ye,Wang Bing,Huang Yongli,et al. Microscopy histological analysis of diet and trophic niche of three free grazing livestock in Tianshan Mountain area[J].Journal of Domestic Animal Ecology,2013,34(9): 65-68.] [59] 江小蕾,张卫国,杨振宇,等.不同干扰类型对高寒草甸群落结 构和植物多样性的影响[J].西北植物学报,2003,23(9):1479-   
+1485.[Jiang Xiaolei, Zhang Weiguo, Yang Zhenyu,et al.The influence of disturbance on community structure and plant diversity of alpine meadow[J].Acta Botanica Boreali-Occidentalia Sinica,   
+2003,23(9): 1479-1485.] [60] 仁青吉,崔现亮,赵彬彬.放牧对高寒草甸植物群落结构及生产 力的影响[J].草业学报,2008,17(6):134-140.[Ren Qingji, Cui Xianliang, Zhang Binbin. Effects of grazing impact on community structure and productivity in an alpine meadow[J]. Acta Prataculturae Sinica,2008,17(6): 134-140.] [61] 董全民,赵新全,李世雄,等.草地放牧系统中土壤-植被系统 各因子对放牧响应的研究进展[J.生态学杂志,2014,33(8):   
+2255-2265.[Dong Quanmin, Zhao Xinquan, Li Shixiong,et al.A review on the responses of various factors within soil-vegetation system to grazing in grassland grazing systems[J]. Chinese Journal of Ecology,2014,33(8): 2255-2265.] [62]李怡雯,许清海,张生瑞,等.青藏高原高寒灌丛草甸花粉组合 的植被指示性[J].科学通报,2019,64(20):2141-2150.[Li Yiwen,Xu Qinghai, Zhang Shengrui,et al. Significance of pollen assemblages for the vegetation composition of alpine shrub meadow in the Qinghai-Tibetan Plateau, China[J]. Chinese Science Bulletin,2019,64(20): 2141-2150.] [63] Akeret O, Haas JN,Leuzinger U,et al. Plant macrofossils and pollen in goat/sheep faeces from the Neolithic lake-shore settlement Arbon Bleiche 3,Switzerland[J]. The Holocene,1999,9(2):175-   
+182. [64] Wei H C, Yuan Q,Xu Q H,et al. Assessing the impact of human activities on surface pollen assemblages in Qinghai Lake Basin, China[J]. Journal of Quaternary Science,2018,33(6): 702-712. [65]谢端据.甘青地区史前考古[M].北京:文物出版社,2002.[Xie Duanju.Prehistoric archaeology in Gansu-Qinghai area[M]. Beijing: Cultural Relics Press,2002.] [66] 侯光良,赖忠平,孙永娟,等.全新世大暖期对青藏高原东北缘 人类活动的影响[J].干旱区地理,2013,36(6):971-978.[Hou Guangliang,Lai Zhongping,Sun Yongjuan,et al.Impactof the Holocene climatic optimum on human activities in the northeastern margin of the Qinghai-Tibetan Plateau[J].Arid Land Geography,   
+2013,36(6): 971-978.] [67] Chen FH,Dong G H, Zhang D J,et al.Agriculture facilitated permanent human occupation of the Tibetan Plateau after 36OO BP[J]. Science,2015,347(1): 248-250.
+
+# Characteristics and environmental implications of dung pollen assemblages of grazing livestock in alpine meadow in the eastern Qinghai-Tibetan Plateau
+
+DUAN Ronglei'²， HOU Guangliang'， WEI Haicheng²， XU Qinghai’， GAO Jingyi
+
+(1.Collge ofGeographical Sience,Qinghai Normal UniversityQinghai ProvinceKeyLaboratoryofPhysical Geographyand EnvironmentalProces,QinghaiNormal University;Xining81Oo8,QinghaiChina；2.KeyLaboratoryofComprehensiveand HighlyEfficientUtilizationofSaleLakeResources,QinghaiProvincialKeyLaboratoryofGeologyandEnvironmentofSaltLakes, QinghaiInstituteofSaltLake,ChineseAcademyofSciences,Xining8oo08,Qinghai,China；3.ColegeofResourcesand Environmentand HebeiKeyLaboratoryofEnvironmental Change and Ecological Construction,HebeiNormal University, Shijiazhuang O50016,Hebei, China)
+
+Abstract: The Qinghai-Tibetan Plateau is an important area of alpine meadow pasture and livestock husbandry in China.The impact of grazing activityon the vegetation and ecology in the Qinghai-Tibetan Plateau has attracted widespread attntion from many scholars.To study the impact of grazing activity on regional vegetation, we collcted 49 dung samples of grazing livestock (comprising 30 yak dung,11 horse dung,and 8 sheep dung) from the typical alpine meadow in the eastern Qinghai-Tibetan Plateau. Our study area extended from $3 4 ^ { \circ } 3 0 ^ { \prime } 0 8 ^ { \prime \prime } -$ $3 5 ^ { \circ } 0 6 ^ { \prime } 2 8 ^ { \prime \prime } \mathrm { N } .$ $1 0 1 ^ { \circ } 3 0 ^ { \prime } 5 7 ^ { \prime \prime } - 1 0 1 ^ { \circ } 4 2 ^ { \prime } 0 4 ^ { \prime \prime } \mathrm { E }$ ，with elevations ranging between $3 4 5 6 \mathrm { ~ m ~ }$ and $3 8 1 5 \mathrm { ~ m ~ }$ .The vegetation communities in the sampling sites were also investigated during the field work. Principal component analysis was used to explore the characteristics of the diferent dung samples and pollen taxa.Meanwhile，the pollen assemblage of the dung samples was compared with the topsoil polln assemblages in the study area to examine the selective grazing characteristics of the diferent livestock in the Qinghai-Tibetan Plateau.These results indicate that the pollen assemblages in the three types of livestock’s dung samples were dominated by Cyperaceae,Poaceae, Gentianaceae,and Ranunculaceae,generally reflecting the characteristicsof the regional plant communities. However, there are some diferences in the feeding habits of the three kinds of grazing livestock: the feeding rates of yaks and horses to Poaceae and Thalictrum species are lower than those of sheep, and those to Gentianaceae, Compositae,and Artemisia species are significantly higher than those of sheep.In addition,cereal Poaceae polln appeared in the dung samples,reflecting the behaviorof the local residents in cultivating oats to raise their livestock. Grazing livestock directly affects the vegetation community structure of alpine meadow through selective feeding of the dominant plant species of Cyperaceae and Poaceae. The comparison of the polln assemblages ofthe dung and topsoil samples in the study area indicates that the contents of Cyperaceae, Polygonaceae,Ranunculaceae,Taraxacum,and Artemisia were similar. However, the contents of Poaceae and Gentianaceae in the dung samples were higher than those in the topsoil samples,and the content of Aster in the topsoil samples was higher than that in dung samples,suggesting the selective feeding characteristics of the grazing livestock. Additionaly，the content of arboreal pollen，including Betula,Pinus，Picea,and Hippophae,in the topsoil samples was higher than those in the dung samples,indicating that the dung pollen assemblages could beter reflect the characteristics of the local vegetation community.This study provides a new research approach for assessing the grazing habits of livestock and impact of grazing activity on regional vegetation in the Qinghai-Tibetan Plateau. Additionaly,the study of pollen assemblages in modern dung samples provides an important reference for the fossil dung pollen assemblages in the archaeological sites to infer the past vegetation and ancient humans’ subsistence strategy on the Qinghai-Tibetan Plateau.
+
+Key words: dung polen; principal component analysis (PCA)； grazing livestock; paleo-vegetation; Qinghai-Tibetan Plateau

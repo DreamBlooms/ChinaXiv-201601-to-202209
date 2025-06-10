@@ -1,0 +1,694 @@
+[
+    {
+        "type": "text",
+        "text": "mIBS方案的分析与改进",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈明，冷建华 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(宜春学院 数学与计算机科学学院，江西 宜春 336000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：魏松杰等人提出一种基于安全仲裁 SEM(SecurityMediator)的 mIBS(identity based signature)方案，利用 SEM节点实现用户身份实时撤销。mIBS方案中，SEM持有部分用户私钥，与签名者共同完成签名。文章对 mIBS 方案进行了安全性分析，发现该方案存在严重安全缺陷，并给出一个具体的攻击实例。在攻击实例中，签名者通过与 SEM的一次正常签名交互，窃取 SEM持有的部分私钥，进而绕开 SEM单独实施签名，使得 SEM失效。文章提出一种改进的 mIBS 方案(记为mIBSG)，对 SEM持有的部分私钥增加了随机性保护。进一步，文章建立了mIBS方案安全模型 mEUF-CMIA(existential unforgeability under adaptive chosen message and identity attacks)，重点讨论了其敌手模型。除传统IBS敌手外，mEUF-CMIA模型定义第2种类型敌手模拟一个恶意但合法的签名者，通过访问随机预言机，在没有 SEM参与的情况下独立产生签名。在mEUF-CMIA模型下，mIBSG方案的不可伪造性被规约为求解循环群上的CDH问题。对比分析表明，mIBSG方案以较小的计算代价实现了可证明安全性。mIBSG方案可用于构建基于IBC的跨域认证系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：基于身份密码学；数字签名；计算Diffie-Hellman问题；随机预言机模型 中图分类号：TP309 doi:10.19734/j.issn.1001-3695.2022.03.0130 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis and improvement ofmIBS scheme ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Ming,Leng Jianhua (School ofMathematics& Computer Science,Yichun University,Yichun Jiangxi 336ooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Wei Songjie etal.proposedanidentity-based signature scheme (named mIBS),andusedasecurity mediator(SEM) node torealizereal-time revocationof entity identity inthe mIBSscheme.The SEMhelda partofthe signature key,and generateda signature by working collaboratively with asigner.This paper analyzed thesecurityof the mIBS scheme,found ithad serioussecurityflaws,andpresentedaspecificatackinstance.Intheatack instance,asignercanstole thekeyheldby the SEMthrough once normal signature interaction with a SEM,and then bypassed the SEM to implement asignature independently.This paper proposed an improved signature scheme (named mIBSG).The mIBSG scheme remedied the security flawsof theoriginalschemebyrandomizingtheprivatekeyheldbythe SEM.Further,thispaperestablishedasecurity model for mIBSscheme,named mEUF-CMIA,and defined anew typeofadversary that simulated malicious butlegitimate signers.The newadversary hadthe power to generateaforged signature independentlythrough askingrandom oracles.Based on the new security model,this paper deduced the unforgeabilityof the mIBSG scheme as solving the CDH problem ona cyclic group.Comparative analysis showed that the mIBSG scheme achieved provable security with a small calculate efficiency lossThe mIBSG scheme can be used to build an IBC-based cross-domain authentication system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: identitybased cryptography; digital signature; computational difie-hellman problem;random oracle model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于身份密码学[1] (identity based cryptography,IBC)是由Shamir在CRYPTO'84会议上首次提出。IBC系统将用户标识作为用户公钥，用户私钥由KGC(key generation center)利用其主密钥生成并与用户标识关联。IBC系统无须建立复杂的PKI(publickeyinfrastructure)，避免了公钥证书管理的沉重负担。直到2001年，Boneh和Franklin[2基于双线性映射理论提出一种有效的 IBE(identity-based encryption)方案。随后，IBC的研究成为一个热点。2007年，RFC5091[3]草案将Boneh-Franklin[2]算法推荐为基于身份加密标准，标志着IBC体制的标准化工作正式开启。2020年，随着《信息安全技术SM9 标识密码算法第1部分：总则》[4]、《信息安全技术SM9标识密码算法第2部分：算法》[5]获得批准，SM9正式成为IBC算法国家标准，并逐步进入行业应用阶段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，IBC机制在拥有诸多优点的同时，也存在密钥托管、信任域网络规模较小等缺点。部分研究提出无证书[67]或自证书[89]等方案以解决IBC中的密钥托管问题；另一些研究则借鉴PKI、区块链等技术和方法以扩大IBC域的网络覆盖范围[10\\~12]。区块链技术具有去中心化和数据不易被窜改等优点，利用区块链技术构建去中心化的信任域，可以确保跨域认证模型内第三方服务器的可信性。近来，多位研究者提出基于区块链技术的跨域认证模型和方案。马晓婷等人[1]基于国密SM9，采用区块链技术构建了PKI与IBC联盟链模型，及其该模型下的跨域认证方案；黄穗等人[13]也提出了基于区块链的跨域认证模型，通过智能合约在区块链上构造布谷鸟过滤器，解决大规模证书查询请求的性能问题；魏欣等人[14]结合区块链与边缘计算思想，构建了一种适用于物联网的跨域认证架构，通过引入边缘网关屏蔽物联网的底层异构性，增强节点隐私保护；张亚兵等人[15]提出多层区块链的跨域认证方案，引入委托权益证明来评估节点的可信度，解决跨域访问时存在的多个管理域相互信任问题；魏松杰等人[12]提出一种基于IBC和区块链的跨域认证协议，定义了基于仲裁的IBC域结构，并提出基于仲裁的身份签名mIBS和认证方案。在基本IBC系统基础上，mIBS方案中引入安全仲裁SEM(SecurityMediator)具体实施对用户标识和密钥的撤销与核验。但是，魏松杰等人[12]对mIBS方案的安全性分析比较简单，没有定义合理的安全模型，存在严重的安全缺陷。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的主要工作包括三个方面：a)对魏松杰等人[2]提出的mIBS方案进行了全面的安全性分析。与传统的基于身份签名方案不同，mIBS方案存在两类敌手，除传统敌手外，一个恶意的签名者也能对算法形成攻击。本文给出了一个针对mIBS方案的攻击实例，签名者通过与SEM的一次正常交互，获取了SEM持有的部分私钥，进而可以绕开SEM，实施独立的签名认证。b)提出了改进的mIBS方案，记为mIBSG方案，改进方案主要针对mIBS方案的缺陷进行了算法增强。c)以EUF-CMIA (existential unforgeability under adaptivechosen message and identity attacks)模型[16]为基础，定义了mIBS方案的安全模型，对两类敌手的行为进行了形式化定义。然后，采用新的模型对mIBSG方案进行了安全规约，将mIBSG方案的安全性规约为求解定义在循环群上的CDH(computationalDiffie-Hellman)问题。对比分析表明，改进方案以较小的计算代价实现了方案的可证明安全性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 背景知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节简要介绍相关的数学背景知识，详细内容可以参考文献[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双线性映射：给定安全参数λ，初始化产生阶为大素数 $p$ $( p { > } 2 ^ { \\lambda } )$ 的循环群 $( G _ { 1 , } + )$ 和 $( G _ { 2 } , \\times )$ ，令 $P$ 为 $G _ { 1 }$ 的生成元，如果给定的映射 $e \\colon G _ { 1 } { \\times } G _ { 1 } { \\to } G _ { 2 }$ 满足下列性质，则 $e$ 是从 $G _ { 1 }$ 到 $G _ { 2 }$ 的一个双线性映射。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)双线性：给定 $U , V \\in G _ { 1 }$ 和任意的 $a , b \\in \\mathbb { Z } _ { p } ^ { * }$ ，有$e ( U ^ { a } , V ^ { b } ) = e ( U , V ) ^ { a b }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）非退化性： $e ( P , P ) \\neq 1$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）可计算性：给定 $U , V \\in G _ { 1 }$ ，能有效计算 $e ( U , V )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CDH 问题：对于任意未知的 $a , b \\in \\mathbb { Z } _ { p } ^ { \\bullet }$ ，给定 $P , a P , b P \\in G _ { 1 }$ ，求解 $a b P$ □",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CDH假设：如果不存在多项式时间算法在时间 $t$ 内以至少 $\\epsilon$ 的概率求解CDH问题，那么称 $( \\epsilon , t )$ -CDH假设在 $G _ { 1 }$ 上成立。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的算法以CDH假设为基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 mIBS方案分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节首先简要回顾文献[12]提出的mIBS方案，然后对其安全性进行分析，提出有效的攻击实例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1mIBS 方案介绍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[12]提出一种基于IBC和区块链的跨域认证协议，并且提出一种mIBS方案用于在跨域认证中对信息服务实体ISE 进行认证。为了解决基于身份密码系统中对实体身份的撤销等有效管理，在mIBS方案中引入安全仲裁(SecurityMediator,SEM)，其系统框架如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在图1所示的IBC系统中，密钥生成中心KGC为用户生成两部分的私钥，其中一部分发回给用户，而另一部分私钥发送给SEM。当用户需要进行签名的时候，首先向SEM申请签名信令，然后根据SEM返回的签名信令生成完整的签名。具体步骤简单描述如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Setup：给定系统参数 $( \\lambda , p , P , G 1 , G 2 , e )$ 如第1节所述，然后选择密码哈希函数 $H _ { 1 } : \\{ 0 , 1 \\} ^ { * }  G _ { 1 } ^ { * }$ 和 $H _ { 2 } : \\{ 0 , 1 \\} ^ { * } \\times G _ { 2 } ^ { * } \\to \\mathbb { Z } _ { p } ^ { * }$ ，其中， $G _ { 1 } ^ { * }$ 和 $G _ { 2 } ^ { * }$ 分别表示 $G _ { 1 } / \\{ 0 \\}$ 和 $G _ { 2 }$ /{}。KGC随机选择$s \\in [ 1 , p - 1 ]$ 作为系统主密钥，计算 $P _ { \\mathrm { p u b } } { = } [ s ] P \\in G _ { 1 }$ 作为系统主公钥其中，[s]表示取整运算。KGC秘密保存系统主密钥 $s$ ，并公开系统参数 $\\mathrm { p p } { = } ( \\lambda , p , P , G _ { 1 } , G _ { 2 } , e , P _ { \\mathrm { p u b } } , H _ { 1 } , H _ { 2 } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyGen：用户提交身份标识 $U D \\in \\{ 0 , 1 \\} ^ { * }$ ，KGC首先计算${ \\cal P } _ { \\scriptscriptstyle I D } = H _ { 1 } ( I D ) \\in G _ { 1 } ^ { * }$ ， $d _ { \\scriptscriptstyle I D } = [ s ] P _ { \\scriptscriptstyle I D } \\in G _ { 1 } ^ { \\scriptscriptstyle * }$ ，然后随机选择 $s _ { I D } \\in [ 1 , p - 1 ]$ 并计算 $d _ { I D } ^ { \\mathrm { u s e r } } = [ s _ { I D } ] P _ { _ { I D } } , d _ { I D } ^ { \\mathrm { S E M } } = d _ { _ { I D } } - d _ { _ { I D } } ^ { \\mathrm { u s e r } } = [ s - s _ { I D } ] P _ { _ { I D } }$ 。KGC将 $d _ { I D } ^ { \\mathrm { u s e r } }$ 通过安全信道发送给用户，将 $d _ { I D } ^ { \\mathrm { S E M } }$ 通过安全信道发送给SEM。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sign：按如下步骤计算消息签名。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）给定消息 $m \\in \\{ 0 , 1 \\} ^ { * }$ ，用户随机选择 $P _ { 1 } \\in G _ { 1 }$ 和 $k \\in \\mathbb { Z } _ { p } ^ { * }$ ，计算 $q = e ( k P _ { 1 } , P )$ ， $g = H _ { 2 } ( m , q )$ 和 $S _ { \\mathrm { u s c r } } = k P _ { \\mathrm { l } } + g d _ { I D } ^ { \\mathrm { u s e r } }$ ，向 SEM发送签名信令请求 $( I D , q , g , S { \\mathrm { u s e r } } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b) SEM收到 $( I D , q , g , S { \\mathrm { u s e r } } )$ 后，首先检索用户 $I D$ ，若该身份已被撤销则停止，否则计算 $S _ { \\mathrm { S E M } } = g d _ { I D } ^ { \\mathrm { S E M } }$ 和 $S _ { m } = S _ { \\mathrm { u s e r } } + S _ { \\mathrm { S E M } }$ ，然后计算 $P _ { I D } { = } H _ { 1 } ( I D )$ 和 $q ^ { \\prime } = e ( S _ { m } , P ) \\cdot e ( P _ { I D } , - P _ { \\mathrm { p u b } } ) ^ { g }$ ；判断 $q ^ { \\prime } = q$ 是否成立，若成立则发送 $S _ { \\mathrm { S E M } }$ 给用户。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）用户收到 $S _ { \\mathrm { S E M } }$ 后，按 b)的方式计算 $S _ { m }$ 和 $q ^ { \\prime }$ ，若 $q ^ { \\prime } = q$ 成立则输出签名 $( I D , m , g , S _ { m } )$ ，否则重新申请签名信令。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Verify：对签名 $( I D , m , g , S _ { m } )$ 的验证。首先按照Sign算法中b)的方式计算 $q ^ { \\prime }$ ，然后计算 $g ^ { \\prime } { = } H _ { 2 } ( m , q ^ { \\prime } )$ ，如果 $g ^ { \\prime } = g$ 成立，则接受签名。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/374173feb09e203f180655e6561ce5f4f08d3a6e2d3d13c925743930e9592309.jpg",
+        "img_caption": [
+            "图1基于SEM的IBC系统 Fig.1 SEM-based IBC system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2mIBS方案安全性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[12]对 mIBS方案进行了简单的安全性分析，没有建立完整的安全模型。由于mIBS方案中引入SEM实体，并且将用户的私钥分成了两个部分，因此，针对IBS方案的EUF-CMIA模型[16在本方案中不完全适用。本节将提出一种针对mIBS方案的新攻击方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，原方案中存在一定的计算错误概率。具体来说，在签名验证计算式 $g d _ { \\scriptscriptstyle I D } ^ { \\mathrm { u s e r } } + g d _ { \\scriptscriptstyle I D } ^ { \\mathrm { S E M } } = g ( [ s _ { \\scriptscriptstyle I D } ] + [ s - s _ { \\scriptscriptstyle I D } ] ) P _ { \\scriptscriptstyle I D }$ 中，等式$( [ s _ { I D } ] + [ s - s _ { I D } ] ) = [ s ]$ 并不一定成立。这会使得用户的私钥无效。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于真实密码算法的密钥非常大，这里以小的模数 $p =$ 23 来举例说明，即： $s , s _ { I D } \\in [ 1 , 2 2 ]$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据 Setup 算法和KeyGen 算法，假设KGC 随机选择$\\scriptstyle s = 1 0 . 3$ ， $s _ { I D } { = } 5 . 7$ ，以上下取整为例，则 $[ s ] { = } [ 1 0 . 3 ] { = } 1 0$ ，（204号 $[ s _ { I D } ] { = } [ 5 . 7 ] { = } 6$ ， $[ s - s _ { I D } ] = [ 1 0 . 3 - 5 . 7 ] = [ 4 . 6 ] = 5$ ，那么： $( [ s _ { I D } ] + [ s - s _ { I D } ] )$ $= 1 1 \\neq [ s ]$ 。如果采用上取整或下取整也存在类似情况。简单估算，上述错误概率接近1/2。一种改进方法是：在KeyGen 算法中，对 $( [ s _ { I D } ] + [ s - s _ { I D } ] ) = [ s ]$ 进行验算，如果等式成立则输出私钥，如果不成立，则重新选择私钥，使得等式成立。更一般的解决方案是：主密钥 $s$ 和用户秘密 $s _ { I D }$ 从 $\\mathbb { Z } _ { p } ^ { * }$ 中随机选择。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "另外，文献[12]将对 $S _ { \\mathrm { S E M } } = g ( s - s _ { I D } ) P _ { I D }$ 的攻击规约为求解离散对数问题，即，求解 $( s - s _ { I D } )$ 。这一规约路径是错误的，因为SEM持有的部分私钥是 $( s - s _ { I D } ) P _ { I D } \\in G _ { 1 } ^ { * }$ ，而不是 $( s - s _ { I D } )$ 。因此，攻击者只需要获得 $( s - s _ { I D } ) P _ { I D }$ 就可以伪造任何的签名信令 $S _ { \\mathrm { S E M } } ^ { \\prime } = g ^ { \\prime } ( s - s _ { I D } ) P _ { I D }$ ，使得 $g ^ { \\prime } \\neq g$ 且 $S _ { \\mathrm { S E M } } ^ { \\prime } \\neq S _ { \\mathrm { S E M } }$ 。进而，签名者可以绕开SEM，实施独立的签名，使得SEM无效，具体签名过程简单描述如下。这里忽略上述计算错误，即假定用户的私钥是有效的，满足：等式 $( [ s _ { I D } ] + [ s - s _ { I D } ] ) = [ s ]$ 成立的条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）签名者从 SEM收到一个有效的 $S _ { \\mathrm { S E M } } = g ( s - s _ { I D } ) P _ { I D }$ 后，首先求 $g$ 关于 $\\mod p$ 的乘法逆元 $g ^ { - 1 } \\in \\mathbb { Z } _ { p } ^ { * }$ ，即， $g ^ { - 1 } g \\equiv 1 { \\bmod { p } }$ 。由于 $p$ 为素数，因此一定存在 $g ^ { - 1 } \\in \\mathbb { Z } _ { p } ^ { * }$ ，且多项式时间可计算。然后，计算 $d _ { I D } ^ { \\mathrm { S E M } } = g ^ { - 1 } S _ { \\mathrm { S E M } } = g ^ { - 1 } g ( s - s _ { I D } ) P _ { I D } = ( s - s _ { I D } ) P _ { I D }$ 。注意，为了描述简洁，在非必要的场景下，文中关于循环群上的运算表达式省略了 $\\mod p$ 运算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b）给定消息 $m ^ { \\prime } \\in \\{ 0 , 1 \\} ^ { * }$ ，签名者随机选择 $P _ { 1 } ^ { \\prime } { \\in } G _ { 1 }$ 和 $k ^ { \\prime } \\in \\mathbb { Z } _ { p } ^ { * }$ ，计算 $q ^ { \\prime } = e ( k ^ { \\prime } P _ { 1 } ^ { \\prime } , P )$ ， $g ^ { \\prime } { = } H _ { 2 } ( m ^ { \\prime } , q ^ { \\prime } )$ 和 $S _ { \\mathrm { u s c r } } ^ { \\prime } = k ^ { \\prime } P _ { 1 } ^ { \\prime } + g ^ { \\prime } d _ { I D } ^ { \\mathrm { u s e r } }$ ，然后计算$S _ { \\mathrm { S E M } } ^ { \\prime } = g ^ { \\prime } d _ { I D } ^ { \\mathrm { S E M } }$ 和 $S _ { m } ^ { \\prime } = S _ { \\mathrm { u s e r } } ^ { \\prime } + S _ { \\mathrm { S E M } } ^ { \\prime }$ ，输出签名 $( I D , q ^ { \\prime } , g ^ { \\prime } , S _ { m } ^ { \\prime } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以验证：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( S _ { m } ^ { \\prime } , P ) \\cdot e ( P _ { I D } , - P _ { \\mathrm { p u b } } ) ^ { \\prime } =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( k ^ { \\prime } P _ { 1 } ^ { \\prime } + g ^ { \\prime } d _ { I D } ^ { \\mathrm { u s e r } } + g ^ { \\prime } d _ { I D } ^ { \\mathrm { S E M } } , P ) \\cdot e ( P _ { I D } , - P _ { \\mathrm { p u b } } ) ^ { g ^ { \\prime } } =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( k ^ { \\prime } P _ { 1 } ^ { \\prime } , P ) \\cdot e ( [ s ] P _ { I D } , P ) ^ { \\it g ^ { \\prime } } \\cdot e ( P _ { I D } , [ s ] P ) ^ { - \\it g ^ { \\prime } } = e ( k ^ { \\prime } P _ { 1 } ^ { \\prime } , P ) = q ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可见，由于签名者获得了SEM持有的部分私钥，可以独立实施对任意消息的签名，攻击成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 改进的mIBS方案及其安全性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本章首先对原有mIBS方案的改进方案，记为mIBSG，然后讨论其安全模型，并对改进方案进行安全性分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1mIBS方案改进 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑2.2节中对mIBS方案的伪造攻击。攻击形成的关键原因是在SEM签署的签名信令 $S _ { \\mathrm { S E M } } = g d _ { I D } ^ { \\mathrm { S E M } }$ 中缺少对部分私钥 $d _ { I D } ^ { \\mathrm { S E M } }$ 的随机性保护，导致恶意的签名者通过一次确定的签名过程直接恢复出SEM持有的部分私钥 $d _ { I D } ^ { \\mathrm { S E M } }$ 。因此，本文的改进方案则在原方案的基础上，在Sign算法中添加对 $d _ { I D } ^ { \\mathrm { S E M } }$ 的随机性保护，具体描述如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mIBSG方案不改变原有方案的总体框架，系统建立(Setup)和密钥生成(KeyGen)与原方案基本相同。在系统公开参数中增加密码哈希函数 $H _ { 3 } : \\mathbb { Z } _ { p } ^ { * } \\times G _ { 2 } ^ { * } \\to \\mathbb { Z } _ { p } ^ { * }$ ；密钥生成阶段要求KGC检验等式 $( [ s _ { I D } ] + [ s - s _ { I D } ] ) = [ s ]$ 是否成立，如果不成立则重新生成密钥，直到等式成立。签名和签名签证过程如下所述。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sign：按如下步骤计算消息签名。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）给定消息 $m \\in \\{ 0 , 1 \\} ^ { * }$ ，用户随机选择 $P _ { 1 } \\in G _ { 1 }$ 和 $k \\in \\mathbb { Z } _ { p } ^ { * }$ ，计算 $q _ { 1 } = e ( k P _ { 1 } , P )$ ， $g = H _ { 2 } ( m , q _ { 1 } )$ 和 $S _ { \\mathrm { u s e r } } = k P _ { \\mathrm { l } } + g d _ { I D } ^ { \\mathrm { u s e r } }$ ，向SEM发送签名信令请求 $( I D , q _ { 1 } , g , S _ { \\mathrm { u s e r } } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b) SEM收到 $( I D , q _ { 1 } , g , S _ { \\mathrm { u s e r } } )$ 后，首先检索用户 $I D$ ，若该身份已被撤销则停止，否则随机选择 $P _ { 2 } \\in G _ { 1 }$ ，计算 $q _ { 2 } = e ( P _ { 2 } , P )$ ，$r = H _ { 3 } ( g , q _ { 2 } )$ ， $S _ { \\mathrm { S E M } } = r ( P _ { 2 } + g d _ { I D } ^ { \\mathrm { S E M } } )$ 和 $S _ { m } = r S _ { \\mathrm { { u s e r } } } + S _ { \\mathrm { { S E M } } }$ ，然后计算$P _ { I D } { = } H _ { 1 } ( I D )$ ，并验证等式 $( q _ { 1 } \\cdot q _ { 2 } ) ^ { r } = e ( S _ { m } , P ) \\cdot e ( P _ { I D } , P _ { \\mathrm { p u b } } ) ^ { - r g }$ 是否成立，若成立则发送 $( q _ { 2 } , S _ { \\mathrm { S E M } } )$ 给用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）用户收到 $( q _ { 2 } , S _ { \\mathrm { S E M } } )$ 后，计算 $r = H _ { 3 } ( g , q _ { 2 } )$ ，以及完整签名$S _ { m } = r S _ { \\mathrm { u s e r } } + S _ { \\mathrm { S E M } }$ ，验证等式 $( q _ { 1 } \\cdot q _ { 2 } ) ^ { r } = e ( S _ { m } , P ) \\cdot e ( P _ { I D } , P _ { \\mathrm { p u b } } ) ^ { - r g }$ 是否成立，若成立则输出签名 $( I D , m , q _ { 1 } , q _ { 2 } , S _ { m } )$ ，否则重新申请签名信令。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Verify：对签名 $( I D , m , q _ { 1 } , q _ { 2 } , S _ { m } )$ 的验证。签名验证者首先计算 $g = H _ { 2 } ( m , q _ { 1 } )$ ， $r = H _ { 3 } ( g , q _ { 2 } )$ 和 $P _ { I D } { = } H _ { 1 } ( I D )$ ，然后验证等式$( q _ { 1 } \\cdot q _ { 2 } ) ^ { r } = e ( S _ { m } , P ) \\cdot e ( P _ { I D } , P _ { \\mathrm { p u b } } ) ^ { - r g }$ 是否成立，若成立则接受签名。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可以验证：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ( S _ { m } , P ) \\cdot e ( P _ { I D } , P _ { \\mathrm { p u b } } ) ^ { - r g } =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\quad _ { ^ { m } } \\cdot _ { ^ { m } } ^ { { \\mathrm { ~ s e ~ } } ^ { , \\ { s , w } , \\ { r } } } } \\\\ & { \\quad e ( r k P _ { 1 } + r g d _ { ^ { I D } } ^ { { \\mathrm { ~ u s e r } } } + r P _ { 2 } + r g d _ { ^ { I D } } ^ { \\mathrm { S E M } } , P ) \\cdot e ( P _ { I D } , P _ { \\mathrm { p u b } } ) ^ { - r g } = } \\\\ & { \\quad _ { ^ { g } } ( r k P _ { 1 } , P ) \\cdot e ( r P _ { 2 } , P ) \\cdot e ( d _ { I D } ^ { { \\mathrm { u s e r } } } + d _ { ^ { I D } } ^ { \\mathrm { S E M } } , P ) ^ { r g } \\cdot e ( P _ { I D } , P _ { \\mathrm { p u b } } ) ^ { - r g } = } \\\\ & { \\quad e ( k P _ { 1 } , P ) ^ { r } \\cdot e ( P _ { 2 } , P ) ^ { r } \\cdot e ( [ s ] P _ { I D } , P ) ^ { r g } \\cdot e ( P _ { I D } , [ s ] P ) ^ { - r g } = } \\\\ & { \\quad \\quad ( q _ { 1 } \\cdot q _ { 2 } ) ^ { r } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式(2)可得，mIBSG方案具有可验证正确性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 mIBSg方案中，在 Sign 算法的b)步骤，本文增加了随机选择的 $P _ { 2 } \\in G _ { 1 }$ ，并且利用 $r = H _ { 3 } ( g , q _ { 2 } )$ 将 $g$ 与 $q _ { 2 } = e ( P _ { 2 } , P )$ 进行了绑定。由于 $P _ { 2 }$ 是随机的，因此从任何敌手的视角来看，$q _ { 2 } = e ( P _ { 2 } , P )$ 也是随机的。本质上，签名信令 $( q _ { 2 } , S _ { \\mathrm { S E M } } )$ 是SEM采用部分私钥 $d _ { I D } ^ { \\mathrm { S E M } }$ 对签名请求消息 $g = H _ { 2 } ( m , q _ { 1 } )$ 的签名，主要目的是防止签名者任意替换消息 $g$ ，确保了签名者每次签名都必须请求SEM产生一个新的签名信令。同时，由于存在新鲜且随机的 $P _ { 2 } \\in G _ { 1 }$ ，任何敌手想要从 $S _ { \\mathrm { S E M } } = r ( P _ { 2 } + g d _ { I D } ^ { \\mathrm { S E M } } )$ 中恢复出部分私钥 $d _ { I D } ^ { \\mathrm { S E M } }$ ，都面临求解CDH问题。详细的安全性分析，请见本文3.2节。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2mIBSG方案安全性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节首先建立mIBS方案安全模型，然后对mIBSG方案进行安全性规约。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1mIBS安全模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面首先回顾基本的EUF-CMIA模型[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义敌手A与模拟器B之间的EUF-CMIA游戏如下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统建立：B执行 Setup 算法，公开系统公共参数 pp,创建 $N$ 个用户的身份集合 $\\widehat { \\boldsymbol { \\sigma } } _ { \\mathrm { I D } } = \\{ I D _ { 1 } , . . . , I D _ { N } \\}$ ，并且随机选择用于挑战的用户身份 $I D ^ { * } \\in \\hat { \\sigma } _ { \\mathrm { I D } }$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "询问：A自适应地执行多项式时间有界次的询问。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "KeyGen询问。A提交用户身份 $I D$ ，B返回其私钥 $s k _ { I D }$ 。这里要求A不能询问 $I D ^ { * }$ 的私钥。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sign询问。A提交 $( I D , m )$ ，B返回签名 $\\sigma$ 给 $\\mathrm { \\bf A }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "伪造：询问阶段结束以后，A输出伪造签名 $( I D ^ { * } , m ^ { * } , \\sigma ^ { * } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义1对IBS方案 $\\Im =$ (Setup,KeyGen,Sign,Verify)，敌手A在选择身份攻击下的优势定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { A d v } _ { \\mathcal { A } } ^ { \\mathrm { E U F - C M L A } } =\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { P r } \\Bigg [ \\overset { \\mathrm { p p }  \\mathrm { S e t u p } ( 1 ^ { \\lambda } ) } { ( I D , s k )  \\mathrm { K e y G e n } ( \\mathrm { p p } , I D ) } \\ : \\quad \\begin{array} { l } { m ^ { * } \\notin \\hat { \\sigma } _ { \\mathrm { m } } \\land } \\\\ { V e r i f y ( I D ^ { * } , m ^ { * } , \\sigma ^ { * } ) = 1 } \\end{array} \\Bigg ] } \\\\ & { \\quad \\Big [ ( m ^ { * } , \\sigma ^ { * } )  \\mathcal { A } ^ { \\mathrm { o _ { s g n } ( \\cdot ) } } ( \\mathrm { p p } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { O } _ { \\mathrm { { s i g n } } } ( \\cdot )$ 是一个签名预言机，模拟Sign 询问，集合 $\\hat { v } _ { \\mathrm { m } }$ 存储已完成签名询问的消息 $\\mathbf { \\nabla } _ { m }$ 及其对应的签名应答 $\\sigma$ 。如果对于任意多项式时间敌手A，有 $\\mathrm { A d v } _ { \\mathcal { A } } ^ { \\mathrm { E U F - C M A } } = \\mathrm { n e g l } ( \\lambda )$ 成立，则称 $\\Im$ 在选择身份攻击下具有不可伪造性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理1令 $\\Im$ 是一种数字签名机制，其安全参数为。A是一个概率多项式时间图灵机，其输入为公开参数。A可以自适应地完成随机预言机(randomoracle,RO)询问，假设A以概率 $\\epsilon ( \\lambda )$ 输出一个有效的签名 $\\sigma ^ { * } = ( I D ^ { * } , m ^ { * } , q _ { 1 } ^ { * } , q _ { 2 } ^ { * } , r ^ { * } , g ^ { * } , S _ { m } ^ { * } )$ ，则存在一个算法 $\\mathbf { \\mathcal { A } ^ { \\prime } }$ 利用A，在多项式时间内产生两个有效的签名 $\\sigma ^ { * } = ( I D ^ { * } , m ^ { * } , q _ { 1 } ^ { * } , q _ { 2 } ^ { * } , r ^ { * } , g ^ { * } , S _ { m } ^ { * } )$ 和 $\\sigma ^ { \\prime } = \\ ( I D ^ { * } , m ^ { * } , q _ { 1 } ^ { * } , q _ { 2 } ^ { * } , r ^ { \\prime } , g ^ { \\prime } , S _ { m } ^ { \\prime } )$ ，使得 $r ^ { * } \\neq r ^ { \\prime } \\land g ^ { * } \\neq g ^ { \\prime }$ 成立。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引理1是数字签名安全性证明中广泛采用的分叉引理[18](forkinglemma)，由Pointcheva 等人首次引入。本文安全模型也引用这一引理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据2.2节的分析，mIBS方案与基本IBS方案存在较大差异，同时存在两类敌手。第1类是传统的IBS敌手，其攻击目标是伪造完整的签名；第2类敌手是恶意的签名者，其攻击目标是伪造签名信令。因此，对mIBS方案的分析模型应对基本的EUF-CMIA模型进行调整，本文定义为mEUF-CMIA模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mEUF-CMIA模型的主要变化在于刻画敌手的能力。对于第1类敌手，限制其询问 $I D ^ { * }$ 的完整私钥；对于第2类敌手，允许其询问 $I D ^ { * }$ 的部分私钥( $d _ { I D ^ { * } } ^ { \\mathrm { u s e r } } )$ ，而不允许其询问 $I D ^ { * }$ 的另一部分私钥 $\\big ( d _ { I D ^ { * } } ^ { \\mathrm { S E M } }$ )。此外，针对两类敌手提交的 Sign 询问，模拟器B应答的方式也有所区别。具体内容见3.2.2节。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$3 . 2 . 2 \\ \\mathrm { m I B S G }$ 方案安全性证明",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节对mIBSG方案进行安全性规约，基于CDH假设，证明其在选择身份和选择消息攻击下具有不可伪造性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先对规约过程进行简单的非形式化分析。给定CDH实例 $( P , a P , b P )$ ，令KGC 的主公钥为 $a P$ ，令 $H _ { 1 } ( I D ^ { * } ) = b P$ （ $I D ^ { * }$ 为挑战用户身份)，则 $I D ^ { * }$ 的私钥为 $d _ { I D } = d _ { I D } ^ { \\mathrm { u s e r } } + d _ { I D } ^ { \\mathrm { S E M } } = \\left[ s \\right] P _ { I D } = a b P$ 。在mEUF-CMIA 游戏中，KGC的主密钥 $[ s ] = a$ 是未知的，因此",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$I D ^ { * }$ 的完整私钥 $d _ { I D }$ 包含了一个CDH问题的实例。通过游戏模拟，模拟器B利用A输出 $I D ^ { * }$ 签名来求解该CDH问题实例。如果CDH假设成立，那么B成功的优势是可以忽略的，从而反证A成功伪造 $I D ^ { * }$ 签名的优势也是可以忽略的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在基于随机预言机的安全模型中，哈希函数通常被替换为哈希询问，称为哈希预言机(Hash Oracle)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定理1如果CDH假设成立，那么本文mIBSG方案满足EUF-CMIA安全。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证明假设存在多项式时间敌手A以不可忽略的优势攻破mIBSG方案，本文将构建一个算法B利用A，在多项式时间内解决CDH问题。给定CDH实例 $( P , a P , b P )$ ，下面模拟B与A的mSID-EUF-CMA游戏。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统建立：B运行 Setup 算法，产生系统公开参数 $\\mathrm { \\ p p { = } } ( \\lambda ,$ $p , P , G _ { \\mathrm { l } } , G _ { 2 } , e , P _ { \\mathrm { p u b } } )$ ，创建 $N$ 个用户的身份集合 $\\widehat { \\boldsymbol { \\sigma } } _ { \\mathrm { I D } } = \\{ I D _ { 1 } , . . . , I D _ { N } \\}$ ，并将pp 和 $\\hat { \\sigma } _ { \\mathrm { I D } }$ 发送给A。其中， $P _ { \\mathrm { p u b } } = a P$ ，即系统主密钥 $s = a$ 未知。B随机选择用于挑战的用户身份 $I D ^ { * } \\in \\hat { \\sigma } _ { \\textrm { D } }$ 。注意，根据随机预言机假设，模拟过程中，用哈希询问 $( \\mathrm { H } _ { 1 } , \\mathrm { H } _ { 2 } , \\mathrm { H } _ { 3 } )$ 替换哈希函数 $( H _ { 1 } , H _ { 2 } , H _ { 3 } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "询问：A自适应地执行多项式时间有界次的询问。B维护初始为空的列表 $( \\mathrm { L } _ { 1 } , \\mathrm { L } _ { 2 } , \\mathrm { L } _ { 3 } , \\mathrm { L } _ { \\mathrm { k } } , \\hat { \\sigma } _ { \\mathrm { m } } )$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } _ { \\mathrm { l } }$ 询问。A提交 $\\mathrm { H } _ { \\mathrm { 1 } } ( I D _ { i } )$ 询问。如果 $I D _ { i }$ 在列表 $\\mathrm { L } _ { 1 }$ 中存在,则直接返回 $P _ { i }$ ；否则，如果 $I D _ { i } \\in \\partial _ { \\mathrm { I D } } \\wedge I D _ { i } \\not = I D ^ { * } ,$ B随机选择 $t _ { i } \\in \\mathbb { Z } _ { p } ^ { * }$ ，计算 $P _ { i } = t _ { i } P$ ，将 $( I D _ { i } , t _ { i } , P _ { i } )$ 插入集合 $\\mathrm { L } _ { 1 }$ ；如果 $I D _ { i } { = } I D ^ { * }$ ，则令 $P _ { i } = b P$ ，将 $( I D ^ { * } , \\bot , P _ { i } )$ 插入集合 $\\mathrm { L } _ { 1 }$ 。最后将 $P _ { i }$ 返回给 $\\mathrm { \\bf A }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } _ { 2 }$ 询问。A提交 $\\mathbf { H } _ { 2 } ( m _ { i } , q _ { 1 , i } )$ 询问。如果 $( m _ { i } , q _ { 1 , i } )$ 在列表 $\\mathbf { L } _ { 2 }$ 中存在，则B直接返回对应的 $g _ { i }$ ；否则，B随机选择 $g _ { i } \\in \\mathbb { Z } _ { p } ^ { * }$ ，并返回给A，然后将 $( m _ { i } , q _ { 1 , i } , g _ { i } )$ 插入 $\\mathbf { L } _ { 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { H } _ { 3 }$ 询问。A提交 $\\mathrm { H } _ { 3 } ( g _ { i } , q _ { 2 , i } )$ 询问。如果 $g _ { i }$ 在列表 $\\mathbf { L } _ { 2 }$ 中不存在，则返回 $\\perp$ ；否则，如果 $( g _ { i } , q _ { 2 , i } )$ 在列表 $\\mathrm { L } _ { 3 }$ 中存在，则B直接返回对应的 $r _ { i }$ ；否则，B随机选择 $r _ { i } \\in \\mathbb { Z } _ { p } ^ { * }$ ，并返回给A,然后将 $( g _ { i } , q _ { 2 , i } , r _ { i } )$ 插入 $\\mathrm { L } _ { 3 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KeyGen询问。A提交身份 $I D _ { i }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)如果 $I D _ { i } \\in \\partial _ { \\mathrm { I D } } \\land I D _ { i } \\neq I D ^ { * }$ ，且 $( I D _ { i } , d _ { i } ^ { \\mathrm { u s e r } } , d _ { i } ^ { \\mathrm { S E M } } )$ 在 $\\mathrm { L } _ { \\mathrm { k } }$ 中存在,B直接返回 $( d _ { i } ^ { \\mathrm { u s e r } } , d _ { i } ^ { \\mathrm { S E M } } )$ 给A;否则,B通过 $\\mathrm { H } _ { 1 }$ 询问得到 $( I D _ { i } , t _ { i } , P _ { i } )$ ：随机选择 $s _ { i } \\in [ 1 , p - 1 ]$ ，计算 $d _ { i } ^ { \\mathrm { u s c r } } = [ s _ { i } ] P _ { i }$ ， $d _ { i } ^ { \\mathrm { S E M } } = t _ { i } ^ { } P _ { \\mathrm { p u b } } ^ { } - [ s _ { i } ^ { } ] P _ { i } ^ { }$ ，将$( d _ { i } ^ { \\mathrm { u s e r } } , d _ { i } ^ { \\mathrm { S E M } } )$ 返回给A，并将 $( I D _ { i } , d _ { i } ^ { \\mathrm { u s e r } } , d _ { i } ^ { \\mathrm { S E M } } )$ 插入 $\\mathrm { L } _ { \\mathrm { k } }$ 。可以验证：$\\begin{array} { r l } { d _ { i } ^ { \\mathrm { { S E M } } } = t _ { i } P _ { \\mathrm { { p u b } } } - [ s _ { i } ] P _ { i } = { } } & { { } ( a - [ s _ { i } ] ) P _ { i } } \\end{array}$ 。因此，从敌手的视角来看，KeyGen 询问输出与真实密钥生成算法输出的密钥同分布且不可区分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)如果 $I D _ { i } { = } I D ^ { * }$ ，B随机选择 $s _ { i } \\in [ 1 , p - 1 ]$ ，令 $P _ { i } = b P$ ，计算$d _ { i } ^ { \\mathrm { u s e r } } = [ s _ { i } ] P _ { i }$ ，将 $( I D _ { i } , d _ { i } ^ { \\mathrm { u s e r } } , \\perp )$ 插入 $\\mathrm { L } _ { \\mathrm { k } }$ 。如果A是第1类敌手，则返回 $\\perp$ ；如果A是第2类敌手，则返回 $d _ { i } ^ { \\mathrm { u s c r } }$ 给A。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sign 询问。A提交 $\\mathrm { S i g n } ( I D _ { i } , m _ { j } )$ 询问。如果 $I D _ { i }$ 的私钥还未创建，则B首先按照KeyGen询问的方法创建用户私钥。如果 $I D _ { i } \\in \\partial _ { \\mathrm { I D } } \\land I D _ { i } \\neq I D ^ { * }$ ，B 按照mIBSG方案的 Sign 算法计算并输出签名 $\\sigma _ { j } = ( I D _ { i } , m _ { j } , q _ { 1 , j } , q _ { 2 , j } , S _ { m _ { j } } )$ ，然后将 $\\sigma _ { j }$ 插入 $\\hat { v } _ { \\mathrm { m } }$ 。如果$I D _ { i } { = } I D ^ { * }$ ，为了区分两类敌手，本文分别构建两种形式的 Sign应答。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)如果A是第1类敌手。B随机选择 $P _ { 1 , j } \\in G _ { 1 }$ 和 $k _ { j } \\in \\mathbb { Z } _ { p } ^ { \\bullet }$ ，计算 $q _ { 1 , j } = e ( k _ { j } P _ { 1 , j } , P )$ ，通过 $\\mathbf { H } _ { 2 } ( m _ { j } , q _ { 1 , j } )$ 询问获得 $g _ { j }$ ，然后计算$S _ { \\mathrm { u s e r } , j } = k _ { j } P _ { 1 , j } + g _ { j } d _ { i } ^ { \\mathrm { u s e r } }$ ，接着随机选择 $r _ { j } \\in \\mathbb { Z } _ { p } ^ { * }$ 和 $S _ { \\mathrm { S E M } , j } \\in G _ { \\mathrm { l } }$ ，计算$S _ { m , j } = r _ { j } S _ { \\mathrm { u s e r } , j } + S _ { \\mathrm { S E M } , j }$ ，令 $q _ { 2 , j } = e ( S _ { m , j } , P ) ^ { r _ { j } ^ { - 1 } } \\cdot e ( P _ { i } , P _ { \\mathrm { p u b } } ) ^ { - g _ { j } } \\cdot q _ { 1 , j } ^ { - 1 }$ ，然后将$( g _ { i } , q _ { 2 , i } , r _ { i } )$ 插入 $\\mathrm { L } _ { 3 }$ 。最后，B将 $\\sigma _ { j } = ( I D _ { i } , m _ { j } , q _ { 1 , j } , q _ { 2 , j } , S _ { m _ { j } } )$ 插入 $\\hat { o } _ { \\mathrm { m } }$ ，并且返回签名 $\\sigma _ { j }$ 给 $\\mathrm { \\bf A }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)如果A是第2类敌手。A提交签名信令请求$( I D _ { i } , q _ { 1 , j } , g _ { j } , S _ { \\mathrm { u s e r } , j } )$ 。如果 $( q _ { 1 , j } , g _ { j } )$ 在列表 $\\mathbf { L } _ { 2 }$ 中不存在或不匹配，则B 返回⊥；否则，B 随机选择 $r _ { j } \\in \\mathbb { Z } _ { p } ^ { * }$ 和 $S _ { \\mathrm { S E M } , j } \\in G _ { 1 }$ ，计算（204号 $S _ { m , j } = r _ { j } S _ { \\mathrm { u s c r } , j } + S _ { \\mathrm { S E M } , j }$ ，令 $q _ { 2 , j } = e ( S _ { m , j } , P ) ^ { r _ { j } ^ { - 1 } } \\cdot e ( P _ { i } , P _ { \\mathrm { p u b } } ) ^ { - g _ { j } } \\cdot q _ { 1 , j } ^ { - 1 }$ ，然后将$( g _ { i } , q _ { 2 , i } , r _ { i } )$ 插入 $\\mathrm { L } _ { 3 }$ 。最后，B将 $\\sigma _ { j } = ( I D _ { i } , m _ { j } , q _ { 1 , j } , q _ { 2 , j } , S _ { m _ { j } } )$ 插入 $\\hat { o } _ { \\mathrm { m } }$ ，并且返回签名 $\\sigma _ { j }$ 给 $\\mathrm { \\bf A }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "容易验证，等式： $( q _ { 1 } \\cdot q _ { 2 } ) ^ { r } = e ( S _ { m } , P ) \\cdot e ( P _ { i } , P _ { \\mathrm { p u b } } ) ^ { - r g }$ 成立。在真实签名算法中， $q _ { 2 , j } = e ( P _ { 2 , j } , P )$ 。其中， $P _ { 2 , j } \\in G _ { 1 }$ 由 SEM随机选择,且独立于(两类)敌手的视角，进而 $q _ { 2 , j }$ 也独立于敌手的视角。也就是说，从敌手的视角来看，Sign询问的输出与真实签名算法的输出同分布且不可区分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "伪造：询问阶段结束以后，A输出伪造签名 $\\sigma ^ { * } =$ $( I D , m ^ { * } , q _ { 1 } ^ { * } , q _ { 2 } ^ { * } , S _ { m } ^ { * } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果 $I D \\neq I D ^ { * } \\lor m ^ { * } \\in \\hat { \\sigma } _ { \\mathrm { m } }$ ，B终止游戏，模拟失败。否则，B以 $( q _ { 1 } ^ { * } , q _ { 2 } ^ { * } )$ 为索引查询列表 $_ { \\mathrm { L } _ { 2 } / \\mathrm { L } _ { 3 } }$ 取得 $( r ^ { * } , g ^ { * } )$ ，若验证等式：$( q _ { 1 } ^ { * } \\cdot q _ { 2 } ^ { * } ) ^ { r ^ { * } } = e ( S _ { m } ^ { * } , P ) \\cdot e ( P _ { \\scriptscriptstyle { I D ^ { * } } } , P _ { \\scriptscriptstyle { \\mathrm { p u b } } } ) ^ { - r ^ { * } g ^ { * } }$ 成立，则A赢得游戏。如果$( r ^ { * } , g ^ { * } )$ 在 $\\mathrm { L } _ { 2 } / \\mathrm { L } _ { 3 }$ 中不存在，则终止游戏，模拟失败。也就是说，A 必须通过哈希询问取得 $( r ^ { * } , g ^ { * } )$ ，这就保证了计算顺序$q _ { 1 } ^ { * } \\to g ^ { * } , q _ { 2 } ^ { * } \\to r ^ { * }$ ，从而使得敌手无法采用Sign询问中的方法构造伪造签名。在真实世界中，哈希预言机是不存在的，因此，Sign询问中的签名构造方法是无法实现的，这是随机预言机模型与真实世界的主要区别。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果游戏没有终止，且A赢得游戏。根据分叉引理[18],B可以构造算法 $\\mathbf { \\mathcal { A } ^ { \\prime } }$ 利用A产生另一有效签名$( I D ^ { * } , m ^ { * } , q _ { 1 } ^ { * } , q _ { 2 } ^ { * } , r ^ { \\prime } , g ^ { \\prime } , S _ { m } ^ { \\prime } )$ ， $r ^ { * } \\neq r ^ { \\prime } \\land g ^ { * } \\neq g ^ { \\prime }$ 。可以验证：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { m } ^ { * } = r ^ { * } k ^ { * } P _ { 1 } ^ { * } + r ^ { * } P _ { 2 } ^ { * } + r ^ { * } g ^ { * } ( d _ { I D ^ { * } } ^ { \\mathrm { u s e r } } + d _ { I D ^ { * } } ^ { \\mathrm { S E M } } ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ^ { * } ( k ^ { * } P _ { 1 } ^ { * } + P _ { 2 } ^ { * } ) + r ^ { * } g ^ { * } ( a b P )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { m } ^ { \\prime } = r ^ { \\prime } k ^ { * } P _ { 1 } ^ { * } + r ^ { \\prime } P _ { 2 } ^ { * } + r ^ { \\prime } g ^ { \\prime } ( d _ { I D ^ { * } } ^ { \\mathrm { u s e r } } + d _ { I D ^ { * } } ^ { \\mathrm { S E M } } ) =\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ^ { \\prime } ( k ^ { * } P _ { 1 } ^ { * } { + } P _ { 2 } ^ { * } ) { + } r ^ { \\prime } g ^ { \\prime } ( a b P )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式(3)(4)，B计算：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na b P { = } ( g ^ { \\prime } { - } g ^ { * } ) ^ { - 1 } ( r ^ { \\prime - 1 } S _ { m } ^ { \\prime } - r ^ { * - 1 } S _ { m } ^ { * } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作为对CDH问题的回答。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 A 赢得游戏的优势为 $\\mathrm { A d v } _ { \\mathcal { A } } ^ { \\mathrm { m S I D - E U F - C M A } } = \\epsilon$ ，那么B赢得CDH挑战的优势为： $\\epsilon ^ { \\prime } = \\epsilon { + } \\mathrm { n e g l } ( \\lambda )$ □",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据CDH假设，如果B赢得CDH挑战的优势 $\\boldsymbol { \\epsilon } ^ { \\prime }$ 是可忽略的，那么A赢得游戏的优势也是可忽略。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "证毕。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 对比分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在安全性方面，本文mIBSG方案实现了在随机预言机模型下的可证明安全。mIBS方案[12]则存在安全缺陷，签名者可以绕开 SEM 独立实施签名，违背了mIBS方案的设计初衷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "计算开销方面，mIBSG方案与原方案的对比如表1所示。表中列举了主要的计算开销，其中，P表示双线性对运算，H表示哈希运算，M表示群 $G _ { 1 } / G _ { 2 }$ 上的乘法运算，A表示群$G _ { 1 } / G _ { 2 }$ 上的加法运算，E表示群 $G _ { 2 }$ 上的指数运算。在群 $G _ { 1 }$ 上和群 $G _ { 2 }$ 上的乘法(加法)运算时间差别不大，因此合并计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb7a6336c034c0603c554e70e4c01212f60f94b94e9ff8dc704ba9cfbbda0807.jpg",
+        "table_caption": [
+            "表1计算开销对比",
+            "Tab.1 Comparison of computational costs "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Algorithms</td><td colspan=\"2\">Sign</td><td>Verify</td></tr><tr><td>Signer</td><td>SEM</td><td>Signature Verifier</td></tr><tr><td rowspan=\"2\">mIBS</td><td>3P+3M+2A+</td><td>2P+2M+1A+</td><td>2P+1M+1E+1H1+1H2</td></tr><tr><td>1E+1H2</td><td>1E+1H1</td><td></td></tr><tr><td rowspan=\"2\">mIBSG</td><td>3P+5M+2A+</td><td>3P+4M+2A+</td><td>2P+2M+2E+</td></tr><tr><td>2E+1H2+1H3</td><td>2E+1H1+1H2</td><td>1H1+1H2+1H3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从各类计算开销来看，签名者增加 $2 \\mathbf { M } + 1 \\mathbf { E } + 1 \\mathbf { H } _ { 3 } ^ { \\cdot }$ ，SEM增加 $( 1 \\mathrm { P } + 2 \\mathrm { M } + 1 \\mathrm { A } + 1 \\mathrm { E } + 1 \\mathrm { H } _ { 2 } )$ ，验证者则增加( $1 \\mathrm { M } { + } 1 \\mathrm { E } { + } 1 \\mathrm { H } _ { 3 } )$ 。根据文献[12]给出的实验环境和实验数据：1次双线性对运算时间约等于 $1 . 1 1 2 \\mathrm { m s }$ ，1次 $G _ { 1 } / G _ { 2 }$ 上的乘法运算时间约等于$0 . 4 0 7 \\mathrm { m s }$ ，1次 $G _ { 1 } / G _ { 2 }$ 上的加法运算时间约等于 $0 . 0 0 3 \\mathrm { m s }$ ，1次$G _ { 2 }$ 上的指数运算时间约等于 $0 . 1 3 1 \\mathrm { { m s } }$ 。而哈希函数的计算时间相较来说则更低，可以忽略不计。因此，从时间开销上来说，增加较多的是SEM，总的计算时间约为 $5 . 2 3 2 \\mathrm { m s }$ ，增加约 $2 . 0 6 \\mathrm { { m s } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "魏松杰等人[12]提出一种mIBS方案，引入安全仲裁 SEM对IBC域中用户身份进行撤销管理和核验。但是，分析发现，该方案存在严重安全缺陷，签名者可利用与SEM的一次正常交互，获取SEM持有的部分私钥。本文提出改进的mIBSG方案，并建立了安全模型。新安全模型在传统SID-EUF-CMA模型的基础上定义了两类敌手，分别模拟外部攻击者和恶意的签名者。在新的安全模型下，mIBSG方案的不可伪造性被规约为求解循环群上的CDH问题，实现了可证明安全性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体来看，mIBS算法效率不具有比较优势，后续优化研究可以从以下两方面展开。第一，实际应用中，网络延迟所消耗的时间远远大于节点计算时间，可以考虑降低每次签名的平均网络延迟，提高签名方案的整体效率。在文献[12]的跨域认证系统中，mIBS方案主要用于信息服务实体ISE的签名认证。对ISE来说，短时间内多次签名是比较常见的，每一次签名就申请一次签名信令在实际应用中没有必要，既增加了SEM的负载也增加了方案的总体网络延迟。因此，在mIBSG方案的基础上，研究实现多次签名共享一个签名信令机制，可以降低每次签名的平均网络延迟，降低SEM的总体负载，提高签名的整体效率。第二，引入SEM进行身份实时撤销开销巨大，可以考虑采用自证书模式，借鉴PKI方案的思想，构建更加优化的跨域认证结构模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Shamir A.Identity-based cryptosystems and signature schemes [C]// Proc of the 4th Annual International Cryptology Conference.Berlin: Springer, 1985:47-53.   \n[2]Boneh D,Franklin M.Identity-based encryption from the weil pairing [C]// Proc of the 21st Annual International Cryptology Conference. Berlin: Springer, 2001:213-229.   \n[3]Boyen X,Martin L.Identity-Based Cryptography Standard (IBCS) #1: Supersingular Curve Implementations of the BF and BB1 Cryptosystems [EB/OL].(2007)[2022-01-29]. http://www. ietf.org/rfc/rfc5091. txt   \n[4] 全国信息安全标准化技术委员会.GB/T38635.1—2020，信息安全 技术 SM9 标识密码算法第1部分：总则[S]．北京：国家标准化管 理委员会，2020.   \n[5]全国信息安全标准化技术委员会.GB/T38635.2—2020，信息安全 技术 SM9 标识密码算法第 2部分：算法 [S].北京：国家标准化管 理委员会，2020.   \n[6]Sattam S A,Kenneth G P. Certificateless public key cryptography [C]// Proc of the 9th International Conference on the Theory and Application of Cryptology and Information Security.Berlin: Springer,2003: 452-473.   \n[7]唐卫中，张大伟，佟晖．基于SM2的无证书盲签名方案[J].计算机 应用研究,2022,39(02): 552-556.(Tang Weizhong,Zhang Dawei,Tong hui.A certificateless blind signature scheme based on SM2 [J]. Application Research of Computers,2022,39 (02): 552-556.)   \n[8] 曾萍，陈瑞利，方勇．基于自认证公钥的全分布式移动 Ad hoc 网络 密钥管理方案[J]．计算机应用研究,2008,25(06):1779-1782.(Zeng Ping,Chen Ruili, Fang Yong.A fully distributed mobile Ad hoc network key management scheme based on self-authenticating public key [J]. Application Research of Computers,2008,25 (06): 1779-1782.)   \n[9]Zhang Qikun,Li Yongjiao,Zhang Quanxin,et.al.A self-certified crosscluster asymmetric group key agreement for wireless sensor networks [J]. Chinese Journal of Electronics,2019,28 (02): 280-287.   \n[10]罗长远，霍士伟，邢洪智．普适环境中基于身份的跨域认证方案[J]. 通信学报,2011,32(09):111 $1 1 5 + 1 2 2$ .(Luo Changyuan,Huo Shiwei, Xing Hongzhi.Identity-based cross-domain authentication scheme in a universal environment [J]. Journal on Communications,2011,32 (09): 111-115+122.)   \n[11]马晓婷，马文平，刘小雪．基于区块链技术的跨域认证方案[J]．电 子学报，2018,46(11):2571-2579.(Ma Xiaoting,Ma Wenping,Liu Xiaoxue.Cross-domain authentication scheme based on blockchain technology[J].Acta Electronica Sinica,2018,46 (11): 2571-2579.)   \n[12]魏松杰，李莎莎，王佳贺．基于身份密码系统和区块链的跨域认证 协议[J].计算机学报,2021,44(05):908-920.(Wei Songjie,Li Shasha, Wang Jiahe.A cross-domain authentication protocol by identity-based cryptography on Consortium blockchain [J]. Chinese Journal of Computers,2021,44 (05): 908-920.)   \n[13]黄穗，李健，范冰冰.IABC:一种基于区块链和布谷鸟过滤器的跨 域认证方法 [J].小型微型计算机系统，2020,41(12):2620-2625. (Huang sui,Li Jian,Fan Bingbing. IABC: a cross-domain authentication method based on blockchain and cuckoo filter [J].Journal of Chinese Computer Systems,2020,41 (12): 2620-2625.)   \n[14]魏欣，王心妍，于卓，等．基于联盟链的物联网跨域认证[J]．软件 学报,2021,32 (08): 2613-2628.(Wei Xin,Wang Xinyan,Yu Zuo,et al. Cross domain authentic-ation for IoT based on permissioned blockchain [J].Journal of Software,2021,32 (08): 2613-2628.)   \n[15]张亚兵，邢镔．基于多层区块链的跨域认证方案[J].计算机应用研 究,2021,38 (06):1637-1641.(Zhang Yabing,Xing Bin. Cross domain authentication scheme based on multilayer blockchain [J].Application Research of Computers,2021,38 (06): 1637-1641.)   \n[16] Cha JC,Cheon JH.An identity-based signature from gap DiffieHellman groups [Cl/ Proc of the 6th International Workshop on Theory and Practice in Public Key Cryptography. Berlin: Springer,2003: 18-30.   \n[17] Shacham H. New Paradigms in Signature Schemes [D].CA: Stanford University,Department of Computer Science,2005.   \n[18] Pointcheval D,Stern J. Security arguments for digital signatures and blind signatures [J].Journal ofCryptology,20o0,13 (3): 361-396. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

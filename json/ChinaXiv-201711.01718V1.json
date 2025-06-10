@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "基于物质流分析的农业土地利用系统氮素效应分析以湖南省桃江县为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "袁承程1 刘黎明1\\*\\* 付永虎1 殷冠羿1 周德²(1．中国农业大学资源与环境学院北京100193;2.浙江工商大学土地资源管理系杭州 310018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为系统分析和评价农业土地利用环境效应，了解农业系统中物质循环规律，提高物质利用效率，本文采用物质流分析方法，通过构建区域尺度农业土地利用系统的物质流分析框架和评价指标体系，以湖南省桃江县为案例区，综合评价了该区域农业土地利用系统中氮素利用效率及环境健康状况。结果表明：(1)1980一2013年，桃江县农业土地利用系统生产输入氮素量和环境输入氮素量显著增加,2013年比1980年分别增加了1.2 倍和0.4倍；其中，生产输入方式是桃江县氮素输入总量的主要来源，占2013年总输入量的 $7 7 \\%$ 。 (2)1980-2013年，桃江县氮素输出总量逐年波动增长，而产品输出氮素量却增加不多，但环境输出氮素量比1980年增长了1.4倍。(3)与此同时，桃江县农业土地利用系统氮肥投入强度逐年增长，至2013年其值达到 $3 2 8 . 4 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 超过了警戒值 $( 2 5 0 . 0 ~ \\mathrm { \\ k g ^ { . } h m } ^ { - 2 } ,$ ；此外，桃江县氮素物质利用效率逐年降低，物质生产效率还处于较低水平，还需进一步采取措施，调整农业结构，提高农产品附加值。(4)1980一2010 年桃江县农业土地利用系统生态稳定性和环境健康质量逐年恶化，然而，在 2010—2013 年桃江县的环境健康质量有所好转，其氮素养分负荷由2010年的 $2 0 8 . 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 回落至2013年的 $1 5 4 . 1 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词物质流分析农业土地利用系统氮素循环环境质量物质利用效率中图分类号：X82;S19 文献标识码：A 文章编号:1671-3990(2016)10-1371-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SFA-based analysis of nitrogen effect on agricultural land use systems in Taojiang County, Hunan Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YUAN Chengcheng', LIU Liming1\\*\\*,FU Yonghu', YIN Guanyi', ZHOU De² (1. College of Resources and Environment, China Agricultural University,Beijing 100193,China; 2.Department of Land Resources Management, Zhejiang Gongshang University, Hangzhou 31oo18,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractSince the reform and opening-up was launched in 1978,environmental problems have increased due to unreasonableagriculturalanduse practices inChina.Thussystematicanalysisand evaluationoftheenvironmental eectsof agriculturallanduse,detailed understandingof materialcycle mechanisms inagriculturalsystemsandthe improvementof materialutilizationeffciencyhave becomeakeyresearch focusoflandscience.Substance flowanalysis(SFA)isasystematic method of asessment of material flow and stock in a given system in the fabricof space and time.The SFA method is comprisedof3parts—thesources,the pathways and thsinks.Itcharacterizes thepathwaysofsubstances in,outandthrough asystemand thereforean effective support tool forresources and environmental management.Inthis paper,an indicator system (including material input indicators,material output indicators，stock indicators,material intensityand effciency indicators,and environmental health indicators）was establishedbasedonthe SFAframework forthe assessmentofregional scaleagriculturalland use systems.The method was also used to assess material use eficiencyand environmental quality in agriculturallanduse systems.Basedonthecause-studyanalysis of Taojiang County (northern HunanProvince),material flow inthe SFA framework inagriculturallanduse systems included productiveinput,production output,environmentaloutput and stock.Theresults indicated that:(1） nitrogen derived from material productive inputand environmental input sharply increasedduring the period from 1980 to 2O13.Theamountsof nitrogen derived from material productive input and environmental input in 2013 wererespectively1.2and0.4times thatin1980.Productive input wasthe main sourceofnitrogen in Taojiang County. (2)Production output increased slowly during the period from1980 to 2013.However,environmental outputin 2013approximativelydoubledthatin1980.(3）There wasanincreasing trend innitrogen material input intensityin Taojiang County during the period from 1980 to 2013.Material input intensity of nitrogen in 2013 was $3 2 8 . 4 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ， exceeding the critical value of $2 5 0 . 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ . In addition,material use efficiency of nitrogen decreased gradually during the period.Compared with the average value for Hunan Province,material production efficiencyin agriculturallanduse systems in Taojiang County was lowest in2O13.Itwas therefore important forthe local government totake measures to promote the adjustment process ofagricultural structure and improveadded valueofagricultural products intheregion.(4)The stabilityof theecosystemandthequalityoftheenvironmentreduced graduallyfortheperiodfrom1980to2010,however,environmental quality improved during the period during 2010 to 2013. Nitrogen load decreased from $2 0 8 . 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ in 2010 to $1 5 4 . 1 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ in 2013.Although toacertain extent erors existedinthe SFAanalysis duetodatashortageand dificultiesinparameterization. the SFAmethod was auseful tool forthe evaluationof materialuseeficiencyand environmental qualityinagricultural land use systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsSubstance flow analysis (SFA);Agricultural land use system; Nitrogen cycle; Environmentalquality;Material use efficiency ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "改革开放以来，我国普遍实行了高投入的集约化农业生产模式，不仅满足了日益增长的粮食需求，也为农民的增产增收创造了条件。然而，高投入的集约化农业生产模式在提高农业土地利用收益的同时也会产生严重的农业环境问题，如化肥的过度投入，造成农业非点源污染加剧、土壤板结、臭氧层破坏等问题，严重影响了高集约化农业土地利用系统的可持续性[1]。因此，如何系统分析和评价农业土地利用环境效应，了解农业系统中物质循环规律，提高物质利用效率，已成为当前环境科学和土地科学的重点研究方向之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物质流分析作为一种系统性分析一定时空范围内关于特定系统中物质流动和储存的方法，主要涉及物质流动的源、路径及汇[2]。它对于认识社会经济系统中物质循环规律，提高物质利用效率，识别环境问题，推动社会经济系统可持续发展具有重要意义[3-4]。目前，物质流分析主要有两种类型,即Bulk-MFA (Bulk-Material Flow Analysis)和 SFA(Substance Flow Analysis)[5]。Bulk-MFA 主要分析社会经济系统中混合物和大宗物资的流动状况，其研究对象主要是国家经济系统。至今已形成了一套成熟的研究体系，在意大利、英国以及中国等国家得到了广泛的应用[6-13]。而 SFA 主要针对某种特定的物质流进行研究，一般指化学元素或者化合物[14],常应用在国家物质循环分析[15-17]、流域营养元素代谢分析[18]以及环境风险评价[19等方面。SFA在追踪特定元素或化合物的流动过程，识别环境问题，提高物质利用率等方面具有特殊的优势，从理论上分析，SFA应同样适用于农业土地利用系统中重要元素流动过程的追踪与环境效应的分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "农业土地利用系统是由自然环境、生产要素输入、土地利用方式、土地利用过程以及各种输出组成，是农业生产活动过程中形成的自然-生态-经济复合系统。目前，对农业土地利用系统的研究主要集中在应用养分平衡模型分析营养物质在农业系统中的流动状况，识别土地养分盈余或者缺损的状态,判断农业投入对土壤肥力、农业生产和水环境的影响，如王激清等[20通过建立中国农田生态系统氮素平衡模型，估算中国不同地区的氮养分输入输出以及养分盈余并分析养分产生的环境效应；陈敏鹏等[21]利用OECD表观氮平衡模型框架，建立了中国农业系统表观氮磷平衡核算的框架、方法和数据库，结果表明，由于中国氮磷平衡区域分布严重不平衡，面临着氮、磷盈余管理和缺损管理的双重压力；以及Bao等[22]通过构建养分平衡模型，分析了1980一1990 年长江流域农田系统氮素负荷及对水环境的影响。但是，此类研究未能深入且准确分析物质的利用强度和效率，也不能全面分析农业土地利用系统的环境健康状态。而SFA模型弥补了这些研究的不足，它可以更深入地解析物质的流动状况，更全面地分析物质的利用效率，更系统地评价系统健康状态。因此本研究尝试构建一套农业土地利用系统的SFA框架，建立适合区域农业土地利用过程的物质流分析评价指标体系，综合分析区域内农业土地利用系统中物质的利用效率及环境健康状况，并以湖南省桃江县的氮素效应分析为案例开展了系统研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 物质流分析框架",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在参考农业土地利用系统概论模型的基础上[23],本文构建了区域农业土地利用系统的物质流分析框架。在总体结构上，农业土地利用系统的物质流包含5类(如图1)，其中输入部分包含生产输入和环境输入，输出部分包含产品输出和环境输出，系统内部构成部分主要指物质净存量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生产输入是指人类为了达到一定自的，通过人类劳动所输入物质的量，主要是指人类有意识的投入，如种子、农药、化肥、有机肥等。环境输入包括灌溉、干湿沉降、生物固氮以及人类生活所产生的废弃物，如通过生活污水、生活垃圾等途径输入到农业土地利用系统中物质的量。与生产输入不同，它属于人类无意识的输入，其输入的量很难准确测定。这是物质流分析在农业领域应用的难点之一。为了解决此问题，现有学者多应用系数法进行环境输入的测算[20-22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "产品输出分为农产品和农副产品，农产品即是人类土地利用活动所追求的自的，如稻谷、小麦和玉米等粮食产品；而农副产品即指农作物所附加生产的非主要产品，如稻草、麦草等。而另一种输出途径是环境输出，由地表径流、地下淋溶、挥发(包括氨挥发和氧化亚氮排放)以及氮的反硝化等途径组成。同环境输入一样，此部分很难准确测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环境输入：灌溉、干湿沉降、固氮 Environmental input: irrigation,dry and wet deposition, nitrogen fixation 土地利用过程:空间布局、耕作模式、施肥、病虫害控制、灌溉等 Land use process: spacial pattern, tillage pattern, fertilization, pest management, irrigation etc.   \n生产输入:种子、化 1 产品输出:农产品、   \n肥、农药、有机肥 1 一 农副产品 1   \nProdstiv itput 二 Bi生物过程：农作物ops 片 Prdutr orputs   \nfertilizers,pesticides, 1 subsidiary agricultural 1   \norganic fertilizers 1 products 1 土地资源:土壤、气候、水、自然植被、地貌等 1 1 Land resources: soil, climate, water,vegetation,landform etc. 物质净存量 Stock 环境输出：地表径流、地下淋溶、氨挥发、反硝化 Environmental output: runoff,leaching,ammonia volatilization, denitrification ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2农业土地利用系统的物质流分析指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物质流分析的主要目标是实现物质投入总量及最终废弃物排放量的减量化，从而提高资源利用效率。为实现此自标，本文构建了农业土地利用系统物质流分析评价指标体系，主要由物质输入指标、物质输出指标、强度和效率指标和环境健康指标等4个大类11个分析指标组成，各个指标的计算公式如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究区域概况及数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 研究区域概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究以湖南省桃江县为案例区。桃江县地处湘中偏北，资江中下游，属湖南洞庭湖区。桃江县是中亚热带大陆性季风湿润气候，平均年降雨量$1 \\ 5 6 6 \\ \\mathrm { m m } .$ 。全县辖15个乡镇，2010年年末总人口86.7万，其中农业人口71.3万。2010年桃江全县耕地 $4 4 ~ 0 0 0 ~ \\mathrm { h m } ^ { 2 }$ 、园地 $5 \\ : 2 7 3 \\ : \\mathrm { h m } ^ { 2 }$ 、林地 $1 1 4 7 2 0 \\mathrm { h m } ^ { 2 }$ 其他农用地 $1 7 \\ 6 4 0 \\ \\mathrm { h m } ^ { 2 }$ 。桃江县属典型南方水稻种植区域，其水稻播种面积占总粮食作物播种面积的$93 \\%$ ，秸秆还田率达 $6 8 \\%$ 。2010年全县平均每公顷耕地分别施用氮肥 $1 ~ 1 0 7 . 0 \\mathrm { k g }$ 、磷肥 $3 9 7 . 5 \\mathrm { k g }$ 和钾肥$2 2 9 . 5 \\mathrm { k g }$ ，其折纯量分别为纯 $\\textrm { N } 2 6 1 . 0 \\mathrm { k g }$ 人 $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } 4 9 . 5 \\mathrm { k g }$ 和 $\\mathrm { K } _ { 2 } \\mathrm { O } ~ 1 3 0 . 5 ~ \\mathrm { k g } _ { \\circ }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/69ace4df42458660ef6700d19f91b14e7f3c984eac2658eaea2da55be9ab45ba.jpg",
+        "table_caption": [
+            "表1农业土地利用系统物质流分析主要指标及计算公式",
+            "Table 1Indicators of substance flow analysis and their calculating formula for agricultural land use system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标类型 Indicator type</td><td>指标 Indicator</td><td>计算 Calculation formula</td></tr><tr><td>物质输入指标</td><td>生产输入物质总量</td><td>化肥输入+种子输入+农药输入+有机肥输入</td></tr><tr><td>Material input indicator</td><td>Total material productive input amount</td><td>Sum of inputs of chemical fertilizers,seeds,pesticides,and organic fertilizers</td></tr><tr><td rowspan=\"6\">物质输出指标 Material output indicator</td><td>环境物质输入总量 Total material environmental</td><td>灌溉输入+干湿沉降输入+生物固氮输入 Sum of inputs of irrigation,dry and wet deposition and biological nitrogen</td></tr><tr><td>input amount 物质输入总量</td><td>fixation 生产输入物质总量+环境物质输入总量</td></tr><tr><td>Total material input amount</td><td>Sum of total material productive and environmental inputs</td></tr><tr><td>产品物质输出总量</td><td>农产品输出+农副产品输出</td></tr><tr><td>Total material production output amount</td><td>Sum of agricultural products and subsidiary products</td></tr><tr><td>环境输出物质总量 Total material environmental</td><td>地表径流输出+地下淋溶输出+挥发输出+氮硝化输出</td></tr><tr><td rowspan=\"6\">物质储存指标 Stock indicator 物质强度和效率指标</td><td>output amount 物质输出总量</td><td>Sum of output of runoff,leaching,ammonia volatilization and denitrification 产品物质输出总量+环境物质输出总量</td></tr><tr><td>Total material output amount 物质净存量</td><td>Sum of total material production and environmental output</td></tr><tr><td>Material stock</td><td>物质输入总量-物质输出总量</td></tr><tr><td></td><td>Material input-material output</td></tr><tr><td>投入产出比 Input-output ratio</td><td>生产输入物质总量/产品物质输出总量Material input／material output</td></tr><tr><td rowspan=\"4\">Intensity and efficiency indicator</td><td>物质生产力</td><td>农业生产总值/生产输入物质总量</td></tr><tr><td>Material productivity 物质投入强度</td><td>Gross farm production /total material productive input amount 生产物质投入输入总量/区域内所有耕地面积</td></tr><tr><td>Material input intensity</td><td></td></tr><tr><td>养分负荷 Nutrient load</td><td>Total material productive input amount/cultivated area</td></tr><tr><td rowspan=\"3\">环境健康指标 Environmental health indicator</td><td></td><td>物质净存量/耕地面积 Material stock/cultivated area</td></tr><tr><td>环境物质循环率 Environmental circulation rate</td><td>环境输出物质总量/环境输入物质总量</td></tr><tr><td></td><td>Total material environmentaliputamount /talmaterial environmental</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 数据来源及计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文主要的数据来源和物质流分析核算方法以及参数取值依据见表2。由于通过农药方式输入的氮素量极少，故忽略不计[20]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 氮素输入指标分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表1和表2的计算方法可得到1980—2013年桃江县农业土地利用系统氮素输入情况表(如表3)。1980一2013年，氮素的生产输入量呈现稳步增加的趋势，尤其从2005一2010年经化肥途径输入的氮素量增长较快。查阅资料[1可知，从2005年开始，湖南省取消了农业税并对种粮农民进行4项补贴(直接补贴、良种补贴、农机具购置补贴和农业生产资料综合补贴)，说明这些措施对于提高农民化肥的投入量有重要影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表还可知，1980一2013年，在氮素环境输入总量不断上升的同时，其结构也随之变化：1980 年是以生物固氮方式为主，而2013年却以沉降方式为主。尽管随着耕地面积的减少，通过种子、固氮、灌溉等输入农业土地利用系统的氮素量在减少，但是由于化肥、有机肥以及沉降方式输入氮素量的迅速增长，桃江县农业土地利用系统中物质输入氮素总量还是增加了1倍左右，从1980 年的16887.4t上涨到2013年的 $3 2 9 2 6 . 4 \\mathrm { t } _ { \\circ }$ 分析表明：近30年来,桃江县生产输入氮素量和环境输入氮素量都显著增加，其中，生产输入是桃江县氮素输入的主要来源，尤其是通过化肥输入的氮素量占了相当大的比例。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 氮素输出指标分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桃江县农业土地利用系统的氮素输出结果如表4所示。在1980一2013年，随着粮食产量的波动，桃江县经产品输出的氮素量也呈波动变化：1980—1990年受改革开放和包产到户等利好政策的影响粮食产量增长较快，通过籽实输出的氮素量也增长迅速，从1980年的 $7 ~ 8 0 6 . 3 \\mathrm { ~ t ~ }$ 氮素增加到1990年的$9 9 7 6 . 9 \\ : \\mathrm { t }$ ，增幅达 $2 7 . 8 \\%$ ；然而，在1990—2005年由于耕地面积急速减少，导致通过籽实输出氮素量不升反降，到2005年其值只有 $^ { 7 } \\ 4 2 0 . 6 \\ \\mathrm { t } ;$ 之后，因桃江县实行了严格的耕地保护政策，并对农户进行种粮补贴，增加了化肥、有机肥的施用量，粮食产量不断提高，又使得通过籽实输出氮素量呈快速回升趋势，在2013年该值达到 $1 0 7 4 3 . 9 \\mathrm { t } _ { \\circ }$ 同时，1980—2013年氮素环境输出量却一直呈现增长趋势：尽管在1980一1995年间环境输出量增长较缓，仅增加了2234.0t，但在1995一2013年间因氮肥和有机肥的大量施用，通过氮挥发损失的氮素量迅速增长，导致环境输出量也快速增加，到2013年通过环境输出的氮素量已达 $1 3 0 7 2 . 5 \\mathrm { t } ,$ 是1980年的2.4倍。此外，由于耕地面积变化因素的影响，通过地表径流和地下淋溶输出到环境中的氮素量，经过了先减少后增加的变化过程。而输出总氮素量，因受氮素产品输出影响较大，其值也是经历了先增加后减少再增加的过程，至2013年已达到 $2 6 ~ 1 3 8 . 3 ~ \\mathrm { t } _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表2农业土地利用系统中氮素物质流分析核算方法及参数取值"
+        ],
+        "table_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc69298c157940bd43825596b2b951723ff67b7734ab6f5f6b68951d1ffb1873.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">项目</td><td colspan=\"2\">计算公式</td><td>参数及其含义</td><td>取值</td><td>依据</td></tr><tr><td colspan=\"2\">生产输入 Productive</td><td>Item 种子</td><td>Formula I1=∑SixC1i</td><td>Parameter and meaning Si是i作物的播种面积,Cli是i作物单位播种Cirice=2.25kg·hm-2；</td><td>Value</td><td>Reference C依据文献[24]而定；S1i</td></tr><tr><td rowspan=\"7\">环境输入 Environ-</td><td rowspan=\"7\">inputs</td><td>Seed (1)</td><td></td><td>面积种子含氮量 Si is sown area of crop i, C1i is seed Ncontent Clpean9.45 kg.hm-2;</td><td>C1wheat=3.15 kg.hm-2; Cmp-05kg-m2</td><td>Hfs、Hfm、P和Gi来源于 1980—2013年《桃江县统 计年鉴》 Cli refers to the reference 2</td></tr><tr><td>化肥</td><td>I2=Hfs+Hfmx 1/3[25]</td><td>of crop i in per unit sown area. Hfs 为单质氮肥折纯量，Hfm为复合肥折纯量 Hfsisot</td><td>R=0.68;R=0.5;R=0.5;</td><td>R、R来源于桃江县161</td></tr><tr><td>有机肥 Organic ferilizer</td><td>I=OxC7i×R+ CxPx0.85×R2 RxEGx(pfx</td><td>01作物秸秆总量;R1秸秆还田率；C成年人粪0.33%;kucatl=0.80%； 尿含氮量；P农村人口；0.85为总人口换算为pfpig=398 kg·head-1； 成的系尿动物的 便含氮量;pfi是动物i的粪便排放系数;kui是 动物i尿含氮量,pui是动物i的尿排放系数 Oisttaei is rural population;R2 is returning rate of humanexcrete；Giisslaughter numberofi livestock; R is livestock manure returning rate; kf is</td><td>pfpoulry=38.2kg·head-1; pupig=656kg·head-1 pucattle=3 650kghead-1.</td><td>份农户调研数据;R来源文雨 [26]  pf ku pu来源 Ri,R2 come from investigati ruTtso19amy hosshl to the reference [26].kfi,p [7].pu/refertothe referen</td></tr><tr><td>灌溉 Irrigation (14)</td><td>I4=∑SixC3i</td><td>nitrogen content of manure of i livestock；pfi is manure discharge coefficient of i livestock; kuj is nitrogen content in piss of i livestock; puis animal piss discharge coefficient of i livestock. C3i是i作物单位播种面积随灌溉水带入氮素C3rice=16.4kg·hm-2; 的量 iisteaorwie</td><td>C3wheat=12.2 kg·hm-2;</td><td>C3i is the national average[28] C3i取全国平均值[28]</td></tr><tr><td>固氮</td><td>I5=∑SixC4i I6=A×C5×J×2</td><td>C4i分别是i作物单位耕地面积固氮率</td><td></td><td>C4peanut =80kg·hm-2；C4i取长江流域的平均值[22] Changjiang River basin[22].</td></tr><tr><td>Dry and wet deposition (16)</td><td></td><td>量;2是指总沉降量是湿沉降量的2倍[29] A is agricultural acreage; C5 is nitrogen content in rainfall;Jis annual precipitation；2 means times of total deposition compared to wet</td><td>x is year.</td><td>于《桃江县统计年鉴》 C5 refers the reference [30]. and J come from the Statist Yearbook of Taojiang County</td></tr><tr><td>生产输出 秸秆 Production Straw</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"8\"></td><td>outputs (01)</td><td></td><td>deposition. C7i是i作物的秸秆含氮量 content of straw of crop i.</td><td>O1=∑Y×C6iXC7iY指各类作物粮食产量;C6i是i作物的谷草比；C6rice=1:0.9；C6wheat=Y来源于《桃江县统计年鉴》 Y is all kinds of crop production; C6i is the ratio 1.2；C6soybean=1 :1.6；料养分志》</td><td>1:1.1；C6maize=1：C6i、C7i来源于《中国有机</td><td></td></tr><tr><td>籽实</td><td></td><td></td><td>of grain to strawof cropi; C7i isthe nitrogenC6ptato=1 :0.5;； CriceYcomesfromtheStatist</td><td>0.55%; C7wheat=0.65%; C7maize=0.92%; C7soybean=1.81%;</td><td>Yearbook of Taojiang Count C6i and C7i come from Nutrie Record of Organic Fertilizer</td></tr><tr><td rowspan=\"8\">环境输出 Environ- mental outputs</td><td>Grain (02)</td><td>02=∑Yx (C8i-C7i)</td><td>C8i是i作物形成每100kg经济产量需要吸收C3.0kg（100g 的养分量; C8i isabsorption nutrient content per 100 kg Csoybean=7.2 kg(100 kg)-1.</td><td>C8rice=2.25kg(100kg)-; C8mi=2.57kg(100kg）;</td><td>China” Cgi参考文献[31] C8i refers the reference [31].</td></tr><tr><td>地表径流 Runoff (03）</td><td>O=A×C9</td><td>economic yield. C9是指单位耕地面积通过地表径流损失的氮C9=6.3kg·hm-2 素量；C1o指单位耕地面积通过地下淋溶损失 的氮素量；I为化肥投入量；I为有机肥投入</td><td>C10=2.4 kg·hm-2; C11=40.0%;</td><td>C9~Cl3参考文献[31] C9 to C13 refer to the referen [31].</td></tr><tr><td>地下淋酒 (04)</td><td>04=A×C10</td><td>有机肥挥发率6</td><td></td><td></td></tr><tr><td></td><td>0s=1xC11+</td><td></td><td></td><td></td></tr><tr><td>氨挥发ni volatilization</td><td></td><td></td><td></td><td></td></tr><tr><td>(05) 反硝化</td><td></td><td>I is chemical fertilization amount; I3 is organic fertilization amount; C1 is volatilization rate of nitrogen；C12 isvolatilization rate of organic</td><td></td><td></td></tr><tr><td>Denitrifica- tion</td><td>06=(I+I3)×C13</td><td>fertilizer; Cl3 is denitrification rate of nitrogen and organic fertilizer.</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c6a4be37b3f9a7db5d22a745728ea5187b8342e4bfefdd7c8500440a5b82b5f.jpg",
+        "table_caption": [
+            "表31980—2013年桃江县农业土地利用系统氮素输入情况┌able 3Nitrogen input of agricultural land use system in Taojiang County from 1980 to"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td rowspan=\"2\"></td><td colspan=\"4\"></td><td colspan=\"4\"></td><td rowspan=\"2\"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1980</td><td>43 166.7</td><td>159.1</td><td>5 037.2</td><td>6 355.6</td><td>11 551.9</td><td>1 386.9</td><td>2 836.6</td><td>1 103.1</td><td>5 326.6</td><td>16 878.4</td></tr><tr><td>1985</td><td>42 646.7</td><td>150.4</td><td>6301.4</td><td>8 406.0</td><td>14 857.9</td><td>1 836.9</td><td>2 689.3</td><td>1 070.7</td><td>5 597.0</td><td>20 454.8</td></tr><tr><td>1990</td><td>41 700.0</td><td>154.1</td><td>7 502.4</td><td>8 413.5</td><td>16 069.9</td><td>2 170.5</td><td>2 787.8</td><td>1 077.9</td><td>6 036.2</td><td>22 106.1</td></tr><tr><td>1995</td><td>40 980.0</td><td>145.4</td><td>6 313.8</td><td>9 484.0</td><td>15 943.2</td><td>3 471.9</td><td>2 510.7</td><td>1 010.9</td><td>6 993.4</td><td>22 936.6</td></tr><tr><td>2000</td><td>40 500.0</td><td>137.9</td><td>7 528.6</td><td>9 695.0</td><td>17 361.5</td><td>3154.6</td><td>2 256.8</td><td>943.6</td><td>6355.0</td><td>23 716.4</td></tr><tr><td>2005</td><td>37 890.0</td><td>121.1</td><td>8 734.8</td><td>9 804.8</td><td>18 660.6</td><td>3 474.2</td><td>2 066.9</td><td>842.1</td><td>6383.2</td><td>25 043.8</td></tr><tr><td>2010</td><td>44 000.0</td><td>147.2</td><td>10 269.2</td><td>14 559.1</td><td>24 975.4</td><td>4 629.1</td><td>2 569.1</td><td>988.9</td><td>8 187.1</td><td>33 162.5</td></tr><tr><td>2013</td><td>44 044.1</td><td>144.0</td><td>10 899.5</td><td>14 465.3</td><td>25 508.9</td><td>3 771.0</td><td>2 685.6</td><td>961.0</td><td>7 417.5</td><td>32 926.4</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a447a2e4e5ce955f52c767e9c4227eef88635a7ffe6f5b6490ac545a841a50b8.jpg",
+        "table_caption": [
+            "表41980—2013年桃江县农业土地利用系统氮素输出情况Table 4Nitrogen output of agricultural land use system in Taojiang County,1980—201"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份</td><td colspan=\"3\">产品输出量 Production output amount (t)</td><td colspan=\"5\">环境输出量 Environmental output amount (t)</td><td rowspan=\"2\"></td></tr><tr><td>籽实</td><td>秸</td><td>小-tal</td><td>地表径流</td><td>地下淋g</td><td></td><td>Deniication</td><td>小-计tal</td></tr><tr><td>1980</td><td>7 806.3</td><td>1 639.9</td><td>9 446.2</td><td>105.8</td><td>269.8</td><td>3 428.9</td><td>1 560.5</td><td>5 365.0</td><td>14 811.1</td></tr><tr><td>1985</td><td>9 128.7</td><td>2 320.6</td><td>11 449.3</td><td>104.5</td><td>266.5</td><td>4 401.4</td><td>1981.9</td><td>6 754.3</td><td>18 203.6</td></tr><tr><td>1990</td><td>9 976.9</td><td>2 335.8</td><td>12 312.6</td><td>102.2</td><td>260.6</td><td>4 713.9</td><td>2 172.8</td><td>7 249.5</td><td>19 562.1</td></tr><tr><td>1995</td><td>8 399.9</td><td>2 004.1</td><td>10 404.0</td><td>100.9</td><td>257.4</td><td>4 989.9</td><td>2 250.8</td><td>7 599.0</td><td>18 003.0</td></tr><tr><td>2000</td><td>7 752.4</td><td>1 975.7</td><td>9 728.0</td><td>99.2</td><td>253.1</td><td>5 327.3</td><td>2 439.7</td><td>8 119.4</td><td>17 847.4</td></tr><tr><td>2005</td><td>7 420.6</td><td>1 723.2</td><td>9 143.9</td><td>92.8</td><td>236.8</td><td>5 740.9</td><td>2 683.9</td><td>8 754.5</td><td>17 898.3</td></tr><tr><td>2010</td><td>9 668.3</td><td>2 498.2</td><td>12 166.4</td><td>107.8</td><td>275.0</td><td>7 851.9</td><td>3 572.8</td><td>11 807.5</td><td>23 973.9</td></tr><tr><td>2013</td><td>10 743.9</td><td>2 321.9</td><td>13 065.8</td><td>107.9</td><td>275.3</td><td>8 630.9</td><td>4 058.4</td><td>13 072.5</td><td>26 138.3</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 氮素物质利用强度和效率指标分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "氮素物质利用强度和效率指标主要用来测度在一定时间特定区域内农业土地利用系统中单位耕地面积氮素的投入量及其产出量，对评价区域氮素利用强度和效率具有重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 氮素投入强度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "氮素投入强度主要被用来评价通过生产输入方式输入到单位耕地面积的氮素量，其计算公式是氮素生产输入总量与区域内所有耕地面积之比。同时，为了便于与已有资料进行对比，本文引入氮肥投入强度的概念，即单位耕地面积由化肥带入的氮素量。计算结果表明，桃江县的氮素投入强度逐年递增(如图2),1980年氮素投入强度仅为 $2 6 7 . 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，其中氮肥投入强度为 $1 4 7 . 2 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；而到2005年氮素投入强度已达 $4 9 2 . 5 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，通过化肥输入的氮素量也达到 $2 5 8 . 8 \\ \\mathrm { \\ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，比1980 年分别增加了$84 . 3 4 \\%$ 和 $7 5 . 7 6 \\%$ 。依据鲁如坤等[32]的研究，氮肥投入强度大于 $2 5 0 . 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 即可定为超量，极易引起环境污染。按此标准，此时桃江县氮肥投入已超量。然而，2005年以后，尽管耕地面积有一定的增加，但是受化肥、有机肥施用量快速增加的影响，桃江县单位耕地面积的氮素投入量并没有得到有效控制，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "氮素投入强度Nitrogen input intensity □氮肥投入强度 Nitrogen fertilizer input intensity 700氮素投入产出比 2.5 Input-output ratio of nitrogen Tito   \nN 600 2.0 n-ndu   \nrtrtnrtss 500 400 1.5 300 1.0 200 0.5 100 ） 19801985199019952000200520102013 年份Year ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其氮素投入强度和氮肥投入强度继续保持快速增长，在2013年已分别达到 $5 7 9 . 2 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $3 2 8 . 4 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 其氮肥投入强度远远超过了 $2 5 0 . 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 的标准,表明桃江县出现农业环境风险的概率在增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 氮素投入产出比",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "氮素投入产出比是指区域内农业土地利用系统生产输入氮素总量与产品氮素输出总量之比，可用来表征氮素的利用效率。因生产输入主要包括种子、化肥和有机肥3种途径，而产品输出包括了籽实和秸秆的输出，所以通过二者之比，可直观看出农业土地利用系统中物质利用效率的变化。从图2可知,1980一2005 年桃江县的氮素投入产出比逐年增长,说明其氮素的利用率在逐年下降；而2005年之后氮素投入产出比又开始逐年降低，根据实地调研发现，这与2005年桃江县农业局开始大力推广测土配方施肥从而提高肥料的有效利用率有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 氮素物质生产力",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "物质生产力是指一定区域内某一年度内其农业国内生产总值与生产输入物质总量的比值，用来测度每单位物质投入所创造的经济价值[33]。在农业土地利用系统中，为了方便与其他区域的比较，本文采用化肥方式输入到农业土地利用系统氮素量代替生产输入氮素总量。从图3可知，在1980年，桃江县氮素物质生产力为1.7万元·t，略高于湖南省平均值1.6万元·t-。之后桃江县氮素物质生产力逐年增大，其增长率远高于湖南全省平均氮素物质生产力的增长，到2000年，两者的差距达到最大，是湖南全省平均氮素物质生产力的1.5倍，表明1980—2000年桃江县在氮素利用效率方面位于全省的前列。然而，2000年以后湖南省平均氮素物质生产力开始快速增长，至2005年赶上桃江县，到2013年其氮素物质生产已比桃江县高4.6万元·t-1。而桃江县在2013年氮素的物质生产力仅为16.0万元·t-，在全省处于落后水平。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdae98ad93e7048607963aa7953ef15aba107f7ae0d877ad3e8c0c05a323bd1a.jpg",
+        "img_caption": [
+            "图31980—2013年湖南省平均氮素物质生产力与桃江县氮素生产力变化图",
+            "Fig.3Nitrogen material productivity changes in Hunan Province and Taojiang County,198o—2013 ",
+            "图41980—2013年桃江县氮素养分负荷以及环境物质循环率变化图",
+            "Fig.4Nitrogen nutrient loads and environmental circulation rate changes in Taojiang County from l98O to 2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4氮素环境健康指标分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 氮养分负荷 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "养分负荷是指某一年内输入物质总量与输出物质总量之差与该区域内所有耕地面积之比[34]。桃江县氮养分负荷计算结果如图4所示。1980—2013年，氮养分负荷呈现先增长后降低的变化趋势。在1980一1990 年间，氮养分负荷缓慢增长，在1980年氮养分负荷为 $4 7 . 9 \\mathrm { ~ k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，至1990年该值仅为$6 1 . 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，只增长了 $27 \\text{‰}$ ，而从1990—2000 年,由于生产输入与环境输入的氮素量快速增长的原因，其氮养分负荷也迅速增长，至2000年氮养分负荷增长到 $1 4 4 . 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，较1990年增长了 $13 6 \\%$ ，远远高于全国平均水平 $8 7 . 1 ~ \\mathrm { { k g } { \\cdot h m } ^ { - 2 [ 2 0 ] } }$ 。然而，从 2000—2010年桃江县的氮养分负荷并没有得到有效控制，其氮素养分负荷还继续增长，在2010年已增长到$2 0 8 . 8 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。之后，其氮素养分负荷开始降低，至2013年回落至 $1 5 4 . 1 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。氮养分负荷的过量盈余，容易导致土壤酸化、板结，影响水体质量，严重威胁环境健康。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "—氮素养分负荷Nitrogennutrientloadrnrrrnrrnntesn 250 环境物质循环率 1.2 rrrrinrrerireriirintitEnvironmental circulation rate尔业 200 150 108 江里0.61000.450 0.20 019801985 1990 1995 2000 2005 2010 2013年份Year",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 环境物质循环率",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了表征系统稳定性，引入环境物质循环率的概念。环境物质循环率是指区域内环境输入物质总量与环境输出物质总量之比。在特定的农业土地利用系统中，如果长时间内通过环境输入物质的总量与环境输出物质的总量之比为1，则该系统的生态稳定性越高，其环境风险也就越低。从图4可知，1980年至2013年，桃江县氮素的环境物质循环率呈下降趋势，在1980年，其值是0.99，而到2013年其值仅为0.57。说明该阶段桃江县向环境输出的氮素量在逐年增加。而环境输出的氮素不外乎经过径流、淋溶、挥发以及硝化等途径损失。其中，通过径流、淋溶等途径损失的氮素是水体富营养化主要原因之一，而经挥发和硝化途径流失的氮素又是温室气体的主要来源。因此，这也表明桃江县农业土地利用系统的生态稳定性在逐年降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1r11111-111111:7111111) ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1)氮素输入量的变化受多种因素影响。首先，与耕地面积的变化有关，1980一2013年桃江县耕地面积经历了先减少后增加的变化趋势。耕地面积的变化必然会导致作物播种面积的变化，如1980年水稻播种面积为 $4 3 1 6 8 \\ \\mathrm { \\ h m } ^ { 2 }$ ，而在2005年其值仅有$3 3 4 8 6 \\mathrm { h m } ^ { 2 }$ ，减少了 $2 2 . 4 \\%$ 。作物播种面积的变化又会影响通过种子、化肥、有机肥、灌溉等方式输入到农业土地利用系统的氮素量。其次，与作物种植结构的变化有关，由于桃江县大量的耕地由双季稻改种单季稻，如1980年中稻的种植面积仅有 $2 8 0 \\ \\mathrm { h m } ^ { 2 }$ 而在2010年中稻的种植面积增长到 $8 0 6 6 ~ \\mathrm { h m } ^ { 2 }$ ，导致化肥氮素投入量的大量增加。最后，还与单位耕地面积化肥和有机肥施用量的增加有关。另外，本文研究结果表明氮素输入量的主要途径是化肥，其次是有机肥，再次是沉降和固氮，而通过灌溉和种子途径输入的氮素量最少。这与王激清等[20]和李书田等[35]研究结果相似，但是在具体的输入比例上存在一定的不同。如在李书田等[35研究的长江中下游流域，通过有机肥输入的氮素量占氮素输入总量的$1 8 \\%$ ，而本文估算的结果为 $33 \\text{‰}$ 这主要是因为桃江县养牛业发达，如在2013年全县牛的存栏数为9.8万头，而且牛作为大型动物，其氮素排泄系数远远超过其他禽畜。此外，在估算沉降输入的氮素量上,王激清等[20]计算的结果占比为 $3 . 5 \\%$ ，而本文中氮素沉降输入量平均占总输入量的 $12 . 2 \\%$ ，主要原因是本文考虑了单位耕地面积通过沉降方式输入的氮素量会随着年份的变化而增长[30]，导致氮沉降量逐年增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2)受氮肥、有机肥等施用量快速增长的影响，环境输出的氮素量增长明显，特别是通过氮挥发途径损失的氮素占全部环境输出的 $6 6 . 5 \\%$ 。氮的挥发形式主要以氨挥发和氧化亚氮直接排放为主。氨是导致酸雨的主要污染物质之一，还会导致水体富营养化的发生，而氧化亚氮又是温室气体，增温潜势是$\\mathrm { C O } _ { 2 }$ 的310倍[36]。因此，减少氮的挥发，是控制环境风险的关键。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3)在农业土地利用系统中，可评价物质利用效率的指标相对较少，目前主要有投入产出比指标。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "然而，由于投入产出比指标易受自然资源禀赋的影响，不便于区域之间的比较。故本文引入了物质生产力的概念。物质生产力可测度每单位物质的投入所创造的经济价值。通过计算表明，在2013年桃江县氮素的物质生产力仅为16.0万元·t-，在全省处于落后水平。因此，桃江县需进一步采取措施，调整农业结构，提高农产品附加值，从而提高氮素的物质生产力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4)本文构建了两个指标用来评价区域农业土地利用系统的环境健康状况。一个是养分负荷，用来指示区域内单位耕地面积物质的亏损或盈余累积情况。该指标可与国家相关的环境标准进行对比，以确定该区域内的环境健康程度。如与魏静等[28]的研究对比发现，1980一1995年，桃江县的氮负荷均落后于全国平均水平，但是从2000一2005年，桃江县的氮养分负荷快速增加，在2005年桃江县的氮素养分负荷比全国平均值高 $45 . 3 \\%$ ，另一个指标是环境物质循环率，该指标可用来指示区域内系统的生态稳定性。当环境输入的氮素量长期等于其环境输出量时，表明此时人类的生产生活对环境的影响越小，其生态健康程度也越高。同时使用这两个指标可更全面地表征农业土地利用系统的环境健康状况。结果表明，1980 年至2010年两个指标均显示桃江县的环境健康状况每况愈下，出现环境风险的概率在变大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5)由于农业土地利用系统是一个非常复杂的自然-生态-经济复合系统，导致现有研究缺少准确的参数和足够的统计数据，这在一定程度上会影响物质流分析结果的精度。如对于农作物收获物和秸秆的养分含量、作物谷草比，以及畜禽活体各部分及其粪尿的排泄系数等研究所需的参数，尽管已有研究确定了一套较为成熟的参数，分析全国尺度氮素流动状况[35,37]，但是，考虑到桃江县地区的自然经济社会状况，本文参数尽量选择与本地区相似的地方，以确保研究结果不出大的偏差。此外，某些参数(如秸秆和粪便的还田率)会随着社会经济技术的发展和环境的变化而变化，然而，由于缺少相关研究，本文并没有考虑到这些因素的变化，导致研究结果存在一定的误差。因此，在今后应建立不同区域内物质流分析的参数数据库，并更加详细准确地记录物质消耗指标，为物质流分析方法在农业土地利用系统中的广泛应用奠定基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文主要通过引入物质流分析理论，构建了区域尺度农业土地利用系统的物质流分析方法框架，建立了适合区域农业利用的物质流分析评价指标体系，并用物质输入指标、物质输出指标、物质利用强度和效率指标以及环境健康指标综合评价了区域内物质利用概况、物质利用效率、物质利用强度及潜在环境健康状况。并以桃江县为案例区开展实证研究，从时间序列上分析了桃江县农业土地利用系统中氮素的物质流动状况，并得到以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1)1980一2013年，桃江县生产输入氮素量和环境输入氮素量呈显著增加趋势。生产输入是桃江县氮素输入的主要来源，而其中，化肥输入量在生产输入方式中所占比重较大。同时期，桃江县输出氮素总氮量呈波动上升状态，而产品输出氮素量却增加不大，但环境输出量增长了1.4倍。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2)1980一2013年，在桃江县农业土地利用系统中氮肥投入强度呈现逐年增长的趋势，2013年已达$3 2 8 . 4 ~ \\mathrm { \\ k g ^ { . } h m ^ { - 2 } }$ ，超过了其标准值 $( 2 5 0 ~ \\mathrm { \\ k g ^ { . } h m ^ { - 2 } } ,$ 的$32 \\%$ ；1980一2005年，桃江县农业土地利用系统的氮素物质利用效率逐年降低，而从2005一2013 年物质利用效率缓慢增加；另外，在此期间桃江县氮素物质生产力尽管在逐年增加，但是2005年之后已落后于湖南全省的平均氮素生产力，表明目前桃江县农业土地利用系统的物质生产效率还处于低水平，还需进一步采取措施，调整农业结构，提高农产品附加值。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3)在1980—2010 年间桃江县农业土地利用系统的环境健康质量和生态稳定性在逐年降低。但是，从2010 年后桃江县农业土地利用系统的氮素养分负荷开始降低，表明近期其环境健康质量有所好转。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]付永虎，刘黎明，袁承程．农业土地利用系统氮足迹与灰 水足迹综合评价[J]．农业工程学报,2016,32(S1):312-319 FuYH,LiuLM,Yuan CC.Comprehensive evaluation for nitrogen footprint and gray water footprint of agricultural land use system[J]. Transactions of the CSAE,2016,32(S1): 312-319   \n[2]BrunnerPH,Rechberger H.Practical Handbook of Material Flow Analysis[M].Washington,DC:Lewis Publishers,2003: 1-318   \n[3]Ayres R U,Simonis U E.Industrial Metabolism:Restructuring for Sustainable Development[M].Tokyo,New York, Paris:United Nations University Press,1994   \n[4] Matthews E,Amann C,Bringezu S,et al.The weight of nations: Material outflows from industrial economies[R]. Washington,DC: World Resources Institute,2000   \n[5]张晓刚，曾辉．从系统到景观：区域物质流分析的景观取 向[J].生态学报,2014,34(6):1340-1351 Zhang X G, Zeng H. From system to landscape: The other orientation of regional material flow analysis[J].Acta Ecologica Sinica,2014,34(6): 1340-1351   \n[6] de Marco O,Lagioia G, Mazzacane E P. Materials flow analysisof the Italian economy[J]. Journal of Industrial Ecology,2000,4(2): 55-70   \n[7] Gravgaard Pedersen O.Material flow accounts and analysis for Denmark[C]//Meeting of the Eurostat Task Force on Material Flow Accounting. 2000   \n[8] Isacsson A,Jonsson K,Linder I,et al. Material flow accounts, DMI and DMC for Sweden 1987-1997[J].Luxembourg: Eurostat,Office for Offcial Publications of the European Communities, 2000   \n[9] Schandl H, Schulz N. Using material flow accounting to operationalize the concept of Society's Metabolism:A preliminary MFA for the United Kingdom for the period of 1937-1997[R].ISER Working Paper No.2000-3.Colchester: University of Essex,2000: 27-36   \n[10]吴开亚，刘晓薇，张浩．基于物质流分析方法的安徽省环 境载荷及其减量化研究[J]．资源科学,2011,33(4):789-795 Wu K Y, Liu X W, Zhang H. Environmental load of Anhui Province and its reduction: An approach of material flow analysis[J]. Resources Science,2011,33(4): 789-795   \n[11]费威，刘心，杨晨．基于MFA和DEA的区域经济环境 效率评价—以辽宁省为例[J]．生态学报，2015,35(11): 3797-3807 Fei W,Liu X,Yang C. Economic and environmental efficiencies based on material flow analysis and data envelopment analysis: A case study of Liaoning Province[J]. Acta Ecologica Sinica,2015,35(11): 3797-3807   \n[12]陈效逑，乔立佳．中国经济-环境系统的物质流分析[J]．自 然资源学报,2000,15(1):17-23 Chen X Q,Qiao L J.Material flow analysis of Chinese economic-environmental system[J]. Journal ofNatural Resources,2000,15(1): 17-23   \n[13] 陈效逑，赵婷婷，郭玉泉，等．中国经济系统的物质输入与 输出分析[J]．北京大学学报：自然科学版，2003，39(4): 538-547 Chen X Q, Zhao T T,Guo Y Q,et al. Material input and output analysis of Chinese economy system[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2003,39(4): 538-547   \n[14] Harper E M.A product-level approach to historical material flow analysis: Tungsten as a case study[J]. Journal of Industrial Ecology,2008,12(5/6): 768-784   \n[15]岳强，陆钟武．中国铜循环现状分析（I） “STAF\"方法[J]. 中国资源综合利用,2005(4):6-11 Yue Q,Lu Z W. An analysis of contemporary copper cycle in China（I）—“STAF” method[J].China Resources Comprehensive Utilization,2005(4): 6-11   \n[16] 张江徽，陆钟武．中国 2004 年锌循环分析及政策建议[J]. 资源科学,2007,29(5):81-89 ZhangJH,Lu ZW.Zinc circulation analysis in China in 2004 and policy recommendations[J]. Resources Science, 2007, 29(5): 81-89   \n[17]陈伟强，石磊，钱易．2005年中国国家尺度的铝物质流分 析[J]．资源科学,2008,30(9):1320-1326 Cheng W Q，Shi L，Qian Y. Aluminium substance flow analysis for mainland China in 2Oo5[J].Resources Science, 2008,30(9): 1320-1326   \n[18]刘毅，陈吉宁．滇池流域磷循环系统的物质流分析[J]．环 境科学,2006,27(8):1549-1553 Liu Y, Chen JN. Substance flow analysis on phosphorus cycle in Dianchi Basin, China[J].Environmental Science,2006, 27(8): 1549-1553   \n[19] Huang C L,Ma H W,Yu C P. Substance flow analysis and assessment of environmental exposure potential for triclosan in mainland China[J]. Science of the Total Environment, 2014, 499: 265-275   \n[20]王激清，马文奇，江荣风，等．中国农田生态系统氮素平 衡模型的建立及其应用[J]．农业工程学报，2007，23(8): 210-215 Wang JQ,Ma W Q,Jiang R F,et al.Development and application of nitrogen balance model of agro-ecosystem in China[J]. Transactions of the CSAE,2007,23(8): 210-215   \n[21]陈敏鹏，陈吉宁．中国区域土壤表观氮磷平衡清单及政策 建议[J].环境科学,2007,28(6):1305-1310 Chen M P, Chen JN. Inventory of regional surface nutrient balance and policy recommendations in China[J]. Environmental Science,2007,28(6):1305-1310   \n[22] Bao X,Watanabe M,Wang Q X,et al. Nitrogen budgets of agricultural fields of the Chang Jiang River basin from 1980 to 1990[J]. Science of the Total Environment, 2006,363(1/3): 136-148   \n[23]刘黎明．土地资源学[M]．北京：中国农业大学出版社, 2010: 172-182 Liu L M. Land Resources Science[M]. Beijing: China Agricultural University Press,2010: 172-182   \n[24]鲁如坤，刘鸿翔，闻大中，等．我国典型地区农业生态系统 养分循环和平衡研究Ⅱ．农田养分收入参数[J].土壤通报, 1996,27(4): 151-154 Lu RK,Liu HX,Wen D Z,et al. Research on nutrient cycle and balance in agricultural eco-system in Chinese typical regions I.Parameters of nutrient input in farmland[J]. Chinese Journal of Soil Science,1996,27(4): 151-154   \n[25]王激清，刘社平，高静．河北省农田生态系统氮养分平衡 状况研究[J]．河北北方学院学报：自然科学版,2009,25(1): 42-48 Wang J Q,Liu S P,Gao J. Nitrogen budgets in agroecosystem of Hebei Province[J]. Journal of Hebei North University: Natural Science Edition,2009,25(1): 42-48   \n[26]武深树，谭美英，龙岳林，等．洞庭湖区畜禽粪便中氮 素污染及其环境成本[J]．农业工程学报，2009，25(6): 229-234 Wu S S,Tan M Y, Long Y L,et al. Nitrogen pollution and environmental cost of livestock manure in Dongting lake area[J]. Transactions of the CSAE,2009,25(6): 229-234   \n[27]武深树，谭美英，黄璜，等．湖南洞庭湖区农地畜禽粪便承 载量估算及其风险评价[J]．中国生态农业学报,2009,17(6): 1245-1251 Wu S S, Tan M Y, Huang H,et al. Loading capacity estimation and risk assessment of livestock manure in cultivated lands around Dongting Lake[J]. Chinese Journal of Eco-Agriculture,2009,17(6): 1245-1251   \n[28]魏静，马林，马文奇，等．城镇化对我国不同年代农田氮素 循环的影响[J]．河北农业大学学报,2009,32(1):6-9 Wei J,Ma L,Ma W Q,et al. Influence of urbanization on N cycle of farmland of various periods in China[J]. Journal of Agricultural University of Hebei,2009,32(1): 6-9   \n[29] Liu C,Watanabe M, Wang Q X. Changes in nitrogen budgets and nitrogen use efficiency in the agro-ecosystems of the Changjiang River basin between 198O and 20oo[J]. Nutrient Cycling in Agroecosystems,2008,80(1): 19-37   \n[30] Liu X J,Zhang Y,Han W X,et al. Enhanced nitrogen deposition over China[J].Nature,2013,494(7438): 459-462   \n[31]鲁如坤，刘鸿翔，闻大中，等．我国典型地区农业生态系统 养分循环和平衡研究I．农田养分支出参数[J]．土壤通报, 1996,27(4): 145-151 Lu R K,Liu H X, Wen D Z,et al. Research on nutrient cycle and balance in agricultural eco-system in Chinese typical regionsI.Parameters of nutrient output in farmland[J]. Chinese Journal of Soil Science,1996,27(4): 145-151   \n[32]鲁如坤，刘鸿翔，闻大中，等．我国典型地区农业生态系统 养分循环和平衡研究IV——农田养分平衡的评价方法和原 则[J]．士壤通报,1996,27(5):197-199 Lu RK,Liu HX,Wen D Z,et al.Research on nutrient cycle and balance in agricultural eco-system in Chinese typical regions IV.Evaluation method and principle of nutrition balance of farmland[J].Chinese Journal of Soil Science,1996, 27(5): 197-199   \n[33]毕军，黄和平，袁增伟，等．物质流分析与管理[M]．北京: 科学出版社,2009:210-211 Bi J, Huang HP, Yuan Z W,et al.Material Flow Analysis and Management[M]. Beijing: Science Press,2009: 210-211   \n[34]姜甜甜，高如泰，夏训峰，等．北京市农田生态系统氮素养 分平衡与负荷研究—以密云县和房山区为例[J]．农业环 境科学学报,2009,28(11): 2428-2435 Jiang TT,Gao R T,Xia XF,et al.Nitrogen nutrient balance and load in agro-ecosystem of Miyun County and Fangshan ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "County in Beijing[J]. Journal of Agro-Environment Science, 2009,28(11):2428-2435 [35]李书田，金继运．中国不同区域农田养分输入、输出与平 衡[J]．中国农业科学,2011,44(20):4207-4229 Li S T,Jin JY.Characteristics of nutrient input/output and nutrient balance in different regions of China[J].Scientia Agricultura Sinica,2011,44(20):4207-4229 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[36]Aneja V P,Schlesinger W H,Erisman JW.Effects of agriculture upon the air quality and climate:Research,policy, and regulations[J]. Environmental Science & Technology, 2009,43(12):4234-4240   \n[37] MaL,Ma WQ,Velthof GL,et al.Modeling nutrient flows in the food chain of China[J]. Journal of Environmental Quality, 2010,39(4):1279-1289 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "《中国南方果树》2017年征订启事",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "《中国南方果树》是农业部主管、中国农业科学院相桔研究所主办的国家级专业性技术类期刊。全国中文核心期刊。主要报道我国南方地区栽培的所有果树作物的创新性研究成果，反映国内南方果树科技动态，介绍新的实用技术和先进经验，扶持培养果树科技人才，推动和促进我国果树学科的发展，为我国南方果树产业发展提供技术支持。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本刊设置研究论文、研究简报和技术交流三大板块，包括品种与资源、栽培生理与技术、贮运物流与加工技术、病虫害防治、产业经济等内容。本刊所刊载的研究论文和试验报告均是作者原创性高新技术或实用生产技术研究成果，具有创新性、先进性、实用性、时效性以及对生产管理和物流营销活动的重要指导作用，是我国果业行业权威、实用、科学的科技传播媒介和工具性参考资料。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本刊为双月刊，国内外公开发行。16开本，正文160页左右，逢单月25日出版。每期定价5元，全年30元。全国各地邮局(所)均可订阅，邮发代号78-13。漏订者可随时通过邮局或银行汇款到编辑部邮购，每期加收快递费5元。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "编辑部电话:(023)68349196 68349197 E-mail:nfgs@cric.cn广告部电话/传真:(023)68349198 广告专用 E-mail: wsl@cric.cn在线投稿网址:http://tsg.cric.cn 中国果业网:http://www.zhggy.com通信地址：重庆市北碚区歇马镇柑桔研究所邮编:400712收件人：中国南方果树",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "开户行：农行重庆北碚歇马支行户名：中国农业科学院柑桔研究所账号：31091201040002333(汇款时务必写明用途和联系电话)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 10
+    }
+]

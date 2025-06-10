@@ -1,0 +1,276 @@
+[
+    {
+        "type": "text",
+        "text": "Baryons as a unified solution to small scale structures issues of the ΛCDM model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A. Del Popolo,1,2,3 Francesco Pace,4 Xiguo Lee,1 and Morgan Le Delliou $^ { 5 , 6 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Institute of Modern Physics, Chinese Academy of Sciences, Post Oce Box31,Lanzhou 73ooo0,Peoples Republic of China $^ 2$ DipartimentodiFisica e Astronomia, UniversityOf Catania, Viale Andrea Doria 6,95125, Catania,Italy 3INFN sezione di Catania, Via S. Sofia 64, I-95123 Catania, Italy\\* 4 Jodrell Bank Centre for Astrophysics， School of Physics and Astronomy, The University of Manchester,Manchester, M13 9PL, United Kingdomt 5Institute of Theoretical Physics,Physics Department, Lanzhou University, No.222,South Tianshui Road,Lanzhou,Gansu 73oooo,PR China 6Instituto de Astrofisica e Ciéncias do Espaco, Universidade de Lisboa, Faculdade de Ciéncias,Ed. C8,Campo Grande,1769-016 Lisboa, Portugal\\* (Dated:February 7,2018) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present letter,with the help of a semi-analytical code we show how taking into account baryonic physics in the ACDM model can solve the discrepancy between the numerical predictions of dark mater haloes in the ACDM framework and observations from dwarf galaxy scale to clusters of galaxies without the need of diferent forms of dark matter as recently advocated by[1]. Combining wel established results,the paper shows,for the first time,how the flat profiles of galaxy clusters and correlations between several of their main properties,are naturally obtained when baryon physics is correctly taken into account; how the so called \"diversity problem”canbe solved and how the challenging,extremely low rising rotation curve of IC2574 can very well be reproduced when baryon physics is taken into account.We therefore suggest that before ntroducing new exotic features in the standard cosmological model,albeit legitimate,baryonic physics should be treated properly to reach agreement with observations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:98.52.Wz,98.65.Cw Keywords:Dwarf galaxies;galaxy clusters;missing satellite problem ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction The ACDM model,while very successful [2,3], present some issues [e.g. 4]. Particularly troublesome is the discrepancy between the flat density profiles of dark matter (DM) dominated dwarf galaxies, Irregulars and Low Surface Brightness galaxies (hereafter LSBs), highsurface brightness spiral galaxies in some cluster of galaxies,and the cuspy profile predicted by dissipationless N-body simulations [e.g. 5], dubbed cusp/core problem[6,7]. Better understood in terms of the excess ofDM in the inner parts of the galaxies rather than of the innerslope,it connectsto the Too-Big-To-Fail (TBTF) problem [8,9]. We also mention the large diversity (hereafter dubbed“diversity problem\") in the dwarf galaxies rotation curves(RCs) at odds with hydrodynamic simulations. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A possible solution to these problems is to assume that the dark matter(DM) component is not cold and this leads to a wealth of different models (e.g. self-interacting DM model [10], SIDM) recently used by[1] to propose a unified solution (at all scales) to the small scale problems of the ACDM model (the“deficit problem in halos”in their words). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study of [1] claims the difficulty or impossibility for the ACDM model to explain the rotation curve of IC2574 and several other issues,and proposes the SIDM model as apossible alternative to the△CDM model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although conceptually interesting， this approach presents serious limitations: a) it discards a-priori the possibility of solving those problems within the standard ΛCDM model; b) the SIDM's solutions presented have the additional complication of a cross section depending on theobject mass[11,12],avoidable byassuminga velocity dependent cross section;c) as shown by[13], the diversity problem requires additional baryon physics to the SIDM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is thus of fundamental importance to verify whether the ΛCDM model can solve,at all scales, the problems discussed in[1],as the SIDM appears unsatisfactory. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present letter we want to address the question: does a unified solution exists to the“deficit problem in halos” in the ΛCDM model without invoking a different physics ? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We will closely follow[1] in showing how the“deficit problem in halos”is solved when baryonic physics is properly taken into account in the ACDM model. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The plan of this work is as follows: we first present our semi-analytical model. Differently from N-body and hydrodynamical simulations,the model makes the different physical contributions clearer and more easily disentangled. We then show how it reproduces the clusters (e.g,A2537) presented in [14,15], explains the RCs of some peculiar galaxies (e.g., IC 2574, this last fitted by [13] using SIDM and baryon physics）and solves the diversity problem discussed by[16]. Finally we conclude discussing our results comparing them to those of[1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Model:Here we summarize the model described in [17-19].An improvement to the spherical infall models (SIM) [2O-22], it includes ordered [23] and random angular momentum [21,22], adiabatic contraction [24,25], the effect of dynamical friction of gas and stellar clumps on the DM halo [26-30],gas cooling,star formation, photoionization, supernova,and AGN(Active Galactic Nucleus) feedback[31,32]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The model considers an initial proto-structure in the linearphase containingDM andbaryons(diffuse gas) whose abundance is given by the“universal baryon fraction\" $f _ { \\mathrm { b } } ~ = ~ 0 . 1 6 7 \\pm 0 . 0 1$ [3].Initial conditions are set as in [17].This perturbation expands with the Hubble flow to a maximum radius (turn-around) and then re-collapses, first in the dark matter component which creates the potentialwellbaryonswillfallin.The equationsofmotionof DM and baryons depend on the angular momentum (AM) acquired through tidal torques (ordered AM, $L$ ）[23,33 35], on the random AM, $j _ { : }$ ，produced by random velocities generated in the perturbation collapse [21], on the dynamical friction (DF) and on the cosmological constant. The calculation of the ordered AMfollows the standard TidalTorque-Theory(TTT),asshown in[17] while the random AM,as described in[17],isassigned at turnaround. The force between DM and baryonic clumps due to dynamical friction is evaluated as in [36] and represents an extensionof[37].Clumpsdimensions, lifetime andcharacteristics are described in [19]. For spiral galaxies,they are obtained using Toomre's criterion [see 19].Their mass typicallyreaches $1 \\%$ of the disk mass.Clumps density and rotation velocity are similar to those found by[38, see their Figs. 15 and 16]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DM is adiabatically contracted during the collapse phase and a more cuspy profile is formed [24,25]. Assumingproportionality between DM and baryons initial density profiles [39-41, i.e., choosing an NFW profile], $M _ { \\mathrm { d m } }$ is obtained by solving iteratively the angular momentum conservation equation [23,24]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Baryons cool down due to radiative processes and form clumps which collapse to the centre of the halo because of DF between baryons and DM,while forming stars.These clumps then transfer energy and AM to DM [26,27], increase their random motion and produce a predominant outward motion for DM particles,reducing the central density;the density cusp is heated and a core forms. This provides the main mechanism of core formation for dwarfspheroidalsandspiralswhile forspiral galaxies, this mechanism is amplified by the acquired ordered and random AM. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A similar mechanism contributing to the core formationis given by SN feedback [42], in which repeated SN explosions flatten the profile. They are compared in detail in [18]. Gas cooling is treated as a classical cooling flow[see 32]；star formation,reionization and SN feedback are included as in [31,32]. The star formation rate $\\psi ~ = ~ \\alpha _ { \\mathrm { S F } } M _ { \\mathrm { s f } } / t _ { \\mathrm { d y n } }$ depends on the star formation efficiency $\\alpha _ { \\mathrm { S F } } = 0 . 0 3$ [32], on the dynamical time $ { t _ { \\mathrm { d y n } } }$ and on the gas mass above a given density threshold $M _ { \\mathrm { s f } }$ ,fixed to $n \\mathrm { ~ > ~ } 9 . 3 ~ \\mathrm { c m ^ { - 3 } }$ as in [43]. The initial mass function (IMF) is chosen as Chabrier [44]. At each time step $\\Delta t$ $\\Delta M _ { * } = \\psi \\Delta t$ stars are generated [see 32,for more details]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The specific implementation for SN feedback is given in [45] and develop as follows:the energy injected in the interstellar medium (ISM) by a SN explosion, $\\Delta E _ { \\mathrm { S N } }$ is proportional [see 32] to the typical energy released in the explosion, $E _ { \\mathrm { S N } } = 1 0 ^ { 5 1 }$ erg, to the the number of SN per solar mass, $\\eta _ { \\mathrm { S N } } = 8 \\times 1 0 ^ { - 3 } \\ M _ { \\odot } ^ { - 1 }$ (for a Chabrier IMF),to the efficiency energy is able to reheat the disk gas $\\epsilon _ { \\mathrm { h a l o } } = 0 . 3 5$ [32] and to $\\Delta M _ { * }$ ，the mass converted in stars.The gas reheating produced by energy injection is proportional to the stars formed $\\Delta M _ { \\mathrm { r e h e a t } } = \\epsilon _ { \\mathrm { d i s k } } \\Delta M _ { \\ast }$ ,where $\\epsilon _ { \\mathrm { d i s k } } = 3 . 5$ [32]. The hot gas ejected is proportional to $\\Delta E _ { \\mathrm { S N } } - \\Delta E _ { \\mathrm { h o t } }$ where $\\Delta E _ { \\mathrm { h o t } } ~ = ~ 0 . 5 \\Delta M _ { \\mathrm { r e h e a t } } \\eta _ { \\mathrm { S N } } E _ { \\mathrm { S N } }$ is the thermal energychange produced by the reheated gas [see 32]. Reionization reduces the baryon content and takesplace in the redshift range 11.5-15. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the following stage, SN explosions repeatedly eject gas, and thus lowerstellar density.Feedback destroys the smallest clumps soon after a small part of their mass is transformed into stars [30]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For masses $M \\simeq 6 \\times 1 0 ^ { 1 1 } M _ { \\odot }$ ，AGN quenching must be taken into account [46]. AGN feedback follows the prescription of [47,48]. A Super-Massive-Black-Hole (SMBH) is created when the star density exceeds $2 . 4 { \\times } 1 0 ^ { 6 } M _ { \\odot } / \\mathrm { k p c } ^ { 3 }$ ,the gas density reaches 1O times the stellar density,and the 3D velocity dispersion exceeds ${ \\bf 1 0 0 } k m / s$ .Each initial (seed) black hole mass starts at $1 0 ^ { 5 } ~ M _ { \\odot }$ .Mass accretion into the SMBH and AGN feedback were implemented modifying the model by [49] as in [47]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our model does not contain data fitted parameters. Its parameters are the same found in simulations (e.g., star formation rate,density treshold of star formation,and other parameters previously discussed and also found in the references given). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The model demonstrated its robustness predicting be fore simulations the density flattening and shape produced by heatingofDM, for galaxies[17,50, 51] in agreement with subsequent SPH simulations [e.g. 52,53] [see also Fig.4 of 54，for a direct comparison],and similarly for clusters of galaxies [55] in agreement with hydrosimulations of [56], the inner density slope dependence on the halo mass and on the total baryonic content to the total mass ratio [18,50], in agreement with [43]. The slope was shown by [18,50] to depend also on the angular momentum.In [19], the stellar and baryonic Tully-Fisher, Faber-Jackson and the stellar mass vs.halo mass (SMH) relations were shown in agreement with simulations. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, the correct DM profile inner slope dependence on halo mass was explained over 6 order of magnitudes in halo mass, from dwarves to clusters[17, 50,51, 55], a range no other model achieved. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Clusters:The cusp-core problem extends to the cluster of galaxies scales: combining weak and strong lensing and stellar kinematics,the total inner density profile was shown as well described by dissipationless N-body simulations at radii $> 5 - 1 0 ~ \\mathrm { k p c }$ ，while DM profiles are flatter than those obtained in the simulations[14,15],within a radius of $\\simeq 3 0$ kpc,typical of the Brightest Cluster Galaxy (BCG) radius. The DM profile is characterized by a variation of the slope, $\\alpha = - d \\log { \\rho _ { \\mathrm { D M } } } / d \\log { r }$ ,from cluster to cluster which corre lates with the BCG properties. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/99c17057c579c0a30d2b1f467b1f9285804a500218c0731c69aa9b3ddeb8850c.jpg",
+        "img_caption": [
+            "FIG.1.Leftpanel:ensityprofleofthetotalandDMmassfortheclusterA2537.hebotomblue(uppergreen)bandrepresents teDM (totalmass)dnsityprofledeteinedby4].Tebandinlackdotedlinesisteensityprofbtaindinispapreand widths represent the $1 - \\sigma$ uncertainty.The bottom arrow,is the three-dimensional half-light radius of the BCG.The segment with slope $r ^ { - 1 . 1 3 }$ spans the radial range $r = [ 0 . 0 0 3 - 0 . 0 3 ] r _ { 2 0 0 }$ Middle panel:inner slopeof DMhaloes $\\alpha$ vs. theffetive radius $R _ { \\mathrm { e } }$ of the BCG of theindicatedcustersobtainedfting thecustersdensityprofile withtheNFWmodel.Te larger(smaler)error-barscorrespond to the results by [15](our model). The dotted lines are the least-square fits.Right panel: core radi, $r _ { \\mathrm { c o r e } }$ ,obtained fitting the clusters density profile with a cNFW model vs. $R _ { \\mathrm { e } }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The total and the DM density profiles of MS2137,A963, A383，A611,A2537,A1667andA2390,weredetermined in the aforementioned works. In [14,15] improved data allowed the determination of the stellar mass scale,allowing to produce a more physically consistent analysis,reducing the degeneracies among stellar and dark mass,and taking into account the BCGs homogeneity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two different approaches are available to compare the result of our model to the density profles in [14]. While the density profile depends on the virial halo mass, $M _ { \\mathrm { v i r } }$ ,on the baryon fraction, $f _ { \\mathrm { b } } = M _ { \\mathrm { b } } / M _ { \\mathrm { v i r } }$ ,and on the random AM,as shown in [55], one can adjust the value of $j$ ，so that $\\rho _ { \\mathrm { D M } }$ reproduces the observed clusters profiles.Here we rather prefer the possibility to“simulate”the formation and evolution of clusters with similar characteristics to those of[14]: final halo mass1, $M _ { \\mathrm { B C G } }$ , core radius, etc. ² ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To obtain reasonable agreement between ours’and observed clusters,we run simulations till the final halo and baryonic masses differ by at most $10 \\%$ from the observed clusters.To get this results the clusters were re-simulated 50 times. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Of all the seven cited clusters,in Fig.1 (left panel) we plot the spherically-averaged density profile of A2537 (studiedby[1]) for the DM halo,BCG stars and their sum(total mass) and wereferto the captionfor details.The plotshows a good agreement between the observations and the model: an innerDM profile with almost flat slopes in the case of A2537. However, in all the sample the inner slope has an average of $\\simeq 0 . 5 4$ ,flatter than the NFW profile; a total mass profile close to a NFW profile and baryons dominate the profile in the inner $\\simeq 1 0 \\mathrm { k p c }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the middle and right panels we show some correlations found by[15]. The points with error-bars in the middle panel show the value of the inner slope $\\alpha$ vs. the effectiveradius, $R _ { \\mathrm { e } }$ ,ofthe BCG for the clusters indicated, obtained fitting their profiles with the generalized NavarroFrenk-White profile $( \\mathbf { g } \\mathbf { N } \\mathbf { F } \\mathbf { W } )$ . The larger error bars represents the result by[15], the smaller ones,our results.The right panel represents the core radii, $r _ { \\mathrm { c o r e } }$ ,vs. $R _ { \\mathrm { e } }$ for the same clusters,obtained fitting the density profiles with a cored NFW model (cNFW) [15]. Dotted lines are the leastsquare fits. We point out that while the correlations observed by[15] are re-obtained in our model, simulations, usually reaching mass scales of $1 0 ^ { 1 1 } - 1 0 ^ { 1 2 } ~ M _ { \\odot }$ , do not. Even the simulations by[47,56] observe a flattening of the inner profile but do not study the correlations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dwarf and LSBs galaxies:We use our model to simulate 100 galaxies in a ΛCDM cosmology with similar characteristics to the SPARC sample [57], a collection of nearby galaxies high-quality RCs.The stellar mass of the simulated sample is in the range $M _ { * } = 6 \\times 1 0 ^ { 6 } - 1 0 ^ { 1 1 } \\ : M _ { \\odot }$ . Of the galaxies used by[1],IC 2574,NGC 2366,DDO154,UGC 4325,F563-V2, F563-1,F568-3,UGC 5750,F583-4,F583-1 areincluded in our larger sample.The observed RCs were compared to the most similar simulated galaxies (e.g.，with same halo and baryonic mass).As an example,in Fig.2 we show the RC of IC2574, the same reproduced by SIDM in [1]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Similarly to the case of clusters,we run several simulations for this galaxy until the final halo and baryonic masses differ byat most $10 \\%$ from the observational data. The plot shows the observational RC(dots with error-bars), the contribution to the RC given by gas (dashed red line), stars (dotted green line),and the total baryonic mass (continuous blue line). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ascanbeseenhere,theRCofIC2574(advocatedto be problematic for the scenario of core formation [16]) is very well described by the simulated galaxy,as well as the baryonic mass,as seen comparing with [59] or with the SPARC mass models [6O]. We want to stress that the differences between the IC2574 RC's baryon contribution (gas, stars) in[1] from thatof SPARC or[59]arise from the different DM properties.The halo mass of the simulated galaxy host is $1 . 8 \\times 1 0 ^ { 1 0 } ~ M _ { \\odot }$ , as obtained in the SPARC sample or from [60]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/80b05edffd6a83b30c1d426b8051088983360739b338599cb3763351f34c6576.jpg",
+        "img_caption": [
+            "FIG.2.Leftpanel:RotationcurveofIC2574,dot witherrrbars,fromtheSPARCcatalogue.Thesolidgreylineis theRCofourodel. ThestarscontributiontotheRCisrepresentedbythedotedgreenine,thegasdiskbythedashedredline,andthetotalbaryonicssby thecontinuousblueline.ThisRCispresentedforcomparisonwiththatshownby1].Midlepanel:Effectsofbaryonicphysicsonthe relation $V _ { \\mathrm { 2 k p c } ^ { - } } V _ { \\mathrm { m a x } }$ .Thedashed line represents the expectationif thehaloes were all described bya NFW profile.The dots come fromthe galaxies of[16], while theopensquares represent the prediction of our model. Right panel: Inner slope oftheDMhalo vs. $M _ { * } / M _ { \\mathrm { h a l o } }$ . The dashedlineis theresultof[43],thedot-dashedandthesolidlinesarethepresentpaperandtheresultsby58].Theshadedluend gray regions represent the $\\mathbf { 1 } { \\cdot } \\sigma$ scatter in our result and [58], respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recently, [61], showed how the RC of IC2574 can be naturally obtained taking into account SN feedback, with a similar approach to ours. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Diversity:Despite the fact that the RCs of dwarf galaxies are onaverage cored, individual fits to galaxyRCs show inner slopes ranging from $\\alpha \\simeq 0$ to cusps,while for cored profiles, the central densities can differ by a factor of 1O for galaxies inhabiting similar halos [62] and the situation becomes more complicated at higher masses. For many objects [63] found cored and cuspy profiles in dwarves which are similar while [64] a tendency to flatter profiles in less massive galaxies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Such diversity was quantified by [16] comparing the circular velocity at $2 \\mathrm { k p c } V _ { \\mathrm { 2 k p c } }$ , with a fixed value of the maximum of circular velocity $( V _ { \\mathrm { m a x } } )$ . For $5 0 < V _ { \\mathrm { m a x } } < 2 5 0 \\mathrm { k m / s }$ there is a scatter of a few in $V _ { \\mathrm { 2 k p c } }$ . [13] studied the problem in the SIDM scenario,and found that SIDM alone cannot explain the scatter, since the resolution requires baryonic physics must also be taken into account. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2, following [13] and [16]，we plot (left panel) $V _ { \\mathrm { 2 k p c } }$ versus the maximum of the circular velocity $V _ { \\mathrm { m a x } }$ The dashed line is the expectation for a NFW density profile. The dots are the observed values as in [16] and the open squares are the prediction of our model. The sample used by [16] contains galaxies with stellar mass in the range $M _ { \\mathrm { s t a r } } \\simeq 1 0 ^ { 7 } - 1 0 ^ { 1 1 } \\ M _ { \\odot }$ . In order to compare their results with our model,we chose simulated galaxies with stellar mass in the range of [16] and we calculated $V _ { \\mathrm { 2 k p c } }$ and Vmax\\* ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the dots show, at fixed $V _ { \\mathrm { m a x } }$ , the scatter in $V _ { \\mathrm { 2 k p c } }$ can be aslarge as a factor of four.Such scatter cannot be explained by the ACDM model,as it produces cuspy and self-similar halo density profiles,with a single parameter (concentration parameter or halo mass),in contrast to the cores displayed by many dwarves. In the ΛCDM model, the much larger amount of DM in the halo cusp than the baryons “freezes” the scatter in $V _ { \\mathrm { 2 k p c } }$ ，produced, conversely,by the spread in the baryon distribution. Baryon physics heats DM and enlarge the galaxies,reducing the inner DM content. As shown in [19,5O], the inner slope of the halo density profile is mass dependent.Milky Way sized galaxies tend to have cuspy profiles while dwarf sized galaxies cored profiles.Ultra faint dwarf galaxies tend to be more cuspy than dwarves.Therefore, the scatter seen in Fig.2 originates from the mass dependence of the core formation process and the effects of environment,as described in [51]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our model successfully recovers the scatter and distribution of the RCs shapes because baryon physics gives rise to different responses in the halo of simulated galaxies. The right panel represents the inner slope of the DM halo obtained in [43],dashed line,in the present paper, dotdashedline,andin[58], solid line.All thecurveswere obtained as in [43] by fitting the DM profile with a power law in the radial range $0 . 0 1 < r / R _ { \\mathrm { v i r } } < 0 . 0 2$ ,being $R _ { \\mathrm { v i r } }$ the virial radius. The shaded blue and gray region represents the $\\mathbf { 1 } { \\cdot } \\sigma$ scatter in our result and [58]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The plot shows that the core formation mechanism and $\\alpha$ are strongly dependent on $M _ { * } / M _ { \\mathrm { h a l o } }$ 3 with a minimum value of $\\alpha$ at masses $M _ { * } / M _ { \\mathrm { h a l o } } \\simeq 1 0 ^ { - 2 }$ corresponding to $M _ { * } \\simeq 1 0 ^ { 8 } M _ { \\odot }$ [18,43,58] due to the maximum effects of baryon physics.For smaller masses the profile steepens because of the relative decrease of stars (ratio $M _ { * } / M _ { \\mathrm { h a l o } } )$ Since the profle tends to steepen for $M _ { * } \\lesssim 1 0 ^ { 8 } M _ { \\odot }$ and $V _ { \\mathrm { m a x } }$ is proportional to $M _ { * }$ , we should expect a self-similar behaviour, similar to the NFWRCs,as observed in Fig. ??. For $M _ { * } \\geq 1 0 ^ { 8 } M _ { \\odot }$ , the increase in stellar masses gives rise to a deepening of the potential well and a reduction of the effects of baryon physics,with a consequent steepening of the profile. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions:The ACDM model exhibits some problems at small scales,and in particular predicts an excess of DM in the central parts of galaxies and clusters.In this letter, we showed that a unified solution to the problem can be obtained within the ΛCDM framework without introducing different forms of DM [as done in 1,instead].With a semianalytic model, we simulated the clusters studied by [15] and compared the densityprofiles with those they obtained :those profiles were re-obtained correctly by our model. We displayed one of those density profiles(Fig.1). We then simulated a sample of galaxies similar to the SPARC compilation,containing the galaxies studied by [1], finding again a good agreement with data,as shown in the case of one of the most complicated galaxy RCs to reproduce,namely that of IC2574 (Fig.2).Finally,we studied the“diversity” problem using the simulated galaxies,and comparing their $V _ { \\mathrm { 2 k p c } }$ for given values of $V _ { \\mathrm { m a x } }$ with the compilation in [16]. We show that baryon physics gives rise to RCs very different from each other,due to the dependence of the RC from their total and stellar mass, together with environment. This explains the scatter in the $V _ { \\mathrm { 2 k p c } ^ { - } } V _ { \\mathrm { m a x } }$ plane. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[41]V.F. Cardone and M. Sereno,A&A 438,545 (2005),astroph/0501567.   \n[42] A. Pontzen and F. Governato, Nature (London) 506,171 (2014), arXiv:1402.1764 [astr0-ph.CO].   \n[43]A.Di Cintio,C.B.Brook，A.V.Maccio,G.S.Stinson, A.Knebe,A.A.Dutton，and J.Wadsley,MNRAS 437,415 (2014), arXiv:1306.0898 [astr0-ph.CO].   \n[44] G. Chabrier, PASP115, 763 (2003), astro-ph/0304382.   \n[45]D.J.Croton,V.Springel, S.D.M.White,G.DeLucia, C.S. Frenk,L.Gao,A.Jenkins,G.Kauffmann, J.F.Navarro，and N. Yoshida, MNRAS 365,11 (2006), astro-ph/0508046.   \n[46]A.Cattaneo，A.Dekel，J.Devriendt，B.Guiderdoni, and J. Blaizot, MNRAS 370, 1651 (2006), astro-ph/0601295   \n[47]D.Martizzi,R.Teyssier,B.Moore，and T.Wentz,MNRAS 422, 3081 (2012), arXiv:1112.2752 [astr0-ph.CO].   \n[48]D.Martizzi,R.Teyssier，and B.Moore,MNRAS 420,2859 (2012), arXiv:1106.5371 [astro-ph.CO].   \n[49] C. M. Booth and J. Schaye,Monthly Notices of the Royal Astronomical Society 398, 53 (2009).   \n[50] A.Del Popolo,MNRAS 408,1808 (2010),arXiv:1012.4322 [astro-ph.CO].   \n[51] A.Del Popolo,MNRAS 419,971 (2012)，arXiv:1105.0090 [astro-ph.CO].   \n[52]F.Governato,C.Brook,L.Mayer,A.Brooks,G.Rhee,J.Wadsley，P.Jonsson，B.Willman，G.Stinson，T.Quinn，and P.Madau,Nature (London) 463, 203(2010), arXiv:0911.2237 [astro-ph.CO].   \n[53]F.Governato,A.Zolotov,A.Pontzen,C.Christensen, S.H. Oh, A.M.Brooks,T.Quinn, S.Shen,and J.Wadsley,MNRAS 422, 1231 (2012), arXiv:1202.0554 [astr0-ph.CO].   \n[54] A. Del Popolo, JCAP 7, 014 (2011), arXiv:1112.4185 [astroph.CO].   \n[55] A. Del Popolo，MNRAS 424，38 (2012)，arXiv:1204.4439 [astro-ph.CO].   \n[56]D.Martizzi,R.Teyssier，andB.Moore,MNRAS 432,1947 (2013), arXiv:1211.2648.   \n[57]F.Lelli, S.S.McGaugh，and J.M. Schombert, The Astronomical Journal 152, 157 (2016).   \n[58] E. Tollet,A. V. Maccio,A.A. Dutton, G. S. Stinson,L.Wang, C.Penzo,T.A.Gutcke,T.Buck,X.Kang,C.Brook,A.Di Cintio, B. W. Keller, and J. Wadsley, MNRAS 456, 3542 (2016), arXiv:1507.03590.   \n[59] S.Blais-Ouellette,P.Amram，and C.Carignan,AJ121,1952 (2001), astro-ph/0006449.   \n[60] S.-H.Oh,W.J.G.de Blok,F.Walter,E.Brinks，and R.C. Kennicutt, Jr., AJ 136, 2761 (2008), arXiv:0810.2119.   \n[61]I.M. Santos-Santos,A.Di Cintio,C.B.Brook,A.Maccio, A.Dutton,and R.Dominguez-Tenreiro,ArXiv e-prints (2017), arXiv:1706.04202.   \n[62]R.Kuzio de Naray，G.D.Martinez，J.S.Bullock，and M. Kaplinghat, ApJL 710, L161 (2010), arXiv:0912.3518.   \n[63] J.D. Simon,A.D. Bolatto,A. Leroy,L. Blitz,and E.L.Gates, ApJ 621, 757 (2005), astr0-ph/0412035.   \n[64]W.J.G.de Blok，F.Walter,E.Brinks，C.Trachternach, S.-H. Oh, and R. C. Kennicutt, Jr.，AJ 136,2648 (2008), arXiv:0810.2100.   \n[65]B.P.Moster,T.Naab,and S.D.M.White,MNRAS 428,3121 (2013), arXiv:1205.5807 [astro-ph.CO]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

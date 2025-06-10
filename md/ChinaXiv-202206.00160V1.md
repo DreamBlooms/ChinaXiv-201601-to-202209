@@ -1,0 +1,320 @@
+# 状态焦虑对回溯式时距判断的影响： 认知评价和记忆偏向有调节的中介作用
+
+刘静远1 李虹²
+
+(1．清华大学学生心理发展指导中心，北京 100084；2.清华大学心理学系，北京 100084)
+
+摘要探讨状态焦虑对回溯式时距判断的影响，并检测记忆偏向与认知评价在其中的中介和调节作用。实验1招募大学生60人，随机分为高、低状态焦虑组，采用情绪诱导程序诱导高、低状态焦虑；采用口头估计任务测量回溯式时距判断，考察高、低状态焦虑诱导后的回溯式时距判断差异。实验2在实验1的基础上，招募大学生60人，增加自由回忆任务测量记忆偏向，考察状态焦虑对回溯式时距判断的影响中记忆偏向的中介作用。实验3在实验1和实验2的基础上，招募大学生90人，增加视觉模拟心境量表测量认知评价，考察状态焦虑对回溯式时距判断的影响，并检测认知评价与记忆偏向在其中的作用。结果发现：(1)在回溯式时距判断中，高状态焦虑比低状态焦虑更高估时距；(2)在状态焦虑对回溯式时距判断的影响中，记忆偏向具有中介作用；(3)在状态焦虑对回溯式时距判断的影响中，认知评价和记忆偏向存在有调节的中介作用：只有当认知评价得分较低时，即对于认为焦虑对身体健康有害程度较低的个体而言，在状态焦虑影响回溯式时距判断中，记忆偏向具有完全中介作用，即状态焦虑只通过记忆偏向影响回溯式时距判断。研究结果揭示了焦虑个体回溯式时距判断的内部过程，验证了注意闸门模型中有关用于计时的记忆资源越多对于时距越高估的假设，丰富了焦虑通过记忆偏向影响回溯式时距判断的解释视角，为通过调整认知评价改善焦虑个体时距偏差提供了重要参考。
+
+关键词 状态焦虑，回溯式时距判断，记忆偏向，认知评价
+
+# 1引言
+
+古语有云：“一日不见，如隔三秋”，又有：“恍若昨日，又似经年”。这些表述反映了人们对时间的主观心理感知常常与时间的客观物理长度之间存在差异，在焦虑状态下尤其如此。比如，等待面试或者赶火车时人们会不停地看时间，明明只过了5分钟，却觉得像过了半小时。有研究表明，人们在焦虑状态下会出现时距判断的偏差(Liu&Li,2019,2020；刘静远，李虹,2019)。
+
+时距判断，按照测量方式可以分为预期式时距判断和回溯式时距判断。其中，预期式时距判断是指：被试在实验任务前被告知需要进行计时，即，计时始于实验任务开始时。在预期式时距判断的测量范式里，被试会有意地与努力地编码时间信息，因此也被称为"经验的时距"(experiencing duration)。回溯式时距判断是指：被试在实验结束后才被要求进行计时，即，计时始于实验任务结束后。在回溯式时距判断的测量范式里，被试会被要求完成其他实验任务，这些任务与时间无关，只是后来需要计时时才努力地从记忆中提取相关信息，因此也被称为"回忆的时距"(remembering duration)。注意闸门模型指出，预期式和回溯式时距判断包含不同的认知过程：预期式时距判断主要与刺激唤醒度以及注意资源分配有关；而回溯式时距判断主要依靠记忆过程(Block,1989,1992; Block & Zakay,1997)。
+
+迄今为止有关焦虑影响时距判断的研究并不多，而为数不多的一些研究大多采用预期式，研究对象几乎都是针对特质焦虑或焦虑病人。这些研究比较一致地发现，焦虑会影响预期式时距判断(Bar-Haim et al.,2010; Liu & Li,2019,2020; Mioni et al.,2016; Whyman & Moos,1967;Yoo &Lee,2015；刘静远，李虹,2019)。然而，国内外关于焦虑如何影响回溯式时距判断的研究可谓少之又少，目前我们只检索到一项研究(Lueck,2007)。该研究采用让被试做演讲者或者观众的方式成功启动了高、低状态焦虑，而后让其观看一段长达8分58秒的前人演讲的视频，最后让被试对这段视频所持续的时长进行判断。结果发现高、低状态焦虑组的回溯式时距判断之间不存在显著差异。一项研究结果其实很难说明问题。统计上不显著可能是真的没有差异，也可能是实验设计没有测量出差异。因此，十分有必要深入研究焦虑究竟是否会对回溯式时距判断产生影响。对这一问题的深入并系统的探讨将有助于了解焦虑个体时距判断的内部过程，同时能够帮助具有焦虑体验的个体觉察、适应并纠正时距判断偏差。我们的研究问题是：人们在不同焦虑状态下的回溯式时距判断是否不同？如果是，那么，状态焦虑影响回溯式时距判断的内在机制是怎样的？具体而言，记忆是如何发挥作用的？影响的边界条件是什么？
+
+首先，人们在不同焦虑状态下的回溯式时距判断是否不同？Zakay 和 Block(1995)提出了注意闸门模型(AttentionalGate Model)，是目前较为成熟且在领域内受到认可的综合模型。注意闸门模型包括：起搏器、注意闸门、开关和认知计时器，并强调只有当个体的注意资源被分配给时间信息时，注意闸门才会打开，脉冲才能通过闸门，并从起搏器进入到认知计时器之中。根据注意闸门模型，当进行预期式时距判断时，注意资源被分配给时间信息，注意闸门会开放，脉冲才能通过闸门，进入到认知计时器中得到计数。当进行回溯式时距判断时，注意资源被分配给非时间信息，闸门关闭，工作记忆中背景变化的数量或所存储的有意义的分割片段越多，对时距的判断就越长(Block,2003; Zakay& Block,1995,2004)。相比低状态焦虑的诱导过程，高状态焦虑的诱导过程携带和产生了更多更强的负性信息，进而引发个体更多更强的情绪状态变化。也就是说，相比于低状态焦虑，高状态焦虑的个体在进行回溯式时距判断时，会依然携带着在其诱导过程中所产生的更多更强的负性信息，而更多更强的负性信息较之于（低状态焦虑的）更少更弱的负性信息，应该具有更多有意义的分割片段。基于此，提出研究假设1：在回溯式时距判断中，高状态焦虑比低状态焦虑更高估时距。
+
+第二，记忆在状态焦虑与回溯式时距判断之间是如何发挥作用的？由于记忆资源较难直接测量，前人研究大多采用不同难度或熟悉度的实验任务，间接操纵用于计时的记忆资源(Block et al.,2010；杨莲莲 等,2018)，这也限制了对记忆在焦虑影响回溯式时距判断过程中所发挥作用的探究。而焦虑个体的记忆偏向是易于测量的(Herrera et al.,2017)，这或许可以成为一个突破口。记忆偏向(memory bias)指的是个体对某一特殊先前经验的回忆或再认表现出更好或更糟的倾向(Tafarodi et al.,2003)。Beck 的图式理论指出，当刺激信息与图式一致时，加工过程相对容易。焦虑个体的图式与威胁和危险信息相一致，因而对这类信息十分敏感，这类信息也更容易获得更多的注意和记忆资源；也就是说，对这类信息的加工会占据优势地位，由此产生了注意偏向和记忆偏向(Beck＆ Clark,1997)。具体而言，个体在焦虑时，其工作记忆的内容会受到影响。根据前述注意闸门模型，工作记忆会影响回溯式时距判断(Block,2003;Zakay＆ Block,1995,2004)。那么，焦虑很可能通过记忆偏向影响回溯式时距判断。因此，提出研究假设2：在状态焦虑对回溯式时距判断的影响中，记忆偏向具有中介作用。
+
+第三，影响上述关系的边界条件是什么？Folkman 和Lazarus 等人较为系统地提出了关于认知评价的概念界定与认知-现象学-交互作用理论(Cognitive-Phenomenological-Transactional Theory)，得到国内外学者的一致认可。具体而言，认知评价(cognitive appraisal)指的是个体评估特定的环境遭遇与其心理健康是否相关以及如何相关的过程(Folkman,Lazarus,Dunkel-Schetter et al.,1986; Folkman,Lazarus, Gruen et al.,1986)。认知评价理论认为,情境意义的解码能够触发情绪反应系统的下游效应，如内脏和骨骼肌、主观感觉以及各种认知系统的相应反应(Schirmer,2011)。与身体的适应性变化类似，时距判断偏差可能是大脑的适应性反应，以提高个体在特定情况下做出适应性反应的能力(Tse etal.,2004)。因此，认知评价有可能直接影响时距判断。前人基于预期式时距判断的研究结果表明，状态焦虑对时距判断的影响受认知评价的调节(刘静远，李虹,2019)。据此，本研究推测，认知评价或许也会调节状态焦虑通过记忆偏向影响回溯性时距判断的过程。研究已经发现，认知评价不直接影响记忆偏向(安献丽 等,2015)，即认知评价不会调节焦虑对记忆偏向的影响，那么可能调节的将是记忆偏向对回溯式时距判断的影响。因此，我们提出研究假设3：在状态焦虑对回溯式时距判断的影响中，认知评价和记忆偏向存在有调节的中介作用。
+
+# 2 实验1
+
+# 2.1方法
+
+实验1采用情绪诱导程序诱导状态焦虑、采用口头估计任务测量回溯式时距判断，考察高、低状态焦虑诱导后的回溯式时距判断差异，拟验证的研究假设1为：在回溯式时距判断中，高状态焦虑比低状态焦虑更高估时距。
+
+# 2.1.1被试
+
+借鉴前人研究中的被试量，确定本研究的被试量为每组30人(Bar-Haim etal.,2010;Liu&Li,2019,2020;Mioni et al.,2016;Yoo&Lee,2015；刘静远，李虹,2019)。采用随机取样方法，从清华大学以校内张贴海报的形式招募大学生60人为研究对象。使用 $\mathbf { G } ^ { * }$ Power 3.1(Fauletal.,2007）计算得到参数为：被试间重复测量方差分析，组数 $= 2$ ，测量次数 $= 4$ ，重复测量数据之间的相关性 $= 0 . 5$ ， $\mathfrak { a } = 0 . 0 5$ ， $1 - \beta = 0 . 8$ ，效应量 $f = 0 . 1 5$ 。参与者通过海报上的问卷星二维码进行网上报名，60名参与者中男15人，女45人；平均年龄 $( 2 2 . 7 3 \pm 2 . 4 6 )$ 岁。将60 名参与者随机分配到高状态焦虑组 $( n = 3 0 )$ 和低状态焦虑组 $( n = 3 0 )$ ，其中高状态焦虑组有1名被试的时距判断估计值超过均值的3个标准差，故予以剔除'。独立样本 $\mathbf { \chi } _ { t }$ 检验显示，高低状态焦虑组被试年龄无显著差异 $( M _ { \mathrm { \# \# \# \# \# } } \triangleq 2 3 . 1 0 , S D _ { \mathrm { \# \# \# \# } } = 2 . 6 1 , M _ { \mathrm { \# \# \# \# } } \ast = 2 2 . 2 7 , S D _ { \mathrm { \# \# \# \# } }$ $\ c =$ 2.24, $t ( 5 7 ) = 1 . 3 2$ $p = 0 . 1 9 1 \mathrm { \cdot }$ )；卡方检验显示，两组性别无显著差异(高焦虑组男9人、女20人，低焦虑组男6人、女24人， $\chi ^ { 2 } = 0 . 9 5 , p = 0 . 3 3 0 )$ 。本研究的3个实验前均取得被试知情同意，且已获得所在高校伦理委员会的审查批准(伦理审查编号为 20160907)。
+
+# 2.1.2实验材料
+
+# 情绪状态的诱导
+
+通过让被试回忆与想象焦虑或平静的事件来诱导高或低状态焦虑(Labouvie-Vief et äal.,2003)。首先，要求被试描述一段焦虑或平静的事件：“请描述一件最近让你非常焦虑(平静)的事情，请尽量描述事情细节和你的感受，至少100 字”。接下来，进入短暂的孵育过程：“随后你会感到焦虑(平静)体验变得更为强烈，这也会让你想起其他的使你非常非常焦虑(平静)的事情”。最后，要求被试再次回忆一段焦虑或平静的事件：“请回忆另一件曾经让你非常非常焦虑(平静)的事情，请尽量描述事情细节和你的感受，不少于100 字”。
+
+# 状态焦虑的测量
+
+采用视觉模拟心境量表(Visual Analogue Mood Scales,VAMS)测量状态焦虑水平(Mccormack etal.,1988)，让被试从0到100之间选择一个数字主观评价"此时此刻的焦虑程度”。
+
+# 回溯式时距判断的测量
+
+采用口头估计任务(凤四海，黄希庭,2004)对被试的回溯式时距判断进行测量。实验流程为：在实验的最后，对整个实验持续的时间进行(8 分钟左右)回溯式时距判断。具体的指导语为：“请以分钟为单位，估计整个实验持续的时间，精确到0.1分钟”。采用时距判断指数(time perception index,TPI)来分析回溯式时距判断情况(Liu&Li,2020; Mioni et al.,2016)。具体而言，TPI为被试所估计时长与真实时长的比值，如果TPI等于1，则说明对于回溯式时距判断准确；如果TPI大于1，则说明对于回溯式时距判断高估；如果TPI小于1，则说明对于回溯式时距判断低估。
+
+# 2.1.3实验程序
+
+采用问卷星编写程序，按如下顺序进行实验：(1)状态焦虑的前测；(2)情绪状态的诱导;(3)状态焦虑的后测； (4)回溯式时距判断的测量。
+
+# 2.2结果
+
+# 2.2.1情绪状态的诱导效果
+
+独立样本 $t$ 检验发现，高、低状态焦虑组的状态焦虑前测水平没有显著差异 $( t ( 5 7 ) = - 1 . 1 3$ $p = 0 . 2 6 1 )$ ，而经过情绪状态诱导后，高状态焦虑组的状态焦虑后测水平比低状态焦虑组显著更高 $( t ( 5 7 ) = 5 . 8 8 , p < 0 . 0 0 1 , d = 1 . 5 3 )$ 。对状态焦虑VAMS 得分，采用2组别(高状态焦虑组，低状态焦虑组)与2状态焦虑测量(前测，后测)重复测量方差分析发现，组别的主效应显著 $( F ( 1 , 5 7 ) = 4 . 6 7$ $p = 0 . 0 3 5$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 0 8 \$ ，状态焦虑测量的主效应不显著 $( F ( 1 , 5 7 ) = 1 . 8 0 \$ （2号 $p =$ 0.185)，组别与状态焦虑测量的交互作用显著 $( F ( 1 , 5 7 ) = 6 0 . 1 9 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 5 1 )$ 。分别对高、低状态焦虑组进行配对样本 $\mathbf { \chi } _ { t }$ 检验后发现，经过情绪状态诱导后，高状态焦虑组的状态焦虑水平显著升高 $( M _ { \texttt { i q M } } = 4 0 . 5 2 , S D _ { \texttt { i q M } } = 2 6 . 7 5 , M _ { \texttt { F M } } = 6 4 . 8 6 , S D _ { \texttt { E M } } = 2 3 . 0 9 , t ( 2 8 ) = 5 . 8 8 , p$ $\textless 0 . 0 0 1$ ， $d = 1 . 0 9 ,$ ；而低状态焦虑组的状态焦虑水平显著降低 $( M _ { ☉ \hat { \Psi } \hat { \Psi } \rvert } = 4 8 . 6 0 , S D _ { \xrightarrow { \ast } \hat { \Psi } \downarrow \hat { \Psi } \downarrow } = 2 7 . 9 5$ $M _ { \scriptscriptstyle \mathrm { E B } } = 3 1 . 4 3 , S D _ { \scriptscriptstyle \mathrm { \ E B B } } = 2 0 . 5 6 , t ( 2 9 ) = - 5 . 0 3 , p < 0 . 0 0 1 , d = 0 . 9 2 ) ,$
+
+# 2.2.2状态焦虑对回溯式时距判断的影响
+
+对 TPI采用独立样本 $\mathbf { \chi } _ { t }$ 检验发现，高状态焦虑组比低状态焦虑组的 TPI显著更大 $\boldsymbol { { \cal M } }$ 高焦${ \begin{array} { r l } { { \mathrm { ~ * ~ } } = 0 . 9 1 , S D _ { \mathrm { ~ \# G E B } } = 0 . 3 2 , M _ { \mathrm { ~ \# G E B } } = 0 . 7 2 , S D _ { \mathrm { ~ \# G E B } } = 0 . 2 8 , t ( 5 7 ) = 2 . 4 3 , p = 0 . 0 1 8 , d = 0 . 6 3 ) \circ } \end{array} }$ 该结果说明虽然高、低状态焦虑组的TPI都小于1，表示两组都相对低估回溯式时距判断，但是高比低状态焦虑组的TPI更大，即高比低状态焦虑组相对高估时距，验证了研究假设1。
+
+# 3 实验2
+
+# 3.1方法
+
+在实验1的基础上，根据以往研究中经常采用的不同诱导相结合的方法(例如：Montorioetal.,2015)，实验2增加了音乐诱导状态焦虑，并测量被试对于所诱导的音乐的回溯式时距判断情况，同时增加自由回忆任务测量记忆偏向，考察状态焦虑对回溯式时距判断影响中记忆偏向的中介作用，拟验证的研究假设2为：在状态焦虑对回溯式时距判断的影响中，记忆偏向具有中介作用。
+
+# 3.1.1被试
+
+与实验1类似，招募大学生60人为研究对象，其中男26人，女34人；平均年龄(23.30$\pm 2 . 9 3 )$ 岁。将60名参与者随机分配到高状态焦虑组 $( n = 3 0 )$ 和低状态焦虑组 $( n = 3 0 )$ 。独立样本 $t$ 检验显示，高低状态焦虑组被试年龄无显著差异 $( M _ { \mathrm { \ z i j i f { \ : } l o i l } } ) _ { \mathrm { z } } = 2 3 . 5 3 , S D _ { \mathrm { \ z i j i f { \ : } l o i l } } = 3 . 6 1 , M$ 低焦虑$= 2 3 . 0 7 , S D _ { \mathrm { \# \# \# } } = 2 . 0 8 , t ( 5 8 ) = 0 . 6 1 , p = 0 . 5 4 2 )$ ；卡方检验显示，两组性别无显著差异(高焦虑组男13人、女17人，低焦虑组男13人、女17人， $\chi ^ { 2 } = 0$ $p = 1 . 0 0 0 )$
+
+# 3.1.2实验材料
+
+# 情绪状态的诱导
+
+采用听音乐和事件回忆相结合的方式对状态焦虑进行诱导。首先，高、低状态焦虑组分别被要求听能够诱发焦虑或平静的音乐(Montorio etal.,2015)。其中，高状态焦虑组的被试被要求听一段持续 79 秒的 Ligeti Project-Requiem，低状态焦虑组的被试被要求听一段持续 79秒的 Schoenberg's Erwartung。随后，要求被试通过想象或者回忆沉浸在焦虑(高状态焦虑组)
+
+或平静(低状态焦虑组)状态之中；最后，要求被试回忆一段焦虑或平静的事件：“请回忆一件曾经让你非常非常焦虑(平静)的事情，请尽量描述事情细节和你的感受，不少于100 字”。
+
+# 状态焦虑的测量
+
+与实验1相同。
+
+# 记忆偏向的测量
+
+Herrera 等人(2017)对171项有关焦虑及记忆偏向的研究进行综述后指出，只有采用自由回忆任务时才会发现焦虑相关的记忆偏向；而在其他测量记忆偏向的范式中，并没有观测到稳定的焦虑会引起记忆偏向的现象。因此，本研究采用自由回忆任务测量记忆偏向。具体而言，让被试对负性和中性词语(负性词语、中性词语各8个)进行记忆与回忆。首先，在状态焦虑诱导前，让被试对屏幕上的16个词语进行记忆，时间为1分钟。经过状态焦虑诱导后，让被试在1分钟内对刚刚的词语进行自由回忆。
+
+# 刺激材料
+
+从已有相关研究(MacLeod et al.,1986；黄峥峥,2011；朱诗敏,2004；张冬冬,2008)中选取负性及中性词语，作为上述自由回忆任务的实验材料。线上招募清华大学全日制在校生67名(男 34名，女33名， $M _ { ☉ H _ { \Vec { c } } ^ { \ A } } = 2 1 . 2 2$ ， $S D _ {  \oplus \hbar } = 2 . 8 4 { \cdot }$ 对每个词语的效价与熟悉度进行7点评分(1非常消极....7非常积极；1非常不熟悉.....7非常熟悉)。选取8个负性词语和8个中性词语用于自由回忆任务(请见附录)。经过独立样本 $t$ 检验后发现，词语的效价差异显著，负性词语的评分低于中性词语 $( M _ { ☉ H } = 2 . 3 2 , S D _ { \texttt { f i k } } = 0 . 0 9 , M _ { \texttt { t i k } } = 4 . 1 5 , S D _ { \texttt { t i k } } = 0 . 1 9 , t ( 1 4 ) =$ -24.02, $p < 0 . 0 0 1$ $d = 1 2 . 0 1 { \mathrm { ~ } }$ )；熟悉度差异不显著 $( M _ { \mathrm { \scriptsize ~ \ j i \nmid \pm ~ } } = 6 . 2 3 , S D _ { \mathrm { \scriptsize ~ \ j i \nmid \pm ~ } } = 0 . 2 5 , M _ { \mathrm { \scriptsize ~ \# \# \# ~ } } = 6 . 2 2 , S D$ $\Lt _ { \# \# } = 0 . 2 3 , t ( 1 4 ) = 0 . 1 0 , p = 0 . 9 1 9 ) 。$ （20
+
+# 回溯式时距判断的测量
+
+请被试对状态焦虑诱导过程中音乐所持续的时间(79秒)进行回溯式时距判断。方法与实验1类似，具体的指导语为：“请以秒钟为单位，估计刚刚所听音乐持续的时间，精确到0.1秒钟”。
+
+# 3.1.3实验程序
+
+采用问卷星编写程序，按如图1所示顺序进行实验。
+
+状态焦虑的前测 词语学习与记忆 状态焦虑的诱导 状态焦虑的后测 词语的自由回忆 回溯式时距判断的测量
+
+# 3.2结果
+
+# 3.2.1情绪状态的诱导效果
+
+独立样本 $t$ 检验发现，高比低状态焦虑组的状态焦虑前测水平有较低趋势 $( t ( 5 8 ) = - 1 . 8 0$ $p = 0 . 0 7 7 , d = 0 . 4 6 )$ ，而经过情绪状态诱导后，高状态焦虑组的状态焦虑后测水平比低状态焦虑组显著更高 $( t ( 5 8 ) = 6 . 2 3 , p < 0 . 0 0 1 , d = 1 . 6 1 )$ 。对状态焦虑VAMS 得分，采用 2组别(高状态焦虑组，低状态焦虑组)与2状态焦虑测量(前测，后测)重复测量方差分析发现，组别的主效应显著 $( F ( 1 , 5 8 ) = 5 . 6 8 , p = 0 . 0 2 0 , \eta ^ { 2 } = 0 . 0 9 )$ ，状态焦虑测量的主效应显著 $( F ( 1 , 5 8 ) = 7 . 9 9 , p$ $= 0 . 0 0 6 , \eta ^ { 2 } = 0 . 1 2 )$ ，组别与状态焦虑测量的交互作用显著 $( F ( 1 , 5 8 ) = 6 6 . 8 1 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 5 4 )$ 。分别对高、低状态焦虑组进行配对样本 $\mathbf { \chi } _ { t }$ 检验后发现，经过情绪状态诱导后，高状态焦虑组的状态焦虑水平显著升高(M前测 =38.27,SD前测 =24.54,M后测 =69.27,SD 后测 =19.06, $t ( 2 9 ) =$ 9.13, $p < 0 . 0 0 1$ ， $d = 1 . 6 7 \AA$ ；而低状态焦虑组的状态焦虑水平显著降低 $( M _ { \mathrm { \scriptsize ~  ~ } } { } _ {  } ) \circ 4 9 . 1 0 , S D _ { \mathrm { \scriptsize ~  ~ } } { } =$ （2022.06, $M _ {  , \astrosun \forall \Downarrow 1 } = 3 4 . 0 3$ ,SD 后测 = 24.41, $t ( 2 9 ) = - 3 . 3 5$ $p = 0 . 0 0 2$ ， $d = 0 . 6 1$ )。上述结果说明情绪状态诱导成功。
+
+# 3.2.2状态焦虑对记忆偏向的影响
+
+统计每个被试所回忆出的负性、中性词语个数，以二者的合计作为所回忆出的词语总数，取所回忆出的负性词语个数与所回忆出的词语总数的比值，作为被试的记忆偏向得分，分数越高表示对负性词语的记忆偏向越高(Herrera et al.,2017)。独立样本 $t$ 检验发现，高、低状态焦虑组所回忆出的词语总数并不存在显著差异 $( M _ { ☉ \sharp , \sharp , \sharp , \sharp } = 5 . 3 0 , S D _ { \sharp , \sharp , \sharp , \sharp , \sharp } = 2 . 7 2 , M _ { \tt { i f f } , \sharp , \sharp , \sharp , \sharp } = 5 . 7 7 ,$ （204$S D _ { \mathrm { \ i f f { \bar { 6 } } , \it { 1 0 } } } = 2 . 7 6 , t ( 5 8 ) = - 0 . 6 6 , p = 0 . 5 1 2 )$ ，而高状态焦虑组比低状态焦虑组的记忆偏向得分显著更高，即高状态焦虑组对于负性词语的记忆偏向水平比低状态焦虑组显著更高 $( M _ { \mathrm { ~ \tiny ~ \frac ~ { 1 } { 1 9 } \sharp \sharp \sharp } } =$ $0 . 6 7 , S D _ { \mathrm { \tiny ~ R E R } } = 0 . 1 6 , M _ { \mathrm { \tiny ~ d G R E } } = 0 . 5 2 , S D _ { \mathrm { \tiny ~ d G R E } } = 0 . 1 8 , t ( 5 8 ) = 3 . 4 9 , p = 0 . 0 0 1 , d = 0 . 9 9 )$ 。该结果说明高比低状态焦虑组的记忆偏向更加负性。
+
+# 3.2.3状态焦虑对回溯式时距判断的影响
+
+对 TPI采用独立样本 $t$ 检验发现，高、低状态焦虑组的TPI差异并不显著 $( M _ { \mathrm { \tiny ~ H E , H E } } = 0 . 9 6$ $\begin{array} { r } { S D _ { \mathrm { \ m i g h \ L e m } } = 0 . 1 6 , M _ { \mathrm { \ l G i g h \ L e m } } = 1 . 0 0 , S D _ { \mathrm { \ l G i g h \ L e m } } = 0 . 1 3 , t ( 5 8 ) = - 1 . 0 8 , p = 0 . 2 8 6 ) , } \end{array}$ ，该结果说明当引入中介变量记忆偏向后，状态焦虑不再直接影响回溯式时距判断。
+
+# 3.2.4状态焦虑对回溯式时距判断的影响：记忆偏向的中介作用
+
+参照 Hayes 提出的 Bootstrap 方法对中介效应进行检验(Bolin,2014)，采用 SPSS20.0 的PROCESS，选择模型4，在 $9 5 \%$ 置信区间下，样本量5000，以状态焦虑为自变量 $X ($ 赋值为高 $\mathbf { \varepsilon } = 0$ ，低 $\mathbf { \tau } = 1 \mathbf { \dot { \tau } }$ )，回溯式时距判断(TPI)为因变量Y，记忆偏向(记忆偏向得分)为中介变量 $M$ 。Bootstrap 分析结果表明，中介检验的间接效应没有包含 $0 ( E f f e c t = - 0 . 0 3 4 , S E = 0 . 0 1 8 , 9 5 \% \mathrm { C I }$ $= [ - 0 . 0 7 8 , - 0 . 0 0 8 ] )$ 。此外，控制了中介变量记忆偏向之后，自变量状态焦虑对因变量回溯式时距判断的直接效应不显著，区间包含 $0 ( E f f e c t = 0 . 0 7 4 , S E = 0 . 0 4 0 , 9 5 \% \mathrm { C I } = [ - 0 . 0 0 6 , 0 . 1 5 5 ] ) { \mathrm { e } }$ 因此根据 Zhao 等人(2010)的研究,这一结果反映了在状态焦虑对回溯式时距判断的影响中，记忆偏向具有完全中介作用(图2)，验证了研究假设2。
+
+![](images/dbec84e387cc25841ab582dd37f9ef08611a423d40d55987fb8ee1be9c00ac42.jpg)  
+图2状态焦虑对回溯式时距判断的影响中记忆偏向的中介作用
+
+注： $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ ”， $^ { * * * } p < 0 . 0 0 1$ 。下同。
+
+# 4实验3
+
+# 4.1方法
+
+在实验1和实验2的基础上，实验3增加了视觉模拟心境量表测量认知评价，考察状态焦虑对回溯式时距判断的影响中，认知评价与记忆偏向所发挥的作用，拟验证的研究假设3为：在状态焦虑对回溯式时距判断的影响中，认知评价和记忆偏向存在有调节的中介作用。
+
+# 4.1.1被试
+
+实验3增加连续变量认知评价作为调节变量，故增加30人被试量，共招募90人为研究对象，采用随机取样，从清华大学以校内张贴海报的形式招募大学生参与实验。使用 $\mathbf { G } ^ { * }$ Power3.1(Fauletal.,2007)计算得到参数为：被试间重复测量方差分析，组数 $= 2$ ，测量次数 $= 4$ 重复测量数据之间的相关性 $= 0 . 5$ ， $\mathtt { a } = 0 . 0 5$ ， $1 - \beta > 0 . 9$ ，效应量 $f { = } 0 . 1 4$ 。参与者通过海报上的问卷星二维码进行网上报名，90 名参与者中男25人，女 65人；平均年龄 $( 2 2 . 5 9 \pm$ 2.54)岁。将90名参与者随机分配到高状态焦虑组 $( n = 4 5 )$ 和低状态焦虑组 $( n = 4 5 )$ 。独立样本$\mathbf { \Phi } _ { t }$ 检验显示，高低状态焦虑组被试年龄无显著差异 $( M _ { \sf \sf \equiv } \mathrm { \it { A p s } } ) \mathrm { \it { B s } } = 2 2 . 2 9$ $S D$ 高焦虑 $= 2 . 3 9$ ， $M$ 低焦虑 $\ c =$ （204号22.89, $S D$ 低焦虑 $= 2 . 6 8$ ， $t ( 8 8 ) = - 1 . 1 2$ $p = 0 . 2 6 6 )$ ；卡方检验显示，两组性别无显著差异(高焦虑组男14人、女31人，低焦虑组男11人、女34人， $\chi ^ { 2 } = 0 . 5 0 , p = 0 . 4 8 0 )$ 。
+
+# 4.1.2实验材料
+
+# 情绪状态的诱导与测量
+
+与实验2相同。记忆偏向的测量
+
+与实验2相同。
+
+# 回溯式时距判断的测量
+
+与实验1相同。
+
+# 认知评价的测量
+
+依据Folkman 等人的概念界定(Folkman,Lazarus,Dunkel-Schetter et al.，1986;Folkman,Lazarus,Gruen et al.,1986)，本研究采用 VAMS 测量认知评价(Liu et al.,2019；刘静远，李虹,2019)，即让被试从0到100 之间选择一个数字主观自评：“认为焦虑对心理健康的有害程度”。
+
+# 4.1.3实验程序
+
+采用问卷星编写程序，除在最后增加对于认知评价的测量外，其余与图1所示流程一致。
+
+# 4.2结果
+
+# 4.2.1情绪状态的诱导效果
+
+独立样本 $t$ 检验发现，高、低状态焦虑组的状态焦虑前测水平没有显著差异 $( t ( 8 8 ) = - 0 . 5 2$ $p = 0 . 6 0 3 )$ ，而经过情绪状态诱导后，高状态焦虑组的状态焦虑后测水平比低状态焦虑组显著更高 $( t ( 8 8 ) = 1 0 . 6 1 , p < 0 . 0 0 1 , d = 2 . 2 4 )$ 。对状态焦虑VAMS 得分，采用2组别(高状态焦虑组，低状态焦虑组)与2状态焦虑测量(前测，后测)重复测量方差分析发现，组别的主效应显著 $( F ( 1 , 8 8 ) = 2 4 . 7 2 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 2 2 )$ ，状态焦虑测量的主效应不显著 $( F ( 1 , 8 8 ) = 1 . 7 0 ,$ $p =$ 0.196)，组别与状态焦虑测量的交互作用显著 $( F ( 1 , 8 8 ) = 1 0 9 . 7 0 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 5 6 )$ 。分别对高、低状态焦虑组进行配对样本 $\mathbf { \chi } _ { t }$ 检验后发现，经过情绪状态诱导后，高状态焦虑组的状态焦虑水平显著升高 $( M _ { \parallel \parallel \parallel } = 3 9 . 2 9 , S D _ { \parallel \perp \parallel } = 2 4 . 4 9 , M _ { \perp \perp \parallel } = 6 5 . 0 0 , S D _ { \perp \perp \parallel } = 2 1 . 3 1 , t ( 4 4 ) = 7 . 7 3 , p$ $\textless 0 . 0 0 1$ ， $d = 1 . 1 5 ,$ ；而低状态焦虑组的状态焦虑水平显著降低 $( M _ { \mathrm { \scriptsize ~ \hat { H } \hat { H } \hat { H } ~ } } = 4 1 . 9 6 , S D _ { \mathrm { \scriptsize ~ \hat { H } \hat { H } \hat { H } ~ } } = 2 3 . 9 5$ $M _ { \ �parallel | } = 2 1 . 9 3$ ,SD 后测 = 16.94, $t ( 4 4 ) = - 7 . 0 7$ $p < 0 . 0 0 1$ $d = 1 . 0 5$ )。上述结果说明情绪状态诱导成功。
+
+# 4.2.2状态焦虑对认知评价的影响
+
+采用独立样本 $t$ 检验对认知评价进行分析后发现，高状态焦虑组与低状态焦虑组的认知评价差异不显著 $( M _ { \mathrm { \ s i d } } / \astrosun ) / \equiv 8 0 . 6 9$ ， $S D$ 高状态焦虑 $= 1 4 . 4 5$ ， $M$ 低状态焦虑 $= 7 8 . 2 0 \$ ， $S D$ 低状态焦虑 $= 1 3 . 9 4 \$ ，$t ( 8 8 ) = 0 . 8 3 , p = 0 . 4 0 8 )$ ，说明认知评价作为特质性概念不受状态焦虑诱导的影响。
+
+# 4.2.3状态焦虑对记忆偏向的影响
+
+与实验2一致，独立样本 $t$ 检验发现，高、低状态焦虑组所回忆出的词语总数并不存在显著差异 $\begin{array} { r } { : ( M _ { \mathrm { \tiny \mathrm { ~ \tiny ~ \mathscr { R } \notin \mathbb { R } \oplus \mathbb { ~ \pi } } } } = 4 . 9 3 , S D _ { \mathrm { \tiny \mathrm { ~ \tiny ~ \mathscr { R } \oplus \mathbb { ~ \pi } \oplus \pi } } } = 3 . 0 7 , M _ { \mathrm { \tiny \mathrm { ~ \tiny ~ \mathscr { R } \oplus \mathbb { ~ \pi } \oplus \pi } } } = 4 . 3 6 , S D _ { \mathrm { \tiny \mathrm { ~ \tiny ~ \mathscr { R } \oplus \mathbb { ~ \pi } \oplus \pi } } } = 2 . 6 0 , t ( 8 8 ) = 0 . 9 6 , p = 0 . 3 3 8 ) } \end{array}$ 而对记忆偏向得分进行独立样本 $t$ 检验发现，高状态焦虑组对于负性词语的记忆偏向水平比低状态焦虑组显著更高 $\Gamma ( M _ { \mathrm { \tiny ~ \mathscr { R } 2 A B } } = 0 . 6 8 , ~ S D _ { \mathrm { \tiny ~ \mathscr { R } 2 A B } } = 0 . 1 7 , ~ M _ { \mathrm { \tiny ~ \mathscr { R } 4 B \times \mathscr { E } } } = 0 . 5 7 , ~ S D _ { \mathrm { \tiny ~ \mathscr { R } 4 B \times \mathscr { E } } } = 0 . 2 2 , ~ t ( 8 8 ) = 0 . 3 2 ,$ 2.47, $p = 0 . 0 1 5$ $d = 0 . 5 2 { \mathrm { ; } }$ 。该结果说明高比低状态焦虑组具有更加明显的负性记忆偏向。
+
+# 4.2.4状态焦虑对回溯式时距判断的影响
+
+对 TPI采用独立样本 $t$ 检验发现，高状态焦虑组比低状态焦虑组的 TPI 显著更大 $( M _ { ☉ }$ $\begin{array} { r l } { \iota _ { \mathbb { S } } ^ { \delta } = 0 . 9 5 , S D _ { \mathrm { \# \# \mathbb { R } \mathbb { R } } } = 0 . 3 4 , M _ { \mathrm { \# \# \mathbb { R } \mathbb { R } } } = 0 . 8 1 , S D _ { \mathrm { \# \# \mathbb { R } \mathbb { R } } } = 0 . 2 9 , t ( 8 8 ) = 2 . 1 3 , p = 0 . 0 3 6 , d = 0 . 4 5 ) . } \end{array}$ 。该结果说明虽然高、低状态焦虑组的TPI都小于1，表示两组都相对低估回溯式时距判断，但是高比低状态焦虑组的TPI更大，即高比低状态焦虑组相对高估时距。
+
+# 4.2.5状态焦虑对回溯式时距判断的影响：认知评价和记忆偏向有调节的中介作用
+
+采用 SPSS 20.0 的 PROCESS 插件，参照 Hayes 提出的 Bootstrap 方法进行有调节的中介效应检验(Bolin,2014)。选择模型14，样本量5000，在 $9 5 \%$ 置信区间下，以组别为自变量X(赋值为高状态焦虑组 $_ { . = 0 }$ ，低状态焦虑组 $_ { . = 1 }$ )，回溯式时距判断(TPI)为因变量Y，记忆偏向(记忆偏向得分)为中介变量 $\mathbf { M }$ ，认知评价(VAMS 得分)为调节变量 $\mathrm { \Delta V }$ 。
+
+Bootstrap 分析结果表明，状态焦虑对回溯式时距判断的影响中，认知评价和记忆偏向有  
+调节的中介作用成立(见图 3)。具体而言，认知评价在记忆偏向影响回溯式时距判断中具有  
+显著的调节作用 $c o e f f = 0 . 0 2 6 , S E = 0 . 0 1 3 , p = 0 . 0 4 9 , 9 5 \% \mathrm { C I } = [ 0 . 0 0 0 1 , 0 . 0 5 2 ] )$ ，在状态焦虑  
+影响回溯式时距判断中，记忆偏向作为中介变量的指标没有包含 $0 ( I n d e x = - 0 . 0 0 3$ $S E { = } 0 . 0 0 2$   
+$9 5 \% \mathrm { C I } = [ - 0 . 0 0 7 , - 0 . 0 0 0 4 ] )$ ，而控制了中介变量记忆偏向之后，自变量状态焦虑对因变量回  
+溯式时距判断的直接效应不显著，区间包含 $0 ( E f f e c t = - 0 . 1 3 1$ ， $S E = 0 . 0 6 8$ $9 5 \%$ （204 $\mathrm { C I } = [ - 0 . 2 6 6$   
+0.004])。当认知评价得分较高 $( M + 1 S D = 9 3 . 6 2 )$ 时，中介检验的间接效应包含 $0 ( E f f e c t = - 0 . 0 3 3$ $= 0 . 0 2 5 , 9 5 \% \mathrm { C I } = [ - 0 . 0 9 3 , 0 . 0 0 3 ] )$ 。也就是说，对于认为焦虑对身体健康有害程度较高的  
+个体而言，在状态焦虑影响回溯式时距判断中，记忆偏向不具有中介作用；而当认知评价得  
+分较低 $( M - 1 S D = 6 5 . 2 7 )$ 时，中介检验的间接效应不包含 $0 ( E f f e c t = 0 . 0 4 2$ $S E = 0 . 0 3 2$ $9 5 \%$ CI
+
+$= [ 0 . 0 0 2 , 0 . 1 3 1 ] )$ 。也就是说，对于认为焦虑对身体健康有害程度较低的个体而言，在状态焦虑影响回溯式时距判断中，记忆偏向具有完全中介作用，即状态焦虑只通过记忆偏向影响回溯式时距判断。
+
+![](images/e4511fdfe4eb323e0b4d358265bba16fe529d21649411ca81e36805e9c813118.jpg)  
+图3状态焦虑对回溯式时距判断的影响中认知评价和记忆偏向有调节的中介作用
+
+# 4.2.6补充分析：状态焦虑对回溯式时距判断影响中的时长效应
+
+考虑到实验2和实验3在实验流程上基本一致，以实验2中时距判断的时长79秒记为短时长，以实验3中时距判断的时长8分钟左右作为长时长，对实验2和实验3的整合数据中的 TPI，采用 2 组别(高状态焦虑组，低状态焦虑组)与2时长(短，长)进行单变量方差分析发现，组别的主效应不显著 $( F ( 1 , 1 4 9 ) = 1 . 0 8 , p = 0 . 3 0 0 )$ ，时长的主效应显著 $( F ( 1 , 1 4 9 ) = 1 4 2 . 0 2 \$ $p < 0 . 0 0 1$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 4 9 3 )$ ，组别与时长的交互作用显著 $( F ( 1 , 1 4 9 ) = 5 . 8 1$ ， $p = 0 . 0 1 7$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 0 3 8 )$ 。对高状态焦虑组进行独立样本 $\mathbf { \chi } _ { t }$ 检验后发现，长时长(8分钟左右)比短时长(79 秒)的 TPI显著更小 $\begin{array} { r l } { ( M \Vdash \infty } & { 0 . 6 8 , S D \ \mathrm { s t u i g e } = 0 . 1 7 , M \ W \mathrm { s g u i g e } = 0 . 9 6 , S D \ \mathrm { s t u i g e } = 0 . 1 6 , t ( 7 3 ) = - 7 . 1 2 , p < 0 . 0 0 1 , } \end{array}$ （204$d = 1 . 6 8 )$ ；对于低状态焦虑组具有同样效应 $\vdots ( M _ { { \mathit { \ K } } { \oplus } { \# } } = 0 . 5 7 , S D _ { { \mathit { \ K } } { \oplus } { \# } { \ l } } = 0 . 2 2 , M _ { { \mathit { \ K } } { \oplus } { \ l } { \ l } { \ l } { \ l } { \ l } } = 1 . 0 0 , S D$ 短时长 $= 0 . 1 3$ ， $t ( 7 3 ) = - 9 . 6 3$ $p < 0 . 0 0 1$ $d = 2 . 3 8$ )。该结果反映了长时长比短时长更容易被低估的现象，与前人研究结果相一致(Eisler,1976;Eisler etal.,2008)。虽然本研究没有聚焦在时长效应，但这一发现仍具有一定价值，可以为后续进一步研究焦虑影响回溯式时距判断中的时长效应提供可能的参考。
+
+# 5讨论
+
+本研究通过3个实验对状态焦虑与回溯式时距判断之间的关系，以及记忆偏向和认知评价的中介及调节作用进行了探讨，深入探究了状态焦虑影响回溯式时距判断的方式及内部过程，并发现了认知评价和记忆偏向在其中有调节的中介作用。
+
+# 5.1状态焦虑对回溯式时距判断的影响
+
+相比较焦虑对预期式时距判断的影响研究，焦虑对回溯式时距判断的影响研究少之又少。然而在日常生活中，相比较预先分配注意给计时(预期式时距判断)，人们更多是经历过后回顾判断时间(回溯式时距判断)。本研究围绕这样一个重要但很少被探讨的题目展开研究，并发现状态焦虑对回溯式时距判断确有影响。具体表现为：高状态焦虑个体比低状态焦虑个体更加高估时距。这一发现为后续开展相关研究奠定了重要基础。
+
+此外，这一发现与前人关于焦虑对预期式时距判断影响的研究结果相一致(Bar-Haim etal.,2010;Liu&Li,2019,2020;Yo0&Lee,2015)。整体来看，状态焦虑对无论是预期式时距判断还是回溯式时距判断均具有影响，且表现出一致的高估倾向。这些发现丰富了对于状态焦虑下的时距判断特点的了解。本研究的发现表明，个体感到焦虑时事后回溯时间会体验到时间更漫长，这或许就是为什么人们在感到焦虑时会觉得如坐针毡、度日如年的原因——他们感知到的时间比实际度过的时间更加漫长。先前的研究也发现，当人们感到焦虑时预先注意时间也会感到时间更加漫长(Liu&Li,2020；刘静远，李虹,2019)。
+
+更进一步，状态焦虑下的时距判断偏差反映了时距判断的"主观错觉”。尽管内部时钟理论已经盛行多年(Gibbon,1977; Meck,1983; Treisman et al.,1994)，但是目前在生物体内并没有发现确切的"时间受体”。事实上，没有唯一的、同质的时间，只有多重的、主观的时间体验(Droit-Volet& Gil,2009)。时间“飞逝”、“缓慢"甚至"静止"等体验都是主观的(Droit-Volet,2013)。这充分反映了情绪的一致性以及个体对于外部环境和内部生理状态的适应性(Bower,1981)。
+
+# 5.2记忆偏向的中介作用
+
+本研究还发现在状态焦虑对回溯式时距判断的影响中，记忆偏向具有中介作用，揭示了状态焦虑对回溯式时距判断影响的内部过程。具体表现为：高状态焦虑个体会表现出对于负性刺激的记忆偏向，进而表现出对该类刺激的回溯式时距高估。注意闸门模型(Zakay&Block,1995,2004)认为，当回溯式时距判断时，注意资源被分配给非时间信息，闸门关闭，个体主要依据工作记忆中背景变化的数量或所存储的有意义的分割片段进行时距判断。高状态焦虑个体表现出对于负性刺激的记忆偏向，成为工作记忆中更多的背景变化或有意义片段，因此展现出了回溯式时距高估。本研究结果为注意闸门模型中记忆对于回溯式时距判断影响的理论假设提供了直接的实验支持。
+
+前人关于记忆对回溯式时距判断影响的研究面临着一大难题，即，如何直接测量用于计时的记忆资源。前人研究大多采用不同难度或熟悉度的实验任务，间接操纵用于计时的记忆资源(Block etal.,2010；杨莲莲 等,2018)。这使得记忆对回溯式时距判断的影响作用、尤其是焦虑对回溯式时距判断的影响中，记忆的作用无法被准确测量与分析。本研究巧妙地通过直接测量焦虑个体的记忆偏向解决了这一难题，并开创性地发现了记忆偏向在状态焦虑对回溯式时距判断影响中的中介作用。
+
+# 5.3认知评价的调节作用
+
+本研究进一步发现，状态焦虑通过记忆偏向影响回溯式时距判断的中介过程受到认知评价的调节，揭示了状态焦虑影响回溯式时距判断的内部过程。与前人关于状态焦虑影响预期式时距判断的研究(刘静远，李虹,2019)所发现的：认知评价调节状态焦虑对注意偏向的影响不同的是，在状态焦虑通过记忆偏向影响回溯式时距判断中，认知评价调节的是记忆偏向对回溯式时距判断的影响。我们看到，当进行预期式时距判断时，个体主动地、有意地进行计时与注意分配，认知评价通过调节状态焦虑对注意偏向的不同影响来进一步影响时距判断；当进行回溯式时距判断时，个体预先并不知道需要计时，状态焦虑直接影响记忆偏向，而事后靠回忆努力地进行时距判断时，认知评价的作用得以发挥，调节了记忆偏向对回溯式时距判断的影响。为什么会有这样不同的结果呢？我们认为与认知评价是否直接影响注意偏向和记忆偏向有关。已有研究指出，认知评价与注意控制相关的右侧前额叶区域有关(Ochsner,etal.,2004)，因而能够改变个体的负性注意偏向(Manera et al.,2014)，即认知评价对注意偏向具有直接影响。然而，在使用自由回忆任务测量记忆偏向时，认知评价对于回忆正确率并不存在显著影响(安献丽 等,2015)，即认知评价并不直接影响记忆偏向。因此，本研究结果提示，认知评价在状态焦虑影响时距判断的过程中具有调节作用，因其对注意偏向和记忆偏向的不同影响，导致在预期式时距判断和回溯式时距判断的过程中具有不同的调节位置。
+
+与此同时，我们知道认知评价的一个重要功能是启动心理和身体的变化，为有机体成功应对内外刺激做好准备。认知评价理论认为，对于情境的认知评价会影响身体的适应性变化(Schirmer,2011)。时距判断偏差则可能是大脑的适应性反应，感知持续时间的延长可以作为主观时间的短暂扩展，有效地提高心理表征的时间分辨率，使个体在给定的时间范围内处理更多的信息，以提高个体的适应性能力(Tse etal.,2004)。许多研究者都认为，情绪状态下复杂的、反复的、动态的因果关系在很大程度上是由认知评价引发与形成的(Barrett etal.,2007;Clore & Ortony,2008;Moors,2013;Mulligan& Scherer,2012)。本研究中关于认知评价的研究结果还表明，时距判断偏差可能不完全由情绪状态(状态焦虑)引起，而是与这些状态的低阶成分如认知、生理和运动系统的各种变化有关(Barretet al.,2007; Coan,2010; Lindquist &Barrett,2012; Scherer,2009)。认知评价过程可能涉及触发和塑造时距判断偏差(Uusberg et al,2018)。也就是说，观察到的与情绪关的时距判断偏差，可能属于由认知评价过程触发的一组自适应反应，时距判断可能是由认知评价调节的认知系统之一。
+
+# 5.4研究贡献与展望
+
+研究的主要贡献是：第一，通过单一任务直接测量了状态焦虑对回溯式时距判断影响中记忆偏向的作用，进而解决了用于计时的记忆资源难以控制的难题，验证了注意闸门模型中有关用于计时的记忆资源越多对于时距越高估的假设。第二，发现认知评价是焦虑影响回溯式时距判断中记忆偏向的中介作用的一个边界条件。这一发现深刻揭示了焦虑个体回溯式时距判断的内部过程，丰富了焦虑通过记忆偏向影响回溯式时距判断的解释视角，为通过调整认知评价改善焦虑个体时距偏差现象提供了重要参考。
+
+未来研究可以从如下几个方面开展：第一，扩大临床焦虑样本。为了剥离特质焦虑(或焦虑病人)和对于负性刺激的注意偏向、记忆偏向已经形成的反馈循环(Eysenck,1992,1997)，本研究从健康大学生群体中，随机招募了实验样本进行实验室状态焦虑诱导。虽然本研究结果揭示了日常生活中更为广泛存在的状态焦虑下的时距判断特点、记忆偏向以及认知评价在其中发挥的作用，未来的研究可以进一步以特质焦虑和焦虑病人为样本，从不同焦虑样本的视角检验上述所发现的有调节的中介模型。同时，本研究采用随机取样与随机分组、状态焦虑基线水平测量，较好地保证了所发现的实验结果与结论不受特质焦虑的干扰，未来在对状态焦虑的时距判断进行更深入的研究时，可以进一步将特质焦虑作为协变量加以严格控制，从而彻底排除其对实验结果与结论的可能干扰；甚至可以对特质焦虑与状态焦虑同时进行测量与操纵，进而探讨这两种焦虑对于时距判断的交互影响。
+
+第二，深入研究回溯式时距判断中的效价效应与时长效应。由于可参考的前人文献过少，本研究在探讨状态焦虑对回溯式时距判断时，并未对不同效价(如，负性、正性与中性)的刺激进行细化研究，也仅根据实验2和实验3的结果对不同时长(79 秒、8分钟)进行了粗略探讨。未来研究可以承接本研究结果，对焦虑影响下的回溯式时距判断中的效价效应与时长效应进行更加系统地探讨。首先，在严格控制其他无关变量的情况下，深入分析负性、正性及中性效价是否会使状态焦虑对回溯式时距判断的影响得到强化或弱化；如果发现了效价效应，可以进一步探讨不同效价下记忆偏向的中介作用、认知评价的调节作用是否依然存在。其次，设计独立实验研究更大范围的时长效应(如，几秒、几十秒、几分钟、几十分钟等)，探讨长时长比短时长更容易被低估的边界，并分析其在对状态焦虑影响回溯式时距判断中发挥的作用。从本研究的结果来看，时长效应是存在的，但79 秒和8分钟的差异至少并未对状态焦虑通过记忆偏向影响回溯式时距判断的过程产生影响，未来可以研究更为细致的时长是否使得记忆偏向的作用削弱或消失，从而探讨不同时长下的状态焦虑影响回溯式时距判断的内在机制。
+
+第三，进一步开展时距判断对焦虑影响的研究。本研究围绕状态焦虑如何影响时距判断进行了较为深入与系统的研究，发现了焦虑个体的时距偏差特点及内部过程。未来可以开展时距判断对焦虑影响的研究，进而探讨时距判断在焦虑的发生、维持与缓解过程中的作用。也就是说，对于焦虑与时距判断可能存在的双向关系进行分析，为解释“越焦虑越觉得时间难熬，越觉得难熬越焦虑"的现象提供实证支持，并为从时间维度揭示焦虑的维持机制奠定基础，为焦虑的预防、干预和治疗提供切实有效的方法。
+
+# 6结论
+
+(1)在回溯式时距判断中，高状态焦虑比低状态焦虑更高估时距。(2)在状态焦虑对回溯式时距判断的影响中记忆偏向具有中介作用。(3)在状态焦虑对回溯式时距判断的影响中，认知评价和记忆偏向存在有调节的中介作用：当个体认为焦虑对心理健康有害程度较低时，状态焦虑影响回溯式时距判断中记忆偏向的完全中介作用成立。
+
+# 参考文献
+
+An,X., Chen,S.,& Shu,L.(O15).Effects of instructed and spontaneous reappraisal on emotional arousal and memory.Journal ofPsychological Science,38(5),1032-1038.   
+[安献丽，陈四光，束丽.(2015).诱发及个体自发认知重评对情绪唤醒反应及情绪记忆的影响．心理科学， 38(5),1032-1038.]   
+Bar-Haim,Y.,Kerem,A.,Lamy,D.,& Zakay,D. (2010). When time slows down: The influence of threaton time perception in anxiety. Cognition & Emotion,24(2),255-263.
+
+Barrett,L.F.,Mesquita,B.,Ochsner, K.N.,& Gros,J.J. (2oo7).The experience of emotion. Annual Review of Psychology, 58,373-403.
+
+Beck,A.T.,& Clark, D.A. (1997).An information processing model of anxiety: Automatic and strategic processes. Behaviour Research and Therapy, 35(1),49-58.   
+Block, R.A. (1989). Experiencing and remembering time: Afordances, context, and cognition. In I. Levin & D. Zakay (Eds.), Time and human cognition: A life-span perspective (pp.333-363). Amsterdam: North-Holland.   
+Block,R.A. (1992). Prospective and retrospective duration judgment: The role of information processing and memory. In F. Macar, V. Pouthas,& W. J.Friedman (Eds.), Time, action and cognition: Towards bridging the gap (pp.141-152). Dordrecht, Netherlands: Kluwer Academic.   
+Block, R.A. (20o3). Psychological timing without a timer: The roles ofatention and memory. In H. Helfrich (Ed.), Time and mind II: Information processing perspectives (pp. 41-59). Gottingen, Germany: Hogrefe & Huber.   
+Block, R. A., Hancock, P.A.,& Zakay,D.(2O10). How cognitive load affcts duration judgments: A meta-analytic review. Acta Psychologica,134(3),330-343.   
+Block,R. A., & Zakay, D. (1997). Prospective and retrospective duration judgments: A meta-analytic review. Psychonomic Bulletin & Review, 4(2),184-197.   
+Bolin, J. H. (2014). Introduction to mediation, moderation,and conditional process analysis: Aregression-based approach by Andrew F. Hayes.Journal of Educational Measurement, 51(3),335-337.   
+Bower,G. H. (1981). Mood and memory. The American psychologist, 36(2),129-148.   
+Clore, G. L.,& Ortony,A. (2008). Appraisal theories: How cognition shapes affect into emotion. In M.Lewis, J. M. Haviland-Jones,&L.F.Barrett(Eds.), Handbook of emotions (3rd ed., pp. 628-642). New York,NY: Guilford Press.   
+Coan, J.A. (2010). Emergent ghosts of the emotion machine. Emotion Review, 2(3),274-285.   
+Droit-Volet, S.(20l3).Time perception, emotions and mood disorders. Journal of Physiology-Paris,107(4),255- 264.   
+Droit-Volet,S.,& Gil,S.(20o9).The time-emotion paradox.Philosophical Transactions ofthe Royal Society B: Biological Sciences, 364(1525),1943-1953.   
+Eisler,H. (1976). Experiments on subjective duration 1968-1975: A collection of power function exponents. Psychological Bulletin, 83(6),1154-1171.   
+Eisler,H.,Eiser,A.D.,&Helstrom,A. (208). Psychophysical issues inthe studyoftime perception. InS.Grondin
+
+(Ed.),Psychology of Time.Bingley,UK.: Emerald Group Publishing
+
+Eysenck, M. W.(1992).Anxiety: The cognitive perspective. Hove, U.K.: Psychology Press.   
+Eysenck, M. W. (1997). Anxiety and cognition: A unified theory. Hove, U.K.: Psychology Press.   
+Faul,F.,Erdfelder,E.,Lang,A.-G.,&Buchner,A. (2oo7). G\*Power3: Aflexible statisticalpoweranalysisprogram for the social, behavioral,and biomedical sciences.Behavior Research Methods,39(2),175-191.   
+Feng,S.,& Huang, X. (2004). Areview on theories and experimental paradigms of time perception.Psychological Science,27(5),1157-1160.   
+[凤四海，黄希庭.(2004).时间知觉理论和实验范型．心理科学,27(5),1157-1160.]   
+Folkman,S.,Lazarus,R.S. Dunkel-Scheter, C.,DeLongis,A.,& Gruen,R.J. (1986). Dynamics ofastressful encounter:Cognitiveappraisal,coping,andencounteroutcomes.JournalofPersonalityand Social Psyhology 50(5),992-1003.   
+Folkman,S.,Lazarus,R.S.,Gruen,R.J.,&Delongis,A. (1986).Appraisal,coping,health status,and psychological symptoms. Journal of Personality and Social Psychology, 50(3), 571-579.   
+Gibbon, J. (1977). Scalar expectancyand Weber's law inanimal timing. Psychological Review, 84(3),279-325.   
+Herrera,S.,Montorio,I.,Cabrera,I.,&Botela,J.(2o17).Memorybiasforthreatening informationrelatedtoaniety: An updated meta-analytic review. Journal of Cognitive Psychology,29(7),1-23.   
+Huang,Z. (2011).Research on mood-congruent efect on false memory[Master's Thesis]. Hebei Normal University, Shijiazhuang.   
+[黄峥峥.(2011).错误记忆情绪一致性效应的实验研究[硕士学位论文].河北师范大学，石家庄.]   
+Labouvie-Vief,G.,Lumley,M.A.,Jain,E.,& Heinze,H. (2Oo3).Ageand genderdiferences incardiacreactivity and subjective emotion responses to emotional autobiographical memories.Emotion, 3(2),115-126.   
+Lueck,M. D.(2oo7). Anxiety levels: Do they influence the perception oftime? Journal ofUndergraduate Research, 10,1-5.   
+Lindquist, K.A.,& Barrett,L.F. (20l2). A functional architecture of the human brain: Emerging insights from the science of emotion. Trends in Cognitive Sciences,16(11),533-540.   
+Liu, J.,&Li, H. (2019). Interactive efects oftrait and state anxieties on time perception. Acta Psychologica,195, 64-67.   
+Liu, J.,& Li, H. (20l9). How state anxiety influences time perception: Moderated mediating effect of cognitive appraisal and attentional bias. Acta Psychologica Sinica, 51(7), 747-758.   
+[刘静远，李虹.(2019).状态焦虑对时距知觉的影响：认知评价和注意偏向有调节的中介作用．心理学报，
+
+51(7),747-758.]
+
+Liu, J.,& Li,H. (2O2o). How individuals perceive time inan anxious state:The mediating effect ofatentional bias. Emotion, 20(5), 761-772.   
+Liu, J., Shen, K.,& Li,H. (2O19).How state anxietyand atentional bias interact with each other: The moderating effect of cognitive appraisal.Attention,Perception,& Psychophysics,81(3),694-706.   
+MacLeod,C.，Mathews,A.，& Tata,P.(1986). Atentional bias in emotional disorders.Journalof Abnormal Psychology, 95(1),15-20.   
+Manera, V.,Samson,A. C.,Pehrs,C.,Lee,I. A,& Gross,J. J. (2014). The eyes have it: The role of attention in cognitive reappraisal of social stimuli. Emotion,14(5),833-839.   
+Mccormack, H. M., Horne,D.J. D.,& Sheather, S. (1988). Clinical-applications of visual analog scales: Acriticalreview.Psychological Medicine,18(4),1007-1019.   
+Meck,W. H. (1983). Selective adjustment of the speed of internal clock and memory processes. Journal of Experimental Psychology: Animal Behavior Processes, 9(2),171-201.   
+Mioni, G., Stablum,F.,Pruneti,E.,& Grondin, S.(2016). Time perception in anxious and depressd patients: A comparison between time reproduction and time production tasks. Journal of Affective Disorders, 196, 154-163.   
+Montorio,I.,Nuevo,R.,Cabrera,I, Marquez, M.,& Izal,M. (2015). Differential effectiveness of twoaniety induction proceduresin youth and older adult populations. Anales De Psicologia, 31(1),28-36.   
+Moors,A. (2013). On the causal role of appraisal in emotion. Emotion Review, 5(2),132-140.   
+Mulligan, K.,&Scherer,K.R.(20l2).Toward a working definition ofemotion.Emotion Review, 4(4),345-357.   
+Ochsner,K.N.,Ray,R.D.,Cooper,J.C.,Robertson,E.R.,Chopra,S.,& Gabrieli,J.D.E.,tal. (204).Forbter or for worse: neural systems supporting the cognitive down- and up-regulation of negative emotion. NeuroImage,23(2), 483-499.   
+Scherer,K. R. (209).The dynamic architecture of emotion: Evidence for the component process model. Cognition and Emotion, 23(7),1307-1351.   
+Schirmer,A. (2O11). How emotions change time. Frontiers in Integrative Neuroscience, 5,58.   
+Tafarodi, R. W., Marshall,T.C., & Milne,A.B. (2oo3). Self-esteem and memory.Journal ofPersonality and Social Psychology, 84(1),29-45.   
+Treisman, M., Cook,N., Naish,P.L. N.,& MacCrone,J. K. (1994). The internal clock: Electroencephalographic
+
+evidence for oscilatory processes underlying time perception. The Quarterly Journal of Experimental Psychology A: Human Experimental Psychology, 47A(2),241-289. Tse,P.U., Intriligator, J.，Rivest, J.，& Cavanagh,P.(2004). Attntion and the subjective expansion of time. Perception & Psychophysics, 66(7),1171-1189. Uusberg, A.,Naar,R.,Tamm,M.,Kreegipuu,K.,&Gro,J.J.(2o18).Bending time: The role ofaffectiveappraisal in time perception. Emotion,18(8),1174-1188. Whyman,A.D.,& Moos,R. H. (1967).Time perception and anxiety. Perceptual & Motor Skills,24(2),567-570. Yang,L., Huang,X., Yue,T.,&Liu,P. (2O18).Timing mechanism ofretrospective duration estimation.Advances in Psychological Science, 26(8),1374-1382. [杨莲莲，黄希庭，岳童，刘培朵.(2018).回溯式时距估计的计时机制．心理科学进展,26(8),1374-1382.] Yoo, J.Y.,& Lee,J. H. (2O15).The effects of valence and arousalon time perception in individuals with social anxiety.Frontiers in Psychology, 6,1208. Zakay,D.,& Block,R.A. (1995). An atentional-gatemodel of prospective time estimation.In M.Richelle, V. D. Keyser, G. d'Ydewale,&A. Vandierendonck (Eds.), Time and the dynamic control ofbehavior (pp.167-178). Liege, Belgium: Universite de Liege. Zakay,D.,& Block,R.A. (2004). Prospective and retrospective duration judgments: An executive-control perspective. Acta Neurobiologiae Experimentalis, 64(3), 319-328. Zhang,D.(2008).Experimental research of emotional priming's regulating role of attentional [Master's Thesis]. Capital Normal University, Beijing. [张冬冬.(2008).情绪启动效应对正常个体注意偏向调节作用的实验研究[硕士学位论文].首都师范大学, 北京.] Zhao,X.,Lynch, J. G.,& Chen, Q. (2010). Reconsidering Baron and Kenny: Myths and truths about mediation analysis. Journal of Consumer Research, 37(2),197-206. Zhu, S.(2004). Research on the psychological tendency on emotion priming [Master's Thesis]. South China Normal University, Guangzhou. [朱诗敏.(2004)．情绪启动下的心理倾向的实验研究[硕士学位论文]．华南师范大学，广州.]
+
+# How state anxiety influences retrospective time duration judgment:
+
+# Moderated mediating effect of cognitive appraisal and memory bias
+
+LIU Jingyuan1，LIHong²
+
+(1. Center for Psychological Development, Tsinghua University, Beijing 100084 2.Department of Psychology, Tsinghua University, Beijing 100084)
+
+# Abstract
+
+People are influenced by their emotional state and confused by environmental stimuli in anxiety, which leads to the deviation of time duration judgment. In this article, three experiments were conducted to explore the influence of state anxiety on retrospective time duration judgment, and the moderated mediating effect of cognitive appraisal and memory bias.
+
+Experiment 1 investigated the effect of state anxiety on retrospective time duration judgment. Sixty college students participated and were randomly assigned to a high state anxiety group ( $\scriptstyle \overbrace { n = 3 0 }$ completed a procedure of anxious state induction) and a low state anxiety group ( $\scriptstyle \overbrace { n = 3 0 }$ , completed a procedure of calm state induction).Then， the verbal estimation task was used to measure the retrospective time duration judgment. Experiment 2 investigated the mediating role of memory bias in the effect of state anxiety on retrospective time duration judgment through measuring memory by the free recall task. Experiment 3 investigated the moderated mediating effect of cognitive appraisal and memory bias through measuring cognitive appraisal by the visual analogue mood scales.
+
+The results showed that (1) State anxiety had an effect on retrospective time duration judgment, namely,the high state anxiety individuals overestimate the duration than the low state anxiety individuals. (2) Memory bias played a mediating role in the relationship between state anxiety and retrospective time duration judgment. (3) Cognitive appraisal moderated the mediation effect of memory bias on the influence of state anxiety on retrospective time duration judgment. Specifically, when the score of cognitive appraisal was low, memory bias played a mediating role in the influence of state anxiety on retrospective time duration judgment, while when the score of cognitive appraisal was high, memory bias did not play a mediating role in the influence of state anxiety on retrospective time duration judgment.
+
+Therefore,the effect of state anxiety on college students' retrospective time duration judgment was a moderated mediating effect. The results reveal the internal process of the retrospective time duration judgment of anxious individuals,which can verify the attntion gate model and enrich the explanatory perspective of anxiety influencing the retrospective time duration judgment through memory bias,and provide an important reference for improving the time deviation of anxious individuals through the adjustment of cognitive appraisal.
+
+Key words state anxiety, retrospective time duration judgment, memory bias, cognitive appraisal
+
+# 附录：实验2中的词语材料
+
+伏恶、参考、害怕、公斤、抑郁、惯例、恐慌、省份、惊恐、运算、苦闷、温差、忧郁、郊外、苦恼、综合

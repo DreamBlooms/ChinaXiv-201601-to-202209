@@ -1,0 +1,1708 @@
+[
+    {
+        "type": "text",
+        "text": "Holographic Forced Fluid Dynamics in Non-relativistic Limit ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rong-Gen Cai ＊ Li Li † Zhang-Yu Nie  and Yun-Long Zhang $\\ S$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190,People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "August 3, 2012 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We study the thermodynamics and non-relativistic hydrodynamics of the holographic fluid on a finite cutoff surface in the Gauss-Bonnet gravity. It is shown that the isentropic flow of the fluid is equivalent to a radial component of gravitational field equations. We use the non-relativistic fluid expansion method to study the Einstein-Maxwell-dilaton system with a negative cosmological constant， and obtain the holographic incompressible forced Navier-Stokes equations of the dual fluid at AdS boundary and at a finite cutoff surface, respectively. The concrete forms of external forces are given. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2Holographic fluid at a finite cutoff surface 3   \n2.1Thermodynamics of the dual fluid at the cutoff surface 3   \n2.2Incompressible Navier-Stokes equations from gravity . 7   \n；Holographic forced fuid at AdS boundary 12   \n3.1 Charged fluid in non-relativistic limit 14   \n3.2Forced Navier-Stokes equations 16   \n4Holographic forced fluid at cutoff surface 18   \n4.1Charged fluid in non-relativistic limit 18   \n4.2Forced Navier-Stokes equations 21 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using the fluid/gravity correspondence [1, 2], it was suggested that the problem of NavierStokes (NS) turbulence might be mapped to a problem in general relativity [3,4],with different scales appearing in turbulent phenomena corresponding to different radii in the dual geometry [5]. Thus, with the holographic Wilsonian renormalization group (RG) approach [6,7, 8], it is also interesting to study the holographic hydrodynamics at a finite cutoff surface directly [5,6, 9]. In this study the timelike cutoff surface plays an important role so that the asymptotical behavior of spacetime geometry becomes irrelevant. This provides a potential approach to study holography in asymptotically flat spacetimes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It was proposed in [10] that there is a mathematically precise relationship between the unforced incompressible NS equations in $p + 1$ dimensions and vacuum Einstein equations in $p { + 2 }$ dimensions and their solutions. The dual geometry has an intrinsically flat timelike cutoff surface whose extrinsic curvature is identified as the stress energy tensor of the dual fuid. This relationship has been further developed in the literature such as [11, 12, 13, 14, 15,16,17, 18]. In [10], a gravitational shock wave was introduced to stir the fluid and then left to evolve according to the unforced NS equations. In order to study the stationary NS turbulence, it is better to introduce the external random source fields [19, 20]. For example, a dilaton field was added to the bulk gravity in [3]. In this case,a perturbed gravity solution with a slowly varying dilaton leads to a slowly varying force term in NS equations. Another example is [4],where the force terms come from the slow variation of the boundary background in the holographic context. It turns out that a simple forced steady state shear solution to the forced NS equations becomes unstable and may translate into turbulence at high enough Reynolds number. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the fluid/gravity correspondence, the derivative expansion method [1] leads to the equations of motion of relativistic fuid, and the equations reduce to the NS equations in the non-relativistic limit [4, 21]. Actually, the NS equations can also be obtained via taking the non-relativistic expansion method directly [10,11l. This method can be used not only for dual fuid at the AdS boundary, but also at a finite cutoff surface with flat induced metric [12]. In the latter case, the bulk geometry is not required to be asymptotically AdS. While in the asymptotically AdS case, the perturbed gravity solutions with Dirichlet condition at the cutoff surface can be mapped to the perturbed gravity solutions without the cutoff surface [22, 23]. To study the holographic fluid with external forces in nonrelativistic limit, instead of using the induced metric perturbations method proposed in [4, 23],we keep the induced metric flat and add external matter felds in the bulk as the source terms to the dual fluids. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It was shown in [5] that the radial component of Einstein equations is equivalent to the isentropy equation of the dual fuid. Using a more generic static metric in some sense, we show that this statement is also true in the Gauss-Bonnet gravity. Using the non-relativistic expansion method, we give the procedure to obtain the perturbed solutions of the bulk gravity with a finite cutoff surface up to the second order of non-relativistic expansion parameter， and corresponding NS equations of the dual fuid at the cutoff surface. It turns out that the shear viscosity over the entropy density of the fluid dual to the GaussBonnet gravity does not run with the cutoff surface. This part acts as the service to introduce the non-relativistic expansion method. In this paper we mainly focus on an Einstein-Maxwell-dilaton system with a negative cosmological constant and pay attention to the external force terms in the dual non-relativistic fluid. The external force terms come from the Maxwell field and dilaton field in the system. Note that the forced fluids at the AdS boundary have been discussed in the Einstein-dilaton system [3] and Einstein-Maxwell system [24, 25, 26],respectively. The perturbed solutions have been obtained to the second order of the derivative expansion. We consider the Einstein-Maxwell-dilaton system and obtain the perturbed solutions up to the second order of the non-relativistic expansion with/without the cutoff surface. Associated forced NS equations are also derived in both cases.The concrete expressions of external forces of the dual fluid, which come from the Maxwell feld and dilaton field,are given. The results show that the Reynolds number of the dual fluid becomes larger and larger when the cutoff surface approaches the horizon of the background black branes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Section 2，we start with a generic static black brane metric and obtain the perturbed solutions with a finite cutoff surface in the GaussBonnet gravity by using the non-relativistic expansion method. This section acts as to fix the notations in this paper and to introduce the non-relativistic expansion method. In Section 3, we consider the Einstein-Maxwell-dilaton system with a negative cosmological constant and discuss the dynamics of dual fuid on the AdS boundary in non-relativistic limit. We generalize the discussions to the case with a finite cutoff surface in Section 4. The conclusions are given in Section 5. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Holographic fluid at a finite cutoff surface ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This section is a generalization of discussions in [12] on the thermodynamics and hydrodynamics of dual fuid at a finite cutoff surface. Slight differently, we start with a more general static metric and work in the intrinsic coordinates on the cutoff surface directly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Thermodynamics of the dual fluid at the cutoff surface ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To study a fluid in a $( p + 1 )$ -dimensional flat spacetime,we consider the generic $( p + 2 )$ dimensional static background ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s _ { p + 2 } ^ { 2 } = - g _ { t t } ( r ) d t ^ { 2 } + g _ { r r } ( r ) d r ^ { 2 } + g _ { x x } ( r ) \\delta _ { i j } d x ^ { i } d x ^ { j } , \\qquad \\{ i , j , . . . \\} = 1 , 2 , . . . , p ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the metric components are functions of radial coordinate $r$ only. We assume the metric has a well-defined event horizon at $ { \\boldsymbol { r } } =  { \\boldsymbol { r } } _ { h }$ ，where $g _ { t t } ( r )$ has a first order zero （20 $g _ { t t } ( r _ { h } ) = 0$ ，and $g _ { r r } ( r )$ has a first order pole $g _ { r r } ^ { - 1 } ( r _ { h } ) = 0$ [6]. For example, the ingoingRindler form of flat spacetime and the black $p$ -brane solutions in asymptotically AdS spacetime have the form [5]. Using the Eddington-Finkelstein coordinate $\\tau$ defined by （204号 $d \\tau = d t + \\sqrt { g _ { r r } ( r ) / g _ { t t } ( r ) } d r$ [6],we can rewrite the metric (1） as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s _ { p + 2 } ^ { 2 } = 2 \\sqrt { g _ { t t } ( r ) g _ { r r } ( r ) } d \\tau d r - g _ { t t } ( r ) d \\tau ^ { 2 } + g _ { x x } ( r ) \\delta _ { i j } d x ^ { i } d x ^ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which has the translational invariance in $\\tau$ and $x ^ { i }$ directions. We can always introduce a finite cutoff surface $\\Sigma _ { c }$ at $\\mathit { \\Pi } _ { T } ^ { \\prime } = \\mathit { \\Pi } _ { T _ { c } } .$ outside the horizon with the intrinsic coordinates, $\\tilde { x } ^ { a } \\sim ( \\tilde { \\tau } , \\tilde { x } ^ { i } )$ ，as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { x } ^ { 0 } \\equiv \\tilde { \\tau } = \\sqrt { g _ { t t } ( r _ { c } ) } \\ \\tau , \\qquad \\tilde { x } ^ { i } = \\sqrt { g _ { x x } ( r _ { c } ) } \\ x ^ { i } , \\qquad \\{ a , b . . . \\} = 0 , 1 , 2 , . . . , p .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Then the associated bulk metric(2)becomes ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s _ { p + 2 } ^ { 2 } = g _ { r r } ( r ) d r ^ { 2 } + \\gamma _ { a b } ( r ) \\left[ d { \\tilde { x } } ^ { a } + { \\mathcal N } ( r ) \\delta _ { \\bar { \\tau } } ^ { a } d r \\right] \\left[ d { \\tilde { x } } ^ { b } + { \\mathcal N } ( r ) \\delta _ { \\bar { \\tau } } ^ { b } d r \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\gamma _ { a b } ( r )$ and $\\mathcal { N } ( r )$ are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { a b } ( r ) d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } = - \\frac { g _ { t t } ( r ) } { g _ { t t } ( r _ { c } ) } d \\tilde { \\tau } ^ { 2 } + \\frac { g _ { x x } ( r ) } { g _ { x x } ( r _ { c } ) } d \\tilde { x } _ { i } d \\tilde { x } ^ { i } , \\qquad \\mathcal { N } ( r ) = - \\frac { \\sqrt { g _ { t t } ( r _ { c } ) g _ { r r } ( r ) } } { \\sqrt { g _ { t t } ( r ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "And the induced metric with intrinsic coordinates on $\\Sigma _ { c }$ is simply given as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\tilde { s } _ { p + 1 } ^ { 2 } = \\gamma _ { a b } ( r _ { c } ) d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } = \\tilde { \\eta } _ { a b } d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } = - d \\tilde { \\tau } ^ { 2 } + \\delta _ { i j } d \\tilde { x } ^ { i } d \\tilde { x } ^ { j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Brown-York stress energy tensor $\\tilde { \\mathcal { T } } _ { a b } ^ { B Y }$ evaluated on the cutoff hypersurface $\\Sigma _ { c }$ is proposed as the stress energy tensor of the dual fluid [10]. It has a close relation with the extrinsic curvature tensor $\\begin{array} { r } { \\tilde { K } _ { a b } = \\frac { 1 } { 2 } \\mathcal { L } _ { \\tilde { N } } \\gamma _ { a b } ( r ) | _ { r = r _ { c } } } \\end{array}$ of $\\Sigma _ { c }$ ，where $\\mathcal { L } _ { \\tilde { N } }$ is the Lie derivative along the unit normal $\\tilde { N } ^ { A }$ of the hypersurface. To study the thermodynamic properties of the dual fluid at the cutoff surface, we begin with the re-scaled metric (4) with a Killing horizon located at $r = r _ { h }$ . The local temperature $\\tilde { T } _ { \\scriptscriptstyle 0 } ( r _ { c } )$ on $\\Sigma _ { c }$ ，which is identified as the temperature of dual fluid [5], meets the Tolman relation with Hawking temperature $T _ { H }$ of the black brane metric (2) ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { T } _ { 0 } ( r _ { c } ) = \\frac { T _ { H } } { \\sqrt { g _ { t t } ( r _ { c } ) } } , \\qquad T _ { H } \\equiv \\operatorname * { l i m } _ { r \\to r _ { h } } \\frac { g _ { t t } ^ { \\prime } ( r ) } { 4 \\pi \\sqrt { g _ { t t } ( r ) g _ { r r } ( r ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To discuss the local entropy density of the dual fluid, we consider a quotient of the general geometry (2) under shift of $x ^ { i }$ [5], $x ^ { i } \\sim x ^ { i } + \\ell _ { 0 } n ^ { i }$ ，with a characteristic length $\\ell _ { 0 }$ and $n ^ { i } \\in Z$ ： Equivalently, using metric (4)，the spatial $R ^ { p }$ on $\\Sigma _ { c }$ turns out to be a $p$ -tours $T ^ { p }$ with （204号 $r _ { c }$ -dependent volume ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { p } ( r _ { c } ) = g _ { x x } ^ { p / 2 } ( r _ { c } ) V _ { 0 } , \\qquad V _ { 0 } = \\ell _ { 0 } ^ { p } , \\qquad \\tilde { x } ^ { i } \\sim \\tilde { x } ^ { i } + \\ell _ { 0 } \\sqrt { g _ { x x } ( r _ { c } ) } n ^ { i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the total Bekenstein-Hawking entropy $S$ is fixed, we can identify the dual fluid's entropy density as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { 0 } ( r _ { c } ) = { \\frac { S } { V _ { p } ( r _ { c } ) } } = { \\frac { 1 } { 4 G _ { p + 2 } } } { \\frac { g _ { x x } ^ { p / 2 } ( r _ { h } ) } { g _ { x x } ^ { p / 2 } ( r _ { c } ) } } , \\qquad S = { \\frac { V _ { p } ( r _ { h } ) } { 4 G _ { p + 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $S$ is the Bekenstein-Hawking entropy of the black brane. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As a calculation example, we consider the Einstein-Hilbert action with a non-positive cosmological constant $\\Lambda \\leq 0$ , as well as the Gauss-Bonnet term ${ \\mathcal { L } } _ { \\mathrm { G B } } = R ^ { 2 } - 4 R _ { A B } R ^ { A B } +$ $R _ { A B C D } R ^ { A B C D }$ ,and the contribution from maters $\\mathcal { L } _ { \\mathrm { M } }$ ， ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\frac { 1 } { 1 6 \\pi G _ { p + 2 } } \\int \\ d ^ { p + 2 } x \\sqrt { - g } ( R - 2 \\Lambda + \\alpha \\mathcal { L } _ { \\mathrm { G B } } + \\mathcal { L } _ { \\mathrm { M } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the Gauss-Bonnet coefficient with the same dimension as square of length. The Gauss-Bonnet term is a topological invariant when $p = 2$ ，and will modify Einstein gravitational field equations when $p \\geq 3$ [27, 29]. We will generally demand $p \\geq 2$ and set （204号 $1 6 \\pi G _ { p + 2 } = 1$ throughout this paper 1. Varying the action (1O) with respect to the induced metric $\\gamma ^ { a b }$ with_appropriate surface terms [31, 32, 33, 34], we can get the Brown-York stress energy tensor $\\tilde { \\mathcal { T } } _ { a b } ^ { B Y }$ evaluated onthecutoff hypersurface $\\Sigma _ { c }$ of the Gauss-Bonnet gravity. Because of the flatness of the cutoff surface, its final form is given by [12] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { B Y } = 2 \\left[ \\tilde { K } \\tilde { \\eta } _ { a b } - \\tilde { K } _ { a b } - 2 \\alpha \\left( 3 \\tilde { J } _ { a b } - \\tilde { J } \\tilde { \\eta } _ { a b } \\right) + \\tilde { C } \\tilde { \\eta } _ { a b } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { J } _ { a b } = \\frac { 1 } { 3 } ( 2 \\tilde { K } \\tilde { K } _ { a c } \\tilde { K } _ { \\ b } ^ { c } + \\tilde { K } _ { c d } \\tilde { K } ^ { c d } \\tilde { K } _ { a b } - 2 \\tilde { K } _ { a c } \\tilde { K } ^ { c d } \\tilde { K } _ { d b } - \\tilde { K } ^ { 2 } \\tilde { K } _ { a b } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { K }$ is the trace of extrinsic curvature tensor $\\tilde { K } _ { a b }$ of $\\Sigma _ { c }$ ，and $\\tilde { C }$ is an ambiguous constant. Substituting the metric (4) into the Brown-York stress tensor (11),we can get the stress tensor of the holographic fluid dual to the Gauss-Bonnet gravity as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { B Y } d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } = \\left[ \\tilde { \\rho } _ { G } ( r _ { c } ) - 2 \\tilde { C } \\right] d \\tilde { \\tau } ^ { 2 } + \\left[ \\tilde { p } _ { G } ( r _ { c } ) + 2 \\tilde { C } \\right] \\delta _ { i j } d \\tilde { x } ^ { i } d \\tilde { x } ^ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with constant pressure $\\tilde { p } _ { \\scriptscriptstyle G } ( r _ { c } ) + 2 \\tilde { { \\cal C } }$ and energy density $\\tilde { \\rho } _ { G } ( r _ { c } ) - 2 \\tilde { C }$ ，where ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l } & { \\tilde { \\rho } _ { G } ( \\boldsymbol { r } _ { c } ) = \\tilde { \\mathcal { G } } ^ { \\rho } ( \\boldsymbol { r } _ { c } ) \\tilde { \\rho } _ { E } ( \\boldsymbol { r } _ { c } ) , } & & { \\tilde { w } _ { G } ( \\boldsymbol { r } _ { c } ) \\equiv \\tilde { \\rho } _ { G } ( \\boldsymbol { r } _ { c } ) + \\tilde { p } _ { G } ( \\boldsymbol { r } _ { c } ) = \\tilde { \\mathcal { G } } ^ { w } ( \\boldsymbol { r } _ { c } ) \\tilde { w } _ { E } ( \\boldsymbol { r } _ { c } ) , } \\\\ & { \\tilde { \\rho } _ { E } ( \\boldsymbol { r } _ { c } ) = - \\frac { p } { \\sqrt { g _ { r r } ( \\boldsymbol { r } _ { c } ) } } \\frac { g _ { x x } ^ { \\prime } ( \\boldsymbol { r } _ { c } ) } { g _ { x x } ( \\boldsymbol { r } _ { c } ) } , } & & { \\tilde { w } _ { E } ( \\boldsymbol { r } _ { c } ) \\equiv \\frac { 1 } { \\sqrt { g _ { r r } ( \\boldsymbol { r } _ { c } ) } } \\left( \\frac { g _ { t t } ^ { \\prime } ( \\boldsymbol { r } _ { c } ) } { g _ { t t } ( \\boldsymbol { r } _ { c } ) } - \\frac { g _ { x x } ^ { \\prime } ( \\boldsymbol { r } _ { c } ) } { g _ { x x } ( \\boldsymbol { r } _ { c } ) } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sum $\\tilde { w } _ { \\scriptscriptstyle G } ( r _ { c } )$ is independent of the constant $\\bar { C }$ . The Gauss-Bonnet term corrections, compared to Einstein gravity with $\\lambda _ { G } = ( p - 1 ) ( p - 2 ) \\alpha$ ， are given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { G } } ^ { \\rho } ( r _ { c } ) = 1 - \\frac { \\lambda _ { G } } { 6 g _ { r r } ( r _ { c } ) } \\left( \\frac { g _ { x x } ^ { \\prime } ( r _ { c } ) } { g _ { x x } ( r _ { c } ) } \\right) ^ { 2 } , \\qquad \\tilde { \\mathcal { G } } ^ { w } ( r _ { c } ) = 1 - \\frac { \\lambda _ { G } } { 2 g _ { r r } ( r _ { c } ) } \\left( \\frac { g _ { x x } ^ { \\prime } ( r _ { c } ) } { g _ { x x } ( r _ { c } ) } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1Most of the results in this paper have been checked by Mathematica up to $p = 5$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using the above results, in general we have the thermodynamic relation ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) = \\tilde { w } _ { G } ( r _ { c } ) - \\tilde { \\Omega } _ { 0 } ( r _ { c } ) , \\qquad \\tilde { \\Omega } _ { 0 } ( r _ { c } ) = \\sum _ { m } \\mu _ { m } ^ { ( q ) } ( r _ { c } ) \\tilde { n } _ { ( q ) } ^ { m } ( r _ { c } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $m = 1 , 2 , \\ldots$ , and every $\\tilde { n } _ { ( q ) } ^ { m } ( r _ { c } )$ corresponds to different kinds of charge density with corresponding conjugate chemical potential $\\mu _ { m } ^ { ( q ) } ( r _ { c } )$ . Note that in the Gauss-Bonnet theory, the area formula of black hole entropy no longer holds;but for the black brane solution with Ricci flat horizon considered in the present paper,the area formula for the black brane entropy still works [28, 29, 49]. Thus the total entropy is given by 2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = s _ { 0 } ( r _ { c } ) V _ { p } ( r _ { c } ) = \\frac { V _ { p } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) } \\left[ \\tilde { w } _ { G } ( r _ { c } ) - \\tilde { \\Omega } _ { 0 } ( r _ { c } ) \\right] , \\qquad \\partial _ { r _ { c } } S = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This isentropic equation $\\partial _ { r _ { c } } S = 0$ can be considered as either an adiabatic thermodynamic process of the dual fluid or a holographic renormalization group flow [5]. Varying the action (10） with respect to metric $\\tilde { g } ^ { A B }$ ， we can obtain the equations of motion for the Gauss-Bonnet gravity in the re-scaled (p+2)-dimensional bulk coordinates ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { W } _ { A B } ( r ) \\equiv \\tilde { E } _ { A B } ( r ) + \\alpha \\tilde { H } _ { A B } ( r ) - \\frac { 1 } { 2 } \\tilde { T } _ { A B } ( r ) = 0 , \\qquad \\{ A , B . . . \\} = \\{ r , \\tilde { \\tau } , \\tilde { x } ^ { i } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with the definitions ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\tilde { \\varepsilon } _ { A B } ( r ) \\equiv \\tilde { R } _ { A B } - \\frac { 1 } { 2 } \\tilde { R } \\tilde { g } _ { A B } + \\Lambda \\tilde { g } _ { A B } , \\qquad \\tilde { T } _ { A B } ( r ) \\equiv - 2 \\frac { \\delta \\mathcal { L } _ { \\mathrm { M } } } { \\delta \\tilde { g } ^ { A B } } + \\tilde { g } _ { A B } \\mathcal { L } _ { \\mathrm { M } } , } } \\\\ { { \\displaystyle \\tilde { \\cal I } _ { A B } ( r ) \\equiv 2 ( \\tilde { R } _ { A C D E } \\tilde { R } _ { B } ^ { ~ C D E } - 2 \\tilde { R } _ { A C B D } \\tilde { R } ^ { C D } - 2 \\tilde { R } _ { A C } \\tilde { R } ^ { C } { } _ { B } + \\tilde { R } \\tilde { R } _ { A B } ) - \\frac { 1 } { 2 } \\tilde { g } _ { A B } \\mathcal { L } _ { \\mathrm { G B } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { T } _ { A B } ( r )$ is the stress energy tensor of bulk matters. If we assume the metric (4) solves Eqs. (18), the nonzero_components of the stress energy tensor are $\\tilde { T } _ { r r } ( r ) , \\tilde { T } _ { \\tilde { \\tau } \\tilde { \\tau } } ( r ) , \\tilde { T } _ { \\tilde { x } \\tilde { x } } ( r ) \\equiv$ $\\tilde { T } _ { \\tilde { x } ^ { i } \\tilde { x } ^ { i } } ( \\boldsymbol { r } )$ ,and $\\tilde { T } _ { \\tilde { \\tau } r } ( r ) = \\tilde { T } _ { r \\tilde { \\tau } } ( r ) = \\mathcal { N } ( r ) \\tilde { T } _ { \\tilde { \\tau } \\tilde { \\tau } } ( r )$ , respectively. Following the procedure in [5] and using metric (4),we can introduce an arbitrary null vector $\\tilde { \\zeta }$ tangent to the hypersurface （204号 $r = r _ { c }$ with time component $\\partial _ { \\tilde { \\tau } }$ ， such as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\zeta } ^ { A } \\partial _ { A } = \\partial _ { \\tilde { \\tau } } - \\partial _ { \\tilde { x } ^ { 1 } } \\qquad \\tilde { g } _ { A B } \\tilde { \\zeta } ^ { A } \\tilde { \\zeta } ^ { B } = 0 , \\qquad \\tilde { \\zeta } ^ { A } \\tilde { N } _ { A } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $\\tilde { N }$ the unit normal of the cutoff surface. It could be checked that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { r _ { c } } \\left[ \\frac { V _ { p } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) } \\tilde { w } _ { G } ( r _ { c } ) \\right] = \\frac { V _ { p } ( r _ { c } ) } { T _ { H } } \\sqrt { g _ { r r } ( r _ { c } ) g _ { t t } ( r _ { c } ) } 2 \\tilde { \\zeta } ^ { A } \\tilde { \\zeta } ^ { B } \\left[ \\tilde { E } _ { A B } ( r _ { c } ) + \\alpha \\tilde { H } _ { A B } ( r _ { c } ) \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When the $\\tilde { \\Omega } _ { 0 } \\left( r _ { c } \\right)$ term satisfy the following relation 3 ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { r _ { c } } \\left[ \\frac { V _ { p } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) } \\tilde { \\Omega } _ { 0 } ( r _ { c } ) \\right] = \\frac { V _ { p } ( r _ { c } ) } { T _ { H } } \\sqrt { g _ { r r } ( r _ { c } ) g _ { t t } ( r _ { c } ) } \\ \\tilde { \\zeta } ^ { A } \\tilde { \\zeta } ^ { B } \\tilde { T } _ { A B } ( r _ { c } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Using (17),(18) and the above two equations, we have ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { r _ { c } } S = \\frac { V _ { p } ( r _ { c } ) } { T _ { H } } \\sqrt { g _ { r r } ( r _ { c } ) g _ { t t } ( r _ { c } ) } 2 \\tilde { \\zeta } ^ { A } \\tilde { \\zeta } ^ { B } \\tilde { W } _ { A B } ( r _ { c } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As $\\sqrt { g _ { r r } ( r _ { c } ) g _ { t t } ( r _ { c } ) } , V _ { p } ( r _ { c } )$ and $T _ { H } ^ { \\prime }$ have neither zero nor pole even when $r _ { c } = r _ { h }$ , we arrive at ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { r _ { c } } S = 0 \\Longleftrightarrow \\tilde { \\zeta } ^ { A } \\tilde { \\zeta } ^ { B } \\tilde { W } _ { A B } ( r _ { c } ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which implies the equivalence between the isentropy of the RG fow and a radial gravitational field equation of the Gauss-Bonnet gravity. Thus we have generalized the result in [5] to the case of Gauss-Bonnet gravity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 Incompressible Navier-Stokes equations from gravity ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keeping the intrinsic metric (6) of $\\Sigma _ { c }$ flat，we can take two linear diffeomorphisms based on metric (4): a transformation of the radial $r$ and a Lorentz boost in $( \\tilde { \\tau } , ~ \\tilde { x } ^ { i } )$ coordinates. The first is the transformation of $r$ and the associated re-scaling of $( \\tilde { \\tau } , ~ \\tilde { x } ^ { i } )$ as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr  k ( r ) , \\tilde { \\tau }  \\tilde { \\tau } \\sqrt { \\frac { g _ { t t } ( r _ { c } ) } { g _ { t t } [ k ( r _ { c } ) ] } } , \\tilde { x } ^ { i }  \\tilde { x } ^ { i } \\sqrt { \\frac { g _ { x x } ( r _ { c } ) } { g _ { x x } [ k ( r _ { c } ) ] } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $k ( r )$ is a linear function of $r$ ， whose form would be chosen via the global symmetry of geometry (4). The metric (4) is then transformed into ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s _ { p + 2 } ^ { 2 }  d \\hat { s } _ { p + 2 } ^ { 2 } = 2 \\frac { \\sqrt { g _ { t t } ( \\tilde { r } ) g _ { r r } ( \\tilde { r } ) } } { \\sqrt { g _ { t t } ( \\tilde { r } _ { c } ) } } d \\tilde { \\tau } d \\tilde { r } - \\frac { g _ { t t } ( \\tilde { r } ) } { g _ { t t } ( \\tilde { r } _ { c } ) } d \\tilde { \\tau } ^ { 2 } + \\frac { g _ { x x } ( \\tilde { r } ) } { g _ { x x } ( \\tilde { r } _ { c } ) } \\delta _ { i j } d x ^ { i } d x ^ { j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where we have introduced the re-scaled coordinate $\\tilde { r } \\equiv k ( r )$ and the notation $\\tilde { r } _ { c } \\equiv k ( r _ { c } )$ We will work in the $( r , \\tilde { x } ^ { a } )$ coordinates directly in this paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The other diffeomorphism is the Lorentz boost with a constant boost parameter $\\beta _ { i }$ in the $\\tilde { x } ^ { a } = ( \\tilde { \\tau } , ~ \\tilde { x } ^ { \\ i } )$ coordinates ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\tau }  - \\tilde { u } _ { a } \\tilde { x } ^ { a } , \\qquad \\tilde { x } ^ { i }  \\tilde { n } _ { a } ^ { i } \\tilde { x } ^ { a } , \\qquad \\tilde { n } _ { a } ^ { i } = ( - \\gamma \\beta ^ { i } , \\delta _ { j } ^ { i } + ( \\gamma - 1 ) \\frac { \\beta ^ { i } \\beta _ { j } } { \\beta ^ { 2 } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where we also have defined the $( p + 1 )$ -velocity ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { u } _ { a } = \\gamma _ { \\beta } ( - 1 , \\ \\beta _ { i } ) , \\qquad \\gamma _ { \\beta } = \\bigl ( 1 - \\beta ^ { 2 } \\bigr ) ^ { - \\frac 1 2 } , \\qquad \\beta ^ { 2 } = \\beta _ { i } \\beta ^ { i } = \\delta _ { i j } \\beta ^ { i } \\beta ^ { j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As these parameters are all constants, the associated transformations can be expressed as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\tilde { \\tau }  - \\tilde { u } _ { a } d \\tilde { x } ^ { a } , \\quad d \\tilde { x } ^ { i }  \\tilde { n } _ { a } ^ { i } d \\tilde { x } ^ { a } , \\quad \\delta _ { i j } d \\tilde { x } ^ { i } d \\tilde { x } ^ { j }  \\delta _ { i j } \\tilde { n } _ { a } ^ { i } \\tilde { n } _ { a } ^ { j } d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } = \\tilde { \\mathcal { P } } _ { a b } d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "with the projection operator $\\tilde { \\mathcal { P } } _ { a b } \\equiv \\tilde { \\eta } _ { a b } + \\tilde { u } _ { a } \\tilde { u } _ { b } = \\delta _ { i j } n _ { a } ^ { i } n _ { b } ^ { j }$ . Then the metric (26) becomes ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\hat { s } _ { p + 2 } ^ { 2 } \\to d \\tilde { s } _ { p + 2 } ^ { 2 } = g _ { r r } ( \\tilde { r } ) d \\tilde { r } ^ { 2 } + \\tilde { \\gamma } _ { a b } ( \\tilde { r } ) \\left[ d \\tilde { x } ^ { a } + \\tilde { N } ( \\tilde { r } ) \\tilde { u } ^ { a } d \\tilde { r } \\right] \\left[ d \\tilde { x } ^ { b } + \\tilde { N } ( \\tilde { r } ) \\tilde { u } ^ { b } d \\tilde { r } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where we have used the ADM-like decomposition at the constant $\\tilde { r }$ surface, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\gamma } _ { a b } ( \\tilde { r } ) = - \\frac { g _ { t t } ( \\tilde { r } ) } { g _ { t t } ( \\tilde { r } _ { c } ) } \\tilde { u } _ { a } \\tilde { u } _ { b } + \\frac { g _ { x x } ( \\tilde { r } ) } { g _ { x x } ( \\tilde { r } _ { c } ) } \\tilde { \\mathcal { P } } _ { a b } , \\qquad \\tilde { N } ( \\tilde { r } ) = - \\frac { \\sqrt { g _ { t t } ( \\tilde { r } _ { c } ) g _ { r r } ( \\tilde { r } ) } } { \\sqrt { g _ { t t } ( \\tilde { r } ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After the two diffeomorphisms, the metric (4)） and (30) still solve the same gravity field equations. The cutoff surface $\\boldsymbol { r } = \\boldsymbol { r } _ { c }$ is equivalent to $\\tilde { r } = \\tilde { r } _ { c }$ ， we will firstly work with the new radial variable $\\tilde { r }$ ，and then transform back to $r$ via $r = k ^ { - 1 } ( \\tilde { r } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In general, the Brown-York stress energy tensor on the cutoff surface $ { \\boldsymbol { r } } =  { \\boldsymbol { r } } _ { c }$ corresponding to metric (30) will turn out to take the form ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { B Y } ( r _ { c } ) = \\tilde { \\rho } ( r _ { c } ) \\tilde { u } _ { a } \\tilde { u } _ { b } + \\tilde { p } ( r _ { c } ) \\tilde { \\mathcal { P } } _ { a b } , \\qquad \\tilde { w } ( r _ { c } ) = \\tilde { \\rho } ( r _ { c } ) + \\tilde { p } ( r _ { c } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "which could be identified as the stress tensor of an ideal relativistic fluid $\\tilde { \\mathcal { T } } _ { a b } ^ { ( i d e a l ) }$ with $( p + 1 )$ -velocity $\\tilde { u } _ { a }$ in flat space-time. In the Gauss-Bonnet gravity case (11)，the cutoffdependent energy density $\\tilde { \\rho } ( r _ { c } ) \\equiv \\tilde { \\rho } _ { G } ( \\tilde { r } _ { c } ) - 2 \\tilde { C }$ and pressure $\\tilde { p } ( r _ { c } ) \\equiv \\tilde { p } _ { G } ( \\tilde { r } _ { c } ) + 2 \\tilde { C }$ . In general here $\\tilde { C }$ is an unfixed constant,but to obtain a finite result when the cutoff surface goes to the AdS boundary, $\\tilde { C }$ can be fixed [12]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Let us pause to recall the hydrodynamical description of microscopic field dynamics in fat spacetime. It applies when the correlation length of the fuid ${ { l } _ { c o r } }$ is much smaller than the characteristic scale $L$ of variations of the macroscopic fields [35]. Via dimensional analysis, $l _ { c o r } \\sim 1 / T _ { c }$ and $1 / L \\sim \\partial _ { \\tilde { x } ^ { a } }$ ，where $T _ { c }$ is the characteristic temperature of the fluid and $\\partial _ { \\tilde { x } ^ { a } }$ would act as the coordinate-dependent parameters, such as $T ( \\tilde { x } )$ and $\\tilde { u } ^ { a } ( \\tilde { x } )$ 4.One introduces the dimensionless Knudsen number $\\begin{array} { r } { K n \\equiv l _ { c o r } / L \\sim \\frac { 1 } { T } \\tilde { \\partial } _ { a } \\sim \\epsilon \\ll 1 } \\end{array}$ to expand the stress energy tensor of relativistic fluid in fat background $\\tilde { \\eta } _ { a b }$ ， ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ( \\tilde { x } ) = \\sum _ { n = 0 } ^ { \\infty } \\tilde { \\mathcal { T } } _ { a b } ^ { ( n ) } ( \\tilde { x } ) , \\qquad \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } ( \\tilde { x } ) = \\tilde { w } ( \\tilde { x } ) \\tilde { u } _ { a } ( \\tilde { x } ) \\tilde { u } _ { b } ( \\tilde { x } ) + \\tilde { p } ( \\tilde { x } ) \\tilde { \\eta } _ { a b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "and $\\tilde { \\mathcal { T } } _ { a b } ^ { ( n ) } ( \\tilde { x } ) \\sim ( K n ) ^ { n }$ .To take the non-relativisticlimit asin35], wercover thesdof light $c$ in(33) and introduce the normalized pressure $P ( \\tilde { x } )$ as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\tilde { u } } _ { a } ( { \\tilde { x } } ) = \\gamma _ { \\beta } ( { \\tilde { x } } ) ( - 1 , \\beta _ { i } ( { \\tilde { x } } ) / c ) , \\quad \\gamma _ { \\beta } ( { \\tilde { x } } ) = \\big ( 1 - \\beta ^ { 2 } ( { \\tilde { x } } ) / c ^ { 2 } \\big ) ^ { - \\frac { 1 } { 2 } } , \\quad \\beta ^ { 2 } ( { \\tilde { x } } ) = \\beta _ { i } ( { \\tilde { x } } ) \\beta ^ { i } ( { \\tilde { x } } ) } } \\\\  { \\displaystyle { \\tilde { u } } ^ { a } ( { \\tilde { x } } ) { \\tilde { \\partial } } _ { a } = \\gamma _ { \\beta } ( { \\tilde { x } } ) \\displaystyle { \\frac { \\tilde { \\partial } _ { \\tau } } { c } } + \\gamma _ { \\beta } ( { \\tilde { x } } ) \\displaystyle { \\frac { \\beta _ { i } ( { \\tilde { x } } ) } { c } } { \\tilde { \\partial } } _ { i } , \\displaystyle { \\frac { \\tilde { \\partial } _ { a } T ( { \\tilde { x } } ) } { T ( { \\tilde { x } } ) } } \\sim \\frac { { \\tilde { \\partial } _ { a } \\tilde { w } ( { \\tilde { x } } ) } } { \\tilde { w } ( { \\tilde { x } } ) } \\sim \\frac { { \\tilde { \\partial } _ { a } \\tilde { p } ( { \\tilde { x } } ) } } { { \\tilde { p } ( { \\tilde { x } } ) } } \\equiv \\frac { \\tilde { w } ( { \\tilde { x } } ) } { { \\tilde { p } ( { \\tilde { x } } ) } } \\displaystyle { \\frac { \\tilde { \\partial } _ { a } \\tilde { P } ( { \\tilde { x } } ) } { c ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When $c  \\infty$ , the energy-momentum conservation equations of the ideal fuid, $\\tilde { \\partial } ^ { a } \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } ( \\tilde { x } ) =$ $0$ , leads to the non-relativistic incompressible Euler's equations, ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } _ { i } \\tilde { { \\cal P } } ( \\tilde { x } ) + \\tilde { \\partial } _ { \\tau } \\beta _ { i } ( \\tilde { x } ) + \\beta ^ { j } ( \\tilde { x } ) \\tilde { \\partial } _ { j } \\beta _ { i } ( \\tilde { x } ) = 0 , \\qquad \\tilde { \\partial } _ { i } \\beta ^ { i } ( \\tilde { x } ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Instead of the $c  \\infty$ limit,if we assume the small velocity parameter to take the same limit as the Knudsen number, i.e. $\\beta / c \\sim K n \\sim \\epsilon$ , it would be equivalent to set $c = 1$ in (34) with the following scalings ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } _ { i } \\sim \\epsilon , \\qquad \\tilde { \\partial } _ { \\tau } \\sim \\epsilon ^ { 2 } , \\qquad \\beta _ { i } ( \\tilde { x } ) \\sim \\epsilon , \\qquad \\tilde { P } ( \\tilde { x } ) \\sim \\epsilon ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These non-relativistic scalings are named as the BMW limit [4, 23]. To obtain the forced NS equations, the dissipative part of the stress energy tensor (33) is required ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ( \\tilde { x } ) = \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } ( \\tilde { x } ) + \\tilde { \\mathcal { T } } _ { a b } ^ { ( d i s s ) } ( \\tilde { x } ) , \\qquad \\tilde { \\mathcal { T } } _ { a b } ^ { ( d i s s ) } ( \\tilde { x } ) = \\tilde { \\mathcal { T } } _ { a b } ^ { ( 1 ) } ( \\tilde { x } ) + \\tilde { \\mathcal { T } } _ { a b } ^ { ( 2 ) } ( \\tilde { x } ) + \\dots .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For example, in the Landau frame $\\tilde { u } ^ { a } ( \\tilde { x } ) \\tilde { T } _ { a b } ^ { d i s s } ( \\tilde { x } ) = 0$ , the first order dissipative components could be written as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\tilde { T } _ { a b } ^ { ( 1 ) } ( \\tilde { x } ) = - 2 \\tilde { \\eta } ( \\tilde { x } ) \\tilde { \\sigma } _ { a b } ( \\tilde { x } ) - \\tilde { \\zeta } ( \\tilde { x } ) \\tilde { \\theta } ( \\tilde { x } ) \\tilde { \\mathcal { P } } _ { a b } ( \\tilde { x } ) , \\qquad \\tilde { \\mathcal { P } } _ { a b } ( \\tilde { x } ) = \\tilde { \\eta } _ { a b } + \\tilde { u } _ { a } ( \\tilde { x } ) \\tilde { u } _ { b } ( \\tilde { x } ) , } \\\\ & { \\tilde { \\sigma } _ { a b } ( \\tilde { x } ) = \\tilde { \\mathcal { P } } _ { a } ^ { m } ( \\tilde { x } ) \\tilde { \\mathcal { P } } _ { b } ^ { n } ( \\tilde { x } ) \\tilde { \\partial } _ { ( m } \\tilde { u } _ { n ) } ( \\tilde { x } ) - \\displaystyle \\frac { \\tilde { \\mathcal { P } } _ { a b } ( \\tilde { x } ) } { p } \\tilde { \\theta } ( \\tilde { x } ) , \\quad \\tilde { \\theta } ( \\tilde { x } ) = \\tilde { \\eta } ^ { a b } \\tilde { \\partial } _ { a } \\tilde { u } _ { b } ( \\tilde { x } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\widetilde { \\eta } ( \\widetilde { x } )$ is the kinetic shear viscosity and $\\tilde { \\zeta } ( \\tilde { x } )$ is the bulk viscosity, the latter vanishes for conformal fluids. Usually, they behave the same as local temperature $\\tilde { T } ( \\tilde { x } )$ in (34). The first order dissipative hydrodynamics satisfies the dynamical equations $\\tilde { \\partial } ^ { a } [ \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } ( \\tilde { x } ) + \\tilde { \\mathcal { T } } _ { a b } ^ { ( 1 ) } ( \\tilde { x } ) ] =$ $\\tilde { f _ { b } } ( \\tilde { x } )$ if some external source term appears. In the non-relativistic limit (36),if we further assume $\\tilde { f } _ { i } ( \\tilde { x } ) \\sim \\epsilon ^ { 3 } , \\tilde { f } _ { \\tilde { \\tau } } ( \\tilde { x } ) \\sim \\epsilon ^ { 4 }$ , it would lead to the non-relativistic forced incompressible NS equations at order $\\epsilon ^ { 3 }$ ， ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } _ { i } \\tilde { P } ( \\tilde { x } ) + \\tilde { \\partial } _ { \\tau } \\beta _ { i } ( \\tilde { x } ) + \\beta ^ { j } ( \\tilde { x } ) \\tilde { \\partial } _ { j } \\beta _ { i } ( \\tilde { x } ) + \\tilde { \\nu } ( \\tilde { x } ) \\tilde { \\partial } ^ { j } \\tilde { \\partial } _ { j } \\beta _ { i } ( \\tilde { x } ) = \\tilde { f } _ { i } ^ { [ \\tilde { w } ] } ( \\tilde { x } ) , \\qquad \\tilde { \\partial } _ { i } \\beta ^ { i } ( \\tilde { x } ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { \\nu } ( \\tilde { x } ) = \\eta ( \\tilde { x } ) / \\tilde { w } ( \\tilde { x } )$ is the dynamical shear viscosity and $\\tilde { f } _ { i } ^ { [ \\tilde { w } ] } ( \\tilde { x } ) = \\tilde { f } _ { i } ( \\tilde { x } ) / \\tilde { w } ( \\tilde { x } )$ .The NS equations have the scaling symmetry (36),as shown in [4, 10]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Next we will derive the incompressible NS equations from the gravity side. To get the dissipative part of the dual fluids,we need to perturb the geometry (30) by using either the linear response method (eg. [6]) or the perturbative expansion method developed in [1],where a perturbative procedure to solve Einstein's equations order by order in the boundary derivative expansion was proposed. In the case with a finite cutoff surface, we also can employ the procedure under the non-relativistic limit [11, 12]. Regarding the transformation parameters in linear function $\\tilde { r } = k ( r )$ and the $p$ -velocity $\\beta ^ { i }$ in the boost transformation as functions of the hypersurface coordinates $( \\tilde { \\tau } , \\tilde { x } ^ { i } )$ ，we can solve the gravitational equations order by order in the non-relativistic perturbative expansion. Based on (36), these transformation parameters are also regarded as small quantities with appropriate scaling symmetry as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { r } \\sim \\epsilon ^ { 0 } , \\quad \\tilde { \\partial } _ { i } \\sim \\beta _ { i } ( \\tilde { x } ) \\sim \\epsilon ^ { 1 } , \\quad \\tilde { \\partial } _ { \\tau } \\sim \\delta k ( r , \\tilde { x } ) \\sim { \\tilde { P } } ( \\tilde { x } ) \\sim \\epsilon ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta k ( r ) \\equiv \\tilde { r } - r \\sim \\epsilon ^ { 2 }$ would provide the pressure perturbation. Using the formal Taylor expansion such as $g _ { t t } ( \\tilde { r } ) = g _ { t t } ( r ) + g _ { t t } ^ { \\prime } ( r ) \\delta k ( r )$ , and define $\\tilde { g } _ { \\tilde { \\tau } r } ( r ) = \\sqrt { g _ { t t } ( r ) g _ { r r } ( r ) / g _ { t t } ( r _ { c } ) }$ ，we ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "can consider the metric (30) with coordinate-dependent parameters as $d \\tilde { s } _ { ( 0 ) } ^ { 2 }$ , and expand it up to order $\\epsilon ^ { 2 }$ ，5 ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { d \\tilde { s } _ { \\{ 0 \\} } ^ { 2 } = + 2 \\tilde { g } _ { \\{ \\psi \\} } ( r ) d \\tilde { r } d r d r + \\bigg [ - \\frac { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } d r ^ { 2 } + \\frac { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } \\delta _ { \\tilde { u } } d r ^ { 2 } \\bigg ] } \\\\ & { - 2 \\tilde { g } _ { \\{ \\tilde { v } ( \\tilde { r } ) \\} } \\beta _ { \\tilde { v } } ( \\tilde { r } ) d \\tilde { x } \\dot { d } \\tilde { x } ^ { 2 } d r + 2 \\bigg [ \\underbrace { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } _ { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } \\frac { g _ { \\{ \\tilde { v } ( \\tilde { r } ) \\} } } { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } \\bigg ] \\beta _ { \\tilde { u } } ( \\tilde { y } ) d \\tilde { r } d \\tilde { r } } \\\\ & { + \\frac { g _ { \\{ v } } } { g _ { \\{ \\psi \\} } } ( r ) \\beta ^ { 2 } ( \\tilde { x } ) d \\tilde { r } d r - \\bigg [ \\underbrace { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } _ { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } - \\frac { g _ { \\{ \\tilde { v } ( \\tilde { r } ) \\} } } { g _ { \\{ \\tilde { u } ( \\tilde { r } ) \\} } } \\bigg ] \\bigg ( \\beta ^ { 2 } ( \\tilde { x } ) d \\tilde { r } ^ { 2 } + \\beta _ { \\tilde { u } } ( \\tilde { x } ) \\beta _ { j } ( \\tilde { x } ) d \\tilde { x } ^ { 2 } d \\tilde { x } ^ { j } \\bigg )  \\\\ & { + \\frac { g _ { \\tilde { v } } ^ { 2 } } { g _ { \\tilde { v } \\ r } } ( r ) \\beta _ { \\tilde { v } r } ^ { \\tilde { g } } ( r ) d \\tilde { r } d r + \\bigg [ \\underbrace { g _ { \\tilde { u } } ^ { 2 } ( \\tilde { r } ) } _ { g _ { \\tilde { u } } ( \\tilde { r } ) } \\delta _ { \\tilde { v } } ( r ) - \\underbrace { g _ { \\tilde { u } } ^ { 2 } ( r _ { c } ) } _ { g _ { \\tilde { u } } ( \\tilde { r } _ { c } ) } \\delta _ { \\tilde { u } ( \\tilde { r } _ { c } ) } \\bigg ] \\left( \\tilde { g } _ { \\{ \\tilde { v } ^ { \\prime } \\} } \\delta _ { \\tilde { v } } ( r _ { c } ) \\right) } \\\\ &  + 2 \\tilde { g } _ { \\{ \\tilde { v } ^ { \\prime } \\} } ( r ) [ k ^ { \\tilde { \\mathcal { T } } } ( r ) - 1 ] d \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta k ( r )$ and $\\beta _ { i } ( \\tilde { x } )$ and are all functions of $\\tilde { x } ^ { a }$ now,we will omit this notation ( $x$ )henceforth. The coordinate-dependent metric (41) is no longer a diffeomorphism of metric (30). Under the perturbative expansion, it turns out that (41) only solves the same equations of motion of gravity up to $\\epsilon ^ { 1 }$ . To solve the equations of motion up to $\\epsilon ^ { 2 }$ ，some constraint equations and new correction terms to the bulk metric are needed at this order. With the same way, the equations of motion of the system can be solved order by order in the nonrelativistic expansion parameter $\\epsilon$ [11]. And the corresponding Brown-York stress energy tensor which is identified as the dual fuid's stress energy tenor,can also be obtained at the desired order. In this paper we solve the equations of motion up to order $\\epsilon ^ { 2 }$ . It turns out that the non-dissipative part is still given by (32) in the non-relativistic limit. Up to $\\epsilon ^ { 2 }$ ， we have ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } d \\tilde { x } ^ { a } d \\tilde { x } ^ { b } = \\left[ \\tilde { \\rho } ( r _ { c } ) + \\tilde { w } _ { 0 } ( r _ { c } ) \\beta ^ { 2 } \\right] d \\tilde { \\tau } ^ { 2 } - 2 \\tilde { w } _ { 0 } ( r _ { c } ) \\beta _ { i } d \\tilde { x } ^ { i } d \\tilde { \\tau } } \\\\ & { } & { + \\left[ \\tilde { p } ( r _ { c } ) \\delta _ { i j } + \\tilde { w } _ { 0 } ( r _ { c } ) \\beta _ { i } \\beta _ { j } \\right] d \\tilde { x } ^ { i } d \\tilde { x } ^ { j } + { \\cal O } ( \\epsilon ^ { 3 } ) , \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { w } _ { \\mathrm { o } } ( r _ { c } ) = \\tilde { \\rho } _ { \\mathrm { 0 } } ( r _ { c } ) + \\tilde { p } _ { \\mathrm { 0 } } ( r _ { c } )$ ，and ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { ( r _ { c } ) \\equiv \\tilde { \\rho } _ { 0 } ( \\tilde { r } _ { c } ) \\cong \\tilde { \\rho } _ { 0 } ( r _ { c } ) + \\tilde { \\rho } _ { 0 } ^ { \\prime } ( r _ { c } ) \\delta k ( r _ { c } ) , \\quad \\tilde { p } ( r _ { c } ) \\equiv \\tilde { p } _ { 0 } ( \\tilde { r } _ { c } ) \\cong \\tilde { p } _ { 0 } ( r _ { c } ) + \\tilde { p } _ { 0 } ^ { \\prime } ( r _ { c } ) \\delta k ( r _ { c } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The equations of motion of the bulk matters should be solved in the same procedure. Once we get the solutions of both gravity and matters up to order $\\epsilon ^ { 2 }$ , the constraint equations of gravity at order $\\epsilon ^ { 3 }$ are just the forced incompressible NS equations (39) of the dual fluid. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As a calculation example to perturb the geometry (30)，we again assume the metric solves the equations (18) of Gauss-Bonnet gravity with a non-positive cosmology constant ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\tilde { \\Lambda }$ .The metric (41) leads to $\\tilde { W } _ { M N } ^ { ( \\epsilon ) } = 0$ ,and the constraint equation at order $\\epsilon ^ { 2 }$ turns out to be ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\tilde { N } ^ { C } \\tilde { W } _ { C \\tau } ^ { ( \\epsilon ^ { 2 } ) } = - \\tilde { \\partial } ^ { a } \\tilde { T } _ { a \\tau } ^ { ( 0 ) } = \\tilde { w } _ { 0 } ( r _ { c } ) \\tilde { \\partial } _ { i } \\beta ^ { i } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { w } _ { \\scriptscriptstyle 0 } ( r _ { c } ) = \\tilde { w } _ { \\scriptscriptstyle G } ( r _ { c } )$ is nonzero outside the horizon. Thus it leads to the incompressible condition $\\tilde { \\partial } _ { i } \\beta ^ { i } = 0$ of the dual fuid at the cutoff surface. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To solve gravitational field equations at order $\\epsilon ^ { 2 }$ ，we need to add corrections to the metric (41). It was shown in [1] that due to the spatial $S O ( p )$ rotation symmetry of the black brane background，one has the decoupled equations of $S O ( p )$ scalar， vector and traceless tensor perturbations. For example, if we turn off the tensor perturbations of the matter stress energy tensor $\\tilde { \\mathcal { T } } _ { A B } ( \\boldsymbol { r } )$ , the tensor corrections to the metric,at order $\\epsilon ^ { 2 }$ ，are ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\tilde { s } _ { ( 1 ) } ^ { 2 } = 2 \\tilde { \\mathcal { F } } ( r ) \\frac { g _ { x x } ( r ) \\sqrt { g _ { t t } ( r _ { c } ) } } { g _ { x x } ( r _ { c } ) } \\tilde { \\sigma } _ { i j } ~ d \\tilde { x } ^ { i } d \\tilde { x } ^ { j } + . . . , \\qquad \\tilde { \\sigma } _ { i j } = \\tilde { \\partial } _ { ( i } \\beta _ { j ) } - \\frac { 1 } { p } \\delta _ { i j } \\tilde { \\partial } _ { k } \\beta ^ { k } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Then the traceless tensor parts of the gravitational field equations W(c2) ${ \\tilde { W } } _ { i j } ^ { ( \\epsilon ^ { 2 } ) } = 0$ ）= O lead to a second-order ordinary differential equation ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\left( 1 + \\frac { \\sqrt { g _ { t t } ( r ) } } { \\sqrt { g _ { r r } ( r ) } } \\tilde { \\mathcal { F } } ^ { \\prime } ( r ) \\right) \\mathcal { G } _ { g } ( r ) \\right] ^ { \\prime } = 0 \\Rightarrow \\tilde { \\mathcal { F } } ( r ) = \\int _ { r } ^ { r _ { c } } \\frac { \\sqrt { g _ { r r } ( y ) } } { \\sqrt { g _ { t t } ( y ) } } \\left[ 1 - \\frac { \\mathcal { G } _ { g } ( r _ { h } ) } { \\mathcal { G } _ { g } ( y ) } \\right] d y ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "where two integration constants have been fixed and ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { G } _ { g } ( r ) = g _ { x x } ^ { p / 2 } ( r ) \\left( 1 - \\alpha ( p - 2 ) \\frac { \\left[ g _ { t t } ( r ) g _ { x x } ^ { ( p - 3 ) / 2 } ( r ) \\right] ^ { \\prime } g _ { x x } ^ { \\prime } ( r ) } { \\left[ g _ { t t } ( r ) g _ { r r } ( r ) \\right] g _ { x x } ^ { ( p - 1 ) / 2 } ( r ) } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In (46),one integration constant is the upper limit of the integration, which is chosen to be $r _ { c }$ via the Dirichlet boundary condition at the cutoff surface. The other integration constant is chosen to be $\\mathcal { G } _ { g } ( r _ { h } )$ to cancel out the first order zero in the denominator $\\sqrt { g _ { t t } ( r _ { h } ) } / \\sqrt { g _ { r r } ( r _ { h } ) } = 0$ of the integrand in (46),where ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { G } _ { g } ( r _ { h } ) \\equiv \\operatorname* { l i m } _ { r  r _ { h } } \\mathcal { G } _ { g } ( r ) = g _ { x x } ^ { p / 2 } ( r _ { h } ) ( 1 - \\alpha \\Lambda _ { \\alpha } ) , \\quad \\Lambda _ { \\alpha } = \\frac { 4 ( p - 2 ) \\pi T _ { H } } { \\sqrt { g _ { t t } ( r _ { h } ) g _ { r r } ( r _ { h } ) } } \\frac { g _ { x x } ^ { \\prime } ( r _ { h } ) } { g _ { x x } ( r _ { h } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and $\\sqrt { g _ { t t } ( r _ { h } ) g _ { r r } ( r _ { h } ) }$ is a finite constant due to our definition. The Hawking temperature $T _ { H }$ is given in (7),so that $\\Lambda _ { \\alpha }$ is a constant determined by the metric (1） at the horizon. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With the perturbed metric $d \\tilde { s } _ { ( 0 ) } ^ { 2 } + d \\tilde { s } _ { ( 1 ) } ^ { 2 }$ ， corresponding Brown-York tensor becomes $\\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } + \\tilde { \\mathcal { T } } _ { a b } ^ { ( 1 ) }$ ,wheretesist $\\tilde { \\mathcal { T } } _ { a b } ^ { ( 1 ) }$ are ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { i j } ^ { ( 1 ) } = - 2 \\frac { \\mathcal { G } _ { g } ( r _ { h } ) } { g _ { x x } ^ { p / 2 } ( r _ { c } ) } \\left[ 1 + \\frac { \\sqrt { g _ { t t } ( r _ { c } ) } } { \\sqrt { g _ { r r } ( r _ { c } ) } } \\tilde { \\mathcal { F } } ^ { \\prime } ( r _ { c } ) \\right] \\tilde { \\sigma } _ { i j } = - 2 \\frac { \\mathcal { G } _ { g } ( r _ { h } ) } { g _ { x x } ^ { p / 2 } ( r _ { c } ) } \\tilde { \\sigma } _ { i j } \\equiv - 2 \\tilde { \\eta } ( r _ { c } ) \\tilde { \\sigma } _ { i j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Here $\\tilde { \\eta } ( r _ { c } )$ is defined as the kinetic shear viscosity of fluid dual to the Gauss-Bonnet gravity with the geometry (1). Using the entropy density $s _ { \\mathrm { 0 } } ( r _ { c } )$ given in (9) of the ffuid at the cutoff surface, we have ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\widetilde { \\eta } ( r _ { c } ) = \\frac { \\mathcal { G } _ { g } ( r _ { h } ) } { g _ { x x } ^ { p / 2 } ( r _ { c } ) } \\Rightarrow \\frac { \\widetilde { \\eta } ( r _ { c } ) } { s _ { 0 } ( r _ { c } ) } = \\frac { 1 } { 4 \\pi } \\left[ 1 - \\alpha \\Lambda _ { \\alpha } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "One can see that the shear viscosity over entropy density of dual fluid does not run with the cutoff surface. This match with the results in [6] and [36], where a hypersurface in the given solution is introduced. Here we impose the Dirichlet boundary conditions [5,12] and find the corresponding perturbed bulk solutions with a fat induced hypersurface. Using the formula (5O)，one can easily obtain the ratio of shear viscosity over entropy density for some fluid once the dual gravity background is known. Take an example, using the charged AdS Gauss-Bonnet black brane background solutions,one has [15, 30] ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\ g _ { x x } ( r ) = \\displaystyle \\frac { r ^ { 2 } } { \\ell ^ { 2 } } , g _ { t t } ( r ) = g _ { r r } ^ { - 1 } ( r ) = \\displaystyle \\frac { r ^ { 2 } } { 2 \\lambda _ { G } } \\left( 1 - \\sqrt { 1 - \\frac { 4 \\lambda _ { G } } { \\ell ^ { 2 } } \\left[ 1 - ( 1 + Q ^ { 2 } ) \\frac { r _ { h } ^ { p + 1 } } { r ^ { p + 1 } } + Q ^ { 2 } \\frac { r _ { h } ^ { \\prime } } { r ^ { 2 } } \\right] } \\right) , } } \\\\ { { \\ \\Longrightarrow \\ \\displaystyle \\frac { \\tilde { \\eta } ( r _ { c } ) } { \\tilde { s } ( r _ { c } ) } = \\displaystyle \\frac { 1 } { 4 \\pi } \\left[ 1 - 2 \\frac { \\lambda _ { G } } { \\ell ^ { 2 } } \\left( \\frac { p + 1 } { p - 1 } - Q ^ { 2 } \\right) \\right] , \\lambda _ { G } = ( p - 1 ) ( p - 2 ) \\alpha , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the Gauss-Bonnet coefficient,and $\\ell$ is the radius of AdS spacetime. When $\\ell  \\infty$ ， the negative cosmological constant $\\Lambda = - p ( p + 1 ) / 2 \\ell ^ { 2 } \\to 0$ ，the black brane solution will degenerate into the ingoing Rindler space via some coordinate redefinition [5], and the Gauss-Bonnet term wil not contribute to the shear viscosity any more. This has been shown via using the ingoing Rindler metric of fat spacetime 37]. Here our formula in (48) leads to this result directly because $g _ { x x } ( r ) = 1 \\Rightarrow \\Lambda _ { \\alpha } = 0$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3 Holographic forced fluid at AdS boundary ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It is interesting to give the concrete expressons of some external forces of holographic fluid. For this, let us consider the Einstein-Maxwell action with a dilaton field $\\Phi$ and appropriate boundary terms and counter terms as follows. ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { T } } = { \\frac { 1 } { 1 6 \\pi G _ { p + 2 } } } \\int { d ^ { p + 2 } x \\sqrt { - g } \\left( R - 2 \\Lambda - { \\frac { 1 } { 4 } } F ^ { 2 } - { \\frac { 1 } { 2 } } ( \\nabla \\Phi ) ^ { 2 } \\right) } + S _ { b . t . } + S _ { c . t . } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where the negative cosmological constant $\\Lambda = - p ( p + 1 ) / 2 \\ell ^ { 2 }$ ， the Maxwell field $F _ { M N } =$ $2 \\nabla _ { [ M } A _ { N ] }$ ,and $F ^ { 2 } = F _ { M N } F ^ { M N }$ ， $( \\nabla \\Phi ) ^ { 2 } = \\nabla _ { M } \\Phi \\nabla ^ { M } \\Phi$ ，where $\\{ M , N , \\ldots \\}$ run over the bulk coordinates. In what follows, $1 6 \\pi G _ { p + 2 } = 1$ will be adopted. From the action we can get the gravitational field equations ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { M N } - \\frac { g _ { M N } } { 2 } R + \\Lambda g _ { M N } = \\frac { 1 } { 2 } T _ { M N } ^ { ( A ) } + \\frac { 1 } { 2 } T _ { M N } ^ { ( \\Phi ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { T _ { M N } ^ { ( A ) } = F _ { M P } F _ { N } ^ { \\phantom { } P } - \\frac { g _ { M N } } { 4 } F ^ { 2 } , \\ T _ { M N } ^ { ( \\Phi ) } = \\nabla _ { M } \\Phi \\nabla _ { N } \\Phi - \\frac { g _ { M N } } { 2 } ( \\nabla \\Phi ) ^ { 2 } } \\end{array}$ , and from which one has ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { M N } \\equiv R _ { M N } + \\frac { p + 1 } { \\ell ^ { 2 } } g _ { M N } - \\frac { 1 } { 2 } \\partial _ { M } \\Phi \\partial _ { N } \\Phi - \\frac { 1 } { 2 } \\left( F _ { M P } F _ { N } ^ { ~ P } - \\frac { 1 } { 2 p } g _ { M N } F ^ { 2 } \\right) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The equations of motion of the Maxwell field and the dilaton field are ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { N } \\equiv \\nabla _ { M } F _ { N } ^ { M } = 0 , \\qquad W _ { \\phi } \\equiv \\nabla ^ { 2 } \\Phi = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The system has a class of exact solutions with $p + 2$ parameters as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { d s ^ { 2 } = - 2 u _ { \\mu } d x ^ { \\mu } d r + \\displaystyle \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ V ( r ) u _ { \\mu } u _ { \\nu } d x ^ { \\mu } d x ^ { \\nu } + { \\mathcal P } _ { \\mu \\nu } \\right] d x ^ { \\mu } d x ^ { \\nu } , } } \\\\ { { \\quad \\mathcal A = - U ( r ) u _ { \\mu } d x ^ { \\mu } , } } \\\\ { { \\quad \\Phi = \\Phi _ { 0 } . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $\\{ \\mu , \\nu , \\ldots \\}$ run over the boundary coordinates. This is a charged boosted black brane solution in Eddington-Finkelstein coordinates with a constant dilaton $\\Phi _ { 0 }$ ，and a constant unit normalized velocity uμ, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { \\mu } = \\gamma _ { v } ( - 1 , \\ v _ { i } ) , \\qquad \\gamma _ { v } = \\left( 1 - v ^ { 2 } \\right) ^ { - \\frac 1 2 } , \\qquad v ^ { 2 } = v _ { i } v ^ { i } = \\delta _ { i j } v ^ { i } v ^ { j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and $\\eta ^ { \\mu \\nu } u _ { \\mu } u _ { \\nu } = - 1$ . In the metric of the solutions (56), ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( r ) = 1 - \\frac { m \\ell ^ { 2 } } { r ^ { p + 1 } } + \\frac { q ^ { 2 } \\ell ^ { 2 } } { r ^ { 2 p } } \\equiv 1 - ( 1 + Q ^ { 2 } ) \\frac { r _ { h } ^ { p + 1 } } { r ^ { p + 1 } } + Q ^ { 2 } \\frac { r _ { h } ^ { 2 p } } { r ^ { 2 p } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Here the notations in [25] have been used, ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ( r _ { h } ) = 1 - M + Q ^ { 2 } = 0 , \\qquad M \\equiv { \\frac { m \\ell ^ { 2 } } { r _ { h } ^ { p + 1 } } } , \\qquad Q \\equiv { \\frac { q \\ell } { r _ { h } ^ { p } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { r } = \\boldsymbol { r } _ { h }$ is the horizon location of the charged black brane solution. The Hawking temperature of the black brane is given by ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { H } =  { \\frac { 1 } { 4 \\pi } } [ { \\frac { r ^ { 2 } V ( r ) } { \\ell ^ { 2 } } } ] ^ { \\prime } | _ { r = r _ { h } } =  [ ( p + 1 ) M - 2 p Q ^ { 2 } ] { \\frac { r _ { h } } { 4 \\pi \\ell ^ { 2 } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In the gauge field part, we have chosen the gauge that $A _ { r } = 0$ and ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( r ) = \\mu _ { 0 } \\left( b _ { 0 } - { \\frac { r _ { h } ^ { p - 1 } } { r ^ { p - 1 } } } \\right) , \\qquad \\mu _ { 0 } = { \\frac { q } { r _ { h } ^ { p - 1 } } } \\sqrt { \\frac { 2 p } { p - 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $b _ { 0 } \\mu _ { 0 }$ is the value of the gauge potential at the AdS boundary. Usually $b _ { 0 } = 1$ is required to get a well defined gauge field at the horizon [39, 40],but this is not necessary in the perturbative fluid/gravity correspondence [24]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1 Charged fluid in non-relativistic limit ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To perturb the metric (56)，we take the same procedure via regarding the parameters in the metric and gauge field as functions of boundary coordinates $u _ { \\mu }  u _ { \\mu } ( x )$ ， $r _ { h } $ $r _ { h } ( 1 + P ( x ) )$ 6. Without loss of generality, we take the associated replacements as $m $ $m \\left( 1 + P ( x ) \\right) ^ { p + 1 }$ and $q  q ( 1 + P ( x ) ) ^ { p }$ to keep $M$ and $Q$ as two constants. The scalar field is replaced as $\\Phi  \\phi ( x ^ { \\mu } )$ . Then the solutions (56) will not solve the equations of motion (55) and (54) any more. Using the so-called BMW limit at the boundary [4,10] ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { r } \\sim \\epsilon ^ { 0 } , \\qquad \\partial _ { i } \\sim v _ { i } \\sim \\partial _ { i } \\phi \\sim \\epsilon ^ { 1 } , \\qquad \\partial _ { \\tau } \\sim P \\sim \\epsilon ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where we have added an assumption that $\\partial _ { i } \\phi \\sim \\epsilon ^ { 1 }$ ， we can solve the equations of motion order by order in the small parameter $\\epsilon$ [11, 12]. Actually the three parameters $( m , \\ q , \\ r _ { h } )$ （20 relate to each other via $V ( r _ { h } ) = 0$ ， so that two of them are independent parameters, for example, one can take $q$ and $r _ { h }$ as two independent parameters. We focus on the forced NS equations in this paper, so $\\delta m \\sim \\delta q \\sim \\delta r _ { h } \\sim \\epsilon ^ { 2 }$ have been assumed in the non-relativistic limit. In the boundary derivative expansion of the relativistic fluid, the solutions of the Einstein-dilaton system [3], and the Einstein-Maxwell system [24, 25] have been obtained up to second order of the derivative expansion parameter. We can extract the relevant terms up to the second order in our non-relativistic expansion parameter $\\epsilon$ . To compare with their results, we write our the non-relativistic perturbative solutions up to $\\epsilon ^ { 2 }$ ina covariation form, ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { d s ^ { 2 } = - 2 u _ { \\mu } ( x ) d x ^ { \\mu } d r + \\displaystyle \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ - V \\left( \\tilde { r } \\right) u _ { \\mu } ( x ) u _ { \\nu } ( x ) + \\mathcal { P } _ { \\mu \\nu } ( x ) \\right] d x ^ { \\mu } d x ^ { \\nu } } } \\\\ { { \\qquad + \\displaystyle \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ \\ell ^ { 2 } K ( r ) \\theta _ { \\phi } u _ { \\mu } u _ { \\nu } + 2 \\ell \\mathcal { F } ( r ) \\sigma _ { \\mu \\nu } + \\ell ^ { 2 } \\mathcal { F } _ { \\phi } ( r ) ( \\sigma _ { \\phi } ) _ { \\mu \\nu } \\right] d x ^ { \\mu } d x ^ { \\nu } , } } \\\\ { { \\mathcal { A } = A _ { \\mu } ( r , x ) d x ^ { \\mu } = \\left[ A _ { \\mu } ^ { ( q ) } ( r , x ) + A _ { \\mu } ^ { ( e x ) } ( x ) \\right] d x ^ { \\mu } , } } \\\\ { { \\Phi = \\phi ( x ) + \\ell \\mathcal { F } ( r ) \\left( u ^ { \\mu } \\partial _ { \\mu } \\phi \\right) + \\ell ^ { 2 } \\mathcal { F } _ { \\phi } ( r ) ( \\partial ^ { \\mu } \\partial _ { \\mu } \\phi ) . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Although higher order terms such as $u _ { \\tau } u _ { i } \\sim \\epsilon ^ { 3 }$ are reserved, they would not contribute to the calculation up to order $\\epsilon ^ { 2 }$ . In (63), $\\mathcal { P } _ { \\mu \\nu } ( x ) = \\eta _ { \\mu \\nu } + u _ { \\mu } ( x ) u _ { \\nu } ( x )$ ， $\\tilde { r } = [ 1 - P ( x ) ] r$ ，and $A _ { \\mu } ^ { ( q ) } ( r , x ) = - \\left[ 1 + { \\cal P } ( x ) \\right] U ( \\tilde { r } ) u _ { \\mu }$ is the perturbed and boosted potential. $A _ { \\mu } ^ { ( e x ) }$ is an extra electromagnetic field, which would provide extra forces and $F _ { \\mu \\nu } ^ { ( e x ) } = 2 \\partial _ { [ \\mu } A _ { \\nu ] } ^ { ( e x ) }$ are chosen to meet with theappropriate non-relativistic expansion in[5],F(ex)，I $F _ { i j } ^ { ( e x ) } \\sim \\epsilon ^ { 2 }$ ，as well as the velocity $u _ { \\mu } = ( - 1 - v ^ { 2 } / 2 , v _ { i } )$ . This solution solves the equations of motion (55) and (54) up to order $\\epsilon ^ { 2 }$ , if the following expressions are provided ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal F } ( r ) = \\ell \\int _ { r } ^ { \\infty } \\frac { ( y ^ { p } - r _ { h } ^ { p } ) } { y ^ { p + 2 } V ( y ) } d y , \\qquad \\sigma _ { \\mu \\nu } = \\partial _ { ( \\mu } u _ { \\nu ) } - \\frac { { \\mathcal P } _ { \\mu \\nu } } { p } \\theta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta = \\eta ^ { \\mu \\nu } \\partial _ { \\mu } u _ { \\nu } = \\mathcal { P } ^ { \\mu \\nu } \\partial _ { \\mu } u _ { \\nu }$ , for the dilaton shear perturbations ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { F } _ { \\phi } ( r ) = \\frac { \\ell ^ { 2 } } { p - 1 } \\int _ { r } ^ { \\infty } \\frac { ( y ^ { p - 1 } - r _ { h } ^ { p - 1 } ) } { y ^ { p + 2 } V ( y ) } d y , \\qquad ( \\sigma _ { \\phi } ) _ { \\mu \\nu } = \\partial _ { ( \\mu } \\phi \\partial _ { \\nu ) } \\phi - \\frac { \\mathcal { P } _ { \\mu \\nu } } { p } \\theta _ { \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and for the dilaton scalar perturbations ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal K } ( r ) = \\frac { \\ell ^ { 2 } } { 2 p ( p - 1 ) r ^ { 2 } } , \\qquad \\quad \\theta _ { \\phi } = { \\mathcal P } ^ { \\mu \\nu } \\partial _ { \\mu } \\phi \\partial _ { \\nu } \\phi .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We can generalize the dual boundary fluid in [3, 25] to the (p+1)-dimensional case with （204号 $p \\geq 2$ ， where the stress tensor $\\tilde { \\mathcal { T } } _ { \\nu } ^ { \\mu }$ and current ${ \\tilde { \\mathcal { I } } } ^ { \\mu }$ are given by ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\ l _ { \\nu } ^ { - \\mu } = \\operatorname * { l i m } _ { r \\to \\infty } \\frac { r ^ { p + 1 } } { \\ell ^ { p + 1 } } \\left[ 2 ( K _ { \\alpha \\beta } h ^ { \\alpha \\beta } h _ { \\nu } ^ { \\mu } - K _ { \\nu } ^ { \\mu } ) - \\frac { 2 p } { \\ell } h _ { \\nu } ^ { \\mu } + \\frac { 2 \\ell } { p - 1 } \\hat { G } _ { \\nu } ^ { \\mu } - \\frac { \\ell } { p - 1 } ( \\hat { G } _ { \\Phi } ) _ { \\nu } ^ { \\mu } \\right] , } } \\\\ { { \\displaystyle \\ l ^ { \\prime \\mu } = \\operatorname * { l i m } _ { r \\to \\infty } \\frac { r ^ { p + 1 } } { \\ell ^ { p + 1 } } N _ { r } F ^ { \\mu r } , \\quad \\hat { G } _ { \\nu } ^ { \\mu } = \\hat { R } _ { \\nu } ^ { \\mu } - \\frac { 1 } { 2 } \\hat { R } h _ { \\nu } ^ { \\mu } , \\quad \\hat { ( G } _ { \\Phi } ) _ { \\nu } ^ { \\mu } = \\hat { D } ^ { \\mu } \\Phi \\hat { D } _ { \\nu } \\Phi - \\frac { 1 } { 2 } ( \\hat { D } \\Phi ) ^ { 2 } h _ { \\nu } ^ { \\mu } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the outward pointing unit normal of the regulated boundary, $\\hat { D }$ is the covariant derivative associated with the boundary metric $h _ { \\nu } ^ { \\mu }$ , and the corresponding Einstein tensor （20 $\\hat { G } _ { \\nu } ^ { \\mu }$ , as well as the effective counter tensor $( \\hat { G } _ { \\Phi } ) _ { \\nu } ^ { \\mu }$ of the dilaton field [41,42,43]. Substituting our solutions (63) in (67)，the Brown-York stress tensor and the induced current at the AdS boundary are given by ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l l r } { { } } & { { } } & { { \\displaystyle - \\mu \\nu = M \\frac { { \\cal T } _ { h } ^ { p + 1 } } { \\ell ^ { p + 2 } } [ 1 + ( p + 1 ) P ] \\left[ ( p + 1 ) u ^ { \\mu } u ^ { \\nu } + \\eta ^ { \\mu \\nu } \\right] - 2 \\frac { r _ { h } ^ { p } } { \\ell ^ { p } } \\sigma ^ { \\mu \\nu } - \\frac { 1 } { p - 1 } \\frac { r _ { h } ^ { p - 1 } } { \\ell ^ { p - 2 } } ( \\sigma _ { \\phi } ) ^ { \\mu \\nu } , \\ } } \\\\ { { } } & { { } } & { { \\mathcal { I } ^ { \\mu } = \\frac { r ^ { p } } { \\ell ^ { p } } F ^ { \\mu r } = n _ { ( q ) } u ^ { \\mu } , \\quad n _ { ( q ) } = ( 1 + p P ) n _ { 0 } , \\quad n _ { 0 } \\equiv \\frac { r ^ { p } } { \\ell ^ { p } } U ^ { \\prime } ( r ) = \\frac { q \\sqrt { 2 p ( p - 1 ) } } { \\ell ^ { p } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { ( q ) }$ is the induced charge density. Note that here $( \\sigma _ { \\phi } ) ^ { \\mu \\nu }$ is included in the stress tensor (68). These terms relating to the dilaton field were considered as the dissipative parts of the dual fluids' stress tensor in [3], or the perturbations in the membrane paradigm [6].In this paper, however，we focus on the forced NS equations and move them to the right-hand side of the constraint equations as additional sources, similar to what has been done for the boundary metric perturbations [4, 23]. Then we can redefine the stress tensor of the dual fluids with first order dissipative term ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { \\mu \\nu } ^ { ( w ) } = w _ { 0 } \\left[ 1 + ( p + 1 ) P \\right] \\left[ u _ { \\mu } u _ { \\nu } + \\frac { \\eta _ { \\mu \\nu } } { p + 1 } \\right] - 2 \\eta _ { 0 } \\sigma _ { \\mu \\nu } , \\quad \\quad w _ { 0 } = ( p + 1 ) M \\frac { r _ { h } ^ { p + 1 } } { \\ell ^ { p + 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { \\eta } _ { 0 }$ is the holographic shear viscosity of the dual fluid. With the corresponding entropy density $s _ { 0 }$ ， we have ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\eta _ { 0 } = \\frac { r _ { h } ^ { p } } { \\ell ^ { p } } , \\qquad s _ { 0 } = \\frac { 1 } { 4 G _ { p + 2 } } \\frac { r _ { h } ^ { p } } { \\ell ^ { p } } \\Rightarrow \\frac { \\eta _ { 0 } } { s _ { 0 } } = \\frac { 1 } { 4 \\pi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and the thermodynamic relation $T _ { H } s _ { 0 } = w _ { 0 } - n _ { 0 } \\mu _ { 0 }$ still holds. Furthermore,we can redefine the following stress tensor by moving out the terms associated with the boundary chemical potential ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { T } _ { \\mu \\nu } ^ { ( s ) } = T _ { H } s _ { 0 } \\left[ 1 + ( p + 1 ) P \\right] \\left[ u _ { \\mu } u _ { \\nu } + \\frac { \\eta _ { \\mu \\nu } } { p + 1 } \\right] - 2 \\eta _ { 0 } \\sigma _ { \\mu \\nu } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This form will be used later. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.2 Forced Navier-Stokes equations ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Using Gauss-Codazzi-Mainardi relations near the boundary [3]，we can obtain the constraint equations of gravity ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 D _ { A } \\left( K _ { C D } h ^ { C D } h _ { B } ^ { A } - K _ { B } ^ { A } \\right) = - 2 R _ { C D } h _ { B } ^ { C } N ^ { D } = - D _ { B } \\Phi \\nabla _ { D } \\Phi \\ N ^ { D } - F _ { C P } F _ { ~ D } ^ { P } h _ { B } ^ { C } \\ N ^ { A }\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $h _ { A B }$ ， $N ^ { A }$ and $K _ { A B }$ are respectively the induced metric, the outward pointing unit normal and the extrinsic curvature of the constant $r$ hypersurface, with the covariant derivative $D$ .When $r  \\infty$ , transforming these results into the boundary metric $\\eta _ { \\mu \\nu }$ of the dual fluid, we have ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { \\mu } T _ { \\nu } ^ { \\mu } = - \\operatorname * { l i m } _ { r  \\infty } \\frac { r ^ { p + 1 } } { \\ell ^ { p + 1 } } [ ( N ^ { C } \\nabla _ { C } \\Phi + \\frac { \\ell } { p - 1 } \\hat { D } ^ { 2 } \\Phi ) \\hat { D } _ { \\nu } \\Phi + N ^ { C } F _ { C D } F _ { \\nu } ^ { ~ D } ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Introduce the gauge field tensor $F _ { \\mu \\nu } ^ { ( b d ) } = 2 \\partial _ { [ \\mu } A _ { \\nu ] } ^ { ( b d ) }$ which comes from the boundary chemical potential $A _ { \\mu } ^ { ( b d ) } = - b _ { 0 } \\mu _ { 0 } ( 1 + P ) u _ { \\mu }$ and denote thebackground gaugefeldteoras $F _ { \\mu \\nu } ^ { ( b g ) } =$ $2 \\partial _ { [ \\mu } A _ { \\nu ) } ^ { ( b g ] }$ ，where $A _ { \\mu } ^ { ( b g ) } = A _ { \\mu } ^ { ( b d ) } + A _ { \\mu } ^ { ( e x ) }$ ,the $( p + 1 )$ constraint equations up to $\\epsilon ^ { 3 }$ become ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial ^ { \\mu } T _ { \\mu \\nu } = - \\partial _ { \\nu } \\phi \\left[ \\frac { r _ { h } ^ { p } } { \\ell ^ { p } } \\left( u ^ { \\mu } \\partial _ { \\mu } \\phi \\right) + \\frac { 1 } { p - 1 } \\frac { r _ { h } ^ { p - 1 } } { \\ell ^ { p - 2 } } ( \\partial ^ { \\mu } \\partial _ { \\mu } \\phi ) \\right] - \\mathcal { I } ^ { \\mu } F _ { \\mu \\nu } ^ { ( b g ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { \\mu \\nu } ^ { ( b g ) } = F _ { \\mu \\nu } ^ { ( e x ) } + F _ { \\mu \\nu } ^ { ( b d ) }$ ,andtheconstraint equationof Maxwel fedreads $\\partial ^ { \\mu } { \\mathcal { I } } _ { \\mu } =$ $n _ { ( q ) } \\dot { O } ^ { \\mu } u _ { \\mu } = 0$ . Using the redefined stress energy tensor (69),we get the forced NS equations at order $\\epsilon ^ { 3 }$ ， ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial ^ { \\mu } \\mathcal { T } _ { \\mu \\nu } ^ { ( w ) } = f _ { \\nu } ^ { ( \\phi ) } + f _ { \\nu } ^ { ( q ) } , \\qquad f _ { \\nu } ^ { ( q ) } = - n _ { ( q ) } u ^ { \\mu } F _ { \\mu \\nu } ^ { ( b g ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { \\nu } ^ { ( q ) }$ is just the Lorentz force of the charged fuid and $f _ { \\nu } ^ { ( \\phi ) }$ is the external force from the dilaton field up to $\\epsilon ^ { 3 }$ （20 ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\nu } ^ { ( \\phi ) } \\equiv - \\chi _ { 0 } \\left( u ^ { \\mu } \\partial _ { \\mu } \\phi \\partial ^ { \\nu } \\phi \\right) + \\xi _ { 0 } \\left( \\partial ^ { \\mu } \\phi \\partial _ { \\mu } \\partial ^ { \\nu } \\phi \\right) , \\quad \\chi _ { 0 } = \\frac { r _ { h } ^ { p } } { \\ell ^ { p } } , \\quad \\xi _ { 0 } = \\frac { p - 2 } { p ( p - 1 ) } \\frac { r _ { h } ^ { p - 1 } } { \\ell ^ { p - 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The Lorentz force up to $\\epsilon ^ { 3 }$ can also be divided into two parts as ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\nu } ^ { ( q ) } \\equiv f _ { \\nu } ^ { ( e x ) } + f _ { \\nu } ^ { ( b d ) } , \\qquad f _ { \\nu } ^ { ( e x ) } = - n _ { ( q ) } u ^ { \\mu } F _ { \\mu \\nu } ^ { ( e x ) } , \\qquad f _ { \\nu } ^ { ( b d ) } = - n _ { ( q ) } u ^ { \\mu } F _ { \\mu \\nu } ^ { ( b d ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In addition,we notice that the following relation holds at order $\\epsilon ^ { 3 }$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial ^ { \\mu } [ { \\mathcal { T } } _ { \\mu \\nu } ^ { ( w ) } - { \\mathcal { T } } _ { \\mu \\nu } ^ { ( s ) } ] b _ { 0 } = f _ { \\nu } ^ { ( b d ) } \\quad { \\xrightarrow { b _ { 0 } = 1 } } \\quad \\partial ^ { \\mu } { \\mathcal { T } } _ { \\mu \\nu } ^ { ( s ) } = f _ { \\nu } ^ { ( \\phi ) } + f _ { \\nu } ^ { ( e x ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Thus, if we define the fluid stress energy tensor as (71),with $b _ { 0 } = 1$ ，we can see that the external forces only come from the dilaton field and the external electromagnetic field. This result is consistent with the one in [4]. It would be more clear to see the non-relativistic results by neglecting higher order terms of the solutions in the covariant form. The solutions in（63）become ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle d s ^ { 2 } = + 2 d \\tau d r + \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ - V \\left( r \\right) d \\tau ^ { 2 } + \\delta _ { i j } d x ^ { i } d x ^ { j } \\right] - 2 v _ { i } d x ^ { i } d r - 2 \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ 1 - V ( r ) \\right] v _ { i } d x } \\\\ { \\displaystyle \\quad \\quad + v ^ { 2 } d \\tau d r + \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ r V ^ { \\prime } ( r ) P d \\tau ^ { 2 } + \\left( 1 - V \\left( r \\right) \\right) \\left( v ^ { 2 } d \\tau ^ { 2 } + v _ { i } v _ { j } d x ^ { i } d x ^ { j } \\right) \\right] } \\\\ { \\displaystyle \\quad \\quad + \\frac { r ^ { 2 } } { \\ell ^ { 2 } } \\left[ \\ell ^ { 2 } K ( r ) \\theta _ { \\diamond } d \\tau ^ { 2 } + \\left( 2 \\ell \\mathcal { F } ( r ) \\sigma _ { i j } + \\ell ^ { 2 } \\mathcal { F } _ { \\phi } ( r ) ( \\sigma _ { \\phi } ) _ { i j } \\right) d x ^ { i } d x ^ { j } \\right] , } \\\\ { \\displaystyle \\quad \\quad A = \\left[ U ( r ) \\left( 1 + P + v ^ { 2 } / 2 \\right) - r P U ^ { \\prime } ( r ) + A _ { \\tau } ^ { ( \\epsilon , x ) } \\right] d \\tau + \\left[ - U ( r ) v _ { i } + A _ { i } ^ { ( \\epsilon , x ) } \\right] d x ^ { i } , } \\\\ { \\displaystyle \\quad \\Phi = \\phi ( x ) + \\ell \\mathcal { F } ( r ) \\left( \\partial _ { \\tau } \\phi + v ^ { i } \\partial _ { i } \\phi \\right) + \\ell ^ { 2 } \\mathcal { F } _ { \\phi } ( r ) ( \\partial ^ { i } \\partial _ { \\partial } \\phi ) , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "up to $\\epsilon ^ { 2 }$ , where the shear tensors are ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { i j } = \\partial _ { ( i } v _ { j ) } - \\frac { \\delta _ { i j } } { p } \\theta , \\qquad ( \\sigma _ { \\phi } ) _ { i j } = \\partial _ { ( i } \\phi \\partial _ { j ) } \\phi - \\frac { \\delta _ { i j } } { p } \\theta _ { \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "and $\\theta = \\delta ^ { i j } \\partial _ { i } v _ { j }$ ， $\\theta _ { \\phi } = \\delta ^ { i j } \\partial _ { i } \\phi \\partial _ { j } \\phi$ . Our aim is to obtain the forced NS equations, which turn out to be the constraint equations of the gravitational field equations (54) at order $\\epsilon ^ { 3 }$ . The solutions up to $\\epsilon ^ { 2 }$ are enough to provide the forced NS equations, because higher order corrections do not make contribution in this order. With the solutions (79),the constraint equations at order $\\epsilon ^ { 2 }$ give the incompressible condition $w _ { 0 } \\partial _ { i } v ^ { i } = 0$ , and at order $\\epsilon ^ { 3 }$ give us with ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { 0 } \\left( \\partial _ { \\tau } v _ { i } + v ^ { j } \\partial _ { j } v _ { i } + \\partial _ { i } P \\right) - \\eta _ { 0 } \\partial ^ { 2 } v _ { i } = f _ { i } ^ { ( \\phi ) } + f _ { i } ^ { ( q ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "These equations are just the temporal and spatial components of the equations in (75） up to $\\epsilon ^ { 3 }$ . Here the external forces only have the spatial components as ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ^ { ( \\phi ) } = - \\chi _ { 0 } \\left( v ^ { j } \\partial _ { j } \\phi \\partial _ { i } \\phi \\right) + \\xi _ { 0 } \\left( \\partial ^ { j } \\phi \\partial _ { j } \\partial _ { i } \\phi \\right) , \\qquad f _ { i } ^ { ( q ) } = - n _ { 0 } \\left( E _ { i } ^ { ( b g ) } + v ^ { j } B _ { j i } ^ { ( b g ) } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { i } ^ { ( b g ) } = F _ { \\tau i } ^ { ( b g ) }$ and $B _ { i j } ^ { ( b g ) } = F _ { i j } ^ { ( b g ) }$ = Fibg) are the background electric and magnetic fields respectively. Further we define the dynamic viscosity and the normalized forces as ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { [ w ] } = \\eta _ { 0 } / w _ { 0 } , \\qquad f _ { [ w ] i } ^ { ( \\phi ) } = f _ { i } ^ { ( \\phi ) } / w _ { 0 } , \\qquad f _ { [ w ] i } ^ { ( q ) } = f _ { i } ^ { ( q ) } / w _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "the forced incompressible NS equations then become ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { \\tau } v _ { i } + v ^ { j } \\partial _ { j } v _ { i } + \\partial _ { i } P - \\nu _ { [ w ] } \\partial ^ { 2 } v _ { i } = f _ { [ w ] i } ^ { ( \\phi ) } + f _ { [ w ] i } ^ { ( q ) } , \\qquad \\partial _ { i } v ^ { i } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "If we consider the characteristic scale $L \\sim \\epsilon ^ { - 1 }$ and the velocity $v = \\sqrt { v _ { i } v ^ { i } } \\sim \\epsilon$ , the Reynolds number of the dual fuid $\\mathcal { R } _ { e } = v L / \\nu _ { [ w ] } \\sim 4 \\pi T _ { H } \\left[ 1 + ( n _ { 0 } \\mu _ { 0 } ) / ( T _ { H } s _ { 0 } ) \\right]$ ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In addition, we can divide the electromagnetic forces into two parts $f _ { i } ^ { ( q ) } = f _ { i } ^ { ( b d ) } + f _ { i } ^ { ( e x ) }$ where ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i } ^ { ( e x ) } = - n _ { 0 } \\left( E _ { i } ^ { ( e x ) } + v ^ { j } B _ { j i } ^ { ( e x ) } \\right) , \\qquad f _ { i } ^ { ( b d ) } = \\ b _ { 0 } n _ { 0 } \\mu _ { 0 } ( \\partial _ { \\tau } v _ { i } + v ^ { j } \\partial _ { j } v _ { i } + \\partial _ { i } P ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { i } ^ { ( e x ) } = F _ { \\tau i } ^ { ( e x ) }$ and $B _ { i j } ^ { ( e x ) } = F _ { i j } ^ { ( e x ) }$ Then $f _ { i } ^ { ( e x ) }$ is just the Lorentz force from the extra electromagnetic field, while $f _ { i } ^ { ( b d ) }$ from the boundary chemical potential. We now move the term $f _ { i } ^ { ( b d ) }$ to the left-hand side of the NS equations. Defining the dynamic shear viscosity and the force density as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { [ s ] } = \\frac { \\eta _ { 0 } } { T _ { H } s _ { 0 } } = \\frac { 1 } { 4 \\pi T _ { H } } , \\qquad f _ { [ s ] i } ^ { ( \\phi ) } = \\frac { f _ { i } ^ { ( \\phi ) } } { T _ { H } s _ { 0 } } , \\qquad f _ { [ s ] i } ^ { ( e x ) } = \\frac { f _ { i } ^ { ( e x ) } } { T _ { H } s _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "we can rewrite the incompressible charged NS equations as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { \\tau } v _ { i } + v ^ { j } \\partial _ { j } v _ { i } + \\partial _ { i } P - \\nu _ { [ s ] } \\partial ^ { 2 } v _ { i } = f _ { [ s ] i } ^ { ( \\phi ) } + f _ { [ s ] i } ^ { ( e x ) } , \\qquad \\partial _ { i } v ^ { i } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In this case， the Reynolds number becomes $\\mathcal { R } _ { e } ~ = ~ v L / \\nu _ { [ s ] } \\propto T _ { H }$ ，proportional to the temperature of the fluid. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4 Holographic forced fluid at cutoff surface ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In this section， we will generalize the previous discussons to the case of dual fluid at a finite cutoff surface by using the method which is introduced in Section 2. In this case, we only need to substitute ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { t t } ( r ) = g _ { r r } ^ { - 1 } ( r ) = r ^ { 2 } V ( r ) / \\ell ^ { 2 } , \\qquad g _ { x x } ( r ) = r ^ { 2 } / \\ell ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "into the generic metric (1),and introduce a finite cutoff surface in the background solution and consider the non-relativistic expansions ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } _ { r } \\sim \\epsilon ^ { 0 } , \\qquad \\tilde { \\partial } _ { i } \\sim \\beta ^ { i } \\sim \\tilde { \\partial } _ { i } \\phi \\sim \\epsilon ^ { 1 } , \\qquad \\tilde { \\partial } _ { \\tau } \\sim \\tilde { \\cal P } \\sim \\epsilon ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The equations of motion to be solved are given by (55) and (54). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4.1 Charged fluid in non-relativistic limit ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Since we are considering the bulk solution with a finite cutof in this section,following [23], we choose the gauge that $g _ { r r } = 0$ ， $g _ { r a } \\propto \\tilde { u } _ { a }$ and $g _ { i i } ^ { ( 1 ) } = 0$ . The perturbed solution up to ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "order $\\epsilon ^ { 2 }$ with a Dirichlet boundary condition at the cutoff surface turns out to be ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { \\displaystyle d \\tilde { s } ^ { 2 } = - \\frac { 2 \\ell \\left[ 1 + \\tilde { \\mathcal { H } } ( \\tilde { r } ) ( r _ { c } ^ { 2 } \\tilde { \\theta } _ { \\phi } ) \\right] } { \\tilde { r } _ { c } \\sqrt { V ( \\tilde { r } _ { c } ) } } \\tilde { u } _ { a } ( \\tilde { x } ) d \\tilde { x } ^ { a } d \\tilde { r } + \\frac { \\tilde { r } ^ { 2 } } { \\tilde { r } _ { c } ^ { 2 } } \\left[ - \\frac { V ( \\tilde { r } ) } { V ( \\tilde { r } _ { c } ) } \\tilde { u } _ { a } ( \\tilde { x } ) \\tilde { u } _ { b } ( \\tilde { x } ) + \\tilde { \\mathcal { P } } _ { a b } ( \\tilde { x } ) \\right] } \\\\ { \\displaystyle \\qquad + \\frac { r ^ { 2 } } { r _ { c } ^ { 2 } } \\left[ \\tilde { K } ( r ) ( r _ { c } ^ { 2 } \\tilde { \\theta } _ { \\phi } ) \\frac { \\tilde { u } _ { a } \\tilde { u } _ { b } } { V ( r _ { c } ) } + 2 r _ { c } \\tilde { \\mathcal { F } } ( r ) \\sqrt { V ( r _ { c } ) } \\tilde { \\sigma } _ { a b } + r _ { c } ^ { 2 } \\tilde { \\mathcal { F } } _ { \\phi } ( r ) ( \\tilde { \\sigma } _ { \\phi } ) _ { a b } \\right] d \\tilde { x } ^ { a } d \\tilde { a } } \\\\ { \\displaystyle \\tilde { A } = \\tilde { A } _ { a } ( \\tilde { r } , \\tilde { x } ) d \\tilde { x } ^ { a } = \\left[ \\tilde { A } _ { a } ^ { ( b a ) } ( \\tilde { r } , \\tilde { x } ) + \\tilde { A } _ { a } ^ { ( e x ) } ( \\tilde { x } ) \\right] d \\tilde { x } ^ { a } + \\frac { \\ell } { r _ { c } } \\frac { \\mu _ { 0 } \\tilde { Q } ( r ) } { \\sqrt { V ( r _ { c } ) } } \\frac { r _ { b } ^ { p - 1 } } { r ^ { p - 1 } } ( r _ { c } ^ { 2 } \\tilde { \\theta } _ { \\phi } ) \\tilde { u } _ { a } ( \\tilde { x } ) } \\\\ { \\displaystyle \\bar { \\Phi } = \\phi ( \\tilde { x } ^ { a } ) + r _ { c } \\bar { \\mathcal { F } } ( r ) \\sqrt { V ( r _ { c } ) } \\left( \\bar { u } ^ { a } \\tilde { \\partial } _ { a } \\phi \\right) + r _ { c } ^ { 2 } \\tilde { \\mathcal { F } } _ { \\phi } ( r ) \\left( \\tilde { \\partial } ^ { a } \\tilde { \\partial } _ { a } \\phi \\right) , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where the gauge field relates to (63) through ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathbf { i } } _ { a } ^ { ( b d ) } ( \\tilde { r } , \\tilde { x } ) = - \\frac { \\ell } { \\tilde { r } _ { c } } \\frac { U ( \\tilde { r } ) } { \\sqrt { V ( \\tilde { r } _ { c } ) } } \\tilde { u } _ { a } ( \\tilde { x } ) , \\quad \\tilde { A } _ { a } ^ { ( e x ) } ( \\tilde { x } ) = - \\frac { \\ell } { \\tilde { r } _ { c } } \\frac { A _ { \\tau } ^ { ( e x ) } ( x ) } { \\sqrt { V ( \\tilde { r } _ { c } ) } } \\tilde { u } _ { a } ( \\tilde { x } ) + \\frac { \\ell } { \\tilde { r } _ { c } } A _ { i } ^ { ( e x ) } ( x ) \\tilde { n } _ { a } ^ { i } ( x ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and $\\tilde { n } _ { a } ^ { i } ( \\tilde { x } )$ are given in (27) with a coordinate-dependent velocity. Again keep in mind that we have already taken the non-relativistic limit (89) of the solution (90) up to order $\\epsilon ^ { 2 }$ （204号 and higher order terms do not make contribution in the following calculations, they are reserved just for a covariant form. For the shear perturbations due to the boost, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { F } } ( r ) = \\ell \\int _ { r } ^ { r _ { c } } \\frac { ( y ^ { p } - r _ { h } ^ { p } ) } { y ^ { p + 2 } V ( y ) } d y , \\qquad \\tilde { \\sigma } _ { a b } = \\tilde { \\partial } _ { ( a } \\tilde { u } _ { b ) } - \\frac { \\tilde { \\mathcal { P } } _ { a b } } { p } \\tilde { \\theta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and $\\tilde { \\theta } = \\tilde { \\eta } ^ { a b } \\tilde { \\partial } _ { a } \\tilde { u } _ { b } \\equiv \\tilde { \\mathcal { P } } ^ { a b } \\tilde { \\partial } _ { a } \\tilde { u } _ { b }$ . For the shear perturbations due to the dilaton field, ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { F } } _ { \\phi } ( r ) = \\frac { \\ell ^ { 2 } } { p - 1 } \\int _ { r } ^ { r _ { c } } \\frac { ( y ^ { p - 1 } - r _ { h } ^ { p - 1 } ) } { y ^ { p + 2 } V ( y ) } d y , \\qquad ( \\tilde { \\sigma } _ { \\phi } ) _ { a b } = \\tilde { \\partial } _ { ( a } \\phi \\tilde { \\partial } _ { b ) } \\phi - \\frac { \\tilde { \\mathcal { P } } _ { a b } } { p } \\tilde { \\theta } _ { \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { \\theta } _ { \\phi } \\equiv \\tilde { \\mathcal { P } } ^ { a b } ( \\tilde { \\partial } _ { a } \\phi \\tilde { \\partial } _ { b } \\phi )$ . The corresponding scalar perturbation equations give the following solutions ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\tilde { \\mathcal { H } } ( r ) = \\frac { \\ell ^ { 2 } } { 4 p ( p - 1 ) r _ { c } ^ { 2 } } \\frac { h ( r _ { c } ) } { \\sqrt { V ( r _ { c } ) } } , \\qquad \\tilde { \\mathcal { Q } } ( r ) = \\frac { \\ell ^ { 2 } } { 4 p ( p - 1 ) r _ { c } ^ { 2 } } \\frac { a ( r _ { c } ) } { \\sqrt { V ( r _ { c } ) } } \\left( 1 - \\frac { r ^ { p - 1 } } { r _ { c } ^ { p - 1 } } \\right) , } \\\\ { \\displaystyle \\tilde { K } ( r ) = \\frac { \\ell ^ { 2 } } { 2 p ( p - 1 ) r ^ { 2 } } \\left[ 1 - \\frac { r ^ { 2 } } { r _ { c } ^ { 2 } } \\frac { h ( r _ { c } ) V ( r ) } { \\sqrt { V ( r _ { c } ) } } + \\frac { r _ { c } ^ { p - 1 } } { r ^ { p - 1 } } \\left( h ( r _ { c } ) \\sqrt { V ( r _ { c } ) } - 1 \\right) + \\tilde { q } ( r ) \\right] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Here two of the integration constants in (94) have been determined via the Dirichlet boundary condition of $\\tilde { \\kappa } ( \\boldsymbol { r } )$ and $\\tilde { \\mathcal { Q } } ( \\boldsymbol { r } )$ . The other two integration constants $a ( r _ { c } )$ ， $h ( r _ { c } )$ ,and the notation ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { q } ( r ) = \\frac { h ( r _ { c } ) - a ( r _ { c } ) } { \\sqrt { V ( r _ { c } ) } } \\frac { r ^ { 2 } } { r _ { c } ^ { 2 } } \\frac { q ^ { 2 } \\ell ^ { 2 } } { r ^ { 2 p } } \\left( 1 - \\frac { r ^ { p + 1 } } { r _ { c } ^ { p + 1 } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "will be determined via choosing the Landau gauge of the stress energy tensor of dual fuid and the induced charge current, whose expressons are given by ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ( r _ { c } ) = 2 ( \\tilde { K } \\eta _ { a b } - \\tilde { K } _ { a b } ) + \\tilde { \\mathcal { T } } _ { a b } ^ { ( c t ) } , \\qquad \\tilde { \\mathcal { T } } _ { a } ^ { ( q ) } ( r _ { c } ) = \\tilde { N } _ { C } \\tilde { F } _ { a } ^ { \\ C } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The counter term at the cutoff surface is ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { ( c t ) } = - \\tilde { c } ( r _ { c } ) \\left[ \\frac { 2 p } { \\ell } \\tilde { \\eta } _ { a b } + \\frac { \\ell } { ( p - 1 ) } \\left( \\tilde { \\partial } _ { a } \\phi \\tilde { \\partial } _ { b } \\phi - \\frac { \\tilde { \\eta } _ { a b } } { 2 } ( \\tilde { \\partial } \\phi ) ^ { 2 } \\right) \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { c } ( r _ { c } )$ could be an arbitrary function of $r _ { c }$ . In fact,at the finite cutoff surface, the counter term is not necessary. To match the results at the AdS boundary in the case without the cutoff surface, we here add the counter term and can take $\\tilde { c } ( r _ { c } ) = 1$ ： ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The stress energy tensor and current in the derivative expansion of the fluid dual to the perturbed solution (90) can be written as ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\tilde { \\mathcal { T } } _ { a b } ( r _ { c } ) = \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } + \\tilde { \\mathcal { T } } _ { a b } ^ { ( 1 ) } + \\tilde { \\mathcal { T } } _ { a b } ^ { ( 2 ) } + . . . , \\tilde { \\mathcal { T } } _ { a b } ^ { ( 0 ) } = \\tilde { w } ( r _ { c } ) \\tilde { u } _ { a } \\tilde { u } _ { b } + \\tilde { p } ( r _ { c } ) \\tilde { \\eta } _ { a b } , } \\\\ & { \\tilde { \\mathcal { T } } _ { a } ^ { ( q ) } ( r _ { c } ) = \\tilde { \\mathcal { T } } _ { a } ^ { ( 0 ) } + \\tilde { \\mathcal { T } } _ { a } ^ { ( 1 ) } + \\tilde { \\mathcal { T } } _ { a } ^ { ( 2 ) } + . . . , \\tilde { \\mathcal { T } } _ { a } ^ { ( 0 ) } = \\tilde { n } ( r _ { c } ) \\tilde { u } _ { a } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { w } ( r _ { c } ) = \\tilde { \\rho } ( r _ { c } ) + \\tilde { p } ( r _ { c } )$ . The zeroth order parts in derivative expansion are just the stress energy tensor and current of ideal charged fluid. The energy density $\\tilde { \\rho } ( r _ { c } )$ ， pressure （20 $\\tilde { p } ( r _ { c } )$ ， and charge density $\\tilde { n } ( r _ { c } )$ up to order $\\epsilon ^ { 2 }$ in the non-relativistic expansion are given by ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r l } & { \\tilde { \\rho } ( r _ { c } ) = \\tilde { \\rho } _ { 0 } ( r _ { c } ) - ( r _ { c } P ) \\tilde { \\rho } _ { 0 } ^ { \\prime } ( r _ { c } ) , } & & { \\tilde { \\rho } _ { 0 } ( r _ { c } ) = - \\frac { 2 p \\sqrt { V ( r _ { c } ) } } { \\ell } + \\frac { 2 p \\tilde { c } ( r _ { c } ) } { \\ell } , } \\\\ & { \\tilde { p } ( r _ { c } ) = \\tilde { p } _ { 0 } ( r _ { c } ) - ( r _ { c } P ) \\tilde { p } _ { 0 } ^ { \\prime } ( r _ { c } ) , } & & { \\tilde { p } _ { 0 } ( r _ { c } ) = \\frac { r _ { c } V ^ { \\prime } ( r _ { c } ) } { \\ell \\sqrt { V ( r _ { c } ) } } - \\tilde { \\rho } _ { 0 } ( r _ { c } ) , } \\\\ & { \\tilde { n } ( r _ { c } ) = \\tilde { n } _ { 0 } ( r _ { c } ) - ( r _ { c } P ) \\tilde { n } _ { 0 } ^ { \\prime } ( r _ { c } ) , } & & { \\tilde { n } _ { 0 } ( r _ { c } ) = U ^ { \\prime } ( r _ { c } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The higher order terms in derivative expansion (98) are the dissipative parts of the tessee $\\tilde { \\mathcal { T } } _ { a b } ^ { ( d i s s ) }$ and $\\tilde { \\mathcal { T } } _ { a b } ^ { ( d i s s ) }$ . Then using the Landau gauge up to ， ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu ^ { a } \\tilde { \\mathcal { T } } _ { a b } ^ { ( d i s s ) } = 0 \\Rightarrow h ( r _ { c } ) = \\tilde { c } ( r _ { c } ) , \\qquad \\tilde { u } ^ { a } \\tilde { \\mathcal { T } } _ { a } ^ { ( d i s s ) } = 0 \\Rightarrow a ( r _ { c } ) = h ( r _ { c } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "so that $\\tilde { q } ( r ) = 0$ ,and when $r _ { c } \\to \\infty$ we can recover the results (63) at the AdS boundary via transforming them to the coordinates in the boundary. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "After imposing the Landau gauge (10O) up to order $\\epsilon ^ { 2 }$ , we have $\\tilde { \\mathcal { I } } _ { a } ^ { ( 1 ) } = \\tilde { \\mathcal { I } } _ { a } ^ { ( 2 ) } = 0$ and ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { ( 1 ) } = - 2 \\tilde { \\eta } _ { 0 } ( r _ { c } ) \\tilde { \\sigma } _ { a b } , \\qquad \\tilde { \\mathcal { T } } _ { a b } ^ { ( 2 ) } = - 2 \\tilde { \\eta } _ { \\phi } ( r _ { c } ) \\bigl ( \\tilde { \\sigma } _ { \\phi } \\bigr ) _ { a b } - \\tilde { \\zeta } _ { \\phi } ( r _ { c } ) \\tilde { \\theta } _ { \\phi } \\mathcal { P } _ { a b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "where the cutoff-dependent shear viscosity and entropy density are ",
+        "page_idx": 19
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\eta } _ { 0 } ( r _ { c } ) = \\frac { r _ { h } ^ { p } } { r _ { c } ^ { p } } , \\qquad \\tilde { s } _ { 0 } ( r _ { c } ) = \\frac { 1 } { 4 G _ { p + 2 } } \\frac { r _ { h } ^ { p } } { r _ { c } ^ { p } } \\Rightarrow \\frac { \\tilde { \\eta } _ { 0 } ( r _ { c } ) } { \\tilde { s } _ { 0 } ( r _ { c } ) } = \\frac { 1 } { 4 \\pi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "And the coefficients associated with dilaton $\\phi$ are ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\tilde { \\eta } _ { \\phi } ( \\boldsymbol { r } _ { c } ) = \\frac { \\ell } { 2 ( p - 1 ) \\sqrt { V ( \\boldsymbol { r } _ { c } ) } } \\left[ \\frac { r _ { h } ^ { p - 1 } } { r _ { c } ^ { p - 1 } } + \\tilde { c } ( \\boldsymbol { r } _ { c } ) \\sqrt { V ( \\boldsymbol { r } _ { c } ) } - 1 \\right] , } \\\\ { \\displaystyle \\tilde { \\zeta } _ { \\phi } ( \\boldsymbol { r } _ { c } ) = \\frac { \\ell } { 2 p \\sqrt { V ( \\boldsymbol { r } _ { c } ) } } \\left[ 1 - \\tilde { c } ( \\boldsymbol { r } _ { c } ) \\sqrt { V ( \\boldsymbol { r } _ { c } ) } - \\frac { \\tilde { c } ( \\boldsymbol { r } _ { c } ) r _ { c } V ^ { \\prime } ( \\boldsymbol { r } _ { c } ) } { 2 ( p - 1 ) \\sqrt { V ( \\boldsymbol { r } _ { c } ) } } \\right] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,at the zeroth order, from (7) and (99),one has ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { T } _ { \\circ } ( r _ { c } ) = \\frac { r _ { h } ^ { 2 } V ^ { \\prime } ( r _ { h } ) } { 4 \\pi \\ell r _ { c } \\sqrt { V ( r _ { c } ) } } , \\qquad \\tilde { w } _ { 0 } ( r _ { c } ) = \\tilde { \\rho } _ { \\circ } ( r _ { c } ) + \\tilde { p } _ { 0 } ( r _ { c } ) = \\frac { r _ { c } V ^ { \\prime } ( r _ { c } ) } { \\ell \\sqrt { V ( r _ { c } ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "as well as $\\tilde { n } _ { \\scriptscriptstyle 0 } ( r _ { c } )$ in (99),and $\\tilde { s } _ { \\scriptscriptstyle 0 } ( r _ { c } )$ in (102), thus one can show that the following thermodynamical relation still holds for the fluid at the cutoff surface ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) = \\tilde { w } _ { 0 } ( r _ { c } ) - \\tilde { n } _ { 0 } ( r _ { c } ) \\tilde { \\mu } _ { 0 } ( r _ { c } ) , \\qquad \\tilde { \\mu } _ { 0 } ( r _ { c } ) = \\frac { \\ell \\left[ U ( r _ { c } ) - U ( r _ { h } ) \\right] } { r _ { c } \\sqrt { V ( r _ { c } ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "where the chemical potential $\\tilde { \\mu } _ { \\scriptscriptstyle 0 } ( r _ { c } )$ is defined as the difference of the gauge potential between the horizon and the cutoff surface. The dimensionless coordinate invariant diffusivity defined in [5] is ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { D } _ { c } ( r _ { c } ) = \\tilde { T } _ { 0 } ( r _ { c } ) \\frac { \\tilde { \\eta } _ { 0 } ( r _ { c } ) } { \\tilde { w } _ { 0 } ( r _ { c } ) } = \\frac { 1 } { 4 \\pi } \\left[ 1 + \\frac { \\tilde { n } _ { 0 } ( r _ { c } ) \\mu _ { 0 } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) } \\right] ^ { - 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "which shows the dependence of the cutoff surface when the chemical potential is present. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.2 Forced Navier-Stokes equations ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "As what has been done in section 3.1, we can redefine the stress energy tensor of the dual fluid as ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { ( w ) } = \\tilde { w } ( r _ { c } ) \\tilde { u } _ { a } \\tilde { u } _ { b } + \\tilde { p } ( r _ { c } ) \\tilde { \\eta } _ { a b } - 2 \\tilde { \\eta } _ { 0 } ( r _ { c } ) \\tilde { \\sigma } _ { a b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "by moving out the part of dilaton field. By using the constraint equations at the cutoff surface for gravitational field (72） and Maxwell field, up to $\\epsilon ^ { 3 }$ we can get the forced NS equations and the conservation equation of charge current ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial ^ { a } \\tilde { \\mathcal { T } } _ { a b } ^ { ( w ) } = \\tilde { f } _ { b } ^ { ( \\phi ) } ( r _ { c } ) + \\tilde { f } _ { b } ^ { ( q ) } ( r _ { c } ) , \\qquad \\partial ^ { a } \\tilde { \\mathcal { T } } _ { a } ^ { ( q ) } = \\tilde { n } _ { 0 } ( r _ { c } ) \\partial ^ { a } \\tilde { u } _ { a } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "where the external force from the dilaton field is ",
+        "page_idx": 20
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { } ^ { \\phi ) } ( { \\boldsymbol { r } _ { c } } ) = - \\tilde { \\chi } _ { 0 } ( { \\boldsymbol { r } _ { c } } ) \\left( \\tilde { u } ^ { a } \\tilde { \\partial } _ { a } \\phi \\tilde { \\partial } _ { b } \\phi \\right) + \\tilde { \\xi } _ { 0 } ( { \\boldsymbol { r } _ { c } } ) \\left( \\tilde { \\partial } ^ { a } \\tilde { \\partial } _ { a } \\phi \\tilde { \\partial } _ { b } \\phi \\right) , \\qquad \\tilde { \\chi } _ { 0 } ( { \\boldsymbol { r } _ { c } } ) = \\tilde { \\eta } _ { 0 } ( { \\boldsymbol { r } _ { c } } ) = \\frac { { \\boldsymbol { r } _ { h } ^ { p } } } { { \\boldsymbol { r } _ { c } ^ { p } } } , } } \\\\ { { \\displaystyle ( { \\boldsymbol { r } _ { c } } ) = \\frac { ( p - 2 ) \\ell } { p ( p - 1 ) \\sqrt { V ( { \\boldsymbol { r } _ { c } } ) } } \\left[ \\frac { { \\boldsymbol { r } _ { h } ^ { p - 1 } } } { { \\boldsymbol { r } _ { c } ^ { p - 1 } } } + \\frac { 1 } { ( p - 2 ) } \\left( 1 - \\tilde { c } ( { \\boldsymbol { r } _ { c } } ) \\sqrt { V ( { \\boldsymbol { r } _ { c } } ) } - \\frac { \\tilde { c } ( { \\boldsymbol { r } _ { c } } ) { \\boldsymbol { r } _ { c } } V ^ { \\prime } ( { \\boldsymbol { r } _ { c } } ) } { 2 \\sqrt { V ( { \\boldsymbol { r } _ { c } } ) } } \\right) \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "And the Lorentz force of the charged fluid is ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { f } _ { b } ^ { ( q ) } ( r _ { c } ) = \\tilde { f } _ { b } ^ { ( e x ) } + \\tilde { f } _ { b } ^ { ( b d ) } , \\qquad \\tilde { f } _ { b } ^ { ( e x ) } = - \\tilde { \\mathcal { I } } _ { ( q ) } ^ { a } \\tilde { F } _ { a b } ^ { ( e x ) } , \\qquad \\tilde { f } _ { b } ^ { ( b d ) } = - \\tilde { \\mathcal { I } } _ { ( q ) } ^ { a } \\tilde { F } _ { a b } ^ { ( b d ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "a $\\tilde { F } _ { a b } ^ { ( e x ) } = 2 \\partial _ { [ a } \\tilde { A } _ { b ] } ^ { ( e x ) } ( r _ { c } )$ od t $\\tilde { F } _ { a b } ^ { ( b d ) } = 2 \\partial _ { [ a } \\tilde { A } _ { b ] } ^ { ( b d ) } ( r _ { c } )$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { A } _ { a } ^ { ( b d ) } ( r _ { c } ) = - \\left[ \\tilde { \\mu } _ { _ { ( b ) } } ( r _ { c } ) - ( r _ { c } P ) \\tilde { \\mu } _ { _ { ( b ) } } ^ { \\prime } ( r _ { c } ) \\right] \\tilde { u } _ { a } , \\qquad \\tilde { \\mu } _ { _ { ( b ) } } ( r _ { c } ) = { \\frac { \\ell U ( r _ { c } ) } { r _ { c } \\sqrt { V ( r _ { c } ) } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "If we furthermore redefine the following stress energy tensor by moving out the terms associated with the boundary chemical potential ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { T } } _ { a b } ^ { ( s ) } = \\tilde { T } _ { 0 } ( \\tilde { r } _ { c } ) s _ { 0 } ( \\tilde { r } _ { c } ) \\tilde { u } _ { a } \\tilde { u } _ { b } + [ \\tilde { p } _ { 0 } ( \\tilde { r } _ { c } ) - \\tilde { n } _ { 0 } ( r _ { c } ) \\tilde { \\mu } _ { 0 } ( \\tilde { r } _ { c } ) ] \\tilde { \\eta } _ { a b } - 2 \\tilde { \\eta } _ { 0 } ( r _ { c } ) \\tilde { \\sigma } _ { a b } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { r } _ { c } = r _ { c } ( 1 - P )$ ，when $b _ { 0 } = 1$ ， one has $U ( r _ { h } ) = 0$ ，and $\\tilde { \\mu } _ { _ { ( b ) } } ( r _ { c } )$ is just the chemical potential $\\widetilde { \\mu } _ { \\scriptscriptstyle 0 } ( r _ { c } )$ of the fluid at the cutoff surface, the following relation holds up to order （204号 $\\epsilon ^ { 3 }$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } ^ { a } [ \\tilde { \\mathcal { T } } _ { a b } ^ { ( w ) } - \\tilde { \\mathcal { T } } _ { a b } ^ { ( s ) } ] \\tilde { \\mu } _ { ( b ) } ( r _ { c } ) = \\tilde { \\mu } _ { 0 } ( r _ { c } ) \\tilde { f } _ { b } ^ { ( b d ) } \\quad \\xrightarrow [ ] { b _ { 0 } = 1 } \\quad \\tilde { \\partial } ^ { a } \\tilde { \\mathcal { T } } _ { a b } ^ { ( s ) } = \\tilde { f } _ { b } ^ { ( \\phi ) } + \\tilde { f } _ { b } ^ { ( e x ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "This keeps the same form as in the case at AdS boundary discussed in the previous section.In this case, the external forces only come from the dilaton field and the external electromagnetic field. To see the above results more clearly, we write the them up to the desired order.For example, the solutions (9O) up to order $\\epsilon ^ { 2 }$ are, ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\begin{array} { l l } { t \\dot { \\tilde { z } } ^ { 2 } = \\frac { 2 \\tilde { x } } { \\tau _ { \\perp } } \\sqrt { \\dot { \\nabla } ( \\tilde { \\Gamma } ) } \\dot { x } d t + \\frac { 2 ^ { 2 } } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } [ - \\frac { \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } \\dot { x } ^ { 2 } + \\frac { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } \\dot { x } ^ { 2 } + \\tilde { \\beta } _ { i 2 } \\dot { \\alpha } ^ { 2 } \\dot { \\alpha } ^ { 2 } \\dot { \\alpha } ^ { 2 } ] - \\frac { t ^ { 2 } } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } [ 1 - \\frac { \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } ] \\dot { \\bar { z } } } \\\\ { \\quad + \\frac { 2 \\tilde { \\Gamma } } { \\tau _ { \\perp } } \\sqrt { \\dot { \\nabla } ( \\tilde { \\Gamma } ) } [ - \\dot { \\beta } \\dot { \\alpha } \\dot { \\alpha } ^ { 4 } \\dot { \\alpha } ^ { 2 } \\dot { \\alpha } ^ { 2 } \\dot { \\beta } - \\frac { \\nabla } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } \\dot { x } ^ { 2 } + \\frac { \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } \\dot { \\bar { y } } + \\frac { \\dot { \\beta } ^ { 2 } } { 2 } ] \\dot { \\bar { z } } \\dot { \\alpha } \\dot { \\alpha } \\dot { \\alpha } + \\hat { \\mathrm { M } } _ { \\parallel } \\dot { \\gamma } ( \\tilde { \\Gamma } ) \\dot { \\bar { \\Gamma } } ( \\tilde { \\bar { \\alpha } } ^ { 2 } \\dot { \\beta } ) } \\\\ { \\quad + \\frac { 2 ^ { 2 } } { \\tilde { \\Gamma } ^ { 2 } } \\sqrt { \\dot { \\Gamma } ( \\tilde { \\Gamma } ) } \\dot { \\bar { x } } ^ { 2 } ( \\frac { \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } - \\frac { \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } ) \\dot { \\bar { y } } \\dot { \\bar { z } } ^ { 2 } + \\frac { \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } { \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) } [ 3 \\tilde { \\Gamma } ( \\tilde { \\Gamma } ) ] ( \\tilde { \\Gamma } ^ { 2 } + \\tilde { \\beta } _ { i 2 } ) } \\\\  \\quad + \\frac  \\dot { \\nabla } \\tilde { \\Gamma } ( \\tilde \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "and the shear components are given by ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\sigma } _ { i j } = \\tilde { \\partial } _ { ( i } \\beta _ { j ) } - \\frac { \\delta _ { i j } } { p } \\tilde { \\partial } _ { k } \\beta ^ { k } , \\qquad ( \\tilde { \\sigma } _ { \\phi } ) _ { i j } = \\tilde { \\partial } _ { ( i } \\phi \\tilde { \\partial } _ { j ) } \\phi - \\frac { \\delta _ { i j } } { p } \\tilde { \\theta } _ { \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "where $\\tilde { { \\theta } } = \\delta ^ { i j } \\tilde { \\partial } _ { i } \\beta _ { j }$ ， $\\bar { \\theta } _ { \\phi } = \\delta ^ { i j } \\bar { \\partial } _ { i } \\phi \\bar { \\partial } _ { j } \\phi$ . At order $\\epsilon ^ { 2 }$ , the temporal component of the forced NS equations in (108) turns out to be ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { w } _ { 0 } ( r _ { c } ) \\tilde { \\partial } _ { i } \\beta ^ { i } = 0 , \\qquad \\tilde { w } _ { 0 } ( r _ { c } ) = r _ { c } V ^ { \\prime } ( r _ { c } ) / ( \\ell \\sqrt { V ( r _ { c } ) } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "which leads to the incompressible condition, and the spatial component at order $\\epsilon ^ { 3 }$ is ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { w } _ { 0 } ( r _ { c } ) \\Big ( \\tilde { \\partial } _ { \\tau } \\beta _ { i } + \\beta ^ { j } \\tilde { \\partial } _ { j } \\beta _ { i } \\Big ) - r _ { c } \\tilde { p } _ { 0 } ^ { \\prime } ( r _ { c } ) \\tilde { \\partial } _ { i } P - \\eta _ { 0 } ( r _ { c } ) \\tilde { \\partial } ^ { 2 } \\beta _ { i } = \\tilde { f } _ { i } ^ { ( \\phi ) } ( r _ { c } ) + \\tilde { f } _ { i } ^ { ( q ) } ( r _ { c } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "where only the spatial components of external forces remain ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\tilde { f } _ { i } ^ { ( \\phi ) } ( \\boldsymbol { r } _ { c } ) \\equiv - \\tilde { \\chi } _ { 0 } ( \\boldsymbol { r } _ { c } ) \\left( \\beta ^ { j } \\tilde { \\partial } _ { j } \\phi \\tilde { \\partial } _ { i } \\phi \\right) + \\tilde { \\xi } _ { 0 } ( \\boldsymbol { r } _ { c } ) \\left( \\tilde { \\partial } ^ { j } \\phi \\tilde { \\partial } _ { j } \\tilde { \\partial } _ { i } \\phi \\right) , } \\\\ & { \\tilde { f } _ { i } ^ { ( q ) } ( \\boldsymbol { r } _ { c } ) \\equiv - \\tilde { n } _ { 0 } ( \\boldsymbol { r } _ { c } ) \\left( \\tilde { F } _ { \\tau i } ^ { ( e x ) } + \\beta ^ { j } \\tilde { F } _ { j i } ^ { ( e x ) } \\right) - \\tilde { n } _ { 0 } ( \\boldsymbol { r } _ { c } ) \\left( \\tilde { F } _ { \\tau i } ^ { ( b d ) } + \\beta ^ { j } \\tilde { F } _ { j i } ^ { ( b d ) } \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "If further redefine ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { P } _ { [ w ] } = - \\frac { r _ { c } \\tilde { p } _ { 0 } ^ { \\prime } ( r _ { c } ) } { \\tilde { w } _ { 0 } ( r _ { c } ) } \\tilde { P } , \\quad \\tilde { \\nu } _ { [ w ] } = \\frac { \\eta _ { 0 } ( r _ { c } ) } { \\tilde { w } _ { 0 } ( r _ { c } ) } , \\quad \\tilde { f } _ { [ w ] i } ^ { ( \\phi ) } = \\frac { f _ { i } ^ { ( \\phi ) } ( r _ { c } ) } { \\tilde { w } _ { 0 } ( r _ { c } ) } , \\quad \\tilde { f } _ { [ w ] i } ^ { ( q ) } = \\frac { f _ { i } ^ { ( q ) } ( r _ { c } ) } { \\tilde { w } _ { 0 } ( r _ { c } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "we can obtain the incompressible forced NS equations as ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } _ { \\tau } \\beta _ { i } + \\beta ^ { j } \\tilde { \\partial } _ { j } \\beta _ { i } + \\tilde { \\partial } _ { i } \\tilde { P } _ { [ w ] } - \\tilde { \\nu } _ { [ w ] } \\tilde { \\partial } ^ { 2 } \\beta _ { i } = \\tilde { f } _ { [ w ] i } ^ { ( \\phi ) } + \\tilde { f } _ { [ w ] i } ^ { ( q ) } , \\qquad \\tilde { \\partial } _ { i } \\beta ^ { i } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Consider the characteristic scale of perturbations $L \\sim \\epsilon ^ { - 1 }$ and velocity $\\beta = \\sqrt { \\beta _ { i } \\beta ^ { i } } \\sim \\epsilon$ ， the Reynolds number of the fluid turns out to be ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\mathcal { R } } _ { e } ( r _ { c } ) = \\frac { \\beta L } { \\tilde { \\nu } _ { \\scriptscriptstyle 0 } ( r _ { c } ) } \\propto \\frac { 1 } { \\tilde { \\nu } _ { \\scriptscriptstyle 0 } ( r _ { c } ) } = \\frac { \\tilde { T } _ { \\scriptscriptstyle 0 } ( r _ { c } ) } { \\bar { D } _ { c } ( r _ { c } ) } = 4 \\pi \\tilde { T } _ { \\scriptscriptstyle 0 } ( r _ { c } ) \\left[ 1 + \\frac { \\tilde { n } _ { \\scriptscriptstyle 0 } ( r _ { c } ) \\mu _ { \\scriptscriptstyle 0 } ( r _ { c } ) } { \\tilde { T } _ { \\scriptscriptstyle 0 } ( r _ { c } ) s _ { \\scriptscriptstyle 0 } ( r _ { c } ) } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "We can see that for uncharged black brane where the chemical potential vanishes， the Reynolds number of the dual fluid is proportional to the local temperature at the cutoff surface. Thus, when the cutoff surface approaches the horizon, the local temperature as well as the Reynolds number become larger and larger, and the fluid may become unstable. This instability may relate to the superluminal hydrodynamic sound modes when the cutoff surface is sufficiently close to the horizon [23, 44]. In addition,as in section 3.2，we can divide the electromagnetic forces into two parts: $\\tilde { f } _ { i } ^ { ( q ) } ( r _ { c } ) = \\tilde { f } _ { i } ^ { ( e x ) } ( r _ { c } ) + \\tilde { f } _ { i } ^ { ( b d ) } ( r _ { c } )$ ,where ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\tilde { f } _ { i } ^ { ( e x ) } ( \\boldsymbol { r } _ { c } ) = - \\tilde { n } _ { 0 } ( r _ { c } ) \\left( \\tilde { \\partial } _ { \\tau } \\tilde { A } _ { i } ^ { ( e x ) } - \\tilde { \\partial } _ { i } \\tilde { A } _ { \\tau } ^ { ( e x ) } + v ^ { j } \\tilde { \\partial } _ { j } \\tilde { A } _ { i } ^ { ( e x ) } - v ^ { j } \\tilde { \\partial } _ { i } \\tilde { A } _ { j } ^ { ( e x ) } \\right) , } \\\\ & { \\tilde { f } _ { i } ^ { ( b d ) } ( \\boldsymbol { r } _ { c } ) = \\tilde { n } _ { 0 } ( r _ { c } ) \\left[ \\tilde { \\mu } _ { 0 } ( r _ { c } ) \\left( \\partial _ { \\tau } \\beta _ { i } + \\beta ^ { j } \\partial _ { j } \\beta _ { i } \\right) - r _ { c } \\tilde { \\mu } _ { 0 } ^ { \\prime } ( r _ { c } ) \\partial _ { i } P \\right] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Define ",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { P } _ { [ s ] } = \\frac { \\tilde { n } _ { 0 } ( r _ { c } ) r _ { c } \\tilde { \\mu } _ { 0 } ^ { \\prime } ( r _ { c } ) - r _ { c } \\tilde { p } _ { 0 } ^ { \\prime } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) } \\tilde { P } , \\quad \\tilde { f } _ { [ s ] ^ { i } } ^ { ( \\phi ) } = \\frac { \\tilde { f } _ { i } ^ { ( \\phi ) } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) } , \\quad \\tilde { f } _ { [ s ] i } ^ { ( e x ) } = \\frac { \\tilde { f } _ { i } ^ { ( e x ) } ( r _ { c } ) } { \\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "and the dynamical shear viscosity $\\tilde { \\nu } _ { [ s ] } = \\eta _ { 0 } ( r _ { c } ) / [ \\tilde { T } _ { 0 } ( r _ { c } ) s _ { 0 } ( r _ { c } ) ]$ , the forced NS equations (121) then become ",
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { \\partial } _ { \\tau } \\beta _ { i } + \\beta ^ { j } \\tilde { \\partial } _ { j } \\beta _ { i } + \\tilde { \\partial } _ { i } \\tilde { P } _ { [ s ] } - \\tilde { \\nu } _ { [ s ] } \\tilde { \\partial } ^ { 2 } \\beta _ { i } = \\tilde { f } _ { [ s ] i } ^ { ( \\phi ) } + \\tilde { f } _ { [ s ] i } ^ { ( e x ) } , \\qquad \\tilde { \\partial } _ { i } \\beta ^ { i } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "In this case, the external forces only come from the additional electromagnetic field and dilaton field. And the Reynolds number has the form $\\tilde { \\mathcal { R } } _ { e } ( r _ { c } ) \\propto \\tilde { \\nu } _ { [ s ] } ^ { - 1 } ( r _ { c } ) = 4 \\pi \\tilde { T } _ { 0 } ( r _ { c } )$ ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "We have studied the thermodynamics and non-relativistic hydrodynamics of the holographic fluid at a finite cutoff surface. As a calculation example,we have considered the case with the Gauss-Bonnet gravity. The isentropic flow and shear viscosity of the dual fuid have been obtained. The radial Einstein equation implies the isentropy of RG flow was first proposed in [5],and here we have generalized the discussion to the case of the Gauss-Bonnet gravity. The isentropy of RG flow can also be considered as an adiabatic process of the dual fuid. Note that instead of the entropy associated with the holography screen [45, 46], here the total entropy of the dual fuid is the horizon entropy of the background black brane, hence cutof-independent. We have given a general formula (50) on the ratio of shear viscosity over entropy density of the fluid dual to the Gauss-Bonnet gravity. It shows that the ratio is independent of the cutof surface. Namely it does not run with the cutoff surface. This may explain why the membrane paradigm [47, 48] and the AdS/CFT correspondence [49, 50, 51, 52, 53, 54, 55, 56] give the same result. This formula is also valid for the fluid dual to the Rindler spacetime in Gauss-Bonnet gravity. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The main goal of this paper is to give the expressions of external force, coming from the bulk matters,of holographic fluid in the non-relativistic limit. To this end,we have considered an Einstein-Maxwell-dilaton system with a negative cosmological constant. By using the non-relativistic fluid expansion method,we have solved the system up to the second order of non-relativistic fluid expansion parameter $\\epsilon$ ，and obtained the incompressible forced NS equations of the dual fluid at the AdS boundary and at a finite cutoff surface,respectively. The concrete expressons of external forces from the dilaton field and Maxwell field have been given. Here we have taken an new scaling of the dilaton field （20 $\\partial _ { i } \\phi \\sim \\epsilon ^ { 1 }$ in the non-relativistic limit,so that the external force provided by the dilaton feld $f _ { i } ^ { ( \\phi ) } \\sim \\epsilon ^ { 3 }$ ,meeting thescalingsymmetryoftheforcedNSequations.Actuallyinthe derivative expansion of the stress energy tensor, these terms such as $\\partial _ { i } \\phi \\partial _ { j } \\phi$ are the second order dissipative terms of the dual fluid [3],and such terms may appear in the superfluid components [57]. However,in the non-relativistic limit,we move them to the right-hand side of the NS equations as external force terms. Note that here we have considered the case of minimal coupling of dilaton field. It would be interesting to extend this study to the case with non-minimal coupling [58, 59, 60]. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "It turns out the Reynolds number of dual fluid is proportional to the local temperature of the cutoff surface in the uncharged case. Thus when the cutoff surface approaches to the event horizon of the black brane background,the local temperature and thus the Reynolds number become larger and larger. This indicates that the dual fluid will become unstable when the cutoff surface is close enough to the event horizon. It would be interesting to further study the stationary turbulence by using the forced NS equations derived in this paper. In [61, 62, 20, 63, 64], the problems of turbulence have been studied viaa holographic description with gravity. It was also shown that the nonlinear evolution of anti-de Sitter space might be unstable,and the energy of perturbations would be transformed to smaller and smaller scales like the turbulence energy cascades [65, 66]. Thus it would be interesting to establish the holographic turbulence using the AdS/CFT correspondence [67, 68]. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the National Natural Science Foundation of China (No.10821504, No.10975168 and No.11035008),and in part by the Ministry of Science and Technology of China under Grant No. 2010CB833004. We would like to thank Jarah Evslin, Xian-Hui Ge, Song He, Bin Hu, Ya-Peng Hu, Yi Ling, Da-Wei Pang, Yong-Hui Qi, Yu Tian,Xiao-Ning Wu, Hai-Qing Zhang and Yang Zhou for illuminating conversations during this work. Z.-Y.Nie would like to thank the Conference on Cold Materials, Hot Nuclei and Black Holes: Applied Gauge/Gravity Duality, held at the Abdus Salam International Centre for Theoretical Physics, for their hospitality. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "[1] S.Bhattacharyya, V. E. Hubeny, S. Minwalla and M. Rangamani,“Nonlinear Fluid Dynamics from Gravity,” JHEP 0802, 045 (2008) arXiv:0712.2456 [hep-th].   \n[2] M. Rangamani， “Gravity and Hydrodynamics: Lectures on the fluid-gravity correspondence,” Class. Quant. Grav. 26, 224003 (2009) arXiv:0905.4352 [hep-th].   \n[3] S. Bhattacharyya, R. Loganayagam， S. Minwalla, S. Nampuri, S. P. Trivedi and S.R.Wadia，“Forced Fluid Dynamics from Gravity,” JHEP O902，018 (2009) arXiv:0806.0006 [hep-th].   \n[4] S.Bhattacharyya， S. Minwalla and S. R. Wadia, “The Incompressible NonRelativistic Navier-StokesEquation from Gravity,” JHEP 0908， 059 (2009) arXiv:0810.1545 [hep-th].   \n[5] I. Bredberg，C. Keeler，V. Lysov and A. Strominger，“Wilsonian Approach to Fluid/Gravity Duality,” JHEP 1103,141 (2011) arXiv:1006.1902 [hep-th].   \n[6] N. Iqbal and H. Liu,“Universality of the hydrodynamic limit in AdS/CFT and the membrane paradigm,” Phys. Rev. D 79, 025023 (2009) arXiv:0809.3808 [hep-th].   \n[7] I.Heemskerk and J. Polchinski，“Holographic and Wilsonian Renormalization Groups,” JHEP 1106,031(2011) arXiv:1010.1264 [hep-th].   \n[8] T. Faulkner， H. Liu and M. Rangamani， “Integrating out geometry:Holographic Wilsonian RG and the membrane paradigm,” JHEP 1108， O51 (2011) arXiv:1010.4036 [hep-th]].   \n[9] Y. Matsuo, S. J. Sin and Y. Zhou, “Mixed RG Flows and Hydrodynamics at Finite Holographic Screen,” arXiv:1109.2698 [hep-th].   \n[10] I. Bredberg, C. Keeler， V. Lysov and A. Strominger，“From Navier-Stokes To Einstein,” arXiv:1101.2451[hep-th] .   \n[11] G. Compere, P. McFadden, K. Skenderis and M. Taylor,“The Holographic fluid dual to vacuum Einstein gravity,” JHEP 1107, 050 (2011) arXiv:1103.3022 [hep-th].   \n[12] R. G. Cai， L. Li and Y. L. Zhang，“Non-Relativistic Fluid Dual to Asymptotically AdS Gravity at Finite Cutoff Surface,” JHEP 1107， O27 (2011) arXiv:1104.3281 [hep-th].   \n[13] V. Lysovand A. Strominger，“From Petrov-Einstein to Navier-Stokes,” arXiv:1104.5502 [hep-th].   \n[14] I. Bredberg and A. Strominger,“Black Holes as Incompressible Fluids on the Sphere,\" arXiv:1106.3084 [hep-th].   \n[15] C. Niu, Y. Tian， X. N. Wu and Y. Ling,“Incompressible Navier-Stokes EquationfromEinstein-Maxwelland Gauss-Bonnet-MaxwellTheories,\" arXiv:1107.1430 [hep-th].   \n[16] D. Anninos, T. Anous, I. Bredberg and G. S. Ng, “Incompressible Fluids of the de Sitter Horizon and Beyond,” arXiv:1110.3792 [hep-th].   \n[17] T. Z. Huang，Y. Ling, W. J. Pan， Y. Tian and X. N. Wu, “From PetrovEinstein to Navier-Stokes in Spatially Curved Spacetime,” JHEP 1110, O79 (2011) arXiv:1107.1464 [gr-qc].   \n[18] T. Z. Huang, Y. Ling, W. J. Pan, Y. Tian and X. N. Wu, “Fluid/Gravity duality with Petrov boundary condition in a spacetime with a cosmological constant,” arXiv:1111.1576 [hep-th].   \n[19] C. Eling, I. Fouxon and Y. Oz,“The Incompressible Navier-Stokes Equations From Membrane Dynamics,” Phys. Lett. B 680, 496 (2009) arXiv:0905.3638 [hep-th].   \n[20] C. Eling, I. Fouxon and Y. Oz, “Gravity and a Geometrization of Turbulence: An Intriguing Correspondence,” arXiv:1004.2632 [hep-th] .   \n[21] C. Eling and Y. Oz， “Relativistic CFT Hydrodynamics from the Membrane Paradigm,” JHEP 1002, 069 (2010) arXiv:0906.4999 [hep-th].   \n[22] S.Kuperstein and A. Mukhopadhyay,“The unconditional RG fow of the relativistic holographic fluid,” JHEP 1111,130（2011) arXiv:1105.4530 [hep-th]].   \n[23] D. K. Brattan, J. Camps, R. Loganayagam and M. Rangamani, “CFT dual of the AdS Dirichlet problem : Fluid/Gravity on cut-off surfaces,” arXiv:1106.2577 [hep-th].   \n[24] J. Erdmenger,M. Haack, M. Kaminski and A. Yarom,“Fluid dynamics of $R$ -charged black holes,” JHEP 0901, 055(2009) arXiv:0809.2488 [hep-th].   \n[25] N. Banerjee, J. Bhattacharya, S. Bhattacharyya， S. Dutta, R. Loganayagam and P. Surowka, “Hydrodynamics from charged black branes,” JHEP 1101， 094 (2011) arXiv:0809.2596 [hep-th].   \n[26] J. Hur, K.K. Kim and S. J. Sin,“Hydrodynamics with conserved current from the gravity dual,” JHEP 0903, 036 (2009) arXiv:0809.4541 [hep-th].   \n[27] D.G. Boulware and S. Deser，“String Generated Gravity Models,” Phys.Rev. Lett. 55, 2656 (1985).   \n[28] T. Jacobson and R. C. Myers,“Black hole entropy and higher curvature interactions,” Phys. Rev. Lett. 70, 3684 (1993) arXiv:hep-th/9305016.   \n[29] R. G. Cai,“Gauss-Bonnet black holes in AdS spaces,” Phys. Rev. D 65,084014 (2002) arXiv:hep-th/0109133.   \n[30] M. Cvetic, S.'i. Nojiri and S. D. Odintsov,“Black hole thermodynamics and negative entropy in de Sitter and anti-de Sitter Einstein-Gauss-Bonnet gravity,” Nucl. Phys. B 628,295 (2002) hep-th/0112045.   \n[31] R. C. Myers,“higher derivative gravity, surface terms and string theory,” phys. Rev. D 36, 392 (1987).   \n[32] S. C. Davis,“Generalized Israel junction conditions for a Gauss-Bonnet brane world,\" Phys. Rev. D 67, 024030 (2003) arXiv:hep-th/0208205.   \n[33] D.Astefanesei, N. Banerjee and S. Dutta,“(Un)attractor black holes in higher derivative AdS gravity,” JHEP 0811, 070 (2008) arXiv:0806.1334 [hep-th].   \n[34] Y. Brihaye and E. Radu,“Black objects in the Einstein-Gauss-Bonnet theory with negative cosmological constant and the boundary counterterm method,” JHEP 0809, 006 (2008) arXiv:0806.1396 [gr-qc].   \n[35] I. Fouxon and Y. Oz,“Conformal Field Theory as Microscopic Dynamics of Incompressible Euler and Navier-Stokes Equations,” Phys. Rev. Lett. 101, 261602 (2008) arXiv:0809.4512 [hep-th].   \n[36] C. Eling and Y. Oz， “Holographic Screensand Transport Coeffcientsin the Fluid/Gravity Correspondence,”Phys. Rev. Lett. 107, 201602(2011) arXiv:1107.2134 [hep-th].   \n[37] G. Chirco, C. Eling and S. Liberati, “Higher Curvature Gravity and the Holographic fluid dual to flat spacetime,” JHEP 1108, 009 (2011) arXiv:1105.4482 [hep-th].   \n[38] S. Chapman， Y. Neiman and Y. Oz, “Fluid/Gravity Correspondence, Local Wald Entropy Current and Gravitational Anomaly,” arXiv:1202.2469 [hep-th].   \n[39] A. Chamblin， R. Emparan，C. V. Johnson and R. C. Myers，“Charged AdS black holes and catastrophic holography,” Phys. Rev. D 60， O64018 (1999) arXiv:hep-th/9902170.   \n[40] A. Chamblin, R. Emparan, C. V. Johnson and R. C. Myers,“Holography, thermodynamics and fluctuations of charged AdS black holes,” Phys. Rev. D 60,104026 (1999) arXiv:hep-th/9904197.   \n[41] P. Kraus,F.Larsen and R. Siebelink,“The gravitational action in asymptoticaly AdS and fat space-times,” Nucl. Phys. B 563, 259 (1999) arXiv:hep-th/9906127].   \n[42] M. Bianchi, D. Z. Freedman and K. Skenderis, “Holographic renormalization,” Nucl. Phys. B 631, 159 (2002) arXiv:hep-th/0112119.   \n[43] K. Skenderis, “Lecture notes on holographic renormalization,” Class. Quant. Grav. 19, 5849 (2002) arXiv:hep-th/0209067.   \n[44] D. Marolf and M. Rangamani， “Causality and the AdS Dirichlet problem,” arXiv:1201.1233 [hep-th].   \n[45] E. P. Verlinde,“On the Origin of Gravity and the Laws of Newton,” JHEP 1104, 029 (2011) arXiv:1001.0785 [hep-th].   \n[46] R. G. Cai， L. M. Cao and N. Ohta， “Notes on Entropy Force in General Spherically Symmetric Spacetimes,” Phys. Rev. D 81， 084012 (2010) arXiv:1002.1136 [hep-th].   \n[47] M. Parikh and F. Wilczek, “An Action for black hole membranes,” Phys. Rev. D 58, 064011 (1998) arXiv:gr-qc/9712077].   \n[48] T. Jacobson, A. Mohd and S. Sarkar,“The Membrane Paradigm for Gauss-Bonnet gravity,” arXiv:1107.1260 [gr-qc].   \n[49] M. Brigante， H. Liu， R. C. Myers, S. Shenker and S. Yaida， “Viscosity Bound Violation in Higher Derivative Gravity,” Phys. Rev. D 77,126006 (2008) arXiv:0712.0805 [hep-th].   \n[50] M. Brigante， H. Liu， R. C. Myers, S. Shenker and S. Yaida， “The Viscosity Bound and Causality Violation,” Phys. Rev. Lett. 100，191601 (2008) arXiv:0802.3318 [hep-th].   \n[51] X.H. Ge, Y. Matsuo, F. W. Shu, S. J. Sin and T. Tsukioka,“Viscosity Bound, Causality Violation and Instability with Stringy Correction and Charge,” JHEP 0810, 009(2008)arXiv:0808.2354 [hep-th].   \n[52] R. G. Cai, Z. Y. Nie and Y. W. Sun, “Shear Viscosity from Efective Couplings of Gravitons,” Phys. Rev. D 78,126007 (2008) arXiv:0811.1665 [hep-th].   \n[53] R. G. Cai, Z. Y. Nie, N. Ohta and Y. W. Sun，“Shear Viscosity from GaussBonnet Gravity with a Dilaton Coupling,” Phys. Rev. D 79， O66004 (2009) arXiv:0901.1421 [hep-th].   \n[54] X. H. Ge and S. J. Sin,“Shear viscosity, instability and the upper bound of the GaussBonnet coupling constant,” JHEP 0905,051 (2009) arXiv:0903.2527 [hep-th].   \n[55] Y.P. Hu， H. F. Li and Z. Y. Nie,“The first order hydrodynamics via AdS/CFT correspondence in the Gauss-Bonnet gravity,” JHEP 1101， 123 (2011) arXiv:1012.0174 [hep-th].   \n[56] Y. P. Hu, P. Sun and J. H. Zhang，“Hydrodynamics with conserved current via AdS/CFT correspondence in the Maxwell-Gauss-Bonnet gravity,” Phys. Rev. D 83, 126003(2011) arXiv:1103.3773 [hep-th].   \n[57] J. Sonner and B. Withers,“A gravity derivation of the Tisza-Landau Model in AdS/CFT,” Phys. Rev. D 82, 026001 (2010) arXiv:1004.2707 [hep-th].   \n[58] B.Gouteraux, J. Smolic, M. Smolic, K. Skenderis and M. Taylor,“Holography for Einstein-Maxwell-dilaton theories from generalized dimensional reduction,” JHEP 1201,089 (2012) arXiv:1110.2320 [hep-th].   \n[59] S. He, Y. P. Hu and J. H. Zhang,“Hydrodynamics of a 5D Einstein-dilaton black hole solution and the corresponding BPS state,” JHEP 1112， O78 (2011) arXiv:1111.1374 [hep-th].   \n[60] R. G. Cai, S. He and D. Li,“A hQCD model and its phase diagram in EinsteinMaxwell-Dilaton system,” JHEP 1203, 033 (2012) arXiv:1201.0820 [hep-th].   \n[61] V. Jejjala, D. Minic, Y. J. Ng and C. H. Tze,“Turbulence and Holography,” Class. Quant. Grav. 25, 225012 (2008) arXiv:0806.0030 [hep-th].   \n[62] I. Fouxon and Y. Oz, “Exact Scaling Relations In Relativistic Hydrodynamic Turbulence,” Phys. Lett. B 694, 261 (2010) arXiv:0909.3574 [hep-th].   \n[63] V. Jejjala, D. Minic, Y. J. Ng and C. H. Tze, “Quantum Gravity and Turbulence,” Int. J. Mod. Phys. D 19, 2311 (2010) arXiv:1005.3254 [gr-qc]].   \n[64] J. Evslin and C. Krishnan，“Vortices in (2+1)d Conformal Fluids,” JHEP 1010, 028 (2010) arXiv:1007.4452 [hep-th].   \n[65] P. Bizon and A. Rostworowski, “On weakly turbulent instability of anti-de Sitter space,” Phys. Rev. Lett.107, 031102 (2011) arXiv:1104.3702 [gr-qc].   \n[66] O. J. C. Dias, G. T. Horowitz and J. E. Santos, “Gravitational Turbulent Instability of Anti-de Sitter Space,\" arXiv:1109.1825 [hep-th] .   \n[67] J. M. Maldacena,“The Large $N$ limit of superconformal field theories and supergravity,”Adv. Theor.Math.Phys.2, 231 (1998) [Int.J. Theor.Phys.38,1113(1999)] arXiv:hep-th/9711200.   \n[68] O. Aharony, S. S.Gubser, J. M. Maldacena, H. Ooguri and Y. Oz, “Large $N$ field theories, string theory and gravity,\" Phys. Rept. 323,183 (2000) arXiv:hep-th/9905111. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    }
+]

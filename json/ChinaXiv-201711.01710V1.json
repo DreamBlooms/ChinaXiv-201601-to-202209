@@ -1,0 +1,595 @@
+[
+    {
+        "type": "text",
+        "text": "影响反刍动物氮素利用效率和排放的营养实践",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王笑笑 李若玺 梅洋 高腾云（河南农业大学牧医工程学院，郑州450002）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:涉及奶牛生产系统和粪肥应用的总氨氮排放参数是影响农业源氨氮排放的最敏感的参数，如何通过精细饲养来提高奶牛的氮素泌乳转化效率，降低奶牛生产系统的氮素排放，对于缓解奶牛生产系统面临的经济与环保双重压力具有重要意义。本文从饲粮的氮素水平、碳水化合物类型、氨基酸补饲、饲料添加剂、饲粮精粗比以及新型饲料原料等方面对影响反刍动物氮素排放的研究进行了综述，同时介绍了康奈尔净碳水化合物－蛋白质体系（CNCPS）模型及其改进对奶牛场氮排放估测的影响以及尿素转运蛋白对反刍动物氮素代谢的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：反刍动物；氮素利用；氮排放；营养实践",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S811",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氮素是除了磷素之外引起水体富营养化的又一关键元素，而且易转化为氨气（ $\\mathrm { N H } _ { 3 }$ ）、一氧化二氮（ $\\mathrm { \\bf ~ N } _ { 2 } \\mathrm { \\bf O }$ ）和硝酸盐，影响土壤酸化。随着水体富营养化和温室气体等环境问题越来越受关注，氮足迹研究成为继生态足迹、碳足迹和水足迹后又一研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在奶牛生产中，为了获得高产奶量、高经济效益，不断提高奶牛饲粮中的氮素投入量曾一度被推崇。但奶牛对氮素的利用效率是有限的，由于自身生物潜力的限制，仅有 $1 5 \\% \\sim$ $4 0 \\%$ 的摄入氮可以转化进入牛奶，其余的大部分氮则以粪、尿的形式排出体外[I。乳制品虽处于碳足迹列表底部，但以生命周期评价方法评估乳制品的氮足迹， $1 \\mathrm { k g }$ 的乳制品大约可释放 $6 9 \\mathrm { ~ g ~ }$ 的氮素污染，在氮足迹列表上却仅次于牛肉，而且乳制品还可能产生氮污染的累加效应[2]。柏兆海[3]对我国主要畜禽养殖体系的氮素利用和损失进行了研究，指出在奶牛养殖体系中，每生产 $1 ~ \\mathrm { k g }$ 牛奶氮，传统养殖模式损失 $1 0 ~ \\mathrm { k g }$ 氮，而规模化养殖场仅损失 $6 . 3 ~ \\mathrm { k g }$ 氮，饲养结构和管理措施变化显著影响畜禽养殖体系的资源需求和环境代价。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然，我们对于改变奶牛对氮素利用的生物限制能做的事情有限，但是通过一些恰当的生产实践，诸如降低粗蛋白质水平、平衡饲粮、使用添加剂、改变饲粮类型及遵循减少氮损失的粪便管理措施等均可实质性地提高氮素的利用效率、降低奶牛场的氮素排放、增加牧场的经济效益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1基于采食氮和粪氮、尿氮关系的氮素减排营养调控措施",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "奶牛消耗的氮大约有 $7 2 \\%$ 会通过粪氮和尿氮的形式排出，奶牛采食氮与粪氮、尿氮以及排泄氮的量之间呈正相关关系。粪氮主要来源于未消化的饲粮氮、未被消化的微生物氮和内源氮，粪氮和氮采食量之间存在线性回归关系（ $R ^ { 2 } { = } 0 . 9 3$ )，排泄量一般比较稳定[4]。尿氮主要成分为尿素，是牧场氨氮排放的主要来源，且超过动物蛋白质需要量的几乎所有的氮素都会以尿氮的形式排出体外[5]。因此，对于泌乳奶牛来说，确保奶牛适宜的氮摄入量和确保产奶量的提高2种途径有机结合是提高氮素利用效率、降低氮排泄的有效途径[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1确定适宜的饲粮粗蛋白质水平",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "饲粮粗蛋白质水平是影响奶牛氮采食量和粪氮、尿氮排泄的最直接因素，而测定不同饲粮粗蛋白质水平对奶牛氮排放的影响则是确定氮的适宜摄入量最有效的方法。王星凌等[7]研究了荷斯坦奶牛在不同饲粮蛋白质水平（ $1 2 . 5 6 \\%$ 、 $1 3 . 9 6 \\%$ 、 $1 5 . 5 3 \\%$ 和 $1 6 . 9 3 \\%$ ）下的氮排放情况，指出随着饲粮粗蛋白质水平的提高，尿氮排出量不断增加，乳氮排出量也缓慢上涨，体内氮沉积显著增加，而粪氮排出量则相对稳定，仅当蛋白质水平达到 $1 6 . 9 3 \\%$ 时显著增加。结合生产性能，该研究指出对于产奶量 $2 8 \\mathrm { k g / d }$ 或能量校正乳（ECM) $3 2 \\mathrm { k g / d }$ 的中国荷斯坦奶牛来说， $1 3 . 9 6 \\%$ 的粗蛋白质水平可在不影响奶牛生产性能和健康的情况下，最大程度地减少氮的排泄。但需要指出的是，饲粮粗蛋白质水平的确定受到饲粮蛋白质品质、氨基酸平衡、瘤胃降解蛋白和瘤胃不可降解蛋白平衡等多种因素影响，而且与粗饲料品质和水平也有密切关系，确定饲粮粗蛋白质水平时均需加以考虑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同饲粮粗蛋白质水平对奶牛粪肥(粪便和尿液) $\\mathrm { N H } _ { 3 }$ 的排放量也有显著影响，对比饲喂 $1 6 . 7 \\%$ 和 $1 4 . 8 \\% 2$ 种饲粮粗蛋白质水平的奶牛所产粪肥的 $\\mathrm { N H } _ { 3 }$ 排放潜能，高蛋白质水平饲粮组奶牛粪肥 $\\mathrm { N H } _ { 3 }$ 排放潜能显著高于低蛋白质水平饲粮组（ $P { < } 0 . 0 5 )$ ，低蛋白质水平饲粮组$1 2 2 \\mathrm { h N H } _ { 3 }$ 累积排放量比高蛋白质水平饲粮组显著降低 $4 7 \\% ^ { [ 8 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2补饲瘤胃保护性氨基酸",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "降低饲粮粗蛋白质水平由于可显著降低尿中尿素氮的排泄被认为是降低氮排放的最有效的策略。然而，饲粮低粗蛋白质水平会导致代谢蛋白低于奶牛的营养需要量，从而引起奶牛产奶量和乳蛋白量的降低。此时，可通过补饲氨基酸保证饲粮赖氨酸和蛋氨酸平衡等方式来改善奶牛对氮素的利用效率[9-10]。Lee 等1对比了代谢蛋白平衡、代谢蛋白缺乏补饲 $1 0 0 \\mathrm { g }$ /d·头瘤胃保护性赖氨酸和代谢蛋白缺乏补饲 $\\mathrm { 1 0 0 ~ g }$ /d·头瘤胃保护性赖氨酸及 $2 4 ~ \\mathrm { g / d }$ ·头瘤胃保护性蛋氨酸3种饲粮对奶牛氮素利用的影响，指出代谢蛋白缺乏饲粮中补充瘤胃保护性赖氨酸和瘤胃保护性蛋氨酸后可以在不影响奶牛生产性能的情况下，降低尿氮排泄量和奶牛粪便的 $\\mathrm { N H } _ { 3 }$ 释放潜力。Apelo 等[12]也指出，与高蛋白质水平（ $1 7 \\%$ ）饲粮组相比，低蛋白质水平（ $1 5 \\%$ ）饲粮组尿氮排泄量显著降低，当保证赖氨酸和蛋氨酸总量以及赖氨酸、蛋氨酸平衡的情况下，降低饲粮粗蛋白质水平至 $1 5 . 6 \\%$ ，控制瘤胃不可降解蛋白占饲粮干物质的$4 . 6 \\%$ ，补饲瘤胃保护性氨基酸（赖氨酸、蛋氨酸和亮氨酸）可在维持低尿氮排泄的情况下，改善饲喂低蛋白质水平饲粮时奶牛产奶量降低的情况，从而获得最大的氮素利用效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N-氨甲酰谷氨酸（N-carbamoyl-glutamate,NCG）是N-乙酰谷氨酸的结构类似物，而后者是参与尿素循环和精氨酸合成通路的限速酶氨甲酰磷酸合成酶-1的辅助因子，因此，NCG 可看作是精氨酸的增强剂[13]，而且NCG 在瘤胃内的降解程度低于精氨酸[14]。Chacher等[15]在泌乳奶牛的饲粮中添加0、10、20 和 $3 0 ~ \\mathrm { g / d }$ 的 NCG 探讨了饲粮补饲 NCG 对高产奶牛氮素代谢的影响，发现添加NCG 能降低牛奶、血浆和尿中尿素氮含量，尤以 $2 0 \\mathrm { g / d }$ 组尿素氮含量最低，且此添加剂量时饲粮粗蛋白质向乳蛋白的转化效率最高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2基于饲粮能氮平衡和同步释放性的氮素减排营养调控措施",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲粮粗蛋白质经反刍动物瘤胃消化后主要以氨氮、未降解蛋白（饲粮和内源）和微生物蛋白的形式从瘤胃输出。瘤胃微生物蛋白是反刍动物小肠可消化蛋白的主要来源，占到总可吸收蛋白的 $50 \\% { \\sim } 8 0 \\%$ ，增加瘤胃微生物蛋白的合成可有效地提高反刍动物对粗蛋白质的利用效率，降低氮素排放[16]。瘤胃微生物蛋白合成的主要限制因素是饲粮中可发酵碳水化合物的可利用性和氮素的可利用性，瘤胃能氮同步释放是以瘤胃微生物生长理论为依据，在考虑能氮平衡的基础上，通过调控饲粮中含氮物质和能量载体物质在瘤胃的发酵过程中释放速度使之相匹配，实现两者的动态平衡[17]，可在满足瘤胃微生物对可发酵有机质和可降解氮的同时更有效地合成瘤胃微生物蛋白，提高反刍动物对氮素的利用效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1增加饲粮中非纤维性碳水化合物（non-fibrous carbohydrate,NFC）含量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NFC 与非结构性碳水化合物相类似，但是包含了果胶和有机酸，属于发酵速度较快的碳水化合物，能为瘤胃微生物提供更多的可发酵能。当牛只食入大量高含氮量的牧草时，放牧前饲喂 NFC 补饲物可显著降低乳尿素氮和尿中尿素氮的排放以及尿氮占吸收氮的比例，提高氮素的利用率[18]。但补饲NFC 对泌乳奶牛氮代谢的影响受季节和处理的双重影响，所以要想使放牧奶牛保持全年的高氮利用效率，NFC 的补饲策略应当随着牧草摄入量和青贮补饲量以及放牧季节的变化而变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物中的水溶性碳水化合物（water soluble carbohydrate，WSC）是指构成植物细胞壁及细胞内容物中可溶或易溶性的碳水化合物，是一种最容易被利用的能量，主要包括果聚糖、葡萄糖、果糖、蔗糖、棉籽糖和水苏糖等[19]。普通的牧草栽培品种由于提供的可发酵能低于瘤胃微生物有效利用瘤胃降解蛋白合成微生物蛋白的能量需要，会造成瘤胄中氨氮的损失，从而增加尿中尿素氮的排泄。而富含WSC 的牧草被认为可以重建瘤胃可发酵能（因为其高含糖量）和瘤胃可降解蛋白的平衡，从而可以提高动物代谢蛋白的供应量、降低系统的氮排泄量。Staerfl等[20]研究了饲喂高糖黑麦草（高WSC 含量）和低WSC 含量的黑麦草干草对奶牛尿氮排泄量的影响，证实高WSC干草组奶牛尿氮（ $1 1 4 \\ : \\mathrm { g / d }$ ）和尿氮占总排泄氮的比例显著低于低WSC干草组（ $2 2 9 \\ : \\mathrm { g / d } )$ 。高WSC干草组尿氮排泄量较低的原因，除了之前提到的提供可发酵能之外，还在于牧草中的WSC 会替代一部分的粗蛋白质，使得高 WSC牧草与低WSC 牧草相比，粗蛋白质含量更低（ $1 5 8 ~ \\nu s . ~ 2 5 5 ~ \\mathrm { g / k g ~ D M } \\rangle$ ，直接降低尿氮的排放量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2改变饲粮碳水化合物的组成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮中的 NFC 包含了除中性洗涤纤维（neutral detergent fiber，NDF）之外的其余碳水化合物，主要由有机酸、可溶性糖以及中性洗涤可溶性纤维（neutral detergent solublefiber,NDSF）组成，是反刍动物能量的主要来源。各NFC 组分因在瘤胃内的发酵特性不同，会引起瘤胃内挥发性脂肪酸、氨氮浓度及微生物数量的变化[2Il，影响瘤胃内能氮的同步释放情况，对奶牛的氮素代谢产生不同影响。Cantalapiedra-Hijar 等[22l研究了饲喂低粗蛋白质水平饲粮是否能通过调整饲粮碳水化合物的组成来改善奶牛的泌乳性能和氮素利用效率，结果表明当可发酵有机质和小肠可消化蛋白采食量相近时，饲粮富含淀粉能弥补低粗蛋白质水平饲粮引起的乳蛋白产量下降，提高奶牛的氮素泌乳转化效率。同样地，Higgs 等[23]对比了以不同碳水化合物为基础的5种饲粮（对照组、淀粉组、淀粉加氮组、纤维加氮组和糖蜜组）对放牧奶牛氮素代谢和利用的影响，指出当代谢能摄入量一致时，降低氮采食量是提高氮素利用的最重要的因素；与添加纤维和糖类相比，淀粉更能提高乳氮的输出量，提高氮素的利用效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可溶性糖类因为在瘤胃内可快速完全降解，常被用来替代饲料中的其他碳水化合物组分来改善饲粮中能氮的同步性，但是饲粮中添加糖类对泌乳奶牛氮素利用效率和排放的影响研究具有不一致性。Rojen 等[24]研究了皱胃灌注低聚果糖对泌乳奶牛后肠发酵和氮代谢之间关系的影响，发现皱胃灌注 $1 5 0 0 \\mathrm { g / d }$ 的低聚果糖能显著降低乳中尿素氮和氮素的表观消化率，而且可改变排泄氮的释放途径，使得粪氮排泄量增加，尿氮排泄降低，进而可在不影响瘤胃发酵的情况下降低粪肥中氨的挥发。在基于玉米－苜蓿青贮的奶牛饲粮中使用乳糖替代部分大麦或者玉米淀粉后，与饲喂大麦组和玉米组相比，添加乳糖使得氮的总肠道表观消化率升高[25]，也有研究报道称采用蔗糖替代部分玉米谷物增加或趋向于增加血浆尿素氮，而且随着蔗糖添加比例的增加，氮素的泌乳转化效率下降[26]。出现差异的原因与不同类型的糖在养分消化和瘤胃发酵上的差异有关[27]，但这些研究表明，采用糖类替代部分淀粉对于提高氮素利用效率来说可能并不是必须的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮中 NDF 和淀粉的比例也会影响奶牛的氮利用效率。赵勐等[28]对比了 NDF 与淀粉比例分别为0.86、1.18、1.63和2.34的4种不同的碳水化合物组成饲粮对奶牛氮素利用率的影响，发现奶牛饲粮碳水化合物组成能够影响氮利用率，随着饲粮的 NDF 与淀粉比例的升高，奶牛饲粮粗蛋白质转化为乳蛋白效率呈二次曲线变化，当两者比例为1.71 时能够获得最佳的氮利用率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，使用褐色中脉玉米青贮替代传统玉米青贮（前者较后者具有更高的纤维消化率和可发酵有机质）[29-30]以及使用糙米替代玉米（前者较后者淀粉含量增高）[311均会因为改变原有的碳水化合物组分而对泌乳奶牛的氮素代谢起到改善作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3改变饲粮粗饲料类型对泌乳奶牛氮素利用和排放的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "改变饲粮中粗饲料来源或纤维来源会影响奶牛粪氮排出量。以奶牛饲粮中常用粗饲料设计玉米青贮 $+$ 玉米秸秆、玉米青贮 $^ +$ 羊草、玉米青贮 $^ +$ 玉米秸秆 $^ +$ 羊草和玉米青贮 $\\cdot +$ 苜蓿草 $\\cdot +$ 羊草4种不同的粗饲料组合，评价粗饲料组合对奶牛饲粮养分消化率能量和氮的利用的影响，玉米青贮 $^ +$ 苜蓿草 $\\cdot +$ 羊草型饲粮的养分消化率、能量和氮的利用为4 种饲粮中最优。从此粗饲料组合对奶牛氮代谢影响可以看出，奶牛对玉米秸秆中氮消化率不如苜蓿草和羊草中的氮；但羊草与玉米秸秆之间存在正组合效应，两者搭配使用可提高玉米秸秆的消化率，优化能量和氮的利用[32]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相同的 NDF 含量中，苜蓿青贮NDF比玉米青贮NDF 含有更多的木质素和更低的半纤维素，而苜蓿青贮和玉米青贮中NDF 的消化速率也不同，因此，改变饲粮中苜蓿青贮和玉米青贮的比例会影响奶牛的氮素利用效率。对比饲粮精粗比为 $5 5 : 4 5$ ，苜蓿青贮与玉米青贮比例分别为 $2 0 : 8 0 , 4 0 : 6 0 , 6 0 : 4 0$ 和 $8 0 : 2 0$ 的4种饲粮对泌乳奶牛氮素利用效率的影响，发现当饲粮中玉米青贮的比例逐渐升高时，泌乳奶牛日均粪氮、尿氮和尿尿素氮以及粪尿排泄量则逐渐降低，而随着饲粮中苜蓿青贮的比例逐渐升高，泌乳奶牛的氮素利用效率降低[33]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4饲料添加剂的使用对反刍动物氮素代谢和排放的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1离子载体添加剂",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "聚醚类离子载体的添加剂可以降低瘤胃氨的产生量，增加过瘤胃蛋白，又有节约蛋白质的作用。海南霉素和莫能菌素作为主要的聚醚类离子载体，两者对瘤胃发酵和生产性能方面的研究较多，但关于饲料中添加海南霉素和莫能菌素对奶牛蛋白质代谢方面的影响及它们对奶牛氮排放是否能有作用还鲜见研究。王志博等[34研究了饲粮中添加海南霉素和莫能菌素对奶牛氮平衡、瘤胃蛋白质降解和产氨菌群的影响，发现瘤胃中产氨菌群对莫能菌素非常敏感，在饲粮中添加 $2 0 \\mathrm { m g / d }$ 的海南霉素和 $3 5 0 \\mathrm { m g / d }$ 的莫能菌素可显著降低瘤胃中氨氮浓度、尿囊素排出量、尿嘌呤衍生物排出量、微生物氮产量以及粪氮和尿氮排出量。但有研究指出，补饲瘤胃素降低了瘤胃氨的浓度，但是这个变化并没有影响尿素生产和尿素氮的循环以及肠道进入速率[35]。此外，与莫能菌素相似，海南霉素也具有节约蛋白质的作用，饲粮中添加海南霉素可通过影响特定产氨细菌来调控蛋白质到氨氮的整个降解过程[36]。但目前关于离子载体类添加剂在反刍动物饲粮中是否准予使用的标准不同，欧盟仅批准莫能菌素作为肉牛促生长激素使用，而美国、澳大利亚、巴西和墨西哥等国莫能菌素可用于泌乳奶牛和干奶牛。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 植物提取物",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物提取物以及次生代谢物因具有抗微生物特性，被视为抗生素的替代物，可用来调控瘤胃微生物的活性，所以人们开始考虑植物精油是否能通过调控瘤胃微生物来调控奶牛的氮代谢。在体外培养的条件下，在瘤胃内容物培养物中添加大蒜精油可使固相和液相微生物尿素氮丰度分别降低 $2 2 . 6 \\%$ 和 $1 8 . 7 5 \\%$ ，发酵液中氨氮浓度分别降低 $3 . 0 2 \\%$ 和 $1 7 . 8 \\%$ ；而茶树精油和尤加利精油则不影响尿素氮的分布；基于大蒜精油可减缓尿素氮富集速度，改变细菌群落的组成，抑制氨氮生成，推测大蒜精油有可能会在奶牛氮减排方面发挥一定的作用[37]。Barghuei等[38]研究了在饲粮中添加石榴皮提取物对泌乳奶牛瘤胃发酵和养分消化的影响，由于石榴皮提取物含有安石榴甙和鞣花单宁等皂角甙和多酚类化合物，石榴皮提取物的添加能降低瘤胃中原虫的数量，从而降低瘤胃内氨氮的浓度，增加微生物蛋白和产奶量，原虫的存在会导致瘤胃内氮素无效循环的增加，适当的降低原虫对于改善瘤胃氮素代谢有积极作用。从上述研究可看出，植物精油或提取物对瘤胃氮代谢的影响可能是通过对高产氨细菌的影响效应介导的，植物精油导致产氨菌群活性降低，进而导致氨基酸脱氨基作用和氨氮的产生量降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3烟酸",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "烟酸在奶牛抗热应激方面有着显著效果，而进来一些研究表明，饲粮中添加烟酸可以提高水牛和奶牛十二指肠中瘤胃微生物蛋白流量[39]，这在一定程度上表明烟酸可以提高反刍动物代谢蛋白水平和饲粮氮的利用效率，提示在降低氮排放方面烟酸可能也会有一定效果。Aschemann等[40-411分析了烟酸补饲对处于瘤胃氮负平衡条件下的奶牛氮代谢的影响，认为给处于瘤胃氮负平衡的泌乳奶牛补充 $6 ~ \\mathrm { g / d }$ 烟酸时，瘤胃能更加有效地利用瘤胃降解氮，使得单位瘤胃可降解蛋白的微生物蛋白合成效率增高；而且补饲烟酸后奶牛粪氮排泄量（107.7g/d）显著低于氮负平衡条件下的粪氮排泄量（ $1 1 9 . 4 \\ \\mathrm { g / d } )$ ，饲粮氮的泌乳转化效率高于氮平衡饲粮。最近有研究表明，饲粮中碳水化合物的种类会影响瘤胃对一些B族维生素的合成[42],基于烟酸对奶牛氮素利用的影响，提示对碳水化合物对 B 族维生素合成的影响也可能是饲粮碳水化合物对泌乳奶牛氮素代谢产生影响的原因之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4氯化钠 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "奶牛乳中尿素氮与尿中尿素氮和总尿氮排泄量密切相关。Spek 等[43推测乳中尿素氮以及乳中尿素氮与尿中尿素氮或者总尿氮之间的关系会受到尿液体积的影响，而基于尿液体积又会受到饲粮氯化钠采食量的影响的假设，探讨了氯化钠摄入量对泌乳奶牛尿液体积、尿素排泄和乳中尿素氮含量的影响，发现钠的摄入量和尿液产生量之间呈线性关系，随着钠摄入量的增加，乳中尿素氮含量降低，总尿氮排泄量线性增加，但尿中尿素氮的排泄量却不受饲粮钠含量的影响。此外，饲粮中氯化钠对乳中尿素氮的影响不受饲粮粗蛋白质的影响[44]。由上述研究可看出，矿物质元素摄入水平的变化会通过影响动物尿液的产生量而对尿氮的排泄产生影响，因此，当以乳中尿素氮作为反应奶牛尿中尿素氮的排泄量的指标时，应当考虑矿物质元素的摄入量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5其他",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "微生态制剂可通过调节瘤胄微生物区系或者影响微生物数量来影响反刍动物瘤胃发酵和对营养物质的吸收。王丽[45]、王玲等[46]研究了饲粮中添加酵母培养物、酵母活菌制剂、乳酸菌和芽孢杆菌4种微生态制剂对泌乳奶牛氮素代谢的影响，发现添加 $2 5 \\ : \\mathrm { g / d }$ 酵母培养物可显著降低泌乳奶牛尿氮、粪氮和氮总排泄量，而其他几种微生态制剂对泌乳奶牛氮素排泄没有显著影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "半胱胺作为乙酰辅酶A的组成部分，因为携带有性质活泼的巯基和氨基而具有多种生物活性，可提高动物对养分的利用效率。有研究表明，给泌乳奶牛补饲半胱胺可显著提高泌乳奶牛的产奶量、改善乳成分，降低氮排泄量，以添加 $2 0 \\ \\mathrm { g / d }$ ·头时，粪氮、尿氮和氮的总排泄量最低，而氮素表观消化率最高[47]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "给非泌乳奶牛瘤胃灌注双氰胺，可通过抑制氮元素的硝化作用，减少奶牛排泄的氮素以硝酸盐和亚硝酸盐的形式排放到环境中，这给奶牛氮素减排提供了新策略，但对于灌注双氰胺对泌乳奶牛产奶量的影响以及双氰胺是否会在牛奶中残留需要进行进一步的探索研究[48]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5尿素转运蛋白对反刍动物氮素代谢的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "反刍动物肝脏每天产生的尿素氮有 $4 0 \\% \\sim 8 0 \\%$ 重新返回到胃肠道，而对于牛和羊，这其中的 $3 5 \\% { \\sim } 5 5 \\%$ 又会进入进一步的合成代谢中[49]。当给反刍动物饲喂低氮饲粮时，由于尿素循环和再利用机制的存在，确保了内源氮向胃肠道的转运，使得氮素循环效率增加[]。早期研究认为，尿素转运是以脂溶性的简单扩散机制通过瘤胃壁的，依赖于瘤胃壁与瘤胃血液中尿素的浓度梯度，而后由于红细胞膜和肾脏集合管末端特定血管上皮对尿素渗透性远高于单一脂溶性扩散速率的研究结果引发人们对尿素转运介导机制尿素转运蛋白的研究[50]。Ritzhaupt 等[51首次在绵羊瘤胃中发现尿素转运蛋白的存在，开启了尿素转运蛋白在反刍动物尿素循环转运中作用的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，关于尿素转运蛋白在反刍动物上的研究取得了一些重要进展：1）通过反转录酶-聚合酶链锁反应（RT-PCR）和免疫印迹技术研究发现，在牛的瘤胃上皮细胞中确实存在有尿素转运蛋白B（urea transportersB，UT-B)，且UT-B有2个剪接体 bUT-B1和bUT-B2,其中 bUT-B2 占主导[6.52]；在羊的瘤胃、十二指肠、回肠、盲肠黏膜及肾脏髓质和肝脏中存在有 UT-B，而尿素转运蛋白A(UT-A)仅在肾脏髓质、肝脏和十二指肠中发现[53]。2）通过尤斯灌注室和微电化学技术相结合的方式研究发现，UT-B 是根皮素敏感型通道蛋白，加入根皮素和硫脲会抑制 UT-B 的转运功能，且在短链脂肪酸和二氧化碳的存在下，pH 的变化对于尿素转运有调控作用，而这个作用可能是通过尿素转运蛋白来实现的[52.54-55]。3）基础饲粮类型会影响瘤胃上皮细胞中UT-B 的表达和定位，精料型饲粮更能促进瘤胃上皮细胞中UT-B 的表达，粗料型饲粮组检测到UT-B主要在瘤胃上皮的基底层分布，精料型组检测到UT-B 分布在瘤胃上皮的基底层、棘层和颗粒层[56]。4)饲粮氮水平或者氮采食量会影响UT-B的表达和富集，但是这个影响具有不确定性，研究结果偏向于尿素转运蛋白表达量不受饲粮粗蛋白质水平或氮采食量的影响[53.57]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6康奈尔净碳水化合物-蛋白质体系（Cornell net carbohydrate and protein system,CNCPS） 模型及其改进对奶牛场氮排放估测的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在实际生产中，牧场直接测定奶牛尿氮和粪氮排放量是不切实际的，而评估这些牧场的氮素排放量就需要建立在预测而不是数据测定的基础之上。一些基于饲粮类型、产奶量和乳中尿素氮含量的方程被证明可用来预测奶牛场的氮排放。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CNCPS 是一个涵盖了环境、饲粮、管理和生产情况等多方面的用来评价牛只营养需要的数学模型，而它同样可以通过整合整个牛场的营养管理措施来进行氮排泄的预测。Higgs等[58]运用CNCPS（V6.1）模型对商业化牛场的氮素利用及氮排泄情况进行了评估，指出即使饲粮粗蛋白质含量低于 $1 6 \\%$ 仍能达到高产奶量和高乳蛋白量的目标，其氮利用效率最高能达 $3 8 \\%$ ，对于面临诸多限制的商业化奶牛场来说，最新的CNCPS 模型可以成功地用于制定的饲粮并有效地改善其氮利用效率。虽然，CNCPS 模型可有效预测牧场总粪肥氮的排放，但是由于模型中氮划分的不一致性，导致尿氮排泄量被过度预测，因CNCPS 计算的尿氮会随着氮采食量和其他氮排泄和氮损失之间的差异而变化，所以纳入更精确的粪氮预测到当前的CNCPS 框架中并改进内部计算误差，可大大改进CNCPS对尿氮的预测[59]，能使CNCPS更有效地应用于奶牛场养分管理计划的制定。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7小结 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "反刍动物氮素研究经历了采食氮与排泄氮关系、能氮平衡、乳尿素氮对反刍动物氮素排泄的预测以及内源氮素循坏等一系列研究发现之后，虽然各种提高氮素利用效率和降低氮排放的营养研究一直在进行，但似乎进入了瓶颈期，没有突破性的理论研究进展，如何在现有的研究基础上寻找新的突破点，实现更有效的氮素减排也是未来奶牛从业者需要继续进行探索和思考的。随着世界对氮足迹研究的深入，基于乳制品高氮足迹，奶牛生产链氮足迹的评估也许会是未来奶牛生产中氮素减排的发展方向。另外，需要指出的是，营养减排问题需要统筹考虑生产性能和动物的健康情况，找到平衡点，才是最佳的减排技术方案，忽视其中任何一个而片面强调减排都是不科学的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] HUHTANEN P,NOUSIAINEN J I,RINNE M,et al.Utilization and partition of dietary nitrogen in dairy cows fed grass silage-based diets[J].Journal of Dairy Science,2008,91(9):3589-3599. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2] XUEX B,LANDISA E.Eutrophicationpotential offood consumption patterns[J].Environmental Science & Technology,2010,44(16):6450-6456. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]柏兆海.我国主要畜禽养殖体系资源需求、氮磷利用和损失研究[D].博士学位论文.北京:中国农业大学,2015.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]CASTILLO A R,KEBREAB E,BEEVER D E,et al.A review of eficiency of nitrogen utilisation in lacting dairy cows and its relationship with environmental pollution[J].Journal of Animal and Feed Sciences,2000,9(1):1-32. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]NENNICH T D,HARRISON JH,VANWIERINGEN L M,et al.Prediction and evaluation of urine and urinary nitrogen and mineral excretion from dairy catle[J].Journal of Dairy Science,2006,89(1):353-364. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6]MARINI J C,VAN AMBURGH M E V.Nitrogen metabolism and recycling in Holstein heifers[J].Journal of Animal Science,2003,81(2):545-552. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[7]王星凌,刘春林,赵红波,等.饲粮粗蛋白质水平对中国荷斯坦奶牛产奶性能、氮利用及血液激素的影响[J].动物营养学报,2012,24(4):669-680.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[8] LEE C.HRISTOV A N,DELL C J,et al.Effect of dietary protein concentration on ammonia and greenhouse gas emitting potential of dairy manure[J].Journal of Dairy Science,2012,95(4):1930-1941. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[9] SINCLAIR K D,GARNSWORTHY P C,MANN G E,et al.Reducing dietary protein in dairy cow diets:implications for nitrogen utilization,milk production,welfare and fertility[J].Animal,2014,8(2):262-274. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[10]BAHRAMI-YEKDANGI H,KHORVASH M,GHORBANI G R,et al.Efects of decreasing metabolizable protein and rumen-undegradable protein on milk production and composition and bloodmetabolitesofHolsteindairycowsinearly lactation[J].JournalofDairy Science,2014,97(6):3707-3714. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11]LEE C,HRISTOV A N,HEYLER K S,et al.Effects of metabolizable protein supply and amino acid supplementation on nitrogen utilization,milk production,and ammonia emissions from manure in dairy cows[J].Journal of Dairy Science,2012,95(9):5253-5268. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12] APELO S I A,BELL A L,ESTES K,et al.Effects of reduced dietary protein and supplemental rumen-protected essential amino acids on the nitrogen efficiency of dairy cows[J].Journal of Dairy Science,2014,97(9):5688-5699. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13] GESSLER P,BUCHAL P,SCHWENK H U,et al.Favourable long-term outcome after immediatetreatment of neonatal hyperammonemia due to $N$ -acetylglutamatesynthase deficiency[J].European Journal of Pediatrics,2010,169(2):197-199. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14] CHACHER B,WANG D M,LIU H Y,et al.Degradation of $L$ -arginine and $N _ { \\mathbf { \\ell } }$ -carbamoyl glutamate and their eect on rumen fermentation in vitro[J].Italian Journal of Animal Science,2012,11(4):e68. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15]CHACHER B,ZHU W,YE J A,et al.Effect of dietary $N _ { \\mathbf { \\ell } }$ -carbamoylglutamate on milk production and nitrogen utilization in high-yieldingdairy cows[J].Journal ofDairy ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Science,2014,97(4):2338-2345. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16]BACH A,CALSAMIGLIA S,STERN M D.Nitrogen metabolism in the rumen[J].Journal of Dairy Science,2005,88(Suppl.):E9-E21. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[17]SINCLAIR K D,SINCLAIR L A,ROBINSON JJ.Nitrogen metabolism and fertility in cattle: I .Adaptive changes in intake and metabolism to diets differing in their rate of energy and nitrogen release in the rumen.[J].Journal of Animal Science,200o,78(10):2659-2669. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[18]MITANI T,UEDA K,ENDO T,et al.Efect of feeding non-fibrous carbohydrate before grazing on intake and nitrogen utilization in dairy cows throughout the grazing season[J].Animal Science Journal,2012,83(2):121-127. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[19]ELLIS JL,DIJKSTRA J,BANNINK A,et al.The effect of high-sugar grass on predicted nitrogen excretion and milk yield simulated using a dynamic model[J].Journal of Dairy Science,2011,94(6):3105-3118. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[20]STAERFL S M,AMELCHANKA S L,KALBER T,et al.Effect of feeding dried high-sugar ryegrass('AberMagic'） onmethaneandurinarynitrogen emissonsofprimiparous cows[J].Livestock Science,2012,150(1/2/3):293-301. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21]HALL M B,WEIMER P J.Divergent utilization patterns of grass fructan,inulin,and other nonfiber carbohydrates by ruminal microbes[J].Journal of Dairy science,2016,99(1):245-257. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[22]CANTALAPIEDRA-HIJAR G,PEYRAUD JL,LEMOSQUET S,et al.Dietary carbohydrate composition modifies the milk N eficiency in late lactation cows fed low crude protein diets[J].Animal,2014,8(2):275-285. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[23] HIGGS R J,SHEAHAN A J,MANDOK K,et al.The effect of starch-,fiber-,or sugar-based supplements on nitrogenutilization in grazing dairy cows[J].JournalofDairy Science,2013,96(6):3857-3866. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24]ROJEN B A,LARSEN M,KRISTENSEN N B.Effect of abomasal infusion of oligofructose on portal-drained visceral ammonia and urea-nitrogen fluxes in lactating Holstein cows[J].Journal of Dairy Science,2012,95(12):7248-7260. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25]CHIBISA G E,GORKA P,PENNER G B,et al.Effects of partial replacement of dietary starch from barley or corn with lactose on ruminal function,short-chain fattyacid absorption,nitrogen utilization,and production performance of dairy cows[J].Journal of Dairy Science,2015,98(4):2627-2640. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26]PENNER G B,OBA M.Increasing dietary sugar concentration may improve dry matter intake,ruminal fermentation,and productivity of dairy cows in the postpartum phase of the transition period[J].Journal of Dairy Science,2009,92(7):3341-3353. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27]GAO X,OBA M.Effect of increasing dietary nonfiber carbohydrate with starch,sucrose,or lactose on rumen fermentation and productivity of lactating dairy cows[J].Journal of Dairy Science,2016,99(1):291-300. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[28]赵勐,王加启,朱丹,等.饲粮碳水化合物组成对奶牛氮利用率的影响[J].动物营养学报,2015,27(8):2405-2413.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29]HOLT M S,NEAL K,EUN J S,et al.Corn silage hybrid type and quality of alfalfa hay affect dietary nitrogen utilization by early lactatingdairy cows[J].Journal ofDairy Science,2013,96(10):6564-6576. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30]HOLT M S,EUN J S,THACKER C R,et al.Effects of feeding brown midrib corn silage with a high dietary concentration of alfalfa hay on lactational performance of Holstein dairy cows for the first 180 days of lactation[J].Journal of Dairy Science,2013,96(1):515-523. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31]MIYAJI M,MATSUYAMA H,HOSODA K,et al.Effect of replacing corn with brown rice grain in a total,mixed,ration silage on milk production,ruminal fermentation and nitrogen balance in lactating dairy cows[J].Animal Science Journal,2012,83(8):585-593. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32]夏科,王志博,郗伟斌,等.粗饲料组合对奶牛饲粮养分消化率、能量和氮的利用的影响[J].  \n动物营养学报，2012,24(4):673-680.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33] ARNDT C,POWELL J M,AGUERRE M J,et al.Performance,digestion,nitrogen balance,and emisson of manure ammonia,enteric methane,and carbon dioxide in lactating cows fed dietswithvaryingalfalfasilage-to-cornsilageratios[J].JournalofDairy Science,2015,98(1):418-430. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34]王志博,姜万富,辛杭书,等.饲粮添加海南霉素和莫能菌素对奶牛瘤胃发酵特性和氮平 衡的影响[J].动物营养学报,2012,24(6):1098-1104. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35]RECKTENWALD E B,ROSS D A,FESSENDEN S W,et al.Urea-N recycling in lactating dairy cows fed diets with 2 different levels of dietary crude protein and starch with or without monensin[J].Journal of Dairy Science,2014,97(3):1611-1622. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36]王志博,辛杭书,段春宇,等.饲粮中添加海南霉素和莫能菌素对奶牛瘤胃蛋白质降解和产氨菌群的影响[J].中国农业科学,2012,45(14):2959-2966.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[37]赵圣国,王加启,卜登攀,等.植物精油对尿素氮在瘤胃内容物中分布的影响[J].中国农业科学,2012,45(16):3399-3405.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[38] BARGHUEI M J,ROUZBEHAN Y,SALEM A Z M,et al.Nutrient digestion,ruminal fermentation and performance of dairy cows fed pomegranate peel extract[J].Livestock Science,2013,157(2/3):452-461. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[39]KUMAR R,DASS R S.Effect of niacin supplementation on rumen metabolites in Murrah buffaloes (Bubalus bubalis)[J].Asian-Australasian Journal of Animal Sciences,2OO5,18(1):38-41. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[40]ASCHEMANN M,LEBZIEN P,HUTHER L,et al.Effect of niacin supplementation on digestibility,nitrogen utilisation and milk and blood variables in lactating dairy cows fed a diet with a negative rumen nitrogen balance[J].Archives of Animal Nutrition,2012,66(3):200-214. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[41]ASCHEMANN M,LEBZIEN P,HUTHER L,et al.Effect of niacin supplementation on rumen fermentation characteristics and nutrient flow at the duodenum in lactating dairy cows fed a diet with a negative rumen nitrogen balance[J].Archives of Animal Nutrition,2012,66(4):303-318. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[42] BEAUDET V,GERVAIS R,GRAULET B,et al.Effects of dietary nitrogen levels and carbohydrate sources on apparent ruminal synthesis of some B vitamins in dairy cows[J].Journal of Dairy Science,2016,99(4):2730-2739. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[43] SPEK J W,BANNINK A,GORT G,et al.Effect of sodium chloride intake on urine volume,urinary urea excretion,and milk urea concentration in lactating dairy cattle[J].Journal of Dairy Science,2012,95(12):7288-7298. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[44]SPEK J W,BANNINK A,GORT G,et al.Interaction between dietary content of protein and sodium chloride on milk urea concentration,urinary urea excretion,renal recycling of urea,and urea transfer to the gastrointestinal tract in dairy cows[J].Journal of Dairy Science,2013,96(9):5734-5745. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[45]王丽.微生态制剂对奶牛氮排放的影响[D].硕士学位论文.呼和浩特:内蒙古农业大学,2015.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[46]王玲,孙友德,刘锡武,等.酵母培养物对奶牛尿中嘌呤衍生物排出量和产奶性能及氮排泄的影响[J].中国畜牧杂志,2015,51(11):44-49.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[47]王玲,孙友德,刘锡武,等.半胱胺对奶牛瘤胃微生物蛋白产量、产奶性能和氮排泄的影响[J].动物营养学报,2015,27(4):1262-1269.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[48] O'CONNOR P J,HENNESSY D,LYNCH M B,et al.The effect of dicyandiamide on rumen and blood metabolites,diet digestibility and urinary excretion[J].Livestock Science,2013,155(1):30-37. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[49]LAPIERRE H,LOBLEY G E.Nitrogen Recycling in the Ruminant:a review[J].Journal of Dairy Science,2001,84(Suppl.):E223-E236. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[50]ABDOUN K,STUMPFF F,MARTENS H.Ammonia and urea transport across the rumen epithelium:a review[J].Animal Health Research Reviews,20o6,7(1/2):43-59. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[51]RITZHAUPT A,WOOD I S,JACKSON A A,et al.Isolation of a RT-PCR fragment from human colon and sheep rumen RNA with nucleotide sequence similarity to human and rat urea transporter isoforms[J].Biochemical Society Transactions,1998,26(2):S122.   \n[52]STEWART G S,GRAHAM C,CATTELL S,et al.UT-B is expressed in bovine rumen:potential role in ruminal urea transport[J].American Journal of Physiology:Regulatory,Integrative and Comparative Physiology,2005,289(2):R605-R612. [53]MARINI J C,KLEIN J D,SANDS J M,et al.Effect of nitrogen intake on nitrogen recycling and urea transporter abundance in lambs[J].Journal of Animal Science,2004,82(4):1157-1164. [54]ABDOUN K,STUMPFF F,RABABANI I,et al.Modulation of urea transport across sheep rumen epithelium in vitro by SCFA and CO2[J].American Journal of Physiology:Gastrointestinal and Liver Physiology,2009,298(2):G190-G202.   \n[55]DORANALLI K,PENNER G B,MUTSVANGWA T.Feeding oscillating dietary crude protein concentrations increases nitrogen utilization in growing lambs and this response is partly attributable to increased urea transfer to the rumen[J].Journal of Nutrition,2O11,141(4):560-567. [56]SIMMONS N L,CHAUDHRY A S,GRAHAM C,et al.Dietary regulation of ruminal bovine UT-B urea transporter expression and localization[J].Journal of Animal Science,2009,87(10):3288-3299.   \n[57]LUDDEN P A,STOHRER R M,AUSTIN K J,et al.Effect of protein supplementation on expression and distribution of urea transporter-B in lambs fed low-quality forage[J].Journal of Animal Science,2009,87(4):1354-1365.   \n[58]HIGGS R J,CHASE L E,VAN AMBURGHM E,et al.Case study:application and   \nevaluation of the cornell net carbohydrate and protein system as a tool to improve nitrogen utilization in commercial dairy herds[J].The Professional Animal Scientist,2012,28(3):370-378. [59]HIGGS R J,CHASE L E,VAN AMBURGH M E.Development and evaluation of equations ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "in the Cornell Net Carbohydrate and Protein System to predict nitrogen excretion in lactating dairy cows[J].Journal of Dairy Science,2012,95(4):2004-2014. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Nutrition Practices for Affecting Nitrogen Utilization Efficiency and Emission of Ruminants WANG Xiaoxiao LI RuoxiMEI Yang GAO Tengyun\\* (College of Animal Science and Veterinary Medicine, Henan Agricultural University, Zhengzhou 450002, China) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The parameters related to the excretion of total ammonia nitrogen from dairy cows and manure applications are the most sensitive technical ones influencing agricultural ammonia emission. How to improve the nitrogen conversion efficiency to lactation of dairy cows through reasonable precision feeding and decrease the nitrogen emission of dairy production system are significant for the dairy production to alleviate the economic and environmental pressures. This review summarized the nutrition practices for reducing nitrogen emission of ruminants from the aspect of dietary nitrogen levels, carbohydrate types, amino acid supplementation, feed additives, dietary concentrate to forage ratio, new feed raw materials and so on. Simultaneously, the effects of Cornel net carbohydrate and protein system (CNCPA） model and its improvement on dairy farm nitrogen estimation as well as the effects of urea transporter on nitrogen metabolism of ruminants were also reviewed. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: ruminants; nitrogen utilization; nitrogen emission; nutrition practices ",
+        "page_idx": 14
+    }
+]

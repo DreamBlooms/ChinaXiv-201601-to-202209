@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "BIM对高等院校土建类人才培养的影响与思考",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢云飞1,² 李春祥1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.上海大学土木工程系，上海 200072；2.南通航运职业技术学院，南通 226010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】BIM(建筑信息模型)技术号称建筑业的第二次革命，自出现起即引起工程领域翻天覆地的变革。高校作为人才输出的重要基地，对技术研究和教育应有足够的前瞻性，而现有技术人才无法满足BIM发展与进一步推广的需求。本文从高校BIM人才培养现状入手,分析土建类 BIM人才培养中存在问题，并针对人才培养能力需求提出具体措施，为BIM技术人才培养提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词】BIM；高等院校；人才培养 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)01-0086-05   \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.01.15 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O2002年，时任美国欧特克公司副总裁的PhilipG.Bernstein[1]首次提出 Building Information Model-ing这一名词，其缩写BIM也应运而生。各国学者对BIM出现多种解释，但最为贴切无疑的是BSI（Building SMART International）对其阐述“BIM是Building Information Modeling，Building InformationModel 和 Building Information Management\"独立但相互联系的功能，不仅在建筑生命周期内设计、建造和运营中产生和利用建筑数据的业务过程，也是设施的物理和功能特性的数字化表达，同时还是在整个资产生命周期中，利用数字原型中的信息实现信息共享的业务流程的组织与控制[2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2006 年,国内高校首先引入并研究BIM[3],尤其是2016年8月住建部发布《纲要》[4]后，BIM在工程中的应用更为普遍,越来越多的业主、设计与施工方都开始应用BIM，然而现阶段，大多数BIM从业者对其理解仍局限于认为BIM是一种软件工具。这充分说明高校对BIM人才的培养规模远远不能适应行业发展的趋势，同时一些学者也指出“缺乏专业人才将是BIM应用的最大障碍”[5-6]。因此教学中应结合国内BIM发展对人才的需求，对比现有高校土建类BIM人才培养方法，分析BIM人才培养中存在的问题，从而探索适合高等院校土建累BIM专业人才的培养途径。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 国内外现有BIM人才培养方式",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1国外BIM人才培养现状 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国外大学主要从开设BIM课程、设置BIM方向硕博士和举办BIM学生竞赛等方面进行培养BIM人才。早在BIM概念产生之前，国外大学即已开设如《Theoriesof Computer Technology》等课程，讲授BIM的软件在产业链中的意义及对其它专业的影响，并定期聘请BIM软件公司、业主方等各行业专家授课，国外高校最主要的是教学中并不局限于通过单门课程介绍BIM，而是在专业课程中涵盖BIM思维，如在绿色建筑、结构设计和项目管理等课程中均涉及BIM概念及工具，因此学生在专业学习过程中始终接受BIM理念，最终运用到工作中。其次，国外高校专门开设BIM硕博士为数较少，而是以BIM与专业结合作为硕博士研究方向，或对BIM的应用阶段如项目（ProjectManagement）、过程（Process Management）和知识（Knowledge Manage-ment)进行研究。国外高校还通过举办大量BIM竞赛提高学生学习兴趣[7],如美国大型的Reno Com-petition。图1为美国高校BIM开设调查表。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/478b78c08d5be6411d334b390d92d777dd0706ea92c67b7b107f458aa274fa91.jpg",
+        "img_caption": [
+            "图1美国高校开设情况调查"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内BIM人才培养现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "+2011年，同济大学与鲁班软件签订协议约定在T程造价及BIM研究方面进行合作，由此开始国内高校的BIM人才培养。目前国内高校已形成BIM基础教学、BIM研发中心和BIM竞赛等方式的人才培养方式,并逐渐由主要讲授理论知识发展为理论与实践并重,注重能力培养的教育形式,综合分析主要有以下类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)高校设置BIM课程",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着企业对BIM的投入增大和愈加重视，越来越多的高校设置BIM方面的专业课程，增强学生在该方面的知识素养。在本科层次，同济大学、清华大学和天津大学等在土建类专业设置 BIM 软件课程；哈尔滨工业大学、沈阳建筑大学和西安建筑科技大学等开设BIM专业课程。在研究生层次，部分高校陆续进行BIM专业硕士的招生，如华中科技大学于2002年开设首个BIM工程硕士班，武汉大学等高校也招收BIM方向工程硕士，进行BIM方向的教学与科研工作[8] C",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)高校成立BIM研发中心",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为更好地推动BIM人才的培养，国内各高校相继成立与BIM相关的研发中心及研究团队。2009年，清华大学成立BIM标准研究课题组，2013年又与广联达公司合作成立BIM联合研究中心。上海交通大学BIM研究中心侧重于理论研究，主要在CAD、BIM协同及数据标准IFC方面进行研究。华南理工大学在2005年与欧特克联合成立建筑物生命周期管理BIM实验室，进行BIM理论与工程实践的研究。同济大学、华中科技大学、哈尔滨工业大学等高校也与企业合作或自主进行BIM理论、工程实践及软件研究，为土建类学生学习BIM知识和教师拓展BIM能力提供有效的工作平台。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)行业协会或企业举办各类BIM竞赛",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自2011年高校开设BIM相关课程后，BIM相关行业协会开始举办BIM展示会和各类BIM比赛。由住建部支持，中国建造师联盟、益埃毕集团和北京弘洁建英科技主办的“住博会·中国BIM技术交流暨优秀案例作品展示会大赛”为高校学生提供展示BIM技能作品的机会。而近年来享誉行业的“龙图杯”、“创新杯”、“斯维尔杯”和“广联达杯”等BIM 设计大赛[9],是由相关软件企业和行业协会联合举办,初衷是为推广企业BIM产品和扩大市场占有率，各高校为提高学生专业技能，实现教学与行业发展的对接，也纷纷鼓励学生参加此类比赛，竞赛与企业高校形成良性互动。以中国科协、中国图学学会、清华大学和中国建研院等单位主办的“龙图杯”为例，2016年举办的第五届“龙图杯”全国BIM大赛共有258家单位的434项作品参赛，涵盖BIM应用的全阶段，充分吸引了包括设计、施工和高校等各类行业BIM人才参与，参加比赛的高校与学生也越来越多，赛事规模逐年增加。除上述展示会和比赛外，各院校和地方行业协会也纷纷举办BIM比赛，促进不同院校、院校与企业等之间的BIM应用与教学交流与学习，促进高校BIM人才的培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合国内外高校BIM人才培养现状，在借鉴国外人才培养方法基础上，国内高校在BIM的教学与科研中已开展大量工作，在BIM理论研究、课程教学、实际工程参与等方面与企业和行业建立起紧密联系，已基本具备BIM人才培养的软硬件条件。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3国内高校土建类BIM人才培养存在问题分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1高校土建类BIM人才培养缺乏系统化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BIM不仅是可视化工具，更是不同模型的集成与信息整合，贯穿于设计、施工和运维等建筑全生命周期，但目前在土建类人才培养中，跨行业和跨阶段的BIM应用理念尚未普及。BIM在国内AEC行业处于初步应用阶段，BIM人才缺乏、经验有限和投资巨大都使得建筑行业BIM应用有待挖掘[10]这些又制约着高等院校BIM人才培养方案的制定和课题体系的建立，因此高校土建类BIM人才培养目前更多采取零星试点方式，不利于高水平人才的培养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2高校土建类BIM人才培养缺乏教学资料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着BIM在实际工程中越来越受重视，近年来BIM资料特别是教材数量增多，目前教材大概有以下三类。一类是BIM研究者出版的各类专著，主要介绍BIM的基础研究理论、数据转换方法及标准等；第二类是BIM工程从业者编写的各种工程案例，主要阐述BIM在各类大型工程中设计、施工、造价中的应用等；第三类是软件公司或委托机构出版的各类软件教程,着重介绍软件的操作方法[1]。三类教材能用于高校学生的课程教学教材，主要原因是理论与工程实践结合度不够、教材针对性不强以及教材内容生硬。除教材外,高校还缺少一线工程1中的实际案例、视频动画等教学素材。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3高校土建类BIM人才培养缺乏师资队伍",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高校BIM教育还处于初步阶段，基于过程的BIM教学要求教师不仅有较高的计算机应用水平，还应具备深厚的土建专业知识和广泛的如工程管理、机电基础等方面的知识储备，而目前教师较多均沿袭传统的教学手段和方法,缺乏企业BIM工程实践经验，与BIM最新行业动态脱节，多研究成果少工程案例，同时授课教师数量也较少，另外高校也缺乏完善的教师更新和学习BIM理论与实践知识的途径。完整的高校BIM师资队伍除专任教师外，还应包含BIM方面经验丰富的一线从业人员、软件技术人员和高级管理者。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4高校土建类BIM人才培养缺乏硬件基础",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM技术和软件对硬件配置要求较高，以常用的Revit软件为例，要求计算机硬件配置达到图形工作站或采用360云服务平台，同时正版软件价格也相当高，建设一套完整的BIM实验室至少要达到百万资金。同时市场上BIM软件种类繁多，各软件之间兼容性差，尚未具有统一的数据接口，形成所谓的\"信息孤岛”[12],影响 BIM教学效率和实验室建设成效。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4国内高校土建类BIM人才培养能力需求分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "美国国家BIM标准把BIM人才分为BIM用户、BIM 标准提供者和BIM工具制造商三大类。结合我国BIM应用实际情况，我国企业对BIM人才需求主要有BIM标准人才、BIM工具人才和BIM应用人才三大类[13],具体见图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高校土建类BIM人才培养应主要定位于BIM专业应用人才，不仅因为该方面人才需求数量最大、覆盖面最广，同时也与土建专业贴合度最高、适应性最强。BIM专业应用人才简单而言就是应用BIM支持和完成建筑全生命周期中各阶段任务的从业者，包括业主的设计、施工、采购、成本等人员；设计与施工企业的建筑、结构、给排水、暖通空调、电气等人员，运营管理人员以及各类相关组织中的专业BIM应用人员。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0afa8dda12d46f963820ca339ff27899fe2f7cfca79fdcc6b1a715e12e7f81e0.jpg",
+        "img_caption": [
+            "图3BIM专业人才能力分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "要培养BIM专业应用人才，高校需认真分析此类人才应具备的能力。合格的BIM专业应用人才能力主要包括工程能力和BIM能力，如图3。工程能力是在建筑全生命周期中完成单一或多个阶段任务的能力，如结构设计、机电安装以及建成后的设备保养或多个组成部分等。高校土建类BIM人才培养中基本已能涵盖设计和施工阶段的工程能力，运维阶段因在工程应用较少故在高校中较少提及，而BIM能力的培养是高校在人才培养中的重点和难点。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd9b74a78f831c8aeef204a52efb754fe3e20299b4159af8a337f910908539ec.jpg",
+        "img_caption": [
+            "图2BIM人才需求分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/60e381f2a153a63bc29647ebf92e93698d2fd41eeeb6d687983cb2b27273a1b8.jpg",
+        "img_caption": [
+            "图4BIM能力分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM能力是指利用BIM技术和方法提高工程效率与质量的能力，目前尚无准备定义。根据BIM在工程中的应用实际情况，可按能力从低至高分为BIM软件操作、BIM建模、BIM模型应用、BIM项目管理和BIM业务集成等方面，见图4。BIM软件操作是指对一种或多种软件使用的能力，如常用的Revit、Bently和Tekla 等软件,BIM建模能力是建立不同专业或不同用途模型的能力，如建筑建模、结构建模和机电建模等，BIM模型应用是应用BIM模型对工程不同阶段进行分析、模拟和优化的能力，如施工模拟、动画漫游和碰撞检测等。这三方面的能力是高校土建类人才培养能力的主要需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5国内高校土建类BIM人才培养质量提高的措施分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 加大高校土建类BIM师资队伍建设",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C一方面,高校选派一批对 BIM 感兴趣的年轻教师深入企业，与企业一线技术人员共同完成BIM项目，参与BIM在建筑全生命周期中的应用，在实践中积累工程经验；同时高校吸纳企业BIM技术人员加入师资队伍，聘请BIM行业的专家在校举办专题讲座。高校还应从经济和技术层面为专业教师提供参与各类BIM会议的机会，拓宽教师视野，促进专业教师对BIM新知识、新技术的掌握，从而提高人才培养质量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2加强校企合作，增强BIM软硬件与教学",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在解决BIM软硬件成本昂贵这一问题方面，高校可以与企业共建BIM实验室或BIM中心，共享BIM资源，企业比高校在更新BIM设施设备方面更为快捷高效,在人才培养方面可做到“无缝对接”。高校还可与企业共同编写教材、搜集教学资源，建立BIM教学资源库，不仅用于高校教学，也能用于企业员工岗前培训和业务拓展，达到企业与高校的双赢局面，推动企业参与校企合作的积极性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.3加强人才培养中多元化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BIM目前已应用于工程设计前期、设计、施工及运维等建筑全生命阶段，具有很强的实践性，仅通过课堂的理论讲授或少量的实验已无法满足企业对人才的需求。高校在人才培养中需拓展BIM教学的外延，积极利用\"导师制”和\"教学工坊”等教学模式提高学生参加实际工程的机会，通过校企合作为学生提供企业实习的机会，鼓励学生积极参与实际工程项目和各类大型BIM比赛，巩固学生对BIM知识和技能的综合运用能力，培养学生创新创业能力，培养合格的BIM专业人才。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "很多专家学者称BIM为CAD之后工程的二次革命，随着住建部及地方政府各类政策的出台，企业纷纷招揽各类人才、建立BIM中心和上马各类BIM软硬件。高校作为人才输出的重要基地，对技术研究和教育应有足够的前瞻性，合格的BIM人才应具有相关专业背景、广泛的土建相关专业知识、对BIM技术理解和协调多个专业工程师之间工作的能力，远远高于传统的人才培养要求。高校须承担人才培养的重担，顺应技术发展趋势，调整人才培养计划，实现土建类高校BIM人才培养与企业人才需求的完美对接。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］蒋金生．建筑施工企业BIM应用基础教材[M].浙江 工商大学出版社，2016.   \n[2］Building SMART联盟网站[EB/OL].http://www.building smart alliance.com/.   \n[3］何关培.BIM总论［M].北京：中国建筑工业出版 社，2011.   \n［4］中华人民共和国住建部.2016～2020年建筑业信息化 纲要［Z].2016.   \n[5]N.W.Young,S.A. Jones,H.M.Bernstein,J.Gudgel.SmartMarket report on Building Information Modeling:transforming design and construction to achieve greater industry productivity[R].New York:McGraw-Hill Construction, 2009.   \n[6]R. Sacks,R.Barak.Teaching building information modeling as an integral part of freshman year civil engineering education[J].Journal of Professional Issues in Engineering Education and Practice，2010,136（1）. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "［7］贺灵童.BIM在全球的应用现状[J].工程质量，2011，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "31(3).  \n［8］白庶等．土建类本科院校BIM人才培养实践与思考[J].土木建筑工程信息技术，2015，7（4).  \n［9］郝丽.BIM技术融入高校工程类专业教学的应用研究[J].土木建筑工程信息技术，2015，7（4).  \n[10］娄黎星.BIM介入高等教育工程管理类专业课程体系研究[J].建筑经济，2016，37（12）.  \n[11］刘红勇等．普通高等院校BIM实践教学路径探讨[J].土木建筑工程信息技术，2013，5（5）.  \n[12］许蓁等.BIM应用·设计[M].同济大学出版社，2016.  \n[13］何关培.BIM专业应用人才职业发展思考（二)http：//blog.sina.com.cn/s/blog_620be62e0100vlza.html.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effect and Thought on Talent Traing of Civil Engineering by BIM ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Xie Yunfei1,², Li Chunxiang ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1. The Civil Engineering Department of Shanghai University， Shanghai 2OOO72， China; 2.Nantong Shipping College，Nantong 226010，China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract:As the second revolution of construction,Building Information Model(BIM)has caused great changes in elgineering since it appeared. As an importantbase for training talents,universities should have prospective study of technical researchand education while theexisting BIM profesionalsare unable to meet the needs of the further development and promotion of BIM.Introduced with the current situation of BIM talent training and problems are analyzed,the article put forward specific measures which will provide reference for BIM traning talents. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Building Information Modeling；Universties；Talent Training 、 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AFGS2017亚太地区图学论坛征文通知",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AFGS2017亚太地区图学论坛将在日本东京举行。会议由日本图学会主办、中国图学会和泰国图学会协办。AFGS2017旨在为图学界提供一个在工业应用与研究领域、图学教育领域以及其他相关领域的交流和讨论的平台。会议使用英语。会议将选定的优秀论文推荐到相关一些期刊刊载。AFGS2017的参与者并不局限于亚洲地区。欢迎来自世界各地的同行参加会议。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AFGS2017会议期间将举行亚洲数字建模大赛的展览与决赛（ADMC 2017）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一、会议时间：2017年8月6日-10日二、会议地址：东京大学驹场校区",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、提交论文时间",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提交扩展摘要：2017年2月15日  \n请通过会议网站直接提交:http://afgs2017.graphicscience.jp  \n录用通知：2017年3月20日  \n提交最终版论文全文：2017年6月15日  \n四、提交海报时间  \n提交扩展摘要：2017年4月15日  \n录用通知：2017年5月15日  \n提交最终版：2017年6月15日  \n早期注册：2017年6月15日  \n五、会议网址:http://afgs2017.graphicscience. jp",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（中国图学学会提供)",
+        "page_idx": 4
+    }
+]

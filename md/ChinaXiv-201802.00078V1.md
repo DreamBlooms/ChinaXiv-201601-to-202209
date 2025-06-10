@@ -1,0 +1,160 @@
+# 鼓泡型板片元件结构对传热特性的影响
+
+张延丰1²，肖鹏¹，解辰¹，杨宗林¹，白博峰¹（1.西安交通大学动力工程多相流国家重点实验室，西安 710049；2.兰州石油机械研究所，兰州 730050）
+
+摘要：鼓泡型板式换热器是一种新型热交换器。目前其板型几何参数对板片通道内流动与传热的影响规律还不清楚。本文基于多场协同原理数值研究了板型主要几何参数对流动传热的影响规律，发现当单元体长度增大或宽度减小时，通道摩擦阻力因子$f$ 减小，综合性能评价参数PEC值增大；当单元体相对主流流动方向倾斜角为 $9 0 ^ { \circ }$ 时， $f$ 值最小，PEC 值最大。本文的研究结果对鼓泡板片传热元件的几何结构优化及板型优化设计具有指导意义。
+
+关键词：鼓泡板片传热元件；流动与传热；几何参数优化中图分类号：TK172 文献标识码：A
+
+# The effect of the structure of bubble type plate element on heat transfer
+
+ZHANG Yan-Feng1,² XIAO Peng1 XIE Chen1 YANG Zong-Lin1 BAI Bo-Feng
+
+1. State Key Laboratory of Multiphase Flow inPower Engineering, Xi'an Jiaotong University, Xi'an 710049,China;
+
+2.Lanzhou Institute of petroleum machinery,Lanzhou 73oo5o, China)
+
+Abstract: Bubble plate heat exchanger is a new type heat exchanger The influence ofthe plate geometric parameters on the flow and heattransfer is unclear so far.Based on the principle of multi-field synergy,the influence ofthe plate geometric parameters on the flow and heat transfer is studied numerically.It is find that when theunit length increases or the width decreases, the friction factor $f$ decreases, performance evaluation parameters $P E C$ increases; when the inclination angle of the unit body relative to the main flow direction is $9 0 ~ ^ { \circ }$ ，the factor $f$ obtain the minimum value,PEC obtain the maximum value.The results can be applied to the optimization of the bubble plate heat transfer element and the plate design.
+
+Key words: bubble plate heat exchanger; plate element; heat transfer; multi-field synergy
+
+# 0引言
+
+板式热交换器具有传热系数高、阻力系数小、结构紧凑、运行费用低等特点，被广泛运用于热能动力、石油化工等领域。鼓泡型板式换热器是一种新型板式换热器，采用无源强化传热技术来改善通道内的流动与传热性能，其主要优点是流动分配均匀，摩擦压降小，板片单位面积上接触点少，有利于减少结垢与沉积[]。
+
+的协同关系来评价传热元件的性能，这些理论统称为“多场协同”原理。
+
+本文数值模拟了鼓泡型板片元件组成通道内的流场，基于“多场协同”原理对鼓泡板片传热元件的几何参数对流动传热的影响进行了评价，得出几何参数对流动传热的影响规律，得到了优化参数。
+
+文献[23]提出了“场协同”原理，揭示了减薄热边界层厚度与增加流体扰动之间的内在关系，认为减小主流速度矢量与温度梯度矢量之间的协同角可以强化对流换热。文献[4-7建立了速度场与主流方向速度梯度场之间的协同关系，发现流体沿主流方向速度矢量与温度梯度矢量间的协同关系可以表征传热元件的综合性能。上述学者通过寻找各矢量间
+
+# 1数值模拟方法
+
+# 1.1物理模型与数学描述
+
+鼓泡板片主要由单元体长度 $l ,$ 宽度 $b$ 、高度 $h$ 、
+
+相对主流方向的倾斜角 $\theta _ { 1 }$ 以及夹角 $\theta _ { 2 }$ 五个基本几何参数确定，板片及单元体结构如图1所示。计算域如图2所示，在横纵方向上各包含4个单元体。其中， $h$ 为 $2 . 8 ~ \mathrm { m m }$ ， $\theta _ { 2 }$ 为 $9 0 ^ { \circ }$ ， $l$ 取值分别为20、22、24、26、28、30(mm)， $b$ 取值分别为9、10、11、12、13、 $1 4 ( \mathrm { m m } )$ 及 $\theta _ { 1 }$ 的取值分别为 $0 ^ { \circ }$ 、$1 5 ^ { \circ }$ 、 $3 0 ^ { \circ }$ 、 $4 5 ^ { \circ }$ 、 $6 0 ^ { \circ }$ 、 $7 5 ^ { \circ }$ 、 $9 0 ^ { \circ }$ ，板长 $L$ 为 $1 6 9 . 4 8 ~ \mathrm { m m }$ 板宽W为 $1 4 9 . 4 8 ~ \mathrm { m m }$ 。
+
+热 螨味  
+流  
+体冷流体
+
+![](images/b342866bab373a32064ded52e213357b164e6d8f5e535cc36f2222aad5f1eed7.jpg)  
+图1鼓泡型板式热交换器及单元体结构  
+Fig.1 Bubble type plate heat exchanger and its structure   
+图2鼓泡板片通道计算域  
+Fig.2 Bubble plate channel computational domain
+
+鼓泡型板片通道类似于长方形窄通道，通道内单相流动临界雷诺数小于圆管内流动临界雷诺数。一般，鼓泡板片通道中的流动处于低雷诺数湍流状态[8.9]，本文计算采用的雷诺数大约为 2200。SST湍流模型综合了 $k { - } \varepsilon$ 和 $k { - } \omega$ 两种模型的特点，近壁面区使用 $k { - } \omega$ 模型预测剪切流动，主流区使用 $k { - } \varepsilon$ 模型预测湍流流动[10]，既考虑壁面附近湍流剪切应力传输，又可预测流动开始和负压力梯度下流体分离，不会对涡流粘度造成过度预测，适用于鼓泡型板通道内的流场计算。
+
+# 1.2边界条件与网格验证
+
+采用ICEM进行非结构化四面体网格划分，壁面用三棱柱网格加密，网格验证采用的几何尺寸为：$l { = } 2 0 \ \mathrm { m m }$ ， $\scriptstyle b = 9 { \mathrm { ~ m m } }$ ， $\theta _ { 1 } = \theta _ { 2 } { = } 9 0 ^ { \circ }$ 。工质为水，入口为速度入口边界，入口温度293K，采用压力出口边界；壁面为无滑移边界，板壁面等壁温 $\scriptstyle { T _ { \mathrm { w } } = 3 3 3 \mathrm { K } }$ ，通道两侧绝热。采用CFX软件，网格独立性验证后采用了6597193个网格，对应的网格尺寸为 $0 . 7 2 \ \mathrm { m m }$ 正式计算中网格尺寸均为此值。
+
+# 1.3数据处理方法
+
+摩擦阻力系数采用范宁摩擦阻力系数：
+
+$$
+f = \frac { \Delta p _ { \mathrm { f } } D _ { \mathrm { e } } } { 2 \rho L u _ { \mathrm { i n } } ^ { 2 } }
+$$
+
+式中， $\varDelta p _ { \mathrm { f } }$ 为通道进出口间的流动摩擦压降，$D _ { \mathrm { e } }$ 表示通道当量直径且 $D _ { \mathrm { e } } { = } 4 h$ 。
+
+壁面局部 $N u _ { \mathrm { w a l l } }$ 数及壁面平均 $N u _ { \mathrm { { m } } }$ 数为：
+
+$$
+N u _ { \mathrm { w a l l } } = \frac { h _ { \mathrm { c } } D _ { \mathrm { e } } } { \lambda }
+$$
+
+$$
+N u _ { \mathrm { { m } } } = { \frac { \displaystyle \int N u _ { \mathrm { { w a l l } } } \mathrm { d } { \cal { A } } } { \displaystyle { \cal { A } } _ { \mathrm { { w a l l } } } } }
+$$
+
+式中， $h _ { c }$ 表示壁面局部对流换热系数，λ表示水的导热系数。
+
+通常传热元件换热增强，流动阻力也会增大。这里使用如下综合性能评价参数：
+
+$$
+P E C = \frac { N u / { N u _ { 0 } } } { ( f / { f _ { 0 } } ) ^ { 1 / { 3 } } }
+$$
+
+式中， $N u _ { 0 }$ 和 $f _ { 0 }$ 分别代表光板的努塞尔数和摩擦阻力因子。
+
+# 1.4多场协同原理
+
+基于“多场协同”原理 $[ 2 - 7 ]$ ，采用速度场矢量 $\pmb { U }$ 与沿主流方向分速度梯度场矢量 $\nabla \pmb { u }$ 的协同角 $\alpha$ 评价不同几何参数下的摩擦阻力特性：
+
+$$
+\alpha = a r c \cos { \frac { \pmb { U } \cdot \nabla \pmb { u } } { \left| \pmb { U } \right| \left| \nabla \pmb { u } \right| } }
+$$
+
+采用速度场矢量 $\pmb { U }$ 与温度梯度场矢量VT的协同角 $\beta$ 评价不同几何参数下的传热特性：
+
+$$
+\beta = a r c \cos { \frac { \pmb { U } \cdot \nabla \pmb { T } } { | \pmb { U } | | \nabla \pmb { T } | } }
+$$
+
+采用主流方向分速度梯度场矢量 $\nabla \pmb { u }$ 与温度梯度场矢量 $\nabla T$ 的协同角 $\gamma$ 评价不同几何参数下的综合特性：
+
+$$
+\gamma = { a r c } \cos \frac { \nabla T \cdot \nabla u } { \left| \nabla T \right| \cdot \left| \nabla u \right| }
+$$
+
+整场平均协同角取积分平均中值角[：
+
+$$
+\alpha _ { \mathrm { m } } = a r c \cos \frac { \sum \pmb { U } \cdot \nabla \pmb { u } \mathrm { d } V } { \sum \pmb { \lvert U \rvert } \cdot \lvert \nabla \pmb { u } \rvert \mathrm { d } V }
+$$
+
+$$
+\begin{array} { r } { \beta _ { \mathrm { { m } } } = a r c \cos { \displaystyle \frac { \sum U \cdot \nabla T \mathrm { { d } } V } { \sum \left| U \right| \cdot \left| \nabla T \right| \mathrm { { d } } V } } } \\ { \gamma _ { \mathrm { { m } } } = a r c \cos { \displaystyle \frac { \sum \nabla T \cdot \nabla u \mathrm { { d } } V } { \sum \left| \nabla T \right| \cdot \left| \nabla u \right| \mathrm { { d } } V } } } \end{array}
+$$
+
+# 2结果与讨论
+
+# 2.1单元体长度 $\iota$ 对整场平均协同角的影响
+
+固定单元体宽度为 $9 \ \mathrm { m m }$ ，相对主流方向的倾斜角 $\theta _ { 1 }$ 以及结构夹角 $\theta _ { 2 }$ 均为 $9 0 ^ { \circ }$ ，图3给出了平均协同角随单元体长度 $l$ 的变化规律。随着 $l$ 的增大,速度场 $\pmb { U }$ 与分速度梯度场 $\nabla \pmb { u }$ 的平均协同角 $\alpha _ { \mathrm { m } }$ 增大， $\scriptstyle { a _ { \mathrm { m } } < 9 0 ^ { \circ } }$ ，二者的协同性变弱，摩擦阻力减小，$f$ 值减小；速度场 $\pmb { U }$ 与温度梯度场VT的整体协同角$\beta _ { \mathrm { m } }$ 减小， $\beta _ { \mathrm { m } } { < } 9 0 ^ { \circ }$ ，二者的协同性变强，传热效果增强，平均 $N u _ { \mathrm { { m } } }$ 数增大；温度梯度场VT与分速度梯度场 $\nabla \pmb { u }$ 的平均协同角 $\gamma _ { \mathrm { m } }$ 增大，且 $\gamma _ { \mathrm { m } } { > } 9 0 ^ { \circ }$ ，二者的协同性变强，综合性能评价参数 $P E C$ 值增大。
+
+# 2.2单元体宽度 $\textbf { \textit { b } }$ 对整场平均协同角的影响
+
+固定单元体长度 $l$ 为 $2 0 \mathrm { m m }$ ，相对主流方向的倾斜角 $\theta _ { 1 }$ 以及结构夹角 $\theta _ { 2 }$ 均为 $9 0 ^ { \circ }$ ，图4给出了平均协同角随单元体宽度 $b$ 的变化规律。随着 $b$ 的增大，速度场 $\pmb { U }$ 与分速度梯度场 $\nabla \pmb { u }$ 的平均协同角 $a _ { \mathrm { m } }$ 减小， $\scriptstyle { a _ { \mathrm { m } } < 9 0 ^ { \circ } }$ ，二者的整体协同性变强，摩擦阻力增大， $f$ 值增大；随着 $b$ 的增大，速度场 $\pmb { U }$ 与温度梯度场 $\nabla T$ 的整体平均协同角 $\beta _ { \mathrm { m } }$ 减小，且$\beta _ { \mathrm { m } } { < } 9 0 ^ { \circ }$ ，二者的整体协同性变强，传热效果增强，平均 $N u _ { \mathrm { { m } } }$ 数增大；随着 $b$ 的增大，温度梯度场 $\nabla T$ 与分速度梯度场 $\nabla \pmb { u }$ 的平均协同角 $\gamma _ { \mathrm { m } }$ 一直减小，且$\gamma _ { \mathrm { m } } { > } 9 0 ^ { \circ }$ ,二者的整体协同性变若，综合性能评价参数PEC值会减小。
+
+![](images/ea6387de296c2e0680e251d0d878502ff38c8f87aa111484269eae0c514cc530.jpg)  
+图3三种平均协同角随1的变化规律
+
+![](images/b083b1f749964d22b3afa6f40308fe2ffbca710f3f56d3a56000c9f97e4311d1.jpg)  
+Fig.3 Three average synergy angles variation with l
+
+图4三种平均协同角随 $b$ 的变化规律
+
+Fig.4 Three average synergy angles variation with $b$
+
+# 2.3单元体倾斜角 $\theta _ { 1 }$ 对整场平均协同角的影响
+
+图5所示为 $\theta _ { 1 }$ 变化时三种平均协同角的变化规律，其中 $l { = } 2 0 \mathrm { m m }$ ， $\scriptstyle b = 9 { \mathrm { ~ m m } }$ ， $\theta _ { 2 }$ 为 $9 0 ^ { \circ }$ 。图5（a)，当 ${ \theta _ { 1 } } \mathrm { { = } } 3 0 ^ { \circ }$ 时，通道内速度场 $\boldsymbol { \mathbf { \mathit { v } } }$ 与主流方向分速度梯度场 $\nabla \pmb { u }$ 的平均协同角 $a _ { \mathrm { m } }$ 最小，且 $\scriptstyle { a _ { \mathrm { m } } < 9 0 ^ { \circ } }$ ，二者的整体协同性最强， $f$ 值最大；而当 ${ \theta _ { 1 } } \mathrm { { = } } 9 0 ^ { \circ }$ 时，$a _ { \mathrm { m } }$ 最大，对应 $f$ 值最小。由图5(b)，随 $\theta _ { 1 }$ 的变化,平均协同角 $\beta _ { \mathrm { m } }$ 会先减小后增大，且当 $\theta _ { 1 } = 4 5 ^ { \circ }$ 时，$\beta _ { \mathrm { m } }$ 最小，壁面平均 $N u _ { \mathrm { { m } } }$ 数最大。由图5（c)，随 $\theta _ { 1 }$ 的增大，平均协同角 $\gamma _ { \mathrm { m } }$ 先减小后增大，且 $\gamma _ { \mathrm { m } } { > } 9 0 ^ { \circ }$ ，当 ${ \theta _ { 1 } } \mathrm { { = } } 9 0 ^ { \circ }$ 时，温度梯度场 $\boldsymbol { \nabla } T$ 与分速度梯度场 $\nabla \pmb { u }$ 的协同性最强， $\gamma _ { \mathrm { { m } } }$ 最大，综合性能参数PEC值最大。
+
+![](images/d4831fc236568cf8041062ec7bb77c1b9558b157653a6da2262741a3eea9ddc6.jpg)  
+Fig.5 Three average synergy angles variation with $\theta _ { 1 }$
+
+图5三种平均协同角随 $\theta _ { 1 }$ 的变化规律
+
+# 3结论
+
+本文基于“多场协同"原理对鼓泡板片传热元件的主要几何参数进行了研究，得出结论：（1）增大单元体长度l，综合性能参数PEC增大；（2）增大单元体宽度 $b$ ，综合性能参数PEC减小；（3）当单元体倾斜角 $\theta _ { 1 }$ 为 $9 0 ^ { \circ }$ 时，综合性能参数PEC最大。
+
+# 参考文献：
+
+[1]肖鹏．鼓泡型板片传热元件的流动与传热特性研究 [D]．西安：西安交通大学，2013. XIAO Peng. Study on flowandheattransfer characteristics ofbubble plate heat transfer element[D].Xi'an:Xi'an Jiaotong University,2013.   
+[2]Guo Z Y,Li D Y,Wang B X. A novel concept for convective heat transfer enhancement[J]. International Journal ofHeat Mass Transfer,1998,41(14): 2221-2225.   
+[3] 过增元．对流换热的物理机制及其控制:速度场与热流 场的协同[J]．科学通报，2000，45(19)：2118-2122. Guo Zengyuan. The physical mechanism of convective heat transfer and the control: synergy of the velocity field and the heat flow field[J]. Chinese Science Bulletin,2000, 45(19): 2118-2122.   
+[4]刘伟，刘志春，马雷．多场协同原理在管内对流强化传 热性能评价中的应用[J]．科学通报，2012，56(10)： 867-874. LIUWei, LIU Zhichun,MALei.Application of multi-field synergy principle in the performance evaluation of the convection heat transfer enhancement in pipe flow[J]. Chinese Science Bulletin,2012,56(10): 867-874.   
+[5]Liu W,Liu Z C,Huang S Y. Physical quantity synergy i the field of turbulent heat transfer and its analysis for heat transfer enhancement[J].Chinese Science Bulltin,2010, 55(23): 2589-2597.   
+[6] Liu W, Liu $Z \mathrm { ~ C ~ } _ { : }$ ，Guo Z Y.Physical quantity synergy in laminar flow field of convective heat transfer and analysis of heat transfer enhancement[J]. Chinese Science Bultin, 2009,54(19): 3579-3586.   
+[7]Liu W, Liu Z C, Ming T Z, et al. Physical quantity synergy in laminar flow field and its application in heat transfer enhancement[J]. International Journal of Heat and Mass Transfer, 2009,52(19): 4669-4672.   
+[8] Mehrabian M A, Poulter R. Hydrodynamics and thermal characteristicsof corrugated channels: computational approach[J].Applied Mathematical Modeling,20oo,24(5): 343-364.   
+[9]Zhang L Z. Numerical study of periodically fully developed flow and heat transfer in cross-corrugated triangular channels in transitional flow regime[J]. Numerical Heat Transfer,2005,48(4):387-405.   
+[10] Han W,Saleh K,Aute V,et al.Numerical simulation and optimization of single-phase turbulent flow in chevron-type plate heat exchanger with sinusoidal corrugations[J]. HVAC&R Research,2011,17(2):186-197.   
+[11]陶文钰，何亚玲．对流换热及其强化理论与试验研究最 新进展[G]．北京：高等教育出版社，2005：12-13. TAO Wenquan，HE Yaling.Convective heat transfer enhancement and its latest progress in theoretical and experimental study.[G]. Beijing: Higher Education Press, 2005:12-13.

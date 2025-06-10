@@ -1,0 +1,517 @@
+[
+    {
+        "type": "text",
+        "text": "Integrating water use systems and soil and water conservation measures into a hydrological model of an Iranian Wadi system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nariman MAHMOODI1\\*, Jens KIESEL1,2, Paul D WAGNER1, Nicola FOHRER1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofHrologyndWateresourcesgementItituteforturalsoureoervation,ielity Kiel 24118, Germany;   \n2 Departmentof Ecosystem Research,Leibniz-Institute ofFreshwater Ecologyand Inland Fisheries (IGB),Berlin12489, Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Water resources are precious in arid and semi-arid areas such as the Wadis of Iran.To sustainably manage these limited water resources,the residents of the Iranian Wadis have been traditionally using several water use systems (WUSs) which affect natural hydrological processes. In this study, WUSs and soil and water conservation measures (SWCMs) were integrated in a hydrological model of the Halilrood Basin in Iran. The Soil and Water Assessment Tool (SWAT) model was used to simulate the hydrological processes between 1993 and 2009 at daily time scale. To assess the importance of WUSs and SWCMs, we compared a model setup without WUSs and SWCMs (Default model) with a model setup with WUSs and SWCMs (WUS-SWCM model). When compared to the observed daily stream flow, the number of acceptable calibration runs as defined by the performance thresholds (Nash-Sutcliffe efficiency (NSE) $\\ge 0 . 6 8$ ， $- 2 5 \\%$ <percent bias (PBIAS) $\\leq 2 5 \\%$ and ratio of standard deviation $( \\mathrm { R S R } ) { \\le } 0 . 5 6 )$ is 177 for the Default model and 1945 for the WUS-SWCM model. Also, the average Kling-Gupta efciency (KGE) of acceptable calibration runs for the WUS-SWCM model is higher in both calibration and validation periods. When WUSs and SWCMs are implemented, surface runoff (between $30 \\%$ and $9 9 \\%$ ) and water yield (between O and $1 8 \\%$ )decreased in all sub-basins. Moreover,SWCMs lead to a higher contribution of groundwater flow to the channel and compensate for the extracted water by WUSs from the shallow aquifer. In summary, implementing WUSs and SWCMs in the SWAT model enhances model plausibility significantly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: SWATmodel; stream flow; Wadis; multi-metric framework; water use systems; soil and water conservation measures; Halilrood Basin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over-exploitation of water resources and water scarcity have become a worldwide and prevalent problem in most arid and semi-arid regions such as the Wadis in Iran (Voss et al.,2O13). In addition to a strong variability of precipitation in space and time in arid and hyper arid climates, these regions experience the lowest amounts of precipitation in Iran (Khalili and Bazrafshan, 2004; Motiee et al., 2O06). In arid environments, most of the rainwater is lost to evaporation (Tavakoli et al.,2010). Under such circumstances, the limited available freshwater is a fundamental and valuable resource for the population and the natural environment. On the one hand, over the past centuries, traditional water use systems (WUSs) such as qanats (a slightly sloping tunnel constructed to accumulate and transfer water from the groundwater to the land surface), wells, springs and dams have been used by native residents to manage limited water resources (Motiee et al.,2006; Ouessar et al.,2OO9; Nasiri and Mafakheri,2015). Qanats and drilled wels are considered the most stable and successful water supply systems in hot and arid climates (Boustani, 2008; Hussain et al., 2OO8; Mostafaeipour, 2O1O). Hence, WUSs are a reliable way to secure access to safe and affordable water for several purposes, e.g., drinking, washing and irrigating. On the other hand, numerous soil and water conservation measures (SWCMs) such as semi-circular bunds and soil bunds have been constructed to decrease the velocity of surface runoff and erosion rate, and to consequently increase the infiltration and percolation in the Halilrood Basin of Iran. The existence of WUSs and SWCMs in the Wadis has led to complex hydrological impacts that are not well understood (Ouessar et al., 2009; Abouabdillah et al., 2014; Hashemi et al., 2015). The WUSs are used to not only transfer water from shallow aquifers to the land surface for various purposes, but also release water into rivers in some cases, which makes it difficult to include these water usages in a hydrological model. Although stream flow may be separately measured for the qanats, springs and wells, the amount of released or utilized water from these water supply systems has not been recorded so far. Hence, the amount of extracted water that is released to rivers is unknown. In addition, in a Wadi catchment, the amount of water which is extracted by these traditional water supply systems can significantly affect river runoff (Ouessar et al., 2009). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In previous studies that have been carried out in Iran, mostly the impacts of WUSs and SWCMs on groundwater were evaluated, but they were not included in a catchment model to simulate stream flow. For instance， Sadeghi-Tabas et al. (2Ol7) integrated qanats, springs and wells in a groundwater model with a genetic multi-algorithm method to define the pumping rates within a series of Pareto solutions. Naghibi et al. (2O18) used the location of qanats to model the groundwater extraction potential of Beheshtabad Basin in the center of Iran. Understanding hydrological processes and providing reasonable strategies and plans for policy makers for a better management of water resources in these regions are important. In this regard, hydrological models can be used to depict complex hydrological conditions and investigate the impacts of WUSs and SWCMs on hydrological processes in a Wadi catchment. Due to the specific hydrological and climatic conditions and limited data availability, using a model that is capable of simulating hydrological processes under these conditions, is critically important. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hydrological processes and stream flow of arid and semi-arid regions were simulated by a variety of models in different parts of the world, and a large number of studies focused on stream flow simulations in dry basins. For instance, Hernandez et al. (2OoO) applied two hydrological models in a small semi-arid watershed in southeastern Arizona, USA; Peugeot et al. (2Oo3) employed the r.water.fea model in Sahelian West Niger; Riad etal. (2O04) used an artificial neural network (ANN) model for the Qurika Wadi Basin in Morocco; McMichael et al. (2OO6) estimated the monthly stream flow of a semi-arid basin in central California using MIKE SHE model; and Lesschen et al. (2009) simulated runoff of Carcavo Basin with the LAPSUS (landscape process modelling at multidimensions and scales） model in Southeast Spain. Also the Soil and Water Assessment Tool (SWAT) model was already applied in arid and semi-arid basins with limited data availability in different parts of the world (Yebdri et al., 20O7; Ning et al., 2015; Cheng et al., 2017; Ignatius and Jones, 2017; Hallouz et al., 2O18). In addition, the SWAT model has successfully been used in different parts of Iran, mostly to simulate stream flow (Rostamian et al., 2OO8) and groundwater (Izady et al., 2015), as well as to estimate sediment (Rostamian et al., 2O08) and nitrate transport (Jamshidi et al., 2O10),and to assess impacts of climate change (Zahabiyoun et al., 2O13; Rafiei et al., 2015),land use change (Ghaffari et al., 2009; Aghsaei et al., 202O) and engineering projects (e.g., dam construction) (Ghobadi et al., 2015) on hydrology. In summary, the SWAT model has shown its capability of modeling water fluxes in Iran as well as in arid and semi-arid basins in the world. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Despite considerable progress in hydrological simulations of Wadis during the last two decades (Al-Qurashi et al., 2008; McIntyre and Al-Qurashi, 2009; Ben and Abida, 2016), only few efforts have been made to include WUSs and SWCMs in hydrological models to simulate stream flow. As the SWAT model is an open source model that includes subroutines and parameters related to agricultural management practices as wellas water uses, it is often used to consider different WUSs and SWCMs in the simulation of stream flow. For instance, Ouessar et al. (2Oo9) applied the SWAT model to investigate the effect of WUSs on the water balance components of an arid watershed of Wadi Koutine in Southeast Tunisia, based on 38 runoff events between 1973 and 1985. Abouabdillah et al. (2O14) employed the SWAT model to evaluate the impact of SWCMs (i.e., contour ridges) on hydrological components and erosion in Merguellil catchment in the center of Tunisia. The model predicted that contour ridges produced an annual reduction in surface runoff, an increase in aquifer recharge and a retention of large proportions of entrained sediment. Moreover, Khelifa et al. (2O17) used the SWAT model to analyze the effect of bench terraces on water and sediment yield in an experimental catchment $( 3 . 2 \\mathrm { k m } ^ { 2 } )$ and found that the local terraces reduced both surface runoff and sediment yield by around $20 \\%$ . Although the impacts of different WUSs and SWCMs on surface runoff are shown in these previous studies, the influences on different segments of the hydrograph and on model performance have not been evaluated when WUSs and SWCMs are implemented. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the aims of this study are (1) to integrate traditional WUSs and SWCMs in the Halilrood Basin of Iran into a hydrological model, (2) to assess the performance of this integration, and (3) to quantify and discuss the impacts of this integration on hydrological processes of the Halilrood Basin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Studyarea ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Halilrood Basin is located in Kerman Province in the center of Iran (Fig. 1) and comprises an area of approximately $7 2 2 4 \\mathrm { k m } ^ { 2 }$ . The Halilrood River is the largest river in terms of discharge in Kerman Province and is one of the major water sources for Jazmorian wetland, which is crucial for the natural ecosystems in Southeast Iran (Skandari et al., 2O16). Due to the mountainous area in the north, elevation of the entire basin varies from approximately 1391 to $4 3 5 9 \\mathrm { m }$ a.s.1. About $7 5 \\%$ of the basin is covered by bare land (ESA, 2O1O). Limited rainfed agriculture and irrigated farming are taking place only in the surroundings of the river and qanat channels. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lithosol, Calcaric Regosol and Calcic Yermosols are the dominant soils in the basin, which are classified into soil hydrologic group C (FAO/IIASA/ISRIC/ISS-CAS/JRC, 2009) with a slow infiltration rate and a high runoff potential. Lithosol and Calcic Yermosols are shallow and moderately deep soils, containing a higher sand content and a lower silt and clay content. Specifically, the top soil layer consists of a nearly equal percentage of sand $( 4 4 \\% )$ and silt $( 3 6 \\% )$ Calcaric Regosol is a deep soil and typically has a clay-loam texture with a high clay content. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Halilrood Basin is characterized by a desert climate with hot and dry summers according to the Koppen-Geiger climate classification. The maximum daily average temperature can reach up to $4 0 ^ { \\circ } \\mathrm { C }$ at Kenaroyeh station located near the outlet of the basin. The long-term annual average temperature is $1 3 ^ { \\circ } \\mathrm { C }$ . The long-term average annual precipitation in the basin is less than $2 2 5 ~ \\mathrm { { m m } }$ (1993-2009), most of which is received between January and May, whereas precipitation is negligible between June and December. The annual potential evapotranspiration (PET) ranges from 2039 to $2 5 6 9 \\mathrm { m m }$ based on the observation data from the Baft synoptic station (Fig. 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Five hydrometric, nine climatic and one synoptic station are in operation in the upstream of Kenaroyeh station, for which daily climate (from 1979 to 2010) and discharge (from 1993 to 2011) data are available. The outlet of the basin is located in the upstream of Jiroft dam at Kenaroyeh station (shown in Fig. 1). The mean annual discharge from 1993 to 2011 is $7 . 6 8 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ In the northern part of the basin, Baft and Rabor (Nabi-e-Akram) dams (ratio of reservoir volume to mean annual runoff volume is 0.140 and 0.002, respectively) are in operation since 2007 and 2009, respectively (IWPCO, 2018). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition to using surface water, extracting groundwater is common to overcome dry periods and particularly the drought disasters of the last decade. Hence, the necessary water for domestic, industrial and agricultural purposes is supplied from 422 wells, 347 qanats, 2 dams and 184 springs ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "scattered throughout the basin (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/34a49744ad5b8014d23ebce6caf50e50a0c1e83ba9731ccf814678aa6cfb316b.jpg",
+        "img_caption": [
+            "Fig.1Location of Halilrood Basin in Kerman Province of Iran (a)and water use systems,and climatic and hydrometric stations in the Halilrood Basin (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Hydrological model ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SWAT model(Arnold et al., 1998) is one of the most widely used catchment models which can be applied to simulate hydrological processes in different climatic regions and under various conditions. It is a semi-distributed model that splits the basin into several sub-basins, where each sub-basin consists of hydrological response units (HRUs) with unique combinations of soil, land use and slope (Arnold et al., 2O12). The SWAT model has been developed to quantify the impacts of water and agricultural management practices on stream flow and other hydrological components. The model enables the complex simulation of detailed hydrological process in Wadis through the utilization of a wide range of parameters, which however requires experience for a successful application of the model. In addition, the model has shown its capability of modeling water fluxes in Iran as wellas in arid and semi-arid basins elsewhere with the integration of WUSs and SWCMs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data input and model setup ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Model parameterization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A QGIS interface for SWAT(QSWAT) model was used to prepare the SWAT model input files (Dile et al., 2016). We used the SRTM (shutle radar topography mission) digital elevation model (Jarvis et al., 2008), soil data from the harmonized world soil database (FAO/IIASA/ISRIC/ISS-CAS/JRC, 2009)and a Globcover 2009 land use map (ESA, 2010) to set up the SWAT model. It should be noted that we divided the Halilrood Basin into 285 sub-basins with 6091 HRUs using five slope bands $( < 3 \\%$ $3 \\% - 5 \\%$ ， $5 \\% - 8 \\%$ ， $8 \\% - 1 5 \\%$ and $> 1 5 \\%$ ）based on the FAO classification. This setup provided a suficient spatial resolution for implementing the SWCMs in the SWAT model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Precipitation data from nine climatic stations scattered within the Halilrood Basin were used (Fig. 1). Additional climate data of wind speed, temperature, solar radiation and relative humidity were collected from the Baft synoptic station in the north of the basin (Fig. 1). We determined two model setups by running the model without (Default model) and with (WUS-SWCM model) WUSs and SWCMs, to analyze the impacts of WUSs and SWCMs in the SWAT model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discharge data from the hydrometric station located at the outlet of the basin (Kenaroyeh station) was divided into calibration and validation datasets.We selected the years for calibration and validation based on representative climatic conditions in each period, i.e., equal distribution of dry year (total precipitation ${ < } 2 0 0 \\mathrm { m m }$ , wet year (total precipitation $> 2 7 0 \\mathrm { m m }$ andaverageyear $2 0 0 { - } 2 7 0 \\mathrm { m m }$ annual precipitation). The calibration and validation periods chosen for the simulation runs were 1995- 2003 and 2004-2009, respectively, with a two-year spin-up phase prior to 1995. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Water use systems (WUSs) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The WUSs in the Halilrood Basin include qanats, springs, wells and dams. Qanats are regarded as a traditional water use system in the study area,and more details can be available in Nasiri and Mafakheri (2O15) and Mostafaeipour (2O10). Qanats, wells and springs are providing water from shallow groundwater for domestic and industrial purposes and irrigation in the Halilrood Basin. To consider qanats, spring and wells in the SWAT model, we applied consumptive water use (an embedded approach in the SWAT model) to remove water from the basin on a monthly time step. The average monthly amount of water $( \\mathrm { m } ^ { 3 } / \\mathrm { d } )$ was therefore removed from the specified source such as the shallow aquifer (WUSHAL), the deep aquifer (WUDEEP), the reach (WURCH) or ponds (WUPND) within any sub-basins in the basin. All water supply systems (qanats, wells and springs) mentioned above were modeled by taking water from the shallow aquifer using the variable WUSHAL (Table 1). The actual locations of qanats, wels and springs were used to specify the respective sub-basins and HRUs in the SWAT model. It is notable that, due to the structure of qanats, the location of the mother well (the last and deepest well) for each qanat was considered to find out the origin of the water. Moreover, we summed up the extracted amount of water from the shallow aquifer by qanats, wells and springs based on the measured discharge provided by Iran Water & Power Resources Development Company (IWPCO) in 2O01 and 2OO6 and included it in the SWAT model. Due to changes in groundwater recharge and excessive consumption of groundwater, some of the qanats are dry and deactivated nowadays based on the measured discharge provided by IWPCO in 2001 and 20O6. These were kept out of the calculation (Table 1). In addition, the wells were classified into two groups, i.e., shallow and semi-deep wells. Due to a drop in groundwater table, $3 \\%$ of the wells were extended to semi-deep wells based on the measured discharge provided by IWPCO in 2001 and these wels were drilled deeper in Quaternary sedimentary formations $\\left( > 8 0 \\ \\mathrm { m } \\right)$ . Since those wells extracted water from the deep aquifer, they were neglected in the SWAT model. Further information about the implemented qanats, wells and springs is given in Table 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa9930a8425303d9f8af83a100d4a20ddf896765867d16b288cd883a8dbd544f.jpg",
+        "table_caption": [
+            "Table 1 1 Characteristics of the water use systems (WUSs) in the study area "
+        ],
+        "table_footnote": [
+            "Note: SWAT,Soiland WaterAssessmentTool; WUSHAL,removal waterfromtheshallowaquifer; \\*,nodata available. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">WUSs</td><td rowspan=\"2\">Number</td><td rowspan=\"2\">Number of deactivated</td><td rowspan=\"2\">SWAT- variables affected</td><td rowspan=\"2\">Hydrological components affected</td><td rowspan=\"2\">Implemented scale</td><td rowspan=\"2\">Total annual extracted (x104er3)</td><td rowspan=\"2\">Average daily discharge (L/s)</td><td colspan=\"3\">Drilling period</td></tr><tr><td>1966- 1980</td><td>1981- 1994</td><td>1995- 2011</td></tr><tr><td>Qanats</td><td>347</td><td>85</td><td>WUSHAL</td><td>Groundwater, baseflow</td><td>Sub-basin</td><td>16.67</td><td>1.52</td><td>*</td><td>*</td><td>*</td></tr><tr><td>Springs</td><td>184</td><td>14</td><td>WUSHAL</td><td>Groundwater, baseflow</td><td>Sub-basin</td><td>9.99</td><td>1.36</td><td>*</td><td>*</td><td>*</td></tr><tr><td>Wells</td><td>422</td><td>93</td><td>WUSHAL</td><td>Groundwater, baseflow</td><td>Sub-basin</td><td>48.56</td><td>*</td><td>65</td><td>59</td><td>268</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Baft and Rabor dams are two constructed reservoirs in the headwaters of the basin (Fig. 1), which supplied water for irigation and domestic purposes since 2O07 and 2OO9, respectively. Table 2 shows the reservoir parameters used in the SWAT model. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3Soil and water conservation measures (SWCMs) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Due to the soil properties and climatic conditions in the Halilrood Basin, semi-circular bunds (so called Eyebrows) and soil bunds have been constructed in bare land to protect the soil from erosion and to collect surface water. The semi-circular bunds and soil bunds, belonging to SWCMs, can alter hydrological processes by reducing surface runoff and by increasing evapotranspiration and infiltration. Those might also change the smal surface runoff routing schemes. However, since we are mainly interested in the impact on the water balance, the influence of SWCMs was estimated by changing the curve number (CN) for the affected HRUs, which is in agreement with the studies of Arabi et al. (2007), Taye et al. (2013) and Adimassu et al. (2014). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/deb663850929d4c6a622d2b76deb33e09ab048956dc3162da7a1821bac259051.jpg",
+        "table_caption": [
+            "Table 2Hydrological details of the two reservoirs (Baft and Rabor dams "
+        ],
+        "table_footnote": [
+            "Notes: -, no unit. "
+        ],
+        "table_body": "<html><body><table><tr><td>Parameter</td><td>Unit</td><td>Description</td><td>Baft</td><td>Rabor</td></tr><tr><td>SUB-BASIN</td><td>-</td><td>Number of the sub-basin in which the reservoir is located</td><td>169</td><td>198</td></tr><tr><td>IYRES</td><td>-</td><td>The operational year</td><td>2007</td><td>2009</td></tr><tr><td>RES_ESA</td><td>hm²</td><td>Reservoir surface area when the reservoir is filled to the emergency spillway</td><td>8.0</td><td>85.0</td></tr><tr><td>RES_EVOL</td><td>×104 m³</td><td>Volume of water needed to fill the reservoir to the emergency spillway</td><td>70</td><td>4000</td></tr><tr><td>RES_PSA</td><td>hm²</td><td>Reservoir surface area when the reservoir is filled to the principal spillway</td><td>7.4</td><td>32.0</td></tr><tr><td>RES_PVOL</td><td>×104 m³</td><td>Volume of water needed to fill the reservoir to the principal spillway</td><td>65</td><td>3500</td></tr><tr><td>RES_VOL</td><td>×104 m³</td><td>Initial reservoir volume</td><td>30</td><td>2000</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the SWAT model, SWCMs were implemented through a reduction of the CN values which consequently decreased the amount of surface runoff and increased the amount of infiltration. Based on previous studies, this surface runoff reduction varies from $28 \\%$ (Adimassu et al., 2014) to $50 \\%$ $( 8 0 \\% )$ (Taye et al., 2O13) for all respective sub-basins and HRUs. In our model, $50 \\%$ of the CN values were reduced in the HRUs with the artificial structures (Table 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdb9a2f27b83ebc7d44fec080323f317aa9d2e6592d7273be8cc8c57f45b6db6.jpg",
+        "table_caption": [
+            "Table 3 Characteristics of the soil and water conservation measures (SWCMs) in the study area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SWCMs</td><td>Number of sub-basins</td><td>SWAT-variablesaffected</td><td>Hydrological components and processes affected</td></tr><tr><td>Semi-circular bunds</td><td>17</td><td>Curve number</td><td>Surface runoff and infiltration</td></tr><tr><td>Soil bunds</td><td>53</td><td>Curve number</td><td> Surface runoff and infiltration</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Calibration ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, we reviewed previously published SWAT model studies in Wadi catchments to depict the hydrological components of the model, and carried out a manual sensitivity analysis to select the most important hydrological parameters. The properties and variables governing water movement into the soil and consequently into or out of the shallow aquifer were the most important parameters to sufficiently represent the WUSs in the model. The selected eight parameters and their ranges shown in Table 4 were based on previous studies in arid and semi-arid areas (Shrestha et al., 2016; Qi et al., 2017; Zettam et al., 2O17) and the manual sensitivity analysis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Latin hypercube sampling (LHS) from the R package FME was used to generate a set of variations for the calibration parameters (Soetaert and Petzoldt, 2O10; Pfannerstill etal.,2O14; Haas et al.,2016) for 300O model runs. The same set of LHS was used for the two setups.For each calibration run, the SWAT model input files were rewriten in R software (Pfannerstillet al., 2013; R Core Team, 2013). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4231d13065ff5cf5a1907f70a701ac4f2df65bccb26906495b70ac1c14942fca.jpg",
+        "table_caption": [
+            "Table 4Selected parameters forcalibration in the SWAT model "
+        ],
+        "table_footnote": [
+            "Notes:-,nounit.Add means thatagivenvalueisaddedtoheexistingparametervalue;Replacemeansthattheexistingparametervalue istobereplacedbyagivenvalue. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"> Parameter</td><td rowspan=\"2\">Description</td><td rowspan=\"2\">Unit</td><td colspan=\"2\">Calibration range</td><td rowspan=\"2\">Type</td></tr><tr><td>Minimum</td><td>Maximum</td></tr><tr><td>CN2</td><td>Initial soil conservation service runoff curve number for moisture condition II</td><td></td><td>-30</td><td>-15</td><td>Add</td></tr><tr><td>SOL_AWC</td><td>Available water capacity of soil layer</td><td>mm H2O/mm soil</td><td>-0.5</td><td>0.5</td><td>Add</td></tr><tr><td>ESCO</td><td>Soil evaporation compensation factor</td><td>-</td><td>0.90</td><td>0.96</td><td>Replace</td></tr><tr><td>GW_DELAY</td><td>Ground water delay time</td><td>d</td><td>4</td><td>10</td><td> Replace</td></tr><tr><td>RCHRG_DP</td><td>Deep aquifer percolation fraction</td><td>-</td><td>0.5</td><td>0.9</td><td>Replace</td></tr><tr><td>ALPHA_BF</td><td>Base flow alpha factor</td><td>Per day</td><td>0.08</td><td>0.20</td><td>Replace</td></tr><tr><td>SOL_K</td><td> Saturated hydraulic conductivity</td><td>mm/h</td><td>30</td><td>40</td><td>Add</td></tr><tr><td>EVRCH</td><td>Reach evaporation adjustment factor</td><td>-</td><td>0.5</td><td>0.8</td><td>Replace</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.5 Model evaluation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Nash-Sutcliffe efficiency (NSE; Nash and Sutcliffe, 197O), percent bias (PBIAS; Gupta et al., ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1999), root mean squared error (RMSE) and the ratio of standard deviation (RSR; Moriasi et al., 2007) are several quantitative criteria that are frequently used to evaluate the performance of hydrological models. In addition, the Kling-Gupta efciency (KGE) is a statistical performance metric that considers bias, correlation and variability separately (Gupta et al., 2OO9). Kling et al. (2012) published a modified version of the KGE, in which bias and variability ratios were not crosscorrelated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Since each of the aforementioned criteria has a specific hydrological focus (Guse et al., 2019), SWAT model parameters were calibrated using a multi-metric approach which has been proven efficient to balance model performance (Pfannerstill et al., 2O14; Haas et al., 2O16; Tigabu et al., 2019). Accordingly, 30OO model runs were carried out with the SWAT model. To assess model performance, we used NSE, PBIAS, RSR and the modified KGE as the performance measures on a daily basis.To identify the best calibration runs for both model setups and to enable a comparison, we defined thresholds for NSE, PBIAS and RSR so that at least $5 \\%$ of the total model runs were remaining. To this end, a hierarchical selection of model runs was conducted. Firstly, the model runs with NSE values greater than or equal to 0.68 were selected. Secondly, the model runs with PBIAS between $- 2 5 \\%$ and $2 5 \\%$ were selected. Thirdly, the model runs with RSR greater than or equal to 0.56 were identified. After the application of these thresholds on the 30oO model runs, we sorted the selected model runs according to the KGE. Finally, we selected $5 \\%$ of the total model runs (150 model runs) as the best calibration runs based on the KGE for both model setups. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, we used the segmentation of the flow duration curve (FDC; Yilmaz et al., 2008) and performance criteria for every segment (Pfannerstill et al., 2O14) to distinguish the impact of WUSs and SWCMs on different parts of the hydrograph. The segments were split at different exceedance probabilities of the FDC: $0 \\%$ ， $5 \\% - 2 0 \\%$ ， $20 \\% - 7 0 \\%$ 。 $70 \\% - 9 5 \\%$ and $9 5 \\% - 1 0 0 \\%$ ， which were associated to very high, high, middle, low and very low flows, respectively. Equal ranges were considered for the very low and very high flows in the FDC as described in Pfannerstill et al. (2O14). The RSR was applied on each of the five segments,which enabled a tailored evaluation of the model performance for the 150 best calibration runs (Haas et al., 2O16). Since the WUSs (qanats, wells and springs) extract water from the shallow aquifer and SWCMs increase the infiltration rate, impacts wil likely be highest on the base flow. Therefore, RSR in combination with different parts of the FDC is a suitable measure to evaluate the effects of WUSs and SWCMs on the model performance. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.6Water balance components ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To assess via which pathways stream flow is affected by implementing WUSs and SWCMs in the model， we compared the hydrological components water yield (WYLD） and actual evapotranspiration (ET) of the 15O best calibration runs. WYLD represents the total amount of water leaving the sub-basin and entering the main channel, which can be evaluated by the model as follows (Neitsch et al., 2011): ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WYLD $\\vDash$ SURFQ+LATQ $^ +$ GWQ-TLOSS, ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where WYLD is the water yield (mm); SURFQ is the surface runoff $( \\mathrm { m m } )$ ; LATQ is the lateral flow contribution to stream (mm); GWQ is the groundwater contribution to stream flow (mm); and TLOSS is the transmission losses (mm), i.e., water loss via transmission through the bed of the channels. Since the parameter combinations of the best calibration runs may not be the same, the parameter combinations of the best calibration runs were used for both model setups separately and the average changes for the aforementioned hydrological components were compared for al the selected runs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Calibration ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows the results of the performance metrics selection of both model setups for the calibration period of 1995-2003. In Figure 2, the 3000 model runs are shown as a relationship between each performance metric and KGE as the main performance criteria. For each performance metric, the acceptable calibration runs are identified. For the Default model, the KGE values of the ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6e59b8c083f372de27db744ba67f119023225b95b214556d41676e51c0c90d6.jpg",
+        "img_caption": [
+            "Fig.2Number $( n )$ of acceptable calibration runs for each performance metric (black points) for the Default model in the left column and the WUS-SWCM model in the right column. Default model, a model setup without water use systems and water conservation measures; WUS-SWCM model, a model setup with water use systems and water conservation measures.The gray points represent the range of the KGE (Kling-Gupta efciency)for he completedatasetofthe 3ooO modelruns.The lastrowofbothcolumns shows the selectionofacceptablecalibration runs after the application of all thresholds for the diferent performance metrics.NSE,Nash-Sutcliffe efficiency; PBIAS, percent bias; RSR, ratio of standard deviation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3000 model runs range from $- 0 . 1$ to 0.8 as compared to a narrower range of the KGE values for the WUS-SWCM model, in which the KGE values are mostly greater than 0.3 and $9 7 \\%$ of the model runs have KGE values higher than O.5. The number of acceptable calibration runs $( n )$ for each metric is defined and highlighted in black for both model setups. For the Default model, the number of acceptable calibration runs with $\\mathrm { N S E } { \\geq } 0 . 6 8$ is 243. The application of the PBIAS threshold reduces the number of total model runs from 30o0 to 2358 acceptable calibration runs. Moreover, the number of acceptable calibration runs is even smaler (182) when the defined threshold of RSR is set. However, for the WUS-SWCM model, a higher number of simulation runs remains for each performance metric when the threshold is applied. The number of acceptable calibration runs with $\\mathrm { N S E 2 0 } . 6 8$ is 2486.The PBIAS threshold leads to a high number of acceptable calibration runs (2437). When applying the RSR threshold, only 737 runs are rejected. Since the thresholds were applied based on performance metrics of the multi-metric framework (NSE, PBIAS and RSR), 177 model runs are remaining for the Default model, and this number is higher for the WUS-SWCM model, with 1942 model runs. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The acceptable calibration runs of the Default model and WUS-SWCM model setups are sorted in increasing order of the KGE values for both model setups and finally 150 best calibration runs are selected and plotted in Figure 3. The curves of the KGE clearly show the characteristics of the two model setups. In both model setups, a good performance is achieved for the first 2O runs, in which the KGE value in the calibration period is approximately 0.9. However, the KGE value of the $1 5 0 ^ { \\mathrm { t h } }$ Default model run drops below O.7. In contrast, the minimum KGE value is higher than 0.8, even for the $1 5 0 ^ { \\mathrm { t h } }$ WUS-SWCM model run (Fig. 3). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/725d2d2b501afb706f8b0e8bb02f9d5666cb3561c42f02e30811f9325ae98e92.jpg",
+        "img_caption": [
+            "Fig.3Comparison of the 150 best calibration runs for the KGE values of the Default modeland the WUS-SWCM model setups in the calibration (solid lines) and validation (dashed lines) periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although the KGE values are lower in the validation period when compared to the calibration period,a similar pattern is found for the validation and calibration periods (Fig.3). While the first eight runs of the Default model setup reach higher KGE values, the KGE values of the Default model setup declines more rapidly as compared to the WUS-SWCM model setup. In general, Figure 3 shows that beter model parameterizations are found for the model with WUSs and SWCMs than for the one without. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results show that the overall KGE significantly increases when WUSs and SWCMs are included. To show the effect of WUSs and SWCMs on different segments of the hydrograph and possible improvement, we plotted the ranges of the flow duration curves (FDCs) of the selected 150 best calibration runs for both model setups together with the observed FDC (Fig. 4). We also calculated and summarized the average RSR value over the 15O best calibration runs to quantify the difference of both model setups for each FDC segment. The results are shown in Table 5. For the calibration period,although a high goodness of fit is achieved for very high flow for both model setups (Fig. 4b), the Default model performs better with an average RSR value of 0.22. High flow is underestimated by the Default model. This is improved when the WUSs and SWCMs are included in the SWAT model (Fig. 4c), which is confirmed by the comparison of the average RSR values for the high flow segment in Table 5, where RSR values decrease from O.42 to 0.22. Flow in the middle segment is overestimated when the WUSs and SWCMs are implemented in the SWAT model (Fig. 4d), which results in higher RSR values. The average RSR value decreases from 3.10 to 2.60 (Table 5) for the low flow segment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In contrast, for the validation period, when the WUSs and SWCMs are implemented, the model is improved for very high and middle flows (Figs. 4h and j), with RSR values reducing from 0.32 to 0.28 and from 0.87 to 0.81, respectively (Table 5). The comparison of the average RSR value for the high flow segment reveals a worse performance for the WUS-SWCM model (Table 5), with an overestimation in the high flow segment (Fig. 4i). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c178cc6410b1cee7a0e682e39ff394b2f69d54ff572160bfcdef3e07015d6cb1.jpg",
+        "img_caption": [
+            "Fig.4Flow duration curves (FDCs)of the selected 150 best calibration runs for the WUS-SWCM model (light green) and Default model (pink) in the calibration (1995-2003; a-f) and validation (2004-2009; $\\mathbf { g } { - } 1 _ { , }$ periods. The common FDCs between the two model setups are shown in dark green.Different segments of the hydrograph are separated by dotted vertical lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In both model setups, the model is not capable of estimating low and very low flows close to zero (Figs. 4e, f, k and l). This means that low and very low flows are simulated as zero, while these values are only close to zero in the observed data. This leads to the same RSR value for very low flow segment in both calibration and validation periods. Some qanats have a pool at the end of the channel that allows for a slower release of the water. As this has not been included in the model implementation of qanats, which might explain the incoherencies in low and very low flows. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The parameters and their values which lead to the best model performance for both model setups are represented in Table 6. While the values of some parameters such as the soil evaporation compensation factor (ESCO) and deep aquifer percolation fraction (RCHRG_DP) are almost the same in both model setups, other parameters differ considerably. For instance, CN value and reach evaporation adjustment factor (EVRCH) are higher in the WUS-SWCM model, i.e., more surface runoff and less infiltration as well as more evaporation from the reach are possible in the WUSSWCM model. In those areas where SWCMs are present, the CN value is further reduced in the WUS-SWCM model setup prior to calibration. This explains the slightly lower overall reduction in the WUS-SWCM model setup compared to the Default model during calibration, as shown by the parameter set. Moreover, groundwater flows are faster in the WUS-SWCM model with a higher ground water delay time (GW_DELAY) value. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/316d24e3d38c59013eed51fe3a532946e06e167cfe76357b1656fe59dd18f8a2.jpg",
+        "table_caption": [
+            "Table 5Summaryof the application of the ratio of standard deviation (RSR) for each flow duration curve (FDC) segment for the average of the 150 best calibration runs of each model setup in calibration (1995-2003）and validation (2004-2009) periods "
+        ],
+        "table_footnote": [
+            "Note: Default model,amodel setup without WUSsand SWCMs; WUS-SWCMmodel,amodelsetup with WUSs andSWCMs. $^ +$ means abeterperformanceintheWUS-SWCMmodel;-meansa worseperformanceintheWUS-SWCMmodel; \\*meansnochange inthe model performance. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\">Model setup</td><td colspan=\"6\">Calibration period (1995-2003)</td><td colspan=\"6\">Validation period (2004-2009)</td></tr><tr><td colspan=\"6\">Performance metrics</td><td colspan=\"6\">Performance metrics</td></tr><tr><td colspan=\"6\"></td><td colspan=\"6\"></td></tr><tr><td>KGE</td><td>Very high High</td><td></td><td>RSR Middle</td><td>Low</td><td>Very low</td><td>KGE</td><td>Very high High</td><td></td><td>RSR Middle</td><td>Low</td><td>Very low</td></tr><tr><td>Default model</td><td>0.77</td><td>0.22</td><td>0.42</td><td>0.38</td><td>3.10</td><td>3.71</td><td>0.58</td><td>0.32</td><td>0.53</td><td>0.87</td><td>3.44</td><td>0.99</td></tr><tr><td>WUS-SWCMmodel</td><td>0.82</td><td>0.29</td><td>0.22</td><td>0.70</td><td>2.60</td><td>3.71</td><td>0.61</td><td>0.28</td><td>1.04</td><td>0.81</td><td>3.44</td><td>0.99</td></tr><tr><td>Relative changes</td><td>+</td><td>一</td><td>+</td><td>一</td><td>+</td><td>*</td><td>+</td><td>+</td><td>一</td><td>+</td><td>*</td><td>*</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdb92a9893a4749893254d2eec09b49151a0f935d14bd1f4b9ef1ea280100a39.jpg",
+        "table_caption": [
+            "Table 6 Parameter sets that lead to the best model performance for each model setup "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Model setup</td><td rowspan=\"2\">Number of model runs</td><td colspan=\"8\">Parameters</td></tr><tr><td>CN2 (add)</td><td>SOL_AWC (add)</td><td>ESCO (replace)</td><td>GW_DELAY (replace)</td><td>RCHRG_DP (replace)</td><td>ALPHA_BFSOL_KEVRCH (replace)</td><td></td><td>(add)(replace)</td></tr><tr><td>Default model</td><td>292</td><td>-24.610</td><td>0.005</td><td>0.956</td><td>8.345</td><td>0.527</td><td>0.143</td><td>32.359</td><td>0.655</td></tr><tr><td>WUS-SWCM model</td><td>2868</td><td>-20.917</td><td>-0.008</td><td>0.954</td><td>4.791</td><td>0.508</td><td>0.191</td><td>36.070</td><td>0.798</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To understand how the WUSs and SWCMs affect the hydrograph, we compared the hydrographs of the two model setups using the parameter sets of the best WUS-SWCM model (Fig. 5). Stream flow and particularly stream flow peaks are overestimated by the Default model (Fig. 5a). We compared the observed and simulated stream flow for a shorter period (January-June of 2Oo1) from both model setups to assess differences between the two model setups in more detail (Fig. 6). The Default model overestimates the peak flows considerably, while implementing WUSs and SWCMs results in decreased peak flows and a more reasonable performance in mid-January and at the end of February. Low flow is considerably underestimated by the Default model and a higher goodness of fit is obtained when the WUSs and SWCMs are implemented, e.g., in February and March. Also, the falling limb of the hydrograph is better represented by the WUS-SWCM model. This might be due to the higher infiltration rate and a slower release of water to the reach in the WUS-SWCM model. From the beginning of the dry period (May), both model setups perform similarly. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2Hydrological components ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The comparison of hydrological components of the model setups shows that aggregated basin value changes are small (changes in ET and WYLD are lower than $3 \\%$ ),because theyprobably compensate for each other on the large scale. Therefore, the change of hydrological components is evaluated at the sub-basin scale by comparing the WUS-SWCM model with the Default model (Fig. 7a). WYLD is decreasing in al sub-basins with WUSs and SWCMs, varying from 0 to $- 1 8 \\%$ (Fig. 7b). The change in runof components is split in surface runoff and groundwater flow (Figs. 7c and d). It should be noted that evapotranspiration and lateral flow changes vary less than $1 \\%$ and therefore are not shown in this paper. The surface runoff ranging from $- 3 0 \\%$ to $- 9 9 \\%$ and its contribution to the stream decrease in sub-basins with WUSs and SWCMs. Moreover, a higher contribution of groundwater to the streams in most sub-basins with SWCMs and on the contrary a lower groundwater contribution in sub-basins with WUSs (qanats, wels and springs) are shown, but in sub-basins with both WUSs and SWCMs, groundwater contribution increases (maximum $4 6 \\%$ or does not show any change.This indicates that SWCMs counterbalance the impact of WUSs on groundwater flows. Although WUSs are taking water from the shallow aquifer and change groundwater flows, the implementation of SWCMs in the basin compensates for the extracted water from the shallow aquifer by decreasing the surface runoff and increasing the infiltration rate and ground water recharge. This finding is in agreement with the studies of Abouabdillah et al. (2014) and Khelifa et al. (2017). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cce2ea6987fef214f9b5d6a899f3323e334a37cfc2efd29d1b6a3bc36b211a9f.jpg",
+        "img_caption": [
+            "Fig.5Comparison of observed and simulated stream flow from the Default model (a) and the WUS-SWCM model (b) setups in the calibration (1995-2003) and validation (2004-2009) periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/86a58e5f0566ca7b0802126e0979e03e8c3c82f95a8b2044e807a7776a8e3dbd.jpg",
+        "img_caption": [
+            "Fig.6Detailed comparison of observed and simulated stream flow from the Default model and the WUS-SWCM model setups for the period of January-June in 2001 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study, WUSs and SWCMs were successfully implemented into a hydrological model in the Halilrood Basin. Our results clearly show that there are differences in both model setups (Default model and WUS-SWCM model), which can be related to the implementation of the different measures. Model performance improved when WUSs and SWCMs are included in the SWAT model. However, this improvement is not similarly observed in all segments of the hydrograph. The model is capable of simulating the hydrological processes more realistically when more details of water systems are considered. The comparison of the hydrological components ilustrates that the contribution of surface runoff to the stream is decreased pronouncedly when WUSs and SWCMs are implemented. The presentation of SWCMs leads to a higher contribution of groundwater to the stream flow by increasing the infiltration rate and groundwater recharge and decreasing the surface runoff. Therefore, in the sub-basins with both WUSs and SWCMs, the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Nariman MAHMOODI et al.: Integrating water use systems and soil and water conservation measures.. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/680c91051e944cc38f39e7b26d5680a43617fd5e50a799f035a1896f5c4e058b.jpg",
+        "img_caption": [
+            "Fig.7Spatial distribution of sub-basins with or without WUSs and SWCMs (a) and changes of hydrological components when WUSs and SWCMs are implemented (b-d). (b), water yield; (c), groundwater flow; (d),surface runoff. Decreasing change is shown as negative value (red) while increasing change is shown as positive value (blue). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "implementation of SWCMs compensates for the impact of the WUSs. Furthermore, the amount of water leaving the basin is decreased due to the implementation of WUSs and SWCMs in the model, leading to a higher water use in the basin. Considering WUSs and SWCMs in the model is recommended to accurately simulate the hydrological processes, particularly in Wadis, where water availability is limited, these measures have a pronounced effect. Moreover, with regard to scenario assessments in the arid and semi-arid regions, hydrological models that include these measures are needed to yield reliable results and for being able to evaluate the actual impact of climate change. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The German Academic Exchange Service (DAAD) provided funding for the first author. The German Federal Ministryof Education and Research(BMBF)provided funding for the second author through the \"GLANCE\" project (Global Change Effects on River Ecosystems; O1LN132OA).Data used in this study were provided by Iran Water & Power development Company (IWPCO) and Iran Metrological Organization (IRIMO). We thank Dr. Bjorn GUSE for his helpful comments on model calibration. We would like to thank Dr.Farideh HASHEMINASAB,Dr. Khaled OSATI and Dr. Mohammad KHOSRAVI for preparing the data. Open acces funding provided by Project DEAL. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Open Access This article is licensed under a Creative Commons Atribution 4.O International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s)and the source, provide a link to the Creative Commons licence, and indicate ifchanges were made.The images or other third party material in this article are included in the article's CreativeCommons licence,unless indicated otherwise ina credit line to the material.If material is notincluded in the article's Creative Commons licence and your intended use is not permited by statutory regulation or exceeds the permitted use, you willneed to obtain permision directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "AbouabdillhA,WhiteJ,AroldJG,etal.2O14.Evaluationofsoilandwaterconservationmeasures inasem-aridriverbasin in Tunisia using SWAT. Soil Use and Management, 30(4): 539-549.   \nAdimassu Z,Mekonnen K,Yirga C,et al.2014.Efect of soil bunds onrunof,soiland nutrient losss,and crop yield inthe central highlands of Ethiopia. Land Degradation & Development, 25(6): 554-564.   \nAghsaei H,DinanNM,Moridi A,etal.2O20.Efectsofdynamiclanduseandlandcoverchangeonwaterresourcesandsediment yiedin the Anzali wetland catchment，Gilan， Iran.Science of the Total Environment,712:136449，doi: 10.1016/j.scitotenv.2019.136449.   \nAl-Qurashi A,McIntyre N, Wheater H,etal.2008. Aplicationof the Kineros2 raifall-runoff model toanaridcatchmnt in Oman. Journal of Hydrology, 355(1-4): 91-105.   \nArabi M,FrankenbergerJ,EngelAB,etal.2Oo.RepresentationofgriculturalconservationpracticeswithSWAT.Hydrological Processes,22(16): 3045-3052.   \nArnoldJG,SrinivasanR,Mutiah R S,etal.1998.Large area hydrologic modelingand assssment part I: Modeldevelopment. JAWRA Journal of the American Water Resources Association, 34(1): 73-89.   \nArnoldJG,MoriasiDN,GassmanPW,etal.212.SWAT:Modeluse,calibration,andvalidation.TransactionsoftheAABE, 55(4): 1491-1508.   \nBen S NC,Abida H.2016.Runof and sediment yield modeling using SWATmodel: Caseof Wadi Hatab Basin,Central Tunisia. Arabian Journal of Geosciences, 9: 579,doi: 10.1007/s12517-016-2607-3.   \nBoustaniF.2Oo8.Sustainable waterutilizationinaridregionofIanbyqanats.InternationalJounalofCiviland Environmental Engineering,2(7): 152-155.   \nChengM,WangYngelB,al.7.foraneemntofstialteoatioofpipiaoforoloal simulation in the three Gorges basin. Water,9(11): 838,doi: 10.3390/w9110838.   \nDile Y T, Daggupati P, George C, et al. 2016. Introducing a new open source GISuser interface for the SWAT model. Environmental Modelling and Software,85: 129-138.   \nESA(the European Space Agency).2010. Globcover 2009(Global Land Cover Map), V2.3,300 m resolution.[2019-09-01]. https://www.esa.int/ESA.   \nFAO/IIASA/ISRIC/ISS-CAS/JRC. 2009.Harmonized WorldSoil Database (version 1.1).FAO,Rome, Italyand IASA, Laxenburg, Austria.[2019-09-01]. htp://www.fao.org.   \nGhafari G, KeestraS,Ghodousi J,etal.2009.SWAT-simulated hydrologicalimpactofland-usechange inthe Zajanrood Basin, Northwest Iran. Hydrological Process,24(7): 892-903.   \nGhobadi Y,Pradan B,Sayyad GA,etal2015.Simulationof hydrological proessesandefectsofenginering projectsonthe Karkheh River Basin and its wetland using SWAT20o9. Quaternary International, 374: 144-153.   \nGupta H V,Soroshian S,YapoPO.199.Status of automaticcalibration for hydrologic models: Comparison with multilevel expert calibration. Journal of Hydrologic Engineering, 4(2): 135-143.   \nGupta H V, Kling H, Yilmaz K K,etal.2O9.Decompositionof the mean squared errorand NSE performancecriteria: Implications for improving hydrological modelling. Journal of Hydrology, 377(1-2): 80-91.   \nGuseB,PfaerstillKeselJ,etal.9.Aalysigsatimpralprocesadarameterdamiciodels toctese contrasting catchments. Journal of Hydrology, 570: 863-874.   \nHas MB,GuseB,fannerstillM,etalO16.Ajoinedmulti-metriccabrationofrverdischargeandnitrateloadswthdiet performance measures. Journal of Hydrology, 536: 534-545.   \nHalouz F, Meddi M,MahéG,etal.2018.Modelingof discharge and sediment transport through the SWATmodel inthe basin of Harraza (northwest of Algeria). Water Science,32(1): 79-88.   \nHashemi H,Berndtsson R,Persson M.2015. Artificial recharge by floodwater spreading estimated by water balances and groundwater modelling in arid Iran. Hydrological Sciences Journal, 6O(2): 336-350.   \nHernandez M,MilerSN,GoodrichDC,etal.20o.Modelingrunoffresponse tolandcoverandrainfallspatialvariabilityin semi-arid watersheds. Environmental Monitoring and Assessment, 64: 285-298.   \nHussain I,Abu-Rizaiza OS,Habib MAA,et al.2O08.Revitalizinga traditional dryland water supplysystem: The kareze in Afghanistan, Iran, Pakistan and the Kingdom of Saudi Arabia. Journal Water International, 33(3): 333-349. watershed of Georgia, USA. Hydrological Process, 32(1): 51-65.   \nIWPCO (Iran Water & Power Resources Development Company). 2018.Annual report of the being operational dams.Tehran: Ministry of Energy. http://www.iwpco.ir.   \nIzadyA,DavaryK,AlizadehA,etal.2015.GroundwaterconceptualizationandmodelingusingdistributedSWA-basedrcharge for the semi-arid agricultural Neishaboor Plain, Iran. Hydrogeology Journal, 23: 47-68.   \nJamshidi M,Tajrishy M,Maghrebi M.2010.Modelingof point and non-point sourcepolltion of nitrate with SWAT in the Jajrood River watershed, Iran. International Agricultural Engineering Journal, 19(2): 23-31.   \nJarvis A,ReuterHI,NelsonA,etal.208.Hole-filledSRTMforthe globe.Version4,available fromtheCGIAR-CSISRTM90 m Database. [2019-09-01]. htp:/srtm.csi.cgiar.org.   \nKhalili A,Bazrafshan Z. 2O04.Atrend analysis ofannual seasonaland monthly precipitation over Iran during thelast116 years. Desert, 9(1): 25-34.   \nKhelifaWB,HrmassiT,StrohmeierS,etal.2017.Prameterizationoftheeffectofenchterracesonrunofandsdimentyield bySWAT modeling inasmallsemi-arid watershed in northern Tunisia.Land Degradation &Development,28(5): 1568-1578.   \nKling H,FuchsM,PaulinM.2012.Runoffconditions intheupperDanubeBasinunderanensembleofclimatechange scenarios. Journal of Hydrology, 424-425: 264-277.   \nLesschenJP,SchoorlJM,CammeratL H.20o9.Modelingrunoffand erosion forasemi-aridcatchment usingamulti-scale approach based on hydrological connectivity. Geomorphology, 109(3-4): 174-183.   \nMcIntyreN,Al-QurashiA.2O09.Performanceof tenrainfall-runoffmodelsappliedtoanaridcatchmentin Oman.Envronmental Modelling & Software, 24(6): 726-738.   \nMcMichael CE, HopeAS,Loaiciga HA.206.Distributed hydrological modelling in California semi-arid shrublands: MIKE SHE model calibration and uncertainty estimation. Journal of Hydrology, 317(3-4): 307-324.   \nMoriasi DN,ArnoldJG,vanLiewMW,et al.2Oo7.Model evaluationguidelines forsystematicquantificationof acuracy in watershed simulations. Transactions of the ASABE,50(3): 885-900.   \nMostafaeipour A. 2O10. Historical background, productivity and technical issues of qanats. Water History,2: 61-80.   \nMotiee H,McBeanE,emsarA,eal.O6.Assssmentofthecontriutiosoftraditioalqaats insustainablewaterrouces management. Water Resources Development, 22(4): 575-588.   \nNaghibi S A,Pourghasemi HR,Abbaspour K.2018.Acomparison between tenadvanced andsoftcomputing models for groundwater qanat potential assessment in Iran using R and GIS.Theoretical and Applied Climatology,131: 967-984.   \nNash JE,Sutclife JE.1970. River flow forecasting throughconceptual models Part I: Adiscussonof principles.Journal of Hydrology,10(3): 282-290.   \nNasiri F, Mafakheri M S.2O15. Qanat water supply systems: Arevisit of sustainability perspectives.Environmental Systems Research,4: 13, doi: 10.1186/s40068-015-0039-9.   \nNeitsch SL,ArnoldJ,KiniryJ,etal.211.Soilnd Water AsessmentToolTheoreticalDocumentation Version 29.exas: Texas Water Resources Institute.   \nNing J,Gao Z,Lu Q. 2O15.Runof simulation using a modified SWAT model with spatiallycontinuous HRUs.Environmental Earth Sciences, 74(7): 5895-5905.   \nOuessar M,Bruggeman A,AbdelliF,etal.2O9. Modelling water-hrvestingsystems inthe arid southof unisiausingSWAT. Hydrology and Earth System Sciences,13(10): 2003-2021.   \nPeugeot C,CappelaereB,VieuxBE,etal.O.Hydrologicprocesssiulationofaemiarid,edoreiccatchmentinelian West Niger. 1. Model-aided data analysis and screening. Journal of Hydrology, 279(1-4): 224-243.   \nPfannerstill M,GuseB,Fohrer N.2013.A multi-storage groundwater concept for the SWAT model toemphasize nonlinear groundwater dynamics in lowland catchments. Journal of Hydrology,28(22): 5599-5612.   \nPfannerstillM,GuseB,Fohrer N.2014.Smartlow flow signature metrics foranimproved overallperformance.Journalof Hydrology, 510: 447-458.   \nQi Z, Kang G, Chu C,et al.2017.Comparison of SWATand GWLF model simulationperformance inhumid south andsemiarid north of China. Water, 9(567): 2-19.   \nRafiei E A, Kappas M,HosseiniSZ.2015.Asssing theimpactofclimate change on waterresources,crop productinandland degradation in a semi-arid river basin. Hydrology Research, 46(6): 854-870.   \nRiadS,ManiaJ,BouchaouL,etal.2Oo4.Rainfallrnof odelusingaartificialneuralntworkapproach.Mathematicaland Computer Modelling, 40(7-8): 839-846.   \nRostamian R,Jaleh A,AfyuniI M,et al.2008. Application of a SWAT model for estimating runofand sediment in two mountainous basins in central Iran. Hydrological Sciences Journal, 53(5): 977-988.   \nSadeghi-Tabas S,Samadi SZ,AkbarpourA.2017.Sustainable groundwater modelingusing single-and multi-objective optimization algorithms. Journal of Hydroinformatics, 19(1): 97-114.   \nShresthaM K,RecknagelF,FrizenshafJ,etal.2016.AsessingSWATmodelsbasedosingleandmulti-sitecalibratioforthe simulation of flow andnutrient loads in thesemi-arid Onkaparinga catchment in South Australia.Agricultural Water Management, 175: 61-71.   \nSoetaert K,Petzoldt T.2O10.Inverse modelling,sensitivityand Monte Carloanalysis inR using packageFME.Journalof Statistical Software,33(3): 1-28.   \nTavakoli AR,OweisT,FarahaniH,etal.2O10.ImprovingrainwaterproductivitywithsupplementaliigationinupperKarkheh River basinof Iran.In: CPWFProject: Improving On-farm Agricultural Water Productivityin theKarkheh River Basin (PN8). Research Report No.6. Semnan, Iran.   \nTayeG,PoesenJvanWeseeB,etal.l3.Effectsofanduse,sopegadientandsoilandwateroseationstrctureson runoff and soil loss in semi-arid northern Ethiopia. Physical Geography, 34(3): 236-259.   \nTigabuTB.WagnerDP,HormannG,etal.20l9.odelingtheimpactofagriculturalcropsonthespatialandeasonalvarability of water balance components in the Lake Tana basin,Ethiopia. Hydrology Research Journal,50(5): 1376-1396.   \nVoss K A,Famiglieti JS,LoMH,et al.2O13.Groundwaterdepletion intheMiddleEastfromGRACE with implications for transboundary water management intheTigris-Euphrates-Western Iranregion.WaterResources Research,49(2):904-914.   \nYebdri D,Erih M, HamletA,et al.2Oo7.The waterresources managementstudyofthe Wadi Tafna Basin (Algeria)using the SWAT model. African Water Journal, 1(1): 33-47.   \nYilmaz K K, Gupta HV, Wagener T.2o8.A process-based diagnosticapproach to model evaluation: Aplication tothe NWS distributed hydrologic model. Water Resources Research, 44(9): 1-18.   \nZahabiyoun B,Goodarzi AM,MassahBRR,etal.2013.Assssmentof climate changeimpacton the Gharesou Riverbasin using SWAT hydrological model. Clean-Soil, Air, Water, 41(6): 601-609.   \nZetamA,TalebAuvageS,etal.2O7.delinghrolgdsimenttasportinm-aiddatroedaet using the SWAT model: The case of the Tafna River (Northwest Algeria).Water, 9(216): 1-18. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

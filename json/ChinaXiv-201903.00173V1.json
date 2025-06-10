@@ -1,0 +1,486 @@
+[
+    {
+        "type": "text",
+        "text": "青藏高原东北部冷空气次数和强度变化的特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "时盛博1,²，张调风1²，马占良1,²，李万志1,²，杨延华1,2(1青海省气候中心,青海 西宁 810001；2 青海省防灾减灾重点实验室,青海 西宁 810001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用青藏高原东北部68个国家气象站的气象资料，统计了1961—2015年的全区月、季、年冷空气次数、强度和强降温综合强度资料，应用气候诊断方法分析了冷空气次数、强度和强降温综合强度的变化特征及其成因。结果表明：在年尺度上，1961—2015年青藏高原东北部全区冷空气年平均出现次数为49.6次，冷空气次数气候变化倾向率每10a减少0.600次，减少趋势不显著；全区冷空气年平均强度为0.39,气候变化倾向率每10a降低0.022，减弱趋势显著；全区冷空气年强降温综合平均强度为0.67,气候变化倾向率每10a降低0.005,减弱趋势不显著。在季节尺度上，冷空气次数夏季减少的趋势显著，而春季减少的趋势和秋季、冬季增加的趋势不显著;冷空气强度冬季减弱的趋势显著，而其他季节减弱的趋势不明显;强降温综合强度春季增强趋势和其他季节减弱的趋势不显著。1961—2015年大西洋欧洲区极涡面积指数等因子减小以及热带北大西洋海温指数等因子增大是导致全区年冷空气次数减少的主要成因之一，而西藏高原指数等因子增强和热带印度洋海温偶极子指数等因子减弱是导致年冷空气强度减弱的主要原因之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：冷空气次数；强度；变化；特征；青藏高原东北部文章编号： 1000-6060(2019)02-0232-12(0232\\~0243)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在全球气候变暖的背景下，全国性冷空气活动频次在20世纪60年代和90年代显著减少，而北方冷空气活动频次的年代际变化不大[1-2]。冬半年从西路和西北路入侵我国的冷空气也经常影响着青藏高原地区，冷空气过境带来的低温、雨雪、风沙天气不仅对农业和畜牧业生产、交通运输造成影响，而且也影响着旅游和人们的出行活动[3-5]。因此,加强青藏高原地区冷空气活动规律的研究，对冷空气过程的准确预测和灾害风险管理工作都有着重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在中国冷空气活动规律研究领域，王继志、叶丹、陆春晖、施宁等[6-9]模拟了北半球超长波、急流、平流层环流异常与我国冷空气活动的关系，赵强、赵其庚等[10-I]总结了东亚冷空气爆发后陆地变性的物理过程,李峰、彭京备、仇永康等[12-14]分析了北极环流、东亚环流、欧亚积雪变化对中国强冷事件的影响,毛炜峄、兰国栋、杨晓玲、徐亮等[15-19]应用冷空气活动个例资料对强降温特征、低温冻害的强度、空气污染的等级等进行了研究,邓爱娟、阮烨 等[20-21]概括了冷空气过程对不同养殖水体水温和人体健康的影响。这些成果可以帮助我们了解强冷空气的活动规律，但在以往的研究中，对青藏高原区域强冷空气活动次数、强度、综合强度的规律及其变化特征研究甚少，因此，这个方面的研究也有必要进行补充和完善。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文的目的是通过青藏高原东北部68个国家气象站强冷空气次数、强度资料的分析，找出强冷空气活动的基本规律及其变化特点，以提高强冷空气过程的预报预测能力，在此基础上提高气象灾害风险管控的水平。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用青藏高原东北部68个国家气象站(图1)1961一2015年地面气温观测资料，气象资料通过均一化质量检测，满足三性要求（资料由青海省和甘肃省气象信息中心联合提供），其中青海省的国家气象站50个，甘肃省与青海省东部边界接壤的国家气象站18个。简要的地理气候特征为，青海省柴达木盆地和甘肃省的肃北至肃南一带为干旱气候区，青海省东部和甘肃省古浪至合作一带为半干旱气候区，青海省东南部和甘肃省的卓尼至玛曲一带为半湿润和湿润气候区。基于中国气象局预报网络司下发关于《冷空气过程监测业务规定》的指导意见，依据单站 $2 4 , 4 8 , 7 2 \\mathrm { ~ h ~ }$ 降幅幅度 $( \\Delta T )$ 和日最低气温$( T d )$ 确定强降温过程等级，并统计了1961—2015年各站各月的冷空气过程次数序列。在分区基础上，确定区域冷空气过程开始时间和结束时间，计算了区域冷空气年季次数、强度和强降温综合强度（区域冷空气过程强度指数 $I$ 和区域强降温过程综合强度指数 $M$ ，,分别简称为冷空气强度和强降温综合强度，以下相同)序列，应用气候诊断方法，分析区域冷空气次数、强度和强降温综合强度的变化规律、特征及其成因。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/861ee832e799f3a6011a1ca0703fe216846d4ff3d9821325c43263d1a6e64190.jpg",
+        "img_caption": [
+            "图1青藏高原东北部气象站点分布图",
+            "Fig.1Distribution of weather stations in the northeastern Tibetan Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 区域冷空气过程判定指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "监测区域内 ${ \\geqslant } 2 0 \\%$ 的站点出现中等及其以上强度 $( 8 \\mathrm { ~ \\textdegree C ~ } > \\Delta T _ { 4 8 } \\geqslant 6 \\mathrm { ~ \\textdegree C ~ } )$ 的单站冷空气，则为一次区域性冷空气过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 区域冷空气过程强度的计算 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域冷空气过程强度指数(I)是依据某次冷空",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "气过程中不同强度等级的单站占比，确定此次冷空气过程的强度指数，具体方法为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = \\frac { 3 N _ { 3 } + 2 N _ { 2 } + N _ { 1 } } { N _ { 3 } + N _ { 2 } + N _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { 1 }$ 为单站出现一般降温 $( 8 \\mathrm { ~ \\textdegree C ~ } { > } \\Delta T _ { 4 8 } { \\geqslant } 6 \\mathrm { ~ \\textdegree C ~ } )$ （204的站点数; $N _ { 2 }$ 为单站出现较强降温( $\\Delta T _ { 4 8 } \\geqslant 8 \\mathrm { ~ \\textdegree C }$ ）的站点数; $N _ { 3 }$ 为单站出现剧烈降温（ $\\Delta T _ { 2 4 } \\geqslant 8 \\mathrm { ~ \\textdegree C }$ 或$\\Delta T _ { 4 8 } \\geqslant 1 0 \\ \\mathrm { ~ ^ { \\circ } C }$ 或 $\\Delta T _ { 7 2 } \\geqslant 1 2 \\ \\mathrm { ~ \\% ~ }$ 且 $T _ { d } \\leqslant 4 ~ \\mathrm { { ^ c } }$ )的站点数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "区域冷空气过程综合强度指数(M)是依据某次冷空气过程的强度、范围确定其综合强度，计算得到某区域内所有冷空气过程的综合强度，从而进行多个冷空气过程的对比分析。具体方法为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = I \\times { \\sqrt { \\frac { N _ { 1 } + N _ { 2 } + N _ { 3 } } { N } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 为某监测区域内的总监测站点数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 区域冷空气次数的年代际变化规律",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 冷空气次数年季的变化特征从1961—2015年全区冷空气次数的年际变化曲线图看出（图2a），全区冷空气平均出现次数为49.6次，2009 年最少为40 次,1969 年最多为60 次。1961年以来，全区年冷空气次数呈减少趋势，年冷空气次数气候变化倾向率每10a减少0.600次，全区年冷空气次数序列与年份序列的相关系数值为-0.23，相关系数值没有通过 $a = 0 . 0 5$ 的显著性水平检验。从统计参数看，1961年以来，项目研究区域年冷空气次数仅仅存在减少趋势，减少的程度不显著。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20 世纪60年代 $\\sim 2 1$ 世纪00 年代,全区年冷空气次数经历了一个“多一多一多一少一少”的年代演变过程（图2a）。2011—2015年继续维持偏少的状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从1961—2015年春夏秋冬四季全区冷空气次数的时间变化曲线图看出（图2b、图2c、图2d、图2e），1961—2015年春季和夏季次数呈减少趋势，而秋季和冬季呈增加趋势。春夏秋冬四季冷空气次数每10a的气候变化倾向率分别为-0.290、$- 0 . 3 7 0 \\ 、 0 . 0 2 0 \\ 、 0 . 0 6 0$ 次，全区春夏秋冬四季冷空气次数序列与年份序列的相关系数值分别为$- 0 . 2 0 _ { \\textup { s } } - 0 . 2 6 \\textup { , } 0 . 0 2 \\textup { , } 0 . 0 5$ 。可以看出，青藏高原东北部全区夏季相关系数值通过了 $a = 0 . 0 5$ 的显著性水平检验。这说明青藏高原东北部全区夏季冷空气次数减少的趋势十分显著，而春季次数减少的趋势和秋季、冬季次数增加的趋势并不十分显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "春夏秋冬四季各年代冷空气次数与多年平均值比较，20世纪60年代 $\\sim 2 1$ 世纪00年代，冷空气次数春季全区基本经历了一个“多一多一多一少—少”的年代际变化过程（图2b），夏季全区经历了一个“多一多一少一少一少”的年代际变化过程（图2c），秋季全区基本经历了一个“少一多一多一多—少”的年代际变化过程（图2d），冬季全区经历了一个“少一多一多一少一少”的年代际变化过程（图2e)。近5a,四季冷空气次数，冬季偏多，春季、夏季、秋季偏少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2冷空气次数年内的变化特征从全区冷空气次数各月平均值的月际变化曲线图看出（图2f），全区年内冷空气次数月际变化曲线基本呈“V”型分布，3\\~6月呈递减趋势，7月～翌年2月基本呈波动性的增加趋势，1981—2010年各月气候平均值，3月最大,7月最小。从全区月平均值变化的百分率看，2、4、5、6月和11月呈负变化，其余月份呈正变化，全区月冷空气次数减少的百分率幅度比增加的百分率幅度大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从全区各月冷空气次数序列气候变化倾向率的月际变化曲线看出（图 $2 \\mathrm { g }$ ），全区平均序列1、2、10月和11月呈增加的趋势，其他月份呈减少的趋势，各月每10a的气候变化倾向率在 $- \\ 0 . \\ 2 2 0 \\ \\sim$ $+ 0 . 1 6 0$ 次之间。全区冷空气次数序列1、2、10月和11月与年份序列的相关系数值分别为0.11、0.01、0.24、0.01，其他月份呈负相关，相关系数值在$0 . 0 3 \\sim 0 . 2 7$ 之间，其中，4、6月的负相关系数值通过了 $a = 0 . 0 5$ 的显著性水平检验，10月份正相关的相关系数值通过了 $a = 0 . 1 0$ 的显著性水平检验。这说明，全区4、6月冷空气次数减少的趋势十分显著，10月份冷空气次数呈现增加的趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从全区各月冷空气次数序列方差和月次数占年次数百分比的月际变化曲线看出（图2h），全区月次数占年次数百分比的月际变化曲线基本呈“V”型分布，1\\~4月、11\\~12月全区冷空气次数占年次数百分比在 $8 \\% \\sim 1 1 \\%$ 之间,其他月份在 $6 \\% \\sim 9 \\%$ 之间，月冷空气次数占年次数百分比3月最大，6月最小。 $3 、 4 、 6 、 7 、 9 、 1 2$ 月全区冷空气序列方差在$1 . 2 3 \\sim 1 . 3 3 \\$ 次之间,其他月份在 $1 . 0 5 \\sim 1 . 1 5$ 次之间。可以看出， $1 、 2 、 5 、 8 、 1 0 、 1 1$ 月冷空气次数方差变化小，这些月份冷空气出现的次数较稳定，3、4、6、7、9、12月冷空气次数方差变化相对较大，这些月份冷空气出现的次数不稳定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 区域冷空气强度的年代际变化规律 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1冷空气强度年季的变化特征从全区冷空气强度年际变化曲线图看出（图3a），全区冷空气平均强度为0.39，1961年以来，全区年冷空气强度呈减弱趋势，全区年冷空气平均强度每10a降低0.022，全区年冷空气强度序列与年份序列的相关系数值为-0.33，相关系数值通过了 $a = 0 . 0 5$ 的显著性水平检验。这说明青藏高原东北部全区年冷空气强度呈显著的减弱趋势，这与20世纪80年代以来青藏高原地区气温变暖的趋势比较一致，即暖日增多、冷日减少[22],单站达到强冷空气标准的日数也相应减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20世纪60年代\\~21世纪00年代，全区年冷空气平均强度经历了一个“强一强一弱一弱一弱”的年代演变过程。2011—2015年继续维持偏弱的状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从春夏秋冬四季全区冷空气强度的时间变化曲线图看出（图3b、图3c、图3d、图3e），1961—2015年春夏秋冬四季全区冷空气强度随时间均呈减弱趋势。全区春夏秋冬四季冷空气强度每10a的气候变化倾向率分别为－0.013、-0.009、-0.020、-0.045，全区春夏秋冬四季冷空气强度序列与年份序列的相关系数值分别为 $- 0 . 1 0 _ { \\textrm { , } } - 0 . 1 3 _ { \\textrm { , } } - 0 . 1 5$ 、-0.29。表明全区冬季相关系数值通过了 $\\ a = 0 . 0 5$ 的显著性水平检验。这说明青藏高原东北部全区冬季冷空气强度减弱的趋势十分显著，而其他季节减弱的趋势并不十分显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全区冷空气次数 春季全区冷空气次数全区冷空气次数年代平均 春季全区冷空气次数年代平均线性（全区冷空气次数） 线性（春季全区冷空气次数）60(a)年 =-0.060x+51.378 20 (b)春季 y=-0.029x+14.214R²=0.052 R²=0.041561652 1448 121044 840 61961 1971 1981 1991 2001 2011 1961 1971 1981 1991 2001 2011年份 年份夏季全区冷空气次数 秋季全区冷空气次数夏季全区冷空气次数年代平均 秋季全区冷空气次数年代平均-线性（夏季全区冷空气次数） 线性（秋季全区冷空气次数）  \n直 164 12 (c)夏季 =-0.037 2x+10.822 茶 1816 14 (d)秋季 y=-0.002x+12.76810 冷128 全6 秋 104 81961 1971 1981 1991 2001 2011 1961 1971 1981 1991 2001 2011年份 年份□ -1961-2010年出现次数 1月71-20出现次数  \n会 211 (e)冬季 =-0.006x\\*13536 用手 2000 (f)各月 20.0 %/17 0.015 100.013 -10.011 50.0 -20.09 0.0 -30.01961 1971 1981 1991 2001 2011 123456789101112年份 月份+全区气候变化倾向率 +全区方差01）·/ 0.20 ()各月关系数向率 0.3 1.4 （次数占年次数的百分比 110.0 20 1.3-0.10 0.0 -0.2 相 差 方 1.2 1.1 65-0.30 -0.3 1.01 23 56789101112 12 3 5 6 7 8 9101112月份 月份全区 $I$ 指数年平均强度 春季 $I$ 指数年平均强度全区 $I$ 指数年代平均 春季I指数年代平均-线性（全区 $I$ 指数年平均强度) -线性(春季 $I$ 指数年平均强度)  \n科 0700 四年 y=-0.002x+0.4538 科大 7 (b)春季0.8 y=-0.0013x+0.465 8A0.4 0.60.3 0.40.20.1 0.20 01961 1971 1981 1991 2001 2011 1961 1971 1981 1991 2001 2011年份 年份夏季 $I$ 指数年平均强度 秋季 $I$ 指数年平均强度□ 夏季 $I$ 指数年代平均 中 秋季 $I$ 指数年代平均线性(夏季 $I$ 指数年平均强度) -线性(秋季 $I$ 指数年平均强度)  \n大直 4 ()夏季 y=-0.009x×0.1579 武大 18 (d)秋季 y=-0.024x+0.38060.3 ).60.2 ).4 直0.1 ).2LYy0 01961 1971 1981 1991 2001 2011 1961 1971 1981 1991 2001 2011年份 年份冬季 $I$ 指数年平均强度 + 1961-2015年平均 1961-1990年平均□ 冬季 $I$ 指数年代平均 中 1971-2000年平均 -1981-2010年平均线性(冬季 $I$ 指数年平均强度) 0 月值变化百分率  \n科大公 4Ω1 0.8 (e)冬季 y=-0.0045x+0.8019 器 0.6 108 (f)各月 150.0 50.0 %/0.6 0.4 0.00.40.2 0.2 -50.0 月0 0.0 -100.01961 1971 1981 1991 2001 2011 12 56789101112年份 月份全区气候变化倾向率 $\\twoheadleftarrow$ 相关系数 全区方差 $\\twoheadleftarrow$ 全区月强度占年强度的百分比0.04 (g)各月气候变化率 0.2 0.5 (h)各月方差 1 20  \n/I 0.02 0.1 0.4 150.00 0.0 美 0.3 10-0.1 0.2-0.04-0.06 -0.2 0.1 5-0.08 -0.3 0.0 0123456 89101112 12 3 5 6 7 89101112月份 月份",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "全区春夏秋冬四季冷空气强度与多年平均比较，20世纪60年代 $\\sim 2 1$ 世纪00年代，春季冷空气强度基本经历了一个“强一强一弱一弱一强”的年代际变化过程（图3b），夏季冷空气强度经历了一个“强一弱一强一弱一弱”的年代际变化过程（图3c)，秋季冷空气强度经历了一个“强一强一弱—强一弱”的年代际变化过程（图3d)，冬季冷空气强度经历了一个“强一强一弱一弱一弱”的年代际变化过程(图3e）。近5a，全区四季冷空气强度春季和冬季偏弱，夏季稍偏强、秋季偏强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2冷空气强度年内的变化特征从全区冷空气强度标准气候均值的月际变化曲线图看出（图3f)，全区年内冷空气强度月际变化曲线基本呈“V\"型分布,1971—2000 年和1981—2010 年2～7月冷空气强度呈减弱趋势，8月～翌年1月呈增强趋势；1961—2015年和1961—1990 年3\\~7月冷空气强度呈减弱趋势,8月～翌年2月呈波动性的增强趋势。从各月冷空气强度月值变化的百分率看，3\\~7月呈负变化，其余月份呈正变化，月冷空气强度增强的百分率幅度比减弱的大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从全区各月冷空气强度序列气候变化倾向率的月际变化曲线看出（图 $3 \\mathrm { g }$ )，全区冷空气强度平均序列5月呈增强的趋势，其他月份呈减弱的趋势，各月冷空气强度每 $1 0 \\mathrm { ~ a ~ }$ 的气候变化倾向率在 $- 0 . 0 7 0 \\sim$ $+ 0 . 0 3 0$ 之间。全区冷空气强度序列与年份序列的相关系数值，5月为0.16，其他月份呈负相关，相关系数值在 $0 . 0 1 \\sim 0 . 2 4 \\$ 之间，其中，12月份的相关系数值通过了 $a = 0 . 1 0$ 的显著性水平检验，全区冷空气强度12月份减弱的趋势较显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从全区各月冷空气强度序列方差和月冷空气强度占年强度百分比的月际变化曲线看出（图3h），全区月冷空气强度占年冷空气强度百分比月际变化曲线基本呈“V”型分布，1\\~4月 $, 1 1 \\sim 1 2$ 月全区冷空气强度占年冷空气强度百分比在 $9 \\% \\sim 1 5 \\ \\%$ 之间，其他月份在 $2 \\% \\sim 8 \\%$ 之间。1\\~5月、 $1 0 \\sim 1 2$ 月全区冷空气强度序列方差在0.34-0.45之间，其他月份在 $0 . 1 3 \\sim 0 . 2 6$ 之间。可以看出,10月 $\\sim$ 翌年5月冷空气强度方差变化大，这些月份全区冷空气强度不稳定，6\\~9月冷空气强度变化相对较小，这些月份全区冷空气强度较稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 区域强降温综合强度的年代际变化规律",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1强降温综合强度年季的变化特征从全区强降温综合强度年际变化曲线图看出（图4a），全区强降温综合平均强度为0.67，1961年以来，全区年强降温综合强度呈略微减弱趋势，全区年强降温综合平均强度每10a降低0.005，全区年强降温综合强度序列与年份序列的相关系数值为-0.06，相关系数值没有通过 $a = 0 . 0 5$ 的显著性水平检验。这说明，青藏高原东北部全区强降温综合强度减弱的趋势不显著，这和20世纪80年代以来青藏高原地区气温变暖的趋势不太一致[23]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20世纪60年代 $\\sim 2 1$ 世纪00年代，全区年强降温综合平均强度经历了一个“弱一强一弱一强—强”的年代演变过程。2011—2015年呈偏弱的状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从春夏秋冬四季全区强降温综合强度的时间变化曲线图看出（图 $ { 4 \\mathrm { b } }$ 、图4c、图4d、图4e），1961—2015年全区强降温综合强度春季呈增强趋势，而夏季、秋季和冬季呈减弱趋势。全区春夏秋冬四季强降温综合强度每 $1 0 \\mathrm { ~ a ~ }$ 的气候变化倾向率分别为$0 . 0 3 6 \\_ 0 . 0 0 3 \\_ 0 . 0 3 0 \\_ 0 . 0 2 7$ ，全区春夏秋冬四季强降温综合强度序列与年份序列的相关系数值分别为 $0 . 2 2 , - 0 . 0 3 , - 0 . 1 7 , - 0 . 1 4$ ,可以看出，春季正相关和其他季节负相关的相关系数值均没有通过$a = 0 . 0 5$ 的显著性水平检验。这说明全区春季强降温综合强度增强的趋势和夏季、秋季、冬季强降温综合强度减弱的趋势均不十分显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全区春夏秋冬四季各年代强降温综合强度与多年平均比较，20世纪60年代～21世纪00年代，春季强降温综合强度基本经历了一个“弱一强一弱—强一强”的年代际变化过程（图4b），夏季强降温综合强度经历了一个“强一弱一弱一强一强”的年代际变化过程（图4c），秋季强降温综合强度经历了一个“强一强一强一弱一弱”的年代际变化过程（图4d)，冬季强降温综合强度经历了一个“强一强一强一强一弱\"的年代际变化过程(图4e)。近5a,全区四季强降温综合强度春季、夏季偏弱和冬季稍偏弱，秋季偏强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2强降温综合强度年内的变化特征从全区强降温综合强度标准气候均值的月际变化曲线图看出(图4f)，全区年内月强降温综合强度月际变化曲线基本呈“V”型分布，1961—2015、1961—1990年和1971—2000 年强降温综合强度12月～翌年6月基本呈波动性的递减趋势，7～11月呈递增趋势;1981—2010 年强降温综合强度9月～翌年1月基本呈波动性递增趋势，2～8月基本呈波动性递减趋势。从各月强降温综合强度月值变化的百分率看，2\\~6月和12月呈负变化，其余月份呈正变化，月强降温综合强度增强的百分率幅度比减弱的大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从全区各月强降温综合强度序列气候变化倾向",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "-全区M指数年平均强度 ·春季M指数年平均强度-全区M指数年代平均 春季M指数年代平均-线性(全区M指数年平均强度) 一线性(春季M指数年平均强度)218 「(a)年 y=000040g0.6852 科 215 (b)春季y-0.030850.56020.6A0.40.2 0.5 YY0 01961 1971 1981 1991 2001 2011 1961 1971 1981 1991 2001 2011年份 年份夏季M指数年平均强度 秋季M指数年平均强度夏季M指数年代平均 秋季M指数年代平均线性(夏季M指数年平均强度) 线性(秋季M指数年平均强度)  \n科大 (c)夏季 y=0.000 3x+0.462 1 科大 1.5 (d)秋季 y=0.003x+0.80990.8 R²=0.0009 R²=0.02810.60.40.50.20 01961 1971 1981 1991 2001 2011 1961 1971 1981 1991 2001 2011年份 年份冬季M指数年平均强度 +1961-2015年平均 —1961-1990年平均□ 冬季M指数年代平均 1971-2000年平均 1981-2010年平均线性(冬季M指数年平均强度) 月值变化百分率2 1.2 60.01.5 （e）冬季 y=0.002 7x+0.897 5 杰 1.0 (f)各月 40.0 %/率R²=0.0019 3 0.8 20.00.60.00.40.5 0.2 -20.00 0.0 -40.01961 1971 1981 1991 2001 2011 123456789101112年份 月份全区气候变化倾向率 $\\twoheadleftarrow$ 相关系数 +全区方差 $\\twoheadleftarrow$ 全区月强度占年强度的百分比000 g各月气候变化倾向率 2 005 (h)各月方差 ?  \nOI/N ■0.02 中 0.1 杀关0.00 0.0 槎 0.4 8-0.02 -0.1-0.04 0.3 6-0.06 -0.2 月-0.08 -0.3 0.2 4123456 789101112 12345 6789101112月份 月份",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "率的月际变化曲线看出（图 $\\begin{array} { r } { 4 \\mathrm { g } \\dot { } } \\end{array}$ ），全区强降温综合强度平均序列1、3、4、6、7月和10月呈增强的趋势，其他月份呈减弱的趋势，各月强降温综合强度每10a的气候变化倾向率在 $\\phantom { 0 } { - 0 . 0 0 7 } \\sim \\phantom { 0 } + 0 . 0 0 7$ 之间。全区强降温综合强度序列与年份序列相关系数值，1、3、4、6、7、10月分别为 $0 . 0 8 \\ 、 0 . 2 2 、 0 . 2 2 、 0 . 0 2 、 0 . 0 1$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.03，其他月份呈负相关，相关系数值在 $0 . 0 8 \\sim$ 0.22之间，上述月份正、负相关的相关系数值均没有通过 $a = 0 . 0 5$ 的显著性水平检验，这说明，全区1、3、4、6、7月和10月强降温综合强度增强的趋势和其他月份强降温综合强度减弱的趋势均不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从全区各月强降温综合强度序列方差和月强降温综合强度占年强降温综合强度百分比的月际变化曲线看出（图4h），全区月强降温综合强度占年强降温综合强度百分比月际变化曲线基本呈“V”型分布， $1 \\sim 4$ 月 $, 1 1 \\sim 1 2$ 月全区强降温综合平均强度占年强降温综合强度百分比在 $9 \\% \\sim 1 1 \\%$ 之间,其他月份在 $5 \\% \\sim 8 \\%$ 之间。 $1 \\sim 4$ 月、 $1 1 \\sim 1 2$ 月全区强降温综合强度序列方差在 $0 . 4 4 \\sim 0 . 5 5$ 之间,其他月份在 $0 . 3 0 \\sim 0 . 4 1$ 之间。可以看出，11月～翌年4月强降温综合强度方差变化相对较大，这些月份强降温综合强度不稳定，而其他月份强降温综合强度方差变化较小，这些月份强降温综合强度较稳定。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 区域冷空气次数和强度变化的成因 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "计算1961—2015年全区冷空气次数与130项环流特征因子（其中， $8 5 0 \\sim 3 0 \\ \\mathrm { h P a }$ 高度场上的大气环流指数88项，大西洋、太平洋、印度洋海温的指数26 项，太阳黑子等其他指数16项)之间的相关系数得出，1961一2015年全区年冷空气次数与大西洋欧洲区极涡面积指数相关系数值为0.31，通过了 $a =$ 0.05的显著性水平检验。1971—2015年全区年冷空气次数与北半球极涡中心纬向位置指数、热带北大西洋海温指数、太阳黑子指数的相关系数值分别为0.37、-0.30、0.29，均通过了 $a = 0 . 0 5$ 的显著性水平检验。1981—2015年全区年冷空气次数与北美区极涡强度指数、北半球极涡中心强度指数、太阳辐射通量指数、大西洋经向模海温指数之间的相关系数值分别为 $0 . 3 3 _ { \\textrm { v } } - 0 . 3 5 _ { \\textrm { \\scriptsize 0 . } } 3 1 _ { \\textrm { \\scriptsize - } } 0 . 3 6$ ，均通过了 $a = 0 . 0 5$ 的显著性水平检验。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a03dd0e3e604cfd9986ccc5569adccca586fd09a8bcd0becf5dc096ce9ac2b8e.jpg",
+        "img_caption": [
+            "图51961一2015年冷空气年次数与环流因子的标准化曲线",
+            "Fig.5Normalized curve of the cold air annual frequency and the circulation factor in 1961—2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8ed20cf6617cfcc8a18c7a64cdf1ba3f044220c3eb0bb453682d17971536224.jpg",
+        "img_caption": [
+            "图61961—2015年冷空气年强度、年强降温综合强度与环流因子的标准化曲线",
+            "Fig.6Normalized curveof thecold air strength，comprehensive strength and the circulation factor in1961—2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从1961一2015年全区冷空气年次数与环流因子的标准化曲线图看出，1961—2015年大西洋欧洲区极涡面积指数(图5a）北半球极涡中心纬向位置指数（图5b）、太阳黑子指数呈减小趋势（图5d），而同期全区的年冷空气次数也呈减少趋势，上述这些曲线变化与全区冷空气次数曲线变化相向而行，这些因子逐年的减小导致了全区冷空气次数逐年的减少。1961—2015年热带北大西洋海温指数（图5c）、太阳辐射通量指数（图5e）、大西洋经向模海温指数呈增大趋势(图5f)，上述这些曲线变化与全区冷空气次数曲线变化相背而行，这些因子逐年的增大导致了全区冷空气次数逐年的减少。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "计算1961—2015年全区冷空气强度与130项环流特征因子之间的相关系数得出，1961一2015 年全区年冷空气强度与北大西洋副高面积指数、北大西洋副高强度指数、西太平洋副高西伸脊点指数、西藏高原A指数、西藏高原B指数、东大西洋遥相关型指数、NINOA区海表温度距平指数、印度洋暖池面积指数、印度洋暖池强度指数、西太平洋暖池面积指数、西太平洋暖池强度指数、热带印度洋全区一致海温模态指数、热带印度洋海温偶极子指数之间的相关系数值分别为 $- 0 . 2 6 \\mathrm { ~ , ~ } - 0 . 2 7 \\mathrm { ~ , ~ } - 0 . 3 5 \\mathrm { ~ , ~ } - 0 . 3 5$ 、-0.37、-0.28、-0.27、-0.28、-0.26、-0.27、-0.29、-0.27、0.32，均通过了 $\\ a = 0 . 0 5$ 的显著性水平检验。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "计算1961—2015年全区冷空气强降温综合强度与130项环流特征因子之间的相关系数得出，1961—2015年全区年冷空气强降温综合强度与30hPa 纬向风指数、准两年振荡指数之间的相关系数值分别为0.31、0.32，均通过了 $a = 0 . 0 5$ 的显著性水平检验。1981—2015 年全区年冷空气强降温综合强度与 $5 0 \\ \\mathrm { h P a }$ 纬向风指数相关系数值为0.33，通过了 $a = 0 . 0 5$ 的显著性水平检验。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从1961—2015年全区冷空气强度、年强降温综合强度与西藏高原B指数（图6a）、NINOA区海表温度距平指数(图6b）、西太平洋暖池强度指数（图6c）、欧亚径向环流指数(图6e)的标准化曲线图看出，1961—2015年全区冷空气强度呈减弱趋势，而4个环流因子指数曲线均呈增强趋势，上述这些环流因子的增强导致了全区冷空气强度的减弱。1961—2015年全区冷空气强度、年强降温综合强度与热带印度洋海温偶极子指数(图6d) $, 3 0 \\ \\mathrm { h P a }$ 纬向风指数（图6f）、准两年振荡指数（图 $6 \\mathrm { g }$ ） ${ . 5 0 \\ \\mathrm { h P a } }$ 纬向风指数（图6h)呈减弱趋势，而同期全区的冷空气强度也呈减弱，上述这些曲线变化与全区冷空气强度曲线变化相向而行，这些因子的减弱也导致了全区冷空气强度的减弱。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）1961一2015年全区冷空气年平均出现次数为49.6次，年冷空气次数气候变化倾向率每10a减少0.600次，减少趋势不显著。全区春夏秋冬四季冷空气次数气候变化倾向率每10a分别为$- 0 . 2 9 0 _ { \\textup { s } } - 0 . 3 7 0 _ { \\textup { s } } 0 . 0 2 0 _ { \\textup { s } } 0 . 0 6 0$ 次，夏季冷空气次数减少的趋势显著，而春季次数减少的趋势和秋季、冬季次数增加的趋势不显著。全区冷空气次数各月气候变化倾向率每10a在 $- 0 . 2 2 0 \\sim + 0 . 1 6 0$ 次之间,4、6月冷空气次数减少的趋势显著，1、2、10、11月增加的趋势和其他月减少趋势不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）1961—2015年全区冷空气年平均强度为0.39，气候变化倾向率每10a降低0.022，呈显著的减弱趋势。全区春夏秋冬四季冷空气强度每10a的气候变化倾向率分别为-0.013、-0.009、$- 0 . 0 2 0 \\ 、 - 0 . \\ 0 4 5$ ，冬季冷空气强度减弱的趋势显著，而其他季节减弱的趋势不明显。全区各月冷空气强度气候变化倾向率每10a在-0.070\\~$+ 0 . 0 3 0$ 之间，5月增强的趋势和其他月减弱的趋势不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3）1961—2015年全区冷空气年强降温综合平均强度为0.67，气候变化倾向率每10a降低0.005，减弱趋势不显著。全区春夏秋冬四季冷空气强降温综合强度每 $1 0 \\mathrm { ~ a ~ }$ 的气候变化倾向率分别为$0 . 0 3 6 \\_ 0 . 0 0 3 \\_ 0 . 0 3 0 \\_ 0 . 0 2 7$ ，春季强降温综合强度增强的趋势和其他季节强降温综合强度减弱的趋势不显著。全区各月强降温综合强度每10a的气候变化倾向率在 $- 0 . 0 0 7 \\sim + 0 . 0 0 7$ 之间,1、3、4、6、7、10月强降温综合强度增强的趋势和其他月份强降温综合强度减弱的趋势不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）1961—2015年大西洋欧洲区极涡面积指数、北半球极涡中心纬向位置指数、太阳黑子指数减小以及热带北大西洋海温指数、太阳辐射通量指数、大西洋经向模海温指数增大是导致全区年冷空气次数减少的主要成因之一。而西藏高原B指数等因子增强和热带印度洋海温偶极子指数等因子减弱是导致年冷空气强度减弱的主要原因之一。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］周琳,孙照渤.1961—2010 年我国冷空气的活动特征[J].大气科学学报,2015,38（3）：342-353.[ZHOULin,SUNZhaobo.Activitycharacteristics ofcold air in China from1961 to 2010[J].",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Transactions of Atmospheric Sciences,2015,38(3）:342-353.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2]王宗明,孙照渤,李忠贤,等.1949—2009 年欧亚大陆强冷空气 活动频次的变化特征[J].气象与减灾研究,2011,34（1）：16- 23.［WANG Zongming,SUN Zhaobo,LI Zhongxian,et al.Variation characteristics of strong cold air activity frequencyin Eurasia,from 1949 to 2009[J]. Meteorology and Disaster Reduction Research, 2011,34(1) :16 -23.]   \n[3］叶笃正,高由禧.青藏高原气象学［M].北京;科学出版社, 1979:122-140.[YE Duzheng,GAO Youxi.Meteorology of the Tibetan Plateau[M].Beijing:Science Press,1979:122-140.]   \n[4］龚道溢,王绍武.近百年北极涛动对我国冬季气候的影响[J]. 地理学报，2003,58(4）：559-568.［GONGDaoyi,WANG Shaowu. Influence of Arctic oscilltion on climate over China[J].Actc Geographica Sinica,2003,58(4）:559 -568.]   \n[5］罗四维,陈玉春,于学泉.青藏高原对冷空气爆发影响的个例 分析（一)[J].高原气象,1988,7(3）：234-245.[LUOSiwei, CHEN Yuchun,YU Xuequan.A case studyof the effect of Tibetan Plateau on the outbreak of cold air(I)[J].Plateau Meteor,1988, 7(3) :234 -245.]   \n[6]王继志,季良达.北半球超长波的振动与冷空气活动[J].大气 科学,1981,5(4）:424-433.[WANGJizhi,JILiangda.The relationship between the oscillation of ultra-long waves of the northern hemisphere and the outbreak of cold air[J]. Chinese Journal of Atmospheric Sciences,1981,5(4） :48-51.]   \n[7］叶丹,张耀存.冬季东亚副热带急流和温带急流协同变化与我 国冷空气活动的关系[J].大气科学,2014,38（1):146－158. [YE Dan,ZHANG Yaocun.Association of concurrent variation between the East Asian polar front and subtropical jets with winter cold air activity in China[J]. Chinese Journal of Atmospheric Sciences,2014,38(1):146-158.]   \n[8］陆春晖,丁一汇.平流层异常和我国冬季降温过程的等熵位涡 分析[J].科学通报,2015,60（7）:726－738．[LUChunhui, DING YiuiAnalysis ofisentropic potential vorticitiesfor therelationship between stratospheric anomalies and the cooling process in China[J]. Science Bulletin,2015,60(7）:726-738.]   \n[9］施宁,布和朝鲁.中国大范围持续性极端低温事件的一类平流 层前兆信号[J].大气科学,2015,39（1）：210－220.[SHI Ning,BUHE Cholaw.A specific stratospheric precursory signal for the extensive and persistent extreme cold events in China[J]. Chinese Journal of Atmospheric Sciences,2015,39(1）:210 -220.]   \n[10］赵强,丁一汇.东亚冷空气爆发后陆地变性的物理过程研究 [J].气象学报,1992,94（2）:170-180.[ZHAO Qiang,DING Yihui.A study of physical processs affecting the transformation of cold air over land after outbreak of cold waves in East Asia[J]. Acta Meteorologica Sinica,1992,94(2）:170-180.]   \n[11］赵其庚.侵入青藏高原冷空气过程的等熵位涡分析[J].气象, 1990,16(6）:8 -14.[ZHAO Qigeng.An analysis with isentropic potential vorticity onacold wave entering the Qinghai-Xizang Plateau[J].Meteorological Monthly,1990,16(6）:8 -14.]   \n[12]李峰,矫梅燕,丁一汇,等.北极区近30 年环流的变化及对中 国强冷事件的影响[J].高原气象,2006,25（2）:209-218.[LI ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Feng,JIAOMeiyan,DINGYihui,etal.Climatechangeof Arctic atmospheric circulation in last 3O years and its effect on strong cold events in China[J].Plateau Meteorology,2006,25（2）:209- 218.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13］彭京备,孙淑清.我国南方持续性低温与东亚冬季风“北弱南 强\"模态的关系［J].大气科学,2017,41(4）:691-701.[PENG Jingbei,SUN Shuqing. The relationship between persistent cold spell in southern China and the variation mode of East Asian winter monsoon with opposite signs in the north and south[J]. Chinese Journal of Atmospheric Sciences,2017,41(4) :691-701.]   \n[14］仇永康,李晓东,仇永炎.我国冷空气活动的特征及其与欧亚 大陆积雪的关系[J].应用气象学报,1992,3（2):235-241. [QIU Yongkang,LI Xiaodong,QIU Yongyan. Statistical features of the cold waves invaded China and their relation to the snow cover area over the Eurasian continent[J]. Quarterly Journal of Applied Meteorology,1992,3（2）:235-241.]   \n[15］毛炜峰，白素琴，陈鹏翔.1951—2015 年乌鲁木齐市降温过程 频数及强度气候特征[J].气象,2016,42（11）：1351－1363. [MAO Weiyi,BAI Suqin,CHEN Pengxiang. Climate characteristics offrequencyand intensityoflooling processin Urumqi during 1951—2015[J]. Meteorological Monthly,2016,42（11）:1351 - 1363.]   \n[16］兰国栋,胡晏玲.乌鲁木齐市一次冷空气过境天气对空气污染 的影响分析[J].干旱环境监测,2007,21（4）:205-209.[LAN Guodong,HU Yanling. Influencing analysis of passing cold air on air pollution in Urumqi[J].Arid Environmental Monitoring,2007, 21(4) :205 -209.]   \n[17］杨晓玲,丁文魁,马中华,等.河西走廊东部强降温变化特征和 典型环流型[J].气象,2016,42(6）:756-763.[YANG Xiaoling,DING Wenkui,MA Zhonghua,et al. Change characteristic and typical circulation type of strong cooling in eastern Hexi Corridor [J].Meteorological Monthly,2016,42(6）:756-763.]   \n[18］徐亮,杨昭明.2013 年初夏青海北部地区一次罕见低温冻害天 气个例分析[J].青海农林科技,2014,（4）：48-51.[XU Liang,YANG Zhaoming. Analysis on a rare low-temperature and freeze-injury weather process in early summer 2O13 in the northern Qinghai[J].Science Technologyof Qinghai Farming andForestry, 2014,(4) :48 -51.]   \n[19］王晓明,徐春,韵芸,等.2010 年青海省海南地区一次大风强降 温天气分析[J].青海科技,2011,11(1）:26-28．[WANG Xiaomin,XU Chun,YUN Yun,et al.Analysis a gale weather of looling process2010in thesorthernQinghai[J].Science Technology of Qinghai,2011,11(1) :26-28.]   \n[20］邓爱娟,刘志雄,刘可群,等.春秋季冷空气过程对不同养殖水 体水温的影响[J].中国农学通报,2016,32（19）：120－129. [DENG Aijuan,LIU Zhixiong,LIU Kequn,et al. Cold air in springand autumn-effect on temperature of different aquatic water[ J]. Chinese Agricultural Science Bulletin,2016,32（19）:120-129.]   \n[21］阮烨,牛静萍,张莉,等.冷空气活动对心脑血管疾病发生相关 敏感指标影响的研究［J].环境与健康杂志,2012,29（6）： 496 -498.[RUAN Ye,NIU Jingping,ZHANG Li,et al. Impact of ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "cold air activities on sensitive indexes for cardiovascular and cerebrovascular diseases[J].Journal of Environment and Health, 2012,29(6):496-498.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22]丁一汇，王遵娅，何金海，等.近50a来中国气候变化特征的再 分析[J].气象学报,2004,62（2）：228－236.［DINGYihui， WANG Zunya,HE Jinhai,etal.Anupdating analysis of the climate change in China in recent 5O years[J].Acta Meterologica Sinica, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2004,62(2):228 -236.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[23］吕少宁，李栋梁，文军,等.全球变暖背景下青藏高原气温周期变化与突变分析[J].高原气象，2010，29（6）：1378-1385.[LYUShaoning,LI Dongliang,WENJun,etal.Analysis on peri-odic variations and abrupt change of air temperature over Qinghai-Xizang Plateau under global warming[J].Plateau Meteo,2O10,29(6):1378 -1385.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Variation characteristics of cold air processes in northeastern Tibetan Plateau ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SHI Sheng-bo $^ { 1 , 2 }$ ， ZHANG Tiao-feng1,²，MA Zhan-liang $^ { 1 , 2 }$ ， LI Wan-zhi $^ { 1 , 2 }$ ，YANG Yan-hua1,2 (1Qinghai Climate Center,Xining 81001,Qinghai,China; 2Qinghai Key Laboratory of Disaster Prevention and Mitigation,Xining 81001,Qinghai,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based on the meteorological data from 68 national meteorological stations in the northeastern Tibetan Plateau,China,themonthly,seasonalandannual dataaboutthefrequencyand intensityofcoldairand strong cooling durng the time period from 1961 to 2015are summarized and the corresponding change characteristics and causes are analyzed with climatic diagnostic method.The results indicate that,on a yearly scale,the average frequency of cold air in the northeastern Tibetan Plateau in the time period was 49.6 times,and the climate change trend rate of cold air was decreased by O.6OO times per 1O years,while the decreasing tendency was not significant.Besides, anual mean strength ofcold air in the whole region was O.39,the climate change trend rate was decreased by 0. $0 2 2 { \\mathrm { ~ p e r ~ } } 1 0$ years,which had significant decrease tendency,the comprehensive average strength of the cold air in the whole region was O.67,and climate change trend rate was decreased by O.OO5 per 1O years,which did not show a significant reducing tendency.On aseasonal scale,the cold air frequency had significant reducing tendency in summer,while it had a non-significant reducing tendency in spring,a non-significant increase tendency autumn and winter.Inaddition,cold air strength hada significant weakening tendency in winter while the tendency was not obvious in other seasons.The comprehensive intensityof the strong cooling displayed a strengthening trend in spring and weakening trend in other seasons but none of them was significant.The decrease of the polar vortex area index and otherfactors in Europe region of Atlantic Ocean and the increase of the sea temperature indexand other factors in tropical northern Atlantic Ocean increased mainly resulted inthe declining of annual frequency ofcoldair.However,the enhancingofBindex and other factors in Tibetan Plateau and the weakening of the SSTdipole index and other factors of the tropical Indian Ocean were the main causes for the weakening of cold air strength. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:Cold air；Frequency；Intensity；Variation；Northeastern Tibetan Plateau ",
+        "page_idx": 11
+    }
+]

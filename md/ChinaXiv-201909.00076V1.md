@@ -1,0 +1,184 @@
+# 伊宁市道路土壤重金属污染现状及其环境质量评价
+
+吴珊珊，孙慧兰，周永超，周玲（新疆师范大学地理科学与旅游学院,新疆师范大学丝绸之路经济带城市发展中心,新疆乌鲁木齐830054）
+
+摘要：以伊宁市城区主干道旁表土层为研究对象,共采集52个土样,应用分光光度仪测定6种重金属( $\mathbf { \nabla } \cdot \mathrm { H g } , \mathrm { C r }$ Ni,Pb,Cu和 $Z _ { \mathrm { { n } } }$ )元素含量。基于地学统计法应用单项污染指数(CF)和污染负荷指数(PLI)研究道路重金属污染近况和解释环境质量问题。结果表明： $\textcircled{1}$ 表土层中 $\mathrm { { H g } , \mathrm { { N i } , \mathrm { { P b } } } }$ 和Cu 的均值各超出新疆土壤背景值的2.75、1.48、2.60倍和1.52倍，Cr和 $Z _ { \mathrm { { n } } }$ 均未超其背景值。除 $\mathrm { P b }$ 以外,其余元素含量均未超过国家土壤环境质量I级标准（20 $\left( \mathrm { m g \cdot \ k g ^ { - 1 } } \right)$ 。 $\textcircled{2}$ 道路表土中6种元素均呈点和面状分布格局,各元素在研究区内均有高值,表明经济生产、工业发展、道路交通等人为活动对道路土壤生境具有消极影响。 $\textcircled { 3 } \mathrm { { H g } , \mathrm { { P b } } }$ 表现为区域性严重污染，Ni和 $\mathrm { C u }$ 均呈不同水平的轻度污染等级，Cr和 $Z _ { \mathrm { { n } } }$ 的轻微污染和无污染等级分别占 $1 7 . 3 1 \%$ （204号 $, 8 2 . 6 9 \%$ 和 $2 3 . 0 8 \% . 5 9 . 6 2 \%$ 。 $\textcircled{4}$ 研究区各元素CF均值从大到小顺次为： $\mathrm { P b } \ \mathrm { { , H g } \setminus \ N i \setminus \mathrm { { C u } \setminus \mathrm { { Z n } \setminus \mathrm { { C r } _ { c } } } } }$ ，重金属PLI平均值为1.20,表现为轻度污染。土壤中Pb 较其他重金属污染严重。
+
+关键词：土壤重金属；污染现状；环境质量评价；空间分布；伊宁市
+
+重金属污染在土壤中具有长期累积，且存在潜在生境危害[1-2]的特点。土壤中的重金属污染来源广泛[3-4],多价态,且生物效应差异明显[5-7],使其对生境和人类生活不利影响的方式变得多样复杂。由于道路不断增设与延伸、机动车数量增多所带来的道路土壤重金属污染[8-10],可通过水、土、气、生等直接或间接地影响城市生态环境质量并威胁人体健康。因此，道路土壤重金属污染成为道路生态学的研究热点。有国外学者已对道路交通与区域内部景观格局和当地生态系统影响等方面进行了研究，而国内研究多以道路运营产生的路域生态影响为主，尤其是道路网络的快速发展对当地土壤环境和区域生境影响的研究。其中大部分国内研究的对象为某一高速公路或几条国道，但对小尺度城市区域的不同等级道路共同作用下的环境质量研究较少。
+
+伴随着城市化进程加快，土壤资源安全与土地高效利用("]已逐步上升为城市生态合理发展的重要议题，其中受自然条件与城市交通、经济发展所带来的道路土壤重金属污染成为众多学者研究的热点问题。伊宁市作为“一带一路”的关键节点城市[12],以方格网、环状放射线为主的新老城区交通道路对土壤重金属污染的影响更不可忽略[13],那么其道路土壤重金属的污染现状，空间分布及其环境质量又呈现怎样的特征呢？因此，以伊宁市道路土壤为研讨对象，应用地统计法并结合ArcGIS空间插值，分析道路土壤重金属的污染现状;通过单项污染指数(CF）、污染负荷指数(PLI)并结合半方差函数理论模型探讨其城市道路土壤环境质量，以期为伊宁的城市发展与城市道路生境保护提供科学依据。
+
+# 研究区概况
+
+伊宁市是伊犁州的首府，位居新疆西部边境，其地势北高南低,海拔高度为 $8 5 0 \sim 1 ~ 5 0 0 ~ \mathrm { m }$ ,属北温带大陆性气候,年降水 $2 4 5 . 1 \ \mathrm { m m }$ ,年气温 $1 0 . 5 ~ \mathrm { { ^ { \circ } C } }$ ，年日照时长 $2 7 8 6 \ \mathrm { h } ^ { [ 1 4 ] }$ ,无霜期190 d,早晚温差大、温和湿润且四季分明。潮土和灌耕土为市域城区主要的土壤类型，而市域郊区则以黑钙土、栗钙土、灰钙土等为主。境内的煤、石油、重金属原料以及云母和水晶等矿产资源较丰富，这为伊宁市工业经济的发展提供了多样性。在“一带一路”背景下，伊宁市已逐步形成了“企业园区化、园区工业化”的发展格局，主要以中小型轻工业加工为主。同时，市域内已基本形成交通道路网格，城区交通压力较大的路段主要集中在新华东路、江苏大道、斯大林路等。
+
+![](images/91173903e118c17f3b04ef52b61476136352b3508ecc7db59fa558edcfac9d7e.jpg)  
+图1伊宁市土壤采样点分布图  
+Fig.1Distribution of soil sampling sites in Yining
+
+# 2 数据来源与分析方法
+
+# 2.1样品采集与预处理
+
+选择以交通主干道为采样路线，用多点混合采集 $0 \sim 2 0 ~ \mathrm { c m }$ 表土层作为分析样品。利用GPS记实样点经纬度，设置样地52个（图1），采集样地内土壤样品，点位确定后并采集5个分点样品，四分法混合后装入袋中并标注相关信息，带回室内。经自然风干后过100目孔径筛，去除表面杂质过20目孔径筛，以备化学分析。
+
+# 2.2土壤中重金属的分析测定
+
+土壤样品采取酸分解法，其目的是破坏重金属元素的晶格，使待测物质进入样品溶液中，以便于检测。土壤中重金属含量的测定均采用原子荧光光谱法（AFS）原子吸收光谱法（AAS)测定。按照土壤质量测定的国标方法（GBT17138－1997、GBT22105.1-2008、GBT22105.2－2008)准确称取$_ { 0 . 2 \mathrm { ~ g ~ } }$ （精确至 $0 . 0 0 0 \mathrm { ~ 2 ~ g ~ } ^ { \cdot }$ )土壤样品，在测定金属元素含量时，首先用均为优级纯的盐酸－硝酸－氢氟酸-高氯酸( $\mathrm { \Delta H C I - H N O _ { 3 } - H F - H C l O _ { 4 } }$ ）的1:1:1:1混合酸体系对土样进行消解，取消解液于容量瓶，加入显色剂后定容至标线，摇匀备测。然后配制6种重金属元素 $\mathrm { { ' H g , C r , N i , P b , C u , Z n } ) }$ 不同浓度的标准液，测定时，根据检测系列标准液对应特征光的吸光度，最终用标准曲线法定量分析金属元素含量。空白样用蒸馏水取代土样，各重金属含量、空白样含量均进行3组平行取平均值,采用新疆土壤背景值[15]为其土壤污染质量标准。
+
+# 2.3评价标准与评价方法
+
+以土壤环境质量标准(16]为评价标准,采取 $\mathrm { C F } _ { i }$ 、PLI进行评价。
+
+单项污染指数 $\mathrm { C F } _ { i } = c _ { i } / c _ { n }$
+
+行木贝何拍双 (1)式中： $\mathrm { C F } _ { i }$ 为重金属 $\mathbf { \chi } _ { i }$ 的污染指数; $c _ { i }$ 为重金属 $i$ 的测试浓度； $c _ { n }$ 为重金属 $\mathbf { \chi } _ { i }$ 的评价标准。CF的污染分级标准为： $\mathrm { C F } \geqslant 3$ 属于重度污染， $2 < \mathrm { C F } \leqslant 3$ 属于中度污染， $1 < \mathrm { C F } { \leqslant } 2$ 属于轻度污染， $0 . 7 < \mathrm { C F } \leqslant 1$ 属于轻微污染, $\mathrm { C F } { \leqslant } 0 . 7$ 属于无污染[17], $n$ 为采样个数;PLI的污染分级标准为： $\operatorname { P L I } \geqslant 3$ 属于重度污染， $2 <$ $\operatorname { P L I } \leqslant 3$ 属于中度污染， $1 < \mathrm { P L I } \leqslant 2$ 属于轻度污染，$\mathrm { P L I } { \leqslant } 1$ 属于无污染[3]
+
+# 2.4半方差函数理论及模型
+
+半方差函数作为研究土壤空间变异的重要函数，可反映任一随机函数的空间关联部分，即等于以给定间隔 $h$ 的所有样点测量值的差平方的数学期望值。一般地，函数值与样点间距成正比，当间距（变程， $\mathbf { \Omega } _ { a }$ )增加到某一特定值，函数值将会达到某一基本稳定的基台值 $( C _ { 0 } + C )$ ,最终由多个间断的土壤样点拟合曲线方程，得到最优半方差函数方程为该函数的最优模型。在土壤研究中常用模型有：
+
+（1）线性基台模型
+
+$$
+h = C _ { \mathrm { 0 } } + C \times \frac { h } { a }
+$$
+
+（2）球状模型
+
+$$
+h = C _ { 0 } + C \Big [ 1 . 5 \Big ( \frac { h } { a } \Big ) - 0 . 5 \Big ( \frac { h } { a } \Big ) ^ { 3 } \Big ]
+$$
+
+（3）指数模型
+
+$$
+h = C _ { 0 } + C { \biggl [ } 1 - \exp { \biggl ( } - { \frac { h } { a } } { \biggr ) } { \biggr ] }
+$$
+
+（4）高斯模型
+
+$$
+h = C _ { 0 } + C \bigg [ 1 - \exp \bigg ( - \frac { h ^ { 2 } } { a ^ { 2 } } \bigg ) \bigg ]
+$$
+
+此外,通过间接地结合普通克里格空间插值对优化模型参数不断改进，以达到一定的精密度从而获取空间分布图。此模型不仅对土壤的空间变异性和空间方向性的分析有所帮助，还可对未知点进行最优内插估值。
+
+# 3 结果与分析
+
+# 3.1土壤重金属含量描述性统计分析
+
+伊宁市道路土壤重金属含量箱线图表明（图2）： $\mathrm { H g }$ 在北京路、飞机场路、斯大林东路出现极端异常值； $\mathrm { { C r } , \mathrm { { N i } } }$ 和 $\mathrm { P b }$ 分别在江苏大道和斯大林西路出现温和异常值； $\mathrm { G u }$ 在红旗路、新华西路、军垦路均呈现温和异常值； $Z _ { \mathrm { { n } } }$ 在军垦路呈现极端异常值，斯大林东路、解放南路、英阿亚提路出现温和异常值。
+
+由表1可知， $, 0 . 1 1 , 3 2 . 9 1 , 3 4 . 6 8 , 6 1 . 3 0 , 3 1 . 3 5 ,$ （204号$6 1 . 2 9 ~ \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 }$ 分别为 $\mathrm { H g , C r , N i , P b , C u , Z n }$ 的平均值。除 $\mathrm { P b }$ 外，其余各元素均未超出《国家土壤环境质量》I级标准限值。以新疆土壤背景值为标准，$\mathrm { H g }$ 、Ni、Pb、Cu和 $Z _ { \mathrm { { n } } }$ 的超标率分别为 $0 . 0 6 \%$ 、注：箱体中横线表示均值；表示温和异常值； $\cdot$ 表示极端异常值。
+
+![](images/7423bdfb5ce35ade953a511967d22f1a0a94304e568fc1acd1d6b890b47dd410.jpg)  
+图2伊宁市道路土壤重金属含量箱线图 Fig.2Box plot of heavy metal concentrations in urban soil in Yining
+
+$0 . 0 8 \% . 8 8 \% . 0 . 1 \%$ 和 $0 . 0 4 \%$ ， $\mathrm { C r }$ 未超标，表明该道路土壤中 $\mathrm { H g , N i , P b , C u }$ 和 $Z _ { \mathrm { { n } } }$ 存在不同水平的聚积，污染区域可能较显著和广泛。土壤 $\mathrm { H g , c r , N i , }$ $\mathrm { P b } , \mathrm { C u }$ 和 $Z _ { \mathrm { { n } } }$ 含量变幅较大，分别在0.01\~$1 . 1 8 _ { , } 1 0 _ { . } 3 0 \quad \sim \quad 4 8 . 4 0 _ { . } 1 6 . 9 0 \quad \sim \quad 4 7 . 4 0 _ { . } 1 1 . 0 0 \quad \sim \quad 0 . 0 0 8 \quad \sim \quad 0 . 0 0 8 8 .$ $1 0 1 . 0 0 , 2 4 . 2 0 \sim 4 5 . 5 0 , 3 5 . 8 8 \sim 1 1 3 . 1 8 \mathrm { m g } \cdot \mathrm { k g } ^ { - 1 } \mapsto$ 的范围内变化。伴随着时间与空间不停地推移与扩大，富集水平变化明显，表明存在外源影响的道路土壤污染。
+
+道路土壤重金属 $\mathrm { H g }$ 的变异系数为2.58且大于0.5,变异程度较其余元素明显，表明 $\mathrm { H g }$ 受局部某种污染较严重，可能是人为活动影响下的点源污染。土壤中 $\mathrm { G r } \ 、 \mathrm { N i } \ 、 \mathrm { P b } \ 、 \mathrm { C u }$ 和 $Z _ { \mathrm { { n } } }$ 的变异系数分别为$0 . 2 3 , 0 . 1 4 , 0 . 3 1 , 0 . 1 3$ 和0.25，均小于0.5，表明变异程度越小的重金属，其空间特征较一致。 $\mathrm { P b }$ 平均值超出国家土壤环境质量I级标准( $\mathbf { \dot { m } } \mathbf { g } \cdot \mathbf { k } \mathbf { g } ^ { - 1 }$ )的
+
+表1研究区土壤重金属含量统计（ $\scriptstyle { n = 5 2 }$ ）  
+Tab.1Statistic results of heavy metal concentrations in soil in the study area $\scriptstyle ( n = 5 2$   
+
+<html><body><table><tr><td rowspan="2"></td><td>最小值</td><td>最大值</td><td>平均值</td><td>标准差</td><td>变异 系数</td><td>新疆景境</td><td>家土环</td><td>国家土环</td><td>国家土坡环</td><td rowspan="2">超标率 /%</td></tr><tr><td colspan="4">/（mg·kg-1)</td><td colspan="6">/（mg·kg-1)</td></tr><tr><td>Hg</td><td>0.01</td><td>1.18</td><td>0.11</td><td>0.26</td><td>2.58</td><td>0.04</td><td>0.15</td><td>0.5</td><td>1.5</td><td>5.77</td></tr><tr><td>Cr</td><td>10.30</td><td>48.40</td><td>32.91</td><td>7.44</td><td>0.23</td><td>53.9</td><td>90</td><td>300</td><td>400</td><td>0</td></tr><tr><td>Ni</td><td>16.90</td><td>47.40</td><td>34.68</td><td>4.76</td><td>0.14</td><td>23.4</td><td>40</td><td>50</td><td>200</td><td>7.69</td></tr><tr><td>Pb</td><td>11.00</td><td>101.00</td><td>61.30</td><td>18.70</td><td>0.31</td><td>23.6</td><td>35</td><td>300</td><td>500</td><td>88.46</td></tr><tr><td>Cu</td><td>24.20</td><td>45.50</td><td>31.35</td><td>4.12</td><td>0.13</td><td>20.6</td><td>35</td><td>100</td><td>400</td><td>9.62</td></tr><tr><td>Zn</td><td>35.88</td><td>113.18</td><td>61.29</td><td>14.99</td><td>0.25</td><td>67.7</td><td>100</td><td>250</td><td>500</td><td>3.85</td></tr></table></body></html>
+
+1.75倍; $\mathrm { H g , N i , P b }$ 和 $\mathrm { G u }$ 的平均值各高出新疆土壤背景值的2.75、1.48、2.60倍和1.52倍。可能是由于受工业出产、道路交通、经济产业等一系列人类活动的影响，导致道路土壤中重金属的积聚态势趋于明显。在“一带一路"背景下，伊宁市新城区的方格网和老城区的环状放射线公路的道路密集度提高以及工业化进程加快，都极有可能导致重金属污染加重，为使整体生境得到保护，相关部门应提倡以公共交通为主的绿色外出方式；加大科技投入；加强交管部门的队伍建设，提高交通管制水平。
+
+# 3.2城市土壤重金属含量空间分布特征
+
+由半方差函数理论模型的拟合结果可知（表2）,道路土壤中 $\mathrm { H g , C r , C u , Z n }$ 的最优化模型为指数模型， $\mathrm { { N i } , \mathrm { { P b } } }$ 为球状模型。其有效变程 $( a )$ 介于$0 . 0 0 3 \sim 0 . 0 1 9 \mathrm { ~ m ~ }$ ，表明各成分差异存在运移、转化机制。其中 $\mathrm { P b }$ 的决定系数 $( R ^ { 2 } )$ 最大，拟合程度最高。重金属 $\mathrm { N i , P b , C u }$ 和 $Z _ { \mathrm { { n } } }$ 的基底效应 $\left( C _ { 0 } / C _ { 0 } + C \right)$ 小于0.25，说明该元素可能以地貌地形、成土要素等自身变异为主。 $\mathrm { H g }$ 和 $\mathrm { C r }$ 的基底效应介于 $0 . 2 5 \sim$ 0.75，呈中等空间相关性，表明易受人为与自然的综合影响。
+
+根据各元素最优理论模型，去除异常值，采用克里格空间插值得到伊宁市道路土壤重金属空间分布情况（图3），整体而言，基本表现为点状和面状格局，各元素均有高值区，表明该地区人为生产活动对其污染产生消极影响。重金属 $\mathrm { H g }$ 在山东路为含量较高区域；Cr在重庆南路、解放西路、军垦路和城区东南部靠近交通主道东环路及西环路附近含量较高；Ni在解放西路和军垦路出现含量高值区；Pb在研究区东南部及军垦路出现含量高值区；Cu在发展乡街、军垦路及红旗街出现高值； $Z _ { \mathrm { { n } } }$ 在军垦路、红旗街及英阿亚提路为含量高值区。
+
+# 3.3土壤重金属污染环境质量评价
+
+为客观和准确地评价，各样点仅代表其自身的土壤环境状况，本文采用克里金空间插值法，以便直观了解重金属空间格局。图4为道路土壤重金属CF和PLI的空间分布图。可知，6种重金属CF空间格局各有差异。 $\mathrm { H g }$ 在山东路、解放西路及红旗街出现重度污染；Cr在城区东南部呈轻微污染，但在解放西路、军垦路和新华西路出现污染高值区，总体呈现轻微污染和无污染;Ni在市域道路土壤中均呈不同程度的污染态势，污染高值区在军垦路、解放西路和斯大林东路等路段；Pb在研究区东部及军垦路呈现重度污染； $\mathrm { G u }$ 在研究区内均呈不同程度的轻度污染态势，污染高值区在新华西路、军垦路及新华西路附近，属于中度污染，其他区域主要是轻微污染和无污染； $Z _ { \mathrm { { n } } }$ 在研究区内呈不同程度的轻度污染态势，污染高值区在军垦路、红旗街及英阿亚提路附近；大部分城区为轻微污染和无污染，基本属于清洁水平。重金属的污染负荷PLI空间分布显示，在红旗街出现污染高值区，为中度污染，在军垦路、解放西路为轻度污染，其余区域为轻微污染。
+
+研究区重金属元素CF平均值依次为：Pb(2.6) $\cdot \mathrm { H g } ( 2 . 4 )$ 、Ni(1.5)、 $\mathrm { C u } ( 1 . 5 )$ ） $\operatorname { Z n } ( 0 . 9 )$ 、Cr(0.6)。从表3来看， $\mathrm { H g }$ 各级别样点占总样点的比例分别为 $5 1 . 9 2 \% . 2 1 . 1 5 \% . 1 9 . 2 3 \% . 1 . 9 2 \%$ 和$5 . 7 8 \%$ ;大部分样点的 $\mathrm { C r }$ 属于无污染，各污染级别样点占总样点的 $8 2 . 6 9 \%$ ， $. 1 7 . 3 1 \%$ 。Ni样点的各污染级别占总样点的 $1 . 9 2 \% . 9 8 . 0 8 \%$ : $\mathrm { P b }$ 重度污染和中度污染的样点占总样点的 $4 0 . 3 8 \%$ 和 $3 6 . 5 4 \%$ ; $\mathrm { G u }$ 各污染级别占总样点的 $9 8 . 0 8 \% . 1 . 9 2 \%$ · $Z _ { \mathrm { { n } } }$ 各污染级别占总样点的 $2 3 . 0 8 \% . 5 9 . 6 2 \%$ 和 $1 7 . 3 \%$ 。由此得出， $\mathrm { H g }$ 和 $\mathrm { P b }$ 属于中度污染， $\mathrm { G u }$ 和 Ni属于轻度污染， $\mathrm { C r }$ 和 $Z _ { \mathrm { { n } } }$ 属于轻微污染。重金属的PLI在$0 . 7 0 \sim 2 . 5 9$ ,平均值为1.20，呈现轻度污染。PLI结果显示，无污染区主要位于城区西北部、西部和西南部，此外区域表现为轻度污染，分别占总样点的$3 4 . 6 2 \%$ $6 1 . 5 4 \%$ 和 $3 . 8 4 \%$ ，均表现为轻度污染。
+
+表2重金属含量的半方差函数理论模型及相关参数  
+Tab.2Parameters of heavy metal concentrations in soil in the theoretical model of semivariance function   
+
+<html><body><table><tr><td>变量</td><td>理论模型</td><td>块金值Co</td><td>基台值Co+C</td><td>基底效应Co/(C+C)</td><td>变程a/m</td><td>残差平方RSS</td><td>决定系数R</td></tr><tr><td>Hg</td><td>指数</td><td>0.026</td><td>0.078</td><td>0.334</td><td>0.003</td><td>0.007</td><td>0.840</td></tr><tr><td>Cr</td><td>指数</td><td>18.8</td><td>60.09</td><td>0.313</td><td>0.015</td><td>306</td><td>0.137</td></tr><tr><td>Ni</td><td>球状</td><td>1.42</td><td>24.1</td><td>0.059</td><td>0.008</td><td>169</td><td>0.001</td></tr><tr><td>Pb</td><td>球状</td><td>18.0</td><td>459.3</td><td>0.039</td><td>0.019</td><td>2135</td><td>0.938</td></tr><tr><td>Cu</td><td>指数</td><td>3.2</td><td>18.45</td><td>0.173</td><td>0.003</td><td>107</td><td>0.084</td></tr><tr><td>Zn</td><td>指数</td><td>0.1</td><td>230.5</td><td>0.004</td><td>0.003</td><td>3756</td><td>0.024</td></tr></table></body></html>
+
+![](images/d8447cf57bf1dba6190ee1e0353d8dd1d4968fc0da400b619921be179040e69b.jpg)  
+图3城市土壤重金属含量空间分布  
+Fig.3The spatial distribution of heavy metal concentrations in urban soil
+
+![](images/7cf02cebf13476e53d04fce6b91a7b83a371177b9ad6882590709351c512a9e2.jpg)  
+图4城市土壤重金属的CF与PLI空间分布  
+Fig.4Spatial distribution of CF and PLI values of heavy metals in urban soil
+
+表3研究区CF污染级别样点数占总样点的比例 Tab.3Proportions of sites at CF level in total sites in the study area   
+
+<html><body><table><tr><td>重金属元素</td><td>无污染</td><td>轻微污染</td><td>轻度污染</td><td>中度污染</td><td>重度污染</td></tr><tr><td>Hg</td><td>51.92</td><td>21.15</td><td>19.23</td><td>1.92</td><td>5.78</td></tr><tr><td>Cr</td><td>82.69</td><td>17.31</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Ni</td><td>1.92</td><td>0</td><td>98.08</td><td>0</td><td>0</td></tr><tr><td>Pb</td><td>1.92</td><td>5.78</td><td>15.38</td><td>36.54</td><td>40.38</td></tr><tr><td>Cu</td><td>0</td><td>0</td><td>98.08</td><td>1.92</td><td>0</td></tr><tr><td>Zn</td><td>23.08</td><td>59.62</td><td>17.3</td><td>0</td><td>0</td></tr></table></body></html>
+
+# 4讨论
+
+道路土壤重金属的污染来源、污染积累、直接与间接转移及周围生境等影响是一个极其复杂的研究问题,受多因素共同作用[18]。本研究基于新疆土壤背景值的环境质量评价，发现道路表土层中各重金属含量均有高值区，表明元素含量的增加可能是由于人为活动使其最终暴露于土壤环境中，与相关研究[的结论基本一致,即认为人口活动密集、车流量大、道路灰尘积聚[20]等因素导致，与其他领域[21-23]得出的污染源分析相一致。较新疆其他城区,如乌鲁木齐(23]、乌苏—独山子—奎屯[24]城市等,伊宁市土壤污染程度处于轻微污染，但 $\mathrm { { H g } , \mathrm { { N i } , } }$ （204号Pb、Cu元素含量存在不同水平的污染，这可能与当地废弃物排放对重金属的富集效应或其他因素有关。从土壤环境安全而言，评价重金属是否已超出土壤环境所承受范围，人类是否会受到健康风险的影响还需日后更深入的研究与思考。赵新儒等[25]发现伊犁河流域主要污染元素为As，其次是 $\mathrm { C u }$ /$\mathrm { Z n , P b , H g }$ 元素未对该地区土壤产生任何污染，但本文中某些区域的 $\mathrm { H g }$ 和 $\mathrm { P b }$ 已产生污染， $\mathrm { C u } , \mathrm { Z n }$ 则为次要污染元素。本文与陈洪等[19]对土壤重金属的污染评价相一致。简而言之，伊宁市道路土壤中$\mathrm { { C r } , \mathrm { { N i } , \mathrm { { Z n } } } }$ 和 $\mathrm { P b } 4$ 种重金属污染应当给予相应的重视，并对此开展进一步深入研究。
+
+道路表面沉积物是道路土壤生态中重要的环境介质之一，其污染来源以及物质组成极其复杂。因此,道路沉积物已成为当地道路土壤环境中重金属污染的重要来源之一。有研究表明，西安市路边土壤中的 $\mathrm { N i , P b }$ 因以家装建材为主的综合市场周围有大中型机动车流动且易拥堵，可能来自于汽车制动装置、机动车燃油和零部件的损耗以及汽车金属部件磨损导致大量含 $\mathrm { C u }$ 粉尘的产生[26]。同时道路土壤重金属除本底值外，还与汽车尾气排放的颗粒物和尘土、轮胎磨损的道路沉积以及道路标识和护栏表层油漆的脱落等人类活动有关[27]。因此,受多因素干扰的道路土壤重金属污染使得城市道路生态受到一定程度的影响。本文中伊宁市在胜利北路、英阿亚提路、解放西路以及新华东路附近均受交通运营和道路网络的影响，表现出道路土壤受中度和重度污染，其原因可能是在时间尺度上老城区因道路交通发展较早，交通网络密集，强烈的人类活动所致。
+
+在“一带一路”背景下，伊宁市以建成我国西北地区丝绸之路经济带重要的对外开放和区域经济、交通、贸易和文化中心城市为总目标，机械装备制造、建筑类、生物制药等一系列中小型经济产业链、城乡交通干道、对外开放口岸的物流交易以及对外学习交流等发展规划正处于逐步上升阶段，城市道路土壤重金属污染随着经济发展加速和区位优势提升而加重，在时间尺度和空间尺度上呈点面发散性污染，可能是由于伊宁市经济、旅游业的发展，促进了交通公路网不断增设和优化，使重金属污染加重，导致道路土壤生态受到影响。同时，道路土壤重金属污染加重，使城市生活片区和零散工业的破碎化在某一程度上向着集聚化发展，从而降低了道路生态环境的破坏，为伊宁市的经济发展和道路生态文明建设奠定了基础。
+
+# 5结论
+
+（1）市域土壤中 $\mathrm { H g , C r , N i , P b , C u , Z n }$ 的平均值为 $0 . 1 1 _ { \ L , \ L } 3 2 . 9 1 _ { \ L , \ L } 3 4 . 6 8 _ { \ L , \ L } 6 1 . 3 0 _ { \ L , \ L } 3 1 . 3 5 _ { \ L , \ L } 6 1 . 2 9 _ { \ L ~ \mathrm { m g } } \ .$ $\mathbf { k g } ^ { - 1 }$ 。 $\mathrm { H g , C r , N i , C u }$ 和 $Z _ { \mathrm { { n } } }$ 平均值未超出国家土壤环境质量I级标准（ $\mathbf { \phi } _ { \mathrm { m g } } \cdot \mathbf { \phi } \mathbf { k g } ^ { - 1 }$ )，而 $\mathrm { P b }$ 超出1.75倍。未超出其背景值为 $\mathrm { C r }$ 和 $\mathrm { { Z n , H g , N i , P b } }$ 和 $\mathrm { G u }$ 超出其背景值的 $2 . 7 5 , 1 . 4 8 , 2 . 6 0$ 倍和1.52倍，表明元素含量在空间尺度及时间尺度不停地聚积和转化。
+
+(2）城区6种重金属元素呈现点一面空间格局，各重金属元素均在某区域出现高值，首先由点源污染开始，最后发展为面源污染。说明人类生产生活等行为对道路土壤生态具有负面效应。 $\mathrm { C r }$ 和 $\mathrm { P b }$ 的空间分布格局较相似。城市道路东部、东南部临近河谷主干道及县道旁的重金属元素含量偏高。
+
+（3）道路土壤中6种重金属CF值反映的空间特征各有差异。各元素CF平均值依次为：${ \mathrm { P b } } ( 2 . 6 ) > { \mathrm { H g } } \mathrm { ~ ( ~ 2 . ~ 4 ~ ) ~ } > { \mathrm { N i } } \mathrm { ~ ( ~ 1 . ~ 5 ~ ) ~ } = { \mathrm { C u } } \mathrm { ~ ( ~ 1 . ~ 5 ~ ) ~ } >$ $\mathrm { Z n } ( 0 . 9 ) > \mathrm { C r } ( 0 . 6 )$ 。 $\mathrm { H g }$ 和 $\mathrm { P b }$ 属于中度污染，Cu和 Ni属于轻度污染, $\mathrm { C r }$ 和 $Z _ { \mathrm { { n } } }$ 属于轻微污染。 $\mathrm { H g }$ 和 $\mathrm { P b }$ 在一定程度上增加了市域污染层次。
+
+（4）土壤元素PLI的平均值为1.20，呈现轻度污染。城市道路红旗街污染水平最高，其次是军垦路和解放西路，为轻度污染，其余区域为轻微污染。伊宁市道路土壤的污染负荷整体表现为轻度污染水平。
+
+# 参考文献(References）：
+
+[1]杨奇勇,谢运球,罗为群,等.基于地统计学的土壤重金属分布 与污染风险评价〔J].农业机械学报，2017，48（12）：1-9. [Yang Qiyong,Xie Yunqiu,Luo Weiqun,et al. Spatial distribution and soil pollution risk evaluation of soil heavy metals content based on geostatistics[J]. Transactions of the Chinese Society for Agricultural Machinery,2017,48（12):1-9.]   
+[2]齐鹏,张仁陟,张伯尧,等.兰州市土壤-蔬菜系统典型重金属 空间评价及健康风险分析[J].干旱区地理,2012,35（1)：162 - 170.[Qi Peng,Zhang Renzhi,Zhang Boyao,et al.Spatial analysis and the health risk assessment of typical heavy metal of soil - vegetable system in Lanzhou city[J]. Arid Land Geography,2012, 35(1) :162 -170.]   
+[3]李一蒙，马建华,刘德新,等.开封城市土壤重金属污染及潜在 生态风险评价[J].环境科学,2015,36（3）：1037-1044.［Li Yimeng,Ma Jianhua,Liu Dexin,et al.Assessment of heavy metal pollution and potential ecological risks of urban soils in Kaifeng city,China[J].Environmental Science,2015,36（3）:1 037- 1 044. ]   
+[4]刘玉燕,刘浩峰,刘敏.乌鲁木齐市地表灰尘重金属含量及其 健康风险〔J].干旱区研究,2009,26（5）：750－754.［Liu Yuyan,Liu Haofeng,Liu Min. Concentration sand health risk assessment of urban surface dust in Urumqi[J].Arid Zone Research,2009,26(5) :750 -754.]   
+[5]陈高武.重庆都市圈土壤重金属元素迁移富集及生态效应研 究[D].成都：成都理工大学,2008.［Chen Gaowu.A Study on Migration and Enrichment of Heavy Metals in Soil and Their Ecological Effects in Chongqing Metropolitan Area[D].Chengdu; Chengdu University of Technology,2008.]   
+[6]张阿龙,高瑞忠,张生,等.吉兰泰盐湖盆地土壤铬、汞、砷污染 的负荷特征与健康风险评价〔J].干旱区研究,2018，35（5）： 1 057 -1 067.[ Zhang Along,Gao Ruizhong,Zhang Sheng,et al. Pollution load characterist-ics and health risk assessment of heavy metals Cr,Hg and As in the Jilantai Salt Lake Basin[J].Arid Zone Research,2018,35(5）:1 057 -1 067.]   
+[7］杨阳,周正朝,张福平,等.沣河沿岸土壤重金属分布特征及来 源分析[J].干旱区研究,2014,31（2）:237-243.[Yang Yang， Zhou Zhengchao,Zhang Fuping，et al. Spatial distribution and sources of heavy met-als in soil samples collected from the riparian area of the Fenghe river[J].Arid Zone Research,2014,31（2）： 237 -243.]   
+「）谢坚储 喆光巾 其工並通古田枚和切影三挖措刑的城市」摊
+
+重金属污染评价[J].生态环境学报,2017,26（9）：1584- 1 590.[Xie Xianjian,Han Guangzhong.Evaluation of soil heavy metal polution in Neijiang city based on Ordinary Kriging and Projection Pursuit Model[J].Ecology and Environmental Sciences, 2017,26(9) :1 584 -1 590.]   
+[9]刘德鸿,王发园,周文利,等.洛阳市不同功能区道路灰尘重金 属污染及潜在生态风险[J].环境科学,2012,33（1）：253- 259.[Liu Dehong,Wang Fayuan,Zhou Wenli,et al. Heavy metal polution in street dusts from different functionalzonesof Luoyang city and itspotential ecological risk[J]. Environmental Science, 2012,33(1) :253-259.]   
+[10]刘浩峰,刘巍,刘玉燕,等.博斯腾湖湿地Cu、Ni 和Pb 的分布 特征及其生态风险[J].干旱区研究,2017,34（2）:390－394. [Liu Haofeng,Liu Wei,Liu Yuyan,et al.Distribution of Cu,Ni and Pb and ecolo-gical risk in the Bosten lake wetland[J].Arid Zone Research,2017,34(2） :390 -394.]   
+[11]赵其国,沈仁芳,滕应.中国土壤安全“一带一路"发展战略的 思考[J].生态环境学报,2016,25（3）:365-371.[Zhao Qiguo, Shen Renfang,Teng Ying.The BeltandRoad developmentstrategy of soil security in China[J]Ecology and Environmental Sciences, 2016,25(3) :365 -371.]   
+[12]刘卫东.“一带一路"战略的科学内涵与科学问题[J].地理科 学进展,2015,34(5）:538-544.[Liu Weidong.Scientific understanding of the Belt and Road initiative of China and related research themes[J]. Progress in Geography,2015,34（5）:538- 544.]   
+[13］许娇,陈坤铭,杨书菲,等.“一带一路"交通基础设施建设的国 际经贸效应［J].亚太经济,2016（3）：3-11.［XuJiao,Chen Kunming，Yang Shufei,et al. The impact of economic corridor transportation in frastructure under“the belt and road initiative” based on GTAP model[J].Asia-Pacific Economic Review,2016 (3) :3 -11.]   
+[14］夏依木拉提·艾依达尔艾力.近55 年来新疆伊宁市气候变化 过程分析[J].干旱区研究,2010,27(6）：878-884.[Xaymurat Aydaraili.Analysis on climatic change in Yining city in recent 55 years[J].Arid Zone Research,2010,27(6） :878 -884.]   
+[15]中国环境监测总站.中国土壤元素背景值[M].北京：中国环 境科学出版社,1990：329-368.［China Environmental Monitoring Station. Background Value of Soil Elements in China[M]. Beijing:China Environmental Science Press,1990:329 -368.]   
+[16］GB15618-1995.中华人民共和国国家标准：土壤质量环境标 准[S].北京：高等教育出版社,2010.[GB15618-1995.National Standard of the People's Republic of China:Soil Quality Environmental Standard[S].Beijing：Higher Education Press, 2010.]   
+[17]雷国建,陈志良,刘千钧,等.广州郊区土壤重金属污染程度及 潜在生态危害评价[J].中国环境科学,2013,33（增刊1)：49 -53.[Lei Guojian,Chen Zhiliang,Liu Qianjun,et al. The assessments of poluted degree and potential ecological hazards of heavy metals in suburban soil of Guangzhou city[J].China Environmental Science,2013,33（Suppl.1） :49-53.]   
+[18］李颖.呼和浩特市道路沿线土壤重金属的积累及影响因素 [D].呼和浩特：内蒙古师范大学,2015.[Li Yin.Accumulation and Influencing Factors of Heavy Metals in the Soil Along the Road in Hohhot[D].Hohhot:Inner Mongolia Normal University,2015.]   
+[19］陈洪,特拉津·那斯尔,杨剑虹.伊犁河流域土壤重金属含量 空间分布及其环境现状研究[J].水土保持学报,2013,27（3）： 100-1O5.[Chen Hong,TeLajin Nasier,Yang Jianhong.Study of spatial distribution of heavy mental elements content and its environment status in the Ili river valley region[J]. Journal of Soil and Water Conservation,2013,27(3）:100-105.]   
+[20]王桢，张建强，渡边泉，等.铁路和道路沿线土壤重金属含量及 来源解析[J].生态环境学报,2018,27（2）：364-372.[Wang Zhen,Zhang Jianqiang,Watanabe Izumi,et al.Concentrations and sources of heavy metals in soil near railway and Road[J].Ecology andEnvironmental Sciences,2018,27(2）:364-372.]   
+[21]罗艳丽，郑春霞,蒋平安，等.新疆奎屯垦区土壤重金属风险评 价[J].土壤通报,2012,43（5）：1247-1 252.［Luo Yanli, Zheng Chunxia,Jiang Ping'an,et al.Assessment of ecological risk ofheavy metals insoils in Kuitun,Xinjiang[J].Chinese Journal of SoilScience,2012,43(5):1247-1252.]   
+[22]刘玉燕,刘敏,刘浩峰.乌鲁木齐城市土壤中重金属分布[J]. 干旱区地理，2006，26（1）：120-123.[LiuYuyan，LiuMin，Liu Haofeng.Concentrations and health risk assessment of urban surface dust in Urumqi[J].Arid Land Geographyh,2006,26(1）:120 -123.]   
+[23]赖营帅，马媛媛，王卫,等.新疆"金三角"地区重金属污染及潜
+
+在生态风险评价[J].环境化学，2016，35（7)：1381-1389.
+
+[LaiYingshuai,Ma Yuanyuan,WangWei,et al.Assessment of heavy metal pollution and potential ecological risks of soils in the “Golden Triangle"region,Xinjiang[J].Environmental Chemistry, 2016,35(7) :1 381-1 389.]
+
+[24]王晓军.新疆昌吉典型地区几种土壤重金属元素含量分布及 污染评价［D].乌鲁木齐：新疆农业大学,2011.［WangXiaojun.Distributionof Several Soil Heavy Metal Elements Content and Pollution Evaluation in Changji Typical Model Region,Xinjiang [D]. Urumqi:Xinjiang Agricultural University,2011.]
+
+[25」赵新儒，特拉津·那斯尔，程永毅，等.伊犁河流域土壤重金属环境地球化学基线研究及污染评价[J].环境科学，2014，35(6):2392-2 400.[Zhao Xinru,TelajinNasier,Cheng Yongyi,etal.Environmental geochemical base line of heavy metals in soils oftheIli river basin and pollution evaluation[J].Environment Sci-ence,2014,35(6):2 392-2 400.]
+
+[26）陈景辉，卢新卫，翟萌.西安城市路边土壤重金属来源与潜在风险[J].应用生态学报，2011，22（7）：1810-1816.［ChenJinghui,Lu Xinwei,Zhai Meng.Sources and potential risk of heavymetals in road side soils of Xi'an city[J].Chinese Journal of Ap-pliedEcology,2011,22(7):1 810 -1 816.]
+
+[27]Yao Z G,Liu JH.Investigation and analysis of soil Pb contamination at two sides of arterial traffic in Yellow River delta area(English）［J].Agricultural Science& Technology,2016,17（12）： 2 722 -2 725.
+
+# Heavy Metal Pollution in Urban Soil and Environment Quality in Yinin
+
+WU Shan-shan， SUN Hui-lan， ZHOU Yong-chao， ZHOU Ling (ColegeofGeographical Scienceand Tourism & Urban Development Centerfor Economic Belt along the Sil Road,Xinjiang Normal University,Urumqi830o54,Xinjiang,China)
+
+Abstract：A total of52 soil samples werecollected fromthe topsoil beside the main roads in the downtownof Yining,and the contents of 6 heavy metals（Hg,Cr,Ni,Pb,Cu and $Z _ { \mathrm { { n } } }$ ）were determined by spectrophotometer.The environmental quality related to heavy metal polution in urban soil was studied byusing CFand PLI index basedon geostatistics. The results showed that : $\textcircled{1}$ The mean values of $\mathrm { H g , N i , P b }$ and $\mathrm { G u }$ in topsoil were 2.75,1.48,2.60 and1.52 times higher than thebackground values of soil in Xinjiang respectively,and neither Cr nor Zn exceeded their background values of soil in Xinjiang.In addition to $\mathrm { P b }$ ,the contents of other elements did not exceed the level I of national soil environmental quality $\left( \mathrm { m g \cdot \ k g ^ { - 1 } } \right.$ ）； $\textcircled{2}$ The 6 elements in urban soil were all distributed in point and planar paterns,and high valuesof alltheseelements occured in urban soil in the studyarea,which indicated thathumanactivities,suchas economic production,industrial development and road trafic,had negative ffectson soil habitats ; $\textcircled{3}$ The $\mathrm { H g }$ and $\mathrm { P b }$ pollution was serious,and the Ni and $\mathrm { G u }$ pollution was slight. Cr and $Z \mathrm { n }$ accounted for $1 7 . 3 1 \%$ and $8 2 . 6 9 \%$ at slight pollution level and $2 3 . 0 8 \%$ and $5 9 . 6 2 \%$ at non-pollution level,respectively; $\textcircled{4}$ The mean CF values of these elements in urban soil in the study area were in an order of $\mathrm { P b } > \mathrm { H g } > \mathrm { N i } > \mathrm { C u } > \mathrm { Z n } >$ Cr.The mean value of heavy metal PLI was 1.2O,which indicated that the urban soil was slightly polluted. $\mathrm { P b }$ pollution was more serious than other heavy metals.
+
+Key words:soil heavy metal； soil pollution；environment quality； spatial distribution；Yining

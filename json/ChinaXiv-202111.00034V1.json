@@ -1,0 +1,848 @@
+[
+    {
+        "type": "text",
+        "text": "Revisit of Hsianwenia wui (Cyprinidae: Schizothoracinae) from the Pliocene of Qaidam Basin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BI Dai-Ran1,2 WU Fei-Xiang1,3\\* WANG Ning CHANG Mee-Man1,2.3 FANG Geng-Yu1.2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,Chinese Academy of Sciences Beijing100044)   \n(2University of Chinese Academy of Sciences Beijing 100049)   \n(3CAS CenterforExcellence inLife andPaleoenvironment Beijingl0o044 \\*Correspondingauthor: wufeixiang@ivpp.ac.cn)   \n(4Life Science College,Beijing Normal University Beijingl00091) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The Qaidam Basin is a key area for understanding the paleoenvironmental and faunal history of the Tibetan Plateau.The fosil schizothoracine fish,Hsianwenia wui,evolved extraordinarily thickened bones to adapt to the aridification of the Qaidam Basin during the Pliocene.However, the nature of the bone thickening itself remains elusive.To promote the further investigation of the physiological mechanism of the pachyostosis and the phylogenetic interrelationships of Hsianwenia and all relevant cyprinids,here we present a comprehensive morphological study of Hsianwenia.We have new information on the anterior part of the cranial cavity,a large supraneural 3 in the Weberian apparatus, numerous procurrent caudal fin rays supported by the preural centrum $\\mathrm { P u }$ 5,and a neural arch on $\\mathrm { P u } 2$ .We also find the differentiated pattern of the bone-thickening:the pachyostosis exists in the endoskeleton but not in the dermal skeleton; it is more obvious in ventral bones than in dorsal ones,when the thickening is present in the dorsally and ventrally grouped endoskeletal bones (e.g., the epineural and epipleural intermuscular bones). Considering the integrity of musculoskeletal system manipulating the chewing activities,we suspect that the thickened pharyngeal jaws and the hard food processing might be associated with the unique hind protrusion (cleithral “humeral” process) of the dermal pectoral girdle of Hsianwenia. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsQaidam Basin, Pliocene,Hsianwenia wui,morphology,differential skeletal thickening,chewing system and cleithral humeral process ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Qaidam Basin, located in the northeastern part of the Tibetan Plateau and the core area of semi-arid and arid Central Asia, is a key area for understanding the geological and paleoenvironmental history of the region (Yin et al., 2008; Kent-Corson et al., 2009; Miao et al.,2013; Zhuang et al., 2014; Yu et al.,2015;Li et al., 2016, 2017; Song et al., 2020). Having experienced intensive environmental changes during the Neogene, this basin might have facilitated today's faunal endemism of the Tibetan Plateau, as being exemplified by the evolutionary history of the Tibetan chiru and muskox (Wang et al., 2015; Deng et al., 2020). The fishes are ideal candidates of recording the environmental effects of the rising of the Tibetan Plateau because their history is closely linked to the regional tectonic activities, the topographical changes,and the resultant reorganization of the drainage systems (Chang and Miao,20l6). Indeed,the schizothroacine fishes on the plateau have presumably undergone an evolutionary history shaped largely by the growth of the plateau (Cao et al.,1981; Wu and Wu, 1992; Chen et al.,1996; Chang et al.,2010; Wang,2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recent research on the Cenozoic fishes from the Tibetan Plateau has made some new progress.In addition to the previously described fossils of the Schizothoracinae,some other cyprinids and Nemacheilidae (Chen and Liu, 2007; Wang and Chang, 2010, 2012; Wang and Wu,2015),fossil climbing perch,Eoanabas thibetana,has been found from the late Eocene of the center of the plateau, which provides new insights into the paleoenvironment of the plateau's hinterland and the biogeographical history of its group (Wu et al.,2017; 2019; Su et al.,2019; Fang et al., 2020). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Qaidam Basin preserves a continuous sedimentary record in the Cenozoic (up to $1 5 0 0 0 \\mathrm { ~ m ~ }$ thick in the center of the basin),and contains fossils from the Oligocene to Pliocene (Wang et al.,2007,2015; Yin et al.,2008).Although only cyprinid fossils have been recovered from the basin so far (Chen and Liu,2007; Chang et al.,2008,2010; Yang et al.,2018), some of these fossils have significant bearings on the early history of the endemic schizothroacine fishes (Chang et al., 2008,2010; Yang et al., 2018). Among all these fossil materials, Hsianwenia wui from the Pliocene (Chang et al.,2008; Fang et al.,2008) is the most special one. It was resolved in the Schizothoracinae phylogeny as a transitional taxon between the primitive grade and specialized grade of that group (Chang et al., 2Oo8),and more specifically, as the sister species to the Oligocene cyprinid Paleoschizothoracine qaidamensis (Yang et al., 2018). The most striking feature of $H .$ wui is its overall thickened bones (pachyostosis) (Chang et al.,20o8) (Fig.1). Based on the single analogous case of the marine cyprinodont Aphanius crassicaudus from the Miocene of the margins of the drying Mediterranean Sea (Gaudant,1979; Sorbini and Tirapelle,1979; Meunier and Gaudant,1987; Gaudant et al., 2015),the previous researchers assumed the extraordinary thickening of the skeleton as an adaptive strategy of $H .$ wui for the deposition of the oversaturated calcium，which was caused by the aridification of Qaidam Basin during the Pliocene (Chang et al.,2Oo8; Chang and Miao, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016).However, the mechanism underlying the thickening of the bones remains unsolved. The unlocking of this mystery necessitates detailed morphological investigation of this fish, which has not been adequately done yet since the original report.Herein, this study aims to present a comprehensive morphological study of Hsianwenia, reveal the pattern of the bone thickening,and highlight the functional impact of the pachyostosis upon the musculoskeletal system through restoring the interaction between the modification of the pectoral girdle and the thickening of the pharyngeal jaws.This study will promote the investigation of the physiological mechanism of the bone thickening in Hsianwenia on one side,and pave the way for future phylogenetic study of the Schizothoracinae on the other. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materials and methodsFossils in the study included: IVPP V 15012, V15244-15245, V 15306-15307.All specimens are deposited in the collections of the Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences,Beijing (IVPP).Fossils were prepared mechanically. The extant taxa used here for comparison include Gymnocypris przewalskii (IVPP OP 343, OP 344), G. eckloni (OP 345), Oxygymnocypris stewartii (OP 346), Schizopygopsis pylzovi (OP 347,348), S. stoliczkai (OP 349, OP 350), S. younghusbandi (OP 351), Platypharodon extremus (OP 352), Gymnodiptychus pachycheilus (OP 353), Ptychobarbus dipogon (OP 354), Schizothorax macropogon (OP 355), Sc. o'connori (OP 356), Sc. waltoni (OP 357),Sc. oligolepis (OP 358), Sc. prenanti (OP 359), Sc. chongi (OP 360), Barbodes vernayi (OP 361), Spinibarbus sinensis (OP 362), Balantiocheilus melanopterus (OP 363), Cyprinus carpio (OP 364), Carassius auratus (OP 365). Osteological terminology follows that of Conway et al. (2oo8). Osteological terminology of pharyngeal bone and teeth follows that of Chu (1935). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Systematic paleontology ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Order Cypriniformes Bleeker,1859/60 Family Cyprinidae Bonaparte,1840 Subfamily Schizothoracinae McClelland, 1842 Genus Hsianwenia Chang et al., 2008 Hsianwenia wui Chang et al., 2008 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 15244,a nearly complete skeleton, only with the posterior part of the caudal fin and the supraneurals missing, from locality CDo649 in the Qaidam Basin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Included material IVPP V15012,a skeleton with the tail,a small portion between head and the trunk, and the snout missing, from locality CD0507 in the Qaidam Basin; V 15245.1,a nearly complete skeleton with the tail lost and skulland other fin skeleton disarticulated,and V 15245.2,a skeleton of the abdominal part of the trunk, from locality CD0649; V 15306.1-37, disarticulated bones of head and body, from locality CD0506 and CD0507; V 15307.1-50, detached pharyngeal teeth, also from locality CDo506 and CD0507. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Horizon and localitiesPliocene.The upper part of the Shizigou Formation of Yahu Anticline, Qaidam Basin, Qinghai Province, China. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Descriptions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 General appearance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The species represents a comparatively large fish (Table 1). The holotype (IVPP V 15244) is preserved almost completely,only the distal part of the caudal fin was missing (Fig.1). With the caudal fin restored in the holotype, the total length is estimated to be roughly $5 0 0 \\mathrm { m m }$ ，with the maximum depth of the body situated just anterior to the origin of the dorsal fin.The species has a fusiform body with a comparatively large head, which is longer than high (Fig.1). The dorsal fin is short with its origin located anterior to that of the pelvic fins.It is closer to the snout than to the caudal fin base.The anal fin is also short and inserted at the level posterior to the dorsal fin,closer to the caudal fin base than to pelvic fins insertion (Table 1).The caudal fin is presumably forked,and the caudal peduncle is longer than high. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Skull ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Skull bones are preserved at varying levels of completeness in V 15244 (Fig. 2), V 15012 (Fig. 3), V 15245,and other specimens. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The kinethmoid is rod-like (Fig. 4A-C). In the front view, it exhibits a rounded dorsal part flanged with a rough rim,a depression in the dorsal part for the ligament connecting the dorsal processes of premaxillae,and more ventrally a gentle constriction in the ventral part. There is a series of irregular pits running along the mid-line (Fig. 4A). In the back view, in the posterior part of the ventral side, it has a small process in both lateral sides for the connective tissue linking the bone to the mesethmoid and vomer (Fig. 4B). It is spindle-shaped with sharp ventral side and blunt dorsal side from lateral view. The anterior edge is notably concaved at the level of the depression for the premaxillary process in the dorsal side.More ventrally, there is a curving band of regularly arranged pits in line with the anterior edge (Fig. 4C). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e460725694801dbff4be3c58c26750765d84042a212bee2b859ad7eb97ad742c.jpg",
+        "img_caption": [
+            "Fig.1 Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin A. photograph of holotype (IVPP V15244); B.skeletal restoration. Anterior facing right.Arrows in the caudal fin in B indicate the outermost upper and lower principal rays.Scale bar equals $2 0 ~ \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/344e07b2a08c899428f87d2e8c6a9861cd50d31e99802f991578eda827795060.jpg",
+        "table_caption": [
+            "Table1 Measurements and meristics (ratio) of Hsianwenia wui (IVPPV15244) (mm) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Total length</td><td>460-510</td></tr><tr><td>Standard length</td><td>417.7</td></tr><tr><td>Body depth</td><td>77.4</td></tr><tr><td>Head length</td><td>109.2</td></tr><tr><td>Head depth</td><td>63.0</td></tr><tr><td>Snout length</td><td>17.8</td></tr><tr><td>Postorbital length</td><td>63.9</td></tr><tr><td>Distance between snout tip and dorsal fin origin</td><td>231.3</td></tr><tr><td>Distance between dorsal fin and caudal fin base</td><td>186.4</td></tr><tr><td>Distance between anal fin origin and pelvic fin insertion</td><td>99.8</td></tr><tr><td>Distance between anal fin origin and caudal fin base</td><td>75.1</td></tr><tr><td>Distance between pectoral fin insertion and pelvic fin insertion</td><td>103.5</td></tr><tr><td>Dorsal fin base length</td><td>46.4</td></tr><tr><td>Anal fin base length</td><td>29.1</td></tr><tr><td>Caudal peduncle length</td><td>47.0</td></tr><tr><td>Caudal peduncle depth</td><td>24.3</td></tr><tr><td>Pectoral fin length</td><td>84.5</td></tr><tr><td>Pelvic fin length</td><td>61.8</td></tr><tr><td>Standard length/body depth</td><td>5.4</td></tr><tr><td>Head length/head depth</td><td>1.7</td></tr><tr><td>Standard length/head length</td><td>3.8</td></tr><tr><td>Caudal peduncle length/caudal peduncle depth</td><td>1.9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mesethmoid, which forms at the anterior margin of the neurocranium can be located; however, its morphology cannot be clearly distinguished in current materials (Fig.2). It is impossible to check whether the mesethmoid is bifurcate or not since the dorsoanterior part is missing. No pre-ethmoid is preserved. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The lateral ethmoid sits posterolaterally to the mesethmoid, which contacts the frontal at the anterolateral margin (Fig.2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The orbitosphenoid is well preserved as a disarticulated bone (Fig. 4D-G). It is V-shaped and bilaterally symmetrical, which is slightly wider in the anterior part (originally abutting the posteromedial edge of the lateral ethmoid, fLe) than the posterior part (originally abutting the anterior edge of the pterosphenoid,fPts).The orbitosphenoid encloses the anterior part of the cranial cavity,i.e.,the part containing the telencephalon (Patterson,1975;Meng et al.,1987). The walls of the cranial cavity are fairly thick. The diverging routes of the olfactory tracts (gI) flanking a prominent median ridge and posterior to their convergence,the recess for the remaining part of the telencephalon (cerebrum) (rtel) can be clearly recognized. Such ridge that separates the olfactory tracts is not seen in checked specimens of extant Barbine species and schizothoracine species (pers. observ.). There are some vascular foramina (fva) emerging from the dorsal part of the orbitosphenoid.The ventral side of the bone bears numerous round pits and ridges, especially in the anterior and posterior parts.In the posterior part,a number of some radiating ridges, enclosed by two convergent grooves, emerges from the center of the orbitosphenoid.No orbital septum is developed. Based on the presence of the large articular facet in the posterior side,the orbitosphenoid should tightly abut the pterosphenoid when the fish was alive. Its participation of the formation of the optic fenestra and the position of the entrance of the optic nerves is not clear. The orbitosphenoid does not possess ventrally extending ridges on its ventral face. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The frontal is the largest bone on the skull roof, much longer than wide. It increases posteriorly and gradually in width (Fig.2). The supraorbital sensory canal cannot be clearly traced because of poor preservation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b2b28ccd0344a5552e05140aaa7dac47d9066e650178c5e71b96472de149ec6.jpg",
+        "img_caption": [
+            "Fig.2Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin,skul,pectoral girdle and anterior part of pectoral fins (holotype IVPP V15244) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A. photograph; B.line drawing ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: ach.anterior ceratohyal; an.anguloarticular; apa. autopalatine; br. branchiostegal rays;   \nCl.cleithrum; De.dentary; Ecpt. ectopterygoid; enpt. entopterygoid; epo.epioccpital; fna.foramen of hyoid artery and facial nerve;Fr. frontal; hh. hypohyal; hy. hyomandibular; Io2-3.infraorbital 2-3; Iop.interopercle; le.lateral ethmoid; lp2.lateral processof the second vertebral centrum; me. mesethmoid;   \nMx. maxilla; mpt. metapterygoid; ocpip.origin of m. pharyngo-cleithralis internus posterior; oos. outer arm of the os suspensorium; Op.opercle; Pa.parietal; pf. pectoral fin; Pmx. premaxilla; Pop.preopercle;   \nPt. posttemporal; pto. pterotic; qu. quadrate; r. rib; Scl. supracleithrum; soc.supraoccipital; Sop.subopercle; spo.sphenotic. Scale bars equal $1 0 \\mathrm { m m }$ .Anterior facing right ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The parietal is roughly square in shape,with its length being about l/3 of that of the frontal.It sutures with the frontal anteriorly, the supraocciptital posteriorly,and the pterotic laterally (Fig.2). It cannot be determined whether or not the supratemporal commissure passes the parietals. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/14eddbeb27e412fd040932dda1e194c40af3431d842ce406df15258e245862dd.jpg",
+        "img_caption": [
+            "Fig.3Hsianwenia wui Chang et al.,2oo8 from the Pliocene of Qaidam Basin, skull of specimen IVPPV15012 A. photograph; B. line drawing Abbreviations: cbr.ceratobranchial; gr.gillrakers;1.left; pb.pharyngeal bone; Pth.pharyngeal teeth; r.right For other abbreviations see Fig.2. Scale bars equal $1 0 \\mathrm { m m }$ .Anterior facing right "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The epioccipital takes up the posterolateral corner of the neurocranium and articulates posterolaterally with the posttemporal. It bears a small conical process, which projects posteriorly. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The supraoccipital occupies the posteriormost part of the occiput and bears a small crest along its midline (Fig. 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Jaws ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The mouth is subterminal and the jaws are comparatively short and toothless. In the holotype, the blunt anterior part (the ascending process) of the premaxilla can be observed (Fig. 2). The maxilla is plate-like, with a broad middle portion and a gently curved ventral margin. Its dorsal process is not completely exposed (Fig. 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The anterior branch of dentary curves sharply and medially to meet its counterpart and form a flat and shovel-like anterior margin of the bone (Figs.2,5).The coronoid process is high (occupying about 1/2 of the height of the dentary) and truncated in the dorsal end (Fig. 2).This process is slightly tilted posterodorsally.A small oval foramen exits in front of the coronoid process as the passage of the internal mandibular branches of the trigeminal nerve $\\mathrm { ( f V m d ) }$ . There is a notch in the ventral part of the posterior margin of the dentary, which clings ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4958f98adf1adaa5a1189b452a0651aeceeec0278cb30db3d6a9624db28b956.jpg",
+        "img_caption": [
+            "Fig.4Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin, kinethmoid (IVPP V15306-1) (A-C) and orbitosphenoid (V 15306-2) (D-G) A. front view; B.back view; C.lateral view of kinethmoid.D.dorsal view; E. ventral view; F.front view; G.back view of orbitosphenoid.Dorsal facing up (A-C,F-G), figures marked with1 are photographs,and 2 are line drawings "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: d.depression for ligament connecting dorsal processes of premaxillae; fLe.facet originally abutting lateral ethmoid; fPts.facet originally abuting pterosphenoid; fva.vascular foramina; gI.grooves probably for passages of the olfactory tracts; p. process to connective tissue linking mesethmoid and vomer; rtel. recess for the telencephalon. The scale bar shared by A-C equals $1 \\mathrm { m m }$ ,that in D-G equals $2 \\ : \\mathrm { m m }$ closely to the lateral side of the anguloarticular (Fig.2). In the medial side of the bone, the groove accommodating the Meckel's cartilage and the anterior portion of the anguloarticular widens posteriorly (Fig. 5A). The openings of the mandibular sensory canal can be seen along the anterior part of the ventral margin of the dentary and the ventral edge of the anguloarticular. The diameter of the sensory canal openings is smaller than the distance between adjacent openings. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The anguloarticular is covered by the dentary in the anterior part (Fig.2). It is thin in the anterior part and becomes thickened in the posterior part (Fig. 5). It shows a developed socket for articular head of the quadrate in the posterodorsal corner. In the medial side,a long strip of bone extends anteriorly along the ventral part and terminates in a truncated end as the origin of the Meckel's cartilage (Fig. 5). Anterovental to this point is a smal foramen that penetrates ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/88e605ee587468992e2382e96bdb93e333e44b8a6b7239db3947a9a90bb33c41.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Hsianwenia wui Chang et al.,2oo8 from the Pliocene of Qaidam Basin, disarticulated dentary and anguloarticular   \nA,B. photo (A1,B1) and drawing (A2,B2)of a right dentary (IVPP V15306.1) in median (A)and lateral (B) views; C,D. photo (C1,D1) and drawing (C2,D2) of a left anguloarticular (V 15306.2) in lateral (C) and median (D) views Abbreviations: cp.coronoid process; fVmd. foramen for mandibular branch of trigeminal nerve; fVIImd. foramen for mandibular branch of facial nerve; gac. groove accommodating anguloarticular and Meckel's cartilage; j. joint facet for counterpart dentary (mandibular symphysis);   \njRa.joint facet for retroarticular; Mco.the origin of the Meckel's cartilage; msc.mandibular sensory canal; sQu. socket for the articular head of quadrate.Dorsal facing up.All scale bars equal $2 \\mathrm { m m }$ （204号 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "the bone,possibly associated with the mandibular branch of the facial nerve.In the posterior part, just below the socket for the articular head of the quadrate is a concaved surface, which might be the articular facet for the retroarticular, although the retroarticular cannot be clearly recognized in articulated specimen. There are some deep pits in the posteroventral corner of the medial side. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4 Palate ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The autopalatine is partially exposed in the holotype. It articulates with the entopterygoid posteriorly and jacks up the maxilla, locating its anterior end. However, the details of the structure linking to the mesethmoid and the vomer cannot be observed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The entopterygoid is a large bone with a convex lateral surface.It joins the autopalatine anteriorly and abuts posteriorly with the metapterygoid in a curving line (Fig.2). Its ventral edge meets the ectopterygoid and extends posteriorly to the level of the quadrate.It has a notch in the anteroventral corner to accommodate the posterior end of the autopalatine (Fig. 2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The posterior part of the ectopterygoid is exposed, which meets the quadrate posteriorly and possesses a rounded ventral edge (Fig. 2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The metapterygoid is larger than the entopterygoid and articulates anteriorly with the entopterygoid. It contacts the quadrate on its anteroventral edge and rims the anteroventral edge of the hyomandibular (Fig. 2). A small process is developed in the posterodorsal corner. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The quadrate consists of a dorsal and a ventral part. The shaft-like dorsal part tapers dorsally (Fig.2). It is fairly high and nearly equals the ventral part in height.The anteroventral edge of the fan-shaped ventral part contacts with the ectopterygoid. The articular head for the anguloarticular joint socket is well-developed. Some faint radiating ridges emerge from the articular head.The symplectic cannot be observed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5 Opercular series ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The bones of the opercular series are preserved in the holotype (V 15244), V 15245.1, and V 15012 (Figs.2, 3, 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The opercle is trapezoid in shape,being roughly as high as wide. Its anterior edge is slightly convex and much longer than the posterior edge (Figs. 2,3). The dorsal edge curves ventrally at the midpoint. The opercular arm is short and robust and protrudes anterodorsally from the angle enclosed by the dorsal and anterior edges. The outer surface is smooth except for a fine vertical shallow groove running to the anteroventral corner of the opercle. No opercular sensory canal is developed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The preopercle is crescent-shaped (Figs. 2, 6A). Its dorsal and ventral arms are similar in length and taper posterodorsally and anteriorly,respectively (Figs. 2, 6A). It exhibits a series of slit-like openings of the preopercular sensory canal on the lateral surface. These openings decrease in size posterodorsally and the distance between the adjacent openings is smaller than the long axis of the openings.The preopercular sensory canal sends several branches on the ventral limb,which seems undeveloped in the remaining part of the bone (Fig.2).The inner surface of the preopercle is generally smooth except for a curving crest mostly rimming the anterior edge of the preopercle (more prominent in the dorsal branch). This crest may indicate the position of the preopercular sensory canal (Fig. 6A). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The interopercle lies ventrally to the preopercle and is partially exposed in current materials (Figs. 2, 3). It has a truncated posterior edge and gradually tapers anteriorly. The subopercle is roughly triangular in shape with straight dorsal and slightly convex ventral borders.However, the presence of an anterodorsal process cannot be determined. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the holotype,a total of three branchiostegal rays were developed (Figs.2,3). They are stacked below the interopercle and decrease in size anteriorly (Figs.2, 6). In V 15244.2, some disarticulated branchiostegal rays are preserved (Fig. 6B, C). Each branchiostegal ray bears an anterodorsal process in the truncated anterior end,and this process is most notable in first branchiostegal ray, which must originally attaches to the medial side of the anterior ceratohyal. Each branchiostegal ray is generally arc-like and bends ventrally in the middle,and abruptly tapers posterodorsally into a sharp tip,forming an obtuse angle on the ventral edge (Fig. 6B, C). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ceacce069620b3a37281f94db7a8aa43230c94bfc421e0524bfd690f386d402.jpg",
+        "img_caption": [
+            "Fig. 6Hsianwenia wui Chang et al., 2Oo8 from the Pliocene of Qaidam Basin, disarticulated opercular series bones A. left preopercle, medial view, in IVPP V15245.1; B. the third branchiostegal ray in V15245.2; C.the second or frst branchiostegal in V15245.2.Figures marked with 1 are photographs,and 2 are line drawings.Anterior facing right in A,and left in B-C,dorsal facing up Scale bar equals $2 0 \\mathrm { m m }$ in A,and equals $5 \\mathrm { m m }$ in B and C "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.6 Circumorbital bones ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the holotype,two infraorbitals (infraorbital 2 and 3) of the right side are preserved (Fig.2).The infraorbital 2 rims the anteroventral margin of the orbit. It is slender and slightly convex ventrally. Its posterior part is broader than the anterior part.A ridge extends along its longitudinal axis on the lateral surface,indicating the likely position of the infraorbital sensory canal. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The infraorbital 3 (or the fused infraorbital 3 and 4) is leaf-like.It is larger than the infraorbital 2 and borders the ventral and posteroventral margins of the orbit. It exhibits a ridge along its dorsal margin on the lateral surface that is in contact with that on the infraorbital 2 but thicker than the later.This ridge likely indicates the infraorbital sensory canal on infraorbital 3. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.7 Hyoid arch ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The ceratohyals are preserved in the holotype (Fig.2) and V 15012. The anterior ceratohyal is dumbbell-like and the posterior ceratohyal is triangular. The interhyal is not preserved. The disarticulated bones just in front of the anterior ceratohyal might be hypohyals (Fig.2). The hyomandibular is roughly triangle-shaped, deeper than wide,and tapers ventrally ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/78cda069954e1ec47ac8948872228ed9f37eb854cba987ceba2d86852023d697.jpg",
+        "img_caption": [
+            "Fig.7 Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin,left hyomandibular (IVPP V 15306.3),pharyngeal bone and teeth in medial view (V15244) and urohyal(V 28581) A,B.hyomandibular in medial(A) and lateral(B) views. Dorsal facing up.C. pharyngeal bone in medial view; D,E.urohyal in dorsal (D) and posterior (E) views, anterior facing left in D Abbreviations:ae.anterior edentulous process; jn.dorsal joint processes to neurocranium; jOP. joint process to opercle; fna.foramen for hyomandibular ramus of facial nerve (VII) and efferent hyoid artery; hp.horizontal ventral plate;vp.longitudinal vertical plate Scale bars equal $1 0 \\mathrm { m m }$ Figures marked with1 are photographs, and 2 are line drawings "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "into a vertical shaft (Fig. 2). There are three articular heads,two dorsal heads for the neurocranium and one posterior head for the opercle (Figs. 2, 3,7). The dorsal edge is slightly concave between the two dorsal articular heads. The dorsal and the anterior margins of the hyomandibular converge in a spike-like tip,whereas the dorsal and the posterior margins enclose a wide blade.The anterior edge concaves posteriorly in the ventral part and abuts the posterodorsal corner of the metapterygoid (Fig. 2). The posterior articular head for the opercle is close to the dorsal margin of the hyomandibular and fits in a socket on the anterodorsal corner in the median side of the opercle.The hyomandibular has a membrane flange along its anterior margin.On the lateral face, there is a Y-shaped keel connecting the dorsal articular heads, the posterior head, and the vertical shaft.The openings of the passage of the hyomandibular branch of the facial nerve(VII) and the efferent hyoid artery are seen on both lateral and median sides (Figs.2, 7A,B).A small ear-like structure hangs over the lateral opening. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The urohyal is partially preserved with a recognizable anterior part (Fig 7D,E). It is notably thickened, especially the vertical median keel,whereas the horizontal ventral plate is much thinner ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "and plate-like.The presence of the posterior notch cannot be determined as this part was lost ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.8 Branchial arch,pharyngeal bone and teeth ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Of the branchial arches, only some ceratobranchials and the pharyngeal bones can be recognized. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Two oblong ceratobranchials are partially exposed in V 15012 (Fig. 3). The gill rakers are sparely arranged along its anterior edge. On the left side of V 15012,16 gill rakers are preserved for the first ceratobranchial. The gill raker is rod-like and blunt in the tip. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The pharyngeal bone and teeth are preserved in holotype,V 15012 and V 15245.2. In holotype, only right pharyngeal bone and teeth are exposed (Fig. 7C). The pharyngeal bone is crescent-shaped with stout anterior and posterior limbs. The anterior limb bends laterally toward the end and tapers to form a pointed tip,whereas the posterior limb is covered by the skull.The posterior edentulous process (toothless part of the posterior limb) is slightly shorter than the dentigerous surface.The anterior angle is developed, opposite to the position of the tooth a3,whereas the posterior angle is not obvious.The pharyngeal bone bears three rows of teeth with a tooth formula of2,3,5/5,3,2.The inner, middle and outer rows are labelled as a b,and c.The first tooth of the inner row (a1) is missing, with only the imprint of its base preserved.The base of a2 is smaller than that of al and a2 is elliptically cylindrical with a blunt and expanded crown and coarse grinding surface. The tooth a3 is similar to a2 in shape,but stronger and longer than the latter.The grinding surface of a3 is flat and faces posterodorsally. The tooth a4 is the strongest in the pharyngeal bone but shorter than a3, with a narrow grinding surface that faces posterodorsally.The fifth tooth a5 is the longest in the pharyngeal bone but is slimmer than a4.Its grinding surface is broader than that of a4.The teeth of the middle row (row b)are smaller and slender than those of the inner row. The teeth of the outer row (row c) are smaller than those of the middle row.The tooth cl is smaller and slender than c2.There are two types of the pharyngeal teeth (see Chang et al., 2Oo8:fig.3f): type I, the teeth are blunt with a rounded top and irregular grinding surface; type I,the teeth (possibly the worn teeth) are truncated with a blunt top and flat grinding surface. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.9The vertebral column and pleural ribs ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The vertebral column is preserved in holotype,V 15245.1, V 15245.2, V 15012 and other specimens (Figs.1, 8-1O). It is best preserved in the holotype,where 37 vertebrae are preserved, including the last compound caudal vertebra. Based on the topographical relationship between the Weberian apparatus and anterior ribs, probably three vertebral centra (vc) are missing posterior to the vc4 (os suspensorium); thus there are likely 44 vertebral centra (including those of the Weberian apparatus). Therefore,in this calculation, the vertebral column consists of 25 abdominal and 19 caudal vertebrae (Fig.1). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Weberian apparatusThis apparatus and its associated elements are only partially preserved in current materials. The lateral process of vc2,the elements of vc4, supraneural 3, and tripus(?) are observable. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5af76fa2b3761909e431d1627cbd8e0f3615950f045683f29497182c7a61b85e.jpg",
+        "img_caption": [
+            "Fig.8Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin,vertebrae A.abdominal vertebrae (IVPP V15245.1); B.abdominal vertebrae (V15244); C.caudal vertebrae (V15245.1); D.caudal vertebrae (V15012); E,F.left os suspensorium (V15306) in front (E)and back (F) views Anterior facing left inA,Cand F;anterior facing right in B,D,E.Dorsal facing up in all figures Figures marked with 1 are photographs and those marked with 2 are line drawings Abbreviations: en. epineural; epl.epipleural; do.distal end of outer arm of os suspensorium; hs. heamal spine; ios.iner arm of os suspensorium (broken); lp2.lateral process of the second vertebral centrum; ns. neural spine; oos. the outer arm of the os suspensorium; pv. parapophysis; r. rib; sn3. supraneural 3; uh.upper head of os suspensorium; vc4,vc38.the 4th and 38th centra. Scale bars equal $1 0 \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The lateral process of vc2 is better preserved in V15245.1 (Fig. 8A1) than in the holotype (Fig. 2). It is elongate and tapering in the distal tip and slightly compressed in the middle part. This bone is much thinner than the outer arm of the os suspensorium referred below. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The parapophysis of the vc4 (os suspensorium) exhibits a pyramid-like process in the dorsal end as the head fiting into the fossa on the ventrolateral side of the vc4 (Fig.8E,F). Its outer arm is rod-like with a gentle contraction in the middle part.It has a stout round distal end, which is intensively pited (Fig.8E). The inner arm of the os suspensorium is smal and emerges immediately below the base of the upper articular head; however, it was broken with only its base preserved (Fig.8E,F). On the anterior side of the outer arm,there are two fusiform depressions on the dorsal part,and numerous shallow pits and notches on the remaining part (Fig 8E). The hind surface is generally smooth except for the pitted distal end (Fig. 8F). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The vc4 is preserved in V 15245.1 (Fig. 8A1). Its neural spine is notably shorter and slimmer than that in more posterior centra and the fossa receiving the outer arm of the os suspensorium is obviously more ventrally positioned than those fossa receiving the parapophyses in the succeeding centra. The part originally abutting the supraneural 3 (neural complex)and neural arch of vc3 bears some round pits,which is not seen in the neural arches in the succeeding vertebrae. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The supraneural 3 is preserved in V 15245.1. It is broad and axe-shaped, wider and thinner in the dorsal part than in the ventral part. The surface is intensively pitted except for the dorsal margin. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Post-Weberian vertebrae The vc5-vc25 are eliptical cylindrical-shaped amphicoelous centra.Each vertebral centrum bears a thickened neural arch surmounted with a stout cone-like neural spine and a very weak prezygapophysis and a slightly better-developed postzygapophysis on the anterior and posterior side, respectively (Fig. 8A, C). On the lateral side,except for the deep and large fossa receiving the parapophysis in the ventrolateral aspect, the remaining surface lacks the pits and ridges, which are replaced by the swelled bone tissues. The swelling of the bone is more extensive in larger individuals.Although much smaller than the that of vc4,the parapophyses of vc5-vc26 are also thickened,exhibiting a cone-shaped process on both anterior and posterior sides,of which the former is much shorter than the latter (Fig.8A,B).These two processes together enclose the joint facet with the proximal end of the pleural ribs.The parapophyses are autogenous to the vertebrae and gradually increase in size posteriorly. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "All ribs are extraordinarily thickened and so closely piled up that they have squeezed out the room in between. Each pleural rib exhibits a stout anterior process and a slender posterior process in the proximal end. The ribs gradually decrease in size posteriorly. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The haemal arch and haemal spine emerge starting from vc27. The haemal arches and haemal spines are obviously thickened in a similar extent in the corresponding dorsal neural arches. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The ventral aspect of each abdominal vertebra bears two longitudinal ridges flanking the concaved mid-line,which likely serve as the attachment of the dorsal aorta and vein. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The intermuscular bones are extraordinarily thickened. The epineurals are $\\mathbf { \\nabla } ^ { \\left. \\mathbf { Y } \\right. }$ -shaped with its shorter inner arm being covered by the succeeding epineural in original orientation (Fig. 9A).The series of the epipleurals starts from the posterior abdominal region (there are eight to nine epipleurals in front of the first anal-fin pterygiophore).The epipleurals show an increase and then decrease in size posteriorly until they terminate at the level of $\\mathrm { P u } 3$ . Despite a similar “Y\"-shaped morphology, the epipleurals are more intensively thickened than the corresponding epineurals (Figs. 1, 9). ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c14c0290068121d4d7c0ad7c35f9147a645b43cb72075b4f430f9b92a0dfabe.jpg",
+        "img_caption": [
+            "Fig.9Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin,intermuscular bones A.an epineural,IVPP V15306.20;B.an epipleural,V15012. Scale bars equal $5 \\mathrm { m m }$ Figures marked with 1 are photographs,and 2 are line drawings. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.10 Caudal skeleton and caudal fin ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The caudal skeleton consists of the last 5 caudal vertebrae: the preural 5-2 (Pu5-Pu2) and the compound centrum (cc) with its accessory bones (Fig.10). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The neural and haemal spines of $\\mathrm { P u } 5$ are elongate and support the anteriormost dorsal and ventral procurrent rays,respectively. The neural spines of $ { \\mathrm { P u } } 5  { - }  { \\mathrm { P u } } 2$ show a progressing increase in size and support the unsegmented dorsal procurrent rays.It is notable that there is a short neural spine posterior to the long neural spine on $\\mathrm { P u } 2$ ，which approximates that of the compound centrum in size; however, there is some difference in the morphology between these two elements (Fig.1O). The width of the haemal spines of $ { \\mathrm { P u } } 5  { - }  { \\mathrm { P u } } 2$ increases posteriorly, such that the distal parts of the haemal spines in $\\mathrm { P u } 2$ and $\\mathrm { P u } 3$ expand into compressed plates. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "From the compound centrum, the pleurostyle and hypural 2 extends posterodorsally and posteroventrally, respectively, enclosing an angle of about $6 5 ^ { \\circ }$ . The former supports two outermost dorsal principal rays. The hypural 2 bears two innermost ventral principal rays. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The single epural inserts between the pleurostyle and the neural spine of $\\mathrm { P u } 2$ ，with a broad and round proximal end and a tapering distal end, which supports two innermost segmented procurrent rays. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A tiny crescent uroneural clings to the posterodorsal aspect of the pleurostyle ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "There are five plate-like hypurals (H1-H5). The hypural 3-5, supporting eight dorsal principal caudal rays,attach to the pleurostyle on its posteroventral side. The hypural 2 is slightly narrower than hypural 3 and it fuses to the compound centrum. It supports two ventral principal caudal fin rays. The hypural 1 is autogenous and supports two principal rays, with a very narrow proximal end that contacts the compound centrum. The parhypural is firmly attached to the compound centrum and bears a parhypural process,which is pierced by a foramen in the base.Its concaved posterior edge and the notched anterior edge in the proximal base,together with the Hl and the haemal spine of $\\mathrm { P u } 2$ ,constitute the fossae as the passages of caudal vessels (Arratia and Schultze,1989). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "There are 19 principal rays with a caudal fin formula of I-9-8-I, preceded by 14(11 unsegmented) dorsal and 13 (9 unsegmented) ventral procurrent rays. The anteriormost procurrent rays are associated with the neural and haemal spines of $\\mathrm { P u } 5$ .The principal rays clinging to hypural 1-3 are curved inward axially in their base and most of the remaining rays exhibit pointed and straight proximal ends. The two innermost principal rays have truncated proximal ends.The length of the principal rays remains unknown because their distal portions are missing in current materials.The fork of the caudal fin is not preserved. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9891922301b30581ea054fd0976f09c6a92f5a554683af037ce105faa8ac347.jpg",
+        "img_caption": [
+            "Fig.10 Hsianwenia wui Chang et al.,2oo8 from the Pliocene of Qaidam Basin, caudal skeleton and caudal fin (holotype IVPP V15244) A. photograph; B.line drawing Abbreviations: cc.compound centrum; epl. epipleural; Ep.epural; Hs. haemal spine; H1-H5.hypural 1-5; Ns. neural spine;Ph. parhypural; Pls.pleurostyle; Pu2,5.Preural centra 2,5. Ur. uroneural Arrow pointing to the outermost principal rays in upper and lower lobes,scale bar equals $5 \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.11Dorsal fin and anal fin ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The origin of the dorsal fin lies anterior to the insertion of the pelvic fin,approximately above the cvl7 and closer to the caudal fin than to the snout tip (Table 1).The dorsal fin base is relatively long and contains three unbranched rays and seven branched fin rays,which ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b1f9b11e0ed091487ae17ff4af8e03adb3c4c04c5e3cc05ac037f61d041e008.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Fig.11 Hsianwenia wui Chang et al.,2Oo8 from the Pliocene of Qaidam Basin, median fins,paired fins and girdles A. dorsal fin (holotype,IVPP V 15244); B.anal fin (V 15244); C.anal fin (V 15012); D.pectoral fin (V15244); E. pelvic fin V15244); F.left basipterygium (V15245.1).Anterior facing right,dorsal facing up Abbreviations: afs.anal fin stay; ap1.first anal fin pterygiophore; bp.basipterygium; dp1.first dorsal fin pterygiorphore; fpr. facet for articulation of pelvic radials; ip. ischiac process;j. joint process; sn.supraneural. Scale bars equal $5 \\mathrm { m m }$ in Fand $1 0 \\mathrm { m m }$ in the rest ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "decrease in length posteriorly (Figs.1,11A). The first two short unbranched rays both have strong bases and spine-like ends.The third unbranched fin ray is the longest and strongest fin ray, with a length of about $5 1 . 7 \\mathrm { m m }$ in the holotype.The posterior margin of this ray is serrated and the serrated part occupies about 4/5 of the total length offin ray. The serrations are robust, blunt,and closely arranged. The largest serration is about $2 . 4 ~ \\mathrm { m m }$ long.Most of the serrations are almost perpendicular to the long axis of the fin ray, whereas some in the middle region and the distal part of the ray point posteroventrally and anterodorsally, respectively. This fin ray is likely to possess a segmented distal tip. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The proximal ends of the branched dorsal fin rays are expanded; each exhibits an anterior process and a developed posterior process. The first branched ray is $4 8 . 2 \\ \\mathrm { m m }$ in the holotype, and the length of the branched rays decreases posteriorly. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the holotype,most of the pterygiophores of the dorsal fin are preserved. There are 8 sets of pterygiophores in total,of which the first one supports four unbranched rays,and each of the pterygiophore 2-8 supports a branched ray. The first pterygiophore is plate-like,and the longest among its series,with a length close to that of the longest unbranched fin ray. Its ventral part is not forked (V 15245.2). The remaining pterygiophores share similar morphology and decreases in size posteriorly. Each pterygiophore exhibits a longitudinal keel flanked by a flange of membrane bone in its anterior and posterior part.The anterior membrane flange is best developed in the first pterygiophore. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The middle radials of the dorsal fin are preserved in the holotype. They are generally trapezoidal in the anterior view, with a broad ventral margin and narrow dorsal margin. In the lateral view, it is constricted in the middle part and the ventral edge is roughly triangular in shape.The presence of dorsal-fin stay cannot be verified in current materials. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In the holotype and $\\mathrm { ~ V ~ } 1 5 0 1 2$ ， parts of the predorsal bone (or supraneural) immediately anterior to the dorsal pterygiophore are preserved (Fig. 11A). The preserved predorsal bone is approximately triangular with a pointed posterodorsal corner. It is broader and thicker in the dorsal part than in the ventral part. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The origin of the anal fin lies posterior to the dorsal fin.It is closer to the caudal fin base than to the pelvic fin insertion (Fig.1; Table 1). It has three unbranched rays and six branched rays (Fig.11B,C). In the holotype, the first unbranched ray is $1 5 . 2 ~ \\mathrm { m m }$ long and unsegmented.The second unbranched ray is $2 2 . 8 \\mathrm { m m }$ long and is distally segmented. The third unbranched ray, $5 8 . 4 ~ \\mathrm { m m }$ long,is the longest fin ray of the anal fin. The posterior margin of the last unbranched ray is smooth and is distally segmented. The first branched ray is $5 6 . 7 \\mathrm { m m }$ long,and the length of the branched rays decreases posteriorly. The anal pterygiophores show a similar morphology, a triangular bone with a longitudinal keel flanked by the anterior and posterior membrane flanges. The first supports three unbranched rays and the pterygiophore 2-5 each bears one branched fin ray.The last one (pterygiophore 6) supports the last two branched rays. Behind this is a smalltriangular bone,which is termed the end piece or anal-fin stay according to Weitzman (1962) (Fig. 11B, C). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3.12 Pectoral girdle and pectoral fins ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The preserved elements of the pectoral girdle include a posttemporal, a supracleithrum, and a cleithrum (Fig. 2). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The posttemporal is an irregularly shaped dermal bone with a concave posterior edge. It articulates with the supracleithrum ventrally and the posterolateral corner of the neurocranium. The supracleithrum is elongate bone with a concaved anterior edge and a sinuous posterior edge. It articulates with the lateral face of the dorsal process of the cleithrum (Fig. 2). The openings of the sensory canal (lateral line) on the posttemporal and supracleithrum cannot be clearly traced. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The cleithrum is the largest element of the pectoral girdle.It is arc-like and consists of a dorsal vertical branch (posterior branch) and a ventral horizontal branch (anterior branch). These two branches constitute a concave rim in the lateral side and extend medially to form an inner lamina of the cleithrum (Fig.2),of which a depressed area in the bending of the vertical into the horizontal branch may serve as the origin of the m. pharyngocleithralis internus posterior (Fig. 2,ocpip) (Sibbing,1982; Gidmark et al., 2014). This muscle inserts on the symphysis of the pharyngeal bones in cyprinid fishes (Sibbing,1982). The anterior margin of the inner lamina of the ventral branch is concaved (Fig. 3). On the posterior edge of the cleithrum, approximately at the level of the ocpip mentioned above, there is a prominent triangular process protruding posteriorly (Fig.2),which is reminiscent of the humeral process of the cleithrum in some catfishes (Diogo, 2005). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The postcleithrum is not recognizable in current materials. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "No information of the endoskeletal pectoral girdle can be distinguished. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The pectoral fin is long and spans about ten vertebrae.It consists of one unbranched fin ray and twelve branched fin rays (Fig. 11D).The fin rays bent ventrally in their anterior ends. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3.13Pelvic girdle and pelvic fins ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The pelvic girdle and pelvic fins are preserved in the holotype and other specimens (detached pelvic girdle) (Fig.11E,F). The basipterygium is Z-like and its anterior arm is long and forked in the anterior end. The forked part occupies about one fourth of the length of the anterior part of the basipterygium. Behind the fork is a broad groove enclosed by the prominent lateral and medial ridges of the anterior arm. This groove extends posteriorly towards the posterior margin of the basipterygium, where it originally articulates with the pelvic radials.A small joint process in the posterolateral corner might be also associated with the articulation of the pelvic radials; however, the latter are not preserved. The posteromedial ischiac process occupies about half the length of the anterior part of the basipterygium (Fig.11F). It is noted that in larger individual (V 15245.1),the basipterygium is more thickened than in smaller individual (the holotype). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The insertion of the pelvic fin is below the cvl7 and approximately at the midpoint of the distance between the pectoral and the anal fins. The fin comprises nine branched fin rays preceded by one unbranched ray (Fig.11D). The fin rays bend medially at the tapering anterior end, thereby forming a right angle in this part for each ray. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The pelvic splint is likely absent. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4 Comparison and discussion ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Previous phylogenetic studies placed Hsianwenia wui into the Schizothoracinae, Cyprininae (sensu Chen, 1984), being inserted above the extant Schizothorax and between fossil taxon Pleisoschizothorax and extant specialized schizothoracine species (Chang et al., 2008),or being sister-grouped to Paleoschizothorax (Yang et al., 2018). The sister-group relationship of Hsianwenia and Paleoschizothorax was supported by a character, the shovellike anterior margin of dentary [see appendices 1 and 2 in Yang et al. (2018)], which, however, cannot be confirmed in the original description of Paleoschizothorax (Yang et al.,2018). We attempted to perform a phylogenetic analysis to test the systematic position of Hsianwenia within the Schizothoracinae by adding dozens of new characters to the data matrix used by Chang et al. (2008) and Yang et al. (2018) but recovered a large polytomy of all fossil taxa and Schizothorax species included in previous studies above.It highlights the volatility of the schizothoracine interrelationships and the need for continued morphological investigations of an extended list of relevant taxa,both fossil and extant, including most of the living schizothoracin species and barbin species that show affinity in the molecular phylogeny (Yang et al.,2015).For now, we have to narrow the comparison in the sampling list of Chang et al. (2008) and Yang et al. (2018). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4.1 Comparison ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Current materials include some endocranial bones, bringing to light some rare information inside the cranial cavity.As the olfactory lobe is differentiated into olfactory bulb and olfactory tract in cyprinids (Meng et al.,1987), it is reasonable to assume that the diverging grooves in the anterior part of cranial cavity (Fig. 4D,F) might have served as the passage of the olfactory tracts.And notably there is a prominent ridge located at the convergence of the olfactory tracts,which is not seen in extant schizothoracine fishes and some selected barbin fishes, e.g., Spinibarbus,Barbodes (Wang,2010 and personal observations). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The pectoral girdle also displays some peculiarity. The cleithrum has a well-developed triangular posterior process(\"humeral” process) on the posterior side and above the pectoral fin insertion.This obvious protrusion of the cleithrum does not exist in extant and known fossil schizothoracine fishes and some selected barbine fishes (Wang,2OlO and personal observations). This feature and its possible functional bearings are discussed below. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The first dorsal pterygiophore is not notched in the ventral part as in living schizothoracine fishes but similar to barbin species (personal observations) and Paleoschizothorax (Yang et al., 2018).This fork appears to characterize the living schizothoracines (Wang,2010). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Although the Weberian apparatus is not completely preserved in current materials, the supraneural 3 is largely observable. This element is much larger than its counterpart in living schizothoracine and barbin species (personal observations). It is so broad that it should have filled the space between the rear of the head and the neural spines of the vertebrae behind the Weberian apparatus (Fig. 8A). As a unit that plays some role in lifting the head during the feeding in cyprinids (Sibbing,1982), the change in its morphology might have some functional consequence for the efficiency of the food processing of Hsianwenia. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { P u } 2$ bearing an accessory neural arch (spine) is developed independently in some cyprinid lineages, e.g.,Barbinae (Barbus barbus) and Leuciscinae (Gobio gobio, Zacco cf. platypus); and Hsianwenia resembles most with Zacco in having a short posterior neural spine on $\\mathrm { P u } 2$ that is not involved in supporting the caudal fin rays (Conway, 2O11). However, in some other leuciscines,it is the $\\mathrm { P u } 3$ that bears a double neural arch(Conway, 2O11). The functional significance and its relationship with the specialized skeleton remain elusive,as numerous caudal-fin supporting vertebrae are seen in a cobitoid lineage,i.e.， Syncrossus, whose skeleton is not thickened at all (Conway, 2011). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The caudal fin formula of $H .$ wui is $1 4 / 1 / 9 + 8 / 1 / 1 3$ ，whereas in extant Schizothoracinae, represented by Oxygymnocypris stewartii, it is 12/1/17/1/9,and Plesioschizothorax macrocephalus has a caudal fin formula of $4 / 1 / 1 7 / 1 / 4$ (Wu and Chen, 198O).The number of the fin rays (procurrent rays) in $H .$ wui increases significantly.Meanwhile, the caudal vertebrae involved in supporting caudal fin rays are more numerous than most of living schizothoracine species, it is the $\\mathrm { P u } 5$ that is the anteriormost vertebra in the caudal fin skeleton,whereas in most Schizothoracinae and Barbinae it is usually Pu3 (Conway, 2O11,and personal observations). Hsianwenia is similar to Gymnodiptychus pachycheilus (IVPP OP 353） in engaging $\\mathrm { P u } 5$ to support the anteriormost procurrent rays. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4.2New observations of the pachyostosis in Hsianwenia ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the thickened skeleton of Hsianwenia wui is refined in light of the detailed anatomical investigation.In addition to that the thickness of the bones increases with age mentioned in previous studies (Chang et al., 20o8; Chang and Miao,2016), it is found that the thickening of the bones does not appear uniformly throughout the body,but rather it shows a pattern of differentiation: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(1） The thickening is obvious in endoskeleton but not in dermal skeleton.Dermal bones mainly include the skull roof bones (e.g., dermal bones in the snout, frontals, parietals, etc.), circumorbital bones,secondary jaws (such as maxilla,dentary),opercular series, secondary pectoral girdle, teeth,and fin rays. The endoskeleton comprises the bones forming the neurocranium,hyoid and gill arches,vertebrae,fin radials,primary pectoral and pelvic girdle, caudal skeletons,and membrane bones (e.g., ribs, intermuscular bones) (Patterson,1977; Patterson and Johnson,1995). By comparison of the analogues in Hsianwenia and its living schizothracine allies,as wel as some relevant fossil cyprinids (Wu and Chen,1980; Chen and Liu, 2007; Wang, 2010; Wang and Wu, 2015; Yang et al., 2018; and personal observations), the endoskeleton of Hsianwenia is intensively thickened. The wall of the cranial cavity, at least in the anterior part, is considerably thickened,as exemplified by the orbitosphenoid, which originally contains the major part of the telencephalon (Fig.4D-G). The pachyostosis in axial skeleton is also notable.The deep pits on the lateral side of the centra commonly seen in other cyprinids are filled by bony tissues or the centra even bulge in this part (Fig.8C, D). The typically compressed and slender ribs in other cyprinids (Chang et al.,2Oo8:fig.lc) are thickened in Hsianwenia as rod-like bones and they completely squeeze out the room between neighboring ribs (Fig.1). The intermuscular bones are usuall slim and delicate in cyprinids; however, they are apparently bloated in Hsianwenia (Fig.9).In contrast to the thickening of the endoskeleton,the dermal skeleton appears to have changed litle.The bones of the dermal skull roof (Fig. 2), opercular series (Figs. 2,3),and fin rays (Figs.10,11),etc., do not show significant changes in the thickness and general morphology. The differentiation of the state of the endoskeleton and dermal bones is also seen in the structures that include both elements. The pharyngeal bone is significantly thickened, whereas the pharyngeal teeth (dermal) are not. The urohyal has a mixed nature in teleosts,with the vertical keel being endoskeletal, whereas the horizontal ventral plate being dermal (Patterson,1977).Indeed, the endoskeletal part is much more thickened than the dermal plate (Fig. 7D,E). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The endoskeleton is performed in cartilage (cartilage bones) or ossifies in membrane deep in mesoderm, with no developmental or phylogenetic connection with the ectoderm, to which the dermal skeleton is tied in ontogeny (Paterson,1977). Although we cannot interpret the mechanism underlying the differentiation of the bone thickening in Hsianwenia,which is beyond the scope of current study, it is significant to keep in mind the different developmental basis of the bones when we conduct further investigation in the pachyostosis in Hsianwenia in the furture. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "(2) The thickening of the bones shows some directionality. As for the bones showing dorsoventral grouping, e.g., the intermuscular bones at a given level, the epipleurals on the ventral side are much thicker than the epineurals on the dorsal side (Figs.1, 9). This is not seen in the“normalized” pattern in living schizothoracine fishes,where the dorsal and ventral intermuscular bones are of similar size (Chang et al., 2Oo8:fig.lc,d and personal observations). Nothing can be said for now about this uneven growth of the bones. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4.3Possible correlation between the transformations of pharyngeal jaw (thickened) and the pectoral girdle (enlarged) ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The cleithrun of the Hsianwenia wui bears a notable posterior process (\"humeral\" process),which is unique to the $H .$ ，wui.Considering the musculoskeletal anatomy of the pharyngeal jaws of cyprinids in general (Sibbing,1982; Gidmark et al., 2014), we propose a correlation of this feature with the thickening of the pharyngeal bones in the chewing system (Fig.12) and the possible dietary preference of Hsianwenia. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "For cyprinids,which rely solely on the pharyngeal jaws to process food, the pharyngeal bones are suspended by a series of muscle and maintain no bony articulation with any other skeletal elements of the skull (Chu,1935; Gidmark et al., 2014; Tao et al., 2019).The free suspension of the pharyngeal bones necessitates a concert of this bone, skull and the pectoral girdle in a complex musculoskeletal system to stabilize the powerful chewing movement (Sibbing,1982; Gidmark et al., 2014). The muscles correlating the pharyngeal jaw and the pectoral girdle (cleithrum),m. pharyngo-cleithralis internus posterior (m.cpip) and m. pharyngo-cleithralis internus anterior (m. cpia),are active during the grinding phase of the pharyngeal jaws (Sibbing, 1982). The former appears to be one of the major abductors of the pharyngeal bone and has a broad origin on the anterior side of the cleithrum (Sibbing, 1982). The effect of this muscle is greatly offset by the powerful hypaxial body muscles that effectively retract the cleithrum (Sibbing,1982).In the case of Hsianwenia,its shovel-like low jaw and intensively worn teeth point to a dietary preference to the algae, likely the hard diatoms, attached on the bottom (Chang et al., 2008; Chang and Miao,2016). This might have involved in more complicated chewing movements than feeding on soft food did (Sibbing, 1982).Moreover, the thickened pharyngeal bones also must have imposed challenge to the chewing mechanism. Accordingly, these required a stronger power-providing system and more powerful musculoskeletal interactions, including the muscular activities,e.g., that of m. cpip. To enhance the transmission of body power to the pharyngeal jaw via the pectoral girdle, a possible solution is to increase the attachment area of the body muscle on the cleithrum. In this context, the well-developed posterior process of the cleithrum might be an optimization to meet the changed functional demand, especially when this enlargement of area emerges at the level of origin of the instigator, the m. cpip. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/21294ae37d1a7da5101f93d455af0541da9bcfee7940dc30b67feda373f4b486.jpg",
+        "img_caption": [
+            "Fig.12Musculoskeletal correlation of pharyngeal jaws and pectoral girdle (cleithrum) A.general cyprinid-type chewing system, Cyprinus carpio (redrawn from Sibbing,1982); B.tentative restoration of chewing system of Hsianwenia wui based on A.Anterior facing left Abbreviations: ac.anterior cartilage between ceratobranchial 4; cbr 4.ceratobranchial 4; Cl.cleithrum; m.cpe.m. pharyngo-cleithralis externus;m.cpia,m. pharyngo-cleithralis internus anterior; m.cpip.m. pharyngo-cleithralis internus posterior; m.hpa. hypaxial trunk muscle; pb. pharyngeal bone; pcp. posterior cleithral process; pf. pectoral fin; Scl. supracleithrum. Drawings not to scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsHeartfelt thanks go to He Dekui, Chen Gengjiao,Qu Qingming,Li Qiang,Zhu Youan for constructive discussions and Miao Desui for stylistic improvement of the manuscript. We thank Chen Gengjiao and Zhang Jiangyong for revising the manuscript. This research was supported by the National Natural Science Foundation of China (41872006), the Strategic Priority Research Program of the Chinese Academy of Sciences (CAS) (XDB26000000, XDA20070203), Second Tibetan Plateau Scientific Expedition and Research Grant (2019QZKK0705),and the Youth Scholars Program of Beijing Normal University to N. Wang. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "柴达木盆地上新世伍氏献文鱼(Cyprinidae:Schizothoracinae) 形态学再研究 ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "毕黛冉1.2 吴飞翔1.3 王宁4 张弥曼1,2.3 房庚雨1,2",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "(2 中国科学院大学 北京100049)(3 中国科学院生物演化与环境卓越创新中心北京100044)(4北京师范大学生命科学学院 北京100091)",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "摘要：柴达木盆地是研究青藏高原古环境和动物演化历史的一个关键区域。为了适应上新世时期柴达木盆地环境的干旱化，化石裂腹鱼类伍氏献文鱼(Hsianweniawui)演化出了异常粗大的骨骼。然而，人们对于这种骨骼增粗现象(pachyostosis)的性质仍知之甚少。为了进一步认识这一特征及其生理学机制，对伍氏献文鱼进行了详尽的形态解剖学工作，并识别出了一些新的信息：脑腔前部分叉的嗅束通道、韦伯氏器上发达的第3髓上骨、第5尾前椎支持众多尾鳍短鳍条以及第2尾前椎上一个附加的髓弓(棘)。此外，发现献文鱼骨骼的增粗存在差异性：该现象仅见于内骨骼，外骨骼(膜质骨)一般未见增粗；在成组增粗的内骨骼(如肌间骨：上髓弓小骨和上肋小骨)中，腹侧骨骼较背侧增粗更为明显。伍氏献文鱼匙骨后缘有一个显著而独特的位于胸鳍上方的“肩突”(humeral process),对比现生鲤科鱼类咀嚼活动中相关肌肉和骨骼的联动关系，认为这个“肩突”的出现与伍氏献文鱼咽颌骨骼(第五角鳃骨)增粗以及研磨坚硬的食物有关。",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "关键词：柴达木盆地，上新世，伍氏献文鱼，形态学，骨肥厚，咀嚼系统和匙骨“肩突”",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Arratia G,SchultzeHP,1989.Thecompositionof thecaudalskeletonof teleosts (Actinopterygi:Osteichthyes).ZolJ Linn Soc,97:189-231 ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "CaoWX,ChenYY,WuYFetal.,1981.Originand evolutionofSchizothoracine fishesinrelationtotheupheavalof the Qinghai-Xizang Plateau.In: LiQFed.Studieson the Period,Amplitudeand Type of Uplift of the Qinghai-Xizang ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Plateau:the Comprehensive Scientific Expedition to the Qinghai-Xizang Plateau, Chinese Academy of Sciences. Beijing: Science Press.118-130   \nChang MM,Miao D S,2O16.Review of the Cenozoic fosil fishes from the Tibetan Plateau and their bearings on paleoenvironment. Chinese Sci Bull, 61: 981-995   \nChang MM,WangXM,LiuHZetal.,2Oo8.Extraordinarilythick-boned fishlinked tothearidificationofthe Qaidam Basin (northern Tibetan Plateau). Proc Nat Acad Sci USA,105(36): 13246-13251   \nChang MM,MiaoDS,WangN,010.Ascent with modification:fosil fshes witnessedtheirowngroup'sadaptationtothe uplift of the Tibetan Plateau during the late Cenozoic.Paper presented at the Darwin's Heritage Today: Proceedings of the Darwin 2Oo Beijing International Conference.Beijing: Higher Education Press. 60-75   \nChen GJ,LiuJ,207.First fosil barbin(Cyprinidae,Teleostei) fromOligoceneof Qaidam Basin in northern ibetan Plateau. Vert PalAsiat, 45: 330-341   \nChen XL,YuePQ,Lin RD,1984.Major groups within the family Cyprinidae and their phylogenetic relationships.Acta Zootaxon Sin,9: 424-440   \nChen Y Y, Chen YF,Liu H Z,1996. Studieson the position of the Qinghai-Xizang Plateau region in zoogeographic divisions and its Eastern demarcation line.Acta Hydrobiol Sin,20: 97-103   \nChu YT,1935.Comparative studieson the scales and on the pharyngeals and their teeth in Chinesecyprinids,with particular reference to taxonomy and evolution.Biol Bull St. John's Univ,2: 1-290   \nConway K W,2011. Osteologyof the South Asian Genus Psilorhynchus McClelland,1839 (Teleostei: Ostariophysi: Psilorhynchidae),with investigation of its phylogenetic relationships within the order Cypriniformes.Zool JLinn Soc,163:50-144   \nConway K W,Chen WJ, Mayden L R,2008.The“Celestial Pearl danio”is a miniature Danio (s.s)(Ostariophysi: Cyprinidae): evidence from morphology and molecules. Zootaxa,1686: 1-28   \nDeng T,WuFX,SuTet al.,2020.Tibetan Plateau: an evolutionary junction for the history of modern biodiversity.Sci China Earth Sci, 63(2): 172-187   \nDiogo R,20o5.Morphological,Evolution,Aptations,Homoplasies,ConstraintsandEvolutionary Trends:Catfshessa Case Study on General Plylogeny and Macroevolution. Enfield: Science Publishers.1-491   \nFang XM,WuFL,Han WXetal.,2O08.Plio-Pleistocene drying processofAsian inland:sporopolenand salinityrecords from Yahu Section in the Central Qaidam Basin. Quat Sci,28(5): 874-882   \nFang XM,Dupont-Nivet G,WangCSetal.,2020.Revisedchronologyofcentral Tibetuplift (unpola Basin).Sci Adv,6: eaba7298   \nGaudant J,1979.“Pachylebias”rassicaudus (Agasiz) (Poisson teleosteen,Cyprinodontiforme),unconstituent mjeurde l'ichthyofaune du Messinien continental du Bassin Mediterraneen. Geobios,12: 47-73   \nGaudant J,GuerreraF,avelliD,5.Nouvellsonessurle essinende editerraneeocidentale:Lesgisentsa Aphanius crassicaudus (Agassiz) (poisons teleosteens, cyprinodontiformes)des Marches (Italie). Geodinam Acta, 2(4): 185-196   \nGidmark N J,Tarrant JC,Brainerd EL,2014.Convergence in morphology and masticatory function between the pharyngeal jaws of grasscarp,Ctenopharyngodon idella,and oral jaws ofamniote herbivores.JExp Biol,217: 1925-1932   \nMeunierF J, Gaudant J,1987.Sur un cas de pachyostose chez un poison du Miocene terminal du basin mediterranen, Aphanius crassicaudus (Agassiz),(Teleostei, Cyprinodontidae). CR Acad Sci Paris (Sér 2),305: 925-928 27   \nKent-CorsonML,RitsBDZhuang GSetal.,2009.Stable isotopicconstraintsonthetectonic,topographic,andclimatic evolution of the northern margin of the Tibetan Plateau.Earth Planet Sci Lett,282: 158-166   \nLiL,GarzioneCN,PulenAetal.,2016.Early-middle Miocene topographic growthofthe northern Tibetan Plateau: stable isotope and sedimentation evidence from the southwestern Qaidam Basin.Palaeogeogr Palaeoclimatol Palaeoecol, 461: 201-213   \nLiLL,Wu CD,Fan CF et al.,2017.Carbon and oxygen isotopic constraints onpaleoclimate and paleoelevation of the Southwestern Qaidam basin,northern Tibetan Plateau. Geosci Front,8(5): 1175-1186   \nMeng Q W, SuJX,Li WD,1987.Comparative Anatomy ofFishes.Beijing: Science Press.1-403   \nMiaoYF,Fang XM,WuFLetal.,2013.LateCenozoiccontinuous aridification in the westernQaidamBasin: evidence from sporopollen records. Clim Past, 9(4):1863-1877   \nPatterson C,1975.The braincaseof pholidophorid and leptolepid fishes,with areviewof the actinopterygian braincase. Philos Trans R Soc Lond B Biol Sci,269: 275-579   \nPaterso C,1977.Cartilage bones,dermal bonesand membrane bones,or the exoskeleton versus the endoskeleton.In: Andrews S Med.Problems in Vertebrate Evolution, Vol 4.London: Academic Press.77-121   \nPaterson C,Johnson GD,1995.The Intermuscular Bonesand Ligaments of Teleostean Fishes.Washington: Smithsonian Institution Press.1-83   \nSibbing FA,1982.Pharyngeal mastication and food transport in thecarp(Cyprinus carpioL.):a cineradiographic and electromyographic study.JMorphol,172(2): 223-258   \nSong B W,SpicerRA,Zhang KXetal.,2020.Qaidam Basinleaffossilsshow northeastern Tibet was high,wetandcool in the early Oligocene. Earth Planet Sci Lett, 537: 1-10   \nSorbiniL,TiapelleR,979.sianfossilfshftheediterranean.Paeogegreoclimatoleocol9:4 154   \nSu T,Farnsworth A,Spicer R Aet al.,2019.No high Tibetan Plateau until the Neogene.SciAdv,5: eaav2189   \nTao WJ,YangL,MaydenRLetal.,2O19.PhylogeneticrelationshipsofCypriniformesand plasticityofpharyngealteethin the adaptive radiation of cyprinids.Sci China Life Sci,62: 553-565   \nWang N,2010.The Evolution ofthe Schizothoracinae During the Cenozoicand the Uplift of the Tibetan Plateau.Beijing: Chinese Academy of Sciences,Institute of Vertebrate Paleontology and Paleoanthropology.1-106   \nWang N,ChangMM,010.Pliocenecyprinids(Cypriniformes,Teleostei) fromKunlunPass Basin,Northeasternibetan Plateau and their bearings on development of water system and uplift of the area.Sci China Earth Sci,53: 485- 500   \nWang N,Chang MM,20l2.Discoveryoffossil Nemacheilids (Cypriniformes,Teleostei,Pisces)fromtheTibetanPlateau, China. Sci China Earth Sci, 55: 714-727   \nWang N,WuFX,2015.NewOligocenecyprinidinthe Central TibetanPlateau documentsthe pre-uplifttropicallowlands. Ichthyol Res,62(3): 274-285   \nWang X M,Qiu ZD,Li Qetal.,2007. Vertebratepaleontology,biostratigraphy,geochronologyand paleoenviroentof Qaidam Basin innorthern Tibetan Plateau.PalaeogeogrPalaeoclimatol Palaeoecol,254: 363-385   \nWang XM,WangY,LiQetal.,2O15.Cenozoic vertebrate evolutionand paleoenvironmentin TibetanPlateau: progresand prospects.Gondwana Res,27: 1335-1354   \nWeitzman SH,1962.Theosteologyof Brycon meeki,ageneralized characid fish,withanosteologicaldefinitionof the family. Stanford Ichthy Bull, 8: 1-77   \nWuFX,MiaoDS,Chang MMet al.,20l7.Fossil climbing perch and associated plant megafosils indicatea warmand wet Central Tibet during the late Oligocene. Sci Rep,7: 878   \nWuFX,HeDK,FangGYetal.,2019,IntoAfricaviaDocked India:afossil climbing perch from theOligoceneofTibet helps solve the anabantid biogeographical puzzle. Sci Bull, 64(7): 455-463   \nWuYF,ChenYY,1980.Fossil cyprinid from the late Tertiaryof North Xizang,China.VertPalAsiat,18:15-22   \nWuYF,Wu C Z,1992.The Fishes of the Qinghai-Xizang Plateau. Chengdu: Sichuan Science& Technology Publishing House. 1-599   \nYangL,SadoT,HirtMVetal.,20l5.Phylogenyandpolyploidy:resolvingtheclasificationofcyprininefishes (Teleostei: Cypriniformes).Mol Phylogenet Evol, 85:97-116   \nYang T,Zhang L,LiWJetal.,2018.New schizothoracine from Oligoceneof Qaidam Basin,northern Tibetan Plateau, China,and its significance.JVert Paleont,38: el442840   \nYin A,DangYQ,Zhang Metal.,o08.Cenozoic tectonic evolutionof theQaidambasinand itssurroundingregions Part3): structural geology,sedimentation,and regional tectonic reconstruction. Geol Soc Am Bull,120: 847-876   \nYuXJ,GuoZJ,FuST,0l5.Endorheicorexoreic:diferentialisostaticeffectsofCenozicsedimentsontheelevations of the cratonic basins around the Tibetan Plateau.Terra Nova, 27: 21-27   \nZhuang G S,BrandonMT,Pagani Metal.,2O14.Leafwax stable isotopes from northern TibetanPlateau: implications for uplift and climate since 15 Ma.Earth Planet SciLett,39o:186-198 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    }
+]

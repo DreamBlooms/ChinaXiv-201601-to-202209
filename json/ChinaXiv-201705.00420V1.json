@@ -1,0 +1,319 @@
+[
+    {
+        "type": "text",
+        "text": "Efficient polymer solar cells based on the synergy effect of a novel non-conjugated small-molecule electrolyte and polar solvent† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhiyang Liu,ab Xinhua Ouyang,a Ruixiang Peng.a Yongqi Bai,a Dongbo Mi,a Weigang Jiang,ab Antonio Facchetti and Ziyi ${ G e } ^ { \\star \\mathsf { a } }$ （204 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A novel non-conjugated small-molecule electrolyte was invented as a cathode interlayer in $\\mathsf { P T B 7 : P C } _ { 7 1 } \\mathsf { B M } .$ based polymer solar cells (PSCs).We discovered a significant synergy efect for improving the device efficiency between methanol treatment and the interlayer.The methanol treatment mainly contributed to the open-circuit voltage,while the interlayer primarily enhanced the short-circuit current and fil factor.Under the effective synergy effect, power conversion efficiencies (PCEs) of $\\mathsf { P T B 7 : P C } _ { 7 1 } \\mathsf { B M }$ -based PSCs were largely improved from $3 . 8 9 \\%$ to $9 . 7 9 \\%$ for conventional PSCs and from $7 . 3 4 \\%$ to $9 . 1 0 \\%$ for inverted PSCs. Our findings create a new path of interfacial modification for highly eficient PSCs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymer solar cells with a bulk heterojunction (BHJ) structure have been a promising photovoltaic technology for renewable energies,owing to their light weight,mechanical flexibility, facile fabrication as well as their improving power conversion efficiencies (PCEs).1 Recently, the PCEs of single-junction PSCs composed of $\\pi$ -conjugated polymers as the electron donors and fullerene derivatives as the electron acceptors have exceeded $1 0 \\%$ .2-4 PSCs are composed of multiple layers,where charge transport at each interface is critical for enhancing the effciency.Therefore,interfacial engineeringplaysa key role in optimizing the charge extraction and recombination,contact resistance,electronic energy levels and optical absorption.5-9 Numerous important efforts have addressed OPV interfacial modification,including the use of interlayers,1° polar solvent processing,11 surfaceplasmonicresonance1²and nanoimprinting.1 PSCs based ona metallic salt interlayer,such as LiF,ioa,b have also been explored and usually need to be prepared by vacuum deposition,which limits their application in lowcost and large-area fabrication.Water/alcohol-soluble conjugated polyelectrolytes (CPEs)14 and conjugated small-molecule organic interlayers15 have also been successfully developed to improve the device performance,and have advantages such as orthogonal solubility to solvents used for the active layer,and eco-friendly large-area device fabrication processes.1 However, those conjugated interfacial materials usually contain complicated $\\pi$ -conjugated moieties,demanding a difficult synthesis which may affect costs at a large scale.Hence,interfacial materials with simple structures,especially non-conjugated small-molecule electrolytes,are considered to be more promising candidates in the fabrication of low-cost and large-area PSCs.17 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Non-conjugatedpolymers， such aspolyethylenimide ethoxylated (PEIE),° poly(ethylene oxide) (PEO),18 and poly (sulfobetaine methacrylate) (PSBMA),19 can reduce the work function (WF) of electrodes due to their dipole moment. Therefore,we reasonably think that similar non-conjugated small-molecule organic electrolytes can also tune the electrode WF and affect the charge transport at the interface.Moreover, small-organic electrolyteshave uncertain structuresand molecular weights,which can address the disadvantages of metallic salts and conjugated interfacial materials,affording high performance PsCs.However,non-conjugated small molecule electrolytes forhighly efficientPsCs remain rare. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,we designed and synthesized non-conjugated small-molecule organic electrolytes which contain only one zwitterionic unit.Furthermore,a sulfonic group is introduced into the structure to increase the solubility in alcohol,thus facilitatingauniform film formation.The structures of the two interfacial molecules used in this study,3-(dimethyl(3-sulfopropyl)ammonio)propane-1-sulfonate(DSAPs)and 4- (dimethyl(4-sulfobutyl)ammonio)butane-1-sulfonate(DSABS), are shownin Fig.1.The PSC active layerisa blend of thieno[3,4- $b ]$ -thiophene/benzodithiophene $( \\mathbf { P } \\mathbf { T } \\mathbf { B } 7 ) ^ { 2 0 }$ as the donor and [6,6]- phenyl $\\mathbf { C } _ { 7 1 }$ -butyric acid methyl ester $\\mathbf { \\Gamma } ( \\mathbf { P C } _ { 7 1 } \\mathbf { B M } )$ as the acceptor (Fig.1).Our results demonstrate that incorporating a DSAPS cathode interlayer between the active layer and Al electrode in conventional PSCs (Fig. 1) dramatically improves the opencircuit voltage $\\left( V _ { \\mathrm { o c } } \\right)$ ,short-circuit current $\\left( J _ { \\mathrm { s c } } \\right)$ and fill factor (FF) values,resulting ina PCE enhancement from $3 . 8 9 \\%$ to $9 . 7 9 \\%$ （204号 $( + 1 5 1 \\%$ relative enhancement).For inverted PSCs (Fig.1), the incorporation ofDSAPSbetween the active layerand ZnO layer caused a significant improvement in the $J _ { \\mathrm { s c } }$ and FF values, leading to a PCE from $7 . 3 4 \\%$ to $9 . 1 0 \\%$ $4 2 4 \\%$ relative enhancement). The methanol treatment has been reported as an efficient approach to improve the performance of PSCs by optimizing the $\\mathbf { D / A }$ phase separation and removal of the solvent additive or residual solvent in the active layers.21 Sun et al.reported that a combined action of methanol treatment and CPEs can obtain highly efficient PSCs by a two-step strategy.2² Here, DSAPS dissolves in methanol during a spin-coating process, thus there should be a synergy effect for improving the device efficiency between the methanol treatment and DSAPS interlayer.We discovered that the increase in $V _ { \\mathrm { o c } }$ should be mainly attributed to the methanol treatment,while the DSAPS interlayerprimarily enhanced the $J _ { \\mathrm { s c } }$ and FF of $\\mathbf { P T B 7 : P C _ { 7 1 } B M }$ -based PSCs.The DSAPS interlayer,as a result of its dipole moment, can also affect the $V _ { \\mathrm { o c } }$ to reduce the WF of electrodes,but its effect is less than the methanol treatment,which isdifferent from the conjugated organic interlayers that can change the $V _ { \\mathrm { o c } }$ of devices.23,24 The DSAPS interlayer can accelerate the charge extraction and reduce the charge recombination owing to its dipole moment and amine group which may act as the hole traps.25 ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/79c57dbd82bcc321bb40b6a9d96042ebd41fd37a9c03ed2f0e4baace920eefe7.jpg",
+        "img_caption": [
+            "Fig.1 Molecule structures and schematic of the PSCs device studied in this work (interlayer $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ none,Ca,LiF,DSAPS or DSABS in conventional devicesand none or DSAPSin inverted devices). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The conventional device configuration used here,consisting of ITO/PEDOT:PSS/PTB7: $\\mathbf { P C } _ { 7 1 } \\mathbf { B M } _ { I }$ interlayer/Al (interlayer $\\ b =$ none, Ca,LiF,DSAPS,or DSABS),is also shown in Fig.1. Some of these devices were treated with methanol before device completion and measurements，as described previously.24 The current density-voltage $\\left( J - \\tilde { V } \\right)$ characteristics of the optimized devices and control devices under AM1.5G, $1 0 0 \\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ illumination and in the dark are shown in Fig.2 and the device parameters are listed in Table 1.Evidently, the devices with DSAPS as the cathode interlayer exhibit the highest PCE of $9 . 7 9 \\%$ compared to the other devices $\\left( 3 . 9 \\mathrm { - } 8 . 9 \\% \\right)$ ,demonstrating that DSAPS is an effective cathode interfacial modifier.Relative to the control device without an interlayer $V _ { \\mathrm { o c } } , J _ { \\mathrm { s c } }$ and FF of the DSAPS-based devicesare dramatically enhanced from $0 . 5 5 \\pm 0 . 0 1 \\mathrm { V }$ to $0 . 7 6 \\pm$ $0 . 0 1 \\mathrm { V }$ ,from $1 5 . 3 0 \\pm 0 . 1 6 \\mathrm { m A c m } ^ { - 2 }$ to $1 8 . 2 0 \\pm 0 . 2 0 \\mathrm { m A c m } ^ { - 2 }$ and from $4 5 . 5 \\% \\pm 1$ to $7 0 . 0 \\% \\pm 1$ ,respectively.ThebareAl devices treated with methanol also exhibited an increased $V _ { \\mathrm { o c } }$ 0 $0 . 7 6 \\pm$ 0.01 V), $J _ { \\mathrm { s c } }$ $( 1 5 . 8 7 \\pm 0 . 1 1 \\mathrm { { \\ m A } \\ c m ^ { - 2 } ) }$ and FF $( 6 3 . 9 \\% \\pm 1 )$ ，in agreement with the literature,11a, indicating the positive effects of polar solvents on device performance.Interestingly, the $V _ { \\mathrm { o c } }$ of the DSAPS-based devices is similar to that of the methanoltreated ones,but both $J _ { \\mathrm { s c } }$ and FF are larger. $J _ { \\mathrm { s c } }$ and FF correlate to charge-carrier mobilities and the internal field.Hence, the performance improvement due to the dipolarDSAPS zwitterion may result from enhanced charge-carrier mobilities and the internal field,which facilitate the charge transport and extraction,and reduce the bimolecular recombination at the interface.² Thedark $J { - } V$ characteristics in Fig.2b indicate that the DSAPS-based devices exhibit a better diode rectification and smaller reverse leakage current.26 The external quantum efficiency (EQE) and the calculated $J _ { \\mathrm { s c } }$ of the devices with a DSAPS layerare also higher compared with the control devices (Fig. S2 and Table $^ { S 2 \\dagger }$ ).Compared to the control Al devices without methanol treatment, the $J _ { \\mathrm { s c } }$ and FF of the devices containing a Ca or LiF interlayer plus methanol treatment are improved, however the $V _ { \\mathrm { o c } }$ values are basically the same as the devices with a DSAPS interlayer or only methanol treatment.This result suggests that methanol treatment possibly plays a decisive role in the $V _ { \\mathrm { o c } }$ via changing the built-in voltage $\\left( V _ { \\mathrm { b i } } \\right)$ and surface potential of the active layer of $\\mathbf { P T B 7 : P C _ { 7 1 } B M }$ -based PSCs.11c Nevertheless,theDSAPSinterlayermainly increasesthe $J _ { \\mathrm { s c } }$ and FF,which is inconsistent with the literature which usually concluded that $V _ { \\mathrm { o c } }$ enhanced from the interlayer.23,24 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/14aa2102768a7edae50ec0183eb7a8ffe3467fffff56db217863c6865aaf2039.jpg",
+        "img_caption": [
+            "Fig.2 Current density-voltage $( J - W$ characteristics of conventional PTB7 $\\mathsf { P C } _ { 7 1 } \\mathsf { B } M$ -based PSCs under (a) $\\mathsf { A M } 1 . 5 \\mathsf { G }$ and 100 mW $\\mathsf { c m } ^ { - 2 }$ illuminationand (b) in the dark. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7fd2af27e43be1dbb0bfb2e2c299c07fc20900fde4754ea9a4394032640c3da.jpg",
+        "table_caption": [
+            "Table1Photovoltaic performance of PTB7 $\\mathsf { : P C } _ { 7 1 } \\mathsf { B M }$ -based PSCswith orwithout an interlayerand methanol treatment "
+        ],
+        "table_footnote": [
+            "@ The average values of 50 devices. "
+        ],
+        "table_body": "<html><body><table><tr><td>Interlayer</td><td>Voc [V]</td><td>Jsc [mA cm-²]</td><td>FF[%]</td><td>PCEa [%] avg</td><td>PCE [%]best</td></tr><tr><td>None</td><td>0.55 ± 0.01</td><td>15.30 ± 0.16</td><td>45.5± 1</td><td>3.83</td><td>3.89</td></tr><tr><td>MeOH/Al</td><td>0.76 ± 0.01</td><td>15.87 ± 0.20</td><td>63.9 ±1</td><td>7.70</td><td>7.78</td></tr><tr><td>Ca/Al</td><td>0.73 ±0.01</td><td>14.95 ±0.21</td><td>66.1 ±1</td><td>7.21</td><td>7.35</td></tr><tr><td>MeOH/Ca/Al</td><td>0.76 ± 0.01</td><td>15.27 ± 0.19</td><td>69.5±1</td><td>8.06</td><td>8.15</td></tr><tr><td>LiF/Al</td><td>0.70 ±0.01</td><td>15.75 ± 0.25</td><td>64.9 ±1</td><td>7.16</td><td>7.34</td></tr><tr><td>MeOH/LiF/Al</td><td>0.76 ±0.01</td><td>15.85 ± 0.19</td><td>72.3 ±1</td><td>8.71</td><td>8.89</td></tr><tr><td>DSAPS/Al</td><td>0.76 ± 0.01</td><td>18.20 ±0.23</td><td>70.0 ±1</td><td>9.68</td><td>9.79</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To examine the origin of the difference in $V _ { \\mathrm { o c } }$ ，scanning Kelvin probe microscopy (SKPM) was used to provide essential information on the surface potential of the active layer interface.The surface potential difference (SPD) (the average value obtained froma typical area of $5 0 0 \\mathrm { n m } \\times 5 0 0 \\mathrm { n m }$ )of the tipand the top film of the active layer with different treatments is shown in Fig.3.The SPD of the1 $\\mathrm { P T B 7 } { \\bf : P C } _ { 7 1 } \\mathrm { B M }$ film with methanol treatment was found to rise by ${ \\sim } 0 . 2 1 \\mathrm { v }$ compared to that of the pristine PTB7: $\\mathbf { P C } _ { 7 1 } \\mathbf { B M }$ film,implyingan optimization of the interface composition and reduction of the Schottky barrier at the organic/metal interface,thus leading to a better device performance.21,22 The SPD of the $\\mathbf { P T B 7 : P C _ { 7 1 } B M }$ film with aDSAPS layerdisplayed about ${ \\sim } 0 . 1 8 \\mathrm { V }$ improvement relative to that of the pristine PT $\\mathbf { B } 7 { : } \\mathbf { P } \\mathbf { C } _ { 7 1 } \\mathbf { B } \\mathbf { M }$ film，which showed that DSAPS could reduce the Schottky barrier and facilitate the charge extraction.Meanwhile,it can be seen that the surface potential of thePTB7 $\\mathbf { \\Delta P C } _ { 7 1 } \\mathbf { B M }$ film with methanol treatment is more positive than that of the PTB7 $\\mathbf { P C } _ { 7 1 } \\mathbf { B M }$ film with a DSAPS layer，suggesting that methanol treatment plays a greater influence on the $V _ { \\mathrm { o c } }$ ，However，the $J _ { \\mathrm { s c } }$ of the DSAPS-based devices is higher than that of the devices with methanol treatment,implying that the interfacial dipole between DSAPS and the Al cathode mainly improves the charge extraction rather than changing the $V _ { \\mathrm { o c } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/238c2d1112f7f6a7859046183980833da52294479048cb04c8495d21adf293f9.jpg",
+        "img_caption": [
+            "Fig.3The surface potential difference of the PTB7: $\\mathsf { P C } _ { 7 1 } \\mathsf { B } M$ films with different treatments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further understand the synergy influence of methanol treatment and the DSAPS interlayer,we fabricated inverted PSCsofstructure ITO/ZnO/with orwithout interlayer/ PTB7 $\\mathbf { \\langle P C _ { 7 1 } B M / M o O _ { \\scriptscriptstyle { X } } / A l }$ (Fig.1 and 4). The device performances are collected in Table 2.Interestingly，all devices exhibit a similar $V _ { \\mathrm { o c } }$ of $0 . 7 5 \\mathrm { ~ V ~ } _ { ; }$ ，suggesting that methanol treatment mainly afects the built-in voltage $\\left( V _ { \\mathrm { b i } } \\right)$ and surface potential of the active layer to enhance the $V _ { \\mathrm { o c } }$ .It also implies that even though the DSAPS interlayer could modify the energy level of $z \\mathrm { n o }$ ,ithardlyaffected the $V _ { \\mathrm { o c } }$ of the devices.The WF change of the ZnO layer with or without a DSAPS interlayer was investigatedbyultravioletphotoelectronspectroscopy(UPS) measurements (Fig. $\\boldsymbol { \\mathrm { \\Sigma } } ^ { S 3 \\dagger }$ ).The WF shifted from4.41 to $4 . 3 1 \\ \\mathrm { e V }$ upon $z _ { \\mathrm { n O } }$ modification with DSAPS,but it did not change the $V _ { \\mathrm { o c } }$ of the ZnO-based devices,which is similar to the literature.27 Furthermore, the $J _ { \\mathrm { s c } }$ and FF slightly increase from $1 5 . 0 1 \\pm 0 . 1 8$ $\\mathbf { m A c m } ^ { - 2 }$ and $6 4 . 2 \\pm 1 \\%$ (control ZnO) to $1 5 . 8 3 \\pm 0 . 1 7 \\mathrm { m A c m } ^ { - 2 }$ and $6 6 . 1 \\% \\pm 1$ $\\mathrm { ( Z n O / M e O H ) }$ ，respectively，possibly because methanol reduces the surface defect of the $z \\mathrm { n o }$ film. The $J _ { \\mathrm { s c } }$ and FF of the DSAPS-based devices strongly increase to $1 7 . 0 1 \\pm 0 . 2 1$ mA $\\mathrm { c m } ^ { - 2 }$ and $7 0 . 3 \\% \\pm \\ 1$ ，respectively,illustrating that the DSAPS interlayer can effectively extract the charge and reduce the charge recombination at the interface.Note,the $J _ { \\mathrm { s c } }$ of the inverted deviceswithaDSAPS interlayerislower than thatof the conventional devices,which may result from the device structure and effect of methanol treatment on the active layer,as well as the better interfacial contact between the DSAPS interlayer andAl electrode than that between the DSAPS interlayer and ZnO. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4eacd6000b9a37a90a6acdc9f474bc0a22fdc0ac79f21bbab84d0201f706c62a.jpg",
+        "img_caption": [
+            "Fig.4 Current density-voltage $( J - W )$ characteristics of the inverted PSCs under (a) $\\mathsf { A M } 1 . 5 \\mathsf { G }$ and $1 0 0 \\ m \\mathsf { W } \\mathsf { c m } ^ { - 2 }$ illumination and (b) in the dark. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/16d2f40dd48ba98b3cc6a817427cb6b9ae97253b73ca0b4d0e59c6a9b1829313.jpg",
+        "table_caption": [
+            "Table2Photovoltaic performance of the PTB7 $\\mathsf { \\Omega } : \\mathsf { P C } _ { 7 1 } \\mathsf { B } M$ -based inverted PSCswith orwithoutan interlayer "
+        ],
+        "table_footnote": [
+            "ä The average values of 50 devices. "
+        ],
+        "table_body": "<html><body><table><tr><td>Interlayer</td><td>Voc [V]</td><td>Jsc [mA cm-²]</td><td>FF [%]</td><td>PCE\" [%] avg</td><td>PCE[%] best</td></tr><tr><td>ZnO</td><td>0.75 ± 0.01</td><td>15.01 ± 0.18</td><td>64.2 ±1</td><td>7.22</td><td>7.34</td></tr><tr><td>ZnO/MeOH</td><td>0.75 ± 0.01</td><td>15.83 ± 0.17</td><td>66.1 ± 1</td><td>7.85</td><td>7.94</td></tr><tr><td>ZnO/DSAPS</td><td>0.75 ± 0.01</td><td>17.01 ± 0.21</td><td>70.3 ±1</td><td>8.97</td><td>9.10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To gain further insights into the interlayer structural vs. processing reasons affecting the device performance，we designed and synthesized the DSABS molecule (Fig.1) with alongeralkylchain.Fig.5 shows the molecular orbital topology of DSAPS and DSABS derived from density functional theory (DFT) computations.The lowest unoccupied molecular orbital (LUMO) centers around the $\\mathbf { N } ^ { + }$ atom while the highest occupied molecular orbital (HOMO) locates around the ${ \\mathrm { S O _ { 3 } } } ^ { - }$ group. The LUMO and HOMO energies ofDSABS are higher $\\left( - 1 . 5 0 ~ \\mathrm { e V } \\right.$ and $- 6 . 7 3 \\ \\mathrm { e V }$ ，respectively) compared to thoseofDSAPS $ { \\left( - 1 . 2 3 \\ \\mathrm { e V } \\right. }$ and $- 6 . 1 1 \\ \\mathrm { e V }$ ，respectively)，possibly attributed to the longer electron-donating alkyl chain.The calculated dipole moment of DSAPS is $2 2 . 1 \\mathrm { ~ D ~ }$ and that of DSABS is $2 9 . 5 { \\mathrm { ~ D } } $ .Such large dipole moments can induce considerable interface dipoles when contacted with (semi)conducting materials,lowering the WF.19 The devices with a DSAPS or DSABS interlayer which are processed from methanol showed a basically consistent $V _ { \\mathrm { o c } } , 0 . 7 6 \\ : \\mathrm { V } _ { \\mathrm { i } }$ for the same batch of devices (Table S4 and Fig. S5t).However, it was reasonable to assume that the $V _ { \\mathrm { o c } }$ of the devices with a DSAPS and DSABS interlayer should be different due to their different energy level and degree of dipole moment, which can change the built-in voltage.This result further suggests that the effect of methanol treatment on $V _ { \\mathrm { o c } }$ is much larger than the role of the DSAPS and DSABS interlayer,which ultimately determines the $V _ { \\mathrm { o c } }$ of the conventional devices.The devices with a DSABS orDSAPS interlayer showa similar $J _ { \\mathrm { s c } }$ of $1 8 . 2 6 \\mathrm { m A c m } ^ { - 2 }$ and $1 8 . 4 2 \\mathrm { \\ m A } \\mathrm { c m } ^ { - 2 }$ ,and FF of $6 9 . 7 \\%$ and $6 9 . 9 \\%$ ,respectively. The PCEs of the devices with DSAPS or DSABS are as high as $9 . 7 9 \\%$ and $9 . 6 9 \\%$ ，individually.It also illustrates that nonconjugated DSAPS and DSABS mainly enhance charge extraction and reduce charge recombination at the interface (Fig. 6). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef8efbb04f0c7dca834a4179370b696c704963ecdb9c5fd3919f4cb2bfb793f.jpg",
+        "img_caption": [
+            "Fig.5The graphical electron cloud distribution of DSAPS and DSABS derived from DFT calculations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ultraviolet-visible (UV-vis) absorption spectra of the DSAPS and DSABs films and solutions showed a negligible absorption in the visible light region (Fig.S6t),thus these interlayers do not reduce sunlight transmission.The UV-vis absorption spectra of the PTB7: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ blend films with methanol treatment, aDSAPS interlayer or DSABS interlayer showed little difference compared to the pristine film (Fig. $\\mathbf { S 7 \\dagger } .$ ).Thesurface morphology was investigated by atomic force microscopy (AFM) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/373a56781883d79bbcc06da6f3d81d1e358d8410b71b55f25a55b20d776e6de6.jpg",
+        "img_caption": [
+            "Fig.6Energy levels of the PTB7: $\\mathsf { P C } _ { 7 1 } \\mathsf { B } \\mathsf { M }$ -based PSCs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Fig.S8t),in which the pristine $\\mathbf { P T B 7 : P C _ { 7 1 } B M }$ film exhibits a surface root mean square (RMS) roughness of $1 . 6 5 \\ \\mathrm { n m }$ . The methanol-treatedfilmhasasimilarRMSof $1 . 6 7 \\mathrm { n m }$ and shows no obvious change in morphology. The PTB7 $\\mathbf { \\langle P C _ { 7 1 } B M _ { \\ I } }$ /DSAPS or DSABS films are smooth without apparent surface reconstruction，with a RMS roughness of $1 . 7 0 ~ \\mathrm { ~ n m }$ and $1 . 7 5 ~ \\mathrm { { \\ n m } }$ respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effects of the DSAPS interlayer on charge transport were studied by the space charge limited current (sCLC) measurements of hole-only and electron-only devices with configura tions ofITO/PEDOT:PSS $\\left( 3 0 \\ \\mathrm { n m } \\right) / \\mathrm { P T B 7 } ; \\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ 0 $\\cdot 1 1 0 \\ \\mathrm { n m } )$ /with orwithout interlayer $\\left( 5 \\ \\mathrm { n m } \\right) / \\mathrm { M o O } _ { x } \\left( 5 \\ \\mathrm { n m } \\right) / \\mathrm { A u } \\left( 1 0 0 \\ \\mathrm { n m } \\right)$ and ITO/ Al $\\left( 8 0 \\ \\mathrm { n m } \\right) / \\mathrm { P T B 7 : P C _ { 7 1 } B M }$ 0 $\\cdot 1 1 0 \\ \\mathrm { n m } )$ /withorwithoutinterlayer $( 5 \\ \\mathrm { n m } ) / \\mathrm { A l } \\left( 1 0 0 \\ \\mathrm { n m } \\right)$ ,respectively.The $J { - } V$ curve (Fig. ${ \\bf { S 9 } } _ { 1 } ^ { + }$ )wasfit using the Mott-Gurney law, $J = 9 \\varepsilon _ { \\mathrm { { r } } } \\varepsilon _ { 0 } \\mu V ^ { 2 } / 8 L ^ { 3 }$ ,where $\\varepsilon _ { \\mathrm { r } } \\varepsilon _ { 0 }$ is the dielectric permittivity of the active layer, $\\mu$ is the mobility, $V$ is the effective voltage,and $L$ is the thickness of the active layer.28 In the $\\mathbf { P T B 7 : P C _ { 7 1 } B M / A l }$ control device the hole mobility values are ${ 8 . 9 \\times 1 0 ^ { - 5 } \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\mathrm { s } ^ { - 1 } }$ , while the values of the $\\mathbf { P T B 7 : P C } _ { 7 1 } .$ BM/Methanol treatment/Al and PTB7 $\\mathbf { \\cdot P C _ { 7 1 } B M / D S A P S / A l }$ devices are $1 . 7 ~ \\times ~ 1 0 ^ { - 4 } ~ \\mathrm { c m } ^ { 2 } ~ \\mathrm { V } ^ { - 1 } ~ \\mathrm { s } ^ { - 1 }$ and $3 . 2 ~ \\times ~ 1 0 ^ { - 4 } ~ \\mathrm { c m } ^ { 2 } ~ \\mathrm { V } ^ { - 1 } ~ \\mathrm { s } ^ { - 1 }$ respectively,which is an increase by an order of magnitude. Simultaneously,the values of electron mobility also improved from $9 . 8 \\times 1 0 ^ { - 4 } \\mathrm { \\ c m } ^ { 2 } \\mathrm { \\ V } ^ { - 1 } \\mathrm { \\ s } ^ { - 1 }$ to $1 . 3 \\ \\times \\ 1 0 ^ { - 3 } \\ \\mathrm { c m } ^ { 2 } \\ \\mathrm { V } ^ { - 1 } \\ \\mathrm { s } ^ { - 1 }$ and $2 . 6 \\times 1 0 ^ { - 3 } \\ \\mathrm { c m } ^ { 2 } \\ \\mathrm { V } ^ { - 1 } \\ \\mathrm { s } ^ { - 1 }$ . It can be seen that the devices with a DSAPS interlayer have a higher and more balanced charge mobility which may increase the $J _ { \\mathrm { s c } }$ and FF in the devices, implying that the DSAPS interlayer can efficiently reduce the charge transport barrier and recombination. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Torationalize the influence of the DSAPS interlayer on the charge recombination，l $\\mathrm { P T B 7 : P C _ { 7 1 } B M }$ -based devices with and without a DSAPS interlayer were analyzed by an impedance measurement.Fig.7 shows the Nyquist plots of impedance spectroscopy of the devices in the $1 \\ \\mathrm { H z }$ to $1 \\ \\mathrm { M H z }$ frequency range with an oscillation amplitude of $1 0 \\ \\mathrm { \\ m V }$ in the dark without a bias voltage.In Nyquist plots,the diameter of the semicircle represents the shunt resistance $\\left( R _ { \\mathrm { s h } } \\right)$ of the device, which is related to the carrier loss and charge recombination.29 The largest $R _ { \\mathrm { s h } }$ of the device with a DSAPS interlayer suggests the least charge recombination,which agrees well with the highest $J _ { \\mathrm { s c } }$ and best photovoltaic performance.In addition, series resistance $\\left( R _ { \\mathrm { s } } \\right)$ can be obtained from the impedance spectroscopy. The calculated $R _ { \\mathrm { s } }$ of the control device is ${ \\ 7 . 1 \\ \\Omega }$ $\\mathrm { c m } ^ { 2 }$ ,while the $R _ { s }$ values of the MeOH-treated and DSAPS devices are reduced to $4 . 4 \\Omega \\mathrm { c m } ^ { 2 }$ and $3 . 5 \\Omega \\mathrm { c m } ^ { 2 }$ ,respectively.The device with a DSAPS interlayer possesses the lowest $R _ { s }$ and highest $R _ { \\mathrm { s h } }$ compared to the device with methanol treatment and the control device,demonstrating that the DSAPS interlayer can effectively suppress charge recombination and facilitate the charge extraction at the interface,which is in accord with the observed improvement of $J _ { \\mathrm { s c } }$ and FF.30 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally，to demonstrate the potential application of the DSAPS interlayer larger area device,we prepared PSCs from 4 to $1 2 . 4 7 ~ \\mathrm { m m } ^ { 2 }$ ，and from small square devices to large circular devices.The principal photovoltaic parameters of these devices are listed in Table ${ \\bf 5 5 . \\dagger }$ The PCE for the $4 \\mathrm { m m } ^ { 2 }$ device is $9 . 7 9 \\%$ ， witha $V _ { \\mathrm { o c } }$ of $0 . 7 6 \\mathrm { V } , J _ { \\mathrm { s c } }$ of $1 8 . 4 2 \\mathrm { m A c m } ^ { - 2 }$ and FF of $6 9 . 9 \\%$ .When the active area of the devices extends to $1 2 . 5 7 ~ \\mathrm { m m } ^ { 2 }$ ，aslightly lower $J _ { \\mathrm { s c } }$ of $1 7 . 7 1 \\mathrm { \\ m A } \\mathrm { c m } ^ { - 2 }$ and a similar FF of $6 9 . 8 \\%$ were obtained, leading to a slightly lower PCE of $9 . 4 1 \\%$ ,which can be attributed to the increase of the ITO electrode series resistance.31 Notably, the $V _ { \\mathrm { o c } }$ and FF of PSCs with DSAPS minimally change with increasing device active area,suggesting that the synergy effect of methanol treatment and the DSAPS interlayer on the improvement of the PsCs performance is uniform on arelatively large area,which is beneficial for the large-area fabricationofPSCs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb64289bea16127da55a3ed3ac7a815878a504f0c28211d1e72880bd1591b90c.jpg",
+        "img_caption": [
+            "Fig.7Impedance spectroscopy of the PTB7 $\\mathsf { P C } _ { 7 1 } \\mathsf { B } M$ -based PSCs with Orwithouta DSAPS interlayer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Additionally,the stability of the devices with the DSAPS interlayer was investigated since the sulfonic group is generally thought to have an adverse impact on the Al electrode.² We monitored the device PCE versus time in an argon atmosphere glovebox without encapsulation.Itis notable that thePCE of the device with the DSAPS interlayer retained ${ > } 8 5 \\%$ of its original PCE value after 3o days storage compared to the control device with a Ca interlayer,which only retained $7 3 \\%$ of its original value of PCE (Fig. S11t). The photovoltaic parameters of the device with the DSAPS interlayer all changed to a certain extent with the $V _ { \\mathrm { o c } }$ changing from $0 . 7 6 { \\mathrm { ~ V ~ } }$ to $0 . 7 7 \\mathrm { V } , J _ { \\mathrm { s c } }$ from $1 7 . 7 1 \\ \\mathrm { m A }$ $\\mathrm { c m } ^ { - 2 }$ to $1 6 . 2 2 \\mathrm { m A c m } ^ { - 2 }$ and FF from $6 9 . 8 \\%$ to $6 7 . 2 \\%$ ,which still remained relatively high values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have developed a novel non-conjugated sulfonic-ammonium organic small-molecule zwitterion,DSAPS,as an effective cathode interlayerboth inconventional and invertedPsCsand obtained a high efficiency of $9 . 7 9 \\%$ .Methanol treatment plays the decisive role in the $V _ { \\mathrm { o c } }$ ofPTB $\\mathbf { \\mathrm { 7 } } { \\mathbf { : P C } } _ { \\mathbf { \\mathrm { 7 1 } } } \\mathbf { B M }$ -basedconventional PSCs.DSAPS can efficiently enhance the charge extraction and reduce charge recombination owing to its dipole moment. This synergy effect of methanol treatment and the DSAPS interlayer can effectively improve the device performance of $\\mathbf { P T B 7 : P C _ { 7 1 } } .$ BM-based PSCs by simple and eco-friendly spin-coating fabrication.It is worth noting that the low-cost sulfonic DSAPS not only efficiently improves the device performance，but also increasesthestabilityofthePTB7: $\\mathbf { P C } _ { 7 1 } \\mathbf { B M }$ -based conventional ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PSCs.Our findings reveal new strategies to design simple non conjugated organic small-molecule electrolytes for highly effcient PSCs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PTB7, $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ and1,8-diiodooctane (DIO) were purchased from 1-Material,American Dye Source,Inc.and Acros,respectively and used as received.The ITO glasses ( $\\cdot 1 . 2 \\mathrm { m m }$ thick, ${ \\le } 1 5 \\Omega$ per square, transmittance $> 9 0 \\%$ )were purchased from the Nippon Sheet Glass Company，Ltd，and cleaned sequentially with deionized water,ethanol,acetone and isopropanol for $4 0 \\ \\mathrm { m i n }$ each, then treated with UV-ozone for $2 0 \\ \\mathrm { m i n }$ .PEDOT:PSS was purchased from the Baytron Company. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Devicefabrication ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The device structure was ITO/PEDOT:PSS (Baytron $\\textsuperscript { \\textregistered }$ P VP Al 4083 $) / \\mathrm { P T B 7 : P C _ { 7 1 } B M } /$ withorwithoutinterlayer/Al.The PEDOT:PSS aqueous solution was filtered through a $0 . 4 5 ~ { \\mu \\mathrm { m } }$ filterand spin-coated at $4 0 0 0 \\mathrm { r p m }$ for1 min onto the treated ITO substrate and annealed at $1 4 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 0 \\ \\mathrm { m i n }$ .Then theactive layer，about $1 1 0 ~ \\mathrm { { \\ n m } }$ ，was spin-cast from a solution with a PTB7 $\\mathbf { \\langle P C _ { 7 1 } B M }$ ratio of $1 : 1 . 5$ by weight (PTB7 concentration of $1 0 \\ \\mathrm { m g \\ m L ^ { - 1 } } )$ in a chlorobenzene/1,8-diiodoctane $\\left( 9 7 : 3 \\mathrm { \\ v o l \\% } \\right)$ 一 mixed solvent at $2 0 0 0 \\ \\mathrm { r p m }$ for 2 min and putin avacuum for 30 min.The interlayer materials were dissolved in methanol in the presence of a small amount of acetic acid $\\left( 9 9 : 1 \\mathrm { v o l \\% } \\right)$ and their solutions $( 1 . 5 ~ \\mathrm { m g ~ m L } ^ { - 1 } )$ were spin-coated onto the active layer and put in a vacuum for $3 0 ~ \\mathrm { { m i n } }$ .The thickness was controlled by the concentration of the solution and the spin speed, from $1 0 0 0 ~ \\mathrm { r p m }$ to $6 0 0 0 ~ \\mathrm { r p m }$ . The Al electrode $\\left( 1 0 0 \\ \\mathrm { n m } \\right)$ was evaporated in a vacuum chamber( $\\mathit { 3 } \\times { { 1 0 } ^ { - 6 } }$ mbar) through a shadow mask to define the active area of the devices (4 or $1 2 . 5 7 ~ \\mathrm { m m } ^ { 2 }$ 一 ZnO was prepared according to the literature.33 $\\mathbf { M o O } _ { x }$ 1 $( 1 0 \\ \\mathrm { n m } )$ 1 was evaporated in a vacuumchamber $\\left. 3 \\times { 1 0 } ^ { - 6 } \\right.$ mbar) through a shadow mask. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Characterizationand measurement ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Current density-voltage $\\left( J - \\bar { V } \\right)$ characteristics of the devices were measured under simulated solar light ( $1 0 0 \\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ ; AM 1.5G) providedbyaNewport-Oriel $\\textsuperscript { \\textregistered }$ Sol3A 450 W solar simulator and the devices were stored in an Ar atmosphere without encapsulation.The device parameters were recorded with a Keithley 2440 Source Measure Unit.The intensity of the simulated solar light was calibrated by a standard Si photodiode detector (PV measurements Inc.)，which was calibrated at the National Renewable Energy Laboratory (NREL).The external quantum efficiency (EQE) spectra were determined using a Newport-Ori$\\mathrm { e l } \\Theta$ IQE $2 0 0 ^ { \\mathrm { T M } }$ which was calibrated by a standard Si/Ge solar cell under illumination with monochromatic light from a Xe lamp at room temperature in air.The thickness of the films was determined using a surface profiler (Dektak 150). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { ^ { 1 } H }$ and $^ { 1 3 } \\mathrm { C }$ NMR spectra were collected with a Bruker DMX400 Spectrometer. The UV-vis absorption spectra were measured by a Perkin-Elmer Lambda 95O spectrophotometer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The surface images and roughness were conducted on a Veeco Dimension 31ooV atomic force microscope.Mass spectra were measured by an XEvO Wafer high-performance liquid chromatography and mass spectrometer. Impedance spectra were obtained by a ZENNIUM of the Zahner Company.The DFT calculations were performed with the Gaussiano9 series of programs using the B3LYP hybrid functional and 6-31G(d) basis set.Ultraviolet photoelectron spectroscopy (UPs） measurements were obtainedbya Kratos ULTRADLD UPS/XPS system (Kratosanalytical,Manchester,U.K.)withHeIradiationat21.2 eV from a discharge lamp operated at $2 0 ~ \\mathrm { { m A } }$ ,a pass energy of 5 eV,anda channel widthof $2 5 { \\mathrm { ~ m e V } }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported from the National Natural ScienceFoundationofChina(21574144， 51273209, 51411140244),the High-end Foreign Expert of State Administration of Foreign Experts Affairs,Zhejiang Provincial Natural Science Foundation of China (LR16B040o02),Ningbo Municipal ScienceandTechnologyInnovativeResearchTeam (2015B11o02)，State Key Laboratory of Luminescence and Applications,and State KeyLaboratoryofPolymerPhysicsand Chemistry，Changchun Institute of Applied Chemistry,CAS, and CAS Interdisciplinary Innovation Team. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 (a) C.R.McNeill and N.C.Greenham,Adv.Mater.,2009,21, 3840; (b) M.A.Green,K.Emery,Y.Hishikawa and W.Warta, Prog. Photovoltaics,2011,19,84; (c) Y.F.Li,Acc. Chem. Res., 2012,45,723.   \n2 J.-D. Chen,C.H. Cui, Y.-Q.Li,L. Zhou, Q.-D. Ou, C.Li, Y.F.Li andJ.-X.Tang,Adv.Mater.,2015,27,1035.   \n3 Y.Liu,J. Zhao, Z. Li, C. Mu, W. Ma,H.Hu,K. Jiang,H.Lin, H.Ade and H.Yan,Nat. Commun.,2013,4,1446.   \n4 Z. C. He, B. Xiao, F. Liu, H. B. Wu, Y. Yang, S. Xiao, C. Wang, T.P.Russell and Y. Cao, Nat.Photonics,2015,9,174.   \n5S.Braun,W.R.Salaneck and M.Fahlman,Adv.Mater.,2009, 21,1450.   \n6 H. Choi,J. S. Park,E. Jeong, G.-H. Kim, B.R. Lee, S.O. Kim, M. H. Song,H. Y. Woo and J. Y. Kim, Adv. Mater., 2011,23, 2759.   \n7 J.H.Seo,E.B.Namdas,A.Gutacker，A.J.Heeger and G.C.Bazan,Appl.Phys.Lett.,2010,97,043303.   \n8 Y.H.Zhou，C.Fuentes-Hernandez,J.Shim，J. Meyer, A．J.Giordano，H.Li，P.Winget，T.Papadopoulos, H.Cheun，J.Kim，M.Fenoll，A.Dindar，W.Haske, E. Najafabadi，T. M. Khan，H. Sojoudi， S. Barlow, S.Graham，J.-L.Brédas，S.R.Marder，A.Kahn and B.Kippelen,Science,2012,336,327.   \n9 S.H. Park,A. Roy, S.Beaupré, S.Cho,N. Coates,J. S. Moon, D.Moses,M.Leclerc,K.Lee and A.J.Heeger,Nat.Photonics, 2009,3,297.   \nl0 (a) C.J.Brabec,S.E.Shaheen,C.Winderand N.S.Sariciftci, Appl.Phys.Lett.,2002,80,1288; (b) J.Wang,F. Zhang,L.Li, Q.An,J. Zhang,W.Tang and F.Teng, Sol. Energy Mater. Sol. Cells，2014，130，15；(c）P.Peumans，A.Yakimov and S.R.Forrest,J. Appl.Phys.，2003，93，3693；(d)G.Li, C.-W. Chu, V. Shrotriya, J. Huang and Y. Yang, Appl. Phys. Lett.，2006，88，253503；(e） M.S.White，D.C.Olson, S.E. Shaheen,N. Kopidakis and D. S. Ginley，Appl. Phys. Lett.,2006,89,143517;(f) D.W.Zha0,P.Liu,X.W.Sun, S. T.Tan,L. Ke and A.K. K. Kyaw,Appl. Phys. Lett.,2006, 95,153304;(g) J. H. Lee,S.Cho,A. Roy,H.-T. Jung and A．J.Heeger，Appl.Phys.Lett.，2010，96，163303；(h) H.-L. Yip, S. K. Hau, N. S. Baek, H. Ma and A. K.-Y. Jen, Adv.Mater.,2008,20,2376; (i) M.D. Irwln,D.B. Buchholz, A.W.Halns,R.P.H. Chang and T.J.Marks,Proc.Natl. Acad. Sci.U. S.A.,2008,105,2783.   \n11 (a) J. H. Seo,A. Gutacker, Y. M. Sun, H. B. Wu,F. Huang, Y. Cao,U. Scherf,A. J. Heeger and G. C. Bazan, J. Am. Chem.Soc.,2011,133,8416;(b) S.Nam,J. Jang,H.Cha, J. Hwang,T. K. An, S. Park and C. E. Park,J. Mater. Chem., 2012，22，5543；(c) H.Q.Zhou，Y.Zhang，J.Seifter, S.D.Collins，C.Luo，G.C. Bazan，T.-Q.Nguyen and A.J.Heeger,Adv.Mater.，2013，25，1646;(d) Z.-K.Tan, Y. Vaynzof,D. Credgington，C. Li，M. T. L. Casford, A．Sepe，S.Huettner，M. Nikolka，F.Paulus，L.Yang, H.Sirringhaus,N.C.Greenham and R.H.Friend,Adv. Funct. Mater., 2014,24,3051; (e) Y.Wang, Y. Liu, S.Chen, R.Peng and Z.Ge,Chem.Mater.,2013,25,3196.   \n12 (a) S.-S. Kim, S.-I. Na, J. Jo, D.-Y. Kim and Y.-C. Nah,Appl. Phys.Lett，2008，93，073307；(b)H.A.Atwater and A. Polman, Nat. Mater.,2010,9,205.   \n13 X.He，F.Gao,G.Tu,D.Hasko,S.Hittner，U.Steiner, N.C.Greenham,R.H.Friend and W.T.S.Huck,Nano Lett,2010,10,1302.   \n14 (a) Z. He, C. Zhong, S. Su, M. Xu, H. Wu and Y. Cao, Nat. Photonics,2012,6,591; (b) Y. Liu, Z.A. Page,T.P. Russell and T.Emrick,Angew.Chem.,Int.Ed.,2015,54,11485.   \n15 (a) K. Yao,M. Salvador,C. Chueh, X. Xin, Y. Xu, W. Dane, T.Hu,Y. Chen,D. S.Ginger and A.K. Jen,Adv. Energy Mater.，2014，4,1400206; (b) W. Zhang,Y.Wu,Q. Ba0, F. Gao and J. Fang,Adv. Energy Mater., 2014,4,1400359; (c) C.Duan,C. Zhong,C.Liu,F.Huang and Y.Cao,Chem. Mater.,2012,24,1682.   \n16 C.Duan, K. Zhang, C. Zhong,F. Huang and Y. Cao, Chem. Soc. Rev.,2013,42,9071.   \n17 X.H. Ouyang,R.Peng,L.Ai,X. Zhang and Z.Ge,Nat. Photonics,2015,9,520.   \n18 F.L. Zhang,M. Ceder and O.Inganäs,Adv.Mater.,2007,19, 1835.   \n19 H.Lee，E.Puodziukynaite，Y. Zhang，J. C. Stephenson, L．J.Richter，D.A.Fischer，D.M.DeLongchamp and T.Emrick,J.Am. Chem. Soc.,2015,137,540.   \n20 Y. Liang, Z. Xu,J. B. Xia, S.-T. Tsai, Y. Wu, G. Li, C. Ray and L. Yu,Adv. Mater.,2010,22,E135.   \n21 (a) S. Nam, J. Jang, H. Cha, J. Hwang, T. K. An, S. Park and C.E.Park,J. Mater.Chem.，2012，22，5543；(b) L. Ye, Y. Jing,X.Guo,H. Sun, S. Zhang,M. Zhang,L.Huo and J. Hou,J. Phys. Chem. C,2013,117,14920.   \n22 Q. Sun,F. Zhang, J. Wang, Q. An, C. Zhao, L. Li, F. Teng and B.Hu,J. Mater. Chem.A,2015,3,18432.   \n23 Z. He, C. Zhong, X. Huang,W.-Y. Wong, H. Wu,L. Chen, S. Su and Y. Cao,Adv. Mater.,2011,23,4636.   \n24 M.Lv，S.Li,J.J.Jasieniak,J.Hou，J.Zhu，Z.Tan, S.E.Watkins,Y.Li and X.Chen,Adv.Mater.,2013,25,6889.   \n25 C.Duan,W. Cai, B. B. Y. Hsu, C. Zhong, K. Zhang,C. Liu, Z. Hu,F. Huang,G.C.Bazan,A. J. Heeger and Y. Cao, Energy Environ. Sci.,2013,6,3022.   \n26 D.Bilby,B. Frieberg, S.Kramadhati, P.Green and J. Kim, ACSAppl.Mater.Interfaces,2014,6,14964.   \n27 K. Zhang, C. Zhong, S. Liu, C. Mu, Z. Li, H. Yan, F. Huang and Y.Cao,ACS Appl. Mater.Interfaces,2014,6,10429.   \n28 P.W. M. Blom and M.C.J.M.Vissenberg,Mater. Sci. Eng.,R, 2000,27,53.   \n29 (a) B. J. Leever, C.A. Bailey, T. J. Marks, M. C. Hersam and M.F.Durstock,Adv.Energy Mater.,2012,2,120; (b) H. Li, J. Cao, Q. Zhou,L. Ding and J. Wang,Nano Energy,2015, 15,125.   \n30 T. Kuwabara, Y. Kawahara, T.Yamaguchi and K. Takahashi, ACS Appl. Mater. Interfaces,2009,1,2107.   \n31 C.Cui,X.Guo,J. Min，B.Guo,X. Cheng,M. Zhang, C.J.Brabec and Y.Li,Adv.Mater.,2015,27,7469.   \n32 (a) M. Jorgensen, K. Norrman and F. C. Krebs, Sol. Energy Mater. Sol. Cells,2008,92, 686; (b) C. K. Song,A. C.White, L. Zeng,B. J. Leever,M.D. Clark,J. D.Emery, S. J. Lou, A. Timalsina,L. X. Chen,M. J. Bedzyk and T. J. Marks,ACS Appl.Mater. Interfaces,2013,5,9224.   \n33 S.-H. Liao, H.-J. Jhuo, Y.-S. Cheng and S.-A. Chen， Adv. Mater.,2013,25,4766. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

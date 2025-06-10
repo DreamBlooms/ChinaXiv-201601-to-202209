@@ -1,0 +1,525 @@
+[
+    {
+        "type": "text",
+        "text": "Probing Diverse Disulfur Ligands in the $\\cdot$ （ $\\mathbf { \\tilde { \\mu } } ( n = 4 \\mathbf { \\Omega } \\sim \\mathbf { \\Omega } 8 )$ Clusters: Structural Evolution and Chemical Bonding ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiao-Fei(张晓菲);LIU Xiu-Juan(刘秀娟);XU Ruo-Nan(徐若男);WU Ni(吴 妮);HUANG Xin(黄昕);WANG Bin (王彬) Department of Chemistry, Fuzhou University, Fuzhou 350116, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTDensity functional theory (DFT） and coupled cluster theory(CCSD(T))calculations were employed to investigate the geometric and electronic structures of a range of dinuclear molybdenum sulfide clusters, ${ \\bf M o } _ { 2 } { \\bf S } _ { n } { } ^ { - }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n }$ 0 $_ { n } = 4 { \\sim } 8 _ { , }$ ). The results showed that the sulfur atoms tended to occupy the terminal sites of the clusters continuously in the process of sequential sulfidation. After the oxidation state of Mo atoms reached the maximum of $+ 6$ ，diverse disulfur ligands emerged in the sulfur-rich ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - / 0 }$ $( n = 7 , 8 )$ clusters. The driving forces of removing a sulfur atom from different S ligands in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } ^ { - / 0 }$ $( n = 4 { \\sim } 8 )$ ）clusters, especially from those disulfur units,were evaluated. The corresponding order may provide insight into the pretreatment of fresh $\\mathbf { M o S } _ { 2 }$ catalysts. Vertical detachment energies (VDEs） were predicted according to the Generalized Koopmans’ theorem,and then the photoelectron spectra (PES) were simulated. Molecular orbital and spin density values were analyzed to elucidate the chemical bonding and the evolutionary behavior in the dinuclear molybdenum sulfide clusters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: molybdenum sulfide； gas-phase cluster;density functional theory； supersulfido $( \\mathbf { S } \\imath ^ { - } )$ ligand;simulated photoelectron spectrum, DO1: 10.14102/j.cnki.0254-5861.2011-1711 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Molybdenum sulfide has intensely caught people's eyes due to their wide applications in the fields of mechanical treatments,catalysts,energy materials and so forthl1-8]. In the case of catalysts,it is known that molybdenum sulfide can serve as a promising low-cost alternative to platinum or other noble metals catalyst in hydrogen evolution reaction (HER)[9-141. Additionally, $\\mathbf { M o S } _ { 2 }$ based catalysts have been widely used in the process of petroleum refining[15], including the hydrodesulfurization (HDS)and hydrodenitrogenation (HDN) reactions. Meanwhile,considerable atention has been paid to study the active sites in these catalysts[16-25l. It is normally accepted that the sulfur vacancies (or coordination unsaturated sites (CUS)） of $\\mathbf { M o S } _ { 2 }$ are the key active centers[26, 27]. However, Besenbacher et al22] also put forward that the specific brim sites without sulfur vacancies are also responsible for the HDS activity.Furthermore, Vrubel et al.11l showed that the reduced molybdenum sulfides containing the disulfide ligands appeared to be catalytically active.Several molybdenum complexes which contain various $\\mathbf { S } _ { 2 }$ ligands have been synthesized recently,which were considered to be able to mimic the $\\mathbf { M o S } _ { 2 }$ edge sites for the catalytic hydrogen generation[28-31l. Despite the progressive work, more detailed studies on the active sites of molybdenum sulfide catalysts are still required. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previously，many studies have been focused on the synthesis and characterization of a variety of molybdenum polysulfido complexes and their precursors in the condensed phase,and various disulfide species were obtained in these complexes[28-30.32-35l. Among them, the $[ { \\bf M } { \\bf o } _ { 2 } { \\bf S } _ { 7 } ] ^ { 2 - }$ anion was found to possess a terminal $S _ { 2 } { } ^ { 2 - }$ ligand[32]. The $[ \\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } ] ^ { 2 - }$ was considered to own two terminal $S _ { 2 } { } ^ { 2 - }$ ligands[33]. The $[ \\mathbf { M o } _ { 2 } \\mathbf { S } _ { 1 2 } ] ^ { 2 - }$ was reported to contain four terminal ${ \\bf S } _ { 2 } ^ { 2 - }$ and two bridging ${ \\bf S } _ { 2 } ^ { 2 - }$ ligands[30]. The $[ \\mathbf { M o } _ { 3 } \\mathbf { S } _ { 1 3 } ] ^ { 2 - }$ was predicted to have three bridging $S _ { 2 } { } ^ { 2 - }$ and three terminal $S _ { 2 } { } ^ { 2 - }$ ligands[29l. These molybdenum complexes containing the persulfido $( \\mathsf { S } _ { 2 } { } ^ { 2 - } )$ ligands may lead to the corresponding complexes with supersulfido $( \\mathbf { S } _ { 2 } ^ { - } )$ ligands via futher electron transferation,butless is kownabouttheirsupersulfidocomplexes36-40l.As is knowntoall,gas-phaseclusters can serve as effective molecular models gaining microcosmic understanding of the sophisticated surface structures and the catalytic processes at the molecular levell41-45]. Theoretical calculations have played an indispensable role in describing the accurate structure and properties of gas-phase clusters[46]. Over the past few years,considerable efforts have been devoted to studying the mono- and multi-nuclear molybdenum sulfide gas-phase clusters[47-60l. Infrared spectra combined with DFT calculations of neutral mono-nuclear $\\mathbf { M } \\mathbf { S } _ { n }$ （ $( \\mathbf { M } \\ = \\mathbf { \\Gamma } \\mathbf { C r }$ ，Mo，W; $n \\ = \\ 1 { \\sim } 3$ ） clusters have been studied by Andrews's group[59]. Joint experimental photoelectron spectra and theoretical investigations on a variety of mono- and multi-nuclear molybdenum sulfide clusters have also been reported by Gemming et al[53,57,58l. Jiao et al. presented the structure and reactivity of $\\bf { M o } _ { 3 } S _ { 9 }$ cluster which can be taken as a model for amorphous molybdenum sulfide $\\mathrm { M o S } _ { 3 } { } ^ { [ 5 4 ] }$ . An ab initio study on the structural stability of Mo-S clusters and the size specific stoichiometries of magic clusters was reported by Murugan et al.[56], wherein ${ \\bf M o } _ { 2 } { \\bf S } _ { 5 }$ consisting of two bridging S and three terminal S atoms was expected to be the magic cluster.In spite of these efforts,the systematical theoretical investigations on the gas-phase molybdenum sulfide clusters are still required. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our previous work[61, 62]，we have reported a theoretical study on the mono-nuclear molybdenum sulfide clusters, $\\mathrm { M o S } _ { n } { } ^ { - / 0 }$ 0 $_ { \\tiny { n } } = 1 { \\sim } 6 _ { \\tiny { , } } ^ { \\tiny { \\cdot } }$ . To mimic the geometric and electronic properties of molybdenum sulfide surfaces and defects, larger $\\mathbf { M o } _ { x } \\mathbf { S } _ { y }$ clusters in size may be interesting. In the present work,extensive density functional theory (DFT） and coupled cluster theory (CCSD(T)) calculations were performed to elucidate the structural and electronic properties of a range of di-nuclear molybdenum sulfide clusters, ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n }$ 0 $\\mathbf { \\bar { \\rho } } _ { n }$ （204号 $\\phantom { 0 } { = } 4 { \\sim } 8 \\$ ). The current study represents our continuous research interest in various clusters aiming at providing wel-defined molecular models for bulk surfaces and catalysts[61-6l. According to our calculations,a behavior of structural evolution was found with the exception of neutral $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 }$ . The neutral $\\bf { M o } _ { 2 } S _ { 8 }$ can be viewed as replacing two of the terminal S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ by the same number of $\\mathbf { S } _ { 2 }$ units.Interestingly,diverse disulfur ligands, including the supersulfido $( \\mathbf { S } _ { 2 } ^ { - } )$ ligands,emerged in sulfur-rich clusters $\\mathbf { M o } { \\mathbf { S } _ { n } } ^ { - / 0 }$ $( n = 7 , 8 )$ . It was found that the disulfur species may have a key impact on the catalytic activityl67-69l. Our calculations showed that the reduced reactions for removing one sulfur atom from the sulfur-rich clusters were spontaneous, whereas the reactions were nonspontaneous if the sulfur atom was removed from the sulfur-deficient clusters. The results suggested that the $\\mathbf { S } _ { 2 }$ units may play an important role in removing the sulfur atoms from the edge sites of fresh $\\mathbf { M o S } _ { 2 }$ catalysts. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 COMPUTATIONALMETHODS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The calculation details for this study are similar to our earlier studies on mono-nuclear molybdenum sulfide clusters, $\\mathrm { M o S } _ { n } { } ^ { - / 0 }$ $( n = 1 { \\sim } 6 )$ [61,62].Densityfunctional theory (DFT)calculations employing the B3LYP hybrid functional[70-72] were carried out using Gaussian O3 program[731. B3LYP was widely used in quantum chemistry[74l. Furthermore,B3LYP had been applied in the other Mo-S systems，which showed good agrement with theexperimental data[51,54,59]l.Aditionaly,B3LYalso gave reasonably good results which were compared to the available experimental data in our previous workl61-6]. As discussed below, we used the results with B3LYP functional for further discussion.A host of initial structures considering different spin states and geometric symmetry were evaluated,and the search for the most stable structures was first performed using the triple $\\zeta$ valence plus polarization (def2-TZVP) basis set[75-7] and the corresponding Stuttgart effective core potential for $\\mathbf { M o } ^ { [ 7 8 ] }$ (denoted as L-BS hereafter). Then the selected low-lying isomers $( \\Delta E < 0 . 5 0 \\ \\mathrm { e V } )$ ） were further re-optimized at the B3LYP level with the larger basis sets,i.e.,the Stuttgart relativisticsmallcoreasissetandeficientcorepotential[879augmentedwithto $f$ -type and one $g$ -type polarization functions $( \\zeta ( f ) = 0 . 3 3 8$ ,1.223; $\\zeta ( g ) = 0 . 7 4 4 \\rangle$ for molybdenum[80l and the aug-cc-pvtz basis set for sulfur and hydrogen[81-83] (denoted as H-BS hereafter). Scalar relativistic effects were taken into account via thequasi-relativistic pseudo-potentials.Vibrational frequency was calculated at the same level of theory to confirm that the reported minima have no imaginary frequency.The relative stabilities of several energetically close-lying isomers ( $\\Delta E < 0 . 4 0 \\ \\mathrm { e V }$ ） were further distinguished with the help of higher-level CCSD(T)[84-88] single point calculations with the H-BS basis sets at the B3LYP optimized geometries.Vertical electron detachment energies (VDEs)were calculated on the basis of the generalized Koopmans’theorem[89] which had been described detailedly in our previous studiesl61-66l. All DFT calculations were performed using the Gaussian O3 software package. The CCSD(T） calculations were performed with the MOLPRO 2010.1 package[90l. The frontier molecular orbitals were visualized using the VMD software[91. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 THEORETICALRESULTS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The optimized geometries for the ground-state and selected energetically low-lying isomers of ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - }$ and ${ \\bf M o } _ { 2 } { \\bf S } _ { n }$ 0 ${ \\bf \\zeta } _ { n } = 4 { \\sim } 8 \\bf { \\zeta } ,$ at the B3LYP/H-BS level of theory are displayed in Figs. $1 { \\sim } 5$ . Their relative energies ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "including those isomers within $0 . 4 0 ~ \\mathrm { e V }$ at the B3LYP/H-BS level together with the results of single-point CCSD(T) calculations are colected in Table 1. Alternative optimized results at the B3LYP/L-BS level for $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } { } ^ { - / 0 } \\left( n = 4 { \\sim } 8 \\right)$ are given in the Supporting Information (Figs. $S 1 { \\sim } S 5 \\$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Sulfur-deficient clusters: $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } { } ^ { - } \\left( n = 4 , 5 \\right)$ ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previously,the tribridged structure with three bridging S atoms and the dibridged structure with two bridging S atoms and one terminal S atom were reported to be the possible ground states of the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 3 }$ cluster[56,58]. To search for the ground states of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } ^ { - 1 0 }$ ，a host of initial structures were taken into consideration,including the above mentioned dibridged and tribridged strucutres.Based on the calculations,a nonplanar dibridged structure $( C _ { s } , { } ^ { 3 } A \" )$ is shown to be the lowest-energy structure of $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 }$ (Fig. la). Another triplet state $( ^ { 3 } A _ { 2 } )$ with higher symmetry $C _ { 2 \\nu }$ is only $0 . 0 4 ~ \\mathrm { e V }$ (Fig.1b） higher in energy. The corresponding quintet state $( ^ { 5 } B _ { 1 } )$ with $C _ { 2 \\nu }$ symmetry is located to be $0 . 1 5 \\mathrm { e V }$ (Fig. lc) higher in energy. The quintet state $( ^ { 5 } B _ { g } )$ with $C _ { 2 h }$ symmetry is $0 . 2 1 \\ \\mathrm { e V }$ (Fig.1d) higher in energy. The difference between these two quintet states is that two terminal S atoms in the former show a syn relationship, whereas the later has aanti configuration. In addition, the triplet state $( C _ { s } , { } ^ { 3 } A \" )$ with the anti configuration is $0 . 3 0 \\ \\mathrm { e V }$ (Fig.le) higher in energy. It seems that the syn configuration is more stable than the anti configuration. The previous studies[47,48,56,58l have also supported the dibridged structure which has the syn configuration to be the ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 }$ For the anionic species, the dibridged structure $( C _ { 2 \\nu } , \\ ^ { 4 } B _ { 1 } )$ with syn configuration is found to be the lowest-energy structure of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } ^ { - }$ (Fig. 1g). Another two dibridged isomers, $C _ { 2 h } ( ^ { 4 } B _ { g } )$ and $C _ { 2 \\nu } ( { } ^ { 2 } B _ { 1 } )$ ,are located to be $0 . 1 8 \\mathrm { e V }$ (Fig. 1h) and $0 . 3 4 \\mathrm { e V }$ (Fig. li) higher in energy,respectively. Other optimized isomers for both the neutral and the anion are much higher in energy and thus not listed in the current paper. More optimized structures at the B3LYP/L-BS level are available in the Supporting Information (Fig. S1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Starting from the ground states of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } { } ^ { - / 0 }$ clusters, extensive structural searches revealed the singlet $( C _ { s } ,$ （24号 ${ } ^ { 1 } A ^ { \\ \" } )$ to be the ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 }$ (Fig. 2a). It can be viewed as adding a terminal S atom to the dibridged $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 }$ . The previous studies by Murugan et al.[56] and Gemming et al.[58] also supported our results. The corresponding triplet state $( C _ { s } , { } ^ { 3 } A ^ { \\prime } )$ is $0 . 1 7 \\mathrm { e V }$ (Fig.2b) higher in energy. For the anionic ${ \\bf M o } _ { 2 } { \\bf S } _ { 5 } { } ^ { - }$ , the ground state (Fig.2c) is found to be a doublet state $( C _ { s } , { } ^ { 2 } A ^ { \\prime } )$ ， whose geometry is similar to that of the neutral ground state. A quartet $( C _ { 2 \\nu } , { ^ 4 } A _ { 2 } )$ is located to be $0 . 2 2 \\mathrm { e V }$ (Fig. 2d) above the ground state. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Stoichiometric clusters: $\\bf { M o } _ { 2 } S _ { 6 }$ and $\\mathbf { M o _ { 2 } S _ { 6 } } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ is identified to have $C _ { 2 \\nu } ( ^ { 1 } A _ { 1 } )$ symmetry (Fig. 3a). It can be deemed as adding a terminal S atom to the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 }$ ground state.Each Mo atom in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ is tetra-coordinated with two terminal S atoms and two bridging S atoms.This result is in consistent with the previous study by Gemming et al.[58l. It should be mentioned that the isomer with a terminal $\\mathbf { S } _ { 2 }$ unit was expected to be the most stable structure of $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 6 }$ by Murugan et al.[56]. But this isomer is less stable $( > 0 . 5 0 \\mathrm { e V } )$ than the structure in Fig. 3a according to our calculation (Fig. S3). For the anionic $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } ^ { - }$ , an open-shell $( ^ { 2 } \\mathbf { A } _ { g } )$ structure with $D _ { 2 h }$ symmetry is found to be the ground state (Fig. 3b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Sulfur-rich clusters: $\\mathbf { M o S } _ { n }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } { } ^ { - } \\left( n = 7 , 8 \\right)$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge,no other computational studies have been reported for the gas-phase $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { ^ { - } } ^ { / 0 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } \\mathbf { \\Lambda } ^ { - 1 0 }$ clusters.On the basis of our calculations on $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } { } ^ { - / 0 }$ , various initial configurations with different spin multiplicities were studied in search of the ground states of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { ^ { - } } ^ { / 0 }$ . As shown in Fig. 4a, the lowest-energy structure of $\\bf { M o } _ { 2 } \\bf { S } _ { 7 }$ is predicated to be closed-shell $( ^ { 1 } A )$ with $C _ { 2 }$ symmetry wherein a bridging $\\mathbf { S } _ { 2 }$ unit appears. It can be regarded as replacing one of the bridging S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ by a bridging $\\mathbf { S } _ { 2 }$ unit. The S-S bond length of the $S _ { 2 }$ unit in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ (Fig. 4a) is $2 . 0 8 6 \\mathring { \\mathrm { A } }$ .A triplet state $( C _ { s } , { } ^ { 3 } A \" )$ with a terminal $\\mathbf { S } _ { 2 }$ unit (Fig. 4b) is located $0 . 2 6 ~ \\mathrm { e V }$ above the ground state.However, this structure becomes the ground state of the ${ \\bf M o } _ { 2 } { \\bf S } _ { 7 } { } ^ { - }$ anion (Fig. 4d), whereas the structure with a bridging $\\mathbf { S } _ { 2 }$ unit (Fig. 4e) is $0 . 3 9 \\mathrm { e V }$ higher in energy. The $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { } ^ { - }$ ground state can be seen as replacing one of the terminal S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } ^ { - }$ by a terminal $\\mathbf { S } _ { 2 }$ unit. The terminal $\\mathbf { S } _ { 2 }$ ligand in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { } ^ { - }$ (Fig. 4d) is attached in a side-on fashion,and the corresponding S-S bond length is 2.097 A. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the case of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } \\mathbf { \\Lambda } ^ { - / 0 }$ ， we found several close-lying isomers of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } \\mathbf { \\Lambda } ^ { - 1 0 }$ near the lowest-energy structure. As shown in Fig. 5a, the ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 }$ is found to be ${ } ^ { 3 } \\mathbf { B } _ { 2 }$ state with $C _ { 2 \\nu }$ symmetry,which can be viewed as replacing two terminal S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ by two terminal $\\mathbf { S } _ { 2 }$ units in a syn configuration. The S-S bond lengths in the $S _ { 2 }$ units are calculated to be 1.999 $\\mathring \\mathrm { A }$ ,and the Mo $S _ { 2 }$ bond lengths are $2 . 4 6 8 \\mathrm { ~ \\AA ~ }$ . Another triplet state $( C _ { 2 h } , { ^ 3 B _ { u } } )$ which also has two terminal $\\mathbf { S } _ { 2 }$ ligands but in a anti configuration is $0 . 2 0 \\ \\mathrm { e V }$ (Fig. 5b) above the ground state. In addition,the isomer which can be seen as replacing the remaining bridging S in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ by a bridging $S _ { 2 }$ unit is much higher in energy $( > 0 . 5 \\ \\mathrm { e V }$ ; Fig. S5). For the anion, the most stable structure of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { - }$ (Fig. 5c) is a doublet state with $C _ { 2 \\nu }$ symmetry,in which two terminal $S _ { 2 }$ ligands are in a syn relationship as in the case of the neutral. The anti isomer $( C _ { 2 h } , { ^ 2 B _ { g } } )$ is shown to be $0 . 0 6 \\mathrm { e V }$ (Fig. 5d) higher in energy. Additionally,the isomer which contains a terminal ${ \\bf S } _ { 3 }$ ligand is $0 . 1 1 \\ \\mathrm { e V }$ (Fig. 5e) higher in energy. Similar with the results of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } ^ { - / 0 }$ , the calculations showed that the syn configuration seems to be more stable than the anti configuration for $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } \\mathbf { \\Lambda } ^ { - 1 0 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4CCSD(T) single-point calculations for low-lying structures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The low-lying isomers of ${ \\bf M o } _ { 2 } { \\bf S } _ { n }$ 1 ${ \\mathit { n } } = 4 { \\sim } 8 { \\mathit { \\Omega } }$ ）and their anion species(within $0 . 4 0 \\mathrm { e V }$ at the B3LYP/H-BS level) were further evaluated using higher level single point CCSD(T) calculations at the B3LYP geometries. The relative energies of single point CCSD(T) calculations are summarized in Table 1.As a whole,the results of single point CCSD(T) calculations are in good line with that of DFT/B3LYP calculations,except for the neutral $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 }$ . According to the CCsD(T) calculations (Table 1), the second lowest-energy isomer $( C _ { 2 \\nu } , { ^ 3 A } _ { 2 }$ ： Fig. 1b) of $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 }$ seems more stable than the isomer $( C _ { s } , { } ^ { 3 } A \" )$ shown in Fig.la. Although these two isomers are close in erengy $( 0 . 0 7 \\mathrm { e V } )$ at the CCSD(T) level, they are likewise similar in their geometries and electronic structures. Herein, the $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 }$ 0 $\\left( C _ { 2 \\nu , 3 } { } ^ { 3 } A _ { 2 } \\right)$ shown in Fig.1b is tentatively considered to be the ground state. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 DISSCUSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Interpretation of the simulated spectra and molecular orbital analyses ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The experimental PES spectra which can be used as an electronic “fingerprint” of a given cluster could provide valuable electronic information.On the basis of generalized Koopmans’theorem，the vertical detachment energies(VDEs） for the identified ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - }$ 1 $( n = 4 { \\sim } 8 )$ ）anionic ground states and the selected low-lying isomers ( $\\Delta E < 0 . 4 0 \\mathrm { e V }$ ） were calculated (Table 2). The introduction to the principles of PES spectra simulation may be found in the early references[92l. This simulation method has been extensively used in a number of previous studies[61,669496] and show good agreement with the experimental spectra. The simulated PES spectra are presented in Fig. 12. The first vertical detachment energy $( \\mathrm { V D E } _ { \\mathrm { 1 s t } } )$ trend as a function of S content $( n )$ in ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - }$ 1 $_ { n = 4 \\sim 8 ) }$ is displayed in Fig. 13. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. 1.1 $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } { } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The frontier orbitals of $\\mathrm { M o } 2 \\mathrm { S } _ { 4 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } ^ { - }$ are illustrated in Fig. 6.As mentioned above,the $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 }$ （ $C _ { 2 \\nu }$ $^ { 3 } { \\cal A } _ { 2 } \\dot { }$ ）as shown in Fig.1b is considered to be the ground state using the CCSD(T) single-point calculations. Its valence electronic configuration is $( 1 8 a _ { 1 } ) ^ { 2 } ( 1 0 b _ { 1 } ) ^ { 2 } ( 6 a _ { 2 } ) ^ { 1 } ( 1 9 a _ { 1 } ) ^ { 1 }$ ． Addition of an electron into the empty antibonding orbital $1 3 \\mathsf { b } _ { 2 }$ of the neutral (Fig. 6a) would lead to the anionic ground state $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } ^ { - }$ （204号 $( C _ { 2 \\nu } , { } ^ { 4 } B _ { 1 } )$ as shown in Fig. 1g. The corresponding valence electronic configuration is $( 1 0 b _ { 1 } ) ^ { 2 } ( 1 8 a _ { 1 } ) ^ { 2 } ( 6 a _ { 2 } ) ^ { 1 } ( 1 3 b _ { 2 } ) ^ { 1 } ( 1 9 a _ { 1 } ) ^ { 1 } .$ Accordingly, the Mo-Mo distances increase from 2.616 to $2 . 7 6 0 \\mathrm { ~ \\AA ~ }$ ， as shown in Fig.1b and $1 \\mathrm { g }$ The $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ （204号 upon photodetachment from the singly occupied bonding orbital $( 1 9 \\mathrm { a } _ { 1 } ) ^ { 1 }$ ，which is mainly characterized by a Mo $4 d$ orbital, is predicted to be $3 . 3 9 \\mathrm { e V }$ .The fully occupied $1 0 b _ { 1 } \\mathbf { M O }$ and below are mainly of $\\mathrm { ~ S ~ } 3 p$ character. Other calculated VDEs from $1 3 { b } _ { 2 }$ and below are presented in Table 2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. 1. 2 Mo2S5 and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 } { } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ground state of neutral $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 }$ （ $( C _ { s } , { } ^ { 1 } A ^ { \\prime } )$ is predicated to be closed-shell species (Fig. 2a). The valence electronic configuration of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 }$ is $( 3 6 a ^ { \\prime } ) ^ { 2 } ( 3 7 a ^ { \\prime } ) ^ { 2 }$ . Addition of an electron into the empty bonding orbital $3 8 \\mathrm { a ^ { \\prime } }$ of the neutral (Fig. 7a) would lead to the anionic ground state ${ \\bf M o } _ { 2 } { \\bf S } _ { 5 } { } ^ { - }$ $( C _ { \\mathrm { s } } , \\ ^ { 2 } A ^ { \\prime }$ ； Fig.2c） with a valence electronic configuration of $( 3 6 a ^ { \\prime } ) ^ { 2 } ( 3 7 a ^ { \\prime } ) ^ { 2 } ( 3 8 a ^ { \\prime } ) ^ { 1 }$ . As shown in Fig.7b, the singly occupied molecular orbital (SOMO) $3 8 a ^ { \\prime }$ and the fully occupied orbital $3 6 \\mathrm { a ^ { \\prime } }$ primarily correspond to the Mo $4 d$ orbitals,and the orbital $3 7 a ^ { \\prime }$ is characterized by $\\mathrm { ~ S ~ } 3 p$ feature.The first detachment channel for ${ \\bf M o } _ { 2 } { \\bf S } _ { 5 } { } ^ { - }$ is derived from the removal of the SOMO $3 8 a ^ { \\prime }$ , for which the calculated VDE is $3 . 7 6 \\mathrm { e V }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. 1.3 （204号 $\\bf { M o } _ { 2 } S _ { 6 }$ and $\\bf { M o } _ { 2 } S _ { 6 } ^ { \\nu }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The neutral $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ (Fig. 3a) is stoichiometric in which each Mo achieves its highest oxidation state $\\mathbf { M o ^ { 6 + } }$ In other words,all of six valence electrons of Mo $[ 4 d ^ { 5 } 5 s ^ { 1 } ]$ are used to form bonds with the S atoms. The valence electronic configuration of the neutral $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ $( C _ { 2 \\nu } , \\ ^ { 1 } A _ { 1 } )$ cluster is $( 2 4 a _ { 1 } ) ^ { 2 } ( 1 2 b _ { 1 } ) ^ { 2 } ( 1 9 b _ { 2 } ) ^ { 2 }$ . The highest occupied molecular orbital (HOMO) $1 9 b _ { 2 }$ and lowest unoccupied molecular orbital (LUMO) $2 5 a _ { 1 }$ are depicted in Fig. 8a. All MOs from HOMO and below are $\\mathrm { ~ S ~ } 3 p$ -based orbitals,and the LUMO is primarily featured by the Mo $4 d$ orbital. When one extra electron is added to the neutral $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ ,the ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } ^ { - }$ (Fig. 3b) would still maintain the skeleton of neutral (Fig. 3a) but the rhombus $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 2 }$ unit in the neutral is distorted relative to the anion. The valence electronic configuration of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } { } ^ { - } \\left( D _ { 2 h } , { } ^ { 2 } A _ { \\mathrm { g } } \\right)$ is $( 4 b _ { 3 \\mathrm { g } } ) ^ { 2 } ( 1 0 b _ { 2 u } ) ^ { 2 } ( 1 5 a _ { g } ) ^ { 1 }$ In this （204号 $D _ { 2 h }$ structure,the extra electron delocalized on the two Mo atoms,as is evidenced from its SOMO $1 5 a _ { g }$ (Fig. 8b).The photodetachment from SOMO $1 5 a _ { g }$ yields the $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ with a calculated value of $4 . 5 1 \\ \\mathrm { e V }$ The remaining calculated VDEs from $1 0 b _ { 2 u }$ and below are presented in Table 2. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.4 $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { } ^ { - }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the sulfur-rich species $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ , the structure with a $S _ { 2 }$ unit in the bridging fashion is predicated to be the neutral ground state (Fig. 4a),for which the valence electronic configuration is $( 3 5 a ) ^ { 2 } ( 3 3 b ) ^ { 2 } ( 3 6 a ) ^ { 2 } ( 3 4 b ) ^ { 2 }$ All the MOs are featured by $3 p$ orbital of S atom (Fig. 9a). The ground state of anion $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } ^ { - } \\ ( C _ { 1 } , \\ ^ { 2 } A )$ is predicted to be open-shell with a terminal $\\mathbf { S } _ { 2 }$ group (Fig. 4d). The valence electronic configuration of this anion is $( 6 5 a ) ^ { 2 } ( 6 6 a ) ^ { 2 } ( 6 7 a ) ^ { 2 } ( 6 8 a ) ^ { 1 } ( 6 9 a ) ^ { 2 } ( 7 0 a ) ^ { 2 } ( 7 1 a ) ^ { 2 }$ . The calculated S-S bond length in this $\\mathbf { S } _ { 2 }$ group is $2 . 0 9 7 \\mathrm { ~ \\AA ~ }$ which is similar with the free ${ \\bf S } _ { 2 } ^ { 2 - } \\left( { } ^ { 1 } { Z } _ { \\mathrm { g } } ^ { + } \\right)$ dianion $( 2 . 1 8 0 \\mathring { \\mathrm { A } }$ calculated at the same level). The two fully occupied orbitals $7 1 a$ and $6 5 a$ correspond to the $\\pi ^ { * }$ orbitals of $S _ { 2 }$ group (Fig.9b). Hence, the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } - C _ { 1 } \\mathbf { \\Psi } ( ^ { 1 } A )$ can be considered as the addition of a $S _ { 2 } { } ^ { 2 - }$ unit to the cationic ${ \\bf M o } _ { 2 } { \\bf S } _ { 5 } { } ^ { + }$ . Photodetachment from the fully occupied orbital $7 1 a$ yields the first PES band with the calculated VDEs of $4 . 3 2 \\ : \\mathrm { e V }$ （20 $( a )$ and $4 . 2 6 \\mathrm { e V } ( \\beta )$ . The detachment origining from the singly occupid orbital $6 8 a _ { 1 }$ requires a higher energy $( 5 . 0 0 \\mathrm { e V } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. 1. 5 $\\bf { M o } _ { 2 } S _ { 8 }$ and $\\bf M o _ { 2 } S _ { 8 } \\mathrm { ^ { - } }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The frontier MOs of $\\bf { M o } _ { 2 } S _ { 8 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { - }$ are illustrated in Fig.1O. The ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 }$ is found to be $^ { 3 } { \\cal B } _ { 2 }$ state with $C _ { 2 \\nu }$ symmetry (Fig. 5a). The valence electronic configuration for the neutral species is $( 1 6 b _ { 1 } ) ^ { 2 } ( 2 6 a _ { 1 } ) ^ { 2 } ( 1 7 b _ { 1 } ) ^ { 1 } ( 1 3 a _ { 2 } ) ^ { 1 } ( 1 8 b _ { 1 } ) ^ { 2 } ( 2 7 a _ { 1 } ) ^ { 2 }$ .The corresponding frontier MO pictures are shown in Fig.10a, in which two singly occupied orbitals $1 3 a _ { 2 }$ ， $1 7 b _ { 1 }$ and two doubly occupied orbitals $1 6 { b } _ { 1 }$ and $1 8 b _ { 1 }$ correspond to the $\\pi ^ { * }$ orbitals of two bound $\\mathbf { S } _ { 2 }$ units in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 }$ $( C _ { 2 \\nu } , { } ^ { 3 } B _ { 2 } )$ . Furthermore, the S-S bond length of the $\\mathbf { S } _ { 2 }$ moiety (1.999 $\\mathring \\mathbf { A }$ in Fig. 5a) is very close to that of free $S _ { 2 } ^ { \\mathrm { ~ - ~ } } ( ^ { 2 } I I _ { \\mathrm { g } } )$ anion $( 2 . 0 2 9 \\mathring { \\mathrm { A } }$ calculated at the same level). The spin density analyses further certify that two unpaired electrons are separately located on two $\\mathbf { S } _ { 2 }$ units (Fig. 11a). Therefore, the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 }$ $( C _ { 2 \\nu } , \\ ^ { 3 } B _ { 2 } )$ may be viewed as two ${ \\mathsf { S } } _ { 2 } ^ { - }$ units adhered to the cationic $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 4 } { } ^ { 2 + }$ . For the anionic species, the valence electronic configuration is $( 1 6 b _ { 1 } ) ^ { 2 } ( 2 6 a _ { 1 } ) ^ { 2 } ( 1 7 b _ { 1 } ) ^ { 2 } ( 2 7 a _ { 1 } ) ^ { 2 } ( 1 3 a _ { 2 } ) ^ { 2 } ( 1 8 b _ { 1 } ) ^ { 1 }$ As shown in Fig.10b, the singly occupied MO $1 8 b _ { 1 }$ and three doubly occupied MOs $1 3 a _ { 2 } , 1 7 b _ { 1 }$ and $1 6 { b } _ { 1 }$ correspond to the $\\pi ^ { * }$ orbitals of the S-S moieties. The bond length of $\\mathbf { S } _ { 2 }$ unit $( 2 . 0 5 5 \\mathrm { \\AA } )$ is between that of the bound ${ \\mathsf { S } } _ { 2 } ^ { - }$ and （204号 $S _ { 2 } { } ^ { 2 - }$ anions (1.999 $\\mathring \\mathrm { A }$ in Fig. 5a and 2.097 $\\mathring \\mathrm { A }$ in Fig. 4d,respectively). The spin density analyses show that an unpaired electron is equiprobably shared by two terminal $\\mathbf { S } _ { 2 }$ groups (Fig.11b). Therefore, the $\\mathrm { M o } _ { 2 } \\mathrm { S } _ { 8 } { } ^ { - } \\left( C _ { 2 \\nu } , { } ^ { 2 } B _ { 1 } \\right.$ Fig. 5c) cluster can be described as a resonance hybrid of two equivalent $C _ { s }$ structures with both ${ \\mathsf { S } } _ { 2 } ^ { - }$ and $S _ { 2 } { } ^ { 2 - }$ units.As shown in Table 2 and Fig.12e,photodetachment from the fully occupied $1 3 a _ { 2 }$ orbital(Fig.10b) of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { - }$ yields the first PES band with the calculated $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ of $3 . 5 8 \\mathrm { e V } ( \\beta )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2Structural evolution of $\\bf M o _ { 2 } S _ { n } { } ^ { - / 0 } \\left( n = 4 \\widetilde { - } 8 \\right)$ clusters ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As noted above，a series of thiomolybdate dianion ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { 2 - }$ $( n \\ = \\ 6 { \\sim } 9 )$ ）have been prepared and characterized in condensed phasel33. It was pointed out that six homologues $[ { \\bf M o } _ { 2 } { \\bf S } _ { n } ] ^ { 2 - }$ $( n = 6 { \\sim } 1 2 )$ dianions may be obtained from any other by either adding sulfur or removing sulfur by triphenylphosphine $\\mathrm { ( P h _ { 3 } P ) ^ { [ 3 2 ] } }$ In our paper, similar structural evolutions are found for the gas-phase $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } ^ { - / 0 }$ ${ \\mathit { n } } = 4 { \\sim } 8 { \\mathit { \\Omega } }$ clusters. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It is worth to mention that $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ showed the highest stability among a series of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { \\mathrm { y } }$ clusters by Gemming et al.[58]. They indicated that the structure of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ may be used as a motif of larger $\\mathbf { M o } _ { x } \\mathbf { S } _ { y }$ clusters or the bulk $\\mathbf { M o S } _ { 3 }$ phase. In our calculations, the ground state of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ 0 $\\ C _ { 2 \\nu } , \\ ^ { 1 } A _ { 1 }$ ；Fig.3a) possesses four $\\scriptstyle \\mathrm { M o = S }$ double bonds and four Mo-S single bonds,in which each Mo atom has reached its highest oxidation state of （20 $+ 6$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For the neutrals,with the increasing sulfur content, the formal oxidation state of molybdenum increases until reaching its highest oxidation state of $+ 6$ .Meanwhile, the sulfur atoms occupy the terminal sites in ${ \\bf M o } _ { 2 } { \\bf S } _ { n }$ clusters ${ \\mathit { n } } = 4 { \\sim } 6$ ） successively. After both Mo atoms get the highest oxidation state,the disulfur units (i.e., S2) begin to emerge. Namely, one of the bridging S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ is replaced by a bridging $\\mathbf { S } _ { 2 }$ unit for the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ （20 cluster. Then for the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 }$ cluster, two of the terminal S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 }$ are replaced by the same number of terminal $S _ { 2 }$ ligands. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Similar evolutionary regularities are also found for the anionic ${ \\bf M o } 2 { \\bf S } _ { n } ^ { - }$ 0 $n = 4 { \\sim } 6$ ）clusters.Theypreserve the structural skeleton of their neutral counterpart. In ${ \\bf M o } _ { 2 } { \\bf S } _ { 7 } { } ^ { - }$ cluster, one of the terminal S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } { } ^ { - }$ is replaced by a terminal $\\mathbf { S } _ { 2 }$ ligand. Subsequently in the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { - }$ cluster, two terminal S atoms in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } ^ { - }$ are replaced by the same number of terminal $\\mathbf { S } _ { 2 }$ ligands.Furthermore,based on the relative stability of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } { } ^ { - / 0 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } \\mathbf { \\Lambda } ^ { - 1 0 }$ (Figs.1 and 5),it seems that the syn configuration is more stable than the anti one. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3Trend of $\\mathbf { V D E _ { 1 s t } }$ as the function of S content in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } { } ^ { - } \\left( n = 4 { \\sim } 8 \\right)$ ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig. 13 depicts the trend of calculated $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ as a function of S content in the ${ \\bf M o } 2 { \\bf S } _ { n } ^ { \\mathrm { ~ - ~ } }$ clusters.The trend of $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ can be qualitatively understood from the frontier MO analysis (Figs. $6 { \\sim } 1 0 \\$ ). The $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ increases nearly linearly as a function of sulfur content $( n = 4 { \\sim } 6$ ),clearly showing a behavior of sequential sulfidation of $\\mathbf { M } \\mathbf { o } _ { 2 }$ dimer. The valence electrons of molybdenum $( 4 d ^ { 5 } 5 s ^ { 1 } )$ are sequentially transferred to the added S atoms, along with the number of Mo $4 d$ -based orbitals decrease (Figs. $6 { \\sim } 8$ ).Interestingly， the $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ suddenly begins to reduce after that. The reason why the $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ starts to decrease can also be comprehended from the frontier MO analysis as shown in Figs.9 and 10. When $n$ reaches 7 (i.e., $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { } ^ { - }$ ), the detachment is origining from the fully occupied $\\pi ^ { * }$ orbitals (71a) of a $\\mathbf { S } _ { 2 }$ unit, leading to the decrease of $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ (from 4.51 to $4 . 2 6 \\ : \\mathrm { e V }$ ） When $n$ is equal to eight (i.e., $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } ^ { - \\cdot }$ ),we found the VDEs $_ { \\mathrm { 1 s t } }$ corresponds to the detachment from the singly occupied $\\pi ^ { * }$ orbitals $( 1 8 \\mathbf { b } _ { 1 } )$ of two $\\mathbf { S } _ { 2 }$ moieties. The further decreasement of $\\mathrm { \\Delta V D E _ { \\mathrm { 1 s t } } }$ from 4.26 to $3 . 5 8 \\mathrm { e V }$ may be a consequence of distribution of an unpaired electron over the $\\pi ^ { * }$ orbitals of two $\\mathbf { S } _ { 2 }$ groups. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4Reduction reaction of $\\mathbf { H } _ { 2 }$ on the $\\bf M o _ { 2 } S _ { n } \\mathrm { \\Pi } ^ { - / 0 } \\left( n = 4 \\mathrm { \\widetilde { \\Gamma } } ^ { 8 } \\right)$ clusters ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Afanasiev et al.[67,68] showed that the $S _ { 2 } { } ^ { 2 - }$ species located at the edges of fresh $\\mathbf { M o S } _ { 2 }$ catalysts play a key part for the catalytic activity. Recently,Karunadasa and co-workers[28] have reported the synthesis of a side-on bound ${ \\bf M } { \\bf o } ^ { \\mathrm { I V } }$ -disulfide complex, which could mimic the $\\mathbf { M o S } _ { 2 }$ edge sites for the catalytic hydrogen generation. It is interesting to note that diverse $\\mathbf { S } _ { 2 }$ units are found in the sulfur-rich clusters ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - / 0 }$ 0 $( n = 7 , 8 )$ in our work. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathbf { M o S } _ { 2 }$ catalysts are usually used in the gaseous environment of $\\mathrm { H } _ { 2 } / \\mathrm { H } _ { 2 } \\mathrm { S }$ at raised temperature.The experiment pointed out that the kinetics of $S _ { 2 }$ group interaction with hydrogen could be promoted by the reactant $\\mathrm { H } _ { 2 }$ and hindered by the product $\\mathrm { H } _ { 2 } \\mathrm { S } ^ { [ 6 7 ] }$ . Thus, we proposed the reaction (eq. 1) removing a sulfur atom from $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } ^ { - / 0 }$ （ $( n = 4 { \\sim } 8 )$ ） clusters. The driving force can be estimated by the negative values of Gibbs free energy differences $( \\Delta G )$ of this reaction, which are obtained by the following equation (eq. 2) and summarized in Table 3. ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } { } ^ { - / 0 } + \\mathbf { H } _ { 2 }  \\mathbf { M o } _ { 2 } \\mathbf { S } _ { n - 1 } { } ^ { - / 0 } + \\mathbf { H } _ { 2 } \\mathbf { S }\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta G = G ( { \\bf M o } _ { 2 } { \\bf S } _ { n - 1 } { } ^ { - / 0 } ) + G ( { \\bf H } _ { 2 } { \\bf S } ) - G ( { \\bf M o } _ { 2 } { \\bf S } _ { n } { } ^ { - / 0 } ) - G ( { \\bf H } _ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In light of the values of $\\Delta G$ ,the driving forces of the proposed reactions increase as a function of $n$ .For the proposed reaction (Eq. 1; $n = 5$ ,6),the sulfur is removed from the terminal S of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 } \\mathbf { \\bar { \\Psi } } ^ { - / 0 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } \\mathbf { \\Lambda } ^ { - / 0 }$ The corresponding values of $\\Delta G$ (Table 3) are positive (Reactant-favored). After both of the Mo atoms reach their maximum oxidation state of $+ 6$ ,the $\\mathbf { S } _ { 2 }$ units begin to emerge. The energy costs $( \\Delta G )$ of sulfur atom losing from various $\\mathbf { S } _ { 2 }$ units start to be negative (Product-favored). So,for the sulfur-rich clusters $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } { } ^ { - / 0 } \\left( n = 7 , 8 \\right)$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "regardless of the kinetic factor，the proposed reactions (Eq.2） may be energetically (thermodynamically) favored. In the neutral $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ ，the bridging disulfide $( \\mathsf { S } _ { 2 } ^ { 2 - } )$ ligand appears. The Gibbs free energy difference （204号 $( \\Delta G )$ is predicted to be $- 0 . 9 4 \\mathrm { k c a l { \\cdot } m o l ^ { - 1 } }$ ，which should correspond to the removal of S atom from the bridging disulfide $S _ { 2 } { } ^ { 2 - }$ moiety in $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ . As regards its anion and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { - }$ , the S atoms from terminal $S _ { 2 } { } ^ { 2 - }$ and terminal ${ \\mathbf { S } _ { 2 } } ^ { - }$ units are removed in the reaction (Eq. 1; $n = 7 , 8$ ), respectively. The corresponding $\\Delta G$ is estimated to be $- 1 2 . 5 1 \\ \\mathrm { k c a l } { \\cdot } \\mathrm { m o l } ^ { - 1 }$ 0 $S _ { 2 } { } ^ { 2 - }$ for $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { } ^ { - }$ ）and $- 1 4 . 7 4  { \\mathrm { \\ k c a l { \\cdot } m o l { } } ^ { - 1 } }$ 0 $\\cdot \\mathrm { s } _ { 2 } \\mathrm { - }$ for $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { - }$ )，respectively. Generally，the driving forces $( - \\Delta G )$ that remove a sulfur atom from various S ligands in ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - 1 0 }$ 0 ${ \\bf \\zeta } _ { n } = 4 { \\sim } 8 { \\bf \\zeta } ,$ ）clusters can be sorted in the order: $\\mathrm { t } - \\mathrm { S } ^ { 2 - } \\ < \\ \\mathrm { b } - \\mathrm { S } _ { 2 } \\mathrm { \\phantom { - } } ^ { 2 - } \\ < \\ \\mathrm { t } - \\mathrm { S } _ { 2 } \\mathrm { \\phantom { - } } ^ { 2 - } \\ < \\ \\mathrm { t } - \\mathrm { S } _ { 2 } \\mathrm { \\phantom { - } } ^ { - }$ ， which in turn stand for the terminal S atom, bridging $\\scriptstyle ( \\mu _ { 2 } - \\eta ^ { 1 } : \\eta ^ { 1 } ) \\mathbf { S } _ { 2 } { } ^ { 2 - }$ ，terminal $( \\eta ^ { 2 } ) ~ \\mathrm { S } _ { 2 } { } ^ { 2 - }$ and terminal $( \\eta ^ { 2 } ) \\mathrm { ~ } \\mathrm { S } _ { 2 } { } ^ { - }$ unit, respectively. It seems that the ${ \\mathsf { S } } _ { 2 } ^ { - }$ units are more reactive with $\\mathrm { H } _ { 2 }$ which would take a S atom away in the form of releasing $\\mathrm { H } _ { 2 } \\mathrm { S }$ molecule.Coordination unsaturated sites (CUS) can be obtained by removing sulfur atoms from the edges of $\\mathbf { M o S } _ { 2 }$ catalyst under the （204 $\\mathrm { H } _ { 2 }$ atmospherel67l. The order may provide insight into the the pretreatment of fresh $\\mathbf { M o S } _ { 2 }$ catalysts under hydrogen conditions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We report a systematical theoretical study on a range of dinuclear metal sulfide clusters: ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n }$ $( n = 4 { \\sim } 8 )$ ). DFT and CCSD(T) calculations were carried out to elucidate the chemical bonding and geometric and electronic properties of ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - / 0 }$ clusters. The calculations showed that the sulfur atoms tended to occupy the terminal sites of the clusters continuously in the processof sequential sulfidation.After the oxidation state of Mo atoms gets the maximum of $+ 6$ ，diverse disulfur ligands emerged in the sulfur-rich （204号 ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - / 0 }$ $( n = 7 , 8 )$ ） clusters. Additionally, by means of calculating the free energy differences $( \\Delta G )$ of the reaction (eq. 1),we found that the values of $\\Delta G$ were positive for the sulfur-deficient and stoichiometric clusters (eq. 2 $; n = 5 , 6$ ), but negative for the sulfur-rich species (Eq. 2; $n = 7 , 8$ ). The driving forces $( - \\Delta G )$ for the reactions eliminating sulfur from diverse S ligands in ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - / 0 }$ $( n = 4 { \\sim } 8 )$ ） clusters followed the general order $\\mathrm { t } - \\mathrm { S } ^ { 2 - } \\ < \\ \\mathrm { b } - \\mathrm { S } _ { 2 } \\mathrm { \\phantom { - } } ^ { 2 - } \\ < \\ \\mathrm { t } - \\mathrm { S } _ { 2 } \\mathrm { \\phantom { - } } ^ { 2 - } \\ < \\ \\mathrm { t } - \\mathrm { S } _ { 2 } \\mathrm { \\phantom { - } } ^ { - }$ .This order may provide insight into the pretreatment of fresh $\\mathbf { M o S } _ { 2 }$ catalysts under $\\mathrm { H } _ { 2 }$ atmosphere. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1）RapprtL;osvichV;nske;dgoLosig;ebcio fullerene-like $\\mathbf { M o S } _ { 2 }$ nanoparticles.Tribol.Lett.2012,45,257-264.   \n(2)Ye,L.N.;Wu, C. Z.; Guo,W.; Xie,Y. $\\mathbf { M o S } _ { 2 }$ hierarchical hollow cubic cages assembled by bilayers: one-step synthesis and their electrochemical hydrogen storage properties.Chem. Commun.2006,45,4738-4740.   \n(3） Walter,MG;WaE.Leo;.X;tE..isaelitv 110, 6446-6473.   \n(4）Kisielowski,C.;Ramasse,Q.M.;ansen,L.P.;Brorson,M.;Carlsson,A.;Molenbroek,A..;Tpse,H;Helveg,S.ging $\\mathbf { M o S } _ { 2 }$ nanocatalysts with single-atom sensitivity.Angew. Chem. Int. Ed.2010,49,2708-2710.   \n(5）Jarame $\\mathrm { H } _ { 2 }$ evolution from $\\mathbf { M o S } _ { 2 }$ nanocatalysts. Science 2007,317,100-102.   \n(6)Vajda,S.; White,M.G.Catalysis aplications of size-selected clusterdeposition.ACSCatal.2015,5,7152-7176.   \n(7）Deng,Y;gLLL;ZgY;eteoasectsolble （20 $( \\mathbf { M o S } _ { x } )$ ）during the electrochemical hydrogen evolution reaction:identification of sulfur atoms ascatalyticallyactive sites for $\\mathrm { H ^ { + } }$ reduction. ACS Catal. 2016,6,7790-7798.   \n(8）Truong,Q.D.;Devaraju,M.K.;Nguyen,D.N.;Gambe,Y;Nayuki,K;Sasaki,Y;Tran,PD.;Honma,IDisulide-bridged $( \\mathbf { M o } _ { 3 } \\mathbf { S } _ { 1 1 } )$ cluster polymer:molecardcsdaioaseecteatealforcargeableagesateyNnoL.168.   \n(9）Kokoc hydrogen evolution in acidic industrial wastewater. Appl. Energ.2017,190,1221-1233.   \n(10）Seger,B.; Herbst,K.; Pedersen,T.; Abrams,B.; Vesborg,P.C.K.; Hansen,O.; Chorkendorff,I. $\\mathrm { M o } _ { 3 } \\mathrm { S } _ { 4 }$ clusters as an effective $\\mathrm { H } _ { 2 }$ evolution catalyst on protected Si photocathodes.J. Electrochem. Soc.2014,161,H722-H724.   \n(11）Vrubel, H.; Merki,D.; Hu,X. Hydrogen evolution catalyzed by ${ \\bf M o S } _ { 3 }$ and $ { \\mathbf { M o S } } _ { 2 }$ particles.Energy Environ. Sci.2012,5,6136-6144.   \n(12）Lau, V.W. H.; Masters,A.F.; Bond,A.M.; Maschmeyer,T.Ionic-liquid-mediated active-site control of $\\mathbf { M o S } _ { 2 }$ for the electrocatalytic hydrogen evolution reaction. Chem. Eur J.2012,18,8230-8239.   \n(13）Guo,X.N.; Tong,X.L.; Wang,Y.W.; Chen,C.M.;Jin,G Q.; Guo,X.Y.High photoelectrocatalyticperformanceofa $\\mathbf { M o S } _ { 2 }$ SiC hybrid structure for hydrogen evolution reaction.J. Mater. Chem. A 2013,1,4657-4661.   \n(14)Liao,L.; Zhu,J.; Bian,X.J.; Zhu,L. N.; Scanlon, M.D.; Girault,H.H.; Liu,B. H. $\\mathbf { M o S } _ { 2 }$ formed on mesoporous graphene as a highly active catalyst for hydrogen evolution.Adv.Funct. Mater. 2013,23,5326-5333.   \n(15）GaryJ.GEodtco   \n(16）LiuDLiZQ.;oX;Zo.Z;Wag,.XIituFudf oeebedotheufaceofulidaaysel 2012, 92, 77-83.   \n(17）Ramos,M.; Berhault, G; Ferer,D.A.; Torres,B.; Chianell,R.R.HRTEMand molecular modeling of the $\\mathrm { M o S } _ { 2 } \\mathrm { - C o } _ { 9 } \\mathrm { S } _ { 8 }$ interface: understanding the promotion effect in bulk HDS catalysts.Catal. Sci. Technol.2012,2,164-178.   \n(18Vge;t sites and HDS activity for Mo and NiMo catalysts.J. Mol.Catal.A: Chem.2009,309,79-88.   \n(19）iVdE into structure and morphology changes of $\\mathbf { M o S } _ { 2 }$ nanoclusters in hydrotreating catalysts.J. Catal.2004,221,510-522.   \n(20）Topse;Vce reactionpatasadspportteractiositeevelopentofhctiitydroteatingcatalysts.Catal.d58.   \n(21）Vogeledoc the role of structural sulfur. Appl. Catal.A: Gen. 2007,318,28-36.   \n(22）esebd RecentTdfdrotreaialssitosticuctualrti Catal. Today 2008,130,86-96.   \n(23）Moses,P.G.；Hinnemann,B.; Topspe,H.; Nprskov,J.K. The effect of copromotion on $\\mathbf { M o S } _ { 2 }$ catalysts for hydrodesulfurization of thiophene:a density functional study.J. Catal.2009,268,201-208.   \n(24）Joshi molecules on $\\mathrm { C o } / \\mathrm { M o } { \\mathrm { S } _ { 2 } }$ ,using DFT calculations.J.Phys. Chem.C 2009,113,9698-9709.   \n(25）Joshi,YVos;Dae,Melgass，Wupporteectsinatalyst:alysisofolysisdrolysisf metal-support inkages.J. Catal.2008,257,71-80.   \n(26）Tatl study.J. Am. Chem. Soc.2002,124,7084-7095.   \n(27）Tope; Edition; Springer-Verlag Berlin Heidelberg: New York 1996.   \n(28）Karunadasa,H.I；Montalvo,E.; Sun,Y.J.； Majda,M.;Long,J.R.; Chang, C.J.A molecular $\\mathbf { M o S } _ { 2 }$ edge site mimic for catalytic hydrogen generation. Science 2012,335,698-702.   \n(29）Kibgdiltali $[ \\mathbf { M o } _ { 3 } \\mathbf { S } _ { 1 3 } ] ^ { 2 - }$ clusters. Nat. Chem. 2014,6,248-253.   \n(30）HuangZJ;J;aLZnDe,F;le;cK;Ge;uJ;KdCL; Asthagiri, A.;Wu,Y. Y. Dimeric $\\mathrm { [ M o } _ { 2 } \\mathrm { S } _ { 1 2 }$ ]²\" cluster: a molecular analogue of $\\mathbf { M o S } _ { 2 }$ edges for superior hydrogen-evolution electrocatalysis. Angew. Chem. Int.Ed.2015,54,15181-15185.   \n(31）Garret,B.R.; Polen,S.M.; Click,K.A.; He,M.; Huang,Z.; Hadad, C.M.; Wu,Y. Tunable molecular $\\mathbf { M o S } _ { 2 }$ edge-site mimics for catalytic hydrogen production. Inorg. Chem.2016,55,3960-3966.   \n(32）Hadjikyriacou,A.I.; Coucouvanis,D.New members of the $[ \\mathbf { M o } _ { 2 } ( \\mathbf { S } ) _ { \\mathrm { n } } ( \\mathbf { S } _ { 2 } ) _ { 6 - \\mathrm { n } } ] ^ { 2 - }$ series - synthesis,structural characterization,and properties of the $[ \\mathrm { M o } _ { 2 } \\mathrm { S } _ { 9 } ] ^ { 2 \\cdot }$ $[ \\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } ] ^ { 2 - }$ ,and $\\mathrm { [ M o } _ { 2 } \\mathrm { S } _ { 6 } ] ^ { 2 - }$ thio anions.Inorg. Chem.1987,26,2400-2408.   \n(33）Pan,W;..brt,;elE.ceealdoocsleutrf $\\mathrm { M o S } _ { 4 } { } ^ { 2 \\cdot }$ to $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 8 } { } ^ { 2 - }$ by organic disulfides. J.Am. Chem. Soc.1984,106,459-460.   \n(34）Clegg, W.; Christou, G.; Garner, C.D.; Sheldrick, G M. $[ \\mathbf { M o } _ { 2 } \\mathbf { S } _ { 1 0 } ] ^ { 2 \\cdot }$ ,a complex with terminal sulfido,bridging sulfido,persuldido,and tetrasulfido groups. Inorg. Chem.1981,20,1562-1566.   \n(35）Pan,W.H.;Leonowicz,M.E.;Stiefel,E.IFacilesythesesofnewmolbdenumandtungstensulfidocomplexes.tructureof $\\mathbf { M o } _ { 3 } \\mathbf { S } _ { 9 } { } ^ { 2 \\cdot }$ . Inorg. Chem. 1983,22,672-678.   \n(36）Elder,R.C.; Trkula, M. Crystal structure of $\\mathrm { [ ( N H _ { 3 } ) _ { 5 } R u S S R u ( N H _ { 3 } ) _ { 5 } ] C l _ { 4 } 2 H _ { 2 } O }$ A structural trans effect and evidence for a supersulfide $S _ { 2 } { ^ { - } }$ bridge. Inorg. Chem.1977,16,1048-1051.   \n(37）York,J.T.；Brown,E.C.；Tolman，W.B.Characterization of a complex comprising a $\\{ \\mathrm { C u } _ { 2 } ( \\mathrm { S } _ { 2 } ) _ { 2 } \\} ^ { 2 + }$ core: $\\mathrm { b i s } ( \\mu { - } \\mathbf { S } _ { 2 } { \\ v { Z } } ^ { 2 - } )$ dicopper(III) or bis(μ-S2)dicopper(II)?Angew. Chem. Int. Ed.2005,44,7745-7748.   \n(38）Yo.dKe dimer with a four-sulfur two-electron bond.J.Am. Chem. Soc.2008,130,13536-13537.   \n(39）Yao,S.; Xiong,Y.; Zhang,X.; Schlangen,M.; Schwarz,H.; Milsmann, C.; DriessM.Facile dissociationof $[ ( \\mathrm { L N i ^ { \\mathrm { I I } } } ) _ { 2 } \\mathrm { E } _ { 2 } ]$ dichalcogenides: evidence for $\\mathrm { [ L N i ^ { n } E _ { 2 } ] }$ superselenides and supertelurides in solution.Angew. Chem. Int. Ed.2009,48,4551-4554.   \n(40）CampCG;t;lo reduction of chalcogens byuranium(II:synthesis of a terminal U(V) persulfide complex. Chem.Sci.2014,5,841-846.   \n(41）JohsoCacittee details of catalytic oxidation reactions.Proc.Natl.Acad.Sci. USA 2008,105,18108-18113.   \n(42）Waters,T;agX;a;WHK;Oi.d.;gLoeoou Keggin anions $\\boldsymbol { a }$ （20 $[ \\mathrm { P M } _ { 1 2 } \\mathrm { O } _ { 4 0 } ] ^ { 3 - }$ $\\mathbf { M } = \\mathbf { M } \\mathbf { o } , \\mathbf { W } ,$ in the gas phase.J.Phys.Chem. A 2006,110,10737-10741.   \n(43）Balaagt4 2336-2354.   \n(44）Castlen,.W.J.steucredeacsgihttatalytcpocCatal.Le.1.   \n(45）Kumar, C.A.; Saha,A.; Raghavachari, K. Bond activationand hydrogen evolution from waterthrough reactions with $ { \\mathbf { M } } _ { 3 }  { \\mathbf { S } } _ { 4 }$ 0 $\\mathbf { M } = \\mathbf { M } \\mathbf { o }$ , W) and $\\mathrm { W } _ { 3 } \\mathrm { S } _ { 3 }$ anionic clusters.J. Phys.Chem. A 2017,121,1760-1767.   \n(46)Castleman,A.W.Jr.;Jena,P.Clusters: abridge betweendisciplines.Proc.Natl.Acad.Sci.USA2006,103,10552-0553.   \n(47）Murugan,P.; Kumar, V.; Kawazoe,Y.; Ota,N.Atomic structures and magnetism in smal $\\mathbf { M o S } _ { 2 }$ and $\\mathrm { \\bf W } { \\bf S } _ { 2 }$ clusters.Phys.Rev. A2005,71,063203-6.   \n(48)Murugan, P.; Kumar, V.; Kawazoe, Y.; Ota,N. Bonding nature and magnetism in smal $\\mathbf { M o X } _ { 2 }$ 0 $\\mathbf { \\boldsymbol { X } } = \\mathbf { \\boldsymbol { O } }$ and S) clusters -a comparative study by first principles calculations.Chem.Phys.Lett.2006,423,202-207.   \n(49）Patterson, M.J.; Lightstone,J.M.; White,M. G. Structure of molybdenum and tungsten sulfide $\\mathbf { M } _ { x } { \\mathbf { S } _ { y } } ^ { + }$ clusters: experiment and DFT calculations. J. Phys. Chem. A 2008,112,12011-12021.   \n(50）Zhou,J.; Zhou,J.; Camillone,N.;White,M.G.Electronic charging of non-metalic clusters: size-selected $\\mathbf { M o } _ { x } \\mathbf { S } _ { y }$ clusters supported on an ultrathin alumina film on NiAl(110).Phys. Chem. Chem.Phys.2012,14,8105-8110.   \n(51）Bertra;t $\\mathbf { M } _ { 4 } \\mathbf { X } _ { 6 }$ 0 $\\mathbf { M } = \\mathbf { W } ,$ Mo, $\\mathbf { \\boldsymbol { X } } = \\mathbf { \\boldsymbol { O } }$ ,S).Chem.Phys.Lett.2004,396,341-345.   \n(52）Llusar,R.; Polo,V.; Velez,E.; Vicent, C.Sulfur-based redox reactions in $\\mathbf { M o } _ { 3 } \\mathbf { S } _ { 7 } { } ^ { 4 + }$ and $\\mathrm { M o } _ { 3 } \\mathrm { S } _ { 4 } { } ^ { 4 + }$ clusters bearing halide and 1,2-dithiolene ligands: a mass spectrometric and density functional theory study. Inorg. Chem. 2010,49,8045-8055.   \n(53）GemmiGteGselussustepaees experiment.Phys. Status Solidi B 2010,247,1069-1076.   \n(54)Jiao,H.J.; Li,Y. W.; Delmon,B.; Halet,J.F.The structure and possiblecatalyticsitesof $\\mathbf { M o } _ { 3 } \\mathbf { S } _ { 9 }$ as a model of amorphous molybdenum trisulfide: a computational study.J.Am. Chem. Soc.2001,123,7334-7339.   \n(5）ahaloKo structures of $\\mathbf { M o } _ { 3 } \\mathbf { X } _ { y } { } ^ { - } ( \\mathbf { X } = \\mathbf { O }$ S and $\\mathbf { y } = 6 , 9$ )clusters.J.Phys.Chem.A2011,115,2291-2296.   \n(56)MurganPaVKeY;OtaNbudfcuaablustedesioe clusters.J. Phys.Chem.A 2007,111,2778-2782.   \n(57）Gemming,S.; Seifert, G; Bertram,N.; Fischer,T.; Gotz,M.; Gantefor, G. One-dimensional $( \\mathbf { M o } _ { 3 } \\mathbf { S } _ { 3 } ) _ { \\mathrm { n } }$ clusters: building blocks of clusters materials and ideal nanowires for molecular electronics. Chem. Phys. Lett 2009,474,127-131.   \n(58）Gemming,S.;Tamuliene,J.;Seifert,G.;Bertram,N.;Kim,Y.D.; Gantefr,GElectronicand geometricstructuresof $\\mathbf { M o } _ { x } \\mathbf { S } _ { y }$ and $\\mathbf { W } _ { x } \\mathbf { S } _ { y }$ $_ y ( x = 1 , 2 , 4 ; y$ $= 1 { \\sim } 1 2 \\rangle$ clusters. Appl.Phys.A2006,82,161-166.   \n(59）Liang,de,Lfradsdituciallatsfosetalsi Chem. A 2002,106,6945-6951.   \n(60）Pietschg;bel.;kE.;eG;O fullerenes.J.Appl.Phys.2015,118,134302-7.   \n(61）Wang,B.; Wu,N.; Zhang,X.B.; Huang,X.; Zhang,Y.F.; Chen,W.K.;Ding,K.N.Probingthe smallestmolecularmodelof $\\mathbf { M o S } _ { 2 }$ catalyst: $\\mathbf { S } _ { 2 }$ units in the $\\mathrm { M o S _ { n } } ^ { - / 0 } \\left( \\mathrm { n } = 1 { \\widetilde { - } } 5 \\right) ,$ clusters.J.Phys.Chem.A2013,117,5632-5641.   \n(62）Wu,N.;Zang,C.F;ZouQ.;Huang,X; Zhang,YF;Ding,K.N.;Wang,.DFsudyontheelectronicandstructuralpropertisf $\\mathbf { M o S } _ { 6 } – { } ^ { \\prime 0 }$ （204号 clusters. Chin.J. Struc.Chem. 2013,32,1046-1054.   \n(63）Wang,B.; Chen,W.J.; Zhao,B.C.; Zhang,Y.F.; Huang,X. Tetratungsten oxide clusters $\\mathrm { W _ { 4 } O _ { n } } ^ { - / 0 } \\left( \\mathrm { n } = 1 0 { \\sim } 1 3 \\right)$ : structural evolution and chemical bonding.J. Phys.Chem. A 2010,114,1964-1972.   \n(64）Zhai,H.J;Wang;uag,X.WangLrobngtheectrocndstructuralpropertisoftobriusterdtso dioxides: $\\mathrm { N b } _ { 3 } \\mathrm { O _ { n } } ^ { - }$ and $\\mathbf { N b } _ { 3 } \\mathbf { O } _ { \\mathrm { n } }$ 0 $\\mathrm { \\ddot { n } } = 0 \\mathrm { \\sim } 2$ ).J.Phys.Chem.A2009,113,3866-3875.   \n(65）ZhaiHJWagagX;WangLrcturaetiotatiodcaloinginataid $\\mathrm { T a } _ { 3 } \\mathrm { O } _ { \\mathrm { n } } { } ^ { - }$ and $\\mathrm { T a } _ { 3 } \\mathrm { O } _ { \\mathrm { n } }$ $\\mathrm { { \\acute { n } = 1 \\sim 8 \\acute { \\prime } } }$ ).J.Phys.Chem.A2009,113,9804-9813.   \n(66）Wang,BZXgudaJ 112, 10962-10967.   \n(67）AfanasievhifueofucingdsufingoditiosoropertiofsupportedbdcatalystsJCatal6 269-280.   \n(68）AfasiCdblege molybdenum sulfides $\\mathbf { M o S } _ { x }$ J. Phys. Chem.C2009,113,4139-4146.   \n(69）Duchet,J.; Van Oers,E.; De Beer,V.; Prins,R.Carbon-supported sulfide catalysts.J.Catal.1983,80,386-402.   \n(70）Becke,A.D.Anew mixingof hartre-fock and localdensity-functional theories.J.Chem.Phys.1993,98,372-1377.   \n(71）LeeCetl 1988, 37, 785-789.   \n(72）Stepes;ohada density functional force fields.J. Phys. Chem. 1994,98,11623-11627.   \n(73）Frisch J.C.Mill,iosi;gea M.;EharaotaKukudaR;eJ;da;jiTdaYaO;aiH;e;i;oE HratchanHoVr; C.;OchteiaKVd;h M.C.FarkasObcciKbl.;d; StefanovB.BGs;so;t.LFoDK;e.;aa A.;ChllcobGoglec Wallingford, CT 2004.   \n(74）Sousa,S.F;Feanes,PA;mos,.J.Geralpeforancefdensityfctioals.J.Ps.Cem.A,049042.   \n(75）Schebeslcealit 1994,100,5829-5835.   \n(76）Weiged,csedsiseriletaedaduetaealitHti assessment of accuracy.Phys.Chem. Chem.Phys.2005,7,3297-3305.   \n（77）EichoKgdeO.isioeasde coulomb potentials. Theor. Chem. Acc.1997,97,119-124.   \n(78）AndraeDaUlrebotead elements.Theor Chim.Acta 1990,77,123-141.   \n(79）Kuchle，W；Dolg，M.；Stoll，H；PreussH.PseudopotentialsoftheStutgart/DresdenGroup1998，revisionAugust1198; http://www.theochem.uni-stuttgart.de/pseudopotentiale.   \n(80）MatinLeostseoieiiie potentials: the atoms Ga-Kr and In-Xe.J. Chem.Phys.2001,114,3408-3420.   \n(81）Digssasissfoeieadoeas.sodro 1989,90,1007-1023.   \n(82）Wo,DEgTHJsea Phys. 1993,98,1358-1371.   \n(83）DingeK.o.seaoXo argon revisited.J. Chem.Phys.2001,114,9244-9253.   \n(84）Prvisrtulubel:t 1910-1918.   \n(85）ScLl) equations.J. Chem.Phys.1988,89,7382-7387.   \n(86）RaghacaiKucsGleA;do.trbasooftoei Lett. 1989,157,479-483.   \n(87）Wtl general single determinantreference functions-energies and analytical gradients.J.Chem.Phys.1993,98,8718-8733.   \n(88）Bartlett,R.J.;Musial,M.Coupled-clustertheoryinquantum chemistry.Rev.Mod.Phys.20o7,79,291-352.   \n(89）Toze,Ddpalasatiaibil. Chem.Phys.1998,109,10180-10189.   \n(90）Wee;osaG Amos,R.D;lEelC Hetzer,G;HeaslC;iuod,WataR.;ichlsS;yeWuraE; ONell MOLPRO,version 2010.1,a package of abinitio programs; see htp://www.molpro.net.   \n(91）Humphrey, W.; Dalke,A.; Schulten,K.VMD: visual molecular dynamics.J. Mol. Graphics.1996,14,33-38.   \n(92）Rienstre,e;d experiments and theoretical computations. Chem. Rev. 2002,102,231-282.   \n(93）Gantefor,GotoelectronSectroopIQuantumenomenainClustersdaostructureserie:SpringerSeriesinusteri Khanna,S.N.; Castleman,A.W.Jr. (Eds.),1stEdition; Springer-Verlag Berlin Heidelberg: New York 2003.   \n(94）Huang,X.; Zhai,H.J.; Kiran,B.; Wang,L. S. Observation of $d$ -orbital aromaticity.Angew.Chem.Int.Ed.2005,44,7251-7254.   \n(95）XieL;LCd $\\mathrm { T a } _ { 2 } \\mathbf { B } _ { x } { \\mathrm { ' } }$ 0 $\\cdot x = 2 \\sim 5$ ).J.Chem.Phys.2013,138,034308-11. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc06164d067d5d88865d030fc037fd28e7b970aed324988f1a9f10aa121107cd.jpg",
+        "table_caption": [
+            "Table 1.Relative Energies of the Low-lying Isomers of the $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } \\mathbf { \\Lambda } ^ { - 1 0 }$ ${ \\bf \\zeta } _ { n } = { \\bf 4 } \\sim { \\bf 8 } { \\bf \\zeta } ,$ Clusters at theB3LYPLevel $( \\Delta E < 0 . 4 0 \\mathrm { e V } )$ ,and Comparisonswith Those from the CCSD(T) Single-point Calculations at the B3LYP Geometries "
+        ],
+        "table_footnote": [
+            "a All energies are in eV.bB3LYP/H-BS. CCSD(T)single-point calculations at the B3LYP/H-BS geometries "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Electronic state</td><td>B3LYPa, b</td><td>CCSD(T)a, c</td></tr><tr><td rowspan=\"2\">M02S4</td><td>(C³A\")</td><td>0.00</td><td>0.07</td></tr><tr><td>(C2v³A2)</td><td>0.04</td><td>0.00</td></tr><tr><td rowspan=\"8\">M02S4-</td><td>(C2v5B1)</td><td>0.15</td><td>0.38</td></tr><tr><td>(C2h5Bg)</td><td>0.21</td><td>0.44</td></tr><tr><td>(C³A\")</td><td>0.30</td><td>0.46</td></tr><tr><td>(C2v1A1)</td><td>0.39</td><td>0.22</td></tr><tr><td>(C2v4B1)</td><td>0.00</td><td>0.00</td></tr><tr><td>(C2h4Bg)</td><td>0.18</td><td>0.17</td></tr><tr><td>(C2v²B1)</td><td>0.34</td><td>0.09</td></tr><tr><td>(Cs1A)</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"2\">Mo2S5-</td><td>(C³A)</td><td>0.17</td><td>0.40</td></tr><tr><td>(C²A)</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"2\">M02S6</td><td>(C2v4A2)</td><td>0.22</td><td>0.41</td></tr><tr><td>(C2v1A1)</td><td>0.00</td><td>-</td></tr><tr><td>Mo2S6-</td><td>(D2h²Ag)</td><td>0.00</td><td>-</td></tr><tr><td>M02S7</td><td>(C2'A)</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"4\">Mo2S7-</td><td>(Cs³A\")</td><td>0.26</td><td>0.40</td></tr><tr><td>(C1'A)</td><td>0.39</td><td>0.45</td></tr><tr><td>(C12A)</td><td>0.00</td><td>0.00</td></tr><tr><td>(C22A)</td><td>0.39</td><td>0.37</td></tr><tr><td>Mo2S8</td><td>(C2v³B2)</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"3\">Mo2S8-</td><td>(C2h³Bu)</td><td>0.20</td><td>0.23</td></tr><tr><td>(C2v²B1)</td><td>0.00</td><td>0.00</td></tr><tr><td>(C2h²Bg)</td><td>0.06</td><td>0.06</td></tr><tr><td></td><td>(C2²A)</td><td>0.11</td><td>0.34</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6c1fbc9ababc6172802847e2afcbd66681a13818ed06c582849720349a5f6dc.jpg",
+        "table_caption": [
+            "Table 2. Vertical Detachment Energies (VDEs) of the Lowest-energy $\\bf M o _ { 2 } S _ { n } { } ^ { - / 0 } \\left( n = 4 \\widetilde { - } 8 \\right)$ ",
+            "Clusters and SelectedLow-lyingIsomer $( \\Delta E < 0 . 4 \\ \\mathrm { e V } )$ at theB3LYPLevel "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>M0b</td><td>VDEab</td><td>MOb</td><td>VDEab</td></tr><tr><td>M02S4</td><td>19a1(α)</td><td>3.39(Tri)</td><td></td><td></td></tr><tr><td>(C2v4B1 0.00 eV)</td><td>13b2(α)</td><td>3.46(Tri)</td><td></td><td></td></tr><tr><td rowspan=\"20\">M02S4 (C2h 4Bg 0.18 eV)</td><td>6a2(a)</td><td>3.63(Tri)</td><td></td><td></td></tr><tr><td>18a1(α)</td><td>4.51(Tri)</td><td>18a1(β)</td><td>3.59(Qui)</td></tr><tr><td>10b1(α)</td><td>4.60(Tri)</td><td>10b1(β)</td><td>4.66(Qui)</td></tr><tr><td>17a(α)</td><td>5.36(Tri)</td><td>17a1(β)</td><td>5.18(Qui)</td></tr><tr><td>5a2(a)</td><td>5.39(Tri)</td><td>12b2(β)</td><td>5.23(Qui)</td></tr><tr><td>12b2(α)</td><td>5.57(Tri)</td><td>5a2(β</td><td>5.32(Qui)</td></tr><tr><td>16a1(α)</td><td>5.76(Tri)</td><td>16a1(β)</td><td>5.65(Qui)</td></tr><tr><td>9au(α)</td><td>3.31(Tri)</td><td></td><td></td></tr><tr><td>17ag(a)</td><td>3.32(Tri)</td><td></td><td></td></tr><tr><td>15b(α)</td><td>3.81(Tri)</td><td></td><td></td></tr><tr><td>16ag(α)</td><td>4.34(Tri)</td><td>16ag(β)</td><td>3.30(Qui)</td></tr><tr><td>7bg(@)</td><td>5.05(Tri)</td><td>7b（β</td><td>4.94(Qui)</td></tr><tr><td>8a(a）</td><td>5.27(Tri)</td><td>8au(β)</td><td>4.94(Qui)</td></tr><tr><td>14b(α)</td><td>5.45(Tri)</td><td>15ag(β）</td><td>5.22(Qui)</td></tr><tr><td>15ag(α)</td><td>5.48(Tri)</td><td>14bu(β)</td><td>5.23(Qui)</td></tr><tr><td>M02S4-</td><td>13b(α)</td><td>5.68(Tri)</td><td></td><td>5.65(Qui)</td></tr><tr><td></td><td>19a1(a)</td><td>3.32(Sin)</td><td>13b(β)</td><td></td></tr><tr><td>(C2v ²B1 0.34 eV)</td><td>11b1(α)</td><td>3.72(Sin)</td><td>19a1(β)</td><td>3.25(Tri)</td></tr><tr><td></td><td>10b1(α)</td><td>4.56(Sin)</td><td>10b1(β)</td><td>4.52(Tri)</td></tr><tr><td></td><td>12b2(α)</td><td>4.90(Sin)</td><td>12b2(β</td><td>4.90(Tri)</td></tr><tr><td></td><td>5a2(a)</td><td>5.07(Sin)</td><td>5a(β)</td><td>5.06(Tri)</td></tr><tr><td></td><td>18a1(α)</td><td>5.23(Sin)</td><td>18a1(β)</td><td>5.12(Tri)</td></tr><tr><td></td><td>17a1(α)</td><td>5.43(Sin)</td><td>17a1(β</td><td>5.36(Tri)</td></tr><tr><td>M02S5</td><td>38a(a)</td><td>3.76(Sin)</td><td></td><td></td></tr><tr><td>(Cs 2A' 0.00 eV)</td><td>37a(a)</td><td>4.50(Sin)</td><td>37a(β)</td><td>4.03(Tri)</td></tr><tr><td></td><td>36a(a)</td><td>4.65(Sin)</td><td>36a(β</td><td>4.50(Tri)</td></tr><tr><td></td><td>17a\"(α)</td><td>4.93(Sin)</td><td>17a\"(β)</td><td>4.93(Tri)</td></tr><tr><td></td><td>16a(α)</td><td>5.43(Sin)</td><td>16a\"(β)</td><td>5.43(Tri)</td></tr><tr><td></td><td>35a(α)</td><td>5.77(Sin)</td><td>35a(β)</td><td>5.65(Tri)</td></tr><tr><td></td><td>34a'(a)</td><td>5.86(Sin)</td><td>34a(β</td><td>5.84(Tri)</td></tr><tr><td>M02S5</td><td>15a(α)</td><td>5.91(Sin)</td><td>15a\"(β)</td><td>5.88(Tri)</td></tr><tr><td>(C2v 4A2 0.22 eV)</td><td>5a2(a)</td><td>3.81(Tri)</td><td></td><td></td></tr><tr><td></td><td>25a1(α)</td><td>4.11(Tri)</td><td></td><td></td></tr><tr><td></td><td>13b1(α)</td><td>4.62(Tri)</td><td></td><td></td></tr><tr><td></td><td>24a1(α)</td><td>4.96(Tri)</td><td>13b1(β)</td><td>4.61(Qui)</td></tr><tr><td></td><td>13b2(α)</td><td>5.22(Tri)</td><td>4a2(β</td><td>5.21(Qui)</td></tr><tr><td></td><td>12b1(α)</td><td>5.74(Tri)</td><td>13b2(β)</td><td>5.21(Qui)</td></tr><tr><td></td><td>12b2(α)</td><td>5.78(Tri)</td><td>12b2(β</td><td>5.73(Qui)</td></tr><tr><td>M02S6</td><td>4a2(α)</td><td>5.93(Tri)</td><td>12b1(β)</td><td>5.77(Qui)</td></tr><tr><td>(D2h 2Ag 0.00 eV)</td><td>15ag(α)</td><td>4.51(Sin)</td><td></td><td></td></tr><tr><td></td><td>10b2m(α)</td><td>4.63(Sin)</td><td>10b2u(β) 4b3g(B</td><td>4.64(Tri) 4.84(Tri)</td></tr><tr><td></td><td>4b3（@) 8b1g（a）</td><td>4.80(Sin) 4.92(Sin)</td><td>8b1g(B)</td><td>4.94(Tri)</td></tr><tr><td></td><td>8b1(a)</td><td>5.44(Sin)</td><td>8b1(β</td><td>5.43(Tri)</td></tr><tr><td>M02S7- (C1 2A 0.00 eV)</td><td>5b2g(@)</td><td>5.98(Sin)</td><td>5b2g(B</td><td>5.98(Tri)</td></tr><tr><td></td><td>71a(α)</td><td></td><td></td><td></td></tr><tr><td></td><td>70a(α)</td><td>4.32(Sin)</td><td>70a(β)</td><td></td></tr><tr><td></td><td>69a(α)</td><td>4.75(Sin) 4.91(Sin)</td><td>69a(β）</td><td>4.26(Tri) 4.81(Tri)</td></tr><tr><td></td><td>68a(α)</td><td>5.00(Sin)</td><td>68a(β)</td><td>4.96(Tri)</td></tr><tr><td></td><td>67a(a)</td><td>5.55(Sin)</td><td>67a(β)</td><td>5.53(Tri)</td></tr><tr><td></td><td></td><td></td><td>66a(β</td><td></td></tr><tr><td>M02S7-</td><td>66a(α) 37a(α)</td><td>5.75(Sin)</td><td></td><td>5.76(Tri)</td></tr><tr><td>(C2 2A 0.39 eV)</td><td>34b(a)</td><td>3.53(Sin) 4.72(Sin)</td><td>34b(β)</td><td>4.68(Tri)</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d02c37dc85b9fb00b5ea7aea82a20aed956b99320960e56c3d10237236400f5.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "a All energies are in eV. b The labels ‘ $\\dot { \\boldsymbol { \\alpha } } ^ { , \\ast }$ and $^ { \\cdot \\cdot } \\beta ^ { \\cdot , }$ denote the majorityand minority spins,whereas Sin,Tri and Qui denote the singlet, triplet and quintet $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } ^ { - / 0 }$ $( n = 4 { \\sim } 8 )$ final states upon photodetachment "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">36a(α) Mo2S8- (C2v ²B1 0.00 eV)</td><td>33b(β)</td><td>4.97(Tri)</td></tr><tr><td rowspan=\"12\"></td><td>33b(α)</td><td>5.06(Sin)</td><td>36a(β)</td><td></td><td>4.99(Tri)</td></tr><tr><td>35a(α)</td><td>5.45(Sin)</td><td>35a(β)</td><td></td><td>5.12(Tri)</td></tr><tr><td>34a(α)</td><td>5.72(Sin)</td><td></td><td>34a(β)</td><td>5.68(Tri)</td></tr><tr><td>32b(α)</td><td>5.91(Sin)</td><td>32b(β)</td><td></td><td>5.89(Tri)</td></tr><tr><td>18b1(a)</td><td>4.42(Sin)</td><td></td><td></td><td></td></tr><tr><td>13a2(α)</td><td>4.49(Sin)</td><td>13a(β)</td><td></td><td>3.58(Tri)</td></tr><tr><td>27a(α)</td><td>4.53(Sin)</td><td></td><td>27a1(β)</td><td>4.52(Tri)</td></tr><tr><td></td><td>17b(α)</td><td>4.80(Sin)</td><td>17b(β)</td><td>4.61(Tri)</td></tr><tr><td></td><td>26a1(a)</td><td>5.38(Sin)</td><td>26a1(β)</td><td>5.23(Tri)</td></tr><tr><td></td><td>16b(α)</td><td>5.39(Sin)</td><td>16b(β)</td><td>5.36(Tri)</td></tr><tr><td>21b2(α)</td><td></td><td>5.76(Sin)</td><td>21b2(β)</td><td>5.70(Tri)</td></tr><tr><td>Mo2S8- (C2h ²Bg 0.06 eV)</td><td>15bg(α)</td><td>4.36(Sin)</td><td></td><td></td></tr><tr><td rowspan=\"10\">Mo2S8</td><td>25ag(α)</td><td>4.42(Sin)</td><td>16au(β)</td><td></td><td>3.73(Tri)</td></tr><tr><td>16au(a)</td><td>4.61(Sin)</td><td>25ag(β)</td><td></td><td>4.43(Tri)</td></tr><tr><td>14bg(α)</td><td>4.73(Sin)</td><td>14bg(β)</td><td></td><td>4.55(Tri)</td></tr><tr><td>23bu(α)</td><td>5.24(Sin)</td><td>23bu(β)</td><td></td><td>5.07(Tri)</td></tr><tr><td>15au(α)</td><td>5.38(Sin)</td><td>15au(β)</td><td></td><td>5.35(Tri)</td></tr><tr><td>24ag(α)</td><td>5.87(Sin)</td><td>24ag(β)</td><td></td><td>5.82(Tri)</td></tr><tr><td>52a(a)</td><td>4.32(Sin)</td><td></td><td></td><td></td></tr><tr><td>51a(α)</td><td>4.63(Sin)</td><td>51a(β)</td><td></td><td>4.24(Tri)</td></tr><tr><td>27a\"(α)</td><td>4.69(Sin)</td><td>50a(β)</td><td></td><td>4.53(Tri)</td></tr><tr><td>50a'(α)</td><td>4.74(Sin)</td><td>27a\"(β)</td><td></td><td>4.65(Tri)</td></tr><tr><td></td><td>26a\"(α)</td><td>5.37(Sin)</td><td>26a\"(β)</td><td></td><td>5.35(Tri)</td></tr><tr><td></td><td>25a\"(a)</td><td>5.75(Sin)</td><td>25a\"(β)</td><td></td><td>5.38(Tri)</td></tr><tr><td></td><td>49a(a)</td><td>5.83(Sin)</td><td>49a(β)</td><td></td><td>5.69(Tri)</td></tr><tr><td></td><td>48a'(α)</td><td>5.98(Sin)</td><td>48a(β)</td><td></td><td>5.90(Tri)</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/59fa85ee5d1e5e81562758ca77d385bb01c503fef4bfcaa927cdb5b489f751b0.jpg",
+        "table_caption": [
+            "Table 3. CalculatedFree EnergyDifferences $( \\Delta G )$ for the ",
+            "Proposed Reaction (Eq.1) at the B3LYP/H-BS Level of Theory "
+        ],
+        "table_footnote": [
+            "a All energies are in kcal·mol-1. b $\\Delta G _ { \\mathrm { a n } }$ and $\\Delta G _ { \\mathrm { n e } }$ represent the $\\Delta G$ of anionic and neutral clusters,respectively. c The labels “t- $. S ^ { 2 - }$ $\\cdots { \\mathrm { b } } - { \\mathrm { S } } _ { 2 } { \\mathrm { } } ^ { 2 - 3 }$ ， $\\cdots _ { \\mathbf { t } - \\mathbf { S } _ { 2 } } – ^ { , \\dag }$ and $ { \\mathrm {  ~ \\tilde { ~ } { ~ t ~ } ~ } }  { \\mathrm { S } } _ { 2 } 2 ^ { 2 - 1 }  { \\mathrm {  ~ \\Omega ~ } }$ denote the sulfur atom losing from the terminal S,bridging $( \\mu _ { 2 } - \\eta ^ { 1 } ; \\eta ^ { 1 } )$ $S _ { 2 } { } ^ { 2 - }$ , terminal $( \\boldsymbol { \\mathsf { \\eta } } ^ { 2 } ) \\mathsf { S } _ { 2 } { } ^ { - }$ and terminal $( \\boldsymbol { \\mathsf { \\eta } } ^ { 2 } ) ^ { . }$ 0 $S _ { 2 } { } ^ { 2 - }$ upon the reduction reaction (Eq. 1). "
+        ],
+        "table_body": "<html><body><table><tr><td>n→n-1</td><td>△Gnea b</td><td>Losing sulfurc</td><td>△Ganab</td><td>Losing sulfurc</td></tr><tr><td>5→4</td><td>30.95</td><td>t-S2-</td><td>39.01</td><td>t-S2-</td></tr><tr><td>6→5</td><td>15.45</td><td>t-S2-</td><td>32.29</td><td>t-S2-</td></tr><tr><td>7→6</td><td>-0.94</td><td>b-S22-</td><td>-12.51</td><td>t-S22</td></tr><tr><td>8→7</td><td>-7.04</td><td>二</td><td>-14.74</td><td>t-S2-</td></tr></table></body></html>",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf6b1bb113e903a8ba5f8a4da4b86d0a6df63b0a513f7b99844765482bcc96b5.jpg",
+        "img_caption": [
+            "Fig.1.Optimized structures for $\\mathbf { M o } 2 \\mathbf { S } _ { 4 }$ and $\\mathbf { M o } 2 \\mathbf { S } _ { 4 } ^ { - }$ The bond lengths are in angstroms (A) "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ce70cb68a8821ac8f3be850c494936c368690c5809a0a0d20a2c59c57f344fe.jpg",
+        "img_caption": [
+            "Fig.2.Optimized structures for $\\mathbf { M o } \\mathbf { S } \\mathbf { 5 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 5 } { } ^ { - }$ . The bond lengths are in angstroms (A) "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/f67a7d92cfd1c4e579aec46a5fee43b6e4a454213e2d5b9d89d2326207dec520.jpg",
+        "img_caption": [
+            "Fig.3.Optimized structures for $\\bf { M o } 2 S _ { 6 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } { } ^ { - }$ .The bond lengths are in angstroms (A) "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/596d56f0a7b44341062764bc5d358c6d1c456374520c37bd47ad24c9875fdd16.jpg",
+        "img_caption": [
+            "Fig. 4. Optimized structures for $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 7 } { } ^ { - }$ .The bond lengths are in angstroms (A) "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/a627e0f5cd7113999f62a8af669856ffd032de65d1ac30197cb97b56a6b3cca9.jpg",
+        "img_caption": [
+            "Fig.5.Optimized structures for Mo2Ss and $\\mathbf { M o 2 S 8 } ^ { - }$ The bond lengths are in angstroms (A) "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c39bfbeb7f028d0231e3bddf7de58ea5bbea2ba644015895d2cfca0c8de9709.jpg",
+        "img_caption": [
+            "Fig.6.(a) Frontier molecular orbitals for the neutral MozS4 ground state (Fig.1b). (b) Frontier molecular orbitals for the anionic $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 4 } ^ { - }$ ground state (Fig. 1g) "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/48aa8e9dff9e97e1a5f3ad1ee86dad8a0f1ce47702239ae801f375148d8eede2.jpg",
+        "img_caption": [
+            "Fig.7.(a)Frontier molecular orbitals for the neutral MozS5 ground state (Fig.2a). (b)Frontier molecular orbitals for the anionic $\\mathbf { M o 2 S 5 } ^ { - }$ ground state (Fig. 2c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d365c94860fb165173bebc91894e57922823958d0fc129ca4993508b933d58d.jpg",
+        "img_caption": [
+            "Fig.8.(a) Frontier molecular orbitals for the neutral $\\mathbf { M o } 2 \\mathbf { S } _ { 6 }$ ground state (Fig. 3a) (b)Frontier molecularorbitals forthe anionic $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { 6 } { } ^ { - }$ ground state (Fig.3b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/4476e525c98880cd6055d677e818228a5bf0b0671ad004abe89a414d5591215a.jpg",
+        "img_caption": [
+            "Fig.9.(a) Frontier molecular orbitals for the neutral MozS7 ground state (Fig.4a). (b) Selected frontier molecular orbitals for the anionic $\\mathbf { M o } 2 \\mathbf { S } \\tau ^ { - }$ ground state (Fig. 4d) "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1a8bfe4cc34771c32145d90641767f9fb9eea9952a1e2b1d6807172af278cd4.jpg",
+        "img_caption": [
+            "Fig.10.(a) Selected frontier molecular orbitals for the neutral $\\mathbf { M o 2 S 8 }$ ground state (Fig. 5a). (b) Selected frontier molecular orbitals for the anionic $\\mathbf { M o 2 S 8 } ^ { - }$ ground state (Fig. 5c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4b7fd58821ea83fceba8e4ec8ed134750e6e1e39bd876d49e668812991dc28f.jpg",
+        "img_caption": [
+            "Fig.ll.Valence bond descriptionsand numerical electron spin density (in lel)for the ground state of $\\mathbf { M o } 2 \\mathbf { S } _ { 8 } \\mathbf { \\Lambda } ^ { - 1 0 }$ clusters.The numerical spin density was shown in parentheses "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/33b4a7300d4f8b4cca31b4764e6f2546a1ac28aa00c7eff5222b0bdac48d5bcd.jpg",
+        "img_caption": [
+            "Fig.12.Simulated photoelectron spectra from the ground states for $\\mathbf { M o } 2 \\mathbf { S } _ { n } \\mathbf { - }$ $\\mathbf { \\Sigma } ( n = 4 \\sim 8 )$ clustersat the B3LYP/H-BS level.The simulations are done by fitting the distribution of calculated VDEs with unit-area Gaussian functions of O.1eV width "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fe5da6fe53f3570dcf6586293386a975af19592713d72542982b19251eae86f.jpg",
+        "img_caption": [
+            "Fig.13.Calculated first vertical detachment energies $\\bf ( V D E _ { 1 s t } )$ 号 of $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } \\mathbf { - } \\left( n = 4 \\widetilde { \\mathbf { \\Gamma } } \\mathbf { 8 } \\right)$ as a function of S content $( \\pmb { n } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Probing Diverse Disulfur Ligands in the $\\mathbf { M o } 2 \\mathbf { S } _ { n } { } ^ { - 1 0 }$ 0 $\\mathbf { \\tilde { \\mu } } _ { n = 4 } \\sim \\mathbf { \\sigma } _ { 8 } \\$ Clusters: Structural Evolution and Chemical Bonding ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiao-Fei(张晓菲） LIU Xiu-Juan(刘秀娟） XURuo-Nan(徐若男)WU Ni(吴妮) HUANG Xin(黄昕) WANG Bin(王彬)",
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/989b5eda3101568a5425a7a514606fa3796d3103830fa78c8d4bdd87f465ba3f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Density functional theory (DFT） and coupled cluster theory (CCSD(T)） calculations were employed to investigate the geometric and electronic structures of a range of dinuclear molybdenum sulfide clusters, ${ \\bf M o } _ { 2 } { \\bf S } _ { n } { } ^ { - }$ and $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n }$ 1 ${ \\mathit { n } } = 4 { \\sim } 8 { \\mathit { \\Gamma } }$ .After the oxidation state ofMo atoms reached the maximum of $^ { + 6 }$ ,diverse disulfur ligands emerged in the sulfur-rich $\\mathbf { M o } _ { 2 } \\mathbf { S } _ { n } ^ { - / 0 }$ （204号 $( n = 7 , 8 )$ clusters. The driving forces of removing a sulfur atom from different S ligands in ${ \\bf M o } _ { 2 } { \\bf S } _ { n } ^ { - / 0 }$ 0 $\\overset { \\cdot } { \\boldsymbol { n } } =$ $\\phantom { 0 } { 4 } \\mathrm { \\sim } 8 \\phantom { . 0 }$ ） clusters, especially from those disulfur units,were evaluated. Vertical detachment energies (VDEs）were predicted,and then the photoelectron spectra (PES）were simulated. Molecular orbital and spin density values were analyzed to elucidate the chemical bonding and the evolutionary behavior in the dinuclear molybdenum sulfide clusters. ",
+        "page_idx": 28
+    }
+]

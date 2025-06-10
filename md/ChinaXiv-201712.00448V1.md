@@ -1,0 +1,179 @@
+# 综述
+
+# 遗传性骨髓衰竭综合征的研究进展
+
+温贤浩，宪莹，于洁，徐酉华重庆医科大学附属儿童医院血液科，重庆400014
+
+摘要：遗传性骨髓衰竭综合征是一组遗传性疾病，虽然它们具有共同的临床特征，但它们也有各自的临床表现，且临床表现多样化,往往容易导致临床误诊或漏诊。虽然这组疾病的临床表现多样化，遗传学改变及基因异常往往是其根源所在，故一旦考虑这组疾病，建议行相关遗传学及基因检测，如果有条件可同时辅助其他检查手段如端粒酶长度等。虽然这组疾病的发病率不高,但随着下一代基因测序检测手段的应用，越来越多的致病基因被发现，也为准确诊断疾病提供了有利帮助。造血十细胞移植往往是根治这组疾病的唯一手段，而造血干细胞移植也有其局限性及治疗相关的风险,需根据病情而定。本文将从疾病的临床特征、遗传学特征、诊断、治疗及预后等方面对这一组疾病进行综述，以便临床医师能更加深人认识这组疾病，并及时进行诊断及治疗。
+
+关键词：遗传性骨髓衰竭综合征;范可尼贫血;先天性角化不良;戴-布二氏贫血、舒-戴二氏综合症
+
+遗传性骨髓衰竭综合征是一组临床表现各异的遗传性疾病，它们具有共同的临床特征：骨髓造血功能衰竭、先天发育异常及发展为恶性疾病的风险高，这组疾病包括范可尼贫血、先天性角化不良、戴-布二氏贫血(DBA）、舒-戴二氏综合症(SDS)等I。虽然该疾病发病率不高，临床表现多样，检测及治疗手段有限，但随着基因检测技术的开展，特别是下一代基因测序检测手段的应用，能帮助临床医师更加深入地认识这组疾病，及时地明确诊断，选择有效的治疗措施，改善病人预后。现就遗传性骨髓衰竭综合征的临床特征、遗传学特征、诊断、治疗及预后进行综述。
+
+# 1范可尼贫血(FA)
+
+# 1.1 临床特征
+
+FA是引起再生障碍性贫血最常见的遗传性因素，FA的患儿通常在生后头10年内发展为AA，并且死于骨髓衰竭的并发症如严重感染或出血[2。FA相关的肿瘤与器官及细胞类型、发病年龄有关。在对1300名FA患者的统计中发现,发病比例最高的是白血病(占 $9 \%$ ，其次是骨髓增生异常综合症(MDS）（占 $7 \%$ ),实体肿瘤（占 $5 \%$ ),肝脏肿瘤（占 $3 \%$ )[3]。研究发现到50岁时FA发展为MDS及急性髓细胞白血病(AML)的累积发病率是 $4 0 \% . 1 0 \% ^ { [ 4 ] }$ 。其他临床表现包括色素沉着、身材矮小、拇指及前臂畸形、骨骼异常、小头或小眼睛、肾脏异常、听力缺陷、心脏疾病、消化功能异常或性腺功能减退等[5]。
+
+# 1.2 遗传学特征
+
+FA是一种少见的常染色体隐性遗传病，目前已发现有19种基因被证实参与FA蛋白的相关功能，这些基因以"FANC"为词根进行命名[。这些FA蛋白的功能是参与DNA的修复，被称为FA途径，其基本功能是维持基因组的完整性。FA蛋白突变参与FA的发病机制，出现相应的临床表现。19种突变基因中，FANCA、FANCC和FANCG基因最常见，这3种突变可在 $8 5 \%$ 的FA患者中检测到， $6 5 \%$ 的FA患者可检测到FANCA基因突变。FANCA大约有200个不同的等位基因，包括几乎所有的已知的突变类型，大片段的缺失是主要的突变类型。 $14 \%$ 的FA患者可检测到FANCC突变，这些突变中，发生在外显子1及内含子4的4322delG、$\mathrm { I V S 4 + 4 A > T }$ 突变是最常见的类型。FANCG突变约占$10 \%$ 。FANCB、FANCD1、FANCD2、FANCE及FANCF突变约共 $1 3 \%$ 。这些突变中只有FANCB基因是X连锁的[7-8]。转化为MDS及AML的FA通常有基因或染色体异常，如7号染色体单体(-7),7号染色体长臂缺失(7q-）、3号染色体长臂增加 $( + 3 \mathrm { q } )$ 、1号染色体长臂增加 $( + 1 \mathrm { { q } ) }$ 。21号染色体异常,包括RUNX1基因突变,在大约 $20 \%$ 的FA伴MDS的患者中可见。其中7号和3q异常的预后不好[9-10]
+
+# 1.3诊断
+
+FA的诊断困难，约 $5 0 \%$ 的患者未能检测到基因突变。端粒酶长度的检查是很好的弥补手段，所以需要结合：体检发现、家族史、骨髓衰竭表现或白血病表现及非常短的端粒酶长度进行诊断[]。
+
+# 1.4治疗及预后
+
+免疫抑制剂治疗是无效的，唯一有效的治愈的方法是异基因造血干细胞移植(同胞或无关供者)。移植的时间很难确定，但专家们建议，理想的时间是接受20次红细胞和/或血小板输注之前，接受雄激素治疗之前，在转化为MDS或急性白血病(AL)之前[12]。为了避免超过这个时间，标危病人（小于18岁，脏器功能好，没有向MDS或AL转化)当存在持续或中重度血细胞减少时中 $\mathrm { \cdot H b { < } 8 \ g / d L }$ ， $\mathrm { A N C } { < } 0 . 5 { \times } 1 0 ^ { 9 } / \mathrm { L }$ . $\mathrm { P L T } { < } 2 0 { \times } 1 0 ^ { 9 } / \mathrm { L }$ 可进行造血干细胞移植。对于那些没有进行造血干细胞移植的患者，需每年复查骨髓，行细胞遗传学评估，及时发现骨髓衰竭表现及时进行移植。对于体细胞嵌合体的FA患者，没有转化为MDS或AL，血细胞计数正常或不正常，但不需要依赖输血或没有感染的风险者，不能行造血干细胞移植。
+
+基于氟达拉滨的预处理方案的移植，2年总生存率可达到 $80 \% { \sim } 9 0 \%$ （同胞全相合供者）， $70 \% { \sim } 8 0 \%$ （全相合无关供者)[13]。移植时已转化为MDS或AML者预后差[14]。最近的一项研究发现序贯化疗联合减强度预处理的移植治疗已有克隆转化的部分病人有较好效果[15]因为该方案有较高的毒副反应，联合化疗这种方案只有在骨髓中异常细胞比例大于 $10 \%$ 时考虑，低于 $10 \%$ 的FA患者参照之前的建议。
+
+没有机会进行造血干细胞移植或等待造血干细胞移植者，可进行替代治疗。替代治疗包括生长因子，如粒细胞集落刺激因子(G-CSF)在严重中性粒细胞减少时[16]。另一种替代治疗是雄激素,但是有相关副反应：蛋白合成障碍、男性化等，有学者用小剂量的雄激素治疗，发现对红系刺激造血效果确定，对粒系及巨核系有效,而男性化的副作用大大降低了[17]。
+
+# 2先天性角化不良(DC)
+
+# 2.1临床特征
+
+DC是在1906年由Zinsser第1次发现，先后在1926、1930年被认为是一种临床综合征，DC的发病率约为 $1 / 1 0 ^ { 6 }$ 活产婴儿[18]。临床表现为皮肤色素沉着、指甲营养不良、口腔黏膜白斑、骨髓衰竭及容易发生肿瘤。特别是鳞状细胞癌及血液系统肿瘤。DC大多发生于男性,并且在5\~12岁时发病[19]。因为遗传学的关系,女性患者很少出现严重临床表现。大约 $90 \%$ 病人表现出指甲营养不良，首先发生在手指甲，然后才是脚指甲。大约 $80 \%$ 的病人出现黏膜白斑，常见为颊粘膜、舌及口咽部黏膜[20]。少见的其他系统异常：如宫内发育迟缓、生长发育迟缓、小头畸形、身材矮小、眼部疾病、性功能减退、肠病、肝病等[21]。骨髓衰竭在20岁以前会发生，$80 \%$ 以上的病人在30岁时会出现骨髓衰竭的表现，这也是导致其死亡的主要原因[22]。肺纤维化及肿瘤是疾病发展过程中最严重的并发症，也容易向恶性肿瘤性疾病发展，如MDS,AML,实体肿瘤（累积发病率分别 $30 \%$ ）
+
+$1 0 \% . 2 0 \%$ )[23]。DC患者在到50岁时发生恶性肿瘤性疾病的累积发病率为 $4 0 \% { \sim } 5 0 \%$ ,包括舌鳞状细胞癌、霍奇金淋巴瘤、胃肠道腺癌、支气管及喉癌。也有骨髓、泌尿生殖系统癌症[24]。
+
+# 2.2遗传学特征
+
+DC的遗传方式可以是X连锁，也可以是常染色体显性或常染色体隐性。目前发现的至少有10种基因突变，如DKC1、TERC、TERT、TINF2、NOP1O、NHP2、TCAB1、C16、f57、RTEL1，但仍有 $30 \% { \sim } 4 0 \%$ 患者未能检测出基因突变[25-26]。DKC1定位于 $\mathrm { X q } 2 8$ ,是最常见的基因突变，大约在 $30 \%$ 的病人可检测到。
+
+# $2 . 3 \mathrm { D C }$ 的诊断
+
+(1)临床表现：至少具备2个主要临床表现，并且至少有2个多系统的临床表现22；(2)突变基因的检测：大约只有 $5 0 \%$ 的病人能检测出阳性基因[23]；(3)端粒酶长度的检测：DNA印迹、实时定量PCR、流式细胞仪、荧光原位杂交。这些方法中，流式细胞仪、荧光原位杂交方法的灵敏度和特异度均较好[27]
+
+# 2.4治疗及预后
+
+免疫治疗是无效的(抗胸腺细胞球蛋白及环孢素)，异基因造血干细胞移植是唯一可治愈伴有骨髓衰竭的DC的手段[]。但移植相关的并发症又使得学者们有不同的观点。从1981\~2009年开始治疗的34个患者，10年的生存率大概是 $30 \%$ ,无关供者或不相合同胞供者、方案的强度是早期死亡的危险因素。全相合同胞供者仍然是首选，不全相合同胞及无关供者移植预后不好[28]。可以观察和等待,给予对症治疗,如G-CSF或雄激素等。大约 $5 0 \% { \sim } 7 0 \%$ 的患者对雄激素有效，但使用雄激素需密切关注其副作用，需检测胆固醇水平，肝脏功能等。使用雄激素者需避免使用集落刺激因子如G-CSF或促红细胞生成素，有可能会出现脾出血或脾破裂[29]。
+
+DC的预后差异性大，可在婴儿期死于骨髓衰竭，也可存活至70岁。主要的死亡原因是骨髓衰竭、肿瘤、肺纤维化。骨髓衰竭随着时间的推移而发生， $80 \%$ 以上的病人在30岁时已发生骨髓衰竭。肿瘤(造血系统及非造血系统)通常在生后的30年后发生，最常见的实体肿瘤是头颈部鳞状细胞癌[23]
+
+# 3 DBA
+
+# 3.1 临床特征
+
+DBA是在1936年第1次由Josephs报道[30],在1938年由Diamond和Blackfan将其分类为先天发育不良所导致贫血。在北美国家统计的发病率为 $5 { \sim } 7 / 1 0 ^ { 6 }$ 活产婴儿。任何年龄可以发病，但是最多在生后1年内诊断，至少 $10 \%$ 在出生时， $2 5 \%$ 在生后1月内诊断。约 $5 0 \%$ 有体格畸形，包括面容畸形，身材矮小，眼晴，肾脏，和手畸形。表现为巨幼细胞性贫血，网织红细胞减少，有些病人有中性粒细胞减少、血小板增多或血小板减少[31-32]其他非特异性的表现，如胎儿血红蛋白、红细胞抗原、铁、叶酸及VitB12水平升高。DBA患者的长期生存质量与其治疗相关副反应及恶性疾病的发生有关[33]。血液系统肿瘤性疾病是主要的死亡原因，在整个生命周期中，DBA患者发生AML的累积发病率为 $2 5 \%$ 。急性淋巴细胞白血病、霍奇金淋巴瘤、MDS也有发生[34]
+
+# 3.2 遗传学特征
+
+DBA是人类第1种核糖体合成异常所致疾病，核糖体S19蛋白合成异常。目前发现的DBA相关基因有10\~15种， $5 0 \% { \sim } 7 0 \%$ 的DBA可检测到突变基因编码的蛋白质表达。基因的突变类型大于200种，故DBA的临床表现多样化。最早发现，最多见的是RPS19基因[35-36]DBA的基因型与表现型有关，相对于S19基因型，L5基因型容易发生唇、腭畸形，L11基因型容易发生拇指畸形[37-38] ○
+
+# 3.3治疗及预后
+
+激素是一线治疗药物， $80 \%$ 的DBA有效，对激素耐药或复发或有其他血细胞减少时，可考虑造血干细胞移植。泼尼松是一线治疗药物，激素治疗的目标是维持血红蛋白大于 $1 0 0 ~ \mathrm { g / L }$ ,泼尼松的初始剂量为 $2 \mathrm { m g / ( k g \cdot d ) }$ 有效后逐渐减量。 $80 \%$ 的病人初期对激素是有效的，但有 $5 0 \%$ 为激素依赖，只有 $20 \%$ 能获得持续缓解。激素无效或不能耐受激素治疗的，需依靠输血治疗。长期输血可导致铁负荷过载,需进行去铁治疗。其他还有雄激素等治疗。
+
+值得关注的是，DBA在目前的治疗措施下向MDS及AML转化的几率低。对于激素治疗无效、克隆性转化、发生再生障碍性贫血(很少见）、对激素有效但治疗剂量需大于 $0 . 3 ~ \mathrm { m g / ( k g \cdot d ) }$ ,建议使用全相合的亲缘供者进行造血干细胞移植。全相合的同胞供者移植5年总生存率可达到 $80 \%$ ，供者需检查除外DBA隐性表现型[40]
+
+# 4 SDS
+
+# 4.1临床特征
+
+SDS 是由 Shwachman于1964首次报道[41]。据报道，在遗传性骨髓衰竭性疾病中，SDS的发生率仅次于范可尼贫血及DBA，西方国家统计的发病率大约为1/$1 0 ^ { 5 }$ (1200 000 活产婴儿中)[42]。SDS可出现多系统受累的病变，主要表现为胰腺外分泌功能不全、骨髓功能衰竭、先天发育异常及易转化为MDS或白血病，特别是AML[]，除此之外，生长发育、心脏、肝脏、中枢神经系统、骨骼、免疫系统也可受累[43]。
+
+SDS有转化为MDS或AML的可能，但是中位转化时间及转化率是有差异的。且SDS转化的几率较范可尼贫血低，潜伏期长于范可尼贫血。SDS转化为MDS或AML的机制尚不清楚，大多报道与骨髓细胞的异常克隆性改变有关，特别是7号染色体的缺失、单倍体等[44]。
+
+# 4.2遗传学特征
+
+SDS是罕见的常染色体隐性遗传性疾病，其发病与双等位基因SBDS基因突变有关。超过 $90 \%$ 的SDS病人有SBDS基因突变，最常见的突变类型是 $2 5 8 { + } 2 \mathrm { T } { > } \mathrm { C }$ 其次是 $1 8 3 - 1 8 4 \mathrm { T A } > \mathrm { C T } \ : , 2 5 + 2 \mathrm { T } > \mathrm { C }$ 与 $1 8 3 - 1 8 4 \mathrm { T } ^ { [ 4 5 ] }$ 。SDS患者最常见的染色体异常是7号及20q的缺失，具有等臂7号染色体的SDS患者不会发展为AML[46]
+
+# 4.3治疗及预后
+
+对于SBDS的中性粒细胞减少，除了造血干细胞移植外，没有确定有效的办法;胰腺外分泌功能不全，可以使用外源性胰腺酶。其他的对症治疗，如输血。对于那些间断或持续性中性粒细胞减少的患者，可考虑使用G-CSF。但是有数据显示G-CSF可以增加髓细胞向MDS或AML恶性转化的几率，在没有反复或严重感染的患者，禁用 $\mathrm { { \bf G } } { \mathrm { - } } \mathrm { C S F } ^ { [ 4 7 ] }$
+
+移植是唯一能治愈的手段。适应症：严重的中性粒细胞减少，需要输血进行支持，和/或MDS、白血病的转化。虽然机制不清楚，但SDS患者使用较强的预处理方案后容易发生严重毒副反应，移植相关死亡率高达 $30 \%$ ${ \sim } 4 0 \% ^ { [ 4 8 ] }$ 。转化为白血病或MDS后预后差,同时也有较高的移植相关死亡率及复发率[49]
+
+# 5严重先天性中性粒细胞减少(SCN)
+
+# 5.1临床特征
+
+SCN表现为婴儿期就出现严重的危及生命的感染，并且中性粒细胞的绝对计数小于500至少3个月。除了危及生命的严重感染外，主要的并发症就是克隆转变(AML及MDS),约占 $10 \%$ 的病人[50]。
+
+# 5.2遗传学特征
+
+SCN与一些基因突变有关，最常见的是ELANE及SBDS,其他还有HAX1、G6PC3、WASP、VPS45、GA-TA2及GFi1。ELANE基因的杂合突变在 $30 \%$ 的SCN中可以检测到。有ELANE基因突变的SCN到40岁时转化为MDS及AML的几率为 $3 0 \% ^ { [ 5 1 ] }$
+
+# 5.3治疗及预后
+
+G-CSF的应用从根本上改善了SCN的预后，但是长期使用G-CSF有发生MDS/AML的危险。对于有G-CSF耐药及有克隆性变化的病人，移植仍是唯一治愈的方法。以下情况时需考虑移植：G-CSF耐药 $2 0 ~ \mu \varrho /$ $( \mathrm { k g \cdot d } )$ 使用1个月以上，中性粒细胞仍不正常，即使没有感染及克隆性改变[52；长期依赖G-CSF的患者，每年使用3个月以上，用量大于 $1 0 ~ \mathrm { \mu g / ( k g \cdot d ) }$ ,可能有发生克隆改变潜在风险者;或者是反复细菌感染者采用同胞相合的供者移植45；GATA2突变目前证实可引起轻微的中性粒细胞减少，通常转化为白血病的几率较高，且化疗效果差,故建议有合适供者时要考虑移植[53]。对于没有恶性转化者，总生存率及无病生存率可达到 $89 \%$ $. 7 5 \%$ ，有恶性转化者移植的效果不好[54]
+
+# 6先天性血小板减少症
+
+# 6.1无巨核细胞性血小板减少症
+
+无巨核细胞性血小板减少症可有不同程度的发育缺陷，包括小头畸形、低出生体质量，延迟，心脏缺陷，中枢神经系统缺陷，骨骼异常。大多数患者表现为血小板减少症但骨髓中未见巨核细胞。 $40 \%$ 的患者可发展为全血细胞减少，但时间差异很大，也有发展为白血病的危险。该病为常染色体隐性或X连锁遗传。已知的基因包括MPL、RUNX1、ANKRD26、MYH9及PTPN1,最常见的是MPL。MPL基因编码血小板生成素受体，是常染色体隐性遗传。严重的患者可在2\~5岁前就出现全血细胞减少、再生障碍性贫血及白血病[55-56]。
+
+激素治疗有效，造血干细胞移植是唯一可治愈的手段，但是移植相关的报道很少或仅是个案报道。有严重的单纯血小板减少或全血细胞减少或克隆性转化是可考虑移植。在一项对63人试验中发现,移植失败是主要的问题，63人中有11人进行了2次移植，6例进行了3次移植[57]。
+
+# 6.2桡骨发育不全-血小板减少综合征
+
+桡骨发育不全-血小板减少综合征是常染色体隐性遗传病，主要表现为从出生开始到生后4个月期间就出现血小板减少，骨髓巨核细胞缺乏，在新生儿期可出现类白血病反应。但是新生儿期后，血小板计数会逐渐上升，到1岁过后会好转。新生儿期需要输血小板，没有其他有效的治疗方法[58-59]。
+
+综上所述，遗传性骨髓衰竭综合征的临床表现多样，具有各自的遗传学特征，预后也有所不同。当临床表现有先天发育异常、骨髓造血功能衰竭或已经发展为恶性肿瘤性疾病时，需要尽早进行相关基因及染色体的检查，同时结合其家族史或辅助其他检查方法，以便及时进行诊断及治疗。
+
+# 参考文献：
+
+[1]Sakaguchi H,Nakanishi K,Kojima S.Inherited bone marrow failure syndromes in 2012[J].Int JHematol, 2013,97(1): 20-9.   
+[2]Andrea AD,Grompe M. The Fanconi anaemia/BRCA pathway [J] Nat Rev Cancer,1994,3(1): 51-2.   
+[3]Alter BP.Cancer in fanconi anemia[J].Cancer,2003,97(2): 425-40.   
+[4]Alter BP,Giri N,Savage SA,et al. Malignancies and survival patterns in the National Cancer Institute inherited bone marrow failure syndromes cohort study[J].Br JHaematol,2O10,150(2): 179-88.   
+[5]Joenje H,Patel KJ.The emerging genetic and molecular basis of fanconi anaemia[J].Nat Rev Genet,2001,2(6): 446-57.   
+[6]Dong H,Nebert DW,Bruford EA,et al.Update of the human and mouse fanconi anemia genes[J]. Human Genomics,2015,9(1): 32-6.   
+[7]Schneider M,Chandler K,Tischkowitz M,et al. Fanconi anaemia: genetics,molecular biology,and cancer-implicationsfor clinical management in children and adults [J]. Clin Genet,2014,88(1): 13-24.   
+[8] Solomon PJ,Margaret P,Rajendran R,et al.A case report and literature review of Fanconi Anemia(FA） diagnosed by genetic testing[J].Ital JPediatr,2015,4(1): 38-43.   
+[9]Quentin S,Cuccuini W, Ceccaldi R,et al. Myelodysplasia and leukemia of fanconi anemia are associated with a specific pattern of genomic abnormalities that includes cryptic RUNX1/AML1 lesions [J]. Blood,2011,117(15): e161-70.   
+[10]Mehta PA,Harris RE,Davies SM,et al. Numerical chromosomal changesandriskofdevelopmentofmyelodysplastic syndrome-acute myeloid leukemia in patients with fanconi anemia [J].Cancer Genet Cytogenet, 2010,203(2): 180-6.   
+[11] Chirnomas SD,Kupfer GM. The inherited bone marrow failure syndromes[J].Pediatr Clin North Am,2013,60(6): 1291-5.   
+[12]Macmillan ML,Wagner JE.Haematopoeitic cell transplantation for fanconi anaemia-when and how[J].Br JHaematol,201o,149(1): 14-21.   
+[13]BenajibaL,Salvado C,Dalle J,et al.HLA-matched related-donor HSCTinfanconianemiapatientsconditionedwith cyclophosphamide and fludarabine[J].Blood,2015,125(2): 417-8   
+[14]Mitchell R，Wagner JE,Hirsch B,et al．Haematopoietic cell transplantation for acute leukaemia and advanced myelodysplastic syndrome in fanconi anaemia[J].Br J Haematol,2014,164(3): 384-95.   
+[15] Talbot A,de Latour RP, Raffoux EA,et al. Sequential treatment for allgeneic hematopoietic stem cell transplantation in fanconi anemia with acute myeloid leukemia[J]. Haematologica,2014,99 (10): E199-200.   
+[16] Donahue RE,Tuschong L，Bauer J,et al. Leukocyte integrin activationmediatestransientneutropeniaafterG-CSF administration[J]. Blood,2011,118(15): 4209-14.   
+[17]Rose SR,Kim MO,Korbee L,et al. Oxandrolone for the treatment of bone marrow failure in fanconi anemia[J]. Pediatr Blood Cancer, 2014,61(1): 11-9.   
+[18]Fernandez MS，Teruya FJ.The diagnosis and treatment of dyskeratosis congenita:a review[J]. JBlood Med, 2014(5): 157-67.   
+[19] Sinha S,Trivedi V,Krishna A,et al.Dyskeratosis congenital management and review of complications:a case report[J]. Oman Med J,2013,28(4): 281-4.   
+[21] Karunakaran A,Ravindran R，Arshad M,et al. Dyskeratosis congenita:a report of two cases[J]. Case Rep Dent,2013,12(8): 125-31.   
+[21] Nelson ND, Bertuch AA.Dyskeratosis congenita as a disorder of telomere maintenance[J].Mutat Res,2012,730(2): 43-51.   
+[22]Dokal I. Dyskeratosis congenita[J]. Hematology Am Soc Hematol Educ Program,2011,17(2): 480-6.   
+[23]Dokal I, Vuliamy T,Mason P,et al. Clinical utility gene card for: dyskeratosis congenita[J]. Eur JHum Genet,2011,19(11): 1-11.   
+[24]Parry EM,Alder JK,Lee SS,et al. Decreased dyskerin levels as a mechanism of telomereshortening in X-linked dyskeratosis congenita[J]. JMed Genet,2011,48(5): 327-33.   
+[25] NishioN, Kojima S.Recent progess in dyskeratosis congenita[J]. Int JHematol,2010,92(3): 419-24.   
+[26] Islam A,Rafiq S,Kirwan M,et al. Haematological recovery in dyskeratosis congenita patients treated with danazol[J].BrJ Haematol,2013,162(6): 854-6.   
+[27]Ballew BJ,Yeager M,Jacobs K,et al.Germline mutations of regulator of telomere elongation helicase 1,RTEL1,in Dyskeratosis congenita[J]. Hum Genet,2013,132(4): 473-80.   
+[28] Gadalla SM, Sales BC,Carreras J,et al. Outcomes of allogeneic hemato-poietic cell transplantation in patients with dyskeratosis congenita[J].Biol Blood Marrow Transplant,2013,19(8):1238-43.   
+[29] Savage SA,Bertuch AA. The genetics and clinical manifestations of telomere biology disorders[J].Genet Med,2010,12(12): 753-64.   
+[30] Josephs HW.Anaemia of infancy and early childhood[J]. Medicine, 1936,15(8): 307-10.   
+[31] Horos R,von Lindern M. Molecular mechanisms of pathology and treatment in diamond blackfan anaemia[J].Br JHaematol,2012, 159(5): 514-27.   
+[32] Willig TN,Gazda H, Sieff CA. Diamond-blackfan anemia[J]. Curr Opin Hemato,2000,7(2): 85-94.   
+[33] Janov AJ,Leong T,Nathan DG,et al. Diamond-blackfan anemia [J].Natural history and sequelae of treatment [J].Medicine (Baltimore),1996,75(2): 77-8.   
+[34]van Dijken PJ，VerwijsW.Diamond-blackfananemiaand malignancy: a case report and a review of the literature[J]. Cancer, 1995, 76(3): 517-20.   
+[35]Gerrard G,Valganon M,Foong HE,et al. Target enrichment and High-Throughput sequencing of 80 ribosomal protein genes to identify mutations associated with Diamond-blackfan anaemia[J]. Br JHaematol,2012,120(21): 530-6.   
+[36]Boria I,Garelli E,Gazda HT,et al.The ribosomal basis of Diamond-blackfan anemia: mutation and database update[J].Hum Mutat, 2010,31(12): 1269-79.   
+[37] Gazda HT, Sheen MR,Vlachos A,et al. Ribosomal protein L5 and L11 mutations are associated with cleft palate and abnormal thumbs in Diamond-Blackfan anemia patients[J].Am JHum Genet, 2008, 83(6): 769-80.   
+[38]Quarello P, Gareli E,Carando A,et al.Diamond-blackfan anemia: genotype-phenotype correlations in Italian patients with RPL5 and RPL11 mutations[J]. Haematologica, 2010,95(2): 206-13.   
+[39]Muaishima H, Ohga S,Ohara A,et al. Hematopoietic stem cell transplantation for Diamond-blackfan anemia:a report from the aplastic anemia committee of the Japanese society of pediatric hematology[J].Pediatr Transplant,2007,11(6): 601-7.   
+[40]Peffault LR,Peters C,Gibson B,et al.Recommendations on hematopoietic stem cell transplantation for inherited bone marrow failure syndromes[J].Bone Marrow Transplant，2O15,50(9): 1168-72.   
+[41] Shwachman H, Diamond LK,Oski F,et al. The syndrome of pancreatic insufficiency and bone marrow dysfunction[J]. J Pediatr, 1964,65(8): 645-63.   
+[42] Kawakami T,Mitsui T,Kanai M,etal.Genetic analysisof Shwachman-Diamond syndrome:Phenotypic heterogeneityin patients carrying identical SBDS mutations [J].JExp Med,2005, 206(3): 253-9.   
+[43]Dall'oca C,Bondi M,Merlini M,et al. Shwachman-diamond syndrome[J]. Musculoskelet Surg,2012,96(2): 81-8.   
+[44]Dror Y. Shwachman-Diamond syndrome(review)[J].Pediatric Blood Cancer,2005,45(7): 892-901.   
+[45]Donadieu J,Leblanc T,Bader MB,et al.Analysis of risk factors for myelodysplasias,leukemiasand death from infectionamong patients with congenital neutropenia［J].Haematologica, 2005，90 (1): 45-53.   
+[46]Minelli A,Maserati E,Nicolis E,et al. The isochromosome i(7) (q10)carrying c.258p2t>c mutation of the SBDS gene does not promote development of myeloid malignancies in patients with Shwachman syndrome[J].Leukemia, 2009,23(4):708-11.   
+[47]Bizzetto R,Bonfim C,Rocha V,et al. Outcomes after related and unrelated umbilical cord blood transplantation for hereditary bone marrowfailuresyndromesotherthan Fanconi anemia [J]. Haematologica,2011,96(1): 134-41.   
+[48] Cesaro S, Oneto R,Messina C,et al. Haematopoietic stem cell transplantation for Shwachman-Diamond disease:a study from the European Group for blood and marrow transplantation[J]. Br J Haematol, 2005,131(2): 231-6.   
+[49]Donadieu J,Michel G,Merlin E,et al.Hematopoietic stem cell transplantation for Shwachman-diamond syndrome: experience of the French neutropenia registry[J].Bone Marrow Transplant,2005, 36(9): 787-92.   
+[50]Bonilla M,Gillio AP,Ruggeiro M,et al.Effects of recombinant human granulocyte colony-stimulating factor onneutropenia in patients with congenital agranulocytosis[J].N Engl J Med,1989, 320(2): 1574-80.   
+[51]Boztug K，Klein C.Genetic etiologies of severe congenital neutropenia[J]. Curr Opin Pediatr,2011,23(1): 21-6.   
+[52]Ferry C,Ouachee M,Leblanc T,et al. Hematopoietic stem cell transplantation in severe congenital neutropenia:experience of the French SCN register[J].Bone Marrow Transplant,2O05,35(1): 45-50.   
+[53] Pasquet M,Bellanne C,Tavitian S,et al. High frequency of GATA2 mutations in patients with mild chronic neutropenia evolving to MonoMac syndrome,myelodysplasia,and acute myeloid leukemia [J].Blood,2013,121(5): 822-9.   
+[54] Connelly JA,Choi SW,Levine JE.Hematopoietic stem cell transplantation for severe congenital neutropenia[J].Curr Opin Hematol,2012,19(1): 44-51.   
+[55]Ballmaier M,Germeshausen M. Congenital amegakaryocytic thrombocytopenia: clinical presentation,diagnosis and treatment[J]. Semin Thromb Hemost,2011,37(6): 673-81.   
+[56] Stoddart MT, Connor P,Germeshausen MA,et al. Congenital amegakaryocytic thrombocytopenia (CAMT） presenting as severe pancytopenia in the first month ofLife[J].Pediatr Blood Cancer, 2013, 60(9): E94-6.   
+[57]Fahd M,Dalissier A,Alahmari AA,et al. Allogeneic stem cell transplantation in amegacaryocytosis:resultsof a retrospective study in EBMT centers[J]. Oral presentation,2014,30(4): 156-63.   
+[58]Fadoo Z,Naqvi SM. Acute myeloid leukemia in a patient with thrombocytopeniawith absent radii syndrome[J].JPediatr Hematol Oncol,2002,24(2): 134-5.   
+[59]Go RS,Johnston KL.Acute myelogenous leukemia in an adult with thrombocytopenia with absent radii syndrome [J].Eur J Haematol,2003,70(4): 246-8.

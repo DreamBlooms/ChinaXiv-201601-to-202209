@@ -1,0 +1,344 @@
+[
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7\\~12周龄京红商品代蛋鸡饲粮含硫氨基酸需要量的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "索菲娅 梁中军\\*马秋刚\\*\\* 张建云 赵丽红 计成（中国农业大学动物科技学院，动物营养国家重点实验室，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验通过研究不同含硫氨基酸水平对京红商品代蛋鸡7\\~12周龄生长性能和血清生化指标的影响，以确定其含硫氨基酸的需要量。选取6周龄末体重、胫长均匀一致的京红商品代蛋鸡 750只，随机分为5组，每组5个重复，每个重复30只鸡。对照（A）组饲喂含硫氨基酸水平为 $0 . 4 2 \\%$ 的基础饲粮，试验B、C、D和E 组在基础饲粮水平上用 $0 . 0 8 \\% 0 . 1 6 \\% 0 . 2 4 \\%$ 和 $0 . 3 2 \\%$ 的蛋氨酸替代等量的膨润土，使其含硫氨基酸水平分别达到 $0 . 5 0 \\% 0 . 5 8 \\%$ 、$0 . 6 6 \\%$ 和 $0 . 7 4 \\%$ ，试验期6周。结果表明：1） $0 . 5 8 \\%$ 、 $0 . 6 6 \\%$ 、 $0 . 7 4 \\%$ 含硫氨基酸组蛋鸡末体重和平均日增重显著高于 $0 . 4 2 \\%$ 与 $0 . 5 0 \\%$ 含硫氨基酸组（ $( P { < } 0 . 0 5 )$ ，同时 $0 . 6 6 \\%$ 含硫氨基酸组料重比显著低于 $0 . 5 0 \\%$ 含硫氨基酸组（ $_ { , P < 0 . 0 5 ) }$ ，且蛋鸡血清总蛋白、球蛋白含量也显著高于其他试验组（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ )。2）单斜率非线性折线回归分析表明，以末体重和平均日增重为指标， $7 { \\sim } 1 2$ 周龄京红商品代蛋鸡含硫氨基酸推荐需要量为 $0 . 6 2 \\%$ 。综上， $_ { 7 \\sim 1 2 }$ 周龄京红商品代蛋鸡饲粮含硫氨基酸需要量为 $0 . 6 2 { \\sim } 0 . 6 6 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：京红商品代蛋鸡；含硫氨基酸；生长性能；血清生化指标；需要量",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S831.5",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "京红蛋鸡是我国自主培育的褐壳蛋鸡品种，具有开产早、适应性强、产蛋量高和耗料低等特点。另外，在家禽饲粮中，含硫氨基酸作为主要的限制性氨基酸，参与蛋鸡体内胆碱、肌酸等物质合成，还广泛参与机体免疫、解毒护肝、甲基转移与抗球虫病等多种生理功能[1]。蛋鸡在7\\~12 周龄主要是骨骼和肌肉的发育，该阶段直接影响蛋鸡后期的生产性能。目前，国内外关于蛋鸡7\\~12周龄含硫氨基酸需要量有了一定的报道。D'Agostini等[2研究证明，罗曼粉和罗曼褐蛋鸡7\\~12 周龄总蛋氨酸 $+$ 半胱氨酸需要量分别为 $0 . 7 1 0 \\%$ （可消化蛋氨酸 $+$ 半胱氨酸水平为 $0 . 6 3 9 \\%$ ）和$0 . 7 0 6 \\%$ （可消化蛋氨酸 $+$ 半胱氨酸水平为 $0 . 6 3 5 \\%$ )。陈祥林等[3]建议 $_ { 7 \\sim 1 2 }$ 周龄岑溪三黄鸡的含硫氨基酸需要量为$0 . 5 5 \\%$ 。但是由于京红蛋鸡品种特性和国外蛋鸡品种有较大差别，其营养需要量也存在一定差异，仍参考海兰褐、罗曼、尼克、伊莎褐等蛋鸡的营养标准配制饲粮，会造成饲料资源的浪费或无法获得最大经济效益。因此，本试验旨在研究饲粮不同含硫氨基酸水平对7\\~12 周龄京红商品代蛋鸡生长性能和血清生化指标的影响，估计其含硫氨基酸的需要量，为京红商品代蛋鸡饲养标准的制定提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "试验选取6周龄末体重、胫长均匀一致的京红商品代蛋鸡750只，采用单因素试验设计，随机分为5组，每组5个重复，每个重复30只鸡。对照（A）组饲喂含硫氨基酸水平为 $0 . 4 2 \\%$ 的基础饲粮（表1)，其他必须氨基酸水平（除含硫氨基酸外）根据析因法得到的净需要量和饲粮氨基酸的利用率确定，其他营养指标均满足NY/T33—2004的要求。试验B、C、D和E 组在基础饲粮水平上用 $0 . 0 8 \\%$ 、 $0 . 1 6 \\%$ 、 $0 . 2 4 \\%$ 和 $0 . 3 2 \\%$ 的蛋氨酸替代等量的膨润土，使其含硫氨基酸水平分别达到 $0 . 5 0 \\%$ 、 $0 . 5 8 \\%$ 、 $0 . 6 6 \\%$ 和 $0 . 7 4 \\%$ 。采用封闭式鸡舍3层全阶梯式笼养，鸡舍温度保持在 $1 8 { \\sim } 2 7 \\ \\ \\mathrm { ~ \\textdegree ~ }$ ，纵向负压通风。干粉料自由采食，每天饲喂2次，喂料时根据鸡的采食情况适当增减料，以刺激蛋鸡食欲，乳头式饮水器自由饮水，按照《京红商品代蛋鸡饲养手册》管理，试验期6周。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9fcef4b74f1322a3e640b1fe57dbd431e685fe908fab6d16aed31c1eef20b29.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平(风干基础) ",
+            "Table 1Composition and nutrient levels of the basal diet (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels4)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>67.51</td><td>粗蛋白质CP</td><td>16.51</td></tr><tr><td>小麦麸 Wheat bran</td><td>5.00</td><td>代谢能 ME/(MJ/kg)</td><td>11.72</td></tr><tr><td>豆粕 Soybean meal</td><td>23.50</td><td>钙Ca</td><td>0.89</td></tr><tr><td>石粉 Limestone</td><td>1.20</td><td>总磷TP</td><td>0.64</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.50</td><td>非植酸磷 NPP</td><td>0.39</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>蛋氨酸Met</td><td>0.21</td></tr><tr><td>金霉素 Chlortetracycline（15%）</td><td>0.06</td><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.42</td></tr><tr><td>赖氨酸Lys (65%)</td><td>0.07</td><td>赖氨酸Lys</td><td>0.85</td></tr><tr><td>膨润土 Bentonite</td><td>0.32</td><td>色氨酸Trp</td><td>0.18</td></tr><tr><td>苏氨酸Thr</td><td>0.05</td><td>苏氨酸Thr</td><td>0.66</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.04</td><td></td><td></td></tr><tr><td>微量元素预混料 Trace element premix2)</td><td>0.30</td><td></td><td></td></tr><tr><td>霉菌毒素降解剂 Mycotoxin degradation product)</td><td>0.05</td><td></td><td></td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.10</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1维生素预混料为每千克饲粮提供Vitamin premix providedthefollowing perkgofthediet:VA800IU,VD3360IU,VE21IU，VK3$4 . 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 3 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 1 0 . 2 \\mathrm { m g }$ ，叶酸 folic acid $0 . 9 \\mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 5 \\mathrm { m g }$ ，烟酸 nicotinic acid $4 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 5 . 4 \\mathrm { m g } , \\mathrm { V B } _ { 1 2 }$ （204号$2 4 ~ { \\mu \\mathrm { g } }$ ，生物素biotin $1 5 0 ~ { \\mu \\mathrm { g } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)微量元素预混料为每千克饲粮提供Trace element premix provided the following per $\\mathbf { k g }$ of the diet:Cu (as copper sulfate) $6 . 8 \\mathrm { m g , F e }$ (as ferrous sulfate) $6 6 \\mathrm { m g , Z n 8 3 m g , M n }$ (as manganese sulfate) $8 0 \\mathrm { m g , I }$ (as potassium iodide) $0 . 6 \\mathrm { m g , S e }$ (as sodium selenite) $0 . 3 \\mathrm { m g }$ 0 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3)霉菌毒素降解剂主要成分为枯草芽孢杆菌，活菌数为 $6 { \\times } 1 0 ^ { 9 } \\mathrm { C F U / g }$ 。 Mycotoxin degradation product mainly contained $6 { \\times } 1 0 ^ { 9 } \\mathrm { C F U / g }$ Bacillus subtilis. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验用DL-蛋氨酸（纯度 $2 9 9 \\%$ ）由住友化学株式会社提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 生长性能指标 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6周龄末以重复为单位称重、量胫长，得到初始体重（IBW)，每2周以重复为单位结料、称重，12周末得到试验末体重（FBW)，计算每组平均日增重（ADG)、平均日采食量(ADFI)、料重比(F/G)和胫长。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 血清生化指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在试验结束时，每个重复随机挑选1只试鸡翅静脉采血，室温静置， $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，吸取上清液， $- 2 0 \\mathrm { ~ \\textdegree C }$ 冰箱保存。采用日立全自动生化分析仪(日立-7600)测定血清中总蛋白、白蛋白、尿酸、氨的含量以及碱性磷酸酶的活性，根据总蛋白和白蛋白的含量计算球蛋白的含量及白球比。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验数据用Excel表格进行整理汇总，采用SAS9.2软件一般线性模型（GLM）进行单因素方差分析和Duncan多",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重比较，应用Contrast语句进行线性和二次的趋势分析，并用单斜率非线性折线回归模型进行分析，断线拐点对应的X轴截点即为含硫氨基酸需要量。生长性能数据统计分析以重复作为试验单位，血清生化指标以单只鸡为试验单位统计分析，结果用平均值和标准误表示，以 $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同含硫氨基酸水平对7\\~12周龄京红蛋鸡生长性能的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，在初始体重无显著差异（ $P { > } 0 . 0 5$ ）的情况下，饲粮中添加不同水平的含硫氨基酸可以显著影响试验末体重、平均日增重和料重比（ $_ { . P < 0 . 0 5 ) }$ ，但是对平均日采食量和胫长无显著影响（ $\\scriptstyle \\cdot > 0 . 0 5 ,$ ）°",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着饲粮中含硫氨基酸水平的提高，蛋鸡平均日增重、试验末体重呈显著线性增长（ $_ { . } P { < } 0 . 0 5 )$ ，其中含硫氨基酸水平为 $0 . 5 8 \\%$ 、 $0 . 6 6 \\%$ 、 $0 . 7 4 \\%$ 组末体重和平均日增重显著高于 $0 . 4 2 \\%$ 和 $0 . 5 0 \\%$ 组 $( P { < } 0 . 0 5 )$ ，且 $0 . 5 8 \\% 0 . 6 6 \\% , \\ 0 . 7 4 \\%$ 组之间差异不显著（ $. P { > } 0 . 0 5 )$ ；含硫氨基酸水平为 $0 . 6 6 \\%$ 组料重比显著低于 $0 . 5 0 \\%$ 组( $_ { , P < 0 . 0 5 } )$ ，其他3组之间差异不显著( $_ { . P > 0 . 0 5 ) }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/64d0907576343be3bbadd6aea3d2060a52881e138f7891df238871566f1e254d.jpg",
+        "table_caption": [
+            "Table2Efectof diferentlevels ofsulphur amino acids ongrowth performanceof Jinghong layers from7to12 weeks of age "
+        ],
+        "table_footnote": [
+            "同列数据肩注无字母或相同小写字母表示差异不显著（ $. P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著（ $_ { \\scriptstyle P < 0 . 0 5 }$ 。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td>组别 Grou</td><td>含硫氨基酸水平 Sulphlur amino acid</td><td>初始体重 IBW/g</td><td>末体重 FBW/g</td><td>平均日增重 ADG/g</td><td>平均日采食量 ADFI/g</td><td>料重比 F/G</td><td>胫长Tibia length/cm</td></tr><tr><td>ps</td><td>level/%</td><td>422.53</td><td>941.15b</td><td></td><td></td><td>4.14ab</td><td></td></tr><tr><td>A B</td><td>0.42 0.50</td><td>422.53</td><td>956.92b</td><td>12.32b 12.72b</td><td>49.60 50.98</td><td>4.20a</td><td>8.55 8.57</td></tr><tr><td>C</td><td>0.58</td><td>423.52</td><td>1 003.51a</td><td>13.81a</td><td>51.66</td><td>3.81ab</td><td>8.62</td></tr><tr><td>D</td><td>0.66</td><td>422.41</td><td>1 020.14a</td><td>14.23a</td><td>49.37</td><td>3.51b</td><td>8.60</td></tr><tr><td>E</td><td>0.74</td><td>422.53</td><td>1 009.76a</td><td>13.98a</td><td>51.43</td><td>3.71ab</td><td>8.61</td></tr><tr><td>标准误 SE</td><td></td><td>4.83</td><td>12.66</td><td>0.28</td><td>0.97</td><td>0.14</td><td>0.05</td></tr><tr><td>P值 P-value</td><td></td><td>1.00</td><td><0.01</td><td><0.01</td><td>0.35</td><td>0.01</td><td>0.80</td></tr><tr><td>线性P值 Linear P-value</td><td></td><td>0.99</td><td><0.01</td><td><0.01</td><td>0.51</td><td><0.01</td><td>0.31</td></tr><tr><td>二次曲线P值 Quadratic curve P-value</td><td></td><td>0.92</td><td>0.11</td><td>0.08</td><td>0.67</td><td>0.49</td><td>0.55</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the same column,values with no letter or the same small lettr superscripts mean no significant difference $( P > 0 . 0 5$ )，whilewith different small letter superscripts mean significant difference ( $\\mathrm { \\Delta } P { < } 0 . 0 5$ ). The same as below. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同含硫氨基酸水平对7\\~12 周龄京红蛋鸡血清生化指标的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，不同含硫氨基酸水平显著影响血清总蛋白、球蛋白含量和白球比（ $_ { . P < 0 . 0 5 ) }$ ，对白蛋白、氨含量及碱性磷酸酶活性无显著影响 （ $P { > } 0 . 0 5 )$ 。 $0 . 6 6 \\%$ 含硫氨基酸组血清总蛋白、球蛋白含量显著高于其他4组（ $P { < } 0 . 0 5 )$ ，且其他4组之间无显著差异（ $P { > } 0 . 0 5 )$ ； $0 . 6 6 \\%$ 含硫氨基酸组血清白球比显著低于其他4组（ $_ { , P < 0 . 0 5 ) }$ ，其他4组之间差异不显著 （ $. P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/560f4ab4b1e04d1e69abee717438c8073fbdc07ce7b1d121e8638c5a2449aa2e.jpg",
+        "table_caption": [
+            "表2不同含硫氨基酸水平对7\\~12周龄京红蛋鸡生长性能的影响",
+            "表3不同含硫氨基酸水平对7\\~12周京红蛋鸡血清生化指标的影响",
+            "Table3Effectofdiferentlevelsofsulphur aminoacids onserumbiochemical indicesofJinghong layers from7to12 weeks ofag "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组</td><td>含硫氨基酸水平</td><td>总蛋白</td><td>白蛋白</td><td>球蛋白</td><td>白球比</td><td>碱性磷酸酶</td><td>尿酸</td><td>氨</td></tr><tr><td>别</td><td>Sulphlur amino</td><td>TP/(g/L)</td><td>ALB/(g/L)</td><td>GLB/(g/L)</td><td>A/G</td><td>ALP/(U/L)</td><td>UA/(umol/L</td><td>Ammonia/</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6dbf6b957e3a67ef496ed307188071f59f980dbcc06dda8e1ed87b5fc0ea0798.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3使用单斜率非线性折线回归分析7\\~12周龄京红蛋鸡含硫氨基酸的需要量"
+        ],
+        "table_body": "<html><body><table><tr><td>Gro ups</td><td>acid level/%</td><td></td><td></td><td></td><td></td><td></td><td>）</td><td>ug</td></tr><tr><td>A</td><td>0.42</td><td>40.80a</td><td>14.27</td><td>26.53a</td><td>0.54a</td><td>747.14</td><td>181.88</td><td>1 092.60</td></tr><tr><td>B</td><td>0.50</td><td>40.81a</td><td>14.68</td><td>26.13a</td><td>0.56a</td><td>748.29</td><td>144.10</td><td>1 101.60</td></tr><tr><td>C</td><td>0.58</td><td>40.71a</td><td>14.69</td><td>26.02a</td><td>0.57a</td><td>933.38</td><td>243.44</td><td>1087.40</td></tr><tr><td>D</td><td>0.66</td><td>44.73b</td><td>14.98</td><td>29.75b</td><td>0.51b</td><td>938.25</td><td>245.22</td><td>1 101.20</td></tr><tr><td>E</td><td>0.74</td><td>41.63a</td><td>14.84</td><td>26.79a</td><td>0.56a</td><td>836.00</td><td>206.38</td><td>1 118.80</td></tr><tr><td>标准误 SE</td><td></td><td>1.00</td><td>0.33</td><td>0.74</td><td>0.01</td><td>97.07</td><td>28.24</td><td>9.96</td></tr><tr><td>P值 P-value</td><td></td><td>0.04</td><td>0.62</td><td>0.01</td><td>0.01</td><td>0.49</td><td>0.07</td><td>0.26</td></tr><tr><td>线性P值Linear P-value</td><td></td><td>0.09</td><td>0.18</td><td>0.09</td><td>0.44</td><td>0.26</td><td>0.12</td><td>0.11</td></tr><tr><td>二次曲线P值</td><td>Quadratic curve P-value</td><td>0.58</td><td>0.51</td><td>0.65</td><td>0.78</td><td>0.31</td><td>0.37</td><td>0.24</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，含硫氨基酸水平由 $0 . 4 2 \\%$ 提高到 $0 . 6 2 \\%$ 时，蛋鸡末体重呈线性增加，超过 $0 . 6 2 \\%$ 后达到平台期，在拐点处（ $\\scriptstyle \\mathbf { \\underline { { x } } = 0 . 6 2 }$ ）达到最大值。将末体重 $( y _ { 1 }$ ）与含硫氨基酸水平 $( x )$ ）拟合的单斜率非线性折线回归方程如下： $y _ { 1 } { = } 1$ $0 1 5 . 0 0 - 3 8 9 . 8 0 ( 0 . 6 2 - x )$ （ $\\scriptstyle P = 0 . 0 4$ ， $R ^ { 2 } { = } 0 . 9 6$ ， $\\scriptstyle x \\leq 0 . 6 2 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/edea3b03b2b98828f4c6beb9c9a91c8326abbbd6e4833aac6e177641af0df57a.jpg",
+        "img_caption": [
+            "图1末体重与含硫氨基酸水平单斜率非线性折线拟合图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Fitted one-slope nonlinear broken line ofFBW plotted against sulphur amino acid levels ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，含硫氨基酸水平由 $0 . 4 2 \\%$ 提高到 $0 . 6 2 \\%$ 时，平均日增重呈线性增加，超过 $0 . 6 2 \\%$ 达到平台期，在拐点处（ $\\scriptstyle \\mathbf { \\underline { { x } } = 0 . 6 2 }$ ）达到最大值。将平均日增重 $( y _ { 2 } )$ 与含硫氨基酸水平 $( x )$ 拟合的单斜率非线性折线回归方程如下： $y _ { 2 } { = } 1 4 . 1 1$ $- 9 . 3 1 ( 0 . 6 2 - x )$ （ $P { = } 0 . 0 4$ ， $R ^ { 2 } { = } 0 . 9 6$ ， $x { \\le } 0 . 6 2 )$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b9303b51fb842d8c9c5d594333ae6a59df8f9da08c349017b5130f3b0d1ad3f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Fitted one-slope nonlinear broken line of ADG plotted against sulphur amino acid levels ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1不同含硫氨基酸水平对7\\~12周龄京红蛋鸡生长性能的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮中的含硫氨基酸主要包括蛋氨酸和半胱氨酸，蛋氨酸是家禽饲粮的第一限制性氨基酸，参与体内多种物质的合成与代谢，蛋氨酸的代谢产物为谷胱甘肽、牛磺酸和同型半胱氨酸[45]，是发挥主要作用的含硫氨基酸。不同品种、生长阶段的蛋鸡含硫氨基酸的最佳需要量存在差异，例如NRC（1994）建议6\\~12周龄褐壳蛋鸡含硫氨基酸需要量为 $0 . 4 9 \\% ^ { [ 6 ] }$ ，国家《鸡饲养标准》（NY/T33—2004）建议0\\~8周龄生长蛋鸡含硫氨基酸水平为 $0 . 7 4 \\%$ ，9\\~18周龄蛋鸡推荐需要量为 $0 . 5 5 \\% ^ { [ 7 ] }$ 。饲粮中添加适宜水平的蛋氨酸可以促进肉禽的生长，降低料重比[8-9]。张静等[10]研究$_ { 7 \\sim 1 2 }$ 周龄略阳乌鸡可消化蛋氨酸需要量发现，不同水平的蛋氨酸对平均日增重和平均日采食量有显著影响，而对料重比无显著影响。另外，宋丹等[研究发现饲粮蛋氨酸水平可以显著影响 5\\~8周龄京红蛋鸡的试验末体重和料重比，但对蛋鸡平均日增重和平均日采食量无显著影响，得出该阶段蛋氨酸的需要量为 $0 . 4 4 \\%$ 。席鹏彬等[9]证明，随着饲粮中蛋氨酸水平的提高，黄羽肉鸡的体重、平均日增重和群体均匀度呈现二次曲线的趋势，先升高再降低，且显著影响平均日采食量和料重比，也呈现二次曲线的趋势，先降低后升高。本试验中含硫氨基酸水平显著影响末体重、平均日增重和料重比，且随着含硫氨基酸水平提高有线性增长或降低的趋势，与上述研究有相似之处，但本试验呈现的不是明显的二次曲线形式，而是呈线性断线变化，当含硫氨基酸增到一定水平（即断线拐点 $\\scriptstyle \\mathbf { x } = 0 . 6 2$ )，末体重和平均日增重不再发生变化，达到平台期， $0 . 6 2 \\%$ 即为含硫氨基酸的需要量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，从本试验生长性能结果可以看出，随着含硫氨基酸水平的提高，整体上平均日增重显著提高，料重比显著降低，表明饲粮中氨基酸从缺乏到平衡对机体生长发育至关重要。因此，在饲粮中添加适宜水平的含硫氨基酸可促进蛋鸡生长，提高饲料利用效率，从而提高蛋鸡生产的经济效益。另有研究报导，含硫氨基酸水平略高于NRC标准有助于动物生长[12]，与本试验结果一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "育成期的营养调控的最终目标是产蛋期的高产稳产。育成期发育状况与产蛋期生产性能具有较高相关性。吴忠旭等[13]研究发现海兰白育成期末重（126日龄）与其21\\~65 周龄阶段的累计产蛋量、只日产蛋量、累计产蛋数呈极显著正相关。但是单纯通过生长性能数据确定育成期蛋鸡的营养需要量仍然具有一定风险，建议结合血清生化指标、体成分测定、产蛋期跟踪观察试验等进行综合评定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2不同含硫氨基酸水平对7\\~12 周龄京红蛋鸡血清生化指标的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "血清生化指标能够反映动物体内代谢和某些器官机能的重要指标。血清中总蛋白包括白蛋白和球蛋白，具有运输多种代谢物质，调节被运输物质的生理功能，维持血管内外渗透压和酸碱度的作用，同时总蛋白含量反映机体营养代谢状况[14]。白蛋白主要用来运输合成体组织的原料和代谢废物，球蛋白反映机体的免疫能力，球蛋白含量升高，则意味着动物机体体液免疫功能的增强[15]。张静等[10]研究表明，不同蛋氨酸水平对7\\~12周龄略阳乌鸡血清白蛋白、球蛋白、白球比均无显著影响。本试验中含硫氨基酸水平未显著影响白蛋白含量，但随着含硫氨基酸水平升高，血清中白蛋白含量有上升的趋势，表明含硫氨基酸促进机体氨基酸代谢，并且宋海彬[16]研究表明白蛋白含量与动物生长速度呈正相关，这与本试验体重增长结果一致。含硫氨基酸水平显著影响总蛋白和球蛋白含量，且 $0 . 6 6 \\%$ 组总蛋白与球蛋白含量显著高于其他4组，这是由于高含硫氨基酸水平刺激动物机体的免疫系统的激活。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "碱性磷酸酶的活性是评价蛋鸡生长发育的敏感指标，其活力越高，生长速度越快[17]。本试验中含硫氨基酸水平未能对碱性磷酸酶活性显著影响，但 $0 . 5 8 \\%$ 、 $0 . 6 6 \\%$ 组的碱性磷酸酶活性高于其他各组，说明饲粮含硫氨基酸水平为$0 . 5 8 \\%$ 、 $0 . 6 6 \\%$ 时，促进蛋鸡生长发育，这与末体重和平均日增重结果相吻合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尿酸是禽类蛋白质和氨基酸代谢的主要终产物之一，饲粮中氨基酸不平衡会影响血液中尿酸的含量[18]。研究表明，饲粮中添加蛋氨酸可以使肉鸡体重增加，血清中尿酸含量降低[19]，与本试验中各组尿酸水平变化规律不一致，其原因可能是： $0 . 4 2 \\% { \\sim } 0 . 5 0 \\%$ 组含硫氨基酸水平不能满足动物机体的需要，各必需氨基酸水平不平衡，造成除含硫氨基酸外的必需氨基酸浪费，使得血清中尿酸含量较高；随着含硫氨基酸水平上升，组成蛋白质的氨基酸趋于平衡，利用率提高，尿酸含量逐步下降，当含硫氨基酸水平过量，在满足需要的情况下，未利用的被分解成尿酸。由此可以看出含硫氨基酸水平在 $0 . 5 0 \\% { \\sim } 0 . 6 6 \\%$ 之间，各氨基酸从逐渐平衡到过量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综合饲粮不同含硫氨基酸水平对生长性能、血清生化指标等数据的影响，7\\~12 周龄京红商品代蛋鸡含硫氨基酸需要量范围为 $0 . 5 8 \\% { \\sim } 0 . 6 6 \\%$ ；以末体重和平均日增重为指标，通过单斜率非线性折线回归分析得到 $_ { 7 \\sim 1 2 }$ 周龄京红商品代蛋鸡含硫氨基酸需要量是 $0 . 6 2 \\%$ （折合只日平均需要量为 $3 1 4 \\mathrm { m g / d } )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]唐胜球,董小英.鸡饲料中蛋氨酸营养的研究与应用概况[J].粮食与饲料工业,2007(4):30-31,34.  \n[2]D'AGOSTINI P,GOMES PC,CALDERANO A A,et al.Requirement of methionine+cystine for pullets in the growingphase from 7 to12 weeks old[J].Arquivo Brasileiro de Medicina Veterinaria e Zootecnia,2012,64(6):1699-1706.  \n[3]陈祥林,吴梦琴,宁淑芳,等 $. 7 { \\sim } 1 2$ 周龄古典型岑溪三黄鸡营养需要量研究[J].广西农业科学,2006,37(5):589-591.  \n[4]RUTHMR,FIELDCJ.The immune modifying effects of amino acids ongut-assciated lymphoidtissue[J].JournalAnimal Science and Biotechnology,2013,4(1):27.  \n[5] GRIMBLE R F.The efects of sulfur amino acid intake on immune function in humans[J].Journal o:Nutriti0n,2006,136(6):1660S-1665S.  \n[6]NRC.禽营养需要[M].蔡辉益,文杰,杨禄良,译.北京:中国农业科技出版社,1994.  \n[7] 中华人民共和国农业部.NY/T33—2004 鸡饲养标准[S].北京:中国农业出版社,2004.  \n[8] 谢明,侯水生,黄苇,等 $. 3 { \\sim } 6$ 周龄雄性北京鸭蛋氨酸需要量的研究[J].中国畜牧杂志,2006,42(21):26-27.  \n[9]席鹏彬,林映才,郑春田,等 $. 0 { \\sim } 2 1$ 和 $2 2 { \\sim } 4 2$ 日龄黄羽肉鸡可消化蛋氨酸需要量的研究[J].中国畜牧杂志,2010,46(23):31-35.  \n[10] 张静,闵育娜,牛竹叶,等.略阳乌鸡 ${ 7 } { \\sim } 1 2$ 周龄可消化蛋氨酸需要量的研究[J].动物营养学报,2014,26(3):739-746.  \n[11]宋丹,李连彬,周梁,等 $. 5 { \\sim } 8 .$ 周龄京红蛋鸡饲粮蛋氨酸需要量的研究[J].畜牧兽医学报,2014,45(11):1799-1808.  \n[12]ELAMIN M,ABBAS T E.Efects of dietary levels of methionine on broiler performance and carcasscharacteristic[J].Poultry Science,2011,10(2):147-151.  \n[13]吴忠旭,张润栋.海兰白W-36育成鸡不同体重对产蛋期生产性能的影响[J].中国家禽,2000,22(7):17-19.  \n[14] 周小乔,王宝维,葛文华,等.饲粮不同维生素E水平对鹅生产性能、胴体品质、血清生化指标和生殖激素含量的影响[J].动物营养学报,2012(3):462-471.  \n[15] 田丽新,崔玉铭,史彬林,等.低蛋白日粮对肉仔鸡血液生化指标的影响[J].中国畜牧杂志,2014,50(5):56-59.  \n[16]宋海彬.葡萄糖氧化酶对肉鸡生长的营养调控作用及机理研究[D].硕士学位论文.保定:河北农业大学,2008  \n[17] 杨伟平,鄢珣,藏大存.不同品种鸭血清碱性磷酸酶活力与生长性能的关系研究[J].安徽农业科学,2010,38(16):8453-8454.  \n[18]FEATHERSTON WR.Nitrogenous metabolites in the plasma of chicks adapted to high protein diets[J].PoultryScience,1969,48(2):646-652.  \n[19]MILES R,FEATHERSTON WR.Uricacid excretionby thechick as an indicator ofdietary protein quality[J].PoultryScience,1976,55(1):98-102.Dietary Sulphur Amino Acids Requirement of Jinghong Commercial Layers from 7 to 12 Weeks of AgeSUO Feiya LIANG Zhongjun\\* MA Qiugang\\*\\* ZHANG Jianyun ZHAO Lihong JI Cheng(State Key Laboratory of Animal Nutrition,Colege ofAnimal Scienceand Technology,China Agricultural UniversityBeijing 100193,China)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This experiment was conducted to explorer the efects of different sulphur amino acid levels on growth performance and serum biochemical indices ofJinghong commercial layers from 7to 12 weeks of age and to evaluate the dietarysulphur amino acids requirement for them.Atotal of750 Jinghong layers aged of6 weeks with similar body weight andtibia length were randomly divided into 5 groups with 5replicates per group and 30 hens perreplicate.Dietary sulphur amino acid level was $0 . 4 2 \\%$ in a basal diet of control group (group A),and the same amount of bentonite in the basal diet was replaced with $0 . 0 8 \\%$ ， $0 . 1 6 \\%$ ， $0 . 2 4 \\%$ and $0 . 3 2 \\%$ methionine which made the levels of sulfur amino acids were $0 . 5 0 \\%$ $0 . 5 8 \\%$ ， $0 . 6 6 \\%$ and $0 . 7 4 \\%$ in groups B, C, D and E, respectively. The feeding trial lasted 6 weeks. The results showed as follows: 1） the final body weight and average daily gain of hens in $0 . 5 8 \\%$ ， $0 . 6 6 \\%$ $0 . 7 4 \\%$ sulfur amino acid groups were significantly higher than those in $0 . 4 2 \\%$ and $0 . 5 0 \\%$ sulfur amino acid groups $( P { < } 0 . 0 5 )$ . The ratio of feed to gain of hens in （20 $0 . 6 6 \\%$ sulfur amino acid group was significantly lower than that of $0 . 5 0 \\%$ sulfur amino acid group $( P { < } 0 . 0 5 )$ ，and the contents oftotal proteinand as well as theratioof albumin toglobulin were significantlyhigher than thoseof the other experimental groups $( P < 0 . 0 5 )$ . 2）According to one-slope nonlinear broken-line regression analysis based on final body weight and average dailygain,thesulphur amino acid requirement of Jinghong commercial layers from7to12 weeks of age was $0 . 6 2 \\%$ . In conclusion,the sulphur amino acid requirement of Jinghong commercial layers from 7 to l2 weeks of age is recommended for $0 . 6 2 \\%$ to $0 . 6 6 \\%$ ， ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words: Jinghong commercial layers；sulphur amino acids； growth performance；serum biochemical indices; requirement ",
+        "page_idx": 6
+    }
+]

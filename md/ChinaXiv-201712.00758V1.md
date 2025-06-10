@@ -1,0 +1,134 @@
+# 基础研究
+
+# 人Bc-63'UTR区报告质粒及其表达载体的构建和功能检测
+
+韩白玉1²，崔瀚之³，燕 翔4,黄 鹏,黄华龙,范忠义4,窦京涛1  
+解放军总医院1内分泌科，4肿瘤科,北京 100853；北京军区第264医院内分泌科，山西 太原03000；解放军  
+309 医院肿瘤科，北京100091;解放军61213部队，山西 临汾041000
+
+摘要：目的 通过构建bcl-6基因野生型、突变体3'UTR区及其编码序列(CDS),观察miR-127对bcl-6的直接靶向调控作用及bcl-6表达载体回复miR-127抑制细胞周期和细胞生长的功能。方法 利用PCR方法扩增bcl-6基因3'UTR区序列及其CDS,分别构建在pcDNA3.0-Luc和pcDNA3.0-Flag载体上,在bcl-6基因3'UTR质粒基础上应用重组PCR方法构建miR-127结合位点突变的突变体报告基因质粒，应用荧光素酶报告基因系统检测miR-127对bcl-6的直接靶向调控作用,在肝癌细胞HepG2中检测过表达及敲低miR-127引起bcl-6基因表达抑制后细胞周期和细胞生长的改变，同时应用表达载体回复bcl-6蛋白水平，检测bcl-6在miR-127调控细胞周期和细胞生长中的必要性。结果构建的重组质粒经酶切鉴定和测序证实构建正确,bcl-63'UTR野生型和突变体报告质粒与miR-127共转293T细胞和HepG2细胞后荧光素酶报告基因检测显示miR-127明显降低野生型报告质粒的活性,但对突变体活性没有影响,miR-127可引起HepG2细胞G2/M期阻滞并抑制细胞生长,bcl-6可以逆转 miR-127对细胞周期和细胞生长的影响。结论 成功构建bcl-6基因3'UTR区野生型、突变体报告质粒和bcl-6基因的表达载体,荧光素酶报告基因和回复实验证实均具有生物学功能。
+
+关键词：bcl-6基因;3'UTR区；荧光素酶报告基因；细胞周期
+
+# Construction of human Bcl-6 3'UTR reporter vector and expression vector and theii functional assessment
+
+HANBaiyu1²,CuIHanzhi,YANXiang4,HUANGPeng,HUANGHualong,FANZhongyi,DOJingtao DepartmentofdocrinologyDepartmentofMedicalOncology，GenealHositalofBeijing85，China;Departntf Endocrioloald;ttco Beijing 100091,China; No.61213 Troop of LA,Linfeng 04100,China
+
+Abstract:Objective Toobserve thedirectregulationof miR-17onBcl-6and the efectofBcl-6inrescuing miR-127-induced cellcycleand cellgrowth inhibition.Methods The3UTR and coding region ofhuman bcl-6gene wereamplifiedbyPCR and cloned into pcDNA3.0-Lucand pDNA3.0-Flag vectors,respectively.Mutations were introduced intothe seedsequences of the predicted miR-127 target sites within the Bcl-63'UTR using recombinantPCR.Luciferaseassy was used toverify the direct targeted regulationof miR-127onBcl-6.In HepG2cellmodelswith overexpressionorknockdownof miR-12,thechanges of cellcycleandcellgrowth wereinvestigatedafter transfection withtheconstructed vectors.ResultsTherecombinant plasmids were succesfullyobtainedasconfirmed bydoubledigestionand sequence identification.Luciferaseassayshowedthat in 293Tand HepG2 cels,miR-127inhibited theactivationof wild-type Bcl-63'UTRreporter vectorbut not mutated Bcl-63'UTR vector. Overexpression of miR-127 induced cell cycle arrest at $\mathrm { ~ G _ { 2 } / M ~ }$ phase and suppressed the growth of HepG2 cells, and theseeffects were reversedbyBcl-6overexpresion. Conclusion We sucessfullycloned wild-typeand mutated 3UTRreporter vectors and expression vector of bcl-6 gene and confirmed their biological functions.
+
+Keywords:bcl-6 gene; 3'UTR; luciferase reporter gene; cell cycle
+
+Bcl-6蛋白和bcl-2蛋白同属于B淋巴细胞瘤蛋白家族,研究证明该家族基因主要参与细胞的凋亡过程，其中包括促进细胞凋亡的一组基因和抑制细胞凋亡的一组基因,bcl-6与bcl-2基因功能相似,在细胞的生理过程中发挥抑制凋亡的作用2；不仅如此，bcl-6是一种转录抑制因子[3],其通过调控多种靶基因表达参与调控细胞的活化[4]、分化[5]和增殖[等过程;同时还参与细胞周期调控及DNA损伤修复[8]。
+
+近期研究发现，bcl-6基因除了与多种淋巴瘤密切相关外还与多种实体肿瘤的发生、发展密切相关，如乳腺癌[9-10]多形性胶质母细胞瘤[1]结肠癌[12]和胆囊癌[13]等。由于bcl-6在肿瘤发生发展中的作用被认识,其调控机制也成为研究中的热点。研究发现bc1-6表达不但受到转录因子[14]和细胞因子的调控[15],同时也受到miRNA的转录后调控,例如:miRNA- $1 2 7 ^ { [ 6 ] }$ 。但是现在发现的靶向bcl-6的miRNA还比较少，其调控网络有待于进一步研究充实。在miRNA研究中目的基因的3'UTR区报告质粒和表达载体必不可少。本实验中，我们通过基因克隆技术构建bcl-6基因的野生型3'UTR区报告质粒和bcl-6基因的表达载体，为下一步筛选新的直接靶向bcl-6的miRNA奠定实验基础。
+
+# 1材料和方法
+
+# 1.1 材料
+
+人胚肾293T细胞、人肝细胞癌HepG2细胞、pcDNA3.0-miR-127质粒、空载体pcDNA3.0-FLAG和pcDNA3.0-Luc由解放军总医院肿瘤内科保存,大肠杆菌感受态DH5a购自康为世纪生物科技有限公司。PrimeSTARHSDNAPolymerase、限制性核酸内切酶(EcoRIXbaIKpnIXhoI）、T4连接酶购自TaKaRa公司;真核细胞质粒小量提取试剂盒、荧光素酶报告基因底物为Promega公司产品;PCR产物琼脂糖凝胶回收试剂盒采购自北京天根生物科技有限公司；转染试剂VigoFect购自威格拉斯生物技术有限公司；兔抗人bcl-6单克隆抗体、兔抗人CyclinD1单克隆抗体购自Abcam公司;兔抗人GAPDH单克隆抗体、辣根过氧化物酶偶联的山羊抗兔IgG购自SantaCruz公司；辣根过氧化物酶偶联的抗FLAG抗体购自Sigma公司；miR-127inhibitor为Qiagen公司产品。测序由北京博迈德技术有限公司完成。引物合成来自北京赛百盛生物技术有限公司。其余化学试剂为国产分析纯产品
+
+# 1.2 方法
+
+1.2.1bcl-63'UTR区及其表达载体重组质粒的构建查 询TARGET（www.targetscan.org）和PUBMED（www. pubmed.com)分别获得bcl-63'UTR区序列和bcl-6基 因CDS区序列，设计并合成引物如下：bcl-63UTR区： （上游）5'-CGGAATTCAGCATGGAGTGTTGATGCT TTCGTCTCCA-3';（下游)5'-GCTCTAGACCAGTTT GACTTTTCAACATTTTATTCTTATA-3'。bcl-6表达 载体：（上游)5'-GGGGTACCATGGCCTCGCCGGCT GACAGCTGTATC-3';（下游)5'-CCGCTCGAGTCAG CAGGCTTTGGGGAGCTCCGGAG-3'，突变体bcl-6 3'UTR区：（上游）： $5 ^ { \prime }$ GACTCGAAGTGTCTGCCTG CAGATACAAAATCGAGCCT-3';（下游）:5'-AGGCTC GATTTTGTATCTGCAGGCAGACACTTCGAGTC-3', 下划线为酶切位点，加粗斜体为bcl-63'UTR突变位点 (miR-127结合位点)。分别以乳腺基因组和乳腺文库 为模板，应用PCR扩增上述两种目的片段，具体条件 为： $9 5 \ \mathrm { ^ { \circ } C } \ 5 \ \mathrm { m i n }$ 预解螺旋， $9 5 ^ { \circ } \mathrm { C } 3 0 \mathrm { s } , 6 0 ^ { \circ } \mathrm { C } 3 0 \mathrm { s } , 7 2 ^ { \circ } \mathrm { C }$ $3 ~ \mathrm { m i n }$ ，共32个循环， $7 2 \mathrm { ~ \textdegree C ~ } 7 \mathrm { ~ m i n }$ 延伸完毕。所得产物 行琼脂糖凝胶电泳，切下带有目的片段的琼脂糖，应用 胶回收试剂盒回收PCR产物后进行双酶切，同时酶切 载体,将酶切好的目的片段与载体 $1 6 ~ \mathrm { { ^ circ C } }$ 链接6h，转化 感受态 $\mathrm { D H } 5 \mathrm { a } , 3 7 ^ { \circ } \mathrm { C }$ 培养 $1 4 \mathrm { ~ h ~ }$ 形成菌落，挑取一定数量 菌落行菌液PCR鉴定，阳性者提取质粒酶切鉴定，酶切 后阳性克隆测序鉴定。
+
+1.2.2哺乳动物细胞的转染细胞培养应用含有 $10 \%$ 胎牛血清的DMEM培养基。报告基因活性检测试验：将细胞以 $1 \times 1 0 ^ { 6 } / \mathrm { m L }$ 浓度接种于24孔板中，转染前1h换新鲜培养基，将 $0 . 5 ~ \mu \mathrm { L }$ 脂质体Vigofect与 $2 5 ~ \mu \mathrm { L }$ 生理盐水混合,同时将质粒按照pcDNA3.0-Luc或Wild-typebcl-6-3'UTR或Mutatedbcl-6-3'UTR报告基因质粒$0 . 2 5 ~ { \mu \mathrm { g } }$ ,miR-1271 μg,pRL-TK $0 . 1 ~ \mu \mathrm { g }$ 的比例混合于$2 5 ~ \mu \mathrm { L }$ 生理盐水中，室温放置 $5 \mathrm { m i n }$ 后将两者混合后室温放置 $1 5 ~ \mathrm { m i n }$ ，加入24孔板中，每组设3个副孔。$3 7 \%$ $\mathrm { C O } _ { 2 }$ 条件下培养 $2 4 \mathrm { h }$ 后收细胞进行荧光素酶活性检测。细胞周期试验：采用2次转染方法进行回复实验，具体转染分组如下：
+
+第1组:miR-control+pcDNA3.0-FLAG;
+
+第2组:miR-127+pcDNA3.0-FLAG;
+
+第3组:miR-127+pcDNA3.0-FLAG-bcl- ${ \bf \nabla } \cdot 6 { \bf \nabla } _ { \circ }$
+
+将HepG2细胞以 $5 { \times } 1 0 ^ { 6 } / \mathrm { m L }$ 密度接种于 $6 \mathrm { c m }$ 皿中，$2 4 \mathrm { h }$ 后进行转染，转染前1h换新鲜培养基,将miR-127$5 ~ { \mu \mathrm { g } }$ 混合于 $2 0 0 ~ \mu \mathrm { L }$ 生理盐水中，同时将 $4 ~ \mu \mathrm { L }$ 脂质体Vigofect混合于 $2 0 0 ~ \mu \mathrm { L }$ 生理盐水中，室温放置 $5 \mathrm { m i n }$ 后将两者混合后室温再放置 $1 5 ~ \mathrm { m i n }$ ，加入 $6 \mathrm { c m }$ 皿。培养$2 4 \mathrm { ~ h ~ }$ 后进行回复实验转染,转染方法同前,转染 $5 ~ { \mu \mathrm { g } }$ pcDNA3.0-FLAG-bcl-6于miR-127过表达细胞，继续培养 $2 4 \mathrm { h }$ 后收细胞一半进行流式细胞周期检测，一般行Westernblot检测相关蛋白表达。MiR-127敲低实验转染方法参考过表达转染方法。
+
+1.2.3 流式细胞周期检测收集细胞， $1 5 0 0 ~ \mathrm { r / m i n }$ 离心$1 0 ~ \mathrm { m i n }$ ,吸弃上清，用含有 $3 \%$ 胎牛血清的PBS洗1次，用含上述PBS $30 \%$ ,乙醇 $70 \%$ 混合液 $- 2 0 \ \mathrm { ^ { \circ } C }$ 固定过夜。取 $- 2 0 \ \mathrm { { ^ circ C } }$ 固定的细胞 $3 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 \mathrm { m i n }$ ,弃上清，再用含有 $3 \%$ 胎牛血清的PBS洗细胞两次，弃上清，加入含有RNaseA浓度为 $1 \ \mathrm { m g / m L }$ 的PBS $0 . 2 ~ \mathrm { m L } , 3 7 ~ \mathrm { \textbar { c } }$ 水浴$3 0 \mathrm { m i n }$ ，再加人 $0 . 3 \mathrm { m L }$ PI置暗处染色， $2 0 \mathrm { m i n }$ 后上机检测。1.2.4Westernblot检测转染后 $4 8 \mathrm { ~ h ~ }$ 收细胞，加入适量RIPA裂解液冰浴裂解细胞 $3 0 \mathrm { m i n }$ ，混合等量的SDS缓冲液，煮沸 $1 5 ~ \mathrm { m i n }$ 后进行SDS-PAGE检测。将蛋白半干电转于纤维素膜上，用 $5 \%$ 脱脂奶粉室温封闭1h；加入兔抗人bcl-6抗体( $( 1 : 5 0 0 )$ 、兔抗人CyclinD1抗体(1:250)和兔抗人GAPDH抗体(1:1000)，室温平衡摇床轻摇 $^ { \textrm { 1 h } }$ ；TBST洗膜3次，加入辣根过氧化物酶偶联的山羊抗兔 $\mathrm { I g G } ( 1 { : } 2 0 0 0 )$ ，室温轻摇 $^ { \textrm { 1 h } }$ ；TBST洗膜3次，化
+
+学发光法显色后压片显影。
+
+1.2.5荧光素酶报告基因活性检测转染后 $4 8 \mathrm { ~ h ~ }$ 弃24孔板中的培养基,PBS洗1次,加入 $1 0 0 ~ \mu \mathrm { L }$ 报告基因裂解液(RLB)，室温轻摇 $1 \mathrm { { h } }$ ，收取细胞裂解产物与EP管中，震荡 $1 0 ~ \mathrm { m i n }$ ， $4 \mathrm { ~ ‰ ~ }$ 离心 $1 0 ~ \mathrm { m i n }$ 。取 $2 0 ~ \mu \mathrm { L }$ 裂解液上清与等量的荧光素酶报告基因底物混合，应用荧光测定仪检测荧光素酶活性。
+
+1.2.6CCK-8法细胞生长检测 将2次转染后的HepG2细胞以 $2 \mathrm { { x } 1 0 ^ { 4 } / m L }$ 细胞数接种于96孔板中，每个孔加入$1 0 0 \mu \mathrm { L }$ 细胞悬液并设置3个复孔，常规培养。分别于贴壁后、 $. 2 4 , 4 8 , 7 2 , 9 6 \mathrm { h }$ ，取一块96孔板，在接种孔中加入$1 0 ~ { \mu \mathrm { L } } \ C C { \mathrm { K } } { - 8 }$ 试剂； $3 7 \ \mathrm { ^ { \circ } C } \ . 5 \% \mathrm { C O } _ { 2 }$ 常规培养1h,测定$\mathbf { A } _ { 4 5 0 }$ 值；以测量时间点为横坐标，A值为纵坐标绘制生长
+
+曲线。
+
+# 2结果
+
+2.1bcl-63UTR区报告质粒及其表达载体重组质粒的 构建
+
+应用基因克隆技术以乳腺基因组为模板，PCR扩增bcl-63UTR区和CDS编码区序列，琼脂糖电泳分别观察到大小在1100bp和2100bp左右的目的片段（图1A),两目的片段回收后分别用EcoRI和XbaIKpnI和XhI双酶切后插入各自载体，转化后挑取菌落行菌液PCR，阳性克隆提质粒酶切鉴定，结果显示均可切出大小相符的目的片段(图1B)，测序后显示插入片段为目的片段且构象正确(结果略)。
+
+![](images/55f576d03caeb3d4410a3954fa47d94f06697424b61bc3ec28bb09d7757c27fa.jpg)  
+图1Bcl-63'UTR区报告质粒及其表达载体重组质粒的构建 Fig.1 Construction of bcl-6 3'UTR region reporter plasmid and expression vector. M: DNA marker(BM 2000);1: bcl-6 CDS region; 2:Wild-type bcl-6 3'UTR region.A: PCR products; B: Enzyme digestion.
+
+# 2.2突变体bcl-63'UTR区报告质粒的构建
+
+应用重组PCR技术，以构建好的野生型bcl-63'UTR质粒为模板，以野生型上游引物和突变体下游引物、野生型下游引物和突变体上游引物PCR分别扩增含有突变位点的上下游片段，纯化后以这两个片段为模板用野生型引物PCR扩增含有突变位点的突变体bcl-63UTR区，琼脂糖电泳回收可观察到大小在 $1 1 0 0 \mathrm { b p }$ 左右的目的片段(图2A)，目的片段回收后用EcoRI和XbaI双酶切后插入各自载体，转化后挑取菌落行菌液PCR，阳性克隆提质粒酶切鉴定(图2B)，测序显示突变成功(结果略)。
+
+# 2.3重组质粒报告基因活性和表达的鉴定
+
+分别将pcDNA3.0-Luc、野生型bcl-63'UTR和突变体bcl-63'UTR质粒转染入HEK293T细胞， $3 7 \mathrm { ~ \textdegree C }$ $5 \%$ $\mathrm { C O } _ { 2 }$ 全湿度培养 $4 8 \mathrm { ~ h ~ }$ 。收取细胞，行荧光素酶报告基因活性检测，结果显示三者的相对荧光素酶活性值分别为 $1 . 1 1 \pm 0 . 1 0 8 , 1 . 2 0 { \pm } 0 . 1 6 5 , 1 . 1 5 { \pm } 0 . 0 9 5$ ,具有相似的荧光素酶活性。将pcDNA3.0-FLAG和pcDNA3.0-FLAG-bcl-6转染人HEK293T细胞， $3 7 \%$ （204号 $\mathrm { C O } _ { 2 }$ 全湿度培养$2 4 \mathrm { h }$ ，收细胞行Westernblot检测，结果显示：应用FLAG抗体在80000左右的位置可以看到明显条带，符合bcl-6的大小(图3A)。说明质粒表达正常。
+
+2.4miR-127对bcl-63'UTR区报告基因活性的影响
+
+将miR-127表达载体分别和野生型(WT）bcl-6 3'UTR区或突变体(Mut)bcl-63'UTR区报告基因质粒 共转人胚肾HEK293T细胞及肝细胞癌HepG2细胞， $4 8 \mathrm { { h } }$ 后收细胞进行荧光素酶活性测定，结果显示：在两种细 胞中miR-127均可以明显降低bcl-63UTR区报告基因 的活性水平超过 $5 0 \%$ ,对空载体pcNDA3.0-Luc及突变 体bcl-63UTR区报告基因的活性并没有明显的降低 (图4)。说明bcl-6是miR-127的直接靶基因，这与文献 报道相一致。
+
+![](images/9d0385935e3d1442ffc23f9c00792efe926d6d40cb079deef4b2322adaccb778.jpg)  
+图2突变体bcl-63'UTR区报告质粒的构建 Fig.2 Construction of mutated bcl-6 3'UTR region reporter plasmid.M: DNA marker (BM 2000);1: Mutated bcl-6 3'UTR region.A: PCR product; B: Enzyme digestion.   
+图3重组质粒表达的鉴定 Fig.3 Expression of bcl-6 protein in HEK293T cells transfected with the recombinant plasmids detected by Western blotting.
+
+FLAG 二 GAPDH pcDNA3.0-FLAG pcDNA3.0-FLAG-bcl-6
+
+# 2.5bcl-6表达载体拮抗miR-127对细胞周期的影响
+
+用两次转染的方法分别将miR-127和bcl-6转染入HepG2细胞相应分组，bcl-6转染后 $2 4 \mathrm { h }$ 收细胞，一部分固定进行流式细胞周期检测，另一部分进行Westernblot检测相关蛋白表达水平，结果显示：相比对照组转染miR-127后可以引起细胞的 $\mathrm { G } _ { 0 } / \mathrm { G } _ { 1 }$ 期阻滞，同时转染miR-127和bcl-6后miR-127引起 $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期阻滞消失（图5A)。同时Westernblot检测发现miR-127可以明显抑制bcl-6表达及CyclinD1的表达，回复bcl-6蛋白表达后,CyclinD1的蛋白水平也得到了恢复(图5C)。相反我们发现敲低miR-127可以抑制 $\mathrm { G } _ { 0 } / \mathrm { G } _ { 1 }$ 其阻滞且升高bcl-6表达及CyclinD1的表达（图5B，5D）。说明：miR-127可以降低bcl-6的表达进而抑制CyclinD1的蛋白水平，从而表现出细胞周期 $\mathbf { G } _ { 0 } / \mathbf { G } _ { 1 }$ 期阻滞；bcl-6表达载体可以回复miR-127引起的bcl-6蛋白水平的降低，具有生物学活性。
+
+# 2.6bcl-6表达载体拮抗miR-127对细胞生长的影响
+
+采用二次转染的方式将HepG2分成3组：Emptyvector+pcDNA3.0-FLAG、miR-127 $+$ pcDNA3.0-FLAG、miR- $1 2 7 + \mathrm { b c l } { - 6 _ { \circ } }$ 将细胞分别接种于96孔板中，每组设置3个副孔，分别在贴壁后 $, 2 4 , 4 8 , 7 2 , 9 6 \mathrm { h }$ 取一块96孔板,在每个孔中加入 $1 0 ~ { \mu \mathrm { L } } \mathsf { C C K } { - 8 }$ 溶液， $3 7 \ \%$ （204号 $\mathrm { C O } _ { 2 }$ 全湿度培养1h后测定 $\mathbf { A } _ { 4 5 0 }$ 值并绘制生长曲线。结果显示：miR-127可以明显抑制HepG2细胞生长，回复bcl-6表达水平后细胞的生长速度也得到回复。miR-127过表达组与其他两组之间具有统计学意义（ $P { < } 0 . 0 5$ ，图6A)。抑制miR-127表达则促进细胞的生长(图6B)。这一结果提示：bcl-6可以拮抗miR-127引起的抑制细胞生长的作用。
+
+# 3讨论
+
+bcl-6是Baron等[1研究B细胞非霍奇金淋巴瘤基因组重组的时候发现和命名的。bcl-6主要表达于生发中心的B细胞和 $\mathrm { C D 4 ^ { + } }$ 的T细胞，与生发中心的形成及维持密切相关，研究发现，bcl-6可以抑制T细胞向Th2细胞分化[17],通过与转录因子STAT3相互作用抑制B细胞分化必须膜分子的表达，进而达到抑制B细胞分化的目的18，同时bcl-6还通过抑制P53基因的促凋亡作用进一步达到维持生发中心的作用[19]。由于bcl-6原癌基因的特性，其表达受到严格的调控，当出现染色体异位及点突变都会引起bcl-6启动子的异常激活[2%，从而使bcl-6表达异常增加，引起机体产生癌变。不仅仅在淋巴瘤中检测出bcl-6的异常表达，其还参与多种实体性肿瘤中的发生发展。因此bc1-6成为了药物研究的新靶点，bcl-6表达的调控机制和调控分子被渐渐发现
+
+miRNA已经成为生物体不可或缺的调控手段，与多种疾病的发生有重要的关系。Saito等21首先发现两种染色质修饰药物可以引起癌症细胞miR-127表达的升高进而引起bcl-6的降低，后期的研究也进一步证实，bcl-6为miR-127的直接靶基因[6.22]。Wu等[23]发现miR-339-5p以bcl-6为靶基因，进而抑制乳腺癌细胞的生长和转移。这仅仅是以bcl-6为靶基因的miRNA研
+
+![](images/a569c7705757115d61578fd4e0889865b3ff2c58c33aafaa3ff62ba392147cb6.jpg)  
+图4miR-127对bcl-63'UTR区报告基因活性的影响 Fig.4 Effect of miR-127 on bcl-6 3'UTR region reporter plasmid.
+
+A 800 PNDA30-FLAG 800 miR $1 2 7 +$ -FLAG 800 miR-127+Bcl-6 pcNDA3.0-FLAG 00 $G _ { 0 } \mathrm { G } _ { 1 } { : } 5 3 . 8 4 \%$ 600 G0G:64.54% 0 $G _ { 0 } \mathrm { G } _ { 1 } { : } 5 6 . 1 3 \%$ （204号 $G _ { 2 } \mathbf { M } { : } 2 2 . 1 2 \%$ （204 400 GM:16.31% GM:22.53% 200 S-Phase:24.04% 200 S-Phase:19.15% 200 S-Phase:21.34% 虹 电 0+ 0 0 0 50100150200 250 0 50100150 200 250 0 50100150200 250 Channels (FL2-A) Channels (FL2-A) Channels (FL2-A)   
+B Inhibitor control miR-127 inhibitor C miR-127 + + 800 800 bcl-6 + GG1:53.03% G0G1:41.54% 600 600 Bcl-6 400 geq GM:20.03% S-Phase:26.94% 140 0 GM:25.31% S-Phase:33.15% Cyclin D1 - 200 0 0 GAPDH 0 50100150 200 250 0 50100150 200 250 Channels (FL2-A) Channels (FL2-A)   
+D Inhibitor control + miR-127 inhibitor + 图5miR-127对细胞周期的影响及bcl-6对miR-127的拮抗作用 Bcl-6 Fig.5 Bcl-6 antagonized the effect of miR-127 on cell cycle in HepG2 cells. A,B:Flow cytometry; $c ,$ D: Expression of bcl-6 and Cyclin D1 detected Cyclin D1 by Western bloting.A, C: Overexpression of miR-127 and the effect of bcl-6; C,D: Knockdown of miR-127 and the effect of bcl-6. GAPDH
+
+![](images/0181c3ee89e8cd9be9c37686927167d5dfae0fb0f763e11dcd81ce2d45953094.jpg)  
+图6miR-127对细胞生长的影响 Fig.6 Growth curves of HepG2 cells with miR-127 overexpression $( A )$ and knockdown $( B )$ and transfected with bcl-6 vectors.
+
+究的开始。
+
+在miRNA研究中，目的基因3'UTR区报告质粒的构建及荧光素酶活性检测是判定miRNA作用靶基因的直接证据，我们在实验中成功构建了bcl-6基因的3'UTR区报告质粒，与miR-127共转发现活性明显受到抑制，这与前期研究报道相一致，为后期进一步筛选以bcl-6为直接靶点的miRNA奠定了实验基础。回复实验的目的是为了在敲低实验中防止出现脱靶效应，在抑制基因表达实验中被用来证实该siRNA的特异性。由于miRNA与siRNA同样是以降低基因表达而发挥其功能，所以回复实验是不可或缺的。我们构建了bcl-6CDS序列表达载体，研究发现其可以逆转miR-127引起的细胞周期的改变及细胞生长的改变，这说明bcl-6质粒具有生物学活性。为后期检测筛选的miRNA功能试验奠定良好的实验基础
+
+# 参考文献：
+
+[1］耿万友,侯 睿,孙树民,等.原癌基因bcl-6研究进展[J].动物医学进 展,2013,4(3): 110-3.   
+[2]Baron BW,Hyjek E,Gladstone B,et al.PDCD2,a protein whose expression is repressed by BCL6,induces apoptosis in human cells by activation of the caspase cascade[J].Blood Cells Mol Dis,2010, 45(2): 169-75.   
+[3]Crotty S,Johnston RJ,Schoenberger SP.Effectors and memories: bcl-6 and Blimp-1 in T and B lymphocyte differentiation[J].Nat Immunol,2010,11(2): 114-20.   
+[4]Sawant DV,Wu H, Yao W,et al. The transcriptional repressor Bcl6 controls the stability of regulatory T cells by intrinsic and extrinsic pathways[J].Immunology,2015,145(1): 11-23.   
+[5]Mathew R,Mao AP, Chiang AH, et al. A negative feedback loop mediated by the Bcl6-cullin3 complex limits Tfh cell differentiation [J].JExp Med,2014,211(6): 1137-51.   
+[6]Chen J,Wang M,Guo M,et al. miR-127 regulates cell proliferation and senescence by targeting BCL6[J].PLoS One,2013,8(11): e80266.   
+[7]Phan RT,Saito M,Basso K,et al．BCL6 interacts with the transcription factor Miz-1 to suppress the cyclin-dependent kinase inhibitor p21 and cell cycle arrest in germinal center B cells[J].Nat Immunol,2005,6(10): 1054-60.   
+[8]Ranuncolo SM,Polo JM,Melnick A. BCL6 represses CHEK1 and suppresses DNA damage pathways in normal and malignant B-cells [J].Blood Cells Mol Dis,2008,41(1): 95-9.   
+[9]Wu Q, Liu X, Yan H, et al. B-cell lymphoma 6 protein stimulates oncogenicity of human breast cancer cells[J].BMC Cancer,2014, 14: 418.   
+[10] Walker SR,Liu S,Xiang M,et al. The transcriptional modulator BCL6 as a molecular target for breast cancer therapy[J]. Oncogene, 2015,34(9): 1073-82.   
+[11]Ruggieri S,Tamma R,Marzullo A,et al. Translocation of the proto-oncogene bcl-6 in human glioblastoma multiforme[J]. Cancer Lett, 2014,353(1): 41-51.   
+[12] Sena P,Mariani F,Benincasa M,et al．Morphological and quantitative analysis of BCL6 expression in human colorectal carcinogenesis[J]. Oncol Rep,2014,31(1):103-10.   
+[13]Liang PI, Li CF, Chen LT, et al. BCL6overexpression is associated with decreased pl9 ARF expression and confers an Independent prognosticator in galbladder carcinoma[J].Tumour Biol,2014,35 (2): 1417-26.   
+[14]Tunyaplin C, Shaffer AL,Angelin-Duclos CD,et al. Direct repression of prdml by bcl-6 inhibits plasmacytic diferentiation[J].J Immunol,2004,173(2): 1158-65.   
+[15]FengC,JinJ,ZouQ,etal.Interleukin-21inhibits humoralrespose to an HIV DNA vaccine by enhancing bcl-6 and Pax-5 expression[J]. Viral Immunol,2012,25(2):131-40.   
+[16]Baron BW,Nucifora G,Mccabe N,et al. Identification of the gene associated with the recurring chromosomal translocations t(3;14) (q27;q32) and t(3;22)(q27;q11) in B-cell lymphomas[J].Proc Natl Acad Sci USA,1993,90(11): 5262-6.   
+[17]Kusam S,Toney LM, Sato H,et al. Inhibition of Th2 differentiation and GATA-3 expression by BCL-6[J].J Immunol, 2003,170(5): 2435-41.   
+[18]Diehl SA, Schmidlin H, Nagasawa M,et al. IL-6 triggers IL-21 production by human $\mathrm { C D 4 } ^ { \mathrm { ~ + ~ } }$ T cells to drive STAT3-dependent plasma cell differentiation in B cells[J]. Immunol Cell Biol,2012, 90(8): 802-11.   
+[19]Ranuncolo SM, Wang L,Polo JM,et al. BCL6-mediated attenuation of DNA damage sensing triggers growth arest and senescence through a p53-dependent pathway in a cell context-dependent manner[J].JBiol Chem,2008,283(33):22565-72.   
+[20]Artiga MJ,SäezAI,Romero C,et al.Ashort mutational hotspotin the first intron of BCL-6 is associated with increased BCL-6 expression and with longer overall survival in large B-cell lymphomas[J].Am JPathol,2002,160(4): 1371-80.   
+[21]Saito Y,Liang G,Egger G,et al. Specific activation of microRNA127with downregulation of the proto-oncogene BCL6 by chromatin-modifying drugs in human cancer cells[J]. Cancer Cell, 2006,9(6): 435-43.   
+[22] Zhao X,Duan Z,Liu X,et al. MicroRNA-127 is downregulated by Tudor-SN protein and contributes to metastasis and proliferation in breast cancer cell line MDA-MB-231[J]. Anat Rec (Hoboken), 2013,296(12): 1842-9.   
+[23]Wu ZS, Wu Q, Wang CQ,et al. MiR-339-5p inhibits breast cancer cell migration and invasion in vitro and May be a potential biomarker for breast cancer prognosis[J]. BMC Cancer,2010,10: 542. (纻辑 早锦雅)

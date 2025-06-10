@@ -1,0 +1,562 @@
+[
+    {
+        "type": "text",
+        "text": "促肾上腺皮质激素释放因子在肉仔鸡食欲调控中的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周华金 李和朋 张辉 王继光 宋志刚\\*（山东农业大学动物科技学院/动物医学院，泰安271018）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验以活体肉仔鸡为研究对象，以静脉注射方式外源导入促肾上腺皮质激素释放因子（CRF)，分析肉仔鸡采食量的变化和下丘脑、肠道中食欲调控相关基因的表达情况，对 CRF 在肉仔鸡食欲调控中的作用进行探究。选取体重相近的1日龄雄性爱拔益加（AA）肉仔鸡 20只，7日龄时随机分为2个组，每组10只鸡，单笼单饲。试验组肉仔鸡于10 日龄 08:00 翅静脉注射 $1 ~ 0 0 0 . 0 ~ \\mu \\mathrm { g / k g ~ B W }$ V的CRF，对照组同时注射等量的生理盐水。注射 2h后，统计采食量，10日龄10:00 进行屠宰取样，利用实时荧光定量PCR（RT-PCR）检测下丘脑、十二指肠、空肠和回肠中食欲相关基因胃饥饿素、促肾上腺皮质激素释放因子受体（CRFR）1、CRFR2、生长激素促分泌素受体 $\\cdot 1 \\alpha ( G H S R - 1 \\alpha ) \\mathrm { m R N A }$ 相对表达量。结果表明,与对照组相比，静脉注射CRF 显著降低了肉仔鸡采食量‘ $( P { < } 0 . 0 5 )$ ；显著提高了肉仔鸡下丘脑中胃饥饿素和CRFR1mRNA相对表达量( $_ { , P < 0 . 0 5 ) }$ ,而下丘脑中CRFR2和GHSR-1α mRNA相对表达量无显著变化（ $\\mathrm { . } P { > } 0 . 0 5 \\mathrm { . }$ )；显著提高了肉仔鸡十二指肠、空肠和回肠中CRFR1、CRFR2和GHSR-1 $\\alpha$ mRNA相对表达量（ $_ { 1 } ( P { < } 0 . 0 5 )$ ，显著降低了十二指肠胃饥饿素mRNA 相对表达量 $( P { < } 0 . 0 5 )$ ，而在空肠和回肠中胃饥饿素mRNA相对表达量无显著变化（ $\\mathrm { \\Phi } \\cdot P { > } 0 . 0 5 \\mathrm { \\dot { \\Omega } } .$ ）°由此可见，静脉注射CRF 能降低肉仔鸡采食量，诱导中枢胃饥饿素的基因表达，下丘脑CRFR1、胃饥饿素以及肠道CRFR1、CRFR2、GHSR-1a基因表达上调导致的食欲抑制可能是造成采食量下降的原因。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肉仔鸡；食欲；采食量；CRF；胃饥饿素图分类号：S831 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应激反应是生理平衡的破坏和恢复过程，这一过程的实现主要依赖于交感神经系统和下丘脑-垂体-肾上腺（hypothalamo-pituitary-adrenal,HPA）轴的激活[1]。促肾上腺皮质激素释放因子（corticotropin-releasing factor，CRF）在脊椎动物中枢神经系统以及胃肠道在内的外周组织中广泛表达，在调节HPA轴以及应激和能量相关的稳态中起着重要的生理作用[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应激或环境的改变会导致脊椎动物CRF 激活，降低动物采食量和繁殖活动，增加动物的觉醒程度和梳理毛发的行为[3]。研究证明,CRF参与哺乳动物和鱼类的摄食和体重调节[4-5],外周CRF 在应激引发的胃肠动力改变过程中发挥重要作用，外周注射CRF 抑制了小鼠胃排空]。此外，肠内源性CRF 在应激诱导的结肠运动和分泌功能变化的过程中发挥关键作用，在大鼠结肠中敲除CRF可防止应激对结肠运动和黏膜分泌功能的影响[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胃饥饿素（ghrelin）是生长激素促分泌素受体（growth hormone secretagogues receptorGHSR）的内源性配体，由28个氨基酸残基组成，属于脑肠肽家族成员[8]。主要在脊椎动物的胃中产生，但在脑、肠、胰腺、胆囊、肾脏和鳃等组织中也有表达[9-10]。胃饥饿素通过外周或中枢作用的方式提高哺乳动物的采食量和体增重[10]，诱导鳟鱼的觅食行为，加速生长[]。与哺乳动物和鱼类不同，胃饥饿素在家禽中枢中是一种厌食神经肽，新生雏鸡脑室注射胃饥饿素后产生焦虑样行为，强烈抑制采食量[12]。蛋鸡脑室注射胃饥饿素后采食量和饮水量均下降[13]。利用糖皮质激素受体拮抗剂RU486 和CRF受体拮抗剂Astressin 研究胃饥饿素诱导肉仔鸡食欲抑制机制，发现外周胃饥饿素通过HPA 轴参与肉仔鸡的食欲抑制作用[14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到 HPA 轴受到CRF 的调控，外周胃饥饿素通过HPA轴参与食欲的抑制作用，那么胃饥饿素是否是CRF 影响食欲的一个分子？针对以上问题，本研究以活体入手，以静脉注射方式外源导入CRF，通过分析下丘脑、肠道中相关基因[胃饥饿素、促肾上腺皮质激素释放因子受体（corticotrophin releasing factor receptors,CRFR）1、CRFR2、生长激素促分泌素受体-1α(growth hormone secretagogue receptor type 1α, GHSR-1α)]的表达情况，探讨 CRF对肉仔鸡食欲和胃饥饿素的影响，为CRF 对肉仔鸡食欲调控作用的研究提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料和试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CRF由迈拓（中国）生物科技有限公司合成，纯度为 $9 6 . 2 9 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取体重相近的1日龄雄性爱拔益加(AA)肉仔鸡 20 只(购自山东大宝禽业有限公司)，采用笼养方式饲养，饲养温度 $3 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，自然通风，相对湿度保持在 $5 5 \\% \\sim 6 5 \\%$ ，饲喂参照NRC（1994）肉仔鸡营养需要量标准配制的基础饲粮，基础饲粮组成及营养水平见表1，自由采食和饮水。7日龄时随机分为2个组，每组10只鸡，单笼单饲，试验组肉仔鸡10日龄08:00 翅静脉注射 $1 ~ 0 0 0 . 0 ~ { \\mu \\mathrm { g / k g ~ B W } }$ V的CRF，对照组同时注射等量的生理盐水。根据本试验中肉仔鸡体重（ $2 5 6 { \\sim } 2 7 2 \\ \\mathrm { g } )$ ，配制成 $1 \\mathrm { m g / m L }$ CRF 注射液，即体重 $2 6 0 ~ \\mathrm { g }$ 的肉仔鸡注射0.26mL CRF 注射液。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/786707250c8612064e45255732a9d2f881170832415069a0f75277b7f1c276ac.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of the basal diet（air-dry basis） % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>含量</td></tr><tr><td>Items</td><td>Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>玉米 Corn</td><td>52.194</td></tr><tr><td>豆油 Soybean oil</td><td>5.129</td></tr><tr><td>豆粕 Soybean meal</td><td>38.926</td></tr><tr><td>石粉 Limestone</td><td>1.463</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.800</td></tr><tr><td>氯化钠 NaCl</td><td>0.300</td></tr><tr><td>L-赖氨酸硫酸盐 L-Lys·HSO4</td><td>0.267</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.302</td></tr><tr><td>L-苏氨酸 L-Thr</td><td>0.099</td></tr><tr><td>植酸酶 Phytase (5 000 IU/g)</td><td>0.020</td></tr><tr><td>多维Multi-vitamins1)</td><td>0.200</td></tr><tr><td>多矿Multi-mineral1)</td><td>0.200</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.100</td></tr><tr><td>合计Total</td><td>100.000</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>粗蛋白质CP</td><td>21.50</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td></td></tr><tr><td>钙Ca</td><td>12.81 0.95</td></tr><tr><td>非植酸磷 NPP</td><td>0.44</td></tr><tr><td>赖氨酸Lys</td><td>1.19</td></tr><tr><td>蛋氨酸 Met</td><td>0.59</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td></td></tr><tr><td>苏氨酸 Thr</td><td>0.87 0.76</td></tr><tr><td></td><td></td></tr><tr><td>色氨酸Trp</td><td>0.22</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 多维和多矿为每千克饲粮提供 Multi-vitamin and multi-mineral provided the following per kg of the diet:VA $9 0 0 0 \\mathrm { I U }$ ， $\\mathrm { V D } _ { 3 } 2 0 0 0 \\mathrm { I U }$ ，VE 11.0 IU， VK $1 . 0 0 \\mathrm { m g }$ ，硫胺素 thiamine $1 . 2 0 \\mathrm { m g }$ ，核黄素riboflavin $5 . 8 0 \\mathrm { m g }$ 烟酸niacin $6 6 . 0 \\mathrm { m g }$ 泛酸 pantothenic acid $1 0 . 0 \\mathrm { m g }$ ，吡哆醇pyridoxine $2 . 6 0 \\mathrm { m g }$ ，生物素biotin $0 . 2 0 \\mathrm { m g }$ ，叶酸 folic acid $0 . 7 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 1 2 \\ : \\mathrm { m g }$ ， $\\mathrm { M n ~ 1 0 0 ~ m g }$ ， $Z \\mathrm { n } 7 5 . 0 \\mathrm { m g }$ ，Fe $8 0 . 0 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 0 . 6 5 \\mathrm { ~ m g }$ ， $\\mathrm { C u } 8 . 0 0 \\mathrm { m g }$ ，Se 0.35mg。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）营养水平为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集和指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统计每只鸡在注射后 $2 \\mathrm { h }$ 内的采食量，CRF注射 $2 \\mathrm { h }$ 后试验组和对照组同时采集下丘脑、十二指肠、空肠、回肠分子样品，迅速放液氮中，而后置 $. 8 0 ^ { \\circ } \\mathrm { C }$ 冰箱待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下丘脑、十二指肠、空肠、回肠分子样品总RNA 的提取按照动物组织/细胞RNA 提取试剂盒(北京康为世纪生物科技有限公司)说明书进行，提取的总RNA用微量紫外分光光度计（DS-11，DeNovix 公司，美国）在 $2 6 0 \\mathrm { n m }$ 波长下检测RNA 的浓度和纯度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "cDNA 的合成采用罗氏第一链cDNA 合成试剂盒（Transcriptor First Strand cDNA",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SynthesisKit，Roche 公司，德国)，反应体系为 $2 0 \\mu \\mathrm { L }$ ，反转录反应参数为： $2 5 ^ { \\circ } \\mathrm { C } 1 0 \\mathrm { m i n }$ $5 5 ^ { \\circ } \\mathrm { C } 3 0 \\mathrm { m i n }$ ； $8 5 ^ { \\circ } \\mathrm { C } \\ 5 \\ \\mathrm { m i n }$ 。反应结束后于 ${ } ^ { - 2 0 } { } ^ { \\circ } \\mathrm { C }$ 保存待用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实时荧光定量PCR（RT-PCR）的反应程序：第1步预变性 $9 5 ^ { \\circ } \\mathrm { C } 1 0 ~ \\mathrm { s }$ ；第2步PCR反应40、 $9 5 ^ { \\circ } \\mathrm { C } 5 \\mathrm { s }$ ； $6 0 { } ^ { \\circ } \\mathrm { C } 4 0 \\mathrm { ~ s ~ }$ 。所有引物均根据 Fast Start Universal SYBR Green Master (Rox)试剂盒要求，参照GenBank上已发表的序列，采用 Dnaman 5.0设计（跨内含子)，引物 DNA由上海生工生物工程公司合成，引物序列见表2。参照Livak[15]等的方法用 $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ 法定量目标基因 mRNA 相对表达量，以甘油醛-3-磷酸脱氢酶(GAPDH)作为参照基因进行校准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2引物序列",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d2b70de2f67d5676750c97293edc4f31e41f18a39731a7fd40f83187516ef02.jpg",
+        "table_caption": [
+            "Table 2Primers sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">基因名称 Gene names</td><td rowspan=\"2\">GenBank登陆 号 GenBank</td><td>引物序列</td><td>产物大小</td></tr><tr><td>Primers sequences (5'-→3')</td><td>Product size/bp</td></tr><tr><td>胃饥饿素Ghrelin</td><td>AB075215</td><td>F: CCTTGGGACAGAAACTGCTC</td><td>203</td></tr><tr><td rowspan=\"2\">促肾上腺皮质激素释放因子受</td><td rowspan=\"2\">NM_204321.1</td><td>R:CACCAATTTCAAAAGGAACGC</td><td rowspan=\"2\">134</td></tr><tr><td>F:CCTCACCTATTCCACCGACAAG</td></tr><tr><td rowspan=\"2\">体1CRFR1 促肾上腺皮质激素释放因子受</td><td rowspan=\"2\">NM_204454.1</td><td>R:GCTTCCCAAACCAGCACTTCT</td><td rowspan=\"2\">117</td></tr><tr><td>F:TGCTCCAAATGATAGACCACAA R:AGCCTTCCACAAACATCCAGAA</td></tr><tr><td>体2CRFR2 生长激素促分泌素受体-1α</td><td>AB095995.1</td><td>F:TTTTTCCTGCCCGTATTCTG</td><td>290</td></tr><tr><td>GHSR-1a</td><td></td><td>R：GCTTGGTGCTGGAGAGTCTT</td><td></td></tr><tr><td rowspan=\"2\">甘油醛-3-磷酸脱氢酶 GAPDH</td><td rowspan=\"2\">NM_204305</td><td>F:ACATGGCATCCAAGGAGTGAG</td><td rowspan=\"2\">266</td></tr><tr><td>R:GGGGAGACAGAAGGGAACAGA</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据统计采用SPSS24.0软件进行 $\\mathbf { \\chi } _ { t }$ 检验，置信区间为 $9 5 \\%$ ， $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1静脉注射CRF对肉仔鸡采食量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，与对照组相比，试验组翅静脉注射CRF在2h内的采食量显著降低（20 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据柱标相同小写字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下图同。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/03c0ef9d930418352ddda200fab85ff4115565188ba9f378bc02474e099baf87.jpg",
+        "img_caption": [
+            "Fig.1Effects of intravenous injection of CRF on feed intake of broilers "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Value columns with the same small or no letters mean no significant difference ( $\\mathrm { ( } P \\mathrm { > } 0 . 0 5 \\mathrm { ) }$ ,whilewith different small letter mean significant difference ( $\\scriptstyle \\sum 0 . 0 5$ ).The same asbelow. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1 静脉注射CRF对肉仔鸡采食量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "静脉注射CRF 对肉仔鸡下丘脑和肠道中食欲调控相关基因mRNA相对表达量的影响由图2可知，与对照组相比，静脉注射CRF 显著升高了肉仔鸡下丘脑中胃饥饿素、CRFR1mRNA相对表达量 $( P { < } 0 . 0 5 )$ ，对丘脑中GHSR- $1 a$ 、CRFR2mRNA相对表达量无显著影响 ( $\\cdot P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/768f0cb601205120cda4879b97c07bc1da0272db881f1648435ed6c1a5ff2260.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ghrelin；胃饥饿素 ghrelin；GHSR- $1 a$ ：生长激素促分泌素受体 $\\mathbf { \\nabla } \\cdot 1 \\mathbf { a }$ growth hormone secretagogue receptor type $1 \\alpha$ ；CRFR1：促肾上腺皮质激素释放因子受体1corticotrophin releasing factor receptor1；CRFR2：促肾上腺皮质激素释放因子受体 2corticotrophin ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "releasing factorreceptor1。下图同 The same as below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2 静脉注射CRF对肉仔鸡下丘脑中相关基因mRNA相对表达量的影响expression level in hypothalamus of broilers",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，与对照组相比，静脉注射CRF 显著降低了肉仔鸡十二指肠中胃饥饿素mRNA相对表达量 $( P { < } 0 . 0 5 )$ ，显著提高了十二指肠中GHSR-1α、CRFR1、CRFR2mRNA相对表达量（ $_ { _ { P < 0 . 0 5 ) } }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/83323c6c0b89d0cea05bbb6275e152d147bf8ac7d375eb543f0c75baa674deb8.jpg",
+        "img_caption": [
+            "Fig.2Effects of intravenous injection of CRF on related genes mRNA relative ",
+            "图3静脉注射CRF 对肉仔鸡十二指肠中相关基因 mRNA 相对表达量的影响Fig.3Effects of intravenous injection of CRF on related genes mRNA relativeexpressionlevel in duodenum ofbroilers"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，与对照组相比，静脉注射CRF 显著提高了肉仔鸡空肠中GHSR-1α、CRFR1、CRFR2mRNA相对表达量（ $. P { < } 0 . 0 5 )$ ，对空肠中胃饥饿素mRNA相对表达量无显著影响 ( $. P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e91e54e8c82aaa2c86f46ffcfeb52f1db23a38a3cc3c2a1bb82224285cc91dc9.jpg",
+        "img_caption": [
+            "图4静脉注射CRF 对肉仔鸡空肠中相关基因mRNA相对表达量的影响 Fig.4Effects of intravenous injection of CRF on related genes mRNA relative expression level in jejunum of broilers "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，与对照组相比，静脉注射CRF 显著提高了肉仔鸡回肠中GHSR-1α、CRFR1、CRFR2mRNA相对表达量 $( P { < } 0 . 0 5 )$ ，对回肠中胃饥饿素mRNA相对表达量无显著影响（号 $( P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/74161b4b4e61788ac176f7415bad584c4081039e450e3612e121b846560d5f6d.jpg",
+        "img_caption": [
+            "图5静脉注射CRF对肉仔鸡回肠中相关基因mRNA相对表达量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Effect of intravenous injection of CRF on related genes mRNA relative expression ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "level inileumofbroilers ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1静脉注射CRF对肉仔鸡采食量的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CRF 在应激条件下通过调节HPA轴及下丘脑以外的其他CRF 通路调节机体内分泌系统、自主神经系统、免疫系统及行为。在哺乳动物中，脑室注射CRF会导致采食量降低并产生焦虑行为，诱导肾上腺分泌释放糖皮质激素[16-18]。已有研究表明，CRF 系统通过中枢直接参与能量平衡的调控[19]，如果CRF 系统发生功能性障碍则会引发病理性肥胖和进食障碍[20-22]。在家禽中，CRF的作用与哺乳动物相似，CRF 系统在机体内环境稳态受到威胁时参与食欲及能量平衡的调控[23]。已有研究表明，CRF 是鸡应激反应的中介分子，脑室注射CRF 导致鸡采食量下降，进而影响体增重[24]。2日龄肉仔鸡脑室注射CRF 后，采食量显著降低[25]。本试验中，静脉注射CRF 显著降低了肉仔鸡采食量，与前人研究相符，证实CRF 是肉仔鸡的一种有效抑食因子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2静脉注射CRF对肉仔鸡CRFR1和CRFR2mRNA相对表达量的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CRF 家族包括CRF 和尿皮素（UCN）1\\~3，在哺乳动物中高度保守，它们的功能由2个G 蛋白偶联受体CRFR1和CRFR2介导，CRF 和UCN3作为多功能神经肽参与应激反应并具有降低食欲的功能[20]。应激反应包括启动、维持和恢复3个阶段[26]，研究普遍认为CRF-CRFR1系统在应激启动过程中不可获缺[27]。有研究表明，在应激反应中，CRF可通过",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CRFR1诱导神经细胞凋亡，而CRFR1阻断剂R317573对此种凋亡具有抑制作用，因此可用于治疗应激相关性焦虑障碍[28]。本研究中，静脉注射CRF 显著升高了肉仔鸡下丘脑、肠道（十二指肠、空肠、回肠）中CRFR1mRNA 相对表达量，提示CRF 诱导CRFR1引发的焦虑障碍可能是造成肉仔鸡采食量降低的原因之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在小鼠上的研究表明，CRFR2 能介导CRF 对饱腹感的影响，CRFR2选择性拮抗剂能够剂量依赖性的逆转CRF 对采食的影响，因而CRFR2拮抗剂可能对神经性厌食症具有治疗作用[29]。此外，大鼠脑室注射CRFR2选择性受体拮抗剂能剂量依赖性的抑制胃排空延迟，而CRFR1受体选择性拮抗剂则不能，说明CRFR2受体介导CRF 引起胃排空延迟[30]。本研究中，静脉注射CRF 显著升高了肉仔鸡肠道（十二指肠、空肠、回肠）中CRFR2 mRNA 相对表达量，提示CRFR2可能通过影响饱腹感和延迟胃排空造成肉仔鸡采食量下降。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3静脉注射CRF对肉仔鸡胃饥饿素和GHSR-1αmRNA相对表达量的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "胃饥饿素是一种肽类激素，在促进垂体生长激素分泌、食欲刺激等多种生理活动中发挥重要作用[31-32]。本研究中，静脉注射 CRF 显著降低了肉仔鸡十二指肠中胃饥饿素 mRNA 相对表达量，空肠、回肠中胃饥饿素mRNA 相对表达量无显著变化，这说明静脉注射CRF 对胃饥饿素影响在下丘脑与肠道之间存在差异，且肠道各段响应CRF 的阈值不同，十二指肠响应阈值更低。有研究表明，胃饥饿素对不同动物的摄食有不同的影响，胃饥饿素可促进大鼠、绵羊、金鱼和人的摄食行为，但对幼鱼和鹌鹑有相反作用[33]。哺乳动物注射胃饥饿素后，通过激活神经肽Y（NPY）和刺鼠色蛋白相关蛋白（AgRP）造成食物摄入的增加[34]。与人和小鼠不同，鸡注射胃饥饿素后出现强烈的食欲抑制作用，且抑制效果存在剂量依赖性[35]。本研究中，静脉注射CRF 显著提高了肉仔鸡下丘脑中胃饥饿素mRNA 相对表达量，胃饥饿素 mRNA相对表达量升高会降低肉仔鸡采食量，这可能是本试验中肉仔鸡采食量降低的一个重要原因。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "胃饥饿素受体（GHSR）存在GHSR- $1 \\alpha$ 、GHSR-1β2种类型，其中GHSR-1α为其功能型受体[36]。研究指出，大鼠切除肾上腺后的注射地塞米松（人工合成的糖皮质激素)，增加了GHSR-1α的mRNA相对表达量，用地塞米松对大鼠垂体细胞进行处理也引起了GHSR-1αmRNA 相对表达量升高[37]。在科布肉仔鸡上的研究表明，胃饥饿素引起的厌食反应是由 HPA轴激活引起的[14]。本试验中，静脉注射CRF 显著提高了肉仔鸡肠道中GHSR-1α mRNA 相对表达量，这可能是由于注射CRF 后激活了HPA轴引起应激，刺激肾上腺皮质释放糖皮质激素，外周糖皮质激素含量升高引起GHSR-1αmRNA相对表达量。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "外周静脉注射CRF 能诱导肉仔鸡采食量降低，诱导中枢胃饥饿素的基因表达，中枢CRFR1、胃饥饿素以及肠道CRFR1、CRFR2、GHSR-1a基因表达上调导致的食欲抑制可能是造成采食量下降的原因。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]QUINTEIRO-FILHO W M,RIBEIRO A,FERRAZ-DE-PAULA V,et al.Heat stress impairs performance parameters,induces intestinal injury,and decreases macrophage activity in broiler chickens[J].Poultry Science,2010,89(9):1905-1914. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]VALE W,SPIESS J,RIVIER C,et al.Characterization of a 41-residue ovine hypothalamic peptide that stimulates secretion of corticotropin and   \nbeta-endorphin[J].Science,1981,213(4514):1394-1397. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]LOVEJOY D A,DE LANNOY L.Evolution and phylogeny of the corticotropin-releasing factor (CRF) family of peptides:expansion and specialization in the vertebrates[J].Journal of Chemical Neuroanatomy,2013,54:50-56. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]SOLINAS G,SUMMERMATTER S,MAINIERI D,et al.Corticotropin-releasing hormone directly stimulates thermogenesis in skeletal muscle possbly through substrate cycling between de novo lipogenesis and lipid oxidation[J].Endocrinology,2006,147(1):31-38. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]BACKSTROM T,WINBERG S.Central corticotropin releasing factor and social stress[J].Frontiers in Neuroscience,2013,7:117. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6]NOZU T,TSUCHIYA Y,KUMEI S,et al.Peripheral corticotropin-releasing factor (CRF) induces stimulation of gastric contractions in freely moving conscious rats:role of CRF receptor types1 and 2[J].Neurogastroenterology & Motility,2013,25(2):190-197. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]LIU S,CHANG J,LONG N,et al.Endogenous CRF in rat large intestine mediates motor and secretory responses to stress[J].Neurogastroenterology & Motility,2015,28(2):281-291. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]CALLAGHAN B,FURNESS JB.Novel and conventional receptors for ghrelin,desacyl-ghrelin,and pharmacologically related compounds[J].Pharmacological Reviews,2014,66(4):984-1001. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]KOJIMA M,HOSODA H,DATE Y,et al.Ghrelin is a growth-hormone-releasing acylated peptide from stomach[J].Nature,1999,402(6762):656-660. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]KAIYA H,MIYAZATO M,KANGAWA K,et al.Ghrelin:a multifunctional hormone in non-mammalian vertebrates[J].Comparative Biochemistry and Physiology Part A:Molecular & ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Integrative Physiology,2008,149(2):109-128. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11]TINOCO A B,N SLUND J,DELGADO M J,et al.Ghrelin increases food intake,swimming activity and growth in juvenile brown trout (Salmo trutta)[J].Physiology & Behavior,2014,124(2):15-22. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12]FURUSE M,TACHIBANA T,OHGUSHI A,et al.Intracerebroventricular injection of ghrelin and growth hormone releasing factor inhibits food intake in neonatal chicks[J].Neuroscience Letters,2001,301(2):123-126. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13]KAIYA H,KANGAWA K,MIYAZATO M.Update on ghrelin biology in birds[J].General and Comparative Endocrinology,2013,190:170-175. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14]OCLON E,PIETRAS M.Peripheral ghrelin inhibits feed intake through hypothalamo-pituitary-adrenal axis-dependent mechanism in chicken[J].Journal of Animal and Feed Sciences,2011,20(1):118-130. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ method[J].Methods,2001,25(4):402-408. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16]HANAFUSA J,MUNE T,TANAHASHI T,et al.Altered corticosteroid metabolism differentially affects pituitary corticotropin response[J].American Journal of Physiology.Endocrinology and Metabolism,2002,282(2):E466-E473. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17]CONTARINO A,GOLD L H.Targeted mutations of the corticotropin-releasing factor system:effects on physiology and behavior[J].Neuropeptides,2002,36(2/3):103-116. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18]CLARK M S,KAIYALA K J.Role of corticotropin-releasing factor family peptides and receptors in stress-related psychiatric disorders[J].Seminars in Clinical Neuropsychiatry,2003,8(2):119-136. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] CONE R D.The corticotropin-releasing hormone system and feeding behavior—a complex web begins to unravel[J].Endocrinology,2000,141(8):2713-2714. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20]CONNAN F,LIGHTMAN S L,LANDAU S,et al.An investigation of hypothalamic-pituitary-adrenal axis hyperactivity in anorexia nervosa:the role of CRH and AVP[J].Journal of Psychiatric Research,2007,41(1/2):131-143. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21]YAKABI K,NOGUCHI M,OHNO S,et al.Urocortin 1 reduces food intake and ghrelin secretion via CRF(2) receptors[J].American Journal of Physiology,2011,301(1):E72-E82. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22]ARASE K,YORK D A,SHIMIZU H,et al.Effects of corticotropin-releasing factor on food intake and brown adipose tissue thermogenesis in rats[J].American Journal of Physiol0gy,1988,255(3 Pt 1):E255-E259. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[23]DENBOW D M,SNAPIR N,FURUSE M.Inhibition of food intake by CRF in chickens[J].Physiology & Behavior,1999,66(4):645-649. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24]CLINE MA,KUO A Y,SMITH ML,et al.Differential feed intake responses to central corticotrophin releasing factor in lines of chickens divergently selected for low or high body weight[J].Comparative Biochemistry and Physiology Part A Molecular & Integrative Physiology,2009,152(1):130-134. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25]FURUSE M,MATSUMOTO M,SAITO N,et al.The central corticotropin-releasing factor and glucagon-like peptide-1 in food intake of the neonatal chick[J].European Journal of Pharmacology,1997,339(2/3):211-213. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26]CARSIA R V,WEBER H.Dietary protein restriction stress in the domestic chicken (Gallus gallus domesticus) induces remodeling of adrenal steroidogenic tissue that supports hyperfunction[J].General and Comparative Endocrinology,20o0,120(1):99-107. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[27]NEUFELD-COHEN A,TSOORY M M,EVANS A K,et al.A triple urocortin knockout mouse model reveals an essential role for urocortins in stress recovery[J].Proceedings of the National Academy of Sciences of the United States of America,2010,107(44):19020-19025. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28]SCHMIDT M E,ANDREWS R D,VAN DER ARK P,et al.Dose-dependent effects of the $\\mathrm { C R F } _ { 1 }$ receptor antagonist R3 17573 on regional brain activity in healthy male subjects[J].Psychopharmacology,2010,208(1):109-119. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[29]PELLEYMOUNTER MA,JOPPA M,CARMOUCHE M,et al.Role of corticotropin-releasing factor (CRF) receptors in the anorexic syndrome induced by CRF[J].Journal of Pharmacology & Experimental Therapeutics,2000,293(3):799-806. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[30]MART NEZ V,TACH Y.Role of CRF receptor 1 in central CRF-induced stimulation of colonic propulsion in rats[J].Brain Research,2001,893(1/2):29-35. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31]GUALILLO O,LAGO F,G MEZ-REINO J,et al.Ghrelin,a widespread hormone:insights into molecular and cellular regulation of its expression and mechanism of action[J].FEBS Letters,2003,552(2/3):105-109. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32]KOJIMA M,KANGAWA K.Ghrelin,an orexigenic signaling molecule from the gastrointestinal tract[J].Current Opinion in Pharmacology,2002,2(6):665-668. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[33]KAIYA H,KANGAWA K,MIYAZATO M.What is the general action of ghrelin for vertebrates?-Comparisons of ghrelin's effects across vertebrates[J].General and Comparative Endocrinology,2013,181:187-191. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34]SHOUSHA S,NAKAHARA K,KOJIMA M,et al.Different effects of peripheral and central ghrelin on regulation of food intake in the Japanese quail[J].General and Comparative Endocrinol0gy,2005,141(2):178-183. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35]SAITO E S,KAIYA H,TACHIBANA T,et al.Inhibitory effect of ghrelin on food intake is mediated by the corticotropin-releasing factor system in neonatal chicks[J].Regulatory Peptides,2005,125(1/2/3):201-208. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36]SOARES JB,LEITE-MOREIRA A F.Ghrelin,des-acyl ghrelin and obestatin:three pieces of the same puzzle[J].Peptides,2008,29(7):1255-1270. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[37]TAMURA H,KAMEGAI J,SUGIHARA H,et al.Glucocorticoids regulate pituitary growth hormone secretagogue receptor gene expression[J].Journal of   \nNeuroendocrinology,2001,12(6):481-485. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effects of Corticotropin-Releasing Factor on Appetite Regulation of Broilers ZHOU Huajin LI HepengZHANG Hui WANG JiguangSONG Zhigang\\* (College ofAnimal Scienceand Technology/ Colegeof Veterinary Medicine,Shandong Agricultural University Tai'an 271018,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment used the live broilers as the object of study, intravenous injection of exogenous corticotropin-releasing factor (CFR), the changes of feed intake and the expression of appetite regulation related genes in the hypothalamus and intestine were analyzed, and to investigate the effects of CFR on the appetite regulation of broilers. Twenty 1-day-old male Arbor Acres (AA) broilers with similar body weight were randomly divided into 2 groups at 7 days of age with 10 broilers per group (one cage per broiler). At 1O days of age,broilers in the experimental group were injected $1 ~ 0 0 0 . 0 ~ \\mu \\mathrm { g / k g }$ BW CRF through wing intravenous and broilers in the control group were injected the same dose of saline at O8:00.After 2 h injection,the feed intake was recorded, and the mRNA relative expression level of appetite related genes in the ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "hypothalamus, duodenum, jejunum and ileum were measured by RT-PCR, such as ghrelin, corticotropin releasing factor receptor (CRFR)1, CRFR2 and growth hormone secretagogues receptor- $1 \\alpha$ (GHSR- $1 a$ ). The results showed that compared with the control group,intravenous injection of CRF significantly decreased the feed intake of broilers $( P { < } 0 . 0 5 )$ ; significantly increased the mRNA relative expression levels of ghrelin and CRFR1 in hypothalamus of broilers （20 $( P { < } 0 . 0 5 )$ , but did not affect the mRNA relative expresson levels of CRFR2 and GHSR- $1 a$ in hypothalamus $( P { > } 0 . 0 5 )$ ; significantly increased the mRNA relative expression levels of CRFR1, CRFR2 and GHSR $1 a$ in duodenum, jejunum and ileum of broilers $( P { < } 0 . 0 5 )$ , significantly decreased the mRNA relative expression level of ghrelin in duodenum $( P { < } 0 . 0 5 )$ , but did not affect the mRNA relative expression level of ghrelin in jejunum and ileum ( ${ \\mathrm { \\ P } } { > } 0 . 0 5 { \\mathrm { ) } }$ . In conclusion, intravenous injection of CRF can decrease the feed intake of broilers,induce the central ghrelin gene expression, the inhibition of appetite suppression mediated by the up-regulated expression of CRFR1,ghrelin in the hypothalamus and CRFR1,CRFR2 and GHSR- $1 a$ genes in the intestinal tract may be the cause of the decrease of feed intake. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: broilers; appetite; feed intake; CRF; ghrelin ",
+        "page_idx": 12
+    }
+]

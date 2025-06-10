@@ -1,0 +1,949 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201803018 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西藏墨脱悬钩子属植物小志",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "熊先华1²，徐波'，鞠文彬1，高云东'，邓亨宁1，高信芬1\\*（1.中国科学院成都生物研究所，中国科学院山地生态恢复与生物资源利用重点实验室，生态恢复与生物多样性保育四川省重点实验室，成都610041；2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：在野外调查、标本采集、标本查阅与鉴定及文献考证的基础上，对西藏墨脱县产的蔷薇科悬钩子属植物进行了系统整理，目前发现本区共有悬钩子属植物 28种，4变种，其中 Rubus lineatus Reinw.var.glabrior Hook.f.为中国分布新纪录植物，小柱悬钩子R.columellaris Tutcher、红毛悬钩子R.wallichianusWight et Arn.、独龙悬钩子R.taronensis C.Y.Wu exT.T.YuetL.T.Lu和疏松悬钩子R.eferatus Craib 为西藏分布新纪录植物。对《中国植物志》和FloraofChina 中本属部分学名的不恰当使用进行了探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：悬钩子属，分类，西藏，墨脱中图分类号：Q949 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Notes on Rubus L. (Rosaceae) from Medog, Xizang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIONG Xianhual1²2, XU $\\mathbf { B o } ^ { 1 }$ , JU Wenbing1, GAO Yundong1, DENG Hengning1, GAO Xinfen1\\*   \n(1.CASKey LaboratoryofMountain Ecological Restorationand Bioresource Utilization,Ecological Restoration and Biodiversity Conservation Key Laboratory ofSichuan Province,Chengdu Institute of Biology, Chinese Academy of Sciences,Chengdu 610041, China; 2. University of Chinese Academy of Sciences, Beijing 100049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Based on literature,field work,collection,examination and identification of related specimens,28 species and 4 varieties ofthe genus Rubus L., belonging to the family Rosaceae,are recognized in Medog, Xizang, China.Among them,R.lineatus Reinw.var.glabrior Hook.f.，one variety distributed in India,Sri Lanka and Malay Peninsula,is first reported in China.And R.columelaris Tutcher,R.walichianus Wight et Arm.，R. taronensis T.T.Yu etL.T.Lu and R.efferatus Craib are reported as newly recorded species to Xizang.Some inappropriate names in Flora Reipublicae Popularis Sinicae and Flora of China,such as $R$ laxus Focke,R. reticulatus Wall. ex Hook. f. and R. fragarioides Bertol.,are revised in the present paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:Rubus L.， taxonomy，Xizang，Medog ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "墨脱县位于西藏东南部，地处雅鲁藏布江下游和东喜马拉雅山南翼，东、西、北三面为高山所环绕，南与印度阿萨姆交界，地势北高南低，内有雅鲁藏布江纵贯南北，最高峰南迦巴瓦峰海拔达 $7 7 8 2 \\mathrm { m }$ ，最低处为南缘的巴昔卡，海拔仅 $1 5 5 \\mathrm { m }$ 。气候上具热带和亚热带湿润气候特色，夏季雨量充沛，冬季温暖湿润，年平均气温 $1 6 ^ { \\circ } \\mathsf { C }$ ，年降雨量在 $2 3 5 0 \\mathrm { m m }$ 以上（程树志，1988）。植被上具有从热带季雨林、常绿阔叶林，到针阔叶混交林、暗针叶林，再到高山灌丛、草甸和流石滩植被的较完整山地垂直植被带谱（李渤生，1984；郑维列，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1999；孙航和周浙昆，2002）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这里，许多热带植物成分到达其分布的北界，而一些温带成分则达到其分布的南缘，是热带印度马来区系成分和温带泛北极成分及横断山区系和东喜马拉雅区系的交汇地（程树志和倪志诚，1985；孙航和周浙昆，1996，1997）。本区植物区系的研究对揭示青藏高原植物区系的性质、东喜马拉雅植物区系乃至东亚植物区系的起源及演化都具有重要意义（倪志诚和程树志，1992；孙航和周浙昆，1996，1997，2002）。20世纪初英国的F.K.Ward就曾在东喜马拉雅及西藏东南部地区开展植物调查（倪志诚和程树志，1992；孙航和周浙昆，2002）。1935年我国的王启无曾在南迦巴瓦峰地区采集植物标本（倪志诚和程树志，1992）。后中国科学院青藏高原综合科学考察队及中国科学院植物研究所分别于1974年和1980年在本区开展了多学科的考察，收集了较丰富的植物区系资料（陈伟烈等，1981；倪志诚和程树志，1992；孙航和周浙昆，2002）。紧接着中国科学院登山科学考察队于1982${ \\sim } 1 9 8 4$ 年组织有关科研机构和院校对南迦巴瓦峰地区进行了数次大规模科考，相关成果经后期整理出版了一套南迦巴瓦峰登山科学考察丛书，其中有《西藏南迦巴瓦峰地区维管束植物区系》、《南迦巴瓦峰地区生物》、《南迦巴瓦峰地区自然地理与自然资源》等（程树志和倪志诚，1985；倪志诚和程树志，1992；孙航和周浙昆，2002）。1990年姚淦等对本区的植物资源进行了为期三月的野外考察，后对墨脱植物资源的特点和主要的植物资源类型进行了总结（韩维栋等，1992）。而近期较为全面的考察是由中国科学院昆明植物研究所的孙航、周浙昆和俞宏渊等人于 $1 9 9 2 { \\sim } 1 9 9 3$ 年在墨脱地区开展的，其历时近9个月，采得标本7100余号，相关研究成果反映在《雅鲁藏布江大峡弯河谷地区种子植物》（孙航和周浙昆，2002）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "悬钩子属 RubusL.隶属于蔷薇科Rosaceae 蔷薇亚科Rosoideae（Focke，1894），为蔷薇科的大属之一，现见诸文献报道的学名有9700多个（ThePlantList，2018），具体种数尚无定论，有的学者认为有 $9 0 0 { \\sim } 1 0 0 0$ 种（Thompson，1997），有的研究者认为约700种（Lu&Boufford，2003），广布于除南极洲外的全球各地（Mabberley，1997；Lu&Boufford，2003），集中分布于欧洲、北美和东亚。其种类繁多、地理分布范围广，且可通过无融合生殖及杂交产生大量多倍体而使种的界限模糊，致使该类群错综复杂，是分类学上公认的困难类群之一（Robertson，1974；Lu，1983；Weber，1996；Alice&Campbell1999；Aliceetal，2008）。同时其也是一类重要的资源植物，食用方面，其是重要的小果类作物成员之一，在欧美各国广泛栽培的 blackberry、dewberry和raspberry 均属本属植物，果实除供生食外，亦可加工成果酱、果汁、果酒、蜜饯等（俞德浚，1979）；药用方面，R.idaeusL.和R.chingiiHu作为药用植物利用已久（顾姻，1992；陈曦和王仕玉，2006）；观赏方面，R.odoratusL.、R.spectabilis Pursh.和R.calycinoides Hayata已被一些地区应用为绿化或观赏物种（顾姻，1992；陈曦和王仕玉，2006）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近期，依托西藏墨脱重点保护野生植物资源调查项目，我们于2015-2017年对墨脱县的维管植物进行了数次调查，在后期的标本整理鉴定中发现许多悬钩子属种类在本区以前均未有报道，现特整理成文，一是为摸清本区植物种类提供更加详实的区系资料，二是期望能为本区资源植物的合理开发利用提供基础资料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在文献考证、模式标本查阅的基础上对我们近年来于墨脱地区采集的标本及馆藏于中国科学院植物研究所植物标本馆（PE）、中国科学院昆明植物研究所植物标本馆（KUN）及江苏省中国科学院植物研究所植物标本馆（NAS）的该地区标本进行了整理鉴定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经文献查阅及整理鉴定，发现墨脱地区共有悬钩子属植物28种，4变种，具体如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分种（变种）检索表",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.灌木，稀半灌木，具粗壮皮刺或针刺。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.托叶和叶柄合生，较狭窄，全缘，不分裂，宿存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.羽状复叶。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.叶片下面被绒毛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.小叶(5-)7-9(-11)枚· 1.红泡刺藤R.niveus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.小叶3-5枚。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.枝、叶柄和叶片下面脉上均被紫红色刺毛。 7.叶片椭圆形，顶端急尖或突尖 …2a.椭圆悬钩子R.ellipticus 7.叶片倒卵形，顶端浅心形或近截形 ·2b.栽秧泡 $\\scriptstyle R .$ ,ellipticus var. obcordatus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6.枝、叶柄和叶片下面脉上均无紫红色刺毛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8.果实黑色或紫黑色，近无毛；花萼外密被柔毛… …3.喜阴悬钩子R.mesogaeus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8.果实红色或黄色、橙黄色。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9.花萼外面光滑无毛；果实黄色，无毛或顶端常有具绒毛的残存花柱   \n….4.粉枝莓R.biflorus   \n9.花萼外面被柔毛和绒毛；果实红色或黄色、橙黄色。   \n10.果实被灰白色绒毛… .…5.纤细悬钩子R.hypargyrus   \n10.果实无毛或稍被柔毛… 6.美饰悬钩子R.subornatus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.叶片下面无毛或被柔毛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11.小叶 5-11 枚。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12.小枝被细柔毛和疏生皮刺，无腺毛；花紫红色或粉红色；小叶(5-)7-9(- 枚 .7.紫红悬钩子R.subinopertus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12.小枝被紫红色腺毛、柔毛和皮刺；花白色；小叶常5-7枚 …8.红腺悬钩子R.sumatranus ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11.小叶常3枚。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13.顶生小叶明显比侧身小叶长1-3倍，叶片多少革质·9.小柱悬钩子R.columellaris",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13.顶生小叶与侧身小叶长度无明显差别，叶片非革质。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14.枝密被红褐色刺毛，并具柔毛和稀疏皮刺·…10.红毛悬钩子R.wallichianus",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14.枝上无红褐色刺毛，仅被柔毛和皮刺。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "15.小枝、叶柄、花梗和花萼外具柔毛和腺毛；叶柄长4-8(-10)cm.. ·11.锡金悬钩子R.sikkimensis ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "15.小枝、叶柄、花梗和花萼外疏被柔毛，无腺毛；叶柄通常短于1.5",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "12.细瘦悬钩子R.macilentus ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.掌状复叶具3或5小叶。 16.掌状复叶具3小叶；叶柄、花梗或小枝有腺毛；果实无毛… ….13.掌叶悬钩子R.pentagonus ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16.掌状复叶具5小叶；叶柄、花梗或小枝无腺毛；果实具柔毛… ….14.五叶悬钩子R.quinquefoliolatus ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.托叶和叶柄离生，较宽大，常分裂，宿存或脱落。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17.叶片下面被丝状绢毛（至少下面脉上被绢毛），小叶具羽状脉，一级侧脉多数而平行。18.单叶 15.酒红悬钩子R.calophyllus18.掌状复叶具3或5小叶。19.掌状复叶具3小叶，植株具红色腺毛…16.绚丽悬钩子R.splendidissimus19.掌状复叶具5小叶。20.叶片下面绢毛不脱落· …17a.绢毛悬钩子R.lineatus20.叶片下面绢毛脱落，仅在脉上有残余·",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "…17b.近光叶绢毛悬钩子R.lineatusvar.glabrior ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "17.叶片下面无丝状绢毛，小叶具网状脉。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21.羽状复叶，具3小叶。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "22.植株无腺毛；花小，直径 $\\mathrm { 1 - 1 } . 5 \\mathrm { c m }$ ；花梗长约 $1 \\mathrm { c m }$ ；雌蕊少· …18.墨脱悬钩子 $\\scriptstyle R .$ metoensis   \n22.植株具腺毛；花大，直径 $3 { - } 4 ~ \\mathrm { c m }$ ；花梗长 $3 { - } 4 \\mathrm { c m }$ ；雌蕊很多· ·19.大花悬钩子 $\\pmb { R }$ wardii ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21.单叶。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "23.叶片下面无毛或被柔毛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "24.顶生花序圆锥状；叶片长卵形或卵状披针形，顶端短渐尖至尾尖；灌木。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "25.植株被黄色腺体；叶片基部圆形至近截形，两面均被腺体，仅沿脉 具柔毛…… 20.独龙悬钩子R.taronensis   \n25.植株无黄色腺体；叶片基部心形，下面具柔毛… .…21.疏松悬钩子R.efferatus ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "24.花2-3朵或稍多顶生，或单花腋生；叶片近圆形，顶端急尖或圆钝，下面被柔毛；矮小灌木或似草本。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "26.植株无腺毛，叶裂片圆钝… ...….22a.滇藏悬钩子R.hypopitys ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "26.植株具腺毛，叶裂片急尖· ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "…22b.汉密悬钩子R.hypopitysvar.hanmiensis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "23.叶片下面被绒毛。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "27.叶基常圆形，叶片卵状长圆形或椭圆形，边缘不分裂或有时基部浅裂；叶柄通常短于1cm；花通常无花瓣23.西南悬钩子R.assamensis27.叶基心形，叶片近圆形、卵形至长卵形，边缘浅裂；叶柄长 $2 { \\cdot } 9 \\mathrm { c m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "花具花瓣。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "28.叶片卵形或长卵形，边缘波状或不明显浅裂；顶生圆锥花序开展 而宽大… .24.圆锥悬钩子R.paniculatus ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "28.叶片宽卵形或近圆形，边缘常明显5浅裂；顶生圆锥花序狭窄…",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "…25.网脉悬钩子R.kumaonensis ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.匍匐草本，稀半灌木，常无皮刺，稀具针刺或刺毛；托叶着生于叶柄基部和茎上，离生。29.复叶，具小叶3或5枚。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "30.小叶常5枚，偶兼有3枚小叶，边缘浅裂，具缺刻状或锐裂粗锯齿 .…26.柔毛莓叶悬钩子R.franchetianusvar.pubescens ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "30.小叶常3枚，边缘常不分裂，具不整齐细锐锯齿或重锯齿……27.凉山悬钩子R.fockeanus",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "29.单叶。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "31.茎、叶柄、花梗和花萼具柔毛和针刺；萼片叶状，外萼片具缺刻状锯齿，内萼片较狭，全缘或有锯齿… …28.齿萼悬钩子 $\\scriptstyle R .$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "calycinus ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "31.茎、叶柄、花梗和花萼具柔毛和红褐色软刺毛；萼片卵状披针形，顶端常浅条裂， 稀不裂 29.匍匐悬钩子R.pectinarioides ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.红泡刺藤 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rubus niveus Thunb.inRubo 9,f.3.1813. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（台湾、陕西、甘肃、四川、贵州、西藏、云南、广西），阿富汗，克什米尔地区，印度，斯里兰卡，尼泊尔，不丹，缅甸，泰国，老挝，越南，马来西亚，印度尼西亚，菲律宾。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：县城—德兴乡：熊先华958(CDBI)；亚让：高云东和李蒙YLZB0051(CDBI);格林：倪志诚等03716(PE)；背崩—阿尼桥：熊先华964，965(CDBI)；易贡白—阿尼桥：徐波和熊先华YLZB1106(CDBI)；米日村：熊先华1038(CDBI)；希让：李渤生和程树志04050 (PE)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2a.椭圆悬钩子",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rubusellipticus Sm.in Rees,Cycl.3O:Rubusno.16.1819. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（四川、西藏、云南），巴基斯坦，印度，斯里兰卡，尼泊尔，不丹，缅甸，泰国，老挝，越南，印度尼西亚，菲律宾。  \n凭证标本：墨脱村：熊先华953-7(CDBI)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2b.栽秧泡 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rubus ellipticus Smith var. obcordatus (Franch.) Focke in Bibl. Bot.17 (Heft 72(2)): 199.1911.分布：中国（四川、贵州、西藏、云南、广西），印度，尼泊尔，老挝，泰国，越南。凭证标本：墨脱村：熊先华953-1，953-2，953-3，953-4，953-5，953-6，953-8，953-9(CDBI)，李渤生和程树志3462 (PE)；县城—德兴乡：熊先华953-14，953-15，953-16，953-17，953-18，953-19，953-20(CDBI)；德兴村—德果村：徐波等YLZB2334(CDBI)；汗密：陈伟烈10775(PE)；帮辛：李渤生和程树志3190，3294 (PE)；加热萨：李渤生和程树志02012 (PE)；加热萨—甘登：高云东和李蒙YLZB0165(CDBI)；希让：李渤生和程树志 4053 (PE)；希让—地东：徐波和鞠文彬YLZB3164(CDBI)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.喜阴悬钩子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rubus mesogaeus Focke ex Diels in Bot. Jahrb. Syst. 29(3-4): 399.1900.  \n分布：中国（台湾、河南、湖北、陕西、甘肃、四川、贵州、西藏、云南），日本，萨哈林岛，印度，尼泊尔，不丹。  \n凭证标本：扎墨公路62K：金效华等 STET2648(KUN)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.纤细悬钩子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rubus hypargyrus Edgew. in Trans. Linn. Soc.London 20(1): 45.1846.-—R. austrotibetanus T.T. Yu et L.T. Lu in Acta Phytotax. Sin. 18(4): 496.1980; T. T. Yu et L.T.Lu in T. T. Yu,Fl. Reip.Pop. Sin. 37: 57.1985; L.T.Lu in Z. Y. Wu,Fl. Xizang.2: 615.1985; L.T.Lu et D.E. Bouffordin Z.Y.Wu et P.H.Raven, Fl. China 9: 209.2003.  \n分布：中国（西藏、云南），克什米尔地区，印度，尼泊尔，不丹。  \n凭证标本：嘎隆拉山口南侧：程树志和李渤生299 (PE)；扎墨公路 58K：熊先华949(CDBI);  \n多雄河西岸：熊先华1003，1007(CDBI)；多雄拉山口东侧：Anonymous 2345 (PE)；拉格：青藏队74-3776(PE)；拉格—汗密：熊先华1013，1015，1018(CDBI)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.美饰悬钩子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rubus subornatus Focke in Notes Roy. Bot. Gard. Edinburgh 5(23): 77, pl. 69.1911.  \n分布：中国（四川、西藏、云南），缅甸。  \n凭证标本：扎墨公路60K：熊先华1041(CDBI)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.粉枝莓 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rubus biflorus Buch.-Ham.ex Sm.in Rees, Cycl.3O:Rubus no.9.1819.  \n分布：中国（陕西、甘肃、四川、贵州、西藏、云南），克什米尔地区，印度，尼泊尔，不丹，缅甸。  \n凭证标本：格当：熊先华1415 (CDBI)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7.紫红悬钩子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rubus subinopertus T.T.Yu et L.T.Lu in Acta Phytotax. Sin. 18(4): 497.1980.  \n分布：中国（四川、西藏、云南）。  \n凭证标本：扎墨公路62-72K：张书东等 STET1662(KUN)；汗密：生物研究所西藏考察队1688 (HNWP)，陈伟烈10731(PE)，青藏队74-4042(PE)；多雄河西岸：熊先华977(CDBI)，徐波和熊先华YLZB1167(CDBI)；斑固山，生态室高原组11349 (PE)；格当：熊先华1407 (CDBI)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8.红腺悬钩子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rubus sumatranus Miq., Fl. Ned. Ind. Append. 1: 3O7. 1860. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（浙江、福建、台湾、江西、安徽、湖北、湖南、四川、贵州、西藏、云南、广西、广东、海南），朝鲜，日本，印度，尼泊尔，不丹，泰国，老挝，柬埔寨，越南，马来西亚，印度尼西亚。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：格林：熊先华1390，1392(CDBI)；布琼湖：徐波等YLZB3553(CDBI)；背崩",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "—阿尼桥：熊先华963(CDBI)；汗密：陈伟烈10691(PE)；斑固山：生态室高原组11318(PE)；格当：熊先华1400，1417(CDBI)；希让：程树志和李渤生4725 (PE)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9.小柱悬钩子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rubus columellaris Tutcher in Rep. Bot. Dept. Hong Kong 1914: 31.1915.  \n分布：中国（福建、江西、湖南、四川、贵州、云南、广西、广东），越南。中国西藏分布新纪录。  \n凭证标本：格林：熊先华1389，1391(CDBI)；德尔贡：高云东等YLZB2730 (CDBI)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10.红毛悬钩子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rubus wallichianus Wight et Arn., Cat. Ind. Pl. 61.1833. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（台湾、湖北、湖南、四川、贵州、云南、广西），印度，尼泊尔，不丹，越南。中国西藏分布新纪录。  \n凭证标本：县城—德兴乡：熊先华953-12，953-13 (CDBI)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11.锡金悬钩子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RubussikkimensisHook.f.,Fl.Brit.India2(5):336.1878.  \n分布：中国（西藏），印度，不丹。  \n凭证标本：多雄河西岸：熊先华984(CDBI)；大岩洞一汗密：鞠文彬等YLZB0576(CDBI)；汗密：鞠文彬和邓亨宁YLZB0833，YLZB3318(CDBI)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12.细瘦悬钩子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rubus macilentus Jacquem. ex Cambess. in Voy. Inde 4(Bot.): 49,t. 60.1844.分布：中国（四川、西藏、云南），克什米尔地区，印度，尼泊尔，不丹。凭证标本：扎墨公路 62-80K：熊先华1382(CDBI)，高云东和李蒙YLZB0191(CDBI)，张书东等 STET1664 (KUN)；格当：熊先华1410，1418(CDBI)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13.掌叶悬钩子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rubus pentagonus Wall. ex Focke in Bibl. Bot.17(Heft 72(2)): 145.1911.  \n分布：中国（四川、贵州、西藏、云南），印度，尼泊尔，不丹，缅甸，越南。  \n凭证标本：格当：熊先华1409(CDBI)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14.五叶悬钩子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rubus quinquefoliolatus T.T. Yu et L.T.Lu in Acta Phytotax. Sin. 20(3): 306, pl.2,f.1. 1982.-R. pentagonus Wall. ex Focke var. eglandulosus Yu et Lu in Acta Phytotax. Sin. 20(3):306.1982; T.T. Yu et L.T.Lu in T. T. Yu,Fl. Reip. Pop. Sin. 37: 111. 1985; L.T. Lu et D.E.Boufford in Z. Y. Wu et P. H. Raven,Fl. China 9: 233. 2003. syn. nov.  \n分布：中国（贵州、西藏、云南），泰国，越南。  \n凭证标本：格林：生态室高原组14142(PE)；阿尼桥—汗密：YLZB1151(CDBI)；汗密：徐波和熊先华YLZB1151(CDBI)，陈伟烈10700 (PE)；多雄河西岸：熊先华981(CDBI)，徐波和熊先华YLZB1174(CDBI)；大岩洞一汗密：鞠文彬等YLZB0582(CDBI)；格当：熊先华1405，1406(CDBI)，陈伟烈14582 (PE)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "15.酒红悬钩子(美叶悬钩子) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rubus calophyllus C.B. Clarke in J.Linn. Soc., Bot. 25: 19, t.7.1889. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分布：中国[西藏（王焕冲等，2012；张书东，2012）]，印度，不丹。凭证标本：嘎隆拉山南68K：程树志和李渤生00083(PE)；扎墨公路 52-80K：熊先华1376(CDBI)，FLPH Tibet Expedition12-1885 (PE)，金效华等 STET1633 (KUN)；比西日一汗密：鞠文彬和邓亨宁YLZB3891(CDBI)；汗密：鞠文彬和邓亨宁YLZB0828(CDBI)；格当：熊先华1414(CDBI)，朱章明和陈金元YLZB4563(CDBI)，李渤生和程树志01295 (PE)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "原始文献记载本种果实颜色为黄色，据野外观察，实有橙黄色和红色两种果实类型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16.炫丽悬钩子",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RubussplendidissimusHara in J. Jap.Bot.4O:327.1965. $\\equiv R$ 、andersoniHook.f.,Fl.Brit.India2: 333.1878, nom. illeg., later homonym, non Lefevr. 1877.  \n分布：中国[西藏（张书东，2012）]，印度，尼泊尔，不丹。  \n凭证标本：扎墨公路62-72K：金效华等 STET1632(KUN)；拉格一汗密：熊先华1031(CDBI)；汗密：鞠文彬和邓亨宁YLZB3326(CDBI)；汗密一大岩洞：熊先华991(CDBI)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "17a.绢毛悬钩子",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rubus lineatus Reinw. in Blume, Bijdr.Fl.Ned. Ind.17: 1108.1826.-—R. lineatus Reinw. var.angustifolius Hook.f.,Fl. Brit. India 2(5): 333.1878 [as “angustifolia\"]; T.T. Yu et L.T.Lu in T.T. Yu,Fl. Reip.Pop. Sin.37: 129.1985; L.T. Lu et D.E.Boufford in Z. Y. Wu et P.H.Raven, Fl.China 9:244.2003.  \n分布：中国（西藏、云南），印度，尼泊尔，不丹，缅甸，越南，马来西亚，印度尼西亚。凭证标本：嘎隆拉山南68K：程树志和李渤生00078 (PE)；扎墨公路 62-72K：金效华等STET1661，STET2169(KUN)，熊先华1381(CDBI)；背崩—格林：青藏队植被组2961(PE)；格林：生态高原组11577 (PE)，Anonymous 2411(PE)；多雄河西岸：熊先华976(CDBI)；西龙松多：姚淦等3289 (NAS)；格当：熊先华1401，1419(CDBI)，李渤生和程树志 989 (PE)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "17b.近光叶绢毛悬钩子（新拟）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rubus lineatus Reinw. var. glabrior Hook. f.,Fl. Brit. India 2(5): 333.1878. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "分布：印度，斯里兰卡，马来半岛。中国分布新纪录。  \n本变种叶片下面仅脉上有绢毛，其余部分无毛。  \n凭证标本：扎墨公路80-62K：高云东和李蒙YLZB0190 (CDBI)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "18.墨脱悬钩子",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rubus metoensis T.T.Yu et L.T.Lu in Acta Phytotax. Sin.18(4): 498.1980. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（西藏）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：扎墨公路 52-80K：熊先华1039，1366(CDBI)，张书东等 STET2616(KUN)，FLPHTibet Expedition12-1892 (PE)，程树志和李渤生00372(PE)；阿尼桥一汗密：鞠文彬和邓亨宁YLZB0744(CDBI)；汗密一大岩洞：熊先华990(CDBI)；多雄河西岸：熊先华982(CDBI)；格当：李渤生和程树志01255 (PE)；西龙松多：姚淦等3299 (NAS)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19.大花悬钩子",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rubus wardii Merr. in Brittonia 4(1): 84.1941.  \n分布：中国（西藏、云南），印度，不丹，缅甸。  \n凭证标本：多雄河西岸：熊先华980(CDBI)，徐波和熊先华YLZB1175(CDBI)；大岩洞一",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "汗密：鞠文彬等YLZB0573，徐波和周新茂YLZB1829(CDBI)；具体采集地不详：陈伟烈10716 (PE)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20.独龙悬钩子",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rubus taronensis C. Y.Wu ex T.T. Yu et L.T.Lu in Acta Phytotax. Sin. 20(3): 308.1982.  \n分布：中国（云南）。中国西藏分布新纪录。  \n凭证标本：阿尼桥一汗密：熊先华973(CDBI)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "21.疏松悬钩子",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rubus efferatus Craib in Fl. Siam.1(4): 570.1931.=R. ferox Wall. ex Focke in Abh. Naturwiss. Vereins Bremen 4(Heft 2): 196.1874. nom. ileg.,later homonym, nec Vest ex Tratt. 1823 nec Weihe ex Boenn. 1824.—R. kurzii N.P. Balakr. in J.Bombay Nat.Hist. Soc. 67(1): 58.1970. nom. illeg. superfl.-—R. laxus Focke, Biblioth. Bot.17 (Heft 72(1): 68.1910. nom. illeg.,later homonym, non Sudre 1900.T. T. Yu et L.T.Lu in T.T. Yu,Fl. Reip.Pop. Sin.37: 137.1985; L.T. Lu et D.E. Boufford in Z.Y.Wu etP.H.Raven, Fl. China 9: 264.2003. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（云南），印度，尼泊尔，不丹，孟加拉国，缅甸，泰国。中国西藏分布新纪录。凭证标本：县城—德兴乡：熊先华960(CDBI)；藤桥，姚淦等3446(NAS)；卡布：熊先华1377 (CDBI)；巴登村—丹戈眷河：熊先华1396，1398，1422(CDBI)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "R.laxus Focke(1910)为R.laxus Sudre (1900)的晚出同名，为一非法名称，经模式标本及文献研究，发现R.laxusFocke 和R.ferox Wall.exFocke无明显差别，系同物异名，但R.ferox Wall. ex Focke (1874)又是R.ferox Vest ex Tratt(1823)的晚出同名，Craib 和 N.P.Balakr.曾分别于1931年和1970年发表了R.ferox Wall.exFocke 替代名称R.efferatus Craib和R.kurziiN.P.Balakr.，按照命名法规，由于R.effratus Craib 的发表时间早于R.kurzii N.P.Balakr.，因此R.efferatus Craib 是R.ferox Wall.exFocke(1874)的合法替代名称，而 $R$ kurzii N.P.Balakr.为一多余名称。《中国植物志》（俞德浚和陆玲娣，1985）和Flora ofChina（Lu&Boufford，2003）对R.laxus Focke的不恰当应用应予以订正。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22a.滇藏悬钩子",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rubus hypopitys Focke in Notes Roy. Bot. Gard. Edinburgh 5(23): 72, pl. 64.1911.分布：中国（西藏、云南）。  \n凭证标本：拉格一汗密：熊先华1027(CDBI)；汗密：鞠文彬和邓亨宁YLZB3269(CDBI)，陈伟烈10711(PE01494495，PE01494496)；多雄河西岸：熊先华979，987(CDBI)；比西日：鞠文彬和邓亨宁YLZB3428(CDBI)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22b.汗密悬钩子",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rubus hypopitys Focke var. hanmiensis T.T. Yu et L.T. Lu in Acta Phytotax. Sin. 2O(4): 458.   \n1982. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（西藏）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：多雄河西岸：熊先华986，1011(CDBI)，徐波和熊先华YLZB1199(CDBI)；大岩洞一拉格：熊先华1012(CDBI)；拉格—汗密：熊先华1021，1023，1025(CDBI)；汗密：鞠文彬和邓亨宁YLZB0810(CDBI)，陈伟烈 10711 (PE00020757)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "23.西南悬钩子",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rubus assamensis Focke in Abh.Naturwiss. Vereins Bremen 4:197.1874. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（四川、贵州、西藏、云南、广西），印度，缅甸。  \n凭证标本：亚东村八里山：藏东南考察队 SET一ET117(PE)；地东：生态室高原组11129(PE)；格林：徐波和鞠文彬YLZB3214(CDBI)，青藏队植被组2937(PE)，Anonymous 2412(PE)；德尔贡：青藏队74-5068 (PE)；阿尼桥—汗密：熊先华968(CDBI)；比西日—汗密：徐波YLZB1273(CDBI)；格当：李渤生和程树志01098 (PE)；斑固山：生态室高原组11403 (PE)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "24.圆锥悬钩子",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rubus paniculatus Sm.in Rees, Cycl.3O:Rubus no. 41.1819.  \n分布：中国（西藏、云南），克什米尔地区，印度，尼泊尔，不丹。  \n凭证标本：阿尼桥附近：熊先华1032(CDBI)；阿尼桥一汗密：熊先华966，969，971(CDBI);  \n格当：李渤生和程树志00935 (PE)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "25.网脉悬钩子",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rubus kumaonensis N.P.Balakr. in J. Bombay Nat. Hist. Soc.67: 58.1970.=R.reticulatus Wall. ex Hook. f.,Fl. Brit. India 2(5): 331.1878. nom. illeg.,later homonym, non A. Kern.1871.T.T. Yu et L. T. Lu in T. T. Yu,Fl. Reip. Pop. Sin. 37: 167. 1985; L. T. Lu in Z. Y. Wu,Fl. Xizang. 2: 623.1985; L. T.Lu et D.E. Boufford in Z. Y.Wu et P.H. Raven,Fl. China 9: 256. 2003. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（西藏），印度，尼泊尔，不丹。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：墨脱村：熊先华952(CDBI)，科考队1596 (PE)，青藏队74-4604 (PE)；县城—德兴乡：熊先华961(CDBI)；德兴村-荷扎村：徐波等YLZB2256(CDBI)；巴登则村：熊先华1394，1395，1397(CDBI)；背崩：Anonymous 2520 (PE)；背崩—地东：徐波和周新茂YLZB2154(CDBI)；格林：熊先华1393(CDBI)，青藏队植被组2902(PE)；米日村：熊先华1035，1036，1037(CDBI)；安尼翁—马尼翁：陈伟烈10865 (PE)；格当：熊先华1408(CDBI)，朱章明和陈金元YLZB4562(CDBI)；希让一地东：徐波和鞠文彬YLZB3162(CDBI)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "R.reticulatus Wall.ex Hook.f.(1878)为R.reticulatus A.Kern.(1871)的晚出同名，为一非法名称，《中国植物志》（俞德浚和陆玲娣，1985）和FloraofChina（Lu＆Boufford，2003）对其的不恰当应用应予以订正。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "26.柔毛莓叶悬钩子",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rubus franchetianus H.Lév. var. pubescens (Franch.) C. Gupata et S. S. Dash in Nelumbo 58: 46. 2016. $\\equiv _ { R }$ . fragarioides Bertol. var. pubescens Franch., Pl. Delavay. 203. 1890. nom. illeg. T. T. Yu et L. T. Lu in T. T. Yu,Fl. Reip. Pop. Sin. 37: 216.1985; L. T.Lu in Z. Y. Wu,Fl. Xizang. 2: 624.1985; L. T.Lu et D.E. Boufford in Z. Y.Wu et P.H. Raven,Fl. China 9: 283.2003. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（西藏、云南），印度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：多雄河西岸：熊先华1002，1008(CDBI)；多雄拉北坡：青藏队植被组3273(PE);",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大岩洞一拉格：熊先华1014(CDBI)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "R.fragarioides Bertol.(1861)为R. fragarioides (Michx.) Dum.Cours.(1814)的晚出同名,为一非法名称，后来Focke在1910年将其等级由种降为变种R.arcticusL.var.fragarioides(Bertol.)Focke，按照国际植物命名法规，这一变种名称也是非法的。另外，按照国际植物命名法规，R.fragarioides Bertol.下的两个变种名称 $R .$ fragarioides Bertol. var. pubescens",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Franch.(1896)和 R. fragarioides Bertol.var. adenophorus Franch.(1890)也是非法的。H.Levl.于1909 年为了纪念植物学家A.R.Franchet最早将R.fragarioides Bertol.var.adenophorusFranch.提升为种的等级并命名为R.franchetianus H.Lév.，因此R.franchetianus H.Lév.是R.fragarioides Bertol.var.adenophorus Franch.的最早可用名称。而R. fragarioides Bertol.和R.fragarioides Bertol.var.pubescens Franch.的替代名称则由印度学者 C.Gupata 和 S.S.Dash 于2016 年最先提出，分别为 R. franchetianus H.Lév.var. fragarioides (Focke) C.Gupata et S. S.Dash 和 R. franchetianus H. Lév. var. pubescens (Franch.) C.Gupata et S. S. Dash。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "故《中国植物志》（俞德浚和陆玲娣，1985）和Flora ofChina（Lu&Boufford，2003）中记载的“莓叶悬钩子”、“柔毛莓叶悬钩子”和“腺毛莓叶悬钩子”的学名相应地应修改为R. franchetianus H.Lev. var. fragarioides (Focke) C. Gupata et S. S.Dash， R. franchetianusH.Lev. var. pubescens (Franch.) C. Gupata et S. S. Dash 和 R. franchetianus H. Lév.。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "27.凉山悬钩子",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rubus fockeanusKurz in J.Asiat. Soc.Bengal 44 (2): 206.1875.分布：中国（湖北、四川、西藏、云南），印度，尼泊尔，不丹，缅甸。凭证标本：扎墨公路 60K：熊先华1367(CDBI)；阿尼桥—背崩：鞠文彬和邓亨宁YLZB3925 (CDBI)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "28.齿萼悬钩子",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rubus calycinus Wall. ex D.Don, Prodr. Fl. Nepal. 235.1825.  \n分布：中国（四川、西藏、云南），印度，尼泊尔，不丹，缅甸，爪哇。  \n凭证标本：德尔贡：高云东等YLZB2744(CDBI)；汗密一大岩洞：熊先华993(CDBI)；多雄河西岸：熊先华978，983(CDBI)；格当：陈伟烈14509 (PE)；西龙松多：姚淦等4030，4830 (NAS)；希让：李渤生和程树志 04363 (PE)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "29.匍匐悬钩子",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Rubus pectinarioides Hara in J. Jap.Bot. 47(4): 111.1972. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "分布：中国（西藏、云南），印度，不丹。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "凭证标本：拉格：青藏队植被组3235(PE)；拉格—汗密：熊先华992，1017，1020(CDBI)，鞠文彬等YLZB0572(CDBI)，徐波和周新茂YLZB1819，YLZB1863(CDBI)，青藏队 74-3902(PE)；比西日—汗密：鞠文彬和邓亨宁YLZB3854(CDBI)；汗密：鞠文彬和邓亨宁YLZB0815，YLZB3267(CDBI)；希让：李渤生和程树志04460 (PE)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3．结论与讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "经系统整理，目前发现墨脱地区共有悬钩子属植物28种，4变种，约占西藏地区本属种类的 $80 \\%$ ，其中 $R .$ .lineatusReinw.var.glabriorHook.f.为中国分布新纪录植物，小柱悬钩子(R.columellaris Tutcher)、红毛悬钩子(R.wallichianus Wight et Arn.)、独龙悬钩子(R.taronensis C.Y.Wu exT.T.YuetL.T.Lu)和疏松悬钩子(R.efferatus Craib)为西藏分布新纪录植物，为摸清本区植物种类提供了更加详实的区系资料。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "作为一类重要的资源植物，悬钩子属植物在食用、药用及观赏方面具一定的（潜在）价值，结合作者多年的观察，发现在本区有分布的粉枝莓(R.biflorus Buch.-Ham.ex Sm.）（茎被白粉，叶落后美观）、酒红悬钩子(R.calophyllusC.B.Clarke）（花艳丽、叶美观）、绚丽悬钩子(R.splendidissimus Hara)（植株被红色腺毛、叶美观）、绢毛悬钩子(R.lineatus Reinw.)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（叶美观）、大花悬钩子(R.wardiiMerr.）（花较大）具有较大的潜在观赏价值；草本类的柔毛莓叶悬钩子(R. franchetianus H.Lév.var.pubescens (Franch.) C.Gupata et S.S.Dash)、凉山悬钩子(R.fockeanus Kurz)、齿萼悬钩子(R.calycinusWall.exD.Don)和匍匐悬钩子(R.pectinarioides Hara)虽分布海拔较高，但在用作观赏点缀物种方面仍具一定的潜在价值；红泡刺藤(R.niveus Thunb.)、绢毛悬钩子(R.lineatus Reinw.)和凉山悬钩子(R.fockeanus Kurz)的果实味道较好，是一类潜在的鲜食用植物资源。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "《中国植物志》（俞德浚和陆玲娣，1985）和Flora ofChina（Lu&Boufford，2003）中记载的“莓叶悬钩子(R.fragarioides Bertol.)”、“柔毛莓叶悬钩子(R.fragarioides Bertol.var.pubescens Franch.)”、“腺毛莓叶悬钩子(R.fragarioides Bertol.var. adenophorus Franch.)”、“疏松悬钩子(R.laxus Focke)\"及“网脉悬钩子(R.reticulatus Wall.ex Hook.f.)\"的学名大多为晚出同名，按照国际植物命名法规，这些名称均为非法名称，建议相应地修改为 $R$ franchetianus H.Lév. var. fragarioides (Focke) C. Gupata et S.S. Dash， R. franchetianus H.Lev.var. pubescens (Franch.) C. Gupata et S. S. Dash，R. franchetianus H.Lév.， R. efferatus Craib和 R. kumaonensis N. P.Balakr.。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "致谢：中国科学院昆明植物研究所张良博士在文献查阅中提供帮助，挪威奥斯陆大学植物博物馆 Botanical Museum, University of Oslo,Norway (O)的 Bjorn Petter Lofall教授提供部分模式标本图片，中国科学院植物研究所植物标本馆(PE)和中国科学院昆明植物研究所植物标本馆(KUN)为标本查阅提供方便，在此一并致谢。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Alice LA， Campbell CS，1999. Phylogeny of Rubus (Rosaceae) based on nuclear ribosomalDNA internal transcribed spacer region sequences[J]. Am JBot， 86(1): 81-97.  \nAlice LA，Dodson TM， Sutherland BL，2008．Diversity and relationships of BhutaneseRubus[J]. Acta Hortic， 777: 63-70.  \nCHEN X，WANG SY， 2006. The resources research and to exploit using of Chinese bramble(Rubus L.)[J]．SW ChinaJAgric Sci，19(suppl)：351-355．[陈曦，王仕玉，2006．中国悬钩子属植物资源研究及开发利用[J]．西南农业学报，19(suppl)：351-355．]  \nCheng SZ，1988．Motuo Nature Reserve of Tibet[J]．Plants，15(3):6-9．[程树志，1988.西藏高原上的绿色明珠——墨脱自然保护区[J]．植物杂志，15(3)：6-9．]  \nCheng SZ，Ni ZC， 1985. The outline of flora in the Mt. Namjagbarwa region[J]. MtRes，3(4)：284-290．[程树志，倪志诚，1985．南迦巴瓦峰地区植物区系概貌[J]．山地研究，3(4)：284-290．]  \nCheng WL，Li BS，Wang YZ，et al，1981． Vegetation investigation on Motuo inXizang[J]．Acta Phytoecol& Geobot Sin，5(3)：232-233．[陈伟烈，李渤生，王裕珠，等，1981．西藏墨脱的植被考察[J]．植物生态学与地植物学丛刊，5(3)：232-233．]  \nFocke WO，1894． Roaceae[M] //Engler A，Prantl K．Die Natirlichen Pflanzenfamilien nebstihren Gattungen und wichtigeren Arten, insbesondere den Nutzpflanzen, unter Mitwirkungzahlreicher hervorragender Fachgelehrten begründet 3(3). Leipzig: W. Engelmann.  \nGUY，1992. Rubus L.resources and utilization[J]. JPlant Resourc & Environ，1(2)： 50-60．[顾姻，1992．悬钩子属植物资源及其利用[J]．植物资源与环境，1(2)：50-60．]  \nGUPTA C，DASH SS， 2016. Nomenclatural notes on Rubus franchetianus (Rosaceae) and tw(new additions to Indian Rubus[J]. Nelumbo， 58: 44-47.Han WD， Yao G，Xu FX，et al，1992. Investigation of plant resources inMotuo，Xizang[J]．JPlant Resour& Environ，1(1)：62-64．[韩维栋，姚淦，徐凤翔,等，1992．西藏墨脱的植物资源调查[J]．植物资源与环境，1(1)：62-64．]Li BS，1984. The vertical spectra of vegetation in the Mt. Namjagbarwa region[J]. MtRes，2(3)：174-181．[李渤生，1984．南迦巴瓦峰地区植被垂直带谱[J]．山地研究，  \n2(3): 174-181. ]Lu LD，Boufford DE，2003．Rubus L.[M]//Wu ZY，Raven PH. Flora of China: vol.  \n9． Beijing: Science Press & St. Louis: Missouri Botanical Garden Press.Lu LT，1983．A study on the genus Rubus ofChina[J]. Acta Phytotax Sin， 21(1): 13-25．[陆玲娣，1983．我国悬钩子属植物的研究[J]．植物分类学报，21(1)：13-25．]Mabberley DJ,1997. The plant book, a portable dictionary of the vascular plants, 2nded[M]. Cambridge: Cambridge University Press.Ni ZC， Cheng SZ，1992． The flora of the vascular plants in Mt. Namjagbarwa region ofXizang(Tibet)[M]．Beijing：Beijing Science and Technology Press．[倪志诚，程树志,  \n1992．西藏南迦巴瓦峰地区维管束植物区系[M]．北京：北京科学技术出版社．]Robertson KR，1974. The genera of Rosaceae in the southeastern United States[J]. JArnoldArboretum， 55(2): 344-401.Sun H， Zhou ZK，1996． The characters and origin of the flora from the Big Bend Gorge ofYalu Tsangpo (Brahmabutra) River, eastern Himalayas[J]. Acta Bot Yunnan，18(2): 185-  \n204．[孙航，周浙昆，1996．喜马拉雅东部雅鲁藏布江大峡弯河谷地区植物区系的特点及来源[J]．云南植物研究，18(2)：185-204．]Sun H， Zhou ZK， 1997. The phytogeographical afnities and nature of the Big Bend Gorge ofYa Lu Tsangpo River, SE Tibet, E Himalayas. China[J]. JAppl Environ Biol， 3(2): 184-  \n190．[孙航，周浙昆，1997．喜马拉雅东部雅鲁藏布江大峡弯河谷地区种子植物区系的性质和近缘关系[J]．应用与环境生物学报，3(2)：184-190．]Sun H， Zhou ZK， 2002． Seed plants of the Big Bend Gorge of Ya Lu Tsangpo in SE Tibet, EHimalayas[M]．Kunming：Yunnan Science and Technology Press．[孙航，周浙昆,  \n2002．雅鲁藏布江大峡弯河谷地区种子植物[M]．昆明：云南科技出版社．]The Plant List， 2018. Rubus L.[EB/OL]. http://www.theplantlist.org/tpl1.1/search? $\\mathfrak { t } ^ { = }$ Rubus .Thompson MM，1997. Survey of chromosome numbers in Rubus (Rosaceae: Rosoideae)[J]． Ann MO Bot Gard，84: 128-164.WANG HC，HE ZR， SUN H， 2012. Rediscoveries of two species of Rubus (Rosaceae) inChina[J]．Guihaia，32(3)：315-317．[王焕冲，和兆荣，孙航，2012．两种悬钩子属植物在中国的重新发现[J]．广西植物，32(3)：315-317．]Weber HE， 1996. Former and modern taxonomic treatment of the apomictic Rubuscomplex[J]． Folia Geobot Phytotaxon，31(3): 373-380.Yu TT，1979. Taxonomy of Chinese fruit tree[M]. Beijing: Agricultural Publishing House.[俞德浚，1979．中国果树分类学[M]．北京：农业出版社．]Yu TT，Lu LT，1985． Rubus L.[M] //Yu TT． Flora Reipublicae Popularis Sinicae: vol.  \n37．Beijing：Science Press．［俞德浚，陆玲娣，1985．悬钩子属[M]//俞德浚．中国植物志：第37卷．北京：科学出版社．］ZHANG SD，2012. Notes on Rubus subsect. Lineati from China[J]． JPlant Sci， 30(3): 301-  \n304．[张书东，2012．国产悬钩子属绢毛亚组新资料[J]．植物科学学报，30(3)：301-  \n304.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Zheng WL，1999. Analyses of the floristic features on the families, genera of Pteridophyta fromthe Big Bend Region at Yalu Tsangpo (River), Xizang (Tibet), China[J]. Acta BotYunnan，21(1)：43-50．[郑维列，1999．雅鲁藏布江大拐弯地区蕨类植物科属区系特征分析[J]．云南植物研究，21(1)：43-50．]",
+        "page_idx": 13
+    }
+]

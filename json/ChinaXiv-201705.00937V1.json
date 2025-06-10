@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "超声波强化多孔纤维干燥过程试验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李盼盼1 陈振乾1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．东南大学能源与环境学院，南京210096;2.江苏省太阳能技术重点实验室 (东南大学)，南京 210096）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为了探究超声波场对多孔纤维干燥过程热湿迁移的影响，对有无超声波作用下多孔纤维的干燥过程进行了试验研究。试验结果表明：无超声波作用时，多孔纤维干燥包括恒速和降速两个阶段，且其转化临界点在干基含湿率为0.5左右；施加超声波场之后，干燥过程只有降速阶段，且随着功率的增加超声波的强化作用逐渐增强，功率和干燥速率呈现非线性关系；随着干燥过程的进行，含湿量降低，超声波的强化作用逐渐削弱；为了减少能耗当干基含湿率降低至0.5时即可终止干燥。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词超声波;多孔纤维;干燥;干基含湿率中图分类号：TK121 文献标识码：A 文章编号:0253-231X(2017)04-0876-05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental Study on Porous Fiber Dehydration Enhancement by Ultrasound ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Pan-Pan1 CHEN Zhen-Qian1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.Energy and Environment Department,Southeast University， Nanjing 210096,China; .Jiangsu Province KeyLaboratoryofSolarEnergyScieeadTechnologySoutheastUniversityNanjing21096,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract In order to investigate the efeet of ultrasound on heat and moisture transfer in porous fiber dehydration, the drying processare experimental studied with and without ultrasonic. The experiments denote that,the dryinprocess of porous fiber includes constant and falling rate period and the critical point for thetWo stages reaches when the dry basis moisture content is 0.5. In ultrasound assisted experiments,only falling rate period is observed; the enhancement of ultrasonic on dehydration can be strengthened by increasing power,but weakened by decreasing moisture content. Besides,a nonlinear relationship between ultrasound power and dehydration rate is concluded. The enhanced drying process can be stopped when the dry basis moisture content is 0.5 because of economic consideration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsultrasound; porous fiber; dehydration; dry basis moisture content ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在南方以及国外的一些地区，潮湿的气候使洗涤之后的衣物难以晾干，且城市地区人口密集、空间紧凑，传统方法晾晒衣物通常会导致室内湿度升高从而严重影响人们的居住舒适度，因此快速节能的衣物干燥方法一直是国内外研究者关注的重点之一[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前衣物加速脱水常用的方法是离心旋转和加温。离心旋转方法存在脱水不完全，而且衣物极易因相互摩擦而褶皱、受损的缺点。加温干燥主要包括热风干燥和微波干燥，热风干燥过程工作温度高，一般在 $6 0 ^ { \\circ } \\mathrm { C }$ 以上，使用范围受限，同时能耗较高，以英国为例，干衣所消耗能源约占工业耗能的 $5 . 5 \\% [ 2 ]$ 微波干燥工作温度较低，可低至 $4 1 ^ { \\circ } \\mathrm { C }$ ，干衣时间比电加热式明显缩短，同样能耗较大，且对于干燥容器的密闭性要求较高[3,4]。因此，迫切需要寻求一种相对节能、工作温度较低且对衣物损害轻的快速干燥技术。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超声波作为一种新的能量形式，能够强化多孔介质中的热湿迁移过程，已被很多实验所证实。Santacatalina 等[5]将超声波辅助应用于胡萝卜的冷冻干燥过程，发现相同条件下的干燥速率可提高 $7 3 \\%$ 。Garcia-Pérez 等[6-8]针对超声波辅助食品对流干燥过程进行了一系列研究，结果表明增大超声波功率、干燥风速及温度均可加快干燥过程，并且超声波对高孔隙率的物料作用效果更明显。Schossler等[9]将超声波换能器和一种干燥筛相结合，成功应用于苹果和红椒等食品的干燥过程，明显提高了干燥速率，同时比较持续性和间歇性超声波对结果的影响，表明随着净超声作用时间缩短，对干燥速率的改善作用削弱，但呈现非线性关系。GallegoJuarez 等[10]将超声波辅助热气流干燥蔬莱与传统的干燥过程比较，证明超声波作用可以提高干燥速率，降低最终水分含量，并且更有利于保持蔬菜原来品质。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "赵芳等[11,12]研究了超声波辅助作用下污泥干燥过程，初步研究发现超声作用有效加速了污泥湿分迁移速率，且声能密度越大，超声波对污泥干燥过程的强化效果越明显。Tyagi等[13]对超声波在污泥溶解、有害污染物降解以及化学物质提取等方面的应用进行了总结，详尽阐述了超声波在污泥处理上的各种作用机制，并指出了超声波污泥处理技术未来的发展方向。Ye Yao 等[14-16]将超声波辅助硅胶干燥剂再生过程实验结果与不同的理论模型相拟合，结果表明Gaussian和Weibull提出的理论模型更匹配该干燥过程，随后又将声场与热湿迁移过程相耦合建立理论模型模拟超声波辅助硅胶除湿剂的脱水再生过程，并通过实验验证了该理论模型的准确性。 九物",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于超声波场与多孔介质热湿迁移过程的耦合作用十分复杂，目前对超声波作用下多孔介质内的组分传输机理尚未进行深入的理论分析，超声波场影响多孔介质热湿迁移过程的规律及相应的物理机制尚未十分明确，从而制约了超声波在能源、环境、食品和生物等领域中的工程应用。因此，研究超声波对多孔纤维干燥过程热湿迁移规律的影响具有重要的学术意义和工程应用前景。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1试验装置与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验所用样品材质相同，长度和宽度均为7.5cm，厚度约 $1 \\ \\mathrm { c m }$ ，干样品质量约为 $\\mathrm { 1 0 . 5 ~ g }$ ，初始干基含湿率为3左右。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验系统与装置",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了探究超声波对多孔纤维干燥过程的影响，分别进行有无超声波作用多孔纤维干燥试验。超声波辅助冷风干燥多孔纤维试验装置如图1所示，主要包括超声波系统、冷风系统、数据采集系统和恒温恒湿箱。考虑到超声波在多孔介质中传播的衰减性及空化效应临界阀[17-21],试验中超声波频率设定为 $2 0 ~ \\mathrm { k H z }$ ，功率范围为 $0 { \\sim } 7 0 0 \\ \\mathrm { W }$ 。为了定量的分析超声波的强化作用，有超声波场时的干燥过程温度、湿度和风速恒定。数据采集系统通过定时记录样品质量来判定物料的干燥程度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "样品含湿率由式（1)计算得出：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ M R = { \\frac { X - X _ { \\mathrm { e } } } { X _ { 0 } - X _ { \\mathrm { e } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中，MR是无量纲的含湿率， $X$ 是记录时刻的干基含湿率 $( \\mathrm { k g } _ { \\mathrm { w a t e r } } / \\mathrm { k g } _ { \\mathrm { d r y s o l i d s } } )$ ， $X _ { \\mathrm { e } }$ 和 $X _ { 0 }$ 分别是平衡状态和初始状态下的干基含湿率。考虑到多孔纤维中的水分存在方式，以及最终的干燥状态，认为平衡状态时 $X _ { \\mathrm { e } } { = } 0$ ，式（1）可以简化为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM R = { \\frac { X } { X _ { 0 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/34eceb67466af4b9d5c89e76d0c4387128ebb530c8757f4fd1fad22657bf508c.jpg",
+        "img_caption": [
+            "图1超声波辅助干燥多孔纤维试验装置示意图 Fig.1 Schematic diagram of porous fiber drying with ultrasound assisted "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3试验误差 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "htt p: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超声波辅助冷风干燥多孔纤维试验中，误差主要来源于样品的测量过程，试验所用电子天平测量范围是 $0 { \\sim } 8 . 1 \\mathrm { k g }$ ，测量精确度为 $\\mathrm { 0 . 0 1 ~ g }$ 。恒温恒湿箱温度测量误差为 $0 . 5 ^ { \\circ } \\mathrm { C }$ ，湿度测量误差为 $2 \\%$ RH。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果分析与讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1无超声波作用的多孔纤维干燥过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在无超声波场时，风速会影响多孔纤维的干燥速率，随着风速的增加干燥速度逐渐加快，如图2所示。将初始干基含湿率为3的样品完全干燥，风速越大，干燥过程耗时越短。加快空气流速能及时将聚积在物料表面附近的湿空气带走，以免阻止物料水分的进一步蒸发，而且干空气的饱和差大，能容纳更多的水蒸气，从而加快样品表面水分的蒸发。此外，加大空气流速，可以增加物料表面接触的干空气量，也就增加了样品中水分的蒸发。所以风速越大，样品的干燥速率也就越大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/78971b3400002a35ae2b91f9a8b4a389cf1167f5de5845202cf6975d355c016f.jpg",
+        "img_caption": [
+            "图2风速对多孔纤维干燥过程的影响(无超声波， $\\scriptstyle { T = 2 0 ^ { \\circ } \\mathrm { C } }$ （204号"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在干燥开始阶段，样品的干基含湿率随干燥时间呈直线下降，当干基含湿率降低至0.5左有含湿率不再呈直线下降，在后一阶段则沿采缓的曲线而变化，最后物料中的水分趋于平衡水分，第一阶段称为恒速干燥阶段，第二阶段称为降速干燥阶段。在整个恒速干燥阶段中，要求物料内部的水分向其表面转移的速率能够与水分从物料表面汽化的速率相适应，以使物料表面能始终维持润湿状态，因此阶段的干燥速率取决于物料表面水分的汽化速率，即取决于物料外部的干燥条件，当其保持不变时，干燥速率恒定，如图3所示。干燥进入降速阶段之后，干燥速率取决于物料内部水分的扩散，因此速度随含水量的减少而不断下降。 \\~C",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f5a92ab05678f7f6116134b36eccf0b4656144da744da659d130020978038ce.jpg",
+        "img_caption": [
+            "Fig.2 Effect of air velocity on porous fiber drying process (without ultrasound, $\\scriptstyle T = 2 0 ^ { \\circ } \\mathrm { C }$ ， $R H { = } 4 5 \\%$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/891d9ad8139f9291e738ec41e3f123ce7113b5fc8cd58458778765d3cb943f38.jpg",
+        "img_caption": [
+            "图3风速对多孔纤维干燥速率的影响(无超声波， $T { = } 2 0 ^ { \\circ } \\mathrm { C }$ （20",
+            "Fig.3 Effect of air velocity on porous fiber drying rate (without ultrasound, $T { = } 2 0 ^ { \\circ } \\mathrm { C }$ ， $R H { = } 4 5 \\%$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2有超声波作用的多孔纤维干燥过程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将超声波用于辅助多孔纤维冷风干燥时，可加速多孔纤维的干燥过程，缩短干燥时间。当超声波功率较小时，超声波对多孔纤维湿分迁移速率的强化作用微弱，如图4中所示，超声波功率为90W时与未加超声波时的干燥曲线几乎相同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着超声波功率的增加，超声波对多孔纤维传质过程的强化作用逐渐增强，且二者呈现非线性关系，如图5中所示，当超声波功率从 $4 5 0 ~ \\mathrm { W }$ 增加到630W时，所需于燥时间无明显减少，因此选定500W左右的超声波功率既可以加快干燥速率，此时可以节约13%的千燥时间，同时又相对节能。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1708125f1d6d2c15a0b87b5b08fea23c7bf8d84a4880f9072039fb48e7b6d704.jpg",
+        "img_caption": [
+            "Fig.4 Effect of ultrasound power on porous fiber drying process ( $V { = } 4 . 5 ~ \\mathrm { m / s }$ $T { = } 2 0 ^ { \\circ } \\mathrm { C }$ ， $R H { = } 4 5 \\%$ ） ",
+            "图5超声波功率对多孔纤维干燥时间的影响！ $V { = } 4 . 5 ~ \\mathrm { m / s }$ $T { = } 2 0 ^ { \\circ } \\mathrm { C }$ ， $R H { = } 4 5 \\%$ ）Fig.5 Effect of ultrasound power on porous fiber drying time0 $V { = } 4 . 5 ~ \\mathrm { m / s }$ ， $T { = } 2 0 ^ { \\circ } \\mathrm { C }$ P $R H { = } 4 5 \\%$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "超声波的机械效应和空化效应是其可以强化多孔纤维传质过程的主要原因。超声波在介质中传播时会引起质点的高频率震动，因此使物料反复受到压缩和拉伸作用，使物料不断收缩和膨胀，引起“海绵效应”，在这种效应的作用下物料内部水分的表面附着力减小，更容易脱离原来位置，加快水分在组织结构原有通道以及超声波作用下形成的新通道内的输运速度。超声波的空化效应是另外一个主要原因，空化过程中，空化泡崩溃瞬间，把集中的声场能量在极短的时间内释放出来，形成极高的温度和极大的压力环境，并产生很大的冲击力，形成微射流，从而有利于物料内部水分的传输。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "无超声波作用时多孔纤维的干燥过程包括恒速和降速两个干燥阶段，施加超声波场之后，多孔纤维的干燥过程无恒速阶段，只存在降速阶段，如图6所示。超声波的功率越大，初始的干燥速度越大，且随着干燥过程的继续，物料含水量降低,干燥速度明显减小，即在干燥过程中超声波对湿分传输速率的强化作用随着湿分含量的降低而逐渐削弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "超声波辅助多孔纤维冷风干燥持续 $1 8 0 ~ \\mathrm { m i n }$ 之后，有无超声波作用的干燥速率无明显差别，如图所示，此时多孔纤维的干基含水率大约为0.5处宇由恒速阶段向降速阶段转化的临界位置，即超声波强化多孔纤维的传质速率主要体现在恒速阶段，该阶段的传输速率主要受外部阻力的影响。由此可以认为超声波主要作用于多孔纤维千燥的外部阻力，在干基含湿率不小于0.5时施加超声波场，强化作用较为明显；干基含湿率小于0.5之后无施加超声波场的必要性。另外，在干燥过程中，干基含湿率小于0.5之后干燥速率较慢，耗时较长，约占整个干燥时长的 $5 0 \\%$ ，出于节能的目的可将干燥过程在干基含湿率达到0.5之后停止，然后再将物料进行自然通风即可。 ：5",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/226520cb44bdfeaeb6e8f09fcc4e80632f113a9deef4c896a0dd0c03186f4a36.jpg",
+        "img_caption": [
+            "图6超声波功率对多孔纤维干燥速率的影响（ $V { = } 4 . 5 ~ \\mathrm { m / s }$ ",
+            "Fig.6 Effect of ultrasound power on porous fiber drying rate0 $V { = } 4 . 5 ~ \\mathrm { m / s }$ ， $T { = } 2 0 ^ { \\circ } \\mathrm { C }$ $R H { = } 4 5 \\%$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）无超声波作用时的多孔纤维干燥过程包括恒速和降速两个阶段，前者干燥速度取决于由外部阻力控制的表面蒸发汽化速度，后者由物料内部的扩散所决定，且二者的临界点在干基含湿率为0.5左右。增加的空气流速可以促进干燥过程的进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)有超声波作用时，多孔纤维的干燥过程只存在降速阶段，且主要作用于外部阻力。随着超声波功率的增加，其对传质过程的强化作用逐渐增强，但是二者呈现非线性关系，最优功率值为 $5 0 0 ~ \\mathrm { W }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3）多孔纤维干基含湿率低于0.5以后，干燥耗时约占整个时长的 $5 0 \\%$ ，且干燥速率极慢，出于节能考虑，当干基含湿率降低至0.5时停止强化干燥过程，然后自然通风。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "] SHI Yaojun,WU Naiqun,Dai Ye. Research on Innovative Design of Portable Quick Drying Machine[J].International Journal of Control and Automation,2015,8(1): 149-156   \n[2] Ah Bing Ng,DENG Shiming.A New Termination Control Method for a Clothes Drying Process in a Clothes Dryer[J].Applied Energy, 2008,85(19):818-829   \n[3]张青，龚海辉,万锦康．干衣机的发展现状及研发趋势[J]. 家电科技，2006(12):52-54 ZHANG Qing，GONG Haihui， WAN Jinkang. The Present Situati6n and Development Tendency of Research on Dry Machine [J]. Appliance Technology, 2006(12): 52- 54 ?   \n[4] John P Kesselring,Richard D Smith.Development of a Microwave Clothes Dryer [J]. IEEE Transactions on Industry Applications,1996,32(1):47-50   \n[5] Santacatalina JV,Cárcel JA,Simal S,et al.Atmospheric Freeze Drying Assisted by Power Ultrasound [C]//Iop Conference Series: Materials Science and Engineering, 2012,42(1):012021   \n[6]Garcia-Pérez JV,Rossello C,Cärcel JA,et al.Effect of Air Temperature on Convective Drying Assisted by High Power Ultrasound [J].Defect and Diffusion Forum,2006, 258:563-574   \n[7] Garcia-Pérez JV,Cärcel JA,Benedito J,et al.Power Ultrasound Mass Transfer Enhancement on Food Drying [J]. Food and Bioproducts Processing,2007,3(85): 247-254   \n[8] Garcia-Pérez JV,Cárcel JA,Benedito J,et al.Drying of Low Porosity Product(Carrot）as Affected by Power Ultrasound [J].Defect and Diffusion Forum,2008,273-276: 764-769   \n[9]Schossler K,Jäger H,Knorr D.Effect of Continuous and Intermittent Ultrasound on Drying Time and Effective Diffusivity during Convective Drying of Apple and Red Bell Pepper[J].Journal of Food Engineering,2012,108(1): 103-110   \n[10] Gallego-Juárez JA,Rodriguez-Corral G,Galvez Moraleda J C,et al.New High-Intensity Ultrasonic Technology for Good Dehydration [J].Drying Technology，1999,17(3): 597-608.   \n[11]ZHAO Fang,CHEN Zhenqian,Numerical Study on Moisture Transfer in Ultrasound-Assisted Convective Drying Process of Sludge [J].Drying Technology，2011,29(12): 1404-1415   \n[12]赵芳，陈振乾，施明恒．超声波作用下污泥水分扩散过程的 数值模拟[J].工程热物理学报，2011,32(4)：659-662 ZHAO Fang,CHEN Zhenqian,SHI Mingheng,Numerical Simulation on Moisture Diffusion Process of Sludge under the Effect ofUltrasound [J].JOURNAL OFENGINEERING THERMOPHYSICS,2011,32(4):659-662   \n[13] TyagiVK,Lo SL,AppelsbL,et al.Ultrasonic Treatment ofWaste Sludge:A Review on Mechanisms and Applications [J].Critical Reviews in Environmental Science and Technology,2014,44(11): 1220-1288   \n[14] YAO Ye, ZHANG Weijiang,et al. Investigation on the Kinetic Models for the Regeneration of Silica Gel by Hot Air Combined With Power Ultrasonic [J].Energy Conversion and Management,2011,52(11):3319-3326   \n[15]YAO Ye,ZHANG Weijiang,et al.Theoretical Model on the Heat and Mass Transfer in Silica Gel Packed Bedsi During the Regeneration Assisted by High-intensity Ulta sound [J].International Journal ofHeat and Mass Transfer,2012,55(23/24):7133-7143 [16]YAO Ye,YANG Kun,et al.Parametric Study on Silica Gel Regeneration by Hot Air Combined With Ultrasonic Field Based on a Semi-theoretic Model [J]. International Journal of Thermal Sciences,2014(84):86-103 [17] Gallego-Juárez JA,Riera E,de la Fuente Blanco S,et al. Application of High-power Ultrasound for Dehydration of Vegetables: Processes and Devices [J]. Drying Technology,   \n2007,25(11): 1893-1901 [18]Garcia-Pérez JV,Cärcel JA,Riera E,et al.Influence of the Applied Acoustic Energy on the Drying ofCarrots and Lemon Peel [J].Drying Technology,2009,27(2):281-287 [19] Cárcel JA,Garcia-Perez JV,Riera E,et al. Improvement of Convective Drying of Carrot by Applying Power Ultrasoundinfluence of Mass load Density [J].Drying Technology,2011,29(2): 174-182 [20]Garcia-Perez JV,CarcelJA,Riera E,et al.Intensification ofLow-temperature Drying by Using Ultrasound [J]. Drying Technology, 2012, 30(11/12): 1199-1208 Clemente G，Sanjuan N，AndrésJ,et al.Influence of Temperature Air Velocity,and Ultrasound Application on Drying Kinetics of Grape Seeds [J].Drying Technology,   \n2014,1(32): 68-76 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

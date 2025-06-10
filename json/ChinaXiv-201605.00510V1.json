@@ -1,0 +1,737 @@
+[
+    {
+        "type": "text",
+        "text": "An interyear comparison of $\\mathbf { C O } _ { 2 }$ flux and carbon budget at a commercial-scale land-use transition from semi-improved grassland to Miscanthus x giganteus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JON P. MCCALMONT1,NIALL P. MCNAMARA²,IAIN S. DONNISON1,   \nKERRIE FARRAR¹ andJOHNC.CLIFTON-BROWN1   \n1Instituteofogcal,otalduals)teiyrddle   \nSY23 3EQ,UK,²Centre for Ecology $\\mathcal { E }$ Hydrology, Lancaster Environment Centre,Library Avenue，Bailrigg, Lancaster，LAl   \n4AP,UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A 6-ha fieldat Aberystwyth,UK,was converted in2012 fromsemi-improved grassland to Miscanthus xgiganteus for biomassproduction; results from transition to the end of the first3 years are presented here.An eddy covariance sensor mast was established from year one with a second mast added from year two,improving coverage and providing replicated measurements of $\\mathrm { C O } _ { 2 }$ exchange between the ecosystem and atmosphere. Using a simple mass balance approach,above-ground and below-ground biomass production are combined with partitioned $\\mathrm { C O } _ { 2 }$ fluxes to estimate short-term carbon deltas across individual years.Years one and two both ended with the site as a net source of carbon follwing cultivation disturbances,cumulative NEE by the end of year two was $1 3 8 . 5 7 \\pm 1 6 . 9 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . The site became a cumulative net sink for carbon by the end of June in the third growing season and remained so for the rest of that year; NEE by the end of year three was $- 6 1 6 . 5 2 \\pm$ $3 9 . 3 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . Carbon gains were primarily found in biomass pools,and SOC losses were limited to years one $( - 1 . 4 3 ~ \\mathrm { M g ~ C ~ h a ^ { - 1 } ~ y r ^ { - 1 } } )$ and two $( - 3 . 7 5 \\mathrm { ~ \\dot { M } g \\subset h a ^ { - 1 } \\ y r ^ { - 1 } } )$ .Year three saw recoupment of soil carbon at $0 . 7 4 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ with a further estimate of $0 . 7 8 \\mathrm { ~ \\dot { M } g \\ C \\ h a ^ { - 1 } }$ incorporated through litter inputs over the 3 years, suggesting a net loss of SOC at $3 . 7 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ from a 0- to $3 0 \\mathrm { - c m }$ baseline of $7 8 . { \\overset { \\cdot } { 6 } } 1 \\pm 3 . 2 8 ~ { \\overset { \\cdot } { \\mathrm { M g } } } ~ \\mathrm { h a ^ { - 1 } } .$ down $4 . 7 \\%$ . Assuming this sequestration rate as a minimum would suggest replacement of cultivation losses of SOC by year 8ofa potential15- to20-year crop.Potential coal replacement per hectareofharvest over the three-year study would offset $6 { - } 8 ~ \\mathrm { M g }$ of carbon emission,more than double the SOC losses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bioenergy，biomasscarbonbudget，carbon flux,eddycovariane,land-usechange，Miscanthus，netecosysten exchange ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 30 October 2015;accepted2December2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is much debate surrounding the potential for carbon sequestration into soils under perennial energy crops such as Miscanthus $x$ giganteus (hereafterMiscanthus),particularly when planted into agricultural grasslands(McCalmont et al.， 2015). Some studies find increased soil organic carbon (SOC） when comparing Miscanthus plantations to grassland (Hansen et al.,2004; Clifton-Brown et al.，2007；Schneckenberger& Kuzyakov，20o7); others find SOC to be unchanged or even reduced (Zimmermann et al.，2012;Zatta et al.，2013). Regardless of direction, the significance of any changes, particularly short term,is often difficult to demonstrate due to small changes in large volumes and the limitations of direct sampling (Smith，20o4;Kravchenko & ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robertson，2011). These challenges are typically compounded by a reliance on adjacent land taken to representbaselineconditionsandincompatibilityof sampling techniques and depths in comparisons.Sampling to a fixed depth when comparing Miscanthus to grassland or following cultivation can be criticized for not accommodating changes in soil bulk density which can exaggerate changes in carbon stocks (Gifford & Roderick,2003;Rowe et al.，2015),although techniques such as equivalent soil mass (ESM) are increasingly employed (Ferchaud et al.，2015;Richter et al.，2015; Rowe et al.,2015).Understanding the source of soil carbon can be more reliable when investigating a change froma conventional C3 to a C4 crop，such as Miscanthus，as the C4 vegetation shows less discrimination against thenaturallyoccurring $^ { 1 3 } { \\mathrm { C } }$ isotopein atmospheric $\\mathrm { C O } _ { 2 }$ (Balesdent et al.，1987).Soil carbon derived from Miscanthus shows less depletion of this isotope when compared to an atmospheric standard in comparison with C3-derived carbon. Studies make it apparent that there is an initial and fairly rapid decomposition of soil carbon following cultivation disturbance and soil respiration priming (Cheng et al., 2003; Kuzyakov,2010; Hopkins et al., 2013) while isotopic analyses show that this can be recouped to varying extents over the coming years by C4 inputs from Miscanthus (Hansen et al.,2004; Dondini et al.,2009; Zatta et al.,2013).Complete replacement or net sequestration will occur only where C4 inputs outpace C3 losses and, despite being generally reported as a mean rate over several years, recoupment rates will not be constant. Agostini et al. (2015) stress that soil carbon input rates are a function of crop yield and time, increasing as litter drop and root turnover increase with maturing crops and accumulate in litter and biomass pools. Direct sampling from infrequent, limited soil coring is less capable of capturing these short-term dynamics,so there is a need for a more sensitive approach to estimate dynamic changes in soil carbon.Results might also indicate a minimum crop lifetime where carbon gains in biomass might outweigh any recycling of soil carbon to the atmosphere or vegetation.Previous studies in forest systems (Raich & Nadelhofer，1989; Giardina & Ryan,2002) have suggested a mass balance approach to estimating belowground carbon allocation where soil respiration is related to estimates of total carbon input to the soil through litter drop,harvest residue and root turnover. Smith et al. (2010) propose taking advantage of eddy covariancemeasurementsofwhole-system carbon exchange (Baldocchi et al.，1988） and comprehensive assessments of biomass production in croplands to produce a net ecosystem carbon budget. Smith et al. (2010) suggest that total photosynthetic uptake (GPP) should equal ecosystem respiration and total biomass (above ground and below ground) production (NPP) in a stable system，with some allowance for losses through soil water leaching or erosion. However，agricultural systems are rarely stable over time in terms of soil carbon or organic matter，particularly following cultivations. Despite ploughing in of previous crop residues，constant stimulation and release of soil carbon through disturbance primed respiration can result in net carbon release from soils to atmosphere and soils under annual arable cropping typically show lower carbon stocks when compared to perennial systems such as grasslands or Miscanthus (Felten & Emmerling， 2012; Poeplau & Don, 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this present study,we assume that discrepancies between the amount of carbon taken in by the vegetation and biomass production plus ecosystem respiration can be taken to indicate losses or gains to soil carbon, that is if it appears biomass production and respiration together outweigh photosynthetic uptake from the atmosphere above the canopy then there must be a net loss of carbon from the soil. While immaterial to this mass balance approach，it should also be considered that the growing crop may directly recycle this respired soil carbon into plant biomass,that is vegetation utilizing below canopy availability of $\\mathrm { C O } _ { 2 }$ respired through decomposition of soil carbon.Buchmann & Ehleringer (1998) demonstrated this uptake of soil respired $\\mathrm { C O } _ { 2 }$ directly into C3 and C4 crop leaves. They showed photosynthetic demand occasionally outstripping total soil respiration and depleting subcanopy $\\mathrm { C O } _ { 2 }$ levels below tropospheric concentrations while Brooks et al.(1997) reported greater subcanopy diffusion gradientsand understory leaves deriving $5 \\%$ of their carbon from respired $\\mathrm { C O } _ { 2 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inaddition to a mass balance estimation of annual carbon stocks,eddy covariance allows real-time assessment of source/sink dynamics and interyear compar isons of the impact of a developing perennial crop on atmosphere/ecosystem carbon exchange.In this study, we present the results of three-year measurements using eddy covariance and biomass sampling at a commercial-scale land-use change experiment in Wales,UK, from semi-improved agricultural grassland to Miscanthus.The study site is one of five flagship land-use conversion sites developed across theUK within thewider Carbo-Biocrop (http://www.carbo-biocrop.ac.uk) and ELUM (http://www.elum.ac.uk) projects with the primary aim of providing validation data from the first 2 years to improve greenhouse gas flux estimation in the ECOSSE model (Bell et al.,2012;Harris et al.,2014). In addition to eddy covariance and carbon stock assessments,trace gas fluxes $\\mathrm { ( N } _ { 2 } \\mathrm { O }$ and $\\mathrm { C H } _ { 4 } ^ { \\cdot }$ ）weresampled monthly across all sites from closed static chambers across all five sites，the results of model validation against these data were presented in Dondini et al. (2015).Despite the completion of these projects at the end of 2013 after 2 years of measurements,the site continuesto bemonitored forcarbon fluxeswith results from the first 3 years presented here. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Site description ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study site isa 7.41-ha field at Penglais,Aberystwyth,in mid-Wales( $5 2 ^ { \\circ } 2 5 ^ { \\prime } 1 7 ^ { \\prime \\prime }$ N $4 ^ { \\circ } 0 4 ^ { \\prime } 1 4 ^ { \\prime \\prime }$ W); $\\sim 1 1 0 \\mathrm { ~ m ~ }$ a.s.l.with the western edge of the site sitting at the top of a steep decline down to the coast. Soil type is a sandy loam,dystric cambisol overDenbigh series bedrock witha mean $\\mathrm { \\Delta p H }$ of 5.9. Climate is temperate with 30-year local annual averages of 158 days with rain, $1 0 7 4 . 7 ~ \\mathrm { { m m } }$ total rainfall and max/min temperatures of $1 3 . 5 / 6 . 7 \\ ^ { \\circ } \\mathrm { C }$ [Gogerddan 1981-2010 averages (www.metoffice. gov.uk)]. Prior land use was semi-improved grassland which wasploughed and resown regularly over the previous ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "30 years.The last time was 6 years prior to this experiment, which meant the site was due for recultivation at this point with only the novel crop type straying from what would have been normal practice anyway.Due to constraints of homogeneity imposed by the eddy covariance (EC) technique, the landuse change(LUC) area was restricted to a central 5.71 ha with two control areas of perennial ryegrass-dominated grassland (RGE&RGW) totalling1.59haretainedat either end for comparisons of biomass production (Fig.1).For baseline, the LUC area was considered in two blocks(LUCE& LUCW)as this related directly to the measurement footprints of the individual ECmasts (Fig.5) with differences in soil parameters and biomass production between Miscanthus and grassland areas investigated using ANovA with block differences separated using Tukey HSD analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land-use conversion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The existing grass was intensively grazed across the entire site to ground level by sheep at 10 head $\\mathrm { \\ h a } ^ { - 1 }$ by the 20 February 2012; the sheep were then removed and the land-use change area (LUC) sprayed with glyphosate at $1 . 5 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ on the 16 March 2012,killing off the remaining sward.This area was ploughed to $\\sim 2 0 \\ \\mathrm { c m }$ depth on the 4 April 2012, incorporating the dead grass and roots into the soil, followed by power harrowing on the 23rd April.Miscanthus $x$ giganteus rhizomes were commercially planted on the 24th April by International Energy Crops(MarketDrayton， UK) atatarget densityof $\\sim 1 6 \\ 0 0 0 \\ \\mathrm { h a } ^ { - 1 }$ .Table1 shows a list of herbicide application in the LUC area over the 3 years,no fertilizers were applied to either land use. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil texture ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Baseline soil parameters were determined by core sampling prior to cultivation. Twenty cores $( n = 5$ per block）were extractedacrossthesiteusinganoncompressive $1 \\mathrm { ~ m ~ } \\times \\mathrm { ~ 0 . 0 8 5 ~ m ~ }$ diameter,tractor-driven soil column cylinder auger (Eijkelkamp,Giesbeek,The Netherlands).Cores were separated into $0 . 1 5 – \\mathrm { m }$ sections,dried at $6 0 ~ ^ { \\circ } C$ until constant weight,crushed and sieved to ${ < } 2 ~ \\mathrm { m m }$ to remove stones.Bulk densities with and without stone were calculated for each 15- cm section.Finer texture analysis was carried out by laser diffraction particle size analysis (Beckman and Coulter LS200, Beckman Coulter Ltd,High Wycombe,UK) on a total of 24 subsamples:12 locations at two depths $[ 0 \\mathrm { - } 0 . 1 5 \\mathrm { ~ m ~ }$ and 0.15- $0 . 3 0 \\mathrm { ~ m ~ }$ 0 ${ \\bf \\dot { \\boldsymbol { n } } } = 3$ at 2 depths per block)]. Subsamples from the two depths $( n = 3$ at 2 depths per block)were analysed for soil organic carbon (SOC） through oxidation with potassium dichromate to establish a baseline carbon content to $0 . 3 { \\mathrm { ~ m } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0b18a01ccc2e14e20796e536a6d3a87ef8243e6e9aa5721f41487017be2e363.jpg",
+        "table_caption": [
+            "Table 1 Herbicide application across the three-year study period.No further pesticides or fertilizer were applied in any year "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Date</td><td>Chemical</td><td>Brand name</td><td>Application rate (ha-1)</td></tr><tr><td>16-03-2012 17-05-2012</td><td>Glyphosate Isoxaflutole 100 g kg-1</td><td>Round-up Cadou</td><td>1.5 kg</td></tr><tr><td></td><td>Flufenacet 480 g kg-1</td><td>Star</td><td>0.75kg</td></tr><tr><td>26-07-2012</td><td>Metsulfuron-methyl Bromoxynil/ioxynil Fluroxypyr</td><td>Jubilee SX Oxytril Starane II</td><td>30g 1L 0.5L</td></tr><tr><td>03-04-2013</td><td>as 1-methyl heptyl</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>3L</td></tr><tr><td></td><td></td><td></td><td>2kg</td></tr><tr><td></td><td>Glyphosate</td><td>Round-up</td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Chlortoluron 620 g lt-1</td><td>Steel</td><td></td></tr><tr><td></td><td>Diflufenican 22.5 g lt-1</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>16-05-2014</td><td>Pyroxsulam</td><td>Broadway</td><td>0.25kg</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>70.8 g kg-1</td><td>Star</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4728660f5a72622a9748e076bf08b78e8dd92b5e41dc5bb049d8b89fe1ee3d51.jpg",
+        "img_caption": [
+            "Fig.1Experimental layoutoftheAberystwythsite,LUCW/EindicatesthelanduseareaconvertedtoMiscanthusin2012 0 $\\mathbf { W } =$ west, $\\operatorname { E } =$ east) while RGW/E indicates retained original grassland. Open squares show biomass sampling quadrats for 2012. EC1and EC2show eddycovariance mastlocations with themeasurablefetchboundarylinedemarcatingtheidealflux footprintgeo referencedforECdataqualitycontrol.The meteorologicalstationcanbesennear thecentreofthefieldandpowersuplytowerat the eastern edge. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Baseline biomass ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Intensive grazing reduced the grass crop to ground level at the site before conversion leaving minimal above-ground biomass. To assess total baseline biomass，square sections were cut through into the top $0 . 1 5 \\mathrm { ~ m ~ }$ of soil which captured this and the below-ground biomass together. Ten of these were taken with dimensions of $0 . 1 0 \\times 0 . 1 0 \\mathrm { ~ m ~ } \\times 0 . 1 5 \\mathrm { ~ m ~ }$ deep，randomly distributed across the study site. Samples were then washed clean of soil and dried to constant weight.Dry matter contents for all biomass collections were assessed by oven drying at $6 0 ~ ^ { \\circ } \\mathrm { C }$ until constant weight. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus yield and below-ground biomass (LuC) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For years one and two,eight randomly distributed quadrats ${ \\it \\Delta } n = 4$ per block) were established within the LUC area at the beginning of each growing season (Fig.1)，for these first 2 years significant differences in biomass production were assessed between the Miscanthus blocks(LUCW/E) and between these and grass production on the perennial rye grass (RGW/E) blocks.For year three,due to limited resources following the end of the ELUM project,quadrat numbers were reducedto fivewithin theLUCareaanddifferencesbetween blocks or retained grassland were no longer assessed.Quadrats were $2 \\mathrm { ~ m ~ }$ long and $1 . 2 2 \\mathrm { ~ m ~ }$ wide $( 2 . 4 4 ~ \\mathrm { m } ^ { 2 } )$ covering two rows of Miscanthus and two inter-rows,and on average,there were six plants captured in each quadrat. These plants were repeat measured for canopy height at approximately weekly intervals (see Fig.4) and destructively harvested following senescence at the end of each growing season to determine peak yield. The year one crop was cut and left in the field,so all production was considered to be litter drop into the following year.A second assessment of biomass from eight further quadrats was carried out in early March of the following year to determine spring harvestable yield and overwinter litter drop.The crop from the year two growing seasonwas commerciallyharvested with no direct measurement of offtake beyond this subsampling. The year three crop was also commercially harvested in early spring of the following year,but all material removed from the site was this time weighed directly. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Differences between peak and harvest yield are taken to represent overwinter litter drop,primarily leaf loss.At the end of year three,litter stock remaining on site was assessed from 20 randomly located quadrats $( 0 . 2 6 ~ \\mathrm { m } ^ { - 2 } ) \\$ ,differences between this and the estimate of total litter drop over the 3 years were taken to represent the quantity that had decomposed during the three-year period. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rhizome and root development were determined from each of the sampling quadrats during the dormant period between growing seasons.A section of soil, one from each quadrat, was removed centred on one Miscanthus plant with two associated inter-rows.Plants were randomly selected from within each quadrat following removal of the above-ground biomass.This produced eight root cores $0 . 5 ~ \\mathrm { m } ^ { 2 }$ and $0 . 3 0 \\mathrm { ~ m ~ }$ deep,capturing entire rhizomes and the visible coarse roots.Baseline rhizome biomass was determined by dividing the known fresh bulk weight of the planted material by the planted area with an assessment of moisture content carried out on ten $_ { 1 0 0 \\mathrm { ~ g ~ } }$ subsamples. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scaling fromplantto field scale ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scaling from individual plants to results per hectare can be problematic in a commercial-scale row crop due to gaps within and between rows. To provide a scaling parameter of plants $\\mathrm { \\ h a } ^ { - 1 }$ ，five $2 0 \\times 2 0 \\mathrm { ~ m ~ }$ quadrats were marked out at random locations across the LUC area and all Miscanthus plants contained were counted to provide an estimate of plants $\\mathrm { \\ h a } ^ { - 1 }$ from $4 0 0 ~ \\mathrm { m } ^ { 2 }$ .This was carried out for the first 2 years to accommodate any overwinter losses during establishment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Retained grassland yield and below-ground biomass (RG) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Biomass production on the control areas of grassland (RGW/E) was monitored for the first 2 years of the study.Steel hoops with an area of $0 . 2 6 \\mathrm { ~ m } ^ { 2 }$ were used as randomly distributed sample quadrats; all grass contained within them was cut to ground level and removed for drying; five of these samples were taken from each of the retained grassland areas.This was carried out twice during each year,once in June immediately before the grass was mown and removed (no grazing was carried out during the study period),and again at the end of the growing season. The sum of these weights represents cumulativeabove-ground biomass production of these retained grassland areas from a baseline of essentially zero when the sheep were finally removed. Below-ground root biomass in the RG areaswas sampled at the same timeas the Miscanthus from four randomly distributed cores taken within each block, $0 . 1 6 ~ \\mathrm { m } ^ { 2 } \\times 0 . 1 5 ~ \\mathrm { m }$ deep. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Instrumentation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meteorology.A meteorological station was established at the centre of the fetch area from January 2012 with data recorded to a CR10oo datalogger (Campbell Scientific Inc.(CSI),Logan, UT,USA).Measurements included net radiation $( \\mathrm { R n } , \\mathrm { W ~ m } ^ { - 2 } )$ NR Lite net radiometer (Kipp and Zonen,Delft,Netherlands); photosynthetic photon flux density (PPFD, $\\mu \\mathrm { m o l } \\textrm { m } ^ { - 2 } \\textrm { s } ^ { - 1 } )$ 1 SK215 quantum sensor (Skye systems,Llandrindod Wells, UK); precipitation $( \\mathrm { P } , \\mathrm { m m } )$ , Young's 52203 tipping bucket rain gauge (R.M.Young,Michigan, USA); soil temperature (Ta, $^ { \\circ } \\mathrm { C } )$ ,TCAV (CSI);and volumetric water content (vwc, $\\%$ ）CS616 sensors (CSI).Soil moisture and temperature were measured at three locations orthogonal to each other five metres out from the sensor mast into the field.Two of these measured moisture and temperature at two depths, 0.025 and $0 . 2 5 ~ \\mathrm { m } ,$ ,the deeper probes being immediately above a layer of gravel in the shallow soil. Also located centrally were soil energy balance sensors,these consisted of a horizontal CS6l6 soil moisture probe with its upper tang at $0 . 0 2 5 \\mathrm { ~ m ~ }$ below the soil surface with TCAV temperature probes $0 . 5 \\mathrm { ~ m ~ }$ either side and HFPO1SC(CSI) heat flux plates below these at $0 . 0 8 \\mathrm { ~ m ~ }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eddy covariance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fetch.The area of the site that satisfied eddy covariance topographical assumptions of minimal slope and maximum downwind fetch availability restricted the ideal EC fetch to the flattest $3 . 9 \\ \\mathrm { h a }$ of the LUC area (Fig.1).The field itself was chosen for its alignment lengthwise to the prevailing south westerly winds; to maximize this the mast was installed at the eastern edge of the field (EC1 in Fig.1). Lengthwise fetch in this prevailing wind direction was $2 5 5 \\mathrm { ~ m ~ }$ with $8 0 \\mathrm { ~ m ~ }$ to either side. In practice, the output of the footprint model showed that measurements from the south-west rarely extended beyond the LUCE block boundary (Fig.5) leaving LUCW largely unrepresented in 2012.A second identical eddy covariance mast was installed in January 2013 at the opposite end of the fetch (EC2 in Fig.1)，distance between the two masts was $1 8 0 \\mathrm { ~ m ~ }$ ，The second tower significantly improved spatial and temporal coverage over the maturing crop and took advantage of a regular nocturnal offshore reversal of wind direction and accompanying good night-time turbulence. This twin tower set-up also offered a rare opportunity in eddy covariance studies to directly capture sampling uncertainty. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EC sensors ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The eddy covariance systems (EC150/CSAT3A OPEC system, CSI)consisted of a CSAT-3A sonic anemometer and EC150 infrared gas analyser with air temperature (Ta $^ { \\circ } \\mathrm { C } )$ and relative humidity $( \\mathrm { R H } , \\ \\% )$ monitored by an HMP155A (CSI) along with soil surface moisture and temperature five metres forward of each flux mast at a depth of $0 . 0 2 5 \\mathrm { ~ m ~ }$ using CS616 and TCAV sensors (CSI);data were recorded to a CR3000 datalogger at $2 0 ~ \\mathrm { H z }$ and later processed to $3 0 \\mathrm { - m i n }$ averaging intervals. Sensor heights needed adjustment to accommodate the growing crop，allowing them to remain high enough above the canopy to avoid the roughness sublayer of turbulence where fluxes would be difficult to resolve but low enough to restrict the fetch to within the crop boundaries.A target above canopy sensor height was therefore set at $2 ~ \\mathrm { m } ,$ to allow adjustment the EC sensors were mounted on a movable cross arm mounted onto the central $6 \\mathrm { - m }$ spar. Crop measurements were taken approximately weekly during the growing season and when canopy heights indicated this distance had narrowed to below $2 \\mathrm { - m }$ sensorswere raised accordingly. $\\mathrm { C O } _ { 2 }$ storage in the canopy during periods of low atmospheric turbulence was considered negligible over time and only above-canopy NEE was measured,with the standard sign convention that negative values represent uptake of $\\mathrm { C O } _ { 2 }$ from the atmosphere and vice versa.Mean flux rates of $\\mathrm { C O } _ { 2 }$ 0 $_ \\mathrm { [ u m o l }$ （204号 $\\mathrm { C O } _ { 2 } \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 } )$ are converted to mass sums of carbon $( \\mathrm { g } \\mathsf { C O } _ { 2 } \\mathrm { - } \\mathsf { C } \\mathrm { m } ^ { - 2 } \\mathrm { h h } ^ { - 1 } )$ for budget integrations.The EC150s were calibrated as new from the factory on installation and subsequently zero and span calibrated at the begin ning and end of each growing season using zero-grade air and a $5 0 0 \\ \\mathrm { p p m } \\ \\mathrm { C O } _ { 2 }$ standard (BOC speciality gases,Surrey, UK)，drift was minimal with an average gain across both towers of $0 . 0 0 3 ~ \\mathrm { p p m }$ .Sensors were reset at each calibration, and results are not corrected for the minimal gain. During the winter between the second and third years,the gas analy sers were returned one at a time for factory calibration. Power was supplied by wind (Rutland 913 wind charger, Marlec Engineering,Northants,UK）and solar power (80W solarPV,RS Components Ltd,Northants,UK) mounted on a $5 \\mathrm { - m }$ scaffold tower $2 0 \\mathrm { ~ m ~ }$ downwind of EC1 (Fig.1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ECdataqualitycontrol ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $2 0 ~ \\mathrm { H z }$ data were processed into 30-min average flux rates (Baldocchi,2003） using EDDYPRO software (EddyPro? version 4.2.0,LI-COR bioscience,Lincoln，NE,USA).Quality control flagging policy $( 0 , \\ 1 ,$ and 2) for each half-hour average followed Mauder & Foken (20o4);spike detection followed Vickers $\\&$ Mahrt (1997);vertical wind speed (W) retained at $< 5$ standarddeviations $( \\sigma )$ from the mean over the half hour,all other variables at $3 \\sigma$ .Detrending of turbulence fluctuations used block averaging. Crop canopy dynamics and associated sensor heights are included in the processing by automated reading of metadata files.Coordinate rotation was by double rotation rather than planar fit (Wilczak et al.，20o1)，which would require undisturbed sensor alignments over longer timescales to produce reference wind vector parameters. Density fluctuations were corrected with the WPL term (Webb et al.，1980;Leuning，2007).Co-spectral analysis and correction of low- and high-pass filtering effects were carried out following Moncrieff et al. (1997,2004). Cross-wind corrections were handled internally by the CSAT-3A,velocity bias in the anemometer calibration was assessed before installation with deviations from zero included in the processing calculations. This half-hourly data set was then further quality controlled for site-specific parameters with values flagged at 2 rejected immediately.Sensor obstruction, for example precipitation,is indicated by mean signal strength between transducers, return signals ${ < } 8 5 \\%$ of the outgoing were rejected. Flux footprint was estimated using the models of Kljun et al. (2004) or Kormann & Meixner (2001）where turbulent friction velocity was $< 0 . 2 \\mathrm { ~ m ~ s ^ { - 1 } }$ ．GIS software (ArcMap 10.1 ESRI，Redlands, CA,USA）was used to determine distance to the outer limit of the acceptable fetch within 36 ten-degree increments; completely unacceptable directions,due to flow distortion by the sensor masts themselves or interference from surrounding trees/hedgerows，were excluded immediately; remaining increments were acceptable where $70 \\%$ of the measured flux was determined by the footprint model to have come from within the acceptable fetch for each ten-degree increment (Fig. 5). Post processing data handling and quality control were carried out using script programming in the R statistical language (R Foundation for Statistical Computing, Vienna, A1istria). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Gapfilling ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Data set gaps created either through original data losses or rejected through quality control need to be filled for estimations of long-term carbon budgets.As can be seen in Fig.5, where wind directions excluded data collected at EC1 they were often acceptable at EC2,in these instances and others where quality control has rejected data from EC1 but not EC2 this data set was used to fill gaps in EC1. The remaining gapfilling,along with flux partitioning of NEE into ecosystem respiration $\\scriptstyle ( \\mathbb { R } _ { \\mathrm { e c o } } )$ and gross primary production (GPP)，was carried out using the FLUXNET standard online gapfilling tool: http://www.bgc-jena.mpg.de/bgi/index.php/Services/REddyProcWeb. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Underestimation of fluxes during periods of low turbulence wasavoided by filtering data under derived friction velocity $\\left( \\mathrm { u } ^ { \\ast } \\right)$ thresholds (Reichstein et al.,20o5).Energy balance closure was considered in ordinary least square regression between the latent plus sensible heat $\\mathrm { ( L E + H ) }$ and net radiation minus soil heat storage $\\left( \\mathrm { R n - G } \\right)$ using all half-hour values retained in each year (Wilson et al.，2002).Canopy storage of heat or carbon dioxide was not measured and is not included. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EC data set comparison ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The footprints of each sensor mast were predominantly independent of each other,particularly during westerly wind directions,offering direct comparisons between masts so estimating sampling uncertainty across the site [see Hollinger et al. (2004). Site- and mast-specific quality control was applied to both the EC1 and EC2 data sets,including filtering values recorded where $\\mathtt { u } ^ { * }$ was below the site-specific threshold, before appropriate paired measurements were selected out from the retained data.These weremeasurements acceptable fromboth towers at the same half-hour time points and thereby driven by near identical climatic factors, these resulting data pairs were compared using linear regression. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Carbon budget ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fora spring harvested perennial crop such as Miscanthus,a year running from January to December may not be the most appropriate time span to consider interannual comparisons of net carbon exchange or budget sums.For these results,periods running from the beginning of March in 1 year to the end of February in the next (nominally harvest to harvest) are considered.Therefore,we present results from year one (17/3/2012 to 29/2/2013)，year two (1/3/2013 to 28/2/2014) and year three (1/3/2014 to 28/2/2015).Year one begins 17th March as this is the day after spraying off the original grassland at the beginning of the land-use change. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A mass balance approach was taken to estimate changes in below-ground carbon stocks,both for total below-ground carbon including biomass (TOC）and for soil organic carbon (SOC).Conceptually,if respiration and the carbon content of biomass production (above ground and below ground) are subtracted from total photosynthetic uptake then SOC losses or gains can be estimated.Negative values would indicate a loss of soil carbon,positive would indicate a gain (note this is now opposite to the eddy covariance convention).This simple concept yields two equations... ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathrm { T O C } = \\left( \\frac { \\left( \\mathrm { G P P } - \\left( \\mathrm { R } _ { \\mathrm { e o } } + \\mathrm { A N P P } \\right) \\right) + \\alpha } { t } \\right) - \\varepsilon\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta S O C = \\frac { \\left( \\Delta \\mathrm { T O C } - \\left( \\mathrm { B N P P } + r z \\right) \\right) } { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta \\mathrm { T O C } =$ change in total below-ground organic carbon (including biomass) $\\mathbf { G P P = }$ gross primary productivity (total $\\mathrm { C O } _ { 2 }$ uptake in photosynthesis) $\\operatorname { R } _ { \\mathrm { e c o } } =$ total ecosystem respiration $\\Delta { \\sf S O C } =$ change in soil organic carbon $a =$ any vegetation added to the below-ground carbon pool in cultivation,that is original grass killed and ploughed in, subsequent weed roots killed with herbicide control and additions through rhizome planting and litter decomposition （204号 $\\mathrm { A N P P = }$ above-ground net primary productivity (biomass production) （204号 $\\mathrm { B N P P = }$ below-ground net primary productivity (root/rhizome biomass gain) $\\mathbf { r } z =$ planted rhizome $t =$ time span $\\varepsilon =$ losses through soil erosion and dissolved organic carbon leaching (not measured) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Equation1 estimates changes in total below-ground organic carbon (TOC) by subtracting respiration and above-ground biomass production from photosynthetic uptake and includes known direct below-ground carbon inputs $( \\alpha )$ ，which included ploughing in of the original grass root biomass following spraying,planted rhizomes and weed roots killed in herbicide control.The final term (ε) represents carbon exports from the site through dissolved organic carbon leaching(DOC) into soil water run-off or through soil erosion.Neither of these were directly measured at the site and are therefore not included although an estimate of the potential level of this export is presented in the discussion section below.The carbon content of dead plant material is assumed to move either into the soil organic carbon (SOC) pool or be respired through decomposition as part of ecosystem respiration $( \\operatorname { R } _ { \\mathrm { e c o } } )$ .Respiration losses are captured in the eddy covariance measurements.Carbon contents were assumed to be $4 4 \\%$ of Miscanthus biomass and $4 2 \\%$ of grass/weed biomass (J. Clifton-Brown,unpublished). This average carbon content for above-ground and belowground Miscanthus biomass combined agrees well with an average figure of $4 6 . 7 \\%$ in Beuch et al.(2000) and $45 \\%$ in Hansen et al. (2004). Equation 2 derives an estimate of the change in SOC over time by subtracting the carbon content of belowground biomass production and planted rhizomes. These deltas were compared between years and integrated over the three-year study period.Incorporation of carbon from leaf litter into the SOC pool was assumed at $2 6 \\%$ of the carbon content of litter decomposition after 3 years (Hansen et al.，2004)，the remainderrespired back to the atmosphere would be captured in the eddy covariance results.This litter input was assumed to move from the above-ground biomass pool (ANPP) to the SOC pool only at the end of year three in these calculations, although in reality of course this process would have been ongoing throughout the 3 years (see Discussion section below). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Baseline soil sampling ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Soil depth was typically shallow although markedly variable across the site,depths ranged from $0 . 2 3 { \\mathrm { ~ m ~ } }$ to $0 . 6 6 \\mathrm { ~ m ~ }$ with a mean of $0 . 4 4 \\mathrm { ~ m ~ }$ .This variability was reasonably consistent across all four land-use blocks,only the eastern grassland block (RGE) differed significantly ${ ' } F = 6 . 1 6 2$ $P < 0 . 0 1$ ） being slightly shallower on average than the other three blocks. Depths below $0 . 3 0 \\mathrm { ~ m ~ }$ reached an underlying gravel layer; soil results are presented for the O- to $0 . 1 5 – \\mathrm { m }$ and 0.15- to $0 . 3 0 – \\mathrm { m }$ layers. Table 2 shows the results of the baseline soil analysis; significant differences were primarily seen between soil depths rather than between blocks although stone content and its effect on bulk density stood out as the primary difference across the site.Pooling the soil carbon results across the site suggested baseline SOC for the top $0 . 3 0 \\mathrm { m }$ of $7 8 . 6 1 \\pm 3 . 2 8 \\mathrm { \\ M g \\ C \\ h a ^ { - 1 } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Micro-climate ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2012 was a particularly wet year across the UK; $1 2 2 2 . 5 ~ \\mathrm { m m }$ of rain was recorded at the site compared to the local 30-year average of $1 0 7 4 . 7 ~ \\mathrm { m m }$ .This increased rainfall fell over 237 days resulting in almost continually wet conditions;rainfall in 2013 was much lower at $7 4 7 . 8 ~ \\mathrm { m m }$ .Despite slightly higher rainfall during 2014 $8 2 9 . 3 ~ \\mathrm { m m }$ ） timing was less effective for crop growth during the growing season where soil water content (vwc） in the O- to $1 5 – \\mathrm { c m }$ layeraveraged just $2 3 . 3 \\pm 3 . 9 1 \\%$ ； this was particularly notable during the peak growing season months of July，August and September where vwc was continually below $20 \\%$ Field capacity was estimated at $4 0 . 7 \\%$ determined by an average vwc from times of 3 days' drainage following heavy rain (Hanks & Ashcroft，198O). Table 3 shows an interannual comparison of key meteorological parameters measured during the growing seasons, May to October. There was around half as much growing season rain in 2014 compared to 2012 with mean vwc also halved.Figure 2 shows monthly rainfall and vwc in the O- to $1 5 \\mathrm { - c m }$ soil layer compared across entire years，the marked reduction in soil water over the 3yearswas clear,driven bya combination of reduced rainfall and increased evapotranspiration from the maturing crop. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cdb8d7ad3ce2f527472d0f8673ebd2727574538df0e10cd35169f0569e243b28.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "",
+            "e "
+        ],
+        "table_body": "<html><body><table><tr><td>Land use block</td><td>Soil depth [m]</td><td>Clay [vol %]</td><td>Silt [vol %]</td><td>Sand [vol %]</td><td>Stone content [vol %]</td><td></td><td>Bulk density inc. stone [g cm-3]</td><td>Bulk density exc. stone [g cm-³]</td><td>Soil organic carbon (SOC) [g C (kg soil)-1]</td><td>Soil organic carbon (SOC) [Mg C ha-1]</td></tr><tr><td>0-0.15 m</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LUCE</td><td>0.47 ± 0.03a</td><td>5.57 ± 1.32a</td><td>44.85 ± 7.59a</td><td>40.51 ± 2.5a</td><td>7.26 ± 2.96a</td><td>0.93 ±0.03a</td><td>0.75 ± 0.08a</td><td></td><td>54.95 ± 9.89a</td><td>54.14 ± 6.79</td></tr><tr><td>LUCW</td><td>0.50 ± 0.04a</td><td>4.0 ± 0.51a</td><td>35.99 ± 3.34a</td><td>43.27 ± 3.5a</td><td>16.09 ± 1.74ab</td><td>1.09 ± 0.02b</td><td></td><td>0.68 ± 0.05ab</td><td>42.05 ± 2.86a</td><td>44.13 ± 3.15</td></tr><tr><td>RGE</td><td>0.31 ± 0.03b</td><td>3.24 ± 0.72a</td><td>30.45 ± 5.45a</td><td>46.24 ± 1.64a</td><td>20.03 ± 2.73b</td><td>1.07 ± 0.03b</td><td>0.50 ± 0.04b</td><td></td><td>59.08 ± 6.03a</td><td>41.39 ± 7.62</td></tr><tr><td>RGW</td><td>0.49 ± 0.04a</td><td>5.10 ± 0.81a</td><td>43.06 ± 4.81a</td><td>37.4 ± 2.3a</td><td>14.19 ± 1.43ab</td><td>1.08 ± 0.03b</td><td>0.72 ± 0.03ab</td><td></td><td>42.03 ± 3.14a</td><td>45.17 ± 2.59</td></tr><tr><td>0-0.30 m</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>LUCE</td><td></td><td>6.53 ± 2.35a</td><td>41.46 ± 9.61a</td><td>30.42 ± 2.47b</td><td>17.56 ± 7.12℃</td><td>1.30 ± 0.12</td><td></td><td>0.81 ± 0.13ab</td><td>31.25 ± 5.84b</td><td>31.44 ± 4.89</td></tr><tr><td>LUCW</td><td></td><td>5.52 ± 1.03a</td><td>39.67 ± 4.07a</td><td>33.85 ± 2.07b</td><td>28.36 ± 6.14c</td><td>1.46 ± 0.10c</td><td>0.74 ± 0.08ab</td><td></td><td>28.49 ± 0.20b</td><td>35.56 ± 4.31</td></tr><tr><td>RGE</td><td></td><td>2.65 ± 0.23a</td><td>23.96 ± 1.55a</td><td>37.54 ± 1.54b</td><td>34.46 ± 5.15c</td><td>1.44 ± 0.08℃</td><td>0.51 ± 0.06ab</td><td></td><td>41.82 ± 5.14b</td><td>29.55 ± 4.02</td></tr><tr><td>RGW</td><td></td><td>6.95 ± 2.61a</td><td>41.54 ± 12.86a</td><td>30.11 ± 5.66b</td><td>21.39 ± 4.73c</td><td></td><td>1.33 ± 0.07℃</td><td>0.82 ± 0.05ab</td><td>26.45 ± 1.52b</td><td>33.04 ± 1.12</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b11f46b1efbbc020d2bb24260ed490bc8595033fe1675868b0159f4d903cc5f9.jpg",
+        "table_caption": [
+            "Table 3Interyear comparison of growing seasonrainfal,soil moisture content (vwc)and mean air/soil temperatures "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Growing season (May-October)</td><td>Rainfall [mm]</td><td>Mean vwc 0-15 cm[%]</td><td>Mean air temp.[C]</td><td>Mean soil temp.[C]</td></tr><tr><td>2012</td><td>606.4</td><td>46.4 ± 3.31</td><td>12.6 ± 0.83</td><td>14.5 ± 0.98</td></tr><tr><td>2013</td><td>392.2</td><td>34.1 ± 2.29</td><td>13.6 ± 1.09</td><td>15.5 ± 1.28</td></tr><tr><td>2014</td><td>311.6</td><td>23.3 ± 3.91</td><td>14.0 ± 0.77</td><td>15.0 ± 0.73</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/769d12eda74a3dc4e1273166cf68cbe402969466f9f87327ae4e0f1c8b85846f.jpg",
+        "img_caption": [
+            "Fig.2(a) Inter-year comparison of monthly average volumetric soil surface water content (vwc, $\\%$ ）and (b) monthly total rainfal $\\mathrm { ( m m ) }$ ).Dashed horizontal line in plot (a) shows estimated field capacity,error bars show $\\pm \\ \\mathrm { S E }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Baseline biomass ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Following intensive grazing, above-ground biomass was minimal across the site so was included in theroot core sampling and not assessed separately, results suggested a baseline biomass stock of $6 1 7 \\pm 6 1 . 3 3 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ All baseline material was killed by spraying with glyphosate in March 2012 and ploughed into the soil in April 2012. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus scaling parameter ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "From the target commercial planting density in 2012 of $\\sim 1 . 6$ rhizomes $\\mathrm { m } ^ { - 2 } ,$ 、 $1 . 4 9 \\pm 0 . 7$ plants $\\mathrm { m } ^ { - 2 }$ were counted just prior to harvest in 2O13,this had reduced to $1 . 3 2 \\pm 0 . 0 4$ plants $\\mathrm { m } ^ { - 2 }$ by the 2014 harvest. There were no extensive gaps in the emerging crop with good canopy cover，so the second-year reduction suggests losses of individual plants distributed randomly across the site. These survivorship figures are used to scale from plant mean figures to area means for the corresponding years. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biomassproduction ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2012.The first Miscanthus shoots,after planting on 24th April, were recorded on $2 2 \\mathrm { n d }$ May with peak canopy height for both LUC blocks recorded on 1Oth October at anaverage across the site of $8 8 5 . 1 \\pm 1 9 . 4 7 \\mathrm { { \\ m m } }$ $( \\pm \\ \\mathrm { S E } )$ ： Differences in biomass dry matter production between the retained grassland (RG) and the Miscanthus (LUC) areasweresignificantinbothabove $( F = 2 2 4 . 6 , P < 0 . 0 0 1 )$ 1 and below $( F = 4 . 8 1 1$ / $P < 0 . 0 5$ ）ground but only significant within each crop type in terms of below-ground RG biomass $( F = 6 . 9 0$ 、 $P < 0 . 0 5 )$ ）where RGE was lower $( 5 6 9 . 5 3 \\pm 1 2 . 2 9 \\mathrm { ~ g ~ m } ^ { - 2 } )$ than RGW $( 9 3 8 . 9 1 \\pm 1 4 0 . 1 3 \\mathrm { ~ g ~ m } ^ { - 2 } )$ Mean above-ground biomass production (weeds and Miscanthus)wasfarlessintheLUC areaat $1 4 1 . 4 9 \\pm 1 7 . 1 5 \\mathrm { ~ g ~ m } ^ { - 2 }$ compared to $8 3 4 . 9 1 \\pm 4 5 . 5 \\mathrm { ~ g ~ m } ^ { - 2 }$ in the RG areas.Weeds contributed on average $5 1 \\%$ to the above-ground LUC biomass and，while this varied greatly between quadrats (range between 12 and $8 1 \\%$ ） the differences were not significant between blocks. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mean end of year below-ground biomass for the LUC blocks was $4 2 1 . 8 9 \\pm 6 6 . 8 9 \\mathrm { ~ g ~ m } ^ { - 2 }$ with ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$7 5 4 . 2 2 \\pm 8 5 . 3 8 \\mathrm { ~ g ~ m } ^ { - 2 }$ in the RG blocks. There were no significant differences in below-ground biomass,either roots orrhizomes,between theLUCblocks.Miscanthus rhizomes contributed $1 2 1 . 9 7 \\pm 1 7 . 8 2 \\mathrm { ~ g ~ m } ^ { - 2 }$ $( \\sim 2 5 \\% )$ to the total below-ground LUC biomass with root material (Miscanthus plus weeds combined） contributing $2 9 9 . 9 2 \\pm 6 4 . 4 8 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ .Dividing total bulk rhizome weight planted by area indicated a rhizome planting weight of $8 8 . 0 7 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ giving a rhizome dry matter production in the first year of $3 3 . 8 9 \\pm 1 7 . 8 2 \\mathrm { ~ g ~ m } ^ { - 2 }$ with root (Miscanthus plus weeds） and rhizome combined production at $3 3 3 . 8 2 \\pm 6 9 . 2 3 \\mathrm { ~ g ~ m } ^ { - 2 }$ . All aboveground production in the LUC areas was returned to the system,Miscanthus by mowing and leaving on the field(1 March 2013) and the weeds killed through her bicide spraying (3rd April).Grass production in the RG areas was mown at the same time as the LUC herbicideapplicationand removed from the system. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2013.Miscanthus growth was far stronger in 2013,first shoots noted on 24th April with peak canopy height recorded on 3rdOctoberat $2 0 2 0 . 1 9 \\pm 2 3 . 3 5 ~ \\mathrm { m m }$ .This year there were significant differences in canopy height between the two LUCblocks ${ \\cal F } = 3 6 . 8 8 \\$ $P < 0 . 0 0 1$ ）with LUCW at $2 1 2 8 . 8 \\pm 2 8 . 9 \\ \\mathrm { m m }$ andLUCE slightly shorter at $1 9 1 1 . 5 \\pm 2 1 . 1 \\ \\mathrm { m m }$ . As expected in the maturing crop, both above-ground biomass and below-ground biomass were far greater in the LUC blocks than in 2012.Total above-ground biomass，weeds and Miscanthus together, suggestedameandrymatterproductionof $7 9 3 . 3 4 \\pm 6 8 . 5 2 \\mathrm { ~ g ~ m } ^ { - 2 }$ . The weeds made up far less of the total than in 2012, contributing an average of $5 . 1 \\%$ to the total dry biomass compared to $5 1 \\%$ in 2012.Weed contribution was not significantly different between blocks. For Miscanthus alone,peak yield at senescence averaged across the site was $7 3 1 . 9 7 \\pm 6 4 . 9 9 \\mathrm { ~ g ~ m } ^ { - 2 }$ . LUCW produced significantly greater $( P < 0 . 0 1 \\$ ）above-ground dry biomass than LUCE with $8 3 3 . 4 1 \\pm 7 7 . 9 1 \\ \\mathrm { g \\ m } ^ { - 2 }$ compared to $6 3 0 . 5 3 \\pm 8 7 . 0 7 \\ \\mathrm { g \\ m } ^ { - 2 }$ ．Results from a second round of sampling immediately prior to spring harvest in 2014 suggested that of the $7 5 0 . 9 2 \\pm 6 7 . 8 5 \\mathrm { ~ g ~ m } ^ { - 2 }$ Miscanthus DM production in 2013 (including in season litter drop) $2 2 0 . 2 \\pm 8 2 . 3 9 \\mathrm { ~ g ~ m } ^ { - 2 }$ were dropped overwinter as litter. This represented $2 9 . 3 3 \\%$ of the total biomass production and left $5 3 0 . 6 7 \\pm 4 6 . 7 4 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ or $5 . 3 ~ \\mathrm { M g }$ $\\mathrm { \\ h a } ^ { - 1 }$ remaining as spring harvestable yield from the second-year production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Below-ground biomass was not significantly different foreither root orrhizomes between LUCblocks with a mean of $6 0 7 . 8 2 \\pm 6 0 . 4 1 \\mathrm { ~ g ~ m } ^ { - 2 }$ .Mean rhizome weight was $4 5 9 . 4 0 \\pm 5 4 . 4 9 \\mathrm { ~ g ~ m } ^ { - 2 }$ ；subtracting the previous year's mean rhizome weight showed a mean increase in dry matter of $3 3 7 . 4 3 \\pm 5 7 . 3 3 \\mathrm { ~ g ~ m } ^ { - 2 }$ during 2013. Coarse roots were measured at $1 4 8 . 4 2 \\pm 1 3 . 2 4 \\mathrm { ~ g ~ m ~ } ^ { - 2 }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "No significant differences were found between RGE and RGW in either above-ground or below-ground grassland biomass in 2013 and neither were significant differences seen when both blocks were pooled and compared between years. The below-ground biomass stock was consistent between years with root biomass averaging $7 0 0 . 3 1 \\pm 7 0 . 8 5 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ in 2013 compared to $7 5 4 . 2 2 \\pm 8 5 . 3 8 \\mathrm { ~ g ~ m } ^ { - 2 }$ in 2012. Above-ground biomass provedequallyconsistentwitha mean of $8 1 9 . 3 6 \\pm 4 4 . 0 1 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ in 2013 compared to the previous year $( 8 3 4 . 9 1 \\pm 4 8 . 2 7 \\mathrm { ~ g ~ m } ^ { - 2 } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2014.For the 2014 growing season sample，quadrats werereduced to fiveand differencesbetweenLUCblocks were not investigated.Weed production within the eddy covariance footprint was minimal in 2014 following effective canopy closure and was not measured.Grassland production on the RG areas was not monitored. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "First Miscanthus shoots were noted earlier than the pre vious year on 1st April with peak canopy height also recordedearlieron2ndSeptemberat $2 5 1 6 . 1 3 \\pm$ $3 9 . 4 0 ~ \\mathrm { m m }$ .Mean peak yield at senescence across the LUC area was $1 2 9 1 . 4 8 \\pm 3 3 . 2 8 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ Harvest weights after winter were directly measured from the trailer weights leaving the field in spring 2015 with moisture content assessed through subsampling，off take was $7 8 3 . 0 2 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 } ,$ suggesting overwinter liter drop and harvest losses at $5 0 8 . 4 6 \\textrm { g D M m } ^ { - 2 }$ which represented $3 9 . 4 \\%$ of the peak biomass production. Below-ground biomass was measured at $8 6 4 . 4 4 \\pm 1 2 7 . 6 3 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 } ,$ ofthis rhizome contributed $7 1 6 . 8 7 \\pm 1 0 2 . 1 2 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 } ,$ suggesting an increase of $2 5 7 . 4 7 \\pm 1 1 5 . 7 5 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ during the 2014 growing season. Coarse root biomass was consistent with the previous year at $1 4 7 . 5 6 \\pm 2 7 . 9 0 \\mathrm { ~ g ~ D M ~ m } ^ { - 2 }$ .Figure 4 shows an interyear comparison of crop canopy height development. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Eddy covariance ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Datacollectionandretention.Rawdatacollectionat the original eddy covariance mast (EC1）was around $90 \\%$ in 2012 and 2013,reducing to $78 . 2 \\%$ in 2014 when the sensors were returned to the factory during the Miscanthus dormant season forroutine calibration.For EC2 in 2013,this was $9 2 \\%$ but reduced to $7 0 . 1 \\%$ during 2014 due to sensor failure and replacement. Table 4 details data collection and retention after quality con trol for both masts in all years.Rejection through quality control was between 60 and $70 \\%$ and split evenly between automatically rejecting quality control flags of 2 in the processing output (insufficient turbulence, spike detection or non-stationarity)，sensor occlusion by precipitation and footprint extending beyond the ideal fetch. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f21a8cbd413d40bbd5efaacba6414440fe251405093f0370d40d5b6d6a057161.jpg",
+        "table_caption": [
+            "Table 4 Data collection and retention compared between masts and years,percentages given relate the maximum possible half-hour data points in any year from installation of the masts and numbers of data points retained after quality control.EC1 and EC2 combined shows the data percentage resulting from a combination of the two EC data sets which was then used to drive the gapfilling model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Total possible</td><td>Collected</td><td>%</td><td>Retained</td><td>%</td></tr><tr><td>EC1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2012</td><td>17 446</td><td>15 126</td><td>86.7</td><td>5115.0</td><td>29.3</td></tr><tr><td>2013</td><td>17 520</td><td>15 530</td><td>88.6</td><td>6445.0</td><td>36.8</td></tr><tr><td>2014</td><td>17 520</td><td>13 703</td><td>78.2</td><td>5652.0</td><td>32.3</td></tr><tr><td>EC2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2013</td><td>17 109</td><td>15 739</td><td>92.0</td><td>5973.0</td><td>34.9</td></tr><tr><td>2014</td><td>17 520</td><td>12 280</td><td>70.1</td><td>5168.0</td><td>29.5</td></tr><tr><td></td><td>EC1 and EC2 combined</td><td>Possible</td><td>Retained</td><td>%</td><td></td></tr><tr><td>2013</td><td></td><td>17 520</td><td>9378</td><td>53.5</td><td></td></tr><tr><td>2014</td><td></td><td>17 520</td><td>8773</td><td>50.1</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Energybalance closure ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Energy balance figureswere extremelyconsistent between the two masts; particularly in 2013 (see Fig.3) where fits were 0.65 with $R ^ { 2 }$ of 0.9,EC1 in 2012 (not shown）was similar with a fit of O.66 although with more scatter in the data with an $R ^ { 2 }$ at 0.78.Both improved slightly in 2014 with fits of 0.75 and 0.79 for EC1 and EC2,respectively. The failure of eddy covariance to show complete energy balance closure is well known in the literature,and this site is no exception, and the results here,however,are well within published figures.A review of 22 FLUXNET sites revealed a mean fit of 0.79 with the lowest at 0.53 with intercepts ranging from $- 3 2 . 9$ to 36.9 (Wilson et al., 2002). In maize sites, Hernandez-Ramirez et al. (201o) calculated a four-year mean fit and $R ^ { 2 }$ of 0.74 while the grassland to energy crop conversions of Zenone et al.(2013) reported a fit of 0.70 and $R ^ { 2 }$ of 0.80. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial coverage ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The EC sensors were raised four times during each growing season to maintain the target of $\\sim 2 \\mathrm { ~ m ~ }$ above mean canopy height (apart from year one,2012,where canopy extension was minimal and sensorswere raised only once). Figure 4 shows a plot of crop height measurements with EC sensor height plotted above; from this,it can be seen that canopy height was measured 21 times in 2013 and 16 times in 2014 to monitor the closing gap as the canopy developed.In year one the mean sensor height above the canopy was $1 . 9 1 \\mathrm { ~ m ~ }$ (range $1 . 6 \\mathrm { ~ m ~ }$ to $2 . 3 ~ \\mathrm { m } ^ { \\cdot }$ ),in year two the mean separation was $1 . 9 4 \\mathrm { ~ m ~ }$ (range $1 . 7 3 \\mathrm { ~ m ~ }$ to $2 . 2 5 ~ \\mathrm { m } )$ ，and in year three $2 . 4 8 \\mathrm { ~ m ~ }$ (range $1 . 9 0 \\mathrm { ~ m ~ }$ to $3 . 1 ~ \\mathrm { m } \\mathrm { { \\rangle } }$ .Greater separation in subsequent years reflects the increasing roughness of the taller crop allowing slightly higher measurements to remain within the fetch boundary. Sensorswere returned to $2 \\mathrm { ~ m ~ }$ above stubble height immediately following harvest in each year.Figure 5 shows the results of the footprint model,after quality control, from 2013 asa georeferenced map of mean bearing and distance for data collection for each half-hour integration. From this,it can be seen that coverage from EC1 was largely restricted to LUCE,and the addition of EC2 from January 2O13 greatly increased spatial coverage at the site, extending the footprint coverage of the measurable fetch into LUCW.Where the footprint originated beyond the fetch at one mast,data could often becollected at the other,providing further quality control constraints were met.These data complementarity also extended to periods of sensor calibration and other data losses.Considering EC1 as the primary data set and gapfilling with EC2 improved temporal coverage to 53 and $5 0 \\%$ for 2013 and 2014,respectively (see Table 4).Given that for 2012 only data from EC1 in LUCE were available,and that EC2 has been used to gapfill EC1 in subsequent years,an assessment of sampling uncertainty across the site is useful in determining the acceptability of this approach. Figure 6 shows the results of the OLS regression of paired data points between masts.In 2013, there were 2615 paired data points recorded as acceptable from both masts in the same half-hour time point,in 2014 this reduced to 2102. There was close agreement between the two towers,fits of 0.98 and O.99 and intercepts close to zero show very little systematic error within the measurements while the $R ^ { 2 }$ scatters suggest a sampling uncertainty of $5 \\%$ in 2013,increasing slightly to $7 \\%$ in 2014. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/64930075551ee38a86cece062f6a26b7004a3c3d5092cf4c6d1ecba858f3c56e.jpg",
+        "img_caption": [
+            "Fig.3Ordinaryleastsquareregresions betweennetradiationminus soilheatstorageandsensiblepluslatentheat.Plotsaandb compare individual masts (EC1 and EC2) in 2013, $\\mathrm { ~  ~ c ~ }$ and d compare the two masts in 2014.EC1 in 2012 is not shown but was similar to 2013 at $y = 0 . 6 7 x + 2 3 . 0 6$ and $R ^ { 2 } = 0 . 7 8$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f711ba0213fd012f9205a1edea79ed858306d4ae6cd649b246fb2d403f294d1c.jpg",
+        "img_caption": [
+            "Fig.4Line plots showing inter-yearcomparison ofcropcanopy height developmentineach growing season (points and solid line) with eddy covariancesensorheightadjustment toacommodate the developingcrop shownabove(dashed line).Sensors were returned to $2 \\mathrm { ~ m ~ }$ above stubble height immediately following each year's harvest. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac9b574eaeaad02471b1618950054630557a9a86a3a3c8e4c7c44d72def4b237.jpg",
+        "img_caption": [
+            "Fig.5Georeferencedoutputoftheeddycovariancefotprintmodelfor2013overlainontothefieldite,eachlinerepresentshalf hourdataintegrationretaiedfterqualitycontrol.Thedirectionof thelineshows themeanwindvectorforeachhalfhourwiththe length indicating the distance that $7 0 \\%$ of the estimated flux originated from. Quality control rejects half hour means that extend significantly beyond the ideal fetch area indicated by the measureable fetch boundary marked in the plot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Temporal coverage ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Temporal coverage from the single EC1 mast, following quality control, was notably poor in 2012. Only $3 0 \\%$ of the possible maximum half hours were retained to pop ulate the gapfilling model. However，this still represented 5115 data points which,as can be seen in Fig. 7a, were reasonably well distributed across the year.Data coverage improves significantly to just over $5 0 \\%$ in subsequent years (Fig. $\\mathbf { 7 b , c } , \\mathbf { \\vec { \\tau } }$ ）with the combination of the two data sets.The coastal aspect of the study site encouraged good turbulence during night-time hours; the site-specific friction velocity $( \\mathrm { u } ^ { * } )$ threshold for gapfillingandfluxpartitioningwascalculatedat $0 . 1 2 \\textrm { m s } ^ { - 1 }$ $2 7 \\%$ of total night-time measurements were below this compared to $1 1 \\%$ of daytime data. Nighttime $\\mu ^ { * }$ showed a slightly wider range of values $( 0 . 0 0 7 -$ $2 . 2 1 \\textrm { m s } ^ { - 1 }$ ）compared to daytime（ $0 . 0 0 9 { - } 1 . 5 9 \\mathrm { ~ m ~ s } ^ { - 1 } ,$ ！ The results of the gapfilling model can be seen in Fig.7(d-f)，which clearly shows the stronger development of the crop in 2014 compared to 2013. This strong growth tails off earlier in the autumn,however, likely the result of the reduced growing season rainfall and drying soils (see Fig. 2). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Net Ecosystem carbon Exchange (NEE) ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Yearone.Asoutlinedabove， forannual carbon exchange and budgets over time years are considered nominally fromharvest to harvest,in this case March at the beginning of one growing season to February in the following year. Units are converted from mean flux rates $( \\mu \\mathrm { m o l } \\mathrm { C O } _ { 2 } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 } )$ to half-hourly sums $( \\mathbf { g } \\mathbf { \\Lambda } { \\mathsf { C O } } _ { 2 } -$ （20 $\\mathrm { ~ C ~ m } ^ { - 2 } \\ \\mathrm { h h } ^ { - 1 } ,$ ）and integrated into monthly and yearly sums.The conversion year saw a net emission of carbon from the study site (Fig.8a); cumulative NEE for the year was $2 0 0 . 4 2 \\pm 9 . 1 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } .$ ，which is in close agreement with Zenone et al.(2013) who,in three landuse conversions from grassland in a similar soil and climate,saw an average loss of $2 4 1 . 6 7 \\pm 2 7 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ during their conversion year.Peak net carbon loss occurred during the bare soil cultivation months of April at $6 4 . 9 4 \\pm 4 . 6 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ and May at $5 4 . 1 1 \\pm 3 . 9 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ Net uptake of carbon $( \\mathrm { G P P } > \\mathrm { R } _ { \\mathrm { e c o } } )$ was limited to two months: September at $- 3 9 . 9 8 \\pm 3 . 2 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ and October at $- 2 9 . 0 8 \\pm 2 . 4 2 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . Peak respiration $( \\operatorname { R } _ { \\mathrm { e c o } } )$ and uptake (GPP) were both found during the growing season of July to October with a maximum monthly sum of GPP in September at $1 7 8 . 8 4 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ and $\\scriptstyle \\mathrm { \\mathrm { R } } _ { \\mathrm { e c o } }$ in August at $1 7 4 . 1 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ ： ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Year two. Growth was far stronger with a maturing crop in the second year， cumulative NEEwas $- 6 1 . 8 5 \\pm 1 4 . 2 4 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ .However，despite thenet uptake during this year,carrying over NEE from the previous year saw the site remaining a net source of carbon after the first 2 years with cumulative NEE at $1 3 8 . 5 7 \\pm 1 6 . 9 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . Peak net carbon loss was seen in December 2013 at $7 2 . 8 4 \\pm 5 . 2 4 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } ,$ ，and the site did become a net carbon sink for 4 months (August to November 2013） following the strong growing season but returned to a net source by the end of the year with the accumulation of over-winter respiration (Fig. 8b). Maximum GPP and $\\scriptstyle \\mathrm { \\mathrm { R } } _ { \\mathrm { e c o } }$ were both seen in August at 383.70 and $2 3 7 . 9 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } ,$ respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e4d5adcbe32a16b7eb7f2f9cbd18d6710f346ae058db3413a8d3f157d4a8c66.jpg",
+        "img_caption": [
+            "Fig.6OLSregressonsbetwenpaireddatapointsmeasuredatthesame timepointsandretainedatbothmastsafterqualitycontrol andapplication of the site derived friction velocity threshold.Plot (a)show the paired comparison in 2013 $( n = 2 6 1 5 )$ ）while plot (b) shows 2014 $( n = 2 1 0 2 )$ .Dashed line indicates $1 : 1$ ,continuous line indicates model fit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/07c59aac68ff25ec026382aa1cfb9d0fbbe596538319ec45943dd87afd0e4457.jpg",
+        "img_caption": [
+            "Fig.7Fingerprint plots of mean half hourly net ecosystem exchange (NEE) of $\\mathrm { C O } _ { 2 }$ in $\\mu \\mathrm { m o l }$ $\\mathrm { C O } _ { 2 } \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 } ,$ pre (a-c) and post (d-f) gapfiling.PlotashowsEC1dataonlybandcshowthecombineddatasetsofEC1andEC2.Whiteareasinplotsa-cindicatedata either missing or rejected in quality control. Colour gradient shows direction and magnitude of $\\mathrm { C O } _ { 2 }$ exchange, negative values indicate net uptake to the ecosystem. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/4190c62be6170ec3d1e79f0f9a16385e0c82e4fe4632c85a052dea77ac85c31f.jpg",
+        "img_caption": [
+            "Fig.8Timeseriesplots foryearsonetothree(a-c)ofgrossphotosytheticuptake[prmaryproductivity(GPP)]andtotalecosystem respiration $\\scriptstyle ( \\mathbb { R } _ { \\mathrm { e c o } } )$ shown as monthly sums in grey and black bars with cumulative net exchange of carbon (NEE)shown with the running line.ForcumulativeNEEeach plotfolowsondirectlyfromtheoneabove.NEEerrorbars indicate propagated standard deviationsfromrandomerrors ingapfilingcombined withuncertaintyestimationfromthe paireddata comparisons.Forcumulative NEE the $x$ axis indicatestheatmosphere/ecosystemboundary,pointsbelowthis linerepresentnetuptakeofcarbon from theatmosphere (sink) as of that time point and vice versa. GPP and $\\scriptstyle \\mathrm { \\mathrm { R } } _ { \\mathrm { e c o } }$ are shown as absolute values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Year three. Increased photosynthetic uptake following establishment and decreased SOC decomposition saw cumulative NEE in year three far exceeding preceding years at $- 7 5 5 . 0 9 \\pm 3 5 . 5 8 \\mathrm { ~ g ~ C ~ m } ^ { - 2 }$ . The site returned to being a net sink for carbon by the end of June 2O14 and remained so for the rest of year three (Fig. 8c).Maximum net carbon loss was seen during December 2014 at $6 6 . 5 7 \\pm 5 . 4 4 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . Maximum GPP and $\\scriptstyle \\mathrm { \\mathrm { R } } _ { \\mathrm { e c o } }$ were seenin July,one month earlier than in 2013,at 501.31 and $2 1 0 . 6 7 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } ,$ ，respectively. Carrying over NEE from the previous 2 years saw February 2015 ending withcumulativeNEEoverthe3 years at $- 6 1 6 . 5 2 \\pm 3 9 . 3 9 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Carbon budget ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 shows the results of Eqns 1 and 2 applied at harvest time both to individual years and integrated across the entire three-year study period. Year one saw an increase in total below-ground carbon (TOC) estimated at $3 5 . 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } ,$ ，primarily due to addition of ploughed grassmaterial and planted rhizome.However, for SOC the mass balance approach suggested a loss of ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$1 4 3 . 4 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ over the year. This SOC losswas increased during Year 2 with a loss of $3 7 4 . 7 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ These losses began to reverse during year 3, TOC gained $1 8 6 . 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ with SOC gaining $7 3 . 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ .Taking the 3 years as a whole suggested an increase in TOC, including biomass,of $1 3 9 . 2 6 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . Litter inputs of carbon to the soil were assumed to move from the litter pool to the SOC pool at the end of year three,and these were calculated at $7 7 . 7 1 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ . This resulted in an estimate net loss of SOC after 3 years at $3 6 6 . 8 \\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O shows relative size and change of carbon stocks in $\\mathrm { M g \\ h a } ^ { - 1 }$ across the 3 years; Fig.10(a) shows a close up view of the biomass stock pools over time while Fig.10(b) relates these pools to change in the total carbon pool. Total system carbon,including biomass,was generallyhigher than the grazed baseline; particularly at peak yield,although error bars (propagated standard errors of all individual carbon pools） suggest that this difference isunlikely to be significant. Baseline total system carbon (above ground and below ground) was estimated at $8 1 . 9 \\pm 3 . 2 9 \\mathrm { { \\ M g \\ h a } ^ { - 1 } }$ and finished year three (immediatelyprior to harvest) at $8 3 . 1 9 \\pm 3 . 1 7 \\mathrm { { \\ m g \\ h a } ^ { - 1 } }$ . Results from Eqn 2 suggested that SOC specifically had declined from a baseline of $7 8 . 6 1 \\pm 3 . 2 \\bar { 8 } \\mathrm { M g } \\mathrm { h a } ^ { - 1 }$ to a low of $7 3 . 4 3 \\pm 3 . 0 7 \\mathrm { { \\ M g \\ h a } ^ { - 1 } }$ at the end of year two.This trend then reversed during year three with some carbon gains and a final SOC estimated at $7 4 . 9 4 \\pm 3 . 1 3 \\mathrm { { \\ M g \\ h a } ^ { - 1 } }$ a loss of $4 . 7 \\%$ from baseline. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this paper，we present a multiyear source/sink dynamic of an establishing Miscanthus crop on semiimproved grassland and employ a simple mass balance approach to estimate changes in soil carbon stocks. While the experimental layout，determined by the demand for homogeneity of the eddy covariance technique,is not statistically ideal,offering only pseudoreplication，it does provide measurement at a full commercial scale.This is,of course,only a single site but the results join a growing body of literature for such land-use change with the comparison between two eddy covariance masts and the capture of the transition period itself offering rare insights.Results given are from simple mass balance estimations rather than full process models and assumptions are made at several points. Unlike rhizomes which are easily identified, separation of roots from Miscanthus and grass weedswas considered impractical so for year one where grass weeds dominated across the site，and all roots found were considered to be weeds and assumed to move to the SOC pool following herbicide application at the beginning of year two. For years two and three,where the weed burden was dramatically reduced,all roots found were considered to be Miscanthus.There is no suggestion that all root material has been captured in sampling, fine roots were not recovered so results can only be considered a minimum;increases of BNPP in Eqn 2 that would follow a full capture of fine root material might suggest slightly higher SOC losses than reported.Root turnover rates were not included in the calculations,the closely matching root biomass assessments between years two and three likely reflect the inability to capture the fine root production and a figure relative to the total root biomass would therefore be unreliable.For this mass balance approach,it may not be so critical, root stock production in total organic carbon (TOC)is captured through GPP in Eqn1 but without a reliable turnover rate cannot be included in Eqn 2 Agostini et al.(2015) suggest a root input rate of carbon to theSOCpoolatbetween0.19and $0 . 8 6 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ and discuss further root exudate inputs at 0.4 to $1 . 7 ~ \\mathrm { { M g } ~ C ~ \\mathrm { { h a } } ^ { - 1 } ~ \\mathrm { { y r } ^ { - 1 } } }$ .However，they point out that measurement data for Miscanthus is limited and there may be some suggestion that priming effects of root exudates increase respiration through mineralization of existing SOC，which could possibly outweigh any inputs from root turnover itself.Of course,all such respiration would be reflected in the $\\scriptstyle \\mathrm { \\mathrm { R } } _ { \\mathrm { e c o } }$ figures, suggesting that the TOC results from Eqn 1 would capture these changes in the total below-ground carbon reasonably well,assumptions made in Eqn 2 about SOC specifically should be treated more as a conservativeestimate. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/13b86950d2bb621e53f7d9d27c1ae2e5973c4074408fba5949e1e164f7c5a19b.jpg",
+        "img_caption": [
+            "Fig. 9 Results from Eqns 1 and 2 applied to individual years; units shown are $\\mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ $^ { - 2 } \\ ( 1 \\ \\mathrm { g } \\mathrm { ~ C ~ m } ^ { - 2 } = 0 . 0 1 \\ \\mathrm { M g } \\ \\mathrm { h a } ^ { - 1 } )$ . Increasing pho tosyntheticuptake(GPP)isseenacross theyears reflectingthematuringcrop.Losses from both total below ground carbon(TOC) andsoil organiccarbon (SOC)are greatestinyeartwo,year threesuggeststhereversaloftheSOCloss trend withsmallgains. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/54960c588cded92f5cd8703118a1a673d13eb2692eae0ada49e9ef57fd86270a.jpg",
+        "img_caption": [
+            "Fig.10Carbostockasssmentsatpakyield(fullsenesence)andatspringharvest(followingoverinterliterdrop.Figuresre presented in $\\mathbf { M g \\ h a } ^ { - 1 } .$ ,Plot (a) shows a magnified image of individual pools (note $y$ axis scales) while plot (b) shows the size of these gainsandlosseselativetotesoilarbonpoolandoverallcarbonstock.Erorbarssostandardrorspropagatedacrosallpols. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Litter is taken to be incorporated into the soil at $2 6 \\%$ of the carbon content of total decomposed litter material (i.e. $2 6 \\%$ of the carbon content of the difference between dropped litter summed across the 3 years and the remaining litter found at the beginning of year four). This percentage was chosen as a conservative estimate taken from thenine-yearMiscanthusplantation ofHansen et al.(2Oo4).The alternative,sixteen year plantation, in the Hansen et al.(2oo4) study showed a coefficient of retention slightly higher at $2 9 \\%$ while Amougou et al. (2012) calculated a much higher figure of $3 5 \\%$ at their five-year-old site. Choosing these slightly higher figures would reduce the estimation of SOC loss after 3 years by 2.4 or $7 . 3 \\%$ .For the mass balance calculation,litter incorporation (i.e.movement from ANPP to SOC）is only included at the end of year three.In reality，it would have been an ongoing process beginning with the decomposition of the first-year crop,which was cut and left in the field.Inclusion at this point would have the effect of slightly reducing the apparent SOC losses in the second year; the respired component of decomposing litter material is captured in the $\\scriptstyle \\mathrm { \\mathrm { R } } _ { \\mathrm { e c o } }$ figures from the eddy covariance. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "No measurement was made of carbon dissolved in soil water run-off (DOC).A comprehensive assessment of DOC leaching in Ireland (Kiely et al.,2009) across a range of land-uses found losses to be determined by pre-existing SOC and precipitation levels.In grasslands $\\left( n = 3 2 \\right)$ ，they found a mean annual export of DOC at $5 0 . 1 \\pm 5 . 5 4 \\mathrm { \\dot { \\ k g } \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 }$ which agrees well with other published studies (Hope et al.,1997;Aitkenhead-Peterson et al.,2007).Grassland SOC levels reported in Kiely et al.(2009) ranged from 3.2 to $6 . 3 \\%$ ，the Aberystwyth site falls well within this at $4 . 8 \\%$ . Assuming similar rainfall, thiswould increase our estimation of SOCloss over the 3 years by $4 \\%$ ，however,rainfall in years two and three was particularly low so it might be assumed that leaching of carbon in soil water run-off would be significantlylowerin these years. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "With the discussed caveats,the present work offers insights into short-term gains and losses in above ground and below-ground carbon pools with the highest losses of soil carbon seen in year two rather than year one. This may be due to a combination of constant waterlogging of soils in year one with increasing nutrient priming of decomposer populations in year two following weed control and increasing litter drop and root exudates (Cheng, 2009;Kuzyakov,2010). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The results presented here show that the trend of SOC decline was reversed in year three,with the sitea consistent net sink for atmospheric carbon and SOC beginning to recoup some of the previous years'losses.The sequestration figure of $0 . 7 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ for year three is in close agreement with the mean C4 carbon accumulation rate of $0 . 7 8 \\pm 0 . 1 9 \\mathrm { ~ M g ~ h a } ^ { - 1 } \\mathrm { ~ y r } ^ { - 1 }$ calculated by Poeplau & Don (2014） across 31 European sites.Assuming this sequestration rate to be a minimum going forward then total recoupment of cultivation losses of SOC would be seen byyear eight of a potential15-year crop.This conclusion seems reasonable given results from other studies which show increased SOC in grassland conversions after 12-16 years (Hansen et al.，2004; Clifton-Brown et al.，2007；Schneckenberger & Kuzyakov，2007）and decreases in younger plantations between 3 and 9 years old(Schneckenberger & Kuzyakov,2007;Zimmermann et al.,2012).Hansen et al. (2004) and Zatta et al. (2013) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "showed no change or a small insignificant decrease after 9 and 6 years，respectively. Finally，to summarize in terms of potential fossil fuel substitution, combined harvestofftakefromyearstwoandthreewas $1 3 . 1 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 }$ . With energy intensity of Miscanthus estimated between 15 and $1 7 . 5 ~ \\mathrm { M J }$ （204号 $( \\mathbf { k g \\ D M } ) ^ { - 1 }$ (Hastings et al.，2008;Felten et al.,2013) and coal at $2 4 \\ \\mathrm { M J \\ k g ^ { - 1 } }$ each hectare could have potentially replaced $8 . 2 { - } 9 . 6 ~ \\mathrm { M g }$ of coal at a co-fired power station by the end of year three.Assuming a typical carbon content of coal at $8 0 \\%$ this would offset $6 . 6 { - } 7 . 6 ~ \\mathrm { M g }$ of carbon emission,more than double the estimated loss of SOC over the first three years of establishment. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This study was primarily supported by the Natural Environment Research Council as part of the Carbo-biocrop project (NE/H01067X/1).Many thanks are due for help in fieldwork (Owen Lord,Laurence Jones and the Aberystwyth University field ops team and farm staff); soil texture analysis (Alice Massey）and advice on data handling and processing (CEH Lancaster，Southampton University and Michael Squance at Aberystwyth University). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Agostini F,Gregory AS,Richter GM (2015) Carbon sequestration by perennial energy crops:is the jury still out? BioEnergy Research,8,1057-1080.   \nAitkenhead-Peterson JA,Smart RP,Aitkenhead MJ,Cresser MS,McDowell WH (2007) Spatial and temporal variation of dissolved organic carbon export from gauged and ungauged watersheds of Dee Valley, Scotland: effect of land cover andC:N.WaterResourcesResearch,43.   \nAmougou N,Bertrand I,Cadoux S,Recous S (2012) Miscanthus $\\mathrm { ~  ~ { ~ x ~ } ~ }$ giganteus leaf senescence, decomposition and C and N inputs to soil. GCB Bioenergy,4, 698-707.   \nBaldocchi DD (2o03) Assessing the eddy covariance technique for evaluating carbon dioxide exchange rates of ecosystems: past, present and future. Global Change Biology,9,479-492.   \nBaldocchi DD,Hincks BB,Meyers TP (1988) Measuring biosphere-atmosphere exchanges of biologically related gases with micrometeorological methods. Ecology,69,1331-1340.   \nBalesdent J,MariottiA,Guillet B (1987) Natural 13 Cabundance as a tracer for studiesof soil organic matterdynamics.Soil Biology and Biochemistry,19,25-30.   \nBell MJ, Jones E,Smith J et al. (2012) Simulation of soil nitrogen,nitrous oxide emissions and mitigation scenarios at 3 European cropland sites using the ECOSSE model. Nutrient Cycling in Agroecosystems, 92,161-181.   \nBeuch S,Boelcke B,Belau L (2ooo) Effect of the organic residues of Miscanthus $x$ （20 giganteus on the soil organic matter level of arable soils. Journal of Agronomy and Crop Science, 184, 111-120.   \nBrooks JR,Flanagan LB,Varney GT,Ehleringer JR (1997) Vertical gradients in photosynthetic gas exchange characteristics and refixation of respired CO2 within boreal forest canopies. Tree Physiology,17,1-12.   \nBuchmann N, Ehleringer JR (1998) CO2 concentration profiles,and carbon and oxygen isotopes in C3 and C4 crop canopies.Agricultural and Forest Meteorology, 89, 45-58.   \nCheng W (2oo9) Rhizosphere priming effect: its functional relationships with microbial turnover,evapotranspiration,and C-N budgets.Soil Biology and Biochemistry, 41, 1795-1801.   \nCheng W,Johnson DW,Fu S (2o03) Rhizosphere effects on decomposition. Soil Science Society of America Journal,67,1418-1427.   \nClifton-Brown JC,BreuerJ,Jones MB(2007) Carbon mitigation by theenergy crop, Miscanthus. Global Change Biology,13,2296-2307.   \nDondini M, Van Groenigen K,Del Galdo I, Jones MB (2009) Carbon sequestration under Miscanthus: a study of 13C distribution in soil aggregates.GCB Bioenergy,1, 321-330.   \nDondini M,Richards M,Pogson M et al. (2015) Simulation of greenhouse gases following land-use change to bioenergy crops using the ECOSSE model.A comparison between site measurements and model predictions.GCB Bioenergy. doi: 10.1111/gcbb.12298 Wiley Online Library.   \nFelten D,Emmerling C (2012) Accumulation of Miscanthus-derived carbon in soils in relation to soil depth and duration of land use under commercial farming conditions.Journal of Plant Nutrition and Soil Science,175,661-670.   \nFelten D,Froba N,Fries J,Emmerling C(2013)Energy balancesand greenhouse gasmitigation potentials of bioenergy cropping systems (Miscanthus,rapeseed,and maize) based on farming conditions in Western Germany. Renewable Energy, 55, 160-174.   \nFerchaud F, Vitte G,Mary B (2015) Changes in soil carbon stocks under perennial and annual bioenergy crops.GCB Bioenergy，doi: 10.111/gcbb.12249 Wiley Online Library   \nGiardina CP,Ryan MG (2002) Total belowground carbon allocation in a fast-growing Eucalyptus plantation estimated using a carbon balance approach. Ecosystems, 5, 487-499.   \nGifrd RM,Roderick ML (2003) Soil carbon stocks and bulk density: spatial or cumulative mass coordinates as a basis of expression? Global Change Biology,9, 1507-1514.   \nHanksRJ,Ashcroft GL (1980)Applied Soil Physics.Springer-Verlag,New York.   \nHansen EM,Christensen BT, Jensen LS,Kristensen K (20o4) Carbon sequestration in soil beneath long-term Miscanthus plantations as determined by 13C abundance. Biomass and Bioenergy,26,97-105.   \nHarris ZM,McNamara NP,Rowe R et al. (2014)Research spotlight: the ELUM project: ecosystem land-use modeling and soil carbon GHG flux trial. Biofuels,5, 111–116.   \nHastings A, Clifton-Brown JC,Wattenbach M, Stampfel P,Mitchell CP,Smith P (2008)Potential of Miscanthus grasses to provide energy and hence reduce greenhouse gas emissions.Agronomy for Sustainable Development,28,465-472.   \nHernandez-Ramirez G,Hatfield JL,Prueger JH, Sauer TJ (2010) Energy balance and turbulent flux partitioning in acorn-soybean rotation in the Midwestern US.TheoreticalandAppliedlimatology,79-92.   \nHollngerDY,AberA,Dail B et al. (2004) Spatial and temporal variabilityin forestatmosphere CO2 exchange.Global Change Biology,10,1689-1706.   \nHope D,Bilett MF,Cresser MS (1997)Exports oforganic carbon in two river systems in NE Scotland.Journal of Hydrology,193,61-82.   \nHopkins F,Gonzalez-Meler MA,Flower CE, Lynch DJ, Czimczik C, Tang J, Subke J (2013)Ecosystem-level controls on root-rhizosphere respiration.New Phytologist, 199, 339–351.   \nKiely G,McGoff NM, Eaton JM,Leahy P,Carton O (2009) SoilC-Measurement and Modelling of Soil Carbon Stocksand Stock Changes in Irish Soils.Environmental Protection Agency,Johnstown Castle, Wexford,Ireland.   \nKljun N,Calanca P,Rotach MW,Schmid HP (2004)A simple parameterisation for flux footprint predictions. Boundary-Layer Meteorology,112,503–523.   \nKormann R,MeixnerFX (2oo1) An analytical footprint model for non-neutral stratification. Boundary-Layer Meteorology,99,207-224.   \nKravchenko A,Robertson G (2011) Whole-profile soil carbon stocks: the danger of assuming too much from analyses of too litle.Soil Science Society of America Journal, 75,235-240.   \nKuzyakov Y (201o) Priming effects: interactions between living and dead organic matter.Soil Biologyand Biochemistry,42,363-1371.   \nLeuning R (2oo7) The correct form of the Webb,Pearman and Leuning equation for eddy fluxes of trace gases in steady and non-steady state,horizontally homogeneous flows.Boundary-Layer Meteorology,123,263-267.   \nMauder M, Foken T (2o04) Documentation and instruction manual of the eddy covariance software package TK2, Univ., Abt.Mikrometeorologie Bayreuth.   \nMcCalmont JP,Hastings A, McNamara NP,Richter GM,Robson P, Donnison IS, Clifton-Brown JC (2015) Environmental costs and benefits of growing Miscanthus for bioenergy in the UK\".GCB Bioenergy.doi: 10.111/gcbb.12294 Wiley Online Library.   \nMoncrieff JB, Massheder JM,de Bruin H (1997)A system to measure surface fluxes of momentum, sensible heat,water vapor and carbon dioxide. Journal of Hydrology, 188-189,589-611.   \nMoncrieff JB,Clement R,Finnigan J, Meyers T (2O04) Averaging,detrending and filtering of eddy covariance time series.In: Handbook of Micrometeorology:A Guide for Surface Flux Measurements (eds Lee $\\mathbf { \\boldsymbol { x } } ,$ Massman WJ, Law BE)，pp.7-31. Kluwer Academic, Dordrecht.   \nPoeplau C,Don A (2014) Soil carbon changes under Miscanthus driven by C4 accumulation and C3 decomposition-toward a default sequestration function. GCB Bioenergy,6,327-338.   \nRaich J, Nadelhoffer K (1989) Belowground carbon allocation in forest ecosystems: global trends. Ecology,70,1346-1354.   \nReichstein M, Falga E, Baldocchi D et al. (20o5) On the separation of net ecosystem exchange into assimilation and ecosystem respiration: review and improved algorithm. Global Change Biology,11,1424-1439.   \nRichter GM,AgostiniF,Redmile-Gordon M,White R, Goulding KWT (2015) Sequestration ofC in soils under Miscanthus can be marginal and is affected by genotypespecific rootdistribution.Agriculture,Ecosystems & Enironment,oo,69-17.   \nRowe RL,Aidan KM, Elias D, Dondini M, Smith P,Oxley J McNamara NP (2015) Initial soil C and land use history determine soil C sequestration under perennial bioenergy crops. GCB Bioenergy,doi: 10.1111/gcbb.12311   \nSchneckenberger K,Kuzyakov Y (2o07) Carbon sequestration under Miscanthus in sandyand loamy soils estimated by natural 13C abundance. Journal of Plant Nutrition andSoilScience,17,538-542.   \nSmith P (2o04) How long before a change in soil organic carbon can be detected? Global Change Biology,10,1878-1883.   \nSmith P,Lanigan G, Kutsch WLet al.(20)Measurements necessary forassessing the net ecosystem carbon budget of croplands.Agriculture,Ecosystems $\\mathcal { E }$ Environment,139,302-315.   \nVickers D,Mahrt L (1997) Quality control and flux sampling problems for tower and aircraftdata.JournalofAtmosphericandOceanic Technology,14,512-526.   \nWebb E,Pearman G,Leuning R (1980) Correction of flux measurements for density effects due to heat and water vapour transfer. Quarterly Journal of the Royal Meteorological Society,106,85-100.   \nWilczak JM,Oncley SP,Stage SA (2001) Sonic anemometer tilt correction algorithms. Boundary-Layereteorology,99,27-50.   \nWilson K,Goldstein A, Falga E,Aubinet M, Baldocchi D (202) Energy balance closureatFLUXNET sites.Agricultural and Forest Meteorology,113,223-243.   \nZata A,Clifton-Brown JC,Robson P,Hastings A,Monti A (013) Land use change from C3 grassand to C4 Miscanthus: effects on soil carbon content and estimated mitigation benefit after six years.GCB Bioenergy,6,360-370.   \nZenone T,Gelfand I, Chen J,Hamilton SK,Robertson GP (2013) From set-aside grassland to annual and perennial cellulosic biofuel crops: effects of land use change on carbon balance.Agricultural and Forest Meteorology,182,1-12.   \nZimmermann J,Dauber J, Jones MB (2012) Soil carbon sequestration during the establishment phase of Miscanthus X giganteus: a regional-scale study on commercial farms using 13C natural abundance. GCB Bioenergy,4, 453-461. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

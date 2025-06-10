@@ -1,0 +1,155 @@
+# 新疆天文台Taurus高性能计算系统
+
+张海龙1²，冶鑫晨¹，聂俊1²，陈龙飞¹，托乎提努尔¹，王杰¹，崔辰州，李长华,朱艳14,张萌14  
+（1.中国科学院新疆天文台，新疆乌鲁木齐，830011；2.中国科学院射电天文重点实验室，  
+江苏 南京，210008；3.中国科学院国家天文台，北京，100012；4.中国科学院大学，北京，100049）
+
+摘要：新疆天文台Taurus 高性能计算系统由1个登陆节点、16 个计算节点、2个 $\mathrm { I } / 0$ 节点、100TB高速存储组成。其CPU理论双精浮点计算能力6.7584Tflops，通过Linpack测试实际峰值为6.289Tflops,可提供计算能力为理论值的 $9 3 . 0 6 \%$ ；GPU理论计算能力18.72Tflops，实际测试计算峰值为14.882Tflops,计算效率为理论能力的 $7 9 . 5 \%$ 。系统计算与存储节点均采用56GbInfiniband交换互连，通过IOZone 测试存储系统，单节点写可达460MB/s,多节点写可达 $8 0 0 \mathrm { { M B / s } }$ 。系统已在多相滤波及消干扰GPU算法加速、蒙特卡罗模拟等领域得到了应用。
+
+关键字：HPC；Lustre；IOZone中图分类号：P111.5； TP391 文献标识码：A 文章编号：1672-7673（2018）
+
+天文学是一门基于观测和模拟的数据密集型科学，暗能量、暗物质、黑洞、宇宙起源、天体起源、生命起源等是天文学研究的前沿重大基础科学问题，解决这些问题的首要方法是观测，其次是利用高性能计算系统对海量真实或仿真数据进行建模和模拟分析，从而进一步揭示宇宙的奥秘。信息技术、高性能计算技术等的高速发展使得用计算机实现理论和实验研究成为可能，在这样的背景下，天文学家通过高性能计算系统进行科学研究成为必然趋势杨哲睿,高娜,刘梁.大规模天文数据分析及多维信息可视化平台的建设和管理[J].科研信息化技术与应用，2015,6(5):73-83.。中国科学院新疆天文台几十年来致力于天文观测和理论研究，科研内容包括：脉冲星、恒星形成、活动星系核、射电及光学望远镜技术等，为提高数据处理和仿真分析研究效率，结合自身科学研究需求搭建了高性能计算系统，命名为Taurus'。
+
+近些年基于图形处理器(Graphic Processing Unit,GPU)的并行计算技术已经成为高性能计算领域的研究热点，利用GPU可以大大加速科学分析、仿真等方面应用程序的运行速度Fan Z，Qiu F，Kaufman A，et al．GPU cluster for highperformance computing[C]// Proceedings of the ACM/IEEE SC2004 Conference. 2004:47-47.。GPU加速计算技术早在 2007年由NVIDIA 公司推出Kirk D．NVIDIA CUDAsoftware and GPU parallel computing architecture[C]// Proceedings of the 6thinternational symposium on Memory management．2007:103-104.，将计算密集型的任务提交GPU处理，同时CPU依然处理其余任务，可以有效提升数据处理速度。在天文领域，GPU计算框架非常适合天文图像处理、宇宙学大尺度数值模拟、空间目标轨道模拟等，GPU计算框架已经在天文学研究中得到广泛的应用。
+
+高性能计算系统的计算性能来自于多节点的并行计算，节点之间的数据传输、通讯是系统建设的关键Chervenak A，FosterI，Kesselman C，et al．The datagrid: towards an architecture for the distributed management and analysis oflarge scientific datasets[J]. Journal of Network and Computer Applications,2000，23(3)：187-200.。Taurus 高性能计算系统的建立使得新疆天文台在高性能计算支持上实现了零的突破，在未来的工作中Taurus 高性能计算系统将助力于新疆天文台在天体演化模型研究、射电天文多相滤波器、相干及非相干消色散、数值模拟等多方面的科研工作。
+
+# 1、Taurus高性能计算系统
+
+# 1.1系统拓扑
+
+Taurus高性能计算系统采用 $\mathrm { C P U + G P U }$ 混合架构，目前整个系统由1个登陆节点、1个管理节点、16个计算节点、2个I/0节点、100TB高速存储组成。每个计算节点配备了2颗12 核心IntelXeon E5-2692 v2 CPU，主频为2.20GHz，64GB内存，一个Nvidia Tesla K20mGPU。计算与I/O节点之间通过56GbInfiniband交换机互联，以实现调整数据或消息传递；千兆以太网及IPMI网络用于集群系统管理，Taurus高性能计算系统拓扑结构如图1。
+
+# 1.2计算性能测试
+
+LinpackDongarra J J， Luszczek P, Petitet A. The LINPACK benchmark: past,present and future[J]. Concurrency and Computation: Practice and Experience,2003，15(9)：803-820.是国际上最流行的用于测试高性能计算机系统浮点性能的基准程序，也是世界排名TOP500超级计算机的标准测试软件。性能测试由多个64位双精浮点运算组成，测试一个计算系统每秒可以进行的乘加计算次数（flops）。Linpack 有3种基准测试，分别为Linpack100、Linpack1000以及 HPLinpack Barrett R F， Chan T H F，D'Azevedo E F，et al. Complex version ofhighperformancecomputingLINPACKbenchmark(HPL)[J].ConcurrencyandComputation:Practice and Experience，2010，22(5):573-587.。前两种基准测试不适合测试并行计算机集群，本文采用 HPLinpack对Taurus 高性能计算系统进行测试。
+
+# 1.2.1CPU性能测试
+
+Taurus 高性能计算系统共有16个计算节点，单个计算节点配置如表1。E5-2692v2每时钟周期可进行8次运算，Taurus高性能计算系统CPU双精度浮点理论计算能力为 $2 . 2 { \ast } 8 { \ast } 2 4 { \ast } 1 6 { = } ~ 6 7 5 8 . 4 \mathrm { G }$ flops.
+
+# 表1计算节点配置表
+
+Table 1 Compute node configuration   
+
+<html><body><table><tr><td>名称</td><td>类别</td><td>数量</td><td>备注</td></tr><tr><td>CPU</td><td>E5-2692v2</td><td>2</td><td>单 CPU核数12个、24线程，30MB缓存</td></tr><tr><td>GPU</td><td>Tesla K20M</td><td>1</td><td>核心数2496</td></tr><tr><td>内存</td><td>8G DDR3</td><td>8</td><td>单节点64GB内存</td></tr><tr><td>网络</td><td>56Gb Infiniband Gigabit</td><td></td><td>Infiniband 用于数据传输 千兆以太网用于管理</td></tr><tr><td>存储1</td><td>300GB</td><td>2</td><td>本地存储，SAS 接口，10000转/分</td></tr><tr><td>存储2</td><td>200GB</td><td>1</td><td>挂载的管理节点opt,用于软件同步</td></tr><tr><td>存储3</td><td>100TB</td><td>1</td><td>挂载的集中式Lustre 文件系统</td></tr></table></body></html>
+
+HPLinpack是针对现代并行计算机提出的测试方法，其核心是利用高斯消元法求解一元 $N$ 次幂稠密线性代数方程组，测试和评价高性能计算系统的浮点运算性能。Linpack的HPL.dat文件配置如表2，16 节点CPU测试结果如表3。
+
+# 表2CPU测试HPL.dat配置表
+
+# Table 2 HPL.dat configuration table of CPU test
+
+<html><body><table><tr><td colspan="2">HPLinpack benchmark input file</td></tr><tr><td colspan="2">Innovative Computing Laboratory, University of Tennessee</td></tr><tr><td>HPL.out output file name (if any)</td><td></td></tr><tr><td>6</td><td>device out (6=stdout,7=stderr,file)</td></tr><tr><td>1</td><td># of problems sizes (N)</td></tr><tr><td>341760 Ns</td><td></td></tr><tr><td>1</td><td># of NBs</td></tr><tr><td>208</td><td>NBs</td></tr><tr><td>1</td><td>PMAP process mapping (0=Row-,1=Column-major)</td></tr><tr><td>1</td><td># of process grids (P x Q)</td></tr><tr><td>16</td><td>Ps</td></tr><tr><td>24</td><td>Qs</td></tr><tr><td>16.0</td><td>Threshold</td></tr><tr><td>1</td><td># of panel fact</td></tr></table></body></html>
+
+<html><body><table><tr><td>1</td><td>PFACTs (0=left, 1=Crout, 2=Right)</td></tr><tr><td>1</td><td># of recursive stopping criterium</td></tr><tr><td>1</td><td>NBMINs (>= 1)</td></tr><tr><td>1</td><td># of panels in recursion</td></tr><tr><td>2</td><td>NDIVs</td></tr><tr><td>1</td><td>#of recursive panel fact</td></tr><tr><td>1</td><td>RFACTs (0=left, 1=Crout, 2=Right)</td></tr><tr><td>1</td><td>#of broadcast</td></tr><tr><td>3</td><td>BCASTs (0=1rg,1=1rM,2=2rg,3=2rM,4=Lng,5=LnM)</td></tr><tr><td>1</td><td># of lookahead depth</td></tr><tr><td>2</td><td>DEPTHs (>=0)</td></tr><tr><td>2</td><td>SWAP (0=bin-exch,1=long,2=mix)</td></tr><tr><td>64</td><td>swapping threshold</td></tr><tr><td>0</td><td>L1 in (O=transposed,1=no-transposed) form</td></tr><tr><td>0</td><td>U in (O=transposed,1=no-transposed) form</td></tr><tr><td>1</td><td>Equilibration (0=no,1=yes)</td></tr><tr><td>8</td><td>memory alignment in double (> 0)</td></tr></table></body></html>
+
+# 表316节点CPU测试结果
+
+Table 3 Test results of 16 CPU nodes   
+
+<html><body><table><tr><td>T/V</td><td>N</td><td>NB</td><td>P</td><td>Q</td><td>Time</td><td>Gflops</td></tr><tr><td>WC23C2C1</td><td>341760</td><td>208</td><td>16</td><td>24</td><td>4231.70</td><td>6.289e+03</td></tr></table></body></html>
+
+最终测试结果表明,Taurus高性能计算系统CPU双精度浮点实际计算能力为6.289Tflops，计算效率为 $6 . 2 8 9 / 6 . 7 5 8 4 { = } 9 3 . 0 6 \%$ 0
+
+# 1.2.2GPU性能测试
+
+Taurus 高性能计算系统每个节点配备一块Nvidia Tesla K20m GPU，TeslaK20m是Nvidia推出的Kepler架构GPU，该GPU拥有2496个CUDA核心，核心频率为 ${ 7 0 6 } \mathrm { M H z }$ ，存储器带宽为208GB/s，Taurus 高性能计算系统16节点GPU双精度浮点数理论计算能力为16\*1.17e+03Gflops $\underline { { \underline { { \mathbf { \Pi } } } } } =$ 18.72Tflops。
+
+本文使用HPLinpack对单个节点GPU计算性能进行了测试，Linpack的HPL.dat文件配置如表4，单个Tesla K20mGPU不同Ns值测试结果如表5。
+
+# 表4GPU测试HPL.dat配置表
+
+Table 4 HPL.dat configuration table of CPU test
+
+Table 5 Test results of GPU   
+
+<html><body><table><tr><td colspan="2">Innovative Computing Laboratory, University of Tennessee</td></tr><tr><td colspan="2">HPL.out output file name (if any)</td></tr><tr><td>6</td><td>device out (6=stdout,7=stderr,file)</td></tr><tr><td>5</td><td># of problems sizes (N)</td></tr><tr><td>82544</td><td rowspan="4">Ns</td></tr><tr><td>82897</td></tr><tr><td>87936</td></tr><tr><td>88192</td></tr><tr><td>88448</td><td></td></tr><tr><td>1</td><td># of NBs</td></tr><tr><td>1024</td><td>NBs</td></tr><tr><td>0</td><td>PMAP process mapping (0=Row-,1=Column-major)</td></tr><tr><td>1</td><td># of process grids (P x Q)</td></tr><tr><td>1</td><td>Ps</td></tr><tr><td>1</td><td>Qs</td></tr><tr><td>16.0</td><td>Threshold</td></tr><tr><td>1</td><td># of panel fact</td></tr><tr><td>012</td><td>PFACTs (0=left, 1=Crout, 2=Right)</td></tr><tr><td>1</td><td># of recursive stopping criterium</td></tr><tr><td>28</td><td>NBMINs (>= 1)</td></tr><tr><td>1</td><td># of panels in recursion</td></tr><tr><td>2</td><td>NDIVs</td></tr><tr><td>1</td><td># of recursive panel fact</td></tr><tr><td>012</td><td>RFACTs (0=left, 1=Crout, 2=Right)</td></tr><tr><td>1</td><td># of broadcast</td></tr><tr><td>02</td><td>BCASTs (0=1rg,1=1rM,2=2rg,3=2rM,4=Lng,5=LnM)</td></tr><tr><td>1</td><td># of lookahead depth</td></tr><tr><td>10</td><td>DEPTHs (>=0)</td></tr><tr><td>1</td><td>SWAP (0=bin-exch,1=long,2=mix)</td></tr><tr><td>192</td><td>swapping threshold</td></tr><tr><td>1</td><td>L1 in (O=transposed,1=no-transposed) form</td></tr><tr><td>1</td><td>U in (0=transposed,1=no-transposed) form</td></tr><tr><td>1</td><td>Equilibration (0=no,1=yes)</td></tr><tr><td>8</td><td>memory alignment in double (> 0)</td></tr></table></body></html>
+
+# 表5单GPU测试结果
+
+<html><body><table><tr><td>Ns Value</td><td>Tesla K20M Calculation Value(Gflops)</td></tr><tr><td>82544</td><td>1.034e+03</td></tr><tr><td>82897</td><td>1.057e+03</td></tr></table></body></html>
+
+<html><body><table><tr><td>87936</td><td>1.069e+03</td></tr><tr><td>88192</td><td>1.065e+03</td></tr><tr><td>88448</td><td>9.063e+02</td></tr></table></body></html>
+
+通过多次测试得到了Ns值的经验公式，如计算节点的总内存为M，节点的个数为 $N ,$ 系数为 $R$ ，则：
+
+Ns $=$ ROUND(SQRT(M\*N\*1024\*1024\*R/8)/128,0） \*128
+
+当 $R$ 值在0.8到0.9之间时GPU集群可以得到最高测试结果。测试中Taurus高性能计算系统16个GPU节点最高计算峰值为14.882Tflops，实际计算效率为 $1 4 . 8 8 2 / 1 8 . 7 2 { = } 7 9 . 5 \%$ 。
+
+# 1.3存储系统性能测试
+
+Taurus 采用了 LustreZhao T， March V， Dong S,et al. Evaluation of aperformance model of lustre file system[C]// 2010 Fifth Annual ChinaGridConference．2010：191-196.文件系统作为存储系统，存储容量为100TB。存储架构为一个存储节点与两个扩展盘柜，扩展盘柜和中央存储节点直接使用SAS 接口连接，使用回环模式。Lustre文件系统是一个开源的，基于对象存储技术的集群并行文件系统，可为Taurus 提供可靠、安全、易用且可扩展的存储环境Kosta L， Hunter H, George G,et al. Measuring I/O Performance of Lustre and theTemporary File System for Tradespace Applications on HPCSystems[C]//Proceedings of the SouthEast Conference. 2017: 187-190.。Lustre 文件系统的架构图如图2。
+
+Fig.2 File system architecture of Lustre
+
+Taurus存储使用集中管理方式，所有计算节点加载同一套存储系统。为了解决故障及I/O瓶颈问题Yildiz O，Dorier M，Ibrahim S，et al．On the rootcauses of cross-application I/O interference in HPC storage systems[C]// 2016IEEE International Parallel and Distributed Processing Symposium. 2016: 750-759.，存储控制器上两个独立的控制卡分别通过光纤和两个互为冗余的I/0节点连接，当其中一个 $\mathrm { I } / 0$ 节点发生故障，另一个I/0节点立刻接管，保证了存储的稳定性。其次 $\mathrm { I } / 0$ 节点和服务器之间采用 56GbInfinibandPfisterGF．Anintroduction to the infiniband architecture[M]// High Performance Mass Storageand Parallel I/O:Technologies and Applications．2001:617-632.链接，支持多并发链接转换技术，具备高速数据传输能力。
+
+通过文件系统基准测试工具IOZone 对Taurus 的文件系统进行了写入、读取、重读、重写、反向读、跨越式读、从文件中读、往文件中写、随机读取、预读取、内存映射文件I/0、异步I/0读取、异步I/0写入等测试张春明，芮建武，何婷婷．一种 Hadoop 小文件存储和读取的方法［J]．计算机应用与软件，2012,29(11)：95-100.。测试中指定生成的测试文件应小于实际内存容量，否则将影响测试结果。Taurus高性能计算系统多节点最高读取速度达到6GB/s左右；写入速度如图3，当文件大小为256MB且分块大小为16MB时达到最快的写入速度650MB/s。
+
+![](images/08f78030e2e02ada38717f4ea8be71afaf027c5f6a27acf585ddf7d59c18a9bb.jpg)  
+图3Taurus高性能计算系统写入性能测试Fig.3 Write performance test of Taurus
+
+# 1.4软件环境
+
+Taurus 高性能计算系统采用PBS集群调度器进行硬件资源的管理和分配，用户可以通过PBS提交作业脚本、查询作业状态信息、作业队列管理等操作。Taurus采用module管理软件版本及库函数版本等，方便用户配置环境变量。用户可以直接使用module 切换python 版本、MPI并行环境及编程模型等。GPU编程方面，每个计算节点支持CUDA运算架构，可以直接通过PBS 提交数据密集型作业给GPU进行运算。
+
+# 2、高性能计算系统应用
+
+Taurus高性能计算系统建成后，30余名科研人员使用Taurus开展科研相关计算工作。
+
+# 2.1蒙特卡罗模拟分子云中的化学演化
+
+天体化学是一门模拟各种各样分子在分子云中合成的学科，蒙特卡罗模拟是天体化学的一种常见模拟方法Lamberts T，Cuppen H M，Ioppolo S，et al.Water formation at low temperatures by surface O 2 hydrogenation III: MonteCarlo simulation[J]. Physical Chemistry Chemical Physics， 2013，15(21): 8287-8302.。蒙特卡罗模拟方法是一种随机过程，用来模拟一个反应网络中某一个化学反应的发生。新疆天文台的天体化学课题组使用Taurus 模拟在一个有尺度分布的系统中各种分子的化学演化，取分子云中的一个很小的体积作为一个系统，里面包含一个尘埃以及它周围的气体。这个系统中包含多种化学反应，可以通过计算系统对这些化学反应进行模拟，同时考虑多个尘埃时需并行共同演化，当达到一定条件后再对各个子系统进行混合处理，保证整个大系统处于一种均匀状态。
+
+蒙特卡罗方法的缺点之一是耗时太长，在普通单机计算机上进行模拟二十万年演化时间尺度就需要数十天时间。而通过使用Taurus高性能计算系统，目前模拟二十万年演化时间尺度的时间约为7天。新疆天文台天体化学课题组使用Taurus 高性能计算系统对不同分子演化使用蒙特卡罗方法模拟结果如图4。
+
+![](images/ab781ead9ca5ff9aec425c2c2bdbbeb207f6f681a3f5a4a41637d7b4edbac3f6.jpg)  
+图4不同分子演化模拟结果图
+
+Fig.4 Different molecular evolution simulation results
+
+# 2.2 多相滤波及消干扰GPU加速
+
+射频干扰(Radio FrequencyInterference,RFI)的识别及消除，如何快速准确地找出射频干扰，防止把真实信号误判为干扰是一项急需解决的技术难点。由于大口径望远镜数据的计算量非常大、射频干扰环境复杂，对射干扰实时处理技术提出很大的挑战。新疆天文台研究人员正在实验使用CUDA加速消除射频干扰，目前已初步实现基于TaurusGPU的自适应射频干扰处理方法，并得到良好的效果，射频干扰处理结果如图5。使用Taurus高性能计算系统能够有效减少干扰处理消耗时间，为相干消色散实现提供了硬件平台。
+
+![](images/d100f761bb2a79c2d1f09046bdba324473e2d8c12c378fb592b179f0583a80d2.jpg)  
+图5利用TaurusGPURFI处理前、后脉冲星信号轮廓对比
+
+Fig.5 The contrast of pulse profile by using Taurus GPU RFI
+
+# 2.3Taurus高性能计算系统使用申请
+
+Taurus高性能计算系统采用开放式管理，接受相关领域研究人员申请，可将具体需求发送到 zhanghailong@xao.ac.cn。Taurus平台详细使用说明及示例程序参见网站：http://taurus.xao.ac.cn。
+
+# 3、结论
+
+根据新疆天文台科研计算需求建设了16节点的高性能计算系统。经过测试，所建设的超算系统CPU性能为理论值的 $9 3 \%$ ,GPU性能为理论值的 $8 0 \%$ 。Lustre存储系统多节点在分块大小为16MB、分块文件大于256M时取得较理想的写入速
+
+度，如果文件过小影响整个存储系统性能。目前30余位用户在使用Taurus 超算系统进行科学计算工作，在蒙特卡罗模拟分子云中的化学演化、多相滤波器组算法GPU加速等相关领域得到了较好的计算结果。
+
+# 参考文献：
+
+[1]杨哲睿,高娜,刘梁.大规模天文数据分析及多维信息可视化平台的建设和管理[J].科研 信息化技术与应用，2015,6(5):73-83. Yang Zherui, Gao Na, Liu Liang. Construction and management of large scale astronomical data analysis and multi-dimensional information visualization platform[J]. E-science Technology & Application,2015,6(5): 73-83.   
+[2] Fan Z,Qiu F,Kaufman A,et al. GPU cluster for high performance computing[C]// Proceedings of the ACM/IEEE SC2004 Conference. 2004: 47-47.   
+[3]Kirk D. NVIDIA CUDA software and GPU parallel computing architecture[C]/ Proceedings of the 6th international symposium on Memory management. 20o7: 103-104.   
+[4] Chervenak A,Foster I, Kesselman C, et al. The data grid: towards an architecture for the distributed management and analysis of large scientific datasets[J]. Journal of Network and Computer Applications, 2000,23(3): 187-200.   
+[5]Dongarra J J, Luszczek P, Petitet A. The LINPACK benchmark: past, present and future[J]. Concurrency and Computation: Practice and Experience,20o3,15(9): 803-820.   
+[6]Barrett R F, Chan THF,D'Azevedo E F, et al. Complex version of high performance computing LINPACK benchmark (HPL)[J]. Concurrency and Computation: Practice and Experience, 2010,22(5): 573-587.   
+[7]Zhao T, March V,Dong S,et al. Evaluation of a performance model of lustre file system[C]// 2010 Fifth Annual ChinaGrid Conference.2010:191-196.   
+[8]Kosta L, Hunter H, George G, et al. Measuring I/O Performance of Lustre and the Temporary File System for Tradespace Applications on HPC Systems[C]/Proceedings of the SouthEast Conference. 2017: 187-190.   
+[9]Yildiz O, Dorier M, Ibrahim S,et al. On the root causes of cross-application I/O interference in HPC storage systems[C]// 2016 IEEE International Parallel and Distributed Processing Symposium. 2016: 750-759.   
+[10]Pfister G F.An introduction to the infiniband architecture[M]// High Performance Mass Storage and Parallel I/O: Technologies and Applications .20o1: 617-632.   
+[11]张春明,芮建武,何婷婷.一种 Hadoop 小文件存储和读取的方法[J].计算机应用与软件, 2012,29(11): 95-100.. Zhang Chunming, Rui Jianwu, He Tingting. An approach for storing and accessing small files on Hadoop[J]. Computer Applications and Software,2012,29(11): 95-100.   
+[12] Lamberts T, Cuppen HM, Ioppolo S, et al. Water formation at low temperatures by surface O 2 hydrogenation II: Monte Carlo simulation[J]. Physical Chemistry Chemical Physics, 2013, 15(21): 8287-8302.
+
+# Taurus High Performance Computing System of Xinjiang Astronomical Observatory
+
+Zhang Hailong $^ { 1 , 2 }$ , Ye Xinchen', Nie Jun1², Chen Longfei', Tohtonurl,Wang Jie', Cui
+
+Chenzhou³,Li Changhua³, Zhu Yan1,4 Zhang Meng1,4 (1. Xinjiang Astronomical Observatory，Chinese Academyof Sciences，Urumqi 8300l1，China; 2.Key Laboratoryof Radio Astronomy，Chinese Academy of Sciences，Nanjing 21008，China;3．National Astronomical Observatories，Chinese Academy of Sciences，Beijing l00012，China;4.University of Chinese Academy of Sciences,Beijing 100049,China)
+
+Abstract: Taurus high performance computing system of Xinjiang Astronomical Observatory has 1 login node, 16 compute nodes, $2 \mathrm { I / O }$ nodes and 100TB high-speed storage.In theory, the double precision floating-point computation capacity of CPUs is 6.7584Tflops. The actual peak turns out to be 6.289Tflops tested by Linpack, the available computation capability is $9 3 . 0 6 \%$ of the theoretical value. The computation capacity of the GPUs is 18.72Tflops in theory， while its practical peak is 14.882Tflops, the available computation capability is $7 9 . 5 \%$ of the theoretical value. The calculation nodes and the storage nodes are connected by 56Gb Infiniband network. Using IOZone for testing the storage performance, single-node writing reaches 460MB/s and multi-node writing can be ${ 8 0 0 } \mathrm { M B / s }$ . The Taurus HPC system has been applied in various fields such as GPU algorithm acceleration and Monte Carlo simulation.
+
+Key words: HPC; Lustre； IOZone;

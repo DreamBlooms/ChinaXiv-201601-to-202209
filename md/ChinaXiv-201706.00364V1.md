@@ -1,0 +1,516 @@
+# Hydrodynamic analysis of multi-body floating system in waves: from rigid to flexible structures
+
+Xiantao ZHANG1, Da LU $^ { \cdot 2 ^ { * } }$ , Yonggang SUN³, Yun GAO4.5 （204号 $^ 1$ Schoolof Civil,Environmental and Mining Engineering,theUniversityofWesternAustralia,Perth,Australia $^ 2$ State Key Laboratory ofOcean Engineering,ShanghaiJiao Tong University, Shanghai, PRChina $^ 3$ Wuxi First Scientific Research Institute, Wuxi,PRChina 4State Key LaboratoryofOilandGas Reservoir GeologyandExploration,Southwest Petroleum University,Chengdu,PRChina 5 SchoolofMechanical Engineering,The UniversityofTkyo,Tokyo113-8656,Japan
+
+# ABSTRACT
+
+The hydrodynamic problem for multi-body systems in waves has complexity in both wave structure interaction and coupled dynamics with interconnection. A consistent approach is developed for calculating the dynamic response of multi-body floating systems. This method is based on multi-rigid-body hydrodynamics and Euler-beam bending theory and can be used to deal with rigid or flexible multi-body floating systems in both frequencyand time domain.Within the framework of this consistent approach,a stiffessapproximation method is proposed to calculate the natural frequency and corresponding oscilation mode of a hinged multi-module structure.This is significant for both traditional multi-body floating system (for the purpose of structural safety) and wave energy converters (for the purpose of power efficiency). The hydroelasticity theory proposed by Lu et al. (2016),which is used to deal with continuous flexible structures with cross sectionof simple shapes, is extended to be applicable for multi-module flexible structures with cross section of arbitrary shapes and varied geometric features in longitudinal direction.Finaly，aneffectivestrategy is established to analyse in time domain the dynamic response of a hinged multi-module flexible structure with moving point loads on the upper surface in waves,representative of vehicles moving on a floating bridge or airport.
+
+Keywords: Hydrodynamics; Hydroelasticity; Multi-body; Waves; Naturalfrequency; Moving loads.
+
+# 1. Introduction
+
+Multi-body floating system has been widely designed and used for a variety of purpose in both coastal and ocean region,such as permanent floating structures including multi-module floating airport and bridge,floating LNG terminal clusters, hinged raft-type wave energy converters, wave energy converter arrays; and temporary multi-body floating system including ofloading operation between FPSO (or FLNG) and LNG carrier,assembly process of huge floating structures and a crane barge in the vicinity of an offshore platform. The hydrodynamic problemfor multi-body systems in waves has long beenstudied due to its complexity lying in notonly wave and (rigid or flexible） structure interaction but also the coupled dynamics with interconnection considered. Various approaches have been proposed to deal with hydrodynamic problems of (rigid or flexible）multi-body floating structures, in both frequency and time domain.
+
+Many researchers have adopted the linear frequency domain potential flow model to deal with multi-body hydrodynamic problems.Earlier work on two adjacent bodies in waves without connection in-between done by Ohkushu (1974),Kodan (1984) and Fang and Kim (1986) highlighted the effects of multi-body hydrodynamic interactions.More recently,Inoue etal. (2O0)and Kashiwagi et al. (2Oo5)focused on the drift forceand moment for the two adjacent floating bodies.For wave energy converter arrays,frequency domain method is used to establish the motion equations and then investigate effects of multi-body hydrodynamic interaction on the power capture eficiency.Relevant work was undertaken by Babarit (2Ol0),Babarit (2013) and Borgarino et al. (2012). The diference between traditional multi-body hydrodynamics and multi-body hydrodynamics for wave energy converter arrays is that the latter needs an equivalent power-take-off damping coefficient to be added in the motion equation.The above-mentioned work focused mainly on freely floating multi-body structures without constraints in-between, which is actually the basic multi-body hydrodynamic problem.
+
+For interconnected multi-module floating structures,the hydrodynamic problems become more complex due to the coupling efects caused by the interconnection (the interconnection form may be hinges or moorings). Newman (1994) proposed a mode expansion method to deal with the hydrodynamic response of (rigidly） hinged floating bodies within the framework of linear frequency-domain method.Inhis study,the multi-module structure is considered as a whole with number of modes equal to the number of degrees of freedom (DOFs).Then the dynamic response of a hinged structure can be obtained based on the folowing two steps: (1) Evaluation of the hydrodynamic coefcients (added mass,radiation damping and wave excitation force) for each mode；and (2) Solving the coupling modal equation to obtain the hydrodynamic response of a hinged structure.This method was also adopted by Taghipour and Moan (2Oo8）to investigate the performance of a multi-body wave energy converter in absorbing wave energy and its dynamic behaviour in multi-directional waves.Nevertheless，for floating systems with complex constraints or geometricall different modules,the structure cannot be regarded as a single bodyand thus the mode expansion method may be invalid. Gou et al. (2OO4)utilized a diferent approach by introducing a constraint matrix to study the interaction between waves and (rigidly） hinged two-module structure.The hydrodynamic coeficients were calculated for two modules without considering the connection, after which the displacement continuity condition was considered.Then the motion equation of the interconnected two-module structure in waves was established and the dynamic response was obtained.Their results compared well with those calculated by Newman (1994) except that at high frequencyregion,some differences were found between the two approaches.Gou et al.atributed this difference to the wave frequency close to the natural frequency of the system. Based on the similar concept, Zheng et al.(20l6a,b) investigated the maximum theoretical power absorption ofconnected floating bodies without and with motion constraints.Feng and Bai (2017) proposed a constraint matrix to model interconnections between floating bodies.
+
+Although in most cases,the floating system are assumed to be rigid， structural deformation may have significant influences on fluid field for some floating structures such as very large floating structures (VLFSs). The mode expansion method, which is a similar concept shown in Newman (1994), has been adopted by many researchers to investigate the hydroelastic response of multi-module flexible structures.In Newman's work,the structure is assumed to be rigid and only rigid motion mode was considered.However,forflexible structures,all the modes induced by both rigid body motion and structural deformation are taken into account. Relevant researcheshave beencarried outbyRiggs etal. (2000),Malenica etal. (2003),Fuet al.(2O07), Gao etal. (2011) and Sengupta et al. (2O17). Unlike mode expansion scheme,Lu et al. (2016) proposed a new method to deal with hydroelastic response of a continuous flexible structure by combining multi-rigid-body hydrodynamics and Euler-Bemoulli beam assumption.This approach was adopted by Xu et al.(2O17） together with constraint condition formulated by Gou et al. (2O04) to study the hydroelastic response of (rigidly） hinged VLFSs.Good agreement was obtained with results given by Fu et al. (2007).
+
+Frequency domain method is convenient and remains dominantly utilized in offshore industry.But it is limited to the framework of linear assumption. If nonlinear external loading introduced by mooring,fender, riser or hydraulic power-take-offsystem is considered, time domain approach is anappropriate solution.Althoughfully nonlinear potential flow model or viscous numerical wave tank (NWT） technique is capable of calculating wave fields and body motions simultaneously in time domain,hybrid frequency/time domain method (i.e.the time domain method based on impulse response function (IRF))，which was first introduced by Cummins (1962), is still favoured due to its convenience and low computational cost. Using IRF based time domain approach, Koo and Kim (2O05) simulated the side-by-side ofloading operation of two platforms with mooring,riser and fender considered.Results show that thecoupling efcts of two vessels significantly influences the sway and rol motions. Hong et al. (2Oo5）adopted a generalized mode approach to analyse the motion and drift force of side-by-side moored multiple vessels in time domain.The concept of generalized mode is extended by Tuitman et al. (2012)fortime-domain seakeeping computations including the dynamic response of flexible barges. O'Cathain et al.(2OO8）utilized Newton-Euler equations with eliminated constraints to capture the dynamics of a hinged-barge wave energy device in time domain. Zheng et al. (2O15)established the motion equation of two-raft wave energy converter in time domain using hybrid frequency/time domain approach together with a constraint matrix. Then the effects of Coulomb damping,radius of gyration and latching control on power efficiency were discussed in detail.
+
+The aim of this study is to develop a consistent approach capable of calculating the dynamic response of multi-body floating systems based on previous work byLu et al. (2O16)and Xu et al. (2O17). This method can be used to deal with rigid or flexible multi-body floating systems (each module is freely floating or interconnected) in both frequency and time domain. In the present work,three main contributions are made,including (a) proposing an approach (stiffness approximation method,SAM) for calculating the natural frequency and the corresponding motion mode of interconnected multi-body floating system.The determination of natural frequency is crucial to not only traditional multi-body system (to reduce responseby seting natural frequencyoutside the range of wave energy）but also wave energy converters (to improve power capture eficiency by tuning natural frequency to wave frequency); (b)extending the hydroelastic theory proposed byLu et al. (2O16) tobe applicable for flexible structure with arbitrary shapes of cross section; and(c） investigating the hydroelastic response of interconnected VLFS with moving point loads on body surface in time domain,representative of vehicles moving on floating bridge or airport.
+
+# 2. Hydrodynamic analysis of rigid multi-body floating structures.
+
+# 2.1. Equations ofmotion for rigid multi-body floating structures
+
+The fluid around floating structures is assumed to ideal (i.e.,uniform,continuous, inviscid, incompressible and irrotational). Then the fluid behaviour can be described by the velocity potential, $\phi ( x , y , z , t )$ (the xoy plane is located on the still water surface and $\textbf { Z }$ is positive upwards and $t$ is time). Within the framework of linear
+
+assumption (i.e. the wave amplitude is smal relative to wave length and body dimension), the velocity potential can be decomposed into three parts as follows:
+
+$$
+\phi \left( x , y , z , t \right) = \phi _ { \mathrm { i } } \left( x , y , z , t \right) + \phi _ { \mathrm { b } } \left( x , y , z , t \right) + \phi _ { \mathrm { R } } \left( x , y , z , t \right) = \mathrm { R e } \left\{ \left[ \varphi _ { \mathrm { i } } + \varphi _ { D } + \varphi _ { R } \right] e ^ { i \omega t } \right\} .
+$$
+
+where, $\omega$ is the (circular） wave frequency, $\phi _ { \mathrm { { l } } } , \ \phi _ { \mathrm { { b } } }$ and $\phi _ { \mathrm { R } }$ denotes,respectively， the incident wave potential, diffraction wave potential, and radiation wave potential. $\varphi _ { \mathrm { { I } } } , \varphi _ { \mathrm { { D } } }$ and $\varphi _ { \mathrm { R } }$ are the complex amplitude of corresponding wave velocity potential, which satisfy the following boundary conditions:
+
+![](images/73de256d6565071efa0e0f5144c64273bbe39d273cf8e0873959141250ed476e.jpg)  
+Fig.1.Definition of fluid and structure boundaries
+
+where (see Fig. 1.) $\Omega$ is the fluid domain, and $S _ { \mathrm { F } } , S _ { \mathrm { B } } .$ and $S _ { \infty }$ are the free surface, bottom surface, and the boundary surface at infinity of the fluid, respectively. $S _ { \mathrm { k } }$ $( S _ { j } )$ represents the wetted body surface of the $\boldsymbol { k } ^ { \mathrm { t h } } \ ( j ^ { \mathrm { t h } } )$ module of multi-body floating system $( k , j { = } 1 , 2 , \ldots , m ; j { \ne } k )$ ： $\vec { n } _ { \mathrm { k } }$ represents the outward-directed unit vector normal to the wetted surface of the $k ^ { \mathrm { { ^ { t h } } } }$ module. $\vec { V } _ { \mathrm { S _ { k } } }$ is the velocity of a given point on the wetted surface of the $k ^ { \mathrm { { ^ { t h } } } }$ module, and $\varphi$ （204号 is the velocity potential (In Eq.(2), $\varphi$ can be replaced by $\varphi _ { \mathrm { I } } , \varphi _ { \mathrm { D } }$ or $\varphi _ { \mathrm { R } } ^ { \mathrm { ~ \tiny ~ \cdot ~ } }$ ） $r$ is the distance between the far-field point and the source point. After the velocity potential $\varphi$ is obtained, the added mass and the radiation damping of these modules as well as the wave excitation force can be calculated.
+
+In the frequency domain,the excitation forces are related to the incident and diffracted wave potentials as follows:
+
+$$
+\vec { F } _ { e x k } = \rho i \omega \coprod _ { S _ { 0 k } } \bigl [ \int \bigl ( \varphi _ { \mathrm { I } } + \varphi _ { \mathrm { D } } \bigr ) \cdot \vec { n } _ { k } d S
+$$
+
+where $i ,$ $\vec { F } _ { e x k }$ $\rho$ and $S _ { 0 k }$ are the maginary unit, wave excitation forces, fluid density and average weted surfaces, respectively.
+
+The added mass and radiation damping is given by
+
+$$
+{ \Big [ } a _ { k j } { \Big ] } + \frac { i } { \omega } { \Big [ } b _ { k j } { \Big ] } = \rho \underset { S _ { 0 k } } { \iint } \varphi _ { _ { \mathrm { R } ~ j } } \cdot \vec { n } _ { k } d S \left( 4 \right)
+$$
+
+The equation of motion of freely floating multi-body system (In Fig.1,the multi-body system comprises $m$ modules and each module has a six degree-of-freedom motion） in the frequency domain for a unitary wave amplitude and a wave frequency $\omega$ is given as follows:
+
+$$
+\left( - \omega ^ { 2 } \left( \left[ M _ { k } \right] + \left[ a _ { k \perp } \right] \right) - i \omega \left[ b _ { k k } \right] + \left[ C _ { k } \right] \right) \left\{ u _ { k } \right\} + \sum _ { j = 1 , j \neq k } ^ { m } \left( - \omega ^ { 2 } \left[ a _ { k j } \right] - i \omega \left[ b _ { k j } \right] \right) \left\{ u _ { j } \right\} = \left\{ f _ { e x k } \right\} , ( k = 1 , 2 , \ldots , m )
+$$
+
+where $[ M _ { k } ]$ is the mass (or inertia moment) matrix of the $k ^ { \mathrm { { t h } } }$ module, $[ a _ { k k } ]$ Jis the added mass (or moment) matrix of the $\boldsymbol { k } ^ { \mathrm { { t h } } }$ module caused by the motion of the module itself, $[ b _ { k k } ]$ is the radiation damping matrix of the $\boldsymbol { k } ^ { \mathrm { { t h } } }$ module caused by the motion of the module itself, $[ C _ { k } ]$ is the hydrostatic stiffness matrix of the $\boldsymbol { k } ^ { \mathrm { { t h } } }$ module, $\{ f _ { e x k } \}$ is the wave excitation force (or moment) of the $\boldsymbol { k } ^ { \mathrm { { t h } } }$ module, and $\left\{ u _ { k } \right\}$ is the six DOF displacement of the $k ^ { \mathrm { { ^ { t h } } } }$ module expressed as $( u _ { k x } \ u _ { k y } , \ u _ { k z } \ \alpha _ { k } , \ \beta _ { k } \ \gamma _ { k } ) ^ { \mathrm { T } }$ . The dimension is $6 { \times } 6$ for $[ M _ { k } ] , [ a _ { k k } ] , [ b _ { k k } ] , [ C _ { k } ] , [ { \mathrm { a } } _ { k j } ]$ and $[ b _ { k j } ]$ and $6 { \times } 1$ for $\left\{ u _ { k } \right\}$ and $\left\{ f _ { e x k } \right\}$ $( k , j = 1 , 2 , \ldots , m )$ . It should be noted that in Eq.(5), the constraint of displacement due to the existence of connections is not considered.
+
+If the displacement constraint due to the existence of connections is taken into account, Eq.(5）can be modified as follows,
+
+$$
+\left( - \omega ^ { 2 } \left( \left[ M _ { \varepsilon } \right] + \left[ a _ { \mathrm { i x } } \right] \right) - i \omega \left[ b _ { \mathrm { i x } } \right] + \left[ C _ { \varepsilon } \right] \right) \left\{ u _ { \varepsilon } \right\} + \sum _ { j = 1 , j \neq k } ^ { m } \left( - \omega ^ { 2 } \left[ a _ { i j } \right] - i \omega \left[ b _ { i j } \right] \right) \left\{ u _ { j } \right\} = \left\{ f _ { e a k } \right\} + \left\{ F _ { l k } \right\} , \ ( k = 1 , 2 , \ldots , m
+$$
+
+where $\{ F _ { \mathrm { L } k } \}$ (the dimension is $6 { \times } 1$ ） is the force and moment acting on the center of gravity of floating structure caused by the connection piece.
+
+2.2.An approach for determining natural frequency ofinterconnectedmulti -body structures
+
+For simplicity and clarity,in the following analysis,the number of modules for multi-body floating structures is restricted to 2.The results obtained areeasilyand straightforward to be extended to multi-body structures of more than 2 modules. Then for a two-module floating structure,Eq. (6) can be simplified as
+
+$$
+\begin{array} { r } { \left( - \omega ^ { 2 } \Big [ \Big [ M _ { 1 } \Big ] + \big [ a _ { 1 1 } \Big ] \qquad \big [ a _ { 1 2 } \big ] \right) - i \omega \Big [ \big [ b _ { 1 1 } \big ] \quad \big [ b _ { 1 2 } \big ] \Big ] + \Big [ \big [ C _ { 1 } \big ] } \\ { \big [ a _ { 2 1 } \big ] \qquad \big [ M _ { 2 } \big ] + \big [ a _ { 2 2 } \big ] \Big ] - i \omega \Big [ \big [ b _ { 2 1 } \big ] \quad \big [ b _ { 2 2 } \big ] \Big ] + \Big [ \big [ C _ { 1 } \big ] \Big ] \Big ) \Big [ \{ u _ { 1 } \} \Big ] = \left\{ \big \{ f _ { e x 1 } \big \} \Big [ f _ { x 1 } \big ] \right\} } \end{array}
+$$
+
+or
+
+$$
+\Big [ \bar { K } \Big ] \Big \{ u \Big \} = \Big ( - \omega ^ { 2 } \Big [ \bar { M } \Big ] - i \omega \Big [ \bar { B } \Big ] + \Big [ \bar { C } \Big ] \Big ) \Bigg \{ \{ u _ { 1 } \} \Bigg \} = \Big \{ f _ { \alpha } \Big \} + \Big \{ F _ { L } \Big \} = \left\{ \left\{ f _ { e x 1 } \right\} \right\} + \left\{ \Big \{ F _ { L 1 } \Big \} \right\}
+$$
+
+As shown in Fig. 2,oxyz is earth fixed coordinate system with xoy located on the still water surface and $z$ being positive upwards. $\mathbf { o } _ { 1 } x _ { 1 } y _ { 1 } z _ { 1 }$ and $\mathbf { o } _ { 2 } x _ { 2 } y _ { 2 } z _ { 2 }$ are body-fixed coordinate system for module 1 and module 2, respectively, with $\mathbf { o } _ { 1 }$ and $\mathbf { 0 } _ { 2 }$ being the center of gravity.
+
+![](images/d34d11756fb4a04a1d2a36acc09562bb6f7e653b3a6f81779892bbe995865cad.jpg)  
+Fig.2.A schematic of interconnected two-module floating structure
+
+We suppose the connection form is the common rigid hinge connection and then give a detailed explanation of the force $\{ F _ { L 1 } \}$ and $\{ F _ { L 2 } \} .$ The idea shown in this section can be easily extended to other forms of connection. At the connection, only the rotation around $y$ axis is unconstrained. Then according to the displacement continuity at the connection, we have
+
+$$
+{ \left[ \begin{array} { l } { u _ { 1 _ { x } } } \\ { u _ { 1 _ { y } } } \\ { u _ { 1 _ { z } } } \end{array} \right] } + { \left[ \begin{array} { l l l } { 0 } & { - \gamma _ { 1 } } & { \beta _ { 1 } } \\ { \gamma _ { 1 } } & { 0 } & { - \alpha _ { 1 } } \\ { - \beta _ { 1 } } & { \alpha _ { 1 } } & { 0 } \end{array} \right] } { \left[ \begin{array} { l } { x _ { 1 } } \\ { y _ { 1 } } \\ { z _ { 1 } } \end{array} \right] } = { \left[ \begin{array} { l } { u _ { 2 _ { x } } } \\ { u _ { 2 _ { y } } } \\ { u _ { 2 _ { z } } } \end{array} \right] } + { \left[ \begin{array} { l l l } { 0 } & { - \gamma _ { 2 } } & { \beta _ { 2 } } \\ { \gamma _ { 2 } } & { 0 } & { - \alpha _ { 2 } } \\ { - \beta _ { 2 } } & { \alpha _ { 2 } } & { 0 } \end{array} \right] } { \left[ \begin{array} { l } { x _ { 2 } } \\ { y _ { 2 } } \\ { z _ { 2 } } \end{array} \right] } , \ \alpha _ { 1 } = \alpha _ { 2 } \quad { \mathrm { a n d } } \quad \gamma _ { 1 } = \gamma _ { 2 }
+$$
+
+Eq. (9)can be re-written in the matrix form with the introduction of constraint matrix $[ L ]$
+
+$$
+\left[ L \right] \left\{ \left\{ \begin{array} { c } { u _ { 1 } \right\} } \\ { \left\{ u _ { 1 } \right\} } \\ { \left\{ u _ { 2 } \right\} } \end{array} \right\} = \left[ \begin{array} { c c c c c c c c c c c c } { 1 } & { 0 } & { 0 } & { 0 } & { z _ { 1 } } & { - y _ { 1 } } & { - 1 } & { 0 } & { 0 } & { 0 } & { - z _ { 2 } } & { y _ { 2 } } \\ { 0 } & { 1 } & { 0 } & { - z _ { 1 } } & { 0 } & { x _ { 1 } } & { 0 } & { - 1 } & { 0 } & { z _ { 2 } } & { 0 } & { - x _ { 2 } } \\ { 0 } & { 0 } & { 1 } & { y _ { 1 } } & { - x _ { 1 } } & { 0 } & { 0 } & { 0 } & { - 1 } & { - y _ { 2 } } & { x _ { 2 } } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 1 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - 1 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { 1 } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { - 1 } \end{array} \right] _ { s \times 1 2 } = 0
+$$
+
+If we denote the force (and moment） on the connection as $\{ f _ { C } \}$ (the dimension of $\{ f _ { C } \}$ is $5 { \times } 1$ as the moment due to the rotation around $y$ axis is zero and removed from the force vector), then the force on the connection can be transferred to the center of gravity of each connected body as
+
+$$
+\left\{ \begin{array} { l } { \left\{ F _ { L 1 } \right\} } \\ { \left\{ F _ { L 2 } \right\} } \end{array} \right\} = \left[ L \right] ^ { T } \left\{ f _ { c } \right\}
+$$
+
+The proof of Eq. (11) is given in Appendix A. Then by combining Eq. (8),(10)and (11), we have the motion equation for (rigidly) hinged two-module floating system,
+
+$$
+\begin{array}{c} \begin{array} { r l } { \bigg [ \Big [ \overline { { K } } \Big ] _ { 1 2 \times 1 2 } } & { { } - \big [ L \big ] _ { 1 2 \times 5 } ^ { T } \bigg ] \bigg ( \Big \{ u \} _ { 1 2 \times 1 } } \\ { \Big [ L \Big ] _ { 5 \times 1 2 } } & { { } \big [ 0 \big ] _ { 5 \times 5 } } \end{array} \bigg ] \bigg ( \Big \{ \{ f _ { c } \} _ { 5 \times 1 } \Big \} = \begin{array} { l } { \bigg \{ \big \{ f _ { e x } \big \} _ { 1 2 \times 1 } } \\ { \bigg \{ 0 \big \} _ { 5 \times 1 } } \end{array} \bigg \}  \end{array}
+$$
+
+Next we will introduce an approach to calculate the natural frequency and corresponding motion mode for the (rigidly) hinged two-module structure. Here we denote the method as ‘stiffness approximation method (SAM), For the hinge connection, we assume that except the free rotation around $y$ axis,elastic deformation exists for other degrees of fredom $( u _ { C x } , u _ { C y } , u _ { C z } , \alpha _ { C } , \gamma _ { C } )$ ,i.e.
+
+$$
+\begin{array} { r l } & { K _ { C x } \left( u _ { C x } ^ { 2 } - u _ { C x } ^ { 1 } \right) = f _ { C x } ; K _ { C y } \left( u _ { C y } ^ { 2 } - u _ { C y } ^ { 1 } \right) = f _ { C y } ; K _ { C z } \left( u _ { C z } ^ { 2 } - u _ { C z } ^ { 1 } \right) = f _ { C z } ; } \\ & { K _ { C \alpha } \left( \alpha _ { C } ^ { 2 } - \alpha _ { C } ^ { 1 } \right) = f _ { C \alpha } ; K _ { C \gamma } \left( \gamma _ { C } ^ { 2 } - \gamma _ { C } ^ { 1 } \right) = f _ { C \gamma } } \end{array}
+$$
+
+where, $K _ { c s } ( s = x , y , z , \alpha , \gamma )$ is the stiffness coefficient; $f _ { c s } ( s = x , y , z , \alpha , \gamma )$ is the force on the connection. The
+
+superscript1and² represents,respectively,the displacement at the connection caused by the first and second module.Eq. (13) can be re-written as
+
+$$
+- \big [ K _ { C } \big ] _ { 5 \times 5 } \big [ L \big ] _ { 5 \times 1 2 } \left( \left\{ u _ { 1 } \right\} \right) _ { 1 2 \times 1 } = \big \{ f _ { C } \big \} = \big ( f _ { C x } , f _ { C y } , f _ { C z } , f _ { C \alpha } , f _ { C \gamma } \big ) ^ { T }
+$$
+
+In Eq.(14),the relations between displacement at the connection and at the center of gravity of the module is utilized, i.e.
+
+$$
+\left\{ u _ { c } ^ { 2 } \right\} - \left\{ u _ { c } ^ { 1 } \right\} = \left( u _ { c x } ^ { 2 } , u _ { c } ^ { 2 } , u _ { c z } ^ { 2 } , \alpha _ { c } ^ { 2 } , \gamma _ { c } ^ { 2 } \right) ^ { T } - \left( u _ { c x } ^ { 1 } , u _ { c y } ^ { 1 } , u _ { c z } ^ { 1 } , \alpha _ { c } ^ { 1 } , \gamma _ { c } ^ { 1 } \right) ^ { T } = - \left[ L \right] _ { 5 \times 1 2 } \left\{ \left\{ u _ { 2 } \right\} \right\} _ { 1 2 \times 1 } ,
+$$
+
+and the stiffness matrix of connection, which is a diagonal matrix, is given as
+
+$$
+\left[ K _ { C } \right] _ { 5 \times 5 } = \left[ \begin{array} { c c c c c } { { K _ { C x } } } & { { } } & { { } } & { { } } & { { } } \\ { { K _ { C y } } } & { { } } & { { } } & { { } } \\ { { } } & { { K _ { C z } } } & { { } } & { { } } \\ { { } } & { { } } & { { K _ { C \alpha } } } & { { } } \\ { { } } & { { } } & { { } } & { { K _ { C \alpha } } } \end{array} \right]
+$$
+
+If the diagonal elements of the stiffness matrix of connection approach to infinity,then the two-module floating structure is interconnected by a rigid hinge. Combining Eq.(11) and Eq. (14), we have the following equation,
+
+$$
+\{ \begin{array} { l } { \{ F _ { _ { L 1 } } \} } \\ { \{ F _ { _ { L 2 } } \} } \end{array}  [ L ] ^ { T } \{ f _ { c } \} = - [ L ] ^ { T } [ K _ { c } ] [ L ] \{ \{ u _ { 1 } \}  \{ u _ { 2 } \} ] _ { 1 2 \times 1 }
+$$
+
+Substituting Eq.(17) into Eq.(8), we have
+
+$$
+\left( \left[ \bar { K } \right] + \left[ L \right] ^ { T } \left[ K _ { c } \right] \left[ L \right] \right) \left\{ \begin{array} { c } { { \left\{ u _ { 1 } \right\} } } \\ { { \left\{ u _ { 2 } \right\} } } \end{array} \right\} = \left\{ f _ { e x } \right\} = \left\{ \left\{ f _ { e x 1 } \right\} \atop { \left\{ f _ { e x 2 } \right\} } \right\}
+$$
+
+Eq.(18) is equivalent to Eq.(12) with the diagonal elements of stiffess matrix of the connection approximating to infinity.Eq. (12) cannot be used to calculate the natural frequency of the (rigidly)hinged two-module structure due to the existence of the displacement constraint and unknown connection force.However,the natural frequencycan be calculated if the radiation damping and wave excitation force is ignored in Eq. (18),ie.
+
+$$
+\left[ \bar { M } \right] ^ { - 1 } \left( \left[ \bar { C } \right] + \left[ L \right] ^ { T } \left[ K _ { c } \right] \left[ L \right] \right) \left\{ u \right\} = \left[ A \right] \left\{ u \right\} = \omega ^ { 2 } \left\{ u \right\}
+$$
+
+Mathematically speaking, the square of natural frequency is the eigenvalue of the matrix $[ A ]$ and the corresponding oscilltion mode is the eigenvector of the matrix [A].Using Eq. (19) with diagonal elements of $[ K _ { C } ]$ being approximate to infinity,the natural frequency and corresponding oscillation mode can be obtained.
+
+Next we willuse an example to validate the approach in detail. The hinged two-module floating structure in Newman (1994) is adopted.The structure is composed of two identical rectangular module, each of which is $4 0 \mathrm { m }$ （204号 long by $1 0 \mathrm { m }$ beam and 5m draft, connected end-to-end by a simple hinge with a gap of $1 0 \mathrm { m }$ between two modules (see Fig. 3).
+
+![](images/575804edfe520172a2b4ba0540c9b8477582a81dbec6599bff87351dc27c6447.jpg)  
+Fig.3.Configuration of the hinged two-module structure
+
+The hinge axis is located midway between two modules in the plane of the free surface.Each module is assumed to be in static equilibrium,with uniform mass distribution.Finally,the water depth is assumed to be infinite.
+
+![](images/d09f50a3dff9b6614c1455828f2e032560124042ccb333642b432fe1a1a76895.jpg)  
+Fig.4.Response of the hinge obtained from different approaches. (a) heave amplitude of the connector $( u _ { \mathrm { C } } )$ ,normalized by inc ident wave amplitude $( A _ { \mathrm { I } } )$ ; (b) Relative angle at the connection $( \beta _ { \mathrm { C } } )$ , normalized by $k A _ { \mathrm { I } } ( k$ is the wave number).
+
+As shown in Fig.4,the results obtained from Eq.(12)(constraint matrix method) and stiffnessapproximation method (SAM, the stiffness value is $1 0 ^ { 1 0 } \ \mathrm { N / m }$ (for linear stiffness） or $\mathbf { N m }$ (for angular stiffness)） are almost identical. It should be noted that for this case, the variation of stiffness from ${ 1 0 } ^ { 8 }$ to $1 0 ^ { 1 7 }$ will give almost identical results.Some differences exist at small wave period when the results obtained from constraint matrix method or SAM are compared with those obtained from mode expansion method in Newman (1994).This is due to the fact the natural period of the system is in the range of $5 { \sim } 7 \mathrm { s }$ and the resonance occurs at small wave period.
+
+We use SAM method to calculate the natural frequency and the corresponding oscilation mode of the system. First, we choose the wave period equal to 5s (the corresponding frequency is $1 . 2 5 7 \mathrm { r a d / s } \mathrm { , }$ . And the stiffness value for SAM is ${ 1 0 } ^ { 1 0 } \mathrm { { N / m } }$ (for linear stiffness) or $\mathrm { { N m } }$ (for angular stifness). The natural frequency obtained by solving Eq.(19)is @ =(000 0.633i1.0211.0411.045203.502691.5632929.6465705.896 ${ 5 7 8 9 . 4 1 2 } ) ^ { \mathrm { T } }$ (rad/s). Here the first three zero natural frequency ${ \omega } _ { 1 } { \sim } { \omega } _ { 3 }$ corresponds to the overall surge, sway and yaw motion of the system, of which the restoring force or moment is zero. The $4 ^ { \mathrm { t h } }$ natural frequency $\omega _ { 4 }$ is a complex number because the transverse metacentric height for roll motion is negative for the model. The large value of the ${ 8 } ^ { \mathrm { t h } }$ t0 $1 2 ^ { \mathrm { t h } }$ natural frequency is caused by the large stiffness value set for the corresponding degree of freedom (in order to approximate the real model, i.e. rigidly hinged two-module structure). Actualy the natural frequency of interest is the $5 ^ { \mathrm { t h } }$ to $7 ^ { \mathrm { t h } }$ one.The corresponding eigenvector (i.e. oscilation mode shape) is both listed in Tablel and shown in Fig.5.Itcan be seen that the modal motion is the rotation around the hinge connection at natural frequency $\mathrm { \Delta \omega _ { 5 } = 1 . 0 2 1 ~ \ r a d / s }$ ，overall heave motion at $\omega _ { 6 } { = } 1 . 0 4 1$ rad/s and overall pitch motion at （204号 $\mathrm { \omega _ { 7 } = 1 . 0 4 5 \ r a d / s }$ . It should be noted that the resonance does not occur as the wave frequency $( 1 . 2 5 7 \mathrm { r a d / s } )$ is not equal to the natural frequency of the system.
+
+Table 1 Natural frequency and corresponding mode shape   
+
+<html><body><table><tr><td rowspan="2">Natural frequency (rad/s)</td><td colspan="8">The corresponding mode shape (normalized eigenvector)</td></tr><tr><td>(u1xu1y U1z</td><td></td><td>α1 β1 1</td><td></td><td>u2x u2y</td><td>U2z a2</td><td>β 22</td><td>)T (m or rad)</td></tr><tr><td>1.021</td><td>00</td><td>0</td><td>0.411</td><td>0 0.576</td><td>0 0</td><td>0 0.411</td><td>0 -0.576</td><td>0T</td></tr><tr><td>1.041</td><td></td><td>（0 0</td><td>0.707</td><td>0 -0.004</td><td>0</td><td>0 0</td><td>0.707 0 0.004</td><td>0T 0.028</td></tr></table></body></html>
+
+![](images/de26b4b51f0b972a8b9b8593569b4029165eb7c7cddbea60efec5298dc351a7f.jpg)  
+Fig.5.The motion mode of different natural frequencies for a two-module structure
+
+![](images/7ceecb81891138d25fac7c3153c2c225548f05d0319951441823e99f9a1b5a22.jpg)  
+Fig.6.Determination of resonance frequency for the two-module structure
+
+In order to obtain wave frequency corresponding to the resonance condition of the system, we set a series of input wave frequency and then calculate the corresponding three natural frequencies of the floating system.The results are given inFig.6.The resonance frequency for three modal motion (i.e.rotation around the hinge,overal heave and pitch) is 1.014,1.055 and $1 . 0 4 4 ~ \mathrm { r a d / s }$ ，respectively. The corresponding resonance period is within $5 . 9 { \sim } 6 . 2 ~ \mathrm { s } .$ This confirms that the oscilation at low wave period shown in Fig.4 is relevant to the occurrence of resonance condition,i.e.wave frequency close to the natural frequency of the system. Besides，the above-mentioned calculation procedure can be applied to determination of the resonance condition of a hinged raft-type wave energy converter, which is significant for improving the power capture efficiency and considering the structuralintegrity of the system.
+
+# 3.Hydrodynamic analysis of flexible multi-body floating structures
+
+# 3.1.Equations ofmotion
+
+The hydroelasticity theory proposed byLu et al. (2016) is adopted to investigate the hydroelastic behaviour of interconnected multi-body flexible structures. Compared with traditional mode expansion method (Wu,1984), Lu's approach,which is based on multi-rigid-body dynamics and beam bending,is easier to implement by just adding a structural stiffness matrix (taking into account the elasticity of the structure) in motion equations of rigid multi-bodystructures (for example,Eq.(6). In this sense,Lu's approach is aconsistent theory, capable of dealing with dynamic response of multi-body floating system from rigid to flexible structures by turning of/on the structural stiffness matrix in multi-rigid-body motion equations.
+
+For simplicity,the derivation of motion equations is based on a two-module flexible structure. Following Lu's approach, each module of the multi-body structure is divided into several submodules and imaginary beam is added in between the center of gravity of two adjacent submodules (see Fig.7).This idea is,to some extent, similar to mass-spring model used in mooring system analysis (Huang,1992).The difference is that the latter ignores the bending and torsion effects and thus springs are added in between mass to model the tension in mooring system.However, in the present study,all three effects,i.e.tension,bendingand torsion are important and should be considered,leading to an imaginary beam (instead of a spring) added in between center of gravity of two adjacent submodules to take into account these structural effects.
+
+![](images/2f6f8bf6d0c5bf56bbce4f2ff530a25dc7d0d390b815f0e702842c7e5bb527a3.jpg)  
+Fig.7.An ilustration of set up for hydroelasticity theory proposed by Lu et al. (2016)
+
+Then the motion equations for a two-module flexible structure in waves can be established by modifying Eq. (7) as follows,
+
+$$
+\begin{array}{c} \begin{array} { r l } & { [ \begin{array} { c c c c c c c } { [ U _ { 1 } ] + [ a _ { 1 1 } ] } & { [ a _ { 1 2 } ] } & { \cdots } & { [ a _ { 1 , 2 n } ] } \\ { [ a _ { 2 1 } ] } & { [ M _ { 2 } ] + [ a _ { 2 2 } ] } & { \cdots } & { [ a _ { 1 , 2 n } ] } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { [ a _ { 2 n , 1 } ] } & { [ a _ { 2 n , 2 } ] } & { \cdots } & { [ M _ { 2 n , 2 n } ] + [ a _ { 2 n , 2 n } ] } \end{array} ] } \\ & { \begin{array} { r } { [ [ b _ { 1 1 } ] } & { [ b _ { 1 2 } ] } & { \cdots } & { [ b _ { 1 , 2 n } ] } \\ { - i \omega [ b _ { 1 2 } ] } & { [ b _ { 2 2 } ] } & { \cdots } & { [ b _ { 2 n , 2 } ] } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } \\ { [ b _ { 2 n , 1 } ] } & { [ b _ { 2 n , 2 } ] } \end{array} ] + [ \begin{array} { c } { [ C _ { 1 } ] } \\ { [ C _ { 2 } ] } \\ { \vdots } \\ { [ c _ { 2 n , 2 n } ] } \end{array} ] [ [ \begin{array} { c } { [ u _ { 1 } ] } \\ { \{ u _ { 2 1 } \} } \\ { \{ a _ { 2 n } \} } \end{array} ] = \{ [ \begin{array} { c } { \{ f _ { \alpha 1 } \} } \\ { \{ f _ { \alpha 2 } \} } \\ { \vdots } \\ { \{ f _ { \alpha 2 } \} } \end{array} ] + \{ [ \begin{array} { c } { \{ F _ { \alpha 1 } \} } \\ { \{ F _ { 2 } \} } \\ { \{ F _ { 2 n } \} } \end{array} ] \} } \\ & { \begin{array} { r } { [ [ b _ { 2 n } ] } \\ { \{ b _ { 2 1 } \} } \\ { \vdots } \\ { [ b _ { 2 n , 2 } ] } \end{array} ] } \end{array}  \end{array}
+$$
+
+where $\{ F _ { S i } \} ~ ( i { = } 1 , 2 , . . . , 2 n )$ is the force (or moment) acting on the center of gravity of the ith submodule caused by the deformation of the imaginary beam. As shown in Fig. 7,the hinge only exists between the $n ^ { \mathrm { t h } }$ and $\left( n { + } 1 \right) ^ { \mathrm { t h } }$ （204号 submodule. Thus $\{ F _ { \mathrm { L } k } \} \neq \{ \mathbf { 0 } \}$ for $k { = } n$ and $n { + } 1$ . However, for $k$ being other values, $\{ F _ { \mathrm { L } k } \} = \{ \mathbf { 0 } \}$ ：
+
+Next we will give the expression of $\{ F _ { \mathrm { S } k } \}$ in Eq.(2O). Each side of a beam element $i \mathrm { - } j$ has six components of displacements and forces (shown in Fig. 8):
+
+$$
+\begin{array} { r l } & { \left\{ u \right\} _ { i - j } = \left[ \left\{ u \right\} _ { i } ^ { T } \left\{ u \right\} _ { j } ^ { T } \right] ^ { T } = \left[ u _ { x i } , u _ { y i } , u _ { z i } , \alpha _ { i } , \beta _ { i } , \gamma _ { i } , u _ { x j } , u _ { y j } , \alpha _ { j } , \beta _ { j } , \gamma _ { j } \right] ^ { T } } \\ & { \left\{ F \right\} _ { i - j } = \left[ \left\{ F \right\} _ { i } ^ { T } \left\{ F \right\} _ { j } ^ { T } \right] ^ { T } = \left[ F x _ { i } , F y _ { i } , F z _ { i } , M x _ { i } , M y _ { i } , M z _ { i } , F x _ { j } , F y _ { j } , F z _ { j } , M x _ { j } , M y _ { j } , M z _ { j } \right] ^ { T } } \end{array}
+$$
+
+where $( F x _ { i } , F y _ { i } , F z _ { i } )$ are forces in the $i ^ { t h }$ cross section, $( M x _ { i } , M y _ { i } , M z _ { i } )$ are the corresponding bending moments. I should be noted that $i$ is the imaginary unit only if it is emphasized. Otherwise, $i$ represents the order number.
+
+![](images/cd81dd99c1ac63d56eed63f952d74753a66e609fd0c35182c93463c638a12cba.jpg)  
+Fig.8.Definition of coordinate system and parameters fora beam element
+
+The relationship between $\{ u \} _ { i - j }$ and $\{ F \} _ { i - j }$ is:
+
+$$
+\big \{ \boldsymbol { F } \big \} _ { i - j } = \big [ \boldsymbol { K } \big ] _ { i - j } \big \{ \boldsymbol { u } \big \} _ { i - j }
+$$
+
+where $[ K ] _ { i - j }$ is stiffness matrix,the form of which is given in the Appendix B.A detailed explanation of the stiffness matrix can be found in the reference (McGuire et al. 2OoO). The size of the matrix is $1 2 \times 1 2$ According to Eq. (22),we can establish the relationship between force and displacement for both beam $k { - } 1$ and $k$ (Fig. 7), as follows,
+
+$$
+\begin{array} { r l } & { [ \{ \boldsymbol { F } \} _ { k - 1 } ^ { k - 1 } ] = [ [ \boldsymbol { K } ] _ { k - 1 , k - 1 } ^ { k - 1 } \quad [ \boldsymbol { K } ] _ { k - 1 , k } ^ { k - 1 } ] [ \{ \boldsymbol { u } \} _ { k - 1 } ^ { k - 1 } ] } \\ & { [ \boldsymbol { F } \} _ { k } ^ { k - 1 } ] ^ { \ell = \ell } [ [ \boldsymbol { K } ] _ { k , k - 1 } ^ { k - 1 } \quad \quad [ \boldsymbol { K } ] _ { k , k } ^ { k - 1 } ] [ \{ \boldsymbol { u } \} _ { k } ^ { k - 1 } ] } \\ & { [ \{ \boldsymbol { F } \} _ { k } ^ { k } ] _ { k = 1 } ^ { k } = [ [ \boldsymbol { K } ] _ { k , k } ^ { k } \quad \quad [ \boldsymbol { K } ] _ { k , k + 1 } ^ { k } ] [ \{ \boldsymbol { u } \} _ { k } ^ { k } ] } \\ & { [ \boldsymbol { F } \} _ { k + 1 } ^ { k } ] = [ [ \boldsymbol { K } ] _ { k + 1 , k } ^ { k } \quad \quad [ \boldsymbol { K } ] _ { k + 1 , k + 1 } ^ { k } ] [ \{ \boldsymbol { u } \} _ { k + 1 } ^ { k } ] } \end{array}
+$$
+
+where the superscript represents the order number of the beam and the subscript represents the order number of the submodules segter ${ \big [ } K { \big ] } _ { k - 1 , k - 1 } ^ { k - 1 }$ and $\big [ K \big ] _ { k - 1 , k } ^ { k - 1 }$   
+the Appendix B. It should be note that $\left\{ u \right\} _ { k } ^ { k - 1 } = \left\{ u \right\} _ { k } ^ { k }$ .So we may neglect the superscript of the displacement matrix. Thus we have the expression $\left\{ F _ { s { k } } \right\}$ as follows,
+
+$$
+\left\{ \boldsymbol { F } _ { s k } \right\} = - \left\{ \boldsymbol { F } \right\} _ { k } ^ { k - 1 } - \left\{ \boldsymbol { F } \right\} _ { k } ^ { k } = - \left[ \left[ \boldsymbol { K } \right] _ { k , k - 1 } ^ { k - 1 } ~ \left[ \boldsymbol { K } \right] _ { k , k } ^ { k - 1 } + \left[ \boldsymbol { K } \right] _ { k , k } ^ { k } ~ \left[ \boldsymbol { K } \right] _ { k , k + 1 } ^ { k } \right] _ { \mathrm { e x t } } \left[ \left\{ \boldsymbol { u } \right\} _ { k - 1 } ^ { T } ~ \left\{ \boldsymbol { u } \right\} _ { k } ^ { T } ~ \left\{ \boldsymbol { u } \right\} _ { k + 1 } ^ { T } \right] _ { \mathrm { B x t } } ^ { T }
+$$
+
+By solving Eq. (2O), we obtain the displacement and force of the center of gravity of each submodule.Then the displacement $\{ \boldsymbol { u } \} _ { l }$ and force $\{ F \} _ { l }$ at any position of the structure (suppose that the position is on the $\boldsymbol { k } ^ { \mathrm { { t h } } }$ beam) can be calculated as follows,
+
+$$
+\begin{array} { r l } & { \left\{ \left\{ \boldsymbol { u } \right\} _ { l } = \left[ \boldsymbol { K } \right] _ { k l } ^ { - 1 } \left( \left\{ \boldsymbol { F } \right\} _ { k } - \left[ \boldsymbol { K } \right] _ { k k } \left\{ \boldsymbol { u } \right\} _ { k } \right) \right. } \\ & { \left. \left\{ \boldsymbol { F } \right\} _ { l } = \left[ \boldsymbol { K } \right] _ { l k } \left\{ \boldsymbol { u } \right\} _ { k } + \left[ \boldsymbol { K } \right] _ { l l } \left[ \boldsymbol { K } \right] _ { k l } ^ { - 1 } \left( \left\{ \boldsymbol { F } \right\} _ { k } - \left[ \boldsymbol { K } \right] _ { k k } \left\{ \boldsymbol { u } \right\} _ { k } \right) \right. } \end{array}
+$$
+
+Eq.(26)is obtained using the similar logic indicated in Eq.(24).The diference is that the variables (i.e. displacement, force and stiffness matrix) on the right side of the $k ^ { \mathrm { { t h } } }$ imaginary beam (represented by the order number $k { + } 1$ ） in Eq.(24) is replaced by the variables on a given position along the $k ^ { \mathrm { { ^ { t h } } } }$ beam (represented by the order number $l _ { \prime }$ . The validation of the present approach for a hinged two-module flexible structure (the model adopted in Fu et al., 2OO7) can be referred to Xu et al. (2017).
+
+# 3.2. Extension ofthe approach for flexible structure with arbitrary shape of cross section
+
+In section 3.1,the flexible structure has a rectangular cross section and the geometric feature of the cross section is unchanged along the longitudinal direction of the beam.Therefore,there is an analytical stiffness matrix for such a simple beam element (which is given in Appendix B). However, in reality, VLFSs such as floating bridge or airport, have very complicated geometric features of crosssection. And this geometric feature may change along the longitudinal direction of the structure.Thus to extend the hydroelasticity theory shown in Section 3.1 to be applicable for multi-module flexible structures with arbitrary shape of cross section is of great significance to engineering applications. In the following, we will extend the present approach tobe applicable for multi-module flexible structures with arbitrary shape of cross section.The geometric feature of the cross section may change along the longitudinal direction of the beam (see Fig.9).The extension of the approach actually includes two steps: (1) to represent the physical variables (displacement and forces)of allthe nodes of the beam element by the physical variables of nodes on the cross section of the beam element；and (2)to represent the physical variables of nodes on the crossection by the ones at the centerof crosssection of the beam element.
+
+![](images/fcc64ee1c7699a2856a75f5de4783240811995831ffd9bd518c11790ceb8893d.jpg)  
+Fig.9.Abeamelement with arbitraryshapeofcross sectionandchanged geometric featuresalongthe longitudinaldirection
+
+For a beam element with arbitrary shape of cross section and changed geometric features along the longitudinal direction,finite element method (FEM) is applied to the space structure forcalculation of theoverall stifess of the structure.Suppose that the beam element is discretised into a number of elements and the number of nodes is $n _ { 1 }$ . Each node has three components of displacement and force, which is defined as $\{ \boldsymbol { u } ^ { * } \} _ { i } =$ $\left( u _ { x i } ^ { * } u _ { y i } ^ { * } u _ { z i } ^ { * } \right) ^ { T }$ and $\{ F ^ { * } \} _ { i } = \left( F _ { x i } ^ { * } \ F _ { y i } ^ { * } \ F _ { z i } ^ { * } \right) ^ { T } ( i = 1 , 2 , . . . , n _ { 1 } ) .$ The force isrelated with thedisplacement bythe spatial stiffness matrix $[ K ^ { * } ]$ as
+
+$$
+\left[ K ^ { * } \right] _ { 3 n _ { 1 } \times 3 n _ { 1 } } \left\{ u ^ { * } \right\} _ { 3 n _ { 1 } \times 1 } = \left\{ F ^ { * } \right\} _ { 3 n _ { 1 } \times 1 }
+$$
+
+In Eq. (27), the nodes are spatially distributed within the beam element.This means that there are nodes both on the cross section of the beam (the nodes on the boundary)and in the inner space of the beam. So the first step is to represent the physical variables (displacement and forces）of allthe nodes of the beam element by the physical variables of nodes on the cross section of the beam element,i.e.to establish the stiffness matrix of the nodes on the cross section, $[ \overline { { K } } _ { B } ^ { * } ]$ . Eq. (27) can be modified as
+
+$$
+\begin{array} { r l } { [ \boldsymbol { \Gamma } \boldsymbol { K } ^ { * } ] _ { B B } } & { { } [ \boldsymbol { K } ^ { * } ] _ { B I } ] \{ \boldsymbol { \{ u _ { s } ^ { * } \} } \} = \{ \boldsymbol { \{ F _ { B } ^ { * } \} } \} } \\ { [ \boldsymbol { K } ^ { * } ] _ { I B } } & { { } [ \boldsymbol { K } ^ { * } ] _ { I I } ] \{ \boldsymbol { \{ u _ { r } ^ { * } \} } \} = \{ \boldsymbol { \{ F _ { I } ^ { * } \} } \} } \end{array}
+$$
+
+where $\{ u _ { B } ^ { * } \}$ and $\{ u _ { I } ^ { * } \}$ are the displacement of the nodes on the cross section and in the inner space of the beam element (shown in Fig. 9),respectively. $\left\{ F _ { B } ^ { * } \right\}$ and $\{ F _ { I } ^ { * } \}$ are the external force of the nodes on the cross section and in the inner space of the beam element, respectively. $\left[ K ^ { * } \right] _ { B B } , \left[ K ^ { * } \right] _ { B I } , \left[ K ^ { * } \right] _ { I B }$ and $\left[ K ^ { * } \right] _ { I I }$ are the partitioned matrix of the matrix $[ K ^ { * } ]$ .It should be noted that $\{ F _ { I } ^ { * } \} = 0$ because these nodes are inner nodes of the beam element and no external forces are exerted on inner nodes.From Eq.(28)，we can obtain the following expressions,
+
+$$
+\begin{array} { r l } & { \Big [ \overline { { \boldsymbol { K } } } _ { B } ^ { * } \Big ] \Big \{ \boldsymbol { u } _ { _ B } ^ { * } \Big \} = \Big \{ \boldsymbol { F } _ { B } ^ { * } \Big \} } \\ & { \Big [ \overline { { \boldsymbol { K } } } _ { B } ^ { * } \Big ] = \Big [ \boldsymbol { K } ^ { * } \Big ] _ { B B } - \Big [ \boldsymbol { K } ^ { * } \Big ] _ { B I } \Big [ \boldsymbol { K } ^ { * } \Big ] _ { I I } ^ { - 1 } \Big [ \boldsymbol { K } ^ { * } \Big ] _ { I B } } \end{array}
+$$
+
+The second step is to represent the physical variables of nodes on the cross section by the ones at the center of cross section of the beam element.As indicated in Eq. (21),the equivalent displacement and forces on the center of two cross sections at the end of the beam is defined as $\{ u \} _ { 1 2 \times 1 }$ and $\{ F \} _ { 1 2 \times 1 }$ ，respectively. If the equivalent stiffness is defined as $[ K ] _ { : }$ then
+
+$$
+[ K ] \{ u \} = \left\{ F \right\}
+$$
+
+The problem now is to seek the relationship between the equivalent stiffness matrix $[ K ]$ and the stiffness matrix of nodes on the cross section, $[ \overline { { K } } _ { B } ^ { * } ]$ . The displacement of nodes on the cross section can be related to the displacement at the center of the cross section as follows,
+
+$$
+\left\{ u _ { B } ^ { * } \right\} = \big [ C \big ] \{ u \}
+$$
+
+where $[ C ]$ is a transform matrix. If the nodes on the cross section is $n _ { 2 }$ ，then the dimension size for $\{ u _ { B } ^ { * } \}$ ，[C] and $\{ u \}$ is $3 n _ { 2 } { \times } 1 , 3 n _ { 2 } { \times } 6$ and $6 \times 1$ , respectively. The matrix $[ C ]$ can be expressed as $[ C ] = \left( [ C _ { 1 } ] \ [ C _ { 2 } ] \ldots \ \left[ C _ { n _ { 2 } } \right] \right) ^ { T }$ where $[ C _ { i } ]$ (the dimensionis $3 \times 6$ ）is the partitioned matrix component of $[ C ]$ corresponding to the transformation between the displacement of the $i ^ { \mathrm { t h } }$ node and the center. Assuming that the relative position of the （204号 $i ^ { \mathrm { t h } }$ node to the center of the cross section is $\{ r _ { B i } ^ { * } \} = ( x _ { i } ~ y _ { i } ~ z _ { i } ) ^ { T }$ , then the expression of $\left[ C _ { i } \right]$ is given as follows,
+
+$$
+\left[ C _ { i } \right] = { \left[ \begin{array} { l l l l l l } { 1 } & { 0 } & { 0 } & { 0 } & { z _ { i } } & { - y _ { i } } \\ { 0 } & { 1 } & { 0 } & { - z _ { i } } & { 0 } & { x _ { i } } \\ { 0 } & { 0 } & { 1 } & { y _ { i } } & { - x _ { i } } & { 0 } \end{array} \right] } _ { 3 \times 6 }
+$$
+
+As the force on the nodes of the cross section and the relative coordinate of nodes to the center of cross section are both known, it can be easily to equivalate the force on the nodes, $\{ F _ { B } ^ { * } \}$ ，to the force on the center of the cross section, $\{ F \}$ by the following expression,
+
+$$
+\left\{ \boldsymbol { F } \right\} = \left[ \boldsymbol { C } \right] ^ { T } \left\{ \boldsymbol { F } _ { \scriptscriptstyle B } ^ { * } \right\}
+$$
+
+Combining Eqs. (29)-(33), we have
+
+$$
+\begin{array} { r l } & { [ [ \boldsymbol { K } ] = [ \boldsymbol { C } ] ^ { T } [ \boldsymbol { \bar { K } } _ { B } ^ { * } ] [ \boldsymbol { C } ] } \\ & { [ [ \boldsymbol { \bar { K } } _ { B } ^ { * } ] = [ \boldsymbol { K } ^ { * } ] _ { B B } - [ \boldsymbol { K } ^ { * } ] _ { B I } [ \boldsymbol { K } ^ { * } ] _ { I I } ^ { - 1 } [ \boldsymbol { K } ^ { * } ] _ { I B }  } \end{array}
+$$
+
+Eq.(34)shows the relationship between the equivalent stifessat the centerof the cross sectionand the stifess matrix of all nodes of a beam element. Using Eq. (34), the dynamic response of an interconnected multi-module floating structure with arbitrary geometric features of cross sections can be solved.
+
+In order to ilustrate the above-mentioned methodology,we choose a cubic steel model with the dimension of $1 0 \mathrm { m }$ (length) $\times 4 \mathrm { m }$ (width) $\times 3 \mathrm { m }$ (height). The other parameters are given as follows: the Young's modulus ${ \mathrm { E } } { = } 2 . 1 { \times } 1 0 ^ { 1 1 }$ pa, the Poisson's ratio 0.3 and the density $7 8 5 0 \mathrm { k g / m } ^ { 3 }$ . Using the analytical expression given in Appendix B, the $1 2 \times 1 2$ stiffness matrix $[ K ] _ { \mathrm { A n a l } }$ is given in Table 1. The stiffness matrix is also calculated using the FEM method,as indicated in Eq. (34).The steel model is discretised with the number of nodes 2O,8 and 6 in the direction of length,width and height,respectively.The ANSYS is used to extract the stifess matrix $[ \overline { { K } } _ { B } ^ { * } ]$ and the equivalent stiffness on the center of the cross section $[ K ] _ { \mathrm { F E M } }$ is calculated using Eq.(34). The results are given in Table 2. The difference between $[ K ] _ { \mathrm { A n a l } }$ and $[ K ] _ { \mathrm { F E M } }$ is given in Table 3. It can be seen that the relative error of all components of the stiffness matrix calculated by two approaches is within $10 \%$ ，which validates the correctness of Eq. (34).
+
+Next we consider the model adopted in experiment conducted by Yago and Endo (1996) to further validate the above-mentioned methodology.The model is a continuous pontoon-type VLFS with the length，width,height, draught and mass being 300, 60,2, 0.5m and $9 . 2 2 5 \times 1 0 ^ { 6 } ~ \mathrm { k g }$ , respectively. The bending rigidity is $\mathrm { E I } { = } 4 . 7 7 \times 1 0 ^ { 1 1 }$ （204 $\mathrm { N m } ^ { 2 }$ .The hydroelastic response of the model is calculated for heading waves of different wave length. The structural stiffess is calculated using both analytical expression in Appendix B(denoted as ‘Approach1')and FEM method with Eq. (34)(denoted as‘Approach 2').The experimental results obtained by Yago and Endo (1996) is denoted as ‘Experiment'.As shown inFig.10, the dynamic response of the continuous VLFS in waves is almost identical for two approaches,both of which agrees wellwith experimental results.This further validates that the correctness of extension of the hydroelasticity theory proposed by Lu et al. (2016).
+
+Table 1 the stiffness matrix $[ K ] _ { \mathrm { A n a l } }$ calculated by analytical expression
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>1</td><td>2.52E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-2.5E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>0</td><td>2.48E+10</td><td>0</td><td>0</td><td>0</td><td>1.24E+11</td><td>0</td><td>-2.5E+10</td><td>0</td><td>0</td><td>0</td><td>1.24E+11</td></tr><tr><td>3</td><td>0</td><td>0</td><td>1.68E+10</td><td>0</td><td>-8.4E+10</td><td>0</td><td>0</td><td>0</td><td>-1.7E+10</td><td>0</td><td>-8.4E+10</td><td>0</td></tr><tr><td>4</td><td>0</td><td>0</td><td>0</td><td>1.65E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-1.6E+11</td><td>0</td><td>0</td></tr><tr><td>5</td><td>0</td><td>0</td><td>-8.4E+10</td><td>0</td><td>6.09E+11</td><td>0</td><td>0</td><td>0</td><td>8.39E+10</td><td>0</td><td>2.31E+11</td><td>0</td></tr><tr><td>6</td><td>0</td><td>1.24E+11</td><td>0</td><td>0</td><td>0</td><td>9.57E+11</td><td>0</td><td>-1.2E+11</td><td>0</td><td>0</td><td>0</td><td>2.85E+11</td></tr><tr><td>7</td><td>-2.5E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2.52E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>0</td><td>-2.5E+10</td><td>0</td><td>0</td><td>0</td><td>-1.2E+11</td><td>0</td><td>2.48E+10</td><td>0</td><td>0</td><td>0</td><td>-1.2E+11</td></tr><tr><td>9</td><td>0</td><td>0</td><td>-1.7E+10</td><td>0</td><td>8.39E+10</td><td>0</td><td>0</td><td>0</td><td>1.68E+10</td><td>0</td><td>8.39E+10</td><td>0</td></tr><tr><td>10</td><td>0</td><td>0</td><td>0</td><td>-1.6E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1.65E+11</td><td>0</td><td>0</td></tr><tr><td>11</td><td>0</td><td>0</td><td>-8.4E+10</td><td>0</td><td>2.31E+11</td><td>0</td><td>0</td><td>0</td><td>8.39E+10</td><td>0</td><td>6.09E+11</td><td>0</td></tr><tr><td>12</td><td>0</td><td>1.24E+11</td><td>0</td><td>0</td><td>0</td><td>2.85E+11</td><td>0</td><td>-1.2E+11</td><td>0</td><td>0</td><td>0</td><td>9.57E+11</td></tr></table></body></html>
+
+# Table 2 the stiffness matrix $[ K ] _ { \mathrm { F E M } }$ calculated by FEM method (Eq.(34))
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>1</td><td>2.52E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-2.5E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>0</td><td>2.69E+10</td><td>0</td><td>0</td><td>0</td><td>1.35E+11</td><td>0</td><td>-2.7E+10</td><td>0</td><td>0</td><td>0</td><td>1.35E+11</td></tr><tr><td>3</td><td>0</td><td>0</td><td>1.77E+10</td><td>0</td><td>-8.9E+10</td><td>0</td><td>0</td><td>0</td><td>-1.8E+10</td><td>0</td><td>-8.9E+10</td><td>0</td></tr><tr><td>4</td><td>0</td><td>0</td><td>0</td><td>1.57E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>-1.6E+11</td><td>0</td><td>0</td></tr><tr><td>5</td><td>0</td><td>0</td><td>-8.9E+10</td><td>0</td><td>6.32E+11</td><td>0</td><td>0</td><td>0</td><td>8.87E+10</td><td>0</td><td>2.54E+11</td><td>0</td></tr><tr><td>6</td><td>0</td><td>1.35E+11</td><td>0</td><td>0</td><td>0</td><td>1.01E+12</td><td>0</td><td>-1.3E+11</td><td>0</td><td>0</td><td>0</td><td>3.37E+11</td></tr><tr><td>7</td><td>-2.5E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2.52E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>0</td><td>-2.7E+10</td><td>0</td><td>0</td><td>0</td><td>-1.3E+11</td><td>0</td><td>2.69E+10</td><td>0</td><td>0</td><td>0</td><td>-1.3E+11</td></tr><tr><td>9</td><td>0</td><td>0</td><td>-1.8E+10</td><td>0</td><td>8.87E+10</td><td>0</td><td>0</td><td>0</td><td>1.77E+10</td><td>0</td><td>8.87E+10</td><td>0</td></tr><tr><td>10</td><td>0</td><td>0</td><td>0</td><td>-1.6E+11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1.57E+11</td><td>0</td><td>0</td></tr><tr><td>11</td><td>0</td><td>0</td><td>-8.9E+10</td><td>0</td><td>2.54E+11</td><td>0</td><td>0</td><td>0</td><td>8.87E+10</td><td>0</td><td>6.32E+11</td><td>0</td></tr><tr><td>12</td><td>0</td><td>1.35E+11</td><td>0</td><td>0</td><td>0</td><td>3.37E+11</td><td>0</td><td>-1.3E+11</td><td>0</td><td>0</td><td>0</td><td>1.01E+12</td></tr></table></body></html>
+
+Table 3 The difference between $[ K ] _ { \mathrm { A n a l } }$ and [K]FEM (%)   
+
+<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>8.47</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>8.47</td></tr><tr><td>3</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>5.66</td><td>0</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>5.66</td><td>0</td></tr><tr><td>4</td><td>0</td><td>0</td><td>0</td><td>4.32</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4.32</td><td>0</td><td>0</td></tr><tr><td>5</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>3.9</td><td>0</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>10.3</td><td>0</td></tr><tr><td>6</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>5.5</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>18.48</td></tr><tr><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>8.47</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>8.47</td></tr><tr><td>9</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>5.66</td><td>0</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>5.66</td><td>0</td></tr><tr><td>10</td><td>0</td><td>0</td><td>0</td><td>4.32</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4.32</td><td>0</td><td>0</td></tr><tr><td>11</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>10.3</td><td>0</td><td>0</td><td>0</td><td>5.66</td><td>0</td><td>3.9</td><td>0</td></tr><tr><td>12</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>18.48</td><td>0</td><td>8.47</td><td>0</td><td>0</td><td>0</td><td>5.5</td></tr></table></body></html>
+
+![](images/b884d46c9614a844fcd5d7bc847fae063ed299f959b0724f5f1783dc6bed339b.jpg)  
+Fig.10.Proof of correctness of extension of hydroelasticity theory proposed byLu et al. (2016)
+
+# 4.Time-domain analysis of hinged multi-body structure with moving point loads on upper surface
+
+4.1.Motion equation of hinged two-moduleflexible structure in time domain
+
+Frequency domain method mentioned above is invalid if nonlinear external loads or transient loads need to be considered.In such conditions,the hybrid frequency/time domain method(i.e.the time domain method based on impulse response function (IRF),which was first introduced by Cummins (1962), is adopted to establish the motion equations. Here we consider a hinged two-module flexible structure in waves.The motion equations of the structure (which is divided into $2 n$ submodules) is established using the SAM approaches as follows,
+
+$$
+\begin{array} { r l } & { [ [ M _ { 1 } ] + [ a _ { 1 1 } ( \infty ) ] ] \qquad [ a _ { 1 2 } ( \infty ) ] \qquad \cdots \qquad [ a _ { 1 , 2 a } ( \infty ) ] } \\ & { [ \begin{array} { c c c c c c c } { [ a _ { 2 1 } ( \sigma ) ] } & { [ M _ { 2 } ] + [ a _ { 2 2 } ( \infty ) ] } & { \cdots } & { [ a _ { 1 , 2 a } ( \infty ) ] } & { [ [ \ddot { \hat { u } } _ { 1 } ( t ) ] } \\ { \vdots } & { [ M _ { 2 } ] + [ a _ { 2 2 } ( \infty ) ] } & { \cdots } & { [ a _ { 2 , 2 0 } ( \infty ) ] } & { [ \vdots \vdots } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } & { \vdots } \\ { [ a _ { 2 n , 1 } ( \infty ) ] } & { [ a _ { 2 n , 2 } ( \infty ) ] } & { \cdots } & { [ M _ { 2 n , 2 n } ] + [ a _ { 2 n , 2 n } ( \infty ) ] ] [ \vdots \vdots } & \\ { \{ \hat { u } _ { 1 } ( t ) \} } & { [ \hat { b } _ { 2 1 } ( t - \tau ) ] } & { [ a _ { 1 2 } ( t - \tau ) ] } & { \cdots } & { [ \hat { b } _ { 1 , 2 a } ( t - \tau ) ] } & { [ \{ \hat { u } _ { 1 } ( t ) \} } \\ { + [ [ b _ { 2 1 } ( t - \tau ) ] ] } & { [ B _ { 2 1 } ( t - \tau ) ] } & { \cdots } & { [ B _ { 2 n , 2 } ( t - \tau ) ] } & { [ \{ \hat { u } _ { 2 1 } ( t ) \} } \\ { \vdots } & { \vdots } & { \ddots } & { \vdots } & { \vdots } \\ { [ B _ { 2 n , 1 } ( t - \tau ) ] [ B _ { 2 n , 2 } ( t - \tau ) ] } & { \cdots } & { [ B _ { 2 n , 2 n } ( t - \tau ) ] [ \vdots \atop \{ \hat { u } _ { 2 n } ( t ) \} ] [ \dot { \hat { u } } _ { 2 1 } ] \sigma \mathrm { i n } \sigma [ \hat { b } _ { 1 2 } ] ] [ [ \hat { f } _ { \mathrm { e x } } ] ] } \end{array} ] } \end{array}
+$$
+
+where $\big [ a _ { i j } ( \infty ) \big ]$ is the added mass (or moment) matrix of the $i ^ { \mathrm { { t h } } }$ module caused by the motion of the $j ^ { \mathrm { t h } }$ module at frequency of infinity. $\left[ B _ { i j } ( t ) \right]$ is the kernel function of the $i ^ { \mathrm { t h } }$ module caused by the motion of the $j ^ { \mathrm { t h } }$ module, which is related to the radiation damping matrix, $\big [ b _ { i j } ( \omega ) \big ]$ . The expressions of and $\big [ a _ { i j } ( \infty ) \big ]$ and $\big [ B _ { i j } ( t ) \big ]$ are given as follows,
+
+$$
+\begin{array} { r } { \begin{array} { r } { \Big [ a _ { i j } \left( \infty \right) \Big ] = \Big [ a _ { i j } \left( \omega _ { a c } \right) \Big ] + \frac { 1 } { \omega _ { a c } } { \displaystyle \int _ { 0 } ^ { \infty } } \Big [ B _ { i j } \left( t \right) \Big ] \sin ( \omega _ { a c } t ) d t } \\ { \Big [ B _ { i j } \left( t \right) \Big ] = \frac { 2 } { \pi } \Big [ _ { 0 } ^ { \infty } \Big [ b _ { i j } \left( \omega \right) \Big ] \cos ( \omega t ) d \omega } \end{array} } \end{array}
+$$
+
+where $\omega _ { a c }$ is an arbitrarily chosen frequency.
+
+The total stiffness matrix $[ K _ { T o t a l } ]$ is composed of three parts, i.e. the hydrostatic stiffness of the structure $[ C ] ,$ the structural stiffness matrix (considering the deformation) $[ K ]$ and the approximate stiffness matrix (using SAM approach to approximate the hinge constraint of the structure) $[ K _ { C o n s } ]$ .The expression of $[ K _ { T o t a l } ]$ is given as follows,
+
+$$
+\begin{array} { r l } & { \big [ K _ { T o a t } \big ] _ { 1 2 n \times 1 2 n } = \big [ C \big ] + \big [ K \big ] + \big [ K _ { C o n s } \big ] } \\ &  = \left[ \begin{array} { l l l l } { \big [ C _ { 1 } \big ] } & & & \\ & { \ddots } & & \\ & & { \big [ C _ { k } \big ] } & & \\ & & { \ddots } & \\ & & & { \big [ C _ { 2 n } \big ] } \end{array} \right] + \left[ \begin{array} { l l l l } { \big [ K \big ] _ { 6 n \times 6 n } ^ { 1 } } & & & \\ & { \big [ K \big ] _ { 6 n \times 6 n } ^ { 2 } } & \\ & & { \big [ K \big ] _ { 6 n \times 6 n } ^ { 2 } \right] + \big [ L \big ] _ { 1 2 n \times 5 } ^ { T } \big [ K _ { C } \big ] _ { 5 \times 5 } \big [ L \big ] _ { 5 \times 1 2 n } } \end{array} \end{array}
+$$
+
+The model adopted by $\mathrm { F u }$ et al.(2OO7)，which is a hinged two-module flexible structure,is used here to validate the time domain approach. The hinged two module structure is based on a continuous pontoon-type VLFS with the main parameters given in Section 3.2.Fu et al. (OO7) separated the continuous model into two modules and added a hinge connection in between two modules.The dynamic response of the hinged two-module flexible structure in waves of diferent wave length using both frequency and time domain method is given in Fig.11. It can be seen that the agreement between frequency domain and time domain is quite good, which validates the correctness of time domain approach shown in Eqs. (35)-(37).
+
+![](images/6dc668ab0be21f10ab8868c95919bef4b8ee1f0500b3107a2be043a51197fca6.jpg)  
+Fig.1.Frequency(FD)andtime(TD)domain analysisof dynamicresponseofahinged two-moduleflexiblestructures in waves.
+
+# 4.2. Consideration of a moving point load
+
+For a floating bridge or airport,there are vehicles moving on the upper surface of the structure.Usualy the size of vehicles are smallcompared with the floating structure, which means that the vehicle can be regarded as a point load.Thus the problem of a vehicle moving on the floating bridge (or airport)can be simplified as a point load moving on the upper surface of a hinged two-module flexible structure.In this section,the time domain method is adopted to investigate the dynamic response of a hinged two-module flexible structure with moving point loads on the upper surface in waves (see Fig. 12).
+
+![](images/ced5c4067ba5b43e0f9df4348bc5566411e10dcbafe6e2c07c9091ff90a94b59.jpg)  
+Fig.12.A schematic of ahinged two-module flexible structure with moving point mass on the upper surface in waves
+
+The linear assumption for the wave structure interaction still remains here. Besides，we assume that the existence of the moving point mass does notcause large structural deformation.Thus the floating system shown in Fig.12. is stilla linear system.The point mass is assumed to move in a uniform horizontal velocity $\mathbf { U } _ { \mathrm { p } }$ .The force exerted by the point mass on the structure is denoted as $\left\{ \bar { f } _ { p } ( t ) \right\} _ { 6 \times 1 }$ . As the motion equation is established on the center of each submodule of the structure. Thus the force $\left\{ \bar { f } _ { p } ( t ) \right\}$ should be equivalated to the ones on the center of submodules, which is denoted as $\big \{ f _ { p } ( t ) \big \} _ { 1 2 n \times 1 } = \big ( \big \{ f _ { p 1 } ( t ) \big \} \big \{ f _ { p 2 } ( t ) \big \} \dots \big \{ f _ { p 2 n } ( t ) \big \} \big ) ^ { T } .$ （204号
+
+In order to obtain the relationship between $\left\{ \bar { f } _ { p } ( t ) \right\}$ and $\left\{ f _ { p } ( t ) \right\}$ , we first consider a (static） point load acting on a hinged two-module flexible structures in calm water. The motion equation (can be obtained from Eq. (35) after some manipulation) is given as follows,
+
+$$
+\begin{array} { r } { \left[ K _ { T o t a l } \right] _ { 1 2 n _ { 1 } \times 1 2 n _ { 1 } } \left\{ \begin{array} { c } { \left\{ u _ { 1 } \right\} } \\ { \left\{ u _ { 2 } \right\} } \\ { \vdots } \\ { \left\{ u _ { 2 n _ { 1 } } \right\} } \end{array} \right. = \left\{ \begin{array} { c } { \left\{ f _ { p 1 } \right\} } \\ { \left\{ f _ { p 2 } \right\} } \\ { \vdots } \\ { \left\{ f _ { p 2 n _ { 1 } } \right\} } \end{array} \right\} } \end{array}
+$$
+
+It should be noted that in calm water, each module of structure is divided into $n _ { 1 }$ submodules. $n _ { 1 }$ is a large number ( $_ { \cdot n _ { 1 } = 1 5 0 }$ adopted in this section) and is much larger than the number of submodule used in hydroelastic reponse, $n$ （ $\scriptstyle - 4$ in the present analysis). The reason is that by seting a series of submodules (or elements) of very small size,the point load can be regarded as acting on the center of one particular submodule (for example, the （204号 $i _ { 1 } ^ { t h }$ submodule shown in Fig.13). Then the equivalent force satisfies, $\left\{ f _ { p j } \right\} { = } 0 ~ ( j { \neq } i _ { 1 } )$ and $\left\{ f _ { p j } \right\} { = } \left\{ \bar { f } _ { p } ( t ) \right\}$ （204 $\scriptstyle ( j = i _ { 1 } )$ ：
+
+![](images/84a41393d67ae2faafc21cec121f1d17ae318cad88210f96248ea8664cbf3605.jpg)  
+Fig.13.A schematic of a static point load acting on a hinged two-module flexible structure in calm water
+
+By solving Eq.(38),we obtain the distribution of displacement along the structure in calm water caused by the static point load at a given position on the structure.Then the displacement at the center of submodules (the number is $2 n$ ）， $\{ u \} _ { 1 2 n \times 1 }$ for hydroelastic calculation (see Eq.(35)） is also obtained. Thus we can obtain the eqivalent force $\left\{ f _ { p } \right\} _ { 1 2 n \times 1 }$ as folos,
+
+$$
+\left\{ \begin{array} { c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c } { \big \{ f _ { p 1 } \big \} } & & & & & & & & & & & & & & & & & \\ & & & & & & & & & & & & & & & & \\ & & & & & & & & & & & & & & & & \\ { \big \{ f _ { p 2 } \big \} } & & & & & & & & & & & & & & & & \\ & & & & & & & & & & & & & & & \\ & { \vdots } & & & & & & & & & & & & \\ & & & & & & & & & & & & & & \\ { \left\{ f _ { p 2 n } \right\} } & \end{array} \right\} = \left[ K _ { T o t a l } \right] _ { 1 2 n \times 1 2 n } \right\} _ { \left\{ { { { \scriptsize 1 } \atop 2 \atop \atop 3 \atop 4 } } } 
+$$
+
+Incaware $\left\{ f _ { p } \right\} _ { 1 2 n \times 1 }$ forstati t the structure and establish a database to store these values.When we establish the database,the point load is chosen as a unit load. Then the strategy of dealing with dynamic response of a hinged two-module flexible structure with moving point loads is summarized inFig.14.The point load considered is a vertical load,which is the sum of the inertial force and gravity force. $\ddot { u } _ { z }$ represents the vertical acceleration of the structure at the position where the point load is exerted. Here we assume that the floating system is a linear system, which means that the superposition principle is applicable.Thus for every time step, we can add the equivalent force caused by the static point loads in calm water to the time domain equation of the structure in waves.
+
+1.Establish a data base to store the equivalent force {fpunit 12nx1 for a unit point load acting on any position of the hinged two-module flexible structure in calm water,using Eq.(38) and Eq.(39).   
+2. At time $t _ { \mathrm { n } }$ ,the point load is $\Omega _ { \mathrm { n } } { = } m ( \ddot { u } _ { z } - g )$ .The position of the point load is $x _ { \mathrm { n } }$ .Then extract the   
+force {fpunit12nx1 fromthedatabase.Theequivalentfoe $\left\{ f _ { p } ( t _ { n } ) \right\} _ { 1 2 n \times 1 } = 0 _ { \mathrm { n } } \times \left\{ f _ { p u n i t } \right\} _ { 1 2 n \times 1 }$ ，   
+3. Ad the quivalent force $\left\{ f _ { p } ( t _ { n } ) \right\} _ { 1 2 n \times 1 }$ tote righthandsideofEq(5)andsolvethetie   
+domain equation for next time step $t _ { \mathrm { n + l . } }$ 1 4.Repeat step 2 and 3 until the time instant $t > T$ （ $T$ is the duration of simulation).
+
+A continuous flexible VLFS model with the same parameters adopted in Yago and Endo (1996) (see Section 3.2) is adopted to validate the above-mentioned numerical procedure.The only exception is that the length of the model is changed to be $1 0 0 0 \mathrm { m }$ ，representative of an infinitely long model. We consider a static point load of 1MN on the midle of the VLFS model in calm water.This problem is actually equivalent to a static load exerting on a beam of infinite length and on elastic foundations (The hydrostatic restoring force due to change of draft acts as an elastic foundation).And the latter isa classc problem in structural mechanics and analytical solution is available(Timoshenko,194O).As the hingeconnection is notconsidered,the third term in the total stifness matrix caused bythe hinge (seeEq.(37))should be canceled.This problem is not directly relevantto the scope of this section,but it is treatedas a preliminary test case to validate the numerical procedure for treatment of moving loads on hinged multi-module structures.In our calculation,the continuous model is uniformly divided into 200 modules.The numerical results are compared with analytical ones,which (in Fig.15) is labelled as‘Present" and “Theory”,respectively. It can be seen from Fig.15 that the agreement is quite good, which partially validates the numerical procedure.
+
+![](images/a0d2aaa48f60308bb341052995b6e3d3fb03a7bc6a9bd1c5cbab8fa941094860.jpg)  
+Fig.14.The strategy of dealing with dynamicresponse ofahinged two-module flexiblestructure with moving point loads   
+Fig.15.ResultsofastaticpointloadactingonaninfinitelylongVLFSmodel:(a)verticaldisplacement;and(b)bendngmoment
+
+Next we consider the moving load experiment conducted by Endo and Yago (1999).The experimental modal structure,VL-10, was so designed as similar to the continuous flexible VLFS model (MF-300) adopted in Yago and Endo (1996)on the basis of similitude (with a scaling factor of 30.77).In the folowing description of experiment,allphysical properties are listed in prototype scale (i.e.the scale of MF-30O). In the experiment, a movable weight of $2 0 1 0 1 6 \mathrm { k g }$ was translated on the runway from $\scriptstyle x / L = - 0 . 3 1 \sim 0 . 4$ (see Fig.16) with almost constant velocity, $3 . 3 9 \mathrm { m / s }$ . It should be noted that the origin is set in the middle of the structure in Endo and Yago (1999), which is different from the definition of origin at left side of the structure in previous sections in the present study. This case is also calculated by the present numerical method.It should be noted that the third term in the total stifness matrix caused by the hinge (see Eq.(37))should be cancelld as this is a continuous structure.Besides, as no incident waves are considered,the wave excitation force in the right hand side of Eq. (35)should be ignored. The time history of vertical displacement of the structure obtained from the present numerical method,Present, and from the experiment,“Experiment”,are comparatively shown in Fig.17. It can be seen that the calculated results are found to show a reasonable agreement with the experiment， which further validates the proposed numerical methodologies for calculating the dynamic response of a flexible structure undergoing moving point loads.
+
+![](images/f390e2bdf5d579d248345da3305c3402ce8afa547f6bb4be400dc5fe1459583e.jpg)  
+Fig.16.Plan view of the flexible VLFS prototype
+
+![](images/00f37d051126174f369ba18b04ccd6c70076991a9844762d017d13eba4a5f62a.jpg)
+
+Fig.17.Time historyof vertical displacement of acontinuous flexible structure excited byamoving load incalm water
+
+After validation of the present numerical model,we consider a hinged two-module flexible structure undergoing a moving point load in waves.The same VLFS model adopted in Yago and Endo (1996) is used here (see Fig.16).The continuous VLFS is divided into two identical modules and a hinge connection is added in middle of the VLFS.Here,for consistency, we stillset the origin of the coordinate system at the left side of the structure.A movable mass of $8 0 0 0 0 0 \mathrm { k g }$ was translated on the left side of the structure with constant velocity, $5 \mathrm { m / s }$ （204号 from 4Os. The amplitude of incident wave is 1m. The wave length is $4 2 0 \mathrm { m }$ (the period is 19.55s for water depth of $5 8 . 5 \mathrm { m }$ considered here).The vertical displacement of the structure excited by the combination of wave and movingload is given in Fig.18.Itcan be seen from Fig.18 (a)that before the point load is exerted on the structure, the deflection (or the vertical displacement)of the structure is periodic as the incident wave is regular and periodic. Thecontour of response of the structure is characterized by periodically varied oblique band of diffrent colour. It can be sen that the maximum structural deflection occurs at the middle (where the hinge is applied) and the ends of structure (where the deepest red colour of contour exists inFig.18 (a)).From 4Os,a point load is exerted on the structure and moves forwards with a uniform velocity.The dynamic response of the structure is affected by the moving load, with positive (upward)deflection decreased and negative (downward) deflection increased.The time series of structural deflection at diferent locations of the structure together with input waves are shown in Fig.18 (b)-(g),which shows clearly the effcts of the moving point load on the dynamic response of the structure. It should be noted that in this section, wedo not intend to provide an extensive analysis of the dynamic response of a flexible structure with moving point loads for diferent parameters of wave,structure and point loads. Our purpose here is just to choose a case to validate the effectiveness ofthe proposed strategy for dealing with such acomplex problem.
+
+The bending moment of the structure excited by the combination of wave and moving load is given in Fig.19. The contour of the bending moment (Fig.19 (a)) highlighted the significant effects of moving point loads. The maximum bending moment is almost doubled due to the influence of moving point loads (compared with the bending moment of structure induced only by waves).Fig.19 (b)-(d) show the time series of bending moment for different locations along the longitudinal direction of the structure.As both ends of the structure is free,the bending moment at $\scriptstyle \mathrm { { x / L = 0 } }$ ,O.5 and 1 is O, which is not shown in Fig.19. It can be seen that before the point load is put on the structure,the time series of bending moment is smoothly sinusoidal. After the point load is exerted,an increase of bending moment occurs (at $_ { \mathrm { X / L = 0 } . 2 5 }$ ，the bending moment is almost doubled). And high-frequency oscilation also appears as a disturbance to the wave-frequency time series of bending moment.To the authors' knowledge，no experimental results for such cases are available in open literature.Therefore there is no comparison between the present numerical results and other experimental data.
+
+# 5. Conclusions
+
+In this paper, we developed a consistent approach which is capable of calculating the dynamic response of rigid/flexible multi-body floating systems.This methodis based on multi-rigid-body hydrodynamicsand Euler-beam bending theory and can be used to deal with rigid or flexible multi-body floating systems in both frequency and time domain. This method is consistent in a sense that the dynamic response of rigid/flexible structurecan be calculatedby just turning of/on a structural stiffness matrix in in multi-rigid-body motion equations. Unlike traditional modal expansion approach,the present method does not require the calculation of flexible motion mode and it is more computationally eficient.The present method can be appied more easily in industry practice with the aid of commercial code of hydrodynamics such as HYDROSTAR.
+
+Within the framework of this consistent approach, a stifness approximation method is proposed to calculate the natural frequency and corresponding oscillation mode of a hinged multi-module structure. Instead of directly describing the constraint condition of ahinge connection,a stifness of very large value is adopted to approximate the constraint condition.The determination of natural frequency of a multi-body floating system is significant for the purpose of structural safety of traditional multi-body floating system or power eficiency of wave energy converters.
+
+The hydroelasticity theory proposed by Lu et al. (2Ol6)，which is used to deal with continuous flexible structures with cross section of simple shapes,is extended by using the ideal of finite element method,to be applicable for multi-module flexible structures with cross section of arbitrary shapes and varied geometric features in longitudinal direction. Validation of the extension has been performed. The extended hydroelasticity theory makes it posible to calculate the dynamic response of more complex flexible structures such as floating bridges and containership.
+
+Finaly,an effective numerical strategy is established to analyse in time domain the dynamic response of a hinged multi-module flexible structure with moving point loads on the upper surface in waves,representative of vehicles moving on a floating bridge or airport. Validation of the numerical strategy has been made fora static or moving point load exerted on a continuous flexible structure in calm water, which is a less complicated problem. The structural deflection and bending moment of a hinged two-module flexible structure undergoing both wave and moving point loads calculated by the present numerical approach are given, which highlighted the effects of moving point loads.In future work,relevant model testing will be cariedout to further validate the present numerical approach.
+
+![](images/a9bb8a9b215a57b4e8f4363ecf99d9d2cb8eae96dfba0302ce467a71fac79ea9.jpg)  
+Fig.18.Theverticaldisplacementofthestructure excitedbythecombinationof waveand moving load.(a)thecontourof vertical displacement with respect to time;(b)-(g) are time series of vertical displacement at $\scriptstyle \mathrm { { x } / \mathrm { { L } = 0 } }$ ,0.1,0.25,0.4,0.5,1,respectively.The blue solid line represents structural deflection and the red dash line indicates the incident wave.
+
+![](images/ed3bc3b62838421f16e42e29b8327d661c99606ac858ce1f909b9cd95d2d1afc.jpg)  
+Fig.19.Thebending momentofthestructureexcitedbythecombinationof waveand moving load.（a)thecontourof bending moment with respect to time;(b)-(c) are time series of bending moment at $\mathrm { { x / L } = 0 . 1 }$ ,0.25,0.4,respectively.
+
+# Ackno wledgements
+
+This research was supported by the National Science Foundation of China (Grant no.51609206)，the National Foundation for Studying Abroad (2O1608515007).The first author would like toacknowledge the support of the IPRS, APAand Shell-UWA offshore engineering PhD research top-up scholarships.
+
+# Appendix A Proof of Eq. (11).
+
+For a multi-body floating system without constraints,the motion equation is established as folows (similar as Eq. (8)),
+
+$$
+[ K ] \{ u \} = \left\{ F \right\}
+$$
+
+where $[ K ] , \ \{ u \}$ and $\{ F \}$ are the overall stiffness matrix, displacement vector and external force, respectively. For a floating system of $m$ modules,the dimension size for $[ K ] , \{ u \}$ and $\{ F \}$ is $6 m \times 6 m .$ $6 m \times 1$ and $6 m \times 1$ respectively.
+
+The total energy $\Pi$ ，which is the sum of the elastic strain energy (stored in the deformed body) and work done by external force, is given as follows,
+
+$$
+\boldsymbol { \Pi } = \frac { 1 } { 2 } \bigl \{ \boldsymbol { u } \bigr \} ^ { T } \bigl [ \boldsymbol { K } \bigr ] \bigl \{ \boldsymbol { u } \bigr \} - \bigl \{ \boldsymbol { u } \bigr \} ^ { T } \bigl \{ \boldsymbol { F } \bigr \}
+$$
+
+The motion of the floating system is constrained by a constraint matrix $[ L ]$ as follows,
+
+$$
+[ L ] \{ u \} = 0
+$$
+
+According to the minimum total potential energy principle，the solution of the displacement $\{ u \}$ ，is equivalent to the mathematical problem: to find the extreme value of $\Pi$ with the constraint indicated in Eq.(A3). Then the method of Lagrange multiplier can be applied. We introduce a Lagrange multiplier $\{ \varphi \}$ and then define the Lagrange function $\overline { { \Pi } }$ as follows,
+
+$$
+\bar { \Pi } = \frac { 1 } { 2 } \bigl \{ u \bigr \} ^ { T } \bigl [ K \bigr ] \bigl \{ u \bigr \} - \bigl \{ u \bigr \} ^ { T } \bigl \{ F \bigr \} - \bigl \{ \varphi \bigr \} ^ { T } \bigl [ L \bigr ] \bigl \{ u \bigr \}
+$$
+
+Then the variation of Eq.(A4) gives
+
+$$
+\begin{array} { r } { \delta \stackrel { { \ldots } } { \Pi } = \left\{ \delta u \right\} ^ { T } \left( \left[ \boldsymbol { K } \right] \left\{ u \right\} - \left\{ \boldsymbol { F } \right\} - \left[ \boldsymbol { L } \right] ^ { T } \left\{ \varphi \right\} \right) - \left\{ \delta \varphi \right\} ^ { T } \left[ \boldsymbol { L } \right] \left\{ u \right\} } \end{array}
+$$
+
+Therefore, we have
+
+$$
+\begin{array} { l } { \{ [ K ] \{ u \} - [ L ] ^ { T } \{ \varphi \} = \{ F \} } \\ { [ [ L ] \{ u \} = 0  } \end{array}
+$$
+
+By comparing Eq. (A6) with Eq.(12), we find that $\{ \varphi \}$ is actually the force on the connection (or constraint element) $\{ f _ { C } \}$ . And by comparing Eq. (A6) with Eq. (7), we have
+
+$$
+\left\{ \boldsymbol { F } _ { L } \right\} = \left[ L \right] ^ { T } \left\{ \varphi \right\} = \left[ L \right] ^ { T } \left\{ f _ { c } \right\}
+$$
+
+The proof of Eq.(11) is finished.
+
+# Appendix B Stiffness matrix fora uniform beam element
+
+The stiffness matrix $[ K ] _ { i - j }$ in Eq. (21):
+
+The size of the symmetric matrix is $1 2 \times 1 2$ .The matrix is affected by the size of each submodule, Young modulus and Poisson ratio. $l$ is the length of beam element (the dimension along $x$ axis). $b$ is the dimension along （204号 $y$ axis. $h$ is the dimension along z axis. $\kappa$ is a constant related to $b$ and $h . \ A$ is cross-sectional area. $E$ is Young
+
+modulus. $\beta _ { y }$ is the correction factor considering shear deformation for the beam element bending in xoy plane. $\beta _ { z }$ .s the correction factor considering shear deformation for the beam element bending in xoz plane. $I _ { y }$ is the moment of inertia around the $y$ axis. $I _ { z }$ is the moment of inertia around the $z$ axis. $G$ is shear modulus.
+
+# References
+
+ANSYS,A., 20I3. Version I5.O; ANSY S. Inc.: Canonsburg, PA, USA November, 2013   
+Babarit,A.,2O10.Impactoflong separating distancesontheenergyproductionof two interacting wave energyconverters.Ocean Engineering,37(8), pp.718-729.   
+Babarit,A.,2013. On the park effectinarrays of oscilltingwave energy converters.Renewable Energy,58,pp.68-78.   
+Borgarino,B.Babarit,A.andFerant,P.212.Impactofwaveinteractionsefectsonenergyabsorptioninlargearaysof wave energy converters. Ocean Engineering， 41, pp.79-88.   
+Cummins,W.E.,1962.Theimpulseresponse function and ship motions (No.DTMB-1661).David Taylor ModelBasin Washington DC.   
+Endo,H.andYagoK.,99.Timeistoryesponseofalargefloatingstructuresubjectedtodynamicload.Jouralof teocetyof Naval Architects of Japan,1999(186)，pp.369-376.   
+Fang,M.C.and Kim,C.H.1986.Hydrodynamicallycoupled motions of two ships advancing inoblique waves.Journal f Ship Research,30(3), pp.159-171.   
+Feng,X.andBai,W.,2O17.Hydrodynamicanalysisof marie multibodysystemsbyanonlinearcoupledmodelJoualofFluids and Structures,70, pp.72-101.   
+Fu，S.，Moan，T.，Chen，X.and Cui,W.，2O07.Hydroelasticanalysisof flexiblefloating interconnected structures.Ocean engineering，34(11)， pp.1516-1531.   
+Gao,R.P.,Tay,Z.Y.,Wang,C.M.andKoh,C.G.,Ol.Hydroelasticresponseofverylargefloatingstructurewithaflexibleline connection. Ocean Engineering，38(17)，pp.1957-1966.   
+Gou,Y.,Teng,B.and Ning,D.,2O04.InteractionEfects Betwee WaveandTwo ConnectedFloating Bodies[J].Engineering Science,7, p.012.   
+Hong,S.Y.,Kim,J.H,Cho,S.K.,Choi,YR.andKim,Y.S,O5.Numericalandexperimentalstudyohydrodyamitactiof side-by-side moored multiple vessels. Ocean Engineering， 32(7),pp.783-801.   
+Huang,S.,1992.Analysis andcontrol of marine cable systems (Doctoral dissertation,University of Strathclyde).   
+In-H,S.,Jae-D,Y.and Hang-S,C.，99.Ananalysisof the hydroelasticresponseof large floatingstructuresinoblique waves. Journal of the Society of Naval Architects of Korea, 36(3), pp.83-92.   
+Inoue,Y.,Islam,MR.and Murai,M.,o.Astudyonmotionsanddriftforesofamultibodyfloatingsysteminwaves.Joualof The Society of Naval Architects of Japan, 2000(188)， pp.127-134.   
+Kashiwagi,M.，Endo,K.andYamaguchi,H.，2005.Wavedriftforcesand momentsontwoshipsarangedsideby sidein waves. Ocean engineering, 32(5), pp.529-555.   
+Kodan，N.，1984.The motionsof adjacent floating structures in oblique waves.ASME Journalof Energy Resources Technology，106(2)，pp.199-205.   
+Koo,B.J.and Kim,M.H.2Oo5.Hydrodynamicinteractionsandrelativemotionsof twofloatingplatformswithmooringlinesin side-by-side offoading operation. Applied Ocean Research,27(6),pp.292-310.   
+Lu,D.,Fu,S.,Zhang，X，Guo,F.and Gao,Y.，2O16.A methodtoestimatethehydroelasticbehaviourofVLFSbasedon multi-rigid-body dynamics and beam bending. Ships and Offshore Structures, pp.1-9.   
+Malenica，S.，Molin,B.，Remy,F.andSenjanovic,I,2O03，September.Hydroelasticresponseofabarge toimpulsiveand non-impulsive wave loads.In International Conference on Hydroelasticity in Marine Technology (3; 2003).   
+McGuire,W., Galagher, R.H.and Ziemian, R.D.,20oo.Matrix structural analysis.   
+Newman, J.N.,1994. Wave effects on deformable bodies. Applied Ocean Research,16(1), pp.47-59.   
+OCathain,M.,Leira,B.J.,ingwood,JVandGlotax,J.C.O8.Amodelingmethodologyformulti-bodysstesit application to wave-energy devices. Ocean Engineering，35(13),pp.1381-1387.   
+Ohkusu,M.，1976,August.Shipmotionsinvicinityofastructure.InProceedingsof the1st International Conferenceonthe Behaviour of Offshore Structures (BOSS‘76),Trondheim (Vol.1, pp.284-306).   
+Riggs,H.R.,Ertekin,R.C.andMils,TR.J.,2O0.AcomparativestudyofRMFCadFEAmodelsforthewave-inducedresposeof a MOB. Marine Structures,13(4), pp.217-232.   
+Sengupta,D.,Pal,S.K.and Datt,R.，2O17.Hydroelasticityofa3Dfloating bodyusingasemi analyticapproachintime domain. Journal of Fluids and Structures,71, pp.96-115.   
+Taghipour,R.andoa,T.8,JanuaryEficienfrequency-domaanalysisofdyamicresponseforheultibodywaveeergy converter inmulti-directional wave.InTheEighteenth InternationalOfshoreandPolarEngineering Conference.International Society of Offshore and Polar Engineers.   
+Timoshenko,S.1940.Strengthof materials,Part 2:Advanced theoryand problems (ThirdEdition),D.Van NostrandCompany, Incorporated.   
+Tuitman,J.T.,MalenicaS.andVan'Ver,R,2012.Generalizedmodesiime-domainseakeepngcalcuations.Jualofhip Research,56(4),pp.215-233.   
+Wu YS.1984.Hydroelasticity of floating bodies,PHD Thesis.Brunel University,UK.   
+Xu,J.,Lu,D.Sun,Y.andZhang,X,2O17.AstudyofhydroelasticbehaviourofhingedVFS.InteationalJournalofNaval Architecture and Ocean Engineering (accepted).   
+Yago,K.andEndo,H.,996.Modelexperimentandnumericalcalculationofthehydroelasticbehaviorofmatlike VLFS.VFS,96, pp.209-214.   
+Zheng,S.,Zhang,Y.and Sheng,W.2016a.Maximum waveenergyconversionbytwo interconnected floaters.Jounalof Energy Resources Technology， 138(3)，p.032004.   
+Zheng,S.,Zhang,Y.andSheng,W.2016b.Maximum theoreticalpowerabsorptionofconected floatingbodiesundermotion constraints. Applied Ocean Research,58,pp.95-103.   
+Zheng,S.M.,Zhang,Y.H.,Zhang,Y.L.and Sheng,W.A.2015.Numerical studyon the dynamicsof a two-raft waveenergy conversion device.Journal of Fluids and Structures,58,pp.271-290.

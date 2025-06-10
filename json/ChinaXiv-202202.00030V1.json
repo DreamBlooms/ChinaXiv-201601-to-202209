@@ -1,0 +1,467 @@
+[
+    {
+        "type": "text",
+        "text": "不同演替阶段白刺灌丛沙堆土壤因子与叶功能性状关系研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王飞¹²，郭树江13，纪永福¹³，张莹花'，韩福贵²，张裕年¹²，张卫星1，宋达成1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.甘肃省治沙研究所，甘肃 兰州730070；2.甘肃省荒漠化与风沙灾害防治国家重点实验室(培育基地）甘肃 武威733000；3.甘肃民勤荒漠草地生态系统国家野外科学观测研究站，甘肃 民勤733300)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物功能性状与环境之间的关系是功能性状研究的重点，环境因子驱使植物功能性状发生变化，进而推动群落发生演替。本研究以民勤不同演替阶段(发育阶段、稳定阶段、衰退阶段、严重衰退阶段)白刺(Nitraria tangutorum)灌丛沙堆为研究对象，分析不同演替阶段白刺叶功能性状差异及其与土壤因子的关系，旨在揭示白刺对干旱荒漠区土壤环境的适应策略。结果表明：(1)不同演替阶段白刺叶厚度、叶干物质含量、叶全磷含量差异显著 $( P { < } 0 . 0 5 )$ ，其他的叶功能性状差异不显著 $( P { > } 0 . 0 5 )$ 。白刺叶功能性状变异范围是 $0 . 3 9 \\% \\sim 1 1 . 9 9 \\%$ ，均表现为弱变异，其中比叶面积最大中 $( 1 1 . 9 9 \\% )$ )，叶全碳含量最小 $( 0 . 3 9 \\%$ )。(2）白刺叶功能性状间存在一定的相关性；叶厚度、叶干物质含量、叶全氮含量可作为白刺叶功能性状变化的主要指标。(3)除 $\\mathrm { \\ p H }$ 外，白刺灌丛沙堆土壤因子随退化程度的增加表现为先增加后降低的趋势，最小值出现在发育阶段，最大值出现在衰退阶段。土壤速效磷含量与全氮含量是影响白刺叶功能性状变化的主要土壤因子。上述研究结果深化了对白刺灌丛沙堆演替的认识，为荒漠生态系统恢复与保护提供重要参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：白刺；叶功能性状；土壤因子；演替阶段；民勤县",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状是植物长期对外界环境适应的结果，其差异主要体现在器官(叶片、茎、根和生殖结构)间营养元素分配及形态结构上[,其中叶片对环境变化敏感，可塑性强，其功能性状承载较多的环境变化信息，与植物生物量及其资源获取和利用密切相关[2]。植物功能性状与环境因素之间关系是植物功能性状研究的热点，而土壤被认为是影响植物功能性状的主导因子[3]。Becknell等[4]认为，土壤对比叶面积等性状的变异解释率高达 $3 3 \\% { \\sim } 6 0 \\%$ ；丁佳等研究发现,在亚热带常绿阔叶林中，土壤含水量和氮含量是植物功能性状空间变异的主要土壤因子；刘旻霞等认为土壤水分和 $\\mathrm { \\ p H }$ 共同影响着高寒草甸不同坡向植物功能性状和土壤养分的分布。由此可见，植物功能性状与土壤因子之间存在重要关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，关于植物功能性状的相关研究主要是探讨某一特定时间功能性状的变化[7-9],而对不同演替阶段植物功能性状的动态变化研究相对缺乏。随着植物群落演替的变更，群落周边环境、组成及结构都发生了相应变化，以及土壤因子引起周围环境（水分、养分等)的重新分配，都将对植物功能性状产生重要影响。张增可等[\"]研究发现，影响海岛植物演替过程中功能性状变化的关键环境因子是土壤中有机质与全氮含量。王琇瑜等\"认为，对于中生草甸，影响群落功能性状的关键土壤因子是土壤$\\mathrm { \\ p H }$ 值、全氮和容重，而干草甸是土壤容重,林缘草甸是土壤碳氮比。李丹等研究发现，不同退化演替阶段的群落土壤养分影响植物功能性状变化。因此，有关植物功能性状对不同演替阶段土壤因子变化响应的研究能够更好地揭示植物对外界环境条件的适应策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "灌丛沙堆是在植被影响下发育的一种风力沉积地貌，是我国十旱荒漠区特有地貌类型，在民勤绿洲-荒漠过渡带分布广泛，以白刺灌丛沙堆为主。白刺(Nitraria tangutorum)属于旱生或超旱生灌木或小灌木,抗干旱、耐贫瘠，其枝条沙埋后能在湿沙中生出新的不定根，积沙成丘进而形成固定和半固定的灌丛沙堆，是民勤干旱荒漠区目前存活面积最大的天然植被类型，对该区防风固沙、保持绿洲稳定性都发挥着巨大的生态作用。目前，有关民勤白刺灌丛沙堆的研究主要集中在土壤呼吸[2-14]种子库[15]、群落特征[16]等方面，而对其叶功能性状的研究较少。因此，本文通过对民勤荒漠区不同演替阶段(发育阶段、稳定阶段、衰退阶段、严重衰退阶段)白刺叶功能性状的测定，对比分析不同演替阶段白刺叶功能性状变化差异及相互关系，并揭示土壤因子对白刺叶功能性状的影响，从而深化对白刺灌丛沙堆演替的认识，为荒漠生态系统恢复与保护提供重要参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验研究区设在民勤绿洲-荒漠过渡带，位于巴丹吉林沙漠东南缘，地理位置为 $3 8 ^ { \\circ } 3 4 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 3 8 ^ { \\prime } \\mathrm { N }$ $1 0 2 ^ { \\circ } 5 3 ^ { \\prime } { \\sim } 1 0 2 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ ,海拔高度为 $1 3 7 6 { \\sim } 1 3 8 3 \\ \\mathrm { m }$ 。该区属温带大陆性干旱气候，降水量少，多年平均降水量 $1 1 5 . 2 \\ \\mathrm { m m }$ ,集中于7—9月；多年平均蒸发量$2 4 1 9 . 6 \\ \\mathrm { m m }$ ,是降水量的21倍;多年平均气温 $7 . 7 ~ \\mathrm { ^ { \\circ } C }$ 热量资源充足，日照时间长，年平均日照时数达$2 8 3 2 . 1 \\mathrm { ~ h ~ }$ ;风大沙多，年平均风速 $2 . 5 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 。研究区土壤类型以风沙土为主。现有的植被主要包括天然和人工两种类型，主要的灌木植物有梭梭(Halox-ylonammodendron）白刺(Nitraria tangutorum）蒙古沙拐枣（Calligonummongolicum）等，草本植物主要有盐生草（Halogetonglomeratus）、猪毛菜（Salsolacollina）沙米(Agriophyllum squarrosum）等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验样地设置在甘肃省民勤治沙综合试验站$( 1 0 3 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E } , 3 8 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N } ) 2$ 号与3号降尘观测塔附近，该区为民勤绿洲-荒漠过渡带白刺灌丛沙堆集中分布地带。根据野外实地调查和已有的划分标准[17],结合白刺灌丛沙堆形态、土壤及植被状况，选择了4个不同演替阶段白刺灌丛沙堆作为研究对象，主要包括发育阶段、稳定阶段、衰退阶段、严重衰退阶段。每个演替阶段沙堆的大小、植被生长状况、风积状况相对一致，以减小试验误差，每个演替阶段3次重复。对样地内白刺灌丛沙堆高度、长度以及植被、土壤状况进行调查，不同演替阶段白刺灌丛沙堆基本特征见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2018年7—8月进行，此时植物生长茂盛，分别在不同演替阶段白刺灌丛沙堆的东、西、南、北、顶部5个方向采集树冠中上部生长发育良好的成熟叶，用于叶功能性状的测定。用土钻采集白刺灌丛沙堆顶部 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层土样，每个演替阶段设置3组重复。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1叶功能性状指标的测定将白刺叶片及其着生小枝一同剪下，装入保鲜箱并带回实验室称叶鲜重 $( m _ { ^ 1 } , \\underline { { \\mathbf { g } } } )$ ,然后将其完全浸没于去离子水中直至饱和,称叶饱和重 $( m _ { ^ 2 } , \\mathbf { g } )$ ,用直尺和电子数显游标卡尺",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5367b007ebe50af07e3829de4e37c44fbb10b92a71bd8dfa2f5c846630b6e4f8.jpg",
+        "table_caption": [
+            "表1不同演替阶段白刺灌丛沙堆形态、植被及土壤特征",
+            "Tab.1 Shapes,vegetation and soil characteristics of Nitraria tangutorum shrub at different succession stai "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>演替阶段</td><td>迎风坡长/cm</td><td>背风坡长/cm</td><td>高度/cm</td><td>植被生长状况</td><td>沙堆土壤状况</td></tr><tr><td>发育阶段</td><td>240</td><td>375</td><td>80</td><td>迎风坡白刺生长较好，结实量大;背迎风坡为流沙，背风坡有少量 风坡白刺稀少</td><td>结皮</td></tr><tr><td>稳定阶段</td><td>560</td><td>540</td><td>182</td><td>迎风坡、背风坡白刺多株生长,长势迎风坡、背风坡均有结皮，沙堆 较好，结实多</td><td>以下为黏土丘间地</td></tr><tr><td>衰退阶段</td><td>635</td><td>618</td><td>145</td><td>白刺多株生长,枯枝率高,结实率低迎风坡、背风坡均为结皮,较厚、</td><td>坚固,沙堆旁边为黏土丘间地</td></tr><tr><td>严重衰退阶段</td><td>325</td><td>230</td><td>100</td><td>大多数已经枯死</td><td>部分结皮风蚀破裂</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别测量叶长度( $\\mathrm { ( c m ) }$ 、叶宽度( $( \\mathrm { c m } )$ 和叶厚度 $( \\mathrm { m m } )$ ，然后将其放入叶面积仪(Yaxin1241)中测定叶面积$( S , \\operatorname { c m } ^ { 2 } )$ 。将扫描过的叶片放入铝盒中， $1 0 5 ~ \\mathrm { { ^ circ C } }$ 杀青$3 0 \\mathrm { m i n }$ $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 烘干至恒重，得到叶干重 $( m _ { 3 } , \\mathbf { g } )$ ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶片含水量 $( \\% ) = ( m _ { 1 } - m _ { 3 } ) / m _ { 1 } { \\times } 1 0 0 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将叶片干样研磨粉碎，过 $0 . 1 2 5 ~ \\mathrm { m m } ( 1 2 0$ 目筛，用于叶片养分含量及碳同位素的测定。叶稳定碳同位素 $8 ^ { 1 3 } \\mathrm { C } ( \\ 9 0 \\text{‰}$ 采用Picarro $_ { \\mathrm { G 2 1 3 1 - I C O _ { 2 } } }$ 激光碳同位素分析仪(美国Picarro公司)测定。叶全碳含量( $\\mathrm { m g }$ $\\mathbf { g } ^ { - 1 }$ )与叶全氮含量 $\\left( \\mathbf { m g \\cdot g } ^ { - 1 } \\right)$ 采用CostechECS4024元素分析仪（意大利NCTechnologies)测定;叶全磷含量 $\\left( \\mathbf { m g \\cdot g ^ { - 1 } } \\right)$ 采用钼锑抗比色法测定[18]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土壤因子的测定本试验共测定了6个土壤因子。具体测定方法如下：采用烘干法测定土壤含水量 $( \\% )$ ；采用重铬酸钾氧化-外加热法测定[19]土壤有机质含量 $( \\% )$ ;采用半微量凯氏法测定[9]土壤全氮含量 $( \\% )$ ;采用碳酸氢钠提取-钼锑抗比色法测定[19]土壤速效磷含量 $\\left[ \\mathrm { m g } \\cdot ( 1 0 0 \\mathrm { g } ) ^ { - 1 } \\right]$ ;采用电导仪法测定[20]土壤电导率 $( \\mu \\mathrm { { S } } )$ ；采用电极法测定[20]土壤$\\mathrm { \\ p H }$ 值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据统计与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2003和SPSS19.0软件对试验数据进行统计与分析。变异系数(Coefficientvari-ation, $C _ { \\mathrm { V } } ) \\stackrel { } { = }$ 标准差/均值，通常情况下， $\\begin{array} { r } { C _ { \\mathrm { v } } { \\leqslant } 2 0 \\% } \\end{array}$ 时属弱变异； $2 0 \\% { < } C _ { \\mathrm { v } } { \\leqslant } 5 0 \\%$ 时属中等变异； $C _ { \\mathrm { V } } { > } 5 0 \\%$ 时属强变异[21]。采用单因素(One-way ANOVA)和Dun-can法进行方差分析与多重比较，用Pearson法对性状各指标间的相关性进行分析，用主成分分析法筛选出影响白刺叶功能性状变化的主要指标，并采用逐步回归分析法对影响白刺叶功能性状的主要土壤因子进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同演替阶段下白刺叶功能性状差异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶厚度随着白刺灌丛沙堆演替阶段的发展呈升高趋势，且衰退阶段、严重衰退阶段显著高于稳定阶段、发育阶段（ $_ { ( P < 0 . 0 5 ) }$ (表2);叶干物质含量呈先升高后降低的趋势，衰退阶段达到最大；严重衰退阶段白刺叶全氮含量显著 $( P { < } 0 . 0 5 )$ 高于发育阶段；稳定阶段白刺叶全磷含量显著( $_ { ( P < 0 . 0 5 ) }$ 高于其他演替阶段；其他的叶功能性状差异不显著( $P >$ 0.05)，其中白刺叶长度、叶片含水量与比叶面积整体呈降低趋势，叶稳定碳同位素呈升高趋势。不同演替阶段白刺叶片的变异系数均属弱变异，其中比叶面积最大( $1 1 . 9 9 \\%$ ),叶全碳含量最小 $( 0 . 3 9 \\% )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2白刺叶功能性状间相关性及主成分分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1白刺叶功能性状间相关性分析对不同演替阶段下白刺叶功能性状进行Pearson相关性检验（表3),可以看出白刺叶长度与叶全氮含量呈显著负相关 $_ { ( P < 0 . 0 5 ) }$ ;叶厚度分别与叶片含水量、叶干物质含量呈显著负、正相关( $_ { ( P < 0 . 0 5 ) }$ ；叶片含水量与叶干物质含量呈显著负相关( $_ { \\scriptstyle P < 0 . 0 5 } )$ ；比叶面积与叶全碳含量呈极显著正相关( $( P { < } 0 . 0 1 \\$ );其他叶功能性状间",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb312556c6731887e89dfb43b6d57574331ebcdecb5222c355a0672c649e90dd.jpg",
+        "table_caption": [
+            "表2不同演替阶段下白刺叶功能性状特征",
+            "Tab.2 Characteristics of leaf functional traits of Nitraria tangutorum at different succession stages "
+        ],
+        "table_footnote": [
+            "注：表中数据为平均值 $\\cdot \\pm$ 标准误；同行不同小写字母表示不同演替阶段间差异显著 $( P { < } 0 . 0 5 )$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">叶功能性状</td><td colspan=\"4\">演替阶段</td><td rowspan=\"2\">平均值±标准误</td><td rowspan=\"2\">变异系数/%</td></tr><tr><td>发育阶段</td><td>稳定阶段</td><td>衰退阶段</td><td>严重衰退阶段</td></tr><tr><td>叶长度/cm</td><td>1.93±0.06a</td><td>1.80±0.08a</td><td>1.83±0.09a</td><td>1.77±0.07a</td><td>1.83±0.03</td><td>3.82</td></tr><tr><td>叶宽度/cm</td><td>0.66±0.04a</td><td>0.65±0.02a</td><td>0.65±0.05a</td><td>0.66±0.02a</td><td>0.65±0.01</td><td>0.54</td></tr><tr><td>叶厚度/mm</td><td>0.42±0.01b</td><td>0.45±0.02b</td><td>0.51±0.02a</td><td>0.51±0.01a</td><td>0.47±0.02</td><td>9.77</td></tr><tr><td>叶片含水量/%</td><td>75.88±1.35a</td><td>75.74±0.92a</td><td>73.00±0.20a</td><td>73.41±0.76a</td><td>74.51±0.76</td><td>2.03</td></tr><tr><td>比叶面积/cm²·mg\"1</td><td>0.045±0.005a</td><td>0.054±0.003a</td><td>0.050±0.002a</td><td>0.041±0.005a</td><td>0.048±0.003</td><td>11.99</td></tr><tr><td>叶干物质含量/%</td><td>18.77±0.89b</td><td>19.73±0.72b</td><td>23.00±0.22a</td><td>22.28±0.79a</td><td>20.95±1.01</td><td>9.63</td></tr><tr><td>叶全碳含量/mg·g</td><td>412.58±3.54a</td><td>414.84±1.71a</td><td>413.78±0.43a</td><td>411.10±3.66a</td><td>413.07±0.81</td><td>0.39</td></tr><tr><td>叶全氮含量/mg·g</td><td>32.25±0.42b</td><td>35.92±1.62ab</td><td>37.01±2.87ab</td><td>38.33±0.44a</td><td>35.88±1.31</td><td>7.28</td></tr><tr><td>叶全磷含量/mg·g</td><td>1.01±0.03b</td><td>1.18±0.01a</td><td>1.00±0.05b</td><td>0.98±0.04b</td><td>1.04±0.05</td><td>8.75</td></tr><tr><td>叶稳定碳同位素/%0</td><td>-25.42±0.35a</td><td>-25.67±0.62a</td><td>-26.56±0.87a</td><td>-24.85±0.14a</td><td>-25.62±0.35</td><td>2.77</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd5a380784e04024b1b5fa5dedbb55180da0a80ae57adc43ecb9ea13d34d0794.jpg",
+        "table_caption": [
+            "Tab.3 Correlation coefficients of leaf functional traits of Nitraria tangutorum "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平上显著相关，\\*表示在0.05水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td>叶功能性状</td><td>叶长度</td><td>叶宽度</td><td>叶厚度</td><td>叶片 含水量</td><td>比叶 面积</td><td>叶干物质 含量</td><td>叶全碳 含量</td><td>叶全氮 含量</td><td>叶全磷 含量</td><td>叶稳定碳 同位素</td></tr><tr><td>叶长度</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>叶宽度</td><td>0.312</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>叶厚度</td><td>-0.757</td><td>0.163</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>叶片含水量</td><td>0.553</td><td>-0.339</td><td>-0.963*</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>比叶面积</td><td>-0.016</td><td>-0.907</td><td>-0.230</td><td>0.303</td><td>1.00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>叶干物质含量</td><td>-0.644</td><td>0.185</td><td>0.983*</td><td>-0.987*</td><td>-0.172</td><td>1.00</td><td></td><td></td><td></td><td></td></tr><tr><td>叶全碳含量</td><td>0.070</td><td>-0.879</td><td>-0.297</td><td>0.353</td><td>0.996**</td><td>-0.230</td><td>1.00</td><td></td><td></td><td></td></tr><tr><td>叶全氮含量</td><td>-0.950*</td><td>-0.114</td><td>0.923</td><td>-0.785</td><td>-0.089</td><td>0.849</td><td>-0.172</td><td>1.00</td><td></td><td></td></tr><tr><td>叶全磷含量</td><td>-0.125</td><td>-0.928</td><td>-0.464</td><td>0.645</td><td>0.786</td><td>-0.514</td><td>0.776</td><td>-0.141</td><td>1.00</td><td></td></tr><tr><td>叶稳定碳同位素</td><td>-0.164</td><td>0.352</td><td>-0.144</td><td>0.247</td><td>-0.679</td><td>-0.299</td><td>-0.689</td><td>0.017</td><td>-0.081</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "相关性不显著（ $( P { > } 0 . 0 5 )$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2白刺叶功能性状主成分分析白刺叶功能性状各指标的公因子方差较大，其中叶宽度的公因子方差最小，为0.610(表4)。以特征值 $_ { > 1 }$ 为原则，提取了4个主成分，其中特征值分别为3.001、2.078、1.595和1.420，这4个主成分贡献率分别为$3 0 . 0 0 9 \\%$ ） $2 0 . 7 7 6 \\%$ 、 $1 5 . 9 5 4 \\%$ 和 $1 4 . 1 9 8 \\%$ ，累计贡献率为 $8 0 . 9 3 8 \\%$ ，说明这4个主成分因素是白刺叶功能性状变化的主要因素。通过对综合得分位次进行排名可知，叶厚度、叶干物质含量、叶全氮含量可作为白刺叶功能性状变化的主要指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同演替阶段白刺灌丛沙堆土壤因子的差异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除 $\\mathrm { \\ p H }$ 外，白刺沙堆土壤因子随退化程度的增加表现为先增加后降低的趋势，最小值出现在发育阶段，最大值出现在衰退阶段，其中衰退阶段与其他演替阶段差异显著( $_ { ( P < 0 . 0 5 ) }$ (表5)。土壤pH则表现为相反的变化趋势，最小值出现在衰退阶段，最大值出现在发育阶段。总之，随着白刺灌丛沙堆的演替，土壤含水量、有机质、全氮、速效磷、电导率逐渐增加，到严重衰退阶段呈降低趋势",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4白刺叶功能性状与土壤因子的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶宽度、叶厚度、叶片含水量、叶干物质含量、叶全氮含量、叶稳定碳同位素与土壤因子呈显著相关关系（ $( P { < } 0 . 0 5 )$ ,而叶长度、比叶面积、叶全碳含量、叶全磷含量与土壤因子间的相关性不显著( $\\scriptstyle P > 0 . 0 5 { \\mathrm { , } }$ 0(表6)。逐步回归分析表明，叶宽度、叶片含水量、",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/713c7e68d2aa49a01f48232602db913bd604b99cc309e9e04b0255f08279cc1a.jpg",
+        "table_caption": [
+            "表3白刺叶功能性状相关性系数",
+            "表4初始因子载荷矩阵及主成分贡献率",
+            "Tab.4 Initial factor loading matrix and contribution rate of principal component: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">Tab.4Trtiar 1oadnghatrXand RonTaleorprhreipartonpohents</td></tr><tr><td>叶功能性状</td><td>主成分1</td><td>主成分2</td><td>主成分3</td><td>主成分4</td><td>综合得分</td><td>综合位次</td><td>公因子方差</td></tr><tr><td>叶长度</td><td>0.855</td><td>0.377</td><td>-0.308</td><td>0.106</td><td>0.051</td><td>5</td><td>0.687</td></tr><tr><td>叶宽度</td><td>-0.797</td><td>-0.437</td><td>0.273</td><td>-0.275</td><td>-0.106</td><td>9</td><td>0.610</td></tr><tr><td>叶厚度</td><td>0.736</td><td>0.491</td><td>0.308</td><td>0.007</td><td>0.294</td><td>1</td><td>0.878</td></tr><tr><td>叶片含水量</td><td>0.675</td><td>-0.48</td><td>-0.011</td><td>-0.046</td><td>-0.246</td><td>10</td><td>0.975</td></tr><tr><td>比叶面积</td><td>-0.525</td><td>0.436</td><td>-0.356</td><td>0.478</td><td>0.033</td><td>6</td><td>0.875</td></tr><tr><td>叶干物质含量</td><td>-0.317</td><td>0.831</td><td>-0.031</td><td>-0.288</td><td>0.218</td><td>2</td><td>0.979</td></tr><tr><td>叶全碳含量</td><td>0.244</td><td>-0.579</td><td>-0.346</td><td>0.528</td><td>-0.027</td><td>8</td><td>0.793</td></tr><tr><td>叶全氮含量</td><td>-0.004</td><td>0.173</td><td>0.739</td><td>0.403</td><td>0.205</td><td>3</td><td>0.739</td></tr><tr><td>叶全磷含量</td><td>-0.411</td><td>0.158</td><td>-0.574</td><td>0.295</td><td>-0.020</td><td>7</td><td>0.821</td></tr><tr><td>叶稳定碳同位素</td><td>-0.185</td><td>0.05</td><td>0.457</td><td>0.701</td><td>0.144</td><td>4</td><td>0.736</td></tr><tr><td>特征值</td><td>3.001</td><td>2.078</td><td>1.595</td><td>1.420</td><td></td><td></td><td></td></tr><tr><td>贡献率/%</td><td>30.009</td><td>20.776</td><td>15.954</td><td>14.198</td><td></td><td></td><td></td></tr><tr><td>累计贡献率/%</td><td>30.009</td><td>50.785</td><td>66.739</td><td>80.938</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0583253e6a6ea183bbc08de4c5b4918a2f4f9fc2196d323f184f158e6e6f0aa.jpg",
+        "table_caption": [
+            "Tab.5 Characteristics of soil factors of Nitraria tangutorum shrub at different succession stages "
+        ],
+        "table_footnote": [
+            "注：表中数据为平均值 $\\cdot \\pm$ 标准误；同列不同小写字母表示不同演替阶段间差异显著（ $\\scriptstyle \\cdot < 0 . 0 5$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>演替阶段</td><td>含水量/%</td><td>有机质/%</td><td>全氮/%</td><td>速效磷/mg·(100g)-</td><td>电导率/μS</td><td>pH</td></tr><tr><td>发育阶段</td><td>0.47±0.07b</td><td>0.115±0.014c</td><td>0.007±0.001b</td><td>0.59±0.21b</td><td>370.67±51.18b</td><td>8.702±0.103a</td></tr><tr><td>稳定阶段</td><td>0.62±0.07ab</td><td>0.208±0.009bc</td><td>0.007±0.000b</td><td>0.76±0.14b</td><td>447.58±26.08ab</td><td>8.685±0.056a</td></tr><tr><td>衰退阶段</td><td>0.77±0.07a</td><td>0.450±0.084a</td><td>0.017±0.003a</td><td>1.61±0.15a</td><td>681.08±36.64a</td><td>8.345±0.096b</td></tr><tr><td>严重衰退阶段</td><td>0.46±0.06b</td><td>0.343±0.084ab</td><td>0.013±0.000ab</td><td>1.34±0.18a</td><td>567.25±76.25ab</td><td>8.510±0.056ab</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/356eaa122052d8cfe651046cdf13df91d1b1ccdc3094ebb472b0fe52178ca8f6.jpg",
+        "table_caption": [
+            "表5不同演替阶段白刺灌丛沙堆土壤因子特征",
+            "表6叶功能性状与土壤因子的逐步回归分析",
+            "Tab.6Stepwise regression analyses of leaf functional traits and soil factors "
+        ],
+        "table_footnote": [
+            "注：SAP、STN、SEC、SMC分别为速效磷含量、全氮含量、电导率、土壤含水量， $R$ 为复相关系数， $P$ 为显著性。"
+        ],
+        "table_body": "<html><body><table><tr><td>叶功能性状</td><td>逐步回归方程</td><td>标准化回归系数</td><td>R</td><td>P</td></tr><tr><td>叶宽度(LW)</td><td>LW=0.078SAP+0.562</td><td>BSAP=0.656</td><td>0.656</td><td>0.021</td></tr><tr><td>叶厚度(LT)</td><td>LT=7.642STN+0.388</td><td>BsTN=0.823</td><td>0.823</td><td>0.001</td></tr><tr><td>叶片含水量(LWC)</td><td>LWC=-2.904SAP+77.749</td><td>BSAP=-0.616</td><td>0.616</td><td>0.033</td></tr><tr><td>叶干物质含量(LDMC)</td><td>LDMC=3.507SAP+16.996</td><td>BsAP=0.785</td><td>0.785</td><td>0.002</td></tr><tr><td>叶全氮含量(LNC)</td><td>LNC=0.013SEC+29.083</td><td>BsEc=0.748</td><td>0.748</td><td>0.013</td></tr><tr><td>叶稳定碳同位素(δC)</td><td>8C=-3.779SMC-23.429</td><td>BsMc=-0.600</td><td>0.600</td><td>0.039</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶干物质含量与土壤速效磷含量显著相关( $P <$ 0.05)；叶厚度与土壤全氮含量极显著相关( $P <$ 0.01)；叶全氮含量与土壤电导率显著相关( $P <$ 0.05)；叶稳定碳同位素与土壤含水量显著相关( $P <$ 0.05)。由此可见，白刺叶功能性状指标主要受到土壤速效磷、全氮、电导率、土壤含水量的影响，土壤速效磷含量与全氮含量是影响不同演替阶段白刺叶功能性状的主要土壤因子。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1白刺叶功能性状随不同演替阶段灌丛沙堆的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "叶长度、叶宽度、叶厚度、比叶面积、叶干物质含量等指标能够反映出植物获取与利用资源的能力，与植物的生长、生存密切相关[22]。本研究中，白刺叶长度随演替阶段逐渐降低，叶厚度逐渐升高，比叶面积与叶干物质含量呈先升高后降低的变化趋势，可能与不同演替阶段白刺生存策略的差异有关。随着演替的进行，叶片性状发生了较长、薄，比叶面积与叶干物质含量升高的开拓性策略转变为叶片变短、较厚，比叶面积与叶干物质含量降低的保守型策略的变化，这就表明在演替阶段初期白刺具有较高的生长速率与资源获取能力，而到中后期白刺通过保守性的策略来增加自身营养的储存效率以获得竞争优势[23-24]。叶稳定碳同位素反映了植物水分利用效率[25]，本研究中随着灌丛沙堆的演替，白刺叶稳定碳同位素呈先降低后升高的趋势，原因为演替前、中期郁闭度、凋落物等对土壤养分、水分进行了改善，可获得资源更加丰富；到严重衰退阶段灌丛沙堆活化，土壤养分、水分降低，4个演替阶段白刺叶稳定碳同位素未达到显著差异水平。白刺叶全碳、全氮、全磷含量在不同演替阶段也表现出一定差异。这一方面可能与植物自我调节机制有关，植物为适应环境变化通过调整营养元素含量并保持在一定限制范围内，从而使自身机制得到平衡[2]；另一方面可能与白刺灌丛沙堆土壤中的养分元素含量有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2白刺叶功能性状间相关性与主成分分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植物叶功能性状并不是孤立发挥作用的，各功能性状之间存在相关性，彼此间通过调节资源的分配来实现相互间的协同与权衡，从而提高植物在外界环境中的适应能力[27]。叶片厚度与资源获取、水分保存与同化密切相关；比叶面积直接影响着叶片构建过程中资源的分配。本研究中，白刺叶厚度与比叶面积呈负相关，与叶干物质含量呈显著正相关 $( P { < } 0 . 0 5 )$ ,与Ohashi等[28]的研究结果一致。随着白刺灌丛沙堆的演替，通过降低比叶面积及增加叶厚度，减小叶片与大气进行热量交换，把较多的有机物用于构建保卫组织或叶肉密度来提高水分利用效率。本研究中，白刺叶片的比叶面积与干物质含量呈负相关关系，与叶全碳含量呈极显著正相关中 $_ { ( P < 0 . 0 5 ) }$ ，这是因为比叶面积能反映出植物获取资源的能力，而植物对养分的吸收又与碳同化和对资源的利用密切相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对白刺叶功能性状主成分分析，应着重考虑综合得分较高的指标因子。本研究中，叶厚度、叶干物质含量、叶全氮含量可作为白刺叶功能性状变化的主要指标。叶厚度和叶干物质含量综合反映了植物利用资源的能力，氮含量影响植物生理过程及碳的分配[],其共同表现为白刺通过调整自身的生理特征以适应民勤干旱荒漠区的环境变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3白刺叶功能性状与土壤因子的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤环境为植物生长发育提供了物质与能量，对植物生长策略的选择有重要影响。本研究中，随着白刺灌丛沙堆的演替，除pH外，土壤因子均表现为先增加后降低的变化趋势，这与前人[29-31]的研究结果一致，即发育成熟的白刺沙堆土壤含水量、养分比前期高，土壤水分也得到逐步改善。本研究中衰退阶段白刺灌丛沙堆土壤含水量高于其他演替阶段,这与前人[32-33]的研究结果有所不同,这主要与白刺灌丛结皮、植被覆盖程度、沙堆固定程度及地下水有关。同时，随着白刺灌丛沙堆的演替，土壤养分先呈增加趋势，主要是因为白刺灌丛沙堆稳定后为降尘截存、凋落物积累和微生物的繁殖提供有力的保障，表层黏粒得以截存和地衣状薄层结皮[34]形成，从而增加了土壤的有机质和养分含量。但是严重衰退阶段白刺衰退，土壤结皮活化，土壤含水量及养分含量降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物与土壤间存在着极强的物质转化和互作关系[5]，一方面植物的枯枝落叶在微生物作用下释放出养分，返还土壤，同时植物的根系也对土壤理化性质产生重要影响;另一方面土壤为植物生长发育提供水分与养分，影响植物功能性状的变化[35-36]。所以，植物功能性状与土壤因子间存在着密切联系[37]。本研究结果表明,白刺叶宽度、叶厚度、叶干物质含量、叶全氮含量、叶稳定碳同位素与土壤因子呈显著相关关系（ $( P { < } 0 . 0 5 )$ ，说明白刺叶功能性状在一定程度上能对土壤因子的变化产生明显响应。本研究中，土壤速效磷含量与白刺叶宽度、叶片含水量、叶干物质含量均显著相关( $( P { < } 0 . 0 5 )$ ，表明土壤速效磷含量是这些叶功能性状的主要影响因子。磷在植物的生长发育过程中直接参与氧化磷酸化和光合磷酸化，不但限制植物光合及叶绿素荧光过程，而且影响植物对氮元素的吸收。张凯等[38]对油松叶功能性状的研究中也发现叶厚度、叶干物质含量、叶全氮含量、叶全磷含量的变化在一定程度上与土壤磷含量有关。土壤电导率反映了土壤的盐分状况，本研究中白刺叶全氮含量与土壤电导率显著正相关（ $( P { < } 0 . 0 5 )$ ，与曹靖等[39研究结果相同，这可能是由于高盐抑制了蛋白质的合成，导致植物体内氨基酸增多，进而提高了氮素的含量。大量研究表明，植物碳同位素值随水分的增加而降低，不仅包括降水因素，也包含了影响水分条件的其他环境因子[30-41],本研究表明白刺叶稳定碳同位素与土壤含水量显著负相关( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ ,说明土壤含水量对白刺叶片水分利用效率产生影响且达到显著水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，白刺灌丛沙堆退化不仅体现在沙堆活化、生长力衰退等方面，由于受到沙堆土壤养分的影响，白刺叶功能性状随着沙堆演替也发生了显著变化，研究表明白刺叶功能性状与土壤因子之间存在着密切关系。研究结果进一步揭示了土壤因子在白刺灌丛沙堆演替中的作用以及对白刺群落构建的影响机制，将为荒漠生态系统恢复与保护提供重要参考依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文分析了不同演替阶段白刺叶功能性状差异及其与土壤因子的关系，得出以下主要结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）随着白刺灌丛沙堆的演替，白刺叶片性状发生了较长、薄，比叶面积与干物质含量升高的开拓性策略转变为叶片变短、较厚，比叶面积与干物质含量降低的保守型策略的变化。白刺叶功能性状变异范围是 $0 . 3 9 \\% { \\sim } 1 1 . 9 9 \\%$ ,均表现为弱变异，其中比叶面积最大 $( 1 1 . 9 9 \\%$ ），叶全碳含量最小$( 0 . 3 9 \\%$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）白刺叶功能性状间存在一定的相关性，通过特定的协同-权衡的功能组合形式来适应极端干旱的环境；叶厚度、叶干物质含量、叶全氮含量可作为白刺叶功能性状变化的主要指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）除pH外，白刺灌丛沙堆土壤因子随退化程",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "度的增加表现为先增加后降低的趋势，最小值出现在发育阶段，最大值出现在衰退阶段。白刺叶功能性状受到多种土壤因子的影响，土壤速效磷含量与全氮含量是影响白刺叶功能性状变化的主要土壤因子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)   \n[1]胡耀升,么旭阳,刘艳红.长白山不同演替阶段森林植物功能性 状及其与地形因子间的关系[J].生态学报,2014,34(20):5915- 5924.[Hu Yaosheng,Yao Xuyang,Liu Yanhong.The functional traits of forests at different succession stages and their relationship to terrain factors in Changbai Mountains[J].Acta Ecologica Sinica, 2014,34(20): 5915-5924.]   \n[2]Wright IJ,Reich PB,Westoby M,et al. The worldwide leaf economics spectrum[J]. Nature,2004,428(6985): 821-827.   \n[3]李丹,康萨如拉,赵梦颖,等.内蒙古羊草草原不同退化阶段土 壤养分与植物功能性状的关系[J].植物生态学报,2016,40 (10): 991-1002.[Li Dan, Kang Sarula, Zhao Mengying,et al. Relationships between soil nutrients and plant functional traits in different degradation stages of Leymus chinensis steppe in Nei Mongol,China[J]. Chinese Journal of Plant Ecology,2016,40(10): 991-1002.]   \n[4]Becknell JM,Powers JS.Stand age and soils as drivers of plant functional traits and aboveground biomass in secondary tropical dry forest[J]. Canadian Journal of Forest, 2014,44(6): 604-613.   \n[5]丁佳,吴茜,闫慧,等.地形和土壤特性对亚热带常绿阔叶林内 植物功能性状的影响[J].生物多样性,2011,19(2):158-167. [Ding Jia,Wu Qian,Yan Hui,etal.Effcts of topographic variations and soil characteristics on plant functional traits in a subtrop ical evergreen broad-leaved forest[J]. Biodiversity Science,2011, 19(2): 158-167.]   \n[6]刘旻霞,马建祖.甘南高寒草甸植物功能性状和土壤因子对坡 向的响应[J].应用生态学报,2012,23(12):3295-3300.[Liu Mingxia,Ma Jianzu.Responses of plant functional traits and soil factors to slope aspect in alpine meadow of south Gansu, northwest China[J].Chinese Journal of AppliedEcology，2012,23(12): 3295-3300.]   \n[7]施宇,温仲明,龚时慧,等.黄土丘陵区植物叶片与细根功能性 状关系及其变化[J].生态学报,2011,31(22):6805-6815.[Shi Yu,Wen Zhongming,Gong Shihui,et al. Comparisons of relationships between leaf and fine root traits in hilly area of the Loess Plateau, Yanhe River Basin, Shaanxi Province,China[J].Acta Ecologica Sinica,2011,31(22): 6805-6814.]   \n[8]孙小妹,何明珠,周彬,等.霸王根茎叶非结构性碳与C:N:P计 量特征对干旱的响应[J].干旱区地理,2021,44(1):240-249. [Sun Xiaomei,He Mingzhu, Zhou Bin,et al. Non-structural carbohydrates and C:N:P stoichiometry of roots,stems,and leaves of Zy",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "gophyllum xanthoxylon in responses to xeric condition[J].Arid ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Land Geography,2021, 44(1): 240-249.]   \n[9]李晓菲,李路,常亚鹏,等.雪岭云杉林叶片碳氮化学计量特征 及其与土壤理化因子的关系[J].干旱区地理,2019,42(3):599- 605.[Li Xiaofei,Li Lu, Chang Yapeng, et al. Stoichiometric characteristics of leaf Cand N and their correlation with soil physicochemical factors in Piceaschrenkiana forests[J].AridLand Geography, 2019,42(3): 599-605.]   \n[10] 张增可,郑心炫,林华贞,等.海岛植物不同演替阶段植物功能 性状与环境因子的变化规律[J].生态学报,2019,39(10):3749- 3758.[Zhang Zengke, Zheng Xinxuan,Lin Huazhen, et al. Summary of changes in plant functional traits and environmental factors in different successional stages of island plants[J]. Acta Ecologica sinica,2019,39(10): 3749-3758.]   \n[11] 王绣瑜,黄晓霞,和克俭,等.滇西北高寒草甸植物群落功能性 状与土壤理化性质的关系[J].草业学报,2020,29(8):6-17. [Wang Xiuyu,Huang Xiaoxia,He Kejian,etal. The relationship between plant functional traitsand soil physicochemical properties in alpine meadows in northwestern Yunnan Province,China [J]. Acta Prataculturae Sinica,2,29(8): 6-7.]   \n[12] 靳虎甲,马全林,张有佳,等.石羊河下游白刺灌丛演替发育过 程的土壤呼吸及其影响因素分析[J].中国沙漠,2012,32(1): 140-147.[Jin Hujia,Ma Quanlin, Zhang Youjia,et al. Soil respiration of Nitraria tangutorum nebkhas at different evolvement stages in lower reaches of Shiyang River and its influencing factors[J]. Journal of Desert Research, 2012,32(1): 140-147.]   \n[13] 孙涛,韩福贵,安富博,等.民勤荒漠绿洲过渡带白刺沙堆土壤 呼吸空间异质特征[J].草业科学,2017,34(4):673-684.[Sun Tao,HanFugui,An Fubo,etal. Spatial heterogeneity of soil respirationof Nitraria tangutorum nebkhas in the desert-oasis ecotone of Minqin[J]. Pratacultural Science,2017,34(4): 673-684.]   \n[14] 韩福贵,孙涛,郭树江,等.干旱荒漠区不同演替阶段白刺灌丛 沙堆土壤呼吸特征及其影响因素分析[J.西北林学院学报, 2017,32(5): 1-7.[Han Fugui,Sun Tao, Guo Shujiang,et al. Characteristics of soil respiration of Nitraria tangutorum at different succession stages in desert areas $\\&$ the influencing factors[J]. Journalof NorthwestForestryUniversity2017(5)17.   \n[15] 马全林,卢琦,魏林源,等.干旱荒漠白刺灌丛植被演替过程土 壤种子库变化特征[J].生态学报,2015,35(7):2285-2294.[Ma Quanlin,Lu Qi,Wei Linyuan,etal. Varying characteristicsof soil seed banks during the succession process of Nitraria tangutorum vegetation in an arid desert area[J].Acta Ecologica Sinica,2015, 35(7): 2285-2294.]   \n[16] 赵鹏,徐先英,屈建军,等.民勤绿洲-荒漠过渡带白刺群落空 间分布及其环境解释[J].干旱区研究,2016,33(5):1003-1011. [Zhao Peng,Xu Xianying,Qu Jianjun,et al.Spatial distribution of Nitraria tangutorum communities and its environmental interpretations in the Minqin oasis-desert ecotone[J].Arid Zone Research, 2016,33(5): 1003-1011.]   \n[17]Du JH, Yan P,E Y H. Distribution patterns and characteristics of Nitraria tangutorum nebkhaat its diferent evolvement stages in the Minqin County of Gansu Province[J]. Chinese Journal of Ecology,2007,26(8): 1165-1170.   \n[18]Kuo S.Methods of soil analysis[M]. Madison,Wisconsin, USA: Soil Science Society of America, Inc.,American Society of Agronomy, Inc.,1996: 869-919.   \n[19]鲍士旦.土壤农化分析[M].北京:中国农业出版社,2000:30- 204.[Bao Shidan. Soil agrochemical analysis[M].Beijing: China Agriculture Press,2000: 30-204.]   \n[20] 中国科学院南京土壤研究所.土壤理化分析[M].上海:上海科 学技术出版社,1978:508-510.[Institute of Soil Science, Chinese Academy of Sciences. Soil physical and chemical property analysis[M]. Shanghai: Shanghai Scientific and Technical Publishers,1978: 508-510.]   \n[21] 秦娟,孔海燕,刘华.马尾松不同林型土壤C、N、P、K的化学计 量特征[J].西北农林科技大学学报(自然科学版),2016,44(2): 68-76. [Qin Juan, Kong Haiyan, Liu Hua. Stoichiometric characteristicsof soil C,N,PandK in different Pinus massoniana forests [J]. Journal of Northwest Agriculture andForestry University (Natural Science Edition),2016,44(2): 68-76.]   \n[22] 钟巧连,刘立斌,许鑫,等.黔中喀斯特木本植物功能性状变异 及其适应策略[J].植物生态学报,2018,42(5):562-572.[Zhong Qiaolian,Liu Libin,Xu Xin,etal.Variations of plant functional traits and adaptive strategy of woody species in a Karst forest of central Guizhou Province,southwestern China[J]. Chinese Journal of Plant Ecology,2018,42(5): 562-572.]   \n[23]Tilman D.Plant strategiesandthedynamicsandstructureof plant communities[M].Princeton: Princeton University Press,1998.   \n[24] Garnier E,CortezJ,BillsG,et al.Plant functional markers capture ecosystem properties during secondary succession[J]. Ecology,2004,85(9): 2630-2637.   \n[25]Lajtha K,Michener R H. Stable isotopes in ecology and environmental science[M].London:Blackwell Scientific Publications, 1994: 1-5.   \n[26] Chapin FS,Bloom A J,Field C B,etal.Plant responses to multiple environmental factors: Physiological ecology provides tools for studying how interacting environmental resources control plant growth[J]. Bioscience,1987,37(1): 49-57.   \n[27] Cornwell W K,Schwilk D W,Ackerly D D.A trait-based test for habitat filtering:Convex hull volume[J]. Ecology，2006,87(6): 1465-1471.   \n[28]Ohashi Y,Nakayama N,Saneoka H,etal.Effectsof droughtstress onphotosyntheticgas exchange,chlorophyll fluorescence and stem diameter of soybean plants[J]. Biologia Plantarum,2006,50 (1): 138-141.   \n[29] 阎恩荣,王希华,周武.天童常绿阔叶林演替系列植物群落的 N:P化学计量特征[J].植物生态学报,2008,32(1):13-22.[Yan Enrong,Wang Xihua, Zhou Wu. N:P stoichiometry in secondary succession in evergreen broadleaved forest, Tiantong,east China [J].Chinese Journal of Plant Ecology,2008,32(1): 13-22.]   \n[30] 韦兰英,上官周平.黄土高原不同演替阶段草地植被细根垂直 分布特征与土壤环境的关系[J].生态学报,2006,26(11):3740- 3748.[Wei Lanying, Shangguan Zhouping.Relationship between vertical distribution of fine root in different successional stages of herbaceous vegetation and soil environment in Loess Plateau[J]. Acta Ecologica Sinica, 2006,26(11): 3740-3748.]   \n[31] 刘旻霞,李俐蓉,车应弟,等.高寒草甸不同演替阶段植物叶片 功能性状研究[J].植物研究,2019,39(5):760-769.[Liu Mingxia,Li Lirong,Che Yingdi,etal.Functional traits of plant leaves at different succession stages in alpine meadow[J]. Bulletin of Botanical Research,2019,39(5): 760-769.]   \n[32] 王月,李程,李爱德,等.白刺沙堆退化与土壤水分的关系[J].生 态学报,2015,35(5):1407-1421.[Wang Yue,Li Cheng,Li Aide, et al.The degradation of Nitraria dunes and soil water in Minqin Oasis[J]. Acta Ecologica Sinica,2015,35(5): 1407-1421.]   \n[33] 赵鹏,徐先英,纪永福,等.民勤绿洲边缘不同演替阶段白刺灌 丛水分利用动态[J].干旱区资源与环境,2019,33(9):169-175. [Zhan Peng,Xu Xianying,Ji Yongfu,et al. Water utilization dynamics of Nitraria tangutorum nebkhas in different succession stages at the edge of Minqin Oasis[J]. Journal of Arid Land Resources and Environment, 2019,33(9): 169-175.]   \n[34] 杨丽雯,周海燕,樊恒文,等.沙坡头人工固沙植被生态系统土 壤恢复研究进展[J].·中国沙漠,2009,29(6):1116-1123.[Yang Liwen, Zhou Haiyan,Fan Hengwen, et al.Advances of soil restoration research on artificial sand-binding vegetation ecosystem in Shapotou Desert region[J].Journal of Desert Research,2009,29 (6): 1116-1123.]   \n[35] 王平,盛连喜,燕红,等.植物功能性状与湿地生态系统土壤碳 汇功能[J].生态学报,2010,30(24):6990-7000.[Wang Ping, Sheng Lianxi,Yan Hong,et al.Plant functional traits influence soil carbon sequestration in wetland ecosystem[J].Acta Ecologica Sinica,2010,30(24): 6990-7000.]   \n[36] 张慧文,马剑英,孙伟,等.不同海拔天山云杉叶功能性状及其 与土壤因子的关系[J].生态学报,2010,30(21):5747-5758. [Zhang Huiwen,Ma Jianying,Sun Wei,etal.Altitudinal variation in functional traits of Picea schrenkiana var.tianschanica and their relationship to soil factors in Tianshan Mountains,northwest China[J]. Acta Ecologica Sinica,2010,30(21): 5747-5758.]   \n[37] 王贵霞,李传荣,许景伟,等.沙质海岸5种植被类型土壤物理 性状及其水源涵养功能[J].水土保持学报,2005,19(2):142- 146.[Wang Guixia,LiChuanrong,XuJingwei,etal.Soilpoperties and water conservation function of 5 types of vegetation on sandy coast[J]. Journal of Soil and Water Conservation,2005,19 (2): 142-146.]   \n[38] 张凯,侯继华,何念鹏.油松叶功能性状分布特征及其控制因素 [J].生态学报,2017,37(3):736-749.[Zhang Kai,Hou Jihua,He Nianpeng. Leaf functional trait distribution and controlling factors of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pinus tabuliformis[J].Acta Ecologica Sinica,2017,37(3): 736-749.] [39] 曹靖,杨晓东,吕光辉,等.盐分对白刺光合作用及其叶功能性 状的影响[J].新疆农业科学,2015,52(11):2065-2075.[Cao Jing,Yang Xiaodong,Lu Guanghui,et al.Effect of soil salinity on thephotosynthesis and leaf functional traits of Nitraria[J].Xinjiang Agricultural Sciences,2015,52(11): 2065-2075.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[40]苏波,韩兴国,李凌浩,等.中国东北样带草原区植物 ${ \\mathfrak { F } } ^ { 1 3 } \\mathrm { C }$ 值及",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "水分利用效率对环境梯度的响应[J].植物生态学报,2000,24 (6):648-655.[Su Bo,Han Xingguo,Li Linghao,et al.Responses of $\\ S ^ { 1 3 } \\mathrm { C }$ value and water use effieicency of plant species to environmental gradients along the grassland zone of northeast China transect[J]. Chines Journal of Plant Ecology,2000,24(6): 648-655.] [41]Stuiver M,Braziunas TF.Tree cellulose ${ } ^ { 1 3 } \\mathrm { C } / { } ^ { 1 2 } \\mathrm { C }$ isotope ratios and climatic change[J]. Nature,1987,328(6125): 58-60. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Relationship between soil factors and leaf functional traits of Nitraria tangutorum shrub at different succession stages ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "WANG Fei1²，GUO Shujiangl,3，JI Yongfu'3， ZHANG Yinghua'， HAN Fugui'², ZHANG Yunian1²， ZHANG Weixing'， SONG Dacheng' (1.Gansu Desert ControlResesrch Institiute,Lanzhou 73O07O,Gansu,China;2.State KeyLaboratory Breeding Baseof DesertificationandAeolianSandDisasterCombating,Wuwei733O,Gansu,China;3.GansuMinqin National StudiesStationfor Desert Steppe Ecosystem,Minqin 7333o0, Gansu, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The relationship between plant functional traits and the environment was the focus of functional traits research.Environmental factors drive the changes in plant functional traits, which in turn promote community succession.This study took Nitraria tangutorum shrubs at diferent succession stages (development stage,stable stage,decline stage,and severe recesson phase) in Minqin County, Wuwei City, Gansu Province of China as the research objects and analyzed the diferences in leaf functional traits and their relationships with soil factors, aiming to reveal the adaptation strategy of $N .$ tangutorum to the arid desert soil environment. The results showed that:(1）There were significant diferences in leaf thickness,leaf dry material content,and total phosphorus content among different succession stages $( P { < } 0 . 0 5 )$ ,but no significant differences in other leaf functional traits （204号 $( P { > } 0 . 0 5 )$ . The variation range of leaf functional traits of $N .$ tangutorum was $0 . 3 9 \\% - 1 1 . 9 9 \\%$ , all showing weak variation,among which specific leaf area was the largest $( 1 1 . 9 9 \\%$ ） and total carbon content was the smallest （20 $( 0 . 3 9 \\% )$ ). (2) There was a certain correlation between the leaf functional traits of $N .$ tangutorum. Leaf thickness, leaf dry material content,and leaf total nitrogen content, which could be used as the main index ofleaffunctional traits of $N .$ tangutorum.(3) Except for $\\mathfrak { p H }$ ,the soil factors of the $N .$ tangutorum shrub increased first and then decreased as the degradation degree increased,and the minimum value appeared in the development stage while the maximum value appeared in the decline stage.The main soil factors afecting the leaf functional traits of $N .$ tangutorum were soil available phosphorus and total nitrogen.The studies deepen our understanding of the succession of $N .$ tangutorum shrubs and provide an important reference for restoring and protecting the desert ecosystem. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Nitraria tangutorum; leaf functional traits; soil factors； succession stages; Minqin County ",
+        "page_idx": 8
+    }
+]

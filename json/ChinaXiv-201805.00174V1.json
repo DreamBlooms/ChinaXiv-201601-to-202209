@@ -1,0 +1,336 @@
+[
+    {
+        "type": "text",
+        "text": "桂林岩溶石山植物群落植物功能性状对不同坡向环境因子",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盘远方1,²，陈兴彬³，姜勇1,2\\*，李月娟1,2，黄宇欣12， 倪鸣源1,2，陆志任1,2，覃彩丽12，钟章浪 1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.广西师范大学珍稀濒危动植物生态与环境保护教育部重点实验室，广西 桂林 541006；2.广西师范大学生命科学学院，广西 桂林 541006；3.江西省林业科学院，江西省植物生物技术重点实验室，南昌 330013)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究群落水平上的植物功能性状特征随坡向梯度的变化规律，对认识不同坡向上的植物群落形成及其应对环境变化的机制具有重要意义。本研究以桂林岩溶石山不同坡向的植物群落为研究对象，探讨了植物功能性状(比叶面积(specific leaf area,SLA)、叶绿素含量(leaf total chlorophyll content,CC)、木材密度(wooddensity，WD)和环境因子随坡向的变化规律。结果表明：比叶面积和叶绿素含量为阴坡 $>$ 半阴坡 $>$ 阳坡，且阴坡和半阴坡分别与阳坡差异性显著；木材密度为阴坡<半阴坡<阳坡，且阴坡、半阴坡分别与阳坡差异性显著。土壤有机质含量表现为阴坡大于阳坡，且阴坡与阳坡差异性显著；土壤全磷、土壤有效磷均表现为阳坡含量最高，且阴坡与阳坡差异性显著；土壤有效钾、土壤全钾则分别为阴坡、半阴坡含量最高，土壤全钾含量在各坡向上差异均显著，而土壤有效钾则为阴坡和半阴坡与阳坡均差异性显著。回归分析表明：群落水平比叶面积在阴坡和半阴坡上与土壤有机质含量呈显著负相关；群落水平叶绿素含量与土壤全磷含量和土壤有效钾含量在阴坡上呈显著正相关；在不同坡向梯度上群落水平木材密度与环境因子没有相关性。群落水平上植物功能性状随坡向的变化规律，反映了岩溶石山植物群落构建过程中环境对功能性状的筛选效应。该研究结果对该区的植被恢复与重建的物种选择及植被布局规划具有一定实践意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物群落，功能性状，坡向，环境因子，岩溶石山中图分类号：Q948 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response of plant functional traits on the soil environmental factors along with slope aspects in Karst hills of Guilin, ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "south China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PAN Yuanfang $^ { 1 , 2 }$ ,CHEN Xingbin³, JIANG Yong1,2\\*,LI Yuejuan1,2,HUANG Yuxin1,2, NI Mingyuan12，LUZhiren12，QIN Cail12，ZHONG Zhanglang12 (1.Key Laboratory of Ecology of Rare and Endangered Species and Environment   \nprotection,Ministry of Education Guangxi Normal University, Guilin 5410O6, Guangxi, China;   \n2.College of Life Sciences, Guangxi Normal University, Guilin 541Oo6,Guangxi, China; 3.Jiangxi Provincial Key Lab for Plant Biotechnology, Jiangxi Academy of Forestry,Nanchang 330013, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Plant functional traits are closely tied to the performance of plants in specific microenvironments,and reflect their ability to adapt to those microenvironments.The features of plant functional traits at the community level and their variations induced by environmental factors in sloped (shady， semi-shady， sunny） gradients are important to understand the development of plant species with their adaptation strategies within and among community. In this paper, we measured three plant functional traits (SLA: specific leaf area; CC: Leaf total chlorophyll content ;WD: wood density） and five environmental factors among different plant communities in Karst hils of Guilin to explore the relationship between plant functional traits and environmental factors along the sloped (shady, semi-shady, sunny） gradients. Experiments were carried out at 15 sampling points with sloped gradients from the middle area of the hills to the foot of the hills. Individuals of tree species with breast height diameter $( \\mathrm { D B H } ) \\gtrsim 1$ cm and shrub species with stem base diameter $( \\mathrm { S B D } ) { \\geqslant } 1$ cm were identified. Specific leaf area (SLA） was calculated as leaf area divided by leaf dry mass (after drying for $^ { 7 2 \\mathrm { ~ h ~ } }$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ ). Leaf total chlorophyllcontent (CC) was estimated using three values per lamina from a SPAD 502Plus meter (Konica Minolta, Osaka, Japan). On wood density we removed the pith，phloem,and bark, measured fresh volume by water displacement and determined dry mass after drying for $^ { 7 2 \\mathrm { ~ h ~ } }$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ ：Available phosphorus(AP)，total phosphorus (TP)，available potassium (AK)，total potassium(TK),and soil organic matter (SOM) were analyzed in the laboratory according to standard methods. Then,we used one-way ANOVAs and Tukey-Kramer HSD test to exam the differences between three plant functional traits and five environmenal factors along the sloped gradients. On the bssis of it we have preformed sample regression analyses to determine the primary soil factors controling variation in plant functional traits at the commnity level in relation to sloped gradients. We observed that SLA and CC showed a consistent changing patern , that is, shady>semi-shape>sunny sloped gradients,and significant diferences were found between shady andsunnyandsemi-shadyandsunnyslopedgradients.WhereasWD was shady<semi-shape<sunny sloped gradients and there were also significant differences between shady and sunny and semi-shady and sunny sloped gradients.TP and AP were less both the shady and semi-shady areas of the slope，whereas SOM,TK and AK were higher in shady and semi-shady areas of the slope. Simple regression analyses between plant functional traits and soil factors indicated that SLA was mainly affacted by SOM and showed a significant negetive changing pattern along the shady and semi-shady sloped gradients； CC was significantly positively correlated with TP and AK in shady areas of the slopes whileas there was no significant correlation between WD and five environmental factors along the sloping gradients. That community level plant functional traits change along the sloping gradients reflected the environmental filtering effects in rebuilding process of vegetation community in Karst hils of Guilin. These conclusions can serve as an important guide for vegetation rehabilitation in hilly area of GuiLin. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: plant communities， plant functional traits，sloped aspect，soil environmental factors, Karst hills ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状(Plant functional traits)是指植物通过外部形态及内部生理特征的调节来响应和适应生存环境的变化，主要体现在叶片、根系、种子等植物性状的差别上，并且进一步影响其他营养级和生态系统特性的植物性状(Pérez-Harguindeguy etal,2013；刘贵峰等,2017)。它是植物物种在漫长的进化过程中，采用特定生态策略适应周围环境的结果，反映了植物在表征生态系统功能方面的生态指示作用，导致植物群落的物种组成会随局部及区域的环境梯度而变化(Reich etal，2003；Meng etal，2007)。研究表明，坡向变化因其对温度、降水、光照等的再分配作用，会导致气候环境的空间异质性，从而影响到植物功能性状的变化(刘旻霞和马建祖，2013；李颖等，2015；侯媛等，2017)。董水丽和刘恩斌(2015)对黄土丘陵区阴阳坡优势木本植物叶功能性状研究发现不同坡向上植物叶片磷含量和比叶面积具有显著差异，且阴坡高于阳坡。刘旻霞(2017)对甘南高寒草甸植物功能性状与环境因子对坡向梯度响应的研究发现，从阴坡到阳坡的坡向变化过程中，土壤含水量与叶绿素含量呈显著正相关。另一方面，不同坡向梯度下影响植物性状的主导环境因子也不同。盘远方等(2018)对桂林岩溶石山灌丛植物叶功能性状随坡向梯度变化规律得出：在阴坡上，对比叶面积影响显著的环境因子是土壤有效氮含量；阳坡上则是土壤含水量和土壤 $\\mathsf { p H }$ 值。刘旻霞和马建祖(2012)研究发现，在阴坡上比叶面积与土壤含水量呈显著正相关，在半阴坡上与土壤pH值呈显著负相关，在阳坡上则与土壤有机质含量呈显著正相关。因此，研究植物功能性状和土壤环境因子对坡向变化的响应关系，可以更好地揭示植物对环境的适应策略，从而为地形复杂地区的生态恢复提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "岩溶生境一直是我国生态系统环境最为脆弱、复杂的地区之一。具体表现为地形破碎，土被不连续、土层薄、地表水缺乏。由于该生境条件下的裸露岩石与浅薄土层相互镶嵌，导致岩溶石山微生境的高度异质性以及土壤生态功能的空间分异，增加了植被恢复与重建的难度(徐艳芳等，2016)。然而，植被作为岩溶石山退化生态系统恢复的主体，在维护脆弱生态系统稳定、调节区域碳平衡和物种多样性保护等生态服务功能方面具有重要作用(Yavitt et al，2009)。岩溶生境另一个典型的地形特征是峰丛地貌，具有显著的坡向变化。在不同的坡向上，土壤水分和温度具有明显差异，从而使得土壤养分的再次分配(习新强等，2011)。鉴于此，本研究中以岩溶石山地区植被恢复与重建的优势群落青冈为主，次生灌木群落(红背山麻杆、木等)为辅，探讨了岩溶石山地区主要植物功能性状比叶面积(SLA)、叶绿素含量(CC)、木材密度(WD)与环境因子在不同坡向(阴坡，半阴坡，阳坡)上的变化规律及在不同坡向上植物功能性状对环境因子的响应，揭示环境筛选作用对植物群落空间格局形成的影响，为岩溶地区退化生态系统的植被恢复与重建提供理论参考，同时也为营林及管理提供科学依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究区域与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区域概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于广西壮族自治区东北部桂林岩溶石山地区，地理位置为 $( 1 1 0 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { - } 1 1 0 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { E }$ ，$2 2 ^ { \\circ } 4 7 ^ { \\prime } \\mathrm { - } 2 5 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { N } )$ 。地貌类型为典型的峰丛洼地地貌，海拔多在 $1 0 0 { \\sim } 5 0 0 \\mathrm { m }$ 之间，气候属于中亚热带湿润季风气候，雨量充沛，气候温和，年均气温 $1 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，日照 $_ { \\mathrm { ~ 1 ~ 4 6 5 ~ h ~ } }$ ，最热的8月平均气温 $2 8 \\mathrm { ~ \\textdegree C }$ ,最冷的1月平均气温8 $\\mathrm { { } ^ { \\circ } C }$ ,全年无霜期309d,年均降雨量为 $1 8 5 6 . 7 \\mathrm { m m }$ 降雨量年分配不均，秋、冬季干燥少雨，年均蒸发量为 $1 4 5 8 . 4 \\mathrm { m m }$ (胡刚等，2007)。该地区岩石裸露情况较为严重，岩石裸露率阳坡明显高于阴坡。受其特殊的环境条件影响，其适生的植物具有嗜钙性、耐旱性、石生性等特点。主要的优势种有青冈(Cyclobalanopsis glauca)、红背山麻杆(Alchornea trewioides)、山麻杆(Alchornea davidi)、扁片海桐(Pittosporumplanilobum)、菜豆树(Radermachera sinica)、干花豆(Fordia cauliflora)、朴树(Celtis sinensis)、粗糠柴(Mallotus philippensis)、胡颓子(Elaeagnus pungens)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 野外群落学调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017 年7一9月，分别在桂林市市郊的演坡山以及阳朔县的白沙镇和高田镇的碑头村，以不同坡向为主导因子共选择15个研究样地。其中，乔木群落的样方大小为 $2 0 ~ \\mathrm { m } \\times 2 0 ~ \\mathrm { m }$ 每个样方再划分为4个 $1 0 \\mathrm { m } \\times 1 0 \\mathrm { m }$ 的小样方；灌木群落的样方大小为 $1 0 \\mathrm { m } \\times 1 0 \\mathrm { m }$ 的样方。乔木和灌木调查记录每株个体的种名、株高、胸径、基径、冠幅等；草本调查是在群落内设置5个 $1 \\ \\mathrm { m } { \\times } 1 \\ \\mathrm { m }$ 的样方，记录草本植物的种名、株数、高度等(张峰等，2002)。同时，记录每个样地的经纬度、坡向、海拔、岩石裸露率等环境特征，各样地概况如表1所示。共调查了5775株植物个体，隶属121种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7430f73f022e6406f985bc272e264c0ec1f2f3a5409b8eff8cdf379e46140140.jpg",
+        "table_caption": [
+            "表1不同样地生境的基本概述",
+            "Table 1 Basic information of habitat in different sampling sites "
+        ],
+        "table_footnote": [
+            "1.3功能性状以及土壤环境因子取样和测定"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">TabicTDasr tSannpnngSres</td></tr><tr><td>样地编号</td><td>物种数</td><td>密度</td><td>岩石裸露率</td><td>海拔</td><td rowspan=\"2\">群落类型 Community type</td><td rowspan=\"2\">坡向</td></tr><tr><td>Sample</td><td>Number</td><td>Density</td><td>Rock exposed</td><td>Elevation</td></tr><tr><td>No</td><td>of species</td><td>(株/hm2)</td><td>rate(%)</td><td>(m)</td><td></td><td>Slope aspect</td></tr><tr><td rowspan=\"2\">P1</td><td rowspan=\"2\">42</td><td rowspan=\"2\">349</td><td rowspan=\"2\">50</td><td rowspan=\"2\">188</td><td>红背山麻杆</td><td>阴坡 Shady slope</td></tr><tr><td>Alchornea trewioides 青冈</td><td>阴坡</td></tr><tr><td>P2</td><td>32</td><td>267</td><td>42</td><td>187</td><td>Cyclobalanopsis glauca</td><td>Shady slope</td></tr><tr><td>P</td><td>49</td><td>754</td><td>42</td><td>198</td><td>青冈 Cyclobalanopsis glauca</td><td>阴坡 Shady slope</td></tr><tr><td>P4</td><td>38</td><td>417</td><td>36</td><td>198</td><td>扁片海桐 Pitosporum planilobum</td><td>阴坡 Shady slope</td></tr><tr><td>P5</td><td>35</td><td>375</td><td>48</td><td>198</td><td>青冈 Cyclobalanopsis glauca</td><td>阴坡 Shady slope</td></tr><tr><td>P6</td><td>20</td><td>965</td><td>54</td><td>237</td><td>青冈 Cyclobalanopsis glauca</td><td>半阴坡 Semi-shady</td></tr><tr><td>P7</td><td>19</td><td>224</td><td>46</td><td>240</td><td>機木 Loropetalum chinensesis</td><td>半阴坡 Semi-shady</td></tr><tr><td>Pg</td><td>19</td><td>292</td><td>40</td><td>254</td><td>青冈 Cyclobalanopsis glauca</td><td>半阴坡 Semi-shady</td></tr><tr><td>P9</td><td>24</td><td>247</td><td>60</td><td>268</td><td>青冈 Cyclobalanopsis glauca</td><td>半阴坡 Semi-shady</td></tr><tr><td>P10</td><td>18</td><td>256</td><td>48</td><td>257</td><td>青冈 Cyclobalanopsis glauca</td><td>半阴坡 Semi-shady</td></tr><tr><td>P1</td><td>23</td><td>426</td><td>56</td><td>185</td><td>青冈 Cyclobalanopsis glauca</td><td>阳坡 Sunny slope</td></tr><tr><td>P12</td><td>27</td><td>240</td><td>50</td><td>257</td><td>干花豆 Fordia cauliflora</td><td>阳坡 Sunny slope</td></tr><tr><td>P13</td><td>36</td><td>364</td><td>60</td><td>241</td><td>青冈 Cyclobalanopsis glauca</td><td>阳坡 Sunny slope</td></tr><tr><td>P14</td><td>28</td><td>353</td><td>45</td><td>244</td><td>粗糠柴 Mallotus philippensis</td><td>阳坡 Sunny slope</td></tr><tr><td></td><td>30</td><td>246</td><td>56</td><td>240</td><td>青冈</td><td>阳坡</td></tr><tr><td>P15</td><td></td><td></td><td></td><td></td><td>Cyclobalanopsis glauca</td><td> Sunny slope</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1功能性状取样和测定方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "群落水平功能性状比叶面积(SLA)和叶绿素含量(CC)的测定：对样方内出现个体胸径$\\geqslant 1 \\ \\mathrm { c m }$ 的乔木和基径 $\\geqslant 1 \\ \\mathrm { c m }$ 的灌木，采集 $3 { \\sim } 5$ 片完全展开健康成熟的阳叶，尽量保持采集叶片水分含量的恒重，将其装入已经准备好的密封袋内带回实验室。使用叶面积仪(Yaxin-1241)和叶绿素含量测定仪(SPAD-502)分别测定叶面积(LA)和叶绿素含量(CC)，采用精度为 $\\boldsymbol { 0 . 0 0 1 \\ \\mathrm { g } }$ 的电子天平称量叶片鲜重。然后将测量后的叶片样品装入信封置于 $8 0 ~ ^ { \\circ } \\mathrm { C }$ 的烘箱烘干 $^ { 7 2 \\mathrm { ~ h ~ } }$ ，称其叶片干重，比叶面积计算公式为：比叶面积 $( \\mathrm { c m } ^ { 2 } \\cdot \\mathrm { g } ^ { - 1 } ) { = }$ 叶片面积 $( \\mathrm { c m } ^ { 2 } ) /$ 叶片干重(g)(Wang，2003；Pratrb et al，2007)。木材密度(WD)的测定：在采集叶片样品的同时，从每个植株上截取3根 $1 0 \\mathrm { c m }$ 左右的枝条( $\\scriptstyle 1 \\mathrm { c m } \\leqslant \\mathrm { D B H } \\leqslant 2 \\mathrm { c m } )$ ，用小刀削去枝干表面的树皮，用量筒排水法测量枝干的体积。然后将枝条装入信封后放置于 $8 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 的烘箱烘干 72h，后称重测定枝条干重，枝条密度计算公式为：枝条密度 $( \\mathbf { g } \\cdot \\mathbf { c m } ^ { - 3 } ) =$ 枝条干重 $( \\mathbf { g } ) /$ 体积 $( \\mathrm { c m } ^ { 3 } )$ （204号(龙文兴等,2011)。基于枝条密度和木材密度过原点的线性回归发现二者相关极显著 $( P { < } 0 . 0 0 1 )$ （卜文圣等，2013)，因此，本文利用测定的枝条密度代替木材密度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2土壤环境因子取样和测定方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，我们将 $2 0 \\mathrm { m } { \\times } 2 0 \\mathrm { m }$ 的大样地划分为4个 $1 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 的小样地。然后，在每个10$\\mathrm { m } { \\times } 1 0 \\mathrm { m }$ 小样方的4个顶点和中心点位置(卜文圣等，2013)用土钻钻取 $0 \\sim 1 5 \\mathrm { c m }$ 的土样混合，每个土壤样品测定3次作为环境因子分析基础数据。测定的指标包括土壤有机质(Soilorganicmatter, SOM, $\\mathrm { { g } \\cdot \\mathrm { { k g } ^ { - 1 } ) } }$ 、土壤全磷(Total phosphorus，TP, $\\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } )$ 、土壤全钾(Total potassium,TK， $\\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 } )$ 、土壤有效磷(Available phosphorus，AP， $\\mathbf { m g } \\cdot \\mathbf { k g } ^ { - 1 } \\mathbf { \\zeta }$ 、土壤有效钾(Availablepotassium, AK, $\\mathbf { m g } \\cdot \\mathbf { k g } ^ { - 1 } )$ 。土壤有机质含量采用重铬酸钾容量法测定(刘旻霞和马建祖,2013);土壤全磷含量采用钼锑抗比色法测定，土壤全钾含量采用碱熔-火焰光度法测定(孙娇等，2016)；土壤有效磷含量采用碳酸氢钠提取-钼锑抗比色法测定，土壤有效钾含量采用乙酸铵浸提-火焰光度法测定(康勇等，2017)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "重要值作为计算、评估物种多样性的重要指标，是以综合的数值来量化植物物种在群落中的相对重要性。因此，在本研究中，我们分别计算了乔木物种重要值(IV 乔木=(相对密度 $^ +$ 相对频度 $^ +$ 相对优势度)/3)和灌木物种重要值 $( I V _ { ☉ } ) =$ (相对密度 $\\cdot +$ 相对频度 $^ +$ 相对盖度)/3)(习新强等，2011)。然后，根据其在样方内的重要值加权计算了群落水平功能性状值(比叶面积、叶绿素含量、木材密度)。在此基础上，我们采用one-way ANOVAs 检验对不同坡向上群落水平功能性状和环境因子进行差异性统计分析。在群落水平功能性状和环境因子在不同坡向梯度上呈现统计检验显著情况下，又运用了Tukey-KramerHSD test进行多重比较。为探究不同坡向上哪些环境因子对群落水平功能性状产生显著影响，采用简单回归模型(Simpleregressionmodel)以5个土壤环境因子做自变量，3个群落水平功能性状做因变量，对其进行回归分析，根据 $R ^ { 2 }$ 和对模型判断 $P$ 的统计检验得出在不同坡向梯度下显著的群落功能性状值与对应环境因子的回归关系，进一步做出相关关系趋势图(散点图)。所有统计分析均用R2.15.1 程序 (RDevelopment Core Team，2015)完成。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1不同坡向群落水平功能性状的比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图(1A-1B)所示：岩溶石山群落水平功能性状(比叶面积、叶绿素含量)展现了在不同的坡向(阴坡、半阴坡与阳坡)上变化趋势一致的格局，均体现阴坡 $>$ 半阴坡 $>$ 阳坡且阴坡和半阴坡分别与阳坡差异性显著 $( P { < } 0 . 0 5 )$ 。群落水平木材密度体现相反的变化趋势，即阴坡<半阴坡<阳坡，但阴坡和半阴坡分别与阳坡差异性显著 $( P { < } 0 . 0 5 )$ (图1C)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aa -/- Ba M/ C   \na 84 a   \n22 ： b 94 b a   \n00 4 a   \n081 2 H 导 1 0   \n阴坡半阴坡阳坡 阴坡半阴坡阳坡 阴坡半阴坡阳坡   \nshady slope semi-shady sunny slope shady slope semi-shady sunny slope shady slope semi-shady sunny slope ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：CWM_SLA 群落水平_比叶面积；CWM_CC 群落水平_叶绿素含量；CWM_WD 群落水平_木材密度。 Note: CWM_SLA. Community-weighted mean specific leaf area; CWM_CC. Community-weighted mean chlorophyll content; CWM_WD. Community-weighted mean wood density. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Differences oncommunity-level functional traits along the sloped gradients ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2不同坡向土壤环境因子的比较",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4da490788b32a4058f061143bbfa5b8f97c0609d48a5a2f13d473026114cc664.jpg",
+        "img_caption": [
+            "图1不同坡向群落水平功能性状比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，统计表明土壤有机质含量表现为阴坡与阳坡差异性显著 $( P { < } 0 . 0 5 )$ ；土壤全磷含量和土壤全钾含量在不同坡向上均体现差异显著 $( P { < } 0 . 0 5 )$ ；土壤有效磷含量表现为阴坡和半阴坡小于阳坡，且阴坡和半阴坡分别与阳坡差异显著 $( P { < } 0 . 0 5 )$ ；而土壤有效钾含量表现为阴坡和半阴坡大于阳坡，且阴坡和半阴坡分别与阳坡差异显著 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：SOM.有机质；TP.全磷；TK.全钾；AP.有效磷；AK.有效钾。下同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: SOM.Soil organic matter; TP.Total phosphorus; TK.Total potassium; AP.Available phosphorus; AK Available potassium. The same below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Differences on soil environmental factorsalong the sloped gradients ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3不同坡向群落水平功能性状与土壤环境因子的回归分析",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图(3A-3B)显示，比叶面积在阴坡和半阴坡与土壤有机质含量呈显著负相关 $( P { < } 0 . 0 5$ ，$R ^ { 2 } { = } 0 . 8 5 1$ ， $R ^ { 2 } { = } 0 . 7 9 9 ,$ 。叶绿素含量在阴坡上分别与土壤全磷含量和土壤有效钾含量呈显著正相关 ${ \\scriptstyle \\underline { { P < 0 . 0 5 } } }$ ， $R ^ { 2 } { = } 0 . 7 9 8$ ， $R ^ { 2 } { = } 0 . 7 2 1 \\mathrm { \\Omega }$ （图3A)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "阴坡(A) 半阴坡(B) 阳坡(C)  \n/) 230 P<0.05 P<0.05 / P>0.05R²=0.851 R²=0.799 R²=0.3872 220 1 0 .73 74 75 76 77 78 58 62 66 70 40 50 60 70有机质/SOM/g ·kg 有机质/SOM/g·kg 有机质/SOM/g ·kg-  \n(-P)/ 48 P<0.05 (-P-/ 4 P>0.05 (HPP-C/T P>0.054 R²=0.798 R²=-0.331 4 R²=0.39544444444 43 42.： 4 042.53.0 3.54.04.5 4.0 4.5 5.0 5.5 1.5 2.5 3.5 4.5全磷/TP/g ·kg-1 全磷/TP/g ·kg 全磷/TP/g ·kg-  \n(-P)/ 442444444 (PP)/ 4 P>0.05 (-P-/T P>0.05R2=-0.169 44 R²=-0.3294543 44P<0.05R²=0.721. 4 4 .220 230 240 250 140 180 220 160 200 240 280有效钾/AK/mg·kg-1 有效钾/AK/mg· $\\mathsf { k g } ^ { - 1 }$ 有效钾/AK/mg· kg",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1群落水平功能性状对不同坡向的响应",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "岩溶石山典型的特点是峰丛地貌，具有与常态地貌明显不同的形态特征及明显的坡向变化，即微生境的多样性和高度异质性。本文研究发现比叶面积、叶绿素含量阴坡 $\\ >$ 半阴坡>阳坡，阴坡和半阴坡分别与阳坡差异性显著(图1A-1B)。研究表明，在阴坡弱光环境下，叶面积增大且叶干物质含量低(比叶面积大)可以增强植物捕光能力，增加叶片同化组织对输导组织和结构组织的相对比例(Pemana etal，2010；李东胜等，2017)。在阴坡、半阴坡上比叶面积与叶绿素含量的增加有利于植物对阴坡弱光环境的适应策略(杨峰等，2010)。而在阳坡上，光照供应充足，光呼吸加强、羧化效率降低等造成净光合速率下降，只要较小的单位生物量叶面积就能满足光合作用的需要，即通过减小比叶面积和叶绿素含量来减小强光对叶片的破坏，使植物叶片适应强光的环境(King，2003；Wright etal，2004；宋光等，2013)。此外，Prattrb&Ewers(2007)研究表明，阴坡具有较高的比叶面积可能是因为植物把光合作用的产物分配到植物的向上生长和叶面积的增大，以便获取更多的碳水化合物来克服阴坡、半阴坡弱光环境的不利影响。因此，本文的研究结果很好的印证了比叶面积在阴坡和半阴坡与阳坡梯度下采取的不同生态策略。植物木材平均密度为阴坡和半阴坡小于阳坡(图1C)。木材主要用于水分和营养物质的运输，并提供高度、机械支持。本研究中，阳坡木材密度比较大，可能是由于阳坡太阳辐射强和土壤营养资源匮乏(本研究中3个环境养分含量在阳坡含量显著小于阴坡和半阴坡的含量)，植物生长比较慢，需要通过长期的物质积累成长，其木材密度比较高，阴坡则相反(Prattrb&Ewers，2007；宫兆宁等，2014)。植物比叶面积、叶绿素含量和木材密度在不同坡向梯度上的差异能够反映树种在生态策略上的差异，而高的比叶面积和叶绿素含量表明植物采取资源获取性策略，而高的木材密度则表明植物采用保守性策略(唐青青等，2016)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤环境因子对不同坡向的响应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "土壤有机质主要来源于动植物枯落物，而枯落物性质、土壤微生物种类与数量是影响有机质积累的主要因素(杨丹等，2014)。造成土壤有机质含量阴坡显著大于阳坡(图2A)，可能是由于阴坡阳光照射适中，土壤温度适宜，易于微生物活动，促进枯落物和腐殖质的分解(董水丽和刘恩斌，2015)，因此有利于土壤有机质含量积累增加。土壤磷素是植物生长的重要元素之一，是衡量土壤中各种形态磷总和的一个重要指标，主要来源于枯落物矿化及土壤矿质颗粒的风化(李龙等，2015；赵萍等，2014)。磷对保持土壤肥力起重要作用，受到母质、气候、生物、土壤酶等一系列因素的影响(范夫静等，2014)。半阴坡上土壤全磷、土壤有效磷含量最低，可能是半阴坡处于坡向变化交替处、土壤风化严重、土壤 pH 值较低等原因，导致土壤养分含量减少(刘淑娟等，2010)。刘旻霞和马建祖(2012)研究表明土壤全磷和有效磷含量表现为阴坡小于阳坡，与本研究结果一致。土壤全钾、有效钾含量的分布特征可能与土壤的淋溶特征有关(李艳琼等，2016)。研究表明，钾素易受土壤母质、地形、土壤风化程度等影响较大(刘淑娟等，2010)。此外，吕真真等(2014)研究发现阳坡光照强度大于阴坡和半阴坡，所以土壤风化严重，土壤母质在成土过程中释放的钾素较少，而钾素具有很强的溶解性和易流失的特征，从而导致土壤钾素等营养元素含量相对于阴坡较低，本研究结果与此具有一致性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3群落水平功能性状与土壤环境因子的关系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "植物比叶面积与其生长和生存对策有紧密的联系，是反映植物对不同生境适应特性的一个指标。本研究结果表明，在群落水平上，比叶面积、叶绿素含量对阴坡和半阴坡响应特征明显。图(3A-3B)显示，在阴坡和半阴坡上，比叶面积与土壤有机质含量存在显著的负相关。这与刘旻霞(2017)、董水丽和刘恩斌(2015)对不同坡向梯度土壤养分含量与植物功能性状研究发现阴坡资源充足，比叶面积与土壤有机质含量呈显著正相关的结论不一致。比叶面积作为植物重要的功能性状之一，土壤养分高低与植物比叶面积关系密切。一般而言，土壤养分含量高的生境的比叶面积要高于资源贫瘠和干旱的生境，这暗示如果土壤养分含量高，对应群落的比叶面积可能也较高，成正相关的分布格局。但是我们的研究结果体现了相反的变化格局。这可能与我们选取的研究对象有关，青冈是岩溶石山特殊生境下的优势种群，其生物学特性就是比较能适应贫瘠，耐旱生境。因此，导致本研究中群落水平的比叶面积与有机质含量较高的阴坡生境成负相关分布格局。这表明影响植物比叶面积的因素较为复杂，除了生境中的养分外，可能还存在一些其它因子影响其变化，如群落中物种本身的生物学特性等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在阴坡上，叶绿素含量与土壤全磷含量呈显著的正相关(图3A)。世界上的许多森林地区，磷是主要的一个限制因素(马金等，2015)。中国热带和亚热带地区的土壤全磷含量比其他地区都要低，我们的实验结果与此一致。已有研究表明，土壤磷胁迫能够通过影响氮元素向Rubisco 的分配(Warren&Zou，2003)、影响类囊体膜上的能量转导、抑制Calvin 循环里几种关键酶的活性(曾小平等，2004)，磷的缺乏必然会降低植物的光合速率、减缓植物叶片的生长(胡相明等，2008)。因此，土壤磷素含量的增加有利于叶绿素含量的增加，从而提高植物的光作用。钾素是植物光合作用主要的元素之一，杨峰等(2010)对大豆叶绿素含量与土壤有效钾含量关系的研究发现，如果土壤中缺乏有效钾，则叶片表皮细胞在缺钾的状态下将加速叶片老化、叶绿素含量减少，叶片的栅栏组织和海绵组织的细胞将收缩，产生局部破裂。宋光等(2013)研究表明，随着土壤有效钾含量的增加叶绿素含量呈上升趋势。因此，本研究中得出群落水平叶绿素含量与土壤全磷和土壤有效钾呈显著正相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们的研究表明从阴坡到半阴坡，半阴坡到阳坡的坡向变化中，群落水平功能性状(比叶面积、叶绿素含量)均呈降低的趋势，而群落水平功能性状(木材密度)则呈上升的趋势。土壤环境因子从阴坡到阳坡的过程中，土壤全磷含量和土壤有效磷含量均为阳坡最大；土壤有机质含量、土壤全钾含量和土壤有效钾含量均为阴坡大于阳坡。经简单回归分析表明，比叶面积在阴坡、半阴坡上与土壤有机质含量呈显著的负相关；叶绿素含量与土壤全磷含量、土壤有效钾含量在阴坡上呈显著的正相关。在桂林岩溶石山植物群落形成过程中，存在明显的环境筛选效应，在不同的微生境条件下幸存的物种往往具有对环境适应的不同的性状组合。这进一步证明，遵循植被与环境的相互适应机制，了解环境筛选对植物群落形成的作用，对于本地区植被恢复与重建具有重要的指导意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BU WS,ZANGRG,DNG Y,et al,2O13.Relationshipsbetween plant functional traitsat the communitylevel andenvironmental factors during successon in a tropical lowland rainforest on Hainan Island,South China[J].Biodiver Sci,21(3):278-287.[卜文圣，臧润国，丁易，等，2013．海南岛热带低地雨林群落水平植物功能性状与环境因子相关性随演替阶段的变化[J].生物多样性，21(3):278-287.]  \nDONG SL,LIU EB,2O15.Comparson of leaf functional traits of dominant woody plants on shady slope andsunny slope in loessal HillyRegion[J].Res Soil Water Conserv,22(4):327-331.[董水丽，刘恩斌，2015.黄土丘陵区阴坡和阳坡优势木本植物叶功能性状比较[J]．水土保持研究，22(4):327-331.]  \nFAN FJ,SONG TQ,HUANG GQ,et al,2014. Characteristics of spatial variation of soil nutrients insloping fieldin a gorge karst region，southwest China[J].Chin JAppl Ecol,25(1):92-98.[范夫静，宋同清，黄国勤，等，2014．西南峡谷型喀斯特坡地土壤养分的空间变异特征[J]．应用生态学报，25(1):92-98.]  \nGONG ZN,ZHAO YL,ZHAO WJ, et al,2014.Estimation model for plant leaf chlorophyllcontentbased on thespectral index content[J].Acta Ecol Sin,34(20):5736-5745.[宫兆宁，赵雅莉，赵文吉，等，2014．基于光谱指数的植物叶片叶绿素含量的估算模型[J].生态学报，34(20):5736-5745.]  \nHU G, LIANG SC, ZHANG ZH, et al, 2O07. Quantitative analysis of Cyclobalanopsisg lauca community on Karsthills of Guilin[J].Chin JEcol,26(8):1177-1181.[胡刚，梁士楚，张忠华，等，2007．桂林岩溶石山青冈栎群落的数量分析[J].生态学杂志，26(8):1177-1181.]  \nHU XM, ZHAO YY,CHENG JM,et al,2008.Impacts of environmental factors on spatial distributionof soilmoisture of Grassland in Yunwu Mountai[J].Acta Ecol Sin,28(7):2964-2971.[胡相明，赵艳云，程积民，等,2008．云雾山自然保护区环境因素对土壤水分空间分布的影响[J].生态学报，28(7):2964-2971.]  \nHOU Y,LIU MX,SUN HR,2017. Response of plant leaf traits to microhabitat change in a subalpine meadow onthe easternedge of Qinghai-Tibetan Plateau，China[J]. Chin JAppl Ecol,28(1):71-79.[侯媛，刘昱霞，孙辉荣，2017．青藏高原东缘亚高寒草甸植物叶性状对微生境变化的响应[J]．应用生态学报，28(1):71-79.]  \nKANG Y, XIONG MH,HUANG J,et al,2017. Variation inwoody plant functional traitsof the tropical cloudforests in Bawangling,Hainan Island[J].Acta Ecol Sin,37(5):1572-1582.[康勇，熊梦辉，黄瑾，等，2017．海南岛霸王岭热带云雾林木本植物功能性状的分异规律[J]．生态学报，37(5):1572-1582.]  \nKING DA,2003.Alocation of above-ground growth is related to light in temperate deciduous saplings[J].Function Ecol, 17:482-488.  \nLONG WX,DING Y, ZANGRG, etal,2011. Environmental characteristics of tropical cloud forests in therainyseason inBawangling National Nature Reserve on Hainan Island, South China[J].J Plant Ecol,35(2):137-146.[龙文兴，丁易，臧润国，等，2011．海南岛霸王岭热带云雾林雨季的环境特征[J]．植物生态学报，35(2):137-146.]  \nLIU MX,MA JZ,2013.Feature varitions of plant functional traitsand environmental factor in south-andnorth-facing slope[J].Res Soil Water Conserv,20(1):102-106.[刘昱霞，马建祖，2013．阴阳坡植物功能性状与环境因子的变化特征[J]．水土保持研究，20(1):102-106.]  \nLI DS,BAI QH,LIYJ,et al,2O17.Effects of lightconditionson the growth characteristicsand photosythetictraits of Quercus mongolica seedlings[J]. Chin JEcol,26(10):2744-2750.[李东胜，白庆红,李永杰，等,2017.光照条件对蒙古栎幼苗生长特性和光合特征的影响[J].生态学杂志，26(10):2744-2750.]  \nLIU MX, MA JZ, 2012. Responses of plant functional traits and soil factors to slope aspect in alpine meadow ofSouth Gansu，Northwest China[J].Chin JAppl Ecol,23(12): 3295-3300.[刘昱霞，马建祖，2012．甘南高寒草甸植物功能性状和土壤因子对坡向的响应[J]．应用生态学报，23(12):3295-3300.]  \nLIU MX,2017. Response of plant element content and soil factors to the slope gradient of alpine meadows inGannan[J].Acta Ecol Sin,37(24):8275-8284.[刘旻霞，2017．甘南高寒草甸植物元素含量与土壤因子对坡向梯度的响应[J].生态学报，37(24):8275-8284.]  \nLI Y, YAO J,YANG S,etal,2O14.Leaf functional traits of main tre species at diferent environmental gadientsin Dongling Mountain,Beijing[J].JBeijing For Univ,36(1):73-77.[李颖，姚婧，杨松，等，2014．东灵山主要树种在不同环境梯度下的叶功能性状研究[J]．北京林业大学学报，36(1):73-77.]  \nLI YQ,DENG XW,YI CY,et al,2O16.Plant and soil nutrientcharacteristics in the karst shrub ecosystemofsouthwest Hunan,China[J].Chin JAppl Ecol,27(4):1015-1023.[李艳琼，邓湘雯，易昌晏，等，2016．湘西南喀斯特地区灌丛生态系统植物和土壤养分特征[J]．应用生态学报，27(4):1015-1023.]  \nLIU SJ,ZHANG W,WANG KL，et al， 2010. Spatiotemporal heterogeneity of topsoil nutrients in KarstPeak-Cluster depression area of Northwest Guangxi,China[J]. Acta Ecol Sin,31(11):3036-3043.[刘淑娟，张伟，王克林，等，2010．桂西北喀斯特峰丛洼地表层土壤养分时空分异特征[J].生态学报，31(11):3036-3043.]  \nLU ZZ,LIU GM,YANG JS,et al, 2014. Spatlal variabilityand distribution patern of soil nutrients in bohaicoastal area[J].Acta pedol sin,51(5):945-952.[吕真真，刘广明，杨劲松，等，2014.环渤海沿海区域土壤养分空间变异及分布格局[J]．土壤学报，51(5):945-952.]  \nLI L,YAO YF, QIN FC,2O15.Spatial variabilityof soil total nitrogen,available phosphorus and availablepotassium in Huanghuadianzi watershed[J].Chin JEcol,35(2):373-379.[李龙，姚云峰，秦富仓，2015．黄花甸子流域土壤全氮、速效磷、速效钾的空间变异[J]．生态学杂志，35(2):373-379.]  \nLIU GF, LIU YP,BAIYILA DF, et al,2017.Leaf traits of dominant plants of main forest communities inDaqinggou Nature Reserve[J].Acta Ecol Sin,37(14):4646-4655.[刘贵峰，刘玉平，达福白乙拉，等，2017.大青沟自然保护区主要森林群落优势种的叶性状[J].生态学报，37(14):4646-4655.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MENG TT,NI J,WANG GH,2O07.Plant functional traits environments and ecosystem functioning[J].JPlant Ecol(Chinese Version),31(1): 150 -165. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MA J,WU LF, WEI X,et al,2015.Habitat adaptation of two dominant tree species in a subtropical monsoon forest: leaf functional traits and hydraulic properties[J]. Guihaia,35(2):261-268.[马金，吴林芳，韦霄，等， 2015．鼎湖山季风常绿阔叶林两种优势树种的生境适应研究:叶片功能性状和水力结构特征[J].广西植 物，35(2):261-268.]   \nPEMANA J,PEGUERO-PINAB JJ, Valldaresc F,et al, 2010.Evaluation of unventilated tree shelters in the context of Mediterranean climate:Insights from a study on Quercus faginea seedlings assessed with a 3D architectural plant model[J]. Ecol Engin,36:517-526.   \nPRATTRB AL,EWERS FW, 2O07. Relationshipsamong xylem transport, biomechanics and storage in stems and roots of nine Rhamnaceae species of the California chaparral[J]. New Phytol,174(4) :787-798.   \nPEREZ-Harguindeguy N, DIAZ S, GARNIER E,et al, 2013. New handbook for standardised measurement of plant functional traits worldwide[J]. Austr J Bot, 61(3) : 167-234.   \nPAN YF,CHEN XB,JIANG Y,et al, 2018. Changes in leaf functional traits and soil environmental factors in response to slopegradientinKarsthilsGuilin[J].ActaEcol Sin, 28(5):1-8[2018-01-21].htp:/ns.cnki.net/kcms/detail/11.2031.Q.20171121.1655.028.html.[盘远方，陈兴彬， 姜勇，等，2018．桂林岩溶石山灌丛植物叶功能性状和土壤因子对坡向的响应[J].生态学报， 28(5):1-8[2018-01-21].http://kns.cnki.net/kcms/detail/11.2031.Q.20171121.1655.028.html.]   \nREICH PB, BUSCHENS C, TJOELKE MG, et al, 2003.Variation in growth rate and ecophysiology among 34 grasland and savanna species under contrasting N supply: a test of functional group differences[J]. New Phytol,157(3):617-631.   \nSUN J, ZHAOFZ, HAN XH, et al,2016. Ecological stoichiometryof soil aggregates and relationship with soil nutrients of different-aged Robinia pseudoacacia forests[J]. Acta Ecol Sin,36(21):6879-6888.[孙娇，赵发珠, 韩新辉，等，2016.不同林龄刺槐林土壤团聚体化学计量特征及其与土壤养分的关系[J].生态学报， 36(21): 6879-6888.]   \nSONG G,WEN ZM, ZHENG Y,et al,2013. Relationships between plant function traits of Robinia Pseudoacacia and meteorological factors in loess platenau,North Shaanxi, China[J]. Res Soil WaterConserv,20(3):125-130. [宋光，温仲明，郑颖，等,2013．陕北黄土高原刺槐植物功能性状与气象因子的关系[J]．水土保持研究， 20(3):125-130.]   \nTANG QQ,HUANG YT,DING Y, et al,2O16.Interspecific and intraspecific variation in functional traits of subtropical evergreen and deciduous broad-leaved mixed forests[J]. Biodiver Sci,24(3):262-270.[唐青青，黄 永涛，丁易，等，2016．亚热带常绿落叶阔叶混交林植物功能性状的种间和种内变异[J].生物多样性， 24(3):262-270.]   \nWRIHT IJ, REICH PB,WESTOBY M,et al, 2004. The worldwideleaf economics spectrum[J]. Nature, 428: 821-827.   \nWARREN M， ZOU XM，2O03. Seaonal nitrogen retention in temperate hardwood forests: the“vernal dam\"hypothesis and case studies[J]. Acta Phytoecol Sin,27(1):11-15.   \nXI XQ,ZHAO YJ,LIUYG,etal,2011.Variation and correlationof plantfunctional traits in karst areaof central Guizhou Province,China[J].JPlant Ecol,35(10):1000-1008.[习新强，赵玉杰，刘玉国，等，2011．黔中喀 斯特山区植物功能性状的变异与关联[J]．植物生态学报，35(10):1000-1008.]   \nXU YF, WANG KL, QI XK, et al,2016. Spatial and temporal vegetation changes under geological settings of dolomite and limestone based on TM images[J].Acta Ecol Sin,36(1):180-189.[徐艳芳,王克林,祁向坤,等， 2016．基于 TM影像的白云岩与石灰岩上喀斯特植被时空变化差异研究[J].生态学报，36(1):180-189.]   \nYANG D, XIANG WH,FANG X,et al,2014. Spatial heterogeneity of soil organic carbon and total nitrogen concentrations in aLithocarpus glaber-Cyclobalanopsis glauca evergreen broadleaved forest[J].Acta Ecol Sin,   \n34(12):3452-3462.[杨丹，项文化，方晰，等，2014.石栎-青冈常绿阔叶林土壤有机碳和全氮空间变异 特征[J].生态学报，34(12):3452-3462.] YAVITT JB,HARMS KE,GARCIA MN,et al, 2009. Spatial heterogeneity of soil chemical properties in a lowland tropical moist forest,Panama[J].Austr J Soil Res,47(12):674-687. YANG F,FAN YM,LI JL,et al,2010.Estimating LAI and CCDof rice and wheat using hyperspectral remote sensing data[J].Trans CSAE,26(2):237-243.[杨峰，范亚民，李建龙，等，2010.高光谱数据估测稻麦叶 面积指数和叶绿素密度[J]．农业工程学报，26(2):237-243.] ZHAO P,DAI WA,DU MX,et al,2014.Response of Amorpha fruiticosa planting to soil nutrients in the Tbetan plateau[J].Acta pratacult sin,23(3):175-181.[赵萍，代万安，杜明新，等，2014．青藏高原种植紫穗槐对 土壤养分的响应[J]．草业学报，23(3):175-181.] ZHANG F, ZHANG JT, HANGY,2O02.Interspecific relationships and environmental interpretation of the main tree spee in the forest communities of zhuweigou in lishan mountain nature reserve[J].JPlant Ecol,   \n26(S1):52-56.[张峰，张金屯，韩广业，2002.历山自然保护区猪尾沟森林群落树种种间关系及环境解释 [J]．植物生态学报，26(S1):52-56.] ZENG XP, ZHAO P, CAI XA,et al, 2004.Physioecological characteristics of Woonyoungia septentrionalis seedlings under various soil water conditions[J].Chin JEcol,23(2):26-31.[曾小平，赵平，蔡锡安，等，2004. 不同土壤水分条件下焕镛木幼苗的生理生态特性[J].生态学杂志，23(2):26-31] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

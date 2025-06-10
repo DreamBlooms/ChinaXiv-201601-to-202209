@@ -1,0 +1,292 @@
+# 微博城市投诉文本中地理位置实体的完整性研究
+
+# 孙赫1,2 李淑琴² 吕学强1,2 刘克会3.4
+
+1(北京信息科技大学网络文化与数字传播北京市重点实验室北京 100101)  
+2(北京信息科技大学计算机学院北京 100101)  
+3(北京理工大学管理与经济学院北京 100081)  
+4(北京城市系统工程研究中心 北京 100035)
+
+摘要：【目的】利用互动问答社区——百度知道的知识共享、更新及时的优势，弥补维护大规模地理隶属关系资源库开销大的不足，并通过百度知道自动补全缺陷地理位置实体。【方法】对缺陷地理位置实体转化为所属区域问题，并通过百度知道进行检索；根据检索结果提取特征，计算该地理位置实体属于各个区域的得分，并构建缺陷地理位置实体的所属区域特征向量；利用规则对缺陷地理位置实体进行完整化处理，实现地理位置实体完整性表示。【结果】在完整化微博城市投诉文本中的缺陷地理位置实体时，该方法的综合精确率达到 $9 2 . 5 1 \%$ 。【局限】对零地理位置实体无法完整表示。【结论】该方法对缺陷地理位置实体完整化是有效的、可行的。
+
+关键词：微博城市投诉文本缺陷地理位置实体互动问答社区特征值计算完整性表示
+
+分类号：TP391.1 G35
+
+# 1引言
+
+近几年，随着"微博问政"的兴起，越来越多的政府部门开设官方微博与百姓互动。对于微博城市投诉信息来说，由于每天收到的投诉微博数量巨大，地理位置实体有时会缺少区域信息。一条完整的地理位置实体应包括地名区域和地名两部分，如表1中的微博1。而从表1中微博2-微博6可以看出，地理位置实体存在如下现象：地名区域缺失，如微博2的"中关村"；地名区域模糊，如微博3的"长安街"。由于地名区域缺失或模糊现象的存在，给工作人员的统计分析工作带来了极大的困难，以致于工作人员很难统计各个区域的事故发生量，从而不能及时预防事故的发生。本文将存在上述两种情况的地理位置实体统称为缺陷地理位置实体，记为defectLoc。而且，随着时间的推移，地名及区域信息也随之变化，使得分析地名从属区域变得更加困难，如微博3的"崇文门新景家园"原属于崇文区，而现在属于东城区，如何及时发现地名所属区域信息的变化显得尤为重要。对地理位置实体进行完整性表示，添加缺失的区域信息，如将“中关村"规范化为“海淀区中关村”或确定化模糊区域，如将“长安街"规范化为“东城区长安街"或"西城区长安街"，可以方便城市管理人员进行统计与分析，进一步发现地区存在的问题，实现预警功能，对以后的工作提供决策支持。
+
+微博微博原始内容  
+编号L最近朝阳区豆各庄乡富力又一域天天晚上能闻到类似楚烧垃圾等的毒气。今天更令人气愤的是垃圾箱直接在我们楼下明目张胆地烧了。请问豆各庄乡到底要闹哪样？强烈要求@北京12345@北京朝阳@北京市市政市容委找出露天违法焚烧垃圾的管理责任1 人和解决方案！@毛达1977@半支烟的烟灰缸@爱的水滴2012v#城管领导听民意#@北京12345今早的中关村，一个在我面前摆摊，一个停在我身后，从第三张照片可以看到树后面的城管车\~城管真的管么？！2崇文门新景家园内的小餐馆，建在所谓小区人防设施上，据说各证齐全。各位看后感觉如何？小区距离长安街不足千米，早在09年就列入北京市政重点整治对象，至今未见端倪，群租成风，治安隐患深刻，物业各种不作为，环境脏乱差。提请有关部门注3 意！重视！@北京12345国贸1V@北京12345@朝阳区政府热线荟康苑小区垃圾一个月无人打扫，已经垃圾成山，为了度过一个美好的春节，请帮助联系相关单位处理，谢谢。。朝阳路辅路4★ V我发表了文章http:/t.cn/Rzw7YPm酒仙桥梵谷水郡小区门口黑车，黑摩的乱停乱放导5 致交通严重拥堵，影响居民生活两年多，求相关部门进行规划管理，反映多次无效果@朝阳区政府热线@北京交警@BTV财经首都经济报道@北京朝阳@交通新闻热线@北京交警@北京12345V6 我去走到中国音乐学院这被一辆飞驰的车掀起的尘土笼罩了，这个工地有人管吗？@北京12345
+
+# 2相关研究
+
+目前，国内关于地名的研究多集中在识别基本地名与长度较长的复杂地名上。蔡华利等1抽取新闻语料中包括省、地、县、乡、村5级行政地理命名实体。李丽双等[2提取人民日报语料中带有特征词(如省、市等)的地名。唐旭日等[3采用层叠条件随机场对人民日报语料中的中文地名进行研究，并通过静态地理关系和动态地理关系，建立行政区划隶属关系。杜萍等[4]对新闻网页语料中的中文地名进行识别研究。还有其他学者[5-9]也对规范语料中简单中文地名进行识别研究。高燕等[10]利用最大熵模型对新闻报道领域最长地点实体进行识别。以上研究均是在规范语料上进行的基本地名识别，所研究的语料来自于新闻报道者，格式规范，表达统一，且其中的中文地名特征明显，易识别，如"北京市”、“山西省"等，而对于格式不规范，表达不统一的复杂地理位置实体识别效果较差。文献[11]采用分治的思想将地名识别问题转化为基本地名识别和指示词识别，在此基础上，利用词连接算法连接基本地名和指示词，最终准确识别出长度较长的复杂地理位置实体。
+
+以上研究均集中在地名与地理位置实体的识别上，对于地理位置实体的完整性研究较少。针对缺失的区域信息的问题，相关研究多通过构建地理本体和地理知识库解决。Egenhofer[12]提出地理空间语义网络概念。杜萍[13将地理本体与中文地名识别与抽取有机结合，主要研究消除地名歧义。地理知识库包括地名库和地名词典，如在地名库GNIS[14-15]中共有 65 个地理类别，是一个无结构的术语表，且无任何语义关系。在地名词典 $\mathrm { T G N } ^ { [ 1 6 - 1 8 ] }$ 中，利用整体/部分关系，地理实体之间形成层次化的结构，同时还定义了地理实体之间的关联关系。但构建地理本体和地理知识库需要领域专家的参与，并且对已构建的地理本体和地理知识库进行一致性、完整性维护。而维护如此庞大的地理本体和地理知识库需要耗费较大的人力，并且无法及时对数据进行更新，尤其是在隶属关系发生变化时，通常需要对较多的节点进行修改，不易做到实时性。由于互动问答社区平台作为一个知识分享的资源库,每天都会有问题、答案的增添与更新，这对于及时发现地理位置隶属关系的变化提供了较大的支持。因此，本文提出基于互动问答社区——百度知道的地理位置实体完整性表示方法。
+
+# 3百度知道中地理位置实体的完整性表达
+
+通过数据处理提取defectLoc，再通过百度知道对defectLoc补全的问题进行检索，根据反馈结果提取特征，并对defectLoc的所属区域进行评分，构建所属区域的特征向量，利用规则对defectLoc进行完整性表示，使得完整化后的defectLoc可进行统计分析，为相关部门提供决策支持。具体流程如图1所示。
+
+# 3.1 数据处理
+
+利用文献[11]提出的方法进行地理位置实体识别识别出地理位置实体后，进一步提取defectLoc。用户在发布一条投诉微博时，除了“ $@$ 北京12345"以外，有时也会 $@$ 相关区域，如表1中的微博1、微博4和微博5。本文根据微博 $@$ 相关区域的特点，对所有投诉微博 $@$ 的内容进行抽取，当 $@$ 的内容存在唯一的区域信息时，微博4的‘ $@$ 朝阳区政府热线”，将该区域作为此defectLoc的所属区域进行完整性表示，最终过滤一部分defectLoc。提取待处理的defectLoc的算法如下：
+
+![](images/c17905a193229d2110600d6532e99b2eb3f6adab9d70ae2f5f243be7ea8d6cc3.jpg)  
+图1缺陷地理位置实体完整性表示框架
+
+(1）分析已识别的地理位置实体，判断其是否存在区域信息，存在则退出，如表1中的微博1；不存在则转到步骤(2);
+
+(2）定位原微博，通过NLPIR[19]进行原始微博的词语切分，并将所有 $@$ 的内容提取出来组成 $@$ 数组，判断数组中是否存在唯一区域信息，存在则补全该defectLoc，将其过滤，如表1中的微博4；不存在则转到步骤(3);(3）提取待处理的defectLoc，组成defectLoc 集合。
+
+# 3.2 缺陷地理位置实体的相关问题检索
+
+百度知道作为最流行的中文互动问答社区之一，2005年至2015年10年间，累计解决问题超过3.77亿。根据文献[20]，百度知道创立后的短短两年内共产生17596864个问题，已解决17012767个问题，问题解决率高达 $9 6 . 7 \%$ 。同时，百度知道是一个参与率和互动性极强的知识社区，每天有超过1000万用户访问，每天平均产生71308个问题，223907个回答，平均每一个问题吸引3.14个用户参与互动。由于百度知道拥有大量用户群及问答数据，因此非常适合解决defectLoc的所属区域补全问题。
+
+本文主要利用开放的互动问答社区——百度知道，对3.1节提取的defectLoc生成一个问题，该问题为"defectLoc 属于哪个区”，例如，“中关村属于哪个区”，通过“zhidao.baidu.com"对相关问题的检索功能，实现对defectLoc所属区域的搜索，将反馈结果进行结构化数据表示。如表1微博2中的“中关村"将“中关村属于哪个区"作为检索串提交给百度知道反馈10个相似问题的QA对集合，并对反馈的结果进行结构化表示，表2所示为截取的前6个QA对集合。
+
+表2“中关村"结构化数据表示(部分)  
+
+<html><body><table><tr><td>排序</td><td>问题</td><td>答案</td><td>是否推荐</td><td>赞</td><td>时间</td></tr><tr><td>1</td><td>中关村属于什么区的?</td><td>答：海淀区得看你租什么样的房子了，还有具体 的位置！一般单间的话，条件好点的 800-1200 左 右，床位的话便宜些200-400左右！</td><td>1</td><td>0</td><td>2009-10-02</td></tr><tr><td>2</td><td>中关村在北京哪个区?</td><td>答：在海淀区。</td><td>0</td><td>6</td><td>2012-02-26</td></tr><tr><td>3</td><td>中关村是北京哪个区的?</td><td>答：海淀区。海淀区。</td><td>0</td><td>0</td><td>2014-03-17</td></tr><tr><td>4</td><td>北京的中关村属于哪个区</td><td>答：中关村属于北京市海淀区管辖</td><td>0</td><td>0</td><td>2013-09-16</td></tr><tr><td>5</td><td>北京中关村在哪个区</td><td>答：海淀区</td><td>0</td><td>0</td><td>2015-04-11</td></tr><tr><td>6</td><td>请问北京市中关村是属于哪个区的？答：中关村属于北京市海淀区管辖。</td><td></td><td>0</td><td>23</td><td>2007-06-28</td></tr><tr><td>： ：</td><td></td><td></td><td>：</td><td>…</td><td>：</td></tr></table></body></html>
+
+# 3.3 缺陷地理位置实体完整性特征向量构建
+
+根据3.2节的结构化数据进行反馈结果的特征提取，并对每个QA对的反馈特征计算其得分，通过所属区域的评分模型计算出各个区域的总得分，构建缺陷地理位置实体的得分特征向量。
+
+# (1）百度知道反馈特征的提取
+
+通过百度知道反馈的问答内容，本文总结三类
+
+特征，其中包括内容特征、百度知道特征和搜索反馈特征。
+
+# $\textcircled{1}$ 内容特征
+
+该特征描述百度知道反馈的问答内容，要确认问答内容中是否出现了区域信息。同时，如果反馈的问题与提出的问题有较高的相似度，则认为该问题、答案中出现的区域信息更重要。
+
+1)反馈的问答对是否存在区域信息。
+
+根据反馈的问答对构建一个 $\mathsf { b a g } = \{ \mathrm { Q A } _ { 1 } , \mathrm { Q A } _ { 2 } , \ \cdots , \mathrm { Q A } _ { 1 0 } \} .$ 目标区域集合为 ${ \mathrm { A r e a } } { = } \{ \mathrm { a r e a } _ { 1 }$ $\mathrm { a r e a } _ { 2 }$ ，…， $\mathrm { a r e a } _ { 1 6 } \}$ ，其中 $\mathrm { Q A } _ { \mathrm { i } }$ 为百度知道反馈的第i个问答对，每个QA对应一个Area 集合。作为判断问题，本文用十位、个位的1分别表示问题、答案中是否存在areai的区域，如公式(1)和公式(2)所示：
+
+$$
+\operatorname { a r e a } _ { \mathrm { i } } = \left\{ { \begin{array} { l l } { 1 } & { \operatorname { Q A } _ { \bumpeq } ^ { \star \star } \not \exists \not \equiv \not \exists { \mathrm { : a r e a } } _ { \mathrm { i } } } \\ { 0 } & { \operatorname { Q A } _ { \bumpeq } ^ { \star \star } \not \exists \not \equiv \not \emptyset \not \setminus \not \exists { \mathrm { : a r e a } } _ { \mathrm { i } } } \end{array} } \right.
+$$
+
+$$
+\mathrm { \ a r e a _ { i } = \{ \begin{array} { l l } { { 1 0 } } & { { Q A } | \vec { \sigma } \} \not \equiv \not \simeq \ e a _ { i } } } \\ { { 0 } } & { { \mathrm { \ Q A } | \vec { \sigma } \not \equiv \not \emptyset \not \simeq \not \emptyset \not \simeq \ e a _ { i } } } \end{array} 
+$$
+
+针对不同区域，每个QA构建一个集合包含全部区域的16个area，由于QA问题中出现的区域与答案中出现的区域重要性不同，答案是对区域缺失问题的解答，因此，答案中的区域信息更重要。区域的得分ScoreA如公式(3)所示：
+
+$$
+\mathtt { \backslash ( Q A _ { j } , a r e a _ { i } ) = ( l - \lambda ) \times ( a r e a _ { i } / 1 0 ) + \lambda \times ( a r e a _ { i } \circ _ { 0 } 1 0 ) }
+$$
+
+其中，i为第i个区域,j为百度知道反馈的第j个问答对，$\lambda$ 为答案中出现区域信息的权重。
+
+2)问题相似度集合
+
+这个特征用来衡量提出的问题tq与QA 集合中所有问题的相似度，记为 Simq，则 ${ \mathrm { S i m q } } { = } \{ \mathrm { s i m q } _ { 1 } { , } \mathrm { s i m q } _ { 2 }$ 。…， $\mathrm { s i m q } _ { 1 0 } \}$ 其中,simq至 $\mathrm { s i m q } _ { 1 0 }$ 为 tq与QA集合中每个问题的相似度。由于余弦相似度的结果只在[0，1]之间，且需要计算相似度的两个问题字数较少，通常在10 个字左右，因此本文采用以字为向量，以余弦相似度作为问题相似度的计算方法。假设A、B是两个 $\mathfrak { n }$ 维向量， $\mathrm { A } = [ \mathrm { A } _ { 1 } , \mathrm { A } _ { 2 } , \cdots , \mathrm { A } _ { n } ] , \mathrm { B } = [ \mathrm { B } _ { 1 } , \mathrm { B } _ { 2 } , \cdots ,$ $\mathbb { B } _ { \mathrm { n } } \big ]$ ，其中 $\mathbf { A } _ { \mathrm { i } }$ 与 $\mathbf { B } _ { \mathrm { i } }$ 表示同一字符分别在A、B中出现的频度，n为A、B中所有不重复的单个字符，则A和B的余弦相似度可以表示为：
+
+$$
+{ \mathrm { s i m q } } _ { \mathrm { i } } = { \frac { \displaystyle \sum _ { i = 1 } ^ { n } ( { \bf A } _ { \mathrm { i } } \times { \bf B } _ { \mathrm { i } } ) } { \displaystyle { \sqrt { \sum _ { i = 1 } ^ { n } ( { \bf A } _ { \mathrm { i } } ) ^ { 2 } } } { \sqrt { \sum _ { i = 1 } ^ { n } ( { \bf B } _ { \mathrm { i } } ) ^ { 2 } } } } }
+$$
+
+$\textcircled{2}$ 百度知道特征
+
+百度知道特征是指百度知道本身的一些属性，反映百度知道反馈的QA对的可信性，以下特征较好地描述了QA对中答案的准确性。
+
+1)是否为推荐答案
+
+推荐答案[21]是由百度知道平台上高级知道网友推荐的质量较好的回答。因此，推荐答案通常具有较高的可信度，并比其他答案更加重要，用 $\boldsymbol { \Phi }$ 表示推荐答案的权重。
+
+$$
+\begin{array}{c} \operatorname { R e c } ( \mathrm { i } ) = \left\{ \begin{array} { l l } { \displaystyle \boldsymbol { \wp } } & { \mathrm { ~ \normalfont ~ { A } ~ } \overleftrightarrow { \boldsymbol { \mathscr { k } } } \cdot \overleftrightarrow { \boldsymbol { \mathscr { k } } } } \\ { \displaystyle 0 } & { \mathrm { ~ \normalfont ~ { A } ~ } \overleftrightarrow { \boldsymbol { \mathscr { k } } } \cdot \overleftrightarrow { \boldsymbol { \mathscr { k } } } } \end{array} \right. \nearrow \left\} \left| \boldsymbol { \dot { \pm } } \right. \overleftrightarrow { \mathscr { k } } \cdot \boldsymbol { \mathscr { R } }  \end{array} \right.
+$$
+
+2)赞次数
+
+百度知道中，其他用户的“赞同"可以通过竖拇指的行为
+
+对回答的准确性进行肯定，一般赞次数越多的答案，其质量也越高。本文对赞数的计算方式为：
+
+$$
+\mathrm { S c o r e I ( Q A _ { i } , A g r e e ) } = \boldsymbol { \Theta } \times \mathrm { c o u n t ( Q A _ { i } , A g r e e ) }
+$$
+
+其中，0为每个赞的权值，count( $\mathrm { \cdot Q A _ { i } }$ ,Agree)为第i个QA 中的赞数。
+
+3)回答时间
+
+回答时间来自该QA对中回答问题用户发表回答的时间，由于地理位置的区域归属问题会随时间的改变而改变，通常越接近当前时间的回答，其准确性越高，因此本文对回答时间做了限制，单位为年。
+
+$$
+\mathrm { \ t i m e _ { i } = N o w - A n s T i m e _ { i } }
+$$
+
+$$
+\mathrm { S c o r e T ( t i m e _ { i } ) } = \left\{ \begin{array} { l l } { { 1 } } & { { 0 \leqslant \mathrm { t i m e } _ { \mathrm { i } } \leqslant 2 } } \\ { { 0 . 5 } } & { { 3 \leqslant \mathrm { t i m e } _ { \mathrm { i } } \leqslant 5 } } \\ { { 0 } } & { { \mathrm { t i m e } _ { \mathrm { i } } > 5 } } \end{array} \right.
+$$
+
+其中,i为第i个QA,Now为现在的时间,AnsTime为回答问题的时间。
+
+$\textcircled{3}$ 搜索反馈特征
+
+通过搜索反馈结果的顺序，利用搜索引擎伪反馈技术[22]计算权值。由于百度知道的反馈结果中排名越靠前其与defectLoc的所属区域信息越相关，本文将反馈结果的前三个查询结果看成权重相同的，后面结果随着排名的增加权重也逐渐降低，具体分布如公式(9)所示，其中i为第i个QA对。
+
+$$
+\mathrm { P o s } ( \mathrm { i } ) = \left\{ \begin{array} { l l } { { 1 } } & { { 1 \leqslant \mathrm { i } \leqslant 3 } } \\ { { 1 } } & { { 3 < \mathrm { i } \leqslant 1 0 } } \end{array} \right.
+$$
+
+(2)defectLoc所属区域的评分模型
+
+根据是否存在区域信息、问题相似度、是否推荐、赞次数、回答时间和反馈排名的结果，构建出每j条QA的defectLoc所属区域的评分模型，其中是否存在区域信息和问题相似度作为其基数得分，再根据不同特征的重要性，每增加一个特征需要对已计算的得分进行修改，如果该特征值为0，总得分保持不变，反之，特征值越大，总得分增加的越多，因此，本文计算第j条QA所属于区域的得分公式如下所示：
+
+RowScor $\mathrm { \tilde { e } ( Q A _ { j } , a r e a _ { i } ) { = } S c o r e A ( Q A _ { j } , a r e a _ { i } ) \times s i m q _ { j } \times }$ $( 1 + \mathrm { R e c ( j ) } ) \times ( 1 + \mathrm { S c o r e I ( Q A _ { j } , A g r e e ) } ) \times$ $( 1 + \mathrm { S c o r e T ( t i m e _ { j } ) } ) \times ( 1 + \mathrm { P o s ( j ) } )$
+
+综上所述，对每条QA在区域的得分RowScore 进行累加，从而得到缺陷地理位置实体defectLoc属于区域的总得分 Score(areai|defectLoc)。计算公式如下:
+
+$$
+\mathrm { S c o r e ( a r e a _ { i } \mid d e f e c t L o c ) } = \sum _ { \mathrm { j = 1 } } ^ { 1 0 } \mathrm { R o w S c o r e ( Q A _ { j } , a r e a _ { i } ) }
+$$
+
+根据defectLoc所有区域area的分数值Score，构建 defectLoc 的得分特征向量 {Score(areal|defectLoc),Score(area $_ 2$ |defectLoc),·.， Score(area $1 6$ |defectLoc)}。
+
+# 3.4缺陷地理位置实体完整性表示
+
+根据构建出的defectLoc的得分特征向量，将defectLoc定义为以下三类地理位置实体，即明确地理位置实体、歧义地理位置实体和零地理位置实体。运用相应的规则确认一个所属区域。
+
+定义1明确地理位置实体：检索结果中出现且只出现一个区域，或者 $\mathrm { M a x } ( \mathrm { P } ( \mathrm { a r e a } _ { \mathrm { i } } | \mathrm { d e f e c t L o c } ) ) { \gtrsim } \gamma$ 的defectLoc，记为clearLoc。其中概率计算公式如下：
+
+$$
+\mathrm { P ( a r e a _ { i } | d e f e c t L o c ) } = \frac { \mathrm { S c o r e ( a r e a _ { i } | d e f e c t L o c ) } } { \displaystyle \sum _ { \mathrm { i = 1 } } ^ { \mathrm { 1 6 } } \mathrm { S c o r e ( a r e a _ { i } | d e f e c t L o c ) } }
+$$
+
+定义2歧义地理位置实体：检索结果中出现了多个区域且 $\mathrm { M a x } ( \mathrm { P } ( \mathrm { a r e a } _ { \mathrm { i } } | \mathrm { L o c a t i o n } ) ) { < } \gamma \mathrm { \Delta }$ 的defectLoc，记为 ambiguityLoc。
+
+定义3零地理位置实体：检索结果中未出现区域信息的defectLoc，记为 zeroLoc。
+
+通过对数据的观察分析发现，缺陷地理位置实体的Score(area;|defectLoc)值及检索结果中出现的区域的个数对缺陷地理位置实体的完整化起决定性作用。本文利用以下规则对不同类别的缺陷地理位置实体进
+
+行区域完整性表示。
+
+规则1对于clearLoc，存在两种情况：如果检索结果中只含有一个区域信息，则此区域信息为defectLoc的区域信息。如图2中的区域1、4、5、7，在返回的10条检索结果中只有一个区域得分，也就是说在defectLoc构建的特征向量中，有且只有一个Score(area;|defectLoc)的分数值大于0，且其他分数值都为0时，defectLoc的区域信息为areai；如果存在Max(P(areai|defectLoc)) $\scriptstyle | \geqslant \gamma |$ ，此areai为defectLoc的区域信息。如图2中的区域6，虽然有多个区域得分，根据定义1，即可确定所属区域。
+
+规则2对于 ambiguityLoc，利用countLoc 对defectLoc进行消歧。countLoc为统计每个区域的个数,一条QA中出现多个相同的区域信息，按一次计算，最终得到Max(countLoclareai)，则defectLoc 的区域信息为areai。如果Max(countLoclareai)存在2个或2个以上的区域，本文取第一个 Max(countLoclareai)的区域信息。如图3中的区域2,“海淀"的countLoc为最大值7，最终完整性规范化表示的结果为"海淀区五路居”。
+
+规则3对于 zeroLoc，无法进行区域补全操作。由于此类地理位置实体不一定属于北京地区，例如图2 中的区域3。
+
+<html><body><table><tr><td></td><td></td><td>东城 西城</td><td>朝阳</td><td></td><td>丰台石景山海淀</td><td></td><td>门头沟房山大兴</td><td></td><td></td><td>昌平顺义通州</td><td></td><td></td><td>延庆</td><td>怀柔</td><td>密云</td><td>平谷</td></tr><tr><td></td><td>1万泉庄</td><td>0</td><td>0</td><td>0</td><td>0</td><td>08.52</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0 0</td></tr><tr><td></td><td>2五路居</td><td>0. 61</td><td></td><td>02.11</td><td>0</td><td>03.82</td><td>0</td><td></td><td>00.86</td><td>0</td><td>0</td><td>0.86</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>3上虞区</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>4东升科技园</td><td>0</td><td>0</td><td>0</td><td>0</td><td>02.37</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>5八王坟</td><td>0</td><td>011.6</td><td></td><td>0</td><td>0 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>6前门</td><td></td><td>1922.4</td><td></td><td>0</td><td>0</td><td>0 0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td></td><td>7中关村</td><td>0</td><td>0</td><td>0</td><td>0</td><td>021.9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>东城</td><td>西城</td><td></td><td>朝阳丰台石景山海淀门头沟</td><td></td><td></td><td></td><td></td><td>房山大兴昌平顺义通州延庆怀柔密云平谷</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1万泉庄</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>2五路居</td><td></td><td>1</td><td>0</td><td>2</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3上虞区</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4东升科技园</td><td></td><td>0</td><td>0</td><td>0 0</td><td></td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>5八王坟</td><td></td><td>0</td><td>0 8</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>6前门</td><td></td><td>6</td><td>8 0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7中关村</td><td></td><td>0</td><td>0 0</td><td>0</td><td></td><td>0</td><td>10</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td></tr></table></body></html>
+
+对每个缺陷地理位置实体通过其所有区域得分将每个缺陷地理位置实体分类，再通过上述规则对缺陷地理位置实体进行补全，最终规范化为完整地理位置实体，如表3所示。
+
+表3对图2中的缺陷地理位置实体完整性表示  
+
+<html><body><table><tr><td>缺陷地理位置实体地理位置实体类别</td><td></td><td>完整地理位置实体</td></tr><tr><td>万泉庄</td><td>clearLoc</td><td>海淀区万泉庄</td></tr><tr><td>五路居</td><td>ambiguityLoc</td><td>海淀区五路居</td></tr><tr><td>上虞区</td><td>zeroLoc</td><td>上虞区</td></tr><tr><td>东升科技园</td><td>clearLoc</td><td>海淀区东升科技园</td></tr><tr><td>八王坟</td><td>clearLoc</td><td>朝阳区八王坟</td></tr><tr><td>前门</td><td>clearLoc</td><td>西城区前门</td></tr><tr><td>中关村</td><td>clearLoc</td><td>海淀区中关村</td></tr></table></body></html>
+
+# 4实验结果与分析
+
+# 4.1 实验准备
+
+实验语料来源于新浪微博，以‘ $@$ 北京12345"为关键词，通过新浪微博的搜索页面"s.weibo.com"进行检索，并编写定向爬虫程序自动采集相关微博。由于投诉微博的地理位置集中在北京地区，因此，地理位置实体的所属区域包括14个区和2个县，即东城区、西城区、朝阳区、丰台区、石景山区、海淀区、门头沟区、房山区、大兴区、昌平区、顺义区、通州区、怀柔区、平谷区、密云县、延庆县。
+
+以1480条新浪城市投诉微博作为实验语料，根据文献[11]的方法共提取1482个地理位置实体，并由专业人员对其进行校对。其中有840个地名包含明确的区域信息，可以为后续统计提供帮助，有642个缺陷地理位置实体，占整个语料的 $4 3 . 3 2 \%$ 。经过前期的数据处理，根据 $@$ 相关区域信息的微博特点，在642个缺陷地理位置实体中，可以完整性表示的缺陷地理位置实体有218个，余下424个缺陷地理位置实体无法进行完整性表示。但在这424个缺陷地理位置实体中有90个重复出现过，例如"国贸”、“双井"等常见地理位置实体，去除这些重复项，总共有334个缺陷地理位置实体需要进行完整性表示。
+
+通过上述数据可以看出，地理位置实体的完整性研究是有必要的，本文主要对334个缺陷地理位置实体进行完整性研究。经过反复实验，通常答案中出现区域信息比问题中出现区域信息对所属区域的贡献大，推荐答案对问题的解释更加权威，而百度知道特征中的赞次数对所属区域的贡献较小。针对缺陷地理位置实体，如果存在某个区域的得分超过或等于所有区域得分之和的一半时，可以确定其为明确地理位置实体，因此，本文取 $= 0 . 7 , \ L _ { 0 } { = } 5 , \ L _ { 0 } { = } 0 . 1 , \ L _ { 7 } { = } 0 . 5$ 门
+
+# 4.2 评价指标
+
+使用精确率(Accuracy)对实验结果进行评价，即正确完整化的缺陷地理位置实体数量占全部缺陷地理位置实体的比例，其计算公式如下：
+
+$$
+{ \mathrm { A c c u r a c y } } = { \frac { \mathrm { r i g h t } } { \mathrm { t o t a l } } } \times 1 0 0 \%
+$$
+
+其中，right表示正确完整化的缺陷地理位置实体个数，total表示待完整化的所有缺陷地理位置实体个数。
+
+# 4.3 实验结果与分析
+
+通过数据处理阶段需要对334个缺陷地理位置实体进行完整性表示，实验分以下三个步骤进行。
+
+(1）检索问题，结构化反馈结果。通过数据处理,需要对334个defectLoc进行问题检索，将问题检索的结果按照表2的结构进行结构化处理，最终形成334个反馈数据表。
+
+(2）特征提取，计算所有区域的得分，构建defectLoc的得分特征向量。采用3.3节的特征值计算方法及所属区域的评分模型，通过反馈数据表，计算得到每个defectLoc的各个区域得分，并构建出得分特征向量。
+
+(3）根据defectLoc的得分特征向量，对所有defectLoc进行分类，通过规则进行完整性表示。根据3.4节的定义，将334个defectLoc分类表示，其中有290个明确地理位置实体，35个歧义地理位置实体，9个零地理位置实体，如图4所示。clearLoc约占全部defectLoc的 $87 \%$ ，说明城市投诉微博中大多数的defectLoc都是clearLoc；虽然无法完整化的zeroLoc只约占 $3 \%$ ，但仍需要找到其他方法对其进行完整性表示。
+
+![](images/342542ba325adc37d8e1512d49d1564fc2be68a0bc3e6c8fab0bbae8cdd55c21.jpg)  
+图4defectLoc 类别占比
+
+利用3.4节中的规则对defectLoc进行完整化表示，从表4的实验结果可以看出，本文方法完整化clearLoc 的精确率达到 $9 6 . 2 1 \%$ ，完整化ambiguityLoc的精确率达到 $8 5 . 7 1 \%$ 。clearLoc的完整化是通过3.4节的规则1，由于百度知道检索得到的是唯一区域或$\mathrm { M a x } ( \mathrm { P } ( \mathrm { a r e a } _ { \mathrm { i } } | \mathrm { d e f e c t L o c } ) ) { \gtrsim } \gamma ,$ 基本不会出现歧义的区域信息，所以精确率最高。而ambiguityLoc 的完整化精确率略低于clearLoc，主要是存在多个歧义区域，并且得分较接近，因此在多个区域消歧过程中，有时会出现错误。本文方法可以对多数defectLoc实现完整性表示，覆盖率达到 $9 7 . 3 1 \%$ 。对于少数未返回检索结果的zeroLoc，本文方法并没有效果。综上，本文方法适用于defectLoc的完整性表示。
+
+表4缺陷地理位置实体中各类型分布表及正确率  
+
+<html><body><table><tr><td>类别</td><td>个数</td><td>错误个数</td><td>完整化精确率 综合精确率</td><td></td></tr><tr><td>clearLoc</td><td>290</td><td>11</td><td>96.21%</td><td></td></tr><tr><td>ambiguityLoc</td><td>35</td><td>5</td><td>85.71%</td><td>92.51%</td></tr><tr><td>zeroLoc</td><td>9</td><td>9</td><td>0%</td><td></td></tr></table></body></html>
+
+如表4所示，其中clearLoc中有11个完整化错误,ambiguityLoc有5个完整化错误，由于zeroLoc中的缺陷地理位置实体一部分存在所属区域，所以将zeroLoc均认为是完整化错误。通过对错误的分析，本文方法还存在以下问题:
+
+(1）较生僻的defectLoc通过百度知道检索出的结果不相关。如"北七佳园”，存在区域信息的问题有"上地佳园属于哪个区？”、“海淀区颐慧佳园属于什么街道?”，虽然这两个问题包含区域信息，但与“北七佳园"并无关系。
+
+(2）对于zeroLoc来说，主要有两种情况：该zeroLoc并不属于北京，由于地理位置实体识别阶段并不会区分是否属于北京，例如，“上虞区"并不是北京的某个地理位置；该zeroLoc属于北京，由于defectLoc较长，百度知道的相关问题较少，例如，“嘉园二里南门门口"属于北京，但反馈的检索结果并无区域信息。
+
+# 5结语
+
+为了能够对地理位置实体进行统计与分析，并为有关部门提供数据支撑，本文提出基于互动问答社区百度知道的地理位置实体的完整性表达方法，通过向百度知道提问的方式对缺陷地理位置实体所属区域进行检索，根据检索结果提取特征，计算各个区域的得分，并构建所属区域的得分特征向量。在此基础上，利用完整化规则对缺陷地理位置实体进行区域补全，最终实现地理位置实体完整性表示。实验结果表明，本文方法使缺陷地理位置实体完整化具有较高的精确率，同时验证了百度知道反馈特征与完整化规则对于缺陷地理位置实体完整性表示的有效性。由于百度知道是多用户参与的互动问答社区，下一步的工作可以对零地理位置实体进行分析，利用搜索引擎、地图等多种资源相结合的方式完整化该地理位置实体。还可以将回答者作为特征进行提取，并综合多方面特征确定完整化的规则。
+
+# 参考文献：
+
+[1]蔡华利，刘鲁，李红．基于规则推理的突发事件发生地点 识别研究[J].情报学报，2011，30(2):219-224.(Cai Huali, Liu Lu,Li Hong.Rule Reasoning-based Occurring Place Recognition for Unexpected Event [J]. Journal of the China Society for Scientific and Technical Information,2011,30(2): 219-224.)   
+[2]李丽双，黄德根，陈春荣，等．用支持向量机进行中文地 名识别的研究[J]．小型微型计算机系统，2005，26(8): 1416-1419.(Li Lishuang，Huang Degen,Chen Chunrong, et al.Research on Method of Automatic Recognition of Chinese Place Names Based on Support Vector Machines[J]. Journal of Chinese Computer Systems,2005,26(8):1416-1419.)   
+[3]唐旭日，陈小荷，许超，等．基于篇章的中文地名识别研 究[J].中文信息学报,2010,24(2):24-32.(Tang Xuri,Chen Xiaohe,Xu Chao,et al.Discourse-Based Chinese Location Name Recognition [J].Journal of Chinese Information Processing,2010,24(2):24-32.)   
+[4] 杜萍，刘勇．基于本体的中文地名识别[J]．西北师范大学 学报：自然科学版,2012,47(6):87-93.(Du Ping,Liu Yong. Recognition of Chinese Place Names Based on Ontology[J]. Journal of Northwest Normal University: Natural Science, 2011,47(6): 87-93.)   
+[5]李诺，张全．利用地名用字分析的中文地名识别处理[J]. 计算机工程与应用,2009,45(28):230-232.(Li Nuo,Zhang Quan. Chinese Place Name Identification with Chinese CharactersFeatures[J]. ComputerEngineeringand Applications,2009,45(28):230-232.)   
+[6]李丽双，党延忠，廖文平，等.CRF 与规则相结合的中文 地名识别[J]．大连理工大学学报,2012,52(2):285-289.(Li Lishuang,Dang Yanzhong,Liao Wenping,et al.Recognition of Chinese Location Names Based on CRF and Rules[J]. Journal of Dalian Universityof Technology,201,52(2): 285-289.)   
+[7]李丽双，黄德根，陈春荣，等．SVM 与规则相结合的中文 地名自动识别[J]．中文信息学报，2006,20(5):51-57.(Li Lishuang, Huang Degen, Chen Chunrong,et al. Identifying Chinese Place Names Based on Support Vector Machines and Rules [J]. Journal of Chinese Information Processing,2006, 20(5): 51-57.)   
+[8]黄德根，岳广玲，杨元生．基于统计的中文地名识别[J]. 中文信息学报，2003，17(2):36-41.(Huang Degen，Yue Guangling,Yang Yuansheng.Identification of Chinese Place Names Based on Statistics[J].Journal of Chinese Information Processing,2003,17(2): 36-41.)   
+[9]钱晶，张玥杰，张涛．基于最大熵的汉语人名地名识别方 法研究[J]．小型微型计算机系统，2006,27(9):1761-1765. (Qian Jing, Zhang Yuejie,Zhang Tao.Research on Chinese Person Name and Location Name Recognition Based on Maximum Entropy Model [J]. Journal of Chinese Computer Systems,2006,27(9): 1761-1765.)   
+[10]高燕，张维维，张艳红，等．最大熵模型在最长地点实体 识别中的应用[J]．广东石油化工学院学报，2012，22(4): 40-42.(Gao Yan， Zhang Weiwei， Zhang Yanhong，et al. Application of Maximum Entropy Model in the LLE Identification [J]. Journal of Guangdong University of Petrochemical Technology,2012,22(4): 40-42.)   
+[11]Li X W,Lv XQ,Liu K H. Automatic Recognition of Chinese Location Entity [A]. // Natural Language Processing and Chinese Computing [M]. Springer Berlin Heidelberg,2014: 379-391.   
+[12] Egenhofer M J. Toward the Semantic Geospatial Web[C]. In: Proceedings of the 10th ACM International Symposium on Advances in Geographic Information System. 2002.   
+[13]杜萍．基于本体的中国行政区划地名识别与抽取研究[D]. 兰州：兰州大学,2011.(Du Ping．Studyon the OntologyBased Extraction of the Names of Chinese Administrative Division [D].Lanzhou: Lanzhou University,2011.)   
+[14] McCurley K S.Geospatial Mapping and Navigation of the Web[C].In: Proceedingsof the1Oth International Conference on World Wide Web, Hong Kong, China. 2001: 221-229.   
+[15] Amitay E,Har'El N,Sivan R，et al. Web-a-Where: Geotagging Web Content [C].In: Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.2004: 273-280.   
+[16] Smith D A, Crane G. Disambiguating Geographic Names in a Historical Digital Library [A].// Research and Advanced Technology for Digital Libraries [M].Springer Berlin/ Heidelberg,2001:127-136.   
+[17]Overell S,Magalhaes J,Rüger S M.Place Disambiguation with Co-occurrence Models [C]. In: Proceedings of the 2006 Cross Language Evaluation Forum,Alicante,Spain.2006.   
+[18]Overell S E,Rüger S M.Using Co-occurrence Models for Placename Disambiguation [J]． International Journal of Geographical Information Science,2008,22(3):265-287.   
+[19]NLPIR 汉语分词系统[EB/OL].[2015-11-10].http://ictclas. nlpir.org/downloads.(NLPIR Chinese Word Segmentation System [EB/OL].[2015-11-10]. htp://ictclas.nlpir.org/downloads.)   
+[20]中国人知识搜索行为研究报告[R/OL].[2015-11-10].http:// cimg3.163.com/tech/school/other/chinasearch.pdf.(Report of Knowledge Search Behavior of Chinese User[R/OL].[2015- 11-10].http://cimg3.163.com/tech/school/other/chinasearch.pdf.)   
+[21]推荐答案[EB/OL].[2015-08-20].http://baike.baidu.com/view/ 5570775.htm.(Answer [EB/OL].[2015-08-20].http:/baike. baidu.com/view/5570775.htm.)   
+[22]李学伟，吕学强，董志安，等.利用URL-Key 进行查询分类 [J]．北京大学学报：自然科学版,2015,51(2):220-226.(Li Xuewei,Lv Xueqiang,Dong Zhian,et al.Query Classification by Using URL-Key [J].Acta Scientiarum Naturalium Universitatis Pekinensis,2015,51(2):220-226.)
+
+# 作者贡献声明：
+
+李淑琴，吕学强：提出研究命题，设计研究思路;  
+孙赫：设计研究方案，负责实验，分析数据，起草、撰写论文;  
+刘克会：论文修订。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:s_hehe@126.com。  
+[1]孙赫，李淑琴，吕学强.Loc_wbtext.被标注的地理位置实体的微博文本.  
+[2]孙赫，李淑琴，吕学强.Loc.txt.地理位置实体集合.  
+[3]孙赫，李淑琴，吕学强.NoLoc.txt.缺陷地理位置实体集合.[4]孙赫，李淑琴，吕学强.QA_NoLoc.rar.缺陷地理位置实体反馈数据.
+
+收稿日期:2015-09-22   
+收修改稿日期:2015-11-02
+
+# Retrieving Geographic Information for Micro-blog's City Complaints
+
+Sun He1,2Li Shuqin²Lv Xueqiang1,²Liu Kehui3,4   
+1(Beijing Key Laboratory of Internet Culture and Digital Dissemination Research, Beijing Information Science and Technology, Beijing 100101, China)   
+2(College of Computer,Beijing Information Science and Technology University,Beijing 100101, China) 3(School of Management and Economics Beijing Institute of Technology,Beijing 10081, China) 4(Beijing Research Center of Urban Systems Engineering, Beijing 100035, China)
+
+Abstract:[Objective]This study aims to utilize the knowledge sharingand constantly updating advantages of the Question Answering Community - Baidu Zhidao, which helps us reduce the cost of maintaining large geographical relationshipresource,and find the complete location information.[Methods]First,we changed the incomplete location information to the approximate area names retrieved from Baidu Zhidao.Second,extracted each area's features and calculated scores of related geographic entities.Finall,we constructed the feature vectors for the areas with those geographic entities,which help us identifythe geographic locations of these posts.[Results] The proposed method could retrieve accurate geographic information from $9 2 . 5 1 \%$ of City Complaints from the Micro-blog platform. [Limitations] Theproposed method could not analyze postswithout any geographic location information. [Conclusions] Our study found an effective and feasible way to locate the missing geographic information.
+
+Keywords: City complaints of Micro-blog Defect location entity Question Answering Community(QAC) Eigenvalue calculationIntegrity

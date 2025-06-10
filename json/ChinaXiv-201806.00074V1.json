@@ -1,0 +1,381 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201705311002 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王传杰,王齐齐,徐虎,高洪军,朱平,徐明岗,张文菊.长期施肥下农田土壤-有机质-微生物的碳氮磷化学计量学特征.生态学报,2018,38（11)：3848-3858.WangCJWang,Xu,GJ,Zu,uG,Zagarborogdsphoustoorhceristioflklcmater，andsoilmicrobialbiomassunderlong-termfertilizationincropland.ActaEcologica Sinica,2018,38(11)848-858.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "长期施肥下农田土壤-有机质-微生物的碳氮磷化学计量学特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王传杰}，王齐齐¹，徐虎}，高洪军²，朱平²，徐明岗'，张文菊¹，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国农业科学院农业资源与农业区划研究所/耕地培育技术国家工程实验室,北京100081  \n2吉林省农业科学院农业环境与资源中心，长春130033",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：探讨外源养分的输人对土壤系统内碳、氮、磷化学计量特征的影响,对于深刻认识农田土壤有机碳(C)和养分循环及其相互作用过程具有重要意义。以26年的农田长期定位施肥试验为平台,分析长期不同施肥条件下土壤、有机态及微生物生物量碳、氮、磷含量及其化学计量学特征,并根据内稳性模型 $\\boldsymbol { y } ~ = ~ \\boldsymbol { c } ~ \\boldsymbol { x } ^ { 1 / H }$ 计算其化学计量内稳性指数 $\\tilde { \\mathcal { H } } _ { \\circ }$ 结果表明：与长期畧荒处理（ $\\mathrm { C K } _ { 0 }$ )相比,种植作物条件下26年化肥配施有机肥处理(MNPK和1.5MNPK)显著降低微生物生物量氮含量,但显著提高了微生物生物量磷的含量。相对于擢荒处理,即使长期配施化肥磷处理(NP、PK、NPK)，其土壤有机磷降低显著。对于 $\\mathbf { C } : \\mathbf { N }$ 比而言,化肥配施有机物料处理(秸秆或有机肥)的土壤 $\\mathrm { C } : \\mathrm { N }$ 比、有机质C:N 及微生物生物量C:N 比均显著低于化肥处理（N、NP、PK和NPK)。对于 $\\mathrm { C } : \\mathrm { P }$ 比而言,相对于荒处理,26年施用磷肥(化肥磷或有机磷)显著降低了土壤 $\\mathrm { C } : \\mathrm { P }$ 比和微生物生物量C:P比,而CK 和偏施化肥处理(N、NP 和PK)显著降低了土壤有机质C:P比。对于土壤N:P 比而言,荒处理土壤 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比显著高于其他处理,而擢荒处理土壤有机质 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比显著高于CK 和化肥处理,表明不施肥或化肥条件下作物种植加剧了土壤有机质中氮素的消耗。微生物生物量 $\\mathrm { C : N , C : P , N : P }$ 比的内稳性指数 $H$ 分别为0.24、0.75、0.64,不具有内稳性特征。微生物生物量$\\mathrm { C : N , C : P , N : P }$ 比分别与土壤 $\\mathrm { C : N , C : P , N : P }$ 比呈显著正相关关系,但与土壤有机质碳氮磷化学计量比之间无显著相关性。表明土壤碳、氮、磷元素的改变会直接导致微生物生物量碳、氮、磷化学计量比的改变,但微生物生物量碳氮磷化学计量比对土壤有机质碳氮磷化学计量比无显著影响,土壤有机质的碳氮磷计量比可能更多是受到作物和施肥等养分管理措施的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：化学计量学;长期施肥;黑土；土壤有机质；微生物生物量;内稳性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carbon， nitrogen，and phosphorus stoichiometry characteristics of bulk soil,organic matter， and soil microbial biomass under long-term fertilization incropland",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Chuanjie'，WANG Qiqi' , XU $\\mathrm { H u } ^ { 1 }$ ，GAO Hongjun², ZHU Ping²，XU Minggang'， ZHANG Wenju1,\\* 1InstituteofAgricultural Resources and RegionalPlanning，ChineseAcademyof Agricultural Sciences，Beijing 1081,China 2TheCenterofAgricultureEnvironmentandResources，JilinAcademyofAgricultural Sciences，Changchun13O033，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Investigating the impact of exogenous input of nutrients onthe stoichiometricratioof carbon（C），nitrogen（N）, and phosphorus（P）inarablesoil isof significanceforbeterunderstandingof thecycling and interactionof Cand Nin agroecosystems.Basedona26-years fertilization experimentinacropland，weanalyzedcontentand stoichiometricratioof C，N,andPinbulksoil，soilorganicmater，and microbial biomassunder various fertilizationtreatments.Theregulation coefficient, $H$ was calculated according to the model $y = c \\ x ^ { 1 / H }$ ，where $y$ is consumer stoichiometry, $x$ isresource stoichiometry，c is a constant and $H$ is regulation coefcient.Results showed that，compared with fallow （ $\\mathrm { C K } _ { 0 }$ ），soil microbial biomassnitrogenunder the manure treatments（MNPKand1.5MNPK）with cropping，significantly decreased, but soil microbial biomass phosphorus was significantly increased ( $\\begin{array} { r } { P < 0 . 0 5 \\} . } \\end{array}$ ).Long-term application of chemical fertilizers significantly decreased organic P. The $\\mathbf { C } : \\mathbf { N }$ ratio in bulk soil，soil organic matter，and soil microbial biomass under treatments with organic amendments（maize straw andlivestock manure）was significantlylower than thatof the chemical fertilization treatments（N，NP,PK，and NPK).Compared with $\\mathrm { C K } _ { 0 }$ treatment，application of $\\mathrm { \\Delta P }$ (chemical P fertilizer or organic amendments） significantly reduced $\\mathrm { C } : \\mathrm { P }$ ratio in bulk soil and soil microbial biomass，but no fertilization（CK）and unbalanced fertilization treatments（N，NP，and PK）significantly decreased $\\mathrm { C } : \\mathrm { P }$ ratio of soil organic matter. The N :P ratio under $\\mathrm { C K } _ { 0 }$ treatment was the highest of all treatments.Moreover, $\\mathrm { N } : \\mathrm { P }$ ratio of soil organic matter under $\\mathrm { C K } _ { \\mathfrak { g } }$ treatment was higher thanthatof theCKand thechemical fertilization treatments，indicatingthe Ndepletion insoilorganic mater under CK and chemical fertilization treatments. The homeostatic regulation coefficient $H$ of C :N, C :P, N :P was 0.24, 0.75，0.64，espectively，indicatingnostoichiometric homeostaticcharacteristic.There were significantpositivecoelations of $\\mathrm { C : N , \\ C : P }$ ，and $\\mathrm { N } : \\mathrm { P }$ ratios between bulk soil and soil microbial biomass. However,there was no significant relationship of $\\mathrm { C : N , C : P }$ ,and $\\mathrm { N } : \\mathrm { P }$ ratios between soil organic matter and soil microbial biomass.Our results indicated that change in soil carbon，nitrogen，andphosphoruscandirectlyaffect thestoichiometricratioinsoil microbial biomass.The stoichiometricratioof soil organic mater might be influenced bycroppngand nutrients management practices，other than the stoichiometric ratio in soil microbial biomass. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:stoichiometry；long-term fertilization；black soil；soil organic mater；microbial biomass；homeostasis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在农田生态系统中,土壤有机质（包含有机碳,Soil Organic Carbon，SOC；有机氮,Soil Organic Nitrogen,SON；有机磷,Soil Organic Phosphorus，SOP)的循环不仅是生物地球化学循环最基本的过程,也是衡量土壤肥力的重要指标[1]。而土壤微生物是土壤有机质和养分循环转化的驱动者,参与土壤有机质分解和腐殖质形成以及氮磷养分转化的相关过程,并调控土壤中能量平衡与各种酶活性[2]。而且在全球变化加剧背景下,这些过程之间也存在着极其复杂的相互作用关系。因此,越来越多的研究者运用生态化学计量学的方法来研究和评估碳氮磷在土壤、有机质及微生物中的循环特征及其相互作用关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态化学计量学是一门研究生态系统能量平衡和多种化学元素(主要是C、N、P)平衡等对生态交互作用的科学[3-5],是研究碳、氮、磷元素在土壤、有机质和微生物间的相互作用关系的一种综合分析手段。大数据整合分析表明全球范围内土壤 $\\mathrm { C } : \\mathrm { N } : \\mathrm { P }$ 比约为186:13:1到 287:17:1之间[6-7]。Tian等[8]发现我国土壤 $\\mathrm { C } : \\mathrm { N } : \\mathrm { P }$ 比值约为60:5:1,有机土壤表层 $( 0 { - } 1 0 \\ \\mathrm { c m } ) \\mathrm { C } : \\mathrm { N } : \\mathrm { P }$ 比为134:9:1。许泉等[9]发现我国农田土壤 $\\mathbf { C } : \\mathbf { N }$ 比在7—13 之间。通常情况下,土壤腐殖质 $\\mathrm { C } : \\mathrm { N } : \\mathrm { P }$ 比相对稳定,全球平均值在 $1 0 0 0 0 \\colon 8 3 3 \\colon 2 0 0$ 左右[10]。消费者驱动营养物质循环理论认为有机体在摄取营养物质满足自身需求的同时,又促进了营养物质的生态循环[1-12]因此,土壤碳氮磷和微生物生物量碳氮磷内部之间存在显著( $P { < } 0 . 0 5 )$ 正相关关系[6,13]。不同研究表明全球范围内微生物生物量的 $\\mathrm { C : N : P }$ 比分别为 $6 0 { : } 7 { : } 1 ^ { [ 6 ] }$ 或 $4 2 { : } 6 { : } 1 ^ { [ 7 ] }$ ,Li等研究表明我国南方农田土壤微生物生物量C：C:P 比为 70.2:6:1[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内稳性是指生物体在变化的营养环境中(包括食物)保持其自身化学元素组成恒定的能力[14],它是生态化学计量学存在的前提[3]。 $\\mathrm { X u }$ 等[15]对全球土壤和微生物生物量碳、氮、磷进行大数据分析发现,与草地、森林等自然生态系统相比,农田土壤微生物生物量的内稳性最弱。农田生态系统中,不同施肥条件下由于养分投入状况的差异,会对土壤微生物造成不同程度的养分限制[4],影响土壤微生物群落结构及酶活性,对有机碳和养分(N和P)在土壤、有机质、微生物连续体之间的循环也会产生不确定的影响，进而影响土壤生态系统的结构与功能[16-22]。为了深人了解养分输人对农田土壤碳、氮、磷化学计量学特征的影响,本研究依托农田长期定位施肥试验,分析长期不同施肥条件下土壤、有机质、微生物生物量碳氮磷含量特征及其化学计量比,揭示其关键的内在关系,为农田养分调控和土壤可持续利用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 样地概况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究土壤样品采自试验地位于吉林省农业科学院的黑土长期施肥试验基地( $1 2 4 ^ { \\circ } 4 8 ^ { \\prime } 3 3 . 9 ^ { \\prime \\prime } \\mathrm { ~ I ~ }$ ，43°30'$2 3 ^ { \\prime \\prime } \\mathrm { ~ N ~ }$ )。该试验地处温带半湿润区，海拔 $2 2 0 \\mathrm { ~ m ~ }$ ,年平均气温4- $- 5 \\mathrm { { ~ ‰ ~ } }$ ,无霜期125—140d,有效积温 2600$3 0 0 0 ~ \\mathrm { { ^ { \\circ } C } }$ ,年降水量 $4 5 0 { \\mathrm { - } } 6 0 0 \\ \\mathrm { m m }$ ,年蒸发量1200— $1 6 0 0 ~ \\mathrm { { m m } }$ ,年日照时数2500— $2 7 0 0 \\mathrm { ~ h ~ }$ 。试验地为中层黑土，成土母质为第四纪黄土状沉积物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该长期定位施肥试验始于1990年,初始耕层基本性质：有机质 $2 2 . 8 ~ \\mathrm { g / k g }$ ，全氮 $1 . 4 0 ~ \\mathrm { g / k g }$ ，全磷 $\\mathrm { ( P } _ { 2 } \\boldsymbol { 0 } _ { 5 } \\mathrm { ) }$ $1 . 3 9 ~ \\mathrm { g / k g }$ ,全钾 $( \\mathrm { ~ K _ { 2 } O ~ } ) 2 2 . 1 \\ \\mathrm { g / k g }$ ,碱解氮 $1 1 4 \\ \\mathrm { m g / k g }$ ,速效磷 $( \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } ) 2 7 ~ \\mathrm { m g / k g }$ ,速效钾 $( \\mathrm { ~ K _ { 2 } O } ) / 9 0 , \\mathrm { m g / k g , p H }$ 值7.6。一年一熟玉米连作,常规耕作。本研究选取以下9个处理:(1)擢荒(不耕作、不施肥 $, \\mathrm { C K } _ { 0 }$ )；(2)不施肥(CK);(3)氮(N);(4)氮磷(NP);(5)磷钾(PK)；(6)氮磷钾(NPK);(7)低量氮磷钾 $^ +$ 低量有机肥，与处理(6)等氮量施肥(MNPK）;（8)1.5倍处理(7)的施肥量(1.5MNPK）;（9)低量氮磷钾 $^ +$ 秸秆还田（SNPK）。小区面积 $4 0 0 \\ \\mathrm { m } ^ { 2 }$ ,详见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/73aac3394a6970957c6e9685e6fa783fabec5ffac0247db7d3ee948662ddc6a6.jpg",
+        "table_caption": [
+            "表1不同处理的施肥量/ $\\langle { \\bf k g } / { \\bf h m } ^ { 2 }$ ",
+            "Table 1Amount of applied fertilizer of various fertilization treatments "
+        ],
+        "table_footnote": [
+            "$\\mathrm { C K } _ { 0 }$ :荒,fallow；CK不施肥,ofertiatin；N:化学氮肥,chemicalnitrogenfertier；NP:化学氮磷肥,cemicalnitrogenandosphorus fetilizer；化肥ldasrt肥alospsdl SNPK:化肥配施秆,chemcalfertizendmaizestra；MNPK化肥配施有机肥,chemcalferilizeradlvestockmanure；1.5MNPK:1.5倍量化肥 配施有机肥,1.5 times as amount as MNPK "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"2\">氮肥Nitrogen fertilizer</td><td rowspan=\"2\">磷肥P2O5 Phosphate fertilizer</td><td rowspan=\"2\">钾肥KO Potassium fertilizer</td></tr><tr><td>化肥氮 Chemical nitrogen fertilizer</td><td>有机氮 Organic nitrogen fertilizer</td></tr><tr><td>CK0</td><td></td><td>生物量全部归还</td><td>生物量全部归还</td><td>生物量全部归还</td></tr><tr><td>CK</td><td>0 0</td><td></td><td>0</td><td>0</td></tr><tr><td>N</td><td>165</td><td>0</td><td>0</td><td>0</td></tr><tr><td>NP</td><td>165</td><td>0</td><td>82.5</td><td>0</td></tr><tr><td>PK</td><td>0</td><td>0</td><td>82.5</td><td>0</td></tr><tr><td>NPK</td><td>165</td><td>0</td><td>82.5</td><td>82.5</td></tr><tr><td>SNPK</td><td>112</td><td>53</td><td>82.5</td><td>82.5</td></tr><tr><td>MNPK</td><td>50</td><td>115</td><td>82.5</td><td>82.5</td></tr><tr><td>1.5MNPK</td><td>75</td><td>172.5</td><td>123.7</td><td>123.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤样品采集与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "，于2016 年玉米收获后,采集所选处理0— $2 0 ~ \\mathrm { c m }$ 的土壤样品。每个处理小区用土钻进行取样,多点混合均匀后作为一个样品,采回的土壤样品一部分风干后研磨过 $0 . 2 5 ~ \\mathrm { m m }$ 和 $0 . 1 5 ~ \\mathrm { m m }$ 筛,分别用于土壤和有机质碳氮磷含量的测定,另一部分新鲜土样于 $4 \\mathrm { { ^ \\circ C } }$ 冰箱中冷藏保存,用于土壤微生物生物量碳氮磷的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "王壤有机碳(SOC)采用硫酸-重铬酸钾氧化容量法测定;全氮(TN)采用浓硫酸消煮-凯氏定氮法测定;全磷(TP)采用氢氧化钠熔融-钼锑抗比色法测定。土壤有机氮(SON)和有机磷(SOP)的测定：过 $0 . 1 5 ~ \\mathrm { m m }$ 筛的风干土样，以水土比5:1 $( 0 . 1 \\mathrm { \\ m o l / L \\mathrm { \\ H } ( }$ I)进行酸洗(去除无机氮)。用涡旋混匀器(HYQ-3110)充分混匀，于超声波清洗器(KQ3200DA型)中超声震荡 $1 0 ~ \\mathrm { m i n }$ ,然后离心 $5 \\ \\operatorname* { m i n } \\left( 8 0 0 0 \\ \\mathrm { r / m i n } \\right)$ ,重复6—7次，最后用蒸馏水(水土比5:1)离心( $8 0 0 0 ~ \\mathrm { r / m i n }$ )2—3次,烘干离心后的土样,研磨过 $0 . 1 5 ~ \\mathrm { m m }$ 筛[23]。对酸洗后的土样进行碳、氮测定,方法同上;对未酸洗的土样采用灼烧一 $- 0 . 2 \\mathrm { ~ N ~ H } _ { 2 } \\mathrm { S O } _ { 4 }$ 浸提法进行有机磷测定[24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物生物量碳(SMBC）、氮(SMBN)采用氯仿熏蒸-容量分析法[25]：熏蒸结束后将土壤无损转移至塑料瓶中,加入 $4 0 \\mathrm { \\ m L 0 . 5 \\ m o l / L \\ K _ { 2 } S O _ { 4 } }$ 溶液（水土比4:1),振荡 $3 0 ~ \\mathrm { m i n }$ 后过滤,吸取滤液用 $\\mathrm { M u l t i ~ N : C } ~ 3 1 0 0$ 分析仪测定其碳、氮含量,同时用烘干法测定土壤含水量,熏蒸与未熏蒸土壤样品的微生物生物量碳、氮差值即为所测土壤的微生物生物量碳、氮值。土壤微生物生物量磷(SMBP)采用氯仿熏蒸、 $0 . 5 \\mathrm { \\ m o l / L }$ 的 ${ \\mathrm { N a H C O } } _ { 3 }$ 在1:20土水比提取测定无机磷,并以同时测得微生物生物量磷回收率的方法进行测定[26]。 2",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤、有机质及微生物生物量的碳氮磷化学计量比均采用元素质量比进行计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内稳性指数(Regulation coefficient)采用 Sterner等[3]推导出的内稳性模型 $y = c x ^ { 1 / H }$ 计算。其中 $, \\boldsymbol { \\dot { y } }$ 代表生物体化学元素浓度或比值， $x$ 代表营养物质的元素浓度或者比值,c为常数， $H$ 代表内稳性指数。若 $H = 1$ 表明生物体完全没有保持其自身化学元素组成稳定的控制能力,完全随环境变化,即“You are what you eat\"模型（即 $y = x , c = 1 ,$ ；若 $H { < } 1$ ,表明生物体不具有保持其自身化学元素组成相对稳定的控制能力,随环境变化呈部分比例变化,即“Constant Proportional\"模型;若 $H > 1$ ,表明生物体具有保持其自身化学元素组成相对稳定的控制能力,同时受环境的影响; $H$ 越大表明这种控制能力越强，当 $H$ 无穷大时，表明生物体自身的元素组成不受环境的影响,具有绝对的内稳性,即“Strict Homeostasis”模型（即 $y = c , c \\ > \\ 0$ )[3,27-28]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS Statistics19.0 进行数据分析和 SigmaPlot 10.0 软件进行绘图,不同施肥处理用 One-WayANOVA方法进行差异显著性检验( $\\scriptstyle P < 0 . 0 5 { \\mathrm { ~ , ~ } }$ ）,相关分析采用Person 相关法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1长期不同施肥处理后黑土碳氮磷含量和微生物生物量特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "26 年化肥配施有机肥处理(MNPK和1.5MNPK)土壤有机碳含量显著高于畧荒( $\\mathrm { C K } _ { 0 }$ ）、不施肥(CK)等其他处理( $\\scriptstyle P < 0 . 0 5$ ,下同)。荒处理有机碳含量( $2 0 . 8 9 ~ \\mathrm { g / k g } )$ 显著高于秸秆还田（SNPK)和化肥处理( $_ { \\mathrm { ~ \\tiny ~ N ~ , ~ N P ~ } }$ 、PK 和 NPK）,表明作物种植与收获加剧了有机碳的消耗,而CK 处理有机碳含量最低,为 $1 4 . 0 0 ~ \\mathrm { g / k g }$ （图1a）。不同施肥处理土壤全氮与有机碳含量呈现相似的规律,但 SNPK 处理由于有机氮素的补充,全氮含量显著高于CK 和化肥处理,但显著低于擢荒处理(图 1b)。由于磷素不参与大气循环,土壤全磷含量随着磷投入量的增加而增加,磷投入量相当的化肥处理(NP、PK 和 NPK)和 SNPK 处理全磷含量无显著差异( $\\mathrm { ~ ( 0 . 8 7 - 0 . 9 7 ~ g / }$ $\\mathbf { k g } )$ 。擢荒和无磷肥处理(CK 和N)全磷含量最低,且处理间无显著差异 $( 0 . 5 6 - 0 . 6 4 ~ \\mathrm { g / k g } )$ （图1c）。化肥配施有机肥处理土壤有机磷含量显著高于其他处理,擢荒处理有机磷含量 $( 0 . 2 2 \\ \\mathrm { g / k g } )$ 显著高于化肥处理,表明即使有化肥磷的补充,作物种植也加剧了有机磷的消耗。CK、N、PK、NPK 和 SNPK 处理有机磷含量无显著差异(0.17—0.19g/kg)（图1d)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "就土壤微生物生物量而言,长期化肥配施有机物料(秸秆或有机肥)和擢荒处理土壤微生物生物量碳、氮含量 $( 4 2 8 . 2 8 - 6 2 0 . 2 6 ~ \\mathrm { m g / k g }$ 和 $6 8 . 0 8 \\mathrm { - } 9 3 . 8 0 ~ \\mathrm { m g / k g } )$ 显著高于其他种植作物的处理。相对于畧荒处理的微生物生物量氮含量( $\\mathrm { 9 3 . 8 0 ~ m g / k g }$ ）,有机无机配施显著降低了微生物生物量氮含量,且不同物料（秸秆或有机肥)和施用量(MNPK和1.5MNPK)间差异显著,表明即使存在有机氮的输人,长期作物种植仍显著降低了微生物生物量氮的水平(图2a，2b)。化肥配施有机肥处理土壤微生物生物量磷含量显著高于嚣荒等其他处理,而荒处理微生物生物量磷含量( $2 9 . 6 9 ~ \\mathrm { m g / k g } \\rangle$ )显著高于CK、化肥及SNPK处理。化肥磷投入（NP、PK和 NPK)和 SNPK 处理微生物生物量磷含量显著高于无磷肥投入的处理（图2c）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2长期不同施肥处理后黑土土壤、有机质和微生物生物量碳氮磷化学计量比特征",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "长期化肥配施有机物料处理的土壤 $\\mathrm { C } : \\mathrm { N }$ 比与擢荒、不施肥处理均无显著差异（10.56—10.89），其显著低于化肥处理(N、NP、PK和NPK)（11.42—12.39）,且化肥处理间无显著差异（图3a）。化肥配施有机物料处理有机质 $\\mathbf { C } : \\mathrm { N }$ 比与嚣荒处理无显著差异（10.72—11.27）,但显著低于不施肥和化肥处理（11.40—12.41）（图3b)。擦荒、不施肥和化肥配施中量有机肥处理(MNPK)微生物生物量C:N比无显著差异(6.29—6.84）,但化$\\mathrm { C K } _ { 0 }$ :摆荒,fallow；CK：不施肥,nofrtilization；N:化学氮肥,chemicalnitrogenfrtilizer；NP:化学氮磷肥,chemicalntrogenandposphousfertilizer；PK:化学磷钾肥,emicalposphosndpotassiumfertle；NPK化学氮磷肥,chemicalitrogn，pospousndasimferilizer;；SNPK化肥配施,chmicalertilizeandmizetra；MNPK：化肥配施有肥,cicalertlendlvestockmaure.MPK：1.5 倍量化肥配施有机肥,1.5 times as amount as MNPK.不同字母表示不同处理间在 $5 \\%$ 水平差异显著( $\\scriptstyle P < 0 . 0 5 .$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0ad0765e20887e27d7b733450c8d0f5533bd46ce96321701e392b702ff4a336.jpg",
+        "img_caption": [
+            "图1不同施肥处理26年后土壤有机碳、全氮、全磷、有机磷含量差异",
+            "Fig. 1 Thecontent of soil organiccarbon，total nitrogen，total phosphorusand organic phosphorusafter 26years of various fertilization treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "肥的施用(N、NP、PK 和NPK)将微生物生物量 $\\mathrm { C } : \\mathrm { N }$ 比显著提高到10.30—13.56。另外,不同物料和施用量（SNPK、MNPK和1.5MNPK)间微生物生物量C:N比差异显著（图3c）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "长期不同施肥条件下土壤C:P 比随着磷投入量的增加而降低,荒处理土壤C:P 比(32.95)显著高于其他处理。磷投人量相当的化肥处理和 SNPK 处理间土壤C:P 比无显著差异(17.09—18.26),且显著低于无磷肥投入的处理,显著高于化肥配施有机肥处理（图3d）。相对于荒处理的土壤有机质C:P比(94.05）,NPK、SNPK 和MNPK处理对有机质C:P比无显著影响,但CK 和偏施化肥处理(N、NP和PK)导致有机质C:P 比显著降低 $( 7 8 . 5 3 - 8 4 . 2 9 )$ 。而高量有机肥处理(1.5MNPK)由于磷用量的增加,导致有机质C:P 比显著低于畧荒处理(图3e）。相较于畧荒或CK处理的土壤微生物生物量 $\\mathrm { C } : \\mathrm { P }$ 比（20.89或21.59），除 SNPK处理外，化肥磷处理和化肥配施有机肥处理均显著降低了微生物生物量 $\\mathrm { C } : \\mathrm { P }$ 比。而化肥氮处理则显著提高了微生物生物量C:P 比。另外,NP 和 NPK 处理间微生物生物量C:P 比无显著性差异,但显著低于PK 处理(图 3f)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "长期不同施肥条件下土壤 $_ { \\textrm { N } , \\textrm { P } }$ 养分投入状况不同,导致土壤 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比发生变化。嚣荒处理土壤 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比(3.06)显著高于其他处理。氮投入量相当的化肥处理(NP 和NPK)和SNPK处理间土壤 $\\mathrm { N } : \\mathrm { P }$ 比无显著差异（1.51—1.64）,且显著低于无磷肥投入的处理,显著高于化肥配施有机肥处理（图 $3 \\mathrm { g }$ )。擢荒处理土壤有机质${ \\mathrm { N } } : { \\mathrm { P } } $ 比(8.38)和秸秆还田处理(8.41)相当,但显著高于CK 和化肥处理(图3h)。相对于畧荒处理的土壤微生物生物量 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比(3.16),无磷肥投入的处理并没有显著改变微生物生物量 $\\mathrm { N } : \\mathrm { P }$ 比,但化肥磷和MNPK处",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc7952715840a70a040ad56d58f7356d953120bc674af8ae35a2a6a3b6c00a0c.jpg",
+        "img_caption": [
+            "图2不同施肥处理26年后土壤微生物生物量碳、氮、磷含量"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Thecontentofcarbon,nitrogeand phosphorus inmicrobialbiomassafter26yearsofvarious fertilizationconditions理显著降低了微生物生物量N:P比,且处理间无显著差异(0.74—1.22)（图3i)。同时,长期秸秆还田处理显著升高了微生物生物量N:P 比。 A",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3长期施肥后土壤微生物生物量的内稳性特征",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "长期不同施肥处理下养分投入状况的差异，会对土壤微生物的养分供应造成不同程度的影响，从而影响了微生物生物量碳氮磷的化学计量比。图4结果表明，土壤微生物生物量 $\\mathrm { C : N , C : P }$ 和C:P比的内稳性指数$H$ 分别为0.24、0.75 和0.64,均小于1,其不具有内稳性特征,符合“Constant Proportional\"模型。表明随着土壤营养环境的改变,微生物生物量碳氮磷化学计量比呈部分比例变化,当土壤 $\\mathrm { C : N , C : P }$ 和 $\\mathrm { N } : \\mathrm { P }$ 比增加一个单位时,微生物生物量C:N、C:P和N:P 比分别平均增加3.11、1.05 和1.51个单位。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4长期施肥后土壤、有机质、微生物生物量碳氮磷化学计量比的关系",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "就单个元素而言,土壤、有机质、微生物生物量单个组分内部的碳氮磷含量两两之间均存在显著正相关关系。对于不同元素之间,除TP与 SMBC、SMBN和 SOP与 SMBN无显著相关关系外,其他指标之间均存在显著正相关关系(表2）。对于其化学计量比之间,土壤 $\\mathrm { C : N \\_ C : P \\_ N : P }$ 比分别与微生物生物量 $\\mathrm { C } : \\mathrm { N } \\ 、 \\mathrm { C } : \\mathrm { P } \\ 、 \\mathrm { N } : \\mathrm { P }$ 比之间呈显著正相关关系。土壤C：N比和有机质 $\\mathbf { C } : \\mathrm { N }$ 比呈显著正相关关系,但土壤 $\\operatorname { C } : \\operatorname { P } \\ 、 \\operatorname { C } : \\operatorname { P }$ 比和有机质C:P.C:P 比之间均无显著相关性。土壤微生物生物量碳氮磷与有机质碳氮磷化学计量比之间无显著相关性（表3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示，长期化肥处理土壤 $\\mathbf { C } : \\mathbf { N }$ 比显著高于擢荒和化肥配施有机物料处理。因为施用化肥提高了作物产量,加速了作物对土壤氮的耗竭,且无外源有机氮补充,使得土壤 $\\mathbf { C } : \\mathbf { N }$ 比升高(图3a）。而有机物料的投入为土壤带来了大量的有机氮源[29」,同时满足了微生物对氮素的需求,促进了土壤氮素的积累,从而示在 $\\scriptstyle P < 0 . 0 5$ 水平上显著相关, $* *$ 表示在 ${ P { < } 0 . 0 1 }$ 水平上显著相关；实线代表幂函数关系，虚线代表线性相关关系； $H$ 代表内稳性指降低了土壤和有机质的C:N比[30]。施用化肥和化肥配施有机物料对微生物生物量 $\\mathrm { C } : \\mathrm { N }$ 比造成不同程度的显著影响,且秸秆还田与化肥配施有机肥处理(MNPK和1.5MNPK)间微生物生物量 $\\mathbf { C } : \\mathbf { N }$ 比存在显著差异,表明土壤营养环境的改变、有机物料的性质和施用量对微生物的群落结构有显著影响（图3c）。有研究表明，在营养物质缺乏的土壤中主导群落为真菌(C:N比约为10）,在肥沃的土壤中细菌( $\\mathbf { C } : \\mathbf { N }$ 比约为4)占主导优势[31-33],本研究结果中不同施肥条件下土壤微生物生物量 $\\mathbf { C } : \\mathbf { N }$ 的差异也说明了养分的输入对微生物群落结构造成的影响会对土壤有机碳的周转及其机制产生重要影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a147603e8ba6b2dce5b4fd7a3d1cb234880bb316b4fe363c8a23352f2b0a0931.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2147a328691728d5478e35695ccb5c79fa566f17603360cb548c36cbee13c87.jpg",
+        "img_caption": [
+            "图4长期施肥处理26年后土壤微生物生物量碳氮磷化学计量比的内稳性特征",
+            "Fig.4The homeostatic regulationcoeficient of microbial biomass after26 years of various fertilization treatments "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/24710cccf0240846510218c00d2f53d91225b7caf83daeb0fbfcce94a30add7f.jpg",
+        "table_caption": [
+            "表2长期不同施肥处理26年后土壤、有机质、微生物生物量碳氮磷含量的相关关系",
+            "Table 2Thelinearrelationshipamongcarbon，nitrogen，phosphorus inbulksoil，soilorganic mater，andmicrobialbiomasafter6 years of various fertilization conditions N "
+        ],
+        "table_footnote": [
+            "SOC:土壤有机碳,soilorganicarbon；TN（N）:土壤全氮,total ntrogen；TP（P)：土壤全磷,totalphosphorus；SON:土壤有机氮,soiloganicnitrogen；SOP:土壤有机磷,soilorganic phosphorus；SMBC:土壤微生物生物量碳,soil microbialbiomasscarbon；SMBN：土壤微生物生物量氮,soilmicrobial biomass nitrogen； SMBP:土壤微生物生物量磷,soil microbial biomass phosphorus. $\\ast$ 表示在 $\\scriptstyle P < 0 . 0 5$ 水平上显著相关，\\*\\*表示在 $P { < } 0 . 0 1$ 水平上显著相关"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>有机碳 全氮 TN</td><td>全磷</td><td>有机碳</td><td>有机氮</td><td>有机磷</td><td>微生物 生物量碳</td><td>微生物 生物量氮</td><td>微生物 生物量磷</td></tr><tr><td>Indicators</td><td>SOC 1.000 0.993 **</td><td>TP 0.912 **</td><td>SOC</td><td>SON</td><td>SOP</td><td>SMBC</td><td>SMBN</td><td>SMBP</td></tr><tr><td>有机碳 SOC</td><td></td><td>0.893**</td><td>1.000 ** 0.996 **</td><td>0.991** 0.999 **</td><td>0.967 ** 0.950 **</td><td>0.780 ** 0.819 **</td><td>0.666 * 0.727 *</td><td>0.819 ** 0.825 **</td></tr><tr><td>全氮TN 全磷TP</td><td>1.000</td><td>1.000</td><td>0.904**</td><td>0.900 **</td><td>0.901**</td><td>0.570</td><td>0.454</td><td>0.812 **</td></tr><tr><td>有机碳 SOC</td><td></td><td></td><td>1.000</td><td>0.991**</td><td>0.967 **</td><td>0.780**</td><td>0.666 *</td><td>0.819 **</td></tr><tr><td>有机氮 SON</td><td></td><td></td><td></td><td>1.000</td><td>0.945 **</td><td>0.823**</td><td>0.732 *</td><td>0.834**</td></tr><tr><td>有机磷 SOP</td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.636 *</td><td>0.525</td><td>0.670 *</td></tr><tr><td>微生物生物量碳 SMBC</td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.972**</td><td>0.774 **</td></tr><tr><td>微生物生物量氮 SMBN</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.676 *</td></tr><tr><td>微生物生物量磷 SMBP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/30c883c116131758e4d1d5d7016e7c4dba2953cb082a0432016ae776f5b9be79.jpg",
+        "table_caption": [
+            "表3长期施肥26年后土壤、有机质、微生物生物量碳氮磷化学计量比的相关关系",
+            "Table 3The stoichiometricelatioshipmongcabon,trogen，posporusinsoil，soilorganic materandmcobialbomassafter6ea of various fertilization conditions 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"></td><td rowspan=\"2\">有机质</td><td rowspan=\"2\">有机质 碳磷比</td><td rowspan=\"2\">有机质 氮磷比</td><td rowspan=\"2\">微生物生物 微生物生物 量碳氮比 量碳磷比</td><td rowspan=\"2\"></td><td rowspan=\"2\">微生物生物 量氮磷比</td></tr><tr><td>比例 Ratio</td><td>C:N</td><td>土壤碳氮比土壤碳磷比 C:P</td><td>土壤氮磷比 碳氮比</td></tr><tr><td></td><td></td><td></td><td>N: P</td><td>SOC:SON</td><td>SOC:SOP</td><td>SON :SOP</td><td>SMBC:SMBN SMBC:SMBP</td><td></td><td>SMBN:SMBP</td></tr><tr><td>土壤碳氮比C：N</td><td>1.000</td><td>-0.064</td><td>-0.211</td><td>0.815 **</td><td>-0.477</td><td>-0.699 *</td><td>0.737 *</td><td>-0.028</td><td>-0.389</td></tr><tr><td>土壤碳磷比C：P</td><td></td><td>1.000</td><td>0.988 **</td><td>0.148</td><td>0.006</td><td>-0.064</td><td>-0.150</td><td>0.650 *</td><td>0.644 *</td></tr><tr><td>土壤氮磷比N:P</td><td></td><td></td><td>1.000</td><td>0.028</td><td>0.090</td><td>0.048</td><td>-0.265</td><td>0.621</td><td>0.679 *</td></tr><tr><td>有机质碳氮比 SOC：SON</td><td></td><td></td><td></td><td>1.000</td><td>-0.414</td><td>-0.723 *</td><td>0.522</td><td>-0.112</td><td>-0.327</td></tr><tr><td>有机质碳磷比 SOC：SOP</td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.928 ** 1.000</td><td>-0.361 -0.496</td><td>-0.331 -0.205</td><td>-0.084 0.073</td></tr><tr><td>有机质氮磷比 SON：SOP 微生物生物量碳氮比</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SMBC:SMBN 微生物生物量碳磷比</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>-0.082</td><td>-0.515</td></tr><tr><td>SMBC:SMBP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.858 **</td></tr><tr><td>微生物生物量氮磷比 SMBN :SMBP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤C:P比较 $\\mathrm { C } : \\mathrm { N }$ 比变异性大，且随着磷投人量的增加而降低。原因在于，一方面,磷元素不仅主要源于母质,不参与大气循环的特殊性,且磷也不是腐殖酸和棕黄酸的结构组分[34];另一方面,磷肥利用率低,在土壤中容易被固持,长期施用磷肥造成土壤中磷元素的大量累积[35]（图3d)。长期不施肥和偏施化肥处理土壤有机质的C:P 比显著低于荒处理,主要由于不施肥和偏施化肥处理长期种植作物加速了土壤有机碳的消耗,土壤有机碳含量显著低于荒处理(图1a)。随着有机物料投入量的增加,土壤有机磷累积量显著提高,且化肥配施高量有机肥处理有机质C:P比显著低于荒处理。化学磷肥和化肥配施有机肥处理微生物生物量C:P比均显著低于擢荒等其他处理，可能因为磷充足时微生物生长速率较高。根据生长速率理论指出,高生长速率需要增加对富含磷元素的核糖体RNA 的投资,意味着微生物生物量C:P 比降低[36]。另外，NP 和 NPK处理微生物生物量的C:P 比显著低于PK处理,一方面,当磷素满足微生物需求时,氮素的添加使微生物活性提高,提高了微生物对碳的利用率[22],导致微生物同化吸收的总碳量降低。另一方面,土壤微生物生物量碳与土壤溶解性有机碳量高度相关[37],同时地上部作物的生长发育在极大程度上影响土壤溶解性有机碳库的输出[38]。长期施用氮肥能显著提高作物产量和地上部作物生物量,使土壤溶解性有机碳含量降低,导致可供微生物利用的溶解性有机碳含量降低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "土壤N:P 比表示土壤养分的相对平衡程度,可作为养分限制类型的有效预测指标[4]。长期不同施肥条件下土壤N:P 比随着磷投入量的增加而降低,造成施磷肥土壤中氮素的相对缺乏。由于长期化肥处理缺少有机氮的投入,使得有机质的N:P比显著低于荒处理。随着少量有机氮的输入（SNPK）,有机质 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比水平与擢荒处理相当,中量有机氮的输入（MNPK)显著提高有机质 $\\mathrm { { N } : \\mathrm { { P } } }$ 比。但是,由于高量有机肥处理（1.5MNPK)有机磷的大量累积,导致其有机质 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比显著低于擢荒处理。长期化学磷肥处理和化肥配施有机肥处理微生物生物量N:P 比显著低于荒等其他处理（图3i),因为磷素作为形成核糖体的主要元素,决定了微生物的生长速率。秸秆还田处理微生物生物量 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比显著高于畧荒处理,说明秸秆还田处理并不能满足微生物对磷素的需求（图2c）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "生态化学计量内稳性反映了生物对环境变化的生理和生化反应,其强弱与物种的生态策略和适应性有关[39]。长期施肥后土壤微生物生物量 $\\mathrm { C : N \\_ C : P \\_ N : P }$ 比的内稳性指数均小于1,说明土壤微生物群落不具有保持其自身化学元素组成相对稳定的能力。这是由于长期不同施肥导致输入土壤中的养分(N 和P)存在差异,微生物群落会采取一些生理策略应对这种养分元素的变化。一方面,微生物会对土壤中营养物质摄取、转化固定的比例,调节其自身化学计量比[3,14],即\"Constant Proportional\"模型,所以土壤 $\\mathrm { C } : \\mathrm { N } \\ 、 \\mathrm { C } : \\mathrm { P } \\ 、 \\mathrm { N } : \\mathrm { P }$ 比分别与微生物生物量 $\\mathrm { C : N , C : P , N : P }$ 比呈显著正相关关系,也一定程度上说明土壤有机碳的固定取决于土壤养分对微生物的影响[40]。另一方面,由于微生物群落中的主导微生物种群变化,造成微生物群落的化学计量比存在一定可塑性[18]。此外,微生物生物量碳氮磷与有机质中碳氮磷化学计量比之间无显著相关性,其主要原因可能是有机质是动植物残体在微生物作用下分解并再合成的一类混合有机化合物,气候和地貌在较大范围内对土壤有机质含量起主导作用[41],而微生物仅是这一过程的驱动与参与者,起到催化合成的作用。另外,大多数表层土壤中 $9 5 \\%$ 以上的氮素为有机化合物[29],因而土壤 $\\mathrm { C } : \\mathrm { N }$ 与有机质C:N比呈显著正相关关系。但土壤 ${ \\mathrm { C } } : { \\mathrm { P } } \\cdot { \\mathrm { N } } : { \\mathrm { P } }$ 比分别与有机质 ${ \\mathrm { C } } : { \\mathrm { P } } \\cdot { \\mathrm { N } } : { \\mathrm { P } }$ 比之间无显著线性相关关系。由于作物和微生物对氮、磷的同化吸收利用,同时在农田中通过氨挥发、淋洗等形式造成氮肥大量损失且利用率较低[42],导致土壤C:P比和N :P比变异程度大。 C/>5",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "农田系统中养分的投人、作物的吸收带走显著影响了土壤、有机质和微生物生物量的碳氮磷化学计量比。与自然恢复系统相比,长期的施肥和种植显著降低了微生物生物量氮含量,提高了微生物生物量磷的含量,且长期施化肥由于加速了土壤氮的消耗,不仅显著提高了土壤 $\\mathbf { C } : \\mathbf { N }$ 和微生物生物量 $\\mathbf { C } : \\mathbf { N }$ 比,也显著降低了土壤、有机质及微生物生物量的N:P比。农田土壤微生物生物量碳氮磷的内稳性指数均低于1,土壤碳氮磷元素的改变会直接导致微生物生物量碳氮磷化学计量比的改变,但土壤有机质的碳氮磷计量比可能更多是受到作物和养分输入等农业管理措施的影响,有机物料(秸秆和有机肥)的配合施用对于维持土壤有机质中碳氮磷的化学计量平衡具有重要的作用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Schnitzer M. Soil organic matter-the next 75 years.Soil Science，1991,151(1) : 41-58.  \n[2］张成霞，南志标.土壤微生物生物量的研究进展.草业科学,2010,27(6)：50-57.  \n3]SteeseolcatotlessJUiPress,2002:8-27.  \n[4] 王绍强，于贵瑞.生态系统碳氮磷元素的生态化学计量学特征.生态学报，2008，28（8）：3937-3947.  \n[5] Michaels AF. The ratios of life.Science，2003，300(5621）:906-907.  \n[6] ClevelandCC,iptinDC::Psocometryinsoil:isterea“edfeldrati”forthemicobalbioassgechemistr()235-252.  \n[7] XuXF,TooostWoaalyisflobalassorgndospusiestriaosoblEcology and Biogeography，2013，22(6): 737-749.  \n[8] Tian H,Chen G, Zhang C,Melillo JM,Hall C A S.Pattern and variation of $\\mathrm { C } : \\mathrm { N } : \\mathrm { P }$ ratios in China's soils：a synthesis of observational data.Biogeochemistry，2010,98(1/3）: 139-151.9 许泉，芮雯奕，刘家龙，刘智，杨玲，尹宇静，张卫建.我国农田土壤碳氮耦合特征的区域差异.生态与农村环境学报，2006，22（3)：57-60.  \n[10] HimeL.Nitrogen，sulfurndpsphorsandthsequesteringofcarbon.SoilProceesandthCarbonCycleocaRaton：CRCPrs,98315-319.11 ElserJJ，UrabJ.Thoetryfosedrientritcylingorbseatios，ndcoseqecsolog99）：735-751.  \n[12] GoldmanJC，CaronDA，DennettMR.Regulationof grossgrowtheficiencyandammoumregenerationinbacteriabysubstrateCratioLimnology and Oceanography，1987,32(6）：1239-1252.  \n[13] LiY,WuJS,LiuSL,SenJL,HuangDY,SuYR,WeiWX,KeithSJ.IstheC:N:Pstoichiometryinsoilandsilmicrobalioasrelated tothe landscapeand landuse insouthern subtropical China?Global Biogeochemical Cycles，2O12,26(4)：GB4002.  \n[14] Kooijman SALM.The stoichiometryof animal energetics.Journalof Theoretical Biology，1995,177(2）：139-149.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "and sulfur in terrestrial ecosystems. Scientific Reports，2015,5：17445.[16］汪景宽，李双异，张旭东，魏丹，迟风琴.20年来东北典型黑土地区土壤肥力质量变化.中国生态农业学报,2007,15(1)：19-24.[17] 张淑香，张文菊，沈仁芳，徐明岗.我国典型农田长期施肥土壤肥力变化与研究展望.植物营养与肥料学报，2015，21(6)：1389-1393.[18] 周正虎，王传宽.微生物对分解底物碳氮磷化学计量的响应和调节机制.植物生态学报，2016,40(6)：620-630.[19] 魏巍，许艳丽，朱琳，韩晓增，Li S.长期施肥对黑土农田土壤微生物群落的影响.土壤学报，2013，50(2)：372-380.[20] 刘晶鑫，迟凤琴，许修宏，匡恩俊，张久明，宿庆瑞，周宝库.长期施肥对农田黑土微生物群落功能多样性的影响.应用生态学报,2015，26(10):3066-3072.[21］王传杰，肖婧，蔡岸冬，张文菊，徐明岗.不同气候与施肥条件下农田土壤微生物生物量特征与容量分析.中国农业科学,2017,50(6)：1067- 1075.22]Moosschoresources：mechanismsandimplicationsofmicrobialadaptations totheirresources.Frontiers in Microbiology，2014，5(22）：22.[23]KirkbyCA，RichrdsonAE，WadeLJ，atenGD，BlchardC，KirkegaadJA.Carbo-utrientstocometrytincreaselbosequestration.Soil Biology and Biochemistry，2013,60：77-86.［24］中国土壤学会农业化学专业委员会．土壤农业化学常规分析方法.北京：科学出版社，1983：103-104[25] 骆坤，胡荣桂，张文菊，周宝库，徐明岗，张敬业，夏平平.黑土有机碳、氮及其活性对长期施肥的响应.环境科学,2013，34（2)：676-684.[26] 吴金水，肖和艾，陈桂秋，黄敏.旱地土壤微生物磷测定方法研究.土壤学报，2003，40(1)：70-78.[27] Sterner R W,Hessen D O.Algal nutrient limitation and the nutrition of aquatic herbivores. nnual Review of Ecology and Systematics，1994,25(1): 1-29.[28]SteerseElfrdaslghurtkeshaeeatecosystem structure and process.The American Naturalist，1997,150(6）:663-684.[29］巨晓棠，刘学军，张福锁.长期施肥对土壤有机氮组成的影响.中国农业科学，2004，37(1)：87-91.[30] 张雅蓉，李渝，刘彦伶，张文安，蒋太明.长期施肥对西南黄壤碳氮磷生态化学计量学特征的影响.土壤通报，2016，47（3）：673-680.31]deVdEelBiology and Biochemistry，2006,38（8）：2092-2103.[32] 王爽．黑土长期定位施肥对土壤微生物的影响[D].哈尔滨：哈尔滨工业大学，2006：31-33.33]AlisoiagsiissSoil Science Society of America Journal， 2005, 69(5): 1412-1421.[34] 赵少华，宇万太，张璐，沈善敏，马强．土壤有机磷研究进展.应用生态学报，2004，15（11)：2189-2194.[35］黄绍敏，宝德俊，皇甫湘荣，张夫道，徐明岗，介晓磊.长期施肥对潮土土壤磷素利用与积累的影响.中国农业科学，2006，39(1)：102-108.[36]ElserJJ，AcharyaK,KyleM，CotnerJ，MakinoW,MarkowT,WatsT,HobbieS,FaganW,SchadeJ,HdJ，StermerRW.Growthatestoichiometry couplings in diverse biota.Ecology Leters，2003,6(10）:936-943.[37]HaneyRLFrauebesAJ,JinVsoV,HaneyEB,iteJelRD.SlganicC:water-extracableicC.Open Journ lof Soil Science,2012,2(3): 269-274.［38]张迪，韩晓增，李海波，宋春，侯雪莹.不同植被覆盖与施肥管理对黑土活性有机碳及碳库管理指数的影响.生态与农村环境学报，2008, 24(4) : 1-5.9Jeysellaltaquatic herbivore.Ecology Letters，2009，12（11）：1229-1237.40] KolbGS,PalmborgC,ambckPEcolaltocoetyndnsityesposesofPlant-Atooduitsooantstigsads.PLos One，2013，8(4):e61772.武天云，Schoenau J,李凤民，钱佩源，张树清，Malhi S S，王方.土壤有机质概念和分组技术研究进展．应用生态学报，2004，15（4)：717-722.[42]朱兆良.中国土壤氮素研究.土壤学报，2008，45(5)：778-783.",
+        "page_idx": 10
+    }
+]

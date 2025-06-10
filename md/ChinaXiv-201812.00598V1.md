@@ -1,0 +1,306 @@
+# 语言和文化影响颜色认知：直接语言效应抑或间接语言效应？‘
+
+# 杨　群'张积家'冯意然‘买合甫来提·坎吉²
+
+（中国人民大学心理学系、国家民委民族语言文化心理重点研究基地、教育部民族教育发展中心民族心理与教育重点研究基地，北京100872)
+
+(新疆师范大学教育科学学院，乌鲁木齐 830017)
+
+摘要语言和文化对颜色认知的影响存在直接语言效应和间接语言效应的争论。直接语言效应是指在识记颜色时人先将颜色转换成颜色名称，再认时通过匹配保留在记忆中的颜色词与目标颜色名称来完成任务。颜色类别知觉是语言策略的结果。间接语言效应是指语言和文化塑造颜色知觉表征，形成一个曲形颜色知觉空间，将人们引向语言和文化定义的颜色类别分界。即使没有语言策略参与，类别效应也出现。颜色文化是民族文化的重要组成部分。绿色和红色在维吾尔族和汉族的语言和文化中分别具有重要意义。采用颜色相似性判断、颜色分类和颜色再认任务，考察维吾尔族和汉族的大学生对红、绿的认知，探查语言和文化对颜色认知的影响及其性质。结果表明，与汉族比，维吾尔族对绿色的辨认、分类和再认存在反应优势，对红色认知存在反应劣势。与颜色辨认反应比，两民族颜色再认反应时显著长。整个研究表明，语言和文化对颜色认知的影响存在间接语言效应，语言与文化塑造个体的颜色知觉空间。
+
+关键词维吾尔族；汉族；颜色认知；直接语言效应；间接语言效应
+
+# 1前言
+
+语言与认知的关系十分复杂。在颜色认知领域，颜色词与颜色认知关系如何？这体现为语言普遍论和语言相对论的论争。语言普遍论认为，人类思维具有普遍性和一致性，思维先于语言产生，颜色词作为语言对颜色的编码，具有普遍的语义特征和认知意义。颜色词与颜色认知相互独立(Regier& Kay，2009)。语言相对论认为，文化通过语言影响思维，语言差异导致思维差异。不同语言中基本颜色词的数量不同，对连续光谱切分不同，对颜色的经验分类不同，颜色认知也表现出差异。为汲取两种理论之长，折中理论应运而生。折中理论认为，颜色认知既包含物理、生理成分，也包含文化成分，既是生物事件，也是文化事件(Schirillo& Wake,2001)。张积家、方燕红和谢书书(2012)提出颜色词与颜色认知的相互作用理论认为，影响颜色认知的因素有物理、生理、认知、智力、语言与文化，分属于物理-生理水平、认知-智力水平和社会-文化水平。物理-生理水平是颜色认知的物质基础，颜色的物理属性和人眼的生理结构使人类颜色认知具有一致性；感知觉、记忆等认知过程与智力是颜色认知的关键；语言与文化是理解颜色意义的前提。不同的认知过程、智力水平与语言和文化都会引起颜色认知差异。当人的感官和智力正常时，颜色认知差异通常由语言和文化决定。
+
+大量研究为语言与文化影响颜色认知提供证据，主要体现为对不同国家、不同民族、不同语言讲话者的颜色认知比较。颜色知觉具有类别知觉特点。人在知觉颜色时，会将光谱上连续的量切分和范畴化，并用焦点色对其命名(Berlin& Kay,1969)。个体对不同类别颜色的知觉、记忆优于同一类别颜色，即使它们在缪赛尔颜色体系中的物理距离相同，这被称为颜色类别知觉效应(Bornstein,Kessen,& Weiskopf,1976；Roberson,Davidoff,Davies,& Shapiro,2005；Zhou,Mo,Kay,Kwok,Tiffany,&Tan,2010)。Bornstein 等(1976)选取黄、蓝(不同类别)和深绿、浅绿(同一类别)，黄、蓝在色谱上距离与深绿、浅绿相等，但被试辨别黄、蓝快于辨别深绿、浅绿。但由于受语言和文化影响，颜色类别知觉效应有不同结果。Kay 和Kempton(1984)要求英语讲话者和 Tarahumara 语(一种印第安语言)讲话者对蓝、绿中间的颜色做相似性判断，判断目标颜色与蓝相似还是与绿相似。英语对蓝、绿有明确区分，分别对应于 blue 和 green，Tarahumara 语仅用一个颜色词表示蓝和绿。英语讲话者对蓝绿边界色的判断表现出明显的颜色类别知觉效应，Tarahumara 语讲话者却未出现颜色类别知觉效应。Davies,CorbettLaws,McGurk,Moss和 Smith (1991)要求英语、俄语和 Setswana 语被试对颜色分类。Setswana 语用一个词表达蓝和绿，英语用两个词表达，俄语不仅区分蓝和绿，还区分深蓝和浅蓝。Setswana 语被试倾向将蓝、绿归为一类，俄语被试倾向将暗蓝和亮蓝分为两类，俄语被试比英语被试对蓝色产生更大的 Stroop 干扰效应，说明对蓝色有更大的区分性。Winawer 等(2007)发现，俄语被试辨别深蓝和浅蓝速度快，表现出颜色类别知觉效应，英语被试未表现出该效应。张积家、刘丽红、陈曦与和秀梅(2008)比较纳西族被试和汉族被试的颜色相似性判断、颜色分类和颜色再认。纳西语虽然用两个词表示蓝和绿，在语用中却蓝绿混用。汉语对蓝绿使用有明确区分。纳西族被试在三个任务中成绩均差于汉族被试。张积家等采用自然分类法研究汉族(张积家，林新英,2005)、彝族、白族、纳西族(张启睿，和秀梅，张积家,2007)、摩梭人(王娟，张积家，林娜,2010)、傈傈族、普米族(王娟，张积家，和秀梅，闵翠蓁,2013)、蒙古族(张付海，方燕红，杨晓峰，张积家,2016)、鄂伦春族(杨群，张积家,2014)日本人(黄喜珊，郑娟，盐见邦熊，张积家，张琳，2011)的颜色词概念结构，发现不同民族对基本颜色词分类既有共性也存在差异，差异主要由文化和语言引起。民族特有的颜色观念影响颜色概念在个体头脑中的组织(王娟，张积家,2012)。因此，大量研究均证明语言与文化影响颜色认知。
+
+然而，语言和文化如何影响颜色认知？语言和文化对颜色认知的影响究竟是直接语言效应(direct language effect)还是间接语言效应(indirect language effect)？这些问题尚未得到很好解答。持直接语言效应观点的人认为，人在识记颜色时采用语言策略，个体先将颜色转化成颜色词，再认时用记忆中的颜色词与目标颜色名称匹配。语言只是短暂地影响了颜色记忆，并未从根本上改变颜色知觉，语言只是再认策略(Roberson,Davies,&Davidoff,200o；Pilling,Wiggett,Ozgen,&Davies,2003)。持间接语言效应观点的人认为，颜色知觉表征通过语言学习形成，语言和文化塑造颜色知觉空间。由于语言的作用，类别边界附近的区分相对于类别内的区分会有所改善，产生颜色知觉空间的“扭曲”，这种“扭曲”导致颜色知觉以语言中的类别为边界。即使没有语言策略参与，人在知觉颜色时仍会出现颜色类别知觉效应。概言之，直接语言效应是指语言对颜色认知的即时影响，间接语言效应是指受语言和文化影响使颜色空间发生持久性的改变，这种改变发生在实验前。由于已有研究采用的颜色刺激大多可命名，任务又多包含记忆成分，因而很难摆脱语言策略的影响，无法区分直接语言效应和间接语言效应。
+
+目前，仅有少数研究关注区分直接语言效应和间接语言效应。Ozgen 和 Davies(2003)发现，当目标刺激与分心刺激同时呈现时，仍会出现颜色类别知觉。此时，没有记忆的需求，尽管刺激可命名，但直接的视觉比较似乎更可能。在视觉搜寻中，依然发现颜色类别知觉效应：如果目标刺激与干扰刺激属于不同类别，目标刺激检测比二者属于同一类别快得多。因为目标刺激出现得很快以至于难以命名，效应应是出现在视觉早期的前注意阶段(Davies,Daoutis,Piling，& Wigget, 2003；Kawai, Uchikawa,& Ujike,1995)。Ozgen 和 Davies （2003)做了一系列颜色知觉实验。实验1采用颜色相似性判断任务让被试对蓝或绿进行三天学习，发现颜色辨别成绩逐渐提高，而且对另一种颜色具有迁移效应，说明颜色分辨能力可通过练习或训练提高；随后，采用3个实验分别测试新形成的颜色类别是否也出现类别知觉效应、类别知觉形成时间以及类别知觉效应是基于色调分类还是基于亮度分类来习得。研究者以蓝和绿的焦点色为分界点，将蓝、绿分别划分为两类颜色，靠近黄绿(或蓝紫)为一类，靠近蓝绿为另一类。颜色随机呈现，要求被试根据每次相似性判断后的反馈，自己掌握分类标准，仍然发现颜色类别知觉效应。这表明，被试可以“摒弃”已有的颜色分类标准，掌握新的分类标准。由于采用的颜色刺激很难命名，在某种程度上摆脱了语言策略的影响，支持间接语言效应观点，但研究涉及两种颜色间的迁移，很难排除颜色间的影响。Pilling 和 Davies(2004)以英语讲话者与 Ndonga 语讲话者为被试，比较在颜色分类、颜色比较和颜色视觉搜寻中的表现。Ndonga 语缺乏橙色、粉红色和紫色术语。结果发现，在分类中，名称相似的颜色比名称不相似的颜色更容易被分在一起。在颜色比较(在三种颜色中挑出一种不同颜色)中，当不同颜色在两种语言中不同时，被试都选择对他们的语言而言是孤立的颜色。在视觉搜寻(在干扰物中搜寻目标颜色)中，目标颜色或处在不同类别的分心颜色中(类别间)，或处在相同类别的分心颜色中(类别内)。结果发现，在存在类别内干扰时，英国人在反应速度上比 Ndonga人付出更大代价。Winawer 等(2007)要求英语被试和俄语被试辨认不同亮度蓝色，同时设置语言干扰任务和空间干扰任务，发现俄语被试对俄语中属于不同语言类别的颜色辨认时表现出颜色分类优势，这种分类优势受语言任务干扰，不受空间任务和语言-空间双重任务干扰。对较难辨认的颜色，语言干扰效应更大，英语被试却未出现任何效应。由于研究采用的蓝色较少涉及记忆成分，证明了间接语言效应存在。但该研究以颜色相似性判断为主，任务单一，而且在研究中变化蓝色的亮度，虽然每一种蓝色难以命名，却无法排除俄语被试受语用标签影响使用语言策略，即将蓝色分为“深蓝”和“浅蓝”。谢书书、张积家、和秀梅、林娜和肖二平(2008)采用颜色相似性判断和颜色再认任务，使用色调与饱和度均恒定但变化亮度的黑、白色块，考察彝、白、纳西和汉族大学生对黑、白认知的差异，发现四个民族对黑、白的区分和再认速度不同，并且与各自的黑、白文化匹配：彝族尚黑厌白，白族尚白厌黑，纳西族尚白不厌黑，汉族对黑白均持矛盾态度。由于黑白色块仅改变亮度，刺激无法命名，也在一定程度上摆脱直接语言效应，证明存在间接语言效应。四个民族对黑白认知差异在再认任务中大，在知觉相似性判断任务中小，说明被试在再认中有可能使用语言策略，即存在直接语言效应。因此，他们认为，语言与文化对颜色知觉的影响属于间接效应与直接效应并存。
+
+颜色词与颜色认知的关系得到广泛论证。现代研究者更倾向于接受颜色词与颜色认知相互作用的观点(魏晓言，陈宝国,2011)。然而，语言和文化对颜色认知的影响是记忆策略的作用还是知觉空间的改变？尚在争论中。已有研究很难摆脱语言标签或记忆策略的影响，因此很难分离直接语言效应和间接语言效应。张积家等(2008)通过黑白认知试图回答直接语言效应还是间接语言效应问题，但研究中仅采用颜色相似性判断任务和颜色再认任务，而且黑白不属于严格意义的彩色。总之，对这一问题，仍有进一步研究的必要，因为这牵涉到语言影响颜色认知的性质确定。
+
+颜色偏好是民族文化的直接体现。一个民族的颜色文化与其生产生活方式、自然观、宗教观、民俗意识及审美观有直接联系。维吾尔族对绿色特别有感情。他们将绿色看成是生命的象征。维吾尔族文化是典型的绿洲文化，有浓厚的草原游牧文化特征。维吾尔族先民生活在草原上，草原、树木、森林、湖泊等都是绿色的，因而对绿色产生一种“图腾”式崇拜(热汗古丽，哈得江,2002)。《古兰经》将绿色视为“人类的土壤、大自然的源泉”。伊斯兰教认为，绿色象征和平与安宁。在清真寺、拱门、麻扎等宗教建筑上，大量使用绿色(张玲，热西旦·艾山江,2011)。伊斯兰教教旗也是绿色的。维吾尔族服饰凝聚了绿洲文化。例如，吐鲁番、哈密、喀什等地的花帽以暗绿色为底色。维吾尔族民居也体现绿洲文化(王勇，高敬，2011)。这些民居适应新疆不同地区的自然环境，虽各具特色，也有共同特征，即庭院布置凸显对花草树木等绿色的渴望。房顶和墙面底色多以蓝或绿为主，并配有湖泊、河水及各种花草植物图案。房屋墙上有各式挂毯，颜色鲜艳独特，花纹多由花草植物构成。可见，对绿的喜爱是维吾尔族千百年积淀下来的文化无意识，是区别于其他民族的独特文化内涵。
+
+汉族虽然也喜欢绿色，如用绿色象征春天、青春、和平、新鲜、环保、希望、安全等。但绿色在汉语中有“低微、下贱”义。唐代官制规定，六品官服为深绿，七品官服为浅绿，八品官服为深青，九品官取为浅青。头上戴绿头巾是卑微的象征。在元明清时期，娼妓、凡乐等“贱业”中人的服饰一般都用青碧色。元明两代规定，娼家男子要头戴绿头巾，后来就用“戴绿帽子”意指男子的妻子有外遇(谌梅芳,2008)。这与维吾尔族对绿色的认知完全不同。汉族劳动妇女通常穿青黑色服装，但新娘一般要穿大红色喜服。比起对绿色，汉族对红色更加喜爱。红色在汉语中象征权利与身份、顺利与成功、受人尊重与欢迎、勇敢坚毅与坦诚。在汉语中，红色的褒义义项比在维吾尔语中的红色义项更宽泛，维吾尔族对红色的文化表征更局限于红色本来的视觉感受(张玲等,2011)。
+
+鉴于维吾尔族与汉族对绿色和红色的喜爱有不同文化背景，本研究将比较维吾尔族与汉族对绿与红的认知是否存在差异。通过不同任务分离影响颜色认知的因素，考察语言和文化对认知的影响是否存在间接语言效应。在知觉相似性判断中，个体只需比较同时呈现的知觉信息，涉及的概念信息少，分类和再认都是先后呈现目标色块和比较色块，被试需要分别记住两个或一个目标色块，随后对一个或两个色块进行分类或再认。如果在知觉相似性判断、分类和再认中，维吾尔族和汉族均表现出对绿和红的认知差异，就证明语言和文化的确影响颜色认知。通过严格控制颜色的可命名性，可以排除被试使用语言策略的可能。
+
+# 2 实验1维、汉大学生对红、绿色块的知觉相似性判断
+
+# 2.1被试
+
+新疆师范大学31名维吾尔族本科生，男生7名，女生24名，平均年龄为21.36岁，母语为维吾尔语，汉语熟练，能够顺畅地用汉语交流与阅读。31名汉族本科生，男生6名，女生25 名，平均年龄为20.74岁，均来自新疆本地，母语为汉语，不会讲维吾尔语。所有被试视力或矫正视力正常，无色盲或色弱现象。
+
+# 2.2设计
+
+2(民族：维/汉） $\scriptstyle 1 \times 2$ (颜色：绿/红)混合设计。民族为被试间变量，颜色为被试内变量。因变量为对红、绿色块相似性判断的反应时和错误率。
+
+# 2.3 材料
+
+分别以绿色(RGB：0,255,0)和红色(RGB：255,0,0)为中心，在RGB 色谱上做纵向分界线，将红、绿分别划分为左右两侧的两组颜色。选取240-120亮度-饱和度水平，分界线左右两侧各取9个相邻颜色块(红、绿各18个)，根据CIE1976Lab颜色系统(古大治，傅师申，杨仁鸣，2000)，色块色度以中心色色度(a $\scriptstyle { \operatorname { \ 4 3 } } = 8 0$ a ${ \bf \Psi } _ { \mathrm { i . } } = 0 _ { \mathrm { . } }$ )为基准，左右以递进系数为2变化得到。实验前对色块进行评定，它们均属于红或绿类别。左侧绿色色块色度分别为78,76,74,72,70,68,66,64,62；右侧绿色色块色度分别为82,84,86,88,90,92,94,96,98；左侧红色色块色度分别为238,236,234,232,230,228,226,224,222；右侧红色色块色度分别为2,4,6,8,10,12,14,16,18。选取每组的第五个色块为该组的标准色。色块大小为 $1 2 7 \times 8 6$ 像素。以色块组合“绿左 $_ 6 \cdot$ 绿左 $5 ^ { \cdot }$ -绿右1”为例，绿左、绿右表示颜色所处区域名称,1代表颜色靠近中心绿色，6代表颜色远离中心绿色，绿左5代表左侧绿色的标准色。绿左1-绿左标准色与绿右标准色-绿右1距离相等。通过平衡、组合红、绿色块，共得到 256 种色块组合，每一色块组合包含一个标准色块和一个与其同侧的色块，一个与其不同侧的色块，标准色块与同侧色块的颜色距离小于与不同侧色块的颜色距离。为使眼睛得到休息，以同样方式获得以黑-白-灰为主的色块组合进行填充。
+
+# 2.4程序
+
+采用E-prime2.0软件编程。用IBM17英寸显示器呈现材料，屏幕分辨率为 $1 0 2 4 \times 7 6 8$ 像素。实验分红、绿两个区间，每一区间包括练习和正式实验。被试端坐在计算机前，两手食指分别放在F键和J键上。屏幕上同时呈现三个色块，上方为标准色块，下方左右分别有两个色块，要求被试既快又准地判断在下方色块中哪一色块与上方色块更相似。如果左侧色块与上方色块相似，按F键；如果右侧色块与上方色块更相似，按J键。每一比较色块出现在屏幕下方左右两侧的次数相同。如果反应超过 $3 0 0 0 \mathrm { { m s } }$ ，自动空屏 $1 0 0 0 \mathrm { m s }$ ，进入下一试次。实验流程见图1。材料采用随机方式呈现。实验前用非实验材料进行8次练习。
+
+![](images/19354f7b50760f9fe70031e6e8cc2cc099a03d8299b9b7fbeea57e740466cda8.jpg)  
+图1实验1流程图
+
+# 2.5结果与分析
+
+反应时分析时先删除错误反应的数据，再删去小于 $3 0 0 \mathrm { { m s } }$ 、大于 $2 5 0 0 \mathrm { m s }$ 和 $M \pm 2 . 5 S D$ 之外的数据，占 $3 . 1 3 \%$ 。结果见图2和图3。
+
+![](images/ddf5bc7b9e25a3ed2711982e49039b6946242a03425a088c36d47753b3f3f315.jpg)  
+图2维、汉大学生对红、绿色块相似性判断的平均反应时(ms)
+
+![](images/6ec2563b40024c4f45707dfe32f5f52be9d722470a7c75879dd8a02219a4c3be.jpg)  
+图3维、汉大学生对红、绿色块相似性判断的平均错误率 $( \% )$
+
+反应时的方差分析表明，只有民族与颜色的交互作用显著， $F ( 1 , \ 6 0 ) \ = \ 2 3 . 2 6$ ， $p { < } 0 . 0 0 1$ ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 2 8$ 。简单效应分析表明，维吾尔族学生对绿色判断显著快于汉族学生, $p { < } 0 . 0 5$ ， $d { = } 0 . 5 2$
+
+95%CI=[-144.31，-2.20]；维吾尔族学生对红色判断显著慢于汉族学生， $p { < } 0 . 0 5$ ， $d { = } 0 . 5 6$   
+95%CI=[7.99，179.50]。维吾尔族学生对绿色判断显著快于对红色判断， $p { < } 0 . 0 1$ ， $\scriptstyle { d = 0 . 7 0 }$   
+95%CI=[-126.67，-39.65]；汉族学生对红色判断显著快于对绿色判断， $p { < } 0 . 0 0 1$ ， $d { = } 0 . 8 7$   
+95%CI=[43.93,123.75]。各种主效应均不显著, $p s { > } 0 . 0 5$
+
+错误率的方差分析表明，颜色的主效应显著， $F ( 1 , \ 6 0 ) { = } 2 6 4 . 6 2$ ， $p { < } 0 . 0 0 1$ ， ${ \boldsymbol \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 8 2$ $9 5 \% \mathrm { C I } { = } [ 0 . 1 3 , 0 . 1 6 ]$ 。颜色和民族的交互作用显著, $F ( 1 , 6 0 ) { = } 5 . 3 6 , p { < } 0 . 0 5 , { \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 0$ 。简单效应分析表明，两民族被试对绿色判断的错误率差异不显著， $p { > } 0 . 0 5$ ；对红色判断的错误率差异显著, $p { < } 0 . 0 5$ $\therefore d { = } 0 . 8 7 , 9 5 \% C \mathrm { I } { = } [ 0 . 0 1 , 0 . 0 9 ]$ 。汉族学生的错误率显著低于维吾尔族学生。
+
+实验1表明，维吾尔族学生与汉族学生对绿和红的知觉相似性判断差异显著：汉族学生对红色判断比对绿色判断快，错误率低;维吾尔族学生对绿色判断比对红色判断快。可见，语言与文化的差异影响两民族学生对绿与红的辨别。
+
+# 3实验2维、汉大学生对红、绿色块的分类
+
+在分类任务中，随着分类次数增加，如果被试改变了对某种颜色的反应，证明个体可以通过后天学习学会新的颜色分类，这意味着学习可以改变颜色知觉空间，颜色认知并非是遗传的或一成不变的。如果被试未改变对某种颜色的反应，证明被试的分类标准稳定，未受分类标签影响，这意味着被试在分类时是依据已有颜色知觉空间进行，未使用语言策略。语言和文化对颜色认知的影响发生在认知任务之前。
+
+# 3.1被试
+
+新疆师范大学33名维吾尔族本科生，男生14名，女生19名，平均年龄为21.45岁，母语为维吾尔语，汉语熟练，能够顺畅地用汉语交流与阅读。33名汉族本科生，男生12名，女生 21名，平均年龄为 20.75 岁，均来自新疆本地，母语为汉语，不会讲维吾尔语。所有被试视力或矫正视力正常，无色盲或色弱现象。被试均未参加实验1。
+
+# 3.2设计
+
+2（民族：维/汉） $\boldsymbol { \mathbf { \rho } } _ { | \times }$ 2(颜色：绿/红)混合设计，民族为被试间变量，颜色为被试内变量。因变量为被试对红、绿色块分类的反应时和错误率。
+
+# 3.3材料与程序
+
+材料与仪器与实验1同。将光谱的绿色区和红色区分别以中心色为界，分为两类颜色。指导语是：“请学习把一系列刺激分为两组，左边一组，右边一组。”先给被试呈现同一颜色左右两组的标准色块，绿色标准色块是绿左5和绿右5，红色标准色块是红左5和红右 5。
+
+被试记住后按空格键，两个标准色块消失，再不出现。随后空屏 $1 0 0 0 \mathrm { m s }$ ，在屏幕中央随机呈现一系列目标色块，要求判断目标色块属于“左”、“右”哪一组，分别用左、右手食指按F、J键反应。被试反应后，计算机给予正误反馈，接着呈现下一目标色块。材料按伪随机程序呈现，保证同一色块不连续出现。每一色块重复出现4次。实验分为绿、红两个区间，被试分别对红、绿做128次反应。实验流程图见图4。
+
+![](images/690bd7fef4c22b4ca3c0d632a171c1ff22040131e3288a35912c920f5cf633c4.jpg)  
+图4实验2流程图
+
+# 3.4结果与分析
+
+反应时分析时先删除错误反应的数据，再删去小于 $3 0 0 \mathrm { { m s } }$ 、大于 $2 5 0 0 \mathrm { m s }$ 和 $M \pm 2 . 5 S D$ 之外的数据，占 $4 . 7 3 \%$ 。结果见图5和图6。
+
+![](images/c68d65874fa0a20c2e7ceda843bbfcfbcbbe810c2c788ce2a999a60f8fb9a88e.jpg)  
+图5维、汉大学生对红、绿色块分类的平均反应时(ms)
+
+![](images/70e97721bfa31a526d2c7f9a4e120dc46eff13b1c19ac249f0ca0c89bb884d2a.jpg)  
+图6维、汉大学生对红、绿色块分类的平均错误率 $( \% )$
+
+反应时的方差分析表明，颜色的主效应显著， $F ( 1 , \ 6 0 ) \ = \ 4 8 . 2 5$ ， $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 4 5$ 95%CI=[21.35,59.31]；民族与颜色的交互作用显著, $F ( 1 , 6 0 ) { = } 1 0 2 . 9 0$ $p { < } 0 . 0 0 1$ ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { { = } } 0 . 6 3$ 。简单效应分析发现，维吾尔族学生对绿色分类显著快于汉族学生， $p { < } 0 . 0 5$ ， $d { = } 0 . 8 7$ 95%CI=[-121.23，-9.98]；维吾尔族学生对红色分类显著慢于汉族学生， $p { < } 0 . 0 5$ ， $d { = } 0 . 1 7$ 95%CI=[3.34，101.06]。维吾尔族学生对绿色分类显著快于对红色分类， $p { < } 0 . 0 0 1$ ， $\scriptstyle { d = 0 . 7 8 }$ 95%CI=[-24.61，-12.53]；汉族学生对红色分类显著快于对绿色分类， $p { < } 0 . 0 0 1$ ， $d { = } 0 . 8 7$ 95%CI=[76.30,122.17]。
+
+错误率的方差分析表明，颜色的主效应显著， $F ( 1 , \ 6 0 ) { = } 5 0 . 5 6$ ， $p { < } 0 . 0 0 1$ ， ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 4 6$ $9 5 \% \mathrm { C I } { = } [ 0 . 0 7 , 0 . 1 4$ ]；民族与颜色的交互作用显著， $F ( 1 , 6 0 ) { = } 1 9 . 6 6 , p { < } 0 . 0 0 1 , { \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 2 5$ 。简单效应分析表明，维吾尔族学生对绿色分类错误率显著低于汉族学生， $p { < } 0 . 0 1$ ， $\scriptstyle d = 0 . 7 9$ 95%CI=[-0.14，-0.03]；维吾尔族学生对红色分类错误率显著高于汉族学生, $p { < } 0 . 0 5$ ， $d { = } 0 . 8 7$ $9 5 \% \mathrm { C I } { = } [ 0 . 0 0 4 , 0 . 0 8 ] ,$ 。维吾尔族学生对红、绿分类错误率差异不显著， $p { > } 0 . 0 5$ ；汉族对绿色分类错误率显著高于对红色分类 $\vdots , \boldsymbol { p } < 0 . 0 0 1 , d = 0 . 1 4 , 9 5 \% \mathrm { C I } = [ 0 . 1 3 , 0 . 2 1 ] \mathrm { _ { c } }$ （20
+
+两民族被试对红、绿色块重复分类的平均反应时见图7。
+
+![](images/374b90f2bd13b0c70e3e20f356002cc40202ef2531777540ae71d8526691ac70.jpg)
+
+# 图7维、汉学生对红绿色块重复四次的平均反应时(ms)
+
+单因素方差分析表明，对维吾尔族学生而言， $F _ { \mathrm { ~ \tiny ~  ~ } } ( 3 , ~ 1 2 0 ) = 0 . 1 0$ ， $p { > } 0 . 0 5$ ， $F$ 红色（3，120)=0.77, $p { > } 0 . 0 5$ ；对汉族学生而言， $F _ { \mathit { \Pi } , \mathit { \Pi } , 1 2 0 } ( 3 , 1 2 0 ) = 0 . 2 5 , p > 0 . 0 5 , F _ { \mathit { \Pi } , \mathit { \Pi } , \mathit { \Pi } , 1 2 0 } ( 3 , 1 2 0 ) = 0 . 2 0 , p > 0 . 0 5 ,$ 维吾尔族学生和汉族学生对红、绿色块的反应时均没有发现重复效应。
+
+实验2表明，与绿色比，维吾尔族学生对红色分类显著慢；汉族学生对红色分类显著快，错误率低。与汉族学生比，维吾尔族学生对绿色分类显著快，错误率显著低；与维吾尔族学生比，汉族学生对红色分类显著快，错误率显著低。而且，经过四次颜色分类，被试的反应速度未出现明显提高，说明在实验中未产生新颜色标签，分类是根据已有颜色知觉空间进行。
+
+# 4实验3维、汉大学生对红、绿色块的再认
+
+# 4.1被试
+
+新疆师范大学31名维吾尔族本科生，男生15名，女生16名，平均年龄为21.68岁，母语为维吾尔语，汉语熟练，能够顺畅地用汉语交流与阅读；31名汉族本科生，男生13名，女生18 名，平均年龄为21.12岁，均来自新疆本地，不会讲维吾尔语。所有被试的视力或矫正后视力正常，无色盲现象。被试均未参加实验1和实验2。
+
+# 4.2设计与材料
+
+2（民族：维/汉） $\phantom { 0 } { | \times 2 ( }$ (颜色：绿/红)混合设计，民族为被试间变量，颜色为被试内变量。因变量为被试对红、绿颜色再认的反应时和错误率。
+
+从实验1中选取部分色块作为实验材料，红、绿分别选取10个色块，包括两个标准色块和标准色块左右两侧各两个相邻色块。
+
+# 4.3程序
+
+先在屏幕中央呈现标准色块，5s后消失，然后屏幕中央呈现两道两位数或三位数加法的计算题作为分心测验，被试完成后按空格键，最长反应时间不超过10s，再呈现两个比较色块，要求又快又准做出判断：在两个比较色块中，哪一个先前出现过：如果认为左侧色块出现过，按F键；如果认为右侧色块出现过，按J键。在每次试验中，标准色块为实验1和实验2用的标准色块，比较色块为标准色块左右两侧相邻的色块。每种色块出现在屏幕左侧和右侧的机会均等。被试分别对红、绿两种颜色做32次反应。材料采用随机方式呈现。实验程序见图8。在实验前，被试用非实验材料进行8次练习。
+
+![](images/aadc38c6ddb1b8d552b18e6a2c482dfea5ee94e3370e7a0606b4a72c267f5d36.jpg)  
+图8实验3流程图
+
+# 4.4结果与分析
+
+反应时分析时先删除错误反应的数据，再删去小于 $3 0 0 \mathrm { { m s } }$ 和大于 $2 5 0 0 \mathrm { m s }$ 和 $M { \pm } 2 . 5 S D$ 之外的数据，占 $4 . 4 1 \%$ 。结果见图9和图10。
+
+![](images/2513b2fcafc99bbf9ff5b8662d3307bc885efd135019ce15f718b34fdb4949be.jpg)  
+图9维、汉大学生对红、绿色块再认的平均反应时(ms)
+
+![](images/4aeed8ed1dd04ffcfe194ccccc407ebc38411b62221ef53741b9307106b571a7.jpg)  
+图10 维、汉大学生对红、绿色块再认的平均错误率 $( \% )$
+
+反应时的方差分析表明，民族的主效应不显著, $F ( 1 , \ 6 0 ) { = } 0 . 1 4$ $p { > } 0 . 0 5$ ；颜色的主效应显著， $F ( 1 , 6 0 ) { = } 6 . 7 7$ $p = 0 . 0 1 2$ $\mathfrak { \eta } _ { \mathrm { p } } ^ { 2 } \mathrm { = } 0 . 1 1$ $9 5 \% \mathrm { C I } { = } [ 4 . 0 6 , 1 1 6 . 3 5 ]$ ；民族与颜色的交互作用显著, $F ( 1 ,$ $6 0 ) { = } 5 8 . 7 4 \$ $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 5 0 \$ 。简单效应分析表明，维吾尔族学生对绿色再认显著快于汉族学生， $p { < } 0 . 0 1$ ， $d { = } 0 . 8 5$ ，95%CI=[-243.72，-58.86]；维吾尔族对红色再认显著慢于汉族学生,$p { < } 0 . 0 0 1$ ， $\scriptstyle d = 0 . 0 8 .$ $9 5 \% \mathrm { C I } { = } [ 9 7 . 0 7$ ，261.96]。维吾尔族学生再认绿色显著快于再认红色, $p { < } 0 . 0 1$ $\mathrm { d } { = } 0 . 5 5$ ，95%CI=[-182.46，-36.05]；汉族学生再认红色显著快于再认绿色， $p { < } 0 . 0 0 1$ ， $\scriptstyle { d = 0 . 4 4 }$ 95%CI=[172.44,270.66]。
+
+错误率的方差分析表明，民族的主效应显著， $F ( 1 , \ 6 0 ) { = } 2 3 . 5 3$ ， $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 2 8$ $9 5 \% C [ = [ 0 . 0 4 , \ 0 . 1 0 ]$ 。维吾尔族学生的错误率显著高于汉族学生；颜色的主效应显著， $F ( 1 ,$ $6 0 ) { = } 1 9 . 8 8$ $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \substack { = } 0 . 2 5$ $9 5 \% \mathrm { C I } { = } [ 0 . 0 2 , 0 . 0 6 ]$ 。两民族被试对绿色再认的错误率高于对红色再认；民族与颜色的交互作用显著, $F ( 1 , 6 0 ) { = } 8 . 1 4$ $p { < } 0 . 0 1$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 1 2 \mathfrak { c }$ ，简单效应分析表明，维吾尔族学生再认绿色的错误率显著高于汉族学生, $p { < } 0 . 0 1$ ， $\scriptstyle d = 0 . 6 8$ ， $9 5 \% C \mathrm { I } { = } [ 0 . 0 2 , 0 .$ 16]，二者相差 $9 . 0 9 \%$ ；维吾尔族学生再认红色的错误率亦显著高于汉族学生， $p { < } 0 . 0 0 1$ ， $d { = } 0 . 0 5$ $9 5 \% \mathrm { C I } { = } [ 0 . 1 2$ ，0.27]，二者相差 $1 9 . 4 3 \%$ ；维吾尔族学生再认红色与再认绿色的错误率差异不显著, $p { > } 0 . 0 5$ ；汉族学生再认绿色的错误率显著高于再认红色, $p { < } 0 . 0 0 1$ $d { = } 0 . 9 6$ $9 5 \% \mathrm { C I } { = } [ 0 . 0 8$ 0.18]。
+
+实验3表明，维吾尔族学生再认绿色比再认红色容易，表现为反应时短；汉族再认红色比再认绿色容易，表现为反应时短，错误率低。维吾尔族学生对绿色再认显著快于汉族学生，汉族学生对红色再认显著快于维吾尔族学生，错误率亦低于维吾尔族学生。这表明，不同的语言和文化影响颜色再认。
+
+# 5三个实验的事后分析
+
+为考察对红绿颜色认知的任务效应，对三个实验数据做 2(民族：维吾尔族/汉族) $\lvert \times 2 \rvert$ 颜色：红/绿) $| \times 3 |$ (实验任务：知觉相似性判断/颜色分类/颜色再认)的方差分析。实验任务和民族为被试间变量，颜色为被试内变量。
+
+反应时的方差分析表明，民族的主效应不显著, $F ( 1 , 1 8 0 ) { = } 0 . 5 4 , p { > } 0 . 0 5$ ；颜色的主效应显著， $F ( 1 , 1 8 0 ) { = } 2 4 . 0 3$ ， $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { { = } } 0 . 1 2$ ；实验任务的主效应显著, $F ( 2 , 1 8 0 ) { = } 1 1 0 . 5 6$ ， $p { < } 0 . 0 0 1$ ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 5 5$ 。分类反应时最短，知觉相似性判断反应时居中，再认反应时最长；民族与颜色的交互作用显著, $F ( 1 , 1 8 0 ) { = } 1 1 5 . 8 2$ $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 3 9$ 。简单效应分析表明，维吾尔族学生对绿色的知觉相似性判断、分类和再认都显著快于对红色，汉族学生对红色的知觉相似性判断、分类和再认都显著快于对绿色。颜色与实验任务的交互作用显著， $F ( 2 , \ 1 8 0 ) { = } 3 . 9 8$ ， $p { < } 0 . 0 5$ ${ \mathfrak { \eta } } _ { \mathfrak { p } } ^ { 2 } { = } 0 . 0 4$ 。民族、颜色和实验任务的交互作用显著, $F ( 1 , 1 8 0 ) { = } 1 0 . 7 4$ $p { < } 0 . 0 0 1$ ${ \eta _ { \mathrm { p } } } ^ { 2 } { = } 0 . 1 1$ 。主要表现为维吾尔族学生和汉族学生在分类中反应时最短，且维吾尔族学生对红色和绿色的分类反应时差异小，二者仅相差 $1 9 \mathrm { m s }$ ，在知觉相似性判断和再认中反应时差异大，分别相差83ms 和 110ms 。
+
+错误率的方差分析表明，民族的主效应显著, $F ( 1 , 1 8 0 ) { = } 6 . 5 3$ $p { < } 0 . 0 5$ $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } = 0 . 0 4$ ；颜色的主效应显著, $F ( 1 , \ 1 8 0 ) { = } 2 2 2 . 7 5$ ， $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 5 5$ ；实验任务的主效应显著, $F ( 2 , \ 1 8 0 ) \ = 3 1 . 1 6$ $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 2 6$ ；民族与颜色的交互作用显著， $F ( 1 , \ 1 8 0 ) { = } 3 0 . 4 4 .$ （20 $p { < } 0 . 0 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 1 5$ 。简单效应发现，维吾尔族学生对红色认知的错误率显著高于对绿色, $p { < } 0 . 0 0 1$ ， $\scriptstyle d = 0 . 6 3$ ， $9 5 \% \mathrm { C I } { = } [ 0 . 0 4$ 0.08]，汉族学生对绿色认知的错误率显著高于对红色, $p { < } 0 . 0 0 1$ $\scriptstyle d = 0 . 2 9$ ， $9 5 \%$ CI=[0.11, 0.15];民族与实验任务的交互作用显著, $F ( 2 , 1 8 0 ) { = } 4 . 7 1$ $p { < } 0 . 0 1$ ， ${ \eta _ { \mathrm { p } } } ^ { 2 } \mathrm { = } 0 . 0 5$ 。颜色与实验任务的交互作用显著, $F ( 2 , 1 8 4 ) { = } 9 7 . 4 7$ ， $p { < } 0 . 0 0 1$ ， $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } = 0 . 5 2$ 。简单效应发现，在分类和再认中，维吾尔族学生对红、绿判断的错误率无显著差异；在相似性判断中，维吾尔族学生对绿色判断的错误率显著高于对红色。民族、颜色和实验任务三者的交互作用显著, $F ( 2 , 1 8 0 ) { = } 4 . 8 6$ $p { < } 0 . 0 5$ $\mathfrak { \eta } _ { \mathfrak { p } } ^ { 2 } \overset { 2 } { = } 0 . 0 4$ 。简单效应分析表明，在相似性判断中，维吾尔族学生和汉族学生对绿色的判断错误率差异不显著， $p { > } 0 . 0 5$ ，维吾尔族学生对红色判断的错误率显著高于汉族学生, $p { < } 0 . 0 5$ 。在分类中，维吾尔族对红色分类的错误率高于汉族， $\scriptstyle p < 0 . 0 5 .$ ，对绿色分类错误率低于汉族， $p { < } 0 . 0 0 1$ 。在再认中，维吾尔族对红、绿再认的错误率均显著高于汉族, $p { < } 0 . 0 0 1$ 。
+
+# 6讨论
+
+三个实验均发现维吾尔族学生和汉族学生对绿色和红色认知存在显著差异，主要表现为维吾尔族学生对绿色的知觉相似性判断、分类和再认的反应时短，汉族对红色的知觉相似性判断、分类和再认的反应时短，错误率低。维吾尔族学生对绿色认知优于对红色认知，也优于汉族学生对绿色认知；汉族学生对红色认知优于对绿色认知，也优于维吾尔族学生对红色认知。维吾尔族学生和汉族学生对红、绿认知的差异与两个民族的红、绿文化差异一致，并且具有跨任务的稳定性。
+
+# 6.1关于语言和文化对维吾尔族学生和汉族学生对红、绿认知的影响
+
+族群通过宗教、习俗、语言等相互区别(史密斯,1991)。帕森斯认为，语言和宗教是族群文化认同的基本要素(马戎,2004)。在经历漫长的宗教嬉变后，伊斯兰教对维吾尔族心理产生深远影响(王红梅，杨福学，黎春林,2016)。穆罕默德称水、绿叶、美丽面孔为三样美好事物。信仰伊斯兰教的人崇尚绿色(马琰,2016)。绿色是伊斯兰的象征色，亦是穆斯林身份认同标志(汪小艳,2016)。伊斯兰教信徒对绿色的喜爱集中体现在建筑上，这有着深厚的历史文化渊源。阿拉伯半岛是伊斯兰教的摇篮，半岛上多沙漠，间或有少许绿洲。伊斯兰教信徒便将绿色看作生命的源泉，绿色就成为民族认知的重要内容，影响民族认知取向(李静，2006；张春霞，2015；张卫，喻金焰,2009)。
+
+每种颜色在不同民族文化中都有文化意象，其中显示颜色词的“文化信息”（扬眉,2010)。红色在汉文化中是崇尚的颜色，这源于古代的日神崇拜。烈日如火，其色赤红，给人以温暖、光明感觉。当目视太阳时，敬畏之意便油然而生，太阳就成为顶礼膜拜的象征，红色就成为“喜庆之色”(孙毅，2013)。在汉族人生活中，重大喜庆活动都以红色来渲染(周育萍,2011)。“红”又称作“赤”和“朱”。“赤”是五正色之一，对应五行中的火。“朱红”代表地位显赫，故高官贵爵府邸称为“朱门”。红色在所有颜色中给人的视觉刺激最强烈,容易使大脑兴奋，使人感到愉悦(王婷婷等,2014)。红色还容易让人联想到血，有危险和暴力义，因此常用作警示色。从血的颜色还可联想到革命与冲突。“红”与“丹”同义，代表忠诚，如成语“丹心碧血”和诗句“留取丹心照汗青”（文天祥《过零丁洋》）。红色还有蒸蒸日上、吐故纳新意。汉族人用红色表达对新生命的向往，对新生活的激情。红色还象征希望和光芒，有受欢迎、赏识、发达意，如“红人、走红”(焦丽,2012)。红色还象征利润，如“红包、红利”(迭目德英，多杰卓玛，2014)。汉族人将热闹兴旺称为“红火”(荣风静，肖征,2012)，将繁华、热闹地方叫“红尘”。红色还与女性联系，如“红颜、红妆”。红色也用于情感描述，如将健康、气色好称为“红光满面”。红色还表示庄重、热烈、正式，如铺红地毯以示隆重与欢迎(周育萍,2011)。可见，红色在汉文化中有深厚历史渊源，对人的心理有深远影响。
+
+综上所述，绿与红在维吾尔族和汉族的文化中有不同文化义。为接受本族文化，个体必须关注与本族文化和语言相关的颜色，形成对某种颜色的敏感性。这种颜色偏好和敏感性会形成一种文化无意识。在本研究中，汉族学生对红色辨别、分类和再认速度比维吾尔族学生快，错误率低；维吾尔族学生对绿色辨别、分类和再认速度比汉族学生快。这符合汉族和维吾尔族对红、绿的态度。本研究结果与谢书书等(2008)的研究结果一致：彝、白、纳西和汉族大学生对不同光亮度的黑白色块的区分与再认差异差异与四民族的黑白文化差异一致。因此，语言和文化塑造颜色知觉表征，形成与之一致的颜色知觉空间，个体根据本族的颜色知觉空间认知颜色，导致不同语言和文化的民族之间存在颜色认知差异(Ozgen& Davies,2003)。
+
+在实验1中，两民族被试知觉绿色的错误率显著高于知觉红色，这与红色与绿色对大脑的唤醒度和引起情绪有关。红色对人脑的唤醒度高于绿色，红色亦可引起愉悦情绪(王婷婷等，2014)，因此提高知觉清晰度，进而少犯错误。在实验3中，维吾尔族学生对绿色再认的错误率显著高于汉族学生，可能与加法算题有关。研究表明，维吾尔族学生的理科成绩普遍低于汉族学生(万明钢，蒋玲，2016)。很可能，加法算题对维吾尔学生的干扰大于对汉族学生的干扰，耗费了维吾尔族学生更多的认知资源，导致他们对呈现色块的记忆变模糊了。
+
+# 6.2语言和文化影响颜色认知的性质
+
+实验1发现，维吾尔族学生和汉族学生对红绿色块的区分速度有显著差异，不仅证明语言和文化影响颜色知觉，而且证明语言和文化对颜色认知的影响属于间接语言效应。语言和文化对颜色认知的影响有无直接语言效应？实验2和实验3分别采用颜色分类和颜色再认任务。与实验1比，这两个任务均涉及记忆成分，可能涉及语言标签和语言策略的使用。即在颜色分类和再认中，被试会不自觉地利用本族语言的词汇对颜色命名。已有研究多采用两种颜色，如蓝-绿色对、红-紫色对，或在同一语言中用不同语言标签的同一类别颜色，如俄语中对应蓝色有深蓝、浅蓝两个颜色词(Kay& Kempton,1984；Winawer et al.,2007；张积家，陈栩茜，尤宁，王斌,2018)。在这些研究中，大多无法排除语言标签对颜色认知的影响，因为被试会不可避免地借助语言策略完成认知任务。因此，本研究在Ozgen 与Davies (2002)和谢书书等人(2008)研究基础上，将一种颜色(红或绿)以焦点色为中心人为地划分为两部分，通过改变其色度来选取不同色块为实验材料。因为每一种色块很难在汉语或维语中找到对应颜色词来命名，甚至很难借助亮度或饱和度差异而采取记忆策略，因而巧妙地排除了语言标签对颜色认知的影响，在相当大程度上排除了直接语言效应。这一看法在实验2中得到进一步证明。在实验2中，实验材料重复出现了4次。按理，随着重复次数增加，对颜色分类的反应时会缩短。因为根据Ozgen 和Davies(2003)的观点，颜色分类可以通过后天学习来习得。如果被试在颜色分类中采用语言策略，如将绿色命名为“深绿”、“浅绿”，将红色命名为“深红”、“浅红”，那么，随着图片的重复呈现，颜色名称被重复激活，反应时会越来越短,出现重复效应。然而，无论是维吾尔族被试还是汉族被试，均未出现颜色分类的重复效应，说明被试分类是根据已有颜色知觉空间进行的。这种颜色知觉空间形成在被试从事认知任务之前。即，在实验前，两民族被试的颜色知觉空间就不同，证明语言和文化塑造了个体的颜色知觉空间。这说明，至少在本研究范围内，语言与文化对颜色认知的影响主要是间接语言效应。
+
+与颜色分类比，维吾尔族学生和汉族学生在颜色再认中反应时显著长，错误率也高。这是由于两种任务包含的认知加工过程不同造成。在实验2中，被试需要知觉两个目标色块分别形成表象，当分类色块出现时，个体需要知觉一个色块，同时完成与之前形成的两个色块表象比较，最后做出分类。在实验3中，被试首先知觉一个目标色块，形成表象，当再认色块出现时，个体需要知觉两个色块，并与之前形成的一个色块表象比较，最终做出再认判断。两个任务的反应时存在差异，一方面是因为分类只需要在线知觉一个色块，完成与之前两个色块表象的比较，再认需要在线知觉两个色块，完成与之前一个色块表象的比较，因而反应时较长。另一方面，在再认任务中有干扰任务，即在被试对目标色块形成表象后，还需做两道数学题，这占用了个体的认知资源，导致目标色块的表象变模糊了，增加了比较难度，导致反应时变长。两个任务的反应时差异很可能反映了认知过程差异。
+
+虽然本研究证实存在间接语言效应，但不能因此否定直接语言效应。本文重点是证明存在语言间接效应，所以在实验任务选择上就努力避免直接语言效应产生。对直接语言效应，很多研究证明其存在。因为颜色类别间知觉优于类别内知觉就是语言策略在起作用。另外，张积家等(2018)发现，由于汉语中“红”与“紫”有更多联合表达和类似颜色感应，在对红-紫色块和蓝-绿色块认知中，语用关系不影响颜色知觉，却影响颜色分类和颜色再认。这说明，由语用关系引起的颜色感应在认知中起重要调节作用，记忆编码在其中起直接作用，这也意味着语言策略在起作用。还有，实验3的反应时比实验1明显长，也预示着被试在包含记忆任务中借助某种语言策略来帮助记忆。但是，对间接语言效应，现有实验证据较少。本研究证实间接语言效应存在。因此，至少可以说，语言对颜色认知的影响是直接语言效应与间接语言效应并存。
+
+# 6.3关于颜色知觉与颜色偏好的关系
+
+受历史文化影响，不同民族对颜色有不同偏好。如彝族尚黑，白族尚白，纳西族尚白不厌黑，汉族崇尚红、黄而对白与黑持矛盾态度(谢书书等，2008)。蒙古族尚白、蓝而厌黑(张付海等，2016)。维吾尔族与汉族对绿与红的不同认知究竟是颜色知觉与记忆能力差异引起，还是由颜色偏好差异引起？笔者认为，这种实验效应差异虽然与颜色偏好有关，本质上仍属于认知性质，实验效应差异是由两民族对绿与红的不同认知能力造成。因为从发生上看，前辈民族颜色偏好导致偏好色在民族生活中有更高呈现率，更高的呈现率导致个体在生活中对偏好色有更高的知觉频率，进而提高个体对偏好色的感受性，增强对偏好色的认知能力。另一方面，颜色偏好也是民族文化的重要组成部分。长辈对某种颜色的积极态度会影响后代使后代产生同样的颜色偏好，这种偏好敦促个体更主动地去认知偏好色，增加对偏好色的感知频率，进而提升对偏好色的认知能力。因此，虽然民族颜色偏好与民族颜色认知能力有复杂关系，但在实验中造成两民族颜色认知差异的直接原因却是颜色知觉能力与记忆能力。民族颜色偏好差异只是因，民族颜色认知能力差异却是在实验中直接起作用的因素。
+
+波普尔(1967)提出“三个世界”的理论，认为世界上所有事物都可以区分为世界1(物理世界)、世界2(意识或精神世界)和世界3(思想的客观内容世界)(阳建国,2012)。沈家煊(2008)也提出“三个世界”的理论，认为物理世界、心理世界和语言世界是三个并行的世界。语言世界不直接对应于物理世界，它们的并行通过语言体现出来，物理世界是基础，心理世界起中介作用。心理世界负责物理世界和语言世界的衔接、转换与过渡(杜世洪,2012)。张积家、谢书书与和秀梅(2008)提出“三个空间”的理论，认为空间分为物理空间、认知空间和语言空间，物理空间决定认知空间，认知空间与语言空间相互作用。张积家、林琦坤和陈栩茜(2014)又进一步修正了该模型，认为语言空间与物理空间之间存在反馈。语言使用会引起物理空间激活，促使人脑产生与物理空间一致的认知空间表征。正如苏格拉底所说，一切事物并非等同地在同一时刻属于所有人，事物并非直接与个人相关(柏拉图,2003)。这说明，为什么物理属性相同的绿色或红色在维吾尔族人和汉族人的眼中会有不同的认知。受语言与文化影响，在维吾尔族人和汉族人眼中的颜色世界很不相同。正如Wittgenstein (1999)所说：“我的语言的界限意味着我的世界的界限。”语言是对世界的反映，语言是文化的属性、部分和条件，但语言并不直接地反映世界，语言通过认知反映外部世界。这些观点可以很好地解释不同语言讲话者对颜色认知的不同，因为语言世界对物理世界的反馈不一样。
+
+综上所述，语言和文化对颜色认知的影响存在间接语言效应。语言和文化可以改变个体的颜色知觉空间，影响甚至决定颜色认知。
+
+# 7结论
+
+(1)与汉族学生比，维吾尔族学生对绿色的辨认、分类和再认存在反应优势，对红色的辨认、分类和再认存在反应劣势。(2)语言对颜色认知的影响存在间接语言效应。语言和文化塑造人的颜色知觉空间。
+
+参考文献
+
+Berlin,B.,&Kay,P.(1969).Basic color terms:Their universalityand evolution.Berkeley andLos Angeles: University of California Press.   
+Plato. (2003). Plato Complete Works.Beijing:People's Publishing House.   
+[柏拉图.(2003).柏拉图全集(第二卷).北京：人民出版社.]   
+Bornstein,M.H.,Kessen,W.,& Weiskopf,S.(1976).Color vision and hue categorization inyoung human infants. Journal of Experimental Psychology: Human Perception and Performance, 2,115-129.   
+Davies,I. R.L, Corbet,G.G.,Laws,G.,Mcgurk,H.,Moss,A.E. S.G.,& Smith, M.W. (1991).Linguistic
+
+basicness and colour information processing. International Journal of Psychology，26(3),311-327.
+
+Davies,I.R.L.,Daoutis,C.,Pilling, M.,& Wigget,A. (2O03). Categorical perception in visual search.Paper presented at the XII Conference of the European Society of Cognitive Psychology, Granada, Spain.
+
+Die,M.D.Y,& Duo,J.Z.M.(2016).A study on the cultural specificity of color metaphors from a cognitive perspective-a case study ofthe basic color terms in Chinese and Tibetan. Chinese National Expo,(1),106- 108.   
+[迭目德英，多杰卓玛.(2016).认知视角下颜色隐喻的文化特异性研究一 -以汉藏语基础颜色词为例.中国民 族博览,(1),106-108.]   
+Du, S.H. (2012). Three words and threequestions:a philosophical responseto Shen Jiaxuan's “Physical word, Mental world, and Linguistic world". Contemporary Foreign Languages Studies,(7), 9-13.   
+[杜世洪.(2012).三个世界，三个问题—对沈家煊《三个世界》的语言哲学思考.当代外语研究,(7),9-13.]   
+Gu,D.Z.,Fu,S.S.，& Yang, R.M.(20o). Color and graphics visual principium. Beijing: Science Press.   
+[古大治，傅师申，杨仁鸣等著.(2000).色彩与图形视觉原理.北京：科学出版社.]   
+Huang,X.S., Zheng, J.,Yan, J.B.X.,Zhang, J.J.,& Zhang,L. (2011).On the color word clasification among Japanese college students.Chinese Journal of Applied Psychology, (4),365-370.   
+[黄喜珊，郑娟，盐见邦雄，张积家，张琳.(2011).日本大学生的基本颜色词分类—兼与中国大学生比较.应 用心理学,(4),365-370.]   
+Jiao,L. (2O12). A study onthe metaphorical cognition of basic color words-a case study ofred and green in Chinese, Japaneseand English. Journal of Huaihai Business (Humanities and Social Sciences Edition), (6), 72-74.   
+[焦丽.(2012).基本颜色词的隐喻认知研究—以汉日英语言中的“红”和“绿”为例.淮海工商学报(人文社 会科学版),(6),72-74.]   
+Kay,P.,& Kempton, W. (1984).What is the Sapir-Whorf hypothesis?American Anthropologist, 86, 65-79.   
+Kawai,M.,Uchikawa, K.,& Ujke, H.(1995). Infuence ofcolor category on visualsearch. Annual Meting of the Association for Research in Vision and Ophthalmology,Paper #2991,Fort Lauderdale,Florida.   
+Li, J.(2006). National psychology course.Beijing:National Press.   
+[李静.(2006).民族心理学教程.北京：民族出版社.]   
+Ma,R.(2004).The use of language and the ethnic relationship. Northwest Ethno-National Studies,(1),20-44.   
+[马戎.(2004)．语言使用与族群关系(民族社会学连载之三)．西北民族研究,(1),20-44.]   
+Ma, Y (2014). The inheritance of green beauty-the symbolic concept of Islamic art. Commercial Culture,(9). 128.   
+[马琰.(2014).绿色美的传承-伊斯兰艺术的符号理念.商业文化,(9),128.]   
+Ozgen E., & Davies.I. (2003). Acquisition ofcategorical color perception: New evidence suggests perceptual change.Paper presentedat the VII I Conference of theEuropean Society of Cognitive Psychology.   
+Ozgen,E.,& Davies,I R.L. (20o2). Acquisition of categorical color perception:Aperceptuallearning approach to the linguistic relativity hypothesis.Journalof Experimental Psychology: General, 131(4),477-493.   
+Piling,，M.,& Davies,I.R.L. (2o04).Linguistic relativism and colour cognition.British Journal of Psychology, 95(4), 429-455 ·   
+Pilling,M.,Wiggett,A.,Ozgen,E.,& Davies,I. R.L. (2oo3). Iscolor“categorical perception"reallyperceptual? Memory & Cognition, 31(4),538-551.   
+Regier,T.,& Kay,P. (2OO9).Language,thought,and color:Whorf was halfright.Trends in Cognitive Sciences, 13(10), 439-446.   
+Roberson,D.,Davidoff,J.,Davies,I.R.L.,& Shapiro,L.R. (2Oo5).Color categories:Evidence for the cultural relativity hypothesis.Cognitive Psychology, 50(4),378-411.   
+Roberson,D.,Davies,I.R.L.,&Davidoff,J. (2ooo). Color categoriesare not universal:Replicationsand new evidence from a stone-age culture. Journal of Experimental Psychology: General, 129(3),369-398.   
+Rohaguri, Hudson.(20o2). Green aesthetic in Uy gur culture. Journal of Kashgar Teachers College,(1),53-56.   
+[热汗古丽，哈得江.(2002)．维吾尔文化中的绿色审美.喀什师范学院学报,(1),53-56.]   
+Rong, F.J.,& Xiao,Z.(2O12). Comparison and translation between the English and Chinese color words“red"and "hong". Journal of Jilin Radio and TV University, (1),88-90.   
+[荣风静，肖征.(2012).英汉颜色词"red"与"红"隐喻对比与翻译．吉林广播电视大学学报,(1),88-90.]   
+Schirilo,J.A.& Wake F.U. (2O01).Tutorial on theimportance of color in language and culture. Color Research & Application, 26(3),179-192.   
+Shen, J.X.(2008). Three words.Foreign Language Teaching and Research, (6),403-417.   
+[沈家煊.(2008).三个世界.外语教学与研究,(6),403-417.]   
+Shen,M.F. (2oo8).The culture implication and comparisons withcolor terms in Han and Uy gur nationalities Journal of Hotan Teachers Colege,(5),159-160.   
+[谌梅芳.(2008).汉维语颜色词的文化含义及其对比.和田师范专科学校学报(汉文综合版),(5),159-160.]   
+Smith. (1991). Opponents in the American civil war. Commercial press.   
+[史密斯.(1991).美国南北战争中的对手.商务印书局.]   
+Sun, Y. (20l3). Cognitive metaphoris a multidimensional cross domain study. Beijing: Peking University Press.   
+[孙毅.(2013).认知隐喻学多维跨域研究.北京：北京大学出版社.]   
+Wan,M.G.,&Jiang,L. (2Ol6).On the issues of science and enginering in Chinese minority nationality education Educational Research, (2), 96-101.   
+[万明钢，蒋玲.(2016).论我国少数民族教育中的“理工科问题”．教育研究,(2),96-101.]   
+Wang, H.M., Yang,F.X.,&Li, C.L. (2016). Studies on religious culture of the frivole in yuan dynasty. Beijing: Science Press.   
+[王红梅，杨福学，黎春林.(2016).元代畏兀儿宗教文化研究.北京：科学出版社.]   
+Wang,J.,& Zhang, J. J.(2O12). Color terms and color cognition:Based on the perspective of national psychology.Advances in Psychological Science, 20,1159-1168.   
+[王娟，张积家.(2012).颜色词与颜色认知的关系——基于民族心理学的研究视角．心理科学进展,20, 1159-1168.]   
+Wang, J.,Zhang J.J.,He, X.M.,Min,C.Z.(2O13). Conceptual structureof the basic color terms for Lisu and Pumi high school students:Concurrently compare that of the Mosuo high school students.Journal of Dali University, (7),13-19.   
+[王娟，张积家，和秀梅，闵翠蓁.(2013)．傈傈族、普米族高中生基本颜色词的概念结构——兼与摩梭高中生 基本颜色词概念结构比较.大理学院学报,(7),13-19.]   
+Wang, J.,Zhang J.J.,Lin,N. (2012). Nari people's concept structureon color terms—Compared withNaxi people's concept structure on color terms.Journal of Minzu University of China (Philosophy and Social Sciences Edition), (2),87-93.   
+[王娟，张积家，林娜.(2010).纳日人颜色词的概念结构——兼与纳西人颜色词概念结构比较.中央民族大学 学报(哲学社会科学版),(2),87-93.]   
+Wang,T.T, Wang, R.M., Wang, J.,Wu, X,W.,Mo,L.,&Yang, Li.(2O14.The priming effects of red and blue on the emotion of Chinese. Acta Psychologica Sinica, 46,777-790.   
+[王婷婷，王瑞明，王靖，吴小文，莫雷，杨力.(2014).红色和蓝色对中国汉族大学情绪的启动效应.心理学报, 46, 777-790.]   
+Wang, X.Y (2016). Interpretation of the“green image”in the“Funeral of Muslims". Modern Chinese,(12), 48-
+
+49. [汪小艳.(2016).《穆斯林的葬礼》之“绿色意象”解读.现代语文,(12),48-49.] Wang,Y., Gao,J. (2O11).Culture of China's western regions.Beijing: Current Affairs Press.
+
+[王勇，高敬.(2011).西域文化.北京：时事出版社.]   
+Wei, X. Y.,& Chen,B.G. (2011).The influence of language on perception:Evidence fromcategorical perception of color. Advances in Psychological Science,19,35-41.   
+[魏晓言，陈宝国.(2011).语言对知觉的影响——来自颜色类别知觉研究的证据.心理科学进展,19,35-41.]   
+Winawer,J.,Withoft,N.,Frank,M.C.,Wu,L.S.,Wade,A.R.,&Bororditsky,L. (2OO7).Russianbluesreveal effects of language on color discrimination. Proceedings of the National Academy of Science,104(19),7780- 7785.   
+Wittgenstein,L. (1999). Tractatus logico-philosophicus. Beijing: China Social Sciences Publishing House.   
+Xie, S.S., Zhang,J. J.,He,X.M.,Lin,N.,& Xiao,E.P. (20o8). Culture's efects on‘black' and‘white’ color cognition of undergraduates from Yi Nation,Bai Nation, Naxi Nation and Han Nation. Acta Psychologica Sinica,40,890-901.   
+[谢书书，张积家，和秀梅，林娜，肖二平.(2008).文化差异影响彝、白、纳西和汉族大学生对黑白的认知.心 理学报,40,890-901.]   
+Yang, J.G. (20l2).The moral dimension of Popper's nondeterminism.Beijing: Word Publishing Corporation.   
+[阳建国.(2012).波普尔非决定论思想的道德之维.北京：世界图书出版公司.]   
+Yang,M.(2010). Interpretations on the cultural diffrences carried by the color term“red". New Curriculum Research, (12),182-184.   
+[扬眉.(2010).解读颜色词“red”所承载的文化差异.新课程研究,(12),182-184.]   
+Yang, Q.,Zhang, J.J. (2O14).The clasification of basic color terms in Oroqen: together with the effct of language、 culture and intelligence play onthe color recognition. Manchu Studies,(1),61-67.   
+[杨群，张积家.(2014).鄂伦春语基本颜色词的分类—兼论语言、文化与智力对颜色认知的影响.满语研究,(1), 61-67.]   
+Zhang, C.X. (2O15). Study on the cultural ransformation of the southern Xinjiang oasis from the perspective of the Marxist cultural center. Beijing: People's Daily Press.   
+[张春霞.(2015).南疆绿洲文化转型研究—以马克思主义文化馆为视域.北京：人民日报出版社.]   
+Zhang, F.H, Yang, X.F.,Fang. YH.,& Zhang,J.J. (2016).The conceptual structure of basic color terms in
+
+Mongolia.Journal of South China Normal University (Social Science Edition)， (1),112-118. [张付海，杨晓峰，方燕红，张积家.(2016).生活环境和宗教文化对蒙古族基本颜色词概念结构的影响.华南 师范大学学报(社会科学版),(1),112-118.] Zhang, J.J.,Chen,X.Q.,You,N.,& WangB.(2018).Onowconceptualconnections influence thecategory perception efect of colors: Another evidence of connections between language and cognition. Acta Psychologica Sinica, 50,390-399. [张积家，陈栩茜，尤宁，王斌.(2018).颜色词的语用关系影响颜色认知.心理学报,50,390-399.] Zhang, J.J.,Fang, YH.,& Xie,S.S.(20l2). Interactive theory ofcolor cognition and its evidence. Advances in Psychological Science, 20, 949-962. [张积家，方燕红，谢书书.(2012).颜色词与颜色认知的关系：相互作用理论及其证据.心理科学进展,20,949- 962.] Zhang, J.J.,Lin, Q.K.,& Chen, X.Q. (2014). Spatial language expression afects memory for spatial scenes. Journal of South China Normal University (Social Science Edition), (5),83-92. [张积家，林琦坤，陈栩茜.(2014).空间表达对汉语母语者空间场景记忆的影响——兼同英语母语者比较.华 南师范大学学报(社会科学版),(5),83-92.] Zhang, J.J.,Lin, X.Y (2005). A research on undergraduate students'classification of basic colour terms. Psychological Science,28,19-22. [张积家，林新英.(2005).大学生颜色词分类的研究.心理科学,28,19-22.] Zhang, J.J.,Liu,L. H., Chen,X.,& He,X.M.(2Oo8).Studyontherelationship between thecolor cognition and Naxi color language. Minority Languages of China, (2), 49-55. [张积家，刘丽红，陈曦，和秀梅.(2008).纳西语颜色认知关系研究.民族语文,(2),49-55.] Zhang, J.J.,Xie,S.S.，&He, X.M. (2Oo8).Theefect of languageand culture on spatial cognition:acomparison of the spatial-terms clasification by undergraduates of the Han and Naxi nationalities. Acta Psychologica Sinica, 40, 774-787. [张积家，谢书书，和秀梅.(2008).语言和文化对空间认知的影响——汉族和纳西族大学生空间词相似性分类 的比较研究.心理学报,40,774-787.] Zhang,L., Rexidan,A. (2O11). A comparative study about the value systemofbasic colour terms in Chinese and Uy gur Language. Language and Translation, (4), 37-40. [张玲，热西旦·艾山江.(2011).汉维语基本颜色词价值取向的异同比较.语言与翻译 (4),47-40.]
+
+Zhang, Q.R.,He,X.M.,& Zhang, J.J.(2Oo7).A comparative study on the classification of basic color terms by undergraduates from Yi nationality,Bai nationality and Naxi nationality.Acta Psychologica Sinica,39,18-26.   
+[张启睿，和秀梅，张积家.(2007).彝族、白族和纳西族大学生的基本颜色词分类.心理学报,39,18-26.]   
+Zhang,W.,& Yu,J.Y. (2OO9). A preliminarystudyon the color of Buddhist architecture and Islamic architecture. Journal of Xi'an University ofArchitecture and Technology (Social Science Edition),(1),54-58.   
+[张卫，喻金焰.(2009).佛教建筑与伊斯兰教建筑色彩初探.西安建筑科技大学学报(社会科学版),(1),54-58.]   
+Zhou,K., Mo,L.,Kay,P., Kwok,V. P.Y,Tifany,N.M.1.,&Tan,L.H.(2O10).Newly trained lexical categories produce lateralized categorical perceptionof color. Proceedings of the National Academy of Sciences of the United States of America,107(22),9974-9978.   
+Zhou,YP. (2O11)."Red" cultural implication differences between Chineseand English and their causes.Journal of Changjiang University(Social Science Edition),(11),96-97.   
+[周育萍.(2011).“红(red)”汉英文化意蕴差异及其成因.长江大学学报(社会科学版),(11),96-97.]
+
+# Language and Culture Influence Cognition: Effects of Indirect or Direct Language
+
+YANG Qun¹; ZHANG Jijia1；FENG Yiran1;MAIHEFULAITI· Kanji² (DepartmentofPsychology,RenminUniversityofChina;TheStateEthnic Afairs CommisionKeyResearchCenterforLanguage, Cultural,andPsychology;KeyResearch CenterforNationalPsychologyandEducation,theNationalEducationDevelopment Center of the Ministry ofEducation,Beijing lOo872,China Department of Psychology, Xinjiang Normal University,The KeyLaboratoryofMental Developmentand Leaning Science, Xinjiang Normal University, Urumqi 830O17, China)
+
+# Abstract
+
+The relationship between language and color cognition is key to understanding language and cognition. With the arguments between linguistic relevance and linguistic universal hypotheses, researchers prefer the eclectic theory that color cognition includes physics, perception,and culture-related properties. Given these theories and various investigations, interaction theory between color terms and color cognition has been proposed. One argument suggests that color perception should be influenced by language and culture, given the normal sense organs and level
+
+of intelligence.
+
+Numerous types of studies have proven that language and culture play a role in color cognition,but how such a role is performed remains to be fully understood.Discussions on the essential mechanism of this effect remain lacking,and whether this effect is a direct or indirect effect (i.e.,language strategies or cognition structure changes) continues to be unclear. According to the literature, the color category perception effect proposes that people are more likely to distinguish colors from different colors than those that landed in the same area. Thus, two categories of color were used as materials in past research, which made it difficult to distinguish between the direct and indirect effects. Accordingly, this paper employed just one category color, which was further divided into two different categories. Color culture is import to a nation. Thus, green is vital to Uygur culture,with red as the counterpart for the Han culture. In relation to this, the present study designed a perceptual task (Experiment 1) as well as classification and recognition tasks containing memory (Experiments 2 and 3),in order to explore the effect of language and culture on color cognition for the Uygur and Han nationalities.
+
+Focal colors of red (RGB: 0,255,0) and green (RGB: 255,0, O) were selected as base points, and a vertical demarcation line was drawn on the RGB chromatography. On each side of the line, nine different stimuli in the same lightness saturation level (24O-12O) but with different chromaticities were selected. In Experiment 1, three colors (two from the same side of green or red and another from the other side)constitute one set of experimental material. Participants were asked to judge as quickly and as accurately as possible whether the left or the right color block looked more similar to the middle one,and press the corresponding button on a response box. A total of 62 college students participated in the experiment (31 of Han nationality and 31 of Uygur nationality） .In Experiment 2, the materials and the participants (in terms of number and categories） were identical to those in Experiment 1.Participants were instructed to remember the colors and identify as quickly and as accurately as possible whether the folowing colors belong to the left or to the right of the color pair, and then press the corresponding buton on a response box. In Experiment 3,62 participants from the two nationalities who were using identical materials were asked to judge as quickly and as accurately as possible whether the left or the right color looked more similar to the standard one,and then press the corresponding button on the response
+
+box.
+
+Results showed significant differences in the perception, classification,and recognition tasks between the Uygur and Han nationalities. Compared with the Han nationality， the Uygur nationality had the advantage in distinguishing，classifying,and even recognizing green, but suffered a disadvantage when processing the color red. For the perception task, the two groups both spent a long time in the classification and recognition tasks.Accordingly, we believe that language and cultural differences in terms of perceiving the green and red colors affect color cognition and that such an effect is indirect, that is,language and culture can influence the color perception struc ture.
+
+Keywords: Uyghur nationality；Han nationality； color cognition; direct language effect; ndirect language effect

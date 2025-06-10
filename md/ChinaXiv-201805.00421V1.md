@@ -1,0 +1,189 @@
+# 真核表达猪白细胞介素17及其生物活性研究
+
+邓定浩，肖永乐，唐健雪，杨鑫，高荣《四川大学生命科学学院，生物资源与生态环境教育部重点实验室，动物疫病防控与食品安全四川省重点实验室，成都 610065）
+
+摘要目的：为真核表达猪白细胞介素17(IL-17)，研究产物在细胞培养下的免疫生物活性。方法:通过PCR扩增出猪IL-17基因并插入到真核表达载体pVAV1,然后转染到IPEC-J2细胞、HaCaT细胞和L02 细胞中。在转染后第24、48和72h收集细胞，第 48h收集上清液。收集细胞通过实时荧光定量PCR 检测相关免疫基因的表达水平，收集上清液通过抑菌试验检测相关抗菌肽的生物活性。结果：采用pVAX1载体构建了表达猪IL-17的重组质粒，转染到细胞中。证实IL-17基因能诱导抗菌肽基因（RegII、S100A8和BD2）的表达，显著上调JAK-STAT信号通路基因（JAK1、STAT1和STAT3）和细胞因子基因（IL-6、IL-12和TNF-α）的表达。此外，细胞上清液能够在不同程度上抑制大肠杆菌及金黄色葡萄球菌的增殖。结论：成功将猪IL-17基因真核表达，其表达产物能诱导效应细胞表达多种细胞因子，产生多种抗菌肽，具有抑菌能力；这为进一步研发猪IL-17作为抗菌免疫分子制剂奠定了初步基础。
+
+关键词猪白细胞介素17细胞转染免疫抑菌效应
+
+白细胞介素17(Interleukin 17,IL-17)是一种主要由 Th17 细胞、单核细胞和中性粒细胞等分泌产生的多功能促炎细胞因子[1]。Rouvier等在1993年首次从活化的T细胞杂交瘤中克隆出CTLA8的cDNA序列，其相关蛋白被命名为 $\mathrm { I L } { - } 1 7 ^ { [ 2 ] }$ 。IL-17受体(IL-17R)在体内分布广泛，在肠上皮细胞、成纤维细胞、肌细胞和肝细胞等多种细胞中都有不同程度表达[3]。当IL-17与受体结合后，可以通过激活JAK-STAT、NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 和MAP激酶介导的信号通路[4-5]。
+
+IL-17在炎症疾病、自身免疫性疾病、肿瘤免疫以及先天免疫和宿主防御等多个方面发挥着重要作用[6-7]。IL-17 能够诱导多种细胞表达IL-6、IL-8、TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 等促炎因子和细胞间粘附分子(ICAM-1)等来发挥其生物学效应，其能促进细胞增殖和血管生成[8-9]。IL-17通过招募中性粒细胞至炎症部位来参与其介导的炎症反应，使之成为连接固有性免疫和适应性免疫重要的桥梁[10]。IL-17还能够直接作用于组织的上皮细胞，诱导各种免疫反应来对抗病原体，并且促进组织的修复[I]。此外，IL-17在肠道稳态中也是非常重要的，其可维持肠道黏膜屏障的完整性[12]。
+
+研究还表明，IL-17能够作用于各种上皮细胞或角质层细胞，诱导多种细胞因子、趋化因子和细胞粘附分子等的产生，随后激活炎症反应，产生多种抗菌肽，继而控制和消除病原微生物的入侵以维持机体的稳态[13]。然而，IL-17基因的研究多集中在人和实验小鼠[14-16],有关猪IL-17 基因的生物活性的研究很少[17-18]。因此，本实验拟克隆猪IL-17 基因，并构建其pVAX1真核表达载体，转染相应的靶细胞——猪小肠上皮细胞（IPEC-J2 细胞）、人永生化表皮细胞（HaCaT细胞）和人正常肝细胞（LO2细胞），研究其免疫生物活性及诱导产物抗菌肽的抑菌生物活性，为研制新型动物防病抗感染分子生物制剂提供基础。
+
+# 1材料与方法
+
+# 1.1材料
+
+1.1.1质粒、菌株和细胞真核表达载体pVAX1-猪融合白细胞介素17/22(PVIL17/22)工程菌、pVAX1载体工程菌，由本实验室保存；Trans-T1Phage Resestant 化学感受态大肠杆菌购自北京全氏金公司；大肠杆菌标准菌(ATCC15306)、大肠杆菌耐药菌、金黄色葡萄球菌标准菌(ATCC 25923)、金黄色葡萄球菌耐药菌，由本实验室保存；L02 细胞，由四川大学国家生物医学材料工程研究中心王刚研究员惠赠；IPEC-J2细胞，由四川农业大学动物营养所余冰教授惠赠；HaCat细胞，由本实验室保存。
+
+1.1.2主要试剂质粒提取试剂盒及凝胶回收试剂盒均购自OMEGA公司；Phanta高保真DNA 聚合酶购自诺唯 赞公司；100bp DNALadder、2KPlusDNAMarker及 TransScriptOne-Step gDNA Removal and cDNA Synthesis SuperMix 均购自全式金公司；核酸内切酶KpnI和 XhoI、T4DNA 连接酶、Lipo3000 DNA 转染试剂及Opti-MEMI减血清培养基均购自Thermo Fisher公司；DMEM、DMEM/F12、RPMI1640、青链霉素混合液、胰蛋白酶及胎牛血清均购自 HyClone 公司；TRIzol 购自 Invitrogen 公司；SsoAdvance Universal SYBRGreen Supermix 购自Bio-Rad 公司；多粘菌素B和卡那霉素均购自奥克公司。
+
+# 1.2方法
+
+1.2.1猪IL-17基因的扩增与鉴定以已有的工程菌 PVIL17/22为模板，用特异性引物IL-17F/R，即IL-17F: $5 ^ { \circ }$ -CGGGGTACCGCCACCATGGATGC-3',IL-17R: $5 ^ { \circ }$ -CCGCTCGAGCTAAGAAATATGGCGGACG-3'，扩增得到目的基因，序列包含TPA信号肽和IL-17成熟肽。PCR 体系及反应程序均按照Phanta高保真DNA聚合酶的说明进行操作。扩增片段经 $1 \%$ 琼脂糖凝胶电泳检测，按照OMEGA凝胶回收试剂盒的说明进行纯化回收。
+
+1.2.2IL-17重组真核表达载体的构建与鉴定将IL-17的PCR产物用KpnI/XhoI双酶切，连接于同样经过双酶切的pVAX1载体中，转化至化学感受态大肠杆菌，随后通过菌液 PCR和双酶切鉴定阳性转化子。鉴定的阳性质粒由成都擎科公司测序。将IL-17重组载体命名为PV17。
+
+1.2.3PV17转染效应细胞将含重组质粒PV17及pVAX1质粒的大肠杆菌于LB培养基中扩大培养，按照OMEGA无内毒素质粒大量提取试剂盒的说明制备质粒，用于转染实验。
+
+复苏并接种IPEC-J2 细胞、HaCaT细胞和L02 细胞至6孔板中培养，待细胞 $80 \%$ 贴壁时，按照Lipo3000 DNA转染试剂的说明进行转染实验。设置转染PV17为实验组，转染pVAX1空载体为阴性对照，未转染载体为对照组。分别于转染后 $2 4 \mathrm { h }$ 、48h 和 72h收集细胞，转染后48h收集上清液。
+
+1.2.4 荧光定量 PCR 检测相关基因表达量收集细胞按照 TRIzol试剂盒的说明提取总RNA，使用 TransScript One-Step gDNA Removal and cDNA Synthesis SuperMix 反转录试剂盒合成cDNA。根据GenBank中报道的基因序列，设计并合成荧光定量PCR特异性引物，共包含 22 个相关蛋白质，其中，PPIA 或GAPDH为内参基因，IL-6、IL-12 和 TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 为细胞因子，RegII、S100A8 和 BD2 为抗菌肽，JAK1、STAT1 和 STAT3为JAK-STAT 信号通路。（表1）。
+
+以稀释后cDNA为模板，用表2中的引物和 Bio-RadCFXConnect荧光定量PCR仪来检测基因的相对表达量。反应体系为 $1 5 \mu \mathrm { L }$ ；反应程序为 $9 5 \mathrm { ^ \circ C }$ 预变性30s， $9 5 ^ { \circ } \mathrm { C }$ 变性5s，最佳退火温度退火30s，40个循环，熔解曲线为 $6 5 { - } 9 5 ^ { \circ } \mathrm { C }$ ，每5s上升 $0 . 5 \mathrm { { ^ circ C } }$ 。以PPIA或GAPDH作为内参基因，由 $2 ^ { - \Delta \Delta \mathrm { C T } }$ 计算基因的相对表达量。
+
+表1荧光定量PCR特异性引物  
+Table1Theprimersfor qRT-PCR   
+
+<html><body><table><tr><td>基因</td><td>引物(5'-3')</td><td>退火温度/℃</td></tr><tr><td>pPPIA-F</td><td>AGACAGCAGAAAACTTCCGTG</td><td>52</td></tr><tr><td>pPPIA-R</td><td>ACTTGCCACCAGTGCCATTA</td><td></td></tr><tr><td>hGAPDH-F</td><td>GTCAGTGGTGGACCTGACCT</td><td>61</td></tr><tr><td>hGAPDH-R</td><td>AGGGGAGATTCAGTGTGGTG</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>pIL-17-F</td><td>CAGACGGCCCTCAGATTACTCCA</td><td></td></tr><tr><td>pIL-17-R</td><td>AGCCCACTGTCACCATCACTTTCT</td><td>61</td></tr><tr><td>hIL-17-F</td><td>ACCAATCCCAAAAGGTCCTC</td><td>50.4</td></tr><tr><td>hIL-17-R</td><td>CACTTTGCCTCCCAGATCAC</td><td></td></tr><tr><td>pRegIIIy-F</td><td>CCACCGAGGGCTTGGAA</td><td></td></tr><tr><td>pRegIIY-R</td><td>GCAACGTAATTGAGCACATCAGA</td><td>50.5</td></tr><tr><td>hRegIIIa-F</td><td>TATGGCTCCCACTGCTATGCCT</td><td></td></tr><tr><td>hRegIIa-R</td><td>TCTTCACCAGGGAGGACACGAA</td><td>51</td></tr><tr><td>pS100A8-F</td><td>GCGTAGATGGCGTGGTAA</td><td></td></tr><tr><td>pS100A8-R</td><td>GCCCTGCATGTGCTTTGT</td><td>50</td></tr><tr><td>hS100A8-F</td><td>ATGCCGTCTACAGGGATGAC</td><td></td></tr><tr><td>hS100A8-R</td><td>ACGCCCATCTTTATCACCAG</td><td>55.5</td></tr><tr><td>pBD2-F</td><td>CCAGAGGTCCGACCACTA</td><td></td></tr><tr><td>pBD2-R</td><td>GGTCCCTTCAATCCTGTT</td><td>56.8</td></tr><tr><td>hBD2-F</td><td>CATGAGGGTCTTGTATCTCCTCT</td><td></td></tr><tr><td>hBD2-R</td><td>CCTCCTCATGGCTTTTTGCAGC</td><td>57.6</td></tr><tr><td>pJAK1-F</td><td>TTTGAGAAGTCCGAGGTGCTA</td><td></td></tr><tr><td>pJAK1-R</td><td>CAGGATCTGCTTCTTCAGGTG</td><td>60</td></tr><tr><td>hJAK1-F</td><td>TTCTACATGGGGGGATAG</td><td></td></tr><tr><td>hJAK1-R</td><td>TAAGTATGGAAACCCTCTAA</td><td>56</td></tr><tr><td>pSTAT1-F</td><td>TCTGGCACAGTGGCTAGAAAATC</td><td></td></tr><tr><td>pSTAT1-R</td><td>GAAAACGGATGGTGGCAAAC</td><td>57.4</td></tr><tr><td>hSTAT1-F</td><td>AGTCTTGGCACCTAACGTGCTG</td><td></td></tr><tr><td>hSTAT1-R</td><td>AGTTCGTACCACTGAGACATCCTG</td><td>54</td></tr><tr><td>pSTAT3-F</td><td>TGCAGCAGAAAGTGAGCTAC</td><td></td></tr><tr><td>pSTAT3-R</td><td>CCGGTCTTGATGACTAATGG</td><td>57.2</td></tr><tr><td>hSTAT3-F</td><td>GGAGGAGTTGCAGCAAAAG</td><td></td></tr><tr><td>hSTAT3-R</td><td>TGTGTTTGTGCCCAGAATGT</td><td>56</td></tr><tr><td>pIL-6-F</td><td>GGCAAAAGGGAAAGAATCCAG</td><td></td></tr><tr><td>pIL-6-R</td><td>CGTTCTGTGACTGCAGCTTATCC</td><td>52.5</td></tr><tr><td>hIL-6-F</td><td>ACTCACCTCTTCAGAACGAATTG</td><td></td></tr><tr><td>hIL-6-R</td><td>CCATCTTTGGAAGGTTCAGGTTG</td><td>54.8</td></tr><tr><td></td><td></td><td></td></tr><tr><td>pIL-12-F</td><td>TAGCCACGAATGAGAGTTGCC</td><td>52.5</td></tr><tr><td>pIL-12-R</td><td>AGGCACAGGGTTGTCATAAAAGA</td><td></td></tr><tr><td>hIL-12-F</td><td>CCACTCCAGACCCAGGAATG</td><td>51</td></tr><tr><td>hIL-12-R pTNF-α-F</td><td>GACGGCCCTCAGCAGGT CGACTCAGTGCCGAGATCAA</td><td></td></tr><tr><td>pTNF-α-R</td><td></td><td>54.5</td></tr><tr><td>hTNF-α-F</td><td>CCTGCCCAGATTCAGCAAAG</td><td></td></tr><tr><td></td><td>CCCAGGGACCTCTCTCTAATC</td><td>52.4</td></tr><tr><td>hTNF-α-R</td><td>ATGGGCTACAGGCTTGTCACT</td><td></td></tr></table></body></html>
+
+Note: p before the primers means they are porcine primers,h before the primers means they are human primers.
+
+1.2.5 抑菌实验将四种标准菌和耐药菌菌株接种于MH肉汤培养基并培养其处于对数生长期，后稀释到约为 $1 \times 1 0 ^ { 5 } \mathrm { C F U / m L }$ （ $\mathrm { O D } _ { 6 0 0 }$ 约为0.005）。然后将其接种到96孔板上，取$1 0 0 \mu \mathrm { L }$ （原液）、 ${ 5 0 } \mu \mathrm { L }$ （2倍稀释）和 $2 5 \mu \mathrm { L }$ （4倍稀释）收集的三种上清液分别加入其中，用细胞培养基补充每孔至 $2 0 0 \mu \mathrm { L }$ 。设置加入抗生素为阳性对照，只加细菌为阴性对照，不加细菌为空白对照。置于 $3 7 ^ { \circ } \mathrm { C }$ 培养箱孵育16h后，用热电酶标仪检测 $\mathrm { O D } _ { 6 0 0 }$ 值。
+
+1.2.6 数据分析以IL-17组作为实验组，以Cell组作为对照组。对以上数据在同一时间的不同组别之间的差异进行统计学分析，使用的统计学软件是GraphPad Prism6，分析方法是双因素方差分析的多重比较，采用Sidak法。当 $\scriptstyle \mathbf { P < } 0 . 0 5$ 时，认为不同组别之间有显著性差异。
+
+# 2结果
+
+# 2.1猪IL-17基因的扩增
+
+经过菌液PCR扩增得到片段经 $1 \%$ 琼脂糖凝胶电泳，其中大小约为 500bp 的条带为IL-17，这与预期相符（图1）。
+
+![](images/a546d2652310d2763dc4bcd89dd4dd50a3bcdd7b60ecf8596f4763ef7ff01015.jpg)  
+图1IL-17基因的扩增
+
+Lane M:10obp DNA Ladder; Lane 1: Negative Control; Lane 2: IL-17 Amplification Product
+
+# 2.2重组真核表达载体PV17的构建
+
+重组质粒PV17单克隆菌落的PCR产物经 $1 \%$ 琼脂糖凝胶电泳检测，显示条带大小与预期相符（图略）。进一步提取质粒进行双酶切，产物经琼脂糖凝胶电泳检测，在PV17质粒泳道发现约为3000bp 和 500bp 的两条条带，与预期大小相符（图2）。将鉴定为阳性的质粒送成都擎科公司测序，测序结果用DNAStar 软件分析。发现重组质粒中的IL-17片段序列与GenBank中公布的猪IL-17(NM_001005729.1)基因序列同源性为 $100 \%$ ，表明成功构建重组真核表达载体PV17。
+
+![](images/cc737fb8790343a7487f90b6f1ef54585fc4a344885c9000849adda9171a30a0.jpg)  
+Figure1 Amplification ofIL-17 gene by PCR   
+图2PV17双酶切产物
+
+Lane M: 2K plus DNA Marker; Lane 1:PV17 digestion products
+
+# 2.3荧光定量PCR检测细胞中基因相对表达量
+
+![](images/ffb0a05f9bbc151173ae821559edaf32c5676642b2f3d362029d755a44817601.jpg)  
+Figure 2 Restriction enzyme digestion products of PV17
+
+2.3.1IL-17基因表达的定量分析图3的结果表明，转染PV17质粒的实验组的三种效应细胞中的IL-17基因表达水平在转染后的全时间段均显著高于对照组 $( \mathrm { P } { < } 0 . 0 5 )$ 。
+
+# 图3细胞中IL-17基因表达量的变化
+
+(a):ExpressionchangeofIL-7gneinIEC-Jcels;(b):ExprsiochangeofI-17geneinaCacels; (c):Expreionagef IL-17 gene in LO2 cells.
+
+Note:Diferentleterseprntultipomparisos,ifentleterseansigncantdirc，teletesanoiiant
+
+differences.The followings are the same as here.
+
+2.3.2抗菌肽基因表达的定量分析由图4可知，在IPEC-J2 细胞中，实验组的RegIII、S100A8和BD2基因的表达水平在48h、72h时均显著高于对照组 $( \mathrm { P } { < } 0 . 0 5 )$ 。在HaCaT细胞和L02 细胞中，实验组的三种抗菌肽基因的表达水平与对照组相比，在 $2 4 \mathrm { h }$ 、48h时均出现显著上调；而在 72h 时，实验组中仅有 S100A8 基因的的达量显著高于对照组 $( \mathrm { P } { < } 0 . 0 5 )$ 。
+
+![](images/225c64df437d1758414607ba91f3e47664d0f840f90b8ab819e01193854e4862.jpg)  
+Figure 3 Expressionchange of IL-17 gene in cells   
+图4细胞中抗菌肽基因表达量的变化  
+Figure 4Expression change of antimicrobial peptide genes in cells
+
+(a)(b)(c):ExpressochageofRegIgeeinEC-Jcells,HaCacellsndLcels:(d()(f):ExprioncangeofA8ge in IPEC-J2cell,HaCaTcellsndLcels;(g)(h)(i):ExpreiochangeofBD2geneinIEC-Jcells,HaCaTcellsandLcls.
+
+2.3.3JAK-STAT信号通路基因表达的定量分析图5的结果显示，与对照组的基因表达水平相比，实验组在三种细胞中的JAK1、STAT1和STAT3三种基因的表达水平均各自在不同的时间段内出现显著上升 $( \mathrm { P } { < } 0 . 0 5 )$ 。其中，在HaCaT 细胞和L02 细胞中，实验组的三种基因的表达量在24h时均出现显著性上调。
+
+![](images/c09a7a9eebb79e58d8385ac0dbd13f2002e94fa76c2155639ed4bf640d65b6f3.jpg)  
+图5细胞中JAK-STAT信号通路基因表达量的变化  
+Figure 5 Expression change of JAK-STAT signaling pathway genes in cells
+
+(a)(b)(c):ExpressnchngeofJAKgeninIPEC-J2cell,HaCacellsndL2cels; (d(e)(f):ExpressoncangeofSTgein IPEC-J2ell,HaCaTcellsandLcels;(g)(h)(i):ExpresiochangeofSTAgeneinIEC-J2cels,HaCaTcellsandLcels.
+
+2.3.4 细胞因子基因表达的定量分析由图6的结果可知，与对照组相比，实验组在3种细胞中的IL-6、IL-12和TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 基因表达水平在不同的时间段内出现显著增加 $( \mathrm { P } { < } 0 . 0 5 )$ 。其中，实验组的IL-6 基因的表达量在48h 时均显著高于对照组，HaCaT 细胞中的IL-12基因表达水平在24-72h时均显著高于对照组，L02细胞中的TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 基因的表达水平在24-72h时也均显著高于对照组 $( \mathrm { P } { < } 0 . 0 5 )$ 。
+
+![](images/dcfb35fbcc10cf270a1aaeec78185a7251dbf3e042555d699227b34d22fadbe7.jpg)  
+图6细胞中细胞因子基因表达量的变化
+
+(a)(b)(c):ExpreionchangfI-6geeinIEC-Jcell,HaCacellsdL2cels;(d(e)(f):ExpressochangeofI-ge IPEC-J2 cells,HaCaT cells and L02 cells;(g)(h)(i): Expression change of TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ gene in IPEC-J2 cells,HaCaT cells and L02 cells.
+
+# 2.4抑菌实验检测转染基因的生物活性
+
+![](images/ab5cae44dc1e3af405b977e78d648065ca9a2f356db559a77be31666648689ce.jpg)  
+Figure6Expression change ofcytokine genes in cells
+
+2.4.1大肠杆菌抑菌结果上清液对大肠杆菌的抑菌效果如图7，结果表明与对照组相比，三种不同浓度的细胞上清液分别能显著性抑制两种大肠杆菌的生长 $( \mathrm { P } { < } 0 . 0 5 )$ 。在大肠杆菌标准菌中，三种实验组上清液2倍稀释时均能显著性抑制细菌增殖；而对大肠杆菌耐药菌，实验组的1、2、4倍稀释的上清液均能明显抑制细菌增殖，并且不同的上清液处理之间均显示大致相同的趋势 $( \mathrm { P } { < } 0 . 0 5 )$ 。
+
+# 图7上清液对大肠杆菌的抑菌效果
+
+# Figure 7Inhibition effectof the supernatants on the proliferation of E.coil
+
+a)(b)(c):Inhibition effect of the three supernatants on the proliferation of standard $E$ coil;(d) (e)(f): Inhibition effect of the thr(
+
+supernatants on the proliferation of drug-resistant $E$ coil.
+
+Note:PC meanspositivecontrol,NCmeansnegativecontrol,BCmeans blankcontrol.The folowingsarethesameashere.
+
+2.4.2 金黄色葡萄球菌抑菌结果如图8所示，与对照组的两种金黄色葡萄球菌的生长相比，实验组的细菌增殖能在不同稀释倍数下被显著性地抑制 $( \mathrm { P } { < } 0 . 0 5 )$ 。在金黄色葡萄球菌标准菌中，实验组上清液仅在原液时能显著性抑制细菌增殖，其中，IPEC-J2细胞的上清液效果最好，在三种稀释倍数下均能显著性抑制 $( \mathrm { P } { < } 0 . 0 5 )$ 。而在金黄色葡萄球菌耐药菌中，只有L02 细胞的上清液在原液或2倍稀释时能显著性抑制细菌增殖 $( \mathrm { P } { < } 0 . 0 5 )$ 。
+
+![](images/4fe06ed0f04d30a38b3c0348b1c660e1b52d1f2120b4dd057625994e2824b1bd.jpg)  
+图8上清液对金黄色葡萄球菌的抑菌效果  
+Figure 8Inhibition effectof the supernatants on the proliferationof S.aureus
+
+(a)(b)(c):Inhibition effectof the threesupernatantsontheproliferationof standard S.aureus;(d)(e)(f):Inhibitione supernatants on the proliferation of drug-resistant S.aureus.
+
+# 3讨论
+
+尽管IL-17在固有性免疫和适应性免疫水平均参与了机体的免疫调节，然而其在感染性疾病发生发展中的作用主要涉及与体外接触的上皮细胞和黏膜组织抵抗病原体感染，本实验按此方法设计其活性分析实验[19-21]。在少数有关猪IL-17基因的研究中，Katoh 等首先于2004年克隆和原核表达了猪IL-17，并研究其部分生物活性和在猪体内各组织的表达丰度[22]。在国内，猪IL-17基因的研究也十分有限，仅仅克隆和鉴定了猪IL-17基因，并没有进一步研究其免疫生物活性[17-18]。
+
+本实验成功构建真核表达质粒PV17，且基因片段前端包含一段TPA信号肽序列，用以分泌型表达收集上清液，然后转染IPEC-J2细胞、HaCaT细胞和LO2细胞，收集到的细胞和上清液通过qPCR和抑菌实验两种方式来确证IL-17及其相关基因的表达量和蛋白活性情况。
+
+结果表明，实验组的3种靶细胞中均有IL-17基因的大量表达，提示IL-17基因均成功转染到细胞中，重要的是实验组细胞的3种抗菌肽基因RegIII、S100A8和BD2的表达量均出现显著上调 $( \mathrm { P } { < } 0 . 0 5 )$ 。抗菌肽具有独特的抗感染性和抗菌活性[23]。先前的研究也表明，人源IL-17能够诱导多种上皮细胞产生多种抗菌肽，如BD2、S100A9等，且呈浓度依赖性[24]。
+
+实验还检测了转染细胞上清液的抑菌活性，三种真核表达细胞上清液均能在不同体积下显著性地抑制四种细菌的生长 $( \mathrm { P } { < } 0 . 0 5 )$ ，尽管细菌处在静止过夜的时间，仍能看出生长增殖被抑制，其中对大肠杆菌耐药菌的增殖的抑制效果最为显著。显示分泌性表达的IL-17蛋白诱导产生抗菌肽具有明显的抑菌功能，且对耐药菌能产生显著的抑菌效应。
+
+对JAK-STAT信号通路中基因表达的定量分析表明，实验组的JAK1、STAT1和STAT3基因表达水平在不同的时间段内均显著高于对照组 $( \mathrm { P } { < } 0 . 0 5 )$ 。而JAK-STAT信号通路参与了细胞增殖、分化、凋亡及免疫调节等多种重要生物学过程[25]。其中JAK1参与许多细胞因子信号转导，与肿瘤发生发展有关；STAT1介导干扰素的响应，促进Th1型细胞分化；STAT3参与细胞生长、炎性细胞因子基因转录等过程[26-28]。实验组的IL-6、IL-12 和 TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 三种基因表达水平均显著高于对照组 $( \mathrm { P } { < } 0 . 0 5 )$ 。这表明IL-17能诱导 Th1和Th2 型细胞因子，促进免疫防御动员进一步扩大和增强。这些基因表达水平的上升表明重组载体PV17的转染增强了靶细胞免疫应答及参与了靶细胞的抗菌过程。
+
+总之，我们的研究成功构建猪IL-17真核分泌型表达载体PV17，并将其转染三种细胞，证实其能够诱导多种抗菌肽的产生，上调JAK-STAT信号通路基因和部分细胞因子基因的表达，并且其上清液具有一定的抑菌作用。这为进一步研究IL-17作为新型防病抗感染分子生物制剂奠定了基础。
+
+# 参考文献：
+
+[1]Aggarwal S,Ghilardi N,Xie MH,et al.Interleukin-23 promotes a distinct CD4 T cellactivation state characterized by the production of interleukin-17[J].Journal of Biological Chemistry,2003,278(3):1910-1914. [2] Rouvier E,Luciani MF,Mattei MG,et al. CTLA-8,cloned from an activated T cell,bearing AU-rich messenger RNA instability sequences,and homologous to a herpesvirus saimiri gene[J].The Journal of Immunol0gy,1993,150(12): 5445-5456.   
+[3] Hartupee J,Liu C，Novotny M,et al. IL-17 enhances chemokine gene expression through mRNA stabilization[J]. The Journal ofImmunology,2007,179(6): 4135-4141.   
+[4] Shen F, Gaffen SL.Structure-function relationships in the IL-17 receptor: implications for signal transduction and therapy[J].Cytokine,2008,41(2):92-104.   
+[5]Meyer DM,Jesson MI,Li X,et al.Anti-inflammatory activityand neutrophil reductions mediated bythe JAK1/JAK3 inhibitor,CP-69,550,inrat adjuvant-inducedarthritis[J].Journal of inflammation,2010,7(1): 41. [6]Liang SC,TanXY,Luxenberg DP,etal.Interleukin (IL)-22 and IL-17are coexpressedby Th17celsand cooperatively enhance expresson of antimicrobial peptides[J].Jourmal of Experimental Medicine,20o6,203(10): 2271-2279.   
+[7] Kim BS,Park YJ, Chung Y. Targeting IL-17 in autoimmunity and inflammation[J]. Archives of pharmacal research,2016,39(11): 1537-1547.   
+[8] Numasaki M, Watanabe M,Suzuki T,et al. IL-17 enhances the net angiogenic activity and in vivo growth of human non-small cell lung cancer in SCID mice through promoting CXCR-2-dependent angiogenesis[J].The Journal ofImmunology,2005,175(9): 6177-6189.   
+[9] Kao CY,Huang F, Chen Y,et al. Up-regulation of CC chemokine ligand 2O expression in human airway epithelium by IL-17 through a JAK-independent but MEK/NF-kB-dependent signaling pathway[J].The Journal of Immunol0gy,2005,175(10): 6676-6685.   
+[10] MarksBR,Craft J.Barrier immunityand IL-17[C]/ Seminars in immunology. Academic Press,2009,21(3): 164-171.   
+[11] Onishi RM,Gaffen SL.Interleukin -17 and its target genes: mechanisms of interleukin -17 function in disease[J]. Immunology,2010,129(3): 311-321. [12] Song X, Zhu S,Shi P,etal.IL-17RE is the functional receptor for IL-17Cand mediates mucosal immunity to infection with intestinal pathogens[J]. Nature immunology,2011,12(12): 1151-1158.   
+[13] Cua DJ,Tato CM. Innate IL-17-producing cels: the sentinels of the immune system[J]. Nature Reviews Immunology,2010,10(7): 479-489.   
+[14] Komiyama Y,Nakae S,Matsuki T,et al. IL-17 plays an important role in the development of experimental autoimmune encephalomyelitis[J]. The Journal of Immunology, 2006,177(1): 566-573.   
+[15]周艳春，方丹，许燕璇．小鼠IL-17基因的克隆及其真核表达载体的构建[J]．海南医学,2009,20(12): 10-12.   
+Zhou Y C,Fang D, Xu Y X. Molecular cloning of mouse IL-17 gene and construction of its eukaryotic expression vector[J]. Hanan Medical Journal,2009,20(12): 10-12.   
+[16] Dirisala VR, Jeevan A, Ramasamy SK,et al. Molecular cloning, expression, and in silico structural analysis of guinea pig IL-17[J]. Molecular biotechnology, 2013, 55(3): 277-287.   
+[17] 熊艳芸，谢琪辉，罗廷荣，等．广西巴马小型猪白细胞介素 17基因的克隆及其序列分析[J]．西南农业 学报,2005,18(6): 844-847.   
+Xiong Y Y, Xie QH,Luo TR,et al. Cloning and sequence analysis of interleukin-17 gene of Guangxi Bama mini pig[J]. Southwest China Journal of Agricultural Sciences. 2005,18(6): 844-847.   
+[18]何勇，朱艳平，岳锋，等．猪白细胞介素 17A基因的克隆与鉴定[J].基因组学与应用生物学,2017,(11): 4622-4626.   
+He Y, Zhu YP,Yue F,et al. Cloning and identification of porcine IL-17A gene[J]. Genomicsand Applied Biology, 2017, (11): 4622-4626.   
+[19] Isailovic N,Daigo K,Mantovani A,et al.Interleukin-17 and innate immunity in infections and chronic inflammation[J]. Journal of autoimmunity,2015, 60: 1-11.   
+[20] Korn T,Betell E,Oukka M,et al.IL-17 and Th17 Cels[J]. Annual reviewof immunology,2009,27: 485-517.   
+[21] Xu S, Cao X. Interleukin-17 and its expanding biological functions[J]. Celular & molecular immunology, 2010, 7(3): 164-174.   
+[22] Katoh S,Kitazawa H,Shimosato T,et al. Cloning andcharacterizationof swine interleukin-17,preferentially expressed in the intestines[J]. Journal of interferon & cytokine research,2004,24(9): 553-559.   
+[23] Radek K, Gallo R.Antimicrobial peptides: natural effctors of the innate immune system[C]// Seminars in immunopathology. Springer-Verlag, 2007, 29(1): 27-43.   
+[24] Kao CY,Chen Y, Thai P,et al.IL-17 markedly up-regulates $\beta$ -defensin-2 expression in human airway epithelium via JAK and NF $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ signaling pathways[J]. The Journal of Immunology,2004,173(5): 3482-3491. [25] Leonard WJ, O'Shea J.Jaks and STATs: biological implications[J]. Annual review of immunology,1998, 16(1): 293-322.   
+[26] Rane SG,Reddy EP.Janus kinases: components of multiple signaling pathways[J]. Oncogene,20o,19(49): 5662-5679.   
+[27] Egwuagu CE. STAT3 in $\mathrm { C D 4 ^ { + } }$ T helper cell differentiation and inflammatory diseases[J]. Cytokine, 2009, 47(3): 149-156.   
+[28]LinHW,Thompson JW,Moris KC,et al. Signal transducersand activators of transcription: STATs-mediated mitochondrial neuroprotection[J]. Antioxidants $\&$ redox signaling,2011,14(10): 1853-1861.
+
+# Eukaryotic Expression of Porcine IL-17 Gene and its Bioactivity
+
+DENG Ding-hao, XIAO Yong-le, TANG Jian-xue, YANG Xing, GAO Rong
+
+LaboratoryofBio-ResourceandEco-EnvironmentofMinistryofEducation,KeyLaboratoryforAnmaliseasePrevetionand
+
+Food Safety of Sichuan Province,Collge ofLife Sciences,Sichuan University,Chengdu 6loo64,China)
+
+AbstractObjective: To study porcine interleukin-17(IL-17) eukaryotic expression and their biologic activity. Methods: The IL-17 gene was amplified by PCR and cloned into eukaryotic expression vector pVAX1, named PV17. PV17 was transfected into IPEC-J2 cells, HaCaT cells and L02 cells, thereafter the cells were collcted on hours 24,48 and 72, the supernatants were collected on hours 48.Related genes expression levels in cels were analysed by qRT-PCR, bioactivity of antimicrobial peptides in supernatants were analyzed by bacteriostatic test in vitro. Results: The eukaryotic expression plasmid of the porcine IL-17 gene was constructed and transfected into the three eukaryotic cels,and could expressed in target cells.The expression levels of antimicrobial peptide genes (RegIII, S100A8 and BD2), JAK-STAT signaling pathway genes (JAK1, STAT1 and STAT3) and cytokine genes (IL-6, IL-12 and TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ ） were significantly up-regulated. Furthermore, the supernatants have marked bacteriostatic effect on $E$ coli and $S$ aureus. Conclusion: The recombinant plasmid of the porcine IL-17 gene was constructed and expressed in target cels,and the expressed products elicited the significant increases of cytokines and antibacterial peptides,which manifested obvious antibacterial activities against $E$ coli and $S$ aureus drug-resistant bacteria,and facilitated the further development of porcine IL-17 as the antibacterial reagent.
+
+Key words Porcine IL-17 Cell transfection Immunity Antibacterial effect

@@ -1,0 +1,414 @@
+[
+    {
+        "type": "text",
+        "text": "我国人均水资源量分布的俱乐部趋同研究基于扩展的马尔科夫链模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周迪'，周丰年²，钟绍军（1 广东外语外贸大学经贸学院,广东广州510006；2长江水利委员会长江口水文水资源勘测局,上海200136;3湖北科技学院数学与统计学院,湖北咸宁437100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究区域水资源不平衡背后的“俱乐部趋同”现象,对于水资源调节以及水资源均衡配置具有重要的理论和实践意义。基于2004—2015年我国31个省（市、区)的人均水资源数据，利用扩展的马尔科夫链模型检测了不同时长下我国省际水资源量分布的俱乐部趋同现象，并分析了其时间特征。结果表明：即使在5a的时间积累下，我国人均水资源量仍存在着明显的俱乐部趋同现象，高水平和低水平地区水资源量分布高度固化，且俱乐部趋同程度在2008年开始向恶化的趋势发展，可见当前我国区域水资源调节力度有待进一步加强。最后论文根据各地区人均水资源在考察期各年所属俱乐部类型、类型转移频率等因素对各地区进行了分类，以对区域水资源调节提供支持和参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水资源；俱乐部趋同；马尔科夫链模型；水资源调节中图分类号：F062.1 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国水资源短缺，且时空分布不均衡、水土资源分布不匹配,长江流域及其以南地区的国土面积占全国 $3 6 . 5 \\%$ ,水资源量占全国的 $8 1 \\%$ ，长江流域以北地区，国土面积占全国 $6 3 . 5 \\%$ ，而水资源量仅占全国的 $1 9 \\%$ [1]。此外,近年来旱涝灾害频繁,而我国大部分地区都处于季风气候环境，导致我国水资源在时间上也存在分布不均的状况。水资源成为国家经济可持续发展和社会长治久安的重大瓶颈之_[2]。面对区域水资源的供需矛盾问题,政府进行了积极的干预和调节工作，“国务院南水北调工程建设委员会办公室”、“首都水资源协调委员”等区域水资源协调机构相继成立，南水北调中线工程也于2014年12月12日正式通水。区域间水资源协调和调节成为缓解地区水资源供需矛盾的重要手段。那么，科学准确地考察区域水资源非均衡分布的长期固化现象是否有效缓解，评价当前我国区域水资源协调调节力度和效果成为亟待研究的问题。为此，本文试图对上述问题进行回答，对我国区域水资源不平衡问题背后的“俱乐部趋同”现象展开研究，以期为我国水资源调节、水资源有效配置提供政",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "策建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究我国水资源量分布的文献很多，普遍认为我国水资源量存在着分布不协调，供需矛盾，且总体上处于缺乏的状态。如宋先松等[3]指出我国北方地区人多、地多、国民经济相对发达而水资源短缺，南方大部分地区人多、地少、经济发达、水资源相对丰富，这种组合格局导致水资源的供需矛盾十分突出。王福林4 认为我国是世界上人口最多的发展中国家，水资源分布与工农业生产布局极不协调，人均水资源量紧缺，污染严重、过度开发等问题严重，面临着严重的水危机，为了改变目前用水短缺，走可持续发展的水资源合理配置之路已成为一种必然的选择。在局部地区水资源时空分布的研究中，有对广东省[5]、云南省[6]、京津冀地区[7-8]、东北地区[9]等展开考察，所采用的方法有云模型（cloudmod-el)[5];GIS、层次分析法综合评价[5-7];泰尔系数、变异系数、曲线分析和空间分级分类[8等方法。能较好的考察地区水资源及用水的时空分布特征、水资源差异等状况。关于水资源调配的文献也较为丰富，且从不同的角度设计水资源优化配置模型，如",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DAVIJANI等[10]从就业最大化的视角来设计水资源优化配置,HU 等[\"]从公平和效率权衡的视角提出了一种区域水资源最优分配模型，并将其用到我国曲江流域的水资源配置中。此外,也有学者基于运筹学理论的多目标规划法[4,12] 、多目标鱼群一蚁群算法[13]等方法进行水资源的优化配置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，已有区域水资源量分布的研究主要是从区域差异及分布格局进行考察，而解决区域水资源量分布不均问题主要是通过构建单目标或多目标规划模型来设计水资源分配方案。但有关人均水资源量分布的固化问题，即人均水资源量分布“多者恒多”、“少者恒少”现象的研究明显不够,这种现象也称为人均水资源量分布的“俱乐部趋同”。水资源空间分布不均匀是自然规律，取决于地理、气候等自然因素，但这种长期分布不均现象的固化程度到底多高？另外，面对我国区域人均水资源量分布的不均衡现象，政府积极实施区域水资源分配调节政策，这种政策力度以及政策效果如何呢？这些问题目前学者关注还不够。研究区域俱乐部趋同可以考察事物是否长期存在区域不均衡固化现象，因而得到学者的广泛关注,如考察创新资源[14]、金融资源[15]等的俱乐部趋同。将该研究思路和框架引入区域人均水资源量的分布中，一方面可以将已有人均水资源量分布不均衡的分析视角从静态扩展到动态，从短期扩展到长期；另一方面，可以考察我国区域人均水资源量分配调节的政策力度以及政策效果。基于此,本文采用扩展的马尔科夫链方法考察不同时间长度下我国人均水资源配置的俱乐部趋同现象，包括俱乐部趋同的检验及时间特征分析，以丰富现有研究文献，为我国水资源调节提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有马尔科夫链模型的研究都是在一步时间长度(时长)为一年的框架下进行[16-17],而由于各地区水资源受到各地自然环境以及自然资源禀赋的深刻影响，区域水资源非均衡分布固化现象在一年时间难以发生明显变化。且各类政策的出台往往需要时间消化，区域水资源调节政策更是如此，只有在多年时间下进行考察才符合实际，才能更科学和准确的评价我国区域水资源协调力度以及协调效果。因而传统的马尔科夫研究框架存在较大的局限，为此，本文将传统的一年时长马尔科夫链模型扩展为可变时长模型，并且传统的时间段分析通常是人为划分时间，时间间断点的选取较为随意，本文将借助严格的统计检验考察俱乐部趋同时间特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设各地区根据水资源水平的不同划分为 $k$ 个类型,一步时长为 $d$ 年的转移概率记为 $\\textit { P } _ { i j } ^ { t , t + d } = P$ $\\{ X _ { t + d } = j | X _ { t } = i \\}$ ,表示第 $\\mathbf { \\Phi } _ { t }$ 年水资源水平处于 $i$ 类型的地区在 $d$ 年后转移到 $j$ 类型的一步转移概率，综合整个考察期间内所有地区和所有可能转移的情况,得到考察期 $T$ 内的马尔科夫转移概率 $P _ { i j } ^ { d }$ ，并用下式进行估计：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { i j } ^ { d } = \\sum _ { t = t _ { 0 } } ^ { t _ { n } - d } n _ { i j } ^ { t , t + d } \\big / \\ \\sum _ { t = t _ { 0 } } ^ { t _ { n } - d } n _ { i } ^ { t } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $n _ { i j } ^ { t , t + d }$ 表示在整个研究期间,由所有在 $\\mathbf { \\chi } _ { t }$ 年属于$i$ 类型而在 $\\ t + d$ 年转移为 $j$ 类型的地区数之和; $n _ { i } ^ { t }$ 表示第 $\\mathbf { \\Phi } _ { t }$ 年中水资源水平属于 $\\mathbf { \\chi } _ { i }$ 类型的地区总数。分别对不同类型的转移概率进行估计，进而得到如(2)式所示的 $d$ 年时长马尔科夫转移概率矩阵：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } . . . \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } . . . \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } } \\\\ & { \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } . . . \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { 2 } } ^ { d } } . . . \\frac { n _ { \\mathrm { 2 } } ^ { d } } { n _ { \\mathrm { 2 } } ^ { d } } } \\\\ & { \\frac { n _ { \\mathrm { 2 } } ^ { d } } { n _ { \\mathrm { 2 } } ^ { d } } . . . \\frac { n _ { \\mathrm { 2 } } ^ { d } } { n _ { \\mathrm { 2 } } ^ { d } } . . . \\frac { n _ { \\mathrm { 2 } } ^ { d } } { n _ { \\mathrm { 2 } } ^ { d } } . . . \\int _ { 0 } ^ { d } . . . \\ d { P } _ { 2 } ^ { d } . . . \\int _ { \\frac { \\mathrm { 2 } } } ^ { d } } \\\\ & { . . . . . . . . . . \\quad . . . . } \\\\ & { \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } . . . . \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } . . . \\frac { n _ { \\mathrm { H } } ^ { d } } { n _ { \\mathrm { H } } ^ { d } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\chi } _ { i }$ 类型俱乐部的规模为 $n _ { i } ^ { d }$ .，即（1）式中的$\\sum _ { t = t _ { 0 } } ^ { t _ { n } - d } n _ { i } ^ { t } ; P _ { i j } ^ { d }$ 表示 $j$ 类型的地区在 $d$ 年后仍为 $\\mathbf { \\chi } _ { i }$ 类型的一步转移概率，值越大表示这类俱乐部内部的固化程度越严重，趋同程度越高。通过比较不同时间段内的转移概率矩阵可以考察俱乐部趋同随着时间的变化特征，而判断转移概率矩阵的差异需要借助严谨的统计检验，具体通过构建如下的似然比统计量[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ = - 2 \\log \\Biggl \\{ \\prod _ { \\lambda = 1 } ^ { l } \\ \\prod _ { i = 1 } ^ { k } \\ \\prod _ { j = 1 } ^ { k } \\left( \\frac { P _ { i j } ^ { d } } { P _ { i j } ^ { d } ( \\lambda ) } \\right) ^ { n _ { i j } ( \\lambda ) } \\Biggr \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $l$ 为不同时间段; $P _ { i j } ^ { d }$ 是转移概率的估计值; $P _ { i j } ^ { d }$ $( \\lambda )$ 和 $n _ { i j } ( \\boldsymbol { \\lambda } )$ 分别表示在时间段 $\\lambda$ 内测算的马尔科夫转移概率和相应的省份数，检验统计量 $Q$ 服从自由度为 $k \\times ( k - 1 )$ 与0转移概率个数之差的 $\\chi ^ { 2 }$ 分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源与研究工具",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的数据为2004—2015年间全国31个省(区、直辖市)的人均水资源量数据，来源于国家统计局官网《中国统计年鉴》，使用的研究软件为Matlab 2015。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2我国人均水资源量分布的基本状况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "国际公认的人均水资源标准如表1所示，人均水资源量低于 $3 \\ 0 0 0 \\ \\mathrm { m } ^ { 3 }$ 的为轻度缺水;而介于500$\\sim 1 \\ 0 0 0 \\ \\mathrm { m } ^ { 3 }$ 的为重度缺水；低于 $5 0 0 ~ \\mathrm { m } ^ { 3 }$ 的为极度缺水；低于 $3 0 0 ~ \\mathrm { m } ^ { 3 }$ 是危及人类生活生存的最低标准。基于我国2015年的人均水资源数据，按照表1中的标准进行划分，可以得到我国人均水资源空间分布图，具体如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，我国除了西部和西南部以外，大部分地区都处于轻度缺水甚至更严重的缺水状态。甘肃、宁夏以及我国的东部、华北地区是我国水资源短缺的重灾区。江苏、辽宁、甘肃处于极度缺水的状态,更为严重的是北京、河北、上海、宁夏四个省（市、自治区），其人均水资源低于最低标准，已经处于危及人类生存生活的最低水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2048feaf2b4085c918c69dc95dea2dde37599bb553127adba15b21c24529ba42.jpg",
+        "table_caption": [
+            "表1人均水资源量标准表",
+            "Tab.1Standard scale of water resources per capita "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>人均水资 源量／m</td><td>300</td><td>300~500</td><td>500~10001000~3000</td><td></td><td>3000 以上</td></tr><tr><td>缺水</td><td>最低</td><td>极度</td><td>重度</td><td>轻度</td><td>正常</td></tr><tr><td>标准</td><td>标准</td><td>缺水</td><td>缺水</td><td>缺水</td><td>水平</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8b69d23b768e1f39c7b65a094a08c701d2eed56b7576fd2162b80b5a640f4c3.jpg",
+        "img_caption": [
+            "图1中国人均水资源量空间分布",
+            "Fig.1Spatial distribution of per capita water resources in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人均水资源量较为充裕的地区主要集中在我国西部、西南部以及海南省。我们通常认为西藏和新疆属于缺水地区，而实际情况恰恰相反，西藏水资源十分丰富，西藏是我国许多大水系包括长江和黄河的发源地，淡水资源十分丰富，其水资源总量高居我国首位，而西藏人口较少，因此人均水资源量十分可观。同样的，新疆地区有丰富的高山冰雪融水提供淡水资源，其水资源总量比较可观，且其人口密度不大，因此人均水资源量也处于较高的水平。可见，我国人均水资源量空间分布差异明显，那么从动态的角度看，这种分布状况是发生了变化、使低水平地区得以改善，还是长期固化呢？具体的，分布状况变化或固化的程度又有多大？下面对这些问题进行研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3人均水资源量分布俱乐部趋同的实证分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 俱乐部趋同检验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果根据联合国人均水资源的分级标准，大部分地区会属于轻度缺水的等级，不利于本文采用的马尔科夫链模型的分析。为此,参考周迪等[19]的思路，根据各地区水资源水平和全国平均水平的关系将各地区划分为四组，分别代表水资源丰富程度的四个水平：(1)低水平：低于平均值 $5 0 \\%$ ；(2）中低水平：介于平均值的 $5 0 \\% \\sim 1 0 0 \\%$ ；(3)中高水平：介于平均值的 $1 0 0 \\% \\sim 1 5 0 \\%$ ;(4)高水平：高于平均值的 $1 5 0 \\%$ 。进而采用马尔科夫链方法计算地区在特定时下后的转移概率，以考察各地区在不同水平组别之间的转移情况。我国各省市人均水资源转移概率见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于西藏地广人稀，而且是水系发源地，其人均水资源值为其他省市的数10倍，该值会影响马尔科夫链的分类结果，因此在本步骤中将其作为异常值删除。表2显示，高水平地区保持原状态的概率高达 $91 \\%$ 以上，可见高水平基本可以稳定的维持着比较充足的人均水资源量。在5a的时长内，低水平地区也有比较高的保持原状概率，约在 $7 3 \\% \\sim 7 9 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2不同时长下人均水资源马尔科夫转移概率矩阵",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2ea07b16472f2aa20fd011b9c3e3efd94d690d1c6536e7320b06c499e5c57c3.jpg",
+        "table_caption": [
+            "Tab.2Markov transition probability matrix of the per capita water resources at different time span "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时长</td><td>N</td><td>类型</td><td>高</td><td>中高</td><td>中低</td><td>低</td></tr><tr><td>1</td><td>127</td><td>高</td><td>0.937</td><td>0.063</td><td>0.000</td><td>0.000</td></tr><tr><td rowspan=\"6\">2</td><td>81</td><td>中高</td><td>0.111</td><td>0.716</td><td>0.173</td><td>0.000</td></tr><tr><td>52</td><td>中低</td><td>0.000</td><td>0.250</td><td>0.481</td><td>0.269</td></tr><tr><td>70</td><td>低</td><td>0.000</td><td>0.043</td><td>0.186</td><td>0.771</td></tr><tr><td>116</td><td>高</td><td>0.948</td><td>0.052</td><td>0.000</td><td>0.000</td></tr><tr><td>71</td><td>中高</td><td>0.085</td><td>0.789</td><td>0.127</td><td>0.000</td></tr><tr><td>51</td><td>中低</td><td>0.000</td><td>0.235</td><td>0.549</td><td>0.216</td></tr><tr><td rowspan=\"4\">3</td><td>62</td><td>低</td><td>0.000</td><td>0.048</td><td>0.161</td><td>0.790</td></tr><tr><td>103</td><td>高</td><td>0.913</td><td>0.087</td><td>0.000</td><td>0.000</td></tr><tr><td>65</td><td>中高</td><td>0.139</td><td>0.723</td><td>0.139</td><td>0.000</td></tr><tr><td>46</td><td>中低</td><td>0.000</td><td>0.283</td><td>0.457</td><td>0.261</td></tr><tr><td rowspan=\"4\">4</td><td>56</td><td>低</td><td>0.000</td><td>0.054</td><td>0.214</td><td>0.732</td></tr><tr><td>92</td><td>高</td><td>0.924</td><td>0.076</td><td>0.000</td><td>0.000</td></tr><tr><td>57</td><td>中高</td><td>0.105</td><td>0.737</td><td>0.158</td><td>0.000</td></tr><tr><td>40</td><td>中低</td><td>0.000</td><td>0.350</td><td>0.475</td><td>0.175</td></tr><tr><td rowspan=\"5\">5</td><td>51</td><td>低</td><td>0.000</td><td>0.039</td><td>0.216</td><td>0.745</td></tr><tr><td>80</td><td>高</td><td>0.925</td><td>0.075</td><td>0.000</td><td>0.000</td></tr><tr><td>50</td><td>中高</td><td>0.140</td><td>0.700</td><td>0.160</td><td>0.000</td></tr><tr><td>34</td><td>中低</td><td>0.000</td><td>0.294</td><td>0.529</td><td>0.177</td></tr><tr><td>46</td><td>低</td><td>0.000</td><td>0.044</td><td>0.217</td><td>0.739</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "之间。特别的，低水平地区在五年后仍有 $7 3 . 9 \\%$ 的概率处于低水平状态。可见，我国人均水资源量分布存在着“多者恒多，少者恒少”的现象，固化效应比较明显，即使在5a时间的积累下，区域人均水资源量分布的俱乐部趋同现象依然存在。这也表明我国当前的区域水资源调节力度仍有待加强，调节效果有待进一步的提高。对于其他类型而言，中低水平的地区发生转移的概率稍大，在不同时长下约有$5 0 \\%$ 的概率向相邻一级的类型转移，处于不太稳定的状态。在12a的考察期内，一直保持在高水平的地区有青海、新疆、云南三个省份，而水资源总量能保持较高水平的湖南、广东、广西、四川等地区由于人口密度较大，其人均水资源只能保持在中高水平甚至更差的水平。一直保持在低水平的地区有宁夏、河南、山西、河北、北京、天津、上海、江苏、山东，人均水资源处于低水平的地区基本和水资源总量为低水平的地区一致，华北地区和长江下游地区由于人口密集并且本来水资源总量就不大，成为人均缺水的重灾区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过以上分析可知，我国31个省份人均水资源量分布确实存在着较为明显的“俱乐部趋同”现象，这对那些处于“低水平陷阱”的地区而言不利，因此政府应进一步加大当前水资源的调节力度，使各地区人均水资源量更加均衡，从而保障区域的均衡发展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2俱乐部趋同的时间特征考察",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了分析我国人均水资源量俱乐部趋同的时间特征，以考察期内每一年为时间分割节点，利用公式(3)检验该节点前后转移概率的差异性。由于数据量不大，而时长年份的增加会减少分割后样本的个数，而样本个数又会影响检验的有效性，本文只检验了时长为3a以内的情形。由于篇幅限制，具体的显著性检验结果没有给出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于人均水资源量而言，在时长为1a时没有检验显著的分割年份，但当时长为2a或者3a时，则出现多个检验显著的分割年份，时长为2a时，2008—2011年为分割点均检验显著，即以这些年份为分割点分组，前后年份内的俱乐部趋同有显著性变化。时长为3a时,2009—2011年为分割点检验结果显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3为时长为2a时，各俱乐部保持原状的概率，我们可以通过该表研究人均水资源俱乐部趋同是否发生变化。在显著性检验中，检验显著的年份为2008—2011年，由表中可以得到各水平地区的固化效应的变化，以2008年为分割点，高水平俱乐部保持原状概率开始有小量幅度的下降，固化效应有轻微减弱的趋势，低水平俱乐部的固化程度则从2008年开始迅速增强，中低水平、中高水平俱乐部固化效应在显著的分割年份前后都有比较明显的下降，而中低水平俱乐部的固化效应下降得更明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f1a62eeb28db77ad95f2df84fa4594c4af7d4c72e3fb0b7365ccecf9616f1ed.jpg",
+        "table_caption": [
+            "表3不同时间段上的各俱乐部趋同程度(固化概率)",
+            "Tab.3 Degree of convergence（probability of cure）at different levels in different time periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">K</td><td colspan=\"4\">2004-K</td><td colspan=\"4\">K -2015</td></tr><tr><td>高</td><td>中高</td><td>中低</td><td>低</td><td>高</td><td>中高</td><td>中低</td><td>低</td></tr><tr><td>2006</td><td>1.000</td><td>0.833</td><td>0.500</td><td>0.800</td><td>0.935</td><td>0.705</td><td>0.600</td><td>0.851</td></tr><tr><td>2007</td><td>1.000</td><td>0.813</td><td>0.571</td><td>0.692</td><td>0.937</td><td>0.673</td><td>0.571</td><td>0.878</td></tr><tr><td>2008</td><td>0.973</td><td>0.864</td><td>0.667</td><td>0.684</td><td>0.927</td><td>0.638</td><td>0.517</td><td>0.889</td></tr><tr><td>2009</td><td>0.979</td><td>0.867</td><td>0.722</td><td>0.708</td><td>0.946</td><td>0.625</td><td>0.522</td><td>0.871</td></tr><tr><td>2010</td><td>0.950</td><td>0.838</td><td>0.667</td><td>0.759</td><td>0.956</td><td>0.531</td><td>0.563</td><td>0.852</td></tr><tr><td>2011</td><td>0.944</td><td>0.867</td><td>0.613</td><td>0.788</td><td>0.943</td><td>0.458</td><td>0.546</td><td>0.800</td></tr><tr><td>2012</td><td>0.951</td><td>0.849</td><td>0.611</td><td>0.825</td><td>0.920</td><td>0.500</td><td>0.575</td><td>0.733</td></tr><tr><td>2013</td><td>0.956</td><td>0.769</td><td>0.641</td><td>0.844</td><td>0.923</td><td>0.600</td><td>0.540</td><td>0.671</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "查看考察期内12a的中国水资源公报，发现从2008年开始，我国旱涝灾害、暴雨山洪等自然灾害发生频率提高，几乎每年都出现极端自然灾害。2008年南方大规模雪灾，汶川地震造成水利设施受损并产生堰塞湖，黄河40a一见凌汛;2009 年气候异常，一些地区降雨之多、台风之强、旱情之重为历史罕见。2010年我国西南五省区发生历史罕见的特大干旱，即洪灾多数发生在水资源丰富的南方地区以及长江中游流域，旱灾则多数发生在华中，华北，东北这些水资源本来就短缺的地区，西南地区由于结构性产业分布不合理等原因，也出现结构性缺水的状况。而旱涝灾害的频发也是俱乐部趋同的体现，造成水资源“多者恒多，少者恒少”的现象。而大规模的旱灾更是令本来水资源不丰富的地区的水资源环境进一步恶化，向低水平转移并固化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了水资源丰富地区能保持稳定以外，水资源环境一般的地区固化效应开始下降，而偏低的地区开始长期保持较低的状态，这恰恰反映了近年来我国水资源环境越来越差的状况，中高水平地区因为植被破坏、过度开发以及污染等原因，水资源质量下降，使得这些地区人均水资源拥有量下降，向中低水平转移。而一些本来就水资源匮乏的地区，由于上游的水资源浪费和污染，使本来水资源环境不良的地区雪上加霜，缺水情况越来越严重，最终导致人均水资源量固化在低水平等级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4不同人均水资源量俱乐部趋同特征的地区分类",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于我国人均水资源量分布在空间上存在明显的俱乐部趋同现象，高低水平俱乐部固化明显。基于维护社会公平、缓解地区用水短缺、提高资源利用率的出点，通过国家水利工程进行调水是必然的选择。进行水资源调节之前有必要了解我国各省份人均水资源量分布的特点，一方面需要了解各省份人均水资源量在整个考察期内的分布水平；另一方面还需要了解其分布的稳定性。为此本文基于马尔科夫链的结果对不同地区进行分类。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文将整个考察期内平均等级不小于3.5（1\\~4分别表示水资源水平为低、中低、中高和高水平类型)的地区划分为中高水平俱乐部,即在考察年份内，地区至少有一半的年份处于人均水资源高水平地区。此外，本文还对各地区人均水资源水平的稳定性进行分类。若该地区水资源水平类型转移总次数大于3次，即水资源水平类型在考察期内四分之一以上的时间都在转移变化,则认为该地区是不稳定地区。为此根据这些条件，本文将我国31个省份划分成四大类型：较高水平俱乐部稳定类型、较高水平不稳定类型、较低水平稳定类型以及较低水平不稳定类型，具体如图2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看到，人均水资源量处于中低水平俱乐部且较为稳定的省市分别为：北京、天津、河北、山西、上海、江苏、山东、河南、宁夏，甘肃、四川、湖北，这些地区主要集中在我国华北地区和华中地区。这些地区在我国属于水资源版图洼地，是需要水资源输入调节的重点地区。在考察期内人均水资源量相对较高，且较为稳定的地区有：西藏、广西、云南，青海，这些区域主要为我国西部水资源丰富而人口密集度不高的地区，这些地区是能成为水资源输出的重点地区。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f95b361de29d77ffbd3117c1ad5de0cd64bf03214e66081b12f2b39486d3aa91.jpg",
+        "img_caption": [
+            "图2 各地区人均水资源量俱乐部趋同特征分类 Fig.2 Convergence characteristics of water resources clubs in different regions "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结论与建议",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文根据2004—2015年全国31个省（市、自治区)的人均水资源数据，绘制我国水资源空间分布图，对我国水资源量分布的空间格局进行描述。更进一步，通过建立扩展的马尔科夫链模型研究我国人均水资源量分布的俱乐部趋同问题，包括俱乐部趋同的检测，俱乐部趋同的时间特征检验。最后根据各地区人均水资源在考察期各年所属俱乐部类型、类型转移频率等因素对各地区进行了分类，为我国区域水资源调节提供支持和参考。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文章得出以下结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）在考察期内，我国各省市人均水资源量存在着比较明显的俱乐部趋同现象，即使在5a时间的积累下，人均水资源量高水平地区处于高水平状态的概率高达 $9 2 . 5 \\%$ ,同时低水平地区也有 $7 3 . 9 \\%$ 的概率处于低水平状态，人均水资源量分布存在着“多者恒多，少者恒少”的现象。这也表明我国当前的区域水资源调节力度仍有待加强",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）从2008年开始，由于旱涝灾害多发，河流频繁出现凌汛和洪灾，人均水资源的俱乐部趋同开始发现显著的变化，水平偏高地区的固化效应下降，并且开始向低水平地区转移，水平偏低地区的固化效应则有逐渐增强的趋势。反映了近年来我国坏境破坏严重、过度开发等因素导致水资源环境逐步恶化，使本来水资源丰富的地区水资源质量下降，而水资源环境本身不佳的地区则是雪上加霜。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于以上结论，本文提出以下建议：人均水资源量在空间上存在严重的分配不均，而且有俱乐部趋同现象，特别是高水平和低水平俱乐部出现明显的固化效应。因此实施调水仍是解决我国当前人均水资源量分布长期不均衡问题的一项重要措施；考虑了人均水资源量分布水平、分布稳定性因素后，我国可能符合水资源输出的区域主要为西南部和西部地区，需要水资源输入的地区为华北地区和中部等地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］钱文婧，贺灿飞.中国水资源利用效率区域差异及影响因素研",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "究[J].中国人口.资源与环境，2011,21（2）:54-60.［QIAN Wenjing,HE Canfei.China's regional difference of water resource use efficiency and influencing factors[J].China Population,Resources and Environment,2011,21(2）:54-60.]   \n[2]童绍玉,周振宇,彭海英.中国水资源短缺的空间格局及缺水 类型[J].生态经济,2016,32（7）:168－173.[TONG Shaoyu, ZHOU Zhenyu,PENG Haiying.Spatial pattern of scarcity of water and its shortage types in China[J].Ecological Economy,2016,32 (7):168 -173.]   \n[3］宋先松,石培基,金蓉.中国水资源空间分布不均引发的供需 矛盾分析[J].干旱区研究,2005,22（2）：162-166.[SONG Xiansong,SHI Peiji,JIN Rong.Analysis on the contradiction between supply and demand of water resources in China owing to uneven regional distribution[J]. Arid Zone Research,2005,22（2）: 162 -166.]   \n[4］王福林.区域水资源合理配置研究—以辽宁省为例[D].武 汉：武汉理工大学,2013.［WANG Fulin.Research on rational allocation of regional water resources:Taking Liaoning Province as an example[D].Wuhan:Wuhan University of Technology,2013.]   \n[5]ZHOUQ,WANG W,PANG Y,et al. Temporal and spatial distribution characteristics of water resources in Guangdong Province based on a cloud model[J].Water Science and Engineering, 2015,8(4) :263 - 272.   \n[6］刘斌涛,陶和平,孔博,等.云南省水资源时空分布格局及综合 评价[J]．自然资源学报,2014,29（3）:454-465.[LIU Bintao, TAO Heping,KONG Bo,et al. Research on the water resource securityanditstemporal-spatialdistrbutionsofYunnan Provice, China[J]. Journal of Natural Resources,2014,29（3）: 454- 465.]   \n[7］雷莹,江东,杨小唤,等.水资源空间分布模型及GIS 分析应用 [J].地球信息科学,2007,9（5）： $6 4 - 6 9 + 1 2 7$ .[LEI Ying, JIANG Dong,YANG Xiaohuan,et al. The water distribution model application based on spatial information technology[J].Geo-Information Science,2007,9（5） $6 4 - 6 9 + 1 2 7 .$ ]   \n[8］鲍超,贺东梅.京津冀城市群水资源开发利用的时空特征与政 策启示［J].地理科学进展,2017,36（1）:58-67.[BAO Chao, HE Dongmei. Spatiotemporal characteristics of water resources exploitation and policy implications in the Beijing-Tianjin-Hebei urban agglomeration[J].Progressin Geography,2017,36（1）:58 67.]   \n[9]ZHANG C,LIU Y,QIAO H. An empirical study on the spatial distribution of the population,economy and water resources in northeast China[J].Physics and Chemistry of the Earth,Parts A/B/C, 2015,(79) :93 -99.   \n[10]DAVIJANI M H,BANIHABIB M E,ANVAR A N,et al. Optimization model for the allocation of water resources based on the maximization of employment in the agriculture and industry sectors[J]. Journal of Hydrology,2016,533:430-438.   \n[11]HU Z,CHEN Y,YAO L,et al. Optimal alocation of regional water resources :From a perspective of equity-efficiency tradeoffJ].Resources,Conservation and Recycling,2016,（109）:102-113   \n[12］张明明.黑河干流中游平原区水资源系统分析及其优化调配 研究［D].西安:西北大学,2007.［ZHANG Mingming.Systems analysis and optimal alloeation of water resources in the middle reaches of Heihe River[D].Xi'an:Northwest University,2007.]   \n[13］侯景伟,孔云峰,孙九林.基于多目标鱼群一蚁群算法的水资 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "源优化配置[J].资源科学，2011，33（12）：2255-2261.［HOU Jingwei,KONG Yunfeng,SUN Jiulin.Optimal allocation of water resources based on the multi-objective fish-ant colony algorithm [J].Resources Science,2011,33(12）:2255 -2261.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14］潘雄锋，杨越.中国区域创新的俱乐部收敛及其影响因素研究[J].科学学研究,2014,32（2）:314-319.[PAN Xiongfeng,YANG Yue.Research on regional innovation club convergence andinfluencing factors in China[J].Studies in Science of Science,2014,32(2):314-319.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15］周迪.“量\"和\"质”角度的中国金融规模地区差距及分布的动 态演进——基于Dagum 分解与扩展的分布动态学模型[J].上 海经济研究,2015，（1）:19-29.［ZHOUDi.Regionaldisparities and distribution dynamic of financial scale in China from“Quantity\"and\"Quality\"perspective-based on Gini decomposition and extended distribution dynamics models[J].Shanghai Economic Review,2015,（1):19-29.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16］PAN X,LIUQ,PENG X.Spatial club convergence of regional energy efficiency in China[J]． Ecological Indicators,2015,51:25- 30. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17］石慧.中国省区间农业生产率的空间依赖性及分布动态[J]. 资源科学,2010,32(7）:1323-1332.[SHIHui.Spatial dependence and distribution of agricultural productivity among provinces in China[J].Resources Science,2010,32(7):1323-1332.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18］LE G J. Space-time analysis of GDP disparities among European regions:A Markov chains approach[J].International Regional Science Review,2004,27(2):138-163. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19］周迪，程慧平.中国农业现代化发展水平时空格局及趋同演变[J].华南农业大学学报（社会科学版），2015，（1)：25－35.[ZHOU Di,CHEGN Huiping.Evolvement of convergence and spatial patterns of agricultural modernization in China[J].Journal ofSouth China Agricultural University（Social Science Edition）,2015，(1):25-35.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "\" Club convergence” of per capita water resource distribution in China : Based on extended Markov chain model ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Di’， ZHOU Feng-nian²， ZHONG Shao-jun³ (1SchoolofInterationalTrade&Economics,GuangdongUniversityofForeignStudies,Guangzhouo6,Guangdong,hna;   \n2Changjiang River EstuaryBureauof Hydrologicaland Water Resources Survey,Changjiang River Estuary WaterEnvironment Monitoring Center,Shanghai 200136,China;   \n3Collegeof MathematicsandStatistics,Hubei UniversityofScienceandTechnology,Xianning4371,Hubei,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Studying the phenomenon of“club convergence”behind the imbalance of regional water resources is of greattheoretical and practical significance to theregulationand balanced allocation of waterresources.This paper examines the“club convergence”of the distribution of interprovincial waterresources in China in diferent time span,then analyzes its temporal characteristics using extended Markov chain model based on the per capita water resource dataof 31 provinces （including municipalities directlyunder the central government,Autonomous Regions） in China from 2O04 to 2O15.The results show that there is an obvious phenomenon of“club convergence”for per capita waterresources in China even after 5 years as the distribution was highly solidified in high and low areas, and thetrendof“club convergence”began to grow inthe directionof deterioration since 2O08.Therefore,the coordinationofregional waterresources needs tobe further strengthened.Finaly,thepaper clasifies theregions according to the club type and transfer frequency of per capita water resources in each region during the period of investigation so as to provide support and reference for regional water resources regulation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:water resources；club convergence；Markov chain model；water resources regulation ",
+        "page_idx": 6
+    }
+]

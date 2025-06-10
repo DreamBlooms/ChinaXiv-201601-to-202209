@@ -1,0 +1,342 @@
+[
+    {
+        "type": "text",
+        "text": "Tailoring the resonance wavelength and loss of highly Ga doped ZnO plasmonic materials by varied doping content and substrate temperature ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chaoting Zhua, Jia Li°, Ye Yang a\\*, Pinjun Lanä,Jinhua Huanga, Yuehui Lua, Ruiqin Tanb, Ning Dai c, Weijie Song a,d,\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aNingbo InstituteofMaterialTechnologyand Engineering,Chinese AcademyofSciences,Ningbo315201,PRChina bColegoii NationalLbotoryforfraedsicgsiuteohlicsedemfeesg dNingboKeyLboratoryoflcondrganicinFmOptoeectronicechnologies,Nngbo5n ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nDoped zinc oxide   \nGallium doping   \nPlasmonic materials   \nMagnetron sputtering   \nThin films ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper,Ga-doped ZnO(GZO)thin films are deposited on glasssubstrates by radio frequency magnetron sputtering for low loss plasmonic applications.The effects of $\\mathrm { G a } _ { 2 } \\mathrm { O } _ { 3 }$ content in the target and substrate temperature ontheelectrical,structuralandopticalproperties ofGZOfimsareinvestigated.Filmwiththehighestcarrierconcentration of $7 . 0 \\times 1 0 ^ { 2 0 } \\mathrm { c m } ^ { - 3 }$ was obtained at a ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ content of $5 \\mathrm { w t \\% }$ in the target under room temperature deposition.With increasing deposition temperature,the lowest electrical resistivity of $3 . 8 \\times 1 0 ^ { - 4 } \\Omega$ cm was acquired at a deposition temperature of $2 0 0 ^ { \\circ } \\mathsf C$ The values of plasmonic resonances wavelength could be changed from1.35 to $2 . 3 9 \\mu \\mathrm { m }$ byadjusting the carrier concentration. Material absorption losses in these GZO films are 10 times lower than that of conventional $\\mathsf { A g }$ films at telecommunication wavelengths. These results make GZO a promising low-loss plasmonic material operating at telecommunication wavelengths. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The emergence of plasmonic metamaterials opens a new perspective to improve the speed of information processing [1-4].Metal-based plasmonic materials offer higher speed of information processing than silica fibers at standard operational wavelength [5-7]. Unfortunately, the typical carrier concentrations in metals are too high to push the plasmonicresonance wavelength $\\left( \\lambda _ { \\mathrm { r e s } } \\right)$ to the near-infrared(NIR) spectral range[8-1O].Additionally,metals also suffer from high optical losses at telecommunication wavelength arising in part from intra-band electronic transitions [11-13]. Hence,there is still anurgent requirement in searching better material building blocks to improve the speed of information processing at telecommunication wavelengths. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently,the heavily doped semiconductors have been found to exhibitamoderate plasmonic resonance wavelengthand alowloss in the mid-infrared and NIR[14-17].Among these heavily doped semiconductors,Ga doped ZnO(GZO) transparent conducting oxide is a good candidate as plasmonic materials in the NIR due to its high solid solubility and doping efficiency without severe lattice distortion [16-21].Moreover,GZO is considered to be more potential to achieve anappropriate concentration to support collective oscillations of free electrons at telecommunication wavelengths [22,23]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Several techniques have been reported in the literature to deposit GZO thin films including pulsed laser deposition [24],chemical vapor deposition [25],atomic layer deposition [26],and radio-frequency magnetron sputtering (RFMS) [27]. Among these deposition techniques, RFMS is quite simple and widely used in industry.Inaddition, it is possible to produce highly conductive and transparent GZO thin film without heating the substrate,due to the additional energy delivered from the plasma [28]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For the RFMS deposited GZO thin films,the basic fabrication conditions including ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ doping concentration in GZO ceramic target and MS substrate temperature are the key parameters to affect the film electrical properties,such as carrier concentration,which directly changes the plasmonic resonance wavelength according to the Drude theory [29-36].Therefore,the adjustment on these basic parameters is necessary to optimize the carrier concentration of GZO film and ensure moderate plasmonic resonance wavelength suitable for plasmonic applications in the NIR. Several studies have been reported about the influence offabrication parameters on the electrical and optical properties of GZO thin films [28-34].However,most of these research results do not involve plasmonic resonances wavelength and absorption losses of GZO thin films. Recently, D.C. Look et al. demonstrated that plasmonic resonances wavelength of 1.3 and $1 . 5 5 \\mu \\mathrm { m }$ in GZO films could be accurately adjusted bypost-annealing in air[8]. J. Kim et al.also reported that plasmonic resonances wavelength of GZO films could be changed by doping concentrations of $2 , 4 , 6 \\ \\mathrm { w t \\% }$ and thermal annealing temperatures [35]. Our recent results also showed that plasmonic resonances wavelength in GZO films could be regulated by the inserted Zn layer thickness [36]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although some methods on regulating plasma resonance wavelength have been reported,it is important to systematically study the effect of doping concentration in the target and substrate temperature on the plasmonic resonance wavelength and absorption losses of GZO films in the NIR range.In this paper,we deposited GZO thin films by RFMS on glass substrate.The effects of the ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ content in the target and substrate temperature on the electrical, structural and optical properties of GZO thin films are investigated in detail for the plasmonic material applicationsat telecommunication wavelengths. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experiment ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GZO thin films with a thickness of $\\sim 5 0 0 \\ \\mathrm { n m }$ were deposited on soda-lime glass substrates bya RFMS apparatus.The GZO targets were the home-made 3-in.ceramic disks.The ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ contents in GZO targets were 2 wt%,3 wt%,4wt%,5wt%,and $6 \\mathrm { w t \\% }$ ,respectively. Prior to deposition,the glass substrates were ultrasonically cleaned in deionized water,followed by acetone solution and alcohol,and then dried in nitrogen.The substrates were placed inside the sputtering chamber and then evacuated to a base pressure of $5 \\times 1 0 ^ { - 4 } \\mathrm { P a }$ In order to improve the uniformity of the GZO films,the sample holder rotated at a constant speed of $1 0 \\mathrm { r p m / m i n }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During deposition,RF power was set at 2oo W,Ar gas flow rate was fixed at $3 0 \\mathsf { s c c m }$ which was controlled by the mass flow controller,work pressure was set at $0 . 4 5 \\mathrm { P a }$ and the deposition time was $3 0 \\mathrm { m i n }$ .Besides, the substrate temperatures were set at room temperature (unintentional heating), $1 5 0 ^ { \\circ } \\mathsf C ,$ （204号 $2 0 0 ^ { \\circ } \\mathsf C ,$ 4号 $2 5 0 ^ { \\circ } \\mathrm { C }$ and $3 0 0 ^ { \\circ } \\mathrm { C } ,$ respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The crystalline phase of the filmswasanalyzed by X-ray diffraction (XRD,Bruker,AXS D8 Advance,USA) using a standard 0-20 geometry diffractometer with Cu Kα radiation( $\\ ' \\mathrm { \\lambda } = 1 . 5 4 \\mathrm { \\AA }$ ).Morphologyof the GZO films Was observed by a field emission scanning electron microscopy (FESEM,S48oO) at an operating voltage of $4 \\mathrm { k e V . }$ The resistivity,Hall mobility and carrier concentration of the films were analyzed by Hall measurement with the Van der Pauw method (Accent,HL55ooPC,UK). The thickness of the coated GZO films was measured by an M-2000DI Ellipsometry (J.A.Woollam) according to the Cauchy model.The complex refractive index and dielectric constants of the films were determined by fittinga Drude $^ +$ Lorentz oscillator model [35] to the ellipsometry data. The fitting spectral region ranges from $1 9 0 \\mathrm { n m }$ to $1 7 5 0 \\mathrm { n m }$ The resonance energy of the Lorentz oscillator is set to $3 . 7 \\mathrm { e V }$ in correspondence to the interband absorption.The amplitude and damping constants of Lorentz oscillator and Drude term and the permittivity $\\scriptstyle { \\varepsilon _ { \\infty } }$ are fit parameters. The optical transmittance and reflection spectrum was obtained by ultraviolet-visible-NIR spectrophotometer(PerkinElmer,LAMBDA950). The absorption spectrum was calculated by the formula: Absorption $^ +$ Transmission $^ +$ Reflection $= 1 0 0 \\%$ The measuring spectral region ranges from $2 5 0 \\mathrm { n m }$ to $2 5 0 0 \\mathrm { n m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Electrical properties ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrical properties of the GZO thin films intensively depend on the fabrication parameters of ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ content in the target and substrate temperature [37-4O].Fig.1a shows the variation of resistivity (p),carrier density (n),and Hall mobility $( \\mu )$ as a function of ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ content $( \\mathsf { N g } )$ in the target for GZO films grown at room temperature (RT).The lower resistivity GZO films $( 5 \\sim 6 \\times 1 0 ^ { - 4 } \\Omega \\mathrm { c m } )$ can be obtained at $\\mathsf { N g }$ from 4 to $6 \\mathrm { w t \\% }$ .It can be attributed to the substitution of Ga elements into Zn site [39], since the $G a _ { Z n }$ defects are the main donor defects contributing to the enhancement of $n$ -typeconductive [41].As the $\\mathsf { N g }$ increased from $2 \\mathrm { w t \\% }$ to $5 \\mathrm { w t \\% }$ ,the correspondingly increased donor defects lead to an enhancement of carrier concentration and a decrease in resistivity. The highest carrier concentration reached $7 \\times 1 0 ^ { 2 0 } \\mathrm { c m } ^ { - 3 }$ for the film with a $\\mathsf { N g }$ of $5 \\mathrm { w t \\% }$ ,and then slightly decreased to $6 . 4 \\times 1 0 ^ { 2 0 } \\mathrm { c m } ^ { - 3 }$ at $\\mathsf { N g }$ of $6 \\mathrm { w t \\% }$ . It can be deduced that Ga has a higher doping efficiency and solid solubility in $z _ { \\mathrm { { n O } } }$ system,and the optimized $\\mathsf { N g }$ is $5 \\mathrm { \\ w t \\% }$ 业 Fig.1b shows the electrical properties of GZO flms with Ng of $5 \\mathrm { w t \\% }$ in the target as a function of substrate deposition temperature(Ts).As the Ts increased from RT to $2 0 0 ~ ^ { \\circ } \\mathrm { C } ,$ the resistivity decreased from $5 . 5 \\times 1 0 ^ { - 4 }$ to a minimum value of $3 . 7 \\times 1 0 ^ { - 4 } \\Omega \\ \\mathrm { c m }$ n.Thisdecrease originates from the increased carrier mobility,which can be attributed to an increase in the grain size of the GZO film with increasing Ts to reduce the grain boundary scattering[38,4O].As Ts is further increased from 200 to $3 0 0 ^ { \\circ } \\mathsf C$ ,an increase in the resistivity is observed as a combination of a decrease in carrier density from $6 . 8 7 \\times 1 0 ^ { 2 0 }$ to $4 . 0 9 \\times 1 0 ^ { 2 0 } \\mathrm { { c m } ^ { - 3 } }$ and a slight increase in the Hall mobility from 25.2 to $2 8 . 3 \\ \\mathrm { c m } ^ { 2 } \\mathrm { V } ^ { - 1 } \\ \\mathrm { s } ^ { - 1 }$ . The segregation of ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ at the grain boundaries in the films is responsible for the increase of resistivity when substrate temperature exceeds $2 0 0 ^ { \\circ } \\mathsf C$ [42].Hence, the GZO film with highest carrier concentration can be obtained at $\\mathsf { N g }$ of $5 \\mathrm { w t \\% }$ and Ts of RT. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.Structural properties ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the crystalline structural properties of GZO films, X-ray diffraction measurement is employed and shown in Fig.2.All the films exhibit preferential growth with a strong difraction peak at $2 \\theta = { \\sim } 3 4 . 4 ^ { \\circ }$ ,which is originated from $z _ { \\mathrm { { n O } } }$ （002）planes (JCPDS No. 36-1451),indicating typical hexagonal wurtzite structure with c-axis preferred orientation.Fig.2a shows the XRD patterns of GZO films depositedatRTwith differentNg.As the $\\mathsf { N g }$ increases from $2 \\mathrm { w t \\% }$ to $4 \\mathrm { \\ : w t \\% }$ ，the（Oo2）20 diffraction angles move from $3 4 . 5 2 ^ { \\mathrm { o } }$ to $3 4 . 5 8 ^ { \\mathrm { o } }$ Noting that the radius of ${ \\mathsf { G a } } ^ { 3 + }$ ion $( 0 . 6 2 \\mathring { \\mathsf { A } } )$ is smaller than that of $Z \\mathrm { n } ^ { 2 + }$ ion $( 0 . 7 2 \\mathrm { ~ \\AA ~ } )$ ,the substitution of ${ \\mathsf { G a } } ^ { 3 + }$ to $Z \\mathrm { n } ^ { 2 + }$ leads to the decrease of the C-axis lattice parameter.Based on Bragg diffraction formula, the decrease of c-axis lattice parameter results in the increase of(002） diffraction angles.As the $\\mathsf { N g }$ is further increased from $4 \\mathrm { w t \\% }$ to $5 \\mathrm { w t \\% }$ ,the position of (Oo2）peak declines slightly.It may be due to the existence of gallium interstitial $\\left( G a _ { i } \\right)$ [43].When the $\\mathsf { N g }$ reaches $6 \\mathrm { w t \\% }$ ,the position of(Oo2）peak increases slightly due to the existence of small amount of ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ derived from limited solid solubilityand doping efficiency.Fig.2b shows the XRD patterns of GZO films with $\\mathsf { N g }$ of 5wt% deposited at differentTs.It can be seen that the intensities of (O02)peaks obviously increase as the Ts increasing from RT to $3 0 0 ^ { \\circ } \\mathsf C$ 号 It means that the crystalline quality of the samples has an obvious improvement,furthermore enhancing the Hall mobility.As the Ts increases,the position of(Oo2) peaks shift to lower 20 values,indicating that the c-axis lattice parameter increases with growth temperature. It could be explained by the decrease of the number of substitutional ${ \\mathsf { G a } } ^ { 3 + }$ ions into $Z \\mathrm { n } ^ { 2 + }$ sitesas increasing TS,especially at the temperature higher than $2 0 0 ^ { \\circ } \\mathsf C$ [39].The grain size can be calculated from the full width at half maximum of the (Oo2） diffraction peak by using the Scherrer formula [44],and the corresponding grain sizes of all films are in the range of35 to $5 1 \\mathrm { n m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/be9143f7b4fa232b1549ad6f5361acd206fdabf5ce9015bc7a2507e27ef4dc82.jpg",
+        "img_caption": [
+            "Fig.1.Resistivity (p),carrier density (n),and Hall mobility $( \\mu )$ of GZO films grown (a) at RT using the sputtering targets with various ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping contents (2,3,4,5 and $6 \\mathrm { w t \\% }$ ,and (b)at various substrate temperatures (RT,150,2Oo,250 and $3 0 0 ^ { \\circ } \\mathrm { C }$ using the sputtering target with a ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping content of 5 wt%. The film thickness was ${ \\sim } 5 0 0 \\ \\mathrm { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e9cbdb2c5895c5be28433439ba9c9da4fe7344607e0afe0591a1aaab03510ef.jpg",
+        "img_caption": [
+            "Fig.2.XRD patterns ofGZO films grown (a) at RT using the sputtering targets with various ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping contents (2,3,4,5 and $6 \\mathrm { w t \\% }$ ),and (b)at various substrate temperatures (RT,150 200,250 and $3 0 0 ^ { \\circ } \\mathrm { C }$ using the sputtering target with a ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ doping content of 5 wt%. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the surface and cross-sectional view of SEM micrographs deposited at various $\\mathsf { N g }$ and Ts.Fig.3a-e shows the surface micrographs of GZO thin films deposited at various Ng.There is no obvious variation except the average size of grains.Fig.3g-i shows the surface micrographs of GZO thin films deposited at various Ts.The surface of GZO thin films deposited at RT is extremely uniform. Nevertheless,GZO thin film grown above $1 5 0 ^ { \\circ } \\mathrm { C }$ shows a rougher surface morphology with many small pits.The substituted Ga atoms in $z _ { \\mathrm { n O } }$ affect the growth behavior of thin films.The cross sectional view of 5 wt% GZO film deposited atRT is shown in Fig.3f.The high compact structure shows a typically dense columnar growth,as shown in literature [38]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/17499376734044909bd68ab510ffd1d7c02bed3168288366b62746cd28340317.jpg",
+        "img_caption": [
+            "Fig.3.SurfacemoolgiesofGZthins.(a)2t(T),(b)3wt(R),(c)4t(T),(d)5(R)(e)6(),(g)5()()w $( 1 5 0 ^ { \\circ } \\mathsf C )$ ，(i) 5wt% $( 3 0 0 ^ { \\circ } \\mathsf C )$ .Cros section of GZO film deposited at RT.(f) 5 wt% (RT).The scale bar is $5 0 0 \\mathrm { n m }$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Optical properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The optical transmittances asa function of the wavelength for the GZO films deposited at different $\\mathsf { N g }$ and Ts are shown in Fig.4a and c, respectively.The average transmittances of all films are above $8 5 \\%$ in the wavelength range of $4 0 0 { - } 8 0 0 \\mathrm { n m }$ The near-infrared transmittances decrease with the increase of $\\mathsf { N g }$ (Fig.4a） and the decrease of Ts (Fig.4c).These changes of the optical properties originated directly from the increase of the carrier concentration,which leads to a lower value associated to the plasma wavelength [45].Fig.4b and d shows absorption spectra for the GZO films deposited at different $\\mathsf { N g }$ and Ts, respectively.Due to the plasma oscillation, the maximum absorption peak occurs at the characteristic plasma wavelength, $\\lambda _ { \\mathrm { p } }$ [46]. As the Ts decreases, $\\lambda _ { \\mathrm { p } }$ shifts to shorter wavelengths,which can be attributed to the change of carrier concentration [8]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 shows the variation of n,measured $\\lambda _ { \\mathrm { p } }$ and calculated $\\lambda _ { \\mathrm { p } }$ asa function of $\\mathsf { N g }$ and Ts for the GZO films. Both of the $\\lambda _ { \\mathrm { p } }$ are inversely related to n in the GZO films.This behavior can be expressed by the equation: $\\begin{array} { r } { \\lambda _ { P } = \\sqrt { \\frac { 4 ^ { 2 } c ^ { 2 } m ^ { * } \\varepsilon _ { 0 } \\varepsilon _ { \\infty } } { N e ^ { 2 . } } } } \\end{array}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $c$ is the speed of light in a vacuum, $\\scriptstyle { \\varepsilon _ { \\infty } }$ is the high-frequency dielectric constant, $\\varepsilon _ { 0 }$ is the permittivity of free space, $m ^ { * }$ is the effective mass of electrons, $N$ is the carrier concentration and $e$ is the electron charge.Taking $\\scriptstyle { \\varepsilon _ { \\infty } }$ atinfinityas 4and $m ^ { * }$ as 0.3 [42], $N$ is obtained from the Hall measurements,calculated $\\lambda _ { \\mathrm { p } }$ can be estimated from the equation above.The estimated $\\lambda _ { \\mathrm { p } }$ in Fig.5a is in the range of $1 3 8 4 -$ $2 4 1 3 \\mathrm { n m }$ for samples with various Ng.The estimated $\\lambda _ { \\mathfrak { p } }$ in Fig. 5b is in the range of $1 3 8 4 - 1 6 3 0 \\mathrm { n m }$ forsampleswith differentTs.The measured $\\lambda _ { \\mathrm { p } }$ can be obtained from the maximum absorption peak in Fig.4b and d, where $\\lambda _ { \\mathfrak { p } }$ are found to range from 1375 to $2 3 8 5 ~ \\mathrm { { n m } }$ and 1375 to $1 6 3 0 \\mathrm { n m }$ ,respectively.It is obviously found that these measured data are in good agreement with the calculated data.Thus,the plasmonic resonance wavelength for GZO films can be accurately tuned by varying the carrier density introduced by the $\\mathsf { N g }$ and Ts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To demonstrate the GZO thin films as an alternative plasmonic metamaterials,we obtained the complex refractive indexesand dielectric constantsof the films by fittinga Drude $^ +$ Lorentz oscillator model [35] to the ellipsometry data.The following equation describes the Drude-Lorentz oscillator model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { E } _ { ( \\omega ) } = \\mathcal { E } _ { \\infty } - \\frac { \\omega _ { p } ^ { 2 } } { \\omega \\big ( \\omega + i \\Gamma _ { p } \\big ) } + \\frac { f _ { l } \\omega _ { 1 } ^ { 2 } } { \\omega _ { l } ^ { 2 } - \\omega ^ { 2 } - i \\omega \\Gamma _ { l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a00fde011b22bc2a64c68f97a37c0bd5f2af3c4c133c4821b82b6cdb8425034.jpg",
+        "img_caption": [
+            "Fig.4.Optical transmittanceandopticalabsorptionofGZOfilms grown(a),(b)atRTusing the sputtering targets withvarious ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping contents (2,3,4,5 and $6 \\mathrm { w t \\% }$ ),and (c),(d) at various substrate temperatures (RT,150,2Oo,250 and $3 0 0 ^ { \\circ } \\mathsf C$ ）using the sputtering target with a ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping content of 5 wt%. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a7a5a501cb62ca094438ede278dacc23831f9204b69693ad40fb4c1caa18f5b.jpg",
+        "img_caption": [
+            "Fig.5.Carrier concentration (n) and the plasma wavelength $( \\lambda _ { \\mathsf { p } } )$ for GZO thin films grown (a) at RT using the sputtering targets with various ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ doping contents (2,3,4,5 and 6 wt% and (b) at various substrate temperatures (RT,150,2Oo,250 and $3 0 0 ^ { \\circ } \\mathrm { C }$ using the sputtering target with a ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping content of 5 wt%. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\scriptstyle { \\varepsilon _ { \\infty } }$ is the background permittivity, ${ \\bf { \\omega } } _ { \\bf { { \\omega } } } \\omega _ { p }$ is the plasma frequency, $\\boldsymbol { { \\Gamma _ { p } } }$ is the carrier relaxation rate,and $\\mathbf { f } _ { l }$ is the strength of the Lorentz oscillator with center frequency $\\displaystyle \\mathbf { \\omega } _ { \\omega _ { l } }$ and damping $\\varGamma _ { 1 }$ .The Lorentz oscillator model is suitable forultravioletband.TheDrudemodelis suitableforvisibleand near-infrared wave band. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the SE parameters $\\Delta$ and $\\Psi$ of a GZO thin film (ceramic targetwith 5wt% $\\mathrm { G a } _ { 2 } \\mathrm { O } _ { 3 }$ ，deposited at room temperature）on glass measured forangle of incidence $( \\boldsymbol { \\mathrm { A O I } } = 7 5 ^ { \\circ }$ ).Red line shows fit to the data using a model for the dielectric function of the GZO thin film.The mean square error is MSE\\~6.1 fora fit over thewhole wavelength range. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7a and c shows the real parts of the permittivity of the GZO films as a function of $\\mathsf { N g }$ and Ts.The zero-cross-over of the real permittivity (defined as the wavelength at which the real part of the permittivity $\\left( \\varepsilon _ { 1 } \\right)$ crosses zero) is observed to shift toward shorter wavelength due to the increased carrier concentration as $\\mathsf { N g }$ increases and Ts decreases respectively.Thenegativereal permittivityat $1 . 5 5 \\mu \\mathrm { m }$ guarantees Drude metal-like optical properties at telecommunication wavelengths,which is anecessary condition to be used as building blocks in the field of plasmonic metamaterial devices [47].However,increasing the carrier concentration also leads to increased losses at the NIR range [11].To compare the absorption of GZO films with metal materials,the ratios $n / k$ with $n$ and $k$ being the real and imaginary parts of the refractive index of the GZO films depositedat different $\\mathsf { N g }$ and Ts are plotted in Fig.7b and d.The larger ratio of $n / k$ corresponds to less material absorption losses [48].Although the absorption losses of GZO film increase as carrier concentration increases,the lowest ratio of all samples is also ten times larger than silver at the telecommunication wavelengths of $1 . 5 5 ~ { \\mu \\mathrm { m } }$ (Fig.7b and d).Thus,the value of carrier concentration in GZO thin film is the dominating factor that determines the film from reaching the ideal. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1da950a4ec4cabddc8df9dacf7a7d95612e470b8772f07e27396ad79653a3fbb.jpg",
+        "img_caption": [
+            "Fig. 6.Spectroscopic ellipsometric parameters $\\triangle$ and $\\Psi$ of a GZO thin film (ceramic target with 5 wt% ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ ,deposited at room temperature）on glass measured for angle of incidence ${ ' } \\mathbf { A O I } = 7 5 ^ { \\circ }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 shows the influences of target concentration and substrate temperature on tuning the GZO properties.There are three groups of histogram in Fig.8.The first group represents the ratio of the adjustable extent of carrier concentration stem from varied target ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ concentration to that stem from varied temperature.The second group represents the ratio of the adjustable extent of plasmonic resonances wavelengthstemfromvariedtarget ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ concentration to that stem from varied temperature.The third group represents the ratio of the adjustable extent ofmaterial absorptionlossesat $1 . 5 5 \\mu \\mathrm { m }$ stem from varied target $\\mathrm { G a } _ { 2 } \\mathrm { O } _ { 3 }$ concentration to that stem from varied temperature. The front column represents the ratio from target ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ concentration in each group.The later column represents the ratio from temperature in each group. Obviously, target ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ concentration has the most dominating influence on tuning the GZO properties. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary, the effects of ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ content in the target and substrate temperature on the electrical, structural and optical properties of GZO films deposited on glass substrates by RF magnetron sputtering are investigated.The $\\mathsf { N g }$ and Ts during deposition of these films have been optimized to achieve the highest possible carrier concentration and mobility. Enhancing the $\\mathsf { N g }$ increased the carrier concentration due to the increased number of substitution Ga.Itis found that the film depositedat optimized conditions $\\mathrm { ' N g } = 5 \\mathrm { \\ : w t \\% }$ $\\mathrm { T } s = \\mathrm { R T }$ ）hasthehighest carrier concentration of $7 . 0 \\times 1 0 ^ { 2 0 } \\mathrm { c m } ^ { - 3 }$ .Correspondingly, the real part of the permittivity of the GZO film is negative at $1 . 5 5 \\mu \\mathrm { m }$ ,which is a necessary condition to be an ideal plasmonic metamaterials.In addition, the values of plasmonic resonances wavelength can be changed from 1.35 to $2 . 3 9 \\mu \\mathrm { m }$ by adjusting the carrier concentration.Absorption losses in these GZO films are less 1O times smaller than those observed in conventional Ag films at the telecommunication wavelengths of $1 . 5 5 \\mu \\mathrm { m }$ .These results show that the value of carrier concentration is the dominating factor that affected GZO films become a promising low-loss alternative material to conventional metals for plasmonic application at telecommunication wavelength. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/76a0898bcda057f088a168bd58b54d89ea6493fdb07913d2141b9c9b2a9a18c3.jpg",
+        "img_caption": [
+            "Fig.7.Realparts ofpermittivityandtheratios $n / k$ with $n$ and $k$ beingtherealandimaginarypartsoftherefractiveindexoftheGZOfilmdeposited(a),(b)atRTusingthesputtering targets withvarious ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping contents (2,3,4,5and6wt%),and (c),(d)atvarious substrate temperatures (RT,150,200,250and $3 0 0 ^ { \\circ } \\mathrm { C }$ using thesputtering targetwitha ${ \\bf G } { \\bf a } _ { 2 } { \\bf O } _ { 3 }$ doping content of 5 wt%. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/85b651601f1009e2c5e8a85d61b46265baf1b83c55e489e2fa0c26358f7a9143.jpg",
+        "img_caption": [
+            "Fig.8.The ratios of the adjustable extent of the GZO properties from target ${ \\sf G a } _ { 2 } { \\sf O } _ { 3 }$ concentration to that from temperature. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (61275114,21377063), the Ningbo Natural Science Foundation (Grant no.2014A610o39),the Ningbo Municipal Science and Technology Innovative Research Team（Grant No.2015B11002）and the National Basic Research Program of China (2012CB934300 and 2011CBA00900). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary data ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at http://dx. doi.org/10.1016/j.tsf.2015.11.005. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] E. Ozbay,Plasmonics: merging photonics and electronics at nanoscale dimensions, Science 311 (2006) 189-193.   \n[2]G.A.Wurtz,R.Pollard,W. Hendren, G.P.Wiederrecht,D.J. Gosztola,V.A.Podolskiy, A.V.Zayats,Designed ultrafast optical nonlinearity in a plasmonic nanorod metamaterial enhanced by nonlocality, Nat.Nanotechnol.6 (2O11)107-111.   \n[3]S. Xiao,V.P.Drachev,A.V. Kildishev,X.Ni, U.K.Chetiar,H.K.Yuan,V.M. Shalaev, Loss-free and active optical negative-index metamaterials,Nature 466 (2010) 735-738.   \n[4] N.Engheta, Circuits with light at nanoscales: optical nanocircuits inspired by metamaterials, Science 317(2007) 1698-1702.   \n[5]M.L. Brongersma,R. Zia, J.A. Schuller,Plasmonics-the missing link between nanoelectronics and microphotonics, Appl. Phys. A Mater. Sci.Process.89 (2007) 221-223.   \n[6] S.Lal, S.Link,N.J. Halas, Nano-optics from sensing to waveguiding, Nat. Photonics 1 (2007) 641-648.   \n[7] S.A. Maier,P.E. Barclay,T.J. Johnson, M.D.Friedman, O.Painter,Low-loss fiber accessible plasmon waveguide for planar energy guiding and sensing, Appl. Phys.Lett. 84(2004) 3990-3992.   \n[8] D.C.Look, K.D.Leedy, ZnO plasmonics for telecommunications, Appl. Phys. Lett 102 (2013) 182107.   \n[9] J. Homola,S.S.Yee,G.Gauglitz, Surface plasmon resonance sensors: review, Sensors Actuators B Chem.54 (1999) 3-15.   \n[10] J.M. Luther,P.K. Jain,T.Ewers, A.P.Alivisatos, Localized surface plasmon resonances arising from free carriers in doped quantum dots,Nat. Mater.10 (2011) 361-366.   \n[11] G.V.Naik, V.M. Shalaev, A. Boltasseva, Alternative plasmonic materials: beyond gold and silver, Adv.Mater.25 (2013) 3264-3294.   \n[12]E.G.Maksimov,I.I. Mazin, S.N. Rashkeev,Y.A. Uspenski,First-principles calculations of the optical properties of metals,J. Phys.F: Met. Phys.18 (1988) 833-849.   \n[13] C.J. Powel,The origin of the characteristic electron energy losses in ten elements, Proc.Phys.Soc.76(1960) 593-610.   \n[14] M.A. Noginov,L. Gu,J. Livenere, G. Zhu, A.K. Pradhan,R. Mundle, M. Bahoura,Y.A. Barnakov, V.A. Podolskiy, Transparent conductive oxides: plasmonic materials for telecom wavelengths,Appl. Phys. Lett. 99 (2011) 021101.   \n[15]A.Calzolari, A. Ruini,A. Catellani,Transparent conductive oxides as near-IR plasmonic materials: the case of Al-Doped ZnO derivatives,ACS Photonics 1 (2014) 703-709.   \n[16]P.R.West, S. Ishii, G.V. Naik,N.K. Emani, V.M. Shalaev, A. Boltasseva, Searching for better plasmonic materials, Laser Photonics Rev.4(2010) 795-808.   \n[17]A. Boltasseva,H.A. Atwater, Low-loss plasmonic metamaterials, Science 331 (2011) 290-291.   \n[18] G.V.Naik,J. Kim, A. Boltasseva, Oxides and nitrides as alternative plasmonic materials in the optical range [Invited], Opt. Mater.Express 1 (2011) 1090-1099.   \n[19]H.J. Ko,Y.F. Chen, S.K. Hong, H.Wenisch,T. Yao,D.C.Look, Ga-doped ZnO films grown on GaN templates by plasma-assisted molecular-beam epitaxy, Appl. Phys. Lett. 77 (2000)3761-3763.   \n[20] T. Yim, C.Lee,Dependence of the electrical and optical properties of sputterdeposited ZnO:Ga films on the annealing temperature, time,and atmosphere, J. Mater. Sci. Mater. Electron. 18 (2007) 385-390.   \n[21] F.Wu,L Fang,Y.J.Pan, K.Zhou, Q.L. Huang, C.Y. Kong,Effect of substrate temperature on the structural, electrical and optical properties of ZnO: Ga thin films prepared by RF magnetron sputtering, Phys.E. 43 (2010) 228-234.   \n[22]H. Kim,M. Osofsky, S.M. Prokes, O.J. Glembocki, A. Piqué,Optimization of Al-doped ZnO films for low loss plasmonic materials at telecommunication wavelengths, Appl. Phys. Lett.102 (2013)171103.   \n[23]S.Kalusniak,S.Sadofev,P.Schäfer,F. Henneberger, Heavily n-type ZnO: a plasmonic material at telecommunication wavelengths,Phys.Status Solidi C11 (2014) 1357-1360.   \n[24]S.D. Shinde,A.V. Deshmukh, S.K. Date, V.G.Sathe,K.P. Adhi, Effect of Ga doping on micro/structural, electrical and optical properties of pulsed laser deposited ZnO thin films,Thin Solid Films 520(2011) 1212-1217.   \n[25]T. Terasako,Y. Ogura,S.Fujimoto,H. Song, H. Makino,M. Yagi, S. Shirakata,T. Yamamoto, Carrier transport and photoluminescence properties of Ga-doped ZnO films grown by ion-plating and by atmospheric-pressure CVD,Thin Solid Films 549 (2013) 12-17.   \n[26] N. Taewook, C.W.Lee, H.J. Kima, H. Kima, Growth characteristics and properties of Ga-doped ZnO (GZO) thin films grown by thermal and plasma-enhanced atomic layer deposition, Appl. Surf. Sci. 295 (2014) 260-265.   \n[27] R.Prabakaran, T. Monteiro,M. Peres,A.S. Viana, A.F. da Cunha,H. Aguas,A. Goncalves,E.Fortunato,R. Martins,I. Ferreira, Optical and structural analysis of porous silicon coated with GZO films using rf magnetron sputtering,Thin Solid Films 515 (2007) 8664-8669.   \n[28] V.Assuncao,E.Fortunato,A. Marquesa, H. Aguas,I.Ferreira,M.E.V. Costa,R. Martins, Influence of the deposition pressure on the properties of transparent and conductive ZnO: Ga thin-film produced by rf sputtering at room temperature, Thin Solid Films 427 (2003) 401-405.   \n[29] W.J. Cho,Y.H. Joung,S.J. Kang, Effect of Ga doping concentrations,substrate temperatures and working pressures on the electrical and optical properties of ZnO thin films, J.Mater.Sci. Mater. Electron.25 (2014)3901-3906.   \n[30] S.M.Park,T. Ikegami,K.Ebihara, Effects of substrate temperature on the properties of Ga-doped ZnO by pulsed laser deposition,Thin Solid Films 513 (2oo6) 90-94.   \n[31] T. Yamamoto,T.Sakemi, K.Awai, S.Shirakata, Dependence of carrier concentrations on oxygen pressure for Ga-doped ZnO prepared by ion plating method, Thin Solid Films 451 (2004) 439-442.   \n[32] G.S. Arnold, Absorptivity of several metals at $1 0 . 6 \\mu \\mathrm { m }$ : empirical expressions for the temperature dependence computed from Drude theory, Appl. Opt. 23 (1984) 1434-1436.   \n[33] T.Matsumoto,K.Mizuguchi,T. Horii, S. Sano,T. Muranaka, Y. Nabetani,S.Hiraki, H. Furukawa, A. Fukasawa, S. Sakamoto,S.Hagihara,H. Kono,K. Kijima, O. Abe,K. Yashiro,Effects of Ga doping and substrate temperature on electrical properties of ZnO transparent conducting films grown by plasma-assisted deposition, Jpn. J. Appl. Phys.50 (2011) 05FB13.   \n[34] Q. Ma,Z.Ye,H. He,L. Zhu, W.Liu,Y.Yang,L.Gong,J. Huang,Y. Zhang,B.Zhao, Highly near-infrared reflecting and transparent conducting ZnO:Ga films:substrate temperature effect,J.Phys.D. Appl. Phys.41 (2008) 055302.   \n[35] J. Kim, G.V. Naik, N.K. Emani, A. Boltasseva,Plasmonic resonances in nanostructured transparent conducting oxide films,IEEE J. Sel.Top. Quantum 19 (2013) 4601907.   \n[36] C. Zhu,J.Li, Y.Yang,J. Huang, Y.Lu,R. Tan, N. Dai, W. Song, Zn-aided defect control for ultrathin GZO films with high carrier concentration aiming at alternative plasmonic metamaterials,Phys. Status Solidi A 212 (2015) 1713-1718.   \n[37] K.J. Ahn, J.H. Park, B.K. Shin,W.Lee, G.Y. Yeom, J.M. Myoung, Effect of sputtering power on the properties of ZnO: Ga transparent conductive oxide films deposited by pulsed DC magnetron sputtering with a rotating cylindrical target, Appl. Surf. Sci.271 (2013) 216-222.   \n[38]Y.H. Kim,J. Jeong,K.S.Lee,B. Cheong,T.Y. Seong, W.M. Kim,Effect of composition and deposition temperature on the characteristics of Ga doped ZnO thin films, Appl. Surf. Sci. 257 (2010) 109-115.   \n[39] D.H.Lee, K. Kim, Y.S. Chun,S. Kim,S.Y.Lee,Substitution mechanism of Ga for Zn site depending on deposition temperature for transparent conducting oxides,Curr. Appl. Phys.12 (2012) 1586-1590.   \n[40] Q.B. Ma, Z.Z. Ye,H.P.He,J.R. Wang, L.P. Zhu, B.H. Zhao, Structural, electrical, and optical properties of transparent conductive ZnO: Ga films prepared by DC reactive magnetron sputtering,J. Cryst. Growth 304 (2007) 64-68.   \n[41] J.T.Thienprasert, S. Rujirawat, W. Klysubun,JN. Duenow,T.J. Coutts, S.B. Zhang, D.C. Look,S.Limpijumnong, Compensation in Al-doped ZnO by Al-related acceptor complexes: synchrotron X-ray absorption spectroscopy and theory,Phys. Rev.Lett. 110 (2013) 055502.   \n[42] C.W. Gorrie, A.K. Sigdel,J.J. Berry,B.J. Reese, M.F.A.M. van Hest,P.H. Holloway, D.S. Ginley, J.D.Perkins, Effect of deposition distance and temperature on electrical, optical and structural properties of radio-frequency magnetron-sputtered galliumdoped zinc oxide,Thin Solid Films 519 (2010) 190-196.   \n[43] T. Minami, H. Sato,H. Nanto, S. Takata, Group II impurity doped zinc oxide thin films prepared by RF magnetron sputtering,Jpn.J. Appl. Phys. 24 (1985) L781-L784.   \n[44] A.L. Patterson,The Scherrer formula for X-ray particle size determination,Phys. Rev. 56 (1939) 978-982.   \n[45] H.T. Cao,C. Sun, Z.L. Pei, A.Y. Wang, L.S.Wen,R.J. Hong, X. Jiang, Properties of transparent conducting ZnO: Al oxide thin films and their application for molecular organic light-emitting diodes, J. Mater.Sci.Mater. Electron.15 (2004) 169-174.   \n[46] T.J. Coutts, D.L. Young,T.A. Gessert, Modeling, characterization,and properties of transparent conducting oxides,in:D.S.Ginley,H. Hosono,D.C. Paine (Eds.), Handbook of Transparent Conductors, Springer, US 2011, pp.51-100.   \n[47]J. Kim, G.V. Naik,A.V. Gavrilenko,K. Dondapati, V.I. Gavrilenko,S.M. Prokes, O.J. Glembocki, V.M. Shalaev,A. Boltasseva, Optical properties of gallium-doped zinc oxide-a low-loss plasmonic material: first-principles theory and experiment, Phys. Rev.X3 (2013) 041037.   \n[48]S.C. Kehr, Y.M. Liu,LW. Martin,P.Yu,M. Gajek, S.Y.Yang, C.H. Yang,M.T.Wenzel,R. Jacob,H.G.von Ribbeck,M.Helm,X. Zhang,L.M.Eng,R.Ramesh,Near-field examination of perovskite-based superlenses and superlens-enhanced probeobject coupling, Nat. Commun.2 (2011) 249. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

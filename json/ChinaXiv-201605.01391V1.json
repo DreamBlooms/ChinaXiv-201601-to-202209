@@ -1,0 +1,568 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Structural Basis of Specific Recognition of Non-Reducing Terminal N-Acetylglucosamine by an Agrocybe aegerita Lectin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao-Ming Ren1,2, De-Feng Li1, Shuai Jiang?, Xian-Qing Lan³, Yonglin Hu1, Hui $\\sin ^ { 3 \\ast }$ , Da-Cheng Wang1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 NationalLaboratory of Biomacromolecules,Institute of Biophysics,Chinese Academy of Sciences,15 Datun Road,Beijing,100101,People's Republicof China,2 Universityof Chinese AcademyofSciences, No.19AYuquan Road,Beijing,10o049,People's Republicof China,3 Collegeof Life Sciences,Wuhan University,Wuhan,430072,People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* sunhui@whu.edu.cn (HS); dcwang @ibp.ac.cn (DCW) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Ren X-M, Li D-F, Jiang S,Lan X-Q, Hu Y, Sun H,etal. (2015) Structural Basis of Specific Recognition of Non-Reducing Terminal NAcetylglucosamine by an Agrocybe aegerita Lectin. PLoS ONE 10(6):e0129608.doi:10.1371/journal. pone.0129608 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor:Avadhesha Surolia,Indian Institute of Science, INDIA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: January 6,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: May11,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published:June 26,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Ren etal.This is an open access articledistributed under the termsof the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium, provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Data Availability Statement: Coordinates of the AAL2 and its complexes with GlcNAc and ${ \\mathsf { G l c N A c } } \\beta 1 .$ 3Galβ1-4GlcNAc have been deposited in the Protein Data Bank with the accession codes 4TQJ,4TQK, and 4TQM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding:This work was supported by the funding from Chinese Ministry of Science and Technology 973 Programs (2011CB911100,2011CB910304) to DCW, National Natural Science Foundation of China (31370849), the Chinese 111 Project (B06018),and from Wuhan University (2042014kf0226) to HS. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O-linked N-acetylglucosaminylation (O-GlcNAcylation) is a reversible post-translational modification that plays essential roles in many cellular pathways.Research in this field, however,is hampered by the lack of suitable probes to identify,accumulate,and purify the O-GlcNAcylated proteins.We have previously reported the identification of a lectin from the mushroom Agrocybe aegerita,i.e., Agrocybe aegerita lectin 2,or AAL2,that could bind terminal N-acetylglucosamine with higher affinities and specificity than other currently used probes.In this paper, we report the crystal structures of AAL2 and its complexes with GlcNAc and GlcNAcβ1-3Galβ1-4GlcNAc and reveal the structural basis of GlcNAc recognition by AAL2 and residues essential for the binding of terminal N-acetylglucosamine. Study on AAL2 may enable us to design a protein probe that can be used to identify and purify OGlcNAcylated proteins more efficiently. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lectins are a large group of non-enzyme proteins that recognize and specifically bind to carbohydrate moieties that are either free or conjugated on the surfaces of proteins or lipids [1]. They are distinct from antibodies and mono- or oligosaccharide sensors/transporters.Lectins are ubiquitous in nature.They have been found in all kingdoms of organisms ranging from virus, bacteria, to eukaryotes including fungi, plants and animals [2].Lectins play crucial roles in diverse biological processes at both molecular and cellular levels [1],such as cell-cellinteractions, host-pathogen recognitions,and innate immune responses and metastasis [3]. Because of their capabilities to specifically recognize a highly diverse array of sugar moieties,lectins have been widely used in glycan studies: immobilized lectins,for example, have been invaluable tools in the enrichments and purifications of glycoproteins. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O-linked addition of N-acetylglucosamine (O-GlcNAcylation) on the serine and threonine residues of cytosolic and nuclear proteins is a reversible post-translational modification that ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "plays essential cellular roles.Recent studies have shown that O-GlcNAcylation has extensive cross talk with phosphorylation,another essential protein modification,and serves as a nutrient sensor for the modulation of numerous signaling and transcription pathways [4,5]. It was observed that major oncogenic factors such as p53, $\\mathsf { c }$ -Myc,NFkB,and $\\beta$ -catenin are O-GlcNAcylated and that chromatin is modulated by O-GlcNAcylation,indicating that this modification may also serve as a cancer hallmark [6]. O-GlcNAcylation is distinct from other types of glycosylations in that it only adds one GlcNAc,a small non-charged moiety,onto the serine/ threonine residues,resulting in a modification that is very difficult to detect using techniques such as 2-dimensional electrophoresis; the modification is also too labile to be readily detected by conventional mass spectroscopies [4,7]. The lack of efficient probes led to the discovery of O-GlcNAcylation only in early 1980s [8],decades later than that of other protein glycosylations,despite its ubiquitous presence in eukaryotic cells.This lack of efficient tools still hampers the research in this important field [4,7]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we report the crystal structures of a lectin from Agrocybe aegerita,designated as AAL2, in its apo-and complex forms with GlcNAc and GlcNAcβ1-3Galβ1-4GlcNAc,as part of our endeavors to develop a system to facilitate the identification and purification of O-GlcNAcylated proteins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lectins from fungi (mainly from mushrooms) have attracted wide attention in recent years owing to their diverse bioactivities [9],including antitumor,antiproliferative,and immunomodulatory activities [10-12].AAL2 was recently discovered from the fruit body of the edible mushroom A. aegerita.It consists of 407 amino acid residues, with a molecular weight of $4 3 . 1 7 \\mathrm { k D a }$ . It was the second lectin purified from A. aegerita to be characterized by $\\mathbf { x }$ -ray crystallography by our groups, after A. aegerita AAL,an antitumor lectin that recognizes and binds Thomsen-Friedenreich antigen [13].AAL2 was found to specifically bind nonreducing terminal N-acetylglucosamine (GlcNAc) moieties of either alpha- or beta-linkage and was reported to have the activity of inducing apoptosis in hepatoma cels in vitro as wellas inhibiting hepatoma growth in tumour-bearing mice in vivo [14]. Glycan array analysis demonstrated that out of 465 glycans tested,AAL2 has a unique preference for GlcNAc-(Gal-GlcNAc) $\\mid _ { 1 - 3 }$ over (Gal${ \\mathrm { G l c N A c } } ) _ { 1 - 3 } ,$ which lacks the terminal GlcNAc [14]. ITC assays also revealed that AAL2 has higher affinity towards GlcNAc compared to WGA (wheat germ agglutinin) and GSL-II (Griffonia simplicifolia lectin-I), which have been widely used in glycan studies for their GlcNAcbinding activities [15,16].AAL2,therefore,has the potential to be a better tool for research involving O-GlcNAcylated proteins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To illustrate the mechanisms of how AAL2 specifically recognizes non-reducing terminal GlcNAc, we performed structural and surface plasmon resonance (SPR) affinity characterizations on AAL2 and its binding with GlcNAc and GlcNAcβ1-3Galβ1-4GlcNAc, as well as its divalent metal cation binding properties.These results showed that AAL2 has homologous sequence and similar structure with previously characterized fungal lectins PVL (Psathyrella velutina Lectin) [17],and it exclusively recognizes glycans with non-reducing terminal GlcNAc and the binding affinity between AAL2 and GlcNAc is relatively high. Our work, therefore, lays a solid foundation for the development of an effcient macromolecule probe that can be used to identify,enrich,and purify O-GlcNAcylated proteins and to locate the sites of modification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The crystal structure of PVL,a fungal lectin from Psathyrella velutina, was reported in 2006 [17],which was the first member of the seven-blade $\\beta$ -propeller family of fungal lectins to be structurally characterized. But the specific recognition mechanism of glycans by the lectin protein needed further understanding. AAL2 is homologous with PVL and belongs to the same lectin family.To illustrate the mechanisms of how AAL2 specifically recognizes non-reducing terminal GlcNAc,we performed structural and SPR affnity characterizations on AAL2 and its binding with GlcNAc and GlcNAcβ1-3Galβ1-4GlcNAc,as well as its divalent metal cation binding properties.The results revealed the main structural basis for the exclusive recognition between AAL2 and glycans with non-reducing terminal GlcNAcs. Structure comparison showed a rather high similarity between AAL2 and PVL,indicating that these two lectins adopt a unique structure to specifically recognize glycans with non-reducing terminal GlcNAc. Our present work, in association with previous information,therefore,lays a solid foundation for the development of an efficient macromolecule probe that can be used to identify, enrich, and purify O-GlcNAcylated proteins and to locate the sites of modification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Purification and crystallization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The gene of AAL2 was amplified from A. aegerita and cloned into pET30a expression vector between NdeI and HindII restriction sites,without any tag. The recombined plasmid was transformed into Escherichia coli host strain BL21 (DE3) competent cells for expresson. The AAL2 protein expression and first-step purification with a GlcNAc-coupled Sepharose 6B affinity column has been described in detail previously [14,18].The protein samples were then applied to a HiTrap SP XL column (GE Healthcare Life Science) to remove the glycan ligands that may bind AAL2.A Superdex 200 10/300 GL gel-filtration column (Amersham Biosciences) was subsequently used to further purify and to identify the oligomeric state.The purified protein was concentrated to $3 0 \\mathrm { m g / m l }$ in a buffer containing $5 0 \\mathrm { m M }$ Tris-HCl pH7.5 and 150mM NaCl. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AAL2 was mixed with GlcNAc (from Sigma) and GlcNAcβ1-3Galβ1-4GlcNAc trisaccharide (a gift from Consortium for Functional Glycomics),respectively,at AAL2:ligand molar ratios of 1:10,and the mixtures as wellas pure AAL2 sample were used in crystallization condition searches. Crystallization was performed using the hanging-drop vapor diffusion method,by mixing protein and reservoir solutions with equal volume of $1 \\mu { }$ and equilibrated against $4 0 0 \\mu \\mathrm { l }$ reservoir solutions at 293K.Crystals of AAL2 were obtained under the condition of $3 0 \\%$ PEG 8000 (w/v), $0 . 2 \\mathrm { M }$ sodium acetate and $0 . 1 \\mathrm { M }$ sodium cacodylate $\\mathrm { p H } 6 . 4$ Crystals ofAAL2- GlcNAc complex were obtained with the solution containing $2 5 \\%$ PEG 4000 (w/v), $6 \\%$ Tacsimate $\\mathrm { p H } 6 . 0$ and $0 . 1 \\mathrm { M } \\mathrm { M E S } \\ p \\mathrm { H } 6 . 0 .$ The crystals of AAL2-trisaccharide complex were obtained in solution containing $2 . 3 \\mathrm { M }$ ammonium sulfate and 0.1M sodium acetate $\\mathrm { p H } 4 . 4$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Data collection, structural solution and refinement ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All the three types of crystals were mounted on cryoloops (Hampton Research) directly from the crystallization drops and flash-cooled in a nitrogen-gas stream at 95 K. X-ray diffraction data for AAL2 was collected on an in-house FR-E Bluemax/R-AXIS $\\mathrm { \\Delta I V { + + } } / $ VarimaxHF (Rigaku) diffractometer at wavelength of $\\lambda { = } 1 . 5 4 1 8 \\mathring \\mathrm { A }$ ; the data for AAL2 complexed with GlcNAc was collected on beamline 1W2B at Beijing Synchrotron Radiation Facility (BSRF; Beijing, China) at $\\lambda = 1 \\mathring \\mathrm { A }$ and the data for AAL2 complexed with GlcNAcβ1-3Galβ1-4GlcNAc was collected on an in-house MicroMax Oo7 Saturn $9 4 4 +$ VarimaxHF(Rigaku) diffractometer at $\\lambda = 1 . 5 4 1 8 \\mathring \\mathrm { A }$ . Each dataset was collected with a total of 180 images using an oscillation of $1 ^ { \\circ }$ per image. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data were indexed and integrated using the program MOSFLM v.7.0.4 [19] and then scaled by SCALA v.6.0 from the CCP4 v.6.0.2 program suite [20]. A sequence-homology BLAST search at NCBI website (http://www.ncbi.nlm.nih.gov/BLAST) identified a structurally characterized protein PVL thathas $6 0 \\%$ sequence identity with AAL2 [17]. The structure of AAL2 was solved using molecular replacement method as implemented in the AutoMR pro gram of the Phenix suite v.1.8.2 [21] with the structure of PVL (PDB 2BWR) as a search ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "model.The determination of the structures of the two complexes was similarly performed using AutoMR program in Phenix, with the structure of solved AAL2 as search models.The carbohydrate ligands were added and adjusted manually according to the electronic density map displayed in Coot [22].The structural refinement was performed using the Refine program in Phenix alternated with manual rebuilding using the graphical program Coot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Surface plasmon resonance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The SPR experiments were carried out on a BIAcore T1Oo (GE Healthcare, Sweden) using CM5 sensor chips at 298 K.AAL2 protein solution was diluted to a concentration of $2 0 \\mu \\mathrm { g / m l }$ with fixing buffer $\\left( \\mathrm { p H } 5 . 0 \\right)$ and subsequently immobilized by amine coupling onto the chips. The immobilized level of AAL2 reached 3o00 response units.Flow path 1 was used as an activated blank control for subtraction. Interaction experiments were performed in a running buffer of $5 0 \\mathrm { m M }$ Tris-HCl pH7.5,150mMNaCl, $0 . 0 0 5 \\%$ Tween 20 at a flow rate of $3 0 \\mu \\mathrm { l / m i n }$ The ligands in sample buffer were employed as the flowing phase respectively. Each interaction experiment was carried out with gradient concentrations from low to high programmed to inject at a $3 0 \\mu \\mathrm { l / m i n }$ flow rate under a sensorgram.Binding curves were corrected,aligned and fitted kinetically using the BIAcore T1oo evaluation program (GE Healthcare). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Determination of metal binding properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The purified AAL2 was loaded on a HiTrap Desalting Column (GE Healthcare) with buffer containing $5 0 \\mathrm { m M }$ Tris-HCl pH7.5,150mM NaCl, and $5 \\mathrm { m M }$ EDTA to remove metal ions from the protein.The flow-through fraction of protein was incubated in 277K for 1 hr.and then loaded on a HiTrap Desalting Column once again with the buffer of $5 0 \\mathrm { m M }$ Tris-HCl pH 7.5 and $1 5 0 \\mathrm { m M N a C l }$ to remove EDTA and EDTA-coupled metal ions.The flow-through fraction of protein was then evenly divided into five parts,and was added solutions of $\\mathrm { M g C l } _ { 2 }$ $\\mathrm { C a C l } _ { 2 }$ 0 $\\mathrm { M n C l } _ { 2 }$ 0 $\\mathrm { C o C l } _ { 2 }$ and $\\mathrm { N i S O _ { 4 } , }$ respectively,to concentrations of $1 0 \\mathrm { m M }$ . All the samples were incubated at 277K overnight and then applied to a HiTrap Desalting Column again to remove free metal ions.The metal content of the five samples as well as the protein solution not processed with EDTA were determined on a Varian Inductively Coupled Plasma-Atomic Emission Spectrometry (ICP-AES) (Agilent Technologies,USA). SPR experiments were also performed on EDTA-treated sample in buffers containing $5 \\mathrm { m M } \\mathrm { C a C l } _ { 2 }$ to find out if the metal binding state of AAL2 would affect its affinity to ligands. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GlcNAc is the most effective ligand for AAL2 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To measure the afnities between AAL2 and glycan ligands, we performed Surface Plasmon Resonance (SPR) experiments. The ligands we used were GlcNAc monosaccharide and GlcNAcβ1-3Galβ1-4GlcNAc,a trisaccharide showing very high afinity toward AAL2 in glycan array analysis.In SPR experiments,the experimental curves obtained automatically from different sensorgrams showed that both GlcNAc and $\\mathrm { G l c N A c 8 1 - 3 G a l \\beta 1 - 4 G l c N A c }$ could be captured efciently by the sensor chip surface through binding to AAL2 and quickly dissociated to the baseline level (Fig 1). The data obtained from the analysis of stable-state affinity model showed that AAL2 binds to GlcNAc with a dissociation constant (Kd) of $2 8 . 3 1 \\mu \\mathrm { M }$ (Fig la), while previous assays using ITC techniques obtained a Kd value of $1 9 5 \\mu \\mathrm { M }$ [14], which was comparable to other GlcNAc-binding fungal lectins such as PVL (Psathyrella velutina Lectin) （2 $( \\mathrm { K d } = 2 1 4 \\mu \\mathrm { M } )$ [17] and BLL (Boletopsis leucomelas lectin) $\\mathrm { ' K d } = 4 3 5 \\mu \\mathrm { M } )$ [23]. AAL2 was also shown via SPR to bind to the trisaccharide with a Kd value of $4 1 . 6 5 \\mu \\mathrm { M } .$ ,which is close to ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ebf290e38aefb82f65e1821fc83cc311c272a6249f0dab6a92587c2167ba489.jpg",
+        "img_caption": [
+            "Fig 1. SPR analysis of binding of GlcNAc and GlcNAcβ1-3Galβ1-4GlcNAc to immobilized AAL2 at 298 K.(a)The binding curves measured at diferent concentrations of GlcNAc and the steady state affinity indicated by the value of Kd.(b) The binding curves measured at diferent concentrations of $_ { \\mathsf { G l c N A c } \\beta 1 }$ 1 3Galβ1-4GlcNAcand the steady state analysis shows that the affinityof AAL2tothe trisaccharide is close to but a litle lower than that to GlcNAc. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g001 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "that of GlcNAc (Fig 1b), demonstrating that Gal-GlcNAc moiety beyond GlcNAc may not affect the binding between AAL2 and trisaccharide. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overall structures of AAL2 and AAL2-glycan complexes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The structures of AAL2, AAL2-GlcNAc and AAL2-GlcNAcβ1-3Galβ1-4GlcNAc were determined at resolutions of 2.0A,2.1A,and $2 . 0 \\mathring \\mathrm { A }$ , respectively. The data collection and refinement statistics are summarized in Table 1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There are two virtually identical AAL2 monomers arranged around a two-fold pseudoaxis of symmetry in an asymmetric unit in both the structures of AAL2 and AAL2-GlcNAc,and one AAL2 monomer in AAL2-GlcNAcβ1-3Galβ1-4GlcNAc,while the protein exists as monomers in solution as determined from its elution volume on a Superdex 200 10/3oo GL column. Discussions thereafter will be focused on monomer A unless specified otherwise. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As expected from the sequence homology, the structures of AAL2 and AAL2-GlcNAc complex are very similar to those of the corresponding structures of PVL, with root-mean-square deviations (RMSDs) of $0 . 7 \\mathring \\mathrm { A }$ for $\\mathsf { C a }$ atoms. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AAL2 adopts a beta-propeller fold. The overall structure of AAL2 monomer is a single domain with the shape of cylindrical torus with a diameter of about 51A and a height of about $2 7 \\mathring \\mathrm { A }$ , showing a very regular,seven-bladed $\\beta$ propeller fold formed by the blades packing in a circular array (Fig 2a). Each blade is a $\\beta$ -sheet consisting of four anti-parallel $\\beta$ -strands arranged in a W-like shape and of about 56 residues in length,and is named W-motif according to its shape. Seven tandem W-motifs of the AAL2 monomer, numbered WI to WVIl from $\\mathrm { N } \\mathrm { - }$ to C-terminus (Fig 2b),are organized around a seven-fold axis of pseudo symmetry. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The four $\\beta$ -strands of each W-motif are numbered 1-4 according to their spatial arrangement from AAL2 center to its surface (Fig 2b).The first $\\beta$ -strands of the seven W-motifs are located innermost of the AAL2 monomer and form a central tunnel that is filled with water molecules and almost blocked by a long N-terminus loop (except for a smal opening). These 7 innermost strands point to the same direction,from the'entrance' to the'exit' of the central tunnel,and run almost parallel to each other along the direction of the seven-fold propeller axis (Fig 2a). Strands 1 and 2 are connected by along loop of about eight residues,while strands ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d302fd84a0de3b31b24537660d76b864b2b78fced28a86cf5a4b836391ad71d.jpg",
+        "table_caption": [
+            "Table1.Datactocssgucualiemtaistfoomleitcdompexi 3Galβ1-4GlcNAc. "
+        ],
+        "table_footnote": [
+            "$\\begin{array} { r } { R _ { m e r g e } = \\Sigma _ { h k I } \\Sigma _ { i } | I _ { i } ( h k I ) - \\langle I ( h k I ) \\rangle | / \\Sigma _ { h k I } \\Sigma _ { i } I _ { i } ( h k I ) } \\end{array}$ ,where $I _ { i } ( h k I )$ is the intensity of the measurement of reflection hkl and $\\langle I ( h k I ) \\rangle$ is the mean value of $I _ { i } ( h k I )$ for all $i$ measurements. aThe values in parentheses refer to the highest resolution shell. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>AAL2</td><td>AAL2 with GlcNAc</td><td>AAL2 with GlcNAcβ1-3Galβ1-4GlcNAc</td></tr><tr><td>Data collection</td><td></td><td></td><td></td></tr><tr><td> Space group</td><td>P 21 21 21</td><td>P 21 21 21</td><td>P 2 21 21</td></tr><tr><td>Cell dimensions</td><td></td><td></td><td></td></tr><tr><td>a(A)</td><td>52.60</td><td>52.56</td><td>54.23</td></tr><tr><td>b(A)</td><td>111.70</td><td>111.24</td><td>77.54</td></tr><tr><td>c(A)</td><td>135.97</td><td>134.63</td><td>89.02</td></tr><tr><td>Wavelength(A)</td><td>1.54187</td><td>1.00001</td><td>1.54187</td></tr><tr><td> Subunits/asym.</td><td>2</td><td>2</td><td>1</td></tr><tr><td>Resolution range(A)</td><td>51.66-2.00</td><td>26.93-2.10</td><td>46.31-2.00</td></tr><tr><td> High resolution shell(A)</td><td>2.11-2.00</td><td>2.21-2.10</td><td>2.11-2.00</td></tr><tr><td>Matthews coefficient</td><td>2.29</td><td>2.18</td><td>2.18</td></tr><tr><td> Solvent content(%)</td><td>45.84</td><td>46.28</td><td>55.72</td></tr><tr><td> Rmerge (%)a</td><td>5.7(27.6)</td><td>14.1(41.0)</td><td>12.7(38.3)</td></tr><tr><td> Average //g/a</td><td>16.8(3.8)</td><td>6.3(2.2)</td><td>10.2(2.9)</td></tr><tr><td>Completenessa</td><td>95.7(87.9)</td><td>88.8(70.4)</td><td>98.8(92.1)</td></tr><tr><td>Redundancya</td><td>5.0(3.0)</td><td>3.0(1.8)</td><td>6.2(3.4)</td></tr><tr><td>Refinement</td><td></td><td></td><td></td></tr><tr><td> No. reflections</td><td>612304</td><td>350907</td><td>334833</td></tr><tr><td>Rwork/Rfree (%)</td><td>18.71/23.49</td><td>17.17/24.08</td><td>19.02/24.17</td></tr><tr><td> Average B-factors(A2)</td><td>21.95</td><td>11.38</td><td>23.89</td></tr><tr><td>R.m.s. deviations</td><td></td><td></td><td></td></tr><tr><td> Bond lengths(A)</td><td>1.050</td><td>1.093</td><td>0.758</td></tr><tr><td>Bond angles(°)</td><td>0.007</td><td>0.007</td><td>0.003</td></tr><tr><td>Ramachandran outliers</td><td>0.1%</td><td>0.1%</td><td></td></tr><tr><td>Most favored region (%)</td><td>97.1</td><td>95.6</td><td>96.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.t001 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 and 3 are connected by a short loop of only four residues (except for a ${ \\beta } .$ -turn in the first Wmotif). Strands 3 and 4 are connected by a long loop of about eleven residues. After strand 4, the peptide chain goes towards the direction of the central tunnel through the large ‘connecting segment' to start the strand 1 of next $\\beta$ -sheet. When the AAL2 molecule is viewed along the central 7-fold symmetry axis,all the seven blades'are twisted (Fig 2a right panel), with each ${ \\beta }$ strand twists about $3 0 ^ { \\circ }$ clockwise compared to the prior one,resulting in the arrangements of the outmost $\\beta$ -strands as almost perpendicular to the propeller axis and form a outer circular edge of the propeller between themselves. This arrangement may help stabilize the protein structure. Sequence alignment (Fig 2c) and superposition of the seven W-motifs show that they have high homologies to each other. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "What is notable is that the seven sequence repeats observed in AAL2 do not match exactly with the seven blades,but instead have a shifting of one $\\beta$ -strand (Fig 2b).WI consists of three consecutive strands,i.e.,strands 2,3 and 4 at the N-terminus,and one strand,i.e.,strand 1, from the C-terminus. This property of‘end to end', which has been discovered in many propeller structures, has a great evolutionary advantage of stabilizing protein structures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfb7ce743b176097e49037cb7ad87567e413153bf8b227c5023a326918b927d0.jpg",
+        "img_caption": [
+            "Fig2.The overview of the structure of AAL2. (a)Two orthogonal views ofthe crystal structure of native AAL2.(b) Topology diagram of AAL2 shows that the seven blades have a shifting of one $\\beta$ -strandcompared with the seven sequence repeats.GlcNAc binding sites and calcium binding sites are represented by green hexagons and solid yelow circles. (c)Alignmentof the seven W-motifs of AAL2.Solid redtriangles,black triangles,and red pentagons indicate the residues forming polarinteractions with GlcNAc,the residues coordinate calcium ions,and the differences between Wl and other $\\boldsymbol { \\mathsf { W } }$ -motifs making it incapableof binding GlcNAc, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g002 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The carbohydrate binding sites ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The structure of AAL2-GlcNAc complex revealed six binding sites out of the seven W-motifs, with the exception of motif WI. All the bound GlcNAc molecules have virtually identical orientations in the structure. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Glycan ligands are bound in shallow pockets located on the entrance side,between the connecting segment and the 2-3 loop of each W-motifs (except for WI) (Fig 3a). Electron density maps show that the two ligands in the complex are wel ordered and all the carbohydrate rings in the ligands adopt chair conformation (Fig 3b). Both hydrogen bonds and hydrophobic interactions contribute to the binding of AAL2 with the ligands (Fig 3c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AAL2-GlcNAc recognition pockets. Because the six binding pockets of AAL2 for glycan ligands are almost identical, we chose motif WII for detailed discussion and the descriptions also applied to other W-motifs unless specified otherwise. The carbohydrate binding pockets of AAL2 are very similar to those of $\\mathrm { { P V L } , }$ as implied by the sequence homology. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The binding pocket for GlcNAc consists of two parts. The major part is formed by the segment connecting WII and WIII,including the side chains of Asn104,Trpl12 and His117 and main chain atoms of Gly110 and Glyl11.The other part is formed by the main chain atoms of Glyl36,Glul37,and Lysl38 from the 2-3 loop of WII. Among the residues mentioned above, Asnl04 is located at the beginning of the connecting segment and it is either Asn or Asp in the corresponding position of each blade,and offers its OD1 and ND2/OD2 to form hydrogen bonds with O3 and O4 hydroxyl groups of GlcNAc, respectively. The O3 hydroxyl of GlcNAc ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e74a29c4be1f7876b0af56b2dcdf314d034201fe146573e13c557cced0710a4a.jpg",
+        "img_caption": [
+            "Fig 3. Overview of the six glycan binding pockets of AAL2,alignment of the six GlcNAc molecules and the detailed interaction in WIl. (a) Horizontal view of AAL2-GlcNAc complex(left)and the surface electrostatic potential diagram of the vertical view of AAL2- GlcNAcβ1-3Galβ1-4GlcNAc complex (right). (b) Sigma-Aweighted $F o \\mathrm { - } F c$ omit electron density map around GlcNAc (left) and GlcNAcβ1-3Galβ1-4GlcNAc (right). (c) The hydrogen bonds and hydrophobic interactions between AAL2and GlcNAc (left) and GlcNAcβ1-3Galβ1-4GlcNAc (right),respectively,shown in Ligplot. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g003 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "moiety also forms a hydrogen bond with NE1 of Trpl12.The N-acetyl group of GlcNAc forms two hydrogen bonds with the main chain of the protein: N2 donates one to O of Glyl10,and O7 carbonyl accepts one from N of Glul37 (Fig 4a).The hydrogen bonding networks between AAL2 and GlcNAc of all six binding sites are listed in Table 2.Furthermore,the inner part of the pocket comprised of Trp112,His117,Gly136 and Glu137 is hydrophobic,helping stabilize the complex structures (Fig 4b). With the presence of both the polar and hydrophobic interactions, GlcNAc is bound tightly in the shallow pocket formed on the protein surface, with the head of N-acetyl group buried inside the pocket and the reduced O1 as well as O6 hydroxyl pointing outside into the solvent region. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GlcNAcβ1-3Galβ1-4GlcNAc ligands are bound to the same pockets of AAL2, with the nonreducing terminal GlcNAc ( $\\mathbf { \\Omega } _ { 1 } \\mathbf { \\dot { \\Omega } } _ { 2 }$ -GlcNAc) adopted the same position as GlcNAc.The polar interactions between AAL2 and the trisaccharide are summarized in Table 3.The interactions between AAL2 and $\\mathbf { \\Omega } _ { 1 } \\mathbf { \\ ' }$ -GlcNAc of the trisaccharide are identical to those with GlcNAc monosaccharide.Although there are several hydrogen bond interactions between AAL2, such as Lysl38,and the LacNAc moiety after 1'-GlcNAc,AAL2 doesn't demonstrate specific ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fe7a54de8c4285b101ff85a43eb697726833fa3e6e214e40f7ec2d546a8f9f6.jpg",
+        "img_caption": [
+            "ig4(a)e and GlcNAcβ1-3Galβ1-4GlcNAc,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g004 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "preference to the $2 ^ { \\circ }$ -Gal or ${ 3 ^ { \\circ } }$ -GlcNAc in all the six blades (Fig 4c), since the interactions seem to be random. This result was rather unexpected based on the glycan array. However, our results have further proved that AAL2 recognizes the terminal non-reducing GlcNAc moiety of a polysaccharide. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Essential residues and structural elements for substrate recognition. Sequence alignment of allseven W-motifs (Fig 2c) shows that the residues involved in the polar interactions with GlcNAc are highly conserved in all the seven blades.We have mutated five Asn104- counterpart residues in other W-motifs to alanine and found that the mutant proteins could not bind the GlcNAc-coupled Sepharose 6B affinity column.This showed that Asnl04 and its counterparts in other W-motifs are essential for hydrogen bond interactions with GlcNAc. The Tachylectin-2 [24] from Tachypleus tridentatus binds GlcNAc in a manner almost identical to that of AAL2,although the binding sites of these two proteins do not share the same architecture (Fig 5). While residues Lys37 and Trp40 are responsible for the GlcNAc specificity of Tachylectin-2,their equivalent residues are Asn1O4 and Trpl12,respectively.Several other residues contribute to hydrogen bond formation with the substrates with their main-chain atoms. Another important common element involved in GlcNAc-binding is a hydrophobic pocket for the accommendation of the acetyl group of GlcNAc, which is formed by two aromatic residues, i.e., residues Trp40 and Trp75 in Tachylectin and Trp112 and His117 in AAL2.We therefore propose that AAL2 represents a common mode of GlcNAc recognition,although more GlcNAc-binding lectin structures are needed to firmly establish the structural patterns. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae0e7fdd660d213077d5e4784422a012045a2c4fe05a581fb55953b90f730118.jpg",
+        "table_caption": [
+            "Table 2.Polar interactions (distances inA) between atoms from GlcNAc (left column)and AAL2. "
+        ],
+        "table_footnote": [
+            "doi:10.1371/journal.pone.0129608.t002 "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">WIl</td><td colspan=\"2\">WllI</td><td colspan=\"2\">WIV</td><td colspan=\"2\">WV</td><td colspan=\"2\">WVI</td><td colspan=\"2\">WVII</td></tr><tr><td>N2</td><td>G53[O]</td><td>2.79</td><td>G110[O]</td><td>2.78</td><td>G166[O]</td><td>3.17</td><td>G222[O]</td><td>2.78</td><td>K277[0]</td><td>2.74 Q332[O]</td><td>3.12</td></tr><tr><td>07</td><td>N80[N]</td><td>2.89</td><td>E137[N]</td><td>3.04</td><td>D193[N]</td><td>2.94</td><td>K249[N]</td><td>2.98</td><td>N304[N]</td><td>2.87</td><td>E359[N] 2.77</td></tr><tr><td>03</td><td>N47[OD1]</td><td>2.64</td><td>N104[OD1]</td><td>2.76</td><td>D160[OD1]</td><td>2.55</td><td>N216[OD1]</td><td>2.70</td><td>D272[OD1] 2.60</td><td>D327[OD1]</td><td>2.50</td></tr><tr><td>03</td><td>W55[NE1]</td><td>2.85</td><td>W112[NE1]</td><td>2.98</td><td>W168[NE1]</td><td>2.80</td><td>W224[NE1]</td><td>2.95</td><td>W279[NE1]</td><td>2.88 W334[NE1]</td><td>2.79</td></tr><tr><td>04</td><td>N47[ND2]</td><td>2.79</td><td>N104[ND2]</td><td>291</td><td>D160[OD2]</td><td>2.72</td><td>N216[ND2]</td><td>2.81</td><td>D272[OD2] 2.55</td><td>D327[OD2]</td><td>2.78</td></tr><tr><td>06</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Y308[OH]</td><td></td><td>2.56</td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unique stereochemistry for AAL2 specific recognition. The putative binding site of WI seems intact and should be able to bind one more GlcNAc.However,two differences rule out this possibility.Firstly,instead of glycine, it is alysine at residue 389,with a relatively large side chain stretching towards the binding pocket and it would block the binding of GlcNAc to the protein (Fig 6a).Another difference is observed at residue 395,where a threonine residue replaces the conserved histidine residue,which,as mentioned above,contributes to the hydrophobic interaction in all other six W-motifs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mutation assays also explained why AAL2 has the specificity towards GlcNAc instead of GalNAc. Since galactose is a C-4 epimer of glucose, the O4 hydroxyl group in GlcNAc is equatorial (in the \"plane\" of the ring) while in GalNAc it is axial (up from the\"plane\"of the ring). If ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e514c966b66ab194d49ed6b53fb3f3836b6347475b8cae7ed68b14c430b6057.jpg",
+        "table_caption": [
+            "Table 3. Polar interactions (distances in A) between GlcNAcβ1-3Galβ1-4GlcNAc and AAL2. "
+        ],
+        "table_footnote": [
+            "doi:10.1371/journal.pone.0129608.t003 "
+        ],
+        "table_body": "<html><body><table><tr><td>Binding site</td><td>WII</td><td></td><td>WIlI</td><td></td><td>WIV</td><td></td><td>Wv</td><td></td><td>WVI</td><td></td><td>WVII</td></tr><tr><td>1'-GlcNAc</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N2</td><td>G53[O]</td><td>2.81</td><td>G110[O]</td><td>2.81</td><td>G166[O]</td><td>2.94</td><td>G222[O]</td><td>2.82</td><td>K277[O]</td><td>2.94 Q332[O]</td><td>2.89</td></tr><tr><td>07</td><td>N80[N]</td><td>2.97</td><td>E137[N]</td><td>2.90</td><td>D193[N]</td><td>3.09</td><td>K249[N]</td><td>2.91</td><td>N304[N]</td><td>2.86 E359[N]</td><td>3.04</td></tr><tr><td>03</td><td>N47[OD1]</td><td>2.72</td><td>N104[OD1]</td><td>2.68</td><td>D160[OD1]</td><td>2.61</td><td>N216[OD1]</td><td>2.72</td><td>D272[OD1]</td><td>2.62 D327[OD1]</td><td>2.69</td></tr><tr><td>03</td><td>W55[NE1]</td><td>2.86</td><td>W112[NE1]</td><td>2.92</td><td>W168[NE1]</td><td>2.99</td><td>W224[NE1]</td><td>2.79</td><td>W279[NE1] 2.72</td><td>W334[NE1]</td><td>2.85</td></tr><tr><td>04</td><td>N47[ND2]</td><td>2.85</td><td>N104[ND2]</td><td>2.67</td><td>D160[OD2]</td><td>2.64</td><td>N216[ND2]</td><td>2.90</td><td>D272[OD2] 2.78</td><td>D327[OD2]</td><td>2.95</td></tr><tr><td>2'-Gal</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>02</td><td>N80[ND2]</td><td>2.54</td><td></td><td></td><td>D193[OD1]</td><td>2.47</td><td>K249[NZ]</td><td>3.40</td><td></td><td></td><td></td></tr><tr><td>04</td><td></td><td></td><td>K138[NZ]</td><td>2.70</td><td></td><td></td><td></td><td></td><td></td><td>K360[OD2]</td><td>3.07</td></tr><tr><td>05</td><td></td><td></td><td>K138[NZ]</td><td>2.66</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3'-GlcNAc</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>06</td><td></td><td></td><td>K138[NZ]</td><td>2.55</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/deba1589f707606d2a9e7df54265006c5964833a7c89f955ddc667d6012dfbb8.jpg",
+        "img_caption": [
+            "Fig5.(a)TecomparisofhdroenbonsnetorkbetwenA2(eftandTacylectin-2(ight)ndGc.(b)Bothpolrandropoba interactionsetwnAL(eftndacylectin-2(ghtndGNcGcNAcissoinpupleadtheresiduesthataremarkedoldsoeae components of the glycan binding pockets in the two lectins. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g005 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a Gal moiety were to take the position and orientation of GlcNAc as in the complex structures, the key hydrogen bonds between Asn104 and O4 hydroxyl of GlcNAc would be disrupted (Fig 6b).AAL2 did not show any binding affinities toward Neu5Ac as assayed by SPR,even though it shares $6 0 \\%$ sequence identity and has very similar structure to those of PVL, which,in contrast, binds both GlcNAc and Neu5Ac.This lack of affinity towards Neu5Ac might be resulted from the fact that Neu5Ac does not have the O4 hydroxyl to form the key hydrogen bond with AAL2 as mentioned above.Moreover,the side chain of residue Tyr 140 of PVL provides the Neu5Ac specificity by forming a hydrogen bond with sialic acid moiety of Neu5Ac (Fig 6c), but its counterpart in AAL2,i.e.,residue Leul41,is too smallto form a similar hydrogen bond. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/45f837d2654b31a5adb7275c3ead7b81c7760f17e225214c3bcd56361749594e.jpg",
+        "img_caption": [
+            "Fig6.(a)esotetafadtetoetmpacd Galincofol.y that Neu5Ac (cyan) is not a specific ligand for AAL2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g006 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The structural evidences prove that AAL2 has an exclusive specificity to non-reducing terminal GlcNAc which perfectly fits with the glycan array and the hydrogen bond donated by O4 hydroxyl group of GlcNAc is crucial for its binding to AAL2. In other words,the corresponding residues of Asn1O4 play a most important role in determining the glycan specificity of AAL2. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Metal binding property of AAL2 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In addition to glycans,AAL2 also binds two cations per molecule as observed in the structure of AAL2-GlcNAc complex (Fig 7a). Similar metal ion binding properties were also observed for PVL [17].These cations are located in the 1-2 loops of WV and WVII of AAL2, where highly negatively-charged cages are formed (Fig 7b). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To identify the cation-binding preferences of AAL2,we tested $\\mathrm { M g } ^ { 2 + }$ ${ \\mathrm { C a } } ^ { 2 + }$ 0 $\\mathrm { M n } ^ { 2 + }$ 0 ${ \\mathrm { C o } } ^ { 2 + }$ and $\\mathrm { N i } ^ { 2 + }$ for their binding afinities. The binding assay results are shown in Table 4. Because of heavy precipitation upon adding zinc salt into protein solution, the binding assay of $Z \\mathrm { n } ^ { 2 + }$ was not shown. But there was indeed zinc in the purified native protein samples. Calcium is the main element AAL2 binds, which is the reason why we modeled cations in the AAL2-GlcNAc ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d60eadc6a4f08895c976ccbab7b6a6fbc7cf6e49f523eb869a882234c846f52c.jpg",
+        "img_caption": [
+            "Fig7.(a) Overview of the locations of two ${ \\mathsf { C a } } ^ { 2 + }$ ,which are represented by yellow spheres,in the whole structure. (b) Larger and detailed view of the image section in red frame of (a). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0129608.g007 doi:10.1371/journal.pone.0129608.t004 ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/a52c1209c19c7171d55df93646c1fe4019f0882ca25315e16c80d4eee493bd1b.jpg",
+        "table_caption": [
+            "Table 4.Metal content of AAL2 samples prepared with various divalent metal ions. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Mg2+</td><td>Ca²+</td><td>Mn2+</td><td>Zn2+</td><td>Cu2+</td><td>Co2+</td><td>Ni2+(mg/L)</td></tr><tr><td>AAL2+MgCl2</td><td>0.020</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AAL2+CaCl2</td><td></td><td>0.17</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AAL2+MnCl2</td><td></td><td></td><td>0.042</td><td></td><td></td><td></td><td></td></tr><tr><td>AAL2+CoCl2</td><td></td><td></td><td></td><td></td><td></td><td>0.022</td><td></td></tr><tr><td>AAL2+NiSO4</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.0068</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "complex as ${ \\mathrm { C a } } ^ { 2 + }$ . The preference of the divalent cation type may lie in the diameter fitting the size of the negative charged pocket. SPR assay were also carried out and illustrated that the adding of ${ \\mathrm { C a } } ^ { 2 + }$ did not afect the glycan affinity of AAL2. Although it has been reported that ${ \\mathrm { C a } } ^ { 2 + }$ （204 binding property is a common phenomenon observed in propeller structures and it was believed that the binding of ${ \\mathrm { C a } } ^ { 2 + }$ play a role of stabilizing the overall structure [17],similar conclusions could not be made for AAL2 based on our studies.So the efect of metal binding of AAL2 remains to be investigated. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discussions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this study,we have demonstrated that AAL2 has relatively high affinities and exclusive specificity towards terminal nonreducing GlcNAc and illustrated the structural basis of its ligand specificity. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Although further studies are required to reveal the antitumor mechanisms of AAL2, the high affinities and exclusive specificity of this lectin toward nonreducing GlcNAc moieties strongly point to the possibilities that AAL2 may exert its functions through interactions with O-GlcNAcylated proteins. Many tumor suppressors and oncogenes that involved in transcription regulations,such as $c$ -Myc,p53,and retinoblastoma,are modified by O-GlcNAcylation. The extensive cross talk between O-GlcNAcylation and phosphorylation involving these proteins underlines the roles played by O-GlcNAcylation in tumor pathogenicity [4,6],but the exact mechanisms and ligand proteins of AAL2 antitumor functions remain to be revealed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The studies reported here,on the other hand,have demonstrated that AAL2 is a very promising candidate to replace WGA in glycan research for the enrichment and purification of O-GlcNAcylated proteins. WGA lectin weak afinity chromatography has been the most frequently used method in the enrichment and purification of O-GlcNAcylated proteins [16], but this method suffers from,as implied by its name,the weak affinity of WGA toward its ligands and low specificities, because WGA binds sialic acids in addition to O-GlcNAcylated proteins. AAL2,in contrast, has higher affinities and exclusive specificities towards terminal GlcNAc moieties.Further research is in progress in our labs to employ AAL2 in affinity chromatography for the efcient enrichment and purification of O-GlcNAcylated peptides and proteins. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The results reported here illustrated the structural basis of how AAL2 recognizes and binds terminal GlcNAc moiety and laid a solid foundation for us to reveal the antitumor mechanisms of this lectin and to develop a better reagent for glycan studies involving O-GlcNAcylated proteins. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Y.Han and S.Liu for technique support for in-house X-ray diffraction data collections,and Y. Chen for technique support for SPR assays. Coordinates of the AAL2 and its complexes with GlcNAc and GlcNAcβ1-3Galβ1-4GlcNAc have been deposited in the Protein Data Bank with the accession codes 4TQJ, 4TQK,and 4TQM. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: HS DCW.Performed the experiments: XMR DFL SJ XQL. Analyzed the data: XMR DFL YH. Wrote the paper: XMR YH DCW. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1. Lis H,Sharon N.Lectins: carbohydrate-specific proteins that mediate celular recognition. Chem Rev. 1998;92(2):28.   \n2. SharonN,Lis H. History of lectins: from hemagglutinins to biological recognition molecules. Glycobiology.2004; 14(11):53R-62R. doi: 10.1093/glycob/cwh122 PMID: 15229195.   \n3. Vijayan M, Chandra N.Lectins. Curr Opin Struct Biol.1999; 9(6):707-14. Epub 1999/12/23.PMID: 10607664. 4. Hart GW, Slawson C, Ramirez-Correa G,Lagerlof O. Cross talk between O-GlcNAcylation and phosphorylation: roles in signaling,transcription,and chronic disease.Annu Rev Biochem.2011; 80: 825-58.doi: 10.1146/annurev-biochem-060608-102511 PMID:21391816; PubMed Central PMCID: PMC3294376.   \n5. Harwood KR, Hanover JA.Nutrient-driven O-GlcNAc cycling—think globally but act locally.JCellSci. 2014;127(Pt9):1857-67.Epub 2014/04/26. doi: 10.1242/jcs.113233 PMID:24762810   \n6. FardiniY,DehennautV,Lefebvre T,lssadT.O-GlcNAcylation:anew cancer hallmark? Front Endocrinol (Lausanne).2013; 4:99.Epub 2013/08/22.doi:10.3389/fendo.2013.00099 PMID: 23964270; PubMed Central PMCID:PMC3740238.   \n7．Hart GW, Housley MP,Slawson C. Cycling of O-linked beta-N-acetylglucosamine on nucleocytoplasmic proteins.Nature.2007; 446(7139):1017-22.doi: 10.1038/nature05815 PMlD:17460662. 8. Torres C-R, Hart GW.Topography and polypeptide distribution of terminal N-acetylglucosamine residues on the surfaces of intact lymphocytes.Evidence for O-linked GlcNAc.JBiol Chem.1984; 259(5): 3308-17.PMID:6421821   \n9. Khan F,Khan MI.Fungal lectins: current molecular and biochemical perspectives.IntJ Biol Chem. 2011; 5(1):20.   \n10. She QB,Ng TB,Liu WK.Anovel lectin with potent immunomodulatoryactivity isolated fromboth fruiting bodies and cultured mycelia of the edible mushroom Volvariella volvacea.Biochem Biophys Res Commun.1998; 247(1):106-11.Epub 1998/06/24.doi: 10.1006/bbrc.1998.8744 PMlD: 9636663.   \n11.Wang H,Gao J, Ng TB.Anew lectin with highly potent antihepatoma and antisarcoma activities from the oyster mushroom Pleurotus ostreatus.Biochem Biophys Res Commun.2000;275(3):810-6.Epub 2000/09/07.doi: 10.1006/bbrc.2000.3373 PMID:10973803.   \n12. Wasser SP,Weis AL.Therapeutic effects of substances occurring in higher Basidiomycetes mushrooms:a modern perspective. Crit Rev Immunol.1999;19(1):65-96.Epub 1999/02/13.PMID: 9987601.   \n13. Feng L,Sun H, Zhang Y,LiDF,Wang DC.Structural insights into the recognition mechanism between an antitumor galectin AAL and the Thomsen-Friedenreich antigen.Faseb J.2010; 24(10):3861-8.doi: 10.1096/Fj.10-159111 ISI:000285005900024. PMID: 20530247   \n14.Jiang S,Chen Y,Wang M,Yin Y,Pan Y,GuB,etal.Anovel lectin from Agrocybe aegerita shows high binding selectivity for terminal N-acetylglucosamine.Biochem J.2012; 443(2):369-78.doi: 10.1042/ BJ20112061 PMID:22268569; PubMed Central PMCID:PMC3316157.   \n15. Vosseller K,Trinidad JC,ChalkleyRJ,Specht CG,Thalhammer A,Lynn AJ,etal. O-linked Nacetylglucosamine proteomics of postsynaptic density preparations using lectin weak afinity chromatography and mass spectrometry.Mol Cell Proteomics. 2006; 5(5):923-34.doi:10.1074/mcp. T500040-MCP200 ISI:000237415200014. PMID: 16452088   \n16.Trinidad JC,Barkan DT,Gulldge BF,ThalhammerA,Sali A, SchoepferR,etal.Global identification and characterization of both O-GlcNAcylation and phosphorylationatthe murine synapse.Mol Cel Proteomics.2012; 11(8):215-29. doi: 10.1074/mcp.O112.018366 ISl:000308024200001.PMID: 22645316   \n17. Cioci G, Mitchell EP,Chazalet V,Debray H,Oscarson S,Lahmann M,etal.Beta-propeller crystal structure of Psathyrela velutina lectin: an integrin-like fungal protein interacting with monosaccharides and calcium.JMol Biol.2006;357(5):1575-91.doi: 10.1016/j.jmb.2006.01.066 PMID:16497330.   \n18.Ren X, Jiang S,Li D,Sun H, Wang D.Crystalization and preliminary crystallographic studies of AAL-2, a novel lectin from Agrocybe aegerita that binds nonreducing terminal N-acetylglucosamine.Acta Crystallogr F.2013; 69(6):650-2. doi: 10.1107/S1744309113011639   \n19. Leslie AG.The integration of macromolecular diffraction data.Acta Crystalogr D.2Oo6;62(Pt1):48-57. Epub 2005/12/22.doi: 10.1107/s0907444905039107 PMID: 16369093.   \n20. 4 CCPN.The CCP4 suite: programs for protein crystallography. Acta Crystallogr D.1994; 50(Pt 5):   \n760-3.Epub 1994/09/01.doi: 10.1107/s0907444994003112 PMID: 15299374.   \n21. Adams PD,Afonine PV, Bunkoczi G,Chen VB,Davis IW,Echols N,etal.PHENIX: a comprehensive Python-based system for macromolecular structure solution.Acta Crystallogr D.2010; 66(Pt2):213-21. Epub 2010/02/04.doi: 10.1107/s0907444909052925 PMID:20124702; PubMed Central PMCID: PMCPMC2815670.   \n22. EmsleyP,Cowtan K.Coot: model-building tools for molecular graphics.Acta Crystallogr D.2004;60(Pt   \n12 Pt1):2126-32.Epub 2004/12/02.doi: 10.1107/s0907444904019158 PMID:15572765.   \n23. Nakamura-Tsuruta S,KominamiJ,KameiM,KoyamaY,SuzukiT,lsemura M,etal.Comparativeanalysis by frontal afinity chromatographyof oligosaccharide specificityof GlcNAc-binding lectins,Griffonia simplicifolia lectin-ll(GSL-ll) and Boletopsis leucomelas lectin (BLL).JBiochem.2006;140(2):285-91. doi:10.1093/jb/mvj148 PMID:16835257.   \n24. Beisel HG, Kawabata S,lwanaga S, Huber R, Bode W.Tachylectin-2: crystal structure of a specific GlcNAc/GalNAc-binding lectin involved in the innate immunity hostdefense of the Japanese horseshoe crab Tachypleus tridentatus.EMBO J.1999;18(9):2313-22.PMID:10228146 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

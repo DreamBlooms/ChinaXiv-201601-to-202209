@@ -1,0 +1,792 @@
+[
+    {
+        "type": "text",
+        "text": "Recent Advances in Ligand-Free, Charged and Defect-Rich Catalysts Developed by Laser Ablation and Processing in Liquids ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dongshi Zhang, Jun Liu, Pengfei Li, Zhenfei Tian, Changhao Liang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dr. Dongshi Zhang, Dr. Jun Liu, Dr. Pengfei Li, Dr. Zhenfei Tian, Prof.Dr. Changhao Liang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory of Materials Physics, Anhui Key Laboratory of Nanomaterials and Nanotechnology, Institute of Solid State Physics, Hefei Institutes of Physical Science, Chinese Academy of Sciences,Hefei 230031, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: chliang@issp.ac.cn, dongshi17 $@$ 126.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ligand-free； Laser ablation in liquids; Laser processing in liquids; Catalysis; Doping Semiconductor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Catalysts are the foundation of sustainable and renewable energies to address the depletion of natural fossil fuels problem.Because the catalysts’activity is surface chemistry dependent, those “naked”, so-called ligand-free catalysts with more active sites exposing to the reactants are more preferable. With ligand-free, highly surface charged nanomaterials as the innate products, a newly emerging technique—laser synthesis and processing in liquids-is gaining increasing attention. The priority of laser-synthesizedligand-freemetalliccatalystsoverchemically-synthesized counterparts has been confirmed by increasing groups through comparative studies on their catalytic activities.Besides the ligand-free metallic catalysts, this technique also excels at synthesis of bimetallic-alloy， core-shell and defect-rich semiconductor catalysts，and show good compatibility with other techniques (e.g.， hydrothermal treatment and electrophoresis） to develop advanced catalysts such as ternary oxide, doped semiconductor, supported composite, nanoparticle-polymer matrix and film catalysts. Following the concept of why to choose, how to synthesize and where to use,in this review,we first introduce the advantages of this technique and the synthesized catalysts, secondly show how to develop complex catalysts using the laser-generated particles as the building blocks, and finally present the exciting application examples for photodegradation, water splitting and fuel cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Catalysis is now a research hotspot in both academia and industry because of their widespread applications for developing sustainable/renewable energies to lessen the global energy crisis and for photodegrading poisonous organic molecules to reduce the environmentalcontamination.1l To meet these demands,both physical top-down and chemical bottom-up methods which enable the synthsis of nanoscale catalysts with well controlled size,morphologies and extraordinary activities are extensively exploited.2] However， while adopting ligand-involved wet-chemical approaches where capping agents impose adverse effects on the catalysts,[3] the ligand removal procedure by either thermal or oxidative treatment is inevitable, during which process the chemical and physical properties of the treated catalysts can also be altered. The ligands conjugated on the catalysts are capable of blocking the active sites and result in catalyst deactivation.[4] After two decades of development, a gradually blooming interdisciplinary technique (involving optics,nanosicence, physics and chemistry) consisting of laser ablation of bulk targets in liquids[5](LAL） and laser processing of colloids in liquids (LPL),has manifested itself as a facile and efficient one-step tool for nanomaterial synthesis, especially the ligand-free nanoparticle (NP) products which are very appealing for catalytic applications. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LAL is a top-down technique taking use of a pulse laser to ablate a target which is immersed in a liquid (e.g., water,[6] ionic liquid,[7] organic solvent,8] surfactant[9] or polymer containing solution[0] or their mixtures[11l). At the initial state of LAL,a plasma with high temperature (30OO \\~ 7OOo K) and high pressure $( 1 . 3 { \\times } 1 0 ^ { 5 } \\sim 5 . 7 { \\times } 1 0 ^ { 7 }$ Pa) is generated[12] which cause atomization and ionization of the ablated materials and their ejection in liquid,leaving behind ablated grooves.13] During the rapid plasma queching， itsenergy is transferred to the surrounding liquid and simultaneously a cavitation bubble forms which captures most of the colloids inside[14] The fast plasma generation-quenching process[15] $( 1 0 ^ { - 1 0 } \\sim 1 0 ^ { - 1 7 } ~ \\mathrm { s } )$ facilitates the production and the preservation of rich defects in the nucleated nanomaterial catalysts.After the bubble collapses,the colloids are released inside the liquid and thenundergo particle coalescence[5d,16]atachment,[11，17]orself-assembly[18]to evolve into difference types of nanomaterials, including metallic,oxide,carbide, nitride and nanoparticle-polymer composites.[10,15] Because LAL synthesis method is completely different from the “mild’ chemical methods,novel nanomaterial with unique physical and chemical properties are anticipated and the literature published so far have confirmed this speculation, see section 2. In particular, the innate ligand-free nanomaterials generated by LAL are attractive for catalytic applications on one hand lies on the convenience which free researchers from the complicated cleaning proceduresfor ligand removal， including centrifugation， solvent extraction, calcination or ozonolysis,on the other hand lies on the“naked” bare surface with high activity, ruling out the blocking effect by the ligands. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LPL containing fragmentation in liquids[16.19] (LFL) and laser melting in liquids[20] (LML）with the former on the basis of photothermal vaporization[19a] or Coulomb explosion[21l mechanisms while the latter on the basis of the laser-induced heating mechanism,22 isoften used aiming at either narrowing thesizedistribution23or introducing surface defects,[24] purifying the NP phases[25] or fusing colloidal mixtures into alloy particles[20a] and metal-encapsulated oxide composites[26]. LAL-synthesized colloids,[23,2]chemically-synthesized $\\mathrm { N P s } ^ { [ 2 8 ] }$ and microscale powders[24,29]are all suitable for LPL, thus ensuring the widespread applicabilty of LPL for tailoring the physical and chemical properties of catalysts. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The fundamental researches of LAL and LPL have undergone a rapid progress since two decadesago,10,15,30]and LAL/LPL-synthesiszed coloidshave shown high compatibility with othermethodsallowing further construction/change into ternary-oxide, doped, supported, nanoparticle-polymer and film catalysts (section 3), benefitting from which and driven by the great demand for renewable and sustainable energies, the use of LAL/LPL-synthesized NPs for catalytic applications has stride forward steadily with new results coming out one by one. In this review, we tend to review the development of LAL/LPL-synthesized catalysts from the methodological point of view,and to reveal the advantages originating from these catalysts with emphasis on the diversity of achievablecatalysts (e.g.，alloy,core-shell， hollow, composite), ligand-free surface chemistry and surface charge of obtained catalysts, and unsaturated-coordination and oxygen vacancy introduction as well as how to use LAL/LPL-synthesized nanoparticles (NPs） to construct ternary oxide， doped semiconductor, supported composite， nanoparticle-polymer catalysts and film catalysts aiming at pointing out their integration abilities as building blocks for advanced catalysts and electrodes. Finally， representative literature showing distinguishable featuresof LAL/LPL-synthesized nanomaterials for catalytic applications (photodegradation， water splitting， direct methanol fuel cells and electrochemical detection） are introduced (section 4)，followed by which our perspectives on the current challenges and future trends are presented (section 5). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d4144d58f3ebd39de3835a2ff36c26163d0f46e5eff8bfa01df6815f67a2b78.jpg",
+        "img_caption": [
+            "Figure 1. Schematic of LAL and LPL processes and the obtainable bimetallic-alloy "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(core-shell， intermetallic and heterostructure） and oxide (e.g.，Ge-doped $\\mathrm { \\bf { a } } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ anantase and rutile $\\mathrm { T i O } _ { 2 }$ ， $\\mathrm { Z n S n O _ { 4 } }$ ） catalysts andthe typical shapes of synthesized catalysts. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Advantages ofLSPC for Catalysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Catalyst Diversity by LAL ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 Bimetallic Catalysts ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bimetallicnanoparticles， classified into three typesincludingcore-shell, intermetallic/alloyedstructuresand heterostructure， oftenoutperformtheir monometallic counterparts while used as catalysts because of the synergistic effects between the metals.[31] However,synthesis of bimetalic NPs, especially alloyed NPs is verycomplicated and dificult,32l which indirectly increases their productiocost and in turn hinder their extensive use in practice.LAL and LPL techniques are very convenient totransformbulkbimetalictargets(commercial8,11lorself-pressed peletsusngders’ure3ddaliessplyt diferent kinds of bimetalic nanoparticles (Figure 2a)， such as core-shell (e.g., $\\mathrm { F e } @ \\mathrm { A u }$ ， $\\mathrm { C u } @ \\mathrm { A g } ^ { [ 3 6 ] } )$ , heterostructure (e.g., $\\mathrm { C u - A g ^ { [ 3 7 ] } } ,$ )and alloys(e.g.,Agu34b], $\\mathrm { P t C o , ^ { [ 2 0 a ] } \\ P t F e , ^ { [ 2 0 a ] } \\ P t N i ^ { [ 2 0 a ] } ) }$ . With the diversityenrichment intheLAL-synthesized alloy NPs,many tests have been performed for the applications of laser-synthesized alloyed particles for various catalytic reactions to evaluate their activities. In 2014, Ma and coworkers confirmed the occurrence of a strong synergistic effect between Au and Pt during the 4-Nitrophenol reduction, while in comparison no synergistic efect was found while using the mixed Au and Pt NPs (Figure 2b).[39] Later on, Oko et al. showed that $\\mathrm { \\bf A u } _ { 7 0 } \\mathrm { P t } _ { 3 0 }$ NPs alloying derived from LAL could significantly enhance the oxidation current of ascorbic acid by three times as compared to that of Au NPs.[40] Recently, Barcikowski group alloyed Ni with Mo into NiMo alloy NPs by LAL and demonstrated their synergistic effect on the basis of oxygen evolution reaction (OER) (Figure2c).[3]Surprisingly， LAL-synthesized $\\mathrm { C u } _ { 6 3 } \\mathrm { N i } _ { 3 7 }$ alloynanoparticles outperform Cu,Ni and even Pt NPs as the cocatalysts with $\\mathrm { T i O } _ { 2 }$ nanorods for photocatalytic $\\mathrm { H } _ { 2 }$ evolution (Figure 2d).41l All these reports reveal the competence of LAL in producing alloy NPs. Considering the intriguing cost-effective instinct of LAL merely in need of cheap bulk targets and liquids,it can be visualized that a new avenue towards development of various bimetallic NPs is being paved using LAL technique. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1add2a4ceca75ee5df09b6544d00c3348b63d8d3894f201b07a3b75670c74c81.jpg",
+        "img_caption": [
+            "Figure 2. Bimetallic nanoparticles synthesized by LAL and their catalytic "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "performance. (a）core-shell， intermetallic and heterostructure Ag-Cu NPs with different Cu atom ratios as determined by high angle angular dark field (HAADF), energy dispersive X-ray (EDX) mapping and line scan. Adapted from permission of Ref [37l. Copyright 2014 American Chemical Society. (b) Variation of the normalized kapp with respect to the $\\mathrm { \\sf P t }$ content in $\\mathrm { P t } _ { \\mathrm { x } } \\mathrm { A u } _ { \\mathrm { 1 0 0 - x } }$ alloy- ${ \\bf \\cdot N P / C e O } _ { 2 }$ -NTs.Adapted from permission of Ref[39]. Copyright 2014 Royal Society of Chemistry. (c)Comparison of the OER activity of Mo, Ni and $\\mathrm { N i _ { 4 0 } M o _ { 6 0 } }$ alloy colloid as well as a 40:6O mixture of nickel with molybdenum colloid. Adapted from permission of Ref [33. Copyright 2016 Elsevier. (d) Typical time courses of $\\mathrm { H } _ { 2 }$ evolution in the systems with different cocatalysts. Reprinted from permission of Ref [41]. Copyright 2017 Royal Society of Chemistry. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 Core-Shell Catalysts ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f906d4601e8c83019a1aac8be19541ec199e88d9c4d2d202c3737332057201a.jpg",
+        "img_caption": [
+            "Figure 3. Formation of inorganic $@$ carbon core-shell particles and their catalytic "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "applications. (a,b） Low and high-resolution TEM images of LAL-synthesized inorganic $@$ carbon core-shell particles.(c) Schematic illustration for the formation process of C-coated core/shell NPs. (d) Comparison of the specific capacitance of TaC@C core-shell NSs with other recently reported carbide-derived carbon and TaC nanowires/activated carbon. (e） Cycling performance of $\\mathrm { T a C @ C }$ core-shell NSs. Reprinted with permission from ref [42l. Copyright 2013 Elsevier. Reprinted with permission from ref 43]. Copyright 2016 Elsevier. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The type of core-shell NPs is a prevailing catalysts because the shell-coating enables to improve the NPs’ stability and dispersibility and lessen the reactivity decrease of core particles during catalytic experiments.[44 Among various shell candidates, carbon shel is of great interests due to its high chemical and thermal stabilities,[45] thus making the carbon-coated core-shell particles very appealing for electrochemical applications.It has been widely reported that carbon shell is an inborn feature while implementing LAL in organic solvents (Figure 3a).[42-43] This is because of the fact that laser generated plasma is so powerful enough to decompose organic molecules into carbon clusters which would rapidly precipitate and coalesce on the formed inorganic NPs during the rapid plasma quenching (Figure 3c)[43] To date,a large variety of carbon-coated core-shell NPs have been synthesized by LAL， such as TaC@C[43] NbC@C[43]HfC@C[43]MoC@C[43] $\\mathbf { W } _ { 2 } \\mathbf { C } @ \\mathbf { C } .$ [46] $\\mathrm { A u } @ \\mathrm { C } ^ { [ 4 7 ] }$ and $\\mathrm { C o } _ { 3 } \\mathrm { C } @ \\mathrm { C }$ [42] The onion shell has as high as 28 carbon layers (Figure 3b).[42] Some of these LAL-synthesized carbon-coated particles have already shown their potential as supercapacitor electrode materials for energy storage, such as a specific capacitance up to $2 2 3 \\mathrm { ~ F ~ g ^ { - 1 } }$ (Figure 3d) and a slight loss of capacitance $( < 6 \\% )$ after 5000 charge discharge cycles (Figure 3e） were obtained while using LAL-TaC $\\textstyle { \\mathcal { @ } } \\mathbf { C }$ assembled electrodes.[43] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 Hollow Catalysts ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Core-shell NPs are good sacrificial templates to synthesize hollow catalysts by the dissolution method, in which concept the core materials should be susceptible to acids while the shell materials should be resistant to acid etching. Hollow particles like ZnS cages[48] have been successully achieved using an acid-containing solution for LAL to trigger in situ etching of Zn-core. Selective etching of LAL-synthesized Zn@ ZnO core-shell NPs into hollow Zn core[49] suggested that hollow $z _ { \\mathrm { { n O } } }$ should be also accessible by LAL of Zn targets in acid solutions.Many other metal $@$ oxide core-shell particles (e.g., $\\mathrm { F e @ F e O _ { x } }$ [50]FeMn@FeMn2O4[11] AuFe $\\mathcal { \\left( Q \\right) } \\mathrm { F e O _ { x } } ^ { [ 5 1 ] } ,$ ），although have been developed by LAL, yet no endeavor has been devoted to transforming them into hollow structures by in situ selective etching LAL. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 Composite Catalysts ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With the considerations of either to enhance the catalysts’ stability or to prevent electron-hole recombination or to lower the costs of anode and cathode catalysts, many efforts have been devoted to decorating catalysts on supports with high specific surface areas,high porosities，high electric conducltivities，high thermal and mechanical stabilities，such as oxides[52] (e.g., $\\mathrm { T i O } _ { 2 }$ ， ${ \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ ， $\\mathrm { S i O } _ { 2 }$ ， $\\mathrm { C e O } _ { 2 } \\mathrm { \\cdot }$ ）and graphene-derivativelayeredstructures53]Traditional techniques (e.g，precipitation and impregnation） and newly emerging techniques (e.g.，melt infiltration,colloidal synthesis atomic layer deposition) are the widely adopted approches to the synthesis of supported catalysts.[52] As compared to these complicated techniques，LAL provides a one-step platform to allow spontaneous attachment of the target-ejected materials to the solid support additives in liquids,termed as in situ LAL synthesis of supported catalysts, differing from the ex situ synthesis of supported catalysts realized by subsequent coloids mixing (section 3.3). To date， layered structures (e.g., graphenel54]or graphene oxidel5s(GO)）and particle colloids (e.g.， $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ [56] $\\mathrm { C e O } _ { 2 } , ^ { [ 5 7 ] } )$ have been utilized for in situ construction ofsupported catalysts. With defined adsorbent colloidal solution, simply changing the target composition and then comparing the resultant catalytic difference induced by adsorbate alternation (e.g., ${ \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ -AgAu, ${ \\bf A l } _ { 2 } { \\bf O } _ { 3 }$ -Ag)allow flexibly and fastly selecting the optimal adsorbate.[56] In addition, benefiting from highly charged surfaces,LAL/LPL-obtained stable NPs are easily to be assembled into supported catalysts through mixing them with the oppositely charged support colloids or into film catalysts by electrophoretic deposition (EPD) for device development (section 3.5). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ligand-Free Surface Chemistry ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5679b8de0df44d5b1ab068b3d4d39ae434a88e041e0fc67bbcc0f11bb61f719.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 4. Surface chemistry and catalytic reactivity comparison between chemically-synthesized ligand-covered counterparts and LAL-synthesized ligand-free Au NPs. (a) surface chemistry of citrate-covered and LAL-synthesized ligand-free Au NPs.Reprinted with permision from ref[58]. Copyright 2013 Elservier. (b) Oxygen evolved upon visible light $( 1 > 3 8 0 \\mathrm { n m } )$ ）illumination of the $\\mathrm { F e C l } _ { 3 }$ suspension (4 mmol $\\boldsymbol { \\mathrm { ~ L ~ } } ^ { - 1 }$ ， $5 0 ~ \\mathrm { \\ m L } )$ ）containing the photocatalysts $( 5 0 ~ \\mathrm { ~ m g } )$ of LAL-Au/BiFeO3 and ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Chem-Au/BiFeO3 NPs， respectively. Reprinted with permission from ref [59]. Copyright 2013 Royal Society of Chemistry. (c) Cyclic voltammograms (CV) of the Au electrodes formed by LAL-Au NPs and chemically synthesized CTAB-Au NPs in $\\mathrm { 0 . 1 ~ m o l ~ L ^ { - 1 } ~ N a O H }$ recorded at $2 0 ~ \\mathrm { m V ~ s } ^ { - 1 }$ and at a controlled temperature of $2 0 ~ ^ { \\circ } \\mathrm { C }$ The inset shows the underpotential deposition of lead in $0 . 1 \\ \\mathrm { m o l \\ L ^ { - 1 } \\ N a O H }$ and 1 mmol $\\mathbf { L } ^ { - 1 } \\mathbf { \\ P b } ( \\mathbf { N O } _ { 3 } ) _ { 2 }$ for a LAL-Au NPs-based electrode under the same conditions. Reprinted with permission from ref [60l. Copyright 2015 American Chemical Society. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Normally, most chemically-synthesized particles are covered by ligands[58] (Figure 4a, left）or stabilizers which to some content change the intrinsic activity of the as-prepared catalysts, sometimes even leading to the catalytic deactivation.4] In terms of no influence of surface-impurity,LAL-synthesized ligand-free particles[58] (Figure 4a,right) are anticipated to be good reference materials for both theoretical studies on kinetics of catalytic reactions and to experimentally enhance the catalytic reactivities. And the findings reported so far has indeed confirmed theses hypothesis.For the theoretical modelling,a strong support is the higher fitting rate ( $70 \\%$ fitting[61]） of LAL-synthesized Au NPs than the chemically-synthesized polyelectrolyte-brush covered Au NPs ( $30 \\%$ fitting[62l） to Langmuir-Hinshelwood model based on the reduction reaction of 4-nitrophenol into 4-aminophenol. For the experimental verfication,a strong support is the remarkably higher reaction rate constant of LAL-synthesized AuNPs ( $( 1 . 4 0 \\times 1 0 ^ { - 2 } \\mathrm { ~ s } ^ { - 1 } \\mathrm { ~ m } ^ { - 2 } )$ over Chem-AuNPs $( 2 . 2 5 \\times 1 0 ^ { - 2 } \\ \\mathrm { s } ^ { - 1 } \\ \\mathrm { m } ^ { - 2 } )$ （204号 tested as adsorbants on $\\mathrm { C e O } _ { 2 }$ adsorbent supports for reaction of 4-nitrophenol.63] Moreover. Ii et al. demonstrated that the nhotocatalvtic activitv of IAI -svnthesized ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Au NPs is 1.5 times of chemically-synthesized Au NPs (Figure 4c) by respectively assembling same amount (1.0 wt%） of BiFeO3 nanowires for water oxidation.[59] Hebié et al. showed that the $2 ^ { \\mathrm { n d } }$ Cyclic Voltammogram (CV） cycle of the electrodes assembled by LAL-Au NPs for glucose electrooxidation is equal to the $1 0 ^ { \\mathrm { t h } }$ cycle of the electrodes prepared by cetyltrimethyl ammonium bromide (CTAB)-Au NPs (Figure 4d) thus proving higher electrochemical activity of LAL-Au NPs over chemically-synthesized CTAB-Au NPs[60] Hence, it can be envisaged that LAL-synthesized ligand-free metallic catalysts with more active sites are excellent substitutes of ligand-covered catalysts to further promote the catalytic performance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Surface Charge ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Zeta potential ( $\\zeta$ -potential) is often used to identify whether a colloidal solution is stable or not. In general, when the measured zeta potential of a colloid is above 30 mV or below $- 3 0 ~ \\mathrm { m V }$ ， the colloid is stable because the repulsive forces among the charged NPs are strong enough to keep them well dispersed.[64] Table 1 lists the zeta potential of various NPs obtained by either LAL or LPL, including Au,[65] $\\operatorname { A g }$ [66] Cu,[66] $\\mathbf { M g } .$ [66] Pd,[7] Ge,[5d] $\\mathrm { T i O } _ { 2 }$ [67] $\\boldsymbol { Z } \\boldsymbol { \\mathrm { r } } \\mathbf { O } _ { 2 }$ [66] and $\\mathrm { { A u } } @ \\mathrm { { S i O } } _ { 2 } ^ { [ 6 8 _ { \\cdot } }$ 1. To help researchers know how these colloids are synthesized and what their physical states are, synthesis conditions and particle size are included. It is clear that most metallic particles synthesized in water are negatively charged. Sylvestre et al. confirmed that it is the $\\mathbf { M } \\mathbf { - } \\mathbf { O } ^ { - }$ and M-OH bindings on the particle surfaces that induce surface charges to stabilize Au NPs.65d] Through measuring the zeta potential of LAL-synthesized ZnO NPs with pH adjusted by HCl and NaOH addition, He et al. revealed that the surface states are actually pH-dependent with $\\mathrm { { \\bf M O H } } _ { 2 } ^ { + }$ appearing at low pH while M-O forming at high pH.69] Besides acids and alkalis, ionic buffers are also capable of adjusting the strength of NP surface charges, in which field Barcikowski group did a lot of works.7.70Theyfound that zeta potentialof the LAL-synthesized particles are ionic strength $\\begin{array} { l } { { \\left[ 7 \\right] } } \\\\ { . } \\end{array}$ $\\mathrm { ( 1 { \\sim } 1 0 ~ m M ) }$ and ion type[71] $( \\mathrm { F ^ { - } } \\approx \\mathrm { S O _ { 4 } } ^ { - } < \\mathrm { C l } ^ { - } \\approx \\mathrm { N O _ { 3 } } ^ { - } < \\mathrm { I } ^ { - } \\approx \\mathrm { B r } ^ { - } \\approx$ （204号 SCN）dependent, hence concluded that ion adsorption plays an important role in the stability of the LAL-synthesizedcollids.7l Detailedeffectsof ionsand pH environments on the colloidal nanoparticles can refer to a review published by Pfeiffer etal.72]To obtain positively charged metal particles，cationic surfactant CTAB is a good additive, in which case $\\mathrm { { C T A } ^ { + } }$ ions first neutralize the negatively charged particles and then gradually attch to the particle surfaces to form a double-layer coating and result in the stable particles.[73] No mater whether the colloids are negatively or positively charged, they are long-term stable to be either directly used or mixed with the oppositely charged supports to form supported composite catalysts (section 3.3),or assembled into film catalysts by EPD (section 3.5).Of great significance， it is the surface charges that rule out the ligand-requirement like the wet chemical synthesis method thus allowing one-step convenient synthesis of NP catalysts,and it is also the surface charges that make the synthesized NPs “naked” enough to allow them exposion of more active sites to the reactants for sufficient reactions,which can well explain the higher activities of LAL-synthesized catalysts over chemically-synthesized counterparts shown in section ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2.2. ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/645b2e8348f6c4c62349b3ce9c58061e2479d95fe566ccde543d3c57190e6f46.jpg",
+        "table_caption": [
+            "Table 1. Zeta potential and particle size of LAL/LPL-synthesized NPs under different synthesis conditions. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>Materials</td><td>Zetal potential</td><td>Particle size</td><td>Synthesisconditions (targets, laser ablation period, liquids)</td><td>Ref.</td></tr><tr><td>LAL</td><td>Ag，Cu,Mg, ZrO2</td><td>-40 mV</td><td>Majority <10 nm</td><td>Bulk targets; Laser (<10 ps,1030 nm,200 kHz,250 μJ/pulse); 30 s ablation;</td><td></td></tr><tr><td>LAL</td><td>Au</td><td>-30 mV</td><td>20-80 nm</td><td>50 ml acetone A metal plate; Nd:YAG (10 ns,1064 nm,10 Hz,90 mJ/pulse); 20 min ablation;</td><td>[65a]</td></tr><tr><td>LAL</td><td>Au</td><td>-49 mV</td><td>9-12 nm</td><td>20 mL of water Nd:YAG (8 ns,1064 nm,10 kHz,385 μJ/pulse); 3 min ablation; 30 mL of water</td><td>[74]</td></tr><tr><td>LAL</td><td>Au</td><td>-24~ -47 mV</td><td>5-40 nm</td><td>A gold rod; Ti:sapphire (120 fs,800 nm,1 kHz,0.2 mJ/pulse); 20 min ablation; 3 mL deionized water, or NaCl, KCl,NaNO3,HCl</td><td></td></tr><tr><td>LAL</td><td>Au</td><td>-28 mV</td><td></td><td>(0.1 N solution in water),NaOH(O.1 N solution in water) A gold disk; Ti:sapphire (100 fs,800 nm,1 kHz,300 μJ/pulse);</td><td>[65b]</td></tr><tr><td>LAL</td><td>Pd</td><td>mV CTAB) 0~-81mV</td><td>(in 3.4 nm</td><td>2mL of either aqueous solution of CTAB or pure deionized water A Pd target; Nd:YAG laser (9.8 ps,1064 nm,1064/532,100 kHz</td><td>[7]</td></tr><tr><td></td><td></td><td></td><td></td><td>and 126μJ/pulse); 3 min ablation; Milli-Q water, sodium phosphate,sodium carbonate, odiumhydroxide</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>A Ge target; Nd:YAG laser (10 ns,1064 nm and 100 mJ/pulse); 5 min ablation; 15 mL deionized water</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Nd/YAG laser (8ns,1064 nm,10 Hz,120 mJ/pulse); 20 min ablation; 20 mL of deionized water</td><td></td></tr><tr><td>LAL</td><td>ZnO</td><td>-45~ +30 mV</td><td>15~26 nm</td><td>A Zn plate; Nd/YAG laser (7 ns,355 nm,10 Hz,100 mJ/pulse);</td><td>[69]</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb804368c829ccc8b990ed12580e8cbcdba1f11dc35db8935f011fa133ec5f4a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">LAL</td><td rowspan=\"2\">Au@SnO2</td><td rowspan=\"2\">-38 mV</td><td rowspan=\"2\">16±4 nm</td><td>HCI(pH5.36)andNaOH(pH11.98) A Au target;</td></tr><tr><td>[68] Nd: YAG laser (10 ns，1064 nm，10 Hz，60</td></tr><tr><td rowspan=\"2\">LPL</td><td rowspan=\"2\">Au</td><td rowspan=\"2\">-37~ -65 mV</td><td rowspan=\"2\">12~30 nm</td><td>mJ/pulse); 10 min ablation;</td></tr><tr><td>10 mL of SnCl4 aqueous solution (0.1 M) 1.5 mg/3.0 mL Au (99.9%) flakes with a nominal [65c]</td></tr><tr><td rowspan=\"5\">LPL</td><td rowspan=\"5\">TiO2</td><td rowspan=\"5\">-50 mV 6±3 nm</td><td></td><td>thickness of 0.1-0.2 μm;</td></tr><tr><td></td><td>Nd:YAG laser (6 ns,1064/532 nm,10 Hz,40 and</td></tr><tr><td>100 mJ/pulse);</td><td></td></tr><tr><td></td><td>60 min irradiation;</td></tr><tr><td></td><td>in either Air or Ar or Oz atmosphere</td></tr><tr><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td></td><td>10 mg/mL anatase-TiO2 powder;</td></tr><tr><td></td><td>Nd:YAG laser (6 ns,1064 nm,10 Hz );</td></tr><tr><td></td><td>60 min irradiation;</td></tr><tr><td>acetone</td><td></td></tr><tr><td>10 mg/mL rutile TiO2 powder;</td><td></td></tr><tr><td>LPL</td><td>TiO2</td><td>-59 mV</td><td>30 nm</td><td></td><td>[67c]</td></tr><tr><td></td><td></td><td></td><td></td><td>Nd:YAG laser(6 ns,10 Hz,~1 J/(pulse cm²));</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>10 min;</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>deionized water</td><td></td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Unsaturated-Coordination and Oxygen Vacancy Introduction ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Metal-oxide semiconductor nanomaterials are good candidates as photocatalysts,[1b] whose applicable scope relies on their bandgap and surface defects. It is also acknowledged that surface oxygen defects behave like unpaired electrons. The extra electrons in the vacancies act as donor-like states and create an accumulation layer in the near-surface region, may cause a downward band bending,a band flattening or even an upward band bending.75]Also，surface-defect induced bandgap bending affects the efficiency of light absorpotion and therefore influence the photocatalytic activityl76] and the adsorption or the desorption of reactants or product molecules.[7] LAL and LPL have proven to be skilled at one-step synthesis of defect-rich, especially oxygen-vacancy-rich oxides (e.g., $\\mathrm { T i O _ { x } , ^ { [ 2 4 , 6 7 c , 7 8 ] } { S n O _ { x } , ^ { [ 7 9 ] } } x < 2 ) }$ which can be used as dopants to develop doped catalysts (e.g.， (Ge, Si, Mn， Sn or Ti)-doped ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\mathbf { a } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 } ^ { [ 8 0 ] }$ ,section 3.2)or alow in situ reduction of metal ions to deveop supported catalysts (e.g., $\\mathrm { \\bf A g { - } T i O } _ { 2 }$ [67a] $\\mathbf { S } \\mathbf { n } \\mathbf { O } _ { 2 }$ rGO[81 (reduced graphene oxide),section 3.3) In this section, we take use of $\\mathrm { T i O } _ { 2 }$ as a representative to show how oxygen-vacancies are introduced by LAL/LPL. Because the Ti/O ratio is 2 for stoichiometric $\\mathrm { T i O } _ { 2 }$ there will be 6 oxygen vacancies in $1 0 \\ \\mathrm { T i O } _ { 2 }$ molecules when atomic ratio of Ti/O is 1:1.4.67a] In general,the presenceof oxygen vacancies is often accompanied bythe presence of $\\mathrm { T i } ^ { 3 + }$ .For convenience，researchers often use $\\mathrm { T i } ^ { 3 + }$ concentrations to indirectly characterize the density of oxygen vacancies.   \nBoth X-ray photoelectron spectra (XPS) and electron paramagnetic resonance (EPR) spectrum have confirmed the presence of $\\mathrm { T i } ^ { 3 + }$ in the LPL-prepared $\\mathrm { T i O } _ { 2 }$ colloids.[67c], XPS spectrum shows that the binding energy peaks at 458.9 and $4 6 4 . 7 ~ \\mathrm { e V }$ of $\\mathrm { T i } ^ { 4 + }$ （204号 $( 2 \\mathsf { p } _ { 3 / 2 }$ and $2 { \\tt p } _ { 1 / 2 }$ core levels） belonging to pristine $\\mathrm { T i O } _ { 2 }$ educts shift to 458.2 and 462.5 eV after laser irradiation which fit well with the $2 { \\tt p } _ { 1 / 2 }$ and $2 \\mathsf { p } _ { 3 / 2 }$ core level of $\\mathrm { T i } ^ { 3 + }$ respectively. Additionally, the presence of $\\mathrm { T i } ^ { 3 + }$ induces an apparent EPR signal, while in comparison,no signal is observed for the pristine $\\mathrm { T i O } _ { 2 }$ educt. It is considered that during LPL, high-energy laser (e.g., $\\mathrm { h } \\nu = 3 . 4 9 \\ \\mathrm { e V } ,$ ） triggers an electronic transition between conduction and valence bands of $\\mathrm { T i O } _ { 2 }$ which are Ti 3d and O 2p states, respectively. O atoms donate the electrons,while $\\mathrm { T i } ^ { 4 + }$ accepts the electrons to form $\\mathrm { T i } ^ { 3 + }$ ，following the reactions shown below.[78] After the $\\mathrm { \\Delta O }$ atoms are peeled off from the $\\mathrm { T i O } _ { 2 }$ NP surface, oxygen vacancies form. ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\bf O } _ { 2 } + { \\bf e } ^ { - }  { \\bf O } _ { 2 } ^ { - } } } \\\\ { { { \\bf T } { \\bf i } ^ { 4 + } + { \\bf e } ^ { - }  { \\bf T } { \\bf i } ^ { 3 + } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Through calculating the ratio of $\\mathrm { T i } ^ { 3 + }$ peak areas to overall $\\mathrm { T i } ^ { 3 + }$ and $\\mathrm { T i } ^ { 4 + }$ peak areas in XPS spectra, the $\\mathrm { T i } ^ { 3 + }$ content can be roughly speculated. The highest ratio of $\\mathrm { T i ^ { 3 + } / ( T i ^ { 3 + } { + } T i ^ { 4 + } ) }$ atomic ratio is as high as $49 \\%$ , which was obtained by LPL of rutile $\\mathrm { T i O } _ { 2 }$ powder in deionized water (concentration: $1 0 ~ \\mathrm { m g / m L }$ ) using a ns Nd:YAG laser (6 ns,355 nm,10Hz,\\~1J/(pulsecm2))for10 mis.[67e] ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "When it comes to LAL,the formation mechanism of $\\mathrm { T i } ^ { 3 + }$ is different. The percentage of $\\mathrm { T i } ^ { 3 + }$ in the $( \\mathrm { T i O } _ { 2 } \\colon \\mathrm { T i } ^ { 3 + } )$ products is laser-energy dependent with the maximal value of $4 5 . 4 5 \\%$ [82] The authors proposed that the plasma-related thermodynamic state and rapid quenching process play a critical role in the formation of $\\mathrm { T i O } _ { 2 }$ with different ratios of $\\mathrm { T i } ^ { 3 + }$ . Specificly，with increasing the laser energy，a relatively higher thermodynamic state forms during LAL and more $\\mathrm { T i } _ { 5 } \\mathrm { O } _ { 9 }$ NPs are produced which will be frozen due to the rapid quenching of plasma plume. Further increasing laser energy will increase the quenching time and as a result, increases the transition opportunities from metastable state of $\\mathrm { T i } _ { 5 } \\mathrm { O } _ { 9 }$ to stable $\\mathrm { T i O } _ { 2 }$ state.A large number of $\\mathrm { T i } ^ { 3 + }$ and oxygen vacancies in the LAL/LPL-obtained $\\mathrm { T i O } _ { 2 }$ NPs are favorable to enhance the photocatalytic performance towards degradation of organic molecules (section 4.1) and hydrogen generation through water splitting (section 4.2). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Downstream Extension using LAL-Synthesized Colloids ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "To enrich the diversity of achievable catalysts,enormous efforts have been put to upgrade the LAL/LPL-synthesized NPs into higly advanced catalysts, such as ternary oxide, doped catalysts, supported catalysts, nanoparticle-polymer composites and film catalysts for catalytic applications in combination with various techniques,including hydrothermal treatment,colloidal solution mixing, polymerization and EPD. In this section, the advance in these complex catalysts with the LAL/LPL-synthesized NPs as building blocks is introduced. Apart from the advanced catalysts presented below, LAL-synthesized colloids are as well able to be constructed into core-shell-NP supported catalysts (e.g., Fe@C/Pd construction starting from LAL-obtained Fe@C colloidsfor m-dichlorobenzene degradation[83l）and capsule-like catalysts (e.g., Au-encapsulated ZnO nanospheres for selective gas sensing[26l). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ternary Oxide ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ternary oxides, also known as binary metal oxides, containing at least one transition metal ion and one or more electrochemically active/inactive ions possess the synergistic effects of their composed oxides and have been widely exploited for catalytic applications,such as supercapacitors[84] and Li ion batteries.85] Synthesis of ternary oxides is feasible by thermal treatment which utilizes high temperature and high pressure to dissolve materials and recrystallize the resultant products,also applicable for LAL-obtained colloids. Often，a solution containing active oxide precursors which enables chemical reactions during thermal treatment has to be prepared in advance. There are two options for precursor solution preparation. One is successive LAL of different targets in the same solution. For example, to synthesize $Z _ { \\mathrm { { n _ { 2 } } G e O _ { 4 } } }$ NPs,LAL can be first implemented to a Zn target in water. After LAL, the Zn target is replaced by a Ge target while keeping the fresh colloid still in the chamber. After a period of LAL, the solution contains both highly active Zn and Ge precursors.[86] The other option is to mix the precursor collids obtained by separate LAL of each target and then implement the hydrothermal treatment. This method is more favorable than the successive LAL method because(1) it is easy to control and characterize the precursor colloids,(2） the weight ratios between the precursor colloids can be flexibly and accurately adjusted. In 2O12, Tian et al. first reported the successful synthesis of zinc stannate using LAL-obtained $\\mathrm { Z n O _ { x } ( O H ) _ { y } }$ and $\\mathrm { S n O _ { x } }$ colloidal precursors and manipulated their phase and morphology (e.g.，cube-like $\\mathrm { Z n } _ { 2 } \\mathrm { S n O } _ { 4 }$ and urchin-like $\\mathrm { Z n S n O } _ { 3 } ,$ ） by adding different concentrations of ammonia (Figure 5a-e)[87] Theses ternary oxide photocatalysts display good photocatalysis decomposition performance towards methyl orange (MO） and 2,5-dichlorophenol (2,5-DCP),as shown in Figure 5f-g. Inspired by this work, different kinds of ternary oxides have been developed by hydrothermal treatment of LAL-synthesized colloid precursors, including ${ \\mathrm { P b } } S { \\mathrm { n O } } _ { 3 }$ [88] $\\mathrm { Z n } _ { 2 } \\mathrm { G e O } _ { 4 }$ [86] $\\mathrm { N i C o } _ { 2 } \\mathrm { O } _ { 4 }$ [86] $\\mathrm { Z n } _ { 2 } \\mathrm { S n O } _ { 4 }$ [86] $\\mathrm { Z n F e } _ { 2 } \\mathrm { O } _ { 4 }$ [86, 8s] $\\mathrm { N i F e } _ { 2 } \\mathrm { O } _ { 4 }$ [88] $\\mathrm { Z n M n O } _ { 3 }$ [86] $\\mathrm { F e } _ { 2 } \\mathrm { G e O } _ { 4 }$ [86] $\\mathrm { A g } \\mathrm { V O } _ { 3 }$ [88] BiOC1[89] ${ \\bf B i } _ { 2 } { \\bf W O } _ { 6 }$ [89] and BiVO489] Also,hydrothermal treatmentalows the precursors toreact with particle additives to form ternary-oxide containing composites and therefore the functions of the products are enriched. For example， introducing magnetic-field responsive $\\mathrm { F e } _ { 3 } { \\mathrm { O } } _ { 4 } @ { \\mathrm { C } }$ in the LAL-induced Zn and Sn colloidal precursors allows the formation of chestnut-like $\\mathrm { F e _ { 3 } O _ { 4 } @ C @ Z n S n O _ { 3 } }$ catalysts (Figure 5h) after hydrothermal treatment, which can be recycled after photocatalytic reactions with the assistance of an external magnetic field (Figure i-j).90] ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "a b C 1.0 0.8 pH=3. 0.6 Colloid Zn 100nm 100nm 4 pH=3.0P25 pH=3.0ZnSnO 0.2 0.0 ←u→ Ammtnia L g 0.6 ZnSnO（00-024-1470） g 0.457 0.4 colloid Sn (00-004-0673) ZnSnO (00-011-0274) 0.2 L 0.0 20 30 40 50 60 7020 30 40 50 60 70 20 40 60 80 100120 20(degree) 20(degree) Time (min) SnLa1 ZnKa1 100 □ 100 8u 7 22222222222222 Applied Field, H (Oe) 60 OKa1（e） FeKa1 CKa1 30 40 08666006666866866 Fe3O4 20 Fo3O4@C -100 Fe3O4@C@ZnSnO3 0 -10000 -5000 0 5000 10000 1 2 3 4 Applied Field,H(Oe) Cycles ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "nanostructures by LAL, colloids mixing and hydrothermal treatment. (b-e) SEM/TEM images and XRD of as-synthesized zinc stannate nanostructures with different amounts of ammonia added: (a, c) $\\mathrm { 0 ~ m o l / L }$ and (b,d) 3.0 mol/L. (f-g) Photocatalysis decomposition of MO and 2,5-DCP, respectively. (h) TEM image and EDX mapping of a single $\\mathrm { F e _ { 3 } O _ { 4 } @ C @ Z n S n O _ { 3 } }$ core-shell particle. (i) Magnetization hysteresis loops of $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ， $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 } @ { \\mathrm { C } }$ ，and $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 } @ \\mathrm { C } @ \\mathrm { Z n S n O } _ { 3 }$ measured at room temperatures. (j) Cycle evaluation of the photocatalytic removal of 2,5-DCP over the core-shell （204号 $\\mathrm { F e _ { 3 } O _ { 4 } @ C @ Z n S n O _ { 3 } }$ particles. Reprinted with permission from ref[87]. Copyright 2012, ref 90l. Copyright 2014 Royal Societyof Chemistry. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Doped Catalysts ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Doping catalysts with elements (e.g., Si, Ge, Sn, Ti,Nb, Cr, Zn,etc) to modify their optical and electrical properties is one widely adopted strategy for performance enhancement, especially attractive for the potential commercial catalysts with the properties of low cost， abundance，nontoxicity，and stability， such as hematite （20号 $\\left( a \\mathrm { - } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 } \\right)$ [91] After several years’ investigation,LAL-synthesized precursor colloids have manifested themselvesappropriate asthe dopants for doped-catalyst development8.9LiangsgroupioeedthisfeldandssucessullydopdGe, Si, Mn, Sn and Ti elements in $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 }$ by hydrothermal treatment of $\\mathrm { F e C l } _ { 3 }$ ions and LAL-synthesized collids following the mechanism shown in Figure 6a8olFirst, $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 }$ nuclei form upon hydrothermal treatment with the precursors of FeOOH. Simultaneously, $\\boldsymbol { \\mathrm { H } } ^ { + }$ ions are released in the solution which will dissolve the LAL-obtained $\\mathrm { { M O } _ { \\mathrm { { x } } } ( \\mathrm { { O H } ) _ { \\mathrm { { y } } } } }$ -like clusters $\\mathbf { \\mathrm { \\Delta } } \\mathbf { M } = \\mathbf { \\mathrm { G e } }$ ， Si, Mn, Sn, and Ti) and as a result, stable $\\mathbf { M } ^ { \\mathrm { n + } }$ ions (e.g., $\\mathrm { G e } ^ { 4 + }$ $\\mathrm { S i } ^ { 4 + }$ ， $\\mathbf { M } \\mathbf { n } ^ { 2 + } / \\mathbf { M } \\mathbf { n } ^ { 3 + }$ $S \\mathrm { n } ^ { 4 + }$ ,and $\\mathrm { T i } ^ { 4 + }$ ）are generated. They will participate in $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ NPs during their growth leading to the formation of doped $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 }$ NPs with dopant-determinant morphologies (Figure 6a). Besides the composition， dopants’ concentration also influencesthe morphology of the as-prepared $\\boldsymbol { a } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ nanomaterials. For example, $2 \\%$ Ge-doped $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ turn out to be circular nanosheets with a diameter of about $2 5 0 ~ \\mathrm { n m }$ and a thickness of about 10 nm, while $5 \\%$ Ge-doped $\\boldsymbol { a } { \\mathrm { - F e } _ { 2 } } \\mathbf { O } _ { 3 }$ come up with hexagonal nanosheets (average aspect size about $2 0 0 ~ \\mathrm { n m }$ and a thickness of about $1 0 \\ \\mathrm { n m } ,$ ), both of which differ from the undoped hematite $\\boldsymbol { a } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ cubesand paralelepipeds (Figure 6b-d).92alItis noteworthy that dopants are not always randomly distributed in $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ . Under optimized conditions, dopants (e.g. Ge) are able to distribute in the hematite lattice in an ordered manner to form supperlatice structures.[92a] As expected， Ge-doped hematite $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ show better photoelectro-chemical (PEC） performance than undoped hematite,as indicated by the maximal photocurrent density on different applied potentials. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ba42070feefb40374ff686033e9bd115df1ba3a4dc4dfd4b7de108042c75bbd.jpg",
+        "img_caption": [
+            "Figure 6.Doped catalysts synthesis and their catalytic performance. (a) Schematic of "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "the doping process and the resulting doped-hematite nanocrystals. Reprinted with permission from ref [80l. Copyright 2012 American Chemical Society. (b-d) Typical SEM images of undoped, $2 \\%$ Ge-doped, and $5 \\%$ Ge-doped $\\mathrm { \\bf q } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ Reprinted with permission from ref 92al Copyright 2013 Elsevier. (e-f)Mott-Schottky plots and UVvis optical absorption spectra of undoped ${ \\bf a } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ nanorod arrays and Ge-doped $\\mathbf { \\mathrm { q } } \\mathbf { - } \\mathbf { \\mathrm { F e } } _ { 2 } \\mathbf { O } _ { 3 }$ nanosheet arrays with annealing temperature of $5 5 0 ^ { \\circ } \\mathrm { C }$ Inset image shows the high magnification SEM image of Ge-dopeda- ${ \\mathrm { . F e } } _ { 2 } { \\mathrm { O } } _ { 3 }$ nanosheet arrays. Reprinted with permission from ref [93l. Copyright 2014 Elsevier. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Solution-drying of colloids to prepare hematite photoanodes often results in a disorder doped nanocrystals’ stacking. The spatial gap between the photoanode materials and the underlying conductive substrate generally generates a large interface impedance and hinders the carrier collection and transport seriously. One solution to this problem is by constructing a direct path, such as an array of single-crystal nanostructures on the conductive substrate, to facilitate electron transport to the conductive substrate and the photogenerated holes to the catalyst-electrolyte interface，respectively. Then a question arise regarding how to assembly hierarchical nanostructure anodes using LAL-obtained precursor colloids with the assistance of hydrothermal treatment. As mentioned above, FeOOH is the precursors of $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ [80] It is reasonably to construct FeOOH-structure films on the conductive substrates (e.g.， fluorine-doped tinoxide coated glasses） then immerse these films inside LAL-obtained colloidal precursor solutions followed by hydrothermal treatment to construct hematite nanostructure arrays photoanodes93-94] Liuet al.reported that Ge-doped ${ \\bf a } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ nanosheet arrays prepared by this method have a higher carrier density (Figure 6e） and absorption efficiency (Figure 6f) than that of the undoped $\\mathbf { \\mathrm { q } } \\mathbf { - } \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 }$ nanorod arrays and show a remarkable photocurrent density of $1 . 4 \\mathrm { m A } \\mathrm { c m } ^ { - 2 }$ at $1 . 2 3 { \\mathrm { V } }$ vs. RHE,93] about tenfold of the performance using the pure $\\mathbf { \\mathrm { q } } \\mathbf { - } \\mathrm { F e } _ { 2 } \\mathbf { O } _ { 3 }$ nanorod arrays anodes.[92a] As seen, a new approach to synthesis of doped $\\scriptstyle \\alpha - \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ in the manner of either colloids or solid structures has been paved on the basis of LAL-synthesized precursor colloids. Although there is no comparative study regarding whether LAL-colloids are more favorable than chemically-synthesized counterpartsasdopants for catalytic applications. The above mentioned works indeed verify the possibilityand demonstrate the potential of using LAL-synthesized precursor colloids as dopants. But so far the host catalyst is limited to $\\mathrm { \\bf { a } } { \\mathrm { - } } \\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ ，future researches should be done toward diversifying the matrix of dopants and the host materials and exploiting the optimal combination for different catalytic purposes. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Supported Catalysts ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "To prevent the agglomeration of the catalysts during reactions,anchoring catalysts on inert supports is often implemented.[52] Charge-driven adsorption on the basis of electrostatic interactions between the adsorbent supports and adsorbate (metal or oxide) catalysts is an easy strategy to construct supported catalysts,which has been widely investigated using innate LAL-synthesized charged particles， such as the formationofNYF@TiO2-Au[95]Au-BiFeO3[59]andMWCNT-ZnO[96] for photocatalytic applications, $\\mathrm { \\ A u / C e O } _ { 2 }$ for CO oxidation[63] and ${ \\bf A u - T i O } _ { 2 }$ for oxidation of ethanol.[97] Higher adsorption effciency is preferable because in this case more active sites of catalysts are possible to participate in the catalytic chemical reactions. Wagener et al. reported that ligand surface coverage of the particles plays a dominant role in the adsorption efficiency.98] Completely ligand-free metal NPs and low ligand-coverage NPs allow Freundlich adsorption， while those particles covered by citrate ligands with surface coverage no less than $50 \\%$ are unavailable for NP adsorption on microparticle supports because of electrosteric repulsion induced by ligand shells (Figure 7a-b). As shown in section 2.3, most of the LAL-produced metal (e.g. Au） particles are negatively charged, they have high affinity to the positively charged supports, such as $\\mathrm { C e O } _ { 2 }$ nanotubes. Therefore, almost $100 \\%$ immobilization of AuNPs on the surface of the ${ \\mathrm { C e O } } _ { 2 }$ nanotubes ( $( 2 0 \\mathrm { m g } )$ was observed within $3 0 \\mathrm { m i n }$ [63] To ensure the maximal adsorption efficiency,searching for the Isoelectric Point (IEP) of the catalysts’ and supports’ colloidal solutions is indispensable. IEP is the pH value where the colloids have no net electrical charges,often determined by measuring zeta-potential values of the colloids by varying the pH of the colloidal solutions and the ionic strength of the NPs. Marzun et al. reported that there exists a process “window” for sufficient adsorptions while considering both ionic strength and pH values,as marked by blue color in Figure $7 c \\mathrm { - d }$ [9] Ionic strength should be controlled in a range to ensure the colloidal stability, while the pH value should lay between IEP of the support ( $\\mathrm { I E P - T i O } _ { 2 } = 6 . 3 \\rangle$ and IEP of the particles $( \\mathrm { I E P - P t } = 2 . 8 ) \\$ ） to facilitate the electrostatic attraction between the supports and the particles. During the adsorption process, a net-charge transfer from the NPs to the support takes place and results in the IEP shift toward the NP IEP (IEP- $( \\mathrm { P t - T i O } _ { 2 } ) = 5 . 0 \\$ ). If the electrostatic interaction adjusted by pH and ironic strength is sufficient enough, the inhibition effect of NP surface-ligands (citrate， polyvinylpyrrolidone (PVP） and lipoic acid (LA)） on adsorption willbe weakened or even prevented, thus presenting an avenue to improve the adsorption efficiency of ligand-coated NPs.As shown in Table 1，most of the colloids synthesized by LAL/LPL are charged enough to stabilize themselves. Even though the surface charges are in the unstable range of $- 3 0 ~ \\mathrm { m V } \\sim 3 0 ~ \\mathrm { m V }$ ,using pH and ironic solutions to stengthen the NP surface charge also ensure no contamination by ligand additives,thusruling out the possibility of active-site shielding occuring during the adsorption process. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/668ef4852c694b6989be81cf2c00f0d58c2edc329ee276686f459b931cb524f0.jpg",
+        "img_caption": [
+            "Figure 7. Adsorption process to construct supported catalysts. (a） Sketch of "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "adsorption process of NPs due to their surface coverage. Microparticles covered with ligand-freeNPs(left） andunaffectedmicroparticlesaftermixingwith ligand-stabilized NPs (right). Reprinted with permission from ref [98l. Copyright 2012 American Chemical Society. (c) schematic of $\\mathrm { P t } { \\mathrm { - } } \\mathrm { T i O } _ { 2 }$ adsorption efficiency controlled by pH and ironic strength. (d) Scheme of nanoparticle adsorption to supports as a function of pH and ionic strength. Reprinted with permission from ref [99]. Copyright 2014 American Chemical Society. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "New paths of synthesizing supported catalysts have also been paved by in situ reduction of the LAL-produced non-stoichiometric oxides (e.g., $\\mathrm { S n O _ { x } }$ ， $\\mathrm { T i O _ { x } } ,$ ）through the hydrothermal treatment or the aging method. For example, Zhang et al. successfully developed ${ \\bf A g { - } T i O } _ { 2 }$ composite catalysts using LAL-obtained defect-rich $\\mathrm { T i O _ { x } }$ colloids to reduce ${ \\mathrm { A g } } ^ { + }$ ions for photodegradation of pentachlorophenol, which substantially enhanced the degradation rate of LAL-obtained $\\mathrm { T i O _ { x } }$ fresh colloids from （20 $60 \\%$ to $98 \\%$ after 160 min UV irradiation.67al Ye et al. showed that the abundant electrons, surface hydroxyls and defects of LAL-synthesized $\\mathrm { S n O _ { x } }$ colloids can attack the oxic carbon atoms of GO and resulted in the formation of stable $\\mathrm { S n O } _ { 2 }$ -rGO composites， the electrode made by which allows non-enzymatic electrochemical sensitive detection (sensitivity of 1.93 A $\\boldsymbol { \\mathbf { M } } ^ { - 1 } \\ \\mathrm { c m } ^ { - 2 } ,$ ） of trace amount of glucose molecules (the detection limit of $1 3 . 3 5 \\mu \\mathrm { M } \\mathrm { ) }$ [81] ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Nanoparticle-Polymer Catalysts ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Nanoparticle-polymer composites have gained increasing attention due to their combined functions coming from NPs and polymers,respectively. Zhang et al. recently summarized the in situ and ex situ laser prototyping approaches to developing various NP-polymer composites as well as the downstream techniques for further function extension of in situ/ex situ synthesized NP-polymer colloidal composites[10] As for the catalytic application,one representative work from Ma group deserves introduction because it shows the potential of polymer encapsulated LAL-synthesizedparticles for multiple-functionalcatalyst development.olThey grafted thiol-terminated PDEAEMA (SH-PDEAEMA) on LAL-synthesized Au NPs to develop a $\\mathbf { C O } _ { 2 }$ switchable and in situ recyclable catalysts.[0l Since the Au NPs are naked without any ligands coating,，it is easy to perform surface grafting by SH-PDEAEMA and the steady Au-sulfur bonding ensures the stability of the synthesized PDEAEMA-AuNPs colloids. The PDEAEMA-AuNPs can undergo reversible dispersion upon $\\mathrm { C O } _ { 2 } { - } \\mathrm { N } _ { 2 }$ purging. $\\mathrm { C O } _ { 2 }$ purging makes the colloids well disperse, while ${ \\bf N } _ { 2 }$ purging make the colloids become aggregated. The performance of PDEAEMA-AuNP and LAL-AuNP catalysts after several reaction cycles’ reduction of 4-NP. As seen, the PDEAEMA-AuNPs by $\\mathrm { C O } _ { 2 } { - } \\mathrm { N } _ { 2 }$ purging shows a much higher catalytic activity as compared to LAL-AuNPs after first round, which is attributed to the less severe aggregation of PDEAEMA-AuNPs than LAL-AuNPs during sample recycling by the centrifugation process[10ol Moreover,deducing from the identical catalytic activity of PDEAEMA-AuNP and LAL-AuNP catalysts in the first round, it can be speculated that polymer grafting does not block the active sites of Au NPs. This is of great importance from the viewpoint of catalytic applications where the main concern is the catalytic performance. It is anticipated that with advance of further excavation of the polymer diversity applicable for NP grafting or encapsulation， polymer functionalization of LAL-synthesized catalysts will offer more choices to flexibly manipulate the laser-synthesized catalysts. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Film Catalysts ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "To develop electrochemical devices， assembling colloids into film catalysts (electrodes） is indispensable. Considering LAL-synthesized colloids are highly charged, directly transforming them into film catalysts can be easily realized by EPD. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Multiple devices have been successfully fabricated along this route, including solar ces[101]neuralelectrodes,[02]biosensorelectrode[03]environmentaldetector's electrode[104l andelectrochromic films.105] One advantage of using laser-synthesized ligand-free particles for EPD has been revealed by Streich et al.[74] They found that highly electrophoretic mobile LAL-obtained ligand-free NPs allow controllable barrier-free deposition with linear deposition rate,while in contrast, ligand-coated NPs only alow certain amount of materials’ deposition.[74] Without any other effect in the particle-to-film process chains other than the system factors (e.g., voltage, particle concentration and charge, etc.)， the highly active sites of LAL-synthesized NPs are well preserved after being transforming into film catalysts,which is of great importance for sufficient electrode-electrolyte-interface reactions to take place. If adopting magnetic particles， magnetophoretic deposition becomes possible. Drop-casting of LAL-synthesized NPs (e.g., $\\mathrm { F e O } _ { \\mathrm { x } } ,$ ） onto a substrate (e.g., ITO-coated glass）and put a magnet below the glass slide till the colloidal solution completely evaporate to form a particle-film electrode[106] Generally,a coarse electrode surface with uneven NP distribution turns out and the film will be susceptible to mechanical scratch because the NPs only physically stack together. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Catalytic Applications ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Due to low cost, long life span, high energy power density， good reversibility, and pollution-free operation, electrochemical devices have gained tremendous interests as future sustainable and renewable energy suppliers and as well been widely investigated using LAL/LPL-obtained electrochemical catalystssuch asgas sensing[26,107]biosensor[81,103]detectionof heavymetal ions[104]biofuelcels[60] supercapacitors.[108] While adopting metallic NPs as electrode materials, the naked NP suface property is considered to play the dominant role, which have been introduced in section 2.2. Hence,in the following，we mainly focus on the capacities and the underlying reasons of the reported excellent photocatalysts for photodegradation and water splitting. Addtionally,a few LAL-/LPL-synthesized catalysts with highly commercial potential for fuel-cell applications are also presented as compared to the currently commercial products of P25 and Pt/C. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Photodegradation ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Organic and heavy metal contaminants have caused severe environmental problems that pose threats to natural species and human beings and hence arouse wide concerns in destroying these pollutants. As an environmetal-friendly and cost-effective method, photodegradation using semiconductor photocatalysts is deemed as a good choice which has been an active area for decades.Ib] A large variety of photocatalysts have been developed by either LAL or LPL or their combination with downstream techniques (e.g., hydrothermal treatment) for photodegradation of organic molecules (e.g.,methylene blue (MB), methyl orange (MO),2,5-dichlorophenol (2,5-DCP),） or heavy metal ions (e.g., $\\mathrm { K } _ { 2 } \\mathrm { C r } _ { 2 } \\mathrm { O } _ { 7 } )$ ， including $\\mathrm { T i O } _ { 2 }$ [24,109] $\\mathbf { S n O } _ { \\mathrm { x } }$ [79b]ZnO[49a] α- Ag2WO4,[110] ZnSnO3[87] $\\mathrm { S n } _ { 6 } \\mathrm { O } _ { 4 } ( \\mathrm { O H } ) _ { 4 } , \\qquad \\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 } @ \\mathrm { C } @ \\mathrm { Z n S n O } _ { 3 } ,$ $\\mathrm { T a _ { x } O @ T a _ { 2 } O _ { 5 } }$ [112]TiO2/Ti5O9[82]ZnO/TiO2[13]Pt/ZnO[49b]MWCNT/ZnO[96] ZnTiO3/TiO2,[114] $\\mathrm { { A u / C e O } } _ { 2 }$ [63] $\\mathrm { S n } _ { 2 } \\mathrm { S } _ { 3 }$ [115] $\\mathrm { Z n S / Z n ^ { [ 4 8 ] } }$ and titanate nanostructure[116] ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Given the difference in the composition of photocatalysts and the targeted degraded molecules as well as the difference in the concentrations of adopted photocatalysts, conclusions can not be made for which photocatalysts are the most favorite ones, especially for LAL-synthesized photocatalysts. The results summarized in Table 2 can serve as a reference to help guide future investigations in this field from the methodology viewpoint. ",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/92e0712e253500097fcfe7df3c8de2bc227ab83e06b9ee75f398ca9b12adb376.jpg",
+        "table_caption": [
+            "Table 2.Photodegradation of different organic molecules and ions using LAL-synthesized and LPL-obtained nanomaterials. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Method</td><td>Materials</td><td>Catalytic experimental conditions</td><td>Performance</td><td>ref</td></tr><tr><td>LAL</td><td>5nm Sn6O4(OH)4</td><td>5 ml of 100 mg 11 fresh Sn6O4(OH)4 colloid solution is added to 1O ml of 15</td><td>97% reduction rate of MO after 25 min irradiation</td><td>[111]</td></tr><tr><td>LAL</td><td>TaxO@Ta2O5 (10-40 nm)</td><td>ppm MO aqueous solution 3 mg photocatalysts were added into 1.8 ppm(15 mL) MB aqueous solutions</td><td>92% degradation rate of MB after ca. 40 min UV- light irradiation</td><td>[112]</td></tr><tr><td>LAL</td><td>Ti5O9-TiO2 (10-15 nm)</td><td>5 mg photocatalysts were dispersed in a 10 mL aqueous solution of Rh.B with a</td><td>Almost complete oxidation of rhodamine B after 18O min visible-light irradiaation</td><td>[82]</td></tr><tr><td>LAL</td><td>TiO2 (a.v. 34 nm)</td><td>20 μl of MB solutions (0.05 wt.%) was added to the titanium oxide dispersion concentration of 10 mg L-1</td><td>90% degradation rate of MB after ca.180 min UV- light irradiation</td><td>[109a]</td></tr><tr><td>LAL</td><td>SnOx (a.v. 30 nm）</td><td>with 100 ug/ml 5 mg SnOx powders were added in 30 mL of 25 mg L-1 MO aqueous solution</td><td>Almost complete degadation rate of MO after15O min UV light irradiation</td><td>[79b]</td></tr><tr><td>LAL</td><td>PVP-encapsu lated rutile TiOz (a.v. 55 nm)</td><td>(pH= 3.0) 20 mg TiO2NPs was added in methylene blue (1.0×10-5 M, 40 ml) aqueous solution.</td><td>Almost complete reduction of MB after 300 min irradiation using UV light</td><td>[109d]</td></tr><tr><td>LAL+ etching</td><td>ZnS/Zn nano-cage, ZnS@Zn core-shell NPs (30~50</td><td>2.7 mg ZnS/Zn NPs was added into 10 mL of 1 × 10-² M aqueous KCr2O7 solution.</td><td>99.9% reduction rate of Cr(IV) using ZnS/Zn nano-cages after 2O min light irradiation</td><td>[48]</td></tr><tr><td>LAL+ etching</td><td>SnzS3 (sub-10 nm size, porous)</td><td>10 mg Sn2S3 porous was added in 50 ml of 1 × 10-³ M Cr(vI) aqueous solution.</td><td>99.8% degradation rate of Cr(VI) after 8 min visible light irradiation</td><td>[115]</td></tr></table></body></html>",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/bab4695d66ded64e5564a7c89ac59978bbbe4272738c2f5a04ec6eac878d0fec.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>LAL+</td><td>Pt/ZnO</td><td>10 mg catalyst powders were added into9O% degradation rate of MO after 4O min</td><td></td><td>[49b]</td></tr><tr><td>ultrasonic irradiatio</td><td>(20 nm,Pt 1.1nm)</td><td>10-5 M (20 mL) MO aqueous solution</td><td>UV-light irradiation</td><td></td></tr><tr><td>n-assisted two-step etching</td><td></td><td></td><td>98% degradation rate of MO after 90 min</td><td>[87]</td></tr><tr><td>LAL+ Hydrother</td><td>ZnSnO3 (urchin-like,</td><td>30 mg L-1 NPs were added in 30 mL of MO aqueous solution (25 mg L-1, pH of 3.0)</td><td>and 95% of the 2,5-DCP after 120 min UV-light irradiation</td><td></td></tr><tr><td>mal LAL+</td><td>200 nm) Hierarchical</td><td>3 mg titanatespheres were added in 30 mL of PCP solution (concentration</td><td>99% degradation rate of PCP in 240 min under the UV-light irradiation</td><td>[116]</td></tr><tr><td>Hydrother mal</td><td>titanate spheres 150-</td><td>of 20 mg L'l and pHof 3)</td><td></td><td></td></tr><tr><td>LAL+</td><td>250 nm Fe3O4@C@Z</td><td>the dried Fe3O4@C@ZnSnO3 powder</td><td>87% degradation rates of 2,5-DCP using</td><td>[90]</td></tr><tr><td>Hydrother</td><td>nSnO3 (a.v.</td><td>(4.5 mg) was added in 20 mL of</td><td>core-shell FeO4@C@ZnSnO3 NPs</td><td></td></tr><tr><td>mal LAL+</td><td>600 nm)</td><td>2,5-DCP aqueous solution (15 ppm) 3 mg photocatalysts were mixed with 35</td><td></td><td></td></tr><tr><td>Hydrother</td><td>ZnFe2O4,</td><td>mL 12 ppm MB solution in a 50 mL</td><td>Illuminated bya 5Oo W xenon lamp, nearly</td><td>[88]</td></tr><tr><td>mal</td><td>ZnFe2O4- rGO</td><td>with O.6 mL hydrogen peroxide solution</td><td>50% photodegradation rate of MB after 300 min using pure ZnFe2O4 NPs while</td><td></td></tr></table></body></html>",
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae6039b23a1570bd8ee6072c763824c31d37b02743b521b1ffb6ec4b6f536954.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Figure 8. Photocatalytic activity enhancement due to the modified surface state after ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "LPL.(a) Schematic illustration of electronic density states of $\\mathrm { T i O } _ { 2 }$ before and after laser modification together with the optical images of the counterparts. From left to right: raw $\\mathrm { T i O } _ { 2 }$ ， $\\mathrm { T i O } _ { 2 }$ -5 min irradiation, $\\mathrm { T i O } _ { 2 }$ -15 min irradiation, $\\mathrm { T i O } _ { 2 }$ -30 min irradiation, $\\mathrm { T i O } _ { 2 }$ -60 min irradiation,and $\\mathrm { T i O } _ { 2 }$ -120 min irradiation.(b) Photocatalytic degradation curves of rhodamine B under irradiation of a green LED( $\\mathrm { \\Delta \\Delta \\Delta C / C _ { 0 } }$ vS irradiation time): (1) P25,(2) raw $\\mathrm { T i O } _ { 2 }$ ，(3) $\\mathrm { T i O } _ { 2 }$ -60, and (4) $\\mathrm { T i O } _ { 2 }$ -120.Adapted with permission from ref [241. Copyright 2015 American Chemical Society. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "As for the competence and potential of LPL technique for photodegradation purposes, $\\mathrm { T i O } _ { 2 }$ photocatalysts are used as the representative for clarification because $\\mathrm { T i O } _ { 2 }$ is the most studied and used photocatalysts due to its low cost, high activity, nontoxicity, long-term chemical and thermal stability. Now, $\\mathrm { T i O } _ { 2 }$ P25 containing w.t. $71 \\%$ of anatase and w.t. $2 9 \\%$ of rutile which enables to enhance the adsorption capacity of reactants and increase the density of both lattice defects and carrier,is used as a benchmark to evaluate the activity of lab-made synthesized photocatalysts. Chen et al. compared the performance of photocatalytic degradation of rhodamine B using P25 and LPL-obtained $\\mathrm { T i O } _ { 2 }$ NPs as well as the pristine raw unirradiated $\\mathrm { T i O } _ { 2 }$ NPs with the results shown in Figure 8a-b.[24] As seen,P25 and pure $\\mathrm { T i O } _ { 2 }$ NPs with band gap of $3 . 3 ~ \\mathrm { e V }$ are unable to degrade rhodamine B under visible light, while LPL-obtained $\\mathrm { T i O } _ { 2 }$ NPs show an increased photo-degradation efficiency towards rhodamine B. And the higher time the $\\mathrm { T i O } _ { 2 }$ NPs are irradiated, the more active the as-prepared $\\mathrm { T i O } _ { 2 }$ catalysts become (3-4 curves in Figure 8b). Through analyzing the surface states of the LPL-obtained $\\mathrm { T i O } _ { 2 }$ NPs, they concluded that the surface lattice disorder, including Ti-H and $\\mathrm { O - H }$ bonds, induces a blue-shift $( 0 . 4 ~ \\mathrm { e V } )$ of valence band maximum of $\\mathrm { T i O } _ { 2 }$ ，while $\\mathrm { T i } ^ { 3 + }$ or oxygen vacancy cause a shift of conduction band position by 0.7 eV (Figure 8a). Therefore, the bandgap $( 2 . 2 \\mathrm { e V } )$ of the LPL-prepared $\\mathrm { T i O } _ { 2 }$ catalysts is （204号 $1 . 1 \\mathrm { e V }$ less than those of unirradiated $\\mathrm { T i O } _ { 2 }$ $( 3 . 3 \\ \\mathrm { e V } )$ , leading to a drastic enhancement of photocatalytic performance. It has been confirmed that $\\mathrm { T i } ^ { 3 + }$ or surface oxygen can give rise to midgap bands close to the conduction band (CB) minimum and introduce a vacancy-inducedband[17]andenable anenhancedabsorptionof sub-bandgap light.76] In analogy to $\\mathrm { T i } ^ { 3 + }$ or surface oxygen vacancies,large amounts of lattce disorder in $\\mathrm { T i O } _ { 2 }$ NPs may cause the yield of midgap states, which overlap with or get close to the valance band (VB) edge and thus induce the blue-shift of VB edge. The electronic reconstruction $\\mathrm { 0 . 8 7 ~ e V }$ band reduction caused by $3 0 . 6 4 \\% \\ \\mathrm { T i } ^ { 3 + } ,$ ） still works while constructing LAL-synthesized $\\mathrm { T i O _ { x } }$ NPs into heterogeneoussupported photocatalysts (e.g., $\\mathrm { T i O } _ { 2 }$ GO).[78] Yang's group discovered LPL-induced electronic reconstruction phenomenon is as well applicable to $\\mathsf { a { - } A g _ { 2 } W O _ { 4 } }$ whose defect density is increased by a factor of 2.75 and band gap is reduced from $3 . 2 2 \\mathrm { e V }$ to $2 . 7 8 \\mathrm { e V }$ after LPL (Figure 8c)，resulting in a greatly enhanced visible-light photodegradation activity and $\\mathrm { H } _ { 2 }$ evolution (Figure 8e).11ol On the basisofFirst-Principles calculation, they theoretically proved the possibility of band gap reduction induced by the structural distortion from the displacement of the W atom in the $\\left[ \\mathrm { W O } _ { 6 } \\right]$ cluster (Figure 8d). As seen, the increase in the defect density of semiconductor oxide photocatalysts by either LAL or LPL and their resultant band gap reduction are favorable for promoting their photocatalytic activities,which in turn, will promote the extension of LAL/LPL to other oxide photocatalysts. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Water Splitting/Oxidation ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Catalytic splitting of pure water into $\\mathrm { H } _ { 2 }$ and $\\mathbf { O } _ { 2 }$ $\\mathrm { ( 2 H _ { 2 } O ( l ) {  } 2 H _ { 2 } ( g ) + 2 O _ { 2 } ( g ) } .$ ${ \\mathrm { E } } ^ { 0 } { = } { - 1 . 2 3 }$ V）through both oxygen and hydrogen evolution reactions(OER and HER) by either photocatalysts and electrocatalysts is currently a popular topic around the globe because the water educt is almost inexhaustible while the hydrogen product is considered to be a next-generation energy carrier for renewable and sustainable energy-related applications.[18] Many material scientists focusing onLAL and LPL have stepped into this field trying to reveal the advantages of using laser-synthesized catalysts. In section 4.1, it has been shown that electronic reconstruction and bandgap reduction of $\\mathrm { T i O } _ { 2 }$ photocatalysts can be induced by modifying particles’ surface states （204号 $\\mathrm { ( T i } ^ { 3 + }$ ，oxygen vacancy，surface disorder）using LPL technique.24] Hence, it is expected that other than photodegradation of organic molecules, hydrogen generation rate of water splitting using LPL-obtained $\\mathrm { T i O } _ { 2 }$ photocatalysts should be also promoted compared to P25. Compagnini group recently did a comparative research on the photocatalytic performance of the unirradiated and the laser-irradiated P25, rutile and anatase $\\mathrm { T i O } _ { 2 }$ and found that adopting laser-irradiated photocatalysts indeed enhanced the productivity of hydrogen gas,up to 30 mmol $\\begin{array} { r } { \\mathbf { g } ^ { - 1 } \\mathbf { \\Lambda } \\mathfrak { h } ^ { - 1 } \\mathbf { \\Lambda } \\mathrm { H } _ { 2 } } \\end{array}$ productivity, almost twice enhancement as compared to the uniradiated counterparts.[19] Considering the nanosecond laser they used for $\\mathrm { T i O } _ { 2 }$ treatment which inevitably led to the formation of undesirable $\\mathrm { T i O } _ { 2 }$ big submicrospheres.Further enhancement of the ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "LPL-obtained $\\mathrm { T i O } _ { 2 }$ photocatalysts’ activity is anticipatable by adopting picosecond and femtosecond lasers as irradiation resources with negligible melting behaviors to minimize the catalyst dimensions. ",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebe413c8b89d52d297afbf14d5e1bfda3b33ec66b6e313b9788add87c1438e3b.jpg",
+        "img_caption": [
+            "Figure 9. Band gap reconstruction trigged by LPL. (a) TEM image of LPL-obtained "
+        ],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "CoO nanoparticles, (b) Production of hydrogen and oxygen from CoO nanoparticles （204号 $( \\sim 1 2 \\ \\mathrm { \\ m g } )$ ）as a function of incident laser power，(c） Ultraviolet-visible diffuse reflectance spectra of CoO nanocrystals and powders,(d) $( F h \\nu ) _ { 2 }$ as a function of photon energy (hv), where F is the Kubelka-Munk function of the diffuse reflectance R. The intercepts of extrapolated straight lines give the corresponding direct bandgaps of CoO nanocrystals and powders.(e) Mott-Schottky plots for CoO nanocrystals and micropowders according to impedance measurements. The flat-band potentials are obtained from the intercepts of the extrapolated lines.(f） Band positions of CoO nanocrystals and micropowders according to the bandgaps and flat-band potentials obtained from figure e. CB,conduction band; VB,valence band. Reprinted with permission from ref[120l. Copyright 2014 Nature Publishing Group. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Ultrasmall catalysts are in priority over large catalysts because they have larger surface to volume ratios,allowing more active sites of the catalysts at the same weight exposure to the reactants as well as enabling alteration of the CB/VB band positions of photocatalysts. Liao et al. found that CoO micropowders are unfeasible for water spliting because the CB edge position (depicted according to the bandgaps and flat-band potentials shown in Figure 9f, respectively) is below the hydrogen-evolution potential120] Surprisingly,the CB edge canbe elevated above the hydrogen-evolution potential after downsizing CoO micropowders into nanocrystals by LPL (deduced from reflectivity spectra in Figure 9b-c and flat-band potential in Figure 9d),which in combination with VB band edge of CoO nanocrystals below oxygen-evolution potential offers an opportunity for water splitting (Figure 9b) with solar-to-hydrogen efficiency up to ${ \\sim } 5 \\%$ . In similarity，Blakemore et al. showed the possbility of reducing Co micropowders into $\\mathrm { C o } _ { 3 } \\mathrm { O } _ { 4 }$ NPs by long-period (1h) LAL in water[121] Such $\\mathrm { C o } _ { 3 } \\mathrm { O } _ { 4 }$ particles are as small as ${ \\sim } 2 . 5 ~ \\mathrm { n m }$ and do not have any ligand shielding, hence presenting a good electrocatalytic water-oxidation performance with overpotential of $3 1 4 ~ \\mathrm { m V }$ (measured at $0 . 5 \\mathrm { \\ m A \\ c m ^ { - 2 } } .$ ）and high mass activity of more than $1 0 \\mathrm { A } \\mathrm { m } ^ { - 2 } \\mathrm { g } ^ { - 1 }$ a $5 0 0 ~ \\mathrm { m V }$ Overpotential.21 Theoverpotential of aredoxreaction refers to a potential above the thermodynamic potential required to overcome reaction barriers (a given turnover frequency or current density in electrocatalysis).122] Evaluation of catalytic activities on water oxidation $( 2 \\mathrm { H } _ { 2 } \\mathrm { O ( 1 ) } {  } \\mathrm { O } _ { 2 } ( \\mathrm { g } ) + 4 \\mathrm { H } ^ { + } + 4 \\mathrm { e } ^ { - } )$ ，a half reaction of water spliting, is also widely investigated because it requires the coupling of four electron and four-proton transfer to transform water into hydroxyl radical (OH'). The catalysts with excellent catalytic performance for water-oxidation are always excellent robust candidates for water splitting.Hu et al. showed that the electrocatalytic activity (mass activity of O.28 mA/mgPt and specific activity of 1.18 $\\mathrm { m A } / \\mathrm { c m } ^ { 2 } .$ ） of LAL-synthesized PtCo alloy NPs is 2- and 5-times higher than those of commercial Pt/C (0.09 mA/mgPt and $0 . 1 9 \\mathrm { \\ m A } / \\mathrm { c m } ^ { 2 } .$ )[123] Hence, novel commercical Pt/C substitutes are anticipatable for LAL-synthesized $\\mathrm { P t }$ alloys. Moreover, Hunter et al. reported one of the ever reported lowest overpotential value ( $2 6 0 \\mathrm { m V }$ at $1 0 \\mathrm { m A }$ cm $^ { - 2 } )$ ）for water oxidation using the LAL-obtained [Ni-Fe]-layered double hydroxides (LDHs) $\\mathrm { \\Delta [ N i _ { 1 - x } F e _ { x } ( O H ) _ { 2 } ] ( N O _ { 3 } ) _ { y } ( O H ) _ { x - y } . n H _ { 2 } O }$ [124] These works demonstrate that the oxide,alloy and hydroxide products of LAL and LPL are excellent catalysts for water splitting. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Direct Methanol Fuel cells ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/7330c5d528aa9bf8ecb7c596bbaf56bb7ef004d6cd62ece5eae1fe6feab28bea.jpg",
+        "img_caption": [
+            "Figure 10.Direct methanol fuel cell assembled using LAL-obtained NPs.(a) "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Schematic Illustration for the formation of Pt/rGO NCs. (b) Mass activities of Pt/rGO and commercial $\\mathrm { P t / C }$ catalysts measured in alkaline $( 0 . 5 \\ \\mathrm { M } \\ \\mathrm { K O H } + 0 . 5 \\ \\mathrm { M } \\ \\mathrm { C H _ { 3 } C }$ 号 and acidic media $( 0 . 5 \\mathrm { ~ M ~ H _ { 2 } S O _ { 4 } ~ + ~ } 0 . 5 \\mathrm { ~ M ~ C H _ { 3 } O H } )$ initially,after CA test,and the subsequent 1OoO cycles. (h） Illustration for the synthesis of $\\mathrm { P t / S n O _ { 2 } / r G O }$ hybrid ternary nanocomposites. (d-g) TEM images of the reacted suspension colloids at diferent reaction intervals. Adapted with permission from ref [125]. Copyright 2016 ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "American Chemical Society. (i) HAADF-STEM images of theprepared $\\mathrm { P t _ { 0 . 8 9 } / S n O _ { 2 } / r G O }$ nanocomposites. (j) CV curves of GC electrodes modified with prepared catalysts measured at a scan rate of $5 0 \\mathrm { m V s } ^ { - 1 }$ . (k-l) Mass activities and the normalized peak current densities at different cycle numbers for the prepared catalysts. Reprinted with permission from ref [126]. Copyright 2016 Elsevier. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Miniaturized fuel cells have been a research hotspot for many years to meet the increasing demand of portable electronic devices. In terms of the simple structure, high power densities， high energy conversion eficiencies，and low operation temperatures,direct methanol fuel cell (DMFC) based on the reaction of methanol oxidation into water and carbon dioxide to generate electricity is a good power Source[127] As the core component of DMFCs,anode electrocatalysts are of great importance， for which purpose Pt-based materials are widely exploited and commercial Pt/C composites are used as a benchmark for evaluating the performance ofnewlydevelopedelectrocatalysts.Wudesignedandachieved Pt/reduced-graphene-oxide (rGO） nanocomposites electrodesshowing superior electrocatalytic activity over commercial $\\mathrm { P t / C }$ composites (Figure 10a-c).125] The LAL-obtaiend $\\mathbf { M n O } _ { \\mathrm { x } }$ colloids which are easily dissolved in acid solutions are used as sacrificial templates for in situ reduction of $\\mathrm { P t C l } _ { 6 } { } ^ { 2 - }$ into Pt NPs (Figure d-g). The Pt/rGO catalysts have larger electrochemical surface area than $\\mathrm { P t / C }$ catalysts (1013.4 （204号 $\\mathrm { c m } ^ { 2 } \\mathrm { m g } ^ { - 1 }$ vs $8 2 6 . 9 ~ \\mathrm { c m } ^ { 2 } ~ \\mathrm { m g } ^ { - 1 }$ ，calculated hydrogen adsorption region of CV curves), higher mass activity $( 3 3 3 . 3 ~ \\mathrm { m A ~ m g } ^ { - 1 }$ vs $1 5 3 . 3 ~ \\mathrm { m A ~ m g } ^ { - 1 }$ in acidic media; $5 5 2 . 5 ~ \\mathrm { m A }$ （204号 $\\mathrm { m g } ^ { - 1 }$ vS $3 0 1 . 7 \\mathrm { \\ m A \\ m g ^ { - 1 } }$ in alkaline media), higher poison tolerance ability (the ratio $\\mathrm { I _ { f } / I _ { b } }$ of peak current densities for the forward $\\mathrm { I _ { f } }$ and backward Ib: 7.45 vs 4.46), longer stability for methanol oxidation ( $8 5 . 6 \\%$ VS $6 2 . 4 \\%$ in acidic media; $7 7 . 9 \\%$ VS $6 1 . 4 \\%$ in alkaline media after 1000 cycles).125l Recently,they further enhanced the( $\\mathrm { \\bf \\ddot { P t } }$ -load amount dependent） electrocatalytic performance of methonal oxidation using $\\mathrm { P t / S n O _ { 2 } / r G O }$ nanocompositeswhich were constructed by photochemical reduction of $\\mathrm { P t C l } _ { 6 } { } ^ { 2 - }$ adsorbed on $\\mathrm { S n O } _ { 2 }$ particles (Figure 10h).126] Very tiny 1\\~2 nm Pt NPs are uniformly dispersed on rGO nanosheets (Figure 1Oi). The mass activity is elevated up to $6 3 8 . 3 ~ \\mathrm { \\ m A ~ m g ^ { - 1 } }$ in acidic environment, lying among the excellent DMFCs reported sofar128]Inadditionthe methanoloxidationpeak potentialforthe $\\mathrm { P t _ { 0 . 8 9 } / S n O _ { 2 } / r G O }$ （20号 catalysts is 0.615 V, 0.084 V lower than 0.699 V for the Pt/rGO catalysts, indicating easier oxygen-reduction reaction for Pto.89/SnO2/rGO catalysts(Figure10j). $\\mathrm { P t / S n O _ { 2 } / r G O }$ catalysts also display higher stability than $\\mathrm { P t / r G O }$ ， as confirmed by the （204号 $7 2 . 4 \\%$ remaining peak current density after l2OO cycles for the formmer but $5 4 . 5 \\%$ （204号 forthe latter (Figure10k-1)[126] Well-dispersed small Pt NPs,smalersolid-state interfacial resistance originating from excellent conductivity of graphene, structural integrity from excellent stability of graphene are considered to lead to the excellent electrocatalytic performance of Pt/rGO and $\\mathrm { P t } / \\mathrm { S n O } _ { 2 } / \\mathrm { r G O }$ catalysts. As for the higher acitivity of $\\mathrm { P t / S n O _ { 2 } / r G O }$ over Pt/rGO composites, the synergetic effect betwen Pt and $\\mathbf { S n O } _ { 2 }$ should be the key factor,which allows further oxidation of CO-like species during methanol oxidation following the reactions shown below. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 42
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS n O _ { 2 } + H _ { 2 } O  S n O _ { 2 } - O H _ { a d s } + H ^ { + } + e ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 42
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP t - C O _ { a d s } + S n O _ { 2 } - O H _ { a d s }  P t + S n O _ { 2 } + C O _ { 2 } + H ^ { + } + e ^ { - }\n$$",
+        "text_format": "latex",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Conclusion and Perspective ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Insummary， this decade has witnessed the rapid progress of applying laser-synthesized NMs for catalytic applications,which mainly benefit from a large diversity of one-step synthesized catalysts (e.g., monometallic, bimetallic,core-shell and defect-rich NPs） and their adaptability as the building blocks for complex catalysts development including ternary oxide， doped semiconductor， supported composite，NP-polymer and film catalysts with the aid of other techniques. In particular，the possibility of one-step synthesis of advanced catalysts (e.g., Au-FeOC1,129]Au-CoFe2O4[130] $\\mathbf { A u { \\mathrm { - } } S r T i O _ { 3 } } ^ { [ 1 3 0 ] } )$ under optimal conditions willbing great convenience to researchers. When it comes to the LAL/LPL-synthesized catalysts’ properties,unique ligand-free of metallic and defect-rich of oxide catalysts endow the catalysts with more active sites and narrowed band gap,respectively, thus leading to their outstandingcatalytic activities.63,1o] The highlysurface charge and ligand-free features of LAL-synthesized catalysts facilitate the sufficient adsorption (up to almost $100 \\%$ ）of thenanocatalystsonvariousadsorbentsupports,63]making them excellent candidates as adsorbants for assembling advanced heterogeneous supported catalysts. Some of the catalysts have reached the performance level comparable to or even higher than the commercial catalysts of P25 and $\\mathrm { P t / C }$ [87, 126] indicating their promising future as the next-generation commercial catalysts. Another appealing feature of thistechnique isthe strength in one-step alloying transition-metals (e.g.,Fe,Mn, Cu, Co， Ni, etc.） together or alloy them with noble metals (Au and $\\mathrm { P t }$ ) intocost-effectivenanoalloys,1,4,5]whichagreatlyduce the catalyst synthesis costs. It is well known that catalysts’ performance depends on the catalysts' composition，morphology and size.Many challenges still exist for accurately manipulating the physical properties (size and morphology） and surface chemistry of the synthesized catalysts because of the difficulty in controlling the plasma generation-quenching processes. Jendrzej et al. have already observed the atom scale metallic clusters obatine by LPL，whose use for catalytic applications deserves expectation.16] Nevertheless,the coalesecenc and ripening of atom clusters in liquids certainly enlarge their size and deteriorate their activity. Hence,appropriate preservation methods(e.g.， freezing） should be exploited to prevent their agglomeration or coalescence before put them into catalytic use. Deducing from the literature mentioned in this review, it is also clear that most the reported catalysts are metal-related catalysts， seldom about metal-free catalysts. Hence， future studies should also be done on investigating the feasibility of developing active metal-free catalysts using LAL/LPL. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "This work was financially supported by the National Basic Research Program of China (2O14CB9317O4), the National Natural Science Foundation of China (NSFC, no. 11304315，51401206，11404338，51371166，51571186，11504375)，and the CAS/SAFEA International Partnership Program for Creative Research Teams). ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "[1] a)L. Mai, X. Tian, X. Xu, L. Chang and L. Xu, Chem. Rev. 2014,114, 11828-11862;b） M. R. Hoffmann, S. T. Martin， W. Choi and D. W. Bahnemann, Chem. Rev. 1995, 95, 69-96; c) N. Nitta and G. Yushin, Part. Part. Syst. Charact. 2014,31,317-336; d) T. Montini, M. Melchionna, M. Monai and P. Fornasiero, Chem. Rev. 2016, 116, 5987-6041.   \n[2] C.-J. Jia and F. Schuth, |Phys. Chem. Chem. Phys. 2011,13,2457-2487.   \n[3] Z. Niu and Y. Li, Chem. Mater: 2013, 26, 72-83.   \n[4] J. A. Lopez-Sanchez, N. Dimitratos, C. Hammond, G. L. Brett, L. Kesavan, S. White,P. Miedziak,R. Tiruvalam, R.L. Jenkins and A. F. Carley, Nat. Chem. 2011,3, 551-556.   \n[5] a) F. Mafuné, J.-y. Kohno, Y. Takeda, T. Kondow and H. Sawabe, |J. Phys. Chem. B 2001,105, 5114-5120; b) A. Fojtik and A. Henglein, Ber: Bunsenges. Phys. Chem. 1993,97, 252-254; c) J. Neddersen, G. Chumanov and T. M. Cotton, |Appl. Spectrosc. 1993, 47, 1959-1964; d) J. Liu, C. Liang, Z. Tian, S. Zhang and G. Shao, Sci. Rep. 2013, 3, 1741.   \n[6] a) A. V. Kabashin and M. Meunier, |J. Appl. Phys. 2003, 94, 7941-7943; b) D. Zhang, B. Gokce, C. Notthoff and S. Barcikowski, Sci. Rep. 2015,5,13661.   \n[7] G. Marzun, J. Nakamura, X. Zhang, S. Barcikowski and P. Wagener, |Appl. Surf. Sci. 2015, 348, 75-84.   \n[8] S. Scaramuzza, S. Agnoli and V. Amendola, |Phys. Chem. Chem. Phys. 2015,17, 28076-28087.   \n[9] Y.-H. Chen and C.-S. Yeh, Colloids Surf., A 2002, 197,133-139.   \n[10] D. Zhang and B. Gokce, Appl. Surf. Sci. 2016, 392, 991-1003.   \n[11] D. Zhang, Z. Ma, M. Spasova, A. E. Yelsukova, S. Lu, M. Farle, U. Wiedwald and B. Gokce, Part. Part. Syst. Charact. 2017,34, 1600225.   \n[12] M. Dell'Aglio, R. Gaudiuso, O. De Pascale and A. De Giacomo, |Appl. Surf. Sci. 2015, 348, 4-9.   \n[13] D. Zhang, B. Gokce, S. Sommer, R. Streubel and S. Barcikowski, |Appl. Surf. Sci. 2016, 367, 222-230.   \n[14] S. Ibrahimkutty, P. Wagener, A. Menzel, A. Plech and S. Barcikowski, |Appl. Phys. Lett. 2012, 101,103104.   \n[15] V. Amendola and M. Meneghetti, |Phys. Chem. Chem. Phys. 2013，15, 3027-3046.   \n[16] S. Jendrzej, B. Gokce, V. Amendola and S. Barcikowski, J. Colloid Interf. Sci. 2016, 463, 299-307.   \n[17] J. Liu, C. Liang, X. Zhu, Y. Lin, H. Zhang and S. Wu, Sci. Rep. 2016, 6,32631. [18] C. Liang, T. Sasaki, Y. Shimizu and N. Koshizaki, |Chem. Phys. Lett. 2004, 389, 58-63.   \n[19] a) A. Takami, H. Kurita and S. Koda, [J. Phys. Chem. B 1999,103,1226-1232; b) S. Link, C. Burda, B. Nikoobakht and M. A. El-Sayed,|J. Phys. Chem. B 2000,104, 6152-6163.   \n[20] a) C. Liang, S. Wu, E. Dai, Y. Ye, J. Liu, Z. Tian, Y. Cai, X. Zhu and Y. Han, ChemPhysChem 2017, DOI: 10.1002/cphc.201601185; b) D. Zhang, M. Lau, S. Lu, S. Barcikowski and B. Gokce, Sci. Rep. 2017, 7, 40355; c) H. Wang, N. Koshizaki, L. Li, D. Golberg, |Adv. Mater: 2011,23,1865-1870; d) H. Wang, M. Miyauchi, Y. Ishikawa, A. Pyatenko, N. Koshizaki, Y. Li, L. Li, X. Li, Y. Bando and D. Golberg, $| J .$ Am. Chem. Soc.2011,133,19102-19109.   \n[21] K. Yamada, K. Miyajima and F. Mafuné, J. Phys. Chem. $C$ 2007,111, 11246-11251.   \n[22] A. Pyatenko, H. Wang, N. Koshizaki and T. Tsuji, Laser Photonics Rev. 2013,7, 596-604.   \n[23] R.-C. Luo, C. Li, X.-W. Du and J. Yang, Angew. Chem. Int. Ed. 2015, 54, 4787-4791.   \n[24] X. Chen, D. Zhao, K. Liu, C. Wang, L. Liu, B. Li, Z. Zhang and D. Shen, ACS Appl. Mater. Interfaces 2015, 7,16070-16077.   \n[25] H. J. Jung and M. Y. Choi, J. Phys. Chem. C 2014, 118 14647-14654.   \n[26] H. Zhang, S. Wu, J. Liu, Y. Cai and C. Liang, |Phys. Chem. Chem. Phys. 2016, 18, 22503-22508.   \n[27] A. Poletti, G. Fracasso,G. Conti, R. Pilot and V. Amendola, Nanoscale 2015, 13702-13714.   \n[28] W. Li, X. Ge, H. Zhang, Q. Ding, H. Ding, Y. Zhang, G. Wang, H. Zhang and H. Zhao, Inorg. Chem. Front. 2016,3, 663-670.   \n[29] C. A. Schaumberg, M. Wollgarten and K. Rademann, |J. Phys. Chem. A 2014, 118, 8329-8337.   \n[30] H. Zeng, X. W. Du, S. C. Singh, S.A. Kulinich, S. Yang, J. He and W. Cai, |Adv. Funct. Mater: 2012,22, 1333-1353.   \n[31] D. Wang and Y. Li, Adv. Mater: 2011, 23, 1044-1060.   \n[32] R. Ferrando, J. Jellinek and R.L. Johnston, Chem. Rev. 2008, 108, 845-910. [33] G. Marzun, A. Levish, V. Mackert, T. Kallio, S. Barcikowski and P. Wagener, J. Colloid Interf. Sci. 2017, 489, 57-67.   \n[34] a) S.b. Besner and M. Meunier, J. Phys. Chem. C 2010, 114, 10403-10409; b) J. Zhang, J. Worley, S. Dénommée, C. Kingston, Z. J. Jakubek, Y. Deslandes, M. Post, B. Simard, N. Braidy and G. A. Botton, |J. Phys. Chem. B 2003, 107, 6920-6923. [35] P. Wagener, J. Jakobi, C. Rehbock, V. S.K. Chakravadhanula, C. Thede,U. Wiedwald, M. Bartsch, L. Kienle and S. Barcikowski, Sci. Rep. 2016, 6,23352. [36] K. D. Malviya and K. Chattopadhyay, J. Phys. Chem. C 2016, 120, 27699-27706. [37] K. D. Malviya and K. Chattopadhyay, J. Phys. Chem. C 2014, 118, 13228-13237. [38] A. Neumeister, J. Jakobi, C.Rehbock, J. Moysig and S. Barcikowski, |Phys. Chem. Chem. Phys. 2014, 16, 23671-23678.   \n[39] J. Zhang,G. Chen,D. Guay， M. Chaker and D. Ma， Nanoscale 2014,6, 2125-2130.   \n[40] D. N. Oko, S. Garbarino, J. Zhang, Z. Xu, M. Chaker, D. Ma, D. Guay and A. C. Tavares, |Electrochim. Acta 2015,159,174-183.   \n[41] Z. Lin, J. Li, L. Li, L. Yu, W. Li and G. Yang, J. Mater: Chem. A 2017, 5, 773-781.   \n[42] H. Zhang, C. Liang, J. Liu, Z. Tian and G. Shao, Carbon 2013, 55,108-115. [43] H. Zhang, J. Liu, Z. Tian, Y. Ye, Y. Cai, C. Liang and K. Terabe, Carbon 2016, [44] R.Ghosh Chaudhuri and S.Paria, Chem. Rev. 2011, 112,2373-2433.   \n[45] D. S. Su, S. Perathoner and G. Centi, Chem. Rev. 2013, 113, 5782-5816.   \n[46] S. Yang, W. Cai, H. Zhang, H. Zeng and Y. Lei, J. Phys. Chem. C 2011, 115, 7279-7284.   \n[47] R. G. Calzada, K. Bagga, P. Bianchini, V. Chirvony and J. P. Martinez-Pastor, RSC Adv. 2015, 5, 50604-50610.   \n[48] D. Wang, H. Zhang, L. Li, M. Chen and X. Liu, Opt. Mater: Express 2016, 6, 1306-1312.   \n[49] a) H. Zeng, W. Cai, P. Liu, X. Xu, H. Zhou, C. Klingshirn and H. Kalt, ACS Nano 2008, 2,1661-1670; b) H. Zeng, P. Liu, W. Cai, S. Yang and X. Xu, J. Phys. Chem. C 2008, 112, 19620-19624.   \n[50] V. Amendola, P. Riello and M. Meneghetti,J. Phys. Chem. C 2011，115, 5140-5146.   \n[51] V. Amendola, S. Scaramuzza, F. Carraro and E. Cattaruzza, J. Colloid Interf. Sci. 2016, 489, 18-27.   \n[52] P. Munnik, P. E. de Jongh and K. P. de Jong, Chem. Rev. 2015, 115, 6687-6718. [53] M. Liu, R. Zhang and W. Chen, Chem. Rev. 2014, 114, 5117-5160.   \n[54] R. S. Sai Siddhardha, V. Lakshman Kumar, A. Kaniyoor, V. Sai Muthukumar, S. Ramaprabhu, R. Podila, A. M. Rao and S. S. Ramamurthy, Spectrochim. Acta, Part A 2014, 133, 365-371.   \n[55] P. Wang, Y. Ye, D. Liang, H. Sun, J. Liu, Z. Tian and C. Liang, RSC Adv. 2016, 6, 26977-26983.   \n[56] R. Singh and R. K. Soni, J. Nanosci. Nanotechnol. 2014, 14, 6872-6879.   \n[57] R. Ma, Y.-j. Kim, D. Amaranatha Reddy and T. K. Kim, |Ceram. Int. 2015, 41, 12432-12438.   \n[58] K. B. Cederquist, B. Liu, M. R. Grima, P. J. Dalack and J. T. Mahorn, Colloids Surf. B Biointerfaces 2017, 149, 351-357.   \n[59] S.Li, J. Zhang,M. G. Kibria, Z. Mi, M. Chaker, D. Ma, R. Nechache and F. Rosei, Chem. Commun. 2013, 49, 5856-5858.   \n[60] S. Hebié, Y. Holade, K. Maximova, M. Sentis, P. Delaporte, K. B. Kokoh, T. W. Napporn and A. V. Kabashin, |ACS Catal. 2015, 5, 6489-6496.   \n[61] S.Gu, J. Kaiser,G. Marzun，A. Ott, Y. Lu， M. Ballauff, A. Zaccone，S. Barcikowski and P. Wagener, |Catal. Let 2015,145,1105-1112.   \n[62] S. Gu, S. Wunder, Y. Lu, M. Ballauff, R. Fenger, K. Rademann, B. Jaquet and A. Zaccone, J. Phys. Chem. C 2014, 118, 18618-18625.   \n[63] J. Zhang, G. Chen, M. Chaker, F. Rosei and D. Ma, Appl. Catal., B 2013, 132, 107-115.   \n[64] T. M. Riddick in Zeta-Meter Operating Manual zm-75, Zeta-Meter, Vol. Inc. New York, 1968.   \n[65] a) H. He, W. Cai, Y. Lin and B. Chen, Langmuir 2010, 26, 8925-8932; b) M. A. Sobhan,M. J. Withford and E. M. Goldys, Langmuir 2009,26,3156-3159;c) D. Werner, S. Hashimoto,T. Tomita, S.Matsuo and Y. Makita, J. Phys. Chem. C 2008, 112，16801-16808；d) J.-P. Sylvestre，S. Poulin，A. V. Kabashin，E. Sacher, M. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "uwlg，j.1nys. [66] N. Bärsch, J. Jakobi, S. Weiler and S. Barcikowski, Nanotechnology 2009,20, 445603. [67] a) H. Zhang, C. Liang, J. Liu, Z. Tian, G. Wang and W. Cai, Langmuir 2012, 28, 3938-3944; b) T. Tsuji, M. Nakanishi, T. Mizuki, M. Tsuji, T. Doi, T. Yahiro and J. Yamaki, Appl. Surf. Sci. 2009, 255, 9626-9629;c) S. S. Pan, W. Lu, Y. H. Zhao, W. Tong, M. Li, L. M. Jin, J. Y. Choi, F. Qi, S. G. Chen,L. F. Fei and S. F. Yu, ACS Appl. Mater: Interfaces 2013, 5, 12784-12788. [68] H. Bao, Y. Wang, H. Zhang, Q. Zhao, G. Liu and W. Cai, J. Colloid Interf. Sci. 2017, 489, 92-99. [69] C. He，T. Sasaki, H. Usui， Y. Shimizu and N. Koshizaki, J. Photochem. Photobiol., A 2007, 191, 66-73. [70] C. Rehbock, V. Merk, L. Gamrad, R. Streubel and S. Barcikowski, |Phys. Chem. Chem. Phys. 2013, 15,3057-3067. [71] V. Merk, C.Rehbock, F. Becker, U. Hagemann, H. Nienhaus and S. Barcikowski, Langmuir 2014, 30, 4213-4222. [72] C. Pfeiffer, C. Rehbock, D. Huhn, C. Carrillo-Carrion,D. J. de Aberasturi, V. Merk, S.Barcikowski and W.J. Parak, J. R. Soc. Interface 2014, 11, 20130931. [73] H. Muto, K. Yamada, K. Miyajima and F. Mafuné, J. Phys. Chem. C 2007, 111, 17221-17226. [74] C. Streich, S. Koenen, M. Lelle, K. Peneva and S. Barcikowski, |Appl. Surf. Sci. 2015, 348, 92-99. [75] a) J. Schneider, M. Matsuoka, M. Takeuchi, J. Zhang, Y. Horiuchi, M. Anpo and D.W. Bahnemann, Chem. Rev. 2014, 114, 9919-9986; b) U. Diebold, Surf. Sci. Rep. 2003, 48, 53-229. [76] I. Justicia, P. Ordejon, G. Canto, J. L. D.L. M. D. L. Mozos, J. Fraxedas, G. A. Battiston, R. Gerbasi and A. Figueras, Adv. Mater: 2002, 14, 1399-1402. [77] Z. Zhang and J. T. Yates, Chem. Rev. 2012, 112, 5520-5551. [78] L. Li, L. Yu, Z. Lin and G. Yang, ACS Appl. Mater: Interfaces 2016, 8, 8536-8545. [79] a) C.Liang, Y. Shimizu, T. Sasaki and N. Koshizaki, |J. Phys. Chem. B 2003, 107, 9220-9225; b) Z. Tian, C. Liang, J. Liu, H. Zhang and L. Zhang, J. Mater: Chem. 2011, 21,18242-18247. [80] J. Liu, C. Liang, H. Zhang, Z. Tian and S. Zhang, J. Phys. Chem. C 2012, 116, 4986-4992. [81] Y. Ye, P. Wang, E. Dai, J. Liu, Z. Tian, C. Liang and G. Shao, |Phys. Chem. Chem. Phys. 2014, 16, 8801-8807. [82] L. Li, Z. Deng, J. Xiao and G. Yang, Nanotechnology 2015, 26,255705. [83] Y. Yu, H. J. Jung, M. Je, H. C. Choi and M. Y. Choi, Chemosphere 2016, 155, 250-256. [84] Y. Zhang, L. Li, H. Su, W. Huang and X. Dong, J. Mater: Chem. A 2015,3, 43-59. [85] M. V. Reddy, G. V. Subba Rao and B. V.R. Chowdari, Chem. Rev. 2013, 113, 5364-5457. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "[OU]Iv ug，|1   \n10.1002/adfm.201600785.   \n[87] Z. Tian, C. Liang, J. Liu, H. Zhang and L. Zhang, J. Mater: Chem. 2012,22, 17210-17214.   \n[88] S. Wu, P. Wang, Y. Cai, D. Liang, Y. Ye, Z. Tian, J. Liu and C. Liang, RSC Adv. 2015, 5, 9069-9074.   \n[89] Z. Tian, S. Wu,P. Wang, Y. Cai, D. Liang, Y. Ye, J. Liu and C. Liang, CrystEngComm 2015, 17, 3015-3022.   \n[90] D. Liang, S. Wu, P. Wang, Y. Cai, Z. Tian, J. Liu and C. Liang, RSC Adv. 2014, 4, 26201-26206.   \n[91] a) Z. Zhou, P. Huo, L. Guo and O.V. Prezhdo,J. Phys. Chem. C 2015,119, 26303-26310; b） S. Kumari，A. P. Singh，C. Tripathi， D. Chauhan，S. Dass，R. Shrivastav, V. Gupta, K. Sreenivas and V. R. Satsangi, Int. J. Photoenergy 2007,2007, 87467.   \n[92] a) J. Liu, C. Liang, G. Xu, Z. Tian, G. Shao and L. Zhang, Nano Energy 2013, 2, 328-336; b) J. Liu, C. Liang, H. Zhang, S. Zhang and Z. Tian, Chem. Commun. 2011, 47, 8040-8042.   \n[93] J. Liu, Y. Y. Cai, Z. F. Tian, G. S. Ruan, Y. X. Ye, C. H. Liang and G. S. Shao, Nano Energy 2014, 9,282-290.   \n[94] G. Ruan, S. Wu, P. Wang, J. Liu, Y. Cai, Z. Tian, Y. Ye, C. Liang and G. Shao, RSC Adv. 2014, 4, 63408-63413.   \n[95] Z. Xu, M. Quintanilla, F. Vetrone, A. O. Govorov, M. Chaker and D. Ma, |Adv. Funct. Mater 2015,25,2950-2960.   \n[96] T.A. Saleh, M. Gondal and Q. Drmosh, Nanotechnology 2010, 21, 495705. [97] W. Dong, S. Reichenberger, S. Chu, P. Weide, H. Ruland, S. Barcikowski, P. Wagener and M. Muhler, $| J .$ Catal. 2015,330, 497-506.   \n[98] P. Wagener, A. Schwenke and S. Barcikowski, Langmuir 2012, 28, 6132-6140. [99] G. Marzun, C. Streich, S. Jendrzej, S. Barcikowski and P. Wagener, Langmuir 2014, 30, 11928-11936.   \n[100] J. Zhang, D. Han, H. Zhang, M. Chaker, Y. Zhao and D. Ma, Chem. Commun. 2012, 48, 11510-11512.   \n[101] a) W. Guo and B. Liu, ACS Appl. Mater: Interfaces 2012, 4, 7036-7042; b) V. Svrcek, D. Marioti, T. Nagai, Y. Shibata, I. Turkevych and M. Kondo, J. Phys. Chem. C 2011, 115, 5084-5093.   \n[102] S.D. Angelov, S. Koenen,J. Jakobi, H. E. Heissler,M. Alam, K. Schwabe, S. Barcikowski and J. K. Krauss, J. Nanobiotechnol. 2016, 14,3.   \n[103] P. Kalita, J. Singh, M. K. Singh, P. R. Solanki, G. Sumana and B. Malhotra, Appl.Phys.Lett 2012,100,093702.   \n[104] X. Xu, G. Duan, Y. Li, G. Liu, J. Wang, H. Zhang, Z. Dai and W. Cai, ACS Appl. Mater: Interfaces 2013, 6, 65-71.   \n[105] S. Wang, K. Dou, Y. Zou, Y. Dong, J. Li, D. Ju and H. Zeng, J. Colloid Interf. Sci. 2017, 489, 85-91.   \n[106] E. Pizzolato, S. Scaramuzza, F. Carraro,A. Sartori, S. Agnoli, V. Amendola, M. Bonchio and A. Sartorel, |J. Energy Chem. 2016, 25,246-250. 2699-2704; b) J. Xiao, P. Liu, Y. Liang, H. B. Li and G. W. Yang, |J. Appl. Phys. 2013, 114, 073513.   \n[108] H. Zhang, J. Liu, Y. Ye, Z. Tian and C. Liang, |Phys. Chem. Chem. Phys. 2013, 15, 5684-5690.   \n[109] a) M. Zimbone, M. A. Buccheri,G. Cacciato，R. Sanz,G. Rappazzo，S. Boninelli, R. Reitano, L. Romano, V. Privitera and M. G. Grimaldi, Appl. Catal., B 2015,165, 487-494; b) M. A. Pugachevskii, Nanosci. Nanotechnol. Lett. 2014,6, 519-523; c) M. Zimbone, G. Cacciato, M. A. Buccheri, R. Sanz, N. Piluso,R. Reitano, F.La Via, M. G. Grimaldi and V. Privitera, Mat. Sci. Semicon. Proc. 2016, 42,28-31; d) P. Liu, W. Cai, M. Fang, Z. Li, H. Zeng, J. Hu, X. Luo and W. Jing, Nanotechnology 2009, 20, 285707.   \n[110] Z. Lin, J. Li, Z. Zheng, J. Yan, P. Liu, C. Wang and G. Yang, ACS Nano 2015, 9, 7256-7265.   \n[111] J. Xiao, Q. L. Wu, P. Liu, Y. Liang, H. B. Li, M. M. Wu and G. W. Yang, Nanotechnology 2014, 25,135702.   \n[112] Q. Li, C. Liang, Z. Tian, J. Zhang, H. Zhang and W. Cai, CrystEngComm 2012, 14,3236-3240.   \n[113] M.A. Gondal, A. M. Ilyas and U. Baig, Ceram. Inter 2016, 42,13151-13160. [114] Y. Cai, Y. Ye, Z. Tian, J. Liu, Y. Liu and C. Liang, Phys. Chem. Chem. Phys. 2013,15,20203-20209.   \n[115] Z. Wang, Z. Wang, D. Wang and M. Chen, RSC Adv. 2016, 6, 12286-12289. [116] H. Zhang, C. Liang, Z. Tian, J. Liu and W. Cai, CrystEngComm 2011， 13, 4676-4682.   \n[117] F. Zuo,L. Wang, T. Wu, Z. Zhang, D. Borchardt and P. Feng, J. Am. Chem. Soc. 2010, 132,11856-11857.   \n[118] J. Ran, J. Zhang, J. Yu, M. Jaroniec and S. Z. Qiao, Chem. Soc. Rev. 2014, 43, 7787-7812.   \n[119] S. Filice, G. Compagnini, R. Fiorenza, S. Scire, L. D'Urso, M. E. Fragala, P. Russo, E. Fazio and S. Scalese, J. Colloid Interf. Sci. 2017, 489, 131-137.   \n[120] L. Liao, Q. Zhang, Z. Su, Z. Zhao, Y. Wang, Y. Li, X. Lu, D. Wei, G. Feng and Q. Yu, Nat. Nanotechnol. 2014, 9, 69-73.   \n[121] J. D. Blakemore, H. B. Gray, J. R. Winkler and A. M. Müller, |ACS Catal. 2013, 3, 2497-2500.   \n[122] B. M. Hunter, H. B. Gray and A. M. Müller, Chem. Rev. 2016,116, 14120-14136.   \n[123] S. Hu, M. Tian, E.L. Ribeiro, G. Duscher and D. Mukherjee,|J. Power Sources 2016, 306, 413-423.   \n[124] B.M. Hunter, J. D. Blakemore, M. Deimund, H. B. Gray, J. R. Winkler and A. M. Müller, J. Am. Chem. Soc. 2014,136,13118-13121.   \n[125] S. Wu, J. Liu, Z. Tian, Y. Cai, Y. Ye, Q. Yuan and C. Liang, ACS Appl. Mater. Interfaces 2015, 7,22935-22940.   \n[126] S. Wu, J. Liu, D. Liang, H. Sun, Y. Ye, Z. Tian and C. Liang, Nano Energy 2016, 26.699-707. [127] D. S. Falcao, V. B. Oliveira, C. M. Rangel and A. M. F. R. Pinto, Renew. Sust.   \nEnergy Rev. 2014,34, 58-70.   \n[128] H. Huang and X. Wang, J. Mater: Chem. A 2014, 2, 6266-6291.   \n[129] Y. Wang, H. Zhang, Y. Zhu, Z. Dai, H. Bao, Y. Wei and W. Cai, Adv. Mater.   \nInterfaces 2016, DOI: 10.1002/admi.201500801.   \n[130] J. L. Guo, Y. D. Chiou, W. I. Liang, H. J. Liu, Y. J. Chen, W. C. Kuo, C. Y. Tsai, K.A. Tsai, H. H. Kuo and W.F. Hsieh, |Adv. Mater: 2013, 25, 2040-2044. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Entry for the Table of Contents (Please choose one layout) ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "FOCLIS REVIEW ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "This focus review shows the strength of a new technique - laser ablation/processing in liquids -in one-step synthesis of ligand-free catalysts without any surfactant additive as well as its excellence at defect introduction to semiconductor photocatalysts. ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/6266ae742f9bf5fbc78073c07c6ae839a01f8238db6b716b0cf6373f77e38bd8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Dongshi Zhang,Jun Liu,Pengfei Li Zhenfei Tian, Changhao Liang\\* ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Page No.- Page No. ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Recent Advances in Ligand-Free, Charged and Defect-Rich Catalysts Developed by Laser Ablation and Processing in Liquids ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f42e8a5ee31efeecc77aa320bbb3de7863e0289b32df020e5f3878b85d213c6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Dr. Dongshi Zhang obtained Ph.D. from Xi'an Jiaotong Univesity (China) in 2014 and worked in Prof. Stephan Barcikowski group at University of Duisburg-Essen (Germany) from 2O14 to 2016. Currently, he works in Prof. Changhao Liang group to further hisresearches. Hisresearch interestsincludelaserablation， laser microfabrication, and laser cuttng as well as their combination with surface chemistry for wettability control and with inorganic chemistry for novel nanomaterial synthesis. ",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/21664ce140745fcfb254dccb119120b3b6273f4e30da99d9d0e2b1bfa2db11fc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Changhao Liang obtained his Ph.D.from Institute of Solid State Physics, Chinese Academy of Sciences in 2OO1.He is currently a full professor in Laboratory of Nanostructured Materials, nstitute of Solid State Physics.His current research interest lies in laser-materials interactions in liquids,nanoionics-based resistive switching devices, nanomaterials for energy & environmental applications. ",
+        "page_idx": 52
+    }
+]

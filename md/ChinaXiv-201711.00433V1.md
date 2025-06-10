@@ -1,0 +1,278 @@
+黄颡鱼促甲状腺激素受体基因的克隆及其对饲料中添加碘化钾的表达反应（1.浙江万里学院生物与环境学院，宁波315100；2.上海海洋大学水产与生命学院，上海
+
+201306)
+
+摘要：本试验旨在得到黄颡鱼促甲状腺激素受体（TSHR）基因的cDNA全长序列，同时掌握其组织表达差异，并揭示饲料中添加碘化钾对黄颡鱼甲状腺TSHR 基因表达及生长性能的影响。采用cDNA末端快速扩增（RACE）技术克隆TSHR基因cDNA全长序列，再应用荧光定量PCR技术检测TSHR基因的相对表达量，并制备了碘化钾添加量分别为0（对照）、10、50和 $1 0 0 ~ \mathrm { { m g / k g } }$ 的4种试验饲料进行为期27d的黄颡鱼养殖试验。结果显示：本试验成功克隆得到长度为2 786bp 的 TSHR 基因cDNA 的全长序列，其中开放阅读框2 238 bp编码 745个氨基酸，Blast程序分析表明黄颡鱼TSHR 氨基酸序列与其他已知鱼类的相似性为 $6 0 \% { \sim } 8 7 \%$ 。组织表达分析结果表明TSHR 基因在甲状腺组织中的相对表达量较高，其次是肝脏、肌肉和肠道。养殖试验结果表明， $1 0 0 ~ \mathrm { { m g / k g } }$ 组甲状腺 TSHR基因相对表达量显著高于其他各组（ $\scriptstyle \cdot < 0 . 0 5$ )，50和 $1 0 0 ~ \mathrm { { m g / k g } }$ 组的增重、特定生长率和饲料系数显著优于对照组（ $\scriptstyle P < 0 . 0 5 .$ )。由此得出，饲料中添加适量的碘化钾不仅影响 TSHR 基因的表达，还能有效促进黄颡鱼的生长。
+
+关键词：黄颡鱼；碘化钾；促甲状腺激素受体；基因克隆；基因表达中图分类号：S963 文献标识码：A 文章编号：
+
+甲状腺激素（THs）由甲状腺组织合成和分泌，包括四碘甲状腺原氨酸（T4）和3,5,3-
+
+三碘甲状腺原氨酸 $\left. \mathbf { T } _ { 3 } \right.$ )，是含量极低的生物活性物质，几乎作用于水生动物的各个部分，研究证实THs不仅可以促进机体的生长、发育，维持机体代谢平衡，还能够促进神经系统的发育，提高其兴奋性，维持机体的免疫系统[1-4]。鱼类 THs 的分泌过程与高等脊椎动物相似，其中碘和促甲状腺激素受体（TSHR）是THs 合成途径中的2个重要因素，碘由钠碘转运蛋白运输到甲状腺滤泡内，碘化合成一碘酪氨酸和二碘酪氨酸，进而生成 THs[5-6]。因此碘是机体生长和代谢过程中的一种必不可少的微量元素，目前已经证实饲料中缺乏碘会引起鱼类甲状腺功能减退以及甲状腺肿等症状[7]。NRC 标准中鱼类对饲料中碘的需求量较低，但是在低碘含量的淡水区域常因为碘含量的不足而引起缺碘性疾病的发生，因此，在饲料中补充碘能有效地增加鱼类对饲料中碘的摄取量，从而维持其正常的生长、代谢。  
+TSHR 是一种G蛋白-偶联受体，属于糖蛋白激素受体超家族的成员，能与促甲状腺激素结合激发甲状腺的一系列反应，从而促进 THs 的释放；不同物种间 TSHR 结构很保守，主要由7个跨膜螺旋结构域、短的胞质域和较大的胞外域构成，其中胞外域含富亮氨酸重复序列，胞外域主要负责配体的特异性结合[8-9]。TSHR 与促甲状腺激素信号特异性结合后，激活典型的G-蛋白偶联效应器（腺苷酸环化酶和磷酸酯酶C)，诱发胞内信号级联反应，刺激甲状腺组织合成、分泌T4，随后 $\mathrm { T } _ { 4 }$ 在脱碘酶的作用下转化为 ${ \mathrm { T } } _ { 3 }$ ，进而调节机体的生长、发育等生命过程[10-12]。因此，TSHR 在所有脊椎动物垂体-甲状腺轴的调节过程中具有极其重要的作用。目前已在分子水平上对大麻哈鱼（Oncorhynchus rhodurus)[13]、条纹狼鲈（Moronesaxatilis）[8]、非洲鲶（Clarias gariepinus）[14]、斑点叉尾（Ictalurus punctatus）[15]、欧洲狼鲈（Dicentrarchus labrax）[16]和塞内加尔鳎（Solea senegalensis）[9]等鱼类的TSHR 基因进行了研究，但有关黄颡鱼TSHR基因的研究尚未见报道。  
+鉴于 TSHR 基因和碘的重要作用，本研究首先采用反转录PCR(RT-PCR)和 cDNA 末端快速扩增（RACE）技术克隆黄颡鱼TSHR 基因的全长cDNA序列，并分析黄颡鱼TSHR 基因在不同组织中的表达差异性，在此基础上，由于碘对甲状腺功能的重要性，或能对 TSHR
+
+基因产生影响，因此本研究的第2个目的是揭示饲料中添加不同水平的碘化钾对黄颡鱼TSHR基因表达及黄颡鱼生长的影响。
+
+1材料与方法  
+1.1试验材料  
+基因克隆所用黄颡鱼购自浙江省宁波市鄞州区东裕菜市场，选取1 条健康的黄颡鱼（Pelteobagrus fulvidraco)，体重 $1 4 5 . 2 \ \mathrm { g }$ ，体长 $2 4 \mathrm { c m }$ ，解剖后取脑、甲状腺、心脏、肝脏、脾脏、肌肉、肾脏、性腺、头肾、胃、肠道组织，用液氮速冻研磨并分别取部分进行混合，随后将混合后的组织加入装有Trizol的离心管中混匀，置于-80℃超低温冰箱保存，用于提取总RNA。  
+本研究所采用的主要试剂包括 SuperQuickRTcDNAKit 和 2xEs TaqMasterMix，购自康为世纪生物科技有限公司，SMARTer?RACEcDNA Amplification Kit 购自Clontech 公司,DL1000 DNA Marker、DL5000 DNA Marker、DNase I、TaKaRa LA Taq with GC Buffer、pMDTM19-T Vector Cloning Kit、SYBR $\textsuperscript { \textregistered }$ Premix Ex TaqTM II（TliRNaseHPlus）购自 TaKaRa公司，Trans5aChemically Competent Cell购自北京全式金生物技术有限公司，GenClean 琼脂糖凝胶DNA回收试剂盒（离心柱型）购自上海捷瑞生物工程有限公司，碘化钾购自 SIGMA公司(纯度 $5 9 9 . 5 \%$ )。其它常用的化学试剂均为国产分析纯。1.2 养殖试验  
+试验饲料以市售黄颡鱼饲料为基础饲料（杭州海皇饲料开发有限公司，2号料，粗蛋白质含量为 $41 \%$ )，分别添加0（对照）、10、50和 $1 0 0 ~ \mathrm { m g / k g }$ 的碘化钾配制成4种试验饲料，碘化钾含量实测值分别为0.31、8.58、47.50 和 $9 2 . 6 3 ~ \mathrm { m g / k g }$ ，换算成碘含量后的结果列于表2。添加方法为：首先将碘化钾溶于水中，将其加入粉碎后的市售饲料中混匀，用绞肉机制成直径为 $3 \mathrm { m m }$ 的饲料，低温风干后，用密封袋封装后置于冰箱中（ $- 2 0 \mathrm { ~ \textdegree ~ }$ ）冷冻保藏，备用。试验料的主要营养成份列于表1。
+
+67
+
+Table 1 Nutrient levels of experiment diets (DM basis） mg/kg  
+
+<html><body><table><tr><td rowspan="2">营养水平 Nutrientlevels</td><td colspan="4">碘化钾添加量 KIaddition/(mg/kg)</td></tr><tr><td>0</td><td>10</td><td>50</td><td>100</td></tr><tr><td>粗蛋白质 Crude protein</td><td>435.9</td><td>443.8</td><td>445.1</td><td>442.8</td></tr><tr><td>粗脂肪Crude fat</td><td>69.0</td><td>74.2</td><td>76.7</td><td>73.8</td></tr><tr><td>粗灰分 Ash</td><td>106.5</td><td>103.4</td><td>109.7</td><td>106.6</td></tr><tr><td>碘I</td><td>0.24</td><td>6.56</td><td>36.31</td><td>70.81</td></tr></table></body></html>
+
+养殖试验用鱼购自浙江省余姚市水产技术推广总站的黄颡鱼养殖基地，选取均重为30.3g 的健康黄颡鱼120尾，将鱼随机放入8个鱼缸内（容量 $3 0 0 \mathrm { ~ L ~ } )$ ，每缸15尾。将8个鱼缸随机分成4组，每组2个鱼缸，每天定时投喂2次（09:00 和16:00)，表观饱食投喂，采食约 $3 0 \mathrm { m i n }$ 后收集残饵称重。每天观察黄颡鱼的活动状况，定期用二氧化氯对水体进行消毒。试验用水为曝气的自来水，光照为自然光源，用增氧机昼夜持续增氧，每天12:00清洗养殖水桶并换水，换水量为总水量的1/2，以保持水体清新。试验期共27d。饲养期间测定水温、溶解氧浓度和摄食量。试验期间水温22\~24℃，溶解氧浓度大于 $6 . 2 ~ \mathrm { { m g / L } }$ 。养殖27d后进行称重，每个鱼缸随机取5尾鱼采样，每尾鱼称重并测量体长，解剖后称肝脏、肠道重，并取甲状腺组织用液氮速冻后置于-80℃超低温冰箱保存，用于后续的荧光定量PCR 测定。
+
+# 1.3总RNA提取和cDNA第1链的合成
+
+各个组织（用于荧光定量）以及混合组织样品（用于基因克隆）分别用Trizol Reagent法提取总RNA，并检测其质量，方法如下：DNaseI去除其中的 DNA 杂质，用 Nanodrop2000核酸蛋白分析仪检测 RNA的浓度和纯度（1.9<A260/A280<2.1)，并用 $1 . 2 \%$ 的琼脂糖凝胶电泳检测RNA 的完整性。使用康为世纪公司的 SuperQuickRTcDNAKit并参照说明书反转录合成cDNA，-20℃保存。反应体系为 $1 0 \mu \mathrm { L }$ ：dNTP Mix 为 $2 \mu \mathrm { L }$ 、Primer Mix为 $1 ~ \mu \mathrm { L }$ 、RNA模板为 $1 ~ \mu \mathrm { L }$ 、RT 缓冲液为 $2 ~ \mu \mathrm { L }$ 、反转录酶为 $0 . 5 ~ \mu \mathrm { L }$ 、双蒸水（ $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ ）为 $3 . 5 ~ \mu \mathrm { L }$ 。反应条件如下： $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 反应 $1 5 \mathrm { { m i n } . 8 5 \mathrm { { ~ \circ ~ } } }$ 反应5s。以混合组织提取的RNA为模板，按照 SMARTer?RACE cDNAAmplification Kit说明书合成RACEcDNA 模板， $- 2 0 \mathrm { ~ \textdegree C }$ 保存。
+
+1.4TSHR基因cDNA全长克隆将 NCBI数据库GenBank 中斑点叉尾（NM_001200192.1）、非洲鲶（AY129556.1）、条纹狼鲈（AF239761.1）、罗非鱼（NM_001279621.1）、斑马鱼（NM_001145763.2）和塞内加尔鳎（FN677495.1）TSHR 基因的核苷酸序列进行比对，并用 Bioedit 和Oligo 6.0 软件在保守区域内设计简并引物 TSHR-F1和 TSHR-R1（表2），引物由上海生工生物工程技术有限公司合成。PCR反应体系：2xEs TaqMasterMix 为 ${ 5 \mu \mathrm { L } }$ ，混合组织cDNA为模板 $0 . 2 { \mu \mathrm { L } }$ ，上、下游引物（ $1 0 \mu \mathrm { M } )$ 各 $0 . 4 ~ \mu \mathrm { L }$ ， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 为 $4 \mu \mathrm { L }$ 。反应程序为： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预变性 $2 \operatorname* { m i n }$ ; 94 ℃变性 30 s，51.2 $\mathrm { { } ^ { \circ } C }$ 退火 $3 0 ~ \mathrm { s }$ ，72 $\mathrm { { ^ \circ C } }$ 延伸 45s，30个循环；72℃终延伸 $1 0 \mathrm { m i n }$ ; $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。产物经 $1 . 5 \%$ 琼脂糖凝胶电泳分离检测，并用GenClean 琼脂糖凝胶DNA回收试剂盒（离心柱型）回收纯化，送到上海华大基因科技服务有限公司测序，测得815 bp 的扩增产物，符合预期大小，BLAST 分析结果表明该序列为 TSHR 基因的部分序列，根据该部分序列，利用 Oligo 7 软件设计 RACE 特异性引物 3-RACE-F2-1、3-RACE-F2-2 和 5-RACE-R2-1、5-RACE-R2-2；5-RACE-R3-1、5-RACE-R3-2、5-RACE-R3-3；5-RACE-R4-1、5-RACE-R4-2（表2），分别用于TSHR 基因的3'端和5'端的RACE 扩增，其中5'端RACE采用3 对特异性引物扩增成功。为了提高扩增 PCR的特异性,3'端和5'端的RACE 扩增均采用巢式 PCR扩增技术。反应体系：TaKaRaLATaq为 $0 . 5 ~ \mu \mathrm { L }$ ，2xGC Buffer II为 $2 5 \mu \mathrm { L }$ ，dNTP Mixture 为${ 8 \mu \mathrm { L } }$ ，模板cDNA（第1轮PCR产物）为 $2 \mu \mathrm { L }$ ，特异性引物为 $2 \mu \mathrm { L }$ ，UPM（NUP）引物为5 μL（2 μL）， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 补足 ${ 5 0 \mu \mathrm { L } }$ ，PCR反应程序： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预变性 $2 \mathrm { m i n }$ ; $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ，退火温度反应 $3 0 \mathrm { ~ s ~ }$ ， $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 延伸指定时间，30个循环；72℃终延伸 $1 0 \ \mathrm { m i n }$ ; $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存，其中退火温度根据引物的温度确定，延伸时间根据酶的扩增效率及预测的扩增产物大小确定。
+
+PCR 扩增产物首先进行纯化，随后克隆到 pMDTM19-TVector 载体上，转化到 Trans5αChemicallyCompetent Cell内，经LB平板（含 Amp+）培养以及M13 和特异性引物的菌液PCK 师选后，挑远阳性兄隆困达仕上海华人基因科技服务有限公可测予。
+
+1.5TSHR基因序列拼接及生物信息学分析将简并引物扩增的部分序列、5'端RACE 克隆序列和3'端 RACE 克隆序列用DNAStar  
+软件中的 Seqman 程序拼接，即得到黄颡鱼 TSHR 基因的全长 cDNA 序列；用 ExPASy（http://web.expasy.org/translate/）在线翻译TSHR 基因序列，推断其开放阅读框序列和编码  
+的氨基酸序列；用DNAStar 软件中的 EditSeq 程序推断 TSHR 蛋白的分子质量、等电点等;  
+利用 DNAStar 中 MegAlign 程序对已获得的黄颡鱼 TSHR 的氨基酸序列与非洲鲶（AAN01360.1）、斑点叉尾（AY533543）、斑马鱼（NM001145763.2）、塞内加尔鳎（CBK38913.1）和大口黑鲈（AKC32650.1）TSHR 的氨基酸序列进行多序列比对并分析各  
+物种间 TSHR 氨基酸序列的相似性和分歧度；用 SignalP 4.1 Server 在线软件（http://www.cbs.dtu.dk/services/SignalP/）预测分析信号肽；用TMHMM在线软件(http://www.cbs.dtu.dk/services/TMHMM/）预测分析氨基酸的跨膜螺旋结构；用 NetNGlyc  
+在线软件（http://www.cbs.dtu.dk/services/NetNGlyc/）预测分析 N-糖基化位点；用 NetPhos 2.0  
+Server 在线软件（http://www.cbs.dtu.dk/services/NetPhos/）预测分析磷酸化位点；用 PSIPRED  
+v3.3 在线软件（http://bioinf.cs.ucl.ac.uk/psipred/）分析 TSHR 蛋白的2 级结构；用在线程序  
+SMART（http:/smart.embl-heidelberg.de）分析氨基酸的保守结构域。采用 MEGA6.0 软件中  
+的邻位相接（NJ）法对不同物种的TSHR 氨基酸序列构建系统进化树，设置 Bootstrap 的值  
+为1000，计算各分支的置信度。
+
+# 表2采用的引物及其序列
+
+Table 2Primers and their sequences used in the experiment
+
+<html><body><table><tr><td>Primers name</td><td>Sequence (5'-3')</td><td>Sequence informati</td></tr><tr><td>TSHR-F1</td><td>CCTGAYGASTTYAAYCCYTGYGAGGAC</td><td>简并引物</td></tr><tr><td>TSHR-R1</td><td>TTGTARTGRCTGGTSAGMAGCAC</td><td>简并引物</td></tr><tr><td>3-RACE-F2-1</td><td>GCAAGCGAGTTGTCAGTTTACACC</td><td>3'端RACE</td></tr><tr><td>3-RACE-F2-2</td><td>GTTTGTCACATGCCTCCGCTGTC</td><td>3端RACE</td></tr><tr><td>5-RACE-R2-1</td><td>TGTGACAAACGCAGTTTACGATCT</td><td>5'端RACE</td></tr><tr><td>5-RACE-R2-2</td><td>GGCAATGAGAAGCAGATAGAGG</td><td>5端RACE</td></tr><tr><td>5-RACE-R3-1</td><td>GTCTGCCAGTCTATTGCAT</td><td>5'端RACE</td></tr><tr><td>5-RACE-R3-2</td><td>CCATCAAATTTCCAAGTACAGCC</td><td>5'端RACE</td></tr><tr><td>5-RACE-R3-3</td><td>AAAGCCCAAATCATGGTCAGC</td><td>5'端 RACE</td></tr><tr><td>5-RACE-R4-1</td><td>GGTTCTTGAATGCACAGCAATGACT</td><td>5'端RACE</td></tr><tr><td>5-RACE-R4-2</td><td>CACATCAAGCAGCACTGGACCACT</td><td>5'端RACE</td></tr><tr><td>UPM（长 long)</td><td>CTAATACGACTCACTATAGGGCAAGCAGTGGTATC</td><td>接头引物</td></tr><tr><td></td><td>AACGCAGAGT</td><td></td></tr><tr><td>UPM（短 short）</td><td>CTAATACGACTCACTATAGGGC</td><td>接头引物</td></tr><tr><td>NUP</td><td>AAGCAGTGGTATCAACGCAGAGT</td><td>接头引物</td></tr><tr><td>TSHR-qF</td><td>GCCTCTATCTGCTTCTCATT</td><td>荧光定量引物</td></tr><tr><td>TSHR-qR</td><td>TGTCTGCCAGTCTATTGC</td><td>荧光定量引物</td></tr><tr><td>GAPDH-F</td><td>ATTCTGGGATACACTGAGGA</td><td>荧光定量内参引特</td></tr><tr><td>GAPDH-R</td><td>TGTCGTTGAGGGAAATGC</td><td>荧光定量内参引特</td></tr></table></body></html>
+
+1.6 TSHR基因的组织表达差异
+
+为了检测黄颡鱼体内 TSHR 基因的表达情况，根据GenBank 中作为内参的黄颡鱼甘油醛-3-磷酸脱氢酶（GAPDH）基因（JQ068865.1）序列以及本试验克隆得到的黄颡鱼 TSHRcDNA序列分别设计合成实时荧光定量PCR的内参引物GAPDH-F和GAPDH-R及TSHR基因引物TSHR-qF和TSHR-qR（表2）。实时荧光定量PCR的反应体系： $2 \times \operatorname { S Y B R } ^ { \textregistered }$ PremixEx Taq II（TliRNaseH Plus）为 $6 ~ \mu \mathrm { L }$ ，上、下游引物各 $0 . 2 4 ~ \mu \mathrm { L }$ ，ROX reference Dye II为0.24 μL， $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 补足至 $1 2 . 5 ~ \mu \mathrm { L }$ 。荧光定量PCR反应程序： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 预变性 $3 0 ~ \mathrm { s }$ ；95℃变性5s，55.2℃退火30s，40个循环； $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 反应 $1 5 \mathrm { ~ s ~ }$ ，60℃反应 $6 0 ~ \mathrm { s }$ ， $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 反应15s（制备熔解曲线)。反应结束后，根据熔解曲线分析PCR反应是否正常，最后得出各组织TSHR基因mRNA相对表达量的关系图。
+
+# 1.7 分析方法
+
+粗蛋白质含量采用凯氏定氮法[17测定，粗脂肪含量采用索氏抽提法[18]测定，粗灰分含量采用GB/T 5009.4—2010[19]的方法进行测定，水分含量采用直接干燥法进行测定[20]，碘含量采用GB/T13882—2010[21]的方法进行测定。
+
+# 1.8 计算方法
+
+特定生长率（SGR） $= 1 0 0 \times$ （ln末重-ln初重）／养殖天数；  
+饲料系数（FCR） $\scriptstyle =$ 摄食量／增重;  
+肥满度（CF） $\scriptstyle =$ 体重／体长；  
+肝胰指数（ $\mathrm { \langle H S I , \% ) \rangle = } 1 0 0 \times$ 肝脏重／体重；  
+肠指数 $( \% ) = 1 0 0 \times$ 肠重/体重。
+
+# 1.9 数据分析
+
+实时荧光定量PCR 的数据采用 $2 ^ { - \Delta \Delta \mathrm { C T } }$ 法计算[22]，黄颡鱼各组织的 TSHR 基因的表达量是相对于肌肉组织TSHR基因的表达量。采用 SPSS 19.0 对黄颡鱼生长试验相关数据做单因素方差分析（one-wayANOVA)，所有数据以“平均值 $\pm$ 标准差"表示。
+
+# 2结果与分析
+
+# 2.1黄颡鱼TSHR基因的克隆及序列分析
+
+以黄颡鱼混合组织cDNA为模板，克隆出与预期大小相符的cDNA片段，利用预测的氨基酸序列在NCBI数据库中进行同源性分析，该目的基因与鲶形目斑点叉尾的TSHR 基因很相似，表明该基因为黄颡鱼的 TSHR 基因。序列分析可知，黄颡鱼TSHR 基因cDNA 序列全长2 786 bp，其中开放阅读框2238 bp（239～2476 bp)，5'端非翻译区（UTR）为 238 bp（ $\cdot 1 { \sim } 2 3 8 ~ \mathsf { b p }$ ），3'端UTR为 $3 1 0 ~ \mathrm { b p }$ $( 2 ~ 4 7 7 { \sim } 2 ~ 7 8 6 ~ \mathsf { b p } )$ ），共编码745个氨基酸，起始密码子为ATG，终止密码子为TAA（图1)，将该序列提交至GenBank，获得登录号KT722732。
+
+<html><body><table><tr><td>1 61</td><td>CTGCCTCTTGTGTTGTTCATGTAGACTCTAACACTTTTACTATCTGAGACAAACTGAGCA M</td> rowspan="11">ATGGGGCCTCTGGAAAGCAGATTTAGTTGAATAAGACTGCTGGAGCATTTGGGTGAGGCA GACCCCTGGAGCTCTATCAGTCTTAACACATTTCTTCATTTATCACAGCAGTGCAGACTT</td><td></td><td rowspan="11">1 I21 41 61 81 K 101 F 121 141 工 161 V 181</td><td rowspan="11">121 181</td></tr><tr><td>CCGAAGATTAAATCTTGTGTTTTAACTTTAAGCTGCTTTTAAACGCCAATTATATAAAAT</td><td></td><td>241</td></tr><tr><td>GTGTCTATTAGCACTTGTGATTTTAACCTTCTGCTCCACTCGAACCTGCACCGGAGACAT L V T F C</td><td>T R T C T G D</td><td>301</td></tr><tr><td>L A L L S TAATAAGTGTCCTCATGGGTGTGATTGCACAGACTGGAAAGGTTTTTATGTTTCGTGTAC T</td><td>K G F V S T</td><td>361</td></tr><tr><td>K C P H G C D C D AGATATTTCTACCTTGCCGTTGTTTCCTGGAAACACTGAGACACTACGTCTCTATGAAAC</td><td>T E T 工 T W</td><td>421</td></tr><tr><td>S T L P L F P G N AAGACTGAGCTCTGTTCCTAAAGACGCATTTGCCAACATGGTGAACATCTCATTAATTTA</td><td>L R YE V N Y</td><td>481</td></tr><tr><td>S S V P K D A L</td><td>F A N M S L TCTCTCAGTTGATGTCACATTAAGAAGTTTAGAGAAGCATTCCCTTTTCAACCTGAAGAA</td><td>541</td></tr><tr><td>L S V D V T R S</td><td>L E K H S L F N K GATTACACATATAGAAATAAGAAACACCAGAAGTCTGACGACTATCGATCCTGAAGCTTT</td><td>601</td></tr><tr><td>T H 工 E 工 R N T</td><td>R S L T T 工 D P E A CAAAGATTTACCAAAGTTAAAATATTTAGGTTTGTTCAATACTGGACTCACCATCTTTCC</td><td>661</td></tr><tr><td>D P K L K Y</td><td>G L F N T G T F TGCACTGACAAGGATCCGTTCTGATGAATCATCTTTCATGCTAGAAATTACTGATAATAT</td><td>721</td></tr><tr><td>L T R 工 R S D E</td><td>S S F M 工 E 工 T DN TTACATCACTGAAATTCCTGCAAATGCATTCCAAGGCATTACCAATGATGTGCTAACGGT</td><td>781</td></tr><tr><td>工 T E 工 P A N</td><td>A F G 工 T N D V L T GATGCTATACAGTAATGGCTTTACTAAAATCCAACACCATGCCTTCAATGGGACAAAACT</td><td></td></tr><tr><td>M L Y S N G F</td><td>T K Q H H A F</td><td>L201</td><td>841</td></tr><tr><td>D A Y L H R</td><td>AGATGCTATATATCTTCACCGAAACAAACAACTAACAGATCTGAGTGAAGACATGTTTGC N K 。 L T D L S E</td><td>M F A 221</td><td>901</td></tr><tr><td>E T F S G P L 4</td><td>AGAAACCTTTAGTGGTCCAGTGCTGCTTGATGTGTCTGACTCAGCCATTACCTCCCTTCC L D V S D S A</td><td>T S L P241</td><td>961</td></tr><tr><td>A R G E S L</td><td>AGCAAGAGGACTAGAGTCACTCCGGGAACTCAGCGCTCGGAATGTTTGGGCCCTTAAAAA R E 工 S A R N V W</td><td>A K K261</td><td>1021</td></tr><tr><td>L P P 工 K T F</td><td>ACTTCCACCTATCAAAACTTTCAGAAATCTGTTTGGTGCTGATATGACGTATCCTAGTCA R N L F G A D M</td><td>T Y P S H281</td><td></td></tr><tr><td>C C A F K N L</td><td>1081TTGCTGTGCATTCAAGAACCTTAAGAAAAAGAAAGGGTACCTGGAACACATTCTTTGTAA K K K K G Y</td><td>E H T L C N301</td><td>1141</td></tr><tr><td>E K H G 。</td><td>CTTGACTGAAAAGCATGGTCAACATCACAAAAGATCAGTGGACACAGTTACAATCCCAGC H H K R S V D T</td><td>V T P A 321</td><td>1201</td></tr><tr><td>V M D A K D S</td><td>TGTCATGGATGCTAAAGACTCAAAAGACATGAGTGACCTCCTACATAAGAACAACTATAA K D M S D L L H</td><td>K N N Y N341</td><td></td></tr><tr><td></td><td>1261CCATTACGACTTTCTTAGTAGTCTACATTATCATGACTTTGTTGGTGGGCATGCTGACCA</td><td>G HＡ D H361</td><td></td></tr><tr><td>H Y D F L S S</td><td>L H Y H D F V 1321TGATTTGGGCTTTGGGGACACACTGAAGAATCCTCAGGCAGCCACCAGTCAGGACTTTGA</td><td>G F</td><td></td></tr><tr><td>D L G F G D T</td><td>L K N P Q A A 1381TAGTCATTATGACTATGTTATATGTGAGGATGGAGAAGCTGTGACATGCTTCCCAGTCCC</td><td>T S Q D D381</td><td></td></tr><tr><td>S H Y D Y V</td><td>C E D G E A V T 1441TGATGACTTCAACCCCTGTGAGGACATCATGGGTTTCAGCTTCCTGAGAGTGTCTGTTTG</td><td>F V P401</td><td>1501</td></tr><tr><td>D D F N P C E</td><td>D M G F S F L GTTTGTCAGTTTGCTGGCTGTACTTGGAAATTTGATGGTGCTCTTTGTGCTCCTCACCAG</td><td>R V S V W421</td><td>1561</td></tr><tr><td>V A V</td><td>M F TCATTACAAACTATCTGTCTCCCGGTTCCTTATGTGCCACCTGGCATTTGCTGACTTCTG</td><td>S441</td><td>1621</td></tr><tr><td>HY K L S V S R</td><td>FLMCHLAFADFC461 CATGGGCCTCTATCTGCTTCTCATTGCCTCAGTGGACCTTTACACACAATCAGAATATTA</td><td></td><td></td></tr><tr><td>MG</td><td>S V D L YTQ 1681CAATCATGCAATAGACTGGCAGACAGGACCATGGTGTACACTTGCTGGATTTATCTCCAT</td><td>S E Y Y 481</td><td></td></tr><tr><td>N H A 工 D WQ</td><td>W</td><td>S 501</td><td></td></tr><tr><td>F A E Y T</td><td>1741CTTTGCAAGCGAGTTGTCAGTTTACACCTTGACCACAATAACTCTGGAGCGCTGGCATGC T T L T</td><td>E R W H A 521</td><td></td></tr><tr><td>N F A 工 HL D R</td><td>1801AATCAACTTTGCAATTCATTTAGATCGTAAACTGCGTTTGTCACATGCCTCCGCTGTCAT K L RL SH</td><td>A S A V M541</td><td>1861</td></tr><tr><td>工 G GW LC F L</td><td>GCTTGGTGGATGGATCTTATGCTTCCTGCTGGCCCTTATGCCAGTGTTGGGGGTGAGCAG LA LMP V</td><td>L G V S S 561</td><td>1921 1981</td></tr><tr><td>K V S 工 C L P M S Y</td><td>TTACCAAAAGGTCAGCATATGCTTGCCCATGAGCACTCAGAACCTGTTGGACCAGGTCTA T n L</td><td>工 D V Y 581</td><td></td></tr><tr><td>工 V N V</td><td>CATTTTATTTGTGTTAGTTCTTAACATTGTGGCCTTTGTGGTCATCTGTGCCTGCTACAT A V</td><td>C A C 601 工</td><td>2041</td></tr><tr><td>R C A V R N P T</td><td>TAGGATCTACTGTGCAGTGCGCAACCCCACTTACACCTCAGCCAGCAAAGATAGCAGTAT Y T S A S K</td><td>D S S 工 621</td><td>2101</td></tr><tr><td>TGCTAAGCGCATGGCTGTGCTAATTTTCACTGACTTCCTCTGCATTGCACCAATCTCTTT A K R MA V F T</td><td>D LC A</td><td>P S F641</td><td>2161</td></tr><tr><td>Y A S AAL</td><td>CTATGCCATATCGGCTGCACTGGATCATTCACTCATAACCATTTCAAATTCCAAGATCCT D h S L 工 T 工 S</td><td>N S K 工 L 661</td><td>2221</td></tr><tr><td>L V L P C A</td><td>GCTTGTGCTCTTCTACCCTCTGAACTCCTGTGCTAATCCTTTTCTCTATGCCATATTTAC N F LY</td><td>A F T 681</td><td>2281</td></tr><tr><td>K F G D V F 工 L</td><td>CAAGGCCTTTCAGGGCGATGTATTTATCTTGCTCAGCAAGATTGGCCTGTGCGAGCAGCA L S K 工 G</td><td>L C E Q Q 701</td><td>2341</td></tr><tr><td>F</td><td>GGCCCAAATGTTTCGAGGCCAAACTGTCTCCACAAAAGCAAGCAGCGGAGACACAAACAG T ST</td><td>G D T N R 721</td><td>2401</td></tr><tr><td>A M R G Q V</td><td>K A S S GCGTGGAATAAGAACAAAAATGCTAACCCGATGGAATGTTCTGACCACTGCTACCTGTCA</td><td></td><td></td></tr><tr><td>R G 工 R T K</td><td>M L T R W N V L</td><td>T T A T C H 741</td><td>2461</td></tr><tr><td>Q QG H</td><td>TCAACAAGGACACTAACACATCAGGAGGCAGGAAATGTAAATCTACTGGCAATCAATACA</td><td></td><td>2521</td></tr><tr><td>AGCACATTCATGAGATAAACTCAAATGGTGTCTTTTTTAAACCTGCTGGTTACTTAAAGA</td><td></td><td>745</td><td></td></tr><tr><td></td><td></td><td></td><td>2581</td></tr><tr><td></td><td>GGGGATTTAAAAGTTGTTTTTACTTAGCTAAATGCATGCCACATACTTGTGTGATAACAT</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>2641</td></tr><tr><td></td><td>TTACAGCTCTATGTATTTAATCGAAGAGAGAGATAATTTTGTAATGCATTATCTCAGTGT</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+起始密码子和终止密码子用方框标示，信号肽序列（ $1 \sim 1 9$ 号氨基酸）用下划线标示，N-糖基化位点用青色阴影标示，跨膜螺旋结构域用蓝色阴影标示。
+
+The start and stop codons are boxed, the putative signal peptide is underlined whereas N-linked glycosylation sites are marked in cyan with transmembrane helix domain boxed in blue.
+
+# 图1黄颡鱼TSHR 基因cDNA全长核苷酸序列及推导的氨基酸序列
+
+Fig.1 cDNA full-long sequence and deduced amino acid sequence of TSHR gene in yellow
+
+catfish
+
+DNAStar 软件 Editseq 程序预测分析说明：黄颡鱼 TSHR 蛋白质序列包括63个强碱性氨基酸（K、R），65个强酸性氨基酸（D、E），293个疏水氨基酸（A、I、L、F、W、V），221个极性氨基酸（N、C、Q、S、T、Y），该蛋白质的分子质量约为 $8 3 . 8 \mathrm { { k u } }$ ，理论的等电点（pI）为7.163。经 SignalP4.1 Server在线软件预测分析该蛋白质序列的信号肽结构，发现 TSHR蛋白质序列的N端信号肽为第 $_ { 1 \sim 1 9 }$ 位的氨基酸（MCLLALVILTFCSTRTCTG）,并且在第19 和20位的氨基酸上可能存在裂解位点（图1）。
+
+TSHR是贯穿脂双层的跨膜蛋白，黄颡鱼TSHR 氨基酸序列包含长度为264个氨基酸的疏水性7次跨膜螺旋区，分别位于 $4 2 1 { \sim } 4 4 3$ 、 $4 5 0 { \sim } 4 7 2$ 、 $4 8 7 { \sim } 5 0 9$ 、 $5 4 0 { \sim } 5 6 2$ 、 $5 8 2 { \sim } 6 0 4$ 、$6 2 5 { \sim } 6 4 7$ 和 $6 6 2 \sim 6 8 4$ 氨基酸处和长度为420个氨基酸的胞外区（ $\cdot 1 { \sim } 4 2 0$ 氨基酸处）：包含N-末端的信号肽序列、长度为61个氨基酸的膜内域（ $6 8 5 \sim 7 4 5$ 氨基酸处），膜外区和膜内区均呈亲水性。跨膜螺旋区是由3个胞内环和3个胞外环连接起来，是典型的G-蛋白偶联受体结构。糖基化位点预测：黄颡鱼TSHR 基因序列中有3个潜在的N-糖基化位点和 20 个保守的半胱氨酸，其中糖基化位点分别是 $^ { 7 6 } \mathrm { N I S L }$ 、 $^ { 1 9 7 } \mathrm { N G T K }$ 、301NLTE（图1）；磷酸化位点预测：TSHR有38个蛋白激酶磷酸化位点，包括20个丝氨酸位点、11个苏氨酸位点、7个酪氨酸位点，其中胞外区有14个丝氨酸位点（ $^ { 3 9 } \mathrm { S }$ 、 $^ { 6 4 } \mathrm { S }$ 、65S、 $^ { 9 0 } \mathrm { S }$ 、 $^ { 9 5 } \mathrm { S }$ 、 $^ { 1 4 8 } \mathrm { S }$ 、151S、 $^ { 2 4 7 } \mathrm { S }$ ，252S、 $^ { 2 8 0 } \mathrm { S }$ 、 $^ { 3 2 8 } \mathrm { S }$ 、 $^ { 3 3 2 } \mathrm { S }$ 、 $^ { 3 3 7 } \mathrm { S }$ 、 $^ { 3 8 2 } \mathrm { S }$ ）、8个苏氨酸位点（55T、 $^ { 8 7 } \mathrm { T }$ 、 $^ { 1 1 0 } \mathrm { T }$ 、 $^ { 1 1 5 } \mathrm { T }$ 、 $^ { 1 3 8 } \mathrm { T }$ 、 $^ { 2 3 8 } \mathrm { T }$ 、 ${ } ^ { 2 6 7 } \mathrm { T }$ ，（204号 ${ } ^ { 3 6 8 } \mathrm { T } \cdot$ 和4个酪氨酸位点 $( ^ { 3 7 } \mathrm { Y } , ^ { 3 5 1 } \mathrm { Y } , ^ { 3 8 4 } \mathrm { Y } , ^ { 3 8 6 } \mathrm { Y } )$ ，第2个胞内环内有1个丝氨酸位点（ $^ { 5 3 5 } \mathrm { S } )$ ，第2胞外环有2个酪氨酸位点 ${ } ^ { ( 4 7 5 } \mathrm { Y } , { } ^ { 4 8 0 } \mathrm { Y } )$ ，第3个胞内环有2个丝氨酸位点（ ${ } ^ { 6 1 6 } \mathrm { S } , { } ^ { 6 1 9 } \mathrm { S } )$ 、1个酪氨酸位点( $\mathrm { ^ { 6 1 2 } Y ) }$ ，胞内区有3个丝氨酸位点（711S、715S、716S）、3个苏氨酸位点（ $^ { 7 0 9 } \mathrm { T }$ （20 $^ { 7 1 9 } \mathrm { T }$ 、 $^ { 7 2 6 } \mathrm { T }$ ）。二级结构：预测 TSHR包含 21个 $\mathfrak { a }$ 螺旋、15个 $\beta$ 折叠和 34个无规则卷曲。
+
+SMART预测保守结构域发现，TSHR存在4个保守结构域，包括3个富亮氨酸重复[LRRNT（ $5 6 \sim 7 7$ 氨基酸处）、LRR_8（ $7 8 \sim 1 3 7$ 氨基酸处）、LRR_5（ $1 4 9 { \sim } 2 2 6$ 氨基酸处）]结构域和1个跨膜螺旋结构域 $[ 7 \mathrm { t m } \_ { 1 }$ ( $4 3 0 { \sim } 6 7 7$ 氨基酸处）]（图2）。
+
+![](images/62922a873f623054af34d1c96d6a7f2ed9451536df99309ba77e80c2eb0b5227.jpg)  
+图2黄颡鱼 TSHR序列保守的结构域  
+Fig.2The conservative domain in TSHR sequence of yellow catfish
+
+利用ClustalX进行序列比对，结果（图3）显示，7个跨膜螺旋区都处于保守性较高的区域。黄颡鱼TSHR氨基酸序列和其他鱼类已知的TSHR 氨基酸序列有 $5 7 \% \sim 8 7 \%$ 的相似度和 $2 . 0 \% \sim 1 1 . 5 \%$ 的分歧度(表3）。
+
+# 表3不同物种 TSHR 氨基酸序列的相似度和分歧度 $\%$
+
+Table 3Percent identity and divergence of amino acid sequence among different species   
+
+<html><body><table><tr><td colspan="7">相似度 Percent identity</td></tr><tr><td></td><td>编号 1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td></td><td>No. 1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2</td><td>1 2.0</td><td>87.0</td><td>57</td><td>69.1</td><td>68.6</td><td>83.6</td></tr><tr><td>分歧度</td><td></td><td></td><td></td><td>56.7</td><td>56.3</td><td>66.2</td><td>84.2</td></tr><tr><td></td><td>3</td><td>10.2</td><td>8.5</td><td>1</td><td>58.4</td><td>58.5</td><td>52.2</td></tr><tr><td>Divergence</td><td>4</td><td>10.6</td><td>7.8</td><td>10.1</td><td>1</td><td>89</td><td>48</td></tr><tr><td></td><td>5 6</td><td>11.5 3.7</td><td>10.6 7.1</td><td>5.8 10.7</td><td>2.6 11.8</td><td>-</td><td>47.1</td></tr></table></body></html>
+
+1：黄颡鱼Pelteobagrus fulvidraco；2：斑点叉尾 Ictalurus punctatus；3：斑马鱼Danio rerio；4：大
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictalurus punctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidracc Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clarias gariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidracc Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidracc Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+Pelteobagrusfulvidraco Clariasgariepinus Daniorerio Ictaluruspunctatus Micropterussalmoides Soleasenegalensis
+
+<html><body><table><tr><td>MCLLALVI TRTCT GDINKCPHGCDCTDWKGFYVSCTDISTLPLFPGNT BKTHvMLVLMEPLVsVSEWF.S K EE S R.F LIF.F E VKS N.E MQVIT-CALFTLVTLPISTVSEADS AV.E SE. MLCRSVQVMTTCALFTL EPVLAVSEADS AV E SE.</td></tr><tr><td>Y A ： SHTI F DI R. AS QTHTI DF R AS. ETLRLYETRLSSVPKDAFANMVNISLIYLSVDVTLRSLEKHSLFNLKKITHIEIRNTRSL H Q. V. R. FYA V.S.H TR. R IF SR. M. FHS.REL K. Q V F V WF R. M QR. FYS.R. AK WF. A. M 1 QR. R FYS.R.V.Q. AK. TTIDPEAFKDLPKLKYLGLFNTGLTIFPALTRIRSDESSFMLEITDNIYITEIPANAFQG</td></tr><tr><td>173 FH N.N.Q D K.QAENYi S.P F. 172 MS E H.H.. L 173 Y N.TN. D RN. H.NDMN. V.HPH. S.H 174 YVN. H. P.1 D.SN.H.RDMN.1 V.HP.M S.R. 180 ITNDVLTVMLYSNGFTKIQHHAFNGTKLDAIYLHRNKQLTDLSEDMFAETFSGPVLLDVS 233 N</td></tr><tr><td>K.M GR 233 K.A.SLR. V.P SV. RE. .D.K. G s 2 S G RE QVD RD KMD RA. G 1 M 234 S. L G RE.H. R. QVD. D KMD. RA. 1 M 240 DSAITSLPARGLESLRELSARNVWALKKLPPIKTFRNLFGADMTYPSHCCAFKNLKKKKG 293 S. T S VE M G</td></tr><tr><td>E. RV c HV. .L R. 292 GV T. SV. H. 293 LTG.N. TT.MG. A A KH. T1 NL G. R 294 LTG.R. TA.MD. K S KH. SI NL G. R. 300 YLEHIL NLTEKHGQHHKRSVDTVTIPAVMDA- KDS-KDMSDLLHKNNYNHYD 344 DY. RDI -LA. V G- 1.KGI NS.LRKT.D.H 344 D 竹</td></tr><tr><td>Fi E. ARKN.VQ. HGLQG- S--MEPGI L N FRDT.D. QE 344 DY.1 AMR. YE. GRI.V G...-..-T.KGI.I..P.LG.T.D.H. 345 F AFYD. GPLRMSLQGESVAETIPDEEPNDGHRERESQQDWWRG. 354 F. YLI ALQD. GPL.RTSFQGDSMLETVSDLEPHDGGQIESQQQDWRRG. 360 FLSSLHYHDFVGGHADHDLGFGDTLKNPQAATSQDFDSHYDYVI EDGEAVT FPVPDDF 404 P.LLDE. SY M A vs. T T A 404 RAF Y N</td></tr><tr><td>FGNG PTYFDR. ENM E. ED..RE...R IV K..E.A AE. 404 R E.L. Y.M A A 405 HG AYF. QP E V. E ED. A 414 HG. AYF. QP. E V E ED R E 420 NPCEDIMGFSFLRVSVWFVSLLAVLGNLMVLFVLLTSHYKLSVSRFLMCHLAFADFCMGL 464 F SV. L 1 R.</td></tr><tr><td>L V -- MV. L 1 G V. 474 G vv 480 YLLLIASVDLYTQSEYYNHAI DWQTGPWOTLAGFI SIFASELSVYTLTTITLERWHAINF 524</td></tr><tr><td>F V 524 H G S TY 524 525 H F G G Y T 534 H.RA. GG 540 AIHLDRKLRLSHASAVMLGGWLCFLLALMPVLGVSSYQKVSI CLPMSTQNLLDQVYILF 584</td></tr><tr><td>MQ. H. √ SL 584 MR. VI F.L G LV. D T.V. 1C 584 MQ. L 585 MR. H. H. A VF L LV. D. STVA. S 594 MR. .H. LV LA D. STMA. 600</td></tr><tr><td>VLVLNI VAFVVI CACYI RI YCAVRNPT YTSASKDSSIAKRMAVLIFTDFLCIAPISFYAI 644 M. K. Y. H 644 L V K. H SHQ. SN. TN. M. M 644 1 A. K. H. N. SR. N. 645 L. L FK. H. H.R.G TN. M. M 654 L L FK. H H.R.G. TN. M. M 660 SAALDHSLITISNSKILLVLFYPLNSCANPFLYAIFTKAFQGDVFILLSKIGLCEQQAQM 704 S V KK.</td></tr><tr><td>PP T V V. V L P KL V.NRP. V. R V. Q. 7 V QP V. R. V Q. L z20 QR. R</td></tr><tr><td>FRGQTVSTKASSGDTNRRGIRTKMLTRWNVLTTATCHQQGH 745 Y R SH. N. EI K QA N IKKDTNTSRGRKCKPTGHKF 764 R- TRHEREQ- GAN-ETPI SLLDFPG---KMAAAQQ748 R K QA. SSVNKDNNTSRGRKCEPTANKS 765 S.G. TSQVRRDKDKFRKGGSGG. EEVPIHLKKCSGHTYHQAVCQQ 768 S.G. TSQVRKDKCKIRKGGSGG EELPIHLRKCSGYTCHQAVGQE 774 745 KQIKAMNSCGVFC QEDSDGQGA KHIQGMNSTMVFY 778 TSPEESQSPNT 779 TVLKRARA 782 S</td></tr></table></body></html>
+
+信号肽用下划线标示，跨膜域用蓝色阴影标示，保守的半胱氨酸用红色阴影标示。
+
+with conservative cysteine boxed in red.
+
+Fig.3Comparison of the deduced amino acid sequences of TSHR among different fish species
+
+黄颡鱼与条纹狼鲈、罗非鱼、塞内加尔鳎、大麻哈鱼A和大麻哈鱼B、斑马鱼、非洲鲶、斑点叉尾等16 种物种的 TSHR 氨基酸序列的系统进化树列于图4。从中可以看出整个进化树分为2个亚群，各种鱼类聚为1个亚群，哺乳类、两栖类、鸟类形成1个亚群。其中黄颡鱼TSHR 处于鱼类这一分支，且与斑点叉尾和非洲鲶亲缘关系最近，斑马鱼次之，与哺乳类的亲缘关系较远，分支和物种的进化关系一致，而且从进化树可以看出TSHR蛋白在漫长的进化过程中出现一定程度的分化。
+
+![](images/e774d6ed538cb9efd6183ea42bf7c8a084adfbc10721dc666711e203db154cfe.jpg)  
+图3不同物种间TSHR推导的氨基酸序列的比对
+
+分支上的数字代表遗传距离。
+
+The number of branch is the genetic distance.
+
+图4基于TSHR氨基酸序列采用NJ法构建的系统进化树
+
+# Fig.4Phylogenetic tree based on TSHR amino acid sequences using NJ method
+
+2.2黄颡鱼TSHR基因的组织表达差异
+
+黄颡鱼TSHR 基因在不同组织中的表达情况列于图5，结果显示，TSHR基因在黄颡鱼各组织中均有表达且彼此之间存在差异，在甲状腺中的相对表达量较高，其次是肝脏、肌肉和肠道，在其他组织中的相对表达量较少。
+
+![](images/2af8a25440c6b777367ad63b31692c89d443e3f4d7c4bd2283ed25439c83e656.jpg)  
+图5不同组织中TSHR 基因的相对表达量  
+Fig.5Relative expression level of TSHR in different tissues
+
+2.3饲料中添加碘化钾对黄颡鱼生长性能的影响
+
+由表4可知，随饲料中碘化钾的添加量的升高增重和特定生长率呈现先升高后下降的趋势，饲料中碘化钾添加量为 50 和 $1 0 0 \mathrm { m g / k g }$ 时显著高于对照组（ $. P { < } 0 . 0 5 \ '$ )。各组之间摄食量差异不显著（ $. P { > } 0 . 0 5 )$ )。随饲料中碘化钾的添加量的升高，饲料系数呈现先降低后升高的趋势，与对照组相比，饲料中碘化钾添加量为50 和 $1 0 0 ~ \mathrm { m g / k g }$ 时，FCR显著降低（ $_ { \cdot } P { < } 0 . 0 5 )$ ）°肥满度、肝胰脂数和肠指数各组之间均差异不显著（ $_ { \cdot P > 0 . 0 5 } )$ ）
+
+fulvidraco 项目Items
+
+Table 4Effects of dietary potassium iodide addition on growth performance of Pelteobagrus   
+
+<html><body><table><tr><td></td><td>0</td><td>10</td><td>50</td><td>100</td></tr><tr><td>初重Initial weight/(g/尾)</td><td>32.05±0.5</td><td>29.15±2.33</td><td>27.85±5.87</td><td>32.05±3.61</td></tr><tr><td>末重Final weight/(g/尾)</td><td>38.10±2.69</td><td>36.55±2.48</td><td>38.65±7.14</td><td>42.45±2.90</td></tr><tr><td>增重WG/g</td><td>6.05±2.19b</td><td>7.45±0.21ab</td><td>10.80±1.27a</td><td>10.45±0.64a</td></tr><tr><td>特定生长率 SGR/(g/d)</td><td>0.63±0.21b</td><td>0.84±0.04ab</td><td>1.22±0.09a</td><td>1.05±0.16a</td></tr><tr><td>摄食量FI/(g/尾)</td><td>9.56±2.50</td><td>10.32±1.36</td><td>11.49±1.28</td><td>11.28±0.07</td></tr><tr><td>饲料系数FCR</td><td>1.61±0.18a</td><td>1.38±0.15ab</td><td>1.07±0.01b</td><td>1.08±0.06b</td></tr><tr><td>肥满度 CF</td><td>1.34±0.31</td><td>1.24±0.17</td><td>1.29±0.26</td><td>1.31±0.25</td></tr><tr><td>肝胰指数 HSI/%</td><td>1.97±0.46</td><td>1.91±0.26</td><td>2.10±0.43</td><td>2.36±0.35</td></tr><tr><td>肠指数 Intestine index/%</td><td>1.03±0.27</td><td>0.88±0.35</td><td>1.05±0.46</td><td>1.24±0.19</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $\cdot - 0 . 0 5$ )。Values in the same row with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$
+
+2.4饲料中添加碘化钾对黄颡鱼甲状腺TSHR基因表达的影响
+
+荧光定量PCR分析结果（图6）显示，饲料中碘化钾添加量为 $1 0 0 \mathrm { m g / k g }$ 时黄颡鱼甲状腺 TSHR 基因的相对表达量显著高于其他组 $( P { < } 0 . 0 5 )$ ，是其他组的 $2 . 3 { \sim } 1 7 . 5$ 倍，其余各组之间差异不显著 $( P { > } 0 . 0 5 )$ 。随着饲料中碘化钾添加量的增加，颡鱼甲状腺TSHR 基因的表达量呈现先降低后升高趋势。
+
+数据柱形标注不同小写字母表示差异显著（ $\scriptstyle P < 0 . 0 5$ ）。
+
+![](images/5e51b55e8ce385126968144bcb859e79f539e7ec53abf48b75a32bc31cf4deb8.jpg)  
+图6饲料中添加碘化钾对黄颡鱼甲状腺TSHR 基因表达的影响
+
+Value columns with different smallt letters mean significant difference $( P { < } 0 . 0 5 )$
+
+Fig.6Effects of dietary potassium iodide addition on expression of TSHR of Pelteobagrus
+
+fulvidraco
+
+3讨论
+
+3.1黄颡鱼TSHR基因生物信息学分析
+
+本研究成功获得黄颡鱼TSHR 基因的cDNA全长为2786bp，推导出黄颡鱼的TSHR蛋白由 745 个氨基酸组成，其氨基酸序列与鲶形目斑点叉尾 TSHR 氨基酸序列的相似性最高（ $87 \%$ )，且与其他鱼类的TSHR氨基酸序列的相似性也较高，并且该氨基酸序列具有糖蛋白受体家族的典型特征，Segaloff 等[23]认为 TSHR 属于G-蛋白偶联受体家族中的 A组，具有一个比较独特的大的胞外域，调节与促甲状腺激素的结合，胞外域中具有丰富的亮氨酸重复序列，胞外域约占总序列长度的1/2，有7tm_1结构域，并且该结构域由3个胞外环和3个胞内环构成，这些都与本研究获得的cDNA序列相符合。Rocha 等[16]从性腺中克隆出来的
+
+TSHRcDNA基因序列也具有类似的典型糖蛋白家族特征。进化树分析表明鱼类、鸟类和哺乳类动物的TSHR最后聚为一支，预示着TSHR蛋白有着共同的祖先，只是随着时间推移，动物进化分化出了不同类型的受体蛋白。  
+比对黄颡鱼与其它相关物种的TSHR基因，发现黄颡鱼与斑点叉尾和非洲鲶的相似性较高，其次是斑马鱼、大西洋鲑鱼等鱼类，动物分类与基因进化的关系相一致，表明 TSHR基因在物种进化中具有保守性及其对生理功能发挥的重要性。
+
+# 3.2黄颡鱼TSHR基因组织表达特异性分析
+
+本研究发现甲状腺和非甲状腺组织中均能检测到TSHR基因的表达，这一结果和Vischer等[14]、Goto-Kazeto 等[15]、Ponce 等[9]、Sampath-Kumar 等[8]、Rocha 等[16]分别对非洲鲶、斑点叉尾、塞内加尔鳎、条纹狼鲈、欧洲鲈的研究结果一致，TSHR 基因除了在硬骨鱼的甲状腺中表达外，在心脏、肌肉、垂体、肠道、胃、肾、肝脏、脾脏、头肾、脑、性腺等组织中也有表达，只是各组织中TSHR 基因表达丰度呈现出多样性。本研究结果显示TSHR 基因在黄颡鱼的心脏、肝脏、脾脏、胃、肾脏、头肾、脑、肌肉、肠、性腺、甲状腺组织中均有表达，说明 TSHR 具有广泛的调节机体正常生理代谢的作用，其中脾脏是免疫器官，因此TSHR 基因或许与免疫功能相关。已有研究证实哺乳动物的甲状腺内稳态的紊乱会导致其免疫细胞比例的变化[24]，在虹的试验中，人为的改变甲状腺激素的状态会引起免疫系统中白细胞的组成发生变化[25]；Wang 等[26]也已经证明在早期的抗原免疫反应中，单核细胞、淋巴细胞、巨噬细胞、外周T 细胞通过促甲状腺激素进行相互联系，而且促甲状腺激素具有免疫细胞调节因子的作用[27]，由此推测 TSHR 在脾脏中与促甲状腺激素结合起免疫调节作用，但TSHR具体免疫作用机理目前仍然不清楚。
+
+3.3饲料中添加碘化钾对黄颡鱼生长性能和TSHR 基因表达的影响
+
+本试验结果表明，饲料中添加碘化钾对黄颡鱼增重、特定生长率、饲料系数有显著影响，饲料中碘化钾添加量在 50 和 $1 0 0 \ \mathrm { m g / k g }$ 时可促进黄颡鱼的生长，提高饲料利用效率。这一结果与之前的一些研究结果相符合，如Witt 等[28]研究发现环境中的碘的含量与太平洋马鲅幼鱼的生长、成活率、变态发育以及鱼体内甲状腺激素的含量相关，适量的碘能促进其更快发育、更快生长并且提高成活率；Gensic 等[29]在虹的饲料中添加碘后发现补充碘的虹生长较好并且甲状腺激素的含量高，其成活率和疾病防御能力也相应提高。此外，Penglase等[30]研究发现大西洋鳕鱼（Gadus morhua）幼虫摄食的碘含量为 $1 2 9 \mathrm { m g / k g }$ 时，碘对甲状腺产生毒性，这一含量超过了本试验所得到的碘化钾添加量的最大值，过量碘引起甲状腺活性降低，进而导致生长性能降低。也有一些研究结果与本研究结果不相符合，如Ribeiro 等[31]研究表明海鲤饲料中不同水平或不同化学组成的碘（最大的含量为 $2 6 \mathrm { m g / k g }$ ，相当于碘化钾$3 4 . 4 ~ \mathrm { m g / k g }$ ）对海鲤的摄食量、生长率、饲料系数均没有显著影响；Bowzer 等[32]将大眼梭鲈的胚胎暴露于 $1 0 0 \mathrm { m g / L }$ 的碘溶液中 $3 0 \mathrm { m i n }$ 中，发现碘会降低胚胎的成活率，但并不影响其生长，原因可能是碘的添加量、碘化物的种类和鱼体发育的阶段性等因素的不同引起的。促甲状腺激素能与甲状腺滤泡细胞表面的 TSHR 结合，调节钠碘转运蛋白的表达[33],随后钠碘转运蛋白以主动运输的形式将碘转入甲状腺滤泡组织中的[34-35],最终促进甲状腺合成并分泌甲状腺激素，使甲状腺维持正常的活性状态，在此过程中，TSHR 基因起着关键的作用，若碘的供应量不足，或引起钠碘转运蛋白过剩，进而抑制TSHR 基因的表达，因此在一定范围内，随着碘含量的升高，TSHR基因的表达量也会相应提高。本研究中 TSHR 的相对表达量随着 KI添加量的增加，呈现上升的趋势，符合理论预期。碘对 TSHR 基因的影响最终会转化成对甲状腺激素和甲状腺功能的影响，如 Burel等[36]和 Mustafa等[37]均发现饲料中足够的碘能够提高机体甲状腺激素的含量，并且能提高其抗病能力，减少有害物质对生长的影响。Ribeiro 等[通过循环系统饲养塞内加尔鳎研究碘和硒对其甲状腺结构的影响，发现饲料中添加碘能提高塞内加尔鳎幼鱼的成活率以及相应的减少甲状腺畸形（甲状腺肿）的发生率，从而提高鱼体的生长速率。反之，碘缺乏对鱼体引起的负作用也得到证实，如缺乏碘在鱼幼虫变形初期会引起甲状腺活性降低，这已在大西洋比目鱼中得到确认[38]。本研究结果与上述研究结果相一致，由此可初步推断饲料中的碘能够通过甲状腺轴这一内分泌途径调节黄颡鱼的生长性能，这也为提高黄颡鱼养殖的经济效益提供了一个可行的途径。
+
+4结论
+
+$\textcircled{1}$ 本研究从黄颡鱼组织中成功克隆了TSHR 基因的cDNA全长序列，GenBank 登录号  
+为KT722732。$\textcircled{2}$ TSHR 基因在甲状腺组织中的相对表达量较高，其次是肝脏、肌肉和肠道，其他组  
+织中相对较少。$\textcircled{3}$ 饲料中添加碘化钾显著影响黄颡鱼的增重、特定生长率和饲料系数以及甲状腺 TSHR  
+基因的表达。  
+参考文献：  
+[1]华雪铭,闫大伟,周洪琪.壳聚糖通过甲状腺激素对草鱼免疫功能的调节[J].中国水产科学,2008,15(4):630-636.  
+[2]瞿璟琰,施华宏,刘青坡,等.污染物对鱼类的甲状腺激素干扰效应及其作用机制[J].生态毒理学报,2007,2(4):375-380.  
+[3]张颖,姚旋,宋宜云,等.甲状腺激素与代谢调控[J].生命科学,2013,25(2):176-183.  
+[4]LAM S H,SIN Y M,GONG Z,et al.Effects of thyroid hormone on the development ofimmune system in zebrafish[J].General and Comparative Endocrinology,2005,142(3):325-335.  
+[5]张晓娜,田华,汝少国.鱼类甲状腺轴对胚胎发育、仔鱼变态及性别分化的调控作用研究进展[J].中国海洋大学学报,2012,42(Suppl):94-101.  
+[6]RIBEIRO A R A,RIBEIRO L,S/ELE O,et al.Iodine and selenium supplementation increasedsurvival and changed thyroid hormone status in Senegalese sole (Solea senegalensis) larvaereared in a recirculation system[J].Fish Physiologyand Biochemistry,2012,38(3):725-734.
+
+[7] SARGENT JR,TOCHER D R,BELL JB.The lipids[M].3rd ed.//HALVER JE,HARDY R W.Fish Nutrition.San Diego:Academic Press,2002:259.
+
+[8]SAMPATH-KUMAR R,IJIRI S,KIGHT K,et al.Cloning and functional expression of a thyrotropin receptor from the gonads of a vertebrate (bony fish):potential thyroid-independent role for thyrotropin in reproduction[J].Molecular and Cellular Endocrinology,2000,167(1/2):1-9.   
+[9]PONCE M,INFANTE C,MANCHADO M.Molecular characterization and gene expression of thyrotropin receptor (TSHR) and a truncated TSHR-like in Senegalese sole[J].General and Comparative Endocrinology,2010,168(3):431-439.   
+[10]GROMMEN S V H,TANIUCHI S,DARRAS V M,et al.Identification of unique thyrotropin receptor (TSHR) splice variants in the chicken:the chicken TSHR gene revisited[J].General and Comparative Endocrinology,2008,156(3):460-463.   
+[11]JACOBS C,PIRSON I.Pitfals in the use of transfected overexpression systems to study membrane proteins function:the case of TSH receptor and PRA1[J].Molecular and Cellular Endocrinol0gy,2003,209(1/2):71-75.   
+[12]KURSAWE R,PASCHKE R.Modulation of TSHR signaling by posttranslational modifications[J].Trends in Endocrinology & Metabolism,2007,18(5):199-207.   
+[13]OBA Y,HIRAI T,YOSHIURA Y,et al.Cloning,functional characterization,and expression of thyrotropin receptors in the thyroid of amago salmon (Oncorhynchus rhodurus)[J].Biochemical and Biophysical Research Communications,20o0,276(1):258- 263.   
+[14]VISCHER H F,BOGERD J.Cloning and functional characterization of a testicular TSH receptor cDNA from the African catfish (Clarias gariepinus)[J].Journal of Molecular
+
+Endocrinology,2003,30(2):227-238.
+
+[15]GOTO-KAZETO R,KAZETO Y,TRANT J M.Cloning and seasonal changes in ovarian expression of a TSH receptor in the channel catfish,Ictalurus punctatus[J].Fish Physiology and Biochemistry,2003,28(1/2/3/4):339-340.
+
+[16]ROCHA A,GOMEZ A,GALAY-BURGOS M,et al.Molecular characterization and seasonal changes in gonadal expression of a thyrotropin receptor in the European sea bass[J].General and Comparative Endocrinology,2007,152(1):89-101.
+
+[17]中华人民共和国卫生部.GB/T 5009.5-2010食品安全国家标准 食品中蛋白质的测定[S].北京：中国标准出版社，2010.
+
+[18]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T6433-2006饲料中粗脂肪的测定[S].北京:中国标准出版社,2006.
+
+[19]中华人民共和国卫生部.GB/T 5009.4-2010 食品安全国家标准 食品中灰分的测定[S].北京：中国标准出版社，2010
+
+[20]中华人民共和国卫生部.GB/T 5009.3-2010 食品安全国家标准 食品中水分的测定[S].北京：中国标准出版社,2010
+
+[21]中华人民共和国国家质量监督检验检疫总局,中国国家标准化管理委员会.GB/T13882-2010 饲料中碘的测定 硫氰酸铁-亚硝酸催化动力学法[S].北京:中国标准出版社,2011.
+
+[22]STEPHENSON F H.Calculations for molecular biology and biotechnology:a guide to mathematics in the laboratory[M].2nd ed.New York:Academic Press,2010.
+
+[23]SEGALOFF D L,ASCOLI M.Thyroid-stimulating hormone/luteinizing hormone/follicle-stimulating hormone receptors[M].2nd ed.//Encyclopedia of Biological Chemistry.Waltham:Academic Press,2013:387-391.
+
+function modulation by thyroid hormones in healthy men and women aged 55-70 years[J].The Journal of Endocrinology,2009,202(1):55-63. [25]QUESADA-GARCIA A,VALDEHITA A,KROPF C,et al.Thyroid signaling in immune organs and cells of the teleost fish rainbow trout (Oncorhynchus mykiss)[J].Fish & Shellfish Immunology,2014,38(1):166-174. [26]WANG H C,KLEIN J R.Immune function of thyroid stimulating hormone and receptor[J].Critical Reviews in Immunity,2001,21(4):323-337. [27]KLEIN JR.Physiological relevance of thyroid stimulating hormone and thyroid stimulating hormone receptor in tissues other than the thyroid[J].Autoimmunity,2003,36(6/7):417-421. [28]WITT E M,LAIDLEY C W,LIU K K M,et al.Correlation between environmental iodide concentrations and larval growth,survival,and whole body concentrations of thyroid hormones and cortisol in Pacific threadfin (Polydactylus sexfilis)[J].Aquaculture,2009,289(3/4):357-364. [29]GENSIC M,WISSING P J,KEEFE TR,et al.Efects of iodized feed on stress modulation in steelhead trout,Oncorhynchus mykiss (Walbaum)[J].Aquaculture Research,2004,35(12):1117-1121. [30]PENGLASE S,HARBOE T,SELE O,et al.Iodine nutrition and toxicity in Atlantic cod (Gadus morhua) larvae[J].PeerJ,2013,1:e20. [31]RIBEIRO A R,GONCALVES A,COLEN R,et al.Dietary macroalgae is a natural and effective tool to fortify gilthead seabream fillets with iodine:effects on growth,sensory quality and nutritional value[J].Aquaculture,2015,437:51-59. [32]ROWZFR I DARROWSKI K IAROSZFWSK A M et al Fvaliation nf the viahilitv and
+
+growth of walleye embryos and larvae after antiviral iodine treatment[J].North American Journal of Aquaculture,2011,73(4):383-392.
+
+[33]RIEDEL C,LEVY O,CARRASCO N.Post-transcriptional regulation of the sodium/iodide symporter by thyrotropin[J].Journal of Biological Chemistry,2001,276(24):21458-21463.
+
+'34]VAYRE L,SABOURIN J C,CAILLOU B,et al.Immunohistochemical analysis of $\mathrm { \Delta N a ^ { + } / I ^ { - } }$ symporter distribution in human extra-thyroidal tissues[J].European Journal of Endocrinology,1999,141(4):382-386.
+
+[35]DE LA VIEJA A,DOHAN O,LEVY O,et al.Molecular analysis of the sodium/iodide symporter:impact on thyroid and extrathyroid pathophysiology[J].Physiological Reviews,2000,80(3):1083-1105.
+
+'36]BUREL C,BOUJARD T,KAUSHIK S J,et al.Effects of rapeseed meal-glucosinolates on thyroid metabolism and feed utilization in rainbow trout[J].General and Comparative Endocrinology,2001,124(3):343-358.
+
+37]MUSTAFA A,MACKINNON B M.Atlantic salmon,Salmo salar L.,and Arctic char,Salvelinus alpinus (L.):comparative correlation between iodine-iodide supplementation,thyroid hormone levels,plasma cortisol levels,and infection intensity with the sea louse Caligus elongatus[J].Canadian Journal of Zoology,1999,77(7):1092-1101.
+
+3]SOLBAKKEN J S,BERNTESSEN MHG,NORBERG B,et al.Different iodine and thyroid hormone levels between Atlantic halibut larvae fed wild zooplankton or Artemia from first exogenous feeding until post metamorphosis[J].Journal of Fish Biology,2002,61(6):1345- 1362.
+
+Thyrotropin Receptor Gene Cloning and Expression Response to Dietary Potassium Iodide Addition of Yellow Catfish (Pelteobagrus fulvidraco) WANG Chunling1,2ZHANG HongtalGAO Youling1\*QIAN Guoying1\* (1. College of Biological and Environmental Sciences, Zhejiang Wanli University,Ningbo 315100, China; 2.College ofFisheries and Life Sciences, Shanghai Ocean University, Shanghai 201306, China)
+
+Abstract: The aim of the present study was to characterize the cDNA ful-long sequence of thyrotropin receptor (TSHR) gene of yellow catfish (Pelteobagrus fulvidraco),and to determine the differential expression of TSHR gene in different tissues. In addition,the effects of dietary potassium iodide (KI) addition on TSHR gene expression and growth performance of yellow catfish were revealed. The rapid amplification of cDNA ends（RACE） technique was used to clone the cDNA full-long sequence of TSHR gene. Moreover,RT-qPCR technique was used to determine the relative expression level of TSHR gene. The KI adding levels were set to be 0 （control）,10,50 and $1 0 0 \mathrm { m g / k g }$ in four experimental diets, which were fed to yellow catfish for 27 days. The results showed as follows: The cDNA full-length sequence of TSHR gene was obtained, and it was 2 786 bp,including a complete open reading frame of 2 238 bp encoded a 745 amino acid residues.Blast online analysis indicated that the amino acid sequence of yellow catfish displayed $60 \%$ to $87 \%$ identity as compared with other known fish species. The analysis results of tissue differential expression of TSHR gene indicated that the highest relative expression level was in thyroid, followed by liver, muscle and intestine.The results of feding trial were showed that the relative expression level of TSHR gene in thyroid in $1 0 0 ~ \mathrm { { m g / k g } }$ group was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ , and the weight gain, specific growth rate and feed conversion ratio in 50 and $1 0 0 ~ \mathrm { { m g / k g } }$ groups were significantly higher than those in control group $( P { < } 0 . 0 5 )$ The results in this study imply that the dietary KI in the appropriate amount not only affects the expression of TSHR gene,but also promote the growth of yellow catfish effectively. Key words: yellow catfish (Pelteobagrus fulvidraco); potasium iodide; thyrotropin receptor; gene clone; gene expression

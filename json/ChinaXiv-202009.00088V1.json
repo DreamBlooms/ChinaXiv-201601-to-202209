@@ -1,0 +1,482 @@
+[
+    {
+        "type": "text",
+        "text": "基于分支切换并嵌套的混沌系统的超宽带信号设计分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈建国1,²，康海静1,²，兰英1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．成都理工大学 工程技术学院 电子信息与计算机工程系，四川 乐山 61400;2.核工业西南物理研究院，成都610041)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在混沌超宽带信号中使用高维复杂混沌系统可以增强信号的安全性，但是降低了混沌系统的易实现性，针对混沌超宽带中所用的混沌系统的复杂性与易实现性的矛盾，利用两种易实现的一维混沌映射基于混沌分支切换并嵌套的方式设计了一种低维易实现的混沌系统，Lyapunov 指数分析验证了这种系统在较宽的参数范围内具有混沌性。分析表明这种系统所产生的信号无法反映确定的映射关系不仅增强了混沌信号的复杂度，而且系统又不失易实现性。分析也表明这种混沌信号也具有良好的相关性，因此将这种混沌系统用来设计产生更加安全的混沌跳时超宽带信号。通过对这种混沌超宽带信号与一般的伪随机序列跳时超宽带信号的功率谱对比分析，它所包含的能够对其他传输系统产生干扰的强度较大的离散谱数量更少，故这种混沌超宽带信号将会具有更加广泛的应用领域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超宽带；混沌映射；嵌套；分支切换；功率谱 中图分类号：TN913 doi:10.19734/j.issn.1001-3695.2020.02.0060 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design and analysis of chaos UWB signal based on chaos branch switching and embedding ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Jianguo1,2, Kang Haijing1, 2, Lan Ying1, 2 (1.Dept.ofElectronicInformation&ComputerEngineeringoftheEngineering&technicalColegeofChengdu Universityof Technology,Leshan 61400,China; 2. Southwestern Institute of Physics, Chengdu 610041,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Usingthehigh-dimensionalcomplexchaoticsysteminthechaoticultrawideband signalcanenhancethesecurity ofthe signal,butreducetheeasyimplementationofthechaotic system.Inviewofthecontradictionbetweenthecomplexity andtheeasyrealizationof thechaoticsystemused inthechaoticultrawideband,this paper designedachaoticsystem with lowdimension and easyto implement by using two one-dimensional chaotic maps with easy implementation based on chaos branch switching and embeddng.Lyapunov exponent analysis shows that it is chaotic in a wide range of parameters.The analysis shows thatthesignal generatedbythesystemcannotreflect thedefinite mappingrelation,which notonlyincreases thecomplexityofchaoticsignal,butalso makesthesystemeasytoimplement.Theanalysisalsoshows thatthischaoticsignal has good corelation.Therefore this paper also generated more secure chaotic time hopping UWBsignal basedonthis chaotic system.Atthe same time,through thecomparative analysis ofthe power spectrumofthe chaotic UWB signal and the general pseudo-random time hoppng UWB signal,itcontains lessdiscrete spectrum which can produce interference to other transmission systems,and also makes the chaotic UWB signal have more extensive application fields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: UWB; chaotic map; embedding; branch switching; power spectrum. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超宽带信息传输技术的超宽带冲激无线电(IR-UWB)通常是直接用信息调制极窄脉冲的幅度或者位置进行信息的传输，这使得它具有很低的发射功率与很高的带宽，信号的功率谱密度很小，以至于淹没在噪声中，能够使传输的信号具有很低的截获概率，从而具有比较高安全性。这也使其成为室内无线通信产品以及无线传感器网络的网络互联与无线接入技术。为了区分这些网络中的终端，在IR-UWB中还需要使用一定的多址技术，常用的有跳时方式(TH-UWB)与直序方式(DS-UWB)[2]，其中所使用的多址序列码的优劣将直接影响IR-UWB信号的功率谱的平滑性与多址能力[3]，较好的平滑功率谱将具有较少的高幅值离散谱从而不易对其他系统干扰，完全随机的序列码具有良好的相关性从而使超宽带信号对其他用户或终端的多址干扰更小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "混沌系统具有极强的参数与初值敏感性，当其发生极其微小的变化，就可以产生很多完全不同的具有类白噪声以及宽功率谱的信号，可被广泛用于信息安全领域。由于如logistic 映射、Bernoulli映射、立方映射等离散混沌映射系统易于用DSP 器件[4]、FPGA器件[5] 等数字器件实现，因此经常被适用于数字混沌保密传输中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "混沌映射与超宽带信息传输方式的结合无疑将会是一个优异的超宽带信号产生技术方案，例如混沌脉冲位置调制超宽带[(CPPM-UWB)，它直接使用混沌信号来使极窄脉冲信号的脉冲间隔发生类随机的变化区分不同的用户或者终端，同时还要根据码元符号，决定脉冲信号是否要在这些间隔的基础上再进行延迟变化。混沌超宽带信号不仅仅实现了超宽带信号的多址携带信息的能力，同时由于混沌系统的参数与初值敏感性也增强了信息传输的安全性，如果接收端没有完全一致的混沌系统，那么这种通信具有极强的抗可破译性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然基于混沌超宽带进行信息传输的方式，保留了超宽带信息传输的优势，但是现有的混沌超宽带信号产生过程中使用的混沌系统在复杂性与易实现性还是具有不足的方面。例如，多采用如Tent映射、Bernoulli映射等具有确定映射关系的混沌映射进行混沌超宽带信号的产生[7\\~10]。这些具有确定映射关系的一维映射很容易被采取一定的时间序列预测方法破译，使信息的传输不再安全，所以通常可以基于这些简单的映射设计一些构造映射[11,12]，这些构造映射具有更好的混沌复杂性以及较宽的参数可变范围，还可以对这些参数进行优选增强应用中所使用的混沌信号的复杂性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于是本文利用logistic 映射[13]与一种具有分支结构形式的 Bernoulli映射[14,15]，采取基于混沌信号的分支切换并相互嵌套迭代的方式，构建了一类参数可变且无确定的映射关系的映射，但是却能够在较宽的参数范围内的产生混沌信号，文中通过Lyapunov指数验证其具有混沌性。这种新颖的混沌系统，虽维度不增加，但是不同的参数变化可成事实上的超混沌信号。构建的混沌映射产生的混沌信号的相关性分析也表明了将其用于混沌跳时脉冲位置调制超宽带信号(CTH-PPM-UWB)的产生，将会使超宽带信号具有低幅值离散谱的较为平滑的功率谱密度，因为映射关系中初值的不断改变形成事实上的非周期跳时序列，同时参数的改变将会使序列更加随机化，增强序列的非周期性，最后的功率谱仿真对比分析也验证了这种映射可以降低超宽带信号的功率谱中的离散谱，从而降低了多用户或多终端超宽带信息传输中的窄带与多址干扰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1分支切换并嵌套的混沌映射构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用Logistic映射与一种具有分支结构形式的Bernoulli映射衍生出的D-B映射来构造混沌映射。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Logistic 映射[3i是一种结构较简单的混沌映射，见式(1)：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n + 1 } = \\mu x _ { n } - \\mu x _ { n } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当参数 $3 . 5 7 < \\mu \\leq 4$ 时，Logistic 映射产生混沌时间序列信号，其值变化范围为[0,1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据 Bernoulli映射可得到一类推广的混沌映射[15],为分析方便，这里命名为E-B映射，如式(2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { x _ { n + 1 } = \\left\\{ \\begin{array} { l l } { \\displaystyle \\frac { x _ { n } } { \\alpha _ { 1 } } } & { 0 \\leq x _ { n } \\leq \\alpha _ { 1 } } \\\\ { \\displaystyle \\frac { x _ { n } - \\alpha _ { 1 } } { \\alpha _ { 2 } } } & { \\alpha _ { 1 } < x _ { n } \\leq 1 } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha _ { 1 } > 0 , \\alpha _ { 2 } > 0$ 且 $\\alpha _ { 1 } + \\alpha _ { 2 } = 1$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(1)(2)可构造一类参数可改变的一维映射。首先给出logistic映射初值 $x _ { n - 1 }$ 迭代出下一时刻的值 $x _ { n }$ ，把 $x _ { n }$ 作为选择E-B 映射分支的判断参数，同时还把 $x _ { n }$ 作为E-B 映射初值再次迭代出新的映射值 $y _ { n + 1 }$ ，接着把此映射值再次作为logistic映射初值迭代出下一次的分支选择参数，依此类推，从而不断的迭代产生映射序列。建立过程如式(3):",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l }  \\xi = \\mu _ { 0 } ( \\begin{array} { l } { ( M ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { x } , S , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { \\xi = \\mu _ { 0 } ( \\Delta _ { y } , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { \\xi = \\mu _ { 0 } ( \\Delta _ { y } , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\ { ( M _ { 0 } , ( \\Delta _ { y } , \\xi ) , \\xi ) } \\\\  \\ \\end{array} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，参数 $\\alpha _ { 2 } = 1 - \\alpha _ { 1 }$ ，随着logistic 映射的参数 $\\mu _ { \\mathrm { i } }$ 与E-B映射的参数 $\\alpha _ { \\mathrm { { l } } }$ 在变化时，就可以按照式(3)产生一类参数可变化的映射，从而产生不同的映射序列 $\\mid x _ { n - 1 } ,$ （20 $\\textstyle | x _ { n } , \\qquad $ （ $y _ { n + 1 } , x _ { n + 2 } , y _ { n + 3 } , x _ { n + 4 } , \\cdots$ 。为了分析的方便，把这种构建的映射称为“L-EB映射”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(3)可知，构建的L-EB映射具有如下特征：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)通过logistic 映射实现了E-B 映射的分支结构的混沌信号下的切换，使这种切换并没有确定的规律；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)每个映射产生的混沌序列又互相作为迭代初值进行本映射的迭代，实现了初值的无规律切换，也实现了两个映射关系的彼此嵌套；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)映射的参数是可以发生改变的，因此通过这种方式可构建出的映射并非一种，而是一大类映射，若能不断的改变映射的参数进行迭代，那么映射关系无疑将会更加的无规律可循。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)映射整体上并无确定的映射关系，不能轻易通过相空间分析重建映射关系，从而进行破解混沌逆解析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总之，以上四点特征可以保证构建映射关系不仅不是确定的，同时迭代与切换也并无确定的规律，增强了系统的保密性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 构建映射L-EB的混沌性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1Lyaponov指数分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lyapunov[3指数入可以描述相空间轨迹趋近或分离的整体程度，一般一维映射只有一个值，n维相空间情况下一般有n个λi值，其中正的Lyapunov 指数值反映系统是混沌系统，而且正值的大小与多少则反映了混沌信号的复杂程度，具有多个正的Lyapunov指数的系统为超混沌系统，它的动力学轨迹将更加复杂，会产生更加复杂多变的混沌信号，而这多见于高维混沌系统与非时滞混沌系统，但高维混沌系统的实现代价会增大。因此如果能够通过低维混沌系统，甚至一维混沌系统实现只有高维混沌系统才能产生复杂信号的目的，那么这无疑会降低系统的实现成本，同时也保证了一定的系统复杂度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文中设计的L-EB映射具有类似超混沌系统的效果，通过改变参数 $\\mu$ 与 $\\alpha _ { \\mathrm { { l } } }$ 组合，会有不同的正Lyapunov 指数，所以若采取变参的方式，相当于产生超混沌的结果。由于LEB 映射并无确定的映射关系，通常是利用“伯内廷”方法[13]分析Lyapunov 指数，如式(4)所示，其中 $d _ { 0 }$ 与 $\\boldsymbol { d } _ { k }$ 分别代表映射的初值以及第 $\\mathbf { k }$ 步的迭代值。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\operatorname* { l i m } _ { N \\to \\infty } \\frac { 1 } { N } \\sum _ { k = 1 } ^ { N - 1 } I n \\frac { d _ { k } } { d _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(4)可以得到混沌映射的 Lyaponov 指数谱，如图1(a)(b)分别描述了L-EB映射的Lyapunov指数随参数 $\\mu$ 与 $\\alpha _ { \\mathrm { { l } } }$ 的变换情况，可见参数 $\\mu$ 与 $\\alpha _ { \\mathrm { { l } } }$ 在一定变化范围内具有正的Lyapunov指数，证明了构建的L-EB 映射是混沌映射。其中图1(a)是固定参数 $\\mu { = } 3 . 7$ 而 $\\alpha _ { 1 }$ 发生变化时的Lyaponov 指数谱，然后利用图 1(a)中具有最大正Lyaponov 时的 $\\alpha _ { \\mathrm { { i } } }$ 参数值0.46，并固定它，然后改变参数 $\\mu$ ，得到图1(b)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过图1可以得出，L-EB映射随参数 $\\mu$ 以及 $\\alpha _ { \\mathrm { { i } } }$ 变化时，可以在比较宽的参数范围内得到正的Lyapunov指数，特别是虽然原来的logistic映射具有混沌性的参数范围是 $3 . 5 7 <$ $\\mu \\leq 4$ ，但从图1(b)看出，在 $\\alpha _ { \\mathrm { { l } } } = 0 . 4 6$ 且 $0 . 2 { < } \\mu \\leq 1 . 4 8$ 的参数范围时也可得到混沌映射，可见这种构建方式还可以扩展产生新混沌映射的原混沌映射的参数范围。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特别是若能通过一定的措施来改变参数，那么它就相当于具有多个正的Lyapunov指数，因而具有超混沌性，如用来生成跳时超宽带通信的跳时码，则可以产生超混沌跳时超宽带信号。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d88c7a08a10ae6feaf16c0f8c5c2995145872e425d17cf849d0536c48ac8ee78.jpg",
+        "img_caption": [
+            "图1L-EB 映射随参数 $\\mu$ 与 $\\alpha _ { \\mathrm { { l } } }$ 变化时的Lyapunov指数谱 Fig.1Lyapunov exponent spectrum ofL-EB mapping with parameter $\\mu$ and change "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2相关性分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据L-EB 映射在图1中的Lyaponov 指数谱，在迭代初始值为0.3与0.31时，选择能够产生混沌信号的参数$\\mu { = } 3 . 7$ ， $\\alpha _ { 1 } = 0 . 4 6$ ，则通过迭代可以得到L-EB 映射的序列x1与 $\\mathbf { x } 2$ ，然后计算分析序列x1的自相关( $\\mathbf { \\dot { x } } \\mathbf { 2 }$ 的自相关类似，不再分析)，得到图2(a)，计算任意白噪声序列的自相关，得到图 2(b)，对比图2(a)(b)，可以看出L-EB 映射具有类似白噪声信号的尖锐自相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47f10a4564f701cb06ad5f41efb7f72dd54010505d3cbb3e45df5aae6d26edfd.jpg",
+        "img_caption": [
+            "图2L-EB映射序列的自相关与高斯白噪声序列的自相关对比",
+            "Fig.2Autocorrelation comparison between L-EB mapping sequence and Gaussian white noise sequence ",
+            "图3白噪声序列的互相关与L-EB映射序列在参数以及初始值不同时的互相关之间的对比",
+            "Fig.3The correlation comparison between white noise sequence and L-EB mapping sequence with different parameters and initial values "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后计算序列x1与 $\\mathbf { x } 2$ 的互相关，得到图3(a)，而且在初始值不同时，序列的互相关性波动范围也比较低。然后在初值为0.3时，再次选择能产生混沌信号的L-EB 映射的参数 $\\mu = 0 . 3 5$ ， $\\alpha _ { 1 } = 0 . 4 6$ 时，通过迭代得到序列 $\\mathbf { x } 3$ ，计算序列x3与 $\\mathbf { x } 2$ 的互相关性，得到图3(b)，可见参数的变化也可以得到互相关性波动范围比较低的不同序列。为了对比白噪声序列的互相关性，计算任意白噪声序列之间的互相关性，得到图3(c)。对比图3(a)(b)(c)，可见当初值或者参数不同时产生的L-EB 映射序列也具有与白噪声序列类似的波动范围很窄的互相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在通过不同的序列码来区分多用户信息传输中的不同时，需要这些序列码具有良好的相关性，也就是序列码本身具有尖锐的自相关性，利于序列码的同步，应具有良好的互相关性，利于减少不同用户之间的多址干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3构建映射L-EB的信号复杂性与易实现的关系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一维简单混沌映射logistic与E-B映射易于用FPGA数字器件实现[15]，且能高效实现[5]。文献[16]说明了一种物理不可克隆的混沌映射logistic 的FPGA实现方法还可以增强混沌映射的抗攻击性，而L-EB 映射正是文献中涉及到易实现的映射通过分支切换并嵌套而成，因此只需要在这些实现方法的基础上通过简单数字器件进行合理的切换与控制就能用FPGA器件实现L-EB 映射。文献[17]正是给出了基于单片机的控制作用与FPGA器件实现了多混沌系统之间的切换，从而使产生的混沌信号具有时变性、多样性以及更加复杂的特点。但是它涉及到的系统是连续高维混沌系统，因此要首先进行离散化处理，其次由于每一个维度彼此之间通常耦合关系比较紧密，那么每一个维度都要在精确的时钟参与下同步实现，无疑增加了实现的难度，而L-EB映射可以直接利用文献中提供的实现方法基于数字器件的切换控制作用简单实现，但是由于每一时刻映射关系不确定以及无规律的分支切换迭代，这当然可以保证了基于此映射关系迭代出的信号是依然是也具有时变、多样以及复杂的特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.37 0.36 wwwwlwhwnyMuWrwunrpAmAuDAm 0.35 -200 -150 -100 -50 0 50 100 150 200 序列移位值n (a)不同初始值L-EB序列的互相关 (a) Cross correlation of L-EB sequences with different initial values ）互 0.4 /wwwWwA\\~w /WWW mmwWWWwww 0.38 0.36 ， -200 -150 -100 -50 0 50 100 150 200 序列移位值n (b)不同参数值L-EB序列的互相关 (b) Cross correlation of L-EB sequences with different parameter values （u）互 0.1 -0.1 -200 -150 -100 -50 0 50 100 150 200 序列移位值n (c)白噪声序列的互相关 (c) Cross correlation of white noise sequences ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时，L-EB映射在参数u以及 $\\alpha _ { \\mathrm { { l } } }$ 较宽的变化范围内都可得到正的Lyapunov 指数，如果将这些能够产生正lyapunov指数的参数对进行利用FPGA本身的特性，或者其他的数字器件进行预先存储，那么在分支切换迭代的过程中按照一定的时间间隔进行参数切换选择，那么可以进一步增强产生混沌信号的随机性从而增加信号复杂度。因此，参数对的多少、参数对的选择间隔、选择是否有规律等这些方式，都可以用来调节混沌信号的复杂性。当然这些方式的实现会在已经存在的现有实现方式的基础上，会稍微增加构建映射实现的难度，这需要进一步通过一定的硬件平台，如FPGA、DSP等数字器件实现手段来验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 混沌超宽带信号设计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1混沌跳时超宽带信号模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "直接利用调制信息直接对纳秒级时宽的窄脉冲信号的位置进行调制，在二进制信息传输方式下，可形成2PPM-UWB信号，如式(5)所示，本文就是在此基础上实现L-EB 映射的混沌跳时超宽带信号设计与分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( t ) = \\sum _ { k = - \\infty } ^ { \\infty } p \\left( t - k T _ { s } - b _ { k } \\varepsilon \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $T _ { \\mathrm { s } }$ 为脉冲的平均重复周期， $\\boldsymbol { b } _ { \\boldsymbol { k } }$ 为信息数据，为0或者1，为1时脉冲信号出现了一个偏移 $\\varepsilon$ ，信息数据为0时，脉冲则没有偏移。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高斯脉冲的二阶导数形式不含直流分量，常用于UWB信号的成形脉冲，式(5)中使用高斯脉冲的二阶导数形式，如",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(6)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( t ) = A { \\Bigg [ } 1 - 4 \\pi { \\Bigg ( } { \\frac { t } { \\tau } } { \\Bigg ) } ^ { 2 } { \\Bigg ] } e ^ { - 2 \\pi { \\Big ( } { \\frac { t } { \\tau } } { \\Big ) } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中，A为脉冲的幅度， $\\tau$ 为时间衰减常数，它变小，则脉冲宽度会被压缩，从而带宽会增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了形成满足UWB信号特征的频谱，还需使用伪随机序列码一步对信息进行扩频调制，针对PPM调制方式，采用跳时方式能够引起脉冲在很短的时隙上的位置发生近似随机的跳变，相当于进一步增强了信息传输的保密性。在二进制通信中出现了2PPM-TH-UWB信号形式了，如式(7)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( t ) = \\sum _ { k = - \\infty } ^ { \\infty } p \\big ( t - k T _ { s } - c _ { k } T _ { c } - b _ { k } \\varepsilon \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { c } _ { k }$ 就是PN码， $T _ { c }$ 就是随机码一个码片的时间，可见它确实引起了脉冲的近似随机的偏移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "跳时码的选择非常重要，它的优劣直接影响UWB系统的性能。a）跳时PN码还要在多用户或者多终端信息传输中起到区分不同用户或者终端的作用，因此PN的随机性就特别重要，如果不同用户的跳时码具有完全不相关的特性，即互相关值很小时，那么就可以很大程度的减小多址干扰，同时为了序列码的同步，还要有良好的自相关性能；b)UWB系统由于带宽非常大，不可避免的会对处于同一频带范围内的其他信息传输系统进行干扰，如果携带信息的脉冲具有周期性，或者弱周期性时，那么其功率谱中就会含有比较强的离散谱，造成对其他系统形成较强的干扰，因此必须尽量使PPM-UWB中的脉冲传输位置进行随机的时移，这能起到对PPM-UWB中的离散谱线平滑减小的目的，从而减小对其他系统的干扰。但是由于一般的伪随机序列码构成的跳时码具有一定的周期性，虽然可以通过增加TH码的长度来达到继续降低离散谱的目，但只要不能够使跳时码完全随机，那么脉冲的位置就不能完全随机，那么离散谱就不能完全消除，而且增加跳时码的长度也使产生跳时码的器件成本增加了。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于混沌映射良好的相关性以及混沌映射序列更加容易产生与实现，所以可以混沌映射序列用来代替伪随机序列码。当把L-EB 混沌映射产生的序列代替 2PPM-TH-UWB 中的PN码时，那么可以形成了2PPM-CTH-UWB。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，当L-EB混沌映射的参数改变时，那么在参数不同时，系统的输出的变化可以非常复杂，也能使混沌系统具有难辩识性，这进一步增强了信息传输的保密性。利用式(7)，构建了混沌超宽带信号发射模型如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fdf2e9e2557e0d76d308dddc0ecf005a1750ff09c5437d81504720e7fc8e33d.jpg",
+        "img_caption": [
+            "图4L-EB 混沌映射下的2PPM-CTH-UWB信号发射模型 Fig.42PPM-CTH-UWB signal emission model based on L-EB chaotic map "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4中，信息数据就是二进制信息码元，取值0或者1符号；重复编码器是一种码率为 $1 / N _ { s }$ 的信道编码器，实现重复编码1码元 $$ 重复 $\\mathrm { N _ { s } }$ 次；偏移选择器实现了码元的PPM调制，若为1码元，则脉冲有附加时移 $\\varepsilon$ ，否则没有；跳时选择器实现脉冲在跳时码下的跳时偏移选择，会有 $c _ { k } \\mathrm { T _ { c } }$ 的跳时偏移，T.为跳时码的码片时间；L-EB映射混沌跳时码发生器基于L-EB映射序列，生成整数跳时码，在参数与初值不断改变时几乎可以生成无限状态的近似随机的跳时码；脉冲成形器的单位冲激响应就是式(6所示的高斯脉冲的二阶导数形式，它与经过重复编码、PPM调制编码以及跳时编码后形成的数据符号卷积后，即可得到最后的超宽带信号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2混沌跳时超宽带信号功率谱仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了对比分析伪随机序列码生成的跳时码下的2PPM-TH-UWB信号与利用L-EB映射生成的跳时码下的2PPM-CTH-UWB的信号的功率谱区别，基于式(7)设置如下的参数：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设置信号发射功率 $- 3 0 \\mathrm { d B m }$ ，信号的采样率 $5 0 \\times 1 0 ^ { 9 } \\mathrm { s }$ ，由于信息码元的多少以及具体值并不影响跳时超宽带信号的波形，所以为了仿真的超宽带信号波形容易观察，这里只设置二进制码元数量为5，并不设定具体的码元值，重复编码器${ \\mathrm { N } } _ { \\mathrm { s } } { = } 5$ ，则表示一个信息码元变成了5个重复的码元，那么需要传输5个脉冲，假设重复编码前一个码元持续时间为 ${ \\mathrm { { T } } } { \\mathrm { { b } } }$ 在不降低码元速率的情况下，则一个脉冲在时间轴上的占有时间为 $\\mathrm { { T _ { s } = T _ { b } / N _ { s } } }$ ，或者说平均发生时间为 $\\mathrm { { T _ { s } } }$ ，它可以称为帧重复时间。另外PPM调制中偏移选择器的偏移量 $\\varepsilon = 0 . 2 5 \\times 1 0 ^ { - 9 } \\mathrm { s }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设置成形脉冲的时间衰减常数为 $\\tau = 0 . 2 5 \\times 1 0 ^ { - 9 } \\mathrm { s }$ ，一般情况下脉冲非零值的持续时间为时间衰减常数的2.2倍时，导致的脉冲信号的截断误差比原始能量小50dB，本文选择脉冲非零值持续时间为2倍的时间衰减常数，即为 $0 . 5 \\times 1 0 ^ { - 9 } \\mathrm { s }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "另外，由式(7)可知，每个脉冲的发生时间为$t = k T _ { s } - c _ { k } T _ { c } - b _ { k } \\varepsilon$ ，为了避免前后2个脉冲重复，那么跳时偏移量与PPM偏移量之和必须满足条件 $c _ { k } T _ { c } - b _ { k } \\varepsilon < T _ { s }$ ，通常PPM偏移量 $\\varepsilon$ 小于码片时间 $\\mathrm { T _ { c } }$ ，为此可以把一个帧的时间 $\\mathrm { { T _ { s } } }$ 按照码片时间Tc分成若干个时隙。另外为了对比脉冲的随机偏移对平滑离散谱的影响，这里设置两组帧重复时间与码片时间，第一组： $\\mathrm { T _ { s } } { = } 1 0 \\times 1 0 ^ { - 9 } \\mathrm { s }$ ， $\\mathrm { T _ { c l } } { = } 2 \\times 1 0 ^ { - 9 } \\mathrm { s }$ ；第二组：Ts不变，$\\mathrm { T } _ { \\mathrm { c } 2 } { = } 1 \\times 1 0 ^ { - 9 } \\mathrm { s } _ { \\mathrm { \\odot } }$ 。那么第一组码片时间下，可以将1帧分为5个时隙，无PPM调制时，脉冲的位置则会随机分布在5时隙起始位置，第二组，可以将1帧分为10个时隙，无PPM调制时，脉冲的位置则会随机分布在10个时隙起始位置。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于第一组的码片时间 $\\mathrm { T _ { c l } }$ 可以将L-EB映射的序列映射成值范围为[0,4]的整数跳时码，基于第二组的码片时间 $\\mathrm { T } _ { \\mathrm { c } 2 }$ 可以将L-EB映射的序列映射成值范围为[0,9]的整数跳时码。基于第一组仿真得出的混沌超宽带信号如图5(b)所示，第二组则如图5(c)所示，图5(a)则是周期为5时伪随机序列构成的跳时码下的超宽带信号。对比发现，图5(a)具有明显的周期性，周期就是随机序列构成的跳时码的周期5，而利用LEB 映射生成的跳时码可以做到无周期性，重复编码后的码元有多长，混沌映射形成的跳时码就可以生成相应的长度且无周期存在，这有利于减少超宽带信号中所包含的强度大的离散谱的数量，这从图6可以看出。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f636c112e2c9c94738bebbb7b27ff558baf5aee8cbef17fd174329fa42011ca1.jpg",
+        "img_caption": [
+            "图5生成的超宽带信号的时域波形",
+            "Fig.5Time domain waveform of the generated UWB signal "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别针对图5(a)(b)(c)跳时超宽带信号的功率谱如图6(a)(b)(c)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "x1015   \nH/ 4 2 25 -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 频率/Hz x 100 (a)2PPM-TH-UWB脉冲信号功率谱密度（每帧5个时隙） x1015 (a) Power spectral density of 2ppm-cth-uwb pulse signal (5 time slots per frame)   \n（H/ \\* 2 0 -2.5 -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 频率/Hz x 10 (b)2PPM-CTH-UWB脉冲信号功率谱密度（每帧5个时隙） X10-15 (b) Power spectral density of 2ppm-cth-uwb pulse signal (5 time slots per frame )   \nH率 05 -2.5 2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 频率/Hz x10 (c)2PPM-CTH-UWB脉冲信号功率谱密度（每帧10个时隙） (c) Power spectral density of 2ppm-cth-uwb pulse signal (10 time slots per frame) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过图6可以看出，利用伪随机序列构成的跳时码由于其周期性，超宽带信号含有明显的离散谱，且离散谱的强度明显强于L-EB映射构成的跳时码下的超宽带信号的离散谱，L-EB映射形成的跳时码的长度越长，所映射的整数跳时码状态数越多，则脉冲在每帧的位置就越随机，那么其得到的离散谱强度大的谱线就越少，强度也就越弱，功率谱就变得比较平滑，从而对其他传输系统的干扰就越小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "简单一维映射虽然易实现，但产生混沌信号不复杂，基于此，本文利用简单的一维映射logistic 映射对Bernoulli映射衍生的E-B一维映射进行分支切换并相互嵌套，构造了一种参数可改变且无确定映射关系的一大类一维映射L-EB。通过Lyapunov指数分析验证了系统具有混沌性，这种混沌映射可以解决易实现与系统复杂性之间的矛盾。将信息的保密安全性蕴涵于要携带信息传输的信号中，不用格外进行信息加密算法的实现，无疑是一种更好的选择。因此对于短距离无线通信网络使用的跳时超宽带信息传输方式中的安全问题，如果利用混沌系统产生跳时码，那么由于混沌系统的初值与参数敏感性，那么这种跳时码下的超宽带信号的破译无疑是困难的，这实际就是一种比较好的把信息安全蕴涵于信号中的方案，而且混沌系统产生的跳时超宽带信号经过仿真分析，由于本映射下的混沌信号具有良好的相关性，也有利于多址干扰的减小，同时对跳时超宽带信号中的离散谱的平滑也更加明显，有利于减少对其他传输系统的干扰。因此本文中设计的混沌超宽带信号方案在诸如室内家庭无线通信产品、传感器网络等信息传输网络中进行信息的安全与保密通信具有较强的实用性意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Win MZ,Scholtz R A.Ultra-wide bandwidth time-hopping spreadspectrum impulse radio for wireless multiple-access communications [J]. IEEE Trans Communications,2000,48(4): 678-689.   \n[2]Yin Hoe Ng,Hafizal Mohamad,Teong Chee Chuah.Subband adaptive chip equalization for interference suppression in DS-UWB [J].IEICE Electronics Express,2007,4(5):153-158   \n[3]李辉，宋耀良，杨余旺，等．混沌脉位调制UWB系统及信号分析 [J].电波科学学报，2007,22(03):533-537.(Li Hui,Song Yaoliang, Yang Yuwang,et al. Chaotic pulse position modulation UWB system and signal analyzing[J]. Chinese Journal of Radio Science,2o07,22(03): ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "533-537.) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[4]董论，于歆杰，郭静波，等．基于DSP与DDS 的混沌信号源的设计 与实现[J].清华大学学报：自然科学版,2004,44(07):873-875,879. (Dong Lun, Yu Xinjie,Guo Jingbo,et al. Design and implementation ot a chaotic signal generator using DSP and DDS [J]. Journal of Tsinghua University: Scienceand Technology,2004,44 (07): 873-875,879.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[5] Hongjun Wang,Bingbing Song,Jing Pan,et al.FPGA Design and Applicable Analysis of Discrete Chaotic Maps. International Journal of Bufication and Chaos,2014,24 (4): 1450054-1\\~15.   \n[6] Sushchik M,Jr Rulkov N F,Larson L,et al. Chaotic pulse position modulation: A robust method of communication with chaos [J]. IEEE Communications Letters,2000,4:128-130.   \n[7] 马英杰，魏占祯，杨建喜．多址干扰抑制混沌超宽带脉冲设计[J]. 计算机应用与软件,2013,30(05):257-259.(MaYingjie,Wei Zhanzhen, Yang Jianxi. Chaotic UWB pulse design for multi-site interference suppression [J]. Computer Applications and Software,2013,30 (05): 257-259.)   \n[8]王越．基于 FPGA 和 SRD 的超宽带 CPPM 雷达信号源的设计与研 究[D]．太原：太原理工大学,2019.(Wang Yue.Design and research of ultra-wideband CPPM radar signal source based on FPGA and SRD [D].Taiyuan: Taiyuan University of Technology,2019.)   \n[9]廖洪运，王玲.CPPM-UWB 系统Rake 接收机性能分析[J].科技导 报，2009,27 (16):69-73.(Liao Hongyun,Wang Ling.Performance analysis for rake receiver of CPPM-UWB system [J]. Science & Technology Review,2009,27 (16): 69-73.)   \n[10]向新，王勇，易克初，等．跳时超宽带信号的功率谱特性分析[J]. 信号处理,2007,23(03):352-355.(Xiang Xin,Wang Yong,Yi Kechu, et al. Power spectral density of time-hopping ultra wide bandwidth signal [J].Journal of Signal Processing,2007,23 (03): 352-355.)   \n[11]徐东明，王园慧．一种复合混沌序列生成算法[J]．西安邮电大学学, 2017,22 (05): 84-88,93. (Xu Dongming,Wang Yuanhui. A composite chaotic sequence generation algorithm[J]. Journal of Xi'an University of Posts and Telecommunications,2017,22 (05): 84-88,93.)   \n[12]张兴周，陈建国，等．一种基于混沌混合映射通信系统的降噪及安 全性能分析．哈尔滨工程大学学报,2005,26(5):663-667.(Zhang Xingzhou, Chen Jianguo,et al. Performance analysis of de-noising and security for a chaotic communication system based on mixing several chaotic maps [J]. Journal ofHarbin Engineering University,2oo5,26 (5): 663-667.)   \n[13]黄润生．混沌及其应用[M].武汉：武汉大学出版社,2000:112-171. (Huang Runsheng.Chaos and its application.Wu Han: Wuhan University Press, 2000: 112-171.)   \n[14]Li Zhizhong，Qiu Shuisheng.Discrete-time chaotic circuitsfor implementation of tnt map and bernouli map [J]. Journal of Electronic Science and Technology,2005,3 (3): 249-252.   \n[15]刘文波．混沌工程应用基础研究[D]．南京：南京航空航天大学, 2001.(Liu Wenbo.Research of engineering foundation application based on Chaos [D]. Nanjing:Nanjing University of Aeronautics and Astronautics, 2001.)   \n[16]黄春光，程海，丁群．基于PUF的Logistic 混沌序列发生器[J].通 信学报,2019,40 (03):182-189.(Huang Chunguang,Cheng Hai, Ding Qun.Logistic chaotic sequence generator based on physical unclonable function [J].Journal on Communications,2019,40 (03):182-189.)   \n[17]张建广，康守强，纪斌，等．单片机和FPGA实现的多混沌吸引子切 换系统[J]．计算机工程与应用，2014,50(18):70-74.(Zhang Jianguang,Kang Shouqiang,Ji Bin,et al. Implementation of chaotic atractors switched systems by using MCU and FPGA.Computer Engineering and Applications,2014,50 (18): 70-74.) ",
+        "page_idx": 4
+    }
+]

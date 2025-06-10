@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "基于贝叶斯网络的遥感云用户行为认证方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "成路肖1，阎继宁²，焦阳1，马艳，王玉柱4(1．燕山大学 信息科学与工程学院，河北 秦皇岛 066004;2.中国地质大学(武汉）计算机学院，武汉 430074;3．中国科学院遥感与数字地球研究所，北京 100094;4.中国地质大学(北京）信息工程学院，北京 100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对遥感云服务平台中不可信用户的入侵现象，结合遥感云用户行为特点和贝叶斯网络算法设计了一种用户行为认证方案。该方案论述了遥感云平台用户的行为认证机制，并且根据用户行为特点建立了用户行为认证集，结合贝叶斯网络算法预测特点和用户行为属性建立了用于认证等级预测的贝叶斯网络模型，把该模型中分析得出的用户行为属性的权重信息应用到用户等级预测算法中，使该算法针对遥感云用户认证更安全准确，从而实现对用户行为认证等级的预测。仿真实例表明该方法能够准确识别出不可信用户，有效保证遥感云服务平台的安全性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：用户行为认证；贝叶斯网络；遥感云服务平台；行为分析；云计算中图分类号：TP393 doi:10.3969/j.issn.1001-3695.2017.09.0903",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bayesian network method for remote sensing cloud user behavior authentication ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cheng Luxiao1, Yan Jining², Jiao Yangl,Ma Yan³†,Wang Yuzhu4 (1.Schoolof Information Science&Enginering,Yanshan University，Qinhuangdao Hebei O66o4,China;2.Schoolof Computer Science,China UniversityofGeosciences,Wuhan43o074,China;3.InstituteofRemote Sensing&DigitalEarth, ChineseAcademyofSciences,Beijing0o94,China;4.ShoolofInformationEnginering,China UniversityofGeosciences, Beijing 100083, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the intrusion of untrusted users inremote sensing cloud platform,this paper designed auser behavior authenticationscheme basedonthe characteristicsofremote sensing cloud userbehavior and Bayesiannetwork algorithm.The scheme discused the users'behaviorauthentication mechanismofremotesensing cloud platform,and according to the users' behaviorcharacteristics,theschemeestablishedanauthentication set on users’behavior.Combining with the predictive characteristicsofbayesiannetwork algorithmanduserbehaviorproperties tosetupa Bayesiannetworkmodelforauthentication grad prediction.The weightinformationofuserbehavioratributesanalyzedinthis modelisappliedtotheuser gradeprediction algorithm,which made the algorithm more secure and accurate forremote sensing cloud user authentication safer accurately,so as torealizethepredictionofuserbehaviorauthenticationlevel.Simulation examplesshow thatthe model is efectiveto identify untrusted users accurately,and can ensure the security of remote sensing cloud platform. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:user behavior authentication; Bayesian network; theremote sensing cloud platform;behavior analysis；cloud computing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，在人们享受着云计算带来的高效率、低成本的同时，也面临着严峻的信息安全挑战。遥感云服务平台是基于云计算技术，将遥感数据、信息产品、处理算法技术与计算资源打包成可计量的服务，用户可以通过网络按照个人需求和自身爱好获得相应的应用及服务资源[I]，主要包括多源遥感数据分发共享、高性能数据处理及产品生产、云存储、遥感计算平台供给等服务。然而，由于用户是对云服务提供者提供的软件环境、网络基础性设施和计算平台等进行直接操作，所以攻击者对云资源软硬件的影响和破坏远比利用因特网进行共享资源要严重的多，例如IaaS（instrument as a service,基础设施即服务），服务商提供的是一个包含一些组件和功能的共享设施，如存储、操作系统和服务器等对于该系统的使用者而言并不是完全隔离的，当遭受攻击时，全部服务器对攻击者将会是透明的[2]。又如当用户访问云存储服务时，首先需要进行身份认证保证访问用户身份的正确性和合法性。只有对用户身份实现安全正确的认证，才能确保后续访问和使用遥感云服务的对象是合法用户，但是合法的登陆用户也不保证是安全的用户，因此用户行为是否可信，如何对云端用户行为可信度进行评估预测是当下保证云计算安全的重要内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云计算的应用领域中，很多学者研究了用户行为信任评估方法在云计算环境下的应用问题，例如文献[3]提出一种行为信任预测的博弈控制机制，首先利用贝叶斯网络对用户的行为信任进行预测，然后根据预测结果和博弈分析相结合，推导出了一种纳什均衡策略。文献[4]提出一种根据用户行为和平台环境特征评估信任级别的方法。文献[5]提出一种基于动态信任管理的云安全认证服务机制，将PKI技术和动态信任管理方法相结合实现云环境下的安全认证。文献[6]提出一种基于用户鼠标行为的身份认证方法，采用层次结构的分类决策模型对用户身份进行认证。但是该认证机制的制定并不能针对一个特定的云计算服务平台。以上的这些模型都部分解决了在不同应用背景下用户信任及评估等问题，但是每个模型和方法的训练集提取具有针对性，所以这些模型都缺乏灵活的信任评价机制，无法满足不同领域用户行为评估时所具有的个性化特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对遥感云服务平台用户行为特征在传统的身份认证基础上结合行为认证机制，提出一种基于贝叶斯网络模型的用户行为认证方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 遥感云服务平台",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感云服务平台，基于云计算技术，整合各种遥感信息和技术资源，将遥感数据、信息产品、应用软件、计算及存储资源作为公共服务设施，通过网络为用户提供一式站的空间信息云服务。遥感云服务平台基于OpenStack云计算框架开发，其系统架构从下到上大致分为五层，分别是资源层、管理层、计算层、业务层和服务层，如图1所示。其中资源层通过虚拟机管理程序将大量用网络连接的计算资源、网络资源和存储资源构建成虚拟化资源池，形成遥感云系统内部可以统一管理的虚拟CPU、虚拟内存、虚拟磁盘、虚拟对象存储空间及虚拟网络等虚拟资源。管理层主要采用OpenStack计算框架，利用其核心组件实现对虚拟资源的管理。计算层主要提供虚拟集群计算环境，包括海量遥感数据存储、集群计算和调度、计算环境监控等服务。业务层主要包括多中心遥感数据管理、遥感数据处理及产品生产高性能计算平台两部分。此外，基于SaltStack管理工具等还可以实现虚拟计算环境的自动部署与系统扩容。最终实现的遥感云原型系统主界面如图2所示，为用户提供的服务括：遥感数据服务、信息产品服务、遥感数据处理服务、云平台服务、云存储服务。其中遥感数据服务指多源遥感数据的采集、存储、检索、下载等；信息产品服务指遥感信息产品的生产和分发服务[7；遥感数据处理服务基于MPI并行计算机机制，可以根据用户提交的数据处理需求实现海量遥感数据的高性能在线处理，并可以根据计算任务量扩展计算资源；云平台服务负责根据用户提出的虚拟遥感计算环境的需求，为用户创建虚拟计算资源、定制遥感计算模板实例或个性化实例；云存储服务主要满足遥感云数据存储的需求，并且可以根据需求对自己的云存储进行动态扩容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，为保证遥感云服务平台的安全性，除了在资源层部署防火墙、在计算层进行虚拟计算集群监控外，还需要在业务层之上进行用户行为特征监控。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般对于一个特定的系统或服务平台而言，每个用户的行为状态和操作习惯都遵循一定的规律。例如遥感云平台中合理的行为轨迹包括标准遥感数据及遥感产品的检索、浏览、订购、下载和转存[9]，然后利用遥感云高性能遥感数据处理及产品生产平台进行在线数据处理及产品生产，或者在线定制个人遥感虚拟计算环境进行数据处理，并将最终的处理结果存入个人云存储。当用户行为异常时则需要对用户行为进行认证，认证不通过则拒绝提供服务。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感云服务门户 云安全  \n服务层遥感数据服务 遥感数据处理服务 遥感信息产品服务 遥感计算平台服务 云存储服务用户遥感数据管理 高性能遥感数据处理及产品生产平台 遥感云虚拟基 行为  \n业务层 基埋 数据集成管 数据 工作备主管产品产 存储 特征理 归一化数据库 产品库 知识库 虚拟机管理 虚拟SaltStack 计算  \n计算层 分布 SQL/NoSQL 虚拟集群计算环境penMPI Ganglia + Nkgios 扩展 云计 集群控  \n管理层 OpenStack云计算框架Keystone Nova Neutron Glance Swift Cinder Dashboard Ceilometer  \n资源层计算资源 网络资源 存储资源",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/61a3536f0f57d7492823e6185159714c40fa90334eacae24baf2e186dd30a3b0.jpg",
+        "img_caption": [
+            "图2遥感云服务平台主界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 用户行为认证方案",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户行为认证包括身份认证和行为认证两部分。根据遥感云用户个性化行为特征，设计出更细粒度的行为信任认证方案。行为认证的设计思路是：将服务器日志和客户端数据相结合的方法提取出用户行为数据信息，包括通过Web日志获取用户浏览过和订购过的数据及服务信息，并且通过服务器日志获取用户进入遥感云平台的浏览行为记录等。用户在提交系统访问请求时需要先进行身份认证，若身份认证失败，则直接拒绝提供服务；若用户身份认证成功，则进入到行为认证阶段。行为认证指服务器获取用户实时行为证据，将行为证据与存储在数据库中的行为认证集进行匹对验证[8]。在行为认证过程中，根据行为证据定位到特定的行为认证集，结合实时行为证据采用贝叶斯网络(Bayesiannetwork)计算每个行为认证集信任等级，最后根据决策算法计算出用户行为信任等级。遥感云服务平台用户行为认证方案具体流程如图3所示。详细步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)当终端用户向服务器发送服务请求时，行为认证机制首先进行身份认证，对于身份认证成功且不是首次登录的用户，允许访问并且实施实时行为监控，执行步骤b)；对于身份认证成功且是首次登录访问云平台的用户，允许授权访问，实施重点行为监控，执行步骤d)；对于身份认证失败的用户，则拒绝服务访问。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)获取用户行为状态信息，进行基于行为状态认证集的认证，对于状态认证不成功的拒绝其访问；对于通过状态认证集认证的用户，允许授权访问，执行步骤c)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）查找用户历史行为认证信息，如果用户历史行为认证状态为\"一般可信\"则进入预警防范，允许授权访问，但是要进行重点实时行为监控，执行步骤d)；如果历史行为认证状态为\"不可信”，则拒绝访问。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/94895800999a8406e3ff189940bcf0672b70cbba89dbae2e5dc6b585b1da6c10.jpg",
+        "img_caption": [
+            "图3用户行为认证流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)获取用户实时行为证据，实现行为内容认证集和行为习惯认证集的认证，根据贝叶斯网络模型计算出各行为认证集的信任等级，最后根据决策方法计算出用户行为信任等级，若“可信”且继续访问，执行步骤b)；若“可信”或“一般可信”且终止访问，则执行步骤e)；若“一般可信”且继续访问，则允许访问并且实施行为重点实时监控，执行步骤b)；若“不可信”，则终止用户访问。更新用户行为认证集及用户历史可信认证状态信息。更新用户行为认证集及用户历史可信认证状态信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e）更新用户行为认证集及用户历史可信认证状态信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 用户行为认证集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户行为认证集具有个性化的特点，并且对保证行为认证的准确性至关重要，因此确定行为认证集是行为认证过程中非常重要的内容之一[9]。认证过程中需要获取实时用户行为证据与用户行为认证集进行对比，用户行为认证成功的概率取决于行为认证集的划分、定义和行为相关的集合覆盖率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户行为认证集包含以下几个方面：行为状态认证集(SA)、行为内容认证集(CA)、行为习惯认证集(HA)。其中行为状态认证集是由引发行为状态异常的行为属性构成，如用户登录地点、客户端IP地址、操作系统版本和访问时间突然与历史行为状态不一致导致的行为状态异常。其中PaaS层和SaaS层的行为状态异常检验都需要对照操作系统、IP地址和访问的时间这几个证据属性，IaaS层只提供基础设施服务，因此不需要对客户端的操作系统这一证据属性进行认证。行为内容主要包括用户资源的使用情况，如资源使用的种类和数量等。在云计算环境的不同服务模式下，资源的内容不同，在IaaS层主要指处理、存储、网络等基础性的计算资源，在PaaS层指服务器、操作系统、中间件等开发环境，正常情况下，终端用户使用资源的数量、种类不会有很大变化，如果出现了较大的变化，则有可能用户的行为出现异常，需要进行行为认证[10]。特别在 SaaS 服务模式中，不同的终端用户其具体的行为内容是不一样的。行为习惯主要包括用户经常访问的网站，习惯进入资源的页面引用和习惯访问的资源等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2用户行为认证过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户行为认证过程包括下列三个主要过程：a）行为前的用户身份认证、行为状态认证。b）行为中的实时动态状态认证，包括行为状态认证、行为  \n内容认证、行为习惯认证。c）行为后的证据认证集更新，为下一次的行为认证做准备。用户认证机制如图4所示。具体步骤为：a）通过客户端获取用户实时行为，并将行为证据通过网络  \n传输到用户行为认证服务器端；b）用户行为认证服务器对捕获到的用户行为进行认证；c）通过服务器进行行为认证集的行为认证；返回行为认证  \n集的认证结果；d）返回认证结果;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户名=user 用户名=user1.行为检测与证据获取 2.用户行为认证4.返回认证结果 3.用户行为认证集信任结果用户名=user 用户名=user 用户行为认证集客户端 服务器",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户在访问系统时首先进行身份认证，若用户的身份不可信，则直接拒绝提供服务；若用户的身份可信且非首次访问，则进入到行为认证阶段；若用户身份可信并且是首次访问，则允许授权访问，进行重点实时行为监控。行为认证就是将用户和系统在交互中获取的实时行为证据提交给相应的服务器，服务器将提交的行为证据与存储在数据库中的用户行为认证集进行匹对，根据认证结果确认用户行为是否可信[10]，若认证结果可信则向用户提供信息服务，若不可信则拒绝提供信息服务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 用户行为信任等级预测",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1用户行为信任预测的贝叶斯网络模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户行为信任预测是基于用户的历史交往行为证据之上，结合用户当前的实时行为，对用户进行信任等级预测。贝叶斯网络是一个有向无环图，它由代表变量的节点及连接这些节点的有向边组成[11,13]，构成用户行为信任等级预测的贝叶斯网络模型见",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，变量节点包括要预测的用户各行为认证集及其包含的行为属性集，其中行为认证集包括行为状态认证集简称SA、行为内容认证集简称CA、行为习惯认证集简称HA。行为认证集的子节点是对应的用户行为属性，如用户行为状态认证集SA及其包含的行为属性有客户端信息、IP信息、登录信息等；用户行为内容认证集CA及其包含的行为属性有遥感数据处理软件使用类型、下载遥感数据数量、订购遥感产品种类、订购遥感虚拟计算环境类型（农业专题、林业专题、矿产专题、海洋专题等)；用户行为习惯认证集HA及其包含的行为属性有常访问的遥感云服务类型、常下载的遥感数据或产品类型、常订购的遥感虚拟计算环境类型、页面引用等。贝叶斯网络可以将用户行为信任等级预测和用户行为属性用有向图直观的表示出来[3]，同时将用户历史和实时行为统计数据以条件概率的形式融入模型，这样将用户行为的先验知识和后验数据无缝的结合在一起，并且贝叶斯网络中的各节点之间是相互影响的，任何节点的值的改变都会影响其他节点，因而能满足不同需求细粒度组合的推理和预测效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f235d977a7f72f0c600b7a58533d17662dea7b99a1800caa8841f14632480eb.jpg",
+        "img_caption": [
+            "图4用户行为认证机制",
+            "图5用户行为信任预测的贝叶斯网络基本模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2用户行为属性等级的先验概率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在利用贝叶斯网络进行用户行为认证时，需要先计算出用户行为属性的先验概率。本文将用户行为信任T、行为状态 SA、行为内容CA、行为习惯HA以及各行为认证集对应的行为属性等节点划分为 $L$ 个信任等级，并对这些信任等级从高到低赋予编号 $i ( i = 1 , 2 , 3 \\dots L ) ,$ 数组下标表示不同的取值范围，因此 $T _ { i }$ 、$S A _ { i }$ ， $C A _ { i }$ 、 $H A _ { i }$ 、 $S _ { i }$ 分别表示整体行为信任、行为状态认证集、行为安全认证集、行为习惯认证集和行为属性的范围。 $\\left| T _ { i } \\right| , \\left| S A _ { i } \\right|$ ）$\\left| C A _ { i } \\right|$ 、 $\\left| H A _ { i } \\right|$ 、 $| S _ { i } |$ 分别表示预测用户交往历史中整体信任、各行为认证集和行为属性的值分别落在 $T _ { i } , S A _ { i } , C A _ { i } , H A _ { i } , S _ { i }$ 范围内的次数。 $n$ 表示交往总次数， $P ( T _ { i } ) \\mathrm { ~ , ~ } P ( S A _ { i } ) \\mathrm { , ~ } P ( C A _ { i } ) \\mathrm { , ~ } P ( H A _ { i } ) \\mathrm { , ~ }$ $P ( S _ { i } )$ 分别表示他们的概率，这些符号的含义在全文中都适用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用户行为认证集等级的先验概率计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( T _ { i } ) = \\frac { \\mid T _ { i } \\mid } { n } \\big ( 1 \\leq i \\leq 3 \\big ) , \\mathcal { \\Dag } \\mathrm { H } \\sum _ { i = 1 } ^ { 3 } \\ d { \\bf p } ( \\mathrm { T _ { i } } ) = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算用户行为属性集等级的先验概率，其计算方法与计算用户行为认证集等级的先验概率的方法类似。行为属性信任等级的先验概率 $P ( S _ { i } )$ 为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( S _ { i } ) = { \\frac { \\mid S _ { i } \\mid } { n } } { \\big ( } 1 \\leq i \\leq L { \\big ) } , { \\dot { \\mathcal { H } } } \\mathbb { H } { \\underset { i = 1 } { \\overset { L } { \\sum } } } \\mathbf { p } ( \\mathbf { S _ { i } } ) = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3行为认证集的条件概率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了计算先验概率外，还需要各行为认证集等级的条件概率。认证集等级的条件概率计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( e / h ) = \\frac { p ( h , e ) } { p ( h ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "它表示在满足 $h$ 的条件下满足 $\\mathbf { \\Psi } _ { e }$ 条件的概率。以计算$p ( S _ { i } | C A _ { j } )$ 条件概率为例，它表示行为内容认证等级为 $j$ 的条件下，行为属性节点落在 $S _ { i }$ 范围内的概率，其计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( S _ { i } \\vert C A _ { j } ) = \\frac { P ( S _ { i } , C A _ { j } ) } { P ( C A _ { j } ) } = \\frac { \\vert S _ { i } I C A _ { j } \\vert / n } { \\vert C A _ { j } \\vert / n } = \\frac { \\vert S _ { i } I C A _ { j } \\vert } { \\vert C A _ { j } \\vert }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由以上计算方法得到的各个行为属性集等级的先验概率和条件概率可以得到行为认证集信任等级的概率。下面在单行为属性条件下，以预测行为内容认证集信任等级为例，其他行为认证集计算方法与此类似。计算行为内容认证集中行为属性节点落在 $S _ { j }$ 范围内的条件下，行为内容认证等级为i的概率${ P ( C A _ { i } | S _ { j } ) }$ 。利用贝叶斯公式得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r l } & { P ( C A _ { i } \\mid S _ { j } ) = { \\frac { P ( S _ { j } \\mid C A _ { i } ) P ( C A _ { i } ) } { p ( S _ { j } ) } } } \\\\ & { = { \\frac { ( \\mid S _ { j } \\ I C A _ { i } \\mid / \\mid C A _ { i } \\mid ) ( \\mid C A _ { i } \\mid / n ) } { \\mid S _ { i } \\mid / n } } } \\\\ & { = { \\frac { \\mid C _ { j } \\ I C A _ { i } \\mid } { \\mid S _ { j } \\mid } } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于多个行为属性条件下，以预测行为内容认证集为例，其他行为认证集信任等级预测类似。假设有行为内容认证集包含四个行为属性分别为 $S I$ 、 $S 2$ 、S3、 $S 4$ ，分别落在 $S I _ { j }$ 、 $S 2 _ { k }$ 、",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$S 3 _ { m }$ 、 $S 4 _ { n }$ 的条件下，行为认证集CA信任等级的预测，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { p } ( \\mathrm { C A } _ { \\mathrm { i } } \\left| \\mathrm { S 1 } _ { \\mathrm { j } } , \\mathrm { S 2 } _ { \\mathrm { k } } , \\mathrm { S 3 } _ { \\mathrm { m } } , \\mathrm { S 4 } _ { \\mathrm { n } } \\right. ) = \\frac { \\mathrm { p } ( \\mathrm { S 1 } _ { \\mathrm { j } } , \\mathrm { S 2 } _ { \\mathrm { k } } , \\mathrm { S 3 } _ { \\mathrm { m } } , \\mathrm { S 4 } _ { \\mathrm { n } } \\left| \\mathrm { C A } _ { \\mathrm { i } } \\right. ) \\mathrm { p } ( \\mathrm { C A } _ { \\mathrm { i } } ) } { \\mathrm { p } ( \\mathrm { S 1 } _ { \\mathrm { j } } , \\mathrm { S 2 } _ { \\mathrm { k } } , \\mathrm { S 3 } _ { \\mathrm { m } } , \\mathrm { S 4 } _ { \\mathrm { n } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\left. { = \\frac { \\left( \\left| \\mathrm { S } \\right. _ { \\mathrm { j } } \\mathrm { I } \\mathrm { S } 2 _ { \\mathrm { k } } \\mathrm { I } \\mathrm { S } 3 _ { \\mathrm { m } } \\mathrm { I } \\mathrm { S } 4 _ { \\mathrm { n } } \\right| / \\left| \\mathrm { C } \\mathrm { A } _ { \\mathrm { i } } \\right|  \\left( \\left| \\mathrm { C } \\mathrm { A } _ { \\mathrm { i } } \\right| / \\mathrm { n } \\right) } { \\left| \\mathrm { S } 1 _ { \\mathrm { j } } \\mathrm { I } \\mathrm { S } 2 _ { \\mathrm { k } } \\mathrm { I } \\mathrm { S } 3 _ { \\mathrm { m } } \\mathrm { I } \\mathrm { S } 4 _ { \\mathrm { n } } \\right| / \\mathrm { n } } } } \\\\ & \\right){ = \\frac { \\left| \\mathrm { S } 1 _ { \\mathrm { j } } \\mathrm { I } \\mathrm { S } 2 _ { \\mathrm { k } } \\mathrm { I } \\mathrm { S } 3 _ { \\mathrm { m } } \\mathrm { I } \\mathrm { S } 4 _ { \\mathrm { n } } \\mathrm { I } \\mathrm { C } \\mathrm { A } _ { \\mathrm { i } } \\right| } { \\left| \\mathrm { S } 1 _ { \\mathrm { j } } \\mathrm { I } \\mathrm { S } 2 _ { \\mathrm { k } } \\mathrm { I } \\mathrm { S } 3 _ { \\mathrm { m } } \\mathrm { I } \\mathrm { S } 4 _ { \\mathrm { n } } \\right| } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4行为信任等级的计算方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在计算出每个行为认证集的信任等级后，然后根据图形化的贝叶斯网络分析出各行为认证集的权重信息，最后根据多项式的计算方法得出用户行为信任等级 $T$ 为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\sum _ { i = 1 } ^ { i } C _ { i } W _ { i } ( W _ { i } \\geq 0 , \\sum _ { i = 1 } ^ { i } W _ { i } = 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $C _ { i }$ 代表第 $i$ 个行为认证集的信任等级， $W _ { i }$ 代表第 $i$ 个行为认证集的权重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 认证方法安全性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "安全性是认证方法中最重要的问题。该行为认证方案的安全性主要体现在两个方面： $\\textcircled{1}$ 从整个认证流程上分析，针对不同情况给出了更具体的策略，对于通过身份认证的用户，对其每个行为请求都进行行为信任预测，如超出可信范围则拒绝该用户的行为请求操作，在认证流程上保证了认证的安全性。 $\\textcircled{2}$ 从认证算法上分析，通过用户行为构建的贝叶斯网络模型分析出的行为属性权重信息，将该行为属性权重信息和贝叶斯网络算法相结合，避免了算法的主观性和不确定性，使该算法更具有针对性，针对该平台更具有安全性，能够更准确的预测出遥感云平台恶意行为用户，保证整个认证过程的安全性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 用户行为信任等级预测实例与分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据以上提出的用户行为信任等级预测方法，下面将通过一个实例来演示预测模型的有效性。根据用户 $U$ 与遥感云服务平台的交互统计207组数据，某时刻，用户 $U$ 请求访问服务器S,现通过模型预测在某些特定行为属性认证集的条件下用户 $U$ 的行为信任等级。行为信任划分为三个等级：信任、一般信任、不信任。下面给出该用户的行为内容信任等级预测过程。其中该用户行为证据落在不同行为属性区间频数（S1、S2、S3代表三个不同的行为属性）见表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1)行为认证集信任等级的计算",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上面得到的用户行为交互数据信息，利用式(2)可以计算出网络中各节点的先验概率，其行为属性节点的先验概率见表2，同理行为认证等级节点T的条件概率表见表3。再由式(4)计算出各证据属性的条件概率，得出每个证据属性的条件概率表CPT。得出了所有节点的先验概率和子节点的条件概率，这样在计算行为认证集的信任等级预测的时候，对于任意一组观测值都有相应的先验概率和条件概率，分别将其带入式(5)就可以得到所有的后验概率，最后取最大概率值作为每个行为认证集的信任等级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d67cef5e9c06e02fb7e96f215a2930023e07f88f665ba4e83aab1c8476f46db7.jpg",
+        "table_caption": [
+            "表1用户行为证据落在行为属性集区间的频数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>范围</td><td>S1频数</td><td>范围</td><td>S2频数</td><td>范围</td><td>S3频数</td></tr><tr><td>S11</td><td>33</td><td>S21</td><td>47</td><td>S31</td><td>36</td></tr><tr><td>S12</td><td>73</td><td>S22</td><td>98</td><td>S32</td><td>89</td></tr><tr><td>S13</td><td>101</td><td>S23</td><td>62</td><td>S33</td><td>82</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a4f2e4a37b3247a4059b15b5a612232a3d348485ff5c2281eac8dd1d7ab8528.jpg",
+        "table_caption": [
+            "表2行为属性节点的先验概率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>节点</td><td>先验概率</td><td>节点</td><td>先验概率</td><td>节点</td><td>先验概率</td></tr><tr><td>S11</td><td>33/207</td><td>S21</td><td>47/207</td><td>S31</td><td>36/207</td></tr><tr><td>S12</td><td>73/207</td><td>S22</td><td>98/207</td><td>S32</td><td>89/207</td></tr><tr><td>S13</td><td>101/207</td><td>S23</td><td>62/207</td><td>S33</td><td>82/207</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/567111795a8a4ef309ffd28e119109716fc27f7ac6e4383557c00a2613adcc96.jpg",
+        "table_caption": [
+            "表3行为认证节点的先验概率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">乙</td><td>1</td><td>I</td></tr><tr><td></td><td></td><td></td><td>P(T)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2)用户行为信任等级的计算",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据上面提到的用户行为信任等级的预测步骤，利用贝叶斯网络模型分析得出各行为属性的贝叶斯网络结构关系图，如图6所示。从该贝叶斯网络结构图中分析出每个行为属性对最后用户行为信任等级预测的权重信息。该实验中用户行为属性权重分布图如图7所示，得出的各个行为属性的权重值分别为：页面引用权重为0.225，浏览地址URL权重为0.190，访问时间权重为0.190，字节数权重为0.165，使用资源权重为0.225，客户端信息权重为0.072。根据行为属性的权重值，利用加权平均的算法计算出每个行为认证集的权重值，该实验得出的行为状态认证集的权重分别为：行为状态认证集权重 $\\mathrm { W } _ { \\mathrm { s } } { = } 0 . 3 9 2$ ，行为内容认证集权重 $\\mathrm { W } _ { \\mathrm { c } } { = } 0 . 4 0 2$ ，行为习惯认证集权重 $\\mathrm { W _ { h } } { = } 0 . 2 0 6$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee2499cd7879dbb88f2e4e1870d469032150d7b6d47052b9e70e128824df5c95.jpg",
+        "img_caption": [
+            "Bayesian Network ",
+            "图6贝叶斯网络分析结构",
+            "图7行为属性权重分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b983e71f8c5ac49e1a56cd5cbf49ccb047031f34e0e0139722780104d4b327fa.jpg",
+        "img_caption": [
+            "Variable Importance "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本次会话结束后，根据分析出的权重值利用式(7)计算出用户U最终预测的行为信任等级为2\"一般可信”。在结束本次会话后，更新行为证据数据库，为下一次用户行为认证做准备。同时，当该用户继续访问时，则对他的每个操作行为请求重新认证，以确保该用户行为的可信性，保证用户的安全性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该实验根据遥感云服务平台用户行为特点建立了三种用户行为认证集。根据贝叶斯网络条件独立性假设特点及行为认证与行为属性之间的因果关系建立预测用户行为信任等级的贝叶斯网络模型，根据模型可以对用户行为进行细粒度的用户行为认证集的信任等级预测。文中利用贝叶斯网络分析出用户行为属性对信任等级预测结果的权重信息，最后利用决策方法计算出用户信任等级。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用户行为是云计算环境下网络安全领域研究的重要方向，在用户行为认证中身份认证是整个信息安全的基础。但是传统的身份认证无法阻止合法用户的恶意行为入侵。本文论述了基于贝叶斯网络的遥感云服务平台用户行为认证过程，融合了贝叶斯网络推理技术来求解用户行为信任等级问题，在身份认证的基础上结合贝叶斯网络模型实现了用户行为认证。贝叶斯网络推理技术把行为信任等级问题根据变量与属性之间的因果依赖关系进行了分解。由于贝叶斯网络的条件独立假设特征，使得贝叶斯网络推理技术求解问题时只需要考虑当前节点与其父节点之间的关系，简化计算并且有利于准确地估算概率分布，提高预测的准确性。但是这类方案在以后也会面临不少攻击，由于研究与使用的经验缺乏,其面临的攻击以及防御攻击的可行性方案还需要进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]李小宁，李磊，金连文，等．基于OpenStack 构建私有云计算平台[J].电信科学,2012,28(9):1-8.  \n[2]ReichertA.PaaS的未来、应用及其安全性.[EB/OL].(2014-9-02)[2017-09-05].https://searchcloudcomputing.techtarget.com.cn/5-10646/.  \n[3]田立勤，林闯．可信网络中一种基于行为信任预测的博弈控制机制[J]计算机学报,2007,30(11):1930-1938.  \n[4]邹冰玉，张焕国，郭曦，等．可信网络连接中一种基于可信度的细粒度授权模型[J].武汉大学学报：理学版，2010,56(2):147-150.  \n[5]朱莉蓉，陈宁江，何佩聪，等．基于动态信任管理的云用户行为认证服务系统[J].广西大学学报：自然科学版，2015,40(6):1485-1493.  \n[6] 徐剑，李明洁，周福才，等．基于用户鼠标行为的身份认证方法[J]计算机科学,2016,43(2):148-154.  \n[7]李良，田立勤，李君建.云计算环境下用户行为的认证与预测[J].计算机系统应用,2016,25(6):125-130.  \n[8]陈亚睿.云计算环境下用户行为认证与安全控制研究[D].北京：北京科技大学,2012.  \n[9] 陈亚睿，田立勤，杨扬．云计算环境下动态用户行为认证的机制、模型与分析[J]．系统仿真学报,2011,23(11):2302-2307.  \n[10]赵洁，肖南峰，钟军锐．基于贝叶斯网络和行为日志挖掘的行为信任控制[J].华南理工大学学报：自然科学版,2009,37(5):94-100.  \n[11]田立勤．网络用户行为的安全可信分析与控制[M].北京：清华大学出版社,2011:144-152.  \n[12]魏中强，徐宏喆，李文，等．基于最大信息系数的贝叶斯网络结构学习算法[J].计算机应用研究,2014,31(11):3261-3265.  \n[13]王晓菊，田立勤，赵竞雄．基于物联网的用户行为认证机制与分析[J].南京理工大学学报：自然科学版,2015,39(1):70-77.  \n[14] Tang H,Mantao W. User identity authentication based on the combinationof mouse and keyboard behavior [J].International Journal of Security andIts Applications,2016,10 (6): 29-36.  \n[15]募春棣，叶俊．基于数据挖掘的贝叶斯网络[J]．软件学报,2000,11(5):660-666.  \n[16]Abramson M,Aha D W.User authentication from Web browsing behavior[C]//Proc ofFLAIRS Conference.2014.  \n[17] Tian LQ,Lin C,Ni Y.Evaluation of user behavior trust in cloud computing[C]//Proc of IEEE International Conference on Computer Application andSystem Modeling.2010:V7-567-V7-572.  \n[18]冯登国，张敏，张妍，等．云计算安全研究[J].软件学报,2011,22(1):71-83.  \n[19] Goel N K,Jha C.Analyzing users behavior from Web access logs usingautomated log analyzer tool [J].International Journal of ComputerApplications,2013,62(2): 29-33.  \n[20] Brosso I,Neve AL,Bressan G,et al.A continuous authentication systembased on user behavior analysis [C]//Proc of IEEE Ares'1O InternationalConference on Availability,Reliability,and Security.201o:380-385.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

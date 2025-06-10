@@ -1,0 +1,343 @@
+# 愤怒情绪对延迟折扣的影响：确定感和控制感的中介作用
+
+宋锡妍 程亚华 谢周秀甜 龚楠焰刘雷(宁波大学心理学系暨研究所；宁波大学群体行为与社会心理服务研究中心，浙江 宁波 315211)
+
+摘要本研究基于评估倾向理论，通过3项实验考察了特定负性情绪(愤怒)对延迟折扣的影响，并探究确定感和控制感评估倾向在这一关系中的作用。实验1考察愤怒情绪对延迟折扣的影响，结果发现，愤怒组被试的延迟满足倾向显著强于恐惧组和控制组。实验2采用实验因果链设计考察确定感和控制感评估倾向在愤怒情绪影响个体延迟折扣中的作用，结果发现，愤怒情绪可以有效增强个体的确定感和控制感(实验 2a)，同时确定感和控制感能够增强个体的延迟满足倾向(实验 2b)。实验3采用中介测量设计考察确定感和控制感评估倾向在愤怒情绪影响个体延迟折扣中的作用，结果发现，确定感和控制感评估倾向在愤怒情绪影响个体延迟折扣中起完全中介作用。本研究结果表明，当个体进行跨期决策时，体验到与确定感和控制感有关的偶然愤怒情绪会增强其延迟满足倾向。本研究对探究特定负性情绪对个体延迟折扣的影响具有一定的启示意义。
+
+关键词 愤怒，延迟折扣，跨期决策，评估倾向理论，负性情绪 分类号 B849:C91
+
+# 1引言
+
+在日常生活中，人们经常需要做出决策。这些决策行为既可以发生于某个特定时间节点，也可以发生于不同的时间节点，后者即为跨期决策(IntertemporalChoice)，它是指个体通过对发生于不同时间节点的成本与收益的心理权衡而做出选择的过程(Frederick et al.,2002)。亚当斯密曾指出，跨期决策不仅影响个人的健康财富和生活幸福感，也决定着一个国家的经济繁荣程度，即无论是个人对其健康、教育、婚姻等重大生活的抉择，还是政府对其社会经济、政治、文化、环境等重大国计民生问题的决策都具有很强的跨期性，追求短期价值还是追求长期价值显然关乎到个人和国家的成长、发展乃至命运。跨期决策的核心内容是延迟折扣，即个体对发生于不同时间节点的成本与收益的心理权衡做出选择时，总是倾向于赋予将来时间节点的成本与收益更小的权重(Green&Myerson,2004)。目前，已有研究者在气候与环境、经济政策、退休储蓄、投资、健康以及教育等领域对延迟折扣现象展开了系列研究(Chen etal.,2005;Frederick et al.,2002;Laibson,2001; Li et al.,2011；刘雷等,2014)，这有助于人们做出更加理性、更加科学的判断和决策。
+
+古希腊哲学家毕达哥拉斯指出，“愤怒以愚蠢开始，以后悔告终”，说明人类早期思想家已认识到愤怒情绪对人类决策行为的影响。当代心理学关于愤怒情绪影响决策的研究主要基于两个视角，其一是由决策事件特性所诱发的愤怒情绪对决策行为的影响，其二是与决策事件并无直接关系的愤怒情绪对决策行为的影响，这也是本研究的研究视角。现有研究者已在风险决策(Druckman & McDermott, 2008; Lench et al.,2011; Lerner & Keltner, 2000)、道德决策(Small&Lerner,2008)、心理理论(观点采择)(Todd etal.,2015;Wiltermuth& Tiedens,2011)、礼物赠送决策(De Ho0ge,2017)和助人行为(杨昭宁等,2017)等领域对愤怒情绪如何影响人类决策行为进行了大量研究。跨期决策作为决策领域中一个重要的研究方向，目前少有研究考察愤怒情绪如何影响个体的延迟折扣。因此，本研究试图考察偶然体验到的愤怒情绪对延迟折扣的影响及其内在机制。
+
+# 1.1负性情绪与延迟折扣
+
+以往国内外关于情绪影响延迟折扣的研究，主要以情绪维度理论为基础，以情绪效价(积极/消极)维度为重点，考察情绪对延迟折扣的影响，但结论不尽一致(刘雷，索涛,2018)。有的研究发现，负性(消极)情绪可提高跨期决策任务中长期价值的折扣率。例如，王鹏和刘永芳(2009)的研究发现，负性情绪诱发组被试的延迟折扣率显著高于无情绪诱发的控制组被试，说明负性情绪降低了被试对长远价值的估计，进而表现出对价值的短视倾向。最近，Guan 等人(2015)的研究结果也获得了相同的结论，即相对于正性情绪和中性情绪启动条件，在负性情绪启动条件下，个体更倾向于选择价值较小的即刻奖赏物，而放弃价值较大的延迟奖赏物。然而，也有研究发现，负性情绪可降低长期价值的折扣率。例如，李晓明和谢佳(2012)的研究发现，在高冲突决策条件下，相比于正性情绪和中性情绪，个体在负性情绪状态下具有更强的延迟价值选择倾向。此外，Luo 等人(2014)也获得了类似的结果。这些结论冲突的研究有一个共同点，是均采用了一般负性情绪状态的诱发技术，而没有考虑这些负性情绪的具体形态(如，愤怒情绪和恐惧情绪等)。因此，不同研究结论的差异可能是这些研究诱发的是不同形态的负性情绪，而不同形态的负性情绪可能对延迟折扣的影响模式并不相同。
+
+少量研究考察了不同形态的负性情绪对延迟折扣的影响。Lermer 等人(2013)采用情绪视频材料诱发被试的悲伤和厌恶情绪状态。结果发现，相比于中性情绪状态，悲伤情绪状态下被试更倾向选择价值较小的即刻奖赏物，而厌恶情绪状态则无差异。还有研究者采用情绪视频材料(余升翔等,2016)和自传回忆任务(余升翔等,2017)诱发被试的恐惧情绪状态。结果发现，恐惧情绪状态显著降低了个体等待的耐心，表现为更高的延迟折扣率。Zhao 等人(2017)采用特质-状态愤怒问卷考察了特质愤怒和状态愤怒情绪对跨期决策的影响。结果显示，对于低特质愤怒情绪的个体，相对于处于暂时的高愤怒情绪状态，他们处于低愤怒情绪状态时偏好较小的立即奖赏；当个体处于暂时的高愤怒情绪状态时，相对于低特质愤怒个体，高特质愤怒个体偏好较小的立即奖赏。最近，方铖豪等人(2019)采用情绪面孔图片诱发被试的厌恶和恐惧情绪。结果发现，与中性面孔相比，呈现厌恶情绪面孔使个体倾向于选择较小的立即奖赏。上述研究采用不同的负性情绪诱发材料，分别考察不同形态的负性情绪对延迟折扣的影响。
+
+# 1.2愤怒情绪、评估倾向理论与延迟折扣
+
+愤怒情绪在决策中得到关注主要有以下几点原因：首先，愤怒情绪是一种人们在日常生活中最常见的情绪之一，以往研究多探究诱发愤怒情绪的原因(Fischhoffetal.,2005)，而忽略愤怒情绪对人们随后决策行为的影响；第二，愤怒情绪能够在很大程度上吸引人们的注意力(Solomon,1990; Tavris,1989),并且人们经常将其作为一种决策线索(Clark et al.,1996; Knutson,1996; Tiedens,2001)；第三，愤怒情绪具有强大的影响力，一旦产生，不仅会影响人们当下所做决策，也会影响人们在与愤怒无关情境中的判断和选择(Lermer et al.,2003;Lermer &Tiedens,2006)。延迟折扣是日常生活中普遍存在的一种决策现象，已有研究仅探究性考察特质愤怒和状态愤怒对延迟折扣的影响(Zhao et al.,2017)，但缺乏对其作用机制的深度探讨。
+
+评估倾向理论(Appraisal-TendencyFramework,ATF)认为情绪与特定的评估倾向有关。这些评估倾向反应了引发每一种情绪的事件的核心含义，其决定特定情绪对个体判断与决策的影响(Smith & Ellsworth,1985;Lermer& Keltner,2001; Winterich et al.,2010)。评估倾向理论主要借鉴了Smith 和 Elsworth(1985)的理论，其区分了情绪的六个认知评估维度：愉悦感(即事件引发高兴/不高兴的程度)、确定感(即事件的可预测性和可理解度)、控制感(即事件被个人/情境所能控制的程度)、注意活动(即事件吸引/阻止个人注意的程度)、预期努力(即需要/不需要个人付出努力的程度)和他人责任感(即相对于自我，他人对事件所负责任的程度)六个维度1。不同评估维度对每一种具体情绪的作用各不相同，其中对情绪起主导作用的评估维度被称为核心评估维度(Core-AppraisalTheme)，该核心评估维度可激发个体对未来事件形成一种内隐的认知评估倾向，因此情绪对决策的影响是通过评估倾向实现的。只有当核心评估维度与所要进行的判断和决策任务的特性相匹配(即匹配原则)时，情绪才能对随后的判断与决策产生影响(Han et al.,2007)。前人已经基于评估倾向理论考察了愤怒情绪对某些决策领域的影响。研究发现，愤怒情绪会使个体有更少的助人行为(杨昭宁等,2017)、更认为他人的观点有吸引力进而更愿意评价他人观点(Wiltermuth& Tiedens,2011)、表现出更加严厉的判断(Small&Lerner,2008)以及减少礼物赠送的行为(De Hooge,2017)等。
+
+扩展到跨期决策领域，还没有人基于评估倾向理论，考察愤怒情绪对延迟折扣的影响。Smith 和 Ellsworth(1985)研究发现，愤怒情绪与低愉悦感、高他人责任感、高确定感、高注意活动、高预期努力和高控制感有关。由此可知，愤怒作为一种基本情绪，与高确定感和高控制感相关。与此同时，确定感和控制感与跨期决策中的认知因素(远期选项的未知风险和低控制感)有关。例如，研究发现，在跨期决策中，奖赏等待时间越长意味着得不到的风险越大，延迟奖赏被认为是有风险的、不安全的选项(Benzion et al.,1989;Luhmann et al.,2008;She et al.,2010)；大量研究也表明控制感在跨期决策中扮演着重要的角色，研究发现，与高控制感的个体相比，低控制感个体在跨期决策中更倾向于选择价值更小的立即奖赏(Berms etal.,2007; Casey et al.,2011; Figner et al.,2010; Hare et al.,2009；索涛等,2018)。因此，本研究推测情绪的确定感和控制感评估维度可能是影响延迟折扣的关键评估维度，即确定感和控制感评估维度可以解释愤怒情绪对延迟折扣的影响。
+
+# 1.3 研究思路
+
+基于情绪维度研究取向的观点，愤怒情绪应该与其他负性情绪类似，对延迟折扣有相同的影响；然而，评估倾向理论认为，情绪对决策的影响会受到匹配原则的限制，只有在核心评估维度与所要进行的判断和决策任务的突出属性相匹配时，情绪才能够对判断与决策产生影响。在六种评估维度中，情绪的确定感和控制感维度可能会影响个体的延迟折扣(Benzionet al.,1989; Berns et al.,2007; Casey et al.,2011; Figner et al.,2010; Hare et al.,2009; Luhmannet al.,2008; She etal.,2010；索涛等,2018)。因此，基于评估倾向理论，不同形态的负性情绪应该通过确定-控制感维度对延迟折扣产生不同影响。基于 Smith 和Ellsworth(1985)的研究，本研究选取愤怒(高确定-控制感)、恐惧(低确定-控制感)两种负性情绪和愉悦(高确定-控制感)这种正性情绪进行下面的研究。实验1通过自传回忆任务诱发个体的愤怒和恐惧情绪状态，然后测量其在跨期决策任务中的反应。实验1假设，相比于中性情绪状态，愤怒情绪状态促使个体选择价值较大的延迟奖励，而恐惧情绪状态促使个体选择价值较小的立即奖励。实验2通过实验因果链设计考察确定-控制感维度是否是愤怒情绪影响延迟折扣的潜在机制。首先考察相比于中性情绪状态，愤怒情绪状态能否提高个体的确定-控制感，而恐惧情绪状态能否降低确定-控制感(实验 2a)；然后考察相比于低确定-控制感，高确定-控制感能否降低个体的延迟折扣率(实验 2b)。实验3独立操纵情绪的确定-控制感和情绪效价，运用中介测量设计在排除效价因素的基础上论证愤怒情绪通过确定-控制感维度影响个体的延迟折扣。
+
+# 2实验1：愤怒情绪对延迟折扣的影响
+
+# 2.1方法
+
+# 2.1.1 被试
+
+基于实验1的单因素被试间设计，采用G\*power3.1.9.4，在显著性水平 $\mathtt { a } = 0 . 0 5$ 且中等效应 $( f = 0 . 2 5 )$ 时，预测达到 $80 \%$ 的统计力水平的总样本量至少为159名。通过广告招募自愿参与本实验的某高校大学生共 184 名，随机分为愤怒情绪诱发组(以下简称愤怒组)、恐惧情绪诱发组(以下简称恐惧组)和未诱发情绪组(以下简称控制组)。此外，因本研究关注特定情绪对延迟折扣的影响，故若被试在情绪操纵性检验(详见材料及程序部分)中的目标情绪维度上选择"根本没有”，即认为情绪诱发失败，应剔除此数据。剔除无效数据后，剩余有效数据共173 名(女性 89 名)，被试年龄在 $1 8 { \sim } 2 5$ 岁 $( M = 2 1 . 8 6 , S D = 2 . 8 2 )$ 之间，其中愤怒组55名、恐惧组59名、控制组59名。所有被试均无神经系统或精神疾病史，裸眼视力或矫正视力正常，自愿参加实验并签署知情同意书。实验结束后，给予被试相应实验报酬。
+
+# 2.1.2 实验设计
+
+采用单因素被试间实验设计，自变量为情绪类型(愤怒/恐惧/中性情绪)，因变量为被试在跨期决策任务中的延迟折扣率k。
+
+# 2.1.3 材料及程序
+
+首先，所有被试完成情绪诱导任务。借鉴Lerner 等人(Lerner&Keltner,2001; Small&Lerner,2008)的自传回忆任务作为情绪诱导方法。实验组(愤怒组和恐惧组)被试共需完成两项任务，任务一“请尽可能回忆并列出3件让你感到非常愤怒/恐惧的事情，比如，被朋友背叛的经历(愤怒组)/看恐怖片的经历(恐惧组)"，任务二“请从上述经历中选择1件最让你感到愤怒/恐惧的事情，用文字详细描述出具体细节。让别人理解你为什么会感到愤怒/恐惧，同时别人也可以通过阅读此经历而感觉到愤怒/恐惧”；控制组被试也需完成两项任务，任务一“请你列举出自己在晚上通常会做的3件事情，比如，洗脸等经历”，任务二“请尽可能用文字详细的描述出自己如何度过晚上的时间，可以按照时间顺序对事件进行描述。让别人可以通过你的描述，还原你如何度过晚上的时间”。前人研究表明，此类自传回忆任务是诱导特定情绪的有效方法(Bodenhausen et al.,1994; Gino et al.,2012; Lerner & Keltner,2001; Tiedens& Linton, 2001; Whitson et al., 2015)。
+
+其次，被试完成改编后的跨期决策任务。借鉴Kirby 和Marakovic (1996)的金钱选择量表(Monetary Choice Questionnaire，MCQ)进行改编。原量表共包含27道题目，分为较大奖励（L)（75元 ${ \sim } 8 5$ 元)、中等奖励(M)(50元 $\mathord { \sim } 6 0$ 元)和较小奖励(S)(25元 ${ \sim } 3 5$ 元)三组，每组各9道题目。具体而言，虽然不同组内题目的延迟奖励金额有所不同，但均分别对应9个相同的延迟折扣率 $( k )$ ，即 $s , M$ 和 $L$ 组内各有1道题目，其延迟折扣率(k)相同。本研究为方便施测，在不改变原量表中延迟折扣率 $( k )$ 计算逻辑的基础上，仅选取较大奖励(L)和较小奖励(S)两组共18 道题目。
+
+最后，进行情绪操纵检验，以确保情绪诱发成功。参考前人研究自编问卷(丁如一等,2014;Todd etal.,2015)，要求被试在2个情绪词(愤怒、恐惧)后选择最能表达自己此时情绪感受的数字，从1(根本没有)到7(非常强烈)，数字越大表明被试对某一情绪的感受越强烈。
+
+实验结束后被试填写基本信息并得到相应实验报酬。
+
+# 2.2结果
+
+# 2.2.1 情绪操纵有效性检验
+
+对情绪诱发结果进行单因素方差分析发现，愤怒情绪评定维度上情绪类型主效应显著，$F ( 2 , 1 7 0 ) = 1 6 7 . 2 1$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 6 6$ ；事后多重比较发现，愤怒组被试报告的愤怒等级评分 $\langle M D = 5 . 2 9$ 0 $S D = 1 . 2 1 \$ )显著高于恐惧组 $( M D = 2 . 5 3 , S D = 1 . 3 3 )$ 和中性组 $\mathit { M D } = 1 . 4 6$ ， $S D =$ 0.86)， $p s < 0 . 0 0 1$ 。恐惧情绪评定维度上情绪类型主效应显著， $F ( 2 , 1 7 0 ) = 7 8 . 4 1$ ， $p { < } 0 . 0 0 1$ ，$\eta _ { p } { } ^ { 2 } = 0 . 4 8$ ；事后多重比较发现，恐惧组被试报告的恐惧等级评分 $\mathbf { \mathit { M D } } = 4 . 6 9$ $S D = 1 . 3 2 )$ 显著高于愤怒组( $\cdot M D = 2 . 5 8$ ， $S D = 1 . 6 4 \AA$ 和中性组( $\mathit { M D } = 1 . 5 3$ ， $S D = 1 . 2 2 { \ ' }$ ， $p s < 0 . 0 0 1$ 。这表明情绪操纵有效。
+
+# 2.2.2 延迟折扣率
+
+延迟折扣率代表个体对延迟结果发生折扣的速率或程度，通常用 $k$ 值表示， $k$ 值越大,表示随延迟时间的增加，延时奖赏在个体心目中的主观价值折扣变大，更可能选择较小而即时的奖赏。本研究根据 Kirby 等人(1996)提出的方法计算被试的延迟折扣率 $k$ 。首先，使用公式 $k { = }$ (LDR/SIR)-1)/Delay(Commons et al.,1987)计算每一题中较小金额与较大金额奖励间的无差别 $k$ 值,其中 LDR(Larger,Delayed Reward)为某一题目中较大的延迟奖励,SIR(Smaller,Immediate Reward)为较小的立即奖励，如"你更希望立即获得 55元，还是61天后获得 75元？”，其 $k$ 值为 $( ( 7 5 / 5 5 ) – 1 ) / 6 1 { = } 0 . 0 0 6$ ；随后，将题目按照较小奖励(S)和较大奖励 $( L )$ 两组进行 $k$ 值升序排列，分别计算被试在较小奖励组 $( S )$ 和较大奖励组 $( L )$ 内的 $k$ 值，即被试在改变选择处的两道题目 $k$ 值的几何平均数；最后，将被试在较小奖励(S)和较大奖励 $( L )$ 中两个 $k$ 值的几何平均数作为其延迟折扣率 $k$ 的估计值。因原始 $k$ 值呈偏态分布，故需将 $k$ 进行自然对数转换记为 $k _ { 0 }$ 。对 $k _ { 0 }$ 进行 $K { - } S$ 正态分布检验发现 $K - S Z = 1 . 2 0$ ， $\scriptstyle p = 0 . 1 1 4$ ，说明 $k _ { 0 }$ 符合正态分布，可对其进行进一步参数检验。
+
+对被试延迟折扣率的自然对数 $k _ { 0 }$ 进行单因素方差分析发现,情绪类型的主效应显著 $F ( 2 ,$ 号$1 7 0 ) = 1 7 9 . 3 0$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { p } } ^ { 2 } = 0 . 6 8$ 。事后多重比较表明，恐惧组被试的 $k _ { 0 } ( M = - 3 . 2 2 , S D =$ 0.69)显著高于中性组 $( M = - 4 . 4 9 , S D = 0 . 5 6 )$ ，而愤怒组被试的 $k _ { 0 } ( M = - 5 . 6 3 , S D = 0 . 7 8 )$ 显著低于中性组 $( M = - 4 . 4 9 , S D = 0 . 5 5 )$ ， $p s < 0 . 0 0 1$ (如图1)。这表明相比于恐惧组和中性组被试，愤怒组被试倾向于选择延迟获得较大金额的回报，即更有耐心。
+
+![](images/a3fb523519e9bc3f8dfbcbd1f156cd85c265c24ace4821db4cd8fb122a3f8c41.jpg)  
+图1不同情绪条件下被试的延迟折扣率对数 $k _ { 0 }$
+
+(注：均值越小，表示越倾向于延迟满足;误差线表示标准误; $^ { * } p { < } 0 . 0 5$ ，\* $_ { p < 0 . 0 1 }$ ，\*\*\* $_ { p < 0 . 0 0 1 }$ .下同)
+
+# 2.3讨论
+
+实验1的结果支持了研究假设，偶然体验到的愤怒情绪降低了个体的延迟折扣率。相比于恐惧组和中性组被试，愤怒组被试更可能选择较大的延迟奖赏。在后两项实验中，我们将探究其中的内在机制。
+
+根据评估倾向理论，愤怒情绪与高确定感和高控制感评估倾向有关，而恐惧情绪与低确定感和低控制感有关(Smith&Ellsworth,1985)。因此，在实验2中，我们将使用实验因果链(Spencer et al.,2005)设计检验确定感和控制感评估倾向在愤怒情绪影响个体延迟折扣中的作用。在实验2a中，检验愤怒情绪能否增强个体的确定感和控制感；在实验2b中，检验确定感和控制感能否增强个体的延迟满足倾向。
+
+# 3实验2a：愤怒情绪对确定-控制感的影响
+
+# 3.1方法
+
+# 3.1.1 被试
+
+基于实验 2a 的单因素被试间设计，采用 $\mathbf { G } ^ { * }$ power 3.1.9.4，在显著性水平 $\mathtt { a } = 0 . 0 5$ 且中等效应 $( f = 0 . 2 5 )$ 时，预测达到 $80 \%$ 的统计力水平的总样本量至少为159名。通过广告招募自愿参与本实验的某高校大学生共175名，随机分为愤怒组、恐惧组和控制组。剔除情绪诱发失败的被试后(剔除依据同实验1)，剩余有效数据共165 名(女性96 名)，被试年龄在 18\~26岁 $( M = 2 2 . 1 2 , S D = 2 . 5 9 )$ 之间，其中愤怒组、恐惧组和控制组各55人。所有被试均无神经系统或精神疾病史，裸眼视力或矫正视力正常，自愿参加实验并签署知情同意书。实验结束后，给予被试相应实验报酬。
+
+# 3.1.2 实验设计
+
+采用单因素被试间实验设计。自变量为情绪类型(愤怒/恐惧/中性情绪)，因变量为确定-控制感等级评分。
+
+# 3.1.3 材料及程序
+
+首先，所有被试完成自传回忆任务，同实验1。
+
+其次，被试进行确定-控制感评估。借鉴Lermer等人(2001)的确定-控制感评估问卷，要求被试就所描述的情况指出对此有多确定( $1 { = }$ 完全不确定， $\ 7 =$ 完全确定)和可控( $1 { = }$ 完全不可控， $\scriptstyle 7 =$ 完全可控)(Lerner &Keltner,2001; Smith& Ellsworth,1985)。
+
+最后，进行情绪操纵检验，同实验1。
+
+实验结束后被试填写基本信息并得到相应实验报酬。
+
+# 3.2结果
+
+# 3.2.1 情绪操纵有效性检验
+
+对情绪诱发结果进行单因素方差分析发现，愤怒情绪评定维度上情绪类型主效应显著，$F ( 2 , 1 6 2 ) = 5 0 . 7 3 \$ ， $p { < } 0 . 0 0 1$ ， ${ \eta _ { p } } ^ { 2 } = 0 . 3 9$ ；事后多重比较发现，愤怒组被试报告的愤怒等级评分 $\textlangle M D = 5 . 0 4$ ， $S D = 1 . 6 7 _ { . } ^ { \cdot }$ 显著高于恐惧组 $( M D = 3 . 1 8 , S D = 1 . 5 3 )$ 和控制组 $\langle M D = 2 . 0 7$ ， $S D =$ 1.48)， $p s < 0 . 0 0 1$ 。恐惧情绪评定维度上情绪类型主效应显著， $F ( 2 , 1 6 2 ) = 5 1 . 6 7$ ， $p { < } 0 . 0 0 1$ ${ \eta _ { p } } ^ { 2 } = 0 . 3 9$ ；事后多重比较发现，恐惧组被试报告的恐惧等级评分 $( M D = 5 . 0 2 , S D = 1 . 3 8 )$ 显著高于愤怒组 $\langle M D = 3 . 6 5$ ， $S D = 1 . 6 6 )$ 和控制组 $\mathit { M D } = 2 . 0 9$ ， $S D = 1 . 4 8 )$ ， $p s < 0 . 0 0 1$ 。这表明情绪操纵有效。
+
+# 3.2.2 确定-控制感评估
+
+对被试的确定感与控制感等级评分进行相关分析，结果发现确定感与控制感等级评分呈显著正相关 $( r = 0 . 5 6 , p < 0 . 0 0 1 )$ 。因此，取二者平均值作为评估被试确定-控制感的指标(Lerner& Keltner, 2001)。
+
+对被试的确定-控制感进行方差分析发现，情绪类型的主效应显著 $F ( 2 , 1 6 2 ) = 1 0 2 . 9 9$ $p < 0 . 0 0 1$ ， ${ \eta _ { p } } ^ { 2 } = 0 . 5 6$ 。事后多重比较表明，愤怒组被试的确定-控制感( $\langle M = 5 . 2 1$ ， $S D = 0 . 9 3$ ）显著高于控制组( $M = 4 . 7 8$ $S D = 0 . 7 4 \mathrm { \AA }$ ，而恐惧组被试的确定-控制感 $\left( M = 2 . 9 7 \right.$ ， $S D = 0 . 9 2 )$ 显著低于控制组( $M = 4 . 7 8$ ， $S D = 0 . 7 4 \mathrm { \AA }$ ， $p s < 0 . 0 5$ (如图2)。这表明对于自身经历过的事件，(相比于控制组)愤怒组被试会体验到更强的确定感与控制感。
+
+![](images/f264675fdade33814f9ed653c3ad530909bde3ddbb6916f8a925e1d2a50cb84f.jpg)  
+图2不同情绪条件下被试的确定-控制感
+
+4实验2b：确定-控制感对延迟折扣的影响
+
+# 4.1方法
+
+4.1.1 被试
+
+基于实验 2b 的单因素被试间设计，采用 $\mathbf { G } ^ { * }$ power 3.1.9.4，在显著性水平 $\mathtt { a } = 0 . 0 5$ 且中等效应 $( f = 0 . 2 5 )$ 时，预测达到 $80 \%$ 的统计力水平的总样本量至少为128名。通过广告招募自愿参与本实验的某高校大学生共142 名，随机分为高确定-控制感诱发组(以下简称高确定-控制组)、低确定-控制感诱发组(简称低确定-控制组)。剔除情绪诱发失败的被试后(剔除依据同实验1)，剩余有效数据共 132 名(女性94 名)，被试年龄在 18\~25 岁( $\scriptstyle { \mathcal { M } } = 2 1 . 9 9$ $S D = 2 . 9 0$ 之间，其中高确定-控制组68名、低确定-控制组64名。所有被试均无神经系统或精神疾病史，裸眼视力或矫正视力正常，自愿参加实验并签署知情同意书。实验结束后，给予被试相应实验报酬。
+
+# 4.1.2 实验设计
+
+采用单因素被试间实验设计。自变量为确定-控制感(高/低)，因变量为延迟折扣率k。
+
+# 4.1.3 材料及程序
+
+首先，所有被试完成确定-控制感诱发任务。借鉴Lermer等人(Lerner&Keltner,2001)的自传回忆任务作为确定-控制感的诱导方法。被试共需完成两项任务，任务一“请尽可能回忆并列出3件你觉得[不]确定和[不]可控的事情，比如你每天都会刷牙(高确定-控制)/明天会发生地震(低确定-控制)。因为我们想知道在什么情况下你对已经发生的和接下来发生的事件感到[不]确定和[不]可控”；任务二"请从上述经历中选择1件最让你感到最[不]确定和[不]可控的事情，用文字详细描述出具体细节。让别人理解你为什么会感到[不]确定和[不]可控，同时别人也可以通过阅读此经历而感觉到[不]确定和[不]可控”。
+
+其次，被试完成改编后的跨期决策任务，同实验1。
+
+最后，被试进行确定-控制感评估，同实验2a。
+
+实验结束后被试填写基本信息并得到相应实验报酬。
+
+# 4.2结果
+
+# 4.2.1 确定-控制感操纵有效性检验
+
+对被试的确定感与控制感等级评分进行相关分析，结果发现确定感与控制感等级评分呈显著正相关 $( r = 0 . 7 3 , p < 0 . 0 0 1 )$ 。因此，取二者平均值作为评估被试确定-控制感的指标(Lerner& Keltner, 2001)。
+
+对确定-控制感诱发结果进行独立样本 $t$ 检验发现,高确定-控制组 $( M D = 5 . 5 3 , S D = 1 . 0 3 )$ 被试在确定-控制感上的得分显著高于低确定-控制组 $( M D = 2 . 9 8 , S D = 1 . 0 0 )$ ， $t ( 1 3 0 ) = 1 4 . 4 0$ $p < 0 . 0 0 1$ ，Cohen's $d = 0 . 7 8$ 。这表明确定-控制感操纵有效。
+
+# 4.2.2 延迟折扣率
+
+根据 Kirby 等(1996)提出的方法计算被试的延迟折扣率 $k$ 。因原始 $k$ 值呈偏态分布，故需将 $k$ 进行自然对数转换记为 $k _ { 0 }$ 。对 $k _ { 0 }$ 进行 $K { - } S$ 正态分布检验发现 $K - S Z = 1 . 3 0 , p = 0 . 0 6 8$ 说明 $k _ { 0 }$ 符合正态分布，可对其进行进一步参数检验。
+
+对被试延迟折扣率的自然对数 $k _ { 0 }$ 进行独立样本 $t$ 检验发现，高确定-控制组( $\scriptstyle { \mathcal { M } D = - 4 . 9 8 }$ $S D = 1 . 7 2 ) \$ 被试的延迟折扣率对数 $k _ { 0 }$ 显著低于低确定-控制组 $( M D = - 4 . 0 8$ $S D = 1 . 2 8 \$ )，t(130)$= - 3 . 3 7$ ， $p { = } 0 . 0 0 1$ ，Cohen's $d = 0 . 5 9$ (如图3)。这表明相比低确定-控制组，高确定-控制组被试更倾向于选择延迟获得较大数额的金钱。
+
+![](images/698ee787deaa1f2d3341044cc8472ab41d1df9538645885c705e77ed920233c6.jpg)  
+图3[高/低]确定-控制条件下被试的延迟折扣率对数ko
+
+# 4.3讨论
+
+实验 2a与2b 的结果表明确定感和控制感评估维度可以解释愤怒情绪的延迟满足效应。愤怒情绪伴随强烈的确定感和控制感(实验2a)，并且当在及时享乐和延迟满足之间进行选择时，确定感和控制感会增强个体的延迟满足倾向(实验 2b)。
+
+如果确定感和控制感在跨期决策任务中增强了个体的延迟满足倾向，那么与确定感和控制感相关的积极情绪应产生与之相同的效应。为验证此假设，我们在实验3中加入高确定-控制感的积极情绪条件—愉悦组，我们预测，与低确定-控制感(恐惧)的情绪相比，高确定-控制感(愤怒和愉悦)的情绪独立于情绪效价，在跨期决策中更倾向于选择较大的延迟奖赏。为进一步探讨确定感和控制感的作用，我们使用中介测量设计(Baron&Kenny,1986)模型，预测确定感和控制感在情绪影响跨期决策过程中起中介作用。
+
+# 5实验3：愤怒情绪对延迟折扣的影响 确定-控制感的中介作用5.1方法
+
+# 5.1.1 被试
+
+基于实验3的单因素被试间设计，采用G\*power3.1.9.4，在显著性水平 $\mathtt { a } = 0 . 0 5$ 且中等效应 $( f = 0 . 2 5 )$ 时，预测达到 $80 \%$ 的统计力水平的总样本量至少为180名。通过广告招募自愿参与本实验的某高校大学生共 201名，随机分为愤怒组、恐惧组、愉悦组和控制组。剔除情绪诱发失败的被试后(剔除依据同实验1)，剩余有效数据共计 193 名(女性159 名)，被试年龄在18\~26 岁( $\scriptstyle { M = 2 2 . 5 9 }$ 5 $S D = 2 . 3 4 )$ 之间，其中愤怒组47名、恐惧组49名、愉悦组46名和控制组51名。所有被试均无神经系统或精神疾病史，裸眼视力或矫正视力正常，自愿参加实验并签署知情同意书。实验结束后，给予被试相应实验报酬。
+
+# 5.1.2 实验设计
+
+采用单因素被试间实验设计。自变量为情绪类型(愤怒/愉悦/恐惧/中性情绪)，中介变量为确定-控制感，因变量为延迟折扣率 $k$ 。
+
+# 5.1.3 材料及程序
+
+首先，所有被试完成情绪诱导任务，同实验1。同时增加愉悦组条件。愉悦组被试共需完成两项任务，任务一“请尽可能回忆并列出3件让你感到非常愉悦的事情，比如，吃你喜欢的美食或远途旅游”，任务二"请从上述经历中选择1件最让你感到愉悦的事情，用文字详细描述出具体细节。让别人理解你为什么会感到愉悦，同时别人也可以通过阅读此经历而感觉到愉悦”。
+
+其次，进行确定-控制感评估，同实验2a。
+
+然后，被试完成改编后的跨期决策任务，同实验1。
+
+最后，进行情绪操纵检验。第一组项目要求被试在3个情绪词(愤怒、恐惧、愉悦)后选择最能表达自己此时情绪感受的数字，从1(根本没有)到7(非常强烈)；第二组项目要求被试评估情绪的愉快程度，从1(根本不愉快)到7(非常愉快)。
+
+实验结束后被试填写基本信息并得到相应实验报酬。
+
+# 5.2 结果与分析
+
+# 5.2.1 情绪操纵有效性检验
+
+对情绪诱发结果进行单因素方差分析发现，愤怒情绪评定维度上情绪类型主效应显著$F ( 3 , 1 8 9 ) = 1 0 5 . 5 5 \$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { p } } ^ { 2 } = 0 . 6 3$ ；事后多重比较发现，愤怒组被试报告的愤怒等级评分 $( M D = 5 . 0 2 \$ ， $S D = 1 . 2 2 ) \$ 显著高于恐惧组 $\langle M D = 2 . 8 1$ ， $S D = 1 . 3 6 )$ 、愉悦组 $( M D = 1 . 3 9$ $S D =$ 0.58)和中性组 $( M D = 1 . 7 8 , S D = 1 . 0 1 )$ ， $p s < 0 . 0 0 1$ 。恐惧情绪评定维度上情绪类型主效应显著，$F ( 3 , 1 8 9 ) = 1 3 8 . 9 8$ ， $p < 0 . 0 0 1$ ， $\eta _ { p } { } ^ { 2 } = 0 . 6 9$ ；事后多重比较发现，恐惧组被试报告的恐惧等级评分 $\mathit { N D } = 5 . 0 6$ ， $S D = 1 . 0 9$ )显著高于愤怒组 $( M D = 2 . 3 6 , S D = 1 . 3 3 )$ 、愉悦组 $\langle M D = 1 . 4 3$ ， $S D =$ 0.69)和中性组 $( M D = 1 . 5 5 , S D = 0 . 7 8 )$ ， $p s < 0 . 0 0 1$ 。愉悦情绪评定维度上情绪类型主效应显著$F ( 3 , 1 8 9 ) = 1 4 8 . 3 5 \$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { p } } ^ { 2 } = 0 . 7 0$ 。事后多重比较发现，愉悦组被试报告的愉悦等级评分 $M D = 5 . 6 7$ ， $S D = 1 . 1 2 ) \$ 显著高于愤怒组 $( M D = 1 . 7 7 , S D = 0 . 9 4 )$ 、恐惧组 $\langle M D = 1 . 7 8$ $S D =$ 0.85)和中性组( $\mathit { M D } = 4 . 0 6$ $S D = 1 . 3 2 )$ ， $p s < 0 . 0 0 1$ ，这表明情绪操纵有效。
+
+# 5.2.2 确定-控制感评估
+
+对确定感与控制感等级评分进行相关分析，结果发现确定感与控制感等级评分呈显著正相关 $( r = 0 . 6 8 , p < 0 . 0 0 1 )$ ，取二者均值作为评估被试确定-控制感的指标(Lemer& Keltner,2001)。对确定-控制感进行方差分析发现，情绪类型的主效应显著 $F ( 3 , 1 8 9 ) = 5 0 . 4 7 , p < 0 . 0 0 1$ ${ \eta _ { p } } ^ { 2 } = 0 . 4 5$ 。事后多重比较表明，愤怒组 $\mathit { M } = 5 . 1 1$ ， $S D = 1 . 0 4 )$ 和愉悦组 $( M = 4 . 9 6 , S D = 0 . 8 7 )$ 被试报告的确定-控制感得分显著高于控制组( $M = 4 . 4 7$ ， $S D = 0 . 9 0 \mathrm { \Omega }$ ， $p s < 0 . 0 1$ ，而恐惧组 $( M =$ 3.10, $S D = 0 . 7 7 ,$ 被试的确定-控制感显著降低， $p { < } 0 . 0 0 1$ ；此外，愤怒组与愉悦组被试的确定-控制感无显著差异 $( p = 0 . 4 2 2 )$ ，这表明情绪效价并未影响个体对确定-控制感的评估。
+
+# 5.2.3 延迟折扣率
+
+根据 Kirby 等(1996)提出的方法计算被试的延迟折扣率 $k$ ，因原始 $\mathbf { k }$ 值呈偏态分布，故需将 $k$ 进行自然对数转换记为 $k _ { 0 }$ 。对 $k _ { 0 }$ 进行 $K { - } S$ 正态分布检验发现 $K - S Z = 1 . 1 0 , p = 0 . 1 7 5$ 说明 $k _ { 0 }$ 符合正态分布，可对其进行进一步参数检验。
+
+对被试延迟折扣率的自然对数 $k _ { 0 }$ 进行单因素方差分析发现，情绪类型的主效应显著 $F ( 3 ;$ （号$1 8 9 ) = 3 9 . 8 7$ ， $p < 0 . 0 0 1$ ， ${ \eta _ { p } } ^ { 2 } = 0 . 3 9$ 。事后多重比较表明，愤怒组 $( M = - 5 . 4 8 , S D = 0 . 8 9 )$ 和愉悦组 $( M = - 5 . 3 2 , S D = 0 . 9 4 )$ 被试的 $k _ { 0 }$ 显著低于控制组 $( M = - 4 . 9 5$ $S D = 0 . 9 9$ , $p s < 0 . 0 5$ ，而恐惧组被试的 $k _ { 0 } ( M = - 3 . 6 8 , S D = 0 . 7 8 )$ 显著高于控制组 $M = - 4 . 9 6$ 0 $S D = 0 . 9 9$ , $p < 0 . 0 0 1$ (如图4)；此外愤怒组与愉悦组被试的 $k _ { 0 }$ 无显著差异 $( p = 0 . 4 0 7 )$ ，说明情绪效价并未影响个体的延迟折扣。
+
+![](images/9f70cc6ffc5bf79b52cb11329eabc3cbbfef6affab4b3c5076812b330cc6feab.jpg)  
+图4不同情绪条件下被试的延迟折扣率对数 $k _ { 0 }$
+
+# 5.2.4确定-控制感对特定情绪与延迟折扣的中介效应分析
+
+为进一步阐明特定情绪影响延迟折扣的心理机制，采用Mplus7.11统计软件进行偏差校正的 Bootstrapping 检验(抽取 5000 次)，考察确定-控制感对特定情绪影响延迟折扣的中介效应。在本研究的中介效应分析模型中，不同情绪类型(愤怒、恐惧、愉悦和中性情绪)被编码为虚拟变量，中介变量确定-控制感和因变量延迟折扣率为连续变量。中介效应的分析结果如下：
+
+从表1可见，在以控制组为参照时，愤怒组通过确定-控制感对延迟折扣的中介效应值为-0.184, $9 5 \%$ 的 Bootstrap 置信区间为[-0.295,-0.074]，不包括"0”，表明中介效应显著；且加入中介变量确定-控制感后，愤怒对延迟折扣的直接效应为-0.013， $9 5 \%$ 的Bootstrap 置信区间为[-0.098,0.073]，包括0，表明其直接效应不再显著；恐惧组通过确定-控制感对延迟折扣的中介效应值为0.396， $9 5 \%$ 的 Bootstrap 置信区间为[0.294,0.498]，不包括"0”，表明中介效应显著；且加入中介变量确定-控制感后，恐惧对延迟折扣的直接效应为0.093， $9 5 \%$ 的Bootstrap 置信区间为[-0.016,0.203]，包括0，表明其直接效应不再显著；愉悦组通过确定-控制感对延迟折扣的中介效应值为-0.141， $9 5 \%$ 的 Bootstrap 置信区间为[-0.242,-0.039]，不包括"0”，表明中介效应显著；且加入中介变量确定-控制感后，愉悦对延迟折扣的直接效应为0.003， $9 5 \%$ 的 Bootstrap 置信区间为[-0.106,0.113]，包括0，表明其直接效应不再显著。此结果表明，愤怒情绪使人更倾向于延迟满足，并且愤怒情绪是通过增强人们的确定-控制感进而使人更倾向于延迟满足。
+
+表1确定-控制感对延迟折扣的中介效应分析结果  
+
+<html><body><table><tr><td rowspan="2">中介效应路径</td><td rowspan="2">估计值</td><td colspan="2">95% CI</td></tr><tr><td>低</td><td>高</td></tr><tr><td>以控制组为参照：</td><td></td><td></td><td></td></tr><tr><td>愤怒→确定-控制感→延迟折扣</td><td>-0.184a</td><td>-0.295</td><td>-0.074</td></tr><tr><td>愤怒→延迟折扣</td><td>-0.013</td><td>-0.098</td><td>0.073</td></tr><tr><td>恐惧→确定-控制感→延迟折扣</td><td>0.396a</td><td>0.294</td><td>0.498</td></tr><tr><td>恐惧→延迟折扣</td><td>0.093</td><td>-0.016</td><td>0.203</td></tr><tr><td>愉悦→确定-控制感→延迟折扣</td><td>-0.141a</td><td>-0.242</td><td>-0.039</td></tr><tr><td>愉悦→延迟折扣</td><td>0.003</td><td>-0.106</td><td>0.113</td></tr></table></body></html>
+
+注：a表示中介效应显著。
+
+# 5.3讨论
+
+实验3的研究结果说明，确定-控制感在愤怒情绪影响延迟折扣的过程中起完全中介作用，即愤怒情绪影响延迟折扣的潜在机制是通过提高确定-控制感实现的。研究进一步说明，无论效价如何，在进行跨期决策时体验与确定感和控制感有关的情绪(即愤怒和愉悦)会增强个体的延迟满足倾向。
+
+# 6总讨论
+
+本研究将自传回忆任务作为情绪诱发任务，考察了愤怒情绪对个体延迟折扣的影响及其潜在机制。通过三项实验，我们发现在进行跨期决策时，偶然体验到的愤怒情绪会降低个体延迟折扣率。与体验恐惧和中性情绪的被试相比，体验愤怒情绪的被试更可能选择较大的延迟奖赏。重要的是，本研究的后两个实验提供了直接证据，证明与愤怒情绪相关的高确定感和高控制感可能是降低延迟折扣效应的潜在机制。具体来说，本研究发现愤怒情绪会增强个体的确定感和控制感(实验2a 和实验3)，同时，这种高确定感和高控制感导致个体在进行跨期决策时更倾向于延迟满足(实验2b 和实验3)。此外，实验3表明，无论效价如何，在进行跨期决策时体验与确定感和控制感有关的情绪(即愤怒和愉悦)会增强个体的延迟满足倾向。
+
+本研究发现，愤怒情绪通过确定感和控制感评估维度影响延迟折扣。Zhao 等人(2017)探索性的考察了特质愤怒和状态愤怒对延迟折扣的影响，研究发现，对低特质愤怒个体而言，相对于处于暂时的低愤怒情绪状态，他们处于高愤怒情绪状态时倾向于偏好较大的延迟奖赏，其认为愤怒情绪与确定感和控制感有关，高水平的愤怒状态促使个体做出更多的风险寻求行为(Smith& Elsworth,1985; Lerner& Keltner,2001)，因此在跨期决策中选择金额较大的延迟奖赏，这与本研究的构想思路一致。与之相对，他们进一步发现，当个体处于暂时的高愤怒情绪状态时，相对于低特质愤怒个体，高特质愤怒个体倾向于偏好较小的立即奖赏，前人研究发现，具有高唤醒度的负性情绪可能会转变个体与情感特质相关联的风险倾向(Leith& Baumeister,1996)，因此，当个体处于暂时的高愤怒情绪状态时，相对于低特质愤怒个体，高特质愤怒个体的跨期偏好可能会出现反转，更倾向选择金额较小的立即奖赏。除此之外，本研究发现，与体验中性情绪的被试相比，体验恐惧情绪的被试更可能选择金额较小的立即奖赏。这与余升翔等人(余升翔等,2016；余升翔等,2017)的研究结果一致。他们采用情绪视频材料(余升翔等,2016)和自传回忆任务(余升翔等,2017)诱发被试的恐惧情绪状态，结果发现，恐惧情绪显著降低了个体等待的耐心，表现为更高的延迟折扣率。与之相反，方铖豪等人(2019)采用情绪面孔图片诱发被试的厌恶和恐惧情绪，结果发现，与中性面孔相比，观看恐惧面孔并未影响个体的跨期决策偏好。这说明与采用情绪短片和自传回忆任务诱发的恐惧情绪相比，情绪面孔诱发的恐惧情绪相对短暂并且诱发的恐惧情绪强度相对较低，可能对后续跨期决策的影响较小(方铖豪等,2019)。因此，研究结果的不一致可能与实验材料有关，需要将来在同一实验条件下对其进行验证。
+
+评估倾向理论(Lerner& Keltner,2001;Winterich et al.,2010)认为不同形态情绪间的差异可从其愉悦感、确定感、控制感、注意活动、预期努力和他人责任感等六个维度上进行评定，但不同评估维度对每一具体形态情绪的作用各不相同。情绪对决策的影响会受到匹配原则的限制，只有在核心评估维度与所要进行的判断和决策任务的突出属性相匹配时，情绪才能够对随后的判断与决策产生影响。基于 Smith 和 Ellsworth(1985)的研究，愤怒情绪具有负性效价、高确定感、高控制感和高他人责任感等核心评估维度。也就是说，当愤怒情绪的核心评估维度与所要进行的判断和决策任务的突出属性相匹配时，愤怒情绪才能够对该判断与决策产生影响。有研究发现，愤怒情绪的高确定感和高控制感促使个体对风险的评估较为乐观，在风险决策时偏好风险寻求(Druckman & McDermot,2008; Lench et al.,2011)；愤怒情绪的高他人责任感促使个体表现出更加严厉的道德判断(Small&Lerner,2008)并且减少公众对福利政策的支持(Small&Lermer,2008)；愤怒情绪的高他人责任感和高控制感促使个体减少助人行为(杨昭宁等,2017)；愤怒情绪的高他人责任感和负性效价减少个体的礼物赠送行为(DeHooge,2017)等。评估倾向理论提高了我们对愤怒情绪影响决策的理解，目前的研究支撑了这一假说，即愤怒情绪的高确定感和高控制感会降低个体的延迟折扣率。本研究进一步推测，由于不同形态的负性情绪在确定感和控制感的评估维度上存在差异，所以不同形态的负性情绪对个体跨期决策偏好有不同影响。
+
+除了使用评估倾向理论解释情绪如何影响延迟折扣外，也有研究者使用情绪信息理论(Affect-as-Information Theory)、情绪动机维度理论(Motivational Dimensional Model of Affect)、建构水平理论(Construal Level Theory,CLT)和基于时间感知的理论模型(Perceived-TimeBased Model)对此过程进行解释。具体而言，情绪信息理论认为情绪具有信息性，不同效价的情绪具有不同的情绪信息，能够影响个体的信息加工策略(Clore et al.,2001; Schwarz &Clore,1983)。但情绪信息理论在解释情绪影响信息加工时，仅仅考虑了情绪效价维度而忽略了情绪的其他维度对延迟折扣的影响。情绪动机维度理论则从情绪动机维度预测个体行为，其认为动机方向分为趋近和回避两类(Gable&Harmon-Jones,2008)，例如，愤怒情绪是一种趋近动机的情绪，是朝向理想目标的行动受阻后产生的一种情绪(Carver& Harmon-Jones,2009)，而恐惧情绪是一种回避动机的情绪，使人倾向于回避令人紧张的物体或情境(Gable&
+
+Harmon-Jones,2010)。情绪动机维度理论有助于我们从进化的角度理解情绪对延迟折扣的影响。建构水平理论认为环境中的任何客体或事件均可在不同建构水平上被表征(Liberman etal.,2002)，可分为高建构水平和低建构水平，在高水平建构下，人们倾向于抽象表征远期事件，而在低水平建构下，人们则具体表征近期事件。王鹏和刘永芳(2009)认为，愉悦情绪诱发被试对未来金钱表征的高水平建构，使其更关注结果的价值属性而不是时间距离，故而延迟折扣率下降；与之相反，悲伤情绪诱发被试对未来金钱表征的低水平建构，使其更关注结果的时间距离而不是价值属性，故而延迟折扣率提高。除此之外，Zauberman 等人(2009)提出了“基于时间感知的理论模型”来解释跨期决策的认知机制，他们发现，跨期决策中的折扣率会随客观延迟时间的增加而下降，其原因可能是个体对未来时间知觉存在偏差(Zauberman et al.,2009)。本研究发现，愤怒情绪通过确定感和控制感影响个体的选择偏好，确定感和控制感评估维度是影响了被试对未来金钱表征的建构水平，进而影响了其关注结果的价值属性或是时间距离，还是影响了对未来时间的主观感知，有待将来进一步研究。
+
+因本研究认识到单一方法的局限性，所以使用了实验因果链(Spencer et al.,2005)和中介测量设计(Baron& Kenny,1986)，发现确定感和控制感评估倾向是愤怒情绪影响跨期决策中的延迟折扣效应的潜在机制。本研究方法的多样性证明了我们研究结果的稳定性。本研究也有一些局限性，每个局限都为未来的研究提供了可能的方向。首先，我们的实验完全依赖于自传回忆任务来诱发愤怒情绪。虽然此任务是诱发特定情绪的最常用和有效的方法之一，未来的研究可使用不同的情绪诱导方法，例如观看诱发愤怒情绪的视频片段或现场经历一件愤怒的事件，以此来确定本研究结果的普遍性。其次，本研究的跨期决策任务改编于Kirby 等人(1996)的金钱选择量表，仅含有较少的跨期决策项目，未来的研究可采用多种形式的跨期决策任务，例如，滴定任务、主观报告任务等，提高研究结果的普遍性。同时，跨期决策可能发生在不同情境，例如，食物选择、挽救生命、购买手机、公共交通、环境污染等情境(Read et al.,2017)。未来的研究可以考察在不同的跨期情境中是否都能够观察到愤怒情绪可以降低个体的延迟折扣率。
+
+目前的研究为未来愤怒情绪与延迟折扣的研究提供了许多其他方向。首先，本研究专注由不相关的先前经验引发的偶然愤怒情绪的影响。未来的研究应该探讨整合愤怒情绪(即由决策任务的目标所引起)是否会降低个体延迟折扣率，或者是探讨预期愤怒情绪(即预期将来的愤怒事件所引起)是否会降低个体延迟折扣率。第二，本研究发现与确定感和控制感相关的愤怒和愉悦情绪降低了延迟折扣率。未来的研究应该探究已知可引发确定感和控制感评估倾向的其他情绪是否会产生相同的影响。未来的研究还应探讨在其他评估维度(例如，动机维度)上的不同情绪是否会影响个体在跨期决策中的延迟满足倾向。第三，本研究考察了愤怒情绪对收益情境下的跨期决策任务的影响。跨期决策涉及收益和损失两类情境。跨期决策领域中的大量研究表明，损失型跨期决策和收益型跨期决策的内在认知和神经机制并不等价，在收益情境中得到的研究结果并不能推广到损失情境中去(Gehring& Willoughby,2002;Mitchell&Wilson,2010; Xu etal.,2009)。因此，很有必要分别在收益和损失两种不同情境下来研究愤怒情绪对跨期决策的影响。第四，本研究的所有被试都是年轻人(年龄在19-26 岁)。未来的研究应该考察儿童、青少年和老年人，以调查愤怒情绪对延迟折扣的影响是否因不同年龄组而存在差异。研究表明，从青春期早期到老年，个体愤怒的体验和表达逐渐降低，情绪调控能力逐渐增强(Brown,2016)。因此，在决策过程中，与老年人相比，年轻人可能更容易受到愤怒情绪的影响。
+
+# 7结论
+
+本研究的研究结果提供了第一个因果证据，即在试图理解面对发生于不同时间节点的成本与收益的心理权衡而做出选择时，与愤怒情绪相关的确定感和控制感评估倾向会降低个体的延迟折扣率。无论是个人对其健康、教育、婚姻等重大生活的抉择，还是政府对其社会经济、政治、文化、环境等重大国计民生问题的决策都具有很强的跨期性，基于评估倾向理论，我们能够更精确地研究情绪对这些跨期事件的影响。本研究对于理解跨期决策的情绪机制具有重要的理论意义。
+
+#
+
+珍丐乂   
+Baron,R.M.,& Kenny,D.A.(1986).The moderator-mediator variable distinction in social psychologicalresearch: Conceptual,strategic,and statisticalconsiderations.JournalofPersonalityand Social Psychology,51(6),1173- 1182.   
+Benzion, U.，Rapoport,A.,& Yagil,J. (1989). Discountrates inferred from decisions: An experimental study Management Science, 35(3),270-284.   
+Berns,G.S.,Laibson,D.,&Loewenstein,G.(20o7). Intertemporal choice-toward an integrative framework. Trends in Cognitive Sciences, 11(11), 482-488.   
+Bodenhausen, G.V.,Sheppard,L.A.,& Kramer,G.P.(1994). Negativeaect and social judgment: The differential impact of anger and sadness. European Journal of Social Psychology, 24(1), 45-62.   
+Brown,R.L. (2016). The influence of stresor exposure and psychosocial resources on the age-anger relationship: a longitudinal analysis. Journal of Aging and Health, 28(8),1465-1487.   
+Carver, C. S.，& Harmon-Jones,E. (2009). Anger is an approach-related afect: Evidence and implications. Psychological Bulletin,135(2),183-204.   
+Casey,B.J.，Somerville,L.H., Gotlib,I. H.,Ayduk,O.,Franklin, N.T.,Askren, M.K...Shoda,Y.(2011). Behavioral and neural correlates of delay of gratification 40 years later. Proceedings ofthe National Academy of Sciences of the United States ofAmerica,108(36),14998-15003.   
+Chen, H.,Ng,S., & Rao,A. (20o5). Cultural differences in consumer impatience. Journal of Marketing Research, 42(3),291-301.   
+Clark,M.S.,Pataki, S.P.,& Carver, V.H.(1996).Some thoughts andfindings on self-presentation ofemotions in relationships.In G.J.O.Fletcher,&J.Fitness (Eds.), Knowledge structures in close relationships: A social psychological approach (pp.247-274). Hillsdale, NJ: Lawrence Erlbaum Associates.   
+Clore,G.L.,Gasper,K.,& Garvin,E. (2oo1).Aect as information.InJ. P.Forgas (Ed.),Handbook of affectand social cognition(pp.121-144). Mahwah, NJ: Lawrence Erlbaum Associates.   
+Commons,M.L.,Mazur,J.E.,Nevin,J.A,&Rachlin,H. (Eds.). (1987). Quantitative analyses ofbehavior; Vol.5. The effect ofdelay and of intervening events on reinforcement value. Lawrence Erlbaum Associates, Inc.   
+De Hooge,I.E. (2o17). Combining emotion appraisal dimensions and individual differences to understand emotion effects on gift giving. Journal ofBehavioral Decision Making,30(2),256-269.   
+Ding,R. Y., Wang,F.X.,Niu,D.,&Li,B.J. (2014). Theeffct of emotions associated withcertainty(happiness,
+
+anger) and uncertainty(sadness)on trust.Journal ofPsychological Science,37(5),1092-1099.
+
+[丁如一，王飞雪，牛端，李炳洁.(2014).高确定性情绪(开心、愤怒)与低确定性情绪(悲伤)对信任的影响．心理科学,37(5),1092-1099.]
+
+Druckman,J.N.,&McDermott,R.(20o).Emotionandthe framing ofriskychoice.Political Behavior30(3),297 321.
+
+Fang,C.H.,Song, X.Y., Xu, S.P., Cheng,Y. H., Chen, C.Y.,&Liu,L. (2019). The differential efects of disgust and fear on intertemporal choice: An ERP study. Journal of Psychological Science, 42(6),1305-1311.   
+[方铖豪，宋锡妍，许书萍，程亚华，陈朝阳，刘雷.(2019).．厌恶和恐惧情绪对跨期选择的不同影响：基于 ERP 的研究．心理科学,42(6),1305-1311.]   
+Figner,B.,Knoch,D.,Johnson,E.J.,Krosch,A.R.,Lisanby,S.H.,Fehr,E.,& Weber,E.U.(2010).Lateral prefrontal cortex and self-control in intertemporal choice. Nature Neuroscience,13(5), 538-539.   
+Fischhoff,B., Gonzalez,R.M.,Lerner,J.S.,& Smal,D.A. (oo).Evolvingjudgments of terrorrisks:foresight, hindsight, and emotion.Journal of Experimental Psychology: Applied,11(2),124-139.   
+Frederick,S.,Loewenstein, G.,& O'Donoghue,T. (2o02). Time discounting and time preference: Acritical review. Journal of Economic Literature, 40(2),351-401.   
+Gable,P. A.，& Harmon-Jones,E. (2008).Approach-motivated positive affect reduces breadth of attention. Psychological Science,19, 476-482.   
+Gable,P.A.,& Harmon-Jones,E. (20lo).The motivationaldimensional model of affect: Implications for breadth of atention, memory,and cognitive categorization. Emotion and Cognition, 24(2),322-337.   
+Gehring,W.J.,& Willoughby,A.R.(2Oo2).The medial frontal cortex and the rapid processing of monetary gains and losses. Science, 295(5563), 2279-2282.   
+Gino,F.,Brooks,A.W.,& Schweitzer, M.E. (2Ol2).Anxiety,advice,and the ability to discern:Feling anxious motivates individuals to seek and use advice. Journal of Personality and Social Psychology,102(3),497-512.   
+Green,L.,& Myerson,J. (2o04).A discounting framework for choice with delayed and probabilistic rewards. Psychological Bulletin, 130(5),769-792.   
+Guan,S.C., Cheng,L,Fan,Y.,&Li, X.C. (2015).Myopic decisions under negative emotions correlate withaltered time perception. Frontiers in Psychology, 6, 468.   
+Han,S.,Lerner, J. S.,& Keltner,D.(2007).Feelings and consumer decision making: The appraisal-tendency framework. Journal of Consumer Psychology， 17(3),158-168.   
+Hare,T.A., Camerer, C.F.,& Rangel,A.(2009). Self-control in decision-making involves modulation of the
+
+vmPFC valuation system. Science,324(5927),646-648.
+
+Kirby, K.N.,& Marakovic,N.N. (1996). Delay-discounting probabilistic rewards: Rates decrease asamounts increase. Psychonomic Bulletin and Review, 3(1),100-104.   
+Knutson,B. (1996).Facial expressions of emotion influence interpersonal trait inferences.Journalof Nonverbal Behavior; 20(3),165-182.   
+Laibson, D. (20o1). A cue-theory of consumption. Quarterly Journal of Economics, 116(1),81-119.   
+Leith,K.P.,& Baumeister,R.F. (1996). Whydobad moods increaseself-defeating behavior?Emotion,risk taking, and self-regulation. Journal of Personality and Social Psychology, 6,1250-1267.   
+Lench,H. C.,Flores,S.A.,& Bench, S. W. (2011). Discrete emotions predict changes in cognition, judgment, experience,behavior, and physiology: A meta-analysis of experimental emotion elicitations.Psychological Bulletin, 137(5), 834855.   
+Lerner, J.S., Gonzalez,R.M., Small,D.A.,&Fischhoff,B. (2003).Efects offearand anger on perceived risksof terrorism: a national field experiment. Psychological Science,14(2),144-150   
+Lerner, J. S., & Keltner, D. (20oo). Beyond valence: Toward a model of emotion specific influences on judgment and choice. Cognition and Emotion, 14(4), 473-494.   
+Lerner,J.S.,&Keltner,D. (2oo1).Fearanger,andrisk. Journal ofPersonalityandSocial Psychology,81(1),146 159.   
+Lerner,J.S.,Li,Y.,& Weber,E.U.(20l3).The financial costs ofsadness.Psychological Science,24(1),72-79.   
+Lerner, J. S.,& Tiedens,L. Z. (2oo6).Portrait ofthe angry decision maker: how appraisal tendencies shape anger's influence on cognition. Journal of Behavioral Decision Making,19(2),115-137.   
+Li, J. Z.,Li, S.,& Liu. H.(2Ol1). How has the Wenchuan Earthquake influenced people's intertemporal choices? Journal ofApplied Social Psychology,41(11),2739-2752.   
+Li,X.M.,& Xie,J. (20l2).The influence mechanism of incidental emotion on choice deferral. Acta Psychologica Sinica, 44(12),1641-1650.   
+[李晓明，谢佳.(2012)．偶然情绪对延迟选择的影响机制．心理学报,44(12),1641-1650.]   
+Liberman, N. Sagristano, M.D.,& Trope, Y. (2o02). The effect of temporal distance on level of mental construal. Journal of Experimental Social Psychology, 38(6),523-534.   
+Liu,L.,Su,T.,Peng,J., Guo, Y. Q.，& Feng,T. Y. (2014). The cognitive and neural mechanism of the delay discounting: from the trait and state perspectives. Advances in Psychological Science,22(7),1047-1061.   
+[刘雷，苏缇，彭娟，郭逸群，冯廷勇.(2014).延迟折扣的认知与神经机制：特质性与状态性研究取向．心理
+
+科学进展,22(7),1047-1061.]   
+Liu,L.,Suo,T. (2018). The Influence of emotion on delayed discounting: status quo, mechanism and prospect. Journal of Psychological Science, 41(3): 553-558.   
+[刘雷，索涛.(2018).情绪对延迟折扣的影响：现状、机制与展望.心理科学,41(3):553-558.]   
+Luhmann, C.C., Chun,M.M.,Yi,D.J.,Lee,D.,& Wang,X. (2o08). Neural disociation of delayand uncertainty in intertemporal choice. The Journal of Neuroscience,28(53),14459-14466.   
+Luo,S.,Ainslie,G.,&Monterosso,J. (2014).The behavioral and neural efect ofemotional primes on intertemporal decisions. Social Cognitive and Affective Neuroscience,9(3),283-291.   
+Mitchell,S.H.,& Wilson,V.B.(2010).The subjective value of delayed and probabilistic outcomes: Outcome size matters for gains but not for losses. Behavioural Processes,83(1),36-40.   
+Read, D., Olivola, C.Y.,& Hardisty,D.J. (2O17). The value of nothing: Asymmetric atention to opportunity costs drives intertemporal decision making. Management Science, 63(12), 4277-4297.   
+Schwarz,N.,& Clore,G.L. (1983).Mood, misatributionnd judgments ofwell-being: Informativeanddirective functions of affective states. Journal ofPersonality and Social Psychology, 45(3), 513-523.   
+She,S.X., Chen,Y., Chen,J.,&Yang,F. (2O17).The effectoffearon intertemporal choice: an experiment basedon recalling emotion. Psychological exploration, 37(6),543-548.   
+[佘升翔，陈阳，陈璟，杨帆.(2017)．恐惧对跨期选择的影响：基于回忆情绪的实验研究．心理学探新,37(6), 543–548.]   
+She,S.,Ma,C.,& Wu,D.D.(20l0).General probability-time tradeofand intertemporal risk-value model. Risk Analysis, 30(3), 421-431.   
+She,S.X.,Zheng,X.W.,Zhou,J.,& Yang,S.S. (2016).Does fear increase impatience in inter—temporal choice? Evidence from an experiment. Psychological exploration,36(1),25-30.   
+[佘升翔，郑小伟，周劫，杨姗姗.(2016).恐惧降低跨期选择的耐心吗?—来自行为实验的证据．心理学探 新,36(1),25-30.]   
+Smith, C.A.,&Ellsworth,P.C.(1985).Pattrns ofcognitive appraisal inemotion. JournalofPersonalityand Social Psychology, 48(4), 813-838.   
+Small,D.A.,&Lerner,J.S.(2oo8).Emotional policy: Personalsadness andanger shape judgments about a welfare case. Political Psychology,29(2),149-168.   
+Solomon, R. C.(1990). A passion for justice. Reading, MA: Addison-Wesley Publishing Company.   
+Spencer, S.J., Zanna,M.P.,& Fong, G.T. (20o5). Establishing acausal chain: Why experiments are often more effective than mediational analyses in examining psychological process Journal of Personality and Social Psychology, 89(6), 845-851.   
+Suo,T.,Gu,B.B.,Zhang,C.Y.,& Liu,L.(2018).The effect of ego depletion on different self-control-trait individuals in intertemporal choices. Journal of Psychological Science, 41(6),1443-1449.   
+[索涛，顾本柏，张辰炎，刘雷.(2018).不同特质自控者在跨期选择中自我损耗后效的差异．心理科学,41(6), 1443-1449.]   
+Tavris, C. (1989). Anger: The misunderstood emotion. New York: Touchstone.   
+Tiedens,L. Z. (20o1).Anger and advancement versus sadness and subjugation: the effect of negative emotion expressions on social status conferral. Journal of Personality and Social Psychology,80(1),86-94.   
+Tiedens,L.Z,& Linton,S.(2001). Judgment under emotionalcertaintyand uncertainty:The efects of specific emotions on information processing. Journal of Personality and Social Psychology, 81(6),973-988.   
+Todd,A. R.,Forstmann, M., Burgmer,P.,Brooks,A. W.,& Galinsky,A.D. (2015). Anxious and egocentric: How specific emotions influence perspective taking. Journal of Experimental Psychology: General,144(2),374- 391.   
+Wang,P.,&Liu,Y.F. (209).The effectofmood onintertemporal choice.Journal ofPsychological Science,32(6), 1318-1320.   
+[王鹏，刘永芳.(2009).情绪对跨时选择的影响．心理科学,32(6),1318-1320.]   
+Whitson,J. A.，Galinsky,A.D.，& Kay,A. (2015).Theemotional roots of conspiratorial perceptions,system justification,and belief in the paranormal. Journal of Experimental Social Psychology, 56,89-95.   
+Wiltermuth,S.S.,& Tedens,L.Z. (20l1). Incidental angerand the desire to evaluate. Organizational Behaviorand Human Decision Processes, 116(1),55-65.   
+Winterich,K.P.,Han,S.,& Lerner,J.S.(2010).Now that Im sad,it's hard to be mad: The role of cognitive appraisals in emotional blunting. Personality and Social Psychology Bulletin, 36(11),1467-1483.   
+Xu,L. J,Liang,Z.Y.,Wang,K.,Li,S.,& Jiang,T. Z. (20o9). Neural mechanism of intertemporalchoice:From discounting future gains to future losses. Brain Research,1261,65-74.   
+Yang, Z.N.,Gu,Z.B., Wang,D.J.,Tan, X.Y.,& Wang, X. M. (2017). The effectof angry and sadnesson prosocial decision making: The role of the interpersonal atribution of responsibility. Acta Psychologica Sinica, 49(3), 393-403.   
+[杨昭宁，顾子贝，王杜娟，谭旭运，王晓明.(2017).愤怒和悲伤情绪对助人决策的影响：人际责任归因的作 用．心理学报,49(3),393-403.]   
+Zauberman,G., Kim,B.K,Malkoc,S.A.,& Bettman,J.R.(2009).Discounting time and time discounting: Subjective time perception and intertemporal preferences. Journal of Marketing Research,46(4),543-556.   
+Zhao,J.L.,Kirwen,N.Johnson,J.,& Vigo,R.(2Ol7).Anger and intertemporalchoice:The behavioralapproach systemand the interactive effects of trait and state anger.Personality and Individual Diffrences,l10,60-64.
+
+# The Influence of Anger on Delay Discounting: The Mediating Role of Certainty and Control
+
+SONG Xiyan; CHENG Yahua; XIE Zhouxiutian; GONG Nanyan; LIU Lei
+
+(DepartmentofPsychology,Ningbo University;CenterofGroup Behaviorand Social Psychological Service,
+
+Ningbo University,Ningbo315211,China)
+
+# Abstract
+
+Delay discounting occurs when, compared to current or recent benefits (or losses), people give future benefits (or losses) less weight and choose current or recent benefits (or losses). Delay discounting is an important research direction in the field of decision-making. Based on the Appraisal-Tendency Framework, the present study aimed to examine how anger influences an individual's delay discounting and then explore the underlying mechanism of the effect of anger on delay discounting.
+
+The key hypotheses-that anger would influence delay discounting and that certainty and control appraisal tendencies would drive this effect-were tested across three experiments. Experiment 1 investigated the effect of anger on delay gratification. In Experiments 2a and 2b,an experimental-causal-chain design was used to test (a) whether anger increases certainty-control relative to fear and neutral feelings,and (b) whether experiencing certainty-control increases one's delay gratification. In Experiment 3,a measurement-of-mediation design was used to test whether feelings of certainty-control stemming from anger predicted delay gratification. Simultaneously, we explored whether positive emotions associated with certainty-control produced increases in delay gratification. The focus was on pleasure as a positive, certainty-control-associated emotion.
+
+In Experiment 1, the results showed that compared with fear and neutral participants, angry participants were more likely to choose large and delayed rewards.In Experiment 2a, the results showed that compared with fear and neural participants, angry participants were more likely to experience certainty-control feelings.Then, in Experiment 2b,the results showed that compared with low certainty-control participants, high certainty-control participants were more likely to choose large and delayed rewards. In Experiment 3, the results showed that compared with fear and neutral participants, angry and pleasant participants experienced more certainty-control feelings and were more likely to choose large and delayed rewards.Furthermore,the mediation analysis showed that certainty-control feelings played a complete mediating role in the effect of anger and pleasure on delay discounting.
+
+Converging evidence from the three experiments indicated that incidental anger can influence delay discounting. Compared with fear and neutral feelings, those experiencing anger were more likely to choose larger and delayed rewards (Experiment 1). Importantly, these two experiments provide direct process evidence by showing that the certainty and control appraisal tendencies triggered by anger may underlie its delay gratification-enhancing effects (Experiments 2 and Experiment 3). Furthermore, experiencing certainty-control-associated emotions (i.e., anger and pleasure), regardless of valence, increased to the likelihood that individuals would choose larger and delayed rewards (Experiment 3). The current research supports the hypotheses that anger increases delay gratification and that certainty and control appraisal tendencies drive this effect. These findings have important implications for understanding the mechanism underlying the effect of specific negative emotions on intertemporal choice.

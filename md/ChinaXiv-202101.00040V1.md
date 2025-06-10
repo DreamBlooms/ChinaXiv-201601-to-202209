@@ -1,0 +1,169 @@
+# 基于边缘检测的空间目标激光测距数据预处理方法
+
+冯凯斌’²，汤儒峰¹,李荣旺1,³，李语强1,31中国科学院云南天文台，昆明650216;²中国科学院大学，北京100049;中国科学院空间目标与碎片观测重点实验室，南京210034
+
+摘要 边缘检测是图像处理和计算机视觉中的基本问题，其目的是标识数字图像中亮度变化明显的点。激光测距是测距领域精度最高的的重要技术手段，激光测距数据能够被应用于科学研究之前，需要对原始数据进行一系列的预处理。根据目标信号和噪声信号在图像上的分布特点，本文提出了一种基于边缘检测来提取目标信号的方法，将原始数据转化成测距残差图像，对其进行边缘检测后识别信号位置。用过对实测数据处理表明本文提出的算法具有一定的可行性、通用性。
+
+关键词：激光测距；边缘检测；图像处理；数据处理中图分类号：P171，P215，P228，TN249
+
+# Data preprocessing method of space target laser ranging based on edge detection
+
+Feng Kaibin2,TngRufeng',LRongwang3,Luqi 1 Yunnan Observatories, Chinese Academy of Sciences, Kunming 650216, China; 2 University of Chinese Academyof Sciences,Beijing 10049,Chind; 3 Key Laboratory of Space Object & Debris Observation, PMO,CAS, Nanjing 210034,China
+
+Abstract Edge detection is a basic problem in image processng and computer vision. Its purpose is to identify points with obvious brightness changes in digital images.Laser ranging is an important technical method with the highest accuracy in the field of ranging.Before laser ranging data can be used in scientific research,a series of preprocessing of the original data is required. According to the distribution characteristics ofthe target signal and noise signal on the image,this paper proposes a method to extract the target signal based on edge detection, which converts the original data into the residual image of distance measurement,and then recognizes the signal position after edge detection. It has been used to process the measured data that the algorithm proposed in this paper has a certain feasibility and versatility.
+
+Key words: Laser range; Edge detection; image processing; data processing
+
+# 1引言
+
+激光测距是当前获取目标高精度距离的的重要技术手段之一，在监测大陆板块运动、地壳形变、地球自转、改进地球重力场和地心引力参数，确定地球和海洋潮汐变化的规律，监测空间碎片等方面具有重要作用[1-5]。随着商业航天近些年的大力发展，空间目标的数量也呈急剧增长，我们更加需要对空间目标有效的高精度测量。测距数据能够被应用于各领域之前，需要对原始数据进行预处理。
+
+图像的边缘是图像最基本也是最重要的特征之一，边缘检测的目的是去发现图像中关于形状和反射或透射比的信息[。目前卫星激光测距信号提取的方法主要有人工识别，Graz 回波自动识别，还有poisson 滤波算法等。针对以上算法需要设置过多参数和人为不确定性因素的不足，本文提出了一种基于图像边缘检测的激光测距信号提取方法，并结合了和一些常规的数据处理方法，提取出卫星有效回波信号。
+
+# 2 基本原理
+
+卫星激光测距测量的是激光脉冲往返的飞行时间，在测距过程中，由于系统噪声、环境噪声等的影响，残差数据中有大量的噪声，我们需要从噪声中识别信号数据。本文处理的数据对象是测距残差图像，我们对残差图像进行卷积操作，得到图像的边缘信息，即得到信号位置，然后再通过图像的对应关系还原到原始信号，这一阶段的数据含有比较多的噪声数据，我们仍需要经过对数据进行拟合去噪得到需要的信号数据，根据具体精度的要求可以继续对数据进行处理。
+
+# 3 方法步骤
+
+# 3.1获取测距残差图像
+
+本次原始测距数据全部源自于云南天文台应用天文研究团组1.2米望远镜，观测目标为卫星和部分空间碎片等。激光器百赫兹或其他不同频率都需要插值计算激光器每个主波时刻对应的预报距离[3。本文采用的是拉格朗日三阶插值。目前，卫星测距系统一般都采用事件计时器作为时间测量设备。该器件将每个激光脉冲的发射时刻（主波）与接收时刻（回波）分别作为A、B事件，需要将回波与真实的主波进行匹配，匹配过程的流程是，对于每个B事件（ $\cdot \bf { b } _ { j } )$ ，与每一个A事件（ai）的时刻做减法，其差值再减去此A事件所对应的预报距离时间，当其小于给定的阈值T时则认为匹配成功[3]。
+
+$$
+\mid ( b _ { j } - a _ { i } ) - p r e d ( a _ { i } ) \mid < = T
+$$
+
+遍历公式（1）中的i,j，满足条件的保存主波时刻和所匹配成功的回波时刻，然后生成测距残差图像，横坐标是主波时刻 $\mathrm { \Delta T _ { a } }$ ，纵坐标是残差值。
+
+# 3.2边缘检测
+
+图像边缘具有方向和幅度两个特征，沿着图像边缘方向，像素的亮度变化较小，但在垂直于边缘方向，像素的亮度值变化比较剧烈。图像边缘检测的基本思路就是通过对图像求解一阶导数的局部极大值来表示图片的边缘信息。经典的边缘检测方法是对原始图像中所有像素的周围邻域进行卷积运算，这种运算的模块贝称为检测算子，常用的边缘检测算子有：Roberts 算子、Sobel算子、Prewitt算子、Kirsch算子、LOG（高斯—拉普拉斯）算子和Canny算 子等。这些方法多是以要处理像素为中心的邻域进行灰度 分析，实现对图像边缘的提取[8]。
+
+下面介绍常用的一种边缘检测模板 Sobel 算子。Sobel 算子主要是利用像素点上下、左右邻点的灰度加权算法，具有很好的边缘检测性，并对噪声具有平滑作用，缺点是它同时也会检测出许多的伪边缘。一般来说对精度要求不是很高时，经常采用这种方法。Sobel算子有两个：一个是检测水平边缘的，另一个是检测垂直边缘的。Sobel 算子是滤波算子的形式，用于提取边缘，可以利用快速卷积函数，简单有效，因此应用广泛。Sobel算子边缘算子所采用的算法是先进行加权平均，然后进行微分运算，算子的计算方法如下：
+
+$$
+G x = \left[ f ( x - 1 , \ y - 1 ) + 2 f ( x - 1 , \ y ) + f ( x - 1 , \ y + 1 ) \right] - \left[ f ( x + 1 , \ y - 1 ) + 2 f ( x + 1 , \ y ) + f ( x + 1 , \ y + 1 ) \right] .
+$$
+
+$$
+G y = \left[ f ( x - 1 , \ y + 1 ) + 2 f ( x , \ y + 1 ) + f ( x + 1 , \ y + 1 ) \right] - \left[ f ( x - 1 , \ y - 1 ) + 2 f ( x , \ y - 1 ) + f ( x + 1 , \ y - 1 ) \right] \left[ f ( x - 1 , \ y - 1 ) + f ( x + 1 , \ y - 1 ) \right] .
+$$
+
+公式（2）是检测水平边缘，公式（3）是检测垂直边缘。
+
+算子包含两组3x3的矩阵，分别为横向及纵向，将之与图像作平面卷积，即可分别得出横向及纵向的亮度差分近似值。如果以A代表原始图像， $\operatorname { G x }$ 及Gy分别代表经横向及纵向边缘检测的图像，其方法具体如下，其中I是图像G的一部分，循环遍历图像G得到经过边缘检测之后的图像。
+
+水平变化：将Ⅰ与一个奇数大小的内核 $\mathbf { G } _ { \mathrm { x } }$ 进行卷积。当内核大小为3 时， $\mathbf { G } _ { \mathrm { x } }$ 的计算结果如公式(4）。
+
+$$
+G _ { x } = { \left[ \begin{array} { l l l } { 1 } & { 0 } & { - 1 } \\ { 2 } & { 0 } & { - 2 } \\ { 1 } & { 0 } & { - 1 } \end{array} \right] } * I 
+$$
+
+垂直变化:将I与一个奇数大小的内核 $\mathbf { G } _ { \mathrm { y } }$ 进行卷积。当内核大小为3时, $\mathrm { G _ { y } }$ 的计算结果公式（5）。
+
+$$
+G _ { y } = { \left[ \begin{array} { l l l } { 1 } & { 2 } & { 1 } \\ { 0 } & { 0 } & { 0 } \\ { - 1 } & { - 2 } & { - 1 } \end{array} \right] } * I 
+$$
+
+我们对已有残差图像进行基于 Sobel算子的边缘检测，将以 2019年11月15日 glonass-129 卫星为例，如图1和图2。
+
+![](images/90a6495344a53764e3c11a4410e82f945d36a7b2bda705cccff4cb6502e473c3.jpg)  
+图12019.11.15-glonass129 测距残差原图  
+Fig.1 2019.11.15-glonass129 original image of ranging residual   
+图22019.11.15-glonass129残差图经过sobel方法边缘检测  
+Fig.22O19.11.15-glonass129 residual image after sobel method edge detection
+
+。 0 080 0 88 。 。00 。。 C 0 800。。 C  
+8 O 8 00 8 o0 00 8。 00 。 8 00 8 3 005 00 。。 。 %。 8 p 。 0080 88 8880 1 C 080 8 8 。 8。 。 8 00  
+品0 Q 门 0 。 O 00 30 80 . 。 。 C 。。 。 OO 0 8 。 8 。 8 。 000  
+O 。 0 00 O O O 8 。 。 3 8 。 。。  
+DD 8 品 ） 8%0 \~ 8 8。O 8 。 C 。 3 。 08 od 。 。  
+8 9 888 O 。。。 8P 8 888 O 。8 0 O 88 8  
+OC 8 0 L O0  
+。 8 。 0  
+D 80 8 。 8 。。 8 ） 8 0。 5 0 。 0 0 O。 8 。 00 8 8 Q . 0 8。 080 ） 。 O 0 080 。 O 0o 。 8 0 9。 。 。°。 。。 0 C 。 000  
+。D Uoo DO . 。 。0 0 8 8 。 8 。。。 90 O 00 00 08 。 。 。 000 .
+
+为了方便处理，我们将原图转成灰度图进行 sobel边缘检测处理，结果如图2，这种效果不是我们想要的，从图1中可以看到信号集中在中间的黑色宽线段，然而经过 sobel边缘检测后，图1中所有的位置边缘信息全部检测并保留下来，但是我们并不需要那些孤立的噪声点，因此，根据 sobel 背后的数学原理，我们设计出了一种专门针对测距信号的边缘检测，也就是我们需要设计一个大尺度的卷积核（算子）并且只进行近似横向的识别，因为在大尺度的残差图中，信号数据显示在残差图上一般是近似的直线。这些参数的选择需要尽可能的包含信号，当然会把噪声也涵盖进来，由于在残差图像信号位置附近信号密度一般比噪声密度大，后面只需简单的经过统计学的原则和粗拟合来去除过于明显的噪声。
+
+sobel算子的尺寸是 $3 ^ { * } 3$ ，九个元素对图像进行遍历卷积，经过图2的观察分析，对于激光测距残差图来说，小尺寸的卷积操作会保留更多的噪声。因此，本文设计了尺寸为 $5 ^ { * } 6 5$ 的算子 $\mathrm { \Delta O _ { N } }$ （具体形式见公式6），来对测距残差图像进行卷积操作，图3是经过新算子的处理结果。
+
+$$
+O _ { N } = \left[ \begin{array} { l l l l } { 1 } & { 1 } & { \ldots } & { 1 } & { 1 } \\ { 0 } & { 0 } & { \ldots } & { 0 } & { 0 } \\ { 0 } & { 0 } & { \ldots } & { 0 } & { 0 } \\ { 0 } & { 0 } & { \ldots } & { 0 } & { 0 } \\ { - 1 } & { - 1 } & { \ldots } & { - 1 } & { - 1 } \end{array} \right] / 6 5 \
+$$
+
+公式（6）中的矩阵大小是 $5 ^ { * } 6 5$ ，需要补充的是所有的测距残差图像原始尺寸均为 $1 6 1 0 ^ { * } 2 4 2 5 ^ { * } 3$ （宽\*长\*通道），最后边缘检测结果的图片尺寸均为 $1 0 6 8 ^ { * } 2 3 6 1$ （宽\*长），由于对原始图片进行了灰度处理所以结果变为单通道。下面说明参数大小设置原因，根据信号长度的特点，经过对一些图片处理之后，设置了算子经验长度值65；结构类似与 sobel算子，第一行与第三行是相反数，第二行设置为零；与sobel不同的是新的算子第一行全部设置为1，因为在图片转化成灰度图后，为加快速度方便计算，本文又将其二值化，所以横向的像素点强度服从均匀分布而不是高斯分布，所以全部设置为一样；同样也对矩阵进行了零均值和归一化处理。
+
+![](images/c6d24a9f5fdf9e391696516bf4a406d7123f546e7c77cfa14edfb9f6320e6edc.jpg)  
+图32019.11.15-glonass129残差图经过超大尺度算子边缘检测结果  
+Fig. 3 2019.11.15-glonass129 residual image after super-large-scale operator edge detection results
+
+# 3.3信号恢复
+
+经过对图像进行边缘检测，最终得到了信号在图像中的位置，但是我们需要的是主波时刻，需要指出的是主波和回波已经在第一步匹配完成，所以此时得到主波信号即可。所以对图像处理还原到主波时刻，本文采用的做法是按照图像大小比例和信号位置比例来还原时间信号。为便于描述，将原始残差图像记为 $G _ { 0 }$ ，得到的图像记为 $G _ { 1 }$ ，确定 $G _ { 0 }$ 和 $G _ { 1 }$ 大小比例系数k，G图起始主波时刻 $A _ { 0 }$ ，具体做法是，对于 $G _ { 1 }$ 中的每个信号点的横坐标 $\mathbf { C } _ { i }$ 所对应的原始主波时刻计算公式为：
+
+$$
+\mathbf { C } _ { i } = A \operatorname* { m i n } \mid ( A 0 + B i * k ) \mid
+$$
+
+这时得到信号为粗略信号，这意味着还原主波数据中还会携带一些噪声数据如图4，我们仍需要过滤掉明显的噪声点。
+
+![](images/83f52dde3f1dc41189d929ad29d4a11c8c3210c0f1f67cfa1915f70a15e48315.jpg)  
+图42019.11.15-glonass129数据还原后含有噪声结果
+
+![](images/0cdc99093f7e71244e3265b91c94549aad4418ff3d13ce5dbe6867f79c2084ef.jpg)  
+Fig. 4 2O19.11.15-glonass129 data contains noisy results after restoration   
+图5glonass129数据还原后粗略去除噪声结果
+
+# 4结果与分析
+
+# 4.1处理结果
+
+![](images/cf2b9b2679a4f4cf33d32eeb7d798e16a9ae801d53f1ca8c3ba842ba15284644.jpg)  
+Fig. 5 glonass129 Data reduction results after rough reduction
+
+我们对不同的卫星和一些空间碎片都进行了边缘检测，但是由于篇幅有限，本文只列举一些典型目标来说明，这些原始信号包括弱噪声强信号、强噪声弱信号、强噪声强信号。如图6--图9，其中(a)图是原始残差图，处理结果(b)是边缘检测后的信号残差图，(c)放大显示的残差图。
+
+![](images/91e24af40f7814ab2237bba65c8f1062409ff9cb4f3b295b4a204ee4250c946b.jpg)  
+Fig.637731 space debris raw dataand processing results   
+图7 beaconc卫星的原始数据(a),处理结果(b),(c)
+
+![](images/2cc8a6e66e8e09b6744e921e2030d6d2aea770a1ef3ca35280a40f9a18fb2222.jpg)  
+图6 37731空间碎片的原始数据(a),处理结果(b),(c)  
+Fig.7 beaconc satellite raw data and processing results   
+图8 021108 空间碎片的原始数据(a),处理结果(b),(c)  
+Fig.8 O211o8Space debrisrawdata and processingresults
+
+![](images/4d5547d6bbf594cc6e418962c4cc54b38d5e3fa67abf590e0fe13b12ef1bf7d8.jpg)  
+图9 09904空间碎片的原始数据(a),处理结果(b),(c)  
+Fig.9 O99O4 Space debris raw data and processing results
+
+# 表1一些目标的精度分析
+
+Table 1 Precision analysis of some targets   
+
+<html><body><table><tr><td>NORAD ID</td><td>RCS/m²</td><td colspan="2">Precision/cm</td><td colspan="2">Number</td></tr><tr><td>37731</td><td>8.5270</td><td>Edge_M 213.1</td><td>Graz 256.3</td><td>Edge_M 164</td><td>Graz 131</td></tr><tr><td>021108</td><td>5.6696</td><td>285.2</td><td>330.9</td><td>94</td><td></td></tr><tr><td>09904</td><td></td><td></td><td></td><td></td><td>52</td></tr><tr><td>1328(beaconc)</td><td>7.7161</td><td>174.5</td><td>175.6</td><td>79</td><td>46</td></tr><tr><td></td><td>2.2651</td><td>40.4</td><td>39.7</td><td>1454</td><td>1417</td></tr><tr><td>17908(ajisai)</td><td>3.9811</td><td>80.4</td><td>82.0</td><td>34021</td><td>35364</td></tr></table></body></html>
+
+表1是一些空间目标的精度分析，第一列NORADID是北美防空司令部空间物体的编号，第二列是雷达散射截面积（Radar Cross Section，RCS），第三列是双向测距精度（激光器脉宽7ns），子列 Edge_M是边缘检测方法的精度，子列Graz是目前常用测距数据处理方法(Graz 自动识别方法)的精度，第四列是识别信号点数量，子列分别是两种方法识别的点数。
+
+# 4.2结果分析
+
+通过 4.1结果可以看出，通过边缘检测的方法识别的信号长度较原图短一些即初始识别存在漏点，主要原因是卷积核矩阵的长度过长，但是这是不可避免的，检测大尺度横向的边缘，只能采取大尺度卷积核。为了使数据量不减少，采取了一种简单的扩充方式，具体是把边缘检测每段结果的长度左右扩大一些，只要其残差符合给定的阈值即亦认为是信号，后期需要再进行拟合分析。通过表1可以看出，碎片的精度大致在米级，beaconc 和ajisai激光测距卫星的精度为分米级。
+
+通过以上分析可以知道，本文在信号数量较少时，并不能检测到边缘，也就是该方法有识别最少信号量的限制，需要手动调整卷积核的大小以适应，这是后续努力的方向，另外，新的卷积核计算比较耗费时间也是接下来改进的方向。
+
+# 5结论
+
+本文提出了一种基于通过图像边缘检测识别激光测距信号的新方法，该方法处理的数据对象是测距残差图像，对其进行图像边缘检测，利用新的大尺度卷积核来完成特定的检测目标，最后根据图像对应数学关系还原回主波和回波信号。为了特殊目标的需求，自己设计专用的卷积核（算子)，另由于图像还原时误差较大来了额外的噪声，通过对所列目标的精度分析表明该方法的有效性。
+
+# 参考文献
+
+1．叶叔华,黄城.天文地球动力学[M].山东科学技术出版社,2000. Ye S H, Huang C .Astrogeodynami cs[ M] .Shandong : Shandong Science and Technology Publishing House, $2 0 0 0 . 9 1 \sim 1 1 8$ ：   
+2．何芸，刘祺，田伟,等.地月第二拉格朗日点卫星激光测距技术研究[J].深空探测学报，2017,4(002):130- 137. He Yun,Liu Qi,Tian Wei,et al. Study on laser rangingfor satelite on the second lagrange point of EarthMoon system [J]. Journal of Deep Space Exploration，2017,4(2): 130-137.   
+3．MEN Tao,SHEN Zhao,XU Rong,等.空间目标激光测距技术发展现状及趋势[J].激光与红外，2018, 048(012):1451-1457. Men Tao， Shen Zhao，Xu Rong，et al. Development status and tendency of space target laser ranging technique [J].Laser & Infrared, 2018,48(12): 1451-1457.   
+4．李熙,汤儒峰,李祝莲,等.基于二值图像的卫星激光测距数据处理[J].中国激光,2014(12):182-189. Xi L,Rufeng T, Zhulian L,et al. Laser Ranging Data Processing Based on the Analysis of the Binary Image[J]. chinese journal of lasers,2014,41(12):182-189.   
+5．赵春梅等.空间目标激光测距技术及应用[M].科学出版社,2015. Zhao Chun Mei. Laser Ranging Technology and Application of Space Target[M]. science press,2015.   
+6．段瑞玲，李庆祥，李玉和.图像边缘检测方法研究综述[J]。光学技术,2005,31(3). Duan Rui Ling, Li Qing Xiang， Li Yu He. Summary of image edge detection [J].optical technique,2005,31(3) .   
+7．汤儒峰.空间目标激光测距信号处理与应用[D].2015. Tang RF. Research on Characteristics of the Spatial Target Based on Laser Ranging Technology[D]. 2015.   
+8．孙红艳,张海英.图像边缘检测算法的比较与分析[j].菏泽学院学报.2010,32(2). Sun Hong Yan,Zhang Hai Ying.The Comparison and Analysis of Image Edge Detection Algorithms[J]. Journal of Heze University.2010,32(2).

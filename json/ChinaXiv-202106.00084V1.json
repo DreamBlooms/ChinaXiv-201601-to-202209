@@ -1,0 +1,335 @@
+[
+    {
+        "type": "text",
+        "text": "塔里木河下游输水20a的生态响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李玉朋¹，陈亚宁1，叶朝霞¹，王非1,²，孙帆}²，秦景秀1,2(1.中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2.中国科学院大学，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了补给塔里木河下游断流的河道和挽救濒死的荒漠群落，自2001年塔里木河实施了生态输水工程，流域生态环境得到初步改善，实现了流域经济社会发展与生态环境保护的双赢。在生态输水 $2 0 \\mathrm { a }$ 之际，为了评估输水的生态效应，基于多源遥感数据MOD13Q1和MCD12Q1数据，通过数学统计方法调查了塔里木河下游归一化植被指数(NDVI)和植被覆盖度的时空变化。结果表明：经过近20a的生态输水，塔里木河下游的NDVI从2000年的0.14增大到2020年的0.21,增幅达$3 3 . 3 \\%$ ，植被面积从2000年 $4 9 2 \\mathrm { k m } ^ { 2 }$ 扩大到2020年的 $1 4 2 3 \\ \\mathrm { k m } ^ { 2 }$ ；其中，低、中、高植被覆盖度的面积相较于2000年分别增多了 $2 7 7 \\mathrm { k m } ^ { 2 } , 5 3 7 \\mathrm { k m } ^ { 2 }$ 和 $1 3 2 \\mathrm { k m } ^ { 2 }$ ,增幅分别达到 $2 0 . 8 \\%$ ， $4 4 8 . 0 \\%$ 和 $1 9 0 . 0 \\%$ ，中段的植被面积和植被覆盖度的增幅均高于上、下段区域的增幅。NDVI和植被覆盖度均表现为距离河道 $2 \\mathrm { k m }$ 范围内的值较大，且增幅也较大， $2 \\mathrm { k m }$ 以外NDVI和植被覆盖度逐渐变小，且增幅也较小。空间上来看，约有 $5 7 . 1 \\%$ 的区域NDVI和植被覆盖度呈现显著增加趋势，显著减小的区域都不超过 $2 . 0 \\%$ 。Hurst指数表明超过 $7 5 . 0 \\%$ 以上的区域这种变绿的趋势会在未来继续保持，仅有 $6 . 1 \\%$ 的区域生态会继续恶化。综合评估塔里木河输水工程的生态效应，对于干旱区荒漠的保育恢复治理、生态水资源管理等方面具有重要的科学意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：塔里木河下游；生态输水；NDVI；植被覆盖度文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "塔里木河下游段大致指大西海子水库至台特玛湖这一段的范围，全长约 $4 2 8 ~ \\mathrm { k m }$ ,根据研究区不同区域的差异，塔里木河下游段可以进一步划分为上、中、下游段，上游段的范围为大西海子水库一英苏段，中游段为英苏一阿拉干段，下游段为阿拉干一台特玛湖段(图1)。塔里木河下游的东西两侧分别为库鲁克沙漠和塔克拉玛干沙漠，作为重要的绿色走廊，塔里木河下游阻隔着两大沙漠的合拢[1。塔里木河下游属于典型的温带大陆性气候，是中国最干旱的区域之一，多年平均温度为 $1 0 . 7 { \\sim } 1 1 . 5 ^ { \\circ } \\mathrm { C }$ ，降水稀少( $1 7 . 4 { \\sim } 4 2 . 0 ~ \\mathrm { m m } ,$ 且蒸发强烈 $2 5 0 0 { \\sim } 3 0 0 0 ~ \\mathrm { m m } ,$ ，多大风天气，光热资源丰富（太阳总辐射为 $5 6 9 2 \\sim$ $6 3 6 0 \\ \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 }$ ，日照时数为 $2 7 8 0 { \\sim } 2 9 8 0 \\ \\mathrm { h } , { > } 1 0 \\ \\mathrm { \\% }$ 年积温为 $4 1 0 0 { \\sim } 4 3 0 0 ~ \\mathrm { ^ { \\circ } C }$ )。塔里木河下游的海拔大致在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$8 0 0 { \\sim } 8 4 6 \\mathrm { m }$ 之间，地势表现为西北高东南低，土壤主要是砂质土壤，表层土壤主要为亚砂土，河岸两侧的植物群落主要为以芦苇、罗布麻、骆驼刺等为主的草本植物，怪柳为主的灌木和胡杨为主的乔木构成[2-3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了定量评估塔里木河下游输水的生态效应，国内外学者分别从野外观测、植被遥感等方面开展了一系列定量的生态效应评估。基于高精度的Landsat8OLI、Sentinel-2A数据对塔里木河下游的植被变化研究表明，塔里木河下游的植被面积得到持续的增加尤其以灌木恢复最为显著，恢复最大的区域集中于距离河道 $1 . 0 { \\sim } 2 . 5 \\ \\mathrm { k m }$ 的范围内[4]。依靠MOD13Q1和GF-2数据计算的植被覆盖度来看，塔里木河下游的高、中植被覆盖度面积均呈现增加态注：塔里木河下游的上游段为大西海子水库一英苏段;中游段为英苏一阿拉干段；下游段为阿拉干一台特玛湖段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/771af7912b551cda23a35b0d641cfb282a74287c9165e6659edf791d2ac9cd40.jpg",
+        "img_caption": [
+            "图1塔里木河下游位置分布图",
+            "Fig.1Distribution of the lower reaches of Tarim River "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "势，并且这种增加的区域主要集中于河道两侧和河流尾闾湿地[5]。基于时间轨迹法，王珊珊等[分析了塔里木河下游的2000一2015年土地利用变化，这期间林地草地面积增加，耕地湿地和人工用地面积减少，土地利用主要发生在塔里木河下游两岸的河水满溢区域。崔博超等基于CASA模型对塔里木河流域的净初级生产力(NPP)进行了估算，研究表明在2006—2016年整个流域草地NPP总体呈波动上升趋势，其中增长区域和负增长区域分别占 $6 4 . 1 \\%$ 和 $3 5 . 9 \\%$ ，NPP总量平均增长速度为 $1 . 3 1 { \\times } 1 0 ^ { 1 1 } \\mathrm { g } \\mathrm { C } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。以往的研究往往只是基于单指标或者某个侧面进行描述，在塔里木河生态输水20a之际，需要系统综合的梳理生态输水的综合影响，从多角度和多维度来评估生态输水的效应，以期为干旱区荒漠的保育恢复治理、生态水资源管理提供重要的科学依据",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1归一化植被指数(NDVI)数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了表征植被的生长情况，我们使用了NDVI和植被覆盖度这2个指标。NDVI数据使用的是MOD13Q1数据，时间分辨率为16d,时间跨度为2000—2020年，空间分辨率为 $2 5 0 \\mathrm { ~ m ~ }$ 。为了消除云的干扰，我们使用最大合成法获取月尺度的NDVI数据，并进一步合成年尺度的NDVI数据，同时，我们把NDVI大于0.1的区域划定为植被覆盖区。由于NDVI的时间序列具有长程依赖性，因此我们还基于Hurst指数8对塔里木河下游未来NDVI变化进行的预测，当 $0 . 5 { < } \\mathrm { H u r s t } { < } 1$ 时，表明NDVI序列具有长程正相关性，越接近1这种持续性也越强；当 $0 <$ Hurst $< 0 . 5$ 时，表明NDVI序列具有长程负相关性，越接近0这种反持续性也越强；当Hurst指数 $_ { = 0 . 0 5 }$ 时，表明NDVI的时间序列是是随机的，也即是说这种变化不存在持续性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2植被覆盖度数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖度是指植被在地面的垂直投影面积占统计区总面积的百分比，植被覆盖度与NDVI存在密切的关系，可通过建立两者之间的关系提取塔里木河下游区域的植被覆盖度信息[10-11]。这里我们采用混合像元二分模型来计算植被覆盖度，该算法的假设是基于每个像元的NDVI值由植被和土壤两部分构成，具体公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\Delta N D V I { = } } f \\mathrm { N D V I _ { v } } + ( 1 - f ) \\mathrm { N D V I _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $f$ 是植被覆盖度; $\\mathrm { \\Delta N D V I _ { v } }$ 是完全被植被覆盖像元的NDVI值； $\\mathrm { \\Delta N D V I _ { s } }$ 是土壤像元或无植被覆盖像元的NDVI值。对公式进行变化后植被覆盖度 $f$ 的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf { = } ( \\mathrm { N D V I - N D V I _ { s } ) / ( N D V I _ { v } - N D V I _ { s } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于MOD13Q1NDVI空间分辨率较粗[],因此很难找到完全为植被或裸地的像元，为了排除水体、冰雪覆盖像元，我们把研究区内NDVI最大值作为 $\\mathrm { \\Delta N D V I _ { v } }$ ,最小值作为 $\\mathrm { \\Delta N D V I _ { s } }$ 来计算植被覆盖度。这里我们依据国家2015版本的《生态环境状况评价技术规范》以及研究区的植被特点，将研究区划分为高植被覆盖区（ $( \\geqslant 5 0 \\%$ ）、中植被覆盖区( $2 0 \\% \\sim$ $5 0 \\%$ )和低植被覆盖区 $5 \\% { \\sim } 2 0 \\%$ 和裸地（ $( < 5 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3判定距离河道远近对生态要素的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这里为了判定距离河道远近对NDVI和植被覆盖度影响。纵向上，我们沿主河道做 $1 { \\sim } 1 0 \\ \\mathrm { k m }$ 范围内每隔 $1 \\mathrm { k m }$ 的缓冲区，计算每个缓冲区内各个生态要素的面积。横向上，分别计算上、中、下游段不同生态要素的变化并进行对比。同时这里各个要素的趋势计算基于简单线性回归方程",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1塔里木河下游NDVI变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2展示了塔里木河下游基于NDVI计算的植",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "被面积的时空变化。这里我们首先对比了2000、2010年和2020年NDVI在空间上的分布，从图中可以看出，生态输水以后，沿河道周边的NDVI值变大，表明生态环境得到有效改善。整个塔里木河下游的NDVI从2000年的0.14增大到2020年的0.21，增大了 $3 3 . 3 \\%$ 。近20a间上、中、下游段的NDVI分别增加了 $0 . 0 2 , 0 . 0 7 , 0 . 0 9$ ，增幅分别为 $1 0 . 7 \\% . 6 1 . 8 \\%$ 、$8 7 . 9 \\%$ 。整个塔里木河下游的植被面积从2000年的 $4 9 2 ~ \\mathrm { k m } ^ { 2 }$ 扩大到2020年的 $1 4 2 3 ~ \\mathrm { k m } ^ { 2 }$ ,增幅达到$1 8 8 . 0 \\%$ ,对比上、中、下游段的变化，各个河段的植被面积都处于增加趋势，增加速率最大的是中游段（ $1 9 . 9 0 \\mathrm { k m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { - 1 } )$ ,其次是下游段( $1 8 . 0 0 \\mathrm { k m } ^ { 2 } { \\cdot } \\mathrm { a } ^ { - 1 } ,$ ，最小是上游段 $( 6 . 9 7 \\ \\mathrm { k m } ^ { 2 } \\cdot \\mathrm { a } ^ { - 1 } )$ 。从距离河道的远近来看，植被面积距离河道越远，面积也相应越小，尤其是在 $2 ~ \\mathrm { k m }$ 范围内，植被面积的减少非常强烈， $2 \\mathrm { k m }$ 以外的区域表现为缓慢的减少。从变化趋势上也可以看到，距离河道越远植被面积增加的幅度响应也较小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3a展示了近20a塔里木河下游NDVI的空间变化趋势。从空间上来看，整个区域的NDVI都处于增加趋势，尤其是靠近河道的植被NDVI增幅都比较大。统计表明约有 $5 7 . 1 \\%$ 的区域呈显著增加，仅有 $1 . 7 \\%$ 区域呈显著减少，剩余 $4 1 . 2 \\%$ 的区域变化不显著，这些区域主要位于距离河道较远的裸地上。图3b展示了塔里木河下游的Hurst指数，从图中来看整个区域变绿的趋势未来在大多数区域会继续持续，这样的区域约占整个区域的 $7 5 . 6 \\%$ ，仅有$6 . 1 \\%$ 区域的植被NDVI会继续恶化。值得注意的是还有约 $1 7 . 3 \\%$ 区域原有的趋势会发生改变，这些区域主要集中于下游河道的右侧，具体的原因还需要进一步探究。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d30930efc543c5a8704e8dd948e0cf457fd8736df235372ab15ceda9855707f.jpg",
+        "img_caption": [
+            "图2塔里木河下游植被面积变化",
+            "Fig.2Variation of vegetation area in the lower reaches of Tarim River "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/83565cebb3213d35b150dcaff3fa260511a2fb630a2a0bfddf55a26e01e22763.jpg",
+        "img_caption": [
+            "注：图a中黑色圆点表示NDVI变化趋势显著的区域。",
+            "图3近20a年塔里木河下游NDVI空间变化趋势及其Hurst指数",
+            "Fig.3Spatial variation trend of NDVIand its Hurst index in the lower reaches of Tarim River in recent 20 ye "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2塔里木河下游植被覆盖度变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4为塔里木河下游植被覆盖度的时空变化。与植被NDVI的空间分布一致，相较于2000年，塔里木河下游的植被覆盖度在2020年得到很好的改善，沿河两岸的植被覆盖度显著提高（图 $4 \\mathrm { a } \\mathrm { \\sim } \\mathrm { c }$ )。在2020年整个塔里木河下游低、中、高覆盖度的植被面积相较于2000年分别增多了 $2 7 7 ~ \\mathrm { k m } ^ { 2 } \\cdot 5 3 7 ~ \\mathrm { k m } ^ { 2 }$ $1 3 2 { \\mathrm { ~ k m } } ^ { 2 }$ ,增幅分别达到 $2 0 . 8 \\%$ ） $4 4 8 . 0 \\%$ 、 $1 9 0 . 0 \\%$ （图4d)。我们还进一步分析了不同河段上的高、中、低植被覆盖度的变化。在上游段和中游段植被的低覆盖面积表现为减少的趋势，而中、高植被的覆盖面积在上游段和中游段表现为增加趋势，尤其是中游段中、高植被覆盖面积的增幅都相对较大。在下游段，各个类型的植被覆盖面积都是出于增加趋势，其中主要表现为低植被覆盖的面积增加为主。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图 $4 \\mathrm { g } \\mathrm { \\sim } \\mathrm { h }$ 可见，距离河道的距离越远，高、中、低植被覆盖面积也相应减小，尤其是在 $2 \\mathrm { k m }$ 范围内变化最为剧烈。从总体趋势来看，距离河道越远，各个类型的植被面积的增幅也相应减小，不过对于低植被覆盖区，在 $1 \\mathrm { k m }$ 范围内该类型的面积出现了减小的趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5a展示了近 $2 0 \\mathrm { a }$ 塔里木河下游植被覆盖度的空间变化趋势。从空间上来看，整个区域的植被覆盖度都处于增加趋势，尤其是靠近河道的植被覆盖度的增幅都比较大。统计表明约有 $9 0 . 1 \\%$ 区域植被覆盖度呈增加趋势， $5 7 . 7 \\%$ 区域呈显著增加，仅有$1 . 4 \\%$ 区域呈显著减少。图5b展示了塔里木河下游的Hurst指数，从图中来看整个区域植被覆盖度变好的趋势未来在大多数区域会继续持续，这样的区域约占整个区域的 $7 6 . 2 \\%$ ,仅有 $5 . 7 \\%$ 区域的植被覆盖度会继续恶化。值得注意的是还有约 $1 8 . 1 \\%$ 区域原有的趋势会发生改变，这些区域主要集中于下游河道的右侧。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文从多个角度分析了塔里木河下游生态影响，然而生态输水的效应还不限于此[13-15],除上文所述,有研究还指出植物的多样性也呈现好转，植被多样性种类变多，李梦怡等1研究指出胡杨新增生物量由2000年的 $1 6 . 6 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 增加到2017年的 $5 4 . 3 \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ，不过这种效应主要集中于距离河道 $7 0 0 \\mathrm { ~ m ~ }$ 范围内的区域[],这一点与高NDVI和高植被覆盖度位于近河道的规律相似。除此之外，响应最明显的是地下水位的拾升，有研究表明生态输水使得地下水得到很有效的补给，监测井的数据显示塔里木河下游整体抬升了 $4 ~ \\mathrm { m } ^ { [ 1 8 ] }$ ,其中在距河道 $1 \\mathrm { k m }$ 范围内的地下水由 $9 { \\sim } 1 0 \\mathrm { m }$ 回升到 $2 { \\sim } 5 \\mathrm { ~ m }$ ，满足植物生长的适宜生态水位 $2 { \\sim } 6 \\mathrm { m } ^ { [ 1 9 ] }$ 。抬升的地下水也改善了地下水的",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/61b7fddd43e54ed24791e4e737cd33d2c6066b42cd244e9a36653fa89a2d6a6e.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "注：图e中红色、绿色、蓝色阴影为2000—2020年不同植被覆盖度植被面积的标准差。",
+            "图4塔里木河下游植被覆盖度变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/346cb236920b4c6115de392ce0b74926de81cc57041a8f97ae832bee4110b25d.jpg",
+        "img_caption": [
+            "Fig.4Variation of vegetation cover in the lower reaches of Tarim River ",
+            "注：图a中黑色圆点表示植被覆盖度变化显著区域。",
+            "图5近20a年塔里木河下游植被覆盖度空间变化趋势及其Hurst指数"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5SpatialvariationtrendofvegetationcoveranditsHurstindexinthelowerreachesofTarimRiver inrecent2Oyears水质，在塔里木河下游距离主河道 $1 \\mathrm { k m }$ 的地下水矿化度由 $5 . 3 { \\sim } 7 . 8 ~ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 降到了 $1 . 1 { \\sim } 3 . 0 \\ \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 }$ 。作为塔里木河的尾闾，台特玛湖恢复也是重要的生态效益，不仅水域面积在近 $2 0 \\mathrm { a }$ 里逐渐扩大，而且湖区周边大量濒死的植物也得到了复苏，周边的湿地面积显著扩大,风尘扬沙天气也明显减小[20]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "塔里木河生态输水工程结束了塔里木河下游断流河道30a的历史，使得河岸两侧的胡杨重获新生，生态得到了有效拯救和恢复，所有这些极大鼓舞了流域各族民众保护生态环境、发展农业生产的信心。不过我们还需要看到以下3个问题[2：（1）流域结构性缺水问题依旧突出，农业用水依然占整个国民经济用水的绝对比例，“三生\"(生产、生态、生活)用水矛盾依然突出。(2）流域内地表水、地下水尚未实现“两水\"统管，部分地区的地下水超采问题仍很突出，导致地下水位大幅下降。全流域完成“三条红线\"控制目标任务艰巨。（3）胡杨林生态抢救输水过程中还未形成一个有效的工作协调机制，从而导致生态补水难以持续、生态用水难以得到保障。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于多源遥感产品据综合评估了塔里木河下游输水的生态响应，研究指标包括NDVI和植被覆盖度的上、中、下游段的时空变化以及与距离河道的关系。主要结论如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）塔里木河下游的NDVI在输水20a内不断增大，整个塔里木河下游的NDVI从2000年的0.14增大到2020年的0.21，增大了 $3 3 . 3 \\%$ 。在近20a中上、中、下游段的NDVI分别增加了 $0 . 0 2 , 0 . 0 7 , 0 . 0 9$ 增幅分别为 $1 0 . 7 \\% , 6 1 . 8 \\% , 8 7 . 9 \\%$ 。整个塔里木河下游的植被面积从2000年 $4 9 2 \\ \\mathrm { k m } ^ { 2 }$ 扩大到2020年的$1 4 2 3 \\mathrm { k m } ^ { 2 }$ ,增幅达到 $1 8 8 . 0 \\%$ 。NDVI随距离河道变远而减小，NDVI的变化趋势也是距离河道越远植被面积增加的速度越小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)塔里木河下游的植被覆盖度也逐渐增多，相较于2000年，塔里木河下游的植被覆盖度在2020年得到很好的改善，沿河两岸的植被覆盖度显著提高。在2020年整个塔里木河下游低、中、高覆盖度的植被面积相较于2000年分别增多了 $2 7 7 ~ \\mathrm { k m } ^ { 2 }$ 、$5 3 7 ~ \\mathrm { k m } ^ { 2 } \\setminus 1 3 2 ~ \\mathrm { k m } ^ { 2 }$ ，增幅分别达到 $2 0 . 8 \\%$ 、 $4 4 8 . 0 \\%$ 、$1 9 0 . 0 \\%$ 。植被覆盖度随河道的关系与NDVI的类似，近河道的植被覆盖度面积增加的幅度要快于远河道植被面积的增加速度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)   \n[1]孙帆,王弋,陈亚宁.塔里木盆地荒漠-绿洲过渡带动态变化及 其影响[J].生态学杂志,2020,39(10):3397-3407.[Sun Fan, Wang Yi, Chen Yaning.Dynamic changes of the desert-oasis ecotone and its influencing factors in Tarim Basin, China[J]. Chinese Journal of Ecology,2020,39(10): 3397-3407.]   \n[2]刘斌,赵雅莉,白洁,等.塔里木河下游流域输水工程生态效应 评价研究[J].地理空间信息,2020,18(3):113-117.[Liu Bin, Zhao Yali,Bai Jie,et al. Study on ecological effect evaluation of water conveyance project in the downstream basin of Trim River [J]. Geospatial Information,2020,18(3): 113-117.]   \n[3]马晓东,李卫红,朱成刚,等.塔里木河下游土壤水分与植被时 空变化特征[J].生态学报,2010,30(15):4035-4045.[Ma Xiaodong,Li Weihong,Zhu Chenggang,et al. Spatio-temporal variation in soil moisture and vegetation along the lower reaches of Tarim River, China[J].Acta Ecologica Sinica,2010,30(15): 4035- 4045.]   \n[4]李均力,肖昊,沈占锋,等.2013—2018年塔里木河下游植被动 态变化及其对生态输水的响应[J].干旱区研究,2020,37(4): 985-992.[Li Junli, Xiao Hao,Shen Zhanfeng,et al. Vegetation changes during the 2Ol3—2O18 period and its response to ecological water transport in the lower reaches of the Tarim River[J]. Arid Zone Research,2020,37(4): 985-992.]   \n[5]朱长明,李均力,沈占锋,等.基于MODIS 密集时间序列数据的 塔里木河下游植被活动过程监测[J].资源科学,2019,41(3): 179-188.[Zhu Changming,Li Junli, Shen Zhanfeng,et al. Spatiotemporal dynamics of vegetation activities in the lower reach of the Tarim River based on MODIS intensive time series data[J]. Resources Science,2019,41(3): 179-188.]   \n[6]王珊珊,王金林,周可法,等.塔里木河下游土地利用/覆被变化 对生态输水的响应[J].水资源保护,2021,37(2):69-74,80. [Wang Shanshan,Wang Jinlin, Zhou Kefa,et al. Response of land use/land cover change to ecological water transmisson in the lower reach of Tarim River[J]. Water Resources Protection, 2021,37 (2): 69-74,80.]   \n[7]崔博超,郑江华,吐尔逊·哈斯木,等.塔里木河流域草地净初级 生产力时空分异特征研究[J].草业学报,2020,179(6):4-16. [Cui Bochao, Zheng Jianghua,Tuerxun Hasimu,et al. Spatial-temporal characteristics of grassland net primary productivity (NPP) in the Tarim River Basin[J].Acta Prataculturae Sinica,2020,179 (6): 4-16.]   \n[8]江田汉,邓莲堂.Hurst 指数估计中存在的若干问题——以在气 候变化研究中的应用为例[J].地理科学，2004,24(2):177-182. [Jiang Tianhan,Deng Liantang.Some problems in estimatig a Hurst exponent: A case study of applicatings to climatic change[J]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Scientia Geographica Sinica,2004,24(2): 177-182.] [9]Wu X L,Hu F.Analysis of ecological carrying capacity using a fuzzy comprehensive evaluation method[J]. Ecological Indicators,   \n2020,113:106243,doi: 10.1016/j.ecolind.2020.106243. [10] 王非,毋兆鹏,汪洋,等.基于RS和GIS的塔里木盆地荒漠化动 态监测[J].生态学杂志,2017,36(4):1029-1037.[Wang Fei,Wu Zhaopeng,Wang Yang,et al. Dynamic monitoring of desertification in the Tarim Basin based on RS and GIS techniques[J]. Chinese Journal of Ecology,2017,36(4): 1029-1037.] [11] 穆少杰,李建龙,陈奕兆,等.2001—2010年内蒙古植被覆盖度 时空变化特征[J].地理学报,2012,67(9):1256-1268.[Mu Shaojie,Li Jianlong,Chen Yizhao,et al. Spatial differences of variations of vegetation coverage in Inner Mongolia during 2OO1—2010 [J].Acta Geographica Sinica,2012,67(9): 1256-268.] [12]Friedl M A,Sulla-Menashe D,Tan B,et al. MODIS collection 5 global land cover: Algorithm refinements and characterization of new datasets[J]. Remote Sensing of Environment,201o,114: 168-   \n182. [13] 李丽君,张小清,陈长清,等.近20a塔里木河下游输水对生态 环境的影响[J].干旱区地理,2018,41(2):238-47.[Li Lijun, Zhang Xiaoqing, Chen Changqing,et al. Ecological effects of water conveyance on the lower reaches of Tarim River in recent twenty years[J]. Arid Land Geography,2018,41(2): 238-47.] [14] 秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming,Zhang Ying,et al.Effects of climate change and human activities on vegetation productivity in arid areas[J].Arid Land Geography,2020,43(1): 117-125.] [15] 孙天瑶,李雪梅,许民,等.2000—2018年塔里木河流域植被覆 盖时空格局[J].干旱区地理,2020,43(2):415-424.[Sun Tianyao,Li Xuemei,Xu Min,et al. Spatial-temporal variations of vegetation coverage in the Tarim River Basin from 2OOO to 2O18[J].Arid Land Geography,2020,43(2): 415-424.]   \n[16] 李梦怡,邓铭江,凌红波,等.塔里木河下游水生态安全评价及 驱动要素分析[J].干旱区研究,2021,38(1):39-47.[Li Mengyi, Deng Mingjiang,Ling Hongbo,et al.Evaluation of ecological water security and analysis of driving factor in the lower Tarim River [J].Arid Zone Research,2021,38(1): 39-47.]   \n[17] 徐海量,陈亚宁,杨戈.塔里木河下游生态输水对植被和地下水 位的影响[J].环境科学,2003,24(4):18-22.[Xu Hailiang, Chen Yaning,Yang Ge.Effect of translating water on vegetation at the lower reaches of Tarim River[J]. Environmental Science,2003,24 (4): 18-22.]   \n[18] 雍正,赵成义,施枫芝,等.近20年塔里木河干流区地下水埋深 变化特征及其生态效应研究[J].水土保持学报,2020,34(3): 184-191.[Yong Zheng, Zhao Chengyi, Shi Fengzhi, et al. Variation characteristics of groundwater depth and its ecological effect in the main stream of Tarim River in recent 2O years[J].Journal of Soil and Water Conservation,2020,34(3): 184-191.]   \n[19] 邓铭江,杨鹏年,周海鹰,等.塔里木河下游水量转化特征及其 生态输水策略[J].干旱区研究,2017,34(4):717-726.[Deng Mingjiang,Yang Pengnian, Zhou Haiying,et al.Water conversion and strategy of ecological water conveyance in the lower reaches of the Tarim River[J].Arid Zone Research,2017,34(4): 717-726.]   \n[20] 王慧玲,吐尔逊·哈斯木.生态输水前后台特玛湖生态环境变化 探究分析[J].生态科学,2020,39(1):93-100.[Wang Huiling, Tursun Kasim. Exploration and analysis of ecological environment change of Tetma Lake before and after ecological water transfer[J]. Ecological Science,2020,39(1): 93-100.]   \n[21] 陈亚宁,李卫红,陈亚鹏,等.科技支撑新疆塔里木河流域生态 修复及可持续管理[J].干旱区地理.2018,41(5):901-907. [Chen Yaning,Li Weihong, Chen Yapeng,et al. Science in supporting the ecological restoration and sustainable development of the Tarim River Basin[J].Arid Land Geography,2018,41(5): 901-907.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ecological responses of ecological water conveyance in the lower reaches of Tarim River for20 years ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "LI Yupeng'， CHEN Yaning'， YE Zhaoxia'， WANG Feil²， SUN Fan1²，QIN Jingxiu12(1.StateKeyLaboratoryofDesertandOasisEcologyXinjiagIstituteofEcologandGeography,CineseAcademyofiec,Urumqi 830o11,Xinjiang,China;2.University of Chinese Academy of Sciences,Beijing 100049,China)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: An ecological water conveyance project has been implemented since 2Ool in the lower Tarim River, Xinjiang, China to replenish its broken river channel and save dying desert communities.The ecological environment of the basin of the river was initially improved,achieving a win-win situation considering both economic and social development and ecological environmental protection of the basin.In this paper,the spatiotemporal changes in the normalized diference vegetation index (NDVI) and vegetation cover in the lower Tarim River were investigated using mathematical statistical methods based on multisource remote sensing data (MOD13Q1 and MCDl2Q1)to evaluate the ecological effcts of water conveyance in the last 2O years.The results show that the NDVI of the lower reaches of Tarim River increased by $3 3 . 3 \\%$ (from 0.14 in 2000 to 0.21 in 2020) and that the vegetation area increased by $1 8 8 . 0 \\%$ (from $4 9 2 ~ \\mathrm { m } ^ { 2 }$ in 2000 to $1 4 2 3 \\ \\mathrm { m } ^ { 2 }$ in 2020). Compared with those in 2000,areas with low, medium,and high vegetation coverage increased by $2 7 7 \\mathrm { m } ^ { 2 }$ $5 3 7 \\mathrm { m } ^ { 2 }$ and $1 3 2 ~ \\mathrm { m } ^ { 2 }$ ,respectively (increase rates of $20 . 8 \\%$ ， $44 8 . 0 \\%$ ，and $1 9 0 . 0 \\%$ , respectively). The increases in the vegetation area and vegetation cover in the midstream section were higher than those in the upper and lower reaches.The NDVI and vegetation cover both showed large increases within $2 \\mathrm { k m }$ from the river banks, which gradually became smaller beyond $2 ~ \\mathrm { k m }$ ，Spatially,about $5 7 . 1 \\%$ of the areas showed a significant increasing trend in NDVI and vegetation cover, and no more than $2 . 0 \\%$ of the areas showed a significant decrease. The Hurst index indicates that more than $7 5 . 0 \\%$ of the areas with this greening trend will continue in the future and that only $6 . 1 \\%$ of the areas will continue to ecologically deteriorate.A comprehensive assessment of the ecological effects of Tarim River water conveyance project is of great scientific significance for the conservation and restoration management of arid zone deserts and ecological water resource management. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: lower reaches of Tarim River; ecological water conveyance； normalized diference vegetation index (NDVI)； vegetation cover ",
+        "page_idx": 7
+    }
+]

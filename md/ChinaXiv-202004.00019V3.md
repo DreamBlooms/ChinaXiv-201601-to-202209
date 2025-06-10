@@ -1,0 +1,389 @@
+# The phylogenetic position of Cladiucha within Tenthredinidae based on comprehensive mitochondrial phylogenomics and the evidence from comparative analyses of rRNA secondary structure
+
+Gengyun Niu1, Sijia Jiang 1,Ozgul Dogan²,Ertan Mahir Korkmaz², Mahir Budak²,Duo Wu 1,Meicai
+
+Wei1\*
+
+1 College of Life Sciences,Jiangxi Normal University, Nanchang 33oo22, China; \*   
+2 Faculty of Science,Department of Molecular Biology and Genetics, Sivas Cumhuriyet University,Sivas 58140,   
+Turkey Meicai Wei supervised the project, conceived the original idea. Gengyun Niu conceived and designed the experiments. They constantly optimized and adjusted the experimental plan.   
+Sijia Jiang performed heterogeneity analysis and constructed phylogenetic relationships.Duo Wu collected and analyzed the data. Ozgul Dogan and Ertan Mahir Korkmaz designed the experimental plan to estimate the divergence time and carried out the experiment under the guidance of Mahir Budak.Sijia Jiang and Duo Wu prepared figures and/or tables,Gengyun Niu further drawn the final layout.   
+Gengyun Niu took the lead in writing the manuscript. Sijia Jiang wrote part of the manuscript with support from Ozgül Dogan,and Ertan Mahir Korkmaz.   
+All authors provided critical feedback and helped shape the research,analysis,and manuscript.
+
+# Abstract
+
+Two mitogenomes of Cladiucha were newly reported and showed typical pattern of gene arrangement. The phylogenetic position of Cladiucha was obtained from tree reconstruction using various data treatment methods and substitution models. Significant heterogeneity in the nucleotide composition and mutational biases was found in the mitochondrial protein-coding genes,and the third codon position exhibited high levels of saturation.Therefore,14 datasets were conducted under both site-homogeneous and site-heterogeneous models.The following conclusions were drawn from the phylogenetic analyses: (i) the monophyly of Tenthredinidae was confirmed,(ii) the monophyly of Allantinae $^ +$ Tenthredininae $^ +$ Megabelesinae was approved,and (iii) within the family,((Tenthredininae $^ +$ Fenusinae) $^ +$ Allantinae) $^ +$ Megabelesinae) $^ +$ （204号 Nematinae) is probably the most acceptable cladogram for the phylogeny of Tenthredinidae,which is also supported by the morphological analysis and a comparative study on the rRNA secondary structure. Divergence time estimation analyses indicated that diversification of the major superfamilies of the suborder Symphyta occurred around $2 3 2 . 9 \mathrm { M a }$ , and the splits of Tenthredinidae were dated to $1 4 6 \mathrm { M a }$ ,which corresponds to the origin of the earliest lineages of flowering plants and major diversifications of core angiosperms,respectively.The Cladiucha arose in the Mid-Miocene; at that time,magnoliids are rapidly undergoing genus-species differentiation.
+
+Key words: Mitochondrial phylogenomics; PhyloBayes; Secondary strucures; Cladiucha; Tenthredinidae
+
+# 1．Introduction
+
+Tenthredinidae is the largest and a considerably complex family of the paraphyletic suborder Symphyta (Hymenoptera) with 5645 extant species in 400 general1l.This family has been variously divided into five[2],six[3],seven[4.5],eigh[6.7], $1 0 ^ { [ 8 ] }$ and $1 1 ^ { \left[ 9 \right] }$ subfamilies,or into four families and 12 subfamilies [10] or six families and 17 subfamilies[11l.The numbers of the subfamilies within Tenthredinidae and their contents are not quite consistent, though some tribes have been recognized in most systematic research studies. Megabeleses Takeuchi, $1 9 5 2 ^ { [ 4 ] }$ and Cladiucha Konow, $1 9 0 2 ^ { [ 1 2 ] }$ are the only two genera among Tenthredinidae members of which the species are known to feeding on plants of Magnoliaceae,a basal lineage of Angiosperms.Benson[5] set a monotypic tribe, Cladiuchini, for Cladiucha Konow under Emphytinae ( $\mathbf { \bar { \Psi } } = \mathbf { \Psi }$ Allantinae). Takeuchi[4] and Abe & Smith[7] placed the two genera into Allantinae of Tenthredinidae. Wei[13] pointed out that Megabeleses，Cladiucha,and two additional new genera represented a unique lineage among the Tenthredinidae and set a subfamily Megabelesesinae $( =$ （204号 Megabelesinae) to place them,which might locate between Allantinae and Tenthredininae.This opinion was followed in the new system provided by Wei & Nie[11l. However, Taeger et al.[3] still placed the four genera into Allantinae. This systematic inconsistency indicates the requirement of more detailed studies to better understand their evolutionary history by using comprehensive molecular data under the current approaches.
+
+The mitogenome data has recently been a widely applied tool in resolving longstanding questions about the evolutionary history of organisms due to their rapidly increasing number conjoint with their relative compactness in size and structure, inheritance type,absent or very infrequent recombination, and high mutation rate[14] [14].But then,the presence of high $\mathbf { A } { + } \mathbf { T }$ content, lineage-specific compositional heterogeneity,within-site rate variation (heterotachy)as wellas nucleotide substitution saturation can lead to challenges in phylogeny reconstructions[15-18l. These undesirable features can frequently cause the forming of analytical artifacts such as long-branch attraction and deceptive phylogenetic relationships.The occurrence of analytical objects is a commonly encountered problem in the phylogeny reconstruction of intra- and interlineages of insect orders, most notably in Hymenoptera[19].
+
+The effects of these biases in tree reconstruction are reduced using a variety of approaches,such as a series of data coding schemes and more sophisticated evolutionary model setings. Comparing the results of diferent data coding regimes is widely used to improve the signal-to-noise ratio in mitogenome datal17l. In general, misleading signals from protein-coding genes (PCGs)are not produced equally in the first, second, and third codon positions.In fact,the evolutionary rate of the third codon position is higher than that in the first and second codon positions.In some studies,the third codon positions have been removed from datasets.In addition, purine-pyrimidine (RY) coding(A&G $\mathrm { \Gamma } \to \mathrm { R }$ ; C&T ${  } \mathrm { Y }$ ) in the third codon position is a common data coding to alleviate the effects of saturated synonymous nucleotide substitutions and rate heterogeneity among codon positions[15,16,20l. However, this position may provide useful phylogenetic signals in some groups.Removing or replacing sites may confound the phylogenetic relationship to some
+
+extent[16,17,20l. Regier et al.[21 and Zwick etal.[2] proposed and designed a new data treatment, Degen coding,to reduce nucleotide compositional heterogeneity and improve the resolution of deep-level arthropod relationships.This data scheme can retain nonsynonymous changes at the third codon position while eliminating all of the synonymous changes by extending other coding schemes to fully degenerate all of the codons[17,20].
+
+In contrast to the wide application of PCGs in constructing phylogenetic relationships,rRNAs are used with caution.It has become a consensus,that rRNA could not be the protagonist in the inference,due to the ineffectiveness of aligning. Even using the alignments guidance by the secondary structure,few works could obtain satisfactory results.Due to insuficient data accumulation, homology structural motif have been explored in only a few taxa [23].
+
+Here,we sequenced and reported two mitogenome of Cladiucha.We compiled 14 concatenate datasets and applied several commonly used phylogenetic inference methods based on both heterogeneity and homogeneity models to overcome the systematic bias arising from nonstationarity.We also estimated a time-frame of Symphyta evolution, especially the origin and diversification of Tenthredinidae.Finally, we discussed the application of the autapomorphy of rRNAs in the phylogeny frame. Our objective was to investigate the effect of compositional heterogeneity on phylogenetic reconstruction and usage of autapomorphy of the secondary structure of rRNAs within the rapid radiation of Tenthredinidae.
+
+# 2. Methodology
+
+# DNA library construction and sequencing
+
+Total DNA was extracted from Cladiucha magnoliae, and $C$ punctata using an E.Z.N.A. $\textsuperscript { \textregistered }$ Tissue DNA Kit (Omega, Norcross, GA) and was stored at $- 2 0 ^ { \circ } \mathrm { C }$ according to the manufacturer's instructions. Sequencing libraries with approximately 25O-bp insertions were constructed using a NEXT flexTM Rapid DNA-Seq Kit (Ilumina, San Diego, CA) in accordance with the manufacturer's protocol. Each library was sequenced using an Ilumina HiSeq 4Oo0 to generate 15O-bp paired-end reads at Shanghai Majorbio Bio-pharm Technology Co.,Ltd. The genomic DNA yielded a total of 1.32G raw reads (SRR9998491) and 6.24G raw reads (SRR11177465).
+
+# Mitochondrial genome assembly and annotation
+
+The C. magnoliae and C. punctata reads were imported into GENEIOUS R11 (http://www.geneious.com)l24] and assembled into contigs. The mitogenomes of Megabeleses magnoliae (unpublished), M. liriodendrovorax (unpublished), Tenthredo tienmushana (KR703581) and Allantus luctifer (KJ713152) were used as references with ‘medium-low sensitivity’ parameters. M. magnoliae was the primary reference among these mitogenomes when concerning rrnS. MITOS (http://mitos.bioinf.uni-leipzig.de/index.py) was used to predict the protein-coding, transfer RNA, and ribosomal RNA genes with annotation from a reference mitogenome. The total tRNA genes were identified by MITOS[25] using the invertebrate mitochondrial genetic code. Geneious v11.0.3 (http://www.geneious.com) was used to determine the initiation and termination codons of the PCGs referring to the sequences of other symphytan species with subsequent manual adjustment. Both the 3" and $5 ^ { \circ }$ ends of rrnS were annotated by secondary structure comparison,rather than by the flanking genes.
+
+# Saturation, nucleotide compositions and heterogeneity
+
+MEGA v7.0 [26] was used to calculate the $\mathbf { A } { + } \mathbf { T }$ content of the nucleotide sequences and the relative synonymous codon usage (RSCU). In the strand encoding the majority of the PCGs, the strand asymmetry was calculated using the following formulas: $\mathrm { G C - s k e w } = \left( \mathrm { G - C } \right) / \left( \mathrm { G + C } \right)$ and AT-skew $\mathbf { \tau } = \mathbf { \tau }$ (A-T) / $( \mathrm { A } { + } \mathrm { T } )$ .Bubble charts (Fig.1） were generated using JMP. Three-dimensional scatter plots of the $\mathrm { A } { + } \mathrm { T } { - }$ and GC-skews and $A { + } \mathrm { T } \%$ of four datasets (Fig. 7) were plotted using SigmaPlot $1 4 ^ { \circledast }$ ：
+
+The disparity index $( I _ { D } )$ [27ldetects differences in the evolutionary patterns between a pair of sequences,thereby indirectly measuring the level of base compositional heterogeneity. P values [28] smaller than O.O5 were considered significant. The $I _ { D }$ values were calculated for six nucleotides datasets (PCG123,PCG12,PCG1,PCG2,and PCG3）and an amino acid dataset (AA） using 1000 Monte Carlo replications,as implemented in MEGA 7.0 [26].
+
+AliGROOVE[29] was used to analyze the heterogeneity of sequence divergence within various concatenated datasets for a default sliding window size. Indels in the nucleotide dataset were treated as ambiguities,and the BLOSUM62 matrix was used as the default amino acid substitution matrix.
+
+The saturation level in the nucleotide and amino acid sequences was visualized and assessed using DAMBE [30] and ASaturA [31] respectively.
+
+# Secondary structure prediction
+
+Secondary structures of ribosomal RNA (rrnS and rrnL） were predicted and inferred from alignments with models Tenthredo tienmushana (GenBank accesson No. KR703581） and Allantus luctifer (GenBank accession No. KJ713152). First, the primary sequence and the secondary structure of the model species were aligned in MARNA[32l to output a consensus sequence and a consensus structure. This output file was then imported into SSU-ALIGN[3] to predict the rRNA secondary structures of $C .$ ，magnoliae and $C$ 、punctata. Lastly，minor changes were made to transform the primary results into relative secondary structures manually. VARNA $\mathbf { v } 3  – 9 3 ^ { [ 3 4 ] }$ and RnaViz 2.0.3[35] were used to draw the secondary structures of rrnL and rrnS. Helix numbering，with minor modifications, was performed, following the Apis mellifera rRNA secondary structures[36]. the RNA structural logo shown in Figures 3 and 4 were generated by RNALogo[37].
+
+# Data sets
+
+The ingroup taxa for the phylogenetic analyses comprised 40 symphytan species,including eight taxa representatives of Tenthredinidea (Supplementary Table 1). Four taxa were also included as outgroups.
+
+A total of 13 PCGs were aligned individually,excluding the stop codons by MAFFT v7[38l, in PhyloSuite $\mathrm { v } 1 . 1 . 5 ^ { [ 3 9 ] }$ . Amino acid alignment of the 13 PCGs was performed using Clustal X. The two ribosomal RNAs were aligned by MAFFT v7.
+
+To eliminate the effect of saturation and compositional heterogeneity on the phylogenetic reconstruction, the following 14 concatenate datasets were compiled: 1） PCG:13 protein-coding genes；2） PCG12: 13 protein-coding genes excluding third codon positions；3） PCG12RY: 13 protein-coding genes with RY coding strategy; 4) PCGDegen: 13 protein-coding genes with Degen coding strategy； 5） 9PCG: nine protein-coding genes excluding four saturated genes； 6) 9PCG $^ +$ 4PCG12RY: nine protein-coding genes and four saturated genes with RY coding strategy; and all six data sets above combined with two RNAs: 7) $\mathbf { P C G + R N A }$ ；8） PCG12+RNA；9) PCG12RY+RNA；10）PCGDegen $+$ RNA;11) $\mathbf { 9 P C G + R N A }$ ； 12) $\mathbf { 9 P C G + 4 P C G 1 2 R Y + R N A }$ ；and two amino acid data sets: 13） AA: 13 protein-coding genes translated into amino acids;14) 11AA: unsaturated 11 amino acids.
+
+# Phylogenetic analysis
+
+The phylogenies were estimated using the Maximum Likelihood (ML)and Bayesian Inference (BI) methods.The ML analyses were conducted using an IQ-TREE web server (http://iqtree.cibiv.univie.ac.at/) and RAxML $\mathrm { v } 8 . 2 . 1 0 ^ { [ 4 0 ] }$ . The Bayesian analyses were performed using MrBayes $\mathbf { v } 3 . 2 . 6 ^ { [ 4 1 ] }$ and PhyloBayes $\mathbf { v } 3 . 3 \lbrack 4 2 \rbrack$ ：
+
+Before performing the model-based phylogenetic analyses,we determined the best partitioning scheme and model using PartitionFinder v1.1.1[43.41. The branch lengths and search algorithm settings were“unlinked’ and “greedy". The Bayesian information criterion (BIC) scheme and the corrected Akaike information criterion (AIC） were selected for the BI and ML methods，respectively. Accordingly,the datasets were partitioned into up to 16 subsets,and the best models were used for subsequent phylogenetic analyses.
+
+The ML tree was calculated with branch support estimated from 5Oo bootstrap replicates. The BI analyses consisted of four separate runs of four chains each, for 1O milion generations,sampling every 1OoO trees and discarding the first $2 5 \%$ generations as burn-in. An additional Bayesian analysis was undertaken in PhyloBayes $3 . 3 ^ { [ 4 2 ] }$ under the heterogeneous model CAT-GTR for 9PCG and CAT-MtArt for 11AA, including four independent chains. These analyses were terminated after the likelihood of the sampled trees had stabilized,and the chains had satisfactorily converged (maxdiff $\prec$ （204号 0.3). The phylogenetic trees were visualised by FigTree v1.4.2 (http://tree.bio.ed.ac.uk/software/figtree/).
+
+# Time estimation
+
+Bayesian estimation of divergence times was performed using the dataset of 11AA in MCMCTree implemented in the PAML package $\mathbf { v } 4 . 9 ^ { [ 4 5 ] }$ using the approximate likelihood method[46]. BASEML was used for the estimation of substitution rate per site,and this rate was used as the prior for
+
+Bayesian analysis.MCMC was run by $5 0 \mathrm { ~ x ~ } 1 0 { , } 0 0 0$ iterations with the mtArt substitution model. The soft bound of the split of the superfamily Tenthredinoidea from others [between 26O-29O million years ago (Ma)] was used as external secondary calibration based on previous studies[47.48l. The inferred nodal age of holometabolous insects (between $3 0 0 { - } 3 6 0 \ \mathrm { M a }$ ） was used for the calibration of the root[49,50].
+
+All of therelated fileshave beenuploaded to Figshare (https://figshare.com/account/home#/projects/78339)
+
+# 3.Results
+
+# Cladiucha mitogenomes
+
+The nearly complete mitogenomes of $C$ . magnoliae and $C$ ： punctate are 15,214 bp and 15,301 bp in length,respectively,and are accessed in GenBank (accession number: MT295305-MT295306). The organizations of these two mitogenomes are summarized in Table 1.
+
+Compared with the putative ancestral mitogenome of insects,only tRNA rearrangement events were detected.The position between trnM and trnI was swapped,and trnR was translocated from the second position in the trnA-trnR-trnN-trnS1-trnE-trnF cluster to the penultimate position. The $\mathbf { A } { + } \mathbf { T }$ -rich region was partly sequenced (Fig. 5).
+
+The gene overlaps,and gene gaps between C. magnoliae and $C$ ：punctate occurred in the same position. We identified six overlapping positions and 18 intergenic spacers. Twelve pairs of genes were directly adjacent. The total overlap length was 16 bp in both C. magnoliae and $C .$ punctata,with each overlap ranging from 1 to 7 bp. The longest overlapping nucleotide was found between atp6 and atp8. There were a total of 370 bp and 442 bp intergenic spacer sequences in C. magnoliae and $C$ punctata, respectively, which ranged from 1 to 151 bp in size.The longest intergenic spacer sequences for $C _ { }$ . magnoliae and $C .$ ： punctata of 130 bp and 151 bp, respectively,were located between trnV and rrnS. Using homologous searches, no significant similarities were found among the longest noncoding region in $C _ { \cdot }$ . magnoliae, C. punctata, or other identified symphytan species.
+
+Nine PCGs are located on the majority strand (J-strand),and four PCGs are located on the minority strand (N-strand) among the 13 PCGs of Cladiucha mitogenomes. The total lengths of the PCGs of these two species were 11,215 bp and 11,168 bp,respectively,accounting for $7 3 . 7 \%$ and $7 3 . 0 \%$ ,respectively,of the entire genomes.All of the PCGs started with ATN codons, including four genes (nad2,atp6,cox3,and cob) starting with ATG,five genes (coxl,cox2,atp8,nad5,and nad4L) starting with ATT and four genes (nad3,nad4, nad6,and nadl) starting with ATA. The stop codons were mostly TAA,except for nad4,which had T as the stop codon.
+
+The nearly complete mitogenomes of both C.magnoliae and $C .$ ： punctata contain 22 tRNA genes. There are 14 and eight tRNAs encoded by the J and $\mathbf { N }$ strands,respectively.The position and orientation of the predicted tRNAs are identical in the two species,ranging in size from 64 bp (trnD) to 75 bp (trnC) (Table 1). Only trnS1 (AGN) was missing a dihydrouridine (DHU) arm in both species. The predicted anticodons are identical to those of other known symphytan mitochondrial genomes (Fig. 6).
+
+Both of the rRNA genes were encoded on the N-strand.The rRNAs rrnL were flanked by trnLl and trnV. rrnS were downstream of the $t r n V$ ，with long intergenic space sequences.The length of the rrnL gene was 1344 bp in C. magnoliae and 1341 bp in $C$ punctata,with the same $\mathbf { A } { + } \mathbf { T }$ contents of $8 4 . 7 \%$ . The lengths of the rrnS genes for $C$ ，magnoliae and $C$ ：punctata were 813 bp ( $8 4 . 0 \%$ （204号 $\mathbf { A } { + } \mathbf { T }$ （202 content） and 835 bp（ $8 4 . 4 \%$ （204号 $\mathbf { A } { + } \mathbf { T }$ content),respectively. There are four domains with 27 helices in rrnS and six domains with 46 helices in rrnL in both species (Fig. 3-4).
+
+# Saturation, compositional heterogeneity and codon usage bias within nt data set
+
+The nucleotide composition in the mitogenomes was described using two statistics: the $_ { \mathrm { A + T } }$ content and the AT- and GC-skews[51l. The AT-skew values of $C .$ . magnoliae and $C$ punctata were positive (0.0169 and 0.0145,respectively), whereas the corresponding GC-skew values were negative (-0.0183 and -O.186O) for the entire mitogenome. The total $\mathbf { A } { + } \mathbf { T }$ content of $C .$ .magnoliae was $8 2 . 8 \%$ ranging from $7 4 . 5 \%$ $( c o x I )$ to $9 0 . 1 \%$ (atp8),whereas that of $C .$ punctata was $8 2 . 8 \%$ ,ranging from $7 4 . 8 \%$ (cox1) to $9 1 . 4 \%$ (atp8). The highest $\mathbf { A } { + } \mathbf { T }$ contents of $9 6 . 4 \%$ and $9 6 . 0 \%$ were found at the third codon position for $C .$ . magnoliae and $C .$ punctata,respectively.
+
+The RSCU of $C .$ magnoliae and $C$ ：punctata are presented. A significant correlation has been found between codon usage and nucleotide composition in $C$ 、magnoliae, C.punctata, and also in other insect mitogenomes. UUU-Phe, UUA-Leu, AUU-Ile, AUA-Met, and AAU-Asn had the highest usage rate among allamino acids. The highest RSCUs were found for UUA-Leu (5.O6 and 5.26 for $C$ magnoliae and $C$ ：punctata， respectively). CUC-Leu,CUG-Leu, GUC-Val， UCG-Ser， CCG-Thr, ACG-Thr, GCG-Ala, CGC-Arg, CGG-Arg,and AGC-Ser allhave a high CG content and were least frequently used. Crozier and Crozierl52] discussed how the effect of amino acid occurrence depends on the nucleotide composition of codon usage, which can be calculated in terms of the ratio of the total occurrence of $C { + } \mathbf { G }$ (Pro，Ala,Arg，and Gly）to $\mathbf { A } { + } \mathbf { T }$ (Phe,Ile,Met,Tyr，Asn,and Lys） in the mitogenomes. This ratio was O.18 and 0.25 in $C .$ magnoliae and $C$ ：punctata, respectively,which is close to that of other symphytan species (0.27-0.31)[53.54].
+
+The total $A { + } \mathrm { T } \%$ ofP $\mathrm { C G s } + \mathrm { r R N }$ IA of all of the included hymenopteran species ranged between $8 3 . 4 0 \%$ (Taeniogonalos taihorina） and $7 5 . 1 3 \%$ (Xyela curva),with a mean of 79.16 $( \pm 2 . 1 8 ) \%$ Among Tenthredinidae,Monocellicampa pruni had the lowest $A { + } \mathrm { T } \%$ ( $( 7 6 . 2 3 \% )$ ，whereas Cladiucha had the highest $A { + } \mathrm { T } \%$ （ $8 2 . 2 5 \%$ and $8 2 . 1 5 \%$ ） (Fig.2A). Irrespective of whether the third codon positions (Fig.2B) or the four oversaturated PCGs (Fig.2C) were removed, $X .$ curva and $T .$ taihorina had the lowest and highest $\mathbf { A } { + } \mathbf { T }$ contents,respectively,in Hymenoptera,and M. pruni,and the two Cladiucha species had the lowest and highest $\mathbf { A } { + } \mathbf { T }$ contents, respectively, in Tenthredinidae. Counting only the $1 3 ~ \mathrm { P C G s }$ ,the hymenopteran species with the lowest $\mathbf { A } { + } \mathbf { T }$ content was Orussus occidentalis （204号 $( 7 4 . 1 2 \% )$ , followed by $X .$ curva, with $7 4 . 4 1 \%$ $\mathbf { A } { + } \mathbf { T }$ (Fig.2D); otherwise, the same data were obtained as for the three abovementioned datasets.
+
+However,it was difficult to characterize each family based on the $\mathbf { A } { + } \mathbf { T }$ content alone.Therefore, we drew three-dimensional scater plots of the content, the AT-skew,and the GC-skew for 44 species in the $\mathrm { P C G + R N A }$ dataset.A radius was assigned to each coordinate point and used to simulate the locations of the relatively close species (Fig.5).The different taxa occupied relatively independent positions in space,especially Xyelidae (Fig. 5B） and Pamphiloidae (Fig. 5C).In Tenthredinidae, Cladiucha occupied a relatively independent position in contrast to the other Tenthredinidae species, which can be confirmed inFig.7.As shown in the left of Fig.7,compared to the rest Tenthredinidae species,Cladiucha had the highest $\mathbf { A } { + } \mathbf { T }$ content overall and for each codon.When compared within Symphyta, Cladiucha had the highest AT- $3 \%$
+
+The $I _ { D }$ test showed different evolutionary patterns for all six datasets； that is,evolution was significantly nonhomogeneous.
+
+A total of 946 pairwise comparisons were made for each dataset. The null hypothesis was rejected in 800 comparisons at the $5 \%$ significance level by comparing all 13 PCGs.
+
+The number of rejected comparisons based on individual codon partitions suggested that the level of base compositional heterogeneity was the lowest in PCG2 (485), followed by PCG12 (677),PCG1 (681) and PCG3 (703). The maximum $I _ { D }$ was 19.59 in PCG1 (between Taeniogonalos taihorina and Anopheles gambiae) and 30.88 in PCG3 (between C. magnoliae and Trachelus iudaicus), suggesting higher evolutionary variability for the third codon than the first codon. The maximum $I _ { D }$ of 7.53 for the AA dataset was found between T. taihorina and Anopheles gambiae,which was below that for the 13PCGs (27.076, between Paroster microsturtensis and $T .$ taihorina) and confirmed that the amino acid characters were less compositionally heterogeneous than nucleotide characters. The most homogeneous data set corresponded to PCG2，which had the lowest maximum $I _ { D }$ (6.79，between Parapolybia crocea and Neopanorpa phlchra) and the fewest rejected comparisons (485). However, we were not able to use the PCG2-based phylogeny results to cover the Pamphiloidae.
+
+The PCG3 mean ID was higher than that of PCG1 in each hymenopteran species, except for three Xyelidae species and two apocritan species. (Fig.7). In addition to having the lowest and highest $\mathbf { A } { + } \mathbf { T }$ contents，Tenthredinidae, Cladiucha and Monocelicampa had much higher nt123Sum and nt3Sum than the other species.Two Xyela species and T. taihorina in Apocrita had both ntl2Sum and nt1Sum above 2OO as well as the lowest and highest $\mathbf { A } { + } \mathbf { T }$ contents in Symphyta, respectively.
+
+The divergence between the nucleotide datasets (PCG123, PCG123RNA,PCG12,PCG12RNA, 9PCG123 and 9PCG123RNA) and the amino acid datasets (AA and 11AA) for the 44 species were analyzed using AliGROOVE software.
+
+In the PCG dataset (Fig.8A),the species with high heterogeneity were mainly distributed in Orussidae, Siricidae,and Cephidae,with one species each in Pergidae and Apocrita. However, the heterogeneity was reduced to varying degrees in the coding dataset (the PCG datasets with data recoding; Fig.8 B-E).Relatively positive scores were obtained for the amino acid datasets for nearly all of the family comparisons.The 11AA datasets were the least likely to violate the phylogenetic assumptions.However，with the addition of RNA,except for the taxa above,almost all of the Cephidae showed heterogeneity (Fig. 8 F-H).
+
+# Comparative analysis of rRNA
+
+In the rrnL secondary structure, H837 was a long variable stem with a small loop, whereas H991 and H1196 had variable helical lengths and loop sizes. The predicted structures of H563, H579, H777, H822, H1830, H2023, H2043, H2455,and H2547 were well conserved in C. magnoliae, C. punctata, and other reported insect species. H976 was redundant in two species and T. tienmushana. H1775 and H2347 were conserved with three pairs and a small loop. In the rrnL secondary structure of $C$ magnoliae and C. punctata， positions 293 and 294 (H777 helices） harbored AA，whereas T. tienmushana and Birmella discoidalisa (GenBank accession number KR703581, MF197548) harbored GU and A. luctifer (NC024664) harbored GA at the same site.The U at position 411 in H946 was replaced by A; the A-U (position 580 in H579) was changed to U-A; the G (position 1208 in H2588) was replaced by A; and the UU (position 1270-1271 in H2646) was changed to CC in T. tienmushana, A.luctifer and B.discoidalisa.
+
+In the rrnS secondary structure,domain III was the most conserved domain in Tenthredinidae. H47 was a commonly observed variable loop, whereas H500, H769, H944, H1047, H1399 and H1506 were highly conserved in the two Cladiucha species and other symphytan species. In terms of sequence and structure,H9 and H367 were the most conserved helices in the two Cladiucha species and in T. tienmushana,A. luctifer,and B. discoidalisa.The H960,H577,and H1241 helices in the two Cladiucha species were more similar to $T .$ tienmushana thanA.luctiferandB.discoidalisa.
+
+# Phylogenetic relationships
+
+The following conclusions are drawn from the results of 32 schemes (Fig.9): (i) Xyelidae is the root of Hymenoptera， with Macroxyelinae and Xyelinae forming the monophylum. (ii） Within Tenthredinoidea,Argidae and Pergidae form a monophylum as sisters to the remaining Cimbicidae and Tenthredinidae. (ii) Within Tenthredinidae， Nematinae (Analcellicampa xanthosoma $^ +$ （204号 Monocellicampa pruni） is a sister group of (Allantinae $^ +$ Tenthredininae $^ +$ Megabelesinae $^ +$ Fenusinae) and the basal branch of Tenthredinidae.
+
+However, the results of the 32 phylogenetic trees are inconclusive on the following issues: (i) the monophyly of Pamphilioidea; (ii) the relationships within Unicalcarida; and (ii) although most branches are highly supported, seven topologies have emerged in Tenthredinidae.
+
+Eight schemes supported topology No.3.，which was considered to be optimal in this work and was supported by phylogenetic tree construction with only eight Tenthredinidae species. Within Tenthredinidae,all 13 PCGs were unsaturated. Therefore,eight taxa_PCG and eight taxa_ $\mathrm { P C G } +$ rRNA datasets were used to build the BI tree, both of which supported topology No.3.Moreover, this topology was confirmed by the rRNA secondary structure. Topology No.1 confirmed to topology No. 3,except for the relative position of Megabelesinae and Allantinae.
+
+Three schemes supported topology No.5.and three other schemes, including the BI and ML trees of 11AA, supported topology No. 6. They both cover the monophyly of Allantinae $^ +$ Tenthredininae $^ +$ Megabelesinae.However,the secondary structure (Fig.1O) shows that Allantinae,Tenthredininae, and Fenusinae have multiple common derivatives, excluding topologies No.5 and No. 6 to some extent. Although there are nine schemes supporting topology No. 4 and six schemes supporting topology No.2, respectively, no apomorphic morphological character was found to confirm this result.
+
+# Dated phylogeny
+
+A chronogram of divergence times for the included hymenopteran species based on the obtained tree topology is shown in Fig.11.According to the divergence time analysis,the crown age of Hymenoptera was estimated as 318.1 Ma $[ 9 5 \%$ CI (300.88 - 349.61 Ma)] corresponding to Pennsylvanian (Carboniferous).Diversification of the major superfamilies of Symphyta occurred between the beginning of the Late Triassic (Carnian, $2 3 2 . 9 \ \mathrm { M a }$ ） and Jurassic-Cretaceous transition （204号 $( 1 4 5 . 0 \ \mathrm { \ M a } )$ .The splits of the families of the superfamily Tenthredinoidea were estimated as corresponding to Late Jurassic [Pergidae $^ +$ Argidae, $1 5 9 . 5 \ \mathrm { M a }$ ， $9 5 \%$ CI $( 9 4 . 7 3 \mathrm { ~ - ~ } 2 2 4 . 2 5 \mathrm { ~ M a } )$ ]and Early Jurassic [Cimbicidae $^ +$ Tenthredinidae, $1 8 7 . 5 \mathrm { { M a } }$ $9 5 \%$ CI (137.98 - 238.00 Ma)]. The splits of the subfamilies Nematinae and Allantinae from other subfamilies of the family Tenthredinidae were dated to $1 4 6 ~ \mathrm { M a }$ （2 $[ 9 5 \%$ CI $\mathrm { 1 0 2 . 1 1 \mathrm { ~ - ~ } 1 9 5 . 1 5 ~ M a ) }$ ]and $1 1 6 . 3 \ \mathrm { M a }$ $[ 9 5 \%$ CI $( 7 7 . 5 3 - 1 6 2 , 2 9 \mathrm { \ M a } ) ]$ ， coinciding to Late Jurassic (Tithonian) and Early Cretaceous (Aptian),respectively.The split time of the subfamily Tenthredininae from Heterarthrinae $^ +$ Megabelesesinae was inferred as $1 0 3 . 6 \mathrm { M a }$ （204号 $[9 5 \%$ CI $( 6 4 . 0 1 - 1 4 8 . 0 6 \ \mathrm { M a } )$ l,corresponding to Early Cretaceous (Aptian). The divergence between the subfamilies Heterarthrinae and Megabelesesinae was estimated to take place in Late Cretaceous [Coniacian, $8 6 . 4 ~ \mathrm { M a } ]$ . The divergence time of $C$ ，magnoliae and $C .$ punctata corresponds to the Mid-Miocene $[ 1 5 . 5 \mathrm { M a }$ $9 5 \%$ $( 5 . 7 - 3 4 . 3 9 \mathrm { M a } )$ 一
+
+# 4.Discussions
+
+# MitogenomecharacteristicsofCladiucha
+
+The translocation of trnR is a shared derived character of Cladiucha,which is a novel event in Symphyta and could be identified as a synapomorphy of Cladiucha. The trnI, trnQ,and trnM gene cluster rearrangement events are too random to reconstruct the patern of genome rearrangements. Thus,the evidence from gene rearrangements could not be used to determine the phylogeny of Tenthredinidae.
+
+In C. magnoliae, C. punctata, a conserved overlap and two conserved noncoding sequences were found.The conserved overlap (A） located between atp8 and cox3,and the conserved noncoding sequences (AA and T） located between nad4L and trnT,and between trnP,and nad6. These characteristics were also found in A. luctifer,T. tienmushana and B.discoidalisa.
+
+We found 21 and 2O mismatched pairs in the tRNAs of C. magnoliae and C. punctata, respectively, that were composed of G-U (10 pairs in C. magnoliae and 11 pairs in C. punctata), U-U (9 pairs in $C .$ magnoliae and seven pairs in C. punctata) and G-A (two pairs in each species) mispairing, which is common in Hymenoptera[14,5-59l. The mismatched pairs were mainly located on the DHU and the anticodon stems.
+
+The $I _ { D }$ corresponds to the disparity between the observed compositional difference for two sequences and the expected difference under homogeneity. That is, the $I _ { D }$ is zero when the homogeneity assumption is satisfied[27].
+
+Homogeneity $( I _ { D } { = } 0 )$ ）was observed between Cladiucha and Tremex， Trichiosoma， and Megalodontes (the first and second datasets).However, these taxa seldom share biological or evolutionary characteristics. Cladiucha distributes in southern China and neighboring countries of southeastern Asia, whereas the other taxa distribute in northern China.The Cladiucha species are monophagous leaf feeders of Magnolia and Manglietia of Magnoliaceae， a primitive family of Angiospermae. Tremex larvae bore into the stems of many species of Salicaceae of Rosopsida and Betulaceae and Fagaceae of Hamamelidopsida.The Trichiosoma species feed on the leaves of Salix spp. and Populus spp. of Salicaceae, Betula spp. of Betulaceae and Prunus spp. and Sorbus spp. of Rosaceae of Rosopsida. The Megalodontes larvae feed on the leaves of Sibiraea spp. of Rosaceae. Cladiucha larvae are gregarious, whereas the other aforementioned larvae are all solitary.
+
+# Phylogenetic relationship
+
+Different substitution pattrns were observed among the Symphyta lineages,and all the datasets appeared to be biased. However,the AA dataset was the least likely to violate the phylogenetic assumptions,and the heterogeneity model performed best in restoring the monophyly of Apocrita and Hymenoptera and supporting the formation of the monophyletic group of Apocrita and the Orussidae. Thus, we used tree No. 3 as a reference phylogeny (Fig. 9)
+
+Previous research studies have not considered the heterogeneity of the Symphyta sequence. Some of the novel methods that explicitly account for bias can overcome the yield problem caused by heterogeneity. However, discrepancies between such inferences within Tenthredinidae still exist.
+
+The relationships between more heterogeneous taxa, such as Vespina, Siricoidea, Xiphydriidae, and Cephidae,have not been resolved in the homogeneity model. However,the heterogeneity model recovered Orussidae within Vespina with Apocrita.
+
+Allfour schemes of the heterogeneity models support the monophyly of Pamphilioidea.However, the relationships between Cephidae remain unresolved.
+
+Given that all three schemes of the heterogeneity model produced topology No.2 of Tenthredinidae,we speculated that no advantage was obtained in using the heterogeneity model to determine the relationship between non-heterogeneous species.
+
+The ML of all of the datasets did not support the monophyly of Pamphilioidea or perform better than BI in restoring the monophyly of Unicalcarida.In determining the internal relationship of Cephidae,the problems solved by BI for the same dataset could not be resolved by ML.Thus,we speculate that ML is inferior to BIin terms of tree construction, which is consistent with the results of many previous studies[60].
+
+In contrast to the conclusions drawn from a study of Coleoptera[6ol，we found that the mitogenomic data containing RNA reduced the support of the Unicalcarida branches to varying degrees.The multiple branches inside the Cephidae also collapsed under RNA addition. We speculated that simply using the RNA primary sequence alignment results introduces more noise into the tree construction. Exploring the use of the secondary structure to construct phylogeny may lead to breakthroughs in the rational use of RNA genes.
+
+# Systematic placement ofCladiucha
+
+Based on morphological phylogeny, Wei & Nie[1 proposed the Tenthredinoidea s. str. System, which should form a framework for subsequent research of Symphytan phylogeny. Some of the results were subsequently confirmed by molecular data[61l， morphological data[62,63]，or combinations [64]. Nevertheless, Cladiucha has not sampled in the cladistic framework except for Wei & Nie[l1].
+
+Wei & Nie (1998) categorized Cladiucha as neither Allantinae nor Tenthredininae and established Megabelesinae，which included Cladiucha， Megabeleses，and two relative genera，based on morphological phylogeny. Our mitochondrial genomic data place Cladiucha as a sister to either Tenthredininae (topology No.5) or Fenusinae (topology No. 2 and No. 4).
+
+The monophyly of Allantinae $^ +$ Tenthredininae $^ +$ Megabelesinae (topology No. 5 and No.6) is strongly supported by many apomorphic characters,such as a derived upper head (for example, the differentiated frons),a large and broad mesepimeron covering the post-thoracic spiracle,a long and multisegmented lancet and a lance with a very short radix.However, the evidence from rRNA went against it. The violation may have occured due to the limited taxon sampling.
+
+Placing Cladiucha as a sister to Allantinae is not supported by our results. In addition to the mitochondrial genome data,the following evidence supports this result. The adult morphological characters support that Allantinae is a sister group of Tenthredininae; for example, both groups share derived mandibles,an enlarged head and a broadened anterior lobe of the pronotum,whereas,in Megabelesinae,the mandibles are simple and bidentate,the head is not distinctly enlarged behind the eyes,and the anterior lobe of the pronotum is very narrow. Megabelesinae species share a peculiar apomorphic character: the female lance has a long and broad membranous lobe and approaches the upper 0.3-O.5 of the lancet， which supports that Megabelesinae may have been diferentiated and isolated from the Allntinae-patern ancestor over a considerably long period.
+
+# Dated phylogeny of Symphyta
+
+Li et all65] depicted the phylogeny of angiosperm, with nearly 3000 chloroplast genomes from species representing all 64 orders. Molecular clock dating supports the earliest origin of flowering plants,dating the crown group to the Later Triassic period ${ \bf \tilde { \Omega } } { \bf \Omega } \sim 2 0 9 \ \mathrm { M a } , { \bf \Omega }$ )，which corresponds with the timing of the diversification of the largest superfamily in Symphyta, Tenthredinoidea (marked as a green block in Fig. 11). Subsequently，the occurrence of the spectacular diversification of core angiosperms may arise during the early stages of mesangiosperm evolution (\~164 Ma-159 Ma), which coincides with the rapid radiation of Tenthredinidae, which is the most diverse lineage in Symphyta.
+
+All of the known host plants of the Megabelesinae species are plants of Magnoliaceae,a very primitive angiosperm family.The magnoliid orders diverged in the Lower Cretaceous (\~140-132 Ma), as estimated in Li et al.65],or even olderl66l.Either the former or the later is far earlier than the split of Megabelesinae with others.This once again proved that more taxon needs to be sampled in the phylogeny. The species differentiation within Cladiucha corresponds with the genus and species differentiation within Magnolia[67] (marked as a green block in Fig. 11).
+
+# 5. Conclusions
+
+1. tRNA gene rearrangements have been found in the mitochondrial genomes of Cladiucha. Two species both have the highest $\mathbf { A } { + } \mathbf { T }$ content in the Tenthredinidae and, counting only the third codon, in the Symphyta. However, neither the ID nor the AliGROOVE showed heterogeneity.   
+2.Heterogeneity models can better describe the kinship between heterogeneous species.However, there is no obvious substantive improvement in analyzing the relationship of the species that do not show the heterogeneity.   
+3.The conserved motif in rRNAs could serve as a better potential synapomorphy than the optimized alignment.   
+4.Tenthredinidae is a monophyletic group.Within this family,((Tenthredininae $^ +$ Fenusinae) $^ +$ Allantinae) $^ +$ Megabelesinae) $^ +$ Nematinae） is probably the most acceptable cladogram for the
+
+phylogeny of Tenthredinidae, which is also supported by a comparative analysis of the RNA secondary structure.
+
+# ACKNOWLEDGEMENTS
+
+The members of theLabof Insect Systematics and Evolutionary Biology(LISEB)from Jiangxi Normal University are thanked for their contributions to laboratory work.We thank allte reviewers for their comments.
+
+# References
+
+[1] Taeger A E A.ECatSym-Electronic World Catalog of Symphyta (Insecta, Hymenoptera).[M]. Senckenberg Deutsches Entomologisches Institut (SDEI),2018.   
+[2] Malaise R. Tenthredinoidea of South-Eastern Asia with a general zoogeographical review [J]. Opuscula Entomologica,1945,4: 1-288.   
+[3] Taeger A,Blank S M,Liston AD.World catalog of Symphyta (Hymenoptera)[J]. Zootaxa,2010,2580:1-1064. [4]Takeuchi K.A generic classification of the Japanese Tenthredinidae (Hymenoptera: Symphyta)[M]. Kyoto:1952: 1-90.   
+[5] Benson R B.On the Classification of Sawflies (Hymenoptera Symphyta)[J]. Transactions of the Royal   
+Entomological Society of London,1938, 87(15): 353-384.   
+[6] Ross HH. Suborder Symphyta ( $\mathbf { \bar { \Psi } } = \mathbf { \Psi }$ Chalastogastra) [except the Siricoidea, the Pamphiliidae,and the genus Periclista][M]. Washington: United States Department of Agriculture Agriculture Monograph,1951.   
+[7] Abe M, Smith DR. The genus-group names of Symphyta (Hymenoptera) and their type species[J]. Esakia, Fukuoka,1991,31: 1-115.   
+[8] RossHH.A Generic Classification of the Nearctic Sawflies (Hymenoptera, Symphyta)[M].15. Urbana: Ilinois biological monographs,1937: 1-173.   
+[9] Rohwer S A.Technical papers on miscellaneous forest insects.II The genotypes of the sawflies or woodwasps,or the superfamily Tenthredinoidea.[M].20.Washington,DC:Technical series /US Department of Agriculture,Bureau of Entomology,1911. 60-109.   
+[10] Ashmead WH.Classification of the Hornbill and Sawflies,or the Suborder Phytophaga[J].The Canadian Entomologists,1898,30(6): 141-145,177-183,225-232,249-257,281-287,305-316.   
+[11] Wei M,Nie H. Generic list of Tenthredinoidea s.str. in new systematic arrangement with synonyms and distribution data[M].18. Zhuzhou: Journal of Central South Forestry University,1998.23-31.   
+[12] Konow F. Neue Blattwespen. (Hym.). [M].2. Teschendorf bei Stargard i. Mecklenburg,1902.   
+[13] Wei M. A new subfamily and two new genera of Tenthredinidae (Hymenoptera: Tenthredinomorpha)[J]. Entomotaxonomia, 1997,19(suppl.): 69-76.   
+[14]Cameron SL.Insect Mitochondrial Genomics: Implications for Evolution and Phylogeny[J]. Annual Reviewof Entomology,2014,59(1): 95-117.   
+[15] Yang H,LiT,Dang K,et al. Compositional and mutationalrate heterogeneity in mitochondrial genomes and its effect on the phylogenetic inferences of Cimicomorpha (Hemiptera: Heteroptera)[J]. BMC Genomics,2018,19(1): 1-13.   
+[16] Timmermans MJTN,Barton C,Haran J,et al.Family-level sampling of mitochondrial genomes in Coleoptera: Compositional heterogeneity and phylogenetics[J]. Genome Biology and Evolution,2016,8(1): 161-175.   
+[17]Song F,LiH,Jiang P,et al. Capturing the phylogenyof holometabola with mitochondrial genome data and Bayesian site-heterogeneous mixture models[J]. Genome Biology and Evolution,2016,8(5):1411-1426.   
+[18]LiH,ShaoR,Song N,etal.Higher-level phylogenyofparaneopteraninsects inferredfrom mitochondrial genome sequences[J]. Scientific Reports,2014,5:1-10.   
+[19]Talavera G,Vila R. What is the phylogenetic signal limit from mitogenomes?The reconciliation between mitochondrial and nuclear data in the Insecta classphylogeny[J]. BMC Evolutionary Biology,2011,11: 315. [20] Hojun S,Nathan C, Shefield, Stephen L,Cameron,et al. When phylogenetic assumptions are violated: base compositional heterogeneity and among-site rate variation in beetle mitochondrial phylogenomics[J]. Systematic Entomology 2010,35: 429-448.   
+[21] Regier JC, Shultz JW, Zwick A,et al. Arthropod relationships revealed by phylogenomic analysis of nuclear protein-coding sequences[J].Nature,2010, 463(7284): 1079-1083.   
+[22] Zwick A,Regier JC,Zwick D,C.Resolving discrepancybetween nucleotides and amino acids in deep-level arthropod phylogenomics: differentiating serinecodons in21-amino-acid models[J].Plos one,2012,7(11): e47450. [23] Song N,Lin A, Zhao X.Insight into higher-level phylogenyofNeuropterida: Evidence from secondary structures of mitochondrial rRNA genes and mitogenomic data[J]. PLoS One,2018,13(1): e0191826.   
+[24] Kearse M, Moir R,Wilson A,et al. Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data[J].Bioinformatics,2012,28(12):1647-1649.   
+[25]Bernt M,Donath A,Juhling F,etal.MITOS: improved de novo metazoan mitochondrial genome annotation[J]. Molecular phylogenetics evolution,2013, 69(2): 313-319.   
+[26] Kumar S, Stecher G, Tamura K. MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets[J].Molecular biology evolution, 2016,33(7): 1870-1874.   
+[27] Kumar S, Gadagkar S R. Disparity index: a simple statistic to measure and test the homogeneity of substitution patterns between molecular sequences[J].Genetics,2001,158(3): 1321-1327.   
+[28] North B V,Curtis D,Sham PC.A note on the calculation of empirical Pvalues from Monte Carlo procedures[J]. The American Journal of Human Genetics.20o2.71(2): 439-441. muuple sequence alignments and detection oI iniiatea rancn support[J. BMC Bioiniormatics,ZU14,1): 294. [30] Xia X.DAMBE6: new tools for microbial genomics, phylogenetics,and molecular evolution[J]. Journal of Heredity,2017,108(4): 431-437.   
+[31] Van De Peer Y,Frickey T,TaylorJS,et al.Dealing with saturation at the amino acid level: A case study involving anciently duplicated zebrafish genes[J]. Gene,2002,295(2): 205-11.   
+[32] Siebert S, Backofen R. MARNA: multiple alignment and consensus structure prediction of RNAs based on sequence structure comparisons[J]. Bioinformatics,20o5,21(16): 3352-9.   
+[33] Nawrocki E P: Structural RNA homology search and alignment using covariance models[M]. Washington: University in St.Louis,2009.   
+[34] Darty K,Denise A,Ponty Y. VARNA: Interactive drawing and editing of the RNA secondary structure[J]. Bioinformatics,2009,25(15):1974-1975.   
+[35] De Rijk P,Wuyts J,De Wachter R.RnaViz 2: an improved representation of RNA secondary structure[J]. Bioinformatics,2003,19(2): 299-300.   
+[36] Gillespie JJ,Johnston J, Cannone JJ,et al. Characteristics of the nuclear(18S,5.8S,28Sand 5S) and   
+mitochondrial (12S and 16S)rRNA genes of Apis mellifera (Insecta: Hymenoptera): structure, organization,and retrotransposable elements [J]. Insect Molecular Biology,2006,15(5): 657-686.   
+[37] Chang TH,Horng JT, Huang HD.RNALogo: a new approach to display structural RNA alignment[J]. Nucleic Acids Res, 2008,36(Web Server issue): W91-6.   
+[38] Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability[J].Molecular biology and evolution,2013,30(4): 772-780.   
+[39] Zhang D, Gao F,Jakovlic I, et al. PhyloSuite: an integrated and scalable desktop platform for streamlined molecular sequence data management and evolutionary phylogenetics studies[J]. Molecular ecology resources,2020, 20(1): 348-355.   
+[40] Stamatakis A.RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies[J]. Bioinformatics,2014,30(9): 1312-1313.   
+[41] RonquistF,Teslenko M,Van Der Mark P,etal. MrBayes 3.2: eficient Bayesian phylogenetic inference and model choice across a large model space[J]. Systematic biology,2012,61(3): 539-542.   
+[42] LartilotN,Lepage T,Blanquart S.PhyloBayes 3: aBayesiansoftware package for phylogenetic reconstruction and molecular dating[J]. Bioinformatics,2009,25(17): 2286-2288.   
+[43]Lanfear R, Calcott B,HoS Y,et al.PartitionFinder: combined selectionof partitioning schemes and substitution models for phylogenetic analyses[J]. Molecular biology and evolution,2012,29(6): 1695-1701.   
+[44] Guindon S,Dufayard JF,Lefort V,et al.New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0[J]. Systematic biology,2010,59(3): 307-321.   
+[45] Yang Z. PAML: A program package for phylogenetic analysis by maximum likelihood[J]. Computer Applications in the Biosciences Cabios,1997,13(5): 555-556.   
+[46] Dos Reis M, Yang Z. Approximate Likelihood Calculation on a Phylogeny for Bayesian Estimation of Divergence Times[J]. Molecular Biology and Evolution,2011,28(7): 2161-2172.   
+[47] Peters R S.Evolutionary history of the Hymenoptera[J]. Current Biology,2017,27: 1-6.   
+[48] O'reilly JE,Dos Reis M,DonoghuePCJ. Dating tips for divergence-time estimation[J]. Trends in Genetics, 2015: 637-650.   
+[49] Wiegmann B M. Single-copy nuclear genes resolve the phylogeny of the holometabolous insects[J]. BMC Biology,2009,7(1): 34.   
+[50] Gaunt M W,Miles M A. An Insect Molecular Clock Dates the Origin of the Insects and Accords with   
+Palaeontological and Biogeographic Landmarks[J].Molecular Biology and Evolution,2002,19(5): 748-761. [51] Perna NT,Kocher TD.Patterns of nucleotide composition at fourfold degenerate sites of animal mitochondrial genomes[J]. Journal of molecular evolution, 1995,41(3): 353-358.   
+[52] Crozier R,H, Crozier Y,C.ThemitochondrialgenomeofthehoneybeeApis melifera: complete sequence and genome organization[J]. Genetics,1993,133: 97-117.   
+[53] Korkmaz E M, Dogan Z,Budak M,et al.Two nearly complete mitogenomes of wheat stem borers,Cephus pygmeus (L.) and Cephus sareptanus Dovnar-Zapolskij (Hymenoptera: Cephidae): An unusual elongation of rmS gene[J]. Gene,2015,558(2): 254-264.   
+[54] Du S,Niu G,Nyman T,et al. Characterization of the mitochondrial genome of Arge bell Wei & Du sp. nov. (Hymenoptera: Argidae)[J].Peerj,2018,6: e6131.   
+[55] Wei S J,NiuFF,Du B Z. Rearrangement of trnQ-trnMin the mitochondrial genome of Allantus luctifer(Smith) (Hymenoptera: Tenthredinidae)[J].Mitochondrial DNA Part A 2O14: 856-858.   
+[56]Song S-N,Tang P,Wei S-J,etal. Comparative and phylogenetic analysis ofthe mitochondrial genomes inbasal hymenopterans[J]. Scientific Reports,2016,6: 20972.   
+[57] Dowton M,Cameron SL, Dowavic JI, et al. Characterization of 67 mitochondrial tRNA gene rearrangements in the hymenoptera suggests that mitochondrial tRNA gene position is selectively neutral[J]. Molecular Biology and Evolution.2009.26(7): 1607-1617. [58] Dogan O,Korkmaz E M. Nearly complete mitogenome of hairy sawfly,Corynis lateralis (Brule,1832) (Hymenoptera: Cimbicidae): rearrangements in the IQMand ARNS1EF gene clusters[J]. Genetica,2017,145(4-5): 341-350.   
+[59] CastroLR,Dowton M.The position of the Hymenoptera within the Holometabola as inferred from the mitochondrial genome of Perga condei (Hymenoptera: Symphyta: Pergidae)[J]. Molecular Phylogenetics and Evolution,2005,34(3): 469-479.   
+[60] Yuan ML,Zhang QL,Zhang L,et al. High-level phylogeny of the Coleoptera inferred with mitochondrial genome sequences[J].Molecular Phylogenetics and Evolution,2016,1O4: 99-111.   
+[61] Malm T,Nyman T.Phylogeny of the symphytan grade of Hymenoptera: new pieces into the old jigsaw(fly) puzzle[J]. Cladistics-the International Journal of the Wili Hennig Society,2O14,31(1): 1-17.   
+[62] Schulmeister S.Review of morphological evidence on the phylogenyof basal Hymenoptera, with a discussionof the ordering of characters[J].Biological Journal of the Linnean Society,2Oo3,79: 209-243.   
+[63]Lars V.Phylogenyand clasification of the extant basal lineagesof the Hymenoptera (Insecta)[J]. Zoological Journal of the Linnean Society,2001,131:393-442.   
+[64] Schulmeister S.Simultaneous analysis of basal Hymenoptera (Insecta): Introducing robust-choice sensitivity analysis[J].Biological Journal of the Linnean Society,2003,79(2): 245-275.   
+[65]LiHT,YiTS,GaoLM,etal.Origin of angiosperms and thepuzzle of theJurassc gap[J].Nat Plants,2019,5(5): 461-470.   
+[66] BeaulieuJM,O'meara B C,Crane P,etal. Heterogeneous rates of molecular evolutionand diversificationcould explain the Triassic age estimate for angiosperms[J]. Systematic biology,2015,64(5): 869-878.   
+[67]Nie ZL,Wen J, Azuma H,et al.Phylogenetic and biogeographiccomplexityof Magnoliaceae in the Northern Hemisphere infered from three nucleardata sets[J].Molecular Phylogenetics and Evolution,2Oo8,48:1027-1040.
+
+# Figure Legends
+
+Fig.1Bubble chart of the AT-and GC-skew and $A { + } \mathrm { T } \%$ of mitochondrial genomes of Symphyta based on PCG $+$ rRNA data set.(a) containsthebubblechartsof44speciesinthis study,andcanbesplitito(b)to(f)accordingtodiferentlineages; (b)ontains Xyelidae(red)andUnicalcaridaexceptforCephidae (pink); (c)containsPamphilioidea(orange)andtheoutergroups (purple);(d) containsTenthredinidae (blue); (e)containsArgidae(lightgreen),Pergidae(lightgreen),Cimbicidae(deepgreen);(f)otain Cephidae (yellow).The letter above the dot represents the abbreviation of the species name.   
+Fig.2 Three-dimensional scatter-plot of the AT- and GC-skew and $A { + } \mathrm { T } ~ \%$ of the mitochondrial genomes of Symphyta based on PCG $+ 1$ RNA (A), PCG12 (B), 9PCG (C)and PCG (D) data sets. PCG $^ +$ rRNA data set contains 13 protein coding genes and two rRNAs;PCGl2data setcontains13 proteincodinggenes (excludingthe thirdsite); 9PCGdatasetcontains9proteincodinggenes (excluding 4 supersaturated protein coding genes); PCG data set contains 13 protein coding genes.   
+Fig.3PredictedrnSsecondarystructureinthe Cladiuchamitochondrial genome.Thenumberingofhelices follows Gillspieetal. (2006).Roman numerals refer todomain names.Tertiary inter-actions and base triples are connectedbycontinuous lines.C. magnoliae asabasemapand basechange among Cladiuchaspeciesare presented incircles withred(C.magnoliae)and pink (C. punctate)color.Logoisgeneratedfrom8speciesofTenthredinidae(C.punctate,C.magnoliae,Tenthredotienmushana,llntus luctiferAiecellels,ell)h composedoftacksofleters,withonestack foreach postionintheconsensusRNAsecondarystructureandthesizeof he lettrs represents the degree of similarity between bases.
+
+Fig.4PredictedmLsecondarystructure intheCladiuchamitochondrialgenome.Thenumberingofhelicesfollows Gillspieetal. (2006).Roman numerals refertodomain names.Tertiaryinter-actions and base triples are connectedbycontinuous lines.C. magnoliae asabasemapand basechange among Cladiuchaspeciesare presented incircles withred(C.magnoliae)and pink(C. punctate)color.Logoiseneratedfrom8speciesofTnthredinidae(C.punctate,Cmagnoliae,Tenthredtenmushana,llntus luctifer,Aieuelllselli)h composedofstacksof leters,withone stack foreach positionintheconsensus RNAsecondarystructureandthesizeoftheletters represents the degree of similarity between bases.
+
+Fig.5Mitochondrial genomeorganizationofCladiuchawithreference totheancestraltypeofinsectmitochondrial genomes.Genes transcribed from the J-and N-strands are shown in green and orange,respectively. The $\mathbf { A } \mathbf { + }$ T-rich region is indicated by blue,and tRNA genes are labeled by their single-letter amino acid code.
+
+Fig.6Predictedsecondarystructuresof22tRNAgenesofCladiucha.Dashesindicate Watson-Crickbasepairs,nddotsidicate G-U base pairing.
+
+Fig. $7 \mathrm { A } { + } \mathrm { T }$ content and disparity index chart.The chart on the left shows the AT content of 44 species: $\mathrm { A T } \%$ ，AT $1 \%$ ，AT $2 \%$ and AT- $3 \%$ .OntheothersideofthechartistheATcontentofthe nucleotidesandaminoacid(nt123Sum,nt12Sum,ntlSum,nt2Sum, nt3Sum and AA) for 44 species.
+
+Fig.8 Heterogeneityanalysis of PCGs and PCGRNA datasets.AliGROOVE heat mapsofpairwise sequence comparisons forthe proteincoding genes with thenucleotide datasets (PCG123,PCG123RNA,PCG12,PCG12RNA,9PCG123and 9PCG123RNA)and theamino acid datasets (AAand11AA)forthe44 species.TheAliGROOVE graph shows the meansimilarityscores between sequences.AliGROOVEscoresrangefrom-1(indicatinggreatdiferenceinatesfromtheremainderoftheataset,ie,edcoloring implies the significant heterogeneity) to $+ 1$ (indicating rates match all other comparisons,ie,blue labeling).
+
+Fig.9Phylogenetic hypothesisresultingunderMtArt $^ +$ CAT from Phylobayes analysis of11AA data set.Branch colors summarize supportalues (seekey).Boxcharts presentedonbackbone branchesrepresentcladesupportineachscheme(se “Schemesupport"). Methodsanddatasetsof phylogenetic treeare summarized intheupperrightcornerofthe figure.Thedottedboxrefers to the7 branching models reconstructed with different methods and datasets.
+
+Fig.10SecondarystructuredrawingsofthehomologyTheconservedstructureofrrSandrLisonthrightsideofeachbranch. Thenumbers inparenthesesrepresentthenumberofhomologuesinthefamily.Thehomologous stem-loopstructuresonthe branch are framed in the structural diagram.
+
+Fig.11DatedpylogenyofSymphyta.Theaxisonthebottomreferstomillonyearsandshows thegeologicaltime.Thebluebarson the nodes represent $9 5 \%$ of high posterior density of divergence times obtained from MCMCTree.The divergence times of each node obtained from MCMCTre analysiswas wittenin blackon thenodes.Thereddotsandthetimes writen inredonthe nodesindicate thedivergence timeobtained fromMEGAX.The greenand yellow shadedareas delineate the arisingof Tenthredinoideaand Cladiucha,espectivelyependingontheimumoraximumge.Theplogenetictreesivenattebotomae teioe tree from Li et al (2O19) and Magnolia tree from Nie etal.,(2Oo8),respectively.
+
+Figures
+
+![](images/e3bfb6bb95f40ea676b8ac9879a2e74effbbddaf4bb3d28036ef0de32004d24b.jpg)  
+Fig. 1
+
+Birmelladiscoidatisa Analcellicampaxanthosoma Monocellicampaprum Tenthredotienmushana Cladiuchapunctata Cladiuchamagnoltae
+
+Argebella Trichiosoma anthracimum Labriocimbex sinicus Corymislaleralis
+
+Characopygusscythicus Hartigialinearis Trachelusiudaicus Syristaparreyssit Trachelustabidus Jamuscompressus Cephussareptamus   
+Cephuspygmeus   
+Cephuscinctus Xyelasp   
+Xyelacurva   
+Megaxyelaeuchroma   
+Megalodoniesspiraede   
+Megalodontesquinquecinctus   
+Megalodontescephalotes   
+Pamphiliussp   
+Chinolydaflagellicornis   
+Pachycephussmyrnensis   
+Pachycephuscruentatus   
+Characopygusscythicus   
+Trachelustudaicus   
+Trachelustabidus   
+Cephussareptanus   
+Cephuspygmeus   
+Cephuscinctus   
+Calameutaictolon   
+Calameutafliformis   
+Hartigia linearis   
+Syrista parreyssii   
+Pergacondei   
+Argesimilis   
+Argebella   
+Trichiosomaanthracimim   
+Labriocimbexsinicus   
+Corynislateralis   
+Allantusluctifer   
+Astemphytusrufocephalus   
+Birmelladiscoidalisa   
+Analcellicampaxanthosoma   
+Monocellicampapruni   
+Tenthredotienmushana   
+Cladiucha punctata   
+Cladiucha magnoliae   
+Orussusoccidentalis   
+Xiphydriasp   
+Tremexcolumba   
+Taeniogonalostaihorina   
+Parapolyhiacrocea   
+MecopteraNeopanorpaphlchra   
+DipteraAnophelesgambiae   
+MegalopteraNeochauliodesparaspair. ColeopteraParostermicrosturtensis
+
+![](images/9e90fbd3c6a25b44985ca1189da42cf3c8d125d809726a7e7ebde9114c557f68.jpg)  
+Fig. 2
+
+# CUUAUAUUAUUUGCGUGUAUUAGUAUUAAG
+
+![](images/1a99a9a12dc30d4b6647eedfe383a65afa4bc6b4f8b92034926e1dd386826b37.jpg)  
+Fig. 3
+
+UAQUUAGAAUAGUJUeU AAAAUGUAUAAUU lsUsedInThisDi -Utne p (iA-{Aburepair H1057 JUA H1087 L-U-Ne-deJ-U,(>4C-U) UiG DAU_UUt AOus00 A BCUCAUGAUUAAUGG Ect:(duxLekb=a'scd=.htickm:.A. Lyery,urhw:cberden?ar'hered AA AAUCGAUU GCACUAUGACUJ A UOUW.Ax.AUAGU H11835 AUAAXUUXYYAUYUAU CCUAAUUAAUUCUAGG UUUA.CAAAACA H183 AUC H1925 2GUg :UAG 1 UAUAUCeGeUAUA II1764 ECAAG H2077 UAABUU,   
+-1AAAXABEUUaUU 1191 AWA AAAUAUAAACUU UWUALMA UUACUUAUUAGUUAUUAAU H1935 H1648 YUAAUAGCG "AGOOAAUQUUAU UAAUAAWCA H1196 AUAUUA_AAUAUU 1964 T812 500 U850 U𝐴𝐴U UUAGAAJUAGUAKAUUUUUUUUUOUUQUHUAAUOAWU UAUGGGGAUA AUU-UAGAUAUAU U AAo H /112023 \*H2064 ECAU.AUAUE UUAACUUAAAAGCUUAA D H2395 c H533 2043UUGG AAUUCCU 125 Cgoha H777 I2455 Insetion -250 m-Val bma-Le OU AAUGAAAUU 11687 CUCUAAAUACAG R CCUAUUUACAGUUAUAUAAAAUGG WUAA AuaU AUAUA 112588 11250 UGAUUAAAUAUUAAUCUN 11736 H4611 AALT UUAUGAUUAUUUGAUAUUAUUUUUUUU GUUDAAA mTA H2646 AJUAGCUAGACUAU 100 JUAGGUG UUAAAUUCGAGH2520 UAUUHUeuAU A AAUADAUAUUA 112.54 AUOUEUCGACU UAUUUAAUAULU UUuCuUuJUuACACAAAU 112735 1300 112675 30   
+LUAUAueUUAAuAuweAUA.uAAOUAAUAJ y ACOGGUAGCCAGCUU UAAUACUACEAAGAAAAU
+
+MWSLKARNSE 工 AT-rich Ancestral Q CY P N MwDAE 1 AT-rich Cladiucha CY REHA P
+
+Alanine Arginine Asparagine Aspartic acid Cysteine (A) A-66 (N) 中 (D) 5U-6 HAU 冀 A-U U A UUa AAYD H44 DOAUUGU UAAACA UCAAUU GGUU AAAUCA AUUAGU X 0 H44 AAACAU-AN H10 -AUAAUUt ApUAUU AH G UA AAU H1U VAXX H44 144 U-A U H23 AAu G < AG GC G GuU   
+Glutamine Glutamic acid Glyeine Histidine Isoleucine 1 (E)5 A-65 (G) 3 (H) “ (1) A mA- A A0 A  
+AAUGUGA AAAUUGAAA UU ao UAUACA-U GAA A AUUUf H10 CUAUYGOU APAAAUD UC AAGUCCG G-CCAAAUU   
+AGCAC 8 A AAAAC 西 AAGUAUA HG AAU-AA A-U AAAA G UGA-UUGA 0 AGG AU Leucine Leucine Lysine Methionine Phenylalanine   
+J (1.2,UUR) m- A- (K) (M) “ A-67 A- <4 A G CAU UU A-UUUUUU CUAUOA qAUA AAGACAG AAG AT AC UCGG AAUA AUCGA U AAAAA UAOAAA UUCG GAUAG UAUGU H4 AUGU H AAU-A AGc 美 AAGCU U·GA AAAGO G. 123 W H -U AG   
+1 Sn GU- Srie) mA-U U Threonine G-C U1 Trypiohan A G 67 A-U U C A UUU A二 4 HA-UUcuUUU AGU-AUUUG AUU -AUUUUUA   
+AAUUUU AGAAAAA AAACGAUUAAGUUCA AAAAG UUU UUUG AAUOURAUUGOA AAAUAUU   
+AAAAU 1123 AU-AUG T AUAAGUUU-AU 西 有 AACUAA-UA H23GC 11 美 Valime Discriminator nucleotide 4 C.magnoliae amino acid aooeptor (AA)arm Cpunetata. Insertion GAAYGUO -0 CAGUA T C(T)arm   
+40 书 144 4n AUUUO DAUAU-AUA variable (V) oop 123 U anticodon (AC) arm thedibydorouridine (DHL)arm
+
+![](images/780745718394445233d8816946051deb60f5c0e99a57495b3c6e25acf59bdf9a.jpg)  
+Fig. 7
+
+![](images/df47dbbfafd1889aa6d16621506a81c78c29efa74f0b24bc3fa7e50bdc342ee0.jpg)  
+Xnt123Sum $^ +$ nt12Sunnt1Sumnt2Sumnt3Sum·AA
+
+![](images/52dbc6e964bad35d674567c0ccdba7bf4aea640f625ef1b8f74cb8b6e171e552.jpg)  
+Fig. 8
+
+![](images/27c776578096c4d8577f3d593d5bde8b932cdee4069f8251e3ad848f467f26e2.jpg)  
+Fig. 9
+
+![](images/7f8f9247a70557414a34125c6db38fd510764091fa31ab96435068fed585bb70.jpg)  
+Fig. 10
+
+![](images/28b6339fdcc69f2c9be1faa377704234236612b87010d84d4fdff75fa13abdf8.jpg)  
+Fig. 11
+
+Supplementary Table 1 Summary informationof symphytan mitochondrial genomes used in phylogenetic analyses   
+
+<html><body><table><tr><td></td><td>Species</td><td>Family</td><td>Accesion number References</td><td></td></tr><tr><td>Ingroup</td><td>Cladiucha magnoliae</td><td>Tenthredinidae</td><td></td><td>This study</td></tr><tr><td></td><td>Cladiucha punctata</td><td>Tenthredinidae</td><td></td><td>This study</td></tr><tr><td></td><td>Labriocimbex sinica</td><td>Cimbicidae</td><td>MH136623</td><td>Yan et al,2019</td></tr><tr><td></td><td>Corynis lateralis</td><td>Cimbicidae</td><td>KY063728</td><td>Dogan and Korkmaz, 2017</td></tr><tr><td></td><td>Trichiosoma anthracinum</td><td>Cimbicidae</td><td>KT921411</td><td>Song et al., 2016</td></tr><tr><td></td><td>Megalodontescephalotes</td><td>Megalodontesidae</td><td>MH577058</td><td>Niu et al., 2018</td></tr><tr><td></td><td>Megalodontes spiraeae</td><td>Megalodontesidae</td><td>MH577059</td><td>Niu et al., 2018</td></tr><tr><td></td><td>Megalodontes quinquecinctus</td><td>Megalodontesidae</td><td>MG923502</td><td>Tang et al., 2019</td></tr><tr><td></td><td>Analcellicampa xanthosoma</td><td>Tenthredinidae</td><td>MH992752</td><td>Unpublished</td></tr><tr><td></td><td>Allantus luctifer</td><td>Tenthredinidae</td><td>KJ713152</td><td>Wei et al., 2014</td></tr><tr><td></td><td>Asiemphytus rufocephalus</td><td>Tenthredinidae</td><td>KR703582</td><td>Song et al., 2016</td></tr><tr><td></td><td>Monocellicampa pruni</td><td>Tenthredinidae</td><td>JX566509</td><td>Wei et al., 2013</td></tr><tr><td></td><td>Tenthredo tienmushana</td><td>Tenthredinidae</td><td>KR703581</td><td>Song et al., 2015</td></tr><tr><td></td><td>Birmella discoidalisa</td><td>Tenthredinidae</td><td>MF197548</td><td>Unpublished</td></tr><tr><td></td><td>Xyela sp.</td><td>Xyelidae</td><td>MG923517</td><td>Tang et al., 2019</td></tr><tr><td></td><td>Xyela curva</td><td>Xyelidae</td><td>unpulished</td><td>unpulished</td></tr><tr><td></td><td>Megaxyela euchroma</td><td>Xyelidae</td><td>unpulished</td><td>unpulished</td></tr><tr><td></td><td>Xiphydria sp.</td><td>Xiphydriidae</td><td>MH422969</td><td>Ma et al.,2018</td></tr><tr><td></td><td>Tremexcolumba</td><td>Siricidae</td><td>MH422968</td><td>Ma et al., 2018</td></tr><tr><td></td><td>Pamphilius sp.</td><td>Pamphiliidae</td><td>MG923504</td><td>Tang et al., 2019</td></tr><tr><td></td><td>Chinolyda flagellicornis</td><td>Pamphiliidae</td><td>MH577057</td><td>Niu et al.,2018</td></tr><tr><td></td><td>Orussus occidentalis</td><td>Orussidae</td><td>FJ478174</td><td>Dowton et al., 2009</td></tr><tr><td></td><td>Arge similis</td><td>Argidae</td><td>MG923484</td><td>Tang et al., 2019</td></tr><tr><td></td><td>Arge bella</td><td>Argidae</td><td>MF287761</td><td>Du et al., 2018</td></tr><tr><td></td><td>Calameuta filiformis</td><td>Cephidae</td><td>KT260167</td><td>Korkmaz et al., 2016</td></tr><tr><td></td><td>Calameuta idolon</td><td>Cephidae</td><td>KT260168</td><td>Korkmaz et al., 2016</td></tr><tr><td></td><td>Cephus cinctus</td><td>Cephidae</td><td>FJ478173</td><td>Dowton et al., 2009</td></tr><tr><td></td><td>Cephus pygmeus</td><td>Cephidae</td><td>KM377623</td><td>Korkmaz et al., 2015</td></tr><tr><td></td><td>Cephus sareptanus</td><td>Cephidae</td><td>KM377624</td><td>Korkmaz et al., 2015</td></tr><tr><td></td><td>Characopygus scythicus</td><td>Cephidae</td><td>KX907848</td><td>Korkmaz et al., 2018</td></tr><tr><td></td><td>Hartigia linearis</td><td>Cephidae</td><td>KX907843</td><td>Korkmaz et al.,2018</td></tr><tr><td></td><td>Janus compressus</td><td>Cephidae</td><td>KX907844</td><td>Korkmaz et al., 2018</td></tr><tr><td></td><td>Pachycephus cruentatus Pachycephus smyrnensis</td><td>Cephidae</td><td>KX907845</td><td>Korkmaz et al., 2018</td></tr><tr><td></td><td></td><td>Cephidae</td><td>KX907846</td><td>Korkmaz et al., 2018</td></tr><tr><td></td><td>Syrista parreyssi</td><td>Cephidae</td><td>KX907847</td><td>Korkmaz et al., 2018</td></tr><tr><td></td><td>Trachelusiudaicus</td><td>Cephidae</td><td>KX257357</td><td>Korkmaz et al.,2017</td></tr><tr><td></td><td>Trachelus tabidus</td><td>Cephidae</td><td>KX257358</td><td>Korkmaz et al.,2017</td></tr><tr><td></td><td>Perga condei</td><td>Pergidae</td><td>AY787816</td><td>Castro and Dowton, 2005</td></tr><tr><td></td><td>Taeniogonalos taihorina</td><td>Trigonalidae</td><td>NC027830</td><td>Wu et al., 2014</td></tr><tr><td>Outgroup</td><td>Parapolybia crocea</td><td>Vespidae</td><td>KY679828</td><td>Peng et al., 2017</td></tr><tr><td></td><td>Paroster microsturtensis</td><td>Dytiscidae</td><td>MG912997</td><td>Hyde et al., 2018</td></tr><tr><td></td><td>Neopanorpa phlchra</td><td>Panorpidae</td><td>FJ169955</td><td>Unpublished</td></tr><tr><td></td><td>Neochauliodes parasparsus</td><td>Corydalidae</td><td>KX821680</td><td>Zhao et al., 2017</td></tr><tr><td></td><td>Anopheles gambiae</td><td>Culicidae</td><td>L20934</td><td>Beard et al.,1993</td></tr></table></body></html>
+
+Table1 Summary of mitochondrial genome of Cladiucha magnoliae and C.punctata   
+
+<html><body><table><tr><td rowspan="2">ne</td><td rowspan="2"> Strand</td><td colspan="6">Cladiucha magnoliae</td><td colspan="8">Cladiucha punctata</td></tr><tr><td>Start</td><td>Stop</td><td>Length(bp)</td><td>Start codon</td><td>Stop codon</td><td>Anticodon</td><td>IGN</td><td>Start</td><td>Stop</td><td>Length(bp)</td><td>Start codon</td><td>Stop codon</td><td>Anticodon</td><td>IGN</td></tr><tr><td>trnM</td><td>J</td><td>1</td><td>69</td><td>69</td><td></td><td></td><td>CAT</td><td></td><td>1</td><td>69</td><td>69</td><td></td><td></td><td>CAT</td><td></td></tr><tr><td>trnQ</td><td>J</td><td>79</td><td>147</td><td>69</td><td></td><td></td><td>TTG</td><td>9</td><td>79</td><td>147</td><td>69</td><td></td><td></td><td>TTG</td><td>9</td></tr><tr><td>trnI</td><td>J</td><td>156</td><td>222</td><td>67</td><td></td><td></td><td>GAT</td><td>8</td><td>170</td><td>236</td><td>67</td><td></td><td></td><td>GAT</td><td>22</td></tr><tr><td>nad2</td><td>J</td><td>248</td><td>1,300</td><td>1,053</td><td>ATG</td><td>TAA</td><td></td><td>25</td><td>287</td><td>1,336</td><td>1,050</td><td>ATG</td><td>TAA</td><td></td><td>50</td></tr><tr><td>trnW</td><td>J</td><td>1,306</td><td>1,372</td><td>67</td><td></td><td></td><td>TCA</td><td>5</td><td>1,351</td><td>1,417</td><td>67</td><td></td><td></td><td>TCA</td><td>14</td></tr><tr><td>trnC</td><td>N</td><td>1,372</td><td>1,443</td><td>72</td><td></td><td></td><td>GCA</td><td>-1</td><td>1,417</td><td>1,491</td><td>75</td><td></td><td></td><td>GCA</td><td>-1</td></tr><tr><td>trnY</td><td>N</td><td>1,462</td><td>1,526</td><td>65</td><td></td><td></td><td>GTA</td><td>18</td><td>1,501</td><td>1,566</td><td>66</td><td></td><td></td><td>GTA</td><td>9</td></tr><tr><td>coxl</td><td>J</td><td>1,535</td><td>3,073</td><td>1,539</td><td>ATT</td><td>TAA</td><td></td><td>8</td><td>1,573</td><td>3,108</td><td>1,536</td><td>ATT</td><td>TAA</td><td></td><td>6</td></tr><tr><td>trnL2</td><td>J</td><td>3,100</td><td>3,168</td><td>69</td><td></td><td></td><td>TAA</td><td>26</td><td>3,154</td><td>3,222</td><td>69</td><td></td><td></td><td>TAA</td><td>45</td></tr><tr><td>cox2</td><td>J</td><td>3,169</td><td>3,849</td><td>681</td><td>ATT</td><td>TAA</td><td></td><td>0</td><td>3,223</td><td>3.903</td><td>681</td><td>ATT</td><td>TAA</td><td></td><td>0</td></tr><tr><td>trnK</td><td>J</td><td>3.854</td><td>3.923</td><td>70</td><td></td><td></td><td>CTT</td><td>4</td><td>3.906</td><td>3.975</td><td>70</td><td></td><td></td><td>CTT</td><td>2</td></tr><tr><td>trnD</td><td>J</td><td>3.924</td><td>3.987</td><td>64</td><td></td><td></td><td>GTC</td><td>0</td><td>3.976</td><td>4,039</td><td>64</td><td></td><td></td><td>GTC</td><td>0</td></tr><tr><td>atp8</td><td>J</td><td>3.988</td><td>4,149</td><td>162</td><td>ATT</td><td>TAA</td><td></td><td>0</td><td>4.040</td><td>4,201</td><td>162</td><td>ATT</td><td>TAA</td><td></td><td>0</td></tr><tr><td>atp6</td><td>J</td><td>4,143</td><td>4.820</td><td>678</td><td>ATG</td><td>TAA</td><td></td><td>-7</td><td>4,195</td><td>4.872</td><td>678</td><td>ATG</td><td>TAA</td><td></td><td>-7</td></tr><tr><td>c0x3</td><td>J</td><td>4,820</td><td>5.608</td><td>789</td><td>ATG</td><td>TAA</td><td></td><td>-1</td><td>4,872</td><td>5.657</td><td>786</td><td>ATG</td><td>TAA</td><td></td><td>-1</td></tr><tr><td>trnG</td><td>J</td><td>5,614</td><td>5,678</td><td>65</td><td></td><td></td><td>TCC</td><td>5</td><td>5,663</td><td>5,727</td><td>65</td><td></td><td></td><td>TCC</td><td>5</td></tr><tr><td>nad3</td><td>J</td><td>5,679</td><td>6.032</td><td>354</td><td>ATA</td><td>TAA</td><td></td><td>0</td><td>5,728</td><td>6.081</td><td>354</td><td>ATA</td><td>TAA</td><td></td><td>0</td></tr><tr><td>trnA</td><td>J</td><td>6.041</td><td>6,106</td><td>66</td><td></td><td></td><td>TGC</td><td>8</td><td>6.099</td><td>6,167</td><td>69</td><td></td><td></td><td>TGC</td><td>17</td></tr><tr><td>trnN</td><td>J</td><td>6,146</td><td>6,213</td><td>68</td><td></td><td></td><td>GTT</td><td>39</td><td>6,207</td><td>6.275</td><td>69</td><td></td><td></td><td>GTT</td><td>39</td></tr><tr><td>trnS1</td><td>J</td><td>6,214</td><td>6.280</td><td>67</td><td></td><td></td><td>GCT</td><td>0</td><td>6,276</td><td>6.342</td><td>67</td><td></td><td></td><td>GCT</td><td>0</td></tr><tr><td>trnE</td><td>J</td><td>6,288</td><td>6.352</td><td>65</td><td></td><td></td><td>TTC</td><td>7</td><td>6,350</td><td>6,414</td><td>65</td><td></td><td></td><td>TTC</td><td>7</td></tr><tr><td>trnR</td><td>N</td><td>6.351</td><td>6.421</td><td>71</td><td></td><td></td><td>TCG</td><td>-2</td><td>6.413</td><td>6.480</td><td>68</td><td></td><td></td><td>TCG</td><td>-2</td></tr><tr><td>trnF</td><td>N</td><td>6,429</td><td>6,495</td><td>67</td><td></td><td></td><td>GAA</td><td>7</td><td>6,488</td><td>6,555</td><td>68</td><td></td><td></td><td>GAA</td><td>7</td></tr><tr><td>nad5</td><td>N</td><td>6.526</td><td>8,244</td><td>1,719</td><td>ATT</td><td>TAA</td><td></td><td>30</td><td>6.578</td><td>8,296</td><td>1,719</td><td>ATT</td><td>TAA</td><td></td><td>22</td></tr><tr><td>trnH</td><td>N</td><td>8,245</td><td>8,311</td><td>67</td><td></td><td></td><td>GTG</td><td>0</td><td>8.297</td><td>8.364</td><td>68</td><td></td><td></td><td>GTG</td><td>0</td></tr><tr><td>nad4 nad4L</td><td>N N</td><td>8,312 9.653</td><td>9,656 9,946</td><td>1,345 294</td><td>ATA ATT</td><td>T</td><td></td><td>0</td><td>8.365 9,706</td><td>9,709 9.999</td><td>1,345 294</td><td>ATA ATT</td></table></body></html>

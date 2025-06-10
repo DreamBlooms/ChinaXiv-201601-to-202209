@@ -1,0 +1,447 @@
+[
+    {
+        "type": "text",
+        "text": "2012—2019年乌鲁木齐市夏季降水日变化特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "苗运玲'，宫恒瑞}，王健¹，葛怡成¹，李如琦²(1.乌鲁木齐市气象局,新疆 乌鲁木齐830006；2.新疆气象台,新疆 乌鲁木齐830002)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用2012—2019年乌鲁木齐市6个国家级气象站夏季逐时降水资料，分析全市和不同区域近8a逐时降水日变化特征。结果表明：(1)近8a乌鲁木齐市夏季不同量级降水量和降水日数空间分布总体是由山区向郊区减小，一般性降水对总降水贡献最大。(2)全市和各区域逐时累计降水量和降水频次变化趋势较显著，增加速率明显大于下降速率，山区明显高于城区和郊区。(3）全市与山区降水量峰值均出现在16:00—00:00,城区在00:00—04:00,郊区在02:00—07:00;降水频次峰值出现时间有一定差异，最易发生降水的时段大都在夜间;降水强度日变化与降水量和降水频次存在一定差异，山区最大值出现在17:00,城区在20:00,郊区在 $1 6 { : } 0 0 .$ (4)全市和各区域降水主要以短历时降水为主，持续1h降水次数出现最多，对总降水频次贡献最大；全市和山区持续2h降水量最多，城区持续 $3 \\mathrm { ~ h ~ }$ 和郊区持续6h的降水量最多；全市持续 $1 \\sim 6 \\mathrm { { h } }$ 的降水量占总降水量的 $6 0 . 7 \\%$ ，且以夜雨、短历时降水为主。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：夏季降水；日变化；降水持续性；乌鲁木齐市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球气候系统呈现变暖趋势，气候变暖会导致各地降水格局发生显著变化，其量的多少、时空分布是否均匀等对当地经济发展、水资源配置、生态环境保护等具有至关重要的作用。降水作为气候中最重要的要素之一，具有明显的时间和空间变化，而降水日变化是气候系统中大气热力和动力过程对水循环综合影响的结果[1-2],是气候变化特征的重要体现。2005年，世界气候研究计划(WCRP)季风研究工作组会议把降水日变化确定为重点关注的核心科学问题之一[3]。目前，国内外学者对全球不同区域降水日变化进行了大量研究[4-16]。美国研究学者Kincer[4早在百年前就指出，美国中部许多台站降水峰值主要出现在夜间，而东南沿海台站多出现在午后。从全国来看，中国大陆夏季降水日变化存在显著的区域差异，东南和东北部降水峰值集中出现在午后，中东部地区主要出现在清晨和午后，长江中下游地区峰值主要出现在清晨06:00(地方时)左右，青藏高原东部和四川盆地在午夜达到峰值[1]。从不同地理区划来看,华北地区夏季降水日变化呈现明显双峰特征，且存在显著区域差异[12]京津冀地区主汛期降水呈双峰型，降水呈夜间多、白天少的特点，长历时和持续性降水对暖季降水贡献大于短时降水[13]。浙江省夏季降水量和降水频次日变化总体呈现“一主一次\"的双峰特征，且均呈明显的增加趋势[14]。吉林省夏季降水量、降水频次和降水强度呈双峰型特征，持续 $1 { \\sim } 3 \\mathrm { h }$ 降水量较大，$4 { \\sim } 6 \\mathrm { h }$ 降水量最小[15]。以上大量研究表明由于区域不同，降水峰值出现时间和表现形式不同，不同持续时间的降水对降水量的贡献不同，所以掌握本地降水参数变化情况，可以揭示本地降水变化特征，更好的为当地经济发展、预报预测、灾害防御等方面提供数据参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而对新疆降水的研究，以往主要针对时间尺度较大的月、季、年长时间序列的研究，近年来随着观测自动化不断推进，众多学者逐步开展时间尺度较小、更为精细的降水日变化研究[17-22]。结果表明新疆夏季降水日变化呈现显著的南、北疆区域差异，北疆呈单峰型，主要发生在傍晚前后(16:00—20:00），南疆呈三峰型，峰值出现在上午(10:00）、傍晚(17:00—18:00)和午夜后(00:00—01:00);降水事件以6h以内的短历时性质为主[15]。伊犁河谷夏季降水峰值出现在21:00—翌日08:00，持续2h降水量对总降水量的贡献最大,持续 $1 4 \\mathrm { { h } }$ 贡献最小[17]。目前针对乌鲁木齐市夏季降水日变化研究主要针对单点进行分析[2I-22],对全市和不同区域夏季降水日变化研究却很少涉及。乌鲁木齐市水资源主要靠降水补给，因此降水变化直接影响水资源变化。本文利用2012—2019年乌鲁木齐市6个国家级气象站夏季逐时降水资料，从多角度分析夏季降水日变化特征，以提高对该地不同区域夏季降水时空分布特征和日变化及演变规律的全面认识，为当地开展气象服务、人工影响天气，特别为降水精细化预报提供技术支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市地处中国西北地区、亚欧大陆腹地、天山山脉中断北麓、准噶尔盆地南缘，属于中温带大陆性干旱气候。东、西、南部三面环山，地势起伏悬殊，由东南向西北降低，最高点天山博格达峰顶，海拔 $5 4 4 5 . 0 \\mathrm { ~ m ~ }$ ,最低位于青格达湖大渠南侧，海拔 $4 9 0 . 6 \\mathrm { ~ m ~ }$ ，高差高达 $4 9 5 4 . 4 \\mathrm { ~ m ~ }$ ，城区平均海拔800$\\mathrm { ~ m ~ }$ 。乌鲁木齐市夏季凉爽多雨，冬季寒冷漫长多积雪。城区年降水量 $2 5 0 { \\sim } 3 0 0 ~ \\mathrm { m m }$ ,夏季降水量占年降水量的1/3；山区年降水量 $4 5 0 { \\sim } 5 8 0 ~ \\mathrm { m m }$ ,夏季降水量占 $4 8 \\% \\sim 6 7 \\%$ ;郊区年降水量不及 $8 0 ~ \\mathrm { m m }$ ，但夏季降水量所占比重最大，在 $7 3 \\%$ 以上。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐站和米东站位于平原，代表城区；达坂城站位于天山山脉南麓，代表郊区；小渠子站、牧试站和大西沟站地处南山中山带和高山带，代表山区。具体站点信息见图1和表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2012—2019年乌鲁木齐市6个国家级气象站夏季逐时降水资料均通过新疆气象局信息中心严格质量控制，资料真实可靠。根据2003版《地面气象",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a77faed37ff371a4b6b1be2bc9b396e1fb54fc5cc0690151f15403b75824754e.jpg",
+        "img_caption": [
+            "图1乌鲁木齐市国家级气象站点分布 Fig.1 Distribution of national meteorological stations in Urumqi City "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1乌鲁木齐市各区域国家级气象站点信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee8a1654705ad55f3aa7e8b42b2c41de4623abbed8ba9bcedac49fdcb15598d7.jpg",
+        "table_caption": [
+            "Tab.1 Information of national meteorological stations in each region of Urumqi City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域</td><td>站名</td><td>纬度/N</td><td>经度/E</td><td>海拔高度/m</td></tr><tr><td>城区</td><td>乌鲁木齐</td><td>43°47'</td><td>87°39'</td><td>935.0</td></tr><tr><td></td><td>米东</td><td>43°58'</td><td>87°39'</td><td>600.3</td></tr><tr><td>郊区</td><td>达坂城</td><td>43°21'</td><td>88°19'</td><td>1103.5</td></tr><tr><td>山区</td><td>小渠子</td><td>43°29'</td><td>87°06'</td><td>1871.8</td></tr><tr><td></td><td>牧试站</td><td>43°27'</td><td>87°11'</td><td>1930.0</td></tr><tr><td></td><td>大西沟</td><td>43°06'</td><td>86°50'</td><td>3539.0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "观测规范》23规定，天气现象日界以北京时20:00为界，将小时降水量 $\\mathrm { \\geqslant 0 . 1 ~ m m }$ 时次判定为有降水发生，并逐时累加，得到逐时累计降水序列。当某一次降水结束后连续 $2 \\mathrm { h }$ 没有再出现降水定义为一次降水过程结束，并将一次降水开始时间到结束时间的小时数定义为一次降水持续时间。降水频次是指统计时间内发生降水的总次数，降水强度定义为统计时间内累计降水量与降水频次的比值。由于新疆区域特殊性及预报服务需要，将 $^ { \\textrm { 1 h } }$ 降水量为 $0 . 1 \\sim$ $5 . 0 \\mathrm { m m }$ 定义为一般性降水， $\\geqslant 5 . 1 \\ \\mathrm { m m }$ 降水称之为强降水[24]。将全天 $2 4 \\mathrm { h }$ 按照精细化天气预报划分为4个时段：上午08:00—14:00，下午14:00—20:00，前半夜20:00—02:00，后半夜02:00—08:00。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1降水量、降水日数空间分布特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近8a乌鲁木齐市夏季总降水量(图2a)空间分",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f72e0accc3695849f8a3ed076a54b7f651ebb39d2116dda2083e673dac0a1668.jpg",
+        "img_caption": [
+            "图2 2012—2019年乌鲁木齐市夏季总降水量、强降水量、总降水日数、强降水日数空间分布 Fig.Distributionsoftheumertotalprecipiationeavyprecipiation,totalprcipiationdays,ndaypreciiatioasin Urumqi City from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "布总体都是由西南向东北减小，山区最多，郊区最少，最大值出现在大西沟，最小值为达坂城。强降水量空间分布(图2b)是以小渠子为中心向四周减小，中心值达到 $7 3 . 8 ~ \\mathrm { m m }$ ，达坂城最小，仅为6.8$\\mathbf { m } \\mathbf { m }$ 。一般性降水对总降水量贡献最大，为 $7 7 . 6 \\%$ 。由表2可知不同量级的降水量都是山区最大，郊区最小，且山区降水量对总降水量贡献最大",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2乌鲁木齐市各区域夏季不同降水量和降水日数统计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fde7b292672d6748b785b58c7df6ff26b8f6b759f66ef722fa34e8f4d57afd36.jpg",
+        "table_caption": [
+            "Tab.2Statistics of different precipitation and precipitation days in each region of Urumqi City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>全市</td><td>城区</td><td>郊区</td><td>山区</td></tr><tr><td>一般性降水量/mm</td><td>300.1</td><td>56.7</td><td>46.2</td><td>197.2</td></tr><tr><td>强降水量/mm</td><td>86.6</td><td>10.0</td><td>6.8</td><td>69.8</td></tr><tr><td>总降水量/mm</td><td>386.7</td><td>66.7</td><td>53.0</td><td>267.0</td></tr><tr><td>一般性降水日数/d</td><td>648.8</td><td>144.5</td><td>127.0</td><td>377.3</td></tr><tr><td>强降水日数/d</td><td>47.8</td><td>6.5</td><td>3.0</td><td>38.3</td></tr><tr><td>总降水日数/d</td><td>696.6</td><td>151.0</td><td>130.0</td><td>415.6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乌鲁木齐市夏季总降水日数(图2c)与总降水量空间分布较一致，强降水日数(图2d)与强降水量空间分布较相似。不同量级降水日数都是山区最多，郊区最少。一般性降水日数和强降水日数占总降水日数分别为 $9 3 . 1 \\% . 6 . 9 \\%$ 。强降水日数所占比重虽小，但对总降水量贡献却不容忽视。综上所述，乌鲁木齐市不同量级降水量和降水日数呈现山区多、郊区少的特征，这种空间分布总体与海拔高度、地理位置等有一定的关系，还与局地气候有关，山区午后更有利于对流天气的发生和发展，使该区域出现降水概率多于其他区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2降水日变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 逐时降水量日变化利用乌鲁木齐市6个国家级气象站夏季逐时降水量，得到全市和不同区域平均逐时累计降水量变化情况(图3\\~4)。城区降水量变化呈峰谷型分布（图3a），峰值范围在00:00—",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "04:00,极值出现在02:00，为 $6 . 0 \\operatorname { m m } , 0 7 { : } 0 0 { - } 1 7 { : } 0 0$ 是一天中出现降水较少时段，最低值出现在13:00，仅有 $0 . 8 ~ \\mathrm { m m }$ ,这一结论与王世杰等2研究结果有所不同。郊区降水量呈单峰型（图3b），峰值范围在02:00—07:00，极值出现在03:00，为 $4 . 6 ~ \\mathrm { m m }$ ,最小值出现在20:00，仅为 $0 . 6 ~ \\mathrm { m m }$ 。山区降水量(图3c)均大于城区和郊区，日降水量相当于城区和郊区4\\~5倍，与其最大差值分别出现在17:00、21:00;降水量变化趋势呈抛物线型，午后16:00一00:00是一天中出现降水最多时段，最大值出现在21:00,为21.2$\\mathbf { m } \\mathbf { m }$ ,最小值出现在11:00，为 $4 . 6 \\ \\mathrm { m m }$ 。全市降水量变化(图略)受山区降水量影响较大，降水易发生时段与山区相同。从各区域降水量变化速率来看，降水量增加速率明显大于下降速率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.2逐时降水频次日变化从图5\\~6可知，乌鲁木齐全市和不同区域平均夏季逐时降水频次日变化趋势与逐时降水量变化趋势较一致。城区（图5a)降水次数出现较多是21:00—07:00，该时段共发生降水43.4次，占总次数的 $6 1 . 5 \\%$ ,11:00—16:00发生降水最少，这与王世杰等研究结果较一致。郊区（图5b)降水发生次数较多时段为01:00—10:00，共发生降水36.1次，占总次数的 $5 8 . 4 \\%$ 。全市峰值出现在18:00—翌日04:00(图略)；17:00—00:00是山区降水易发时段(图5c)，且降水频次明显高于城区和郊区，日降水频次是城区和郊区的3.3\\~3.8倍，该时段共出现降水116.1次，占总次数的 $4 9 . 1 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.3逐时降水强度日变化近8a乌鲁木齐市各区域夏季逐时累计降水强度日变化趋势存在一定波动(图7\\~8)，与降水量、降水频次变化趋势存在一定差异。城区(图7a)最大值出现在20:00,为1.43$\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { h } ^ { - 1 }$ ,但该时次的降水量明显高于平均值，而降水频次低于平均值；最小值出现在07：00，仅为0.48$\\mathrm { m m } \\cdot \\mathrm { h } ^ { - 1 }$ ,该时次降水量低于平均值，而降水频次高于平均值。郊区(图7b)降水强度变化幅度大于山区和城区，最大值出现在16:00，为 $1 . 6 1 ~ \\mathrm { m m ^ { \\cdot } h ^ { - 1 } }$ ，与该时次降水频次呈反位相分布，即为最低值出现时刻，对应该时次降水量低于平均值;最小值出现在18:00,为 $0 . 4 7 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 }$ ,对应该时次降水量和降水频次明显低于平均值。山区(图 $\\mathrm { 7 c }$ )最大值出现在17:00，为 $1 . 7 6 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 }$ ,对应该时次的降水量、降水频次均高于平均值;最小值出现在07:00，为 $0 . 7 4 \\mathrm { m m } { \\cdot } \\mathrm { h } ^ { - 1 }$ ，该时次的降水量和降水频次也低于平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1877bb081336976f3f8230a363a406e5c0a5afc25c65333e0283affb5bbee197.jpg",
+        "img_caption": [
+            "图32012—2019年乌鲁木齐市城区、郊区、山区夏季年平均降水量日变化 Fig.3Diurnalvariationofannual mean precipitation in summer inurbanarea,suburban areaand mountainous area inUrumqiCity from2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dfa588305d464ca4f52600b4bc1a26f626a94326e957c9fca3ae0edf22de986.jpg",
+        "img_caption": [
+            "图42012—2019年乌鲁木齐市城区、郊区、山区夏季逐年降水量日变化",
+            "Fig.4 Diurnal variation of summer precipitation in urban area, suburb area and mountainous area in Urumqi City from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a20b9c213fcf80b2170f14a735985511d48cb33036e967d4e665d0ad25f51e91.jpg",
+        "img_caption": [
+            "Fig.5Diurnal variationofannual mean precipitation frequencyinsummer inurbanarea,suburbanareaand mountainous area in Urumqi City from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/14755a06227582f998a8acf07121febbfc1a784f0f256d2f0654189ffb96e568.jpg",
+        "img_caption": [
+            "图52012—2019年乌鲁木齐市城区、郊区、山区夏季年平均降水频次日变化",
+            "图62012—2019年乌鲁木齐市城区、郊区、山区夏季逐年降水频次日变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/978c910bdd178a1bc0af1cd40d81047a68e1c484c52eed2ccacdb0a4f2080ca1.jpg",
+        "img_caption": [
+            "干辛区地理",
+            "Fig.6Diurnal variation of summer precipitation frequency in urban area,suburban area and mountainous area in Urumqi City from 2012 to 2019 ",
+            "图72012—2019年乌鲁木齐市城区、郊区、山区夏季年平均降水强度日变化",
+            "Fig.7Diurnal variation ofannual precipitation intensityin summer in urban area,suburbanarea and mountainous area in Urumqi City from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，乌鲁木齐市各区域夏季日平均降水量、降水频次和降水强度从高到低的排序均为：山区 $>$ 城区 $>$ 郊区。不同区域逐时降水量和降水频次变化趋势较一致，其中山区降水量和降水频次均大于城区和郊区，且对总降水贡献最大，郊区最小；而各区域降水强度却表现出明显不同，最大值和最低值与累计降水量、降水频次出现的时刻并不一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3不同持续时间降水日变化特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 不同持续时间降水频次变化特征从乌鲁木齐全市和各区域夏季不同持续时间平均降水频次变化可知，降水主要以短历时降水为主，随着降水持续时间不断增加降水次数呈明显减少趋势（图",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/284d221bf1ce7b391fa34b2398d3074e6dc0e5d2632929451897f16ae4642fbf.jpg",
+        "img_caption": [
+            "Fig.8Diurnal variation of summer annual precipitation intensity in urban area,suburban area and mountainous area in Urumqi City from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9)。就全市而言，持续 $^ { \\textrm { 1 h } }$ 的降水出现次数最多，占总次数的 $4 0 . 9 \\%$ ；持续 $2 { \\sim } 6 \\mathrm { ~ h ~ }$ 的降水次数分别为$1 0 . 9 、 5 . 6 、 3 . 5 、 2 . 1 、 1 . 4$ 次，分别占总次数的 $2 3 . 7 \\%$ 、$1 2 . 2 \\% . 7 . 5 \\% . 4 . 5 \\% . 3 . 1 \\%$ 。通过统计可知持续 $_ { 1 \\sim 3 \\mathrm { ~ h ~ } }$ 降水次数占总次数的 $7 5 . 6 \\%$ ,持续 $_ { 1 \\sim 6 \\mathrm { ~ h ~ } }$ 的降水次数占总次数的 $9 1 . 9 \\%$ ,持续 $^ { 9 \\mathrm { { h } } }$ 以上仅占 $4 . 0 \\%$ 。从短历时降水出现次数可知，山区对应不同持续时间的降水次数明显高于城区和郊区；各区域持续 $^ { \\textrm { 1 h } }$ 的降水出现次数最多，分别为 $1 0 . 4 , 9 . 0 , 3 7 . 0$ 次，分别占总次数的 $3 9 . 5 \\% . 4 1 . 1 \\% . 4 1 . 2 \\%$ ，持续 $1 { \\sim } 3 \\mathrm { h }$ 的降水次数分别 $2 0 . 2 , 1 6 . 1 , 6 9 . 7$ 次，分别占总次数的 $7 6 . 5 \\%$ 、$7 7 . 6 \\% . 7 3 . 6 \\%$ 。可见在降水过程中持续 $_ { 1 \\sim 3 \\mathrm { ~ h ~ } }$ 降水次数对总次数的贡献最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2不同持续时间降水量变化特征乌鲁木齐全市和各区域夏季不同持续时间平均降水量变化与降水频次相似，主要以短历时降水量为主，山区波动最大，郊区波动最小(图10)。其中全市持续 $^ { 2 \\mathrm { ~ h ~ } }$ 的降水量最多，为 $2 0 . 3 ~ \\mathrm { m m }$ ,贡献率为 $1 3 . 8 \\%$ ;持续时间 $^ { \\textrm { 1 h } }$ 的降水次数虽然出现最多，但其降水量和降水贡献率却不是最大；持续 $1 { \\sim } 3 \\mathrm { ~ h ~ }$ 降水量为50.9$\\mathbf { m } \\mathbf { m }$ ，占总降水量的 $3 4 . 6 \\%$ ;持续 $1 { \\sim } 6 \\mathrm { ~ h ~ }$ 降水量占$6 0 . 7 \\%$ ，占比率低于阿勒泰地区[19]。从各区域持续降水量来看，城区是持续 $3 \\mathrm { ~ h ~ }$ 的降水量最大，为12.4$\\mathbf { m } \\mathbf { m }$ ,郊区持续 $6 \\mathrm { { h } }$ 降水量最大，为 $8 . 5 \\ \\mathrm { m m }$ ,而山区持续 $^ { 2 \\mathrm { ~ h ~ } }$ 降水量最多，为 $4 6 . 7 \\ \\mathrm { m m }$ ，且对降水贡献率也最大。城区、郊区和山区持续 $1 { \\sim } 3 \\mathrm { ~ h ~ }$ 降水量分别为$2 5 . 0 \\ : \\mathrm { m m } \\setminus 1 2 . 9 \\ : \\mathrm { m m }$ 和 $1 1 4 . 9 \\mathrm { m m }$ ,贡献率分别为 $3 7 . 5 \\%$ 、$2 4 . 3 \\%$ 和 $4 1 . 8 \\%$ ,持续 $_ { 1 \\mathord { \\sim } 6 \\mathrm { ~ h ~ } }$ 降水量分别为 $4 5 . 1 ~ \\mathrm { m m }$ 、$3 2 . 2 \\mathrm { m m }$ 和 $1 9 0 . 5 \\mathrm { m m }$ ，贡献率分别为 $6 7 . 8 \\% . 6 0 . 8 \\%$ 和$6 9 . 3 \\%$ 。同样可知各区域持续1h的降水次数虽然出",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/28fc0b8712139b7892d383cb1cdbf551cbdcf24894021a6ecae20ffbd1ca58a6.jpg",
+        "img_caption": [
+            "图82012—2019年乌鲁木齐市城区、郊区、山区夏季年逐年降水强度日变化",
+            "Fig.9 Changes of precipitation frequency at different durations in summer in each region of UrumqiCity from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfcb6eddcb82530412db1f05812e212ca854ac28239077ee90f47ea9e514bee4.jpg",
+        "img_caption": [
+            "图92012—2019年乌鲁木齐市各区域夏季不同持续时间降水频次变化",
+            "图102012—2019年乌鲁木齐市各区域夏季不同持续时间降水量变化",
+            "Fig.1O Changes of precipitation at different durations in summer in each region ofUrumqi City from 2012 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现最多，但对应的降水量和降水贡献率却不是最大。3.3.3不同时段降水分布特征统计近8a乌鲁木齐市和各区域夏季4个时段发生降水次数可知（表3)，全市在下午和前半夜降水发生次数较多，分别为51.1次和51.7次，占总次数比例基本相等；城区前半夜和后半夜降水发生次数较多，分别为23.5次和22.9次，分别占总次数的 $3 3 . 3 \\%$ 和 $3 2 . 4 \\%$ ；由于受地形的影响，山区午后至傍晚易发生对流性天气，故发生降水较多时段是下午和前半夜，分别为76.9次和75.5次，分别占总次数的 $3 2 . 5 \\%$ 和 $3 1 . 9 \\%$ ；郊区是在后半夜，为23次，占总次数的 $3 7 . 2 \\%$ 。由此可知，乌鲁木齐市各区域夏季降水大多以夜雨为主，这与李胜楠等[18]研究结论相反，与黄秋霞等[17]、王世杰等研究结论相同，且以短历时降水为主。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1485e471474326e2f49b57c7174725b7b6233247e351f269d1788b224aa47e45.jpg",
+        "table_caption": [
+            "表32012—2019年乌鲁木齐市各区域夏季不同时段降水出现频次及比例",
+            "Tab.3Precipitationfrequencyand proportionindiferentperiodsofsummerineachregionofUrumqi City from2012to 2019 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">时段</td><td colspan=\"2\">全市</td><td colspan=\"2\">城区</td><td colspan=\"2\">郊区</td><td colspan=\"2\">山区</td></tr><tr><td>次数/次</td><td>比例/%</td><td>次数/次</td><td>比例/%</td><td>次数/次</td><td>比例/%</td><td>次数/次</td><td>比例/%</td></tr><tr><td>前半夜</td><td>51.7</td><td>30.9</td><td>23.5</td><td>33.3</td><td>14.8</td><td>24.0</td><td>75.5</td><td>31.9</td></tr><tr><td>后半夜</td><td>32.1</td><td>19.2</td><td>22.9</td><td>32.4</td><td>23.0</td><td>37.2</td><td>49.3</td><td>20.8</td></tr><tr><td>上午</td><td>32.4</td><td>19.4</td><td>10.5</td><td>14.9</td><td>15.3</td><td>24.8</td><td>35.0</td><td>14.8</td></tr><tr><td>下午</td><td>51.1</td><td>30.5</td><td>13.7</td><td>19.4</td><td>8.8</td><td>14.2</td><td>76.9</td><td>32.5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文利用2012—2019年乌鲁木齐市6个国家级气象站夏季逐时降水资料，运用常规气候统计方法，分析全市、城区、郊区和山区降水日变化特征和空间分布特征，得出以下主要结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）2012—2019年乌鲁木齐市夏季不同量级降水量和降水日数空间分布总体是由山区向郊区减小，不同是最大值出现的站点不同，强降水量和强降水日数出现在小渠子，而其他量级降水量和降水日数在大西沟。一般性降水虽然对总降水贡献最大，但强降水对总降水的影响却不容忽视",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）乌鲁木齐全市和山区夏季逐时降水量日变化呈抛物线型分布，峰值均出现在16:00—00:00；城区呈峰谷型分布，郊区呈单峰型，最易出现降水时段分别是00:00—04:00、02:00—07:00。全市、山区、城区和郊区降水频次日变化峰值范围分别是18:00—04:00、17:00—00:00、21:00—07:00、01:00—10:00。降水强度日变化与降水量、降水频次日变化存在一定差异，山区最大值出现在17:00，城区在20:00，郊区在16:00,且郊区降水强度变化幅度大于山区和城区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）乌鲁木齐全市和各区域夏季降水主要以短历时降水为主，随着降水持续时间的不断增加降水次数呈明显减少。全市持续 $_ { 1 \\sim 3 \\mathrm { ~ h ~ } }$ 降水次数占总次数的 $7 5 . 6 \\%$ ,1\\~6h降水次数占总次数的 $9 1 . 9 \\%$ ;而在各区域中山区短历时降水出现次数最多，郊区最少，且山区降水次数对降水总次数贡献也是最大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）乌鲁木齐全市持续 $2 \\mathrm { h }$ 的降水量最多，贡献率也最大;城区持续 $3 \\mathrm { ~ h ~ }$ 降水量最大，郊区为 $6 \\mathrm { { h } }$ ，山区为 $^ { 2 \\mathrm { ~ h ~ } }$ ;全市和各区域持续时间1h的降水次数虽然出现最多，但对降水量和降水贡献率却不是最大。统计不同时段降水分布发现，乌鲁木齐市各区域降水大部分以夜雨为主，这与阿勒泰地区相反，与伊犁河谷结论相同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于新疆大部分台站从2012年开始使用翻斗雨量传感器采集降水资料，所以本文是从2012年开始研究，导致样本数不足，对研究结果代表性有一定的不确定性。同时由于研究区内国家级台站数量有限，降水资料仅能代表站点附近的状况，并不能完全代表所有区域。为了得到更加普遍的研究结果，不仅需要长序列资料进行分析，而且还要利用区域自动站、数值预报产品、卫星等相关数据进行综合分析，以期更好地揭示乌鲁木齐市夏季降水日变化的规律。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]宇如聪,李建.中国大陆日降水峰值时间位相的区域特征分析[J].气象学报,2016,74(1):18-30.[Yu Rucong,Li Jian.Regionalcharacteristics of diurnal peak phase of precipitation over contigu",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ous China[J].Acta Meteorologica Sinica,74(1): 18-30.]   \n[2]宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J].气 象学报,2014,72(5): 948-968.[Yu Rucong,Li Jian,Chen Haoming,et al. Progress in studies of the precipitation diurnal variation over contiguous China[J]. Acta Meteorologica Sinica, 2O14,72(5): 948-968.]   \n[3]Sperber K R, Yasunari T. Workshop on monsoon climate systems: Toward better predicition of the monsoon[J].Buletin of the American Meteorogical Society,2006,87: 1399-1403.]   \n[4]Kincer JB.Daytime and nighttime precipitation and their economic significance[J]. Monthly Weather Review,1916,44(11): 628- 633.]   \n[5]王夫常,宇如聪,陈昊明,等.我国西南部降水日变化特征分析 [J].暴雨灾害,2011,30(2): 117-121.[Wang Fuchang,Yu Rucong,Chen Haoming,et al. The characteristics of rainfall diurnal variation over the southwestern China[J]. Torrential Rain and Disasters,2011,30(2): 117-121.]   \n[6]那音太,秦福莹,贾根锁,等.近54a蒙古高原降水变化趋势及 区域分异特征[J].干旱区地理,2019,42(6):1253-1261.[Na Yintai,Qin Fuying,Jia Gensuo,et al.Change trend and regional differentiation of precipitation over the Mongolian Plateau in recent 54 years[J].Arid Land Geography,2019,42(6): 1253-1261.]   \n[7]张亚宁,张明军,王圣杰,等.1961—2015年中国降水面积变化 特征研究[J].干旱区地理,2019,42(4):762-773.[Zhang Yaning, Zhang Mingjun,Wang Shengjie,et al. Changes of precipitation area in China from 1961 to 2015[J].Arid Land Geography,2019,42 (4): 762-773.]   \n[8]田亚林,李雪梅,李珍,等.1980—2017年天山山区不同降水形 态的时空变化[J].干旱区地理,2020,43(2):308-318.[Tian Yalin,Li Xuemei,Li Zhen,et al. Spatial and temporal variations of different precipitation types in the Tianshan Mountains from 1980 to 2017[J].Arid Land Geography,2020,43(2): 308-318.]   \n[9]杨森,周晓珊,高杰.辽宁省夏季降水的日变化特征[J].气象, 2011,37(8): 943-949.[Yang Sen, Zhou Xiaoshan,Gao Jie. Diurnal variations of summer precipitation in Liaoning Province[J]. Meteorological Monthly,2011,37(8): 943-949.]   \n[10] 韩函,吴昊旻,黄安宁.华北地区夏季降水日变化的时空分布特 征[J].大气科学,2017,41(2): 263-274.[Han Han,Wu Haomin, Huang Anning. Temporal and spatial distributions of the diurnal cycle of summer precipitation over north China[J]. Chinese Journal of Atmospheric Sciences,2017,41(2): 263-274.]   \n[11] 郭军,熊明明,黄鹤.京津冀地区暖季降水日变化特征分析[J]. 海洋气象学报,2019,39(2):58-67.[Guo Jun, Xiong Mingming, Huang He,etal.Analysis of diurnal variation characteristics of rainfall during warm season in Beijing-Tianjin-Hebei region[J]. Joural of Marine Meteorology,2019,39(2): 58-67.]   \n[12] 王颖,刘丹妮,张玮玮,等.2004—2016年浙江省夏季降水的日 变化特征[J].干旱气象,2019,37(1):1-9.[Wang Ying,Liu Danni, Zhang Weiwei,et al. Diurnal variation characteristics of summer precipitation in Zhejiang Province during 2004 to 2016[J]. Journal of Arid Meteorology,2019,37(1): 1-9.]   \n[13] 王丽伟,黄晓龙,冯晓莉,等.2006—2015年吉林省夏季降水日 变化特征[J].中国农学通报,2019,35(3):122-130.[Wang Liwei, Huang Xiaolong,Feng Xiaoli,etal.Diurnalprecipitation variation of summer: Jilin 2OO6 to 2O15[J]. Chinese Agricultural Science Bulletin,2019,35(3): 122-130.]   \n[14] 张洪玲,尹嫦娇,魏磊,等.黑龙江省汛期逐时降水的时空变化 特征分析[J].冰川冻土,2016,38(5):1258-1263.[Zhang Hongling,Yin Changjiao,Wei Lei,etal. Temporal and spatial variations of hourly precipitation in Heilongjiang Province in the flood season[J].Journal of Glaciplogy and Geocryology，2016,38(5): 1258-1263.]   \n[15] 陈春艳,王建捷,唐冶,等.新疆夏季降水日变化特征[J].应用气 象学报,2017,28(1): 72-85.[Chen Chunyan,Wang Jianjie,Tang Ye,et al. Diurnal variation characteristics of summer precipitation in Xinjiang[J].Journal of Applied Meteorological Science,2017, 28(1): 72-85.]   \n[16] 陈春艳,赵克明,阿不力米提江·阿布力克木,等.暖湿背景下新 疆逐时降水变化特征研究[J].干旱区地理,2015,38(4):692- 702.[Chen Chunyan,Zhao Keming,Ablikm Ablimitijan,et al. Temporal and spatial distributions of hourly rain intensity under the warm background in Xinjiang[J].Arid Land Geography,2015, 38(4): 692-702.]   \n[17] 黄秋霞,赵勇,何清.新疆伊犁河谷夏季降水日变化特征[J].冰 川冻土,2015,37(2):369-375.[Huang Qiuxia, Zhao Yong,He Qing. The daily variation characteristics of summer precipitation over the Yili River Valley,Xinjiang[J]. Journal of Glaciology and Geocrylogy,2015,37(2): 369-375.]   \n[18] 李胜楠,高婧,宋佳,等.库尔勒市主汛期降水日变化特征分析 [J].沙漠与绿洲气象,2019,13(2):63-68.[Li Shengnan, Gao Jing,Song Jia,et al.Diurnal variation characteristics of precipitation in Korla in main flood season[J]. Desert and Oasis Meteorology,2019,13(2): 63-68.]   \n[19] 李博渊,马红君,庄晓翠,等.2010—2016年新疆阿勒泰地区暖 季降水日变化特征分析[J].干旱气象,2017,35(5):797-805. [Li Boyuan,Ma Hongjun, Zhuang Xiaocui, et al. Characteristics of diurnal variation of precipitation in warm season in Altayof Xinjiang during 2010 to 2016[J]. Journal of Arid Meteorology,2017,35 (5): 797-805.]   \n[20] 郑博华,陈胜,王勇.喀什地区降水(雨雪)的日变化特征[J].干 旱区地理,2020,43(1):108-116. [Zheng Bohua,Chen Sheng, Wang Yong. Interdiurnal variation characteristics of precipitation (rain and snow) in Kashi Prefecture[J].Arid Land Geography,2015,43 (1): 108-116.]   \n[21]王世杰,杨莲梅,史玉光.乌鲁木齐1991—2010年降雨特征分 析[J].中国沙漠,2012,32(2): 509-516.[Wang Shijie,Yang Lianmei,Shi Yuguang.Rainfall variation during 1991—2010 in Urumqi[J]. Journal of Desert Research,2012,32(2): 509-516.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22] 姚俊强,杨青,韩雪云,等.乌鲁木齐夏季水汽日变化及其与降 水的关系[J].干旱区研究,2013,30(1):67-73.[Yao Junqiang, Yang Qing,Han Xueyun, etal.Analysis on daily variation of water vapor and its relationship with rainfall in Urumqi in summer[J].Arid Zone Research,2013,30(1): 67-73.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23]中国气象局.地面气象观测规范[M].北京:气象出版社,2003: 3-4.[China Meteorological Administration. Specification for sur",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "face meteorological observation[M]. Beijing:China Meteorological Press,2003:3-4.] [24] 曾勇,杨莲梅.中亚低涡背景下新疆连续短时强降水特征分析 [J].沙漠与绿洲气象,2016,10(4):67-73.[Zeng Yong,Yang Lianmei. Characteristics of persistent short-time heavy rainfall causing by Central Asian vortex in Xinjiang [J].Desert and Oasis Meteorology,2016,10(4): 67-73.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Diurnal variation characteristics of summer precipitation in Urumqi City from 2012 to 2019 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MIAO Yunling'， GONG Hengrui'，WANG Jian'，GE Yicheng'，LI Ruqi² (1.Urumqi Meteorological Administration,Urumqi830oo6,Xinjiang,China;2.Xinjiang MeteorologicalObservatory, Urumqi 830002, Xinjiang, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on summer hourly precipitation data from six meteorological stations in Urumqi City, Xinjiang, China between 2012 and 2019,we analyzed the dailycharacteristics of hourly precipitation over the last eight years.The results show that: (1) Over the past eight years,the spatial distribution of summer precipitation and days of precipitation in Urumqi generally has declined from mountainous areas to the suburbs.General precipitation highly contributes to the total precipitation.(2） The trend of hourly cumulative precipitation and precipitation frequency in the entire city and each region was remarkable.The rate of increase was significantly higher than the rate of decrease,and the rate ofincrease in mountainous areas were substantially higher than that in urban areas and suburbs. (3) The peak values of precipitation in the entire city and mountainous areas were appeared from 16:00 to 00:00,from 00:00 to 04:00 in urban areas,and from 02:00 to 07:00 in the suburbs.There were some differences in the peak hours of precipitation frequency，with the heaviest periods of precipitation being night-time.Daily variations in precipitation intensity difered from precipitation and precipitation frequency. The maximum value appeared at 17:0O in mountainous areas,2O:0O in urban areas,and 16:0O in the suburbs. (4) Short-duration precipitation was the main precipitation in the entire cityand each region.The frequency of precipitation lasting one hour was the highest,highly contributing to the total frequency of precipitation.Precipitation throughout the cityand in mountainous areas lasted for two hours but was the highest.Precipitation lasted three hours inurban areas and six hours in the suburbs that were the highest.Precipitation that lasted for one to six hours represented $60 . 7 \\%$ of the total precipitation in the entire city and consisted mainly of night-time and shortterm precipitation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: summer precipitation; diurnal variation; rainfall persistence; Urumqi City ",
+        "page_idx": 8
+    }
+]

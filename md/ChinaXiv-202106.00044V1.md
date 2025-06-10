@@ -1,0 +1,199 @@
+# 气候变化和人类活动对锡林郭勒草原植被覆盖度的影响
+
+屈莹波，赵媛媛，丁国栋，高广磊（北京林业大学水土保持学院水土保持国家林业局重点实验室，北京100083)
+
+摘要：基于遥感、气象及统计数据，采用线性趋势法和残差分析法,在不同时空尺度上监测1982—2018年锡林郭勒草原草地植被覆盖度动态，量化气候变化和人类活动对植被变化的贡献率。结果表明：1982—2018年,锡林郭勒草原植被覆盖度及变化具有明显的空间异质性,草甸草原覆盖度呈显著增加趋势 $( P { < } 0 . 0 1 )$ ，荒漠草原覆盖度呈显著减少趋势( $\scriptstyle { \overrightarrow { P } } < 0 . 0 1 { \dot { ) } }$ 。2000年为旗县草地覆盖度变化的主要节点。人类活动是锡林郭勒草原植被动态的主导因素，研究区多年人类活动因素的综合贡献率为 $6 5 . 0 6 \%$ 。中东部和南部部分区域植被在人类积极作用下得到了显著改善,但西部和北部荒漠草原区的植被仍然呈现退化趋势。建议加大荒漠草原区生态政策实施力度以保障草地生态系统的可持续性。
+
+关键词：植被覆盖度；气候；人类活动；残差分析；贡献率；锡林郭勒草原
+
+草地生态系统是陆地上分布最广的生态系统之一，约占陆地总面积的 $4 0 \%$ （不包括格陵兰岛和南极洲)[1-2],可提供牲畜供养、水源涵养、固碳等重要的生态系统功能和服务，对外界环境响应极为敏感，在全球环境演变中占有重要地位[4。植被覆盖度是衡量草地植被长势的重要指标，受自然条件和人类活动的共同制约和影响。其中气温和降水被认为是最主要的自然因素5-,放牧、开垦和封育等人类活动也在不同程度上对草地生态系统产生积极或消极的作用-8。随着气候变化和人类对草地生态系统服务需求的不断增加，草地的可持续利用面临严峻挑战。量化气候变化和人类活动对草地植被的影响是有效开展草地保护，维持草地生态系统可持续的一项重要基础工作。
+
+锡林郭勒草原是中国重要的草地资源，是北方草原核心区，在气候变化和人类活动的影响下，土壤沙化问题日益突出，成为京津冀地区主要风沙源地之一。目前，研究者在锡林郭勒草原植被动态及驱动力方面开展了大量的工作。例如辜智慧等[o]认为锡林郭勒草原植被在生长期对气象因子反映最为敏感，归一化植被指数与气象因子之间的关系因不同类型而有差异;Zhao 等研究发现,1998—2007年该地区植被整体呈退化趋势；Li等2采用残差分析法分析发现以放牧为主的人类活动是区域1981一2006年植被变化的主要驱动因素，2000年以后的植被恢复和保护政策使得退化的草地出现了逆转；韩砚君等[13以每10a为时间段研究了1983—2011年锡林河流域植被空间格局及其动态，认为锡林河流域整体草地呈退化趋势，且在2000年后趋于减缓，人类活动是导致草地植被格局变化和草地退化的主要驱动因子；张圣微等4发现，2001—2013年锡林郭勒草原植被呈不显著波动变化，降水增加会显著促进植被覆盖度的增长，但气温升高不会显著抑制植被覆盖度。已有的研究更多关注锡林郭勒草原植被动态及某一驱动因素，且研究时段一般截止到2010s初期，对于锡林郭勒草原大力开展生态建设以后植被的变化程度还缺乏客观的理解，对于气候变化和人类活动对植被变化的贡献还缺乏定量的认识。
+
+本研究基于NDVI和气象观测等数据，综合采用趋势分析法和残差分析法，在研究区和旗县尺度上揭示了锡林郭勒草原1982—2018年草地植被覆盖度时空变化特征，量化了气候变化和人类活动对植被覆盖度影响的空间格局，以期为区域植被生态保护和放牧政策的精准化提供科学依据。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+锡林郭勒盟位于内蒙古中部 $( 1 1 1 ^ { \circ } 0 9 ^ { \prime } \simright.$ $1 1 9 ^ { \circ } 5 8 ^ { \prime } \mathrm { E } , 4 1 ^ { \circ } 3 5 ^ { \prime } { \sim } 4 6 ^ { \circ } 4 6 ^ { \prime } \mathrm { N } )$ ，是距离京津冀经济圈最近的草原牧区，也是国家重要的畜产品基地（图1)。锡林郭勒属中温带干旱半干旱大陆性季风气候，年降水总量多年均值为 $2 6 5 . 5 5 ~ \mathrm { m m }$ ,年均温呈波动上升趋势，上升速率为 $0 . 4 8 ~ \mathrm { { ^ circ C } \cdot ( 1 0 a ) ^ { - 1 } }$ ，多年均温达到 $2 . 3 3 ~ \mathrm { \textdegree C }$ 。年降水量和年均温在区域内呈现空间差异，降水量由西北向东南呈递增趋势，而气温由西到东北逐渐下降。研究区草地资源丰富，草场总面积 $1 . 9 3 \times 1 0 ^ { 5 } { \mathrm { k m } } ^ { 2 }$ ,天然草场占草场总面积的$9 7 . 2 \%$ ，从东到西依次为草甸草原、典型草原和荒漠草原，植物群落主要以旱生性丛生小禾草为主，种类如大针茅（Stipagrandis）、贝加尔针茅（Stipa ba-icalensis)等[15]。锡林郭勒盟辖2市、9旗、1县,截至2018年末常住人口为 $1 . 0 5 \times 1 0 ^ { 6 }$ ，南部为人口密集区。2018年全盟农林牧渔业总产值为 $2 . 0 7 \times 1 0 ^ { 9 }$ 元，牧业占比 $7 7 . 5 4 \%$ ，其中太仆寺旗、多伦县农业产值占比较其他旗县大，而东乌珠穆沁旗、西乌珠穆沁旗、苏尼特左旗和苏尼特右旗牧业产值占比较大。
+
+# 1.2数据来源
+
+所用生长季(4—10月)NDVI(NormalizedDiffer
+
+1120'E114°0'E1160'E1180'E1200'E1220'E N0.94   
+10.94 东乌珠穆沁旗 >县界 西乌珠穆沁旗 N 乡界 1000 阿巴嘎旗 草甸草原   
+40 苏尼特左旗 锡林浩特市 典型草原 荒漠草原 有 禁 20   
+204 太仆寺旗 0 1120'E 1140'E 1160'E 1180'E 1200'E
+
+enceVegetationIndex)数据分为两部分，1982—2006年数据下载自美国航空航天局(NASA)网站(http://ladsweb.nascom.nasa.gov/)提供的GIMMS-NDVI数据库，空间分辨率 $8 ~ \mathrm { k m }$ ,时间分辨率15d;2000—2018年数据为美国航空航天局网站提供的MOD13A1数据，空间分辨率为 $5 0 0 \mathrm { ~ m ~ }$ ,时间分辨率为 $1 6 \mathrm { d }$ 。采用MRT、ENVI软件进行拼接、投影等预处理[。由于GIMMS和MODISNDVI数据源于不同传感器，参考相关研究,我们利用重合年份2000—2006年逐年区域NDVI平均值进行回归分析 $\stackrel { \prime } { r } = 0 . 6 3 ; P < 0 . 0 1 \rangle$ ，采用回归方程对两类数据进行校正融合。植被类型数据来源于1：1000000植被图，用于提取典型草原、草甸草原和荒漠草原空间分布[18]。降水和气温等气象数据来源于中国气象数据网(http://data.cma.cn）,采用中国地面降水月值 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据集(V2.0)和中国地面气温月值 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 格点数据集(V2.0)进行Kriging插值，获得1982—2018年每月的降水和气温数据。锡林郭勒盟旗县人口数、大牲畜数及草地面积等数据来自于锡林郭勒盟统计年鉴。研究中所有空间数据分辨率统一为 $8  { \mathrm { k m } } \times 8  { \mathrm { k m } }$ 。
+
+# 1.3 研究方法
+
+1.3.1 植被覆盖度反演像元二分模型是当前基于NDVI数据反演植被覆盖度最为常用的方法之[19-21],本研究采用该方法计算1982—2018年逐月植被覆盖度，公式如下[22]：
+
+$$
+\mathrm { F V C } = { \frac { \mathrm { N D V I } - \mathrm { N D V I } _ { \mathrm { s o i l } } } { \mathrm { N D V I } _ { \mathrm { v e g } } - \mathrm { N D V I } _ { \mathrm { s o i l } } } }
+$$
+
+式中：FVC为植被覆盖度； $\mathrm { \Delta N D V I _ { s o i l } }$ 是纯裸土部分的NDVI值; $\mathrm { N D V I _ { v e g } }$ 是纯植被覆盖部分NDVI值。基于大多数学者的研究， $\mathrm { \Delta N D V I _ { s o i l } }$ 和 $\mathrm { N D V I _ { v e g } }$ 的获取是通过用置信区间的 $5 \%$ 截取NDVI的上下阈值而得[23]。最后利用每月植被覆盖度求得每年生长季植被覆盖度均值。基于全区1982—2018年草地植被覆盖度数据以及水利部关于植被覆盖度的划分标准[24，获取了区域草地植被覆盖度的空间格局。
+
+1.3.2植被覆盖度变化趋势分析采用一元线性回归分析法来监测区域植被覆盖度变化时空格局[25],公式如下：
+
+$$
+{ \mathrm { s l o p e } } = { \frac { n \cdot \sum _ { i = 1 } ^ { n } i \cdot { \mathrm { F V C } } - \sum _ { i = 1 } ^ { n } i \sum _ { i = 1 } ^ { n } { \mathrm { F V C } } _ { i } } { n \cdot \sum _ { i = 1 } ^ { n } i ^ { 2 } - \left( \sum _ { i = 1 } ^ { n } i \right) ^ { 2 } } }
+$$
+
+式中：slope为趋势斜率; $n$ 为研究年数;FVC为第 $i$ 年的生长季植被覆盖度均值。当slope ${ > } 0$ 时，表示植被覆盖度呈增长趋势；slope ${ < } 0$ 时，表示植被覆盖度呈减少趋势。在3种草地类型和旗县两个尺度上，统计分析了植被覆盖度的变化特征。
+
+1.3.3气候变化和人类活动对植被变化的贡献率识别首先，采用相关分析法测定了全区尺度上年总降水量和年平均气温与植被覆盖度的相关关系，偏相关系数的显著性采用t检验，计算方法详见参考文献[26]。
+
+在此基础上，采用改进的残差分析法来识别植被覆盖度受人类活动的影响[27-28]。根据1982—2018年降水、气温数据拟合植被覆盖度预测值，将预测值和实际值的差来作为人类活动影响的评价标准。公式如下：
+
+$$
+\varepsilon = \mathrm { F V C } _ { \mathrm { r e a l } } - \mathrm { F V C } _ { \mathrm { p r e } }
+$$
+
+式中： $\boldsymbol { \varepsilon }$ 为残差; $\mathrm { F V C } _ { \mathrm { r e a l } }$ 为植被覆盖度实测值; $\mathrm { F V C } _ { \mathrm { p r e } }$ 为植被覆盖度预测值。当 $\varepsilon > 0$ 表示人类活动对植被覆盖度有积极影响； $\scriptstyle { \varepsilon = 0 }$ 表示人类活动对植被覆盖度基本无影响； $\varepsilon < 0$ 表示人类活动对植被覆盖度有消极影响。
+
+基于残差分析结果分别得出气候变化和人类活动对植被覆盖度的贡献率[2。公式如下：
+
+$$
+r _ { \mathrm { 1 } } = \frac { \mathrm { s l o p e } ( \mathrm { F V C _ { \mathrm { p r e } } ) } } { \mathrm { s l o p e } ( \mathrm { F V C _ { \mathrm { r e a l } } ) } } \times 1 0 0 \%
+$$
+
+$$
+r _ { \mathrm { 2 } } = \frac { \mathrm { s l o p e } ( \varepsilon ) } { \mathrm { s l o p e } ( \mathrm { F V C _ { \mathrm { r e a l } } ) } } \times 1 0 0 \%
+$$
+
+式中： $r _ { 1 }$ 为气候变化对植被覆盖度变化影响的贡献率； $r _ { 2 }$ 为人类活动对植被覆盖度变化影响的贡献率。由于本文不对其他因子的影响贡献作分析，故事实上认为 $r _ { 1 } { = } 1 { - } r _ { 2 }$ ○
+
+为了更直观地对比两种因子对植被覆盖度相对贡献程度的空间分布，参考相关研究，改进了按趋势正负划分主导因子这一过于绝对化的方法，把植被覆盖度变化趋势与因子贡献率进行叠加分析，将贡献率大于 $5 5 \%$ 的因子定义为主导因子，贡献率为 $45 \% { \sim } 5 5 \%$ 时定义为两者贡献率相当的综合驱动，进而将区域分为六部分，即气候变化主导的消极影响区，气候变化主导的积极影响区，人类活动主导的消极影响区，人类活动主导的积极影响区，综合因子消极影响区，综合因子积极影响区。
+
+# 2结果与分析
+
+# 2.11982—2018年植被覆盖度时空格局
+
+锡林郭勒草原植被覆盖度及变化具有时空异质性。从空间格局来看，植被覆盖度由东北向西南逐渐减小，覆盖度较低的区域主要分布在西部荒漠草原带，而中部的典型草原和东部的草甸草原植被覆盖度相对较高(图2)。植被覆盖度小于 $3 0 \%$ 的面积比例最大，约占全区草地面积的三分之一，而植被覆盖度大于 $7 5 \%$ 的区域面积最小，仅占草地总面积的 $7 . 1 6 \%$ ，集中分布在东部。
+
+![](images/8dad0478d4f6275ea31238f13f2c0aaba895cac10675c610bd3b95ae89c90aeb.jpg)  
+图21982—2018年锡林郭勒草原植被覆盖度均值空间分布 Fig.2 Spatial distribution of mean vegetation coverage in Xilingol steppe from 1982 to 2018
+
+1982—2018年，草甸草原、典型草原和荒漠草原植被覆盖度变化具有明显差异。草甸草原多年覆盖度均值为 $5 6 . 4 3 \%$ ,37a来呈现显著上升趋势中 $( P { < } 0 . 0 1 )$ ;典型草原多年平均覆盖度为 $4 7 . 0 3 \%$ ,多年来变化不显著；而荒漠草原多年覆盖度均值为$1 5 . 2 9 \%$ ,多年来呈现显著下降趋势( $( P { < } 0 . 0 1 )$ （图3a）。
+
+进一步从各旗县来看(图3b)，大部分旗县的植被覆盖度均值在2000年前后有明显的变化。苏尼特左旗、苏尼特右旗和二连浩特市的植被覆盖度均呈现显著减小趋势( $\scriptstyle { \cdot } P < 0 . 0 1 { \mathrm { . } }$ ),其中二连浩特植被覆盖度在两个时间段的均值的下降比例最大，达$8 . 7 8 \%$ ;多伦县、太仆寺旗、正蓝旗、西乌珠穆沁旗、东乌珠穆沁旗（ $( P { < } 0 . 0 1 )$ 和锡林浩特市( $_ { ( P < 0 . 0 5 ) }$ 植被均呈显著增长趋势，从1982—1999年到2000—2018年，增加幅度分别为 $1 7 . 1 9 \%$ 、 $1 3 . 9 8 \%$ 、 $8 . 7 0 \%$ 、$4 . 9 3 \% , 4 . 1 6 \% , 2 . 4 9 \%$ 。而阿巴嘎旗、镶黄旗和正镶白旗植被覆盖度整体波动无规律，2000年前后均值无明显变化。
+
+![](images/51829627a34a66161faa3019aba2d13c3d6aa87d8a756ce645b6c9310453c703.jpg)  
+图31982—2018年锡林郭勒草原植被覆盖度变化  
+Fig.3Variation of vegetation coverage of Xilingol steppe from 1982 to 2018
+
+# 2.2气候变化和人类活动对植被覆盖度的影响特征
+
+2.2.1植被覆盖度与主要气象因子的关系研究区内多年年降水呈现波动变化状态，年降水基本集中于生长季，多年平均值为 $2 6 5 . 5 5 ~ \mathrm { m m }$ ,总体上1982—
+
+1999年年均降水量（ $( 2 8 3 . 3 2 \mathrm { m m } )$ 大于2000年之后的降水量 $( 2 4 8 . 7 2 \mathrm { m m }$ )。年均温呈波动上升趋势，多年平均气温为 $2 . 3 3 ~ \mathrm { \textdegree C }$ 左右(图4)。年降水量与植被覆盖度具有显著相关性( $_ { \scriptstyle P < 0 . 0 1 } )$ )，而气温与植被覆盖度相关性不显著。中部及西部的大部分区域植被与降水呈正相关关系，占总面积的 $8 1 . 5 7 \%$ ；气温与东部少数区域植被覆盖度呈正相关关系，而负相关区域范围较广，从西部苏尼特右旗到东部东乌珠穆沁旗中部均有分布，占总面积 $5 9 . 5 0 \%$ 。 $\mathbf { \Phi } _ { t }$ 检验结果再一次证明年降水和植被覆盖度的相关性显著，有$4 6 . 2 5 \%$ 的面积通过正相关显著水平检验，而气温对植被覆盖度的影响在 $9 7 . 0 4 \%$ 的区域相关性较弱（图5）。
+
+![](images/b5f288b8c9c38ea761ed457a62e0dfabe7a6475576b9c092d66b6a10818e35d8.jpg)  
+图41982—2018年锡林郭勒草原年降水和年均温变化  
+Fig.4 Variation of annual precipitation and mean temperature of Xilingol steppe from 1982 to 2018
+
+2.2.2人类活动对植被覆盖度的影响研究区残差呈负向趋势的面积（ $5 2 . 9 4 \%$ )略大于呈正向趋势面积 $( 4 7 . 0 6 \%$ ），1982—1999年和2000—2018年两个时段对比，人类活动对不同旗县植被的消极或积极影响显示出较大的差异(图6)。1982—1999年，研究区中部、苏尼特左旗和苏尼特右旗的中西部区域残差趋势为正，人类活动对该区域植被覆盖度为积极影响，面积约占 $5 0 . 2 6 \%$ ,而区域南部正蓝旗和多伦县以及东西乌珠穆沁旗的东部残差趋势则为负。2000—2018年，区域中部南部大部分地区以及东西乌珠穆沁旗东部的残差趋势为正，即该区域人类活动从2000年之后表现为对植被覆盖度的积极影响，面积占比约为 $4 4 . 0 3 \%$ ，而人类活动在区域西部的苏尼特左旗和苏尼特右旗则表现为消极影响。表明2000年之后人类活动表现为积极影响的面积比例提升且范围增广，整体上改善但局部尤其是荒漠草原地带仍呈消极影响。
+
+2.2.3气候变化和人类活动对植被变化的贡献率人类活动和气候变化的主导影响分布具有明显空间异质性，人类活动是锡林郭勒草原植被变化的主导因素(图7)。全区多年气候因素对区域植被覆盖变化的综合贡献率为 $3 4 . 9 4 \%$ ，而人类活动因素的综合贡献率为 $6 5 . 0 6 \%$ 。两种因子的贡献程度从空间上来看，人类活动主导引起植被覆盖度变化的面积约占研究区总面积的 $8 0 . 9 8 \%$ ,其中，大约 $4 1 . 5 0 \%$ 的区域人类活动表现为消极影响，主要分布在西部和中部部分地区，而在东部和南部地区人类活动表现为正面驱动( $3 9 . 4 8 \%$ )。气候因子主导的影响区域仅占总面积的 $1 6 . 9 7 \%$ ，呈积极影响的区域（ $( 6 . 4 6 \% )$ 零散分布在中部地区，如阿巴嘎旗和锡林浩特市；呈消极影响的区域( $( 1 0 . 5 1 \%$ )主要分布在西部荒漠草原地带及中北部;两种因子贡献率相当的综合影响区域面积仅为 $2 . 0 4 \%$ ○
+
+从各个旗县来看，1982—2018年，正蓝旗、东乌珠穆沁旗等旗县可能受人类活动主导积极影响导致植被覆盖度呈增加趋势，而苏尼特左旗和苏尼特右旗等西部旗县植被覆盖度下降主要因为受人类活动主导的消极影响，中部区域如阿巴嘎旗则因受多种类型因子影响分布较复杂，故植被覆盖度在整个时间段无明显变化，
+
+# 3讨论
+
+本研究开展了锡林郭勒草原草地植被覆盖度变化及影响因子的贡献评估研究，发现该地区呈现整体植被覆盖度增加、局部减小的格局，总体变化不显著，这与已有研究的结果相一致3。所不同的是本文进一步在旗县尺度上，量化了气候变化和人类活动的贡献率，与以往研究相比可更直观的看出，气候变化和人类活动影响的程度、类型及范围，有助于对不同旗县政策的细化提供参考。
+
+![](images/3171ee8baeafbb42500ef8fbfae9257428202b2db5f3edae2d8c9fb61360b6fe.jpg)  
+图51982—2018年锡林郭勒草原植被覆盖度与气候因子的相关性
+
+![](images/9edcb3df96e89ca6bcce7eca1d52f73b8b32bd80285a53c30af2582f6e893e19.jpg)  
+Fig.5Correlation between vegetation coverage and climate factors in Xilingol steppe during l982-2018   
+图6残差趋势空间分布  
+Fig.6Spatial distribution of NDVI residuals trend
+
+基于本研究结果，通过统计年鉴以及相关研究对比，我们可以初步分析造成旗县间植被变化及其驱动力差异的原因。一是气候因素，降水是影响干旱区草原植被覆盖度的主要气候因素，本研究和以往相关研究均得到一致的结论[32。空间上研究区西部气温高而降水少的气候格局不利于植被的生长，故苏尼特左旗、二连浩特市及苏尼特右旗等西部旗县植被覆盖度较低，多年平均覆盖度均不足 $2 0 \%$ ，而多伦县、太仆寺旗等旗县由于气候适宜，植被覆盖度多年均值达到了约 $7 0 \%$ 。在研究中也发现，东部和东南部有零星不连续斑点状区域植被覆盖度与降水呈显著负相关，同时发现东部西乌珠穆沁旗零星分布区植被退化明显[,而南部斑点状区域位于浑善达克沙地，主要土壤类型为草原风沙土，其渗透性强，且地表蒸发量大，这些区域在降水量过多时，由于光照、热量条件的不足，反而对植物生长不利[33]。植被覆盖度与气温呈显著负相关的区域主要在西南部苏尼特右旗，该区域多年平均气温 $>$ $4 \mathrm { { ^ circ C } }$ ，热量条件较好，故水分是限制植被生长的主要因子，气温越高蒸发越大且降水越少，则植被生长越差[33]
+
+![](images/f08ba64a12098065a00b177fe95f3bd81f8acfb37c4820c7e621c1fb1de7ad3c.jpg)  
+图7锡林郭勒盟气候变化和人类活动对植被动态的影响空间格局  
+Fig.7 Spatial pattern of the impact of climate change and human activities on vegetation dynamics in Xilingol League
+
+草地生态系统类型与气候变化形成互馈机制[34]。锡林郭勒盟草地面积广大[15],林地和耕地的面积总和为 $1 1 2 2 8 ~ \mathrm { k m } ^ { 2 }$ ，占全区面积比例仅为$5 . 7 1 \%$ ，故本研究仅考虑了草地变化。研究区由东到西分别分布草甸草原、典型草原和荒漠草原，杨勇等35的研究表明，3种类型草地植被对降水的利用效率依次递减，徐广才等认为，草地的不同类型造成了生态环境的恢复力、稳定性以及生态脆弱性的不同。东乌珠穆沁旗和西乌珠穆沁旗位于草甸草原区，而苏尼特左旗和苏尼特右旗位于荒漠草原区，由于本身草原类型的差别使得生态系统结构不同故植被覆盖度也不同。由于荒漠草原应变气候变化的能力低，故更易受气候影响3，表明覆盖度低的西部旗县植被仍在减少，而东南部旗县的覆盖度则呈显著增加的趋势
+
+人口和畜牧业发展等人类活动对植被的影响更为广泛。1980s以来，锡林郭勒盟年鉴显示户籍人口数呈显著增长趋势，但总体来说东西部旗县人口普遍较少，而中部及南部地区人口较多，旗县间的人口数量差异一定程度上决定了人类活动影响差异[38]。此外,有研究表明放牧极大地影响着草地生态系统的结构和功能[39。如东部的东乌珠穆沁旗和西乌珠穆沁旗，2018年6月末大牲畜数量分别为$3 . 0 3 \times 1 0 ^ { 5 }$ 和 $2 . 2 5 { \times } 1 0 ^ { 5 }$ ，由于该区域植被生长茂盛草质较好，草场面积大，在合理放牧情况下不易对植被覆盖度造成消极影响；而中西部的阿巴嘎旗、苏尼特左旗和苏尼特右旗，6月末大牲畜数量分别为$2 . 1 9 \times 1 0 ^ { 5 } , 1 . 3 5 \times 1 0 ^ { 5 } , 1 . 4 2 \times 1 0 ^ { 5 }$ ，该区域大部分草场稀疏且草地恢复力差，放牧易对植被覆盖度造成消极影响，需要采取一定政策更严格规划放牧以减少对草场的破坏。王海梅等4的研究也证实了该牲畜密度分布格局。
+
+2000年开始实施京津风沙源治理工程，自此锡林郭勒盟加大了放牧管理力度，在严重退化、沙化的草原生态区施行了季节性休牧、轮牧和禁牧等政策[4],使草地荒漠化过程发生不同程度的逆转[42],我们也采用了有序聚类分析法对不同旗县覆盖度的时间变异点进行验证[43]，都解释了本文得出的2000年为显著变化节点，且人类活动影响从2000年开始改善的结论。此外人类活动主导影响比例大于气候变化，在艾丽娅等3的研究中也得到了证实，故认为今后放牧政策制定应基于此更加细化到旗县的某些地区，例如在人类活动仍呈消极影响且草场退化严重的旗县如苏尼特左旗、苏尼特右旗可加大生态政策实施力度，其他旗县甚至小范围区域也应根据实际情况实施不同程度的全年禁牧、季节禁牧和草畜平衡放牧以及生态补偿政策，针对严重失调的荒漠草原地区要加强人类活动正面干预，如配置沙障等防风固沙工程。
+
+# 4结论
+
+（1）锡林郭勒草原植被覆盖度有明显空间异质性，从东到西草甸草原、典型草原和荒漠草原植被覆盖度依次递减。1982—2018年，草甸草原覆盖度呈显著增加趋势，荒漠草原呈显著减少趋势，而典型草原呈波动变化。从行政区来看，2000年为植被变化的重要节点，东部的东乌珠穆沁旗、西乌珠穆沁旗、锡林浩特市、以及南部东太仆寺旗和多伦县植被覆盖显著增加；而西部和北部的苏尼特右旗、苏尼特左旗、二连浩特市等区域植被覆盖显著降低。
+
+(2）人类活动是锡林郭勒草原植被变化的主导因素，人类活动和气候变化的主导影响具有区域差异。人类活动主导影响区域比例达 $8 0 . 9 8 \%$ ,其中，积极影响主要发生在东部和南部，而消极影响主要发生在西部区域。细化旗县内区域植被覆盖度变化驱动力的差异，可以更好的制定相关政策以保护草原和降低草地生态系统风险。
+
+# 参考文献(References)：
+
+[1]Gong P,Wang J,Yu L,et al.Finer resolution observation and monitoring of global land cover:First mapping results with Landsat TM and ETM $^ +$ data[J]. Journal of remote sensing,2013,34(7): 2607-2654.   
+[2] WhiteRP,Murray S,Rohweder M,etal.Pilot analysis of global ecosystems: Grassland ecosystems[J]. World Resources Institute, 2000,4(6): 275.   
+[3] Zhao Y Y,Liu Z F,Wu JG.Grassland ecosystem services:A systematic review of research advances and future directions[J].Landscape Ecology,2020: 1-22.   
+[4] 神祥金,周道玮,李飞,等.中国草原区植被变化及其对气候变 化的响应[J].地理科学,2015,35(5):622-629.[Shen Xiangjin, Zhou Daowei, Li Fei, et al. Vegetation change and its response to climate change in grassland region of China[J]. Scientia Geographica Sinica,2015,35(5): 622-629.]   
+[5]刘宪锋,朱秀芳,潘耀忠,等.1982—2012年中国植被覆盖时空 变化特征[J].生态学报,2015,35(16):5331-5342.[Liu Xianfeng,Zhu Xiufang,Pan Yaozhong,et al. Spatiotemporal changes in vegetation coverage in China during 1982-2012[J]. Acta Ecologica Sinica,2015,35(16): 5331-5342.]   
+[6] Wang J,Wang K L, Zhang MY,et al. Impacts of climate change and human activities on vegetation cover in hilly southern China [J]. Ecological Engineering,2015,81: 451-461.   
+[7]JeyaseelanA T,Roy PS,Young Stephen S.Persistent changes in NDVI between 1982 and 20O3 over India using AVHRR GIMMS (Global Inventory Modeling and Mapping Studies) data[J]. Journal of remote sensing,2007,28(21): 4927-4946.   
+[8] Liu Y,Li Y,Li S C,et al. Spatial and temporal patterns of global NDVI trends: Correlations with climate and human factors[J]. Remote Sensing,2015,7(10): 13233-13250.   
+[9]杨强,王婷婷,陈昊,等.基于MODIS EVI数据的锡林郭勒盟植 被覆盖度变化特征[J].农业工程学报,2015,31(22):191-198. [Yang Qiang,Wang Tingting,Chen Hao,et al. Characteristics of vegetation cover change in Xilin Gol League based on MODIS EVI data [J].Transactions of the Chinese Society of Agricultural Engineering,2015,31(22): 191-198.]   
+[10] 辜智慧,陈晋,史培军,等.锡林郭勒草原1983—1999年 NDVI 逐旬变化量与气象因子的相关分析[J].植物生态学报,2005, 29(5):753-765.[Gu Zhihui, Chen Jin,Shi Peijun,et al. Correlation analysis of NDVI diference seriesand Climate variables in Xilingol Steppe from 1983 to 1999[J]. Chinese Journal of Plant Ecology,2005,29(5): 753-765.]   
+[11] Zhao Y Y, He C Y, Zhang Q F.Monitoring vegetation dynamics by coupling linear trend analysis with change vector analysis: A case study in the Xilingol steppe in northern China[J].International Journal of Remote Sensing,2012,33(1): 287-308.   
+[12] Li A,Wu JG, Huang JH. Distinguishing between human-induced and climate-driven vegetation changes: A critical application of RESTREND in inner Mongolia[J]. Landscape Ecology,2012, 27(7): 969-982.   
+[13] 韩砚君,牛建明,张庆,等.锡林河流域近30年草原植被格局动 态及驱动力分析[J].中国草地学报,2014,36(2):70-77.[Han Yanjun,NiuJianming,ZhangQing,etal.Thechangingofgeta tion pattern and its driven forcesof grassland in Xilin River Basin in thirty years[J]. Chinese Journal of Grassand,2O14,36(2): 70- 77.]   
+[14] 张圣微,张睿,刘廷玺,等.锡林郭勒草原植被覆盖度时空动态 与影响因素分析[J].农业机械学报,2017,48(3):253-260 [Zhang Shengwei, Zhang Rui,Liu Tingxi, et al. Dynamicsof fractional vegetation cover and its influence factors in Xilingol Steppe [J].Transactions of The Chinese Society of Agricultural Machinery,2017,48(3): 253-260.]   
+[15] 张巧凤,刘桂香,于红博,等.锡林郭勒草原主要植被群落变化 [J].草业科学,2015,32(9):1381-1391.[Zhang Qiaofeng,Liu Guixiang,Yu Hongbo,et al.The changes of main plant communities in Xilingol grassand[J].Pratacultural Science,2015,32(9): 1381-1391.]   
+[16]Zhang PP,Cai YP, Yang W,et al. Multiple spatio-temporal patterns of vegetation coverage and its relationship with climatic factors in alarge dam-reservoir-river system[J]. Ecological Engineering,2019,138: 188-199.   
+[17]Zhao YY,Xin Z B,Ding G D.Spatiotemporal variation in the occurrence of sand-dust events and its influencing factors in the Beijing-Tianjin Sand Source Region, China,1982-2013[J]. Regional Environment Change,2018,18(8): 2433-2444.   
+[18]中国科学院中国植被图编辑委员会.中华人民共和国植被图 (1:100万)[S].北京：地质出版社,2007.[Chinese Vegetation Map Editorial Committee, Chinese Academy of Sciences. Vegetation Map of the People's Republic of China (1:1 million)[S]. Beijing: Geological Publishing House,2007.]   
+[19] 赵舒怡,宫兆宁,刘旭颖.2001—2013年华北地区植被覆盖度 与干旱条件的相关分析[J].地理学报,2015,70(5):717-729. [Zhao Shuyi,Gong Zhaoning,Liu Xuying.Correlation analysis between vegetation coverage and climate drought conditions in North China during 2001- 2013[J].Acta Geographica Sinica,2015,70 (5): 717-729.]   
+[20] Tang L,He M Z,LiXR. Verification of fractional vegetation coverage and NDVIof desert vegetation via UAVRS technology[J]. Remote Sensing,2020,12(11): 1742.   
+[21] 肖强,陶建平,肖洋.黄土高原近10年植被覆盖的动态变化及 驱动力[J].生态学报,2016,36(23):7594-7602.[Xiao Qiang, Tao Jianping,Xiao Yang.Dynamic vegetation cover change over the past 1O years on the Loess Plateau, China[J].Acta Ecologica Sinica,2016,36(23): 7594-7602.]   
+[22] 穆少杰,李建龙,陈奕兆,等.2001—2010年内蒙古植被覆盖度 时空变化特征[J].地理学报,2012,67(9):1255-1268.[Mu Shaojie,Li Jianlong,Chen Yizhao,et al. Spatial diferences of variations of vegetation coverage in Inner Mongolia during 2O01-2010 [J]. Acta Geographica Sinica,2012, 67(9): 1255-1268.]   
+[23] 何宝忠,丁建丽,张喆,等.新疆植被覆盖度趋势演变实验性分 析[J].地理学报,2016,71(11): 1948-1966.[He Baozhong, Ding Jianli,Zhang Zhe,et al.Experimental analysis of spatial and temporal dynamics of fractional vegetation cover in Xinjiang[J].Acta Geographica Sinica,2016,71(11): 1948-1966.]   
+[24] 中华人民共和国水利部.土壤侵蚀分类分级标准(SL190— 2007) [S].北京:中国水利水电出版社,2008.[Ministryof Water Resources the People's Republic of China. Standards for Classification and Gradation of Soil Erosion[S].Beijing: China Water & Power Press, 2008.]   
+[25]Fensholt R, Rasmussen K,Nielsen T T,et al. Evaluation of earth observation based long term vegetation trends-intercomparing NDVI time series trend analysis consistency of Sahel from AVHRR GIMMS,Terra MODIS and SPOT VGT data[J]. Remote Sensing of Environment,2009,113(9): 1886-1898.   
+[26] 郭力宇,郭昭,王涛,等.陕北黄土高原植被动态变化及其对气 候因子的响应[J].西安科技大学学报,2019,39(2):317-326. [Guo Liyu, Guo Zhao,Wang Tao,et al. Dynamic changes of vegetation and its responses to climate factors in northern Shaanxi loess plateau region[J]. Journal of Xi'an Universityof Science and Technology,2019,39(2): 317-326.]   
+[27] 阿多,赵文吉,宫兆宁,等.1981—2013华北平原气候时空变化 及其对植被覆盖度的影响[J].生态学报,2017,37(2):576-592. [A Duo, Zhao Wenji, Gong Zhaoning,et al. Temporal analysis of climate change and its relationship with vegetation cover on the north china plain from 1981 to 2013[J].Acta Ecologica Sinica, 2017, 37(2): 576-592.]   
+[28] 张亮.丁明军.张华敏.等.1982—2015年长江流域植被覆盖度
+
+时空变化分析[J].自然资源学报，2018,33(12):2084-2097. [Zhang Liang,Ding Mingjun, Zhang Huamin,et al. Spatiotemporal variation of the vegetation coverage in Yangtze River Basin during 1982-2015[J]. Journal of Natural Resources,2018,33(12): 2084- 2097.]
+
+[29] 刘海,黄跃飞,郑粮.气候与人类活动对丹江口水源区植被覆盖 变化的影响[J].农业工程学报,2020,36(6):97-105.[Liu Hai, Huang Yuefei, Zheng Liang.Effects of climate and human activities on vegetation cover changes in Danjiangkou water source areas [J]. Transactions of the Chinese Society of Agricultural Enginer ing,2020,36(6): 97-105.]   
+[30] 赵媛媛,何春阳,李晓兵,等.干旱化与土地利用变化对中国北 方草地与农牧交错带耕地自然生产潜力的综合影响评价[J]: 自然资源学报,2009,24(1): 123-135.[Zhao Yuanyuan,He Chunyang,Li Xiaobing, et al. Impacts of land use and climate change on cultivated land potential productivity in farming- pastoral Zone of North China[J].JouralofNatural Resources,209,24(1):123-135.]   
+[31] 杭玉玲,包刚,包玉海,等.2000—2010年锡林郭勒草原植被覆 盖时空变化格局及其气候响应[J].草地学报,2014,22(6): 1194-1204.[Hang Yuling,Bao Gang,Bao Yuhai,et al. Spatiotemporal changes of vegetation coverage in Xilin Gol grassland and its responses to climate change during 2000-2010[J]. Acta Agrestia Sinica,2014,22(6): 1194-1204.]   
+[32] 曹立国,刘普幸,张克新,等.锡林郭勒盟草地对气候变化的响 应及其空间差异分析[J].干旱区研究,2011,28(5):789-794. [Cao Liguo,Liu Puxing, Zhang Kexin, et al. Analysis on response of grasslands to climate change and its spatial difference in Xilingol League[J]. Arid Zone Research,2011,28(5): 789-794.]   
+[33] 吴喜芳,李改欣,潘学鹏,等.黄河源区植被覆盖度对气温和降 水的响应研究[J].资源科学,2015,37(3):512-521.[Wu Xifang, Li Gaixin,Pan Xuepeng,et al.Response ofvegetationcoverto temperature and precipitation in the source region of the Yellow River[J]. Resources Science,2015,37(3): 512-521.]   
+[34] 曹艳萍,庞营军,庞肖杰.1956—2017年锡林郭勒盟气候变化 特征[J].干旱地区农业研究,2019,37(4):284-290.[Cao Yanping,Pang Yingjun,Pang Xiaojie. The characteristics of climate change in Xilingol League from 1956 to 2017[J].Agricultural Research in the Arid Areas,2019,37(4): 284-290.]   
+[35] 杨勇,李兰花,王保林,等.基于改进的CASA模型模拟锡林郭 勒草原植被净初级生产力[J].生态学杂志,2015,34(8):2344- 2352.[Yang Yong,Li Lanhua,Wang Baolin,et al. Simulation of net primary productivity by a satelite data-driven improved CASA model in Xilingol grassland[J]. Chinese Journal of Ecology,2015, 34(8) 2344-2352.]   
+[36] 徐广才,康慕谊,Metzger Marc,等.锡林郭勒盟生态脆弱性[J]. 生态学报,2012,32(5):1643-1653.[Xu Guangcai,Kang Muyi, Metzger Marc,et al.Ecological vulnerability research for Xilingol League,Northern China[J].Acta Ecologica Sinica,2012, 32(5): 1643-1653.]   
+[37]陆晴,吴绍洪,赵东升.1982—2013年青藏高原高寒草地覆盖 变化及与气候之间的关系[J].地理科学,2017,37(2):292-300. [Lu Qing,Wu Shaohong,Zhao Dongsheng.Variations in alpine grassland cover and its correlation with climate variables on the Qinghai-TibetPlateau in 1982-2O13[J].Scientia Geographica Sinica 2017,37(2): 292-300.]   
+[38]艾丽娅,王少军,张志.1977—2017年锡林郭勒盟中部草原植 被覆盖时空演变及预测[J].水土保持通报,2019,39(5):249- 256,277, 347.[Ai Liya,Wang Shaojun, Zhang Zhi. Spatial-tempo ral evolution and prediction of vegetation cover in central part of Xilingol Grassland during1977-2O17[J].Bulletin of Soil and Water Conservation,2019,39 (5): 249-256,277,347.]   
+[39]陈伟娜,闫慧敏,黄河清.气候变化压力下锡林郭勒草原牧民生 计与可持续能力[J].资源科学,2013,35(5):1075-1083.[Chen Weina, Yan Huimin,Huang Heqing.Living and sustainable capacityunderclimate change in theXilin Gol Grassland[J].Resources Science,2013,35(5):1075-1083.]   
+[40]王海梅,李政海,王珍.气候和放牧对锡林郭勒地区植被覆盖变 化的影响[J].应用生态学报,2013,24(1):156-160.[Wang Hai
+
+mei,Li Zhenghai,Wang Zhen. Effects of climate and grazing on the vegetation cover change in Xilinguole League of Inner Mongolia,North China[J]. Chinese Journal of Applied Ecology,2013,24
+
+(1): 156-160.]
+
+[41]刘佳佳,黄甘霖.锡林郭勒盟和锡林浩特市草原生态系统服务 与人类福祉的关系研究综述[J].草业科学,2019,36(2):573- 593.[Liu Jiajia,Huang Ganlin.A review of grassland ecosystem service and human well- being in Xilingol League and Xilinhot City[J].Pratacultural Science,2019,36(2): 573-593.]
+
+[42]Zhou LH, Zhu YL,Yang GJ,etal.Quantitative evaluation of the effect of prohibiting grazing policy on grassland desertification reversal in northern China[J].Environmental Earth Sciences,2013, 68(8): 2181-2188.
+
+[43]魏晓婷,黄生志,黄强,等.定量分解气候变化与人类活动对季 节径流变异的贡献率[J].水土保持学报,2019,33(6):182-189 [Wei Xiaoting,Huang Shengzhi,Huang Qiang,etal.Quantitative decomposition of contributions of climate change and human activities to seasonal runoff variability[J].Journal of Soil and Water Conservation,2019,33(6):182-189.]
+
+# Effects of climate and human activities on vegetation cover changes in Xilingol steppe
+
+QU Yingbo， ZHAO Yuanyuan， DING Guodong， GAO Guanglei (Department of soil and water conservation of Beijing Forestry University,Key Laboratory of State Forestry Administration on Soil and Water Conservation,Beijing 1Ooo83,China)
+
+Abstract: This study used linear and residual analysis of remote sensingand meteorological data to monitor changes in fractional vegetation cover (FVC） in different banners from 1982 to 2018.Additionally，the relationship between climate change,human activities,andFVC change was determined,and then,the temporal and spatial patern of the contribution rateof the two factors was quantified.The change in FVC in Xilingol steppe had evident spatial heterogeneity.In terms of grassand type,the FVC of meadow steppe increased significantly,while that of desert steppe decreased significantly.The FVC in the west and north areas showed a decreasing trend,while that in the east and south showed an increasing trend,with the year 2OoO being the significant change node. FVC was positively correlated with precipitation $( P { < } 0 . 0 1 )$ . The spatial pattern of the impact of human activities on the FVC was different before and after 20,and human activities from 1982 to 2018 were the dominant explanatory factors.
+
+Keywords: vegetation coverage；climate； human activities；residual analysis；contribution rate;Xilingol steppe

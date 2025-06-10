@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "昆虫共生菌及其在病虫害防控中的应用前景 \\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王四宝曲 爽",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国科学院上海生命科学研究院植物生理生态研究所上海200032摘要昆虫的种类丰富多样，其体内栖息着大量的微生物。这些微生物与宿主昆虫在长期协同进化过程中形成了相互依存的共生关系。共生菌在昆虫的营养、代谢、免疫和生殖等诸多生理功能上发挥着重要作用，因此，昆虫共生菌是昆虫个体的重要组成部分，全面了解昆虫生命活动必须兼顾昆虫共生菌的作用和影响。同时，昆虫共生菌在开发害虫新型生物防治、废弃物生物降解和虫媒传染病的阻断控制手段中具有重要的应用前景。文章综述了昆虫共生菌的多样性、生物学功能、与宿主相互作用的机制及其在病虫害和虫媒传染病防治上的应用，并对未来研究提出展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7d7db94a1196f0453bb3f5717329a4320c44e3f0f9d2c70a11a7f7388131f28.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词协同进化，肠道菌群，共生菌，昆虫一微生物互作，共生控制DOI 10.16418/j.issn.1000-3045.2017.08.008",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "昆虫是地球上种类最为丰富的动物类群，其生态习性多样、分布广泛，对农业生产和人类健康产生了重要的影响[1]。与所有动物一样，昆虫体内也栖居着种类繁多的微生物，它们直接或间接影响昆虫的生理和健康，在昆虫的进化和物种多样性的形成中发挥不可替代的作用。这些微生物主要以肠道菌群（gutmicrobiota）的形式定殖在消化道内，参与了昆虫绝大多数的生命活动[2，并在昆虫的营养、代谢和免疫等诸多生理功能上发挥重要作用，如调节肠道生理与稳态平衡、从食物中摄取能量、辅助消化食物、合成重要的代谢产物、促进免疫系统的发育与成熟、抵御寄生虫和病原菌的入侵、协助种间与种内通讯、影响交配和生殖等。同时，昆虫肠道微生物的群落结构和代谢活动反过来也会受到宿主遗传因子和肠道微环境等的影响，使得肠道菌群具有多样性和昆虫宿主的特异性。鉴于昆虫肠道微生物的重要功能和应用价值，肠道微生物的研究近年来受到各国学者的极大关注。国外学者已将肠道菌群当作昆虫的一个特殊“多功能器官”，作为昆虫个体的重要组成部分。因此，若要全面了解昆虫的生命活动，必须兼顾昆虫体内微生物的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着昆虫肠道微生物结构及功能研究的不断深入，以昆虫营养生理、免疫与感染为中心而开展的昆虫肠道微生物的研究越来越多。本文简要概述了昆虫共生菌的研究进展，重点围绕昆虫共生菌的多样性、生物学功能、与宿主互作机制，以及其在病虫害和虫媒传染病防治中的应用进行综述，并对未来研究提出展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1昆虫共生菌的多样性 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共生菌广泛分布于昆虫的各个部位，根据昆虫种类和微生物类型的不同，共生菌在昆虫体内的位置和形式各异。昆虫共生菌主要分为2种：外共生菌和内共生菌。外共生菌是指生活在昆虫细胞外的微生物，包括附着于昆虫肠壁细胞和游离在肠腔的细菌；内共生菌是指生活在昆虫组织细胞内的微生物，其中沃尔巴克氏体（Wolbachia）是迄今为止自然界中已知存在最为广泛的革兰氏阴性胞内共生菌，约 $6 5 \\%$ 的昆虫天然携带这种细菌3]。外共生菌主要以肠道菌群的形式聚集于消化道内。肠道菌群是一个复杂的生态系统，包括细菌、真菌、病毒和原生动物，其中细菌的种类最为丰富，也是昆虫肠道微生物中数量最多的。昆虫肠道结构因种类不同存在较大差异，可能是昆虫为适应各种特殊生态位和食性而长期进化的结果，这种协同进化逐渐演化为昆虫特定肠道部位定居特定肠道微生物的现象[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "昆虫肠道中的微生物类群极其丰富，包括变形菌（Proteobacteria）、拟杆菌（Bacteroidetes）、厚壁菌（Firmicutes）、梭状芽孢杆菌（Clostridia）、放线菌（Actinomycetes）、螺旋体（Spirochetes）和疣微菌（Verrucomicrobia）等菌群[5]。但不同类型的昆虫在肠道菌群的组成上存在较大差异，等翅目昆虫白蚁肠道微生物优势菌有拟杆菌、厚壁菌、螺旋体及变形菌。鳞翅目昆虫肠道的优势菌为厚壁菌门肠球菌属和变形菌；直翅目中，沙漠蝗肠道的优势菌群为变形菌门肠杆菌属细菌；双翅目蚊虫的成虫中，肠道内主要以变形菌门的肠杆菌科细菌为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同昆虫的肠道微生物在数量上也存在很大差异。成年黑腹果蝇个体的肠道内约有 ${ { 1 0 } ^ { 5 } }$ 个细菌，成年蝗虫个体的肠道内约有 ${ 1 0 } ^ { 6 }$ 个细菌，而成年蜜蜂个体肠道内的细菌数量多达 ${ 1 0 } ^ { 9 }$ 个。大部分以植物树液为食的昆虫肠道中细菌虽然很少，但这类昆虫的肠道内含有丰富的细胞内共生菌。而以腐殖质或木屑为食的昆虫，如白蚁、蟋蟀、蟑螂和甲壳虫等，其肠道微生物含量占宿主体内总菌量的比例最大。而诸如果蝇、蚊子、蚜虫等肠道内微生物含量相对较少的昆虫则具有长而窄的肠道，这种形状的肠道可能有利于宿主更好地吸收营养。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早期昆虫肠道微生物的研究主要依赖于传统的微生物分离培养和基于16SrRNA基因的PCR-DGGE、RFLP、16SrRNA探针及16SrRNA克隆文库测序等。有些昆虫肠道微生物在体外培养较为困难，因传统研究手段的限制，影响了这些未培养微生物的发现。随着生物技术和高通量测序技术的飞速发展，用于研究基因组学、转录组学、蛋白组学以及代谢组学等多组学的新技术和新方法已开始应用于肠道菌群结构、功能蛋白组成、代谢活性及代谢通路等研究。这些新技术的发展和应用有利于更好地了解昆虫肠道微生物的多样性和功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 昆虫共生菌的主要功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1昆虫共生菌的营养和物质代谢功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在长期协同进化的过程中，昆虫与肠道微生物形成了相互依存的共生关系。肠道菌群对于维持昆虫正常的生长发育和生理平衡具有重要作用。昆虫为肠道微生物提供稳定的生存环境和必要的营养物质，肠道微生物也参与昆虫的多种代谢过程，为昆虫提供一些营养物质以及消化复杂的碳水化合物。有些昆虫可以适应各种各样的生态栖位，在营养匮乏或食物难以消化吸收的条件下生长繁殖，这其中昆虫与微生物的营养共生可能起着不可或缺的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠道微生物在营养供给和物质代谢上起到至关重要的作用，并通过这种方式影响昆虫的发育和健康。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠道共生菌为一些昆虫提供特定的营养物质，例如B族维生素、固醇和氨基酸等。例如肠道共生菌椿象红球菌（Rhodococcusrhodnii）为宿主长红锥蝽（Rhodniusprolixus）提供维生素 $\\mathbf { B } ^ { [ 7 ] }$ 。在食草性动物的饮食中，氮元素往往是一个重要的缺陷因子，很多昆虫依赖于具有固氮系统的益生菌来弥补其氮元素的缺乏。白蚁肠道中的共生菌不仅可以将宿主分泌的含氮废物回收成高价值的营养物质，还可以直接吸收空气中的氮气进行固氮作用[。蟑螂和一些食草蚂蚁体内存在能进行氮循环合成基本氨基酸的内共生菌。蟑螂在缺氮条件下可借助内共生菌（蟑螂杆状菌）来利用自身储藏的含氮废物尿酸，但蟑螂杆状菌缺少编码降解尿酸所必需的尿酸酶基因，据此推测其尿酸酶可能来源于其他肠道共生菌或宿主本身[。另外,蚜虫共生菌Buchnera 能产生多种必需氨基酸，以弥补蚜虫单一吸食植物汁液导致的营养不足[10]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有些昆虫基因组中缺少编码降解复杂碳水化合物的代谢酶基因，肠道微生物可以帮助昆虫分解这些难以消化的大分子物质，促进碳、氮的吸收和利用，使昆虫能够在营养不均衡的环境下生存[1]，尤其是以植物木质部和韧皮部为食的昆虫，其肠道中通常含有大量与纤维素降解相关的微生物类群[12]。纤维素是一种丰富的碳源，但大多以晶体或非晶体的微纤维形式存在于植物细胞壁中，因而昆虫很难利用这种碳源，需要共生微生物将纤维素降解成更简单的糖残基。例如，在白蚁后肠定殖的细菌能产生多种葡聚糖酶，以帮助宿主将纤维素分解为葡萄糖。除此之外，常见的伊蚊共生菌Serratia和Enterobacter能够分泌溶血酶，有利于促进吸血后血液的消化[13]。在白纹伊蚊肠道分离得到的共生菌Acinetobacter baumannii和Acinetobacter johnsonii不仅参与血液的消化吸收，还参与花蜜的消化吸收[14]。由此可见，昆虫是一个“超级生物体”，包含着昆虫个体基因和微生物基因联合参与的代谢。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "昆虫肠道微生物在解毒方面也扮演着重要角色。烟草甲（Lasiodermaserricorne）肠道中的共生酵母可以破坏宿主食物中的毒素，提高烟草甲对毒素的抵抗力。肠道微生物在对杀虫剂的解毒过程中，能够被诱导合成解毒酶，并通过矿化作用或共代谢过程，将杀虫剂分解代谢为一种或几种可被昆虫吸收利用的代谢物。点蜂缘蝽（Riptortuspedestris）接触到化学农药“杀螟松”时，肠道共生菌伯克氏菌（Burkholderia）可以帮助降解（杀螟松），从而提高宿主对化学杀虫剂的抗性[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2共生菌影响昆虫的生长发育",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一些昆虫共生菌可以通过垂直传播或从环境中被摄取等方式存在于昆虫的世代中，并对宿主昆虫的正常发育和繁殖至关重要。如中肠内的伯克氏菌对于宿主点蜂缘蝽的生长和繁殖起重要作用[16]。另外，去除肠道菌的果蝇虽然能够存活，但果蝇的生长发育会存在一定缺陷，主要表现为幼虫生长速率缓慢或者成虫个体相对较小，这表明果蝇肠道共生菌在果蝇系统发育中起到重要作用。在自然条件下，果蝇主要以腐烂的水果为食，其肠道中含有大量的发酵微生物，其中最主要的是醋酸杆菌（Acetobacter）和乳酸菌（Lactobacillus）。研究证实，醋酸杆菌通过吡咯并喹啉醌依赖的乙醇脱氢酶（PQQ-ADH）参与调节宿主胰岛素信号通路来促进果蝇的系统发育[17]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沃尔巴克氏体（Wolbachia）是常见的昆虫细胞内共生菌，能在蚊子生殖器官中定殖，通过胞质不相容机制影响蚊子的生殖能力。感染Wolbachia的雄蚊与未感染或感染不同种或菌株的Wolbachia的雌蚊交配不能形成可发育的受精卵，因此可以通过释放大量感染Wolbachia 的雄蚊来抑制蚊子的种群数量[18]。除了Wolbachia，其他细菌如Bacillus 和 Staphylococcus 也能影响淡色库蚊的产卵率[19]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3肠道微生物影响昆虫行为",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近期研究发现昆虫肠道微生物也参与了昆虫行为的调节。共生菌在昆虫体内可以合成或分解产生代谢物，某些代谢物会被宿主用来合成信息素或种间激素，从而影响昆虫的行为。如沙漠蝗肠道共生菌一一成团泛菌（Pantoeaagglomerans）能够利用沙漠蝗消化废弃产物中的木质素衍生物香草兰酸合成愈创木酚，而愈创木酚是沙漠蝗聚集信息素的前体，聚集信息素通过粪便挥发吸引更多的蝗虫集群行动[20]。与之相反，蝗虫微孢子可以改变飞蝗聚集化学信息，从而阻正飞蝗的群集行为。通常蝗群可能被一组聚集信息素触发和维持，这些信息素引起原本单独行动的蝗虫聚集形成一个迁徙群。微孢子通过改变蝗虫免疫系统和肠道的化学性质，杀死大量参与合成蝗虫聚集信息素的肠道微生物，从而扰乱了蝗虫的神经系统，诱导和保持群居行为的神经递质（5-羟色氨和多巴胺）水平下降，使群居的蝗虫回到独居[21]。近年来，肠道微生物与昆虫行为之间的密切关系越来越多地被发现和阐明，这对于发展新型害虫防治策略具有非常重要的意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠道微生物不仅可以通过合成信息素影响昆虫的行为，还可以影响昆虫的交配取向或偏好性。有关黑腹果蝇的研究发现，肠道共生菌能影响果蝇的交配取向[22],果蝇更趋向与肠道菌群组成相似的异性个体进行交配，这种交配选择取向有可能最终导致新物种的形成[22]。针对金小蜂的一项研究证实了肠道共生菌能够影响新物种的分化。研究者尝试将100万年前发生种群分离的2种金小蜂进行配对，结果发现其后代无法存活。但去除肠道菌群后，这2种金小蜂的繁殖后代几乎都能够成活[23]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4共生菌具有保护昆虫的作用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "昆虫在自然环境中会面对多种多样的生存压力，包括天敌的攻击、病原菌和寄生虫的感染，以及高温和寒冷等逆境的胁迫。大量研究表明，共生菌除了为昆虫宿主提供稀缺的营养资源外，还可以保护宿主抵抗病原微生物和捕食者的侵害，也能够协助昆虫宿主耐受一定的不良环境。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "体色通常作为一种重要的识别特征，对动物的各种生命活动有重要影响，例如物种识别、交配选择、伪装和警戒等。近年来，有研究表明昆虫共生菌能够控制昆虫的体色，以保护昆虫免受天敌的捕食。在豌豆蚜（Acyrthosiphonpisum）中发现了兼性内共生菌一一种立克次氏小体（Rickettsiella），它能够诱导蚜虫合成绿色色素，使蚜虫的体色由红色变成绿色，这有利于蚜虫躲避被倾向捕食红色蚜虫的天敌捕食。同时，这些体色由红变绿的蚜虫体内还有变形杆菌属的内共生菌Hamiltonella和Serratia，可以帮助豌豆蚜逃避寄生蜂的寄生。Rickettsiella通常与上述2种共生菌同时存在于豌豆蚜体内，这样可以使绿色的蚜虫能够同时躲避天敌的捕食和寄生蜂的入侵[17]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在昆虫与致病菌的对抗中，共生菌发挥着重要作用。无菌处理的昆虫比未处理昆虫更易受到病原菌和寄生虫的感染，这种共生菌抑制其他外来微生物定殖或增殖的现象称为定殖抗力。研究发现，白蚁的共生菌具有氧化还原的能力，可抑制外来病原微生物的入侵[24]。果蝇C病毒（DCV）是一种无包膜RNA病毒，对黑腹果蝇表现出高致病性和致死性。但细胞内共生菌Wolbachia 感染果蝇能显著降低由DCV造成的死亡率，并且去除Wolbachia 的果蝇对DCV更加易感[25]。昆虫共生菌的定殖抗力对病原真菌同样有效，虫疫霉真菌（Erynia）是豌豆蚜的一大天敌，当内共生细菌Regiellainsecticola存在时，豌豆蚜对虫疫霉菌的抗感染能力至少可提高5倍，即便是虫霉菌感染并杀死了蚜虫，其最终产生的孢子数量也会受到严重影响，只有正常状况下的 $1 / 1 0 ^ { [ 2 6 ] }$ 。因此，内共生细菌R.insecticola对整个蚜虫群体起到了一定的保护作用。此外，肠道微生物在促进昆虫免疫系统发育，以及维持免疫系统的正常功能上同样不可或缺。肠道菌群通过诱导宿主昆虫产生抗菌肽，维持昆虫正常的免疫能力，从而间接抵抗病原菌的感染。如肠道菌群可作为益生菌帮助蜜蜂抵抗芽孢杆菌的侵染[27,28]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "共生菌还可以通过产生有毒代谢产物来保护宿主昆虫免于被捕食。豌豆蚜的一大天敌是拟寄生蚜茧蜂（Aphidiuservi），豌豆蚜个体之间对拟寄生蚜茧蜂敏感性的差别，与其体内某些共生菌的存在与否有直接关系，其中共生菌Hamiltonelladefensa产生的毒素可直接杀死蚜茧蜂的幼虫[29]。此外，白蚁体内的共生菌能够产生甲烷气体来阻止蚂蚁及其他天敌的捕食。毒隐翅虫（Paederus）体内的共生菌通过合成一种聚酮类有毒物质隐翅虫毒素（pederin），用以抵御狼蛛的捕食[30]。雌性欧洲狼蜂（Philanthus triangulum）依赖其触角中的共生放线菌Streptomyces合成的抗生素来抵御致病真菌的感染[3]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "有研究发现，共生菌还可以通过保护“重要第三者”的方式，间接保护昆虫宿主。切叶蚁与环柄菇科真菌的相互关系是共生关系研究的一个经典案例。切叶蚁具有挑选并种植环柄菇科真菌使之作为食物来源的独特能力，但环柄菇科真菌自身缺乏竞争能力，当其他真菌入侵并竞争抑制环柄菇科真菌生存时，切叶蚁体表的一种链霉菌属共生菌能够产生抗真菌物质杀死非环柄菇科真菌，从而保护切叶蚁与环柄菇科真菌之间的共生关系免遭破坏[32]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "昆虫在自然环境中除了要面对各种天敌的威胁，还常面临人类活动诸如农药杀虫剂大量使用所带来的生存压力。最近研究发现，在昆虫与杀虫剂的对抗中也有共生菌的身影。日本科学家发现农场土壤中少量存在一种可以降解杀虫剂的布克氏菌（Burkholderia），豆科害虫点蜂缘蝽及同属的椿象可在幼虫期从土壤中获得这种共生菌；向农场施放“杀螟松”能使这种菌在土壤中大量富集，并与点蜂缘蝽形成共生关系赋予其抗药性[15]。除此之外，高温等恶劣的自然环境也会威胁昆虫的正常存活，研究证实共生菌对昆虫的温度耐受性具有一定贡献。如蚜虫的内共生菌Buchnera能够增强蚜虫对高温的耐受力——在高温时期，蚜虫内共生菌Buchnera的感染率显著提高，同时细菌中分子伴侣GroEL也在持续表达，这使得昆虫宿主中的蛋白在高温条件下维持稳定[33]。共生菌介导的保护是一个已通过生态模型预测并且越来越多被观察到的现象。共生菌为宿主昆虫提供保护使得共生组合具有更大的竞争优势，有利于共生关系的稳定维持。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3昆虫识别有益菌及抵御致病菌的调控机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "昆虫的消化系统中存在着多层次的防御系统，这对于昆虫肠道菌群的塑造非常重要，该防御系统能使昆虫在识别有益菌的同时抵御致病菌。目前免疫学方面的研究大多集中于昆虫如何抵御外来致病菌，而对于昆虫是如何识别有益共生菌则知之甚少。众所周知，大多数昆虫中肠都具有围食膜，是由中肠上皮细胞分泌形成的一种非细胞薄膜状结构，主要由几丁质、蛋白质和多糖组成[34]。围食膜具半渗透性，允许营养物质、消化酶和效应分子等通过，同时还能保护昆虫的上皮细胞层，使其不直接暴露于微生物或者毒素中，前肠和后肠上皮细胞上的黏膜可能也具有与围食膜相似的保护功能。这些介于上皮细胞和内腔之间的物理屏障在一定程度上减少了微生物对宿主的影响。除此之外，昆虫自身的免疫系统也是一道重要的防线，昆虫的先天免疫与哺乳动物的免疫机制极为相似[35]。以黑腹果蝇为例，其共生菌主要通过诱导产生抗菌肽（AMPs)和合成活性氧分子（ROS）来增强肠道上皮细胞的免疫反应。这2种诱导反应都是典型的抗性机制，通过负反馈调控机制及其他调控元件来精确调控昆虫的免疫系统[27]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "昆虫肠道中存在着大量的微生物，昆虫肠道免疫系统如何区分有益共生菌和致病菌，又如何应对免疫系统的持续激活？以果蝇为例，昆虫肠道主要通过调节IMD信号通路和DUOX系统的表达水平，从而获得对有益肠道微生物类群的免疫耐受性。其中IMD（immunedeficiency，免疫缺陷）通路是通过转录抑制因子Caudal来抑制肠道中抗菌肽AMPs基因的转录[28]。同时，中肠上皮细胞分泌的酰胺酶可分解引发炎症的PGN（肽聚糖），使共生菌分泌的PGN 维持在较低水平[36]。另外，Pirk蛋白可以隔绝细胞质中特异的PGN结合受体，从而减少定位到细胞表面的受体并且延迟IMD 通路信号的转导[37]。另一个PGN的结合蛋白PGRP-LE可能在果蝇肠道的免疫调节过程中也扮演重要角色：一方面对于致病菌的入侵，PGRP-LE可诱导依赖于转录因子Relish的免疫反应；另一方面还可通过调控酰胺酶和Pirk蛋白表达量的上调来确保免疫系统对有益菌的免疫耐受力[38]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "果蝇的DUOX系统也具有相似的调节机制。细菌的PGN并不能单独激活果蝇的DUOX通路，它需要微生物产生的ROS才能激活DUOX途径。当肠道内含有偏利共生菌时，DUOX基因的表达被MKP3 抑制，从而抑制了ROS分子的合成。然而果蝇可以通过细胞内的钙离子诱导DUOX 酶的活性，所以ROS的含量仍维持在基准水平。近年来研究发现，致病细菌产生的尿嘧啶作为配体在果蝇肠道中可激活 DUOX途径[39]。肠道共生菌可能进化形成某种机制，在昆虫肠道内一般不合成尿嘧啶，因此这些共生菌便可区别于其他致病菌，在昆虫的肠道中稳定定殖且不会过度激活免疫反应。总之，通过调节IMD和DUOX这2条免疫途径，可以有效地识别有益共生菌和抵抗有害的致病菌，从而使昆虫肠道处于正常的生理状态。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4昆虫共生菌在害虫和疾病防治上的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "昆虫与人类活动密切相关，有些昆虫严重危害农业生产、人类健康和生态环境。随着对昆虫共生菌研究的不断深入，近年来，利用共生菌控制害虫的策略受到广泛关注。很多基于共生菌的害虫控制理论被提出，有些已成功应用。Wolbachia是广泛存在于节肢动物的一类细胞质遗传的共生微生物，在很多昆虫体内具有生殖调控的作用，包括诱导胞质不亲和、孤雌生殖、雌性化和杀雄等，并能抑制蚊媒病毒的感染和缩短蚊虫的寿命，在害虫生物防治和阻断虫媒病的传播上具有巨大的应用潜力。利用具有双向胞质不亲和的Wolbachia可以实现种群抑制，即以类似释放不育雄性的方法来降低有害昆虫种群。此外，也可以利用Wolbachia诱导孤雌生殖的作用，将Wolbachia转接到害虫天敌体内，通过控制害虫的生殖来达到防治害虫的效果。自然条件下的蚊子群体中，仅在尖音库蚊和少数种伊蚊体内发现有Wolbachia。科学家将Wolbachia引入埃及伊蚊，可以有效地抑制登革热病毒的感染并缩短雌蚊的寿命，达到显著降低埃及伊蚊传播登革热的媒介效能。通过显微注射技术也已经成功地得到感染Wolbachia的斯氏按蚊，并证实Wolbachia能够抑制疟原虫的发育[40]。另外，当Serratia和 Enterobacter存在蚊子中肠时，能够显著抑制疟原虫在蚊子中肠内的发育[41]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "苏云金芽孢杆菌（Bacillus thuringiensis,Bt）是一种重要的微生物杀虫剂。研究表明昆虫肠道微生物在Bt的杀虫过程中起着重要的作用。Bt感染昆虫时通常会造成宿主肠道上皮细胞的损伤，某些肠道共生菌特别是Serratia和Clostridium会通过宿主肠道的损伤处进入血腔大量繁殖，进而减弱宿主的免疫反应，加快宿主的死亡[42]。松材线虫是一种危害性极大的林业害虫，它依赖于寄主松墨天牛进行扩散传播，能引起最具危害性的病害之一一—松材线虫病。松材线虫的危害性与其伴生细菌密不可分，其伴生菌的代谢物苯乙酸、苯甲酸、已苯酚、苯氢松柏醇和10-羟基马鞭烯酮是导致松树萎蔫的致病毒素。最近研究发现，松材线虫的一种伴生真菌能够促进松材线虫的繁殖，并且大大增加了其后代中雌性个体的数量[43]。因此，进一步阐明松材线虫与其伴生菌之间的互作机制对于防治松材线虫病有重要意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "合成生物学的发展与昆虫共生菌的研究融合出一种新的病虫害防控策略——Paratransgenesis（转基因共生菌），即通过对昆虫共生菌进行遗传操作，使其作为基因表达载体对宿主产生转基因效果，实现对害虫和虫媒传染病的防治。这项技术已经作为一个极具前景的防治手段用于阻断媒介传染病的传播。锥虫病由锥椿体内病原微生物克氏锥虫（Trypanosomacruzi）引起，将抗锥虫效应基因转入锥椿中肠共生菌一一蝽象红球菌（Rhodococcusrhodnii），由共生菌在锥椿中肠内表达抗锥虫效应蛋白可以有效地抑制锥虫的发育[44]。笔者研究团队最近将按蚊中肠常见共生细菌一—成团泛菌（Pantoeaagglomerans）作为遗传改造对象，利用大肠杆菌溶血素（HlyA）I型分泌系统在成团泛菌中分泌表达 SM1、Scorpine、(EPIP)4等多种抗疟效应分子，并通过喂食将转基因细菌引入按蚊中肠后能显著抑制疟原虫的发育，这一新策略为控制疟疾等蚊媒传染病和植物虫媒病的传播提供了新的思路[45]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "迄今，有关昆虫肠道微生物的多样性和功能等方面的研究已取得了一些进展。但鉴于昆虫种类和生活习性的多样性，昆虫共生微生物与宿主昆虫之间的关系，以及共生微生物之间的相互作用呈现出多样性和复杂性。有关肠道细菌的研究日益增多，但对其他肠道微生物类群了解甚少。由于绝大多数肠道微生物不易在体外培养，这极大地限制了对此类共生菌的发现和研究。宏基因组测序技术的发展和应用，将有效地弥补传统培养方法研究的缺陷，有助于更加深入地认识昆虫共生菌的多样性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在长期协同进化的过程中，昆虫与其体内共栖微生物形成了密切的共生关系，它们相互影响、相互依赖、协同进化。肠道微生物在昆虫营养代谢、免疫调节、抵御病原菌和调控昆虫行为和生殖等方面都扮演着重要的角色。同时，昆虫也能通过其自身的免疫系统识别有益共生菌和外来致病菌，维持健康的肠道菌群。随着肠道微生物研究的不断深人，对于昆虫如何识别非致病菌、有益菌及致病菌将会有更多的了解和认识，有利于更好地利用肠道微生物来保护益虫和控制害虫。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前，昆虫共生微生物与宿主昆虫之间复杂的相互关系，以及共生微生物在昆虫各种生理活动中所起的具体作用和分子机制尚知之甚少，这些领域是未来研究的重点。近年来哺乳动物肠道微生物的研究日益成熟，这为昆虫肠道微生物一昆虫宿主之间相互作用的研究提供了重要参考。基因组学、转录组学、蛋白组学、代谢组学以及微生物组等多组学的快速发展，为昆虫共生菌一昆虫宿主互作分子机制的研究提供了更为有效的手段。加强昆虫共生微生物的研究，不但有利于理解昆虫与微生物之间的相互关系，而且有助于从昆虫肠道这一特殊环境中获得特殊功能的微生物资源和基因资源，用于植物病虫害的无公害防",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "控、废弃物的降解以及媒介传染病的控制等。 参考文献   \n1 Basset Y, Cizek L, Cuenoud P, et al. Arthropod diversity in a tropical forest. Science,2012,338(6113): 1481-1484.   \n2Dong Y, Manfredini F, Dimopoulos G. Implication of the mosquito midgut microbiota in the defense against malaria parasites. PLosPathogens,2009,5(5): e1000423.   \n3 Jiggins F M, Bentley JK, Majerus M E,et al. How many species are infected with wolbachia? Cryptic sex ratio distorters revealed to be common by intensive sampling. Proceedings of the Royal Society B: Biological Sciences,2001,268(1472): 1123-1126.   \n4 Engel P, Moran N A. The gut microbiota of insects-diversity in structure and function. FEMS Microbiology Reviews,2013,37(5):   \n699-735.   \n5Colman D,Toolson E, Takacs-Vesbach C.Do diet and taxonomy influence insect gut bacterial communities? Molecular Ecology,   \n2012,21(20): 5124-5137.   \n6Cazemier A E, Hackstein JH, den Camp HO, et al. Bacteria in the intestinal tract of different species of arthropods.Microbial Ecology, 1997,33(3): 189-197.   \n7Eichler S,Schaub G.Developmentofsymbionts in tiatomineugs and the effects of infections with trypanosomatids.Experimental Parasitology,2002,100(1): 17-27.   \n8Hongoh Y, Sharma V K, Prakash T, et al. Complete genome of the uncultured termite group l bacteria in a single host protist cell. PNAS, 2008,105(14): 5555-5560.   \n9 Sabree Z L, Kambhampati S, Moran N A. Nitrogen recycling and nutritional provisioning by Blattabacterium, the cockroach endosymbiont.PNAS,2009,106(46): 19521-19526.   \n10 Douglas A E.Nutritional interactions in insect-microbial symbioses: aphids and their symbiotic bacteria Buchnera.Annual Review of Entomology,1998,(43): 17-37 .   \n11 Hosokawa T,Koga R,Kikuchi Y,etal. Wolbachiaasa bacteriocyte",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "associated nutritional mutualist.PNAS,2010,107(2): 769-774. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "12 Watanabe H, Tokuda G.Cellulolytic systems in insects.Annual Review of Entomology,2010,(55): 609-632. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "13 Gaio Ade O,Gusmao D S, Santos AV,et al. Contribution of midgut bacteria to blood digestion and egg production in Aedes aegypti(Diptera:Culicidae)(L.).Parasites&Vectors,2011,4: 105. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "14 Minard G, Tran F H, RaharimalalaFN,etal.Prevalence,genomic and metabolic profiles of Acinetobacter and Asaia associated with field-caught Aedes albopictus from Madagascar.FEMS Microbiology Ecology,2013,83(1): 63-73. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15Kikuchi Y,Hayatsu M,Hosokawa T,et al. Symbiont-mediated insecticide resistance.PNAS,2012,109(22): 8618-8622. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16 Visótto L,Oliveira M,Guedes R,et al.Contribution of gut bacteria to digestion and development of the velvetbean caterpillar, Anticarsia Gemmatalis.Journal of InsectPhysiology,2oo9,55(3): 185-191. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "17 Tsuchida T,Koga R,Horikawa M,et al. Symbiotic bacterium modifies aphid body color. Science,2010,330(6007): 1102-1104. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "18 Poinsot D,Charlat S,Mercot H.On the mechanism of Wolbachiainduced cytoplasmic incompatibility: confronting the models with the facts.BioEssays:News and Reviews in Molecular,Cellular and Developmental Biology,2003,25(3): 259-265. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19 Fouda MA,Hassan MI,Al-Daly AG,et al.Effect of midgut bacteria of Culex pipiens L.on digestion and reproduction.Journal of the Egyptian Society ofParasitology,2001,31(3):767-780. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20 Dillon RJ, Vennard C T, Charnley AK.Pheromones-exploitation of gut bacteria in the locust.Nature,2000,403(6772): 851-851. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "21 Shi W,Guo Y,Xu C,etal.Unveiling the mechanism by which microsporidian parasites prevent locust swarm behavior.PNAS, 2014, 111(4): 1343-1348. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "22 Sharon G, Segal D,Ringo J M, et al.Commensal bacteria play arole in mating preference ofDrosophila melanogaster.PNAS, 2010,107(46): 20051-20056. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23BruckerRM,Bordenstein SR.The hologenomic basisof speciation: gut bacteria cause hybrid lethality in the genus Nasonia. Science,2013,341(6146): 667-669.   \n24 Oliver K M, Russell JA, Moran NA,et al. Facultative bacterial symbionts in aphids confer resistance to parasitic wasps. PNAS, 2003,100(4): 1803-1807.   \n25HedgesLM,BrownlieJC,O'NeillSL,etal.Wolbachiaandvirus protection in insects. Science,2008,322(5902): 702-702.   \n26 Scarborough C L, Ferrari J, Godfray H.Aphid protected from pathogen by endosymbiont. Science,2005,310(5755): 1781.   \n27 Crotti E,Balloi A,Hamdi C,et al. Microbial symbionts:a resource for the management of insect-related problems.Microbial Biotechnology,2012, 5(3): 307-317.   \n28 Ryu JH, Kim S H, Lee H Y, et al. Innate immune homeostasis by the homeobox gene caudal and commensal-gut mutualism in Drosophila. Science,2008,319(5864): 777-782   \n29 Oliver K M, Moran N A,Hunter M S. Variation in resistance to parasitism in aphids is due to symbionts not host genotype. PNAS, 2005,102(36): 12795-12800.   \n30KellnerRL.Molecular identification of an endosymbiotic bacterium associated with pederin biosynthesis in Paederus sabaeus (Coleoptera: Staphylinidae). Insect Biochemistry and Molecular Biology,2002,32(4): 389-395.   \n31 Ferrari J,Darby A C,Daniell TJ,et al. Linking the bacterial community inpea aphidswith host-plant use and natural enemy resistance. Ecological Entomology,2004,29(1):60-65.   \n32 Oh D C,Poulsen M, Currie C R,et al. Dentigerumycin: a bacterial mediator of an anti-fungus symbiosis. Nature Chemical Biology, 2009,5(6): 391-393.   \n33 Harmon JP,Moran N A,Ives A R. Species response to environmental change: impacts of food web interactions and evolution. Science,2009,323(5919): 1347-1350.   \n34 Terra W R.Evolution of digestive systems of insects.Annual Review ofEntomology,1990,35(1): 181-200. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "35 Muller U,Vogel P,Alber G,et al. The innate immune system of mammals and insects.Contributions to Microbiology,2o08,15: 21-24. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "36 Zaidman-Remy A,Herve M,Poidevin M,etal. The Drosophila amidase PGRP-LB modulates the immune response to bacterial infection.Immunity,2006,24(4): 463-473. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "37Kleino A,Myllymäki H,Kallio J,et al.Pirk is a negative regulator of the Drosophila Imd pathway.The Journal of Immunology,2008, 180(8): 5413-5422. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "38Bosco-Drayon V,Poidevin M, BonecaIG,et al.Peptidoglycan sensing by the receptor PGRP-LE in the Drosophilagut induces immune responses to infectious bacteria and tolerance to microbiota.CellHost& Microbe,2012,12(2):153-165. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "39Lee KA,KimSH,KimEK,etal.Bacterial-derived uracil asa modulator of mucosal immunity and gut-microbe homeostasis in Drosophila.Cell,2013,153(4): 797-811. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "40 Bian G,Joshi D,Dong Y,et al.Wolbachia invades Anopheles stephensi populations and induces refractoriness to Plasmodium infection. Science,2013,340(6133):748-751. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "41 Bando H, Okado K, Guelbeogo W M, et al. Intra-specific diversity ofSerratia marcescens in Anopheles mosquito midgut defines Plasmodium transmission capacity. Scientific Reports,2013,3: 1641.   \n42 Caccia S,Di Lelio I, La Storia A,et al. Midgut microbiota and host immunocompetence underlie Bacillus thuringiensis killing mechanism.PNAS,2016,113(34): 9486-9491.   \n43 Zhao L,Lu M,Niu H,et al.A native fungal symbiont facilitates the prevalence and development of an invasive pathogen-native vector symbiosis.Ecology,2013,94(12): 2817-2826.   \n44 Durvasula R,Gumbs A,Panackal A,et al.Expression of a functional antibody fragment in the gut of Rhodnius prolixus via transgenic bacterial symbiont Rhodococcus rhodnii.Medical and Veterinary Entomology,1999,13(2):115-119.   \n45 Wang S,Ghosh A K,Bongio N,et al. Fighting malaria with engineered symbiotic bacteria from vector mosquitoes.PNAS, 2012,109(31): 12734-12739. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Insect Symbionts and Their Potential Application in Pest and Vector-borne Disease Control ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wang SibaoQu Shuang ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(InstituteofPlantPhysiologyandEcology,Shanghai Institutes for Biological Sciences,ChineseAcademyofSciences, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Shanghai 200032,China ) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AbstractInsectsaretheostdiversendundantgoupoforgasmsdomatigterestrialhabiats,insofumbersofsciesTe evolutionarysuccsofinsectsandtheidiversificationintowiderangeofeologicalnichesdependsinpartontebeneficialbersf theiraociatedmicrobiome.Theisectiscoloizedbyacomplexpopulatioofmicrorganismsinasymbioticelatioship,hichvarfrom bacteriatosseastsdprotistsseveeobialmiisproidprtantpsioloicalfctisforteststs manyways,idingproisionofutritoalsupplements,ncemntofdgestivehasm,tleranceofoetalpubtios modulationofostimuneomeostasis,rotectionfromarasitesandpathoges,odulatiofectormpeeceontrbutiotted intra-specificatidfttigdepdutielyttottol Therefore,theinsectsymbontscannolongerbeignoredwhenstudying insectbologyandhost-pathogeninteractios.Insectsymbiontsave becomepromisingintheevelopmentofnoveltoolsforthebiologicalcontrolofinsectpests,biodegradationofwastesandblockingthe transmisionofsctboedseas.Hereeproideveovesityofsetybiots,teatestdaeinthdesdigof symbioticelaosteacsenstdosdielogeatefotroltdt borne diseases.Finally, directions for future work are discussed. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywordscoevolution,gut microbiota,symbiosis,insect-microbe interaction,symbiotic control王四宝中科院上海生命科学院植物生理生态所研究员，博士生导师，研究组组长。中科院“百人计划”、上海市“浦江人才”获得者。2007年博士毕业于中科院上海生命科学院；曾在美国马里兰大学昆虫学系（2007—2009年）和美国约翰霍普金斯大学分子微生物与免疫学系（2009—2013年）从事博士后研究。主要研究昆虫—肠道微生物—病原微生物相互作用的分子机理。研究成果发表在PNAS，PLoS Pathogens，Trends in Technology等学术期刊上。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "E-mail: sbwang@sibs.ac.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WangSibaoPricipal IvetigatorandProfesorofIstuteofPlantPhsiologandEcology(PE)ShanghaiIstitutesforiological Sciences (SIB),ChineseAcademyofSciences (CAS).HeisainerofCASHundredTalentsAwardandShanghaiPujangTalentsAwardHe obtainedPhDdgreefroagaiitutefoiologicalSiecesCASindteddpostdocsudiesatUiversityofad (2007—2009)andJosHopkinsUniversity(O213).HejoinedSIEasaPrincipalvestigatorin013.Hisrecentresearchiterests focusonoleulariteractiosetweesecthosutmcrobota-pathoges.Origialrsearchpapersaveepublsdipeieed journals like PNAS,PLoS Pathogens,Trends in Technology,among others.E-mail: sbwang@sibs.ac.cn ",
+        "page_idx": 9
+    }
+]

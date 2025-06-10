@@ -1,0 +1,263 @@
+1 不同干燥工艺加工的苜蓿粗多糖对蛋鸡生产性能、蛋品质和血清、鸡蛋中抗体含量的影响  
+2 辛小青 董晓芳\*佟建明
+
+） （中国农业科子阮北京亩仪台匹九所，北京I00195）  
+4 摘要：本试验旨在研究不同干燥工艺加工的苜蓿粗多糖对蛋鸡生产性能、蛋品质、器官指  
+5 数和血清、鸡蛋中抗体含量的影响。选取54只38 周龄的京红1号产蛋鸡，随机分为3组，  
+6 每组18个重复，每个重复1只鸡，单笼饲养。对照组饲喂玉米-豆粕型基础饲粮，试验组分  
+7 别饲喂在基础饲粮中添加 $1 \ 0 0 0 \ \mathrm { m g / k g }$ 微波真空干燥所得苜蓿粗多糖 1(ACPS1)和减压烘干  
+8 干燥所得苜蓿粗多糖 2(ACPS2)。试验期 $6 5 \mathrm { d } .$ 。结果表明：与对照组相比，1）在试验第 28\~36  
+9 天，ACPS1组蛋鸡的平均日采食量显著增加（ $. P { < } 0 . 0 5 \rangle$ ；饲粮中添加不同干燥工艺加工的首  
+10 蓿粗多糖对蛋鸡各阶段的产蛋率和平均日增重均无显著影响（ $. P { > } 0 . 0 5$ )。2）试验第63天，  
+11 ACPS1 组蛋鸡的蛋黄颜色显著增加（ $_ { ( P < 0 . 0 5 ) }$ ；试验第 30 天，饲粮中添加不同干燥工艺加  
+12 工的苜蓿粗多糖对蛋鸡的蛋壳颜色、蛋黄颜色、蛋白高度和哈氏单位均无显著影响( $( P { > } 0 . 0 5 )$ 。  
+13 3)ACPS1组蛋鸡的肝脏指数显著增加（ $. P { < } 0 . 0 5 )$ )，ACPS2组的卵巢指数显著降低（ $( P { < } 0 . 0 5 )$ ：  
+14 且ACPS1组的肝脏指数和卵巢指数均显著高于ACPS2组（ $P { < } 0 . 0 5$ )。饲粮中添加不同干燥  
+15 工艺加工的苜蓿粗多糖对蛋鸡的脾脏指数和输卵管指数均无显著影响（ ${ \cdot } P { > } 0 . 0 5$ ）。4）ACPS1  
+16 组蛋鸡血清中免疫球蛋白 $\mathrm { Y ( I g Y ) }$ 含量显著增加（ $P { < } 0 . 0 5 )$ )，ACPS1和 ACPS2 组血清中新城  
+17 疫抗体(NDV-Ab)、蛋黄中 NDV-Ab、蛋清中免疫球蛋白 $\mathrm { A ( I g A ) }$ 和免疫球蛋白 $\mathbf { M } ( \mathbf { \mathrm { I g } } \mathbf { \mathbf { M } } )$ 含量均  
+18 显著增加( $_ { . } { \cal P } { < } 0 . 0 5 )$ ;且 ACPS1 组蛋黄中 NDV-Ab、蛋清中IgA 和 $\mathrm { I g } \mathrm { M }$ 含量均显著高于ACPS2  
+19 组( $. P { < } 0 . 0 5 ^ { \cdot }$ )。以上结果表明，饲粮中添加苜蓿粗多糖能加深蛋鸡的蛋黄颜色，增加血清和  
+20 鸡蛋中的抗体含量，且ACPS1的效果更佳。
+
+关键词：苜蓿粗多糖；蛋鸡；生产性能；蛋品质；抗体含量
+
+中图分类号：S816.7
+
+3 自 20 世纪60年代以来，多糖的免疫调节作用就一直备受人们的关注。多糖能够通过增  
+4强动物机体的细胞免疫和体液免疫功能，从而促进动物的生长或改善其生产性能。苜蓿粗多
+
+糖（crude polysaccharides isolated from alfalfa，ACPS）是从苜蓿茎、叶中提取的水溶性杂多糖，属非淀粉多糖；为浅黄色粉末，不含鞣质和淀粉，为酸性多糖[]。经毛细管电泳法检测，苜蓿粗多糖主要含木糖、阿拉伯糖、葡萄糖、鼠李糖、半乳糖、葡萄糖醛酸和半乳糖醛酸[2],是苜蓿的主要生物活性物质之一。已有研究表明，饲粮中添加一定剂量的苜蓿粗多糖可以促进动物的生长[3]、改善肉品质[4]、提高动物机体的免疫力[5-6]、降脂[7]、抗氧化[8]、调节肠道微生物区系、促进有益菌的增殖9等，其作为一种绿色环保的新型饲料添加剂越来越受到人们的重视。刘晴雪等[10]研究表明，饲粮中添加苜蓿多糖能显著提高肉仔鸡的体液免疫和细胞免疫功能。江振莹等[研究表明，肉仔鸡早期饲粮中添加苜蓿多糖能显著提高血清新城疫抗体滴度。张世军等[12]通过给仔猪皮下注射猪瘟兔化弱毒疫苗同时配伍肌注苜蓿多糖，结果显示，与猪瘟兔化弱毒疫苗对照组相比，苜蓿多糖配伍猪瘟兔化弱毒疫苗显著提高仔猪外周血液免疫球蛋白G（IgG）含量，增强了自身抵抗力。但目前关于苜蓿粗多糖对鸡蛋中抗体含量的影响尚未见报道。  
+研究表明，植物多糖的生物学活性与其理化组分、水溶性、分子质量大小、分支度、黏度和高级螺旋结构等紧密相关，主要受样品处理方法、提取工艺参数和干燥方法3大因素的影响，其中分子质量大小和黏度与干燥方法密切相关[13]。热风干燥、真空干燥、微波干燥等干燥方法均能对多糖的构象产生显著影响[14]，使多糖发生不可逆变化，影响多糖的结构和生物学特性[15]。Fan等[15]和Ma等[16]分别研究不同干燥方法对灵芝多糖和白桦茸多糖抗氧化活性的影响，结果发现干燥方法对多糖的抗氧化活性有显著影响。 $\mathrm { \Delta W u ^ { [ 1 7 ] } }$ 分析冷冻干燥、热风干燥和真空干燥方法对佛手多糖化学组分和抗氧化活性的影响,结果也表明干燥方法能够影响多糖的生物学功能。然而，目前有关干燥方法对苜蓿多糖生物学活性影响的研究尚无相关报道。因此，本研究以京红1号产蛋鸡为研究对象，通过在玉米-豆粕型基础饲粮中分别添加微波真空干燥苜蓿粗多糖1（ACPS1）和减压烘干干燥苜蓿粗多糖2（ACPS2)，研究其对产蛋鸡生产性能、蛋品质、器官指数和血清、鸡蛋中抗体含量的影响，并优选最佳干燥方法，旨在为首蓿粗多糖作为新型饲料添加剂提供科学依据，对开发利用高活性苜蓿粗多糖具有重要意义。  
+1　材料与方法
+
+# 1.1试验材料
+
+本试验所用苜蓿粗多糖由中国农业科学院北京畜牧兽医研究所饲料添加剂研究室提供。采用水提、醇沉、脱蛋白法提取，具体操作如下：紫花苜蓿收割、晾晒、打捆，切割为40\~60cm长度的草段，称重，加入8倍重量的水，100℃循环提取4h，200目筛过滤，减压浓缩，醇沉， $3 \%$ 三氯乙酸脱蛋白，再醇沉，然后分别用微波真空干燥和减压烘干干燥工艺加工得到ACPS1和ACPS2，最后真空包装，备用。
+
+# 1.2 试验动物与试验饲粮
+
+试验动物选用38周龄京红1号产蛋鸡54只。试验饲粮以玉米、豆粕为主要原料，参考NRC（1994）推荐的蛋鸡营养需要量确定营养水平，基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>64.00</td></tr><tr><td>豆粕 Soybean meal</td><td>24.00</td></tr><tr><td>豆油 Soybean oil</td><td>1.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.20</td></tr><tr><td>石粉 Limestone</td><td>8.50</td></tr><tr><td>食盐 NaCl</td><td>0.30</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td></td></tr><tr><td>粗蛋白质CP</td><td>11.52</td></tr><tr><td>钙Ca</td><td>16.38 3.50</td></tr><tr><td></td><td>0.40</td></tr><tr><td>有效磷 AP 蛋氨酸 Met</td><td>0.35</td></tr><tr><td>蛋氨酸+半胱氨酸Met+Cys</td><td>0.64</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: $\mathbf { M n } 6 3 . 6$ mg， $Z n 6 9 { \mathrm { ~ m g } }$ ，Fe $3 0 ~ \mathrm { m g }$ ， $\mathrm { C u } 6 . 2 5 \ : \mathrm { m g }$ ， $\mathrm { ~ I ~ 0 . 4 ~ m g }$ ， $\mathrm { S e } \ 0 . 2 \ \mathrm { m g }$ ，VA 8 000 IU， $\mathrm { V D } _ { 3 } 3 0 0 0 \mathrm { I U }$ ，VE 15 IU, $\mathrm { V K } _ { 3 } \ 2 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } \ 2 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } \ 4 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 }  { 4 }  { \mathrm { ~ m g ~ } }$ ， $\mathbf { V B } _ { 1 2 } \ 0 . 0 1 \ \mathrm { m g }$ ，泛酸钙calciumpantothenate $1 2 \mathrm { m g }$ ，烟酸 nicotinic acid $4 0 \mathrm { m g }$ ，叶酸 folic acid $1 \mathrm { m g }$ ，生物素 biotin $0 . 1 \mathrm { m g }$ ，胆碱 choline $2 1 2 . 5 \mathrm { m g }$ 。
+
+2)营养水平均为计算值。Nutrient levels were all calculated values.
+
+# 1.3 试验设计与饲养管理
+
+采用单因素完全随机试验设计，选用54只38周龄、体重和产蛋率相近、健康的京红1号产蛋鸡，随机分为3组，每组18个重复，每个重复1只鸡。单笼饲养，笼上标明组号和重复号。对照组饲喂玉米-豆粕型基础饲粮，试验组饲粮分别在基础饲粮中添加 $1 0 0 0 \mathrm { m g / k g }$ ACPS1和ACPS2。预试期7d，试验期65d。在试验第30天，肌肉注射新城疫IV系活疫苗(LaSota株)进行免疫。
+
+饲养试验在中国农业科学院北京畜牧兽医研究所动物房进行，试验开展于冬季，具体试验时间为2014年11月11日至2015年1月15日。采用3层层叠式笼养，单笼饲养，每天喂料3次，自由采食和饮水。采用自然加人工补光，恒定光照时间为 $1 6 \mathrm { h }$ （采用鸡舍照明控制器)，每天记录舍内温度、湿度，观察鸡只健康状况，并随时记录病死鸡。每隔1天清粪1次，保持舍内清洁卫生。试验期间鸡舍温度为（15.30±1.21）℃。
+
+# 1.4指标测定与方法
+
+# 1.4.1 苜蓿粗多糖各组分含量
+
+分别按照《GB/T6435—2014 饲料中水分的测定方法》、《GB/T6432—94 饲料中粗蛋白质的测定方法》和《GB/T6438—2007饲料中粗灰分的测定方法》测定2种苜蓿粗多糖样品中水分、粗蛋白质和粗灰分的含量；以葡萄糖为标准品，采用苯酚-硫酸法测定样品中多糖含量；以芦丁为标准品，采用亚硝酸钠-硝酸铝-氢氧化钠比色法测定样品中黄酮含量；以齐墩果酸为标准品，采用 $5 \%$ 香草醛-冰醋酸显色法测定样品中皂苷含量。
+
+# 1.4.2 生产性能
+
+试验期间，以重复为单位记录试验鸡每天的产蛋数；试验第27、36、50和64天晚上结
+
+料，记录各重复试验鸡的耗料量，并计算平均日采食量（ADFI)；试验第1、28和65 天空腹称重，记录各重复试验鸡的体重，并计算平均日增重（ADG)。
+
+# 1.4.3 蛋品质
+
+于试验第30和63天，采集试验鸡当天所产鸡蛋， $1 2 \mathrm { h }$ 内测定蛋品质。采用蛋壳颜色测定仪（QCR，TSS 公司，英国）测定蛋壳颜色；采用蛋品质测定仪（EMT-2500，Robotmation公司，日本）测定蛋白高度、哈氏单位和蛋黄颜色。
+
+# 1.4.4 器官指数
+
+于试验第65天，将所有试验鸡颈动脉放血致死，迅速摘取肝脏、脾脏、卵巢和输卵管称重并记录，计算各组织器官的器官指数。
+
+# 1.4.5 血清和鸡蛋中抗体含量
+
+新城疫IV系活疫苗免疫后第7天早上，空腹用真空采血针翅静脉采血，收集于 $5 \mathrm { m L }$ 离心管中，室温静置，待有血清析出，分离血清并分装到 $1 . 5 ~ \mathrm { m L }$ 离心管中备用。血清中免疫球蛋白Y(IgY)、免疫球蛋白 A(IgA)、免疫球蛋白 $\mathbf { M } ( \mathrm { I g } \mathbf { M } )$ 和新城疫抗体(NDV-Ab)含量采用双抗体一步夹心法酶联免疫吸附测定法（ELISA）测定，测定所用试剂盒均购自北京奇松生物科技有限公司，严格按照试剂盒说明书进行测定。
+
+同日下午，收集全部鸡蛋并标号，用于蛋黄中 $\mathrm { I g Y }$ 和 NDV-Ab 总量、含量以及蛋清中IgA 和IgM总量、含量的测定，测定方法同血清。在测定蛋黄和蛋清中抗体总量和含量时，首先要对蛋清和蛋黄进行预处理，方法如下：
+
+蛋黄前处理：用蛋清蛋黄分离器将蛋黄分离出来，置于干净的培养血中，用蒸馏水冲洗蛋黄膜，用滤纸吸干蛋黄膜上的水，用镊子去除系带和卵黄膜，记录蛋黄液体积并收集蛋黄液。蛋黄抗体的制备按照文献[18]的方法，取 $2 { \mathrm { m L } }$ 蛋黄液，加 $4 ~ \mathrm { m L }$ 杜氏磷酸盐缓冲液(D-PBS),漩涡振荡器上充分混匀，加入 $6 \mathrm { m L }$ 氯仿,充分混合，形成乳浊液， $1 0 0 0 \times \mathrm { g }$ 室温离心 $3 0 \mathrm { m i n }$ 离心后，离心管中液体分离为3层，底层为卵磷脂层，中间层为蛋黄半固体乳状层，上层为鸡蛋白水化层；将含有免疫球蛋白的上清液移出，分装并贮存于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 待测。
+
+蛋清前处理：从蛋小头打破鸡蛋，轻轻转动鸡蛋促进蛋清流出并将蛋清收集到量筒中，用巴斯德吸管将蛋壳中剩余的蛋清一并转入量筒中，记录蛋清体积。蛋清抗体的制备按照文献[13]的方法，取 $2 { \mathrm { m L } }$ 蛋清，加入4mLD-PBS，漩涡振荡器上充分振荡混合均匀，然后加入 $0 . 2 1 \ \mathrm { g }$ 粉末状聚乙二醇 8000(PEG-8000)使终浓度为 $3 . 5 \%$ (重量体积比)，并充分混合直到PEG-8000完全溶解；再用超高速离心机将样品在 $1 4 ~ 0 0 0 \times \mathrm { g }$ 室温离心 $1 0 ~ \mathrm { m i n }$ ，收集含有免疫球蛋白的上清液，分装，贮存于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 待测。
+
+# 1.5 数据处理与分析
+
+试验数据用Excel2010进行统计，不同干燥工艺加工的苜蓿粗多糖各组分含量采用 SAS9.2软件 $t$ 检验进行方差分析，其余数据采用ANOVA程序进行方差分析，用Duncan 氏法进行组间多重比较，以 $P { < } 0 . 0 5$ 为差异显著水平。其中产蛋率经反正弦转换后进行方差分析。
+
+2结果
+
+2.1不同干燥工艺加工的苜蓿粗多糖各组分含量
+
+由表2可知，ACPS1中多糖、黄酮和皂苷含量显著高于ACPS2（ $P { < } 0 . 0 5 \$ ，水分含量显著低于ACPS2（ $P { < } 0 . 0 5 \$ ；不同干燥工艺加工的苜蓿粗多糖中粗蛋白质和粗灰分含量无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+# 表2不同干燥工艺加工的苜蓿粗多糖各组分含量
+
+Table 2Each component content of crude polysaccharides isolated from alfalfa used different   
+
+<html><body><table><tr><td colspan="3">drying process</td><td>%</td></tr><tr><td>项目Items</td><td>苜蓿粗多糖1ACPS1</td><td>苜蓿粗多糖2ACPS2</td><td>P值 P-value</td></tr><tr><td>水分 Moisture</td><td>6.00±0.01b</td><td>7.13±0.03a</td><td>0.000 5</td></tr><tr><td>粗蛋白质CP</td><td>15.41±0.22</td><td>15.55±0.04</td><td>0.470 4</td></tr><tr><td>粗灰分 Ash</td><td>24.38±0.09</td><td>24.35±0.18</td><td>0.866 5</td></tr><tr><td>多糖Polysaccharides</td><td>27.66±0.61a</td><td>24.28±1.04b</td><td>0.008 2</td></tr><tr><td>黄酮 Flavonoids</td><td>3.45±0.01a</td><td>2.90±0.05b</td><td>0.001 7</td></tr><tr><td>皂苷 Saponins</td><td>3.68±0.04a</td><td>3.47±0.08b</td><td>0.013 5</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著（ $P { > } 0 . 0 5 \$ )，不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ . The
+
+same asbelow.
+
+2.2不同干燥工艺加工的苜蓿粗多糖对蛋鸡生产性能的影响由表3可知，在试验第 28\~36天，ACPS1组蛋鸡的平均日采食量显著高于对照组（ $\cdot P { < } 0 . 0 5 )$ ，与ACPS2组差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ )；其余各阶段各组的平均日采食量均无显著  
+差异（ $P { > } 0 . 0 5 \$ )。与对照组相比，饲粮中添加不同干燥工艺加工的苜蓿粗多糖对蛋鸡各阶段  
+的产蛋率和平均日增重均无显著影响（ $P { > } 0 . 0 5 )$ ；在试验第1\~65天，ACPS1和ACPS2组的  
+平均日增重分别较对照组分别增加了 $8 5 . 7 \%$ 和 $3 4 . 7 \%$ 。
+
+# 表3不同干燥工艺加工的苜蓿粗多糖对蛋鸡生产性能的影响
+
+Table 3 Effects of crude polysaccharides isolated from alfalfa used different drying process on   
+
+<html><body><table><tr><td colspan="6">performance of laying hens (n=18)</td></tr><tr><td></td><td>时间</td><td colspan="3">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>项目 Items</td><td>Time/d</td><td>对照 Control</td><td>苜蓿粗多糖1</td><td>苜蓿粗多糖2</td></tr><tr><td>产蛋率Egg</td><td></td><td></td><td>ACPS1</td><td>ACPS2</td><td></td></tr><tr><td rowspan="5">production/%</td><td>1~28</td><td>83.53±6.50</td><td>83.93±19.03</td><td>81.94±13.61</td><td>0.889 7</td></tr><tr><td>29~37</td><td>79.63±10.95</td><td>81.48±18.67</td><td>77.16±20.69</td><td>0.598 3</td></tr><tr><td>38~51</td><td>80.56±21.89</td><td>80.56±23.60</td><td>84.52±18.37</td><td>0.6281</td></tr><tr><td>52~65</td><td>77.78±20.04</td><td>83.73±17.46</td><td>80.56±23.09</td><td>0.602 9</td></tr><tr><td>1~65</td><td>81.11±11.10</td><td>82.82±17.50</td><td>81.54±12.82</td><td>0.848 3</td></tr><tr><td></td><td>1~27</td><td>99.39±4.89</td><td>101.96±2.89</td><td>100.27±7.29</td><td>0.344 8</td></tr><tr><td>平均日采食量</td><td>28~36</td><td>97.99±8.38b</td><td>104.51±3.80a</td><td>101.94±9.47ab</td><td>0.043 6</td></tr><tr><td>ADFI/g</td><td>37~50</td><td>102.58±4.70</td><td>104.58±4.75</td><td>101.81±10.26</td><td>0.482 0</td></tr><tr><td></td><td>51~64</td><td>99.37±5.60</td><td>104.03±5.61</td><td>103.04±6.84</td><td>0.0602</td></tr><tr><td></td><td>1~64</td><td>101.44±4.21</td><td>104.94±3.23</td><td>103.01±6.80</td><td>0.117 6</td></tr><tr><td></td><td>1~28</td><td>53.89±5.66</td><td>73.89±7.13</td><td>20.83±10.06</td><td>0.132 2</td></tr><tr><td>平均日增重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/g</td><td>29~65</td><td>-4.72±10.46</td><td>17.22±10.72</td><td>44.72±7.25</td><td>0.3103</td></tr><tr><td></td><td>1~65</td><td>49.17±8.00</td><td>91.11±12.24</td><td>65.56±10.01</td><td>0.469 0</td></tr></table></body></html>
+
+144 2.3不同干燥工艺加工的苜蓿粗多糖对蛋鸡蛋品质的影响
+
+由表4可知，试验第63天，ACPS1组蛋鸡的蛋黄颜色显著高于对照组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），与ACPS2组无显著差异（ $. P { > } 0 . 0 5 \$ ；ACPS1和ACPS2组的蛋白高度和哈氏单位与对照组相比均增加，但差异不显著（ $P { > } 0 . 0 5$ )。试验第30天，与对照组相比，饲粮中添加不同干燥工艺加工的苜蓿粗多糖对蛋鸡的蛋壳颜色、蛋黄颜色、蛋白高度和哈氏单位均无显著影响（20 $( P { > } 0 . 0 5 )$ 。
+
+表4不同干燥工艺加工的苜蓿粗多糖对蛋鸡蛋品质的影响  
+Table 4 Effects of crude polysaccharides isolated from alfalfa used different drying process on   
+
+<html><body><table><tr><td colspan="5">egg quality of laying hens (n=18)</td><td></td></tr><tr><td></td><td rowspan="2"></td><td colspan="3">组别Groups</td><td rowspan="2">P值</td></tr><tr><td>项目 时间</td><td></td><td>苜蓿粗多糖1</td><td>苜蓿粗多糖2</td></tr><tr><td>Items</td><td>Time/d</td><td>对照 Control</td><td>ACPS1</td><td>ACPS2</td><td>P-value</td></tr><tr><td>蛋壳颜色</td><td>30</td><td>37.64±10.04</td><td>35.17±7.00</td><td>33.72±4.82</td><td>0.417 4</td></tr><tr><td>Shell color/%1)</td><td>63</td><td>31.29±4.42</td><td>31.27±4.89</td><td>30.65±4.51</td><td>0.914 2</td></tr><tr><td>蛋黄颜色</td><td>30</td><td>5.65±0.25</td><td>5.74±0.42</td><td>5.64±0.18</td><td>0.648 5</td></tr><tr><td>Yolk color</td><td>63</td><td>7.37±0.60b</td><td>8.27±1.22a</td><td>7.68±0.55ab</td><td>0.018 6</td></tr><tr><td>蛋白高度</td><td>30</td><td>6.89±0.82</td><td>6.84±0.80</td><td>6.75±0.75</td><td>0.904 5</td></tr><tr><td>Albumen height/mm</td><td>63</td><td>7.49±0.77</td><td>7.93±0.76</td><td>7.71±0.79</td><td>0.318 7</td></tr><tr><td>哈氏单位</td><td>30</td><td>83.07±5.30</td><td>82.36±5.19</td><td>82.26±5.02</td><td>0.902 6</td></tr><tr><td>Haugh unit</td><td>63</td><td>85.75±5.16</td><td>88.34±4.59</td><td>87.56±4.89</td><td>0.339 4</td></tr></table></body></html>
+
+蛋壳颜色数值为光反射率，以白色为 $8 3 . 6 \%$ 、黑色为0校准。
+
+Shell color values were the luminous reflectance,calibrate before detection (white, $8 3 . 6 \%$ black, 0).
+
+2.4不同干燥工艺加工的苜蓿粗多糖对蛋鸡器官指数的影响由表5可知，与对照组相比，ACPS1组蛋鸡的肝脏指数显著增加（ $. P { < } 0 . 0 5 )$ ，ACPS2  
+组的卵巢指数显著降低（ $_ { ( P < 0 . 0 5 ) }$ ；且ACPS1组的肝脏指数和卵巢指数均显著高于ACPS2  
+组（ $P { < } 0 . 0 5$ )。与对照组相比，饲粮中添加不同干燥工艺加工的苜蓿粗多糖对蛋鸡的脾脏指  
+数和输卵管指数均无显著影响 （ $( P { > } 0 . 0 5 )$ 。
+
+Table 5 Effects of crude polysaccharides isolated from alfalfa used different drying process on organ indexes of laying hens $( n { = } 1 8$ ）
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="3">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照 Control</td><td>苜蓿粗多糖1ACPS1</td><td>苜蓿粗多糖2ACPS2</td></tr><tr><td>肝脏指数</td><td>20.41±2.54b</td><td>24.11±2.82a</td><td>21.20±2.39b</td><td>0.000 2</td></tr><tr><td>Liver index</td><td></td><td></td><td></td><td></td></tr><tr><td>脾脏指数 Spleen index</td><td>0.95±0.22</td><td>0.80±0.19</td><td>0.95±0.19</td><td>0.0503</td></tr><tr><td>卵巢指数</td><td>25.01±3.50a</td><td>25.75±5.28a</td><td>22.14±3.39b</td><td></td></tr><tr><td>Ovarian index</td><td></td><td></td><td></td><td>0.028 7</td></tr><tr><td>输卵管指数</td><td></td><td></td><td></td><td></td></tr><tr><td>Oviduct index</td><td>40.83±11.77</td><td>40.73±10.10</td><td>40.48±8.42</td><td>0.9943</td></tr></table></body></html>
+
+164 2.5不同干燥工艺加工的苜蓿粗多糖对蛋鸡血清、蛋黄和蛋清中抗体含量的影响  
+165 由表6可知，ACPS1组蛋鸡血清中 $\mathrm { I g Y }$ 含量显著高于对照组（ $_ { . } { P \mathrm { < } 0 . 0 5 } )$ ，与ACPS2组  
+166 无显著差异（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ；与对照组相比，ACPS1和 ACPS2 组血清中NDV-Ab 含量显著增加  
+167 （ $P { < } 0 . 0 5 \mathrm { ) }$ )。与对照组相比，ACPS1和 ACPS2 组蛋黄中 NDV-Ab 总量和含量均显著增加  
+168 （ $P { < } 0 . 0 5 )$ ,且ACPS1组蛋黄中NDV-Ab 含量显著高于ACPS2 组( $. P { < } 0 . 0 5 \ '$ 。ACPS1和ACPS2  
+169 组蛋清中IgA、IgM总量和含量均显著高于对照组( $( P { < } 0 . 0 5 )$ ，且ACPS1组蛋清中IgA 和IgM  
+170 含量显著高于ACPS2组（ $. P { < } 0 . 0 5 )$ ）。
+
+171 表6不同干燥工艺加工的苜蓿粗多糖对蛋鸡血清、蛋黄和蛋清中抗体含量的影响 172 Table 6 Effects of crude polysaccharides isolated from alfalfa used different drying process on 173 antibody contents in serum, egg yolk and albumen of laying hens $\scriptstyle ( n = 1 8 )$   
+
+<html><body><table><tr><td>项目</td><td colspan="3">组别 Groups</td><td>P值</td></tr><tr><td>Items</td><td>对照 Control</td><td>苜蓿粗多糖1ACPS1</td><td>苜蓿粗多糖2ACPS2</td><td>P-value</td></tr><tr><td>血清 Serum</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白YIgY/(mg/mL)</td><td>4.88±0.70b</td><td>5.54±0.55a</td><td>5.18±0.56ab</td><td>0.041 7</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>免疫球蛋白 AIgA/(ug/mL)</td><td>928.66±83.11</td><td>970.73±64.26</td><td>938.61±66.31</td><td>0.335 9</td></tr><tr><td>免疫球蛋白MIgM/(ug/mL)</td><td>1 056.01±151.17</td><td>1 225.08±201.06</td><td>1 051.78±190.27</td><td>0.334 0</td></tr><tr><td>新城疫抗体 NDV-Ab/(pg/mL)</td><td>2 269.73±197.10b</td><td>2 955.29±225.59a</td><td>2 797.46±236.94a</td><td><0.000 1</td></tr><tr><td>蛋黄Egg yolk</td><td></td><td></td><td></td><td></td></tr><tr><td>总免疫球蛋白YTotal IgY/mg</td><td>19.76±5.38</td><td>24.86±6.53</td><td>21.86±4.45</td><td>0.090 8</td></tr><tr><td>免疫球蛋白YIgY/(mg/mL)</td><td>1.33±0.33</td><td>1.70±0.49</td><td>1.47±0.32</td><td>0.075 5</td></tr><tr><td>总新城疫抗体 Total NDV-Ab/pg</td><td>13 035.14±1 083.04b</td><td>20 621.02±1 638.27a</td><td>20 064.78±1 477.17a</td><td><0.000 1</td></tr><tr><td>新城疫抗体 NDV-Ab/(pg/mL)</td><td>877.36±31.74c</td><td>1 410.28±71.19a</td><td>1 338.29±110.67b</td><td><0.000 1</td></tr><tr><td>蛋清 Albumen</td><td></td><td></td><td></td><td></td></tr><tr><td>总免疫球蛋白A Total IgA/ug</td><td>1 144.29±158.83b</td><td>1 780.39±209.02a</td><td>1 759.51±218.93a</td><td><0.000 1</td></tr><tr><td>免疫球蛋白AIgA/(ug/mL)</td><td>33.10±4.57c</td><td>52.09±3.38a</td><td>48.13±4.49b</td><td><0.000 1</td></tr><tr><td>总免疫球蛋白MTotal IgM/ug</td><td>1 590.38±222.50b</td><td>2 111.09±347.60a</td><td>1 999.67±322.80a</td><td>0.000 4</td></tr><tr><td>免疫球蛋白MIgM/(μg/mL)</td><td>45.71±3.60c</td><td>61.79±7.92a</td><td>54.66±7.19b</td><td><0.000 1</td></tr></table></body></html>
+
+174 3讨论
+
+3.1不同干燥工艺加工的苜蓿粗多糖对蛋鸡生产性能和蛋品质的影响
+
+176 植物多糖能够通过增强机体免疫力[19-20]、抗氧化[211、抗炎[2-23]、抗感染[24-25]，促进肠  
+177 道有益微生物乳酸杆菌、双歧杆菌的增殖[26]，促进粗蛋白质代谢率、加快蛋白质的合成[27]  
+178 及减少动物应激反应[28]等，最终影响动物机体的生长发育、生产性能和畜产品品质。Liu 等  
+179 [29]对热应激状态下新西兰雄兔的研究表明，饲粮中添加 $0 . 5 \%$ 的苜蓿多糖能够显著增加试验  
+180 第1\~21天的平均日采食量和平均日增重，降低饲料转化率。欧阳克蕙等[4研究表明，饲粮  
+181 中添加 $1 . 0 \%$ 和 $1 . 5 \%$ 的水溶性苜蓿多糖均能显著增加肉仔鸡的平均体重和平均日增重，降低  
+182 料重比，且 $1 . 0 \%$ 添加组的效果要优于 $1 . 5 \%$ 添加组。也有研究表明，植物多糖对动物的生产  
+183 性能无显著影响。Chen 等[30]研究表明，饲粮中分别添加黄芪多糖和牛膝多糖对肉仔鸡的日  
+184 增重、采食量、料重比和死亡率均无显著影响。江振莹等[1研究表明，肉仔鸡早期饲粮中  
+185 添加苜蓿多糖对生产性能无显著影响。本试验结果表明，饲粮中添加不同干燥工艺加工的首  
+186 蓿粗多糖对蛋鸡的生产性能无显著影响，仅在试验第 28\~36 天，ACPS1组蛋鸡的平均日采  
+187 食量显著高于对照组，这与Chen 等[30]和江振莹等[1的结果相一致。造成上述试验结果不一
+
+致的原因可能与苜蓿多糖的来源、提取工艺、干燥工艺、纯度及动物的种类、年龄、饲养环境不同有关。试验第 29\~65 天时，对照组蛋鸡的平均日增重为-4.72g。这可能是由于天气寒冷、鸡舍温度低，机体能量代谢加快以增加自身抵抗寒冷的能力，然而平均日采食量增加不显著造成能量代谢的负平衡，平均日增重出现了负增长；而苜蓿粗多糖添加组的蛋鸡由于平均日采食量增加，机体抗应激的能力增强，营养物质利用率增加，平均日增重增加。蛋白高度和哈氏单位是鸡蛋新鲜程度的重要指标。蛋白高度和哈氏单位越大，蛋白越黏稠，蛋白的品质越好[31]。本试验结果表明，试验第 63 天，ACPS1和 ACPS2 组的蛋白高度和哈氏单位均高于对照组。这可能是由于苜蓿粗多糖增强了鸡蛋中蛋白质的代谢[27]，从而使蛋白高度和哈氏单位增加。蛋黄颜色的深浅取决于家禽从饲粮中摄取的类胡萝卜素的数量和种类。家禽不能合成类胡萝卜素物质，只能从饲粮中摄取[32]。叶黄素是饲粮中常见的类胡萝卜素物质，饲粮中二酯形态的叶黄素，经动物消化道水解(皂化)变成自由态的叶黄素才能被吸收进入血液，血液中的叶黄素又经酯化作用形成二酯态叶黄素储存于蛋黄内。本试验中 2 种干燥工艺加工的苜蓿粗多糖均增加了试验第63天的蛋黄颜色，这可能是由于多糖具有抗氧化能力[33，阻止叶黄素被氧化，从而增加了色素的沉积。其中 ACPS1组的蛋黄颜色显著高于对照组，这可能与ACPS1中多糖含量高有关，还需从多糖分子质量大小、结构等方面做进一步探究。
+
+# 3.2不同干燥工艺加工的苜蓿粗多糖对蛋鸡器官指数的影响
+
+脾脏是动物机体最大的免疫组织，含有大量的免疫活性细胞。免疫器官的重量可以直接反映其发育状况，而免疫器官的发育状况能初步反映动物机体的免疫应答水平，并能影响免疫功能和抵御疾病的能力。研究表明，多糖能够缓解免疫抑制机体免疫器官的萎缩，促进免疫器官的发育[10.34-35]。Chen 等[36]给环磷酰胺诱导的免疫抑制小鼠口服纯化的五味子多糖能够显著提高胸腺指数和脾脏指数，且脾脏指数随五味子多糖剂量的增加而增加。Wang 等[37]给小鼠腹腔注射不同剂量的蛹虫草多糖，与空白对照组相比， $7 0 ~ \mathrm { m g / k g }$ 蛹虫草多糖阳性对照组的胸腺指数和脾脏指数显著增加；17.5、35.0 和 $7 0 . 0 \mathrm { m g / k g }$ 蛹虫草多糖的环磷酰胺诱导的免疫抑制组的胸腺指数和脾脏指数显著增加，且呈剂量依赖关系。本试验结果表明，饲粮中添加苜蓿粗多糖对蛋鸡的脾脏指数无显著影响，这可能与动物品种、年龄及健康状态有关，免疫抑制状态下，植物多糖能够缓解动物机体的免疫器官萎缩，促使机体恢复正常的免疫水
+
+平，因此作用效果更加显著；而正常产蛋鸡自身的免疫器官已经发育成熟，免疫系统处于较为平衡的状态，因此作用效果不显著。  
+肝脏指数是反映肝脏健康状况的指标之一。昌友权等[38]研究表明，玉米须多糖能够显著降低四氯化碳(CCl4)肝损伤小鼠的肝脏指数，起到保肝作用。本试验结果表明，ACSP1 组蛋鸡的肝脏指数显著高于对照组。研究结果不一致的原因可能是由于本试验是在冬季开展，鸡舍温度为（15.30±1.21）℃，而鸡舍最适宜产蛋温度为18\~23℃；而在北方，尤其是冬天，长期保持寒冷的天气（4℃以下，尤其是-10℃以下)，家禽常常会产生寒冷应激，维持需要增加[39]；此时苜蓿粗多糖可能通过促进体内蛋白质合成、抑制蛋白质分解，使组织中蛋白质的沉积增加，从而提高肝细胞活性，增加产蛋鸡肝脏的代谢能力，提高机体对寒冷的抵抗能力，这也与苜蓿粗多糖添加组的平均日采食量增加而生产性能无显著变化相一致。卵巢是雌性动物的重要生殖分泌器官，是产生卵子及类固醇激素的重要场所。卵巢中含有各级卵泡的数目及形态都可反映卵巢的功能及机体生殖内分泌系统的状况。家禽卵巢指数是反映卵巢功能状况的指标之一。官丽辉等[40]研究表明，黄芪多糖能够通过调节生殖激素含量，改善母鸡的卵巢功能，促进卵泡发育与排卵。本试验结果表明，ACPS2 组蛋鸡的卵巢指数显著低于对照组，与上述结果不一致，需要进一步研究证实。  
+3.3不同干燥工艺加工的苜蓿粗多糖对蛋鸡血清、蛋黄和蛋清中抗体含量的影响  
+动物机体血清中免疫球蛋白含量是衡量体液免疫的重要指标。研究表明，多糖能够增强机体血清中免疫球蛋白的含量，提高机体免疫力[41-44]。杨侃侃等[26]研究发现，饲粮中添加800 mg/kg 的刺五加多糖能够显著增加试验第1\~21天断奶仔猪血清中IgG、IgA和IgM含量，增强仔猪的抵抗力。张世军等[12]研究发现，仔猪皮下接种猪瘟兔化弱毒疫苗的同时肌肉注射 $0 . 2 { \mathrm { ~ m L } }$ 的苜蓿多糖溶液能够显著促进外周血B 淋巴细胞数量和IgG 含量。李淑芳等[45]研究表明，米糠多糖能够显著促进试验第7、14和21天京白939雏鸡血清中IgG 和IgA 含量，显著促进试验第7和14天血清中IgM含量，而对试验第 21天血清中IgM含量无显著影响。Yu 等[46]研究表明，芦荟多糖能显著增加口腔溃疡小鼠血浆中IgG、IgA 和 IgM含量。本试验结果表明，ACPS1 组蛋鸡血清中 IgY 含量显著高于对照组，ACPS1 和 ACPS2 组血清中 NDV-Ab 含量显著高于对照组，这与上述结果相一致，说明饲粮中添加苜蓿粗多糖能够通过提高血清抗体含量，增加机体免疫力。
+
+鸡卵黄能够富集从血清转移来的大量抗体[47]。鸡蛋中的非特异性抗体主要为IgY、IgA和 IgM，其中血清中的 IgY 通过卵巢滤泡上的受体，经胞吞转运方式进入卵黄[48]，而 IgA和 IgM 则由输卵管黏膜分泌且主要存在于蛋清中[49]。研究证实，沉积到卵黄中的IgY 含量和血清中IgY 含量呈正相关关系[50]。本试验结果表明，ACPS1和 ACPS2 组蛋鸡蛋黄中IgY含量增加，但与对照组相比无显著差异，而蛋黄中 NDV-Ab 总量和含量显著高于对照组，蛋清中IgA、IgM总量和含量显著高于对照组。这可能与饲粮中添加苜蓿粗多糖提高了血清中的抗体含量有关。本试验结果也表明，ACPS1组蛋清中IgA、IgM含量和蛋黄中NDV-Ab含量均显著高于ACPS2 组，这可能与微波真空干燥温度低、干燥速度快且均匀、对干燥物料的质量影响小且具有灭菌功能等特性有关，有待于进行粗多糖结构和组分分析，进一步探究原因。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加ACPS1和ACPS2对蛋鸡的生产性能均无显著影响。$\textcircled{2}$ 饲粮中添加ACPS1 显著增加了试验第63 天蛋鸡的蛋黄颜色。$\textcircled{3}$ 饲粮中添加不同干燥工艺加工的苜蓿粗多糖显著增加了蛋鸡血清、蛋黄和蛋清中的抗体含量，且ACPS1的效果更佳。参考文献：[1]赵武述,张玉琴,任丽娟,等.苜蓿多糖的免疫增强效应[J].中国药理学报,1993,14(3):273-276.[2]王少璞.苜蓿多糖提取、纯化及其对蛋鸡肝细胞生物活性的影响[D].硕士学位论文.北京:中国农业科学院,2014:1-22.[3]董殿元.饲粮中添加苜蓿多糖对保育猪生长性能及血清生化指标的影响[J].养猪,2014(3):20-21.[4]欧阳克蕙,熊小文,王文君,等.水溶性苜蓿多糖对肉仔鸡生长性能、胴体品质及生长激素和胰岛素样生长因子-1基因表达的影响[J].动物营养学报,2014,26(5):1272-1278.[5]张慧辉.水溶性苜蓿多糖的提取及其对鸡免疫功能和生产性能的影响研究[D].硕士学位论文.郑州:河南农业大学,2007:5-32.[6]LI J,TANG Y,MENG X,et al.The proliferative efcts of alfalfa polysaccharides on the mouse
+
+immune cells[J].Life Science Journal,2013,10(2):868-873.
+
+[7]DENG W,DONG X F,TONG J M,et al.Effects of an aqueous alfalfa extract on production performance,egg quality and lipid metabolism of laying hens[J].Journal of Animal Physiology and Animal Nutrition,2012,96(1):85-94.
+
+[8]徐春燕.苜蓿多糖和黄芪多糖对肉仔鸡抗氧化性能影响的研究[D].硕士学位论文.扬州:扬州 大学,2010:34-69.   
+[9]王丽荣.水溶性苜蓿多糖(WSAP)对肉仔鸡免疫机理的研究[D].硕士学位论文.呼和浩特:内蒙 古农业大学,2001:20-21.   
+[10]刘晴雪,董晓芳,佟建明,等.水溶性苜蓿多糖对肉仔鸡生长及免疫性能的影响[J].饲料研 究,2010,7(1):1-4,8.   
+[11]江振莹,玉兰.水溶性苜蓿多糖对肉仔鸡营养免疫作用的研究[J].饲料工 业,2005,26(21):19-20.   
+[12]张世军,王三虎,赵坤.苜蓿多糖对猪瘟兔化弱毒疫苗免疫应答强化作用的研究[J].河南农业 科学,2003(10):57-60.   
+[13]吴振,李红,罗杨,等.不同干燥方式对银耳多糖理化特性及抗氧化活性的影响[J].食品科 学,2014,35(13):93-97.   
+[14]NEP E I,CONWAY B R.Physicochemical characterization of grewia polysaccharide gum:Effect of drying method[J].Carbohydrate Polymers,2011,84(1):446-453.   
+[15]FAN L P,LI JW,DENG K Q,et al.Effects of drying methods on the antioxidant activities of polysaccharides extracted from Ganoderma lucidum[J].Carbohydrate Polymers,2012,87(2):1849-1854.   
+[16]MAL S,CHEN H X,ZHU W C,et al.Effect of different drying methods on physicochemical properties and antioxidant activities of polysaccharides extracted from mushroom Inonotus obliquus[J].Food Research International,2013,50(2):633-640.   
+[17]WU Z.Effect of different drying methods on chemical composition and bioactivity of finger citron polysaccharides[J].International Journal of Biological Macromolecules,2O15,76:218-223.   
+[18]HAMAL K R,BURGESS S C,PEVZNER I Y,et al.Maternal antibody transfer from dams to their egg yolks,egg whites,and chicks in meat lines of chickens[J].Poultry
+
+Science,2006,85(8):1364-1372.
+
+[19]KALLON S,LI X R,JI J,et al.Astragalus polysaccharide enhances immunity and inhibits H9N2 avian influenza virus in vitro and in vivo[J].Journal of Animal Science and Biotechnology,2013,4(1):22.
+
+[20]WEI K,SUN Z H,YAN Z G,et al.Effects of Taishan Pinus massoniana pollen polysaccharide on immune response of rabbit haemorrhagic disease tissue inactivated vaccine and on production performance of Rex rabbits[J].Vaccine,2011,29(14):2530-2536.   
+[21]CHEN R Z,LIU Z Q,ZHAO JM,et al.Antioxidant and immunobiological activity of water-soluble polysaccharide fractions purified from Acanthopanax senticosu[J].Food Chemistry,2011,127(2):434-440.   
+[22]XU X X.Plant polysaccharides and their effects on cel adhesion[M]//Bioactivity and Biotechnology.Switzerland:Springer International Publishing,2015:2117-2135.   
+[23] 王筱霏.黄芪多糖及其硫酸化修饰产物体内外抗炎活性研究[D].硕士学位论文.杨陵:西北农 林科技大学,2014:42-57.   
+[24]LIU C,CHEN J,LI E T,et al.Solomonseal polysaccharide and sulfated Codonopsis pilosula polysaccharide synergistically resist newcastle disease virus[J].PLoS One,2015,10(2):e0117916.   
+[25] 王春花,付云威,张秀英.大黄多糖超声波提取工艺及抗新城疫病毒活性试验[J].中国兽医杂 志,2011,47(12):70-73.   
+[26]杨侃侃,边连全,刘显军,等.刺五加多糖对断奶仔猪生长性能、血清免疫指标及粪便微生物菌 群的影响[J].动物营养学报,2013,25(3):628-634.   
+[27]陈红莉.苜蓿多糖对肉仔鸡消化代谢、生长及免疫性能影响的研究[D].硕士学位论文.石河子: 石河子大学,2006:19-23.   
+[28] 韩杰,边连全,张一然,等.刺五加多糖对脂多糖免疫应激断奶仔猪生长性能和血液生理生化 指标的影响[J].动物营养学报,2013,25(5):1054-1061.   
+[29]LIU H W,DONG X F,TONG JM,et al.Alfalfa polysaccharides improve the growth performance and antioxidant status of heat-stressed rabbits[J].Livestock Science,2010,131(1):88-93.   
+[30]CHEN HL,LI D F,CHANG B Y,et al.Effects of Chinese herbal polysaccharides on the
+
+immunity and growth performance of young broilers[J].Poultry Science,2Oo3,82(3):364-370.
+
+[31]EISEN E J,BOHREN B B,MCKEAN HE.The haugh unit as a measure of egg albumen quality[J].Poultry Science,1962,41(5):1461-1468.   
+[32]曲湘勇,中岛隆.天然着色剂提高蛋黄色泽度的比较研究[J].中国畜牧杂志,1999,35(2):29-31.   
+[33]KANG M C,KIM S Y,KIM Y T,et al.In vitro and in vivo antioxidant activities of polysaccharide purified from aloe vera (Aloe barbadensis) gel[J].Carbohydrate Polymers,2O14,99:365-371.   
+[34]CHO C W,HAN C,RHEE Y K,et al.Cheonggukjang polysaccharides enhance immune activities and prevent cyclophosphamide-induced immunosuppression[J].International Journal of Biological Macromolecules,2015,72:519-525.   
+[35]CHEN X,NIE W,FAN S,et al.A polysaccharide from Sargassum fusiforme protects against immunosuppression in cyclophosphamide-treated mice[J].Carbohydrate Polymers,2012,90(2): 1114-1119.   
+[36]CHEN Y,TANG JB,WANG X K,et al.An immunostimulatory polysaccharide (SCP-Ia) from the fruit of Schisandra chinensis (Turcz.) Bail[J].International Journal of Biological Macromolecules,2012,50(3):844-848.   
+[37]WANG M,MENG X Y,LE YANG R,et al.Cordyceps militaris polysaccharides can enhance the immunity and antioxidation activity in immunosuppressed mice[J].Carbohydrate Polymers,2012,89(2):461-466.   
+[38]昌友权,王维佳,杨世杰,等.玉米须多糖对四氯化碳致肝损伤小鼠的保护作用[J].食品科 学,2004,25(10):305-308.   
+[39]袁施彬,何平.家禽冷应激及其营养调控研究进展[J].中国畜禽种业,2008,4(8):55-58.   
+[40]官丽辉,张立永,刘海斌,等.黄芪多糖对蛋鸡生产性能、生殖激素及血液生理生化指标的影响 [J].中国粮油学报,2015,30(7):70-76.   
+[41]CHEN Q,LIU Z,HE J.Achyranthes bidentata polysaccharide enhances immune response in weaned piglets[J].Immunopharmacology and Immunotoxicology,2009,31(2):253-260.   
+[42]DENG Z Y,ZHANG J W,WU G Y,et al.Dietary supplementation with polysaccharides from Semen cassiae enhances immunoglobulin production and interleukin gene expression in
+
+early-weaned piglets[J].Journal of the Science of Food and Agriculture,2OO7,87(1O):1868-1873.
+
+[43]XIE F,SAKWIWATKUL K,ZHANG C,et al.Atractylodis macrocephalae Koidz. polysaccharides enhance both serum IgG response and gut mucosal immunity[J].Carbohydrate Polymers,2013, 91(1):68-73.
+
+[44]XU H S,WU Y W,XU S F,et al.Antitumor and immunomodulatory activity of polysaccharides from the roots of Actinidia eriantha[J].Journal of Ethnopharmacology,2009,125(2):310-317.
+
+[45]李淑芳,李英,张继东,等.米糠多糖对健康雏鸡外周血T淋巴细胞转化和体液免疫的影响[J]. 动物营养学报,2007,19(3):237-244.
+
+[46]YU Z H,JIN C,XIN M,et al.Effect of Aloe vera polysaccharides on immunity and antioxidant activities in oral ulcer animal models[J].Carbohydrate Polymers,20o9,75(2):307-311.
+
+[47]BRAMBELL F W R.The transmission of passive immunity from mother to young[C]/Neuberger & Tatum.Frontiers of Biology.Amsterdam/London:North Holland Publishing Company,1970,18:20-41.
+
+[48]WEST AP,Jr,HERR AB,BJORKMAN PJ.The chicken yolk sac IgY receptor,a functional equivalent of the mammalian MHC-related Fc receptor,is a phospholipase $\mathbf { A } _ { 2 }$ receptor homolog[J].Immunity,2004,20(5):601-610.
+
+[49]ROSE ME,ORLANS E,BUTTRESS N.Immunoglobulin classes in the hen's egg:Their segregation in yolk and white[J].European Journal of Immunology,1974,4(7):521-523.
+
+[50]LOEKEN MR,ROTH TF.Analysis of maternal IgG subpopulations which are transported into the chicken oocyte[J].Immunology,1983,49(1):21-28.
+
+Effects of Crude Polysaccharides Isolated from Alfalfa Used Different Drying Process on Performance,Egg Quality and Serum and Egg Antibody Contents of Laying Hens XIN Xiaoqing DONG Xiaofang\*TONG Jianming   
+(Institute of Animal Science, Chinese Academy ofAgricultural Sciences,Beijing 1O0193, China)   
+Abstract: This experiment was conducted to study the effects of crude polysaccharides isolated
+
+trom altalta (ACPS) used diterent drying process on pertormance, egg quality, organ indexes and serum and egg antibody contents of laying hens. Fifty four 38-week-old Jinghong No.1 laying hens were randomly allocated to 3 groups with 18 replicates per group and 1 hen per replicate fed in single cage. The hens in control group were fed a corn-soybean meal basal diet, and those in experimental groups were fed the basal diet supplemented with $1 0 0 0 \mathrm { m g / k g }$ ACPS by microwave vacuum drying method (ACPS1） and ACPS by decompression drying method (ACPS2), respectively. The experiment lasted for 65 days. The results showed as follows: compared with the control group,1) the average daily feed intake of laying hens in ACPS1 group was significantly increased from 28 to 36 days( $( P { < } 0 . 0 5 )$ .Dietary ACPS used different drying process had no significant effects on egg production and average daily gain of laying hens among all phases （2 $( P { > } 0 . 0 5 )$ . 2) The yolk color of laying hens in ACPS1 group was significantly increased at 63 days $( P { < } 0 . 0 5 )$ . Dietary ACPS used different drying process had no significant effects on eggshell color, yolk color, albumen height and Haugh unit at 3O days $( P { > } 0 . 0 5 )$ . 3） The liver index of laying hens in ACPS1 group was significantly increased $( P { < } 0 . 0 5 )$ ， the ovarian index in ACPS2 group was significantly decreased $( P { < } 0 . 0 5 )$ ，and the liver index and ovarian index in ACPS1 group were significantly higher than those in ACPS2 group $( P { < } 0 . 0 5 )$ . Dietary ACPS used different drying process had no significant effects on spleen index and oviduct index $( P { > } 0 . 0 5 )$ . 4) The content of immunoglobulin $\mathrm { Y }$ $( \mathrm { I g Y } )$ in serum of laying hens in ACPS1 group was significantly increased $( P { < } 0 . 0 5 )$ , the contents of Newcastle disease antibody (NDV-Ab) in serum, NDV-Ab in yolk and immunoglobulin A (IgA) and immunoglobulin M (IgM) in albumen in ACPS1 and ACPS2 groups were significantly increased $( P { < } 0 . 0 5 )$ . The contents of NDV-Ab in yolk and IgA and IgM in albumen in ACPS1 group were higher than those in ACPS2 group $( P { < } 0 . 0 5 )$ . These data suggest that dietary ACPS can deepen the yolk color, increase the content of antibody in serum and egg, and ACPS1 has a better effect.
+
+Key words: crude polysaccharides isolated from alfalfa; laying hens; performance; egg quality; antibody content

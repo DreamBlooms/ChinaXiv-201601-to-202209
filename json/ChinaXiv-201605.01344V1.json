@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCH LETTER-Physiology& Biochemistry ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Discovery and characterization of Ku acetylation in Mycobacterium smegmatis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ying Zhou1,#, Tao Chen2,#,Lin Zhou2,#,Joy Fleming1, Jiaoyu Deng³, Xude Wang³, Liwei Wang1, Yingying Wang1, Xiaoli Zhang1, Wenjing Wei1 and Lijun $\\mathtt { B i } ^ { 1 , * }$ （204号 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Laboratory of RNA Biology, Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China, 2Center for Tuberculosis Control of Guangdong Province, Guangzhou 510440, China and 3State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences,Wuhan 430071, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Coresddo 100101, China. Tel: +86-10-64888464; E-mail: blj@ibp.ac.cn   \n#These authors contributed equally to this work.   \nOnesentence summary:Ku acetylationvaries with growth phase.   \nEditor: Sylvie Rimsky ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lysineacetylation is animportantpost-translationalmodificationandis knownto regulate many eukaryoticcellular processes.Litle,however,is known about acetylated proteins in prokaryotes.Here,using immunobloting,mass spectrometry and mutagenesis studies,we investigate the acetylation dynamics ofthe DNA repair protein Kuandits relationship with thedeacetylase protein Sir2 and thenon-homologous end joining(NHEJ)pathwayin Mycobacterium smegmatis.Wereport thatacetylationofKuincreaseswith growth,whileNHEJactivitydecreases,providingsupportforthe hypothesis thatacetylationofKumaybeinvolved intheDNAdamageresponseinbacteria.Kuhas multiplelysine sites. Ourresults indicate thatK29 isanimportantacetylation siteandthatdeficiencyof Sir2ormutationofK29 affects the quantityof Ku andits acetylation dynamics.Ourfindings expand knowledge ofacetylation targets in prokaryotes and indicate a new direction for further research on bacterial DNA repair mechanisms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:acetylation; DNA repair; non-homologous end joining pathway; Mycobacterium smegmatis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lysine acetylation,the transfer of an acetyl moiety to the epsilon-amino group of a lysine residue,is an important posttranslational modification (PTM) governed by the opposing actions of acetyltransferases and deacetylases.Lysine acetylomes are of a comparable size to phosphoproteomes,reports indicating that $5 \\mathrm { - } 1 0 \\%$ of mammalian and bacterial proteins undergo lysine acetylation (Kim and Yang 2O11). Lysine acetylation plays a major role in protein regulation,changing the biochemical characteristics of proteins such as their charge,structure and interactions with other macromolecules and is known to regulate many eukaryotic cellular processes,including the base excision, nucleotide excision and homologous recombination DNA repair pathways.We have only limited knowledge,however,about the function of lysine acetylation in prokaryotes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The non-homologous end joining (NHEJ) pathway plays an important role in the repair of double-stranded DNA breaks. This process is independent of DNA replication and can take place at any stage of the cell cycle.Ku,the DNA doublestranded break sensor protein in the NHE) pathway,is a sequence-independent DNA-binding protein.Ku homologues have been identified in eukaryotes and prokaryotes.Eukaryotic Ku proteins are heterodimers.The crystal structure of human Ku shows that Ku consists of three domains:an amino-terminal α/βdomain,acentral $\\beta$ -barrel domainandahelical C-terminal arm (Walker, Corpina and Goldberg 20o1).Prokaryotic Ku proteins are smaller than their eukaryotic counterparts,showing conservation only to the central domain of eukaryotic Ku,and are homodimers (Doherty, Jackson and Weller 20o1).Ku makes no contact with DNA bases,but forms a ring encircling DNA. Followingbinding to the broken DNA ends,the Ku-DNA complex then recruits enzymes to process the DNA ends,and ligases subsequently form a phosphodiester bond between the two DNA ends (Lieber 201O). Eukaryotic Ku proteins have been found to be post-translationallymodified byacetylation (Cohen et al.,2004),ubiquitination (Feng and Chen 2012),phosporylation (Chan et al.,1999) and sumoylation (Gocke,Yu and Kang 2005), but little is known about PTMs of its prokaryotic homologues. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Mycobacteria is a genus of Actinobacteria that include pathogens known to cause serious diseases such as tuberculosis (Mycobacterium tuberculosis) and leprosy (M.leprae).Ina previous study on M.smegmatis,a non-pathogenic model organism, we reported that the deacetylase Sir2 interacts directly with Ku (Li et al.,2011).This finding prompted us to investigate whether Kuis acetylated in M.smegmatis.Here,using immunoblotting, mass spectrometryand mutagenesis studies,we investigate the acetylation dynamics ofKuand itsrelationship with Sir2 and the NHEJ pathway. Our findings expand our knowledge of prokaryotic acetylation targets and indicate a new direction for further research on bacterial DNA repair mechanisms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media and growth conditions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mycobacterium smegmatis strains were cultured in LB medium supplemented with $0 . 5 \\%$ glycerol and $0 . 0 5 \\%$ Tween 80 (LBGT) at $3 7 ^ { \\circ } \\mathrm { C }$ Asrequired, $3 4 ~ \\mu \\mathrm { g } ~ \\mathrm { m l } ^ { - 1 }$ chloramphenicol (CM) or 30 $\\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ kanamycin (Sigma) were added to the cultures. Strains and plasmids used in this study are listed in Table S1(Supporting Information). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmid construction and site-directed mutagenesis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A $1 0 { * } \\mathrm { H i s }$ fragment was obtained by annealing two synthesized primers，261H-1 (AGCTTTCCACCACCATCACCACCATCACCACCATCACTAAG) and 261H-2(TCGACTTAGTGATGGTGGTGATGGTGGTGATGGTGGTGGAA),and then cloned into the Hind III-Sal I site of pMv261.The recombinant plasmid was named pMV261H. The Ku encoding gene from the M. smegmatis $\\mathrm { M C } ^ { 2 }$ 155 genome was then cloned into the EcoR I-Hind III site of pMV261H.Derivatives of pMV261H plasmids encoding Ku mutants (K29R,K29Q and K29A; Table S1, Supporting Information) were constructed by overlap PCR [primers used are listed in Table S2, (Supporting Information)].The integrity of all clones was confirmed by DNA sequencing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western blotting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cells were harvested and lysed by ultrasonication in PBS buffer containing $1 ~ \\mathrm { m g } ~ \\mathrm { m l } ^ { - 1 }$ lysozyme (Amresco).Whole cell lysates were thencentrifugedat ${ 1 6 0 0 0 } \\mathrm { g }$ for $3 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ Supernatants were collected and quantified using a BCA Protein Assay Kit (Pierce).Whole cell lysates or purified protein samples were electrophoresed on SDS-polyacrylamide gels and then transferred to nitrocellulose membranes (Millipore).Acetylated-lysine antibody (Cell Signaling #9441) was used to detect acetyl-lysine in proteins.Recombinant Ku was purified from Escherichia coli as previously described [Li et al.,2011;see the section ‘Methods' (Supporting Information)] and then used to immunize mice to obtain Ku antiserum.An anti-rabbit or mouse IgG polyclonal secondary antibody conjugated with horseradish peroxidase (Abcam) was then used to detect bound primary antibodies,and signals were visualized usinga SuperSignal West Pico Trial Kit (Pierce) and radiographic film (Kodak). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Depletion of Ku by immunoprecipitation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kuwas depleted from the total cell lysate bya combination of Ku antibody and Protein G Dynabeads (Invitrogen).Briefly, total cell lysates were incubated with Ku antibody and protein G overnightat $4 ^ { \\circ } \\mathrm { C }$ .The tube was then placed on a magnet to harvest the Dynabeads.The supernatant depleted of Ku was used in subsequent experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mass spectrometry ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "His-tagged Ku protein purified from stationary-phase cell lysates using Ni-NTA beads was examined by SDS-PAGE and the Ku protein band was cut out for in-gel tryptic digestion after Coomassie staining. Trypsin-digested peptide mixtures were analyzed on a $1 0 \\ \\mathrm { c m }$ long $1 0 0 \\ \\mu \\mathrm { { m } }$ ID C18 column (constructed in our lab) in an LTQ mass spectrometer (Thermo Electron,Bremen,Germany).MS data were searched against the M.smegmatis $\\mathrm { M C } ^ { 2 }$ 155 database (NCBI) with the aid of the Sequest search engine.Searches for acetylated peptides against the M.smegmatis protein database were performed by first allowing only singly charged fragments,and then by allowing both singly charged and multiply charged fragments.To collect positive hits,the following selection thresholds were applied: delta cn ${ \\geq } 0 . 0 8$ ，primary score $\\geq 5 0 0$ ,rsp $\\leq 5$ ,peptides scores $( \\mathrm { X C } ) > 1 . 8$ ,2.2 and 3.5 for ion charges at $+ 1$ $+ 2$ and $+ 3$ or higher,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unmarked gene replacements ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Construction of unmarked deletion/insertion M.smegmatis mutant strains was performed as described previously (Parish and Stoker 20oO). Unmarked mutant strains (listed in Table S1, Supporting Information) were verified by PCR analysis using primers corresponding to regions about $0 . 5 \\ \\mathrm { k b }$ upstream and downstream of the target gene,followed by TA cloning and DNA sequencing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results from NHEJ efficiency and fidelity experiments were subjected to analysis of variance (ANOvA).All data are expressed as the means $\\pm \\mathsf { S D }$ of four experiments.Statistical significance was determined using the Student's t-test.P values $< 0 . 0 5$ were considered statistically significant. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ku undergoes acetylation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As little is known about the characteristics of Ku expression in mycobacteria,we first raised a Ku protein polyclonal antibody to facilitate the examination of Ku expression in its native state (Fig.1A,lane 2).We then determined whether Ku is acetylated usinga commercial acetylationantibody which interacts specifically with proteins modified by acetylation on the epsilon-amine groups of lysine residues. A $. 5 5 \\mathrm { k D a }$ band corresponding to acetylated Ku was identified when lysates from the wild-type and a Ku-deficient strain were compared by immunoblotting with a wild-type lysate from which Ku protein was partially eliminated using the Ku antibody and protein G beads (Fig.1A,lower panel). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8825767ee65ab3e89680647af185b71cefbb3caf9c5b82f237b0e158a7ac4771.jpg",
+        "img_caption": [
+            "Figure 1.Ku is acetylated in M.smegmatis strain MC2155.(A) Acetylation of Kuas determined by western blotting. $3 0 ~ \\mu \\mathrm { g }$ total cell lysate was tested for the presence of Ku (upper panel; Ku: Ku antibody) or lysine acetylated proteins (lower panel; AcLys:acetylation antibody).Ku was partially depleted using a combination of a Ku antibody and protein G beads.Cell lysate from the Ku-deficient strain was used as a negative control. The $5 5 ~ \\mathrm { k D a }$ band in lane 4 of the lower panel is reduced relative to the WT band, confirming that this $5 5 ~ \\mathrm { { k D a } }$ band is Ku.The minor band with a molecular weight slightly lower than 55 kDa in the upper panel is a protein with no relation to Ku,and likely results from nonspecific interaction with the Ku polyclonal antibody.WT,M.smegmatis MC2 155. △Ku,Ku-deficient derivate of the WT. (B) Purification of acetylated Ku protein. Western blot of acetylated $\\mathtt { K u }$ obtained by two strategies: genomic expression (Genome) and overexpression with the mycobacterial plasmid pMV261-Ku (Plasmid). (C) Western blot of genomic His-tagged Ku purified from log-phase (Log) and stationary-phase (Sta) cells. Each experiment was repeated at least three timesand images presented are representative. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next used mass spectrometry to identify whether Ku has multiple acetylated lysine sites.Sufficient quantities of acetylated Ku were obtained by His-tag purification of Ku protein overexpressed usingpMV261,a mycobacterial overexpression plasmid.In addition,we used an independent strategy to obtain native Ku by modifying the genomic copy of the Ku gene to encode a C-terminal His-tag (Fig.1B) in order to confirm that the results obtained by Ku overexpression reflected Ku acetylation status under physiological conditions.Mass spectrometry showed that Ku protein obtained by overexpression in the M.smegmatis MC² 155/pMV261-Ku strain had an acetyl group on residues K29 and K40,while endogenous His-tagged Ku purified from stationary-phase cultures was acetylated on residues K16, K47,K72,K118 and K217 in addition to K29 and K40 (Fig. S1 and Table S3, Supporting Information).We conclude from these results that the K29 and K40 residues are acetylated under native conditions.Lack of acetylation at the other residues in plasmidexpressed Ku may be due to increasing the quantity of Ku without a corresponding increase in the rate of acetylation. By contrast,we did not detect acetylated residues on plasmid or genomic His-tagged Ku purified from log-phase cells using mass spectrometry,raising the possibility that Ku acetylation status may change with cell density. The acetylation ratio of Ku from log-phase cells was lower than that of Ku from stationary cells (Fig.1C) and may have beenlower than the threshold for detection by mass spectrometry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/00c913512acf7a42f0694c748b72458e5741eb50da716ef28a575a04c543dd12.jpg",
+        "img_caption": [
+            "Figure 2.Ku acetylation increases as the growth cycle proceeds. Samples of the M.smegmatis MC2 155 strain were collected at two starting points, $\\mathsf { O D 6 0 0 } = 0 . 5$ (Log)and $\\mathrm { O D } 6 0 0 = 4$ (Sta). CM was added at the starting point to mock blockage of protein synthesis. $3 0 ~ \\mu \\mathrm { g }$ total cell lysates were immunoblotted to detect the presence of $\\mathtt { K u }$ (Ku) and lysine acetylated $\\mathtt { K u }$ (AcKu). The experiment was repeated at least three times and images presented are representative. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ku acetylation changes during growth ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To examine whether Ku acetylation varies throughout the growth cycle,we selected two sampling points to analyze dynamic changes in the acetylation status of native $\\mathtt { K u }$ in the M. smegmatis $\\mathbf { M C } ^ { 2 }$ 155 strain over a period of $^ { 1 1 \\mathrm { ~ h ~ } }$ .The first observation period,beginning at $\\mathrm { O D } 6 0 0 = 0 . 5$ ,representeda growth stage between logarithmic and early stationary phase,while the second observation period,beginning at $\\mathsf { O D } 6 0 0 = 4$ ,represented the late stationary phase and bacterial density remained constant.In both cases, there were no major changes in Ku quantity over the 11 h observation period (Fig.2).Ku acetylation increased with time throughout the observation period beginningat $\\mathrm { O D } 6 0 0 = 0 . 5$ ,butremained constant during the observation period beginningat ${ \\mathrm { O D } } 6 0 0 = 4$ .These data thus suggest that acetylation of Ku increases throughout the logarithmic phase until the stationary phase is reached. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CM inhibits protein synthesis and blocks growth stages (Liang,Malhotra and Deutscher 2011) (Fig S2, Supporting Information).Here,we used CM to evaluate the effects of cell cycle interference on Ku quantity and itsacetylation.The above changes observed in $\\mathtt { K u }$ acetylation over time were eliminated when CM was applied at the logarithmic phase (Fig. $2 \\mathrm { L o g } + \\mathrm { C M } )$ ,further confirming the above conclusion that Ku acetylation increases with cell density. Ku quantity showed no major changes during the 11 h period after protein synthesis was inhibited,suggesting that Ku protein is stable and has a long half-life. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NHEJ efficiency decreases as growth proceeds ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next considered whether NHEJ activity shows changes in activity corresponding to the increase in Ku acetylation observed as bacterial growth progresses.The re-joining of doublestranded breaks produced by DNA endonuclease wasused to evaluate NHEJ activity at different points of growth.Circular DNAwasused to transfect the samebacteria and the number of colonies which grew after transfection with circular DNA were used to normalize for potential transfection differences between samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ad59c8b4d5728a189b68e84e641a020ce2d4d6fa6feaab26bc3139c68bf6376.jpg",
+        "img_caption": [
+            "Figureel lineaplasiditsmeiefafodd colonies per nanogram of circular DNA.NHEJ fidelity was defined as the ratio of kanR $\\scriptstyle { \\mathrm { l a c Z } } +$ colonies versus kanR colonies.All data are expressed as the means $\\pm \\ S \\mathrm { D }$ offour experiments.Insert in panel A: Ku acetylation increases with cell density. $3 0 ~ \\mu \\mathrm { g }$ total cellysates from samples of the M.smegmatis MC2155 strain collected at the cell densities shown were immunoblotted to detect the presence of Ku and AcKu. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.3,bacterial NHEJ activity was higher at a cell density of $\\mathrm { O D } 6 0 0 = 0 . 3$ than that at $\\mathrm { O D } 6 0 0 = 0 . 8$ ,1.6or 2, andchanges in Ku acetylation status reflected this pattern.The differences between the NHEJ activity of cells at $\\mathsf { O D } 6 0 0 = 0 . 3$ versus0.8 $\\mathrm { \\Delta } [ \\mathrm { t } = 5 . 7 6 2 2$ $\\mathsf { P } < 0 . 0 1$ and $\\mathrm { O D } 6 0 0 = 0 . 8$ versus 1.6 ( $t =$ 6.7399, $\\mathsf { P } < 0 . 0 0 1 _ { , } ^ { \\prime }$ were both statistically significant,but the difference between the NHEJ activity of cells at $\\mathrm { O D } 6 0 0 = 1 . 6$ versus 2 $( \\mathrm { t } = 1 . 6 5 4 6 , P > 0 . 0 5 )$ was not significant. There was no statistically significant difference in NHEJ fidelity between the four samples $( \\mathbb { P } > 0 . 0 5 ) \\$ .Theabove resultsindicate thatNHEJ activity,but not fidelity,decreases with cell growth and suggest that there is a link between Ku acetylation status and NHEJ activity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "K29 is an important acetylated site ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We next evaluated the importance of the Ku K29 and K40 acetylated sites since acetylation of these two lysine residues was detected in Ku proteins obtained by both plasmid and genomic expression (Fig.1B),as discussed above.Alignment of Ku sequences from different mycobacterial species (Fig.S3,SupportingInformation) indicated that K29 shows extremely high conservation,while K40 can take two forms,R orK.We therefore focused our attention on K29 and evaluated its contribution to the acetylation status of Ku using mutagenesis.We constructed three K29 mutants:substitution with A was used to determine the importance of K29 and substitution with R or Q to mock the non-acetylated and totally acetylated states of K29 in the Ku protein,respectively (Li et al.,2002).Two 4 h observation periods were chosen to analyze dynamic changes in Ku acetylation in the three Ku mutants.The first observation period,beginning at $\\mathrm { O D } 6 0 0 = 0 . 5$ ,represented the growth stage between logarithmic and early stationary phase,while the second observation period,beginningwhena stationary-phase culture was diluted to $\\mathrm { O D } 6 0 0 = 0 . 5$ ,represented stationary cells switching back to logarithmic growth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While the quantity of wild-type Ku did not change with time, Ku acetylation increased from the logarithmic starting point, consistent with data discussed above (Fig.2),but decreased at the second starting point,further confirming that Ku acetylation increases when cells move from logarithmic to stationary phase and decreases when cells revert to logarithmic growth (Fig.4, K29).Dynamic changes in Ku quantity and acetylation in the R29,Q29 and A29 mutants all differed from those in wild-type Ku,indicating that altering the acetylation status of the 29th residue,by replacingKwith QorR (to mock the fully acetylated and non-acetylated states,respectively),affects the acetylation state of other acetylated residues.While the quantity of Ku in the wild-type strain and the R29 and A29 mutant strains did not change significantly over time or with growth phase,Ku quantity in the Q29 mutant did vary over time and was drastically reduced in cells reverting to log phase (Fig.4,lanes 7-9),suggesting that total acetylation of K29 may affect the quantity of Ku. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1baf0f56fedbe8c3f0551d5e1ff52593273b91ee83742107accec4bc512985f4.jpg",
+        "img_caption": [
+            "Figure 4.Mutation of K29 alters the quantity and acetylation of Ku. $3 0 ~ \\mu \\mathrm { g }$ total cellysates were immunoblotted to detect the presence of Ku and AcKu during two 4h observation periods,sampled at2h intervals.The log to stationary-phase observation period $( \\mathrm { L o g } \\to \\mathsf { S t a } )$ beganat $\\mathrm { O D } 6 0 0 = 0 . 5$ ,while the stationary to logphase observation period (Sta→Log) began whena stationary-phase culture was diluted to $\\mathsf { O D 6 0 0 } = 0 . 5$ K29 (wild-type),WT/pMV261-Ku.R29,△Ku/pMV261-Ku K29R;Q29,△Ku/pMV261-Ku K29Q;A29,△Ku/pMV261-Ku K29A.Each experiment wasrepeated at least three times and images presented are representative. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Loss of PolDom does not affect the acetylation dynamics of Ku ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We next considered whether the acetylation/deacetylation of Kuisaffected by othercomponentsof the NHEJpathway.LigD and Ku together constitute a minimal NHEJ system (Weller et al.,20o2).LigD has three functional domains and Ku interacts with the LigD POL domain (PolDom) (Pitcher et al.,2005). PolDom is essential for Ku-dependent NHEJ (Aniukwu,Glickman and Shuman 2008).To evaluate the effect of NHE pathway ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0 1 3 5 7911h -Ku -AcKu interruption onKuacetylation dynamics,we made anunmarked PolDom-deficient strain (Table S1, Supporting Information). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The quantity of Ku showed no obvious change in the PolDomdeficient strain during the period of measurement (Fig.5),and there was an increase in the acetylation of Kuas in earlier experiments (Fig.2),indicating that interruption of the NHEJ pathway had no effect on Ku quantity or its acetylation dynamics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ku expression and acetylation dynamics are affected by Sir2 deficiency ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The deacetylase activity of the Sir2 protein in mycobacteria has been experimentally verified (Gu et al.,20o9),and we have previously reported that Sir2 interacts with Ku (Li et al., 2011). Here,we designed in vivo bacterial experiments to determine whether Sir2 deficiency has an effect on Ku acetylation dynamics.We knocked out MSMEG_4620 and MSMEG_5175,the two M. smegmatis homologues of the M. tuberculosis H37Rv Sir2 protein (Rv1151c),to produce a Sir2-deficient strain.The dynamics of genomic Ku quantity were very differentin the Sir2-deficient strain from that in the Sir2 wild-type strain (Fig.4,lanes 1-3 and Fig. 6, upper panel).Ku was detected in the stationary phase and had no acetylation (Fig.6,upper panel,lane 4),but was not detected in logarithmic-phase cells (Fig. 6,upper panel, lanes 1-3) or in stationary cells switching back to logarithmic phase (Fig.6,upper panel,lanes 5-6). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since Ku was not detected in the Sir2 wild-type strain expressing the Ku K29Q mutant (Fig.4,Q29 lower panel, lanes 8-9),we wondered whether the acetylation status of K29 might alter the quantity of Ku.When the non-acetylated mock R29 and the totally acetylated mock Q29 mutants of Ku protein were expressed in △Sir2,no Ku R29 was detected at $^ { 0 \\mathrm { ~ h ~ } }$ in the ‘Log to Sta'period while Ku Q29 was detected (Fig.6,lane 1). This observation suggests that non-acetylation of K29 may result in its absence at O h in log cells in the Sir2-deficient strain.Both Ku R29 and Q29 were detected at the five other sampling points (Fig. 6, lanes 2-6),suggesting that the quantity of Ku at these five points has no direct relation to the acetylation status of K29.The Ku R29 mutant protein had no detectable acetylation in the Sir2- deficient strain (Fig. 6,middle panel),while the Ku R29 protein was acetylated in the Sir2 wild-type strain (Fig.4,lanes 4-6).We concluded that deficiency of Sir2 decreases the acetylation of Ku R29.This is the opposite to what would be expected if Sir2 deacetylates Ku directly,and suggests that Sir2 playsan indirect role in the acetylation status of Ku,possibly by regulating the activity of the enzymewhichacetylatesKu. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary,we have shown here that Ku protein is acetylatedinM.smegmatisand thatitsacetylation increases throughout the growth cycle.Deacetylase Sir2 plays an indirect role in thedynamics of Ku acetylation.Lysine acetylation is known to regulate many eukaryotic cellular processes,but research on its function in prokaryotes is still in its infancy.Acetylation in bacteria may be involved in coordinating processes such as carbon source utilization,metabolic flux and energy metabolism.This is the first time that acetylation of a bacterial DNA repair protein has been demonstrated and this work thus expands our knowledge ofacetylation targets and indicates a new direction for further research on bacterial DNA repair mechanisms. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/89978f5706ad0c8c96a377dacbe2839d9fdd72d56052df01a38b1bc77a3693a8.jpg",
+        "img_caption": [
+            "Figure 5.Acetylation dynamics of Ku ina LigD PolDom-deficient strain.Samples of the LigD PolDom-deficient strain were collected at2h intervals from a starting point of $\\begin{array} { r } { \\mathrm { O D } 6 0 0 = 0 . 5 . } \\end{array}$ （2 $3 0 ~ \\mu \\mathrm { g }$ total cell lysates of the LigD PolDom-deficient strain were tested for the presence of $\\mathtt { K u }$ (immunoblotting with Ku antibody) and acetylated $\\mathtt { K u }$ (immunoblotting with acetylation antibody).The experiment was repeated at least three times and images presented are representative. ",
+            "Figure 6.Acetylation dynamics of Ku mutants in a Sir2-deficient background. $3 0 ~ \\mu \\mathrm { g }$ total cell lysates were immunoblotted to detect the presence of Ku (Ku: Ku antibody) and AcKu (AcLys:acetylation antibody) during two 4h observation periods,sampled at2h intervals.The log to stationary-phase observation period （20 $( \\mathrm { L o g } \\to \\mathsf { S t a } )$ began at $\\mathrm { O D } 6 0 0 = 0 . 5$ ,while the stationary to log-phase observation period (Sta→Log) began when a stationary-phase culture was diluted to OD600 $= 0 . 5$ .Each experiment was repeatedat least three times and images presented arerepresentative. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTARYDATA ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data is available at FEMSLE online. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank Zhensheng Xie and Xiang Ding for their help with mass spectrometry experiments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FUNDING ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the China Postdoctoral Science Foundation (Grant no: 20090460546) and the Chinese Academy of Sciences (Grant no: XDA09030308 and KJZD-EW-L02). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest Statement.None declared. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aniukwu J,Glickman MS,Shuman S.The pathways and outcomes of mycobacterialNHEJ depend on the structure of the broken DNA ends.Genes Dev 2008;22:512-27. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chan DW,YeR, Veillette CJ,etal.DNA-dependent protein kinase phosphorylation sites in Ku 70/80 heterodimer.Biochemistry 1999;38:1819-28.   \nCohen HY,Lavu S,Bitterman KJ,et al.Acetylation of the C terminus of Ku70 by CBP and PCAF controls Bax-mediated apoptosis.Mol Cell 2004;13:627-38.   \nDoherty AJ,Jackson SP,Weller GR.Identification of bacterial homologues of the Ku DNA repair proteins.FEBS Lett 2001;500:186-8.   \nFeng L,Chen J.The E3 ligase RNF8 regulates KU80 removal and NHEJ repair.Nat Struct Mol Biol 2012;19:201-6.   \nGocke CB,Yu H, Kang J. Systematic identification and analysis ofmammalian smallubiquitin-likemodifiersubstrates.JBiol Chem 2005;280:5004-12.   \nGuJ,Deng JY,Li R,et al. Cloning and characterization ofNADdependent protein deacetylase (Rv1151c) fromMycobacterium tuberculosis. Biochemistry (Moscow) 2009;74:743-8.   \nKim GW,Yang XJ. Comprehensive lysine acetylomes emerging from bacteria to humans.Trends Biochem Sci 2011;36:211-20.   \nLi M,Luo J,Brooks CL,et al.Acetylation of p53 inhibits its ubiquitination by Mdm2.J Biol Chem 2002;277:50607-11.   \nLi Z,Wen J,Lin Y,et al.A Sir2-like protein participates in mycobacterial NHEJ.PLoS One 2011;6:e20045.   \nLiangW,Malhotra A,Deutscher MP.Acetylation regulates the stability of a bacterial protein: growth stage-dependent modification of RNase R.Mol Cell 2011;44:160-6.   \nLieber MR.The mechanism of double-strand DNA break repair by the nonhomologous DNA end-joining pathway. Annu Reu Biochem 2010;79:181-211.   \nParish T, Stoker NG.Use of a flexible cassette method to generate a double unmarked Mycobacterium tuberculosis tlyA plcABC mutant by gene replacement.Microbiology 2000;146: 1969-75.   \nPitcher RS,Tonkin LM,Green AJ,et al.Domain structure of a NHEJ DNArepair ligase from Mycobacterium tuberculosis.JMol Biol 2005;351:531-44.   \nWalker JR,Corpina RA,Goldberg J.Structure of the Ku heterodimer bound to DNA and its implications for doublestrand break repair. Nature 2001;412:607-14.   \nWeller GR，Kysela B,Roy R,et al.Identification of a DNA nonhomologous end-joining complex in bacteria.Science 2002;297:1686-9. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

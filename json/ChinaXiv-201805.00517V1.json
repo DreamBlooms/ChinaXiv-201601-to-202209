@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201704270777 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "解梦，于晶,郭水良.植物核DNA 含量在全球尺度上的纬度变异式样及其气候适应意义——以菊科植物为例.生态学报,2018,38（10)：3453-3461.XieM,uoftoledlastudy with Asteraceae.Acta Ecologica Sinica,2018,38(10) :3453-3461.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物核DNA含量在全球尺度上的纬度变异式样及其气候适应意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以菊科植物为例解梦,于 晶，郭水良\\*上海师范大学生命与环境科学学院，上海200234",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：核 DNA 含量是重要的生物学概念,涉及DNAC-值和基因组大小。前人有关植物核 DNA 含量在纬度梯度上的变异规律存在着矛盾的报道,而且多数将核 DNA 含量与纬度、海拔、气候等因素之间的关系描述成线性关系。核 DNA 含量是否具有环境适应上的意义,也还存在争议。先前有关核 DNA 含量与环境因素间关系的矛盾性报道可能与取样过小、地理范围过窄、研究对象遗传背景差异过大有关。如果对一个遗传背景相近的类群在全球范围内进行取样,核 DNA 含量会呈现有规律的纬度梯度变化,可能与大的气候因素之间存在非线性关系。菊科（Asteraceae)是被子植物的最大科，是一个广泛认可的自然分类群。为揭示全球空间尺度上植物核 DNA 含量在纬度梯度上的变异规律,以及这种变异是否具有环境适应意义,以菊科为对象开展了核 DNA 含量与纬度、生物气候因素关系的统计分析。从“植物 DNAC-值数据库\"检索到 822种菊科植物的核 DNA 含量数据；在全球范围内,沿经度方向上设立10条样带,每条样带横跨15个经度,每条样带又均分成22个样块,每个样块纵跨7.5个纬度;其次,从“世界气候数据网站”下载1950—2000年时间段14个生物气候因子数据,应用ArcGIS9.3获得每个样块14个生物气候因子的平均值;根据\"全球生物多样性信息网站\"记录,计算每个样块菊科植物平均的核 DNA 含量数据。为避免气候变量之间的多重共线性对数据分析的影响,应用主成分分析对数据进行了降维,发现最冷季度平均温度、最干季度雨量分别是第一、二主成分上荷载最大的因子,去除与它们相关性在-0.7至 $+ 0 . 7$ 之间的其他气候因子后获得了最冷季度平均温度、最干季度雨量和最湿月份雨量三个变量用于进一步数据分析。结果发现,菊科植物在全球10个样带上的核DNA 含量与纬度关系密切,与最冷季度平均温度、最干季度雨量和最湿月份雨量呈现极显著的单峰型的非线性关系,可以用二项式进行拟合。因此,全球空间尺度上植物核DNA 含量沿着纬度梯度有规律性的非线性变化,这种变化具有很强的气候适应意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：菊科;核DNA含量；DNAC-值;基因组大小;非线性关系;纬度;生物气候因子 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Latitudinal variation patterns of plant nuclear DNA amount on a global scale and their environmental adaptation significance : a case study with Asteraceae ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XIE Meng， YU Jing， GUO Shuiliang Collge of Life and Environmental Sciences，Shanghai Normal University，Shanghai 2Oo234，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Nuclear DNA amount is an important biological concept that includes DNA C-value and genome size.There are conflicting reportsabout latitudinal variation paternsof plant nuclear DNAamount.Relationshipsof plant nuclear DNA amount with ltitude，altitude,andclimatic variableshave beenreportedas linear.Disputes also exist as to whether nuclear DNA amount of plants isof environmental adaptation significance.We speculatedthat the conflicting reports were due to insuficientsamplingof thetaxa，limitationsinthegeographicalrange，anddiferentgeneticbackgroundsof thesamples. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asteraceaeisnotonlythelargestfamilywithinangiosperms，butalsoawidelyaccepted natural taxa.Toclarify the latitudinal variation paternsofplant nuclearDNAamountonaglobal scale，andtoexplore theposibleclimaticadaptation significaceof these paterns，weconductedastudywith Asteraceae toanalyze therelationships of nuclear DNA amount withlatitudeand bioclimatic variables.First，weobtainedthedataof nuclearDNAamountsof 822 speciesof Asteraceae fromthe Plant DNA C-value database.We selected ten global longitudinal transects，each with aspanof 15 longitudinal degrees，and evenly divided each transect(from $8 2 . 5 ^ { \\circ } \\mathrm { N }$ to $8 2 . 5 ^ { \\circ } \\mathrm { S }$ ）into 22 blocks.We obtained geographical records of the 822 species from theGlobal Biodiversity InformationFacultytogether with fourteenbioclimatic factors withintheseblocks from the Worldclim Global Climate Database.We calculated theaverage DNA1C-values and genome sizes of each species in each block.Toavoid multicolinearityamong the fourteen climaticvariables，weperformed principal component analysis (PCA）to reducethe dimensionalityof the variables.We found thatthe mean temperature ofthecoldest quarterand the precipitationofthedriestquarterhadthe highestloads inthefirsttwoprincipalcomponents.Theclimatic variables withlow correlation coefficients ( $- 0 . 7$ to O.7）with the above two variables were included in the analyses.We found that the nuclear DNA amountsof Asteraceae had aregularlatitudinalvariation thatcould beexpresedbypolynomial functions.The relationships of nuclear DNA amount with themean temperatureof thecoldest quarter，theprecipitation of the driest quarter，andthe wetest month were typicallynonlinear with a unimodal patern，and couldbe expressed by binominal equations.Therefore，on the global scale，plant nuclear DNAamount changes regularlyon latitudinal gradients，which has distinct climatic adaptation significance. s ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Asteraceae；nuclear DNAamount;DNA C-value;genome size;nonlinear relationship; latitude；bioclimatic variable ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA C-值指的是一个物种配子核中没有复制时的DNA 含量,一个物种的单个染色体组的 DNA 含量称为基因组大小[1]。一个物种的基因组大小等于其 DNA C-值除于其倍性水平。传统的观点认为,DNA C-值（或基因组大小)具有物种的特异性,对于物种来讲是高度恒定的,C代表恒定的意思[2]。随着工作的深入，植物核 DNA 含量不仅在种间存在着巨大的差异,而且亲缘关系近的种类间也存在着巨大的差异[3],并且呈现出分类学、生物地理学、生态适应上的意义[4]。Bennet 等发现,一些重要的世界性杂草的基因组要比其它植物的小,恶性杂草的基因组要比一般性杂草的小[3];郭水良等对中国境内被子植物 DNAC-值的统计和测定发现,具有入侵性的植物的DNAC-值往往小于亲缘关系相近的非入侵性植物[5-6]。比利时菊科的Centaurea 属植物 DNAC-值与海拔高度存在正相关关系;部分分类群中,植物核 DNA含量随着纬度、经度、海拔,以及气温雨量差异呈现有规律的变化,这可能是DNA 对气候条件适应的结果[7]。核DNA 含量种间差异,被认为是生态位分化的重要原因。例如与鸟类相比,两栖类不同物种间的C值相差更大,这与两栖类动物生活环境具有极大多变化性有关。同样,高等植物分类群间极大的核 DNA 含量差异,也和高等植物生境高度多样化有关",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是,关于核 DNA 含量与地理和气候因素关系的结论并不一致。早期研究表明核 DNA 含量与纬度呈正相关[9];但是Grime 和 Mowforth 发现英国植物区系中169 种植物的 DNAC-值和纬度之间存在负相关[10];Razafinarivo 等发现,咖啡树的DNA C-值在马达加斯加由北向东南、在非洲大陆由东向西均呈增加趋势[1];Botini 发现,小檗属植物（Berberis)二倍物种中,核 DNA 含量小的类群倾向于分布在降雨大、但是水分可利用性低的高海拔地区,而核DNA 含量高的类群则倾向于分布在营养生长期较长、水份可利用性高的中海拔森林区域[12]。也有其他的一些研究发现核 DNA 含量与环境之间没有什么相关性[13-14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在大多数早期文献中,核 DNA 含量与纬度(或海拔)的关系被描述成线性关系。但是,Knight和 Ackerly通过分位数回归分析发现,加州植物区系中,DNA2C-值大的物种在7月极端高温过高或过低地区的分布频度均下降,因此,他们推测核 DNA 含量与环境因素之间可能存在着非线性关系[15]。李丹丹等发现,中国热带到温带广大区域内稗草(Echinochloa crus-galli)种群的核 DNA 含量与经度、纬度和10 个生物因素均存在明显的非线性关系,大多数情况下均能够用单峰函数进行拟合[16]。Rayburn 和 Auger 发现具有最高核 DNA 含量的玉米种群倾向分布于中海拔的环境中,随着向高或低海拔变化,玉米的核 DNA 含量呈现下降趋势[17]。取样范围过窄,会影响到人们对核 DNA 含量与纬度、气候因素关系的正确认识[16]。但是,核 DNA 含量与环境因素之间的这种非线性关系是否普通？全球范围内、在更广的分类群中核DNA含量与地理和气候因素之间的关系如何，有待进一步研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合先前有关核DNA含量与环境因子之间关系的报道发现,早期的工作多数仅涉及个别分类群,或取样范围过窄,这可能会影响人们对核 DNA含量与环境因子关系的正确认识。菊科是世界性分布的被子植物最大科,该科植物有不少种类已经有核DNA数据和比较详细的地理分布。本文的目的是,以菊科植物为材料，通过核 DNA 含量在全球范围内变化式样分析,了解大的空间尺度上植物核 DNA 含量是否存在有规律的非线性的地理梯度变化，以及这种变化是否具有环境适应意义。 CI>y",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)核DNA含量的数据来源",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "菊科核 DNA 含量数据来自于被子植物 DNAC-值数据库[18]。基因组大小是 DNA 2C-值除于倍性水平[3]。在菊科植物中有 822 种检索到了DNA1C-值数据,有 400 种已有倍性信息,计算到得了基因组大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2)为定量分析经纬度及气候因素对菊科植物核DNA 含量的影响,在经度方向上分成10条样带,每条样带横跨15度,分别为样带1至10分别为90°—75°W、75°—60°W、60°— $4 5 ^ { \\circ } \\mathbb { W }$ ） $0 ^ { \\circ }$ 一 $1 5 ^ { \\circ } .$ E、 $1 5 ^ { \\circ }$ —30°E、30°$4 5 ^ { \\circ } \\mathrm { ~ E ~ } , 7 5 ^ { \\circ } - 9 0 ^ { \\circ } \\mathrm { E ~ } , 9 0 ^ { \\circ } - 1 0 5 ^ { \\circ } \\mathrm { E ~ } , 1 0 5 ^ { \\circ } - 1 2 0 ^ { \\circ } \\mathrm { E }$ 和 $1 2 0 ^ { \\circ } - 1 3 5 ^ { \\circ } \\mathrm { E }$ ;其中，第1、2、3 样带南北方向上涵盖了北美和南美洲,第4、5、6样带涵盖了欧洲和非洲,第 $^ { 7 , 8 , 9 }$ 和10 样带涵盖亚洲和大洋洲。对每条样带,再从 $8 2 . 5 ^ { \\circ } \\mathrm { N }$ 到 $8 2 . 5 ^ { \\circ } \\mathrm { S }$ 的范围内均分成22个样块,每样块在纬度梯度上的区间为7.5度（图1）。10条样带共分成面积一致的 220 个样块。 1",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)物种地理分布数据来源822 种菊科植物在上述220个样块中有无分布的数据来自于全球生物多样性信息网站（www.gbif.org）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)生物气候数据来源",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 个样带中,第5样带数据量丰富,随着纬度菊科植物的DNAC-值呈现有规律的变化。以第五样带为对象,进一步分析气候因素对核DNA含量的影响。首先从世界气候数据网站下载1950—2000年时间段的14个气象数据（htp://www.worldclim.org,表1）,数据的空间分辨率为30 arc-seconds,即每一栅格大致相当于0.$8 6 ~ \\mathrm { k m } ^ { 2 }$ ,再应用ArcGIS9.3获得以上气候数据在第5样带每样块中的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a923ed4812f0d121dd2ab595c88c9cf380f900704c856ceaed4754fc79e557b.jpg",
+        "table_caption": [
+            "表114个气候因子",
+            "Table1Fourteen bioclimatic variables"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">序号 因子名及描述 Number Variables and their description</td><td>序号 因子名及描述 Number</td><td>Variables and their description</td></tr><tr><td rowspan=\"5\">C1 C2 C3</td><td>年平均温 Annual mean temperature/C</td><td>C8</td><td>年平均雨量 Annual precipitation/mm</td></tr><tr><td>最热月份最高温 Max temp.of warmest month/C</td><td>C9</td><td>最湿月份雨量 Precipitation of wettst month/mm</td></tr><tr><td>最冷月份最低温 Min temperature of coldest month/℃</td><td>C10</td><td>最干月份雨量 Precipitation of driest month/mm</td></tr><tr><td>最湿季度平均温度 Mean temp.of wettest quarter/C</td><td>C11</td><td>最湿季度雨量 Precipitation of wettst quarter/mm</td></tr><tr><td>最干季度平均温度 Mean temp.of driest quarter/C</td><td>C12</td><td>最干季度雨量 Precipitation of driest quarter/mm</td></tr><tr><td>C5 C6</td><td>最暖季度平均温度 Mean temp.of warmest quarter/C</td><td>C13</td><td>最暖季度平均雨量 Precipitation of warmest quarter/mm</td></tr><tr><td>C7</td><td>最冷季度平均温度 Mean temp.of coldest quarter/C</td><td>C14</td><td>最冷季度平均雨量 Precipitation of coldest quarter/mm</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "123 45 6 789 10 75W 60° 45° 30° 15° 0° 15° 30° 45° 60° 75° 90° 105° 120° 135E 82°30N 专 美 _- T 中 1 75°00' 美 - H R 67°30' 少 电 ！ ： A 5 60°00' 52°30' 灯 会 萧 45°00' 飞 山 7 5 过 2 A 1 1 8 汽 37°30' 3 飞 江 30°00' 7 Y 厂 式 K 1 2 4 、 1500 2 Y 1 4 人 4 W ， M 7°30' 2 15°00' Y 厂 50 P A 22°30' Y 中 2 。 产 C 广 B 1 A W 山 中 ? 30°00' B 阿 L C 了 37°30' 国 盛 3 45°00' 2 ： 52°30' 4 60°00' 67°30' X $7 5 ^ { \\circ } 0 0 ^ { \\prime }$ （20 82°30' $9 0 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { S }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先获得每一个样块中出现的有核 DNA含量数据的菊科植物种类,对出现5种以上植物的样块进行统计分析,计算每个样块菊科植物平均的DNA1C-值、基因组大小及其标准误。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以第5样带上每个样块平均的生物气候因子值为自变量 $( x )$ ,以 DNAC-值为因变量 $( y )$ ,应用EXCEL作散点图,发现DNAC-值和纬度,以及和大多数气候因子呈现非线性关系。进一步计算14个气候因子之间的Pearson 相关系数,发现部分气候因子之间有很高的相关性,暗示它们之间存在多重共线性（Multicollinearity）问题。由于气候因子与DNAC-值之间是非线性关系,所以没有采用常规的多元逐步线性回归来筛选变量。为避免气候因子之间的多重共线性对数据分析的影响,首先应用主成分分析对数据进行降维,筛选出前几个主成分上载荷量最高的气候因子,再以它们为对象,删除与它们Person相关系数高的气候因子,保留与它们相关系数在-0.7至0.7之间的气候因子。应用XLSTAT软件拟合DNAC-值与筛选出的气候因子之间的关系,应用拟合效果最好的函数来反映气候因子与DNAC-值之间的关系。为反映气候因子对DNAC-值影响的程度,拟合前各气候因子采用了极差标准化,使它们的变化范围均处于0一1之间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1菊科植物核 DNA 含量的变异范围",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "822 种菊科植物最大的 DNA1C 值为 $2 6 . 1 5 ~ \\mathrm { { \\ p g } }$ （Sececio pendulus）,最小的为 $0 . 4 0 \\mathrm { \\ p g }$ ( Leontodonlongirostris）,平均为 $4 . 1 1 ~ \\mathrm { p g }$ ;基因组最大的为 $8 . 5 ~ \\mathrm { p g }$ ,最小的为 $0 . 1 9 \\ \\mathrm { p g }$ ，平均为 $2 . 2 3 ~ \\mathrm { p g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2菊科核DNA含量在全球10个样带上的变异趋势",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "菊科植物在10个样带上的核 DNA含量变化分别见图2。图2显示在赤道及附近样块中菊科植物核DNA 含量有变小趋势。随着向南、向北纬度的增高,核 DNA 含量上升。除了第1条带上的基因组数据外,其余样带上DNA1C-值和基因组大小与纬度关系均能够用多项式拟合,达到显著或极显著关系。在第一样带上,DNA1C-值与纬度也符合两次函数关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2的第1、2、5三个样带的少数样块,有基因组大小值高于 DNA C-值的情况,这可能是样本来源不同造成。即统计的DNAC-值的种类中,仅有部分有染色体倍性数据,恰好这部分多数是二倍体,而且DNAC-值又比较大（基因组也大,因为对于二倍体植物来讲,它们的基因组大小与 DNA C-值数据是一致的）。 2",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNAC-values ---- yi: DNA C-values Genome size 4.5 样带1 BdPetee teg 3.5 4.0 y=0.024x²- 0.373x+3.221 3.0 R²=0.801 n=10 2.5 2.0 1.5 1.0 35/5)1.5555 115/11355555 131/5515..1 333/54551551 27537151115.55 111/11111585 111/7151551 333//1511.1 353/55)55511 111/1-11111） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNAC-Values -- yi: DNA C-values Genome size y2:Genome size y1=-3×10-7x4+7×10-6x+0.001x² -0.008x+1.409 R²=0.855 n=11 3028262420186420 样带2 y2=-3×10-7x4+7×10-6x³+0.000x² -0.013x+1.391R²=0.892 n=11 431/411111.81 114/5/-5115-4 333.1500 23)2.55.75 111/11)1115.11 11/11111.11 38/11)11111 33)3.550 111/855.1） 171/5175.81 233553555.71 355775355531 44/555 113/1515111) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a2d8e39615e465db38f617381a7abc8063f4e631b8af917feb174be675c8f88.jpg",
+        "img_caption": [
+            "纬度(C-值种数/基因组大小种数) Latitude(C-value number/genome size number) ",
+            "纬度(种数)Latitude（C-value number）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c54a2771a22b23df9c57de5f581efcad59d009e69e4d5eca35a5d7adc38ff00.jpg",
+        "img_caption": [
+            "纬度(C-值种数/基因组大小种数)",
+            "Latitude(C-value number/genome size number) ",
+            "纬度(C-值种数/基因组大小种数) Latitude(C-value number/genome size number) ",
+            "纬度(C-值种数/基因组大小种数) Latitude(C-value number/genome size number) ",
+            "纬度(C-值种数/基因组大小种数) Latitude (Number of DNA C-values/number of genome size) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNA C-Values ---yi:DNA C-values Genome size 5.0 样带5 y1=-0.0009x4+0.0315x- 0.3445x² Bd/Jaatr ten 4.5 + 1.1971x+ 2.132 4.0 R²=0.6856 n=14 P<0.001 3.5 3.0 2.5 2.0 (L/)L 335/55555.99 335/315171.55 111/7111155 115/71)11.55 331/71311511 25/7155555 (1)1.1181 10/9)1 (//01)1.111 ODsZT (9/01)551'81 283544555.55 355355555531 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNAC-Values --yi:DNAC-values Genome size 5.0 BdVN 44035302201510 样带6 =00 IE (8/6)111'84) 13/14-111 3/355551.31 283/11111.750 (0)1.1181 111//1511115 354/711111.1 313/7155551 (1/75)111111 (1/9)5.5585 26/5515555.75 35/5555511 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNA C-Values .... yI: DNA C-values DNA C-Values .… y1: DNA C-values Genome size y2:Genome size Genome size y2: Genome size 40 样带7 =0.01²=0.462 3 样带8 y1==015x²20+1 Bd/Jetr teg 3.5 y=-0.0002x²+ 0.061x +0.509 223229 y =0.003x²+ 0.417x +0.822   \n善N 3.0 R²=0.999 n=5 P<0.001 善VN R²=1 n=3 P<0.001 2.5 2.0 1.5 1.0 0.5 1.7 0 1.5 451/1111151 114//1111111 335731111.11 223/751255555 (0/9) NoSL'81 33325) 351511 225/452555.55 (01/) 10181) 纬度(C值种数/基因组大小种数) 纬度(C值种数/基因组大小种数) Latitude (C-value number/genome size number) Latitude(C-value number/genome size number) ]DNA C-Values yi:DNAC-values Genome size y2:Genome size yi = 0.001x²- 0.004x +1.139 353025 样带9 样带10 R-00270   \nB/ =00052+059x 2.0 2.0 十 1.5 1 0.5 1.0 0 335)3.111 22412.5.74 1711.11.81 （1)1.1.15 （9)11% (1s.555 (8)S.S1'81 223555.55 3713521 443/11.11.1 331/441111.11） 225/551515.75 11)1.1180 [1)1.77.I0 (0)N.51'% 3)5.510 12/155550 (/11)5.5181 23/55)555575 353/5)1.5511) 纬度(种数) 纬度(C值种数/基因组大小种数) Latitude (C-values number) Latitude (C-value number/genome size number) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3气候因素对第5样带菊科DNA1C-值的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对样带5上14个样块对应的14个气候因子进行主成分分析。结果第1、2主成分的方差分别占总方差的 $5 8 . 9 \\%$ 和 $2 8 . 6 \\%$ ，累计达 $8 5 . 5 \\%$ 。因此选择前二个主成分作进一步分析。14个气候因子在前二个主成分上的载荷(表2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb4ce2fcdc5042a42dfff60dc41d34d97d454f22b9ebfa5ba9a24c36cc0e1c50.jpg",
+        "table_caption": [
+            "表2第5样带上14个生物气候因子在前两个主成分上的信息负荷量",
+            "Table 2 Loads of 14 bioclimatic factors in the first two components of PCA "
+        ],
+        "table_footnote": [
+            "气候因子1—14与表1中的相同"
+        ],
+        "table_body": "<html><body><table><tr><td>主成分</td><td colspan=\"16\">气候因子 Climatic factors</td></tr><tr><td>Component</td><td>1</td><td>2</td><td>3 4</td><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12 13</td><td></td><td>14</td></tr><tr><td>1</td><td>0.97</td><td>0.84</td><td>0.98</td><td>0.88</td><td>0.91</td><td>0.86</td><td>0.99</td><td>0.53</td><td>0.70</td><td>-0.42</td><td>0.69</td><td>-0.25</td><td>0.26</td><td>0.13</td></tr><tr><td>2</td><td>-0.20</td><td>-0.46</td><td>0.02</td><td>0.05</td><td>-0.21</td><td>-0.41</td><td>-0.07</td><td>0.83</td><td>0.59</td><td>0.85</td><td>0.62</td><td>0.91</td><td>0.88</td><td>0.66</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一主成分主要反映了温度因子(C1—7)信息,其中最冷季度平均温度(Mean temp.of coldest quarter,7)具有最大的载荷。第二主成分主要反映了雨量因子(C8—C14)信息,其中最干季节雨量(C12)具有最大的载荷。首先选择这两个因子,再选择其他因子,使参与拟合的因子间的相关系数处于-0.7至 $+ 0 . 7$ 之间。最后筛选出了最冷季度平均温度(C7）、最湿月份雨量(C9)和最干季度雨量(C12)3个气候因子,进一步分析它们对菊科植物 DNAC-值的影响。通过拟合发现,二项式比线性关系能够更好地描述这3个气候因子与DNAC-值间的关系(图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b91b7a811d94270902f097f0cd7e1688071f529deecae29614f732f219d1e2d.jpg",
+        "img_caption": [
+            "图33个生物气候因子对第5样带上菊科植物DNA1C值的影响",
+            "Fig.3Influences of three climatic factors on DNA 1C-values of Asteraceae on Section 5 ",
+            "图43个生物气候因子对第5样带上菊科植物DNA1C值影响大小的比较Fig.4Comparison of influences of three climatic factors on DNA1C-values of Asteraceae on Section 5"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为比较三个气候因子对核 DNA C-值影响的大小,进一步拟合 DNA1C-值与三个气候因子间的非线性关系,得到如下函数： 1",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（20号 $2 . 3 1 2 7 + 0 . 5 6 9 1 \\times x _ { 1 } + \\left( 1 . 6 7 6 8 \\times x _ { 2 } + 1 . 4 8 9 3 \\times x _ { 3 } - 1 . 2 5 4 1 \\times x _ { 1 } ^ { 2 } - 1 . 6 4 8 5 \\times x _ { 2 } ^ { 2 } - 0 . 9 9 3 4 \\times x _ { 3 } ^ { 2 } \\right)$ 式中： $y$ 为 DNA 1C-值, $x _ { 1 } , x _ { 2 }$ 和 $x _ { 3 }$ 分别为最冷季度平均温度、最湿月份雨量和最干季度雨量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最冷季度平均温度、最湿月份雨量和最干季度雨量均显著地影响到菊科核DNAC值的大小（图3）。图4在同一量纲上比较了第五样带上3个气候因子变化对菊科DNAC-值变化的影响。计算图4中对应于3个气候因子变化形成的DNAC-值差异，发现变化的影响程度也不同(图4)，按3条曲线对应数值的极差和标准差，最冷季度平均温度( $\\mathrm { R a } = 0 . 7 5$ ， $\\mathrm { S d } = 0 . 2 4 \\$ )对DNAC-值的影响最大，其次是最干季节的雨量( $\\mathrm { R a } = 0 . 4 9 , \\mathrm { S d } =$ 0.15），最湿月份雨量( $\\mathrm { R a } = 0 . 4 0 , \\mathrm { S d } = 0 . 1 3 \\$ 的影响相对较小。就气候因素来讲,那些气候条件适中的样块分布的菊科植物往往具有高的DNA1C-值最高，随着气候条件向两个极端变化，菊科植物DNA1C-值呈现出有规律的下降趋势，统计上绝大多数达到了极显著的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从以上结果可以发现，在全球尺度上，植物核DNA",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "0.60 B -0.20 4000° -0.40 -Mean temp.of coldest quarter . Precipitation of wettest month -0.60 ：-Precipitation of driest quarter -0.80 0 5 3 33 000 4 50 5 090 6 7 8 8 9 9 00° 0 0 0 气候因子相对值 Climatic factor relative value ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "含量与纬度、气候因素之间存在显著的非线性关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有关核DNA含量影响植物的地理分布和生态适应能力已有不少报道。但是关于核DNA含量与纬度、海拔、气候因素间的关系却一直存在着争议,有正相关、负相关或没有相关的不同报道,且绝大多数将这种关系描述成简单的线性关系。先前有关核DNA含量与地理、气候因素之间关系的矛盾性报道,我们推测可能的原因是研究对象没有相对一致的遗传背景,或取样范围较窄有关。除了选样和取材的不足之外，“对核 DNA 含量与地理气候因素之间\"过于简单化地理解为仅是线性关系,进而影响到分析方法的选择,故而得到了相互矛盾的结论,这也可能是原因之一。Knight 和Ackerly认为核 DNA含量与环境因子间的关系也可能是非线性的[15]。李丹丹等发现,中国境的稗草36个地理种群的核 DNA 含量与经度、纬度间均存在显著的非线性关系,可以用单峰函数进行拟合。本文以整个菊科具有核DNA含量数据的种类为对象进行统计，在全球范围这样的空间尺度上也证实,植物的核 DNA 含量随着纬度呈现出有规律的非线性变化[16]。（",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3个气候因子中,最干季节雨量和最湿月份雨量与DNAC-值呈明显的单峰曲线。随着最冷季节平均温度的增加,DNA C-值似有单调递减的趋势。但是用二项式函数拟合最冷季节平均温度和 DNA C-值关系的方程式,判定系数 $R ^ { 2 }$ 为0.638,预测值与实测值在0.001水平上显著相关。但是如果用线性函数进行拟合，判定系数为0.562,拟合效果明显差于非线性方法。因此,最冷季节平均温度对DNA C-值的影响也明显地有非线性特点,曲线呈现出单峰特点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Levin 和Funderburg对335种温带植物和67种热带植物的 DNA4C-值比较发现,温带物种的平均4C-DNA值为 $2 7 . 0 6 \\mathrm { p g }$ ,而热带的平均仅为 $1 2 . 1 3 \\mathrm { p g }$ ,两者差异极为显著,但是他们认为热带植物比温带植物核DNA 含量小的现象并不普遍[9]。他们认为核 DNA 含量在热带与温带种类之间的这种差异是由于生物类群发生过程中具有不同核DNA含量大小的类群的地理替代造成,而不是由于适应于环境变化而形成的,也即他们认为核DNA含量的变化并不具有气候适应的意义。但是本文发现3个生物气候因素显著地影响到菊科植物 DNA1C-值,应用单峰函数能够很好地解析生物气候因素与核DNA 含量之间的关系。李丹丹等也发现,稗草核 DNA 含量的种下变化也极明显地受气候因素的影响。因此,核DNA含量这个指标具有明显的生态适应意义[16]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对10个样带上的菊科植物核 DNA含量变化分析发现,位于或接近赤道的样块,其上分布的菊科植物核DNA 含量有下降的趋势,这种现象在第2、5样带上比较明显。Bennett也发现热带栽培的豆科和禾草类植物具有较小的基因组[19]。这种现象的原因可能与生态位宽窄有关。Stebbins 认为,与温带性种类相比,热带地区的物种往往分布在较窄气候变化范围的环境中,从而要求更少的基因[20]。重复的结构基因使得温带植物具有更宽的生态位,从而加大了核DNA 含量。但是在趋向两极的环境中,由于生长季节缩短,或者环境单一，使核 DNA含量也有下隆趋势。Vidic 等也认为基因组大的植物并不适合于生长在极端环境中[21]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "单峰模型经常用来解析生物分布与环境因子之间的关系[22]。一个从温带到热带的分布的物种往往有最适生长的地理区域和对应气候条件,并有对应的形态性状和核 DNA 含量。因此,核DNA 含量与地理、气候因素之间的关系理论上能够用单峰模型拟合。核DNA含量又是如何影响植物的形态特征的？前人研究表明，核 DNA 含量小的植物,染色体、细胞核、细胞也均小,细胞分裂速率相对较高。核 DNA 含量小的植物生活史长更短、种子变大、幼苗生长速率变高[23-24],单位面积叶重增加,代谢速率提高[25]。核 DNA 既可以通过遗传物质的表达,也会通过核DNA本身的重量及体积的物理作用影响。显然,细胞大小、体积、重量及发育速率跟非编码的DNA含量变化有关,说明他们在本质上存在因果关系.而且细胞水平上的核型效应是可加成的，可扩展到对多细胞组织结构的大小、重量、发育速率的影响。基因组大小与在细胞水平上的表型（如细胞大小,保卫细胞长度,表皮细胞面积等)存在着较强正相关[26]。因此,核 DNA 含量的生态适应价值有理论上的基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "菊科植物是世界性大科,而且是一个相对自然的分类群,具有比较一致的遗传和进化背景,而且本文又是在全球范围的10个样带上进行的数据分析,结果有一定的普遍性。但是作为高度多样化的植物类群,其他类群核 DNA含量的地理变化式样,以及与气候因素间的关系,尚需要在更多类群中开展研究,以进一步明确本文发现的菊科植物核 DNA 含量地理变异规律及其与气候因子之间的关系在整个高等植物中是否具有普遍性。另外,由于数据来源问题,本文主要分析了纬度梯度上菊科植物核DNA含量的变化及其可能的气候因素。对于核DNA含量在全球范围内与经度、海拔因素的关系,也是今后进一步研究的内容。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]LeitchIJ,BenetMD.GenomedonsizinginpolyplidplantsiologicalJoualof theLieanSociety204,82（4)：65-663.  \n[2]SwifH.eosacofesoyboeuccidinplantucleiroefetioalcafiecfeUiatefAmerica，1950,36(11）：643-654.  \n[3]BeettMDPlanenomevalueshwuchdoeo?rocedingofthNatioalcadeyofSiecesofteUitdStatesferica,1998,95(5):2011-2016.  \n[4]ChnGnLAplgCastaateasivefgospsaliditydatiocal12(5): 1335-1348.  \n[5］郭水良，陈国奇，毛俐慧.DNAC-值与被子植物入侵性关系的数据统计分析——以中国境内有分布的539种被子植物为例.生态学报，2008，28(8):3698-3705.  \n［6］郭水良，于晶，李丹丹，周平，方其，印丽萍.长三角及邻近地区138种草本植物 DNAC-值测定及其生物学意义.生态学报，2015，35(19):6516-6529.  \n[7] 李国旗，安树青，陈兴龙，程晓莉，张纪林.生物的C值矛盾与其生态适应性的关系初探.大自然探索，199，,18(2)：61-66.  \n[8] 苏筱娟.非编码 DNA 到底有没有用？国外科技动态，2000,(11)：32-33  \n[9] LevinDA，FuderburgSeoigospes:pateversustroicalspeemeicanaturalist，97,14（6)74-795.  \n[10] Grime JP,Mowforth MA.Variation in genome size-an ecological interpretation.Nature，1982,299(5879）：151-153.  \n[11]RazafinarivoNJ,akotomalalaJJ,BrowSC,BourgeM,HamonS,deKchkoA,PocetV,Dubreul-TranchntC，CouturonE,uyotR,Hamon P. Geographical gradients in the genome size variation of wild coffee tree s(Coffea）native to Africa and Indian Ocean islands.Tree Genetics& Genomes，2012，8(6):1345-1358.  \n[12]BotiniMC，GreizerstenEJ，AulicnoMB，PogioLRelatoshipsaongGeomeSiz，EnviroentalConditiosndGeogapicalDistributioniNturalPopulatiosofNWPatagoianSpeiesofBerberisL.（Berberdaceae）AnnalsofBotanyo,6(3）：65-53.  \n[13] Teoh SB,Rees H. Nuclear DNA amounts in populations of Picea and Pinus species.Heredity,1976,36(1):123-137.  \n[14]CreberHMC,DaviesMS,FaisDWakerHD.VriatioDACvalueinnaturalpopulatiosofDctylisglomerataLNewholoist,1994，128(3):555-561.  \n[15]Knigtclteosoalgtsatilas5(1) : 66-76.  \n[16]LiDD,LuYLGuSYinLZouP,LuYXNuclearDAcontentsofEchnccrus-galianditsGusiaelospsithenvironments.Acta Oecologica，2017,79:36-47.  \n[17]RaybuALugrJA.esraistedttliesorealdedGes9(4) : 470-474.  \n[18] Bennett M D ,Leitch I J. Angiosperm DNA $c$ -values database[DB/OL]. htp://www.kew.org/cvalues/.2017-10-30  \n[19] BenettMD.DNAamount,latitude,andcropplantdistribution.EnvironmentalandExperimental Botany，1976,16(2/3）：93-108.  \n[20] Stebbins G L. Chromosomal variation and evolution. Science，1966,152(3728）:1463-1469.  \n[21] VidicT,GreiuberJ,ViarB,eastiaM.electiesigificancefgenoesizeinaplantcomuitywithayetalpolutioolicalApplications,2009,19(6)：1515-1521.  \n[22] Cui HJ,Liu XW,Tan WF,FengXH,LiuF,Daniel Ruan H. Influence of $\\mathrm { { M n } ( \\mathrm { { I I I } ) } }$ availability on the phase transformation from layeredbuserite to tunnel-structured todorokite. Clays and Clay Minerals,2O08,56(4）：397-403.23 郭水良，陈国奇.根尖分生组织细胞核大小：一个可能用于植物入侵性评估的新指标.植物科学学报，2015，33（1)：53-60.  \n[24] 倪丽萍，郭水良.论 DNAC-值与植物入侵性的关系.生态学报，2005，25(9)：2372-2381.  \n[25] BeaulieuJM,LeitchJnigtCeoeevolutioinelattaftratedabolictesevisiedAasofa99(3): 495-505.  \n[26]Knight CA，BeaulieuJM.Genome size scaling through phenotype space.Annalsof Botany，2008,101(6)：759-766.",
+        "page_idx": 8
+    }
+]

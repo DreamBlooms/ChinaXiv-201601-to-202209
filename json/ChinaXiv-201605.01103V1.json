@@ -1,0 +1,680 @@
+[
+    {
+        "type": "text",
+        "text": "A Trouble with Horava-Lifshitz Gravity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miao Li, Yi Pang ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratory of Frontiers in Theoretical Physics,   \nInstitute of Theoretical Physics，Chinese Academy of Sciences,Beijing 100190,   \nP.R.China   \nE-mail: mli@itp.ac.cn   \nE-mail: yipang@itp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: We study the structure of the phase space in Horava-Lifshitz theory. With the constraints derived from the action,the phase space is described by five fields,thus there is a lack of canonical structure.The Poisson brackets of the Hamiltonian density do not form a closed structure, resulting in many new constraints. Taking these new constraints into account, it appears that there is no degree of freedom left,or the phase space is reduced to one with an odd number of fields. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction 1 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Non-closure of constraints algebra and New constraints 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Discussion and conclusion 8 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Horava recently proposed a gravity theory with asymmetry between time and space [1, 2]. This theory is non-relativistic in the UV limit,thus it is hoped that it is UV finite. It is similar to a scalar field theory of Lifshitz [3] in which the time dimension has weight 3 if a space dimension has weight 1, thus this theory is called Horava-Lifshitz gravity. Horava argued that it is superficially renormalizable based on power counting and may flow to Einstein's general relativity in the IR region. This work has stirred up a surge of research on possible applications of the theory to cosmology and black hole physics. We have no intention to be complete in offering the literature, for those interested in a list of these papers, we refer to a most recent paper [5]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When any theory claims to be a renormalizable field theory of gravity, one must exercise great care, especially with a theory without general covariance to begin with, since we know that general covariance is hard to avoid in a theory with a massless spin 2 particle. One may already poses questions at face value. If a theory can flow to Einstein's theory only when a cosmological constant is introduced, how can one avoid this cosmological constant?1 If one fine-tunes parameter $\\lambda$ in the kinetic term in the Horava action to $1 / 3$ thus makes the cosmological constant vanish, then how $\\lambda$ can flow to 1 in Einstein theory? And, how a field theory of gravity can explain the fact that the maximal entropy of a region is proportional to the area of the surface surrounding it? ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the above questions in mind, we begin a study on constraints in this theory. One easily comes to doubt that whether the system of constraints of the theory makes sense,since not all constraints correspond to local symmetries. Horava retains all diffomorphism symmetries in space,but gives up on time local symmetry. In a constrained system，constraints are normally generators of symmetries, thus they are guaranteed to form a closed system under the Poisson bracket. Now, the constraints corresponding to the lapse function have no corresponding symmetries, it is natural that they wil generate new constraints under the Poisson bracket. Indeed they do,as we will show shortly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One may simply choose not to impose these new constraints. If so, then there are four families of constraints: one corresponding to the lapse function $N$ ， three corresponding to shift functions $N ^ { i }$ . In the ADM canonical formalism (especially suitable for the nonrelativistic theory of Horava)， there are 12 fields on the phase space,6 are the spatial metric components $g _ { i j }$ ，6 are their canonical momenta. Upon imposing four constraints and three gauge symmetries, the phase space is described by five functions,and there is no symplectic structure on this phase space. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thus we need to impose new constraints derived from the Poisson brackets,but we shallsee that there are too many new constraints,thus it appears that no degree of freedom is left,or the phase space is reduced to a smaller one still described by an odd number of fields, this seems to us a fatal problem in Horava's theory. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.Non-closure of constraints algebra and New constraints ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We start with the relativistic metric $g _ { \\mu \\nu }$ in the usual ADM decomposition, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { - N ^ { 2 } + N _ { i } N ^ { i } } } & { { N _ { i } } } \\\\ { { N _ { i } } } & { { g _ { i j } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for any theory of metric to be a theory of gravity, the lapse function $N$ must be a function of both space and time, since Newtonian potential is embedded in it. Even though Newtonian potential can be included in the shift functions by choosing certain special gauge, to obtain Newtonian equation which determines Newtonian potential, the lapse function $N$ must be a function of both space and time. Without Newtonian equation as a local constraint, many unphysical solutions will emerge. In UV region the action in Horava-Lifshitz theory takes the following form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\frac { 1 } { 1 6 \\pi G } \\int d t d ^ { 3 } { \\bf x } \\sqrt { g } N \\{ ( K _ { i j } K ^ { i j } - \\lambda K ^ { 2 } ) - \\frac { 1 } { k _ { W } ^ { 4 } } C _ { i j } C ^ { i j } \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where for simplicity we consider the frst action proposed in [2] in this section, we postpone a discussion of the second action (which may be generated by flowing the above action and flow to Einstein action in the IR region) in [2] to sect.3, where similar calculations are carried out. The frst two terms in the above action comprise the kinetic term and the last term is the potential term. This action satisfies the detailed balance principle, since （204 $\\begin{array} { r } { C ^ { i j } \\equiv \\epsilon ^ { i k l } \\nabla _ { k } ( R _ { l } ^ { j } - \\frac { 1 } { 4 } R \\delta _ { l } ^ { j } ) } \\end{array}$ is the Cotton tensor and can be obtained from the variation of a 3-dimensional action $W [ g _ { i j } ]$ [2] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\sqrt { g } } C ^ { i j } = { \\frac { \\delta W } { \\delta g _ { i j } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $W [ g _ { i j } ]$ is the 3-dimensional Chern-Simons action. $\\begin{array} { r } { K _ { i j } \\equiv \\frac { 1 } { 2 N } ( \\dot { g } _ { i j } - \\nabla _ { i } N _ { j } - \\nabla _ { j } N _ { i } ) } \\end{array}$ are components of the extrinsic curvature of the 3-dimensional hyper-surface with constant $t$ （20 and $K \\equiv g ^ { i j } K _ { i j }$ is its trace. $k _ { W }$ is a constant in this theory with mass dimension 1. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the following,we focus on the case of $\\lambda = 1$ so that the kinetic term in the action looks like that appearing in Einstein-Hilbert action. Our calculation demonstrates that different value of $\\lambda$ will not change the final results qualitatively, so we can make this choice. Hereafter,we will adopt the units in which $1 6 \\pi G = 1$ ，for convenience.In the ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hamiltonian formalism, we first compute the conjugate momenta of $N , N _ { i }$ and $g _ { i j }$ denoted by $\\pi , \\pi ^ { i }$ and $\\pi ^ { i j }$ , respectively. They have the explicit form ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c c } { { \\pi = \\displaystyle \\frac { \\delta { \\cal S } } { \\delta { \\dot { N } } } = 0 , } } & { { } } & { { } } \\\\ { { \\pi ^ { i } = \\displaystyle \\frac { \\delta { \\cal S } } { \\delta { \\dot { N } } ^ { i } } = 0 , } } & { { } } & { { } } \\\\ { { \\pi ^ { i j } = \\displaystyle \\frac { \\delta { \\cal S } } { \\delta { \\dot { g } } _ { i j } } = \\sqrt { g } ( K ^ { i j } - g ^ { i j } K ) . } } & { { } } & { { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The basic Poisson brackets of the canonical variables are ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\{ N ( x ) , ~ \\pi ( y ) \\} _ { \\mathrm { P b } } = \\delta ^ { 3 } ( { \\bf x } - { \\bf y } ) , } } \\\\ { { \\{ N _ { i } ( x ) , ~ \\pi ^ { j } ( y ) \\} _ { \\mathrm { P b } } = \\delta _ { i } ^ { j } \\delta ^ { 3 } ( { \\bf x } - { \\bf y } ) , } } \\\\ { { \\{ g _ { i j } ( x ) , \\pi ^ { k l } ( y ) \\} _ { \\mathrm { P b } } = \\displaystyle \\frac { 1 } { 2 } ( \\delta _ { i } ^ { k } \\delta _ { j } ^ { l } + \\delta _ { i } ^ { l } \\delta _ { j } ^ { k } ) \\delta ^ { 3 } ( { \\bf x } - { \\bf y } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where we have adopted the convention of Poisson brackets between canonical variables used by [4]. One should be aware of the fact that $\\pi _ { i j }$ is not a tensor under coordinate transformation, but behaves as a tensor density. In other words, $\\pi _ { i j } / \\sqrt { g }$ is a tensor. Then after performing a Legendré transformation,the Hamiltonian can be derived as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\int \\pi ^ { i j } \\dot { g } _ { i j } d ^ { 3 } \\mathrm { x } - L = \\int d ^ { 3 } \\mathrm { x } ( N \\mathcal { H } + N ^ { i } \\mathcal { H } _ { i } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "with $\\mathcal { H }$ and $\\mathcal { H } _ { i }$ given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { H } } = \\frac { 1 } { \\sqrt { g } } \\pi ^ { i j } \\mathcal { G } _ { i j k l } \\pi ^ { k l } + \\frac { 1 } { k _ { W } ^ { 4 } } \\sqrt { g } C _ { i j } C ^ { i j } , } } \\\\ { { \\displaystyle { \\mathcal { H } } _ { i } = - 2 g _ { i l } \\partial _ { j } \\pi ^ { l j } - ( 2 \\partial _ { k } g _ { i j } - \\partial _ { i } g _ { j k } ) \\pi ^ { j k } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { \\mathcal { G } _ { i j k l } \\equiv \\frac { 1 } { 2 } ( g _ { i k } g _ { j l } + g _ { i l } g _ { j k } - g _ { i j } g _ { k l } ) } \\end{array}$ is the inverse of de Witt metric. Since Eqs.(2.4) and (2.5) show that the canonical momenta of $N$ and $N ^ { i }$ always vanish, the two equations below are always satisfied ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\dot { \\pi } = \\{ \\pi , H \\} _ { \\mathrm { P b } } = \\mathcal { H } , \\quad } \\\\ { \\dot { \\pi } ^ { i } = \\{ \\pi ^ { i } , H \\} _ { \\mathrm { P b } } = \\mathcal { H } _ { i } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "provided the following constraints ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { H } = 0 , } \\\\ { \\mathcal { H } _ { i } = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Above equations are usually calld as the Hamiltonian constraint and momentum constraint，respectively. Once the Poisson bracket is added into the system as a part of structure,consistency requires that the Poisson brackets among the constraints only generate constraints. As discussed in the introduction,we anticipate that new constraints are generated by the Poisson brackets among Hamiltonian constraints. To compute the Poisson brackets of each pair of constraints,it is helpful to first compute ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\{ \\int d ^ { 3 } { \\bf x } ^ { \\prime } \\zeta ^ { k } \\mathcal { H } _ { k } , g _ { i j } \\} _ { \\mathrm { P b } } = - \\zeta ^ { k } \\partial _ { k } g _ { i j } - g _ { j k } \\partial _ { i } \\zeta ^ { k } - g _ { i k } \\partial _ { j } \\zeta ^ { k } } , }  \\\\ { { \\displaystyle \\{ \\int d ^ { 3 } { \\bf x } ^ { \\prime } \\zeta ^ { k } \\mathcal { H } _ { k } , \\pi ^ { i j } \\} _ { \\mathrm { P b } } = - \\partial _ { k } ( \\pi ^ { i j } \\zeta ^ { k } ) + \\pi ^ { j k } \\partial _ { k } \\zeta ^ { i } + \\pi ^ { i k } \\partial _ { k } \\zeta ^ { j } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which reveal the role of $\\mathcal { H } _ { i }$ 's as generators of 3-dimensional coordinate transformation, and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\int d ^ { 3 } { \\bf x } ^ { \\prime } \\eta \\mathcal { H } , ~ g _ { i j } \\} _ { \\mathrm { P b } } = - \\frac { \\eta } { \\sqrt { g } } ( 2 g _ { i l } g _ { j k } - g _ { i j } g _ { k l } ) \\pi ^ { k l } = - 2 \\eta K _ { i j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then one obtains the following two Poisson brackets straightforwardly, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\{ \\displaystyle \\int d ^ { 3 } { \\bf x } \\zeta _ { 1 } ^ { i } \\mathcal { H } _ { i } , \\int d ^ { 3 } { \\bf y } \\zeta _ { 2 } ^ { j } \\mathcal { H } _ { j } \\} _ { \\mathrm { P b } } = \\int d ^ { 3 } { \\bf x } ( \\zeta _ { 1 } ^ { i } \\partial _ { i } \\zeta _ { 2 } ^ { k } - \\zeta _ { 2 } ^ { i } \\partial _ { i } \\zeta _ { 1 } ^ { k } ) \\mathcal { H } _ { k } , } \\\\ & { \\quad \\{ \\displaystyle \\int d ^ { 3 } { \\bf x } \\zeta ^ { i } \\mathcal { H } _ { i } , \\int d ^ { 3 } { \\bf y } \\eta \\mathcal { H } \\} _ { \\mathrm { P b } } = \\int d ^ { 3 } { \\bf x } \\zeta ^ { i } \\partial _ { i } \\eta \\mathcal { H } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eq.(2.20) tells us that $\\mathcal { H } _ { i }$ 's form a Lie algebra corresponding to 3-dimensional diffeomorphism group. Eq.(2.21) is a reflection of the fact that $\\mathcal { H }$ behaves as a scalar density under this transformation.Actually, one can expect these results, since $\\mathcal { H } _ { i }$ 's take the same form as in general relativity. At this moment, no new constraints are generated,and we have to compute the last Poisson bracket $\\{ \\int d ^ { 3 } \\mathrm { x } \\xi \\mathcal { H } , \\int d ^ { 3 } \\mathrm { y } \\eta \\mathcal { H } \\} _ { \\mathrm { P b } }$ ． This Poisson bracket is too complicated to analyze, instead,we consider a simple case that is $\\sqrt { g } \\xi = \\delta ^ { 3 } ( \\mathrm { x - y ) }$ with $\\eta$ （204号 an arbitrary scalar function. In the process of computation, the following two formula are used, ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\delta R _ { i j } = \\displaystyle \\frac 1 2 g ^ { k l } ( \\nabla _ { l } \\nabla _ { j } \\delta g _ { k i } + \\nabla _ { l } \\nabla _ { i } \\delta g _ { k j } - \\nabla _ { l } \\nabla _ { k } \\delta g _ { i j } - \\nabla _ { i } \\nabla _ { j } \\delta g _ { k l } ) , } \\\\ { \\delta \\Gamma _ { j k } ^ { i } = \\displaystyle \\frac 1 2 g ^ { i l } ( \\nabla _ { j } \\delta g _ { l k } + \\nabla _ { k } \\delta g _ { j l } - \\nabla _ { l } \\delta g _ { j k } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After a tedious calculation， we obtain the following result expanded with respect to the covariant derivatives of $\\eta$ in different orders. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\mathcal { H } ( \\mathrm { x } ) , \\ \\int d ^ { 3 } \\mathrm { y } \\eta \\mathcal { H } \\} _ { \\mathrm { P b } } = - 2 \\sqrt { g } \\frac { 1 } { k _ { W } ^ { 4 } } ( \\alpha ^ { i j k } \\nabla _ { k } \\nabla _ { j } \\nabla _ { i } \\eta + \\beta ^ { i j } \\nabla _ { j } \\nabla _ { i } \\eta + \\gamma ^ { i } \\nabla _ { i } \\eta + \\omega \\eta ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $\\alpha ^ { i j k }$ given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ^ { i j k } = ( \\widetilde { C } ^ { i l m } g ^ { j k } + \\widetilde { C } ^ { k l m } g ^ { i j } - \\widetilde { C } ^ { i l k } g ^ { j m } - \\widetilde { C } ^ { k l i } g ^ { j m } ) K _ { l m } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\widetilde { C } ^ { i j k }$ is defined as $\\epsilon ^ { i j l } C _ { l } ^ { ~ k }$ ， in which $C _ { l } { } ^ { k } = g _ { l m } C ^ { m k }$ with $C ^ { m k }$ the Cotton tensor defined before. The term including the second order covariant derivative of $\\eta$ takes the form ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta ^ { i j } \\nabla _ { j } \\nabla _ { i } \\eta = \\nabla _ { ( j } \\nabla _ { i } \\eta \\nabla _ { k ) _ { \\mathrm { c } } } ( K _ { l m } \\widetilde { C } ^ { i l m } g ^ { j k } - K _ { l m } \\widetilde { C } ^ { i l k } g ^ { j m } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the notation $( k j i ) _ { c } \\equiv ( i j k + j k i + k i j )$ represents the cyclic permutation among indices $i , j , k$ . The term proportional to the first order derivative of $\\eta$ is a little lengthy, and we have to introduce some abbreviations ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { t ^ { i j k l m } = \\widetilde { C } ^ { i j m } g ^ { k l } + \\widetilde { C } ^ { i m j } g ^ { k l } + \\widetilde { C } ^ { j m l } g ^ { i k } , } \\\\ { s ^ { i j k l m } = \\widetilde { C } ^ { i j m } g ^ { k l } + \\widetilde { C } ^ { i m j } g ^ { k l } - \\widetilde { C } ^ { j m l } g ^ { i k } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\gamma ^ { i } \\nabla _ { i } \\eta = t ^ { m l k j i } \\nabla _ { ( i } \\eta \\nabla _ { m } \\nabla _ { k ) _ { \\mathrm { c } } } K _ { j l } + K _ { j l } \\nabla _ { ( i } \\eta \\nabla _ { k } \\nabla _ { m ) _ { \\mathrm { c } } } t ^ { m l k j i } } \\\\ & { \\quad \\quad \\quad + 2 s ^ { l m i j k } \\nabla _ { i } \\eta \\nabla _ { l } \\nabla _ { k } ] K _ { j m } + 2 K _ { j m } \\nabla _ { i } \\eta \\nabla _ { [ k } \\nabla _ { l ] } s ^ { l m i j k } } \\\\ & { \\quad \\quad \\quad + 2 ( \\widetilde { C } ^ { k l j } R _ { l } ^ { i } + \\widetilde { C } ^ { l k i } R _ { l } ^ { j } + \\widetilde { C } ^ { l i j } R _ { l } ^ { k } ) K _ { j k } \\nabla _ { i } \\eta } \\\\ & { \\quad \\quad \\quad + ( \\frac { 1 } { 2 } R _ { j k l } ^ { i } \\widetilde { C } ^ { k l j } - R _ { j k l } ^ { i } \\widetilde { C } ^ { j k l } ) K \\nabla _ { i } \\eta } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The last one $\\omega$ is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\omega = \\nabla _ { i } ( \\widetilde { C } ^ { j k l } R _ { k } ^ { i } K _ { j l } + \\widetilde { C } ^ { j i k } R _ { j } ^ { l } K _ { k l } + \\widetilde { C } ^ { k j i } R _ { k } ^ { l } K _ { j l } ) } \\\\ & { \\quad + \\widetilde { C } ^ { i j k } ( \\nabla _ { i } \\nabla _ { l } \\nabla _ { k } K _ { j } ^ { l } + \\nabla _ { i } \\nabla _ { l } \\nabla _ { j } K _ { k } ^ { l } - \\nabla _ { i } \\nabla ^ { l } \\nabla _ { l } K _ { j k } - \\nabla _ { i } \\nabla _ { k } \\nabla _ { j } K ) } \\\\ & { \\quad + ( K _ { \\ j } ^ { l } \\nabla _ { k } \\nabla _ { l } \\nabla _ { i } + K _ { \\ k } ^ { l } \\nabla _ { j } \\nabla _ { l } \\nabla _ { i } - K _ { j k } \\nabla ^ { l } \\nabla _ { l } \\nabla _ { i } - K \\nabla _ { j } \\nabla _ { k } \\nabla _ { i } ) \\widetilde { C } ^ { i j k } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "At first sight, one may think that constraints from the third covariant derivatives of $\\eta$ are $\\alpha ^ { i j k } { = } 0$ , it is not true. The reason is the following. We first notice that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla _ { k } \\nabla _ { j } \\nabla _ { i } \\eta = \\nabla _ { k } \\nabla _ { i } \\nabla _ { j } \\eta .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This originates from the formula of second order covariant derivatives of a scalar function, which is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\nabla _ { j } \\nabla _ { i } \\eta = \\partial _ { j } \\partial _ { i } \\eta - \\Gamma _ { i j } ^ { k } \\partial _ { k } \\eta , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma _ { i j } ^ { k }$ is the Christopher symbol. For a torsionless space, $\\Gamma _ { i j } ^ { k }$ is symmetric in the two lower indices, combining with commutativity of partial derivatives, we have Eq.(2.31). Furthermore,we have the following identities, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla _ { k } \\nabla _ { j } \\nabla _ { i } \\eta = \\frac { 1 } { 3 } \\nabla _ { ( k } \\nabla _ { j } \\nabla _ { i ) _ { c } } \\eta + \\frac { 1 } { 3 } ( \\nabla _ { k } \\nabla _ { i } \\nabla _ { j } - \\nabla _ { i } \\nabla _ { k } \\nabla _ { j } ) \\eta + \\frac { 1 } { 3 } ( \\nabla _ { k } \\nabla _ { j } \\nabla _ { i } - \\nabla _ { j } \\nabla _ { k } \\nabla _ { i } ) \\eta ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where we used Eq.(2.31).With the help of Eq.(2.31),we find that the first term in above equation is completely symmetric in three indices. If we denote the symmetrization among three indices by $\\begin{array} { r } { ( i j k ) \\equiv \\frac 1 6 ( i j k + j k i + k i j + j i k + k j i + i k j ) } \\end{array}$ ,then $\\begin{array} { r } { \\frac { 1 } { 3 } \\nabla _ { ( k } \\nabla _ { j } \\nabla _ { i ) _ { c } } \\eta = \\nabla _ { ( k } \\nabla _ { j } \\nabla _ { i ) } \\eta } \\end{array}$ The remaining two terms in Eq.(2.33) can be reduced to the first order derivative of $\\eta$ by utilizing the following formula, ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bigl ( \\nabla _ { k } \\nabla _ { i } \\nabla _ { j } - \\nabla _ { i } \\nabla _ { k } \\nabla _ { j } \\bigr ) \\eta = R _ { j i k } ^ { l } \\nabla _ { l } \\eta .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After this process,it is clear that the third order covariant derivative term in Eq.(2.24 can be written as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ^ { i j k } \\nabla _ { ( k } \\nabla _ { j } \\nabla _ { i ) } \\eta .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then inheriting the symmetry of $\\nabla _ { ( k } \\nabla _ { j } \\nabla _ { i ) } \\eta$ , the effective components of $\\alpha ^ { i j k }$ are $\\alpha ^ { ( i j k ) }$ Explicitly, they take the following form ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { x ^ { ( i j k ) } = \\displaystyle \\frac { 2 } { 3 } ( \\widetilde { C } ^ { k l m } g ^ { i j } \\nonumber + \\widetilde { C } ^ { j l m } g ^ { i k } + \\widetilde { C } ^ { i l m } g ^ { j k } ) K _ { m l } - \\displaystyle \\frac { 1 } { 3 } ( \\widetilde { C } ^ { i l k } g ^ { j m } + \\widetilde { C } ^ { k l i } g ^ { j m } + \\widetilde { C } ^ { j l i } g ^ { k m } ) K _ { m l } } } & { { = \\displaystyle \\frac { 1 } { 3 } ( \\widetilde { C } ^ { i l } g ^ { j m } g ^ { i l } ) K _ { m l } } } \\\\ { { } } & { { - \\displaystyle \\frac { 1 } { 3 } ( \\widetilde { C } ^ { i l j } g ^ { k m } + \\widetilde { C } ^ { k l j } g ^ { i m } + \\widetilde { C } ^ { j l k } g ^ { i m } ) K _ { m l } . } } & { { ( 2 . 3 ) ( \\widetilde { C } ^ { i l } g ^ { j m } g ^ { i l } ) K _ { m l } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because covariant derivatives of $\\eta$ of different order are independent, consistency requires that the coefficients in front of covariant derivatives of $\\eta$ should vanish (Because $\\mathcal { H }$ is a first class constraint and the reason will be given later). We deduce from the term $\\alpha ^ { i j k } \\nabla _ { ( k } \\nabla _ { j } \\nabla _ { i ) } \\eta$ that ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha ^ { ( i j k ) } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To see whether this condition gives rise to new constraints, we will work in a special frame where Eq.(2.37) becomes simple. First we write the 3-dimensional space metric tensor $g _ { i j } d x ^ { i } d x ^ { j }$ in terms of vielbein, namely ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { i j } d x ^ { i } d x ^ { j } = \\delta _ { a b } \\theta ^ { a } \\theta ^ { b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\delta _ { a b }$ is the Kronecker delta function,new basis $\\theta ^ { a }$ is related to $d x ^ { i }$ by $\\theta ^ { a } = \\theta _ { i } ^ { a } d x ^ { i }$ Since Cotton tensor is a symmetric tensor, we can diagonalize it through an orthogonal transformation $\\mathcal { O } ( \\mathrm { x } )$ at each given point. So in terms of new basis defined by $\\tilde { \\theta } ^ { \\alpha } = \\mathcal { O } _ { b } ^ { \\alpha } \\theta ^ { b }$ the component of Cotton tensor becomes ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC ^ { \\alpha \\beta } = ( \\mathcal { O } C \\mathcal { O } ^ { T } ) ^ { \\alpha \\beta } = \\mathrm { d i a g } \\{ C _ { 1 } , ~ C _ { 2 } , ~ - { C _ { 1 } } - C _ { 2 } \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $C _ { 1 } , C _ { 2 } , \\mathrm { a n d } - C _ { 1 } - C _ { 2 }$ are three eigenvalues of Cotton tensor,where we used the property that Cotton tensor is traceless. Contracting two sides of Eq.(2.6),we obtain ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sqrt { g } K = - \\frac { \\pi } { 2 } \\qquad ( \\pi = g ^ { i j } \\pi _ { i j } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "this helps us to reexpress $K _ { i j }$ by $\\pi ^ { i j }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\sqrt { g } } K ^ { i j } = \\pi ^ { i j } - { \\frac { 1 } { 2 } } g ^ { i j } \\pi .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Now,we find that Eq.(2.37) gives the following seven independent equations ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c c } { { C _ { 1 } \\pi ^ { 1 2 } = 0 , } } & { { C _ { 2 } \\pi ^ { 1 2 } = 0 , } } \\\\ { { } } & { { } } \\\\ { { C _ { 1 } \\pi ^ { 1 3 } = 0 , } } & { { C _ { 2 } \\pi ^ { 1 3 } = 0 , } } \\\\ { { } } & { { } } \\\\ { { C _ { 1 } \\pi ^ { 2 3 } = 0 , } } & { { C _ { 2 } \\pi ^ { 2 3 } = 0 , } } \\\\ { { } } & { { } } \\\\ { { ( C _ { 1 } + 2 C _ { 2 } ) \\pi ^ { 1 1 } - ( 2 C _ { 1 } + C _ { 2 } ) \\pi ^ { 2 2 } + ( C _ { 1 } - C _ { 2 } ) \\pi ^ { 3 3 } = 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The solutions of these constraints can be separated into two classes · 1) $C _ { 1 } = C _ { 2 } = 0$ or in other words Cotton tensor should vanish. We notice that the other coefficient tensors also vanish because they all consist of Cotton tensor and its covariant derivatives. Since the fact that a tensor vanishes is a coordinate independent statement, these constraints are still required to be satisfied, even after one uses the three coordinate transformations to fix three components of $g _ { i j }$ . In a special frame, we see that the vanishing of Cotton tensor gives two constraint equations, actually, in a general coordinate frame, the vanishing of Cotton tensor indeed provides only two constraints. The reason is that the following properties of Cotton tensor ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i j } = C _ { j i } , g ^ { i j } C _ { i j } = 0 , \\nabla _ { j } C ^ { i j } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "make Cotton tensor itself have only two independent components. Gauge-fixing and vanishing of Cotton tensor altogether make only one degree of freedom in $g _ { i j }$ be physical. Now, the Hamiltonian constraint and three momentum constraints eliminate four conjugate momenta, leaving two components of $\\pi ^ { i j }$ be physical. Altogether, the phase space is described by three unpaired fields. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "· 2) ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } \\neq 0 ~ \\mathrm { o r } ~ C _ { 2 } \\neq 0 , ~ \\pi ^ { 1 2 } = 0 , ~ \\pi ^ { 1 3 } = 0 , ~ \\pi ^ { 2 3 } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This case is rather bad, it indicates that all the conjugate momenta of $g _ { i j }$ are unphysical, since three momentum constraints already elminates three of the six conjugate momenta. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To interpret above results with the approach given by Dirac ， we consider the time derivative of the constraint.Utilizing Eqs.(2.20)，(2.21) and (2.24),we obtain ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { d \\mathcal { H } _ { i } } { d t } = \\partial _ { i } \\mathcal { N } \\mathcal { H } + ( \\partial _ { i } \\mathcal { N } ^ { j } ) \\mathcal { H } _ { j } + \\partial _ { j } ( \\mathcal { N } ^ { j } \\mathcal { H } _ { i } ) , } \\\\ { \\displaystyle \\frac { d \\mathcal { H } } { d t } = ( \\partial _ { i } \\mathcal { N } ^ { i } ) \\mathcal { H } + \\triangle \\mathcal { N } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where the operator $\\bigtriangleup$ is defined as ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\triangle = - 2 \\sqrt { g } \\frac { 1 } { k _ { W } ^ { 4 } } ( \\alpha ^ { i j k } \\nabla _ { k } \\nabla _ { j } \\nabla _ { i } + \\beta ^ { i j } \\nabla _ { j } \\nabla _ { i } + \\gamma ^ { i } \\nabla _ { i } + \\omega ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where the coefficients $\\alpha ^ { i j k }$ ， $\\beta ^ { i j }$ ， $\\gamma ^ { i }$ and $\\omega$ take the same expression as in Eq.(2.24). The preservationofi $\\begin{array} { r } { \\frac { d { \\mathcal { H } } _ { i } } { d t } \\simeq 0 } \\end{array}$ ，1 $\\begin{array} { r } { { } \\frac { d { \\mathcal { H } } } { d t } \\simeq 0 } \\end{array}$ on the constrained phase space.The first one is satisfied because $\\mathcal { H } \\simeq 0$ and $\\mathcal { H } _ { i } \\simeq 0$ .While to satisfy the second one gives a differential equation $\\triangle \\mathcal { N } \\simeq 0$ .It is remarkable that $\\bigtriangleup$ has no inverse on the whole constrained phase space, due to the existence of configuration $g _ { i j }$ ， $\\pi ^ { i j }$ making the coefficients in front of covariant derivative vanish. As we have analyzed before, the configuration $g _ { i j }$ with $C _ { i j } = 0$ can achieve this. Therefore, $\\mathcal { H }$ cannot be perceived as a second class constraint, since to define the Dirac bracket associated with the second class constraint,the inverse of $\\triangle$ is indispensable. So $\\mathcal { H }$ can only be a first class constraint,and its Poisson bracket generates constraints according to the property of first class constraint. This justifies our previous treatment of the terms yielded by $\\{ \\mathcal { H } ( \\mathrm { x } )$ ， $\\int d ^ { 3 } \\mathrm { y } \\eta \\mathcal { H } \\} _ { \\mathrm { P b } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To summarize, we have found new constraints generated from the Poisson brackets of Hamiltonian constraint. These new constraints reduce further the phase space in a way that it appears that no symplectic structure exists, or eliminate all the degrees of freedom. We expect that the Poisson brackets among the new constraints and $\\mathcal { H }$ ， $\\mathcal { H } _ { i }$ yield more constraints,until the constraints form a closed algebra.When this is done,all the constraints are calld the first class. Note that the Hamiltonian density is not a second class constraint, since the Poisson bracket obviously does not have an inverse. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Put together, all new constraints either eliminate all degrees of freedom, or make the reduced phase space unphysical. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A complete discussion deserves to be carried out in another work. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.Discussion and conclusion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In previous section,our calculation shows explicitly that $\\mathcal { H }$ and $\\mathcal { H } _ { i }$ do not form a closed algebra as what happens in general relativity. Intuitively， we feel that non-closure of the Poisson brackets among $\\mathcal { H }$ and $\\mathcal { H } _ { i }$ can be interpreted by considering the relationship between constraints and gauged symmetry. The details are what follows. One can calculate the Poisson bracket between the combined constraint $N \\mathcal { H } + N ^ { \\ i } \\mathcal { H } _ { i }$ and $g _ { i j }$ then obtains ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\int d ^ { 3 } { \\bf x } \\eta \\big ( N \\mathcal { H } + \\mathcal { N } ^ { i } \\mathcal { H } _ { i } \\big ) , \\ g _ { i j } \\} _ { \\mathrm { P b } } = - \\partial _ { i } \\eta N _ { j } - \\partial _ { j } \\eta N _ { i } - \\eta \\dot { g } _ { i j } .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is nothing but the variation of $g _ { i j }$ under (3+1)-dimensional coordinate transformation in time direction. So the four generators of (3+1)-dimensional coordinate transformation are $\\left( N \\mathcal { H } + N ^ { i } \\mathcal { H } _ { i } \\right)$ and $\\mathcal { H } _ { i }$ . This seems to suggest that the constraints $\\mathcal { H }$ and $\\mathcal { H } _ { i }$ require the theory to have full (3+1)-dimensional covariance to respect them, or more constraints should be added. The reason is that in a field theory, a local constraint is always accompanied by a gauge symmetry. if we denote the constraint by $\\zeta$ , the meaning of constraint can be expressed by ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { C } | \\mathrm { p h y s } \\rangle \\approx 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This equation implies that the physical state is gauge invariant if there is a corresponding symmetry. In H-L theory, although there is no diffeomorphism invariance in the time direction, Eq.(3.1) still looks like such a transformation and imposing this constraint is somewhat in conflicts of the starting point². ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "What we have discussed previously is based on the UV action of H-L theory. To complete our discussion, the full action containing the description of H-L theory both in UV and IR region should be taken into account. In the IR region, some operators with lower mass dimension willbecome relevant. The detailed balance principle forces the action to take the following form [2] ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\int d t d ^ { 3 } { \\bf x } \\sqrt { g } N \\{ ( K _ { i j } K ^ { i j } - \\lambda K ^ { 2 } ) - \\frac { 1 } { k _ { W } ^ { 4 } } C _ { i j } C ^ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { + \\frac { \\mu } { k _ { W } ^ { 2 } } \\epsilon ^ { i j k } R _ { i l } \\nabla _ { j } R _ { k } ^ { l } - \\frac { \\mu ^ { 2 } } { 4 } R _ { i j } R ^ { i j } } } } \\\\ { { \\displaystyle { + \\frac { \\mu ^ { 2 } } { 4 ( 1 - 3 \\lambda ) } ( \\frac { 1 - 4 \\lambda } { 4 } R ^ { 2 } + \\Lambda _ { W } R - 3 \\Lambda _ { W } ^ { 2 } ) \\} } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For this action to bea deformation of Einstein-Hilbert action in the IR region,it is natural to express this action in relativistic coordinates by rescaling $t$ ， ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { 0 } = c t ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with the emergent speed of light and effective cosmological constant given by ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc = \\frac \\mu 2 \\sqrt { \\frac { \\Lambda _ { W } } { 1 - 3 \\lambda } } , \\Lambda = \\frac 3 2 \\Lambda _ { W } .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "At the same time, parameter $\\lambda$ should be equal to $^ { 1 }$ for the kinetic term taking the same form as its counterpart in general relativity. Thus to have a real speed of light, $\\Lambda _ { W }$ should be negative. Setting $\\lambda = 1$ ， the action becomes ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\cal S } = \\int d t d ^ { 3 } { \\bf x } \\sqrt { g } N \\{ \\left( K _ { i j } K ^ { i j } - K ^ { 2 } \\right) - \\frac { 1 } { k _ { W } ^ { 4 } } C _ { i j } C ^ { i j } } } } \\\\ { { \\displaystyle ~ + \\frac { \\mu } { k _ { W } ^ { 2 } } \\epsilon ^ { i j k } R _ { i l } \\nabla _ { j } R _ { k } ^ { l } - \\frac { \\mu ^ { 2 } } { 4 } R _ { i j } R ^ { i j } } } \\\\ { { \\displaystyle ~ + \\frac { \\mu ^ { 2 } } { 8 } ( \\frac { 3 } { 4 } R ^ { 2 } - \\Lambda _ { W } R + 3 \\Lambda _ { W } ^ { 2 } ) \\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The momentum constraints corresponding to this action remain the same form as in Eq.(2.12)， the Hamiltonian density contains more terms than in Eq.(2.11). We denote the new Hamiltonian constraint by $\\widetilde { \\mathcal { H } }$ to distinguish it from the previous Hamiltonian constraint ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\widetilde { \\mathcal { H } } / \\sqrt { g } = \\begin{array} { l } { { \\frac { 1 } { g } } \\pi ^ { i j } \\mathcal { G } _ { i j k l } \\pi ^ { k l } - R + 2 \\Lambda + \\frac { 1 } { k _ { W } ^ { 4 } } C _ { i j } C ^ { i j } - \\frac { \\mu } { k _ { W } ^ { 2 } } \\epsilon ^ { i j k } R _ { i l } \\nabla _ { j } R _ { k } ^ { l } + \\frac { \\mu ^ { 2 } } { 4 } R _ { i j } R ^ { i j } } } \\\\ { { \\qquad - \\frac { 3 \\mu ^ { 2 } } { 3 2 } R ^ { 2 } , } } \\end{array} } } \\\\ { { \\displaystyle \\qquad \\mathrm - \\frac { 3 \\mu ^ { 2 } } { 3 2 } R ^ { 2 } } { } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where the speed of light has been set to 1 and then the relation $\\Lambda _ { W } = - 8 / \\mu ^ { 2 }$ has been used. It is noticed that the first three terms make up of Hamiltonian constraint in general relativity. Calculation of Poisson bracket of $\\widetilde { \\mathcal { H } }$ is similar to the previous one,and we obtain the following result, ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\{ \\widetilde { \\mathcal { H } } ( \\mathrm { x } ) , \\ \\int d ^ { 3 } \\mathrm { y } \\eta \\widetilde { \\mathcal { H } } \\} _ { \\mathrm { P b } } = - 2 \\sqrt { g } \\frac { 1 } { k _ { W } ^ { 4 } } ( \\widetilde { \\alpha } ^ { i j k } \\nabla _ { k } \\nabla _ { j } \\nabla _ { i } \\eta + \\widetilde { \\beta } ^ { i j } \\nabla _ { j } \\nabla _ { i } \\eta + \\widetilde { \\gamma } ^ { i } \\nabla _ { i } \\eta + \\widetilde { \\omega } \\eta ) , } \\\\ { + \\partial _ { i } ( \\eta g ^ { i j } \\mathcal { H } _ { i } ) - g ^ { i j } \\mathcal { H } _ { i } \\partial _ { j } \\eta . \\qquad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The last two terms come from the well known result of Poisson bracket between the Hamiltonian constraint of general relativity. In the previous section,our discussion mainly concentrates on coefficient tensor of the third order covariant derivatives of $\\eta$ ，we want to see whether this new coefficient tensor will change our results. Then we compute $\\widetilde { \\alpha } ^ { i j k }$ and find that it amounts to replacing the Cotton tensor $C ^ { i j }$ in $\\alpha ^ { i j k }$ by $\\begin{array} { r } { C ^ { i j } \\mathrm { ~ - ~ } \\frac { \\mu k _ { W } ^ { 2 } } { 2 } R ^ { i j } } \\end{array}$ The new contribution μk Rii comes from term-eijk RuVRk,since it also contains the third order derivative of metric $g _ { i j }$ . If we denote the tensor $\\begin{array} { r l } { C ^ { i j } - \\frac { \\mu k _ { W } ^ { 2 } } { 2 } R ^ { i j } } & { { } } \\end{array}$ by $\\Sigma ^ { i j }$ , then the vanishing of $\\widetilde { \\alpha } ^ { ( i j k ) }$ becomes the following seven independent constraints, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { ( \\Sigma _ { 1 } - \\Sigma _ { 2 } ) \\pi ^ { 1 2 } = 0 , } } \\\\ { { { } } } \\\\ { { ( \\Sigma _ { 1 } - \\Sigma _ { 2 } ) \\pi ^ { 1 3 } = 0 , } } \\\\ { { { } } } \\\\ { { ( \\Sigma _ { 1 } - \\Sigma _ { 2 } ) \\pi ^ { 2 3 } = 0 , { } } } \\\\ { { { } } } \\\\ { { ( \\Sigma _ { 2 } - \\Sigma _ { 3 } ) \\pi ^ { 1 1 } + ( \\Sigma _ { 3 } - \\Sigma _ { 1 } ) \\pi ^ { 2 2 } + ( \\Sigma _ { 1 } - \\Sigma _ { 2 } ) \\pi ^ { 1 3 } = 0 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To obtain above equations, we also work in basis where $\\Sigma _ { i j }$ is diagonalized by $\\Sigma _ { i j } =$ $\\mathrm { d i a g } \\{ \\Sigma _ { 1 } , \\ \\Sigma _ { 2 } , \\ \\Sigma _ { 3 } \\}$ .the three eigenvalues are independent because usually $\\Sigma ^ { i j }$ does not satisfy the traceless condition. Despite this difference,our analysis can still be applied to this case and our conclusion is unchanged, the same difficulty remains. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One may choose not to impose the Hamiltonian constraint, this contradicts the requirement that the lapse function is a full-fledged function. Moreover, if one does not impose this constraint at the beginning, how can one obtain the usual Hamiltonian constraint in Einstein theory in the infrared regime? (This constraint is crucial in going back to the Newtonian limit） Finally, we want to remark that even if one can come up with some cure of this problem,it will be very difficult to come up with modified theory containing a spin 2 graviton. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note added: When this paper was reviewed, we were informed that another paper [10] holds a different opinion on the constraint structure in Horava-Lifshitz theory. We disagree with the result in [1O] for the following reason. Most of discussion in that work is based on a perturbative method,while this method is not suitable for discussing the fundamental degrees of freedom of a theory. For instance,the new constraints obtained in our paper are at least of the second order perturbations around Minkowski background (adopted in [1O]),so at the linear level they do not show up. However, these constraints already determine how many degrees of freedom a theory can have before one carries out a perturbative calculation. In summary, our point of view is that this perturbative method may be useful in solving equations of motion but is invalid for counting the number of degrees of freedom of a theory. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We thank Wei Song and Yong-Shi Wu for useful discussions. This work was supported by a NSFC Grant No. 10535060/A050207, a NSFC group Grant No. 10821504, and a 973 project Grant No. 2007CB815401. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] P.Horava,“Membranes at quantum criticality ”, JHEP 0903, 020 (2009),arXiv:0812.4287 [hep-th].   \n[2] P.Horava,“Quantum gravity at a Lifshitz point”, Phys.Rev. D 79, O84008 (2009), arXiv:0901.3775 [hep-th].   \n[3] E. M. Lifshitz,“On the theory of second order phase transitions I & II,” Zh. Eksp. Teor. Fiz 11 (1949) 255 & 269.   \n[4] B. S. DeWitt,“Quantum Theory of Gravity.I. The Canonical Theory”,Phys. Rev. 160, 1239-1256 (1967).   \n[5] Bin Chen, Shi Pi and Jin-Zhang Tang,“Scale Inuariant Power Spectrum in Horava-Lifshitz Cosmology without Matter”,arXiv:0905.2300v1 [hep-th].   \n[6] H.Nastase,“On IR solutions in Horava gravity theories”, arXiv:0904.3604v2 [hep-th].   \n[7] T.P. Sotiriou, M. Visser, S. Weinfurtner,“Phenomenologically viable Lorentz-violating quantum gravity”,arXiv:0904.4464v2 [hep-th].   \n[8] C.Charmousis,G. Niz,A. Padilla,P.M. Saffin，“Strong coupling in Horauva gravity”, arXiv:0905.2579v2 [hep-th].   \n[9] S.Mokohyama,“Dark matter as integration constant in Horava-Lifshitz gravity”, arXiv:0905.3563v2 [hep-th].   \n10] D. Blas, O.Pujolas, S. Sibiryakov,“On the Extra Modes and Inconsistency of Horava gravity”,arXiv:0906.3046v1 [hep-th]. ",
+        "page_idx": 11
+    }
+]

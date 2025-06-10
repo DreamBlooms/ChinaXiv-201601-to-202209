@@ -1,0 +1,470 @@
+[
+    {
+        "type": "text",
+        "text": "标准必要专利许可费困境及其形成机制研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖延高\\* 邹亚唐苗",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "电子科技大学经济与管理学院成都611731",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要由于标准必要专利的“公平、合理和无歧视”原则是一项松散承诺，使得专利权人和标准实施者难以通过谈判就许可费达成一致，标准必要专利许可费困境业已成为学术界和企业界共同关注的课题。文章结合既有文献和司法判例，立足标准必要专利的共享性和私权性双重属性，厘清标准必要专利许可费困境的形成原因，分析标准必要专利许可费形成机制，进而总结标准必要专利许可费影响因素。这不仅有利于丰富标准必要专利许可费问题的理论研究，而且能为标准必要专利许可实践提供有益启示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词标准必要专利，FRAND原则，许可费，形成机制 DOI 10.16418/j.issn.1000-3045.2018.03.005 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "斯坦福大学法学院莱姆利（Lemley）教授和加州大学哈斯商学院夏皮罗（Shapiro）教授的合作研究表明，由于公平、合理和无歧视（fair，reasonableand nondis-criminatory，FRAND）原则是一项松散承诺（loosecommitment），使得标准必要专利权利人和标准实施者很难就标准必要专利（standard essential patent，SEP）许可费问题达成一致意见，由此形成标准必要专利许可费困境[1]。为此，该文献提出了一项解决标准必要专利许可费困境的方案，即棒球规则（“baseball-style”或“finaloffer”）。Lerner和Tirole[2也发现宽松的FRAND承诺会让标准必要专利权人和实施者通常会因许可费问题花费大量时间对簿法庭，导致标准必要专利许可费达成成本过高，而且往往并不是双方的满意解。比如，在微软诉摩托罗拉标准必要专利许可费一案中①，微软认为摩托罗拉的许可费要约并不合理，违背了标准必要专利许可的FRAND原则，而摩托罗拉则认为微软公司在谈判时并没有遵循诚信原则。两家公司迟迟未就许可费达成一致意见，最后只能诉至法院。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国加入世界贸易组织以来，由于外国领先企业与本土后发企业之间存在技术差距[34]，使得标准必要专利许可费困境在外国领先企业与后发企业之间表现尤为突出，而且情形更加复杂。比如，华为诉IDC标准必要专利许可费案（2011年）、爱立信诉小米标准必要专利许可费案（2014年）、高通诉魅族标准必要专利许可费案（2016年）、UPI诉华为标准必要专利许可费案（2014年）等一系列案件。因此，结合既有文献和司法判例，厘清标准必要专利许可费困境的形成原因，分析标准必要专利许可费形成机制，进而总结标准必要专利许可费影响因素，不仅有利于丰富标准必要专利许可费问题的理论研究，而且能为标准必要专利许可实践提供有益启示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1标准必要专利许可费困境及其形成原因",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1标准必要专利许可费困境的提出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "标准必要专利许可费问题引起学术界关注较早见于Lemley的研究[5]。该文献在调研全球36家标准组织的知识产权政策以后发现，尽管大多数标准组织制定了“合理、非歧视（RAND）”政策，以引导标准必要专利许可费谈判，但专利权人和标准实施者仍然难以通过谈判达成一致。当专利纳入标准成为标准必要专利以后，如何达成令专利权人和标准实施者各方都满意的标准必要专利许可费，也就成为标准必要专利许可的核心问题。一方面，标准必要专利权人希望专利纳入标准后能够获得比一般专利更高的许可费，因为该标准必要专利没有其他专利可替代；另一方面，标准实施者认为使用标准必要专利意味着必须放弃重新开发或绕开该专利技术的权利，同时专利权人承诺在其专利纳入标准后按照FRAND原则许可该标准必要专利，因此其许可费应比一般专利更低。标准必要专利权利人与实施者的期望费率差距使得许可费谈判往往陷入困境。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2标准必要专利的双重属性是导致许可费困境的根本原因",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "金岳霖将一个事物的性质与关系称作事物的属性与偶有属性不同，某类事物的特有属性指某类事物都具有，而别的事物都不具有的那些属性。事物的特有属性分为本质属性（某类事物的有决定性的特有属性）和固有属性（某类事物的派生的特有性）。标准必要专利的共享性和私权性双重特有属性，是导致其许可费困境的根本原因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1共享性是标准必要专利的本质属性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Samuelson[将社会产品分为私人产品和公共产品,并提出公共产品相对于私人产品而言具有显著的非竞争性和非排他性。Sanders研究表明，从本质上来看，标准化是人们有意识地努力使技术统一的做法，标准化本质在于技术的统一和共享，保护消费者利益及社会公共利益。因此，标准就是一种公共产品，是对技术资源的共享。从权利角度看，标准可以被看成是一种“资源共享权”，是相关利益主体共同享有社会资源的一种权利，不具有独占性和排他性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于标准制定组织来说，制定标准的目的在于技术的统一和共享，增加社会福利。比如，国际标准化组织（ISO）、国际电工委员会（IEC）和国际电信联盟（ITU）等标准组织为了顺利实施标准，要求专利权人将其专利纳入标准时，须签订许可声明，承诺实施标准的同时实施该专利[10]。因此，标准必要专利首先是一项标准，专利纳入标准成为标准必要专利后，专利权人必须放弃专利的部分核心权利即排他权或独占权，同意让标准实施者共同使用该项专利技术。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2私权性是标准必要专利的固有属性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从权利属性上看，专利是一种禁止他人为营利目的实施特定专利权技术的私权权利[1]。专利的私权化，是罗马法以来财产非物质化革命的结果[12]。《与贸易有关的知识产权协定》（Agreement on Trade-Related Aspects ofIntellectualPropertyRights，TRIPs）更是在“序言”中就肯定了对知识产权私权化的保护。从法律形态上看，私权是财产私有的法律形态[13]。专利权所针对的行为都直接与财产利益相关，对技术实施行为的控制是为了追求实施行为所带来的财产利益。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可见，与纳入标准的其他非专利技术不同，标准必要专利也是专利，具有因国家机关审查批准授权而派生的私权属性。标准必要专利的私权性是一种归属权利，表明其权利归属于专利权人。当专利权人将专利技术纳入标准时，虽然放弃了专利的排他性，但并没有放弃其权利归属。因此，私权性是标准必要专利衍化出来的固有属性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3标准必要专利双重属性的内在逻辑",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准必要专利的双重属性表明其兼具共享性和私权性双重属性，部分权利让渡是标准必要专利共享性和私权性共存的基础（图1）。标准必要专利权人放弃了对标准必要专利的排他性权利，由此衍生出标准实施者对标准必要专利的共享权利；标准实施者承认了标准必要专利的非公有性，即标准必要专利权利归属于专利权人。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "权利让渡引发的利益冲突是标准必要专利许可费难以达成的根由。技术标准在制定中若吸收专利技术，作为私权的专利必须服从公共利益而对专利权利做出让渡。专利权利一旦做出让渡，必然会引发利益冲突，导致标准必要专利许可费难以达成。对非标准必要专利而言，专利权人让渡其排他性权利产生的收益，原则上应属于专利权人；但是，标准必要专利本质上是标准，因此实施标准所产生的收益应属于社会福利范围。从这个意义上说，标准必要专利与非标准必要专利的根本区别在于，前者需要在满足专利权人和标准实施者双方利益最大化基础上达到社会福利最大化。这也是解决标准必要专利许可费困境的根本出发点。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/06b6dd4aa4df418d8a93eda54beec036271175f3e058df5822ab12e0b003a9e4.jpg",
+        "img_caption": [
+            "图1标准必要专利概念模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3FRAND承诺的松散性是导致标准必要专利许可费困境的直接原因",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FRAND原则是标准化组织多年来的一项知识产权许可政策，同时也是司法、行政执法处理标准必要专利许可费率的核心原则。按照美国司法部和专利商标局的解释，FRAND承诺旨在通过保护标准必要专利实施者免受专利劫持危害，从而促进技术的广泛应用；同时对于那些投资于标准技术的研究、开发和商业化的标准必要专利权利人给予合理的回报[4]。FRAND承诺本质上应该被看成一个合理的强制许可协议，即标准组织（SSOs）参与者都有义务向任何技术标准实施者提供符合FRAND原则的要约，只要后者愿意按照FRAND原则支付标准必要专利许可费，即可构成标准必要专利许可协议。诸多文献也试图运用FRAND原则来构建解决标准必要专利许可费问题的机制。如 Swanson 和Baumol[15]的假想谈判法，Layne-Farrar等[16]提出的有效组件定价规则和 Shapley 值法，以及美国联邦贸易委员会的次优替代标准的增量价值[17]等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，FARND原则往往是在司法判例中采用，在双方商业谈判时难以有效发挥其约束性。原因在于FRAND原则是一项松散的承诺，很难约束和指引标准必要专利权利人与实施者达成均衡的许可费。2011年以来，三星和苹果两家公司已经在10余个国家和地区进行了至少50场专利诉讼，直到2014年8月达成和解协议；截至2014年，苹果和谷歌仍陷于约20件专利法律诉讼中。欧盟委员会的统计数据表明，在1992—2011年期间发生的专利诉讼案中，标准必要专利诉讼案比例远高于非标准必要专利诉讼案，而且前者大多与公司进入标准化组织时所做的FRAND承诺有关[8]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4信息披露制度不完善是导致标准必要专利许可费困境的制度原因",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "专利信息披露制度是标准相关专利制度的核心和基础，各标准组织均鼓励参与其标准化工作的各方应尽早披露必要专利。如前所述，Lemley对36家标准组织知识产权政策的研究表明，大多数标准组织都明确或隐含了专利信息披露义务。美国国家标准协会在2012年的《实施ANSI专利政策的指导方针》中鼓励标准必要专利权利人在标准被采纳之前披露他们认为必要的专利信息[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，无论是标准组织制定的信息披露制度，还是各国《专利法》对专利信息披露的相关规定，都只是提出了信息披露的概念或模糊界限。大多数标准组织制定的信息披露制度并未明确规定标准必要专利权人信息披露的具体内容，而是需要专利权人自己去把握专利信息披露的边界和程度。更重要的是，标准组织并未明确规定当其成员不履行相应政策时，应采取何种措施以保障政策的实施，也未建立相应的纠纷解决机制[20]。马海生[2对29家信息与通信技术（ICT）领域具有重要影响的标准组织的专利披露制度进行了实证研究，发现多数标准组织在专利披露主体、内容、时间以及强制性等方面的政策仍非常空洞；而缺乏违约处罚机制的专利信息披露政策极大地提高了专利权人的谈判能力[22]。与此同时，标准必要专利权人也有可能过度披露其专利[23]，原因是： $\\textcircled{1}$ 标准必要专利权人担心在试图控告他人专利侵权时，会承担反垄断责任； $\\textcircled{2}$ 标准必要专利权人想要在一组专利组合中向其竞争对手和股东呈现出一种占支配地位的姿态。无论是信息披露违约成本较低引发的信息披露不充分，还是因担心受到反垄断法的规制而可能出现的信息过度披露，信息披露制度的不完善加剧了标准必要专利权人和专利实施者之间的谈判困难，增加了交易谈判时间成本或财务成本，不利于许可费的达成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2标准必要专利许可费形成机制的司法实践",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在司法实践中，标准必要专利许可费的确定，通常由法官根据案件的具体情况，以FRAND原则为指导，行使自由裁量权，自行选择适当的方法对标准必要专利侵权损害赔偿做出判断，具有事后性特点。概而言之，标准必要专利许可费的确定方法主要有5种类型，即假设性协商法、专利池比较法、分摊原则、比例原则以及比较分析法（表1）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）假设性协商法。早在1946年，美国专利法就提出可以通过“合理许可费”（又称假设性协商法）的方法来计算专利侵权损害赔偿金[24]。这一方法不仅为美国专利侵权诉讼损害赔偿金的计算提供了理论依据，同时也为学者研究专利许可费提供参考。假设性协商法不仅适用于一般专利，对标准必要专利同样适用。该方法是1995年Rite-Hite诉Kelley案中提出，用于计算一般专利许可费②。2013年微软诉摩托罗拉一案采用了该方法来计算标准必要专利许可费，其主要观点是：合理的专利许可费是以发现侵权时将专利权人和被告侵权人假想成有自愿许可意愿的许可方和被许可方，双方通过协商可能达成合意的许可费。通过假设性协商法来确定合理许可费一般有2个步骤： $\\textcircled{1}$ 确定许可费基础（一般情形下应该使用最小可销售专利实施单元作为计算许可费的基础）； $\\textcircled{2}$ 确定合理许可费率。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/949e076bfc171f850007868cd258fe0ed0e199903835f7109167784c7091368f.jpg",
+        "table_caption": [
+            "表1SEP 许可费形成机制的司法实践"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>定价机制</td><td>判例</td><td>主要观点</td></tr><tr><td></td><td>美国《专利法》 (1946年) 假设性协商法 Rite-Hite诉Kelley (1995年) 微软诉摩托罗拉 (2013年)</td><td>以侵权发生时，将专利权人和被诉侵权人假想成有自愿许可意愿的许可方和被许可方。双方 通过协商可能达成合意的许可费。</td></tr><tr><td>专利池比较法微软诉摩托罗拉 (2013年)</td><td></td><td>专利池比较法通常包含4个步骤：①寻找可比较的专利池对象；②判断专利池的可指示性和 强度；③模拟假想谈判确定专利许可费率范围；④通过许可费上限来确定专利许可费范围。</td></tr><tr><td>分摊原则</td><td>Uniloc诉微软 (2011年) Laser Dynamics诉Quanta Computer (2012年) 爱立信诉友讯 (2013年)</td><td>分摊原则既可用于一般专利，也可用于FRAND承诺下的标准必要专利。在计算FRAND许可 费时，应“最小可售专利零部件”作为计算专利许可费的起点。</td></tr><tr><td></td><td>比例原则In re Innovatio IPVentures有限责任公司 (2013年)</td><td>标准必要专利许可费率可以用基于专利权人持有的标准必要专利占覆盖标准的标准必要专利 总数比例来确定。</td></tr><tr><td></td><td>比较分析法 华为诉IDC案 (2011年)</td><td>以IDC许可苹果的标准必要专利许可费作参照，以终端产品的销售价格为计费基础。</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）专利池比较法。专利池比较法因以专利池比较为核心而得名。在前述微软诉摩托罗拉案中，涉案专利归属于H.264标准和802.11标准，而这两个标准下的专利权人均建立了专利池，即H.264专利池和802.11专利池。用专利池比较法计算许可费通常有4个步骤： $\\textcircled{1}$ 寻找可比较的专利池对象，考查侵权专利所在技术标准是否构建专利池； $\\textcircled{2}$ 判断专利池的可指示性和强度； $\\textcircled{3}$ 模拟假想谈判确定专利许可费率范围； $\\textcircled{4}$ 通过许可费上限确定专利许可费范围。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（3）分摊原则。分摊原则是指确定专利许可费率基础时应将侵权损害赔偿“分割”到侵权产品对应的专利技术特征上，禁止将非专利技术特征包含在内，即除去与涉案专利无关的产品价值[25]。在Uniloc诉微软一案中③，法官认为如果一件产品中包含多个零部件，在计算专利侵权损害赔偿时若以终端产品为基础，则会产生较大风险，同时专利权人也会因此获得非侵权零部件收益。在后来的Laser Dynamics 诉Quanta Computer④和爱立信诉友讯案中，法院肯定了分摊原则的重要性，即按最小可售单元作为标准必要专利许可费计算基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4）比例原则。比例原则是一种定量计算方法。该原则认为在确定FARND许可费基础时，可以根据专利权人所持标准必要专利占所覆盖标准中标准必要专利总数比例来确定。该方法是在InreInnovatio IPVentures有限责任公司专利诉讼案中提出并采用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（5）比较分析法。比较分析法是在华为诉IDC一案[2中首次提出。在该案中，法官以IDC许可苹果的标准必要专利许可费作为参照，原因是苹果获取的许可费率是通过和IDC公司平等自愿协商确定，并且IDC许可苹果的许可费在全球通用，因此法院认为该许可费具有可比性。最终法院判决IDC给予华为的标准必要专利许可费为 $0 . 1 9 \\%$ （IDC许可给苹果的许可费率为$0 . 0 1 8 7 \\%$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "法院在确定标准必要专利许可费时并不拘泥于一种方法，通常一个案例中常常采用多种方法来确定。这些计算标准必要专利许可费的原则和方法为标准必要专利许可费的定价提供了司法借鉴和实践经验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3标准必要专利许可费定价机制的经济学分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与司法实践相辅相成的是，经济学界试图用经济学模型或数学公式来刻画和解释标准必要专利许可费的影响因素及其机制优化。概而言之，主流理论和方法有4种，即事前竞标模型、ECPR和 Shapley 值法、比例贡献法和Top-Down法以及棒球规则（表2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）事前竞标模型。Swanson和Baumol[认为合理的标准必要专利许可费率应该以标准组织建立标准时的假想谈判为基础，并据此建立了事前竞标模型（Ex-AnteAuctionModel）来分析标准必要专利许可费。事前竞标模型认为标准必要专利合理许可费应为标准建立之前的技术价值，而非标准建立后因标准而获得的垄断价值。其核心思想是，构成标准的各项专利许可费应该由标准建立之前相似技术相互竞争的状况来决定，并选择报价最低的类似技术许可费作为标准必要专利的FRAND许可费。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）ECPR法和Shapley值法。Layne-Farrar等[7]提 出两种基于FRAND的经济学模型，即基于市场竞争的 有效成分定价规则（Efficient Component-Pricing Rule, ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ECPR）和基于合作博弈理论和公平分配租金的 Shap-ley 值法。事前竞标模型解决了具有竞争性专利价值，但无法给出互补性专利价值分析方案。ECPR法和 Shap-ley值法则很好地解决了合作博弈中各方应得利益的分配问题。技术标准中的各项专利存在互补性，专利权人为了最大化个人利益，必须与其他标准参与者进行博弈，这是一个典型的合作博弈过程。ECPR法和 Shapley 值法解决了互补性专利中各专利权人的收益问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）比例贡献法和Top-Down法。Sidak[27提出计算标准必要专利许可费的比例贡献法和Top-Down 法,即FRAND许可费 $\\cdot =$ 最终用户产品价格 $\\times$ （标准贡献/产品价值） $\\times$ （专利贡献/标准价值），FRAND许可费 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （最小畅销组件价格 $\\cdot \\times$ 平均利润率 $. { \\times }$ 专利贡献）/标准价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）棒球规则。如前所述，Lemley和 Shapiro提出采用棒球规则仲裁解决标准必要专利权人和专利实施者之间的合理许可费问题。在这种模式下，专利许可人和被许可人双方各自提供一个最终报价给仲裁机构，而仲裁机构必须从两个报价中挑选出一个报价作为最终的标准必要专利许可费，且仲裁机构不得自行修改报价。在棒球规则下，专利许可人和被许可人出于自身参与博弈的支付最大化考虑，可以给出趋近一致的均衡报价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4研究述评与展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1标准必要专利许可费形成机制述评",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过上述分析，本文发现在司法实践中，标准必要专利许可费的计算通常采用了假设性协商法，并结合分摊原则和比例原则，充分考虑专利对标准或者产品的贡献度，以最小可售单元作为计算基准来计算最后的许可费。同时，法院在参考一般专利许可费计算原则基础上，做出符合标准必要专利特性的修改。如在微软诉摩托罗拉案中，法官在基于一般专利影响因素的基础上，对先前的Georgia-Pacific 案的15个因素进行修正，最终确定合理的许可费率。通过法院判决来确定许可费虽有很多优点，但同时也存在一些不足之处。首先，由法院裁决的许可费具有主观性，法官在案件中具有充分的自由裁量权。其次，上述方法和规则具有事后性特点。比如，假设性协商法便是假定侵权发生时双方通过协商可能达成合意的许可费。然而法院在采用该方法时，专利侵权事实上已经发生。此外，通过司法裁决确定标准必要专利许可费的成本较高，双方需要耗费大量人力物力财力，这对公司来说是一笔不小的负担。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在应用经济学理论和方法来计算标准必要专利许可费时，本文发现事前竞标模型和Shapley值法都证明了应当通过“事前协商”来确定标准必要专利的许可费，而非专利被纳入标准之后计算许可费。Shapley值法是事前竞标模型的补充，它主要解决互补专利之间专利权人利益分配问题。比例贡献法和Top-Down法则更多从产品角度出发，通过分析标准必要专利在产品中的技术贡献来计算许可费。因此，该方法更有效地结合了市场因素。而Lemley和Shapiro提出的仲裁机制则考虑到了专利权人和实施者双方的博弈，为避免标准必要专利许可费诉讼提供良好的解决路径。事前竞标模型和Shapley值法是对假设性协商法的经济学解释，两者均假设通过“事前协商”来确定标准必要专利许可费；比例贡献法和TopDown法则是对分摊规则和比例原则的经济学解释，两者均认为应以最小可售单元作为许可费计算基准。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9282591435d8bc5c45603490c244d458e1e73d7ad63207abfd41af85b7b523d.jpg",
+        "table_caption": [
+            "表2SEP许可费形成机制的经济学分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>定价机制</td><td>作者</td><td>主要观点</td></tr><tr><td>事前竞标模型</td><td>Swanson和Baumol (2005年)</td><td>构成标准的各项专利许可费应该由标准建立之前相似技术相互竞争的状况来决定，并选择报价最 低的类似技术许可费作为标准必要专利的FRAND许可费</td></tr><tr><td>ECPR法和Shapley值法</td><td>Layne-Farrar等 (2007年)</td><td>ECPR和Shapley值法解决了互补性专利中各专利权人的收益均衡问题</td></tr><tr><td>比例贡献法和Top-Down法 Sidak (2013年)</td><td></td><td>FRAND许可费=最终用户产品价格×（标准贡献/产品价值）×（专利贡献/标准价值） FRAND许可费=(最小畅销组件价格×平均利润率×专利贡献）/标准价值</td></tr><tr><td>棒球规则</td><td>Lemley和Shapiro (2013年)</td><td>专利许可人和被许可人双方各自提供一个最终报价给仲裁机构，仲裁机构从两个报价中挑选出 个报价作为最终的标准必要专利许可费</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可见，经济学方法为司法实践提供了包括数学模型在内的理论解释，两者相得益彰，共同为标准必要专利许可费的计算提供丰富的理论和实践经验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2标准必要专利许可费影响因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如前所述，1956年Georgia-Pacific案总结的15个因素，即对标准必要专利价值的确定应排除专利因标准而产生的额外价值，为专利许可费的计算提供了明确的指引。2013年微软诉摩托罗拉案中，法官将这15个因素进行了修正，以更好地用于计算标准必要专利的FARND许可费计算。结合修正的Georgia-Pacific 因素和管理经济学研究成果，本文从技术、市场、法律三个维度给出标准必要专利许可费影响因素（表3）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总而言之，由于FRAND原则是一项松散承诺，使得标准必要专利权利人和标准实施者很难在事后就标准必要专利许可费问题达成一致意见，并由此形成标准必要专利许可费困境。标准必要专利的共享性和私权性双重属性是导致许可费困境的根本原因，同时FRAND承诺的松散性以及信息披露制度不完善进一步加大了标准必要专利FRAND许可费的形成难度。迄今，标准必要专利的司法实践和经济学分析为许可费的计算提供了诸多司法依据和计算方法。走出标准必要专利许可费困境，有必要从技术、市场、法律三个维度给出标准必要专利许可费影响因素，进而综合考虑标准必要专利情形下专利权人和实施者效用以及社会福利的均衡，构建和优化标准必要专利许可费的形成机制。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1 Lemley MA, Shapiro C.A simple approach to seting reasonable royalties for standard-essential patents.Berkeley Technology Law Journal,2013,28(2): 1135-1166.   \n2 Lerner J,Tirole J. Standard-essential patents.The Journal of Political Economy,2015,123(3): 547-586.   \n3Hobday M. East Asian latecomer firms: Learning the technology of electronics.World Development, 2004,23(7):1171-1193.   \n4Mathews JA.Competitive advantages of the latecomer firm:Aresource-based account of industrial catch-up strategies.Asia Pacific Journal of Management,2002,19(4): 467-488.   \n5Lemley M A. Intellectual property rights and standard-setting organizations. California Law Review,2002,90(6):1889-1980.   \n6 秦天雄.标准必要专利许可费率问题研究．电子知识产权, 2015,(3): 84-89.   \n7金岳霖.形式逻辑.北京:人民出版社,1979:14-42.   \n8Samuelson PA.The pure theory of public expenditure.The Review of Economics and Statistics,1954,36(4): 387-389.   \n9Sanders TR B.The aims and principles of standardization. Geneva: International Organization for Standardization,1972. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10付淑云.ITU-T/ITU-R/ISO/IEC的共同专利政策实施指南(上).",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/938ba277fdcc8b97d39d0676d197f6f11bc9de2d40f053ddeda2ee68b0a8f6ee.jpg",
+        "table_caption": [
+            "表3标准必要专利许可费影响因素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>分析层面</td><td>影响因素</td></tr><tr><td>技术层面</td><td>① 标准必要专利权人在标准制定过程中的参与程度；②除去专利技术被标准采用所带来的价值之外的、专利技术自身的价值；③ 在确定 FRAND许可费时，应考虑的比较对象是在制订标准时可用的替代技术；④该专利对标准的技术层面的贡献；③被许可人为使用与该专利具有 可比较性的其他专利所支付的许可费，或专利权人在做出FRAND许可承诺情况下，对该专利曾收取的许可费；③FRAND许可承诺要求许可人给 予的许可期限应可达到专利有效期</td></tr><tr><td>市场层面</td><td>①在该特定商业领域或类似；的商业领域可，为许可使用该专利技术或似基的花费在利润或售价中通常所占的比例；②在可实现利润中应</td></tr><tr><td>法律层面</td><td>①标准必要专利被宣告无效的可能性；②标准必要专利的权利保护范围；③标准必要专利的地域保护范围；④标准必要专利的时间保护范围</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "信息技术与标准化,2008,(10):41-43.   \n11 刘春田.知识产权法.北京:中国人民大学出版社,2014.   \n12 吴汉东.知识产权的私权与人权属性—以《知识产权协 议》与《世界人权公约》为对象.法学研究,2003,(3):66-78.   \n13 吴汉东.关于知识产权私权属性的再认识——兼评“知识产 权公权化”理论.社会科学,2005,(10):58-64.   \n14 U.S.DOJ and PTO.Policy statement on remedies for standards-essential patents subject to voluntary F/R and commitments.[2013-   \n01-08]. http://www.justice.gov/atr/public/guidelines/290994.pdf.   \n15 Swanson D G, Baumol W J. Reasonable and nondiscriminatory (RAND) royalties,standards selection,and control of market power.AntitrustLaw Journal,2005,73(1):1-58.   \n16 Layne-Farrar A,Padilla J,Schmalensee R.Pricing patents for licensing in standard setting organisations: Making sense of FRAND commitments.Antitrust Law Journal,2007,74(3): 671-706.   \n17 U.S.FTC. The evolving IP marketplace: aligning patent notice and remedies with competition. [2011-03-05]. http://www.ftc.gov/ os/2011/03/110307patentreport.pdf.   \n18 European Commission. Competition policy brief: standard-essential patents.[2014-06-03]. http://ec.europa.eu/competition/publica tions/cpb/2014/008_en.pdf. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19 Willingmyre G.History of the patent policy of the American national standards institute.[2014-06-15].https://ssrn.com/ abstract=2451165. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20 朱雪忠，李闯豪.论默示许可原则对标准必要专利的规制.科技进步与对策,2016,(23):98-104.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "21马海生.标准化组织的专利披露政策实证分析．电子知识产权，2009,(6):37-43.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "22 Lemely M A.Ten things to do about patent hold up of standards (And one not to).Boston College Law,2007,48(1): 149-168. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23Lim D. Standard essential patents,trolls,and the smartphone wars: triangulating the end game.Penn State Law Review,2014,119(1): 1-91. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24 阮开欣.解读美国专利侵权损害赔偿计算中的合理许可费方法.中国发明与专利,2012,(7):64-68.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25 杨东勤.确定FRAND承诺下标准必要专利许可费费率的原则和方法—基于美国法院的几个经典案例.知识产权,2016,(2):103-109.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26 肖延高,童文锋，刘佳佳.华为专利狙击战的启示.中欧商业评论，2015,(11):42-47.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27 Sidak JG.The meaning of FRAND,part I: royalties. Journal of Competition Law and Economics,2013,9(4): 931-1055. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Research on Dilemma and Optimizing Mechanism of Royalties for Standard-essential Patents ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XIAO Yangao\\* ZOU Ya TANG Miao ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofManagementandEconomics,UniversityofElectronicScienceandTechnologyofChina,Chengdu611731,China） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AbstractItisdiicultfortheonerandlicenseeofstandard-esentialpatents(SEPs)toeachanex-ateagreementonoyatisby negotiationhn“fairasonable,andodscriiatory(FRAislooecomient.edilemofroyaltisofSEPsisoo hotisuforsholarsdaagrs.issechidatestattistealaturfsreablityndpatetotpubdd exclusive,chsesteilmafaltisofferads,tisstudyomaresfvejudicetodsHpoteicalgoatio PatentPool,iuleoiuledsrsocstidell ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ContributionRatio&Tp-ow,ndasebal-Style.Tealysissosthattheconomicmetodsprovidesomeablexplatiosfor judicialexpericdocs.oreoer,teyifuentialfctorsidingtenologyusis,ndgislatioaredeod. Keywordsstandard-essential patents (SEPs),FRAND,royalties, optimizing mechanism ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5f746edb1fe119c50acd9301b684149284685050cb96463b8f9ee529e4eac26.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "肖延高电子科技大学经济与管理学院副院长，电子科技大学中细软知识产权管理研究中心主任，博士，副教授。主要从事知识产权管理、创新管理的研究。英国谢菲尔德大学和美国科罗拉多大学访问学者，兼任四川省知识经济促进会秘书长，四川省法学会知识产权法研究会副会长。E-mail: xiaoyg@uestc.edu.cn",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "XIAO YangaoDeputy Dean and Associate Professor of the School of Management and Economics, University of Electronic Science and Technology of China (UESTC).His research interests include intellectual property management and innovation management. Dr. XIAO Yangao did research as visiting scholar in the University of ShefieldndteUniversityofColoadoHeisasoteScretaryeneralofSicanKowledgeEconomicssocationdViceCaian of the Intellectual Property Committee of Sichuan Law Society. E-mail: xiaoyg@uestc.edu.cn ",
+        "page_idx": 8
+    }
+]

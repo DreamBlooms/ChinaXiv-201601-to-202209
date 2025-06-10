@@ -1,0 +1,197 @@
+# 1982一2015年中国北方生长季NDVI变化及其对气温极值的响应
+
+何航，张勃，候启，李帅，马彬，马尚谦（西北师范大学地理与环境科学学院,甘肃 兰州730070)
+
+摘要：基于GIMMS NDVI3gv1.0数据集和日值气象数据,结合极端气温指数,辅以极点对称模态分解、趋势分析、Mann-Kendall趋势检验、相关分析等方法,探讨中国北方生长季植被覆盖及极端气温的变化特征,研究植被覆盖对气温极值的响应状况。结果表明： $\textcircled{1}$ 1982—2015年中国北方生长季NDVI以 $0 . 0 0 2 \cdot \left( 1 0 \mathrm { { a } } \right) ^ { - 1 }$ 的速率上升( $P <$ 0.05）,ESMD(极点对称模态分解方法)显示生长季 NDVI波动上升;针叶林、灌丛、荒漠植被、草地以及栽培植被呈增长趋势,栽培植被增速最快,针阔混交林、落叶阔叶林和高山植被呈不显著减少趋势。 $\textcircled{2}$ 空间上,NDVI显著增加区域超过全区的 $3 3 \%$ ,主要分布在天山、塔里木盆地北部、祁连山、陇南山区、黄土高原、河套平原、吕梁山和太行山、大别山以及辽西丘陵地区；显著下降区域仅占 $12 \%$ ,主要分布在大兴安岭、小兴安岭和长白山区。 $\textcircled{3}$ 极端气温指数中，除TNmean(日最低气温平均值)和 $\mathrm { T N n }$ （日最低气温极低值)呈上升趋势外,其余冷极值指数均呈下降趋势;所有暖极值指数均呈上升趋势;其他指数中,DTR(气温日较差)呈减小趋势,GSL(生长季日数)呈增加趋势。$\textcircled{4}$ 中国北方NDVI与极端气温指数的相关性表明,冷极值指数中NDVI与FDO（霜冻日数）、 $\mathrm { \Delta T N 1 0 p }$ （冷夜日数）、TX10p(冷昼日数)呈显著负相关( $P < 0 . 0 5 )$ ,与TNmean呈显著正相关( $P < 0 . 0 1$ );NDVI与所有暖极值指数呈正相关，与TR20（热夜日数）、TXmean（日最高气温平均值） $\mathrm { { . T X 9 0 p } }$ （暖昼日数）以及 $\mathrm { T N } 9 0 \mathrm { p }$ (暖夜日数)存在显著相关性（ $\textstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ;NDVI与GSL呈显著正相关( $\textstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ 。 $\textcircled{5}$ 天山、塔里木盆地北缘、祁连山区、河套平原、黄土高原、太行山和吕梁山区等 NDVI显著增加区域对极端气温指数的响应强烈。NDVI显著增加区主要对 FD0、TNmean、TN90p、GSL等指数响应较强。NDVI显著减少区域对指数的响应各异,主要与 SU25（夏季日数)呈显著负相关0 $( P < 0 . 0 5 )$ 。
+
+关键词：生长季；GIMMSNDVI $3 \mathrm { g }$ v1.0数据集；时空变化；极端气温指数；响应；中国北方
+
+气候变化正在影响全球生态系统,植被作为全球生态系统的重要组成部分，对气候变化尤为敏感。近年来，确定气候变化如何影响植被变化受到了全球学者的广泛关注[1-3]。苔原、森林、高山植被、荒漠生态系统等均是对气候变化敏感的生态区域[4-6]。了解植被动态变化并确定其对气候变化的响应情况，对确定并保持生态系统的质量和状态至关重要[7-8]
+
+气候变化分为波动变化、趋势变化以及极端事件三类[9-10]。IPCC 第五次气候变化评估报告指出，气候变暖不仅包括平均状态的气候变化,还包括极端气候变化("]。过去一百年中国地表年均气温呈显著上升趋势，北方明显变暖，极端气温事件增多[12]。邓振镛等[13]指出,中国北方气温上升幅度高于全国平均气温，干燥和变暖是区内气候变化的突出趋势。世界气象组织（WMO）、气候学委员会（CCI）、全球气候研究计划（WCRP）、气候变化以及可预测性计划（CLIVAR）、气候变化检测监测和指标专家组(ETCCDMI)制定的极端气候指数，被用于极端气候的分析。众多学者基于极端气候指数对鄱阳湖流域、中国天山南北坡、呼伦贝尔草原、秦岭山地陕西段等地区的极端气候，特别是气温极值变化情景进行了研究(14-17]。除了关注极端气候事件本身外，近年来也有学者分别对新疆、陕甘宁地区、西北干旱区以及沿海地区的极端气候事件对植被覆盖变化的影响进行了深入研究[(8,10,18-19]。这些研究主要使用线性趋势分析法对NDVI及气候因子的时间变化趋势的分析，未能较好地反映要素在各阶段的变化，在变化程度上部分夸大或缩小了要素的上升趋势[20]。2013年极点对称模态分解方法（ESMD)的提出[21],为分析不同要素时间序列的非线性趋势变化特征提供了新的研究思路。
+
+气候变暖背景下,Sun等[22基于GIMMSNDVI数据对1982一2006年中国北方的植被动态进行评估后，表明中国北方植被覆盖率呈小幅上升趋势，且草地和农田的NDVI增加较多。中国北方不同区域的植被覆盖也发生了明显变化[23-25]。这些研究还显示，气温对植被变化的影响强于降水。基于此背景,本研究利用最新发布的GIMMSNDVI3gv1.0数据和日值气象数据，选取极端气温指数，运用趋势分析、极点对称模态分解、Mann-Kendall趋势检验、相关分析等方法，对中国北方植被覆盖时空变化特征、极端气温变化特征以及植被覆盖与气温极值之间的关系进行分析，这对了解近 $3 4 \mathrm { ~ a ~ }$ 中国北方植被覆盖变化和气温极值对植物生长的影响、推进中国北方生态工程建设和保障生态安全方面有重要意义。
+
+# 数据与方法
+
+# 1.1 研究区概况
+
+中国北方 $( 3 1 ^ { \circ } 2 3 ^ { \prime } \sim 5 3 ^ { \circ } 3 1 ^ { \prime } \mathrm { N } , 7 3 ^ { \circ } 4 0 ^ { \prime } \sim 1 3 5 ^ { \circ } 5 ^ { \prime } \mathrm { E } )$ ，主要指淮河一秦岭及其西线的延伸及其以北地区，土地面积约 $5 . 7 8 \times 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ 。区内地貌形态复杂多样，包括山地、高原、盆地、丘陵、平原等。地势西高东低，形成层层降低的阶梯状斜面。研究区主要位于温带气候区域，自东向西因水分递减而分为湿润、亚湿润、亚干旱以及干旱气候区。区内植被类型多样，形成了多样而独特的生物群落。
+
+# 1.2 研究数据
+
+遥感数据来自最新发布的GIMMS NDVI3gv1.0数据集，时间跨度自1981年7月至2015年12月。数据下载网址为https://ecocast.arc.nasa.gov/data/pub/gimms/3g.v1/。基于Matlab软件对数据进行预处理，将全球原始的ncd格式数据转成tiff 格式的中国北方NDVI数据集。采用最大值合成法（MVC）{26],获得月 NDVI值,对月 NDVI求平均得到生长季 NDVI。本研究将 $\mathrm { N D V I } < 0 . 1$ 的地区认为是“无植被区”,不做分析(27]。考虑中国北方不同地区植物生长季始期与末期不同，且中国北方冬季大部分植物停止生长或被冰雪覆盖，所以，确定5—9月为植物生长季[28]
+
+![](images/259f06a9ee550ce87cf5d04b8680302a646a27c431339cf6c3d355b0fb6312a0.jpg)  
+图1研究区植被类型  
+Fig.1Main vegetation forms in the study area
+
+气象数据来自中国气象科学数据共享服务网（http://cdc.cma.gov.cn）,选取中国北方15省共408个气象站点1982—2015年逐日气象资料，计算极端气温指数。
+
+植被数据来自中国科学院资源环境科学数据中心（http：//www.resdc.cn）。为便于分析,将相似植被类型合并为一类，最终将中国北方植被类型分为针叶林、针阔混交林、落叶阔叶林、灌丛、荒漠植被、草地、高山植被和栽培植被等8类（图1）。
+
+# 1.3 研究方法
+
+1.3.1极端气温指数本研究选取气候变化检测和指数专家组（expertteamonclimatechangedetec-tionandindices)推荐的极端气温指数(表1）。本研究将极端气温指数分为冷极值指数、暖极值指数以及其他指数3类。采用基于R语言编辑的RClimDex 程序完成指数计算[29]
+
+1.3.2极点对称模态分解方法极点对称模态分解方法（extreme-point symmetric mode decomposition,ESMD）是对经验模态分解方法（empiricalmodede-composition，EMD)的改进，该方法擅长寻找数据的变化趋势，能够从观测序列中分离出年际变化趋势和气候变化总趋势，是目前提取信号变化趋势的最新方法之一[19.30]。ESMD 方法模态分解主要将原始的时间序列 $X$ 分解为 $X = \sum _ { i = 1 } ^ { n } M _ { i } + R$ ,即利用ESMD将时间序列 $X$ 分解成一系列经验模态 $M$ 和一个趋势项 $R$ 。
+
+本研究除了使用线性趋势方法分析1982—2015年中国北方气温极值和NDVI的变化趋势外，还利用ESMD方法对气温极值和NDVI序列提取分析过去34a的长期变化趋势
+
+表1极端气温指数介绍  
+Tab.1 Introduction of the 18 extreme temperature indices   
+
+<html><body><table><tr><td>指标类型</td><td>ID</td><td>指数名称</td><td>定义</td><td>单位</td></tr><tr><td>冷极值</td><td>FD0</td><td>霜冻日数</td><td>年内日最低气温<0℃的日数</td><td>d</td></tr><tr><td></td><td>ID0</td><td>冰冻日数</td><td>年内日最高气温<0℃的日数</td><td>d</td></tr><tr><td></td><td>CSDI</td><td>冷持续日数</td><td>年内连续6d最低气温小于第10个百分位数值的日数</td><td>d</td></tr><tr><td></td><td>TNmean</td><td>日最低气温平均值</td><td>日最低气温的平均值</td><td>C</td></tr><tr><td></td><td>TN10p</td><td>冷夜日数</td><td>年内日最低气温小于第10个百分位数值的日数</td><td>d</td></tr><tr><td></td><td>TX10p</td><td>冷昼日数</td><td>年内日最高气温小于第10个百分位数值的日数</td><td>d</td></tr><tr><td></td><td>TNn</td><td>日最低气温极低值</td><td>每月日最低气温的最小值</td><td>℃</td></tr><tr><td></td><td>TXn</td><td>日最高气温极低值</td><td>每月日最高气温的最小值</td><td>℃</td></tr><tr><td>暖极值</td><td>SU25</td><td>夏季日数</td><td>年内日最高气温>25℃的日数</td><td>d</td></tr><tr><td></td><td>TR20</td><td>热夜日数</td><td>年内日最低气温>20℃的日数</td><td>d</td></tr><tr><td></td><td>WSDI</td><td>暖持续日数</td><td>年内连续6d最高气温大于第90个百分位数值的日数</td><td>d</td></tr><tr><td></td><td>TXmean</td><td>日最高气温平均值</td><td>日最高气温的平均值</td><td>C</td></tr><tr><td></td><td>TN90p</td><td>暖夜日数</td><td>年内日最低气温大于第90个百分位数值的日数</td><td>d</td></tr><tr><td></td><td>TX90p</td><td>暖昼日数</td><td>年内日最高气温大于第90个百分位数值的日数</td><td>d</td></tr><tr><td></td><td>TNx</td><td>日最低气温极高值</td><td>每月日最低气温的最大值</td><td>℃</td></tr><tr><td></td><td>TXx</td><td>日最高气温极高值</td><td>每月日最高气温的最大值</td><td>℃</td></tr><tr><td>其他</td><td>DTR</td><td>气温日较差</td><td>年内日最高气温和日最低气温的差值</td><td>℃</td></tr><tr><td></td><td>GSL</td><td>生长季日数</td><td>连续6d平均气温>5℃及连续6d平均气温<5℃的时间跨度</td><td>d</td></tr></table></body></html>
+
+1.3.3其他方法Mann-Kendall法作为一种非参数检验方法，直接采用观测数据的秩序，而不必事先假定数据的分布特征，能较好地处理缺失值和异常值，适用于气象、水文数据时间序列变化的趋势分析[31-33],本研究采用 Mann-Kendall 趋势检验方法对气候极值的变化趋势进行显著性检验。此外，一元线性回归趋势分析法被用于模拟每个栅格的变化趋势,反映 NDVI变化趋势的空间特征[34-35]。Pear-son相关系数被用于量化NDVI与不同极端气温指数之间的相关性。
+
+# 2 结果与分析
+
+# 2.1 植被覆盖变化
+
+图2显示了近 $3 4 \mathrm { ~ a ~ }$ 中国北方及不同植被类型生长季NDVI的时间变化特征。结果表明,中国北方生长季 NDVI以 $0 . \ 0 0 2 \ \cdot \ ( \ 1 0 \mathrm { a } ) \ ^ { - 1 }$ 的速率增加（ $\textstyle P < 0 . 0 5 ,$ ），植被覆盖状况改善。ESMD方法显示，1982—1992年NDVI逐渐升高，直至2005年略有下降，随后又逐渐升高，NDVI波动增加。
+
+不同植被类型的变化特征各不相同。线性趋势方法显示针叶林、灌丛、荒漠植被、草地以及栽培植被的NDVI呈增加趋势，增速分别为0.003·$\left( 1 0 \mathrm { a } \right) ^ { - 1 } \mathrm { _ { \surd } 0 . ~ } 0 0 4 \mathrm { ~ \cdot ~ } \left( 1 0 \mathrm { a } \right) ^ { - 1 } \left( P < 0 . \mathrm { ~ } 0 1 \right) \mathrm { _ { \surd } 0 . ~ } 0 1$ 02·（204号 $( 1 0 \mathrm { a } ) ^ { - 1 } \left( P < 0 . 0 5 \right) . 0 . 0 0 3 \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \left( P < 0 . 0 5 \right)$ 以及 $0 . 0 0 8 \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \left( P < 0 . \mathrm { 0 0 1 } \right)$ ,栽培植被增速最快。针阔混交林、落叶阔叶林和高山植被呈减少趋势,减小速率分别为 $\left. \ - 0 . 0 0 3 \cdot \left( \ 1 0 \mathbf { a } \right) ^ { - 1 } \cdot \mathbf { \sigma } - 0 . 0 0 1 \cdot \mathbf { \sigma } \right.$ (10a）-¹和 $- 0 . 0 0 2 \cdot \left( 1 0 \mathrm { { a } } \right) ^ { - 1 }$ ,变化不显著。ESMD方法显示，针叶林和落叶阔叶林均表现出先增加，1990s 中期开始减少，2005年后趋于平缓的变化趋势;针阔混交林、灌丛、荒漠植被、草地和栽培植被的变化趋势与整个中国北方NDVI的变化趋势较为相似，均表现出先增加，1990s中期开始减少，2000s中期开始增加的趋势;高山植被表现出先减少后增加，2000年后呈缓慢的下降趋势。
+
+图3显示了中国北方生长季NDVI、NDVI变化趋势以及NDVI显著变化的空间分布情况。$\mathrm { N D V I } < 0 . 1$ 的地区主要集中在西北地区，包括新疆中部、青海北部、甘肃西北部和内蒙古西部。中国北方NDVI值从东南向西北逐渐降低,NDVI高值区主要集中在平原、山地、河谷和绿洲。黄土高原地区生长季NDVI增速最快，植被退化速度最快的区域主要集中在大小兴安岭以及长白山一带。NDVI增加的区域超过全区 $6 2 . 8 \%$ ，显著增加的区域超过
+
+![](images/d959f1ad681498e2bc299ffe03c2a691bbca67899d272533171a1582ff55d34f.jpg)  
+图21982—2015年中国北方不同植被类型生长季 NDVI的年际变化及趋势
+
+![](images/24b81cd65f02e6791492eea01a00ec4edc32b648440eb051c98d1587e060ce48.jpg)  
+Fig.2InteranualvariationsandtrendsoftheNDVIofdiferentvegetationformsinNorthChinaingrowngseasonfrom1982to2015   
+图31982—2015 年中国北方生长季 NDVI空间变化  
+Fig.3Spatial variation of the NDVIin North China in growing season from 1982 to 2015
+
+$3 3 \%$ ,主要分布在天山、塔里木盆地北部、祁连山、陇南山区、黄土高原、河套平原、吕梁山和太行山、大别山以及辽西丘陵地区。减少的面积约占整个地区的$3 7 . 2 \%$ ,显著减少的面积约 $12 \%$ ,主要分布在大兴安岭、小兴安岭和长白山区。
+
+# 2.2极端气温变化
+
+2.2.1冷极值图4显示了气温冷极值指数的时间变化趋势，表2为Mann-Kendall趋势检验结果。
+
+![](images/ea55df0706ec93a81876c84af57c140fc518bf1235cc82c85261337f1c3b9f67.jpg)  
+图4极端气温指数的年际变化及趋势  
+Fig.4Interannual variations and trends of the extreme temperature indices in North China from 1982 to 2015
+
+# 表2冷极值气温指数趋势检验
+
+Tab.2Test results of the trends of cold extreme temperature indices   
+
+<html><body><table><tr><td>指数</td><td>趋势检验 单位</td></tr><tr><td>FD0</td><td>-4.534 *** d·(10a）-1</td></tr><tr><td>CSDI -0.459</td><td>d·(10a）-1</td></tr><tr><td>TN10p</td><td>d·(10a）-1 -2.585 ***</td></tr><tr><td>TNn 0.154</td><td>C·(10a)-1</td></tr><tr><td>ID0 -1.006</td><td>d·（10a）-1</td></tr><tr><td>TNmean</td><td>0.427 *** C·（10a)-1</td></tr><tr><td>TX10p -1.783***</td><td>d·(10a）-1</td></tr><tr><td>TXn</td><td>-0.088 ℃·(10a)-1</td></tr></table></body></html>
+
+注：\*表示相关性在 $P < 0 . 0 5$ 水平显著; $* *$ 表示相关性在 $P < 0 . 0 1$ 水平显著; $* * *$ 表示相关性在 $P < 0 . 0 0 1$ 水平显著。下同。
+
+结果显示，多数冷极值指数呈下降趋势。近34a来,FD0、TN10p和 $\mathrm { T X 1 0 p }$ 分别以4.534d·（20 $\left( 1 0 \mathrm { { a } } \right) ^ { - 1 } \mathrm { { \Omega } _ { \mathrm { { \Omega } } } - 2 . \ 5 8 5 \mathrm { { \textrm { d } } \cdot \ \left( \ 1 0 \mathrm { { a } } \right) ^ { - 1 } \ } }$ 和－1.783 d·（10a）-的速率显著下降，TNmean以 $0 . 4 2 7 \ { ^ { \circ } } \mathrm { ~ \textcircled { C } }$ ：（10a）-的速率逐渐升温( $P < 0 . 0 0 1 { \ : } )$ 。ESMD方法显示冷极值指数的变化趋势各异：FD0、IDO和$\mathrm { T X 1 0 p }$ 变化趋势相似,均表现出先迅速下降、2005年后平稳变化的趋势；CSDI和TN10p则显示出先下降、1995年左右达到最低值，后波动上升的变化趋势。多数冷极值指数呈下降趋势，说明随着气候变暖、日最低气温逐渐升高，表征低温事件的极端气温冷极值指数多数呈下降趋势。
+
+2.2.2暖极值图4显示了气温暖极值指数的时间变化趋势，表3为Mann-Kendall趋势检验结果。所有暖极值指数均呈显著上升趋势， $\mathbb { W } \mathrm { S D I } , \mathrm { T X x } .$ SU25、TR20、TXmean、 $\mathrm { T N } 9 0 \mathrm { p }$ 、TX90p 和TNx分别以$1 . 2 5 1 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ 1 0 a ~ ) ~ } ^ { - 1 } \mathrm { ~ , ~ } 0 . 4 4 9 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 a ~ ) ~ } ^ { - 1 } \mathrm { ~ , ~ } 4 . 7 0 4 \mathrm { ~ d ~ } \cdot$ ( $\left| 0 \mathbf { a } \right. \mathbf { \Sigma } ^ { - 1 } \mathbf { \Sigma } _ { \mathrm { { \Large ~ 2 ~ . ~ } } } 7 5 8 \mathrm { ~ d ~ } \cdot \mathbf { \Sigma } \left( \mathbf { \Lambda } 1 0 \mathbf { a } \right) \mathbf { \Sigma } ^ { - 1 } \mathbf { \Sigma } _ { \mathrm { { \Large ~ 0 ~ . ~ } } } 3 4 \mathrm { ~ } \mathrm { ~ } \mathrm { { \Large ~ C ~ } } \cdot \mathbf { \Sigma } \left( \mathbf { \Lambda } 1 0 \mathbf { a } \right) \mathbf { \Sigma } ^ { - 1 } \mathbf { \Sigma } _ { \mathrm { { \Large ~ 0 ~ . ~ } } }$ $4 . 3 2 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 } \mathrm { ~ . ~ } 3 . 1 8 3 \mathrm { ~ d ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { ~ a ~ ) ~ } ^ { - 1 }$ 和 $0 . 4 5 6 ~ \mathrm { ^ { \circ } C }$ ·（10a）-1的速率呈上升趋势。ESMD估计方法显示，暖极值指数大致表现了自1982年开始波动上升并在2000s初略有下降的变化趋势。日最高气温逐渐升高，表征高温事件的极端气温暖极值指数呈上升趋势，对全球气候变暖呈正响应。
+
+表3暖极值气温指数趋势检验  
+Tab.3Test results of the trends of warm extreme temperature indices   
+
+<html><body><table><tr><td>指数</td><td>趋势检验</td><td>单位</td></tr><tr><td>SU25</td><td>4.704 ***</td><td>d·(10a）-1</td></tr><tr><td>WSDI</td><td>1.251 **</td><td>d·(10a）-1</td></tr><tr><td>TN90p</td><td>4.32 ***</td><td>d·(10a)-1</td></tr><tr><td>TNx</td><td>0.456 ***</td><td>C·（10a)-1</td></tr><tr><td>TR20</td><td>2.758 ***</td><td>d·(10a）-1</td></tr><tr><td>TXmean</td><td>0.34***</td><td>C·（10a)-1</td></tr><tr><td>TX90p</td><td>3.183 ***</td><td>d·(10a)-1</td></tr><tr><td>TXx</td><td>0.449 **</td><td>C·(10a)-1</td></tr></table></body></html>
+
+2.2.3其他指数图4显示了气温日较差和生长季日数的时间变化趋势，表4为Mann-Kendall趋势检验结果。DTR以 $- 0 . 0 8 7 \mathrm { ~ \% ~ } \cdot \mathrm { ~ ( ~ 1 0 a ) ~ } ^ { - 1 }$ 的速率呈减小趋势( $\scriptstyle P < 0 . 0 5 )$ 。GSL以 $4 . 4 0 1 \mathrm { ~ d ~ } \cdot \mathrm { ~ } ( 1 0 \mathrm { a } ) ^ { \ - 1 }$ 的速率呈增加趋势( $P < 0 . \ 0 0 1 \$ ）。ESMD估计方法显示，DTR先减小后增大并于1997年左右达到最大值，之后逐渐减小;GSL自1982年起逐渐增大，2005年左右达到最大值后略有减小。
+
+# 表4其他气温指数趋势检验
+
+Tab.4Test results of the trendsof other temperature indices   
+
+<html><body><table><tr><td>指数</td><td>趋势检验</td><td>单位</td></tr><tr><td>DTR</td><td>-0.087 *</td><td>℃·(10a)-1</td></tr><tr><td>GSL</td><td>4.401 ***</td><td>d·(10a)-1</td></tr></table></body></html>
+
+# 2.3NDVI对极端气温指数的响应
+
+图5表示中国北方及NDVI显著变化区域对极端气温指数的响应。NDVI显著增加区域主要包括天山、塔里木盆地北缘、祁连山区、陇南山地、河套平原、黄土高原、太行山和吕梁山区、辽西丘陵、大别山区;显著减少区域主要包括大兴安岭、小兴安岭、长白山。
+
+2.3.1对冷极值的响应气温冷极值指数中，FDO、IDO、CSDI、TN10p 及 $\mathrm { T X 1 0 p }$ 与中国北方NDVI呈负相关,其中FD0、TN10p 和TX10p与 NDVI的相关系数通过 $9 5 \%$ 显著性检验（图5）。FD0 和 $\mathrm { T N } 1 0 \mathrm { p }$ 代表夜间的低温状态， $\mathrm { T X 1 0 p }$ 代表白天的低温状态，气温过低易导致积温不足，严重时引发低温冻灾，影响植物生长。负相关说明随着气候变暖，霜冻风险降低，夜间变暖为植物生长创造了更适宜的条件；冷昼日数减少，日间气温升高更有利于植物光合作用，保障植物生长。TNmean $\mathbf { \Omega } , \mathrm { T N n }$ 和 TXn与NDVI呈正相关,其中TNmean与NDVI的相关系数通过 $9 9 \%$ 显著性检验。TNmean代表白天的低温状态，日最低温升高，使植被受日间低温伤害的风险降低，植被光合作用加强，保障并促进了植物生长发育。
+
+各地区对冷极值指数的响应程度不同。NDVI显著增加区域与多数冷极值指数以负相关为主，
+
+![](images/65d130edcbaa7e44339933672b3bb096db292f1463d373222a89b25922b9c78e.jpg)  
+何航等：1982—2015年中国北方生长季NDVI变化及其对气温极值的响应  
+注：显著相关指在 $9 5 \%$ 水平上通过显著性检验，极显著相关指在 $9 9 \%$ 水平上通过显著性检验。  
+图5中国北方及不同区域极端气温指数与NDVI的相关性统计  
+Fig.5Thecorelationcoeffcients betweentheNDVIandtheextreme/temperature indicesinNorth Chinaanddiferentregions
+
+FDO和TNmean 是NDVI增加区响应强烈的指数。塔里木盆地北缘、河套平原、太行山和吕梁山区等对冷极值指数响应强烈。NDVI显著减少区域与多数冷极值指数呈正相关，但响应情况各异：大兴安岭区对 TNn响应强烈，小兴安岭区对 $\mathrm { T N } 1 0 \mathrm { p }$ 响应强烈,长白山区则对 $\mathrm { T X 1 0 p }$ 响应强烈。
+
+2.3.2对暖极值的响应8个气温暖极值指数和中国北方NDVI均呈正相关，TR20、TXmean及TX90p与NDVI的相关系数通过 $9 5 \%$ 显著性检验，$\mathrm { T N } 9 0 \mathrm { p }$ 与 NDVI的相关系数通过 $9 9 \%$ 显著性检验（图5）。说明随着气温升高，适宜植物生长的暖区范围扩展，加上夜间温度升高、温暖夜数增多有效减少了植被受到极端低温伤害的风险，有利于植物的生长发育。
+
+从整体来看，NDVI显著增加区域对暖极值指数以正响应为主，显著减少区域则多呈负响应，NDVI显著增加区域对 $\mathrm { T N } 9 0 \mathrm { p }$ 以显著正响应为主，NDVI显著减少的区域对SU25呈显著负响应（ $P <$ 0.05）。SU25可表征为夏季日间的高温状态，NDVI显著减少区域主要分布在东北林区，生长季长度在$1 2 0 \sim 1 6 0 \mathrm { ~ d } ^ { ( 3 6 ) }$ ,夏季高温日数多、高温持续时间长易破坏森林植物生长环境的平衡性[37]，近年来SU25持续上升，可能造成森林植物生长受损，生物量减少,植被覆盖退化。天山、塔里木盆地北缘、祁连山区、太行山和吕梁山区、小兴安岭等区域对暖极值指数响应强烈。
+
+2.3.3 对其他指数的响应 图5显示中国北方
+
+NDVI与DTR呈负相关、与GSL呈正相关，GSL与NDVI的相关系数通过 $9 5 \%$ 显著性检验。说明随着气温升高，生长季长度延长，植物生长时间更加充分，更有益于植被的生长发育。
+
+DTR指日间气温和夜间气温的差值，可表征为促进植物生长发育的有效温度[38]。DTR 在多数区域主要以负相关为主，天山、辽西丘陵、大兴安岭尤为显著，主要是由于DTR呈减小趋势，气温日较差缩小不利于有机质的积累，随着夜间温度升高，植被呼吸消耗增加，有机质积累量减少，植物生长受到限制。GSL在大部分区域呈正相关，且相关性强的区域主要集中于NDVI增加区，进一步说明生长季延长对植物生长有积极作用。
+
+# 3结论与讨论
+
+# 3.1结论
+
+（1）NDVI的时间变化显示，1982—2015年中国北方生长季NDVI以 $0 . 0 0 2 \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 的速率增加（ $\textstyle P < 0 . 0 5 )$ ;ESMD方法表明，NDVI波动增加。针叶林、灌丛、荒漠植被、草地以及栽培植被显著增加,其中栽培植被增速最快;针阔混交林、落叶阔叶林和高山植被呈不显著减少趋势。
+
+（2）NDVI的空间变化显示，黄土高原地区生长季NDVI增速最快，NDVI退化速度最快的区域主要集中在大、小兴安岭及长白山。NDVI显著增加的区域超过全区的 $3 3 \%$ ,主要分布在天山、塔里木盆地北部、祁连山、陇南山区、黄土高原、河套平原、吕梁山和太行山、大别山以及辽西丘陵地区。显著减少的面积约 $12 \%$ ，主要分布在大兴安岭、小兴安岭和长白山区。
+
+（3）气温极值变化显示，除日最低气温平均值（TNmean）和日最低气温的极低值（TNn）呈上升趋势外，其余冷极值指数都表现为下降趋势；所有暖极值指数均呈上升趋势；其他指数中，DTR呈下降趋势，GSL呈上升趋势。
+
+（4）从NDVI与极端气温指数的相关性看，冷极值指数中 $\mathrm { F D 0 \ , I D 0 \ , C S D I \sqrt { \Omega } N 1 0 p }$ 及 $\mathrm { T X 1 0 p }$ 与ND-VI呈负相关,TNmean $\mathrm { \Omega , T N n }$ 和 TXn与 NDVI呈正相关， $\mathrm { F D 0 , T N 1 0 p , T X 1 0 p }$ 及TNmean的相关系数通过显著性检验;所有暖极值指数与NDVI均呈正相关，TR20、TXmean $\mathrm { \Omega , T X 9 0 p }$ 及 $\mathrm { T N } 9 0 \mathrm { p }$ 的相关系数通过显著性检验;NDVI与DTR呈负相关,与GSL 呈正相关,GSL与NDVI的相关系数通过显著性检验。
+
+(5）天山、塔里木盆地北缘、祁连山区、河套平原、黄土高原、太行山和吕梁山区等NDVI显著增加区域对极端气温指数的响应强烈。NDVI显著增加区对FDO、TNmean $\cdot \mathrm { T N } 9 0 \mathrm { p }$ 和GSL等指数响应较强。NDVI显著减少的大、小兴安岭及长白山区对极端气温指数的响应各异，主要与SU25呈显著负相关（ $\textstyle P < 0 . 0 5 )$ 。
+
+# 3.2 讨论
+
+气温极值对植被的影响是一个复杂的过程。本研究分析了NDVI对全部极端气温指数的响应情况，旨在确定对植物生长影响较强的极端气温指数，以便未来分析区域植物生长对极端气候的响应时可以选择更有指示意义的指数。中国北方NDVI与FDO、TNmean、 $\mathrm { T N } 1 0 \mathrm { p }$ 、 $\mathrm { T X 1 0 p }$ 、TR20、TXmean、$\mathrm { T X 9 0 p , T N 9 0 p }$ 及GSL存在强相关性，多数NDVI显著增加的区域对FDO、TNmean $\cdot \mathrm { T N } 9 0 \mathrm { p }$ 和GSL 响应强烈。Yao 等[8研究也指出,新疆地区 NDVI的变化与TNmean呈正相关，与 $\mathrm { T N } 9 0 \mathrm { p }$ 呈负相关;赵安周等[°]研究发现,陕甘宁地区 NDVI与 TXmean、TNmean存在显著相关性。未来研究中国北方植被对极端气温的响应时，可以优先考虑以上与NDVI存在强相关的极端气温指数。但也有研究结果显示，鄱阳河流域 $\mathrm { T X n } \ 、 \mathrm { T N n } \ 、 \mathrm { T N x }$ 和TXx对NDVI的影响较强[39]；福建省 $\mathrm { T N 9 0 p . T X 9 0 p }$ 对植物生长的影响更强(40]。可见,植被覆盖对极端气温的响应是复杂而多样的。目前对这两者之间的响应缺乏大量系统的分析和研究。本研究揭示了中国北方植被对极端气温的响应情况，对植被覆盖与极端气候响应研究进行了补充。但并未对植被覆盖对极端气温指数的响应在空间上的表现情况做深入研究，未来需要进一步分析植被变化对极端气温指数响应的空间表现状况。另外，本研究仅分析了极端气温对NDVI的影响，未将极端降水变化对植物生长的影响纳入研究范围。未来在研究极端气候事件与植被覆盖之间的相关关系时，应考虑气温和降水之间的协同效应，探究植物生长与各因子之间的机理模型，这样就能定量分析各影响因子对植物生长的贡献率，更准确地识别极端气候条件下中国北方生态系统的脆弱性和复杂性。
+
+# 参考文献(References）:
+
+[1]周伟,刚成诚,李建龙，等.1982—2010 年中国草地覆盖度的时 空动态及其对气候变化的响应[J].地理学报,2014,69(1)：15 -30.［Zhou Wei,Gang Chengcheng,Li Jianlong,et al.Spatialtemporal dynamics of grassand coverage and its response to climate change in China during 1982-2010[J].Acta Geographica Sinica,2014,69(1) :15-30.]   
+[2]Xu Y,Yang J,Chen Y.NDVI-based vegetation responses to climate change in an arid area of China[J].Theoretical and Applied Climatology,2016,126(1-2):213 - 222.   
+[3]Pang GJ,Wang XJ,Yang M X. Using the NDVI to identify variations in,and responses of,vegetation to climate change on the Tibetan Plateau from 1982 to 2012[J]. Quaternary International, 2017,444:87 -96.   
+[4]Myers-smith IH,Elmendorf S C,Beck P S A,et al.Climate sensitivity of shrub growth across the tundra biome[J].Nature Climate Change,2015,5(9):887 -891.   
+[5]Seddon A WR,Macias-Fauria M,Long PR,et al.Sensitivity of global terrestrial ecosystems to climate variability[J].Nature, 2016,531(7 593):229 -232.   
+[6]Zhu Y K,Zhang JT,Zhang Y Q,et al. Responses of vegetation to climatic variations in the desert region of Northern China[J].Catena,2019,175:27 -36.   
+[7]Mu SJ,Yang HF,Li JL,et al.Spatiotemporal dynamics of vegetation coverage and its relationship with climate factors in Inner Mongolia,China[J]. Journal of Geographical Sciences,2013,23（2）： 231 -246.   
+[8]Yao JQ,Chen Y N,Zhao Y,et al.Response of vegetation NDVI to climatic extremes in the arid region of Central Asia：A case study in Xinjiang,China[J].Theoreticaland Aplied Climatology, 2017,131(3-4):1 503 -1 515.   
+[9]Ding MJ,Zhang YL,Liu L S,et al.The relationship between NDVI and precipitation on the Tibetan Plateau[J].Journal of Geographical Sciences,2007,17(3）:259 -268.   
+[10］赵安周,张安兵,赵延旭,等.基于MODIS NDVI数据的陕甘宁 地区植被覆盖时空变化及其对极端气候的响应[J].水土保持 研究,2018,25(3）:224-231,2.[Zhao Anzhou,Zhang Anbing, Zhao Yanxu,et al. Spatiotemporal changes of vegetation in the Shaanxi - Gansu - Ningxia region and response to climatic extremes based on MODIS NDVI date[J]. Research of Soil and Water Conservation,2018,25(3）:224-231,2.]   
+[11]IPCC. Climate Change 2O13:The Physical Science Basis. Contribution of Working Group Ito the Fifth Assessment Report of the Intergovernmental Panel on Climate Change[M]. Cambridge: Cambridge University Press,2013.   
+[12]Ren Guoyu,Ding Yihui,Zhao Zongci,et al. Recent progress in studies of climate change in China[J].Advances in Atmospheric Sciences,2012,29(5) :958 -977.   
+[13］邓振镛,王强,张强,等.中国北方气候暖干化对粮食作物的影 响及应对措施[J].生态学报,2010,30（22）:6 278-6 288. [Deng Zhenyong,Wang Qiang,Zhang Qiang,et al.Impact of climate warming and drying on food crops in Northern China and the countermeasures[J].Acta Ecologica Sinica,2010,30(22）:6 278 -6 288.]   
+[14]Tao H,Fraedrich K,Menz C,et al. Trends in extreme temperature indices in the Poyang Lake Basin,China[J]. Stochastic Environmental Research and Risk Assessment,2014,28（6）:1 543 - 1 553.   
+[15］丁之勇,董义阳,鲁瑞洁.1960—2015年中国天山南、北坡与山 区极端气温时空变化特征[J].地理科学,2018,38（8）：1 379 -1 390.[Ding Zhiyong,Dong Yiyang,Lu Ruijie,et al. Spatiotemporal variability of temperature extremes in Tianshan Mountains Area,Northwest China,during 1960 -2015[J].Scientia Geographica Sinica,2018,38（8）:1379-1 390.]   
+[16］崔凤琪,唐海萍,张钦,等.1960—2017年呼伦贝尔草原极端气 候事件时空变化[J].干旱区研究,2018,35(6):1382-1 391. [CuiFengqi,Tang Haiping,Zhang Qin,et al.Spatiotemporal variation of extreme climatic events in the Hulunbuir Grassands during the period of 1960-2017[J].Arid Zone Research,2018,35(6）: 1 382 -1 391.]   
+[17〕张扬,白红英,苏凯,等.1960—2013 年秦岭陕西段南北坡极端 气温变化空间差异[J].地理学报,2018,73（7）:1 296-1308. [Zhang Yang,Bai Hongying,Su Kai,etal.Spatial variationof extreme temperature change on Southern and Northern slopes of Shaanxi section in Qinling Mountains during 196O -2013[J].Acta Geographica Sinica,2018,73（7）:1 296-1 308.]   
+[18］祝稳.西北干旱区植被覆盖动态及其对极端气温和降水过程 的响应[D].兰州：西北师范大学,2015.[Zhu Wen.SpatialTemporal Dynamics of Vegetation Coverage and Its Response to Extreme Temperature and Precipitation Processes over the Arid Region of Northwest China[D].Lanzhou:Northwest Normal University,2015.]   
+[19］王晓利.中国沿海极端气候变化及其对 NDVI的影响特征研究 [D].烟台：中国科学院烟台海岸带研究所,2017.[Wang Xiaoli.Variation of Extreme Climate and Its Impact on NDVI in the Coastal Area of China[D].Yantai:Yantai Institute of Coastal Zone Research,Chinese Academy of Sciences,2017.]   
+[20］赵直,徐晗.极点对称模态分解下中国新疆温度变化趋势的区 域特征[J].地理研究,2014,33（12）:2358-2366.[Zhao Zhi, Xu Han.The research of temperature variation trends over Xinjiang in China by extreme-point symmetric mode decomposition method [J]. Geographical Research,2014,33(12）:2 358-2 366.]   
+[21]Wang JL,Li Z J.Extreme-point symmetric mode decomposition method for data analysis[J].Advances in Adaptive Data Analysis, 2013,5(3) :1 137.   
+[22] Sun YL,Yang Y L,Zhang Y,et al. Assessing vegetation dynamics and their relationships with climatic variability in Northern China [J].Physics & Chemistry of the Earth,2015,87 -88:79 -86.   
+[23］陈登魁,马超,王夏冰,等.1982—2015年可可西里 NDVI变化 特征及其气候响应[J].干旱区研究,2018,35(6)：1410- 1 417.[Cheng Dengkui,Ma Chao,Wang Xiabing,et al.Variation of NDVIand its response to climate change in Hoh Xil during the period of 1982 - 2015[J]. Arid Zone Research,2018,35（6）: 1 410 -1 417. ]   
+[24]Dai S P,Zhang B,Wang HJ,et al.Vegetation cover change and its driving factors over northwest China[J]. Journal of Arid Land, 2011,3(1) :25 -33.   
+[25]Gong Z N,Zhao S Y,Gu JZ.Correlation analysis between vegetation coverage and climate drought conditions in North China during 2001-2013[J].Journalof Geographical Sciences,2017,27（2）: 143 - 160.   
+[26]Holben,Brent N. Characteristics of maximum-value composite images from temporal AVHRR data[J].International Journal of Remote Sensing,1986,7(11) :1 417-1 434.   
+[27]Piao SL,Wang X H,Ciais P,et al.Changes in satellite-derived vegetation growth trend in temperate and boreal Eurasia from 1982 to 2006[J].Global Change Biology,2011,17（10）:3 228- 3239.   
+[28]Yang Y H,Piao S L. Variations in grassand vegetation cover in relation to climatic factors on the Tibetan Plateau[J].Journal of Plant Ecology,2006,30(1）:1-8.   
+[29]Zhang XB,Yang F.R ClimDex(1.O）,User Manual[Z].Canada: Climate Research Branch Environment,2004.   
+[30］王金良,李宗军.可用于气候数据分析的 ESMD 方法[J].气候 变化研究快报,2014（3）：1-5.[Wang Jinliang,Li Zongjun.The ESMD method for climate data analysis[J].Climate Change Research Letters,2014(3):1 -5.]   
+[31]尹海霞,张勃,王亚敏,等.黑河流域中游地区近43 年来农作 物需水量的变化趋势分析[J].资源科学,2012,34（3）：409- 417.[Yin Haixia,Zhang Bo,Wang Yamin,et al.Research on the change trend of crop water requirement in the middle reaches of Heihe River Basin in the recent 43 years[J].Resources Science, 2012,34(3):409-417.]   
+[32]何荣,全利,王爱英.新疆天然光照度变化趋势分析[J].干旱 区研究,2014,31(2）:261-266.[He Ying,Quan Li,Wang Aiying. Change trend of naturaliluminance in Xinjiang[J].Arid Zone Research,2014,31(2）:261-266.]   
+[33］孙倩,于坤霞,李占斌,等.黄河中游多沙粗沙区水沙变化趋势 及其主控因素的贡献率[J].地理学报,2018,73（5）：945－ 956.[Sun Qian,Yu Kunxia,Li Zhanbin,et al. The trends of streamflow and sediment and their driving factors in the middle reaches of the Yellow River[J].Acta Geographica Sinica,2018,73（5）: 945 -956.]   
+[34］马明国,董立新,王雪梅.过去21a中国西北植被覆盖动态监 测与模拟[J].冰川冻土,2003,25（2）:232-236.[Ma Mingguo,Dong Lixin,Wang Xuemei. Study on the dynamically monitoring and simulating the vegetation cover in Northwest China in the past 21 years[J]. Journal of Glaciology and Geocryology,2O03,25 (2):232-236.]   
+[35]PengJ,Liu ZH,Liu YH,et al. Trend analysis of vegetation dynamics in Qinghai-Tibet Plateau using hurst exponent[J].Eco logical Indicators,2012,14(1) :28-39.   
+[36]侯学会，牛铮，高帅.近十年中国东北森林植被物候遥感监测 [J].光谱学与光谱分析，2014,34（2）：515-519.［Hou Xuehui,Niu Zheng,Gao Shuai.Phenology of forest vegetation in Northeast of China in ten years using remote sensing[J]. Spectroscopy and Spectral Analysis,2014,34(2):515-519.]   
+[37]国志兴，王宗明,宋开山，等.1982—2003 年东北林区森林植被 NDVI与水热条件的相关分析[J].生态学杂志,2007,26（12）： 1930-1 936.[Guo Zhixing,Wang Zongming,Song Kaishan,et al.Correlations between forest vegetation NDVI and water/thermal condition in Northeast China forest regions in 1982-2O03[J].
+
+Chinese Journal of Ecology,2007,26(12）:1 930-1936.]
+
+[38]江爱良，陈沈斌，宫世贤.西双版纳气温日较差的特点及其在 农业上的意义[J].中国农业气象，1990，11（1)：44-46，15. [Jiang Ailiang,Chen Shenbin,Gong Shixian.Characteristics of diurnal temperature range in Xishuangbanna and its significance in agriculture[J].Chinese Journal of Agrometeorology,199O,11（1）:   
+44 -46,15.] [39]Tan ZQ,Tao H,Jiang JH,et al.Influences of climate extremes on NDVI（normalized difference vegetation index）in the Poyang Lake Basin,China[J].Wetlands,2015,35(6):1033-1042. [40]陈丽娟.近半个世纪以来福建省极端气候事件及其植被NDVI 响应［D].福州：福建师范大学,2017.［Chen Lijuan.Extreme Climate Event and the Responses of Vegetation in Fujian Province Nearly HalfA Century[D].Fuzhou:Fujian Normal University,   
+2017.]
+
+# Spatiotemporal Change of NDVI and Its Response to Extreme Temperature Indices in North China from 1982 to 2015
+
+HE Hang， ZHANG Bo， HOU Qi，LI Shuai，MA Bin， MA Shang-qian(College ofGeographicalandEnironmentalSciences,NorthwestNormalUniversity,Lanzhou73oo,Gansu,Cina)
+
+Abstract:Climate warming is conducive to enhancing vegetation activities.Here,the interannual and spatial variations of vegetation cover in north China in growing season were analyzed basedon the satelite-derived normalized diference vegetation index（NDVI）,and its responses to the change of extreme temperature indices were studied by using GIMMS NDVI $3 \mathrm { g }$ V1.O datasets,daily temperature and precipitation data.Across the whole study area,the trends calculated by linear regresion showed that the NDVI value in growing season increased at a rate of 0.002· (10a) $^ { - 1 }$ from 1982 to 2015.The results of extreme-point symmetric mode decomposition showed that the NDVI increased graduallyuntil1992,decreased slightlyuntil2Oo5,and then increased gradualy.The NDVI valuesof coniferous forest,shrubbery,desert vegetation,grassandandcultivated vegetation wereallinan increase trend,and hose of mixed forest,broadleaved deciduous forest and alpine vegetation were in a decrease trend.Spatialy,the NDVI was in adecrease trend from the southeast to the northwest,and the area of the regions where the vegetation was significantly improved accounted for $33 \%$ of north China. The regions where the NDVI increased significantly were mainlydistributed inthe Tianshan Mountainsandnorth Tarim Basin in north Xinjiang,Qilian Mountains,mountainous area insouth Gansu Province,LoessPlateau,Hetao Plain,Lvliang Mountain,Taihang Mountain,and hillregion in west Liaoning Province.The area of the regions wherethe NDVIdecreased significantly were mainly distributed in the Great Khingan Range,Lesser Khingan Mountains and Changbai Mountain.Among the 18 extreme temperature indices,except the mean daily minimum air temperature and the lowest minimum air temperature were in an increase trend,all others of cold extreme temperature indices were in a decreased trend；the warm extreme temperature indices were allin an increase trend.The NDVI was negatively correlated with FDO,TN1Op and $\mathrm { T X 1 0 p }$ （ $P <$ 0.05）,but positively correlated with TNmean （ $P < 0 . 0 1 ~ \cdot$ ).The NDVI was positively correlated with all warm extreme temperature indices,and was significantly correlated with TR2O,TXmean, $\mathrm { T X 9 0 p }$ and $\mathrm { T N } 9 0 \mathrm { p }$ ( $P < 0 . 0 5 )$ ： There was also a significant positive correlation between NDVI and GSL ( $\textstyle P < 0 . 0 5 ^ { \cdot }$ ）.
+
+Key words:growing season; GIMMS NDVI $3 \mathrm { g } \ \mathrm { V } 1 . 0$ ； spatiotemporal variation； extreme temperature index；re-sponse；North China

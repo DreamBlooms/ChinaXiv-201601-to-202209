@@ -1,0 +1,209 @@
+# A new species of Luganoia (Luganoiidae, Neopterygii) from the Middle Triassic Xingyi Biota, Guizhou, China
+
+XU Guang-Hui1.2
+
+(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,ChineseAcademy ofSciences Beijing l0o044 xuguanghui@ivpp.ac.cn) (2CAS Center for Excellence inLife and Paleoenvironment Beijingl00044)
+
+Abstract Neopterygiis the largest known group of ray-finned fishes today,and the Luganoiidae, recognized by its specialized skull and greatly deepened flank scales,is a stem lineage of this group in the Middle Triassic. Since its naming in 1939,the Luganoiidae has been represented solely by the marine species Luganoia lepidosteoides found near the Ladinian/Anisian boundary of the southern and eastern Switzerland, northern Italy and southeastern Spain.Here,I report the discovery of a new species of this genus,Luganoia fortuna sp. nov. based on a nearly complete specimen from the late Middle Triassic (Ladinian) marine deposits exposed near Xingyi, Guizhou, China.The discovery represents the first record of the Luganoiidae in Asia,indicating that the biogeographical distribution of this family is much wider than previously recognized. Comparative studies of the new species with the type species from Europe reveal some anatomical features previously unnoticed in Luganoia, e.g., the presence of antorbitals,absence of a platelike quadratojugal, presence of a narrow naked region of the body at the base of the dorsal fin,presence of a small anal fin closer to the caudal fin than to the pelvic fin,and absence of postcleithra.An amended diagnosis of the genus is presented. Moreover, the distinguishable features between the Chinese and European species are highlighted in this study,and they provide valuable information on the morphological diversification of Luganoia.
+
+Key words Xingyi, Guizhou; Triassic; Luganoiidae, Neopterygi; osteology; paleobiogeography
+
+Citation Xu G H, in press.A new species of Luganoia (Luganoiidae, Neopterygii) from the Middle Triassic Xingyi Biota, Guizhou, China. Vertebrata PalAsiatica.DOI:10.19615/ j.cnki.1000-3118.200624
+
+Luganoia Brough,1939 is the type genus of the Luganoiidae,renowned by its specialized skull and greatly deepened flank scales.As a derived stem-neopterygian, the genus is of particular interest to paleoichthyologists for investigating the rise of the neopterygian crown (Patterson,1973; Gardiner and Schaeffer,1989; Xu et al., 2015a, 2018b; Xu and Ma, 2016; Wen et al.,2O19). When it was named, Luganoia originally included three species: Luganoia lepidosteoides from the Middle Triassic of Besano,Lombardy in Italy and Monte San Giorgio,
+
+Tessin in Switzerland,and $L$ . intermedia and $L$ 、macrodentata from the Middle Triassic of Besano,Lombardy in Italy (Brough,1939). However, Bürgin (1992) suggested that the latter two are younger synonyms of the former based on his comparative studies of the type material originally described by Brough (1939) and new specimens from the Monte San Giorgio area.Later,L. lepidosteoides was also found from the Middle Triassic of southeastern Spain (Cartanya,1999)and eastern Switzerland (Burgin,1999).In the same publication,Brough (1939) named the other luganoiid genus Bensania from the Middle Triassic of Besano,Lombardy in Italy, but Herzog and Burgin's (2Oo5) studies showed that it is actually not a luganoiid but rather a crown-neopterygian. As thus,Luganoia is the only valid genus of the Luganoiidae. Traditional studies (Brough,1939; Patterson,1973; Burgin,1992) placed the Luganoiidae in the paraphyletic ‘Subholostei' or ‘Perleidiformes',but recent studies (Cartanya,1999; Xu et al., 2015a,2018b; Wen et al.,2019) prefer to place the family in its own order, Luganoiformes Lehman, 1958.
+
+Here,I report the discovery of a new species of Luganoia based on a nearly complete specimen from the lower part of the Zhuganpo Member of the Falang Formation exposed in Wusha, Xingyi, Guizhou Province. The discovery represents the first record of Luganoia outside of Europe,adding new information on the morphological diversification and biogeographical distribution of the genus. The fossil fish is well-preserved in the dark grey thin-bedded argillaceous limestone, permiting a detailed description of its morphology. Other macrofossils from the same fossiliferous horizons include invertebrates, other groups of rayfinned fishes (Su,1959; Jin,2001;Liu et al.,2002, 2003; Xu et al.,2012,2015b,2018a,b; Xu and Zhao,2015; Tintori et al., 2015; Xu and Ma, 2018),a coelacanth (Geng et al, 2009), and diverse marine reptiles (Young,1958; Li, 2006; Li and Jin,2009; Li C et al.,2016; Lu et al.,2018).The whole fossil assemblage documents the Xingyi Fauna or Biota in the Triassic Yangtze Sea (a part of the eastern Paleotethys Ocean) in southern China (Benton et al., 2013; Lu et al., 2018). Biostratigraphical studies of invertebrates and marine reptiles (Young,1958; Chen,1985;Li and Jin,2003,2009; Zou et al.,2015) generally suggest a late Middle Triassic (Ladinian) age for this biota. Although a younger Late Triassic (Carnian) age was once proposed (Wang et al.,1998), this was based on inaccurate conodont identifcations (Zou et al., 2015).A recent zircon U-Pb dating ( $( 2 4 0 . 8 \pm 1 . 8 )$ Ma; Li Z G et al., 2016) further supports a late Middle Triassic (Ladinian) age for the Xingyi Biota.
+
+# 1 Material and methods
+
+The specimen is curated at the fossil collections of the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), Chinese Academy of Sciences in Beijing, China. It was mechanically prepared with sharp steel needles under an Olympus SZX7 microscope. For better contrast, the specimen was dusted with ammonium chloride $\mathrm { ( N H } _ { 4 } \mathrm { C l ) }$ before being photographed. The relative position of fins and scale counts were expressed following Westoll (1944), in which the letters D,P,A,and C are followed by a particular numerical value to denote the number of vertical scale rows between the first complete row behind the pectoral girdle and the insertion of the dorsal (D),pelvic (P),anal (A),and caudal (C) fins,respectively. The letter T denotes the total number of scale rows between the pectoral girdle and the caudal inversion. The traditional actinopterygian nomenclature of Gardiner and Schaeffer (1989) and Grande and Bemis (1998) are generally followed, for ease of comparison with most existing literature.
+
+2 Systematic paleontology
+
+Neopterygii Regan, 1923 Luganoiiformes Lehman, 1958 Luganoiidae Brough, 1939 Luganoia Brough,1939
+
+Emended diagnosisLuganoid fishes distinguished from other stem-neoptergyians by the following features (possible autapomorphies identified with an asterisk): fusion of median rostral with premaxillae, bearing long and slender posterior process $( ^ { * } )$ ； frontals completely fused into single ossification and greatly constricted above orbital center $( ^ { * } )$ ； presence of paired parieto-dermopterotics; presence of three or four extrascapulars; fusion of lacrimal with maxilla; lacrimo-maxilla with large triangular dorsal process and concave oral margin, ending below orbital center $( ^ { * } )$ ; presence of multiple supraorbitals; separation of suborbitals into two sets by broad preopercle $( ^ { * } )$ ； preopercle with long, anteriorly tapering process contacting lacrimo-maxilla; presence of peg-like teeth only on anterior half of jaws; absence of postcleithrum; body naked near base of dorsal fin; caudal fin with truncate profile; presence of about ten epaxial rays in caudal fin; anal fin small,located closer to caudal fin than to pelvic fins; and single row of 13 greatly deepened lateral line scales contacting two or three horizontal rows of short scales posteriorly $( ^ { * } )$
+
+Type species Luganoia lepidosteoides Brough,1939.
+
+Distribution Latest Anisian to Ladinian,Middle Triassic; Besano,Lombardy, Italy; Monte San Giorgio, Tessn and Davos, Graubunden, Switzerland; Alcover, Catalonia, Spain; Xingyi, Guizhou, China.
+
+# Luganoia fortuna sp. nov.
+
+(Figs. 1-4,5A)
+
+Etymology The specific epithet means lucky.
+
+Holotype IVPP V 25693,a nearly complete specimen with a dorsally crushed skull and a laterally compressed postcranium.
+
+Locality and horizonXiemi, Wusha, Xingyi, Guizhou Province, China; lower part of Zhuganpo Member of Falang Formation,Ladinian ( $( \sim 2 4 0 \mathrm { M a } )$ ),Middle Triassic (Xuand Zhao, 2015; Li Z G et al., 2016).
+
+DiagnosisA new species of Luganoia distinguished from the type species ( $\dot { L }$ lepidosteoides) by the following features: frontals 3.3 times as long as parieto-dermopterotics;
+
+three extrascapulars; subopercle 1.5 times as large as opercle, ornamented by many ridges on its ventral portion; single suborbital above preopercle; six or seven suborbitals anteroventral to preopercle and posterior to lacrimo-maxilla; preopercle with anteroventrally tapering ramus; presence of three peg-like teeth on rostro-premaxille; three scales between postemporals; 15 pectoral fin rays; 9 pelvic fin rays; 11 dorsal fin rays; 12 principal caudal fin rays; and pterygial formula of D20/P14,A24, C29/T33.
+
+# 3 Description
+
+General morphology and size The general morphology of Luganoia fortuna sp. nov. is very similar to that of the type species (L. lepidosteoides),having a pointed snout, a fusiform body with greatly deepened lateral line scales in the anterior flank region,and an abbreviated heterocercal caudal fin (Fig.1). The relatively large dorsal fin inserts slightly posterior to the origins of the pelvic fins.The smallanal fin is located closer to the caudal fin than to the pelvic fins. The holotype (Fig.1) has a head length of $2 1 ~ \mathrm { m m }$ , a standard length of $6 4 ~ \mathrm { m m }$ ,and a total length of about $7 3 ~ \mathrm { m m }$ . The greatest body depth is $1 7 ~ \mathrm { m m }$ ,located midway between the posterior margin of the opercle and the origin of the dorsal fin. Although small in size, this specimen is considered to be an adult individual because the skull-roofing bones are firmly sutured.In comparison, the new species is slightly larger than $L$ .lepidosteoides,whichhasa standard length of $5 0 \mathrm { m m }$ (Bürgin,1992).
+
+Snout As a characterized feature of this genus,the rostral is fused with the premaxillae. The rostro-premaxillae has a nearly rectangular anterior plate and a long and slender posterior process that tapers posteriorly and contacts the fused frontals with a pointed end (Fig.2). The rostro-premaxillae is O.74 times as long as the fused frontals. Three teeth are present at the oral margin of the anterior plate of the rostro-premaxillae; they are strong, peg-like,and nearly equal in size.
+
+Only a detached right nasal is discernable in medial view (preserved upside-down; Fig. 2). It is elongated and slightly more expanded anteriorly than posteriorly.An anterior portion of the supraorbital sensory canal is enclosed in the nasal, parallel to its lateral margin.
+
+The left antorbital is partly overlapped by the rostro-premaxillae (Fig. 2). The right antorbital, which is completely covered by the right nasal, can only be detected by X-ray scanning (Fig.3A). Each antorbital is short and tube-like,enclosing the ethmoid canal that extends into the anterior plate of the rostro-premaxillae.
+
+All these bones in the snout region are smooth on the surface.
+
+Skull roofThe skull roofing bones include the fused frontals, a pair of parietodermopterotics,and three extrascapulars (Figs.2-4).A large median ossification of the fused frontals forms most of the skul roof, which is 3.3 times as long as the parieto-dermopterotic (Fig.2). The anterior half of this ossification is narrow, smooth,and greatly constricted above the orbital center, and its posterior half is broad and rhombic, strongly ornamented with ridges and tubercles. As revealed by X-ray scanning (Fig. 3B),a pair of supraorbital canals is enclosed in the fused frontals; each runs longitudinally through the fused frontals parallel to the lateral margin, enters the parieto-dermopterotic posteriorly and extends for a short length in this bone.
+
+![](images/c2cd2a69a859ab227285884b1d880f57ef2bf5732b1f3b876acd6cb52099303e.jpg)  
+Fig.1Holotype of Luganoia fortuna sp.nov.,IVPP V 25693 A.original specimen; B. specimen dusted with ammonium chloride; C.line-drawing Abbreviations: af.anal fin; bf.basal fulcrum; df.dorsal fin; pr. principal rayofcaudal fin; ptf.pectoral fin; pvf. pelvic fin; rp. proximal radial of dorsal fin; rr. rudimentary ray
+
+![](images/fc59502ced75b28249f75d8569aeb5e3b649ce6c7f9b7c94d5d9c13dd3541889.jpg)  
+Fig.2Skull and pectoral girdle of Luganoia fortuna sp. nov., IVPP V 25693 A. photograph, dusted with ammonium chloride; B. line-drawing Abbreviations: ao.antorbital; cl.cleithrum; den.dentary; dh.dermohyal; dsp.dermosphenotic; fr.frontal; ju. jugal; la-mx.lacrimo-maxilla; les.lateral extrascapular; mes.median extrascapular; na. nasal; op.opercle; pa-dpt. parieto-dermopterotic; par. prearticular; pas. parasphenoid; pl. pit-line; pop.preopercle; pt. posttemporal; r-pm.rostro-premaxillae; sc.scale; scl.supracleithrum; so.suborbital; sop.subopercle;su.supraorbital
+
+![](images/acd032546b0cfa5b55f982d3bea42037e615961262f6935e69f9859bcc3fdb43.jpg)  
+Fig.3Selected micro-computed scanning slices of cranial bones of Luganoia fortuna sp.nov., IVPP V 25693 Abbreviations:ao.antorbital; apl.anterior pit-line; br. branchiostegal ray; hm.hyomandibula; ioc.infraorbital canal in lacrimo-maxilla; md. mandibula; mdc.mandibular canal; mpl.middle pit-line; poc. preopercular canal; ppl. posterior pit-line; scc.supratemporal commissural canal; soc.supraorbital canal in frontal; stc.supratemporal canal
+
+The parietal is completely fused with the dermopterotic. Each parieto-dermopterotic is nearly trapezoidal with a short anterolateral extension contacting the dermosphenotic anteriorly and the posterior part of the fused frontals medially (Figs.2,3).In size,the paired parieto-dermopterotics are asymmetrical in the holotype; the right parieto-dermopterotic is 1.4 times as wide as the left one.Both parieto-dermopterotics taper medially and contact each other in a straight suture.Three pit-lines originate at the posterolateral area of each parietodermopterotic: the anterior and middle pit-lines are short, extending anteriorly and laterally, respectively; the posterior one is slightly longer, extending medially to reach the middle portion of this bone (Fig. 3C).
+
+The extrascapular series includes a pair of lateral extrascapulars and a median one (Figs. 2, 3).The lateral extrascapulars are smalland nearly triangular.The median extrascapular is broad and anteroposteriorly short, having a convex anterior margin and a straight posterior margin. The supratemporal canal extends from the posterolateral corner of the parieto-dermopterotic into the lateral extrascapular, runs longitudinally through this bone and enters the posttmporal posteriorly. Additionally, the supratemporal commissural canal runs transversely through the middle portions of all three extrascapulars, as well revealed by the X-ray scanning (Fig. 3A).
+
+Circumorbital bonesThe supraorbital series is incompletely preserved in the holotype with only a single detached element discernable (Fig. 2). It is small and trapezoidal, overlapping the middle region of the fused frontals.
+
+The lacrimal is fused with the maxilla, indicated by its position and the infraorbital canal in this ossification. The lacrimo-maxilla has a large triangular dorsal process,whose posterodorsal margin defines the anteroventral margin of the orbit. The infraorbital canal exits from the antorbital, runs longitudinally through the lacrimo-maxilla and enters the jugal posteriorly (Fig. 3D).
+
+The jugal is the only independent infraorbital,which is a curved, tube-like bone contacting a short posterior portion of the lacrimo-maxilla anteroventrally, the preopercle posteroventrally, and the dermosphenotic dorsally.
+
+The dermosphenotic is small and nearly trapezoidal; it is expanded more dorsally than ventrally.This bone contacts the frontal medially and the dermopterotic and suborbital posteriorly, enclosing an L-shaped sensory canal (Figs.2, 3C).
+
+No sclerotic bones are discernible,and more specimens are needed to determine if these bones are present as in its European relative (L. lepidosteoides; Birgin,1992).
+
+Suborbitals and dermohyal Seven suborbitals are present on the right side of the skull. They are separated into two sets by the preopercle: the dorsal set includes a single trapezoidal suborbital that inserts between the dermosphenotic and the dermohyal and lies above the preopercle. The ventral set includes six rectangular or trapezoidal suborbitals anteroventral to the preopercle.Among the ventral set, the anterior one is the deepest, while the posterior five are relatively short, arranged in two horizontal rows (three in the upper row and two below). Notably, the upper row includes only two suborbitals on the left side of the skull displaying asymmetry in this feature (Fig.2).All suborbitals are ornamented with ridges.
+
+The dermohyal is a small, deep and trapezoidal bone (Fig. 2),which contacts the suborbital anteriorly, the opercle posteriorly, the preopercle anteroventrally,and the hyomandibula medially (Fig. 3C).
+
+JawsThe premaxillae, completely fused with the rostral, have been described in the snout section. The posterior element of the upper jaw represents the fused maxilla and lacrimal.The lacrimo-maxilla is highly ornamented with ridges on its dorsally expanded posterior portion. Anteriorly,the lacrimo-maxilla has a smooth elongated ramus that contacts the antorbital dorsally and bears nine peg-like teeth on its oral margin.
+
+Because of dorsoventral compression, the lower jaw is incompletely exposed with only parts of the dentary and prearticular discernable in medial view (Figs.2,3). The oral margin of the lower jaw is slightly convex and lacks a deep coronoid process.The dentary is elongated, tapering anteriorly and enclosing the mandibular canal (Fig.3A).About ten teeth are present along the oral margin of the anterior half of the dentary. The teeth are peg-like,similar to those on the maxilla in size.The plate-like prearticular medially contacts the dentary and bears dense small conical teeth on its oral margin.
+
+Operculo-gular seriesThe preopercle is large and irregular, having a broad dorsal plate,a long anterior process and a narrow ventral ramus. The anterior process inserts between the jugal and the ventral set of suborbitals, tapers anteriorly and contacts the lacrimomaxilla (Figs. 2-4). The ventral ramus of the preopercle tapers anteroventrally, contacting two suborbitals anteriorly and the subopercle posteriorly. The preopercular sensory canal extends dorsoventrally, parallel to the posterior margin of this bone (Figs.2,3). In addition, a horizontal pit-line is present in the dorsal plate of this bone.
+
+The opercle is trapezoidal and nearly smooth with a depth/length radio of 0.75 (Fig. 2).
+
+![](images/ac308a4411f1c48d77ed86e062394309202a00879e1f0f54cb182fd77f27120d.jpg)  
+Fig. 4Reconstruction of skull and pectoral girdle of Luganoia fortuna sp. nov., IVPP V 25693 For abbreviations see Figs.2 and 3
+
+The anterior and ventral margins are straight and dorsal and posterior margins convex. The subopercle is hook-shaped, one-third larger than the opercle, having a prominent anteroventral extension. Elongated and curved ridges are present only on the ventral portion of the subopercle.
+
+The interopercle is absent as in other stem-neopterygians. No median gular is exposed, and more complete specimens are needed to determinate if it is present as in the type species of this genus (L. lepidosteoides).
+
+Palatine and hyoid archThe parasphenoid is partly discernable in dorsal view; it is an elongated element extending longitudinally through the orbit (Fig. 2). A right hyomandibula and a possible left branchiostegal ray can only be detected by X-ray scanning. The hyomandibula is posteroventrally inclined, having a large triangular dorsal portion,a deep ventral shaft and a small posterior process that articulates with the opercle (Fig.3C). A possible left branchiostegal ray is overlapped by the subopercle and preopercle (Fig. 3A). It is slender and slightly curved, tapering posteriorly. No other elements are discernable in the palatine or hyoid arch.
+
+Paired girdles and finsA posttemporal, a supracleithrum,and a cleithrum are present on each side of the pectoral girdle (Fig. 2). The posttemporal is sub-circular and relatively narrow.The left posttemporal is separated from contact with the right one by three scales.The supracleithrum is anteriorly inclined,half as deep as the opercle.The cleithrum is large and curved, with its anterior portion overlapped by the opercle and subopercle.A sensory canal is enclosed in the lateral portion of the posttemporal.This canal extends posteroventrally into the supracleithrum, runs through the mid-dorsal portion of this bone and enters the first lateral line scale posteriorly.Apostcleithrum is absent as in the type species of this genus.
+
+The pectoral fins insert low on the body,and each is composed of about 15 distally segmented rays. The first is unbranched and preceded by two basal fulcra. The remaining rays are branched distally.
+
+The pelvic girdles are not exposed. The pelvic fins insert at the $1 4 ^ { \mathrm { t h } }$ vertical scale row, and each is composed of nine distally segmented and branched rays that are preceded by a short basal fulcrum.
+
+Median finsThe dorsal fin originates above the $2 0 ^ { \mathrm { t h } }$ vertical scale row. It is relatively long-based, composed of 11 distally segmented rays, each articulating with a radial support (Fig.1). The first ray is unbranched and preceded by three basal fulcra; the remaining rays are branched distally.
+
+The anal fin originates below the $2 3 ^ { \mathrm { r d } }$ vertical scale row. It is very small and is composed of six distally segmented rays (Fig. 1). The bifurcations of the rays are not clear due to incomplete preservation.
+
+The abbreviated heterocercal caudal fin is incompletely preserved at its distal portion (Figs.1C, 5A),and it likely has a truncate posterior profile as in the type species of this genus (L. lepidosteoides; Fig. 5B). There are 12 principal rays; the marginal principal rays are unbranched,and the rest branched distally.In addition,there are ten rudimentary rays and five basal fulcra preceding the dorsal marginal principal ray. The dorsal marginal principal ray and all these rudimentary rays are located at the epaxial portion of the caudal fin. Moreover, there are three hypaxial rudimentary rays and a basal fulcrum preceding the ventral marginal principal ray. All rays are smooth on the surface.
+
+Fringing fulcra are evidently absent in all fins.
+
+![](images/1402b507ae5533771c1ab500b9f9fcc5cd2b01acf00ce407540faf528ad0b6f1.jpg)  
+Fig.5Reconstruction ofLuganoia A.Luganoia fortuna sp.nov.; B.L. lepidosteoides (from Birgin,1992)
+
+ScalesMost of the body is covered with rhombic scales, except a small narrow region at the base of the dorsal fin,in which the body is naked (Fig.1).The scales are smooth,arranged in 33 vertical rows between the pectoral girdle and the caudal inversion. In the $1 9 ^ { \mathrm { t h } }$ vertical row, there are five and eight scales above and below the lateral line scale on each side of the body.In addition, there are about ten inverted vertical rows of scales posterior to the hinge line in the caudal region,and seven scales are present in the last inverted vertical row.There are 21 dorsal ridge scales between the median extrascapular and the dorsal fin; except two relatively small scales at both tips,they are broad and hexagonal, with a straight or slightly concave posterior margin. The 13 lateral line scales in the anterior flank region are greatly deepened, each being 2.7-3.1 times as deep as the scale just above it. The $1 3 ^ { \mathrm { t h } }$ lateral line scale contacts two relatively short scales in the $1 4 ^ { \mathrm { t h } }$ vertical row, which further correspond to three horizontal rows of short scales in the mid-posterior flank region (Figs.1, 5A). The posterior margins of the later line scales and some adjacent scales between the pelvic and anal fins are slightly serrated,and those of other scales are smooth.Each lateral line scale has a small notch at its posterior margin. Moreover, a small pore is present in some lateral line scales.
+
+# 4 Discussion
+
+The new species is referred to Luganoia Brough,1939 because it possesses five uniquely derived features of the genus: 1) fusion of the median rostral with premaxille, bearing long and slender posterior process; 2) frontals completely fused into single ossification and greatly constricted above orbital center; 3) presence of a lacrimo-maxilla with a large triangular dorsal process and a concave oral margin, ending below the orbital center; 4) separation of suborbitals into two sets by a broad preopercle;and 5) presence of a horizontal row of 13 greatly deepened lateral line scales in the anterior flank region corresponding to two or three horizontal rows of short scales in the middle flank region.
+
+In addition, Luganoia possesses several other derived features rarely seen in other stemneopterygians:
+
+(1)Presence of paired parieto-dermopterotics.Most stem-neopterygians have a pair of distinct parietals and dermopterotics. In Luganoia,however, the parietal is fused with the dermopterotic, resembling several other stem-neopterygians, e.g., the perleidid Endennia (Lombardo and Brambillasca,2005), thoracopterids (Griffth,1977; Tintori and Sassi, 1992; Xu et al.,2012,2015b) and a large Colobodus-like taxon from the Middle Triassic Luoping Biota (personal observation). This fusion of the parietal with the dermopterotic is well indicated by the presence of three pit-lines and a supratemporal canal in a single ossification.
+
+(2) Presence of a narrow naked region of the body at the base of the dorsal fin. In adult individuals, most stem-neopterygians (except the naked thoracopterids) have their body fully covered with rhombic scales. Luganoia is unique among stem-neopterygians in having a narrow naked region on the body at the base of the dorsal fin.A similar condition is otherwise present in some macrosemiid ginglymodians with a long-based dorsal fin (Bartram, 1977; Schroder et al., 2012).
+
+(3) Absence of postcleithra.As in the type species Luganoia lepidosteoides,L. fortuna has both the supracleithrum and cleithrum posteriorly contacting the first, greatly deepened lateral line scale,and lacks any postcleithra.This condition has not been known in any other early neopterygians. Two (or three occasionally) postcleithra are commonly present in Middle Triassic holosteans (Xu and Wu,2012; Xu and Ma,2018; Xu,2019) and stem-teleosts (Arratia, 2013; Tintori et al., 2015), but they are lost in some derived teleosts (e.g., gonorynchiforms and siluriforms).
+
+(4) Presence of a small anal fin closer to the caudal fin than to the pelvic fin.Luganoia has a small anal fin no larger than the pelvic fin,composed of only six or seven rays,and it is located closer to the caudal fin than to the pelvic fin.Such an anal fin is rarely seen in other Middle Triassc stem-neopterygians with greatly deepened scales in which the anal fin is commonly more anteriorly placed and larger than the pelvic fin (Birgin,1992; Lombardo, 1999; Mutter and Herzog,2004; Sun et al., 2012, 2015).
+
+Notably, the discovery of Luganoia fortuna reveals several phylogenetically important features of the genus: the presence of a pair of antorbitals (unknown in L. lepidosteoides due to incomplete preservation); absence of a deep coronoid process of the lower jaw (contra Brough, 1939 but consistent with Bürgin,1992); and absence of a plate-like quadratojugal (the previously alleged quadratojugal' in L. lepidosteoides likely represents a ventral preopercular element).
+
+Moreover, the discovery of $L$ fortuna provides new information on the morphological diversification of the genus. The new species is easily distinguished from the type species of the genus (L. lepidosteoides) by the following features: 1) relatively small parietodermopterotic (frontals 3.3 times as long as parieto-dermopterotics vs. 2.2 times in $L$ lepidosteoides);2) three extrascapulars (four in L. lepidosteoides);3) single suborbital above preopercle (two in L. lepidosteoides); 4) six or seven suborbitals below preopercle (five in L. lepidosteoides); 5) subopercle 1.5 times as large as opercle (subopercle nearly as large as opercle in $L$ .lepidosteoides); 6) preopercle with an anteroventrally tapering ramus (absent in L. lepidosteoides); 7)11 dorsal fin rays (14 in L. lepidosteoides); 8)anal fin smaller than pelvic fin (nearly equal in $L$ lepidosteoides); 9) 12 principal caudal fin rays (14 in L. lepidosteoides); 10) three teeth on the rostro-premaxillae (four or five in $L$ lepidosteoides);and11) three scales between posttemporals (single in L. lepidosteoides).
+
+Furthermore,the discovery of $L$ fortuna is of special interest in paleobiogeography, extending the geological distribution of the genus from the latest Anisan to Ladinian of the southern and eastern Switzerland, northern Italy and Catalonia in Spain (a part of the western Paleotethys Ocean) into the Ladinian of Xingyi, Guizhou in South China (a part of the eastern Paleotethys Ocean). The first occurrence of the type species $L$ lepidosteoides in the latest Anisian indicates that the genus originated no later than ${ \sim } 2 4 2 \ \mathrm { M a }$ ，about two million years earlier than $L$ .fortuna. The original center of Luganoia is less easy to determine.Assuming that the genus originated in Europe based on the present fossil record, the Paleotethys Ocean would have provided a west-east corridor for the dispersal of this genus into South China. L. fortuna documents the first record of the Luganoiidae in China (or even Asia).Although the short and deep bodied Brachysomus from the same fossil assemblage was previously referred to the Luganoiidae (Liu et al.,2Oo3),this is based on inaccurate anatomical identifications. My comparative studies of the holotype and new specimens collected in recent years indicate that Brachysomus is a ginglymodian within the neopterygian crown.A detailed revision of Brachysomus is out of the scope of this paper and will be presented in the future.
+
+# 5 Conclusion
+
+The discovery of $L$ .fortuna provides an important addition to our understanding of the taxonomical diversity of the Middle Triassic (Ladinian) Xingyi Biota. The new finding represents the first record of the Luganoiidae in Asia, indicating that the biogeographical distribution of this family is much wider than previously recognized. Comparative studies of the Chinese species with the slightly older type species from Europe reveal some anatomical features previously unnoticed in Luganoia,and an amended diagnosis of the genus is presented.Additionally, the study specially emphasizes the distinguishable features between the Chinese and European species,and the results provide valuable information on the morphological diversification of Luganoia.
+
+AcknowledgmentsI thank Chang M.-M.and Bürgin T. for valuable comments on a previous version of this manuscript, Yin P.-F.and Lin H.-X. for conducting X-ray computed tomography, Furrer H. for access to comparative fossil material in the Palaontologisches Institut und Museum, Uinversität Zürich,and Li N.for helps in fossil collection.
+
+# 贵州中三叠世兴义生物群卢加诺鱼属(卢加诺鱼科，新鳍鱼类)一新种
+
+徐光辉1,2
+
+(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2中国科学院生物演化与环境卓越创新中心北京100044)
+
+摘要：新鳍鱼类是辐鳍鱼亚纲中最大的现生类群，中三叠世卢加诺鱼科则是新鳍鱼类干群中的一支，具有特化的头骨和特别高的侧腹鳞片。自1939年命名以来，卢加诺鱼科仅以瑞士东部和南部、意大利北部和西班牙东南部中三叠世海相地层安尼期/拉丁期界线附近发现的瓷鳞卢加诺鱼(Luganoia lepidosteoides)为唯一代表。根据贵州兴义中三叠世晚期(拉丁期)海相地层发现的一块较完整的精美鱼化石，命名了卢加诺鱼属一新种，祥瑞卢加诺鱼(Luganoia fortuna sp.nov.)。新种代表了卢加诺鱼科在亚洲的首次出现，表明此科的生物地理分布比之前认识的要大很多。基于新种与模式种的比较研究，修订了卢加诺鱼属的鉴定特征，揭示了该属过去一些未注意到的解剖学特征，例如存在一对眶前骨，缺少板片状的方颧骨，背鳍基部具有一狭长的裸露身体区域；臀鳍很小，与尾鳍的距离比与腹鳍更近;后匙骨缺失。此外，详细列举了中国新种与欧洲模式种的形态差异，研究结果为了解卢加诺鱼属的形态多样性提供了重要信息。
+
+关键词：贵州兴义，三叠纪，卢加诺鱼科，新鳍鱼类，骨骼学，古地理
+
+# References
+
+Arratia G,20l3.orphology,taxonomy,andpylogenyofTiassicpholidophoridfshes (Actinopterygi,Tleostei).Soc Vert Paleont Mem (Supp J Vert Paleont),13:1-138   
+BartramAWH,1977.The Macrosemiidae,a Mesozoic familyofholostean fishes.BullBr Mus Geol,29:137-234   
+Benton MJ,ZhangQY,HuSXetal.,2Ol3.Exceptionalvertebratebiotas fromtheTriasicofChina,andtheexpansionof marine ecosystems after the Permo-Triassic mass extinction.Earth Sci Rev,125:199-243   
+Brough J,1939.The Triassic fishes of Besano,Lombardy.London: British Museum (Natural History).1-117   
+BirginT,1992.Basalray-fnedfshes (Osteichthyes;Actinopterygii)fromtheiddleTasicofMonteSnGorgio(Canton Tessin, Switzerland). Schweiz Paläont Abh,114:1-164   
+BurginT,199.Middle Triassic marinefish faunas from Switzerland.In:Aratia G,Schultze H-eds.Mesozoic Fishes 2- Systematics and Fosil Record. Munchen: Verlag Dr.F. Pfeil. 481-494   
+CartanyaJ,99.AnoverviewoftheMiddleTriassicactinopterygiansfromover,Mont-RalandElinetel (Catalonya, Spain).In: Arratia G,Schultze H-Peds.Mesozoic Fishes2-Systematics andFossil Record.Munchen: Verlag Dr.F. Pfeil. 535-552   
+Chen Z,1985.Stratigraphical position of Keichousaurus hui from the Middle Triasic of southwestern Guizhou and its significance. Guizhou Geol, 5: 289-290   
+Gardiner B G,Schaeffer B,1989.Interrelationships oflower actinopterygian fishes.ZoolJLinn Soc,97(2):135-187   
+Geng BH,ZhuM,JinF,0o9.Arevisionand phylogeneticanalysisofGuizhoucoelacanthus (Sarcopterygi,ctiistia) from the Triassic of China. Vert PalAsia,47: 165-177   
+Grande L,Bemis WE,1998.Acomprehensive phylogenetic studyof amiid fishes (Amidae)based oncomparative skeletal anatomy: an empirical search for interconnected patterns of natural history.Soc Vert Paleont Mem (Suppl J Vert Paleont), 4: 1-690   
+Grifth J,1977.The Upper Triassic fishes from Polzberg bei Lunz,Austria. Zool JLinn Soc,60(1): 1-93   
+Herzog A,Birgin T,20o5.Anew speciesof the genus Besania Brough 1939 from the Middle Triasic ofCanton Grisons (Switzerland) with a discussion of the phylogenetic status of the taxon.Eclogae Geol Helv,98(1): 113-122   
+JinF,2001.Notes on the discovery of Birgeria in China.Vert PalAsia,39:168-176   
+LehmanJ-P1958.Superordre des Chondrosteens.Formes fosils.In: GrasséPPed.Traitede zoologie,Tome13,fasc3. Paris: Masson et Cie.2130-2164   
+Li C,Wu X C,Zhao LJet al.,2016.Anew armored archosauriform (Diapsida: Archosauromorpha) from the marine Middle Triassic of China,with implications forthe diverse life styles of archosauriforms prior to the diversification of Archosauria. Sci Nat,103: 95   
+Li JL,2006.A brief summary of the Triasic marine reptiles of China. Vert PalAsia, 44: 99-108   
+Li JL,JinF,2009.Swimming in the Ocean Two Hundred Milion Years Ago: Triasic Marine Reptile andEnvironmentof South China. Beijing: Science Press.1-145   
+Li Z G,Sun ZY,JiangDYetal.,2016.LA-ICP-MS ZrconU-Pbageofthefossil layerof Triassic XingyiFauna from Xingyi,Guizhou,and its significance. Geol Rev,62: 779-790   
+Liu G B,Yin G Z, Wang XH,2002. On the most primitive amid fish from Upper Triasic of Xingyi, Guizhou. Acta Palaeont Sin,41: 461-463   
+Liu GB,YinGZ,Wang XHetal.,20o3.Newdiscovered fishes from Keichousaurus bearing horizonofLate Triassic in Xingyi of Guizhou. Acta Palaeont Sin,42: 346-366   
+Lombardo C,199.Sexual dimorphism inanewspecies oftheactinopterygian Peltopleurus from the Triasicofnorthern Italy. Palaeontology, 42(4): 741-760   
+LombardoC,BrambilascaF,20o5.Anew perleidiform (Actinopterygi,Osteichthyes)from theLate Triassicof northern Italy.BollSoc Paleontol Ital,44: 25-34   
+LuH,Jiang DY,Motani R etal.,2018.Middle Triasic XingyiFauna:showing turnoverof marinereptiles fromcoastalto oceanic environments. Palaeoworld,27(1): 107-116   
+MuterRJ,Herzog A,2o04.Anew genus ofTriassic actinopterygian with anevaluationofdeepened fank scales in fusiform fossil fishes.JVert Paleont,24(4): 794-801   
+PatersonC,197.Interelationshipsof holosteans.In:GreenwoodPH,Miles RS,Pattrson Ceds.Interrelationsipsof Fishes. ZoolJLinn Soc,53(Suppl): 233-305   
+Regan CT,1923.The skeleton ofLepidosteus,with remarks on theorigin and evolution of the lower neopterygian fishes. Proc Zool Soc London,1923: 445-461   
+SchroderK,pez-rbarelo,bert,212.Macrosemimimusgennov. (Actinopterygi,mionotiformes)frot Late Jurassic of Germany,England and France.JVert Paleont,32(3): 512-529   
+Su D Z,1959.Triassic fishes from Kueichow, Southwest China. Vert PalAsia,3: 205-210   
+Sun ZY,LombardoC,TintoriAetal.,2012.Fuyuanperleidus dengiGeng etal.2012(Osteichthyes,Actinopterygjfrom the Middle Triassc of Yunnan Province,South China.Riv Ital Paleont Stratigr,118:359-373   
+Sun ZY,LombardoC,Tntori Aetal.,2015.Anew speciesofAltisolepis (Peltopeuriformes,Actinopterygii fromthe Middle Triassic of southern China.JVert Paleont,35(2): e909819,doi: 10.1080/02724634.2014.909819   
+Tintori A,Sassi D,1992.Thoracopterus Bronn (Osteichthyes: Actinopterygii:a gliding fish from the Upper Triassicof Europe. JVert Paleont,12(3): 265-283   
+Tintori A,SunZY,NiPGetal.,2O15.Oldeststem Teleostei from the lateLadinian (MiddleTriassic)ofsouther China. Riv Ital Paleont Stratigr,121: 285-296   
+Wang CY,Kang PQ,Wang ZH,1998.Conodont-basedageofthe Keichousaurus hui Yang,1958.Acta Micropalaeont in, 15: 196-198   
+Wen W,HuSX,ZhangQYetal.,2019.Anew speciesofPlatysiagum from the Luoping Biota (Anisian,Middle Triassic, Yunnan,South China)reveals the relationship between Platysiagidae and Neopterygii. Geol Mag,156(4): 669- 682   
+WestollTS,1944.The Haplolepidae,anew familyofLateCarboniferousbonyfshes-Astudy in taxonomyandevolution. Bull Am Mus Nat Hist,83: 1-121   
+Xu GH,2019.Osteologyand phylogenyof Robustichthys luopingensis,the largestholosteanfish in the Middle Triassic. PeerJ,7: e7184   
+Xu G H,Ma X Y,2016.A Middle Triasic stem-neopterygian fish from China sheds new light on the peltopleuriform phylogeny and internal fertilization. Sci Bul,61: 766-1774   
+Xu G H, Ma X Y,2018.Redescription and phylogenetic reassessment of Asialepidotus shingyiensis (Holostei: Halecomorphi) from the Middle Triassic (Ladinian) of China. Zool JLinn Soc,184(1): 95-114   
+Xu G H,WuFX,2012.Adeep-bodied ginglymodian fish fromthe Middle Triassicofeastern Yunnan Province,China,and the phylogeny of lower neopterygians. Chinese Sci Bull,57(1): 111-118   
+XuGH,ZhaoLJ,2015.From Potanichthys to Wushaichthys:resolving theevolutionaryoriginandreproductive strategyof the Thoracopteridae.Biol Lett,11:20150604   
+Xu G H,ZhaoLJ, GaoKQetal.,2012.Anew stem-neopterygianfishfromthe Middle TriassicofChina showstheearliest over-water gliding strategy of the vertebrates.Proc R Soc B,280: 20122261   
+Xu G H,Gao KQ,Coates MI,2015a. Taxonomic revision of Plesiofuro mingshuica from the Lower Triassic of northern Gansu,China,and the relationshipsof early neopterygian clades.JVert Paleont,35(6): el0o1515,doi: 10.1080/02724634.2014.1001515   
+Xu G H,ZhaoLJ,Shen CC,2015b.A Middle Triasic thoracopterid from China highlights theevolutionaryoriginof overwater gliding in early ray-finned fishes.Biol Lett,1l(1): 20140960   
+Xu G H,Ma X Y,Ren Y,2018a.Fuyuanichthys wangi gen.et sp. nov.from the Middle Triasic (Ladinian)of China highlights the early diversification of ginglymodian fishes.PeerJ,6: e6054,doi:10.7717/peerj.6054   
+Xu GH,MaXY,ZhaoLJ,2O18b.Alarge peltopleurid fishfrom the Middle Triassc (Ladinian)ofYunnanandGuizhou, China.Vert PalAsiat,56:106-120   
+Young CC,1958.On the new pachypleurosauroidea from Keichow, Southwest China.VertPalAsia,2: 69-81   
+Zou XD,Balini M,JiangDYetal.,2015.Ammonoids from the Zhuganpo Memberof theFalang Formation at Nimaigu and their relevance fordating the Xingyi Fosil-Lagerstaette (late Ladinian,Guizhou,China).Riv Ital Paleont Stratigr,121: 135-161

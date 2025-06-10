@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "Low-carbon economic development in Central Asia based on LMDI decomposition and comparative decoupling analyses ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Jiaxiu1,2.3, CHEN Yaning1\\*,LI Zhil, HUANG Xiaotao4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State KeyLaboratoryofDesertand Oasis Ecology,Xinjiang InstituteofEcologyand Geography,Chinese AcademyofSciences, Urumqi 830011, China;   \n2College ofResourceandEnvironment Sciences,XinjiangUniversity,Urumqi83046,China;   \n3 University of Chinese Academy of Sciences,Beijing 10o049, China;   \n4 KeyLaboratoryofRestorationEcologyforColdRegions inQinghaiNorthwestItuteoflateau BiologyChineseAcademyof Sciences,Xining 810008,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Low-carbon economic development is a strategy that is emerging in response to global climate change.Being the third-largest energy base in the world, Central Asia should adopt rational and efficient energy utilization to achieve the sustainable economic development. In this study,the logarithmic mean Divisia index (LMDI) decomposition method was used to explore the influence factors of $\\mathrm { C O } _ { 2 }$ emissions in Central Asia (including Kazakhstan, Uzbekistan, Kyrgyzstan,Tajkistan and Turkmenistan)during the period 1992-2014.Moreover,decoupling elasticity and decoupling index based on the LMDI decomposition results were employed to explore the relationship between economic growth and $\\mathrm { C O } _ { 2 }$ emissions during the study period. Our results show that the total $\\mathrm { C O } _ { 2 }$ emissions decreased during the period 1992-1998,influenced by the collapse of the Soviet Union in 1991 and the subsequent financial crisis.After 1998,the total $\\mathrm { C O } _ { 2 }$ emissions started to increase slowly along with the economic growth after the market economic reform. Energy-related $\\mathrm { C O } _ { 2 }$ emissions increased in Central Asia,mainly driven by economic activity effect and population efect, while energy intensity effect and energy carbon structure effect were the primary factors inhibiting $\\mathrm { C O } _ { 2 }$ emissions. The contribution percentages of these four factors (economic activity effect, population effect, energy intensity effect and energy carbon structure effect) to the total $\\mathrm { C O } _ { 2 }$ emissions were $1 1 . 8 0 \\%$ ， $3 9 . 0 8 \\%$ ， $- 4 4 . 8 2 \\%$ and $- 4 . 3 2 \\%$ , respectively, during the study period. Kazakhstan, Uzbekistan and Turkmenistan released great quantities of $\\mathrm { C O } _ { 2 }$ with the annual average emissions of $1 8 9 . 6 9 \\times 1 0 ^ { 6 }$ 0 $4 5 . 5 5 \\times 1 0 ^ { 6 }$ and $1 1 5 . 3 8 \\times 1 0 ^ { 6 }$ t, respectively.In fact, their economic developments depended on high-carbon energies.The decoupling indices clarified the relationship between $\\mathrm { C O } _ { 2 }$ emissions and economic growth, highlighting the occurrence of a \"weak decoupling\" between these two variables in Central Asia. In conclusion,our results indicate that $\\mathrm { C O } _ { 2 }$ emissions are stil not completely decoupled from economic growth in Central Asia. Based on these results, we suggest four key policy suggestions in this paper to help Central Asia to reduce $\\mathrm { C O } _ { 2 }$ emissions and build a resource-conserving and environment-friendly society. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: energy-related $\\mathrm { C O } _ { 2 }$ emissions; low-carbon economy; LMDI decomposition; decoupling elasticity; decoupling index; Central Asia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:LIJiaxiu,CHENYaning,LIZhi,HUANG Xiaotao.2019.Low-carbon economic developmentinCentral Asiabased onLMDI decompositionand comparative decouplinganalyses.Journal of Arid Land，1(4): 513-524. https://doi.org/10.1007/s40333-019-0063-0 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the significant influence of climate warming on social and economic development, the interest in low-carbon economy has grown globally (Olcott, 2006; Pablo-Romero et al.,2017). The essence of low-carbon economy is to cut the link between economic growth and greenhouse gas emissions, for example through energy technology and policy innovations (Mohsen et al., 2O16; Nepal et al., 2017; Wang et al., 2017). A correct understanding of the changing relationship between economic growth and greenhouse gas emissions is hence needed to evaluate the realization of a regional low-carbon economy and formulate a dedicated development strategy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Earlier studies on the relationship between energy consumption and economic development have been based on the environmental Kuznets hypothesis, the gray relational degree method, the co-integration relationship，and the coordination degree model (Organization for Economic Co-operation and Development, 2005; Feng et al.,2011; Zhang et al.,2011; Wang et al.,2012). Since the $2 1 ^ { \\mathrm { s t } }$ century, however,researches in this field have been mainly based on the environmental Kuznets curve (EKC) and decoupling theories. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the EKC theory， the curve describing the relationship between carbon emissions and environmental growth is simulated using historical experience data (Oh and Yun,2014; Asane-Otoo, 2016).This technique is highly sensitive to sample selection, data selection and measurement methods; hence,there is no consensus on the carbon emissions calculated based on this theory. The decoupling theory can be used to calculate the synchronicity between economic growth and resource consumption rates. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An early decoupling index was defined as the ratio between the ending and the initial values of the ratio between environmental pressure and gross domestic product (GDP). This decoupling index could effctively identify the occurrence of decoupling,but it could not distinguish different decoupling states (Hunt,1994; Organization for Economic Co-operation and Development, 2005). Later, the Tapio decoupling index was proposed to study the relationship between carbon emissions and economic growth in Europe during the period 1970-2001 (Tapio,2005). This index overcomes the sensitivity of the early decoupling model to the base period and presents a notable decoupling state recognition ability; hence,it is widely used in empirical research (Gao et al., 2Ol2; Liu et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The decomposition of the driving factors of carbon emissions (i.e., Kaya identity) was proposed by Kaya (1983) and it includes the Divisia and the Laspeyres indices as factor decomposition methods. Sun (1998) improved the residual problems of the Laspeyres index; additionally, Ang and Zhang (2000) proposed the logarithmic-mean Divisia index (LMDI), which can decompose multiple factors of carbon emissions and reduce the residual error to O.Therefore, the LMDI is widely applied to the factor decomposition of energy-related carbon emissions (Wang et al.,2011; Hu et al.,2014).For example,Lai and Zheng (2017) analyzed the carbon emissions from industrial energy consumption in Dalian City of China using the LMDI model. This work took into account energy structure, energy intensity, industrial structure and output scale. Yao et al. (2O18) used the LMDI model to study the driving effect of spatial differences in provincial water consumption, decomposing the driving effect into intensity, structure, income and population effects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Central Asia is one of the most environmentally vulnerable regions in the world.It has abundant energy resources, perhaps exceeding those in Kuwait, the Gulf of Mexico and the North Sea (Dorian et al., 2006; Mercure and Salas, 2012). Since the beginning of the $2 1 ^ { \\mathrm { s t } }$ century, increasing energy consumption in Central Asia resulted in higher $\\mathrm { C O } _ { 2 }$ emissions, further increasing the temperature in Central Asian arid region by approximately $1 ^ { \\circ } \\mathrm { C } { - } 2 ^ { \\circ } \\mathrm { C }$ (Lioubimtseva and Henebry,2009). In order to reduce such high $\\mathrm { C O } _ { 2 }$ emissions,it is essential to develop a low-carbon economy in this area. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we examined the influence factors of energy-related $\\mathrm { C O } _ { 2 }$ emissions in Central Asia by applying the LMDI model. Moreover, we explored the relationship between $\\mathrm { C O } _ { 2 }$ emissions and economic growth according to the Tapio decoupling model and a decoupling index.The overall aim of this study was to provide a scientific reference for the development of a low-carbon economy, to reduce $\\mathrm { C O } _ { 2 }$ emissions and ultimately to alleviate climate change in Central Asia. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In its narrow sense, Central Asia includes five countries (i.e., Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan and Turkmenistan） located between $4 6 ^ { \\circ } 2 8 ^ { \\prime } - 8 7 ^ { \\circ } 2 9 ^ { \\prime } \\mathrm { E }$ and $3 5 ^ { \\circ } 0 8 ^ { \\prime } - 5 5 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { N } .$ 、This is at the same time one of the most sparsely populated areas in the world, with a total area of about $4 . 0 0 \\times 1 0 ^ { 6 }$ $\\mathrm { k m } ^ { 2 }$ (Siegfried et al., 2012; Mannig et al.,2013). It is also a geopolitical center, connecting many regions of the Northern Hemisphere. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Landforms in Central Asia are higher in the southeast than in the northwest. The mountains located in the southeastern area (Eurasian hinterland) block the warm-humid airflow from the Indian and Pacific oceans, maintaining a temperate continental climate in this region. The most prominent climate feature is the rare occurrence of precipitation (average annual precipitation ${ < } 3 0 0 \\ \\mathrm { m m }$ ： Mannig et al.， 2013)，combined with strong solar radiation and high evaporation. The total population in Central Asia amounts to $6 7 . 7 0 \\times 1 0 ^ { 6 }$ , while cultivated lands occupy an area of $3 2 . 3 0 \\times 1 0 ^ { 6 }$ $\\bar { \\mathrm { h m } ^ { 2 } }$ and water resources amount to $2 5 . 0 0 \\times 1 0 ^ { 1 0 } \\mathrm { m } ^ { 3 }$ (Yao et al., 2013). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Additionally, Central Asia has abundant energy resources. Specifically, its energy reserves are the third in the world, surpassed only by those in the Middle East and Siberia (Dorian,2006). Kazakhstan， Turkmenistan， Uzbekistan， Kyrgyzstan and Tajikistan possess energy reserves of $2 6 . 9 0 \\times 1 0 ^ { 9 }$ $3 . 3 0 \\times 1 0 ^ { 9 }$ $4 . 4 1 \\times 1 0 ^ { 9 }$ ， $0 . 5 9 \\times 1 0 ^ { 9 }$ and $\\bar { 0 . 5 1 } \\times 1 0 ^ { 9 }$ t, respectively (Cobanli, 2014). As a matter of fact, such energy resources have been at the core of the industrial development of Kazakhstan, Turkmenistan and Uzbekistan, favoring their rapid economic growth. However, agriculture still remains the main industry in Tajikistan and Kyrgyzstan. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data of $\\mathrm { C O } _ { 2 }$ emissions, human population, GDP and energy use for each Central Asian country during the period 1992-2014 were obtained from the World Bank (http://ata.worldbank.org.cn). We converted the GDP data to constant 2O10 USD in order to eliminate the inflation effect, and also transformed all the energy use data into their oil-equivalent. Finally,we obtained all energy consumption data from the Carbon Dioxide Information AnalysisCenter (CDIAC; http://cdiac.ess-dive.lbl.gov). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Decoupling elasticity ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The decoupling elasticity theory was first proposed by Tapio (2Oo5) for the processing of causal relationships among variables. The results of this method can be divided into three statuses (i.e., connection, decoupling and negative decoupling) corresponding to three threshold values (0.0, 0.8 and 1.2,respectively). These statuses can be further subdivided into eight categories (i.e.， strong decoupling, weak decoupling, strong negative decoupling， weak negative decoupling, expansive negative decoupling, expansive connection, recessive decoupling and recessive connection; Fig. 1) by the following equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\left( { \\frac { \\Delta C } { C ^ { 0 } } } \\right) / { \\left( { \\frac { \\Delta G } { G ^ { 0 } } } \\right) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\beta$ is the decoupling elasticity indicator of $\\mathrm { C O } _ { 2 }$ emissions and economic growth; $\\Delta C$ and $\\Delta G$ refer to the changes in $\\mathrm { C O } _ { 2 }$ emissions (t) and GDP growth (USD), respectively; and $C ^ { 0 }$ and $G ^ { 0 }$ are the $\\mathrm { C O } _ { 2 }$ emissions (t) and the GDP (USD) in the baseline year (1992). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2Kaya identity ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Kaya identity was proposed by Kaya (199O) during the first IPCC seminar as a mean of decomposing carbon emissions.It can be expressed as follows: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\sum _ { j } C _ { j } = \\sum _ { j } P { \\bf \\times } \\frac { G } { P } { \\bf \\times } \\frac { E } { G } { \\bf \\times } \\frac { C } { E } = \\sum _ { j } P { \\bf \\times } A { \\bf \\times } I { \\bf \\times } S ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $C , P , G$ and $E$ refer to the total energy-related $\\mathrm { C O } _ { 2 }$ emissions (t), regional population, gross domestic product at constant 2010 prices (USD） and total end-use energy consumption (t), respectively; and $j$ represents the year.The Kaya identity reveals the impact factors of $\\mathrm { C O } _ { 2 }$ emissions: $P$ expresses the population growth as a determinant of energy demand (i.e., the population effect; unit: people), $A$ refers to the increase in $\\mathrm { C O } _ { 2 }$ emissions caused by per capita GDP growth (i.e., the economic active effect; unit: USD/people), $I$ corresponds to the energy consumption per unit of GDP (i.e., the energy intensity effect; unit: t/USD),and $S$ describes the $\\mathrm { C O } _ { 2 }$ emissions per unit of energy consumption (i.e., the energy carbon structure effect). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "△C(t) Expansive negative, 1.2 decoupling △C>0.0 △G>0.0 Expansive connection β>1.2 △C>0.0 △G>0.0 0.8 0.8<β<1.2 Strong negative decoupling △C>0.0 △G<0.0 Weak decoupling △C>0.0 △G>0.0 0.0<β<0.8 Weak negative decoupling AG (USD) △C<0.0 △G<0.0 0.0<β<0.8 Strong decoupling △C<0.0 △G>0.0 Recenectoie β<0.0 0.8<β<1.2 △C<0.0 △G<0.0 β>1.2 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 LMDI decomposition method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The LMDI decomposition method includes an additive version and a multiplicative version, whose results are similar. In this paper, we applied the additive decomposition method,which can be expressed by the following equations: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\iota _ { - } ^ { c } - C ^ { * } = \\Delta C _ { \\mathrm { p r e s } } ^ { * } + \\Delta C _ { \\mathrm { s t } } ^ { c } + \\Delta C _ { \\mathrm { s t } } ^ { c } + 4 C _ { \\mathrm { s t } } ^ { c } } \\\\ & { \\quad \\Delta C _ { \\mathrm { s t } } ^ { c } = \\displaystyle \\sum _ { j ^ { \\prime } } \\mathrm { w l l } \\frac { P } { P ^ { j ^ { \\prime } } } , } \\\\ & { \\quad \\Delta C _ { \\mathrm { s t a r } } ^ { c } = \\displaystyle \\sum _ { j ^ { \\prime } } \\mathrm { w l l } \\frac { A ^ { \\dagger } } { A ^ { 0 } } , } \\\\ & { \\quad \\Delta C _ { \\mathrm { a a } } ^ { c } = \\displaystyle \\sum _ { j ^ { \\prime } } \\mathrm { w l l } \\frac { T ^ { j ^ { \\prime } } } { j ^ { 0 } } , } \\\\ & { \\quad \\Delta C _ { \\mathrm { c e } } ^ { c } = \\displaystyle \\sum _ { j ^ { \\prime } } \\mathrm { w l l } \\frac { S ^ { \\dagger } } { S ^ { 0 } } , } \\\\ & { \\quad \\quad \\Delta C _ { \\mathrm { c e } } ^ { c } = \\displaystyle \\sum _ { j ^ { \\prime } } \\mathrm { w l l } \\frac { S ^ { \\dagger } } { S ^ { 0 } } , } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta C _ { \\mathrm { t o t } }$ indicates the increment in the total $\\mathrm { C O } _ { 2 }$ emissions (t) from year $t$ to year O; $C ^ { t }$ and $C ^ { 0 }$ represent $\\mathrm { C O } _ { 2 }$ emissions (t) in year $t$ and in the baseline year (1992); $\\Delta C _ { \\mathrm { p o p } ; } ^ { t }$ $\\Delta C _ { \\mathrm { { a c t } } } ^ { t }$ ， $\\Delta C _ { \\mathrm { i n t } } ^ { t }$ and $\\Delta C _ { \\mathrm { s t r } } ^ { \\prime }$ indicate the changes in $\\mathrm { C O } _ { 2 }$ emissions (t) linked to population, economic activity, energy intensity and energy carbon structure effects,respectively; $w$ indicates the estimated weight; $i$ represents the year; $P ^ { 0 } , A ^ { 0 } , I ^ { 0 }$ and $S ^ { 0 }$ are the population effect, economic activity effect, energy intensity effect and energy carbon structure effect in the baseline year(1992),respectively;and $P ^ { t }$ 0 $A ^ { t }$ $I ^ { t }$ and $S ^ { t }$ are the population effect, economic activity effect, energy intensity effect and energy carbon structure effect in the $i ^ { \\mathrm { t h } }$ year, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4 Decoupling index ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We applied a novel decoupling method to verify the relationship between economic growth and $\\mathrm { C O } _ { 2 }$ emissions in Central Asia,based on the results of the additive LMDI method (Diakoulaki and Mandaraka, 2007; Vehmas et al., 2O07). The advantage of this approach is that it can achieve the decoupling target for each factor,rather than providing a rough and superficial relationship between economic growth and $\\mathrm { C O } _ { 2 }$ emissions (Wang et al.,2O16). Here,we could identify which factor(s) enhanced or curtailed $\\mathrm { C O } _ { 2 }$ emissions to what extent. The method can be expressed by the following equations: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta E _ { t } = \\Delta C _ { \\mathrm { t o t } } - \\Delta C _ { \\mathrm { a c t } } ^ { t } = \\Delta C _ { \\mathrm { p o p } } ^ { t } + \\Delta C _ { \\mathrm { i n t } } ^ { t } + \\Delta C _ { \\mathrm { s t r } } ^ { t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta = - \\frac { \\Delta E _ { t } } { \\Delta C _ { \\mathrm { a c t } } ^ { t } } = - \\frac { \\Delta C _ { \\mathrm { p o p } } ^ { t } } { \\Delta C _ { \\mathrm { a c t } } ^ { t } } - \\frac { \\Delta C _ { \\mathrm { i n t } } ^ { t } } { \\Delta C _ { \\mathrm { a c t } } ^ { t } } - \\frac { \\Delta C _ { \\mathrm { s t r } } ^ { t } } { \\Delta C _ { \\mathrm { a c t } } ^ { t } } = \\delta _ { \\mathrm { p o p } } ^ { t } + \\delta _ { \\mathrm { i n t } } ^ { t } + \\delta _ { \\mathrm { s t r } } ^ { t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where, $\\Delta E _ { t }$ represents the total inhibiting effect on $\\mathrm { C O } _ { 2 }$ emissions (t); $\\delta$ is the total decoupling index; and $\\delta _ { \\mathrm { p o p } } ^ { t } , \\delta _ { \\mathrm { i n t } } ^ { t }$ and $\\delta _ { \\mathrm { s t r } } ^ { t }$ represent the decoupling in population, energy intensity and energy carbon structure in the $i ^ { \\mathrm { t h } }$ year, respectively. $\\delta$ values can be $\\geq 1$ , between O and 1, or $\\leq 1$ , indicating strong, weak, or null decoupling, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 $\\mathbf { C O } _ { 2 }$ emission trajectories ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 $\\mathrm { C O } _ { 2 }$ emissions across Central Asia ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We calculated the change rates of the total $\\mathrm { C O } _ { 2 }$ emissions and per capita $\\mathrm { C O } _ { 2 }$ emissions in Central Asia during the period 1992-2014 (Fig. 2). In accordance with the change trends, we subdivided the study period into two stages:1992-1998 and 1999-2014. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/00d86dd97d596dc8fab5d140c090a9c7ab8dc365b2f7e982895f588ada116cb6.jpg",
+        "img_caption": [
+            "Fig.2 Change rates of the total $\\mathrm { C O } _ { 2 }$ emissions and per capita $\\mathrm { C O } _ { 2 }$ emissions in Central Asia from 1992 to 2014 (using 1992 as the baseline year) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During the first stage (1992-1998),the total $\\mathrm { C O } _ { 2 }$ emissions and per capita $\\mathrm { C O } _ { 2 }$ emissions decreased (average annual growth rates of $- 6 . 3 5 \\%$ and $- 7 . 0 9 \\%$ ,respectively). The growth decrease can be atributed to the collapse of the Soviet Union in 1991 and to the Asian financial crisis in 1998 (Rowland, 2001; Mao,2014). Following independence,the industrial sector of each Central Asian country lacked equipment and production capacity. Hence,the five analyzed countries endured considerable economic recession and population emigration, resulting in low energy consumption and $\\mathrm { C O } _ { 2 }$ emissions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During the second stage (1999-2014), the total $\\mathrm { C O } _ { 2 }$ emissions and per capita $\\mathrm { C O } _ { 2 }$ emissions increased (average annual growth rates of $2 . 9 0 \\%$ and $1 . 4 4 \\%$ , respectively). It should be noted that a great increase occurred during 1999-2008,after the successful implementation of the market economic reform (Plyshevskii, 2014). However, this was followed by a sharp reduction during 2008-2009,related to the global financial crisis of September 2008 (Ruziev and Majidov,2013). After this short phase, Central Asian countries benefited from the improvements of the international macro-economy and financial environment, reflected by an increase in the total $\\mathrm { C O } _ { 2 }$ emissions and per capita $\\mathrm { C O } _ { 2 }$ emissions from 2009 to 2011. Finally, during 2012-2014,carbon emissions were put under control and even slightly decreased due to the implementation of environmental protection laws and regulations (Nepal et al., 2017). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Overall,the total $\\mathrm { C O } _ { 2 }$ emissions and per capita $\\mathrm { C O } _ { 2 }$ emissions in Central Asia reflected the economic development of this region. However, the population growth after year 1998 maintained the per capita $\\mathrm { C O } _ { 2 }$ emissions at a relatively low level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 $\\mathrm { C O } _ { 2 }$ emissions in each of the five Central Asian countries ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Kazakhstan, Uzbekistan and Turkmenistan are listed among the top 1OO countries in the world for heavy $\\mathrm { C O } _ { 2 }$ emissions (Dorian, 2006; Gonzalez, 2015). $\\mathrm { C O } _ { 2 }$ emissions in these three countries during the study period 1992-2014 are shown in Figure 3.In fact,Kazakhstan, Uzbekistan and Turkmenistan are rich in energy resources and are rapidly developing their industries by using high-carbon energies (e.g., coal, oil and natural gas; Dorian, 2Oo6). However, in Kyrgyzstan and Tajikistan, $\\mathrm { C O } _ { 2 }$ emissions changed only slightly during the study period,since the two countries have relatively weak industrial bases and their economic developments depend mainly on agricultural production (Tang and Chen, 2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a3741dd76fd9148492053ad174e85f0ee9d53a7bd8dc74245d4950c18a20c9e.jpg",
+        "img_caption": [
+            "Fig. 3 $\\mathrm { C O } _ { 2 }$ emissions in Central Asian countries during 1992-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2Decoupling elasticity between $\\mathbf { C O } _ { 2 }$ emissions and economic growth ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The relationship between economic growth and $\\mathrm { C O } _ { 2 }$ emissions was investigated by considering yearly decoupling elasticity data in the framework of the Tapio decoupling model (Table 1). We identified five different decoupling statuses in Central Asia: strong decoupling, weak decoupling, recessve decoupling, expansive negative decoupling and weak negative decoupling. Specifically, strong decoupling occurred mainly during the periods of 1996-1997 and 1999-2000,and in the years 2005,2009,2012 and 2014.During these periods or in these years, $\\mathrm { C O } _ { 2 }$ emissions changed heavily, while economic growth did not. Weak decoupling occurred during the periods of 2001- 2004,2006-2008 and 2010-2011,and in the year of 2013.During these periods or in this year, economic growth prompted an increase in $\\mathrm { C O } _ { 2 }$ emissions; moreover, economic growth rates were higher than $\\mathrm { C O } _ { 2 }$ emission rates.Recessionary decoupling occurred in 1993 and 1995, due to the collapse of the Soviet Union. All Central Asian countries experienced unstable political and economic environments during the early years of independence,leading to a decrease in industrial output and $\\mathrm { C O } _ { 2 }$ emissions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/01f3aad8753e95c88ff5e69d2a979213d0f9531f14065a8b40fba367e1e68b4e.jpg",
+        "table_caption": [
+            "Table1 Results of decoupling elasticity in Central Asia during l992-2014 "
+        ],
+        "table_footnote": [
+            "Note:△C, the changes in $\\mathrm { C O } _ { 2 }$ emissions (t); $\\Delta G$ ,the changes in GDP growth (USD); $\\beta$ ,the decoupling elasticity indicator of $\\mathrm { C O } _ { 2 }$ emissions andeconomicgrowth;RDrecessedcoupling;WD,eakegativedecoupling;WD,eakdecoupling;SDstrongecoupl;ED, expensive negative decoupling. "
+        ],
+        "table_body": "<html><body><table><tr><td>Time period</td><td>△C (t)</td><td>△G (USD)</td><td>阝</td><td>Status</td></tr><tr><td>1992-1993</td><td>-0.1162</td><td>-0.0762</td><td>1.5254</td><td>RD</td></tr><tr><td>1993-1994</td><td>-0.0592</td><td>-0.1146</td><td>0.5169</td><td>WND</td></tr><tr><td>1994-1995</td><td>-0.0874</td><td>-0.0557</td><td>1.5695</td><td>RD</td></tr><tr><td>1995-1996</td><td>-0.0627</td><td>0.0076</td><td>-8.2545</td><td>SD</td></tr><tr><td>1996-1997</td><td>-0.0278</td><td>0.0095</td><td>-2.9118</td><td>SD</td></tr><tr><td>1997-1998</td><td>0.0280</td><td>0.0031</td><td>8.9549</td><td>END</td></tr><tr><td>1998-1999</td><td>-0.0061</td><td>0.0340</td><td>-0.1808</td><td>SD</td></tr><tr><td>1999-2000</td><td>-0.0001</td><td>0.0642</td><td>-0.0021</td><td>SD</td></tr><tr><td>2000-2001</td><td>0.0358</td><td>0.0908</td><td>0.3943</td><td>WD</td></tr><tr><td>2001-2002</td><td>0.0219</td><td>0.0726</td><td>0.3021</td><td>WD</td></tr><tr><td>2002-2003</td><td>0.0296</td><td>0.0810</td><td>0.3649</td><td>WD</td></tr><tr><td>2003-2004</td><td>0.0771</td><td>0.0985</td><td>0.7826</td><td>WD</td></tr><tr><td>2004-2005</td><td>-0.0077</td><td>0.1115</td><td>-0.0695</td><td>SD</td></tr><tr><td>2005-2006</td><td>0.0462</td><td>0.1310</td><td>0.3525</td><td>WD</td></tr><tr><td>2006-2007</td><td>0.0890</td><td>0.1344</td><td>0.6623</td><td>WD</td></tr><tr><td>2007-2008</td><td>0.0368</td><td>0.0873</td><td>0.4211</td><td>WD</td></tr><tr><td>2008-2009</td><td>-0.1035</td><td>0.0495</td><td>-2.0919</td><td>SD</td></tr><tr><td>2009-2010</td><td>0.0914</td><td>0.1297</td><td>0.7049</td><td>WD</td></tr><tr><td>2010-2011</td><td>0.0618</td><td>0.1538</td><td>0.4017</td><td>WD</td></tr><tr><td>2011-2012</td><td>-0.0200</td><td>0.1218</td><td>-0.1639</td><td>SD</td></tr><tr><td>2012-2013</td><td>0.0224</td><td>0.1489</td><td>0.1505</td><td>WD</td></tr><tr><td>2013-2014</td><td>-0.0224</td><td>0.1287</td><td>-0.1738</td><td>SD</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Decomposition of $\\mathbf { C O } _ { 2 }$ emissions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 LMDI decomposition of $\\mathrm { C O } _ { 2 }$ emissions in Central Asia ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of decoupling elasticity (Table 1) indicated that there was a significant environmental pressure on economic growth and $\\mathrm { C O } _ { 2 }$ emissions in Central Asia. Therefore, it is necessary to analyze the factors influencing $\\mathrm { C O } _ { 2 }$ emissions in order to achieve the emission reduction target. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The additive LMDI method was applied to decompose the total $\\mathrm { C O } _ { 2 }$ emissions in Central Asia into four influence factors (population effect, economic activity effect, energy intensity effect and energy carbon structure effect). The annual contribution percentage of each factor to the total $\\mathrm { C O } _ { 2 }$ emissions is shown in Figure 4.Among these four factors,the economic active effect and population effect were generally responsible for the observed increases in $\\mathrm { C O } _ { 2 }$ emissions.The economic active effect contributed the most to $\\mathrm { C O } _ { 2 }$ emissions (approximately $2 5 . 4 4 \\times 1 0 ^ { 7 }$ t; contribution percentage of $3 9 . 0 8 \\%$ during 1992-2014.Meanwhile, the population effect contributed with about $7 6 . 8 0 \\times 1 0 ^ { 6 } \\mathrm { ~ t ~ }$ $\\mathrm { C O } _ { 2 }$ emissions (contribution percentage of $1 1 . 8 0 \\%$ ). The energy intensity effect and energy carbon structure effect mainly played inhibiting roles, decreasing $\\mathrm { C O } _ { 2 }$ emissions. Specifically, the energy intensity effect was more significant in reducing $\\mathrm { C O } _ { 2 }$ emissions during 1992-2014,with a reduction of approximately $- 2 9 1 . 7 8 { \\times } 1 0 ^ { 6 }$ t (contribution percentage of $- 4 4 . 8 2 \\%$ ). The energy carbon structure effect showed an inconsistent pattern, lowering $\\mathrm { C O } _ { 2 }$ emissions by about $- 2 8 . 0 9 \\times 1 0 ^ { 6 }$ t (contribution percentage of $- 4 . 3 2 \\%$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall, the cumulative change in the total $\\mathrm { C O } _ { 2 }$ emissions increased in time during the study period 1992-2014, except the periods of 1992-1998 (i.e., the transition stage from planned economy to market economy) and 2008-20o9 (i.e.,the start of the global financial crisis). The total $\\mathrm { C O } _ { 2 }$ emissions increased just by $1 1 . 3 3 \\times 1 0 ^ { 6 }$ t by the year 2014,compared to the baseline year 1992, due to the mpacts of social-economic developments and the energy use structure in Central Asia during the study period. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a40c4510baeeb92c08b257c808d9e460335a337268eb1b95ef560346fff31d0c.jpg",
+        "img_caption": [
+            "Fig.4Additive LMDI (logarithmic-mean Divisia index) decomposition of $\\mathrm { C O } _ { 2 }$ emissions from 1992 to 2014 in Central Asia. The line graph indicates the yearly incremental change of the total $\\mathrm { C O } _ { 2 }$ emissions.The bar graph indicates the contribution percentage of each influence factor on $\\mathrm { C O } _ { 2 }$ emission. The positive values represent the driving effects of influences factors,while the negative values indicate the inhibiting efects of influences factors. $\\Delta C _ { \\mathrm { p o p } }$ , the population effect; $\\Delta C _ { \\mathrm { { a c t } } }$ , the economic active effect; $\\Delta C _ { \\mathrm { i n t } }$ ,the energy intensity effect; $\\Delta C _ { \\mathrm { s t r } }$ ，the energy carbon structure effect; $\\Delta C _ { \\mathrm { t o t } }$ ,the total $\\mathrm { C O } _ { 2 }$ emission increment. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2LMDI decomposition of $\\mathrm { C O } _ { 2 }$ emissions in each of the five Central Asian countries The contributions of influence factors to the total $\\mathrm { C O } _ { 2 }$ emissions in the five Central Asian countries were explored and compared with each other, as shown in Figures 5 and 6. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This analysis demonstrated that the population effect and economic active effect are the two driving factors on $\\mathrm { C O } _ { 2 }$ emissions during 1992-2014 in all countries. The economic active effects in Kazakhstan,Turkmenistan and Uzbekistan were particularly significant,leading to the increments of $\\mathrm { C O } _ { 2 }$ emissions of $1 1 9 . 1 7 \\times 1 0 ^ { 6 }$ (contribution percentage of $4 1 . 4 6 \\%$ )， $5 0 . 0 7 \\times 1 0 ^ { 6 }$ (contribution percentage of $5 2 . 6 9 \\%$ and $8 5 . 5 5 \\times 1 0 ^ { 6 }$ t (contribution percentage of $3 2 . 9 1 \\%$ ), respectively.Although Turkmenistan had lower $\\mathrm { C O } _ { 2 }$ emissions,the economic active effect contributed to most of the $\\mathrm { C O } _ { 2 }$ emissions in this country. Due to a considerable population growth during the study period, the population effect was particularly high in Uzbekistan,leading to an increase in $\\mathrm { C O } _ { 2 }$ emissions by $\\mathsf { \\bar { 4 1 . 1 3 } } \\times 1 0 ^ { 6 } \\mathrm { t }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The energy intensity effect was the main inhibiting factor on $\\mathrm { C O } _ { 2 }$ emissions in the five Central Asian countries. Specifically, the largest decrease in $\\mathrm { C O } _ { 2 }$ emissions occurred in Kazakhstan and Uzbekistan, with $\\mathrm { C O } _ { 2 }$ emission reductions of $- 1 3 9 . 7 4 \\times 1 0 ^ { 6 }$ and $- 1 2 1 . 4 8 { \\times } 1 0 ^ { 6 }$ t, respectively. The larger inhibiting contribution percentages of this factor were however recorded in Kyrgyzstan and Tajikistan, with the contribution values of $- 6 0 . 6 1 \\%$ and $- 5 4 . 7 \\%$ ,respectively (the total $\\mathrm { C O } _ { 2 }$ emission reductions of $- 1 . 6 1 \\times 1 0 ^ { 6 }$ and $- 2 . 1 3 { \\times } 1 0 ^ { 6 }$ t, respectively). The energy intensity effect also had a relatively large inhibiting contribution to the total $\\mathrm { C O } _ { 2 }$ emissions in Kazakhstan (contribution percentage of $- 4 8 . 6 2 \\%$ ). The energy carbon structure effect generally played a relatively minor role on the total $\\mathrm { C O } _ { 2 }$ emissions in Central Asia.It tended to inhibit $\\mathrm { C O } _ { 2 }$ emissions in all countries except for Kyrgyzstan. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Overall, the total $\\mathrm { C O } _ { 2 }$ emissions during the study period decreased in Kazakhstan,Kyrgyzstan, Tajikistan and Uzbekistan (decreased by $- 1 3 . 7 3 { \\times } 1 0 ^ { 6 }$ ， $- 1 . 6 1 \\times 1 0 ^ { 6 }$ ， $- 2 . 1 3 { \\times } 1 0 ^ { 6 }$ and $- 6 . 5 9 \\times 1 0 ^ { 6 }$ t， respectively),while increased in Turkmenistan (increased by $3 5 . 3 9 \\times 1 0 ^ { 6 }$ t).The special case of ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Turkmenistan might be due to the higher energy consumption. Nevertheless,the driving effects of $\\mathrm { C O } _ { 2 }$ emissions could have been favored by the lack of energy efficiency and conservation policies in this country (Dong et al., 2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6492f84dab7e2eed9699be86d77665141a9ac25bd3da8544541bd3364a144853.jpg",
+        "img_caption": [
+            "Fig. 5 $\\mathrm { C O } _ { 2 }$ emission increment by each influence factor and the total $\\mathrm { C O } _ { 2 }$ emission increment in the five Central Asian countries during 1992-2014 ",
+            "Fig.6 Contribution percentage of each influence factor to the total $\\mathrm { C O } _ { 2 }$ emissions in the five Central Asian countries during 1992-2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "60- △Cpop △Cact △Cint △Cstr 40- reeeeeeet 20- 1 0 T11+1 -20 40 -60- -80 Kazakhstan Kyrgyzstan Tajikistan Turkmenistan Uzbekistan ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Decoupling index based on the additive LMDI decomposition results ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study, we explored the relationship between $\\mathrm { C O } _ { 2 }$ emissions and economic growth in Central Asia using a decoupling index, based on the additive LMDI decomposition results.The advantage of this decoupling index is that itcan express detailed decoupling information for each influence factor, including population, energy intensity and energy carbon structure. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The decoupling results (Table 2) included three statuses: strong decoupling,relative decoupling and no decoupling. The total decoupling index indicated the occurrence of strong decoupling during the periods of 1996-1997and 1999-2000,and in the years 2005,2009,2012 and 2014.These indications are consistent with the decoupling elasticity results. Relative decoupling occurred in the year 1994, during the period of 2001-2003,and again in the years 2006,2008,2011 and 2013.For all other years, there was no decoupling. Overall, $\\mathrm { C O } _ { 2 }$ emissions in Central Asia were strongly related to economic growth, except for a few years of strong decoupling that resulted from social and financial crises. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The influence factors of $\\mathrm { C O } _ { 2 }$ emissions showed almost no decoupling in respect to population, perhaps due to population growth. Moreover, the energy carbon structure showed either no or only a relative decoupling， suggesting a lack of optimization in its use and only a slight degree of degeneration over several years. Notably, energy intensity experienced a strong decoupling over nine years (1996,1997,1999,2000,2001,2005,2009,2012 and 2014),i.e.,it likely played a critical role in reducing $\\mathrm { C O } _ { 2 }$ emissions and prompting decoupling from economic growth. Hence, we suggest that more advanced energy-use technologies are needed to improve energy eficiency. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/dec6eee0e3a4d2aa6d2e69ccbda9e7b9a97b292f55518acbf9a6454ce56300fa.jpg",
+        "table_caption": [
+            "Table2Decoupling results based on additive LMDI(logarithmic-mean Divisia index)decomposition between $\\mathrm { C O } _ { 2 }$ emissions and economic growth in Central Asia "
+        ],
+        "table_footnote": [
+            "Note: δ,the total decoupling index; $\\delta _ { \\mathrm { p o p } } ^ { t }$ $\\delta _ { \\mathrm { i n t } } ^ { t }$ and $\\delta _ { \\mathrm { s u r } } ^ { \\ i }$ ,the decoupling in population,energy intensity and energy carbon structure in the $i ^ { \\mathrm { t h } }$ year, respectively; SD,strong decoupling; RD,relative decoupling; ND, no decoupling. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Time period</td><td colspan=\"2\">8</td><td colspan=\"2\">Spop</td><td colspan=\"2\">Sint</td><td colspan=\"2\"></td></tr><tr><td>Value</td><td>Status</td><td>Value</td><td>Status</td><td>Value</td><td>Status</td><td>Value</td><td>Status</td></tr><tr><td>1992-1993</td><td>-0.6476</td><td>ND</td><td>0.0656</td><td>RD</td><td>-0.5005</td><td>ND</td><td>-0.2127</td><td>ND</td></tr><tr><td>1993-1994</td><td>0.4070</td><td>RD</td><td>0.0005</td><td>RD</td><td>0.4700</td><td>RD</td><td>-0.0636</td><td>ND</td></tr><tr><td>1994-1995</td><td>-0.9185</td><td>ND</td><td>-0.0242</td><td>ND</td><td>-0.4704</td><td>ND</td><td>-0.4239</td><td>ND</td></tr><tr><td>1995-1996</td><td>7.4677</td><td>SD</td><td>-0.0912</td><td>ND</td><td>6.4534</td><td>SD</td><td>1.1055</td><td>SD</td></tr><tr><td>1996-1997</td><td>3.8915</td><td>SD</td><td>-0.1152</td><td>ND</td><td>5.3316</td><td>SD</td><td>-1.3249</td><td>ND</td></tr><tr><td>1997-1998</td><td>-1.6248</td><td>ND</td><td>-0.0317</td><td>ND</td><td>-1.8981</td><td>ND</td><td>0.3050</td><td>RD</td></tr><tr><td>1998-1999</td><td>1.1971</td><td>SD</td><td>-0.0509</td><td>ND</td><td>1.2545</td><td>SD</td><td>-0.0066</td><td>ND</td></tr><tr><td>1999-2000</td><td>1.0036</td><td>SD</td><td>-0.1151</td><td>ND</td><td>1.2400</td><td>SD</td><td>-0.1213</td><td>ND</td></tr><tr><td>2000-2001</td><td>0.2779</td><td>RD</td><td>-0.0863</td><td>ND</td><td>1.2253</td><td>SD</td><td>-0.8611</td><td>ND</td></tr><tr><td>2001-2002</td><td>0.4041</td><td>RD</td><td>-0.1289</td><td>ND</td><td>-0.5269</td><td>ND</td><td>1.0599</td><td>SD</td></tr><tr><td>2002-2003</td><td>0.2592</td><td>RD</td><td>-0.1450</td><td>ND</td><td>0.4460</td><td>RD</td><td>-0.0419</td><td>ND</td></tr><tr><td>2003-2004</td><td>-0.3948</td><td>ND</td><td>-0.1333</td><td>ND</td><td>0.0260</td><td>RD</td><td>-0.2875</td><td>ND</td></tr><tr><td>2004-2005</td><td>1.1229</td><td>SD</td><td>-0.1344</td><td>ND</td><td>1.3936</td><td>SD</td><td>-0.1363</td><td>ND</td></tr><tr><td>2005-2006</td><td>0.3108</td><td>RD</td><td>-0.1433</td><td>ND</td><td>-0.2082</td><td>ND</td><td>0.6623</td><td>RD</td></tr><tr><td>2006-2007</td><td>-0.2443</td><td>ND</td><td>-0.1596</td><td>ND</td><td>0.4262</td><td>RD</td><td>-0.5109</td><td>ND</td></tr><tr><td>2007-2008</td><td>0.2489</td><td>RD</td><td>-0.2698</td><td>ND</td><td>0.3737</td><td>RD</td><td>0.1450</td><td>RD</td></tr><tr><td>2008-2009</td><td>7.9163</td><td>SD</td><td>-1.3733</td><td>ND</td><td>9.1344</td><td>SD</td><td>0.1552</td><td>RD</td></tr><tr><td>2009-2010</td><td>-0.7281</td><td>ND</td><td>-0.3207</td><td>ND</td><td>0.2511</td><td>RD</td><td>-0.6586</td><td>ND</td></tr><tr><td>2010-2011</td><td>0.0573</td><td>RD</td><td>-0.2763</td><td>ND</td><td>-0.3304</td><td>ND</td><td>0.6640</td><td>RD</td></tr><tr><td>2011-2012</td><td>1.4022</td><td>SD</td><td>-0.3113</td><td>ND</td><td>1.5306</td><td>SD</td><td>0.1828</td><td>RD</td></tr><tr><td>2012-2013</td><td>0.6022</td><td>RD</td><td>-0.2855</td><td>ND</td><td>0.7265</td><td>RD</td><td>0.1612</td><td>RD</td></tr><tr><td>2013-2014</td><td>1.5129</td><td>SD</td><td>-0.3817</td><td>ND</td><td>1.5587</td><td>SD</td><td>0.3358</td><td>RD</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions and policy implications ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Energy-related $\\mathrm { C O } _ { 2 }$ emissions in Central Asia decreased during 1992-1998 and increased during 1999-2014. $\\mathrm { C O } _ { 2 }$ emissions were not completely decoupled from economic growth, i.e., the main status corresponded to a \"weak decoupling\". ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The economic active effect and population effect were the main driving factors of $\\mathrm { C O } _ { 2 }$ emissions, with contribution percentages of $3 9 . 0 8 \\%$ and $1 1 . 8 0 \\%$ ,respectively. Moreover, the energy intensity effect and energy carbon structure effect represented the inhibiting factors of $\\mathrm { C O } _ { 2 }$ emissions,with contribution percentages of $- 4 4 . 8 2 \\%$ and $- 4 . 3 2 \\%$ ,respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The contribution percentage of each influence factor was different in the five Central Asian countries. The increment of the total $\\mathrm { C O } _ { 2 }$ emissions decreased in almost every country except for Turkmenistan (increased by $3 5 . 3 9 \\times 1 0 ^ { 6 }$ t during the study period).Kazakhstan, Turkmenistan and Uzbekistan were the three main energy consumption countries, with annual average $\\mathrm { C O } _ { 2 }$ emissions of $1 8 9 . 6 9 \\times 1 0 ^ { 6 }$ ， $4 5 . 5 4 \\times 1 0 ^ { 6 }$ and $1 1 5 . 3 8 \\times 1 0 ^ { 6 }$ t, respectively. In fact, Kazakhstan has been mainly relying on solid fuel consumption to develop its economy, while Turkmenistan and Uzbekistan on gas fuel. Kyrgyzstan and Tajikistan have lower energy reserves; hence, both of them have developed their economies relying mainly on the primary sector. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to realize a low-carbon economy in Central Asia, we suggest four key policy suggestions based on the results of this study. First, the industrial structure should be adjusted and the economic development mode should be changed. Specifically, the Central Asian countries need to reduce their reliance on the secondary industry and develop their tertiary industry (e.g.，tourism and other services). Additionally, emerging industries should be encouraged and international cooperation should be strengthened to achieve information industrialization and economic transformation. Second,energy should be utilized more eficiently and the supervision of industrial enterprises should be improved. Specifically, the Central Asian countries should acquire new emission reduction techniques (e.g., pollution treatment, waste disposal, cleaner production technologies, etc.). At the same time, high-pollution enterprises should undertake responsibility through accountability and higher taxation. Third, renewable energy resources should be developed further and the energy utilization structure should be optimized. Central Asia owns abundant renewable energy resources (e.g., wind power, solar energy, hydropower energy and biomass energy) that have an outstanding exploitation potential. That is to say, Central Asian countries can efectively replace traditional high-polluting energies with renewable energies by optimizing their utilization structure. Fourth, laws, regulations and public awareness on environmental protection issues should be improved. Central Asian governments should advocate for a \"green consumption\" through the media or educational organizations, guiding and encouraging the population in the use of recycled and \"green products\" in everyday life. Through these actions,Central Asia would be able to reduce $\\mathrm { C O } _ { 2 }$ emissions and build a resource-conserving and environment-friendly society. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Strategic Priority Research Program of the Chinese Academy of Sciences (XDA19030204)and the West LightFoundation ofthe Chinese Academyof Sciences (2015-XBQN-17).The authors are very grateful to the anonymous reviewers and editors for their critical review and comments which helped to improve and clarify the paper. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AngBW,ZhangFQ.2o.Asurveyofindexdecompositionanalysis inenergyandenvironmentalstudies.Energ,25(2):1149- 1176.   \nAsane-Oto E.20l6.Competitionpoliciesandenvironmentalquality:EmpiricalanalysisoftheelectricitysectorinOECDcoutries. Energy Policy,95:212-223.   \nCobanli O.2014.Central Asian gas in Eurasian power game.Energy Policy, 68:348-370.   \nDiakoulakiD,Mandaraka M.2Oo7.Decompositionanalysis forasssing the progress indecoupling industrial growth from $\\mathrm { C O } _ { 2 }$ emissions in the EU manufacturing sector. Energy Economics,29(4): 636-664.   \nDongJF,DengC,Wang XM,etal.2016.Multilevelindexdecompositionofenergy-relatedcarbonemissonsandtheirdecoupling from Economic Growth in Northwest China.Energies,9(9): 680.   \nDorian JP.2oo6.Central Asia: A major emerging energy player in the $2 1 ^ { \\mathrm { s t } }$ century. Energy Policy, 34(5): 544-555.   \nDorian JP,Franssen HT,Simbeck DR.2006.Global challenges inenergy.Energy Policy,34(15):1984-1991.   \nFeng J,QiX,FengXJ,etal.11.Ifuencingfctorsofeergyconsumptionforrailtransportbsedongreyrelatioaleree. Journal of Transportation Systems Engineering and Information Technology,11(1):142-146.(in Chinese)   \nGao J,Wang J,ZhaoJ.2012.Decouplingof transportation energyconsumption fromtransportation industrygrowth in China. Procedia-Social and Behavioral Sciences,43(4): 33-42.   \nGonzalezPF.2015.Exploring energyefficiencyinseveral Europeancountries.Anatributionanalysisof theDivisiastructural change index.Applied Energy,137: 364-374.   \nHuBT,Fang C.2O14.Anempiricalresearch oneconomic growth and energyconsumptionof WanJiang CityBelt: Basedon tapio modeland LMDI method.Journal of Tongling University,2:68-73.(in Chinese)   \nHuntA.1994.Anexplanationfortheobservedcorrelation between the decoupling index and theK-W-Wstretching parameter. Journal of Non-Crystalline Solids,168(3):258-264.   \nKaya Y.1983.Transportation and energy in Japan. Energy,8(1-2): 15-27.   \nKayaY.1990.Impactofcarbon dioxide emisioncontrolonGNP growth: interpretationof proposed scenarios.IPCC energyand industry subgroup,response strategies working group.Paris,France.   \nLaiB,ZhengH.2017.Studyoninfluencingfactorsofcarbonemisions forindustrialenergyconsumptioninDalianbasedonLMDI model.IOP Conference Series Earth and Environmental Science,64(1): 012043.   \nLioubimtseva E,Henebry GM.2o09.Climateandenvironmentalchange inarid Central Asia:Impacts,vulnerability，and adaptations.Journal of Arid Environments,73(11): 963-977.   \nLiu AD,ZengHX,Zhou Q.2014.EmpiricalstudyofdecouplingrelationshipbetweencarbonemsionsandexportradeofChina based on Tapio and LMDI. Forum on Science and Technology in China,10: 85-91.(in Chinese)   \nMannigB,MullerM,StarkeE,etal.20l3.DynamicaldownscalingofclimatechangeinCentralAsia.GlobalandPlanetaryChange, 110(Part A): 26-39.   \nMao ZF.2O14.Cosmopolitanismand globalrisk:News framingoftheasian financialcrisisand theeuropean debtcrisi. International Journal of Communication,8(1):1029-1048.   \nMercure JF,Salas P.20l2.Anassessementof global energyresource economic potentials.Energy,46(1):322-336.   \nMohsen CP,HossinP,ShahriyarSH,etal.2O16.Decomposing influencingfactors ofenergyconsumptionchangesitheiranian industrial subsectors:Thecomparisonof laspeyres and divisia methods. Quarterly Journal of Applied Theories ofEconomics, 2(4): 49-70.   \nNepal R,TisdellC,JamasbT2017.Economic reformsandcarbondioxideemisions inEuropean and Central AsianTrasition Economies.Economics,Ecology and Environment Working Papers,203:1-29.   \nOrganization for Economic Co-operationand Development (OECD).2o5.Decoupling: A conceptual overview. OECD Jourmal: General Papers,5(11): 1-32.   \nOhJ,YunC.2014.EnvironmentalKuznetscurverevisitedwith specialreferencetoEasternEuropeandCentralAsiaIteatioal Area Studies Review,17(4): 359-374.   \nOlcottMB.2006.The Shanghai Cooperation Organization Changing the \"Playing Field\" in Central Asia.Testimony before the Helsinki Commission. Helsinki, Finland.   \nPablo-Romero MdelP,Pozo-BarajasR,YiguezR.2017.Global changes inresidential energyconsumption.EnergyPolicy,01: 342-352.   \nPlyshevskiiB.2O14.ReformingtheeconomiesoftheCIS:KyrgyzstanandTajikistan.ProblemsofEconomicTransition,37(10): 24-42.   \nRowland R H.2Oo1.Regional populationchange in Kazakhstanduring the199Os andthe impactofnationalitypopulationpaterns: results from the recent census of Kazakhstan.Post-Soviet Geography and Economics,42(8): 571-614.   \nRuzievK,MajidovT.2O13.Difering effectsofthe globalfinancialcrisisontheCentral AsianCountries: Kazakhstan,theKyrgyz republic and Uzbekistan. Europe-Asia Studies,65(4): 682-716.   \nSiegfriedT,BernauerT,GuienetR,etal.2l2.Willclimatechange exacerbate waterstressiCentralAsia?ClimaticChange, 112(3-4): 881-899.   \nSun JW.1998.Changes inenergyconsumptionandenergy intensity:Acompletedecomposition model.EnergyEconomics,20(1): 85-100.   \nTang H,Chen D.2015.Development features and temporal-spatial evolutionof economy in Central Asia in thepast 20 years. Journal of University of Chinese Academy of Sciences,32(2): 214-220.(in Chinese)   \nTapioP.2005.Towardsatheoryofdecoupling:degresofdecouplingitheEUandthecaseofroadtrafic inFinlandbetween1970 and 2001. Transport Policy,12(2): 137-151.   \nVehmas J,LuukanenJ,KaivOjaJOo.LinkingnalysesadeviromentalKuzetsuresfogegatedaterialowsnte EU.Journal of Cleaner Production,15(17):1662-1673.   \nWang Q,ZhouP,ZhouD.201.Eficiency measurement withcarbo dioxide emisions: ThecaseofChina.Applied Energy,90(1): 161-166.   \nWang Q,LiR,Jiang R.2016.Decouplingand decompositionanalysis ofcarbon emissionsfromindustry:Acase studyfrom China. Sustainability, 8(10):1059.   \nWang Q,Jiang XT,LiR.2017.Comparative decoupling analysisofenergy-related carbon emission from electric outputof electricity sector in Shandong Province, China.Energy,127: 78-88.   \nWang W W, Zhang M, Zhou M. 2011. Using LMDI method to analyze transport sector $\\mathrm { C O } _ { 2 }$ emissions in China.Energy,36(10): 5909-5915.   \nYao HJ,Zhou HF,SuFC.2013.Water problems basedonspatial matching paterns of waterandland resources in Central Asia. Arid Zone Research,30(3):391-395.(in Chinese)   \nYaoL,Zhang H,Zhang C,etal.2018.Driving effectsof spatial diferencesof waterconsumption basedon LMDI model construction and data description. Cluster Computing,1-20.doi: org/10.1007/s10586-10018-12038-x.   \nZhang ZX,Wang XS,Song X Q.2011.Theregionalcomparison studyof Co-integration Relationship between China'scoal consumption and its economic growth.In: International Conference on Computer Distributed Control and Intellgent Environmental Monitoring. Changsha, China. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]
